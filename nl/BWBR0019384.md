@@ -4,7 +4,7 @@ identifier: "BWBR0019384"
 country: "nl"
 rank: "wet"
 publication_date: "2007-01-01"
-last_updated: "2005-12-28"
+last_updated: "2005-12-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019384"
 soort: "wet"
@@ -59,35 +59,35 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel I. [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Algemene Kinderbijslagwet.
 
 ##### Artikel II. [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Algemene nabestaandenwet.
 
 ##### Artikel III. [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Algemene Ouderdomswet.
 
 ##### Artikel IV. [Arbeidsomstandighedenwet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0010346)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Arbeidsomstandighedenwet 1998.
 
 ##### Artikel IVa. [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Toeslagenwet.
 
 ##### Artikel V. [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Werkloosheidswet.
 
 ##### Artikel VI. [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet arbeidsongeschiktheidsverzekering zelfstandigen.
 
 ##### Artikel VII. [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten.
 
 ##### Artikel VIII. [Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745)
 
@@ -99,11 +99,11 @@ Wijzigt de Wet Invoering en financiering Wet werk en inkomen naar arbeidsvermoge
 
 ##### Artikel X. [Wet kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017017)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet kinderopvang.
 
 ##### Artikel XI. [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de arbeidsongeschiktheidsverzekering.
 
 ##### Artikel XII. [Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060)
 
@@ -111,15 +111,15 @@ Wijzigt de Wet structuur uitvoeringsorganisatie werk en inkomen.
 
 ##### Artikel XIIa. [Wet verbetering poortwachter](https://wetten.overheid.nl/jci1.3:c:BWBR0013063)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet verbetering poortwachter.
 
 ##### Artikel XIII. [Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet werk en bijstand.
 
 ##### Artikel XIV. [Wet werk en inkomen kunstenaars](https://wetten.overheid.nl/jci1.3:c:BWBR0017837)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet werk en inkomen kunstenaars.
 
 ##### Artikel XV. [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057)
 
@@ -127,7 +127,7 @@ Wijzigt de Wet werk en inkomen naar arbeidsvermogen.
 
 ##### Artikel XVI. [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Ziektewet.
 
 ##### Artikel XVIa. [Invoeringswet Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017747)
 
@@ -135,14 +135,48 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XVIb. [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657)
 
-Dit onderdeel is nog niet inwerking getreden
+Vervallen.
 
 ### Hoofdstuk 2. Ministerie van Justitie
 
 ### Hoofdstuk 3. Ministerie van Binnenlandse Zaken
 
-### Hoofdstuk 4. Ministerie van Volksgezondheid, Welzijn en Sport
+### Hoofdstuk 3. Ministerie van Binnenlandse Zaken
 
 ### Hoofdstuk 5. Slotbepalingen
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel XVIc. [Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290)
+
+Wijzigt het Burgerlijk Wetboek Boek 7.
+
+##### Artikel XVII. [Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365)
+
+Wijzigt de Wet rechtspositie rechterlijke ambtenaren.
+
+### Hoofdstuk 4. Ministerie van Volksgezondheid, Welzijn en Sport
+
+##### Artikel XIX. [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614)
+
+Wijzigt de Algemene Wet Bijzondere Ziektekosten.
+
+### Hoofdstuk 5. Slotbepalingen
+
+##### Artikel XX. Slotbepaling betreffende de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045)
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel XXI. Nummering
+
+Voor de plaatsing van deze wet in het Staatsblad brengt Onze Minister van Sociale Zaken en Werkgelegenheid de aanhalingen van de artikelen van de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) die voorkomen in deze wet in overeenstemming met de op grond van [artikel 140 van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=140) vastgestelde nummering van [die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019057).
+
+##### Artikel XXII. Inwerkingtreding
+
+De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
+
+##### Artikel XXIII. Citeertitel
+
+Deze wet wordt aangehaald als: Aanpassings- en verzamelwet Wet werk en inkomen naar arbeidsvermogen.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
