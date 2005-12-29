@@ -4,7 +4,7 @@ identifier: "BWBR0002822"
 country: "nl"
 rank: "wet"
 publication_date: "2015-01-01"
-last_updated: "2004-01-01"
+last_updated: "2005-12-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002822"
 soort: "wet"
@@ -66,15 +66,15 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - c. arbeidsongeschiktheid:
 
-- 1°. voor de toepassing van [hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0002822&hoofdstuk=II&z=2004-01-01&g=2004-01-01):
+- 1°. voor de toepassing van [hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0002822&hoofdstuk=II&z=2005-12-29&g=2005-12-29):
 
 - a. ongeschiktheid tot het verrichten van arbeid als bedoeld in [artikel 46, zesde lid, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=46);
 
 - b. indien de in [artikel 46, zesde lid, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=46) bedoelde arbeid niet aanwijsbaar is, de arbeidsongeschiktheid als bedoeld in de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&wetgeving);
 
-- 2°. voor de toepassing van [hoofdstuk III](https://wetten.overheid.nl/jci1.3:c:BWBR0002822&hoofdstuk=III&z=2004-01-01&g=2004-01-01): arbeidsongeschiktheid als bedoeld in de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&wetgeving);
+- 2°. voor de toepassing van [hoofdstuk III](https://wetten.overheid.nl/jci1.3:c:BWBR0002822&hoofdstuk=III&z=2005-12-29&g=2005-12-29): arbeidsongeschiktheid als bedoeld in de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&wetgeving);
 
-- d. uitvoeringsorgaan: het in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002822&hoofdstuk=V&artikel=7&z=2004-01-01&g=2004-01-01) genoemde orgaan.
+- d. uitvoeringsorgaan: het in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002822&hoofdstuk=V&artikel=7&z=2005-12-29&g=2005-12-29) genoemde orgaan.
 
 2. Voor de toepassing van hetgeen bij of krachtens deze wet is bepaald wordt begrepen onder:
 
@@ -87,6 +87,8 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 - b. dag, waarop het verblijf in werkelijke dienst eindigt: de dag, met ingang waarvan ingevolge een desbetreffende beschikking de werkzaamheid als geestelijke verzorger, bedoeld onder **a**, 1°, in de krijgsmacht eindigt dan wel de dag, met ingang waarvan de vervangende dienst, bedoeld onder **a**, 2°, door groot verlof of door ontslag, indien dat ontslag niet is voorafgegaan door groot verlof, eindigt.
 
 3. De belanghebbende, die als gevolg van een ontslag uit de militaire dienst, onderscheidenlijk de burgerlijke openbare dienst, bedoeld in het tweede lid, onder **a**, 1°, of de vervangende dienst, bedoeld in dat lid, onder **a**, 2°, niet of niet langer voldoet aan de omschrijving van belanghebbende in het eerste of tweede lid, blijft voor de toepassing van deze wet nochtans als belanghebbende aangemerkt.
+
+4. Geen belanghebbende in de zin van deze wet is de persoon die op of na 29 december 2005 arbeidsongeschikt wordt.
 
 ##### Artikel 2
 
@@ -132,7 +134,7 @@ De ziekengelduitkering gaat in op de dag, waarop de arbeidsongeschiktheid is aan
 
 ##### Artikel 5a
 
-1. De [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=21), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=22), [40](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=40), [48](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=48), [53](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=53) en [59**b**, vierde lid, van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=59b), zoals die artikelen luidden op de dag voorafgaande aan die waarop de [Wet terugdringing beroep op de arbeidsongeschiktheidsregelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0006072) in werking is getreden, blijven van toepassing op de belanghebbende, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002822&hoofdstuk=III&artikel=5&z=2004-01-01&g=2004-01-01). De artikelen 21**a** en 21**b** zijn niet van toepassing op de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002822&hoofdstuk=III&artikel=5&z=2004-01-01&g=2004-01-01) bedoelde belanghebbende.
+1. De [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=21), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=22), [40](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=40), [48](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=48), [53](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=53) en [59**b**, vierde lid, van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=59b), zoals die artikelen luidden op de dag voorafgaande aan die waarop de [Wet terugdringing beroep op de arbeidsongeschiktheidsregelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0006072) in werking is getreden, blijven van toepassing op de belanghebbende, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002822&hoofdstuk=III&artikel=5&z=2005-12-29&g=2005-12-29). De artikelen 21**a** en 21**b** zijn niet van toepassing op de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002822&hoofdstuk=III&artikel=5&z=2005-12-29&g=2005-12-29) bedoelde belanghebbende.
 
 2. In afwijking van het eerste lid is [artikel 21, vierde lid, van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=21), zoals dat artikel luidt na de inwerkingtreding van de [Wet terugdringing beroep op de arbeidsongeschiktheidsregelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0006072), van toepassing.
 
@@ -160,7 +162,7 @@ De bepalingen betreffende de verplichte verzekering ingevolge de [Ziektewet](htt
 
 ##### Artikel 8a
 
-De [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=8) en [8**a** van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=8a) en [7**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=7a) en [7**b** van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=7b) zijn op degene, die een uitkering ingevolge deze wet ontvangt, niet van overeenkomstige toepassing.
+De [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=8) en [8a van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=8a) en [7a](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=7a) en [16, onderdeel c van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=16) zijn op degene, die een uitkering ingevolge deze wet ontvangt, niet van overeenkomstige toepassing.
 
 ##### Artikel 9
 
@@ -178,13 +180,13 @@ De uitgaven en de kosten verbonden aan de uitvoering van deze wet alsmede de ing
 
 ##### Artikel 12
 
-De bepalingen van deze wet zijn met uitzondering van [hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0002822&hoofdstuk=II&z=2004-01-01&g=2004-01-01) mede van toepassing ten aanzien van degene die arbeidsongeschikt is geworden op een tijdstip gelegen vóór 1 juli 1966 en wiens arbeidsongeschiktheid sedertdien onafgebroken heeft voortgeduurd, indien hij:
+De bepalingen van deze wet zijn met uitzondering van [hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0002822&hoofdstuk=II&z=2005-12-29&g=2005-12-29) mede van toepassing ten aanzien van degene die arbeidsongeschikt is geworden op een tijdstip gelegen vóór 1 juli 1966 en wiens arbeidsongeschiktheid sedertdien onafgebroken heeft voortgeduurd, indien hij:
 
 - a. ter zake van zijn arbeidsongeschiktheid geen aanspraken krachtens een andere wettelijke regeling kan doen gelden,
 
 - b. aan deze wet aanspraken zou hebben kunnen ontlenen, wanneer deze wet op dat tijdstip reeds in werking was getreden,
 
-met dien verstande, dat [hoofdstuk III](https://wetten.overheid.nl/jci1.3:c:BWBR0002822&hoofdstuk=III&z=2004-01-01&g=2004-01-01) geen toepassing vindt vóór de datum van inwerkingtreding van deze wet.
+met dien verstande, dat [hoofdstuk III](https://wetten.overheid.nl/jci1.3:c:BWBR0002822&hoofdstuk=III&z=2005-12-29&g=2005-12-29) geen toepassing vindt vóór de datum van inwerkingtreding van deze wet.
 
 ##### Artikel 13
 
@@ -202,7 +204,7 @@ Indien een belanghebbende in aansluiting op de maximumuitkeringstermijn, bedoeld
 
 ##### Artikel 15
 
-De [Algemene termijnenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002448) is niet van toepassing op de in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002822&hoofdstuk=II&artikel=3&z=2004-01-01&g=2004-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0002822&hoofdstuk=III&artikel=5&z=2004-01-01&g=2004-01-01) gestelde termijnen.
+De [Algemene termijnenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002448) is niet van toepassing op de in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002822&hoofdstuk=II&artikel=3&z=2005-12-29&g=2005-12-29) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0002822&hoofdstuk=III&artikel=5&z=2005-12-29&g=2005-12-29) gestelde termijnen.
 
 ##### Artikel 16
 
@@ -224,8 +226,14 @@ Deze wet kan worden aangehaald als "Wet arbeidsongeschiktheidsvoorziening milita
 
 Deze wet treedt in werking met ingang van de tweede kalendermaand na de datum van uitgifte van het **Staatsblad**, waarin zij wordt geplaatst en werkt terug voor wat betreft:
 
-- a. de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002822&hoofdstuk=I&artikel=1&z=2004-01-01&g=2004-01-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0002822&hoofdstuk=I&artikel=2&z=2004-01-01&g=2004-01-01), [5 tot en met 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002822&hoofdstuk=III&artikel=5&z=2004-01-01&g=2004-01-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0002822&hoofdstuk=VII&artikel=18&z=2004-01-01&g=2004-01-01) en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0002822&hoofdstuk=VII&artikel=19&z=2004-01-01&g=2004-01-01) tot 1 juli 1966;
+- a. de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002822&hoofdstuk=I&artikel=1&z=2005-12-29&g=2005-12-29), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0002822&hoofdstuk=I&artikel=2&z=2005-12-29&g=2005-12-29), [5 tot en met 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002822&hoofdstuk=III&artikel=5&z=2005-12-29&g=2005-12-29), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0002822&hoofdstuk=VII&artikel=18&z=2005-12-29&g=2005-12-29) en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0002822&hoofdstuk=VII&artikel=19&z=2005-12-29&g=2005-12-29) tot 1 juli 1966;
 
-- b. de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0002822&hoofdstuk=VII&artikel=16&z=2004-01-01&g=2004-01-01) en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0002822&hoofdstuk=VII&artikel=17&z=2004-01-01&g=2004-01-01) tot 1 januari 1970.
+- b. de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0002822&hoofdstuk=VII&artikel=16&z=2005-12-29&g=2005-12-29) en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0002822&hoofdstuk=VII&artikel=17&z=2005-12-29&g=2005-12-29) tot 1 januari 1970.
+
+Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 12a
+
+Dit onderdeel is nog niet inwerking getreden
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
