@@ -4,7 +4,7 @@ identifier: "BWBR0036968"
 country: "nl"
 rank: "amvb"
 publication_date: "2015-08-27"
-last_updated: "2004-12-01"
+last_updated: "2005-12-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036968"
 soort: "AMvB"
@@ -42,11 +42,11 @@ Wijzigt het Besluit algemene rechtspositie politie.
 
 ##### Artikel II
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Besluit bezoldiging politie.
 
 ##### Artikel III
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Besluit bovenwettelijke werkloosheidsuitkering politie.
 
 ##### Artikel IV
 
@@ -67,15 +67,3 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel VIII
 
 Dit onderdeel is nog niet inwerking getreden
-
-Op de voordracht van Onze Minister van Veiligheid en Justitie van 25 februari 2015, nr. 619259;
-
-Gelet op [artikel 47, eerste lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=47) en [artikel 10, vijfde lid, van de Wet op het LSOP en het politieonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0014623&artikel=10);
-
-De Afdeling advisering van de Raad van State gehoord, advies van 3 april 2015, nr. WO3.15.0046/II;
-
-Gezien het nader rapport van Onze Minister van Veiligheid en Justitie van 16 juli 2015, nr. 666156;
-
-Hebben goedgevonden en verstaan:
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
