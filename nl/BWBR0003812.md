@@ -4,7 +4,7 @@ identifier: "BWBR0003812"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2007-01-01"
-last_updated: "2002-04-07"
+last_updated: "2005-12-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003812"
 soort: "ministeriele-regeling"
@@ -40,13 +40,11 @@ Besluit:
 
 ##### Artikel 1
 
-1. Organen als bedoeld in artikel 19, vijfde lid, van de Algemene Ouderdomswet, [artikel 48, tweede lid, van de Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=48) en artikel 164, derde lid, van de Invaliditeitswet, welke belast wensen te worden met de betaalbaarstelling van pensioenen ingevolge de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221) uitkeringen ingevolge de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795) en renten ingevolge de Invaliditeitswet, kunnen daartoe vergunning vragen aan de Sociale verzekeringsbank.
-
-2. Organen als bedoeld in [artikel 50, zesde lid, van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=50), die belast wensen te worden met de betaalbaarstelling van door het Uitvoeringsinstituut werknemersverzekeringen toegekende dan wel toe te kennen uitkeringen op grond van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&wetgeving), kunnen daartoe toestemming vragen aan het Uitvoeringsinstituut werknemersverzekeringen.
+Organen als bedoeld in [artikel 50, zesde lid, van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=50) of [artikel 67, zesde lid, van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=67), die belast wensen te worden met de betaalbaarstelling van door het Uitvoeringsinstituut werknemersverzekeringen toegekende dan wel toe te kennen uitkeringen op grond van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) of betaalbaarstelling van uitkeringen waarop op grond van de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) recht bestaat, kunnen daartoe toestemming vragen aan het Uitvoeringsinstituut werknemersverzekeringen.
 
 ##### Artikel 2
 
-Voor een vergunning als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003812&artikel=1&z=2002-04-07&g=2002-04-07) kunnen slechts in aanmerking komen:
+Voor een vergunning als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003812&artikel=1&z=2005-12-29&g=2005-12-29) kunnen slechts in aanmerking komen:
 
 - a. publiekrechtelijke lichamen:
 
@@ -58,35 +56,23 @@ Voor een vergunning als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3
 
 ##### Artikel 3
 
-1. Een vergunning als bedoeld in [artikel 1 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003812&artikel=1&z=2002-04-07&g=2002-04-07), wordt niet afzonderlijk verleend ten aanzien van pensioenen ingevolge de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221) uitkeringen ingevolge de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795) enerzijds en renten ingevolge de Invaliditeitswet anderszijds.
+1. Een vergunning als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003812&artikel=1&z=2005-12-29&g=2005-12-29), gaat in op een door het Uitvoeringsinstituut werknemersverzekeringen te bepalen datum.
 
-2. Een vergunning als bedoeld in [artikel 1, eerste lid of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003812&artikel=1&z=2002-04-07&g=2002-04-07), gaat in op een door de Sociale verzekeringsbank onderscheidenlijk het Uitvoeringsinstituut werknemersverzekeringen te bepalen datum.
-
-3. Een vergunning als bedoeld in [artikel 1, eerste onderscheidenlijk tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003812&artikel=1&z=2002-04-07&g=2002-04-07), kan door de Sociale verzekeringsbank onderscheidenlijk de bedrijfsvereniging — evenwel niet dan met goedkeuring van de Sociale Verzekeringsraad — worden geweigerd of ingetrokken, indien verlening dan wel handhaving van zodanige vergunning de administratie van de Sociale verzekeringsbank onderscheidenlijk van het Uitvoeringsinstituut werknemersverzekeringen naar verhouding te veel zou verzwaren of de uitbetaling van de uitkeringen niet voldoende is gewaarborgd.
+2. Een vergunning als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003812&artikel=1&z=2005-12-29&g=2005-12-29), kan door het Uitvoeringsinstituut werknemersverzekeringen worden geweigerd of ingetrokken, indien verlening dan wel handhaving van zodanige vergunning de administratie van het Uitvoeringsinstituut werknemersverzekeringen naar verhouding te veel zou verzwaren of de uitbetaling van de uitkeringen niet voldoende is gewaarborgd.
 
 ##### Artikel 4
 
-1. De Sociale verzekeringsbank onderscheidenlijk het Uitvoeringsinstituut werknemersverzekeringen kan aan het orgaan, waaraan een vergunning als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003812&artikel=1&z=2002-04-07&g=2002-04-07), eerste en onderscheidenlijk tweede lid, is verleend, aanwijzingen en voorschriften geven ten aanzien van de uitbetaling van de uitkeringen, waarop die vergunning betrekking heeft.
+1. Het Uitvoeringsinstituut werknemersverzekeringen kan aan het orgaan, waaraan een vergunning als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003812&artikel=1&z=2005-12-29&g=2005-12-29), is verleend, aanwijzingen en voorschriften geven ten aanzien van de uitbetaling van de uitkeringen, waarop die vergunning betrekking heeft.
 
-2. Indien een vergunning als bedoeld in [artikel 1, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003812&artikel=1&z=2002-04-07&g=2002-04-07), is verleend, geschiedt de afrekening van de uitbetaalde uitkeringen volgens door de Sociale verzekeringsbank onderscheidenlijk het Uitvoeringsinstituut werknemersverzekeringen te stellen regelen.
+2. Indien een vergunning als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003812&artikel=1&z=2005-12-29&g=2005-12-29) is verleend, geschiedt de afrekening van de uitbetaalde uitkeringen volgens door het Uitvoeringsinstituut werknemersverzekeringen te stellen regelen.
 
 ##### Artikel 5
 
-Het bevoegde uitvoeringsorgaan deelt aan de degene, die gerechtigd is tot een of meer uitkeringen, genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003812&artikel=1&z=2002-04-07&g=2002-04-07), of, indien hij een wettelijke vertegenwoordiger heeft, aan deze, mede, door welk orgaan die uitkering of die uitkeringen zal onderscheidenlijk zullen worden uitbetaald
+Het bevoegde uitvoeringsorgaan deelt aan de degene, die gerechtigd is tot een of meer uitkeringen, genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003812&artikel=1&z=2005-12-29&g=2005-12-29), of, indien hij een wettelijke vertegenwoordiger heeft, aan deze, mede, door welk orgaan die uitkering of die uitkeringen zal onderscheidenlijk zullen worden uitbetaald
 
 ##### Artikel 6
 
-1. Een vergunning als bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003812&artikel=1&z=2002-04-07&g=2002-04-07), heeft geen betrekking op:
-
-- a. pensioenen ingevolge de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221), indien en voor zover deze met toepassing van artikel 19, tweede lid, van die wet niet aan de pensioengerechtigde zelf of aan zijn gemachtigde worden uitbetaald;
-
-- b. pensioenen ingevolge de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221), welke met toepassing van het bepaalde bij of krachtens artikel 20 van die wet worden uitbetaald;
-
-- c. uitkeringen ingevolge de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795) die met toepassing van artikel 49 of artikel 57 van die wet worden uitbetaald.
-
-- d. renten ingevolge de Invaliditeitswet, welke met toepassing van het bepaalde bij of krachtens artikel 165a van die wet worden uitbetaald.
-
-2. Een vergunning als bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003812&artikel=1&z=2002-04-07&g=2002-04-07), heeft geen betrekking op uitkeringen ingevolge de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&wetgeving), welke met toepassing van het bepaalde bij of krachtens artikel 54 van die wet worden uitbetaald.
+Een vergunning als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003812&artikel=1&z=2005-12-29&g=2005-12-29) heeft geen betrekking op uitkeringen als bedoeld in de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), die op grond van [artikel 54 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=54) worden uitbetaald en heeft ook geen betrekking op uitkeringen als bedoeld in de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) die met toepassing van artikel 8.2.5 van die wet worden uitbetaald.
 
 ##### Artikel 7
 
