@@ -1,0 +1,229 @@
+---
+title: "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 16 december 2005, Directie Sociale Verzekeringen, nr. SV/R&S/2005/102050, houdende regels met betrekking tot reïntegratie (Reïntegratieregeling)"
+identifier: "BWBR0019297"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-01-01"
+last_updated: "2005-12-29"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0019297"
+soort: "ministeriele-regeling"
+stam_id: "7738723"
+version_id: "25496692"
+internal_id: "C36387611"
+label_id: "7726574"
+dtd_version: "2.0"
+original_entry_into_force: "2019-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0019297/2026-01-01/0"
+intitule_bron: "Stcrt.2005-249"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2005-12-16"
+intitule_published: "2005-12-22"
+intitule_in_force: "2005-12-22"
+intitule_status: "goed"
+original_publication: "Stcrt.2018-69997"
+original_signed_date: "2018-12-05"
+original_published_date: "2018-12-13"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2018-69997"
+entry_into_force_date: "2019-01-01"
+jci_1_3: "jci1.3:c:BWBR0019297&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0019297&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Reïntegratieregeling"
+signed_date: "2018-12-05"
+entry_into_force: "2019-01-01"
+---
+# Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 16 december 2005, Directie Sociale Verzekeringen, nr. SV/R&S/2005/102050, houdende regels met betrekking tot reïntegratie (Reïntegratieregeling)
+
+Gelet op de [artikelen 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&artikel=5), en [15, eerste lid, van het Reïntegratiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=15), [artikel 65h van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=65h), [artikel 65 van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=65), [artikel 59i van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=59i), en [artikel 2.8 van de Wet Invoering en financiering Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019058&artikel=2.8);
+
+Besluit:
+
+#### § 1. Diversen
+
+##### Artikel 1. Begrippen
+
+1. In deze regeling wordt verstaan onder:
+
+- a. UWV: het Uitvoeringsinstituut werknemersverzekeringen, genoemd in hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werknemersverzekeringen;
+
+- b. WAO: [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524);
+
+- c. WAJONG: [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657);
+
+- d. WAZ: [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656);
+
+- e. Wet WIA: [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057).
+
+2. Voor de toepassing van deze regeling wordt gelijkgesteld met:
+
+- a. echtgenoot: de geregistreerde partner alsmede de ongehuwde meerderjarige die met een andere ongehuwde meerderjarige een gezamenlijke huishouding voert als bedoeld in [artikel 1, vierde en vijfde lid, van de Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&artikel=1), tenzij het betreft een bloedverwant in de eerste graad;
+
+- b. ongehuwd: de persoon die duurzaam gescheiden leeft van de persoon met wie hij gehuwd is.
+
+##### Artikel 2. Aanvraagtermijnen loon- en inkomenssuppletie
+
+1. Een aanvraag voor loonsuppletie als bedoeld in [artikel 65c van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=65c), [artikel 67a van de WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=67c)en [artikel 59f van de WAJONG](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=59f) wordt ingediend binnen twee maanden na aanvang van het werk in dienstbetrekking, dan wel bij aanvang van de werkzaamheden voordat een besluit over de mate van arbeidsongeschiktheid is genomen, binnen twee maanden nadat dat besluit is genomen.
+
+2. Een aanvraag voor inkomenssuppletie als bedoeld in [artikel 65d van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=65d), [artikel 67b van de WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=67b) en [artikel 59g van de WAJONG](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=59g)wordt ingediend binnen zes maanden na afloop van het boekjaar waarin de uitoefening van het bedrijf of beroep is voortgezet of waarin de persoon, die recht heeft op een uitkering op grond van een van de hiervoor genoemde wetten, werkzaamheden als zelfstandige is gaan verrichten.
+
+##### Artikel 3. Maximaal bedrag starterskrediet
+
+Het bedrag, bedoeld in [artikel 15, eerste lid, van het Reïntegratiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&artikel=15), wordt vastgesteld op € 31.113.
+
+#### § 2. Inkomenstoets vervoersvoorzieningen
+
+##### Artikel 4. Inkomen
+
+Voor de toepassing van [artikel 5, eerste lid, van het Reïntegratiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&artikel=5) wordt onder inkomen verstaan hetgeen op grond van [artikel 2 van het Inkomensbesluit Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019165&artikel=2) onder inkomen wordt verstaan.
+
+##### Artikel 5. Inkomen echtgenoot
+
+Bij de vaststelling van het inkomen van de persoon die de vervoersvoorziening aanvraagt of aan wie de vervoersvoorziening is toegekend, wordt mede in aanmerking genomen het inkomen van zijn echtgenoot.
+
+##### Artikel 6. Aftrekbare kosten
+
+Op het inkomen worden in mindering gebracht kosten ter zake van ziekte of arbeidsongeschiktheid van de persoon die de vervoersvoorziening aanvraagt of aan wie de vervoersvoorziening is toegekend, alsmede van zijn echtgenoot of van zijn gezinsleden indien zij voor hun levensonderhoud mede afhankelijk zijn van zijn inkomen, voorzover die kosten niet uit andere hoofde kunnen worden vergoed en naar het oordeel van het UWV als buitengewone lasten zijn aan te merken.
+
+##### Artikel 7. Buiten beschouwing blijvende bedragen bij inkomensvaststelling
+
+Bij het vaststellen van het inkomen blijft buiten beschouwing het bedrag waarmee de uitkering op grond van de [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), de [Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057), de [WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656) of de [WAJONG](https://wetten.overheid.nl/jci1.3:c:BWBR0008657), of een combinatie van deze uitkeringen is verhoogd, op grond van [artikel 22 van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=22), de [artikelen 53](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=53)of[63 van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=63), [artikel 10 van de WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=10), of [artikel 9 van de WAJONG](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=9), of een combinatie van deze artikelen.
+
+##### Artikel 8. Vaststelling inkomen van personen die de leeftijd van 18 jaar nog niet hebben bereikt
+
+1. Bij de vaststelling van het inkomen van de persoon die de vervoersvoorziening aanvraagt of aan wie de vervoersvoorziening is toegekend en die de leeftijd van 18 jaar nog niet heeft bereikt wordt in aanmerking genomen het gezamenlijk inkomen van de ouders van die persoon dan wel, indien het een pleegkind betreft, het gezamenlijk inkomen van de pleegouders indien laatstgenoemden het pleegkind als eigen kind opvoeden en onderhouden.
+
+2. Indien de ouders respectievelijk pleegouders van de in het eerste lid bedoelde persoon geen echtgenoten zijn van elkaar en hij:
+
+- a. bij een van beide ouders verblijft, wordt bij de toepassing van het eerste lid als inkomen van de ouder respectievelijk pleegouder die krachtens overeenkomst of rechterlijke uitspraak een bijdrage is verschuldigd voor het levensonderhoud ten behoeve van die persoon, slechts die bijdrage in aanmerking genomen;
+
+- b. afwisselend bij een van beide ouders respectievelijk pleegouders verblijft, wordt alvorens het gezamenlijk inkomen als bedoeld in het eerste lid wordt vastgesteld, het inkomen van de ouder respectievelijk pleegouder met het hoogste inkomen verminderd met 30 procent.
+
+##### Artikel 9. Vaststelling van het inkomen in het jaar van het bereiken van de leeftijd van 18 jaar
+
+Indien een persoon in het kalenderjaar waarin hij een vervoersvoorziening heeft of aanvraagt, de leeftijd van 18 jaar bereikt, wordt:
+
+- a. tot de datum waarop hij 18 jaar wordt, het inkomen in aanmerking genomen dat in aanmerking zou zijn genomen indien hij gedurende het gehele kalenderjaar nog niet de leeftijd van 18 jaar had bereikt;
+
+- b. vanaf de datum waarop hij 18 jaar wordt, het inkomen in aanmerking genomen dat in aanmerking zou zijn genomen indien hij gedurende het gehele kalenderjaar reeds de leeftijd van 18 jaar had bereikt.
+
+##### Artikel 10. Vaststelling van het inkomen in het jaar van het bereiken van de leeftijd van 65 jaar
+
+1. Indien een persoon aan wie een vervoersvoorziening is toegekend de leeftijd van 65 jaar bereikt, wordt voor de toepassing van [artikel 5, eerste lid, van het Reïntegratiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&artikel=5) onder inkomen verstaan het inkomen dat deze persoon over dat kalenderjaar zou hebben genoten indien hij in dat jaar niet de 65-jarige leeftijd had bereikt.
+
+2. Indien de echtgenoot van de persoon, bedoeld in het eerste lid, in hetzelfde jaar als het jaar, bedoeld in het eerste lid, de leeftijd van 65 jaar bereikt, wordt voor de toepassing van artikel 3 van deze regeling onder inkomen van zijn echtgenoot verstaan, het inkomen dat de echtgenoot over dat kalenderjaar zou hebben genoten indien de echtgenoot in dat jaar niet de 65-jarige leeftijd had bereikt.
+
+##### Artikel 11. Afwijking inkomensgrens
+
+Voor de persoon die een vervoersvoorziening aanvraagt of aan wie een vervoersvoorziening is toegekend en van wie de echtgenoot of een ander gezinslid aanspraak op een vervoersvoorziening heeft, of van wie de echtgenoot of een ander gezinslid om een andere reden dan ziekte of gebrek is aangewezen op het gebruik van een vervoermiddel, wordt het percentage, bedoeld in [artikel 5, eerste lid, van het Reïntegratiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&artikel=5), vastgesteld op 105%.
+
+##### Artikel 12. Buiten toepassing blijven van inkomensgrens
+
+[Artikel 5, eerste lid, van het Reïntegratiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&artikel=5) is niet van toepassing bij de toekenning van een vervoersvoorziening die betreft:
+
+- 1°. een vergoeding van de kosten van aanpassing van een vervoermiddel of een vergoeding van een in een vervoermiddel aangebrachte faciliteit, voorzover de aanpassing of de faciliteit noodzakelijk is in verband met ziekte of gebrek;
+
+- 2°. een vergoeding voor de aanschaf, of een verstrekking, van een vervoermiddel voor het vervoer buitenshuis dat is bestemd voor het gebruik door een persoon met een ziekte of gebrek;
+
+- 3°. een vergoeding van de meerkosten van de aanschaf en het gebruik van een bijzonder type auto die samenhangt met ziekte of gebrek, voorzover deze meerkosten niet meer bedragen dan het verschil tussen de kosten van de aanschaf en het gebruik van een auto die door het UWV wordt beschouwd als een referentie-auto en de kosten van de aanschaf en het gebruik van een auto die door het UWV zou zijn toegekend indien er sprake zou zijn geweest van een bruikleensituatie;
+
+- 4°. de vergoeding van het gebruik van een rolstoeltaxi en die vergoeding niet meer bedraagt dan het verschil tussen het door het UWV vastgestelde normbedrag voor de vergoeding van het gebruik van een rolstoeltaxi en het door het UWV werknemersverzekeringen vastgestelde normbedrag voor de vergoeding van het gebruik van een taxi;
+
+- 5°. de vergoeding van het gebruik van een taxi om de werkplek te kunnen bereiken en die vergoeding niet meer bedraagt het verschil tussen de kosten van het gebruik van een taxi en het door het UWV vastgestelde normbedrag voor het gebruik van een eigen auto;
+
+- 6°. een vergoeding van de kosten die iemand moet maken voor het kunnen volgen van rijlessen in een aangepaste auto en die vergoeding niet meer bedraagt dan het verschil tussen de kosten van het volgen van autorijlessen in een niet aangepaste auto en het volgen van autorijlessen in een aangepaste auto;
+
+- 7°. een vergoeding van vervoerskosten in verband met het volgen van scholing.
+
+#### § 3. Fondsbelasting ten behoeve van het Reïntegratiefonds
+
+##### Artikel 13. Verdeling werkloosheidsfondsen/arbeidsongeschiktheidsfondsen
+
+1. De middelen ter dekking van de uitgaven ten laste van het Reïntegratiefonds, bedoeld in [artikel 2.8, eerste lid, onderdeel a, van de Wet Invoering en financiering Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019058&artikel=2.8), worden voor 50 procent verkregen uit de werkloosheidsfondsen en voor 50 procent uit de arbeidsongeschiktheidsfondsen gezamenlijk.
+
+2. Onder arbeidsongeschiktheidsfondsen, bedoeld in het eerste lid, worden verstaan het Arbeidsongeschiktheidsfonds, genoemd in [artikel 112 van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=112), en het Arbeidsongeschktheidsfonds jonggehandicapten, genoemd in [artikel 63 van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=63).
+
+3. Onder de werkloosheidsfondsen, bedoeld in het eerste lid, worden verstaan het Algemeen Werkloosheidsfonds en het Uitvoeringsfonds voor de overheid.
+
+##### Artikel 14. Onderlinge verdeling arbeidsongeschiktheidsfondsen
+
+De ten laste van het Arbeidsongeschiktheidsfonds en het Arbeidsongeschiktheidsfonds jonggehandicapten, komende bijdrage aan het Reïntegratiefonds in een bepaald kalenderjaar, wordt voor elk van deze fondsen bepaald aan de hand van de volgende formule:
+
+Bf t = [ Uf t–2 : U t-2] × B t
+
+waarbij :
+
+- 1. Bf t het bedrag is van de bijdrage uit een arbeidsongeschiktheidsfonds tot dekking van de uitgaven in een bepaald kalenderjaar ten laste van het Reïntegratiefonds;
+
+- 2. Uf t–2 het bedrag is van de uitkeringsuitgaven die in het tweede kalenderjaar voorafgaand aan het genoemd bepaald kalenderjaar ten laste zijn gekomen van het desbetreffende arbeidsongeschiktheidsfonds;
+
+- 3. U t-2 het totaalbedrag is van de uitkeringsuitgaven die in het tweede kalenderjaar voorafgaand aan genoemd bepaalde kalenderjaar ten laste zijn gekomen van de arbeidsongeschiktheidsfondsengezamenlijk;
+
+- 4. B t 50 procent is van de benodigde middelen tot dekking van de uitgaven in genoemd bepaald kalenderjaar ten laste van het Reïntegratiefonds.
+
+##### Artikel 15. Onderlinge verdeling werkloosheidsfondsen
+
+De ten laste van de werkloosheidsfondsen komende bijdrage aan het Reïntegratiefonds in een bepaald kalenderjaar, wordt voor elk van deze fondsen bepaald aan de hand van de volgende formule:
+
+Bf t = [ Uf t–2 : U t-2] × B t
+
+waarbij :
+
+- 1. Bf t het bedrag is van de bijdrage uit een werkloosheidsfonds, tot dekking van de uitgaven in een bepaald kalenderjaar ten laste van het Reïntegratiefonds;
+
+- 2. Uf t–2 het bedrag is van de uitkeringsuitgaven die in het tweede kalenderjaar voorafgaand aan genoemd bepaald kalenderjaar ten laste zijn gekomen van het desbetreffende werkloosheidsfonds;
+
+- 3. U t–2 het totaalbedrag is van de uitkeringsuitgaven die in het tweede kalenderjaar voorafgaand aan genoemd bepaald kalenderjaar ten laste zijn gekomen van de werkloosheidsfondsen gezamenlijk;
+
+- 4. B t 50 procent is van de benodigde middelen tot dekking van de uitgaven in genoemd bepaald kalenderjaar ten laste van het Reïntegratiefonds.
+
+##### Artikel 16. Inwerkingtreding
+
+Deze regeling treedt in werking met ingang van 29 december 2005.
+
+##### Artikel 17. Citeertitel
+
+Deze regeling wordt aangehaald als: Reïntegratieregeling.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 12a. Inkomen
+
+Voor de toepassing van [artikel 15b, eerste lid, van het Reïntegratiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&artikel=15b) wordt onder inkomen verstaan hetgeen op grond van [artikel 2 van het Inkomensbesluit Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019165&artikel=2) onder inkomen wordt verstaan.
+
+##### Artikel 12b. Aftrekbare kosten
+
+[Artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0019297&paragraaf=2&artikel=6&z=2010-04-01&g=2010-04-01) is van overeenkomstige toepassing op het inkomen, bedoeld in [artikel 12a](https://wetten.overheid.nl/jci1.3:c:BWBR0019297&paragraaf=2a&artikel=12a&z=2010-04-01&g=2010-04-01).
+
+#### § 3. Fondsbelasting ten behoeve van het Reïntegratiefonds
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 4a. Overgangsrecht
+
+1. In afwijking van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0019297&paragraaf=2&artikel=4&z=2012-03-01&g=2012-03-01) wordt voor de zelfstandige of de beroepsbeoefenaar op arbeidsovereenkomst, bedoeld in [artikel 3:17, eerste lid, onder a en b, van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:17), die op 1 maart 2012 een uitkering op grond van die wet heeft aangevraagd of ontvangt die uitkering niet onder inkomen verstaan.
+
+2. Dit artikel vervalt met ingang van 1 januari 2013.
+
+#### § 2a. Inkomenstoets voorzieningen bij inschakeling in en ondersteuning bij arbeid als zelfstandige
+
+##### Artikel 12ab. Overgangsrecht
+
+1. In afwijking van [artikel 12a](https://wetten.overheid.nl/jci1.3:c:BWBR0019297&paragraaf=2a&artikel=12a&z=2012-03-01&g=2012-03-01) wordt voor de zelfstandige of de beroepsbeoefenaar op arbeidsovereenkomst, bedoeld in [artikel 3:17, eerste lid, onder a en b, van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:17), die op 1 maart 2012 een uitkering op grond van die wet heeft aangevraagd of ontvangt die uitkering niet onder inkomen verstaan.
+
+2. Dit artikel vervalt met ingang van 1 januari 2013.
+
+#### § 3. Fondsbelasting ten behoeve van het Reïntegratiefonds
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+#### § 4. Overgangs- en slotbepalingen
+
+##### Artikel 15a. Overgangsbepaling
+
+1. De [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0019297&paragraaf=2&artikel=4&z=2019-01-01&g=2019-01-01) en [12a](https://wetten.overheid.nl/jci1.3:c:BWBR0019297&paragraaf=2a&artikel=12a&z=2019-01-01&g=2019-01-01) zoals deze luidden op de dag voor de datum van inwerkingtreding van de Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 5 december 2018, 2018-0000144973 tot wijziging van enkele ministeriële regelingen in verband met enkele technische wijzigingen (Stcrt. 2018, nr. 69997) blijven van toepassing ten aanzien van personen aan wie op die dag reeds (leef)vervoersvoorzieningen of voorzieningen bij inschakeling in en ondersteuning bij arbeid als zelfstandige als bedoeld in de [artikelen 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&artikel=5), en [15b, eerste lid, van het Reïntegratiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&artikel=15b) zijn toegekend.
+
+2. Dit artikel vervalt met ingang van 1 juli 2019.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
