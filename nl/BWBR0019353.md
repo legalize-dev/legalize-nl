@@ -4,7 +4,7 @@ identifier: "BWBR0019353"
 country: "nl"
 rank: "zbo"
 publication_date: "2005-12-30"
-last_updated: "2005-12-29"
+last_updated: "2005-12-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019353"
 soort: "zbo"
@@ -41,7 +41,7 @@ Besluit:
 
 In dit besluit wordt verstaan onder:
 
-- a. Wet WIA: [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&wetgeving);
+- a. Wet WIA: [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057);
 
 - b. verzekerde: de persoon bedoeld in de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=7), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=10) en [16 van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=16);
 
@@ -175,7 +175,7 @@ In dit besluit wordt verstaan onder:
 
 3. Aan een bijstelling van de reïntegratievisie waarin de verplichtingen van de verzekerde worden verminderd, kan terugwerkende kracht worden verleend.
 
-4. [Artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0019353&artikel=12&z=2005-12-30&g=2005-12-29) is van overeenkomstige toepassing op het reïntegratieplan en op bijstellingen van de reïntegratievisie.
+4. [Artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0019353&artikel=12&z=2005-12-30&g=2005-12-30) is van overeenkomstige toepassing op het reïntegratieplan en op bijstellingen van de reïntegratievisie.
 
 ##### Artikel 14. Schorsing van de uitkering
 
@@ -195,7 +195,7 @@ In dit besluit wordt verstaan onder:
 
 3. Hoogte en duur van de op te leggen maatregel worden bepaald aan de hand van het [Maatregelenbesluit UWV](https://wetten.overheid.nl/jci1.3:c:BWBR0017084).
 
-4. [Artikel 14, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019353&artikel=14&z=2005-12-30&g=2005-12-29), is van overeenkomstige toepassing op het besluit over de maatregel.
+4. [Artikel 14, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019353&artikel=14&z=2005-12-30&g=2005-12-30), is van overeenkomstige toepassing op het besluit over de maatregel.
 
 ##### Artikel 16. Inwerkingtreding
 
