@@ -4,7 +4,7 @@ identifier: "BWBR0019286"
 country: "nl"
 rank: "wet"
 publication_date: "2008-01-01"
-last_updated: "2005-11-16"
+last_updated: "2005-12-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019286"
 soort: "wet"
@@ -60,7 +60,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel V
 
-Wijzigt de Wet op de vennootschapsbelasting 1969.
+Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VI
 
@@ -68,7 +68,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VII
 
-Wijzigt de Wet op de dividendbelasting 1965.
+Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VIIa
 
@@ -80,7 +80,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VIII
 
-Wijzigt de Wet op de belastingen van rechtsverkeer.
+Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel IX
 
@@ -108,7 +108,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XV
 
-Wijzigt de Wet belastingen op milieugrondslag.
+Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XVI
 
@@ -120,7 +120,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XVIII
 
-Wijzigt de Wet op de internationale bijstandsverlening bij de heffing van belastingen.
+Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XIX
 
@@ -168,7 +168,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXVIII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet aanpassing fiscale behandeling VUT/prepensioen en introductie levensloopregeling.
 
 ##### Artikel XXVIIIa
 
@@ -213,3 +213,11 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel XXXVI
 
 Dit onderdeel is nog niet inwerking getreden
+
+Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
+
+Alzo Wij in overweging genomen hebben, dat het in het kader van het fiscale beleid voor het jaar 2006 wenselijk is maatregelen te treffen op het gebied van arbeidsmarkt- en inkomensbeleid, economische infrastructuur, mobiliteit en milieu, alsmede enkele overige maatregelen te treffen;
+
+Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
