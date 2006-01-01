@@ -4,7 +4,7 @@ identifier: "BWBR0005551"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2006-01-01"
-last_updated: "1992-06-27"
+last_updated: "2006-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005551"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ Deze regeling is van toepassing op woningen en bijzondere woongebouwen waarvoor 
 
 ##### Artikel 2
 
-Voor de aanpassing van de jaarlijkse bijdragen bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005551&artikel=1&z=1992-06-27&g=1992-06-27) aan de ontwikkeling van de exploitatiekosten wordt bij de vaststelling van de ontwikkeling van de belastingnorm de daarin opgenomen onroerend goedbelasting en de helft van de rioolrechten, beide zoals jaarlijks bekend gemaakt door het Centraal Bureau voor de Statistiek, gevolgd, met dien verstande, dat ingeval van een stijging de aanpassing ten hoogste gelijk is aan de door genoemd Bureau bekend gemaakte stijging van het indexcijfer voor consumptie-prijzen, reeks voor werknemersgezinnen, met verlaagde weging voor medische verzorging en exclusief de invloed van wijzigingen in de indirecte belastingen en de subsidies, van welke gezinnen het inkomen de grens bedoeld in [artikel 3 van de Ziekenfondswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002460&artikel=3) (Stb. 1964, 392) niet overschrijdt.
+Voor de aanpassing van de jaarlijkse bijdragen bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005551&artikel=1&z=2006-01-01&g=2006-01-01) aan de ontwikkeling van de exploitatiekosten wordt bij de vaststelling van de ontwikkeling van de belastingnorm de daarin opgenomen onroerend goedbelasting en de helft van de rioolrechten, beide zoals jaarlijks bekend gemaakt door het Centraal Bureau voor de Statistiek, gevolgd, met dien verstande, dat ingeval van een stijging de aanpassing ten hoogste gelijk is aan de door genoemd Bureau bekend gemaakte stijging van het indexcijfer voor consumptie-prijzen, reeks voor werknemersgezinnen, met verlaagde weging voor medische verzorging en exclusief de invloed van wijzigingen in de indirecte belastingen en de subsidies, van welke gezinnen het inkomen niet hoger is dan € 33.000,– per jaar.
 
 ##### Artikel 3
 
