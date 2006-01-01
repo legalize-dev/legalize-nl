@@ -4,7 +4,7 @@ identifier: "BWBR0014119"
 country: "nl"
 rank: "amvb"
 publication_date: "2017-07-01"
-last_updated: "2003-01-19"
+last_updated: "2006-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014119"
 soort: "AMvB"
@@ -70,7 +70,7 @@ In dit besluit wordt verstaan onder:
 
 - 4°. een effecteninstelling als bedoeld in [artikel 1, onderdeel d, van de Wet toezicht effectenverkeer 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&artikel=1);
 
-- 5°. een tussenpersoon als bedoeld in [artikel 1, onderdeel b, van de Wet assurantiebemiddelingsbedrijf](https://wetten.overheid.nl/jci1.3:c:BWBR0004993&artikel=1);
+- 5°. een bemiddelaar in verzekeringen, als bedoeld in [artikel 1 van de Wet financiële dienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0018329&artikel=1);
 
 - 6°. een natuurlijke persoon, rechtspersoon of vennootschap die beroeps- of bedrijfsmatig ten behoeve van of op verzoek van een ander munten of bankbiljetten wisselt, munten of bankbiljetten uitbetaald, tegen inlevering van een of meer cheques of munten of bankbiljetten uitbetaald op vertoon van een creditcard;
 
@@ -118,13 +118,13 @@ De melding bevat, voor zover mogelijk, de volgende gegevens:
 
 ##### Artikel 4
 
-1. Het meldpunt is bevoegd bij degene die een melding heeft gedaan, alsmede bij degene die bij een financiële dienst als bedoeld in [artikel 1, onderdeel d, onder 8°](https://wetten.overheid.nl/jci1.3:c:BWBR0014119&artikel=1&z=2003-01-19&g=2003-01-19), bij een transactie is betrokken waarover het meldpunt gegevens heeft verzameld, nadere gegevens of inlichtingen te vragen, teneinde te kunnen beoordelen of verzamelde gegevens dienen te worden verstrekt op grond van zijn taak bedoeld in [artikel 3, onderdeel b, van de Wet melding ongebruikelijke transacties](https://wetten.overheid.nl/jci1.3:c:BWBR0006331&artikel=3).
+1. Het meldpunt is bevoegd bij degene die een melding heeft gedaan, alsmede bij degene die bij een financiële dienst als bedoeld in [artikel 1, onderdeel d, onder 8°](https://wetten.overheid.nl/jci1.3:c:BWBR0014119&artikel=1&z=2006-01-01&g=2006-01-01), bij een transactie is betrokken waarover het meldpunt gegevens heeft verzameld, nadere gegevens of inlichtingen te vragen, teneinde te kunnen beoordelen of verzamelde gegevens dienen te worden verstrekt op grond van zijn taak bedoeld in [artikel 3, onderdeel b, van de Wet melding ongebruikelijke transacties](https://wetten.overheid.nl/jci1.3:c:BWBR0006331&artikel=3).
 
 2. Degene aan wie overeenkomstig het eerste lid deze gegevens of inlichtingen zijn gevraagd, is verplicht deze aan het meldpunt schriftelijk, alsmede in spoedeisende gevallen mondeling, te verstrekken binnen de door het meldpunt gestelde termijn.
 
 ##### Artikel 5
 
-Degene die ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014119&artikel=2&z=2003-01-19&g=2003-01-19) een melding doet, is verplicht tot geheimhouding daarvan, onverminderd het bepaalde in [artikel 10 van de Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296&artikel=10), behoudens voor zover uit de doelstelling van dit besluit de noodzaak tot bekendmaking voortvloeit.
+Degene die ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014119&artikel=2&z=2006-01-01&g=2006-01-01) een melding doet, is verplicht tot geheimhouding daarvan, onverminderd het bepaalde in [artikel 10 van de Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296&artikel=10), behoudens voor zover uit de doelstelling van dit besluit de noodzaak tot bekendmaking voortvloeit.
 
 ##### Artikel 6
 
