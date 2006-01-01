@@ -4,7 +4,7 @@ identifier: "BWBR0008421"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2006-01-01"
-last_updated: "2002-01-01"
+last_updated: "2006-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008421"
 soort: "ministeriele-regeling"
@@ -69,7 +69,7 @@ In dit reglement wordt verstaan onder:
 
 ##### Artikel 3. Doel van de registratie
 
-De registratie heeft ten doel gegevens vast te leggen van de zaken die in het kader van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008421&paragraaf=1&artikel=2&z=2002-01-01&g=2002-01-01) worden behandeld en van personen en instellingen die daarbij zijn betrokken, ten behoeve van:
+De registratie heeft ten doel gegevens vast te leggen van de zaken die in het kader van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008421&paragraaf=1&artikel=2&z=2006-01-01&g=2006-01-01) worden behandeld en van personen en instellingen die daarbij zijn betrokken, ten behoeve van:
 
 - a. een doelmatig dossierbeheer;
 
@@ -77,7 +77,7 @@ De registratie heeft ten doel gegevens vast te leggen van de zaken die in het ka
 
 - c. de vaststellingsactiviteiten ten aanzien van de ouderbijdragetaak;
 
-- d. de innings- en doorbetalingsactiviteiten ten aanzien van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008421&paragraaf=1&artikel=2&z=2002-01-01&g=2002-01-01) vermelde taken;
+- d. de innings- en doorbetalingsactiviteiten ten aanzien van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008421&paragraaf=1&artikel=2&z=2006-01-01&g=2006-01-01) vermelde taken;
 
 - e. het verkrijgen van gegevens over de door het LBIO behandelde zaken in verband met het gevoerde of te voeren beleid;
 
@@ -117,11 +117,11 @@ In de registratie worden uitsluitend gegevens opgenomen over:
 
 - f. de plaatsende instellingen, verantwoordelijk voor de aan en afmeldingen van de plaatsingen in het kader van de [Wet op de Jeugdhulpverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0004608);
 
-- g. instellingen in het buitenland belast met de uitvoering van de taak genoemd in [artikel 2 onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0008421&paragraaf=1&artikel=2&z=2002-01-01&g=2002-01-01).
+- g. instellingen in het buitenland belast met de uitvoering van de taak genoemd in [artikel 2 onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0008421&paragraaf=1&artikel=2&z=2006-01-01&g=2006-01-01).
 
 ##### Artikel 7. Opgenomen gegevens
 
-1. Met betrekking tot de in [artikel 6 onder a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0008421&paragraaf=2&artikel=6&z=2002-01-01&g=2002-01-01) genoemde personen worden in de registratie ten hoogste opgenomen:
+1. Met betrekking tot de in [artikel 6 onder a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0008421&paragraaf=2&artikel=6&z=2006-01-01&g=2006-01-01) genoemde personen worden in de registratie ten hoogste opgenomen:
 
 - a. naam, voornamen, roepnaam, voorvoegsels, voorleters, geslacht, huwelijksgegevens, geboortedatum, overlijdensdatum, geboorteplaats, geboorteland, nationaliteit, woonadres, postadres, landcode, postcode, regiocode, woonplaats, telefoonnummer, doorkiesnummer, telefaxnummer;
 
@@ -157,7 +157,7 @@ In de registratie worden uitsluitend gegevens opgenomen over:
 
 - q. giro-, bankrekeningnummer.
 
-2. Met betrekking tot de in [artikel 6 onder d, e, f en g](https://wetten.overheid.nl/jci1.3:c:BWBR0008421&paragraaf=2&artikel=6&z=2002-01-01&g=2002-01-01) genoemde personen en instellingen wordt ten hoogste opgenomen:
+2. Met betrekking tot de in [artikel 6 onder d, e, f en g](https://wetten.overheid.nl/jci1.3:c:BWBR0008421&paragraaf=2&artikel=6&z=2006-01-01&g=2006-01-01) genoemde personen en instellingen wordt ten hoogste opgenomen:
 
 naam, voorvoegsels, voorletters, contactpersoon, adres, postcode, landcode, telefoon, doorkiesnummer, telefax, gironummer, naam van de bank/banknummer.
 
@@ -165,7 +165,7 @@ naam, voorvoegsels, voorletters, contactpersoon, adres, postcode, landcode, tele
 
 De gegevens die in de registratie zijn opgenomen zijn slechts afkomstig van:
 
-- personen bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0008421&paragraaf=2&artikel=6&z=2002-01-01&g=2002-01-01)
+- personen bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0008421&paragraaf=2&artikel=6&z=2006-01-01&g=2006-01-01)
 
 - gerechtelijke instanties
 
@@ -194,8 +194,6 @@ De gegevens die in de registratie zijn opgenomen zijn slechts afkomstig van:
 - Gemeentelijke Sociale Diensten
 
 - Sociale Verzekeringsbank
-
-- Ziekenfondsen
 
 - Bedrijfsverenigingen
 
@@ -237,9 +235,9 @@ Rechtstreeks toegang tot de registratie en zelfstandige raadpleging van de daari
 
 1. Uit de registratie worden, voorzover zulks voortvloeit uit het doel van de registratie of wordt vereist ingevolge een wettelijke voorschrift, dan wel geschiedt met toestemming van de geregistreerde, uitsluitend gegevens verstrekt aan:
 
-- a. personen behorende bij de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0008421&paragraaf=2&artikel=6&z=2002-01-01&g=2002-01-01) genoemde categorieën, voorzover het betreft de taken waarbij zij zijn betrokken;
+- a. personen behorende bij de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0008421&paragraaf=2&artikel=6&z=2006-01-01&g=2006-01-01) genoemde categorieën, voorzover het betreft de taken waarbij zij zijn betrokken;
 
-- b. medewerkers van het LBIO voorzover de informatieverstrekking het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008421&paragraaf=1&artikel=3&z=2002-01-01&g=2002-01-01) genoemde doel dient;
+- b. medewerkers van het LBIO voorzover de informatieverstrekking het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008421&paragraaf=1&artikel=3&z=2006-01-01&g=2006-01-01) genoemde doel dient;
 
 - c. buitenlandse instellingen in het kader van het Verdrag van New York;
 
@@ -273,11 +271,11 @@ Rechtstreeks toegang tot de registratie en zelfstandige raadpleging van de daari
 
 ##### Artikel 13. Correctierecht van geregistreerde
 
-1. Degene aan wie overeenkomstig [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0008421&paragraaf=4&artikel=11&z=2002-01-01&g=2002-01-01) kennis is gegeven van hem betreffende persoonsgegevens, kan de houder schriftelijk verzoeken deze te verbeteren, aan te vullen of te verwijderen, indien de gegevens feitelijk onjuist zijn, voor het doel van de registratie onvolledig of niet ter zake dienend zijn dan wel in strijd met een wettelijk voorschrift in de registratie voorkomen.
+1. Degene aan wie overeenkomstig [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0008421&paragraaf=4&artikel=11&z=2006-01-01&g=2006-01-01) kennis is gegeven van hem betreffende persoonsgegevens, kan de houder schriftelijk verzoeken deze te verbeteren, aan te vullen of te verwijderen, indien de gegevens feitelijk onjuist zijn, voor het doel van de registratie onvolledig of niet ter zake dienend zijn dan wel in strijd met een wettelijk voorschrift in de registratie voorkomen.
 
-2. Het verzoek bevat de aan te brengen wijzigingen. [Artikel 12 tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008421&paragraaf=5&artikel=12&z=2002-01-01&g=2002-01-01) is van overeenkomstige toepassing.
+2. Het verzoek bevat de aan te brengen wijzigingen. [Artikel 12 tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008421&paragraaf=5&artikel=12&z=2006-01-01&g=2006-01-01) is van overeenkomstige toepassing.
 
-3. Binnen twee maanden na ontvangst van het verzoek bericht de houder schriftelijk of, en in hoeverre hij daaraan voldoet. [Artikel 12, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008421&paragraaf=5&artikel=12&z=2002-01-01&g=2002-01-01), is van overeenkomstige toepassing.
+3. Binnen twee maanden na ontvangst van het verzoek bericht de houder schriftelijk of, en in hoeverre hij daaraan voldoet. [Artikel 12, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008421&paragraaf=5&artikel=12&z=2006-01-01&g=2006-01-01), is van overeenkomstige toepassing.
 
 4. De houder draagt zorg dat een beslissing tot verbetering, aanvulling of verwijdering zo spoedig mogelijk wordt uitgevoerd.
 
@@ -285,9 +283,9 @@ Rechtstreeks toegang tot de registratie en zelfstandige raadpleging van de daari
 
 1. De geregistreerde of ‐ indien deze de leeftijd van zestien jaar nog niet heeft bereikt dan wel onder curatele is gesteld diens wettelijke vertegenwoordiger kan de houder tevens verzoeken hem mede te delen of en zo ja welke op de geregistreerde betrekking hebbende gegevens in het jaar voorafgaande aan het verzoek uit de registratie aan derden zijn verstrekt.
 
-2. [Artikel 12, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008421&paragraaf=5&artikel=12&z=2002-01-01&g=2002-01-01) is van overeenkomstige toepassing.
+2. [Artikel 12, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008421&paragraaf=5&artikel=12&z=2006-01-01&g=2006-01-01) is van overeenkomstige toepassing.
 
-3. De houder beantwoordt het verzoek schriftelijk binnen een maand na ontvangst. [Artikel 12, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008421&paragraaf=5&artikel=12&z=2002-01-01&g=2002-01-01) is van overeenkomstige toepassing.
+3. De houder beantwoordt het verzoek schriftelijk binnen een maand na ontvangst. [Artikel 12, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008421&paragraaf=5&artikel=12&z=2006-01-01&g=2006-01-01) is van overeenkomstige toepassing.
 
 ##### Artikel 15. Kosten
 
