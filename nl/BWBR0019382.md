@@ -4,7 +4,7 @@ identifier: "BWBR0019382"
 country: "nl"
 rank: "amvb"
 publication_date: "2006-01-01"
-last_updated: "2005-07-01"
+last_updated: "2006-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019382"
 soort: "AMvB"
@@ -38,7 +38,7 @@ entry_into_force: "2006-01-01"
 
 ### Hoofdstuk 1. Wijziging van het Uitvoeringsbesluit Algemene wet inkomensafhankelijke regelingen
 
-### Hoofdstuk 2. Wijziging van andere besluiten
+### Hoofdstuk 1. Wijziging van het Uitvoeringsbesluit Algemene wet inkomensafhankelijke regelingen
 
 ### Hoofdstuk 3. Overgangs- en slotbepalingen
 
@@ -62,7 +62,7 @@ Indien de huurder uiterlijk op 30 november 2005 een aanvraag tot toekenning van 
 
 ##### Artikel XVII. Inwerkingtreding
 
-Dit onderdeel is nog niet inwerking getreden
+Dit besluit treedt in werking met ingang van 1 januari 2006, met dien verstande dat de [artikelen XV](https://wetten.overheid.nl/jci1.3:c:BWBR0019382&hoofdstuk=3&artikel=XV&z=2006-01-01&g=2006-01-01) en [XVI van dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0019382&hoofdstuk=3&artikel=XVI&z=2006-01-01&g=2006-01-01) terugwerken tot en met 1 juli 2005.
 
 Op de voordracht van de Staatssecretaris van Financiën van 21 november 2005, nr. WDB 2005-00736 M, gedaan mede namens Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;
 
