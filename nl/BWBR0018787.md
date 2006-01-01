@@ -4,7 +4,7 @@ identifier: "BWBR0018787"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2006-01-01"
-last_updated: "2005-11-01"
+last_updated: "2006-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018787"
 soort: "ministeriele-regeling"
@@ -44,19 +44,19 @@ Besluit:
 
 ##### Artikel I
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Uitvoeringsregeling inkomstenbelasting 2001.
 
 ##### Artikel II
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Uitvoeringsregeling loonbelasting 2001.
 
 ##### Artikel III
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Uitvoeringsregeling werknemersspaarregelingen en winstdelingsregelingen.
 
 ##### Artikel IV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Regeling loonbelasting- en premietabellen 1990.
 
 ##### Artikel V
 
