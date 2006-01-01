@@ -4,7 +4,7 @@ identifier: "BWBR0013817"
 country: "nl"
 rank: "wet"
 publication_date: "2023-01-01"
-last_updated: "2005-01-01"
+last_updated: "2006-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013817"
 soort: "wet"
@@ -54,7 +54,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - c. publiekrechtelijk lichaam: een provincie, dan wel een gemeente;
 
-- d. regionaal openbaar lichaam: een regionaal openbaar lichaam als bedoeld in [artikel 1, onder d, van de Kaderwet bestuur in verandering](https://wetten.overheid.nl/jci1.3:c:BWBR0006620&artikel=1);
+- d. regionaal openbaar lichaam: een plusregio als bedoeld in [artikel 104 van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=104) die de gemeente of gemeenten Amsterdam, Arnhem en Nijmegen, Eindhoven en Helmond, Enschede en Hengelo, ’s-Gravenhage, Rotterdam of Utrecht omvat;
 
 - e. omzetbelasting: de belasting die wordt geheven in de lidstaten van de Europese Unie krachtens de nationale wetgeving die is gebaseerd op de Zesde BTW-richtlijn, alsmede de belasting die het karakter van een omzetbelasting heeft en krachtens de nationale wetgeving wordt geheven in de EVA-staten genoemd in artikel 2, onderdeel b, van de Overeenkomst betreffende de Europese Economische Ruimte;
 
@@ -150,15 +150,15 @@ Het recht op bijdrage ontstaat op het tijdstip waarop de omzetbelasting aan het 
 
 ##### Artikel 8
 
-Onze Minister kan nadere regels stellen omtrent de bijdrage ingeval de goederen en diensten zowel worden bestemd of gebezigd in het kader van de onderneming van het publiekrechtelijk lichaam of regionaal openbaar lichaam als in het kader van andere doeleinden van het publiekrechtelijk lichaam of regionaal openbaar lichaam. Onze Minister kan voorts nadere regels stellen omtrent de bijdrage ingeval de goederen en diensten worden bestemd of gebezigd mede ten behoeve van prestaties als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0013817&artikel=4&z=2005-01-01&g=2005-01-01).
+Onze Minister kan nadere regels stellen omtrent de bijdrage ingeval de goederen en diensten zowel worden bestemd of gebezigd in het kader van de onderneming van het publiekrechtelijk lichaam of regionaal openbaar lichaam als in het kader van andere doeleinden van het publiekrechtelijk lichaam of regionaal openbaar lichaam. Onze Minister kan voorts nadere regels stellen omtrent de bijdrage ingeval de goederen en diensten worden bestemd of gebezigd mede ten behoeve van prestaties als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0013817&artikel=4&z=2006-01-01&g=2006-01-01).
 
 ##### Artikel 9
 
-1. De inspecteur als bedoeld in [artikel 1, onderdeel j](https://wetten.overheid.nl/jci1.3:c:BWBR0013817&artikel=1&z=2005-01-01&g=2005-01-01), is mede bevoegd voor de toepassing van deze wet ten aanzien van het publiekrechtelijk lichaam of regionaal openbaar lichaam.
+1. De inspecteur als bedoeld in [artikel 1, onderdeel j](https://wetten.overheid.nl/jci1.3:c:BWBR0013817&artikel=1&z=2006-01-01&g=2006-01-01), is mede bevoegd voor de toepassing van deze wet ten aanzien van het publiekrechtelijk lichaam of regionaal openbaar lichaam.
 
 2. Voor het einde van de maand volgend op het tijdvak waarin het recht op bijdrage is ontstaan, dan wel een eerder verstrekte of nog te verstrekken bijdrage geheel of gedeeltelijk verschuldigd is geworden, wordt daarvan opgave gedaan. De inspecteur kan bij beschikking afwijken van de opgave.
 
-3. Na afloop van het kalenderjaar stelt de inspecteur de bijdrage over dat jaar op grond van de bepalingen van deze wet bij beschikking vast. Het verschil tussen de bij de in de vorige volzin bedoelde beschikking vastgestelde bijdrage en de over het kalenderjaar verstrekte voorschotten wordt zes maanden na het kalenderjaar uitbetaald, teruggevorderd dan wel verrekend met omzetbelasting die verschuldigd is op grond van de [Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629), met inachtneming van het bepaalde in [artikel 2, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013817&artikel=2&z=2005-01-01&g=2005-01-01), over de minimale hoogte van de bijdrage.
+3. Na afloop van het kalenderjaar stelt de inspecteur de bijdrage over dat jaar op grond van de bepalingen van deze wet bij beschikking vast. Het verschil tussen de bij de in de vorige volzin bedoelde beschikking vastgestelde bijdrage en de over het kalenderjaar verstrekte voorschotten wordt zes maanden na het kalenderjaar uitbetaald, teruggevorderd dan wel verrekend met omzetbelasting die verschuldigd is op grond van de [Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629), met inachtneming van het bepaalde in [artikel 2, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013817&artikel=2&z=2006-01-01&g=2006-01-01), over de minimale hoogte van de bijdrage.
 
 4. Indien uiterlijk vijf jaren na het einde van het kalenderjaar blijkt dat bijdrage over dat jaar is verstrekt tot een hoger of lager bedrag dan waarop het publiekrechtelijk lichaam of regionaal openbaar lichaam op grond van deze wet recht heeft, stelt de inspecteur de hoogte van de bijdrage over het desbetreffende kalenderjaar vast bij beschikking en wordt het verschil met de over dat kalenderjaar verstrekte bijdrage uitbetaald, teruggevorderd dan wel verrekend met omzetbelasting en de daarover berekende heffingsrente. Voor de toepassing van dit lid wordt rente berekend op grond van het vijfde lid beschouwd als bijdrage.
 
