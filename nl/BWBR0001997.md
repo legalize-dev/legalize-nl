@@ -4,7 +4,7 @@ identifier: "BWBR0001997"
 country: "nl"
 rank: "wet"
 publication_date: "2020-07-17"
-last_updated: "2005-03-16"
+last_updated: "2006-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0001997"
 soort: "wet"
@@ -46,7 +46,7 @@ Zoo is het, dat Wij, den Raad van State gehoord, en met gemeen overleg der State
 
 ##### Artikel 1
 
-1. Voor de toepassing van deze wet wordt verstaan onder "Onze Minister": Onze Minister van Economische Zaken, dan wel, voor zover het betreft de toepassing van de [artikelen 3 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0001997&paragraaf=1&artikel=3&z=2005-03-16&g=2005-03-16), [15, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001997&paragraaf=2&artikel=15&z=2005-03-16&g=2005-03-16), en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0001997&paragraaf=2&artikel=17&z=2005-03-16&g=2005-03-16) met betrekking tot de voedselvoorziening, Onze Minister van Landbouw, Natuurbeheer en Visserij.
+1. Voor de toepassing van deze wet wordt verstaan onder "Onze Minister": Onze Minister van Economische Zaken, dan wel, voor zover het betreft de toepassing van de [artikelen 3 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0001997&paragraaf=1&artikel=3&z=2006-01-01&g=2006-01-01), [15, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001997&paragraaf=2&artikel=15&z=2006-01-01&g=2006-01-01), en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0001997&paragraaf=2&artikel=17&z=2006-01-01&g=2006-01-01) met betrekking tot de voedselvoorziening, Onze Minister van Landbouw, Natuurbeheer en Visserij.
 
 2. In deze wet en de daarop berustende bepalingen wordt mede verstaan onder goederen: elektriciteit.
 
@@ -106,9 +106,9 @@ Dit onderdeel is nog niet inwerking getreden
 
 2. De burgemeester is het hoofd van den dienst en als zoodanig met de leiding daarvan belast. Hij kan, onder goedkeuring van Onzen Minister, een ander aanwijzen, die namens hem met de dagelijksche leiding van den dienst is belast. Hij stelt voor dezen een instructie vast.
 
-3. De burgemeester draagt er zorg voor, dat zodanige voorbereidingen getroffen worden, dat in geval van inwerkingtreding van een of meer van de in [artikel 24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001997&paragraaf=3&artikel=24&z=2005-03-16&g=2005-03-16), bedoelde artikelen, de distributiedienst tijdig de noodzakelijke handelingen ter uitvoering van het bij of krachtens die artikelen bepaalde kan verrichten.
+3. De burgemeester draagt er zorg voor, dat zodanige voorbereidingen getroffen worden, dat in geval van inwerkingtreding van een of meer van de in [artikel 24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001997&paragraaf=3&artikel=24&z=2006-01-01&g=2006-01-01), bedoelde artikelen, de distributiedienst tijdig de noodzakelijke handelingen ter uitvoering van het bij of krachtens die artikelen bepaalde kan verrichten.
 
-4. In het geval, bedoeld in lid 3, onder **a** van het vorig artikel, regelen de burgemeesters onder Onze goedkeuring de inrichting van den distributiedienst in den kring. Zij kunnen daarbij één der gemeenten als centrale gemeente aanwijzen. Bij de door de burgemeesters te treffen gemeenschappelijke regeling kan geen openbaar lichaam als bedoeld in [artikel 8, eerste lid, van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=8) worden ingesteld. De [artikelen 2 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=2), [36 tot en met 39](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=36) en [99 tot en met 103**l** van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=99) zijn niet van toepassing.
+4. In het geval, bedoeld in lid 3, onder **a** van het vorig artikel, regelen de burgemeesters onder Onze goedkeuring de inrichting van den distributiedienst in den kring. Zij kunnen daarbij één der gemeenten als centrale gemeente aanwijzen. Bij de door de burgemeesters te treffen gemeenschappelijke regeling kan geen openbaar lichaam als bedoeld in [artikel 8, eerste lid, van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=8) worden ingesteld. De [artikelen 99 tot en met 103l van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=99) zijn niet van toepassing.
 
 5. Indien binnen een door Onzen Minister te bepalen termijn een regeling niet aan Onze goedkeuring is onderworpen of Wij die niet goedkeuren, wordt de regeling door Ons vastgesteld.
 
@@ -160,7 +160,7 @@ Deze wet wordt aangehaald als: Distributiewet.
 
 ##### Artikel 24
 
-Deze wet treedt in werking, voor wat betreft de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0001997&paragraaf=1&artikel=1&z=2005-03-16&g=2005-03-16), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0001997&paragraaf=2&artikel=11&z=2005-03-16&g=2005-03-16) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0001997&paragraaf=2&artikel=12&z=2005-03-16&g=2005-03-16), met ingang van den dag na dien harer afkondiging. De overige artikelen treden in werking op een bij koninklijk besluit te bepalen tijdstip.
+Deze wet treedt in werking, voor wat betreft de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0001997&paragraaf=1&artikel=1&z=2006-01-01&g=2006-01-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0001997&paragraaf=2&artikel=11&z=2006-01-01&g=2006-01-01) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0001997&paragraaf=2&artikel=12&z=2006-01-01&g=2006-01-01), met ingang van den dag na dien harer afkondiging. De overige artikelen treden in werking op een bij koninklijk besluit te bepalen tijdstip.
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst en dat alle Ministerieele Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
@@ -182,7 +182,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 22c
 
-1. Onverminderd de [artikelen 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=7), en [8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=8) kunnen, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, voor het gehele land of een gedeelte daarvan de [artikelen 4 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0001997&paragraaf=1&artikel=4&z=2005-03-16&g=2005-03-16) en [artikel 10a](https://wetten.overheid.nl/jci1.3:c:BWBR0001997&paragraaf=1a&artikel=10a&z=2005-03-16&g=2005-03-16) gezamenlijk of afzonderlijk in werking worden gesteld.
+1. Onverminderd de [artikelen 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=7), en [8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=8) kunnen, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, voor het gehele land of een gedeelte daarvan de [artikelen 4 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0001997&paragraaf=1&artikel=4&z=2006-01-01&g=2006-01-01) en [artikel 10a](https://wetten.overheid.nl/jci1.3:c:BWBR0001997&paragraaf=1a&artikel=10a&z=2006-01-01&g=2006-01-01) gezamenlijk of afzonderlijk in werking worden gesteld.
 
 2. Wanneer het in het eerste lid bedoelde besluit is genomen, wordt onverwijld een voorstel van wet aan de Tweede Kamer gezonden omtrent het voortduren van de werking van de bij dat besluit in werking gestelde bepalingen.
 
