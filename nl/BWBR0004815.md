@@ -4,7 +4,7 @@ identifier: "BWBR0004815"
 country: "nl"
 rank: "wet"
 publication_date: "2019-01-01"
-last_updated: "2004-01-01"
+last_updated: "2006-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004815"
 soort: "wet"
@@ -96,10 +96,6 @@ Deze wet geldt slechts voor krediettransacties, waaraan de kredietgever en, in v
 
 1. Deze wet geldt niet voor krediettransacties, waarbij de kredietsom meer dan € 40 000 bedraagt.
 
-2. In afwijking van het eerste lid geldt het bepaalde bij of krachtens [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=III&artikel=26&z=2004-01-01&g=2004-01-01) mede ten aanzien van krediettransacties waarbij de kredietsom meer dan veertigduizend euro bedraagt.
-
-3. Het in het eerste en tweede lid genoemde bedrag kan bij algemene maatregel van bestuur in verband met geldontwaarding, dan wel in verband met een herziening van de in de richtlijn genoemde bedragen ingevolge artikel 13, tweede lid, van de richtlijn, worden gewijzigd. Een zodanige maatregel kan niet eerder dan twee jaar na het tijdstip van in werking treden van deze wet worden vastgesteld en vervolgens niet eerder dan twee jaar na het vaststellen van de vorige maatregel. Het nieuw vast te stellen bedrag kan slechts € 2 500 of een veelvoud daarvan afwijken van het voordien geldende bedrag, tenzij de wijziging verband houdt met een herziening als bedoeld in artikel 13, tweede lid, van de richtlijn. Een aldus bij algemene maatregel van bestuur vastgesteld bedrag treedt in de plaats van het in het eerste en tweede lid genoemde bedrag.
-
 ##### Artikel 4
 
 1. Deze wet geldt voorts niet voor krediettransacties:
@@ -124,7 +120,7 @@ Deze wet geldt slechts voor krediettransacties, waaraan de kredietgever en, in v
 
 - j. waaraan wordt deelgenomen door openbare lichamen, ter uitvoering van een wettelijke taak.
 
-2. In afwijking van het eerste lid geldt het bepaalde bij of krachtens de [artikelen 26](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=III&artikel=26&z=2004-01-01&g=2004-01-01) en [69](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=X&artikel=69&z=2004-01-01&g=2004-01-01) mede ten aanzien van krediettransacties als bedoeld in het eerste lid, onder f en h.
+2. Vervallen.
 
 3. Indien een kredietgever bij het deelnemen aan krediettransacties als bedoeld in het eerste lid, onder **a**, handelt in strijd met hetgeen van een goed kredietgever in het maatschappelijk verkeer mag worden verwacht kan Onze Minister deze wet dan wel een of meer bepalingen daarvan van toepassing verklaren ter zake van zodanige krediettransacties.
 
@@ -132,9 +128,7 @@ Deze wet geldt slechts voor krediettransacties, waaraan de kredietgever en, in v
 
 ##### Artikel 5
 
-1. [Hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=II&z=2004-01-01&g=2004-01-01) van deze wet geldt niet voor kredietverlening door een gemeentelijke kredietbank.
-
-2. De [artikelen 33, onder **d**](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=2&artikel=33&z=2004-01-01&g=2004-01-01), en [40](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=4&artikel=40&z=2004-01-01&g=2004-01-01) gelden niet voor kredietverlening door een gemeentelijke kredietbank:
+De [artikelen 33, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=2&artikel=33&z=2006-01-01&g=2006-01-01), en [40](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=4&artikel=40&z=2006-01-01&g=2006-01-01) gelden niet voor kredietverlening door een gemeentelijke kredietbank:
 
 - a. waaraan als kredietnemer deelneemt:
 
@@ -148,15 +142,11 @@ Deze wet geldt slechts voor krediettransacties, waaraan de kredietgever en, in v
 
 ##### Artikel 6
 
-Een gemeentelijke kredietbank wordt opgericht en opgeheven bij of ingevolge een daartoe strekkend besluit van de gemeenteraad. Het besluit wordt onderworpen aan de goedkeuring van gedeputeerde staten.
+Vervallen
 
 ##### Artikel 7
 
-1. De gemeenteraad stelt voor de bedrijfsvoering van de gemeentelijke kredietbank een reglement vast, waaruit ten minste dient te blijken op welke wijze zal worden voldaan aan het bepaalde bij of krachtens de [hoofdstukken III](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=III&z=2004-01-01&g=2004-01-01) en [IV](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&z=2004-01-01&g=2004-01-01) van deze wet.
-
-2. In het reglement worden regels gesteld van gelijke strekking als het voorschrift, bedoeld in [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=II&afdeling=1&artikel=14&z=2004-01-01&g=2004-01-01).
-
-3. Het reglement wordt onderworpen aan de goedkeuring van gedeputeerde staten.
+Vervallen
 
 ##### Artikel 8
 
@@ -168,221 +158,105 @@ Vervallen
 
 ##### Artikel 9
 
-Het is verboden zonder daartoe verleende vergunning krediet te verlenen, dan wel zich als kredietgever voor te doen.
+Vervallen
 
 ##### Artikel 10
 
-1. Bij of krachtens algemene maatregel van bestuur worden regels gesteld betreffende de wijze, waarop de aanvraag om een vergunning moet worden ingediend, de gegevens welke daarbij moeten worden verstrekt en de bescheiden die daarbij moeten worden overgelegd.
-
-2. De aanvrager is ten gunste van ’s Rijks schatkist een bij of krachtens de maatregel vast te stellen bedrag verschuldigd.
+Vervallen
 
 ##### Artikel 11
 
-1. Op een aanvraag om een vergunning wordt beslist door Onze Minister.
-
-2. Op de aanvraag wordt beslist binnen drie maanden na ontvangst van de aanvraag.
+Vervallen
 
 ##### Artikel 12
 
-1. Een vergunning kan worden verleend aan een rechtspersoon met volledige rechtsbevoegdheid en daarbij aangesloten instellingen te zamen, indien die rechtspersoon:
-
-- a. beschikt over voldoende statutaire bevoegdheden jegens de aangesloten instellingen om een handelen van een zodanige instelling in strijd met het bij of krachtens deze wet bepaalde, dan wel met hetgeen anderszins van een goed kredietgever in het maatschappelijk verkeer mag worden verwacht, tegen te kunnen gaan,
-
-- b. beschikt over voldoende mogelijkheden tot deskundige ondersteuning van de aangesloten instellingen, en
-
-- c. gemachtigd is die instellingen bij de vergunningaanvraag en ook overigens voor de toepassing van dit hoofdstuk te vertegenwoordigen.
-
-2. Indien na de verlening van een vergunning als bedoeld in het eerste lid een instelling zich op gelijke voet aansluit bij de rechtspersoon, gaat de vergunning mede gelden voor die instelling.
+Vervallen
 
 ##### Artikel 13
 
-Onze Minister verleent de vergunning tenzij er gegronde reden is om aan te nemen dat:
-
-- a. de feitelijke toestand niet met het in of bij de aanvraag vermelde in overeenstemming is of zal zijn;
-
-- b. bij de kredietverlening in strijd zal worden gehandeld met het bij of krachtens deze wet bepaalde dan wel met hetgeen anderszins van een goed kredietgever in het maatschappelijk verkeer mag worden verwacht;
-
-- c. de aanvrager bij de kredietverlening niet voor eigen rekening en risico zal optreden.
+Vervallen
 
 ##### Artikel 14
 
-1. Een vergunning kan onder beperkingen worden verleend. Aan een vergunning kunnen voorschriften worden verbonden.
-
-2. Aan de vergunning wordt het voorschrift verbonden dat de houder op een daarbij aan te geven wijze dient deel te nemen aan een stelsel van kredietregistratie, tenzij dit voorschrift naar het oordeel van Onze Minister in redelijkheid niet aan de vergunning kan worden verbonden.
-
-3. Aan een vergunning als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=II&afdeling=1&artikel=12&z=2004-01-01&g=2004-01-01) wordt het voorschrift verbonden dat aan Onze Minister melding moet worden gedaan van de aansluiting van een instelling als bedoeld in [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=II&afdeling=1&artikel=12&z=2004-01-01&g=2004-01-01), onderscheidenlijk van de beëindiging daarvan.
+Vervallen
 
 ##### Artikel 14a
 
-Zodra een instelling ingevolge[artikel 52, tweede lid, onder **c**, **d**, **f** onderscheidenlijk **g**, van de Wet toezicht kredietwezen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005792&artikel=52) in het in dat artikel bedoelde register is ingeschreven, beschikt die instelling, voor zover het aan die instelling ingevolge [artikel 31, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=1&artikel=31&z=2004-01-01&g=2004-01-01), [32, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005792&artikel=32), [50, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005792&artikel=50), onderscheidenlijk [artikel 51](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=VII&artikel=51&z=2004-01-01&g=2004-01-01) van genoemde wet is toegestaan krediet te verlenen, over een van rechtswege, zonder beperkingen, verleende vergunning als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=II&afdeling=1&artikel=9&z=2004-01-01&g=2004-01-01) van deze wet.
+Vervallen
 
 ##### Artikel 14b
 
-1. Zodra de inschrijving van een instelling als bedoeld in [artikel 14**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=II&afdeling=1&artikel=14a&z=2004-01-01&g=2004-01-01) openbaar is gemaakt, zendt Onze Minister die instelling onverwijld een schriftelijke bevestiging van de in dat artikel bedoelde vergunning, vergezeld van een verzoek tot het verschaffen van de in het tweede lid bedoelde gegevens en bescheiden betreffende de kredietverlening.
-
-2. Bij ministeriële regeling wordt bepaald welke gegevens en bescheiden moeten worden verstrekt, alsmede op welke wijze dit dient te geschieden.
-
-3. De instelling doet de gegevens en bescheiden binnen drie maanden na ontvangst van het in het eerste lid bedoelde verzoek toekomen aan Onze Minister.
+Vervallen
 
 ##### Artikel 14c
 
-1. Onze Minister kan binnen drie maanden na de dag waarop de in [artikel 14**b**](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=II&afdeling=1&artikel=14b&z=2004-01-01&g=2004-01-01) bedoelde gegevens en bescheiden zijn ontvangen in het belang van een goede uitvoering van deze wet voorschriften verbinden aan de vergunning van de betrokken instelling.
-
-2. [Artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=II&afdeling=1&artikel=14&z=2004-01-01&g=2004-01-01), is van toepassing.
+Vervallen
 
 ##### Artikel 15
 
-Op schriftelijk verzoek van de vergunninghouder kan Onze Minister de beperkingen en voorschriften wijzigen, aanvullen of intrekken, alsnog beperkingen aanbrengen of voorschriften aan de vergunning verbinden dan wel de vergunning intrekken.
+Vervallen
 
 ##### Artikel 16
 
-1. Onze Minister kan een aanwijzing geven aan de vergunninghouder:
-
-- a. die handelt in strijd met de bij of krachtens deze wet gegeven voorschriften;
-
-- b. die anderszins handelt in strijd met hetgeen van een goed kredietgever in het maatschappelijk verkeer mag worden verwacht;
-
-- c. die bij de kredietverlening niet voor eigen rekening en risico optreedt.
-
-2. De aanwijzing vermeldt de handelingen welke de vergunninghouder naar het oordeel van Onze Minister dient te verrichten of na te laten.
-
-3. Onze Minister kan bij het geven van de aanwijzing verklaren dat deze buiten beschouwing blijft voor de toepassing van [artikel 17, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=II&afdeling=1&artikel=17&z=2004-01-01&g=2004-01-01).
-
-4. Onze Minister kan een aanwijzing ter openbare kennis brengen wanneer deze niet meer door een beslissing in beroep kan worden getroffen.
+Vervallen
 
 ##### Artikel 17
 
-1. Buiten de gevallen, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=II&afdeling=1&artikel=15&z=2004-01-01&g=2004-01-01), kan een vergunning door Onze Minister worden ingetrokken of beperkt of kunnen daaraan door hem voorschriften worden verbonden:
-
-- a. indien de te harer verkrijging verstrekte gegevens zodanig onjuist of onvolledig blijken, dat de vergunning zou zijn geweigerd, onderscheidenlijk onder beperkingen of met voorschriften zou zijn verleend, indien bij de behandeling van de aanvraag de juiste gegevens bekend waren geweest;
-
-- b. indien binnen twee jaar, nadat een krachtens [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=II&afdeling=1&artikel=16&z=2004-01-01&g=2004-01-01) aan de houder gegeven aanwijzing onherroepelijk is geworden, zich wederom een geval als bedoeld in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=II&afdeling=1&artikel=16&z=2004-01-01&g=2004-01-01), voordoet;
-
-- c. indien de vergunninghouder aan een aanwijzing geen gevolg geeft;
-
-- d. indien de vergunninghouder gedurende een periode van ten minste twaalf opeenvolgende maanden minder dan honderd kredieten heeft verleend;
-
-- e. indien de vergunninghouder in staat van faillissement is komen te verkeren, indien ten aanzien van hem de schuldsaneringsregeling natuurlijke personen van toepassing is verklaard of indien door een rechterlijke beschikking één of meer goederen van de vergunninghouder onder een bewind als bedoeld in [artikel 380](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=380), [409](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=409) of [431 van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=431) zijn gesteld of indien diens ondercuratelestelling is uitgesproken.
-
-2. Een vergunning wordt door Onze Minister ingetrokken of beperkt of daaraan worden door hem voorschriften verbonden, indien blijkt van gedragingen van de vergunninghouder of van handelingen in zijn onderneming welke in zodanige mate indruisen tegen hetgeen van een goed kredietgever in het maatschappelijk verkeer redelijkerwijs mag worden verwacht dat het krediet verlenen hem niet langer dan wel slechts met beperkingen of onder voorschriften kan worden toegestaan.
-
-3. Het bepaalde in het eerste lid, onder **a**, **d** en **e**, is niet van toepassing ten aanzien van de houder van een vergunning als bedoeld in [artikel 14**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=II&afdeling=1&artikel=14a&z=2004-01-01&g=2004-01-01).
+Vervallen
 
 ##### Artikel 18
 
-1. De vergunning vervalt, behoudens het bepaalde in het tweede lid, door:
-
-- a. overlijden van de vergunninghouder;
-
-- b. het onherroepelijk worden van een rechterlijke beschikking houdende ondercuratelestelling van de vergunninghouder;
-
-- c. fusie of splitsing van de rechtspersoon aan wie de vergunning is verleend;
-
-- d. ontbinding van de rechtspersoon aan wie de vergunning is verleend;
-
-- e. overdracht door de vergunninghouder van de onderneming waarvoor de vergunning is verleend.
-
-2. Indien toepassing is gegeven aan [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=II&afdeling=1&artikel=12&z=2004-01-01&g=2004-01-01) en zich een van de in het eerste lid bedoelde feiten of omstandigheden voordoet ten aanzien van een van de aangesloten instellingen, vervalt de werking van de vergunning voor de betrokken instelling. Indien het de in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=II&afdeling=1&artikel=12&z=2004-01-01&g=2004-01-01) genoemde rechtspersoon als zodanig betreft, vervalt de vergunning in haar geheel.
-
-3. Het bepaalde in het eerste en tweede lid is niet van toepassing ten aanzien van een vergunning als bedoeld in [artikel 14**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=II&afdeling=1&artikel=14a&z=2004-01-01&g=2004-01-01). Een zodanige vergunning vervalt zodra de inschrijving, bedoeld in [artikel 14**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=II&afdeling=1&artikel=14a&z=2004-01-01&g=2004-01-01), is komen te vervallen.
-
-4. Indien zich een geval als bedoeld in het eerste, tweede of derde lid voordoet en de onderneming waarvoor de vergunning werd verleend, onderscheidenlijk waarvoor de vergunning mede geldt, aan een andere persoon is overgedragen of op een andere persoon is overgegaan, blijft de vergunning voor die persoon gelden gedurende twee maanden na de dag waarop ingevolge het eerste, tweede of derde lid de vergunning, onderscheidenlijk de werking daarvan, zou vervallen en, indien binnen die tijdsruimte door die persoon een nieuwe vergunning is aangevraagd, verder tot het tijdstip waarop de beslissing op de aanvraag onherroepelijk is geworden.
+Vervallen
 
 ##### Artikel 19
 
-Van het tijdstip af waarop de vergunning is vervallen of ingetrokken, onderscheidenlijk de werking daarvan is vervallen, geldt het in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=II&afdeling=1&artikel=9&z=2004-01-01&g=2004-01-01) bedoelde verbod niet voor de voormalige vergunninghouder, onderscheidenlijk de betrokken instelling, voor zover het de afwikkeling van de lopende zaken betreft.
+Vervallen
 
 ### Afdeling 2. Het register
 
 ##### Artikel 20
 
-1. Er is een register waarin de vergunninghouders worden ingeschreven ter bescherming van de belangen van kredietnemers. Onze Minister is verantwoordelijk voor het register. Het register is voor een ieder kosteloos ter inzage.
-
-2. Onze Minister bepaalt welke gegevens betreffende de vergunninghouders in het register worden opgenomen en op welke wijze het register wordt ingericht.
+Vervallen
 
 ##### Artikel 21
 
-1. De inschrijving van een vergunninghouder geschiedt zodra hem een vergunning als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=II&afdeling=1&artikel=9&z=2004-01-01&g=2004-01-01) is verleend, onderscheidenlijk een bevestiging als bedoeld in [artikel 14**b**, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=II&afdeling=1&artikel=14b&z=2004-01-01&g=2004-01-01), is gezonden.
-
-2. De inschrijving van een vergunninghouder wiens vergunning onherroepelijk is ingetrokken of is vervallen wordt doorgehaald.
-
-3. Onze Minister brengt de nodige aanvullingen of wijzigingen in de ingeschreven gegevens aan indien zich een geval als bedoeld in [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=II&afdeling=1&artikel=12&z=2004-01-01&g=2004-01-01), voordoet, dan wel de werking van een vergunning voor een aangesloten instelling als bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=II&afdeling=1&artikel=12&z=2004-01-01&g=2004-01-01), vervalt door het beëindigen van de aansluiting of door de werking van [artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=II&afdeling=1&artikel=18&z=2004-01-01&g=2004-01-01).
-
-4. Indien hem genoegzaam is gebleken dat de ten aanzien van een vergunninghouder ingeschreven gegevens niet overeenstemmen met de werkelijke situatie is Onze Minister bevoegd de nodige wijzigingen in de ingeschreven gegevens aan te brengen. Hij doet hiervan aan de vergunninghouder zo spoedig mogelijk schriftelijk mededeling.
+Vervallen
 
 ##### Artikel 22
 
-1. Onze Minister verstrekt aan een ieder op diens verzoek afschriften van, uittreksels uit of mededelingen betreffende in het register opgenomen gegevens.
-
-2. Onze Minister stelt de voor de verstrekking van andere dan mondelinge gegevens verschuldigde bedragen vast.
+Vervallen
 
 ### Afdeling 3. Overige bepalingen
 
 ##### Artikel 23
 
-1. De vergunninghouder zorgt voor een behoorlijke administratie van zijn bedrijf of beroep.
-
-2. De vergunninghouder richt de administratie zodanig in dat aan de hand hiervan de naleving van de bij of krachtens deze wet gegeven voorschriften zo goed mogelijk kan worden beoordeeld.
-
-3. De vergunninghouder of de voormalige vergunninghouder is verplicht alle bescheiden die gegevens inhouden betreffende een door hem verleend krediet onder zich te houden gedurende vijf jaren na de dag waarop die krediettransactie is afgewikkeld.
-
-4. In gevallen waarin een vergunning als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=II&afdeling=1&artikel=12&z=2004-01-01&g=2004-01-01) is verleend, rusten de in het eerste tot en met derde lid bedoelde verplichtingen op de in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=II&afdeling=1&artikel=12&z=2004-01-01&g=2004-01-01) genoemde rechtspersoon onderscheidenlijk elk van de afzonderlijke aangesloten instellingen, voor zover het de bedrijfsuitoefening van die rechtspersoon onderscheidenlijk van een zodanige instelling betreft.
+Vervallen
 
 ##### Artikel 24
 
-1. Iedere vergunninghouder is verplicht Onze Minister binnen een half jaar na afloop van elk kalenderjaar een opgave te verstrekken van:
-
-- a. het aantal in het afgelopen kalenderjaar verleende kredieten alsmede het totaal van de kredietsommen daarvan, onderverdeeld naar grootte van de kredietsom, looptijd en kredietvergoeding;
-
-- b. het aantal van de tot en met het afgelopen kalenderjaar verstrekte, nog lopende kredieten alsmede de uitstaande saldi daarvan, onderverdeeld als bedoeld onder a.
-
-2. Onze Minister kan regels stellen aangaande de wijze waarop de in het eerste lid bedoelde gegevens moeten worden verstrekt en nadere regels aangaande de onderverdeling van die gegevens. Daarbij kan hij bepalen dat de gegevens moeten worden verstrekt door tussenkomst van een dienst waarbij de ingevolge [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=VIII&artikel=57&z=2004-01-01&g=2004-01-01) aangewezen ambtenaren werkzaam zijn, dan wel van de in [artikel 62, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=VIII&artikel=62&z=2004-01-01&g=2004-01-01), bedoelde organisatie.
+Vervallen
 
 ##### Artikel 25
 
-1. De vergunninghouder geeft jaarlijks opdracht aan een onafhankelijke accountant tot het verrichten van onderzoek ten behoeve van het door Onze Minister uit te oefenen toezicht op de naleving van het bij en krachtens deze wet bepaalde.
-
-2. Onze Minister stelt regels ten aanzien van het in het eerste lid bedoelde onderzoek. Deze regels hebben in elk geval betrekking op de gegevens die moeten worden verzameld, de wijze waarop het onderzoek dient te geschieden, de werkzaamheden die in dat kader dienen te worden verricht en de verslaglegging aangaande het onderzoek.
-
-3. De vergunninghouder brengt het door de accountant aan hem uitgebrachte verslag van het onderzoek ter kennis van Onze Minister, uiterlijk op een door deze te bepalen tijdstip. Onze Minister kan bepalen dat het verslag te zijnen behoeve ter kennis wordt gebracht van een dienst waarbij de ingevolge [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=VIII&artikel=57&z=2004-01-01&g=2004-01-01) aangewezen ambtenaren werkzaam zijn of aan de in [artikel 62, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=VIII&artikel=62&z=2004-01-01&g=2004-01-01), bedoelde organisatie.
-
-4. De vergunninghouder verleent bij de opdracht tot het onderzoek de accountant een schriftelijke machtiging om desgevraagd aan de ingevolge [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=VIII&artikel=57&z=2004-01-01&g=2004-01-01) aangewezen ambtenaren en de ingevolge [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=VIII&artikel=62&z=2004-01-01&g=2004-01-01) aangewezen accountants alle inlichtingen te verstrekken, die redelijkerwijs nodig zijn ter uitvoering van hun taak. Indien een zodanige ambtenaar of accountant inlichtingen verlangt van de accountant die een opdracht tot onderzoek van de vergunninghouder heeft ontvangen, stelt hij de vergunninghouder of een door deze aan te wijzen vertegenwoordiger in de gelegenheid aanwezig te zijn bij het verstrekken van de inlichtingen.
+Vervallen
 
 ### Hoofdstuk III. Werving, bemiddeling en behandeling van kredietaanvragen
 
 ##### Artikel 26
 
-1. Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot aan het publiek te verstrekken informatie door kredietgevers, leveranciers en kredietbemiddelaars.
-
-2. Tot de regels, bedoeld in het eerste lid, behoort in elk geval de verplichting tot vermelding van het effectieve kredietvergoedingspercentage op jaarbasis in prospectussen en in andere aanbiedingen waarin melding wordt gemaakt van kredietvergoeding of van betalingen, te verrichten door de kredietnemer. Onze Minister stelt regels aangaande de berekening van dit percentage en de vermelding daarvan. Daarbij bepaalt Onze Minister dat in aanbiedingen van geldkrediet als bedoeld in [artikel 4, eerste lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=I&afdeling=2&artikel=4&z=2004-01-01&g=2004-01-01), de berekening en de vermelding geschieden op de wijze die is vastgelegd in een daarbij aan te wijzen overeenkomst tussen kredietgevers, indien hij van oordeel is dat aldus op genoegzame wijze uitvoering wordt gegeven aan artikel 3 van de richtlijn.
-
-3. Tot de regels, bedoeld in het eerste lid, behoort voorts voor de kredietgever op wie [artikel 28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=III&artikel=28&z=2004-01-01&g=2004-01-01), van toepassing is, de verplichting om te vermelden hetgeen hij ter voldoening aan die bepaling verricht.
-
-4. Onze Minister kan, op aanvraag, bepalen dat een kredietgever, leverancier of kredietbemiddelaar niet behoeft te voldoen aan alle in het eerste lid bedoelde regels indien de kredietgever, leverancier of kredietbemiddelaar aantoont dat daaraan redelijkerwijs niet volledig kan worden voldaan en dat de doeleinden die deze wet beoogt te bereiken anderszins voldoende zijn bereikt. Onze Minister kan een besluit als bedoeld in de vorige volzin wijzigen of intrekken indien naar zijn oordeel de omstandigheden waaronder het besluit is genomen zodanig zijn gewijzigd dat de doeleinden die deze wet beoogt te bereiken niet langer worden bereikt.
+Vervallen
 
 ##### Artikel 27
 
-1. Het is de kredietbemiddelaar verboden bij het verlenen van bemiddeling tot het afsluiten van een krediettransactie een beloning of vergoeding, in welke vorm ook, te bedingen of te aanvaarden van, dan wel in rekening te brengen aan een ander dan de kredietgever. Hetzelfde geldt ten aanzien van de leverancier voor het door deze bevorderen van het tot stand komen van een krediettransactie.
-
-2. Bij algemene maatregel van bestuur worden, ten einde een zorgvuldige kredietbemiddeling te bevorderen, regels gesteld ter zake van de beloning of vergoeding, bedoeld in het eerste lid, alsmede ter zake van de wijze van uitbetaling daarvan.
-
-3. Nietig is een overeenkomst, voor zover daarbij van het eerste lid of van de regels, bedoeld in het tweede lid, wordt afgeweken.
+Vervallen
 
 ##### Artikel 28
 
-1. De kredietgever neemt niet deel aan een krediettransactie waarvan de kredietsom meer dan € 1 000 bedraagt, zonder te beschikken over genoegzame, andere dan mondelinge, inlichtingen aangaande de kredietwaardigheid van degene, voor wie het krediet wordt aangevraagd. De kredietgever houdt van de inlichtingen aantekening in zijn administratie.
-
-2. Indien de kredietgever ingevolge het voorschrift, bedoeld in [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=II&afdeling=1&artikel=14&z=2004-01-01&g=2004-01-01), deelneemt aan een stelsel van kredietregistratie is hij verplicht, alvorens een krediet te verlenen waarvan de kredietsom € 1 000 of meer bedraagt, de in dat kader geregistreerde gegevens over reeds aan degene, voor wie het krediet wordt aangevraagd, verleende kredieten op te vragen, voor zover hij bevoegd is deze te verkrijgen. De kredietgever is verplicht van de verkregen gegevens aantekening te houden in zijn administratie.
-
-3. Het in het eerste en tweede lid genoemde bedrag kan, in verband met geldontwaarding, bij algemene maatregel van bestuur worden gewijzigd. Een aldus bij algemene maatregel van bestuur vastgesteld bedrag treedt in de plaats van het in het eerste en tweede lid genoemde bedrag.
+Vervallen
 
 ##### Artikel 29
 
-1. Indien de kredietaanvraag niet wordt ingewilligd doet de kredietgever de aanvrager op diens verzoek schriftelijk opgaaf van de redenen daarvan.
-
-2. Het is de kredietgever verboden ter zake van een niet ingewilligde kredietaanvraag een beloning of vergoeding, in welke vorm ook, in rekening te brengen aan of te bedingen dan wel te aanvaarden van de aanvrager of degene, ten behoeve van wie het krediet is aangevraagd.
-
-3. Nietig is een overeenkomst, voor zover daarbij van het tweede lid wordt afgeweken.
+Vervallen
 
 ### Hoofdstuk IV. De krediettransactie
 
@@ -410,7 +284,7 @@ Van het tijdstip af waarop de vergunning is vervallen of ingetrokken, onderschei
 
 - g. de betalingsregeling;
 
-- h. de bedingen betreffende zekerheidsrechten van de kredietgever of de leverancier, met inbegrip van een afzonderlijke aanduiding van elke zaak waarop een zodanig recht rust en de ingevolge [artikel 40, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=4&artikel=40&z=2004-01-01&g=2004-01-01), geldende regeling betreffende overgang van eigendom;
+- h. de bedingen betreffende zekerheidsrechten van de kredietgever of de leverancier, met inbegrip van een afzonderlijke aanduiding van elke zaak waarop een zodanig recht rust en de ingevolge [artikel 40, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=4&artikel=40&z=2006-01-01&g=2006-01-01), geldende regeling betreffende overgang van eigendom;
 
 - i. de bevoegdheid van de kredietnemer tot volledige of gedeeltelijke vervroegde aflossing;
 
@@ -424,15 +298,15 @@ Van het tijdstip af waarop de vergunning is vervallen of ingetrokken, onderschei
 
 ##### Artikel 31
 
-1. Een kredietnemer kan geen volmacht tot ondertekening van een overeenkomst als bedoeld in [artikel 30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=1&artikel=30&z=2004-01-01&g=2004-01-01), verlenen aan een kredietgever, een leverancier, een kredietbemiddelaar of iemand, die bij een van hen werkzaam is.
+1. Een kredietnemer kan geen volmacht tot ondertekening van een overeenkomst als bedoeld in [artikel 30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=1&artikel=30&z=2006-01-01&g=2006-01-01), verlenen aan een kredietgever, een leverancier, een kredietbemiddelaar of iemand, die bij een van hen werkzaam is.
 
 2. Bedingen waarbij aan de kredietnemer een verplichting wordt opgelegd of een recht wordt ontnomen ingeval hij een beroep op de ongeldigheid van de volmacht doet, zijn nietig.
 
-3. De kredietnemer kan geen onherroepelijke volmacht tot ondertekening van een overeenkomst als bedoeld in [artikel 30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=1&artikel=30&z=2004-01-01&g=2004-01-01), verlenen. Bedingen waarbij aan de kredietnemer een verplichting wordt opgelegd of een recht wordt ontnomen ingeval hij een volmacht tot zodanige ondertekening herroept, zijn nietig.
+3. De kredietnemer kan geen onherroepelijke volmacht tot ondertekening van een overeenkomst als bedoeld in [artikel 30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=1&artikel=30&z=2006-01-01&g=2006-01-01), verlenen. Bedingen waarbij aan de kredietnemer een verplichting wordt opgelegd of een recht wordt ontnomen ingeval hij een volmacht tot zodanige ondertekening herroept, zijn nietig.
 
 ##### Artikel 32
 
-1. In afwijking van [artikel 30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=1&artikel=30&z=2004-01-01&g=2004-01-01), kunnen de kredietgever en de leverancier ten aanzien van een krediettransactie, waarvan de kredietsom niet meer dan € 1 000 bedraagt, volstaan met het onverwijld aan de kredietnemer verstrekken van een schriftelijke bevestiging van de transactie, ieder voor zover hij daaraan heeft deelgenomen. [Artikel 30, derde tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=1&artikel=30&z=2004-01-01&g=2004-01-01), is van overeenkomstige toepassing ten aanzien van de schriftelijke bevestiging.
+1. In afwijking van [artikel 30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=1&artikel=30&z=2006-01-01&g=2006-01-01), kunnen de kredietgever en de leverancier ten aanzien van een krediettransactie, waarvan de kredietsom niet meer dan € 1 000 bedraagt, volstaan met het onverwijld aan de kredietnemer verstrekken van een schriftelijke bevestiging van de transactie, ieder voor zover hij daaraan heeft deelgenomen. [Artikel 30, derde tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=1&artikel=30&z=2006-01-01&g=2006-01-01), is van overeenkomstige toepassing ten aanzien van de schriftelijke bevestiging.
 
 2. Het in het eerste lid bedoelde bedrag kan, in verband met geldontwaarding, bij algemene maatregel van bestuur worden gewijzigd. Een aldus bij algemene maatregel van bestuur vastgesteld bedrag treedt in de plaats van het in het eerste lid genoemde bedrag.
 
@@ -440,9 +314,9 @@ Van het tijdstip af waarop de vergunning is vervallen of ingetrokken, onderschei
 
 ##### Artikel 33
 
-Nietig is een overeenkomst als bedoeld in [artikel 30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=1&artikel=30&z=2004-01-01&g=2004-01-01), voor zover daarbij:
+Nietig is een overeenkomst als bedoeld in [artikel 30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=1&artikel=30&z=2006-01-01&g=2006-01-01), voor zover daarbij:
 
-- a. de kredietgever of leverancier de bevoegdheid wordt verleend, anders dan bij wijze van een verhoging van de kredietvergoeding welke is toegelaten ingevolge het bepaalde krachtens [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=3&artikel=35&z=2004-01-01&g=2004-01-01), eenzijdig de kredietvergoeding te verhogen of anderszins de verplichtingen van de kredietnemer te verzwaren;
+- a. de kredietgever of leverancier de bevoegdheid wordt verleend, anders dan bij wijze van een verhoging van de kredietvergoeding welke is toegelaten ingevolge het bepaalde krachtens [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=3&artikel=35&z=2006-01-01&g=2006-01-01), eenzijdig de kredietvergoeding te verhogen of anderszins de verplichtingen van de kredietnemer te verzwaren;
 
 - b. de kredietnemer zich verplicht tot het aangaan van een andere overeenkomst, anders dan ingeval:
 
@@ -466,7 +340,7 @@ Nietig is een overeenkomst als bedoeld in [artikel 30, eerste lid](https://wette
 
 - d. de kredietnemer enig recht op arbeidsloon, salaris, pensioen, andere inkomsten uit arbeid of uitkering ingevolge een sociale verzekeringswet, dan wel levensonderhoud, verschuldigd ingevolge Boek 1 van het Burgerlijk Wetboek, ter zake van een krediettransactie op enigerlei wijze overdraagt, vervreemdt of bezwaart, dan wel tot invordering daarvan een onherroepelijke volmacht, in welke vorm of onder welke benaming ook, verleent;
 
-- e. wordt afgeweken van het bepaalde bij of krachtens de [artikelen 34 tot en met 46](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=3&artikel=34&z=2004-01-01&g=2004-01-01), met uitzondering van een afwijking als bedoeld in [artikel 42, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=4&artikel=42&z=2004-01-01&g=2004-01-01).
+- e. wordt afgeweken van het bepaalde bij of krachtens de [artikelen 34 tot en met 46](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=3&artikel=34&z=2006-01-01&g=2006-01-01), met uitzondering van een afwijking als bedoeld in [artikel 42, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=4&artikel=42&z=2006-01-01&g=2006-01-01).
 
 ### Afdeling 3. Kredietvergoeding en betalingen
 
@@ -484,13 +358,13 @@ Het is de kredietgever en de leverancier verboden enige andere vorm van kredietv
 
 1. Bij of krachtens algemene maatregel van bestuur wordt, ten einde het aanvaarden door kredietgevers van te grote risico’s tegen te gaan, de ten hoogste toegelaten kredietvergoeding vastgesteld en worden regels gegeven betreffende de tijdstippen waarop de kredietvergoeding in rekening wordt gebracht.
 
-2. De ten hoogste toegelaten kredietvergoeding wordt uitgedrukt in een geldsom, een percentage of in enige andere vorm. Deze kan verschillen naar gelang van de hoogte van de kredietsom, de looptijd van de transactie, mede in verband met de termijnen van aflossing, de vorm van de kredietvergoeding bedoeld in [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=3&artikel=34&z=2004-01-01&g=2004-01-01), en het al dan niet variabel zijn van de kredietvergoeding.
+2. De ten hoogste toegelaten kredietvergoeding wordt uitgedrukt in een geldsom, een percentage of in enige andere vorm. Deze kan verschillen naar gelang van de hoogte van de kredietsom, de looptijd van de transactie, mede in verband met de termijnen van aflossing, de vorm van de kredietvergoeding bedoeld in [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=3&artikel=34&z=2006-01-01&g=2006-01-01), en het al dan niet variabel zijn van de kredietvergoeding.
 
-3. Bij de maatregel, bedoeld in het eerste lid, wordt bepaald dat ter zake van krediettransacties, waarbij de kredietvergoeding variabel is, geen vergoeding als bedoeld in [artikel 34, onder **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=3&artikel=34&z=2004-01-01&g=2004-01-01), is toegelaten.
+3. Bij de maatregel, bedoeld in het eerste lid, wordt bepaald dat ter zake van krediettransacties, waarbij de kredietvergoeding variabel is, geen vergoeding als bedoeld in [artikel 34, onder **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=3&artikel=34&z=2006-01-01&g=2006-01-01), is toegelaten.
 
 ##### Artikel 36
 
-Het is de kredietgever en de leverancier verboden een hogere kredietvergoeding in rekening te brengen, te bedingen of te aanvaarden, dan wel kredietvergoeding op een ander tijdstip in rekening te brengen, dan is toegelaten ingevolge [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=3&artikel=35&z=2004-01-01&g=2004-01-01).
+Het is de kredietgever en de leverancier verboden een hogere kredietvergoeding in rekening te brengen, te bedingen of te aanvaarden, dan wel kredietvergoeding op een ander tijdstip in rekening te brengen, dan is toegelaten ingevolge [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=3&artikel=35&z=2006-01-01&g=2006-01-01).
 
 ##### Artikel 37
 
@@ -526,7 +400,7 @@ Het is de kredietgever en de leverancier verboden:
 
 ##### Artikel 41
 
-1. Afgifte van een zaak, waarop een pandrecht als bedoeld in [artikel 237 van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=237) is gevestigd of waarvan de eigendom is voorbehouden in het kader van een krediettransactie, kan slechts worden gevorderd in de gevallen, bedoeld in [artikel 33, onder **c**, 1° tot en met 6°](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=2&artikel=33&z=2004-01-01&g=2004-01-01). [Artikel 496, tweede lid, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=496) is niet van toepassing.
+1. Afgifte van een zaak, waarop een pandrecht als bedoeld in [artikel 237 van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=237) is gevestigd of waarvan de eigendom is voorbehouden in het kader van een krediettransactie, kan slechts worden gevorderd in de gevallen, bedoeld in [artikel 33, onder **c**, 1° tot en met 6°](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=2&artikel=33&z=2006-01-01&g=2006-01-01). [Artikel 496, tweede lid, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=496) is niet van toepassing.
 
 2. Afgifte van een zaak als bedoeld in het eerste lid kan niet meer worden gevorderd indien meer dan drie vierde deel van de kredietsom is afgelost. De vorige volzin vindt geen toepassing met betrekking tot doorlopende krediettransacties.
 
@@ -536,11 +410,11 @@ Het is de kredietgever en de leverancier verboden:
 
 ##### Artikel 42
 
-1. Indien de kredietnemer binnen veertien dagen nadat hij de zaak heeft afgegeven het totale op het tijdstip van inlossing achterstallige bedrag, benevens de vergoeding, bedoeld in [artikel 34, onder **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=3&artikel=34&z=2004-01-01&g=2004-01-01), betaalt, wordt de zaak door de kredietgever teruggegeven.
+1. Indien de kredietnemer binnen veertien dagen nadat hij de zaak heeft afgegeven het totale op het tijdstip van inlossing achterstallige bedrag, benevens de vergoeding, bedoeld in [artikel 34, onder **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=3&artikel=34&z=2006-01-01&g=2006-01-01), betaalt, wordt de zaak door de kredietgever teruggegeven.
 
 2. Door de in het eerste lid bedoelde betaling wordt de ontbinding van de tot de krediettransactie behorende overeenkomsten ongedaan gemaakt.
 
-3. Bij herhaalde afgifte van de zaak behoeft deze door de kredietgever slechts te worden teruggegeven na betaling door de kredietnemer van het in het eerste lid bedoelde bedrag, benevens het restant van de kredietsom, alsmede de bedongen kredietvergoeding, voor zover toegelaten ingevolge [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=3&artikel=35&z=2004-01-01&g=2004-01-01), met dien verstande, dat bij een doorlopende krediettransactie in plaats van het restant van de kredietsom het restant van de in [artikel 40, tweede lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=4&artikel=40&z=2004-01-01&g=2004-01-01), bedoelde aflossingen moet worden betaald; de tweede volzin van dat lid vindt overeenkomstige toepassing.
+3. Bij herhaalde afgifte van de zaak behoeft deze door de kredietgever slechts te worden teruggegeven na betaling door de kredietnemer van het in het eerste lid bedoelde bedrag, benevens het restant van de kredietsom, alsmede de bedongen kredietvergoeding, voor zover toegelaten ingevolge [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=3&artikel=35&z=2006-01-01&g=2006-01-01), met dien verstande, dat bij een doorlopende krediettransactie in plaats van het restant van de kredietsom het restant van de in [artikel 40, tweede lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=4&artikel=40&z=2006-01-01&g=2006-01-01), bedoelde aflossingen moet worden betaald; de tweede volzin van dat lid vindt overeenkomstige toepassing.
 
 4. Indien de kredietgever een redelijk belang heeft bij weigering van de teruggave, kan de rechter bepalen dat het eerste lid buiten toepassing blijft.
 
@@ -548,7 +422,7 @@ Het is de kredietgever en de leverancier verboden:
 
 ##### Artikel 43
 
-1. In afwijking van [artikel 229 van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=229) ontstaat een pandrecht op een vordering tot vergoeding die in de plaats treedt van een zaak als bedoeld in [artikel 40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=4&artikel=40&z=2004-01-01&g=2004-01-01), slechts voor het geval die zaak geheel teniet gaat.
+1. In afwijking van [artikel 229 van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=229) ontstaat een pandrecht op een vordering tot vergoeding die in de plaats treedt van een zaak als bedoeld in [artikel 40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=4&artikel=40&z=2006-01-01&g=2006-01-01), slechts voor het geval die zaak geheel teniet gaat.
 
 2. Een pandrecht als bedoeld in het eerste lid eindigt van rechtswege:
 
@@ -558,19 +432,19 @@ Het is de kredietgever en de leverancier verboden:
 
 3. De kredietgever, onderscheidenlijk de leverancier, die tot inning van de in het eerste lid bedoelde verpande vordering overgaat, stelt de kredietnemer daarvan terstond schriftelijk in kennis. Daarbij deelt hij de kredietnemer mee dat deze in de gelegenheid is om gelijkwaardige vervangende zekerheid te stellen. [Artikel 40, eerste lid](onbekend), is niet van toepassing ten aanzien van de door de kredietnemer gestelde vervangende zekerheid.
 
-4. [Artikel 229 van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=229) en het eerste tot en met het derde lid zijn van overeenkomstige toepassing bij een eigendomsvoorbehoud ten aanzien van een zaak als bedoeld in [artikel 40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=4&artikel=40&z=2004-01-01&g=2004-01-01).
+4. [Artikel 229 van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=229) en het eerste tot en met het derde lid zijn van overeenkomstige toepassing bij een eigendomsvoorbehoud ten aanzien van een zaak als bedoeld in [artikel 40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=4&artikel=40&z=2006-01-01&g=2006-01-01).
 
 ### Afdeling 5. Overige bepalingen
 
 ##### Artikel 44
 
-1. Een overeenkomst als bedoeld in [artikel 30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=1&artikel=30&z=2004-01-01&g=2004-01-01), kan slechts door rechterlijke tussenkomst worden ontbonden, behoudens het bepaalde in [artikel 41, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=4&artikel=41&z=2004-01-01&g=2004-01-01), van deze wet en de [artikelen 37](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=37) en [38**a** van de Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=38a) (**Stb.** 1893, 140).
+1. Een overeenkomst als bedoeld in [artikel 30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=1&artikel=30&z=2006-01-01&g=2006-01-01), kan slechts door rechterlijke tussenkomst worden ontbonden, behoudens het bepaalde in [artikel 41, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=4&artikel=41&z=2006-01-01&g=2006-01-01), van deze wet en de [artikelen 37](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=37) en [38**a** van de Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=38a) (**Stb.** 1893, 140).
 
 2. Indien bij ontbinding van zodanige overeenkomst een der partijen in een betere vermogenstoestand zou geraken dan bij het in stand blijven van die overeenkomst en afwikkeling overeenkomstig de betalingsregeling, vindt volledige verrekening plaats.
 
 ##### Artikel 45
 
-1. Indien de leverancier van een roerende zaak of een dienst waarop een krediettransactie als bedoeld in [artikel 1, onder **a**, sub 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=I&afdeling=1&artikel=1&z=2004-01-01&g=2004-01-01), betrekking heeft, jegens de kredietnemer tekortschiet in de nakoming van zijn verbintenis, is de kredietnemer jegens de kredietgever bevoegd op dezelfde voet de nakoming van zijn verplichtingen uit die transactie op te schorten als hij zou zijn indien het een transactie als bedoeld in [artikel 1, onder **a**, sub 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=I&afdeling=1&artikel=1&z=2004-01-01&g=2004-01-01), betrof, indien:
+1. Indien de leverancier van een roerende zaak of een dienst waarop een krediettransactie als bedoeld in [artikel 1, onder **a**, sub 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=I&afdeling=1&artikel=1&z=2006-01-01&g=2006-01-01), betrekking heeft, jegens de kredietnemer tekortschiet in de nakoming van zijn verbintenis, is de kredietnemer jegens de kredietgever bevoegd op dezelfde voet de nakoming van zijn verplichtingen uit die transactie op te schorten als hij zou zijn indien het een transactie als bedoeld in [artikel 1, onder **a**, sub 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=I&afdeling=1&artikel=1&z=2006-01-01&g=2006-01-01), betrof, indien:
 
 - a. de kredietnemer het krediet heeft verkregen krachtens een voordien tussen de kredietgever en de leverancier tot stand gekomen overeenkomst op grond waarvan uitsluitend door die kredietgever aan een wederpartij van die leverancier krediet wordt verstrekt, en
 
@@ -578,7 +452,7 @@ Het is de kredietgever en de leverancier verboden:
 
 2. De in het eerste lid bedoelde bevoegdheid vervalt zodra de leverancier zijn verbintenis volledig aan de kredietnemer heeft voldaan of voor de voldoening van die verbintenis zekerheid is gesteld.
 
-3. Indien op grond van de in het eerste lid, onder **b**, bedoelde niet-nakoming de overeenkomst tussen de kredietnemer en de leverancier wordt ontbonden, kan de kredietnemer de vordering die hij op de voet van [het tweede lid van artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=5&artikel=44&z=2004-01-01&g=2004-01-01) heeft jegens de leverancier, geldend maken jegens de kredietgever. Het bepaalde in het eerste lid, onder **b**, is van overeenkomstige toepassing, tenzij de ontbinding van de overeenkomst geschiedt in verband met het faillissement van de leverancier of de toepassing ten aanzien van de leverancier van de schuldsaneringsregeling natuurlijke personen.
+3. Indien op grond van de in het eerste lid, onder **b**, bedoelde niet-nakoming de overeenkomst tussen de kredietnemer en de leverancier wordt ontbonden, kan de kredietnemer de vordering die hij op de voet van [het tweede lid van artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=5&artikel=44&z=2006-01-01&g=2006-01-01) heeft jegens de leverancier, geldend maken jegens de kredietgever. Het bepaalde in het eerste lid, onder **b**, is van overeenkomstige toepassing, tenzij de ontbinding van de overeenkomst geschiedt in verband met het faillissement van de leverancier of de toepassing ten aanzien van de leverancier van de schuldsaneringsregeling natuurlijke personen.
 
 4. Dit artikel is niet van toepassing op een krediettransactie waarbij de kredietsom minder dan € 200 bedraagt. Het in de vorige volzin genoemde bedrag kan in verband met geldontwaarding, dan wel in verband met een herziening van bedragen als bedoeld in artikel 13, tweede lid, van de richtlijn bij algemene maatregel van bestuur worden aangepast. Een aldus bij algemene maatregel van bestuur vastgesteld bedrag treedt in de plaats van het in de eerste volzin genoemde bedrag.
 
@@ -586,7 +460,7 @@ Het is de kredietgever en de leverancier verboden:
 
 ##### Artikel 46
 
-De bepalingen van dit hoofdstuk omtrent nietigheid en vernietigbaarheid zijn mede van toepassing op overeenkomsten als bedoeld in [artikel 30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=1&artikel=30&z=2004-01-01&g=2004-01-01), die buiten Nederland worden gesloten door een buiten Nederland gevestigde kredietgever of leverancier met een kredietnemer die zijn gewone verblijfplaats in Nederland heeft en die het krediet in Nederland heeft aangevraagd.
+De bepalingen van dit hoofdstuk omtrent nietigheid en vernietigbaarheid zijn mede van toepassing op overeenkomsten als bedoeld in [artikel 30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=1&artikel=30&z=2006-01-01&g=2006-01-01), die buiten Nederland worden gesloten door een buiten Nederland gevestigde kredietgever of leverancier met een kredietnemer die zijn gewone verblijfplaats in Nederland heeft en die het krediet in Nederland heeft aangevraagd.
 
 ### Hoofdstuk V. Schuldbemiddeling
 
@@ -598,7 +472,7 @@ De bepalingen van dit hoofdstuk omtrent nietigheid en vernietigbaarheid zijn med
 
 ##### Artikel 48
 
-1. Het in [artikel 47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=V&artikel=47&z=2004-01-01&g=2004-01-01), bedoelde verbod is niet van toepassing op schuldbemiddeling:
+1. Het in [artikel 47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=V&artikel=47&z=2006-01-01&g=2006-01-01), bedoelde verbod is niet van toepassing op schuldbemiddeling:
 
 - a. om niet;
 
@@ -616,7 +490,7 @@ De bepalingen van dit hoofdstuk omtrent nietigheid en vernietigbaarheid zijn med
 
 ##### Artikel 49
 
-Tegen een op grond van deze wet genomen besluit kan een belanghebbende beroep instellen bij het College van Beroep voor het bedrijfsleven.
+Vervallen
 
 ### Hoofdstuk VII
 
@@ -652,9 +526,7 @@ Vervallen
 
 ##### Artikel 57
 
-1. Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn belast de bij besluit van Onze Minister aangewezen ambtenaren.
-
-2. Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de **Staatscourant**.
+Vervallen
 
 ##### Artikel 58
 
@@ -674,47 +546,29 @@ Vervallen
 
 ##### Artikel 62
 
-1. Onze Minister kan het verzamelen van gegevens ten behoeve van het door hem uit te oefenen toezicht op vergunninghouders opdragen aan door hem aan te wijzen accountants, die samenwerken in één organisatie.
-
-2. Indien Onze Minister toepassing geeft aan het eerste lid stelt hij tevens regels ten aanzien van de uitvoering van de werkzaamheden, alsmede aangaande de rapportage over de verzamelde gegevens en de uitvoering van de werkzaamheden van de accountants en de organisatie ingevolge deze wet. Onze Minister kan voorts aanwijzingen dienaangaande geven aan de aangewezen accountants.
-
-3. Onze Minister kan een aanwijzing als bedoeld in het eerste lid ten aanzien van een of meer accountants intrekken.
+Vervallen
 
 ##### Artikel 63
 
-1. Iedere vergunninghouder is periodiek een bijdrage verschuldigd in de kosten die gemoeid zijn met de ingevolge deze wet door de in [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=VIII&artikel=62&z=2004-01-01&g=2004-01-01) bedoelde accountants en organisatie verrichte werkzaamheden.
-
-2. De bijdragen worden in rekening gebracht en geïnd door de in [artikel 62, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=VIII&artikel=62&z=2004-01-01&g=2004-01-01), bedoelde organisatie. De organisatie legt jaarlijks een begroting van de kosten ter goedkeuring voor aan Onze Minister, volgens de door deze te stellen regels. Onze Minister stelt voorts regels aangaande de berekening van de bijdragen van de vergunninghouders, op basis van de door hem goedgekeurde begroting, alsmede het in rekening brengen van de bijdragen.
+Vervallen
 
 ### Hoofdstuk IX. Uitvoering van de wet
 
 ##### Artikel 64
 
-De regels welke krachtens deze wet worden vastgesteld, kunnen verschillen al naar gelang zij betrekking hebben op:
-
-- a. verschillende kredietsoorten;
-
-- b. houders van een vergunning als bedoeld in [artikel 14**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=II&afdeling=1&artikel=14a&z=2004-01-01&g=2004-01-01) dan wel andere vergunninghouders;
-
-- c. kredietgevers die al dan niet een vestiging in Nederland hebben.
+Vervallen
 
 ##### Artikel 65
 
-1. Onze Minister kan vrijstelling en, op aanvraag, ontheffing verlenen van krachtens deze wet vastgestelde voorschriften.
-
-2. Een vrijstelling en een ontheffing als bedoeld in het eerste lid kunnen onder beperkingen worden verleend. Aan een zodanige vrijstelling en ontheffing kunnen voorschriften worden verbonden.
+Vervallen
 
 ##### Artikel 66
 
-1. De voordracht voor een algemene maatregel van bestuur als bedoeld in de [artikelen 1, onder **a**, 2° en 3°, 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=I&afdeling=1&artikel=1&z=2004-01-01&g=2004-01-01), [4, eerste lid, onder **e**](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=I&afdeling=2&artikel=4&z=2004-01-01&g=2004-01-01), [28, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=III&artikel=28&z=2004-01-01&g=2004-01-01), [45, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=5&artikel=45&z=2004-01-01&g=2004-01-01), en [56](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=VII&artikel=56&z=2004-01-01&g=2004-01-01) wordt gedaan door Onze Minister, in overeenstemming met Onze Minister van Justitie.
-
-2. De voordracht voor een algemene maatregel van bestuur als bedoeld in de [artikelen 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=I&afdeling=2&artikel=3&z=2004-01-01&g=2004-01-01), [10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=II&afdeling=1&artikel=10&z=2004-01-01&g=2004-01-01), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=III&artikel=26&z=2004-01-01&g=2004-01-01), [27, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=III&artikel=27&z=2004-01-01&g=2004-01-01), [28, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=III&artikel=28&z=2004-01-01&g=2004-01-01), [35, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=3&artikel=35&z=2004-01-01&g=2004-01-01), [39, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=3&artikel=39&z=2004-01-01&g=2004-01-01), [45, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=5&artikel=45&z=2004-01-01&g=2004-01-01), en [56](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=VII&artikel=56&z=2004-01-01&g=2004-01-01) wordt gedaan door Onze Minister, in overeenstemming met Onze Minister van Financiën.
-
-3. Een ministeriële regeling als bedoeld in de [artikelen 4, eerste lid, onder **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=I&afdeling=2&artikel=4&z=2004-01-01&g=2004-01-01), [14**b**, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=II&afdeling=1&artikel=14&z=2004-01-01&g=2004-01-01), [20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=II&afdeling=2&artikel=20&z=2004-01-01&g=2004-01-01), [22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=II&afdeling=2&artikel=22&z=2004-01-01&g=2004-01-01), [24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=II&afdeling=3&artikel=24&z=2004-01-01&g=2004-01-01), [25, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=II&afdeling=3&artikel=25&z=2004-01-01&g=2004-01-01), [62, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=VIII&artikel=62&z=2004-01-01&g=2004-01-01), en [63, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=VIII&artikel=63&z=2004-01-01&g=2004-01-01), wordt vastgesteld door Onze Minister, in overeenstemming met Onze Minister van Financiën.
+Vervallen
 
 ##### Artikel 67
 
-Onze Minister doet, zodra een beschikking als bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=I&afdeling=2&artikel=4&z=2004-01-01&g=2004-01-01), [11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=II&afdeling=1&artikel=11&z=2004-01-01&g=2004-01-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=II&afdeling=1&artikel=17&z=2004-01-01&g=2004-01-01), indien het een intrekking van de vergunning betreft, [51](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=VII&artikel=51&z=2004-01-01&g=2004-01-01) of [65](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IX&artikel=65&z=2004-01-01&g=2004-01-01) is vastgesteld, daarvan mededeling in de **Nederlandse Staatscourant**. Evenzo doet Onze Minister mededeling van een aanwijzing als bedoeld in [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=VIII&artikel=57&z=2004-01-01&g=2004-01-01) of [62, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=VIII&artikel=62&z=2004-01-01&g=2004-01-01), alsmede de intrekking van een zodanige aanwijzing, en kan Onze Minister mededeling doen van andere beschikkingen die worden genomen op grond van deze wet.
+Vervallen
 
 ##### Artikel 68
 
@@ -724,56 +578,42 @@ Vervallen
 
 ##### Artikel 69
 
-Overtreding van voorschriften, gesteld bij of krachtens de [artikelen 26](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=III&artikel=26&z=2004-01-01&g=2004-01-01), [34](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=3&artikel=34&z=2004-01-01&g=2004-01-01), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=3&artikel=36&z=2004-01-01&g=2004-01-01) en [38](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=3&artikel=38&z=2004-01-01&g=2004-01-01) is slechts strafbaar voor zover deze van toepassing zijn op een leverancier of een kredietbemiddelaar, alsmede, indien het het bij of krachtens [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=III&artikel=26&z=2004-01-01&g=2004-01-01) bepaalde betreft, op een kredietgever die niet beschikt over een vergunning als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=II&afdeling=1&artikel=9&z=2004-01-01&g=2004-01-01).
+Overtreding van voorschriften, gesteld bij of krachtens de [artikelen 34](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=3&artikel=34&z=2006-01-01&g=2006-01-01), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=3&artikel=36&z=2006-01-01&g=2006-01-01) en [38](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=3&artikel=38&z=2006-01-01&g=2006-01-01) is slechts strafbaar voor zover deze van toepassing zijn op een leverancier.
 
 ##### Artikel 70
 
-Bevat wijzigingen in andere regelgeving.
+Vervallen
 
 ##### Artikel 71
 
-De vijfde titel A van [Boek 7A van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0006000) geldt niet voor overeenkomsten als bedoeld in [artikel 30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=1&artikel=30&z=2004-01-01&g=2004-01-01), die ingevolge [artikel 1576 van Boek 7A van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&artikel=1576) als koop en verkoop op afbetaling moeten worden aangemerkt, met uitzondering evenwel van de [artikelen 1576a](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&artikel=1576a), [1576h](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&artikel=1576h), [1576k tot en met 1576n](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&artikel=1576k), [1576r](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&artikel=1576r), [1576u](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&artikel=1576u), [1576w](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&artikel=1576w) en [1576x](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&artikel=1576x).
+Vervallen
 
 ##### Artikel 72
 
-Bevat wijzigingen in andere regelgeving.
+Vervallen
 
 ##### Artikel 73
 
-Bevat wijzigingen in andere regelgeving.
+Vervallen
 
 ##### Artikel 74
 
-De Wet op het consumptief geldkrediet (**Stb.** 1972, 399) en de Wet op het afbetalingsstelsel 1961 (**Stb.** 1976, 515) worden ingetrokken.
+Vervallen
 
 ##### Artikel 75
 
-1. [Artikel 7, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=I&afdeling=3&artikel=7&z=2004-01-01&g=2004-01-01), geldt gedurende een jaar na het tijdstip van in werking treden van deze wet niet met betrekking tot een gemeentelijke kredietbank, voor de bedrijfsvoering waarvan voor dat tijdstip een reglement was vastgesteld en goedgekeurd ingevolge artikel 8 van de Wet op het consumptief geldkrediet.
-
-2. Ten aanzien van degene, die op het tijdstip van in werking treden van deze wet in de uitoefening van een bedrijf of beroep als de in [artikel 1, onder **a**, 1°, 2° of 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=I&afdeling=1&artikel=1&z=2004-01-01&g=2004-01-01), bedoelde eerste partij rechtmatig pleegt deel te nemen aan overeenkomsten als bedoeld in die bepaling, blijft [hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=II&z=2004-01-01&g=2004-01-01) buiten toepassing gedurende drie maanden na dat tijdstip en voorts, indien binnen die termijn door Onze Minister een aanvraag als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=II&afdeling=1&artikel=10&z=2004-01-01&g=2004-01-01) van die kredietgever is ontvangen, tot op die aanvraag onherroepelijk is beslist. [Artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=II&afdeling=1&artikel=11&z=2004-01-01&g=2004-01-01), is niet van toepassing. De vergunning wordt verleend voor zover die betrekking heeft op een voortzetting van de in de eerste volzin van dit lid bedoelde werkzaamheid en de aanvrager op het tijdstip van in werking treden van deze wet in het bezit is van een vergunning als bedoeld in [artikel 2 van de Wet toezicht kredietwezen](https://wetten.overheid.nl/jci1.3:c:BWBR0005792&artikel=2) (**Stb.** 1978, 255).
-
-3. De [artikelen 30 tot en met 32](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=1&artikel=30&z=2004-01-01&g=2004-01-01), [33, onder **b**, **c** en **d**](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=2&artikel=33&z=2004-01-01&g=2004-01-01), [34](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=3&artikel=34&z=2004-01-01&g=2004-01-01), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=3&artikel=36&z=2004-01-01&g=2004-01-01), voor zover het betreft het bedingen van een niet variabele kredietvergoeding, [37](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=3&artikel=37&z=2004-01-01&g=2004-01-01), [40 tot en met 42](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=4&artikel=40&z=2004-01-01&g=2004-01-01), [43](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=4&artikel=43&z=2004-01-01&g=2004-01-01), [44, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=5&artikel=44&z=2004-01-01&g=2004-01-01), [45](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=5&artikel=45&z=2004-01-01&g=2004-01-01) en [46](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=5&artikel=46&z=2004-01-01&g=2004-01-01) gelden niet voor overeenkomsten met een bepaalde looptijd, welke zijn aangegaan voor het tijdstip van in werking treden van deze wet, en ten aanzien van voor dat tijdstip aangegane overeenkomsten met een onbepaalde looptijd eerst met ingang van de dag, liggende drie jaar na dat tijdstip.
-
-4. [Artikel 33, onder **e**](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=2&artikel=33&z=2004-01-01&g=2004-01-01), voor zover deze bepaling betrekking heeft op [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=3&artikel=34&z=2004-01-01&g=2004-01-01), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=3&artikel=36&z=2004-01-01&g=2004-01-01), voor zover het betreft het bedingen van een niet variabele kredietvergoeding, [37](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=3&artikel=37&z=2004-01-01&g=2004-01-01), [40](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=4&artikel=40&z=2004-01-01&g=2004-01-01), [41](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=4&artikel=41&z=2004-01-01&g=2004-01-01), [42](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=4&artikel=42&z=2004-01-01&g=2004-01-01), [43](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=4&artikel=43&z=2004-01-01&g=2004-01-01), [44, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=5&artikel=44&z=2004-01-01&g=2004-01-01), [45](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=5&artikel=45&z=2004-01-01&g=2004-01-01) of [46](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=5&artikel=46&z=2004-01-01&g=2004-01-01), geldt niet voor overeenkomsten met een bepaalde looptijd, welke zijn aangegaan voor het tijdstip van in werking treden van deze wet en ten aanzien van voor dat tijdstip aangegane overeenkomsten met een onbepaalde looptijd eerst met ingang van de dag, liggende drie jaar na dat tijdstip.
-
-5. Deze wet geldt niet voor een krediet dat wordt verleend in de vorm van een toegelaten debetstand op een rekening bij een kredietgever, tevens houder van een vergunning als bedoeld in [artikel 2 van de Wet toezicht kredietwezen](https://wetten.overheid.nl/jci1.3:c:BWBR0005792&artikel=2), indien die rekening:
-
-- a. bestemd is voor het verrichten en ontvangen van betalingen aan, onderscheidenlijk van, derden;
-
-- b. strekt tot gebruik in de uitoefening van het bedrijf of het beroep van de kredietnemer en
-
-- c. geopend is voor het tijdstip, bedoeld in [artikel 77, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=X&artikel=77&z=2004-01-01&g=2004-01-01).
+Vervallen
 
 ##### Artikel 76
 
-[Artikel 75, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=X&artikel=75&z=2004-01-01&g=2004-01-01), is van overeenkomstige toepassing met betrekking tot de inwerkingtreding van een verhoging van het in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=I&afdeling=2&artikel=3&z=2004-01-01&g=2004-01-01), genoemde bedrag, op grond van [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=I&afdeling=2&artikel=3&z=2004-01-01&g=2004-01-01), alsmede een verlaging van het in [artikel 45, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=5&artikel=45&z=2004-01-01&g=2004-01-01), genoemde bedrag, op grond van dat lid.
+Vervallen
 
 ##### Artikel 77
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip. Bij koninklijk besluit kan een ander tijdstip worden vastgesteld, waarop [hoofdstuk VII](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=VII&z=2004-01-01&g=2004-01-01) in werking treedt.
+Vervallen
 
 ##### Artikel 78
 
-Deze wet kan worden aangehaald als: Wet op het consumentenkrediet.
+Vervallen
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
