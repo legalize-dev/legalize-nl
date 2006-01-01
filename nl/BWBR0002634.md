@@ -4,7 +4,7 @@ identifier: "BWBR0002634"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-01"
-last_updated: "2005-07-01"
+last_updated: "2006-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002634"
 soort: "ministeriele-regeling"
@@ -41,7 +41,7 @@ Besluit:
 
 ##### Artikel 1
 
-1. Deze regeling geeft uitvoering aan de [artikelen 1a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=1a), [2a, eerste lid, onderdelen l en m, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=2a), [5a, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=5a), [7, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=7),[11, eerste lid, onderdelen a, onder 2°, b, onder 5°, en p](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=11), [15, eerste lid, onderdeel c, onder 1°, derde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=15), [17e](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=17e), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=21),[23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002629),[24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=24), [25, tweede, derde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=25), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=26), [27, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=27), [28d](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=28d), [28i](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=28i), [28p](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=28p), [31](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=31), [33, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=33), [34, eerste, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=34), [35, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=35), en [35a, vierde lid, van de Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=35a), [onderdeel a, posten 31, 32 en 35, van de bij die wet behorende tabel I](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&bijlage=I), [onderdeel a, posten 7 en 8, van de bij die wet behorende tabel II](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&bijlage=II),[artikel II van de wet van 23 december 1994 tot wijziging van de Wet op de omzetbelasting 1968 in verband met de invoering van een bijzondere regeling voor gebruikte goederen, kunstvoorwerpen, voorwerpen voor verzamelingen en antiquiteiten](https://wetten.overheid.nl/jci1.3:c:BWBR0007167&artikel=II), [artikel 62 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=62), alsmede de [artikelen 4, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&artikel=4), [9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&artikel=9), [12, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&artikel=12), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&artikel=13), [24b, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&artikel=24b), [24ba, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&artikel=24ba), en [24c, derde lid, onderdeel c, van het Uitvoeringsbesluit omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&artikel=24c).
+1. Deze regeling geeft uitvoering aan de [artikelen 1a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=1a), [2a, eerste lid, onderdelen l en m, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=2a), [5a, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=5a), [7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=7),[11, eerste lid, onderdelen a, onder 2°, b, onder 5°, en p](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=11), [15, eerste lid, onderdeel c, onder 1°, derde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=15), [17e](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=17e), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=21),[23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002629),[24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=24), [25, tweede, derde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=25), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=26), [27, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=27), [28d](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=28d), [28i](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=28i), [28p](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=28p), [31](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=31), [33, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=33), [34, eerste, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=34), [35, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=35), en [35a, vierde lid, van de Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=35a), [onderdeel a, posten 31, 32 en 35, van de bij die wet behorende tabel I](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&bijlage=I), [onderdeel a, posten 7 en 8, van de bij die wet behorende tabel II](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&bijlage=II),[artikel II van de wet van 23 december 1994 tot wijziging van de Wet op de omzetbelasting 1968 in verband met de invoering van een bijzondere regeling voor gebruikte goederen, kunstvoorwerpen, voorwerpen voor verzamelingen en antiquiteiten](https://wetten.overheid.nl/jci1.3:c:BWBR0007167&artikel=II), [artikel 62 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=62), alsmede de [artikelen 4, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&artikel=4), [9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&artikel=9), [12, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&artikel=12), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&artikel=13), [24b, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&artikel=24b), [24ba, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&artikel=24ba), en [24c, derde lid, onderdeel c, van het Uitvoeringsbesluit omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&artikel=24c).
 
 2. Deze regeling verstaat onder:
 
@@ -107,19 +107,11 @@ Het bedrag bedoeld in [artikel 5a, vierde lid, van de wet](https://wetten.overhe
 
 3. De inspecteur stelt de datum met ingang waarvan na de wederopzegging [artikel 5a, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=5a), wederom van toepassing is, vast, met inachtneming van het vijfde lid, tweede volzin, van dat artikel, op 1 januari van het jaar volgend op dat waarin de wederopzegging is ontvangen.
 
-### Hoofdstuk II. Publiekrechtelijke lichamen en fiscale eenheid
+### Hoofdstuk II. Fiscale eenheid
 
 ##### Artikel 3
 
-Publiekrechtelijke lichamen worden als ondernemer aangemerkt met betrekking tot de volgende prestaties:
-
-- a. de levering van onroerende zaken en van rechten waaraan deze zijn onderworpen;
-
-- b. vervallen;
-
-- c. het aanleggen of onderhouden van tuinen ten behoeve van derden;
-
-- d. het geven van gelegenheid tot kamperen in de zin van post b 10, van de bij de wet behorende tabel I.
+Vervallen
 
 ##### Artikel 3a
 
@@ -431,7 +423,7 @@ Vervallen
 
 ##### Artikel 18
 
-1. Voor andere goederen dan bedoeld in de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=VII&artikel=17&z=2005-07-01&g=2005-07-01) en [17a](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=VII&artikel=17a&z=2005-07-01&g=2005-07-01) wordt een verzoek om aanwijzing voor de toepassing van [artikel 23 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=23) ingediend bij de inspecteur. De inspecteur beslist op het verzoek bij voor bezwaar vatbare beschikking. Bij inwilliging van het verzoek stelt de inspecteur een datum van ingang vast en kent hij aan de belanghebbende een btw-identificatienummer toe.
+1. Voor andere goederen dan bedoeld in de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=VII&artikel=17&z=2006-01-01&g=2006-01-01) en [17a](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=VII&artikel=17a&z=2006-01-01&g=2006-01-01) wordt een verzoek om aanwijzing voor de toepassing van [artikel 23 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=23) ingediend bij de inspecteur. De inspecteur beslist op het verzoek bij voor bezwaar vatbare beschikking. Bij inwilliging van het verzoek stelt de inspecteur een datum van ingang vast en kent hij aan de belanghebbende een btw-identificatienummer toe.
 
 2. Het verzoek wordt slechts ingewilligd, indien de belanghebbende:
 
@@ -451,7 +443,7 @@ Vervallen
 
 5. Tenzij de inspecteur anders bepaalt, moet de belanghebbende voldoen aan de volgende voorwaarden:
 
-- a. van de invoer wordt afzonderlijk aantekening gehouden op de voet van [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=XII&artikel=31&z=2005-07-01&g=2005-07-01);
+- a. van de invoer wordt afzonderlijk aantekening gehouden op de voet van [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=XII&artikel=31&z=2006-01-01&g=2006-01-01);
 
 - b. bij aangifte ten invoer van de goederen worden bescheiden - een kopie-factuur, vracht- en ladingspapieren en dergelijke - overgelegd waaruit blijkt dat de goederen voor belanghebbende zijn bestemd en de regeling van [artikel 23 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=23) van toepassing is. Op deze bescheiden moet het btw-identificatienummer zijn vermeld.
 
@@ -475,9 +467,9 @@ Vervallen
 
 3. De belanghebbende moet voldoen aan de volgende voorwaarden:
 
-- a. van de invoer van goederen als zijn bedoeld in het eerste lid, wordt afzonderlijk aantekening gehouden op de voet van [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=XII&artikel=31&z=2005-07-01&g=2005-07-01);
+- a. van de invoer van goederen als zijn bedoeld in het eerste lid, wordt afzonderlijk aantekening gehouden op de voet van [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=XII&artikel=31&z=2006-01-01&g=2006-01-01);
 
-- b. bij aangifte ten invoer van de hiervoor bedoelde goederen worden bescheiden - een kopie-factuur, vracht- en ladingspapieren en dergelijke - overgelegd waaruit blijkt dat de goederen voor belanghebbende zijn bestemd en de regeling van [artikel 23 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=23) van toepassing is. Op deze bescheiden moeten datum en nummer van de in het eerste lid bedoelde beschikking, alsmede in voorkomende gevallen het op de voet van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=VII&artikel=18&z=2005-07-01&g=2005-07-01) aan belanghebbende toegekende btw-identificatienummer zijn vermeld.
+- b. bij aangifte ten invoer van de hiervoor bedoelde goederen worden bescheiden - een kopie-factuur, vracht- en ladingspapieren en dergelijke - overgelegd waaruit blijkt dat de goederen voor belanghebbende zijn bestemd en de regeling van [artikel 23 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=23) van toepassing is. Op deze bescheiden moeten datum en nummer van de in het eerste lid bedoelde beschikking, alsmede in voorkomende gevallen het op de voet van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=VII&artikel=18&z=2006-01-01&g=2006-01-01) aan belanghebbende toegekende btw-identificatienummer zijn vermeld.
 
 4. De inspecteur is bevoegd in bepaalde gevallen nadere voorwaarden te stellen.
 
@@ -1740,270 +1732,10 @@ andere voorwerpen dan kunstvoorwerpen en voorwerpen voor verzamelingen, ouder da
 
 ## Bijlage L
 
-| **LAND VAN UITGIFTE** | **MUNTEENHEID** |
-| --- | --- |
-| **AFGHANISTAN** | (20 AFGHANI) 10 000 AFGHANI (½ AMANI) (1 AMANI) (2 AMANI) (4 GRAMS) (8 GRAMS) 1 TILLA 2 TILLAS |
-|   |   |
-| **ALBANIË** | 20 LEKE 50 LEKE 100 LEKE 200 LEKE 500 LEKE |
-|   |   |
-| **ALDERNEY** | 25 POUNDS |
-|   |   |
-| **ANDORRA** | 50 DINERS 100 DINERS 250 DINERS 1 SOVEREIGN |
-|   |   |
-| **ANGUILLA** | 5 DOLLARS 10 DOLLARS 20 DOLLARS 100 DOLLARS |
-|   |   |
-| **ARGENTINIË** | 1 ARGENTINO |
-|   |   |
-| **AUSTRALIË** | 5 DOLLARS 15 DOLLARS 25 DOLLARS 50 DOLLARS 100 DOLLARS 150 DOLLARS 200 DOLLARS 250 DOLLARS 500 DOLLARS 1 000 DOLLARS 2 500 DOLLARS 3 000 DOLLARS 10 000 DOLLARS ½ SOVEREIGN (= ½ POUND) |
-|   |   |
-| **BAHAMA’S** | 10 DOLLARS 20 DOLLARS 25 DOLLARS 50 DOLLARS 100 DOLLARS 150 DOLLARS 200 DOLLARS 2 500 DOLLARS |
-|   |   |
-| **BELGIË** | 10 ECU 25 ECU 50 ECU 100 ECU 100 EURO 5 000 FRANCS |
-|   |   |
-| **BELIZE** | 25 DOLLARS 50 DOLLARS 100 DOLLARS 250 DOLLARS |
-|   |   |
-| **BERMUDA** | 10 DOLLARS 25 DOLLARS 50 DOLLARS 60 DOLLARS 100 DOLLARS 200 DOLLARS 250 DOLLARS |
-|   |   |
-| **BHUTAN** | 1 SERTUM 2 SERTUMS 5 SERTUMS |
-|   |   |
-| **BOLIVIA** | 4 000 PESOS BOLIVIANOS |
-|   |   |
-| **BOTSWANA** | 5 PULA 150 PULA 10 THEBE |
-|   |   |
-| **BRAZILIË** | 300 CRUZEIROS (4 000 REIS) (5 000 REIS) (6 400 REIS) (10 000 REIS) (20 000 REIS) |
-|   |   |
-| **BRITSE MAAGDENEILANDEN** | 100 DOLLARS |
-|   |   |
-| **BULGARIJE** | 10 LEVA 100 LEVA |
-|   |   |
-| **BURUNDI** | 10 FRANCS 25 FRANCS 50 FRANCS 100 FRANCS |
-|   |   |
-| **CANADA** | 1 DOLLAR 2 DOLLARS 5 DOLLARS 10 DOLLARS 20 DOLLARS 50 DOLLARS 175 DOLLARS 200 DOLLARS 350 DOLLARS |
-|   |   |
-| **CAYMANEILANDEN** | 25 DOLLARS 50 DOLLARS 100 DOLLARS 250 DOLLARS |
-|   |   |
-| **CHILI** | 2 PESOS 5 PESOS 10 PESOS 20 PESOS 50 PESOS 100 PESOS 200 PESOS |
-|   |   |
-| **CHINA** | 5 (YUAN) 10 (YUAN) 25 (YUAN) 50 (YUAN) 100 (YUAN) 150 (YUAN) 200 (YUAN) 250 (YUAN) 300 (YUAN) 400 (YUAN) 450 (YUAN) 500 (YUAN) 1 000 (YUAN) |
-|   |   |
-| **COLOMBIA** | 1 PESO 2 PESOS 2½ PESOS 5 PESOS 10 PESOS 20 PESOS 100 PESOS 200 PESOS 300 PESOS 500 PESOS 1 000 PESOS 1 500 PESOS 2 000 PESOS 15 000 PESOS |
-|   |   |
-| **CONGO** | 10 FRANCS 20 FRANCS 25 FRANCS 50 FRANCS 100 FRANCS |
-|   |   |
-| **COOKEILANDEN** | 100 DOLLARS 200 DOLLARS 250 DOLLARS |
-|   |   |
-| **COSTA RICA** | 5 COLONES 10 COLONES 20 COLONES 50 COLONES 100 COLONES 200 COLONES 1 500 COLONES 5 000 COLONES 25 000 COLONES |
-|   |   |
-| **CUBA** | 4 PESOS 5 PESOS 10 PESOS 20 PESOS 50 PESOS 100 PESOS |
-|   |   |
-| **CYPRUS** | 50 POUNDS |
-|   |   |
-| **DENEMARKEN** | 20 KRONER |
-|   |   |
-| **DOMINICAANSE REPUBLIEK** | 30 PESOS 100 PESOS 200 PESOS 250 PESOS |
-|   |   |
-| **DUITSLAND** | 10 MARK |
-|   |   |
-| **ECUADOR** | 1 CONDOR 10 SUCRES |
-|   |   |
-| **EILAND MAN** | 1/20 ANGEL 1/10 ANGEL ¼ ANGEL ½ ANGEL 1 ANGEL 5 ANGEL 10 ANGEL 15 ANGEL 20 ANGEL 1/25 CROWN 1/10 CROWN 1/5 CROWN ½ CROWN 1 CROWN 1 POUND 2 POUNDS 5 POUNDS 50 POUNDS (½ SOVEREIGN) (1 SOVEREIGN) (2 SOVEREIGNS) (5 SOVEREIGNS) |
-|   |   |
-| **EL SALVADOR** | 25 COLONES 50 COLONES 100 COLONES 200 COLONES 250 COLONES |
-|   |   |
-| **EQUATORIAAL-GUINEA** | 250 PESETAS 500 PESETAS 750 PESETAS 1 000 PESETAS 5 000 PESETAS |
-|   |   |
-| **ETHIOPIË** | 400 BIRR 600 BIRR 10 (DOLLARS) 20 (DOLLARS) 50 (DOLLARS) 100 (DOLLARS) 200 (DOLLARS) |
-|   |   |
-| **FIJI** | 200 DOLLARS 250 DOLLARS |
-|   |   |
-| **FILIPIJNEN** | 1 000 PISO 1 500 PISO 5 000 PISO |
-| **FRANKRIJK** | 10 EURO 20 EURO 50 EURO 5 FRANCS 10 FRANCS 40 FRANCS 50 FRANCS 100 FRANCS |
-|   |   |
-| **GABON** | 10 FRANCS 25 FRANCS 50 FRANCS 100 FRANCS 3 000 FRANCS 5 000 FRANCS 10 000 FRANCS 20 000 FRANCS |
-|   |   |
-| **GAMBIA** | 200 DALASIS 500 DALASIS 1 000 DALASIS |
-|   |   |
-| **GIBRALTAR** | 2 CROWNS 25 POUNDS 50 POUNDS 100 POUNDS 1/25 ROYAL 1/10 ROYAL 1/5 ROYAL ½ ROYAL 1 ROYAL |
-|   |   |
-| **GUATEMALA** | 5 QUETZALES 10 QUETZALES 20 QUETZALES |
-|   |   |
-| **GUERNSEY** | 1 POUND 5 POUNDS 10 POUNDS 25 POUNDS 50 POUNDS 100 POUNDS |
-|   |   |
-| **GUINEE** | 1 000 FRANCS 2 000 FRANCS 5 000 FRANCS 10 000 FRANCS |
-|   |   |
-| **HAÏTI** | 20 GOURDES 50 GOURDES 100 GOURDES 200 GOURDES 500 GOURDES 1 000 GOURDES |
-|   |   |
-| **HONDURAS** | 200 LEMPIRAS 500 LEMPIRAS |
-|   |   |
-| **HONGARIJE** | 1 DUKAT 8 FORINT = 20 FRANCS 50 FORINT 100 FORINT 200 FORINT 500 FORINT 1 000 FORINT 5 000 FORINT 10 000 FORINT 20 000 FORINT 50 000 FORINT 100 000 FORINT 20 KORONA 100 KORONA |
-|   |   |
-| **HONGKONG** | 1 000 DOLLARS |
-|   |   |
-| **IJSLAND** | 500 KRONUR |
-|   |   |
-| **INDIA** | 1 MOHUR 15 RUPEES 1 SOVEREIGN |
-|   |   |
-| **INDONESIË** | 2 000 RUPIAH 5 000 RUPIAH 10 000 RUPIAH 20 000 RUPIAH 25 000 RUPIAH 100 000 RUPIAH 200 000 RUPIAH |
-|   |   |
-| **IRAK** | (5 DINARS) (50 DINARS) (100 DINARS) |
-| **IRAN** | (½ AZADI) (1 AZADI) (¼ PAHLAVI) (½ PAHLAVI) (1 PAHLAVI) (2½ PAHLAVI) (5 PAHLAVI) (10 PAHLAVI) 500 RIALS 750 RIALS 1 000 RIALS 2 000 RIALS |
-|   |   |
-| **ISRAËL** | 20 LIROT 50 LIROT 100 LIROT 200 LIROT 500 LIROT 1 000 LIROT 5 000 LIROT 5 NEW SHEQALIM 10 NEW SHEQALIM 20 NEW SHEQALIM 5 SHEQALIM 10 SHEQALIM 500 SHEQEL |
-|   |   |
-| **IVOORKUST** | 10 FRANCS 25 FRANCS 50 FRANCS 100 FRANCS |
-|   |   |
-| **JAMAICA** | 100 DOLLARS 250 DOLLARS |
-|   |   |
-| **JERSEY** | 1 POUND 2 POUNDS 5 POUNDS 10 POUNDS 20 POUNDS 25 POUNDS 50 POUNDS 100 POUNDS 1 SOVEREIGN |
-|   |   |
-| **JOEGOSLAVIË** | 20 DINARA 100 DINARA 200 DINARA 500 DINARA 1 000 DINARA 1 500 DINARA 2 000 DINARA 2 500 DINARA 5 000 DINARA |
-|   |   |
-| **JORDANIË** | 2 DINARS 5 DINARS 10 DINARS 25 DINARS 50 DINARS 60 DINARS |
-|   |   |
-| **KATANGA** | 5 FRANCS |
-|   |   |
-| **KENIA** | 100 SHILLINGS 250 SHILLINGS 500 SHILLINGS |
-|   |   |
-| **KIRIBATI** | 150 DOLLARS |
-|   |   |
-| **LESOTHO** | 1 LOTI 2 MALOTI 4 MALOTI 10 MALOTI 20 MALOTI 50 MALOTI 100 MALOTI 250 MALOTI 500 MALOTI |
-|   |   |
-| **LETLAND** | 100 LATUS |
-|   |   |
-| **LIBERIA** | 12 DOLLARS 20 DOLLARS 25 DOLLARS 30 DOLLARS 100 DOLLARS 250 DOLLARS |
-|   |   |
-| **LUXEMBURG** | 5 EURO 20 FRANCS |
-|   |   |
-| **MACAO** | 500 PATACAS 1 000 PATACAS |
-|   |   |
-| **MALAWI** | 250 KWACHA |
-|   |   |
-| **MALEISIË** | 100 RINGGIT 200 RINGGIT 250 RINGGIT 500 RINGGIT |
-|   |   |
-| **MALI** | 10 FRANCS 25 FRANCS 50 FRANCS 100 FRANCS |
-|   |   |
-| **MALTA** | 5 (LIRI) 10 (LIRI) 20 (LIRI) 25 (LIRI) 50 (LIRI) 100 (LIRI) |
-|   |   |
-| **MARSHALLEILANDEN** | 20 DOLLARS 50 DOLLARS 200 DOLLARS |
-|   |   |
-| **MAURITIUS** | 100 RUPEES 200 RUPEES 250 RUPEES 500 RUPEES 1 000 RUPEES |
-|   |   |
-| **MEXICO** | 2 PESOS 2½ PESOS 5 PESOS 10 PESOS 20 PESOS 50 PESOS 250 PESOS 500 PESOS 1 000 PESOS 2 000 PESOS 1/20 ONZA 1/10 ONZA ¼ ONZA ½ ONZA 1 ONZA |
-|   |   |
-| **MONACO** | 20 FRANCS 100 FRANCS 200 FRANCS |
-|   |   |
-| **MONGOLIË** | 750 (TUGRIK) 1 000 (TUGRIK) |
-|   |   |
-| **NEDERLAND** | 1 DUKAAT (2 DUKAAT) 1 GULDEN 5 GULDEN |
-|   |   |
-| **NEDERLANDSE ANTILLEN** | 5 GULDEN 10 GULDEN 50 GULDEN 100 GULDEN 300 GULDEN |
-|   |   |
-| **NEPAL** | 1 ASARPHI 1 000 RUPEES |
-|   |   |
-| **NICARAGUA** | 50 CORDOBAS |
-|   |   |
-| **NIEUW-ZEELAND** | 10 DOLLARS 150 DOLLARS |
-|   |   |
-| **NIGER** | 10 FRANCS 25 FRANCS 50 FRANCS 100 FRANCS |
-|   |   |
-| **NOORWEGEN** | 10 KRONER 1 500 KRONER |
-|   |   |
-| **OMAN** | 25 OMANI RIALS 75 OMANI RIALS |
-|   |   |
-| **OOSTENRIJK** | (1 DUCAT) (4 DUCATS) 10 EURO 25 EURO 50 EURO 100 EURO 4 FLORIN = 10 FRANCS (= 4 GULDEN) 8 FLORIN = 20 FRANCS (= 8 GULDEN) 20 CORONA (= 20 KRONEN) 100 CORONA (= 100 KRONEN) 25 SCHILLING 100 SCHILLING 200 SCHILLING 1 000 SCHILLING 2 000 SCHILLING |
-|   |   |
-| **PAKISTAN** | 3 000 RUPEES |
-|   |   |
-| **PANAMA** | 100 BALBOAS 500 BALBOAS |
-|   |   |
-| **PAPOEA-NIEUW-GUINEA** | 100 KINA |
-|   |   |
-| **PERU** | 1/5 LIBRA ½ LIBRA 1 LIBRA 5 SOLES 10 SOLES 20 SOLES 50 SOLES 100 SOLES |
-|   |   |
-| **POLEN** | 50 ZLOTY (Golden Eagle) 100 ZLOTY (Golden Eagle) 100 ZLOTY 200 ZLOTY (Golden Eagle) 200 ZLOTY 500 ZLOTYCH 500 ZLOTY (Golden Eagle) 200 000 ZLOTYCH 500 000 ZLOTYCH |
-|   |   |
-| **PORTUGAL** | 100 ESCUDOS 200 ESCUDOS 500 ESCUDOS 10 000 REIS |
-|   |   |
-| **RHODESIË** | 10 SHILLINGS 1 POUND 5 POUNDS |
-|   |   |
-| **RUSLAND** | 5 ROUBLES 10 (ROUBLES) 15 (ROUBLES) 25 ROUBLES 50 (ROUBLES) 200 (ROUBLES) |
-|   |   |
-| **RWANDA** | 10 FRANCS 25 FRANCS 50 FRANCS 100 FRANCS |
-|   |   |
-| **SALOMONSEILANDEN** | 10 DOLLARS 25 DOLLARS 50 DOLLARS 100 DOLLARS |
-|   |   |
-| **SAN MARINO** | 1 SCUDO 2 SCUDI 5 SCUDI 10 SCUDI |
-|   |   |
-| **SAUDI-ARABIË** | 1 GUINEA (= 1 SAUDI POUND) |
-|   |   |
-| **SENEGAL** | 10 FRANCS 25 FRANCS 50 FRANCS 100 FRANCS 250 FRANCS 500 FRANCS 1 000 FRANCS 2 500 FRANCS |
-|   |   |
-| **SERVIË** | 10 DINARA 20 DINARA |
-|   |   |
-| **SEYCHELLEN** | 1 000 RUPEES 1 500 RUPEES |
-|   |   |
-| **SIERRA LEONE** | ¼ GOLDE ½ GOLDE 1 GOLDE 5 GOLDE 10 GOLDE 20 LEONES 50 LEONES 100 LEONES 250 LEONES 500 LEONES |
-|   |   |
-| **SINGAPORE** | 1 DOLLAR 2 DOLLARS 5 DOLLARS 10 DOLLARS 20 DOLLARS 25 DOLLARS 50 DOLLARS 100 DOLLARS 150 DOLLARS 250 DOLLARS 500 DOLLARS |
-|   |   |
-| **SLOVENIË** | 5 000 TOLARS 20 000 TOLARS |
-|   |   |
-| **SLOWAKIJE** | 1 DUKAT 2 DUKAT 5 DUKAT 10 DUKAT |
-|   |   |
-| **SOMALIË** | 20 SHILLINGS 50 SHILLINGS 100 SHILLINGS 200 SHILLINGS 500 SHILLINGS 1 500 SHILLINGS |
-|   |   |
-| **SPANJE** | 2 (ESCUDOS) 10 (ESCUDOS) 10 PESETAS 20 PESETAS 5 000 PESETAS 10 000 PESETAS 20 000 PESETAS 40 000 PESETAS 80 000 PESETAS 100 (REALES) |
-|   |   |
-| **SUDAN** | 25 POUNDS 50 POUNDS 100 POUNDS |
-|   |   |
-| **SURINAME** | 100 GULDEN |
-|   |   |
-| **SWAZILAND** | 2 EMALANGENI 5 EMALANGENI 10 EMALANGENI 20 EMALANGENI 25 EMALANGENI 50 EMALANGENI 100 EMALANGENI 250 EMALANGENI 1 LILANGENI |
-|   |   |
-| **SYRIË** | (½ POUND) (1 POUND) |
-|   |   |
-| **TANZANIA** | 1 500 SHILINGI 2 000 SHILLINGI |
-|   |   |
-| **THAILAND** | (150 BAHT) (300 BAHT) (400 BAHT) (600 BAHT) (800 BAHT) (1 500 BAHT) (2 500 BAHT) (3 000 BAHT) (4 000 BAHT) (5 000 BAHT) (6 000 BAHT) |
-|   |   |
-| **TONGA** | ½ HAU 1 HAU 5 HAU ¼ KOULA ½ KOULA 1 KOULA |
-|   |   |
-| **TSJAAD** | 3 000 FRANCS 5 000 FRANCS 10 000 FRANCS 20 000 FRANCS |
-|   |   |
-| **TSJECHIË** | 1 000 KORUN (I 000 Kč) 2 000 KORUN (2 000 Kč) 2 500 KORUN (2 500 Kč) 5 000 KORUN (5 000 Kč) 10 000 KORUN (10 000 Kč) |
-|   |   |
-| **TUNESIË** | 2 DINARS 5 DINARS 10 DINARS 20 DINARS 40 DINARS 75 DINARS 10 FRANCS 20 FRANCS 5 PIASTRES |
-|   |   |
-| **TURKIJE** | (25 KURUSH) (= 25 PIASTRES) (50 KURUSH) (= 50 PIASTRES) (100 KURUSH) (= 100 PIASTRES) (250 KURUSH) (= 250 PIASTRES) ½ LIRA 1 LIRA 500 LIRA 1 000 LIRA 10 000 LIRA |
-|   |   |
-| **TURKS- & CAICOSEILANDEN** | 100 CROWNS |
-|   |   |
-| **TUVALU** | 50 DOLLARS |
-|   |   |
-| **UGANDA** | 50 SHILLINGS 100 SHILLINGS 500 SHILLINGS 1 000 SHILLINGS |
-|   |   |
-| **URUGUAY** | 5 000 NUEVO PESOS 20 000 NUEVO PESOS 5 PESOS |
-|   |   |
-| **VATICAANSTAD** | 20 LIRE |
-|   |   |
-| **VENEZUELA** | (10 BOLIVARES) (20 BOLIVARES) (100 BOLIVARES) 1 000 BOLIVARES 3 000 BOLIVARES 5 000 BOLIVARES 10 000 BOLIVARES 5 VENEZOLANOS |
-|   |   |
-| **VERENIGDE ARABISCHE EMIRATEN** | (500 DIRHAMS) (750 DIRHAMS) (1 000 DIRHAMS) |
-|   |   |
-| **VERENIGDE STATEN VAN AMERIKA** | 20 DOLLARS 25 DOLLARS 50 DOLLARS |
-|   |   |
-| **VERENIGD KONINKRIJK** | (1/3 GUINEA) (½ GUINEA) 50 PENCE 2 POUNDS 5 POUNDS 10 POUNDS 25 POUNDS 50 POUNDS 100 POUNDS ½ SOVEREIGN (2 SOVEREIGNS) (5 SOVEREIGNS) |
-|   |   |
-| **WEST-SAMOA** | 50 TALA 100 TALA |
-|   |   |
-| **ZAÏRE** | 100 ZAIRES |
-|   |   |
-| **ZAMBIA** | 250 KWACHA |
-|   |   |
-| **ZUID-AFRIKA** | 1/10 KRUGERRAND ¼ KRUGERRAND ½ KRUGERRAND 1 KRUGERRAND 1/10 oz NATURA ¼ oz NATURA ½ oz NATURA 1 oz NATURA 1/10 PROTEA 1 PROTEA 1 RAND 2 RAND ½ SOVEREIGN (= ½ POUND) 1 SOVEREIGN (= 1 POUND) |
-|   |   |
-| **ZUID-KOREA** | 2 500 WON 20 000 WON 25 000 WON 30 000 WON 50 000 WON |
-|   |   |
-| **ZWEDEN** | 5 CROWNS |
-|   |   |
-| **ZWITSERLAND** | 10 FRANCS 20 FRANCS 50 FRANCS 100 FRANCS |
+### **Lijst van gouden munten als bedoeld in artikel 28j, eerste lid, onderdeel c, van de wet**
+
+([artikel 29a van de Uitvoeringsbeschikking omzetbelasting 1968](onbekend))
+
+(Publicatieblad van de Europese Unie 2005/C 300/04)
+
+Geldig voor het jaar 2006
