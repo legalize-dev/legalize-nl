@@ -4,7 +4,7 @@ identifier: "BWBR0011980"
 country: "nl"
 rank: "wet"
 publication_date: "2007-06-01"
-last_updated: "2000-12-28"
+last_updated: "2006-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011980"
 soort: "wet"
@@ -84,15 +84,15 @@ Wijzigt de Coördinatiewet Sociale Verzekering.
 
 1. Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.
 
-2. In afwijking in zoverre van het eerste lid werkt [artikel I, onderdelen B, C, onder 2, en C, onder 3](https://wetten.overheid.nl/jci1.3:c:BWBR0011980&artikel=I&z=2000-12-28&g=2000-12-28), terug tot en met 28 februari 2000.
+2. In afwijking in zoverre van het eerste lid werkt [artikel I, onderdelen B, C, onder 2, en C, onder 3](https://wetten.overheid.nl/jci1.3:c:BWBR0011980&artikel=I&z=2006-01-01&g=2006-01-01), terug tot en met 28 februari 2000.
 
 3. De referentieperiode van een jaar, bedoeld in [artikel 4, eerste lid, onderdeel a, van de Wet op belastingen van rechtsverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=4), is niet van toepassing voorzover deze periode is gelegen voor de datum van inwerkingtreding van deze wet.
 
 4. Op de verkrijging krachtens inbreng in een vennootschap die geen in aandelen verdeeld kapitaal heeft, blijven wat de overdrachtsbelasting betreft de regels van toepassing die gelden voor de inwerkingtreding van deze wet, indien wordt aangetoond dat de inbreng het gevolg is van een voor 28 februari 2000 bestaande schriftelijke overeenkomst.
 
-5. In afwijking in zoverre van het eerste lid treden [artikel II, onderdelen A, B, C, D, E, F en H, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0011980&artikel=II&z=2000-12-28&g=2000-12-28), alsmede de [artikelen III](https://wetten.overheid.nl/jci1.3:c:BWBR0011980&artikel=III&z=2000-12-28&g=2000-12-28), [IV](https://wetten.overheid.nl/jci1.3:c:BWBR0011980&artikel=IV&z=2000-12-28&g=2000-12-28) en [VI](https://wetten.overheid.nl/jci1.3:c:BWBR0011980&artikel=VI&z=2000-12-28&g=2000-12-28) in werking op een bij koninklijk besluit te bepalen tijdstip.
+5. In afwijking in zoverre van het eerste lid treden [artikel II, onderdelen A, B, C, D, E, F, H, eerste volzin, en IA](https://wetten.overheid.nl/jci1.3:c:BWBR0011980&artikel=II&z=2006-01-01&g=2006-01-01), alsmede de [artikelen III](https://wetten.overheid.nl/jci1.3:c:BWBR0011980&artikel=III&z=2006-01-01&g=2006-01-01), [IV](https://wetten.overheid.nl/jci1.3:c:BWBR0011980&artikel=IV&z=2006-01-01&g=2006-01-01) en [VI](https://wetten.overheid.nl/jci1.3:c:BWBR0011980&artikel=VI&z=2006-01-01&g=2006-01-01) in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-6. In afwijking van het eerste lid treedt [artikel II, onderdelen G, H, tweede volzin, I, J en L](https://wetten.overheid.nl/jci1.3:c:BWBR0011980&artikel=II&z=2000-12-28&g=2000-12-28), in werking met ingang van de in het eerste lid bedoelde datum, met dien verstande dat op verkrijgingen in de zin van de [Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226) die hebben plaatsgevonden vóór die datum, de [Natuurschoonwet 1928](https://wetten.overheid.nl/jci1.3:c:BWBR0001939) van toepassing is zoals die luidde op de dag voorafgaande aan de datum van inwerkingtreding van deze wet.
+6. In afwijking van het eerste lid treedt [artikel II, onderdelen G, H, tweede volzin, I, J en L](https://wetten.overheid.nl/jci1.3:c:BWBR0011980&artikel=II&z=2006-01-01&g=2006-01-01), in werking met ingang van de in het eerste lid bedoelde datum, met dien verstande dat op verkrijgingen in de zin van de [Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226) die hebben plaatsgevonden vóór die datum, de [Natuurschoonwet 1928](https://wetten.overheid.nl/jci1.3:c:BWBR0001939) van toepassing is zoals die luidde op de dag voorafgaande aan de datum van inwerkingtreding van deze wet.
 
 7. Wijzigt deze wet.
 
