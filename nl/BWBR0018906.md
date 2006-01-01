@@ -530,25 +530,3 @@ De artikelen van deze wet treden in werking op een bij koninklijk besluit te bep
 Deze wet wordt aangehaald als: Wet toelating zorginstellingen.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-### Hoofdstuk VII. Toezicht
-
-### Hoofdstuk IX. Rechtsbescherming
-
-### Hoofdstuk X. Overgangs- en slotbepalingen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-### Hoofdstuk IV. Exploitatie
-
-### Hoofdstuk V. Sanering
-
-### Hoofdstuk VI. College sanering
-
-### Hoofdstuk VII. Toezicht
-
-### Hoofdstuk VIII. Sancties
-
-### Hoofdstuk IX. Rechtsbescherming
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
