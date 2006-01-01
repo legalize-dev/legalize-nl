@@ -4,7 +4,7 @@ identifier: "BWBR0005569"
 country: "nl"
 rank: "wet"
 publication_date: "2015-01-01"
-last_updated: "2004-01-01"
+last_updated: "2006-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005569"
 soort: "wet"
@@ -56,11 +56,11 @@ De gewezen militair, die een werkelijke dienst aan kan wijzen van ten minste vij
 
 ##### Artikel 3
 
-Indien de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005569&artikel=2&z=2004-01-01&g=2004-01-01) genoemde aanspraak in verband met het overlijden van de militair niet kan worden geëffectueerd, heeft de weduwe recht op een eenmalige uitkering, gelijk aan het bedrag dat wordt gevonden door het in dat artikel genoemde bedrag van € 3403,35 te vermenigvuldigen met een breuk, waarvan de teller gelijk is aan dat deel van de werkelijke dienst waarin zij met de militair gehuwd is geweest en de noemer gelijk is aan de werkelijke dienst.
+Indien de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005569&artikel=2&z=2006-01-01&g=2006-01-01) genoemde aanspraak in verband met het overlijden van de militair niet kan worden geëffectueerd, heeft de weduwe recht op een eenmalige uitkering, gelijk aan het bedrag dat wordt gevonden door het in dat artikel genoemde bedrag van € 3403,35 te vermenigvuldigen met een breuk, waarvan de teller gelijk is aan dat deel van de werkelijke dienst waarin zij met de militair gehuwd is geweest en de noemer gelijk is aan de werkelijke dienst.
 
 ##### Artikel 4
 
-De over de uitkering verschuldigde belasting ingevolge de Wet op de inkomstenbelasting 1964 (**Stb.** 1990, 103), de [Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471) (**Stb.** 1990, 104) en premie voor de volksverzekeringen ingevolge de [Wet financiering volksverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0004538) (**Stb.** 1989, 129) komen ten laste van het Rijk.
+De over de uitkering verschuldigde belasting ingevolge de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) en de [Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471) alsmede de premie voor de volksverzekeringen ingevolge de [Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745) komen ten laste van het Rijk.
 
 ##### Artikel 5
 
