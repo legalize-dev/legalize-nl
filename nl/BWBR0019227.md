@@ -77,17 +77,3 @@ Deze regeling treedt in werking met ingang van 1 januari 2006, en vervalt met in
 Deze regeling wordt aangehaald als: Warenwetregeling aanwijzing en werkwijze toezichthouders COKZ en CPE.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 5a
-
-1. De IG-NVWA is toegestaan ter zake van het verlenen van erkenningen, bedoeld in artikel 4 van [verordening (EG) 853/2004](32004R0853), ondermandaat te verlenen aan de directeur van het COKZ, wat betreft inrichtingen waar handelingen worden verricht waarvoor bijlage III, sectie XI of X, van [verordening (EG) 853/2004](32004R0853) voorschriften bevat.
-
-2. De in het eerste lid bedoelde besluiten worden als volgt ondertekend:
-
-‘De Minister voor Medische Zorg,
-
-namens deze,
-
-de directeur van het Centraal Orgaan voor Kwaliteitsaangelegenheden in de Zuivel,’.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
