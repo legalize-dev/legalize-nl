@@ -317,37 +317,3 @@ Dit besluit treedt in werking met ingang van 1 januari 2006.
 Dit besluit wordt aangehaald als: Warenwetbesluit hygiëne van levensmiddelen.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 10a
-
-Bij regeling van Onze Minister worden nadere regels vastgesteld waarbij met inachtneming van artikel 8 van [verordening (EG) 2073/2005](32005R2073) een tijdelijke afwijking wordt toegestaan van de naleving van de criteria voor Salmonella in gehakt vlees, vleesbereidingen en vleesproducten, bestemd voor consumptie na verhitting, bedoeld in de punten 1.5, 1.6 en 1.9, van bijlage I, van [verordening (EG) 2073/2005](32005R2073).
-
-#### § 6. Slotbepalingen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 8a
-
-1. De exploitant, bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018823&paragraaf=5&artikel=8&z=2025-01-01&g=2025-01-01), zorgt ervoor dat op de recipiënten met rauwe melk of rauwe room bestemd voor rechtstreekse menselijke consumptie, met uitzondering van de melktank, de datum en het tijdstip van winning van de rauwe melk of rauwe room worden vermeld.
-
-2. De exploitant, bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018823&paragraaf=5&artikel=8&z=2025-01-01&g=2025-01-01), zorgt ervoor dat op de verpakkingen van rauwe melk en rauwe room bestemd voor rechtstreekse menselijke consumptie of in de directe omgeving van deze producten als ze pas bij aflevering worden verpakt, duidelijk leesbaar de volgende vermelding wordt vermeld:
-
-- a. indien het rauwe melk of rauwe biest betreft: RAUWE MELK / BIEST * GEBRUIKEN OP DE DAG VAN AANKOOP * GEEF SCHADELIJKE BACTERIËN GEEN KANS * KOKEN VOOR GEBRUIK AANBEVOLEN;
-
-- b. indien het rauwe room betreft: RAUWE ROOM * GEBRUIKEN OP DE DAG VAN AANKOOP * GEEF SCHADELIJKE BACTERIËN GEEN KANS * KOKEN VOOR GEBRUIK AANBEVOLEN.
-
-3. In afwijking van het tweede lid is de vermelding «GEBRUIKEN OP DE DAG VAN AANKOOP» niet verplicht indien de verpakking is voorzien van een datum van minimale houdbaarheid of een uiterste consumptiedatum.
-
-#### § 6. Slotbepalingen
-
-## Bijlage. Criteria voor rauwe melk
-
-(Bijlage als bedoeld in [artikel 8, vijfde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0018823&paragraaf=5&artikel=8&z=2025-01-01&g=2025-01-01), van het Warenwetbesluit hygiëne van levensmiddelen)
-
-| Parameter | Parameterwaarde |
-| --- | --- |
-| Totaal aeroob kiemgetal bij 30 °C | ≤ 25.000 per ml voor rauwe melk van runderen of buffels |
-| Totaal aeroob kiemgetal bij 30 °C | ≤ 50.000 per ml voor rauwe melk van kamelen, dromedarissen, paarden of ezels |
-| Totaal aeroob kiemgetal bij 30 °C | ≤ 100.000 per ml voor rauwe melk van geiten, schapen of overige diersoorten |
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
