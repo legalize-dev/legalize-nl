@@ -4,7 +4,7 @@ identifier: "BWBR0002249"
 country: "nl"
 rank: "amvb"
 publication_date: "2006-01-01"
-last_updated: "1964-04-11"
+last_updated: "2006-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002249"
 soort: "AMvB"
@@ -48,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 2. Onder ouderdomspensioen wordt in dit besluit verstaan een pensioen, als bedoeld in de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221).
 
-3. Voor de toepassing van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002249&artikel=2&z=1964-04-11&g=1964-04-11) wordt onder uitkering mede verstaan de daarop verleende algemene toeslag krachtens Ons besluit van 1 juli 1957, nr. 36.
+3. Voor de toepassing van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002249&artikel=2&z=2006-01-01&g=2006-01-01) wordt onder uitkering mede verstaan de daarop verleende algemene toeslag krachtens Ons besluit van 1 juli 1957, nr. 36.
 
 ##### Artikel 2
 
@@ -72,7 +72,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 4
 
-Voor zover van een rechthebbende op een uitkering ter zake van het genot van die uitkering premie krachtens de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221) wordt geheven, wordt hem, voor rekening van het lichaam ten laste waarvan de uitkering is toegekend, overeenkomstig de verhouding, waarin de premie, bedoeld in [artikel 23 van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=23), voor de ambtenaren, in dienst van het Rijk, door wedde-verhoging wordt gecompenseerd, een vergoeding daarvoor verleend.
+Voor zover van een rechthebbende op een uitkering ter zake van het genot van die uitkering premie krachtens de [Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745) wordt geheven, wordt hem, voor rekening van het lichaam ten laste waarvan de uitkering is toegekend, overeenkomstig de verhouding, waarin de premie, bedoeld in [artikel 23 van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=23), voor de ambtenaren, in dienst van het Rijk, door wedde-verhoging wordt gecompenseerd, een vergoeding daarvoor verleend.
 
 ##### Artikel 5
 
