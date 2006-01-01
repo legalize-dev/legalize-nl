@@ -4,7 +4,7 @@ identifier: "BWBR0003302"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-07-01"
-last_updated: "2005-12-02"
+last_updated: "2006-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003302"
 soort: "ministeriele-regeling"
@@ -51,7 +51,7 @@ Het tarief voor de werkzaamheden van de Kamer voor de Binnenvisserij, zowel voor
 
 ##### Artikel 2
 
-Ten aanzien van ter goedkeuring ingediende overeenkomsten als bedoeld in artikel 36 geldt het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003302&paragraaf=1&artikel=1&z=2005-12-02&g=2005-12-02) vermelde tarief, met dien verstande, dat telkens in plaats van een huurprijs dient gelezen te worden: een prestatie.
+Ten aanzien van ter goedkeuring ingediende overeenkomsten als bedoeld in artikel 36 geldt het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003302&paragraaf=1&artikel=1&z=2006-01-01&g=2006-01-01) vermelde tarief, met dien verstande, dat telkens in plaats van een huurprijs dient gelezen te worden: een prestatie.
 
 ##### Artikel 2a
 
@@ -83,9 +83,7 @@ Regeling tarieven Kamer voor de Binnenvisserij en geldsom visakten.
 
 - 1. De geldsom voor de verkrijging van de grote visakte bedraagt voor 2006: € 47,50. In dit bedrag is vervat een bijdrage ter verbetering van de binnenvisserij ad € 45,37 en een bijdrage verband houdende met de kosten van uitgifte van de akten ad € 2,13.
 
-- 2. De geldsom voor de verkrijging van de sportvisakte bedraagt voor 2005: € 9,50. In dit bedrag is vervat een bijdrage ter verbetering van de binnenvisserij ad € 7,47 en een bijdrage verband houdende met de kosten van uitgifte van de akten ad € 2,03.
-
-- 3. De geldsom voor de verkrijging van de grote visakte bedraagt voor 2005: € 47,50. In dit bedrag is vervat een bijdrage ter verbetering van de binnenvisserij ad € 45,37 en een bijdrage verband houdende met de kosten van uitgifte van de akten ad € 2,13.
+- 2. De geldsom voor de verkrijging van de sportvisakte bedraagt voor 2006: € 9,50. In dit bedrag is vervat een bijdrage ter verbetering van de binnenvisserij ad € 7,47 en een bijdrage verband houdende met de kosten van uitgifte van de akten ad € 2,03.
 
 #### Paragraaf 3. Slotbepalingen
 
