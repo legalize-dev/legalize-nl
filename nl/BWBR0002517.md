@@ -4,7 +4,7 @@ identifier: "BWBR0002517"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-07-01"
-last_updated: "2004-01-01"
+last_updated: "2006-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002517"
 soort: "ministeriele-regeling"
@@ -39,19 +39,11 @@ Besluit:
 
 ##### Artikel 1
 
-Deze regeling geeft uitvoering aan de artikelen 4, tweede lid, 4c, vierde lid, 9 en 10 van de Wet op de dividendbelasting 1965.
+Deze regeling geeft uitvoering aan de [artikelen 4c, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=4c), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=9) en [10 van de Wet op de dividendbelasting 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=10).
 
 ##### Artikel 1a
 
-Indien een inhoudingsplichtige op de voet van [artikel 4, tweede lid, van de Wet op de dividendbelasting 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=4) inhouding van belasting achterwege laat, dient hij de volgende gegevens op overzichtelijk wijze te administreren:
-
-- a. de naam, het adres en het sociaal-fiscaal nummer van de werknemer aan wie de opbrengst ter beschikking wordt gesteld;
-
-- b. het aantal aandelen en het aantal winst-bewijzen dat de werknemer als loon of vrijgesteld loon heeft ontvangen en dat door hem op het tijdstip dat de opbrengst ter beschikking wordt gesteld, wordt gehouden;
-
-- c. het tijdstip waarop deze aandelen respectievelijk winstbewijzen als loon of vrijgesteld loon door de werknemer zijn ontvangen;
-
-- d. de opbrengst van deze aandelen respectievelijk winstbewijzen alsmede het gedeelte van deze opbrengst ten aanzien waarvan inhouding van belasting achterwege blijft.
+Vervallen
 
 ##### Artikel 1aa
 
@@ -107,7 +99,7 @@ Ingeval degene die ingevolge [artikel 9 van de Wet op de dividendbelasting 1965]
 
 - a. de dividendnota's doorlopend nummeren, al dan niet in series;
 
-- b. de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002517&artikel=2&z=2001-01-01&g=2004-01-01) bedoelde nota's afzonderlijk doorlopend nummeren;
+- b. de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002517&artikel=2&z=2006-01-01&g=2006-01-01) bedoelde nota's afzonderlijk doorlopend nummeren;
 
 - c. dubbelen van de dividendnota's vervaardigen en gedurende vijf jaren op serie en nummer bewaren.
 
