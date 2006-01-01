@@ -4,7 +4,7 @@ identifier: "BWBR0002770"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-07-01"
-last_updated: "2002-01-01"
+last_updated: "2006-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002770"
 soort: "AMvB"
@@ -60,7 +60,7 @@ De in [artikel 15 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&ar
 
 ##### Artikel 4
 
-1. De in [artikel 15, eerste lid, onderdeel e, onder 1°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=15) bedoelde vrijstelling bij inbreng in een vennootschap die geen in aandelen verdeeld kapitaal heeft, van een onderneming, waaronder mede wordt verstaan de onderneming bestaande in een deelgerechtigdheid in een maatschap, vennootschap onder firma of commanditaire vennootschap, is van toepassing indien alle tot het ondernemingsvermogen behorende activa en passiva worden ingebracht tegen bijschrijving op de kapitaalrekening van de vennootschap van een bedrag dat ten minste gelijk is aan de waarde in het economische verkeer van het vermogen van de ingebrachte onderneming dan wel de boekwaarde van dat vermogen, zoals die geldt voor de heffing van inkomstenbelasting of vennootschapsbelasting, in gevallen waarin de ondernemer inbrengt met voorbehoud van stille reserves.
+1. De in [artikel 15, eerste lid, onderdeel e, onder 1°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=15) bedoelde vrijstelling bij inbreng in een vennootschap die geen in aandelen verdeeld kapitaal heeft, van een onderneming, waaronder mede wordt verstaan de onderneming bestaande in een deelgerechtigdheid in een maatschap, vennootschap onder firma of commanditaire vennootschap, is van toepassing indien alle tot het ondernemingsvermogen behorende activa en passiva worden ingebracht tegen bijschrijving op de kapitaalrekening van de vennootschap van een bedrag dat ten minste 90 percent is van de waarde in het economische verkeer van het vermogen van de ingebrachte onderneming dan wel de boekwaarde van dat vermogen, zoals die geldt voor de heffing van inkomstenbelasting of vennootschapsbelasting, in gevallen waarin de ondernemer inbrengt met voorbehoud van stille reserves.
 
 2. In afwijking van het eerste lid is de aldaar bedoelde vrijstelling eveneens van toepassing indien de inbreng geen betrekking heeft op een onderneming maar op afzonderlijke onroerende zaken, mits de inbreng volgt op een verkrijging als bedoeld in [artikel 15, eerste lid, onderdeel f, onder 1° of 2°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=15), en de verkrijging en de inbreng uitsluitend plaatshebben in verband met de toetreding, uittreding of vervanging van vennoten, dan wel de toepassing van [artikel 14c van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=14c). De in dit lid bedoelde onroerende zaken moeten voorafgaand aan bedoelde verkrijging deel hebben uitgemaakt van het vermogen van de onderneming van de vennootschap en niet zijn gebruikt of bestemd voor gebruik in het kader van het verkrijgen, vervreemden, of exploiteren van onroerende zaken.
 
@@ -68,7 +68,7 @@ De in [artikel 15 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&ar
 
 4. De belasting die door toepassing van [artikel 15, eerste lid, onderdeel e, onder 1°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=15) niet is geheven ter zake van een inbreng is alsnog verschuldigd, indien de onderneming niet gedurende een periode van ten minste drie jaren na de inbreng door de vennootschap wordt voortgezet.
 
-5. Het derde en vierde lid blijft buiten toepassing in geval van een inbreng als bedoeld in het eerste lid, dan wel een omzetting als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002770&hoofdstuk=I&artikel=5&z=2002-01-01&g=2002-01-01).
+5. Het derde en vierde lid blijft buiten toepassing in geval van een inbreng als bedoeld in het eerste lid, dan wel een omzetting als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002770&hoofdstuk=I&artikel=5&z=2006-01-01&g=2006-01-01).
 
 6. Onder kapitaalrekening wordt verstaan de rekening op de balans van de vennootschap waarop de deelgerechtigdheid van de vennoot in het vermogen van de vennootschap wordt opgenomen.
 
@@ -84,7 +84,7 @@ De in [artikel 15 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&ar
 
 ##### Artikel 5
 
-1. De in [artikel 15, eerste lid, onderdeel **e**, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0002770&hoofdstuk=III&artikel=15&z=2002-01-01&g=2002-01-01), bedoelde vrijstelling bij omzetting van een niet in de vorm van een naamloze vennootschap of besloten vennootschap met beperkte aansprakelijkheid gedreven onderneming, waaronder mede wordt verstaan de onderneming bestaande in een deelgerechtigdheid in een maatschap, vennootschap onder firma of commanditaire vennootschap, in een naamloze vennootschap of besloten vennootschap met beperkte aansprakelijkheid is van toepassing indien alle tot het ondernemingsvermogen behorende activa en passiva worden ingebracht tegen toekenning van aandelen, mits de oprichters van de vennootschap in het aandelenkapitaal geheel of nagenoeg geheel in dezelfde verhouding gerechtigd zijn als in het vermogen van de omgezette onderneming.
+1. De in [artikel 15, eerste lid, onderdeel **e**, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0002770&hoofdstuk=III&artikel=15&z=2006-01-01&g=2006-01-01), bedoelde vrijstelling bij omzetting van een niet in de vorm van een naamloze vennootschap of besloten vennootschap met beperkte aansprakelijkheid gedreven onderneming, waaronder mede wordt verstaan de onderneming bestaande in een deelgerechtigdheid in een maatschap, vennootschap onder firma of commanditaire vennootschap, in een naamloze vennootschap of besloten vennootschap met beperkte aansprakelijkheid is van toepassing indien alle tot het ondernemingsvermogen behorende activa en passiva worden ingebracht tegen toekenning van aandelen, mits de oprichters van de vennootschap in het aandelenkapitaal geheel of nagenoeg geheel in dezelfde verhouding gerechtigd zijn als in het vermogen van de omgezette onderneming.
 
 2. Onder toekenning van aandelen wordt begrepen het geval waarin naast de toekenning van aandelen tevens een bedrag in geld wordt betaald van ten hoogste 10 percent van de waarde van hetgeen op de aandelen is gestort, met dien verstande dat ingeval de omzetting plaatsvindt met toepassing van [artikel 3.65 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.65), dit bedrag kan worden gesteld op het bedrag waarvoor de ondernemer op grond van de aan deze toepassing verbonden voorwaarden wordt gecrediteerd.
 
@@ -92,9 +92,9 @@ De in [artikel 15 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&ar
 
 4. De belasting die door toepassing van [artikel 15, eerste lid, onderdeel **e**, onder 2°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=15) niet is geheven ter zake van een omzetting is alsnog verschuldigd, indien de onderneming niet gedurende een periode van ten minste drie jaren na de omzetting door de vennootschap wordt voortgezet.
 
-5. Het derde lid blijft buiten toepassing in geval van vervreemding van de aandelen in het kader van een fusie, splitsing of interne reorganisatie als bedoeld in [artikel 37, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=37), met dien verstande dat de in dat kader verkregen aandelen in de plaats komen van de in het derde lid bedoelde aandelen.
+5. Het derde lid blijft buiten toepassing in geval van vervreemding van de aandelen in het kader van een splitsing als bedoeld in [artikel 5c](https://wetten.overheid.nl/jci1.3:c:BWBR0002770&hoofdstuk=I&artikel=5c&z=2006-01-01&g=2006-01-01), dan wel indien ten minste 75 percent van de aandelen van de opgerichte vennootschap wordt verkregen door een andere vennootschap tegen toekenning van eigen aandelen, met dien verstande dat de toegekende aandelen in de plaats komen van de in het derde lid bedoelde aandelen. Onder toekenning van aandelen wordt mede begrepen het geval waarin naast de toekenning van aandelen tevens een bedrag in geld wordt betaald van ten hoogste 10 percent van de nominale waarde van de toegekende aandelen.
 
-6. Het vierde lid blijft buiten toepassing in geval van vervreemding in het kader van een fusie als bedoeld in [artikel 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0002770&hoofdstuk=I&artikel=5a&z=2002-01-01&g=2002-01-01), een interne reorganisatie als bedoeld in [artikel 5b](https://wetten.overheid.nl/jci1.3:c:BWBR0002770&hoofdstuk=I&artikel=5b&z=2002-01-01&g=2002-01-01), dan wel een splitsing als bedoeld in [artikel 5c](https://wetten.overheid.nl/jci1.3:c:BWBR0002770&hoofdstuk=I&artikel=5c&z=2002-01-01&g=2002-01-01).
+6. Het vierde lid blijft buiten toepassing in geval van vervreemding in het kader van een fusie als bedoeld in [artikel 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0002770&hoofdstuk=I&artikel=5a&z=2006-01-01&g=2006-01-01), een interne reorganisatie als bedoeld in [artikel 5b](https://wetten.overheid.nl/jci1.3:c:BWBR0002770&hoofdstuk=I&artikel=5b&z=2006-01-01&g=2006-01-01), dan wel een splitsing als bedoeld in [artikel 5c](https://wetten.overheid.nl/jci1.3:c:BWBR0002770&hoofdstuk=I&artikel=5c&z=2006-01-01&g=2006-01-01).
 
 ##### Artikel 5a
 
@@ -106,21 +106,21 @@ De in [artikel 15 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&ar
 
 4. De belasting die door toepassing van [artikel 15, eerste lid, onderdeel h, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=15) niet is geheven ter zake van een fusie is alsnog verschuldigd, indien de onderneming niet gedurende een periode van ten minste drie jaren na de fusie door de verkrijgende vennootschap wordt voortgezet.
 
-5. Het derde lid blijft buiten toepassing in geval van vervreemding van de aandelen in het kader van een fusie, splitsing of interne reorganisatie als bedoeld in [artikel 37, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=37), met dien verstande dat de in dat kader verkregen aandelen in de plaats komen van de in het derde lid bedoelde aandelen.
+5. Het derde lid blijft buiten toepassing in geval van vervreemding van de aandelen in het kader van een interne reorganisatie als bedoeld in [artikel 5b](https://wetten.overheid.nl/jci1.3:c:BWBR0002770&hoofdstuk=I&artikel=5b&z=2006-01-01&g=2006-01-01), een splitsing als bedoeld in [artikel 5c](https://wetten.overheid.nl/jci1.3:c:BWBR0002770&hoofdstuk=I&artikel=5c&z=2006-01-01&g=2006-01-01), dan wel indien ten minste 75 percent van de aandelen van de vennootschap die de in het eerste lid bedoelde aandelen heeft toegekend, wordt verkregen door een andere vennootschap tegen toekenning van eigen aandelen, met dien verstande dat de toegekende aandelen in de plaats komen van de in het derde lid bedoelde aandelen. Onder toekenning van aandelen wordt mede begrepen het geval waarin naast de toekenning van aandelen tevens een bedrag in geld wordt betaald van ten hoogste 10 percent van de nominale waarde van de toegekende aandelen.
 
-6. Het vierde lid blijft buiten toepassing in geval van vervreemding van de onderneming in het kader van een fusie als bedoeld in dit artikel, een interne reorganisatie als bedoeld in [artikel 5b](https://wetten.overheid.nl/jci1.3:c:BWBR0002770&hoofdstuk=I&artikel=5b&z=2002-01-01&g=2002-01-01), dan wel een splitsing als bedoeld in [artikel 5c](https://wetten.overheid.nl/jci1.3:c:BWBR0002770&hoofdstuk=I&artikel=5c&z=2002-01-01&g=2002-01-01).
+6. Het vierde lid blijft buiten toepassing in geval van vervreemding van de onderneming in het kader van een fusie als bedoeld in dit artikel, een interne reorganisatie als bedoeld in [artikel 5b](https://wetten.overheid.nl/jci1.3:c:BWBR0002770&hoofdstuk=I&artikel=5b&z=2006-01-01&g=2006-01-01), dan wel een splitsing als bedoeld in [artikel 5c](https://wetten.overheid.nl/jci1.3:c:BWBR0002770&hoofdstuk=I&artikel=5c&z=2006-01-01&g=2006-01-01).
 
 7. Voor de toepassing van dit artikel wordt onder vennootschap verstaan de naamloze vennootschap, de besloten vennootschap met beperkte aansprakelijkheid, de open commanditaire vennootschap, alsmede andere vennootschappen welker kapitaal geheel of ten dele in aandelen is verdeeld. Onder vennootschap wordt mede verstaan de vereniging, coöperatie en onderlinge waarborgmaatschappij met een in aandelen verdeeld kapitaal. Tevens wordt daaronder verstaan het lichaam dat naar het recht van een andere Staat is opgericht en naar aard en inrichting vergelijkbaar is met een lichaam als bedoeld in dit lid.
 
 ##### Artikel 5b
 
-1. De in [artikel 15, eerste lid, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0002770&hoofdstuk=III&artikel=15&z=2002-01-01&g=2002-01-01), bedoelde vrijstelling wegens interne reorganisatie is van toepassing indien een tot het concern behorende vennootschap onroerende zaken overdraagt aan een andere vennootschap van dat concern.
+1. De in [artikel 15, eerste lid, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=15), bedoelde vrijstelling wegens interne reorganisatie is van toepassing indien een tot het concern behorende vennootschap onroerende zaken overdraagt aan een andere vennootschap van dat concern.
 
 2. Onder een concern wordt verstaan een vennootschap waarvan niet alle of nagenoeg alle aandelen onmiddellijk of middellijk in het bezit zijn van een andere vennootschap, te zamen met alle andere vennootschappen waarin zij onmiddellijk of middellijk alle of nagenoeg alle aandelen bezit.
 
 3. De belasting die door toepassing van [artikel 15, eerste lid, onderdeel h, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=15) niet is geheven wegens interne reorganisatie is alsnog verschuldigd indien de vennootschap die de onroerende zaken heeft verkregen, binnen drie jaren na de verkrijging niet langer deel uitmaakt van het concern.
 
-4. De belasting die door toepassing van [artikel 15, eerste lid, onderdeel h, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=15)niet is geheven wegens interne reorganisatie is alsnog verschuldigd voor zover de overdragende vennootschap tot het concern is gaan behoren als gevolg van een niet onder [artikel 37, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=37) vallende gebeurtenis waarbij geen overdrachtsbelasting verschuldigd was, indien de onroerende zaken zijn verkregen door die overdragende vennootschap vóór de hiervoor bedoelde gebeurtenis en de onderneming van die vennootschap niet gedurende drie jaren binnen het concern is voortgezet.
+4. De belasting die door toepassing van [artikel 15, eerste lid, onderdeel h, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=15) niet is geheven wegens interne reorganisatie is alsnog verschuldigd voorzover de overdragende vennootschap tot het concern is gaan behoren als gevolg van een andere gebeurtenis dan bedoeld in [artikel 5a, eerste en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002770&hoofdstuk=I&artikel=5a&z=2006-01-01&g=2006-01-01), waarbij geen overdrachtsbelasting verschuldigd was, indien de onroerende zaken zijn verkregen door die overdragende vennootschap vóór de hiervoor bedoelde gebeurtenis en de onderneming of de activiteiten van die vennootschap niet gedurende drie jaren binnen het concern zijn voortgezet.
 
 5. Voor de toepassing van dit artikel wordt onder vennootschap verstaan de naamloze vennootschap, de besloten vennootschap met beperkte aansprakelijkheid, de open commanditaire vennootschap, alsmede andere vennootschappen welker kapitaal geheel of ten dele in aandelen is verdeeld. Onder vennootschap wordt mede verstaan de vereniging, coöperatie en onderlinge waarborgmaatschappij met een in aandelen verdeeld kapitaal. Tevens wordt daaronder verstaan het lichaam dat naar het recht van een andere Staat is opgericht en naar aard en inrichting vergelijkbaar is met een lichaam als bedoeld in dit lid.
 
@@ -128,13 +128,9 @@ De in [artikel 15 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&ar
 
 ##### Artikel 5c
 
-1. De in [artikel 15, eerste lid, onderdeel h, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=15) bedoelde vrijstelling wegens splitsing is van toepassing wanneer sprake is van een splitsing als bedoeld in [artikel 334a van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=334a) van een vennootschap met een in aandelen verdeeld kapitaal en aan de splitsing in overwegende mate zakelijke overwegingen ten grondslag liggen.
+1. De in [artikel 15, eerste lid, onderdeel h, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=15) bedoelde vrijstelling wegens splitsing is van toepassing wanneer sprake is van overgang van vermogen onder algemene titel in het kader van een splitsing van een vennootschap met in aandelen verdeeld kapitaal, behoudens in het geval dat de splitsing in overwegende mate is gericht op het ontgaan of uitstellen van belastingheffing. De splitsing wordt, tenzij het tegendeel aannemelijk wordt gemaakt, geacht in overwegende mate te zijn gericht op het ontgaan of uitstellen van belastingheffing indien de splitsing niet plaatsvindt op grond van zakelijke overwegingen zoals herstructurering of rationalisering van de actieve werkzaamheden van de splitsende en de verkrijgende rechtspersonen. Indien aandelen in de gesplitste rechtspersoon, dan wel in een verkrijgende rechtspersoon binnen drie jaar na de splitsing geheel of ten dele, direct of indirect worden vervreemd aan een lichaam dat niet met de gesplitste rechtspersoon en met de verkrijgende rechtspersonen is verbonden als bedoeld in [artikel 10a van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=10a), worden zakelijke overwegingen niet aanwezig geacht, tenzij het tegendeel aannemelijk wordt gemaakt.
 
-2. Ingeval een aandeelhouder dan wel een samenwerkende groep van aandeelhouders ten tijde van de splitsing doorslaggevende zeggenschap in de splitsende vennootschap heeft, deze in een bij de splitsing betrokken lichaam behoudt of verkrijgt doch deze binnen drie jaren na de splitsing kwijtraakt door vervreemding van aandelen, dan wel ingeval van een afsplitsing waarbij de verkrijgende vennootschap aandelen uitreikt aan de splitsende vennootschap, de splitsende vennootschap zijn belang in de verkrijgende vennootschap binnen drie jaren na de splitsing geheel of ten dele vervreemdt, worden in overwegende mate zakelijke overwegingen niet aanwezig geacht, tenzij het tegendeel aannemelijk wordt gemaakt.
-
-3. Het tweede lid blijft buiten toepassing in geval van vervreemding van de aandelen in het kader van een fusie, splitsing of interne reorganisatie als bedoeld in [artikel 37, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=37), met dien verstande dat de in dat kader verkregen aandelen in de plaats komen van de in het tweede lid bedoelde aandelen.
-
-4. Voor de toepassing van dit artikel wordt onder vennootschap verstaan de naamloze vennootschap, de besloten vennootschap met beperkte aansprakelijkheid, de open commanditaire vennootschap, alsmede andere vennootschappen waarvan het kapitaal geheel of ten dele in aandelen is verdeeld. Onder vennootschap wordt mede verstaan de vereniging, coöperatie en onderlinge waarborgmaatschappij met een in aandelen verdeeld kapitaal. Tevens wordt daaronder verstaan het lichaam dat naar het recht van een andere Staat is opgericht en dat naar aard en inrichting vergelijkbaar is met een lichaam als bedoeld in dit lid.
+2. Voor de toepassing van dit artikel wordt onder vennootschap verstaan de naamloze vennootschap, de besloten vennootschap met beperkte aansprakelijkheid, de open commanditaire vennootschap, alsmede andere vennootschappen waarvan het kapitaal geheel of ten dele in aandelen is verdeeld. Onder vennootschap wordt mede verstaan de vereniging, coöperatie en onderlinge waarborgmaatschappij met een in aandelen verdeeld kapitaal. Tevens wordt daaronder verstaan het lichaam dat naar het recht van een andere Staat is opgericht en dat naar aard en inrichting vergelijkbaar is met een lichaam als bedoeld in dit lid.
 
 ##### Artikel 6
 
@@ -208,11 +204,7 @@ Vervallen
 
 ##### Artikel 10
 
-De in [artikel 37, eerste lid, onderdelen **a** en **b**, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=37)bedoelde vrijstellingen zijn slechts van toepassing, indien het lichaam:
-
-- a. een boekhouding voert waarin de voor die toepassing van belang zijnde gegevens op duidelijke en overzichtelijke wijze zijn vermeld;
-
-- b. binnen een maand na het bijeenbrengen van kapitaal aangifte doet door de inlevering van een aangiftebiljet waarin onder vermelding van de in onderdeel **a** bedoelde gegevens een beroep op die toepassing wordt gedaan.
+Vervallen
 
 ##### Artikel 11
 
@@ -228,9 +220,7 @@ Vervallen
 
 ##### Artikel 14
 
-1. De belasting die door toepassing van [artikel 37, eerste lid, onderdeel **a**, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=37)niet is geheven ter zake van een fusie als bedoeld in [artikel 37, tweede lid, onderdeel **a**, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=37), is door het lichaam alsnog verschuldigd, indien het lichaam binnen vijf jaren na het tijdstip van de inbreng niet meer in het bezit is van alle aandelen in het andere lichaam die het op dat tijdstip heeft verworven of reeds in zijn bezit had en van ten minste 75 percent van de aandelen in het andere lichaam.
-
-2. Het eerste lid blijft buiten toepassing in geval van vervreemding van de aandelen in het kader van een fusie, splitsing of interne reorganisatie, als bedoeld in [artikel 37, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=37), alsmede ingeval het lichaam dat de aandelen heeft verworven, wordt ontbonden en geliquideerd.
+Vervallen
 
 ##### Artikel 15
 
@@ -238,7 +228,7 @@ Vervallen
 
 ##### Artikel 16
 
-De vrijstelling, bedoeld in [artikel 37, eerste lid, onderdeel **b**, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=37), is slechts van toepassing, voor zover de nominale waarde van het in aandelen verdeelde kapitaal van het nieuwe lichaam niet meer beloopt dan het kapitaal dat bij het omgezette lichaam in een van de lid-staten van de Europese Unie met een kapitaalsbelasting was belast.
+Vervallen
 
 ### Hoofdstuk IV. Beursbelasting
 
