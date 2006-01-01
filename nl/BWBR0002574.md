@@ -4,7 +4,7 @@ identifier: "BWBR0002574"
 country: "nl"
 rank: "rijks_kb"
 publication_date: "2006-01-01"
-last_updated: "2002-04-26"
+last_updated: "2006-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002574"
 soort: "rijksKB"
@@ -64,23 +64,23 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 2
 
-1. Indien en voor zolang een gepensioneerd ambtenaar, die de leeftijd van 55 jaren heeft bereikt dan wel is gepensioneerd uit hoofde van lichamelijke ongeschiktheid voor de dienst, een weduwe of een wees buiten Suriname en de Nederlandse Antillen is gevestigd, wordt hem of haar, indien en voor zolang het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002574&artikel=3&z=2002-04-26&g=2002-04-26) bedoelde bedrag-A minder bedraagt, dan het overeenkomstig het bepaalde in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002574&artikel=4&z=2002-04-26&g=2002-04-26) berekende bedrag-B, door Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties ten laste van het Rijk een uitkering verleend ten bedrage van het verschil.
+1. Indien en voor zolang een gepensioneerd ambtenaar, die de leeftijd van 55 jaren heeft bereikt dan wel is gepensioneerd uit hoofde van lichamelijke ongeschiktheid voor de dienst, een weduwe of een wees buiten Suriname en de Nederlandse Antillen is gevestigd, wordt hem of haar, indien en voor zolang het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002574&artikel=3&z=2006-01-01&g=2006-01-01) bedoelde bedrag-A minder bedraagt, dan het overeenkomstig het bepaalde in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002574&artikel=4&z=2006-01-01&g=2006-01-01) berekende bedrag-B, door Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties ten laste van het Rijk een uitkering verleend ten bedrage van het verschil.
 
 2. Aan een persoon, die op grond van het eerste lid over de maand januari 1967 aanspraak heeft op een uitkering, wordt een eenmalige uitkering toegekend ten bedrage van het produkt van
 
 - a. het, tot niet meer dan acht in aanmerking te brengen, aantal volle tijdvakken van drie maanden, gedurende welke hij of zij als gepensioneerd ambtenaar als bedoeld in het eerste lid, als weduwe, als wees of als echtgenote of kind van een buiten Suriname en de Nederlandse Antillen gevestigde gepensioneerd ambtenaar als bedoeld in het eerste lid, in voorafgaande aansluiting op die maand ononderbroken buiten Suriname en de Nederlandse Antillen is gevestigd geweest en
 
-- b. het met inachtneming van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002574&artikel=6&z=2002-04-26&g=2002-04-26) berekende bedrag van de hem of haar over de maand januari 1967 toekomende uitkering.
+- b. het met inachtneming van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002574&artikel=6&z=2006-01-01&g=2006-01-01) berekende bedrag van de hem of haar over de maand januari 1967 toekomende uitkering.
 
 3. Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties beslist of iemand voor de toepassing van dit besluit al dan niet zal worden aangemerkt als te zijn gevestigd of gevestigd geweest buiten Suriname en de Nederlandse Antillen.
 
 ##### Artikel 3
 
-Het in het [eerste lid van artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002574&artikel=2&z=2002-04-26&g=2002-04-26) bedoelde bedrag-A is het bedrag, dat moet worden aangemerkt als de in euro uitgedrukte tegenwaarde van hetgeen de betrokkene in een of meer van de in [artikel 1, eerste lid onder **b**, **c** en **d**](https://wetten.overheid.nl/jci1.3:c:BWBR0002574&artikel=1&z=2002-04-26&g=2002-04-26) genoemde hoedanigheden ingevolge de toepasselijke Surinaamse of Nederlands Antilliaanse regeling of regelingen in totaal aan pensioen, uitkering bij wijze van pensioen en onderstand is toegekend, vermeerderd met alle daarop verleende toeslagen met inbegrip van, onder welke benaming ook verleende, kindertoelagen.
+Het in het [eerste lid van artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002574&artikel=2&z=2006-01-01&g=2006-01-01) bedoelde bedrag-A is het bedrag, dat moet worden aangemerkt als de in euro uitgedrukte tegenwaarde van hetgeen de betrokkene in een of meer van de in [artikel 1, eerste lid onder **b**, **c** en **d**](https://wetten.overheid.nl/jci1.3:c:BWBR0002574&artikel=1&z=2006-01-01&g=2006-01-01) genoemde hoedanigheden ingevolge de toepasselijke Surinaamse of Nederlands Antilliaanse regeling of regelingen in totaal aan pensioen, uitkering bij wijze van pensioen en onderstand is toegekend, vermeerderd met alle daarop verleende toeslagen met inbegrip van, onder welke benaming ook verleende, kindertoelagen.
 
 ##### Artikel 4
 
-1. Behoudens het in het tweede lid bepaalde, is het in het [eerste lid van artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002574&artikel=2&z=2002-04-26&g=2002-04-26) bedoelde bedrag-B het bedrag, dat de betrokkene ingevolge de [Algemene burgerlijke pensioenwet, zoals deze wet laatstelijk luidde op 31 december 1995](onbekend) uitsluitend naar diensttijd en berekeningsgrondslag berekend in totaal aan pensioen, weduwenpensioen of wezenpensioen zou toekomen, indien de gepensioneerde ambtenaar of de ambtenaar in Nederlandse ambtelijke dienst zou zijn geweest en daaruit zou zijn gepensioneerd onderscheidenlijk daarin zou zijn overleden, met dien verstande, dat voor de berekening:
+1. Behoudens het in het tweede lid bepaalde, is het in het [eerste lid van artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002574&artikel=2&z=2006-01-01&g=2006-01-01) bedoelde bedrag-B het bedrag, dat de betrokkene ingevolge de [Algemene burgerlijke pensioenwet, zoals deze wet laatstelijk luidde op 31 december 1995](onbekend) uitsluitend naar diensttijd en berekeningsgrondslag berekend in totaal aan pensioen, weduwenpensioen of wezenpensioen zou toekomen, indien de gepensioneerde ambtenaar of de ambtenaar in Nederlandse ambtelijke dienst zou zijn geweest en daaruit zou zijn gepensioneerd onderscheidenlijk daarin zou zijn overleden, met dien verstande, dat voor de berekening:
 
 - 1e.
 
@@ -98,23 +98,23 @@ Het in het [eerste lid van artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 ##### Artikel 5
 
-1. De uitkering wordt toegekend op door of namens een belanghebbende als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002574&artikel=2&z=2002-04-26&g=2002-04-26) na zijn vertrek uit Suriname of de Nederlandse Antillen gedaan schriftelijk verzoek:
+1. De uitkering wordt toegekend op door of namens een belanghebbende als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002574&artikel=2&z=2006-01-01&g=2006-01-01) na zijn vertrek uit Suriname of de Nederlandse Antillen gedaan schriftelijk verzoek:
 
 - a. aan degene, die op of na 1 oktober 1969 belanghebbende is geworden, mits het verzoek is of wordt ontvangen binnen drie maanden nadat hij belanghebbende is geworden: met ingang van de maand volgende op die, waarin hij belanghebbende is geworden;
 
 - b. in alle andere gevallen, dan die bedoeld onder **a**: met ingang van de maand, waarin het verzoek wordt ontvangen.
 
-2. Als verzoek om toekenning van een uitkering als bedoeld in het voorgaande lid wordt mede aangemerkt een door of namens een persoon als bedoeld in het [tweede lid van artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002574&artikel=1&z=2002-04-26&g=2002-04-26), na zijn vertrek uit Suriname of de Nederlandse Antillen gedaan schriftelijk verzoek om voor de toepassing van dit besluit te worden aangemerkt als gepensioneerd ambtenaar, weduwe of wees.
+2. Als verzoek om toekenning van een uitkering als bedoeld in het voorgaande lid wordt mede aangemerkt een door of namens een persoon als bedoeld in het [tweede lid van artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002574&artikel=1&z=2006-01-01&g=2006-01-01), na zijn vertrek uit Suriname of de Nederlandse Antillen gedaan schriftelijk verzoek om voor de toepassing van dit besluit te worden aangemerkt als gepensioneerd ambtenaar, weduwe of wees.
 
 ##### Artikel 6
 
-1. Bij gelijktijdig genot van pensioen krachtens de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221) of de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795) en een uitkering krachtens dit besluit, wordt op die uitkering een vermindering toegepast, welke wordt berekend met overeenkomstige toepassing van hetgeen ten aanzien van de beperking van de uitbetaling van Indonesisch pensioen bij gelijktijdig genot van pensioen krachtens die wetten is bepaald in de [Samenloopregeling Indonesische Pensioenen 1960](https://wetten.overheid.nl/jci1.3:c:BWBR0002414), met dien verstande, dat indien het betreft een weduwe of een wees, de diensttijd, naar welke het pensioen, de uitkering bij wijze van pensioen dan wel de onderstand wordt geacht te zijn berekend, wordt gesteld op de overeenkomstig het eerste lid onder 1**e****b**. van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002574&artikel=4&z=2002-04-26&g=2002-04-26) berekende diensttijd.
+1. Bij gelijktijdig genot van pensioen krachtens de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221) of de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795) en een uitkering krachtens dit besluit, wordt op die uitkering een vermindering toegepast, welke wordt berekend met overeenkomstige toepassing van hetgeen ten aanzien van de beperking van de uitbetaling van Indonesisch pensioen bij gelijktijdig genot van pensioen krachtens die wetten is bepaald in de [Samenloopregeling Indonesische Pensioenen 1960](https://wetten.overheid.nl/jci1.3:c:BWBR0002414), met dien verstande, dat indien het betreft een weduwe of een wees, de diensttijd, naar welke het pensioen, de uitkering bij wijze van pensioen dan wel de onderstand wordt geacht te zijn berekend, wordt gesteld op de overeenkomstig het eerste lid onder 1**e****b**. van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002574&artikel=4&z=2006-01-01&g=2006-01-01) berekende diensttijd.
 
-2. Indien en voor zover ter zake van het genot van een uitkering krachtens dit besluit premie krachtens de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221) en de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795) wordt geheven, wordt voor rekening van het lichaam, dat de uitkering verschuldigd is, aan de rechthebbende een vergoeding verleend overeenkomstig het in [artikel 27 van de Samenloopregeling Indonesische Pensioenen 1960](https://wetten.overheid.nl/jci1.3:c:BWBR0002414&artikel=27) bepaalde.
+2. Indien en voor zover ter zake van het genot van een uitkering krachtens dit besluit premie krachtens de [Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745) wordt geheven, wordt voor rekening van het lichaam, dat de uitkering verschuldigd is, aan de rechthebbende een vergoeding verleend overeenkomstig het in [artikel 27 van de Samenloopregeling Indonesische Pensioenen 1960](https://wetten.overheid.nl/jci1.3:c:BWBR0002414&artikel=27) bepaalde.
 
 ##### Artikel 6a
 
-1. Indien een pensioen, een uitkering bij wijze van pensioen of een onderstand als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002574&artikel=3&z=2002-04-26&g=2002-04-26) dan wel een daarop verleende toeslag verandering ondergaat, is de betrokkene gehouden daarvan onverwijld kennis te geven aan het lichaam, dat de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002574&artikel=2&z=2002-04-26&g=2002-04-26) bedoelde uitkering betaalt.
+1. Indien een pensioen, een uitkering bij wijze van pensioen of een onderstand als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002574&artikel=3&z=2006-01-01&g=2006-01-01) dan wel een daarop verleende toeslag verandering ondergaat, is de betrokkene gehouden daarvan onverwijld kennis te geven aan het lichaam, dat de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002574&artikel=2&z=2006-01-01&g=2006-01-01) bedoelde uitkering betaalt.
 
 2. Indien de betrokkene zodanige kennisgeving niet binnen drie maanden, nadat hij van een verandering kennis heeft gekregen, doet, gaat een verhoging van de uitkering niet eerder in dan met ingang van de maand, waarin het lichaam daarvan kennis heeft gekregen.
 
