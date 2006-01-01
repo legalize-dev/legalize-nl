@@ -4,7 +4,7 @@ identifier: "BWBR0005643"
 country: "nl"
 rank: "wet"
 publication_date: "2013-01-01"
-last_updated: "2005-01-01"
+last_updated: "2006-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005643"
 soort: "wet"
@@ -67,7 +67,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - e. geneeskundig adviseur: een door Onze Minister aangewezen geneeskundige;
 
-- f. grondslag: de in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=V&artikel=27&z=2005-01-01&g=2005-01-01) bedoelde grondslag.
+- f. grondslag: de in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=V&artikel=27&z=2006-01-01&g=2006-01-01) bedoelde grondslag.
 
 2. Voor de toepassing van deze wet en de daarop rustende bepalingen wordt gelijkgesteld met:
 
@@ -79,25 +79,25 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 2
 
-Voor de toepassing van deze wet en de daarop berustende bepalingen wordt onder rampbestrijder mede verstaan degene, die op verzoek of op bevel van de burgemeester dan wel op verzoek van de commissaris van de Koning de rampbestrijdingsdienst, bedoeld in [artikel 1, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=I&artikel=1&z=2005-01-01&g=2005-01-01), ten eerste, vervult of heeft vervuld.
+Voor de toepassing van deze wet en de daarop berustende bepalingen wordt onder rampbestrijder mede verstaan degene, die op verzoek of op bevel van de burgemeester dan wel op verzoek van de commissaris van de Koning de rampbestrijdingsdienst, bedoeld in [artikel 1, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=I&artikel=1&z=2006-01-01&g=2006-01-01), ten eerste, vervult of heeft vervuld.
 
 ##### Artikel 3
 
-Indien sprake is van een ramp of een zwaar ongeval als bedoeld in [artikel 1, onder **b**, van de Wet rampen en zware ongevallen](https://wetten.overheid.nl/jci1.3:c:BWBR0003765&artikel=1), kan Onze Minister op verzoek van de burgemeester bepalen dat het deelnemen aan het bestrijden van die ramp of dat ongeval wordt aangemerkt als rampbestrijdingsdienst in de zin van [artikel 1, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=I&artikel=1&z=2005-01-01&g=2005-01-01), ten eerste.
+Indien sprake is van een ramp of een zwaar ongeval als bedoeld in [artikel 1, onder **b**, van de Wet rampen en zware ongevallen](https://wetten.overheid.nl/jci1.3:c:BWBR0003765&artikel=1), kan Onze Minister op verzoek van de burgemeester bepalen dat het deelnemen aan het bestrijden van die ramp of dat ongeval wordt aangemerkt als rampbestrijdingsdienst in de zin van [artikel 1, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=I&artikel=1&z=2006-01-01&g=2006-01-01), ten eerste.
 
 ##### Artikel 4
 
-Aanspraken aan deze wet, met uitzondering van [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=VI&artikel=28&z=2005-01-01&g=2005-01-01), kunnen slechts worden ontleend voor zover de in deze wet vervatte voorzieningen aanspraken krachtens een andere wettelijke regeling, met uitzondering van de [Algemene Bijstandswet](onbekend) (**Stb.** 1963, 284), of krachtens arbeidsovereenkomst overtreffen.
+Aanspraken aan deze wet, met uitzondering van [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=VI&artikel=28&z=2006-01-01&g=2006-01-01), kunnen slechts worden ontleend voor zover de in deze wet vervatte voorzieningen aanspraken krachtens een andere wettelijke regeling, met uitzondering van de [Algemene Bijstandswet](onbekend) (**Stb.** 1963, 284), of krachtens arbeidsovereenkomst overtreffen.
 
 ##### Artikel 5
 
-1. Een uitkering als bedoeld in de[hoofdstukken II](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=II&z=2005-01-01&g=2005-01-01), [III](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=III&z=2005-01-01&g=2005-01-01), [IV](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=IV&z=2005-01-01&g=2005-01-01) en [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=VI&artikel=29&z=2005-01-01&g=2005-01-01) bedraagt per maand niet meer dan een twaalfde deel van 260 maal het in [artikel 9, eerste lid, van de Coördinatiewet Sociale Verzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002126&artikel=9) (**Stb.** 1987, 552) bedoelde maximumdagloon.
+1. Een uitkering als bedoeld in de[hoofdstukken II](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=II&z=2006-01-01&g=2006-01-01), [III](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=III&z=2006-01-01&g=2006-01-01), [IV](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=IV&z=2006-01-01&g=2006-01-01) en [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=VI&artikel=29&z=2006-01-01&g=2006-01-01) bedraagt per maand niet meer dan een twaalfde deel van 260 maal het in [artikel 17, eerste lid, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=17) bedoelde bedrag, met betrekking tot een loontijdvak van een dag.
 
-2. Voor de toepassing van het eerste lid blijft de aanvullende uitkering, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=III&artikel=16&z=2005-01-01&g=2005-01-01), buiten beschouwing.
+2. Voor de toepassing van het eerste lid blijft de aanvullende uitkering, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=III&artikel=16&z=2006-01-01&g=2006-01-01), buiten beschouwing.
 
 ##### Artikel 6
 
-Een uitkering als bedoeld in de[hoofdstukken II](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=II&z=2005-01-01&g=2005-01-01), [III](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=III&z=2005-01-01&g=2005-01-01) en [IV](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=IV&z=2005-01-01&g=2005-01-01) bedraagt per maand niet minder dan de som van de desbetreffende uitkering en de toeslag die in aanvulling daarop zou worden verleend, indien die uitkering zou zijn aangemerkt als een loondervingsuitkering in de zin van de [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043) (**Stb.** 1987, 91).
+Een uitkering als bedoeld in de[hoofdstukken II](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=II&z=2006-01-01&g=2006-01-01), [III](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=III&z=2006-01-01&g=2006-01-01) en [IV](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=IV&z=2006-01-01&g=2006-01-01) bedraagt per maand niet minder dan de som van de desbetreffende uitkering en de toeslag die in aanvulling daarop zou worden verleend, indien die uitkering zou zijn aangemerkt als een loondervingsuitkering in de zin van de [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043) (**Stb.** 1987, 91).
 
 ### Hoofdstuk II. Uitkering bij ziekte
 
@@ -115,7 +115,7 @@ Een uitkering als bedoeld in de[hoofdstukken II](https://wetten.overheid.nl/jci1
 
 ##### Artikel 8
 
-Geen recht op een ziekengelduitkering als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=II&artikel=7&z=2005-01-01&g=2005-01-01) bestaat:
+Geen recht op een ziekengelduitkering als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=II&artikel=7&z=2006-01-01&g=2006-01-01) bestaat:
 
 - a. indien de rampbestrijder de ziekten of gebreken heeft voorgewend, althans zodanig overdreven voorgesteld, dat de verhindering tot het verrichten van zijn gewone werk niet kan worden aangenomen;
 
@@ -123,7 +123,7 @@ Geen recht op een ziekengelduitkering als bedoeld in [artikel 7](https://wetten.
 
 ##### Artikel 9
 
-1. Geen recht op een ziekengelduitkering als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=II&artikel=7&z=2005-01-01&g=2005-01-01), of op verdere betaling daarvan, bestaat wanneer en voor zolang de rampbestrijder:
+1. Geen recht op een ziekengelduitkering als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=II&artikel=7&z=2006-01-01&g=2006-01-01), of op verdere betaling daarvan, bestaat wanneer en voor zolang de rampbestrijder:
 
 - a. weigert zich te onderwerpen aan een onderzoek vanwege de geneeskundig adviseur of, na voor zulk een onderzoek te zijn opgeroepen, zonder geldige reden niet verschijnt;
 
@@ -133,17 +133,17 @@ Geen recht op een ziekengelduitkering als bedoeld in [artikel 7](https://wetten.
 
 - d. voor derden of zichzelf werkzaamheden verricht, tenzij dit door de geneeskundig adviseur in het belang van zijn genezing wenselijk wordt geacht.
 
-2. De rampbestrijder kan aan een onderzoek vanwege de geneeskundig adviseur worden onderworpen ter beantwoording van de vraag, of zich een omstandigheid voordoet als bedoeld in het eerste lid, onder **b** of **c**, of in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=II&artikel=8&z=2005-01-01&g=2005-01-01).
+2. De rampbestrijder kan aan een onderzoek vanwege de geneeskundig adviseur worden onderworpen ter beantwoording van de vraag, of zich een omstandigheid voordoet als bedoeld in het eerste lid, onder **b** of **c**, of in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=II&artikel=8&z=2006-01-01&g=2006-01-01).
 
 ##### Artikel 10
 
-Indien de rampbestrijder binnen een tijdvak van 30 kalenderdagen nadat de betaling van de ziekengelduitkering, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=II&artikel=7&z=2005-01-01&g=2005-01-01), in verband met herstel gestaakt is, wederom wegens dezelfde ziekten of gebreken verhinderd wordt zijn gewone werk te verrichten, wordt de nieuw opgetreden verhindering als een voortzetting van de vorige verhindering beschouwd en wordt de betaling van de ziekengelduitkering hervat.
+Indien de rampbestrijder binnen een tijdvak van 30 kalenderdagen nadat de betaling van de ziekengelduitkering, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=II&artikel=7&z=2006-01-01&g=2006-01-01), in verband met herstel gestaakt is, wederom wegens dezelfde ziekten of gebreken verhinderd wordt zijn gewone werk te verrichten, wordt de nieuw opgetreden verhindering als een voortzetting van de vorige verhindering beschouwd en wordt de betaling van de ziekengelduitkering hervat.
 
 ### Hoofdstuk III. Uitkeringen bij invaliditeit
 
 ##### Artikel 11
 
-De rampbestrijder heeft recht op een invaliditeitsuitkering, indien hij na afloop van de periode waarin hij op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=II&artikel=7&z=2005-01-01&g=2005-01-01) een ziekengelduitkering ontving, geheel of gedeeltelijk algemeen invalide is.
+De rampbestrijder heeft recht op een invaliditeitsuitkering, indien hij na afloop van de periode waarin hij op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=II&artikel=7&z=2006-01-01&g=2006-01-01) een ziekengelduitkering ontving, geheel of gedeeltelijk algemeen invalide is.
 
 ##### Artikel 12
 
@@ -170,13 +170,13 @@ De invaliditeitsuitkering bedraagt bij een invaliditeitsgraad van:
 
 ##### Artikel 14
 
-1. In afwijking van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=III&artikel=13&z=2005-01-01&g=2005-01-01) is de invaliditeitsuitkering, indien de invaliditeitsgraad 80% of meer bedraagt en de rampbestrijder in een althans voorlopig blijvende toestand van hulpbehoevendheid verkeert, welke geregeld oppassing en verzorging nodig maakt, voor de duur van zijn hulpbehoevendheid, gelijk aan 100% van de grondslag.
+1. In afwijking van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=III&artikel=13&z=2006-01-01&g=2006-01-01) is de invaliditeitsuitkering, indien de invaliditeitsgraad 80% of meer bedraagt en de rampbestrijder in een althans voorlopig blijvende toestand van hulpbehoevendheid verkeert, welke geregeld oppassing en verzorging nodig maakt, voor de duur van zijn hulpbehoevendheid, gelijk aan 100% van de grondslag.
 
 2. Het eerste lid vindt geen toepassing, indien de rampbestrijder in een inrichting is opgenomen en de kosten van verblijf ten laste van een verzekering inzake ziektekosten komen.
 
 ##### Artikel 15
 
-Op de invaliditeitsuitkering zijn de[artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=II&artikel=8&z=2005-01-01&g=2005-01-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=II&artikel=9&z=2005-01-01&g=2005-01-01) van overeenkomstige toepassing.
+Op de invaliditeitsuitkering zijn de[artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=II&artikel=8&z=2006-01-01&g=2006-01-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=II&artikel=9&z=2006-01-01&g=2006-01-01) van overeenkomstige toepassing.
 
 ##### Artikel 16
 
@@ -192,7 +192,7 @@ De invaliditeitsuitkering eindigt met ingang van de eerste dag van de maand volg
 
 ##### Artikel 19
 
-1. De rampbestrijder heeft recht op een bijzondere invaliditeitsuitkering indien hij na het verstrijken van de termijn, bedoeld in [artikel 7, eerste lid, onder **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=II&artikel=7&z=2005-01-01&g=2005-01-01), maar binnen 2 jaar na de beëindiging van de rampbestrijdingsdienst, door ziekten of gebreken geheel of gedeeltelijk algemeen invalide wordt en deze invaliditeit naar het oordeel van Onze Minister in overwegende mate haar oorzaak vindt in de rampbestrijdingsdienst.
+1. De rampbestrijder heeft recht op een bijzondere invaliditeitsuitkering indien hij na het verstrijken van de termijn, bedoeld in [artikel 7, eerste lid, onder **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=II&artikel=7&z=2006-01-01&g=2006-01-01), maar binnen 2 jaar na de beëindiging van de rampbestrijdingsdienst, door ziekten of gebreken geheel of gedeeltelijk algemeen invalide wordt en deze invaliditeit naar het oordeel van Onze Minister in overwegende mate haar oorzaak vindt in de rampbestrijdingsdienst.
 
 2. Dit hoofdstuk is van overeenkomstige toepassing op de bijzondere invaliditeitsuitkering.
 
@@ -220,7 +220,7 @@ De weduwenuitkering bedraagt 50% van de grondslag.
 
 ##### Artikel 23
 
-De wezenuitkering, bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=IV&artikel=22&z=2005-01-01&g=2005-01-01), bedraagt:
+De wezenuitkering, bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=IV&artikel=22&z=2006-01-01&g=2006-01-01), bedraagt:
 
 - a. voor elk kind wiens ouder onderscheidenlijk wiens pleegouder aan het overlijden van de rampbestrijder recht op een weduwenuitkering ontleent, 10% van de grondslag;
 
@@ -234,9 +234,9 @@ De wezenuitkering, bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:B
 
 ##### Artikel 25
 
-1. Na het overlijden van de rampbestrijder, aan wie een uitkering krachtens de[hoofdstukken II](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=II&z=2005-01-01&g=2005-01-01) of [III](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=III&z=2005-01-01&g=2005-01-01) is toegekend, wordt deze uitkering, voor zover niet reeds uitbetaald, tot en met de laatste dag van de tweede maand volgend op die waarin het overlijden plaatsvond, uitbetaald aan de weduwe van de rampbestrijder van wie de rampbestrijder niet duurzaam gescheiden leefde.
+1. Na het overlijden van de rampbestrijder, aan wie een uitkering krachtens de[hoofdstukken II](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=II&z=2006-01-01&g=2006-01-01) of [III](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=III&z=2006-01-01&g=2006-01-01) is toegekend, wordt deze uitkering, voor zover niet reeds uitbetaald, tot en met de laatste dag van de tweede maand volgend op die waarin het overlijden plaatsvond, uitbetaald aan de weduwe van de rampbestrijder van wie de rampbestrijder niet duurzaam gescheiden leefde.
 
-2. Na het overlijden van de rampbestrijder, die op het moment van overlijden recht had op een vergoeding als bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=VI&artikel=28&z=2005-01-01&g=2005-01-01) of een uitkering als bedoeld in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=VI&artikel=29&z=2005-01-01&g=2005-01-01), wordt deze vergoeding of uitkering, voor zover niet reeds uitbetaald, ter grootte van hetgeen de rampbestrijder zou hebben ontvangen, indien de rampbestrijdingsdienst voor hem tot de laatste dag van de derde maand volgend op die waarin het overlijden plaatsvond, zou hebben voortgeduurd, uitbetaald aan de weduwe van de rampbestrijder van wie de rampbestrijder niet duurzaam gescheiden leefde.
+2. Na het overlijden van de rampbestrijder, die op het moment van overlijden recht had op een vergoeding als bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=VI&artikel=28&z=2006-01-01&g=2006-01-01) of een uitkering als bedoeld in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=VI&artikel=29&z=2006-01-01&g=2006-01-01), wordt deze vergoeding of uitkering, voor zover niet reeds uitbetaald, ter grootte van hetgeen de rampbestrijder zou hebben ontvangen, indien de rampbestrijdingsdienst voor hem tot de laatste dag van de derde maand volgend op die waarin het overlijden plaatsvond, zou hebben voortgeduurd, uitbetaald aan de weduwe van de rampbestrijder van wie de rampbestrijder niet duurzaam gescheiden leefde.
 
 3. Bij ontstentenis van de persoon, bedoeld in het eerste en tweede lid, geschiedt de betaling aan de kinderen van de overledene, die de leeftijd van eenentwintig jaar nog niet hebben bereikt en niet gehuwd of gehuwd geweest zijn.
 
@@ -254,11 +254,11 @@ De wezenuitkering, bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:B
 
 1. Onder grondslag worden in deze wet en de daarop berustende bepalingen verstaan de inkomsten uit of in verband met zijn gewone werk, die de rampbestrijder in het jaar onmiddellijk voorafgaande aan het tijdstip waarop het recht op een uitkering krachtens deze wet is ontstaan, heeft genoten.
 
-2. Indien de rampbestrijder in het jaar, bedoeld in het eerste lid, geen inkomsten uit of in verband met zijn gewone werk heeft genoten, wordt onder grondslag verstaan twaalf maal het bedrag waarop hij op grond van [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=VI&artikel=28&z=2005-01-01&g=2005-01-01), recht heeft. Ten aanzien van de rampbestrijder die minder dan tien uren rampbestrijdingsdienst heeft vervuld, wordt voor de berekening van het bedrag, bedoeld in de eerste volzin, het aantal uren gesteld op 10.
+2. Indien de rampbestrijder in het jaar, bedoeld in het eerste lid, geen inkomsten uit of in verband met zijn gewone werk heeft genoten, wordt onder grondslag verstaan twaalf maal het bedrag waarop hij op grond van [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=VI&artikel=28&z=2006-01-01&g=2006-01-01), recht heeft. Ten aanzien van de rampbestrijder die minder dan tien uren rampbestrijdingsdienst heeft vervuld, wordt voor de berekening van het bedrag, bedoeld in de eerste volzin, het aantal uren gesteld op 10.
 
 3. Indien de inkomsten, bedoeld in het eerste lid, voortkomen uit of verband houden met de uitoefening van een vrij beroep of eigen bedrijf, worden onder inkomsten verstaan de winst uit een of meer ondernemingen, bedoeld in [artikel 3.8 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.8).
 
-4. Indien de rampbestrijder in het jaar, bedoeld in het eerste lid, zijn gewone werk verrichtte in een publiekrechtelijke of privaatrechtelijke rechtsbetrekking, is [artikel 4 van de Coördinatiewet Sociale Verzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002126&artikel=4) van overeenkomstige toepassing.
+4. Indien de rampbestrijder in het jaar, bedoeld in het eerste lid, zijn gewone werk verrichtte in een publiekrechtelijke of privaatrechtelijke rechtsbetrekking, is [artikel 16 van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=16) van overeenkomstige toepassing.
 
 5. Indien in de bezoldiging van het rijkspersoneel een wijziging wordt aangebracht en wordt bepaald in hoeverre deze wijziging een algemeen karakter draagt, wordt de grondslag in overeenkomstige mate aangepast aan de bezoldigingswijziging voor zover deze dat algemeen karakter heeft.
 
@@ -266,21 +266,21 @@ De wezenuitkering, bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:B
 
 ##### Artikel 28
 
-1. De rampbestrijder, bedoeld in [artikel 1, onder **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=I&artikel=1&z=2005-01-01&g=2005-01-01), ten tweede, die de rampbestrijdingsdienst, bedoeld in [artikel 1, onder **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=I&artikel=1&z=2005-01-01&g=2005-01-01), ten eerste, ten derde en ten vierde, en [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=I&artikel=3&z=2005-01-01&g=2005-01-01), vervult, alsmede de rampbestrijder, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=I&artikel=2&z=2005-01-01&g=2005-01-01), die de rampbestrijdingsdienst, bedoeld in [artikel 1, onder **b**, ten eerste](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=I&artikel=1&z=2005-01-01&g=2005-01-01), en [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=I&artikel=3&z=2005-01-01&g=2005-01-01), vervult, hebben recht op een beloning van € 13,61 per uur.
+1. De rampbestrijder, bedoeld in [artikel 1, onder **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=I&artikel=1&z=2006-01-01&g=2006-01-01), ten tweede, die de rampbestrijdingsdienst, bedoeld in [artikel 1, onder **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=I&artikel=1&z=2006-01-01&g=2006-01-01), ten eerste, ten derde en ten vierde, en [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=I&artikel=3&z=2006-01-01&g=2006-01-01), vervult, alsmede de rampbestrijder, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=I&artikel=2&z=2006-01-01&g=2006-01-01), die de rampbestrijdingsdienst, bedoeld in [artikel 1, onder **b**, ten eerste](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=I&artikel=1&z=2006-01-01&g=2006-01-01), en [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=I&artikel=3&z=2006-01-01&g=2006-01-01), vervult, hebben recht op een beloning van € 13,61 per uur.
 
 2. Onze Minister past het bedrag, bedoeld in het eerste lid, aan, voor zover wijzigingen in overeenkomstige vergoedingen voor het vrijwillig brandweerpersoneel daartoe aanleiding geven.
 
 ##### Artikel 29
 
-1. De rampbestrijder, bedoeld in [artikel 1, onder **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=I&artikel=1&z=2005-01-01&g=2005-01-01), ten tweede, die tijdens de rampbestrijdingsdienst, bedoeld in [artikel 1, onder **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=I&artikel=1&z=2005-01-01&g=2005-01-01), ten eerste, ten derde en ten vierde, en [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=I&artikel=3&z=2005-01-01&g=2005-01-01), loon of inkomsten uit zijn gewone werk derft, alsmede de rampbestrijder, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=I&artikel=2&z=2005-01-01&g=2005-01-01), die tijdens de rampbestrijdingsdienst, bedoeld in [artikel 1, onder **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=I&artikel=1&z=2005-01-01&g=2005-01-01), ten eerste, en [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=I&artikel=3&z=2005-01-01&g=2005-01-01), loon of inkomsten uit zijn gewone werk derft, hebben onverminderd [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=I&artikel=5&z=2005-01-01&g=2005-01-01) recht op een uitkering met betrekking tot hetgeen zij ter zake derven die gelijk is aan:
+1. De rampbestrijder, bedoeld in [artikel 1, onder **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=I&artikel=1&z=2006-01-01&g=2006-01-01), ten tweede, die tijdens de rampbestrijdingsdienst, bedoeld in [artikel 1, onder **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=I&artikel=1&z=2006-01-01&g=2006-01-01), ten eerste, ten derde en ten vierde, en [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=I&artikel=3&z=2006-01-01&g=2006-01-01), loon of inkomsten uit zijn gewone werk derft, alsmede de rampbestrijder, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=I&artikel=2&z=2006-01-01&g=2006-01-01), die tijdens de rampbestrijdingsdienst, bedoeld in [artikel 1, onder **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=I&artikel=1&z=2006-01-01&g=2006-01-01), ten eerste, en [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=I&artikel=3&z=2006-01-01&g=2006-01-01), loon of inkomsten uit zijn gewone werk derft, hebben onverminderd [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=I&artikel=5&z=2006-01-01&g=2006-01-01) recht op een uitkering met betrekking tot hetgeen zij ter zake derven die gelijk is aan:
 
-- a. het bedrag van het werkelijk gederfde loon in de zin van de [Coördinatiewet Sociale Verzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002126), al naar gelang zij hun gewone werk in loondienst uitoefenen of tot deze categorie gerekend kunnen worden;
+- a. het bedrag van het werkelijk gederfde loon in de zin van [hoofdstuk 3 van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3), al naar gelang zij hun gewone werk in loondienst uitoefenen of tot deze categorie gerekend kunnen worden;
 
 - b. het bedrag van de werkelijk gederfde inkomsten, al naar gelang zij hun gewone werk door zelfstandige beroepsuitoefening of door het voeren van een eigen bedrijf verrichten;
 
 - c. de werkelijk gederfde bezoldiging die zij krachtens een wettelijke regeling zouden hebben genoten, al naar gelang zij hun gewone werk krachtens een publiekrechtelijke aanstelling verrichten.
 
-2. Indien de inkomsten van de rampbestrijder, bedoeld in het eerste lid, een wisselend karakter dragen, wordt onverminderd [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=I&artikel=5&z=2005-01-01&g=2005-01-01) voor de berekening van de uitkering, bedoeld in het eerste lid, het dag- of maandgemiddelde van deze inkomsten over de laatste 26 weken genomen.
+2. Indien de inkomsten van de rampbestrijder, bedoeld in het eerste lid, een wisselend karakter dragen, wordt onverminderd [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=I&artikel=5&z=2006-01-01&g=2006-01-01) voor de berekening van de uitkering, bedoeld in het eerste lid, het dag- of maandgemiddelde van deze inkomsten over de laatste 26 weken genomen.
 
 ##### Artikel 30
 
@@ -312,11 +312,11 @@ Een aanvraag om toepassing van in deze wet geregelde voorzieningen dient bij Onz
 
 ##### Artikel 35
 
-Alvorens Onze Minister een beslissing neemt op een aanvraag om een uitkering als bedoeld in de[hoofdstukken II](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=II&z=2005-01-01&g=2005-01-01), [III](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=III&z=2005-01-01&g=2005-01-01), [IV](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=IV&z=2005-01-01&g=2005-01-01) of een voorziening als bedoeld in de[artikelen 30](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=VI&artikel=30&z=2005-01-01&g=2005-01-01) en [31, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=VI&artikel=31&z=2005-01-01&g=2005-01-01), vraagt hij zonodig het advies van de geneeskundig adviseur.
+Alvorens Onze Minister een beslissing neemt op een aanvraag om een uitkering als bedoeld in de[hoofdstukken II](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=II&z=2006-01-01&g=2006-01-01), [III](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=III&z=2006-01-01&g=2006-01-01), [IV](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=IV&z=2006-01-01&g=2006-01-01) of een voorziening als bedoeld in de[artikelen 30](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=VI&artikel=30&z=2006-01-01&g=2006-01-01) en [31, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=VI&artikel=31&z=2006-01-01&g=2006-01-01), vraagt hij zonodig het advies van de geneeskundig adviseur.
 
 ##### Artikel 36
 
-1. Omtrent elke aanvraag, bedoeld in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=VII&artikel=33&z=2005-01-01&g=2005-01-01), neemt Onze Minister binnen dertien weken een beslissing.
+1. Omtrent elke aanvraag, bedoeld in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=VII&artikel=33&z=2006-01-01&g=2006-01-01), neemt Onze Minister binnen dertien weken een beslissing.
 
 2. Onze Minister kan een beslissing ambtshalve herzien.
 
@@ -370,7 +370,7 @@ In afwijking van [artikel 8:7 van de Algemene wet bestuursrecht](https://wetten.
 
 ##### Artikel 44
 
-1. Bij algemene maatregel van bestuur kunnen bepalingen van deze wet op andere dan de in [artikel 1, onder **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=I&artikel=1&z=2005-01-01&g=2005-01-01), bedoelde groepen van personen die de rampbestrijdingsdienst vervullen, van overeenkomstige toepassing worden verklaard. Zonodig kunnen daarbij tevens aanvullende regels worden gegeven.
+1. Bij algemene maatregel van bestuur kunnen bepalingen van deze wet op andere dan de in [artikel 1, onder **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=I&artikel=1&z=2006-01-01&g=2006-01-01), bedoelde groepen van personen die de rampbestrijdingsdienst vervullen, van overeenkomstige toepassing worden verklaard. Zonodig kunnen daarbij tevens aanvullende regels worden gegeven.
 
 2. De voordracht tot een algemene maatregel van bestuur als bedoeld in het eerste lid, wordt gedaan door Onze Minister en Onze Ministers die het mede aangaat te zamen.
 
@@ -384,7 +384,7 @@ Bij algemene maatregel van bestuur worden regels gegeven betreffende de wijze wa
 
 ##### Artikel 46a
 
-Voorzover de grondslag, bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=V&artikel=27&z=2005-01-01&g=2005-01-01), moet worden bepaald over een aan het kalenderjaar 2001 voorafgaand kalenderjaar, wordt voor de toepassing van het derde lid van dat artikel onder winst uit een of meer ondernemingen, bedoeld in [artikel 3.8 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.8) verstaan winst uit onderneming als bedoeld in de Wet op de inkomstenbelasting 1964.
+Voorzover de grondslag, bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=V&artikel=27&z=2006-01-01&g=2006-01-01), moet worden bepaald over een aan het kalenderjaar 2001 voorafgaand kalenderjaar, wordt voor de toepassing van het derde lid van dat artikel onder winst uit een of meer ondernemingen, bedoeld in [artikel 3.8 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.8) verstaan winst uit onderneming als bedoeld in de Wet op de inkomstenbelasting 1964.
 
 ##### Artikel 47
 
