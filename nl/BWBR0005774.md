@@ -4,7 +4,7 @@ identifier: "BWBR0005774"
 country: "nl"
 rank: "amvb"
 publication_date: "2006-01-01"
-last_updated: "1993-01-01"
+last_updated: "2006-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005774"
 soort: "AMvB"
@@ -44,7 +44,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-De instanties en personen die aan de raden voor de kinderbescherming kosteloos de inlichtingen verschaffen die noodzakelijk zijn voor een goede uitoefening van hun taak of van hun bevoegdheden op grond van een van de bepalingen van de titels 9, 10, 13, 14, 15, en 17 van Boek 1 van het Burgerlijk Wetboek, zijn:
+De instanties en personen die aan de raden voor de kinderbescherming kosteloos de inlichtingen verschaffen die noodzakelijk zijn voor een goede uitoefening van hun taak of van hun bevoegdheden op grond van een van de bepalingen van de [titels 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&titeldeel=9), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&titeldeel=10), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&titeldeel=13), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&titeldeel=14), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&titeldeel=15), en [17 van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&titeldeel=17), zijn:
 
 - a. de Informatiseringsbank van het Ministerie van Onderwijs en Wetenschappen;
 
@@ -52,7 +52,7 @@ De instanties en personen die aan de raden voor de kinderbescherming kosteloos d
 
 - c. de Sociale Verzekeringsbank;
 
-- d. Ziekenfondsen als bedoeld in de wet van 15 oktober 1964, **Stb.** 392, houdende regelen met betrekking tot de geneeskundige verzorging door middel van ziekenfondsverzekering;
+- d. vervallen;
 
 - e. Bedrijfsverenigingen als bedoeld in de Organisatiewet Sociale Verzekering (**Stb.** 1989, 119).
 
