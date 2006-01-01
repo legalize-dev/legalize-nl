@@ -4,7 +4,7 @@ identifier: "BWBR0018053"
 country: "nl"
 rank: "wet"
 publication_date: "2014-12-20"
-last_updated: "2005-12-31"
+last_updated: "2006-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018053"
 soort: "wet"
@@ -61,7 +61,7 @@ Wijzigt de Wet op de vennootschapsbelasting 1969.
 
 ##### Artikel V
 
-Wijzigt de Algemene wet inzake rijksbelastingen.
+Vervallen
 
 ##### Artikel VI
 
@@ -101,7 +101,7 @@ C. Voorzover een egalisatiereserve als bedoeld in [artikel 3.53, eerste lid, ond
 
 D. In afwijking in zoverre van [artikel 19g, eerste lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=19g), zoals dat artikel op 1 januari 2006 luidt, kunnen voor werknemers die op 31 december 2005 de leeftijd van 51 jaar maar niet de leeftijd van 56 jaar hebben bereikt, in het kalenderjaar meer aanspraken ontstaan dan overeenkomt met 12 procent van het loon van het jaar, voorzover de totale aanspraken aan het einde van het kalenderjaar door de in het kalenderjaar opgebouwde aanspraken een periode van extra verlof van 2,1 jaar niet te boven gaan.
 
-E. In afwijking in zoverre van [artikel 19g, eerste lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=19g), zoals dat artikel op 1 januari 2006 luidt, kunnen voor werknemers die met toepassing van [artikel 32, vierde lid, van de Pensioen- en spaarfondsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002089&artikel=32) prepensioenaanspraken afkopen en deze afkoop aanwenden voor het opbouwen van een voorziening ingevolge een levensloopregeling, in het kalenderjaar meer aanspraken ontstaan dan overeenkomt met 12 procent van het loon van het jaar, voorzover de totale aanspraken aan het einde van het kalenderjaar door de in het kalenderjaar opgebouwde aanspraken een periode van extra verlof van 2,1 jaar niet te boven gaan.
+E. In afwijking in zoverre van [artikel 19g, eerste lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=19g), zoals dat artikel op 1 januari 2006 luidt, kunnen voor werknemers die in een kalenderjaar pensioenaanspraken als bedoeld in [artikel 19b, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=19b), afkopen, in dat kalenderjaar meer aanspraken ontstaan dan overeenkomt met 12 procent van het loon van het jaar, voorzover zulks het gevolg is van de aanwending van de afkoop van de pensioenaanspraken voor het opbouwen van een voorziening ingevolge een levensloopregeling met dien verstande dat de totale aanspraken aan het einde van het kalenderjaar door de in het kalenderjaar opgebouwde aanspraken een periode van extra verlof van 2,1 jaar niet te boven gaan.
 
 ##### Artikel XIV
 
@@ -115,6 +115,6 @@ Deze wet wordt aangehaald als: Wet aanpassing fiscale behandeling VUT/prepensioe
 
 1. Onder toepassing van [artikel 16 van de Tijdelijke referendumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0012701&artikel=16) treedt deze wet in werking met ingang van 1 januari 2005.
 
-2. [Artikel 10, vierde lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=10), zoals dat komt te luiden ingevolge [artikel I, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0018053&artikel=I&z=2005-12-31&g=2005-12-31), werkt terug tot en met 16 september 2004 voor uitkeringen die worden genoten als gevolg van afkoop, vervreemding of het formeel of feitelijk onderwerp van zekerheid worden van de aanspraak, anders dan ten behoeve van uitstel van betaling op grond van [artikel 25, vijfde lid, van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25).
+2. [Artikel 10, vierde lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=10), zoals dat komt te luiden ingevolge [artikel I, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0018053&artikel=I&z=2006-01-01&g=2006-01-01), werkt terug tot en met 16 september 2004 voor uitkeringen die worden genoten als gevolg van afkoop, vervreemding of het formeel of feitelijk onderwerp van zekerheid worden van de aanspraak, anders dan ten behoeve van uitstel van betaling op grond van [artikel 25, vijfde lid, van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25).
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
