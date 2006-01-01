@@ -4,7 +4,7 @@ identifier: "BWBR0020804"
 country: "nl"
 rank: "wet"
 publication_date: "2008-01-01"
-last_updated: "2005-12-29"
+last_updated: "2006-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020804"
 soort: "wet"
@@ -61,7 +61,7 @@ Wijzigt de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten.
 
 ##### Artikel VI. Wijziging van de [Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet financiering sociale verzekeringen.
 
 ##### Artikel VII. Wijziging van de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0004163)
 
@@ -81,7 +81,7 @@ Wijzigt de Wet op de arbeidsongeschiktheidsverzekering.
 
 ##### Artikel XI. Wijziging van de [Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet structuur uitvoeringsorganisatie werk en inkomen.
 
 ##### Artikel XII. Wijziging van de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057)
 
@@ -103,7 +103,7 @@ Wijzigt de Ziektewet.
 
 ##### Artikel XVII. Verruiming grondslag [Regeling aanwijzing ontwikkelingsorganisaties BEU](https://wetten.overheid.nl/jci1.3:c:BWBR0014127)
 
-Na de inwerkingtreding van [artikel III, onderdeel G](https://wetten.overheid.nl/jci1.3:c:BWBR0020804&hoofdstuk=1&artikel=III&z=2006-12-23&g=2005-12-29), [artikel X, onderdeel K](https://wetten.overheid.nl/jci1.3:c:BWBR0020804&hoofdstuk=1&artikel=X&z=2006-12-23&g=2005-12-29), [artikel XII, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0020804&hoofdstuk=1&artikel=XII&z=2006-12-23&g=2005-12-29) en [artikel XIV, onderdeel G](https://wetten.overheid.nl/jci1.3:c:BWBR0020804&hoofdstuk=1&artikel=XIV&z=2006-12-23&g=2005-12-29) van deze wet berust de [Regeling aanwijzing ontwikkelingsorganisaties BEU](https://wetten.overheid.nl/jci1.3:c:BWBR0014127) mede op [artikel 53, eerste lid, onderdeel b, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=53), [artikel 18, tweede lid, onderdeel b, van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=18), [artikel 64, tweede lid, onderdeel b, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=64) en [artikel 81, tweede lid, onderdeel b, van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=81).
+Na de inwerkingtreding van [artikel III, onderdeel G](https://wetten.overheid.nl/jci1.3:c:BWBR0020804&hoofdstuk=1&artikel=III&z=2006-12-23&g=2006-01-01), [artikel X, onderdeel K](https://wetten.overheid.nl/jci1.3:c:BWBR0020804&hoofdstuk=1&artikel=X&z=2006-12-23&g=2006-01-01), [artikel XII, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0020804&hoofdstuk=1&artikel=XII&z=2006-12-23&g=2006-01-01) en [artikel XIV, onderdeel G](https://wetten.overheid.nl/jci1.3:c:BWBR0020804&hoofdstuk=1&artikel=XIV&z=2006-12-23&g=2006-01-01) van deze wet berust de [Regeling aanwijzing ontwikkelingsorganisaties BEU](https://wetten.overheid.nl/jci1.3:c:BWBR0014127) mede op [artikel 53, eerste lid, onderdeel b, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=53), [artikel 18, tweede lid, onderdeel b, van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=18), [artikel 64, tweede lid, onderdeel b, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=64) en [artikel 81, tweede lid, onderdeel b, van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=81).
 
 ##### Artikel XVIII. Wijziging grondslag [Besluit werkzaamheden, administratieve voorschriften en kosten eigenrisicodragen ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0014926)
 
@@ -124,3 +124,9 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel XX. Citeertitel
 
 Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel XVI. Wijziging van de [Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0007746)
+
+Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.
+
+### Hoofdstuk 4. Slotbepalingen
