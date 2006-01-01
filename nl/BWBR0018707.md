@@ -4,7 +4,7 @@ identifier: "BWBR0018707"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-02-13"
-last_updated: "2005-09-01"
+last_updated: "2006-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018707"
 soort: "AMvB"
@@ -48,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1. Reikwijdte en definitie
 
-1. Dit besluit geeft uitvoering aan [artikel 38a van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=38a).
+1. Dit besluit geeft uitvoering aan de [artikelen 38](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=38) en [38a van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=38a).
 
 2. Dit besluit verstaat onder:
 
@@ -71,5 +71,17 @@ Dit besluit treedt in werking met ingang van 1 september 2005. Indien het Staats
 ##### Artikel 4. Citeertitel
 
 Dit besluit wordt aangehaald als: Uitvoeringsbesluit Algemene wet inkomensafhankelijke regelingen.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 1a. Informatieverstrekking aan de Belastingdienst/Toeslagen
+
+Aan de Belastingdienst/Toeslagen worden desgevraagd, zo mogelijk langs elektronische weg, gegevens verstrekt die van belang kunnen zijn voor de uitvoering van de wet. De volgende gegevens worden daarbij verstrekt onder vermelding van het sociaal-fiscaalnummer van degene op wie de gegevens betrekking hebben:
+
+- a. voor zover het de toekenning van huurtoeslagen betreft: door de verhuurder, gegevens inzake het huurcontract, waaronder in elk geval begrepen de huurprijs van de woning;
+
+- b. voor zover het de toekenning van kinderopvangtoeslagen betreft: door het kindercentrum, het gastouderbureau of de gastouder, gegevens inzake het kinderopvangcontract, waaronder in elk geval begrepen de uurprijs voor de kinderopvang en het aantal kinderen en uren waarvoor kinderopvang wordt genoten;
+
+- c. voor zover het de toekenning van zorgtoeslagen betreft: door de zorgverzekeraar, bedoeld in [artikel 1, onderdeel b, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=1), gegevens inzake de zorgverzekering.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
