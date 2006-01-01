@@ -4,7 +4,7 @@ identifier: "BWBR0001999"
 country: "nl"
 rank: "rijkswet"
 publication_date: "2025-07-01"
-last_updated: "1998-05-01"
+last_updated: "2006-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0001999"
 soort: "rijkswet"
@@ -96,9 +96,9 @@ Bij de in het voorgaande artikel bedoelde herverzekering zullen gelden de volgen
 
 - 2°. tot het door de Staat der Nederlanden verzekerde bedrag zal een schaderegeling in der minne alleen kunnen geschieden onder de goedkeuring van Onze Ministers;
 
-- 3°. ten behoeve van de Staat der Nederlanden zijn, tot zekerheid van het recht van de Staat der Nederlanden tegenover de oorspronkelijke verzekeraar tot vergoeding en uitkering aan de Staat der Nederlanden van diens aandeel in de provenuen, voortvloeiende uit geabandonneerde voorwerpen of het geldend maken van rechten tegenover derden, verkregen door de oorspronkelijke verzekeraar, hetzij krachtens het bepaalde in [artikel 284 van het Wetboek van Koophandel](https://wetten.overheid.nl/jci1.3:c:BWBR0001838&artikel=284), hetzij door het abandonnement met betrekking tot de geabandonneerde voorwerpen, bij voorrecht verbonden: De Staat der Nederlanden zal de rechten, waarop het voorrecht rust, op eigen naam geldend kunnen maken;
+- 3°. ten behoeve van de Staat der Nederlanden zijn, tot zekerheid van het recht van de Staat der Nederlanden tegenover de oorspronkelijke verzekeraar tot vergoeding en uitkering aan de Staat der Nederlanden van diens aandeel in de provenuen, voortvloeiende uit geabandonneerde voorwerpen of het geldend maken van rechten tegenover derden, verkregen door de oorspronkelijke verzekeraar, hetzij krachtens het bepaalde in [artikel 962 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=962), hetzij door het abandonnement met betrekking tot de geabandonneerde voorwerpen, bij voorrecht verbonden: De Staat der Nederlanden zal de rechten, waarop het voorrecht rust, op eigen naam geldend kunnen maken;
 
-- a. alle rechten tegen derden, waarin de oorspronkelijke verzekeraar, krachtens het bepaalde in [artikel 284 van het Wetboek van Koophandel](https://wetten.overheid.nl/jci1.3:c:BWBR0001838&artikel=284) zal zijn getreden;
+- a. alle rechten tegen derden, waarin de oorspronkelijke verzekeraar, krachtens het bepaalde in [artikel 962 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=962) zal zijn getreden;
 
 - b. alle rechten, welke op de oorspronkelijke verzekeraar door het abandonnement overgaan;
 
@@ -112,11 +112,11 @@ Bij de in het voorgaande artikel bedoelde herverzekering zullen gelden de volgen
 
 ##### Artikel 4
 
-1. Indien Nederlandse, Nederlands-Antilliaanse of Arubaanse belanghebbenden bij Nederlandse, Nederlands-Antilliaanse of Arubaanse zeeschepen of luchtvaartuigen, dan wel bij goederen, als bedoeld in [artikel 2, lid 2, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0001999&artikel=2&z=1998-05-01&g=1998-05-01), niet tegen een redelijke premie voldoende dekking kunnen vinden tegen het gevaar van molest, dan wel tegen de gewone transportgevaren, zijn Onze Ministers - in gevallen, waarin naar hun oordeel het algemeen belang zulks vordert - gemachtigd ten opzichte van de vorenbedoelde zeeschepen, luchtvaartuigen en goederen op voorwaarden en tegen premiën, als door hen te bepalen, voor den Staat der Nederlanden, als verzekeraar verzekeringsovereenkomsten tegen vorenbedoelde gevaren aan te gaan.
+1. Indien Nederlandse, Nederlands-Antilliaanse of Arubaanse belanghebbenden bij Nederlandse, Nederlands-Antilliaanse of Arubaanse zeeschepen of luchtvaartuigen, dan wel bij goederen, als bedoeld in [artikel 2, lid 2, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0001999&artikel=2&z=2006-01-01&g=2006-01-01), niet tegen een redelijke premie voldoende dekking kunnen vinden tegen het gevaar van molest, dan wel tegen de gewone transportgevaren, zijn Onze Ministers - in gevallen, waarin naar hun oordeel het algemeen belang zulks vordert - gemachtigd ten opzichte van de vorenbedoelde zeeschepen, luchtvaartuigen en goederen op voorwaarden en tegen premiën, als door hen te bepalen, voor den Staat der Nederlanden, als verzekeraar verzekeringsovereenkomsten tegen vorenbedoelde gevaren aan te gaan.
 
 De hiervoor bedoelde machtiging tot het aangaan van verzekeringsovereenkomsten tegen het gevaar van molest dan wel tegen de gewone transportgevaren geldt mede ten aanzien van belangen, welke samenhangen met de exploitatie van Nederlandse zeeschepen of luchtvaartuigen of met het vervoeren van de hiervoor bedoelde goederen.
 
-2. Zeeschepen, als bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001999&artikel=1&z=1998-05-01&g=1998-05-01), en luchtvaartuigen, welke ingevolge wettelijk voorschrift worden gevorderd, zullen in omstandigheden, als in lid 1 bedoeld, steeds door Onze Ministers worden verzekerd.
+2. Zeeschepen, als bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001999&artikel=1&z=2006-01-01&g=2006-01-01), en luchtvaartuigen, welke ingevolge wettelijk voorschrift worden gevorderd, zullen in omstandigheden, als in lid 1 bedoeld, steeds door Onze Ministers worden verzekerd.
 
 ##### Artikel 5
 
