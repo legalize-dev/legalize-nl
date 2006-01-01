@@ -4,7 +4,7 @@ identifier: "BWBR0009197"
 country: "nl"
 rank: "wet"
 publication_date: "2006-01-01"
-last_updated: "2002-01-01"
+last_updated: "2006-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009197"
 soort: "wet"
@@ -78,7 +78,7 @@ In deze wet wordt verstaan onder:
 
 ##### Artikel 2
 
-1. De militair, bedoeld in [artikel 1, onderdeel a, onder 1°, 2° of 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0009197&artikel=1&z=2002-01-01&g=2002-01-01), die een werkelijke dienst van meer dan twee doch minder dan vijf jaar, hetzij tijdens de Tweede Wereldoorlog, dan wel in het voormalig Nederlands-Indië, in Korea of in het voormalig Nederlands Nieuw-Guinea doorgebracht, kan aanwijzen, alsmede de militair, bedoeld in [artikel 1, onderdeel a, onder 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0009197&artikel=1&z=2002-01-01&g=2002-01-01), die daarenboven in de periode voor de inwerkingtreding van deze wet tenminste één jaar onafgebroken in Nederland gevestigd is geweest, heeft aanspraak op een eenmalige uitkering ten bedrage van € 453,78.
+1. De militair, bedoeld in [artikel 1, onderdeel a, onder 1°, 2° of 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0009197&artikel=1&z=2006-01-01&g=2006-01-01), die een werkelijke dienst van meer dan twee doch minder dan vijf jaar, hetzij tijdens de Tweede Wereldoorlog, dan wel in het voormalig Nederlands-Indië, in Korea of in het voormalig Nederlands Nieuw-Guinea doorgebracht, kan aanwijzen, alsmede de militair, bedoeld in [artikel 1, onderdeel a, onder 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0009197&artikel=1&z=2006-01-01&g=2006-01-01), die daarenboven in de periode voor de inwerkingtreding van deze wet tenminste één jaar onafgebroken in Nederland gevestigd is geweest, heeft aanspraak op een eenmalige uitkering ten bedrage van € 453,78.
 
 2. Eveneens aanspraak op een eenmalige uitkering ten bedrage van € 453,78 heeft degene die als militair ten minste vijf jaar werkelijke dienst kan aanwijzen, hetzij tijdens de Tweede Wereldoorlog, dan wel in het voormalig Nederlands-Indië, in Korea of in het voormalig Nederlands Nieuw-Guinea doorgebracht en niet of minder dan vijf jaar als militair in de zin van de [Uitkeringswet financiële compensatie langdurige militaire dienst](https://wetten.overheid.nl/jci1.3:c:BWBR0005569) onderscheidenlijk de [Uitkeringswet KNIL-dienstplichttijd](https://wetten.overheid.nl/jci1.3:c:BWBR0006349) in werkelijke dienst is geweest.
 
@@ -86,15 +86,15 @@ In deze wet wordt verstaan onder:
 
 ##### Artikel 3
 
-Indien de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009197&artikel=2&z=2002-01-01&g=2002-01-01) genoemde aanspraak, in verband met het overlijden van de militair niet kan worden geëffectueerd, heeft de weduwe recht op een eenmalige uitkering, gelijk aan het in dat artikel genoemde bedrag.
+Indien de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009197&artikel=2&z=2006-01-01&g=2006-01-01) genoemde aanspraak, in verband met het overlijden van de militair niet kan worden geëffectueerd, heeft de weduwe recht op een eenmalige uitkering, gelijk aan het in dat artikel genoemde bedrag.
 
 ##### Artikel 4
 
 De aanvraag om een uitkering krachtens deze wet wordt schriftelijk ingediend bij:
 
-- a. de Stichting Administratie Indonesische Pensioenen voorzover het betreft de militair, genoemd in [artikel 1, onderdeel a, onder 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0009197&artikel=1&z=2002-01-01&g=2002-01-01), die bij het Koninklijk Nederlands Indisch /Indonesisch Leger werkelijke dienst heeft verricht, onderscheidenlijk diens weduwe;
+- a. de Stichting Administratie Indonesische Pensioenen voorzover het betreft de militair, genoemd in [artikel 1, onderdeel a, onder 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0009197&artikel=1&z=2006-01-01&g=2006-01-01), die bij het Koninklijk Nederlands Indisch /Indonesisch Leger werkelijke dienst heeft verricht, onderscheidenlijk diens weduwe;
 
-- b. bij Onze Minister van Defensie, voorzover het betreft de overige militairen genoemd in [artikel 1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0009197&artikel=1&z=2002-01-01&g=2002-01-01), onderscheidenlijk hun weduwen.
+- b. bij Onze Minister van Defensie, voorzover het betreft de overige militairen genoemd in [artikel 1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0009197&artikel=1&z=2006-01-01&g=2006-01-01), onderscheidenlijk hun weduwen.
 
 ##### Artikel 5
 
@@ -102,7 +102,7 @@ De gemeentebesturen en ambtenaren van de burgerlijke stand zijn verplicht op een
 
 ##### Artikel 6
 
-De over de uitkering verschuldigde belasting ingevolge de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353), de [Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471) en premie voor de volksverzekeringen ingevolge de [Wet financiering volksverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0004538) komen ten laste van het Rijk.
+De over de uitkering verschuldigde belasting ingevolge de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353), de [Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471) en premie voor de volksverzekeringen ingevolge de [Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745) komen ten laste van het Rijk.
 
 ##### Artikel 7
 
