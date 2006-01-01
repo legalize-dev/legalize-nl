@@ -4,7 +4,7 @@ identifier: "BWBR0011545"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-01-01"
-last_updated: "2005-08-01"
+last_updated: "2006-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011545"
 soort: "AMvB"
@@ -56,7 +56,7 @@ Hebben goedgevonden en verstaan:
 
 **wet**: [Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453).
 
-2. In [hoofdstuk 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=3a&z=2005-08-01&g=2005-08-01) van dit besluit wordt verstaan onder **aanvullende beurs**: toegekende en uitbetaalde aanvullende beurs als bedoeld in [artikel 6.2, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=6.2).
+2. In [hoofdstuk 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=3a&z=2006-01-01&g=2006-01-01) van dit besluit wordt verstaan onder **aanvullende beurs**: toegekende en uitbetaalde aanvullende beurs als bedoeld in [artikel 6.2, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=6.2).
 
 ##### Artikel 2. Gecorrigeerde belastbare minimumloon
 
@@ -120,11 +120,7 @@ Het onderwijs, bedoeld in [artikel 2.11 van de wet](https://wetten.overheid.nl/j
 
 ##### Artikel 5. Normbedrag particuliere ziektekostenverzekering
 
-Op het normbedrag voor de particuliere ziektekostenverzekering, bedoeld in [artikel 3.3, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.3), worden per 1 januari van ieder kalenderjaar ten hoogste twee correcties op het normbedrag, genoemd in artikel 3.18, overzicht 1, of het daarvoor in de plaats getreden normbedrag, aangebracht:
-
-- a. indien een overheveling van verstrekkingen naar de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) in het kader van de stelselwijziging zorgsector heeft plaatsgevonden, wordt door Onze Minister het normbedrag daaraan aangepast, en
-
-- b. het normbedrag, of indien onderdeel a is toegepast, het door toepassing van onderdeel a gewijzigde normbedrag, wordt per 1 januari van ieder kalenderjaar door Onze Minister overeenkomstig [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=6&artikel=17&z=2005-08-01&g=2005-08-01), aangepast.
+Vervallen
 
 ### Hoofdstuk 3. Weigerachtige of onvindbare ouders
 
@@ -144,7 +140,7 @@ Aanspraak op aanvullende beurs als bedoeld in [artikel 3.14, eerste lid, van de 
 
 ##### Artikel 7. Conflicteis
 
-1. Van een ernstig en structureel conflict tussen ouder en studerende als bedoeld in [artikel 6, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=3&artikel=6&z=2005-08-01&g=2005-08-01), is sprake, indien de ouder om ernstige redenen structureel weigert de veronderstelde ouderlijke bijdrage te verstrekken.
+1. Van een ernstig en structureel conflict tussen ouder en studerende als bedoeld in [artikel 6, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=3&artikel=6&z=2006-01-01&g=2006-01-01), is sprake, indien de ouder om ernstige redenen structureel weigert de veronderstelde ouderlijke bijdrage te verstrekken.
 
 2. De IB-Groep stelt bij de ouder vast dat er sprake is van weigering. Indien die ouder geen medewerking voor die vaststelling verleent, kan de verklaring van een onafhankelijke derde voor de betreffende ouderverklaring in de plaats treden.
 
@@ -152,25 +148,25 @@ Aanspraak op aanvullende beurs als bedoeld in [artikel 3.14, eerste lid, van de 
 
 ##### Artikel 8. Uit ouderlijk gezag ontzet of ontheven
 
-Als bewijs dat de ouder uit het ouderlijk gezag is ontzet of ontheven, bedoeld in [artikel 6, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=3&artikel=6&z=2005-08-01&g=2005-08-01), dient een afschrift van de beschikking van de rechtbank.
+Als bewijs dat de ouder uit het ouderlijk gezag is ontzet of ontheven, bedoeld in [artikel 6, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=3&artikel=6&z=2006-01-01&g=2006-01-01), dient een afschrift van de beschikking van de rechtbank.
 
 ##### Artikel 9. Geen contact sinds 12e jaar
 
-Van geen contact met de ouder als bedoeld in [artikel 6, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=3&artikel=6&z=2005-08-01&g=2005-08-01), is sprake, indien de studerende vanaf de maand waarin hij de leeftijd van 12 jaren heeft bereikt geen wezenlijk contact met de ouder had. Als bewijs dient een verklaring van een ter zake deskundige.
+Van geen contact met de ouder als bedoeld in [artikel 6, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=3&artikel=6&z=2006-01-01&g=2006-01-01), is sprake, indien de studerende vanaf de maand waarin hij de leeftijd van 12 jaren heeft bereikt geen wezenlijk contact met de ouder had. Als bewijs dient een verklaring van een ter zake deskundige.
 
 ##### Artikel 10. Niet inbare alimentatie
 
-Van voor de studerende niet inbare alimentatie als bedoeld in [artikel 6, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=3&artikel=6&z=2005-08-01&g=2005-08-01), is sprake, indien de alimentatie oninbaar is gedurende ten minste 12 maanden voorafgaande aan de maand waarin de studerende voor het eerst studiefinanciering ontvangt. Als bewijs dient een verklaring van een ter zake deskundige.
+Van voor de studerende niet inbare alimentatie als bedoeld in [artikel 6, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=3&artikel=6&z=2006-01-01&g=2006-01-01), is sprake, indien de alimentatie oninbaar is gedurende ten minste 12 maanden voorafgaande aan de maand waarin de studerende voor het eerst studiefinanciering ontvangt. Als bewijs dient een verklaring van een ter zake deskundige.
 
 ##### Artikel 11. Onbekende verblijfplaats ouder
 
-1. Indien de studerende de verblijfplaats van de ouder niet kent, onderzoekt de IB-Groep in een geval als bedoeld in [artikel 6, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=3&artikel=6&z=2005-08-01&g=2005-08-01), de verblijfplaats van die ouder gedurende ten hoogste 3 maanden onderscheidenlijk ten hoogste 6 maanden in geval van onderzoek in het buitenland. Indien de verblijfplaats van die ouder niet wordt achterhaald, wordt geen rekening gehouden met de veronderstelde ouderlijke bijdrage.
+1. Indien de studerende de verblijfplaats van de ouder niet kent, onderzoekt de IB-Groep in een geval als bedoeld in [artikel 6, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=3&artikel=6&z=2006-01-01&g=2006-01-01), de verblijfplaats van die ouder gedurende ten hoogste 3 maanden onderscheidenlijk ten hoogste 6 maanden in geval van onderzoek in het buitenland. Indien de verblijfplaats van die ouder niet wordt achterhaald, wordt geen rekening gehouden met de veronderstelde ouderlijke bijdrage.
 
 2. Indien de verblijfplaats van een ouder wordt achterhaald, vraagt de IB-Groep bij die ouder of bij de belastingdienst de gegevens op over het belastbare inkomen.
 
 ##### Artikel 12. Draagkracht uit alimentatie
 
-1. Indien een studerende van zijn ouder alimentatie als bedoeld in [artikel 6, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=3&artikel=6&z=2005-08-01&g=2005-08-01), ontvangt, komt de ontvangen alimentatie van de studerende in de plaats van de veronderstelde ouderlijk bijdrage. Als bewijs van de hoogte van de alimentatie dient in ieder geval de beschikking van de rechtbank of een notariële akte. Het bedrag dat in het bewijsstuk wordt genoemd, wordt vermeerderd met de wettelijke indexering.
+1. Indien een studerende van zijn ouder alimentatie als bedoeld in [artikel 6, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=3&artikel=6&z=2006-01-01&g=2006-01-01), ontvangt, komt de ontvangen alimentatie van de studerende in de plaats van de veronderstelde ouderlijk bijdrage. Als bewijs van de hoogte van de alimentatie dient in ieder geval de beschikking van de rechtbank of een notariële akte. Het bedrag dat in het bewijsstuk wordt genoemd, wordt vermeerderd met de wettelijke indexering.
 
 2. Indien nog geen beschikking is afgegeven, wordt de ontvangen alimentatie van de studerende in de plaats van de veronderstelde ouderlijk bijdrage gesteld vanaf de datum dat het verzoek bij de rechtbank is ingediend.
 
@@ -288,9 +284,9 @@ Vervallen
 
 ### Hoofdstuk 9. Overgangsbepalingen
 
-##### Artikel 30a. Overgangsbepaling [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=1&artikel=2&z=2005-08-01&g=2005-08-01)
+##### Artikel 30a. Overgangsbepaling [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=1&artikel=2&z=2006-01-01&g=2006-01-01)
 
-1. Voorzover het tweede jaar voorafgaande aan het jaar waarvoor de draagkracht, bedoeld in [artikel 6.11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=6.11), wordt vastgesteld, het jaar voorafgaande aan het jaar waarvoor de draagkracht wordt vastgesteld of het jaar waarvoor de draagkracht wordt vastgesteld een aan het kalenderjaar 2001 voorafgaand kalenderjaar is, wordt voor de toepassing van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=1&artikel=2&z=2005-08-01&g=2005-08-01) onder gecorrigeerde belastbare minimumloon verstaan:
+1. Voorzover het tweede jaar voorafgaande aan het jaar waarvoor de draagkracht, bedoeld in [artikel 6.11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=6.11), wordt vastgesteld, het jaar voorafgaande aan het jaar waarvoor de draagkracht wordt vastgesteld of het jaar waarvoor de draagkracht wordt vastgesteld een aan het kalenderjaar 2001 voorafgaand kalenderjaar is, wordt voor de toepassing van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=1&artikel=2&z=2006-01-01&g=2006-01-01) onder gecorrigeerde belastbare minimumloon verstaan:
 
 - a. de som van:
 
