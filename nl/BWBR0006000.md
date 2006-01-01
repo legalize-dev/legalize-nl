@@ -4,7 +4,7 @@ identifier: "BWBR0006000"
 country: "nl"
 rank: "wet"
 publication_date: "2025-07-01"
-last_updated: "2005-09-01"
+last_updated: "2006-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006000"
 soort: "wet"
@@ -78,7 +78,7 @@ Van de bepalingen van deze titel mag slechts worden afgeweken, indien en voor zo
 
 2. Onder geheelen koopprijs wordt verstaan de som van alle betalingen, waartoe de kooper bij regelmatige nakoming van de overeenkomst gehouden is.
 
-3. Het [tweede lid van artikel 1576b](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Vijfde_A&afdeling=1&artikel=1576b&z=2005-09-01&g=2005-09-01) is hier niet van toepassing.
+3. Het [tweede lid van artikel 1576b](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Vijfde_A&afdeling=1&artikel=1576b&z=2006-01-01&g=2006-01-01) is hier niet van toepassing.
 
 ##### Artikel 1576d
 
@@ -118,7 +118,7 @@ Volmacht tot invordering van loon, pensioen of andere periodieke vorderingen ter
 
 ##### Artikel 1576i
 
-1. Huurkoop wordt aangegaan bij authentieke of onderhandsche akte, welke voldoet aan de bepalingen van [artikel 1576j](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Vijfde_A&afdeling=2&artikel=1576j&z=2005-09-01&g=2005-09-01).
+1. Huurkoop wordt aangegaan bij authentieke of onderhandsche akte, welke voldoet aan de bepalingen van [artikel 1576j](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Vijfde_A&afdeling=2&artikel=1576j&z=2006-01-01&g=2006-01-01).
 
 2. Hetzelfde geldt voor overeenkomsten, welke bestaande overeenkomsten zoodanig wijzigen of aanvullen, dat daardoor huurkoop zou ontstaan.
 
@@ -130,9 +130,9 @@ Volmacht tot invordering van loon, pensioen of andere periodieke vorderingen ter
 
 ##### Artikel 1576j
 
-1. De akte van huurkoop moet duidelijk vermelden den geheelen koopprijs, als bedoeld in [artikel 1576c](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Vijfde_A&afdeling=1&artikel=1576c&z=2005-09-01&g=2005-09-01), het plan van regelmatige afbetaling, als bedoeld in [artikel 1576f](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Vijfde_A&afdeling=1&artikel=1576f&z=2005-09-01&g=2005-09-01), en de bedingen betreffende voorbehoud en overgang van eigendom.
+1. De akte van huurkoop moet duidelijk vermelden den geheelen koopprijs, als bedoeld in [artikel 1576c](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Vijfde_A&afdeling=1&artikel=1576c&z=2006-01-01&g=2006-01-01), het plan van regelmatige afbetaling, als bedoeld in [artikel 1576f](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Vijfde_A&afdeling=1&artikel=1576f&z=2006-01-01&g=2006-01-01), en de bedingen betreffende voorbehoud en overgang van eigendom.
 
-2. In de gevallen, bedoeld in het [tweede en het derde lid van artikel 1576h](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Vijfde_A&afdeling=2&artikel=1576h&z=2005-09-01&g=2005-09-01), treden de overeenkomstige gegevens hiervoor in de plaats.
+2. In de gevallen, bedoeld in het [tweede en het derde lid van artikel 1576h](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Vijfde_A&afdeling=2&artikel=1576h&z=2006-01-01&g=2006-01-01), treden de overeenkomstige gegevens hiervoor in de plaats.
 
 3. Ontbreekt eene akte, welke voldoet aan genoemde voorwaarden, dan geldt de overeenkomst niet als huurkoop, doch wordt de koop en verkoop op afbetaling geacht te zijn gesloten zonder beding, dat de verkochte zaak niet door enkele aflevering aan den kooper overgaat.
 
@@ -194,7 +194,7 @@ Indien bij ontbinding der overeenkomst de kooper recht mocht hebben op eenige te
 
 3. Bij herhaling van het in het eerste lid genoemde geval heeft de kooper het recht van inlossing alleen onder volledige betaling.
 
-4. Aan de vordering tot inlossing, anders dan onder volledige betaling, behoeft de verkooper niet te voldoen, indien omstandigheden aanwezig zijn, die tot toepassing van [artikel 1576r](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Vijfde_A&afdeling=2&artikel=1576r&z=2005-09-01&g=2005-09-01) aanleiding zouden geven.
+4. Aan de vordering tot inlossing, anders dan onder volledige betaling, behoeft de verkooper niet te voldoen, indien omstandigheden aanwezig zijn, die tot toepassing van [artikel 1576r](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Vijfde_A&afdeling=2&artikel=1576r&z=2006-01-01&g=2006-01-01) aanleiding zouden geven.
 
 5. Van de bepalingen van dit artikel kan ten voordeele van den kooper door partijen worden afgeweken.
 
@@ -1006,7 +1006,7 @@ De maatschap begint van het oogenblik der overeenkomst, indien daarbij geen ande
 
 1. De inbreng van de vennoot kan bestaan in geld, goederen, genot van goederen en arbeid.
 
-2. Op de inbreng van een goed zijn de bepalingen omtrent koop, op de inbreng van genot van een goed de [artikelen 1584-1623](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Zevende&afdeling=Eerste&artikel=1584&z=2005-09-01&g=2005-09-01) van overeenkomstige toepassing, voor zover de aard van de rechtsverhouding zich daartegen niet verzet.
+2. Op de inbreng van een goed zijn de bepalingen omtrent koop, op de inbreng van genot van een goed de [artikelen 1584-1623](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Zevende&afdeling=Eerste&artikel=1584&z=2006-01-01&g=2006-01-01) van overeenkomstige toepassing, voor zover de aard van de rechtsverhouding zich daartegen niet verzet.
 
 ##### Artikel 1665
 
@@ -1314,7 +1314,7 @@ Indien men is overeengekomen dat hij die een goed ter leen heeft ontvangen dit z
 
 ##### Artikel 1799
 
-De bepaling van [artikel 1790](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Dertiende&afdeling=Derde&artikel=1790&z=2005-09-01&g=2005-09-01) is op verbruikleening toepasselijk.
+De bepaling van [artikel 1790](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Dertiende&afdeling=Derde&artikel=1790&z=2006-01-01&g=2006-01-01) is op verbruikleening toepasselijk.
 
 ### afdeeling Derde. Van de verpligtingen des leeners
 
@@ -1374,47 +1374,33 @@ In de twee eerste gevallen, bij het vorige artikel vermeld, kan de schuldenaar z
 
 ##### Artikel 1811
 
-1. Eene kans-overeenkomst is eene handeling, waarvan de uitkomsten, met betrekking tot voordeel en nadeel, het zij voor alle de partijen, het zij voor eenige derzelve, van eene onzekere gebeurtenis afhangen.
-
-2. Van dien aard zijn:
-
-De overeenkomst van verzekering;
-
-Lijfrenten;
-
-Spel en weddingschap;
-
-Overeenkomsten tot verrekening van een koers- of prijsverschil.
-
-3. De eerste overeenkomst wordt bij het [Wetboek van Koophandel](https://wetten.overheid.nl/jci1.3:c:BWBR0001838) geregeld.
+Vervallen
 
 ### afdeeling Tweede. Van de overeenkomst van lijfrenten en derzelver gevolgen
 
 ##### Artikel 1813
 
-Lijfrente kan worden gevestigd, het zij op het lijf des geldschieters, of van hem wien men daarvan het genot geeft, het zij op dat van eenen derde, ofschoon deze daarvan geen genot hebbe.
+Vervallen
 
 ##### Artikel 1814
 
-Dezelve kan gevestigd worden op het lijf van een of meer personen.
+Vervallen
 
 ##### Artikel 1817
 
-Lijfrente kan tot zoodanig beloop van renten gesteld worden, als partijen goedvinden te bepalen.
+Vervallen
 
 ##### Artikel 1819
 
-Indien de schuldenaar met betaling van verschenen lijfrente in verzuim is, kan de renteheffer vorderen dat zekerheid wordt gesteld over de te vervallen rente.
+Vervallen
 
 ##### Artikel 1822
 
-1. De gerechtigde tot een lijfrente heeft slechts een verkregen regt op de lijfrente, naar evenredigheid van het getal der dagen welke degene geleefd heeft, op wiens lijf de rente is gevestigd.
-
-2. Indien echter de overeenkomst medebrengt dat de rente vooruit moet worden betaald, is het regt op den termijn die betaald had behooren te zijn verkregen van den dag waarop de betaling had moeten geschieden.
+Vervallen
 
 ##### Artikel 1824
 
-De rentheffer kan de verschenen rente niet vorderen, dan door te doen blijken van het leven van hem op wien de lijfrente gevestigd is.
+Vervallen
 
 ### afdeeling Derde. Van spel en weddingschap
 
