@@ -4,7 +4,7 @@ identifier: "BWBR0005219"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2013-01-01"
-last_updated: "2001-09-01"
+last_updated: "2006-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005219"
 soort: "ministeriele-regeling"
@@ -72,17 +72,7 @@ De aanstelling geschiedt schriftelijk.
 
 ##### Artikel 7
 
-1. De aanstelling tot verkeersbrigadier geschiedt niet dan nadat de betrokkene op kosten van de gemeente waar hij zijn taak zal uitoefenen is verzekerd tegen:
-
-- a. de kosten van huishoudelijke hulp voor zover het meerderjarige verkeersbrigadiers betreft;
-
-- b. persoonsschade en zaakschade ten gevolge van ongevallen welke hem mochten overkomen tijdens de daadwerkelijke uitoefening van zijn taak en tijdens het rechtstreeks gaan naar en komen van de plaats waar hij zijn taak uitoefent: de bedragen, waarvoor de verzekering is gesloten, dienen ten minste gelijk te zijn aan de bedragen, waarvoor gangbare ongevallenverzekeringen zijn gesloten en
-
-- c. wettelijke aansprakelijkheid tot een bedrag, dat ten minste even hoog is als de som waarvoor de wettelijke aansprakelijkheidsverzekering, bedoeld in de [Wet Aansprakelijkheidsverzekering Motorrijtuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0002415) (Stb. 1963, 228) ten minste moet zijn gesloten.
-
-2. In zoverre het gaat om een minderjarige dient tevens te zijn verzekerd de aansprakelijkheid van degene die de ouderlijke macht of de voogdij over het kind uitoefent, bedoeld in de [artikelen 162](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=162) en [169, Boek 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=169)1Tot 1 januari 1992 is dit het tweede lid van artikel 1403 van het Burgerlijk Wetboek van het Nieuw Burgerlijk Wetboek ter zake van schade, aan derden toegebracht door een minderjarige in hun hoedanigheid van verkeersbrigadier, tot een bedrag, dat ten minste even hoog is als de som waarvoor de wettelijke aansprakelijkheidsverzekering, bedoeld in de [Wet Aansprakelijkheidsverzekering Motorrijtuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0002415), moet zijn gesloten.
-
-3. Op vergoeding krachtens de in het eerste en het tweede lid bedoelde verzekeringen dient aanspraak te kunnen worden gemaakt ook voor zover aanspraak op vergoeding bestaat of kan worden gemaakt krachtens een andere verzekering, al dan niet van oudere datum.
+Vervallen
 
 ##### Artikel 8
 
