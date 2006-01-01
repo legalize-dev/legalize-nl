@@ -4,7 +4,7 @@ identifier: "BWBR0008655"
 country: "nl"
 rank: "wet"
 publication_date: "2006-01-01"
-last_updated: "1998-01-01"
+last_updated: "2006-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008655"
 soort: "wet"
@@ -94,9 +94,9 @@ Vervallen
 
 ##### ARTIKEL VII
 
-1. Onder uitkeringen als bedoeld in artikel 75b en in [artikel 76f van de Wet op de arbeidsongeschiktheidsverzekering](onbekend), worden uitsluitend verstaan, de uitkeringen die zijn ingegaan op of na de dag van inwerkingtreding van deze wet.
+1. Onder uitkeringen als bedoeld in [artikel 75b](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=75b) en in [artikel 76f van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=76f), zoals deze artikelen luidden op de dag voorafgaande aan het tijdstip van inwerkingtreding van de desbetreffende bepalingen van de [Invoeringswet Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017747), worden uitsluitend verstaan, de uitkeringen die zijn ingegaan op of na de dag van inwerkingtreding van deze wet.
 
-2. Onder overgang van een onderneming als bedoeld in [artikel 78, vierde lid, van de Wet op de arbeidsongeschiktheidsverzekering](onbekend) wordt uitsluitend verstaan, de overgang van een onderneming die heeft plaatsgevonden op of na de dag van inwerkingtreding van deze wet.
+2. Onder overgang van een onderneming als bedoeld in [artikel 78, vierde lid, van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=78), zoals dit artikel luidde op de dag voorafgaande aan het tijdstip van inwerkingtreding van de desbetreffende bepalingen van de [Invoeringswet Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017747), wordt uitsluitend verstaan, de overgang van een onderneming die heeft plaatsgevonden op of na de dag van inwerkingtreding van deze wet.
 
 ##### ARTIKEL VIIA
 
@@ -110,6 +110,6 @@ Deze wet wordt aangehaald als «Wet premiedifferentiatie en marktwerking bij arb
 
 1. De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-2. In afwijking van het eerste lid treden van [Artikel I, onderdeel](https://wetten.overheid.nl/jci1.3:c:BWBR0008655&hoofdstuk=1&artikel=I&z=1998-01-01&g=1998-01-01) FF, de artikelen 87**b** en 87**d** in werking met ingang van 1 januari 1997. Indien het Staatsblad waarin deze wet wordt geplaatst, dan wel het **Staatsblad** waarin de [Invoeringswet nieuwe en gewijzigde arbeidsongeschiktheidsregelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0008658) wordt geplaatst, wordt uitgegeven na 31 december 1996, treden de in de eerste zin genoemde artikelen in werking met ingang van de eerste dag van de kalendermaand na zowel de datum van uitgifte van **Staatsblad** waarin deze wet wordt geplaatst als de datum van uitgifte van het **Staatsblad** waarin de [Invoeringswet nieuwe en gewijzigde arbeidsongeschiktheidsregelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0008658) wordt geplaatst.
+2. In afwijking van het eerste lid treden van [Artikel I, onderdeel](https://wetten.overheid.nl/jci1.3:c:BWBR0008655&hoofdstuk=1&artikel=I&z=2006-01-01&g=2006-01-01) FF, de artikelen 87**b** en 87**d** in werking met ingang van 1 januari 1997. Indien het Staatsblad waarin deze wet wordt geplaatst, dan wel het **Staatsblad** waarin de [Invoeringswet nieuwe en gewijzigde arbeidsongeschiktheidsregelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0008658) wordt geplaatst, wordt uitgegeven na 31 december 1996, treden de in de eerste zin genoemde artikelen in werking met ingang van de eerste dag van de kalendermaand na zowel de datum van uitgifte van **Staatsblad** waarin deze wet wordt geplaatst als de datum van uitgifte van het **Staatsblad** waarin de [Invoeringswet nieuwe en gewijzigde arbeidsongeschiktheidsregelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0008658) wordt geplaatst.
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
