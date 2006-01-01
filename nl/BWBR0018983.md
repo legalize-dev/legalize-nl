@@ -409,31 +409,3 @@ Dit besluit wordt aangehaald als: Uitvoeringsbesluit WTZi.
 Niet opgenomen.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende bijlage en nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 2.3
-
-[Artikel 5 van de Wet toelating zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=5) is niet van toepassing voor zover een instelling forensische zorg verleent als bedoeld in [artikel 2 van het Interimbesluit forensische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0029333&artikel=5).
-
-### Hoofdstuk III. Winstoogmerk
-
-### Hoofdstuk IV. Aanvraag toelating
-
-### Hoofdstuk V. Bouw
-
-### Hoofdstuk VI. Transparantie-eisen
-
-#### § 1. Bestuursstructuur
-
-#### § 2. Bedrijfsvoering
-
-### Hoofdstuk VII. Gegevensverstrekking
-
-### Hoofdstuk VIII. Sanering
-
-### Hoofdstuk IX. Slotbepalingen
-
-## Bijlage
-
-Niet opgenomen.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende bijlage en nota van toelichting in het Staatsblad zal worden geplaatst.
