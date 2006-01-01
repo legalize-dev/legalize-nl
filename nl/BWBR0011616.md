@@ -4,7 +4,7 @@ identifier: "BWBR0011616"
 country: "nl"
 rank: "amvb"
 publication_date: "2006-04-12"
-last_updated: "2002-01-01"
+last_updated: "2006-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011616"
 soort: "AMvB"
@@ -93,7 +93,7 @@ In dit besluit wordt verstaan onder vissersvaartuig: vissersvaartuig als bedoeld
 
 ##### Artikel 3
 
-Indien op aanvraag voor één handeling twee of meer verschillende ontheffingen als bedoeld in [artikel 2, eerste lid, onderdelen s tot en met v](https://wetten.overheid.nl/jci1.3:c:BWBR0011616&artikel=2&z=2002-01-01&g=2002-01-01), worden verstrekt, is slechts terzake van de ontheffing met het hoogste vergoedingsbedrag, het vastgestelde bedrag verschuldigd.
+Indien op aanvraag voor één handeling twee of meer verschillende ontheffingen als bedoeld in [artikel 2, eerste lid, onderdelen s tot en met v](https://wetten.overheid.nl/jci1.3:c:BWBR0011616&artikel=2&z=2002-01-01&g=2006-01-01), worden verstrekt, is slechts terzake van de ontheffing met het hoogste vergoedingsbedrag, het vastgestelde bedrag verschuldigd.
 
 ##### Artikel 4
 
