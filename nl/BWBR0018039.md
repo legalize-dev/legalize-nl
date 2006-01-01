@@ -357,33 +357,3 @@ Dit besluit treedt in werking met ingang van 1 januari 2006.
 Dit besluit wordt aangehaald als: Subsidiebesluit Ministerie van Buitenlandse Zaken.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-#### Paragraaf 1. Algemeen
-
-#### Paragraaf 2. Subsidieontvangers
-
-#### Paragraaf 3. Beleidsregels; subsidieplafond; verdeling
-
-#### Paragraaf 4. Beoordeling
-
-#### Paragraaf 5. Tijdvak; begrotingsvoorbehoud
-
-#### Paragraaf 6. Subsidiabele kosten
-
-#### Paragraaf 7. Verplichtingen voor de subsidieontvanger
-
-##### Artikel 24a
-
-Aan de subsidieverstrekking kunnen verplichtingen als bedoeld in [artikel 4:39, tweede lid van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:39) worden verbonden, met het oog op de belangen, genoemd in [artikel 2, onder a tot en met h, van de Kaderwet subsidies Ministerie van Buitenlandse Zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0010178&artikel=2) en in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018039&paragraaf=4&artikel=8&z=2010-10-23&g=2010-10-23).
-
-##### Artikel 24b
-
-Bij de subsidieverlening wordt bepaald dat de subsidieontvanger onverwijld een schriftelijke melding doet zodra aannemelijk is dat de activiteiten waarvoor de subsidie is verleend niet, niet tijdig of niet geheel zullen worden verricht of dat niet, niet tijdig of niet geheel aan de aan de subsidie verbonden verplichtingen zal worden voldaan.
-
-#### Paragraaf 8. Aanvragen; termijnen
-
-#### Paragraaf 9. Subsidies lager dan € 25.000
-
-#### Paragraaf 10. Subsidies tussen € 25.000 en € 125.000
-
-#### Paragraaf 11. Slotbepalingen
