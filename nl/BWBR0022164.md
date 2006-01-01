@@ -4,7 +4,7 @@ identifier: "BWBR0022164"
 country: "nl"
 rank: "amvb"
 publication_date: "2007-07-04"
-last_updated: "2004-12-31"
+last_updated: "2006-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022164"
 soort: "AMvB"
@@ -38,15 +38,15 @@ entry_into_force: "2007-07-04"
 
 ### Hoofdstuk 1. Toekenning van een eenmalige uitkering 2005 aan het defensiepersoneel (Toekenning eenmalige uitkering 2005 defensiepersoneel)
 
-### Hoofdstuk 2. Toekenning van een eenmalige uitkering 2006 aan het defensiepersoneel (Toekenning eenmalige uitkering 2006 defensiepersoneel)
+### Hoofdstuk 1. Toekenning van een eenmalige uitkering 2005 aan het defensiepersoneel (Toekenning eenmalige uitkering 2005 defensiepersoneel)
 
 ### Hoofdstuk 3. Toekenning van een eenmalige nominale uitkering 2006 en een eenmalige nominale uitkering 2007 aan gewezen militairen met een UKW-uitkering (Toekenning nominale uitkeringen 2006 en 2007 aan UKW-ers)
 
-### Hoofdstuk 4. Wijzigingen met ingang van 1 januari 2006
+### Hoofdstuk 2. Toekenning van een eenmalige uitkering 2006 aan het defensiepersoneel (Toekenning eenmalige uitkering 2006 defensiepersoneel)
 
 ##### Artikel 4
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Besluit vaststelling eenmalige uitkering 2004, enz. (arbeidsvoorwaardenmaatregelen sector Defensie).
 
 ##### Artikel 5
 
@@ -54,15 +54,15 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 6
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Besluit dienstreizen defensie.
 
 ##### Artikel 7
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Besluit personenchauffeurs defensie.
 
 ##### Artikel 8
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Besluit uitkering wegens functioneel leeftijdsontslag burgerlijke ambtenaren defensie.
 
 ##### Artikel 9
 
@@ -70,11 +70,11 @@ Wijzigt het Burgerlijk ambtenarenreglement defensie.
 
 ##### Artikel 10
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Inkomstenbesluit burgerlijke ambtenaren defensie.
 
 ##### Artikel 11
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Inkomstenbesluit militairen.
 
 ##### Artikel 12
 
@@ -82,7 +82,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 13
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Verplaatsingskostenbesluit militairen.
 
 ### Hoofdstuk 5. Wijzigingen met ingang van 1 januari 2007
 
@@ -191,29 +191,5 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 - d. de [artikelen 6, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0022164&hoofdstuk=4&artikel=6&z=2007-07-04&g=2006-01-01), [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0022164&hoofdstuk=4&artikel=12&z=2007-07-04&g=2006-01-01), en [artikel 13, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0022164&hoofdstuk=4&artikel=13&z=2007-07-04&g=2006-01-01), terugwerken tot en met 1 juli 2006;
 
 - e. de [artikelen 14 tot en met 18](https://wetten.overheid.nl/jci1.3:c:BWBR0022164&hoofdstuk=5&artikel=14&z=2007-07-04&g=2006-01-01), terugwerken tot 1 januari 2007.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 14
-
-Wijzigt het Algemeen militair ambtenarenreglement.
-
-##### Artikel 15
-
-Wijzigt het Besluit personenchauffeurs defensie.
-
-##### Artikel 16
-
-Wijzigt het Burgerlijk ambtenarenreglement defensie.
-
-##### Artikel 17
-
-Wijzigt het Inkomstenbesluit burgerlijke ambtenaren defensie.
-
-##### Artikel 18
-
-Wijzigt het Inkomstenbesluit militairen.
-
-### Hoofdstuk 6. Slotbepalingen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
