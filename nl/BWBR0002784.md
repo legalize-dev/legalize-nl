@@ -4,7 +4,7 @@ identifier: "BWBR0002784"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2005-01-01"
+last_updated: "2006-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002784"
 soort: "ministeriele-regeling"
@@ -45,7 +45,7 @@ Besluit:
 
 ##### Artikel 2
 
-De ingevolge [artikel 9, eerste lid, onderdeel f, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=9) te bepalen redelijke rente voor de in [artikel 2, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0002784&artikel=2&z=2005-01-01&g=2005-01-01), bedoelde ondernemingen van publiekrechtelijke rechtspersonen bedraagt 6 percent.
+De ingevolge [artikel 9, eerste lid, onderdeel f, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=9) te bepalen redelijke rente voor de in [artikel 2, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0002784&artikel=2&z=2006-01-01&g=2006-01-01), bedoelde ondernemingen van publiekrechtelijke rechtspersonen bedraagt 6 percent.
 
 ##### Artikel 2a
 
@@ -89,9 +89,7 @@ Voor de toepassing van artikel 15b, derde lid, van de wet wordt onder kortlopend
 
 1. Een voorlopige verliesverrekening als bedoeld in [artikel 21, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=21) kan worden verleend indien het verlies over een kalenderjaar wordt aangegeven door de in de uitnodiging tot het doen van aangifte gevraagde gegevens en bescheiden en andere gegevensdragers of de inhoud daarvan duidelijk, stellig en zonder voorbehoud in te vullen en te ondertekenen en de gevraagde bescheiden of andere gegevensdragers in te leveren of toe te zenden.
 
-2. Een voorlopige verliesverrekening wordt niet eerder verleend dan zes maanden na de kalendermaand waarin de aangifte is gedaan.
-
-3. Bij de berekening van een voorlopige verliesverrekening wordt het vermoedelijke verlies voor tachtig percent in aanmerking genomen.
+2. Bij de berekening van een voorlopige verliesverrekening wordt het vermoedelijke verlies voor tachtig percent in aanmerking genomen.
 
 ##### Artikel 4
 
