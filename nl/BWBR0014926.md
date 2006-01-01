@@ -4,7 +4,7 @@ identifier: "BWBR0014926"
 country: "nl"
 rank: "zbo"
 publication_date: "2006-12-06"
-last_updated: "2003-04-27"
+last_updated: "2006-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014926"
 soort: "zbo"
@@ -104,7 +104,7 @@ De termijnen vangen aan op 1 januari van het jaar volgend op het jaar waarin de 
 
 4. Indien de uitkomsten van de controle daartoe aanleiding geven, is het UWV bevoegd om de eigenrisicodrager ten behoeve van de door de eigenrisicodrager te verrichten werkzaamheden instructies te geven.
 
-5. Indien de eigenrisicodrager zich niet of niet voldoende aan de in het vierde lid bedoelde instructies houdt, is het UWV bevoegd te bepalen dat de eigenrisicodrager in afwijking van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014926&artikel=2&z=2003-04-27&g=2003-04-27) gedurende een door het UWV vastgestelde periode voorstellen voor beslissingen ingevolge de [ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888), of onderdelen daarvan aan het UWV voorlegt.
+5. Indien de eigenrisicodrager zich niet of niet voldoende aan de in het vierde lid bedoelde instructies houdt, is het UWV bevoegd te bepalen dat de eigenrisicodrager in afwijking van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014926&artikel=2&z=2003-04-27&g=2006-01-01) gedurende een door het UWV vastgestelde periode voorstellen voor beslissingen ingevolge de [ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888), of onderdelen daarvan aan het UWV voorlegt.
 
 6. Gedurende de in het vijfde lid bedoelde periode legt de eigenrisicodrager een voorstel voor een beslissing voor aan het UWV op een door het UWV daartoe beschikbaar gesteld formulier.
 
