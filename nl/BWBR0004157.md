@@ -4,7 +4,7 @@ identifier: "BWBR0004157"
 country: "nl"
 rank: "wet"
 publication_date: "2006-01-01"
-last_updated: "1985-01-01"
+last_updated: "2006-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004157"
 soort: "wet"
@@ -68,13 +68,13 @@ worden verhoogd door vermenigvuldiging met de factor 100/97.
 
 ##### Artikel 3
 
-Indien toepassing van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004157&artikel=2&z=1985-01-01&g=1985-01-01) leidt tot een dagloon dat meer bedraagt dan het maximumdagloon, bedoeld in [artikel 9, eerste lid, van de Coördinatiewet Sociale Verzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002126&artikel=9) (**Stb.** 1966, 64), wordt dat meerdere niet in aanmerking genomen.
+Indien toepassing van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004157&artikel=2&z=2006-01-01&g=2006-01-01) leidt tot een dagloon dat meer bedraagt dan het in [artikel 17, eerste lid, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=17) bedoelde bedrag, met betrekking tot een loontijdvak van een dag wordt dat meerdere niet in aanmerking genomen.
 
 ##### Artikel 4
 
-1. Indien toepassing van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004157&artikel=2&z=1985-01-01&g=1985-01-01) leidt tot een dagloon dat lager is dan het dagloon dat zou hebben gegolden zonder toepassing van dat artikel, wordt laatstbedoeld dagloon aan de uitkering ten grondslag gelegd.
+1. Indien toepassing van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004157&artikel=2&z=2006-01-01&g=2006-01-01) leidt tot een dagloon dat lager is dan het dagloon dat zou hebben gegolden zonder toepassing van dat artikel, wordt laatstbedoeld dagloon aan de uitkering ten grondslag gelegd.
 
-2. Waar in de WAO, de WWV en de WW dan wel in krachtens die wetten genomen besluiten wordt gesproken van dagloon, wordt voor de personen, op wie [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004157&artikel=2&z=1985-01-01&g=1985-01-01) toepassing heeft gevonden, als dagloon aangemerkt het dagloon na toepassing van deze wet.
+2. Waar in de WAO, de WWV en de WW dan wel in krachtens die wetten genomen besluiten wordt gesproken van dagloon, wordt voor de personen, op wie [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004157&artikel=2&z=2006-01-01&g=2006-01-01) toepassing heeft gevonden, als dagloon aangemerkt het dagloon na toepassing van deze wet.
 
 ##### Artikel 5
 
