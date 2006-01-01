@@ -4,7 +4,7 @@ identifier: "BWBR0022636"
 country: "nl"
 rank: "wet"
 publication_date: "2009-11-01"
-last_updated: "2005-03-01"
+last_updated: "2006-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022636"
 soort: "wet"
@@ -40,15 +40,33 @@ entry_into_force: "2008-01-01"
 
 ##### Artikel I
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Algemene wet inzake rijksbelastingen.
 
 ##### Artikel Ia
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Successiewet 1956.
 
 ##### Artikel II
 
-Dit onderdeel is nog niet inwerking getreden
+A. Wijzigt de Wet op de loonbelasting 1964.
+
+B. Wijzigt de Wet op de loonbelasting 1964.
+
+Ba. Indien deze wet na 30 juni 2006 in werking treedt, wordt in afwijking van de tekst [artikel 28, onderdelen d tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=28), voor de periode van 1 januari 2006 tot en met 30 juni 2006 als volgt gelezen:
+
+- d. aan de werknemer opgave te verstrekken van het in een kalenderjaar genoten loon, van de ingehouden belasting en van andere gegevens welke van belang kunnen zijn voor de heffing van de inkomstenbelasting;
+
+- e. van de werknemer die loon uit tegenwoordige dienstbetrekking geniet vast te stellen de identiteit aan de hand van een document als bedoeld in [artikel 1, eerste lid, onder 1° tot en met 3°, van de Wet op de identificatieplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0006297&artikel=1) en – zo de werknemer een vreemdeling is in de zin van de [Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) en niet behoort tot de categorie die op grond van overeenkomsten van internationaal recht is uitgezonderd van de verplichting tot het hebben van een geldige verblijfsvergunning als bedoeld in die wet en een geldige tewerkstellingsvergunning als bedoeld in de Wet arbeid vreemdelingen – tevens de verblijfsrechtelijke status ter zake van het verrichten van arbeid aan de hand van een geldige verblijfsvergunning of aan de hand van een geldige tewerkstellingsvergunning, alsmede van een en ander de aard, het nummer en een afschrift daarvan in de loonadministratie op te nemen.
+
+Bb. Wijzigt de Wet op de loonbelasting 1964.
+
+D. Wijzigt de Wet op de loonbelasting 1964.
+
+E. Wijzigt de Wet op de loonbelasting 1964.
+
+F. Wijzigt de Wet op de loonbelasting 1964.
+
+G. Wijzigt de Wet op de loonbelasting 1964.
 
 ##### Artikel III
 
@@ -84,7 +102,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel X
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet inkomstenbelasting 2001.
 
 ##### Artikel XI
 
@@ -96,7 +114,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XIIa
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Algemene wet inkomensafhankelijke regelingen.
 
 ##### Artikel XIII
 
@@ -104,7 +122,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XIIIa
 
-Dit onderdeel is nog niet inwerking getreden
+De ingevolge [artikel IA, onderdelen A en B](https://wetten.overheid.nl/jci1.3:c:BWBR0022636&artikel=Ia&z=2008-01-01&g=2006-01-01), gewijzigde artikelen van de [Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226) vinden voor het eerst toepassing met betrekking tot belastbare feiten in de zin van de [Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226) die zich hebben voorgedaan op of na 1 januari 2006.
 
 ##### Artikel XIIIb
 
@@ -112,7 +130,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XIIIc
 
-Dit onderdeel is nog niet inwerking getreden
+[Artikel 28, aanhef en onderdeel d, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=28), zoals dat onderdeel luidde op 31 december 2005, blijft van toepassing met betrekking tot de aldaar bedoelde opgave over kalenderjaren die zijn geëindigd voor 1 januari 2006.
 
 ##### Artikel XIIId
 
@@ -128,7 +146,7 @@ Vervallen
 
 ##### Artikel XIIIg
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Belastingplan 2006.
 
 ##### Artikel XIV
 
