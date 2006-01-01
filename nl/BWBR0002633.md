@@ -4,7 +4,7 @@ identifier: "BWBR0002633"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2005-09-14"
+last_updated: "2006-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002633"
 soort: "AMvB"
@@ -93,7 +93,7 @@ Hebben goedgevonden en verstaan:
 
 4. Bij levering onder voorbehoud van grondrente of van met grondrente bezwaarde eigendom behoort de waarde van de uitkering tot de vergoeding, met dien verstande dat de vergoeding hierdoor niet hoger kan zijn dan de waarde in het economische verkeer van de zaak waarop het recht betrekking heeft.
 
-5. De waarde van een canon, een retributie, een huur of een uitkering wordt bepaald met inachtneming van de bij dit besluit behorende [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&bijlage=A&z=2005-09-14&g=2005-09-14).
+5. De waarde van een canon, een retributie, een huur of een uitkering wordt bepaald met inachtneming van de bij dit besluit behorende [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&bijlage=A&z=2006-01-01&g=2006-01-01).
 
 6. Het tweede tot en met het vijfde lid is niet van toepassing voor zover de vestiging, overdracht, wijziging, afstand en opzegging van rechten waaraan onroerende zaken zijn onderworpen niet op grond van [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=3), van de wet, met toepassing van de voorgaande leden, als levering van goederen wordt aangemerkt.
 
@@ -109,9 +109,9 @@ Voor de toepassing van de in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BW
 
 ##### Artikel 7
 
-1. Als leveringen en diensten van sociale of culturele aard als bedoeld in [artikel 11, eerste lid, onderdeel **f**](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=11), van de wet, worden aangewezen de leveringen en diensten, genoemd in de bij dit besluit behorende [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&bijlage=B&z=2005-09-14&g=2005-09-14).
+1. Als leveringen en diensten van sociale of culturele aard als bedoeld in [artikel 11, eerste lid, onderdeel f , van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=11), worden aangewezen de leveringen en diensten, genoemd in de bij dit besluit behorende [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&bijlage=B&z=2006-01-01&g=2006-01-01).
 
-2. Tot de in het eerste lid bedoelde leveringen en diensten behoren niet, behoudens voor zover in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&bijlage=B&z=2005-09-14&g=2005-09-14) bij dit besluit anders is bepaald:
+2. Tot de in het eerste lid bedoelde leveringen en diensten behoren niet, behoudens voor zover in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&bijlage=B&z=2006-01-01&g=2006-01-01) bij dit besluit anders is bepaald:
 
 - a. het verstrekken van spijzen en dranken;
 
@@ -122,10 +122,6 @@ Voor de toepassing van de in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BW
 - d. het verzorgen van loon- en salarisadministraties, financiële administraties en grootboekadministraties;
 
 - e. andere bij ministeriële regeling in verband met het voorkomen van een ernstige verstoring van concurrentieverhoudingen aan te wijzen leveringen of diensten.
-
-3. De ondernemers die zijn genoemd in onderdeel **a** van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&bijlage=B&z=2005-09-14&g=2005-09-14) bij dit besluit zijn gehouden Onze Minister in kennis te stellen van wijzigingen in de statuten, alsmede Onze Minister in het jaar 1994 en vervolgens om de vijf jaren, binnen zes maanden na afloop van het laatst verstreken boekjaar, hun financiële jaarstukken over dat boekjaar toe te zenden.
-
-Indien de in het eerste lid bedoelde aanwijzing heeft plaatsgevonden na 31 december 1993 worden, in afwijking van het in de vorige volzin bepaalde, de financiële jaarstukken binnen zes maanden na afloop van het vijfde boekjaar na deze aanwijzing en vervolgens om de vijf jaren aan Onze Minister toegezonden.
 
 ##### Artikel 8
 
@@ -145,7 +141,7 @@ Indien de in het eerste lid bedoelde aanwijzing heeft plaatsgevonden na 31 decem
 
 1. Als diensten als bedoeld in [artikel 11, eerste lid, onderdeel **u**](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=11), van de wet, worden aangewezen de diensten, verleend aan hun leden door zelfstandige groeperingen van:
 
-- a. rechtspersonen welke zijn toegelaten op grond van [artikel 34 van de Ziekenfondswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002460&artikel=34), voor zover de diensten rechtstreeks nodig zijn voor de door die rechtspersonen verrichte prestaties;
+- a. vervallen;
 
 - b. instellingen welke zijn toegelaten om op de voet van de [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181) werkzaam te zijn in het belang van de volkshuisvesting, voor zover de diensten rechtstreeks nodig zijn voor het beheer of het onderhoud van woningwet- of premiewoningen;
 
@@ -177,35 +173,39 @@ Vervallen
 
 2. Onverminderd het bepaalde in het eerste lid, is het tarief van nihil slechts van toepassing:
 
-- a. voor wat betreft de levering, de intracommunautaire verwerving en de invoer van luchtvaartuigen, alsmede de diensten welke ten aanzien van luchtvaartuigen worden verricht, indien de ondernemer kan overleggen een schriftelijke verklaring van de afnemer van de luchtvaartuigen, onderscheidenlijk degene aan wie de diensten ten aanzien van luchtvaartuigen worden verleend, dat hij de luchtvaartuigen hoofdzakelijk als openbaar vervoermiddel in het internationaal verkeer bezigt of zal bezigen;
+- a.
+
+- 1°. voor wat betreft de levering, de intracommunautaire verwerving en de invoer van luchtvaartuigen, alsmede de diensten welke ten aanzien van luchtvaartuigen worden verricht, indien de ondernemer kan overleggen een schriftelijke verklaring van de afnemer van de luchtvaartuigen, onderscheidenlijk degene aan wie de diensten ten aanzien van luchtvaartuigen worden verleend, dat hij de luchtvaartuigen hoofdzakelijk als openbaar vervoermiddel in het internationaal verkeer bezigt of zal bezigen;
+
+- 2°. voor wat betreft de leveringen van goederen als bedoeld in de bij de wet behorende tabel II, onderdeel a, post 6, indien de ondernemer beschikt over het btw-identificatienummer van degene die de goederen afneemt;
 
 - b.
 
-- 1°. voor wat betreft de leveringen van accijnsgoederen als bedoeld in de bij de wet behorende tabel II, onderdeel **a**, post 7, onder **a**, indien de ondernemer kan overleggen een schriftelijke verklaring van de ondernemer die de accijnsgoederen afneemt dat deze de goederen geleverd krijgt en in opslag neemt in een accijnsgoederenplaats als bedoeld in de [Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251) die voor die soort accijnsgoederen als zodanig is aangewezen, en dat deze de goederen niet aan dat regime zal onttrekken, anders dan in het kader van een levering ter zake waarvan gehele aftrek van belasting op de voet van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=15) van de wet door die ondernemer mogelijk is;
+- 1°. voor wat betreft de leveringen van accijnsgoederen als bedoeld in de bij de wet behorende tabel II, onderdeel a, post 7, onder a, indien de ondernemer kan overleggen een schriftelijke verklaring van de ondernemer die de accijnsgoederen afneemt dat deze de goederen geleverd krijgt en in opslag neemt in een accijnsgoederenplaats als bedoeld in de [Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251) die voor die soort accijnsgoederen als zodanig is aangewezen, en dat deze de goederen niet aan dat regime zal onttrekken, anders dan in het kader van een levering ter zake waarvan gehele aftrek van belasting op de voet van [artikel 15 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=15) door die ondernemer mogelijk is;
 
-- 2°. voor wat betreft de leveringen van minerale oliën als bedoeld in de bij de wet behorende tabel II, onderdeel **a**, post 7, onder **b**, indien de ondernemer kan overleggen een afschrift van het geleidedocument alsmede een schriftelijke verklaring van de ondernemer die de minerale oliën afneemt dat deze de minerale oliën niet aan het geleidedocument zal onttrekken, anders dan in het kader van een levering ter zake waarvan gehele aftrek van belasting op de voet van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=15) van de wet door die ondernemer mogelijk is;
+- 2°. voor wat betreft de leveringen van minerale oliën als bedoeld in de bij de wet behorende tabel II, onderdeel a, post 7, onder b, indien de ondernemer kan overleggen een afschrift van het geleidedocument alsmede een schriftelijke verklaring van de ondernemer die de minerale oliën afneemt dat deze de minerale oliën niet aan het geleidedocument zal onttrekken, anders dan in het kader van een levering ter zake waarvan gehele aftrek van belasting op de voet van [artikel 15 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=15) door die ondernemer mogelijk is;
 
-- c. voor wat betreft de leveringen van goederen als bedoeld in de bij de wet behorende tabel II, onderdeel **a**, post 8, onder **a**, indien de ondernemer kan overleggen een schriftelijke verklaring van de ondernemer die de goederen afneemt dat deze die goederen opneemt in zijn niet-plaatsgebonden entrepot als bedoeld in die post, onder vermelding van het nummer van zijn entrepotvergunning, en dat deze de goederen niet aan dat regime zal onttrekken, anders dan in het kader van een levering ter zake waarvan gehele aftrek van belasting op de voet van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=15) van de wet door die ondernemer mogelijk is.
+- c. voor wat betreft de leveringen van goederen als bedoeld in de bij de wet behorende tabel II, onderdeel a, post 8, onder a, indien de ondernemer kan overleggen een schriftelijke verklaring van de ondernemer die de goederen afneemt dat deze die goederen opneemt in zijn niet-plaatsgebonden entrepot als bedoeld in die post, onder vermelding van het nummer van zijn entrepotvergunning, en dat deze de goederen niet aan dat regime zal onttrekken, anders dan in het kader van een levering ter zake waarvan gehele aftrek van belasting op de voet van [artikel 15 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=15) door die ondernemer mogelijk is.
 
-- d. voor wat betreft de achtereenvolgende leveringen die plaatsvinden ingeval door meer dan één persoon overeenkomsten worden gesloten met de verplichting tot levering van eenzelfde goed dat vervolgens door de eerste persoon rechtstreeks aan de laatste afnemer buiten de Gemeenschap of in een entrepot wordt afgeleverd, indien een door iedere afnemer - behalve de buitenlandse - aan zijn leverancier uit te reiken schriftelijke opdracht tot uitvoer uit de Gemeenschap of tot plaatsing onder het stelsel van douane-entrepots op basis van artikel 98, eerste lid, onderdeel **b**, van het Communautair douanewetboek kan worden overgelegd;
+- d. voor wat betreft de achtereenvolgende leveringen die plaatsvinden ingeval door meer dan één persoon overeenkomsten worden gesloten met de verplichting tot levering van eenzelfde goed dat vervolgens door de eerste persoon rechtstreeks aan de laatste afnemer buiten de Gemeenschap of in een entrepot wordt afgeleverd, indien een door iedere afnemer - behalve de buitenlandse - aan zijn leverancier uit te reiken schriftelijke opdracht tot uitvoer uit de Gemeenschap of tot plaatsing onder het stelsel van douane-entrepots op basis van artikel 98, eerste lid, onderdeel b, van het Communautair douanewetboek kan worden overgelegd;
 
-- e. voor wat betreft de levering van een motorrijtuig waarvoor ter zake van de in [artikel 36 van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=36) bedoelde opgaaf van een kenteken een bewijs is afgegeven en welk motorrijtuig door een ondernemer wordt vervoerd naar een andere Lid-Staat, wordt uitgevoerd uit de Gemeenschap of wordt gebracht onder het stelsel van douane-entrepots op basis van artikel 98, eerste lid, onderdeel **b**, van het Communautair douanewetboek, indien de ondernemer een schriftelijke verklaring van de inspecteur kan overleggen waaruit blijkt, dat dat bewijs bij hem is ingeleverd;
+- e. voor wat betreft de levering van een motorrijtuig waarvoor ter zake van de in [artikel 36 van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=36) bedoelde opgaaf van een kenteken een bewijs is afgegeven en welk motorrijtuig door een ondernemer wordt vervoerd naar een andere Lid-Staat, wordt uitgevoerd uit de Gemeenschap of wordt gebracht onder het stelsel van douane-entrepots op basis van artikel 98, eerste lid, onderdeel b, van het Communautair douanewetboek, indien de ondernemer een terzake door de Rijksdienst voor het Wegverkeer opgemaakte verklaring kan overleggen;
 
-- f. voor wat betreft de levering door een ondernemer als bedoeld in [artikel 7, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=7), van de wet, van een nieuw vervoermiddel dat wordt vervoerd naar een andere Lid-Staat, indien de ondernemer aan de inspecteur de naam en het adres meldt van degene aan wie de levering is verricht.
+- f. voor wat betreft de levering door een ondernemer als bedoeld in [artikel 7, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=7), van een nieuw vervoermiddel dat wordt vervoerd naar een andere Lid-Staat, indien de ondernemer aan de inspecteur de naam en het adres meldt van degene aan wie de levering is verricht.
 
-In geval de leverancier of de afnemer in de gevallen bedoeld in de onderdelen **b** en **c** niet in Nederland woont of is gevestigd dan wel aldaar geen vaste inrichting heeft, dient deze voor de toepassing van het tarief van nihil een fiscaal vertegenwoordiger als bedoeld in [artikel 24c](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=V&afdeling=F&artikel=24c&z=2005-09-14&g=2005-09-14) te hebben aangesteld.
+In geval de leverancier of de afnemer in de gevallen bedoeld in de onderdelen b en c niet in Nederland woont of is gevestigd dan wel aldaar geen vaste inrichting heeft, dient deze voor de toepassing van het tarief van nihil een fiscaal vertegenwoordiger als bedoeld in [artikel 24c](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=V&afdeling=F&artikel=24c&z=2006-01-01&g=2006-01-01) te hebben aangesteld.
 
-3. In geval een ondernemer die een verklaring als bedoeld in het tweede lid, onderdeel **b** of **c**, heeft afgegeven, aan de desbetreffende goederen een andere bestemming geeft, wordt de belasting ter zake van de aan hem verrichte levering van die goederen alsnog verschuldigd naar het tarief als bedoeld in [artikel 9, eerste lid, dan wel tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=9), van de wet.
+3. In geval een ondernemer die een verklaring als bedoeld in het tweede lid, onderdeel b of c, heeft afgegeven, aan de desbetreffende goederen een andere bestemming geeft, wordt de belasting ter zake van de aan hem verrichte levering van die goederen alsnog verschuldigd naar het tarief als bedoeld in [artikel 9, eerste lid, dan wel tweede lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=9).
 
-4. In geval het derde lid toepassing vindt met betrekking tot accijnsgoederen als bedoeld in de bij de wet behorende tabel II, onderdeel **a**, post 7, wordt de maatstaf van heffing verhoogd met het bedrag van de accijns dat voor die goederen ingevolge de [Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251) bij uitslag verschuldigd zou zijn.
+4. In geval het derde lid toepassing vindt met betrekking tot accijnsgoederen als bedoeld in de bij de wet behorende tabel II, onderdeel a, post 7, wordt de maatstaf van heffing verhoogd met het bedrag van de accijns dat voor die goederen ingevolge de [Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251) bij uitslag verschuldigd zou zijn.
 
 5. Bij ministeriële regeling kunnen nadere voorschriften worden gegeven met betrekking tot de wijze waarop de aanspraak op toepassing van het tarief van nihil wordt aangetoond.
 
 ##### Artikel 12a
 
-1. Met betrekking tot de leveringen van minerale oliën als bedoeld in de bij de wet behorende tabel II, onderdeel **a**, post 7, onder **a**, die zich bevinden in een accijnsgoederenplaats is [artikel 12, tweede lid, onderdeel **b**, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=III&artikel=12&z=2005-09-14&g=2005-09-14), niet van toepassing indien ter zake van die accijnsgoederenplaats de bijzondere bepaling van tabel II, onderdeel **a**, post 7, van toepassing is.
+1. Met betrekking tot de leveringen van minerale oliën als bedoeld in de bij de wet behorende tabel II, onderdeel **a**, post 7, onder **a**, die zich bevinden in een accijnsgoederenplaats is [artikel 12, tweede lid, onderdeel **b**, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=III&artikel=12&z=2006-01-01&g=2006-01-01), niet van toepassing indien ter zake van die accijnsgoederenplaats de bijzondere bepaling van tabel II, onderdeel **a**, post 7, van toepassing is.
 
-2. Met betrekking tot de leveringen bedoeld in het eerste lid is [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=III&artikel=12&z=2005-09-14&g=2005-09-14), slotzin, niet van toepassing.
+2. Met betrekking tot de leveringen bedoeld in het eerste lid is [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=III&artikel=12&z=2006-01-01&g=2006-01-01), slotzin, niet van toepassing.
 
 ##### Artikel 13
 
@@ -309,7 +309,7 @@ Bij een tariefwijziging met ingang van een boekjaar wordt met betrekking tot het
 
 ##### Artikel 16b
 
-1. Bij een tariefwijziging in de loop van een boekjaar handelt de ondernemer, in afwijking in zoverre van het in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=V&afdeling=A&artikel=16&z=2005-09-14&g=2005-09-14) voor methode I in de onderdelen **a** tot en met **h** bepaalde, als is aangegeven in het tweede tot en met het vijfde lid.
+1. Bij een tariefwijziging in de loop van een boekjaar handelt de ondernemer, in afwijking in zoverre van het in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=V&afdeling=A&artikel=16&z=2006-01-01&g=2006-01-01) voor methode I in de onderdelen **a** tot en met **h** bepaalde, als is aangegeven in het tweede tot en met het vijfde lid.
 
 2. Met betrekking tot een in het boekjaar gelegen belastingtijdvak na het tijdstip van tariefwijziging kan de ondernemer voor de toepassing van het voor methode I in de onderdelen **c** en **d** bepaalde:
 
@@ -333,7 +333,7 @@ Bij een tariefwijziging met ingang van een boekjaar wordt met betrekking tot het
 
 ##### Artikel 16d
 
-Bij een wijziging van de hoogte van het in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=V&afdeling=A&artikel=16&z=2005-09-14&g=2005-09-14) bij methode II in onderdeel **h** vermelde tarief met ingang van een boekjaar of in de loop daarvan is het bepaalde in [artikel 16c](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=V&afdeling=A&artikel=16c&z=2005-09-14&g=2005-09-14) van overeenkomstige toepassing.
+Bij een wijziging van de hoogte van het in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=V&afdeling=A&artikel=16&z=2006-01-01&g=2006-01-01) bij methode II in onderdeel **h** vermelde tarief met ingang van een boekjaar of in de loop daarvan is het bepaalde in [artikel 16c](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=V&afdeling=A&artikel=16c&z=2006-01-01&g=2006-01-01) van overeenkomstige toepassing.
 
 ##### Artikel 17
 
@@ -357,7 +357,7 @@ Bij een wijziging van de hoogte van het in [artikel 16](https://wetten.overheid.
 
 ##### Artikel 17a
 
-Het bepaalde in de [artikelen 16a](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=V&afdeling=A&artikel=16a&z=2005-09-14&g=2005-09-14), [16b](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=V&afdeling=A&artikel=16b&z=2005-09-14&g=2005-09-14), [16c](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=V&afdeling=A&artikel=16c&z=2005-09-14&g=2005-09-14) en [16d](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=V&afdeling=A&artikel=16d&z=2005-09-14&g=2005-09-14) is van overeenkomstige toepassing ten aanzien van een ondernemer als bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=V&afdeling=A&artikel=17&z=2005-09-14&g=2005-09-14).
+Het bepaalde in de [artikelen 16a](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=V&afdeling=A&artikel=16a&z=2006-01-01&g=2006-01-01), [16b](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=V&afdeling=A&artikel=16b&z=2006-01-01&g=2006-01-01), [16c](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=V&afdeling=A&artikel=16c&z=2006-01-01&g=2006-01-01) en [16d](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=V&afdeling=A&artikel=16d&z=2006-01-01&g=2006-01-01) is van overeenkomstige toepassing ten aanzien van een ondernemer als bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=V&afdeling=A&artikel=17&z=2006-01-01&g=2006-01-01).
 
 ##### Artikel 18
 
@@ -407,7 +407,7 @@ Een in deze afdeling opgenomen regeling mag slechts worden toegepast met ingang 
 
 ##### Artikel 22
 
-In gevallen waarin ingevolge artikel 35, vijfde lid, van de wet ontheffing is verleend van de verplichting tot uitreiking van een factuur, blijft de aanspraak van de afnemer op aftrek van de hem in rekening gebrachte belasting bestaan, mits hij die aanspraak kan aantonen. Bij ministeriële regeling kunnen met betrekking tot de wijze van aantoning nadere voorschriften worden gegeven.
+Vervallen
 
 ##### Artikel 23
 
@@ -469,7 +469,7 @@ Vervallen
 
 - c. beleggingsgoud wordt geleverd met toepassing van het in [artikel 28l](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=28l) van de wet opgenomen keuzerecht.
 
-2. [Artikel 24**b**, zesde en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=V&afdeling=E&artikel=24b&z=2005-09-14&g=2005-09-14), is van overeenkomstige toepassing.
+2. [Artikel 24**b**, zesde en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=V&afdeling=E&artikel=24b&z=2006-01-01&g=2006-01-01), is van overeenkomstige toepassing.
 
 ### Afdeling F. Fiscaal vertegenwoordiger
 
@@ -519,7 +519,7 @@ Vervallen
 
 - 4°. de intracommunautaire verwerving van goederen die voorafgaat aan een levering als bedoeld onder 3°;
 
-- 5°. de levering van goederen met toepassing van het tarief van nihil op de voet van tabel II, onderdeel **a**, post 2 of 6, van de wet die volgt op een levering als bedoeld [onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=V&afdeling=F&artikel=24c&z=2005-09-14&g=2005-09-14);
+- 5°. de levering van goederen met toepassing van het tarief van nihil op de voet van tabel II, onderdeel **a**, post 2 of 6, van de wet die volgt op een levering als bedoeld [onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=V&afdeling=F&artikel=24c&z=2006-01-01&g=2006-01-01);
 
 - 6°. de levering bedoeld in de bij de wet behorende tabel II, onderdeel **a**, post 7, Bijzondere bepaling, dan wel post 8, Bijzondere bepaling, voor de buitenlandse ondernemer indien de levering aan hem is verricht, alsmede voor de door die ondernemer te verrichten volgende levering.
 
@@ -618,261 +618,9 @@ Vervallen
 
 ## Bijlage B
 
-- a. De leveringen en diensten als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=II&artikel=7&z=2005-09-14&g=2005-09-14) van het besluit, die als zodanig worden verricht door de hierna genoemde ondernemers:
+- a. Vervallen.
 
-- 1. de Stichting Centraal Bureau voor Keuringen op Medisch-Hygiënisch Gebied;
-
-- 2. het Nederlandse Rode Kruis;
-
-- 3. de Stichting tot Instandhouding van het Centraal Laboratorium van de Bloedtransfusiedienst van het Nederlandse Rode Kruis, alleen voor diensten;
-
-- 4. de Stichting Centraal Laboratorium van de Bloedtransfusiedienst van het Nederlandse Rode Kruis, alleen voor diensten;
-
-- 5. de Stichting Nationaal Instituut voor Budgetvoorlichting;
-
-- 6. vervallen;
-
-- 7. de Diabetes Vereniging Nederland;
-
-- 8. de Stichting Nederlands Centrum Geestelijke Volksgezondheid;
-
-- 9. de Humanistische Stichting Socrates;
-
-- 10. de Stichting Katholiek Sociaal-Kerkelijk Instituut;
-
-- 11. de Vereniging tot samenstelling van Nederlandse Bedevaarten;
-
-- 12. de Stichting N.K.V.-Lourdesbedevaart;
-
-- 13. de Koninklijke Nederlandse Academie van Wetenschappen, mede voor het verrichten van onderzoek;
-
-- 14. de Nederlandse Vereniging voor Gezondheidsvoorlichting en Opvoeding;
-
-- 15. de Stichting Nederlands Instituut voor Maatschappelijk Werk Onderzoek;
-
-- 16. de Stichting Koninklijk Nederlands Geleidehondenfonds;
-
-- 17. de Stichting Hoger Katechetisch Instituut;
-
-- 18. de Stichting Schoolkatechese Eindhoven;
-
-- 19. de Stichting Eerste Hulp bij Hartstoring;
-
-- 20. de Stichting Activering Minderheden Educatie Nederland;
-
-- 21. de Stichting Samen Wonen Samen Leven;
-
-- 22. de Stichtig Exploitatie Het Dorp;
-
-- 23. de Stichting Federatie Monumentenwacht Nederland, alsmede de provinciale Stichtingen Monumentenwacht Nederland;
-
-- 24. de Stichting Fokus Exploitatie;
-
-- 25. het Instituut Voor Natuurbeschermingseducatie;
-
-- 26. de Stichting Archivisie;
-
-- 27. de Stichting Nederlands School Theater;
-
-- 28. de Stichting Klederdrachten Volendam;
-
-- 29. de Stichting Natuurvoorlichting Veluwe;
-
-- 30. de Stichting Algemene Maatschappij voor Varenden;
-
-- 31. de Stichting Intermenselijke en Geestelijke Vorming;
-
-- 32. de Stichting Emancipatie Eenoudergezin;
-
-- 33. de Stichting Landelijk Ondersteuningsinstituut Kunstzinnige Vorming;
-
-- 34. de Stichting Nederlands Comité UNICEF;
-
-- 35. de Stichting Comité voor de Zomerpostzegels;
-
-- 36. de Stichting Nederlands Instituut voor Audio-visuele Media, alleen voor de levering en het ter beschikking stellen van films en filmstroken;
-
-- 37. de Stichting Consulentschap Samenlevingsopbouw;
-
-- 38. de Stichting der Nederlandse universiteiten en hogescholen voor internationale samenwerking;
-
-- 39. het Gemeenschappelijk Instituut voor Maatschappelijke Dienstverlening;
-
-- 40. de Stichting Consument en Huishouding;
-
-- 41. de Nederlandse Stomavereniging 'Harry Bacon';
-
-- 42. de Stichting Recreatie en Voeding voor Kankerpatiënten;
-
-- 43. de Stichting Nederlands Ontwikkelings- en Ondersteuningsinstituut voor huisarts en eerstelijnszorg, met uitzondering van bouwadviseringsactiviteiten;
-
-- 44. de Vereniging voor Kunstzinnige Vorming en de daarbij aangesloten instellingen, met uitzondering van het verstrekken van muziekonderwijs;
-
-- 45. de Stichting 'Max Euwe' Centrum;
-
-- 46. de Stichting Federatie Oud Nederlandse Vaartuigen;
-
-- 47. het Leger des Heils met uitzondering van de verkoop van oud papier en kleding;
-
-- 48. de Stichting Nederlands Instituut voor Zorg en Welzijn;
-
-- 49. de Stichting Informatievoorziening Gehandicapten Nederland;
-
-- 50. de Stichting Landelijk Centrum Gezondheidsvoorlichting en Opvoeding;
-
-- 51. de Stichting Gezondheids Expotheek Nederland;
-
-- 52. de Stichting Maatschappelijke Dienstverlening aan Doven;
-
-- 53. de Stichting Nationale Contactcommissie Monumentenbescherming;
-
-- 54. de Stichting Provinciaal Steunpunt Werkgelegenheid;
-
-- 55. de Boekmanstichting;
-
-- 56. de Stichting Centrum Innovatie Beroepsonderwijs Bedrijfsleven, alleen voor programma-ontwikkeling en organisatie-ontwikkeling;
-
-- 57. de Stichting Probrasa;
-
-- 58. de Stichting Culturele Raad van Zuid-Holland;
-
-- 59. de Vereniging tegen Kindermishandeling;
-
-- 60. de Stichting Archeologische Monumentenwacht Nederland;
-
-- 61. de Stichting Kunst en Cultuur Limburg;
-
-- 62. de Stichting voor Professionele en Vrijwillige Maatschappelijke Dienstverlening;
-
-- 63. de Stichting VeM;
-
-- 64. de Stichting Vrouwenopvang Rijnmond;
-
-- 65. de Stichting Wegloophuis Psychiatrie;
-
-- 66. de Stichting voor Kerkelijk Sociale Arbeid;
-
-- 67. de Stichting Diagonaal;
-
-- 68. de Stichting SOS Telefonische Hulpdienst Rijnmond;
-
-- 69. de Stichting Recreatie;
-
-- 70. de Stichting Vluchtelingenwerk Rijnmond;
-
-- 71. de Stichting Provinciale Werkplaats Volwasseneneducatie en Emancipatie;
-
-- 72. het Katholiek Centrum voor Welzijnsbehartiging;
-
-- 73. de Stichting Onder Dak;
-
-- 74. de Stichting Minder Valide Jeugd;
-
-- 75. de Stichting De Loopplank;
-
-- 76. de Stichting Samenwerkende Organisaties tegen Kindermishandeling;
-
-- 77. de Stichting Individueel Beschermingsbeheer Rijnland;
-
-- 78. de Stichting Saadet;
-
-- 79. de Fryske Akademy;
-
-- 80. de Stichting Sociaal Pedagogische Zorg;
-
-- 81. de Stichting Pluspunt;
-
-- 82. de Stichting WJ-CNV Brugprojecten voor Jongeren;
-
-- 83. de Nederlandse Vereniging Humanitas, afdeling Rotterdam;
-
-- 84. de Stichting Academie voor Nederlandse Gebarentaal;
-
-- 85. de Stichting Godsdienst en Opvoeding;
-
-- 86. de Unie van Katholieke Bonden van Ouderen;
-
-- 87. de Stichting Ecologisch Beheer;
-
-- 88. de Stichting Milieu Educatie;
-
-- 89. de Stichting Bisschoppelijke Vastenactie Nederland;
-
-- 90. de Stichting Landelijk Informatiecentrum Voedselovergevoeligheid;
-
-- 91. de Stichting Landelijk bureau ter bestrijding van Rassendiscriminatie;
-
-- 92. de Vereniging Vluchtelingenwerk Nederland;
-
-- 93. de Gelderse Stichting tot Beheer en Bewindvoering ter bescherming van meerderjarigen;
-
-- 94. de Milieu-federatie Noord-Holland;
-
-- 95. de Stichting Building for Peace;
-
-- 96. de Stichting Technika 10 'Rotterdam';
-
-- 97. de Stichting De Wartburg;
-
-- 98. de Stichting Crea, met uitzondering van het verlenen van toegang tot voorstellingen;
-
-- 99. de Stichting Nederlands Instituut voor Alcohol en Drugs;
-
-- 100. de Stichting ter Ondersteuning en Advisering van Samenwerkingsverbanden in de Eerstelijnsgezondheidszorg;
-
-- 101. de Stichting Silhouette;
-
-- 102. de Stichting Samenwerkingsverband Bikultureel Onderwijs, Regio Assen;
-
-- 103. de Stichting Individueel Vermogensbeheer voor de Zorgsector, alleen voor de ondersteuning bij vermogensbeheer en aanverwante werkzaamheden ten behoeve van patiënten die zijn opgenomen (geweest) in een psychiatrisch centrum;
-
-- 104. de Stichting Vorkmeer;
-
-- 105. de Stichting Educatief Centrum Rijnmond;
-
-- 106. de Stichting Spel- en Opvoedingsvoorlichting Zuid-Holland/Zeeland;
-
-- 107. de Stichting Chinese Gemeenschap;
-
-- 108. de Vereniging Sirkulo Antiyano Tilburg;
-
-- 109. de Stichting Biro Perumahan Maluku;
-
-- 110. de Stichting Promotie Intensieve Thuisbehandeling Nederland;
-
-- 111. de Stichting Natuur- en Landschapsbeheer Zuid-Holland;
-
-- 112. de Stichting Landelijk Studie- en Ontwikkelingscentrum voor de Volwasseneneducatie, alleen voor programma-ontwikkeling en organisatie-ontwikkeling;
-
-- 113. de Stichting Medic Alert Nederland;
-
-- 114. de Stichting Hartklepregistratie Nederland;
-
-- 115. de Stichting Vluchtelingenwerk Tilburg;
-
-- 116. de Stichting Vrouwen en Hoger Technisch Onderwijs;
-
-- 117. de Stichting Instituut ter Ondersteuning van Sociaal Kulturele Aktiviteiten;
-
-- 118. de Stichting Samenwerkende Nederlandse Korenorganisaties, voor zover op haar prestaties niet de onderwijsvrijstelling van toepassing is;
-
-- 119. de Stichting Kunsthistorisch Centrum, alleen voor te geven voordrachten en cursussen;
-
-- 120. de Stichting Bureau Emancipatieontwikkeling;
-
-- 121. de Stichting Vrouwen en Informatica, voor zover op haar prestaties niet de onderwijsvrijstelling van toepassing is;
-
-- 122. de Stichting Vormingscentrum de Essenburgh, voor zover op haar prestaties niet de onderwijsvrijstelling van toepassing is;
-
-- 123. de Stichting 'NIB, Nederlands Instituut voor de Blaasmuziek en de Drum- en Showbands';
-
-- 124. de Vereniging tot Behoud van het Veluws Hert;
-
-- 125. Scouting Nederland, met uitzondering van de verkoop van goederen;
-
-- 126. de Stichting Jeugdtheaterschool Zuid-Holland.
-
-- b. De leveringen en diensten als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=II&artikel=7&z=2005-09-14&g=2005-09-14) van het besluit, die als zodanig worden verricht door de hierna genoemde instellingen, indien zij geen winst beogen:
+- b. De leveringen en diensten als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=II&artikel=7&z=2006-01-01&g=2006-01-01) van het besluit, die als zodanig worden verricht door de hierna genoemde instellingen:
 
 - 1. kruisverenigingen;
 
@@ -916,7 +664,7 @@ Vervallen
 
 - 19. instellingen die zich ten doel stellen de bestrijding van bos- en heidebranden;
 
-- 20. welstandscommissies, alleen voor het beoordelen van bouw- en bestemmingsplannen ten behoeve van gemeenten;
+- 20. vervallen;
 
 - 21. vervallen;
 
@@ -924,7 +672,7 @@ Vervallen
 
 - 23. bejaardenoorden en andere instellingen op het gebied van bejaardenzorg voor prestaties die in het bijzonder zijn gericht op het handhaven of bevorderen van de mogelijkheden voor ouderen om zo lang mogelijk zelfstandig te blijven wonen, alsmede voor het verstrekken van spijzen en dranken;
 
-- 24. instellingen voor ambulante geestelijke gezondheidszorg als genoemd in [artikel 20a van het Besluit zorgaanspraken bijzondere ziektekostenverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0005283&artikel=20a);
+- 24. vervallen;
 
 - 25. gemeenten of door gemeenten krachtens de [Wet inschakeling werkzoekenden](https://wetten.overheid.nl/jci1.3:c:BWBR0009083) aangewezen rechtspersonen, voorzover zij uitvoering geven aan die Wet, mede voor het ter beschikking stellen van werknemers in de zin van die Wet, doch met uitzondering van de werknemer die, voorafgaande aan zijn dienstbetrekking, langdurig werkloze was en krachtens die Wet kan worden ingedeeld in de categorie werkloosheid van één tot twee jaar;
 
@@ -932,19 +680,31 @@ Vervallen
 
 - 27. onderwijsverzorgingsinstellingen als bedoeld in de Wet op de onderwijsverzorging;
 
-- 28. Regionale Diensten Centra, voor zover het betreft de op grond van de Subsidieregeling Regionale Dienstencentra subsidiabele activiteiten;
+- 28. vervallen;
 
-- 29. instellingen voor algemeen maatschappelijk werk aangesloten bij de Vereniging van Ondernemingen in de gepremieerde en gesubsidieerde sector, sectie Algemeen Maatschappelijk werk;
+- 29. instellingen voor algemeen maatschappelijk en bedrijfsmaatschappelijk werk;
 
 - 30. stichtingen als bedoeld in [artikel 1, onder f van de Wet op de jeugdzorg](https://wetten.overheid.nl/jci1.3:c:BWBR0016637&artikel=1) en zorgaanbieders als bedoeld in [artikel 1, onder g, van de Wet op de jeugdzorg](https://wetten.overheid.nl/jci1.3:c:BWBR0016637&artikel=1);
 
-- 31. natuurijsbanen, alleen voor het geven van gelegenheid tot sportbeoefening.
+- 31. natuurijsbanen, alleen voor het geven van gelegenheid tot sportbeoefening;
+
+- 32. instellingen ter bestrijding van hart- en vaatziekten voorzover het reanimatieonderwijs betreft, die daarvoor via convenanten nauw samenwerken met de Nederlandse Hartstichting;
+
+- 33. instellingen die werkzaam zijn op het gebied van schuldhulpverlening, met uitzondering van bewindvoering in het kader van de wettelijke schuldregeling, voorzover de diensten niet reeds kunnen worden gerangschikt onder [artikel 11, eerste lid, onderdeel j, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=11).
+
+- c. Voorzover niet vallend onder onderdeel b worden voorts als leveringen en diensten als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=II&artikel=7&z=2006-01-01&g=2006-01-01) van het besluit aangewezen: welke worden verricht door een publiekrechtelijk lichaam of door een andere organisatie die, na een daartoe gedaan schriftelijk verzoek, door de inspecteur terzake bij voor bezwaar vatbare beschikking is erkend als instelling van sociale of culturele aard.
+
+- 1. leveringen en diensten die nauw samenhangen met maatschappelijk werk, met de sociale zekerheid en met de bescherming van kinderen en jongeren; en
+
+- 2. diensten van culturele aard andere dan die genoemd in de bij de wet behorende tabel I, onderdeel b, alsmede nauw daarmee samenhangende leveringen;
 
 Algemene aantekening
 
-Als leveringen en diensten van sociale of culturele aard worden niet aangemerkt de leveringen van goederen welke door de in de onderdelen **a** en **b** genoemde ondernemers in het kader van arbeidstherapie zijn voortgebracht en de diensten welke door die ondernemers in dat kader worden verricht.
+Als leveringen en diensten van sociale of culturele aard worden niet aangemerkt de leveringen van goederen welke door de in de onderdelen b en c bedoelde instellingen in het kader van arbeidstherapie zijn voortgebracht en de diensten welke door die instellingen in dat kader worden verricht.
 
 Als diensten van sociale of culturele aard worden voorts niet aangemerkt diensten bestaande in thuiszorg.
+
+De in de onderdelen b en c bedoelde instellingen, behoudens die bedoeld in de posten 29 en 33 van onderdeel b, mogen niet systematisch het maken van winst beogen en, zo er wel winst wordt gemaakt, mogen zij deze niet uitkeren, maar moet die winst worden aangewend voor de instandhouding of verbetering van de leveringen en diensten die worden verleend.
 
 ## Bijlage C
 
