@@ -4,7 +4,7 @@ identifier: "BWBR0019384"
 country: "nl"
 rank: "wet"
 publication_date: "2007-01-01"
-last_updated: "2005-12-29"
+last_updated: "2006-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019384"
 soort: "wet"
@@ -131,7 +131,7 @@ Wijzigt de Ziektewet.
 
 ##### Artikel XVIa. [Invoeringswet Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017747)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Invoeringswet Wet financiering sociale verzekeringen
 
 ##### Artikel XVIb. [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657)
 
@@ -165,7 +165,7 @@ Wijzigt de Algemene Wet Bijzondere Ziektekosten.
 
 ##### Artikel XX. Slotbepaling betreffende de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Werkloosheidswet.
 
 ##### Artikel XXI. Nummering
 
