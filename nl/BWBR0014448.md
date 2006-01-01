@@ -4,7 +4,7 @@ identifier: "BWBR0014448"
 country: "nl"
 rank: "wet"
 publication_date: "2006-01-01"
-last_updated: "2005-12-01"
+last_updated: "2006-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014448"
 soort: "wet"
@@ -142,7 +142,7 @@ In de [Wet op de belasting van personenauto's en motorrijwielen 1992](https://we
 
 ##### Artikel XXII
 
-In de [wet van 14 december 2000 tot wijziging van enkele belastingwetten c.a. in verband met de tweede tranche van het ondernemerspakket 2001 (Wet ondernemerspakket 2001)](https://wetten.overheid.nl/jci1.3:c:BWBR0011983) (Stb. 567) vervallen [artikel I, onderdeel N](https://wetten.overheid.nl/jci1.3:c:BWBR0014448&artikel=I&z=2005-12-01&g=2005-12-01), [artikel II, onderdeel B, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014448&artikel=II&z=2005-12-01&g=2005-12-01), en [artikel XV, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014448&artikel=XV&z=2005-12-01&g=2005-12-01).
+In de [wet van 14 december 2000 tot wijziging van enkele belastingwetten c.a. in verband met de tweede tranche van het ondernemerspakket 2001 (Wet ondernemerspakket 2001)](https://wetten.overheid.nl/jci1.3:c:BWBR0011983) (Stb. 567) vervallen [artikel I, onderdeel N](https://wetten.overheid.nl/jci1.3:c:BWBR0014448&artikel=I&z=2006-01-01&g=2006-01-01), [artikel II, onderdeel B, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014448&artikel=II&z=2006-01-01&g=2006-01-01), en [artikel XV, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014448&artikel=XV&z=2006-01-01&g=2006-01-01).
 
 ##### Artikel XXIII
 
@@ -220,9 +220,9 @@ Ingeval de samenloop van wetten die in 2002 in het Staatsblad zijn of worden gep
 
 ##### Artikel XXX
 
-1. Onder toepassing van [artikel 16 van de Tijdelijke Referendumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0012701&artikel=16) treedt deze wet in werking met ingang van 1 januari 2003, met dien verstande dat artikel I, onderdelen B, U, V, W en X, en [artikel VI, onderdelen E, F, G, H en I](https://wetten.overheid.nl/jci1.3:c:BWBR0014448&artikel=VI&z=2005-12-01&g=2005-12-01), toepassing vinden nadat [artikel 10.1 van de Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) bij het begin van het kalenderjaar 2003 is toegepast.
+1. Onder toepassing van [artikel 16 van de Tijdelijke Referendumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0012701&artikel=16) treedt deze wet in werking met ingang van 1 januari 2003, met dien verstande dat artikel I, onderdelen B, U, V, W en X, en [artikel VI, onderdelen E, F, G, H en I](https://wetten.overheid.nl/jci1.3:c:BWBR0014448&artikel=VI&z=2006-01-01&g=2006-01-01), toepassing vinden nadat [artikel 10.1 van de Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) bij het begin van het kalenderjaar 2003 is toegepast.
 
-2. In afwijking van het eerste lid treden de [artikelen VI, onderdelen B, C, D en N, en XI, onderdelen A, lid 1b en lid 4b, B, lid 1b en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014448&artikel=VI&z=2005-12-01&g=2005-12-01), C, derde lid, G, J, lid 1b, lid 2b en lid 4b, en M, in werking op een bij koninklijk besluit te bepalen tijdstip.
+2. In afwijking van het eerste lid treedt [artikel XI, onderdelen A, lid 1b en lid 4b, B, lid 1b en tweede lid, C, derde lid, G, J, lid 1b, lid 2b en lid 4b, en M](https://wetten.overheid.nl/jci1.3:c:BWBR0014448&artikel=XI&z=2006-01-01&g=2006-01-01), in werking met ingang van 1 januari 2006.
 
 3. In afwijking van het eerste lid treden de artikelen XVa, XVI, XVII, XVIII en XIX in werking op een bij koninklijk besluit vast te stellen tijdstip, dat voor de verschillende artikelen en onderdelen daarvan verschillend kan worden vastgesteld, met dien verstande dat de artikelen XVa, onderdeel A, eerste, derde en vierde lid, en XVI, onderdeel B, toepassing vinden nadat [artikel 37a van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=37a) bij het begin van het kalenderjaar 2003 is toegepast.
 
