@@ -4,7 +4,7 @@ identifier: "BWBR0012746"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2015-10-01"
-last_updated: "2001-09-01"
+last_updated: "2006-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012746"
 soort: "ministeriele-regeling"
@@ -112,9 +112,9 @@ Voor erkenning kan worden voorgedragen:
 
 2. Indien het scholings- en trainingsprogramma of een substantieel gedeelte daarvan uitgevoerd wordt door een derde-organisatie die:
 
-- a. op grond van de Wet bijzondere opneming psychiatrische ziekenhuizen als zorginstelling is aangemerkt;
+- a. op grond van de [Wet bijzondere opnemingen psychiatrische ziekenhuizen](https://wetten.overheid.nl/jci1.3:c:BWBR0005700) als zorginstelling is aangemerkt;
 
-- b. krachtens de [Algemene wet bijzondere ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) is toegelaten als instelling die zorg, als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0012746&artikel=6&z=2001-09-01&g=2001-09-01) van de laatstgenoemde wet, verleent;
+- b. een instelling is als bedoeld in [artikel 1, eerste lid, onderdeel f, van de Wet toelating zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=1) die is toegelaten voor het verlenen van zorg waarop aanspraak bestaat ingevolge [artikel 6 van de Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&artikel=6);
 
 - c. door het ministerie van Onderwijs, Cultuur en Wetenschap is erkend als onderwijsinstelling;
 
