@@ -4,7 +4,7 @@ identifier: "BWBR0017416"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2010-02-27"
-last_updated: "2004-11-14"
+last_updated: "2006-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017416"
 soort: "ministeriele-regeling"
@@ -55,7 +55,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-Onverminderd hetgeen in de hierna volgende artikelen wordt bepaald, berust de verantwoordelijkheid voor de inhoud en aanwending van voorlichtings- en andere communicatie-uitingen bij de onder [artikel 1 sub b, d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0017416&artikel=1&z=2004-11-14&g=2004-11-14) bedoelde instellingen.
+Onverminderd hetgeen in de hierna volgende artikelen wordt bepaald, berust de verantwoordelijkheid voor de inhoud en aanwending van voorlichtings- en andere communicatie-uitingen bij de onder [artikel 1 sub b, d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0017416&artikel=1&z=2006-01-01&g=2006-01-01) bedoelde instellingen.
 
 ##### Artikel 3
 
@@ -65,7 +65,7 @@ Onverminderd hetgeen in de hierna volgende artikelen wordt bepaald, berust de ve
 
 - a. organisaties gelieerd aan de Rijksoverheid;
 
-- b. dit onderdeel is nog niet in werking getreden.
+- b. mede-overheden.
 
 ##### Artikel 4
 
@@ -75,7 +75,7 @@ Onverminderd hetgeen in de hierna volgende artikelen wordt bepaald, berust de ve
 
 ##### Artikel 5
 
-1. Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin zij wordt geplaatst, met uitzondering van [artikel 3, tweede lid, sub b](https://wetten.overheid.nl/jci1.3:c:BWBR0017416&artikel=3&z=2004-11-14&g=2004-11-14), dat in werking treedt op 1 januari 2006.
+1. Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin zij wordt geplaatst, met uitzondering van [artikel 3, tweede lid, sub b](https://wetten.overheid.nl/jci1.3:c:BWBR0017416&artikel=3&z=2006-01-01&g=2006-01-01), dat in werking treedt op 1 januari 2006.
 
 2. De [regeling van de Minister-President, Minister van Algemene Zaken van 28 oktober 2002 betreffende media-inkoop door departementen en daaronder ressorterende diensten en instellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0014152) (Stcrt. 2002, 215) wordt ingetrokken.
 
