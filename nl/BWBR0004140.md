@@ -4,7 +4,7 @@ identifier: "BWBR0004140"
 country: "nl"
 rank: "amvb"
 publication_date: "2015-07-01"
-last_updated: "2000-01-21"
+last_updated: "2006-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004140"
 soort: "AMvB"
@@ -52,7 +52,7 @@ Op de volgende rechtspersonen of organen van rechtspersonen rusten mede de in [a
 
 - 3°. het College van toezicht sociale verzekeringen, de Sociale Verzekeringsbank, het Landelijk instituut sociale verzekeringen en de uitvoeringsinstellingen, bedoeld in de Organisatiewet sociale verzekeringen 1997;.
 
-- 4°. het College voor zorgverzekeringen en de ziekenfondsen, bedoeld in de [Ziekenfondswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002460) (**Stb.** 1986, 347);
+- 4°. het College van toezicht op de zorgverzekeringen, genoemd in [artikel 77, eerste lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=77);
 
 - 5°. het College tarieven gezondheidszorg;
 
