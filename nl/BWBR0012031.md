@@ -4,7 +4,7 @@ identifier: "BWBR0012031"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-17"
-last_updated: "2005-06-25"
+last_updated: "2006-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012031"
 soort: "ministeriele-regeling"
@@ -47,7 +47,7 @@ Uitvoeringsregeling inkomstenbelasting 2001
 
 ##### Artikel 1. Reikwijdte en definitie
 
-1. Deze regeling geeft uitvoering aan de [artikelen 1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=1.5), [1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=1.7), [2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.2), [2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.5), [2.14](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.14), [3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.10), [3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.13), [3.16](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.16), [3.17](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.17), [3.20](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.20), [3.27](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.27), [3.63](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.63), [3.83](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.83), [3.87](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.87), [3.104](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.104), [3.119a](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.119a), [3.138](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.138), [3.145](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.145), [3.152](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.152), [3.154](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.154), [4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.7), [4.14](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.14), [4.51](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.51), [5.14](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.14), [5.15](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.15), [5.17](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.17), [5.18](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.18), [6.8](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.8), [6.14](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.14), [6.15](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.15), [6.17](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.17), [6.23](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.23), [6.26](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.26), [6.31](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.31), [7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=7.2), [8.14](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=8.14) en [9.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=9.2).
+1. Deze regeling geeft uitvoering aan de [artikelen 1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=1.5), [1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=1.7), [2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.2), [2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.5), [2.14](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.14), [3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.10), [3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.13), [3.16](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.16), [3.17](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.17), [3.20](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.20), [3.22](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.22), [3.27](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.27), [3.63](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.63), [3.83](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.83), [3.87](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.87), [3.104](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.104), [3.119a](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.119a), [3.138](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.138), [3.152](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.152), [3.154](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.154), [4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.7), [4.14](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.14), [4.51](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.51), [5.14](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.14), [5.15](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.15), [5.17](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.17), [5.18](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.18), [6.8](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.8), [6.14](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.14), [6.15](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.15), [6.17](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.17), [6.23](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.23), [6.26](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.26), [6.31](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.31), [7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=7.2), [8.14](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=8.14), [8.14b](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=8.14b) en [9.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=9.2).
 
 2. Deze regeling verstaat onder:
 
@@ -85,7 +85,7 @@ Bij het bepalen van de winst van het eerste kalenderjaar als ondernemer komt med
 
 ##### Artikel 6. Belastbare winst uit onderneming; overige vrijstellingen; gedeeltelijke vrijstelling van bos en natuur
 
-1. Als regelingen ten behoeve van de ontwikkeling en instandhouding van bos en natuur en als overeenkomsten die op die regelingen vooruitlopen, als bedoeld in [artikel 3.13, eerste lid, onderdeel h, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.13) worden aangewezen: de Tijdelijke regeling particulier natuurbeheer respectievelijk de in het tweede lid genoemde overeenkomsten.
+1. Als regelingen ten behoeve van de ontwikkeling en instandhouding van bos en natuur en als overeenkomsten die op die regelingen vooruitlopen, als bedoeld in [artikel 3.13, eerste lid, onderdeel g, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.13) worden aangewezen: de Tijdelijke regeling particulier natuurbeheer alsmede de [Subsidieregeling natuurbeheer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0010999) voor zover betrekking hebbend op de subsidie functieverandering als bedoeld in [artikel 2, aanhef en onderdeel b, van die regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0010999&artikel=2), respectievelijk de in het tweede lid genoemde overeenkomsten.
 
 2. De in het eerste lid bedoelde overeenkomsten betreffen:
 
@@ -197,7 +197,7 @@ Vervallen
 
 1. Als uitkeringen welke niet tot de inkomsten in de vorm van bepaalde periodieke uitkeringen en verstrekkingen behoren, bedoeld in [artikel 3.104, onderdeel h, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.104) worden aangewezen:
 
-- a. uitkeringen ingevolge de [Huursubsidiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0008659);
+- a. uitkeringen ingevolge de [Wet op de huurtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0008659);
 
 - b. uitkeringen ingevolge de [Wet bevordering eigenwoningbezit](https://wetten.overheid.nl/jci1.3:c:BWBR0011919);
 
@@ -243,31 +243,13 @@ Vervallen
 
 ##### Artikel 22. Waardering niet in geld genoten inkomen; privé-gebruik auto
 
-De rittenregistratie als bedoeld in [artikel 3.145 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.145) bevat ten minste de volgende gegevens:
-
-- a. merk, type en kenteken van de auto;
-
-- b. periode van terbeschikkingstelling van de auto;
-
-- c. per rit:
-
-- 1°. datum;
-
-- 2°. beginstand en eindstand van de kilometerteller;
-
-- 3°. beginadres en eindadres;
-
-- 4°. de gereden route indien deze afwijkt van de meest gebruikelijke;
-
-- 5°. het karakter van de rit.
+Vervallen
 
 ##### Artikel 23. Verliesverrekening; formalisering achterwaartse verliesverrekening
 
 1. Een voorlopige verliesverrekening als bedoeld in [artikel 3.152, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.152) kan worden verleend indien het verlies over een kalenderjaar wordt aangegeven door de in de uitnodiging tot het doen van aangifte gevraagde gegevens en bescheiden en andere gegevensdragers of de inhoud daarvan duidelijk, stellig en zonder voorbehoud in te vullen en te ondertekenen en de gevraagde bescheiden of andere gegevensdragers in te leveren of toe te zenden.
 
-2. Een voorlopige verliesverrekening wordt niet eerder verleend dan zes maanden na de kalendermaand waarin de aangifte is gedaan.
-
-3. Bij de berekening van de voorlopige verliesverrekening wordt het vermoedelijke verlies voor 80 percent in aanmerking genomen.
+2. Bij de berekening van de voorlopige verliesverrekening wordt het vermoedelijke verlies voor 80 percent in aanmerking genomen.
 
 ##### Artikel 24. Middeling
 
@@ -295,9 +277,7 @@ De ingevolge [artikel 4.14, achtste lid, onderdeel a, van de wet](https://wetten
 
 1. Een voorlopige verliesverrekening als bedoeld in [artikel 4.51, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.51) kan worden verleend indien het verlies over een kalenderjaar wordt aangegeven door de in de uitnodiging tot het doen van aangifte gevraagde gegevens en bescheiden en andere gegevensdragers of de inhoud daarvan duidelijk, stellig en zonder voorbehoud in te vullen en te ondertekenen en de gevraagde bescheiden of andere gegevensdragers in te leveren of toe te zenden.
 
-2. Een voorlopige verliesverrekening wordt niet eerder verleend dan zes maanden na de kalendermaand waarin de aangifte is gedaan.
-
-3. Bij de berekening van de voorlopige verliesverrekening wordt het vermoedelijke verlies voor 80 percent in aanmerking genomen.
+2. Bij de berekening van de voorlopige verliesverrekening wordt het vermoedelijke verlies voor 80 percent in aanmerking genomen.
 
 ### Hoofdstuk 5. Heffingsgrondslag bij sparen en beleggen (hoofdstuk 5 van de wet)
 
@@ -439,7 +419,7 @@ Ingeval een beginnende ondernemer binnen de eerste acht jaren na het verstrekken
 
 1. [Artikel 6.14, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.14) geldt niet voor:
 
-- a. de belastingplichtige aan wie wegens gemoedsbezwaren tegen één of meer volksverzekeringen door de Sociale verzekeringsbank een ontheffing is verleend als bedoeld in [artikel 19 van de Wet financiering volksverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0004538&artikel=19) , ingeval noch hij, noch zijn echtgenoot het recht op kinderbijslag ingevolge de [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368) geldend maakt;
+- a. de belastingplichtige aan wie wegens gemoedsbezwaren tegen één of meer volksverzekeringen door de Sociale verzekeringsbank een ontheffing is verleend als bedoeld in [artikel 64 van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=64), ingeval noch hij, noch zijn echtgenoot het recht op kinderbijslag ingevolge de [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368) geldend maakt;
 
 - b. de belastingplichtige die op grond van de regelen ter voorkoming van samenloop van kinderbijslag ingevolge de [Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368) zijn recht op kinderbijslag voor dat kind niet geldend kan maken en geen huishouden vormt met degene die het recht op kinderbijslag voor dat kind wel geldend kan maken.
 
@@ -600,7 +580,7 @@ Voor overige diëten worden de extra uitgaven gesteld op nihil.
 
 - a. voor de algemene voorlichting, bedoeld in [artikel 5, tweede lid, van de Wet opneming buitenlandse kinderen ter adoptie](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&artikel=5) dan wel daarmee overeenkomende uitgaven indien laatstgenoemde wet op deze adoptie niet van toepassing is;
 
-- b. voor bemiddeling als bedoeld in [artikel 1van de Wet opneming buitenlandse kinderen ter adoptie](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&artikel=1) tot een bedrag van ten hoogste € 681 dan wel daarmee overeenkomende uitgaven tot ten hoogste het eerder genoemde bedrag indien laatstgenoemde wet op deze adoptie niet van toepassing is;
+- b. voor bemiddeling als bedoeld in [artikel 1van de Wet opneming buitenlandse kinderen ter adoptie](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&artikel=1) tot een bedrag van ten hoogste € 1.000 dan wel daarmee overeenkomende uitgaven tot ten hoogste het eerder genoemde bedrag indien laatstgenoemde wet op deze adoptie niet van toepassing is;
 
 - c. verband houdende met de indiening en de behandeling van een verzoek tot het uitspreken van adoptie volgens het recht van het land van herkomst van het kind;
 
@@ -666,7 +646,7 @@ Voor de toepassing van de eerste volzin behoort het kind tegelijkertijd tot het 
 
 ##### Artikel 45a. Voorheffingen; vaststelling hoogte van bedrag aan te verrekenen loonbelasting ingevolge compensatieregeling uit het Verdrag met België
 
-1. Indien de belastingplichtige een partner heeft ten aanzien van wie in het kalenderjaar de in [artikel 8.8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=8.8) bedoelde maximering van de gecombineerde heffingskorting toepassing vindt, wordt bij de berekening van hetgeen ingevolge artikel 27, paragraaf 1, van het in artikel [9.2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=9.2) genoemde verdrag wordt aangemerkt als ingehouden Nederlandse loonbelasting, het bedrag aan Nederlandse inkomstenbelasting en premie als bedoeld in de [Wet financiering volksverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0004538) dat de belastingplichtige verschuldigd zou zijn geweest indien hij de in artikel 27, paragraaf 1, van dat verdrag bedoelde beloningen uit Nederland zou hebben verkregen, verminderd met de verhoging, bedoeld in artikel [8.9 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=8.9), van de gecombineerde heffingskorting waarop zijn partner recht zou hebben gehad, indien hij bedoelde beloningen daadwerkelijk uit Nederland zou hebben verkregen en Nederland daarover belasting en premie zou hebben geheven.
+1. Indien de belastingplichtige een partner heeft ten aanzien van wie in het kalenderjaar de in [artikel 8.8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=8.8) bedoelde maximering van de gecombineerde heffingskorting toepassing vindt, wordt bij de berekening van hetgeen ingevolge artikel 27, paragraaf 1, van het in artikel [9.2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=9.2) genoemde verdrag wordt aangemerkt als ingehouden Nederlandse loonbelasting, het bedrag aan Nederlandse inkomstenbelasting en premie voor de volksverzekeringen als bedoeld in de [Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745) dat de belastingplichtige verschuldigd zou zijn geweest indien hij de in artikel 27, paragraaf 1, van dat verdrag bedoelde beloningen uit Nederland zou hebben verkregen, verminderd met de verhoging, bedoeld in artikel [8.9 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=8.9), van de gecombineerde heffingskorting waarop zijn partner recht zou hebben gehad, indien hij bedoelde beloningen daadwerkelijk uit Nederland zou hebben verkregen en Nederland daarover belasting en premie zou hebben geheven.
 
 2. Indien de belastingplichtige een partner heeft ten aanzien van wie in het kalenderjaar de in [artikel 8.8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=8.8) bedoelde maximering van de gecombineerde heffingskorting toepassing vindt, wordt bij de berekening van hetgeen ingevolge artikel 27, paragraaf 2, van het in het eerste lid bedoelde verdrag wordt aangemerkt als ingehouden Nederlandse loonbelasting, het bedrag aan Nederlandse inkomstenbelasting dat de belastingplichtige verschuldigd zou zijn geweest indien de in artikel 27, paragraaf 2, van dat verdrag bedoelde beloningen uitsluitend in Nederland zouden zijn belast, verminderd met de verhoging, bedoeld in [artikel 8.9 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=8.9), van de gecombineerde heffingskorting, waarop zijn partner recht zou hebben gehad indien uitsluitend in Nederland over de bedoelde beloningen belasting zou zijn geheven.
 
@@ -674,7 +654,7 @@ Voor de toepassing van de eerste volzin behoort het kind tegelijkertijd tot het 
 
 - a. uit hoofde van [hoofdstuk 8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=8) recht heeft op verhoging van de gecombineerde heffingskorting; of
 
-- b. recht zou hebben gehad op de gecombineerde heffingskorting als bedoeld in [hoofdstuk 8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=8) indien beloningen die hij heeft genoten krachtens regelen als bedoeld in [hoofdstuk VII van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VII) niet zouden zijn vrijgesteld van de heffing van inkomstenbelasting of premie als bedoeld in de [Wet financiering volksverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0004538).
+- b. recht zou hebben gehad op de gecombineerde heffingskorting als bedoeld in [hoofdstuk 8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=8) indien beloningen die hij heeft genoten krachtens regelen als bedoeld in [hoofdstuk VII van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VII) niet zouden zijn vrijgesteld van de heffing van inkomstenbelasting of premie voor de volksverzekeringen als bedoeld in de [Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745).
 
 ### Hoofdstuk 10. Overgangs- en slotbepalingen (hoofdstuk 11 van de wet)
 
@@ -742,17 +722,61 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst
 
 ### Hoofdstuk 9. Wijze van heffing (hoofdstuk 9 van de wet)
 
-### Hoofdstuk 10. Overgangsrecht
+### Hoofdstuk 9. Wijze van heffing (hoofdstuk 9 van de wet)
 
 ##### Artikel 45b
 
 Vóór 1 januari 2005 vastgestelde lijfrenten die niet in geldeenheden luiden:
 
-- 1. Op een lijfrente waarvan vóór 1 januari 2005 de hoogte van de termijnen in beleggingseenheden (units) met de verzekeraar is overeengekomen, blijft [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=1&artikel=2a&z=2005-06-25&g=2005-06-25) buiten toepassing en kan de lijfrente-overeenkomst worden tenuitvoergelegd zoals is overeengekomen.
+- 1. Op een lijfrente waarvan vóór 1 januari 2005 de hoogte van de termijnen in beleggingseenheden (units) met de verzekeraar is overeengekomen, blijft [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=1&artikel=2a&z=2009-02-12&g=2006-01-01) buiten toepassing en kan de lijfrente-overeenkomst worden tenuitvoergelegd zoals is overeengekomen.
 
-- 2. Indien ter zake van een lijfrente als bedoeld in het eerste lid op of na 1 januari 2005 met de verzekeraar een wijziging van methode van berekening van de termijnen in units of in euro’s wordt overeengekomen, is met ingang van de datum van die wijziging [art. 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=1&artikel=2a&z=2005-06-25&g=2005-06-25) wel van toepassing.
+- 2. Indien ter zake van een lijfrente als bedoeld in het eerste lid op of na 1 januari 2005 met de verzekeraar een wijziging van methode van berekening van de termijnen in units of in euro’s wordt overeengekomen, is met ingang van de datum van die wijziging [art. 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=1&artikel=2a&z=2009-02-12&g=2006-01-01) wel van toepassing.
 
-- 3. Indien een lijfrente als bedoeld in het eerste lid op of na 1 januari 2005 wordt omgezet in een andere lijfrente, is [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=1&artikel=2a&z=2005-06-25&g=2005-06-25) van toepassing op de laatstgenoemde lijfrente.
+- 3. Indien een lijfrente als bedoeld in het eerste lid op of na 1 januari 2005 wordt omgezet in een andere lijfrente, is [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=1&artikel=2a&z=2009-02-12&g=2006-01-01) van toepassing op de laatstgenoemde lijfrente.
+
+### Hoofdstuk 11. Overgangs- en slotbepalingen ([hoofdstuk 11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=11))
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst
+
+##### Artikel 9a. Constatering van het niet afgenomen zijn van de netto-tonnage van bepaalde schepen
+
+Met betrekking tot het kalenderjaar 2006 wordt voor de toepassing van [artikel 3.22, zesde lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.22) vastgesteld dat de netto-tonnage van kwalificerende schepen in de periode 2002 tot en met 2004 ten opzichte van de periode 2001 tot en met 2003 niet is afgenomen.
+
+### Hoofdstuk 4. Heffingsgrondslag bij aanmerkelijk belang (hoofdstuk 4 van de wet)
+
+### Hoofdstuk 5. Heffingsgrondslag bij sparen en beleggen (hoofdstuk 5 van de wet)
+
+### Hoofdstuk 6. Persoonsgebonden aftrek
+
+### Hoofdstuk 7. Belastingheffing van buitenlandse belastingplichtigen ([hoofdstuk 7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=7))
+
+### Hoofdstuk 8. Heffingskorting
+
+##### Artikel 44c. Bedrag ouderschapsverlofkorting
+
+1. De ouderschapsverlofkorting bedraagt per uur ouderschapsverlof 1/8 van 50% van het wettelijke minimumloon per werkdag, zoals bepaald bij of krachtens [artikel 8 van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8). Eerst nadat voor het totaal aantal uren ouderschapsverlof in het kalenderjaar aldus het bedrag aan korting is bepaald, wordt de regel toegepast dat de korting niet meer kan bedragen dan het in het voorafgaande kalenderjaar genoten belastbare loon verminderd met het in het kalenderjaar genoten belastbare loon.
+
+2. Voor de toepassing van de wet en het eerste lid wordt uitgegaan van het wettelijke minimumloon zoals dat per 1 januari van het kalenderjaar waarin de ouderschapsverlofkorting geldt, is vastgesteld.
+
+3. Indien de belastingplichtige in het voorafgaande kalenderjaar eveneens gebruik heeft gemaakt van zijn recht op ouderschapsverlof als bedoeld in [hoofdstuk 6 van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=6), kan voor de toepassing van [artikel 8.14b, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=8.14b) in plaats van het in het voorafgaande kalenderjaar genoten belastbare loon worden uitgegaan van het in het kalenderjaar voorafgaand aan het ouderschapsverlof genoten belastbare loon.
+
+##### Artikel 44d. Verklaring ouderschapsverlof
+
+1. Voor de toepassing van de ouderschapsverlofkorting beschikt de werknemer over een door de werkgever ondertekende verklaring dat ouderschapsverlof als bedoeld in [hoofdstuk 6 van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=6) is opgenomen.
+
+2. Deze verklaring bevat ten minste:
+
+- a. naam, adres en woonplaats van de werkgever;
+
+- b. het loonheffingennummer van de werkgever;
+
+- c. naam en sociaal-fiscaalnummer van de belastingplichtige;
+
+- d. de periode in het kalenderjaar waarin de belastingplichtige gebruik heeft gemaakt van zijn recht op ouderschapsverlof;
+
+- e. het totaal aantal uren in het kalenderjaar waarin de belastingplichtige gebruik heeft gemaakt van zijn recht op ouderschapsverlof.
+
+### Hoofdstuk 10. Overgangsrecht
 
 ### Hoofdstuk 11. Overgangs- en slotbepalingen ([hoofdstuk 11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=11))
 
