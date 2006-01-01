@@ -4,7 +4,7 @@ identifier: "BWBR0008144"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2005-07-20"
+last_updated: "2006-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008144"
 soort: "ministeriele-regeling"
@@ -55,7 +55,7 @@ Aan de dienst worden de volgende taken opgedragen:
 
 - b. het verrichten van testen en keuringen van voertuigen en voertuigonderdelen voor zover deze testen en keuringen weliswaar niet worden voorgeschreven voor de toelating of het gebruik van de voertuigen en voertuigonderdelen in Nederland doch waarom wordt verzocht ten behoeve van de toelating en het gebruik van deze voertuigen en voertuigonderdelen in andere landen;
 
-- c. het op verzoek verstrekken van een zwaar transportverklaring, een draagvermogensbrief of een in het kader van de proef met langere of langere en zwaardere vrachtautocombinaties af te geven keuringscertificaat ten behoeve van het op basis van [artikel 149 van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=149) door gemeenten, provincies of de dienst verlenen van ontheffingen;
+- c. het op verzoek verstrekken van een zwaar transportverklaring, een draagvermogensbrief of een in het kader van de proef met langere of langere en zwaardere vrachtautocombinaties af te geven keuringscertificaat ten behoeve van het op basis van de [artikelen 149](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=149) en [149a, tweede lid van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=149a) door gemeenten, provincies of de dienst verlenen van ontheffingen;
 
 - d. het op verzoek van gemeenten en provincies bemiddelen bij het verlenen van ontheffingen als bedoeld in [artikel 149 van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=149);
 
@@ -83,9 +83,9 @@ Aan de dienst worden de volgende taken opgedragen:
 
 ##### Artikel 3. Voorwaarden
 
-1. De dienst mag voor de in [artikel 2, onder a tot en met d en j](https://wetten.overheid.nl/jci1.3:c:BWBR0008144&artikel=2&z=2005-07-20&g=2005-07-20), bedoelde activiteiten prijzen in rekening brengen.
+1. De dienst mag voor de in [artikel 2, onder a tot en met d en j](https://wetten.overheid.nl/jci1.3:c:BWBR0008144&artikel=2&z=2006-01-01&g=2006-01-01), bedoelde activiteiten prijzen in rekening brengen.
 
-2. De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008144&artikel=2&z=2005-07-20&g=2005-07-20) bedoelde activiteiten en de hiervoor door de dienst in rekening te brengen prijzen dienen te voldoen aan de volgende voorwaarden:
+2. De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008144&artikel=2&z=2006-01-01&g=2006-01-01) bedoelde activiteiten en de hiervoor door de dienst in rekening te brengen prijzen dienen te voldoen aan de volgende voorwaarden:
 
 - a. de exploitatie mag niet ten koste gaan van de in artikel 4b, eerste en tweede lid, onderdeel a, bedoelde taken;
 
