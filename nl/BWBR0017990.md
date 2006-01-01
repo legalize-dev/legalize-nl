@@ -4,7 +4,7 @@ identifier: "BWBR0017990"
 country: "nl"
 rank: "wet"
 publication_date: "2006-01-01"
-last_updated: "2005-03-15"
+last_updated: "2006-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017990"
 soort: "wet"
@@ -52,23 +52,23 @@ Wijzigt de Wet Nationale ombudsman.
 
 ##### Artikel III
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Gemeentewet.
 
 ##### Artikel IV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Provinciewet.
 
 ##### Artikel V
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Waterschapswet.
 
 ##### Artikel VI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet gemeenschappelijke regelingen.
 
 ##### Artikel VIa
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet algmene regels herindeling.
 
 ##### Artikel VIb
 
@@ -148,13 +148,13 @@ Wijzigt de Algemene wet bestuursrecht.
 
 ##### Artikel VIII
 
-Dit onderdeel is nog niet inwerking getreden
+Onze Ministers van Binnenlandse Zaken en Koninkrijksrelaties en van Justitie zenden binnen vijf jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
 
 ##### Artikel IX
 
-1. Op verzoekschriften die bij de Nationale ombudsman zijn ingediend voor de inwerkingtreding van de [artikelen I](https://wetten.overheid.nl/jci1.3:c:BWBR0017990&artikel=I&z=2005-03-15&g=2005-03-15) en [II van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017990&artikel=II&z=2005-03-15&g=2005-03-15), zijn de bepalingen van de [Wet Nationale ombudsman](https://wetten.overheid.nl/jci1.3:c:BWBR0003372) van toepassing, zoals deze voor dat tijdstip luidden.
+1. Op verzoekschriften die bij de Nationale ombudsman zijn ingediend voor de inwerkingtreding van de [artikelen I](https://wetten.overheid.nl/jci1.3:c:BWBR0017990&artikel=I&z=2006-01-01&g=2006-01-01) en [II van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017990&artikel=II&z=2006-01-01&g=2006-01-01), zijn de bepalingen van de [Wet Nationale ombudsman](https://wetten.overheid.nl/jci1.3:c:BWBR0003372) van toepassing, zoals deze voor dat tijdstip luidden.
 
-2. Dit lid is nog niet in werking getreden.
+2. Ten aanzien van bestuursorganen van provincies, gemeenten, waterschappen en gemeenschappelijke regelingen waarop tot de inwerkingtreding van [artikel II van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017990&artikel=II&z=2006-01-01&g=2006-01-01), de [Wet Nationale ombudsman](https://wetten.overheid.nl/jci1.3:c:BWBR0003372) niet van toepassing was, stelt de Nationale ombudsman geen onderzoek in voorzover het gaat om gedragingen die plaats vonden voordat [artikel II van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017990&artikel=II&z=2006-01-01&g=2006-01-01) in werking was getreden.
 
 ##### Artikel X
 
