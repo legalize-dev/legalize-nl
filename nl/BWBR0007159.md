@@ -4,7 +4,7 @@ identifier: "BWBR0007159"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-01"
-last_updated: "2005-06-02"
+last_updated: "2006-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007159"
 soort: "ministeriele-regeling"
@@ -193,7 +193,7 @@ De administratie van de houder van de afvalverwerkingsinrichting is zodanig inge
 
 - b. het gewicht per partij afval;
 
-- c. de verklaring als bedoeld in [artikel 5a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007159&hoofdstuk=III&artikel=5a&z=2005-06-02&g=2005-06-02).
+- c. de verklaring als bedoeld in [artikel 5a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007159&hoofdstuk=III&artikel=5a&z=2006-01-01&g=2006-01-01).
 
 ##### Artikel 5c
 
@@ -381,7 +381,7 @@ De verklaring, bedoeld in [artikel 8b, eerste, derde en vierde lid, van het besl
 
 - e. de stand van de warmtehoeveelheidsmeter aan het begin en aan het einde van de verbruiksperiode.
 
-4. In de afrekening, bedoeld in [artikel 8c, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007159&hoofdstuk=IVa&artikel=8c&z=2005-06-02&g=2005-06-02), van het Uitvoeringsbesluit, worden vermeld de totale hoeveelheid warmte die in het blokverwarmingscomplex is verbruikt in de verbruiksperiode waarop het verzoek om teruggaaf betrekking heeft, alsmede het aandeel van de gebruiker daarin.
+4. In de afrekening, bedoeld in [artikel 8c, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007159&hoofdstuk=IVa&artikel=8c&z=2006-01-01&g=2006-01-01), van het Uitvoeringsbesluit, worden vermeld de totale hoeveelheid warmte die in het blokverwarmingscomplex is verbruikt in de verbruiksperiode waarop het verzoek om teruggaaf betrekking heeft, alsmede het aandeel van de gebruiker daarin.
 
 5. In het verzoek om teruggaaf, bedoeld in [artikel 36l, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36l), worden de volgende gegevens vermeld:
 
@@ -449,13 +449,29 @@ alsmede, indien het een instelling als bedoeld in [artikel 36l, elfde lid, derde
 
 - f. de werkzaamheden van de instelling nagenoeg geheel worden verricht door natuurlijke personen om niet of naar een loon dat in belangrijke mate lager is dan hetgeen in het economische verkeer gebruikelijk is.
 
-2. Een statuut als bedoeld in [artikel 2, tweede lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=2) wordt gelijkgesteld met notarieel verleden statuten als bedoeld in het eerste lid, aanhef en onderdeel a, indien dit statuut schriftelijk is vastgelegd.
+2. De teruggaafregeling, bedoeld in [artikel 36l, twaalfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36l), is van toepassing, mits:
+
+- a. de instelling, bedoeld in [artikel 36l, twaalfde lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36l), het verzoek om teruggaaf doet;
+
+- b. de instelling die het verzoek om teruggaaf doet, alsmede de instellingen, bedoeld in [artikel 36l, twaalfde lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36l), beschikken over notarieel verleden statuten waaruit hun doelstelling blijkt en deze desgevraagd worden overgelegd;
+
+- c. de feitelijke werkzaamheden van de instellingen, bedoeld in onderdeel b, overeenkomen met de doelstelling en de instelling die het verzoek om teruggaaf doet zulks ook verklaart;
+
+- d. de over te leggen eindfactuur op naam staat van de instelling die het verzoek om teruggaaf doet;
+
+- e. de instelling die het verzoek om teruggaaf doet verklaart dat zowel zij als de instellingen als bedoeld in [artikel 36l, twaalfde lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36l), niet of slechts in beperkte mate werkzaam zijn op het gebied van sport, gezondheidszorg of onderwijs;
+
+- f. de instelling die het verzoek om teruggaaf doet verklaart dat zowel zij als de instellingen als bedoeld in [artikel 36l, twaalfde lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36l), niet aan vennootschapsbelasting zijn onderworpen dan wel daarvan zijn vrijgesteld;
+
+- g. de instelling die het verzoek om teruggaaf doet een bezettingsoverzicht overlegt waaruit de bezettingsgraad in tijd en oppervlakte van de onroerende zaak blijkt.
+
+3. Een statuut als bedoeld in [artikel 2, tweede lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=2) wordt gelijkgesteld met notarieel verleden statuten als bedoeld in het eerste lid, aanhef en onderdeel a, indien dit statuut schriftelijk is vastgelegd.
 
 ##### Artikel 8jb
 
-1. De administratie van degene die verzoekt om teruggaaf van belasting als bedoeld in [artikel 36l, twaalfde, dertiende of veertiende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36l), is zodanig ingericht dat daarin op overzichtelijke wijze alle voor de vaststelling van het bedrag van de teruggaaf van belang zijnde gegevens zijn opgenomen.
+1. De administratie van degene die verzoekt om teruggaaf van belasting als bedoeld in [artikel 36l, dertiende, veertiende of vijftiende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36l), is zodanig ingericht dat daarin op overzichtelijke wijze alle voor de vaststelling van het bedrag van de teruggaaf van belang zijnde gegevens zijn opgenomen.
 
-2. In het verzoek om teruggaaf, bedoeld in [artikel 36l, twaalfde, dertiende of veertiende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36l), worden de volgende gegevens vermeld:
+2. In het verzoek om teruggaaf, bedoeld in [artikel 36l, dertiende, veertiende of vijftiende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36l), worden de volgende gegevens vermeld:
 
 - a. het tijdvak waarover teruggaaf wordt verzocht;
 
@@ -491,7 +507,7 @@ Vervallen
 
 - e. het netto elektrisch rendement van de installatie.
 
-2. De administratie van een installatie waarin zuivere biomassa wordt verwerkt op een wijze als bedoeld in het eerste lid dient zodanig te zijn ingericht dat daarin op overzichtelijke wijze de gegevens zijn opgenomen omtrent alle voor de toepassing van [artikel 8aa](https://wetten.overheid.nl/jci1.3:c:BWBR0007159&hoofdstuk=IVa&artikel=8aa&z=2005-06-02&g=2005-06-02) van belang zijnde bedrijfshandelingen.
+2. De administratie van een installatie waarin zuivere biomassa wordt verwerkt op een wijze als bedoeld in het eerste lid dient zodanig te zijn ingericht dat daarin op overzichtelijke wijze de gegevens zijn opgenomen omtrent alle voor de toepassing van [artikel 8aa](https://wetten.overheid.nl/jci1.3:c:BWBR0007159&hoofdstuk=IVa&artikel=8aa&z=2006-01-01&g=2006-01-01) van belang zijnde bedrijfshandelingen.
 
 3. De administratie van een installatie waarin biomassa zodanig wordt verwerkt dat daaruit stortgas, rioolwaterzuiveringsgas of biogas wordt gewonnen, dient zodanig te zijn ingericht dat daarin op overzichtelijke wijze alle gegevens zijn opgenomen welke van belang zijn voor de jaarlijkse vaststelling van de door de installatie gewonnen en aan het distributienet geleverde hoeveelheid stortgas, rioolwaterzuiveringsgas, of biogas.
 
