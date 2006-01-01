@@ -4,7 +4,7 @@ identifier: "BWBR0007780"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-01"
-last_updated: "2005-06-25"
+last_updated: "2006-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007780"
 soort: "ministeriele-regeling"
@@ -44,19 +44,17 @@ Besluit:
 
 ##### Artikel 1
 
-1. Deze regeling geeft uitvoering aan de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=5), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=6), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=14), [16b](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=16b), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=18), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=20), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=21), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=22), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=32) en [33 van de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=33).
+1. Deze regeling geeft uitvoering aan [5](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=5), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=6), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=14), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=18), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=20), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=32) en [33 van de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=33).
 
 2. Deze regeling verstaat onder:
 
 - a. **de wet:** de [Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0007746);
 
-- b. **S&O-werk:** werk dat bij S&O-verklaring is aangemerkt als speur- en onwikkelingswerk in de zin van de wet;
+- b. de Centrale organisatie werk en inkomen: de Centrale organisatie werk en inkomen, genoemd in [hoofdstuk 4 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=4);
 
-- c. de Centrale organisatie werk en inkomen: de Centrale organisatie werk en inkomen, genoemd in [hoofdstuk 4 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=4);
+- c. **detachering:** terbeschikkingstelling van een werknemer door de inhoudingsplichtige met wie een arbeidsovereenkomst bestaat, ten behoeve van een derde;
 
-- d. **detachering:** terbeschikkingstelling van een werknemer door de inhoudingsplichtige met wie een arbeidsovereenkomst bestaat, ten behoeve van een derde;
-
-- e. werkloze: degene die op het tijdstip voorafgaand aan de aanvang van de dienstbetrekking als werkloos werkzoekende staat ingeschreven bij de Centrale organisatie werk en inkomen.
+- d. werkloze: degene die op het tijdstip voorafgaand aan de aanvang van de dienstbetrekking als werkloos werkzoekende staat ingeschreven bij de Centrale organisatie werk en inkomen.
 
 ##### Artikel 1a
 
@@ -70,15 +68,15 @@ Vervallen
 
 ##### Artikel 2
 
-1. Bij de herleiding van de afdrachtvermindering lage lonen, de afdrachtvermindering onderwijs, het maximum van de afdrachtvermindering betaald ouderschapsverlof en de toetslonen tot bedragen per loontijdvak wordt een jaar op 260 dagen, een maand op 65/3 dag, een week op 5 dagen en een tijdvak dat korter is dan een dag op een dag gesteld.
+1. Bij de herleiding van de afdrachtvermindering onderwijs en de toetslonen tot bedragen per loontijdvak wordt een jaar op 260 dagen, een maand op 65/3 dag, een week op 5 dagen en een tijdvak dat korter is dan een dag op een dag gesteld.
 
-2. Met betrekking tot de werknemer wiens loon mede omvat de waarde van regelmatig bij de betaling van het loon verstrekte vakantiebonnen, vakantietoeslagbonnen of van daarmee overeenkomende aanspraken, worden de op grond van het eerste lid bepaalde tijdvakbedragen van de afdrachtvermindering lage lonen, de afdrachtvermindering onderwijs en het maximum van de afdrachtvermindering betaald ouderschapsverlof vermenigvuldigd:
+2. Met betrekking tot de werknemer wiens loon mede omvat de waarde van regelmatig bij de betaling van het loon verstrekte vakantiebonnen, vakantietoeslagbonnen of van daarmee overeenkomende aanspraken, worden de op grond van het eerste lid bepaalde tijdvakbedragen van de afdrachtvermindering onderwijs vermenigvuldigd:
 
-- a. ingeval op jaarbasis aanspraken worden verleend voor 20 of meer vakantiedagen: met de factor 260:231;
+- a. ingeval op jaarbasis aanspraken worden verleend voor 20 of meer vakantiedagen: met de factor 260:230;
 
 - b. ingeval op jaarbasis aanspraken worden verleend voor 19 of minder vakantiedagen: met defactor 260 : 245.
 
-3. Met betrekking tot de in het tweede lid bedoelde werknemer bedraagt de afdrachtvermindering lage lonen, de afdrachtvermindering onderwijs en het maximum van de afdrachtvermindering betaald ouderschapsverlof per kalenderjaar niet meer dan het desbetreffende bedrag genoemd in onderscheidenlijk [artikel 5, eerste lid, onderdeel a en onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=5) en [artikel 16b, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=16b).
+3. Met betrekking tot de in het tweede lid bedoelde werknemer bedraagt de afdrachtvermindering onderwijs per kalenderjaar niet meer dan het desbetreffende bedrag genoemd in [artikel 5, eerste lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=5).
 
 4. Voor de toepassing van het tweede lid wordt het aantal vakantiedagen in aanmerking genomen tot het krachtens de publiekrechtelijke regeling of de collectieve arbeidsovereenkomst voor een volwassen werknemer geldende aantal zonder rekening te houden met feestdagen en met extra vakantiedagen die aan de werknemer worden toegekend in verband met zijn leeftijd of de duur van zijn dienstverband.
 
@@ -104,17 +102,17 @@ Ingeval de vermindering op de voet van [artikel 6, derde lid, van de wet](https:
 
 1. Ingeval het loon niet per tijdseenheid wordt berekend, is bij de bepaling van de vermindering op de voet van [artikel 6, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=6), [artikel 1, eerste lid, onderdeel c, onder 2°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=1) niet van toepassing op dat loon. In dat geval vindt die vermindering, in afwijking van [artikel 6, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=6), inkomensevenredig plaats aan de hand van de verhouding van het in het loontijdvak ten minste op nihil te stellen genoten loon van de werknemer en het bedrag dat per kalenderjaar beloopt
 
-| indien hij de leeftijd heeft bereikt van | doch niet de leeftijd van |   |
+| Indien hij de leeftijd heeft bereikt van | Doch niet de leeftijd van |   |
 | --- | --- | --- |
-| 15 jaren | 16 jaren: | € 4.861 |
-| 16 jaren | 17 jaren: | € 5.590 |
-| 17 jaren | 18 jaren: | € 6.400 |
-| 18 jaren | 19 jaren: | € 7.373 |
-| 19 jaren | 20 jaren: | € 8.506 |
-| 20 jaren | 21 jaren: | € 9.965 |
-| 21 jaren | 22 jaren: | € 11.747 |
-| 22 jaren | 23 jaren: | € 13.772 |
-| 23 jaren |   | € 16.197 |
+| 15 jaren | 16 jaren: | € 4.880 |
+| 16 jaren | 17 jaren: | € 5.611 |
+| 17 jaren | 18 jaren: | € 6.425 |
+| 18 jaren | 19 jaren: | € 7.401 |
+| 19 jaren | 20 jaren: | € 8.539 |
+| 20 jaren | 21 jaren: | € 10.003 |
+| 21 jaren | 22 jaren: | € 11.792 |
+| 22 jaren | 23 jaren: | € 13.825 |
+| 23 jaren |   | € 16.257 |
 
 2. Ingeval het eerste lid toepassing vindt administreert de inhoudingsplichtige per werknemer en per tijdvak waarover de vermindering wordt toegepast de in het eerste lid, tweede volzin, bedoelde verhouding.
 
@@ -358,33 +356,7 @@ Vervallen
 
 ##### Artikel 14c
 
-1. Een overeenkomst als bedoeld in [artikel 16b, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=16b) bevat tenminste:
-
-- a. de naam en geboortedatum van de werknemer;
-
-- b. de datum van indiensttreding van de werknemer;
-
-- c. de naam en geboortedatum van het kind ten aanzien van wie ouderschapsverlof wordt opgenomen;
-
-- d. een bepaling waarin is opgenomen dat de werknemer verklaart dat hij als ouder in familierechtelijke betrekking staat tot het desbetreffende kind, dan wel blijkens verklaringen uit de gemeentelijke basisadministratie op hetzelfde adres woont als het desbetreffende kind en duurzaam de verzorging en opvoeding van dat kind als eigen kind op zich heeft genomen;
-
-- e. een bepaling waarin is opgenomen dat de werknemer verklaart dat hij met betrekking tot het desbetreffende kind geen ouderschapsverlof heeft genoten bij een andere inhoudingsplichtige, dan wel dat hij bij een andere inhoudingsplichtige ouderschapsverlof heeft genoten maar op grond van [artikel 6:2, zesde lid, van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=6:2) aanspraak heeft op een resterend deel van het ouderschapsverlof;
-
-- f. indien de werknemer met betrekking tot het desbetreffende kind bij een andere inhoudingsplichtige ouderschapsverlof heeft genoten maar op grond van [artikel 6:2, zesde lid, van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=6:2) aanspraak heeft op een resterend deel van het ouderschapsverlof: het aantal uren ouderschapsverlof waarop de werknemer bij de andere inhoudingsplichtige ingevolge [artikel 6:2 van laatstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=6:2) ten hoogste recht had en het aantal uren ouderschapsverlof dat de werknemer bij de andere inhoudingsplichtige heeft genoten;
-
-- g. een berekening van het aantal uren ouderschapsverlof waarop de werknemer bij het ingaan van het ouderschapsverlof ingevolge [artikel 6:2 van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=6:2) ten hoogste recht heeft, met dien verstande dat indien het ouderschapsverlof op grond van [artikel 6:2, vierde lid, onderdeel b, van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=6:2) in perioden is opgedeeld, bij het ingaan van iedere periode de berekening opnieuw wordt gemaakt, rekening houdende met het aantal uren ouderschapsverlof dat reeds is genoten;
-
-- h. het aantal uren ouderschapsverlof dat door de werknemer wordt opgenomen en de aanvang en het einde van het tijdvak waarin die uren worden opgenomen, met dien verstande dat indien het ouderschapsverlof op grond van [artikel 6:2, vierde lid, onderdeel b, van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=6:2) in perioden is opgedeeld, wordt vermeld het aantal uren ouderschapsverlof dat in de desbetreffende periode wordt opgenomen en de aanvang en het einde van het tijdvak waarin die uren worden opgenomen;
-
-- i. de hoogte van het loon dat terzake van het ouderschapsverlof wordt doorbetaald.
-
-2. De inhoudingsplichtige administreert bij de loonadministratie per tijdvak waarover de afdrachtvermindering betaald ouderschapsverlof wordt toegepast, de volgende gegevens per werknemer:
-
-- a. het aantal uren ouderschapsverlof per loontijdvak;
-
-- b. het loon dat per loontijdvak terzake van het ouderschapsverlof is genoten;
-
-- c. de berekening van de afdrachtvermindering betaald ouderschapsverlof.
+Vervallen
 
 ### Hoofdstuk VI. Afdrachtvermindering zeevaart
 
@@ -440,19 +412,11 @@ Voor de toepassing van de afdrachtvermindering zeevaart wordt een schip in het k
 
 ##### Artikel 22
 
-1. De inhoudingsplichtige mag, in afwijking van [artikel 21, eerste lid, tweede volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=21), ter berekening van de S&O-afdrachtvermindering in plaats van het loon dat in een kalenderjaar is genoten ter zake van S&O-werk, in aanmerking nemen het vereenvoudigde S&O-loon.
-
-2. Het vereenvoudigde S&O-loon is het door de werknemer die S&O-werk verricht in het kalenderjaar genoten loon uit tegenwoordige dienstbetrekking vermenigvuldigd met het aantal uren dat door deze werknemer gedurende dat jaar is besteed aan S&O-werk en gedeeld door het totaal aantal gewerkte uren van die werknemer in dat jaar, met dien verstande dat het vereenvoudigde S&O-loon niet meer bedraagt dan het loon uit tegenwoordige dienstbetrekking van de werknemer.
-
-3. Voor de toepassing van dit artikel wordt met loon uit tegenwoordige dienstbetrekking gelijkgesteld het loon dat wordt genoten wegens tijdelijke arbeidsongeschiktheid anders dan ingevolge de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656) behoudens uitkeringen in verband met bevalling, en de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten. Voorts worden als van de inhoudingsplichtige genoten loon uit tegenwoordige dienstbetrekking aangemerkt de uitkeringen ingevolge de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) waarmee bij de berekening van de belasting rekening wordt gehouden krachtens [artikel 89 Uitvoeringsregeling loonbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012059&artikel=89).
-
-4. Toepassing van het vereenvoudigde S&O-loon is slechts mogelijk indien dit met betrekking tot alle werknemers die S&O-werk verrichten, plaatsvindt.
+Vervallen
 
 ##### Artikel 22a
 
-1. Voor de toepassing van [artikel 21, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=21) dient de in verband met speur- en ontwikkelingswerk bij te houden administratie op verzoek van de inspecteur geheel of gedeeltelijk bij de S&O-inhoudingsplichtige voor controle beschikbaar te komen.
-
-2. De administratieve verplichtingen van de onderneming of ondernemingen die de S&O-werkzaamheden feitelijk verricht onderscheidenlijk verrichten worden geacht te rusten op de S&O-inhoudingsplichtige.
+Vervallen
 
 ##### Artikel 23
 
@@ -460,29 +424,11 @@ Vervallen
 
 ##### Artikel 24
 
-1. De inhoudingsplichtige aan wie een S&O-verklaring is afgegeven voegt binnen twee maanden na afloop van het kalenderjaar waarin het S&O-werk is verricht, aan de loonadministratie de administratie toe met betrekking tot het in dat jaar verrichte S&O-werk. De administratie bevat de volgende elementen en gegevens:
-
-- a. de S&O-verklaring;
-
-- b. een afschrift van de in [artikel 24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=24) bedoelde aanvraag;
-
-- c. een aanduiding van het uitgevoerde S&O-werk;
-
-- d. de namen van de werknemers die direct betrokken zijn bij het desbetreffende S&O-werk;
-
-- e. per werknemer het aantal uren dat deze heeft besteed aan het S&O-werk;
-
-- f. per werknemer het door deze ter zake van het S&O-werk genoten loon uit tegenwoordige dienstbetrekking, dan wel het in [artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007780&hoofdstuk=VII&artikel=22&z=2005-06-25&g=2005-06-25), bedoelde vereenvoudigde S&O-loon;
-
-- g. de berekening van de S&O-afdrachtvermindering.
-
-2. Indien het S&O-werk uit verschillende projecten bestaat worden de in het eerste lid, onderdelen c, d en e, bedoelde gegevens per project bijgehouden.
+Vervallen
 
 ##### Artikel 25
 
-1. Ten aanzien van degene die op enig tijdstip, anders dan tijdelijk, ophoudt inhoudingsplichtige te zijn, wordt voor de toepassing van de [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=21) en [22 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=22) en van [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=24) dat tijdstip gelijkgesteld met het einde van het kalenderjaar.
-
-2. De in [artikel 22, vierde lid, aanhef, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=22) bedoelde onverwijlde afdracht op aangifte vindt plaats bij de eerste afdracht op aangifte op de voet van [hoofdstuk IV van de Wet op de loonbelasting1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&hoofdstuk=IV), na de dagtekening van de gewijzigde S&O-verklaring.
+Vervallen
 
 ### Hoofdstuk VIIA. Arbo-afdrachtvermindering
 
