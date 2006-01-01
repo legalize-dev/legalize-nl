@@ -4,7 +4,7 @@ identifier: "BWBR0009717"
 country: "nl"
 rank: "zbo"
 publication_date: "2006-01-01"
-last_updated: "1998-10-01"
+last_updated: "2006-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009717"
 soort: "zbo"
@@ -52,7 +52,7 @@ boter: boter die is voorzien van of is bestemd om te worden voorzien van een rij
 
 rijksbotermerk: het rijksmerk, als bedoel in [artikel 4 van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0009799&artikel=4);
 
-handelsdocument: document dat door het COKZ wordt verstrekt, als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0009717&bijlage=1&z=1998-10-01&g=1998-10-01) bij dit keuringsreglement;
+handelsdocument: document dat door het COKZ wordt verstrekt, als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0009717&bijlage=1&z=2006-01-01&g=2006-01-01) bij dit keuringsreglement;
 
 grootverpakking: de verkoopeenheid die niet bestemd is als zodanig aan de eindverbruiker of aan instellingen te worden afgeleverd, anders dan een verzendverpakking;
 
@@ -80,15 +80,15 @@ bestuur: centraal bestuur van het COKZ.
 
 ##### Artikel 3
 
-1a. Verpakkingsmateriaal dat met een rijksbotermerk is bedrukt, als bedoeld in [artikel 2, eerste lid onder a,](https://wetten.overheid.nl/jci1.3:c:BWBR0009717&hoofdstuk=2&artikel=2&z=1998-10-01&g=1998-10-01) wordt door of namens het COKZ aan de bereider of ompakker van boter verstrekt, uitsluitend om te worden gebruikt voor het verpakken van de in zijn bedrijf bereide of omgepakte boter.
+1a. Verpakkingsmateriaal dat met een rijksbotermerk is bedrukt, als bedoeld in [artikel 2, eerste lid onder a,](https://wetten.overheid.nl/jci1.3:c:BWBR0009717&hoofdstuk=2&artikel=2&z=2006-01-01&g=2006-01-01) wordt door of namens het COKZ aan de bereider of ompakker van boter verstrekt, uitsluitend om te worden gebruikt voor het verpakken van de in zijn bedrijf bereide of omgepakte boter.
 
-b. Etiketten die met een rijksbotermerk zijn bedrukt, als bedoeld in [artikel 2, eerste lid onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0009717&hoofdstuk=2&artikel=2&z=1998-10-01&g=1998-10-01), worden door of namens het COKZ aan de bereider of ompakker van boter verstrekt, uitsluitend om te worden aangebracht op de verpakking van de in zijn bedrijf bereide of omgepakte boter.
+b. Etiketten die met een rijksbotermerk zijn bedrukt, als bedoeld in [artikel 2, eerste lid onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0009717&hoofdstuk=2&artikel=2&z=2006-01-01&g=2006-01-01), worden door of namens het COKZ aan de bereider of ompakker van boter verstrekt, uitsluitend om te worden aangebracht op de verpakking van de in zijn bedrijf bereide of omgepakte boter.
 
 2.a. Het is de bereider of ompakker van boter verboden verpakkingsmateriaal dat met een rijksbotermerk is bedrukt, te gebruiken voor het verpakken van boter, indien dit verpakkingsmateriaal niet rechtstreeks door of namens het COKZ aan hem of te zijnen behoeve is verstrekt.
 
 b. Het is de bereider of ompakker van boter verboden etiketten die met een rijksbotermerk zijn bedrukt op de verpakking van boter aan te brengen, indien deze etiketten niet rechtstreeks door of namens het COKZ aan hem of te zijnen behoeve zijn verstrekt.
 
-3. Indien het rijksbotermerk door middel van een zelfklevend etiket, als bedoeld in [artikel 2, eerste lid onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0009717&hoofdstuk=2&artikel=2&z=1998-10-01&g=1998-10-01) wordt aangebracht op de verpakking van boter, is de bereider of ompakker van boter verplicht dit rijksbotermerk aan te brengen uiterlijk op de dag van aflevering vanaf het bedrijf op zodanige wijze dat:
+3. Indien het rijksbotermerk door middel van een zelfklevend etiket, als bedoeld in [artikel 2, eerste lid onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0009717&hoofdstuk=2&artikel=2&z=2006-01-01&g=2006-01-01) wordt aangebracht op de verpakking van boter, is de bereider of ompakker van boter verplicht dit rijksbotermerk aan te brengen uiterlijk op de dag van aflevering vanaf het bedrijf op zodanige wijze dat:
 
 - a. in geval van grootverpakking en verzendverpakking de rijksbotermerken worden aangebracht in volgorde van nummering;
 
@@ -114,13 +114,13 @@ Door of namens het bestuur kunnen aanwijzingen worden gegeven omtrent de wijze w
 
 ##### Artikel 4
 
-1.a. Verpakkingsmateriaal, als bedoeld in [artikel 2, eerste lid onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0009717&hoofdstuk=2&artikel=2&z=1998-10-01&g=1998-10-01), dat reeds is gebruikt, mag niet opnieuw worden gebruikt.
+1.a. Verpakkingsmateriaal, als bedoeld in [artikel 2, eerste lid onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0009717&hoofdstuk=2&artikel=2&z=2006-01-01&g=2006-01-01), dat reeds is gebruikt, mag niet opnieuw worden gebruikt.
 
 b. De met een rijksbotermerk bedrukte etiketten die van de verpakking van boter zijn verwijderd of hebben losgelaten, mogen niet opnieuw worden gebruikt.
 
 c. Handelsdocumenten mogen niet opnieuw worden gebruikt.
 
-2.a. De bereider of ompakker van boter is verplicht onbruikbaar geworden rijksbotermerken, als bedoeld in [artikel 2, eerste lid onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0009717&hoofdstuk=2&artikel=2&z=1998-10-01&g=1998-10-01), bij het eerstvolgende bezoek af te geven aan het door of namens het COKZ met keuring en toezicht belaste personeel. Onder onbruikbaar geworden rijksbotermerken worden tevens de van de verpakking verwijderde of losgelaten merken begrepen.
+2.a. De bereider of ompakker van boter is verplicht onbruikbaar geworden rijksbotermerken, als bedoeld in [artikel 2, eerste lid onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0009717&hoofdstuk=2&artikel=2&z=2006-01-01&g=2006-01-01), bij het eerstvolgende bezoek af te geven aan het door of namens het COKZ met keuring en toezicht belaste personeel. Onder onbruikbaar geworden rijksbotermerken worden tevens de van de verpakking verwijderde of losgelaten merken begrepen.
 
 b. De bereider of ompakker van boter is verplicht onbruikbaar geworden verpakkingsmateriaal dat met een rijksbotermerk is bedrukt, aan te melden bij het COKZ onder vermelding van:
 
@@ -190,23 +190,23 @@ c. De bereider of ompakker van boter is verplicht onbruikbaar geworden handelsdo
 
 1. Het bestuur bepaalt:
 
-- a. de frequentie waarin en de wijze waarop het in [artikel 6, tweede lid onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0009717&hoofdstuk=3&paragraaf=A&artikel=6&z=1998-10-01&g=1998-10-01), bedoelde onderzoek wordt verricht;
+- a. de frequentie waarin en de wijze waarop het in [artikel 6, tweede lid onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0009717&hoofdstuk=3&paragraaf=A&artikel=6&z=2006-01-01&g=2006-01-01), bedoelde onderzoek wordt verricht;
 
-- b. het aantal monsters, dat ten behoeve van het in [artikel 6, tweede lid onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0009717&hoofdstuk=3&paragraaf=A&artikel=6&z=1998-10-01&g=1998-10-01), bedoelde onderzoek wordt genomen, de wijze waarop de monsters uit de aanwezige voorraad worden gekozen en de frequentie waarmee de monsters worden onderzocht op de onderscheiden hoedanigheden.
+- b. het aantal monsters, dat ten behoeve van het in [artikel 6, tweede lid onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0009717&hoofdstuk=3&paragraaf=A&artikel=6&z=2006-01-01&g=2006-01-01), bedoelde onderzoek wordt genomen, de wijze waarop de monsters uit de aanwezige voorraad worden gekozen en de frequentie waarmee de monsters worden onderzocht op de onderscheiden hoedanigheden.
 
 2. De directeur is bevoegd in naar zijn oordeel bijzondere gevallen af te wijken van het krachtens het eerste lid bepaalde.
 
 ##### Artikel 8
 
-1. De in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009717&hoofdstuk=3&paragraaf=A&artikel=6&z=1998-10-01&g=1998-10-01), bedoelde monsters worden genomen met inachtneming van het bij of krachtens dit reglement bepaalde, met dien verstande dat ten behoeve van het in [artikel 6, tweede lid onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0009717&hoofdstuk=3&paragraaf=A&artikel=6&z=1998-10-01&g=1998-10-01), bedoelde onderzoek een monster – zoveel mogelijk zonder vervorming van de boter – wordt genomen ter grootte van ca. 2,5 kg.
+1. De in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009717&hoofdstuk=3&paragraaf=A&artikel=6&z=2006-01-01&g=2006-01-01), bedoelde monsters worden genomen met inachtneming van het bij of krachtens dit reglement bepaalde, met dien verstande dat ten behoeve van het in [artikel 6, tweede lid onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0009717&hoofdstuk=3&paragraaf=A&artikel=6&z=2006-01-01&g=2006-01-01), bedoelde onderzoek een monster – zoveel mogelijk zonder vervorming van de boter – wordt genomen ter grootte van ca. 2,5 kg.
 
-2. Het in het eerste lid bedoelde monster van ca. 2,5 kg wordt op de keuringsplaats bewaard, gedurende ten minste twee weken bij een temperatuur van 14 ± 1 °C.
+2. Het in het eerste lid bedoelde monster van ca. 2,5 kg wordt op de keuringsplaats bewaard, gedurende een termijn van ten minste twee weken bij een temperatuur van 14±1 °C. Voor verpakking van 1 kg, of meer, niet omgepakte boter mag deze bewaartermijn van het monster evenwel worden beperkt totdat het monster een temperatuur heeft bereikt van 14±1 °C.
 
-3. Zo spoedig mogelijk na afloop van de in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009717&hoofdstuk=3&paragraaf=A&artikel=8&z=1998-10-01&g=1998-10-01), bedoelde termijn van twee weken wordt het monster van 2,5 kg onderzocht op de in [artikel 6, eerste lid onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0009717&hoofdstuk=3&paragraaf=A&artikel=6&z=1998-10-01&g=1998-10-01), genoemde criteria.
+3. Zo spoedig mogelijk na afloop van de in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009717&hoofdstuk=3&paragraaf=A&artikel=8&z=2006-01-01&g=2006-01-01), bedoelde termijn wordt het monster van 2,5 kg onderzocht op de in [artikel 6, eerste lid onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0009717&hoofdstuk=3&paragraaf=A&artikel=6&z=2006-01-01&g=2006-01-01), genoemde criteria.
 
 ##### Artikel 9
 
-De resultaten van de in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009717&hoofdstuk=3&paragraaf=A&artikel=6&z=1998-10-01&g=1998-10-01) bedoelde keuring wordt door middel van één of meer keuringsformulieren, houdende de bemonsteringsgegevens en de analyse- en/of keuringsresultaten, aan de bereider of de ompakker van boter bekend gemaakt.
+De resultaten van de in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009717&hoofdstuk=3&paragraaf=A&artikel=6&z=2006-01-01&g=2006-01-01) bedoelde keuring wordt door middel van één of meer keuringsformulieren, houdende de bemonsteringsgegevens en de analyse- en/of keuringsresultaten, aan de bereider of de ompakker van boter bekend gemaakt.
 
 #### B. De gevolgen van de keuringen van boter
 
@@ -274,7 +274,7 @@ De resultaten van de in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.
 
 ##### Artikel 12
 
-Voor de vaststelling of boter voldoet aan het bij het besluit of bij de regeling bepaalde moet worden gebruik gemaakt van de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009717&bijlage=2&z=1998-10-01&g=1998-10-01) opgenomen methoden van monsterneming en onderzoek. Indien voor een bepaald doel een methode ontbreekt, moet een door de directeur van het COKZ goedgekeurde en gevalideerde methode worden toegepast.
+Voor de vaststelling of boter voldoet aan het bij het besluit of bij de regeling bepaalde moet worden gebruik gemaakt van de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009717&bijlage=2&z=2006-01-01&g=2006-01-01) opgenomen methoden van monsterneming en onderzoek. Indien voor een bepaald doel een methode ontbreekt, moet een door de directeur van het COKZ goedgekeurde en gevalideerde methode worden toegepast.
 
 ### Hoofdstuk 5. Voorschriften inzake het maken van bezwaar tegen monsterneming en keuringsuitslagen
 
