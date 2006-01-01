@@ -149,39 +149,3 @@ Dit besluit treedt in werking op het tijdstip waarop [artikel I, onderdelen A, B
 Dit besluit wordt aangehaald als: Besluit ontheffingverlening exceptionele transporten.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 2a
-
-1. De Dienst Wegverkeer kan voor voertuigen waarvoor op grond van [artikel 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=3.5) of [3.8 van de Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=3.8) goedkeuring is vereist, ontheffing verlenen van overige bepalingen van [hoofdstuk 3 van de Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=3) en van [hoofdstuk 5 van die regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5), voor zover en voor zolang dat nuttig is voor het testen van verder geautomatiseerde functies in voertuigen en het daarmee ervaring opdoen in het verkeer.
-
-2. De Dienst Wegverkeer kan voor wijzigingen in de constructie van voertuigen, waarvoor op grond van [artikel 6.1, eerste lid, van de Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=6.1) goedkeuring is vereist voor toelating van het gewijzigde voertuig tot het verkeer op de weg, ontheffing verlenen van [artikel 6.4, eerste lid, onder a en b, van die regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=6.4), voor de in het eerste lid genoemde doelen.
-
-3. Voor zover dat voor het gebruik van de in het eerste en tweede lid bedoelde ontheffing noodzakelijk is, kan de Dienst Wegverkeer bij die ontheffing tevens ontheffing verlenen van daarbij aangegeven bepalingen van het [Reglement verkeersregels en verkeerstekens 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825).
-
-#### § 3. Gegevensverstrekking door de wegbeheerder aan de Dienst Wegverkeer
-
-#### § 4. Overleg
-
-#### § 5. Wijziging andere regelgeving
-
-#### § 6. Slotbepalingen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 6a
-
-Onze Minister vraagt voor het verlenen van een vergunning op grond van [artikel 149aa van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=149aa) toestemming aan de wegbeheerder voor zover het experiment plaatsvindt op wegen die niet vallen onder beheer van het Rijk.
-
-##### Artikel 6b
-
-1. De wegbeheerder verstrekt over de wegen die onder zijn beheer staan, gegevens betreffende de infrastructuur, alsmede overige informatie die van belang is voor het verlenen van een vergunning. Bij ministeriële regeling kunnen hierover nadere regels worden gesteld.
-
-2. De wegbeheerder draagt zorg voor de juistheid en volledigheid van de gegevens en voor onmiddellijke doorgifte van wijzigingen daarin.
-
-3. De wegbeheerder levert de gegevens aan op een door Onze Minister vastgestelde wijze.
-
-#### § 5. Wijziging andere regelgeving
-
-#### § 6. Slotbepalingen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
