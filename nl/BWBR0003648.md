@@ -4,7 +4,7 @@ identifier: "BWBR0003648"
 country: "nl"
 rank: "amvb"
 publication_date: "2015-11-01"
-last_updated: "1995-08-30"
+last_updated: "2006-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003648"
 soort: "AMvB"
@@ -55,7 +55,7 @@ Datum inwerking treding 1 januari 1984
 
 ##### Artikel 2
 
-Vennootschappen waarop [artikel 396 van boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=396) van toepassing is, zijn verplicht voor het exemplaar van de jaarrekening of van de balans met toelichting dat ten kantore van het handelsregister wordt neergelegd, papier te gebruiken van bladformaat A4 waarvan de rugzijde ongebruikt blijft en waarop de balans op één bladzijde wordt gesteld evenals in voorkomend geval de winst- en verliesrekening. Zij mogen bij gebruik van model D de gezamenlijke actiefposten en de gezamenlijke passiefposten onder elkaar plaatsen.
+Vervallen
 
 ##### Artikel 3
 
@@ -93,7 +93,7 @@ De posten worden afzonderlijk, overzichtelijk in een of meer kolommen ingevuld. 
 
 2. Posten mogen worden ingevoegd, voor zover hun inhoud niet wordt gedekt door een in het gekozen model vermelde post die niet als "overige" is aangeduid.
 
-3. De in de [artikelen 377 lid 1 onder **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=377) en [437 lid 5 onder **c** van boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=437) en lid 9 lid 1 onder **c** van het [Besluit jaarrekening banken](https://wetten.overheid.nl/jci1.3:c:BWBR0005980) bedoelde overige belastingen moeten in de winst- en verliesrekening worden opgenomen onmiddellijk voor de post resultaat na belastingen of onmiddellijk voor de post, bedoeld in [artikel 10 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003648&artikel=10&z=1995-08-30&g=1995-08-30).
+3. De in de [artikelen 377 lid 1 onder **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=377) en [437 lid 5 onder **c** van boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=437) en lid 9 lid 1 onder **c** van het [Besluit jaarrekening banken](https://wetten.overheid.nl/jci1.3:c:BWBR0005980) bedoelde overige belastingen moeten in de winst- en verliesrekening worden opgenomen onmiddellijk voor de post resultaat na belastingen of onmiddellijk voor de post, bedoeld in [artikel 10 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003648&artikel=10&z=2006-01-01&g=2006-01-01).
 
 4. Indien opbrengsten moeten worden verantwoord uit deelnemingen die niet overeenkomstig [artikel 389 van boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=389) zijn gewaardeerd, moeten deze afzonderlijk als eerste post van de financiële baten worden opgenomen onder de benaming: uitkeringen uit niet op netto-vermogenswaarde e.d. gewaardeerde deelnemingen. Waardeveranderingen op deze deelnemingen worden hetzij afzonderlijk opgenomen onmiddellijk na de waardeveranderingen van vorderingen die tot de vaste activa behoren en van effecten, hetzij met die post samengevoegd; in het laatste geval wordt de benaming zo nodig aangepast.
 
@@ -145,7 +145,7 @@ Voor zover de wettelijk vereiste handtekeningen op het oorspronkelijke exemplaar
 
 ##### Artikel 16
 
-1. Op banken als bedoeld in [artikel 415 van boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=415) zijn de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003648&artikel=3&z=1995-08-30&g=1995-08-30), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0003648&artikel=4&z=1995-08-30&g=1995-08-30), [5 leden 3 en 4, 6 lid 1, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0003648&artikel=5&z=1995-08-30&g=1995-08-30), [7 leden 2 en 3, 8 leden 1 en 3, 9, 10, 11 en 15](https://wetten.overheid.nl/jci1.3:c:BWBR0003648&artikel=7&z=1995-08-30&g=1995-08-30) van toepassing.
+1. Op banken als bedoeld in [artikel 415 van boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=415) zijn de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003648&artikel=3&z=2006-01-01&g=2006-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0003648&artikel=4&z=2006-01-01&g=2006-01-01), [5 leden 3 en 4, 6 lid 1, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0003648&artikel=5&z=2006-01-01&g=2006-01-01), [7 leden 2 en 3, 8 leden 1 en 3, 9, 10, 11 en 15](https://wetten.overheid.nl/jci1.3:c:BWBR0003648&artikel=7&z=2006-01-01&g=2006-01-01) van toepassing.
 
 2. De balans van een bank moet zijn ingericht overeenkomstig model K, de winst- en verliesrekening overeenkomstig de modellen L of M. Deze modellen zijn als bijlage bij dit besluit gevoegd.
 
@@ -165,7 +165,7 @@ Voor zover de wettelijk vereiste handtekeningen op het oorspronkelijke exemplaar
 
 ##### Artikel 16a
 
-1. Op verzekeringsmaatschappijen als bedoeld in [artikel 427 van boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=427) zijn de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003648&artikel=3&z=1995-08-30&g=1995-08-30), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0003648&artikel=4&z=1995-08-30&g=1995-08-30), [5 leden 3 en 4, 6 lid 1, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0003648&artikel=5&z=1995-08-30&g=1995-08-30), [7 leden 2 en 3, 8 leden 1 en 3, 9, 10, 11 en 15](https://wetten.overheid.nl/jci1.3:c:BWBR0003648&artikel=7&z=1995-08-30&g=1995-08-30) van toepassing.
+1. Op verzekeringsmaatschappijen als bedoeld in [artikel 427 van boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=427) zijn de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003648&artikel=3&z=2006-01-01&g=2006-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0003648&artikel=4&z=2006-01-01&g=2006-01-01), [5 leden 3 en 4, 6 lid 1, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0003648&artikel=5&z=2006-01-01&g=2006-01-01), [7 leden 2 en 3, 8 leden 1 en 3, 9, 10, 11 en 15](https://wetten.overheid.nl/jci1.3:c:BWBR0003648&artikel=7&z=2006-01-01&g=2006-01-01) van toepassing.
 
 2. De balans van een verzekeringsmaatschappij moet zijn ingericht overeenkomstig model N, de winst- en verliesrekening overeenkomstig model O. Voor de technische rekening schadeverzekering mag model P worden gebruikt, indien de beleggingen rechtstreeks aan het schadeverzekeringsbedrijf kunnen worden toegewezen. Deze modellen zijn als bijlage bij dit besluit gevoegd.
 
@@ -185,7 +185,7 @@ Voor zover de wettelijk vereiste handtekeningen op het oorspronkelijke exemplaar
 
 ##### Artikel 16b
 
-1. Op beleggingsmaatschappijen zijn de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003648&artikel=2&z=1995-08-30&g=1995-08-30) tot en met [4](https://wetten.overheid.nl/jci1.3:c:BWBR0003648&artikel=4&z=1995-08-30&g=1995-08-30), [5, leden 3 en 4, 6 lid 1, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0003648&artikel=5&z=1995-08-30&g=1995-08-30), [7 leden 1 tot en met 3, 8 tot en met 11, 12 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003648&artikel=7&z=1995-08-30&g=1995-08-30), en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0003648&artikel=15&z=1995-08-30&g=1995-08-30) van toepassing.
+1. Op beleggingsmaatschappijen zijn de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003648&artikel=2&z=2006-01-01&g=2006-01-01) tot en met [4](https://wetten.overheid.nl/jci1.3:c:BWBR0003648&artikel=4&z=2006-01-01&g=2006-01-01), [5, leden 3 en 4, 6 lid 1, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0003648&artikel=5&z=2006-01-01&g=2006-01-01), [7 leden 1 tot en met 3, 8 tot en met 11, 12 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003648&artikel=7&z=2006-01-01&g=2006-01-01), en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0003648&artikel=15&z=2006-01-01&g=2006-01-01) van toepassing.
 
 2. De balans van een beleggingsmaatschappij moet zijn gericht overeenkomstig model Q of R, de winst- en verliesrekening overeenkomstig model S. Deze modellen zijn als bijlage bij dit besluit gevoegd.
 
