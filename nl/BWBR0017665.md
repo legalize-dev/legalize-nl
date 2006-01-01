@@ -4,7 +4,7 @@ identifier: "BWBR0017665"
 country: "nl"
 rank: "wet"
 publication_date: "2006-01-01"
-last_updated: "2005-03-01"
+last_updated: "2006-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017665"
 soort: "wet"
@@ -49,26 +49,28 @@ Wijzigt de Wegenverkeerswet 1994.
 
 ##### Artikel II
 
+Wijzigt de Wijzigingswet Wegenverkeerswet 1994 (rijvaardigheid en rijbevoegdheid).
+
 Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel III
 
-De [artikelen 108, eerste lid, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=108), en [109, eerste lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=109), zoals die artikelen luidden vóór het tijdstip van inwerkingtreding van [artikel I, onderdelen D en E, van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017665&artikel=I&z=2005-03-01&g=2005-03-01), blijven van kracht ten aanzien van rijbewijzen, afgegeven door het daartoe bevoegde gezag in een andere Lid-Staat van de Europese Gemeenschappen of in een andere Staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, die voor dat tijdstip zijn geregistreerd in het rijbewijzenregister.
+De [artikelen 108, eerste lid, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=108), en [109, eerste lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=109), zoals die artikelen luidden vóór het tijdstip van inwerkingtreding van [artikel I, onderdelen D en E, van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017665&artikel=I&z=2006-01-01&g=2006-01-01), blijven van kracht ten aanzien van rijbewijzen, afgegeven door het daartoe bevoegde gezag in een andere Lid-Staat van de Europese Gemeenschappen of in een andere Staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, die voor dat tijdstip zijn geregistreerd in het rijbewijzenregister.
 
 ##### Artikel IV
 
-Dit onderdeel is nog niet inwerking getreden
+Ontheffingen verleend ingevolge [artikel 149, eerste lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=149), zoals deze bepaling luidde voor inwerkingtreding van deze wet, behouden hun geldigheid zolang hun geldigheidsduur niet is verstreken of zij niet zijn vervangen door een ontheffing verleend op grond van [artikel 149a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=149a).
 
 ##### Artikel V
 
-1. [Artikel I, onderdelen A, B, F tot en met H](https://wetten.overheid.nl/jci1.3:c:BWBR0017665&artikel=I&z=2005-03-01&g=2005-03-01), en [artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBR0017665&artikel=IV&z=2005-03-01&g=2005-03-01) treden in werking op een bij koninklijk besluit te bepalen tijdstip.
+1. [Artikel I, onderdelen A, B, F tot en met H](https://wetten.overheid.nl/jci1.3:c:BWBR0017665&artikel=I&z=2006-01-01&g=2006-01-01), en [artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBR0017665&artikel=IV&z=2006-01-01&g=2006-01-01) treden in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-2. [Artikel I, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0017665&artikel=I&z=2005-03-01&g=2005-03-01), treedt in werking met ingang van de eerste dag van de derde kalendermaand na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst.
+2. [Artikel I, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0017665&artikel=I&z=2006-01-01&g=2006-01-01), treedt in werking met ingang van de eerste dag van de derde kalendermaand na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst.
 
-3. Onder toepassing van [artikel 16 van de Tijdelijke referendumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0012701&artikel=16) treden [artikel I, onderdelen D en E](https://wetten.overheid.nl/jci1.3:c:BWBR0017665&artikel=I&z=2005-03-01&g=2005-03-01), en [artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0017665&artikel=III&z=2005-03-01&g=2005-03-01) in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst.
+3. Onder toepassing van [artikel 16 van de Tijdelijke referendumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0012701&artikel=16) treden [artikel I, onderdelen D en E](https://wetten.overheid.nl/jci1.3:c:BWBR0017665&artikel=I&z=2006-01-01&g=2006-01-01), en [artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0017665&artikel=III&z=2006-01-01&g=2006-01-01) in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst.
 
-4. [Artikel II, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0017665&artikel=II&z=2005-03-01&g=2005-03-01), treedt in werking op het tijdstip waarop [artikel I, onderdeel X, van de wet van 18 april 2002 tot wijziging van de Wegenverkeerswet 1994 met betrekking tot de rijvaardigheid en rijbevoegdheid](https://wetten.overheid.nl/jci1.3:c:BWBR0013617&artikel=I) (Stb. 250) in werking treedt.
+4. [Artikel II, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0017665&artikel=II&z=2006-01-01&g=2006-01-01), treedt in werking op het tijdstip waarop [artikel I, onderdeel X, van de wet van 18 april 2002 tot wijziging van de Wegenverkeerswet 1994 met betrekking tot de rijvaardigheid en rijbevoegdheid](https://wetten.overheid.nl/jci1.3:c:BWBR0013617&artikel=I) (Stb. 250) in werking treedt.
 
-5. [Artikel II, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0017665&artikel=I&z=2005-03-01&g=2005-03-01), treedt in werking op het tijdstip waarop [artikel I, onderdeel EE, van de wet van 18 april 2002 tot wijziging van de Wegenverkeerswet 1994 met betrekking tot de rijvaardigheid en rijbevoegdheid](https://wetten.overheid.nl/jci1.3:c:BWBR0013617&artikel=I) (Stb. 250) in werking treedt.
+5. [Artikel II, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0017665&artikel=I&z=2006-01-01&g=2006-01-01), treedt in werking op het tijdstip waarop [artikel I, onderdeel EE, van de wet van 18 april 2002 tot wijziging van de Wegenverkeerswet 1994 met betrekking tot de rijvaardigheid en rijbevoegdheid](https://wetten.overheid.nl/jci1.3:c:BWBR0013617&artikel=I) (Stb. 250) in werking treedt.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
