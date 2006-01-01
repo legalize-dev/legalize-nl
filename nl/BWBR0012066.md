@@ -4,7 +4,7 @@ identifier: "BWBR0012066"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2005-09-09"
+last_updated: "2006-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012066"
 soort: "AMvB"
@@ -58,7 +58,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 2. Heffingsgrondslagen; keuzerecht voor buitenlandse belastingplichtigen; vermindering verschuldigde inkomstenbelasting bij kiezende belastingplichtige
 
-1. Aan een kiezende belastingplichtige wordt volgens de [artikelen 3 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=2&artikel=3&z=2005-09-09&g=2005-09-09) een vermindering op de verschuldigde inkomstenbelasting verleend voor de belasting die betrekking heeft op niet of tegen een beperkt tarief in Nederland te belasten inkomensbestanddelen.
+1. Aan een kiezende belastingplichtige wordt volgens de [artikelen 3 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=2&artikel=3&z=2006-01-01&g=2006-01-01) een vermindering op de verschuldigde inkomstenbelasting verleend voor de belasting die betrekking heeft op niet of tegen een beperkt tarief in Nederland te belasten inkomensbestanddelen.
 
 2. Onder een kiezende belastingplichtige wordt verstaan:
 
@@ -66,11 +66,11 @@ Hebben goedgevonden en verstaan:
 
 - b. een buitenlandse belastingplichtige, die volgens [artikel 2.5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.5) kiest voor toepassing van de regels van de wet voor binnenlandse belastingplichtigen.
 
-3. Voor de toepassing van dit artikel en de [artikelen 3 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=2&artikel=3&z=2005-09-09&g=2005-09-09) blijft te conserveren inkomen en de daarover verschuldigde belasting buiten beschouwing.
+3. Voor de toepassing van dit artikel en de [artikelen 3 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=2&artikel=3&z=2006-01-01&g=2006-01-01) blijft te conserveren inkomen en de daarover verschuldigde belasting buiten beschouwing.
 
 ##### Artikel 3. Heffingsgrondslagen; keuzerecht voor buitenlandse belastingplichtigen; vermindering bij inkomen uit werk en woning
 
-1. De vermindering vanwege in het inkomen uit werk en woning begrepen niet of tegen een beperkt tarief in Nederland te belasten inkomensbestanddelen is gelijk aan het bedrag dat tot de belasting die zonder de toepassing van de [artikelen 2 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=2&artikel=2&z=2005-09-09&g=2005-09-09)volgens de wet over het belastbare inkomen uit werk en woning verschuldigd zou zijn, in dezelfde verhouding staat als het gezamenlijke bedrag van de niet of tegen een beperkt tarief in Nederland te belasten bestanddelen van het noemerinkomen staat tot het noemerinkomen.
+1. De vermindering vanwege in het inkomen uit werk en woning begrepen niet of tegen een beperkt tarief in Nederland te belasten inkomensbestanddelen is gelijk aan het bedrag dat tot de belasting die zonder de toepassing van de [artikelen 2 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=2&artikel=2&z=2006-01-01&g=2006-01-01)volgens de wet over het belastbare inkomen uit werk en woning verschuldigd zou zijn, in dezelfde verhouding staat als het gezamenlijke bedrag van de niet of tegen een beperkt tarief in Nederland te belasten bestanddelen van het noemerinkomen staat tot het noemerinkomen.
 
 2. Onder het gezamenlijke bedrag van de niet of tegen een beperkt tarief in Nederland te belasten bestanddelen van het noemerinkomen wordt verstaan: de som van:
 
@@ -92,21 +92,21 @@ Bij een binnenlandse belastingplichtige die niet gedurende het gehele kalenderja
 
 6. Onder de belasting die zonder de toepassing van deze afdeling volgens de wet over het belastbare inkomen uit werk en woning verschuldigd zou zijn, wordt verstaan: de over het kalenderjaar berekende belasting op het belastbare inkomen uit werk en woning, bedoeld in [artikel 2.7, eerste lid, aanhef en onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.7), verminderd met een evenredig deel van het belastingdeel van de heffingskorting. Het belastingdeel van de heffingskorting wordt hierbij naar evenredigheid verdeeld over de, zonder heffingskorting, berekende belasting op het belastbare inkomen uit werk en woning, het belastbare inkomen uit aanmerkelijk belang en het belastbare inkomen uit sparen en beleggen.
 
-##### Artikel 4. Heffingsgrondslagen; keuzerecht voor buitenlandse belastingplichtigen; verrekening dividendbelasting bij inkomen uit werk en woning
+##### Artikel 4. Heffingsgrondslagen; keuzerecht voor buitenlandse belastingplichtigen; verrekening dividendbelasting alsmede bronbelasting op inkomsten uit spaargelden bij inkomen uit werk en woning
 
-De dividendbelasting geheven over tot het inkomen uit werk en woning behorende dividenden die niet tot het in [afdeling 7.2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&afdeling=7.2) omschreven inkomen uit werk en woning in Nederland behoren, wordt niet verrekend met de door de kiezende belastingplichtige verschuldigde inkomstenbelasting.
+De dividendbelasting geheven over tot het inkomen uit werk en woning behorende dividenden die niet tot het in [afdeling 7.2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&afdeling=7.2) omschreven inkomen uit werk en woning in Nederland behoren, wordt niet verrekend met de door de kiezende belastingplichtige verschuldigde inkomstenbelasting. De eerste volzin is van overeenkomstige toepassing met betrekking tot bronbelasting, bedoeld in [artikel 9.2, eerste lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=9.2) en bronbelasting, bedoeld in het [tiende lid van dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=9.2).
 
 ##### Artikel 5. Heffingsgrondslagen; keuzerecht voor buitenlandse belastingplichtigen; doorschuifregeling
 
-1. Voorzover het gezamenlijke bedrag van de niet of tegen een beperkt tarief in Nederland te belasten bestanddelen van het noemerinkomen – berekend met inachtneming van de verrekening volgens [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=2&artikel=6&z=2005-09-09&g=2005-09-09) – groter is dan het noemerinkomen, wordt het overgebracht naar het volgend jaar. Deze overbrenging vindt alleen plaats indien het naar het volgend jaar over te brengen bedrag door de inspecteur is vastgesteld bij voor bezwaar vatbare beschikking.
+1. Voorzover het gezamenlijke bedrag van de niet of tegen een beperkt tarief in Nederland te belasten bestanddelen van het noemerinkomen – berekend met inachtneming van de verrekening volgens [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=2&artikel=6&z=2006-01-01&g=2006-01-01) – groter is dan het noemerinkomen, wordt het overgebracht naar het volgend jaar. Deze overbrenging vindt alleen plaats indien het naar het volgend jaar over te brengen bedrag door de inspecteur is vastgesteld bij voor bezwaar vatbare beschikking.
 
-2. In het jaar waarnaar de overbrenging plaatsvindt, wordt voor de berekening van de vermindering volgens [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=2&artikel=3&z=2005-09-09&g=2005-09-09) het gezamenlijke bedrag van de niet of tegen een beperkt tarief in Nederland te belasten bestanddelen van het noemerinkomen verhoogd met het over te brengen bedrag aan niet of tegen een beperkt tarief in Nederland te belasten bestanddelen van het noemerinkomen. Het noemerinkomen wordt niet verhoogd.
+2. In het jaar waarnaar de overbrenging plaatsvindt, wordt voor de berekening van de vermindering volgens [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=2&artikel=3&z=2006-01-01&g=2006-01-01) het gezamenlijke bedrag van de niet of tegen een beperkt tarief in Nederland te belasten bestanddelen van het noemerinkomen verhoogd met het over te brengen bedrag aan niet of tegen een beperkt tarief in Nederland te belasten bestanddelen van het noemerinkomen. Het noemerinkomen wordt niet verhoogd.
 
 3. [Artikel 26 van het Besluit voorkoming dubbele belasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&artikel=26) is van overeenkomstige toepassing.
 
 ##### Artikel 6. Heffingsgrondslagen; keuzerecht voor buitenlandse belastingplichtigen; inhaalregeling
 
-1. Indien het gezamenlijke bedrag van de niet of tegen een beperkt tarief in Nederland te belasten bestanddelen van het noemerinkomen – berekend met inachtneming van de overbrenging volgens [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=2&artikel=5&z=2005-09-09&g=2005-09-09) – negatief is, wordt het voor de toepassing van de vermindering volgens [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=2&artikel=3&z=2005-09-09&g=2005-09-09) aangemerkt als een negatief niet of tegen een beperkt tarief in Nederland te belasten bestanddeel van het noemerinkomen van het volgend jaar. De inspecteur stelt het naar het volgend jaar over te brengen bedrag vast bij voor bezwaar vatbare beschikking.
+1. Indien het gezamenlijke bedrag van de niet of tegen een beperkt tarief in Nederland te belasten bestanddelen van het noemerinkomen – berekend met inachtneming van de overbrenging volgens [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=2&artikel=5&z=2006-01-01&g=2006-01-01) – negatief is, wordt het voor de toepassing van de vermindering volgens [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=2&artikel=3&z=2006-01-01&g=2006-01-01) aangemerkt als een negatief niet of tegen een beperkt tarief in Nederland te belasten bestanddeel van het noemerinkomen van het volgend jaar. De inspecteur stelt het naar het volgend jaar over te brengen bedrag vast bij voor bezwaar vatbare beschikking.
 
 2. De [artikelen 26](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&artikel=26) en [27 van het Besluit voorkoming dubbele belasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&artikel=27) zijn van overeenkomstige toepassing.
 
@@ -120,7 +120,7 @@ De dividendbelasting geheven over tot het inkomen uit werk en woning behorende d
 
 - b. de inkomensbestanddelen die daartoe wel behoren maar waarover het heffingsrecht op grond van een regeling ter voorkoming van dubbele belasting niet of tot een beperkt tarief aan Nederland is toegewezen.
 
-[Artikel 3, tweede lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=2&artikel=3&z=2005-09-09&g=2005-09-09), is van overeenkomstige toepassing.
+[Artikel 3, tweede lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=2&artikel=3&z=2006-01-01&g=2006-01-01), is van overeenkomstige toepassing.
 
 3. De vermindering van het eerste lid wordt bij de aanwezigheid van in het tweede lid, onderdeel b, bedoelde inkomensbestanddelen die Nederland volgens regelingen ter voorkoming van dubbele belasting slechts tegen een beperkt tarief mag belasten, verlaagd met de belasting die Nederland volgens die regelingen over de inkomensbestanddelen mag heffen.
 
@@ -132,11 +132,11 @@ De dividendbelasting geheven over tot het inkomen uit werk en woning behorende d
 
 - b. verminderd met de – met overeenkomstige toepassing van [afdeling 4.10 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&afdeling=4.10) – te verrekenen negatieve bedragen aan noemerinkomen uit andere jaren.
 
-6. Onder de belasting die zonder de toepassing van deze afdeling volgens de wet over het belastbare inkomen uit aanmerkelijk belang verschuldigd zou zijn, wordt verstaan: de over het kalenderjaar berekende belasting op het belastbare inkomen uit aanmerkelijk belang als bedoeld in [artikel 2.7, eerste lid, aanhef en onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.7) verminderd met een evenredig deel van het belastingdeel van de heffingskorting. [Artikel 3, zesde lid, tweede en derde volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=2&artikel=3&z=2005-09-09&g=2005-09-09), is van overeenkomstige toepassing.
+6. Onder de belasting die zonder de toepassing van deze afdeling volgens de wet over het belastbare inkomen uit aanmerkelijk belang verschuldigd zou zijn, wordt verstaan: de over het kalenderjaar berekende belasting op het belastbare inkomen uit aanmerkelijk belang als bedoeld in [artikel 2.7, eerste lid, aanhef en onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.7) verminderd met een evenredig deel van het belastingdeel van de heffingskorting. [Artikel 3, zesde lid, tweede en derde volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=2&artikel=3&z=2006-01-01&g=2006-01-01), is van overeenkomstige toepassing.
 
-##### Artikel 8. Heffingsgrondslagen; keuzerecht voor buitenlandse belastingplichtigen; verrekening dividendbelasting bij inkomen uit aanmerkelijk belang
+##### Artikel 8. Heffingsgrondslagen; keuzerecht voor buitenlandse belastingplichtigen; verrekening dividendbelasting alsmede bronbelasting op inkomsten uit spaargelden bij inkomen uit aanmerkelijk belang
 
-De dividendbelasting geheven over tot het inkomen uit aanmerkelijk belang behorende dividenden die niet tot het in [afdeling 7.3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&afdeling=7.3) omschreven inkomen uit aanmerkelijk belang in een in Nederland gevestigde vennootschap behoren, wordt niet verrekend met de door de kiezende belastingplichtige verschuldigde inkomstenbelasting.
+De dividendbelasting geheven over tot het inkomen uit aanmerkelijk belang behorende dividenden die niet tot het in [afdeling 7.3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&afdeling=7.3) omschreven inkomen uit aanmerkelijk belang in een in Nederland gevestigde vennootschap behoren, wordt niet verrekend met de door de kiezende belastingplichtige verschuldigde inkomstenbelasting. De eerste volzin is van overeenkomstige toepassing met betrekking tot bronbelasting, bedoeld in [artikel 9.2, eerste lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=9.2) en bronbelasting, bedoeld in het [tiende lid van dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=9.2).
 
 ##### Artikel 9. Heffingsgrondslagen; keuzerecht voor buitenlandse belastingplichtigen; vermindering bij voordeel uit sparen en beleggen
 
@@ -152,13 +152,13 @@ De dividendbelasting geheven over tot het inkomen uit aanmerkelijk belang behore
 
 Bij een belastingplichtige die niet het gehele jaar in Nederland woont, wordt de naar tijdsgelang herleide gemiddelde waarde van de rendementsgrondslag buiten Nederland over de periode dat hij niet in Nederland woonde, in aanmerking genomen. Gedeelten van kalendermaanden worden hierbij als volle maand beschouwd.
 
-4. Onder de belasting die zonder de toepassing van deze afdeling volgens de wet over het belastbare inkomen uit sparen en beleggen verschuldigd zou zijn, wordt verstaan: de over het kalenderjaar berekende belasting op het belastbare inkomen uit sparen en beleggen als bedoeld in [artikel 2.7, eerste lid, aanhef en onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.7) verminderd met een evenredig deel van het belastingdeel van de heffingskorting. [Artikel 3, zesde lid, tweede en derde volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=2&artikel=3&z=2005-09-09&g=2005-09-09), is van overeenkomstige toepassing.
+4. Onder de belasting die zonder de toepassing van deze afdeling volgens de wet over het belastbare inkomen uit sparen en beleggen verschuldigd zou zijn, wordt verstaan: de over het kalenderjaar berekende belasting op het belastbare inkomen uit sparen en beleggen als bedoeld in [artikel 2.7, eerste lid, aanhef en onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.7) verminderd met een evenredig deel van het belastingdeel van de heffingskorting. [Artikel 3, zesde lid, tweede en derde volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=2&artikel=3&z=2006-01-01&g=2006-01-01), is van overeenkomstige toepassing.
 
 5. [Artikel 5.3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.3) is bij het overlijden van de belastingplichtige van overeenkomstige toepassing.
 
-##### Artikel 10. Heffingsgrondslagen; keuzerecht voor buitenlandse belastingplichtigen; verrekening dividendbelasting bij voordeel uit sparen en beleggen
+##### Artikel 10. Heffingsgrondslagen; keuzerecht voor buitenlandse belastingplichtigen; verrekening dividendbelasting alsmede bronbelasting op inkomsten uit spaargelden bij voordeel uit sparen en beleggen
 
-De dividendbelasting geheven over dividenden uit rechten die tot de bezittingen, bedoeld in [artikel 5.3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.3), behoren, wordt niet verrekend met de door de kiezende belastingplichtige verschuldigde inkomstenbelasting.
+De dividendbelasting geheven over dividenden uit rechten die tot de bezittingen, bedoeld in [artikel 5.3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.3), behoren, wordt niet verrekend met de door de kiezende belastingplichtige verschuldigde inkomstenbelasting. De eerste volzin is van overeenkomstige toepassing met betrekking tot bronbelasting, bedoeld in [artikel 9.2, eerste lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=9.2) en bronbelasting, bedoeld in het [tiende lid van dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=9.2).
 
 ##### Artikel 11. Heffingsgrondslagen; keuzerecht voor in het buitenland geworven deskundigen
 
@@ -204,24 +204,34 @@ De waarde in het economische verkeer van opgebouwde aanspraken uit een pensioenr
 
 - a. bij een aan een beschikbare premie gerelateerde levenslange inkomensvoorziening bij ouderdom: door de op het kalenderjaar betrekking hebbende premies te vermenigvuldigen met de volgende factor:
 
-| indien de belastingplichtige bij het begin van het kalenderjaar | factor |
+| Indien de belastingplichtige bij het begin van het kalenderjaar | factor |
 | --- | --- |
-| 15 jaar of ouder, doch jonger dan 20 jaar is | 0,30 |
-| 20 jaar of ouder, doch jonger dan 25 jaar is | 0,24 |
-| 25 jaar of ouder, doch jonger dan 30 jaar is | 0,20 |
-| 30 jaar of ouder, doch jonger dan 35 jaar is | 0,17 |
-| 35 jaar of ouder, doch jonger dan 40 jaar is | 0,14 |
-| 40 jaar of ouder, doch jonger dan 45 jaar is | 0,12 |
-| 45 jaar of ouder, doch jonger dan 50 jaar is | 0,10 |
-| 50 jaar of ouder, doch jonger dan 55 jaar is | 0,08 |
-| 55 jaar of ouder, doch jonger dan 60 jaar is | 0,07 |
-| 60 jaar of ouder, doch jonger dan 65 jaar is | 0,05; |
+| 15 jaar of ouder, doch jonger dan 20 jaar is | 0,36 |
+| 20 jaar of ouder, doch jonger dan 25 jaar is | 0,30 |
+| 25 jaar of ouder, doch jonger dan 30 jaar is | 0,25 |
+| 30 jaar of ouder, doch jonger dan 35 jaar is | 0,21 |
+| 35 jaar of ouder, doch jonger dan 40 jaar is | 0,17 |
+| 40 jaar of ouder, doch jonger dan 45 jaar is | 0,14 |
+| 45 jaar of ouder, doch jonger dan 50 jaar is | 0,12 |
+| 50 jaar of ouder, doch jonger dan 55 jaar is | 0,10 |
+| 55 jaar of ouder, doch jonger dan 60 jaar is | 0,08 |
+| 60 jaar of ouder, doch jonger dan 65 jaar is | 0,07; |
 
 - b. bij overige aan het inkomen gerelateerde levenslange inkomensvoorzieningen bij ouderdom: door het opbouwpercentage van het kalenderjaar van de aan de belastingplichtige toekomende pensioenaanspraken te vermenigvuldigen met de pensioengrondslag van het kalenderjaar.
 
 3. De opgave van de pensioenaangroei wordt door de verzekeraar binnen tien maanden na afloop van het kalenderjaar waarop de pensioenaangroei betrekking heeft, aan de belastingplichtige verstrekt.
 
 4. De pensioengrondslag, bedoeld in het tweede lid, onderdeel b, wordt bepaald door het pensioengevend inkomen van het kalenderjaar te verminderen met het in het kalenderjaar ingevolge de pensioenregeling in aanmerking genomen bedrag ter zake van uitkeringen als bedoeld in [artikel 9 van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=9).
+
+5. Ingeval het pensioen op grond van de in de pensioenregeling vastgestelde ingangsdatum eerder ingaat dan bij het bereiken van de 65-jarige leeftijd en er geen sprake is van een aan een beschikbare premie gerelateerde levenslange inkomensvoorziening bij ouderdom, wordt de in het eerste lid bedoelde aangroei gesteld op de met toepassing van het tweede lid, onderdeel b, bepaalde aangroei, vermenigvuldigd met de volgende factor:
+
+| In de pensioenregeling vastgestelde ingangsdatum | factor |
+| --- | --- |
+| 64 jaar of ouder, doch jonger dan 65 jaar | 2/1,85 |
+| 63 jaar of ouder, doch jonger dan 64 jaar | 2/1,71 |
+| 62 jaar of ouder, doch jonger dan 63 jaar | 2/1,59 |
+| 61 jaar of ouder, doch jonger dan 62 jaar | 2/1,48 |
+| jonger dan 61 jaar | 2/1,38. |
 
 ### Hoofdstuk 4. Heffingsgrondslag bij aanmerkelijk belang ([Hoofdstuk 4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=4))
 
@@ -259,13 +269,13 @@ Onder natuurterreinen als bedoeld in [artikel 5.7 van de wet](https://wetten.ove
 
 ##### Artikel 18. Waardering; waardering genotsrechten
 
-1. De waarde van een genotsrecht als bedoeld in [artikel 5.22, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.22) wordt gesteld op het overeenkomstig [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=5&artikel=19&z=2005-09-09&g=2005-09-09) tot kapitaal gebrachte bedrag van de jaarlijkse voordelen uit de gerechtigdheid.
+1. De waarde van een genotsrecht als bedoeld in [artikel 5.22, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.22) wordt gesteld op het overeenkomstig [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=5&artikel=19&z=2006-01-01&g=2006-01-01) tot kapitaal gebrachte bedrag van de jaarlijkse voordelen uit de gerechtigdheid.
 
 2. Voor de toepassing van het eerste lid worden de jaarlijkse voordelen gesteld op 4% van de waarde van hetgeen aan het genotsrecht is onderworpen, naar het tijdstip waarop de waardering van het genotsrecht plaatsvindt.
 
 ##### Artikel 19. Waardering; aanvullende regels; waardering periodieke uitkeringen
 
-1. De waarde van een periodieke uitkering in geld afhankelijk van het leven van één mannelijke persoon, wordt gesteld op het jaarlijkse bedrag vermenigvuldigd met:
+1. De waarde van een levenslange, ingegane periodieke uitkering in geld afhankelijk van het leven van één mannelijke persoon, wordt gesteld op het jaarlijkse bedrag vermenigvuldigd met:
 
 | 22, wanneer degene | jonger dan 20 jaar is, |
 | --- | --- |
@@ -286,29 +296,33 @@ Onder natuurterreinen als bedoeld in [artikel 5.7 van de wet](https://wetten.ove
 | 2, | 90 jaar of ouder, doch jonger dan 95 jaar is, |
 | 1, | 95 jaar of ouder is. |
 
-2. De waarde van een periodieke uitkering in geld die van het leven van één mannelijke persoon afhankelijk is en die na een bepaalde tijd vervalt, wordt gesteld op het jaarlijkse bedrag, vermenigvuldigd met het aantal jaren gedurende welke de uitkering moet plaatshebben, iedere vermenigvuldigingsuitkomst vermenigvuldigd met een van de volgende factoren:
+2. De waarde van een ingegane periodieke uitkering in geld die van het leven van één mannelijke persoon afhankelijk is en die na een bepaalde tijd vervalt, wordt gesteld op het jaarlijkse bedrag, en vervolgens voor ieder vijftal jaren of, zo dat minder is, het aantal jaren gedurende welke de uitkering (nog) moet plaatshebben, vermenigvuldigd met vijf onderscheidenlijk het aantal jaren gedurende welke de uitkering (nog) moet plaatshebben, en vermenigvuldigd met de in de volgende tabel opgenomen factor:
 
-| leeftijdsklasse van genoemde persoon | 0–19 | 20–24 | 25–29 | 30–34 | 35–39 | 40–44 | 45–49 | 50–54 | 55–59 | 60–64 | 65–69 | 70–74 | 75–79 | 80–84 | 85–89 | 90–94 | 95– |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| het eerste vijftal jaren | 0,91 | 0,91 | 0,91 | 0,91 | 0,90 | 0,90 | 0,90 | 0,89 | 0,88 | 0,87 | 0,84 | 0,80 | 0,74 | 0,65 | 0,54 | 0,40 | 0,20 |
-| het tweede vijftal jaren | 0,74 | 0,74 | 0,74 | 0,74 | 0,74 | 0,73 | 0,72 | 0,70 | 0,67 | 0,62 | 0,54 | 0,45 | 0,33 | 0,20 | 0,08 | 0,02 | 0,00 |
-| het derde vijftal jaren | 0,61 | 0,61 | 0,61 | 0,60 | 0,59 | 0,58 | 0,56 | 0,53 | 0,48 | 0,40 | 0,30 | 0,20 | 0,10 | 0,03 | 0,00 |   |   |
-| het vierde vijftal jaren | 0,50 | 0,50 | 0,49 | 0,49 | 0,48 | 0,46 | 0,43 | 0,38 | 0,31 | 0,22 | 0,14 | 0,06 | 0,02 | 0,00 |   |   |   |
-| het vijfde vijftal jaren | 0,41 | 0,40 | 0,40 | 0,39 | 0,37 | 0,35 | 0,30 | 0,24 | 0,17 | 0,10 | 0,04 | 0,01 | 0,00 |   |   |   |   |
-| het zesde vijftal jaren | 0,33 | 0,33 | 0,32 | 0,30 | 0,28 | 0,25 | 0,20 | 0,14 | 0,08 | 0,03 | 0,01 | 0,00 |   |   |   |   |   |
-| het zevende vijftal jaren | 0,27 | 0,26 | 0,25 | 0,23 | 0,20 | 0,16 | 0,11 | 0,06 | 0,02 | 0,00 |   |   |   |   |   |   |   |
-| het achtste vijftal jaren | 0,21 | 0,20 | 0,19 | 0,16 | 0,13 | 0,09 | 0,05 | 0,02 | 0,00 |   |   |   |   |   |   |   |   |
-| het negende vijftal jaren | 0,17 | 0,15 | 0,13 | 0,11 | 0,07 | 0,04 | 0,01 | 0,00 |   |   |   |   |   |   |   |   |   |
-| het tiende vijftal jaren | 0,13 | 0,11 | 0,09 | 0,06 | 0,03 | 0,01 | 0,00 |   |   |   |   |   |   |   |   |   |   |
-| het elfde vijftal jaren | 0,09 | 0,07 | 0,05 | 0,03 | 0,01 | 0,00 |   |   |   |   |   |   |   |   |   |   |   |
-| het twaalfde vijftal jaren | 0,06 | 0,04 | 0,02 | 0,01 | 0,00 |   |   |   |   |   |   |   |   |   |   |   |   |
-| de volgende jaren | 0,03 | 0,02 | 0,01 | 0,00 |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| Leeftijdsklasse van genoemde persoon met daaronder de factoren | 0–19 | 20–24 | 25–29 | 30–34 | 35–39 | 40–44 | 45–49 | 50–54 | 55–59 | 60–64 | 65–69 | 70–74 | 75–79 | 80–84 | 85–89 | 90–94 | 95–100 | 100– |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| het eerste vijftal jaren | 0,91 | 0,91 | 0,91 | 0,91 | 0,90 | 0,90 | 0,90 | 0,89 | 0,88 | 0,87 | 0,84 | 0,80 | 0,74 | 0,65 | 0,54 | 0,40 | 0,27 | 0,18 |
+| het tweede vijftal jaren | 0,74 | 0,74 | 0,74 | 0,74 | 0,74 | 0,73 | 0,72 | 0,70 | 0,67 | 0,62 | 0,54 | 0,45 | 0,33 | 0,20 | 0,08 | 0,02 |   |   |
+| het derde vijftal jaren | 0,61 | 0,61 | 0,61 | 0,60 | 0,59 | 0,58 | 0,56 | 0,53 | 0,48 | 0,40 | 0,30 | 0,20 | 0,10 | 0,03 |   |   |   |   |
+| het vierde vijftal jaren | 0,50 | 0,50 | 0,49 | 0,49 | 0,48 | 0,46 | 0,43 | 0,38 | 0,31 | 0,22 | 0,14 | 0,06 | 0,02 |   |   |   |   |   |
+| het vijfde vijftal jaren | 0,41 | 0,40 | 0,40 | 0,39 | 0,37 | 0,35 | 0,30 | 0,24 | 0,17 | 0,10 | 0,04 | 0,01 |   |   |   |   |   |   |
+| het zesde vijftal jaren | 0,33 | 0,33 | 0,32 | 0,30 | 0,28 | 0,25 | 0,20 | 0,14 | 0,08 | 0,03 | 0,01 |   |   |   |   |   |   |   |
+| het zevende vijftal jaren | 0,27 | 0,26 | 0,25 | 0,23 | 0,20 | 0,16 | 0,11 | 0,06 | 0,02 |   |   |   |   |   |   |   |   |   |
+| het achtste vijftal jaren | 0,21 | 0,20 | 0,19 | 0,16 | 0,13 | 0,09 | 0,05 | 0,02 |   |   |   |   |   |   |   |   |   |   |
+| het negende vijftal jaren | 0,17 | 0,15 | 0,13 | 0,11 | 0,07 | 0,04 | 0,01 |   |   |   |   |   |   |   |   |   |   |   |
+| het tiende vijftal jaren | 0,13 | 0,11 | 0,09 | 0,06 | 0,03 | 0,01 |   |   |   |   |   |   |   |   |   |   |   |   |
+| het elfde vijftal jaren | 0,09 | 0,07 | 0,05 | 0,03 | 0,01 |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| het twaalfde vijftal jaren | 0,06 | 0,04 | 0,02 | 0,01 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| de volgende jaren | 0,03 | 0,02 | 0,01 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 
-De overeenkomstig de vorige volzin vastgestelde waarde kan niet hoger zijn dan de waarde die zou zijn verkregen als de uitkering niet tevens na een bepaalde tijd zou vervallen.
+De overeenkomstig de eerste volzin vastgestelde waarde wordt niet hoger gesteld dan de waarde die zou zijn verkregen als de uitkering levenslang zou zijn.
 
-3. De waarde van een periodieke uitkering in geld voor onbepaalde tijd, die niet van het leven afhankelijk is, wordt gesteld op het vierentwintigvoud van het jaarlijkse bedrag.
+3. De waarde van een levenslange periodieke uitkering in geld die nog niet is ingegaan en die van het leven van één mannelijke persoon afhankelijk is, wordt vastgesteld overeenkomstig het tweede lid, waarbij voor het aantal jaren dat de periodieke uitkering nog niet is ingegaan, het jaarlijkse bedrag op nihil wordt gesteld en na het twaalfde vijftal jaren geen jaren meer in aanmerking worden genomen. De aldus vastgestelde waarde wordt niet hoger gesteld dan de waarde die zou zijn verkregen als de uitkering reeds ingegaan zou zijn.
 
-4. De waarde van een periodieke uitkering in geld die na een bepaalde tijd vervalt en die niet van het leven afhankelijk is, wordt gesteld op het jaarlijkse bedrag, vermenigvuldigd met het aantal jaren gedurende welke de uitkering moet plaatshebben, iedere vermenigvuldigingsuitkomst vermenigvuldigd met een van de volgende factoren:
+4. De waarde van een periodieke uitkering in geld die nog niet is ingegaan, die van het leven van één mannelijke persoon afhankelijk is en die na een bepaalde tijd vervalt, wordt vastgesteld overeenkomstig het tweede lid, waarbij voor het aantal jaren dat de periodieke uitkering nog niet is ingegaan, het jaarlijkse bedrag op nihil wordt gesteld. De aldus vastgestelde waarde wordt niet hoger gesteld dan de waarde die zou zijn verkregen als de uitkering reeds ingegaan zou zijn.
+
+5. De waarde van een periodieke uitkering in geld voor onbepaalde tijd, die niet van het leven afhankelijk is, wordt gesteld op het vierentwintigvoud van het jaarlijkse bedrag.
+
+6. De waarde van een periodieke uitkering in geld die na een bepaalde tijd vervalt en die niet van het leven afhankelijk is, wordt gesteld op het jaarlijkse bedrag, vermenigvuldigd met het aantal jaren gedurende welke de uitkering moet plaatshebben, iedere vermenigvuldigingsuitkomst vermenigvuldigd met een van de volgende factoren:
 
 |   | factor |
 | --- | --- |
@@ -328,19 +342,19 @@ De overeenkomstig de vorige volzin vastgestelde waarde kan niet hoger zijn dan d
 
 De overeenkomstig de eerste volzin vastgestelde waarde kan niet meer bedragen dan het vierentwintigvoud van het jaarlijkse bedrag.
 
-5. Een periodieke uitkering in geld, afhankelijk van het leven van één vrouwelijke persoon, wordt gelijkgesteld met een periodieke uitkering, afhankelijk van het leven van een mannelijk persoon die vijf jaar jonger is dan vorenbedoeld vrouwelijk persoon.
+7. Een periodieke uitkering in geld, afhankelijk van het leven van één vrouwelijke persoon, wordt gelijkgesteld met een periodieke uitkering, afhankelijk van het leven van een mannelijk persoon die vijf jaar jonger is dan vorenbedoeld vrouwelijk persoon.
 
-6. Een periodieke uitkering in geld die vervalt bij het overlijden:
+8. Een periodieke uitkering in geld die vervalt bij het overlijden:
 
 - a. van de langstlevende van twee of meer personen, wordt gelijkgesteld met een periodieke uitkering, afhankelijk van het leven van een mannelijk persoon, die tien jaar jonger is dan de jongste van de vorenbedoelde personen;
 
 - b. van de eerststervende van twee of meer personen, wordt gelijkgesteld met een periodieke uitkering, afhankelijk van het leven van een mannelijk persoon, die vijf jaar ouder is dan de oudste van de vorenbedoelde personen.
 
-7. Een periodieke uitkering in geld tot een onzeker jaarlijks bedrag wordt gelijkgesteld met een periodieke uitkering tot het geschatte gemiddelde jaarlijkse bedrag.
+9. Een periodieke uitkering in geld tot een onzeker jaarlijks bedrag wordt gelijkgesteld met een periodieke uitkering tot het geschatte gemiddelde jaarlijkse bedrag.
 
-8. Een periodieke uitkering die recht geeft op andere goederen dan geld, wordt gelijkgesteld met een periodieke uitkering in geld tot een jaarlijks bedrag, gelijk aan de overeenkomstig [afdeling 5.4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&afdeling=5.4) geschatte waarde van de goederen.
+10. Een periodieke uitkering die recht geeft op andere goederen dan geld, wordt gelijkgesteld met een periodieke uitkering in geld tot een jaarlijks bedrag, gelijk aan de overeenkomstig [afdeling 5.4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&afdeling=5.4) geschatte waarde van de goederen.
 
-9. De waarde van een periodieke uitkering die niet valt onder een van de vorige artikelen, wordt gesteld op het bedrag, waarvoor een zodanige uitkering zou kunnen worden aangekocht.
+11. De waarde van een periodieke uitkering die niet valt onder een van de vorige leden, wordt gesteld op het bedrag, waarvoor een zodanige uitkering zou kunnen worden aangekocht.
 
 ### Hoofdstuk 6. Persoonsgebonden aftrek ([Hoofdstuk 6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=6))
 
@@ -472,7 +486,7 @@ Als voorheffing worden aangewezen door Andorra, British Virgin Islands, Guernsey
 
 ##### Artikel 24
 
-[Artikel 12, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=3&artikel=12&z=2005-09-09&g=2005-09-09), is van overeenkomstige toepassing op een overdracht in het kalenderjaar 2001 waarop [hoofdstuk 2, artikel I, onderdeel Db, van de Invoeringswet Wet inkomstenbelasting 2001](onbekend) van toepassing is mits zowel door de ondernemer als degene die de onderneming voortzet, bij de aangifte van de ondernemer is verzocht om toepassing van dat onderdeel.
+[Artikel 12, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=3&artikel=12&z=2006-01-01&g=2006-01-01), is van overeenkomstige toepassing op een overdracht in het kalenderjaar 2001 waarop [hoofdstuk 2, artikel I, onderdeel Db, van de Invoeringswet Wet inkomstenbelasting 2001](onbekend) van toepassing is mits zowel door de ondernemer als degene die de onderneming voortzet, bij de aangifte van de ondernemer is verzocht om toepassing van dat onderdeel.
 
 ##### Artikel 25. Overgangsbepaling opgave waardeaangroei
 
