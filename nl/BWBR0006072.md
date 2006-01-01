@@ -4,7 +4,7 @@ identifier: "BWBR0006072"
 country: "nl"
 rank: "wet"
 publication_date: "2009-10-01"
-last_updated: "2004-10-01"
+last_updated: "2006-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006072"
 soort: "wet"
@@ -79,7 +79,7 @@ Voor de toepassing van dit hoofdstuk wordt als arbeidsongeschikte aangemerkt de 
 
 - b. die sinds 1 januari 1990 onafgebroken recht heeft op uitkering op grond van de Algemene Arbeidsongeschiktheidswet dan wel de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&wetgeving), waaronder begrepen een uitkering op grond van [hoofdstuk III van de Wet arbeidsongeschiktheidsvoorziening militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0002822&hoofdstuk=III), en op de dag waarop deze wet in werking treedt de leeftijd van 50 jaar heeft bereikt;
 
-- c. op wie de bepalingen van de artikelen[XX](https://wetten.overheid.nl/jci1.3:c:BWBR0006072&hoofdstuk=III&artikel=XX&z=2004-10-01&g=2004-10-01) en[XXIII](https://wetten.overheid.nl/jci1.3:c:BWBR0006072&hoofdstuk=III&artikel=XXIII&z=2004-10-01&g=2004-10-01) van deze wet van toepassing zijn en die op 31 januari 1992 en sinds 1 januari 1990 onafgebroken recht heeft op een aanvulling als bedoeld in deze artikelen.
+- c. op wie de bepalingen van de artikelen[XX](https://wetten.overheid.nl/jci1.3:c:BWBR0006072&hoofdstuk=III&artikel=XX&z=2006-01-01&g=2006-01-01) en[XXIII](https://wetten.overheid.nl/jci1.3:c:BWBR0006072&hoofdstuk=III&artikel=XXIII&z=2006-01-01&g=2006-01-01) van deze wet van toepassing zijn en die op 31 januari 1992 en sinds 1 januari 1990 onafgebroken recht heeft op een aanvulling als bedoeld in deze artikelen.
 
 ##### Artikel IX
 
@@ -109,11 +109,11 @@ Voor de toepassing van dit hoofdstuk wordt als arbeidsongeschikte aangemerkt de 
 
 ##### Artikel XII
 
-De stimuleringsuitkering is geen inkomen in de zin van de artikelen 6 en 10 van de Algemene Arbeidsongeschiktheidswet, de [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](https://wetten.overheid.nl/jci1.3:c:BWBR0004044) (**Stb.** 1987, 92), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0004163) (**Stb.** 1987, 281) en de [Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703), geen loon in de zin van de [Ziekenfondswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002460) (**Stb.** 1964, 392) en geen inkomen uit of in verband met arbeid in de zin van de Algemene burgerlijke pensioenwet, de Spoorwegpensioenwet en de Algemene militaire pensioenwet.
+De stimuleringsuitkering is geen inkomen in de zin van de artikelen 6 en 10 van de Algemene Arbeidsongeschiktheidswet, de [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](https://wetten.overheid.nl/jci1.3:c:BWBR0004044) (**Stb.** 1987, 92), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0004163) (**Stb.** 1987, 281) en de [Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703) en geen inkomen uit of in verband met arbeid in de zin van de Algemene burgerlijke pensioenwet, de Spoorwegpensioenwet en de Algemene militaire pensioenwet.
 
 ##### Artikel XIII
 
-1. Indien het recht op stimuleringsuitkering wordt ontleend aan een arbeidsongeschiktheidsuitkering op grond van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&wetgeving) of de Algemene Arbeidsongeschiktheidswet, wordt de stimuleringsuitkering betaald door het Uitvoeringsinstituut werknemersverzekeringen die de arbeidsongeschiktheidsuitkering heeft toegekend en komt zij in verhouding van de niet betaalde uitkeringen en toeslagen, bedoeld in [artikel X](https://wetten.overheid.nl/jci1.3:c:BWBR0006072&hoofdstuk=II&artikel=X&z=2004-10-01&g=2004-10-01), ten laste van het Arbeidsongeschiktheidsfonds, het Algemeen Arbeidsongeschiktheidsfonds, het Rijk, indien het een uitkering op grond van de [Wet arbeidsongeschiktheidsvoorziening militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0002822) betreft, en het Toeslagenfonds.
+1. Indien het recht op stimuleringsuitkering wordt ontleend aan een arbeidsongeschiktheidsuitkering op grond van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&wetgeving) of de Algemene Arbeidsongeschiktheidswet, wordt de stimuleringsuitkering betaald door het Uitvoeringsinstituut werknemersverzekeringen die de arbeidsongeschiktheidsuitkering heeft toegekend en komt zij in verhouding van de niet betaalde uitkeringen en toeslagen, bedoeld in [artikel X](https://wetten.overheid.nl/jci1.3:c:BWBR0006072&hoofdstuk=II&artikel=X&z=2006-01-01&g=2006-01-01), ten laste van het Arbeidsongeschiktheidsfonds, het Algemeen Arbeidsongeschiktheidsfonds, het Rijk, indien het een uitkering op grond van de [Wet arbeidsongeschiktheidsvoorziening militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0002822) betreft, en het Toeslagenfonds.
 
 2. Indien het recht op stimuleringsuitkering wordt ontleend aan de aanvulling van het invaliditeitspensioen op grond van de [Algemene burgerlijke pensioenwet](onbekend), alsmede de verhoging op grond van [artikel F 9**b**](onbekend) van die wet, of aan de aanvulling van het invaliditeitspensioen op grond van de Spoorwegpensioenwet, alsmede de verhoging op grond van artikel F 7 **b** van die wet, dan wel van het pensioen uit hoofde van ziekten of gebreken op grond van de Algemene militaire pensioenwet, alsmede de verhoging op grond van artikel F 9**a** van die wet,wordt de stimuleringsuitkering betaald en komt zij ten laste van onderscheidenlijk het Algemeen burgerlijk pensioenfonds, het Spoorwegpensioenfonds of het Rijk.
 
@@ -143,13 +143,13 @@ Bij ministeriële regeling kan Onze Minister van Sociale Zaken en Werkgelegenhei
 
 6. Artikel 24, tweede lid, van de Algemene Arbeidsongeschiktheidswet en [artikel 34, tweede lid, van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=34), zoals die artikelen luidden op de dag, voorafgaande aan die waarop deze wet in werking treedt, blijven tot zes maanden na de dag waarop deze wet in werking treedt van toepassing op een persoon, wiens arbeidsongeschiktheid in de zin van de Algemene Arbeidsongeschiktheidswet en de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&wetgeving) is aangevangen uiterlijk zes maanden voor de inwerkingtreding van deze wet en terzake van die arbeidsongeschiktheid recht op uitkering heeft op grond van de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) (**Stb.** 1987, 88).
 
-7. De wijzigingen van [artikel 36 van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=36) en 26 van de Algemene Arbeidsongeschiktheidswet, zoals vervat in [artikel I, onderdeel I](https://wetten.overheid.nl/jci1.3:c:BWBR0006072&hoofdstuk=I&artikel=I&z=2004-10-01&g=2004-10-01) en [artikel II, onderdeel F](https://wetten.overheid.nl/jci1.3:c:BWBR0006072&hoofdstuk=I&artikel=II&z=2004-10-01&g=2004-10-01), vinden geen toepassing ten aanzien van de persoon, wiens arbeidsongeschiktheidsuitkering is ingegaan op een dag gelegen voor de inwerkingtreding van deze wet.
+7. De wijzigingen van [artikel 36 van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=36) en 26 van de Algemene Arbeidsongeschiktheidswet, zoals vervat in [artikel I, onderdeel I](https://wetten.overheid.nl/jci1.3:c:BWBR0006072&hoofdstuk=I&artikel=I&z=2006-01-01&g=2006-01-01) en [artikel II, onderdeel F](https://wetten.overheid.nl/jci1.3:c:BWBR0006072&hoofdstuk=I&artikel=II&z=2006-01-01&g=2006-01-01), vinden geen toepassing ten aanzien van de persoon, wiens arbeidsongeschiktheidsuitkering is ingegaan op een dag gelegen voor de inwerkingtreding van deze wet.
 
 ##### Artikel XVII
 
-1. De [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=21), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=22), [40](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=40), [48](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=48), [53](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=53) en [59**b**, vierde lid, van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=59b), zoals die artikelen luidden op de dag, voorafgaande aan die waarop [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0006072&hoofdstuk=I&artikel=I&z=2004-10-01&g=2004-10-01) van deze wet in werking treedt, blijven van toepassing op de persoon die:
+1. De [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=21), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=22), [40](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=40), [48](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=48), [53](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=53) en [59**b**, vierde lid, van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=59b), zoals die artikelen luidden op de dag, voorafgaande aan die waarop [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0006072&hoofdstuk=I&artikel=I&z=2006-01-01&g=2006-01-01) van deze wet in werking treedt, blijven van toepassing op de persoon die:
 
-- a. op de dag, voorafgaande aan die waarop [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0006072&hoofdstuk=I&artikel=I&z=2004-10-01&g=2004-10-01) van deze wet in werking treedt, recht had op uitkering op grond van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), waaronder begrepen een uitkering op grond van [hoofdstuk III van de Wet arbeidsongeschiktheidsvoorziening militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0002822&hoofdstuk=III); of
+- a. op de dag, voorafgaande aan die waarop [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0006072&hoofdstuk=I&artikel=I&z=2006-01-01&g=2006-01-01) van deze wet in werking treedt, recht had op uitkering op grond van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), waaronder begrepen een uitkering op grond van [hoofdstuk III van de Wet arbeidsongeschiktheidsvoorziening militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0002822&hoofdstuk=III); of
 
 - b. op 25 januari 1993 ongeschikt is tot werken wegens ziekte dan wel wiens ongeschiktheid tot werken wegens ziekte intreedt na deze datum en tevens binnen een maand nadat een vóór die datum gelegen periode van ongeschiktheid door herstel is geëindigd, en die nadat deze ongeschiktheid 52 weken heeft geduurd, recht heeft op toekenning van een arbeidsongeschiktheidsuitkering op grond van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) of een arbeidsongeschiktheidsuitkering op grond van [hoofdstuk III van de Wet arbeidsongeschiktheidsvoorziening militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0002822&hoofdstuk=III).
 
@@ -177,11 +177,11 @@ Vervallen
 
 - b. op wie onmiddellijk voorafgaande aan de inwerkingtreding van deze wet artikel 33 van de Algemene Arbeidsongeschiktheidswet dan wel [artikel 44 van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=44) werd toegepast;
 
-- c. als bedoeld in [artikel XVI, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006072&hoofdstuk=III&artikel=XVI&z=2004-10-01&g=2004-10-01);
+- c. als bedoeld in [artikel XVI, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006072&hoofdstuk=III&artikel=XVI&z=2006-01-01&g=2006-01-01);
 
-- d. als bedoeld in [artikel XVI, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006072&hoofdstuk=III&artikel=XVI&z=2004-10-01&g=2004-10-01),
+- d. als bedoeld in [artikel XVI, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006072&hoofdstuk=III&artikel=XVI&z=2006-01-01&g=2006-01-01),
 
-wordt ten aanzien van deze persoon onder de in artikel 5, vijfde lid, bedoelde arbeid en onder de in artikel 18, vijfde lid, bedoelde arbeid in het eerste en tweede lid van respectievelijk genoemd artikel 33 en 44 verstaan, de arbeid in genoemde artikelen 18 en 5, zoals deze artikelen luidden op de dag, voorafgaande aan die waarop deze wet in werking treedt, met dien verstande dat ten aanzien van de persoon, bedoeld in de onderdelen **a** tot en met **c** laatstbedoelde arbeid in aanmerking wordt genomen tot aan de latere datum, bedoeld in [artikel XVI, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006072&hoofdstuk=III&artikel=XVI&z=2004-10-01&g=2004-10-01).
+wordt ten aanzien van deze persoon onder de in artikel 5, vijfde lid, bedoelde arbeid en onder de in artikel 18, vijfde lid, bedoelde arbeid in het eerste en tweede lid van respectievelijk genoemd artikel 33 en 44 verstaan, de arbeid in genoemde artikelen 18 en 5, zoals deze artikelen luidden op de dag, voorafgaande aan die waarop deze wet in werking treedt, met dien verstande dat ten aanzien van de persoon, bedoeld in de onderdelen **a** tot en met **c** laatstbedoelde arbeid in aanmerking wordt genomen tot aan de latere datum, bedoeld in [artikel XVI, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006072&hoofdstuk=III&artikel=XVI&z=2006-01-01&g=2006-01-01).
 
 ##### Artikel XX
 
@@ -235,11 +235,11 @@ In [artikel 52, derde lid, van de Invoeringswet stelselherziening sociale zekerh
 
 ##### Artikel XXIX
 
-1. Deze wet, met uitzondering van [artikel II, onderdeel L](https://wetten.overheid.nl/jci1.3:c:BWBR0006072&hoofdstuk=I&artikel=II&z=2004-10-01&g=2004-10-01), treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden gesteld.
+1. Deze wet, met uitzondering van [artikel II, onderdeel L](https://wetten.overheid.nl/jci1.3:c:BWBR0006072&hoofdstuk=I&artikel=II&z=2006-01-01&g=2006-01-01), treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden gesteld.
 
-2. Bij koninklijk besluit kan de datum van 1 februari 1994, genoemd in [artikel IX, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006072&hoofdstuk=II&artikel=IX&z=2004-10-01&g=2004-10-01), later worden gesteld.
+2. Bij koninklijk besluit kan de datum van 1 februari 1994, genoemd in [artikel IX, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006072&hoofdstuk=II&artikel=IX&z=2006-01-01&g=2006-01-01), later worden gesteld.
 
-3. [Artikel II, onderdeel L](https://wetten.overheid.nl/jci1.3:c:BWBR0006072&hoofdstuk=I&artikel=II&z=2004-10-01&g=2004-10-01), treedt in werking met ingang van 1 maart 1993. Indien het **Staatsblad** waarin deze wet wordt geplaatst, wordt uitgegeven na 28 februari 1993, treedt dit artikel in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad**, waarin deze wet wordt geplaatst, en werkt terug tot en met 1 maart 1993.
+3. [Artikel II, onderdeel L](https://wetten.overheid.nl/jci1.3:c:BWBR0006072&hoofdstuk=I&artikel=II&z=2006-01-01&g=2006-01-01), treedt in werking met ingang van 1 maart 1993. Indien het **Staatsblad** waarin deze wet wordt geplaatst, wordt uitgegeven na 28 februari 1993, treedt dit artikel in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad**, waarin deze wet wordt geplaatst, en werkt terug tot en met 1 maart 1993.
 
 ##### Artikel XXX
 
