@@ -4,7 +4,7 @@ identifier: "BWBR0006192"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-08-01"
-last_updated: "1994-12-02"
+last_updated: "2006-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006192"
 soort: "AMvB"
@@ -50,7 +50,7 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder:
 
-"Onze Minister": Onze Minister van Onderwijs en Wetenschappen,
+"Onze Minister": Onze Minister van Onderwijs, Cultuur en Wetenschap,
 
 "wet": de [Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399),
 
@@ -60,19 +60,21 @@ In dit besluit wordt verstaan onder:
 
 "examen": het staatsexamen Nederlands als tweede taal,
 
-"examenonderdeel": een onderdeel van het examen als bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&hoofdstuk=I&artikel=4&z=1994-12-02&g=1994-12-02),
+"examenjaar": het tijdvak dat aanvangt op 1 januari van een jaar en eindigt op 31 december van dat jaar,
 
-"examenprogramma": het examenprogramma, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&hoofdstuk=II&artikel=8&z=1994-12-02&g=1994-12-02),
+"examenonderdeel": een onderdeel van het examen als bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&hoofdstuk=I&artikel=4&z=2006-01-01&g=2006-01-01),
 
-"examenreglement": het examenreglement, bedoeld in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&hoofdstuk=III&artikel=10&z=1994-12-02&g=1994-12-02),
+"examenprogramma": het examenprogramma, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&hoofdstuk=II&artikel=8&z=2006-01-01&g=2006-01-01),
 
-"commissie": de staatsexamencommissie, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&hoofdstuk=I&artikel=3&z=1994-12-02&g=1994-12-02),
+"examenreglement": het examenreglement, bedoeld in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&hoofdstuk=III&artikel=10&z=2006-01-01&g=2006-01-01),
+
+"commissie": de staatsexamencommissie, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&hoofdstuk=I&artikel=3&z=2006-01-01&g=2006-01-01),
 
 "examenleider": degene die door de commissie is belast met de leiding bij het afnemen van het examen,
 
 "diploma": het diploma Nederlands als tweede taal,
 
-"certificaat": een certificaat als bedoeld in [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&hoofdstuk=V&artikel=16&z=1994-12-02&g=1994-12-02),
+"certificaat": een certificaat als bedoeld in [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&hoofdstuk=V&artikel=16&z=2006-01-01&g=2006-01-01),
 
 "kandidaat": degene die aan een of meer examenonderdelen deelneemt.
 
@@ -80,9 +82,9 @@ In dit besluit wordt verstaan onder:
 
 1. Dit besluit regelt het staatsexamen Nederlands als tweede taal. Het examen kent twee programma's: programma I en programma II.
 
-2. Programma I omvat een onderzoek naar de beheersing van de Nederlandse taal met het oog op de uitoefening van functies boven het niveau van ongeschoolde arbeid door hen voor wie het Nederlands niet de moedertaal is en die het niveau van het primair onderwijs hebben bereikt.
+2. Programma I omvat een onderzoek naar de beheersing van de Nederlandse taal met het oog op het volgen van opleidingen of de uitoefening van functies op het niveau van een vakopleiding als bedoeld in [artikel 7.2.2, eerste lid, onderdeel c, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2) door hen voor wie het Nederlands niet de moedertaal is en die ten minste het niveau van het primair onderwijs hebben bereikt.
 
-3. Programma II omvat een onderzoek naar de beheersing van de Nederlandse taal met het oog op de uitoefening van hogere functies door hen voor wie het Nederlands niet de moedertaal is en die functioneren op het niveau van het middenkader.
+3. Programma II omvat een onderzoek naar de beheersing van de Nederlandse taal met het oog op het volgen van opleidingen in het hoger onderwijs en de uitoefening van hogere functies door hen voor wie het Nederlands niet de moedertaal is en die wat betreft vooropleiding of werkervaring functioneren op ten minste het niveau van het middenkader.
 
 ##### Artikel 3. Staatsexamencommissie
 
@@ -124,9 +126,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 5. Examengeld
 
-1. Voor deelneming aan een volledig examen volgens programma I is een bedrag verschuldigd van f 80,-. Voor deelneming aan een examenonderdeel volgens programma I is per onderdeel een bedrag verschuldigd van f 20,-.
-
-2. Voor deelneming aan een volledig examen volgens programma II is een bedrag verschuldigd van f 120,-. Voor deelneming aan een examenonderdeel volgens programma II is per onderdeel een bedrag verschuldigd van f 30,-.
+Voor deelneming aan een volledig examen van programma I of II is een bedrag verschuldigd van € 90. Voor deelneming aan een examenonderdeel van programma I of II is per onderdeel een bedrag verschuldigd van € 22,50.
 
 ##### Artikel 6. Onregelmatigheden
 
@@ -164,9 +164,9 @@ Het examen strekt zich uit over de examenstof, omschreven in het examenprogramma
 
 ##### Artikel 10. Examenprogramma, examenreglement
 
-1. De commissie stelt uiterlijk één jaar voor aanvang van de examens het examenprogramma, de aanmeldingsprocedure en, indien het aantal beschikbare plaatsen beperkt is, het aantal kandidaten dat ten hoogste tot het examen kan worden toegelaten, vast en doet daarvan mededeling in het officiële publicatieblad van het Ministerie van Onderwijs en Wetenschappen en, aan de inspectie en aan de Informatie Beheer Groep.
+1. De commissie stelt uiterlijk één jaar voor aanvang van de examens het examenprogramma, de aanmeldingsprocedure en, indien het aantal beschikbare plaatsen beperkt is, het aantal kandidaten dat ten hoogste tot het examen kan worden toegelaten, vast en doet daarvan mededeling in de Staatscourant en, aan de inspectie en aan de Informatie Beheer Groep.
 
-2. Uiterlijk vier maanden voor aanvang van de examens stelt de commissie het examenreglement vast en doet daarvan mededeling in het officiële publicatieblad van het Ministerie van Onderwijs en Wetenschappen en, aan de inspectie en aan de Informatie Beheer Groep. Het examenreglement omvat tenminste:
+2. Uiterlijk vier maanden voor aanvang van een examenjaar stelt de commissie het examenreglement vast en doet daarvan mededeling in de Staatscourant en, aan de inspectie en aan de Informatie Beheer Groep. Het examenreglement omvat tenminste:
 
 - a. de wijze waarop de examenonderdelen worden afgenomen alsmede de duur daarvan,
 
@@ -190,7 +190,7 @@ Het examen wordt ten minste twee maal per jaar afgenomen.
 
 ##### Artikel 13. Verhindering examen
 
-1. Indien een kandidaat om een geldige reden, ter beoordeling van de commissie, verhinderd is bij een of meer examenonderdelen aanwezig te zijn, wordt hem de gelegenheid gegeven die examenonderdelen alsnog af te leggen op het moment waarop het eerst volgend examen plaatsvindt.
+1. Indien een kandidaat om een geldige reden, ter beoordeling van de commissie, verhinderd is bij een of meer examenonderdelen aanwezig te zijn, wordt hem de gelegenheid gegeven die examenonderdelen alsnog af te leggen op een door de commissie na overleg met de kandidaat te bepalen moment.
 
 2. In het geval, bedoeld in het eerste lid, is niet opnieuw examengeld verschuldigd.
 
@@ -214,7 +214,7 @@ Het examen wordt ten minste twee maal per jaar afgenomen.
 
 2. Aan de kandidaat die voor een of meer examenonderdelen een voldoende resultaat heeft behaald, wordt een certificaat uitgereikt. Op het certificaat wordt ten minste vermeld het examenonderdeel waarvoor het certificaat is verleend.
 
-3. Een diploma, als bedoeld in het eerste lid, wordt tevens uitgereikt aan degene die certificaten overlegt van alle examenonderdelen, bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&hoofdstuk=I&artikel=4&z=1994-12-02&g=1994-12-02).
+3. Een diploma, als bedoeld in het eerste lid, wordt tevens uitgereikt aan degene die certificaten overlegt van alle examenonderdelen, bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&hoofdstuk=I&artikel=4&z=2006-01-01&g=2006-01-01).
 
 4. De commissie stelt modellen van de diploma's en de certificaten voor programma I onderscheidenlijk programma II vast.
 
@@ -254,7 +254,7 @@ De commissie kan toestaan dat een gehandicapte kandidaat het examen geheel of ge
 
 2. De commissie kan ten behoeve van de toetsontwikkeling de kandidaat verzoeken om meer gegevens dan die bedoeld in het eerste lid. De commissie deelt de kandidaat mede dat hij niet verplicht is deze gegevens te verstrekken.
 
-3. De gegevens, bedoeld in het eerste en tweede lid, worden bewaard op een niet op de persoon herleidbare wijze. De gegevens kunnen langer worden bewaard dan het examenwerk, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&hoofdstuk=VI&artikel=17&z=1994-12-02&g=1994-12-02).
+3. De gegevens, bedoeld in het eerste en tweede lid, worden bewaard op een niet op de persoon herleidbare wijze. De gegevens kunnen langer worden bewaard dan het examenwerk, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&hoofdstuk=VI&artikel=17&z=2006-01-01&g=2006-01-01).
 
 ##### Artikel 22. Geheimhouding
 
@@ -264,7 +264,7 @@ Een ieder die betrokken is bij de uitvoering van dit besluit en daarbij de besch
 
 ##### Artikel 23. Gelijkstelling certificaten
 
-Certificaten, voor 1 januari 1994 toegekend door de Tijdelijke voorbereidingscommissie Staatsexamens Nederlands als tweede taal, ingesteld bij besluit van Onze Minister van 12 maart 1992 (**Uitleg OenW-Regelingen** 1992, nr. 8) worden aangemerkt als certificaten, verkregen op grond van dit besluit. Degene die certificaten overlegt van alle examenonderdelen, behorend tot een programma, als geëxamineerd door de Tijdelijke voorbereidingscommissie Staatsexamens Nederlands als tweede taal, ontvangt een diploma als bedoeld in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&hoofdstuk=V&artikel=16&z=1994-12-02&g=1994-12-02).
+Certificaten, voor 1 januari 1994 toegekend door de Tijdelijke voorbereidingscommissie Staatsexamens Nederlands als tweede taal, ingesteld bij besluit van Onze Minister van 12 maart 1992 (**Uitleg OenW-Regelingen** 1992, nr. 8) worden aangemerkt als certificaten, verkregen op grond van dit besluit. Degene die certificaten overlegt van alle examenonderdelen, behorend tot een programma, als geëxamineerd door de Tijdelijke voorbereidingscommissie Staatsexamens Nederlands als tweede taal, ontvangt een diploma als bedoeld in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&hoofdstuk=V&artikel=16&z=2006-01-01&g=2006-01-01).
 
 ##### Artikel 24. Examens voor 1 januari 1994
 
