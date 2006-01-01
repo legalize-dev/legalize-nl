@@ -4,7 +4,7 @@ identifier: "BWBR0010182"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-07-01"
-last_updated: "2005-12-29"
+last_updated: "2006-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010182"
 soort: "AMvB"
@@ -96,7 +96,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 3. Nederlanders, in dienst van een publiekrechtelijke rechtspersoon, en hun gezinsleden in het buitenland
 
-1. Verzekerd op grond van de volksverzekeringen is de niet in Nederland wonende Nederlander, voor zover niet reeds begrepen onder [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=2&artikel=2&z=2005-12-29&g=2005-12-29), die uit hoofde van een dienstbetrekking met een Nederlandse publiekrechtelijke rechtspersoon buiten Nederland arbeid verricht ten behoeve van die rechtspersoon, tenzij hij:
+1. Verzekerd op grond van de volksverzekeringen is de niet in Nederland wonende Nederlander, voor zover niet reeds begrepen onder [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=2&artikel=2&z=2006-01-01&g=2006-01-01), die uit hoofde van een dienstbetrekking met een Nederlandse publiekrechtelijke rechtspersoon buiten Nederland arbeid verricht ten behoeve van die rechtspersoon, tenzij hij:
 
 - a. ten tijde van aanwerving niet in Nederland woonde;
 
@@ -130,7 +130,7 @@ Verzekerd op grond van de volksverzekeringen is de persoon die niet in Nederland
 
 ##### Artikel 5. Gezinsleden van varend personeel
 
-Verzekerd op grond van de volksverzekeringen zijn de aan boord van een schip wonende echtgenoot en kinderen van de persoon die op grond van de volksverzekeringen of van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=2&artikel=4&z=2005-12-29&g=2005-12-29) verzekerd is.
+Verzekerd op grond van de volksverzekeringen zijn de aan boord van een schip wonende echtgenoot en kinderen van de persoon die op grond van de volksverzekeringen of van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=2&artikel=4&z=2006-01-01&g=2006-01-01) verzekerd is.
 
 ##### Artikel 6. Tijdelijke onderbreking van arbeid in Nederland
 
@@ -142,15 +142,13 @@ Verzekerd op grond van de volksverzekeringen blijft de persoon die niet in Neder
 
 ##### Artikel 7. AWBZ-verzekerden
 
-1. Verzekerd op grond van de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) is de persoon die niet in Nederland woont, die verzekerd is op grond van de [Ziekenfondswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002460) en die, met toepassing van een verordening van de Raad van de Europese Gemeenschappen of een door Nederland met een of meer andere staten gesloten verdrag inzake sociale zekerheid, in de staat op het grondgebied waarvan hij woont recht kan doen gelden op verstrekkingen die hem in beginsel worden verleend ten laste van de middelen van de ziekenfondsverzekering.
-
-2. Voor de heffing van premie terzake van de verzekering op grond van het eerste lid wordt als de persoon die recht kan doen gelden op de in het eerste lid bedoelde verstrekkingen beschouwd hij die als zodanig is geregistreerd bij het College zorgverzekeringen of het bevoegde ziekenfonds.
+Vervallen
 
 ##### Artikel 8. Tijdelijk buiten Nederland studerenden en verpleegden
 
 1. Verzekerd op grond van de volksverzekeringen blijft de persoon die aansluitend op het wonen in Nederland uitsluitend wegens studieredenen niet meer in Nederland woont en jonger is dan 30 jaar.
 
-2. Verzekerd op grond van de volksverzekeringen blijft de persoon die aansluitend op het wonen in Nederland, uitsluitend omdat hij wordt verpleegd in een door Onze Minister van Volksgezondheid, Welzijn en Sport aan te wijzen instelling, die overeenkomt met een op grond van [artikel 8 van de Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&artikel=8) toegelaten instelling, niet meer in Nederland woont.
+2. Verzekerd op grond van de volksverzekeringen blijft de persoon die aansluitend op het wonen in Nederland, uitsluitend omdat hij wordt verpleegd in een door Onze Minister van Volksgezondheid, Welzijn en Sport aan te wijzen instelling, die overeenkomt met een instelling als bedoeld in [artikel 1, onderdeel f, van de Wet toelating zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=1) die zorg levert waarop aanspraak bestaat ingevolge de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614), niet meer in Nederland woont.
 
 ##### Artikel 9. Niet in Nederland wonende zelfstandigen
 
@@ -290,7 +288,7 @@ In afwijking van de eerste zin zijn de daar genoemde leden en particuliere bedie
 
 ##### Artikel 16. Buitenlandse ambtenaren
 
-1. Niet verzekerd op grond van de volksverzekeringen is de persoon, voor zover niet reeds begrepen onder [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=3&artikel=13&z=2005-12-29&g=2005-12-29), die arbeid verricht uit hoofde van een dienstbetrekking met een buitenlandse publiekrechtelijke rechtspersoon, tenzij hij:
+1. Niet verzekerd op grond van de volksverzekeringen is de persoon, voor zover niet reeds begrepen onder [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=3&artikel=13&z=2006-01-01&g=2006-01-01), die arbeid verricht uit hoofde van een dienstbetrekking met een buitenlandse publiekrechtelijke rechtspersoon, tenzij hij:
 
 - a. in Nederland arbeid verricht anders dan uit hoofde van die dienstbetrekking; of
 
@@ -348,9 +346,9 @@ Niet verzekerd op grond van de volksverzekeringen is de persoon die uitsluitend 
 
 ##### Artikel 21. Geen verzekering op grond van de AWBZ
 
-1. Niet verzekerd op grond van de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) is de persoon die in Nederland woont, die niet verzekerd is op grond van de [Ziekenfondswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002460), doch die met toepassing van een verordening van de Raad van de Europese Gemeenschappen of van een door Nederland met een of meer andere staten gesloten verdrag inzake sociale zekerheid, in Nederland recht kan doen gelden op verstrekkingen die op grond van de [Ziekenfondswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002460) of de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) als aanspraak zijn omschreven, die hem in beginsel worden verleend ten laste van een andere lidstaat van de Europese Unie dan wel een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte of een staat waarmee Nederland een verdrag inzake sociale zekerheid heeft gesloten.
+1. Niet verzekerd op grond van de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) is de persoon die in Nederland woont, doch die met toepassing van een verordening van de Raad van de Europese Gemeenschappen of van een door Nederland met een of meer andere staten gesloten verdrag inzake sociale zekerheid, in Nederland recht kan doen gelden op verstrekkingen die hem in beginsel worden verleend ten laste van een andere lidstaat van de Europese Unie dan wel een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte of een staat waarmee Nederland een verdrag inzake sociale zekerheid heeft gesloten.
 
-2. Niet verzekerd op grond van de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) is de persoon die in Nederland woont en die recht heeft op een uitkering of pensioen ingevolge een regeling van een op grond van [artikel 3, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=2&artikel=3&z=2005-12-29&g=2005-12-29), dan wel [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=3&artikel=14&z=2005-12-29&g=2005-12-29), aangewezen volkenrechtelijke organisatie, indien hij op grond van een regeling van die organisatie in Nederland aanspraak heeft op zorg, of op vergoeding voor de kosten daarvan, tenzij hij in Nederland arbeid verricht. De aanspraak, bedoeld in de vorige volzin, omvat in ieder geval opname en verpleging in ziekenhuizen en in instellingen voor langdurige verpleging en verzorging.
+2. Niet verzekerd op grond van de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) is de persoon die in Nederland woont en die recht heeft op een uitkering of pensioen ingevolge een regeling van een op grond van [artikel 3, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=2&artikel=3&z=2006-01-01&g=2006-01-01), dan wel [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=3&artikel=14&z=2006-01-01&g=2006-01-01), aangewezen volkenrechtelijke organisatie, indien hij op grond van een regeling van die organisatie in Nederland aanspraak heeft op zorg, of op vergoeding voor de kosten daarvan, tenzij hij in Nederland arbeid verricht. De aanspraak, bedoeld in de vorige volzin, omvat in ieder geval opname en verpleging in ziekenhuizen en in instellingen voor langdurige verpleging en verzorging.
 
 3. De in Nederland wonende echtgenoot, kinderen en inwonende overige gezinsleden van de in het tweede lid bedoelde persoon, zijn eveneens niet verzekerd op grond van de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) indien zij ingevolge een regeling van de desbetreffende volkenrechtelijke organisatie in Nederland aanspraak hebben op zorg, of op vergoeding voor de kosten daarvan. De aanspraak, bedoeld in de vorige volzin, omvat in ieder geval opname en verpleging in ziekenhuizen en in instellingen voor langdurige verpleging en verzorging.
 
@@ -360,7 +358,7 @@ Niet verzekerd op grond van de volksverzekeringen is de persoon die uitsluitend 
 
 6. Het College zorgverzekeringen geeft op aanvraag van de persoon, bedoeld in het eerste, tweede, derde en vierde lid, een verklaring af dat hij niet verzekerd is.
 
-##### Artikel 22. Vrijstelling verzekeringsplicht
+##### Artikel 22. Vrijstelling verzekeringsplicht [AOW](https://wetten.overheid.nl/jci1.3:c:BWBR0002221), [ANW](https://wetten.overheid.nl/jci1.3:c:BWBR0007795) en [AKW](https://wetten.overheid.nl/jci1.3:c:BWBR0002368)
 
 1. De persoon die in Nederland woont en die recht heeft op een uitkering op grond van een buitenlandse wettelijke of bovenwettelijke regeling inzake sociale zekerheid of op grond van een regeling van een volkenrechtelijke organisatie wordt op zijn aanvraag, voor zolang hij geen arbeid in Nederland verricht, door de Sociale verzekeringsbank van de verzekering op grond van de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221), de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795) en de [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368) vrijgesteld, zolang hij:
 
@@ -386,19 +384,19 @@ De vreemdeling die rechtmatig in Nederland verblijf houdt in de zin van [artikel
 
 ##### Artikel 24. Hardheidsclausule
 
-1. De Sociale verzekeringsbank kan, met uitzondering van [artikel 22, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=3&artikel=22&z=2005-12-29&g=2005-12-29), artikelen van dit besluit buiten toepassing laten of daarvan afwijken voor zover toepassing gelet op het belang van de uitbreiding en beperking van de kring van verzekerden zal leiden tot een onbillijkheid van overwegende aard, die uitsluitend voortvloeit uit de verzekeringsplicht of de uitsluiting daarvan krachtens dit besluit.
+1. De Sociale verzekeringsbank kan, met uitzondering van [artikel 22, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=3&artikel=22&z=2006-01-01&g=2006-01-01), artikelen van dit besluit buiten toepassing laten of daarvan afwijken voor zover toepassing gelet op het belang van de uitbreiding en beperking van de kring van verzekerden zal leiden tot een onbillijkheid van overwegende aard, die uitsluitend voortvloeit uit de verzekeringsplicht of de uitsluiting daarvan krachtens dit besluit.
 
 2. Van een besluit van de Sociale verzekeringsbank op grond van het eerste lid, wordt mededeling gedaan in de Staatscourant.
 
-#### § 5. Overgangs- en slotbepalingen
+#### § 4. Gemeenschappelijke bepalingen
 
 ##### Artikel 25. Voortzetting verstrekkingen op grond van de AWBZ
 
-1. De persoon, die niet in Nederland woont, en van wie de verzekering op grond van de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) uitsluitend wegens de inwerkingtreding van enig artikel van dit besluit dan wel wegens het vervallen van [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=5&artikel=26&z=2005-12-29&g=2005-12-29) is geëindigd, heeft niettemin met overeenkomstige toepassing van [artikel 20, eerste lid, onderdeel b, en derde lid, van het Besluit zorgaanspraken AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0014149&artikel=20), recht op uitkeringen ten laste van het Algemeen Fonds Bijzondere Ziektekosten, bedoeld in de [Wet financiering volksverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0004538), ter zake van de kosten van verblijf als bedoeld in [artikel 9 van het Besluit zorgaanspraken AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0014149&artikel=9) en revalidatiezorg als bedoeld in [artikel 14 van dat besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014149&artikel=14), voor zover die zorg op de dag voorafgaande aan de inwerkingtreding van enig artikel van dit besluit dan wel aan het vervallen van [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=5&artikel=26&z=2005-12-29&g=2005-12-29) ingevolge [artikel 20, eerste lid, onderdeel b, en derde lid, van het Besluit zorgaanspraken AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0014149&artikel=20), voor rekening van het Algemeen Fonds Bijzondere Ziektekosten werd verleend en op een tijdstip gelegen uiterlijk op die dag was aangevangen maar nog niet voltooid.
+1. De persoon, die niet in Nederland woont, en van wie de verzekering op grond van de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) uitsluitend wegens de inwerkingtreding van enig artikel van dit besluit dan wel wegens het vervallen van [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=5&artikel=26&z=2006-01-01&g=2006-01-01) is geëindigd, heeft niettemin met overeenkomstige toepassing van [artikel 20, eerste lid, onderdeel b, en derde lid, van het Besluit zorgaanspraken AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0014149&artikel=20), recht op uitkeringen ten laste van het Algemeen Fonds Bijzondere Ziektekosten, bedoeld in de [Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745), ter zake van de kosten van verblijf en voortgezet verblijf als bedoeld in de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0014149&artikel=9) en [13 van het Besluit zorgaanspraken AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0014149&artikel=13), voor zover die zorg op de dag voorafgaande aan de inwerkingtreding van enig artikel van dit besluit dan wel aan het vervallen van [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=5&artikel=26&z=2006-01-01&g=2006-01-01) ingevolge [artikel 20, eerste lid, onderdeel b, en derde lid, van het Besluit zorgaanspraken AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0014149&artikel=20), voor rekening van het Algemeen Fonds Bijzondere Ziektekosten werd verleend en op een tijdstip gelegen uiterlijk op die dag was aangevangen maar nog niet voltooid.
 
-2. De belanghebbende die op grond van het eerste lid zijn aanspraak tot gelding wil brengen meldt zich daartoe binnen een termijn van vier maanden na de inwerkingtreding van enig artikel van dit besluit dan wel vier maanden na het vervallen van [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=5&artikel=26&z=2005-12-29&g=2005-12-29) aan bij het uitvoeringsorgaan. waarbij hij op de dag voorafgaande aan de inwerkingtreding van enig artikel van dit besluit dan wel het vervallen van [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=5&artikel=26&z=2005-12-29&g=2005-12-29) als verzekerde op grond van de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) was ingeschreven. Indien de belanghebbende op de dag voorafgaande aan de inwerkingtreding van enig artikel van dit besluit dan wel het vervallen van [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=5&artikel=26&z=2005-12-29&g=2005-12-29) nog niet was ingeschreven, dan wel diens inschrijving in de periode gelegen tussen die dag en de dag van aanmelding als belanghebbende is komen te vervallen, meldt hij zich binnen een termijn van vier maanden om zijn aanspraak tot gelding te brengen naar keuze aan bij een ziekenfonds of een bij de uitvoering van de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) toegelaten ziektekostenverzekeraar.
+2. De belanghebbende die op grond van het eerste lid zijn aanspraak tot gelding wil brengen meldt zich daartoe binnen een termijn van vier maanden na de inwerkingtreding van enig artikel van dit besluit dan wel vier maanden na het vervallen van [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=5&artikel=26&z=2006-01-01&g=2006-01-01) aan bij de zorgverzekeraar. waarbij hij op de dag voorafgaande aan de inwerkingtreding van enig artikel van dit besluit dan wel het vervallen van [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=5&artikel=26&z=2006-01-01&g=2006-01-01) als verzekerde op grond van de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) was ingeschreven. Indien de belanghebbende op de dag voorafgaande aan de inwerkingtreding van enig artikel van dit besluit dan wel het vervallen van [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=5&artikel=26&z=2006-01-01&g=2006-01-01) nog niet was ingeschreven, dan wel diens inschrijving in de periode gelegen tussen die dag en de dag van aanmelding als belanghebbende is komen te vervallen, meldt hij zich binnen een termijn van vier maanden om zijn aanspraak tot gelding te brengen een zorgverzekeraar naar eigen keuze.
 
-3. De belanghebbende die zich niet binnen de in het tweede lid bedoelde termijn als zodanig heeft aangemeld, wordt geacht aan die termijn te hebben voldaan, indien hij naar het oordeel van de instelling, bedoeld in het tweede lid, genoegzaam aantoont dat hij zich heeft aangemeld binnen een termijn van vier maanden na de dag waarop hij redelijkerwijs van de inwerkingtreding van enig artikel van dit besluit dan wel het vervallen van [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=5&artikel=26&z=2005-12-29&g=2005-12-29) kennis heeft kunnen nemen.
+3. De belanghebbende die zich niet binnen de in het tweede lid bedoelde termijn als zodanig heeft aangemeld, wordt geacht aan die termijn te hebben voldaan, indien hij naar het oordeel van de instelling, bedoeld in het tweede lid, genoegzaam aantoont dat hij zich heeft aangemeld binnen een termijn van vier maanden na de dag waarop hij redelijkerwijs van de inwerkingtreding van enig artikel van dit besluit dan wel het vervallen van [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=5&artikel=26&z=2006-01-01&g=2006-01-01) kennis heeft kunnen nemen.
 
 ##### Artikel 26. Tijdelijke uitbreiding van de kring van verzekerden op grond van het recht hebben op een uitkering
 
@@ -406,17 +404,15 @@ Vervallen
 
 ##### Artikel 27. Voortzetting van verzekeringsplicht op grond van de AKW
 
-1. Op de persoon die tot aan 1 januari 2000 verzekerd was op grond van de volksverzekeringen op grond van [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=5&artikel=26&z=2005-12-29&g=2005-12-29) en die, uitsluitend door het vervallen van dit artikel, vanaf die dag geen recht meer heeft op kinderbijslag op grond van de [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368), blijft eerderbedoeld [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=5&artikel=26&z=2005-12-29&g=2005-12-29), voor het bepalen van de verzekeringspositie op grond van uitsluitend de [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368), ook vanaf die dag van toepassing zolang het jongste kind voor wie de verzekerde voor die dag recht had op kinderbijslag de leeftijd van 18 jaar nog niet heeft bereikt.
-
-2. Indien de persoon, bedoeld in het eerste lid, op enig tijdstip niet langer voldoet aan een van de voorwaarden van [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=5&artikel=26&z=2005-12-29&g=2005-12-29), zoals dit artikel luidde op 31 december 1999, op grond waarvan hij, indien dat artikel niet zou zijn vervallen, niet langer verplicht verzekerd zou zijn, eindigt het recht op kinderbijslag op grond van de [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368). Het recht op kinderbijslag herleeft niet indien de belanghebbende op een daarna gelegen tijdstip weer aan de verzekeringsvoorwaarden op grond van eerderbedoeld [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=5&artikel=26&z=2005-12-29&g=2005-12-29) zou voldoen.
+Vervallen
 
 ##### Artikel 28. Voortzetting beschikkingen
 
-Beschikkingen, gegeven op grond van de artikelen 18, 23, 24 en 25 van het Besluit uitbreiding en beperking kring verzekerden volksverzekeringen 1989 worden aangemerkt als beschikkingen op grond van de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=3&artikel=18&z=2005-12-29&g=2005-12-29), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=3&artikel=21&z=2005-12-29&g=2005-12-29), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=3&artikel=22&z=2005-12-29&g=2005-12-29) en [24](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=4&artikel=24&z=2005-12-29&g=2005-12-29).
+Beschikkingen, gegeven op grond van de artikelen 18, 23, 24 en 25 van het Besluit uitbreiding en beperking kring verzekerden volksverzekeringen 1989 worden aangemerkt als beschikkingen op grond van de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=3&artikel=18&z=2006-01-01&g=2006-01-01), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=3&artikel=21&z=2006-01-01&g=2006-01-01), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=3&artikel=22&z=2006-01-01&g=2006-01-01) en [24](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=4&artikel=24&z=2006-01-01&g=2006-01-01).
 
 ##### Artikel 29. Ministeriële regelingen
 
-Na de inwerkingtreding van dit besluit berusten de ministeriële regelingen op grond van de artikelen 3, derde lid, en 13, tweede lid, van het Besluit uitbreiding en beperking kring verzekerden volksverzekeringen 1989 op [de artikelen 3, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=2&artikel=3&z=2005-12-29&g=2005-12-29), en [14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=3&artikel=14&z=2005-12-29&g=2005-12-29), van dit besluit.
+Na de inwerkingtreding van dit besluit berusten de ministeriële regelingen op grond van de artikelen 3, derde lid, en 13, tweede lid, van het Besluit uitbreiding en beperking kring verzekerden volksverzekeringen 1989 op [de artikelen 3, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=2&artikel=3&z=2006-01-01&g=2006-01-01), en [14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=3&artikel=14&z=2006-01-01&g=2006-01-01), van dit besluit.
 
 ##### Artikel 30. Intrekking
 
@@ -434,9 +430,37 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 21a. Vrijstelling verzekeringsplicht [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614)
 
-Dit onderdeel is nog niet inwerking getreden
+1. In afwijking van [artikel 14, derde lid, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=3&artikel=14&z=2006-01-01&g=2006-01-01), is niet verzekerd op grond van de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) de persoon die persoon op grond van een regeling van de in dat lid bedoelde organisatie aanspraken heeft op zorg, waaronder in ieder geval opname en verpleging in ziekenhuizen en in instellingen voor langdurige verpleging en verzorging, of op vergoeding voor de kosten daarvan, die een ouderdomspensioen op grond van de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221) ontvangt en aan wie het College zorgverzekeringen op zijn verzoek een vrijstelling van de verzekering op grond van de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) heeft verleend, tenzij hij in Nederland arbeid verricht.
+
+2. [Artikel 21, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=3&artikel=21&z=2006-01-01&g=2006-01-01), is niet van toepassing op de persoon die een ouderdomspensioen op grond van de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221) ontvangt en aan wie het College zorgverzekeringen op zijn verzoek een vrijstelling van de verzekering op grond van de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) heeft verleend, tenzij hij in Nederland arbeid verricht.
+
+3. Het College zorgverzekeringen verleent de vrijstelling indien wordt voldaan aan de in het eerste lid of aan de in [artikel 21, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=3&artikel=21&z=2006-01-01&g=2006-01-01), gestelde voorwaarden. De vrijstelling is onherroepelijk.
+
+4. Indien de aanvraag voor de vrijstelling voor 1 mei 2006 wordt ingediend door een persoon die op 31 december 2005 aan de in het eerste lid gestelde voorwaarde voldoet, gaat de vrijstelling in met ingang van 1 januari 2006. Indien de aanvraag wordt ingediend binnen vier maanden nadat een persoon voor het eerst is gaan voldoen aan de in het eerste lid genoemde voorwaarde, gaat de vrijstelling is met ingang van de dag waarop aan deze voorwaarde wordt voldaan. Indien de aanvraag voor de vrijstelling later wordt ingediend, gaat de vrijstelling in op de datum van de aanvraag om vrijstelling.
 
 #### § 4. Gemeenschappelijke bepalingen
+
+#### § 5. Overgangs- en slotbepalingen
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 21b. Ontheffing verzekeringsplicht AWBZ, AOW, ANW en AKW
+
+1. Voorzover de in Nederland wonende echtgenoot, kinderen en overige inwonende gezinsleden van de persoon, bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=3&artikel=14&z=2006-06-21&g=2006-01-01), niet van de verzekering op grond van de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) zijn uitgesloten op grond van de [artikelen 14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=3&artikel=14&z=2006-06-21&g=2006-01-01), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=3&artikel=21&z=2006-06-21&g=2006-01-01) of [21a](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=3&artikel=21a&z=2006-06-21&g=2006-01-01), wordt, op aanvraag, door de Sociale verzekeringsbank een ontheffing verleend van de verzekering op grond van zowel de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) als de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221), de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795) en de [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368), indien de echtgenoot, kinderen en overige inwonende gezinsleden op grond van een regeling van een op grond van [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=3&artikel=14&z=2006-06-21&g=2006-01-01), aangewezen volkenrechtelijke organisatie, aanspraken hebben op zorg, waaronder in ieder geval opname en verpleging in ziekenhuizen en in instellingen voor langdurige verpleging en verzorging, of op vergoeding voor de kosten daarvan.
+
+2. Het eerste lid is niet van toepassing op de echtgenoot, kinderen en overige inwonende gezinsleden die in Nederland arbeid verrichten of een Nederlandse sociale verzekeringsuitkering ontvangen, anders dan de in [artikel 21a](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=3&artikel=21a&z=2006-06-21&g=2006-01-01) bedoelde uitkering.
+
+3. De Sociale verzekeringsbank verleent de ontheffing indien en voor zolang wordt voldaan aan de in het eerste en tweede lid gestelde voorwaarden.
+
+4. Indien de aanvraag voor de ontheffing voor 1 juli 2006 wordt ingediend door een persoon die op 31 december 2005 aan de in het eerste en tweede lid gestelde voorwaarden voldoet, gaat de ontheffing in met ingang van 1 januari 2006.
+
+5. Indien de aanvraag voor de ontheffing wordt ingediend binnen vier maanden nadat een persoon voor het eerst is gaan voldoen aan de in het eerste en tweede lid gestelde voorwaarden, gaat de ontheffing in met ingang van de dag waarop aan deze voorwaarden wordt voldaan, maar niet eerder dan 1 januari 2006.
+
+6. Indien de aanvraag voor de ontheffing niet binnen de in het vierde of vijfde lid genoemde periode wordt ingediend, gaat de ontheffing in op de eerste dag van de maand volgende op de dag waarop de aanvraag door de Sociale verzekeringsbank is ontvangen, indien op die eerste dag aan de in het eerste en tweede lid gestelde voorwaarden wordt voldaan.
+
+7. De echtgenoot, kinderen en overige inwonende gezinsleden die op grond van het eerste lid zijn ontheven, blijven ontheven van de verzekering op grond van zowel de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) als de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221), de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795) en de [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368), gedurende de periode van een jaar, te rekenen vanaf de datum van overlijden van de persoon, bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=3&artikel=14&z=2006-06-21&g=2006-01-01), tenzij zij in Nederland arbeid verrichten.
+
+8. De Sociale verzekeringsbank stelt het College zorgverzekeringen op de hoogte van de in het eerste dan wel derde lid verleende, onderscheidenlijk ingetrokken, ontheffing.
 
 #### § 5. Overgangs- en slotbepalingen
 
