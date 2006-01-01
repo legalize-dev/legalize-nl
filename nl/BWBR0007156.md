@@ -4,7 +4,7 @@ identifier: "BWBR0007156"
 country: "nl"
 rank: "wet"
 publication_date: "2006-01-01"
-last_updated: "1996-01-01"
+last_updated: "2006-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007156"
 soort: "wet"
@@ -50,6 +50,8 @@ Bevat wijzigingen in andere regelgeving.
 
 ##### Artikel III
 
+Vervallen.
+
 Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel IV
@@ -80,7 +82,7 @@ Wijzigt deze wet.
 
 ##### Artikel X
 
-Tot een nader bij algemene maatregel van bestuur te bepalen tijdstip is op de berekening van het dagloon, bedoeld in de [artikelen 52](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=52), eerste en tweede lid, en [52**i**, derde lid, Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=52i), zoals deze luiden na inwerkingtreding van [artikel I, onderdelen R en S](https://wetten.overheid.nl/jci1.3:c:BWBR0007156&artikel=I&z=1996-01-01&g=1996-01-01), in plaats van [artikel 45 Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=45) en de daarop berustende bepalingen [artikel 34 Invoeringswet stelselherziening sociale zekerheid](https://wetten.overheid.nl/jci1.3:c:BWBR0004046&artikel=34) en de daarop berustende bepalingen van overeenkomstige toepassing.
+Vervallen
 
 ##### Artikel XI
 
@@ -94,9 +96,9 @@ Na de inwerkingtreding van deze wet berust:
 
 ##### Artikel XII
 
-1. Indien de eerste dag van werkloosheid ligt voor de datum waarop de [onderdelen A tot en met H, K tot en met W, Y en Z van artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0007156&artikel=I&z=1996-01-01&g=1996-01-01) van deze wet in werking treden, blijven de artikelen van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) en de daarop berustende bepalingen zoals deze luidden voor bovenbedoelde datum van toepassing ten aanzien van het recht op uitkering, het geldend maken van het recht op uitkering, de betaling van de uitkering en de duur en hoogte van de loondervingsuitkering en van de vervolguitkering.
+1. Indien de eerste dag van werkloosheid ligt voor de datum waarop de [onderdelen A tot en met H, K tot en met W, Y en Z van artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0007156&artikel=I&z=2006-01-01&g=2006-01-01) van deze wet in werking treden, blijven de artikelen van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) en de daarop berustende bepalingen zoals deze luidden voor bovenbedoelde datum van toepassing ten aanzien van het recht op uitkering, het geldend maken van het recht op uitkering, de betaling van de uitkering en de duur en hoogte van de loondervingsuitkering en van de vervolguitkering.
 
-2. In afwijking van het eerste lid zijn de [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=21), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=28), [35**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=35a), [35**b**](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=35b) en [50, derde en vierde lid, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=50), zoals deze luiden na de inwerkingtreding van [artikel I, onderdelen G, J, L en P](https://wetten.overheid.nl/jci1.3:c:BWBR0007156&artikel=I&z=1996-01-01&g=1996-01-01), tevens van toepassing op een recht op uitkering waarvan de eerste werkloosheidsdag ligt voor de in het eerste lid bedoelde datum, met dien verstande dat artikel 21, tweede lid, slechts van toepassing is bij gehele eindiging van dat recht op of na deze datum en dat artikel 35**a** slechts van toepassing is indien de bedrijfsvereniging de opleiding of scholing noodzakelijk heeft geacht op of na deze datum.
+2. In afwijking van het eerste lid zijn de [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=21), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=28), [35**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=35a), [35**b**](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=35b) en [50, derde en vierde lid, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=50), zoals deze luiden na de inwerkingtreding van [artikel I, onderdelen G, J, L en P](https://wetten.overheid.nl/jci1.3:c:BWBR0007156&artikel=I&z=2006-01-01&g=2006-01-01), tevens van toepassing op een recht op uitkering waarvan de eerste werkloosheidsdag ligt voor de in het eerste lid bedoelde datum, met dien verstande dat artikel 21, tweede lid, slechts van toepassing is bij gehele eindiging van dat recht op of na deze datum en dat artikel 35**a** slechts van toepassing is indien de bedrijfsvereniging de opleiding of scholing noodzakelijk heeft geacht op of na deze datum.
 
 3. Een recht op uitkering dat ingevolge [hoofdstuk II van de Werkloosheidswet](onbekend) is ontstaan voor de in het eerste lid bedoelde datum, wordt voor de toepassing van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) en de daarop berustende bepalingen alsmede voor de toepassing van [artikel 24 van de Invoeringswet stelselherziening sociale zekerheid](https://wetten.overheid.nl/jci1.3:c:BWBR0004046&artikel=24), zoals deze luiden op en na die datum, beschouwd als een recht op uitkering als bedoeld in hoofdstuk IIa van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045).
 
@@ -104,9 +106,9 @@ Na de inwerkingtreding van deze wet berust:
 
 5. Herhaalde toepassing van het vierde lid vindt slechts plaats indien ter zake van sinds de herleving, bedoeld in het vierde lid, verrichte arbeid opnieuw is voldaan aan [artikel 52**b**, eerste lid , van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=52b). [Artikel 17**a** van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=17a) en de daarop berustende bepalingen zijn van overeenkomstige toepassing.
 
-6. Indien het recht op uitkering is ontstaan voor de inwerkingtreding van [artikel I, onderdeel X](https://wetten.overheid.nl/jci1.3:c:BWBR0007156&artikel=I&z=1996-01-01&g=1996-01-01), van deze wet, blijft [artikel 90 van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=90), zoals dit luidde voor de inwerkingtreding van dit onderdeel van toepassing op de financiering van de uitkering uit een wachtgeldfonds.
+6. Indien het recht op uitkering is ontstaan voor de inwerkingtreding van [artikel I, onderdeel X](https://wetten.overheid.nl/jci1.3:c:BWBR0007156&artikel=I&z=2006-01-01&g=2006-01-01), van deze wet, blijft [artikel 90 van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=90), zoals dit luidde voor de inwerkingtreding van dit onderdeel van toepassing op de financiering van de uitkering uit een wachtgeldfonds.
 
-7. [Artikel 2, eerste lid, van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&artikel=2) en de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0004046&artikel=12) en [21 van de Invoeringswet stelselherziening sociale zekerheid](https://wetten.overheid.nl/jci1.3:c:BWBR0004046&artikel=21) zoals deze luidden op de dag voorafgaande aan de inwerkingtreding van de [artikelen II, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0007156&artikel=II&z=1996-01-01&g=1996-01-01), en [IV, onderdelen A en B](https://wetten.overheid.nl/jci1.3:c:BWBR0007156&artikel=IV&z=1996-01-01&g=1996-01-01), blijven van toepassing ten aanzien van de persoon wiens eerste dag van werkloosheid ligt voor de datum van inwerkingtreding van deze onderdelen.
+7. [Artikel 2, eerste lid, van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&artikel=2) en de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0004046&artikel=12) en [21 van de Invoeringswet stelselherziening sociale zekerheid](https://wetten.overheid.nl/jci1.3:c:BWBR0004046&artikel=21) zoals deze luidden op de dag voorafgaande aan de inwerkingtreding van de [artikelen II, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0007156&artikel=II&z=2006-01-01&g=2006-01-01), en [IV, onderdelen A en B](https://wetten.overheid.nl/jci1.3:c:BWBR0007156&artikel=IV&z=2006-01-01&g=2006-01-01), blijven van toepassing ten aanzien van de persoon wiens eerste dag van werkloosheid ligt voor de datum van inwerkingtreding van deze onderdelen.
 
 ##### Artikel XIII
 
