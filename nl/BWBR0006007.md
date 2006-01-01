@@ -4,7 +4,7 @@ identifier: "BWBR0006007"
 country: "nl"
 rank: "amvb"
 publication_date: "2006-01-01"
-last_updated: "2005-01-01"
+last_updated: "2006-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006007"
 soort: "AMvB"
@@ -62,21 +62,9 @@ In dit besluit wordt verstaan onder:
 
 De krachtens de [artikelen 4 tot en met 9 van de Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=4) (**Stb.** 1988, 360) gestelde voorschriften zijn niet van toepassing ten aanzien van waren die kennelijk bestemd zijn voor uitvoer:
 
-- a. voor zover ten aanzien van die waren voorschriften zijn gesteld krachtens de [Landbouwkwaliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&wetgeving), die betrekking hebben op een onderwerp waarin ook krachtens de [Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&wetgeving) is voorzien; of
+- a. voor zover die waren voldoen aan door het land van bestemming ter zake gestelde specifieke voorschriften, dan wel aan ter zake welbepaalde internationale regelingen, aan de totstandkoming waarvan de Nederlandse regering heeft meegewerkt, en die voorschriften onderscheidenlijk regelingen desgevraagd door de belanghebbende zijn overgelegd ten behoeve van de met het toezicht ter zake belaste autoriteit;
 
-- b.
-
-- a. voor zover ten aanzien van waren voorschriften van toepassing zijn welke zijn gesteld in: die betrekking hebben op een onderwerp waarin ook krachtens de Warenwet is voorzien; of
-
-- 1°. de Regeling uitvoer vers vlees en vleesbereidingen 1985;
-
-- 2°. de Regeling keuring en handelsverkeer vleesproducten 1993; of
-
-- 3°. de Regeling keuring en handel dierlijke producten;
-
-- c. voor zover die waren voldoen aan door het land van bestemming ter zake gestelde specifieke voorschriften, dan wel aan ter zake welbepaalde internationale regelingen, aan de totstandkoming waarvan de Nederlandse regering heeft meegewerkt, en die voorschriften onderscheidenlijk regelingen desgevraagd door de belanghebbende zijn overgelegd ten behoeve van de met het toezicht ter zake belaste autoriteit;
-
-- d. voor zover, bij gebreke van voorschriften of regelingen als bedoeld in **a**, **b** of **c**: en de belanghebbende desgevraagd ten behoeve van de met het toezicht ter zake belaste autoriteit alle in zijn bezit zijnde gegevens overlegt, die van nut kunnen zijn voor een feitelijke beoordeling ter zake.
+- b. voor zover, bij gebreke van voorschriften, bedoeld onder a: en de belanghebbende desgevraagd ten behoeve van de met het toezicht ter zake belaste autoriteit alle in zijn bezit zijnde gegevens overlegt, die van nut kunnen zijn voor een feitelijke beoordeling ter zake.
 
 - -. die waren, voor wat betreft samenstellingseisen die geen verband houden met de veiligheid of de deugdelijkheid, in het land van bestemming rechtmatig kunnen worden verhandeld;
 
