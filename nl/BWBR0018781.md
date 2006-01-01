@@ -4,7 +4,7 @@ identifier: "BWBR0018781"
 country: "nl"
 rank: "wet"
 publication_date: "2008-01-01"
-last_updated: "2005-11-16"
+last_updated: "2006-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018781"
 soort: "wet"
@@ -45,23 +45,23 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel I
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Meststoffenwet.
 
 ##### Artikel II
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Algemene wet bestuursrecht.
 
 ##### Artikel III
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet bestuursrechtspraak bedrijfsorganisatie.
 
 ##### Artikel IV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet herstructurering varkenshouderij.
 
 ##### Artikel V
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de economische delicten.
 
 ##### Artikel VI
 
@@ -93,10 +93,12 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XI
 
-Dit onderdeel is nog niet inwerking getreden
+1. De wijzigingen voorzien in deze wet zijn niet van toepassing op gedragingen die hebben plaatsgevonden voor de dag waarop de desbetreffende artikelonderdelen in werking treden.
+
+2. [Hoofdstuk IV van de Meststoffenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=IV) en de ter uitvoering van dat hoofdstuk gestelde regels, zoals deze luidden op 31 december 2005, blijven van toepassing op de heffing en invordering van tot en met 31 december 2005 verschuldigd geworden heffingen.
 
 ##### Artikel XII
 
-Dit onderdeel is nog niet inwerking getreden
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
