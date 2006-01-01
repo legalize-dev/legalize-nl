@@ -4,7 +4,7 @@ identifier: "BWBR0012102"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2013-09-14"
-last_updated: "2001-01-01"
+last_updated: "2006-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012102"
 soort: "ministeriele-regeling"
@@ -54,7 +54,7 @@ Besluit:
 
 ##### Artikel 2
 
-Indien het bevoegd gezag een functie aanwijst conform het [eerste artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0012102&artikel=1&z=2001-01-01&g=2001-01-01), wordt dit binnen het regionale politiekorps kenbaar gemaakt.
+Indien het bevoegd gezag een functie aanwijst conform het [eerste artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0012102&artikel=1&z=2001-01-01&g=2006-01-01), wordt dit binnen het regionale politiekorps kenbaar gemaakt.
 
 ##### Artikel 3
 
