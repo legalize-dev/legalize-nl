@@ -4,7 +4,7 @@ identifier: "BWBR0006982"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2005-09-14"
+last_updated: "2006-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006982"
 soort: "AMvB"
@@ -150,29 +150,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 3
 
-1. Rauwe koemelk, bestemd voor directe aflevering aan particulieren, is uitsluitend aanwezig:
-
-- 1°. op het bedrijf van de melkveehouder waar die melk gewonnen is; en
-
-- 2°. in een recipiënt die niet geschikt is om met de inhoud afgeleverd te worden aan particulieren;
-
-en voldoet aan de volgende eisen:
-
-- a. kiemgetal bij 30°C 50 000 per ml ; 1Meetkundig gemiddelde, geconstateerd over een periode van twee maanden, met ten minste twee monsternemingen per maand.
-
-- b. Staphylococcus aureus (per ml): m = 100, M = 500, n = 5, c = 2 ; 2n: aantal eenheden waaruit een monster bestaat;m: drempelwaarde voor het aantal bacteriën; het resultaat wordt bevredigend geacht als het aantal bacteriën in alle eenheden gelijk is aan of kleiner is dan m;M: maximumwaarde voor het aantal bacteriën; het resultaat wordt onbevredigend geacht als het aantal bacteriën in één of meer eenheden gelijk is aan of groter is dan M;c: aantal eenheden waarin het aantal bacteriën mag liggen tussen m en M, en waarbij het monster nog aanvaardbaar wordt geacht als het aantal bacteriën in de andere eenheden gelijk is aan of kleiner is dan m.
-
-- c. Salmonella is afwezig in 25 g: n = 5, c = 0.
-
-2. De in het eerste lid bedoelde melk wordt, wanneer zij niet binnen twee uur na het melken aan de consument wordt verkocht, gekoeld tot:
-
-- a. indien die melk binnen 24 uur na het melken verkocht wordt: een temperatuur van 8°C of lager;
-
-- b. indien die melk niet binnen 24 uur na het melken verkocht wordt: een temperatuur van 6°C of lager.
-
-3. Op of in de directe omgeving van de in het eerste lid bedoelde recipiënt wordt duidelijk leesbaar de vermelding RAUWE MELK VOOR GEBRUIK KOKEN gebezigd.
-
-4. Onze Minister kan, in overeenstemming met Onze Minister van Landbouw, Natuurbeheer en Visserij, nadere regels stellen inzake rauwe melk die niet afkomstig is van koeien en bestemd is voor directe aflevering aan particulieren, voor zover die regels betrekking hebben op de in het eerste, tweede of derde lid bedoelde onderwerpen.
+Vervallen
 
 #### § 3. Uitvoering EEG-richtlijnen
 
@@ -194,9 +172,7 @@ geschieden op hygiënische wijze.
 
 - b. [Richtlijn 83/417/EEG](31983L0417);
 
-- c. [Richtlijn 92/46/EEG](31992L0046); en
-
-- d. voor zover noodzakelijk, [Richtlijn 92/47/EEG](31992L0047);
+- c. [Richtlijn 92/46/EEG](31992L0046);
 
 nadere regels ten aanzien van de bereiding, behandeling, etikettering, vervoer en verhandeling van de in het eerste lid bedoelde waren.
 
@@ -284,7 +260,7 @@ waaraan voor, tijdens of na de verzuring uitsluitend wei-eiwitconcentraat of cas
 
 ##### Artikel 10
 
-1. Ten aanzien van een op de voet van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0006982&paragraaf=5&artikel=9&z=2005-09-14&g=2005-09-14) aangeduide waar, aanwezig in een verpakking, wordt een van toepassing zijnde vermelding uit kolom A gebezigd inzake het vetgehalte van de droge stof van die waar:
+1. Ten aanzien van een op de voet van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0006982&paragraaf=5&artikel=9&z=2006-01-01&g=2006-01-01) aangeduide waar, aanwezig in een verpakking, wordt een van toepassing zijnde vermelding uit kolom A gebezigd inzake het vetgehalte van de droge stof van die waar:
 
 | A | B |
 | --- | --- |
@@ -314,7 +290,7 @@ Aan de vermeldingen 50+, 48+ en 45+ mag worden toegevoegd: volvet(te).
 
 ##### Artikel 11
 
-Bij een in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006982&paragraaf=5&artikel=9&z=2005-09-14&g=2005-09-14), bedoelde aanduiding wordt een vermelding gebezigd inzake de naam van het desbetreffende land van bereiding, tenzij het een kaassoort betreft:
+Bij een in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006982&paragraaf=5&artikel=9&z=2006-01-01&g=2006-01-01), bedoelde aanduiding wordt een vermelding gebezigd inzake de naam van het desbetreffende land van bereiding, tenzij het een kaassoort betreft:
 
 - a. vermeld is in bijlage II en bereid is in het daar bedoelde land van origine; of
 
@@ -322,7 +298,7 @@ Bij een in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR00069
 
 ##### Artikel 12
 
-1. Gehele schapekaas, geitekaas of kaas zoals bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0006982&paragraaf=5&artikel=9&z=2005-09-14&g=2005-09-14), die onverpakt is en:
+1. Gehele schapekaas, geitekaas of kaas zoals bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0006982&paragraaf=5&artikel=9&z=2006-01-01&g=2006-01-01), die onverpakt is en:
 
 - a. aanwezig is in winkels of in enige andere voor het publiek toegankelijke verkoopplaats; en
 
@@ -342,7 +318,7 @@ is voorzien van de desbetreffende aanduiding en van een vermelding, aangevende h
 
 ##### Artikel 12a
 
-1. Op de korst van schapekaas, geitekaas en kaas zoals bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0006982&paragraaf=5&artikel=9&z=2005-09-14&g=2005-09-14), mogen slechts zijn aangebracht:
+1. Op de korst van schapekaas, geitekaas en kaas zoals bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0006982&paragraaf=5&artikel=9&z=2006-01-01&g=2006-01-01), mogen slechts zijn aangebracht:
 
 - a. ingrediënten van eet- en drinkwaren;
 
@@ -364,7 +340,7 @@ onder de voorwaarden die ter zake zijn gesteld krachtens het [Warenwetbesluit Le
 
 3. Onze Minister kan in overeenstemming met Onze Minister van Landbouw, Natuurbeheer en Visserij, nadere regels vaststellen inzake het eerste en tweede lid.
 
-4. Het bepaalde in het eerste en tweede lid is niet van toepassing op schapekaas, geitekaas en kaas zoals bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0006982&paragraaf=5&artikel=9&z=2005-09-14&g=2005-09-14), die in een andere lidstaat van de Europese Unie of in een andere staat die partij is bij de overeenkomst betreffende de Europese Economische Ruimte rechtmatig zijn bereid en in het verkeer gebracht, onder de voorwaarde dat de korst van die kazen bedekt is met kaaskorstbedekkingsmiddelen die in die staten wettelijk daartoe zijn toegestaan.
+4. Het bepaalde in het eerste en tweede lid is niet van toepassing op schapekaas, geitekaas en kaas zoals bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0006982&paragraaf=5&artikel=9&z=2006-01-01&g=2006-01-01), die in een andere lidstaat van de Europese Unie of in een andere staat die partij is bij de overeenkomst betreffende de Europese Economische Ruimte rechtmatig zijn bereid en in het verkeer gebracht, onder de voorwaarde dat de korst van die kazen bedekt is met kaaskorstbedekkingsmiddelen die in die staten wettelijk daartoe zijn toegestaan.
 
 ##### Artikel 13
 
@@ -468,7 +444,7 @@ Bevat wijzigingen in andere regelgeving.
 
 - a. de artikelen 2 tot en met 5, en artikel 7, tweede lid, van [verordening (EG) nr. 2597/97](31997R2597) van de Raad van 18 december 1997 houdende aanvullende voorschriften voor de gemeenschappelijke ordening der markten in de sector melk en zuivelproducten met betrekking tot consumptiemelk (PbEG L 351); en
 
-- b. artikel 2 en artikel 3 van [Verordening (EEG) nr 1898/87](31987R1898) van de Raad van 2 juli 1987 betreffende de bescherming van de benaming van melk en zuivelprodukten bij het in de handel brengen; treedt voor de toepassing van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006982&paragraaf=1&artikel=2&z=2005-09-14&g=2005-09-14), onderscheidenlijk [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006982&paragraaf=1&artikel=2&z=2005-09-14&g=2005-09-14), in werking met ingang van de dag waarop de betrokken wijzigingsverordening in werking treedt.
+- b. artikel 2 en artikel 3 van [Verordening (EEG) nr 1898/87](31987R1898) van de Raad van 2 juli 1987 betreffende de bescherming van de benaming van melk en zuivelprodukten bij het in de handel brengen; treedt voor de toepassing van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006982&paragraaf=1&artikel=2&z=2006-01-01&g=2006-01-01), onderscheidenlijk [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006982&paragraaf=1&artikel=2&z=2006-01-01&g=2006-01-01), in werking met ingang van de dag waarop de betrokken wijzigingsverordening in werking treedt.
 
 3. Een wijziging van:
 
@@ -476,13 +452,13 @@ Bevat wijzigingen in andere regelgeving.
 
 - b. [Richtlijn 85/503/EEG](31985L0503);
 
-treedt voor de toepassing van [artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006982&paragraaf=7&artikel=18&z=2005-09-14&g=2005-09-14), onderscheidenlijk [artikel 18, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006982&paragraaf=7&artikel=18&z=2005-09-14&g=2005-09-14), in werking met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uiterlijk uitvoering moet zijn gegeven.
+treedt voor de toepassing van [artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006982&paragraaf=7&artikel=18&z=2006-01-01&g=2006-01-01), onderscheidenlijk [artikel 18, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006982&paragraaf=7&artikel=18&z=2006-01-01&g=2006-01-01), in werking met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uiterlijk uitvoering moet zijn gegeven.
 
 ##### Artikel 22
 
 Dit besluit wordt aangehaald als: Warenwetbesluit Zuivel.
 
-## Bijlage. Deze bijlage behoort bij [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006982&paragraaf=5&artikel=9&z=2005-09-14&g=2005-09-14), en [10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006982&paragraaf=5&artikel=10&z=2005-09-14&g=2005-09-14).
+## Bijlage. Deze bijlage behoort bij [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006982&paragraaf=5&artikel=9&z=2006-01-01&g=2006-01-01), en [10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006982&paragraaf=5&artikel=10&z=2006-01-01&g=2006-01-01).
 
 Lijst van namen van kaassoorten, waarvoor kaasstandaarden bestaan die aanvaard zijn door de Nederlandse Regering, gevolgd door het land van origine van die soort.
 
