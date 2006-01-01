@@ -4,7 +4,7 @@ identifier: "BWBR0005758"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-01-01"
-last_updated: "2005-11-04"
+last_updated: "2006-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005758"
 soort: "AMvB"
@@ -76,7 +76,7 @@ Dit besluit berust mede op de [artikelen 19](https://wetten.overheid.nl/jci1.3:c
 
 7. Het is verboden eet- of drinkwaren te verhandelen die afkomstig zijn van dieren waarop diergeneesmiddelen zijn beproefd, tenzij overeenkomstig [Verordening (EEG) nr. 2377/90](31990R2377) van de Raad van de Europese Gemeenschappen van 26 juni 1990 houdende een communautaire procedure tot vaststelling van maximumwaarden voor residuen van geneesmiddelen voor diergeneeskundig gebruik in levensmiddelen van dierlijke oorsprong (PbEG L 224) maximumwaarden aan residuen en een passende wachttijd zijn vastgesteld om te waarborgen dat deze maximumwaarden aan residuen in die eet- of drinkwaren niet worden overschreden, en die bepalingen in acht zijn genomen.
 
-8. Het is verboden pluimveevlees te verhandelen anders dan met inachtneming van [artikel 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=3&artikel=4a&z=2005-11-04&g=2005-11-04) inzake de verpakking van de waar.
+8. Het is verboden pluimveevlees te verhandelen anders dan met inachtneming van [artikel 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=3&artikel=4a&z=2006-01-01&g=2006-01-01) inzake de verpakking van de waar.
 
 9. Het is verboden te handelen in strijd met artikel 1, eerste lid, artikel 2, derde lid, artikel 4, tweede en derde lid, en artikel 4 bis, van [verordening (EG) 466/2001](32001R0466).
 
@@ -90,31 +90,7 @@ Dit besluit berust mede op de [artikelen 19](https://wetten.overheid.nl/jci1.3:c
 
 ##### Artikel 3
 
-1. Het bereiden, behandelen, verpakken of bewaren van eet- of drinkwaren mag uitsluitend geschieden in bedrijfsruimten.
-
-2. Het bereiden, behandelen, verpakken, bewaren en vervoeren van eet- of drinkwaren en grondstoffen moet zodanig geschieden dat:
-
-- a. geen verontreiniging plaats kan hebben met zodanige hoeveelheden van stoffen dat zij uit het oogpunt van de gezondheid van de mens schadelijk kunnen zijn, of met organismen of virussen die onder redelijkerwijze te verwachten omstandigheden schadelijk kunnen zijn of worden;
-
-- b. organismen als onder a bedoeld zich niet zodanig kunnen vermeerderen of zodanige toxinen kunnen vormen dat zij uit het oogpunt van de gezondheid van de mens schadelijk kunnen zijn of worden; en
-
-- c. de voedings- of gebruikswaarde van de waar niet minder is of kan worden dan in redelijkheid ten minste mag worden verlangd.
-
-3. Onze Minister stelt, in overeenstemming met Onze Minister van Landbouw, Natuurbeheer en Visserij, ter uitvoering van [Richtlijn nr. 93/43/EEG](31993L0043) van de Raad van de Europese Gemeenschappen van 14 juni 1993 inzake levensmiddelenhygiëne (PbEG L 175) nadere regels inzake het eerste en tweede lid.
-
-4. Onze Minister kan, in overeenstemming met Onze Minister van Landbouw, Natuurbeheer en Visserij, en met inachtneming van [artikel 7, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=3&artikel=7&z=2005-11-04&g=2005-11-04), van de in het derde lid genoemde richtlijn, nadere regels stellen inzake het eerste en tweede lid, voor zover die betrekking hebben op:
-
-- a. de inrichting en het gebruik van bedrijfsruimten of bereidplaatsen;
-
-- b. de wijze waarop en de omstandigheden waaronder de bereiding, de behandeling of het vervoer van eet- of drinkwaren en grondstoffen moet plaatsvinden;
-
-- c. de deugdelijkheid en het gebruik van voorwerpen, gereedschappen of materialen; en
-
-- d. de gezondheidstoestand van personen die in bereidplaatsen werkzaam zijn.
-
-5. Het bestuur van een produkt-, een hoofdbedrijf- of een bedrijfschap kan nadere regels stellen of andere besluiten nemen ten aanzien van het eerste lid.
-
-6. De op grond van een in het vijfde lid bedoelde verordening vastgestelde nadere voorschriften of genomen besluiten behoeven de goedkeuring van Onze Minister.
+Vervallen
 
 ##### Artikel 4
 
@@ -162,17 +138,7 @@ Deze vermelding wordt aangebracht:
 
 ##### Artikel 5
 
-1. Bij de bereiding en behandeling van eet- of drinkwaren en grondstoffen mag uitsluitend gebruik worden gemaakt van voor menselijke consumptie bestemd water dat op het punt waar het in het desbetreffende bedrijf gebruikt wordt:
-
-- a. ten minste voldoet aan de bij of krachtens de [Waterleidingwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002246) aan drinkwater gestelde eisen; of
-
-- b. een zodanige kwaliteit heeft dat het naar het oordeel van de Voedsel en Waren Autoriteit, de deugdelijkheid van de daarmee bereide of behandelde eet- of drinkwaren niet kan aantasten.
-
-2. In bereidplaatsen mogen geen aftap-punten van water aanwezig zijn dat niet voldoet aan het eerste lid, met dien verstande dat zulks niet geldt voor de aanwezigheid van installaties met bluswater.
-
-3. Het eerste lid is niet van toepassing ten aanzien van eet- of drinkwaren waarvoor in enig wettelijk voorschrift anders is bepaald.
-
-4. In afwijking van [artikel 8, eerste lid, van het Warenwetbesluit Verpakte waters](https://wetten.overheid.nl/jci1.3:c:BWBR0009828&artikel=8) is natuurlijk mineraalwater, bestemd voor de bereiding van een als **limonade**of als **frisdrank**aangeduide waar, aan de bron gebotteld of in een andere recipiënt geplaatst die niet bestemd is voor de eindverbruiker.
+Vervallen
 
 ##### Artikel 5a
 
@@ -252,7 +218,7 @@ Het gehalte aan erucazuur in eet- of drinkwaren, berekend op het totale gehalte 
 
 ##### Artikel 13
 
-In eet- en drinkwaren mogen door Onze Minister aangewezen verontreinigingen, andere dan bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=4&artikel=12&z=2005-11-04&g=2005-11-04), die uit oogpunt van gezondheid schadelijk kunnen zijn, niet in een grotere hoeveelheid aanwezig zijn dan door Onze Minister, in overeenstemming met Onze Minister van Landbouw, Natuurbeheer en Visserij, voor de betrokken stof is vastgesteld. De hoeveelheid kan voor de onderscheiden eet- of drinkwaren verschillend worden bepaald.
+In eet- en drinkwaren mogen door Onze Minister aangewezen verontreinigingen, andere dan bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=4&artikel=12&z=2006-01-01&g=2006-01-01), die uit oogpunt van gezondheid schadelijk kunnen zijn, niet in een grotere hoeveelheid aanwezig zijn dan door Onze Minister, in overeenstemming met Onze Minister van Landbouw, Natuurbeheer en Visserij, voor de betrokken stof is vastgesteld. De hoeveelheid kan voor de onderscheiden eet- of drinkwaren verschillend worden bepaald.
 
 #### § 4. Verontreinigingen
 
@@ -296,7 +262,7 @@ is [artikel 17 van het Warenwetbesluit Etikettering van levensmiddelen](https://
 
 7. De op grond van een in het zesde lid bedoelde verordening vastgestelde nadere voorschriften of genomen besluiten behoeven de goedkeuring van Onze Minister.
 
-8. Het eerste lid, onder b, is niet van toepassing op het vervoer of het in voorraad houden van niet-voorverpakte eet- of drinkwaren of grondstoffen gedurende een nader te bepalen periode van ten hoogste 24 uur na de bereiding daarvan, voor zover de ter zake in een krachtens dit besluit door Onze Minister goedgekeurde hygiënecode vastgestelde voorschriften in acht worden genomen. De desbetreffende hygiënecode zal slechts worden goedgekeurd indien voldaan is aan de volgende voorschriften:
+8. Het eerste lid, onder b, is niet van toepassing op het vervoer of het in voorraad houden van niet-voorverpakte eet- of drinkwaren of grondstoffen gedurende een nader te bepalen periode van ten hoogste 24 uur na de bereiding daarvan, voor zover de ter zake in een krachtens het [Warenwetbesluit hygiëne van levensmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0018823) door Onze Minister goedgekeurde hygiënecode vastgestelde voorschriften in acht worden genomen. De desbetreffende hygiënecode zal slechts worden goedgekeurd indien voldaan is aan de volgende voorschriften:
 
 - a. de uitzondering heeft slechts betrekking op eet- of drinkwaren of grondstoffen waarvan koeling met het oog op de smaak ongewenst is, of die bij de bereiding direct voorafgaand aan de ongekoelde bewaar- of vervoerperiode een intensieve hittebehandeling hebben ondergaan;
 
@@ -310,9 +276,7 @@ is [artikel 17 van het Warenwetbesluit Etikettering van levensmiddelen](https://
 
 ##### Artikel 16
 
-1. De verpakking van eet- of drinkwaren, waaronder tevens wordt verstaan materiaal ter afsluiting van de verpakking, moet zodanig zijn uitgevoerd, dat scheiding van het verpakkingsmateriaal en de waar op eenvoudige wijze mogelijk is, zonder dat delen ervan op of in de waar achterblijven.
-
-2. Eet- of drinkwaren mogen niet zijn verpakt tezamen met andere waren in een verpakking bestemd of geschikt voor de eindverbruiker, indien die andere waren, bij aanwending overeenkomstig redelijkerwijs te verwachten gebruik, uit het oogpunt van gezondheid schadelijk kunnen zijn.
+Vervallen
 
 ##### Artikel 17
 
@@ -330,7 +294,7 @@ is [artikel 17 van het Warenwetbesluit Etikettering van levensmiddelen](https://
 
 1. Als methoden van onderzoek welke bij uitsluiting beslissend zijn voor de vaststelling of al dan niet is voldaan aan de bij of krachtens dit besluit gestelde regels, worden aangewezen microbiologische onderzoekingsmethoden, chromatografische en andere scheidingsmethoden, organoleptische bepalingsmethoden en detectiemethoden, alsmede de daartoe door een andere Lid-Staat van de Europese Economische Gemeenschap aangewezen methoden.
 
-2. Onverminderd het eerste lid worden bij de vaststelling of al dan niet is voldaan aan [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=3&artikel=5&z=2005-11-04&g=2005-11-04), de specificaties in acht genomen die zijn omschreven in bijlage III van [richtlijn 98/83/EG](31998L0083), met dien verstande dat:
+2. Onverminderd het eerste lid worden bij de vaststelling of al dan niet is voldaan aan [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=3&artikel=5&z=2006-01-01&g=2006-01-01), de specificaties in acht genomen die zijn omschreven in bijlage III van [richtlijn 98/83/EG](31998L0083), met dien verstande dat:
 
 - a. andere dan in bijlage III, deel 1, van die richtlijn vermelde methoden gebruikt mogen worden voor zover kan worden aangetoond dat de daarmee verkregen resultaten ten minste even betrouwbaar zijn als die van de gespecificeerde methoden;
 
@@ -360,9 +324,9 @@ een en ander behoudens indien de toestemming op een eerder tijdstip wordt ingetr
 
 1. Dit besluit treedt in werking met ingang van de derde maand na de datum van uitgifte van het Staatsblad, waarin het wordt geplaatst.
 
-2. In afwijking van het eerste lid treden de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=1&artikel=2&z=2005-11-04&g=2005-11-04), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=5&artikel=14&z=2005-11-04&g=2005-11-04) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=7&artikel=18&z=2005-11-04&g=2005-11-04) in werking met ingang van 10 januari 1993.
+2. In afwijking van het eerste lid treden de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=1&artikel=2&z=2006-01-01&g=2006-01-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=5&artikel=14&z=2006-01-01&g=2006-01-01) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=7&artikel=18&z=2006-01-01&g=2006-01-01) in werking met ingang van 10 januari 1993.
 
-3. In afwijking van het eerste lid treedt [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=5&artikel=15&z=2005-11-04&g=2005-11-04), voor zover het betreft het vervoer van de daar bedoelde eet- of drinkwaar, en tweede en derde lid, in werking met ingang van de achttiende maand na de in het eerste lid bedoelde datum.
+3. In afwijking van het eerste lid treedt [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=5&artikel=15&z=2006-01-01&g=2006-01-01), voor zover het betreft het vervoer van de daar bedoelde eet- of drinkwaar, en tweede en derde lid, in werking met ingang van de achttiende maand na de in het eerste lid bedoelde datum.
 
 4. Een wijziging van bijlage III van [richtlijn 98/83/EG](31998L0083) gaat voor de toepassing van dit besluit gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
 
