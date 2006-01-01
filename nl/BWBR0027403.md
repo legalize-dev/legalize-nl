@@ -4,7 +4,7 @@ identifier: "BWBR0027403"
 country: "nl"
 rank: "wet"
 publication_date: "2010-03-24"
-last_updated: "2004-01-01"
+last_updated: "2006-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027403"
 soort: "wet"
@@ -40,11 +40,11 @@ entry_into_force: "2010-03-24"
 
 ##### Artikel I
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet schadeloosstelling leden Tweede Kamer.
 
 ##### Artikel II
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet vergoedingen leden Eerste Kamer.
 
 ##### Artikel III
 
@@ -81,11 +81,3 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel VIII
 
 Dit onderdeel is nog niet inwerking getreden
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de uitkeringsrechten van leden van de Tweede Kamer te harmoniseren, alsmede dat het wenselijk is dat de leden van de Tweede Kamer en het Europees Parlement hun nevenfuncties en de daaraan verbonden inkomsten openbaar maken en dat leden van de Eerste Kamer hun nevenfuncties openbaar maken;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
