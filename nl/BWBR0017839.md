@@ -4,7 +4,7 @@ identifier: "BWBR0017839"
 country: "nl"
 rank: "wet"
 publication_date: "2006-01-01"
-last_updated: "2005-01-01"
+last_updated: "2006-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017839"
 soort: "wet"
@@ -42,6 +42,8 @@ Alzo Wij in overweging genomen hebben, dat het, in het kader van het geven van z
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
+De datum van inwerkingtreding is vastgesteld onder toepassing van artikel 16 van de Tijdelijke referendumwet.
+
 ##### Artikel I. Wijziging [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045)
 
 Wijzigt de Werkloosheidswet.
@@ -60,11 +62,11 @@ Wijzigt de Coördinatiewet sociale verzekering.
 
 ##### Artikel IVa. Wijziging Wet financiering sociale verzekeringen
 
-Wijzigt de Wet financiering sociale verzekeringen (kst. 29529).
+Vervallen
 
-##### Artikel IVb. Nummering [artikel IVa](https://wetten.overheid.nl/jci1.3:c:BWBR0017839&artikel=IVa&z=2005-01-01&g=2005-01-01)
+##### Artikel IVb. Nummering artikel IVa
 
-Voor de plaatsing in het Staatsblad brengt Onze Minister de aanhalingen van de artikelen, paragrafen, afdelingen en hoofdstukken van de Wet financiering sociale verzekeringen die voorkomen in [artikel IVa](https://wetten.overheid.nl/jci1.3:c:BWBR0017839&artikel=IVa&z=2005-01-01&g=2005-01-01) in overeenstemming met de op grond van artikel 8.4 van de Wet financiering sociale verzekeringen vastgestelde nieuwe nummering van die wet.
+Vervallen
 
 ##### Artikel V. Wijziging [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353)
 
