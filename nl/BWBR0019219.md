@@ -4,7 +4,7 @@ identifier: "BWBR0019219"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2010-04-29"
-last_updated: "2005-12-22"
+last_updated: "2006-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019219"
 soort: "ministeriele-regeling"
@@ -58,7 +58,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-Onverminderd hetgeen in de hierna volgende artikelen wordt bepaald, berust de verantwoordelijkheid voor de inhoud en aanwending van voorlichtings- en andere communicatie-uitingen bij de onder [artikel 1 sub b, e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0019219&artikel=1&z=2005-12-22&g=2005-12-22) bedoelde instellingen.
+Onverminderd hetgeen in de hierna volgende artikelen wordt bepaald, berust de verantwoordelijkheid voor de inhoud en aanwending van voorlichtings- en andere communicatie-uitingen bij de onder [artikel 1 sub b, e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0019219&artikel=1&z=2006-01-01&g=2006-01-01) bedoelde instellingen.
 
 ##### Artikel 3
 
@@ -68,12 +68,14 @@ Onverminderd hetgeen in de hierna volgende artikelen wordt bepaald, berust de ve
 
 - a. organisaties gelieerd aan de rijksoverheid;
 
+- b. derden.
+
 ##### Artikel 4
 
-De Postbus 51 Informatiedienst neemt bij het verrichten van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019219&artikel=3&z=2005-12-22&g=2005-12-22) genoemde marktactiviteiten de bepalingen van [hoofdstuk 3 van de Aanwijzingen voor het verrichten van marktactiviteiten door de rijksdienst](onbekend) in acht.
+De Postbus 51 Informatiedienst neemt bij het verrichten van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019219&artikel=3&z=2006-01-01&g=2006-01-01) genoemde marktactiviteiten de bepalingen van [hoofdstuk 3 van de Aanwijzingen voor het verrichten van marktactiviteiten door de rijksdienst](onbekend) in acht.
 
 ##### Artikel 5
 
-1. Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin zij wordt geplaatst, met uitzondering van [artikel 3 lid 2 sub b](https://wetten.overheid.nl/jci1.3:c:BWBR0019219&artikel=3&z=2005-12-22&g=2005-12-22) dat in werking treedt op 1 januari 2006.
+1. Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin zij wordt geplaatst, met uitzondering van [artikel 3 lid 2 sub b](https://wetten.overheid.nl/jci1.3:c:BWBR0019219&artikel=3&z=2006-01-01&g=2006-01-01) dat in werking treedt op 1 januari 2006.
 
 2. Deze regeling wordt aangehaald als: Regeling publieksvoorlichting voor derden.
