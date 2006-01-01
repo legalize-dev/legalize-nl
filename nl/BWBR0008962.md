@@ -4,7 +4,7 @@ identifier: "BWBR0008962"
 country: "nl"
 rank: "amvb"
 publication_date: "2023-01-01"
-last_updated: "1997-12-01"
+last_updated: "2006-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008962"
 soort: "AMvB"
@@ -68,15 +68,15 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 2
 
-Om in het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008962&paragraaf=2&artikel=3&z=1997-12-01&g=1997-12-01) van de wet bedoelde register van fysiotherapeuten te kunnen worden ingeschreven, is vereist het bezit van een getuigschrift waaruit blijkt dat betrokkene met goed gevolg het afsluitende examen heeft afgelegd van een opleiding voor fysiotherapie die is opgenomen in het Centraal register opleidingen hoger onderwijs en die voldoet aan [de artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008962&paragraaf=2&artikel=3&z=1997-12-01&g=1997-12-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0008962&paragraaf=2&artikel=4&z=1997-12-01&g=1997-12-01) van dit besluit.
+Om in het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008962&paragraaf=2&artikel=3&z=1997-12-01&g=2006-01-01) van de wet bedoelde register van fysiotherapeuten te kunnen worden ingeschreven, is vereist het bezit van een getuigschrift waaruit blijkt dat betrokkene met goed gevolg het afsluitende examen heeft afgelegd van een opleiding voor fysiotherapie die is opgenomen in het Centraal register opleidingen hoger onderwijs en die voldoet aan [de artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008962&paragraaf=2&artikel=3&z=1997-12-01&g=2006-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0008962&paragraaf=2&artikel=4&z=1997-12-01&g=2006-01-01) van dit besluit.
 
 ##### Artikel 3
 
-Een opleiding als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008962&paragraaf=2&artikel=2&z=1997-12-01&g=1997-12-01) omvat [de volgende onderdelen](https://wetten.overheid.nl/jci1.3:c:BWBR0008962&paragraaf=2&artikel=3&z=1997-12-01&g=1997-12-01):
+Een opleiding als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008962&paragraaf=2&artikel=2&z=1997-12-01&g=2006-01-01) omvat [de volgende onderdelen](https://wetten.overheid.nl/jci1.3:c:BWBR0008962&paragraaf=2&artikel=3&z=1997-12-01&g=2006-01-01):
 
 - a. het centrale vakgebied fysiotherapie, omvattende:
 
-- 1°. onderzoeken en behandelen van de patiënt in het kader van het gebied van deskundigheid zoals omschreven in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0008962&paragraaf=3&artikel=5&z=1997-12-01&g=1997-12-01);
+- 1°. onderzoeken en behandelen van de patiënt in het kader van het gebied van deskundigheid zoals omschreven in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0008962&paragraaf=3&artikel=5&z=1997-12-01&g=2006-01-01);
 
 - 2°. theorie en praktijk van de fysiotherapie;
 
@@ -92,7 +92,7 @@ Een opleiding als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWB
 
 ##### Artikel 4
 
-1. De in [artikel 3, onder **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0008962&paragraaf=2&artikel=3&z=1997-12-01&g=1997-12-01), bedoelde beroepsvoorbereidende periode omvat het in het werkveld toepassen van tijdens de studie verworven kennis, inzicht en vaardigheden met betrekking tot het gebied van deskundigheid zoals omschreven in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0008962&paragraaf=3&artikel=5&z=1997-12-01&g=1997-12-01).
+1. De in [artikel 3, onder **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0008962&paragraaf=2&artikel=3&z=1997-12-01&g=2006-01-01), bedoelde beroepsvoorbereidende periode omvat het in het werkveld toepassen van tijdens de studie verworven kennis, inzicht en vaardigheden met betrekking tot het gebied van deskundigheid zoals omschreven in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0008962&paragraaf=3&artikel=5&z=1997-12-01&g=2006-01-01).
 
 2. De beroepsvoorbereidende periode vindt plaats onder begeleiding van een daartoe door de instelling aangewezen docent en wordt doorgebracht onder toezicht van een fysiotherapeut.
 
