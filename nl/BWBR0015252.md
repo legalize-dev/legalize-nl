@@ -4,7 +4,7 @@ identifier: "BWBR0015252"
 country: "nl"
 rank: "wet"
 publication_date: "2020-01-01"
-last_updated: "2003-10-01"
+last_updated: "2006-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0015252"
 soort: "wet"
@@ -74,7 +74,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - f. gedwongen zwangerschap: de onrechtmatige gevangenschap van een vrouw die onder dwang zwanger is gemaakt, met de opzet de etnische samenstelling van een bevolking te beïnvloeden of andere ernstige schendingen van internationaal recht te plegen;
 
-- g. apartheid: onmenselijke handelingen van een vergelijkbare aard als de in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=2&artikel=4&z=2003-10-01&g=2003-10-01), bedoelde handelingen, gepleegd in het kader van een geïnstitutionaliseerd regime van systematische onderdrukking en overheersing door een groep van een bepaald ras van een of meer groepen van een ander ras en begaan met de opzet dat regime in stand te houden.
+- g. apartheid: onmenselijke handelingen van een vergelijkbare aard als de in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=2&artikel=4&z=2006-01-01&g=2006-01-01), bedoelde handelingen, gepleegd in het kader van een geïnstitutionaliseerd regime van systematische onderdrukking en overheersing door een groep van een bepaald ras van een of meer groepen van een ander ras en begaan met de opzet dat regime in stand te houden.
 
 2. De uitdrukking ambtenaar heeft in deze wet dezelfde betekenis als in het [Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854), met dien verstande dat voor de toepassing van de Nederlandse strafwet onder ambtenaar mede wordt begrepen degene die ten dienste van een vreemde staat een openbaar ambt bekleedt.
 
@@ -360,11 +360,11 @@ wordt gestraft met levenslange gevangenisstraf of tijdelijke van ten hoogste der
 
 wordt gestraft met gevangenisstraf van ten hoogste vijftien jaren of geldboete van de vijfde categorie.
 
-4. [Artikel 5, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=2&artikel=5&z=2003-10-01&g=2003-10-01), is van overeenkomstige toepassing op een feit als bedoeld in het derde lid.
+4. [Artikel 5, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=2&artikel=5&z=2006-01-01&g=2006-01-01), is van overeenkomstige toepassing op een feit als bedoeld in het derde lid.
 
 ##### Artikel 7
 
-1. Hij die zich in het geval van een internationaal of niet-internationaal gewapend conflict schuldig maakt aan een schending van de wetten en gebruiken van de oorlog anders dan bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=2&artikel=5&z=2003-10-01&g=2003-10-01) of [6](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=2&artikel=6&z=2003-10-01&g=2003-10-01) wordt gestraft met gevangenisstraf van ten hoogste tien jaren of geldboete van de vijfde categorie.
+1. Hij die zich in het geval van een internationaal of niet-internationaal gewapend conflict schuldig maakt aan een schending van de wetten en gebruiken van de oorlog anders dan bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=2&artikel=5&z=2006-01-01&g=2006-01-01) of [6](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=2&artikel=6&z=2006-01-01&g=2006-01-01) wordt gestraft met gevangenisstraf van ten hoogste tien jaren of geldboete van de vijfde categorie.
 
 2. Gevangenisstraf van ten hoogste vijftien jaren of geldboete van de vijfde categorie wordt opgelegd:
 
@@ -376,7 +376,7 @@ wordt gestraft met gevangenisstraf van ten hoogste vijftien jaren of geldboete v
 
 - d. indien een feit als bedoeld in het eerste lid inhoudt een stad of plaats plunderen, ook wanneer deze bij een aanval wordt ingenomen.
 
-3. [Artikel 5, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=2&artikel=5&z=2003-10-01&g=2003-10-01), is van overeenkomstige toepassing op een feit als bedoeld in het eerste lid.
+3. [Artikel 5, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=2&artikel=5&z=2006-01-01&g=2006-01-01), is van overeenkomstige toepassing op een feit als bedoeld in het eerste lid.
 
 ##### Artikel 8
 
@@ -392,13 +392,13 @@ wordt gestraft met gevangenisstraf van ten hoogste vijftien jaren of geldboete v
 
 ##### Artikel 9
 
-1. Met gelijke straf als gesteld op de in [§ 2](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=2&z=2003-10-01&g=2003-10-01) bedoelde feiten wordt gestraft de meerdere die:
+1. Met gelijke straf als gesteld op de in [§ 2](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=2&z=2006-01-01&g=2006-01-01) bedoelde feiten wordt gestraft de meerdere die:
 
 - a. opzettelijk toelaat dat een aan hem ondergeschikte een zodanig feit begaat;
 
 - b. opzettelijk nalaat maatregelen te nemen, voor zover die nodig zijn en van hem kunnen worden gevergd, indien een aan hem ondergeschikte een zodanig feit heeft gepleegd of voornemens is te plegen.
 
-2. Met een straf van ten hoogste twee derde van het maximum van de hoofdstraffen, gesteld op de in [§ 2](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=2&z=2003-10-01&g=2003-10-01) bedoelde feiten, wordt gestraft hij die door zijn schuld verzuimt maatregelen te nemen, voor zover die nodig zijn en van hem kunnen worden gevergd, indien een aan hem ondergeschikte, naar hij redelijkerwijs moet vermoeden, een zodanig feit heeft gepleegd of voornemens is te plegen.
+2. Met een straf van ten hoogste twee derde van het maximum van de hoofdstraffen, gesteld op de in [§ 2](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=2&z=2006-01-01&g=2006-01-01) bedoelde feiten, wordt gestraft hij die door zijn schuld verzuimt maatregelen te nemen, voor zover die nodig zijn en van hem kunnen worden gevergd, indien een aan hem ondergeschikte, naar hij redelijkerwijs moet vermoeden, een zodanig feit heeft gepleegd of voornemens is te plegen.
 
 3. Indien in het geval bedoeld in het tweede lid op het feit levenslange gevangenisstraf is gesteld, wordt gevangenisstraf opgelegd van ten hoogste vijftien jaren.
 
@@ -422,7 +422,7 @@ De misdrijven, omschreven in deze wet, worden voor de toepassing van de [Uitleve
 
 ##### Artikel 13
 
-Ten aanzien van de in deze wet omschreven misdrijven – met uitzondering van de feiten, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=2&artikel=7&z=2003-10-01&g=2003-10-01), en, voor zover met die feiten verband houdend, de feiten, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=3&artikel=9&z=2003-10-01&g=2003-10-01) – zijn de [artikelen 70](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=70) en [76 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=76) niet van toepassing.
+Ten aanzien van de in deze wet omschreven misdrijven – met uitzondering van de feiten, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=2&artikel=7&z=2006-01-01&g=2006-01-01), en, voor zover met die feiten verband houdend, de feiten, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=3&artikel=9&z=2006-01-01&g=2006-01-01) – verjaart het recht tot strafvordering niet. De [artikelen 76](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=76) en [77d, derde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=77d) zijn op die misdrijven niet van toepassing.
 
 ##### Artikel 14
 
@@ -466,9 +466,9 @@ De [Uitvoeringswet folteringverdrag](https://wetten.overheid.nl/jci1.3:c:BWBR000
 
 ##### Artikel 21
 
-1. Wanneer op het tijdstip van inwerkingtreding van deze wet ter zake van genocide, foltering of een misdrijf dat overeenkomt met een misdrijf als omschreven in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=2&artikel=5&z=2003-10-01&g=2003-10-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=2&artikel=6&z=2003-10-01&g=2003-10-01)[of 7 van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=2&artikel=7&z=2003-10-01&g=2003-10-01), overeenkomstig het oude recht reeds vervolging is ingesteld bij een andere rechter dan bedoeld in [artikel 15 van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=4&artikel=15&z=2003-10-01&g=2003-10-01), wordt de zaak bij dezelfde rechter voortgezet.
+1. Wanneer op het tijdstip van inwerkingtreding van deze wet ter zake van genocide, foltering of een misdrijf dat overeenkomt met een misdrijf als omschreven in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=2&artikel=5&z=2006-01-01&g=2006-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=2&artikel=6&z=2006-01-01&g=2006-01-01)[of 7 van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=2&artikel=7&z=2006-01-01&g=2006-01-01), overeenkomstig het oude recht reeds vervolging is ingesteld bij een andere rechter dan bedoeld in [artikel 15 van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=4&artikel=15&z=2006-01-01&g=2006-01-01), wordt de zaak bij dezelfde rechter voortgezet.
 
-2. [Artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=4&artikel=13&z=2003-10-01&g=2003-10-01) is mede van toepassing op feiten, strafbaar gesteld in de [Uitvoeringswet folteringverdrag](https://wetten.overheid.nl/jci1.3:c:BWBR0004409) en gepleegd voor het tijdstip van inwerkingtreding van deze wet.
+2. [Artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=4&artikel=13&z=2006-01-01&g=2006-01-01) is mede van toepassing op feiten, strafbaar gesteld in de [Uitvoeringswet folteringverdrag](https://wetten.overheid.nl/jci1.3:c:BWBR0004409) en gepleegd voor het tijdstip van inwerkingtreding van deze wet, tenzij het feit op dat tijdstip reeds is verjaard.
 
 ##### Artikel 22
 
