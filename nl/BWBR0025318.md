@@ -4,7 +4,7 @@ identifier: "BWBR0025318"
 country: "nl"
 rank: "amvb"
 publication_date: "2009-04-19"
-last_updated: "2002-01-01"
+last_updated: "2006-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025318"
 soort: "AMvB"
@@ -48,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel I
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Rechtspositiebesluit commissarissen van de Koning.
 
 ##### Artikel II
 
@@ -56,7 +56,7 @@ Wijzigt het Rechtspositiebesluit gedeputeerden.
 
 ##### Artikel III
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Rechtspositiebesluit burgemeesters.
 
 ##### Artikel IV
 
