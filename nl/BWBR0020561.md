@@ -157,15 +157,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 Deze regeling wordt aangehaald als: Regeling heroïnebehandeling.
 
 Deze regeling zal met de toelichting in Staatscourant worden geplaatst.
-
-##### Artikel 1a
-
-Op deze regeling is de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603) niet van toepassing.
-
-Deze regeling zal met de toelichting in Staatscourant worden geplaatst.
-
-##### Artikel 11a
-
-De Minister kan een of meer bepalingen van deze regeling buiten toepassing laten of daarvan afwijken voor zover toepassing gelet op het belang dat de desbetreffende bepaling beoogt te beschermen, zal leiden tot een onbillijkheid van overwegende aard.
-
-Deze regeling zal met de toelichting in Staatscourant worden geplaatst.
