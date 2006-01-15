@@ -1,0 +1,52 @@
+---
+title: "Vaststellingsbesluit selectielijsten neerslag handelingen beleidsterreinen Energiebeleid en Energiedelfstoffen vanaf 1945 (Minister van Volksgezondheid, Welzijn en Sport)"
+identifier: "BWBR0018570"
+country: "nl"
+rank: "archiefselectielijst"
+publication_date: "2006-01-15"
+last_updated: "2006-01-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0018570"
+soort: "ministeriele-regeling-archiefselectielijst"
+stam_id: "7854273"
+version_id: "12759522"
+internal_id: "C25314531"
+label_id: "7841884"
+dtd_version: "2.0"
+original_entry_into_force: "2006-01-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0018570/2006-01-15/0"
+intitule_bron: "Stcrt.2006-10"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2005-07-07"
+intitule_published: "2006-01-13"
+intitule_in_force: "2006-01-13"
+intitule_status: "goed"
+original_publication: "Stcrt.2006-10"
+original_signed_date: "2005-07-07"
+original_published_date: "2006-01-13"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2006-10-p14-SC73300"
+entry_into_force_date: "2006-01-15"
+jci_1_3: "jci1.3:c:BWBR0018570&z=2006-01-15&g=2006-01-15"
+jci_1_0: "1.0:c:BWBR0018570&g=2006-01-15"
+citeertitel_status: "redactioneel"
+signed_date: "2005-07-07"
+entry_into_force: "2006-01-15"
+---
+# Vaststellingsbesluit selectielijsten neerslag handelingen beleidsterreinen Energiebeleid en Energiedelfstoffen vanaf 1945 (Minister van Volksgezondheid, Welzijn en Sport)
+
+Gelet op [artikel 5, tweede lid, onder b, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=5);
+
+De Raad voor Cultuur gehoord (advies van de Raad voor Cultuur van 11 april 2005, nr. arc-2005.02052/3 en arc-2005.0205/4);
+
+Besluiten:
+
+##### Artikel 1
+
+De bij dit besluit gevoegde ‘[selectielijsten voor de neerslag van de handelingen van de Minister van Volksgezondheid, Welzijn en Sport de onder hem ressorterende actoren op de beleidsterreinen Energiebeleid en Energie Delfstoffen over de periode vanaf 1945](onbekend)’ en de daarbij behorende toelichting worden vastgesteld.
+
+##### Artikel 2
+
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
+
+De Minister van Onderwijs, Cultuur en Wetenschap is belast met de uitvoering van dit besluit dat met de daarbij behorende [selectielijst](onbekend) en toelichting in de Staatscourant zal worden geplaatst.
