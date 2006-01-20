@@ -4,7 +4,7 @@ identifier: "BWBR0012287"
 country: "nl"
 rank: "circulaire"
 publication_date: "2026-04-03"
-last_updated: "2006-01-01"
+last_updated: "2006-01-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012287"
 soort: "circulaire"
@@ -197,7 +197,7 @@ Toegang kan worden verleend aan een niet-visumplichtige vreemdeling die zijn ver
 
 Omtrent het ondertekenen van de bewustverklaring, het eventuele opleggen van de meldingsplicht en het stellen van financiële zekerheid worden aantekeningen gesteld in het document voor grensoverschrijding van de vreemdeling ([artikel 4.24, eerste lid, Vreemdelingenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.24)).
 
-Aan de korpschef wordt van de verlening van toegang onder voorwaarden kennis gegeven door middel van formulier [M20](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M20&z=2006-01-01&g=2006-01-01). Door de vreemdeling overgelegde verklaringen worden met deze kennisgeving meegezonden.
+Aan de korpschef wordt van de verlening van toegang onder voorwaarden kennis gegeven door middel van formulier [M20](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M20&z=2006-01-20&g=2006-01-20). Door de vreemdeling overgelegde verklaringen worden met deze kennisgeving meegezonden.
 
 ### 5.2. Toegangsweigering
 
@@ -303,7 +303,7 @@ Ten aanzien van diplomatieke en consulaire ambtenaren, hun gezinsleden en person
 
 ### 6.3.3.3. Weigering van toegang op grond van gevaar voor de openbare orde, nationale veiligheid en volksgezondheid
 
-Aan een EU/EER-onderdaan of Zwitserse onderdaan moet bij weigering van toegang aan de grens wegens gevaar voor de openbare orde, de nationale veiligheid of de volksgezondheid een schriftelijke gemotiveerde beschikking worden uitgereikt overeenkomstig [model M18](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M18&z=2006-01-01&g=2006-01-01) ([artikel 8.7, tweede lid, Vreemdelingenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.7)).
+Aan een EU/EER-onderdaan of Zwitserse onderdaan moet bij weigering van toegang aan de grens wegens gevaar voor de openbare orde, de nationale veiligheid of de volksgezondheid een schriftelijke gemotiveerde beschikking worden uitgereikt overeenkomstig [model M18](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M18&z=2006-01-20&g=2006-01-20) ([artikel 8.7, tweede lid, Vreemdelingenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.7)).
 
 ### 6.3.4. De Overeenkomst ter uitvoering van het Akkoord van Schengen
 
@@ -703,7 +703,7 @@ Bij teruggave van de garantiesom dan wel het passagebiljet moet het ontvangstbew
 
 ### Bijlage 3. Richtlijnen voor vervoerders
 
-### Bijlage 3a. Tarievenlijst 2005
+### Bijlage 3a. Tarievenlijst 2006
 
 ### Bijlage 4. Gemeenschappelijk Handboek, bijlage 5 en 5a
 
@@ -2027,7 +2027,7 @@ Vreemdelingen die Nederland hebben verlaten zonder zich vooraf wederom in het be
 
 Vreemdelingen die Nederland hebben verlaten zonder zich vooraf wederom in het bezit van de garantiesom of het passagebiljet te hebben gesteld, dienen zich tot een in hun land gevestigde Nederlandse diplomatieke of consulaire vertegenwoordiging te wenden met het verzoek om restitutie van de garantiesom respectievelijk teruggave van het passagebiljet. Een vreemdeling die rechtstreeks vanuit het buitenland een verzoek om restitutie indient, moet worden verwezen naar de Nederlandse diplomatieke of consulaire vertegenwoordiging in zijn land.
 
-Bij de behandeling van zulke verzoeken wordt gebruik gemaakt van twee standaardformulieren, een voor de restitutie van een garantiesom ([M137-A](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M137-A&z=2006-01-01&g=2006-01-01)) en een voor de teruggave van een passagebiljet ([M137-B](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M137-B&z=2006-01-01&g=2006-01-01)). De formulieren bestaan uit vijf brieven, die tezamen één geheel vormen en niet van elkaar mogen worden gescheiden.
+Bij de behandeling van zulke verzoeken wordt gebruik gemaakt van twee standaardformulieren, een voor de restitutie van een garantiesom ([M137-A](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M137-A&z=2006-01-20&g=2006-01-20)) en een voor de teruggave van een passagebiljet ([M137-B](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M137-B&z=2006-01-20&g=2006-01-20)). De formulieren bestaan uit vijf brieven, die tezamen één geheel vormen en niet van elkaar mogen worden gescheiden.
 
 ### 3.5.2. Procedure
 
@@ -2123,7 +2123,7 @@ Van dag 29 tot en met dag 35 ontvangt de Immigratie- en Naturalisatiedienst (IND
 
 ### 6.2. Beroep bij de rechtbank
 
-Op de dag van de indiening van het beroep (dag 0), of anders uiterlijk op dag 1 wordt aan de Immigratie- en Naturalisatiedienst (IND) het beroepschrift gezonden met het verzoek om nadere gegevens omtrent de voortgang van de verwijdering. Uiterlijk op dag 10 dient de Vreemdelingendienst dan wel de Koninklijke Marechaussee het [Model M119](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M119&z=2006-01-01&g=2006-01-01) (rapportage vreemdelingenbewaring) met de eventuele aanwezige bijlagen naar de Immigratie- en Naturalisatiedienst (IND) te faxen. Tevens dienen eventuele (nadere) gegevens omtrent de voortgang van de verwijdering te worden gefaxt onder gebruikmaking van het [model M120](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M120&z=2006-01-01&g=2006-01-01) ((voortgangs)gegevens met betrekking tot uitzetting). Ook andere gegevens die van belang kunnen zijn voor het verloop van de procedure dienen te worden gefaxt.
+Op de dag van de indiening van het beroep (dag 0), of anders uiterlijk op dag 1 wordt aan de Immigratie- en Naturalisatiedienst (IND) het beroepschrift gezonden met het verzoek om nadere gegevens omtrent de voortgang van de verwijdering. Uiterlijk op dag 10 dient de Vreemdelingendienst dan wel de Koninklijke Marechaussee het [Model M119](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M119&z=2006-01-20&g=2006-01-20) (rapportage vreemdelingenbewaring) met de eventuele aanwezige bijlagen naar de Immigratie- en Naturalisatiedienst (IND) te faxen. Tevens dienen eventuele (nadere) gegevens omtrent de voortgang van de verwijdering te worden gefaxt onder gebruikmaking van het [model M120](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M120&z=2006-01-20&g=2006-01-20) ((voortgangs)gegevens met betrekking tot uitzetting). Ook andere gegevens die van belang kunnen zijn voor het verloop van de procedure dienen te worden gefaxt.
 
 Op dag 11, uiterlijk om 16.00 uur, verstuurt de Immigratie- en Naturalisatiedienst (IND) het dossier naar de behandelende rechtbank en de advocaat. Echter, als dag 11 op een vrijdag valt, dient verzending reeds voor 12.00 uur plaats te vinden. Eventueel door de Vreemdelingendienst dan wel de Koninklijke Marechaussee op dag 12 of 13 nagezonden stukken worden voor zover nodig door de Immigratie- en Naturalisatiedienst (IND) doorgezonden naar de rechtbank en advocaat.
 
@@ -2271,9 +2271,9 @@ Vreemdelingen die rechtmatig verblijven indien tegen de uitzetting beletselen be
 
 ### 3.7. Periodieke aanmeldingen
 
-Indien de vreemdeling zich ondanks een verplichting daartoe niet houdt aan de meldingsplicht kan dit een aanwijzing zijn dat hij het land heeft verlaten of dat hij zich definitief aan het toezicht heeft onttrokken. Indien de vreemdeling zich twee achtereenvolgende keren niet houdt aan de meldingsplicht dient hij gevorderd te worden ([model M90](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M90&z=2006-01-01&g=2006-01-01)) om in persoon gegevens te verstrekken omtrent de onttrekking aan de meldingsplicht. Reageert de vreemdeling niet dan kan geconcludeerd worden dat hij Nederland heeft verlaten of zich definitief aan het toezicht heeft onttrokken en dient hij in het VAS te worden afgemeld. Voor asielzoekers die in een opvangcentrum verblijven geldt een uitzondering op deze regel. Gezien het betrekkelijke gemak waarmee het daadwerkelijke vertrek van de betrokkene kan worden gecontroleerd door de Vreemdelingendienst ter plaatse, dient in deze gevallen altijd een adrescontrole plaats te vinden, alvorens conclusies over het definitieve vertrek van de vreemdeling worden getrokken. Voorts vereist de omstandigheid dat deze vreemdelingen direct ten laste komen van de openbare kas en het feit dat indien een vreemdeling vertrekt, de woning kan worden betrokken door een andere vreemdeling, dat het vertrek onomstotelijk vast komt te staan.
+Indien de vreemdeling zich ondanks een verplichting daartoe niet houdt aan de meldingsplicht kan dit een aanwijzing zijn dat hij het land heeft verlaten of dat hij zich definitief aan het toezicht heeft onttrokken. Indien de vreemdeling zich twee achtereenvolgende keren niet houdt aan de meldingsplicht dient hij gevorderd te worden ([model M90](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M90&z=2006-01-20&g=2006-01-20)) om in persoon gegevens te verstrekken omtrent de onttrekking aan de meldingsplicht. Reageert de vreemdeling niet dan kan geconcludeerd worden dat hij Nederland heeft verlaten of zich definitief aan het toezicht heeft onttrokken en dient hij in het VAS te worden afgemeld. Voor asielzoekers die in een opvangcentrum verblijven geldt een uitzondering op deze regel. Gezien het betrekkelijke gemak waarmee het daadwerkelijke vertrek van de betrokkene kan worden gecontroleerd door de Vreemdelingendienst ter plaatse, dient in deze gevallen altijd een adrescontrole plaats te vinden, alvorens conclusies over het definitieve vertrek van de vreemdeling worden getrokken. Voorts vereist de omstandigheid dat deze vreemdelingen direct ten laste komen van de openbare kas en het feit dat indien een vreemdeling vertrekt, de woning kan worden betrokken door een andere vreemdeling, dat het vertrek onomstotelijk vast komt te staan.
 
-Over het (aangenomen) vertrek van een vreemdeling wordt de IND geïnformeerd door middel van een formulier [M100](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M100&z=2006-01-01&g=2006-01-01).
+Over het (aangenomen) vertrek van een vreemdeling wordt de IND geïnformeerd door middel van een formulier [M100](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M100&z=2006-01-20&g=2006-01-20).
 
 Een signalering is een feitelijke handeling waartegen geen rechtsmiddel open staat. Een beslissing op een aanvraag om opheffing van de signalering dient echter te worden aangemerkt als een besluit in de zin van artikel 1:3, eerste lid, Algemene wet bestuursrecht (Awb). Dit brengt met zich dat tegen het besluit het rechtsmiddel bezwaar kan worden aangewend.
 
@@ -2523,7 +2523,7 @@ Op de visumplicht bestaan uitzonderingen, meestal krachtens een overeenkomst tot
 
 ### 7.2.4. Collectieve visa
 
-Voor de afgifte van de reizigerslijst dient gebruikt te worden gemaakt van [model M79](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M79&z=2006-01-01&g=2006-01-01) en deze wordt door het visaloket van de Immigratie- en Naturalisatiedienst (IND) afgegeven. Zie voor een omschrijving van de procedure paragraaf 7.4.
+Voor de afgifte van de reizigerslijst dient gebruikt te worden gemaakt van [model M79](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M79&z=2006-01-20&g=2006-01-20) en deze wordt door het visaloket van de Immigratie- en Naturalisatiedienst (IND) afgegeven. Zie voor een omschrijving van de procedure paragraaf 7.4.
 
 Zie voor verrekening van visumgelden A2/7.8.5.
 
