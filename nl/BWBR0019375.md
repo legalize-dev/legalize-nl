@@ -348,19 +348,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 Deze regeling wordt aangehaald als: Regeling luchtvaartmeteorologische inlichtingen 2006.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 1a. Grondslag
-
-Deze regeling berust op [artikel 26, tweede lid, van het Besluit luchtverkeer 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=26).
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 1b. Aanwijzing
-
-1. Het Koninklijk Nederlands Meteorologisch Instituut wordt aangewezen als verlener van meteorologische diensten voor de luchtvaartnavigatie ten behoeve van het burgerluchtverkeer, als bedoeld in artikel 9, eerste lid, van de luchtvaartnavigatiedienstenverordening, voor het gehele luchtruim dat onder de verantwoordelijkheid van de Minister van Infrastructuur en Milieu valt.
-
-2. De aangewezen dienstverlener, bedoeld in het eerste lid, draagt zorg voor het regelmatig raadplegen van gebruikers van meteorologische diensten voor de luchtvaartnavigatie omtrent de kostengrondslag en het vergoedingenbeleid van die dienstverlening. De raadpleging kan tevens op verzoek van de gebruikers plaatsvinden.
-
-3. De Minister van Defensie wordt aangewezen als verlener van meteorologische diensten voor de luchtvaartnavigatie ten behoeve van het militaire luchtverkeer voor het gehele luchtruim dat onder de verantwoordelijkheid van de Minister van Infrastructuur en Milieu valt.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
