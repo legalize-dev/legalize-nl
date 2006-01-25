@@ -4,7 +4,7 @@ identifier: "BWBR0030748"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-02-27"
-last_updated: "2001-11-01"
+last_updated: "2006-01-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030748"
 soort: "ministeriele-regeling"
@@ -39,6 +39,8 @@ Gelet op de [artikelen 2, zevende en achtste lid](https://wetten.overheid.nl/jci
 
 Besluit:
 
+Treedt in werking op het tijdstip waarop het Besluit DNA-onderzoek in strafzaken in werking treedt.
+
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder besluit: het [Besluit DNA-onderzoek in strafzaken](https://wetten.overheid.nl/jci1.3:c:BWBR0012791).
@@ -65,23 +67,25 @@ Voor het afnemen van bloed wordt gebruik gemaakt van een bloedlancet en ongepoed
 
 ##### Artikel 5
 
-Met de in de [artikelen 2 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0030748&artikel=2&z=2001-11-01&g=2001-11-01) genoemde hulpmiddelen worden gelijkgesteld hulpmiddelen die rechtmatig zijn geproduceerd of in de handel zijn gebracht in een andere lidstaat van de Europese Unie dan wel een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, en die ten minste aan gelijkwaardige specificaties voldoen.
+Met de in de [artikelen 2 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0030748&artikel=2&z=2006-01-25&g=2006-01-25) genoemde hulpmiddelen worden gelijkgesteld hulpmiddelen die rechtmatig zijn geproduceerd of in de handel zijn gebracht in een andere lidstaat van de Europese Unie dan wel een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, en die ten minste aan gelijkwaardige specificaties voldoen.
 
 ##### Artikel 6
 
-Het identiteitszegel, genoemd in de [artikelen 4, eerste lid, onderdeel a, en b, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&artikel=4), [5, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&artikel=5), [6, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&artikel=6), [8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&artikel=8), en [10, tweede lid, onder b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&artikel=10), is een zelfklevend zegel dat bedrukt is met een eenmalig te gebruiken combinatie van letters en cijfers. Deze combinatie is aangebracht in schrift en in barcode.
+Het identiteitszegel, genoemd in de [artikelen 4, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&artikel=4), [5, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&artikel=5), [6, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&artikel=6), [8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&artikel=8), en [10, tweede lid, onder b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&artikel=10), is een zelfklevend zegel dat bedrukt is met een eenmalig te gebruiken combinatie van letters en cijfers. Deze combinatie is aangebracht in schrift en in barcode.
 
 ##### Artikel 7
 
-Het sluitzegel, genoemd in de [artikelen 4, eerste lid, onder c, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&artikel=4), [5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&artikel=5), [8, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&artikel=8), en [11, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&artikel=11), is een zelfklevend, elastisch en fraudebestendig zegel met de opdruk ‘NFI, Nederlands Forensisch Instituut, Ministerie van Justitie’.
+Het sluitzegel, genoemd in de artikelen [artikel 4, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&artikel=4), [5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&artikel=5), [8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&artikel=8), en [11, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&artikel=11), is een zelfklevend, elastisch en fraudebestendig zegel met de opdruk ‘NFI, Nederlands Forensisch Instituut, Ministerie van Justitie’.
 
 ##### Artikel 8
 
-De opsporingsambtenaar, bedoeld in [artikel 2, zevende lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&artikel=2), dient:
+1. De opsporingsambtenaar, bedoeld in [artikel 2, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&artikel=2), en [3, tweede en derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&artikel=3), dient:
 
-- a. met goed gevolg de door het Instituut voor Criminaliteitsbeheersing en Recherchekunde verzorgde en door het Centraal Examenbureau Politie gecertificeerde opleiding ‘ Afname celmateriaal van personen ten behoeve van DNAonderzoek’ te hebben afgelegd, en
+- a. met goed gevolg de door het Instituut voor Criminaliteitsbeheersing en Recherchekunde verzorgde en door het Centraal Examenbureau Politie gecertificeerde opleiding ‘Afname celmateriaal van personen ten behoeve van DNA-onderzoek’ te hebben afgelegd, en
 
 - b. niet betrokken te zijn bij het opsporingsonderzoek in het kader waarvan het celmateriaal wordt afgenomen.
+
+2. De door de directeur van de inrichting of instelling aangewezen persoon als bedoeld in [artikel 3, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&artikel=3), dient met goed gevolg de door het Opleidingsinstituut DJI verzorgde en door de Stichting CEDEO erkende opleiding ‘DNA-afname bij veroordeelden’ te hebben afgelegd.
 
 ##### Artikel 9
 
