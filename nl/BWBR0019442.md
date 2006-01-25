@@ -121,13 +121,3 @@ Deze regeling wordt aangehaald als: Warenwetregeling procedures registratie en e
 Deze bijlage behoort bij [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019442&artikel=2&z=2006-01-25&g=2006-01-25).
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 4a
-
-Deze regeling berust op [artikel 3, tweede lid, van het Warenwetbesluit hygiëne van levensmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0018823&artikel=3).
-
-## Bijlage
-
-Deze bijlage behoort bij [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019442&artikel=2&z=2019-12-14&g=2019-12-14).
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
