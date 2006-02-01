@@ -4,7 +4,7 @@ identifier: "BWBR0006547"
 country: "nl"
 rank: "wet"
 publication_date: "2013-01-01"
-last_updated: "2005-11-30"
+last_updated: "2006-02-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006547"
 soort: "wet"
@@ -93,7 +93,7 @@ Onze Minister kan ter uitvoering van een besluit dat is genomen op grond van art
 
 ##### Artikel 6
 
-1. De voorschriften, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006547&artikel=3&z=2005-11-30&g=2005-11-30) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0006547&artikel=4&z=2005-11-30&g=2005-11-30), en de regels, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0006547&artikel=5&z=2005-11-30&g=2005-11-30), kunnen mede een verbod inhouden tot het verrichten van daarbij aangeduide handelingen zonder vergunning. Een verbod als in de eerste zin bedoeld tast niet de geldigheid van daarmee strijdige meerzijdige rechtshandelingen aan.
+1. De voorschriften, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006547&artikel=3&z=2006-02-01&g=2006-02-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0006547&artikel=4&z=2006-02-01&g=2006-02-01), en de regels, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0006547&artikel=5&z=2006-02-01&g=2006-02-01), kunnen mede een verbod inhouden tot het verrichten van daarbij aangeduide handelingen zonder vergunning. Een verbod als in de eerste zin bedoeld tast niet de geldigheid van daarmee strijdige meerzijdige rechtshandelingen aan.
 
 2. In voorschriften waarbij verplichtingen worden opgelegd, kunnen regels worden gesteld inzake het verlenen van vrijstelling of ontheffing van die verplichting.
 
@@ -109,7 +109,7 @@ Onze Minister kan ter uitvoering van een besluit dat is genomen op grond van art
 
 - a. de samenstelling van de betalingsbalans van Nederland;
 
-- b. de vaststelling en de uitvoering van de voorschriften, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006547&artikel=3&z=2005-11-30&g=2005-11-30), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0006547&artikel=4&z=2005-11-30&g=2005-11-30), en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0006547&artikel=6&z=2005-11-30&g=2005-11-30) en de regels, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0006547&artikel=5&z=2005-11-30&g=2005-11-30).
+- b. de vaststelling en de uitvoering van de voorschriften, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006547&artikel=3&z=2006-02-01&g=2006-02-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0006547&artikel=4&z=2006-02-01&g=2006-02-01), en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0006547&artikel=6&z=2006-02-01&g=2006-02-01) en de regels, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0006547&artikel=5&z=2006-02-01&g=2006-02-01).
 
 2. De in het eerste lid bedoelde inlichtingen en gegevens moeten tijdig, naar waarheid en op niet misleidende wijze worden verstrekt.
 
@@ -133,7 +133,7 @@ In afwijking van [artikel 8:7 van de Algemene wet bestuursrecht](https://wetten.
 
 ##### Artikel 9a
 
-1. De Bank kan een last onder dwangsom opleggen ter zake van overtreding van voorschriften gesteld, bij of krachtens [artikel 7, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006547&artikel=7&z=2005-11-30&g=2005-11-30).
+1. De Bank kan een last onder dwangsom opleggen ter zake van overtreding van voorschriften gesteld, bij of krachtens [artikel 7, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006547&artikel=7&z=2006-02-01&g=2006-02-01).
 
 2. De [artikelen 5:32, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:32), en [5:33 tot en met 5:35 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) zijn van toepassing.
 
@@ -141,7 +141,7 @@ In afwijking van [artikel 8:7 van de Algemene wet bestuursrecht](https://wetten.
 
 ##### Artikel 9b
 
-1. De Bank kan een bestuurlijke boete opleggen ter zake van overtreding van voorschriften gesteld bij of krachtens [artikel 7, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006547&artikel=7&z=2005-11-30&g=2005-11-30).
+1. De Bank kan een bestuurlijke boete opleggen ter zake van overtreding van voorschriften gesteld bij of krachtens [artikel 7, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006547&artikel=7&z=2006-02-01&g=2006-02-01).
 
 2. De bestuurlijke boete komt toe aan de Bank.
 
@@ -165,7 +165,7 @@ Degene jegens wie door de Bank een handeling is verricht waaraan hij in redelijk
 
 1. Indien de Bank voornemens is een boete op te leggen, geeft hij de betrokkene daarvan kennis onder vermelding van de gronden waarop het voornemen berust.
 
-2. In afwijking van [afdeling 4.1.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.1.2), stelt de Bank de betrokkene in de gelegenheid om naar keuze schriftelijk of mondeling zijn zienswijze naar voren te brengen voordat de boete wordt opgelegd, tenzij het een overtreding betreft die in de bijlage, bedoeld in [artikel 9c](https://wetten.overheid.nl/jci1.3:c:BWBR0006547&artikel=9c&z=2005-11-30&g=2005-11-30), is aangewezen.
+2. In afwijking van [afdeling 4.1.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.1.2), stelt de Bank de betrokkene in de gelegenheid om naar keuze schriftelijk of mondeling zijn zienswijze naar voren te brengen voordat de boete wordt opgelegd, tenzij het een overtreding betreft die in de bijlage, bedoeld in [artikel 9c](https://wetten.overheid.nl/jci1.3:c:BWBR0006547&artikel=9c&z=2006-02-01&g=2006-02-01), is aangewezen.
 
 ##### Artikel 9f
 
@@ -177,19 +177,19 @@ Degene jegens wie door de Bank een handeling is verricht waaraan hij in redelijk
 
 - b. het bedrag van de boete en de gegevens op basis waarvan dit bedrag is bepaald; en
 
-- c. de termijn, bedoeld in [artikel 9h, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006547&artikel=9h&z=2005-11-30&g=2005-11-30), waarbinnen de boete moet worden betaald.
+- c. de termijn, bedoeld in [artikel 9h, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006547&artikel=9h&z=2006-02-01&g=2006-02-01), waarbinnen de boete moet worden betaald.
 
 ##### Artikel 9g
 
 1. De werking van de beschikking tot oplegging van een boete wordt opgeschort totdat de beroepstermijn is verstreken of, indien beroep is ingesteld, op het beroep is beslist.
 
-2. In afwijking van het eerste lid wordt de werking van de beschikking tot oplegging van een boete voor een overtreding die op grond van [artikel 9e, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006547&artikel=9e&z=2005-11-30&g=2005-11-30), is aangewezen, opgeschort totdat de bezwaartermijn is verstreken of, indien bezwaar is gemaakt, op het bezwaar is beslist.
+2. In afwijking van het eerste lid wordt de werking van de beschikking tot oplegging van een boete voor een overtreding die op grond van [artikel 9e, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006547&artikel=9e&z=2006-02-01&g=2006-02-01), is aangewezen, opgeschort totdat de bezwaartermijn is verstreken of, indien bezwaar is gemaakt, op het bezwaar is beslist.
 
 ##### Artikel 9h
 
 1. De boete wordt betaald binnen zes weken na de inwerkingtreding van de beschikking waarbij zij is opgelegd.
 
-2. De boete wordt vermeerderd met de wettelijke rente, te rekenen vanaf de dag waarop sedert de bekendmaking van de beschikking zes weken zijn verstreken, tenzij het een overtreding betreft die op grond van [artikel 9e, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006547&artikel=9e&z=2005-11-30&g=2005-11-30), is aangewezen.
+2. De boete wordt vermeerderd met de wettelijke rente, te rekenen vanaf de dag waarop sedert de bekendmaking van de beschikking zes weken zijn verstreken, tenzij het een overtreding betreft die op grond van [artikel 9e, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006547&artikel=9e&z=2006-02-01&g=2006-02-01), is aangewezen.
 
 3. Indien de boete niet tijdig is betaald, stuurt de Bank schriftelijk een aanmaning om binnen twee weken de boete, verhoogd met de kosten van de aanmaning, alsnog te betalen. De aanmaning bevat de aanzegging, dat de boete, voor zover deze niet binnen de gestelde termijn wordt betaald, overeenkomstig het vierde lid zal worden ingevorderd.
 
@@ -199,7 +199,7 @@ Degene jegens wie door de Bank een handeling is verricht waaraan hij in redelijk
 
 6. Gedurende zes weken na de dag van betekening staat verzet tegen het dwangbevel open door dagvaarding van de Bank.
 
-7. Het verzet schorst de tenuitvoerlegging niet, tenzij de president van de rechtbank in kort geding desgevraagd anders beslist.
+7. Het verzet schorst de tenuitvoerlegging niet, tenzij de voorzieningenrechter van de rechtbank in kort geding desgevraagd anders beslist.
 
 8. Het verzet kan niet worden gegrond op de stelling dat de boete ten onrechte of op een te hoog bedrag is vastgesteld.
 
@@ -233,7 +233,7 @@ De Nederlandse strafwet is ook van toepassing op overtredingen van voorschriften
 
 ##### Artikel 13
 
-Na de inwerkingtreding van deze wet berust het Besluit financieel verkeer strategische goederen op [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006547&artikel=5&z=2005-11-30&g=2005-11-30), en [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006547&artikel=6&z=2005-11-30&g=2005-11-30), van deze wet.
+Na de inwerkingtreding van deze wet berust het Besluit financieel verkeer strategische goederen op [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006547&artikel=5&z=2006-02-01&g=2006-02-01), en [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006547&artikel=6&z=2006-02-01&g=2006-02-01), van deze wet.
 
 ##### Artikel 14
 
@@ -251,7 +251,7 @@ Deze wet kan worden aangehaald als: Wet financiële betrekkingen buitenland 1994
 
 ### Artikel 1
 
-Voor de overtredingen genoemd in tabel 1 en tabel 2, begaan na het tijdstip van inwerkingtreding van [artikel 9a tot en met 9k](https://wetten.overheid.nl/jci1.3:c:BWBR0006547&artikel=9a&z=2005-11-30&g=2005-11-30) van deze wet, zijn de boetebedragen vastgesteld als volgt:
+Voor de overtredingen genoemd in tabel 1 en tabel 2, begaan na het tijdstip van inwerkingtreding van [artikel 9a tot en met 9k](https://wetten.overheid.nl/jci1.3:c:BWBR0006547&artikel=9a&z=2006-02-01&g=2006-02-01) van deze wet, zijn de boetebedragen vastgesteld als volgt:
 
 ### Artikel 2
 
@@ -265,7 +265,7 @@ Categorie III: een ieder met een som van de standen van buitenlandse activa en p
 
 Categorie IV: een ieder met een som van de standen van buitenlandse activa en passiva van ten minste € 10 miljard: factor 10.
 
-2. De boete wordt vastgesteld door het bedrag, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0006547&artikel=1&z=2005-11-30&g=2005-11-30), te vermenigvuldigen met de factor behorende bij de categorie naar de som van de standen van buitenlandse activa en passiva, bedoeld in het eerste lid. 1Aangezien voor geen enkel artikellid geldt dat ten aanzien van alle normgeadresseerden, ongeacht de indeling in een bepaalde categorie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006547&artikel=2&z=2005-11-30&g=2005-11-30), een boete van ten hoogste 10 000 gulden kan worden opgelegd, worden in deze bijlage geen artikelen op grond van [artikel 9e, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006547&artikel=9e&z=2005-11-30&g=2005-11-30), aangewezen.
+2. De boete wordt vastgesteld door het bedrag, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0006547&artikel=1&z=2006-02-01&g=2006-02-01), te vermenigvuldigen met de factor behorende bij de categorie naar de som van de standen van buitenlandse activa en passiva, bedoeld in het eerste lid. 1Aangezien voor geen enkel artikellid geldt dat ten aanzien van alle normgeadresseerden, ongeacht de indeling in een bepaalde categorie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006547&artikel=2&z=2006-02-01&g=2006-02-01), een boete van ten hoogste 10 000 gulden kan worden opgelegd, worden in deze bijlage geen artikelen op grond van [artikel 9e, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006547&artikel=9e&z=2006-02-01&g=2006-02-01), aangewezen.
 
 3. Indien de gegevens omtrent de som van de standen van buitenlandse activa en passiva, te berekenen door het gemiddelde per maand te nemen over een periode van 12 maanden voorafgaande aan de geconstateerde overtreding, niet aan de Bank beschikbaar zijn gesteld, kan de Bank aan degene aan wie de boete wordt opgelegd verzoeken deze gegevens binnen een door hem te stellen termijn te verstrekken. Indien de betrokkene niet binnen de gestelde termijn voldoet aan dit verzoek, is bij de vaststelling van de hoogte van de boete categorie IV van toepassing.
 
