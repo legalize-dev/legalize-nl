@@ -4,7 +4,7 @@ identifier: "BWBR0001952"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2005-03-15"
+last_updated: "2006-02-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0001952"
 soort: "wet"
@@ -83,7 +83,7 @@ In afwijking van [artikel 8:7 van de Algemene wet bestuursrecht](https://wetten.
 
 ##### Artikel 5
 
-1. De [eerste volzin van artikel 54, tweede lid, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=54) is van overeenkomstige toepassing indien beroep is ingesteld door nagelaten betrekkingen of rechtverkrijgenden.
+1. De [eerste volzin van artikel 54, derde lid, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=54) is van overeenkomstige toepassing indien beroep is ingesteld door nagelaten betrekkingen of rechtverkrijgenden.
 
 2. Tot militair lid zijn alleen benoembaar zij die:
 
@@ -211,7 +211,7 @@ Een uitspraak van den strafrechter, in kracht van gewijsde gegaan, of ingevolge 
 
 3. De militaire ambtenaar is verplicht tot geheimhouding van enig gegeven, de dienst betreffende, tegenover een ieder die tot kennisneming daarvan niet bevoegd is, voor zover die verplichting uit de aard der zaak volgt.
 
-4. De militaire ambtenaar die te goeder trouw de bij hem levende vermoedens van misstanden uit volgens de procedure, bedoeld in [artikel 12, eerste lid, onder r](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&titeldeel=IV&artikel=12&z=2005-03-15&g=2005-03-15), zal als gevolg van het uiten van die vermoedens geen nadelige gevolgen voor zijn rechtspositie ondervinden tijdens en na het volgen van die procedure.
+4. De militaire ambtenaar die te goeder trouw de bij hem levende vermoedens van misstanden uit volgens de procedure, bedoeld in [artikel 12, eerste lid, onder r](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&titeldeel=IV&artikel=12&z=2006-02-01&g=2006-02-01), zal als gevolg van het uiten van die vermoedens geen nadelige gevolgen voor zijn rechtspositie ondervinden tijdens en na het volgen van die procedure.
 
 ##### Artikel 12b
 
@@ -276,5 +276,25 @@ De artikelen van deze wet treden in werking op een door Ons te bepalen tijdstip,
 ##### Artikel 17
 
 Deze wet kan worden aangehaald als "Militaire Ambtenarenwet" met bijvoeging van het jaartal van het **Staatsblad**, waarin zij wordt afgekondigd.
+
+Lasten en bevelen, dat deze met een indeeling in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 12bis
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 12ter
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 12quater
+
+Dit onderdeel is nog niet inwerking getreden
+
+## Titel V. Overgangs- en slotbepalingen
+
+#### § 1. Overgangsbepaling
+
+#### § 2. Slotbepalingen
 
 Lasten en bevelen, dat deze met een indeeling in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
