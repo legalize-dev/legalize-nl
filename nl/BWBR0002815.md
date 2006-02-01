@@ -4,7 +4,7 @@ identifier: "BWBR0002815"
 country: "nl"
 rank: "wet"
 publication_date: "2008-09-01"
-last_updated: "2002-01-01"
+last_updated: "2006-02-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002815"
 soort: "wet"
@@ -45,9 +45,9 @@ In deze wet wordt onder "het verdrag" verstaan, het op 27 september 1968 te Brus
 
 ##### Artikel 2
 
-1. Ten aanzien van het verlof tot tenuitvoerlegging bedoeld in artikel 31 van het verdrag, zijn de artikelen 985-991 van het [Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827) niet van toepassing.
+1. Ten aanzien van het verlof tot tenuitvoerlegging bedoeld in artikel 31 van het verdrag, zijn de [artikelen 985-991 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=985) niet van toepassing.
 
-2. Het in het eerste lid bedoelde verlof wordt gevraagd bij verzoekschrift, dat in de Nederlandse taal is gesteld. Het wordt ter griffie ingediend door een procureur en houdt tevens in de keuze van een woonplaats binnen het arrondissement van de rechtbank. Het verzoekschrift wordt behandeld en beslist door de voorzieningenrechter van de rechtbank.
+2. Het in het eerste lid bedoelde verlof wordt gevraagd bij verzoekschrift, dat in de Nederlandse taal is gesteld, onverminderd [artikel 7 van de Wet gebruik Friese taal in het rechtsverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0002219&artikel=7). Het wordt ter griffie ingediend door een procureur en houdt tevens in de keuze van een woonplaats binnen het arrondissement van de rechtbank. Het verzoekschrift wordt behandeld en beslist door de voorzieningenrechter van de rechtbank.
 
 3. Onverminderd het bepaalde bij artikel 48, eerste lid, van het verdrag wordt bij ongenoegzaamheid van de bij het verzoekschrift overgelegde documenten de verzoeker de gelegenheid tot aanvulling gegeven.
 
@@ -75,7 +75,7 @@ Het beroep in cassatie, bedoeld in artikel 37, laatste lid, van het verdrag, moe
 
 1. Het beroep, bedoeld in artikel 40 van het verdrag, moet worden ingesteld binnen een maand na de dagtekening van de beschikking, waarbij het verlof is geweigerd.
 
-2. In geval van beroep zijn de [leden 1-3 van artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002815&artikel=2&z=2002-01-01&g=2002-01-01) van overeenkomstige toepassing.
+2. In geval van beroep zijn de [leden 1-3 van artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002815&artikel=2&z=2006-02-01&g=2006-02-01) van overeenkomstige toepassing.
 
 3. Het gerechtshof geeft zijn beschikking met bekwame spoed, doch niet dan na verhoor, althans oproeping van de partijen.
 
@@ -105,7 +105,7 @@ Het beroep in cassatie, bedoeld in artikel 37, laatste lid, van het verdrag, moe
 
 1. Het beroep in cassatie, bedoeld in artikel 41 van het verdrag, moet worden ingesteld binnen een maand na de dagtekening van de beschikking van het gerechtshof.
 
-2. [Artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002815&artikel=7&z=2002-01-01&g=2002-01-01), is van overeenkomstige toepassing.
+2. [Artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002815&artikel=7&z=2006-02-01&g=2006-02-01), is van overeenkomstige toepassing.
 
 3. Tegen de beschikking van de Hoge Raad is geen verzet toegelaten.
 
