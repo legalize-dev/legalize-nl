@@ -4,7 +4,7 @@ identifier: "BWBR0002951"
 country: "nl"
 rank: "wet"
 publication_date: "2013-01-01"
-last_updated: "2004-07-01"
+last_updated: "2006-02-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002951"
 soort: "wet"
@@ -47,7 +47,7 @@ In deze wet wordt onder "het verdrag" verstaan het op 15 november 1965 te 's-Gra
 
 1. Als centrale autoriteit, bedoeld in artikel 2 van het verdrag, wordt voor Nederland aangewezen de officier van justitie bij de rechtbank te 's-Gravenhage.
 
-2. Tot het ontvangen en afdoen van aanvragen om betekening of kennisgeving overeenkomstig de artikelen 3-6 van het verdrag binnen het rechtsgebied van een andere arrondissementsrechtbank dan die te 's-Gravenhage is tevens bevoegd de officier van justitie bij die andere rechtbank.
+2. Tot het ontvangen en afdoen van aanvragen om betekening of kennisgeving overeenkomstig de artikelen 3-6 van het verdrag binnen het rechtsgebied van een andere rechtbank dan die te 's-Gravenhage is tevens bevoegd de officier van justitie bij die andere rechtbank.
 
 ##### Artikel 3
 
@@ -55,7 +55,7 @@ Oordeelt de officier van justitie tot wie de aanvrage is gericht, dat artikel 13
 
 ##### Artikel 4
 
-Behoudens het bepaalde in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002951&artikel=3&z=2004-07-01&g=2004-07-01) zendt de in het [eerste lid van artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002951&artikel=2&z=2004-07-01&g=2004-07-01) bedoelde officier van justitie de aanvrage, indien deze een betekening of kennisgeving binnen het rechtsgebied van een andere arrondissementsrechtbank betreft, onverwijld door naar de officier van justitie bij die andere rechtbank.
+Behoudens het bepaalde in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002951&artikel=3&z=2006-02-01&g=2006-02-01) zendt de in het [eerste lid van artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002951&artikel=2&z=2006-02-01&g=2006-02-01) bedoelde officier van justitie de aanvrage, indien deze een betekening of kennisgeving binnen het rechtsgebied van een andere rechtbank betreft, onverwijld door naar de officier van justitie bij die andere rechtbank.
 
 ##### Artikel 5
 
@@ -65,11 +65,11 @@ Tot het opmaken van de verklaring, bedoeld in artikel 6 van het verdrag, is bevo
 
 1. Als de autoriteit, bedoeld in artikel 9, eerste lid, van het verdrag, wordt voor Nederland aangewezen de officier van justitie bij de rechtbank binnen het rechtsgebied waarvan de betekening of kennisgeving wordt verzocht.
 
-2. De [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002951&artikel=3&z=2004-07-01&g=2004-07-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0002951&artikel=5&z=2004-07-01&g=2004-07-01) zijn zoveel mogelijk van overeenkomstige toepassing op door een andere verdragstaat langs een der wegen, bedoeld in artikel 9 van het verdrag, ter betekening of kennisgeving toegezonden stukken.
+2. De [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002951&artikel=3&z=2006-02-01&g=2006-02-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0002951&artikel=5&z=2006-02-01&g=2006-02-01) zijn zoveel mogelijk van overeenkomstige toepassing op door een andere verdragstaat langs een der wegen, bedoeld in artikel 9 van het verdrag, ter betekening of kennisgeving toegezonden stukken.
 
 ##### Artikel 7
 
-1. Om overeenkomstig de artikelen 3-6 van het verdrag een gerechtelijk of buitengerechtelijk stuk te doen betekenen of daarvan te doen kennisgeven in een der Staten, waar het verdrag van kracht is, wordt het exploit gedaan op de wijze aangegeven bij [artikel 55, eerste lid van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=55), behoudens het bepaalde in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002951&artikel=8&z=2004-07-01&g=2004-07-01) van deze wet.
+1. Om overeenkomstig de artikelen 3-6 van het verdrag een gerechtelijk of buitengerechtelijk stuk te doen betekenen of daarvan te doen kennisgeven in een der Staten, waar het verdrag van kracht is, wordt het exploit gedaan op de wijze aangegeven bij [artikel 55, eerste lid van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=55), behoudens het bepaalde in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002951&artikel=8&z=2006-02-01&g=2006-02-01) van deze wet.
 
 2. Behalve de vereisten bij het [Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827) voor het exploit gesteld, zal daarbij worden vermeld het adres van degene aan wie de betekening of kennisgeving wordt verlangd. Tevens wordt daarin vermeld dat van het exploit overeenkomstig de artikelen 3-6 van het verdrag betekening of kennisgeving moet worden gedaan, met opgave of verlangd wordt:
 
@@ -81,7 +81,7 @@ Tot het opmaken van de verklaring, bedoeld in artikel 6 van het verdrag, is bevo
 
 - d. betekening of kennisgeving in een bijzondere, in het exploit duidelijk aan te geven vorm.
 
-3. In elk van de in het vorige lid onder **b, c** en **d** genoemde gevallen is het exploit vergezeld van een opgave, in een van de talen, genoemd in artikel 7, tweede lid, van het verdrag, van alle gegevens, benodigd voor de opstelling van het gedeelte van de aanvrage, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002951&artikel=5&z=2004-07-01&g=2004-07-01), laatste lid, van het verdrag.
+3. In elk van de in het vorige lid onder **b, c** en **d** genoemde gevallen is het exploit vergezeld van een opgave, in een van de talen, genoemd in artikel 7, tweede lid, van het verdrag, van alle gegevens, benodigd voor de opstelling van het gedeelte van de aanvrage, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002951&artikel=5&z=2006-02-01&g=2006-02-01), laatste lid, van het verdrag.
 
 4. Een tweede exemplaar van het exploit, alsmede indien bij het exploit een afzonderlijk stuk wordt betekend, van dat stuk, zal worden bijgevoegd.
 
@@ -89,7 +89,7 @@ Tot het opmaken van de verklaring, bedoeld in artikel 6 van het verdrag, is bevo
 
 ##### Artikel 8
 
-1. De door [artikel 55, eerste lid van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=55) voorgeschreven toezending van een afschrift van het exploit aan het ministerie van buitenlandse zaken blijft in het geval, bedoeld bij [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002951&artikel=7&z=2004-07-01&g=2004-07-01), achterwege.
+1. De door [artikel 55, eerste lid van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=55) voorgeschreven toezending van een afschrift van het exploit aan het ministerie van buitenlandse zaken blijft in het geval, bedoeld bij [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002951&artikel=7&z=2006-02-01&g=2006-02-01), achterwege.
 
 2. Tenzij anders is geregeld in een overeenkomst, als bedoeld in de artikelen 11 of 24 van het verdrag, richt de ambtenaar bij het openbaar ministerie aan wie het exploit werd betekend, met betrekking tot het afschrift en, in voorkomend geval, het bij het exploit betekende afzonderlijke stuk, onverwijld een aanvrage om betekening of kennisgeving overeenkomstig de artikelen 3-6 van het verdrag tot de centrale autoriteit of tot een overeenkomstig artikel 18, eerste lid, van het verdrag aangewezen andere bevoegde autoriteit, van de Staat, waar de betekening of kennisgeving moet plaats vinden.
 
