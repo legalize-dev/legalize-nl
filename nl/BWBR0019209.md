@@ -357,13 +357,3 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 Dit besluit wordt aangeduid als: Besluit werkzaamheden Raad voor plantenrassen.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 8a
-
-Dit onderdeel is nog niet inwerking getreden
-
-#### Paragraaf 5. Kwekersrecht
-
-#### Paragraaf 6. Overige bepalingen en slotbepalingen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
