@@ -4,7 +4,7 @@ identifier: "BWBR0002172"
 country: "nl"
 rank: "wet"
 publication_date: "2015-07-01"
-last_updated: "2005-05-01"
+last_updated: "2006-02-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002172"
 soort: "wet"
@@ -44,7 +44,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 1
 
-De aanvraag tot het doen aanbrengen van de formule tot gedwongen tenuitvoerlegging van uitspraken en beschikkingen, die ingevolge het Verdrag tot oprichting van de Europese Economische Gemeenschap en het Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie kunnen worden tenuitvoergelegd, wordt in Nederland gericht tot Onze Minister van Justitie.
+De aanvraag tot het doen aanbrengen van de formule tot gedwongen tenuitvoerlegging van uitspraken en beschikkingen, die ingevolge het Verdrag tot oprichting van de Europese Gemeenschap en het Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie kunnen worden tenuitvoergelegd, wordt in Nederland gericht tot Onze Minister van Justitie.
 
 ##### Artikel 2
 
