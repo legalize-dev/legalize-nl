@@ -4,7 +4,7 @@ identifier: "BWBR0010314"
 country: "nl"
 rank: "amvb"
 publication_date: "2021-05-26"
-last_updated: "2003-04-25"
+last_updated: "2006-02-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010314"
 soort: "AMvB"
@@ -50,13 +50,19 @@ Hebben goedgevonden en verstaan:
 
 Als wetenschappelijk onderzoek waarvan het onderzoekprotocol een positief oordeel moet hebben verkregen van de centrale commissie bedoeld in [artikel 14 van de Wet medisch-wetenschappelijk onderzoek met mensen](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&artikel=14) wordt aangewezen:
 
-- a. wetenschappelijk onderzoek waarbij in menselijke lichaamscellen opzettelijk wijzigingen worden aangebracht in het erfelijk materiaal;
+- a. wetenschappelijk onderzoek waarbij in menselijke lichaamscellen opzettelijk wijzigingen worden aangebracht in het erfelijk materiaal of het functioneren van het erfelijk materiaal specifiek wordt beïnvloed;
 
 - b. wetenschappelijk onderzoek waarbij levende bestanddelen van een dier of van een foetus of embryo van een dier, dan wel een menselijk bestanddeel dat daarmee doelgericht in aanraking is gebracht, worden in- of aangebracht in of aan het lichaam van een mens;
 
 - c. wetenschappelijk onderzoek waarbij middelen waarop [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=2), of [artikel 3, eerste lid, van de Opiumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3) van toepassing is, in farmaceutische vorm worden voorgeschreven aan personen die aan die middelen zijn verslaafd, in het kader van de behandeling van de verslaving aan die middelen;
 
-- d. wetenschappelijk onderzoek met geslachtscellen.
+- d. wetenschappelijk onderzoek met geslachtscellen;
+
+- e. wetenschappelijk onderzoek gericht op de ontwikkeling van een vaccin;
+
+- f. wetenschappelijk onderzoek gericht op de ontwikkeling van celtherapie, waarbij gebruik wordt gemaakt van levende cellen;
+
+- g. wetenschappelijk onderzoek met een geneesmiddel dat genetisch gemodificeerde organismen als bedoeld in [artikel 1, eerste lid, onderdeel f, van het Besluit genetisch gemodificeerde organismen Wet milieugevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0004703&artikel=1) bevat.
 
 ##### Artikel 2
 
