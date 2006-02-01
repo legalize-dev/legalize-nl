@@ -183,29 +183,3 @@ Dit besluit wordt aangehaald als: Besluit verhandeling teeltmateriaal.
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 6a
-
-Bij ministeriële regeling kunnen regels worden gesteld over de toestemming, bedoeld in artikel 3, vierde lid, van richtlijn 2008/90/EG.
-
-#### Paragraaf 4. Slotbepalingen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 6b
-
-1. De teelt van landbouwgewassen, tuinbouwgewassen en bosbouwgewassen is slechts toegestaan indien is voldaan aan de bij ministeriële regeling gestelde regels inzake teelt.
-
-2. De regels, bedoeld in het eerste lid, kunnen betrekking hebben op:
-
-- a. het gebruik, de opslag en de bewerking van landbouwzaaizaad dat niet overeenkomstig de bij die regels aangewezen voorschriften is goedgekeurd;
-
-- b. het verstrekken van gegevens inzake landbouwzaaizaad aan Onze Minister;
-
-- c. het bewerken van landbouwgrond teneinde de verontreiniging van zaaizaad tegen te gaan;
-
-- d. het voorkomen van economische schade door het naast elkaar bestaan van genetisch gemodificeerde gewassen en niet-genetisch gemodificeerde gewassen.
-
-#### Paragraaf 5. Slotbepalingen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
