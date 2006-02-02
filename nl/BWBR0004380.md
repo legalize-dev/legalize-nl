@@ -4,7 +4,7 @@ identifier: "BWBR0004380"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2006-02-02"
-last_updated: "1995-10-01"
+last_updated: "2006-02-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004380"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ Besluit:
 
 ##### Artikel 2
 
-Bij de aanvang van het loodsen op afstand meldt de kapitein wanneer op de tankercontrolelijst op een of meerdere vragen ontkennend is geantwoord, en om welke reden.
+Vervallen
 
 ##### Artikel 3
 
