@@ -230,29 +230,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van 
 Deze regeling wordt aangehaald als: Regeling bijzondere subsidies waterkeren en waterbeheren.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 1a
-
-Deze regeling berust op [artikel 3, eerste en tweede lid, van de Kaderwet subsidies Verkeer en Waterstaat](https://wetten.overheid.nl/jci1.3:c:BWBR0009196&artikel=3).
-
-#### § 2. Subsidie
-
-#### § 3. Subsidieverlening
-
-#### § 4. Subsidievaststelling
-
-#### § 5. Slotbepalingen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 14a
-
-Op aanvragen voor subsidieverlening die zijn ingediend vóór 1 januari 2012 zijn [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0019518&paragraaf=2&artikel=2&z=2012-07-04&g=2012-01-01), [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019518&paragraaf=3&artikel=3&z=2012-07-04&g=2012-01-01), [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019518&paragraaf=3&artikel=6&z=2012-07-04&g=2012-01-01), [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0019518&paragraaf=3&artikel=7&z=2012-07-04&g=2012-01-01), [artikel 9, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0019518&paragraaf=4&artikel=9&z=2012-07-04&g=2012-01-01), en [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019518&paragraaf=4&artikel=11&z=2012-07-04&g=2012-01-01), van toepassing zoals deze luidden onmiddellijk vóór de inwerkingtreding van de Regeling van de Staatssecretaris van Infrastructuur en Milieu van 30 november 2011, tot wijziging van de Regeling bijzondere subsidies waterkeren en waterbeheren in verband met vervanging van het forfait voor de subsidiëring van kosten voor voorbereiding van het werk in subsidie op basis van werkelijk gemaakte kosten en enige technische wijzigingen (Stcrt. 2011, 22111).
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-#### § 4a. Overige bepalingen
-
-#### § 5. Slotbepalingen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
