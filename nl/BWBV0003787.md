@@ -4,7 +4,7 @@ identifier: "BWBV0003787"
 country: "nl"
 rank: "verdrag"
 publication_date: "2021-02-18"
-last_updated: "2001-02-21"
+last_updated: "2006-02-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0003787"
 soort: "verdrag"
@@ -274,7 +274,7 @@ Het Fonds publiceert een jaarverslag dat een door accountants gecontroleerd over
 
 - (f). De leningsovereenkomst wordt per geval gesloten door het Fonds en de ontvangende partij, die verantwoordelijk is voor de uitvoering van het betrokken project of programma.
 
-- (g). Het Fonds vertrouwt het beheer van de leningen, wat de uitbetaling van de opbrengst van de lening en het toezicht op de uitvoering van het betrokken project of programma betreft, toe aan de bevoegde internationale instellingen. Deze mondiale of regionale instellingen worden per geval gekozen met de goedkeuring van de ontvangende partij. Voordat het Fonds de lening ter goedkeuring voorlegt aan het College van Bewindvoerders, overtuigt het zich ervan dat de instelling waaraan het toezicht wordt toevertrouwd, instemt met de resultaten van de beoordeling van het betrokken project of programma. Dit wordt overeengekomen tussen het Fonds en de met de beoordeling belaste instelling of organisatie, alsmede met de instelling waaraan het toezicht zal worden opgedragen.
+- (g). Tenzij het College van Bewindsvoerders anders besluit, vertrouwt het Fonds het beheer van de leningen, wat de uitbetaling van de opbrengst van de lening en het toezicht op de uitvoering van het betrokken project of programma betreft, toe aan de bevoegde nationale, regionale of internationale of andere instellingen of entiteiten. Deze instellingen of entiteiten zijn van mondiale, regionale of nationale aard en worden per geval gekozen met de goedkeuring van de ontvangende partij. Voordat het Fonds de lening ter goedkeuring voorlegt aan het College van Bewindvoerders, overtuigt het zich ervan dat de instelling of entiteit waaraan het toezicht wordt toevertrouwd, instemt met de resultaten van de beoordeling van het betrokken project of programma. Dit wordt overeengekomen tussen het Fonds en de met de beoordeling belaste instelling of organisatie, alsmede met de instelling of entiteit waaraan het toezicht zal worden opgedragen.
 
 - (h). Voor de toepassing van het bepaalde in de letters (f) en (g) hierboven worden verwijzingen naar „leningen” geacht mede „schenkingen” te omvatten.
 
