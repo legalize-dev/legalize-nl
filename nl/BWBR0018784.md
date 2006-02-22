@@ -89,9 +89,3 @@ Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van he
 Deze wet wordt aangehaald als: Spellingwet.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 1a
-
-Deze wet is mede van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
