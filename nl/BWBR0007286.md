@@ -4,7 +4,7 @@ identifier: "BWBR0007286"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "1998-01-01"
+last_updated: "2006-02-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007286"
 soort: "wet"
@@ -47,121 +47,95 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 1
 
-1. In deze wet en de daarop berustende bepalingen wordt verstaan onder:
+In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - a. Onze Minister: Onze Minister van Volksgezondheid, Welzijn en Sport;
 
-- b. de richtlijn: [richtlijn 92/109/EEG](31992L0109) van de Raad van de Europese Gemeenschappen van 14 december 1992 inzake de vervaardiging en het in de handel brengen van bepaalde stoffen die worden gebruikt voor de illegale vervaardiging van verdovende middelen en psychotrope stoffen (**PbEG** L 370);
+- b. [Verordening nr. 273/2004](32004R0273): [verordening (EG) nr. 273/2004](32004R0273) van het Europees Parlement en de Raad van 11 februari 2004 inzake drugsprecursoren (PbEU L 47);
 
-- c. de verordening: [verordening (EEG) nr. 3677/90](31990R3677) van de Raad van de Europese Gemeenschappen van 13 december 1990, houdende maatregelen om te voorkomen dat bepaalde stoffen worden misbruikt voor de illegale vervaardiging van verdovende middelen en psychotrope stoffen (**PbEG** L 357), zoals deze laatstelijk is gewijzigd bij [verordening (EEG) nr. 2959/93](31993R2959) van de Commissie van 27 oktober 1993 tot wijziging van [verordening (EEG) nr. 3769/92](31992R3769) ter uitvoering en tot wijziging van [Verordening (EEG) nr. 3677/90](31990R3677) van de Raad houdende maatregelen om te voorkomen dat bepaalde stoffen worden misbruikt voor de illegale vervaardiging van verdovende middelen en psychotrope stoffen (**PbEG** L 267);
+- c. [Verordening nr. 111/2005](32005R0111): [verordening (EG) nr. 111/2005](32005R0111) van de Raad van 22 december 2004 houdende voorschriften voor het toezicht op de handel tussen de Gemeenschap en derde landen in drugsprecursoren (PbEU L 22);
 
-- d. de Gemeenschap: de Europese Gemeenschap;
+- d. [Verordening nr. 3677/90](31990R3677): [verordening nr. 3677/90](31990R3677) (EEG) van de Raad van 13 december 1990 houdende maatregelen om te voorkomen dat bepaalde stoffen worden misbruikt voor de illegale vervaardiging van verdovende middelen en psychotrope stoffen (PbEG L 357);
 
-- e. geregistreerde stof: een in bijlage I bij de richtlijn opgenomen stof, met inbegrip van mengsels welke dergelijke stoffen bevatten;
-
-- f. in de handel brengen: het al dan niet tegen betaling aan derden ter beschikking stellen van geregistreerde stoffen, die in de Gemeenschap zijn vervaardigd of in het vrije verkeer gebracht;
-
-- g. deelnemer aan het handelsverkeer: elke natuurlijke of rechtspersoon die betrokken is bij de vervaardiging, de voortbrenging, de verwerking, de handel in of de distributie van geregistreerde stoffen of die betrokken is bij aanverwante activiteiten zoals de bemiddeling en opslag van geregistreerde stoffen.
-
-2. Tot geregistreerde stoffen worden niet gerekend geneesmiddelen als bedoeld in [artikel 1, eerste lid, onder **e**, van de Wet op de Geneesmiddelenvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0002290&artikel=1) of andere preparaten die geregistreerde stoffen bevatten, mits zij op zodanige wijze zijn samengesteld dat deze stoffen niet op eenvoudige wijze kunnen worden gebruikt of met eenvoudige middelen kunnen worden teruggewonnen.
-
-3. Een wijziging van een bijlage bij de richtlijn treedt voor de toepassing van deze wet in werking met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uiterlijk uitvoering moet zijn gegeven.
+- e. Uitvoeringsverordening: [verordening (EG) nr. 1277/2005](32005R1277) van de Commissie van 27 juli 2005 tot vaststelling van uitvoeringsbepalingen van [Verordening nr. 273/2004](32004R0273) van het Europees Parlement en de Raad inzake drugsprecursoren en van [Verordening nr. 111/2005](32005R0111) van de Raad houdende voorschriften voor het toezicht op de handel tussen de Gemeenschap en derde landen in drugsprecursoren (PbEU L 202).
 
 ##### Artikel 2
 
-Deelnemers aan het handelsverkeer en personen of rechtspersonen als bedoeld in artikel 1, tweede lid, onder **e**, van de verordening stellen Onze Minister onverwijld in kennis van alle voorvallen die doen vermoeden dat geregistreerde stoffen die in de handel zullen worden gebracht, zullen worden vervaardigd of voor de in-, uit-, of doorvoer zijn bestemd, misbruikt kunnen of zullen worden voor de illegale vervaardiging van verdovende middelen of psychotrope stoffen.
+Het is verboden te handelen in strijd met voorschriften gesteld bij of krachtens:
+
+- a. de artikelen 3, tweede en derde lid, en 8 van [Verordening nr. 273/2004](32004R0273), de artikelen 6, eerste lid, 8, eerste lid, 9, 12, eerste lid, en 20 van [Verordening nr. 111/2005](32005R0111).
+
+- b. artikel 7, eerste lid, van [Verordening nr. 111/2005](32005R0111) en artikel 10, eerste lid, van de Uitvoeringsverordening;
+
+- c. de artikelen 3, eerste en zesde lid, 4, 5 en 7 van [Verordening nr. 273/2004](32004R0273) en de artikelen 3, 4, 5, 14, tweede lid, en 22 van [Verordening nr. 111/2005](32005R0111) en de artikelen 3, 10, tweede, derde en vierde lid, en 27 van de Uitvoeringsverordening.
 
 #### § 2. Handelsverkeer binnen de Gemeenschap
 
 ##### Artikel 3
 
-Het vervaardigen of in de handel brengen van geregistreerde stoffen van categorie 1 van bijlage I bij de richtlijn zonder vergunning van Onze Minister is verboden.
+1. De beslissing op een aanvraag voor een vergunning als bedoeld in [Verordening nr. 273/2004](32004R0273) en [Verordening nr. 111/2005](32005R0111) geschiedt door Onze Minister.
+
+2. Bij regeling van Onze Minister kunnen nadere regels worden gesteld omtrent de speciale vergunning en registratie als bedoeld in artikel 3, tweede en zesde lid, van [Verordening nr. 273/2004](32004R0273).
+
+3. Bij regeling van Onze Minister kan worden bepaald dat voor de behandeling van een aanvraag om een vergunning als bedoeld in het eerste lid een kostendekkende vergoeding is verschuldigd. De hoogte van deze vergoeding kan per categorie van vergunningen of precursoren verschillend worden vastgesteld.
 
 ##### Artikel 4
 
-Een houder van een vergunning als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0007286&paragraaf=2&artikel=3&z=1998-01-01&g=1998-01-01) stelt de desbetreffende geregistreerde stoffen slechts ter beschikking van personen, rechtspersonen daaronder begrepen, of instellingen, die behoren tot een bij ministeriële regeling aangewezen categorie van personen of instellingen.
+1. Indien er een redelijk vermoeden bestaat dat geregistreerde stoffen bestemd zijn voor de illegale vervaardiging van verdovende middelen of psychotrope stoffen, verbiedt Onze Minister het binnen of buiten het grondgebied van de Gemeenschap brengen van deze stoffen.
+
+2. Het is verboden te handelen in strijd met een verbod als bedoeld in het eerste lid.
+
+3. Onze Minister kan een verbod als bedoeld in het eerste lid opheffen.
 
 ##### Artikel 5
 
-Het is aan anderen dan houders van een vergunning als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0007286&paragraaf=2&artikel=3&z=1998-01-01&g=1998-01-01) en aan personen of instellingen als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0007286&paragraaf=2&artikel=4&z=1998-01-01&g=1998-01-01) verboden geregistreerde stoffen van categorie 1 van bijlage I bij de richtlijn voorhanden te hebben.
+Vervallen
 
 ##### Artikel 6
 
-1. Onze Minister kan regelen stellen omtrent de bij een aanvraag van een vergunning als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0007286&paragraaf=2&artikel=3&z=1998-01-01&g=1998-01-01) te verschaffen gegevens en bescheiden.
-
-2. Aan een vergunning kunnen voorschriften en beperkingen worden verbonden, waaronder een beperking van de geldigheidsduur.
-
-3. Een vergunning wordt niet verleend indien:
-
-- a. er redenen zijn om aan te nemen dat de competentie of de integriteit van de aanvrager hem ongeschikt maken voor het vervaardigen of in de handel brengen van geregistreerde stoffen of,
-
-- b. er redelijke vermoedens bestaan dat de overeenkomstig het eerste lid verstrekte informatie vals of onjuist is.
-
-4. Een vergunning kan worden ingetrokken of gewijzigd indien:
-
-- a. blijkt dat de in verband met de aanvraag van een vergunning verstrekte gegevens zodanig onjuist of onvolledig zijn dat op die aanvraag een andere beslissing zou zijn genomen, indien bij de beoordeling daarvan de juiste gegevens bekend waren geweest;
-
-- b. degene, aan wie de vergunning is verleend, daarvan geen gebruik maakt en niet aannemelijk is, dat deze daarvan binnen redelijke termijn gebruik zal maken;
-
-- c. degene, aan wie de vergunning is verleend, in strijd handelt met de bij of krachtens deze wet gestelde regelen, met de aan de vergunning verbonden voorschriften of met de beperkingen, waaronder de vergunning is verleend;
-
-- d. er redenen zijn aan te nemen dat niet langer wordt voldaan aan de voorwaarden voor het verkrijgen van een vergunning.
+Vervallen
 
 ##### Artikel 7
 
-1. De deelnemers aan het handelsverkeer dragen zorg dat alle transacties die leiden tot het in de handel brengen van geregistreerde stoffen van categorie 1 of categorie 2 van bijlage I bij de richtlijn, naar behoren zijn gedocumenteerd.
-
-Handelsbescheiden, zoals facturen, vrachtbrieven, administratieve bescheiden, vervoers- of andere verzendingsdocumenten, bevatten voldoende informatie om de volgende elementen met zekerheid te kunnen vaststellen:
-
-- a. een omschrijving van de geregistreerde stof;
-
-- b. de hoeveelheid en het gewicht van de geregistreerde stof en, indien het een mengsel betreft, de hoeveelheid en het gewicht van dit mengsel alsook de hoeveelheid en het gewicht of het percentage van de daarin aanwezige geregistreerde stof;
-
-- c. de naam en het adres van de leverancier, de distributeur en de geadresseerde.
-
-2. De documentatie, bedoeld in het eerste lid, bevat bovendien een verklaring van de afnemer, waarin de gebruiksdoeleinden van de stoffen worden gespecificeerd. Onze Minister stelt regelen ter uitvoering van de krachtens artikel 2, eerste lid, onder **b**, van de richtlijn vastgestelde toepassingsmodaliteiten.
-
-3. Het eerste en tweede lid zijn niet van toepassing ten aanzien van transacties die betrekking hebben op geregistreerde stoffen van categorie 2 van bijlage I bij de richtlijn, indien de betrokken hoeveelheden de in bijlage II bij de richtlijn aangegeven waarden niet te boven gaan.
-
-4. De deelnemers aan het handelsverkeer bewaren de in het eerste en tweede lid bedoelde documenten gedurende een tijdvak van ten minste drie jaar te rekenen vanaf het einde van het kalenderjaar waarin de desbetreffende transactie heeft plaatsgevonden en houden die documenten gedurende die periode ter beschikking van de ambtenaren, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0007286&paragraaf=4&artikel=13&z=1998-01-01&g=1998-01-01).
+Vervallen
 
 ##### Artikel 8
 
-De deelnemers aan het handelsverkeer dragen zorg dat de geregistreerde stoffen van de categorieën 1 en 2, alvorens zij in de handel worden gebracht, in elk geval zijn voorzien van een etiket, waarop de naam van de betrokken stof is aangebracht zoals deze is vermeld in bijlage I van de richtlijn.
+Vervallen
 
 ##### Artikel 9
 
-De deelnemers aan het handelsverkeer die betrokken zijn bij de vervaardiging of het in de handel brengen van geregistreerde stoffen van categorie 2 van bijlage I bij de richtlijn, verstrekken aan Onze Minister een opgave van de adressen van de bedrijfsruimten waar zij deze stoffen vervaardigen of van waaruit zij deze stoffen verhandelen. Zij brengen wijzigingen daarin ter kennis van die minister.
+Vervallen
 
 #### § 3. Handelsverkeer met landen buiten de Gemeenschap
 
 ##### Artikel 10
 
-Het is verboden te handelen in strijd met voorschriften gesteld bij of krachtens:
-
-- a. artikel 2 **bis**, eerste lid, eerste volzin, van de verordening;
-
-- b. artikel 4, eerste lid, van de verordening;
-
-- c. artikel 2, artikel 2 **bis**, tweede lid, artikel 4, zesde lid, eerste alinea en tweede alinea, eerste volzin, artikel 5, eerste lid, tweede lid, derde lid, eerste en tweede alinea, en artikel 5 **bis**, eerste en tweede lid, van de verordening.
+Vervallen
 
 ##### Artikel 11
 
-1. De beslissing op een aanvraag van een vergunning als bedoeld in artikel 2 **bis**, eerste lid, van de verordening geschiedt door Onze Minister, de beslissing op een aanvraag van een vergunning als bedoeld in artikel 4, eerste lid, 5 eerste lid, of 5 **bis** eerste lid, van de verordening, geschiedt door Onze Minister van Economische Zaken.
-
-2. Aan een vergunning kunnen voorschriften en beperkingen worden verbonden waaronder een beperking van de geldigheidsduur.
+Vervallen
 
 ##### Artikel 12
 
-Onze Minister kan het binnenbrengen van een in de bijlage bij de verordening opgenomen stof in Nederland van buiten het grondgebied van de Gemeenschap of het verlaten van een dergelijke stof uit Nederland naar buiten het douanegebied van de Gemeenschap verbieden indien hij redelijkerwijs kan vermoeden dat zij bestemd zijn voor de illegale vervaardiging van verdovende middelen of psychotrope stoffen. Het is verboden te handelen in strijd met een zodanig verbod.
+Vervallen
 
 #### § 4. Toezicht
 
 ##### Artikel 13
 
-1. Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn belast de bij besluit van Onze Minister en Onze Minister van Economische Zaken aangewezen ambtenaren.
+1. Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn belast:
 
-2. Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de **Staatscourant**.
+- a. de ambtenaren van de rijksbelastingdienst, bevoegd inzake douane;
+
+- b. de buitengewone opsporingsambtenaren van de Belastingdienst / Fiscale inlichtingen- en opsporingsdienst – Economische controledienst van het Ministerie van Financiën;
+
+- c. de bij besluit van Onze Minister aangewezen ambtenaren.
+
+2. Van een besluit als bedoeld in het eerste lid, onder c, wordt mededeling gedaan door plaatsing in de Staatscourant.
+
+3. Op de in het eerste lid, onder a, bedoelde ambtenaren zijn de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0007632&hoofdstuk=2) en [3 van de Douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0007632&hoofdstuk=3) van overeenkomstige toepassing met uitzondering van [artikel 10 van hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0007632&artikel=10).
 
 ##### Artikel 14
 
@@ -195,7 +169,7 @@ Vervallen
 
 ##### Artikel 21
 
-Van een wijziging van een bijlage bij de richtlijn wordt door Onze Minister onverwijld mededeling gedaan in de **Staatscourant** met vermelding van het tijdstip waarop zij voor de toepassing van deze wet in werking treedt.
+Vervallen
 
 ##### Artikel 22
 
@@ -212,5 +186,7 @@ Deze wet treedt in werking met ingang van de eerste dag van de tweede kalenderma
 ##### Artikel 25
 
 Deze wet wordt aangehaald als: Wet voorkoming misbruik chemicaliën.
+
+Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
