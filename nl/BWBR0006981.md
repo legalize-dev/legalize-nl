@@ -4,7 +4,7 @@ identifier: "BWBR0006981"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-04-01"
-last_updated: "2003-09-12"
+last_updated: "2006-02-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006981"
 soort: "AMvB"
@@ -46,7 +46,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-1. Voor de ambtenaren, bedoeld in [artikel 3, eerste lid, aanhef en onder **a**, en onder **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0006981&artikel=3&z=2003-09-12&g=2003-09-12) indien zij zijn belast met de opsporing van alle strafbare feiten, en tweede lid van de [Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299), gelden de volgende rangen:
+1. Voor de ambtenaren, bedoeld in [artikel 3, eerste lid, aanhef en onder **a**, en onder **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0006981&artikel=3&z=2006-02-22&g=2006-02-22) indien zij zijn belast met de opsporing van alle strafbare feiten, en tweede lid van de [Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299), gelden de volgende rangen:
 
 - a. hoofdcommissaris;
 
@@ -94,17 +94,13 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 2a
 
-1. Onverminderd [artikel 45 van het Besluit rechtspositie vrijwillige politie](https://wetten.overheid.nl/jci1.3:c:BWBR0007321&artikel=45), gelden voor de ambtenaren, bedoeld in [artikel 3, eerste lid, onderdeel c, van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=3) de rangen, genoemd in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006981&artikel=1&z=2003-09-12&g=2003-09-12).
+Onverminderd het bepaalde in [artikel 45 van het Besluit rechtspositie vrijwillige politie](https://wetten.overheid.nl/jci1.3:c:BWBR0007321&artikel=45), gelden voor de ambtenaren van politie aangesteld voor de uitvoering van de politietaak, bedoeld in [artikel 3, eerste lid, onderdeel c, van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=3), de volgende rangen:
 
-2. Aan de volgende functies onderscheidenlijk werkzaamheden is verbonden de rang van:
+- a. aspirant voor degene die is aangesteld als vrijwillige ambtenaar in opleiding, bedoeld in [artikel 1, eerste lid, onderdeel b, van het Besluit rechtspositie vrijwillige politie](https://wetten.overheid.nl/jci1.3:c:BWBR0007321&artikel=1);
 
-- a. aspirant voor degene die is aangesteld op grond van [artikel 3, eerste lid, van het Besluit rechtspositie vrijwillige politie](https://wetten.overheid.nl/jci1.3:c:BWBR0007321&artikel=3);
+- b. surveillant van politie voor de vrijwillige ambtenaar van politie, aangesteld voor de uitvoering van de politietaak, die is belast met de werkzaamheden, bedoeld in [artikel 1, eerste en tweede lid, van het Besluit taken vrijwillige ambtenaren van politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006653&artikel=1), en
 
-- b. surveillant van politie voor degene die is belast met werkzaamheden, bedoeld in [artikel 1, eerste en tweede lid, van het Besluit taken vrijwillige ambtenaren van politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006653&artikel=1);
-
-- c. agent voor degene die is belast met de werkzaamheden, bedoeld in [artikel 2 van het Besluit taken vrijwillige ambtenaren van politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006653&artikel=2).
-
-3. Indien een ambtenaar, bedoeld in [artikel 3, eerste lid, onderdeel c, van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=3), ingevolge [artikel 1, tweede lid, van hoofdstuk 2 van de Invoeringswet Politiewet 1993](onbekend) van rechtswege is overgegaan naar een politieregio dan wel naar het Korps landelijke politiediensten, en de hem opgedragen werkzaamheden feitelijk overeenkomen met de werkzaamheden verbonden aan een functie waaraan voor een ambtenaar als bedoeld in [artikel 3, eerste lid, onderdeel a, van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=3) een hogere rang is toegekend dan de rang van agent, kan aanstelling plaatsvinden in de daaraan verbonden rang mits betrokkene de daarmee overeenkomende rang reeds bekleedde op de dag voorafgaand aan de datum van inwerkingtreding van de [Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299).
+- c. de rangen, bedoeld in [artikel 1, eerste lid, onderdeel b tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBR0006981&artikel=1&z=2006-02-22&g=2006-02-22), voor de vrijwillige ambtenaar van politie, aangesteld voor de uitvoering van de politietaak, die is belast met de werkzaamheden, bedoeld in [artikel 2 van het Besluit taken vrijwillige ambtenaren van politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006653&artikel=2).
 
 ##### Artikel 3
 
