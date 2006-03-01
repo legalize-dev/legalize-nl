@@ -4,7 +4,7 @@ identifier: "BWBR0019227"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-12-09"
-last_updated: "2006-01-01"
+last_updated: "2006-03-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019227"
 soort: "ministeriele-regeling"
@@ -48,15 +48,19 @@ In deze regeling wordt verstaan onder:
 
 - b. het CPE: de stichting Controlebureau voor Pluimvee, Eieren en Eiproducten;
 
-- c. IG-VWA: de inspecteur-generaal van de Voedsel en Waren Autoriteit.
+- c. IG-VWA: de inspecteur-generaal van de Voedsel en Waren Autoriteit;
+
+- d. [verordening (EG) 882/2004](32004R0882): [verordening (EG) nr. 882/2004](32004R0882) van het Europees Parlement en de Raad van de Europese Unie van 29 april 2004 inzake officiële controles op de naleving van de wetgeving inzake diervoeders en levensmiddelen en de voorschriften inzake diergezondheid en dierenwelzijn (PbEU L 165 en 191).
 
 ##### Artikel 2
 
-De controleurs van het COKZ en het CPE zijn belast met het toezicht op de naleving van de bij of krachtens de [Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969) gestelde regels.
+1. De controleurs van het COKZ en het CPE zijn belast met het toezicht op de naleving van de bij of krachtens de Warenwet gestelde regels.
+
+2. Het COKZ en het CPE zorgen ervoor dat het in het eerste lid bedoelde toezicht wordt georganiseerd en uitgeoefend met inachtneming van de artikelen 3, 4 en 6 tot en met 11, van [verordening (EG) 882/2004](32004R0882) inzake officiële controles van levensmiddelen.
 
 ##### Artikel 3
 
-1. De directeuren van het COKZ en het CPE dienen jaarlijks voor 1 oktober na overleg met de directeur Toezicht van de Voedsel en Waren Autoriteit een werkprogramma in bij de IG-VWA, waarin zijn opgenomen de activiteiten van het COKZ onderscheidenlijk het CPE met betrekking tot [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019227&artikel=2&z=2006-01-01&g=2006-01-01) voor het eerstkomende volle kalenderjaar.
+1. De directeuren van het COKZ en het CPE dienen jaarlijks voor 1 oktober na overleg met de directeur Toezicht van de Voedsel en Waren Autoriteit een werkprogramma in bij de IG-VWA, waarin zijn opgenomen de activiteiten van het COKZ onderscheidenlijk het CPE met betrekking tot [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019227&artikel=2&z=2006-03-01&g=2006-03-01) voor het eerstkomende volle kalenderjaar.
 
 2. Het werkprogramma behoeft binnen twee maanden na indiening de goedkeuring van de IG-VWA.
 
