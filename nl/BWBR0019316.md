@@ -249,17 +249,3 @@ De artikelen van dit besluit treden in werking op een bij koninklijk besluit te 
 Dit besluit wordt aangehaald als: Asbestverwijderingsbesluit 2005.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 14a
-
-Voor zover dit besluit berust op de [Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245), berust dit op de [artikelen 9.2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.2.2.1), [9.2.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.2.3.2) en [9.2.3.3, vierde lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.2.3.3).
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-#### § 5. Bestuursrechtelijke handhaving
-
-##### Artikel 18
-
-Dit besluit wordt aangehaald als: Asbestverwijderingsbesluit 2005.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
