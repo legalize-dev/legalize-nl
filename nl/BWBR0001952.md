@@ -4,7 +4,7 @@ identifier: "BWBR0001952"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2006-02-01"
+last_updated: "2006-03-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0001952"
 soort: "wet"
@@ -153,7 +153,7 @@ Een uitspraak van den strafrechter, in kracht van gewijsde gegaan, of ingevolge 
 
 ##### Artikel 12
 
-1. Voor zover deze onderwerpen niet reeds bij of krachtens de wet zijn geregeld, worden voor de militaire ambtenaren bij of krachtens algemene maatregel van bestuur voorschriften vastgesteld betreffende:
+Voor zover deze onderwerpen niet reeds bij of krachtens de wet zijn geregeld, worden voor de militaire ambtenaren bij of krachtens algemene maatregel van bestuur voorschriften vastgesteld betreffende:
 
 - a. aanstelling;
 
@@ -183,19 +183,9 @@ Een uitspraak van den strafrechter, in kracht van gewijsde gegaan, of ingevolge 
 
 - n. wachtgeld;
 
-- o. de melding en de registratie van nevenwerkzaamheden die de belangen van de dienst voor zover deze in verband staan met de functievervulling, kunnen raken;
+- o. overige rechten en verplichtingen;
 
-- p. het verbieden van nevenwerkzaamheden waardoor de goede vervulling van de functie of de goede functionering van de openbare dienst, voor zover deze in verband staat met de functievervulling, niet in redelijkheid zou zijn verzekerd;
-
-- q. de openbaarmaking van de krachtens onderdeel o geregistreerde nevenwerkzaamheden van militaire ambtenaren die een functie vervullen waarvoor ter bescherming van de integriteit van de openbare dienst openbaarmaking van de nevenwerkzaamheden noodzakelijk is;
-
-- r. een procedure voor het omgaan met bij een militaire ambtenaar levende vermoedens van misstanden binnen de organisatie waar hij werkzaam is;
-
-- s. overige rechten en verplichtingen;
-
-- t. de wijze, waarop met de daarvoor in aanmerking komende vakorganisaties van overheidspersoneel overleg wordt gepleegd over aangelegenheden van algemeen belang voor de rechtstoestand van militaire ambtenaren, alsmede de gevallen waarin overeenstemming in dat overleg dient te worden bereikt.
-
-2. Bij of krachtens algemene maatregel van bestuur worden voor militaire ambtenaren die een functie vervullen waaraan in het bijzonder het risico van financiële belangenverstrengeling of het risico van oneigenlijk gebruik van koersgevoelige informatie verbonden is, voorschriften vastgesteld betreffende de melding van financiële belangen respectievelijk van het bezit van en transacties in effecten, die de belangen van de dienst voor zover deze in verband staan met de functievervulling, kunnen raken.
+- p. de wijze, waarop met de daarvoor in aanmerking komende vakorganisaties van overheidspersoneel overleg wordt gepleegd over aangelegenheden van algemeen belang voor de rechtstoestand van militaire ambtenaren, alsmede de gevallen waarin overeenstemming in dat overleg dient te worden bereikt.
 
 ##### Artikel 12a
 
@@ -203,15 +193,13 @@ Een uitspraak van den strafrechter, in kracht van gewijsde gegaan, of ingevolge 
 
 2. Het eerste lid is, voor wat betreft het recht van vereniging, niet van toepassing op het lidmaatschap van:
 
-- a. een politieke groepering waarvan de naam of aanduiding is ingeschreven overeenkomstig de [artikelen G1](onbekend) of [G2 van de Kieswet](onbekend);
+- a. een politieke groepering waarvan de naam of aanduiding is ingeschreven overeenkomstig de [artikelen G1](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=G_1) of [G2 van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=G_2);
 
-- b. een politieke groepering waarvan de naam of aanduiding is ingeschreven overeenkomstig [artikel G3 van de Kieswet](onbekend), en die, indien na de inschrijving verkiezingen zijn gehouden voor de gemeenteraden, aan de laatst gehouden verkiezingen heeft deelgenomen; of
+- b. een politieke groepering waarvan de naam of aanduiding is ingeschreven overeenkomstig [artikel G3 van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=G_3), en die, indien na de inschrijving verkiezingen zijn gehouden voor de gemeenteraden, aan de laatst gehouden verkiezingen heeft deelgenomen; of
 
 - c. een vakvereniging.
 
 3. De militaire ambtenaar is verplicht tot geheimhouding van enig gegeven, de dienst betreffende, tegenover een ieder die tot kennisneming daarvan niet bevoegd is, voor zover die verplichting uit de aard der zaak volgt.
-
-4. De militaire ambtenaar die te goeder trouw de bij hem levende vermoedens van misstanden uit volgens de procedure, bedoeld in [artikel 12, eerste lid, onder r](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&titeldeel=IV&artikel=12&z=2006-02-01&g=2006-02-01), zal als gevolg van het uiten van die vermoedens geen nadelige gevolgen voor zijn rechtspositie ondervinden tijdens en na het volgen van die procedure.
 
 ##### Artikel 12b
 
@@ -281,15 +269,35 @@ Lasten en bevelen, dat deze met een indeeling in het **Staatsblad** zal worden g
 
 ##### Artikel 12bis
 
-Dit onderdeel is nog niet inwerking getreden
+Het bevoegd gezag en de militaire ambtenaar zijn verplicht zich als een goed werkgever en een goed militair ambtenaar te gedragen.
 
 ##### Artikel 12ter
 
-Dit onderdeel is nog niet inwerking getreden
+1. Onze Minister voert een integriteitsbeleid dat is gericht op het bevorderen van goed ambtelijk handelen en dat in ieder geval aandacht besteedt aan het bevorderen van integriteitsbewustzijn en aan het voorkomen van misbruik van bevoegdheden, belangenverstrengeling en discriminatie.
+
+2. Onze Minister zorgt ervoor dat het integriteitsbeleid een vast onderdeel uitmaakt van het personeelsbeleid in ieder geval door integriteit in functioneringsgesprekken en werkoverleg aan de orde te stellen en door het aanbieden van scholing en vorming op het gebied van integriteit.
+
+3. Onze Minister draagt zorg voor de totstandkoming van een gedragscode voor goed ambtelijk handelen.
+
+4. Onze Minister stelt in overeenstemming met de Tweede Kamer vast op welke wijze jaarlijks verantwoording wordt afgelegd over het gevoerde integriteitsbeleid en over de naleving van de gedragscode.
 
 ##### Artikel 12quater
 
-Dit onderdeel is nog niet inwerking getreden
+1. Voor zover deze onderwerpen niet bij of krachtens de wet zijn geregeld, worden voor de militaire ambtenaren bij of krachtens algemene maatregel van bestuur voorschriften vastgesteld betreffende:
+
+- a. de verplichte aflegging van de eed of belofte door de militaire ambtenaar bij zijn aanstelling;
+
+- b. de melding en de registratie van nevenwerkzaamheden die de belangen van de dienst voor zover deze in verband staan met de functievervulling, kunnen raken;
+
+- c. de openbaarmaking van krachtens onderdeel b geregistreerde nevenwerkzaamheden van militaire ambtenaren in een functie waarvoor ter bescherming van de integriteit van de openbare dienst openbaarmaking van nevenwerkzaamheden noodzakelijk is;
+
+- d. het verbieden van nevenwerkzaamheden waardoor de goede vervulling van de functie of de goede functionering van de openbare dienst, voor zover deze in verband staat met de functievervulling, niet in redelijkheid zou zijn verzekerd;
+
+- e. de melding van financiële belangen respectievelijk van het bezit van en transacties in effecten, die de belangen van de dienst voor zover deze in verband staan met de functievervulling, kunnen raken voor militaire ambtenaren aangesteld in een functie waaraan in het bijzonder het risico van financiële belangenverstrengeling of het risico van oneigenlijk gebruik van koersgevoelige informatie verbonden is;
+
+- f. een procedure voor het omgaan met bij een militaire ambtenaar levende vermoedens van misstanden binnen de organisatie waar hij werkzaam is.
+
+2. De militaire ambtenaar die te goeder trouw de bij hem levende vermoedens van misstanden meldt volgens de procedure, bedoeld in het eerste lid onder f, zal als gevolg van het melden van die vermoedens geen nadelige gevolgen voor zijn rechtspositie ondervinden tijdens en na het volgen van die procedure.
 
 ## Titel V. Overgangs- en slotbepalingen
 
