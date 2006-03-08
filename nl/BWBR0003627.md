@@ -4,7 +4,7 @@ identifier: "BWBR0003627"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-01-01"
-last_updated: "2004-12-01"
+last_updated: "2006-03-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003627"
 soort: "AMvB"
@@ -98,7 +98,7 @@ In dit besluit wordt verstaan onder Onze Minister: Onze Minister van Verkeer en 
 
 - b. voor de vaarwegen in beheer bij een ander openbaar lichaam, de personen die worden aangewezen telkens door het bestuur van het openbare lichaam;
 
-- c. voor de vaarwegen niet in beheer bij enig openbaar lichaam, de personen die worden aangewezen door het bestuur van de gemeente waarin telkens de vaarweg is gelegen.
+- c. voor de vaarwegen niet in beheer bij enig openbaar lichaam, de personen die worden aangewezen door het college van burgemeester en wethouders van de gemeente waarin telkens de vaarweg is gelegen.
 
 2. In de volgende bepalingen van het [Binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003628) worden onder de bevoegde autoriteit eveneens verstaan de ambtenaren van politie die zijn aangesteld voor de uitvoering van de politietaak: [artikelen 1.10, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=1.10), [1.12, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=1.12), [1.13, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=1.13), [1.14](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=1.14), [1.15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=1.15), [1.17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=1.17), [1.20](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=1.20), [6.19, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=6.19), en [7.02, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=7.02).
 
@@ -108,7 +108,7 @@ Vervallen
 
 ##### Artikel 7
 
-De besluiten, bedoeld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0003627&artikel=4&z=2004-12-01&g=2004-12-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0003627&artikel=5&z=2004-12-01&g=2004-12-01) worden in de **Staatscourant** geplaatst.
+De besluiten, bedoeld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0003627&artikel=4&z=2006-03-08&g=2006-03-08) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0003627&artikel=5&z=2006-03-08&g=2006-03-08) worden in de **Staatscourant** geplaatst.
 
 ##### Artikel 7a
 
