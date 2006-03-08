@@ -4,7 +4,7 @@ identifier: "BWBR0013371"
 country: "nl"
 rank: "amvb"
 publication_date: "2013-01-01"
-last_updated: "2002-04-01"
+last_updated: "2006-03-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013371"
 soort: "AMvB"
@@ -94,7 +94,7 @@ In dit besluit wordt verstaan onder:
 
 4. Indien in een gemeente in een kalenderjaar meerdere rampen of zware ongevallen plaatsvinden, worden het tweede lid, onderdeel c, en het derde lid slechts eenmaal toegepast.
 
-5. Indien de gemeente verkeert of door toepassing van het tweede of derde lid zou komen te verkeren in de situatie, bedoeld in [artikel 12 van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=12), kan Onze Minister in overeenstemming met Onze Minister van Financiën op verzoek van het gemeentebestuur het ten laste van de gemeente komend aandeel in de kosten op een lager bedrag vaststellen dan wel bepalen dat door de gemeente geen aandeel in de kosten verschuldigd is.
+5. Indien de gemeente verkeert of door toepassing van het tweede of derde lid zou komen te verkeren in de situatie, bedoeld in [artikel 12 van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=12), kan Onze Minister in overeenstemming met Onze Minister van Financiën op verzoek van het college van burgemeester en wethouders het ten laste van de gemeente komend aandeel in de kosten op een lager bedrag vaststellen dan wel bepalen dat door de gemeente geen aandeel in de kosten verschuldigd is.
 
 #### § 3. Bijdrage in de kosten gemaakt voor bijstand bij de bestrijding van een ramp of zwaar ongeval in België of Duitsland
 
@@ -122,7 +122,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 5
 
-1. De aanvragen, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013371&paragraaf=2&artikel=2&z=2002-04-01&g=2002-04-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0013371&paragraaf=2&artikel=3&z=2002-04-01&g=2002-04-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0013371&paragraaf=3&artikel=4&z=2002-04-01&g=2002-04-01), worden uiterlijk twaalf maanden na het einde van de bijstandsverlening of de bestrijding van de ramp of het zware ongeval en de gevolgen daarvan ingediend bij Onze Minister.
+1. De aanvragen, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013371&paragraaf=2&artikel=2&z=2006-03-08&g=2006-03-08), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0013371&paragraaf=2&artikel=3&z=2006-03-08&g=2006-03-08) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0013371&paragraaf=3&artikel=4&z=2006-03-08&g=2006-03-08), worden uiterlijk twaalf maanden na het einde van de bijstandsverlening of de bestrijding van de ramp of het zware ongeval en de gevolgen daarvan ingediend bij Onze Minister.
 
 2. De aanvraag gaat vergezeld van de opgave van de kosten, welke is voorzien van bewijsstukken, alsmede een verslag van de gebeurtenissen.
 
@@ -134,7 +134,7 @@ Onze Minister beslist binnen zes maanden na indiening van de aanvraag.
 
 ##### Artikel 7
 
-1. Op verzoek van de aanvrager kan Onze Minister een voorschot verlenen op de bijdragen, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013371&paragraaf=2&artikel=2&z=2002-04-01&g=2002-04-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0013371&paragraaf=2&artikel=3&z=2002-04-01&g=2002-04-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0013371&paragraaf=3&artikel=4&z=2002-04-01&g=2002-04-01).
+1. Op verzoek van de aanvrager kan Onze Minister een voorschot verlenen op de bijdragen, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013371&paragraaf=2&artikel=2&z=2006-03-08&g=2006-03-08), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0013371&paragraaf=2&artikel=3&z=2006-03-08&g=2006-03-08) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0013371&paragraaf=3&artikel=4&z=2006-03-08&g=2006-03-08).
 
 2. Het verzoek gaat vergezeld van een voorlopige opgave van de kosten.
 
