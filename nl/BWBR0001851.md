@@ -4,7 +4,7 @@ identifier: "BWBR0001851"
 country: "nl"
 rank: "wet"
 publication_date: "2019-02-16"
-last_updated: "2001-04-01"
+last_updated: "2006-03-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0001851"
 soort: "wet"
@@ -64,7 +64,7 @@ Afschriften van of uittreksels uit huwelijksakten of akten van omzetting van een
 
 ##### Artikel 3
 
-1. De regten, krachtens [art. 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001851&artikel=2&z=2001-04-01&g=2001-04-01) geheven, komen ten bate van de gemeentekas.
+1. De regten, krachtens [art. 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001851&artikel=2&z=2006-03-08&g=2006-03-08) geheven, komen ten bate van de gemeentekas.
 
 2. Zij worden door den ambtenaar van den burgerlijken stand bij de uitreiking van het afschrift of uittreksel, op welk stuk het verschuldigd bedrag wordt vermeld, ingevorderd en op de wijze, door Ons te bepalen, verantwoord.
 
@@ -76,7 +76,7 @@ Afschriften van of uittreksels uit huwelijksakten of akten van omzetting van een
 
 ##### Artikel 5
 
-1. Het lokaal, in het huis der gemeente voor de huwelijksvoltrekking, registratie van een partnerschap of omzetting van een geregistreerd partnerschap of van een huwelijk bestemd, wordt door de gemeente beschikbaar gesteld.
+1. Het lokaal, in het huis der gemeente voor de huwelijksvoltrekking, registratie van een partnerschap of omzetting van een geregistreerd partnerschap of van een huwelijk bestemd, wordt door het college van burgemeester en wethouders beschikbaar gesteld.
 
 2. Voor huwelijksvoltrekking, registratie van een partnerschap of omzetting van een geregistreerd partnerschap of van een huwelijk, op andere tijd of andere wijze dan waarop zij ingevolge het voorschrift van het voorafgaande artikel kosteloos plaats heeft, kan door de gemeente een recht worden geheven als bedoeld in [artikel 229 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=229) (**Stb** 1992, 96).
 
