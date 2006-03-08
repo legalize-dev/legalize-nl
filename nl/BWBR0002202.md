@@ -4,7 +4,7 @@ identifier: "BWBR0002202"
 country: "nl"
 rank: "wet"
 publication_date: "2025-07-05"
-last_updated: "1998-01-01"
+last_updated: "2006-03-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002202"
 soort: "wet"
@@ -181,7 +181,7 @@ In afwijking van [artikel 19, tweede lid, van de Kaderwet adviescolleges](https:
 
 ##### Artikel 26
 
-In afwijking van de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&artikel=17) en [18 van de Kaderwet adviescolleges](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&artikel=18) is een commissie als bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0002202&hoofdstuk=III&artikel=24&z=1998-01-01&g=1998-01-01) bevoegd in naam van de Gezondheidsraad door tussenkomst van de voorzitter een rapport als bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0002202&hoofdstuk=III&artikel=22&z=1998-01-01&g=1998-01-01) uit te brengen.
+In afwijking van de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&artikel=17) en [18 van de Kaderwet adviescolleges](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&artikel=18) is een commissie als bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0002202&hoofdstuk=III&artikel=24&z=2006-03-08&g=2006-03-08) bevoegd in naam van de Gezondheidsraad door tussenkomst van de voorzitter een rapport als bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0002202&hoofdstuk=III&artikel=22&z=2006-03-08&g=2006-03-08) uit te brengen.
 
 ##### Artikel 26a
 
@@ -247,7 +247,7 @@ Aan het hoofd van elk onderdeel van het Staatstoezicht staat een hoofdinspecteur
 
 ##### Artikel 39
 
-Met betrekking tot de uitvoering van de in [artikel 36, eerste lid, onder **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002202&hoofdstuk=IV&artikel=36&z=1998-01-01&g=1998-01-01), bedoelde taak zijn de [artikelen 5:12](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:12), [5:13](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:13), [5:15](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:15), [5:16](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:16), [5:17](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:17) en [5:20 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) van overeenkomstige toepassing.
+Met betrekking tot de uitvoering van de in [artikel 36, eerste lid, onder **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002202&hoofdstuk=IV&artikel=36&z=2006-03-08&g=2006-03-08), bedoelde taak zijn de [artikelen 5:12](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:12), [5:13](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:13), [5:15](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:15), [5:16](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:16), [5:17](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:17) en [5:20 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) van overeenkomstige toepassing.
 
 ##### Artikel 40
 
@@ -277,11 +277,11 @@ Vervallen
 
 ##### Artikel 45
 
-1. In elke provincie stellen de Provinciale Staten een Provinciale Raad voor de Volksgezondheid in.
+1. In elke provincie stellen de Gedeputeerde Staten een Provinciale Raad voor de Volksgezondheid in.
 
 2. Zij stellen de plaats van vestiging van de Raad vast.
 
-3. Zij regelen, met inachtneming van de voorschriften van dit hoofdstuk, bij verordening, de samenstelling, de bevoegdheid en de werkwijze van de Raad.
+3. Zij regelen, met inachtneming van de voorschriften van dit hoofdstuk,de samenstelling, de bevoegdheid en de werkwijze van de Raad.
 
 4. De Provinciale Raad is rechtspersoon.
 
@@ -333,7 +333,7 @@ De samenstelling van de Provinciale Raad wordt zodanig geregeld, dat daarin in e
 
 1. De Provinciale Raad doet zich bijstaan door commissies van advies en bijstand, welke deskundig zijn op een bijzonder gebied van de volksgezondheid.
 
-2. De Provinciale Raad kan in zijn gebied één of meer districtscommissies instellen. Ten aanzien van die commissies is [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0002202&hoofdstuk=V&paragraaf=2&artikel=48&z=1998-01-01&g=1998-01-01) van overeenkomstige toepassing.
+2. De Provinciale Raad kan in zijn gebied één of meer districtscommissies instellen. Ten aanzien van die commissies is [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0002202&hoofdstuk=V&paragraaf=2&artikel=48&z=2006-03-08&g=2006-03-08) van overeenkomstige toepassing.
 
 3. De Raad regelt de samenstelling, bevoegdheid en werkwijze van deze commissies en benoemt de leden.
 
@@ -351,7 +351,7 @@ De samenstelling van de Provinciale Raad wordt zodanig geregeld, dat daarin in e
 
 2. De arbeidsvoorwaarden, waaronder de directeur en de andere personen, bij het bureau werkzaam, hun betrekking vervullen, zijn gelijk aan die, welke gelden voor het personeel in dienst van de provincie.
 
-3. Met inachtneming van het bepaalde in het vorige lid, worden door de Provinciale Staten voorschriften vastgesteld betreffende de bezoldiging van de directeur en van de andere personen, werkzaam bij het bureau.
+3. Met inachtneming van het bepaalde in het vorige lid, worden door de Gedeputeerde Staten voorschriften vastgesteld betreffende de bezoldiging van de directeur en van de andere personen, werkzaam bij het bureau.
 
 ##### Artikel 53
 
@@ -437,7 +437,7 @@ Waar in enig wettelijk voorschrift wordt verwezen naar een artikel van de Gezond
 
 ##### Artikel 69a
 
-1. Na de inwerkingtreding van de [Aanpassingswet derde tranche Awb I](https://wetten.overheid.nl/jci1.3:c:BWBR0008994) berust het Besluit Staatstoezicht Volksgezondheid op [artikel 36, eerste lid, van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002202&hoofdstuk=IV&artikel=36&z=1998-01-01&g=1998-01-01).
+1. Na de inwerkingtreding van de [Aanpassingswet derde tranche Awb I](https://wetten.overheid.nl/jci1.3:c:BWBR0008994) berust het Besluit Staatstoezicht Volksgezondheid op [artikel 36, eerste lid, van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002202&hoofdstuk=IV&artikel=36&z=2006-03-08&g=2006-03-08).
 
 2. Ten aanzien van de in [artikel 145 van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=145) genoemde wetten is deze wet van toepassing zoals deze luidde voor de inwerkingtreding van de [Aanpassingswet derde tranche Awb I](https://wetten.overheid.nl/jci1.3:c:BWBR0008994).
 
