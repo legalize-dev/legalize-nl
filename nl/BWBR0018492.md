@@ -4,7 +4,7 @@ identifier: "BWBR0018492"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2006-01-01"
+last_updated: "2006-03-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018492"
 soort: "AMvB"
@@ -68,7 +68,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - h. **gemiddelde no-claimteruggave:** het geraamde bedrag dat verzekerden gemiddeld op grond van [artikel 22, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=22) na afloop van het kalenderjaar zullen ontvangen;
 
-- i. **macro-prestatiebedrag:** de beschikbare middelen, met uitzondering van de middelen, bedoeld in de [artikelen 3.15](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.5&artikel=3.15&z=2006-01-01&g=2006-01-01) en [3.16](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.5&artikel=3.16&z=2006-01-01&g=2006-01-01), vermeerderd met de voor zorgverzekeraars geraamde opbrengsten van de nominale rekenpremie en verminderd met de gemiddelde no-claimteruggave voor alle verzekerden tezamen;
+- i. **macro-prestatiebedrag:** de beschikbare middelen, met uitzondering van de middelen, bedoeld in de [artikelen 3.15](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.5&artikel=3.15&z=2006-03-08&g=2006-03-08) en [3.16](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.5&artikel=3.16&z=2006-03-08&g=2006-03-08), vermeerderd met de voor zorgverzekeraars geraamde opbrengsten van de nominale rekenpremie en verminderd met de gemiddelde no-claimteruggave voor alle verzekerden tezamen;
 
 - j. **bijdrage:** de bijdrage, bedoeld in [artikel 32, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=32);
 
@@ -98,15 +98,15 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 2.1
 
-1. De zorg en overige diensten, bedoeld in [artikel 11, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=11) omvatten de vormen van zorg of diensten die naar inhoud en omvang zijn omschreven in de [artikelen 2.4 tot en met 2.15](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=2&paragraaf=1&artikel=2.4&z=2006-01-01&g=2006-01-01).
+1. De zorg en overige diensten, bedoeld in [artikel 11, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=11) omvatten de vormen van zorg of diensten die naar inhoud en omvang zijn omschreven in de [artikelen 2.4 tot en met 2.15](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=2&paragraaf=1&artikel=2.4&z=2006-03-08&g=2006-03-08).
 
 2. De inhoud en omvang van de vormen van zorg of diensten worden mede bepaald door de stand van de wetenschap en praktijk en, bij ontbreken van een zodanige maatstaf, door hetgeen in het betrokken vakgebied geldt als verantwoorde en adequate zorg en diensten.
 
-3. Onverminderd hetgeen is bepaald in de [artikelen 2.4 tot en met 2.15](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=2&paragraaf=1&artikel=2.4&z=2006-01-01&g=2006-01-01), heeft de verzekerde op een vorm van zorg of een dienst slechts recht voor zover hij daarop naar inhoud en omvang redelijkerwijs is aangewezen.
+3. Onverminderd hetgeen is bepaald in de [artikelen 2.4 tot en met 2.15](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=2&paragraaf=1&artikel=2.4&z=2006-03-08&g=2006-03-08), heeft de verzekerde op een vorm van zorg of een dienst slechts recht voor zover hij daarop naar inhoud en omvang redelijkerwijs is aangewezen.
 
 ##### Artikel 2.2
 
-1. De vergoeding van kosten, bedoeld in [artikel 11, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=11) omvat de kosten die de verzekerde heeft gemaakt voor zorg of overige diensten zoals die naar inhoud en omvang zijn omschreven in de [artikelen 2.4 tot en met 2.15](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=2&paragraaf=1&artikel=2.4&z=2006-01-01&g=2006-01-01).
+1. De vergoeding van kosten, bedoeld in [artikel 11, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=11) omvat de kosten die de verzekerde heeft gemaakt voor zorg of overige diensten zoals die naar inhoud en omvang zijn omschreven in de [artikelen 2.4 tot en met 2.15](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=2&paragraaf=1&artikel=2.4&z=2006-03-08&g=2006-03-08).
 
 2. Bij het bepalen van de vergoeding worden in mindering gebracht:
 
@@ -116,11 +116,15 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 2.3
 
-Indien Onze Minister van Financiën van de in [artikel 18b, eerste lid, van de Noodwet financieel verkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0003173&artikel=18b) geregelde bevoegdheid gebruik heeft gemaakt, en de behoefte aan zorg of overige diensten ontstaan is naar aanleiding van een of meer in die bepaling bedoelde terroristische handelingen, heeft de verzekerde slechts recht op een of meer prestaties voor zover de kosten daarvan niet hoger zijn dan door Onze Minister van Financiën is bepaald.
+1. Indien de behoefte aan zorg of een andere dienst het gevolg is van een of meer terroristische handelingen en de totale schade die in een kalenderjaar ten gevolge van dergelijke handelingen bij schade-, levens- of natura-uitvaartverzekeraars waarop de [Wet toezicht verzekeringsbedrijf 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006509) of de [Wet toezicht natura-uitvaartverzekeringsbedrijf](https://wetten.overheid.nl/jci1.3:c:BWBR0007477) van toepassing is, zal worden gedeclareerd, naar verwachting van de Nederlandse Herverzekeringsmaatschappij voor Terrorismeschaden N.V. hoger zal zijn dan het door die maatschappij herverzekerde maximumbedrag per kalenderjaar, heeft de verzekerde slechts recht op prestaties tot een door die maatschappij te bepalen, voor alle verzekeringen gelijk percentage van de kosten of waarde van de zorg of overige diensten.
+
+2. Het eerste lid geldt slechts indien de zorgverzekeraar waarbij de verzekerde zijn zorgverzekering heeft, zijn verplichtingen die in geval van terroristische handelingen uit de zorgverzekering voortvloeien, heeft herverzekerd bij de Nederlandse Herverzekeringsmaatschappij voor Terrorismeschaden N.V.
+
+3. Indien na een terroristische handeling op grond van [artikel 33 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=33) of [artikel 3.16](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.5&artikel=3.16&z=2006-03-08&g=2006-03-08) van dit besluit een aanvullende bijdrage ter beschikking wordt gesteld, heeft de verzekerde in aanvulling op de prestaties, bedoeld in het eerste lid, recht op prestaties van een bij de regeling, bedoeld in [artikel 33 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=33) of [artikel 3.16](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.5&artikel=3.16&z=2006-03-08&g=2006-03-08) van dit besluit, te bepalen omvang.
 
 ##### Artikel 2.4
 
-1. Geneeskundige zorg omvat zorg zoals huisartsen, medisch-specialisten, klinisch-psychologen en verloskundigen die plegen te bieden, met uitzondering van de zorg zoals tandarts-specialisten die plegen te bieden, alsmede paramedische zorg als bedoeld in [artikel 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=2&paragraaf=1&artikel=2.6&z=2006-01-01&g=2006-01-01), met dien verstande dat:
+1. Geneeskundige zorg omvat zorg zoals huisartsen, medisch-specialisten, klinisch-psychologen en verloskundigen die plegen te bieden, met uitzondering van de zorg zoals tandarts-specialisten die plegen te bieden, alsmede paramedische zorg als bedoeld in [artikel 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=2&paragraaf=1&artikel=2.6&z=2006-03-08&g=2006-03-08), met dien verstande dat:
 
 - a. de zorg niet omvat:
 
@@ -174,7 +178,7 @@ Indien Onze Minister van Financiën van de in [artikel 18b, eerste lid, van de N
 
 ##### Artikel 2.5
 
-De geneeskundige zorg, bedoeld in [artikel 2.4, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=2&paragraaf=1&artikel=2.4&z=2006-01-01&g=2006-01-01), omvat tevens vergoeding van de kosten van:
+De geneeskundige zorg, bedoeld in [artikel 2.4, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=2&paragraaf=1&artikel=2.4&z=2006-03-08&g=2006-03-08), omvat tevens vergoeding van de kosten van:
 
 - a. specialistisch geneeskundige zorg in verband met de selectie van de donor;
 
@@ -192,7 +196,7 @@ De geneeskundige zorg, bedoeld in [artikel 2.4, eerste lid, onderdeel c](https:/
 
 1. Paramedische zorg omvat fysiotherapie, oefentherapie, logopedie, ergotherapie en dieetadvisering.
 
-2. Fysiotherapie of oefentherapie omvat zorg zoals fysiotherapeuten en oefentherapeuten die plegen te bieden ter behandeling van de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&bijlage=1&z=2006-01-01&g=2006-01-01) aangegeven aandoeningen, voor zover de daarbij aangegeven termijn niet is overschreden. Deze zorg omvat voor de verzekerden van achttien jaar en ouder niet de eerste negen behandelingen.
+2. Fysiotherapie of oefentherapie omvat zorg zoals fysiotherapeuten en oefentherapeuten die plegen te bieden ter behandeling van de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&bijlage=1&z=2006-03-08&g=2006-03-08) aangegeven aandoeningen, voor zover de daarbij aangegeven termijn niet is overschreden. Deze zorg omvat voor de verzekerden van achttien jaar en ouder niet de eerste negen behandelingen.
 
 3. Voor verzekerden jonger dan achttien jaar bestaat fysiotherapie en oefentherapie in andere gevallen dan het tweede lid tevens uit ten hoogste negen behandelingen van dezelfde aandoening per jaar, bij ontoereikend resultaat te verlengen met ten hoogste negen behandelingen.
 
@@ -302,7 +306,7 @@ In die ministeriële regeling wordt tevens de aanvraagprocedure voor de aanwijzi
 
 ##### Artikel 2.10
 
-1. Verblijf omvat verblijf gedurende een ononderbroken periode van ten hoogste 365 dagen, dat medisch noodzakelijk is in verband met de geneeskundige zorg, bedoeld in [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=2&paragraaf=1&artikel=2.4&z=2006-01-01&g=2006-01-01), al dan niet gepaard gaande met verpleging, verzorging of paramedische zorg.
+1. Verblijf omvat verblijf gedurende een ononderbroken periode van ten hoogste 365 dagen, dat medisch noodzakelijk is in verband met de geneeskundige zorg, bedoeld in [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=2&paragraaf=1&artikel=2.4&z=2006-03-08&g=2006-03-08), al dan niet gepaard gaande met verpleging, verzorging of paramedische zorg.
 
 2. Een onderbreking van ten hoogste dertig dagen wordt niet als onderbreking beschouwd, maar deze dagen tellen niet mee voor de berekening van de 365 dagen.
 
@@ -310,11 +314,11 @@ In die ministeriële regeling wordt tevens de aanvraagprocedure voor de aanwijzi
 
 ##### Artikel 2.11
 
-Naast de in [artikel 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=2&paragraaf=1&artikel=2.10&z=2006-01-01&g=2006-01-01) bedoelde verpleging, omvat verpleging tevens zorg zoals verpleegkundigen die plegen te bieden, zonder dat die zorg gepaard gaat met verblijf, en die noodzakelijk is in verband met medisch-specialistische zorg.
+Naast de in [artikel 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=2&paragraaf=1&artikel=2.10&z=2006-03-08&g=2006-03-08) bedoelde verpleging, omvat verpleging tevens zorg zoals verpleegkundigen die plegen te bieden, zonder dat die zorg gepaard gaat met verblijf, en die noodzakelijk is in verband met medisch-specialistische zorg.
 
 ##### Artikel 2.12
 
-1. Naast de in [artikel 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=2&paragraaf=1&artikel=2.10&z=2006-01-01&g=2006-01-01) bedoelde verzorging, omdat verzorging tevens zorg zoals kraamverzorgenden die plegen te bieden aan moeder en kind in verband met een bevalling, gedurende ten hoogste tien dagen, te rekenen vanaf de dag van bevalling.
+1. Naast de in [artikel 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=2&paragraaf=1&artikel=2.10&z=2006-03-08&g=2006-03-08) bedoelde verzorging, omdat verzorging tevens zorg zoals kraamverzorgenden die plegen te bieden aan moeder en kind in verband met een bevalling, gedurende ten hoogste tien dagen, te rekenen vanaf de dag van bevalling.
 
 2. Bij ministeriële regeling kan worden bepaald dat de verzekerde een eigen bijdrage betaalt voor de zorg, bedoeld in het eerste lid.
 
@@ -338,7 +342,7 @@ Naast de in [artikel 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofd
 
 ##### Artikel 2.14
 
-1. Het vervoer omvat tevens ziekenvervoer per auto, anders dan per ambulance als bedoeld in [artikel 1, eerste lid, van de Wet ambulancevervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0002757&artikel=1), dan wel uit vervoer in de laagste klasse van een openbaar middel van vervoer van en naar een persoon, instelling of woning als bedoeld in [artikel 2.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=2&paragraaf=1&artikel=2.13&z=2006-01-01&g=2006-01-01), over een enkele reisafstand van maximaal 200 kilometer voor zover:
+1. Het vervoer omvat tevens ziekenvervoer per auto, anders dan per ambulance als bedoeld in [artikel 1, eerste lid, van de Wet ambulancevervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0002757&artikel=1), dan wel uit vervoer in de laagste klasse van een openbaar middel van vervoer van en naar een persoon, instelling of woning als bedoeld in [artikel 2.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=2&paragraaf=1&artikel=2.13&z=2006-03-08&g=2006-03-08), over een enkele reisafstand van maximaal 200 kilometer voor zover:
 
 - a. de verzekerde nierdialyses moet ondergaan;
 
@@ -416,13 +420,15 @@ Bij ministeriële regeling kan worden bepaald dat de verzekerde voor ziekenvervo
 
 - d. het macro-deelbedrag kosten van overige prestaties, dat betreft overige prestaties die voor vergoeding op grond van de wet in aanmerking komen.
 
-2. Bij de ministeriële regeling ingevolge [artikel 32, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=32) wordt voor 1 oktober van ieder jaar de hoogte van het macro-prestatiebedrag en van de macro-deelbedragen bepaald.
+2. Tot het macro-prestatiebedrag of de macro-deelbedragen behoren niet de kosten van zorg of andere verzekerde diensten die noodzakelijk zijn geworden ten gevolge van een terroristische handeling.
+
+3. Bij de ministeriële regeling ingevolge [artikel 32, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=32) wordt voor 1 oktober van ieder jaar de hoogte van het macro-prestatiebedrag en van de macro-deelbedragen bepaald.
 
 #### § 1.2. De verdeling van de macro-deelbedragen en de berekening van het normatieve bedrag ten behoeve van, en de bijdrage aan, een zorgverzekeraar
 
 ##### Artikel 3.2
 
-Het College zorgverzekeringen verdeelt de in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.1&artikel=3.1&z=2006-01-01&g=2006-01-01) genoemde macro-deelbedragen elk volgens de [artikelen 3.3 tot en met 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.2&artikel=3.3&z=2006-01-01&g=2006-01-01) in deelbedragen voor iedere zorgverzekeraar.
+Het College zorgverzekeringen verdeelt de in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.1&artikel=3.1&z=2006-03-08&g=2006-03-08) genoemde macro-deelbedragen elk volgens de [artikelen 3.3 tot en met 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.2&artikel=3.3&z=2006-03-08&g=2006-03-08) in deelbedragen voor iedere zorgverzekeraar.
 
 ##### Artikel 3.3
 
@@ -452,7 +458,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 3.7
 
-1. Het College zorgverzekeringen sommeert de ingevolge [artikelen 3.2 tot en met 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.2&artikel=3.2&z=2006-01-01&g=2006-01-01) aan een zorgverzekeraar toegerekende deelbedragen tot één normatief bedrag.
+1. Het College zorgverzekeringen sommeert de ingevolge [artikelen 3.2 tot en met 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.2&artikel=3.2&z=2006-03-08&g=2006-03-08) aan een zorgverzekeraar toegerekende deelbedragen tot één normatief bedrag.
 
 2. Het College zorgverzekeringen brengt vervolgens op het berekende normatieve bedrag de door hem voor de zorgverzekeraar geraamde opbrengst van de nominale rekenpremie gecorrigeerd voor de geraamde gemiddelde no-claimteruggave in mindering.
 
@@ -464,9 +470,9 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 3.8
 
-1. Ter herberekening van de bijdrage, bedoeld in [artikel 34, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=34), vindt een herberekening plaats van de gewichten, genoemd in de [artikelen 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.2&artikel=3.3&z=2006-01-01&g=2006-01-01) en [3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.2&artikel=3.6&z=2006-01-01&g=2006-01-01), rekening houdend met de verwachte financiële gevolgen van de toepassing van een specifieke compensatie van hoge kosten voor groepen van verzekerden naar leeftijd en geslacht, FKG’s, DKG’s, aard van het inkomen en regio.
+1. Ter herberekening van de bijdrage, bedoeld in [artikel 34, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=34), vindt een herberekening plaats van de gewichten, genoemd in de [artikelen 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.2&artikel=3.3&z=2006-03-08&g=2006-03-08) en [3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.2&artikel=3.6&z=2006-03-08&g=2006-03-08), rekening houdend met de verwachte financiële gevolgen van de toepassing van een specifieke compensatie van hoge kosten voor groepen van verzekerden naar leeftijd en geslacht, FKG’s, DKG’s, aard van het inkomen en regio.
 
-2. Ter herberekening van de bijdrage, bedoeld in [artikel 34, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=34) vindt een herberekening plaats van de gewichten, genoemd in [artikel 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.2&artikel=3.5&z=2006-01-01&g=2006-01-01), rekening houdend met de verwachte financiële gevolgen van de toepassing van een specifieke compensatie van hoge kosten voor groepen van verzekerden naar leeftijd en geslacht, en regio.
+2. Ter herberekening van de bijdrage, bedoeld in [artikel 34, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=34) vindt een herberekening plaats van de gewichten, genoemd in [artikel 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.2&artikel=3.5&z=2006-03-08&g=2006-03-08), rekening houdend met de verwachte financiële gevolgen van de toepassing van een specifieke compensatie van hoge kosten voor groepen van verzekerden naar leeftijd en geslacht, en regio.
 
 3. Ter herberekening van de bijdrage, bedoeld in [artikel 34, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=34), herberekent het College zorgverzekeringen het normatieve bedrag ten behoeve van een zorgverzekeraar. Het College zorgverzekeringen baseert de herberekening van het normatieve bedrag op de ingevolge dit besluit voor de onderscheiden deelbedragen relevante gegevens over het betreffende jaar. Indien zulks naar zijn oordeel is aangewezen, kan het College zorgverzekeringen in afwijking van de tweede volzin bepalen dat voor door hem aan te geven herberekeningen niet wordt uitgegaan van de resultaten in het betreffende jaar maar van de resultaten in een daaraan al dan niet onmiddellijk voorafgaand jaar.
 
@@ -506,7 +512,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 3.13
 
-1. Het College zorgverzekeringen sommeert de ingevolge de [artikelen 3.8 tot en met 3.12](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.3&artikel=3.8&z=2006-01-01&g=2006-01-01) herberekende deelbedragen tot één normatief bedrag.
+1. Het College zorgverzekeringen sommeert de ingevolge de [artikelen 3.8 tot en met 3.12](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.3&artikel=3.8&z=2006-03-08&g=2006-03-08) herberekende deelbedragen tot één normatief bedrag.
 
 2. Het College zorgverzekeringen brengt vervolgens op het herberekende normatieve bedrag de aan de zorgverzekeraar toegerekende opbrengsten van de nominale rekenpremie gecorrigeerd voor de gemiddelde no-claimteruggave in mindering.
 
@@ -516,9 +522,9 @@ Dit onderdeel is nog niet inwerking getreden
 
 5. Het College zorgverzekeringen kan het normatieve bedrag ten behoeve van een zorgverzekeraar voorlopig herberekenen en de bijdrage voorlopig vaststellen. Het vierde lid is van overeenkomstige toepassing.
 
-6. Het College Zorgverzekeringen kan bij de voorlopige herberekeningen en de vaststelling van de bijdragen, bedoeld in het vijfde lid, [artikel 3.8, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.3&artikel=3.8&z=2006-01-01&g=2006-01-01), achterwege laten.
+6. Het College Zorgverzekeringen kan bij de voorlopige herberekeningen en de vaststelling van de bijdragen, bedoeld in het vijfde lid, [artikel 3.8, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.3&artikel=3.8&z=2006-03-08&g=2006-03-08), achterwege laten.
 
-#### § 1.4. Nadere bepaling met betrekking tot [§ 1.2.](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.2&z=2006-01-01&g=2006-01-01) en [§ 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.3&z=2006-01-01&g=2006-01-01)
+#### § 1.4. Nadere bepaling met betrekking tot [§ 1.2.](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.2&z=2006-03-08&g=2006-03-08) en [§ 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.3&z=2006-03-08&g=2006-03-08)
 
 ##### Artikel 3.14
 
@@ -530,7 +536,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 3.15
 
-1. In aanvulling op de bijdrage, bedoeld in de [artikelen 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.2&artikel=3.7&z=2006-01-01&g=2006-01-01) en [3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.3&artikel=3.13&z=2006-01-01&g=2006-01-01), verstrekt het College zorgverzekeringen een uitkering in verband met uitvoeringskosten van verzekerden jonger dan 18 jaar.
+1. In aanvulling op de bijdrage, bedoeld in de [artikelen 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.2&artikel=3.7&z=2006-03-08&g=2006-03-08) en [3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.3&artikel=3.13&z=2006-03-08&g=2006-03-08), verstrekt het College zorgverzekeringen een uitkering in verband met uitvoeringskosten van verzekerden jonger dan 18 jaar.
 
 2. De uitkering is gelijk aan een vast bedrag maal het aantal verzekerden jonger dan 18 jaar op peilmoment 1 juli van het betreffende jaar.
 
@@ -538,7 +544,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 3.16
 
-1. In aanvulling op de bijdrage bedoeld in de [artikelen 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.2&artikel=3.7&z=2006-01-01&g=2006-01-01) en [3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.3&artikel=3.13&z=2006-01-01&g=2006-01-01), kan het College zorgverzekeringen een uitkering verstrekken in verband met een substantieel of structureel verschil tussen kosten en deelbedrag per verzekeraar dat rechtstreeks verband houdt met hogere kosten van verzekerden als gevolg van een zeer uitzonderlijke omstandigheid.
+1. In aanvulling op de bijdrage bedoeld in de [artikelen 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.2&artikel=3.7&z=2006-03-08&g=2006-03-08) en [3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.3&artikel=3.13&z=2006-03-08&g=2006-03-08), kan het College zorgverzekeringen een uitkering verstrekken in verband met een substantieel of structureel verschil tussen kosten en deelbedrag per verzekeraar dat rechtstreeks verband houdt met hogere kosten van verzekerden als gevolg van een zeer uitzonderlijke omstandigheid.
 
 2. Ingevolge het eerste lid worden geen uitkeringen verstrekt dan nadat bij ministeriële regeling is vastgesteld dat sprake is van een nationale ramp die niet opgevangen kan worden binnen de reguliere wijze van vaststelling van de bijdrage aan zorgverzekeraars.
 
@@ -546,7 +552,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 3.17
 
-Bij ministeriële regeling kan worden bepaald dat de bijdrage, bedoeld in de [artikelen 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.2&artikel=3.7&z=2006-01-01&g=2006-01-01) en [3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.3&artikel=3.13&z=2006-01-01&g=2006-01-01), wordt verhoogd met de specifiek voor de verzekeraar geraamde no-claimteruggave en dat het College zorgverzekeringen bij het in mindering brengen van de geraamde opbrengst van de nominale rekenpremie op het berekende normatieve bedrag niet corrigeert voor de geraamde gemiddelde no-claimteruggave.
+Bij ministeriële regeling kan worden bepaald dat de bijdrage, bedoeld in de [artikelen 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.2&artikel=3.7&z=2006-03-08&g=2006-03-08) en [3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.3&artikel=3.13&z=2006-03-08&g=2006-03-08), wordt verhoogd met de specifiek voor de verzekeraar geraamde no-claimteruggave en dat het College zorgverzekeringen bij het in mindering brengen van de geraamde opbrengst van de nominale rekenpremie op het berekende normatieve bedrag niet corrigeert voor de geraamde gemiddelde no-claimteruggave.
 
 ### Hoofdstuk 4. Slotbepalingen
 
@@ -560,9 +566,9 @@ De rijksbelastingdienst verstrekt aan de zorgverzekeraar op een verzoek als bedo
 
 ##### Artikel 4.3
 
-1. Dit besluit treedt in werking op 1 januari 2006, met uitzondering van [artikel 2.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=2&paragraaf=1&artikel=2.4&z=2006-01-01&g=2006-01-01), voor zover het betreft zorg zoals psychiaters, zenuwartsen en klinisch-psychologen die plegen te bieden, de eerstelijnspsychologische zorg voor zover die niet wordt verleend door een huisarts, de [onderdelen d, e en f van dat lid, het derde lid van dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=2&paragraaf=1&artikel=2.4&z=2006-01-01&g=2006-01-01), [artikel 3.1, eerste lid, subonderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.1&artikel=3.1&z=2006-01-01&g=2006-01-01), [artikel 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.2&artikel=3.5&z=2006-01-01&g=2006-01-01) en [artikel 3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.3&artikel=3.11&z=2006-01-01&g=2006-01-01).
+1. Dit besluit treedt in werking op 1 januari 2006, met uitzondering van [artikel 2.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=2&paragraaf=1&artikel=2.4&z=2006-03-08&g=2006-03-08), voor zover het betreft zorg zoals psychiaters, zenuwartsen en klinisch-psychologen die plegen te bieden, de eerstelijnspsychologische zorg voor zover die niet wordt verleend door een huisarts, de [onderdelen d, e en f van dat lid, het derde lid van dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=2&paragraaf=1&artikel=2.4&z=2006-03-08&g=2006-03-08), [artikel 3.1, eerste lid, subonderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.1&artikel=3.1&z=2006-03-08&g=2006-03-08), [artikel 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.2&artikel=3.5&z=2006-03-08&g=2006-03-08) en [artikel 3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.3&artikel=3.11&z=2006-03-08&g=2006-03-08).
 
-2. [Artikel 2.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=2&paragraaf=1&artikel=2.4&z=2006-01-01&g=2006-01-01), voor zover het betreft zorg zoals psychiaters, zenuwartsen en klinisch-psychologen die plegen te bieden, de eerstelijnspsychologische zorg voor zover die niet wordt verleend door een huisarts, de [onderdelen d, e en f van dat lid, het derde lid van dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=2&paragraaf=1&artikel=2.4&z=2006-01-01&g=2006-01-01), [artikel 3.1, eerste lid, subonderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.1&artikel=3.1&z=2006-01-01&g=2006-01-01), [artikel 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.2&artikel=3.5&z=2006-01-01&g=2006-01-01) en [artikel 3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.3&artikel=3.11&z=2006-01-01&g=2006-01-01) treden in werking met ingang van 1 januari 2007.
+2. [Artikel 2.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=2&paragraaf=1&artikel=2.4&z=2006-03-08&g=2006-03-08), voor zover het betreft zorg zoals psychiaters, zenuwartsen en klinisch-psychologen die plegen te bieden, de eerstelijnspsychologische zorg voor zover die niet wordt verleend door een huisarts, de [onderdelen d, e en f van dat lid, het derde lid van dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=2&paragraaf=1&artikel=2.4&z=2006-03-08&g=2006-03-08), [artikel 3.1, eerste lid, subonderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.1&artikel=3.1&z=2006-03-08&g=2006-03-08), [artikel 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.2&artikel=3.5&z=2006-03-08&g=2006-03-08) en [artikel 3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.3&artikel=3.11&z=2006-03-08&g=2006-03-08) treden in werking met ingang van 1 januari 2007.
 
 ##### Artikel 4.4
 
@@ -570,9 +576,9 @@ Dit besluit wordt aangehaald als: Besluit zorgverzekering.
 
 ## Bijlage 1. van het Besluit zorgverzekering
 
-Bijlage behorende bij [artikel 2.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=2&paragraaf=1&artikel=2.6&z=2006-01-01&g=2006-01-01).
+Bijlage behorende bij [artikel 2.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=2&paragraaf=1&artikel=2.6&z=2006-03-08&g=2006-03-08).
 
-- 1. De aandoeningen, bedoeld in [artikel 2.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=2&paragraaf=1&artikel=2.6&z=2006-01-01&g=2006-01-01), betreffen:
+- 1. De aandoeningen, bedoeld in [artikel 2.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=2&paragraaf=1&artikel=2.6&z=2006-03-08&g=2006-03-08), betreffen:
 
 - a. een van de volgende aandoeningen van het zenuwstelsel:
 
@@ -684,7 +690,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 3.18
 
-1. In aanvulling op de bijdrage, bedoeld in [artikel 3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.3&artikel=3.13&z=2007-09-21&g=2006-01-01), verstrekt het College zorgverzekeringen een bijdrage voor het onder de dekking van de zorgverzekering houden van verzekerden ten aanzien van wie niet aan de premieplicht, bedoeld in [artikel 16 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=16), is voldaan.
+1. In aanvulling op de bijdrage, bedoeld in [artikel 3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.3&artikel=3.13&z=2007-09-21&g=2006-03-08), verstrekt het College zorgverzekeringen een bijdrage voor het onder de dekking van de zorgverzekering houden van verzekerden ten aanzien van wie niet aan de premieplicht, bedoeld in [artikel 16 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=16), is voldaan.
 
 2. De bijdrage, bedoeld in het eerste lid, wordt slechts verstrekt indien:
 
@@ -700,9 +706,9 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ## Bijlage 1. van het Besluit zorgverzekering
 
-Bijlage behorende bij [artikel 2.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=2&paragraaf=1&artikel=2.6&z=2007-09-21&g=2006-01-01).
+Bijlage behorende bij [artikel 2.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=2&paragraaf=1&artikel=2.6&z=2007-09-21&g=2006-03-08).
 
-- 1. De aandoeningen, bedoeld in [artikel 2.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=2&paragraaf=1&artikel=2.6&z=2007-09-21&g=2006-01-01), betreffen:
+- 1. De aandoeningen, bedoeld in [artikel 2.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=2&paragraaf=1&artikel=2.6&z=2007-09-21&g=2006-03-08), betreffen:
 
 - a. een van de volgende aandoeningen van het zenuwstelsel:
 
