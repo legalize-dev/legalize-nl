@@ -4,7 +4,7 @@ identifier: "BWBR0007748"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-01-01"
-last_updated: "2005-07-01"
+last_updated: "2006-03-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007748"
 soort: "AMvB"
@@ -88,9 +88,9 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - e. indien het archiefbescheiden van een gemeente of waterschap betreft, tevens de provinciaal inspecteur en, indien benoemd, de gemeentearchivaris onderscheidenlijk waterschapsarchivaris.
 
-2. Indien twee of meer provincies gezamenlijk een selectielijst ontwerpen, kan in afwijking van het eerste lid, onderdeel **d**, volstaan worden met de betrokkenheid van een provinciaal inspecteur.
+2. Indien gedeputeerde staten van twee of meer provincies gezamenlijk een selectielijst ontwerpen, kan in afwijking van het eerste lid, onderdeel **d**, volstaan worden met de betrokkenheid van een provinciaal inspecteur.
 
-3. Indien twee of meer gemeenten of waterschappen gezamenlijk een selectielijst ontwerpen, kan in afwijking van het eerste lid, onderdeel **e**, volstaan worden met de betrokkenheid van een provinciaal inspecteur en een gemeentearchivaris, onderscheidenlijk waterschapsarchivaris.
+3. Indien de colleges van burgemeester en wethouders van twee of meer gemeenten of de besturen van twee of meer waterschappen gezamenlijk een selectielijst ontwerpen, kan in afwijking van het eerste lid, onderdeel **e**, volstaan worden met de betrokkenheid van een provinciaal inspecteur en een gemeentearchivaris, onderscheidenlijk waterschapsarchivaris.
 
 ##### Artikel 4
 
@@ -112,11 +112,11 @@ Een selectielijst bestaat ten minste uit:
 
 - d. een toelichting die in ieder geval bevat:
 
-- 1°. een verantwoording van de wijze waarop toepassing is gegeven aan [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&hoofdstuk=II&artikel=2&z=2005-07-01&g=2005-07-01),
+- 1°. een verantwoording van de wijze waarop toepassing is gegeven aan [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&hoofdstuk=II&artikel=2&z=2006-03-08&g=2006-03-08),
 
-- 2°. een verslag van de wijze waarop derden en met name de deskundigen, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&hoofdstuk=II&artikel=3&z=2005-07-01&g=2005-07-01), bij het ontwerpen van de selectielijst betrokken zijn en van de inhoud van het met hen gevoerde overleg, en
+- 2°. een verslag van de wijze waarop derden en met name de deskundigen, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&hoofdstuk=II&artikel=3&z=2006-03-08&g=2006-03-08), bij het ontwerpen van de selectielijst betrokken zijn en van de inhoud van het met hen gevoerde overleg, en
 
-- 3°. een verslag van de procedure, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&hoofdstuk=II&artikel=4&z=2005-07-01&g=2005-07-01);
+- 3°. een verslag van de procedure, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&hoofdstuk=II&artikel=4&z=2006-03-08&g=2006-03-08);
 
 - e. een opsomming van de criteria aan de hand waarvan de zorgdrager archiefbescheiden die ingevolge de selectielijst voor vernietiging in aanmerking komen, van vernietiging kan uitzonderen.
 
@@ -124,13 +124,13 @@ Een selectielijst bestaat ten minste uit:
 
 1. De zorgdrager besluit tot vervanging van archiefbescheiden door reprodukties slechts indien de vervanging geschiedt met juiste en volledige weergave van de in de te vervangen archiefbescheiden voorkomende gegevens.
 
-2. De zorgdrager maakt zowel bij een aanvraag om een machtiging als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=7) van de wet, als bij de bekendmaking van een besluit als bedoeld in het eerste lid melding van de wijze waarop toepassing is gegeven aan [artikel 2, eerste lid, onderdelen **c** en **d**](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&hoofdstuk=II&artikel=2&z=2005-07-01&g=2005-07-01).
+2. De zorgdrager maakt zowel bij een aanvraag om een machtiging als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=7) van de wet, als bij de bekendmaking van een besluit als bedoeld in het eerste lid melding van de wijze waarop toepassing is gegeven aan [artikel 2, eerste lid, onderdelen **c** en **d**](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&hoofdstuk=II&artikel=2&z=2006-03-08&g=2006-03-08).
 
 ##### Artikel 7
 
-1. De zorgdrager betrekt bij de voorbereiding van een besluit tot vervreemding van archiefbescheiden deskundigen als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&hoofdstuk=II&artikel=3&z=2005-07-01&g=2005-07-01), indien die archiefbescheiden tengevolge van de vervreemding niet komen te berusten in een archiefbewaarplaats.
+1. De zorgdrager betrekt bij de voorbereiding van een besluit tot vervreemding van archiefbescheiden deskundigen als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&hoofdstuk=II&artikel=3&z=2006-03-08&g=2006-03-08), indien die archiefbescheiden tengevolge van de vervreemding niet komen te berusten in een archiefbewaarplaats.
 
-2. De zorgdrager maakt zowel bij een aanvraag om een machtiging als bedoeld in [artikel 8, eerste of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=8), van de wet, als bij de bekendmaking van een besluit als bedoeld in het eerste lid melding van de wijze waarop de deskundigen, bedoeld in het eerste lid, bij de voorbereiding betrokken zijn en van de inhoud van het met hen gevoerde overleg, alsmede van de wijze waarop toepassing is gegeven aan [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&hoofdstuk=II&artikel=2&z=2005-07-01&g=2005-07-01).
+2. De zorgdrager maakt zowel bij een aanvraag om een machtiging als bedoeld in [artikel 8, eerste of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=8), van de wet, als bij de bekendmaking van een besluit als bedoeld in het eerste lid melding van de wijze waarop de deskundigen, bedoeld in het eerste lid, bij de voorbereiding betrokken zijn en van de inhoud van het met hen gevoerde overleg, alsmede van de wijze waarop toepassing is gegeven aan [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&hoofdstuk=II&artikel=2&z=2006-03-08&g=2006-03-08).
 
 ##### Artikel 8
 
@@ -148,7 +148,7 @@ De zorgdrager maakt van de vernietiging, vervanging of vervreemding een verklari
 
 ##### Artikel 10
 
-Indien de zorgdrager ingevolge [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15), van de wet beperkingen aan de openbaarheid van archiefbescheiden stelt, wordt het daartoe strekkende besluit gevoegd bij de verklaring, bedoeld in [artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&hoofdstuk=III&artikel=9&z=2005-07-01&g=2005-07-01).
+Indien de zorgdrager ingevolge [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15), van de wet beperkingen aan de openbaarheid van archiefbescheiden stelt, wordt het daartoe strekkende besluit gevoegd bij de verklaring, bedoeld in [artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&hoofdstuk=III&artikel=9&z=2006-03-08&g=2006-03-08).
 
 ### Hoofdstuk IV. Duurzaamheid, ordening en toegankelijkheid van archiefbescheiden; bouw, verbouwing, inrichting en verandering van inrichting van archiefruimten en archiefbewaarplaatsen; ingebruikneming van gebouwen of gedeelten van gebouwen als archiefruimte of archiefbewaarplaats
 
@@ -204,7 +204,7 @@ Vervallen
 
 ##### Artikel 20
 
-[Artikel 13, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&hoofdstuk=IV&artikel=13&z=2005-07-01&g=2005-07-01), blijft ten aanzien van bij de inwerkingtreding van dit besluit bestaande archiefruimten en archiefbewaarplaatsen vijf jaar buiten toepassing.
+[Artikel 13, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&hoofdstuk=IV&artikel=13&z=2006-03-08&g=2006-03-08), blijft ten aanzien van bij de inwerkingtreding van dit besluit bestaande archiefruimten en archiefbewaarplaatsen vijf jaar buiten toepassing.
 
 ##### Artikel 21
 
@@ -222,6 +222,6 @@ Dit besluit wordt aangehaald als: Archiefbesluit 1995.
 
 1. De [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) treedt in werking met ingang van 1 januari 1996.
 
-2. Dit besluit treedt op hetzelfde tijdstip in werking, met uitzondering van de [artikelen 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&hoofdstuk=IV&artikel=11&z=2005-07-01&g=2005-07-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&hoofdstuk=IV&artikel=12&z=2005-07-01&g=2005-07-01) en [13, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&hoofdstuk=IV&artikel=13&z=2005-07-01&g=2005-07-01), die in werking treden op een nader bij koninklijk besluit te bepalen tijdstip.
+2. Dit besluit treedt op hetzelfde tijdstip in werking, met uitzondering van de [artikelen 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&hoofdstuk=IV&artikel=11&z=2006-03-08&g=2006-03-08), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&hoofdstuk=IV&artikel=12&z=2006-03-08&g=2006-03-08) en [13, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&hoofdstuk=IV&artikel=13&z=2006-03-08&g=2006-03-08), die in werking treden op een nader bij koninklijk besluit te bepalen tijdstip.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
