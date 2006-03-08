@@ -4,7 +4,7 @@ identifier: "BWBR0003449"
 country: "nl"
 rank: "amvb"
 publication_date: "2006-03-08"
-last_updated: "2005-07-01"
+last_updated: "2006-03-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003449"
 soort: "AMvB"
@@ -44,7 +44,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-1. De omschrijving en de aanduiding van het gebied waarvan bij besluit van de gemeenteraad wordt verklaard, dat daarin uitsluitend of nagenoeg uitsluitend onroerend goed is gelegen, dat duurzaam voor andere dan landbouwkundige doeleinden wordt gebruikt dan wel onroerend goed dat niet als natuurterrein dient te worden aangemerkt, geschiedt in dat besluit door de vermelding van alle tot het gebied behorende percelen, met gebruikmaking van hun kadastrale aanduiding, welke bestaat uit achtereenvolgens de naam der kadastrale gemeente, de aanduiding der sectie en het perceelnummer.
+1. De omschrijving en de aanduiding van het gebied waarvan bij besluit van het college van burgemeester en wethouders wordt verklaard, dat daarin uitsluitend of nagenoeg uitsluitend onroerend goed is gelegen, dat duurzaam voor andere dan landbouwkundige doeleinden wordt gebruikt dan wel onroerend goed dat niet als natuurterrein dient te worden aangemerkt, geschiedt in dat besluit door de vermelding van alle tot het gebied behorende percelen, met gebruikmaking van hun kadastrale aanduiding, welke bestaat uit achtereenvolgens de naam der kadastrale gemeente, de aanduiding der sectie en het perceelnummer.
 
 2. Indien alle percelen die binnen één kadastrale sectie zijn gelegen tot het gebied behoren, wordt volstaan met de vermelding van de naam der kadastrale gemeente en de aanduiding der sectie.
 
@@ -52,31 +52,31 @@ Hebben goedgevonden en verstaan:
 
 4. Bij de vermeldingen ingevolge het eerste en het derde lid worden de perceelnummers in hun numerieke volgorde geplaatst.
 
-5. Als kadastrale aanduiding waarvan vermelding geschiedt ingevolge het eerste, tweede en derde lid, wordt aangemerkt die, welke bestaat op een tijdstip dat de gemeenteraad in het besluit aanwijst.
+5. Als kadastrale aanduiding waarvan vermelding geschiedt ingevolge het eerste, tweede en derde lid, wordt aangemerkt die, welke bestaat op een tijdstip dat het college van burgemeester en wethouders in het besluit aanwijst.
 
 ##### Artikel 2
 
-Indien verschillende verspreid liggende gebieden als bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003449&artikel=1&z=2005-07-01&g=2005-07-01), tot eenzelfde gemeente behoren, worden zij te zamen in één besluit van de gemeenteraad opgenomen.
+Indien verschillende verspreid liggende gebieden als bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003449&artikel=1&z=2006-03-08&g=2006-03-08), tot eenzelfde gemeente behoren, worden zij te zamen in één besluit van het college van burgemeester en wethouders opgenomen.
 
 ##### Artikel 3
 
-1. De bij het besluit van de gemeenteraad gevoegde kaart wordt ingericht met inachtneming van de volgende voorschriften:
+1. De bij het besluit van het college van burgemeester en wethouders gevoegde kaart wordt ingericht met inachtneming van de volgende voorschriften:
 
 - a. de kaart wordt vervaardigd op een schaal van 1 op 10.000;
 
-- b. de begrenzing van het in het besluit van de gemeenteraad begrepen gebied wordt met een duidelijke ononderbroken lijn op de kaart aangegeven;
+- b. de begrenzing van het in het besluit van het college van burgemeester en wethouders begrepen gebied wordt met een duidelijke ononderbroken lijn op de kaart aangegeven;
 
 - c. uit de kaart moet de kadastrale sectie-indeling blijken door middel van een onderbroken lijn;
 
-- d. uit de kaart moet de aansluiting van het in het besluit van de gemeenteraad begrepen gebied aan het daaromheen gelegen gebied blijken;
+- d. uit de kaart moet de aansluiting van het in het besluit van het college van burgemeester en wethouders begrepen gebied aan het daaromheen gelegen gebied blijken;
 
 - e. op de kaart wordt een noordpijl alsmede de naam van de gemeente aangegeven.
 
-2. In afwijking van het bepaalde in het eerste lid, onder **a**, mag de kaart worden vervaardigd op een schaal van:
+2. In afwijking van het bepaalde in het eerste lid, onder a, mag de kaart worden vervaardigd op een schaal van:
 
 - a. 1 op 25.000, indien de uitgestrektheid van de gemeente daartoe aanleiding geeft;
 
-- b. 1 op 5.000, indien de bijzondere kadastrale situatie van het gebied als bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003449&artikel=1&z=2005-07-01&g=2005-07-01), dit noodzakelijk maakt.
+- b. 1 op 5.000, indien de bijzondere kadastrale situatie van het gebied als bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003449&artikel=1&z=2006-03-08&g=2006-03-08), dit noodzakelijk maakt.
 
 3. Onze Minister kan met betrekking tot de technische uitvoering van de kaarten nadere voorschriften geven.
 
