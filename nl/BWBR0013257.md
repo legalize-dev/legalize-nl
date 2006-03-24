@@ -4,7 +4,7 @@ identifier: "BWBR0013257"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2015-07-01"
-last_updated: "2004-06-11"
+last_updated: "2006-03-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013257"
 soort: "ministeriele-regeling"
@@ -55,7 +55,7 @@ De vakantie- en eindejaarsuitkering worden eens per jaar uitbetaald, in de maand
 
 4. Het bedrag, bedoeld in het eerste lid, wordt aangepast aan de ontwikkeling van de lonen in de voor het UWV geldende CAO.
 
-5. Indien een lid naar het oordeel van de voorzitter in een kalenderjaar door hem vastgestelde bijzondere doelstellingen heeft bereikt, kan hij op voordracht van de voorzitter uiterlijk in de maand april van het jaar, volgend op dat kalenderjaar, een toelage ontvangen van maximaal 10% van de bezoldiging, bedoeld in het eerste lid.
+5. Indien een lid naar het oordeel van de voorzitter in een kalenderjaar door hem vastgestelde bijzondere doelstellingen heeft bereikt, kan de voorzitter hem uiterlijk in de maand april van het jaar, volgend op dat kalenderjaar, een toelage toekennen van maximaal 10% van de bezoldiging, bedoeld in het eerste lid.
 
 ##### Artikel 3. Kostenvergoedingen
 
@@ -77,7 +77,13 @@ In geval van ongeschiktheid tot het verrichten van zijn arbeid wegens ziekte of 
 
 1. In geval van niet-herbenoeming dan wel tussentijds ontslag, anders dan op eigen verzoek en anders dan ten gevolge van eigen schuld of toedoen, heeft een lid in aanvulling op de reguliere aanspraak op een uitkering krachtens de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) aanspraak op een bovenwettelijke uitkering.
 
-2. De hoogte en duur van deze uitkering worden vastgesteld overeenkomstig de bepalingen van het [Besluit bovenwettelijke uitkering bij werkloosheid voor de sector Rijk](https://wetten.overheid.nl/jci1.3:c:BWBR0008114), met dien verstande dat als berekeningsbasis voor de hoogte van genoemde uitkering geldt het salarisbedrag dat geldt voor leden van de topmanagementgroep, bedoeld in [bijlage A van het Bezoldigingsbesluit burgerlijke rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=A), exclusief bijzondere toeslagen.
+2. De hoogte en duur van deze uitkering worden vastgesteld overeenkomstig de bepalingen van het [Besluit bovenwettelijke uitkering bij werkloosheid voor de sector Rijk](https://wetten.overheid.nl/jci1.3:c:BWBR0008114), met dien verstande dat als diensttijd voor de vaststelling van hoogte en duur van genoemde uitkering tevens geldt:
+
+- a. de tijd dat een lid is benoemd in de Raad van bestuur van het UWV;
+
+- b. de tijd dat een lid direct voorafgaand aan zijn benoeming in de Raad van bestuur op basis van een arbeidsovereenkomst werkzaam is geweest bij het UWV of één van de rechtsvoorgangers van het UWV.
+
+3. Als berekeningsbasis voor de hoogte van de uitkering, bedoeld in het eerste lid, geldt het salarisbedrag dat geldt voor leden van de topmanagementgroep, bedoeld in [bijlage A van het Bezoldigingsbesluit burgerlijke rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=A), exclusief bijzondere toeslagen.
 
 ##### Artikel 7. Functievervulling
 
