@@ -4,7 +4,7 @@ identifier: "BWBR0014652"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-01"
-last_updated: "2003-02-09"
+last_updated: "2006-03-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014652"
 soort: "ministeriele-regeling"
@@ -68,7 +68,7 @@ Een als klassenbureau aan te wijzen organisatie houdt kantoor in een land van he
 
 1. Een aanwijzing als klassenbureau kan met inachtneming van artikel 10 van de richtlijn worden geschorst, indien door een handeling of nalatigheid van de aangewezen organisatie ernstig gevaar voor de veiligheid of het milieu is of kan ontstaan.
 
-2. Een aanwijzing kan voorts worden ingetrokken, indien niet meer wordt voldaan aan [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014652&artikel=3&z=2003-02-09&g=2003-02-09).
+2. Een aanwijzing kan voorts worden ingetrokken, indien niet meer wordt voldaan aan [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014652&artikel=3&z=2006-03-26&g=2006-03-26).
 
 ##### Artikel 6
 
@@ -84,6 +84,24 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 
 ##### Artikel 9
 
-Deze regeling wordt aangehaald als: Regeling klassenbureaus Schepenwet.
+Deze regeling wordt aangehaald als: Regeling erkende organisaties Schepenwet.
+
+Deze regeling zal met de toelichting in de Staatscourant, in de Curaçaosche Courant en in het Afkondigingsblad van Aruba worden geplaatst.
+
+##### Artikel 5a
+
+1. Als erkende beveiligingsorganisatie kunnen worden aangewezen organisaties die voldoen aan de erkenningscriteria, opgenomen in het aanhangsel bij circulaire MSC/Circ.1074 (Interim Guidelines for the Authorization of Recognized Security Organizations) van de Maritieme Veiligheidscommissie van de Internationale Maritieme Organisatie.
+
+2. Een organisatie als bedoeld in het eerste lid houdt kantoor in een land van het Koninkrijk en heeft met Nederland, de Nederlandse Antillen en Aruba een overeenkomst gesloten met betrekking tot de taken die zij in het kader van de aanwijzing uitvoert.
+
+##### Artikel 5b
+
+1. Als keuringsstation voor opblaasbare reddingsvlotten en opblaasbare hulpverleningsboten kunnen worden aangewezen keuringsstations die voldoen aan de erkenningcriteria, opgenomen in Resolutie A.761(18) (Recommendation on conditions for the approval of servicing stations for inflatable liferafts) van de Algemene Vergadering van de Internationale Maritieme Organisatie.
+
+2. In afwijking van het eerste lid voldoen keuringsstations, die kunnen worden aangewezen door de bevoegde autoriteiten buiten het Koninkrijk aan de ter plaatse gestelde erkenningcriteria.
+
+3. De keuring van opblaasbare reddingsvlotten en opblaasbare hulpverleningsboten geschiedt met inachtneming van de dienaangaande in de resolutie genoemd in het eerste lid, opgenomen voorschriften.
+
+4. De aanwijzing van een keuringsstation heeft een geldigheidsduur van ten hoogste vijf jaar.
 
 Deze regeling zal met de toelichting in de Staatscourant, in de Curaçaosche Courant en in het Afkondigingsblad van Aruba worden geplaatst.
