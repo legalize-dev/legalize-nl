@@ -4,7 +4,7 @@ identifier: "BWBR0011400"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2005-09-07"
+last_updated: "2006-03-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011400"
 soort: "AMvB"
@@ -52,9 +52,9 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder:
 
-**cursist**: degene die een opleiding volgt als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=15&z=2005-09-07&g=2005-09-07),
+**cursist**: degene die een opleiding volgt als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=15&z=2006-03-29&g=2006-03-29),
 
-**cursusgeld:**krachtens [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=15&z=2005-09-07&g=2005-09-07) vastgesteld bedrag,
+**cursusgeld:**krachtens [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=15&z=2006-03-29&g=2006-03-29) vastgesteld bedrag,
 
 **cursusgeldperiode**: periode die gelijk is aan de duur van de opleiding met een maximum van een cursusjaar,
 
@@ -74,7 +74,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 2. Procedure inschrijving bij een dagschool
 
-1. Een aanvraag tot inschrijving van een leerling bij een dagschool kan uitsluitend worden gedaan door inlevering bij de dagschool van een onderwijskaart. Deze kaart wordt ingevuld en ondertekend door de leerling of indien deze minderjarig is, door de wettelijke vertegenwoordiger. Door ondertekening van de kaart verklaart de aanvrager dat hij bekend is met de wettelijke verplichting tot het betalen van lesgeld.
+1. Een aanvraag tot inschrijving van een leerling bij een dagschool kan uitsluitend worden gedaan door inlevering bij de dagschool van een onderwijskaart. Deze kaart wordt ingevuld en ondertekend door de leerling. Door ondertekening van de kaart verklaart de aanvrager dat hij bekend is met de wettelijke verplichting tot het betalen van lesgeld.
 
 2. De lesgeldplicht gaat in op de eerste dag van het desbetreffende schooljaar of, indien de leerling in de loop van het schooljaar wordt ingeschreven, op de datum van inschrijving.
 
@@ -82,23 +82,21 @@ In dit besluit wordt verstaan onder:
 
 4. De onderwijskaart wordt door de IB-Groep verstrekt. De vragen die de onderwijskaart bevat, worden bij ministeriële regeling bepaald. In ieder geval bevat de kaart:
 
-- a. de naam en het adres van de leerling en, indien deze minderjarig is, van de wettelijke vertegenwoordiger, en
+- a. de naam en het adres van de leerling, en
 
 - b. het nummer waaronder de leerling bij de IB-Groep is geregistreerd.
 
 ##### Artikel 3. Beëindiging inschrijving
 
-1. Het bevoegd gezag beëindigt de inschrijving van de leerling op aanvraag van de lesgeldplichtige of zodra de leerling de opleiding met goed gevolg heeft afgesloten. Het bevoegd gezag verstrekt een bewijs van uitschrijving aan de lesgeldplichtige.
+1. Het bevoegd gezag beëindigt de inschrijving van de leerling op zijn aanvraag of zodra de leerling de opleiding met goed gevolg heeft afgesloten. Het bevoegd gezag verstrekt een bewijs van uitschrijving aan de leerling.
 
 2. Het bewijs van uitschrijving bevat bij ministeriële regeling te bepalen gegevens. In ieder geval bevat het bewijs van uitschrijving:
 
-- a. de naam van de lesgeldplichtige,
+- a. de naam van de leerling,
 
-- b. de naam van de leerling,
+- b. het nummer waaronder de leerling bij de IB-Groep is geregistreerd, en
 
-- c. het nummer waaronder de leerling bij de IB-Groep is geregistreerd, en
-
-- d. de datum waarop de inschrijving is beëindigd.
+- c. de datum waarop de inschrijving is beëindigd.
 
 ##### Artikel 4. Voldoening lesgeld
 
@@ -158,7 +156,7 @@ Voor een leerling die na 31 december van een schooljaar wordt ingeschreven aan e
 
 - a. het met goed gevolg hebben afgerond van de opleiding,
 
-- b. de inschrijving voor een cursus als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=15&z=2005-09-07&g=2005-09-07), mits die inschrijving plaatsvindt in het desbetreffende schooljaar,
+- b. de inschrijving voor een cursus als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=15&z=2006-03-29&g=2006-03-29), mits die inschrijving plaatsvindt in het desbetreffende schooljaar,
 
 - c. overlijden of ernstige ziekte van de leerling, of
 
@@ -184,9 +182,9 @@ De dagscholen verstrekken de IB-Groep gegevens omtrent de inschrijving op een bi
 
 4. Inschrijving geschiedt niet dan nadat:
 
-- a. het cursusgeld is voldaan, tenzij [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=13&z=2005-09-07&g=2005-09-07) van toepassing is, of
+- a. het cursusgeld is voldaan, tenzij [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=13&z=2006-03-29&g=2006-03-29) van toepassing is, of
 
-- b. een betalingsregeling als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=11&z=2005-09-07&g=2005-09-07) is getroffen.
+- b. een betalingsregeling als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=11&z=2006-03-29&g=2006-03-29) is getroffen.
 
 ##### Artikel 10. Beëindiging inschrijving
 
@@ -202,11 +200,11 @@ Het bevoegd gezag beëindigt de inschrijving van de cursist op aanvraag van de c
 
 - b. het bij de inschrijving treffen van een regeling inzake de betaling van het cursusgeld tussen het bevoegd gezag en de cursusgeldplichtige alsmede de naleving door de cursusgeldplichtige, of
 
-- c. schriftelijke vaststelling bij de inschrijving door of namens het bevoegd gezag dat op de cursusgeldplichtige [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=13&z=2005-09-07&g=2005-09-07) van toepassing is.
+- c. schriftelijke vaststelling bij de inschrijving door of namens het bevoegd gezag dat op de cursusgeldplichtige [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=13&z=2006-03-29&g=2006-03-29) van toepassing is.
 
 3. De laatste termijn van het cursusgeld wordt in ieder geval betaald binnen 4 maanden na aanvang van de cursusgeldperiode, en uiterlijk voor het einde van die periode.
 
-4. De cursusgeldplichtige verstrekt aan het bevoegd gezag bewijsstukken voor de aanspraak op terugbetaling van cursusgeld als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=14&z=2005-09-07&g=2005-09-07).
+4. De cursusgeldplichtige verstrekt aan het bevoegd gezag bewijsstukken voor de aanspraak op terugbetaling van cursusgeld als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=14&z=2006-03-29&g=2006-03-29).
 
 ##### Artikel 12. Vermindering cursusgeld
 
@@ -214,7 +212,7 @@ Voor een cursist die in de loop van de cursusgeldperiode wordt ingeschreven, wor
 
 ##### Artikel 13. Geen cursusgeld verschuldigd
 
-Geen cursusgeld is verschuldigd indien de cursist bij de aanvang van de cursusgeldperiode de leeftijd van 18 jaren nog niet heeft bereikt, tenzij het betreft de inschrijving bij een deeltijdopleiding als bedoeld in [artikel 15, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=15&z=2005-09-07&g=2005-09-07).
+Geen cursusgeld is verschuldigd indien de cursist bij de aanvang van de cursusgeldperiode de leeftijd van 18 jaren nog niet heeft bereikt, tenzij het betreft de inschrijving bij een deeltijdopleiding als bedoeld in [artikel 15, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=15&z=2006-03-29&g=2006-03-29).
 
 ##### Artikel 14. Terugbetaling cursusgeld
 
@@ -250,7 +248,7 @@ Geen cursusgeld is verschuldigd indien de cursist bij de aanvang van de cursusge
 
 ##### Artikel 16. Afwijking cursusgeldtarieven
 
-Indien de aard van het onderwijs, de cursusduur, het aantal lessen of de doelgroep van de cursus daartoe aanleiding geeft, kunnen bij ministeriële regeling de in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=15&z=2005-09-07&g=2005-09-07) genoemde cursusgeldtarieven worden verlaagd.
+Indien de aard van het onderwijs, de cursusduur, het aantal lessen of de doelgroep van de cursus daartoe aanleiding geeft, kunnen bij ministeriële regeling de in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=15&z=2006-03-29&g=2006-03-29) genoemde cursusgeldtarieven worden verlaagd.
 
 ### Hoofdstuk 4. Slot- en overgangsbepalingen
 
@@ -276,7 +274,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 8a. Opschorting inning lesgeld
 
-In afwijking van [artikel 4, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=2&artikel=4&z=2005-09-07&g=2005-09-07), schort de Informatie Beheer Groep de inning van het verschuldigde bedrag voor het uit de openbare kas bekostigde voorgezet onderwijs, speciaal onderwijs, voortgezet speciaal onderwijs en voor deelnemers van 16 en 17 jaar in het beroepsonderwijs, voor het schooljaar 2005–2006 op.
+In afwijking van [artikel 4, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=2&artikel=4&z=2006-03-29&g=2006-03-29), schort de Informatie Beheer Groep de inning van het verschuldigde bedrag voor het uit de openbare kas bekostigde voorgezet onderwijs, speciaal onderwijs, voortgezet speciaal onderwijs en voor deelnemers van 16 en 17 jaar in het beroepsonderwijs, voor het schooljaar 2005–2006 op.
 
 ### Hoofdstuk 3. Cursusgeld
 
