@@ -4,7 +4,7 @@ identifier: "BWBR0007397"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-10-01"
-last_updated: "1997-12-01"
+last_updated: "2006-03-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007397"
 soort: "AMvB"
@@ -54,7 +54,7 @@ In dit besluit wordt verstaan onder:
 
 - b. Onze Minister: Onze Minister van Volksgezondheid, Welzijn en Sport;
 
-- c. commissie: de Commissie buitenslands gediplomeerden;
+- c. commissie: de Commissie buitenslands gediplomeerden volksgezondheid;
 
 - d. EER-overeenkomst: de overeenkomst van Oporto van 2 mei 1992 betreffende de Europese Economische Ruimte (**Trb.** 1992, 132);
 
@@ -62,7 +62,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 2
 
-1. De Commissie buitenslands gediplomeerden bestaat uit een voorzitter, tevens lid, alsmede uit vier leden-deskundigen per in artikel 3 van de wet genoemd, onderscheidenlijk krachtens artikel 34 van de wet aangewezen, beroep. Van de vier leden per beroep zijn er twee deskundig ter zake van de opleiding tot het desbetreffende beroep en twee ter zake van de uitoefening van dat beroep.
+1. De commissie bestaat uit een voorzitter, tevens lid, alsmede uit minimaal twee en maximaal vier leden-deskundigen per in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3) genoemd, onderscheidenlijk krachtens [artikel 34 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=34) aangewezen, beroep. De leden-deskundigen zijn deskundig ter zake van de opleiding tot het desbetreffende beroep of ter zake van de uitoefening van dat beroep.
 
 2. Onze Minister benoemt en ontslaat de voorzitter en de andere leden van de commissie.
 
@@ -108,7 +108,7 @@ Een advies van de commissie bevat de gronden waarop het berust.
 
 2. De commissie kan externe deskundigen raadplegen.
 
-3. De commissie beraadslaagt en brengt advies uit in de overeenkomstig [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007397&artikel=2&z=1997-12-01&g=1997-12-01), voor het desbetreffende beroep bedoelde samenstelling.
+3. De commissie beraadslaagt en brengt advies uit in de overeenkomstig [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007397&artikel=2&z=2006-03-29&g=2006-03-29), voor het desbetreffende beroep bedoelde samenstelling.
 
 ##### Artikel 7
 
@@ -134,9 +134,9 @@ Een advies van de commissie bevat de gronden waarop het berust.
 
 ##### Artikel 8
 
-1. Onverminderd [artikel 2 van het Registratiebesluit BIG](https://wetten.overheid.nl/jci1.3:c:BWBR0007648&artikel=2), verstrekt degene die in het bezit is van een door Onze Minister aangewezen getuigschrift als bedoeld in [artikel 41, eerste lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=41), bij zijn aanvrage om inschrijving in het desbetreffende register de bescheiden, bedoeld in [artikel 7, eerste lid, onder b en g](https://wetten.overheid.nl/jci1.3:c:BWBR0007397&artikel=7&z=1997-12-01&g=1997-12-01).
+1. Onverminderd [artikel 2 van het Registratiebesluit BIG](https://wetten.overheid.nl/jci1.3:c:BWBR0007648&artikel=2), verstrekt degene die in het bezit is van een door Onze Minister aangewezen getuigschrift als bedoeld in [artikel 41, eerste lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=41), bij zijn aanvrage om inschrijving in het desbetreffende register de bescheiden, bedoeld in [artikel 7, eerste lid, onder b en g](https://wetten.overheid.nl/jci1.3:c:BWBR0007397&artikel=7&z=2006-03-29&g=2006-03-29).
 
-2. Onverminderd [artikel 2 van het Registratiebesluit BIG](https://wetten.overheid.nl/jci1.3:c:BWBR0007648&artikel=2), verstrekt degene die in het bezit is van een verklaring als bedoeld in [artikel 41, eerste lid, onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=41), bij zijn aanvrage om inschrijving in het desbetreffende register het document, bedoeld in [artikel 7, eerste lid, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0007397&artikel=7&z=1997-12-01&g=1997-12-01).
+2. Onverminderd [artikel 2 van het Registratiebesluit BIG](https://wetten.overheid.nl/jci1.3:c:BWBR0007648&artikel=2), verstrekt degene die in het bezit is van een verklaring als bedoeld in [artikel 41, eerste lid, onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=41), bij zijn aanvrage om inschrijving in het desbetreffende register het document, bedoeld in [artikel 7, eerste lid, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0007397&artikel=7&z=2006-03-29&g=2006-03-29).
 
 ##### Artikel 9
 
@@ -149,5 +149,15 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 11
 
 Dit besluit wordt aangehaald als: Besluit buitenslands gediplomeerden volksgezondheid.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
+
+##### Artikel 3a
+
+1. De commissie kan bepalen dat de buitenslands gediplomeerde die beschikt over een getuigschrift dat is afgegeven door de autoriteiten van een staat die is gelegen buiten het EER-gebied, een kennis- en vaardighedentoets dient af te leggen ten behoeve van het advies, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0007397&artikel=3&z=2006-03-29&g=2006-03-29).
+
+2. Onze Minister stelt per beroepsgroep een tarief vast voor de kennis- en vaardighedentoets.
+
+3. De in het eerste lid bedoelde buitenslands gediplomeerde voldoet voor het afleggen van de kennis- en vaardighedentoets het in het tweede lid genoemde tarief.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
