@@ -4,7 +4,7 @@ identifier: "BWBR0008144"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2006-01-01"
+last_updated: "2006-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008144"
 soort: "ministeriele-regeling"
@@ -61,7 +61,7 @@ Aan de dienst worden de volgende taken opgedragen:
 
 - e. het afgeven van vervangende kentekenbewijzen in geval van vermissing van de bijbehorende kentekenplaten; [artikel 55 van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=55) is van overeenkomstige toepassing;
 
-- f. vervallen;
+- f. het raadplegen langs geautomatiseerde weg van de in de gemeentelijke basisadministratie persoonsgegevens opgenomen persoonsgegevens van de in het rijbewijzenregister geregistreerde houders van een rijbewijs ten behoeve van het actualiseren van die persoonsgegevens in het rijbewijzenregister en het attenderen van de houders van een rijbewijs op het verstrijken van de geldigheidsduur;
 
 - g. vervallen;
 
@@ -83,9 +83,9 @@ Aan de dienst worden de volgende taken opgedragen:
 
 ##### Artikel 3. Voorwaarden
 
-1. De dienst mag voor de in [artikel 2, onder a tot en met d en j](https://wetten.overheid.nl/jci1.3:c:BWBR0008144&artikel=2&z=2006-01-01&g=2006-01-01), bedoelde activiteiten prijzen in rekening brengen.
+1. De dienst mag voor de in [artikel 2, onder a tot en met d en j](https://wetten.overheid.nl/jci1.3:c:BWBR0008144&artikel=2&z=2006-04-01&g=2006-04-01), bedoelde activiteiten prijzen in rekening brengen.
 
-2. De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008144&artikel=2&z=2006-01-01&g=2006-01-01) bedoelde activiteiten en de hiervoor door de dienst in rekening te brengen prijzen dienen te voldoen aan de volgende voorwaarden:
+2. De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008144&artikel=2&z=2006-04-01&g=2006-04-01) bedoelde activiteiten en de hiervoor door de dienst in rekening te brengen prijzen dienen te voldoen aan de volgende voorwaarden:
 
 - a. de exploitatie mag niet ten koste gaan van de in artikel 4b, eerste en tweede lid, onderdeel a, bedoelde taken;
 
