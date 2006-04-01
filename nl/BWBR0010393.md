@@ -4,7 +4,7 @@ identifier: "BWBR0010393"
 country: "nl"
 rank: "amvb"
 publication_date: "2010-07-01"
-last_updated: "2003-09-10"
+last_updated: "2006-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010393"
 soort: "AMvB"
@@ -56,9 +56,9 @@ In dit besluit wordt verstaan onder:
 
 - b. subsidie: de krachtens [artikel 42, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=42) aan de raad te verstrekken subsidie voor de uitvoering van zijn wettelijke taak;
 
-- c. deelsubsidie beheers- en programmakosten: de in [artikel 2, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0010393&hoofdstuk=1&artikel=2&z=2003-09-10&g=2003-09-10), bedoelde deelsubsidie;
+- c. deelsubsidie beheers- en programmakosten: de in [artikel 2, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0010393&hoofdstuk=1&artikel=2&z=2006-04-01&g=2006-04-01), bedoelde deelsubsidie;
 
-- d. deelsubsidie landelijke projecten en activiteiten: de in [artikel 2, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0010393&hoofdstuk=1&artikel=2&z=2003-09-10&g=2003-09-10), bedoelde deelsubsidie;
+- d. deelsubsidie landelijke projecten en activiteiten: de in [artikel 2, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0010393&hoofdstuk=1&artikel=2&z=2006-04-01&g=2006-04-01), bedoelde deelsubsidie;
 
 - e. liquiditeitsratio: de verhouding tussen het totaal van de kortlopende vorderingen en liquide middelen enerzijds en het totaal van de kortlopende schulden van de raad anderzijds op 31 december van het boekjaar.
 
@@ -90,7 +90,7 @@ De raad kan tijdens het boekjaar gelden toevoegen aan de deelsubsidie landelijke
 
 ##### Artikel 4
 
-1. Bij de verlening van de subsidie kan Onze Minister bepalen dat het subsidiebedrag door hem wordt bijgesteld, rekening houdend met de ontwikkeling van het prijspeil of de ontwikkeling in de kosten van de arbeidsvoorwaarden.
+1. De subsidie, bedoeld in [artikel 42, eerste lid, van de Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=42), wordt jaarlijks aangepast overeenkomstig het voor dat jaar vastgestelde percentage voor de bijdrage in de kosten van de arbeidsvoorwaardenontwikkeling aan niet VWS-gebonden gepremieerde en gesubsidieerde sectoren, alsmede de ontwikkeling van het prijspeil. Het basisbedrag wordt afgerond op hele euro’s.
 
 2. Met het oog op de toepassing van het eerste lid kan Onze Minister bij de verlening van de subsidie tevens bepalen welk deel van het subsidiebedrag in aanmerking zal worden genomen voor een bijstelling in verband met de ontwikkeling van het prijspeil, onderscheidenlijk van de kosten van de arbeidsvoorwaarden.
 
@@ -152,7 +152,7 @@ Onze Minister beslist binnen dertien weken op de aanvraag tot verlening van de s
 
 ##### Artikel 10
 
-1. De raad vormt voor elk van de in [artikel 2, tweede lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0010393&hoofdstuk=1&artikel=2&z=2003-09-10&g=2003-09-10) bedoelde deelsubsidies een egalisatiereserve, genaamd «beheers- en programmakosten» en «landelijke projecten en activiteiten».
+1. De raad vormt voor elk van de in [artikel 2, tweede lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0010393&hoofdstuk=1&artikel=2&z=2006-04-01&g=2006-04-01) bedoelde deelsubsidies een egalisatiereserve, genaamd «beheers- en programmakosten» en «landelijke projecten en activiteiten».
 
 2. De egalisatiereserve «beheers- en programmakosten» bedraagt op 31 december van het boekjaar ten hoogste 7,5% van de over het boekjaar verleende deelsubsidie beheers- en programmakosten.
 
@@ -192,7 +192,7 @@ Onze Minister beslist binnen dertien weken op de aanvraag tot verlening van de s
 
 - b. het aanpassen of vervangen van de landelijke geautomatiseerde systemen in beheer bij de Stichting Integraal Rechtshulp-informatie Systeem, alsmede voor het aanpassen of vervangen van de daarbij behorende registratievoorschriften;
 
-- c. het tijdens het boekjaar toevoegen van gelden aan de verschillende onderdelen van de deelsubsidies anders dan ingevolge [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010393&hoofdstuk=1&artikel=3&z=2003-09-10&g=2003-09-10).
+- c. het tijdens het boekjaar toevoegen van gelden aan de verschillende onderdelen van de deelsubsidies anders dan ingevolge [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010393&hoofdstuk=1&artikel=3&z=2006-04-01&g=2006-04-01).
 
 ##### Artikel 15
 
@@ -224,7 +224,7 @@ Onze Minister kan, na overleg met de raad, de bevoorschotting van de raad verlag
 
 ##### Artikel 20
 
-Onze Minister kan, na overleg met de raad, de in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0010393&hoofdstuk=3&artikel=10&z=2003-09-10&g=2003-09-10) genoemde percentages met ten hoogste 75% verlagen indien de financiële positie van een of meer raden daartoe noodzaakt.
+Onze Minister kan, na overleg met de raad, de in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0010393&hoofdstuk=3&artikel=10&z=2006-04-01&g=2006-04-01) genoemde percentages met ten hoogste 75% verlagen indien de financiële positie van een of meer raden daartoe noodzaakt.
 
 ##### Artikel 21
 
@@ -248,7 +248,7 @@ Alvorens een bedrag toe te voegen aan de egalisatiereserve, wordt op een door On
 
 ### HOOFDSTUK 5. SLOTBEPALINGEN
 
-## Bijlage. bij [artikel 11, tweede lid, van het Subsidiebesluit raden voor rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0010393&hoofdstuk=3&artikel=11&z=2003-09-10&g=2003-09-10)
+## Bijlage. bij [artikel 11, tweede lid, van het Subsidiebesluit raden voor rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0010393&hoofdstuk=3&artikel=11&z=2006-04-01&g=2006-04-01)
 
 ### **Model accountantsverklaring**
 
