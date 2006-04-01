@@ -4,7 +4,7 @@ identifier: "BWBV0001500"
 country: "nl"
 rank: "verdrag"
 publication_date: "2020-12-15"
-last_updated: "2004-04-30"
+last_updated: "2006-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0001500"
 soort: "verdrag"
@@ -35,17 +35,17 @@ entry_into_force: "2002-06-01"
 ---
 # Overeenkomst tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Zwitserse Bondsstaat, anderzijds, over het vrije verkeer van personen
 
-De Zwitserse Bondsstaat (hierna „Zwitserland" genoemd), enerzijds,
-
-en
-
-de Europese Gemeenschap,
+De Europese Gemeenschap,
 
 het Koninkrijk België,
+
+de Tsjechische Republiek,
 
 het Koninkrijk Denemarken,
 
 de Bondsrepubliek Duitsland,
+
+de Republiek Estland,
 
 de Helleense Republiek,
 
@@ -57,19 +57,41 @@ Ierland,
 
 de Italiaanse Republiek,
 
+de Republiek Cyprus,
+
+de Republiek Letland,
+
+de Republiek Litouwen,
+
 het Groothertogdom Luxemburg,
+
+de Republiek Hongarije,
+
+de Republiek Malta,
 
 het Koninkrijk der Nederlanden,
 
 de Republiek Oostenrijk,
 
+de Republiek Polen,
+
 de Portugese Republiek,
+
+de Republiek Slovenië,
+
+de Slowaakse Republiek,
 
 de Republiek Finland,
 
 het Koninkrijk Zweden,
 
-het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, anderzijds,
+het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland,
+
+enerzijds, en
+
+de Zwitserse Bondsstaat,
+
+anderzijds,
 
 Hierna genoemd „de overeenkomstsluitende partijen",
 
@@ -167,15 +189,54 @@ Teneinde voor onderdanen van de lidstaten van de Europese Gemeenschap en van Zwi
 
 Vanaf het begin van het zesde jaar worden alle kwantitatieve beperkingen ten aanzien van onderdanen van de lidstaten van de Europese Gemeenschap afgeschaft.
 
+1bis. Zwitserland kan tot en met 31 mei 2007 kwantitatieve beperkingen handhaven op de toegang in Zwitserland van werknemers en zelfstandigen die onderdaan zijn van de Tsjechische Republiek, de Republiek Estland, de Republiek Letland, de Republiek Litouwen, de Republiek Hongarije, de Republiek Polen, de Republiek Slovenië en de Slowaakse Republiek en zulks voor de volgende categorieën verblijf: verblijf van meer dan vier maanden, doch minder dan één jaar, en verblijf van één jaar of meer. Voor verblijf van minder dan vier maanden gelden geen beperkingen.
+
+Vóór het einde van de hierboven vermelde overgangsperiode onderzoekt het Gemengd Comité op basis van een verslag van Zwitserland de werking van de overgangsperiode die geldt voor onderdanen van de nieuwe lidstaten. Na dit onderzoek en vóór het einde van de hierboven vermelde periode stelt Zwitserland het Gemengd Comité ervan in kennis of het de kwantitatieve beperkingen ten aanzien van in Zwitserland werkzame werknemers zal blijven toepassen. Zwitserland kan dergelijke maatregelen blijven toepassen tot en met 31 mei 2009. Bij gebreke van dergelijke kennisgeving verstrijkt de overgangsperiode op 31 mei 2007.
+
+Aan het einde van de in dit lid omschreven overgangsperiode worden alle kwantitatieve beperkingen ten aanzien van onderdanen van de Tsjechische Republiek, de Republiek Estland, de Republiek Letland, de Republiek Litouwen, de Republiek Hongarije, de Republiek Polen, de Republiek Slovenië en de Slowaakse Republiek afgeschaft. Deze lidstaten kunnen voor dezelfde perioden dezelfde kwantitatieve beperkingen ten aanzien van Zwitserse onderdanen invoeren.
+
 2. Gedurende ten hoogste twee jaar kunnen de overeenkomstsluitende partijen de controle handhaven op de voorrang voor werknemers die in de reguliere arbeidsmarkt zijn geïntegreerd en op de salariërings- en arbeidsvoorwaarden voor onderdanen van de andere overeenkomstsluitende partij, waaronder de in artikel 5 bedoelde personen die dienstverleners zijn. Vóór het einde van het eerste jaar onderzoekt het Gemengd Comité of het noodzakelijk is deze beperkingen te handhaven. Het Gemengd Comité kan de maximale periode van twee jaar verkorten. De controle op de voorrang voor werknemers die in de reguliere arbeidsmarkt zijn geïntegreerd is niet van toepassing op verleners van diensten die op grond van een specifieke overeenkomst tussen de overeenkomstsluitende partijen betreffende het verlenen van diensten (onder andere de overeenkomst inzake de sector overheidsopdrachten, voorzover deze betrekking heeft op het verlenen van diensten) zijn geliberaliseerd.
 
+2bis. Zwitserland en de Tsjechische Republiek, de Republiek Estland, de Republiek Letland, de Republiek Litouwen, de Republiek Hongarije, de Republiek Polen, de Republiek Slovenië en de Slowaakse Republiek kunnen tot en met 31 mei 2007 voor werknemers van een van die andere overeenkomstsluitende partij die op hun eigen grondgebied werkzaam zijn, de controle handhaven op de voorrang voor werknemers die in de reguliere arbeidsmarkt zijn geïntegreerd en op de salariërings- en arbeidsvoorwaarden voor onderdanen van de betrokken overeenkomstsluitende partij. Dezelfde controles kunnen worden gehandhaafd voor personen die diensten verlenen in de volgende vier sectoren: diensten in verband met de tuinbouw, bouwnijverheid en aanverwante activiteiten, beveiligingsdiensten, reiniging van gebouwen (respectievelijk NACENACE: [Verordening (EEG) nr. 3037/90](31990R3037) van de Raad van 9 oktober 1990 betreffende de statistische nomenclatuur van de economische activiteiten in de Europese Gemeenschap (PB L 293 van 24.10.1990, blz. 1), laatstelijk gewijzigd bij [Verordening (EG) nr. 29/2002](32002R0029) van de Commissie van 19 december 2001 (PB L 6 van 10.1.2002, blz. 3).-codes 01.41, 45.1 tot en met 4, 74.60 en 74.70), waarnaar wordt verwezen in artikel 5, lid 1, van de Overeenkomst. Zwitserland geeft, wat de toegang tot zijn arbeidsmarkt betreft, gedurende de in de leden 1 bis, 2 bis, 3 bis en 4 bis vermelde overgangsperioden voorrang aan werknemers die onderdaan van de nieuwe lidstaten zijn boven werknemers uit niet-EU- en niet-EVA-landen. De controle op de voorrang voor werknemers die in de reguliere arbeidsmarkt zijn geïntegreerd is niet van toepassing op verleners van diensten die zijn geliberaliseerd op grond van een specifieke overeenkomst tussen de overeenkomstsluitende partijen inzake het verlenen van diensten (onder andere de Overeenkomst betreffende sommige aspecten van overheidsopdrachten, voorzover deze betrekking heeft op het verlenen van diensten). Voor dezelfde periode kunnen kwalificatie-eisen worden gehandhaafd voor het verstrekken van verblijfsvergunningen van minder dan vier maandenWerknemers kunnen verzoeken om verblijfsvergunningen met een korte geldigheidsduur in het kader van de in lid 3 bis vermelde contigenten, zelfs voor een periode van minder dan vier maanden. en voor personen die diensten verlenen in de vier hierboven vermelde sectoren, waarnaar in artikel 5, lid 1, van de Overeenkomst wordt verwezen.
+
+Vóór 31 mei 2007 onderzoekt het Gemengd Comité de werking van de in dit lid vervatte overgangsregeling op basis van een verslag dat door één van de overeenkomstsluitende partijen die deze regeling toepassen, wordt opgesteld. Na dit onderzoek en uiterlijk op 31 mei 2007 kan de overeenkomstsluitende partij die de in dit lid vervatte overgangsregeling heeft toegepast en het Gemengd Comité in kennis heeft gesteld van haar voornemen om deze regeling te blijven toepassen, dat blijven doen tot 31 mei 2009. Bij gebreke van dergelijke kennisgeving verstrijkt de overgangsperiode op 31 mei 2007.
+
+Aan het einde van de in dit lid omschreven overgangsperiode worden alle in dit lid vermelde beperkingen afgeschaft.
+
 3. Vanaf de inwerkingtreding van deze Overeenkomst reserveert Zwitserland, tot het einde van het vijfde jaar, binnen zijn totale contingenten de volgende minimale aantallen nieuwe verblijfsvergunningen voor werknemers in loondienst en zelfstandigen uit de Europese Gemeenschap: verblijfsvergunningen met een geldigheidsduur van één jaar of meer: 15 000 per jaar; verblijfsvergunningen met een geldigheidsduur van meer dan vier maanden doch niet meer dan één jaar: 115 000 per jaar.
+
+3bis. Vanaf de inwerkingtreding van het Protocol bij de Overeenkomst betreffende de deelname, als overeenkomstsluitende partijen, van de hieronder genoemde nieuwe lidstaten en tot het einde van de in lid 1 bis bedoelde periode reserveert Zwitserland jaarlijks (pro rata temporis) binnen zijn totale contingent voor derde landen, voor in Zwitserland werkzame werknemers en zelfstandigen die onderdaan zijn van de Tsjechische Republiek, de Republiek Estland, de Republiek Letland, de Republiek Litouwen, de Republiek Hongarije, de Republiek Polen, de Republiek Slovenië en de Slowaakse Republiek een minimumaantal nieuwe verblijfsvergunningenDeze vergunningen worden verleend naast de in artikel 10 van de Overeenkomst vermelde contingenten, die zijn gereserveerd voor werknemers in loondienst en zelfstandigen die onderdaan zijn van de lidstaten op het moment van de ondertekening van de Overeenkomst (21 juni 1999) of onderdaan zijn van de Republiek Cyprus en de Republiek Malta. Deze vergunningen worden ook verstrekt naast de vergunningen die worden verleend in het kader van bestaande bilaterale overeenkomsten inzake de uitwisseling van stagiairs. overeenkomstig het volgende schema:
+
+| Tot en met | Aantal verblijfsvergunningen met een geldigheidsduur van één jaar of meer | Aantal verblijfsvergunningen met een geldigheidsduur van meer dan vier maanden doch niet meer dan één jaar |
+| --- | --- | --- |
+| 31 mei 2005 | 900 | 9000 |
+| 31 mei 2006 | 1 300 | 12 400 |
+| 31 mei 2007 | 1 700 | 15 800 |
+| 31 mei 2008 | 2 200 | 19 200 |
+| 31 mei 2009 | 2 600 | 22 600 |
 
 4. Ongeacht het bepaalde in lid 3 wordt door de overeenkomstsluitende partijen het volgende overeengekomen: indien na vijf jaar, doch niet langer dan twaalf jaar na de inwerkingtreding van de Overeenkomst, het aantal nieuwe verblijfsvergunningen van een van de in lid 1 bedoelde categorieën dat in een bepaald jaar is afgegeven aan werknemers in loondienst en zelfstandigen uit de Europese Gemeenschap meer dan 10% hoger is dan het gemiddelde over de drie voorgaande jaren, kan Zwitserland voor het volgende jaar het aantal nieuwe verblijfsvergunningen van die categorie voor werknemers in loondienst en zelfstandigen uit de Europese Gemeenschap eenzijdig beperken tot het gemiddelde over de drie voorgaande jaren, vermeerderd met 5%. Het volgende jaar kan het aantal tot datzelfde niveau worden beperkt.
 
 Ongeacht het bepaalde in de voorgaande alinea mag het aantal nieuw af te geven verblijfsvergunningen aan werknemers in loondienst en zelfstandigen uit de Europese Gemeenschap niet worden beperkt tot minder dan 15 000 per jaar voor nieuwe verblijfsvergunningen met een geldigheidsduur van één jaar of meer en 115 000 per jaar voor nieuwe verblijfsvergunningen met een geldigheidsduur van meer dan vier maanden doch niet meer dan één jaar.
 
+4bis. Aan het einde van de in lid 1 bis en in onderhavig lid bedoelde periode en tot twaalf jaar na de inwerkingtreding van de Overeenkomst, zijn de bepalingen van artikel 10, lid 4, van de Overeenkomst van toepassing.
+
+In geval van ernstige verstoringen van de arbeidsmarkt of gevaar voor zulke verstoringen stellen Zwitserland en elk van de nieuwe lidstaten die de overgangsregeling hebben toegepast, het Gemengd Comité daarvan uiterlijk op 31 mei 2009 in kennis. In dat geval kan het kennisgevende land de in de leden 1 bis, 2 bis en 3 bis bedoelde maatregelen tot 30 april 2011 blijven toepassen op de op zijn grondgebied werkzame werknemers. Het jaarlijkse aantal in lid 1 bis bedoelde verblijfsvergunningen bedraagt dan:
+
+| Tot en met | Aantal verblijfsvergunningen met een geldigheidsduur van één jaar of meer | Aantal verblijfsvergunningen met een geldigheidsduur van meer dan vier maanden doch niet meer dan één jaar |
+| --- | --- | --- |
+| 31 mei 2010 | 2 800 | 26 000 |
+| 30 april 2011 | 3 000 | 29 000 |
+
+4ter. Wanneer Malta verstoringen van de arbeidsmarkt ondervindt of voorziet die een serieuze bedreiging kunnen vormen voor de levensstandaard of het werkgelegenheidspeil in een bepaalde regio of binnen een bepaalde beroepsgroep, en besluit de bepalingen van afdeling 2 „Vrij verkeer van personen" van bijlage XI bij de Toetredingsakte toe te passen, kunnen de beperkende maatregelen die Malta ten aanzien van de overige EU-lidstaten heeft getroffen ook op Zwitserland worden toegepast. In dat geval kan Zwitserland gelijkwaardige maatregelen nemen ten aanzien van Malta.
+
+Malta en Zwitserland kunnen van deze procedure gebruik maken tot 30 april 2011.
+
 5. De overgangsbepalingen van de leden 1 tot en met 4, met name die van lid 2 inzake de voorrang voor werknemers die in de reguliere arbeidsmarkt zijn geïntegreerd en de controle op de salariërings- en arbeidsvoorwaarden, zijn niet van toepassing op werknemers in loondienst en zelfstandigen die bij de inwerkingtreding van deze Overeenkomst reeds beschikken over een vergunning voor het uitoefenen van een economische activiteit op het grondgebied van de overeenkomstsluitende partijen. Deze laatsten hebben met name het recht op geografische en professionele mobiliteit. Houders van een verblijfsvergunning met een geldigheidsduur van minder dan één jaar hebben recht op verlenging van hun verblijfsvergunning; de kwantitatieve beperkingen op de afgifte van verblijfsvergunningen zijn op hen niet van toepassing. Houders van een verblijfsvergunning met een geldigheidsduur van één jaar of meer hebben automatisch recht op verlenging van hun verblijfsvergunning; deze werknemers in loondienst en zelfstandigen genieten derhalve vanaf de inwerkingtreding van de Overeenkomst de rechten inzake het vrije verkeer van personen als vastgesteld in de basisbepalingen van deze Overeenkomst, in het bijzonder in artikel 7.
+
+5bis. De overgangsbepalingen van de leden 1 bis, 2 bis, 3 bis, 4 bis en 4 ter, en met name die van lid 2 bis inzake de voorrang voor werknemers die in de reguliere arbeidsmarkt zijn geïntegreerd en de controle op de salariërings- en arbeidsvoorwaarden, zijn niet van toepassing op werknemers in loondienst en zelfstandigen die op de datum van de inwerkingtreding van het Protocol bij de Overeenkomst betreffende de deelname, als overeenkomstsluitende partijen, van de hieronder genoemde nieuwe lidstaten reeds beschikken over een vergunning voor het uitoefenen van een economische activiteit op het grondgebied van de overeenkomstsluitende partijen. Deze laatsten hebben met name het recht op professionele en geografische mobiliteit.
+
+Houders van een verblijfsvergunning met een geldigheidsduur van minder dan één jaar hebben recht op verlenging van hun verblijfsvergunning; de kwantitatieve beperkingen op de afgifte van verblijfsvergunningen zijn op hen niet van toepassing. Houders van een verblijfsvergunning met een geldigheidsduur van één jaar of meer hebben automatisch recht op verlenging van hun verblijfsvergunning. Deze werknemers in loondienst en zelfstandigen genieten derhalve vanaf de inwerkingtreding van de Overeenkomst de rechten inzake het vrije verkeer van personen als vastgesteld in de basisbepalingen van deze Overeenkomst, in het bijzonder in artikel 7.
 
 6. Zwitserland verstrekt het Gemengd Comité regelmatig en tijdig de relevante statistieken en inlichtingen, met inbegrip van de maatregelen ter uitvoering van lid 2. Elk van de overeenkomstsluitende partijen kan verzoeken om een onderzoek van de situatie door het Gemengd Comité.
 
@@ -581,7 +642,7 @@ Dienstverleners die het recht of de toestemming hebben om een dienst te verlenen
 
 1. De geldigheidsduur van de verblijfsvergunning van een werknemer in loondienst die een arbeidsovereenkomst heeft met een looptijd van minder dan één jaar, wordt verlengd tot maximaal twaalf maanden, mits de werknemer in loondienst bij de bevoegde nationale autoriteiten kan aantonen dat hij of zij een economische activiteit kan uitoefenen. Een nieuwe verblijfsvergunning wordt verstrekt, mits de werknemer in loondienst aantoont dat hij of zij een economische activiteit kan uitoefenen en de in artikel 10 van de Overeenkomst genoemde kwantitatieve beperkingen nog niet zijn bereikt. Overeenkomstig artikel 24 van deze bijlage is er geen verplichting om in de periode tussen twee arbeidsovereenkomsten het land te verlaten.
 
-2. Gedurende de periode bedoeld in artikel 10, lid 2. van de Overeenkomst kan een overeenkomstsluitende partij voor het verstrekken van een eerste verblijfsvergunning verlangen dat een schriftelijke arbeidsovereenkomst of een arbeidsaanbod wordt overgelegd.
+2. Gedurende de periode bedoeld in artikel 10, leden 2, 2bis, 4bis en 4ter van de Overeenkomst kan een overeenkomstsluitende partij voor het verstrekken van een eerste verblijfsvergunning verlangen dat een schriftelijke arbeidsovereenkomst of een arbeidsaanbod wordt overgelegd.
 
 - a. Personen die gedurende ten minste dertig maanden tijdelijke arbeid hebben verricht op het grondgebied van het ontvangende land, hebben automatisch het recht een dienstverband voor onbepaalde duur te aanvaarden.1)Zij zijn niet onderworpen aan de voorrang voor binnenlandse werknemers of de controle op de eerbiediging van de salariërings- en arbeidsvoorwaarden in de betrokken branche en op de betrokken plaats.De kwantitatieve beperkingen op de afgifte van verblijfsvergunningen zijn op hen niet van toepassing.. De kwantitatieve beperkingen op de afgifte van verblijfsvergunningen zijn op hen niet van toepassing.
 
