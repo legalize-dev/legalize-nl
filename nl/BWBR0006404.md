@@ -4,7 +4,7 @@ identifier: "BWBR0006404"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-01-01"
-last_updated: "2004-05-01"
+last_updated: "2006-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006404"
 soort: "AMvB"
@@ -48,9 +48,7 @@ In dit besluit wordt verstaan onder:
 
 - a. de wet: de [Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368);
 
-- b. belang: het belang voor de behartiging waarvan de rechtzoekende rechtsbijstand verzoekt voorzover dat belang hem rechtstreeks en individueel aangaat;
-
-- c. inkomen: het overeenkomstig het [Besluit draagkrachtcriteria rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006405) vastgestelde inkomen.
+- b. belang: het belang voor de behartiging waarvan de rechtzoekende rechtsbijstand verzoekt voorzover dat belang hem rechtstreeks en individueel aangaat.
 
 ##### Artikel 2
 
@@ -76,9 +74,9 @@ Rechtsbijstand wordt als zijnde van elke grond ontbloot niet verleend indien de 
 
 1. Rechtsbijstand wordt, als zijnde van onvoldoende belang, behalve tijdens een spreekuur als bedoeld in [artikel 19, eerste lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=19), niet verleend indien het op geld waardeerbare belang blijft beneden een bedrag van € 90,–.
 
-2. Rechtsbijstand op basis van een toevoeging wordt, als zijnde van onvoldoende belang, niet verleend indien het op geld waardeerbare belang blijft beneden een bedrag van twintig ten honderd van het inkomen van de rechtzoekende met een minimum van € 180,–.
+2. Rechtsbijstand op basis van een toevoeging wordt, als zijnde van onvoldoende belang, niet verleend indien het op geld waardeerbare belang blijft beneden een bedrag van € 180,–.
 
-3. Indien de rechtsbijstand betrekking heeft op een beroep in cassatie wordt de toevoeging geweigerd indien het op geld waardeerbare belang blijft beneden een bedrag van veertig ten honderd van het inkomen van de rechtzoekende met een minimum van € 360,–.
+3. Indien de rechtsbijstand betrekking heeft op een beroep in cassatie wordt de toevoeging geweigerd indien het op geld waardeerbare belang blijft beneden een bedrag van € 360,–.
 
 4. Indien de rechtsbijstand betrekking heeft op een beroep in cassatie in een strafzaak uitsluitend betreffende een of meer overtredingen wordt jegens de verdachte de toevoeging geweigerd, indien met toepassing van [artikel 9a van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=9a) geen straf of maatregel werd opgelegd of geen andere straf of maatregel werd opgelegd dan een geldboete tot een maximum – of, wanneer bij het vonnis twee of meer geldboetes zijn opgelegd, tot een gezamenlijke maximum – van € 250,–.
 
