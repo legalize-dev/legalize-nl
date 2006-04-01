@@ -4,7 +4,7 @@ identifier: "BWBR0008038"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-06-01"
-last_updated: "2002-06-01"
+last_updated: "2006-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008038"
 soort: "ministeriele-regeling"
@@ -65,15 +65,11 @@ Voor rijbewijzen en daarmee verband houdende formulieren worden de in de bijlage
 
 - Model 5A: Aanvraagformulier ten behoeve van door de burgemeester af te geven rijbewijzen;
 
-- Model 5B: Aanvraagformulier ten behoeve van omwisseling niet-Nederlandse rijbewijzen;
+- Model 5B: Aanvraag Nederlands rijbewijs;
 
-- Model 5C: Aanvraagformulier ten behoeve van buiten Nederland wonende aanvragers van rijbewijzen;
+- Model 5C: Aanvraag rijbewijs (niet) woonachtig in Nederland;
 
-- Model 5D: Aanvraagformulier ten behoeve van afgifte rijbewijzen aan in Nederland woonachtige personen die niet als ingezetene zijn ingeschreven in de basisadministratie persoonsgegevens van een gemeente;
-
-- Model 5E: Aanvraagformulier ten behoeve van de vernieuwing van een oud model rijbewijs op linnen;
-
-- Model 5F: Aanvraagformulier ten behoeve van de registratie van rijbewijzen, afgegeven door andere EG- en EER-staten;
+- Model 5D: Aanvraag omwisseling voor Nederlands rijbewijs;
 
 - Model 6A: Rijbewijs volgens oud model;
 
@@ -169,29 +165,15 @@ Op de achterzijde kan ten behoeve van betrokkene informatie worden verstrekt.
 
 **Kleur: groen**
 
-### Model 5C
+### Model 5D
 
 **Kleur: rose**
 
 ### Model 5D
 
-**Kleur: geel**
-
-### Model 5E
-
-**Kleur: blauw**
-
-### Model 5F
-
-**Kleur: grijs**
-
-### Model 6A. Rijbewijs volgens oud model
-
-Kleur: rose
-
 **Buitenzijde**
 
-**Binnenzijde**
+### Model 5E
 
 Kleur: rose
 
@@ -199,37 +181,51 @@ Kleur: rose
 
 Kleur: rose
 
-Afmetingen: 106 x 222 mm
+### Model 6A. Rijbewijs volgens oud model
 
 **Buitenzijde**
 
 **Binnenzijde**
+
+**Binnenzijde**
+
+Kleur: rose
+
+### Model 6B. Rijbewijs volgens model van de Europese Gemeenschappen (afgegeven vanaf 01-01-’84 tot 01-10-’86)
+
+**Buitenzijde**
+
+**Binnenzijde**
+
+**Buitenzijde**
+
+Kleur: rose
 
 ### Model 6C. Rijbewijs volgens model van de Europese Gemeenschappen (afgegeven vanaf 01-10-’86 tot 11-06-’87)
 
-Kleur: rose
-
-Afmetingen: 106 x 222 mm
-
 **Buitenzijde**
 
 **Binnenzijde**
+
+**Buitenzijde**
+
+Kleur: rose
 
 ### Model 6D. Rijbewijs volgens model van de Europese Gemeenschappen (afgegeven vanaf 11-06-’87 tot 01-06-’96)
 
-Kleur: rose
-
-Afmetingen: 106 x 222 mm
-
 **Buitenzijde**
 
 **Binnenzijde**
 
+**Buitenzijde**
+
+**Buitenzijde**
+
 ### Model 6E. Rijbewijs volgens model van de Europese Gemeenschappen (afgegeven vanaf 01-06-1996 tot 01-06-2002)
 
-Kleur: rose
-
 Afmetingen: 106 x 222 mm
+
+**Binnenzijde**
 
 **Buitenzijde**
 
@@ -244,5 +240,33 @@ Kleur: rose
 Afmetingen: 106 x 222 mm
 
 **Binnenzijde**
+
+Deze regeling zal worden geplaatst in de Staatscourant.
+
+### Model 5C
+
+### Model 6A. Rijbewijs volgens oud model
+
+Kleur: rose
+
+**Binnenzijde**
+
+Afmetingen: 106 x 222 mm
+
+### Model 6C. Rijbewijs volgens model van de Europese Gemeenschappen (afgegeven vanaf 01-10-’86 tot 11-06-’87)
+
+Afmetingen: 106 x 222 mm
+
+### Model 6D. Rijbewijs volgens model van de Europese Gemeenschappen (afgegeven vanaf 11-06-’87 tot 01-06-’96)
+
+Afmetingen: 106 x 222 mm
+
+### Model 6E. Rijbewijs volgens model van de Europese Gemeenschappen (afgegeven vanaf 01-06-1996 tot 01-06-2002)
+
+Afmetingen: 106 x 222 mm
+
+### Model 6F. Rijbewijs volgens model van de Europese Gemeenschappen (afgegeven m.i.v. 01-06-2002)
+
+Kleur: rose
 
 Deze regeling zal worden geplaatst in de Staatscourant.
