@@ -4,7 +4,7 @@ identifier: "BWBR0003584"
 country: "nl"
 rank: "amvb"
 publication_date: "2006-04-01"
-last_updated: "2003-09-01"
+last_updated: "2006-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003584"
 soort: "AMvB"
@@ -65,7 +65,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 2
 
-1. Het is verboden containers die niet voldoen aan de vervaardigingsvoorschriften van [hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0003584&hoofdstuk=II&z=2003-09-01&g=2003-09-01), te vervaardigen, te verhandelen of te gebruiken.
+1. Het is verboden containers die niet voldoen aan de vervaardigingsvoorschriften van [hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0003584&hoofdstuk=II&z=2006-04-01&g=2006-04-01), te vervaardigen, te verhandelen of te gebruiken.
 
 2. Het is verboden containers te verhandelen of te gebruiken anders dan met inachtneming van de voorschriften bij of krachtens dit besluit gesteld met betrekking tot de aanduiding en het bezigen van vermeldingen.
 
@@ -77,7 +77,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 3
 
-Een container is van zodanige materialen vervaardigd en is ook overigens zodanig uitgevoerd, dat hij een keuring als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0003584&hoofdstuk=III&artikel=8&z=2003-09-01&g=2003-09-01) kan doorstaan, zonder dat een blijvende vormverandering of een andere afwijking ontstaat, die de container ongeschikt maakt voor het gebruik waarvoor hij bestemd is.
+Een container is van zodanige materialen vervaardigd en is ook overigens zodanig uitgevoerd, dat hij een keuring als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0003584&hoofdstuk=III&artikel=8&z=2006-04-01&g=2006-04-01) kan doorstaan, zonder dat een blijvende vormverandering of een andere afwijking ontstaat, die de container ongeschikt maakt voor het gebruik waarvoor hij bestemd is.
 
 ##### Artikel 4
 
@@ -91,7 +91,7 @@ Onze Minister kan met betrekking tot containers die uitgerust zijn met een of me
 
 2. Indien van een container meerdere onderling gelijke exemplaren worden vervaardigd, kan worden volstaan met keuring van een of zoveel meer het type kenmerkende monsters als de aangewezen instelling in het belang van het verrichten van de keuring noodzakelijk acht.
 
-3. Voor de toepassing van het tweede lid zijn containers onderling gelijk, indien zij slechts zodanig afwijken van het goedgekeurde monster of de goedgekeurde monsters dat de afwijking naar het oordeel van de aangewezen instelling de resultaten van een keuring als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0003584&hoofdstuk=III&artikel=8&z=2003-09-01&g=2003-09-01) niet op onaanvaardbare wijze beïnvloedt. De aangewezen instelling verricht daartoe beproevingen en onderzoekingen op door haar aan te wijzen monsters.
+3. Voor de toepassing van het tweede lid zijn containers onderling gelijk, indien zij slechts zodanig afwijken van het goedgekeurde monster of de goedgekeurde monsters dat de afwijking naar het oordeel van de aangewezen instelling de resultaten van een keuring als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0003584&hoofdstuk=III&artikel=8&z=2006-04-01&g=2006-04-01) niet op onaanvaardbare wijze beïnvloedt. De aangewezen instelling verricht daartoe beproevingen en onderzoekingen op door haar aan te wijzen monsters.
 
 ##### Artikel 6
 
@@ -99,7 +99,7 @@ Een te keuren container wordt in bedrijfsvaardige staat voor keuring beschikbaar
 
 ##### Artikel 7
 
-1. Bij toepassing van [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003584&hoofdstuk=III&artikel=5&z=2003-09-01&g=2003-09-01), gaat de aanvraag van de keuring vergezeld van:
+1. Bij toepassing van [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003584&hoofdstuk=III&artikel=5&z=2006-04-01&g=2006-04-01), gaat de aanvraag van de keuring vergezeld van:
 
 - a. tekeningen en een ontwerp-specificatie met betrekking tot het type van de container, alsmede
 
@@ -149,7 +149,7 @@ Degene die een container belaadt of vervoert, zorgt ervoor dat de container zoda
 
 ##### Artikel 12
 
-1. De eigenaar van een container zorgt ervoor dat op de container, indien deze wordt vervoerd, verhandeld of gebruikt, duidelijk de maand en het jaar vermeld zijn, voor het begin waarvan de container ingevolge [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003584&hoofdstuk=IV&artikel=11&z=2003-09-01&g=2003-09-01), moet worden onderzocht.
+1. De eigenaar van een container zorgt ervoor dat op de container, indien deze wordt vervoerd, verhandeld of gebruikt, duidelijk de maand en het jaar vermeld zijn, voor het begin waarvan de container ingevolge [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003584&hoofdstuk=IV&artikel=11&z=2006-04-01&g=2006-04-01), moet worden onderzocht.
 
 2. Voor de naleving van het eerste lid wordt de vermelding met betrekking tot de tweeënhalfjaarlijkse onderzoekingen op of zoveel mogelijk nabij het merk van goedkeuring aangebracht, tenzij daaromtrent bij regeling van Onze Minister een andere regel is gesteld.
 
@@ -179,7 +179,7 @@ De eigenaar van een container die na de goedkeuring zodanig is gewijzigd dat daa
 
 ##### Artikel 14
 
-Het bepaalde in [de artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0003584&hoofdstuk=IV&artikel=11&z=2003-09-01&g=2003-09-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0003584&hoofdstuk=IV&artikel=12&z=2003-09-01&g=2003-09-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0003584&hoofdstuk=IV&artikel=13&z=2003-09-01&g=2003-09-01), [13a](https://wetten.overheid.nl/jci1.3:c:BWBR0003584&hoofdstuk=IV&artikel=13a&z=2003-09-01&g=2003-09-01), [13b](https://wetten.overheid.nl/jci1.3:c:BWBR0003584&hoofdstuk=IV&artikel=13b&z=2003-09-01&g=2003-09-01) en [13c](https://wetten.overheid.nl/jci1.3:c:BWBR0003584&hoofdstuk=IV&artikel=13c&z=2003-09-01&g=2003-09-01) is van overeenkomstige toepassing op degene die ingevolge een overeenkomst met de eigenaar verplicht is tot naleving van die artikelen.
+Het bepaalde in [de artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0003584&hoofdstuk=IV&artikel=11&z=2006-04-01&g=2006-04-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0003584&hoofdstuk=IV&artikel=12&z=2006-04-01&g=2006-04-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0003584&hoofdstuk=IV&artikel=13&z=2006-04-01&g=2006-04-01), [13a](https://wetten.overheid.nl/jci1.3:c:BWBR0003584&hoofdstuk=IV&artikel=13a&z=2006-04-01&g=2006-04-01), [13b](https://wetten.overheid.nl/jci1.3:c:BWBR0003584&hoofdstuk=IV&artikel=13b&z=2006-04-01&g=2006-04-01) en [13c](https://wetten.overheid.nl/jci1.3:c:BWBR0003584&hoofdstuk=IV&artikel=13c&z=2006-04-01&g=2006-04-01) is van overeenkomstige toepassing op degene die ingevolge een overeenkomst met de eigenaar verplicht is tot naleving van die artikelen.
 
 ### Hoofdstuk V. Merk van afkeuring
 
@@ -205,11 +205,11 @@ Het bepaalde in [de artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR000358
 
 ##### Artikel 16
 
-Vervallen
+Dit besluit berust op de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=1), [3 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=3), [11a](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=11a), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=13), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=14), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=16) en [32b, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=32b).
 
 ##### Artikel 17
 
-Vervallen
+Dit besluit kan worden aangehaald als "Warenwetbesluit containers".
 
 ##### Artikel 18
 
@@ -282,5 +282,7 @@ De aangewezen instelling verstrekt jaarlijks aan Onze Minister een afschrift van
 3. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot het eerste en tweede lid.
 
 ### Hoofdstuk VI. Overgangs- en slotbepalingen
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
