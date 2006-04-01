@@ -4,7 +4,7 @@ identifier: "BWBR0009234"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2017-12-01"
-last_updated: "2005-07-16"
+last_updated: "2006-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009234"
 soort: "ministeriele-regeling"
@@ -56,23 +56,23 @@ In deze beschikking wordt verstaan onder:
 
 - c. het aanwezig hebben van kansspelautomaten in de onder a. bedoelde speelcasino’s.
 
-2. Aan de in het eerste lid bedoelde vergunning worden de in [artikel 3 tot en met artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0009234&artikel=3&z=2005-07-16&g=2005-07-16) vervatte voorschriften verbonden.
+2. Aan de in het eerste lid bedoelde vergunning worden de in [artikel 3 tot en met artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0009234&artikel=3&z=2006-04-01&g=2006-04-01) vervatte voorschriften verbonden.
 
 ##### Artikel 3
 
 1. De stichting spant zich in voor de inachtneming van de vergunningsvoorschriften, de statuten, het huisreglement en het spelreglement van de stichting in de speelcasino’s.
 
-2. De statuten, het huisreglement en het spelreglement van de stichting, alsmede wijziging daarvan, behoeven de voorafgaande goedkeuring van de ministers.
+2. Het huisreglement en het spelreglement van de stichting, alsmede de wijziging daarvan, behoeven de voorafgaande goedkeuring van de minister.
 
-3. De ministers benoemen de voorzitter en de leden van de raad van commissarissen van de stichting. De raad van commissarissen heeft onder meer tot taak te waken tegen het bestaan van met het belang van de stichting strijdige belangen van bestuurs- en personeelsleden.
+3. De Minister van Financiën benoemt de voorzitter en de leden van de raad van commissarissen van de stichting, na daarover overleg te hebben gevoerd met de minister.
 
-4. Van de voorgenomen benoeming van de voorzitter en de leden van het bestuur van de stichting wordt schriftelijk mededeling gedaan aan de ministers. De benoeming vindt slechts plaats indien de ministers binnen een periode van acht weken na ontvangst van de kennisgeving van het voornemen daartegen geen bezwaar hebben gemaakt.
+4. De raad van commissarissen van de stichting benoemt het bestuur. Van de voorgenomen benoeming van de voorzitter en de leden van het bestuur wordt schriftelijk mededeling gedaan aan de Minister van Financiën en aan de minister. De benoeming vindt slechts plaats indien de Minister van Financiën binnen een periode van acht weken na ontvangst van de kennisgeving van het voornemen daartegen geen bezwaar heeft gemaakt. De Minister van Financiën voert daarover binnen deze periode overleg met de minister.
 
-5. Activiteiten van de stichting die geen verband houden met het organiseren van speelcasino’s in Nederland, dienen vooraf te worden gemeld aan de ministers, in afschrift aan het college, behoudens in geval deze activiteiten van beperkte omvang zijn en het karakter van de stichting niet wijzigen. Voor zover deze nevenactiviteiten een omvang hebben van meer dan € 204.000,- per jaar kunnen zij slechts worden ondernomen indien binnen een periode van acht weken na ontvangst van de kennisgeving van het voornemen, daartegen door de ministers geen bezwaar is gemaakt.
+5. Activiteiten van de stichting die geen verband houden met het organiseren van speelcasino’s in Nederland, dienen vooraf te worden gemeld aan de minister, in afschrift aan het college, behoudens in geval deze activiteiten van beperkte omvang zijn en het karakter van de stichting niet wijzigen. Voor zover deze nevenactiviteiten een omvang hebben van meer dan € 204.000,- per jaar kunnen zij slechts worden ondernomen indien binnen een periode van acht weken na ontvangst van de kennisgeving van het voornemen, daartegen door de minister geen bezwaar is gemaakt.
 
-Ten aanzien van activiteiten van de stichting die betrekking hebben op buitenlandse casino’s dient in de overeenkomst een voorbehoud te worden gemaakt met betrekking tot goedkeuring door de ministers.
+Ten aanzien van activiteiten van de stichting die betrekking hebben op buitenlandse casino’s dient in de overeenkomst een voorbehoud te worden gemaakt met betrekking tot goedkeuring door de minister.
 
-6. Voorzieningen in het speelcasino ten behoeve van de bezoekers die geen verband houden met het organiseren van de casinospelen, dienen vooraf te worden gemeld aan de ministers en in afschrift aan het college, behoudens in geval deze voorzieningen van beperkte omvang zijn en het karakter van het speelcasino niet wijzigen.
+6. Voorzieningen in het speelcasino ten behoeve van de bezoekers die geen verband houden met het organiseren van de casinospelen, dienen vooraf te worden gemeld aan de minister en in afschrift aan het college, behoudens in geval deze voorzieningen van beperkte omvang zijn en het karakter van het speelcasino niet wijzigen.
 
 ##### Artikel 4
 
@@ -90,7 +90,7 @@ Ten aanzien van activiteiten van de stichting die betrekking hebben op buitenlan
 
 - f. Sic bo;
 
-- g. Big wheel;
+- g. Money Wheel;
 
 - h. Red dog;
 
@@ -100,19 +100,19 @@ Ten aanzien van activiteiten van de stichting die betrekking hebben op buitenlan
 
 2. De stichting stelt een spelreglement op betreffende de wijze waarop de in het eerste lid bedoelde casinospelen worden gespeeld.
 
-3. In de speelcasino’s kunnen ook andere casinospelen dan de in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009234&artikel=4&z=2005-07-16&g=2005-07-16), bedoelde casinospelen worden georganiseerd teneinde de exploitatiemogelijkheden hiervan te beproeven. Van de voorgenomen proefopstelling wordt voor de plaatsing door de stichting mededeling gedaan aan de ministers, in afschrift aan het college.
+3. In de speelcasino’s kunnen ook andere casinospelen dan de in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009234&artikel=4&z=2006-04-01&g=2006-04-01), bedoelde casinospelen worden georganiseerd teneinde de exploitatiemogelijkheden hiervan te beproeven. Van de voorgenomen proefopstelling wordt voor de plaatsing door de stichting mededeling gedaan aan de minister, in afschrift aan het college.
 
-4. De proefperiode bedraagt ten hoogste een jaar. Uiterlijk drie maanden voor het verstrijken van de periode wordt door de stichting aan de ministers en in afschrift aan het college verslag gedaan van de bevindingen inzake de proefopstelling.
+4. De proefperiode bedraagt ten hoogste een jaar. Uiterlijk drie maanden voor het verstrijken van de periode wordt door de stichting aan de minister en in afschrift aan het college verslag gedaan van de bevindingen inzake de proefopstelling.
 
-5. De stichting beëindigt de proefopstelling op aanwijzing daartoe van de ministers.
+5. De stichting beëindigt de proefopstelling op aanwijzing daartoe van de minister.
 
-6. De proefperiode kan door de ministers met ten hoogste zes maanden worden verlengd.
+6. De proefperiode kan door de minister met ten hoogste zes maanden worden verlengd.
 
 ##### Artikel 5
 
-1. De inzet per speelkans bij de in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009234&artikel=4&z=2005-07-16&g=2005-07-16) bedoelde casinospelen varieert van € 5,- tot € 10.000,-.
+1. De inzet per speelkans bij de in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009234&artikel=4&z=2006-04-01&g=2006-04-01) bedoelde casinospelen varieert van € 5,- tot € 10.000,-.
 
-2. De stichting draagt in elk speelcasino afzonderlijk zorg voor ten minste één casinospel als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009234&artikel=4&z=2005-07-16&g=2005-07-16), waarbij de minimuminzet niet meer dan € 5,- bedraagt.
+2. De stichting draagt in elk speelcasino afzonderlijk zorg voor ten minste één casinospel als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009234&artikel=4&z=2006-04-01&g=2006-04-01), waarbij de minimuminzet niet meer dan € 5,- bedraagt.
 
 3. In afwijking van het eerste lid zal de stichting in elk casino één of meer casinospelen aanbieden, waarbij de inzet € 2,- of lager is;
 
@@ -142,11 +142,13 @@ Ten aanzien van activiteiten van de stichting die betrekking hebben op buitenlan
 
 ##### Artikel 7
 
-1. De mechanische, elektrische en elektronische processen die gebezigd worden bij de deelneming, prijsbepaling en vaststelling van de winnaars van de krachtens deze vergunning georganiseerde casinospelen, zijn onderworpen aan een voorafgaande goedkeuring en periodieke controle door een door de ministers aangewezen onafhankelijke deskundige of keuringsinstelling.
+1. De mechanische, elektrische en elektronische processen die gebezigd worden bij de deelneming, prijsbepaling en vaststelling van de winnaars van de krachtens deze vergunning georganiseerde casinospelen, zijn onderworpen aan een voorafgaande goedkeuring en periodieke controle door een door de minister aangewezen onafhankelijke deskundige of keuringsinstelling.
 
 2. Het onderzoek van de overeenkomstig het eerste lid aangewezen deskundige of keuringsinstelling geschiedt met het oog op de controle en het toezicht op de naleving van de vergunningsvoorwaarden en voorschriften met betrekking tot het voorkomen van fraude en misbruik en dient er mede op te zijn gericht dat de grootst mogelijke garantie wordt geboden tegen aantasting van het toevalskarakter van de door de stichting aangeboden spelen.
 
-3. Het verslag van bevindingen betreffende de periodieke controle door de overeenkomstig het eerste lid aangewezen deskundige of keuringsinstelling wordt uiterlijk twee maanden na afloop van een kalenderjaar door de stichting ter kennis gebracht van de ministers en het college.
+3. Het verslag van bevindingen betreffende de periodieke controle door de overeenkomstig het eerste lid aangewezen deskundige of keuringsinstelling wordt uiterlijk twee maanden na afloop van een kalenderjaar door de stichting ter kennis gebracht van de minister en het college.
+
+4. De kosten verbonden aan de in het eerste lid bedoelde goedkeuring en controle zijn voor rekening van de stichting.
 
 ##### Artikel 8
 
@@ -190,11 +192,13 @@ Ten aanzien van activiteiten van de stichting die betrekking hebben op buitenlan
 
 8. Meerdere kansspelautomaten kunnen worden bestuurd door één centraal computersysteem, waarbij het proces door de speler in werking wordt gesteld.
 
-9. Het is de stichting toegestaan tijdens te organiseren toernooien kansspelautomaten tijdelijk aan te bieden in toernooivorm, volgens door de stichting op te stellen regels, welke voldoen aan de eisen van [artikel 8, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0009234&artikel=8&z=2005-07-16&g=2005-07-16), en i en het tweede lid van de beschikking.
+9. Het is de stichting toegestaan tijdens te organiseren toernooien kansspelautomaten tijdelijk aan te bieden in toernooivorm, volgens door de stichting op te stellen regels, welke voldoen aan de eisen van [artikel 8, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0009234&artikel=8&z=2006-04-01&g=2006-04-01), en i en het tweede lid van de beschikking.
 
 De overige bepalingen van lid 8 zijn niet van toepassing. De regels zijn ter inzage voor de bezoekers van het speelcasino en dienen ter kennis te worden gebracht van het college.
 
-10. Het is de stichting toegestaan ‘altijd-prijs-automaten’ aan te bieden voor promotionele doeleinden, volgens door de stichting op te stellen regels, waarbij de speler geen inzet behoeft te doen anders dan met uitgereikte penning en waarbij de uitkering geschiedt in de vorm van prijzen in natura. De maximumhoogte van een te winnen prijs in natura wordt vastgesteld op € 150,- [Artikel 8, eerste lid, onder d, e, f en j](https://wetten.overheid.nl/jci1.3:c:BWBR0009234&artikel=8&z=2005-07-16&g=2005-07-16), is niet van toepassing. De regels zijn ter inzage voor de bezoekers van het speelcasino en dienen ter kennisneming te worden toegezonden aan het college.
+10. Het is de stichting toegestaan ‘altijd-prijs-automaten’ aan te bieden voor promotionele doeleinden, volgens door de stichting op te stellen regels, waarbij de speler geen inzet behoeft te doen anders dan met uitgereikte penning en waarbij de uitkering geschiedt in de vorm van prijzen in natura. De maximumhoogte van een te winnen prijs in natura wordt vastgesteld op € 150,- [Artikel 8, eerste lid, onder d, e, f en j](https://wetten.overheid.nl/jci1.3:c:BWBR0009234&artikel=8&z=2006-04-01&g=2006-04-01), is niet van toepassing. De regels zijn ter inzage voor de bezoekers van het speelcasino en dienen ter kennisneming te worden toegezonden aan het college.
+
+11. Het is de stichting toegestaan in de periode van 1 mei 2006 tot en met 1 mei 2007, uitsluitend in het speelcasino te Eindhoven, tevens inworp en uitbetaling te doen plaatsvinden in de vorm van tegoeden op een geldige door de stichting uitgegeven chipkaart.
 
 ##### Artikel 9
 
@@ -208,7 +212,7 @@ Het is de stichting toegestaan ten behoeve van promotionele acties extra prijzen
 
 ##### Artikel 9b
 
-1. De stichting kan bij casinospelen of kansspelautomaten prijzen in annuïteiten uitkeren, mits het uit te keren prijsbedrag wordt gekapitaliseerd in een contante waarde en de aanspraak daarop wordt ondergebracht bij een financiële instelling als bedoeld in artikel 1, eerste lid, onder a, onderdeel 1 tot en met onderdeel 3, van de Wet identificatie bij financiële dienstverlening 1993;
+1. De stichting kan bij casinospelen of kansspelautomaten prijzen in annuïteiten uitkeren, mits het uit te keren prijsbedrag wordt gekapitaliseerd in een contante waarde en de aanspraak daarop wordt ondergebracht bij een financiële instelling als bedoeld in de [Wet identificatie bij dienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0006330).
 
 2. Het uitloven van prijzen in annuïteiten is slechts toegestaan indien de speler de keuze heeft om bij soortgelijke casinospelen of kansspelautomaten mee te dingen naar prijzen in geld of in natura met een vergelijkbare waarde als de prijzen in annuïteiten.
 
@@ -216,7 +220,7 @@ Het is de stichting toegestaan ten behoeve van promotionele acties extra prijzen
 
 ##### Artikel 10
 
-1. De stichting treft de maatregelen en voorzieningen die noodzakelijk zijn voor een behoorlijk toezicht op de toegang tot het speelcasino en die noodzakelijk zijn voor het handhaven van de orde en rust in de speelzaal. Voor zover hiervoor gebruik wordt gemaakt van beveiligingsbeambten zijn deze gediplomeerd overeenkomstig artikel 16, eerste lid, van de Regeling particuliere beveiligingsorganisaties (Stcrt. 1992, 232).
+1. De stichting treft de maatregelen en voorzieningen die noodzakelijk zijn voor een behoorlijk toezicht op de toegang tot het speelcasino en die noodzakelijk zijn voor het handhaven van de orde en rust in de speelzaal. Voor zover hiervoor gebruik wordt gemaakt van beveiligingsbeambten zijn deze gediplomeerd overeenkomstig de [Regeling particuliere beveiligingsorganisaties en recherchebureaus](https://wetten.overheid.nl/jci1.3:c:BWBR0010256).
 
 2. De stichting stelt een reglement op met regels die door bezoekers in acht moeten worden genomen bij de toegang tot het speelcasino en het verblijf in de speelzaal.
 
@@ -242,11 +246,7 @@ Het is de stichting toegestaan ten behoeve van promotionele acties extra prijzen
 
 ##### Artikel 11
 
-1. Het entreebewijs wordt door de stichting slechts afgegeven nadat de identiteit en de leeftijd van de bezoeker op deugdelijke wijze zijn vastgesteld en na betaling van het verschuldigde entreebedrag.
-
-2. Het eerste lid is niet van toepassing op Holland Casino Schiphol Airport.
-
-Onverminderd het bepaalde in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009234&artikel=12&z=2005-07-16&g=2005-07-16), krijgen bezoekers krijgen aldaar toegang tot het speelcasino op vertoon van hun instapkaart.
+Het entreebewijs wordt door de stichting slechts afgegeven nadat de identiteit en de leeftijd van de bezoeker op deugdelijke wijze zijn vastgesteld en na betaling van het verschuldigde entreebedrag.
 
 ##### Artikel 12
 
@@ -276,7 +276,7 @@ Onverminderd het bepaalde in [artikel 12, eerste lid](https://wetten.overheid.nl
 
 - c. adviseurs van de stichting;
 
-- d. de door de ministers overeenkomstig [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009234&artikel=7&z=2005-07-16&g=2005-07-16), aangewezen onafhankelijke deskundige of keuringsinstelling, alsmede de personen in dienst van de keuringsinstelling die zijn belast met goedkeuring en controle als bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009234&artikel=7&z=2005-07-16&g=2005-07-16);
+- d. de door de minister overeenkomstig [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009234&artikel=7&z=2006-04-01&g=2006-04-01), aangewezen onafhankelijke deskundige of keuringsinstelling, alsmede de personen in dienst van de keuringsinstelling die zijn belast met goedkeuring en controle als bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009234&artikel=7&z=2006-04-01&g=2006-04-01);
 
 - e. de instelling aangewezen bij beschikking van 25 april 1989, Stcrt.82, en de personen aangewezen bij beschikking van 1 juni 1989, Stcrt. 214;
 
@@ -296,7 +296,7 @@ Onverminderd het bepaalde in [artikel 12, eerste lid](https://wetten.overheid.nl
 
 1. De stichting draagt zorg voor een evenwichtig beleid op het gebied van de kansspelverslaving en treft de maatregelen en voorzieningen die nodig zijn om onmatige deelneming aan de door de stichting georganiseerde kansspelen zoveel mogelijk te voorkomen.
 
-2. De stichting draagt zorg voor een evenwichtig beleid op het gebied van de wervings- en reclameactiviteiten en neemt daarbij de haar door de ministers gegeven aanwijzingen in acht.
+2. De stichting draagt zorg voor een evenwichtig beleid op het gebied van de wervings- en reclameactiviteiten en neemt daarbij de haar door de minister gegeven aanwijzingen in acht.
 
 ##### Artikel 16
 
@@ -306,13 +306,15 @@ Onverminderd het bepaalde in [artikel 12, eerste lid](https://wetten.overheid.nl
 
 ##### Artikel 17
 
-1. De netto-opbrengst van de krachtens deze vergunning georganiseerde speelcasino’s wordt gevormd door het verschil tussen de bruto-opbrengst, zijnde het totaal van de door de deelnemers bijeengebrachte inleg, en de som van de voor prijzen bestemde bedragen en de exploitatiekosten van de stichting.
+1. De netto-opbrengst van alle krachtens deze vergunning georganiseerde activiteiten, zijnde het verschil tussen de bruto-opbrengst en de som van de voor prijzen bestemde bedragen en de exploitatiekosten, wordt, nadat ten laste daarvan nog een eventuele door de Minister van Financiën goed te keuren reservering ten behoeve van het eigen vermogen is gebracht en voorzover de liquiditeit zulks toelaat, afgedragen aan de Staat.
 
-2. Onder de netto-opbrengst wordt mede begrepen de anders dan uit de krachtens deze vergunning georganiseerde speelcasino’s verworven inkomsten.
+2. De stichting zendt binnen één maand na het einde van elk kwartaal aan de minister en aan het college een verslag betreffende het financiële verloop, alsmede andere door de minister noodzakelijk geachte gegevens.
+
+3. De stichting verstrekt desgevraagd aan de minister alle gevraagde inlichtingen, desgewenst voorzien van een accountantsverklaring.
 
 ##### Artikel 18
 
-1. Onder de in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0009234&artikel=17&z=2005-07-16&g=2005-07-16) bedoelde netto-opbrengst van de speelcasino’s worden mede begrepen de door het speelzaalpersoneel ontvangen fooien.
+1. Onder de in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0009234&artikel=17&z=2006-04-01&g=2006-04-01) bedoelde netto-opbrengst van de speelcasino’s worden mede begrepen de door het speelzaalpersoneel ontvangen fooien.
 
 2. In de administratie van het betrokken speelcasino wordt een afzonderlijke rekening aangehouden voor de vermelding van het volledig bedrag van de ontvangen en aan het speelzaalpersoneel uitbetaalde fooien.
 
@@ -320,43 +322,39 @@ Onverminderd het bepaalde in [artikel 12, eerste lid](https://wetten.overheid.nl
 
 ##### Artikel 19
 
-Uit de netto-opbrengst van de gezamenlijke speelcasino’s kan ten behoeve van de continuïteit van de exploitatie een reservering betreffende het eigen vermogen worden gevormd. De omvang van deze reservering behoeft de goedkeuring van de Minister van Economische Zaken en van de Minister van Financiën.
+De stichting stelt na afloop van elk boekjaar een jaarrekening en een jaarverslag op welke voldoen aan de eisen gesteld in [Boek 2, Titel 9, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9). Binnen acht weken na vaststelling van de jaarrekening, zendt het bestuur van de stichting kopieën van de jaarrekening, het jaarverslag, het accountantsverslag en de accountantsverklaring aan de minister en aan het college.
 
 ##### Artikel 20
 
-1. De aan de Staat toekomende netto-opbrengst van de gezamenlijke speelcasino’s, waarin de resultaten van de onderscheiden speelcasino’s zijn gecompenseerd, wordt voor zover de liquiditeit zulks toelaat, binnen zes weken na het einde van elk kwartaal afgedragen.
+1. Het bestuur van de stichting zendt een afschrift van het beleidsplan aan de minister.
 
-2. De stichting zendt binnen één maand na het einde van elk kwartaal aan de ministers, aan de Minister van Financiën en aan het college, een verslag betreffende het financiële verloop, alsmede andere door de ministers noodzakelijk geachte gegevens, over dat kwartaal.
+2. Indien verschillen van mening bestaan tussen de minister en de stichting ten aanzien van de algemene lijnen van het door de stichting te voeren beleid, met uitzondering van het financiële beleid, volgt de stichting de aanwijzingen van de minister op.
 
 ##### Artikel 21
 
-1. De stichting verstrekt desgevraagd aan de ministers alle gevraagde inlichtingen, desgewenst voorzien van een accountantsverklaring.
+1. De door de minister aangewezen ambtenaren en andere personen zijn bevoegd inlichtingen van de stichting te vorderen, voor zover dat voor de vervulling van hun taak redelijkerwijs nodig is.
 
-2. Het verschil tussen de netto-opbrengst volgens de vastgestelde jaarrekening en de op dat kalenderjaar betrekking hebbende kwartaalafdrachten ingevolge [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009234&artikel=20&z=2005-07-16&g=2005-07-16), wordt uiterlijk binnen één maand na de goedkeuring van de jaarrekening afgedragen.
+2. De in het eerste lid bedoelde ambtenaren en andere personen zijn bevoegd inzage te vorderen van zakelijke gegevens en bescheiden van de stichting, voor zover dat voor de vervulling van hun taak redelijkerwijs nodig is.
+
+3. Zij zijn bevoegd van de gegevens en bescheiden kopieën te maken.
+
+4. Indien het maken van kopieën niet ter plaatse kan geschieden, zijn zij bevoegd de gegevens en bescheiden voor dat doel voor korte tijd mee te nemen tegen een door hen af te geven schriftelijk bewijs.
 
 ##### Artikel 22
 
-1. De stichting stelt een jaarrekening en een jaarverslag op welke voldoen aan de eisen gesteld in [Boek 2, Titel 9, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9). De stichting volgt de aanwijzingen van de ministers op omtrent de inrichting van de jaarrekening en het jaarverslag.
-
-2. De stichting verleent aan een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393) opdracht tot onderzoek van de jaarrekening. De uitslag van dit onderzoek wordt weergegeven in een verslag en een verklaring als bedoeld in onderscheidenlijk het [vierde en het vijfde lid van artikel 393 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393).
-
-3. De stichting voert een zodanig beheer dat een goedkeurende verklaring als bedoeld in artikel [393, vijfde lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393) kan worden afgegeven.
-
-4. Binnen vier maanden na afloop van een kalenderjaar zendt de stichting de jaarrekening met het verslag en de verklaring, alsmede het jaarverslag aan de ministers, de Minister van Financiën en het college.
+Na de inwerkingtreding van deze beschikking berusten de krachtens de Beschikking casinospelen 1996 (Stcrt. 1996, 92) vastgestelde besluiten op deze beschikking.
 
 ##### Artikel 23
 
-De stichting stelt een sociaal jaarverslag op. Binnen vier maanden na afloop van een kalenderjaar zendt de stichting het sociaal jaarverslag aan de ministers en het college.
+De Beschikking casinospelen 1996 (Stcrt. 1996, 92) wordt ingetrokken.
 
 ##### Artikel 24
 
-1. De stichting stelt voor aanvang van een kalenderjaar een exploitatie- en investeringsbegroting op die zij ter kennis brengt aan de Minister van Economische Zaken. De stichting volgt terzake de aanwijzingen van de Minister van Economische Zaken op.
-
-2. Indien verschillen van mening bestaan tussen de Minister en de stichting ten aanzien van het door de stichting te voeren beleid, waaronder het financieel beleid, volgt de stichting de aanwijzingen van de Minister van Economische Zaken op.
+Deze Beschikking treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
 ##### Artikel 25
 
-De kosten verbonden aan goedkeuring, controle en onderzoek ingevolge de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0009234&artikel=7&z=2005-07-16&g=2005-07-16) en [22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009234&artikel=22&z=2005-07-16&g=2005-07-16), zijn voor rekening van de stichting.
+Deze Beschikking wordt aangehaald als: Beschikking casinospelen 1996.
 
 ##### Artikel 26
 
