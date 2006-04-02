@@ -137,9 +137,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 Deze regeling wordt aangehaald als: Regeling luchtvaartheffingen.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 1a
-
-Deze regeling berust op de [artikelen 8a.39, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8a.39), [8a.41](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8a.41), en [8a.42, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8a.42), en [artikel 22 van het Besluit burgerluchthavens](https://wetten.overheid.nl/jci1.3:c:BWBR0026525&artikel=22).
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
