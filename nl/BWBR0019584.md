@@ -4,7 +4,7 @@ identifier: "BWBR0019584"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2013-12-15"
-last_updated: "2006-02-23"
+last_updated: "2006-04-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019584"
 soort: "ministeriele-regeling"
@@ -112,13 +112,15 @@ Het totale bedrag van de op grond van deze regeling te verlenen uitkeringen bedr
 
 ##### Artikel 5. Aanvraag uitkering
 
-1. De aanvraag voor een uitkering wordt aan de minister gericht en ingediend bij het Directoraat Generaal Personenvervoer.
+1. Een gemeente die een aanvraag voor een uitkering wil indienen, maakt dit voor 1 mei 2006 schriftelijk kenbaar aan de minister.
 
-2. De aanvraag bevat ten minste een volledig ingevuld aanvraagformulier, zoals opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019584&bijlage=1&z=2006-02-23&g=2006-02-23) van deze regeling en is ondertekend door het bestuur van de gemeente.
+2. De aanvraag voor een uitkering wordt aan de minister gericht en ingediend bij het Directoraat Generaal Personenvervoer.
 
-3. De minister kan bepalen dat er in aanvulling op de in het tweede lid bedoelde gegevens, andere voor de beoordeling van de aanvraag noodzakelijke gegevens worden overgelegd.
+3. De aanvraag bevat ten minste een volledig ingevuld aanvraagformulier, zoals opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019584&bijlage=1&z=2006-04-06&g=2006-04-06) van deze regeling en is ondertekend door het bestuur van de gemeente.
 
-4. De aanvraag wordt ingediend vóór 1 juni 2006.
+4. De minister kan bepalen dat er in aanvulling op de in het derde lid bedoelde gegevens, andere voor de beoordeling van de aanvraag noodzakelijke gegevens worden overgelegd.
+
+5. De aanvraag wordt ingediend vóór 1 juni 2006.
 
 ##### Artikel 6. Niet voor uitkering in aanmerking komen
 
@@ -138,7 +140,7 @@ Het totale bedrag van de op grond van deze regeling te verlenen uitkeringen bedr
 
 ##### Artikel 7. Procedure
 
-1. Na het verstrijken van de periode van indiening, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0019584&artikel=5&z=2006-02-23&g=2006-02-23), worden de aanvragen in rangorde geplaatst. Daarbij worden de aanvragen beoordeeld naar de mate waarin de voorgestelde projecten voldoen aan de volgende criteria:
+1. Na het verstrijken van de periode van indiening, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0019584&artikel=5&z=2006-04-06&g=2006-04-06), worden de aanvragen in rangorde geplaatst. Daarbij worden de aanvragen beoordeeld naar de mate waarin de voorgestelde projecten voldoen aan de volgende criteria:
 
 - a. de bijdrage aan stedelijke bereikbaarheid;
 
@@ -148,7 +150,7 @@ Het totale bedrag van de op grond van deze regeling te verlenen uitkeringen bedr
 
 - d. de bijdrage aan het spoorgebruik.
 
-2. De criteria bedoeld in het eerste lid, zijn nader uitgewerkt in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019584&bijlage=2&z=2006-02-23&g=2006-02-23) bij deze regeling.
+2. De criteria bedoeld in het eerste lid, zijn nader uitgewerkt in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019584&bijlage=2&z=2006-04-06&g=2006-04-06) bij deze regeling.
 
 3. Om in de rangorde te kunnen worden opgenomen dient het project in ieder geval een bijdrage te leveren aan de stedelijke bereikbaarheid en een bijdrage aan een van de andere criteria bedoeld in het eerste lid.
 
@@ -212,61 +214,127 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 
 Deze regeling wordt aangehaald als: Regeling eenmalige uitkering spoorse doorsnijdingen.
 
-## Bijlage 1. als bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019584&artikel=5&z=2006-02-23&g=2006-02-23)
+## Bijlage 1. als bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019584&artikel=5&z=2006-04-06&g=2006-04-06), van de Regeling eenmalige uitkering spoorse doorsnijdingen
 
-De aanvraag kan gericht worden aan de minister onder vermelding van ‘Aanvraag eenmalige uitkering spoorse doorsnijdingen’.
+## Bijlage 2. als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019584&artikel=7&z=2006-02-23&g=2006-02-23)
+
+### **A. Stedelijke bereikbaarheid**
+
+Minister van Verkeer en Waterstaat
+
+### **B. Kwaliteit leefomgeving**
+
+Directie Spoor
+
+### **C. Veiligheid**
+
+### **D. Spoorgebruik**
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+De aanvraag wordt gericht aan de minister onder vermelding van ‘aanvraag eenmalige uitkering spoorse doorsnijdingen’.
 
 Postadres:
 
-Ministerie van Verkeer en Waterstaat
-
 Directoraat-Generaal Personenvervoer
-
-Directie Spoor
 
 Postbus 20901
 
 2500 EX Den Haag
 
-De aanvraag dient in ieder geval de volgende algemene informatie te bevatten:
+Bij de indiening van de aanvraag dient gebruik gemaakt te worden van onderstaand format. De minister gebruikt bij de beoordeling van de aanvraag de informatie zoals is vermeld in dit format.
 
-Naam gemeente: …………………
+Bij de invulling van het format dient de gemeente:
 
-Naam en functie contactpersoon: ………………………………………
+Informatie die niet in het format opgenomen is, wordt niet meegenomen in de beoordeling.
 
-Betrokken partners:
+De aanvraag dient door het bestuur van de gemeente ondertekend te worden. Zij staat garant voor de juistheid van de informatie in deze aanvraag.
 
-Bezoekadres: …………………………
+Een ondertekende aanvraag bestaande uit het format en eventueel onderliggende stukken dient in tweevoud te worden ingediend. Daarnaast dient een elektronische kopie van de aanvraag en eventuele onderliggende stukken te worden bijgevoegd.
 
-Postadres: ……………………………
+### Het format
 
-Postcode: …… Plaats: ………………
+Naam gemeente
 
-Telefoon: ……… Mobiel: …………
+Naam en functie contactpersoon
 
-Fax: ……. E-mail: …………………
+Betrokken partners
 
-Ook moet naast het plan als bedoeld in [artikel 1, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0019584&artikel=1&z=2006-02-23&g=2006-02-23), een aantal projectgegevens worden geleverd:
+Bezoekadres
 
-- –. Een beschrijving van het project alsmede het doel waaraan het project moet bijdragen.
+Postadres
 
-- –. Een beschrijving van de uitvoeringswerkzaamheden die met het project samenhangen.
+Postcode
 
-- –. In hoeverre voldoet het project aan de criteria en de daaronder benoemde elementen zoals weergegeven in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019584&bijlage=2&z=2006-02-23&g=2006-02-23). Hierbij wordt een kwantitatieve onderbouwing verwacht.
+Plaats
 
-- –. Welke procedures moeten nog worden doorlopen om het project ten uitvoer te brengen. Hoe verloopt het besluitvormingsproces en wat is de doorlooptijd van deze procedures.
+Telefoonnummer
 
-- –. Een gedegen financiële onderbouwing van het project, waarin in ieder geval is opgenomen:
+Fax
 
-- a. Wat de kosten zijn voor het project;
+E-mail
 
-- b. Welke partijen welk bedrag (procentueel en absoluut) dragen;
+### **A. Criterium ‘stedelijke bereikbaarheid’**
 
-- c. Wat de gevraagde bijdrage van V&W is (procentueel en absoluut);
+In hoeverre worden nieuwe of bestaande woonwijken beter ontsloten?
 
-- d. Voor welke jaren de uitkering wordt aangevraagd.
+Hierbij wordt een kwalitatieve beschrijving verwacht als mede een kwantitatieve aanduiding uitgedrukt in omrijtijd en reistijd.
 
-## Bijlage 2. als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019584&artikel=7&z=2006-02-23&g=2006-02-23)
+In hoeverre worden stedelijke voorzieningen beter ontsloten?
+
+Hierbij moet worden aangegeven om welke voorzieningen het gaat en, voorzover bekend, om hoeveel gebruikers het gaat.
+
+In hoeverre wordt de relatie tussen functioneel samenhangende stedelijke gebieden verbeterd?
+
+Hierbij moet worden aangegeven om welke samenhang het gaat en, indien bekend, om hoeveel gebruikers het gaat.
+
+In hoeverre wordt de capaciteit en doorstroming van het onderliggende wegennet verbeterd?
+
+Dit dient te worden uitgedrukt in wachttijden voor weggebruikers, onder te verdelen in gemotoriseerde voertuigen (behalve bromfietsen) en andere weggebruikers. Hierbij dient zowel de huidige als de toekomstige situatie te worden beschreven.
+
+### **B. Criterium ‘kwaliteit leefomgeving’**
+
+Is er sprake van een geluidssituatie waarbij de wettelijke normen worden overtreden? Verandert deze situatie als gevolg van realisatie van het project? Gaat het hier om een verhoging of verlaging van de geluidsoverlast? Voor hoeveel woningen, geluidsgevoelige bestemmingen, en geluidsgehinderden is dit het geval?
+
+Is er sprake van een geluidssituatie binnen de wettelijke normen? Verandert deze situatie als gevolg van de realisatie van het project? Gaat het hier om een verhoging of verlaging van de geluidsoverlast? Voor hoeveel woningen, geluidsgevoelige bestemmingen, en geluidsgehinderden is dit het geval?
+
+In hoeverre is er sprake van overlast voor de omgeving als gevolg van trillingen? In welke mate wijzigt dit door maatregelen uit het project.
+
+In hoeverre leiden de maatregelen uit het project tot een verandering van de luchtkwaliteit?
+
+Wat is het effect van het project op de sociale veiligheid in het plangebied?
+
+In hoeverre is er draagvlak voor het project bij de inwoners en maatschappelijke organisaties?
+
+Hoe beïnvloedt het project de economische ontwikkeling van het plangebied?
+
+Hoe beïnvloedt het project de toekomstige stedelijke ontwikkelingen?
+
+### **C. Criterium veiligheid**
+
+Wat is het effect van het project op de ongevalskans op overwegen in het plangebied?
+
+In welke mate draagt het project bij aan het verhinderen van vandalisme op en om het spoor?
+
+In welke mate draagt het project bij aan het verhinderen van suïcide op en om het spoor?
+
+Wat is het effect van het project op de bereikbaarheid van het spoor (voor hulpdiensten en als vluchtwegen)?
+
+Wat is het effect van het project op de veiligheid op het omliggende wegennet?
+
+### **D. Spoorgebruik**
+
+In hoeverre is de toekomstvastheid en duurzaamheid van het spoorsysteem geborgd?
+
+Wat is het effect van het project op:
+
+Deze vraag dient zowel voor de nieuwe situatie na realisatie als voor de tijdelijke situatie tijdens de realisatie beantwoord te worden.
+
+Wat is het effect van de maatregelen op de kosten van beheer en instandhouding van de spoorweginfrastructuur?
+
+Opmerking: Indien het niet mogelijk is deze gegevens voor 1 juni 2006 te leveren, zullen deze op verzoek van de minister ten behoeve van de beoordeling door ProRail worden bepaald.
+
+## Bijlage 2. als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019584&artikel=7&z=2006-04-06&g=2006-04-06)
 
 ### **A. Stedelijke bereikbaarheid**
 
