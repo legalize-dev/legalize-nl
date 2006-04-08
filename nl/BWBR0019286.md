@@ -4,7 +4,7 @@ identifier: "BWBR0019286"
 country: "nl"
 rank: "wet"
 publication_date: "2008-01-01"
-last_updated: "2006-01-01"
+last_updated: "2006-04-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019286"
 soort: "wet"
@@ -44,7 +44,7 @@ Wijzigt de Wet inkomstenbelasting 2001.
 
 ##### Artikel II
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet inkomstenbelasting 2001.
 
 ##### Artikel III
 
@@ -64,7 +64,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de vennootschapsbelasting 1969.
 
 ##### Artikel VII
 
