@@ -4,7 +4,7 @@ identifier: "BWBR0019305"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-09-01"
-last_updated: "2005-12-29"
+last_updated: "2006-04-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019305"
 soort: "ministeriele-regeling"
@@ -42,7 +42,7 @@ Besluit:
 
 ##### Artikel 1. Definities
 
-Voor de toepassing van deze regeling wordt verstaan onder:
+In deze regeling wordt verstaan onder:
 
 **CWI**: Centrale organisatie werk en inkomen, genoemd in [hoofdstuk 4 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=4);
 
@@ -50,13 +50,15 @@ Voor de toepassing van deze regeling wordt verstaan onder:
 
 **resterende verdiencapaciteit**: de resterende verdiencapaciteit, bedoeld in [paragraaf 7.2 van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&paragraaf=7.2);
 
+**uitkeringsgerechtigde**: de verzekerde die zijn resterende verdiencapaciteit als bedoeld in [paragraaf 7.2 van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&paragraaf=7.2) niet volledig benut of de werknemer;
+
 **UWV**: Uitvoeringsinstituut werknemersverzekeringen, genoemd in [hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5);
 
-**verzekerde**: de verzekerde, bedoeld in de [Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057);
+**verzekerde**: de verzekerde, bedoeld in de [Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057), die recht heeft op een WGA-uitkering;
 
 **vrijwilligerswerk**: onbetaalde en onverplichte activiteiten binnen een organisatie die een ideële doelstelling heeft of een maatschappelijk nut nastreeft, welke activiteiten doorgaans een aanvullend karakter hebben op bestaande maatschappelijke voorzieningen;
 
-**werknemer**: de werknemer, bedoeld in [hoofdstuk 1, paragraaf 2 van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&paragraaf=2);
+**werknemer**: de werknemer, bedoeld in [hoofdstuk 1, paragraaf 2, van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&paragraaf=2), die recht heeft op een WW-uitkering;
 
 **Wet WIA**: [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057);
 
@@ -70,7 +72,7 @@ Van de verplichtingen, bedoeld in [artikel 30, eerste lid, van de Wet WIA](https
 
 ##### Artikel 3. Vrijstelling in verband met vorst en arbeidstijdverkorting
 
-1. Van de verplichting zich als werkzoekende te laten registreren bij de CWI, bedoeld in [artikel 26, eerste lid, onderdeel d, van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=26), en van de verplichtingen gericht op arbeidsinpassing, bedoeld in [artikel 24, eerste lid, onderdeel b, onder 1°, 2° en 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=24), en [artikel 26, eerste lid, onderdeel f en g, van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=26), is vrijgesteld de werknemer wiens werkloosheid uitsluitend een gevolg is van:
+1. Van de verplichtingen, bedoeld in de [artikelen 24, eerste lid, onderdeel b, onder 1°, 2° en 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=24), en [26, eerste lid, onderdelen d, f en g, van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=26), is vrijgesteld de werknemer wiens werkloosheid uitsluitend een gevolg is van:
 
 - a. vorst, sneeuwval, hoog water of daarmee gelijk te stellen buitengewone natuurlijke omstandigheden; of
 
@@ -80,9 +82,9 @@ Van de verplichtingen, bedoeld in [artikel 30, eerste lid, van de Wet WIA](https
 
 ##### Artikel 4. Vrijstelling in verband met vakantie
 
-1. Van de verplichting zich als werkzoekende te laten registreren bij de CWI, bedoeld in [artikel 26, eerste lid, onderdeel d, van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=26), en van de verplichtingen gericht op arbeidsinpassing, bedoeld in [artikel 24, eerste lid, onderdeel b, onder 1°, 2° en 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=24), en [artikel 26, eerste lid, onderdeel f en g, van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=26), is vrijgesteld de werknemer die met behoud van zijn recht op uitkering op grond van de [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) vakantie geniet als bedoeld in [artikel 1, eerste lid, van de Vakantieregeling WW](https://wetten.overheid.nl/jci1.3:c:BWBR0016004&artikel=1).
+1. Van de verplichtingen, bedoeld in de [artikelen 24, eerste lid, onderdeel b, onder 1°, 2° en 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=24), en [26, eerste lid, onderdelen d, f en g, van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=26), is vrijgesteld de werknemer die met behoud van zijn recht op uitkering op grond van de WW vakantie geniet als bedoeld in [artikel 1, eerste lid, van de Vakantieregeling WW](https://wetten.overheid.nl/jci1.3:c:BWBR0016004&artikel=1).
 
-2. Van de verplichting gericht op arbeidsinpassing als bedoeld in [artikel 30, eerste lid, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=30) is vrijgesteld de verzekerde die zijn resterende verdiencapaciteit niet volledig benut en die vakantie geniet tot een maximum van 20 werkdagen per jaar waarbij onder werkdagen wordt verstaan de dagen maandag tot en met vrijdag.
+2. Van de verplichtingen, bedoeld in [artikel 30, eerste lid, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=30), is vrijgesteld de verzekerde die zijn resterende verdiencapaciteit niet volledig benut en die vakantie geniet tot een maximum van 20 werkdagen per jaar waarbij onder werkdagen wordt verstaan de dagen maandag tot en met vrijdag.
 
 3. De verzekerde, bedoeld in het tweede lid, geniet vakantie indien:
 
@@ -90,43 +92,35 @@ Van de verplichtingen, bedoeld in [artikel 30, eerste lid, van de Wet WIA](https
 
 - b. niet verklaard heeft vakantie te genieten, maar daar, gelet op de feitelijke omstandigheden, kennelijk sprake van is.
 
-##### Artikel 5. Vrijstelling in verband met vrijwilligerswerk en mantelzorg
+##### Artikel 5. Vrijstelling in verband met vrijwilligerswerk of mantelzorg
 
-1. Van de verplichting zich als werkzoekende te laten registreren bij de CWI, bedoeld in [artikel 26, eerste lid, onderdeel d, van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=26), en van de verplichtingen gericht op arbeidsinpassing, bedoeld in [artikel 24, eerste lid, onderdeel b, onder 1°, 2° en 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=24), en [artikel 26, eerste lid, onderdeel f en g, van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=26), is vrijgesteld:
+1. Van de verplichtingen, bedoeld in de [artikelen 24, eerste lid, onderdeel b, onder 1°, 2° en 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=24), en [26, eerste lid, onderdelen d, f en g, van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=26), of [30, eerste lid, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=30), is vrijgesteld de uitkeringsgerechtigde die 57,5 jaar of ouder is op 31 december 2003, gedurende een periode van minimaal drie maanden gemiddeld ten minste 20 uur per week besteedt aan vrijwilligerswerk of mantelzorg en:
 
-- a. de werknemer die 57,5 jaar of ouder is op 31 december 2003, wiens eerste werkloosheidsdag is gelegen voor 1 januari 2004 en die gedurende een periode van minimaal drie maanden gemiddeld ten minste 20 uur per week besteedt aan vrijwilligerswerk of mantelzorg, tenzij het UWV ten behoeve van die werknemer werkzaamheden laat verrichten met als doel de bevordering van de inschakeling in het arbeidsproces; en
+- a. wiens eerste werkloosheidsdag is gelegen voor 1 januari 2004;
 
-- b. de werknemer die 57,5 jaar of ouder is op 31 december 2003, wiens eerste werkloosheidsdag is gelegen op of na 1 januari 2004 en die gedurende een periode van minimaal drie maanden gemiddeld ten minste 20 uur per week besteedt aan vrijwilligerswerk of mantelzorg indien ten minste een jaar is verstreken gerekend vanaf de eerste werkloosheidsdag, tenzij het UWV ten behoeve van die werknemer werkzaamheden laat verrichten met als doel de bevordering van de inschakeling in het arbeidsproces.
+- b. wiens eerste werkloosheidsdag is gelegen op of na 1 januari 2004, indien ten minste een jaar is verstreken gerekend vanaf de eerste werkloosheidsdag; of
 
-2. Van de verplichting gericht op arbeidsinpassing als bedoeld in [artikel 30, eerste lid, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=30) is vrijgesteld de verzekerde die zijn resterende verdiencapaciteit niet volledig benut en:
+- c. indien ten minste een jaar is verstreken gerekend vanaf de eerste dag waarop hij recht heeft op een WGA-uitkering en hij zijn resterende verdiencapaciteit niet volledig benut, tenzij het UWV ten behoeve van die uitkeringsgerechtigde werkzaamheden laat verrichten met als doel de bevordering van de inschakeling in het arbeidsproces.
 
-- a. 57,5 jaar of ouder is op 31 december 2003;
+2. De uitkeringsgerechtigde die op grond van het eerste lid is vrijgesteld van de verplichtingen, bedoeld in de aanhef van dat lid, in verband met het verrichten van mantelzorg, blijft vrijgesteld van die verplichtingen tot een maand na de dag, waarop hij die mantelzorg niet langer verricht.
 
-- b. gedurende een periode van minimaal drie maanden gemiddeld ten minste 20 uur per week besteedt aan vrijwilligerswerk of mantelzorg; en
-
-- c. indien ten minste een jaar is verstreken gerekend vanaf de eerste dag waarop hij recht heeft op een WGA-uitkering en hij zijn resterende verdiencapaciteit niet volledig benut, tenzij het UWV ten behoeve van die verzekerde werkzaamheden laat verrichten met als doel de bevordering van de inschakeling in het arbeidsproces.
-
-3. De werknemer die op grond van het eerste lid en de verzekerde die op grond van het tweede lid is vrijgesteld van de verplichtingen, bedoeld in de aanhef van de genoemde leden in verband met het verrichten van mantelzorg, blijft vrijgesteld van die verplichtingen tot een maand na de dag, waarop hij die mantelzorg niet langer verricht.
-
-4. Het UWV stelt het recht op vrijstelling, bedoeld in het eerste lid en tweede lid, op aanvraag vast.
+3. Het UWV stelt het recht op vrijstelling, bedoeld in het eerste lid, op aanvraag vast.
 
 ##### Artikel 6. Vrijstelling in verband met scholing en proefplaatsing
 
-1. Van de verplichtingen gericht op arbeidsinpassing, bedoeld in [artikel 24, eerste lid, onderdeel b, onder 1°, 2° en 4°, van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=24) en [artikel 30, eerste lid, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=30), is voor de duur van de proefplaatsing vrijgesteld, de werknemer respectievelijk de verzekerde die een naar het oordeel van het UWV noodzakelijke opleiding of scholing volgt.
+1. Van de verplichtingen, bedoeld in de [artikelen 24, eerste lid, onderdeel b, onder 1°, 2° en 4°, van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=24) of [30, eerste lid, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=30), is vrijgesteld, de uitkeringsgerechtigde die een naar het oordeel van het UWV noodzakelijke opleiding of scholing volgt.
 
 2. De in het eerste lid bedoelde vrijstelling eindigt twee maanden voor het tijdstip waarop de in het eerste lid bedoelde opleiding of scholing naar verwachting zal eindigen, tenzij de scholing, blijkens een intentieverklaring van de toekomstige werkgever, een reëel uitzicht geeft op een op de scholing aansluitende dienstbetrekking van dezelfde of grotere omvang dan de scholing en met een duur van ten minste zes maanden.
 
-3. De werknemer of de verzekerde die op een proefplaats als bedoeld in [artikel 76a van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=76a) of [artikel 37 van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=37), werkzaamheden verricht is vrijgesteld van de verplichtingen gericht op arbeidsinpassing, bedoeld in [artikel 24, eerste lid, onderdeel b, onder 1°, 2° en 4°, van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=24), respectievelijk [artikel 30 eerste lid, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=30), voorzover het andere werkzaamheden betreft dan die op de proefplaats.
+3. De uitkeringsgerechtigde die werkzaamheden verricht op een proefplaats als bedoeld in [artikel 76a van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=76a) of [artikel 37 van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=37), is vrijgesteld van de verplichtingen, bedoeld in de [artikel 24, eerste lid, onderdeel b, onder 1°, 2° en 4°, van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=24), of [30, eerste lid, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=30), voorzover het andere werkzaamheden betreft dan die op de proefplaats.
 
 ##### Artikel 7. Vrijstelling om andere redenen
 
-1. Van de verplichting zich als werkzoekende te laten registreren bij de CWI, bedoeld in [artikel 26, eerste lid, onderdeel d, van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=26), en van de verplichtingen gericht op arbeidsinpassing, bedoeld in [artikel 24, eerste lid, onderdeel b, onder 1°, 2° en 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=24), en [artikel 26, eerste lid, onderdeel f en g, van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=26), is vrijgesteld de werknemer die 64 jaar of ouder is op de eerste dag van werkloosheid.
-
-2. Van de verplichting gericht op arbeidsinpassing als bedoeld in [artikel 30, eerste lid, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=30) is vrijgesteld de verzekerde die op de eerste dag dat hij recht heeft op een WGA-uitkering, 64 jaar of ouder is en die niet zijn volledige resterende verdiencapaciteit benut.
+Van de verplichtingen, bedoeld in de [artikelen 24, eerste lid, onderdeel b, onder 1°, 2° en 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=24), en [26, eerste lid, onderdelen d, f en g, van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=26), of de verplichtingen, bedoeld in [artikel 30, eerste lid, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=30), is vrijgesteld de uitkeringsgerechtigde die 64 jaar of ouder is op de eerste dag van werkloosheid respectievelijk op de eerste dag dat hij recht heeft op een WGA-uitkering.
 
 ##### Artikel 8. Overgangsbepaling in verband met de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045)
 
-1. Van de verplichting zich als werkzoekende te laten registreren bij de CWI, bedoeld in [artikel 26, eerste lid, onderdeel d, van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=26), en van de verplichtingen gericht op arbeidsinpassing, bedoeld in [artikel 24, eerste lid, onderdeel b, onder 1°, 2° en 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=24), en [artikel 26, eerste lid, onderdeel f en g, van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=26), is tevens vrijgesteld de werknemer:
+1. Van de verplichtingen, bedoeld in de [artikelen 24, eerste lid, onderdeel b, onder 1°, 2° en 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=24), en [26, eerste lid, onderdelen d, f en g, van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=26), is vrijgesteld de werknemer:
 
 - a. die 57,5 jaar of ouder is op 1 mei 1999 en wiens eerste werkloosheidsdag gelegen is voor 1 januari 2004;
 
