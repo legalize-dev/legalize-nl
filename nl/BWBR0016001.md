@@ -4,7 +4,7 @@ identifier: "BWBR0016001"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2015-07-01"
-last_updated: "2005-12-29"
+last_updated: "2006-04-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016001"
 soort: "ministeriele-regeling"
@@ -40,7 +40,7 @@ Besluit:
 
 ##### Artikel 1. Buiten toepassing verklaring maximale herlevingstermijn
 
-De termijn van zes maanden, bedoeld in [artikel 21, derde lid, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=21) blijft buiten toepassing ten aanzien van de werknemer, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019305&artikel=6), en [7, eerste lid, van de Regeling vrijstelling verplichtingen WW en Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019305&artikel=7).
+De termijn van zes maanden, bedoeld in [artikel 21, derde lid, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=21) blijft buiten toepassing ten aanzien van de werknemer, bedoeld in de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0019305&artikel=7) en [8, eerste lid, van de Regeling vrijstelling verplichtingen WW en Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019305&artikel=8).
 
 ##### Artikel 2. Intrekking
 
