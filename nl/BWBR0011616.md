@@ -4,7 +4,7 @@ identifier: "BWBR0011616"
 country: "nl"
 rank: "amvb"
 publication_date: "2006-04-12"
-last_updated: "2006-01-01"
+last_updated: "2006-04-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011616"
 soort: "AMvB"
@@ -76,24 +76,30 @@ In dit besluit wordt verstaan onder vissersvaartuig: vissersvaartuig als bedoeld
 | s. | ontheffing van de voorschriften betreffende de visserij in de visserijzone,het zeegebied en de kustwateren: | € 176,97; |
 | t. | ontheffing van de voorschriften betreffende de minimummaten van gevangen vis, betreffende het gebruik of het voor handen hebben van vistuigen en betreffende de wateren onderscheidenlijk de tijdvakken, waar onderscheidenlijk waarin de visserij of de verhandeling van vis is verboden: | € 176,97; |
 | u. | ontheffing van de voorschriften betreffende de visserij met een electrovisapparaat: | € 68,07; |
-| v. | ontheffing van de voorschriften betreffende de visserij op bepaalde vissoorten in bepaalde wateren, betreffende de aanwezigheid aan boord en het gebruik van visnetten, betreffende de verwerking van vis aan boord en betreffende de satellietvolgapparatuur: | € 122,52. |
+| v. | ontheffing van de voorschriften betreffende de visserij op bepaalde vissoorten in bepaalde wateren, betreffende de aanwezigheid aan boord en het gebruik van vistuigen, betreffende de verwerking van vis aan boord en betreffende het maximale aantal dagen dat een vissersvaartuig in een bepaald gebied aanwezig mag zijn: | € 306,50. |
 |   |   |   |
 
-2. Voor de uitreiking van de bescheiden, bedoeld in de onderdelen a tot en met h, is degene aan wie het document is gericht het daarachter vermelde bedrag verschuldigd.
+2. Voor de uitreiking van de bescheiden, bedoeld in de onderdelen a tot en met n, is degene aan wie het document is gericht het daarachter vermelde bedrag verschuldigd:
 
-| a. | bewijs van inschrijving van een vissersvaartuig in het visserijregister: | € 272,27; |
+| a. | bewijs van inschrijving van een vissersvaartuig in het visserijregister: | € 199,50; |
 | --- | --- | --- |
-| b. | bewijs van inschrijving van een vissersvaartuig in het visserijregister na een aanpassing van de geregistreerde gegevens: | € 272,27; |
-| c. | document inzake de toekenning van een contingent van een vissoort: | € 231,43; |
-| d. | document houdende de vergunning voor zeevisserij met een vissersvaartuig: | € 122,52; |
-| e. | document inzake de toekenning van een licentie vereist voor de visserij met een vissersvaartuig: | € 195,13; |
-| f. | document houdende de toestemming tot de uitoefening van een bepaalde tak van de visserij met een vissersvaartuig in een bepaalde geografische zone binnen de communautaire wateren: | € 231,43; |
-| g. | document houdende de toestemming tot de uitoefening van een bepaalde tak van de visserij met een vissersvaartuig in een bepaalde geografische zone buiten de communautaire wateren: | € 158,82; |
-| h. | document houdende de toestemming tot de uitoefening van de visserij met een vissersvaartuig in wateren van een ander land dan een lidstaat van de Europese Unie: | € 158,82. |
+| b. | bewijs van inschrijving van een vissersvaartuig in het visserijregister na een aanpassing van de geregistreerde gegevens: | € 199,50; |
+| c. | document inzake de toekenning van een contingent van een vissoort voor een bepaald jaar: | € 132,00; |
+| d. | document inzake de wijziging van de voor een bepaald jaar toegekende contingenten tong en schol: | € 152,50; |
+| e. | document inzake de wijziging van de voor een bepaald jaar toegekende contingenten kabeljauw en wijting: | € 164,50; |
+| f. | document inzake de wijziging van het voor een bepaald jaar toegekend contingent anders dan tong, schol, kabeljauw en wijting: | € 153,50; |
+| g. | document houdende de visvergunning voor communautaire vissersvaartuigen: | € 225,50; |
+| h. | document houdende de toestemming tot de uitoefening van een bepaalde tak van de visserij met een vissersvaartuig in een bepaalde geografische zone binnen de communautaire wateren: | € 172,50; |
+| i. | document houdende vergunning voor het vissen met enig vistuig geschikt voor het vangen van garnalen (Crangon Crangon): | € 161,50; |
+| j. | document houdende toestemming tot het vissen binnen de 12-mijlszone met boomkorren met een maximale lengte van negen meter: | € 164,50; |
+| k. | document houdende toestemming voor een bepaald jaar tot het vissen binnen de 12-mijlszone met boomkorren met een lengte van meer dan negen meter: | € 161,50; |
+| l. | document inzake de wijziging van de toestemming voor een bepaald jaar tot het vissen binnen de 12-mijlszone met boomkorren met een lengte van meer dan negen meter: | € 267,00; |
+| m. | document houdende de toestemming tot de uitoefening van een bepaalde tak van de visserij met een vissersvaartuig in een bepaalde geografische zone buiten de communautaire wateren: | € 146,00; |
+| n. | document houdende de toestemming tot de uitoefening van de visserij met een vissersvaartuig in wateren van een ander land dan een lidstaat van de Europese Unie: | € 146,00. |
 
 ##### Artikel 3
 
-Indien op aanvraag voor één handeling twee of meer verschillende ontheffingen als bedoeld in [artikel 2, eerste lid, onderdelen s tot en met v](https://wetten.overheid.nl/jci1.3:c:BWBR0011616&artikel=2&z=2002-01-01&g=2006-01-01), worden verstrekt, is slechts terzake van de ontheffing met het hoogste vergoedingsbedrag, het vastgestelde bedrag verschuldigd.
+Indien op aanvraag voor één handeling twee of meer verschillende ontheffingen als bedoeld in [artikel 2, eerste lid, onderdelen s tot en met v](https://wetten.overheid.nl/jci1.3:c:BWBR0011616&artikel=2&z=2006-04-12&g=2006-04-12), worden verstrekt, is slechts terzake van de ontheffing met het hoogste vergoedingsbedrag, het vastgestelde bedrag verschuldigd.
 
 ##### Artikel 4
 
