@@ -4,7 +4,7 @@ identifier: "BWBR0019724"
 country: "nl"
 rank: "zbo"
 publication_date: "2006-04-13"
-last_updated: "2006-01-02"
+last_updated: "2006-04-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019724"
 soort: "zbo"
@@ -104,7 +104,7 @@ Deze beleidsregel is van toepassing op vrachtautocombinaties waarvoor door de Am
 
 ##### Artikel 4
 
-1. Naar aanleiding van een positief advies van de Ambtelijke adviescommissies LZV en het bewijs van keuring als bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019724&artikel=3&z=2006-04-13&g=2006-01-02), van deze beleidsregel kan een ontheffing worden verleend.
+1. Naar aanleiding van een positief advies van de Ambtelijke adviescommissies LZV en het bewijs van keuring als bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019724&artikel=3&z=2006-04-13&g=2006-04-13), van deze beleidsregel kan een ontheffing worden verleend.
 
 2. De in het eerste lid genoemde ontheffing wordt verleend indien door de wegbeheerders toestemming als bedoeld in [artikel 149b, tweede lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=149b) wordt verleend
 
@@ -116,7 +116,7 @@ Deze beleidsregel is van toepassing op vrachtautocombinaties waarvoor door de Am
 
 ##### Artikel 5
 
-Indien een positief advies van de Ambtelijke adviescommissie LZV, zoals bedoeld in [artikel 4 van het Instellingsbesluit Ambtelijke adviescommissie LZV](https://wetten.overheid.nl/jci1.3:c:BWBR0016098&artikel=4), wordt ingetrokken, wordt de ontheffing, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019724&artikel=3&z=2006-04-13&g=2006-01-02) van deze beleidsregel, op overeenkomstige wijze ingetrokken.
+Indien een positief advies van de Ambtelijke adviescommissie LZV, zoals bedoeld in [artikel 4 van het Instellingsbesluit Ambtelijke adviescommissie LZV](https://wetten.overheid.nl/jci1.3:c:BWBR0016098&artikel=4), wordt ingetrokken, wordt de ontheffing, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019724&artikel=3&z=2006-04-13&g=2006-04-13) van deze beleidsregel, op overeenkomstige wijze ingetrokken.
 
 ##### Artikel 6
 
