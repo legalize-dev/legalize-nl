@@ -4,7 +4,7 @@ identifier: "BWBR0013040"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2006-04-20"
-last_updated: "2002-02-22"
+last_updated: "2006-04-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013040"
 soort: "ministeriele-regeling"
@@ -76,7 +76,7 @@ Op een overeenkomstig deze regeling ingediende aanvraag wordt slechts subsidie v
 
 - a. de mate waarin de aanvrager een eigen belang heeft bij de resultaten van het project en
 
-- b. de mate waarin het project bijdraagt aan de doelstellingen van het desbetreffende programma, bedoeld in artikel 2.
+- b. de mate waarin het project bijdraagt aan de doelstellingen van het desbetreffende programma, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013040&paragraaf=1&artikel=2&z=2006-04-20&g=2006-04-20).
 
 2. De subsidie bedraagt ten hoogste:
 
@@ -90,7 +90,9 @@ Op een overeenkomstig deze regeling ingediende aanvraag wordt slechts subsidie v
 
 - e. in geval van een kennisoverdrachtproject: 90 procent van de projectkosten.
 
-3. In een programma als bedoeld in artikel 2 kan een lager maximumpercentage per project worden vastgesteld.
+3. In een programma als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013040&paragraaf=1&artikel=2&z=2006-04-20&g=2006-04-20) kan een lager of hoger maximumpercentage per project worden vastgesteld.
+
+4. In een programma als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013040&paragraaf=1&artikel=2&z=2006-04-20&g=2006-04-20) kan een absoluut maximum bedrag worden vastgesteld, al dan niet per categorie subsidieontvangers.
 
 ##### Artikel 5
 
@@ -135,6 +137,8 @@ De in artikel 4, tweede lid, gestelde maximumpercentages voor een onderzoeks- of
 1. Een aanvraag wordt ingediend bij de programmabeheerder met gebruikmaking van een bij de programmabeheerder verkrijgbaar formulier, en gaat vergezeld van de in het aanvraagformulier aangegeven bewijsstukken.
 
 2. Op aanvragen wordt door de programmabeheerder beslist in volgorde van de data waarop de aanvragen voldoen aan het eerste lid en er geen andere gronden bestaan om te besluiten de aanvragen niet in behandeling te nemen.
+
+3. In afwijking op het tweede lid kan de programmabeheerder op aanvragen beslissen op basis van een tendersysteem indien dat is aangegeven in het programma als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013040&paragraaf=1&artikel=2&z=2006-04-20&g=2006-04-20). In dat geval worden in het programma tevens de criteria aangegeven ter beoordeling van de aanvragen in een tendersysteem.
 
 ##### Artikel 9
 
@@ -221,6 +225,8 @@ De subsidie-ontvanger is verplicht:
 1. Op verzoek van de subsidie-ontvanger verleent de programmabeheerder ten hoogste eenmaal per kalendermaand een voorschot op basis van de bij het verzoek gevoegde declaraties.
 
 2. Het verzoek wordt schriftelijk ingediend met gebruikmaking van een bij de programmabeheerder verkrijgbaar formulier. Het verzoek gaat vergezeld van alle bescheiden die blijkens het formulier met het verzoek moeten worden meegezonden.
+
+3. In afwijking op het eerste en tweede lid kan in een programma als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013040&paragraaf=1&artikel=2&z=2006-04-20&g=2006-04-20) een nadere invulling van hetgeen in het eerste en tweede lid is opgenomen worden vastgesteld.
 
 ##### Artikel 18
 
