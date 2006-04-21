@@ -4,7 +4,7 @@ identifier: "BWBR0004189"
 country: "nl"
 rank: "wet"
 publication_date: "2021-08-26"
-last_updated: "2004-12-30"
+last_updated: "2006-04-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004189"
 soort: "wet"
@@ -60,7 +60,7 @@ EEG-richtlijn: de richtlijn van de Raad van de Europese Gemeenschappen van 10 ju
 
 1. Er is een architectenregister, in deze wet verder aan te duiden als het register.
 
-2. In het register wordt op verzoek ingeschreven als architect, als stedebouwkundige, als tuin- en landschapsarchitect of als interieurarchitect degene, die voldoet aan de bij of krachtens deze wet gestelde eisen.
+2. In het register wordt op verzoek ingeschreven als architect, als stedenbouwkundige, als tuin- en landschapsarchitect of als interieurarchitect degene, die voldoet aan de bij of krachtens deze wet gestelde eisen.
 
 3. Onze Minister kan, in overeenstemming met Onze andere Ministers, voorschriften geven omtrent de inrichting van het register.
 
@@ -70,15 +70,15 @@ EEG-richtlijn: de richtlijn van de Raad van de Europese Gemeenschappen van 10 ju
 
 1. Onze Minister richt een Stichting bureau architectenregister op, in deze wet verder aan te duiden als het bureau. Het wijzigen van de statuten van het bureau behoeft de toestemming van Onze Minister. De [artikelen 10:28 tot en met 10:31 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:28) zijn van overeenkomstige toepassing.
 
-2. Het bureau is belast met het beheer van het register en voorziet in de administratieve bijstand, die de in [artikel 33, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=VII&artikel=33&z=2004-12-30&g=2004-12-30), bedoelde commissies behoeven, zomede in de bijstand die bij de uitvoering van het bepaalde in [hoofdstuk VI](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=VI&z=2004-12-30&g=2004-12-30) van het bureau wordt gevraagd.
+2. Het bureau is belast met het beheer van het register en voorziet in de administratieve bijstand, die de in [artikel 33, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=VII&artikel=33&z=2006-04-21&g=2006-04-21), bedoelde commissies behoeven, zomede in de bijstand die bij de uitvoering van het bepaalde in [hoofdstuk VI](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=VI&z=2006-04-21&g=2006-04-21) van het bureau wordt gevraagd.
 
-3. Het bureau is voorts belast met het op verzoek aan een belanghebbende verstrekken van informatie omtrent de bij of krachtens deze wet gegeven voorschriften. Het bureau brengt voor het verstrekken van die informatie een vergoeding in rekening, waarvan het bedrag ingevolge het bepaalde in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=III&artikel=7&z=2004-12-30&g=2004-12-30) is vastgesteld.
+3. Het bureau is voorts belast met het op verzoek aan een belanghebbende verstrekken van informatie omtrent de bij of krachtens deze wet gegeven voorschriften. Het bureau brengt voor het verstrekken van die informatie een vergoeding in rekening, waarvan het bedrag ingevolge het bepaalde in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=III&artikel=7&z=2006-04-21&g=2006-04-21) is vastgesteld.
 
 ##### Artikel 4
 
 1. Onze Minister benoemt en ontslaat de voorzitter en de leden van het bestuur van het bureau, na overleg met Onze andere Ministers.
 
-2. Het bestuur bestaat in meerderheid uit personen die de beroepen van architect, stedebouwkundige, tuin- en landschapsarchitect of interieurarchitect uitoefenen dan wel hebben uitgeoefend.
+2. Het bestuur bestaat in meerderheid uit personen die de beroepen van architect, stedenbouwkundige, tuin- en landschapsarchitect of interieurarchitect uitoefenen dan wel hebben uitgeoefend.
 
 ##### Artikel 5
 
@@ -90,7 +90,7 @@ Vervallen
 
 ##### Artikel 7
 
-Het bureau bepaalt het bedrag van de tarieven, bedoeld in de[artikelen 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=III&artikel=3&z=2004-12-30&g=2004-12-30), [13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&artikel=13&z=2004-12-30&g=2004-12-30), [16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&artikel=16&z=2004-12-30&g=2004-12-30), [22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=V&artikel=22&z=2004-12-30&g=2004-12-30), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=VI&artikel=27&z=2004-12-30&g=2004-12-30) en [34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=VII&artikel=34&z=2004-12-30&g=2004-12-30). Een besluit als bedoeld in de eerste volzin, behoeft de goedkeuring van Onze Minister.
+Het bureau bepaalt het bedrag van de tarieven, bedoeld in de[artikelen 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=III&artikel=3&z=2006-04-21&g=2006-04-21), [13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&artikel=13&z=2006-04-21&g=2006-04-21), [16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&artikel=16&z=2006-04-21&g=2006-04-21), [22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=V&artikel=22&z=2006-04-21&g=2006-04-21), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=VI&artikel=27&z=2006-04-21&g=2006-04-21) en [34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=VII&artikel=34&z=2006-04-21&g=2006-04-21). Een besluit als bedoeld in de eerste volzin, behoeft de goedkeuring van Onze Minister.
 
 ##### Artikel 8
 
@@ -104,11 +104,19 @@ Het bureau bepaalt het bedrag van de tarieven, bedoeld in de[artikelen 3, derde 
 
 1. Inschrijving in het register als architect wordt verleend aan degene die voldoet aan een van de volgende eisen:
 
-- a. in het bezit van een getuigschrift van een opleiding bouwkunde op het gebied van de techniek aan een in de bijlage bij de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682) genoemde universiteit;
+- a. in het bezit zijn van:
+
+- 1°. het getuigschrift van een masteropleiding op het gebied van architectuur aan een in de [bijlage bij de Wet op het hoger onderwijs en wetenschappelijk onderzoek](onbekend) genoemde universiteit;
+
+- 2°. het getuigschrift van een opleiding bouwkunde op het gebied van de techniek verbonden aan een in de [bijlage bij de Wet op het hoger onderwijs en wetenschappelijk onderzoek](onbekend) genoemde universiteit;
 
 - b. in het bezit zijn van het op grond van artikel 29 van de Nijverheidsonderwijswet uitgereikte eindgetuigschrift Hoger Bouwkunst Onderricht;
 
-- c. in het bezit zijn van het op grond van [artikel 29 van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=29) uitgereikte einddiploma van een Academie van Bouwkunst, het op grond van artikel 34, derde lid, van de Wet op het hoger beroepsonderwijs uitgereikte getuigschrift van een opleiding voor beroepen op het terrein van architectuur en stedebouw dan wel het getuigschrift van een met een goed gevolg afgelegd afsluitend examen van een voortgezette opleiding bouwkunst verbonden aan een in de [bijlage van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](onbekend) genoemde hogeschool;
+- c. in het bezit zijn van:
+
+- 1°. het getuigschrift van een masteropleiding op het gebied van architectuur aan een in de [bijlage bij de Wet op het hoger onderwijs en wetenschappelijk onderzoek](onbekend) genoemde hogeschool;
+
+- 2°. het op grond van [artikel 29 van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=29) uitgereikte einddiploma van een Academie van Bouwkunst, het op grond van artikel 34, derde lid, van de Wet op het hoger beroepsonderwijs uitgereikte getuigschrift van een opleiding voor beroepen op het terrein van architectuur en stedenbouw dan wel het getuigschrift van een voortgezette opleiding bouwkunst verbonden aan een in de [bijlage bij de Wet op het hoger onderwijs en wetenschappelijk onderzoek](onbekend) genoemde hogeschool;
 
 - d. in het bezit zijn van het op grond van artikel 29 van de Nijverheidsonderwijswet uitgereikte getuigschrift Voortgezet Bouwkunst Onderricht;
 
@@ -116,7 +124,7 @@ Het bureau bepaalt het bedrag van de tarieven, bedoeld in de[artikelen 3, derde 
 
 - f. in het bezit zijn van het diploma van de Stichting Instituut voor Architectuur I.V.A., afgegeven na een op ten minste vierjarige basis ingerichte opleiding van deze stichting waarmee uiterlijk op 5 augustus 1988 is begonnen, en van een attest, afgegeven door Onze Minister, waaruit blijkt dat de betrokkene een door of vanwege Onze Minister ingesteld onderzoek dat een beoordeling behelst van de plannen die de betrokkene tijdens een feitelijke praktijk van ten minste zes jaar op het gebied van de architectuur heeft gemaakt en uitgevoerd, met goed gevolg heeft doorstaan, dan wel in het bezit zijn van het diploma van genoemde Stichting, dat is behaald ter afsluiting van een opleiding waarmee na 5 augustus 1988 is begonnen, mits die opleiding naar het oordeel van Onze Minister voldoet aan de eisen van de artikelen 3 en 4 van de EEG-richtlijn;
 
-- g. met goed gevolg hebben afgelegd een overeenkomstig het bepaalde in [hoofdstuk VI](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=VI&z=2004-12-30&g=2004-12-30) ingericht en afgenomen examen voor architecten of daarvan, wegens ten genoegen van Onze Minister aangetoonde uitzonderlijke bekwaamheid, van Onze Minister ontheffing hebben verkregen;
+- g. met goed gevolg hebben afgelegd een overeenkomstig het bepaalde in [hoofdstuk VI](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=VI&z=2006-04-21&g=2006-04-21) ingericht en afgenomen examen voor architecten of daarvan, wegens ten genoegen van Onze Minister aangetoonde uitzonderlijke bekwaamheid, van Onze Minister ontheffing hebben verkregen;
 
 - h. met goed gevolg hebben afgelegd het examen ter afsluiting van een door Onze Minister en na het horen van de representatief te achten beroepsorganisaties van architecten, aangewezen opleiding;
 
@@ -158,9 +166,17 @@ Het bureau bepaalt het bedrag van de tarieven, bedoeld in de[artikelen 3, derde 
 
 1. Inschrijving in het register als tuin- en landschapsarchitect wordt verleend aan degene die voldoet aan een van de volgende eisen:
 
-- a. in het bezit zijn van een getuigschrift van een opleiding landschapsarchitectuur op het gebied van de landbouw en de natuurlijke omgeving aan een in de bijlage bij de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682) genoemde universiteit;
+- a. in het bezit zijn van:
 
-- b. in het bezit zijn van het op grond van [artikel 29 van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=29) uitgereikte einddiploma van een Academie van Bouwkunst, waaraan een afdeling Landschapsarchitectuur is verbonden, het op grond van artikel 34, derde lid, van de Wet op het hoger beroepsonderwijs uitgereikte getuigschrift van een opleiding voor beroepen op het terrein van architectuur en stedebouw dan wel het getuigschrift van een voortgezette opleiding bouwkunst verbonden aan een in de [bijlage van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](onbekend) genoemde hogeschool;
+- 1°. het getuigschrift van een masteropleiding op het gebied van landschapsarchitectuur aan een in de [bijlage bij de Wet op het hoger onderwijs en wetenschappelijk onderzoek](onbekend) genoemde universiteit;
+
+- 2°. het getuigschrift van een opleiding landschapsarchitectuur op het gebied van de landbouw en de natuurlijke omgeving aan een in de [bijlage bij de Wet op het hoger onderwijs en wetenschappelijk onderzoek](onbekend) genoemde universiteit;
+
+- b. in het bezit zijn van:
+
+- 1°. het getuigschrift van een masteropleiding op het gebied van landschapsarchitectuur verbonden aan een in de [bijlage bij de Wet op het hoger onderwijs en wetenschappelijk onderzoek](onbekend) genoemde hogeschool;
+
+- 2°. het op grond van [artikel 29 van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=29) uitgereikte einddiploma van een Academie van Bouwkunst, waaraan een afdeling Landschapsarchitectuur is verbonden, het op grond van artikel 34, derde lid, van de Wet op het hoger beroepsonderwijs uitgereikte getuigschrift van een opleiding voor beroepen op het terrein van architectuur en stedenbouw dan wel het getuigschrift van een voortgezette opleiding bouwkunst verbonden aan een in de [bijlage bij de Wet op het hoger onderwijs en wetenschappelijk onderzoek](onbekend) genoemde hogeschool;
 
 - c. vóór 1 september 1970 zijn afgestudeerd in de richting tuin- en landschapsarchitectuur aan de rijkslandbouwuniversiteit te Wageningen;
 
@@ -170,11 +186,11 @@ Het bureau bepaalt het bedrag van de tarieven, bedoeld in de[artikelen 3, derde 
 
 - f. in het bezit zijn van een in 1971 uitgereikt diploma van de Voortgezette Hogere Opleiding Tuin- en Landschapsarchitectuur (VHTL) van de Vereniging voor Tuin- en Landschapsarchitectuur;
 
-- g. met goed gevolg hebben afgelegd een overeenkomstig het bepaalde in [hoofdstuk VI](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=VI&z=2004-12-30&g=2004-12-30) ingericht en afgenomen examen voor tuin- en landschapsarchitect of daarvan, wegens ten genoegen van Onze Minister van Landbouw en Visserij aangetoonde uitzonderlijke bekwaamheid, van genoemde minister ontheffing hebben verkregen;
+- g. met goed gevolg hebben afgelegd een overeenkomstig het bepaalde in [hoofdstuk VI](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=VI&z=2006-04-21&g=2006-04-21) ingericht en afgenomen examen voor tuin- en landschapsarchitect of daarvan, wegens ten genoegen van Onze Minister van Landbouw en Visserij aangetoonde uitzonderlijke bekwaamheid, van genoemde minister ontheffing hebben verkregen;
 
 - h. met goed gevolg hebben afgelegd het examen ter afsluiting van een door Onze Minister van Landbouw en Visserij, na het horen van de representatief te achten beroepsorganisaties van tuin- en landschapsarchitecten, aangewezen opleiding;
 
-- i. in het bezit zijn van een ten aanzien van het beroep van tuin- en landschapsarchitect afgegeven EG-verklaring als bedoeld in de Algemene wet erkenning EG-hoger-onderwijsdiploma's dan wel in de [Algemene wet erkenning EG-beroepsopleidingen](https://wetten.overheid.nl/jci1.3:c:BWBR0006781);
+- i. in het bezit zijn van een ten aanzien van het beroep van tuin- en landschapsarchitect afgegeven EG-verklaring als bedoeld in de [Algemene wet erkenning EG-hoger-onderwijsdiploma's](https://wetten.overheid.nl/jci1.3:c:BWBR0006317) dan wel in de [Algemene wet erkenning EG-beroepsopleidingen](https://wetten.overheid.nl/jci1.3:c:BWBR0006781);
 
 - j. in het bezit zijn van een der door Onze Minister van Landbouw, Natuurbeheer en Visserij al dan niet op verzoek van een belanghebbende aangewezen diploma's die door instellingen in het buitenland, waaronder niet zijn begrepen instellingen, gevestigd in de lidstaten van de Europese Unie of de andere staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte dan wel in Zwitserland, zijn of worden verstrekt.
 
@@ -188,13 +204,17 @@ Het bureau bepaalt het bedrag van de tarieven, bedoeld in de[artikelen 3, derde 
 
 - b. in het bezit zijn van het op grond van [artikel 29 van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=29) uitgereikte einddiploma van een Academie van Bouwkunst, het op grond van artikel 34, derde lid, van de Wet op het hoger beroepsonderwijs uitgereikte getuigschrift van een opleiding voor beroepen op het terrein van architectuur en stedebouw dan wel het getuigschrift van een voortgezette opleiding bouwkunst verbonden aan een in de [bijlage van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](onbekend) genoemde hogeschool;
 
-- c. in het bezit zijn van het op grond van artikel 29 van de Nijverheidsonderwijswet of op grond van [artikel 29 van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=29) uitgereikte einddiploma van een Academie voor Beeldende Kunsten, afdeling architectonische vormgeving, dan wel het getuigschrift van een opleiding op het gebied van de architectonische vormgeving verbonden aan een in de [bijlage bij de Wet op het hoger onderwijs en wetenschappelijk onderzoek](onbekend) genoemde hogeschool;
+- c. in het bezit zijn van:
 
-- d. met goed gevolg hebben afgelegd een overeenkomstig het bepaalde in [hoofdstuk VI](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=VI&z=2004-12-30&g=2004-12-30) ingericht en afgenomen examen voor interieurarchitect of daarvan, wegens ten genoegen van Onze Minister van Welzijn, Volksgezondheid en Cultuur aangetoonde uitzonderlijke bekwaamheid, van genoemde minister ontheffing hebben verkregen;
+- 1°. het getuigschrift van een opleiding Vormgeving van het Domein Beeldende Kunst en Vormgeving verbonden aan een in de [bijlage bij de Wet op het hoger onderwijs en wetenschappelijk onderzoek](onbekend) genoemde hogeschool;
+
+- 2°. het op grond van artikel 29 van de Nijverheidsonderwijswet of op grond van [artikel 29 van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=29) uitgereikte einddiploma van een Academie voor Beeldende Kunsten, afdeling architectonische vormgeving, dan wel het getuigschrift van een opleiding op het gebied van de architectonische vormgeving verbonden aan een in de [bijlage bij de Wet op het hoger onderwijs en wetenschappelijk onderzoek](onbekend) genoemde hogeschool;
+
+- d. met goed gevolg hebben afgelegd een overeenkomstig het bepaalde in [hoofdstuk VI](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=VI&z=2006-04-21&g=2006-04-21) ingericht en afgenomen examen voor interieurarchitect of daarvan, wegens ten genoegen van Onze Minister van Welzijn, Volksgezondheid en Cultuur aangetoonde uitzonderlijke bekwaamheid, van genoemde minister ontheffing hebben verkregen;
 
 - e. met goed gevolg hebben afgelegd het examen ter afsluiting van een door Onze Minister van Welzijn, Volksgezondheid en Cultuur en na het horen van de representatief te achten beroepsorganisaties van interieurarchitecten, aangewezen opleiding;
 
-- f. in het bezit zijn van een ten aanzien van het beroep van interieurarchitect afgegeven EG-verklaring als bedoeld in de Algemene wet erkenning EG-hoger-onderwijsdiploma's dan wel in de [Algemene wet erkenning EG-beroepsopleidingen](https://wetten.overheid.nl/jci1.3:c:BWBR0006781);
+- f. in het bezit zijn van een ten aanzien van het beroep van interieurarchitect afgegeven EG-verklaring als bedoeld in de [Algemene wet erkenning EG-hoger-onderwijsdiploma's](https://wetten.overheid.nl/jci1.3:c:BWBR0006317) dan wel in de [Algemene wet erkenning EG-beroepsopleidingen](https://wetten.overheid.nl/jci1.3:c:BWBR0006781);
 
 - g. in het bezit zijn van een der door Onze Minister van Welzijn, Volksgezondheid en Cultuur al dan niet op verzoek van een belanghebbende aangewezen diploma's die door instellingen in het buitenland, waaronder niet zijn begrepen instellingen, gevestigd in de lidstaten van de Europese Unie of de andere staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte dan wel in Zwitserland, zijn of worden verstrekt.
 
@@ -202,7 +222,7 @@ Het bureau bepaalt het bedrag van de tarieven, bedoeld in de[artikelen 3, derde 
 
 ##### Artikel 13
 
-1. Degene die van zijn ingevolge het bepaalde in de[artikelen 9 tot en met 12](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&artikel=9&z=2004-12-30&g=2004-12-30) bestaande recht tot inschrijving in het register gebruik wenst te maken, dient bij het bureau een verzoek tot inschrijving in op een formulier waarvan het model door het bureau wordt vastgesteld. Het verzoek gaat vergezeld door stukken waaruit het bureau de opleiding van de verzoeker kan vaststellen. Een verzoek wordt geacht niet te zijn ingediend zolang niet een inschrijfgeld is betaald, indien en voorzover ingevolge het bepaalde in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=III&artikel=7&z=2004-12-30&g=2004-12-30) hiervoor een bedrag is vastgesteld.
+1. Degene die van zijn ingevolge het bepaalde in de[artikelen 9 tot en met 12](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&artikel=9&z=2006-04-21&g=2006-04-21) bestaande recht tot inschrijving in het register gebruik wenst te maken, dient bij het bureau een verzoek tot inschrijving in op een formulier waarvan het model door het bureau wordt vastgesteld. Het verzoek gaat vergezeld door stukken waaruit het bureau de opleiding van de verzoeker kan vaststellen. Een verzoek wordt geacht niet te zijn ingediend zolang niet een inschrijfgeld is betaald, indien en voorzover ingevolge het bepaalde in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=III&artikel=7&z=2006-04-21&g=2006-04-21) hiervoor een bedrag is vastgesteld.
 
 2. Het bureau hoort hen die het dienstig acht te horen en neemt binnen dertien weken na ontvangst van het verzoek een beslissing.
 
@@ -222,7 +242,7 @@ Het bureau bepaalt het bedrag van de tarieven, bedoeld in de[artikelen 3, derde 
 
 ##### Artikel 16
 
-1. Dadelijk na inschrijving in het register en voorts telkens na verloop van een jaar is de ingeschrevene een bijdrage verschuldigd, indien en voorzover ingevolge het bepaalde in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=III&artikel=7&z=2004-12-30&g=2004-12-30) hiervoor een bedrag is vastgesteld.
+1. Dadelijk na inschrijving in het register en voorts telkens na verloop van een jaar is de ingeschrevene een bijdrage verschuldigd, indien en voorzover ingevolge het bepaalde in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=III&artikel=7&z=2006-04-21&g=2006-04-21) hiervoor een bedrag is vastgesteld.
 
 2. Na ontvangst van de bijdrage zendt het bureau een bewijs van betaling aan de ingeschrevene.
 
@@ -232,35 +252,35 @@ Het bureau bepaalt het bedrag van de tarieven, bedoeld in de[artikelen 3, derde 
 
 - a. indien de inschrijving, gelet op het bij of krachtens deze wet bepaalde, ten onrechte is geschied;
 
-- b. indien de ingeschrevene niet voldoet aan de verplichting tot het betalen van de in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&artikel=16&z=2004-12-30&g=2004-12-30), bedoelde bijdrage;
+- b. indien de ingeschrevene niet voldoet aan de verplichting tot het betalen van de in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&artikel=16&z=2006-04-21&g=2006-04-21), bedoelde bijdrage;
 
 - c. op verzoek van de ingeschrevene;
 
 - d. na het overlijden van de ingeschrevene.
 
-2. Een besluit tot doorhaling van de inschrijving op grond van het bepaalde in het eerste lid, onder **a**, wordt niet genomen dan nadat overeenkomstige toepassing is gegeven aan het bepaalde in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&artikel=15&z=2004-12-30&g=2004-12-30).
+2. Een besluit tot doorhaling van de inschrijving op grond van het bepaalde in het eerste lid, onder **a**, wordt niet genomen dan nadat overeenkomstige toepassing is gegeven aan het bepaalde in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&artikel=15&z=2006-04-21&g=2006-04-21).
 
 3. Een besluit tot doorhaling van de inschrijving op grond van het bepaalde in het eerste lid, onder **b**, wordt niet genomen dan nadat vier weken zijn is verstreken na de dag, waarop de betrokkene op zijn verzuim en het in het eerste lid bedoelde gevolg daarvan is gewezen.
 
-4. Elke doorhaling van een inschrijving op een der gronden, bedoeld in het eerste lid, onder **a**-**c**, wordt onmiddellijk bekendgemaakt, onder vermelding van hetgeen in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&artikel=18&z=2004-12-30&g=2004-12-30) is bepaald.
+4. Elke doorhaling van een inschrijving op een der gronden, bedoeld in het eerste lid, onder **a**-**c**, wordt onmiddellijk bekendgemaakt, onder vermelding van hetgeen in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&artikel=18&z=2006-04-21&g=2006-04-21) is bepaald.
 
 5. Het bureau houdt aantekening van de doorhalingen en van de data waarop deze zijn geschied.
 
 ##### Artikel 18
 
-1. Degene, van wie de inschrijving op een der in [artikel 17, eerste lid onder **b** en **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&artikel=17&z=2004-12-30&g=2004-12-30), bedoelde gronden is doorgehaald, kan het bureau verzoeken de doorhaling ongedaan te maken.
+1. Degene, van wie de inschrijving op een der in [artikel 17, eerste lid onder **b** en **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&artikel=17&z=2006-04-21&g=2006-04-21), bedoelde gronden is doorgehaald, kan het bureau verzoeken de doorhaling ongedaan te maken.
 
-2. Het in het eerste lid bedoelde verzoek wordt geacht niet te zijn ingediend zolang niet opnieuw het inschrijfgeld is betaald, bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&artikel=13&z=2004-12-30&g=2004-12-30), en zolang niet de reeds vóór het tijdstip van doorhaling verschuldigde, maar nog niet betaalde bijdragen, bedoeld in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&artikel=16&z=2004-12-30&g=2004-12-30), zijn voldaan.
+2. Het in het eerste lid bedoelde verzoek wordt geacht niet te zijn ingediend zolang niet opnieuw het inschrijfgeld is betaald, bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&artikel=13&z=2006-04-21&g=2006-04-21), en zolang niet de reeds vóór het tijdstip van doorhaling verschuldigde, maar nog niet betaalde bijdragen, bedoeld in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&artikel=16&z=2006-04-21&g=2006-04-21), zijn voldaan.
 
 ##### Artikel 19
 
-1. Het bureau maakt binnen vier weken na ontvangst van het verzoek, bedoeld in [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&artikel=18&z=2004-12-30&g=2004-12-30), de doorhaling ongedaan.
+1. Het bureau maakt binnen vier weken na ontvangst van het verzoek, bedoeld in [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&artikel=18&z=2006-04-21&g=2006-04-21), de doorhaling ongedaan.
 
-2. [Artikel 14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&artikel=14&z=2004-12-30&g=2004-12-30), is van overeenkomstige toepassing.
+2. [Artikel 14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&artikel=14&z=2006-04-21&g=2006-04-21), is van overeenkomstige toepassing.
 
 ##### Artikel 20
 
-Voor de toepassing van het bepaalde in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&artikel=16&z=2004-12-30&g=2004-12-30), geldt het tijdstip waarop een doorhaling ongedaan is gemaakt als tijdstip van inschrijving in het register.
+Voor de toepassing van het bepaalde in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&artikel=16&z=2006-04-21&g=2006-04-21), geldt het tijdstip waarop een doorhaling ongedaan is gemaakt als tijdstip van inschrijving in het register.
 
 ##### Artikel 21
 
@@ -268,19 +288,19 @@ Voor de toepassing van het bepaalde in [artikel 16, eerste lid](https://wetten.o
 
 2. [Artikel 8:4, onderdeel **e**, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:4) is van toepassing.
 
-3. Voorzover een besluit inzake erkenning of een aanwijzing, als bedoeld in de [artikelen 9, eerste lid, onderdelen i, 3°, en j](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&artikel=9&z=2004-12-30&g=2004-12-30), [10, eerste lid, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&artikel=10&z=2004-12-30&g=2004-12-30), [11, eerste lid, onderdeel j](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&artikel=11&z=2004-12-30&g=2004-12-30), en [12, eerste lid, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&artikel=12&z=2004-12-30&g=2004-12-30), aangemerkt wordt als algemeen verbindend voorschrift, kan in afwijking van [artikel 8:2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:2) beroep ingesteld worden bij het College van Beroep voor het bedrijfsleven.
+3. Voorzover een besluit inzake erkenning of een aanwijzing, als bedoeld in de [artikelen 9, eerste lid, onderdelen i, 3°, en j](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&artikel=9&z=2006-04-21&g=2006-04-21), [10, eerste lid, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&artikel=10&z=2006-04-21&g=2006-04-21), [11, eerste lid, onderdeel j](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&artikel=11&z=2006-04-21&g=2006-04-21), en [12, eerste lid, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&artikel=12&z=2006-04-21&g=2006-04-21), aangemerkt wordt als algemeen verbindend voorschrift, kan in afwijking van [artikel 8:2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:2) beroep ingesteld worden bij het College van Beroep voor het bedrijfsleven.
 
 ### Hoofdstuk V. Titelbescherming
 
 ##### Artikel 22
 
-1. Tegen betaling van een vergoeding, waarvan het bedrag ingevolge het bepaalde in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=III&artikel=7&z=2004-12-30&g=2004-12-30) is vastgesteld, doet het bureau aan iedere verzoeker schriftelijk opgave of een persoon in het register staat ingeschreven en onder welke titel.
+1. Tegen betaling van een vergoeding, waarvan het bedrag ingevolge het bepaalde in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=III&artikel=7&z=2006-04-21&g=2006-04-21) is vastgesteld, doet het bureau aan iedere verzoeker schriftelijk opgave of een persoon in het register staat ingeschreven en onder welke titel.
 
 2. Na ontvangst van de opgave, bedoeld in het eerste lid, kan de verzoeker inzage verlangen in de stukken, die aan de inschrijving ten grondslag liggen. De inzage geschiedt, na de indiening bij het bureau van een daartoe strekkend schriftelijk verzoek, op een door het bureau te bepalen tijdstip ten kantore van het bureau.
 
 ##### Artikel 23
 
-1. Gerechtigd tot het voeren van een titel, als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=II&artikel=2&z=2004-12-30&g=2004-12-30), of een afkorting van die titel, hetzij zonder nadere aanduiding, hetzij in woordsamenstellingen waarin de titel of een afkorting daarvan voorkomt, is uitsluitend hij die onder deze titel in het register staat ingeschreven.
+1. Gerechtigd tot het voeren van een titel, als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=II&artikel=2&z=2006-04-21&g=2006-04-21), of een afkorting van die titel, hetzij zonder nadere aanduiding, hetzij in woordsamenstellingen waarin de titel of een afkorting daarvan voorkomt, is uitsluitend hij die onder deze titel in het register staat ingeschreven.
 
 2. Het bureau, rechtspersonen met volledige rechtsbevoegdheid die ten doel hebben of mede ten doel hebben de behartiging van belangen der ingeschrevenen in het register en rechtspersonen met volledige rechtsbevoegdheid die ten doel hebben of mede ten doel hebben de behartiging van belangen van de eindgebruikers van de goederen en diensten der ingeschrevenen in het register kunnen in rechte vorderen dat degene die zonder daartoe gerechtigd te zijn een titel voert als bedoeld in het eerste lid, wordt veroordeeld zich daarvan te onthouden.
 
@@ -292,7 +312,7 @@ Voor de toepassing van het bepaalde in [artikel 16, eerste lid](https://wetten.o
 
 ##### Artikel 24
 
-1. Onverminderd [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=V&artikel=23&z=2004-12-30&g=2004-12-30), is degene die voldoet aan [artikel 9, eerste lid, onder **i**](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&artikel=9&z=2004-12-30&g=2004-12-30), [10, eerste lid, onder **g**](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&artikel=10&z=2004-12-30&g=2004-12-30), [11, eerste lid, onder **i**](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&artikel=11&z=2004-12-30&g=2004-12-30), of [12, eerste lid, onder **f**](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&artikel=12&z=2004-12-30&g=2004-12-30), gerechtigd gebruik te maken van de wettige, in een andere lidstaat van de Europese Unie of de andere staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte dan wel in Zwitserland gevoerde titel of afkorting daarvan, in de taal van die Staat.
+1. Onverminderd [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=V&artikel=23&z=2006-04-21&g=2006-04-21), is degene die voldoet aan [artikel 9, eerste lid, onder **i**](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&artikel=9&z=2006-04-21&g=2006-04-21), [10, eerste lid, onder **g**](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&artikel=10&z=2006-04-21&g=2006-04-21), [11, eerste lid, onder **i**](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&artikel=11&z=2006-04-21&g=2006-04-21), of [12, eerste lid, onder **f**](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&artikel=12&z=2006-04-21&g=2006-04-21), gerechtigd gebruik te maken van de wettige, in een andere lidstaat van de Europese Unie of de andere staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte dan wel in Zwitserland gevoerde titel of afkorting daarvan, in de taal van die Staat.
 
 2. Onze Minister die het aangaat kan bepalen dat bij het voeren van een titel als bedoeld in het eerste lid, tevens de naam en de plaats van vestiging van de instelling of de examencommissie die deze titel heeft verleend, moet worden vermeld.
 
@@ -300,7 +320,7 @@ Voor de toepassing van het bepaalde in [artikel 16, eerste lid](https://wetten.o
 
 ##### Artikel 25
 
-1. Ten minste eenmaal per jaar geeft Onze Minister die ingevolge onderscheidenlijk de[artikelen 9, eerste lid, onder **g**](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&artikel=9&z=2004-12-30&g=2004-12-30), [10, eerste lid, onder **e**](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&artikel=10&z=2004-12-30&g=2004-12-30), [11, eerste lid, onder **g**](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&artikel=11&z=2004-12-30&g=2004-12-30), en [12, eerste lid, onder **d**](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&artikel=12&z=2004-12-30&g=2004-12-30), bevoegd is tot het verlenen van ontheffing, de mogelijkheid tot het afleggen van het examen, bedoeld in die artikelen.
+1. Ten minste eenmaal per jaar geeft Onze Minister die ingevolge onderscheidenlijk de[artikelen 9, eerste lid, onder **g**](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&artikel=9&z=2006-04-21&g=2006-04-21), [10, eerste lid, onder **e**](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&artikel=10&z=2006-04-21&g=2006-04-21), [11, eerste lid, onder **g**](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&artikel=11&z=2006-04-21&g=2006-04-21), en [12, eerste lid, onder **d**](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&artikel=12&z=2006-04-21&g=2006-04-21), bevoegd is tot het verlenen van ontheffing, de mogelijkheid tot het afleggen van het examen, bedoeld in die artikelen.
 
 2. De omvang en inrichting van de examens worden vastgesteld bij of krachtens algemene maatregel van bestuur. Daarbij worden tevens geregeld de eisen voor de toelating tot het afleggen van de examens, alsmede die voor het verkrijgen van vrijstelling voor bepaalde onderdelen daarvan.
 
@@ -310,13 +330,13 @@ Voor de toepassing van het bepaalde in [artikel 16, eerste lid](https://wetten.o
 
 ##### Artikel 26
 
-1. Ten minste eenmaal per jaar stelt Onze Minister degene die voldoet aan [artikel 9, eerste lid, onder **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&artikel=9&z=2004-12-30&g=2004-12-30), en die is ingeschreven in het register, doch niet volledig voldoet aan artikel 4, tweede lid, van de EEG-richtlijn, in de gelegenheid tot het afleggen van een examen als bedoeld in dat artikellid van de richtlijn.
+1. Ten minste eenmaal per jaar stelt Onze Minister degene die voldoet aan [artikel 9, eerste lid, onder **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&artikel=9&z=2006-04-21&g=2006-04-21), en die is ingeschreven in het register, doch niet volledig voldoet aan artikel 4, tweede lid, van de EEG-richtlijn, in de gelegenheid tot het afleggen van een examen als bedoeld in dat artikellid van de richtlijn.
 
-2. [Artikel 25, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=VI&artikel=25&z=2004-12-30&g=2004-12-30), zijn van toepassing, met dien verstande dat de voordracht wordt gedaan door Onze Minister.
+2. [Artikel 25, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=VI&artikel=25&z=2006-04-21&g=2006-04-21), zijn van toepassing, met dien verstande dat de voordracht wordt gedaan door Onze Minister.
 
 ##### Artikel 27
 
-Zij die zich aan een van de in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=VI&artikel=25&z=2004-12-30&g=2004-12-30) bedoelde examens of bepaalde onderdelen daarvan dan wel aan het in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=VI&artikel=26&z=2004-12-30&g=2004-12-30) bedoelde examen wensen te onderwerpen, worden hiertoe niet toegelaten dan na betaling van een examengeld, waarvan het bedrag ingevolge het bepaalde in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=III&artikel=7&z=2004-12-30&g=2004-12-30) is vastgesteld.
+Zij die zich aan een van de in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=VI&artikel=25&z=2006-04-21&g=2006-04-21) bedoelde examens of bepaalde onderdelen daarvan dan wel aan het in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=VI&artikel=26&z=2006-04-21&g=2006-04-21) bedoelde examen wensen te onderwerpen, worden hiertoe niet toegelaten dan na betaling van een examengeld, waarvan het bedrag ingevolge het bepaalde in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=III&artikel=7&z=2006-04-21&g=2006-04-21) is vastgesteld.
 
 ### Hoofdstuk VII. Overgangsbepalingen
 
@@ -380,7 +400,7 @@ Vervallen
 
 ##### Artikel 42
 
-1. Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, met uitzondering van [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=V&artikel=23&z=2004-12-30&g=2004-12-30) dat vijf jaar nadien in werking treedt.
+1. Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, met uitzondering van [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=V&artikel=23&z=2006-04-21&g=2006-04-21) dat vijf jaar nadien in werking treedt.
 
 2. Deze wet kan worden aangehaald als Wet op de architectentitel.
 
@@ -388,25 +408,33 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 9a
 
-Onze Minister beslist op een aanvraag om erkenning als bedoeld in [artikel 9, eerste lid, onderdeel i, 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&artikel=9&z=2004-12-30&g=2004-12-30), binnen drie maanden nadat hij de aanvraag heeft ontvangen.
+Onze Minister beslist op een aanvraag om erkenning als bedoeld in [artikel 9, eerste lid, onderdeel i, 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&artikel=9&z=2006-04-21&g=2006-04-21), binnen drie maanden nadat hij de aanvraag heeft ontvangen.
 
 ##### Artikel 10
 
-1. Inschrijving in het register als stedebouwkundige wordt verleend aan degene die voldoet aan een van de volgende eisen:
+1. Inschrijving in het register als stedenbouwkundige wordt verleend aan degene die voldoet aan een van de volgende eisen:
 
-- a. in het bezit van een getuigschrift van een opleiding bouwkunde op het gebied van de techniek aan een in de [bijlage bij de Wet op het hoger onderwijs en wetenschappelijk onderzoek](onbekend) genoemde universiteit;
+- a. in het bezit zijn van:
+
+- 1°. het getuigschrift van een masteropleiding op het gebied van stedenbouw aan een in de [bijlage bij de Wet op het hoger onderwijs en wetenschappelijk onderzoek](onbekend) genoemde universiteit;
+
+- 2°. het getuigschrift van een opleiding bouwkunde op het gebied van de techniek aan een in de [bijlage bij de Wet op het hoger onderwijs en wetenschappelijk onderzoek](onbekend) genoemde universiteit;
 
 - b. in het bezit zijn van het op grond van artikel 29 van de Nijverheidsonderwijswet uitgereikte einddiploma Stedebouwkundig Hoger Onderricht;
 
 - c. in het bezit zijn van het op grond van [artikel 29 van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=29) uitgereikte einddiploma Stedebouwkundig Hoger Onderricht;
 
-- d. in het bezit zijn van het op grond van [artikel 29 van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=29) uitgereikte einddiploma van een Academie van Bouwkunst, het op grond van artikel 34, derde lid, van de Wet op het hoger beroepsonderwijs uitgereikte getuigschrift van een opleiding voor beroepen op het terrein van architectuur en stedebouw dan wel het getuigschrift van een met goed gevolg afgelegd afsluitend examen van een voortgezette opleiding bouwkunst verbonden aan een in de bijlage van de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682) genoemde hogeschool;
+- d. in het bezit zijn van:
 
-- e. met goed gevolg hebben afgelegd een overeenkomstig het bepaalde in [hoofdstuk VI](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=VI&z=2004-12-30&g=2004-12-30) ingericht en afgenomen examen voor stedebouwkundigen of daarvan, wegens ten genoegen van Onze Minister aangetoonde uitzonderlijke bekwaamheid, van Onze Minister ontheffing hebben verkregen;
+- 1°. het getuigschrift van een masteropleiding op het gebied van stedenbouw verbonden aan een in de [bijlage bij de Wet op het hoger onderwijs en wetenschappelijk onderzoek](onbekend) genoemde hogeschool;
 
-- f. met goed gevolg hebben afgelegd het examen ter afsluiting van een door Onze Minister en na het horen van de representatief te achten beroepsorganisaties van stedebouwkundigen, aangewezen opleiding;
+- 2°. het op grond van [artikel 29 van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=29) uitgereikte einddiploma van een Academie van Bouwkunst, het op grond van artikel 34, derde lid, van de Wet op het hoger beroepsonderwijs uitgereikte getuigschrift van een opleiding voor beroepen op het terrein van architectuur en stedenbouw dan wel het getuigschrift van een voortgezette opleiding bouwkunst verbonden aan een in de [bijlage bij de Wet op het hoger onderwijs en wetenschappelijk onderzoek](onbekend) genoemde hogeschool;
 
-- g. in het bezit zijn van een ten aanzien van het beroep van stedebouwkundige afgegeven EG-verklaring als bedoeld in de Algemene wet erkenning EG-hoger-onderwijsdiploma's dan wel in de [Algemene wet erkenning EG-beroepsopleidingen](https://wetten.overheid.nl/jci1.3:c:BWBR0006781);
+- e. met goed gevolg hebben afgelegd een overeenkomstig het bepaalde in [hoofdstuk VI](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=VI&z=2006-04-21&g=2006-04-21) ingericht en afgenomen examen voor stedenbouwkundigen of daarvan, wegens ten genoegen van Onze Minister aangetoonde uitzonderlijke bekwaamheid, van Onze Minister ontheffing hebben verkregen;
+
+- f. met goed gevolg hebben afgelegd het examen ter afsluiting van een door Onze Minister en na het horen van de representatief te achten beroepsorganisaties van stedenbouwkundigen, aangewezen opleiding;
+
+- g. in het bezit zijn van een ten aanzien van het beroep van stedenbouwkundige afgegeven EG-verklaring als bedoeld in de Algemene wet erkenning EG-hoger-onderwijsdiploma's dan wel in de [Algemene wet erkenning EG-beroepsopleidingen](https://wetten.overheid.nl/jci1.3:c:BWBR0006781);
 
 - h. in het bezit zijn van een der door Onze Minister al dan niet op verzoek van een belanghebbende aangewezen diploma's die door instellingen in het buitenland, waaronder niet zijn begrepen instellingen, gevestigd in de lidstaten van de Europese Unie of de andere staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte dan wel in Zwitserland, zijn of worden verstrekt.
 
