@@ -4,7 +4,7 @@ identifier: "BWBR0004241"
 country: "nl"
 rank: "kb"
 publication_date: "2019-12-10"
-last_updated: "2001-11-29"
+last_updated: "2006-04-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004241"
 soort: "KB"
@@ -66,7 +66,7 @@ Het Nationaal Comité heeft tot doel en taak:
 
 - a. De leden van het Nationaal Comité worden bij koninklijk besluit benoemd op voordracht van Onze Minister-President, Minister van Algemene Zaken, en van Onze Minister van Volksgezondheid, Welzijn en Sport.
 
-- b. De leden van het Nationaal Comité worden voor een periode van zes jaar benoemd en zijn niet hernoembaar.
+- b. De leden van het Nationaal Comité worden voor een periode van zes jaar benoemd en zijn in bijzondere gevallen voor een periode van ten hoogste drie jaar herbenoembaar.
 
 - c. Er kan een rooster van aftreden worden opgesteld.
 
@@ -113,5 +113,11 @@ De leden van het Nationaal Comité ontvangen een vergoeding voor reis- en verbli
 ##### Artikel 12
 
 Aan het Nationaal Comité wordt door Onze Minister-President, Minister van Algemene Zaken, een ambtelijk adviseur toegevoegd.
+
+Onze Minister-President, Minister van Algemene Zaken en Onze Minister van Welzijn, Volksgezondheid en Cultuur zijn belast met de uitvoering van dit besluit, dat zal worden geplaatst in de Nederlandse Staatscourant en waarvan afschrift zal worden gezonden aan de Algemene Rekenkamer.
+
+##### Artikel 13
+
+Dit besluit wordt aangehaald als: Instellingsbesluit Nationaal Comité 4 en 5 mei.
 
 Onze Minister-President, Minister van Algemene Zaken en Onze Minister van Welzijn, Volksgezondheid en Cultuur zijn belast met de uitvoering van dit besluit, dat zal worden geplaatst in de Nederlandse Staatscourant en waarvan afschrift zal worden gezonden aan de Algemene Rekenkamer.
