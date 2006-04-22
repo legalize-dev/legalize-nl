@@ -4,7 +4,7 @@ identifier: "BWBR0010198"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-03"
-last_updated: "2004-12-24"
+last_updated: "2006-04-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010198"
 soort: "ministeriele-regeling"
@@ -49,17 +49,17 @@ In dit besluit wordt verstaan onder:
 
 2. De lengte van een geografisch nummer bedraagt tien cijfers.
 
-3. De lengte van een niet-geografisch nummer kan varieren en is aangegeven in de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=1&z=2004-12-24&g=2004-12-24), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=3&z=2004-12-24&g=2004-12-24) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=4&z=2004-12-24&g=2004-12-24), genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&artikel=3&z=2004-12-24&g=2004-12-24).
+3. De lengte van een niet-geografisch nummer kan varieren en is aangegeven in de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=1&z=2006-04-22&g=2006-04-22), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=3&z=2006-04-22&g=2006-04-22) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=4&z=2006-04-22&g=2006-04-22), genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&artikel=3&z=2006-04-22&g=2006-04-22).
 
 ##### Artikel 3
 
 In de bij dit besluit behorende:
 
-- a. [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=1&z=2004-12-24&g=2004-12-24) worden de bestemmingen vastgesteld voor nummers voor telefoon- en ISDN-diensten;
+- a. [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=1&z=2006-04-22&g=2006-04-22) worden de bestemmingen vastgesteld voor nummers voor telefoon- en ISDN-diensten;
 
-- b. [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=2&z=2004-12-24&g=2004-12-24) worden de netnummergebieden, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=1&z=2004-12-24&g=2004-12-24), vastgesteld;
+- b. [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=2&z=2006-04-22&g=2006-04-22) worden de netnummergebieden, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=1&z=2006-04-22&g=2006-04-22), vastgesteld;
 
-- c. [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=3&z=2004-12-24&g=2004-12-24) wordt de verbijzondering naar nummerlengte van de nummerreeksen 0800, 0900, 0906 en 0909 vastgesteld.
+- c. [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=3&z=2006-04-22&g=2006-04-22) wordt de verbijzondering naar nummerlengte van de nummerreeksen 0800, 0900, 0906 en 0909 vastgesteld.
 
 ##### Artikel 4
 
@@ -506,7 +506,7 @@ Dit besluit wordt aangehaald als: [Nummerplan telefoon- en ISDN-diensten](https:
 |   | 8.. |   |   |
 |   | 9.. | ander gebruik wordt uitgefaseerd |   |
 
-## Bijlage 1. , behorend bij [artikel 3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&artikel=3&z=2004-12-24&g=2004-12-24), van het Nummerplan telefoon- en ISDN-diensten
+## Bijlage 1. , behorend bij [artikel 3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&artikel=3&z=2006-04-22&g=2006-04-22), van het Nummerplan telefoon- en ISDN-diensten
 
 | Beschikbaar voor toekenning of reservering | Niet beschikbaar voor toekenning of reservering | Bestemming van de nummers (geografisch en niet-geografisch) | Lengte van de nummers | Nummers van uitzonderlijke economische waarden |
 | --- | --- | --- | --- | --- |
@@ -880,10 +880,15 @@ Dit besluit wordt aangehaald als: [Nummerplan telefoon- en ISDN-diensten](https:
 | 1330 t/m 1399 |   | Nummers voor diensten die de eigen openbare telefoondienst ondersteunen en voor toegang tot netwerklokale faciliteiten voor gebruikers van een netwerk | 4 | Nee |
 |   |   |   |   |   |
 | 14... | 14... | Geharmoniseerde nummers voor diensten met een bijzonder maatschappelijk belang |   |   |
-|   | 1400 t/m 1487 |   |   |   |
-| 1488 |   | Toegang tot de politiehulpdienst, met uitzondering van de hulpdienst die toegankelijk is via het Europees alarmnummer 112 | 4 | Nee |
-|   | 1489 t/m 1499 |   |   |   |
-|   |   |   |   |   |
+| 1400 |   | Contactcentrum van de gehele overheid | 4 | Nee |
+| 1401 t/m 1405 |   | Contactcentra van de gemeenten | 5,6 zie bijlage 3 tabel 140x | Nee |
+|   | 1406 |   |   |   |
+| 1407.. |   | Contactcentra van de gemeenten | 5 | Nee |
+|   | 1408 1409 |   |   |   |
+|   | 1410 t/m 1419 | Contactcentra van de overige overheidsorganisaties | 4 | Nee |
+|   | 1420 t/m 1450 |   |   |   |
+| 1451 |   | Contactcentrum van de rijksoverheid | 4 | Nee |
+|   | 1452 t/m 1499 |   |   |   |
 |   | 15 |   |   |   |
 |   |   |   |   |   |
 | 16 |   | Carrierselectiedienst Nummer dat een gebruiker van een openbare telefoondienst de mogelijkheid biedt om het voor die dienst noodzakelijke transport van de uitgaande gegevens door een andere aanbieder van een openbare telefoondienst te laten verzorgen. De gebruiker kan van deze mogelijkheid gebruikmaken door het hier bedoelde nummer te kiezen onmiddellijk voorafgaand aan het nummer waarmee hij normaliter had kunnen volstaan. | 4 | Nee |
@@ -903,7 +908,7 @@ Dit besluit wordt aangehaald als: [Nummerplan telefoon- en ISDN-diensten](https:
 
 Ligt ter inzage bij het college, Babylon kantorencomplex B, te Den Haag.
 
-## Bijlage 3. als bedoeld in [artikel 3, onder c, van het Nummerplan telefoon- en ISDN-diensten](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&artikel=3&z=2004-12-24&g=2004-12-24)
+## Bijlage 3. als bedoeld in [artikel 3, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&artikel=3&z=2006-04-22&g=2006-04-22), van het Nummerplan telefoon- en ISDN-diensten
 
 |   | **0** | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -958,14 +963,24 @@ Ligt ter inzage bij het college, Babylon kantorencomplex B, te Den Haag.
 | 0909-8 | 8 | 8 | 11 | 8 | 8 | 11 | 8 | 11 | 8 | 11 |
 | 0909-9 | 11 | 11 | 8 | 8 | 11 | 8 | 8 | 8 | 8 | 11 |
 
+|   | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 14 01 | 5 | 6 | nb | 5 | nb | 5 | 6 | 6 | 6 | nb |
+| 14 02 | 5 | nb | 6 | 5 | 5 | 6 | 5 | nb | nb | 6 |
+| 14 03 | 5 | 6 | 6 | 5 | 6 | 5 | 5 | nb | 5 | nb |
+| 14 04 | 5 | 6 | nb | 5 | nb | 5 | 5 | 6 | 6 | 6 |
+| 14 05 | 5 | 6 | 6 | 5 | 6 | 5 | 6 | 6 | 5 | 6 |
+
+nb = niet beschikbaar voor toekenning of reservering
+
 Dit besluit zal met de daarbij behorende bijlagen en de toelichting in de Staatscourant worden geplaatst, met uitzondering van [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=2&z=2001-12-08&g=2001-12-08) die ter inzage ligt bij het college, Babylon kantorencomplex B, 3e verdieping, 2595 AA te Den Haag.
 
 ##### Artikel 1a
 
 In dit besluit wordt onder de openbare telefoondienst mede verstaan: een elektronische communicatiedienst die voor het publiek beschikbaar is voor alleen uitgaande gesprekken, onderscheidenlijk alleen inkomende gesprekken, en waarbij sprake is van een directe overdracht en routering van signalen.
 
-## Bijlage 4. als bedoeld in [artikel 3, onder d, van het Nummerplan telefoon- en ISDN-diensten](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&artikel=3&z=2004-12-24&g=2004-12-24)
+## Bijlage 4. als bedoeld in [artikel 3, onder d, van het Nummerplan telefoon- en ISDN-diensten](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&artikel=3&z=2006-04-22&g=2006-04-22)
 
 Vervallen.
 
-Dit besluit zal met de daarbij behorende bijlagen en de toelichting in de Staatscourant worden geplaatst, met uitzondering van [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=2&z=2004-12-24&g=2004-12-24) die ter inzage ligt bij het college, Babylon kantorencomplex B, 3e verdieping, 2595 AA te Den Haag.
+Dit besluit zal met de daarbij behorende bijlagen en de toelichting in de Staatscourant worden geplaatst, met uitzondering van [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=2&z=2006-04-22&g=2006-04-22) die ter inzage ligt bij het college, Babylon kantorencomplex B, 3e verdieping, 2595 AA te Den Haag.
