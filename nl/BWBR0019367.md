@@ -4,7 +4,7 @@ identifier: "BWBR0019367"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2006-04-22"
-last_updated: "2006-01-01"
+last_updated: "2006-04-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019367"
 soort: "ministeriele-regeling"
@@ -54,10 +54,45 @@ Aanvragen waarvan op grond van de gegevens, bedoeld in de [artikelen 4.15](https
 
 ##### Artikel 4
 
-Van het subsidieplafond, genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019367&artikel=1&z=2006-01-01&g=2006-01-01), is ten hoogste € 40 miljoen bestemd voor organisaties met excellente aanvragen die blijk geven van een hoog innovatief gehalte en die uitsluitend op grond van een tekortschietend track-record niet voor toekenning in aanmerking zouden zijn gekomen.
+Van het subsidieplafond, genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019367&artikel=1&z=2006-04-22&g=2006-04-22), is ten hoogste € 40 miljoen bestemd voor organisaties met excellente aanvragen die blijk geven van een hoog innovatief gehalte en die uitsluitend op grond van een tekortschietend track-record niet voor toekenning in aanmerking zouden zijn gekomen.
+
+Aan organisaties die op grond van dit artikel voor subsidie in aanmerking komen kan ten hoogste € 1 miljoen per jaar worden verleend. [Artikel 4.3, onderdeel d, van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&artikel=4.3) is niet van toepassing.
 
 ##### Artikel 5
 
 Dit besluit treedt in werking met ingang van 1 januari 2006.
+
+Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 3a
+
+1. Aan organisaties waaraan reeds eerder op grond van de [Subsidieregeling Ministerie van Buitenlandse Zaken, hoofdstuk II, afdeling 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010173&afdeling=3) (Thematische medefinanciering), of de [Subsidieregeling algemene organisaties voor ontwikkelingssamenwerking](https://wetten.overheid.nl/jci1.3:c:BWBR0013208) (Medefinancieringsprogramma) subsidie is verleend, kan niet meer subsidie worden verleend dan het met inachtneming van de bijlage bij dit besluit berekende bedrag. De subsidie kan in geen geval meer bedragen dan € 527,5 miljoen voor het gehele subsidietijdvak.
+
+2. Aan andere organisaties dan bedoeld in het eerste lid kan ten hoogste € 5 miljoen per jaar worden verleend.
+
+## Bijlage
+
+| Gemiddeld TMF/MFP niveau mln. €/jaar | Maximale stijging % | Maximaal niveau mln. €/jaar |
+| --- | --- | --- |
+| 0,25 en minder | 200% | 0,75 |
+| 0,50 | 160% | 1,30 |
+| 1,00 | 115% | 2,15 |
+| 1,50 | 100% | 3,00 |
+| 2,00 | 90% | 3,80 |
+| 2,50 | 85% | 4,63 |
+| 3,00 | 80% | 5,40 |
+| 3,50 | 75% | 6,13 |
+| 4,00 | 70% | 6,80 |
+| 4,50 | 65% | 7,43 |
+| 5,00 | 60% | 8,00 |
+| 6,00 | 50% | 9,00 |
+| 7,00 | 44% | 10,05 |
+| 8,00 | 37% | 10,96 |
+| 9,00 | 34% | 12,02 |
+| 10,00 | 30% | 13,00 |
+| 11,00 | 28% | 14,08 |
+| 12,00 | 26% | 15,12 |
+| 12,50 | 25% | 15,63 |
+| Groter dan 12,5 | 25% |   |
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
