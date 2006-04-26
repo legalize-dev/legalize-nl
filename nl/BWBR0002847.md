@@ -4,7 +4,7 @@ identifier: "BWBR0002847"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-06-30"
-last_updated: "2006-01-01"
+last_updated: "2006-04-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002847"
 soort: "AMvB"
@@ -46,61 +46,63 @@ Hebben goedgevonden en verstaan:
 
 Ter uitvoering van de [artikelen 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&artikel=3), en [3a, derde lid, van de Wet aansprakelijkheidsverzekering motorrijtuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&artikel=3a) worden als landen aangewezen:
 
-- a. België;
+- a. Andorra;
 
-- b. Bondsrepubliek Duitsland;
+- b. België;
 
-- c. Cyprus;
+- c. Bondsrepubliek Duitsland;
 
-- d. Denemarken, met inbegrip van de Faeröer;
+- d. Cyprus;
 
-- e. Estland;
+- e. Denemarken, met inbegrip van de Faeröer;
 
-- f. Finland;
+- f. Estland;
 
-- g. Frankrijk en Monaco;
+- g. Finland;
 
-- h. Griekenland;
+- h. Frankrijk en Monaco;
 
-- i. Hongarije;
+- i. Griekenland;
 
-- j. Ierland;
+- j. Hongarije;
 
-- k. Italië, San Marino en Vaticaanstad;
+- k. Ierland;
 
-- l. Kroatië;
+- l. Italië, San Marino en Vaticaanstad;
 
-- m. Letland;
+- m. Kroatië;
 
-- n. Litouwen;
+- n. Letland;
 
-- o. Luxemburg;
+- o. Litouwen;
 
-- p. Malta;
+- p. Luxemburg;
 
-- q. Noorwegen;
+- q. Malta;
 
-- r. Oostenrijk;
+- r. Noorwegen;
 
-- s. Polen;
+- s. Oostenrijk;
 
-- t. Portugal;
+- t. Polen;
 
-- u. Slovenië;
+- u. Portugal;
 
-- v. Slowaakse Republiek;
+- v. Slovenië;
 
-- w. Spanje;
+- w. Slowaakse Republiek;
 
-- x. Tsjechische Republiek;
+- x. Spanje;
 
-- y. Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, de Kanaaleilanden, het eiland Man en Gibraltar;
+- y. Tsjechische Republiek;
 
-- z. IJsland;
+- z. Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, de Kanaaleilanden, het eiland Man en Gibraltar;
 
-- aa. Zweden;
+- aa. IJsland;
 
-- bb. Zwitserland en Liechtenstein.
+- bb. Zweden;
+
+- cc. Zwitserland en Liechtenstein.
 
 ##### Artikel 2
 
@@ -108,6 +110,6 @@ Vervallen
 
 ##### Artikel 3
 
-De onderscheidene bepalingen van dit besluit treden in werking met ingang van door Ons te bepalen tijdstippen, welke ook voor wat de aanwijzing van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002847&artikel=1&z=2004-07-16&g=2006-01-01) genoemde landen betreft verschillend kunnen zijn.
+De onderscheidene bepalingen van dit besluit treden in werking met ingang van door Ons te bepalen tijdstippen, welke ook voor wat de aanwijzing van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002847&artikel=1&z=2006-04-26&g=2006-04-26) genoemde landen betreft verschillend kunnen zijn.
 
 Onze Minister van Justitie is belast met de uitvoering van dit besluit dat in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State.
