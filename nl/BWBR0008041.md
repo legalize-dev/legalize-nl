@@ -4,7 +4,7 @@ identifier: "BWBR0008041"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-01-01"
-last_updated: "2003-07-01"
+last_updated: "2006-04-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008041"
 soort: "ministeriele-regeling"
@@ -55,6 +55,8 @@ Voor omwisseling tegen een Nederlands rijbewijs komen in aanmerking de door de h
 - Man (Eiland): alle categoriëen
 
 - Monaco: alle categorieën
+
+- Québec (provincie): classe 5 (véhicule de promenade)
 
 - Republiek Korea : 1st class en 2nd class ordinary
 
