@@ -4,7 +4,7 @@ identifier: "BWBR0011825"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2006-03-15"
+last_updated: "2006-04-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011825"
 soort: "AMvB"
@@ -108,7 +108,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 1.3
 
-Ter uitvoering van een verdrag waarbij de grenscontrole is verlegd naar buitengrenzen, wordt in [artikel 2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=2&afdeling=2&artikel=2.8&z=2006-03-15&g=2006-03-15), [hoofdstuk 4, afdeling 1](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=4&afdeling=1&z=2006-03-15&g=2006-03-15), de [artikelen 4.24](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=4&afdeling=2&artikel=4.24&z=2006-03-15&g=2006-03-15) en [4.25](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=4&afdeling=2&artikel=4.25&z=2006-03-15&g=2006-03-15), alsmede in [artikel 4.29, eerste lid, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=4&afdeling=2&artikel=4.29&z=2006-03-15&g=2006-03-15), onder «Nederland» mede verstaan het grondgebied van andere bij dat verdrag aangesloten landen waarover de werking van dat verdrag zich uitstrekt.
+Ter uitvoering van een verdrag waarbij de grenscontrole is verlegd naar buitengrenzen, wordt in [artikel 2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=2&afdeling=2&artikel=2.8&z=2006-04-29&g=2006-04-29), [hoofdstuk 4, afdeling 1](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=4&afdeling=1&z=2006-04-29&g=2006-04-29), de [artikelen 4.24](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=4&afdeling=2&artikel=4.24&z=2006-04-29&g=2006-04-29) en [4.25](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=4&afdeling=2&artikel=4.25&z=2006-04-29&g=2006-04-29), alsmede in [artikel 4.29, eerste lid, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=4&afdeling=2&artikel=4.29&z=2006-04-29&g=2006-04-29), onder «Nederland» mede verstaan het grondgebied van andere bij dat verdrag aangesloten landen waarover de werking van dat verdrag zich uitstrekt.
 
 ##### Artikel 1.4
 
@@ -122,9 +122,7 @@ Ter uitvoering van een verdrag waarbij de grenscontrole is verlegd naar buitengr
 
 ##### Artikel 1.5
 
-1. Onze Minister wint omtrent een te nemen beslissing op bezwaar of administratief beroep advies in van de Adviescommissie voor vreemdelingenzaken, die optreedt als commissie in de zin van [artikel 7:13](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:13) onderscheidenlijk artikel [7:19 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:19), indien bij de bestreden beschikking de toegang tot Nederland aan een gemeenschapsonderdaan wordt geweigerd, dan wel wordt vastgesteld dat een gemeenschapsonderdaan geen rechtmatig verblijf als bedoeld in [artikel 8, onder e, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) toekomt, dan wel dat dit is geëindigd, op grond van gevaar voor de openbare orde, de openbare veiligheid en de volksgezondheid als bedoeld in [richtlijn (EG) nr. 64/221](31964L0221) van de Raad van 25 februari 1964 voor de coördinatie van de voor vreemdelingen geldende bijzondere maatregelen ten aanzien van verplaatsing en verblijf, die gerechtvaardigd zijn uit hoofde van de openbare orde, de openbare veiligheid en de volksgezondheid (PbEG 1964, 056).
-
-2. De Adviescommissie voor vreemdelingenzaken adviseert binnen acht weken, tenzij Onze Minister een andere termijn stelt.
+Vervallen
 
 #### Paragraaf 2. Inrichting en werkwijze
 
@@ -142,27 +140,15 @@ De commissie kan haar werkwijze nader vaststellen in een reglement van orde als 
 
 ##### Artikel 1.8
 
-1. Indien de commissie optreedt als adviescommissie in de zin van [artikel 7:19, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:19), is [artikel 7:13, vijfde lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:13) van overeenkomstige toepassing op de in [artikel 1.9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=1&afdeling=2&paragraaf=2&artikel=1.9&z=2006-03-15&g=2006-03-15), bedoelde vertegenwoordiger van Onze Minister.
-
-2. Indien de commissie optreedt als adviescommissie in de zin van [artikel 7:13 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:13), beslist Onze Minister over de toepassing van [artikel 7:3 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:3).
+Vervallen
 
 ##### Artikel 1.9
 
-1. In de gevallen waarin overeenkomstig [artikel 1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=1&afdeling=2&paragraaf=1&artikel=1.5&z=2006-03-15&g=2006-03-15) advies van de commissie wordt ingewonnen, deelt de commissie de vreemdeling mee dat de zaak aan haar is voorgelegd. Bij deze kennisgeving wordt vermeld dat de commissie de vreemdeling in de gelegenheid zal stellen zijn belangen bij haar te bepleiten en dat hij, indien hij van deze gelegenheid gebruik wil maken, dit binnen een in de kennisgeving te stellen termijn aan de commissie dient te berichten.
-
-2. De in het eerste lid bedoelde kennisgeving vermeldt voorts dat de vreemdeling en, zo hij die heeft, zijn raadsman de commissie kunnen verzoeken, bepaalde personen uit te nodigen als getuige of deskundige verklaringen voor haar af te leggen dan wel als tolk op te treden.
-
-3. De commissie stelt een door Onze Minister als zijn vertegenwoordiger aangewezen ambtenaar tijdig in de gelegenheid kennis te nemen van op de zaak betrekking hebbende stukken.
+Vervallen
 
 ##### Artikel 1.10
 
-1. De commissie stelt subcommissies in die namens de commissie kunnen optreden bij de vervulling van haar taak, bedoeld in [artikel 2, vierde lid, onderdeel b, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=2). Adviezen, bedoeld in [artikel 1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=1&afdeling=2&paragraaf=1&artikel=1.5&z=2006-03-15&g=2006-03-15), worden door een zodanige subcommissie vastgesteld, tenzij de voorzitter van de commissie of de subcommissie beslist dat een advies wordt vastgesteld door de commissie.
-
-2. Een overeenkomstig het eerste lid ingestelde subcommissie bestaat uit drie leden. De commissie bepaalt welke leden der subcommissie als voorzitter onderscheidenlijk ondervoorzitter optreden en wijst uit haar midden voor elke subcommissie een aantal plaatsvervangende leden aan.
-
-3. De [artikelen 1.7 tot en met 1.9](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=1&afdeling=2&paragraaf=2&artikel=1.7&z=2006-03-15&g=2006-03-15) zijn ten aanzien van subcommissies van overeenkomstige toepassing.
-
-4. Voor de geldigheid van een beslissing van een overeenkomstig het eerste lid ingestelde subcommissie is vereist, dat door de voltallige subcommissie aan de besluitvorming is deelgenomen.
+Vervallen
 
 ### Hoofdstuk 2. Toegang
 
@@ -298,7 +284,7 @@ Vervallen
 
 2. Het eerste lid blijft buiten toepassing, indien Onze Minister op grond van humanitaire overwegingen, om redenen van nationaal belang of wegens internationale verplichtingen een afwijking noodzakelijk acht.
 
-3. Het eerste lid is niet van toepassing op de vreemdeling die rechtmatig verblijf heeft als bedoeld in [artikel 8, onder e, dan wel l, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8). Op deze vreemdeling is [artikel 8.7](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=8&afdeling=2&paragraaf=2&artikel=8.7&z=2006-03-15&g=2006-03-15) van toepassing.
+3. Het eerste lid is niet van toepassing op de vreemdeling die rechtmatig verblijf heeft als bedoeld in [artikel 8, onder e, dan wel l, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8), en het familielid, bedoeld in [artikel 8.7, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=8&afdeling=2&paragraaf=2&artikel=8.7&z=2006-04-29&g=2006-04-29), en de vreemdeling, bedoeld in [artikel 8.7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=8&afdeling=2&paragraaf=2&artikel=8.7&z=2006-04-29&g=2006-04-29). Op deze vreemdelingen is [artikel 8.8](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=8&afdeling=2&paragraaf=2&artikel=8.8&z=2006-04-29&g=2006-04-29) van toepassing.
 
 ### Afdeling 4. Middelen voor kosten van verblijf
 
@@ -308,7 +294,7 @@ Vervallen
 
 2. Onder middelen worden in ieder geval verstaan geldelijke middelen alsmede vervoersbewijzen.
 
-3. Het eerste lid is niet van toepassing op de vreemdeling die rechtmatig verblijf heeft als bedoeld in [artikel 8, onder e of l, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8).
+3. Het eerste lid is niet van toepassing op de vreemdeling die rechtmatig verblijf heeft als bedoeld in [artikel 8, onder e, dan wel l, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8), het familielid, bedoeld in [artikel 8.7, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=8&afdeling=2&paragraaf=2&artikel=8.7&z=2006-04-29&g=2006-04-29), en de vreemdeling, bedoeld in [artikel 8.7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=8&afdeling=2&paragraaf=2&artikel=8.7&z=2006-04-29&g=2006-04-29).
 
 ##### Artikel 2.11
 
@@ -324,7 +310,7 @@ Vervallen
 
 3. Het model van de garantverklaring wordt bij ministeriële regeling vastgesteld.
 
-4. Het eerste lid is niet van toepassing op de vreemdeling die rechtmatig verblijf heeft als bedoeld in [artikel 8, onder e, dan wel l, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8).
+4. Het eerste lid is niet van toepassing op de vreemdeling die rechtmatig verblijf heeft als bedoeld in [artikel 8, onder e, dan wel l, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8), het familielid, bedoeld in [artikel 8.7, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=8&afdeling=2&paragraaf=2&artikel=8.7&z=2006-04-29&g=2006-04-29), en de vreemdeling, bedoeld in [artikel 8.7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=8&afdeling=2&paragraaf=2&artikel=8.7&z=2006-04-29&g=2006-04-29).
 
 ### Hoofdstuk 3. Verblijf
 
@@ -338,7 +324,7 @@ Vervallen
 
 ##### Artikel 3.2
 
-Voor de toepassing van [artikel 12, eerste lid, onder b en d, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=12) zijn de [artikelen 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=2&afdeling=3&artikel=2.9&z=2006-03-15&g=2006-03-15), [2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=2&afdeling=4&artikel=2.10&z=2006-03-15&g=2006-03-15) en [2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=2&afdeling=4&artikel=2.11&z=2006-03-15&g=2006-03-15) van overeenkomstige toepassing.
+Voor de toepassing van [artikel 12, eerste lid, onder b en d, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=12) zijn de [artikelen 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=2&afdeling=3&artikel=2.9&z=2006-04-29&g=2006-04-29), [2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=2&afdeling=4&artikel=2.10&z=2006-04-29&g=2006-04-29) en [2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=2&afdeling=4&artikel=2.11&z=2006-04-29&g=2006-04-29) van overeenkomstige toepassing.
 
 ##### Artikel 3.3
 
@@ -350,13 +336,9 @@ Voor de toepassing van [artikel 12, eerste lid, onder b en d, van de Wet](https:
 
 - c. voor vreemdelingen die voor een verblijf van niet langer dan drie maanden naar Nederland zijn gekomen: drie maanden;
 
-- d. voor gemeenschapsonderdanen, onderdanen van Zwitserland en onderdanen van een staat die partij is bij het Verdrag tot oprichting van de Europese Gemeenschap of de Overeenkomst betreffende de Europese Economische Ruimte: zes maanden;
+- d. voor andere vreemdelingen: acht dagen.
 
-- e. voor andere vreemdelingen: acht dagen.
-
-2. De in het eerste lid, onder d, bedoelde termijn eindigt, zodra de betrokken onderdaan ten laste komt van de Staat of van andere openbare lichamen.
-
-3. De in het eerste lid, onder b en c, bedoelde termijn verstrijkt in geen geval later dan op de achtste dag nadat zich omstandigheden hebben voorgedaan, waaruit kan worden afgeleid dat de vreemdeling het voornemen heeft langer dan drie maanden binnen een tijdvak van zes maanden in Nederland te verblijven.
+2. De in het eerste lid, onder b en c, bedoelde termijn verstrijkt in geen geval later dan op de achtste dag nadat zich omstandigheden hebben voorgedaan, waaruit kan worden afgeleid dat de vreemdeling het voornemen heeft langer dan drie maanden binnen een tijdvak van zes maanden in Nederland te verblijven.
 
 ### Afdeling 2. De verblijfsvergunning voor bepaalde tijd regulier
 
@@ -498,11 +480,11 @@ Voor de toepassing van [artikel 12, eerste lid, onder b en d, van de Wet](https:
 
 ##### Artikel 3.8
 
-De waarborgsom, bedoeld in [artikel 3.7, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.7&z=2006-03-15&g=2006-03-15), wordt gedeponeerd bij Onze Minister.
+De waarborgsom, bedoeld in [artikel 3.7, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.7&z=2006-04-29&g=2006-04-29), wordt gedeponeerd bij Onze Minister.
 
 ##### Artikel 3.9
 
-1. De waarborgsom, bedoeld in [artikel 3.7, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.7&z=2006-03-15&g=2006-03-15), wordt in ieder geval door Onze Minister aan de rechthebbende teruggegeven:
+1. De waarborgsom, bedoeld in [artikel 3.7, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.7&z=2006-04-29&g=2006-04-29), wordt in ieder geval door Onze Minister aan de rechthebbende teruggegeven:
 
 - a. zodra de verblijfsvergunning, bedoeld in [artikel 14 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14), of het desbetreffende voorschrift, is ingetrokken, dan wel de geldigheidsduur van de verblijfsvergunning is verstreken;
 
@@ -518,17 +500,17 @@ De waarborgsom, bedoeld in [artikel 3.7, eerste lid, onder a](https://wetten.ove
 
 ##### Artikel 3.10
 
-1. Onze Minister berekent rente over waarborgsommen, gedeponeerd krachtens [artikel 3.7, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.7&z=2006-03-15&g=2006-03-15).
+1. Onze Minister berekent rente over waarborgsommen, gedeponeerd krachtens [artikel 3.7, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.7&z=2006-04-29&g=2006-04-29).
 
 2. De rente wordt berekend vanaf het kalenderjaar volgend op het jaar waarin de waarborgsom is gestort. Over het kalenderjaar waarin de waarborgsom is gedeponeerd, wordt geen rente vergoed. Bij de berekening van de termijn waarover rente wordt vergoed, wordt het kalenderjaar waarin de waarborgsom wordt terugbetaald als vol jaar meegeteld.
 
 ##### Artikel 3.11
 
-De waarborgsom wordt teruggegeven en de rente wordt uitbetaald zo spoedig mogelijk nadat één van de in [artikel 3.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.9&z=2006-03-15&g=2006-03-15), genoemde gronden zich voordoet.
+De waarborgsom wordt teruggegeven en de rente wordt uitbetaald zo spoedig mogelijk nadat één van de in [artikel 3.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.9&z=2006-04-29&g=2006-04-29), genoemde gronden zich voordoet.
 
 ##### Artikel 3.12
 
-1. Verplichtingen, voortvloeiende uit een garantstelling overeenkomstig [artikel 3.7, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.7&z=2006-03-15&g=2006-03-15), of het stellen van zakelijke zekerheid overeenkomstig [artikel 3.7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.7&z=2006-03-15&g=2006-03-15), hebben uitsluitend betrekking op kosten, veroorzaakt binnen vijf jaren, nadat de verblijfsvergunning, bedoeld in [artikel 14 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14), is verleend.
+1. Verplichtingen, voortvloeiende uit een garantstelling overeenkomstig [artikel 3.7, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.7&z=2006-04-29&g=2006-04-29), of het stellen van zakelijke zekerheid overeenkomstig [artikel 3.7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.7&z=2006-04-29&g=2006-04-29), hebben uitsluitend betrekking op kosten, veroorzaakt binnen vijf jaren, nadat de verblijfsvergunning, bedoeld in [artikel 14 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14), is verleend.
 
 2. Onze Minister kan bepalen dat de in het eerste lid genoemde termijn korter is dan vijf jaren, indien:
 
@@ -544,13 +526,13 @@ De waarborgsom wordt teruggegeven en de rente wordt uitbetaald zo spoedig mogeli
 
 ##### Artikel 3.13
 
-1. De verblijfsvergunning voor bepaalde tijd, bedoeld in [artikel 14 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14), wordt onder een beperking verband houdend met gezinshereniging of gezinsvorming, verleend aan het in [artikel 3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.14&z=2006-03-15&g=2006-03-15) genoemde gezinslid van de in [artikel 3.15](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.15&z=2006-03-15&g=2006-03-15) bedoelde hoofdpersoon, indien wordt voldaan aan alle in de [artikelen 3.16 tot en met 3.22](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.16&z=2006-03-15&g=2006-03-15) genoemde voorwaarden.
+1. De verblijfsvergunning voor bepaalde tijd, bedoeld in [artikel 14 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14), wordt onder een beperking verband houdend met gezinshereniging of gezinsvorming, verleend aan het in [artikel 3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.14&z=2006-04-29&g=2006-04-29) genoemde gezinslid van de in [artikel 3.15](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.15&z=2006-04-29&g=2006-04-29) bedoelde hoofdpersoon, indien wordt voldaan aan alle in de [artikelen 3.16 tot en met 3.22](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.16&z=2006-04-29&g=2006-04-29) genoemde voorwaarden.
 
 2. In de overige gevallen kan de in het eerste lid bedoelde verblijfsvergunning worden verleend.
 
 ##### Artikel 3.14
 
-1. De verblijfsvergunning, bedoeld in [artikel 3.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.13&z=2006-03-15&g=2006-03-15), wordt verleend aan:
+1. De verblijfsvergunning, bedoeld in [artikel 3.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.13&z=2006-04-29&g=2006-04-29), wordt verleend aan:
 
 - a. de vreemdeling van achttien jaar of ouder die met de hoofdpersoon een naar Nederlands internationaal privaatrecht geldig huwelijk of een in Nederland geregistreerd partnerschap is aangegaan;
 
@@ -566,21 +548,21 @@ De waarborgsom wordt teruggegeven en de rente wordt uitbetaald zo spoedig mogeli
 
 ##### Artikel 3.15
 
-1. De verblijfsvergunning, bedoeld in [artikel 3.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.13&z=2006-03-15&g=2006-03-15), wordt verleend aan het in [artikel 3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.14&z=2006-03-15&g=2006-03-15) bedoelde gezinslid van:
+1. De verblijfsvergunning, bedoeld in [artikel 3.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.13&z=2006-04-29&g=2006-04-29), wordt verleend aan het in [artikel 3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.14&z=2006-04-29&g=2006-04-29) bedoelde gezinslid van:
 
 - a. een Nederlander van achttien jaar of ouder, of
 
-- b. een vreemdeling van achttien jaar of ouder met rechtmatig verblijf als bedoeld in [artikel 8, onder a tot en met e, dan wel l, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8), dat niet-tijdelijk is in de zin van [artikel 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.5&z=2006-03-15&g=2006-03-15).
+- b. een vreemdeling van achttien jaar of ouder met rechtmatig verblijf als bedoeld in [artikel 8, onder a tot en met e, dan wel l, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8), dat niet-tijdelijk is in de zin van [artikel 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.5&z=2006-04-29&g=2006-04-29).
 
 2. Ingeval van gezinsvorming wordt de verblijfsvergunning, in afwijking van het eerste lid, onder a en b, verleend indien de hoofdpersoon 21 jaar of ouder is.
 
 ##### Artikel 3.16
 
-Zolang de vreemdeling of de hoofdpersoon met meer dan één andere persoon tegelijkertijd door een huwelijk of een partnerschap is verbonden, wordt de verblijfsvergunning, bedoeld in [artikel 3.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.13&z=2006-03-15&g=2006-03-15), slechts verleend aan één echtgenoot, geregistreerd partner of partner tegelijkertijd, alsmede aan de uit die vreemdeling geboren minderjarige kinderen.
+Zolang de vreemdeling of de hoofdpersoon met meer dan één andere persoon tegelijkertijd door een huwelijk of een partnerschap is verbonden, wordt de verblijfsvergunning, bedoeld in [artikel 3.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.13&z=2006-04-29&g=2006-04-29), slechts verleend aan één echtgenoot, geregistreerd partner of partner tegelijkertijd, alsmede aan de uit die vreemdeling geboren minderjarige kinderen.
 
 ##### Artikel 3.17
 
-De verblijfsvergunning, bedoeld in [artikel 3.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.13&z=2006-03-15&g=2006-03-15), wordt verleend, indien:
+De verblijfsvergunning, bedoeld in [artikel 3.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.13&z=2006-04-29&g=2006-04-29), wordt verleend, indien:
 
 - a. de vreemdeling en de hoofdpersoon samenwonen en een gemeenschappelijke huishouding voeren, en
 
@@ -588,25 +570,25 @@ De verblijfsvergunning, bedoeld in [artikel 3.13, eerste lid](https://wetten.ove
 
 ##### Artikel 3.18
 
-De verblijfsvergunning, bedoeld in [artikel 3.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.13&z=2006-03-15&g=2006-03-15), wordt verleend, indien de vreemdeling beschikt over een geldige machtiging tot voorlopig verblijf die overeenkomt met het verblijfsdoel waarvoor de verblijfsvergunning is aangevraagd of behoort tot één van de in [artikel 17 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=17) of in [artikel 3.71, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.71&z=2006-03-15&g=2006-03-15), bedoelde categorieën.
+De verblijfsvergunning, bedoeld in [artikel 3.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.13&z=2006-04-29&g=2006-04-29), wordt verleend, indien de vreemdeling beschikt over een geldige machtiging tot voorlopig verblijf die overeenkomt met het verblijfsdoel waarvoor de verblijfsvergunning is aangevraagd of behoort tot één van de in [artikel 17 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=17) of in [artikel 3.71, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.71&z=2006-04-29&g=2006-04-29), bedoelde categorieën.
 
 ##### Artikel 3.19
 
-De verblijfsvergunning, bedoeld in [artikel 3.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.13&z=2006-03-15&g=2006-03-15), wordt verleend, indien de vreemdeling beschikt over een geldig document voor grensoverschrijding, dan wel naar het oordeel van Onze Minister heeft aangetoond dat hij vanwege de regering van het land waarvan hij onderdaan is, niet of niet meer in het bezit van een geldig document voor grensoverschrijding kan worden gesteld.
+De verblijfsvergunning, bedoeld in [artikel 3.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.13&z=2006-04-29&g=2006-04-29), wordt verleend, indien de vreemdeling beschikt over een geldig document voor grensoverschrijding, dan wel naar het oordeel van Onze Minister heeft aangetoond dat hij vanwege de regering van het land waarvan hij onderdaan is, niet of niet meer in het bezit van een geldig document voor grensoverschrijding kan worden gesteld.
 
 ##### Artikel 3.20
 
-De verblijfsvergunning, bedoeld in [artikel 3.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.13&z=2006-03-15&g=2006-03-15), wordt verleend, indien de vreemdeling geen gevaar vormt voor de openbare orde of nationale veiligheid. De [artikelen 3.77](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.77&z=2006-03-15&g=2006-03-15) en [3.78](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.78&z=2006-03-15&g=2006-03-15) zijn van toepassing.
+De verblijfsvergunning, bedoeld in [artikel 3.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.13&z=2006-04-29&g=2006-04-29), wordt verleend, indien de vreemdeling geen gevaar vormt voor de openbare orde of nationale veiligheid. De [artikelen 3.77](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.77&z=2006-04-29&g=2006-04-29) en [3.78](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.78&z=2006-04-29&g=2006-04-29) zijn van toepassing.
 
 ##### Artikel 3.21
 
-De verblijfsvergunning, bedoeld in [artikel 3.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.13&z=2006-03-15&g=2006-03-15), wordt verleend, indien de vreemdeling bereid is een onderzoek naar of behandeling voor tuberculose te ondergaan en daaraan mee te werken, dan wel de nationaliteit bezit van een van de bij ministeriële regeling vast te stellen landen.
+De verblijfsvergunning, bedoeld in [artikel 3.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.13&z=2006-04-29&g=2006-04-29), wordt verleend, indien de vreemdeling bereid is een onderzoek naar of behandeling voor tuberculose te ondergaan en daaraan mee te werken, dan wel de nationaliteit bezit van een van de bij ministeriële regeling vast te stellen landen.
 
 ##### Artikel 3.22
 
-1. De verblijfsvergunning, bedoeld in [artikel 3.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.13&z=2006-03-15&g=2006-03-15), wordt verleend, indien de hoofdpersoon:
+1. De verblijfsvergunning, bedoeld in [artikel 3.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.13&z=2006-04-29&g=2006-04-29), wordt verleend, indien de hoofdpersoon:
 
-- a. duurzaam en zelfstandig beschikt over een netto-inkomen als bedoeld in [artikel 3.74, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.74&z=2006-03-15&g=2006-03-15), en
+- a. duurzaam en zelfstandig beschikt over een netto-inkomen als bedoeld in [artikel 3.74, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.74&z=2006-04-29&g=2006-04-29), en
 
 - b. een garantstelling heeft ondertekend, voorzover de vreemdeling als partner van die persoon wil verblijven.
 
@@ -618,7 +600,7 @@ De verblijfsvergunning, bedoeld in [artikel 3.13, eerste lid](https://wetten.ove
 
 ##### Artikel 3.23
 
-1. De verblijfsvergunning, bedoeld in [artikel 3.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.13&z=2006-03-15&g=2006-03-15), wordt verleend aan de in Nederland geboren vreemdeling, die het hoofdverblijf niet buiten Nederland heeft verplaatst en die naar het oordeel van Onze Minister feitelijk is blijven behoren tot het in Nederland gevestigde gezin van de ouder, die rechtmatig verblijf heeft als bedoeld in [artikel 8, onder a tot en met e, dan wel l, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8), en die sedert de geboorte van de vreemdeling het hoofdverblijf niet buiten Nederland heeft verplaatst.
+1. De verblijfsvergunning, bedoeld in [artikel 3.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.13&z=2006-04-29&g=2006-04-29), wordt verleend aan de in Nederland geboren vreemdeling, die het hoofdverblijf niet buiten Nederland heeft verplaatst en die naar het oordeel van Onze Minister feitelijk is blijven behoren tot het in Nederland gevestigde gezin van de ouder, die rechtmatig verblijf heeft als bedoeld in [artikel 8, onder a tot en met e, dan wel l, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8), en die sedert de geboorte van de vreemdeling het hoofdverblijf niet buiten Nederland heeft verplaatst.
 
 2. Indien de aanvraag is ontvangen voordat de vreemdeling de leeftijd van negen maanden heeft bereikt, wordt de verblijfsvergunning eveneens verleend aan de buiten Nederland geboren vreemdeling, die naar het oordeel van Onze Minister feitelijk is blijven behoren tot het gezin van beide ouders, die sedert de geboorte van de vreemdeling rechtmatig verblijf als bedoeld in [artikel 8, onder a tot en met e, dan wel l, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8), hebben en het hoofdverblijf niet buiten Nederland hebben verplaatst.
 
@@ -626,7 +608,7 @@ De verblijfsvergunning, bedoeld in [artikel 3.13, eerste lid](https://wetten.ove
 
 4. De verblijfsvergunning wordt verleend, indien de vreemdeling:
 
-- a. beschikt over een geldige machtiging tot voorlopig verblijf die overeenkomt met het verblijfsdoel waarvoor de verblijfsvergunning is aangevraagd, of behoort tot één van de in [artikel 17 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=17) of in [artikel 3.71, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.71&z=2006-03-15&g=2006-03-15), bedoelde categorieën;
+- a. beschikt over een geldige machtiging tot voorlopig verblijf die overeenkomt met het verblijfsdoel waarvoor de verblijfsvergunning is aangevraagd, of behoort tot één van de in [artikel 17 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=17) of in [artikel 3.71, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.71&z=2006-04-29&g=2006-04-29), bedoelde categorieën;
 
 - b. beschikt over een geldig document voor grensoverschrijding, of naar het oordeel van Onze Minister heeft aangetoond dat hij vanwege de regering van het land waarvan hij onderdaan is, niet of niet meer in het bezit van een geldig document voor grensoverschrijding kan worden gesteld;
 
@@ -634,7 +616,7 @@ De verblijfsvergunning, bedoeld in [artikel 3.13, eerste lid](https://wetten.ove
 
 - d. geen gevaar vormt voor de openbare orde of nationale veiligheid.
 
-5. Bij de toepassing van het vierde lid, onder d, zijn de [artikelen 3.77](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.77&z=2006-03-15&g=2006-03-15) en [3.78](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.78&z=2006-03-15&g=2006-03-15) van toepassing.
+5. Bij de toepassing van het vierde lid, onder d, zijn de [artikelen 3.77](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.77&z=2006-04-29&g=2006-04-29) en [3.78](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.78&z=2006-04-29&g=2006-04-29) van toepassing.
 
 ##### Artikel 3.24
 
@@ -652,7 +634,7 @@ De verblijfsvergunning voor bepaalde tijd, bedoeld in [artikel 14 van de Wet](ht
 
 - b. er in het land van herkomst geen kind van de vreemdeling woont dat naar het oordeel van Onze Minister geacht kan worden in de opvang van de vreemdeling te kunnen voorzien.
 
-2. In afwijking van [artikel 3.74](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.74&z=2006-03-15&g=2006-03-15) zijn middelen van bestaan voldoende, indien de in het eerste lid, onder a, bedoelde kinderen gezamenlijk duurzaam en zelfstandig beschikken over een netto-inkomen gelijk aan de som van de bestaansminima, bedoeld in de [Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703), voor de desbetreffende categorie, aangevuld met het bestaansminimum voor alleenstaanden.
+2. In afwijking van [artikel 3.74](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.74&z=2006-04-29&g=2006-04-29) zijn middelen van bestaan voldoende, indien de in het eerste lid, onder a, bedoelde kinderen gezamenlijk duurzaam en zelfstandig beschikken over een netto-inkomen gelijk aan de som van de bestaansminima, bedoeld in de [Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703), voor de desbetreffende categorie, aangevuld met het bestaansminimum voor alleenstaanden.
 
 ##### Artikel 3.26
 
@@ -694,7 +676,7 @@ De verblijfsvergunning voor bepaalde tijd, bedoeld in [artikel 14 van de Wet](ht
 
 - b. wiens terugkeer naar het oordeel van Onze Minister redelijkerwijs is gewaarborgd.
 
-2. In afwijking van [artikel 3.75](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.75&z=2006-03-15&g=2006-03-15) zijn middelen van bestaan duurzaam, indien zij voor de duur van het voorgenomen verblijf van de vreemdeling beschikbaar zijn.
+2. In afwijking van [artikel 3.75](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.75&z=2006-04-29&g=2006-04-29) zijn middelen van bestaan duurzaam, indien zij voor de duur van het voorgenomen verblijf van de vreemdeling beschikbaar zijn.
 
 3. Indien het verblijf van de vreemdeling wordt bekostigd door een in Nederland gevestigd familielid of andere relatie, wordt onder voldoende middelen van bestaan verstaan een netto-inkomen, gelijk aan het bestaansminimum, bedoeld in de [Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703), voor de desbetreffende categorie, aangevuld met het bestaansminimum voor alleenstaanden van 21 jaar of ouder. Het familielid ondertekent een garantstelling. Het model van de garantstelling wordt bij ministeriële regeling vastgesteld.
 
@@ -724,21 +706,21 @@ De verblijfsvergunning voor bepaalde tijd, bedoeld in [artikel 14 van de Wet](ht
 
 ##### Artikel 3.31
 
-1. Met inachtneming van het tweede lid en de [artikelen 3.33](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.33&z=2006-03-15&g=2006-03-15) en [3.99 tot en met 3.104](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=4&artikel=3.99&z=2006-03-15&g=2006-03-15), wordt de verblijfsvergunning voor bepaalde tijd, bedoeld in [artikel 14 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14), onder een beperking verband houdend met het verrichten van arbeid in loondienst verleend aan de vreemdeling die in Nederland arbeid in loondienst verricht of gaat verrichten en waarvoor na toetsing aan proriteitgenietend aanbod op de Nederlandse arbeidsmarkt een tewerkstellingsvergunning als bedoeld in [artikel 1, onder e, van de Wet arbeid vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=1) is afgegeven.
+1. Met inachtneming van het tweede lid en de [artikelen 3.33](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.33&z=2006-04-29&g=2006-04-29) en [3.99 tot en met 3.104](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=4&artikel=3.99&z=2006-04-29&g=2006-04-29), wordt de verblijfsvergunning voor bepaalde tijd, bedoeld in [artikel 14 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14), onder een beperking verband houdend met het verrichten van arbeid in loondienst verleend aan de vreemdeling die in Nederland arbeid in loondienst verricht of gaat verrichten en waarvoor na toetsing aan proriteitgenietend aanbod op de Nederlandse arbeidsmarkt een tewerkstellingsvergunning als bedoeld in [artikel 1, onder e, van de Wet arbeid vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=1) is afgegeven.
 
 2. De in het eerste lid bedoelde verblijfsvergunning wordt verleend, indien de vreemdeling:
 
-- a. beschikt over een geldige machtiging tot voorlopig verblijf die overeenkomt met het verblijfsdoel waarvoor de verblijfsvergunning is aangevraagd, of behoort tot één van de in [artikel 17 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=17) of in [artikel 3.71, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.71&z=2006-03-15&g=2006-03-15), bedoelde categorieën;
+- a. beschikt over een geldige machtiging tot voorlopig verblijf die overeenkomt met het verblijfsdoel waarvoor de verblijfsvergunning is aangevraagd, of behoort tot één van de in [artikel 17 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=17) of in [artikel 3.71, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.71&z=2006-04-29&g=2006-04-29), bedoelde categorieën;
 
 - b. beschikt over een geldig document voor grensoverschrijding, of naar het oordeel van Onze Minister heeft aangetoond dat hij vanwege de regering van het land waarvan hij onderdaan is, niet of niet meer in het bezit van een geldig document voor grensoverschrijding kan worden gesteld;
 
-- c. met de arbeid in loondienst duurzaam en zelfstandig een netto-inkomen als bedoeld in [artikel 3.74, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.74&z=2006-03-15&g=2006-03-15), verwerft;
+- c. met de arbeid in loondienst duurzaam en zelfstandig een netto-inkomen als bedoeld in [artikel 3.74, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.74&z=2006-04-29&g=2006-04-29), verwerft;
 
 - d. bereid is een onderzoek naar of behandeling voor tuberculose te ondergaan en daaraan mee te werken of de nationaliteit bezit van een van de bij ministeriële regeling vast te stellen landen, en
 
-- e. geen gevaar vormt voor de openbare orde of nationale veiligheid als bedoeld in de [artikelen 3.77](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.77&z=2006-03-15&g=2006-03-15) en [3.78](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.78&z=2006-03-15&g=2006-03-15).
+- e. geen gevaar vormt voor de openbare orde of nationale veiligheid als bedoeld in de [artikelen 3.77](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.77&z=2006-04-29&g=2006-04-29) en [3.78](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.78&z=2006-04-29&g=2006-04-29).
 
-3. Indien de tewerkstellingsvergunning is afgegeven met een geldigheidsduur korter dan één jaar, zijn de middelen van bestaan in afwijking van [artikel 3.75](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.75&z=2006-03-15&g=2006-03-15) duurzaam, indien de vreemdeling gedurende de geldigheidsduur van de tewerkstellingsvergunning zelfstandig zal beschikken over voldoende middelen van bestaan uit die arbeid.
+3. Indien de tewerkstellingsvergunning is afgegeven met een geldigheidsduur korter dan één jaar, zijn de middelen van bestaan in afwijking van [artikel 3.75](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.75&z=2006-04-29&g=2006-04-29) duurzaam, indien de vreemdeling gedurende de geldigheidsduur van de tewerkstellingsvergunning zelfstandig zal beschikken over voldoende middelen van bestaan uit die arbeid.
 
 4. In andere gevallen kan de in het eerste lid bedoelde verblijfsvergunning worden verleend.
 
@@ -748,7 +730,7 @@ De verblijfsvergunning voor bepaalde tijd, bedoeld in [artikel 14 van de Wet](ht
 
 ##### Artikel 3.33
 
-1. Onverminderd [artikel 3.31](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.31&z=2006-03-15&g=2006-03-15) kan de verblijfsvergunning voor bepaalde tijd, bedoeld in [artikel 14 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14), onder een beperking verband houdend met het verrichten van arbeid in loondienst als geestelijk voorganger of godsdienstleraar slechts worden verleend, indien de vreemdeling tevens schriftelijk verklaart ermee bekend te zijn dat:
+1. Onverminderd [artikel 3.31](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.31&z=2006-04-29&g=2006-04-29) kan de verblijfsvergunning voor bepaalde tijd, bedoeld in [artikel 14 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14), onder een beperking verband houdend met het verrichten van arbeid in loondienst als geestelijk voorganger of godsdienstleraar slechts worden verleend, indien de vreemdeling tevens schriftelijk verklaart ermee bekend te zijn dat:
 
 - a. slechts verblijf wordt toegestaan voor het verrichten van werkzaamheden als geestelijk voorganger of godsdienstleraar ten behoeve van de met name te noemen groepering;
 
@@ -856,17 +838,17 @@ De verblijfsvergunning voor bepaalde tijd, bedoeld in [artikel 14 van de Wet](ht
 
 ##### Artikel 3.42
 
-1. Voor de toepassing van [artikel 3.41](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.41&z=2006-03-15&g=2006-03-15) wordt onder voldoende middelen van bestaan verstaan:
+1. Voor de toepassing van [artikel 3.41](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.41&z=2006-04-29&g=2006-04-29) wordt onder voldoende middelen van bestaan verstaan:
 
-- a. indien de vreemdeling of een buiten Nederland gevestigde persoon of rechtspersoon de studie en het verblijf bekostigt: een netto-inkomen als bedoeld in [artikel 3.74 onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.74&z=2006-03-15&g=2006-03-15), of
+- a. indien de vreemdeling of een buiten Nederland gevestigde persoon of rechtspersoon de studie en het verblijf bekostigt: een netto-inkomen als bedoeld in [artikel 3.74 onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.74&z=2006-04-29&g=2006-04-29), of
 
-- b. indien een in Nederland gevestigde persoon of rechtspersoon de studie en het verblijf van de vreemdeling bekostigt: een netto-inkomen als bedoeld in [artikel 3.74, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.74&z=2006-03-15&g=2006-03-15), aangevuld met het in onderdeel a bedoelde bedrag; de in Nederland gevestigde persoon ondertekent een garantstelling.
+- b. indien een in Nederland gevestigde persoon of rechtspersoon de studie en het verblijf van de vreemdeling bekostigt: een netto-inkomen als bedoeld in [artikel 3.74, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.74&z=2006-04-29&g=2006-04-29), aangevuld met het in onderdeel a bedoelde bedrag; de in Nederland gevestigde persoon ondertekent een garantstelling.
 
-2. Indien de studie en het verblijf middels periodieke betalingen worden bekostigd, zijn middelen van bestaan in afwijking van [artikel 3.75](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.75&z=2006-03-15&g=2006-03-15) slechts duurzaam, indien naar het oordeel van Onze Minister voldoende zekerheid is verschaft over het ongestoorde verloop van de periodieke geldstroom.
+2. Indien de studie en het verblijf middels periodieke betalingen worden bekostigd, zijn middelen van bestaan in afwijking van [artikel 3.75](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.75&z=2006-04-29&g=2006-04-29) slechts duurzaam, indien naar het oordeel van Onze Minister voldoende zekerheid is verschaft over het ongestoorde verloop van de periodieke geldstroom.
 
-3. In afwijking van [artikel 3.75](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.75&z=2006-03-15&g=2006-03-15) zijn middelen van bestaan duurzaam, indien deze op het tijdstip waarop de aanvraag is ontvangen of de beschikking wordt gegeven, voor een jaar of zoveel korter als de voorgenomen studie in Nederland zal duren, beschikbaar zijn.
+3. In afwijking van [artikel 3.75](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.75&z=2006-04-29&g=2006-04-29) zijn middelen van bestaan duurzaam, indien deze op het tijdstip waarop de aanvraag is ontvangen of de beschikking wordt gegeven, voor een jaar of zoveel korter als de voorgenomen studie in Nederland zal duren, beschikbaar zijn.
 
-4. In afwijking van [artikel 3.75](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.75&z=2006-03-15&g=2006-03-15) zijn middelen van bestaan eveneens duurzaam, indien op een ten name van de vreemdeling gestelde bankrekening in Nederland een bedrag beschikbaar is, gelijk aan het maandelijkse normbedrag, bedoeld in het eerste lid, vermenigvuldigd met twaalf of zoveel minder als het aantal maanden dat de voorgenomen studie in Nederland zal duren.
+4. In afwijking van [artikel 3.75](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.75&z=2006-04-29&g=2006-04-29) zijn middelen van bestaan eveneens duurzaam, indien op een ten name van de vreemdeling gestelde bankrekening in Nederland een bedrag beschikbaar is, gelijk aan het maandelijkse normbedrag, bedoeld in het eerste lid, vermenigvuldigd met twaalf of zoveel minder als het aantal maanden dat de voorgenomen studie in Nederland zal duren.
 
 ##### Artikel 3.43
 
@@ -884,7 +866,7 @@ De verblijfsvergunning voor bepaalde tijd, bedoeld in [artikel 14 van de Wet](ht
 
 - f. wiens vertrek uit Nederland naar het oordeel van Onze Minister redelijkerwijs is gewaarborgd.
 
-2. De verblijfsvergunning kan worden verleend, indien het gastgezin duurzaam en zelfstandig beschikt over voldoende middelen van bestaan en een garantverklaring heeft ondertekend. Middelen van bestaan zijn voldoende, indien het gastgezin beschikt over een inkomen gelijk aan het bestaansminimum, bedoeld in de [Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703), voor de desbetreffende categorie, aangevuld met het bestaansminimum voor alleenstaanden van eenentwintig jaar en ouder. In afwijking van [artikel 3.75](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.75&z=2006-03-15&g=2006-03-15), zijn middelen van bestaan duurzaam, indien zij voor ten minste één jaar beschikbaar zijn.
+2. De verblijfsvergunning kan worden verleend, indien het gastgezin duurzaam en zelfstandig beschikt over voldoende middelen van bestaan en een garantverklaring heeft ondertekend. Middelen van bestaan zijn voldoende, indien het gastgezin beschikt over een inkomen gelijk aan het bestaansminimum, bedoeld in de [Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703), voor de desbetreffende categorie, aangevuld met het bestaansminimum voor alleenstaanden van eenentwintig jaar en ouder. In afwijking van [artikel 3.75](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.75&z=2006-04-29&g=2006-04-29), zijn middelen van bestaan duurzaam, indien zij voor ten minste één jaar beschikbaar zijn.
 
 3. Bij de aanvraag wordt door de vreemdeling en het gastgezin een schriftelijke verklaring ondertekend, waarin zij onder meer verklaren dat de vreemdeling als au pair tijdelijk in het gastgezin verblijft.
 
@@ -916,7 +898,7 @@ De verblijfsvergunning voor bepaalde tijd, bedoeld in [artikel 14 van de Wet](ht
 
 - c. wiens vertrek uit Nederland naar het oordeel van Onze Minister redelijkerwijs is gewaarborgd.
 
-2. Onder voldoende middelen van bestaan wordt verstaan een netto-inkomen als bedoeld in [artikel 3.74, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.74&z=2006-03-15&g=2006-03-15). In afwijking van [artikel 3.75](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.75&z=2006-03-15&g=2006-03-15) zijn middelen van bestaan duurzaam, indien zij voor een periode van zes weken beschikbaar zijn.
+2. Onder voldoende middelen van bestaan wordt verstaan een netto-inkomen als bedoeld in [artikel 3.74, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.74&z=2006-04-29&g=2006-04-29). In afwijking van [artikel 3.75](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.75&z=2006-04-29&g=2006-04-29) zijn middelen van bestaan duurzaam, indien zij voor een periode van zes weken beschikbaar zijn.
 
 ##### Artikel 3.46
 
@@ -926,7 +908,7 @@ De verblijfsvergunning voor bepaalde tijd, bedoeld in [artikel 14 van de Wet](ht
 
 ##### Artikel 3.47
 
-1. De verblijfsvergunning, bedoeld in [artikel 3.46](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.46&z=2006-03-15&g=2006-03-15), kan worden verleend aan de vreemdeling van Surinaamse nationaliteit, die op medische indicatie en in het bezit van een daartoe afgegeven visum naar Nederland is gekomen, indien voortzetting van de medische behandeling in Nederland zes maanden na zijn inreis medisch noodzakelijk is en de financiering daarvan naar het oordeel van Onze Minister deugdelijk is geregeld.
+1. De verblijfsvergunning, bedoeld in [artikel 3.46](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.46&z=2006-04-29&g=2006-04-29), kan worden verleend aan de vreemdeling van Surinaamse nationaliteit, die op medische indicatie en in het bezit van een daartoe afgegeven visum naar Nederland is gekomen, indien voortzetting van de medische behandeling in Nederland zes maanden na zijn inreis medisch noodzakelijk is en de financiering daarvan naar het oordeel van Onze Minister deugdelijk is geregeld.
 
 2. Bij de aanvraag ondertekent de vreemdeling een medische verklaring, ertoe strekkende dat hij toestemming verleent voor medisch onderzoek, voor zover dat onderzoek noodzakelijk is voor de toepassing van het eerste lid.
 
@@ -950,9 +932,9 @@ De verblijfsvergunning voor bepaalde tijd, bedoeld in [artikel 14 van de Wet](ht
 
 1. De verblijfsvergunning voor bepaalde tijd, bedoeld in [artikel 14 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14), wordt onder een beperking verband houdend met voortgezet verblijf verleend aan de vreemdeling die:
 
-- a. als minderjarige houder is geweest van een verblijfsvergunning onder een beperking verband houdend met gezinshereniging, verblijf ter adoptie of verblijf als pleegkind, bij een Nederlander of een vreemdeling met niet-tijdelijk verblijfsrecht in de zin van [artikel 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.5&z=2006-03-15&g=2006-03-15), en
+- a. als minderjarige houder is geweest van een verblijfsvergunning onder een beperking verband houdend met gezinshereniging, verblijf ter adoptie of verblijf als pleegkind, bij een Nederlander of een vreemdeling met niet-tijdelijk verblijfsrecht in de zin van [artikel 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.5&z=2006-04-29&g=2006-04-29), en
 
-- b. langer dan een jaar houder is geweest van de in onderdeel a bedoelde verblijfsvergunning, dan wel in Nederland is geboren uit ouders met niet-tijdelijk verblijfsrecht in de zin van [artikel 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.5&z=2006-03-15&g=2006-03-15).
+- b. langer dan een jaar houder is geweest van de in onderdeel a bedoelde verblijfsvergunning, dan wel in Nederland is geboren uit ouders met niet-tijdelijk verblijfsrecht in de zin van [artikel 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.5&z=2006-04-29&g=2006-04-29).
 
 2. Voor de toepassing van het eerste lid wordt onder persoon met niet-tijdelijk verblijfsrecht niet verstaan de houder van de verblijfsvergunning voor bepaalde tijd, bedoeld in [artikel 28 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=28).
 
@@ -962,7 +944,7 @@ De verblijfsvergunning voor bepaalde tijd, bedoeld in [artikel 14 van de Wet](ht
 
 - b. de vreemdeling een gevaar voor de nationale veiligheid vormt;
 
-- c. de aanvraag met toepassing van de [artikelen 3.86](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=4&artikel=3.86&z=2006-03-15&g=2006-03-15) of [3.87](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=4&artikel=3.87&z=2006-03-15&g=2006-03-15) kan worden afgewezen, of
+- c. de aanvraag met toepassing van de [artikelen 3.86](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=4&artikel=3.86&z=2006-04-29&g=2006-04-29) of [3.87](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=4&artikel=3.87&z=2006-04-29&g=2006-04-29) kan worden afgewezen, of
 
 - d. de vreemdeling het hoofdverblijf buiten Nederland heeft verplaatst.
 
@@ -990,7 +972,7 @@ De verblijfsvergunning voor bepaalde tijd, bedoeld in [artikel 14 van de Wet](ht
 
 ##### Artikel 3.52
 
-In andere gevallen dan genoemd in de [artikelen 3.50](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.50&z=2006-03-15&g=2006-03-15) en [3.51](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.51&z=2006-03-15&g=2006-03-15), kan de verblijfsvergunning voor bepaalde tijd, bedoeld in [artikel 14 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14), onder een beperking verband houdend met voortgezet verblijf worden verleend aan de vreemdeling die rechtmatig verblijf als bedoeld in [artikel 8, onder a tot en met e dan wel l, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8)heeft gehad en van wie naar het oordeel van Onze Minister wegens bijzondere individuele omstandigheden niet gevergd kan worden dat hij Nederland verlaat.
+In andere gevallen dan genoemd in de [artikelen 3.50](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.50&z=2006-04-29&g=2006-04-29) en [3.51](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.51&z=2006-04-29&g=2006-04-29), kan de verblijfsvergunning voor bepaalde tijd, bedoeld in [artikel 14 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14), onder een beperking verband houdend met voortgezet verblijf worden verleend aan de vreemdeling die rechtmatig verblijf als bedoeld in [artikel 8, onder a tot en met e dan wel l, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8)heeft gehad en van wie naar het oordeel van Onze Minister wegens bijzondere individuele omstandigheden niet gevergd kan worden dat hij Nederland verlaat.
 
 ##### Artikel 3.53
 
@@ -1014,7 +996,7 @@ In andere gevallen dan genoemd in de [artikelen 3.50](https://wetten.overheid.nl
 
 2. Het eerste lid, onder b, is alleen van toepassing voorzover Nederland naar het oordeel van Onze Minister het meest aangewezen land is voor de vreemdeling.
 
-3. De aanvraag wordt niet afgewezen op grond van [artikel 16, eerste lid, onder c, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=16). De [artikelen 3.77](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.77&z=2006-03-15&g=2006-03-15) en [3.78](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.78&z=2006-03-15&g=2006-03-15) zijn niet van toepassing. De [artikelen 3.86](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=4&artikel=3.86&z=2006-03-15&g=2006-03-15) en [3.87](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=4&artikel=3.87&z=2006-03-15&g=2006-03-15) zijn van overeenkomstige toepassing.
+3. De aanvraag wordt niet afgewezen op grond van [artikel 16, eerste lid, onder c, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=16). De [artikelen 3.77](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.77&z=2006-04-29&g=2006-04-29) en [3.78](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.78&z=2006-04-29&g=2006-04-29) zijn niet van toepassing. De [artikelen 3.86](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=4&artikel=3.86&z=2006-04-29&g=2006-04-29) en [3.87](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=4&artikel=3.87&z=2006-04-29&g=2006-04-29) zijn van overeenkomstige toepassing.
 
 ##### Artikel 3.55
 
@@ -1026,7 +1008,7 @@ In andere gevallen dan genoemd in de [artikelen 3.50](https://wetten.overheid.nl
 
 - c. als het minderjarige kind van een Nederlander of van een vreemdeling met rechtmatig verblijf als bedoeld in [artikel 8, onder a tot en met e, dan wel l, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8), zelf rechtmatig verblijf als bedoeld in [artikel 8, onder a, c, e dan wel l, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) had, ongeacht de duur daarvan, die binnen een jaar na remigratie meerderjarig is geworden en die zelfstandig om verblijf verzoekt.
 
-2. De aanvraag wordt niet afgewezen op grond van [artikel 16, eerste lid, onder c, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=16). De[artikelen 3.77](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.77&z=2006-03-15&g=2006-03-15) en [3.78](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.78&z=2006-03-15&g=2006-03-15) zijn niet van toepassing. De [artikelen 3. 86](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=4&artikel=3.86&z=2006-03-15&g=2006-03-15) en [3.87](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=4&artikel=3.87&z=2006-03-15&g=2006-03-15) zijn van overeenkomstige toepassing.
+2. De aanvraag wordt niet afgewezen op grond van [artikel 16, eerste lid, onder c, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=16). De[artikelen 3.77](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.77&z=2006-04-29&g=2006-04-29) en [3.78](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.78&z=2006-04-29&g=2006-04-29) zijn niet van toepassing. De [artikelen 3. 86](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=4&artikel=3.86&z=2006-04-29&g=2006-04-29) en [3.87](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=4&artikel=3.87&z=2006-04-29&g=2006-04-29) zijn van overeenkomstige toepassing.
 
 ##### Artikel 3.56
 
@@ -1044,19 +1026,19 @@ In andere gevallen dan genoemd in de [artikelen 3.50](https://wetten.overheid.nl
 
 ##### Artikel 3.57
 
-De verblijfsvergunning voor bepaalde tijd, bedoeld in [artikel 14 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14), wordt, behoudens [artikel 3.68](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3.68&z=2006-03-15&g=2006-03-15), verleend voor ten hoogste één jaar en kan telkens met ten hoogste één jaar worden verlengd.
+De verblijfsvergunning voor bepaalde tijd, bedoeld in [artikel 14 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14), wordt, behoudens [artikel 3.68](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3.68&z=2006-04-29&g=2006-04-29), verleend voor ten hoogste één jaar en kan telkens met ten hoogste één jaar worden verlengd.
 
 ##### Artikel 3.58
 
-In afwijking van [artikel 3.57](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3.57&z=2006-03-15&g=2006-03-15) kan de verblijfsvergunning worden verleend onder een beperking verband houdend met gezinshereniging als minderjarige of verblijf ter adoptie of als pleegkind, voor de duur van het verblijfsrecht op grond van [artikel 8, onder a, c, e, of l, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8), van de ouder, adoptiefouder of pleegouder, dan wel, indien deze rechtmatig verblijf in Nederland heeft als bedoeld in [artikel 8, onder b of d, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) of als Nederlander voor vijf jaren.
+In afwijking van [artikel 3.57](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3.57&z=2006-04-29&g=2006-04-29) kan de verblijfsvergunning worden verleend onder een beperking verband houdend met gezinshereniging als minderjarige of verblijf ter adoptie of als pleegkind, voor de duur van het verblijfsrecht op grond van [artikel 8, onder a, c, e, of l, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8), van de ouder, adoptiefouder of pleegouder, dan wel, indien deze rechtmatig verblijf in Nederland heeft als bedoeld in [artikel 8, onder b of d, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) of als Nederlander voor vijf jaren.
 
 ##### Artikel 3.59
 
-In afwijking van [artikel 3.57](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3.57&z=2006-03-15&g=2006-03-15) kan de verblijfsvergunning onder een beperking verband houdend met het verrichten van arbeid in loondienst worden verleend voor de duur waarvoor de tewerkstellingsvergunning ten behoeve van die arbeid is verleend. Indien ten behoeve van die arbeid op grond van [artikel 1, eerste lid, onder j of l, van het Besluit uitvoering Wet arbeid vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007523&artikel=1) geen tewerkstellingvergunning is vereist, kan de verblijfsvergunning worden verleend voor de duur van maximaal vijf jaren.
+In afwijking van [artikel 3.57](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3.57&z=2006-04-29&g=2006-04-29) kan de verblijfsvergunning onder een beperking verband houdend met het verrichten van arbeid in loondienst worden verleend voor de duur waarvoor de tewerkstellingsvergunning ten behoeve van die arbeid is verleend. Indien ten behoeve van die arbeid op grond van [artikel 1, eerste lid, onder j of l, van het Besluit uitvoering Wet arbeid vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007523&artikel=1) geen tewerkstellingvergunning is vereist, kan de verblijfsvergunning worden verleend voor de duur van maximaal vijf jaren.
 
 ##### Artikel 3.60
 
-In afwijking van [artikel 3.57](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3.57&z=2006-03-15&g=2006-03-15) kan de verblijfsvergunning onder een beperking verband houdend met medische behandeling worden verleend voor vijf jaren, indien de medische behandeling naar verwachting van Onze Minister blijvend aan Nederland is gebonden.
+In afwijking van [artikel 3.57](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3.57&z=2006-04-29&g=2006-04-29) kan de verblijfsvergunning onder een beperking verband houdend met medische behandeling worden verleend voor vijf jaren, indien de medische behandeling naar verwachting van Onze Minister blijvend aan Nederland is gebonden.
 
 ##### Artikel 3.61
 
@@ -1064,45 +1046,45 @@ Vervallen
 
 ##### Artikel 3.62
 
-In afwijking van [artikel 3.57](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3.57&z=2006-03-15&g=2006-03-15) kan de verblijfsvergunning onder een beperking verband houdend met wedertoelating worden verleend voor vijf jaren.
+In afwijking van [artikel 3.57](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3.57&z=2006-04-29&g=2006-04-29) kan de verblijfsvergunning onder een beperking verband houdend met wedertoelating worden verleend voor vijf jaren.
 
 ##### Artikel 3.63
 
-In afwijking van [artikel 3.57](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3.57&z=2006-03-15&g=2006-03-15) kan de verblijfsvergunning onder een beperking verband houdend met verblijf als niet-geprivilegieerd militair of niet-geprivilegieerd burgerpersoneel worden verleend voor drie jaren, maar niet langer dan de duur van de tewerkstelling van de vreemdeling of het verblijfsrecht van de persoon bij wie verblijf als gezinslid is toegestaan.
+In afwijking van [artikel 3.57](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3.57&z=2006-04-29&g=2006-04-29) kan de verblijfsvergunning onder een beperking verband houdend met verblijf als niet-geprivilegieerd militair of niet-geprivilegieerd burgerpersoneel worden verleend voor drie jaren, maar niet langer dan de duur van de tewerkstelling van de vreemdeling of het verblijfsrecht van de persoon bij wie verblijf als gezinslid is toegestaan.
 
 ##### Artikel 3.64
 
-In afwijking van [artikel 3.57](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3.57&z=2006-03-15&g=2006-03-15) kan de verblijfsvergunning onder een beperking verband houdend met voortgezet verblijf worden verleend voor de duur van vijf jaren.
+In afwijking van [artikel 3.57](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3.57&z=2006-04-29&g=2006-04-29) kan de verblijfsvergunning onder een beperking verband houdend met voortgezet verblijf worden verleend voor de duur van vijf jaren.
 
 ##### Artikel 3.65
 
-In afwijking van [artikel 3.57](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3.57&z=2006-03-15&g=2006-03-15) kan de verblijfsvergunning onder een beperking verband houdend met verblijf als au pair worden verleend voor de duur van ten hoogste een jaar, te rekenen vanaf de dag na de dag waarop de vreemdeling Nederland is ingereisd.
+In afwijking van [artikel 3.57](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3.57&z=2006-04-29&g=2006-04-29) kan de verblijfsvergunning onder een beperking verband houdend met verblijf als au pair worden verleend voor de duur van ten hoogste een jaar, te rekenen vanaf de dag na de dag waarop de vreemdeling Nederland is ingereisd.
 
 ##### Artikel 3.66
 
-In afwijking van [artikel 3.57](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3.57&z=2006-03-15&g=2006-03-15) kan de verblijfsvergunning onder een beperking verband houdend met verblijf in het kader van uitwisseling worden verleend voor de duur van ten hoogste een jaar, te rekenen vanaf de dag na de dag waarop de vreemdeling Nederland is ingereisd.
+In afwijking van [artikel 3.57](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3.57&z=2006-04-29&g=2006-04-29) kan de verblijfsvergunning onder een beperking verband houdend met verblijf in het kader van uitwisseling worden verleend voor de duur van ten hoogste een jaar, te rekenen vanaf de dag na de dag waarop de vreemdeling Nederland is ingereisd.
 
 ##### Artikel 3.67
 
-1. In afwijking van [artikel 3.57](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3.57&z=2006-03-15&g=2006-03-15), kan de geldigheidsduur van de verblijfsvergunning worden verlengd met vijf jaren, indien de houder van de verblijfsvergunning op het moment waarop de aanvraag is ontvangen of de beschikking wordt gegeven:
+1. In afwijking van [artikel 3.57](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3.57&z=2006-04-29&g=2006-04-29), kan de geldigheidsduur van de verblijfsvergunning worden verlengd met vijf jaren, indien de houder van de verblijfsvergunning op het moment waarop de aanvraag is ontvangen of de beschikking wordt gegeven:
 
-- a. gedurende een jaar rechtmatig verblijf als bedoeld in [artikel 8, onder a, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) heeft op grond van een huwelijk, een geregistreerd partnerschap of een relatie als bedoeld in [artikel 3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.14&z=2006-03-15&g=2006-03-15), en het verblijfsrecht niet-tijdelijk in de zin van [artikel 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.5&z=2006-03-15&g=2006-03-15) is, of
+- a. gedurende een jaar rechtmatig verblijf als bedoeld in [artikel 8, onder a, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) heeft op grond van een huwelijk, een geregistreerd partnerschap of een relatie als bedoeld in [artikel 3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.14&z=2006-04-29&g=2006-04-29), en het verblijfsrecht niet-tijdelijk in de zin van [artikel 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.5&z=2006-04-29&g=2006-04-29) is, of
 
-- b. gedurende vijf jaren aaneengesloten rechtmatig verblijf als bedoeld in [artikel 8, onder a, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) heeft en het verblijfsrecht niet-tijdelijk in de zin van [artikel 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.5&z=2006-03-15&g=2006-03-15) is.
+- b. gedurende vijf jaren aaneengesloten rechtmatig verblijf als bedoeld in [artikel 8, onder a, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) heeft en het verblijfsrecht niet-tijdelijk in de zin van [artikel 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.5&z=2006-04-29&g=2006-04-29) is.
 
-2. In afwijking van [artikel 3.57](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3.57&z=2006-03-15&g=2006-03-15), kan de verblijfsvergunning worden verleend of verlengd met een langere geldigheidsduur, indien de geldigheidsduur van de te verlenen of te verlengen verblijfsvergunning op het moment waarop deze wordt verstrekt ingevolge [artikel 3.57](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3.57&z=2006-03-15&g=2006-03-15) alweer zou zijn geëindigd.
+2. In afwijking van [artikel 3.57](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3.57&z=2006-04-29&g=2006-04-29), kan de verblijfsvergunning worden verleend of verlengd met een langere geldigheidsduur, indien de geldigheidsduur van de te verlenen of te verlengen verblijfsvergunning op het moment waarop deze wordt verstrekt ingevolge [artikel 3.57](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3.57&z=2006-04-29&g=2006-04-29) alweer zou zijn geëindigd.
 
 ##### Artikel 3.68
 
-In afwijking van de [artikelen 3.57 tot en met 3.67](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3.57&z=2006-03-15&g=2006-03-15) wordt de verblijfsvergunning voor bepaalde tijd, bedoeld in [artikel 14 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14), verleend met een geldigheidsduur die één maand korter is dan de termijn gedurende welke de vreemdeling op grond van een geldig document voor grensoverschrijding kan terugkeren naar het land door welks autoriteiten het is afgegeven.
+In afwijking van de [artikelen 3.57 tot en met 3.67](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3.57&z=2006-04-29&g=2006-04-29) wordt de verblijfsvergunning voor bepaalde tijd, bedoeld in [artikel 14 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14), verleend met een geldigheidsduur die één maand korter is dan de termijn gedurende welke de vreemdeling op grond van een geldig document voor grensoverschrijding kan terugkeren naar het land door welks autoriteiten het is afgegeven.
 
 ##### Artikel 3.69
 
-In afwijking van [artikel 3.57](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3.57&z=2006-03-15&g=2006-03-15) wordt de verblijfsvergunning voor bepaalde tijd, bedoeld in [artikel 14 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14) onder een beperking verband houdend met de voorbereiding op een studie, verblijf als au pair of verblijf in het kader van uitwisseling ten hoogste voor één jaar verleend en wordt de geldigheidsduur ervan na één jaar niet verlengd.
+In afwijking van [artikel 3.57](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3.57&z=2006-04-29&g=2006-04-29) wordt de verblijfsvergunning voor bepaalde tijd, bedoeld in [artikel 14 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14) onder een beperking verband houdend met de voorbereiding op een studie, verblijf als au pair of verblijf in het kader van uitwisseling ten hoogste voor één jaar verleend en wordt de geldigheidsduur ervan na één jaar niet verlengd.
 
 ##### Artikel 3.70
 
-In afwijking van [artikel 3.57](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3.57&z=2006-03-15&g=2006-03-15) wordt de verblijfsvergunning voor bepaalde tijd, bedoeld in [artikel 14 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14), onder een beperking verband houdend met familiebezoek, verleend voor ten hoogste zes maanden en wordt de geldigheidsduur ervan na zes maanden niet verlengd.
+In afwijking van [artikel 3.57](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3.57&z=2006-04-29&g=2006-04-29) wordt de verblijfsvergunning voor bepaalde tijd, bedoeld in [artikel 14 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14), onder een beperking verband houdend met familiebezoek, verleend voor ten hoogste zes maanden en wordt de geldigheidsduur ervan na zes maanden niet verlengd.
 
 #### Paragraaf 3. De afwijzing van de aanvraag
 
@@ -1130,7 +1112,7 @@ In afwijking van [artikel 3.57](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&
 
 - g. die in Nederland verblijft, bij de rechtbank te 's-Gravenhage een verzoek heeft ingediend tot vaststelling van zijn Nederlanderschap dat naar het oordeel van Onze Minister niet klaarblijkelijk van elke grond ontbloot is;
 
-- h. die tijdelijke bescherming heeft en in aanmerking komt voor de verblijfsvergunning voor bepaalde tijd, bedoeld in [artikel 14 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14), onder een beperking als bedoeld in [artikel 3.30](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.30&z=2006-03-15&g=2006-03-15) of [3.31](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.31&z=2006-03-15&g=2006-03-15).
+- h. die tijdelijke bescherming heeft en in aanmerking komt voor de verblijfsvergunning voor bepaalde tijd, bedoeld in [artikel 14 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14), onder een beperking als bedoeld in [artikel 3.30](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.30&z=2006-04-29&g=2006-04-29) of [3.31](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.31&z=2006-04-29&g=2006-04-29).
 
 3. Het tweede lid, met uitzondering van onderdeel h, is niet van toepassing op de vreemdeling die als geestelijk voorganger of godsdienstleraar wil verblijven.
 
@@ -1198,7 +1180,7 @@ Indien de arbeidsovereenkomst voor onbepaalde duur is aangegaan, legt de vreemde
 
 ##### Artikel 3.78
 
-Buiten de gevallen, bedoeld in [artikel 3.77](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.77&z=2006-03-15&g=2006-03-15), kan de aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd, bedoeld in [artikel 14 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14), slechts op grond van [artikel 16, eerste lid, onder d, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=16) worden afgewezen wegens gevaar voor de openbare orde, indien zwaarwegende belangen naar het oordeel van Onze Minister daartoe nopen.
+Buiten de gevallen, bedoeld in [artikel 3.77](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.77&z=2006-04-29&g=2006-04-29), kan de aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd, bedoeld in [artikel 14 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14), slechts op grond van [artikel 16, eerste lid, onder d, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=16) worden afgewezen wegens gevaar voor de openbare orde, indien zwaarwegende belangen naar het oordeel van Onze Minister daartoe nopen.
 
 ##### Artikel 3.79
 
@@ -1216,11 +1198,11 @@ Buiten de gevallen, bedoeld in [artikel 3.77](https://wetten.overheid.nl/jci1.3:
 
 ##### Artikel 3.81
 
-Een aanvraag tot het wijzigen van de verblijfsvergunning, bedoeld in [artikel 14 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14), wordt beoordeeld als een aanvraag tot het verlenen van een verblijfsvergunning, met dien verstande dat de [artikelen 3.71](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.71&z=2006-03-15&g=2006-03-15), [3.77](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.77&z=2006-03-15&g=2006-03-15), [3.78](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.78&z=2006-03-15&g=2006-03-15) en [3.79](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.79&z=2006-03-15&g=2006-03-15) niet van toepassing zijn en de [artikelen 3.86](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=4&artikel=3.86&z=2006-03-15&g=2006-03-15) en [3.87](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=4&artikel=3.87&z=2006-03-15&g=2006-03-15) van overeenkomstige toepassing zijn, indien de aanvraag tijdig is ingediend.
+Een aanvraag tot het wijzigen van de verblijfsvergunning, bedoeld in [artikel 14 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14), wordt beoordeeld als een aanvraag tot het verlenen van een verblijfsvergunning, met dien verstande dat de [artikelen 3.71](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.71&z=2006-04-29&g=2006-04-29), [3.77](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.77&z=2006-04-29&g=2006-04-29), [3.78](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.78&z=2006-04-29&g=2006-04-29) en [3.79](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.79&z=2006-04-29&g=2006-04-29) niet van toepassing zijn en de [artikelen 3.86](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=4&artikel=3.86&z=2006-04-29&g=2006-04-29) en [3.87](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=4&artikel=3.87&z=2006-04-29&g=2006-04-29) van overeenkomstige toepassing zijn, indien de aanvraag tijdig is ingediend.
 
 ##### Artikel 3.82
 
-1. Indien de niet-tijdig ingediende aanvraag tot het wijzigen of het verlengen van de geldigheidsduur van de verblijfsvergunning, bedoeld in [artikel 14 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14), naar het oordeel van Onze Minister is ontvangen binnen een redelijke termijn nadat het rechtmatig verblijf, bedoeld in [artikel 8, onder a tot en met e, dan wel l, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8), of als Nederlander, is geëindigd, zijn de [artikelen 3.71](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.71&z=2006-03-15&g=2006-03-15), [3.77](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.77&z=2006-03-15&g=2006-03-15), [3.78](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.78&z=2006-03-15&g=2006-03-15) en [3.79](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.79&z=2006-03-15&g=2006-03-15) niet van toepassing en zijn de [artikelen 3.86](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=4&artikel=3.86&z=2006-03-15&g=2006-03-15) en [3.87](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=4&artikel=3.87&z=2006-03-15&g=2006-03-15) van overeenkomstige toepassing.
+1. Indien de niet-tijdig ingediende aanvraag tot het wijzigen of het verlengen van de geldigheidsduur van de verblijfsvergunning, bedoeld in [artikel 14 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14), naar het oordeel van Onze Minister is ontvangen binnen een redelijke termijn nadat het rechtmatig verblijf, bedoeld in [artikel 8, onder a tot en met e, dan wel l, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8), of als Nederlander, is geëindigd, zijn de [artikelen 3.71](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.71&z=2006-04-29&g=2006-04-29), [3.77](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.77&z=2006-04-29&g=2006-04-29), [3.78](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.78&z=2006-04-29&g=2006-04-29) en [3.79](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.79&z=2006-04-29&g=2006-04-29) niet van toepassing en zijn de [artikelen 3.86](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=4&artikel=3.86&z=2006-04-29&g=2006-04-29) en [3.87](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=4&artikel=3.87&z=2006-04-29&g=2006-04-29) van overeenkomstige toepassing.
 
 2. Het eerste is niet van toepassing, indien de vreemdeling:
 
@@ -1240,7 +1222,7 @@ De aanvraag tot het verlengen van de geldigheidsduur van een verblijfsvergunning
 
 ##### Artikel 3.85
 
-1. De aanvraag tot het verlengen van de geldigheidsduur van de verblijfsvergunning voor bepaalde tijd, bedoeld in [artikel 14 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14), wordt niet op grond van [artikel 18, eerste lid, onder d, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=18) afgewezen, indien de vreemdeling en degene bij wie hij als gezinslid verblijft gezamenlijk zelfstandig en duurzaam beschikken over een netto-inkomen als bedoeld in [artikel 3.74, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.74&z=2006-03-15&g=2006-03-15).
+1. De aanvraag tot het verlengen van de geldigheidsduur van de verblijfsvergunning voor bepaalde tijd, bedoeld in [artikel 14 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14), wordt niet op grond van [artikel 18, eerste lid, onder d, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=18) afgewezen, indien de vreemdeling en degene bij wie hij als gezinslid verblijft gezamenlijk zelfstandig en duurzaam beschikken over een netto-inkomen als bedoeld in [artikel 3.74, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.74&z=2006-04-29&g=2006-04-29).
 
 2. De aanvraag wordt evenmin op grond van [artikel 18, eerste lid, onder d, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=18) afgewezen, indien de persoon bij wie de vreemdeling als gezinslid verblijft 65 jaar of ouder is of naar het oordeel van Onze Minister blijvend en volledig arbeidsongeschikt is.
 
@@ -1312,7 +1294,7 @@ ten minste 15 jaar, maar minder dan 20 jaar: 96 maanden.
 
 ##### Artikel 3.87
 
-Buiten de gevallen, bedoeld in [artikel 3.86](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=4&artikel=3.86&z=2006-03-15&g=2006-03-15), kan de aanvraag tot het verlengen van een verblijfsvergunning voor bepaalde tijd, bedoeld in [artikel 14 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14), slechts op grond van artikel [artikel 18, eerste lid, onder e, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=18) worden afgewezen wegens gevaar voor de openbare orde, indien zwaarwegende belangen naar het oordeel van Onze Minister daartoe nopen.
+Buiten de gevallen, bedoeld in [artikel 3.86](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=4&artikel=3.86&z=2006-04-29&g=2006-04-29), kan de aanvraag tot het verlengen van een verblijfsvergunning voor bepaalde tijd, bedoeld in [artikel 14 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14), slechts op grond van artikel [artikel 18, eerste lid, onder e, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=18) worden afgewezen wegens gevaar voor de openbare orde, indien zwaarwegende belangen naar het oordeel van Onze Minister daartoe nopen.
 
 ##### Artikel 3.88
 
@@ -1340,7 +1322,7 @@ De aanvraag tot het verlengen van de geldigheidsduur van een verblijfsvergunning
 
 De verblijfsvergunning voor bepaalde tijd, bedoeld in [artikel 14 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14), die is verleend onder een beperking verband houdend met het verrichten van arbeid in loondienst, wordt niet ingetrokken op de enkele grond dat de vreemdeling werkloos is, tenzij:
 
-- a. de verblijfsvergunning is verleend voor een tijdelijk doel als bedoeld in [artikel 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.5&z=2006-03-15&g=2006-03-15);
+- a. de verblijfsvergunning is verleend voor een tijdelijk doel als bedoeld in [artikel 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.5&z=2006-04-29&g=2006-04-29);
 
 - b. de werkloosheid is ingetreden na beëindiging van een arbeidsovereenkomst voor bepaalde duur of uitzendwerk;
 
@@ -1378,21 +1360,21 @@ De verblijfsvergunning voor bepaalde tijd, bedoeld in [artikel 14 van de Wet](ht
 
 - b. op grond van een bijzondere geprivilegieerde status als geaccrediteerd lid van het administratief, technisch of bedienend personeel dan wel als particulier bediende, in dienst van een buitenlandse diplomatieke of consulaire post, of
 
-- c. als afhankelijk gezinslid van een vreemdeling, bedoeld onder a of b. 2. In afwijking van [artikel 3.94](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=3&paragraaf=2&artikel=3.94&z=2006-03-15&g=2006-03-15), zijn middelen van bestaan duurzaam, indien zij nog gedurende ten minste één jaar beschikbaar zijn.
+- c. als afhankelijk gezinslid van een vreemdeling, bedoeld onder a of b. 2. In afwijking van [artikel 3.94](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=3&paragraaf=2&artikel=3.94&z=2006-04-29&g=2006-04-29), zijn middelen van bestaan duurzaam, indien zij nog gedurende ten minste één jaar beschikbaar zijn.
 
 #### Paragraaf 1. Verlening
 
 ##### Artikel 3.94
 
-1. Voor de toepassing van [artikel 21, eerste lid, onder a, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=21), zijn de [artikelen 3.73 tot en met 3.76](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.73&z=2006-03-15&g=2006-03-15) van overeenkomstige toepassing.
+1. Voor de toepassing van [artikel 21, eerste lid, onder a, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=21), zijn de [artikelen 3.73 tot en met 3.76](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.73&z=2006-04-29&g=2006-04-29) van overeenkomstige toepassing.
 
 2. De aanvraag tot het verlenen van een verblijfsvergunning voor onbepaalde tijd, bedoeld in [artikel 20 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=20), wordt niet afgewezen op grond van [artikel 21, eerste lid, onder a, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=21), indien de vreemdeling duurzaam beschikt over een uitkering op grond van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) op basis van arbeidsongeschiktheid van ten minste vijfenvijftig procent en op basis van een volledige werkweek, of een vergelijkbare arbeidsongeschiktheidsuitkering.
 
 ##### Artikel 3.95
 
-1. De aanvraag tot het verlenen van een verblijfsvergunning voor onbepaalde tijd, bedoeld in [artikel 20 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=20), kan op grond van [artikel 21, eerste lid, onder b, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=21) worden afgewezen, indien de vreemdeling wegens een misdrijf waartegen een gevangenisstraf van drie jaren of meer is bedreigd bij onherroepelijk geworden rechterlijk vonnis een gevangenisstraf, een taakstraf of de maatregel, bedoeld in [artikel 37a van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=37a), dan wel het buitenlandse equivalent daarvan, is opgelegd, en de totale duur van de straffen of maatregelen ten minste gelijk is aan de norm, bedoeld in [artikel 3.86, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=4&artikel=3.86&z=2006-03-15&g=2006-03-15).
+1. De aanvraag tot het verlenen van een verblijfsvergunning voor onbepaalde tijd, bedoeld in [artikel 20 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=20), kan op grond van [artikel 21, eerste lid, onder b, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=21) worden afgewezen, indien de vreemdeling wegens een misdrijf waartegen een gevangenisstraf van drie jaren of meer is bedreigd bij onherroepelijk geworden rechterlijk vonnis een gevangenisstraf, een taakstraf of de maatregel, bedoeld in [artikel 37a van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=37a), dan wel het buitenlandse equivalent daarvan, is opgelegd, en de totale duur van de straffen of maatregelen ten minste gelijk is aan de norm, bedoeld in [artikel 3.86, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=4&artikel=3.86&z=2006-04-29&g=2006-04-29).
 
-2. [Artikel 3.86, derde tot en met het negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=4&artikel=3.86&z=2006-03-15&g=2006-03-15), is van overeenkomstige toepassing.
+2. [Artikel 3.86, derde tot en met het negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=4&artikel=3.86&z=2006-04-29&g=2006-04-29), is van overeenkomstige toepassing.
 
 ##### Artikel 3.96
 
@@ -1406,9 +1388,9 @@ De verblijfsvergunning voor onbepaalde tijd, bedoeld in [artikel 20 van de Wet](
 
 ##### Artikel 3.98
 
-1. De verblijfsvergunning voor onbepaalde tijd, bedoeld in [artikel 20 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=20), kan op grond van [artikel 22, eerste lid, onder c, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=22) worden ingetrokken, indien de vreemdeling wegens een misdrijf waartegen een gevangenisstraf van drie jaren of meer is bedreigd bij onherroepelijk geworden rechterlijk vonnis een gevangenisstraf, een taakstraf of de maatregel, bedoeld in [artikel 37a van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=37a), dan wel het buitenlandse equivalent daarvan, is opgelegd, en de totale duur van de straffen of maatregelen ten minste gelijk is aan de norm, bedoeld in [artikel 3.86, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=4&artikel=3.86&z=2006-03-15&g=2006-03-15).
+1. De verblijfsvergunning voor onbepaalde tijd, bedoeld in [artikel 20 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=20), kan op grond van [artikel 22, eerste lid, onder c, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=22) worden ingetrokken, indien de vreemdeling wegens een misdrijf waartegen een gevangenisstraf van drie jaren of meer is bedreigd bij onherroepelijk geworden rechterlijk vonnis een gevangenisstraf, een taakstraf of de maatregel, bedoeld in [artikel 37a van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=37a), dan wel het buitenlandse equivalent daarvan, is opgelegd, en de totale duur van de straffen of maatregelen ten minste gelijk is aan de norm, bedoeld in [artikel 3.86, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=4&artikel=3.86&z=2006-04-29&g=2006-04-29).
 
-2. [Artikel 3.86, derde tot en met het achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=4&artikel=3.86&z=2006-03-15&g=2006-03-15), is van overeenkomstige toepassing.
+2. [Artikel 3.86, derde tot en met het achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=4&artikel=3.86&z=2006-04-29&g=2006-04-29), is van overeenkomstige toepassing.
 
 ### Afdeling 4. Procedurele bepalingen
 
@@ -1508,19 +1490,19 @@ Van de vreemdeling die te kennen geeft de aanvraag tot het verlenen van de verbl
 
 ##### Artikel 3.112
 
-1. De termijnen, genoemd in [artikel 3.111, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=5&paragraaf=2&artikel=3.111&z=2006-03-15&g=2006-03-15), zijn niet van toepassing op de aanvraag van de vreemdeling:
+1. De termijnen, genoemd in [artikel 3.111, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=5&paragraaf=2&artikel=3.111&z=2006-04-29&g=2006-04-29), zijn niet van toepassing op de aanvraag van de vreemdeling:
 
 - a. aan wie rechtens zijn vrijheid is ontnomen;
 
-- b. ten aanzien van wie Onze Minister naar aanleiding van het in [artikel 3.110](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=5&paragraaf=2&artikel=3.110&z=2006-03-15&g=2006-03-15) bedoelde eerste gehoor overweegt de aanvraag binnen 48 proces-uren af te wijzen, of
+- b. ten aanzien van wie Onze Minister naar aanleiding van het in [artikel 3.110](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=5&paragraaf=2&artikel=3.110&z=2006-04-29&g=2006-04-29) bedoelde eerste gehoor overweegt de aanvraag binnen 48 proces-uren af te wijzen, of
 
-- c. ten aanzien van wie Onze Minister naar aanleiding van het in [artikel 3.110](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=5&paragraaf=2&artikel=3.110&z=2006-03-15&g=2006-03-15) bedoelde eerste gehoor overweegt de aanvraag af te wijzen op grond van [artikel 30, onder a, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=30).
+- c. ten aanzien van wie Onze Minister naar aanleiding van het in [artikel 3.110](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=5&paragraaf=2&artikel=3.110&z=2006-04-29&g=2006-04-29) bedoelde eerste gehoor overweegt de aanvraag af te wijzen op grond van [artikel 30, onder a, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=30).
 
-2. De in het eerste lid bedoelde vreemdeling wordt door Onze Minister zo spoedig mogelijk nadat aan [artikel 3.110, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=5&paragraaf=2&artikel=3.110&z=2006-03-15&g=2006-03-15), is voldaan, aan een nader gehoor onderworpen.
+2. De in het eerste lid bedoelde vreemdeling wordt door Onze Minister zo spoedig mogelijk nadat aan [artikel 3.110, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=5&paragraaf=2&artikel=3.110&z=2006-04-29&g=2006-04-29), is voldaan, aan een nader gehoor onderworpen.
 
 ##### Artikel 3.113
 
-Aan de vreemdeling wordt tijdig mededeling gedaan van de hem toekomende bevoegdheid zich bij een gehoor als bedoeld in de [artikelen 3.110, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=5&paragraaf=2&artikel=3.110&z=2006-03-15&g=2006-03-15), [3.111, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=5&paragraaf=2&artikel=3.111&z=2006-03-15&g=2006-03-15), en [3.112, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=5&paragraaf=2&artikel=3.112&z=2006-03-15&g=2006-03-15), te doen bijstaan.
+Aan de vreemdeling wordt tijdig mededeling gedaan van de hem toekomende bevoegdheid zich bij een gehoor als bedoeld in de [artikelen 3.110, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=5&paragraaf=2&artikel=3.110&z=2006-04-29&g=2006-04-29), [3.111, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=5&paragraaf=2&artikel=3.111&z=2006-04-29&g=2006-04-29), en [3.112, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=5&paragraaf=2&artikel=3.112&z=2006-04-29&g=2006-04-29), te doen bijstaan.
 
 ##### Artikel 3.114
 
@@ -1554,9 +1536,9 @@ Bij de aanvraag tot het verlenen van de verblijfsvergunning voor bepaalde tijd, 
 
 ##### Artikel 3.116
 
-1. Indien Onze Minister voornemens is de aanvraag, bedoeld in [artikel 3.115, eerste lid, onder a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=5&paragraaf=2&artikel=3.115&z=2006-03-15&g=2006-03-15), van een vreemdeling aan wie rechtens zijn vrijheid is ontnomen op grond van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=6) of [artikel 59 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=59), af te wijzen terwijl de vrijheidsontneming voortduurt, wordt het schriftelijk voornemen daartoe aan de vreemdeling uitgereikt. [Artikel 3.115, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=5&paragraaf=2&artikel=3.115&z=2006-03-15&g=2006-03-15), is niet van toepassing.
+1. Indien Onze Minister voornemens is de aanvraag, bedoeld in [artikel 3.115, eerste lid, onder a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=5&paragraaf=2&artikel=3.115&z=2006-04-29&g=2006-04-29), van een vreemdeling aan wie rechtens zijn vrijheid is ontnomen op grond van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=6) of [artikel 59 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=59), af te wijzen terwijl de vrijheidsontneming voortduurt, wordt het schriftelijk voornemen daartoe aan de vreemdeling uitgereikt. [Artikel 3.115, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=5&paragraaf=2&artikel=3.115&z=2006-04-29&g=2006-04-29), is niet van toepassing.
 
-2. De vreemdeling brengt zijn zienswijze binnen twee weken schriftelijk naar voren, tenzij onze Minister voornemens is de aanvraag af te wijzen binnen 48 proces-uren, in welk geval [artikel 3.117](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=5&paragraaf=2&artikel=3.117&z=2006-03-15&g=2006-03-15) van toepassing is.
+2. De vreemdeling brengt zijn zienswijze binnen twee weken schriftelijk naar voren, tenzij onze Minister voornemens is de aanvraag af te wijzen binnen 48 proces-uren, in welk geval [artikel 3.117](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=5&paragraaf=2&artikel=3.117&z=2006-04-29&g=2006-04-29) van toepassing is.
 
 3. De termijn, bedoeld in het tweede lid, vangt aan direct na de uitreiking van het voornemen.
 
@@ -1564,7 +1546,7 @@ Bij de aanvraag tot het verlenen van de verblijfsvergunning voor bepaalde tijd, 
 
 ##### Artikel 3.117
 
-1. Indien Onze Minister voornemens is de aanvraag tot het verlenen van de verblijfsvergunning, bedoeld in [artikel 28 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=28), af te wijzen binnen 48 proces-uren, wordt het schriftelijk voornemen daartoe aan de vreemdeling uitgereikt. [Artikel 3.115](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=5&paragraaf=2&artikel=3.115&z=2006-03-15&g=2006-03-15) is niet van toepassing.
+1. Indien Onze Minister voornemens is de aanvraag tot het verlenen van de verblijfsvergunning, bedoeld in [artikel 28 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=28), af te wijzen binnen 48 proces-uren, wordt het schriftelijk voornemen daartoe aan de vreemdeling uitgereikt. [Artikel 3.115](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=5&paragraaf=2&artikel=3.115&z=2006-04-29&g=2006-04-29) is niet van toepassing.
 
 2. De vreemdeling brengt zijn zienswijze binnen drie proces-uren schriftelijk naar voren.
 
@@ -1576,7 +1558,7 @@ Bij de aanvraag tot het verlenen van de verblijfsvergunning voor bepaalde tijd, 
 
 ##### Artikel 3.118
 
-1. Indien Onze Minister oordeelt dat een ander land ingevolge een verdrag of een voor dit land en Nederland bindend besluit van een volkenrechtelijke organisatie verantwoordelijk is voor de behandeling van een aanvraag tot het verlenen van de verblijfsvergunning, bedoeld in [artikel 28 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=28), en uit dien hoofde het andere land om overname zal verzoeken, wordt het schriftelijk voornemen om de aanvraag af te wijzen, vooruitlopend op aanvaarding van het verzoek tot overname door het andere land, aan de vreemdeling uitgereikt. [Artikel 3.115](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=5&paragraaf=2&artikel=3.115&z=2006-03-15&g=2006-03-15) is niet van toepassing.
+1. Indien Onze Minister oordeelt dat een ander land ingevolge een verdrag of een voor dit land en Nederland bindend besluit van een volkenrechtelijke organisatie verantwoordelijk is voor de behandeling van een aanvraag tot het verlenen van de verblijfsvergunning, bedoeld in [artikel 28 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=28), en uit dien hoofde het andere land om overname zal verzoeken, wordt het schriftelijk voornemen om de aanvraag af te wijzen, vooruitlopend op aanvaarding van het verzoek tot overname door het andere land, aan de vreemdeling uitgereikt. [Artikel 3.115](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=5&paragraaf=2&artikel=3.115&z=2006-04-29&g=2006-04-29) is niet van toepassing.
 
 2. Indien Onze Minister het voornemen, bedoeld in het eerste lid, binnen 48 proces-uren aan de vreemdeling uitreikt, brengt de vreemdeling zijn zienswijze binnen drie procesuren schriftelijk naar voren.
 
@@ -1624,9 +1606,9 @@ Indien de termijn voor het geven van de beschikking op grond van [artikel 42, vi
 
 ##### Artikel 4.3
 
-1. In afwijking van [artikel 4.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=4&afdeling=1&paragraaf=1&artikel=4.2&z=2006-03-15&g=2006-03-15), kan ook aan andere grenzen dan de buitengrenzen personencontrole worden uitgeoefend overeenkomstig artikel 2, tweede lid, van de Schengen Uitvoeringsovereenkomst indien de openbare orde of de nationale veiligheid daartoe noopt.
+1. In afwijking van [artikel 4.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=4&afdeling=1&paragraaf=1&artikel=4.2&z=2006-04-29&g=2006-04-29), kan ook aan andere grenzen dan de buitengrenzen personencontrole worden uitgeoefend overeenkomstig artikel 2, tweede lid, van de Schengen Uitvoeringsovereenkomst indien de openbare orde of de nationale veiligheid daartoe noopt.
 
-2. Indien Onze Minister toepassing geeft aan het eerste lid, blijft [artikel 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=1&afdeling=1&artikel=1.3&z=2006-03-15&g=2006-03-15) buiten toepassing en wordt voor de toepassing van deze afdeling onder buitengrens mede andere grenzen verstaan.
+2. Indien Onze Minister toepassing geeft aan het eerste lid, blijft [artikel 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=1&afdeling=1&artikel=1.3&z=2006-04-29&g=2006-04-29) buiten toepassing en wordt voor de toepassing van deze afdeling onder buitengrens mede andere grenzen verstaan.
 
 #### Paragraaf 2. Algemene verplichtingen in het kader van de grensbewaking
 
@@ -1648,7 +1630,7 @@ Indien de termijn voor het geven van de beschikking op grond van [artikel 42, vi
 
 2. Het eerste lid, onder a, is van overeenkomstige toepassing op de vreemdeling die Nederland uitreist via een buitengrens.
 
-3. Het eerste lid, onder b en c, is niet van toepassing op de vreemdeling die rechtmatig verblijf heeft als bedoeld in [artikel 8, onder e, dan wel l, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8).
+3. Het eerste lid, onder b en c, is niet van toepassing op de vreemdeling die rechtmatig verblijf heeft als bedoeld in [artikel 8, onder e, dan wel l, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8), het familielid, bedoeld in [artikel 8.7, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=8&afdeling=2&paragraaf=2&artikel=8.7&z=2006-04-29&g=2006-04-29), en de vreemdeling, bedoeld in [artikel 8.7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=8&afdeling=2&paragraaf=2&artikel=8.7&z=2006-04-29&g=2006-04-29).
 
 ##### Artikel 4.6
 
@@ -1676,7 +1658,7 @@ De gezagvoerder van een schip verleent, desgevorderd, de medewerking aan een amb
 
 ##### Artikel 4.10
 
-[Artikel 4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=4&afdeling=1&paragraaf=2&artikel=4.8&z=2006-03-15&g=2006-03-15) is van overeenkomstige toepassing op gezagvoerders van andere schepen dan zeeschepen.
+[Artikel 4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=4&afdeling=1&paragraaf=2&artikel=4.8&z=2006-04-29&g=2006-04-29) is van overeenkomstige toepassing op gezagvoerders van andere schepen dan zeeschepen.
 
 ##### Artikel 4.11
 
@@ -1720,7 +1702,7 @@ De gezagvoerder van een schip verleent, desgevorderd, de medewerking aan een amb
 
 ##### Artikel 4.13
 
-1. De gezagvoerder van een zeeschip geeft tijdig kennis van het voorgenomen vertrek van zijn schip uit Nederland aan het hoofd van de grensdoorlaatpost waarlangs hij zal vertrekken. Indien in de gemeente waar het schip ligplaats heeft geen grensdoorlaatpost is gevestigd, wordt de kennisgeving gedaan aan het hoofd van de grensdoorlaatpost waaraan de bemanningslijst overeenkomstig [artikel 4.11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=4&afdeling=1&paragraaf=3&artikel=4.11&z=2006-03-15&g=2006-03-15), is afgegeven.
+1. De gezagvoerder van een zeeschip geeft tijdig kennis van het voorgenomen vertrek van zijn schip uit Nederland aan het hoofd van de grensdoorlaatpost waarlangs hij zal vertrekken. Indien in de gemeente waar het schip ligplaats heeft geen grensdoorlaatpost is gevestigd, wordt de kennisgeving gedaan aan het hoofd van de grensdoorlaatpost waaraan de bemanningslijst overeenkomstig [artikel 4.11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=4&afdeling=1&paragraaf=3&artikel=4.11&z=2006-04-29&g=2006-04-29), is afgegeven.
 
 2. In afwijking van het eerste lid behoeft de gezagvoerder van een cruiseschip, dat meerdere havens in Nederland aandoet, slechts aan het eerste lid te voldoen in de laatste haven van vertrek, tenzij zich wijzigingen in de reisomstandigheden hebben voorgedaan.
 
@@ -1732,9 +1714,9 @@ De gezagvoerder van een schip verleent, desgevorderd, de medewerking aan een amb
 
 ##### Artikel 4.14
 
-1. De [artikelen 4.11 tot en met 4.13](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=4&afdeling=1&paragraaf=3&artikel=4.11&z=2006-03-15&g=2006-03-15), gelden niet voor gezagvoerders van zeeschepen die, zonder ligplaats in een Nederlandse haven te nemen, door de Nederlandse territoriale zee varen.
+1. De [artikelen 4.11 tot en met 4.13](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=4&afdeling=1&paragraaf=3&artikel=4.11&z=2006-04-29&g=2006-04-29), gelden niet voor gezagvoerders van zeeschepen die, zonder ligplaats in een Nederlandse haven te nemen, door de Nederlandse territoriale zee varen.
 
-2. Onze Minister kan ten behoeve van gezagvoerders van zeeschepen die regelmatig Nederlandse havens aandoen, onder door hem te stellen voorwaarden, geheel of gedeeltelijk ontheffing verlenen van de [artikelen 4.11 tot en met 4.13](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=4&afdeling=1&paragraaf=3&artikel=4.11&z=2006-03-15&g=2006-03-15).
+2. Onze Minister kan ten behoeve van gezagvoerders van zeeschepen die regelmatig Nederlandse havens aandoen, onder door hem te stellen voorwaarden, geheel of gedeeltelijk ontheffing verlenen van de [artikelen 4.11 tot en met 4.13](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=4&afdeling=1&paragraaf=3&artikel=4.11&z=2006-04-29&g=2006-04-29).
 
 #### Paragraaf 4. Verplichtingen met het oog op grensbewaking bij binnenkomst door de lucht
 
@@ -1782,7 +1764,7 @@ De vordering aan de gezagvoerder van een luchtvaartuig, bedoeld in [artikel 51, 
 
 1. Een beslissing van de bevelhebber van de Koninklijke marechaussee of de korpschef, genomen krachtens [artikel 50, vierde lid, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=50), wordt ten uitvoer gelegd in een cel van de Koninklijke marechaussee respectievelijk op een politiebureau. De Regeling politiecellencomplex is van overeenkomstige toepassing op de tenuitvoerlegging van de beslissing in een cel van de Koninklijke marechaussee.
 
-2. De [artikelen 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=5&paragraaf=2&artikel=5.3&z=2006-03-15&g=2006-03-15) en [5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=5&paragraaf=2&artikel=5.5&z=2006-03-15&g=2006-03-15) zijn van overeenkomstige toepassing.
+2. De [artikelen 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=5&paragraaf=2&artikel=5.3&z=2006-04-29&g=2006-04-29) en [5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=5&paragraaf=2&artikel=5.5&z=2006-04-29&g=2006-04-29) zijn van overeenkomstige toepassing.
 
 ##### Artikel 4.20
 
@@ -1794,11 +1776,19 @@ Indien de bevelhebber van de Koninklijke marechaussee of de korpschef zijn bevoe
 
 - a. voor vreemdelingen die rechtmatig verblijven als bedoeld in [artikel 8, onder a tot en met d, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8): een vanwege de bevoegde autoriteiten verstrekt document waaruit zulks blijkt en waarvan het model is vastgesteld bij ministeriële regeling;
 
-- b. voor vreemdelingen die rechtmatig verblijven als bedoeld in [artikel 8, onder e, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8): een vanwege de bevoegde autoriteiten verstrekt document, waaruit zulks blijkt en waarvan het model wordt vastgesteld bij ministeriële regeling;
+- b. voor vreemdelingen die rechtmatig verblijven als bedoeld in [artikel 8 onder e, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8): een geldig nationaal paspoort of geldige identiteitskaart, indien zij de nationaliteit van een staat bezitten als bedoeld in [artikel 8.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=8&afdeling=2&paragraaf=2&artikel=8.7&z=2006-04-29&g=2006-04-29), of, indien zij een zodanige nationaliteit niet bezitten:
+
+- 1°. een geldig nationaal paspoort met een voor inreis benodigd visum, indien na inreis nog geen drie maanden zijn verstreken;
+
+- 2°. een geldig nationaal paspoort met een stempel van de inreis, indien voor inreis geen visum benodigd is en na inreis nog geen drie maanden zijn verstreken;
+
+- 3°. een geldig nationaal paspoort met een door de bevoegde autoriteiten afgegeven verklaring als bedoeld in [artikel 8.13, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=8&afdeling=2&paragraaf=2&artikel=8.13&z=2006-04-29&g=2006-04-29), indien na afgifte van de verklaring nog geen zes maanden zijn verstreken; of
+
+- 4°. een door de bevoegde autoriteiten afgegeven verblijfsdocument als bedoeld in [artikel 8.13, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=8&afdeling=2&paragraaf=2&artikel=8.13&z=2006-04-29&g=2006-04-29), dan wel [artikel 8.20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=8&afdeling=2&paragraaf=2&artikel=8.20&z=2006-04-29&g=2006-04-29);
 
 - c. voor vreemdelingen die een aanvraag tot het verlenen van de verblijfsvergunning voor bepaalde tijd, bedoeld in [artikel 28 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=28), hebben ingediend: een vanwege de bevoegde autoriteiten verstrekt document waaruit zulks blijkt en waarvan het model wordt vastgesteld bij ministeriële regeling;
 
-- d. voor vreemdelingen, anders dan bedoeld onder c, die rechtmatig verblijf in de zin van [artikel 8, onder f, g, h, j, of k, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) hebben en die niet beschikken over een ingevolge [de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) vereist geldig document voor grensoverschrijding: een vanwege de bevoegde autoriteiten verstrekt document, waarvan het model wordt vastgesteld bij ministeriële regeling, dat is voorzien van een inlegvel als bedoeld in [artikel 4.29, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=4&afdeling=2&artikel=4.29&z=2006-03-15&g=2006-03-15), waarop de verblijfsrechtelijke positie is aangetekend;
+- d. voor vreemdelingen, anders dan bedoeld onder c, die rechtmatig verblijf in de zin van [artikel 8, onder f, g, h, j, of k, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) hebben en die niet beschikken over een ingevolge [de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) vereist geldig document voor grensoverschrijding: een vanwege de bevoegde autoriteiten verstrekt document, waarvan het model wordt vastgesteld bij ministeriële regeling, dat is voorzien van een inlegvel als bedoeld in [artikel 4.29, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=4&afdeling=2&artikel=4.29&z=2006-04-29&g=2006-04-29), waarop de verblijfsrechtelijke positie is aangetekend;
 
 - e. voor andere vreemdelingen: een ingevolge de Wet voor het hebben van toegang tot Nederland vereist geldig document voor grensoverschrijding dan wel een document voor grensoverschrijding waarin het benodigde visum is aangetekend of waarin een aantekening omtrent de verblijfsrechtelijke positie is geplaatst.
 
@@ -1806,23 +1796,23 @@ Indien de bevelhebber van de Koninklijke marechaussee of de korpschef zijn bevoe
 
 3. Op het ingevolge het eerste lid, onder a tot en met d, afgegeven document wordt aangetekend of het de vreemdeling toegestaan is arbeid te verrichten en of voor deze arbeid ingevolge de [Wet arbeid vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007149) een tewerkstellingsvergunning is vereist.
 
-4. Indien aan het verblijf in Nederland van de in het eerste lid, onder a en b, bedoelde vreemdelingen een beperking als bedoeld in [artikel 3.4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.4&z=2006-03-15&g=2006-03-15), is verbonden, wordt op het document de aantekening «beroep op de publieke middelen kan gevolgen hebben voor verblijfsrecht» gesteld.
+4. Indien aan het verblijf in Nederland van de in het eerste lid, onder a en b, bedoelde vreemdelingen een beperking als bedoeld in [artikel 3.4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.4&z=2006-04-29&g=2006-04-29), is verbonden, wordt op het document de aantekening «beroep op de publieke middelen kan gevolgen hebben voor verblijfsrecht» gesteld.
 
 ##### Artikel 4.22
 
-1. De documenten, bedoeld in [artikel 4.21, eerste lid, onder a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=4&afdeling=2&artikel=4.21&z=2006-03-15&g=2006-03-15), worden door Onze Minister vervangen, indien:
+1. De documenten, bedoeld in [artikel 4.21, eerste lid, onder a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=4&afdeling=2&artikel=4.21&z=2006-04-29&g=2006-04-29), worden door Onze Minister vervangen, indien:
 
-- a. de vreemdeling aan wie het document werd afgegeven, overeenkomstig [artikel 4.44](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=4&afdeling=3&paragraaf=2&artikel=4.44&z=2006-03-15&g=2006-03-15) aangifte heeft gedaan van vermissing, verlies of het voor identificatie ondeugdelijk worden van dat document, en
+- a. de vreemdeling aan wie het document werd afgegeven, overeenkomstig [artikel 4.44](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=4&afdeling=3&paragraaf=2&artikel=4.44&z=2006-04-29&g=2006-04-29) aangifte heeft gedaan van vermissing, verlies of het voor identificatie ondeugdelijk worden van dat document, en
 
 - b. Onze Minister heeft vastgesteld dat er gegronde redenen zijn om te veronderstellen dat de aangifte naar waarheid is gedaan.
 
-2. Onverminderd het eerste lid worden de documenten, bedoeld in [artikel 4.21, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=4&afdeling=2&artikel=4.21&z=2006-03-15&g=2006-03-15), telkens vijf jaren na de afgifte ervan, vervangen.
+2. Onverminderd het eerste lid worden de documenten, bedoeld in [artikel 4.21, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=4&afdeling=2&artikel=4.21&z=2006-04-29&g=2006-04-29), telkens vijf jaren na de afgifte ervan, vervangen.
 
 ##### Artikel 4.23
 
 1. De ambtenaren belast met de grensbewaking of de ambtenaren belast met het toezicht op vreemdelingen, nemen op grond van [artikel 52, eerste lid, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=52) het reis- of identiteitspapier van een persoon tijdelijk in bewaring:
 
-- a. voorzover zulks nodig is voor het verkrijgen van de gegevens, bedoeld in [artikel 4.45](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=4&afdeling=3&paragraaf=3&artikel=4.45&z=2006-03-15&g=2006-03-15), of voor het stellen van een aantekening als bedoeld in [artikel 4.24 tot en met artikel 4.35](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=4&afdeling=2&artikel=4.24&z=2006-03-15&g=2006-03-15);
+- a. voorzover zulks nodig is voor het verkrijgen van de gegevens, bedoeld in [artikel 4.45](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=4&afdeling=3&paragraaf=3&artikel=4.45&z=2006-04-29&g=2006-04-29), of voor het stellen van een aantekening als bedoeld in [artikel 4.24 tot en met artikel 4.35](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=4&afdeling=2&artikel=4.24&z=2006-04-29&g=2006-04-29);
 
 - b. indien de persoon ter vaststelling van zijn identiteit is staande gehouden en niet aanstonds blijkt dat het hem is toegestaan in Nederland te verblijven, terwijl de gelegenheid ontbreekt hem, met toepassing van [artikel 50, tweede of derde lid, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=50) naar een plaats, bestemd voor verhoor, over te brengen;
 
@@ -1844,7 +1834,7 @@ Indien de bevelhebber van de Koninklijke marechaussee of de korpschef zijn bevoe
 
 - d. aanmelding bij een korpschef;
 
-- e. de toepassing van de [artikelen 2.4 tot en met 2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=2&afdeling=2&artikel=2.4&z=2006-03-15&g=2006-03-15);
+- e. de toepassing van de [artikelen 2.4 tot en met 2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=2&afdeling=2&artikel=2.4&z=2006-04-29&g=2006-04-29);
 
 - f. het weigeren van toegang tot Nederland;
 
@@ -1856,23 +1846,23 @@ Indien de bevelhebber van de Koninklijke marechaussee of de korpschef zijn bevoe
 
 ##### Artikel 4.25
 
-1. De ambtenaren belast met de grensbewaking, stellen in het reis- of identiteitspapier van de vreemdeling die toegang tot Nederland heeft en die Nederland langs een doorlaatpost in- of uitreist een aantekening als bedoeld in [artikel 4.24, eerste lid, onder a en h](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=4&afdeling=2&artikel=4.24&z=2006-03-15&g=2006-03-15), waaruit blijkt langs welke doorlaatpost en op welke datum de in- of uitreis heeft plaatsgevonden.
+1. De ambtenaren belast met de grensbewaking, stellen in het reis- of identiteitspapier van de vreemdeling die toegang tot Nederland heeft en die Nederland langs een doorlaatpost in- of uitreist een aantekening als bedoeld in [artikel 4.24, eerste lid, onder a en h](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=4&afdeling=2&artikel=4.24&z=2006-04-29&g=2006-04-29), waaruit blijkt langs welke doorlaatpost en op welke datum de in- of uitreis heeft plaatsgevonden.
 
 2. Bij de aantekening, welke ingevolge het eerste lid wordt gesteld in het reis- of identiteitspapier van een vreemdeling die Nederland inreist, wordt vermeld het aantal in gezelschap van de houder van dat document reizende vreemdelingen dat daarin is opgenomen of staat bijgeschreven. Bij inreis in Nederland van een vreemdeling, reizende in groepsverband op een collectief paspoort of op een collectieve lijst, worden de namen van de in het document opgenomen vreemdelingen die zich niet bij het gezelschap bevinden of aan wie de toegang tot Nederland wordt geweigerd, door de ambtenaar, belast met de grensbewaking, doorgehaald.
 
 ##### Artikel 4.26
 
-De ambtenaren belast met de grensbewaking, stellen in het reis- of identiteitspapier van een vreemdeling een aantekening als bedoeld in [artikel 4.24, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=4&afdeling=2&artikel=4.24&z=2006-03-15&g=2006-03-15), inhoudende dat de vreemdeling zich binnen drie dagen bij de korpschef, onder vermelding van de plaats, moet melden, indien daartoe naar het oordeel van de ambtenaar belast met de grensbewaking in het belang van het toezicht op vreemdelingen gegronde reden bestaat. Deze aantekening kan ook geplaatst worden in een bijzonder doorlaatbewijs.
+De ambtenaren belast met de grensbewaking, stellen in het reis- of identiteitspapier van een vreemdeling een aantekening als bedoeld in [artikel 4.24, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=4&afdeling=2&artikel=4.24&z=2006-04-29&g=2006-04-29), inhoudende dat de vreemdeling zich binnen drie dagen bij de korpschef, onder vermelding van de plaats, moet melden, indien daartoe naar het oordeel van de ambtenaar belast met de grensbewaking in het belang van het toezicht op vreemdelingen gegronde reden bestaat. Deze aantekening kan ook geplaatst worden in een bijzonder doorlaatbewijs.
 
 ##### Artikel 4.27
 
-1. De ambtenaren belast met de grensbewaking, stellen in het reis- of identiteitspapier van een vreemdeling een aantekening als bedoeld in [artikel 4.24, eerste lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=4&afdeling=2&artikel=4.24&z=2006-03-15&g=2006-03-15), indien zij vermoeden dat de vreemdeling andermaal zal trachten Nederland in te reizen zonder te voldoen aan de vereisten voor toegang tot Nederland.
+1. De ambtenaren belast met de grensbewaking, stellen in het reis- of identiteitspapier van een vreemdeling een aantekening als bedoeld in [artikel 4.24, eerste lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=4&afdeling=2&artikel=4.24&z=2006-04-29&g=2006-04-29), indien zij vermoeden dat de vreemdeling andermaal zal trachten Nederland in te reizen zonder te voldoen aan de vereisten voor toegang tot Nederland.
 
 2. Uit de aantekening, bedoeld in het eerste lid, blijkt dat de toegang is geweigerd, met vermelding van de datum en zo nodig de grond waarop deze weigering berust.
 
 ##### Artikel 4.28
 
-1. De ambtenaren belast met de grensbewaking, stellen in het reis- of identiteitspapier van een vreemdeling een aantekening als bedoeld in [artikel 4.24, eerste lid, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=4&afdeling=2&artikel=4.24&z=2006-03-15&g=2006-03-15), indien zij vermoeden dat de vreemdeling zal trachten zich andermaal naar Nederland te begeven zonder te voldoen aan de vereisten voor toegang tot Nederland. Een zodanige aantekening wordt niet gesteld indien het vertrek, de uitzetting of de doorreis van de vreemdeling door of diens toegang tot een derde land daardoor wordt bemoeilijkt.
+1. De ambtenaren belast met de grensbewaking, stellen in het reis- of identiteitspapier van een vreemdeling een aantekening als bedoeld in [artikel 4.24, eerste lid, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=4&afdeling=2&artikel=4.24&z=2006-04-29&g=2006-04-29), indien zij vermoeden dat de vreemdeling zal trachten zich andermaal naar Nederland te begeven zonder te voldoen aan de vereisten voor toegang tot Nederland. Een zodanige aantekening wordt niet gesteld indien het vertrek, de uitzetting of de doorreis van de vreemdeling door of diens toegang tot een derde land daardoor wordt bemoeilijkt.
 
 2. Uit de aantekening, bedoeld in het eerste lid, blijkt het vertrek of de uitzetting van de vreemdeling, met vermelding van de datum en zo nodig de reden van het vertrek of de uitzetting.
 
@@ -1910,11 +1900,11 @@ De ambtenaren belast met de grensbewaking, stellen in het reis- of identiteitspa
 
 - d. de vreemdeling geen geldig document voor grensoverschrijding heeft, of
 
-- e. de vreemdeling houder is van een document als bedoeld in [artikel 4.21, eerste lid, onder a, b, c of d](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=4&afdeling=2&artikel=4.21&z=2006-03-15&g=2006-03-15), en niet in het bezit is van een geldig document voor grensoverschrijding.
+- e. de vreemdeling houder is van een document als bedoeld in [artikel 4.21, eerste lid, onder a, b, c of d](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=4&afdeling=2&artikel=4.21&z=2006-04-29&g=2006-04-29), en niet in het bezit is van een geldig document voor grensoverschrijding.
 
 ##### Artikel 4.30
 
-1. De aantekeningen, bedoeld in [artikel 4.29, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=4&afdeling=2&artikel=4.29&z=2006-03-15&g=2006-03-15), hebben betrekking op de aanmelding ingevolge de [artikelen 4.47 tot en met 4.51](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=4&afdeling=3&paragraaf=5&artikel=4.47&z=2006-03-15&g=2006-03-15).
+1. De aantekeningen, bedoeld in [artikel 4.29, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=4&afdeling=2&artikel=4.29&z=2006-04-29&g=2006-04-29), hebben betrekking op de aanmelding ingevolge de [artikelen 4.47 tot en met 4.51](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=4&afdeling=3&paragraaf=5&artikel=4.47&z=2006-04-29&g=2006-04-29).
 
 2. Uit de aantekening blijkt de datum van aanmelding.
 
@@ -1924,27 +1914,27 @@ De ambtenaren belast met de grensbewaking, stellen in het reis- of identiteitspa
 
 ##### Artikel 4.31
 
-1. De aantekening, bedoeld in [artikel 4.29, eerste lid, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=4&afdeling=2&artikel=4.29&z=2006-03-15&g=2006-03-15), wordt gesteld indien op grond van [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=1&artikel=3.1&z=2006-03-15&g=2006-03-15) uitzetting van de vreemdeling achterwege blijft. De datum waarop de aanvraag is ontvangen wordt eveneens aangetekend. Indien de aanvraag wordt afgewezen, wordt «vervallen» aangetekend.
+1. De aantekening, bedoeld in [artikel 4.29, eerste lid, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=4&afdeling=2&artikel=4.29&z=2006-04-29&g=2006-04-29), wordt gesteld indien op grond van [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=1&artikel=3.1&z=2006-04-29&g=2006-04-29) uitzetting van de vreemdeling achterwege blijft. De datum waarop de aanvraag is ontvangen wordt eveneens aangetekend. Indien de aanvraag wordt afgewezen, wordt «vervallen» aangetekend.
 
 2. Uit de aantekening blijkt of het de vreemdeling is toegestaan arbeid te verrichten en of voor deze arbeid ingevolge de [Wet arbeid vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007149) een tewerkstellingsvergunning vereist is.
 
 ##### Artikel 4.32
 
-1. Uit de aantekening, bedoeld in [artikel 4.29, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=4&afdeling=2&artikel=4.29&z=2006-03-15&g=2006-03-15), blijkt op welke datum de vreemdeling is veranderd van woon- of verblijfplaats binnen Nederland.
+1. Uit de aantekening, bedoeld in [artikel 4.29, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=4&afdeling=2&artikel=4.29&z=2006-04-29&g=2006-04-29), blijkt op welke datum de vreemdeling is veranderd van woon- of verblijfplaats binnen Nederland.
 
 2. De aantekening, bedoeld in het eerste lid, wordt door de korpschef van het regionale politiekorps waarin de nieuwe woon- of verblijfplaats is gelegen, gesteld.
 
 ##### Artikel 4.33
 
-1. Uit de aantekening, bedoeld in [artikel 4.29, eerste lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=4&afdeling=2&artikel=4.29&z=2006-03-15&g=2006-03-15), blijkt de verplichte periode van aanmelding overeenkomstig [artikel 54, tweede lid, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=54) alsmede eventuele verdere bijzonderheden.
+1. Uit de aantekening, bedoeld in [artikel 4.29, eerste lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=4&afdeling=2&artikel=4.29&z=2006-04-29&g=2006-04-29), blijkt de verplichte periode van aanmelding overeenkomstig [artikel 54, tweede lid, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=54) alsmede eventuele verdere bijzonderheden.
 
-2. Nadat de vreemdeling voor de eerste maal heeft voldaan aan de verplichting tot periodieke aanmelding ingevolge [artikel 4.51](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=4&afdeling=3&paragraaf=6&artikel=4.51&z=2006-03-15&g=2006-03-15), kunnen de daarop volgende aanmeldingen worden aangetekend door in het reis- of identiteitspapier de datum van de aanmelding te stellen.
+2. Nadat de vreemdeling voor de eerste maal heeft voldaan aan de verplichting tot periodieke aanmelding ingevolge [artikel 4.51](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=4&afdeling=3&paragraaf=6&artikel=4.51&z=2006-04-29&g=2006-04-29), kunnen de daarop volgende aanmeldingen worden aangetekend door in het reis- of identiteitspapier de datum van de aanmelding te stellen.
 
 3. Uit de aantekening, bedoeld in het eerste en tweede lid, blijkt of het de vreemdeling is toegestaan arbeid te verrichten en of voor deze arbeid ingevolge de [Wet arbeid vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007149) een tewerkstellingsvergunning vereist is.
 
 ##### Artikel 4.34
 
-1. De aantekeningen, bedoeld in [artikel 4.29, eerste lid, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=4&afdeling=2&artikel=4.29&z=2006-03-15&g=2006-03-15), betreffen:
+1. De aantekeningen, bedoeld in [artikel 4.29, eerste lid, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=4&afdeling=2&artikel=4.29&z=2006-04-29&g=2006-04-29), betreffen:
 
 - a. een aantekening waaruit de uiterlijke datum van vertrek blijkt, indien aan de vreemdeling overeenkomstig [artikel 62 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=62) een termijn is gegund waarbinnen hij Nederland uit eigen beweging dient te verlaten;
 
@@ -1960,7 +1950,7 @@ De ambtenaren belast met de grensbewaking, stellen in het reis- of identiteitspa
 
 ##### Artikel 4.35
 
-1. De aantekening, bedoeld in [artikel 4.29, eerste lid, onder h](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=4&afdeling=2&artikel=4.29&z=2006-03-15&g=2006-03-15), wordt geplaatst, indien de korpschef of de bevelhebber van de Koninklijke marechaussee vermoedt dat de vreemdeling zal trachten naar Nederland terug te keren zonder te voldoen aan de vereisten voor toegang tot Nederland. De aantekening wordt niet gesteld indien het vertrek, de uitzetting of de doorreis van de vreemdeling door, of diens toelating tot een derde land daardoor wordt bemoeilijkt.
+1. De aantekening, bedoeld in [artikel 4.29, eerste lid, onder h](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=4&afdeling=2&artikel=4.29&z=2006-04-29&g=2006-04-29), wordt geplaatst, indien de korpschef of de bevelhebber van de Koninklijke marechaussee vermoedt dat de vreemdeling zal trachten naar Nederland terug te keren zonder te voldoen aan de vereisten voor toegang tot Nederland. De aantekening wordt niet gesteld indien het vertrek, de uitzetting of de doorreis van de vreemdeling door, of diens toelating tot een derde land daardoor wordt bemoeilijkt.
 
 2. Uit de aantekening blijkt de datum waarop de vreemdeling ongewenst is verklaard.
 
@@ -1990,13 +1980,15 @@ Bij ministeriële regeling kunnen modellen van de aantekeningen, bedoeld in deze
 
 4. De in het eerste en derde lid omschreven verplichtingen rusten ten aanzien van kinderen beneden de leeftijd van twaalf jaar op de wettelijke vertegenwoordiger. Voor kinderen van twaalf jaar en ouder kan aan deze verplichtingen ook worden voldaan door de wettelijke vertegenwoordiger.
 
-5. Van vertrek naar het buitenland wordt geen kennis gegeven door de vreemdeling die rechtmatig verblijft als bedoeld in [artikel 8, onder a tot en met e, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8), indien de vreemdeling zijn hoofdverblijf niet naar het buitenland verplaatst.
+5. De in het eerste en derde lid omschreven verplichtingen rusten niet op de onderdaan van een staat die partij is bij het Verdrag tot oprichting van de Europese Gemeenschap, de Overeenkomst betreffende de Europese Economische Ruimte of de onderdaan van Zwitserland met verblijfsrecht van maximaal drie maanden als bedoeld in [artikel 8.11](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=8&afdeling=2&paragraaf=2&artikel=8.11&z=2006-04-29&g=2006-04-29).
+
+6. Van vertrek naar het buitenland wordt geen kennis gegeven door de vreemdeling die rechtmatig verblijft als bedoeld in [artikel 8, onder a tot en met e, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8), indien de vreemdeling zijn hoofdverblijf niet naar het buitenland verplaatst.
 
 #### Paragraaf 1. Kennisgeving van verandering van woon- of verblijfplaats en vertrek naar het buitenland
 
 ##### Artikel 4.38
 
-1. De vreemdeling verstrekt op vordering van Onze Minister de gegevens, bedoeld in de [artikelen 4.39 tot en met 4.44](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=4&afdeling=3&paragraaf=2&artikel=4.39&z=2006-03-15&g=2006-03-15), binnen de in de vordering aangegeven tijd.
+1. De vreemdeling verstrekt op vordering van Onze Minister de gegevens, bedoeld in de [artikelen 4.39 tot en met 4.44](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=4&afdeling=3&paragraaf=2&artikel=4.39&z=2006-04-29&g=2006-04-29), binnen de in de vordering aangegeven tijd.
 
 2. Indien daartoe in het belang van het toezicht op vreemdelingen gegronde reden bestaat kan de in het voorgaande lid bedoelde vordering inhouden dat de vreemdeling de gegevens in persoon verstrekt.
 
@@ -2024,11 +2016,9 @@ Werkgevers, van wie bij Onze Minister bekend is dat zij een vreemdeling in diens
 
 - a. houder is van een geldige machtiging tot voorlopig verblijf afgegeven voor een verblijfsdoel waarbij het verrichten van arbeid is toegestaan;
 
-- b. onderdaan is van een staat die partij is bij het Verdrag tot oprichting van de Europese Gemeenschap of de Overeenkomst betreffende de Europese Economische Ruimte en op onderdanen van Zwitserland;
+- b. kan aantonen dat hij naar Nederland is gekomen voor het verrichten van arbeid gedurende ten hoogste drie maanden, te rekenen vanaf het tijdstip van zijn binnenkomst, of
 
-- c. kan aantonen dat hij naar Nederland is gekomen voor het verrichten van arbeid gedurende ten hoogste drie maanden, te rekenen vanaf het tijdstip van zijn binnenkomst, of
-
-- d. naar Nederland is gekomen om aan te monsteren of als zeeman werk te zoeken aan boord van een zeeschip.
+- c. naar Nederland is gekomen om aan te monsteren of als zeeman werk te zoeken aan boord van een zeeschip.
 
 3. Het tweede lid is niet van toepassing indien de arbeid geheel of gedeeltelijk bestaat uit het verrichten van seksuele handelingen met derden of het verlenen van seksuele diensten aan derden, tenzij de vreemdeling onderdaan is van een staat die partij is bij het Verdrag tot oprichting van de Europese Gemeenschap of de Overeenkomst betreffende de Europese Economische Ruimte of onderdaan is van Zwitserland.
 
@@ -2058,6 +2048,8 @@ De medewerking van de vreemdeling, bedoeld in [artikel 54, eerste lid, onderdeel
 
 2. Het eerste lid geldt niet voor onderdanen van een staat die partij is bij de Europese Gemeenschap, onderdanen van een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, Australië, Canada, Israël, Japan, Monaco, Nieuw Zeeland, Suriname, de Verenigde Staten van Amerika en Zwitserland.
 
+Het eerste lid is evenmin van toepassing op familieleden als bedoeld in [artikel 8.7, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=8&afdeling=2&paragraaf=2&artikel=8.7&z=2006-04-29&g=2006-04-29), die voor hun komst naar Nederland reeds rechtmatig verblijf hebben verkregen in een andere staat die partij is bij het Verdrag tot oprichting van de Europese Gemeenschap of de Overeenkomst betreffende de Europese Economische Ruimte dan wel Zwitserland en die zich vanuit die staat dan wel Zwitserland naar Nederland verplaatsen.
+
 #### Paragraaf 4. Medisch onderzoek
 
 ##### Artikel 4.47
@@ -2068,23 +2060,19 @@ De medewerking van de vreemdeling, bedoeld in [artikel 54, eerste lid, onderdeel
 
 3. Indien de vreemdeling jonger is dan twaalf jaar, doet degene bij wie de vreemdeling woont of verblijft de melding.
 
-4. Het eerste lid is niet van toepassing op onderdanen van een staat die partij is bij het Verdrag tot oprichting van de Europese Gemeenschap of de Overeenkomst betreffende de Europese Economische Ruimte en op onderdanen van Zwitserland.
-
 ##### Artikel 4.48
 
 1. De vreemdeling die rechtmatig verblijft als bedoeld in [artikel 8, onder i, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) en die naar Nederland is gekomen voor een verblijf van ten hoogste drie maanden, meldt zich binnen drie dagen na binnenkomst in Nederland in persoon aan bij de korpschef van het regionale politiekorps waarin de gemeente is gelegen waar hij woon- of verblijfplaats heeft.
 
 2. Een verplichting tot aanmelding krachtens het voorgaande lid rust ten aanzien van de vreemdeling beneden de leeftijd van twaalf jaar op degene bij wie de vreemdeling woont of verblijft.
 
-3. Het eerste lid is niet van toepassing op:
-
-- a. onderdanen van een staat die partij is bij het Verdrag tot oprichting van de Europese Gemeenschap of de Overeenkomst betreffende de Europese Economische Ruimte en op onderdanen van Zwitserland;
-
-- b. de vreemdeling die zijn intrek neemt in een hotel of in een inrichting, waarvan de eigenaar, houder of beheerder bij of krachtens gemeentelijke verordening verplicht is aan de daartoe aangewezen autoriteit kennis te geven van het verschaffen van nachtverblijf aan personen.
+3. Het eerste lid is niet van toepassing op de vreemdeling die zijn intrek neemt in een hotel of in een inrichting, waarvan de eigenaar, houder of beheerder bij of krachtens gemeentelijke verordening verplicht is aan de daartoe aangewezen autoriteit kennis te geven van het verschaffen van nachtverblijf aan personen.
 
 ##### Artikel 4.49
 
-De vreemdeling die houder is van een visum of een document voor grensoverschrijding waarin door de daartoe bevoegde autoriteit een aantekening is gesteld omtrent aanmelding bij een vreemdelingendienst in Nederland, meldt zich binnen drie dagen na binnenkomst in Nederland in persoon aan bij de korpschef van het regionale politiekorps waarin de in deze aantekening vermelde gemeente is gelegen.
+1. De vreemdeling die houder is van een visum of een document voor grensoverschrijding waarin door de daartoe bevoegde autoriteit een aantekening is gesteld omtrent aanmelding bij een vreemdelingendienst in Nederland, meldt zich binnen drie dagen na binnenkomst in Nederland in persoon aan bij de korpschef van het regionale politiekorps waarin de in deze aantekening vermelde gemeente is gelegen.
+
+2. Het eerste lid is niet van toepassing op onderdanen van een staat die partij is bij het Verdrag tot oprichting van de Europese Gemeenschap of de Overeenkomst betreffende de Europese Economische Ruimte en op onderdanen van Zwitserland.
 
 ##### Artikel 4.50
 
@@ -2105,6 +2093,8 @@ De vreemdeling die houder is van een visum of een document voor grensoverschrijd
 2. De vreemdeling, bedoeld in het eerste lid, meldt zich wekelijks, tenzij Onze Minister een andere termijn stelt, dan wel ontheffing verleent.
 
 3. Het eerste lid is niet van toepassing, indien de vreemdeling rechtens zijn vrijheid is ontnomen.
+
+4. Het eerste lid is niet van toepassing op onderdanen van een staat die partij is bij het Verdrag tot oprichting van de Europese Gemeenschap of de Overeenkomst betreffende de Europese Economische Ruimte en op onderdanen van Zwitserland.
 
 #### Paragraaf 6. Periodieke aanmelding
 
@@ -2178,7 +2168,7 @@ Overeenkomstig door Onze Minister te geven algemene en bijzondere aanwijzingen s
 
 1. De aanwijzing bedoeld in de [artikelen 57, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=57), en [58, eerste lid, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=58) wordt zoveel mogelijk gegeven bij de beschikking waarbij de aanvraag tot het verlenen van de verblijfsvergunning, bedoeld in [artikel 28 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=28), is afgewezen. De aanwijzing wordt met redenen omkleed.
 
-2. [Artikel 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=5&paragraaf=2&artikel=5.3&z=2006-03-15&g=2006-03-15) is van overeenkomstige toepassing indien de aanwijzing, bedoeld in het eerste lid, gegeven wordt bij afzonderlijke beschikking.
+2. [Artikel 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=5&paragraaf=2&artikel=5.3&z=2006-04-29&g=2006-04-29) is van overeenkomstige toepassing indien de aanwijzing, bedoeld in het eerste lid, gegeven wordt bij afzonderlijke beschikking.
 
 ### Hoofdstuk 5. Vrijheidsbeperkende en vrijheidsontnemende maatregelen
 
@@ -2210,7 +2200,7 @@ Onze Minister is bevoegd de kosten van uitzetting, bedoeld in de [artikelen 65, 
 
 1. De noodzakelijke kosten van uitzetting die ten laste komen van de Staat of van andere openbare lichamen kunnen door de Staat, of door het andere openbare lichaam te welks laste zij zijn gekomen, worden verhaald op de vreemdeling en, indien hij minderjarig is, op degenen die het wettig gezag over hem uitoefenen.
 
-2. De in het voorgaande lid bedoelde kosten van uitzetting omvatten de kosten, genoemd in [artikel 6.3, tweede lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=6&afdeling=2&artikel=6.3&z=2006-03-15&g=2006-03-15).
+2. De in het voorgaande lid bedoelde kosten van uitzetting omvatten de kosten, genoemd in [artikel 6.3, tweede lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=6&afdeling=2&artikel=6.3&z=2006-04-29&g=2006-04-29).
 
 ### Afdeling 3. Ongewenstverklaring
 
@@ -2304,7 +2294,7 @@ Vervallen
 
 2. Indien uit de verblijfsrechtelijke gegevens in de gemeentelijke basisadministratie persoonsgegevens, dan wel uit een aantekening op het bescheid, bedoeld in [artikel 9, tweede lid, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=9) blijkt dat het verblijfsrecht is toegekend onder de beperking dat een beroep op publieke middelen gevolgen kan hebben voor het verblijfsrecht, verstrekt een bestuursorgaan, niet zijnde een orgaan als bedoeld in [artikel 107, vijfde lid, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=107), uit eigen beweging zo spoedig mogelijk de gegevens, bedoeld in het eerste lid, die nodig zijn voor de beoordeling of aan deze beperking wordt voldaan.
 
-3. Indien uit de verblijfsrechtelijke gegevens in de gemeentelijke basisadministratie persoonsgegevens, dan wel uit een aantekening op het bescheid, bedoeld in [artikel 9, tweede lid, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=9) blijkt dat het verblijfsrecht is toegekend onder de beperking dat arbeid niet is toegestaan, dan wel arbeid uitsluitend is toegestaan bij een bepaalde werkgever, dan wel arbeid slechts is toegestaan indien de werkgever beschikt over een tewerkstellingsvergunning, verstrekt een bestuursorgaan, niet zijnde een orgaan als bedoeld in [artikel 107, vijfde lid, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=107), belast met de verstrekking van ontheffingen of vergunningen als bedoeld in de [artikelen 8.3](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=8&afdeling=1&artikel=8.3&z=2006-03-15&g=2006-03-15) en [8.4](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=8&afdeling=1&artikel=8.4&z=2006-03-15&g=2006-03-15), uit eigen beweging zo spoedig mogelijk de gegevens, bedoeld in het eerste lid die nodig zijn voor de beoordeling of aan deze beperking wordt voldaan.
+3. Indien uit de verblijfsrechtelijke gegevens in de gemeentelijke basisadministratie persoonsgegevens, dan wel uit een aantekening op het bescheid, bedoeld in [artikel 9, tweede lid, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=9) blijkt dat het verblijfsrecht is toegekend onder de beperking dat arbeid niet is toegestaan, dan wel arbeid uitsluitend is toegestaan bij een bepaalde werkgever, dan wel arbeid slechts is toegestaan indien de werkgever beschikt over een tewerkstellingsvergunning, verstrekt een bestuursorgaan, niet zijnde een orgaan als bedoeld in [artikel 107, vijfde lid, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=107), belast met de verstrekking van ontheffingen of vergunningen als bedoeld in de [artikelen 8.3](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=8&afdeling=1&artikel=8.3&z=2006-04-29&g=2006-04-29) en [8.4](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=8&afdeling=1&artikel=8.4&z=2006-04-29&g=2006-04-29), uit eigen beweging zo spoedig mogelijk de gegevens, bedoeld in het eerste lid die nodig zijn voor de beoordeling of aan deze beperking wordt voldaan.
 
 4. Onze Minister kan, in overeenstemming met Onze Minister die het aangaat, bepalen dat de gegevens, bedoeld in dit artikel, periodiek of in gestandaardiseerde vorm worden verstrekt.
 
@@ -2328,7 +2318,7 @@ Vervallen
 
 ##### Artikel 8.4
 
-De vreemdeling die rechtmatig in Nederland verblijf heeft op de gronden, genoemd in [artikel 8, onder f tot en met j, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8), kan geen aanspraak maken op een beschikking als bedoeld in [artikel 8.3](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=8&afdeling=1&artikel=8.3&z=2006-03-15&g=2006-03-15).
+De vreemdeling die rechtmatig in Nederland verblijf heeft op de gronden, genoemd in [artikel 8, onder f tot en met j, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8), kan geen aanspraak maken op een beschikking als bedoeld in [artikel 8.3](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=8&afdeling=1&artikel=8.3&z=2006-04-29&g=2006-04-29).
 
 ### Afdeling 1. Gegevensverstrekkingen
 
@@ -2336,7 +2326,7 @@ De vreemdeling die rechtmatig in Nederland verblijf heeft op de gronden, genoemd
 
 ##### Artikel 8.5
 
-1. Aan een vreemdeling die onderdaan is van België of Luxemburg en die het vereiste document voor grensoverschrijding bezit, kan, in afwijking van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=1&z=2006-03-15&g=2006-03-15), de toegang tot Nederland slechts worden geweigerd, indien hij een actuele bedreiging voor de openbare orde of de nationale veiligheid vormt.
+1. Aan een vreemdeling die onderdaan is van België of Luxemburg en die het vereiste document voor grensoverschrijding bezit, kan, in afwijking van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=1&z=2006-04-29&g=2006-04-29), de toegang tot Nederland slechts worden geweigerd, indien hij een actuele bedreiging voor de openbare orde of de nationale veiligheid vormt.
 
 2. De ambtenaren belast met de grensbewaking of de ambtenaren belast met het toezicht op vreemdelingen, weigeren niet dan ingevolge een bijzondere aanwijzing van Onze Minister de toegang tot Nederland aan een vreemdeling als bedoeld in het eerste lid. De weigering geschiedt schriftelijk.
 
@@ -2362,109 +2352,179 @@ De vreemdeling die rechtmatig in Nederland verblijf heeft op de gronden, genoemd
 
 ##### Artikel 8.7
 
-1. Aan een gemeenschapsonderdaan, een vreemdeling die onderdaan is van een Staat die partij is bij het Verdrag tot oprichting van de Europese Gemeenschap of de Overeenkomst betreffende de Europese Economische Ruimte, en een Zwitsers onderdaan, die het vereiste document voor grensoverschrijding bezit, kan de toegang tot Nederland slechts worden geweigerd, indien hij:
+1. Deze paragraaf is van toepassing op vreemdelingen die de nationaliteit bezitten van een staat die partij is bij het Verdrag tot oprichting van de Europese Gemeenschap of bij de Overeenkomst betreffende de Europese Economische Ruimte, dan wel van Zwitserland, en die zich naar Nederland begeven of in Nederland verblijven.
 
-- a. een actuele bedreiging voor de openbare orde of de nationale veiligheid vormt; of
+2. Deze paragraaf is eveneens van toepassing op de familieleden die een vreemdeling als bedoeld in het eerste lid naar Nederland begeleiden of zich bij hem in Nederland voegen, voor zover het betreft:
 
-- b. lijdt aan een van de ziekten of gebreken opgenomen in de bijlage bij dit besluit.
+- a. de echtgenoot;
 
-2. De ambtenaren, belast met de grensbewaking of met het toezicht op vreemdelingen, weigeren niet dan ingevolge een bijzondere aanwijzing van Onze Minister de toegang tot Nederland aan een vreemdeling als bedoeld in het eerste lid. De weigering geschiedt schriftelijk.
+- b. de partner, waarmee de vreemdeling een naar Nederlands internationaal privaatrecht geldig geregistreerd partnerschap is aangegaan;
 
-3. Het eerste en tweede lid zijn niet van toepassing op de onderdaan van België of Luxemburg die geen gemeenschapsonderdaan is. Op deze vreemdeling is [artikel 8.5](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=8&afdeling=2&paragraaf=1&artikel=8.5&z=2006-03-15&g=2006-03-15) van toepassing.
+- c. de rechtstreekse bloedverwant in neergaande lijn, van een vreemdeling als bedoeld in het eerste lid, of van diens echtgenoot of geregistreerd partner, voor zover die bloedverwant jonger is dan 21 jaar of ten laste is van die echtgenoot of geregistreerd partner; of
+
+- d. de rechtstreekse bloedverwant in opgaande lijn die ten laste is van de vreemdeling of van het gezinslid, bedoeld onder a of b.
+
+3. Deze paragraaf is voorts van toepassing op andere familieleden dan bedoeld in het tweede lid, die een vreemdeling als bedoeld in het eerste lid naar Nederland begeleiden of zich bij hem in Nederland voegen, in geval zij:
+
+- a. in het land van herkomst ten laste zijn van of inwonen bij die vreemdeling; of
+
+- b. vanwege ernstige gezondheidsredenen een persoonlijke verzorging door die vreemdeling strikt behoeven.
+
+4. Deze paragraaf is eveneens van toepassing op de ongehuwde partner die een vreemdeling als bedoeld in het eerste lid naar Nederland begeleidt of zich bij hem in Nederland voegt en die een deugdelijk bewezen duurzame relatie met die vreemdeling heeft, en op de rechtstreekse bloedverwant in de neergaande lijn van een zodanige partner, voor zover die bloedverwant jonger is dan 18 jaar en die partner vergezelt of zich bij die partner in Nederland voegt.
 
 ##### Artikel 8.8
 
-De in de [artikelen 4.48](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=4&afdeling=3&paragraaf=5&artikel=4.48&z=2006-03-15&g=2006-03-15), [4.49](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=4&afdeling=3&paragraaf=5&artikel=4.49&z=2006-03-15&g=2006-03-15) en [4.51](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=4&afdeling=3&paragraaf=6&artikel=4.51&z=2006-03-15&g=2006-03-15) omschreven verplichtingen tot aanmelding bij de korpschef gelden niet voor de gemeenschapsonderdaan en de onderdaan van een Staat die partij is bij het Verdrag tot oprichting van de Europese Gemeenschap of de Overeenkomst betreffende de Europese Economische Ruimte en op onderdanen van Zwitserland.
+1. Aan een vreemdeling als bedoeld in [artikel 8.7](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=8&afdeling=2&paragraaf=2&artikel=8.7&z=2006-04-29&g=2006-04-29), die in het bezit is van een geldig document voor grensoverschrijding, kan de toegang tot Nederland slechts worden geweigerd om redenen van openbare orde of openbare veiligheid, dan wel volksgezondheid:
+
+- a. indien de vreemdeling op grond van zijn persoonlijke gedrag een actuele, werkelijke en ernstige bedreiging voor een fundamenteel belang van de samenleving vormt;
+
+- b. in het geval van potentieel epidemische ziekten zoals gedefinieerd in de relevante instrumenten van de Wereldgezondheidsorganisatie dan wel andere infectieziekten of besmettelijke parasitaire ziekten, ten aanzien waarvan in Nederland beschermende regelingen ten aanzien van Nederlanders worden getroffen;
+
+- c. indien hij om redenen van de openbare orde of openbare veiligheid uit Nederland is verwijderd en sinds de verwijdering nog geen redelijke termijn is verstreken.
+
+2. De ambtenaren, belast met de grensbewaking of met het toezicht op vreemdelingen, weigeren niet dan ingevolge een bijzondere aanwijzing van Onze Minister de toegang tot Nederland aan een vreemdeling als bedoeld in het eerste lid. De weigering geschiedt schriftelijk.
+
+3. Het eerste en tweede lid zijn niet van toepassing op de onderdaan van België of Luxemburg die geen gemeenschapsonderdaan is. Op deze vreemdeling is [artikel 8.5](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=8&afdeling=2&paragraaf=1&artikel=8.5&z=2006-04-29&g=2006-04-29) van toepassing.
+
+4. Een vreemdeling die niet beschikt over het vereiste document voor grensoverschrijding, wordt niet uitgezet dan nadat hem gedurende een redelijke termijn de gelegenheid is gegeven dat document te verkrijgen of op andere wijze te laten vaststellen of bewijzen dat hij het recht op vrij verkeer en verblijf geniet.
 
 ##### Artikel 8.9
 
-De persoon die in het bezit is van een door de Nederlandse autoriteiten afgegeven reis- of identiteitspapier waarin als diens nationaliteit de Nederlandse is vermeld, wordt, ook ingeval de Nederlandse nationaliteit van die persoon zou worden betwist, de toegang tot Nederland niet geweigerd, indien hij naar Nederland terugkeert uit een staat waar hem verblijf was toegestaan ingevolge het Verdrag tot oprichting van de Europese Gemeenschap of de Overeenkomst betreffende de Europese Economische Ruimte, dan wel ingevolge de op 21 juni 1999 te Luxemburg totstandgekomen Overeenkomst tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Zwitserse Bondsstaat, anderzijds, over het vrije verkeer van personen (Trb. 2000, 16 en 86).
+Aan een vreemdeling als bedoeld in [artikel 8.7, tweede, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=8&afdeling=2&paragraaf=2&artikel=8.7&z=2006-04-29&g=2006-04-29), die niet de nationaliteit bezit van een staat als bedoeld in het eerste lid van dat artikel, en die beschikt over een geldige verblijfskaart, afgegeven door de bevoegde autoriteiten van een staat als bedoeld in [artikel 8.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=8&afdeling=2&paragraaf=2&artikel=8.7&z=2006-04-29&g=2006-04-29), waaruit het verblijfsrecht als familielid blijkt, wordt de toegang niet geweigerd wegens het ontbreken van een geldig visum. In het paspoort wordt geen aantekening gesteld omtrent inreis in Nederland of uitreis uit Nederland.
 
 ##### Artikel 8.10
 
-De regelingen, bedoeld in[artikel 8, onder e, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8), zijn:
-
-- a. [richtlijn nr. 68/360/EEG](31968L0360) van de Raad van de Europese Gemeenschappen van 15 oktober 1968 inzake de opheffing van de beperkingen van de verplaatsing en het verblijf van de werknemers der Lid-Staten en van hun familie binnen de Gemeenschap (PbEG L 257);
-
-- b. [verordening nr. 1251/70/EEG](31970R1251) van de Commissie van de Europese Gemeenschappen van 29 juni 1970 met betrekking tot het recht van werknemers om verblijf te houden op het grondgebied van een Lid-Staat na er een betrekking te hebben vervuld (PbEG L 142);
-
-- c. [richtlijn nr. 73/148/EEG](31973L0148) van de Raad van de Europese Gemeenschappen van 21 mei 1973 inzake de opheffing van de beperkingen van de verplaatsing en het verblijf van onderdanen van de Lid-Staten binnen de Gemeenschap ter zake van vestiging en verrichten van diensten (PbEG L 172);
-
-- d. [richtlijn nr. 75/34/EEG](31975L0034) van de Raad van de Europese Gemeenschappen van 17 december 1974 betreffende het recht van onderdanen van een Lid-Staat op het grondgebied van een andere Lid-staat verblijf te houden na er een werkzaamheid anders dan in loondienst te hebben uitgeoefend (PbEG L 14);
-
-- e. [richtlijn nr. 90/364/EEG](31990L0364) van de Raad van de Europese Gemeenschappen van 28 juni 1990 betreffende het verblijfsrecht (PbEG L 180);
-
-- f. [richtlijn nr. 90/365/EEG](31990L0365) van de Raad van de Europese Gemeenschappen van 28 juni 1990 betreffende het verblijfsrecht van werknemers en zelfstandigen die hun beroepswerkzaamheden hebben beëindigd (PbEG L 180);
-
-- g. [richtlijn nr. 93/96/EEG](31993L0096) van de Raad van de Europese Gemeenschappen van 29 oktober 1993 inzake het verblijfsrecht van studenten (PbEG L 317).
+De toegang van een persoon die in het bezit is van een door de Nederlandse autoriteiten afgegeven Nederlands paspoort of Nederlandse identiteitskaart, en die om redenen van openbare orde, openbare veiligheid of volksgezondheid uit een andere lidstaat is verwijderd, wordt de toegang, ook indien het document is vervallen of de Nederlandse nationaliteit van de houder wordt betwist, niet geweigerd, indien deze persoon naar Nederland terugkeert uit een staat waar hem verblijf was toegestaan ingevolge het Verdrag tot oprichting van de Europese Gemeenschap, bij de Overeenkomst betreffende de Europese Economische Ruimte of ingevolge de Overeenkomst van 21 juni 1999 van de Europese Gemeenschap en haar lidstaten, enerzijds, en de Zwitserse Bondsstaat, anderzijds, over het vrije verkeer van personen (Trb. 2000, 16 en 86).
 
 ##### Artikel 8.11
 
-1. Een gemeenschapsonderdaan ontvangt op aanvraag een bescheid als bedoeld in [artikel 9 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=9), waaruit het rechtmatig verblijf als gemeenschapsonderdaan blijkt. Zonodig kunnen daarop voorschriften of beperkingen die volgen uit het gemeenschapsrecht worden aangetekend.
+1. De vreemdeling, bedoeld in [artikel 8.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=8&afdeling=2&paragraaf=2&artikel=8.7&z=2006-04-29&g=2006-04-29), heeft rechtmatig verblijf gedurende een periode van drie maanden na inreis, indien hij:
 
-2. Het bescheid wordt afgegeven voor de duur van vijf jaar en wordt telkens met vijf jaren verlengd, behoudens [artikel 8.12](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=8&afdeling=2&paragraaf=2&artikel=8.12&z=2006-03-15&g=2006-03-15). Indien het verblijfsrecht als gemeenschapsonderdaan is vervallen, kan het bescheid worden ingenomen.
+- a. beschikt over een geldige identiteitskaart of een geldig paspoort; of
+
+- b. het bewijs van zijn identiteit en nationaliteit ondubbelzinnig met andere middelen levert.
+
+2. De vreemdeling, bedoeld in [artikel 8.7, tweede, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=8&afdeling=2&paragraaf=2&artikel=8.7&z=2006-04-29&g=2006-04-29), die niet de nationaliteit bezit van een staat als bedoeld in het [eerste lid van dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=8&afdeling=2&paragraaf=2&artikel=8.7&z=2006-04-29&g=2006-04-29) en beschikt over een geldig paspoort, heeft rechtmatig verblijf gedurende een periode van drie maanden na inreis.
 
 ##### Artikel 8.12
 
-1. In afwijking van [artikel 8.11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=8&afdeling=2&paragraaf=2&artikel=8.11&z=2006-03-15&g=2006-03-15), wordt de duur van de termijn waarvoor het bescheid, bedoeld in [artikel 9 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=9), wordt afgegeven, gesteld op:
+1. De vreemdeling, bedoeld in [artikel 8.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=8&afdeling=2&paragraaf=2&artikel=8.7&z=2006-04-29&g=2006-04-29), heeft langer dan drie maanden na inreis rechtmatig verblijf in Nederland, indien hij:
 
-- a. een tijdvak tenminste gelijk aan de duur van de dienstverrichting, indien de vreemdeling diensten verricht of te zijnen behoeve diensten worden verricht;
+- a. in Nederland werknemer of zelfstandige is dan wel Nederland is ingereisd om werk te zoeken en kan bewijzen dat hij werk zoekt en een reële kans op werk heeft;
 
-- b. een tijdvak tenminste gelijk aan de duur van de werkzaamheden, indien de vreemdeling werkzaamheden in loondienst verricht en te verwachten valt dat deze meer dan drie maanden doch minder dan een jaar bedragen;
+- b. voor zichzelf en zijn familieleden beschikt over voldoende middelen van bestaan en over een verzekering die de ziektekosten in Nederland volledig dekt;
 
-- c. een tijdvak gelijk aan de duur van de gevolgde opleiding, dan wel één jaar indien de opleidingsduur langer is dan een jaar, indien de vreemdeling een beroepsopleiding volgt; of,
+- c. is ingeschreven voor een opleiding die is opgenomen in het Centraal register opleidingen hoger onderwijs, bedoeld in [artikel 6.13 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=6.13), of in het Centraal register beroepsopleidingen, bedoeld in [artikel 6.4.1 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.4.1), om als hoofdbezigheid een studie of beroepsopleiding te volgen, beschikt over een verzekering die de ziektekosten in Nederland volledig dekt, en hij met een verklaring of een gelijkwaardig middel naar zijn keuze de zekerheid verschaft dat hij beschikt over voldoende middelen van bestaan voor zichzelf en zijn familieleden;
 
-- d. een tijdvak van zes maanden indien de vreemdeling een werkzoekende is.
+- d. een familielid als bedoeld in [artikel 8.7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=8&afdeling=2&paragraaf=2&artikel=8.7&z=2006-04-29&g=2006-04-29), is van een vreemdeling als bedoeld onder a of b;
 
-2. In afwijking van [artikel 8.11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=8&afdeling=2&paragraaf=2&artikel=8.11&z=2006-03-15&g=2006-03-15), wordt de verlenging van de geldigheidsduur van het bescheid, bedoeld in [artikel 9 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=9), verleend aan een gemeenschapsonderdaan die op het tijdstip van de verlenging gedurende een jaar onvrijwillig werkloos is, beperkt tot een jaar.
+- e. de echtgenoot, de geregistreerde partner of een kind is dat ten laste is van een vreemdeling als bedoeld onder c;
 
-3. In afwijking van [artikel 8.11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=8&afdeling=2&paragraaf=2&artikel=8.11&z=2006-03-15&g=2006-03-15), wordt de geldigheidsduur van het bescheid, bedoeld in [artikel 9 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=9), verleend overeenkomstig het eerste lid, onder c, telkenmale verlengd met een jaar.
+- f. familielid is als bedoeld in [artikel 8.7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=8&afdeling=2&paragraaf=2&artikel=8.7&z=2006-04-29&g=2006-04-29), en hij in het land van herkomst ten laste is van of inwoont bij een vreemdeling als bedoeld in het eerste lid, onder a, b of c;
 
-4. In afwijking van [artikel 8.11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=8&afdeling=2&paragraaf=2&artikel=8.11&z=2006-03-15&g=2006-03-15), wordt de geldigheidsduur van het bescheid, bedoeld in [artikel 9 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=9), verleend overeenkomstig het eerste lid, onder d, telkenmale verlengd met drie maanden, indien de vreemdeling aantoont dat hij nog steeds werkzoekende is en een reële kans maakt om werk te vinden.
+- g. familielid is als bedoeld in [artikel 8.7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=8&afdeling=2&paragraaf=2&artikel=8.7&z=2006-04-29&g=2006-04-29), en hij vanwege ernstige gezondheidsredenen een persoonlijke verzorging door een vreemdeling als bedoeld in het eerste lid, onder a, b of c, strikt behoeft; of
 
-5. Dit artikel is niet van toepassing op de geldigheidsduur van het bescheid van een gemeenschapsonderdaan die een onderdaan van België of van Luxemburg is.
+- h. partner is als bedoeld in [artikel 8.7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=8&afdeling=2&paragraaf=2&artikel=8.7&z=2006-04-29&g=2006-04-29), en hij een deugdelijk bewezen duurzame relatie heeft met een vreemdeling als bedoeld in het eerste lid, onder a, b of c, dan wel rechtstreekse bloedverwant in de neergaande lijn, jonger dan 18 jaar, is van een zodanige partner.
+
+2. Het rechtmatig verblijf van de vreemdeling, bedoeld in het eerste lid, onder a, eindigt niet om de enkele reden dat die vreemdeling niet langer werknemer of zelfstandige is:
+
+- a. in geval van tijdelijke arbeidsongeschiktheid als gevolg van ziekte of ongeval;
+
+- b. indien hij na werkzaamheden als werknemer of zelfstandige van ten minste een jaar onvrijwillig werkloos is en als werkzoekende bij de Centrale Organisatie Werk en Inkomen is ingeschreven;
+
+- c. gedurende een periode van ten minste zes maanden, nadat hij onvrijwillige werkloos is geworden door de afloop van een arbeidsovereenkomst korter dan een jaar, dan wel nadat hij gedurende de eerste twaalf maanden onvrijwillig werkloos geworden is, indien hij als werkzoekende bij de Centrale Organisatie Werk en Inkomen is ingeschreven;
+
+- d. indien hij een beroepsopleiding gaat volgen, die, behoudens ingeval van onvrijwillige werkloosheid, verband houdt met de voorafgaande beroepsactiviteit.
+
+3. Voor de toepassing van het eerste lid, onder b, beschikt de vreemdeling met een inkomen ter hoogte van het normbedrag dat ingevolge de [Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703) voor de desbetreffende categorie is vastgesteld, in ieder geval over voldoende middelen van bestaan.
+
+4. De vreemdeling, bedoeld in het eerste lid, meldt zich uiterlijk binnen een maand na afloop van de in [artikel 8.11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=8&afdeling=2&paragraaf=2&artikel=8.11&z=2006-04-29&g=2006-04-29), bedoelde periode aan bij Onze Minister ter inschrijving in de vreemdelingenadministratie in geval hij beoogt langer dan drie maanden in Nederland te verblijven.
+
+5. Bij regeling van Onze Minister kunnen regels worden gesteld omtrent de gegevens en bescheiden die de vreemdeling bij de in het vorige lid bedoelde melding moet verstrekken of overleggen.
+
+6. Onze Minister verstrekt na de in het vierde lid bedoelde inschrijving onmiddellijk een verklaring van inschrijving, waarin naam en adres van de ingeschreven vreemdeling en de datum van inschrijving worden vermeld.
+
+7. De in het vierde en vijfde lid omschreven verplichtingen rusten ten aanzien van kinderen beneden de leeftijd van twaalf jaar op de wettelijke vertegenwoordiger. Voor kinderen van twaalf jaar en ouder kan aan deze verplichtingen ook worden voldaan door de wettelijk vertegenwoordiger.
 
 ##### Artikel 8.13
 
-1. Uitzetting van een gemeenschapsonderdaan blijft achterwege zolang niet is gebleken dat hem geen verblijfsrecht toekomt of dat zijn verblijfsrecht is vervallen.
+1. De vreemdeling, bedoeld in [artikel 8.7, tweede, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=8&afdeling=2&paragraaf=2&artikel=8.7&z=2006-04-29&g=2006-04-29), die niet de nationaliteit bezit van een staat als bedoeld in het [eerste lid van dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=8&afdeling=2&paragraaf=2&artikel=8.7&z=2006-04-29&g=2006-04-29), heeft langer dan drie maanden na inreis rechtmatig verblijf in Nederland, voor zover hij in Nederland verblijft bij een vreemdeling als bedoeld in [artikel 8.12, eerste lid, onder a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=8&afdeling=2&paragraaf=2&artikel=8.12&z=2006-04-29&g=2006-04-29).
 
-2. De vreemdeling die onderdaan is van een staat die partij is bij het Verdrag tot oprichting van de Europese Gemeenschap of de Overeenkomst betreffende de Europese Economische Ruimte of van Zwitserland, dan wel zijn gezinslid en die geen verblijfsrecht als gemeenschapsonderdaan toekomt, dan wel wiens verblijfsrecht is vervallen, wordt niet uitgezet dan nadat hem een termijn van ten minste vier weken is gegund om te vertrekken naar een plaats buiten Nederland waar zijn toelating is gewaarborgd.
+2. De vreemdeling, bedoeld in het eerste lid, meldt zich uiterlijk binnen een maand na afloop van de in [artikel 8.11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=8&afdeling=2&paragraaf=2&artikel=8.11&z=2006-04-29&g=2006-04-29), bedoelde periode aan bij Onze Minister, in geval hij beoogt langer dan drie maanden in Nederland te verblijven, en dient daarbij een aanvraag in tot afgifte van een verblijfsdocument.
 
-3. Uitzetting van de in het tweede lid bedoelde vreemdeling blijft achterwege zolang niet is beslist op een tijdig ingediend bezwaar tegen een beschikking als bedoeld in het tweede lid.
+3. Bij de indiening van de aanvraag overlegt de vreemdeling:
 
-4. Van het tweede en derde lid kan in dringende gevallen worden afgeweken.
+- a. een geldig paspoort;
+
+- b. de verklaring van inschrijving van de vreemdeling, bedoeld in [artikel 8.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=8&afdeling=2&paragraaf=2&artikel=8.7&z=2006-04-29&g=2006-04-29), bij wie hij in Nederland verblijft;
+
+- c. een document waaruit de familierechtelijke relatie of duurzame relatie blijkt met de vreemdeling, bedoeld onder b; en
+
+- d. voor zover hij in Nederland verblijft als familielid als bedoeld in [artikel 8.7, tweede lid, onder c of d](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=8&afdeling=2&paragraaf=2&artikel=8.7&z=2006-04-29&g=2006-04-29): bewijs dat hij een dergelijk familielid is;
+
+- e. voor zover hij in Nederland verblijft als familielid als bedoeld in [artikel 8.7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=8&afdeling=2&paragraaf=2&artikel=8.7&z=2006-04-29&g=2006-04-29): een door de bevoegde instantie van het land van herkomst afgegeven verklaring dat hij ten laste komt van of inwoont bij de vreemdeling, bedoeld onder b, onderscheidenlijk bewijs van ernstige gezondheidsredenen die de persoonlijke zorg door die vreemdeling noodzakelijk maken;
+
+- f. voor zover hij in Nederland verblijft als partner als bedoeld in [artikel 8.7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=8&afdeling=2&paragraaf=2&artikel=8.7&z=2006-04-29&g=2006-04-29): een bij regeling van Onze Minister vast te stellen relatieverklaring;
+
+- g. voor zover hij in Nederland verblijft als rechtstreekse bloedverwant in de neergaande lijn, jonger dan 18 jaar, van een partner als bedoeld onder f: bewijs dat is voldaan aan de [artikelen 3.13 tot en met 3.22](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.13&z=2006-04-29&g=2006-04-29).
+
+4. Onze Minister verstrekt onmiddellijk na de ontvangst van de aanvraag een verklaring dat de aanvraag is ingediend.
+
+5. Onze Minister verstrekt de verblijfsgerechtigde vreemdeling binnen zes maanden na de ontvangst van de aanvraag een verblijfsdocument waarvan het model wordt vastgesteld bij ministeriële regeling. [Artikel 25, tweede en derde lid, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=25) is niet van toepassing.
+
+6. Het verblijfsdocument wordt afgegeven met een geldigheidsduur:
+
+- a. die gelijk is aan de duur van het voorgenomen verblijf van de vreemdeling, bedoeld in [artikel 8.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=8&afdeling=2&paragraaf=2&artikel=8.7&z=2006-04-29&g=2006-04-29), bij wie de vreemdeling in Nederland verblijft, indien die duur korter is dan vijf jaar;
+
+- b. van vijf jaar in de overige gevallen.
+
+7. De in het tweede en derde lid omschreven verplichtingen rusten ten aanzien van kinderen beneden de leeftijd van twaalf jaar op de wettelijke vertegenwoordiger. Voor kinderen van twaalf jaar en ouder kan aan deze verplichtingen ook worden voldaan door de wettelijk vertegenwoordiger.
 
 ##### Artikel 8.14
 
-Op beschikkingen gegeven ingevolge de [artikelen 8.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=8&afdeling=2&paragraaf=1&artikel=8.5&z=2006-03-15&g=2006-03-15) en [8.7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=8&afdeling=2&paragraaf=2&artikel=8.7&z=2006-03-15&g=2006-03-15), is [artikel 8.13, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=8&afdeling=2&paragraaf=2&artikel=8.13&z=2006-03-15&g=2006-03-15), van overeenkomstige toepassing.
+Het rechtmatige verblijf van de vreemdeling, bedoeld in [artikel 8.7, tweede, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=8&afdeling=2&paragraaf=2&artikel=8.7&z=2006-04-29&g=2006-04-29), die de nationaliteit bezit van een staat als bedoeld in het [eerste lid van dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=8&afdeling=2&paragraaf=2&artikel=8.7&z=2006-04-29&g=2006-04-29), eindigt niet door het overlijden of het vertrek van de vreemdeling, bedoeld in [artikel 8.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=8&afdeling=2&paragraaf=2&artikel=8.7&z=2006-04-29&g=2006-04-29), bij wie hij in Nederland verbleef. Het eindigt evenmin door de ontbinding of nietigverklaring van het huwelijk of de beëindiging van het geregistreerde partnerschap.
 
 #### Paragraaf 3. Overige verdragen
 
 ##### Artikel 8.15
 
-Onze Minister kan regels stellen over de rechten die vreemdelingen ontlenen aan de volgende verdragen:
+1. Het rechtmatige verblijf van de vreemdeling, bedoeld in [artikel 8.7, tweede, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=8&afdeling=2&paragraaf=2&artikel=8.7&z=2006-04-29&g=2006-04-29), die niet de nationaliteit bezit van een staat als bedoeld in het eerste lid van dat artikel, eindigt niet door afwezigheid uit Nederland:
 
-- a. het Europees Vestigingsverdrag (Trb. 1957, 20);
+- a. van ten hoogste zes maanden per jaar;
 
-- b. het Vluchtelingenverdrag (Trb. 1954, 88);
+- b. om belangrijke redenen gedurende een eenmalige periode van ten hoogste twaalf maanden;
 
-- c. het Verdrag betreffende de status van staatlozen (Trb. 1955, 42);
+- c. voor de vervulling van militaire verplichtingen;
 
-- d. de Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Economische Gemeenschap en Turkije (PB EG 1964, L 217) en het Associatiebesluit 1/80 van de Associatieraad EEG/Turkije;
+- d. wegens uitzending voor het verrichten van werkzaamheden.
 
-- e. het Nederlands-Duits Vestigingsverdrag (Stb. 1906, 279);
+2. Onverminderd het vijfde lid eindigt het rechtmatige verblijf evenmin door het overlijden van de vreemdeling, bedoeld in [artikel 8.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=8&afdeling=2&paragraaf=2&artikel=8.7&z=2006-04-29&g=2006-04-29), bij wie hij in Nederland verbleef:
 
-- f. het Nederlands-Zwitsers Tractaat (Stb. 1878, nr. 137);
+- a. indien hij ten minste een jaar voor het overlijden van die vreemdeling in Nederland verbleef;
 
-- g. het Nederlands-Amerikaans Vriendschapsverdrag (Trb. 1956, 40);
+- b. voor voltooiing van de studie, indien hij in Nederland verbleef als het kind van die vreemdeling en voor studie is ingeschreven bij een onderwijsinstelling, dan wel indien hij de verzorgende ouder is van een zodanig kind.
 
-- h. de Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Suriname inzake het verblijf en de vestiging van wederzijde onderdanen (1975) (Trb. 1975, 133);
+3. Het tweede lid, aanhef en onder b, is van overeenkomstige toepassing bij het vertrek van de vreemdeling, bedoeld in [artikel 8.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=8&afdeling=2&paragraaf=2&artikel=8.7&z=2006-04-29&g=2006-04-29), bij wie de vreemdeling in Nederland verbleef.
 
-- i. de Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Suriname inzake de binnenkomst en het verblijf van wederzijdse onderdanen met bijlage en protocol inzake verkregen rechten (1981) (Trb. 1981, 35);
+4. Onverminderd het vijfde lid eindigt het rechtmatige verblijf evenmin door de ontbinding of nietigverklaring van het huwelijk of de beëindiging van het geregistreerde partnerschap:
 
-- j. de Associatieverdragen EG met Hongarije (PbEG 1993, L 347), Polen (PbEG 1993, L 348), Roemenië (PbEG 1994, L 357), Bulgarije (PbEG 1994, L 358), Slowakije (PbEG 1994, L 359) en Tsjechië (PbEG 1994, L 360);
+- a. indien het huwelijk voor het begin van de gerechtelijke procedure tot scheiding of nietigverklaring, onderscheidenlijk het partnerschap voor beëindiging daarvan, ten minste drie jaar heeft geduurd, waarvan de vreemdeling ten minste één jaar in Nederland heeft verbleven;
 
-- k. de Overeenkomst tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Zwitserse Bondsstaat, anderzijds, over het vrije verkeer van personen (Trb. 2000, 16 en 86).
+- b. indien het gezag over de kinderen bij overeenkomst tussen de voormalige echtgenoten of partners, dan wel bij rechterlijke beslissing aan de vreemdeling is toegewezen;
+
+- c. voor de duur waarvoor de omgang is voorgeschreven, indien de vreemdeling op grond van een overeenkomst of gerechtelijke beslissing het omgangsrecht met betrekking tot een minderjarig kind heeft en de omgang ingevolge een rechterlijke beslissing in Nederland moet plaatsvinden, of
+
+- d. indien klemmende redenen van humanitaire aard tot aanvaarding van voortgezet verblijf nopen.
+
+5. In afwijking van het tweede lid, onder a, en het vierde lid, kan het rechtmatige verblijf van de vreemdeling, bedoeld in [artikel 8.7, tweede, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=8&afdeling=2&paragraaf=2&artikel=8.7&z=2006-04-29&g=2006-04-29), die niet de nationaliteit van een staat bezit als bedoeld in het eerste lid van dat artikel, worden beëindigd indien hij een onredelijke belasting voor het sociale bijstandsstelsel vormt, tenzij hij het duurzaam verblijfsrecht, bedoeld in [artikel 8.17](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=8&afdeling=2&paragraaf=2&artikel=8.17&z=2006-04-29&g=2006-04-29) heeft verkregen, of hij:
+
+- a. werknemer of zelfstandige is;
+
+- b. voor zichzelf en zijn familieleden beschikt over voldoende middelen van bestaan om te voorkomen dat zij tijdens hun verblijf in Nederland ten laste komen van de algemene middelen, en beschikt over een verzekering die de ziektekosten in Nederland volledig dekt; of
+
+- c. gezinslid is van het reeds in Nederland gevormde gezin van een persoon die voldoet aan de voorwaarden, bedoeld onder a of b.
+
+6. Voor de toepassing van het vijfde lid, onder b, beschikt de vreemdeling met een inkomen ter hoogte van het normbedrag dat ingevolge de [Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703) voor de desbetreffende categorie is vastgesteld, in ieder geval over voldoende middelen van bestaan.
 
 ### Hoofdstuk 9. Overgangs- en slotbepalingen
 
@@ -2486,7 +2546,7 @@ Vervallen
 
 ##### Artikel 9.3
 
-Voor de toepassing van [artikel 3.14, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.14&z=2006-03-15&g=2006-03-15), wordt met een minderjarig kind gelijk gesteld het biologische of het juridische kind:
+Voor de toepassing van [artikel 3.14, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.14&z=2006-04-29&g=2006-04-29), wordt met een minderjarig kind gelijk gesteld het biologische of het juridische kind:
 
 - a. dat nog geen twintig jaren oud is en niet gehuwd of geregistreerd is, of is geweest, of met toepassing van [artikel 253ha van Boek I van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=253ha) meerderjarig is verklaard;
 
@@ -2498,15 +2558,15 @@ Voor de toepassing van [artikel 3.14, onder c](https://wetten.overheid.nl/jci1.3
 
 ##### Artikel 9.4
 
-1. De verblijfsvergunning voor bepaalde tijd, bedoeld in [artikel 14 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14), kan onder een beperking verband houdend met voortgezet verblijf als bedoeld in [artikel 3.4, eerste lid, onder u](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.4&z=2006-03-15&g=2006-03-15), worden verleend aan de vreemdeling die inmiddels achttien jaar oud is en aan wie een vergunning tot verblijf onder de beperking verband houdende met verblijf als alleenstaande minderjarige asielzoeker is verleend op grond van een asielaanvraag, welke is ingediend vóór een door Onze Minister te bepalen tijdstip.
+1. De verblijfsvergunning voor bepaalde tijd, bedoeld in [artikel 14 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14), kan onder een beperking verband houdend met voortgezet verblijf als bedoeld in [artikel 3.4, eerste lid, onder u](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.4&z=2006-04-29&g=2006-04-29), worden verleend aan de vreemdeling die inmiddels achttien jaar oud is en aan wie een vergunning tot verblijf onder de beperking verband houdende met verblijf als alleenstaande minderjarige asielzoeker is verleend op grond van een asielaanvraag, welke is ingediend vóór een door Onze Minister te bepalen tijdstip.
 
-2. De aanvraag wordt niet afgewezen op de grond dat de vreemdeling nog geen drie jaren in Nederland verblijft als houder van een verblijfsvergunning als bedoeld in [artikel 3.51, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.51&z=2006-03-15&g=2006-03-15).
+2. De aanvraag wordt niet afgewezen op de grond dat de vreemdeling nog geen drie jaren in Nederland verblijft als houder van een verblijfsvergunning als bedoeld in [artikel 3.51, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.51&z=2006-04-29&g=2006-04-29).
 
 3. De aanvraag wordt niet afgewezen op grond van [artikel 16, eerste lid, onder c, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=16).
 
 ##### Artikel 9.5
 
-1. Gedurende drie jaren na het tijdstip van inwerkingtreding van de Wet, kan de verblijfsvergunning voor bepaalde tijd, bedoeld in [artikel 14 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14), onder een beperking verband houdend met voortgezet verblijf, als bedoeld in [artikel 3.4, eerste lid, onder u](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.4&z=2006-03-15&g=2006-03-15), worden verleend aan de vreemdeling, die voor het tijdstip van inwerkingtreding van deWet:
+1. Gedurende drie jaren na het tijdstip van inwerkingtreding van de Wet, kan de verblijfsvergunning voor bepaalde tijd, bedoeld in [artikel 14 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14), onder een beperking verband houdend met voortgezet verblijf, als bedoeld in [artikel 3.4, eerste lid, onder u](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.4&z=2006-04-29&g=2006-04-29), worden verleend aan de vreemdeling, die voor het tijdstip van inwerkingtreding van deWet:
 
 - a. drie jaren in Nederland heeft verbleven als houder van een verblijfsvergunning onder een beperking verband houdend met gezinshereniging of gezinsvorming met een persoon met niet-tijdelijk verblijfsrecht, of
 
@@ -2516,7 +2576,7 @@ Voor de toepassing van [artikel 3.14, onder c](https://wetten.overheid.nl/jci1.3
 
 ##### Artikel 9.6
 
-1. De verblijfsvergunning voor bepaalde tijd, bedoeld in [artikel 14 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14), kan worden verleend onder een beperking verband houdend met het zoeken en verrichten van arbeid al dan niet in loondienst, als bedoeld in [artikel 3.4, eerste lid, onder h](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.4&z=2006-03-15&g=2006-03-15), aan de vreemdeling wiens huwelijk met een persoon met niet-tijdelijk verblijfsrecht na drie jaar is ontwricht of ontbonden, indien de vreemdeling op een door Onze Minister te bepalen tijdstip op grond van dat huwelijk was toegelaten en één jaar direct voorafgaande aan ontwrichting of ontbinding van het huwelijk rechtmatig verblijf als bedoeld in [artikel 8, onder a, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) in Nederland had.
+1. De verblijfsvergunning voor bepaalde tijd, bedoeld in [artikel 14 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14), kan worden verleend onder een beperking verband houdend met het zoeken en verrichten van arbeid al dan niet in loondienst, als bedoeld in [artikel 3.4, eerste lid, onder h](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.4&z=2006-04-29&g=2006-04-29), aan de vreemdeling wiens huwelijk met een persoon met niet-tijdelijk verblijfsrecht na drie jaar is ontwricht of ontbonden, indien de vreemdeling op een door Onze Minister te bepalen tijdstip op grond van dat huwelijk was toegelaten en één jaar direct voorafgaande aan ontwrichting of ontbinding van het huwelijk rechtmatig verblijf als bedoeld in [artikel 8, onder a, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) in Nederland had.
 
 2. De verblijfsvergunning wordt verleend voor de duur van ten hoogste één jaar, te berekenen vanaf de datum van verbreking of ontwrichting van het huwelijk, of zoveel langer als de vreemdeling wegens het ontbreken van een verblijfsvergunning geen toegang tot de arbeidsmarkt had.
 
@@ -2524,15 +2584,15 @@ Voor de toepassing van [artikel 3.14, onder c](https://wetten.overheid.nl/jci1.3
 
 ##### Artikel 9.7
 
-[Artikel 3.41, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.41&z=2006-03-15&g=2006-03-15), blijft buiten toepassing zolang geen onderwijsinstellingen bij ministeriële regeling zijn aangewezen. In plaats daarvan blijft het oude recht van toepassing.
+[Artikel 3.41, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.41&z=2006-04-29&g=2006-04-29), blijft buiten toepassing zolang geen onderwijsinstellingen bij ministeriële regeling zijn aangewezen. In plaats daarvan blijft het oude recht van toepassing.
 
 ##### Artikel 9.8
 
-Voor de toepassing van de [artikelen 3.20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.20&z=2006-03-15&g=2006-03-15), en [3.77, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.77&z=2006-03-15&g=2006-03-15), wordt onder taakstraf mede verstaan de voor inwerkingtreding van de [Wet van 7 september 2000 tot wijziging van het Wetboek van Strafrecht en het Wetboek van Strafvordering en enige andere wetten omtrent de straf van onbetaalde arbeid ten algemene nutte (taakstraffen) (Stb. 2000, 365)](https://wetten.overheid.nl/jci1.3:c:BWBR0011615) opgelegde straf tot het verrichten van arbeid ten algemene nutte, bedoeld in [artikel 22b van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=22b).
+Voor de toepassing van de [artikelen 3.20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.20&z=2006-04-29&g=2006-04-29), en [3.77, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.77&z=2006-04-29&g=2006-04-29), wordt onder taakstraf mede verstaan de voor inwerkingtreding van de [Wet van 7 september 2000 tot wijziging van het Wetboek van Strafrecht en het Wetboek van Strafvordering en enige andere wetten omtrent de straf van onbetaalde arbeid ten algemene nutte (taakstraffen) (Stb. 2000, 365)](https://wetten.overheid.nl/jci1.3:c:BWBR0011615) opgelegde straf tot het verrichten van arbeid ten algemene nutte, bedoeld in [artikel 22b van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=22b).
 
 ##### Artikel 9.9
 
-1. Bij de toepassing van de [artikelen 3.86, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=4&artikel=3.86&z=2006-03-15&g=2006-03-15),[3.95](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=3&paragraaf=2&artikel=3.95&z=2006-03-15&g=2006-03-15) en [3.98](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=3&paragraaf=3&artikel=3.98&z=2006-03-15&g=2006-03-15) blijft buiten beschouwing de periode van de terbeschikkingstelling, die op het tijdstip van inwerkingtreding van de Wet reeds was beëindigd.
+1. Bij de toepassing van de [artikelen 3.86, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=4&artikel=3.86&z=2006-04-29&g=2006-04-29),[3.95](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=3&paragraaf=2&artikel=3.95&z=2006-04-29&g=2006-04-29) en [3.98](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=3&paragraaf=3&artikel=3.98&z=2006-04-29&g=2006-04-29) blijft buiten beschouwing de periode van de terbeschikkingstelling, die op het tijdstip van inwerkingtreding van de Wet reeds was beëindigd.
 
 2. Het eerste lid is niet van toepassing, indien de vreemdeling na beëindiging van de maatregel wederom een misdrijf heeft gepleegd, waartegen een gevangenisstraf van drie jaren of meer is bedreigd.
 
@@ -2576,21 +2636,21 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 1. De verblijfsvergunning voor bepaalde tijd, bedoeld in [artikel 14 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14), wordt onder een beperking verband houdend met gezinshereniging verleend aan de bloedverwant in rechtstreekse opgaande lijn van de alleenstaande minderjarige houder van een verblijfsvergunning voor bepaalde tijd als bedoeld in [artikel 28 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=28), die niet daadwerkelijk onder de hoede staat van een krachtens wettelijk voorschrift of gewoonterecht voor hem verantwoordelijke volwassene, indien die bloedverwant:
 
-- a. beschikt over een geldige machtiging tot voorlopig verblijf die overeenkomt met het verblijfsdoel waarvoor de verblijfsvergunning is aangevraagd, of behoort tot één van de in [artikel 17 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=17) of in [artikel 3.71, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.71&z=2006-03-15&g=2006-03-15), bedoelde categorieën;
+- a. beschikt over een geldige machtiging tot voorlopig verblijf die overeenkomt met het verblijfsdoel waarvoor de verblijfsvergunning is aangevraagd, of behoort tot één van de in [artikel 17 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=17) of in [artikel 3.71, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.71&z=2006-04-29&g=2006-04-29), bedoelde categorieën;
 
 - b. beschikt over een geldig document voor grensoverschrijding, of naar het oordeel van Onze Minister heeft aangetoond dat hij vanwege de regering van het land waarvan hij onderdaan is, niet of niet meer in het bezit van een geldig document voor grensoverschrijding kan worden gesteld;
 
 - c. bereid is een onderzoek naar of behandeling voor tuberculose te ondergaan en daaraan mee te werken of de nationaliteit bezit van een van de bij ministeriële regeling vast te stellen landen, en
 
-- d. geen gevaar vormt voor de openbare orde of nationale veiligheid als bedoeld in de [artikelen 3.77](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.77&z=2006-03-15&g=2006-03-15) en [3.78](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.78&z=2006-03-15&g=2006-03-15).
+- d. geen gevaar vormt voor de openbare orde of nationale veiligheid als bedoeld in de [artikelen 3.77](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.77&z=2006-04-29&g=2006-04-29) en [3.78](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.78&z=2006-04-29&g=2006-04-29).
 
-2. Indien gezinshereniging mogelijk is in een derde land waarmee de alleenstaande minderjarige of de bloedverwant, bedoeld in het eerste lid, bijzondere banden heeft of indien de aanvraag niet is ingediend binnen drie maanden nadat aan de alleenstaande minderjarige, bedoeld in het eerste lid, de verblijfsvergunning voor bepaalde tijd, bedoeld in [artikel 28 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=28), is verleend, wordt de vergunning eerst verleend, nadat de alleenstaande minderjarige heeft aangetoond duurzaam en zelfstandig te beschikken over over een netto-inkomen als bedoeld in [artikel 3.74, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.74&z=2006-03-15&g=2006-03-15).
+2. Indien gezinshereniging mogelijk is in een derde land waarmee de alleenstaande minderjarige of de bloedverwant, bedoeld in het eerste lid, bijzondere banden heeft of indien de aanvraag niet is ingediend binnen drie maanden nadat aan de alleenstaande minderjarige, bedoeld in het eerste lid, de verblijfsvergunning voor bepaalde tijd, bedoeld in [artikel 28 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=28), is verleend, wordt de vergunning eerst verleend, nadat de alleenstaande minderjarige heeft aangetoond duurzaam en zelfstandig te beschikken over over een netto-inkomen als bedoeld in [artikel 3.74, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.74&z=2006-04-29&g=2006-04-29).
 
 #### Paragraaf 2. Geldigheidsduur
 
 ##### Artikel 3.59a
 
-In afwijking van [artikel 3.57](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3.57&z=2006-03-15&g=2006-03-15) kan de verblijfsvergunning onder een beperking verband houdend met verblijf als kennismigrant als bedoeld in [artikel 1d van het Besluit uitvoering Wet arbeid vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007523&artikel=1d) worden verleend voor de duur van maximaal vijf jaren.
+In afwijking van [artikel 3.57](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3.57&z=2006-04-29&g=2006-04-29) kan de verblijfsvergunning onder een beperking verband houdend met verblijf als kennismigrant als bedoeld in [artikel 1d van het Besluit uitvoering Wet arbeid vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007523&artikel=1d) worden verleend voor de duur van maximaal vijf jaren.
 
 #### Paragraaf 3. De afwijzing van de aanvraag
 
@@ -2832,7 +2892,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 3.59b
 
-1. In afwijking van [artikel 3.57](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3.57&z=2006-03-15&g=2006-03-15) kan de verblijfsvergunning met het oog op werkzaamheid in het kader van grensoverschrijdende dienstverlening, als bedoeld in [artikel 1e van het Besluit uitvoering Wet arbeid vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007523&artikel=1e), worden verleend voor de duur van de werkzaamheden als vermeld in de krachtens [artikel 1e, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007523&artikel=1e), door de dienstverrichter verstrekte verklaring, met een maximum van twee jaren.
+1. In afwijking van [artikel 3.57](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3.57&z=2006-04-29&g=2006-04-29) kan de verblijfsvergunning met het oog op werkzaamheid in het kader van grensoverschrijdende dienstverlening, als bedoeld in [artikel 1e van het Besluit uitvoering Wet arbeid vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007523&artikel=1e), worden verleend voor de duur van de werkzaamheden als vermeld in de krachtens [artikel 1e, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007523&artikel=1e), door de dienstverrichter verstrekte verklaring, met een maximum van twee jaren.
 
 2. De geldigheidsduur van de in het eerste lid bedoelde verblijfsvergunning wordt na twee jaren niet verlengd.
 
@@ -2916,7 +2976,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 3.71a
 
-1. Een vreemdeling beschikt over kennis op basisniveau van de Nederlandse taal en van de Nederlandse maatschappij als bedoeld in [artikel 16, eerste lid, onder h, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=16), indien hij binnen één jaar direct voorafgaand aan de aanvraag om de machtiging tot voorlopig verblijf het basisexamen inburgering, bedoeld in [artikel 3.98a](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=4&artikel=3.98a&z=2006-03-15&g=2006-03-15), met goed gevolg heeft afgelegd.
+1. Een vreemdeling beschikt over kennis op basisniveau van de Nederlandse taal en van de Nederlandse maatschappij als bedoeld in [artikel 16, eerste lid, onder h, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=16), indien hij binnen één jaar direct voorafgaand aan de aanvraag om de machtiging tot voorlopig verblijf het basisexamen inburgering, bedoeld in [artikel 3.98a](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=4&artikel=3.98a&z=2006-04-29&g=2006-04-29), met goed gevolg heeft afgelegd.
 
 2. De aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd, bedoeld in [artikel 14 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14), wordt niet afgewezen op grond van [artikel 16, eerste lid, onder h, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=16), indien de vreemdeling:
 
@@ -2924,7 +2984,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 - b. ingevolge de wetgeving van een lidstaat van de Europese Unie of een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte heeft voldaan aan een inburgeringsvereiste om de status van langdurig ingezetene in de zin van [richtlijn 2003/109/EG](32003L0109) van 25 november 2003 betreffende de status van langdurig ingezeten onderdanen van derde landen (PbEU L 16) te verkrijgen;
 
-- c. ten genoegen van Onze Minister heeft aangetoond door een geestelijke of lichamelijke belemmering blijvend niet in staat te zijn het basisexamen inburgering, bedoeld in [artikel 3.98a](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=4&artikel=3.98a&z=2006-03-15&g=2006-03-15), af te leggen.
+- c. ten genoegen van Onze Minister heeft aangetoond door een geestelijke of lichamelijke belemmering blijvend niet in staat te zijn het basisexamen inburgering, bedoeld in [artikel 3.98a](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=4&artikel=3.98a&z=2006-04-29&g=2006-04-29), af te leggen.
 
 3. Bij regeling van Onze Minister kunnen nadere regels worden gesteld omtrent de toepassing van het tweede lid.
 
@@ -3004,7 +3064,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 1. De resultaten van het basisexamen inburgering worden niet heroverwogen.
 
-2. Onverminderd [artikel 3.98b](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=4&artikel=3.98b&z=2006-03-15&g=2006-03-15), kan de vreemdeling die het basisexamen inburgering niet met goed gevolg heeft afgelegd, het examen te allen tijde opnieuw afleggen.
+2. Onverminderd [artikel 3.98b](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=3&afdeling=4&artikel=3.98b&z=2006-04-29&g=2006-04-29), kan de vreemdeling die het basisexamen inburgering niet met goed gevolg heeft afgelegd, het examen te allen tijde opnieuw afleggen.
 
 ### Afdeling 5. De verblijfsvergunning asiel
 
@@ -3067,5 +3127,173 @@ B. Ziekten en gebreken die een gevaar voor de openbare orde kunnen opleveren.
 - 1. verslaafdheid aan vergiften;
 
 - 2. ernstige geestelijke afwijkingen; duidelijke toestand van psychose gepaard gaande met opwinding, delirium, hallucinaties of verwardheid.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 8.16
+
+1. Onverminderd de [artikelen 8.22](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=8&afdeling=2&paragraaf=2&artikel=8.22&z=2006-04-29&g=2006-04-29) en [8.23](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=8&afdeling=2&paragraaf=2&artikel=8.23&z=2006-04-29&g=2006-04-29) eindigt het rechtmatige verblijf niet zolang de vreemdeling aan de in de [artikelen 8.12 tot en met 8.15](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=8&afdeling=2&paragraaf=2&artikel=8.12&z=2006-04-29&g=2006-04-29) genoemde voorwaarden voldoet. In specifieke gevallen van redelijke twijfel kan Onze Minister onderzoeken of aan de voorwaarden wordt voldaan. Het onderzoek geschiedt niet stelselmatig. Een beroep op de algemene middelen leidt niet zonder meer tot beëindiging van het rechtmatige verblijf.
+
+2. Onverminderd de [artikelen 8.22](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=8&afdeling=2&paragraaf=2&artikel=8.22&z=2006-04-29&g=2006-04-29) en [8.23](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=8&afdeling=2&paragraaf=2&artikel=8.23&z=2006-04-29&g=2006-04-29), eindigt het rechtmatige verblijf niet zolang de vreemdeling, bedoeld in [artikel 8.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=8&afdeling=2&paragraaf=2&artikel=8.7&z=2006-04-29&g=2006-04-29):
+
+- a. werknemer of zelfstandige is; of
+
+- b. naar Nederland is gekomen om werk te zoeken en hij kan bewijzen dat hij nog steeds werk zoekt en een reële kans op werk heeft.
+
+##### Artikel 8.17
+
+1. Duurzaam verblijfsrecht in Nederland heeft:
+
+- a. de vreemdeling, bedoeld in [artikel 8.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=8&afdeling=2&paragraaf=2&artikel=8.7&z=2006-04-29&g=2006-04-29), die gedurende vijf jaar ononderbroken rechtmatig verblijf in Nederland heeft gehad;
+
+- b. de vreemdeling, bedoeld in [artikel 8.7, tweede, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=8&afdeling=2&paragraaf=2&artikel=8.7&z=2006-04-29&g=2006-04-29), die gedurende vijf jaar ononderbroken rechtmatig verblijf heeft gehad bij een vreemdeling als bedoeld onder a, waarbij mede wordt betrokken de periode waarin hij voldeed aan de voorwaarden van [artikel 8.15, vijfde lid, onder a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=8&afdeling=2&paragraaf=2&artikel=8.15&z=2006-04-29&g=2006-04-29).
+
+2. Voor de berekening van het ononderbroken verblijf, bedoeld in het eerste lid, vormt geen onderbreking een afwezigheid uit Nederland:
+
+- a. van ten hoogste zes maanden per jaar;
+
+- b. om belangrijke redenen gedurende een eenmalige periode van ten hoogste twaalf achtereenvolgende maanden;
+
+- c. voor de vervulling van militaire verplichtingen; of
+
+- d. wegens uitzending voor het verrichten van werkzaamheden.
+
+3. De periode van vijf jaar, bedoeld in eerste lid, geldt niet voor:
+
+- a. de werknemer of zelfstandige die langer dan drie jaar ononderbroken in Nederland heeft gewoond, die gedurende de laatste twaalf maanden in Nederland werkzaamheden heeft verricht en die op het tijdstip waarop hij zijn werkzaamheid staakt, de 65-jarige leeftijd heeft bereikt;
+
+- b. de werknemer die langer dan drie jaar ononderbroken in Nederland heeft gewoond, die gedurende de laatste twaalf maanden in Nederland werkzaamheden heeft verricht en die zijn werkzaamheden staakt ten gevolge van vervroegde uittreding;
+
+- c. de werknemer of zelfstandige die zijn werkzaamheden na meer dan twee jaar ononderbroken verblijf in Nederland staakt als gevolg van blijvende arbeidsongeschiktheid;
+
+- d. de werknemer of zelfstandige die in Nederland zijn werkzaamheden staakt wegens blijvende arbeidsongeschiktheid als gevolg van een arbeidsongeval of een beroepsziekte waardoor recht is ontstaan op een uitkering die geheel of ten dele ten laste komt van een Nederlandse instelling;
+
+- e. de werknemer of zelfstandige die, na drie jaar ononderbroken in Nederland werkzaam te zijn geweest en in Nederland te hebben verbleven, werkzaam is in een andere lidstaat, zijn woning in Nederland aanhoudt en daar ten minste eenmaal per week naar terugkeert.
+
+4. Bij de toepassing van het derde lid worden als arbeidsperioden mede in aanmerking genomen:
+
+- a. het naar behoren door de Centrale Organisatie Werk en Inkomen vastgestelde tijdvak van onvrijwillige werkloosheid waarin de vreemdeling wegens een niet-toerekenbare reden niet heeft gewerkt;
+
+- b. de periode van afwezigheid of arbeidsonderbreking wegens ziekte of ongeval.
+
+5. Bij de toepassing van het derde lid, onder a tot en met d, worden de tijdvakken van werkzaamheid in de lidstaat waarin de betrokkene werkzaam is, aangemerkt als in Nederland vervulde tijdvakken van werkzaamheid.
+
+6. De in het derde lid, onder a en b, gestelde voorwaarden inzake de duur van het verblijf en van de werkzaamheid, en de in het derde lid, onder c en d, gestelde voorwaarde inzake de duur van het verblijf, zijn niet van toepassing indien de echtgenoot of de geregistreerde partner van de werknemer of zelfstandige Nederlander is of de Nederlandse nationaliteit heeft verloren als gevolg van het huwelijk met die werknemer of zelfstandige.
+
+7. De bij hem in Nederland verblijvende familieleden van de werknemer of zelfstandige hebben duurzaam verblijfsrecht, indien de werknemer of zelfstandige een nationaliteit als bedoeld in [artikel 8.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=8&afdeling=2&paragraaf=2&artikel=8.7&z=2006-04-29&g=2006-04-29), bezit en:
+
+- a. op grond van het derde tot en met het zesde lid duurzaam verblijfsrecht in Nederland heeft verkregen; of
+
+- b. tijdens zijn werkzame leven is overleden, voordat hij op grond van het derde tot en met het zesde lid duurzaam verblijfsrecht in Nederland verkreeg, en:
+
+- 1°. hij op het tijdstip van zijn overlijden gedurende twee jaar ononderbroken in Nederland heeft verbleven;
+
+- 2°. zijn overlijden het gevolg was van een arbeidsongeval of beroepsziekte; of
+
+- 3°. zijn echtgenoot de Nederlandse nationaliteit als gevolg van hun huwelijk heeft verloren.
+
+##### Artikel 8.18
+
+Duurzaam verblijfsrecht kan slechts worden beëindigd:
+
+- a. bij afwezigheid van meer dan twee achtereenvolgende jaren uit Nederland;
+
+- b. indien ernstige redenen van openbare orde of openbare veiligheid daartoe nopen.
+
+##### Artikel 8.19
+
+Onze Minister verstrekt de vreemdeling, bedoeld in [artikel 8.7 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=8&afdeling=2&paragraaf=2&artikel=8.7&z=2006-04-29&g=2006-04-29), met duurzaam verblijfsrecht op aanvraag en na verificatie van de verblijfsduur een verblijfsdocument, waarvan het model wordt vastgesteld bij ministeriële regeling. Het verblijfsdocument wordt zo spoedig mogelijk verstrekt. [Artikel 25 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=25) is niet van toepassing.
+
+##### Artikel 8.20
+
+1. Onze Minister verstrekt de vreemdeling, bedoeld in [artikel 8.7, tweede, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=8&afdeling=2&paragraaf=2&artikel=8.7&z=2006-04-29&g=2006-04-29), met duurzaam verblijfsrecht en die niet de nationaliteit bezit van een staat als bedoeld in het eerste lid van dat artikel, op aanvraag een verblijfsdocument, waarvan het model wordt vastgesteld bij ministeriële regeling. [Artikel 25, tweede en derde lid, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=25) is niet van toepassing.
+
+2. De aanvraag, bedoeld in het eerste lid, wordt ingediend voor het verstrijken van de geldigheidsduur van het verblijfsdocument, bedoeld in [artikel 8.13, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&hoofdstuk=8&afdeling=2&paragraaf=2&artikel=8.13&z=2006-04-29&g=2006-04-29).
+
+##### Artikel 8.21
+
+Beëindiging van het rechtmatige verblijf van de vreemdeling vormt een onderbreking vanaf het tijdstip waarop de vreemdeling Nederland heeft verlaten.
+
+##### Artikel 8.22
+
+1. Onze Minister kan het rechtmatige verblijf ontzeggen of beëindigen, om redenen van openbare orde of openbare veiligheid, indien het persoonlijke gedrag van de vreemdeling een actuele, werkelijke en ernstige bedreiging voor een fundamenteel belang van de samenleving vormt.
+
+2. Onze Minister kan bij de afgifte van de verklaring van inschrijving of het verblijfsdocument aan de lidstaat van oorsprong of andere lidstaten verzoeken om inlichtingen omtrent de gerechtelijke antecedenten.
+
+3. Tenzij dwingende redenen van openbare veiligheid daartoe nopen, wordt het rechtmatig verblijf niet beëindigd, indien de vreemdeling:
+
+- a. in de voorafgaande tien jaar in Nederland heeft gewoond; of
+
+- b. minderjarig is, tenzij verwijdering noodzakelijk is in het belang van het kind.
+
+4. De aanvraag tot opheffing van de ongewenstverklaring kan slechts worden gedaan nadat sinds de verwijdering om redenen van openbare orde of openbare veiligheid een redelijke termijn is verstreken of indien die verwijdering tenminste drie jaren voorafgaand aan de aanvraag heeft plaatsgevonden.
+
+5. Binnen zes maanden wordt een beschikking gegeven op de in het vierde lid bedoelde aanvraag.
+
+6. Indien de verwijdering niet binnen twee jaren na de ontzegging of beëindiging, bedoeld in het eerste lid, heeft plaatsgevonden, onderzoekt Onze Minister of de bedreiging, bedoeld in het eerste lid, nog werkelijk en actueel is, waarbij Onze Minister sinds die ontzegging of beëindiging eventueel opgetreden wijzigingen in materiële zin in de omstandigheden beoordeelt.
+
+##### Artikel 8.23
+
+1. Onze Minister kan het rechtmatige verblijf op grond van de volksgezondheid ontzeggen of beëindigen in het geval van potentieel epidemische ziekten als gedefinieerd in de relevante instrumenten van de Wereldgezondheidsorganisatie dan wel in geval van andere infectieziekten of besmettelijke parasitaire ziekten, ten aanzien waarvan in Nederland beschermende regelingen ten aanzien van Nederlanders worden getroffen.
+
+2. Rechtmatig verblijf wordt niet op grond van de volksgezondheid beëindigd, indien de ziekte langer dan drie maanden na inreis van de vreemdeling is opgetreden.
+
+3. Onze Minister kan de vreemdeling binnen drie maanden na inreis onderwerpen aan een kosteloos medisch onderzoek indien ernstige aanwijzingen daartoe aanleiding geven.
+
+##### Artikel 8.24
+
+1. De uitzetting van de vreemdeling, ten aanzien van wie het rechtmatige verblijf om redenen van openbare orde, openbare veiligheid of volksgezondheid is geweigerd of beëindigd, blijft, indien de vreemdeling de voorzieningenrechter heeft verzocht een voorlopige voorziening te treffen, achterwege tot op dat verzoek is beslist, tenzij het besluit:
+
+- a. met toepassing van [artikel 4:6 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:6) is genomen;
+
+- b. reeds door de rechtbank of de voorzieningenrechter is beoordeeld; of
+
+- c. gebaseerd is op dwingende redenen van openbare veiligheid.
+
+2. De toegang van de vreemdeling die voor de behandeling van een bezwaarschrift, beroepschrift, dan wel een verzoek om een voorlopige voorziening, gericht tegen beëindiging van het rechtmatige verblijf, geen gemachtigde heeft gesteld, wordt niet geweigerd, tenzij:
+
+- a. zijn aanwezigheid de openbare orde of de openbare veiligheid ernstig zal verstoren; of
+
+- b. het bezwaar of beroep is gericht tegen de weigering van toegang.
+
+3. Onze Minister kan de vertrektermijn, bedoeld in [artikel 62, vierde lid, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=62) slechts in naar behoren aangetoonde dringende gevallen verkorten tot minder dan vier weken.
+
+##### Artikel 8.25
+
+Onze Minister kan het rechtmatige verblijf beëindigen, indien de vreemdeling onjuiste gegevens heeft verstrekt dan wel gegevens heeft achtergehouden terwijl die gegevens zouden hebben geleid tot weigering van toegang of verblijf.
+
+#### Paragraaf 3. Overige verdragen
+
+##### Artikel 8.26
+
+Onze Minister kan regels stellen over de rechten die vreemdelingen ontlenen aan de volgende verdragen:
+
+- a. het Europees Vestigingsverdrag (Trb. 1957, 20);
+
+- b. het Vluchtelingenverdrag (Trb. 1954, 88);
+
+- c. het Verdrag betreffende de status van staatlozen (Trb. 1955, 42);
+
+- d. de Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Economische Gemeenschap en Turkije (PB EG 1964, L 217) en het Associatiebesluit 1/80 van de Associatieraad EEG/Turkije;
+
+- e. het Nederlands-Duits Vestigingsverdrag (Stb. 1906, 279);
+
+- f. het Nederlands-Zwitsers Tractaat (Stb. 1878, nr. 137);
+
+- g. het Nederlands-Amerikaans Vriendschapsverdrag (Trb. 1956, 40);
+
+- h. de Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Suriname inzake het verblijf en de vestiging van wederzijde onderdanen (1975) (Trb. 1975, 133);
+
+- i. de Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Suriname inzake de binnenkomst en het verblijf van wederzijdse onderdanen met bijlage en protocol inzake verkregen rechten (1981) (Trb. 1981, 35);
+
+- j. de Associatieverdragen EG met Hongarije (PbEG 1993, L 347), Polen (PbEG 1993, L 348), Roemenië (PbEG 1994, L 357), Bulgarije (PbEG 1994, L 358), Slowakije (PbEG 1994, L 359) en Tsjechië (PbEG 1994, L 360);
+
+- k. de Overeenkomst tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Zwitserse Bondsstaat, anderzijds, over het vrije verkeer van personen (Trb. 2000, 16 en 86).
+
+### Hoofdstuk 9. Overgangs- en slotbepalingen
+
+## Bijlage. bedoeld in artikel 8.7, eerste lid, onder b, van het Vreemdelingenbesluit 2000
+
+Vervallen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
