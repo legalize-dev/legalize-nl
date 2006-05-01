@@ -4,7 +4,7 @@ identifier: "BWBR0013604"
 country: "nl"
 rank: "rijks_kb"
 publication_date: "2022-05-26"
-last_updated: "2003-04-01"
+last_updated: "2006-05-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013604"
 soort: "rijksKB"
@@ -56,7 +56,7 @@ In dit besluit wordt verstaan onder:
 
 - b. verzoeker: vreemdeling die op grond van de [Rijkswet op het Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003738) verzoekt om verlening van het Nederlanderschap;
 
-- c. de naturalisatietoets: de toets, genoemd in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013604&artikel=2&z=2003-04-01&g=2003-04-01).
+- c. de naturalisatietoets: de toets, genoemd in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013604&artikel=2&z=2006-05-01&g=2006-05-01).
 
 ##### Artikel 2
 
@@ -96,9 +96,13 @@ In dit besluit wordt verstaan onder:
 
 2. Bij een certificaat als bedoeld in het eerste lid, onder d, legt de verzoeker de verklaring over van het Regionaal Opleidingencentrum op grond waarvan het certificaat is afgegeven.
 
+3. Van het afleggen van de toets van de kennis van de taal is vrijgesteld de verzoeker die aantoont dat hij in het bezit is van een certificaat als bedoeld in de [Regeling certificaat inburgering oudkomers](https://wetten.overheid.nl/jci1.3:c:BWBR0018730), met daarop de aantekening dat voor de onderdelen Lezen, Spreken, Schrijven en Luisteren is behaald tenminste het niveau 2 van het referentiekader NT2.
+
+4. Bij het certificaat bedoeld in het vorige lid legt de verzoeker de hem door het college van burgemeester en wethouders afgegeven, gewaarmerkte kopie over van de verklaring van de onderwijsinstelling waar de NT2-profieltoets is afgelegd.
+
 ##### Artikel 4
 
-De verzoeker die kan aantonen door een belemmering niet in staat te zijn een of meer van de toetsonderdelen, genoemd in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013604&artikel=2&z=2003-04-01&g=2003-04-01), en het toetsonderdeel staatsinrichting en maatschappij af te leggen, is ontheven van de verplichting om het desbetreffende toetsonderdeel af te leggen.
+De verzoeker die kan aantonen door een belemmering niet in staat te zijn een of meer van de toetsonderdelen, genoemd in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013604&artikel=2&z=2006-05-01&g=2006-05-01), en het toetsonderdeel staatsinrichting en maatschappij af te leggen, is ontheven van de verplichting om het desbetreffende toetsonderdeel af te leggen.
 
 ##### Artikel 5
 
