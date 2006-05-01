@@ -4,7 +4,7 @@ identifier: "BWBR0017158"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2006-05-01"
-last_updated: "2004-09-12"
+last_updated: "2006-05-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017158"
 soort: "ministeriele-regeling"
@@ -43,7 +43,7 @@ Besluit:
 
 1. Als organisatie die de belangen van de automobielbranche behartigt, aan welke gegevens uit het kentekenregister kunnen worden verstrekt, wordt aangewezen: de Stichting Automotive Belangen Nederland.
 
-2. Met ingang van 1 maart 2006 heeft de verstrekking van de gegevens uit het kentekenregister geen betrekking op:
+2. Met ingang van 1 maart 2007 heeft de verstrekking van de gegevens uit het kentekenregister geen betrekking op:
 
 - a. naam-, adres- en woonplaatsgegevens;
 
@@ -51,7 +51,7 @@ Besluit:
 
 ##### Artikel 2
 
-De verstrekking van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017158&artikel=1&z=2004-09-12&g=2004-09-12) bedoelde gegevens aan de Stichting Automotive Belangen Nederland geschiedt slechts voor zover de Stichting Automotive Belangen Nederland deze gegevens behoeft voor de volgende doeleinden:
+De verstrekking van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017158&artikel=1&z=2006-05-01&g=2006-05-01) bedoelde gegevens aan de Stichting Automotive Belangen Nederland geschiedt slechts voor zover de Stichting Automotive Belangen Nederland deze gegevens behoeft voor de volgende doeleinden:
 
 - 1. wetenschappelijk onderzoek en statistiek,
 
