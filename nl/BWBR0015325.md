@@ -4,7 +4,7 @@ identifier: "BWBR0015325"
 country: "nl"
 rank: "wet"
 publication_date: "2017-12-23"
-last_updated: "2006-02-01"
+last_updated: "2006-05-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0015325"
 soort: "wet"
@@ -67,11 +67,9 @@ In deze wet wordt verstaan onder «de verordening»: de [verordening (EG) nr. 44
 
 1. De rechtbank van welke de voorzieningenrechter op het verzoek om verlof tot tenuitvoerlegging heeft beschikt, neemt kennis van het rechtsmiddel, bedoeld in artikel 43, eerste lid, van de verordening. [Artikel 93 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=93) is niet van toepassing.
 
-2. Het rechtsmiddel, bedoeld in het eerste lid, en het beroep in cassatie, bedoeld in artikel 44 van de verordening in verbinding met bijlage IV bij de verordening, worden ingesteld en behandeld met toepassing van de regels voor de dagvaardingsprocedure in eerste aanleg onderscheidenlijk in cassatie.
+2. vervallen.
 
 3. Het rechtsmiddel, bedoeld in artikel 43, eerste lid, van de verordening, moet, indien het wordt ingesteld door de verzoeker, worden ingesteld binnen een maand na de dagtekening van de beschikking, waarbij het verlof is geweigerd.
-
-4. [Artikel 339, derde lid, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=339) is van overeenkomstige toepassing.
 
 ##### Artikel 5
 
