@@ -4,7 +4,7 @@ identifier: "BWBV0002890"
 country: "nl"
 rank: "verdrag"
 publication_date: "2007-12-30"
-last_updated: "2004-08-01"
+last_updated: "2006-05-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0002890"
 soort: "verdrag"
@@ -135,9 +135,13 @@ Elke hierna genoemde rechterlijke instantie kan het Hof van Justitie verzoeken, 
 
 - -. in België: het Hof van Cassatie (la Cour de Cassation) en de Raad van State (le Conseil d'Etat),
 
+- -. in de Tsjechische Republiek: Nejvyšší soud České republiky Nejvyšší správní soud,
+
 - -. in Denemarken: Hojesteret,
 
 - -. in de Bondsrepubliek Duitsland: die obersten Gerichtshöfe des Bundes,
+
+- -. in Estland: Riigikohus,
 
 - -. in Griekenland: ta avcbxaxa Sixacrcripia,
 
@@ -149,13 +153,29 @@ Elke hierna genoemde rechterlijke instantie kan het Hof van Justitie verzoeken, 
 
 - -. in Italië: la Corte suprema di Cassazione en il Consiglio di Stato,
 
+- -. in Cyprus: Ανώτατο Δικαστήριο,
+
+- -. in Letland: Augstākās Tiesas Senāts,
+
+- -. in Litouwen: Lietuvos Aukščiausiasis Teismas Lietuvos vyriausiasis administracinis teismas,
+
 - -. in Luxemburg: la Cour Supérieure de Justice siégeant comme Cour de Cassation,
+
+- -. in Hongarije: Legfelsõbb Bíróság,
+
+- -. in Malta: Qorti ta' l-Appell,
 
 - -. in Nederland: de Hoge Raad,
 
 - -. in Oostenrijk, het **Oberste Gerichtshof, het Verwaltungsgerichtshof en het Verfassungsgerichtshof**,
 
+- -. in Polen: Sąd Najwyższy Naczelny Sąd Administracyjny,
+
 - -. in Portugal: o Supremo Tribunal de Justica en o Supremo Tribunal Administrativo,
+
+- -. in Slovenië: Ustavno sodišče Republike Slovenije Vrhovno sodišče Republike Slovenije,
+
+- -. in Slowakije: Najvyšší súd Slovenskej republiky,
 
 - -. in Finland het **korkein oikeus/högsta domstolen, het korkein hallinto-oikeus/högsta förvaltningsdomstolen, het markkinatuomioistuin/ marknadsdomstolen, en het työtuomioistuin/arbetsdomstolen**,
 
