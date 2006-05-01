@@ -4,7 +4,7 @@ identifier: "BWBR0011987"
 country: "nl"
 rank: "wet"
 publication_date: "2013-12-15"
-last_updated: "2002-01-01"
+last_updated: "2006-05-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011987"
 soort: "wet"
@@ -56,7 +56,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - 3°. waterschappen;
 
-- 4°. de in [artikel 21, eerste lid, van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=21) bedoelde regio's;
+- 4°. de regio's bedoeld in [artikel 21, eerste lid, van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=21), alsmede de krachtens [artikel 47a, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=47a) ingestelde rechtspersonen;
 
 - 5°. lichamen, ingesteld met toepassing van de [Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740), die bevoegd zijn tot het aangaan, garanderen en verstrekken van geldleningen;
 
@@ -208,7 +208,7 @@ De Wet financiering lagere overheid wordt ingetrokken.
 
 ##### Artikel 14
 
-Onze Ministers kunnen gedurende een door hen te bepalen termijn en onder door hen te stellen voorwaarden aan openbare lichamen ontheffing verlenen van [artikel 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011987&artikel=2&z=2002-01-01&g=2002-01-01), in verband met een zorgvuldige beëindiging van op het tijdstip van inwerkingtreding van deze wet bestaande aanspraken en verplichtingen.
+Onze Ministers kunnen gedurende een door hen te bepalen termijn en onder door hen te stellen voorwaarden aan openbare lichamen ontheffing verlenen van [artikel 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011987&artikel=2&z=2006-05-01&g=2006-05-01), in verband met een zorgvuldige beëindiging van op het tijdstip van inwerkingtreding van deze wet bestaande aanspraken en verplichtingen.
 
 ##### Artikel 15
 
