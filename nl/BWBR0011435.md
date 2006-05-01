@@ -4,7 +4,7 @@ identifier: "BWBR0011435"
 country: "nl"
 rank: "pbo"
 publication_date: "2011-02-17"
-last_updated: "2002-05-13"
+last_updated: "2006-05-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011435"
 soort: "pbo"
@@ -142,6 +142,8 @@ De notaris dient er voor te zorgen dat de inrichting en de organisatie van zijn 
 
 ##### Artikel 13
 
+Vervallen
+
 #### Verzekeringsplicht
 
 ##### Artikel 14
@@ -164,9 +166,7 @@ De notaris draagt er zorg voor dat in de jaarstukken melding wordt gemaakt van d
 
 1. De notaris dient zich jegens zijn beroepsgenoot als een goede collega te gedragen.
 
-2. Voor het uitsluitend vaststellen van de identiteit van een ondertekenaar door legalisatie van diens handtekening ten behoeve van een beroepsgenoot brengt de notaris geen kosten in rekening.
-
-3. Indien het de notaris blijkt dat een andere notaris is benaderd voor werkzaamheden die reeds aan hem waren opgedragen en indien zijn declaratie nog niet is voldaan, dan zal hij, ondanks zijn retentierecht op tot zijn dossier behorende stukken, deze - in origineel dan wel in kopie - aan de opvolgend notaris afgeven onder door de voorzitter van het bestuur van de ring te stellen voorwaarden.
+2. Indien het de notaris blijkt dat een andere notaris is benaderd voor werkzaamheden die reeds aan hem waren opgedragen en indien zijn declaratie nog niet is voldaan, dan zal hij, ondanks zijn retentierecht op tot zijn dossier behorende stukken, deze - in origineel dan wel in kopie - aan de opvolgend notaris afgeven onder door de voorzitter van het bestuur van de ring te stellen voorwaarden.
 
 #### Keuze van de notaris
 
@@ -174,7 +174,7 @@ De notaris draagt er zorg voor dat in de jaarstukken melding wordt gemaakt van d
 
 1. De notaris dient zoveel mogelijk te voorkomen dat de vrijheid van notariskeuze onnodig wordt beperkt.
 
-2. De notaris die in een nalatenschap optreedt als executeur-testamentair kan niet zonder instemming van de erfgenamen optreden als boedelnotaris.
+2. De notaris die in een nalatenschap optreedt als executeur kan niet zonder instemming van de erfgenamen optreden als boedelnotaris.
 
 #### Verhouding notaris-kantoorgenoten
 
@@ -222,7 +222,7 @@ Toegestaan is tevens het gebruik van de naam of de namen van natuurlijke persone
 
 1. De notaris draagt zorg bij het naar buiten optreden voor een juiste en volledige presentatie van het kantoor.
 
-2. Indien sprake is van een samenwerkingsverband als bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0011435&artikel=23&z=2002-05-13&g=2002-05-13) dan moet bij het naar buiten optreden blijken wie de deelnemens aan het samenwerkingsverband zijn, tenzij het een samenwerkingsverband betreft met een kandidaat-notaris.
+2. Indien sprake is van een samenwerkingsverband als bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0011435&artikel=23&z=2006-05-01&g=2006-05-01) dan moet bij het naar buiten optreden blijken wie de deelnemens aan het samenwerkingsverband zijn, tenzij het een samenwerkingsverband betreft met een kandidaat-notaris.
 
 3. Wanneer een samenwerkingsverband bestaat tussen een notaris en een kandidaat-notaris dragen zij er bij hun optreden naar buiten zorg voor dat geen onzekerheid beslaat over ieders hoedanigheid.
 
