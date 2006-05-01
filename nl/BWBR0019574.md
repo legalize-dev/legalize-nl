@@ -296,27 +296,3 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 Deze wet wordt aangehaald als: Uitvoeringswet internationale kinderbescherming
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 23a
-
-1. De rechter die de beslissing heeft gegeven, is bevoegd kennis te nemen van een verzoek tot afgifte van een certificaat, als bedoeld in artikel 36, eerste lid, van de verordening.
-
-2. Het certificaat bedoeld in artikel 36, eerste lid, en artikel 47, eerste lid, van de verordening wordt op verzoek van een partij afgegeven zonder dat die partij of andere belanghebbenden worden gehoord. Voor dit verzoek is de tussenkomst van een advocaat niet vereist.
-
-3. Op een verzoek tot rectificatie van het certificaat, als bedoeld in de artikelen 37 en 48, eerste lid, van de verordening, is [artikel 31 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=31) van overeenkomstige toepassing, indien het certificaat door een Nederlandse rechter is afgegeven. De rechter stelt belanghebbenden niet in de gelegenheid om zich over de rectificatie uit te laten.
-
-4. Het verzoek om intrekking van het certificaat, bedoeld in artikel 48, tweede lid, en het verzoek om afgifte van een certificaat van niet-uitvoerbaarheid of beperkte uitvoerbaarheid, bedoeld in artikel 49, eerste lid, van de verordening, worden door tussenkomst van een advocaat ingediend bij de rechter die de beslissing heeft gegeven. De rechter kan bepalen dat een mondelinge behandeling achterwege blijft indien geen van de partijen, na te zijn gewezen op hun recht te worden gehoord, binnen een door de rechter te bepalen termijn heeft verklaard gebruik te willen maken van dit recht.
-
-5. Tegen beslissingen op verzoeken, als bedoeld in het vierde lid, kan hoger beroep worden ingesteld binnen twee weken na de dagtekening van de beslissing. Tegen de beschikking van het gerechtshof staat geen gewoon rechtsmiddel open.
-
-### Hoofdstuk 7. Internationale samenwerking van gerechten
-
-### Hoofdstuk 8. Verklaring inzake ouderlijke verantwoordelijkheid
-
-### Hoofdstuk 9. Samenloop met andere internationale regelingen
-
-### Hoofdstuk 10. Wijziging van andere wetten
-
-### Hoofdstuk 11. Slotbepalingen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
