@@ -1,0 +1,170 @@
+---
+title: "Herziening Circulaire schietlawaai"
+identifier: "BWBR0019675"
+country: "nl"
+rank: "circulaire"
+publication_date: "2006-05-04"
+last_updated: "2006-05-04"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0019675"
+soort: "circulaire"
+stam_id: "8260433"
+version_id: "13100382"
+internal_id: "C17647471"
+label_id: "8241544"
+dtd_version: "2.0"
+original_entry_into_force: "2006-05-04"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0019675/2006-05-04/0"
+intitule_bron: "Stcrt.2006-87"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-03-17"
+intitule_published: "2006-05-04"
+intitule_in_force: "2006-05-04"
+intitule_status: "goed"
+original_publication: "Stcrt.2006-87"
+original_signed_date: "2006-03-17"
+original_published_date: "2006-05-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2006-87-p20-SC74890"
+entry_into_force_date: "2006-05-04"
+jci_1_3: "jci1.3:c:BWBR0019675&z=2006-05-04&g=2006-05-04"
+jci_1_0: "1.0:c:BWBR0019675&g=2006-05-04"
+citeertitel_status: "redactioneel"
+signed_date: "2006-03-17"
+entry_into_force: "2006-05-04"
+---
+# Herziening Circulaire schietlawaai
+
+Aan het bestuur van (betrokken) provincies en gemeenten etc
+
+Advies en informatie inzake de beoordeling van de toelaatbaarheid van nieuwe recreatieve schietactiviteiten in open inrichtingen
+
+Geacht college,
+
+In deze brief geef ik aanbevelingen voor het beoordelingskader van de geluidsaspecten in het kader van de vergunningverlening op grond van de [Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245) voor permanente open schietinrichtingen voor recreatieve doeleinden. Deze circulaire is primair bedoeld als ondersteuning bij de uitvoering van uw taak met betrekking tot de beoordeling van de aard en de omvang van de gevolgen voor het milieu welke kunnen worden veroorzaakt door dergelijke inrichtingen. Zij biedt tevens een model voor de opstelling van voorschriften, die aan een vergunning op grond van de [Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245) zouden kunnen worden verbonden.
+
+Het specifieke karakter van schietgeluid maakt een speciale beoordelingsmethode noodzakelijk. Reeds bij brief van 1 augustus 1979 met kenmerk 90.476 DGMH/G, heeft de toenmalige Minister van Volksgezondheid en Milieuhygiëne u de Circulaire schietlawaai doen toekomen. Deze circulaire bevat een beoordelingsmethode voor schietlawaai welke indertijd is opgesteld met gebruik van de resultaten van een onderzoek van TNO. Een samenvatting van deze resultaten is opgenomen in het rapport ‘voorlopige evaluatie van de geluidhinder van schietinrichtingen’ (BG-HR-10-01), welke u indertijd ook hebt ontvangen. Deze brief dient ter herziening van de Circulaire schietlawaai, van 1 augustus 1979, met kenmerk 90.476 DGMH/G.
+
+Naar aanleiding van voortschrijdende technische inzichten en op basis van nieuw akoestisch onderzoek wordt in samenwerking met het ministerie van Defensie, een betere beoordelingsmethodiek voor schietgeluid ontwikkeld. Oorspronkelijk zou de Circulaire schietlawaai in dit kader worden aangepast. Echter gezien de urgentie van de problematiek rondom de vergunningverlening voor Limburgse schutterijen heb ik besloten de circulaire op dit specifieke punt eerder bij te stellen.
+
+De bestaande Limburgse schutterijen bevinden zich van oudsher in de dorpskernen van de Limburgse gemeenten. De in de Circulaire schietlawaai opgenomen beoordelingsmethodiek doet thans niet geheel recht aan de uitzonderlijke situatie van de Limburgse schutterijen. Als gevolg van de in de Circulaire schietlawaai opgenomen richtwaarden voor het geluidsniveau, in combinatie met andere voorschriften – zoals onder meer de verplichte toepassing van kogelvangers om loodverontreiniging in de bodem te voorkomen – worden de schutterijen gedwongen de dorpskernen te verlaten. Dit acht ik ongewenst omdat de uitoefening van het Limburgs traditioneel schieten nauw verbonden is met de plaatselijke gemeenschap.
+
+De provincie Limburg kent het traditioneel schieten in Limburg een bijzondere historische en culturele betekenis toe en heeft besloten zelf een handreiking op te stellen met een beoordelingskader welke recht doet aan de bijzondere Limburgse situatie.
+
+Dit beoordelingskader zal in april 2006 en aldus voor de opening van het nieuwe schietseizoen in werking treden en vormt een beoordelingskader voor de vergunningverlening op grond van de [Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245) voor schietinrichtingen die worden gebruikt voor het zogenoemde traditioneel Limburgs schieten.
+
+In de provinciale handreiking zal uitgebreid worden ingegaan op de huidige mogelijkheid van bronmaatregelen om de geluidsoverlast van de schietinrichtingen te voorkomen, dan wel zoveel mogelijk te beperken. Het gebruik van stillere buksen, geluiddempers voor oude buksen en stillere – doorzichtige – kogelvangers kunnen een groot deel van de geluidsoverlast wegnemen. Verder zal worden ingegaan op het belang van de bescherming van het milieu (zoals beperkingen in de tijd dat geschoten mag worden), waarbij dit aan de vergunningen kan worden verbonden en zal aandacht worden besteed aan overige regelgeving en voorschriften welke in ogenschouw moet worden genomen bij de verlening van vergunningen voor schietinrichtingen en de traditionele schietfeesten. De provincie zal binnen twee jaar na in werkingtreding van de handreiking een evaluatie uitvoeren om te bezien of de handreiking de problemen rondom de vergunningverlening voor Limburgse schutterijen heeft doen afnemen.
+
+Omdat de provincie uitgebreid adviseert over de specifiek aan het Limburgs schieten verbonden geluidsacpecten, wordt de Circulaire Schietlawaai 1979 bij dezen niet van toepassing verklaard op het Limburgs schieten. De nieuwe beoordelingsmethodiek welke momenteel in samenwerking met het ministerie van Defensie wordt onwikkeld, zal evenzeer niet van toepassing zijn op deze Limburgse schutterijen.
+
+Voor het overige wordt de circulaire Schietlawaai niet gewijzigd. Vanwege de hanteerbaarheid zijn de ‘richtlijnen voor het meten en beoordelen van het geluid afkomstig van open sportschietinrichtingen’ en de ‘voorbeelden’ uit de Circulaire schietlawaai integraal (afgezien van enige tekstuele aanpassingen) overgenomen in deze herziening. Ook de werkingssfeer blijft verder ongewijzigd en luidt nu dus:
+
+De beoordelingsmethodiek is van toepassing op permanent aanwezige schietinrichtingen (gebruiksduur meer dan 5 uren per week) in de open lucht bestemd of mede bestemd voor het recreatieve schieten.
+
+Naast de schietinrichtingen in Limburg alwaar men het traditioneel Limburgs schieten beoefent, vallen ook militaire- en politieschietbanen niet onder het toepassingsbereik van deze circulaire, behalve voor de tijden dat deze door burgers worden gebruikt of door militairen of politiepersoneel anders dan in uitoefening van hun beroep. Bij de beoordeling op de toelaatbaarheid van deze schietbanen speelt het aspect van de noodzakelijkheid in het kader van de landsverdediging en de openbare veiligheid een duidelijke rol. De afweging van de toelaatbaarheid zal derhalve anders zijn dan bij sport- of recreatief schieten.
+
+Naast de veiligheidsaspecten, die primair blijven, verdient het aanbeveling schietinrichtingen niet te situeren in of nabij stiltegebieden of nabij woningen, maar op terreinen waar de situatie uit akoestisch oogpunt reeds minder rustig is en ook zal blijven. Voorbeelden van dergelijke terreinen zijn te vinden in de omgeving van vliegvelden, drukke verkeerswegen en terreinen voor zware industrie.
+
+Daarnaast raad ik u aan om, alvorens de milieuvergunning te verlenen, na te gaan welke maatregelen aan de bron genomen kunnen worden om de nadelige gevolgen voor het milieu die de inrichting kan veroorzaken, te voorkomen dan wel zoveel mogelijk te beperken.
+
+Volledigheidshalve wil ik u er nog op wijzen dat de Circulaire Traditioneel schieten van 23 maart 1999 (Stcrt. 999, nr. 76) alsmede de aanvullende circulaire inzake beperking loodbelasting van de bodem bij traditioneel schieten van 2 februari 1998 (Stcrt. 1998, nr. 45) van rechtswege zijn geëxpireerd. De circulaires hadden een werkingsduur van 4 jaar en zijn niet verlengd.
+
+Ik hoop met deze brief te bereiken dat het bevoegd gezag kan beschikken over een beoordelingskader voor vergunningverlening voor open schietinrichtingen voor recreatieve doeleinden, waarbij de milieucompartimenten op een evenwichtige wijze worden meegewogen.Voorts hoop ik te bewerkstelligen dat door de uitzondering van schietinrichtingen alwaar het Limburgs traditioneel schieten plaatsvindt, meer ruimte wordt gecreëerd voor lokaal maatwerk bij de vergunningverlening voor de Limburgse schutterijen.
+
+Voor vragen met betrekking tot deze circulaire kunt u contact opnemen met mr. F.V.A. Mailaihollo (tel: 070-3394532) van het ministerie van VROM. Indien u vragen hebt met betrekking tot het traditioneel schieten in Limburg dan kunt u contact opnemen met dhr. G.M.P. Hagen (tel: 043-3897464) van de provincie Limburg.
+
+Een afschrift van deze brief heb ik gezonden aan de provincie Limburg.
+
+## Bijlage
+
+### **Richtlijnen voor het meten en beoordelen van het geluid afkomstig van open sportschietoefeningen**
+
+### **– inleiding**
+
+Het meten en beoordelen van schietlawaai is moeilijk omdat men over het algemeen uitgaat van min of meer permanent aanwezige geluidsbronnen met relatief geringe niveaufluctuaties. Daarom zijn geluidmeters ook niet in alle gevallen voorzien van een gestandaardiseerde aanpassing met betrekking tot de beste wijze waarop pulsvormige geluiden gemeten kunnen worden. Daarnaast spelen de beoordelingsaspecten een rol mede in afhankelijkheid van dosiseffect relaties. Hierbij gaat het vooral om twee aspecten, te weten: de enkelvoudige knal en herhaald hoorbare knallen.
+
+Hierna zal op deze aspecten worden ingegaan en tevens worden aangegeven op welke wijze zij kunnen worden gemeten en beoordeeld.
+
+### **– metingen**
+
+Geluidmeters die worden gebruikt voor het meten van pulsvormige geluiden zoals knallen van schietwapens dienen te voldoen aan de norm van het International Electrotechnical Committee IEC 179A: ‘Precision Impulse Sound level Meters’, waarin een meterfunctie is gestandaardiseerd met een integratietijd van 35 msec. Om overeenstemming te krijgen met de frequentieafhankelijke eigenschappen van het menselijk gehoor dient de meter bovendien voorzien te zijn van een ‘A’-filter. De metingen dienen te worden uitgevoerd in de stand ‘impuls’ met gelijktijdige ‘A’-weging.
+
+### **– enkelvoudige knal (Lknal)**
+
+Bij hogere geluidsniveaus kunnen schrikeffecten bij het schietlawaai aanleiding geven tot afwijking van de algemene dosiseffect relatie. Het geluidsniveau van een enkele knal, waarbij deze effecten optreden, is afhankelijk van het achtergrondgeluid L95 ter plaatse. Aanbevolen wordt de waarden zoals gegeven in grafiek 1 niet te overschrijden.
+
+**Grafiek 1: Maxima van Lknal in relatie tot het omgevingsgeluid (L95) ter voorkoming van schrikreacties.**
+
+### **– herhaald hoorbare knallen (Lr)**
+
+Naast het niveau van de enkele knal speelt het aantal knallen dat in een bepaalde periode wordt geproduceerd een rol. De onderstaande formule heeft betrekking op de geluidsbelasting over een 8-urige dagperiode uitgedrukt in een ‘rating sound level’ (vgl. ISO R 1996).
+
+In deze formule geldt:
+
+Lr = het berekende geluidsniveau dat vergeleken dient te worden met het achtergrondgeluidsniveau
+
+Lknal = het geluidsniveau van een enkele knal, gemeten in A, impuls
+
+N = het aantal schoten over de 8-urige dagperiode
+
+42 = een correctiefactor
+
+*lg = 10log
+
+Er is echter gebleken dat de bij deze formule gebruikte 8-urige dagperiode bij de beoordeling op hinder veroorzaakt door sportschieten niet zo praktisch is.
+
+Het is juister als een sportschietinrichting wordt beoordeeld op uurbasis rekeninghoudend met de capaciteit die de reeds aanwezige of aangevraagde schietinrichting bezit.
+
+Om dit te bereiken is besloten de formulering voor Lr zodanig te wijzigen dat gerekend kan worden met het aantal schoten per uur (n) dat berekend wordt uit het aantal schietpunten en de schotfrequentie:
+
+Heeft men te maken met knallen van verschillende niveaus dan geldt:
+
+waarin: Li = het geluidsniveau van knal i gemeten in A, impuls.
+
+Bij het bepalen van n kan men extreem hoge schotfrequenties die worden bereikt bij wedstrijdschieten buiten beschouwing laten mits men in de voorschriften van de vergunning opneemt dat deze slechts een beperkt aantal maal per jaar gehouden mogen worden.
+
+Richtgetallen voor de schotfrequentie per schietpunt voor verschillende kleine vuurwapens vindt men in tabel 1.
+
+Bij kleiduivenschietbanen is het aantal deelnemers en de beschikbare accommodatie bepalend voor de schotfrequentie.
+
+Het zal duidelijk zijn dat de beoordeling van het schietgeluid van een sportschietinrichting op de twee aspecten Lknal en Lr dient te berusten. De grenzen waar beneden geen hinder zal optreden staan vermeld in tabel 2 voor wat betreft Lr en de grafiek voor Lknal max.
+
+Van elke twee gegeven waarden mag Lr de laagste niet overschrijden.
+
+Op welke wijze men verder gebruik kan maken van de formule (2) wordt hierna aangegeven met enkele voorbeelden.
+
+(a) Er wordt een vergunning aangevraagd voor een schietbaan met 4 geweerschietpunten voor gebruik in periode van 14.00–21.00 uur. Er zal slechts met 1 type wapen geschoten worden. De omgeving is een landelijk gebied met verspreide bebouwing en tijdens metingen bedroeg het achtergrondgeluidsniveau ca. 42 dB(A) overdag en ca. 38 dB(A) in de avondperiode.
+
+Met behulp van de grafiek kan worden vastgesteld dat het geluid van een afzonderlijke knal aan de dichtstbijzijnde woning overdag niet meer mag bedragen dan 71 dB(A, imp) en ’s avonds niet meer dan 69 dB(A, imp).
+
+Metingen toonden aan dat het wapen dat gebruikt zal worden aan de woning een Lknal van 68 dB(A,imp) veroorzaakt. Beoordeeld op schrikeffecten is dit niveau zowel voor de dag- alsook voor de avondperiode aanvaardbaar.
+
+Echter indien men de baan beoordeeld op de capaciteit waarvoor de vergunning wordt aangevraagd, dan blijkt bij invulling in formule (2) met n (vlg. tabel 1) = 4 × 60 = 240 schoten/uur.
+
+Lr = Lknal + 10 lg n – 33
+
+= 68 + 10 lg 240 – 33
+
+= 68 + 23,8 – 33 = 58,8 dB(A)
+
+Dit is voor de dagperiode een overschrijding van ca. 59 – 42 = 17 dB(A) en voor de avondperiode van ca. 21 dB(A).
+
+De vergunning kan dus niet verleend worden zonder beperkende voorwaarden in de voorschriften. Om deze op te kunnen stellen wordt eerst het aanvaardbare aantal schoten per uur berekend:
+
+Het zal duidelijk zijn dat dit voor de vergunningaanvrager een totaal onbevredigend aantal zal zijn.
+
+Om de baan toch in gebruik te kunnen nemen zal het niveau van de knallen verlaagd moeten worden. Er kunnen bijvoorbeeld cabines gebouwd worden die de schutter en zijn wapen van de omgeving afschermen. Stel dat het geluidsniveau hiermee 15 dB(A) reduceert dan wordt het toelaatbare aantal schoten per uur:
+
+Deze schotfrequenties worden niet overschreden wanneer 2 schietpunten in gebruik zijn respectievelijk 1 schietpunt in gebruik is. Wanneer behalve de cabine geen verdere middelen worden aangebracht en men wenst de baan niet te verplaatsen naar een omgeving met een hoger achtergrondgeluid dan is te overwegen de vergunning toch te verlenen doch onder de volgende voorwaarden.
+
+In de periode van 14.00–19.00 uur mogen 2 schietpunten in gebruik zijn.
+
+In de periode van 19.00–21.00 mag 1 schietpunt in gebruik zijn. Het is toegestaan 2 maal per jaar schietwedstrijden te organiseren waarbij de volle capaciteit van de baan benut mag worden.
+
+(b) Er wordt een vergunning aangevraagd voor een afgeschermde schietbaan met 6 geweerschietpunten gelegen op ca. 500 m afstand van een woonwijk. Gebruiksperiode 10–18 uur, schotfrequentie vlg. tabel 1 60 schoten per uur per schietpunt. Het L95 aan de rand van de woonwijk bedraagt gedurende deze periode ca. 54 dB(A). Een test wees uit dat het Lknal van de wapens hier ca. 57 dB(A,imp) bedroeg dus onder het, vlg. de grafiek, toelaatbare niveau.
+
+Als criterium voor Lr dient volgens tabel 2 de grenswaarde van 50 dB(A) te worden aangehouden. Berekening van Lr met de formule (2) heeft als resultaat:
+
+Lr = 57 + 10 lg (6 × 60) – 33 = 49,6 dB(A)
+
+Deze aanvraag kan dus met deze condities worden gehonoreerd.
