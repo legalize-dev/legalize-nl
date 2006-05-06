@@ -4,7 +4,7 @@ identifier: "BWBR0019763"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2016-09-02"
-last_updated: "2002-09-01"
+last_updated: "2006-05-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019763"
 soort: "ministeriele-regeling"
@@ -84,7 +84,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3. Opleidingen die aan voorschriften inrichting voldoen
 
-Aan [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019763&hoofdstuk=II&artikel=2&z=2006-05-06&g=2002-09-01) wordt in elk geval voldaan door degene die in het bezit is van:
+Aan [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019763&hoofdstuk=II&artikel=2&z=2006-05-06&g=2006-05-06) wordt in elk geval voldaan door degene die in het bezit is van:
 
 - a. het getuigschrift van het met goed gevolg afgelegd afsluitend examen van de Masteropleiding Architecture, variant Architecture, de Masteropleiding Architecture, Building and Planning, variant Architecture, dan wel de Masteropleiding Architecture, Urbanism and Building Sciences, variant Architecture, aan de Technische Universiteit Delft, verworven na het met goed gevolg doorlopen van de bacheloropleiding op het gebied van de bouwkunde, leidend tot de graad van Bachelor of Science, dan wel van een opleiding waarin kwaliteiten op het gebied van kennis, inzicht en vaardigheden zijn verworven die overeenkomen met die verworven bij beëindiging van genoemde bacheloropleiding;
 
@@ -180,7 +180,7 @@ Voor inschrijving in het register komt eveneens in aanmerking degene die in het 
 
 ##### Artikel 6. Opleidingen die aan voorschriften inrichting voldoen
 
-Aan [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0019763&hoofdstuk=III&artikel=5&z=2006-05-06&g=2002-09-01) wordt in elk geval voldaan door degene die in het bezit is van:
+Aan [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0019763&hoofdstuk=III&artikel=5&z=2006-05-06&g=2006-05-06) wordt in elk geval voldaan door degene die in het bezit is van:
 
 - a. het getuigschrift van het met goed gevolg afgelegd afsluitend examen van de Masteropleiding Architecture, variant Urbanism, de Masteropleiding Architecture, Building and Planning, variant Urbanism, dan wel de Masteropleiding Architecture, Urbanism and Building Sciences, variant Urbanism, aan de Technische Universiteit Delft, verworven na het met goed gevolg doorlopen van de bacheloropleiding op het gebied van de bouwkunde, leidend tot de graad van Bachelor of Science, dan wel van een opleiding waarin kwaliteiten op het gebied van kennis, inzichten en vaardigheden zijn verworven die overeenkomen met die verworven bij beëindiging van genoemde bacheloropleiding;
 
@@ -256,9 +256,9 @@ Voor inschrijving in het register komt eveneens in aanmerking degene die in het 
 
 ##### Artikel 9. Opleidingen die aan voorschriften inrichting voldoen
 
-Aan [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0019763&hoofdstuk=IV&artikel=8&z=2006-05-06&g=2002-09-01) wordt in elk geval voldaan door degene die in het bezit is van:
+Aan [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0019763&hoofdstuk=IV&artikel=8&z=2006-05-06&g=2006-05-06) wordt in elk geval voldaan door degene die in het bezit is van:
 
-- a. het getuigschrift van het met goed gevolg afgelegd afsluitend examen van de Masteropleiding Landscape, Planning and Design, mits in de bijlage bij het getuigschrift is vermeld dat is voldaan aan [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0019763&hoofdstuk=IV&artikel=8&z=2006-05-06&g=2002-09-01), dan wel het getuigschrift van de Masteropleiding Landscape Architecture and Planning, specialisatie landscape architecture, aan de Wageningen Universiteit, verworven na het met goed gevolg doorlopen van de bacheloropleiding op het gebied van de Landschapsarchitectuur, leidend tot de graad van Bachelor of Science, dan wel van een opleiding waarin kwaliteiten op het gebied van kennis, inzichten en vaardigheden zijn verworven die overeenkomen met die verworven bij beëindiging van genoemde bacheloropleiding, of
+- a. het getuigschrift van het met goed gevolg afgelegd afsluitend examen van de Masteropleiding Landscape, Planning and Design, mits in de bijlage bij het getuigschrift is vermeld dat is voldaan aan [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0019763&hoofdstuk=IV&artikel=8&z=2006-05-06&g=2006-05-06), dan wel het getuigschrift van de Masteropleiding Landscape Architecture and Planning, specialisatie landscape architecture, aan de Wageningen Universiteit, verworven na het met goed gevolg doorlopen van de bacheloropleiding op het gebied van de Landschapsarchitectuur, leidend tot de graad van Bachelor of Science, dan wel van een opleiding waarin kwaliteiten op het gebied van kennis, inzichten en vaardigheden zijn verworven die overeenkomen met die verworven bij beëindiging van genoemde bacheloropleiding, of
 
 - b. het getuigschrift van het met goed gevolg afgelegd afsluitend examen van de Masteropleiding Landschapsarchitectuur aan de Amsterdamse Hogeschool voor de Kunsten, afgegeven door de examencommissie van de Academie voor Bouwkunst Amsterdam.
 
@@ -314,7 +314,7 @@ Voor inschrijving in het register komt eveneens in aanmerking degene die in het 
 
 ##### Artikel 12. Opleidingen die aan voorschriften inrichting voldoen
 
-Aan [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0019763&hoofdstuk=V&artikel=11&z=2006-05-06&g=2002-09-01) wordt in elk geval voldaan door degene die in het bezit is van een getuigschrift van het met goed gevolg afgelegd examen, verbonden aan de bacheloropleiding Vormgeving, uitstroomprofiel Ruimtelijk Ontwerp, met in de bijlage van het getuigschrift de vermelding dat is voldaan aan [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0019763&hoofdstuk=V&artikel=11&z=2006-05-06&g=2002-09-01), afgegeven door:
+Aan [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0019763&hoofdstuk=V&artikel=11&z=2006-05-06&g=2006-05-06) wordt in elk geval voldaan door degene die in het bezit is van een getuigschrift van het met goed gevolg afgelegd examen, verbonden aan de bacheloropleiding Vormgeving, uitstroomprofiel Ruimtelijk Ontwerp, met in de bijlage van het getuigschrift de vermelding dat is voldaan aan [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0019763&hoofdstuk=V&artikel=11&z=2006-05-06&g=2006-05-06), afgegeven door:
 
 - a. de Gerrit Rietveld Academie;
 
