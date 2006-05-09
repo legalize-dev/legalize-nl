@@ -4,7 +4,7 @@ identifier: "BWBR0020830"
 country: "nl"
 rank: "wet"
 publication_date: "2008-12-31"
-last_updated: "2006-01-01"
+last_updated: "2006-05-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020830"
 soort: "wet"
@@ -48,7 +48,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel III
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de loonbelasting 1964.
 
 ##### Artikel IV
 
@@ -161,11 +161,3 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel XXVIII
 
 Dit onderdeel is nog niet inwerking getreden
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het in het kader van het fiscale beleid voor het jaar 2007 wenselijk is maatregelen te treffen op het gebied van arbeidsmarkt- en inkomensbeleid, economische infrastructuur, mobiliteit en milieu, alsmede enkele andere maatregelen te treffen en dat het voorts wenselijk is in de [Wet kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017017) een heffing in te voeren ter financiering van een werkgeversbijdrage in de kosten van kinderopvang;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige handhaving de hand zullen houden.
