@@ -155,9 +155,3 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 Dit besluit wordt aangehaald als: Statuut agentschap Nationaal Archief.
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 2a
-
-Het agentschap Nationaal Archief kent een algemene rijksarchivaris en een directeur.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
