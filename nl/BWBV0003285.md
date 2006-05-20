@@ -4,7 +4,7 @@ identifier: "BWBV0003285"
 country: "nl"
 rank: "verdrag"
 publication_date: "2024-12-05"
-last_updated: "2005-04-07"
+last_updated: "2006-05-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0003285"
 soort: "verdrag"
@@ -69,19 +69,19 @@ Voor de toepassing van deze Overeenkomst wordt verstaan onder:
 
 ##### Artikel 2. Aanduiding van het net
 
-De Overeenkomstsluitende Partijen nemen de bepalingen van deze Overeenkomst aan als een gecoördineerd internationaal plan voor de ontwikkeling en exploitatie van een net van belangrijke lijnen voor het internationaal gecombineerd vervoer en bijbehorende voorzieningen, hierna te noemen „het internationaal gecombineerd-vervoersnet”, welk plan zij voornemens zijn uit te voeren binnen het kader van nationale programma's. Het internationaal gecombineerd-vervoersnet bestaat uit de in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003285&bijlage=I&z=2005-04-07&g=2005-04-07) bij deze Overeenkomst opgenomen spoorwegen en de in [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBV0003285&bijlage=II&z=2005-04-07&g=2005-04-07) bij deze Overeenkomst opgenomen terminals voor gecombineerd vervoer, grensovergangen, stations voor het wijzigen van de spoorwijdte en veerbootverbindingen/-havens die belangrijk zijn voor het internationaal gecombineerd vervoer.
+De Overeenkomstsluitende Partijen nemen de bepalingen van deze Overeenkomst aan als een gecoördineerd internationaal plan voor de ontwikkeling en exploitatie van een net van belangrijke lijnen voor het internationaal gecombineerd vervoer en bijbehorende voorzieningen, hierna te noemen „het internationaal gecombineerd-vervoersnet”, welk plan zij voornemens zijn uit te voeren binnen het kader van nationale programma's. Het internationaal gecombineerd-vervoersnet bestaat uit de in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003285&bijlage=I&z=2006-05-20&g=2006-05-20) bij deze Overeenkomst opgenomen spoorwegen en de in [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBV0003285&bijlage=II&z=2006-05-20&g=2006-05-20) bij deze Overeenkomst opgenomen terminals voor gecombineerd vervoer, grensovergangen, stations voor het wijzigen van de spoorwijdte en veerbootverbindingen/-havens die belangrijk zijn voor het internationaal gecombineerd vervoer.
 
 ##### Artikel 3. Technische kenmerken van het net
 
-De spoorwegen van het, internationaal gecombineerd-vervoersnet dienen de in [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0003285&bijlage=III&z=2005-04-07&g=2005-04-07) bij deze Overeenkomst beschreven kenmerken te hebben of tijdens toekomstige verbeteringswerkzaamheden die worden verricht overeenkomstig nationale programma's met de bepalingen van [die bijlage](https://wetten.overheid.nl/jci1.3:c:BWBV0003285&bijlage=III&z=2005-04-07&g=2005-04-07) in overeenstemming te worden gebracht.
+De spoorwegen van het, internationaal gecombineerd-vervoersnet dienen de in [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0003285&bijlage=III&z=2006-05-20&g=2006-05-20) bij deze Overeenkomst beschreven kenmerken te hebben of tijdens toekomstige verbeteringswerkzaamheden die worden verricht overeenkomstig nationale programma's met de bepalingen van [die bijlage](https://wetten.overheid.nl/jci1.3:c:BWBV0003285&bijlage=III&z=2006-05-20&g=2006-05-20) in overeenstemming te worden gebracht.
 
 ##### Artikel 4. Operationele doeleinden
 
-Ten einde de dienstverlening in het internationaal gecombineerd vervoer op het internationale gecombineerd-vervoersnet te vergemakkelijken, nemen de Overeenkomstsluitende Partijen passende maatregelen opdat de in [Bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBV0003285&bijlage=IV&z=2005-04-07&g=2005-04-07) bij deze Overeenkomst gegeven functioneringsparameters en minimumnormen voor treinen voor gecombineerd vervoer en bijbehorende voorzieningen worden verwezenlijkt.
+Ten einde de dienstverlening in het internationaal gecombineerd vervoer op het internationale gecombineerd-vervoersnet te vergemakkelijken, nemen de Overeenkomstsluitende Partijen passende maatregelen opdat de in [Bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBV0003285&bijlage=IV&z=2006-05-20&g=2006-05-20) bij deze Overeenkomst gegeven functioneringsparameters en minimumnormen voor treinen voor gecombineerd vervoer en bijbehorende voorzieningen worden verwezenlijkt.
 
 ##### Artikel 5. Bijlagen
 
-De bijlagen bij deze Overeenkomst vormen een integrerend onderdeel van de Overeenkomst. Er kunnen bijlagen over andere aspecten van het gecombineerd vervoer aan de Overeenkomst worden toegevoegd in overeenstemming met de in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0003285&hoofdstuk=II&artikel=12&z=2005-04-07&g=2005-04-07) beschreven wijzigingsprocedure.
+De bijlagen bij deze Overeenkomst vormen een integrerend onderdeel van de Overeenkomst. Er kunnen bijlagen over andere aspecten van het gecombineerd vervoer aan de Overeenkomst worden toegevoegd in overeenstemming met de in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0003285&hoofdstuk=II&artikel=12&z=2006-05-20&g=2006-05-20) beschreven wijzigingsprocedure.
 
 ### HOOFDSTUK II. SLOTBEPALINGEN
 
@@ -97,13 +97,13 @@ De Secretaris-Generaal van de Verenigde Naties is de depositaris van deze Overee
 
 ##### Artikel 8. Bekrachtiging, aanvaarding of goedkeuring
 
-1. Deze Overeenkomst dient te worden bekrachtigd, aanvaard of goedgekeurd in overeenstemming met [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003285&hoofdstuk=II&artikel=7&z=2005-04-07&g=2005-04-07).
+1. Deze Overeenkomst dient te worden bekrachtigd, aanvaard of goedgekeurd in overeenstemming met [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003285&hoofdstuk=II&artikel=7&z=2006-05-20&g=2006-05-20).
 
 2. Bekrachtiging, aanvaarding of goedkeuring geschiedt door nederlegging van een akte bij de Secretaris-Generaal van de Verenigde Naties.
 
 ##### Artikel 9. Toetreding
 
-1. Deze Overeenkomst staat vanaf 1 april 1991 open voor toetreding door elke Staat zoals bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003285&hoofdstuk=II&artikel=7&z=2005-04-07&g=2005-04-07).
+1. Deze Overeenkomst staat vanaf 1 april 1991 open voor toetreding door elke Staat zoals bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003285&hoofdstuk=II&artikel=7&z=2006-05-20&g=2006-05-20).
 
 2. Toetreding geschiedt door nederlegging van een akte bij de Secretaris-Generaal van de Verenigde Naties.
 
@@ -129,11 +129,11 @@ De Secretaris-Generaal van de Verenigde Naties is de depositaris van deze Overee
 
 ##### Artikel 13. Voorbehouden
 
-Elke Staat kan bij de ondertekening van deze Overeenkomst of bij de nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding aan de depositaris mededelen dat hij zich niet gebonden acht door [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0003285&hoofdstuk=II&artikel=12&z=2005-04-07&g=2005-04-07) van deze Overeenkomst.
+Elke Staat kan bij de ondertekening van deze Overeenkomst of bij de nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding aan de depositaris mededelen dat hij zich niet gebonden acht door [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0003285&hoofdstuk=II&artikel=12&z=2006-05-20&g=2006-05-20) van deze Overeenkomst.
 
 ##### Artikel 14. Wijziging van de Overeenkomst
 
-1. Deze Overeenkomst kan worden gewijzigd overeenkomstig de in dit artikel beschreven procedure, behoudens het bepaalde in de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBV0003285&hoofdstuk=II&artikel=15&z=2005-04-07&g=2005-04-07) en [16](https://wetten.overheid.nl/jci1.3:c:BWBV0003285&hoofdstuk=II&artikel=16&z=2005-04-07&g=2005-04-07).
+1. Deze Overeenkomst kan worden gewijzigd overeenkomstig de in dit artikel beschreven procedure, behoudens het bepaalde in de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBV0003285&hoofdstuk=II&artikel=15&z=2006-05-20&g=2006-05-20) en [16](https://wetten.overheid.nl/jci1.3:c:BWBV0003285&hoofdstuk=II&artikel=16&z=2006-05-20&g=2006-05-20).
 
 2. Op verzoek van een Overeenkomstsluitende Partij wordt elke door haar voorgestelde wijziging van deze Overeenkomst bestudeerd in de Werkgroep voor Gecombineerd Vervoer van de Economische Commissie voor Europa van de Verenigde Naties.
 
@@ -143,11 +143,11 @@ Elke Staat kan bij de ondertekening van deze Overeenkomst of bij de nederlegging
 
 5. Indien overeenkomstig het vierde lid van dit artikel, een bezwaar tegen de voorgestelde wijziging ter kennis van de Secretaris-Generaal is gebracht, wordt de wijziging geacht niet te zijn aanvaard, en heeft zij geen enkel gevolg.
 
-##### Artikel 15. Wijziging van de [Bijlagen I](https://wetten.overheid.nl/jci1.3:c:BWBV0003285&bijlage=I&z=2005-04-07&g=2005-04-07) en [II](https://wetten.overheid.nl/jci1.3:c:BWBV0003285&bijlage=II&z=2005-04-07&g=2005-04-07)
+##### Artikel 15. Wijziging van de [Bijlagen I](https://wetten.overheid.nl/jci1.3:c:BWBV0003285&bijlage=I&z=2006-05-20&g=2006-05-20) en [II](https://wetten.overheid.nl/jci1.3:c:BWBV0003285&bijlage=II&z=2006-05-20&g=2006-05-20)
 
-1. De [Bijlagen I](https://wetten.overheid.nl/jci1.3:c:BWBV0003285&bijlage=I&z=2005-04-07&g=2005-04-07) en [II](https://wetten.overheid.nl/jci1.3:c:BWBV0003285&bijlage=II&z=2005-04-07&g=2005-04-07) bij deze Overeenkomst kunnen worden gewijzigd overeenkomstig de in dit artikel beschreven procedure.
+1. De [Bijlagen I](https://wetten.overheid.nl/jci1.3:c:BWBV0003285&bijlage=I&z=2006-05-20&g=2006-05-20) en [II](https://wetten.overheid.nl/jci1.3:c:BWBV0003285&bijlage=II&z=2006-05-20&g=2006-05-20) bij deze Overeenkomst kunnen worden gewijzigd overeenkomstig de in dit artikel beschreven procedure.
 
-2. Op verzoek van een Overeenkomstsluitende Partij wordt elke door haar voorgestelde wijziging van de [Bijlagen I](https://wetten.overheid.nl/jci1.3:c:BWBV0003285&bijlage=I&z=2005-04-07&g=2005-04-07) en [II](https://wetten.overheid.nl/jci1.3:c:BWBV0003285&bijlage=II&z=2005-04-07&g=2005-04-07) bestudeerd door de Werkgroep voor Gecombineerd Vervoer van de Economische Commissie voor Europa van de Verenigde Naties.
+2. Op verzoek van een Overeenkomstsluitende Partij wordt elke door haar voorgestelde wijziging van de [Bijlagen I](https://wetten.overheid.nl/jci1.3:c:BWBV0003285&bijlage=I&z=2006-05-20&g=2006-05-20) en [II](https://wetten.overheid.nl/jci1.3:c:BWBV0003285&bijlage=II&z=2006-05-20&g=2006-05-20) bestudeerd door de Werkgroep voor Gecombineerd Vervoer van de Economische Commissie voor Europa van de Verenigde Naties.
 
 3. Indien de wijziging wordt aangenomen door de meerderheid van de Overeenkomstsluitende Partijen die aanwezig zijn en hun stem uitbrengen, wordt door de Secretaris-Generaal van de Verenigde Naties mededeling van de wijziging gedaan aan de rechtstreeks betrokken Overeenkomstsluitende Partijen ter fine van aanvaarding. Voor de toepassing van dit artikel wordt een Overeenkomstsluitende Partij geacht rechtstreeks betrokken te zijn indien haar grondgebied, in geval van opneming van een nieuwe lijn, een belangrijke terminal, een grensovergang, een station voor het wijzigen van de spoorwijdte of een veerbootverbinding/-haven dan wel de wijziging van deze voorzieningen, door die lijn wordt doorsneden of rechtstreeks verbonden is met de belangrijke terminal, of indien de beoogde belangrijke terminal, grensovergang, het beoogde station voor het wijzigen van de spoorwijdte of de terminal van de veerbootverbinding/-haven op bedoeld grondgebied zijn gelegen.
 
@@ -159,11 +159,11 @@ Elke Staat kan bij de ondertekening van deze Overeenkomst of bij de nederlegging
 
 7. De depositaris wordt er door het Secretariaat van de Economische Commissie voor Europa steeds onverwijld van in kennis gesteld welke Overeenkomstsluitende Partijen rechtstreeks betrokken zijn bij een voorgestelde wijziging.
 
-##### Artikel 16. Wijziging van de [Bijlagen III](https://wetten.overheid.nl/jci1.3:c:BWBV0003285&bijlage=III&z=2005-04-07&g=2005-04-07) en [IV](https://wetten.overheid.nl/jci1.3:c:BWBV0003285&bijlage=IV&z=2005-04-07&g=2005-04-07)
+##### Artikel 16. Wijziging van de [Bijlagen III](https://wetten.overheid.nl/jci1.3:c:BWBV0003285&bijlage=III&z=2006-05-20&g=2006-05-20) en [IV](https://wetten.overheid.nl/jci1.3:c:BWBV0003285&bijlage=IV&z=2006-05-20&g=2006-05-20)
 
-1. De [Bijlagen III](https://wetten.overheid.nl/jci1.3:c:BWBV0003285&bijlage=III&z=2005-04-07&g=2005-04-07) en [IV](https://wetten.overheid.nl/jci1.3:c:BWBV0003285&bijlage=IV&z=2005-04-07&g=2005-04-07) bij deze Overeenkomst kunnen worden gewijzigd overeenkomstig de in dit artikel beschreven procedure.
+1. De [Bijlagen III](https://wetten.overheid.nl/jci1.3:c:BWBV0003285&bijlage=III&z=2006-05-20&g=2006-05-20) en [IV](https://wetten.overheid.nl/jci1.3:c:BWBV0003285&bijlage=IV&z=2006-05-20&g=2006-05-20) bij deze Overeenkomst kunnen worden gewijzigd overeenkomstig de in dit artikel beschreven procedure.
 
-2. Op verzoek van een Overeenkomstsluitende Partij wordt elke door haar voorgestelde wijziging van de [Bijlagen III](https://wetten.overheid.nl/jci1.3:c:BWBV0003285&bijlage=III&z=2005-04-07&g=2005-04-07) en [IV](https://wetten.overheid.nl/jci1.3:c:BWBV0003285&bijlage=IV&z=2005-04-07&g=2005-04-07) bestudeerd door de Werkgroep voor Gecombineerd Vervoer van de Economische Commissie voor Europa van de Verenigde Naties.
+2. Op verzoek van een Overeenkomstsluitende Partij wordt elke door haar voorgestelde wijziging van de [Bijlagen III](https://wetten.overheid.nl/jci1.3:c:BWBV0003285&bijlage=III&z=2006-05-20&g=2006-05-20) en [IV](https://wetten.overheid.nl/jci1.3:c:BWBV0003285&bijlage=IV&z=2006-05-20&g=2006-05-20) bestudeerd door de Werkgroep voor Gecombineerd Vervoer van de Economische Commissie voor Europa van de Verenigde Naties.
 
 3. Indien de wijziging wordt aangenomen met een tweederde meerderheid van de Overeenkomstsluitende Partijen die aanwezig zijn en hun stem uitbrengen, wordt door de Secretaris-Generaal van de Verenigde Naties mededeling van de wijziging gedaan aan alle Overeenkomstsluitende Partijen ter fine van aanvaarding.
 
