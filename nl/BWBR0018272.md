@@ -4,7 +4,7 @@ identifier: "BWBR0018272"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2008-05-28"
-last_updated: "2006-03-16"
+last_updated: "2006-05-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018272"
 soort: "ministeriele-regeling"
@@ -50,13 +50,15 @@ CTR: plaatselijk luchtverkeersleidingsgebied (Control Zone);
 
 FL: vliegniveau (Flight Level);
 
-ft: voet (feet).
+ft: voet (feet);
+
+MSL: gemiddeld zeeniveau (mean sea level).
 
 ##### Artikel 2
 
 De LVNL is belast met het geven van luchtverkeersdienstverlening volgens de regels behorende bij luchtverkeersdienstverleningsklasse E aan vluchten in:
 
-- a. het deel van het vluchtinformatiegebied Düsseldorf, weergegeven als Maskirchen A Area in de bij deze regeling behorende [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0018272&bijlage=A&z=2005-05-12&g=2006-03-16), met uitzondering van de plaatselijke luchtverkeersleidingsgebieden, met een ondergrens vanaf 305 m (1000 ft) boven de grond en een bovengrens tot en met FL 095, voor zover lateraal begrensd door:
+- a. het deel van het vluchtinformatiegebied Düsseldorf, weergegeven als Maskirchen A Area in de bij deze regeling behorende [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0018272&bijlage=A&z=2006-05-20&g=2006-05-20), met uitzondering van de plaatselijke luchtverkeersleidingsgebieden, met een ondergrens vanaf 305 m (1000 ft) boven de grond en een bovengrens tot en met FL 095, voor zover lateraal begrensd door:
 
 - –. de noordgrens: de grens van het vluchtinformatiegebied Amsterdam,
 
@@ -64,7 +66,7 @@ De LVNL is belast met het geven van luchtverkeersdienstverlening volgens de rege
 
 - –. de zuid-, en westgrens: de grens van het vluchtinformatiegebied Amsterdam.
 
-- b. het deel van het vluchtinformatiegebied Düsseldorf, weergegeven als Vaals A Area in de bij deze regeling behorende [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0018272&bijlage=A&z=2005-05-12&g=2006-03-16), met een ondergrens vanaf 305 m (1000 ft) boven de grond en een bovengrens tot en met FL 095, voor zover lateraal begrensd door:
+- b. het deel van het vluchtinformatiegebied Düsseldorf, weergegeven als Vaals A Area in de bij deze regeling behorende [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0018272&bijlage=A&z=2006-05-20&g=2006-05-20), met een ondergrens vanaf 305 m (1000 ft) boven de grond en een bovengrens tot en met FL 095, voor zover lateraal begrensd door:
 
 - –. de noordgrens: de grens van het vluchtinformatiegebied Amsterdam,
 
@@ -74,7 +76,7 @@ De LVNL is belast met het geven van luchtverkeersdienstverlening volgens de rege
 
 ##### Artikel 3
 
-De LVNL is belast met het geven van luchtverkeersdienstverlening volgens de regels behorende bij luchtverkeersdienstverleningsklasse D aan vluchten in het deel van het vluchtinformatiegebied Düsseldorf, weergegeven als Maastricht CTR in de bij deze regeling behorende [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0018272&bijlage=B&z=2005-05-12&g=2006-03-16), met als ondergrens de grond en een bovengrens tot en met 915 m (3000 ft) AMSL, voor zover lateraal begrensd door:
+De LVNL is belast met het geven van luchtverkeersdienstverlening volgens de regels behorende bij luchtverkeersdienstverleningsklasse D aan vluchten in het deel van het vluchtinformatiegebied Düsseldorf, weergegeven als Maastricht CTR in de bij deze regeling behorende [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0018272&bijlage=B&z=2006-05-20&g=2006-05-20), met als ondergrens de grond en een bovengrens tot en met 915 m (3000 ft) AMSL, voor zover lateraal begrensd door:
 
 - –. de noordgrens: een lijn tussen de posities: 51°02’01” NB 005°52’38” OL, 51°00’47” NB 005°55’40” OL, en 51°00’46” NB 005°57’38” OL,
 
@@ -84,31 +86,31 @@ De LVNL is belast met het geven van luchtverkeersdienstverlening volgens de rege
 
 ##### Artikel 4
 
-De LVNL is belast met het geven van luchtverkeersdienstverlening volgens de regels behorende bij luchtverkeersdienstverleningsklasse A aan luchtverkeer in:
+De LVNL is belast met het geven van luchtverkeersdienstverlening volgens de regels behorende bij luchtverkeersdienstverleningsklasse A tussen FL 175 en FL 195 en volgens de regels behorende bij luchtverkeersdienstverleningsklasse C tussen FL 195 en FL 245 aan luchtverkeer in:
 
-- a. het deel van het vluchtinformatiegebied Londen, weergegeven als Molix Area in de bij deze regeling behorende [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0018272&bijlage=C&z=2005-05-12&g=2006-03-16), met een ondergrens van FL 175 en een bovengrens van FL 245, voor zover lateraal begrensd door:
+- a. het deel van het vluchtinformatiegebied Londen, weergegeven als Molix Area in de bij deze regeling behorende [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0018272&bijlage=C&z=2006-05-20&g=2006-05-20), voor zover lateraal begrensd door:
 
-- –. de noordgrens: een lijn tussen de posities: 53°20’00” NB 002°30’00” OL, 53°14’41” NB 003°11’02” OL, en 53°10’29” NB 003°21’58” OL,
+- –. de noordgrens: een lijn tussen de posities: 53°20'00" NB 002°30'00" OL, 53°14'41" NB 003°11'02" OL, en 53°10'29" NB 003°21'58" OL,
 
-- –. de oostgrens: een lijn tussen de posities: 53°10’29” NB 003°21’58” OL, en 52°37’04” NB 002°53’56” OL,
+- –. de oostgrens: een lijn tussen de posities: 53°10'29" NB 003°21'58" OL, en 52°37'04" NB 002°53'56" OL,
 
-- –. de zuidgrens: een lijn tussen de posities: 52°37’04” NB 002°53’56” OL, en 52°40’10” NB 002°30’00” OL,
+- –. de zuidgrens: een lijn tussen de posities: 52°37'04" NB 002°53'56" OL, en 52°40'10" NB 002°30'00" OL,
 
-- –. de westgrens: een lijn tussen de posities: 52°40’10” NB 002°30’00” OL, en 53°20’00” NB 002°30’00” OL;
+- –. de westgrens: een lijn tussen de posities: 52°40'10" NB 002°30'00" OL, en 53°20'00" NB 002°30'00" OL;
 
-- b. het deel van het vluchtinformatiegebied Londen, weergegeven als Godos Area in de bij deze regeling behorende [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0018272&bijlage=D&z=2005-05-12&g=2006-03-16), met een ondergrens van FL 175 en een bovengrens van FL 245, voor zover lateraal begrensd door:
+- b. het deel van het vluchtinformatiegebied Londen, weergegeven als Godos Area in de bij deze regeling behorende [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0018272&bijlage=D&z=2006-05-20&g=2006-05-20), voor zover lateraal begrensd door:
 
-- –. de noordgrens: een lijn tussen de posities: 53°41’48” NB 003°00’00” OL, en 53°34’11” NB 003°42’22” OL,
+- –. de noordgrens: een lijn tussen de posities: 53°41'48" NB 003°00'00" OL, en 53°34'11" NB 003°42'22" OL,
 
-- –. de oostgrens: een lijn tussen de posities: 53°34’11” NB 003°42’22” OL, en 53°10’29” NB 003°21’58” OL,
+- –. de oostgrens: een lijn tussen de posities: 53°34'11" NB 003°42'22" OL, en 53°10'29" NB 003°21'58" OL,
 
-- –. de zuidgrens: een lijn tussen de posities: 53°10’29” NB 003°21’58” OL, 53°14’41” NB 003°11’02” OL, en 53°16’08” NB 003°00’00” OL,
+- –. de zuidgrens: een lijn tussen de posities: 53°10'29" NB 003°21'58" OL, 53°14'41" NB 003°11'02" OL, en 53°16'08" NB 003°00'00" OL,
 
-- –. de westgrens: een lijn tussen de posities: 53°16’08” NB 003°00’00” OL, en 53°41’48” NB 003°00’00” OL.
+- –. de westgrens: een lijn tussen de posities: 53°16'08" NB 003°00'00" OL, en 53°41'48" NB 003°00'00" OL.
 
 ##### Artikel 5
 
-1. De LVNL geeft luchtverkeersdienstverlening in de gebieden, genoemd in de [artikelen 2 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018272&artikel=2&z=2005-05-12&g=2006-03-16), volgens de regels die zijn vastgelegd in het Verdrag inzake de internationale burgerluchtvaart (Trb. 1973, 109) en de bij dat verdrag behorende bijlagen.
+1. De LVNL geeft luchtverkeersdienstverlening in de gebieden, genoemd in de [artikelen 2 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018272&artikel=2&z=2006-05-20&g=2006-05-20), volgens de regels die zijn vastgelegd in het Verdrag inzake de internationale burgerluchtvaart (Trb. 1973, 109) en de bij dat verdrag behorende bijlagen.
 
 2. De LVNL maakt werkafspraken met luchtverkeersdiensten, die werken in aangrenzende luchtverkeersgebieden en legt deze vast in een “Letter of Agreement” tussen de desbetreffende luchtverkeersdiensten.
 
@@ -132,15 +134,15 @@ Deze regeling wordt aangehaald als: Regeling belasten LVNL met luchtverkeersdien
 
 ## Bijlage B. behorende bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0018272&artikel=3&z=2005-05-12&g=2006-03-16) van de Regeling belasten LVNL met luchtverkeersdienstverlening
 
-## Bijlage C. , behorende bij [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018272&artikel=4&z=2005-05-12&g=2006-03-16) van de Regeling belasten LVNL met luchtverkeersdienstverlening
+## Bijlage A. behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0018272&artikel=2&z=2006-05-20&g=2006-05-20) van de Regeling belasten LVNL met luchtverkeersdienstverlening
 
-## Bijlage D. , behorende bij [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018272&artikel=4&z=2005-05-12&g=2006-03-16) van de Regeling belasten LVNL met luchtverkeersdienstverlening
+## Bijlage B. behorende bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0018272&artikel=3&z=2006-05-20&g=2006-05-20) van de Regeling belasten LVNL met luchtverkeersdienstverlening
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 4a
 
-De LVNL is belast met het geven van luchtverkeersdienstverlening volgens de regels behorende bij luchtverkeersdienstverleningklasse G aan luchtverkeer in het deel van het vluchtinformatiegebied Londen, weergegeven als de North Sea Area Amsterdam in de bij deze regeling behorende [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0018272&bijlage=E&z=2006-05-20&g=2006-03-16), met een ondergrens vanaf MSL en een bovengrens tot en met 3000 ft AMSL, voor zover lateraal begrensd door:
+De LVNL is belast met het geven van luchtverkeersdienstverlening volgens de regels behorende bij luchtverkeersdienstverleningklasse G aan luchtverkeer in het deel van het vluchtinformatiegebied Londen, weergegeven als de North Sea Area Amsterdam in de bij deze regeling behorende [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0018272&bijlage=E&z=2006-05-20&g=2006-05-20), met een ondergrens vanaf MSL en een bovengrens tot en met 3000 ft AMSL, voor zover lateraal begrensd door:
 
 - –. de noordgrens: een lijn tussen de posities: 55°00'00" NB 003°03'01" OL, en 55°00'00" NB 005°00'00" OL,
 
@@ -152,7 +154,7 @@ De LVNL is belast met het geven van luchtverkeersdienstverlening volgens de rege
 
 ##### Artikel 4b
 
-De LVNL is belast met het geven van luchtverkeersdienstverlening volgens de regels behorende bij luchtverkeersdienstverleningsklasse G aan luchtverkeer in het deel van het vluchtinformatiegebied Schotland, weergegeven als de North Sea Area Amsterdam in de bij deze regeling behorende [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0018272&bijlage=E&z=2006-05-20&g=2006-03-16), met een ondergrens vanaf MSL en een bovengrens tot en met 3000 ft AMSL, voor zover lateraal begrensd door:
+De LVNL is belast met het geven van luchtverkeersdienstverlening volgens de regels behorende bij luchtverkeersdienstverleningsklasse G aan luchtverkeer in het deel van het vluchtinformatiegebied Schotland, weergegeven als de North Sea Area Amsterdam in de bij deze regeling behorende [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0018272&bijlage=E&z=2006-05-20&g=2006-05-20), met een ondergrens vanaf MSL en een bovengrens tot en met 3000 ft AMSL, voor zover lateraal begrensd door:
 
 - –. de noord-oostgrens: een lijn tussen de posities: 55°45'52" NB 003°22'08" OL, 55°19'58" NB 004°19'55" OL, en 55°00'00" NB 005°00'00" OL,
 
@@ -160,10 +162,10 @@ De LVNL is belast met het geven van luchtverkeersdienstverlening volgens de rege
 
 - –. de westgrens: een lijn tussen de posities: 55°00'00" NB 003°03'01" OL, en 55°45'52" NB 003°22'08" OL.
 
-## Bijlage C. , behorende bij [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018272&artikel=4&z=2006-05-20&g=2006-03-16) van de Regeling belasten LVNL met luchtverkeersdienstverlening
+## Bijlage C. behorende bij [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018272&artikel=4&z=2006-05-20&g=2006-05-20)
 
-## Bijlage D. , behorende bij [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018272&artikel=4&z=2006-05-20&g=2006-03-16) van de Regeling belasten LVNL met luchtverkeersdienstverlening
+## Bijlage D. behorende bij [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018272&artikel=4&z=2006-05-20&g=2006-05-20)
 
-## Bijlage E. behorende bij [artikel 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0018272&artikel=4a&z=2006-05-20&g=2006-03-16)
+## Bijlage E. behorende bij [artikel 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0018272&artikel=4a&z=2006-05-20&g=2006-05-20)
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
