@@ -4,7 +4,7 @@ identifier: "BWBV0001353"
 country: "nl"
 rank: "verdrag"
 publication_date: "2009-05-22"
-last_updated: "1998-11-08"
+last_updated: "2006-05-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0001353"
 soort: "verdrag"
@@ -84,33 +84,33 @@ Dit Verdrag is van toepassing op personen die inwoner zijn van een of van beide 
 
 1. Voor de toepassing van dit Verdrag, tenzij de context anders vereist:
 
-- a. betekent de uitdrukking „een Verdragsluitende Staat" Nederland of Estland, al naar de context vereist; betekent de uitdrukking „Verdragsluitende Staten" Nederland en Estland;
+- a. betekent de uitdrukking „een Verdragsluitende Staat” Nederland of Estland, al naar de context vereist; betekent de uitdrukking „Verdragsluitende Staten” Nederland en Estland;
 
-- b. betekent de uitdrukking „Nederland" het deel van het Koninkrijk der Nederlanden dat in Europa is gelegen, met inbegrip van het onder de Noordzee gelegen deel van de zeebodem en de ondergrond daarvan voor zover dat gebied in overeenstemming met het internationale recht krachtens de Nederlandse wetgeving is of zal worden aangemerkt als een gebied waarbinnen Nederland soevereine rechten kan uitoefenen met betrekking tot de exploratie en exploitatie van de natuurlijke rijkdommen van de zeebodem of de ondergrond daarvan;
+- b. betekent de uitdrukking „Nederland” het deel van het Koninkrijk der Nederlanden dat in Europa is gelegen, met inbegrip van het onder de Noordzee gelegen deel van de zeebodem en de ondergrond daarvan voor zover dat gebied in overeenstemming met het internationale recht krachtens de Nederlandse wetgeving is of zal worden aangemerkt als een gebied waarbinnen Nederland soevereine rechten kan uitoefenen met betrekking tot de exploratie en exploitatie van de natuurlijke rijkdommen van de zeebodem of de ondergrond daarvan;
 
-- c. betekent de uitdrukking „Estland" de Republiek Estland en, wanneer zij in aardrijkskundige zin wordt gebezigd, het grondgebied van Estland en elk gebied grenzend aan de territoriale wateren van Estland waarbinnen, op grond van de wetgeving van Estland en in overeenstemming met het internationale recht, de rechten van Estland met betrekking tot de zeebodem en de ondergrond daarvan en hun natuurlijke rijkdommen kunnen worden uitgeoefend;
+- c. betekent de uitdrukking „Estland” de Republiek Estland en, wanneer zij in aardrijkskundige zin wordt gebezigd, het grondgebied van Estland en elk gebied grenzend aan de territoriale wateren van Estland waarbinnen, op grond van de wetgeving van Estland en in overeenstemming met het internationale recht, de rechten van Estland met betrekking tot de zeebodem en de ondergrond daarvan en hun natuurlijke rijkdommen kunnen worden uitgeoefend;
 
-- d. omvat de uitdrukking „persoon" een natuurlijke persoon, een lichaam en elke andere vereniging van personen;
+- d. omvat de uitdrukking „persoon” een natuurlijke persoon, een lichaam en elke andere vereniging van personen;
 
-- e. betekent de uitdrukking „lichaam" elke rechtspersoon of elke eenheid die voor de belastingheffing als een rechtspersoon wordt behandeld;
+- e. betekent de uitdrukking „lichaam” elke rechtspersoon of elke eenheid die voor de belastingheffing als een rechtspersoon wordt behandeld;
 
-- f. betekenen de uitdrukkingen „onderneming van een Verdragsluitende Staat" en „onderneming van de andere Verdragsluitende Staat" onderscheidenlijk een onderneming gedreven door een inwoner van een Verdragsluitende Staat en een onderneming gedreven door een inwoner van de andere Verdragsluitende Staat;
+- f. betekenen de uitdrukkingen „onderneming van een Verdragsluitende Staat” en „onderneming van de andere Verdragsluitende Staat” onderscheidenlijk een onderneming gedreven door een inwoner van een Verdragsluitende Staat en een onderneming gedreven door een inwoner van de andere Verdragsluitende Staat;
 
-- g. betekent de uitdrukking „internationaal verkeer" alle vervoer met een schip of luchtvaartuig, geëxploiteerd door een onderneming van een Verdragsluitende Staat, behalve wanneer het schip of luchtvaartuig uitsluitend wordt geëxploiteerd tussen plaatsen die in de andere Verdragsluitende Staat zijn gelegen;
+- g. betekent de uitdrukking „internationaal verkeer” alle vervoer met een schip of luchtvaartuig, geëxploiteerd door een onderneming van een Verdragsluitende Staat, behalve wanneer het schip of luchtvaartuig uitsluitend wordt geëxploiteerd tussen plaatsen die in de andere Verdragsluitende Staat zijn gelegen;
 
-- h. betekent de uitdrukking „onderdaan":
+- h. betekent de uitdrukking „onderdaan”:
 
 - 1. iedere natuurlijke persoon die de nationaliteit van een Verdragsluitende Staat bezit;
 
 - 2. iedere rechtspersoon, vennootschap en vereniging die zijn rechtspositie als zodanig ontleent aan de wetgeving die in een Verdragsluitende Staat van kracht is;
 
-- i. betekent de uitdrukking „bevoegde autoriteit":
+- i. betekent de uitdrukking „bevoegde autoriteit”:
 
 - 1. in Nederland de Minister van Financiën of zijn bevoegde vertegenwoordiger;
 
 - 2. in Estland de Minister van Financiën of zijn bevoegde vertegenwoordiger.
 
-2. Voor de toepassing van het Verdrag door een Verdragsluitende Staat heeft, tenzij de context anders vereist, elke daarin niet omschreven uitdrukking de betekenis welke die uitdrukking heeft volgens de wetgeving van die Staat met betrekking tot de belastingen waarop het Verdrag van toepassing is.
+2. Voor de toepassing van het Verdrag op enig moment door een Verdragsluitende Staat heeft, tenzij de context anders vereist, elke daarin niet omschreven uitdrukking de betekenis welke die uitdrukking op dat moment heeft volgens de wetgeving van die Staat met betrekking tot de belastingen waarop het Verdrag van toepassing is, waarbij elke betekenis volgens de toepasselijke belastingwetgeving van die Staat prevaleert boven een betekenis die volgens andere wetgeving van die Staat aan die uitdrukking wordt gegeven.
 
 ##### Artikel 4. Inwoner
 
@@ -262,11 +262,13 @@ en in het ene of in het andere geval tussen de beide ondernemingen in hun handel
 
 - c. is interest afkomstig uit een Verdragsluitende Staat ter zake van een lening, gegarandeerd of verzekerd door een van de lichamen als genoemd of bedoeld in onderdeel a of onderdeel b en betaald aan een inwoner van de andere Verdragsluitende Staat alleen belastbaar in die andere Staat;
 
-- d. is interest afkomstig uit een Verdragsluitende Staat alleen belastbaar in de andere Verdragsluitende Staat indien de genieter een inwoner van die andere Staat is en deze genieter een onderneming van die andere Staat is en de uiteindelijk gerechtigde van de interest is, en de interest wordt betaald ter zake van een schuld ontstaan uit de verkoop op krediet van koopwaar of nijverheids-, handels- of wetenschappelijke uitrusting door die onderneming aan een onderneming van de eerstbedoelde Staat, behoudens waar het een verkoop of schuld betreft tussen gelieerde personen.
+- d. is interest afkomstig uit een Verdragsluitende Staat alleen belastbaar in de andere Verdragsluitende Staat indien de genieter een inwoner van die andere Staat is en deze genieter een onderneming van die andere Staat is en de uiteindelijk gerechtigde van de interest is, en de interest wordt betaald ter zake van een schuld ontstaan uit de verkoop op krediet van koopwaar of nijverheids-, handels- of wetenschappelijke uitrusting door die onderneming aan een onderneming van de eerstbedoelde Staat, behoudens waar het een verkoop of schuld betreft tussen gelieerde personen;
+
+- e. is interest afkomstig uit een Verdragsluitende Staat ter zake van een lening, ongeacht van welke aard, verstrekt aan een onderneming van die Staat door een bank van de andere Verdragsluitende Staat alleen belastbaar in die andere Staat.
 
 4. De bevoegde autoriteiten van de Verdragsluitende Staten regelen in onderlinge overeenstemming de wijze van toepassing van het tweede en derde lid.
 
-5. De uitdrukking „interest" zoals gebezigd in dit artikel betekent inkomsten uit schuldvorderingen van welke aard ook, al dan niet verzekerd door hypotheek, doch niet aanspraak gevend op een aandeel in de winst van de schuldenaar, en in het bijzonder inkomsten uit overheidsleningen en inkomsten uit obligaties of schuldbewijzen, waaronder begrepen de aan zodanige leningen, obligaties of schuldbewijzen verbonden premies en prijzen. In rekening gebrachte boete voor te late betaling wordt voor de toepassing van dit artikel niet als interest aangemerkt.
+5. De uitdrukking „interest” zoals gebezigd in dit artikel betekent inkomsten uit schuldvorderingen van welke aard ook, al dan niet verzekerd door hypotheek, doch niet aanspraak gevend op een aandeel in de winst van de schuldenaar, en in het bijzonder inkomsten uit overheidsleningen en inkomsten uit obligaties of schuldbewijzen, waaronder begrepen de aan zodanige leningen, obligaties of schuldbewijzen verbonden premies en prijzen. In rekening gebrachte boete voor te late betaling wordt voor de toepassing van dit artikel niet als interest aangemerkt.
 
 6. De bepalingen van het eerste, tweede en derde lid zijn niet van toepassing indien de uiteindelijk gerechtigde tot de interest, die inwoner is van een Verdragsluitende Staat, in de andere Verdragsluitende Staat waaruit de interest afkomstig is een bedrijf uitoefent door middel van een aldaar gevestigde vaste inrichting of in die andere Staat zelfstandige arbeid verricht vanuit een aldaar gevestigd vast middelpunt, en de vordering uit hoofde waarvan de interest wordt betaald, tot het bedrijfsvermogen van die vaste inrichting of tot het beroepsvermogen van dat vaste middelpunt behoort. In dat geval zijn naar gelang van het geval de bepalingen van artikel 7 of artikel 14 van toepassing.
 
@@ -402,15 +404,19 @@ Betalingen die een student of een voor een beroep of bedrijf in opleiding zijnde
 
 3. Nederland verleent voorts een aftrek op de aldus berekende Nederlandse belasting voor die bestanddelen van het inkomen of vermogen die volgens artikel 10, tweede lid, artikel 11, tweede lid, artikel 12, tweede lid, artikel 13, vijfde lid, artikel 16, artikel 17, artikel 18, tweede lid, en artikel 23, eerste en tweede lid, van dit Verdrag in Estland mogen worden belast in zoverre deze bestanddelen in de in het eerste lid bedoelde grondslag zijn begrepen. Het bedrag van deze aftrek is gelijk aan de in Estland over deze bestanddelen van het inkomen of vermogen betaalde belasting, maar bedraagt niet meer dan het bedrag van de vermindering die zou zijn verleend indien de aldus in het inkomen of vermogen begrepen bestanddelen van het inkomen of vermogen de enige bestanddelen van het inkomen of vermogen zouden zijn geweest die uit hoofde van de bepalingen in de Nederlandse wetgeving tot het vermijden van dubbele belasting van Nederlandse belasting zijn vrijgesteld.
 
-4. In Estland wordt dubbele belasting als volgt voorkomen:
+4. In Estland wordt dubbele belasting als volgt vermeden:
 
-- a. Indien een inwoner van Estland inkomen verkrijgt of vermogen bezit dat overeenkomstig dit Verdrag in Nederland mag worden belast, verleent Estland, tenzij in zijn nationale wetgeving een gunstiger behandeling is voorzien: In elk van beide gevallen overschrijdt deze aftrek echter niet dat deel van de belasting naar het inkomen of het vermogen, zoals in Estland berekend vóór het verlenen van de vermindering, dat naar gelang van het geval kan worden toegerekend aan het inkomen of het vermogen dat in Nederland mag worden belast.
+- a. Indien een inwoner van Estland inkomen verkrijgt dat in overeenstemming met de bepalingen van dit Verdrag in Nederland mag worden belast, stelt Estland dat inkomen in overeenstemming met het bepaalde in de onderdelen b en c vrij van belasting.
 
-- i. als een aftrek op de inkomstenbelasting van die inwoner, een bedrag gelijk aan de inkomstenbelasting die daarover in Nederland is betaald;
+- b. Indien een inwoner van Estland inkomen verkrijgt of vermogen bezit dat in overeenstemming met het bepaalde in:
 
-- ii. als een aftrek op de vermogensbelasting van die inwoner, een bedrag gelijk aan de vermogensbelasting die daarover in Nederland is betaald.
+- i. artikel 10, tweede lid, onderdeel b; of
 
-- b. Indien een lichaam dat inwoner is van Estland een dividend ontvangt van een lichaam dat inwoner is van Nederland en waarvan het tenminste 10 procent van de aandelen met volledig stemrecht bezit, wordt, voor de toepassing van onderdeel a), onder de in Nederland betaalde belasting niet alleen begrepen de belasting betaald over het dividend, maar ook de belasting over de onderliggende winsten van het lichaam waaruit het dividend was betaald.
+- ii. artikel 11, tweede lid, of artikel 12, tweede lid; of
+
+- iii. artikel 23, eerste of tweede lid in Nederland mag worden belast, verleent Estland als een aftrek op de belasting naar het inkomen of naar het vermogen van die inwoner een bedrag gelijk aan de belasting betaald in Nederland. Deze aftrek bedraagt in beide gevallen echter niet meer dan het gedeelte van de inkomstenbelasting of de vermogensbelasting, zoals berekend voordat de aftrek is verleend, dat toerekenbaar is aan het inkomen of het vermogen dat in Nederland mag worden belast.
+
+- c. Indien inkomen verkregen door een inwoner van Estland volgens een bepaling van het Verdrag in Estland van belasting is vrijgesteld, mag Estland niettemin bij de berekening van het bedrag van de belasting over het resterende inkomen van die inwoner, het vrijgestelde inkomen in aanmerking nemen.
 
 Voor de toepassing van dit lid worden de belastingen genoemd in artikel 2, derde lid, onderdeel a, en vierde lid, anders dan de vermogensbelasting, beschouwd als inkomstenbelasting.
 
@@ -476,7 +482,7 @@ Voor de toepassing van dit lid omvat de uitdrukking „pensioenregeling” mede 
 
 4. De bevoegde autoriteiten van de Verdragsluitende Staten kunnen zich rechtstreeks met elkaar in verbinding stellen ten einde een overeenstemming als bedoeld in de voorgaande leden te bereiken.
 
-5. Wanneer moeilijkheden of twijfelpunten die zijn gerezen met betrekking tot de uitlegging of toepassing van het Verdrag niet binnen een tijdvak van twee jaar nadat de vraag is gerezen opgelost kunnen worden door de bevoegde autoriteiten van de Verdragsluitende Staten in een procedure voor onderling overleg ingevolge de voorgaande leden van dit artikel, kan het geval op verzoek van een van de Verdragsluitende Staten worden voorgelegd voor arbitrage, echter alleen nadat de procedures die beschikbaar zijn op grond van het eerste tot en met het vierde lid van dit artikel volledig zijn uitgeput en mits de bevoegde autoriteit van de andere Verdragsluitende Staat daarmee instemt en de betrokken belastingplichtige of belastingplichtigen er schriftelijk mee instemmen te zijn gebonden door de beslissing van de arbitragecommissie. De beslissing van de arbitragecommissie in een bepaald geval is voor dat geval bindend voor beide Verdragsluitende Staten en de betrokken belastingplichtige of belastingplichtigen.
+5. Wanneer moeilijkheden of twijfelpunten die zijn gerezen met betrekking tot de uitlegging of toepassing van het Verdrag niet binnen een tijdvak van twee jaar nadat de vraag is gerezen opgelost kunnen worden door de bevoegde autoriteiten van de Verdragsluitende Staten in een procedure voor onderling overleg ingevolge de voorgaande leden van dit artikel, kan het geval op verzoek van een van de Verdragsluitende Staten worden voorgelegd voor arbitrage, echter alleen nadat de procedures die beschikbaar zijn op grond van het eerste tot en met het vierde lid van dit artikel volledig zijn uitgeput en mits de betrokken belastingplichtige of belastingplichtigen er schriftelijk mee instemmen te zijn gebonden door de beslissing van de arbitragecommissie. De beslissing van de arbitragecommissie in een bepaald geval is voor dat geval bindend voor beide Verdragsluitende Staten en de betrokken belastingplichtige of belastingplichtigen.
 
 ##### Artikel 28. Uitwisseling van inlichtingen
 
@@ -580,9 +586,7 @@ Wanneer aan de bron belasting is geheven die het belastingbedrag dat ingevolge d
 
 ##### IX. Ad artikel 11
 
-De Verdragsluitende Staten bevestigen dat zij bijeen komen op een nader overeen te komen datum en onder voorwaarde dat er vijf jaren sinds de inwerkingtreding van dit Verdrag zijn verlopen, met het doel te onderhandelen over het door middel van een protocol tot nul verminderen van het belastingtarief dat in de Verdragsluitende Staat onder het tweede lid van artikel 11 wordt geheven ter zake van een lening van enigerlei aard die aan een onderneming van die Staat is verstrekt door een bank van de andere Verdragsluitende Staat.
-
-De Verdragsluitende Staten komen verder overeen dat, wanneer als gevolg van de totstandkoming van een verdrag tussen Estland en een derde Staat die op het tijdstip van ondertekening van dit Verdrag lid is van de Organisatie voor Economische Samenwerking en Ontwikkeling, een inwoner van die derde Staat ter zake van interest betaald vanwege een lening van enigerlei aard die aan een onderneming is verstrekt door een bank recht heeft op een belastingtarief dat lager is dan het tarief neergelegd in het tweede lid van artikel 11, en dat Verdrag in werking treedt voor dan wel na de datum van inwerkingtreding van dit Verdrag, de bevoegde autoriteit van Estland onmiddellijk na de inwerkingtreding van dat Verdrag met een derde Staat de bevoegde autoriteiten van Nederland in kennis stelt van dat Verdrag en dat dat lagere belastingtarief in de plaats wordt gesteld in artikel 11 voor het tarief in artikel 11, tweede lid, wat betreft een lening van enigerlei aard die door een bank aan een onderneming is verstrekt, welk tarief van kracht wordt op de datum van inwerkingtreding van dat Verdrag of van het onderhavige Verdrag, afhankelijk van welke datum de laatste is.
+Vervallen
 
 ##### X. Ad artikel 12
 
