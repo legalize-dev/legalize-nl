@@ -4,7 +4,7 @@ identifier: "BWBR0008985"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-07-01"
-last_updated: "1997-12-01"
+last_updated: "2006-05-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008985"
 soort: "AMvB"
@@ -68,7 +68,7 @@ Onverminderd artikel 33 van de wet, wordt tot het gebied van deskundigheid van d
 
 ##### Artikel 3
 
-Onverminderd [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008985&artikel=2&z=1997-12-01&g=1997-12-01), worden tot het gebied van deskundigheid van de ambulanceverpleegkundige gerekend het zonder toezicht door en tussenkomst van de opdrachtgever:
+Onverminderd [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008985&artikel=2&z=2006-05-24&g=2006-05-24), worden tot het gebied van deskundigheid van de ambulanceverpleegkundige gerekend het zonder toezicht door en tussenkomst van de opdrachtgever:
 
 - a. toepassen van electieve cardioversie;
 
@@ -82,7 +82,7 @@ Onverminderd [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008985&artikel
 
 ##### Artikel 4
 
-Onverminderd [artikel 17 van het Besluit diëtist, ergotherapeut, logopedist, mondhygiënist, oefentherapeut, orthoptist en podotherapeut](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&artikel=17) wordt tot het gebied van deskundigheid van de mondhygiënist gerekend het zonder toezicht door en tussenkomst van de opdrachtgever toepassen van lokale anesthesie door het geven van een injectie.
+Onverminderd [artikel 17 van het Besluit diëtist, ergotherapeut, logopedist, mondhygiënist, oefentherapeut, orthoptist en podotherapeut](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&artikel=17) wordt tot het gebied van deskundigheid van de mondhygiënist gerekend het zonder toezicht door en tussenkomst van de opdrachtgever toepassen van lokale anesthesie door het geven van een injectie alsmede het behandelen van primaire caviteiten door middel van preparatie ten behoeve van restauratie met plastische vulmaterialen.
 
 ##### Artikel 5
 
