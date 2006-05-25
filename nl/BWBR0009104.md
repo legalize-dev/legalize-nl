@@ -4,7 +4,7 @@ identifier: "BWBR0009104"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-10-01"
-last_updated: "2004-08-01"
+last_updated: "2006-05-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009104"
 soort: "ministeriele-regeling"
@@ -57,7 +57,7 @@ de volgende voorschriften vast te stellen ten aanzien van de toepassing, de plaa
 
 ##### Paragraaf 3. Tijdelijke toepassing van verkeerstekens
 
-5. Bij tijdelijke toepassing van verkeerstekens en onderborden, overeenkomstig het bepaalde in paragraaf 8 van het BABW, mag in spoedeisende gevallen van de voorschriften in de [hoofdstukken II](https://wetten.overheid.nl/jci1.3:c:BWBR0009104&hoofdstuk=II&z=2004-08-01&g=2004-08-01) en [III](https://wetten.overheid.nl/jci1.3:c:BWBR0009104&hoofdstuk=III&z=2004-08-01&g=2004-08-01) worden afgeweken. Dergelijke afwijkingen worden zo spoedig mogelijk gecorrigeerd.
+5. Bij tijdelijke toepassing van verkeerstekens en onderborden, overeenkomstig het bepaalde in paragraaf 8 van het BABW, mag in spoedeisende gevallen van de voorschriften in de [hoofdstukken II](https://wetten.overheid.nl/jci1.3:c:BWBR0009104&hoofdstuk=II&z=2006-05-25&g=2006-05-25) en [III](https://wetten.overheid.nl/jci1.3:c:BWBR0009104&hoofdstuk=III&z=2006-05-25&g=2006-05-25) worden afgeweken. Dergelijke afwijkingen worden zo spoedig mogelijk gecorrigeerd.
 
 ### Hoofdstuk II. Verkeersborden
 
@@ -153,7 +153,7 @@ Niet retroreflecterend behoeven te zijn:
 
 - borden in verschijnuitvoering of transparante uitvoering.
 
-18. Bewegwijzering ten behoeve van voetgangers mag in afwijking van het bepaalde in het [derde lid, eerste volzin, van artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009104&hoofdstuk=II&paragraaf=4&z=2004-08-01&g=2004-08-01) van het BABW bestaan uit een rechthoekig bord, waarop de letters, cijfers of symbolen in een veld zijn geplaatst van andere kleur dan blauw.
+18. Bewegwijzering ten behoeve van voetgangers mag in afwijking van het bepaalde in het [derde lid, eerste volzin, van artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009104&hoofdstuk=II&paragraaf=4&z=2006-05-25&g=2006-05-25) van het BABW bestaan uit een rechthoekig bord, waarop de letters, cijfers of symbolen in een veld zijn geplaatst van andere kleur dan blauw.
 
 ##### Paragraaf 4. Voorschriften voor de afzonderlijke borden
 
@@ -187,7 +187,7 @@ Niet retroreflecterend behoeven te zijn:
 
 - bij gevarenpunten: 60, 50 km/h.
 
-3. Binnen de bebouwde kom mag bord A1 worden geplaatst in afwijking van het bepaalde in [Hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0009104&hoofdstuk=II&z=2004-08-01&g=2004-08-01), Paragraaf 1 onder punt 2, om zonodig te herinneren aan de algemene snelheidslimiet van 50 km/h.
+3. Binnen de bebouwde kom mag bord A1 worden geplaatst in afwijking van het bepaalde in [Hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0009104&hoofdstuk=II&z=2006-05-25&g=2006-05-25), Paragraaf 1 onder punt 2, om zonodig te herinneren aan de algemene snelheidslimiet van 50 km/h.
 
 4. 30 km/h en 30 km/h-zone, 60 km/h en 60 km/h-zone
 
@@ -307,7 +307,7 @@ Het bord wordt niet toegepast bij de overgang naar een lagere maximumsnelheid, o
 
 1. Het bord wordt geplaatst bij of voor de ingang van de tunnels, genoemd in het Reglement vervoer over land van gevaarlijke stoffen.
 
-2. Het bord wordt voorzien van een onderbord overeenkomstig het bepaalde in artikel 10 van [hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0009104&hoofdstuk=II&z=2004-08-01&g=2004-08-01) van bijlage 2 van het hiervoor genoemde reglement.
+2. Het bord wordt voorzien van een onderbord overeenkomstig het bepaalde in artikel 10 van [hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0009104&hoofdstuk=II&z=2006-05-25&g=2006-05-25) van bijlage 2 van het hiervoor genoemde reglement.
 
 1. Op autosnelwegen en autowegen wordt een vooraanduiding in de vorm van bord L10 geplaatst.
 
@@ -530,6 +530,20 @@ Plaatsing
 1. De plaatsing van een bord L4 geschiedt op enige afstand voor het begin van de voorsorteervakken.
 
 1. De plaatsing van een bord L5 geschiedt voor het einde van de rijstrook of het begin van het verdrijvingsvlak.
+
+- 1. Het bord wordt geplaatst voor elke tunnel, langer dan 250 meter.
+
+- 2. De lengte van de tunnel wordt vermeld in het onderste deel van het bord.
+
+- 3. De naam van de tunnel kan op het bord of op een onderbord worden aangegeven.
+
+- 4. Bij tunnels, langer dan 3000 meter, wordt de resterende lengte van de tunnel om de 1000 meter aangegeven.
+
+Het bord wordt aan elke ingang van de tunnel geplaatst.
+
+De aanwezigheid van noodtelefoons en brandblusapparaten wordt aangegeven met bord L 18.
+
+Het bord wordt om de 25 meter op een hoogte van ten hoogste 1,5 meter boven het wegdek op de tunnelwanden geplaatst om aan te geven waar zich de twee dichtstbijzijnde uitgangen bevinden.
 
 ### Hoofdstuk III. Onderborden
 
