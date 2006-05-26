@@ -4,7 +4,7 @@ identifier: "BWBR0012681"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-08"
-last_updated: "2005-08-18"
+last_updated: "2006-05-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012681"
 soort: "ministeriele-regeling"
@@ -120,13 +120,27 @@ Als gespen behorende bij de Herinneringsmedaille Vredesoperaties worden ingestel
 
 - 2°. de NATO Training Mission-Iraq ‘NTM-I’, voor zover deze deelname heeft plaatsgehad op het grondgebied van en in het luchtruim boven Irak: NAVO OPERATIES;
 
-- ee. voor deelname aan de operatie van de Europese Unie EUPOL, voor zover deze deelname heeft plaatsgehad op het grondgebied van en in het luchtruim boven de volksrepubliek Congo: EU OPERATIES;
+- ee. voor deelname aan operaties van de Europese Unie:
+
+- 1°. de EU politiemissie ‘EUPOL-Kinshasa’, voor zover deze deelname heeft plaatsgehad op het grondgebied van en in het luchtruim boven de Democratische Republiek Congo vanaf maart 2005;
+
+- 2°. de Aceh Monitoring Mission, ‘AMM’, voor zover deze deelname heeft plaatsgehad op het grondgebied van en in het luchtruim boven Indonesië vanaf september 2005;
+
+- 3°. de Border Assistance Mission, ‘EUBAM’, voor zover deelname heeft plaatsgehad op Israëlisch-Palestijns grondgebied en luchtruim daarboven vanaf februari 2006;
+
+- 4°. de EU Security missie ‘EUSEC’ en de EU Security-Financial missie ‘EUSEC-FIN’, voor zover deze deelname heeft plaatsgehad op het grondgebied van en in het luchtruim boven de Democratische Republiek Congo vanaf mei 2006: EU OPERATIES;
 
 - ff. voor deelname aan operaties van de Organisatie voor Veiligheid en Samenwerking in Europa:
 
 - 1°. de OVSE missie Kosovo Police Service School vanaf september 2001;
 
-- 2°. de OVSE opleidingsmissie in Servië en Montenegro vanaf 2003: OVSE OPERATIES.
+- 2°. de OVSE opleidingsmissie in Servië en Montenegro vanaf 2003: OVSE OPERATIES;
+
+- gg. voor deelname aan operaties in Multinationaal verband:
+
+- 1°. de African Union Mission in Sudan, ‘AMIS’, voor zover deze deelname heeft plaatsgehad op en rondom het grondgebied van en in het luchtruim boven Sudan vanaf juni 2005;
+
+- 2°. het International Military Advisory Team in Sudan, ‘IMAT’, voor zover deze deelname heeft plaatsgehad op en rondom het grondgebied van en in het luchtruim boven Sudan vanaf november 2005: MULTINATIONALE OPERATIES.
 
 ##### Artikel 2
 
