@@ -4,7 +4,7 @@ identifier: "BWBV0001006"
 country: "nl"
 rank: "verdrag"
 publication_date: "2006-06-01"
-last_updated: "1982-03-01"
+last_updated: "2006-06-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0001006"
 soort: "verdrag"
@@ -285,19 +285,7 @@ De aangezochte Partij zal de verzoekende Partij, indien zij daarom uitdrukkelijk
 
 ##### Artikel 27
 
-1. De ambtenaren van een Partij, die in hun eigen land een persoon achtervolgen die verdacht wordt van een feit dat aanleiding kan geven tot uitlevering, zijn bevoegd bij die achtervolging het grondgebied van een andere Partij te betreden. Zij zullen onmiddellijk een beroep moeten doen op de bevoegde ambtenaren van de Partij, waarvan zij het grondgebied hebben betreden; deze zullen op hun verzoek de achtervolgde persoon staande houden om zijn identiteit vast te stellen of zijn aanhouding te bewerkstelligen. In dit laatste geval zal worden gehandeld overeenkomstig het bepaalde in artikel 15, behalve wanneer het gaat om een onderdaan van de Partij op wiens grondgebied de betrokkene is staande gehouden.
-
-2. Indien de achtervolging echter niet onderbroken is en het spoedeisend karakter van hun optreden het onmogelijk maakt een beroep te doen op de plaatselijke autoriteiten, zullen de ambtenaren van de andere Partij, binnen een zone van tien kilometer van de grens, zelf de achtervolgde persoon kunnen staande houden en hem met het in het vorige lid vermelde doel voor de plaatselijke openbare macht kunnen geleiden.
-
-3. Voor het overige zal, indien daartoe aanleiding bestaat, worden gehandeld overeenkomstig het bepaalde in artikel 26, zelfs wanneer de daar bedoelde rogatoire commissie niet aanwezig is.
-
-4. De ambtenaren bedoeld in de voorgaande leden zijn:
-
-voor wat betreft België en Luxemburg, de leden van de gerechtelijke politie bij de parketten en van de rijkswacht;
-
-voor wat betreft Nederland, de leden van de Rijkspolitie;
-
-voor de drie landen, de leden van de gemeentepolitie, behorende tot gemeenten waarvan het grondgebied zich op een afstand van minder dan tien kilometer van de grens bevindt.
+Vervallen
 
 ##### Artikel 28
 
@@ -355,7 +343,7 @@ Zijn echter de tarieven in het land waarin de getuige of deskundige zijn woon- o
 
 ##### Artikel 34
 
-De getuige die zonder geldige reden niet voldoet aan de verplichtingen welke op grond van een dagvaarding als bedoeld in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBV0001006&artikel=31&z=1982-03-01&g=1982-03-01) op hem rusten, zal in het aangezochte land onder de strafbepalingen vallen welke de wetgeving van dat land voorziet tegen getuigen die niet aan hun verplichtingen voldoen.
+De getuige die zonder geldige reden niet voldoet aan de verplichtingen welke op grond van een dagvaarding als bedoeld in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBV0001006&artikel=31&z=2006-06-01&g=2006-06-01) op hem rusten, zal in het aangezochte land onder de strafbepalingen vallen welke de wetgeving van dat land voorziet tegen getuigen die niet aan hun verplichtingen voldoen.
 
 ##### Artikel 35
 
@@ -365,7 +353,7 @@ De getuige die zonder geldige reden niet voldoet aan de verplichtingen welke op 
 
 3. De in dit artikel bedoelde immuniteit neemt een einde wanneer de getuige, de deskundige of de verdachte, hoewel hij gedurende vijftien achtereenvolgende dagen na het tijdstip, waarop zijn aanwezigheid niet meer door de rechterlijke autoriteit werd vereist, de mogelijkheid had het grondgebied van de verzoekende Partij te verlaten, daar desalniettemin is gebleven of op dat grondgebied is teruggekeerd na het te hebben verlaten.
 
-4. De bepalingen van dit artikel zijn van toepassing op een persoon die tijdelijk is overgebracht dan wel vrijwillig is verschenen, zowel op het grondgebied van de Partij die de doortocht heeft toegestaan als op dat van de verzoekende Partij; behoudens het bepaalde in [artikel 33, leden 2 en 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001006&artikel=33&z=1982-03-01&g=1982-03-01).
+4. De bepalingen van dit artikel zijn van toepassing op een persoon die tijdelijk is overgebracht dan wel vrijwillig is verschenen, zowel op het grondgebied van de Partij die de doortocht heeft toegestaan als op dat van de verzoekende Partij; behoudens het bepaalde in [artikel 33, leden 2 en 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001006&artikel=33&z=2006-06-01&g=2006-06-01).
 
 #### § 5. Strafregister
 
