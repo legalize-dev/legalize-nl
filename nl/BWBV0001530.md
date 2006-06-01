@@ -4,7 +4,7 @@ identifier: "BWBV0001530"
 country: "nl"
 rank: "verdrag"
 publication_date: "2006-06-01"
-last_updated: "2001-02-23"
+last_updated: "2006-06-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0001530"
 soort: "verdrag"
@@ -64,7 +64,7 @@ De onderdanen van de Benelux-Staten die houder zijn van een geldig nationaal dip
 
 ##### Artikel 4
 
-Met uitzondering van de ambtenaren van de diplomatieke en consulaire vertegenwoordigingen, alsmede van de ambtenaren van internationale organisaties die zijn benoemd om hun functie in één van de landen van de ondertekenende Regeringen uit te oefenen, dienen de in de [paragrafen 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001530&artikel=2&z=2001-02-23&g=2001-02-23) en [3](https://wetten.overheid.nl/jci1.3:c:BWBV0001530&artikel=3&z=2001-02-23&g=2001-02-23) genoemde personen, voor een verblijf van meer dan drie maanden, hiertoe vóór hun vertrek het visum te hebben verkregen door bemiddeling van de diplomatieke of consulaire vertegenwoordiger van het land waarheen zij zich wensen te begeven.
+Met uitzondering van de ambtenaren van de diplomatieke en consulaire vertegenwoordigingen, alsmede van de ambtenaren van internationale organisaties die zijn benoemd om hun functie in één van de landen van de ondertekenende Regeringen uit te oefenen, dienen de in de [paragrafen 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001530&artikel=2&z=2006-06-01&g=2006-06-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBV0001530&artikel=3&z=2006-06-01&g=2006-06-01) genoemde personen, voor een verblijf van meer dan drie maanden, hiertoe vóór hun vertrek het visum te hebben verkregen door bemiddeling van de diplomatieke of consulaire vertegenwoordiger van het land waarheen zij zich wensen te begeven.
 
 ##### Artikel 5
 
