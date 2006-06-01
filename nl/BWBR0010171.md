@@ -4,7 +4,7 @@ identifier: "BWBR0010171"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-11-01"
-last_updated: "2005-07-01"
+last_updated: "2006-06-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010171"
 soort: "ministeriele-regeling"
@@ -74,13 +74,13 @@ In deze regeling wordt verstaan onder:
 
 - m. verlof: het, al dan niet onder begeleiding of bewaking, tijdelijk verlaten van de inrichting voor één van de in deze regeling genoemde doeleinden.
 
-- n. algemeen verlof: verlof als bedoeld in de [artikelen 14 tot en met 18](https://wetten.overheid.nl/jci1.3:c:BWBR0010171&hoofdstuk=2&artikel=14&z=2005-07-01&g=2005-07-01) van deze regeling;
+- n. algemeen verlof: verlof als bedoeld in de [artikelen 14 tot en met 18](https://wetten.overheid.nl/jci1.3:c:BWBR0010171&hoofdstuk=2&artikel=14&z=2006-06-01&g=2006-06-01) van deze regeling;
 
-- o. regimesgebonden verlof: verlof als bedoeld in de [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBR0010171&hoofdstuk=3&artikel=19&z=2005-07-01&g=2005-07-01) en [20](https://wetten.overheid.nl/jci1.3:c:BWBR0010171&hoofdstuk=3&artikel=20&z=2005-07-01&g=2005-07-01) van deze regeling;
+- o. regimesgebonden verlof: verlof als bedoeld in de [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBR0010171&hoofdstuk=3&artikel=19&z=2006-06-01&g=2006-06-01) en [20](https://wetten.overheid.nl/jci1.3:c:BWBR0010171&hoofdstuk=3&artikel=20&z=2006-06-01&g=2006-06-01) van deze regeling;
 
-- p. incidenteel verlof: verlof als bedoeld in de [artikelen 21 tot en met 33](https://wetten.overheid.nl/jci1.3:c:BWBR0010171&hoofdstuk=4&artikel=21&z=2005-07-01&g=2005-07-01) van deze regeling;
+- p. incidenteel verlof: verlof als bedoeld in de [artikelen 21 tot en met 33](https://wetten.overheid.nl/jci1.3:c:BWBR0010171&hoofdstuk=4&artikel=21&z=2006-06-01&g=2006-06-01) van deze regeling;
 
-- q. strafonderbreking: opschorting van de tenuitvoerlegging van de vrijheidsstraf als bedoeld in de [artikelen 34 tot en met 40](https://wetten.overheid.nl/jci1.3:c:BWBR0010171&hoofdstuk=5&artikel=34&z=2005-07-01&g=2005-07-01) van deze regeling;
+- q. strafonderbreking: opschorting van de tenuitvoerlegging van de vrijheidsstraf als bedoeld in de [artikelen 34 tot en met 40](https://wetten.overheid.nl/jci1.3:c:BWBR0010171&hoofdstuk=5&artikel=34&z=2006-06-01&g=2006-06-01) van deze regeling;
 
 - r. vervolgverlof: een verlof dat volgt op een zonder incidenten verlopen eerder algemeen verlof;
 
@@ -94,13 +94,13 @@ In deze regeling wordt verstaan onder:
 
 1. De directeur neemt het verzoek om verlof in ontvangst.
 
-2. De minister beslist over verzoeken om verlof in de gevallen bedoeld in de [artikelen 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010171&hoofdstuk=2&artikel=17&z=2005-07-01&g=2005-07-01), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0010171&hoofdstuk=4&artikel=32&z=2005-07-01&g=2005-07-01) en [39](https://wetten.overheid.nl/jci1.3:c:BWBR0010171&hoofdstuk=5&artikel=39&z=2005-07-01&g=2005-07-01). In de overige gevallen beslist de directeur namens de minister.
+2. De minister beslist over verzoeken om verlof in de gevallen bedoeld in de [artikelen 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010171&hoofdstuk=2&artikel=17&z=2006-06-01&g=2006-06-01), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0010171&hoofdstuk=4&artikel=32&z=2006-06-01&g=2006-06-01) en [39](https://wetten.overheid.nl/jci1.3:c:BWBR0010171&hoofdstuk=5&artikel=39&z=2006-06-01&g=2006-06-01). In de overige gevallen beslist de directeur namens de minister.
 
 ##### Artikel 3. Inlichtingen en adviezen
 
 1. Na ontvangst van het verzoek om verlof wint de directeur alle benodigde inlichtingen en adviezen in.
 
-2. Betreft het een verzoek om incidenteel verlof van een gedetineerde in voorlopige hechtenis, of een verzoek om een andere vorm van verlof van een gedetineerde ten aanzien van wie en voor zolang het openbaar ministerie een executie-indicator zoals bedoeld in [artikel 1 onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&artikel=1) van het besluit heeft geplaatst, dan vraagt de directeur het openbaar ministerie om advies. Bij aanvragen om incidenteel verlof van gedetineerden die verblijven in een beperkt beveiligde inrichting of een zeer beperkt beveiligde inrichting wordt in het algemeen van een adviesaanvraag van het openbaar ministerie afgezien, tenzij de directeur meent dat er een specifieke individuele aanleiding voor een adviesaanvraag bestaat.
+2. Betreft het een verzoek om verlof van een gedetineerde in voorlopige hechtenis, of een verzoek om verlof van een gedetineerde ten aanzien van wie en voor zolang het openbaar ministerie een executie-indicator zoals bedoeld in [artikel 1 onder c van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&artikel=1) heeft geplaatst, dan vraagt de directeur het openbaar ministerie om advies.
 
 3. De directeur kan zich tevens laten adviseren door de reclassering, de politie of hulpverleners. Inlichtingen van niet aan de inrichting verbonden artsen, psychiaters en psychologen kunnen slechts worden ingewonnen met schriftelijke toestemming van de betrokkene.
 
@@ -154,7 +154,7 @@ Het verlof wordt geweigerd in geval van:
 
 ##### Artikel 8. Tenuitvoerlegging straf tijdens verlof
 
-Gedurende het algemeen verlof, het regimesgebonden verlof, het incidenteel verlof en het verlof tijdens verblijf in een inrichting voor stelselmatige daders loopt de tenuitvoerlegging van de straf ofwel de maatregel door, gedurende de strafonderbreking wordt de tenuitvoerlegging van de straf opgeschort. In het geval bedoeld in [artikel 10, tweede lid onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0010171&hoofdstuk=1&artikel=10&z=2005-07-01&g=2005-07-01), en in geval van ziekte wordt de tenuitvoerlegging geschorst vanaf het moment dat de gedetineerde terug had moeten keren.
+Gedurende het algemeen verlof, het regimesgebonden verlof, het incidenteel verlof en het verlof tijdens verblijf in een inrichting voor stelselmatige daders loopt de tenuitvoerlegging van de straf ofwel de maatregel door, gedurende de strafonderbreking wordt de tenuitvoerlegging van de straf opgeschort. In het geval bedoeld in [artikel 10, tweede lid onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0010171&hoofdstuk=1&artikel=10&z=2006-06-01&g=2006-06-01), en in geval van ziekte wordt de tenuitvoerlegging geschorst vanaf het moment dat de gedetineerde terug had moeten keren.
 
 ##### Artikel 9. Overplaatsing
 
@@ -210,9 +210,9 @@ neerde dient aan te tonen dat hij om medische redenen niet in staat is terug te 
 
 ##### Artikel 14. Voorwaarden
 
-1. Een gedetineerde komt eerst voor algemeen verlof in aanmerking wanneer:
+1. Een gedetineerde komt eerst voor algemeen verlof in aanmerking wanneer hij, al dan niet onherroepelijk, is veroordeeld tot een vrijheidsstraf en:
 
-- a. hij ten minste een derde van de onherroepelijk en onvoorwaardelijk opgelegde straf heeft ondergaan; en
+- a. ingeval de veroordeling onherroepelijk is, hij ten minste een derde deel van de onvoorwaardelijk opgelegde straf heeft ondergaan dan wel, ingeval de veroordeling nog niet onherroepelijk is, de duur van de in voorlopige hechtenis doorgebrachte tijd ten minste gelijk is aan een derde deel van de onvoorwaardelijk opgelegde straf; en
 
 - b. zijn strafrestant nog ten minste drie maanden en ten hoogste een jaar bedraagt.
 
@@ -242,7 +242,7 @@ Het algemeen verlof wordt verleend voor een duur van maximaal 60 uur.
 
 1. De minister beslist over een eerste verzoek om algemeen verlof indien:
 
-- a. het een gedetineerde betreft die is veroordeeld tot een onvoorwaardelijke vrijheidsstraf langer dan twee jaar of die veroordeeld is wegens een delict waarbij sprake was van een grote maatschappelijke onrust; zijn evenwel zowel het openbaar ministerie als de directeur van mening dat het verlof niet moet worden verleend, dan doet de directeur de aanvraag af;
+- a. het een gedetineerde betreft die al dan niet onherroepelijk, is veroordeeld tot een onvoorwaardelijke vrijheidsstraf langer dan twee jaar of die veroordeeld is wegens een delict waarbij sprake was van een grote maatschappelijke onrust; zijn evenwel zowel het openbaar ministerie als de directeur van mening dat het verlof niet moet worden verleend, dan doet de directeur de aanvraag af;
 
 - b. het openbaar ministerie, al dan niet verplicht geraadpleegd, anders dan de directeur van mening is dat het verlof niet moet worden verleend.
 
@@ -280,13 +280,13 @@ In verband met gewijzigde omstandigheden kan de directeur een reeds verleend alg
 
 ##### Artikel 20a
 
-Gedetineerden die verblijven in een zeer beperkt beveiligde inrichting die tevens is aangewezen als Elektronisch Detentiehuis als bedoeld in [artikel 2a van de Regeling selectie, plaatsing en overplaatsing van gedetineerden](https://wetten.overheid.nl/jci1.3:c:BWBR0011558&artikel=2a), komen niet voor regimesgebonden verlof in aanmerking. Ingeval van overplaatsing van een gedetineerde naar een Elektronisch Detentiehuis is [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0010171&hoofdstuk=1&artikel=9&z=2005-07-01&g=2005-07-01) niet van toepassing.
+Gedetineerden die verblijven in een zeer beperkt beveiligde inrichting die tevens is aangewezen als Elektronisch Detentiehuis als bedoeld in [artikel 2a van de Regeling selectie, plaatsing en overplaatsing van gedetineerden](https://wetten.overheid.nl/jci1.3:c:BWBR0011558&artikel=2a), komen niet voor regimesgebonden verlof in aanmerking. Ingeval van overplaatsing van een gedetineerde naar een Elektronisch Detentiehuis is [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0010171&hoofdstuk=1&artikel=9&z=2006-06-01&g=2006-06-01) niet van toepassing.
 
 ### Hoofdstuk 3a. Verlof tijdens verblijf in een inrichting voor stelselmatige daders
 
 ##### Artikel 20b
 
-[Artikel 4, onder j](https://wetten.overheid.nl/jci1.3:c:BWBR0010171&hoofdstuk=1&artikel=4&z=2005-07-01&g=2005-07-01), is niet van toepassing op het verlenen van verlof aan een betrokkene, voor zover het verlof zich niet uitstrekt over de nacht.
+[Artikel 4, onder j](https://wetten.overheid.nl/jci1.3:c:BWBR0010171&hoofdstuk=1&artikel=4&z=2006-06-01&g=2006-06-01), is niet van toepassing op het verlenen van verlof aan een betrokkene, voor zover het verlof zich niet uitstrekt over de nacht.
 
 ##### Artikel 20c
 
@@ -400,7 +400,7 @@ Incidenteel verlof kan worden verleend voor een bezoek aan een in levensgevaar o
 
 - f. gedetineerden op de wachtlijst voor opname in een inrichting genoemd onder c, d en e;
 
-- g. gedetineerden die door de Dienst Individuele Beslissingen van de Dienst Justitiële Inrichtingen aangemerkt zijn als vlucht- of gemeengevaarlijk;
+- g. gedetineerden die door de Afdeling Individuele Zaken van de sector Gevangeniswezen van de Dienst Justitiële Inrichtingen aangemerkt zijn als vlucht- of gemeengevaarlijk;
 
 - h. gedetineerden die op grond van [artikel 24, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=24) in afzondering zijn geplaatst;
 
@@ -410,9 +410,9 @@ Incidenteel verlof kan worden verleend voor een bezoek aan een in levensgevaar o
 
 - k. gegijzelden en personen die in het kader van lijfsdwang rechtens van hun vrijheid beroofd zijn;
 
-- l. gedetineerden met een strafrestant van meer dan twee jaar;
+- l. gedetineerden die, al dan niet onherroepelijk, zijn veroordeeld tot een onvoorwaardelijke vrijheidsstraf van meer dan twee jaar;
 
-- m. gedetineerden die een verzoek voor incidenteel verlof indienen voor één van de behandelingen genoemd in [artikel 28 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010171&hoofdstuk=4&artikel=28&z=2005-07-01&g=2005-07-01), waarbij geen afdoende beveiliging kan worden gerealiseerd en ook in overleg met het Penitentiair Ziekenhuis geen oplossing kan worden bereikt.
+- m. gedetineerden die een verzoek voor incidenteel verlof indienen voor één van de behandelingen genoemd in [artikel 28 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010171&hoofdstuk=4&artikel=28&z=2006-06-01&g=2006-06-01), waarbij geen afdoende beveiliging kan worden gerealiseerd en ook in overleg met het Penitentiair Ziekenhuis geen oplossing kan worden bereikt.
 
 ##### Artikel 33. Gewijzigde omstandigheden
 
@@ -430,7 +430,7 @@ Bij het bepalen van de duur van de strafonderbreking wordt rekening gehouden met
 
 ##### Artikel 36. Bezoek
 
-Strafonderbreking kan worden verleend voor verzorging van een ernstig zieke levenspartner, kind of ouder, voor het bijwonen van de bevalling van de levenspartner van de gedetineerde en voor de gevallen bedoeld in de [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0010171&hoofdstuk=4&artikel=23&z=2005-07-01&g=2005-07-01) en [24](https://wetten.overheid.nl/jci1.3:c:BWBR0010171&hoofdstuk=4&artikel=24&z=2005-07-01&g=2005-07-01). Het bepaalde in [artikel 22, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010171&hoofdstuk=4&artikel=22&z=2005-07-01&g=2005-07-01), is van overeenkomstige toepassing.
+Strafonderbreking kan worden verleend voor verzorging van een ernstig zieke levenspartner, kind of ouder, voor het bijwonen van de bevalling van de levenspartner van de gedetineerde en voor de gevallen bedoeld in de [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0010171&hoofdstuk=4&artikel=23&z=2006-06-01&g=2006-06-01) en [24](https://wetten.overheid.nl/jci1.3:c:BWBR0010171&hoofdstuk=4&artikel=24&z=2006-06-01&g=2006-06-01). Het bepaalde in [artikel 22, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010171&hoofdstuk=4&artikel=22&z=2006-06-01&g=2006-06-01), is van overeenkomstige toepassing.
 
 ##### Artikel 37. Medische en therapeutische redenen
 
@@ -465,5 +465,23 @@ Deze regeling treedt in werking op 1 januari 1999.
 ##### Artikel 43. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling tijdelijk verlaten van de inrichting.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 1a
+
+Indien de veroordeling tot een vrijheidsstraf nog niet onherroepelijk is, worden de strafduur en het strafrestant voor de toepassing van deze regeling berekend op grond van de veroordeling waartegen het rechtsmiddel is aangewend.
+
+### Hoofdstuk 2. Algemeen verlof
+
+### Hoofdstuk 3. Regimesgebonden verlof
+
+### Hoofdstuk 3a. Verlof tijdens verblijf in een inrichting voor stelselmatige daders
+
+### Hoofdstuk 4. Incidenteel verlof
+
+### Hoofdstuk 5. Strafonderbreking
+
+### Hoofdstuk 6. Overgangsbepaling, inwerkingtreding en citeertitel
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
