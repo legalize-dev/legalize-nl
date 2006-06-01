@@ -4,7 +4,7 @@ identifier: "BWBR0017560"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-07-01"
-last_updated: "2006-01-01"
+last_updated: "2006-06-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017560"
 soort: "ministeriele-regeling"
@@ -95,7 +95,7 @@ Voor erkenning kunnen worden voorgedragen:
 
 ##### Artikel 5
 
-1. Het standaardprogramma of de module van een penitentiair programma dient een beschrijving te bevatten van de wijze waarop het programma invulling geeft aan de verdere tenuitvoerlegging van de vrijheidsstraf.
+1. Het standaardprogramma of de module van een penitentiair programma dient een beschrijving te bevatten van de wijze waarop het programma invulling geeft aan de verdere tenuitvoerlegging van de vrijheidsstraf of voorlopige hechtenis.
 
 2. Een penitentiair programma bevat een samenstel van activiteiten dat zo evenwichtig mogelijk is gespreid over de hierna genoemde onderdelen, per week tenminste 26 uur omvat en ten minste uit een van de volgende hoofdrubrieken is opgebouwd:
 
