@@ -4,7 +4,7 @@ identifier: "BWBR0015731"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-24"
-last_updated: "2004-05-19"
+last_updated: "2006-06-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0015731"
 soort: "ministeriele-regeling"
@@ -70,7 +70,7 @@ Deze regeling is alleen van toepassing op aanvragen tot verlening van een vergun
 
 6. Voor de verklaring, bedoeld in het vierde lid, gebruikt de aanvrager de door het Agentschap Telecom opgestelde modelverklaring.
 
-7. Indien de aanvraag tot verlening van een vergunning betrekking heeft op frequentieruimte die is bestemd voor openbare elektronische communicatienetwerken of openbare elektronische communicatiediensten, kan de minister, naast de gegevens die worden gevraagd in het formulier, nadere gegevens vragen aan de aanvrager ter beoordeling van het bepaalde in [artikel 4, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0015731&hoofdstuk=3&paragraaf=1&artikel=4&z=2004-05-19&g=2004-05-19).
+7. Indien de aanvraag tot verlening van een vergunning betrekking heeft op frequentieruimte die is bestemd voor openbare elektronische communicatienetwerken of openbare elektronische communicatiediensten, kan de minister, naast de gegevens die worden gevraagd in het formulier, nadere gegevens vragen aan de aanvrager ter beoordeling van het bepaalde in [artikel 4, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0015731&hoofdstuk=3&paragraaf=1&artikel=4&z=2006-06-10&g=2006-06-10).
 
 ### Hoofdstuk 3. Toelatingscriteria
 
@@ -124,7 +124,7 @@ Deze regeling is alleen van toepassing op aanvragen tot verlening van een vergun
 
 ##### Artikel 7
 
-Een vergunning voor het gebruik van frequentieruimte voor ander gebruik dan bedoeld in de [artikelen 4 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0015731&hoofdstuk=3&paragraaf=1&artikel=4&z=2004-05-19&g=2004-05-19) wordt slechts verleend indien de aanvrager aantoont een redelijk belang te hebben bij de gevraagde vergunning.
+Een vergunning voor het gebruik van frequentieruimte voor ander gebruik dan bedoeld in de [artikelen 4 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0015731&hoofdstuk=3&paragraaf=1&artikel=4&z=2006-06-10&g=2006-06-10) wordt slechts verleend indien de aanvrager aantoont een redelijk belang te hebben bij de gevraagde vergunning.
 
 ### Hoofdstuk 4. Slotbepalingen
 
@@ -140,7 +140,7 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 
 Deze regeling wordt aangehaald als: Regeling aanvraag en toelating vergunningen voor het gebruik van frequentieruimte.
 
-## Bijlage. bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0015731&hoofdstuk=3&paragraaf=3&artikel=6&z=2004-05-19&g=2004-05-19) van de Regeling aanvraag en toelating vergunningen voor het gebruik van frequentieruimte
+## Bijlage. bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0015731&hoofdstuk=3&paragraaf=3&artikel=6&z=2006-06-10&g=2006-06-10) van de Regeling aanvraag en toelating vergunningen voor het gebruik van frequentieruimte
 
 | Categorie vergunningen | Toegestaan zendvermogen in watt (PEP)1Peak Envelope Power. | Frequentiebanden in MHz | Frequentiebanden in MHz | Status2P = Primaire status Amateurdienst, S = Secundaire status Amateurdienst. | Bijzondere bepalingen |
 | --- | --- | --- | --- | --- | --- |
@@ -150,7 +150,9 @@ Deze regeling wordt aangehaald als: Regeling aanvraag en toelating vergunningen 
 | F | 400 | 1.85 | 1.88 | S |   |
 | F | 400 | 3.5 | 3.8 | P |   |
 | F | 400 | 7.0 | 7.1 | P |   |
+| F | 250 | 7.1 | 7.2 | S |   |
 | F | 400 | 10.1 | 10.15 | S | Alleen A1A, F1A, G1A, J2A; contesten zijn niet toegestaan |
+| F | 400 | 10.14 | 10.15 | S | Data, bandbreedte max. 500 Hz |
 | F | 400 | 14.0 | 14.35 | P |   |
 | F | 400 | 18.068 | 18.168 | P |   |
 | F | 400 | 21.0 | 21.45 | P |   |
@@ -163,7 +165,8 @@ Deze regeling wordt aangehaald als: Regeling aanvraag en toelating vergunningen 
 | F | 400 | 430.0 | 436.0 | P |   |
 | F | 400 | 436.0 | 440.0 | S |   |
 | F | 120 | 1240.0 | 1300.0 | S |   |
-| F | 120 | 2320.0 | 2450.0 | S |   |
+| F | 120 | 2320.0 | 2400.0 | S |   |
+| F | 120 | 2400.0 | 2450.0 | S | Uitsluitend satelliet verkeer |
 | F | 120 | 3400.0 | 3410.0 | S |   |
 | F | 120 | 5650.0 | 5850.0 | S |   |
 | F | 120 | 10000.0 | 10500.0 | S |   |
