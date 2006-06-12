@@ -4,7 +4,7 @@ identifier: "BWBR0027703"
 country: "nl"
 rank: "zbo"
 publication_date: "2025-07-01"
-last_updated: "2004-07-10"
+last_updated: "2006-06-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027703"
 soort: "zbo"
@@ -61,7 +61,7 @@ Op het register van voorlopige aantekeningen voor schepen en de rechten waaraan 
 
 ##### Artikel 3
 
-Ten aanzien van door de bewaarder te stellen aantekeningen in de openbare registers, bedoeld in [artikel 8, eerste lid, onder b, van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=8) en in het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027703&hoofdstuk=2&artikel=2&z=2004-07-10&g=2004-07-10) bedoelde register, zijn de [artikelen 7 tot en met 11 van de Kadasterregeling 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&artikel=7) van overeenkomstige toepassing.
+Ten aanzien van door de bewaarder te stellen aantekeningen in de openbare registers, bedoeld in [artikel 8, eerste lid, onder b, van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=8) en in het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027703&hoofdstuk=2&artikel=2&z=2006-06-12&g=2006-06-12) bedoelde register, zijn de [artikelen 7 tot en met 11 van de Kadasterregeling 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&artikel=7) van overeenkomstige toepassing.
 
 ##### Artikel 4
 
@@ -124,9 +124,7 @@ Terstond na de inschrijving van een verzoek tot teboekstelling worden in de geau
 
 ##### Artikel 12
 
-1. De in de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBR0002976&artikel=18) en [21 van de Wet aansprakelijkheid olietankschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0002976&artikel=21) bedoelde stukken worden na ontvangst voorzien van het desbetreffende brandmerk, alsmede de dagtekening van ontvangst.
-
-2. De in het eerste lid bedoelde stukken worden bewaard per dagtekening van ontvangst in alfabetische volgorde van de in het brandmerk voorkomende aanduiding van het kantoor en, in daartoe aanleiding gevende gevallen, per aanduiding in volgorde van de nummers van teboekstelling.
+De in de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBR0002976&artikel=18) en [21 van de Wet aansprakelijkheid olietankschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0002976&artikel=21) bedoelde stukken worden voorzien van de datum van ontvangst en het brandmerk.
 
 ##### Artikel 13
 
@@ -208,22 +206,11 @@ De registratie voor schepen wordt bijgewerkt met gegevens inzake het brandmerk:
 
 1. Het branden geschiedt in een vast deel van het schip dat weinig aan beschadiging of slijtage onderhevig is.
 
-2. Bij het aanbrengen van het brandmerk wordt de naam van het kantoor verkort aangeduid op de volgende wijze:
+2. De aan te brengen letters en cijfers moeten ongeveer 4 centimeter hoog zijn. Indien het brandmerk in een houten constructiedeel wordt aangebracht moeten de letters en cijfers 6 centimeter hoog en 1 centimeter diep zijn. Betreft het een binnenschip met minder dan 10 kubieke meters verplaatsing, dan moeten de aan te brengen tekens tenminste 1 centimeter en ten hoogste 4 centimeter hoog zijn.
 
-| Amsterdam | A |
-| --- | --- |
-| Arnhem | N |
-| Breda | B |
-| Groningen | G |
-| Roermond | E |
-| Rotterdam | R |
-| Zwolle | Z |
+3. Op de meetbrief wordt melding gemaakt van het aangebrachte brandmerk.
 
-3. De aan te brengen letters en cijfers moeten ongeveer 4 centimeter hoog zijn. Indien het brandmerk in een houten constructiedeel wordt aangebracht moeten de letters en cijfers 6 centimeter hoog en 1 centimeter diep zijn. Betreft het een binnenschip met minder dan 10 kubieke meters verplaatsing, dan moeten de aan te brengen tekens tenminste 1 centimeter en ten hoogste 4 centimeter hoog zijn.
-
-4. Op de meetbrief wordt melding gemaakt van het aangebrachte brandmerk.
-
-5. Van de branding wordt een schriftelijk relaas opgemaakt en ondertekend door degene die met het aanbrengen van het brandmerk op het schip is belast. Dit relaas maakt deel uit van de registratie voor schepen en bevat tenminste de volgende gegevens:
+4. Van de branding wordt een schriftelijk relaas opgemaakt en ondertekend door degene die met het aanbrengen van het brandmerk op het schip is belast. Dit relaas maakt deel uit van de registratie voor schepen en bevat tenminste de volgende gegevens:
 
 - a. brandmerk, naam, soort en type van het schip;
 
@@ -259,9 +246,9 @@ alsmede
 
 3. Een uittreksel inzake een niet-actuele toestand wordt zoveel mogelijk verstrekt in de vorm van een mechanische reproductie van het desbetreffende stuk.
 
-4. Een bewijs van doorhaling van de teboekstelling van een schip heeft de vorm van het model dat als [bijlage 32](https://wetten.overheid.nl/jci1.3:c:BWBR0027703&bijlage=32&z=2004-07-10&g=2004-07-10) bij deze regeling is gevoegd.
+4. Een bewijs van doorhaling van de teboekstelling van een schip heeft de vorm van het model dat als [bijlage 32](https://wetten.overheid.nl/jci1.3:c:BWBR0027703&bijlage=32&z=2006-06-12&g=2006-06-12) bij deze regeling is gevoegd.
 
-5. De in [artikel 106, eerste lid, van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=106) bedoelde verklaring heeft de vorm van het model dat als [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027703&bijlage=4&z=2004-07-10&g=2004-07-10) bij deze regeling is gevoegd.
+5. De in [artikel 106, eerste lid, van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=106) bedoelde verklaring heeft de vorm van het model dat als [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027703&bijlage=4&z=2006-06-12&g=2006-06-12) bij deze regeling is gevoegd.
 
 6. De in [artikel 106, eerste lid, van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=106) bedoelde afschriften worden verstrekt in de vorm van mechanische reproducties van die bescheiden.
 
@@ -283,7 +270,7 @@ Vervallen
 
 ##### Artikel 24
 
-1. De kennisgevingen van het resultaat van de bijhouding, bedoeld in [artikel 88 van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=88), voor zover het de wijziging van een rechthebbende betreft, hebben de vorm van de modellen die als [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027703&bijlage=1&z=2004-07-10&g=2004-07-10) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0027703&bijlage=2&z=2004-07-10&g=2004-07-10) bij deze regeling zijn gevoegd.
+1. De kennisgevingen van het resultaat van de bijhouding, bedoeld in [artikel 88 van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=88), voor zover het de wijziging van een rechthebbende betreft, hebben de vorm van de modellen die als [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027703&bijlage=1&z=2006-06-12&g=2006-06-12) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0027703&bijlage=2&z=2006-06-12&g=2006-06-12) bij deze regeling zijn gevoegd.
 
 2. Omtrent de kennisgeving, bedoeld in [artikel 89, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=89), juncto [artikel 59, derde lid, van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=59), is [artikel 109, vierde lid, van de Kadasterregeling 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&artikel=109) van overeenkomstige toepassing.
 
@@ -293,11 +280,11 @@ Vervallen
 
 5. [Artikel 111 van de Kadasterregeling 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&artikel=111) van overeenkomstige toepassing op de beslissing van de ambtenaar op het bezwaarschrift waarbij bezwaar is gemaakt tegen de beslissing, bedoeld in de [artikelen 89, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=89), juncto [artikel 59, derde lid, van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=59) en op diens beslissing op bezwaarschriften als bedoeld in [artikel 87b](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=87b) juncto [artikel 56c, eerste lid, van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=56c) tegen beschikkingen inzake de bijhouding, alsmede op de brief waarbij die beslissingen van de ambtenaar aan belanghebbenden wordt toegezonden.
 
-6. De in [artikel 34 van de M.t.s.](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&artikel=34) bedoelde kennisgeving van een teboekstelling dan wel van een doorhaling van een teboekstelling bestaat uit een uitvoerprodukt met de vorm van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027703&bijlage=1&z=2004-07-10&g=2004-07-10) met een begeleidende brief.
+6. De in [artikel 34 van de M.t.s.](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&artikel=34) bedoelde kennisgeving van een teboekstelling dan wel van een doorhaling van een teboekstelling bestaat uit een uitvoerprodukt met de vorm van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027703&bijlage=1&z=2006-06-12&g=2006-06-12) met een begeleidende brief.
 
 ##### Artikel 25
 
-De in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&artikel=36) juncto [artikel 35, eerste lid, van de M.t.s.](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&artikel=35) bedoelde aangifte heeft de vorm van het model dat als [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0027703&bijlage=9&z=2004-07-10&g=2004-07-10) bij deze regeling is gevoegd.
+De in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&artikel=36) juncto [artikel 35, eerste lid, van de M.t.s.](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&artikel=35) bedoelde aangifte heeft de vorm van het model dat als [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0027703&bijlage=9&z=2006-06-12&g=2006-06-12) bij deze regeling is gevoegd.
 
 ##### Artikel 26
 
@@ -317,7 +304,7 @@ Omtrent de wijze waarop de in [artikel 116 van de Kadasterwet](https://wetten.ov
 
 2. Deze regeling wordt aangehaald als: Regeling teboekgestelde schepen 1994, dan wel als: R.t.s. 1994.
 
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0027703&bijlage=1&z=2004-07-10&g=2004-07-10).
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0027703&bijlage=1&z=2006-06-12&g=2006-06-12).
 
 ## Bijlage 1
 
