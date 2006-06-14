@@ -4,7 +4,7 @@ identifier: "BWBR0019442"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-12-09"
-last_updated: "2006-01-25"
+last_updated: "2006-06-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019442"
 soort: "ministeriele-regeling"
@@ -86,13 +86,33 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3
 
-1. De exploitant van een levensmiddelenbedrijf wordt geacht voldaan te hebben aan [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019442&artikel=2&z=2006-01-25&g=2006-01-25) voor zover ten aanzien van een inrichting de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019442&artikel=2&z=2006-01-25&g=2006-01-25) bedoelde informatie bekend is bij:
+1. De exploitant van een levensmiddelenbedrijf wordt geacht voldaan te hebben aan [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019442&artikel=2&z=2006-06-14&g=2006-06-14) voor zover ten aanzien van een inrichting de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019442&artikel=2&z=2006-06-14&g=2006-06-14) bedoelde informatie bekend is bij:
 
-- a. het Hoofdbedrijfschap Detailhandel; of
+- a. het Hoofdbedrijfschap Detailhandel;
 
-- b. het Hoofdbedrijfschap Ambachten.
+- b. het Hoofdbedrijfschap Ambachten;
 
-2. De VWA deelt een in het eerste lid bedoelde exploitant schriftelijk of per e-mail mede ten aanzien van welke inrichting of inrichtingen de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019442&artikel=2&z=2006-01-25&g=2006-01-25) bedoelde informatie reeds in het bezit is van de VWA.
+- c. het Hoofdbedrijfschap Agrarische Groothandel Groenten en Fruit;
+
+- d. het Bedrijfschap Horeca en Catering;
+
+- e. de Productschappen Vee, Vlees en Eieren;
+
+- f. het Productschap Vis;
+
+- g. de Stichting Nationale en Internationale Wegvervoer Organisatie;
+
+- h. de Vereniging Nederlandse Cateringorganisaties;
+
+- i. de Stichting Centraal Orgaan voor Kwaliteitsaangelegenheden in de Zuivel;
+
+- j. voor zover het een gezondheidsinstelling betreft, het Ministerie van Volksgezondheid, Welzijn en Sport;
+
+- k. voor zover het een onderwijsinstelling betreft, het Ministerie van Onderwijs, Cultuur en Wetenschap; of
+
+- l. voor zover het een agrarische onderneming betreft, het Ministerie van Landbouw, Natuur en Voedselkwaliteit.
+
+2. De VWA deelt een in het eerste lid bedoelde exploitant schriftelijk of per e-mail mede ten aanzien van welke inrichting of inrichtingen de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019442&artikel=2&z=2006-06-14&g=2006-06-14) bedoelde informatie reeds in het bezit is van de VWA.
 
 ##### Artikel 4
 
@@ -118,6 +138,6 @@ Deze regeling wordt aangehaald als: Warenwetregeling procedures registratie en e
 
 ## Bijlage
 
-Deze bijlage behoort bij [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019442&artikel=2&z=2006-01-25&g=2006-01-25).
+Deze bijlage behoort bij [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019442&artikel=2&z=2006-06-14&g=2006-06-14).
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
