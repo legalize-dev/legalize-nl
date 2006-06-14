@@ -4,7 +4,7 @@ identifier: "BWBV0005506"
 country: "nl"
 rank: "verdrag"
 publication_date: "2022-04-27"
-last_updated: "2004-10-05"
+last_updated: "2006-06-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0005506"
 soort: "verdrag"
@@ -228,49 +228,48 @@ De Leden hebben recht op het volgende aantal vertegenwoordigers:
 | --- | --- |
 | Andorra | 2 |
 | Armenië | 4 |
-| Oostenrijk | 6 |
 | Azerbeidzjan | 6 |
 | België | 7 |
 | Bosnië en Hercegovina | 5 |
 | Bulgarije | 6 |
-| Kroatië | 5 |
 | Cyprus | 3 |
-| de Tsjechische Republiek | 7 |
 | Denemarken | 5 |
+| Duitsland | 18 |
 | Estland | 3 |
 | Finland | 5 |
 | Frankrijk | 18 |
-| Duitsland | 18 |
 | Georgië | 5 |
 | Griekenland | 7 |
 | Hongarije | 7 |
-| IJsland | 3 |
 | Ierland | 4 |
 | Italië | 18 |
+| IJsland | 3 |
+| Kroatië | 5 |
 | Letland | 3 |
 | Liechtenstein | 2 |
 | Litouwen | 4 |
 | Luxemburg | 3 |
+| de Voormalige Joegoslavische Republiek Macedonië | 3 |
 | Malta | 3 |
 | Moldavië | 5 |
-| Monaco | 2 |
 | Nederland | 7 |
 | Noorwegen | 5 |
+| Oekraïne | 12 |
+| Oostenrijk | 6 |
 | Polen | 12 |
 | Portugal | 7 |
 | Roemenië | 10 |
 | Rusland | 18 |
 | San Marino | 2 |
-| Servië en Montenegro | 7 |
-| Slowakije | 5 |
+| Servië | 7 |
 | Slovenië | 3 |
+| De Slowaakse Republiek | 5 |
 | Spanje | 12 |
-| de Voormalige Joegoslavische Republiek Macedonië | 3 |
+| de Tsjechische Republiek | 7 |
+| Turkije | 12 |
+| het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland | 18 |
 | Zweden | 6 |
 | Zwitserland | 6 |
-| Turkije | 12 |
-| Oekraïne | 12 |
-| het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland | 18 |
 
 ##### Artikel 27
 
