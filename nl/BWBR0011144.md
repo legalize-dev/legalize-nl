@@ -4,7 +4,7 @@ identifier: "BWBR0011144"
 country: "nl"
 rank: "kb"
 publication_date: "2018-07-25"
-last_updated: "2002-10-09"
+last_updated: "2006-06-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011144"
 soort: "KB"
@@ -56,8 +56,6 @@ De herinneringsmedaille wordt toegekend aan hen die deel uitmakend van of tezame
 
 2. Aan hen die reeds zijn onderscheiden met de herinneringsmedaille wordt, indien zij opnieuw voor toekenning in aanmerking komen, alleen een gesp toegekend.
 
-3. De gesp geeft aan de plaats van de hulpverlening en de op de hulpverlening betrekking hebbende tijdsaanduiding.
-
 ##### Artikel 4
 
 De toekenning van de herinneringsmedaille zowel als van een afzonderlijke gesp geschiedt door Onze Minister van Defensie.
@@ -72,7 +70,7 @@ De toekenning van de herinneringsmedaille dan wel van een gesp kan postuum gesch
 
 2. De herinneringsmedaille is door middel van een ring verbonden aan een moiré lint; het lint, 27 mm. breed, heeft een goudgele ondergrond met aan de boorden diep donkerblauwe banen, overvloeiende in het goudgeel. In het midden drie verticale banen (in de kleuren van de Nederlandse vlag) respectievelijk in de volgorde rood, wit en blauw, ter breedte van 1½ mm.
 
-3. De gesp is eveneens vervaardigd van gebrand zilver. Op de gesp zijn in kapitale letters vermeld de plaats van hulpverlening en de op de hulpverlening betrekking hebbende tijdsaanduiding. De gesp wordt op het lint bevestigd; indien meerdere gespen zijn toegekend worden deze boven elkaar geplaatst, de eerstverkregen gesp direct boven de medaille.
+3. De gesp is eveneens vervaardigd van gebrand zilver. Op de gesp zijn in kapitale letters vermeld de plaats van hulpverlening, dan wel een aanduiding van de ramp, en de op de hulpverlening betrekking hebbende tijdsaanduiding. De gesp wordt op het lint bevestigd; indien meerdere gespen zijn toegekend worden deze boven elkaar geplaatst, de eerstverkregen gesp direct boven de medaille.
 
 ##### Artikel 7
 
@@ -86,7 +84,7 @@ Bij de uitreiking van de herinneringsmedaille dan wel van later toegekende gespe
 
 ##### Artikel 9
 
-De kosten van de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0011144&artikel=8&z=2002-10-09&g=2002-10-09) bedoelde versierselen komen ten laste van het Rijk.
+De kosten van de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0011144&artikel=8&z=2006-06-14&g=2006-06-14) bedoelde versierselen komen ten laste van het Rijk.
 
 ##### Artikel 10
 
@@ -115,5 +113,17 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 13
 
 Dit besluit wordt aangehaald als: Besluit Herinneringsmedaille Humanitaire hulpverlening bij Rampen
+
+Onze Minister van Defensie is belast met de uitvoering van dit besluit, dat in het Staatsblad zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Kanselier der Nederlandse Orden.
+
+##### Artikel 10d
+
+1. In verband met de hulpverlening in Nederlands militair verband bij de leniging van de nood van slachtoffers van de tsunami in Azië en Afrika in de periode december 2004 tot en met december 2005 wordt de gesp «Tsunami 2004» ingesteld.
+
+2. In afwijking van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0011144&artikel=2&z=2006-06-14&g=2006-06-14) wordt de herinneringsmedaille tevens toegekend aan de leden van het Rampen Identificatie Team van het Korps landelijke politiediensten die hier te lande daadwerkelijk aan de hulpverlening, bedoeld in het eerste lid, hebben deelgenomen en daarbij in alle opzichten een goede plichtsbetrachting en een goed gedrag hebben betoond.
+
+##### Artikel 10e
+
+Dit onderdeel is nog niet inwerking getreden
 
 Onze Minister van Defensie is belast met de uitvoering van dit besluit, dat in het Staatsblad zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Kanselier der Nederlandse Orden.
