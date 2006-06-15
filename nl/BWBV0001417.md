@@ -4,7 +4,7 @@ identifier: "BWBV0001417"
 country: "nl"
 rank: "verdrag"
 publication_date: "2019-04-01"
-last_updated: "2006-01-01"
+last_updated: "2006-06-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0001417"
 soort: "verdrag"
@@ -2032,65 +2032,99 @@ De invoerrechten en heffingen van gelijke werking mogen niet hoger zijn dan het 
 
 ##### Artikel 1. Definities
 
-Voor de toepassing van dit Protocol wordt verstaan onder:
+Voor de toepassing van dit protocol wordt verstaan onder:
 
-- a. „vervaardiging": elke soort be- of verwerking, met inbegrip van assemblage of speciale behandelingen;
+- a. „vervaardiging”: elke soort be- of verwerking, met inbegrip van assemblage of speciale behandelingen;
 
-- b. „materiaal": alle ingrediënten, grondstoffen, componenten, delen enz., die bij de vervaardiging van het product worden gebruikt;
+- b. „materiaal”: alle ingrediënten, grondstoffen, componenten, delen, enz., die bij de vervaardiging van het product worden gebruikt;
 
-- c. „product": het verkregen product, ook indien dit bestemd is om later bij de vervaardiging van een ander product te worden gebruikt;
+- c. „product”: het verkregen product, zelfs indien het bestemd is om later bij de vervaardiging van een ander product te worden gebruikt;
 
-- d. „goederen": zowel materialen als producten;
+- d. „goederen”: zowel materialen als producten;
 
-- e. „douanewaarde": de waarde zoals bepaald bij de Overeenkomst inzake de toepassing van artikel VII van de Algemene Overeenkomst betreffende Tarieven en Handel van 1994 (Overeenkomst inzake de douanewaarde van de WTO);
+- e. „douanewaarde”: de waarde zoals bepaald bij de [overeenkomst inzake de toepassing van artikel VII van de Algemene Overeenkomst betreffende tarieven en handel van 1994](onbekend) (overeenkomst inzake de douanewaarde van de WTO);
 
-- f. „prijs af fabriek": de prijs die voor het product af fabriek is betaald aan de fabrikant in de Gemeenschap of in Jordanië in wiens bedrijf de laatste be- of verwerking is verricht, voor zover in die prijs de waarde is begrepen van alle gebruikte materialen, verminderd met alle binnenlandse belastingen die worden of kunnen worden terugbetaald wanneer het verkregen product wordt uitgevoerd;
+- f. „prijs af fabriek”: de prijs die voor het product af fabriek is betaald aan de fabrikant in de Gemeenschap of in Jordanië in wiens bedrijf de laatste be- of verwerking is verricht, voor zover in die prijs de waarde is begrepen van alle gebruikte materialen, verminderd met alle binnenlandse belastingen die worden of kunnen worden terugbetaald wanneer het verkregen product wordt uitgevoerd;
 
-- g. „waarde van de materialen": de douanewaarde ten tijde van de invoer van de gebruikte materialen die niet van oorsprong zijn, of, indien deze niet bekend is en niet kan worden vastgesteld, de eerste controleerbare prijs die voor de materialen in de Gemeenschap of Jordanië is betaald;
+- g. „waarde van de materialen”: de douanewaarde ten tijde van de invoer van de gebruikte materialen die niet van oorsprong zijn, of, indien deze niet bekend is en niet kan worden vastgesteld, de eerste controleerbare prijs die voor de materialen in de Gemeenschap of Jordanië is betaald;
 
-- h. „waarde van de materialen van oorsprong": de waarde van deze materialen als omschreven onder g), welke omschrijving van dienovereenkomstige toepassing is;
+- h. „waarde van de materialen van oorsprong”: de waarde van deze materialen als omschreven onder g), welke omschrijving van dienovereenkomstige toepassing is;
 
-- i. „toegevoegde waarde": de prijs af fabriek minus de douanewaarde van de in het product opgenomen goederen die niet van oorsprong zijn uit het land waarin het product werd verkregen;
+- i. „toegevoegde waarde”: de prijs af fabriek verminderd met de douanewaarde van alle gebruikte materialen die van oorsprong zijn uit de andere in de artikelen 3 en 4 genoemde landen waar cumulatie van toepassing is of, indien de douanewaarde niet bekend is of niet kan worden vastgesteld, de eerste controleerbare prijs die in de Gemeenschap of in Jordanië voor deze materialen is betaald;
 
-- j. „hoofdstukken" en „posten": de hoofdstukken en posten (viercijfercodes) van de nomenclatuur die het geharmoniseerde systeem inzake de omschrijving en codering van goederen vormt, in dit Protocol „het geharmoniseerd systeem" of „GS" genoemd;
+- j. „hoofdstukken” en „posten”: de hoofdstukken en posten (viercijfercodes) van de nomenclatuur die het geharmoniseerd systeem inzake de omschrijving en codering van goederen vormt, in dit protocol „het geharmoniseerd systeem” of „GS” genoemd;
 
-- k. „ingedeeld": de indeling van een product of materiaal onder een bepaalde post;
+- k. „ingedeeld”: de indeling van een product of materiaal onder een bepaalde post;
 
-- l. „zending": producten die gelijktijdig van een exporteur naar een geadresseerde worden verzonden of vergezeld gaan van een enkel vervoersdocument dat de verzending van de exporteur naar de geadresseerde dekt, of bij gebreke daarvan, een enkele factuur.
+- l. „zending”: producten die gelijktijdig van een exporteur naar een geadresseerde worden verzonden of vergezeld gaan van een enkel vervoersdocument dat de verzending van de exporteur naar de geadresseerde dekt, of bij gebreke daarvan, een enkele factuur;
 
-- m. „gebieden": omvat ook de territoriale wateren.
+- m. „gebieden”: omvatten ook de territoriale wateren.
 
-## TITEL II. DEFINITIE VAN HET BEGRIP „PRODUCTEN VAN OORSPRONG"
+## TITEL II. DEFINITIE VAN HET BEGRIP „PRODUCTEN VAN OORSPRONG’’
 
 ##### Artikel 2. Algemene voorwaarden
 
-1. Voor de toepassing van deze Overeenkomst worden de volgende producten beschouwd van oorsprong te zijn uit de Gemeenschap:
+1. Voor de toepassing van de overeenkomst worden de volgende producten beschouwd van oorsprong te zijn uit de Gemeenschap:
 
-- a. geheel en al in de Gemeenschap verkregen producten in de zin van artikel 4 van dit Protocol;
+- a. geheel en al in de Gemeenschap verkregen producten in de zin van artikel 5;
 
-- b. in de Gemeenschap verkregen producten, waarin materialen zijn verwerkt die daar niet geheel en al zijn verkregen, mits deze materialen in de Gemeenschap een be- of verwerking hebben ondergaan die toereikend is in de zin van artikel 5 van dit Protocol.
+- b. in de Gemeenschap verkregen producten, waarin materialen zijn verwerkt die daar niet geheel en al zijn verkregen, mits deze materialen in de Gemeenschap een be- of verwerking hebben ondergaan die toereikend is in de zin van artikel 6;
 
-2. Voor de toepassing van deze Overeenkomst worden de volgende producten beschouwd van oorsprong te zijn uit Jordanië:
+- c. goederen van oorsprong uit de Europese Economische Ruimte (EER), in de zin van [Protocol nr. 4 bij de Overeenkomst betreffende de Europese Economische Ruimte](onbekend).
 
-- a. geheel en al in Jordanië verkregen producten, in de zin van artikel 4 van dit Protocol;
+2. Voor de toepassing van deze overeenkomst worden de volgende producten beschouwd als van oorsprong uit Jordanië:
 
-- b. in Jordanië verkregen producten, waarin materialen zijn verwerkt die daar niet geheel en al zijn verkregen, mits deze materialen in Jordanië een be- of verwerking hebben ondergaan die toereikend is in de zin van artikel 5 van dit Protocol.
+- a. geheel en al in Jordanië verkregen producten, in de zin van artikel 5;
 
-##### Artikel 3. Bilaterale cumulatie van de oorsprong
+- b. in Jordanië verkregen producten, waarin materialen zijn verwerkt die daar niet geheel en al zijn verkregen, mits deze materialen in Jordanië een be- of verwerking hebben ondergaan die toereikend is in de zin van artikel 6.
 
-1. Materialen van oorsprong uit de Gemeenschap worden beschouwd materialen van oorsprong uit Jordanië te zijn indien ze in een aldaar verkregen product zijn opgenomen. Het is niet noodzakelijk dat deze materialen een toereikende be- of verwerking hebben ondergaan, mits ze evenwel een be- of verwerking hebben ondergaan die meer omvat dan de in artikel 6, lid 1, van dit Protocol genoemde be- of verwerkingen.
+3. De bepalingen van lid 1, onder c), zijn alleen van toepassing indien er een vrijhandelsovereenkomst van toepassing is tussen enerzijds Jordanië en anderzijds de EER/EVA-landen (IJsland, Liechtenstein en Noorwegen).
 
-2. Materialen van oorsprong uit Jordanië worden beschouwd materialen van oorsprong uit de Gemeenschap te zijn wanneer ze in een aldaar verkregen product zijn opgenomen. Het is niet noodzakelijk dat deze materialen een toereikende be- of verwerking hebben ondergaan, mits ze evenwel een be- of verwerking hebben ondergaan die meer omvat dan de in artikel 6, lid 1, van dit Protocol genoemde be- of verwerkingen.
+##### Artikel 3. Cumulatie in de Gemeenschap
 
-##### Artikel 4. Geheel en al verkregen producten
+1. Onverminderd artikel 2, lid 1, worden producten als van oorsprong uit de Gemeenschap beschouwd indien zij daar zijn verkregen door be- of verwerking van materialen van oorsprong uit Bulgarije, Zwitserland (met inbegrip van Liechtenstein) (1), IJsland, Noorwegen, Roemenië, Turkije of de Gemeenschap, op voorwaarde dat deze materialen in de Gemeenschap be- of verwerkingen hebben ondergaan die meer inhouden dan die welke in artikel 7 zijn genoemd. Het is niet noodzakelijk dat deze materialen toereikende be- of verwerkingen hebben ondergaan.
+
+2. Onverminderd artikel 2, lid 1, worden producten als van oorsprong uit de Gemeenschap beschouwd indien zij daar zijn verkregen door be- of verwerking van materialen van oorsprong uit de Faeröer of een land dat deelneemt aan het Euromediterrane partnerschap, dat is gebaseerd op de verklaring van Barcelona die werd vastgesteld tijdens de Euro-mediterrane Conferentie van 27 en 28 november 1995, met uitzondering van Turkije, op voorwaarde dat deze materialen in de Gemeenschap be- of verwerkingen hebben ondergaan die meer inhouden dan die welke in artikel 7 zijn genoemd. Het is niet noodzakelijk dat deze materialen toereikende be- of verwerkingen hebben ondergaan.
+
+3. Indien de in de Gemeenschap verrichte be- of verwerkingen niet ingrijpender zijn dan de in artikel 7 bedoelde be- of verwerkingen, wordt het verkregen product enkel als van oorsprong uit de Gemeenschap beschouwd indien de aldaar toegevoegde waarde groter is dan die van de gebruikte materialen van oorsprong uit een van de andere dan in de leden 1 en 2 bedoelde landen. Is dit niet het geval, dan wordt het verkregen product beschouwd als van oorsprong uit het land dat de hoogste waarde vertegenwoordigt van de bij de vervaardiging in de Gemeenschap gebruikte materialen van oorsprong.
+
+4. De producten van oorsprong uit een van de in de leden 1 en 2 genoemde landen die in de Gemeenschap geen enkele be- of verwerking ondergaan, behouden hun oorsprong wanneer zij naar een van deze landen worden uitgevoerd.
+
+5. De cumulatie waarin dit artikel voorziet kan uitsluitend worden toegepast op voorwaarde dat:
+
+- a. een preferentiële handelsovereenkomst overeenkomstig artikel XXIV van de Algemene Overeenkomst inzake tarieven en handel (GATT) van toepassing is tussen de landen die betrokken zijn bij het verwerven van de oorsprong en het land van bestemming;
+
+- b. materialen en producten de oorsprong hebben verkregen door toepassing van oorsprongsregels die gelijk zijn aan die van dit protocol; en
+
+- c. kennisgevingen zijn gepubliceerd waaruit blijkt dat is voldaan aan de vereisten voor de toepassing van cumulatie in de C-reeks van het**Publicatieblad van de Europese Unie** en in Jordanië volgens zijn eigen procedures. De cumulatie waarin dit artikel voorziet, is van toepassing met ingang van de datum die is aangegeven in de kennisgeving in de C-reeks van het**Publicatieblad van de Europese Unie**. De Gemeenschap zal Jordanië door tussenkomst van de Commissie van de Europese Gemeenschappen nadere gegevens verstrekken over de overeenkomsten, met inbegrip van de datums van inwerkingtreding, en de daarin opgenomen oorsprongsregels, die met de andere in de leden 1 en 2 genoemde landen worden toegepast.
+
+##### Artikel 4. Cumulatie in Jordanië
+
+1. Onverminderd artikel 2, lid 2, worden producten als van oorsprong uit Jordanië beschouwd indien zij daar zijn verkregen door be- of verwerking van materialen van oorsprong uit Bulgarije, Zwitserland (met inbegrip van Liechtenstein), IJsland, Noorwegen, Roemenië, Turkije of de Gemeenschap, op voorwaarde dat deze materialen in Jordanië be- of verwerkingen hebben ondergaan die meer inhouden dan die welke in artikel 7 zijn genoemd. Het is niet noodzakelijk dat deze materialen toereikende be- of verwerkingen hebben ondergaan.1)Het Vorstendom Liechtenstein heeft een douane-unie met Zwitserland en is partij bij de Overeenkomst betreffende de Europese Economische Ruimte., IJsland, Noorwegen, Roemenië, Turkije of de Gemeenschap, op voorwaarde dat deze materialen in Jordanië be- of verwerkingen hebben ondergaan die meer inhouden dan die welke in artikel 7 zijn genoemd. Het is niet noodzakelijk dat deze materialen toereikende be- of verwerkingen hebben ondergaan.
+
+2. Onverminderd artikel 2, lid 2, worden producten als van oorsprong uit Jordanië beschouwd indien zij daar zijn verkregen door be- of verwerking van materialen van oorsprong uit de Faeröer of een land dat deelneemt aan het Euro-mediterrane partnerschap, dat gebaseerd is op de verklaring van Barcelona die werd vastgesteld tijdens de Euro-mediterrane Conferentie van 27 en 28 november 1995, met uitzondering van Turkije, op voorwaarde dat deze materialen in Jordanië be- of verwerkingen hebben ondergaan die meer inhouden dan die welke in artikel 7 zijn genoemd. Het is niet noodzakelijk dat deze materialen toereikende be- of verwerkingen hebben ondergaan.
+
+3. Indien de in Jordanië verrichte be- of verwerkingen niet ingrijpender zijn dan de in artikel 7 bedoelde be- of verwerkingen, wordt het verkregen product enkel als van oorsprong uit Jordanië beschouwd indien de aldaar toegevoegde waarde groter is dan die van de gebruikte materialen van oorsprong uit een van de andere in de leden 1 en 2 bedoelde landen. Is dit niet het geval dan wordt het verkregen product beschouwd als van oorsprong uit het land waar de meeste waarde is toegevoegd aan de bij de vervaardiging in Jordanië gebruikte materialen van oorsprong.
+
+4. De producten van oorsprong uit een van de in de leden 1 en 2 genoemde landen die in Jordanië geen enkele be- of verwerking ondergaan, behouden hun oorsprong wanneer zij naar een van deze landen worden uitgevoerd.
+
+5. De cumulatie waarin dit artikel voorziet kan uitsluitend worden toegepast op voorwaarde dat:
+
+- a. een preferentiële handelsovereenkomst overeenkomstig artikel XXIV van de Algemene Overeenkomst inzake tarieven en handel (GATT) van toepassing is tussen de landen die betrokken zijn bij het verwerven van de oorsprong en het land van bestemming;
+
+- b. materialen en producten de oorsprong hebben verkregen door toepassing van oorsprongsregels die gelijk zijn aan die van dit protocol; en
+
+- c. kennisgevingen zijn gepubliceerd waaruit blijkt dat is voldaan aan de vereisten voor de toepassing van cumulatie in de C-reeks van het**Publicatieblad van de Europese Unie**en in Jordanië volgens zijn eigen procedures. De cumulatie waarin dit artikel voorziet, is van toepassing met ingang van de datum die is aangegeven in de kennisgeving in de C-reeks van het**Publicatieblad van de Europese Unie**. Jordanië zal de Gemeenschap door tussenkomst van de Commissie van de Europese Gemeenschappen nadere gegevens verstrekken over de overeenkomsten, met inbegrip van de datums van inwerkingtreding, en de daarin opgenomen oorsprongsregels, die met de andere in de leden 1 en 2 genoemde landen worden toegepast.
+
+##### Artikel 5. Geheel en al verkregen producten
 
 1. Als geheel en al in de Gemeenschap of in Jordanië verkregen worden beschouwd:
 
-- a. aldaar uit de bodem of zeebodem gewonnen producten;
+- a. aldaar uit de bodem of zeebodem gewonnen minerale producten;
 
 - b. aldaar geoogste producten van het plantenrijk;
 
-- c. aldaar geboren en opgefokte levende dieren;
+- c. aldaar geboren en gefokte levende dieren;
 
 - d. producten afkomstig van aldaar opgefokte levende dieren;
 
@@ -2098,99 +2132,97 @@ Voor de toepassing van dit Protocol wordt verstaan onder:
 
 - f. producten van de zeevisserij en andere buiten de territoriale wateren van de Gemeenschap of van Jordanië door hun schepen uit de zee gewonnen producten;
 
-- g. producten uitsluitend uit de onder f) bedoelde producten aan boord van hun fabrieksschepen vervaardigd;
+- g. producten uitsluitend uit de onder f bedoelde producten aan boord van hun fabrieksschepen vervaardigd;
 
-- h. aldaar verzamelde gebruikte artikelen die slechts voor de terugwinning van grondstoffen kunnen dienen; met inbegrip van gebruikte banden die uitsluitend geschikt zijn om van een nieuw loopvlak te worden voorzien of slechts als afval kunnen worden gebruikt;
+- h. aldaar verzamelde gebruikte artikelen die slechts voor de terugwinning van grondstoffen kunnen dienen, met inbegrip van gebruikte banden die uitsluitend geschikt zijn om van een nieuw loopvlak te worden voorzien of slechts als afval kunnen worden gebruikt;
 
-- i. afval afkomstig van aldaar verrichte fabrieksbewerkingen;
+- i. afval en schroot afkomstig van aldaar verrichte fabrieksbewerkingen;
 
-- j. producten, gewonnen van of vanonder de zeebodem buiten de territoriale wateren, mits zij alleen het recht hebben op ontginning van deze bodem of ondergrond;
+- j. producten, gewonnen uit de zeebodem of -ondergrond buiten de territoriale wateren, mits zij alleen het recht hebben op ontginning van deze bodem of ondergrond;
 
-- k. goederen die aldaar uitsluitend uit de onder a) tot en met j) bedoelde producten zijn vervaardigd.
+- k. goederen die aldaar uitsluitend uit de onder a tot en met j bedoelde producten zijn vervaardigd.
 
-2. De termen „hun schepen" en „hun fabrieksschepen" in lid 1, onder f) en g), zijn slechts van toepassing op schepen en fabrieksschepen
+2. De termen „hun schepen’’ en „hun fabrieksschepen’’ in lid 1, onder f en g, zijn slechts van toepassing op schepen en fabrieksschepen:
 
 - a. die in een lidstaat van de Gemeenschap of Jordanië zijn ingeschreven of geregistreerd;
 
 - b. die de vlag van een lidstaat van de Gemeenschap of van Jordanië voeren;
 
-- c. die voor ten minste 50 procent toebehoren aan onderdanen van lidstaten van de Gemeenschap of van Jordanië of aan een vennootschap die haar hoofdkantoor in een van deze staten heeft en waarvan de bedrijfsvoerder(s), de voorzitter van de raad van bestuur of van toezicht en de meerderheid van de leden van deze raden onderdanen zijn een lidstaat van de Gemeenschap of van Jordanië, en waarvan bovendien, in het geval van personenvennootschappen of vennootschappen met beperkte aansprakelijkheid, ten minste de helft van het kapitaal toebehoort aan deze staten of aan openbare lichamen of onderdanen daarvan;
+- c. die voor ten minste 50% toebehoren aan onderdanen van lidstaten van de Gemeenschap of van Jordanië of aan een onderneming die haar hoofdkantoor in een van deze staten heeft en waarvan de bedrijfsvoerder(s), de voorzitter van de raad van bestuur of van toezicht en de meerderheid van de leden van deze raden onderdanen zijn van een lidstaat van de Gemeenschap of van Jordanië, en waarvan bovendien, in het geval van personenvennootschappen of vennootschappen met beperkte aansprakelijkheid, ten minste de helft van het kapitaal toebehoort aan deze staten of aan openbare lichamen of onderdanen daarvan;
 
 - d. waarvan de kapitein en de officieren onderdanen zijn van lidstaten van de Gemeenschap of van Jordanië; en
 
-- e. waarvan de bemanning voor ten minste 75 procent uit onderdanen van lidstaten van de Gemeenschap of van Jordanië bestaat.
+- e. waarvan de bemanning voor ten minste 75% bestaat uit onderdanen van lidstaten of van Jordanië.
 
-##### Artikel 5. Toereikende bewerking of verwerking
+##### Artikel 6. Toereikende bewerking of verwerking
 
 1. Niet geheel en al verkregen producten worden geacht een toereikende bewerking of verwerking te hebben ondergaan in de zin van artikel 2, indien aan de voorwaarden van de lijst in bijlage II is voldaan.
 
-In deze lijst is voor alle onder deze Overeenkomst vallende producten aangegeven welke be- of verwerkingen niet van oorsprong zijnde materialen moeten ondergaan om het karakter van product van oorsprong te verkrijgen en zijn slechts op deze materialen van toepassing. Dit betekent dat indien een product dat de oorsprong heeft verkregen doordat het aan de voorwaarden in die lijst voor dat product heeft voldaan, als materiaal gebruikt wordt bij de vervaardiging van een ander product, de voorwaarden die van toepassing zijn op het product waarin het wordt verwerkt daarvoor niet gelden. Er wordt dan geen rekening gehouden met de niet van oorsprong zijnde materialen die bij de vervaardiging ervan zijn gebruikt.
+In deze lijst is voor alle onder deze overeenkomst vallende producten aangegeven welke be- of verwerkingen niet van oorsprong zijnde materialen moeten ondergaan om de oorsprong te verkrijgen en zijn slechts op deze materialen van toepassing. Dit betekent dat indien een product dat de oorsprong heeft verkregen doordat het aan de voorwaarden in die lijst voor dat product heeft voldaan, als materiaal gebruikt wordt bij de vervaardiging van een ander product, de voorwaarden die van toepassing zijn op het product waarin het wordt verwerkt daarvoor niet gelden. Er wordt dan geen rekening gehouden met niet van oorsprong zijnde materialen die bij de vervaardiging ervan zijn gebruikt.
 
-2. In afwijking van lid 1 kunnen niet van oorsprong zijnde materialen die volgens de voorwaarden in de lijst bij de vervaardiging van een bepaald product niet mogen worden gebruikt, in de volgende gevallen toch worden gebruikt:
+2. In afwijking van lid 1 kunnen niet van oorsprong zijnde materialen die volgens de voorwaarden in de lijst in bijlage II bij de vervaardiging van een bepaald product niet mogen worden gebruikt, in de volgende gevallen toch worden gebruikt:
 
-- a. wanneer de totale waarde ervan niet hoger is dan 10 procent van de prijs af fabriek van het product;
+- a. wanneer de totale waarde ervan niet meer dan 10% bedraagt van de prijs af fabriek van het product;
 
-- b. wanneer in de lijst een of meer percentages zijn gegeven voor de maximumwaarde van de materialen die niet van oorsprong zijn, en deze percentages door de toepassing van dit lid niet worden overschreden. Dit lid is niet van toepassing op de producten die onder de hoofdstukken 50 tot en met 63 van het geharmoniseerd systeem zijn ingedeeld.
+- b. wanneer een in de lijst vermelde maximumwaarde voor niet van oorsprong zijnde materialen door de toepassing van dit lid niet wordt overschreden. Dit lid is niet van toepassing op producten die onder de hoofdstukken 50 tot en met 63 van het geharmoniseerd systeem zijn ingedeeld.
 
-3. De leden 1 en 2 zijn van toepassing onder voorbehoud van het bepaalde in artikel 6.
+3. De leden 1 en 2 zijn van toepassing onder voorbehoud van artikel 7.
 
-##### Artikel 6. Ontoereikende bewerking of verwerking
+##### Artikel 7. Ontoereikende be- of verwerking
 
-1. Behoudens het bepaalde in lid 2 worden de volgende be- of verwerkingen als ontoereikend beschouwd om de oorsprong te verlenen, ongeacht of aan de voorwaarden van artikel 5 is voldaan:
+1. Behoudens lid 2 worden de volgende be- of verwerkingen beschouwd als ontoereikend om de oorsprong te verlenen, ongeacht of aan de voorwaarden van artikel 6 is voldaan:
 
-- a. behandelingen om de producten tijdens vervoer en opslag in goede staat te bewaren (luchten, uitspreiden, drogen, koelen, in water zetten waaraan zout, zwaveldioxide of andere producten zijn toegevoegd, verwijderen van beschadigde gedeelten en soortgelijke behandelingen);
+- a. behandelingen om de producten tijdens vervoer en opslag in goede staat te bewaren;
 
-- b. eenvoudige behandelingen zoals stofvrij maken, zeven, sorteren, classificeren, assorteren (daaronder begrepen het samenstellen van sets van artikelen), wassen, verven en snijden;
+- b. het splitsen en samenvoegen van colli;
 
-- c.
+- c. het wassen, schoonmaken; het stofvrij maken, verwijderen van roest, olie, verf of dergelijke;
 
-- i). veranderen van verpakkingen, splitsen en samenvoegen van colli;
+- d. het strijken of persen van textiel;
 
-- ii). eenvoudig verpakken in flessen, zakken, etuis, dozen of blikken, bevestigen op kaartjes of plankjes, enz., en alle andere handelingen in verband met de opmaak;
+- e. het eenvoudig schilderen of polijsten;
 
-- d. het aanbrengen van merken, etiketten of soortgelijke onderscheidingstekens op de producten zelf of op hun verpakkingen;
+- f. het doppen, het geheel of gedeeltelijk bleken, het polijsten of glanzen van granen en rijst;
 
-- e. eenvoudig mengen van producten, ook van verschillende soorten, indien een of meer bestanddelen van het mengsel niet voldoen aan de voorwaarden van dit Protocol om als producten van oorsprong uit de Gemeenschap of Jordanië te worden beschouwd;
+- g. het kleuren van suiker of het vormen van suikerklonten;
 
-- f. eenvoudig samenvoegen van delen tot een volledig product;
+- h. het pellen, ontpitten of schillen van noten, vruchten of groenten;
 
-- g. twee of meer van de onder a) tot en met f) vermelde behandelingen tezamen;
+- i. het aanscherpen, eenvoudig vermalen of eenvoudig versnijden;
 
-- h. het slachten van dieren.
+- j. het zeven, sorteren, classificeren, assorteren (daaronder begrepen het samenstellen van sets van artikelen);
 
-2. Om te bepalen of de be- of verwerkingen die een bepaald product heeft ondergaan ontoereikend zijn in de zin van lid 1, worden alle be- of verwerkingen die dit product in de Gemeenschap of in Jordanië heeft ondergaan tezamen genomen.
+- k. het eenvoudig plaatsen in flessen, flacons, blikken, zakken, kratten of dozen, het bevestigen op kaarten of platen en alle andere eenvoudige handelingen in verband met de opmaak;
 
-##### Artikel 7. Determinerende eenheid
+- l. het aanbrengen of opdrukken van merken, etiketten, beeldmerken of andere soortgelijke onderscheidingstekens op de producten zelf of op de verpakking ;
 
-1. De determinerende eenheid voor de toepassing van de bepalingen van dit Protocol is het product dat volgens de nomenclatuur van het geharmoniseerde systeem als de basiseenheid wordt beschouwd.
+- m. het eenvoudig mengen van producten, ook van verschillende soorten;
 
-Hieruit volgt dat:
+- n. het eenvoudig samenvoegen van delen van artikelen tot een volledig artikel dan wel het uit elkaar nemen van artikelen in onderdelen;
 
-- a. wanneer een product, bestaande uit een groep of verzameling van artikelen, onder één enkele post van het geharmoniseerde systeem wordt ingedeeld, het geheel de in aanmerking te nemen eenheid vormt;
+- o. twee of meer van de onder a tot en met n vermelde behandelingen tezamen;
 
-- b. wanneer een zending uit een aantal eendere producten bestaat die onder dezelfde post van het geharmoniseerde systeem worden ingedeeld, elk product voor de toepassing van de bepalingen van dit Protocol afzonderlijk moet worden genomen.
+- p. het slachten van dieren.
 
-2. Wanneer volgens algemene regel 5 voor de interpretatie van het geharmoniseerde systeem de verpakking meetelt voor het vaststellen van de indeling, telt deze ook mee voor het vaststellen van de oorsprong.
+2. Om te bepalen of de be- of verwerkingen die een bepaald product heeft ondergaan ontoereikend zijn in de zin van lid 1 worden alle be- of verwerkingen die dit product in de Gemeenschap of in Jordanië heeft ondergaan tezamen genomen.
 
-##### Artikel 8. Accessoires, vervangingsonderdelen en gereedschappen
+##### Artikel 8. Determinerende eenheid
 
-Accessoires, vervangingsonderdelen en gereedschappen die samen met materieel, machines, apparaten of voertuigen worden geleverd en deel uitmaken van de normale uitrusting daarvan en in de prijs daarvan zijn begrepen of niet afzonderlijk in rekening worden gebracht, worden geacht één geheel te vormen met het materieel en de machines, apparaten of voertuigen in kwestie.
+1. De determinerende eenheid voor de toepassing van de bepalingen van dit protocol is het product dat bij de bepaling van de indeling volgens het geharmoniseerd systeem als de basiseenheid wordt beschouwd. Hieruit volgt:
 
-##### Artikel 9. Stellen of assortimenten
+- a. wanneer een product, bestaande uit een groep of verzameling van artikelen, onder één enkele post van het geharmoniseerd systeem wordt ingedeeld, het geheel de in aanmerking te nemen eenheid vormt;
 
-Stellen of assortimenten in de zin van algemene regel 3 voor de interpretatie van het geharmoniseerde systeem, worden als van oorsprong beschouwd indien alle samenstellende delen van oorsprong zijn. Een stel of assortiment bestaande uit producten van oorsprong en producten die niet van oorsprong zijn, wordt evenwel als van oorsprong beschouwd indien de waarde van de producten die niet van oorsprong zijn niet meer dan 15 procent van de prijs af fabriek van het stel of assortiment bedraagt.
+- b. wanneer een zending bestaat uit een aantal identieke producten die onder dezelfde post van het geharmoniseerd systeem worden ingedeeld, elk product voor de toepassing van de bepalingen van dit protocol afzonderlijk moet worden genomen.
 
-##### Artikel 10. Neutrale elementen
+2. Wanneer volgens algemene regel 5 voor de interpretatie van het geharmoniseerd systeem de verpakking meetelt voor het vaststellen van de indeling, telt deze ook mee voor het vaststellen van de oorsprong.
 
-Om te bepalen of een product van oorsprong is, is het niet noodzakelijk de oorsprong na te gaan van de volgende zaken die bij de vervaardiging gebruikt kunnen zijn:
+##### Artikel 9. Accessoires, vervangingsonderdelen en gereedschappen
 
-- a. energie en brandstof;
+Accessoires, vervangingsonderdelen en gereedschappen die samen met materieel, machines, apparaten of voertuigen worden geleverd en deel uitmaken van de normale uitrusting daarvan en in de prijs daarvan zijn inbegrepen of niet afzonderlijk in rekening worden gebracht, worden geacht één geheel te vormen met het materieel en de machines, apparaten of voertuigen in kwestie.
 
-- b. fabrieksuitrusting;
+##### Artikel 10. Stellen of assortimenten
 
-- c. machines en werktuigen;
-
-- d. goederen die in de uiteindelijke samenstelling van het product niet voorkomen en ook niet bedoeld waren daarin voor te komen;
+Stellen of assortimenten in de zin van algemene regel 3 voor de interpretatie van het geharmoniseerd systeem, worden als van oorsprong beschouwd indien alle samenstellende delen van oorsprong zijn. Een stel of assortiment bestaande uit producten van oorsprong en producten die niet van oorsprong zijn, wordt evenwel als van oorsprong beschouwd indien de waarde van de producten die niet van oorsprong zijn niet meer dan 15% van de prijs af fabriek van het stel of assortiment bedraagt.
 
 ## TITEL III. TERRITORIALE VOORWAARDEN
 
@@ -2204,41 +2236,53 @@ Om te bepalen of een product van oorsprong is, is het niet noodzakelijk de oorsp
 
 - b. dat zij tijdens de periode dat ze waren uitgevoerd geen andere be- of verwerkingen hebben ondergaan dan die welke noodzakelijk waren om ze in goede staat te bewaren.
 
-##### Artikel 12. Rechtstreeks vervoer
+##### Artikel 12. Territorialiteitsbeginsel
 
-1. De bij deze Overeenkomst vastgestelde preferentiële regeling is uitsluitend van toepassing op producten die aan de voorwaarden van dit Protocol voldoen en die rechtstreeks tussen de Gemeenschap en Jordanië zijn vervoerd. Producten die één enkele zending vormen, kunnen via een ander grondgebied worden vervoerd, eventueel met overslag of tijdelijke opslag op dit grondgebied, voor zover ze in het land van doorvoer of opslag onder toezicht van de douane blijven en aldaar geen andere behandelingen ondergaan dan lossen en opnieuw laden of behandelingen om ze in goede staat te bewaren.
+1. Behoudens artikel 2, lid 1, onder c), de artikelen 3 en 4, en lid 3 van dit artikel moet aan de voorwaarden in titel II voor het verkrijgen van de oorsprong zonder onderbreking in de Gemeenschap of in Jordanië zijn voldaan.
 
-Producten van oorsprong mogen per pijpleiding via een ander grondgebied dan dat van de Gemeenschap of van Jordanië worden vervoerd.
+2. Behoudens de artikelen 3 en 4 worden producten van oorsprong die uit de Gemeenschap of Jordanië naar een ander land worden uitgevoerd en vervolgens opnieuw worden ingevoerd, als niet van oorsprong beschouwd, tenzij ten genoegen van de douaneautoriteiten wordt aangetoond dat:
+
+- a. de terugkerende goederen dezelfde zijn als de eerder uitgevoerde goederen; en
+
+- b. de goederen tijdens de periode dat ze waren uitgevoerd geen andere be- of verwerkingen hebben ondergaan dan die welke noodzakelijk waren om ze in goede staat te bewaren.
+
+3. Het verkrijgen van de oorsprong overeenkomstig de voorwaarden van titel II wordt niet beïnvloed door be- of verwerkingen buiten de Gemeenschap of Jordanië van uit de Gemeenschap of Jordanië uitgevoerde en later wederingevoerde materialen, indien:
+
+- a. deze materialen geheel en al in de Gemeenschap of Jordanië zijn verkregen dan wel, voorafgaand aan de uitvoer, aldaar be- of verwerkingen hebben ondergaan die meer inhouden dan die welke in artikel 7 zijn genoemd; en
+
+- b. ten genoegen van de douaneautoriteiten kan worden aangetoond dat:
+
+- i. de wederingevoerde goederen het resultaat zijn van de be- of verwerking van de uitgevoerde materialen; en
+
+- ii. de totale buiten de Gemeenschap of Jordanië toegevoegde waarde niet meer dan 10% bedraagt van de prijs af fabriek van het als product van oorsprong aangemerkte eindproduct.
+
+4. Voor de toepassing van lid 3 is titel II betreffende het verlenen van de oorsprong niet van toepassing op buiten de Gemeenschap of Jordanië verrichte be- of verwerkingen. Wanneer evenwel, in de lijst van bijlage II, voor de vaststelling van het karakter van product van oorsprong van het betrokken eindproduct een regel is opgenomen die de maximumwaarde van alle gebruikte niet van oorsprong zijnde materialen vaststelt, mogen de totale waarde van de niet van oorsprong zijnde materialen die in de betrokken partij worden verwerkt en de totale buiten de Gemeenschap of Jordanië overeenkomstig dit artikel toegevoegde waarde het vermelde percentage niet overschrijden.
+
+5. Voor de toepassing van de leden 3 en 4 wordt onder „totale toegevoegde waarde’’ verstaan alle buiten de Gemeenschap of Jordanië gemaakte kosten, met inbegrip van de waarde van de toegevoegde materialen.
+
+6. De leden 3 en 4 zijn niet van toepassing op producten die niet aan de voorwaarden van de lijst in bijlage II voldoen of die slechts kunnen worden aangemerkt als toereikend te zijn be- of verwerkt door toepassing van de algemene tolerantieregel van artikel 6, lid 2.
+
+7. De leden 3 en 4 zijn niet van toepassing op producten van de hoofdstukken 50 tot en met 63 van het geharmoniseerd systeem.
+
+8. De buiten de Gemeenschap of Jordanië verrichte be- of verwerkingen als bedoeld in dit artikel vinden plaats in het kader van de regeling passieve veredeling of een soortgelijke regeling.
+
+##### Artikel 13. Rechtstreeks vervoer
+
+1. De bij deze overeenkomst vastgestelde preferentiële regeling is uitsluitend van toepassing op producten die aan de voorwaarden van dit protocol voldoen en die rechtstreeks tussen de Gemeenschap en Jordanië of over het grondgebied van een ander in de artikelen 3 en 4 genoemd land waarmee cumulatie van toepassing is, zijn vervoerd. Goederen die één enkele zending vormen, kunnen via een ander grondgebied worden vervoerd, eventueel met overslag of tijdelijke opslag op dit grondgebied, voor zover ze in het land van doorvoer of opslag onder toezicht van de douane blijven en aldaar geen andere behandelingen ondergaan dan lossen en opnieuw laden of behandelingen om ze in goede staat te bewaren. Producten van oorsprong mogen via een pijpleiding door een ander grondgebied dan dat van de Gemeenschap of van Jordanië worden vervoerd.
 
 2. Het bewijs dat aan de in lid 1 bedoelde voorwaarden is voldaan, wordt geleverd door overlegging van de volgende stukken aan de douaneautoriteiten van het land van invoer:
 
-- a. een enkel vervoersdocument dat in het land van uitvoer is opgesteld ter dekking van het vervoer door het land van doorvoer, of
+- a. een enkel vervoerdocument dat het vervoer dekt van het land van uitvoer door het land van doorvoer;
 
-- b. een door de douaneautoriteiten van het land van doorvoer afgegeven certificaat, waarin:
+- b. een door de douaneautoriteiten van het land van doorvoer afgegeven certificaat:
 
-- i. de producten nauwkeurig zijn omschreven,
+- i. een nauwkeurige omschrijving van de goederen;
 
-- ii. de data zijn vermeld waarop de producten gelost en opnieuw geladen zijn, in voorkomend geval onder opgave van de naam van de gebruikte schepen, of van de andere gebruikte vervoermiddelen; en
+- ii. de data waarop de producten gelost en opnieuw geladen zijn, in voorkomend geval onder vermelding van de gebruikte schepen of andere vervoermiddelen; en
 
-- iii. een verklaring betreffende de voorwaarden waarop de producten in het land van doorvoer verbleven;
+- iii. at een verklaring bevat over de voorwaarden waarop de goederen in het land van doorvoer verbleven;
 
 - c. hetzij, bij gebreke van bovengenoemde stukken, enig ander bewijsstuk.
-
-##### Artikel 13. Tentoonstellingen
-
-1. De Overeenkomst is van toepassing op producten van oorsprong die naar een tentoonstelling in een ander land zijn verzonden en die na de tentoonstelling in de Gemeenschap of in Jordanië worden ingevoerd, mits ten genoegen van de douaneautoriteiten wordt aangetoond dat:
-
-- a. een exporteur deze producten vanuit de Gemeenschap of Jordanië naar het land van de tentoonstelling heeft verzonden en ze daar heeft tentoongesteld;
-
-- b. deze exporteur de producten heeft verkocht of op andere wijze afgestaan aan een geadresseerde in de Gemeenschap of Jordanië;
-
-- c. de producten tijdens of onmiddellijk na de tentoonstelling in dezelfde staat als waarin zij naar de tentoonstelling zijn gegaan zijn verzonden; en
-
-- d. de producten, vanaf het moment dat zij naar de tentoonstelling werden verzonden, niet voor andere doeleinden zijn gebruikt dan om op die tentoonstelling te worden vertoond.
-
-2. Een bewijs van de oorsprong wordt overeenkomstig de bepalingen van titel V afgegeven of opgesteld en op de normale wijze bij de douaneautoriteiten van het land van invoer ingediend. Op dit bewijs zijn de naam en het adres van de tentoonstelling vermeld. Zo nodig kunnen aanvullende bewijsstukken worden gevraagd ten aanzien van de aard van de producten en de voorwaarden waarop zij werden tentoongesteld.
-
-3. Lid 1 is van toepassing op alle tentoonstellingen, beurzen of soortgelijke openbare evenementen met een commercieel, industrieel, agrarisch of ambachtelijk karakter die niet voor particuliere doeleinden in winkels of bedrijfsruimten met het oog op de verkoop van buitenlandse producten worden gehouden, en gedurende welke de producten onder douanetoezicht zijn gebleven.
 
 ##### Artikel 14. Verbod op teruggave of vrijstelling van rechten
 
@@ -2266,21 +2310,17 @@ Producten van oorsprong mogen per pijpleiding via een ander grondgebied dan dat 
 
 2. In afwijking van lid 1 vallen producten van oorsprong in de zin van dit Protocol in de in artikel 25 bedoelde gevallen onder de toepassing van deze Overeenkomst zonder dat een van de hierboven genoemde documenten behoeft te worden overgelegd.
 
-##### Artikel 16. Procedure voor de afgifte van een certificaat inzake goederenverkeer EUR.1
+##### Artikel 16. Algemene voorwaarden
 
-1. Een certificaat inzake goederenverkeer EUR.1 (hierna „EUR.1-certificaat" genoemd) wordt afgegeven door de douaneautoriteiten van het land van uitvoer op schriftelijke aanvraag van de exporteur of, onder diens verantwoordelijkheid, van zijn gemachtigde vertegenwoordiger.
+1. De bepalingen van deze overeenkomst zijn van toepassing op producten van oorsprong uit de Gemeenschap die in Jordanië worden ingevoerd en op producten van oorsprong uit Jordanië die in de Gemeenschap worden ingevoerd, op vertoon van een van de volgende bewijzen van oorsprong:
 
-2. Te dien einde vult de exporteur of diens gemachtigde vertegenwoordiger zowel het EUR.1-certificaat als het aanvraagformulier in. Modellen van beide formulieren zijn in bijlage III opgenomen. Deze formulieren worden ingevuld in een van de talen waarin de Overeenkomst is opgesteld, overeenkomstig de bepalingen van het nationale recht van het land van uitvoer. Indien de formulieren met de hand worden ingevuld, dient dit met inkt en in blokletters te gebeuren. De producten moeten worden omschreven in het daartoe bestemde vak en er mogen geen regels worden opengelaten. Indien dit vak niet volledig is ingevuld, wordt onder de laatste regel een horizontale lijn getrokken en het niet ingevulde gedeelte doorgekruist.
+- a. een certificaat inzake goederenverkeer EUR.1, waarvan het model in bijlage III a is opgenomen;
 
-3. De exporteur die om de afgifte van een EUR.1-certificaat verzoekt, dient op verzoek van de douaneautoriteiten van het land van uitvoer waar dit certificaat wordt afgegeven, steeds bereid te zijn de nodige documenten te overleggen waaruit blijkt dat de betrokken producten van oorsprong zijn en dat aan alle andere voorwaarden van dit Protocol is voldaan.
+- b. een certificaat inzake goederenverkeer EUR-MED, waarvan het model in bijlage III b is opgenomen;
 
-4. Het EUR.1-certificaat wordt afgegeven door de douaneautoriteiten van een lidstaat van de Europese Gemeenschap of van Jordanië indien de uit te voeren goederen kunnen worden beschouwd als producten van oorsprong uit de Gemeenschap of uit Jordanië en indien aan de andere voorwaarden van dit Protocol is voldaan.
+- c. in de in artikel 22, lid 1, bedoelde gevallen, een verklaring van de exporteur (hierna „factuurverklaring’’ genoemd, of „factuurverklaring EUR-MED’’) op een factuur, pakbon of een ander handelsdocument, waarin de producten duidelijk genoeg zijn omschreven om geïdentificeerd te kunnen worden; de teksten van de factuurverklaringen zijn opgenomen in de bijlagen IV a en IV b.
 
-5. De met de afgifte van EUR.1-certificaten belaste douaneautoriteiten nemen alle nodige maatregelen om te controleren of de producten inderdaad van oorsprong zijn en of aan alle andere voorwaarden van dit Protocol is voldaan. Met het oog hierop zijn zij gerechtigd bewijsstukken op te vragen, de boeken van de exporteur in te zien en alle andere controles te verrichten die zij dienstig achten. Deze douaneautoriteiten zien er ook op toe dat de in lid 2 bedoelde formulieren correct zijn ingevuld. Zij gaan met name na of het voor de omschrijving van de goederen bestemde vak zo is ingevuld dat frauduleuze toevoegingen niet mogelijk zijn.
-
-6. De datum van afgifte van het EUR.1-certificaat wordt vermeld in vak 11 van het certificaat.
-
-7. Een EUR.1-certificaat wordt door de douaneautoriteiten afgegeven en ter beschikking van de exporteur gesteld zodra de goederen werkelijk worden uitgevoerd of wanneer het zeker is dat ze zullen worden uitgevoerd.
+2. Niettegenstaande lid 1 vallen producten van oorsprong in de zin van dit protocol in de in artikel 27 bedoelde gevallen onder de toepassing van de bepalingen van deze overeenkomst zonder dat een van de in lid 1 bedoelde bewijzen van oorsprong behoeft te worden overgelegd.
 
 ##### Artikel 17. Afgifte achteraf van een EUR.1-certificaat
 
@@ -2394,67 +2434,117 @@ Producten van oorsprong mogen per pijpleiding via een ander grondgebied dan dat 
 
 4. Het duplicaat, dat dezelfde datum van afgifte draagt als het oorspronkelijke EUR.1-certificaat geldt vanaf die datum.
 
-##### Artikel 19. Afgifte van een EUR.1-certificaat aan de hand van een eerder opgesteld of afgegeven bewijs van oorsprong
+##### Artikel 19. Afgifte van een duplicaat van een certificaat inzake goederenverkeer EUR.1 of EUR-MED
 
-Voor producten van oorsprong die in de Gemeenschap of Jordanië onder toezicht van een douanekantoor zijn geplaatst, kan het oorspronkelijke bewijs van oorsprong door een of meer EUR.1-certificaten worden vervangen bij verzending van deze producten of een gedeelte daarvan naar een andere plaats in de Gemeenschap of in Jordanië. Dit certificaat of deze certificaten worden afgegeven door het douanekantoor dat op de producten toezicht houdt.
+1. In geval van diefstal, verlies of vernietiging van een certificaat inzake goederenverkeer EUR.1 of EUR-MED, kan de exporteur de douaneautoriteiten die dit certificaat hadden afgegeven, verzoeken een duplicaat op te maken aan de hand van de uitvoerdocumenten die in hun bezit zijn.
 
-##### Artikel 20. Voorwaarden voor het opstellen van een factuurverklaring
+2. Op het aldus afgegeven duplicaat wordt het volgende Engelse woord aangebracht: „DUPLICATE’’.
 
-1. De in artikel 15, lid 1, onder b) genoemde factuurverklaring kan worden opgesteld door:
+3. De in lid 2 bedoelde aantekening wordt aangebracht in vak 7 van het duplicaat-certificaat inzake goederenverkeer EUR.1 of EUR-MED.
 
-- a. een toegelaten exporteur in de zin van artikel 21;
+4. Het duplicaat, dat dezelfde datum van afgifte draagt als het oorspronkelijke certificaat inzake goederenverkeer EUR.1 of EUR-MED, is vanaf die datum geldig.
 
-- b. ongeacht welke exporteur, voor zendingen bestaande uit een of meer colli die producten van oorsprong bevatten waarvan de totale waarde niet meer dan 6000 ecu bedraagt.
+##### Artikel 20. Afgifte van een certificaat inzake goederenverkeer EUR.1 of EUR-MED aan de hand van een eerder opgesteld of afgegeven bewijs van oorsprong
 
-2. Een factuurverklaring kan worden opgesteld indien de producten als van oorsprong uit de Gemeenschap of uit Jordanië kan worden beschouwd en aan de andere voorwaarden van dit Protocol voldoen.
+Voor producten van oorsprong die in de Gemeenschap of in Jordanië onder toezicht van een douanekantoor zijn geplaatst, kan het oorspronkelijke bewijs van oorsprong door een of meer certificaten inzake goederenverkeer EUR.1 of EUR-MED worden vervangen bij verzending van deze producten of een gedeelte daarvan naar een andere plaats in de Gemeenschap of in Jordanië. Dit certificaat of deze certificaten EUR.1 of EUR-MED worden afgegeven door het douanekantoor dat op de producten toezicht houdt.
 
-3. De exporteur die de factuurverklaring opstelt moet op verzoek van de douaneautoriteiten van het land van uitvoer steeds bereid zijn de nodige documenten te overleggen waaruit blijkt dat de betrokken producten van oorsprong zijn en dat aan de andere voorwaarden van dit Protocol is voldaan.
+##### Artikel 21. Gescheiden boekhouding
 
-4. Deze factuurverklaring, waarvan de tekst in bijlage IV is opgenomen, wordt door de exporteur op de factuur, de pakbon of een ander handelsdocument getypt, gestempeld of gedrukt in een van de in die bijlage opgenomen taalversies, overeenkomstig de bepalingen van het nationale recht van het land van uitvoer. Indien de factuurverklaring met de hand wordt opgesteld, geschiedt dit met inkt en in blokletters.
+1. Wanneer het aanzienlijke kosten of materiële moeilijkheden met zich brengt om afzonderlijke voorraden aan te houden van identieke en onderling verwisselbare materialen die van oorsprong en die niet van oorsprong zijn, kunnen de douaneautoriteiten op schriftelijk verzoek van de betrokkene toestaan dat voor het beheer van deze voorraden de methode van gescheiden boekhouding (hierna: „de methode’’ genoemd) wordt gebruikt.
 
-5. De factuurverklaring wordt door de exporteur eigenhandig ondertekend. Een toegelaten exporteur in de zin van artikel 21 behoeft deze verklaring echter niet te ondertekenen, mits hij de douaneautoriteiten een schriftelijke verklaring doet toekomen waarin hij de volle verantwoordelijkheid op zich neemt voor alle factuurverklaringen waaruit zijn identiteit blijkt alsof hij deze eigenhandig had ondertekend.
+2. Met behulp van de methode moet het mogelijk zijn dat in een bepaalde referentieperiode hetzelfde aantal producten „van oorsprong’’ wordt verkregen als verkregen zou zijn indien de voorraden fysiek waren gescheiden.
 
-6. Een factuurverklaring kan door de exporteur worden opgesteld bij de uitvoer van de producten waarop ze betrekking heeft of later, maar moet uiterlijk twee jaar na de invoer van de producten waarop ze betrekking heeft in het land van invoer worden aangeboden.
+3. De douaneautoriteiten kunnen aan de verlening van de in lid 1 bedoelde vergunning voor het gebruik van deze methode de door hen passend geachte voorwaarden verbinden.
 
-##### Artikel 21. Toegelaten exporteur
+4. De methode wordt toegepast, en de toepassing ervan wordt vastgelegd overeenkomstig de algemeen aanvaarde boekhoudbeginselen die van toepassing zijn in het land waar het product is vervaardigd.
 
-1. De douaneautoriteiten van het land van uitvoer kunnen een exporteur die veelvuldig producten verzendt waarop de Overeenkomst van toepassing is, vergunning verlenen factuurverklaringen op te stellen, ongeacht de waarde van de betrokken producten. Om voor een dergelijke vergunning in aanmerking te komen, moet de exporteur naar het oordeel van de douaneautoriteiten de nodige waarborgen bieden met betrekking tot de controle op de oorsprong van de producten en de naleving van alle andere voorwaarden van dit Protocol.
+5. Het bedrijf dat de methode toepast, kan bewijzen van de oorsprong afgeven of aanvragen, al naar gelang van het geval, voor de hoeveelheid producten die als van oorsprong kunnen worden beschouwd. De vergunninghouder verstrekt op verzoek van de douaneautoriteiten een verklaring over de wijze waarop de hoeveelheden zijn beheerd.
+
+6. De douaneautoriteiten houden toezicht op het gebruik van de vergunning en kunnen deze intrekken wanneer de vergunninghouder deze niet correct gebruikt of niet aan een van de andere in dit protocol omschreven voorwaarden voldoet.
+
+##### Artikel 22. Voorwaarden voor het opstellen van een factuurverklaring of een factuurverklaring EUR-MED
+
+1. Een factuurverklaring of een factuurverklaring EUR-MED als bedoeld in artikel 16, lid 1, onder c), kan worden opgesteld door:
+
+- a. een toegelaten exporteur in de zin van artikel 23; of
+
+- b. alle exporteurs, voor zendingen bestaande uit een of meer colli die producten van oorsprong bevatten waarvan de totale waarde niet meer dan 6 000 EUR bedraagt.
+
+2. Behoudens lid 3 kan een factuurverklaring worden opgesteld in de volgende gevallen:
+
+- –. indien de betrokken producten kunnen worden beschouwd als producten van oorsprong uit de Gemeenschap of Jordanië, zonder toepassing van cumulatie met materialen van oorsprong uit een van de andere in de artikelen 3 en 4 genoemde landen, en voldoen aan de andere eisen van dit protocol;
+
+- –. indien de betrokken producten kunnen worden beschouwd als producten van oorsprong uit een van de andere in de artikelen 3 en 4 genoemde landen waarmee cumulatie van toepassing is, zonder toepassing van cumulatie met materialen van oorsprong uit een van de andere in de artikelen 3 en 4 genoemde landen, en voldoen aan de andere eisen van dit protocol, op voorwaarde dat een EUR-MED-certificaat of een factuurverklaring EUR-MED is afgegeven in het land van oorsprong.
+
+3. Een factuurverklaring EUR-MED kan worden opgesteld indien de producten kunnen worden beschouwd als van oorsprong uit de Gemeenschap, uit Jordanië of uit een van de in de artikelen 3 en 4 genoemde landen waarmee cumulatie van toepassing is, en aan de voorwaarden van dit protocol voldoen,
+
+en:
+
+- –. cumulatie werd toegepast met materialen van oorsprong uit een van de andere in de artikelen 3 en 4 genoemde landen,
+
+of
+
+- –. de producten kunnen worden gebruikt als materialen in het kader van cumulatie voor de vervaardiging van producten voor uitvoer naar een van de andere in de artikelen 3 en 4 genoemde landen, of
+
+- –. de producten opnieuw kunnen worden uitgevoerd uit het land van bestemming naar een van de andere in de artikelen 3 en 4 genoemde landen.
+
+4. Een factuurverklaring EUR-MED bevat een van de volgende verklaringen in het Engels:
+
+- –. indien de oorsprong is verkregen door toepassing van cumulatie met materialen van oorsprong uit een of meer van de in de artikelen 3 en 4 genoemde landen:
+
+„CUMULATIE TOEGEPAST MET ……’’ (naam land(en))
+
+- –. indien de oorsprong is verkregen zonder toepassing van cumulatie met materialen van oorsprong uit een of meer van de in de artikelen 3 en 4 genoemde landen:
+
+„GEEN CUMULATIE TOEGEPAST’’.
+
+5. De exporteur die een factuurverklaring of een factuurverklaring EUR-MED opstelt moet op verzoek van de douaneautoriteiten van het land van uitvoer steeds de nodige documenten kunnen overleggen waaruit blijkt dat de betrokken producten van oorsprong zijn en dat aan de andere voorwaarden van dit protocol is voldaan.
+
+6. Een factuurverklaring of een factuurverklaring EUR-MED, waarvan de tekst in de bijlagen IV a en IV b is opgenomen, wordt door de exporteur op de factuur, de pakbon of een ander handelsdocument getypt, gestempeld of gedrukt in een van de in die bijlagen opgenomen talenversies, overeenkomstig de bepalingen van het nationale recht van het land van uitvoer. Indien de factuurverklaring met de hand wordt opgesteld, moet dit met inkt en in blokletters geschieden.
+
+7. De factuurverklaring en factuurverklaringen EUR-MED worden door de exporteur eigenhandig ondertekend. Een toegelaten exporteur in de zin van artikel 23 behoeft deze verklaring echter niet te ondertekenen, mits hij de douaneautoriteiten een schriftelijke verklaring doet toekomen waarin hij de volle verantwoordelijkheid op zich neemt voor alle factuurverklaringen waaruit zijn identiteit blijkt alsof hij deze eigenhandig had ondertekend.
+
+8. Een factuurverklaring of een factuurverklaring EUR-MED kan door de exporteur worden opgesteld bij of na de uitvoer van de goederen waarop zij betrekking heeft, doch dient binnen twee jaar na de invoer van deze producten in het land van invoer te worden aangeboden.
+
+##### Artikel 23. Toegelaten exporteurs
+
+1. De douaneautoriteiten van het land van uitvoer kunnen een exporteur (hierna „toegelaten exporteur’’ genoemd) die veelvuldig producten verzendt waarop de overeenkomst van toepassing is vergunning verlenen factuurverklaringen of factuurverklaringen EUR-MED op te stellen ongeacht de waarde van de betrokken producten. Om voor een dergelijke vergunning in aanmerking te komen, moet de exporteur naar het oordeel van de douaneautoriteiten de nodige waarborgen bieden met betrekking tot de controle op de oorsprong van de producten en de naleving van alle andere voorwaarden van dit protocol.
 
 2. De douaneautoriteiten kunnen het verlenen van de status van toegelaten exporteur afhankelijk stellen van door hen noodzakelijk geachte voorwaarden.
 
-3. De douaneautoriteiten kennen de toegelaten exporteur een nummer toe, dat in de factuurverklaringen wordt vermeld.
+3. De douaneautoriteiten kennen de toegelaten exporteur een nummer toe, dat in de factuurverklaring of de factuurverklaring EUR-MED wordt vermeld.
 
 4. De douaneautoriteiten houden toezicht op het gebruik van de vergunning door de toegelaten exporteur.
 
-5. De douaneautoriteiten kunnen de vergunning steeds intrekken. Zij zijn verplicht dit te doen wanneer de toegelaten exporteur niet langer de in lid 1 bedoelde garanties biedt, niet langer aan de in lid 2 bedoelde voorwaarden voldoet of de vergunning niet op de juiste wijze gebruikt.
+5. De douaneautoriteiten kunnen de vergunning te allen tijde intrekken. Zij zijn verplicht dit te doen wanneer de toegelaten exporteur niet meer de in lid 1 bedoelde garanties biedt, niet meer aan de in lid 2 bedoelde voorwaarden voldoet, of de vergunning oneigenlijk gebruikt.
 
-##### Artikel 22. Geldigheid van het bewijs van de oorsprong
+##### Artikel 24. Geldigheid van bewijzen van oorsprong
 
-1. Een bewijs van oorsprong is vier maanden geldig vanaf de datum van afgifte in het land van uitvoer. Het moet binnen deze periode worden ingediend bij de douaneautoriteiten van het land van invoer.
+1. Bewijzen van oorsprong zijn vier maanden geldig vanaf de datum van afgifte in het land van uitvoer en moeten binnen deze periode worden ingediend bij de douaneautoriteiten van het land van invoer.
 
-2. Bewijzen van oorsprong die na het verstrijken van de in lid 1 genoemde termijn bij de douaneautoriteiten van het land van invoer worden ingediend, kunnen met het oog op de toepassing van de preferentiële behandeling worden aanvaard wanneer de verlate indiening het gevolg is van buitengewone omstandigheden.
+2. Bewijzen van oorsprong die na het verstrijken van de in lid 1 genoemde termijn bij de douaneautoriteiten van het land van invoer worden ingediend, kunnen met het oog op de toepassing van de preferentiële behandeling worden aanvaard wanneer de verlate indiening het gevolg is van overmacht of buitengewone omstandigheden.
 
 3. In andere gevallen van verlate indiening kunnen de douaneautoriteiten van het land van invoer de bewijzen van oorsprong aanvaarden indien de producten vóór het verstrijken van genoemde termijn bij hen zijn aangebracht.
 
-##### Artikel 23. Overlegging van het bewijs van de oorsprong
+##### Artikel 25. Overlegging van bewijzen van oorsprong
 
-Bewijzen van oorsprong worden bij de douaneautoriteiten van het land van invoer ingediend overeenkomstig de aldaar geldende procedures. Deze autoriteiten kunnen een vertaling van dit certificaat verlangen. Zij kunnen voorts eisen dat de aangifte ten invoer vergezeld gaat van een verklaring van de importeur dat de producten aan de voorwaarden voor de toepassing van deze Overeenkomst voldoen.
+Bewijzen van oorsprong worden bij de douaneautoriteiten van het land van invoer ingediend overeenkomstig de aldaar geldende procedures. Deze autoriteiten kunnen om een vertaling van dit bewijs vragen. Zij kunnen voorts eisen dat de aangifte ten invoer vergezeld gaat van een verklaring van de importeur dat de producten aan de voorwaarden voor de toepassing van de overeenkomst voldoen.
 
-##### Artikel 24. Invoer in deelzendingen
+##### Artikel 26. Invoer in deelzendingen
 
-Wanneer, op verzoek van de importeur en op de door de douaneautoriteiten van het land van invoer vastgestelde voorwaarden, gedemonteerde of niet-gemonteerde producten in de zin van algemene regel 2 a) voor de interpretatie van het geharmoniseerd systeem, vallende onder de Afdelingen XVI en XVII of de posten 7308 en 9406 van het geharmoniseerd systeem, in deelzendingen worden ingevoerd, wordt één enkel bewijs van oorsprong bij de douaneautoriteiten ingediend bij de invoer van de eerste deelzending.
+Wanneer, op verzoek van de importeur en op de door de douaneautoriteiten van het land van invoer vastgestelde voorwaarden, gedemonteerde of niet-gemonteerde producten in de zin van algemene regel 2 a) voor de interpretatie van het geharmoniseerd systeem, vallende onder de afdelingen XVI en XVII of de posten 7308 en 9406 van het geharmoniseerd systeem, in deelzendingen worden ingevoerd, wordt één enkel bewijs van oorsprong bij de douaneautoriteiten ingediend bij de invoer van de eerste deelzending.
 
-##### Artikel 25. Vrijstelling van bewijs van de oorsprong
+##### Artikel 27. Vrijstelling van bewijs van oorsprong
 
-1. Producten die in kleine zendingen door particulieren aan particulieren worden verzonden of die deel uitmaken van de persoonlijke bagage van reizigers worden als producten van oorsprong toegelaten zonder dat het nodig is een formeel bewijs van oorsprong over te leggen, voor zover aan zulke producten ieder handelskarakter vreemd is en verklaard wordt dat zij aan de voorwaarden voor de toepassing van dit Protocol voldoen en er over de juistheid van een dergelijke verklaring geen twijfel bestaat. Voor postzendingen kan deze verklaring op het douaneaangifteformulier C2/CP3 of op een daaraan gehecht blad worden gesteld.
+1. Goederen die in kleine zendingen door particulieren aan particulieren worden verzonden of die deel uitmaken van de persoonlijke bagage van reizigers worden als producten van oorsprong toegelaten zonder dat een bewijs van oorsprong behoeft te worden overgelegd, voor zover aan zulke goederen ieder handelskarakter vreemd is en verklaard wordt dat zij aan de voorwaarden voor de toepassing van dit protocol voldoen en er over de juistheid van deze verklaring geen twijfel bestaat. Voor postzendingen kan deze verklaring op het douaneaangifteformulier CN22/CN23 of op een daaraan gehecht blad worden gesteld.
 
-2. Als invoer waaraan ieder handelskarakter vreemd is wordt beschouwd de invoer van incidentele aard van producten die uitsluitend bestemd zijn voor het persoonlijke gebruik van de geadresseerde, de reiziger of de leden van zijn gezin, voor zover noch de aard noch de hoeveelheid van de producten op commerciële doeleinden wijzen.
+2. Als invoer waaraan ieder handelskarakter vreemd is wordt beschouwd de invoer van incidentele aard van goederen die uitsluitend bestemd zijn voor persoonlijk gebruik door de geadresseerde, de reiziger of de leden van hun gezin, mits noch de aard, noch de hoeveelheid van de goederen op commerciële doeleinden wijzen.
 
-3. Voorts mag de totale waarde van deze producten niet meer bedragen dan 500 ecu voor kleine zendingen of 1200 ecu voor producten die deel uitmaken van de persoonlijke bagage van reizigers.
+3. Voorts mag de totale waarde van deze producten niet hoger zijn dan 500 EUR voor kleine zendingen of 1 200 EUR voor producten die deel uitmaken van de persoonlijke bagage van reizigers.
 
-##### Artikel 26. Bewijsstukken
+##### Artikel 28. Bewijsstukken
 
-De in artikel 16, lid 3, en artikel 20, lid 3, bedoelde documenten aan de hand waarvan wordt aangetoond dat producten die door een EUR.1-certificaat of een factuurverklaring worden gedekt producten van oorsprong zijn uit de Gemeenschap of uit Jordanië en aan de andere voorwaarden van dit Protocol voldoen, kunnen onder meer de volgende zijn:
+De in artikel 17, lid 3, en artikel 22, lid 5, bedoelde documenten aan de hand waarvan wordt aangetoond dat producten die door een certificaat inzake goederenverkeer EUR.1 of EUR-MED of een factuurverklaring of een factuurverklaring EUR-MED worden gedekt producten van oorsprong zijn uit de Gemeenschap, Jordanië of een van de andere in de artikelen 3 en 4 genoemde landen en aan de andere voorwaarden van dit protocol voldoen, kunnen onder meer de volgende zijn:
 
 - a. een rechtstreeks bewijs, bijvoorbeeld aan de hand van de boekhouding of de interne administratie van de exporteur of leverancier, van de door deze uitgevoerde be- of verwerkingen om de producten te verkrijgen;
 
@@ -2462,33 +2552,19 @@ De in artikel 16, lid 3, en artikel 20, lid 3, bedoelde documenten aan de hand w
 
 - c. in de Gemeenschap of in Jordanië afgegeven of opgestelde, en volgens het nationale recht gebruikte documenten waaruit de be- of verwerking in de Gemeenschap of in Jordanië blijkt;
 
-- d. EUR.1-certificaten of factuurverklaringen waaruit de oorsprong van de gebruikte materialen blijkt, die overeenkomstig dit Protocol in de Gemeenschap of in Jordanië zijn afgegeven of opgesteld.
+- d. certificaten inzake goederenverkeer EUR.1 of EUR-MED of factuurverklaringen of factuurverklaringen EUR-MED waaruit de oorsprong van de gebruikte materialen blijkt, die overeenkomstig dit protocol in de Gemeenschap of in Jordanië zijn afgegeven of opgesteld, of die in een van de andere in de artikelen 3 en 4 genoemde landen zijn opgesteld overeenkomstig oorsprongsregels die gelijk zijn aan de oorsprongsregels in dit protocol;
 
-##### Artikel 27. Bewaring van oorsprongsbewijzen en andere bewijsstukken
+- e. passende bewijsstukken betreffende be- of verwerking buiten de Gemeenschap of Jordanië in toepassing van artikel 12 waaruit blijkt dat aan de voorwaarden van dat artikel is voldaan.
 
-1. De exporteur die om de afgifte van een EUR.1-certificaat verzoekt, bewaart de in artikel 16, lid 3 bedoelde bewijsstukken gedurende ten minste drie jaar.
+##### Artikel 29. Bewaring van de bewijzen van oorsprong en de andere bewijsstukken
 
-2. De exporteur die een factuurverklaring heeft opgesteld, bewaart een kopie van deze factuurverklaring en van de in artikel 20, lid 3, bedoelde documenten gedurende ten minste drie jaar.
+1. De exporteur die om de afgifte van een certificaat inzake goederenverkeer EUR.1 of EUR-MED verzoekt, bewaart de in artikel 17, lid 3, bedoelde bewijsstukken gedurende een periode van ten minste drie jaar.
 
-3. De douaneautoriteiten van het land van uitvoer die een EUR.1-certificaat afgeven bewaren het in artikel 16, lid 2, bedoelde aanvraagformulier gedurende ten minste drie jaar.
+2. Exporteurs die een factuurverklaring of een factuurverklaring EUR-MED opstellen, dienen een kopie van deze factuurverklaring en van de in artikel 22, lid 5, bedoelde documenten gedurende ten minste drie jaar te bewaren.
 
-4. De douaneautoriteiten van het land van invoer bewaren de EUR.1-certificaten en factuurverklaringen die bij hen werden ingediend gedurende ten minste drie jaar.
+3. De douaneautoriteiten van het land van uitvoer die een certificaat inzake goederenverkeer EUR.1 of EUR-MED afgeven bewaren het in artikel 17, lid 2, bedoelde aanvraagformulier gedurende een periode van ten minste drie jaar.
 
-##### Artikel 28. Verschillen en vormfouten
-
-1. Worden geringe verschillen vastgesteld tussen de gegevens in het bewijs van oorsprong en de gegevens in de documenten die in verband met de formaliteiten bij invoer bij het douanekantoor worden ingediend, dan is het bewijs van oorsprong daardoor niet automatisch ongeldig, indien blijkt dat het wel degelijk met de aangebrachte producten overeenstemt.
-
-2. Kennelijke vormfouten zoals typefouten op het bewijs van oorsprong maken dit document niet ongeldig, indien deze fouten niet van dien aard zijn dat zij twijfel doen rijzen over de juistheid van de in daarin vermelde gegevens.
-
-##### Artikel 29. In ecu uitgedrukte bedragen
-
-1. Het land van uitvoer stelt de tegenwaarde vast in zijn nationale valuta van de in ecu uitgedrukte bedragen en deelt deze via de Commissie van de Europese Gemeenschappen aan de landen van invoer mede.
-
-2. Indien deze bedragen hoger zijn dan de overeenkomstige door het land van invoer vastgestelde bedragen, worden ze door laatstgenoemd land aanvaard indien de producten gefactureerd zijn in de valuta van het land van uitvoer. Indien de producten gefactureerd zijn in de valuta van een andere lidstaat van de Gemeenschap, aanvaardt het land van invoer het door het betrokken land medegedeelde bedrag.
-
-3. De tegenwaarde van de ecu in een nationale valuta is gelijk aan de tegenwaarde van de ecu in die nationale valuta op de eerste werkdag van oktober 1996.
-
-4. De in ecu uitgedrukte bedragen en de tegenwaarde daarvan in de nationale valuta van de lidstaten van de Gemeenschap en Jordanië worden op verzoek van de Gemeenschap of Jordanië door het Associatiecomité herzien. Bij deze herziening ziet het Associatiecomité erop toe dat de bedragen in geen enkele nationale valuta zullen dalen. Voorts onderzoekt het Associatiecomité of het wenselijk is de betreffende limieten in reële termen te handhaven. Het kan in dit verband besluiten de in ecu uitgedrukte bedragen te wijzigen.
+4. De douaneautoriteiten van het land van invoer bewaren de certificaten inzake goederenverkeer EUR.1 of EUR-MED en de factuurverklaringen en factuurverklaringen EUR-MED die bij hen werden ingediend gedurende een periode van ten minste drie jaar.
 
 ## TITEL VI. REGELINGEN VOOR ADMINISTRATIEVE SAMENWERKING
 
@@ -2512,21 +2588,31 @@ De in artikel 16, lid 3, en artikel 20, lid 3, bedoelde documenten aan de hand w
 
 6. Indien bij gegronde twijfel binnen tien maanden na het verzoek om controle geen antwoord is ontvangen, of indien het antwoord niet voldoende gegevens bevat om de echtheid van het betrokken document of de werkelijke oorsprong van de producten vast te stellen, kennen de aanvragende douaneautoriteiten de preferentiële behandeling niet toe, behoudens buitengewone omstandigheden.
 
-##### Artikel 32. Regeling van geschillen
+##### Artikel 32. Wederzijdse bijstand
 
-Geschillen ten aanzien van de in artikel 31 bedoelde controles die niet onderling geregeld kunnen worden tussen de douaneautoriteiten die de controle hebben aangevraagd en de douaneautoriteiten die deze hebben moeten uitvoeren, en problemen in verband met de interpretatie van dit Protocol, worden aan het Associatiecomité voorgelegd.
+1. De douaneautoriteiten van de lidstaten van de Gemeenschap en van Jordanië doen elkaar via de Europese Commissie afdrukken toekomen van de stempels die in hun douanekantoren worden gebruikt bij de afgifte van certificaat inzake goederenverkeer EUR.1 of EUR-MED, alsmede de adressen van de douaneautoriteiten die belast zijn met de controle van deze certificaten en de factuurverklaringen en factuurverklaringen EUR-MED of leveranciersverklaringen.
+
+2. Met het oog op de correcte toepassing van dit protocol verlenen de Gemeenschap en Jordanië elkaar, via de bevoegde douane-instanties, bijstand bij de controle op de echtheid van de EUR.1- en EUR-MED-certificaten en de factuurverklaringen en factuurverklaringen EUR-MED en de juistheid van de daarin vermelde gegevens.
+
+##### Artikel 33. Controle van de bewijzen van oorsprong
+
+1. Bewijzen van oorsprong worden achteraf steekproefsgewijs gecontroleerd, alsmede wanneer de douaneautoriteiten van het land van invoer redenen hebben om te twijfelen aan de echtheid van deze documenten, de oorsprong van de betrokken producten of de naleving van de andere voorwaarden van dit protocol.
+
+2. Met het oog op de toepassing van lid 1 zenden de douaneautoriteiten van het land van invoer het certificaat inzake goederenverkeer EUR.1 of EUR-MED, de factuur, indien deze werd voorgelegd, de factuurverklaring of de factuurverklaring EUR-MED of een kopie van deze documenten, terug aan de douaneautoriteiten van het land van uitvoer, in voorkomend geval onder vermelding van de redenen waarom een controle wordt aangevraagd. Zij verstrekken bij deze aanvraag om controle alle documenten en gegevens die het vermoeden hebben doen rijzen dat de gegevens op het bewijs van oorsprong onjuist zijn.
+
+3. De controle wordt verricht door de douaneautoriteiten van het land van uitvoer. Met het oog hierop zijn zij gerechtigd bewijsstukken op te vragen, de administratie van de exporteur in te zien en alle andere controles te verrichten die zij dienstig achten.
+
+4. Indien de douaneautoriteiten van het land van invoer besluiten de preferentiële behandeling niet toe te kennen zolang de uitslag van de controle niet bekend is, doen zij de importeur het voorstel de producten vrij te geven onder voorbehoud van de noodzakelijk geachte conservatoire maatregelen.
+
+5. De resultaten van de controle worden zo spoedig mogelijk medegedeeld aan de douaneautoriteiten die deze hebben aangevraagd. In deze mededeling moet duidelijk worden aangegeven of de documenten echt zijn, of de betrokken producten als producten van oorsprong uit de Gemeenschap, Jordanië of een van de andere in de artikelen 3 en 4 genoemde landen beschouwd kunnen worden en of aan de andere voorwaarden van dit protocol is voldaan.
+
+6. Indien bij gegronde twijfel binnen tien maanden na het verzoek om controle geen antwoord is ontvangen of indien het antwoord niet voldoende gegevens bevat om de echtheid van het betrokken document of de werkelijke oorsprong van de producten vast te stellen, kennen de aanvragende douaneautoriteiten de preferentiële behandeling niet toe, behoudens buitengewone omstandigheden.
+
+##### Artikel 34. Regeling van geschillen
+
+Geschillen ten aanzien van de in artikel 33 bedoelde controles die niet onderling geregeld kunnen worden door de douaneautoriteiten die de controle hebben aangevraagd en de douaneautoriteiten die deze hebben moeten uitvoeren, en problemen in verband met de interpretatie van dit protocol worden aan het Associatiecomité voorgelegd.
 
 In alle gevallen is de wetgeving van het land van invoer van toepassing op de regeling van geschillen tussen een importeur en de douaneautoriteiten van het land van invoer.
-
-##### Artikel 33. Sancties
-
-Tegen eenieder die een document met onjuiste gegevens opstelt of laat opstellen met het doel producten onder de preferentiële regeling te doen vallen, worden sancties getroffen.
-
-##### Artikel 34. Vrije zones
-
-1. De Gemeenschap en Jordanië nemen alle nodige maatregelen om te voorkomen dat producten die onder geleide van een bewijs van de oorsprong worden verhandeld en die tijdens het vervoer in een op hun grondgebied gelegen vrije zone verblijven, door andere goederen worden vervangen of andere behandelingen ondergaan dan die welke gebruikelijk zijn om ze in goede staat te bewaren.
-
-2. In afwijking van het bepaalde in lid 1 dienen de bevoegde douaneautoriteiten, wanneer producten van oorsprong uit de Gemeenschap of uit Jordanië die onder dekking van een bewijs van de oorsprong in een vrije zone zijn ingevoerd een be- of verwerking ondergaan, op verzoek van de exporteur een nieuw EUR.1-certificaat af te geven mits deze be- of verwerking met de bepalingen van dit Protocol overeenstemt.
 
 ## TITEL VII. CEUTA EN MELILLA
 
@@ -2578,9 +2664,337 @@ Het Associatiecomité kan besluiten de bepalingen van dit Protocol te wijzigen.
 
 De Gemeenschap en Jordanië nemen, ieder voor zich, de maatregelen die nodig zijn voor de tenuitvoerlegging van dit Protocol.
 
-##### Artikel 39. Goederen in doorvoer of in opslag
+##### Artikel 39. Wijzigingen op het protocol
 
-De Overeenkomst kan worden toegepast op goederen die aan de bepalingen van dit Protocol voldoen en die op de datum van inwerkingtreding van de Overeenkomst onderweg zijn of die in de Gemeenschap of in Jordanië tijdelijk zijn opgeslagen of zich daar in een douane-entrepot of vrije zone bevinden, mits binnen vier maanden na die datum een EUR.1-certificaat bij de douaneautoriteiten van de staat van invoer wordt ingediend dat achteraf door de bevoegde instanties van de staat van uitvoer is opgesteld, tezamen met de documenten waaruit blijkt dat de goederen rechtstreeks zijn vervoerd.
+De Associatieraad kan besluiten bepalingen van dit protocol te wijzigen.
+
+##### Artikel 1. Definities
+
+Voor de toepassing van dit protocol wordt verstaan onder:
+
+- a. „douanewetgeving": alle wettelijke en bestuursrechtelijke bepalingen die op het grondgebied van de partijen van toepassing zijn op de invoer, de uitvoer en de doorvoer van goederen en de plaatsing van goederen onder een douaneregeling, met inbegrip van de verbods-, beperkings- en controlemaatregelen die deze partijen hebben vastgesteld;
+
+- b. „verzoekende autoriteit": een bevoegde administratieve autoriteit die hiertoe door een partij is aangewezen en die een verzoek om administratieve bijstand in douanezaken indient;
+
+- c. „aangezochte autoriteit": een bevoegde administratieve autoriteit die hiertoe door een partij is aangewezen en die een verzoek om administratieve bijstand in douanezaken ontvangt;
+
+- d. „persoonsgegevens": alle inlichtingen over een bepaalde of te bepalen natuurlijke persoon.
+
+##### Artikel 2. Werkingssfeer
+
+1. De partijen verlenen elkaar bijstand, op de onder hun rechtsbevoegdheid vallende gebieden, en op de wijze en onder de voorwaarden als in dit protocol vastgesteld, ten aanzien van de preventie, de opsporing en het onderzoek van overtredingen van de douanewetgeving.
+
+2. De bijstand in douanezaken waarin dit protocol voorziet, geldt voor elke administratieve autoriteit van de partijen die bevoegd is voor de toepassing van dit protocol. Deze bijstand doet geen afbreuk aan de regels betreffende de wederzijdse bijstand in strafzaken en geldt niet voor informatie die is verkregen krachtens bevoegdheden die op verzoek van de rechterlijke autoriteiten worden uitgeoefend, tenzij deze autoriteiten hiermee instemmen.
+
+##### Artikel 3. Bijstand op verzoek
+
+1. Op aanvraag van de verzoekende autoriteit verschaft de aangezochte autoriteit eerstgenoemde alle ter zake dienende informatie die deze nodig heeft voor de correcte toepassing van de douanewetgeving, met inbegrip van informatie betreffende vastgestelde of voorgenomen transacties die met deze wetgeving in strijd zijn of kunnen zijn.
+
+2. Op aanvraag van de verzoekende autoriteit deelt de aangezochte autoriteit haar mede of goederen die uit het grondgebied van een partij zijn uitgevoerd, op regelmatige wijze op het grondgebied van de andere partij zijn ingevoerd, onder vermelding, in voorkomend geval, van de douaneregeling waaronder deze goederen zijn geplaatst.
+
+3. Op aanvraag van de verzoekende autoriteit ziet de aangezochte autoriteit erop toe, binnen de grenzen van haar wetgeving, dat bijzonder toezicht wordt uitgeoefend op:
+
+- a. natuurlijke personen of rechtspersonen ten aanzien waarvan een gegrond vermoeden bestaat dat zij de douanewetgeving overtreden of hebben overtreden;
+
+- b. plaatsen waar goederen op zodanige wijze worden opgeslagen dat er aanleiding is om te vermoeden dat zij bedoeld zijn om in strijd met de douanewetgeving te worden gebruikt;
+
+- c. goederenbewegingen waarover is gemeld dat zij aanleiding kunnen geven tot overtredingen van de douanewetgeving;
+
+- d. vervoermiddelen waarvan op redelijke gronden wordt vermoed dat zij bij het plegen van overtredingen van de douanewetgeving zijn gebruikt, worden gebruikt of zouden kunnen worden gebruikt.
+
+##### Artikel 4. Bijstand op eigen initiatief
+
+De partijen verlenen elkaar bijstand, in overeenstemming met hun wetten, voorschriften en andere rechtsinstrumenten, indien zij zulks noodzakelijk achten voor de juiste toepassing van de douanewetgeving, in het bijzonder indien zij informatie hebben verkregen over:
+
+- –. transacties die met deze wetgeving in strijd zijn of lijken te zijn en die van belang kunnen zijn voor de andere partij;
+
+- –. nieuwe middelen of methoden die bij dergelijke transacties worden gebruikt;
+
+- –. goederen waarvan bekend is dat zij het voorwerp vormen van overtredingen van de douanewetgeving;
+
+- –. natuurlijke personen of rechtspersonen waarvan redelijkerwijze vermoed kan worden dat zij in strijd met de douanewetgeving handelen of hebben gehandeld;
+
+- –. vervoermiddelen waarvan redelijkerwijze vermoed kan worden dat zij bij overtredingen van de douanewetgeving zijn gebruikt, worden gebruikt of zouden kunnen worden gebruikt.
+
+##### Artikel 5. Afgifte van documenten/Kennisgeving van besluiten
+
+Op aanvraag van de verzoekende autoriteit neemt de aangezochte autoriteit, overeenkomstig haar wetgeving, alle maatregelen die nodig zijn voor:
+
+- –. de afgifte van documenten
+
+- –. de kennisgeving van besluiten
+
+in verband met de toepassing van dit protocol, aan een geadresseerde die op haar grondgebied verblijft of gevestigd is. In dergelijk geval is artikel 6, lid 3, van toepassing.
+
+##### Artikel 6. Vorm en inhoud van verzoeken om bijstand
+
+1. Verzoeken in het kader van dit protocol worden schriftelijk gedaan en gaan vergezeld van de bescheiden die voor de behandeling ervan noodzakelijk zijn. In spoedeisende gevallen kunnen mondelinge verzoeken worden aanvaard, mits zij onmiddellijk schriftelijk worden bevestigd.
+
+2. De overeenkomstig lid 1 ingediende verzoeken bevatten de hierna volgende gegevens:
+
+- a. de naam van de verzoekende autoriteit,
+
+- b. de gevraagde maatregel,
+
+- c. het voorwerp en de reden van het verzoek,
+
+- d. de relevante wetten, voorschriften en andere rechtselementen,
+
+- e. zo nauwkeurig en volledig mogelijke informatie betreffende de natuurlijke personen of rechtspersonen waarop het onderzoek betrekking heeft,
+
+- f. een overzicht van de relevante feiten en van het reeds uitgevoerde onderzoek, behalve in de in artikel 5 bedoelde gevallen.
+
+3. De verzoeken worden ingediend in een officiële taal van de aangezochte autoriteit of in een voor deze autoriteit aanvaardbare taal.
+
+4. Indien een verzoek niet in de juiste vorm wordt gedaan, kan om correctie of aanvulling worden verzocht. Er kunnen echter reeds voorzorgsmaatregelen worden genomen.
+
+##### Artikel 7. Behandeling van verzoeken
+
+1. De aangezochte autoriteit behandelt verzoeken om bijstand, binnen de grenzen van haar bevoegdheden en met de middelen waarover zij beschikt, alsof zij voor eigen rekening of in opdracht van een andere autoriteit van dezelfde partij handelt, door reeds beschikbare informatie te verstrekken en het nodige onderzoek te verrichten of te doen verrichten. Deze bepaling is eveneens van toepassing op een administratieve dienst waaraan de aangezochte autoriteit het verzoek heeft doorgezonden, indien de laatstgenoemde niet zelfstandig kan handelen.
+
+2. Verzoeken om bijstand worden behandeld overeenkomstig de wetten, voorschriften en andere rechtsinstrumenten van de aangezochte partij.
+
+3. Daartoe gemachtigde ambtenaren van een partij kunnen, met instemming van de andere betrokken partij en op de door deze gestelde voorwaarden, van de diensten van de aangezochte autoriteit of van een andere instantie die onder de aangezochte autoriteit ressorteert, informatie verkrijgen over transacties die met de douanewetgeving in strijd zijn of kunnen zijn, wanneer de verzoekende autoriteit deze nodig heeft ter uitvoering van het bepaalde in dit protocol.
+
+4. Ambtenaren van een partij kunnen, met de toestemming van de andere partij en op de door deze gestelde voorwaarden, aanwezig zijn bij onderzoek dat op het grondgebied van de laatstgenoemde wordt verricht.
+
+##### Artikel 8. Vorm waarin de informatie dient te worden verstrekt
+
+1. De aangezochte autoriteit deelt de uitslag van het onderzoek aan de verzoekende autoriteit mede in de vorm van bescheiden, voor echt gewaarmerkte afschriften van bescheiden, rapporten en dergelijke.
+
+2. De in lid 1 bedoelde bescheiden kunnen worden vervangen door informatie die, in welke vorm dan ook, met behulp van systemen voor automatische gegevensverwerking voor hetzelfde doel wordt verstrekt.
+
+##### Artikel 9. Gevallen waarin geen bijstand behoeft te worden verleend
+
+1. De partijen kunnen de in dit protocol bedoelde bijstand weigeren wanneer het verlenen ervan:
+
+- a. de soevereiniteit van Jordanië of van een lidstaat van de Gemeenschap waaraan op grond van dit protocol om bijstand wordt gevraagd zou kunnen aantasten;
+
+- b. de openbare orde, de veiligheid of andere wezenlijke belangen in het gevaar zou kunnen brengen;
+
+- c. de toepassing inhoudt van andere valuta- of belastingregelingen dan die welke betrekking hebben op de douanerechten; of
+
+- d. de schending zou inhouden van een industrieel geheim, een handelsgeheim of een beroepsgeheim.
+
+2. Wanneer de verzoekende autoriteit om een vorm van bijstand verzoekt die zij desgevraagd zelf niet zou kunnen verlenen, vermeldt zij dit in haar verzoek. De aangezochte autoriteit is vrij te bepalen hoe zij op een dergelijk verzoek reageert.
+
+3. Indien bijstand wordt geweigerd, dient dit besluit en de redenen ervan terstond aan de verzoekende autoriteit te worden medegedeeld.
+
+##### Artikel 10. Uitwisseling van gegevens en geheimhoudingsplicht
+
+1. Alle informatie die ter uitvoering van dit protocol in welke vorm dan ook wordt verstrekt, heeft een vertrouwelijk karakter. Zij valt onder de geheimhoudingsplicht en geniet de bescherming van de wetgeving ter zake van de partij die ze heeft ontvangen en van de desbetreffende bepalingen die op de instellingen van de Gemeenschap van toepassing zijn.
+
+2. Persoonsgegevens mogen uitsluitend worden doorgegeven indien de partij die deze ontvangt zich ertoe verbindt deze op een wijze te beschermen die gelijkwaardig is aan de wijze waarop de partij die deze gegevens verstrekt deze beschermt.
+
+3. De verkregen informatie mag uitsluitend worden gebruikt voor de in dit protocol omschreven doeleinden. Een partij mag deze informatie slechts voor andere doeleinden gebruiken na schriftelijke toestemming van de administratieve autoriteit die ze heeft verstrekt. Voorts gelden voor deze informatie de door deze autoriteit vastgestelde beperkingen.
+
+4. Het bepaalde in lid 3 vormt geen beletsel voor het gebruik van informatie in gerechtelijke of administratieve procedures die op een later tijdstip worden ingesteld wegens niet-naleving van de douanewetgeving. De bevoegde autoriteit die de informatie heeft verstrekt wordt van een dergelijk gebruik in kennis gesteld.
+
+5. De partijen kunnen de overeenkomstig het bepaalde in dit protocol verkregen informatie en geraadpleegde bescheiden als bewijsmateriaal gebruiken in hun rapporten, getuigenverklaringen en in gerechtelijke procedures.
+
+##### Artikel 11. Deskundigen en getuigen
+
+1. Een onder een aangezochte autoriteit ressorterende ambtenaar kan worden gemachtigd, binnen de perken van de hem verleende machtiging, in het rechtsgebied van een andere partij als getuige of deskundige op te treden in gerechtelijke of administratieve procedures die betrekking hebben op aangelegenheden waarop dit protocol van toepassing is, en daarbij de voor deze procedures noodzakelijke voorwerpen, bescheiden of voor echt gewaarmerkte afschriften van bescheiden over te leggen. In de convocatie dient uitdrukkelijk te worden vermeld over welke aangelegenheid en in welke functie of hoedanigheid de betrokken ambtenaar zal worden ondervraagd.
+
+2. De gemachtigde ambtenaar geniet op het grondgebied van de verzoekende autoriteit dezelfde rechtsbescherming als de eigen ambtenaren van die autoriteit.
+
+##### Artikel 12. Kosten van de bijstand
+
+De partijen brengen elkaar geen kosten in rekening voor uitgaven die ter uitvoering van het bepaalde in dit protocol zijn gemaakt, met uitzondering, in voorkomend geval, van de uitgaven voor deskundigen, getuigen, tolken en vertalers die niet in overheidsdienst zijn.
+
+##### Artikel 13. Tenuitvoerlegging
+
+1. De nationale douaneautoriteiten van Jordanië, enerzijds, en de bevoegde diensten van de Commissie van de Europese Gemeenschappen en, in voorkomend geval, de douaneautoriteiten van de lidstaten van de Europese Unie, anderzijds. Deze instanties stellen alle praktische maatregelen en bepalingen voor de toepassing van dit protocol vast, rekening houdend met de voorschriften op het gebied van de gegevensbescherming. Zij kunnen, via het Comité Douanesamenwerking, de Associatieraad voorstellen doen voor wijzigingen die huns inziens in dit protocol dienen te worden aangebracht.
+
+2. De partijen plegen overleg over en stellen elkaar in kennis van alle uitvoeringsbepalingen die op grond van dit protocol worden vastgesteld.
+
+##### Artikel 14. Complementariteit
+
+Onverminderd artikel 10, doen overeenkomsten inzake wederzijdse bijstand die tussen een of meer lidstaten van de Europese Gemeenschap en Jordanië zijn of worden gesloten geen afbreuk aan de communautaire bepalingen betreffende de uitwisseling, tussen de bevoegde diensten van de Commissie en de douaneautoriteiten van de lidstaten, van alle over douaneaangelegenheden verkregen informatie die voor de Gemeenschap van belang kan zijn.
+
+De gevolmachtigden van:
+
+Het Koninkrijk België,
+
+het Koninkrijk Denemarken,
+
+de Bondsrepubliek Duitsland,
+
+de Helleense Republiek,
+
+het Koninkrijk Spanje,
+
+de Franse Republiek,
+
+Ierland,
+
+de Italiaanse Republiek,
+
+het Groothertogdom Luxemburg,
+
+het Koninkrijk Der Nederlanden,
+
+de Republiek Oostenrijk,
+
+de Portugese Republiek,
+
+de Republiek Finland,
+
+het Koninkrijk Zweden,
+
+het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland,
+
+Verdragsluitende Partijen bij het [Verdrag tot oprichting van de Europese Gemeenschap](https://wetten.overheid.nl/jci1.3:c:BWBV0001506) en het Verdrag tot oprichting van de Europese Gemeenschap voor Kolen en Staal,
+
+hierna „de lidstaten” te noemen, en van
+
+de Europese Gemeenschap en de EUROPESE GEMEENSCHAP VOOR Kolen en Staal,
+
+hierna „de Gemeenschap” te noemen,
+
+enerzijds, en
+
+de gevolmachtigden van het Hasjemitisch Koninkrijk Jordanië,
+
+hierna „Jordanië” te noemen,
+
+anderzijds,
+
+bijeengekomen te Brussel op 24-11-1997, voor de ondertekening van de Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschappen en haar lidstaten, enerzijds, en het Hasjemitisch Koninkrijk Jordanië, anderzijds, hierna de „Euro-mediterrane overeenkomst" te noemen, hebben de volgende teksten aangenomen:
+
+GEDAAN te Brussel, de vierentwintigste november negentienhonderd zevenennegentig.
+
+##### Artikel 11. Neutrale elementen
+
+Om te bepalen of een product een product van oorsprong is, behoeft niet te worden nagegaan wat de oorsprong is van bij de vervaardiging van dat product gebruikte:
+
+- a. energie en brandstof;
+
+- b. fabrieksuitrusting;
+
+- c. machines en werktuigen;
+
+- d. goederen die in de uiteindelijke samenstelling van het product niet voorkomen en ook niet bedoeld waren daarin voor te komen; die bij de vervaardiging gebruikt kunnen zijn.
+
+## TITEL III. TERRITORIALE VOORWAARDEN
+
+##### Artikel 14. Tentoonstellingen
+
+1. De overeenkomst is van toepassing op producten van oorsprong die naar een tentoonstelling in een ander dan de in de artikelen 3 en 4 genoemde landen waarmee cumulatie van toepassing is, zijn verzonden en die na de tentoonstelling zijn verkocht en in de Gemeenschap of in Jordanië worden ingevoerd, mits ten genoegen van de douaneautoriteiten wordt aangetoond dat:
+
+- a. een exporteur deze producten vanuit de Gemeenschap of Jordanië naar het land van de tentoonstelling heeft verzonden en ze daar heeft tentoongesteld;
+
+- b. deze exporteur de producten heeft verkocht of overgedragen aan een geadresseerde in de Gemeenschap of in Jordanië;
+
+- c. de producten tijdens of onmiddellijk na de tentoonstelling in dezelfde staat als waarin zij naar de tentoonstelling zijn gegaan zijn verzonden; en
+
+- d. dat de goederen vanaf het moment dat zij naar de tentoonstelling werden verzonden, niet voor andere doeleinden zijn gebruikt dan om op die tentoonstelling te worden vertoond.
+
+2. Een bewijs van de oorsprong wordt overeenkomstig de bepalingen van titel V afgegeven of opgesteld en op de normale wijze bij de douaneautoriteiten van het land van invoer ingediend. Op dit bewijs zijn de naam en het adres van de tentoonstelling vermeld. Zo nodig kunnen aanvullende bewijsstukken worden gevraagd betreffende de aard van de goederen en de omstandigheden waaronder zij zijn tentoongesteld.
+
+3. Lid 1 is van toepassing op alle tentoonstellingen, beurzen of soortgelijke openbare evenementen met een commercieel, industrieel, agrarisch of ambachtelijk karakter die niet voor particuliere doeleinden in winkels of bedrijfsruimten met het oog op de verkoop van buitenlandse producten worden gehouden, en gedurende welke de producten onder douanetoezicht zijn gebleven.
+
+## TITEL IV. TERUGGAVE EN VRIJSTELLING VAN RECHTEN
+
+##### Artikel 15. Verbod op de teruggave of vrijstelling van douanerechten
+
+- a. Niet van oorsprong zijnde materialen die gebruikt zijn bij de vervaardiging van producten van oorsprong uit de Gemeenschap, Jordanië, of een van de andere in de artikelen 3 en 4 genoemde landen waarvoor overeenkomstig de bepalingen van titel V een bewijs van oorsprong is afgegeven of opgesteld, komen in de Gemeenschap of in Jordanië niet in aanmerking voor de teruggave of vrijstelling van douanerechten in welke vorm dan ook.
+
+- b. De onder hoofdstuk 3 en de posten 1604 en 1605 van het geharmoniseerd systeem ingedeelde producten van oorsprong uit de Gemeenschap in de zin van artikel 2, lid 1, onder c), waarvoor overeenkomstig titel V een bewijs van de oorsprong is afgegeven of opgesteld, komen in de Gemeenschap niet in aanmerking voor teruggave of vrijstelling van douanerechten in welke vorm dan ook.
+
+2. Het verbod in lid 1 is van toepassing op elke regeling voor terugbetaling of algehele of gedeeltelijke vrijstelling van douanerechten of heffingen van gelijke werking die in de Gemeenschap of in Jordanië van toepassing is op materialen die bij de vervaardiging worden gebruikt en op de in lid 1, onder b), bedoelde producten, indien een dergelijke terugbetaling of vrijstelling uitdrukkelijk of feitelijk wordt toegekend indien de producten die uit genoemde materialen zijn verkregen worden uitgevoerd, doch niet van toepassing is indien deze producten voor binnenlands gebruik zijn bestemd.
+
+3. De exporteur van producten die door een bewijs van oorsprong zijn gedekt, dient steeds bereid te zijn op verzoek van de douaneautoriteiten alle stukken over te leggen waaruit blijkt dat geen teruggave of vrijstelling van rechten is verkregen ten aanzien van de bij de vervaardiging van de betrokken producten gebruikte materialen die niet van oorsprong zijn en dat alle douanerechten en heffingen van gelijke werking die op deze materialen van toepassing zijn, daadwerkelijk zijn betaald.
+
+4. De leden 1, 2 en 3 zijn ook van toepassing op de verpakking in de zin van artikel 8, lid 2, op accessoires, vervangingsonderdelen en gereedschappen in de zin van artikel 9 en op artikelen die deel uitmaken van een stel of assortiment in de zin van artikel 10, wanneer dergelijke producten niet van oorsprong zijn.
+
+5. De leden 1 tot en met 4 zijn uitsluitend van toepassing op materialen van de soort waarop de overeenkomst van toepassing is. Zij doen geen afbreuk aan het systeem van restituties bij de uitvoer van landbouwproducten overeenkomstig de bepalingen van de overeenkomst.
+
+6. Het verbod in lid 1 is niet van toepassing indien de producten worden beschouwd als van oorsprong uit de Gemeenschap of Jordanië zonder toepassing van cumulatie met materialen van oorsprong uit een van de andere in de artikelen 3 en 4 genoemde landen.
+
+7. In afwijking van lid 1 mag Jordanië, behalve voor producten die zijn ingedeeld onder de hoofdstukken 1 tot en met 24 van het geharmoniseerd systeem, regelingen toepassen voor de vrijstelling of teruggave van douanerechten en heffingen van gelijke werking die van toepassing zijn op niet van oorsprong zijnde materialen die gebruikt zijn bij de vervaardiging van producten van oorsprong, op voorwaarde dat:
+
+- a. een douanerecht van 5%, of een lager recht indien dit in Jordanië van toepassing is, wordt geheven op producten die onder de hoofdstukken 25 tot en met 49 en 64 tot en met 97 van het geharmoniseerd systeem zijn ingedeeld;
+
+- b. een douanerecht van 10%, of een lager recht indien dit in Jordanië van toepassing is, wordt geheven op producten die onder de hoofdstukken 50 tot en met 63 van het geharmoniseerd systeem zijn ingedeeld. Dit lid is tot en met 31 december 2009 van toepassing en kan in onderling overleg worden herzien.
+
+## TITEL V. BEWIJS VAN OORSPRONG
+
+##### Artikel 30. Verschillen en vormfouten
+
+1. Geringe verschillen tussen de gegevens op het bewijs van oorsprong en de gegevens op de documenten die voor het vervullen van de invoerformaliteiten bij het douanekantoor worden ingediend, maken het EUR.1-certificaat of de factuurverklaring niet automatisch ongeldig, indien blijkt dat het document wel degelijk met de aangebrachte goederen overeenstemt.
+
+2. Kennelijke vormfouten, zoals typefouten, op het bewijs van oorsprong leiden niet tot weigering van dit document indien deze fouten niet van dien aard zijn dat zij twijfel doen rijzen over de juistheid van de daarin vermelde gegevens.
+
+##### Artikel 31. In euro uitgedrukte bedragen
+
+1. Voor de toepassing van artikel 22, lid 1, onder b), en artikel 27, lid 3, worden, wanneer de producten gefactureerd zijn in een andere valuta dan de euro, de tegenwaarde van de in euro uitgedrukte bedragen in de nationale valuta van de lidstaten van de Gemeenschap, van Jordanië of een van de andere in de artikelen 3 en 4 genoemde landen, jaarlijks door elk van de betrokken landen vastgesteld.
+
+2. Artikel 22, lid 1, onder b), en artikel 27, lid 3, zijn van toepassing op zendingen op basis van de valuta waarin de factuur is opgesteld, overeenkomstig het bedrag dat door het betrokken land is vastgesteld.
+
+3. De in een bepaalde nationale valuta te gebruiken bedragen zijn gelijk aan de tegenwaarde in die valuta van de in euro uitgedrukte bedragen op de eerste werkdag van de maand oktober van elk jaar. De tegenwaarde wordt de Commissie van de Europese Gemeenschappen voor 15 oktober medegedeeld en is van toepassing vanaf 1 januari van het daaropvolgende jaar. De Commissie van de Europese Gemeenschappen stelt alle betrokken landen in kennis van de desbetreffende tegenwaarden.
+
+4. Een land mag het bedrag dat het resultaat is van de omrekening in zijn nationale valuta van een in euro uitgedrukt bedrag naar boven of beneden afronden. Het afgeronde bedrag mag niet meer dan 5% afwijken van het bedrag dat het resultaat is van de omrekening. Een land kan de tegenwaarde in nationale valuta van een in euro uitgedrukt bedrag handhaven, indien de omrekening van dat bedrag, bij de in lid 3 bedoelde jaarlijkse aanpassing, vóór het afronden, leidt tot een stijging van minder dan 15% van de tegenwaarde in nationale valuta. De tegenwaarde in nationale valuta kan ongewijzigd blijven, indien de omrekening tot een daling van de tegenwaarde leidt.
+
+5. De in euro uitgedrukte bedragen kunnen door het Associatiecomité op verzoek van de Gemeenschap of Jordanië worden herzien. Bij deze herziening onderzoekt het Associatiecomité of het wenselijk is de betreffende limieten in reële termen te handhaven. Het kan te dien einde besluiten de in euro uitgedrukte bedragen te wijzigen.
+
+## TITEL VI. REGELINGEN VOOR ADMINISTRATIEVE SAMENWERKING
+
+##### Artikel 35. Sancties
+
+Sancties worden getroffen tegen ieder die een document met onjuiste gegevens opstelt of laat opstellen met het doel goederen onder de preferentiële regeling te doen vallen.
+
+##### Artikel 36. Vrije zones
+
+1. De Gemeenschap en Jordanië nemen alle nodige maatregelen om te voorkomen dat producten die onder geleide van een bewijs van de oorsprong worden verhandeld en die tijdens het vervoer in een op hun grondgebied gelegen vrije zone verblijven, door andere goederen worden vervangen of andere behandelingen ondergaan dan die welke gebruikelijk zijn om ze in goede staat te bewaren.
+
+2. In afwijking van lid 1 geven de bevoegde douaneautoriteiten, wanneer producten van oorsprong uit de Gemeenschap of uit Jordanië die onder dekking van een bewijs van oorsprong in een vrije zone zijn ingevoerd, een be- of verwerking ondergaan, op verzoek van de exporteur een nieuw certificaat inzake goederenverkeer EUR.1 of EUR-MED af, mits deze be- of verwerking in overeenstemming is met de bepalingen van dit protocol.
+
+## TITEL VII. CEUTA EN MELILLA
+
+##### Artikel 37. Toepassing van het protocol
+
+1. De in artikel 2 gebruikte term „Gemeenschap’’ heeft geen betrekking op Ceuta en Melilla.
+
+2. Producten van oorsprong uit Jordanië die in Ceuta of Melilla worden ingevoerd, vallen in elk opzicht onder dezelfde douaneregeling als de regeling die op grond van Protocol nr. 2 bij de Akte van toetreding van het Koninkrijk Spanje en de Republiek Portugal tot de Europese Gemeenschappen van toepassing is op producten van oorsprong uit het douanegebied van de Gemeenschap. Jordanië zal op onder de overeenkomst vallende producten van oorsprong uit Ceuta en Melilla dezelfde regeling toepassen als op producten van oorsprong uit de Gemeenschap die uit de Gemeenschap worden ingevoerd.
+
+3. Bij toepassing van lid 2 op producten van oorsprong uit Ceuta en Melilla, is dit protocol van overeenkomstige toepassing met inachtneming van de bijzondere voorwaarden van artikel 38.
+
+##### Artikel 38. Bijzondere voorwaarden
+
+1. Mits zij rechtstreeks zijn vervoerd overeenkomstig artikel 13, worden beschouwd als:
+
+1. producten van oorsprong uit Ceuta en Melilla:
+
+- a. geheel en al in Ceuta en Melilla verkregen producten;
+
+- b. in Ceuta en Melilla verkregen producten bij de vervaardiging waarvan andere dan de onder a bedoelde producten zijn gebruikt, mits:
+
+- i. deze producten be- of verwerkingen hebben ondergaan die toereikend zijn in de zin van artikel 6; of
+
+- ii. deze producten van oorsprong zijn uit Jordanië of uit de Gemeenschap en be- of verwerkingen hebben ondergaan die meer omvatten dan de in artikel 7 bedoelde ontoereikende be- of verwerkingen;
+
+2. producten van oorsprong uit Jordanië:
+
+- a. geheel en al in Jordanië verkregen producten;
+
+- b. in Jordanië verkregen producten, bij de vervaardiging waarvan andere dan de onder a) bedoelde producten zijn gebruikt, voor zover:
+
+- i. deze producten be- of verwerkingen hebben ondergaan die toereikend zijn in de zin van artikel 6; of
+
+- ii. deze producten van oorsprong zijn uit Ceuta en Melilla of de Gemeenschap en zij be- of verwerkingen hebben ondergaan die meer inhouden dan de in artikel 7 genoemde be- of verwerkingen.
+
+2. Ceuta en Melilla worden als één grondgebied beschouwd.
+
+3. De exporteur of zijn gemachtigde vertegenwoordiger vermeldt „Jordanië’’ en „Ceuta en Melilla’’ in vak 2 van het certificaat inzake goederenverkeer EUR.1 of EUR-MED of op de factuurverklaring of de factuurverklaring EUR-MED. Voor producten van oorsprong uit Ceuta en Melilla wordt de oorsprong bovendien vermeld in vak 4 van het certificaat inzake goederenverkeer EUR.1 of EUR-MED of op de factuurverklaring of de factuurverklaring EUR-MED.
+
+4. De Spaanse douaneautoriteiten zijn belast met de toepassing van dit protocol in Ceuta en Melilla.
+
+## TITEL VIII. SLOTBEPALINGEN
+
+##### Artikel 40. Overgangsbepaling voor goederen in doorvoer of in opslag
+
+Deze overeenkomst kan worden toegepast op goederen die aan de bepalingen van dit protocol voldoen en die op de datum van inwerkingtreding van dit protocol onderweg zijn of die in de Gemeenschap of in Jordanië tijdelijk zijn opgeslagen of zich daar in een douane-entrepot of vrije zone bevinden, mits binnen vier maanden na genoemde datum een EUR.1- of EUR-MED-certificaat bij de douaneautoriteiten van het land van invoer wordt ingediend dat achteraf door de douaneautoriteiten van het land van uitvoer is opgesteld, tezamen met de documenten waaruit blijkt dat de goederen rechtstreeks zijn vervoerd overeenkomstig artikel 13.
 
 ##### Artikel 1. Definities
 
