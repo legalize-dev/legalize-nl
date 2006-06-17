@@ -4,7 +4,7 @@ identifier: "BWBR0012031"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-17"
-last_updated: "2006-01-01"
+last_updated: "2006-06-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012031"
 soort: "ministeriele-regeling"
@@ -101,7 +101,7 @@ Bij het bepalen van de winst van het eerste kalenderjaar als ondernemer komt med
 
 - b. de beschikkingen van de minister van Landbouw, Natuurbeheer en Visserij van 18 april 1998 met de beschikkingnummers kaderwet/pnb/01, kaderwet/pnb/02 en kaderwet/pnb/03.
 
-3. Van de voordelen die worden genoten op grond van de in het eerste lid bedoelde regelingen en overeenkomsten behoort 90% niet tot de winst.
+3. Van de voordelen die worden genoten op grond van de in het eerste lid bedoelde regelingen en overeenkomsten behoort 90% niet tot de winst. In afwijking van de eerste volzin behoort van de voordelen die worden genoten op grond van de [Subsidieregeling natuurbeheer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0010999) voor wat betreft de subsidie functieverandering als bedoeld in [artikel 2, aanhef en onderdeel b, van die regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0010999&artikel=2), 100% niet tot de winst.
 
 ##### Artikel 7. Belastbare winst uit onderneming; van aftrek uitgesloten kosten ten behoeve van de belastingplichtige; werkkleding
 
@@ -640,7 +640,7 @@ Voor de toepassing van de eerste volzin behoort het kind tegelijkertijd tot het 
 
 ##### Artikel 45. Termijn voor het doen van niet-verplichte aangifte
 
-1. De aangifte, bedoeld in [artikel 9.4, eerste lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=9.4), wordt gedaan binnen drie jaren na afloop van het kalenderjaar.
+1. De aangifte, bedoeld in [artikel 9.4, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=9.4), wordt gedaan binnen drie jaren na afloop van het kalenderjaar.
 
 2. Indien binnen de in het eerste lid bedoelde termijn een uitnodiging tot het doen van aangifte is uitgereikt of toegezonden, hetzij de inspecteur is verzocht om een uitnodiging tot het doen van aangifte, wordt die termijn verlengd tot het einde van de door de inspecteur ingevolge [artikel 9, eerste tot en met derde lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=9) gestelde of verleende termijn.
 
@@ -728,11 +728,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst
 
 Vóór 1 januari 2005 vastgestelde lijfrenten die niet in geldeenheden luiden:
 
-- 1. Op een lijfrente waarvan vóór 1 januari 2005 de hoogte van de termijnen in beleggingseenheden (units) met de verzekeraar is overeengekomen, blijft [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=1&artikel=2a&z=2009-02-12&g=2006-01-01) buiten toepassing en kan de lijfrente-overeenkomst worden tenuitvoergelegd zoals is overeengekomen.
+- 1. Op een lijfrente waarvan vóór 1 januari 2005 de hoogte van de termijnen in beleggingseenheden (units) met de verzekeraar is overeengekomen, blijft [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=1&artikel=2a&z=2006-06-17&g=2006-06-17) buiten toepassing en kan de lijfrente-overeenkomst worden tenuitvoergelegd zoals is overeengekomen.
 
-- 2. Indien ter zake van een lijfrente als bedoeld in het eerste lid op of na 1 januari 2005 met de verzekeraar een wijziging van methode van berekening van de termijnen in units of in euro’s wordt overeengekomen, is met ingang van de datum van die wijziging [art. 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=1&artikel=2a&z=2009-02-12&g=2006-01-01) wel van toepassing.
+- 2. Indien ter zake van een lijfrente als bedoeld in het eerste lid op of na 1 januari 2005 met de verzekeraar een wijziging van methode van berekening van de termijnen in units of in euro’s wordt overeengekomen, is met ingang van de datum van die wijziging [art. 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=1&artikel=2a&z=2006-06-17&g=2006-06-17) wel van toepassing.
 
-- 3. Indien een lijfrente als bedoeld in het eerste lid op of na 1 januari 2005 wordt omgezet in een andere lijfrente, is [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=1&artikel=2a&z=2009-02-12&g=2006-01-01) van toepassing op de laatstgenoemde lijfrente.
+- 3. Indien een lijfrente als bedoeld in het eerste lid op of na 1 januari 2005 wordt omgezet in een andere lijfrente, is [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=1&artikel=2a&z=2006-06-17&g=2006-06-17) van toepassing op de laatstgenoemde lijfrente.
 
 ### Hoofdstuk 11. Overgangs- en slotbepalingen ([hoofdstuk 11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=11))
 
