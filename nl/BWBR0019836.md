@@ -75,19 +75,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 Dit besluit wordt aangehaald als: Besluit videoconferentie.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-### Hoofdstuk I. Toepassing ingevolge het vreemdelingenrecht
-
-### Hoofdstuk II. Toepassing ingevolge het strafrecht
-
-### Hoofdstuk III. Eisen aan het systeem
-
-##### Artikel 5
-
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
-
-##### Artikel 6
-
-Dit besluit wordt aangehaald als: Besluit videoconferentie.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
