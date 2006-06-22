@@ -115,29 +115,3 @@ De commissie voor de Rijksuitgaven brengt jaarlijks op de derde woensdag in mei 
 ### Artikel 22. Regeling Grote Projecten
 
 Deze regeling wordt aangehaald als «Regeling Grote Projecten».
-
-De commissie beslist steeds of zij de grootprojectstatus wenst voort te zetten:
-
-### Artikel 13. Aanwijzingen voor het accountantsrapport
-
-Indien de commissie van oordeel is dat de geleverde informatie ontoereikend is, dan wel de kwaliteit van de geleverde informatie onvoldoende is, wordt de minister in staat gesteld binnen zeven werkdagen de ontbrekende of verbeterde informatie aan de Tweede Kamer te zenden.
-
-### Artikel 15. Verzoek om eindevaluatie
-
-Indien de commissie van mening is dat het groot project als beëindigd kan worden beschouwd of de grootprojectstatus om een andere reden eerder kan worden beëindigd, verzoekt zij de minister de eindevaluatie op te stellen.
-
-### Artikel 18. Advisering over beëindiging grootprojectstatus
-
-Voordat de commissie aan de Tweede Kamer een voorstel doet tot beëindiging van de grootprojectstatus, vraagt zij advies aan de vaste commissie voor Financiën.
-
-### Artikel 19. Toezending voorstel en advies aan de Voorzitter
-
-De verantwoordelijke commissie zendt een voorstel tot beëindiging van de grootprojectstatus, vergezeld van het uitgebrachte advies, aan de Voorzitter.
-
-### Artikel 21. Werking en toepassing van de regeling
-
-De vaste commissie voor Financiën brengt jaarlijks op de derde woensdag in mei een verslag uit aan de Tweede Kamer over de werking en toepassing van deze regeling in het voorafgaande kalenderjaar.
-
-### Artikel 22. Regeling Grote Projecten
-
-Deze regeling wordt aangehaald als «Regeling Grote Projecten».
