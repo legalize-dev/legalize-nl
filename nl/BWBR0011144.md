@@ -4,7 +4,7 @@ identifier: "BWBR0011144"
 country: "nl"
 rank: "kb"
 publication_date: "2018-07-25"
-last_updated: "2006-06-14"
+last_updated: "2006-06-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011144"
 soort: "KB"
@@ -84,7 +84,7 @@ Bij de uitreiking van de herinneringsmedaille dan wel van later toegekende gespe
 
 ##### Artikel 9
 
-De kosten van de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0011144&artikel=8&z=2006-06-14&g=2006-06-14) bedoelde versierselen komen ten laste van het Rijk.
+De kosten van de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0011144&artikel=8&z=2006-06-23&g=2006-06-23) bedoelde versierselen komen ten laste van het Rijk.
 
 ##### Artikel 10
 
@@ -120,10 +120,10 @@ Onze Minister van Defensie is belast met de uitvoering van dit besluit, dat in h
 
 1. In verband met de hulpverlening in Nederlands militair verband bij de leniging van de nood van slachtoffers van de tsunami in Azië en Afrika in de periode december 2004 tot en met december 2005 wordt de gesp «Tsunami 2004» ingesteld.
 
-2. In afwijking van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0011144&artikel=2&z=2006-06-14&g=2006-06-14) wordt de herinneringsmedaille tevens toegekend aan de leden van het Rampen Identificatie Team van het Korps landelijke politiediensten die hier te lande daadwerkelijk aan de hulpverlening, bedoeld in het eerste lid, hebben deelgenomen en daarbij in alle opzichten een goede plichtsbetrachting en een goed gedrag hebben betoond.
+2. In afwijking van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0011144&artikel=2&z=2006-06-23&g=2006-06-23) wordt de herinneringsmedaille tevens toegekend aan de leden van het Rampen Identificatie Team van het Korps landelijke politiediensten die hier te lande daadwerkelijk aan de hulpverlening, bedoeld in het eerste lid, hebben deelgenomen en daarbij in alle opzichten een goede plichtsbetrachting en een goed gedrag hebben betoond.
 
 ##### Artikel 10e
 
-Dit onderdeel is nog niet inwerking getreden
+In verband met de hulpverlening in Nederlands militair verband bij de leniging van de nood van slachtoffers van de aardbeving in Pakistan in de periode 9 oktober 2005 tot en met 15 februari 2006 wordt de gesp «Pakistan 2005» ingesteld.
 
 Onze Minister van Defensie is belast met de uitvoering van dit besluit, dat in het Staatsblad zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Kanselier der Nederlandse Orden.
