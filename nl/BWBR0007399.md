@@ -4,7 +4,7 @@ identifier: "BWBR0007399"
 country: "nl"
 rank: "pbo"
 publication_date: "2020-04-01"
-last_updated: "2003-07-10"
+last_updated: "2006-06-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007399"
 soort: "pbo"
@@ -85,19 +85,21 @@ De volgende regionale loodsstations worden vastgesteld:
 
 4. Tot het regionale loodsstation IJmuiden/Amsterdam behoren de scheepvaartwegen, genoemd in de [bijlage bij de Scheepvaartverkeerswet, onderdeel A, onder punt II](onbekend), alsmede de trajecten tussen de scheepvaartwegen, genoemd in de [bijlage bij de Scheepvaartverkeerswet, onderdeel A, onder punt II.1](onbekend), en de loodskruisposten Maasmond en Steenbank, de rede van Den Helder.
 
-5. Tot het regionale loodsstation Rijnmond behoren de volgende gebieden:
+5. Tot het regionale loodsenstation Rijnmond behoren de volgende gebieden:
 
-Gebied 1: de scheepvaartwegen genoemd in de [bijlage bij de Scheepvaartverkeerswet, onderdeel A, onder punt III, de nummers 1, 2 en 3, alsmede nummer 4](onbekend) benedenstrooms kilometerraai 992,7 (Bolnes) en [nummer 6](onbekend), met uitzondering van het Spui, de Beningen en de Oude Maas boven de Dordtse spoorbrug, de [nummers 7, 9 en 10](onbekend) met inbegrip van de Volkeraksluizen en alle havens gelegen aan voornoemde scheepvaartwegen, alsmede de trajecten tussen de scheepvaartwegen genoemd in de [bijlage bij de Scheepvaartverkeerswet, onderdeel A, onder punt III.1](onbekend), en de loodskruisposten Steenbank, Wandelaar en IJmuiden, met uitzondering van het Slijkgat;
+**Gebied la**: Van de scheepvaartwegen zoals genoemd in de [bijlage bij de Scheepvaartverkeerswet, onderdeel A, onder punt III](onbekend): de territoriale zee alsmede de trajecten van deze scheepvaartweg naar en van de loodskruisposten Steenbank, Wandelaar en IJmuiden; de Maasmond, de Nieuwe Waterweg , het Breeddiep, het Beerkanaal, het Calandkanaal, het Hartelkanaal, de Nieuwe Maas beneden de Erasmusbrug, de Oude Maas beneden de Spijkenisserbrug met inbegrip van alle havens en sluizen gelegen aan of in voornoemde scheepvaartwegen.
 
-Gebied 2: de Eurogeul en de Maasgeul en de scheepvaartwegen genoemd in de [bijlage bij de Scheepvaartverkeerswet, onderdeel A, onder punt III, de nummers 1 en 2](onbekend), met uitzondering van de Nieuwe Waterweg en het Breeddiep, [nummer 3](onbekend), en alle havens gelegen aan voornoemde scheepvaartwegen, alsmede de trajecten tussen de scheepvaartwegen, genoemd in de [bijlage bij de Scheepvaartverkeersweg, onderdeel A, onder punt III.1](onbekend), en de loodskruisposten Steenbank, Wandelaar en IJmuiden, met uitzondering van het Slijkgat;
+**Gebied Ib**: Van de scheepvaartwegen zoals genoemd in de [bijlage bij de Scheepvaartverkeerswet, onderdeel A, onder punt III](onbekend): de Nieuwe Maas boven de Erasmusbrug tot kilometerraai 992,7, de Hollandsche IJssel tot aan de stuw bij Krimpen aan de lJssel, de Koningshaven, de Oude Maas tussen de Dordtse Spoorbrug en de Spijkenisserbrug, de Dordtse Kil, de Krabbegeul, het Mallegat, het Hollands Diep met inbegrip van het Zuid Hollands Diep bewesten de Moerdijkbruggen tot aan Noordschans met inbegrip van alle havens en sluizen gelegen aan of in voornoemde scheepvaartwegen.
 
-Gebied 3: de scheepvaartwegen genoemd in de [bijlage bij de Scheepvaartverkeerswet, onderdeel A, onder punt III, de nummers 1 en 2](onbekend), met uitzondering van het Breeddiep, het Beerkanaal en het Calandkanaal, [nummer 4](onbekend), met uitzondering van de Nieuwe Maas boven de Willemsbrug en de Koningshaven boven de Koninginnebrug, [nummer 6](onbekend), met uitzondering van de Oude Maas boven de Spijkenisserbrug, en alle havens gelegen aan voornoemde scheepvaartwegen, alsmede de trajecten tussen de scheepvaartwegen, genoemd in de [bijlage bij de Scheepvaartverkeersweg, onderdeel A, onder punt III.1](onbekend), en de loodskruisposten Steenbank, Wandelaar en IJmuiden, met uitzondering van het Slijkgat;
+**Gebied II**: Van de scheepvaartwegen zoals genoemd in de [bijlage bij de Scheepvaartverkeerswet, onderdeel A, onder punt III](onbekend): de territoriale zee alsmede de trajecten van deze scheepvaartweg naar en van de loodskruisposten Steenbank, Wandelaar en IJmuiden, de Maasgeul en de Eurogeul, de Maasmond, de Nieuwe Waterweg tot kilometerraai 1028, het Breeddiep, het Beerkanaal, het Calandkanaal met inbegrip van alle havens en sluizen gelegen aan of in voornoemde scheepvaartwegen.
 
-Gebied 4: de scheepvaartwegen genoemd in de [bijlage bij de Scheepvaartverkeerswet, onderdeel A, onder punt III, nummer 4](onbekend), met uitzondering van de Nieuwe Maas beneden de Willemsbrug en de Koningshaven beneden de Koninginnebrug, de [nummers 5 tot en met 12](onbekend), en de havens gelegen aan de voornoemde scheepvaartwegen, alsmede het Slijkgat;
+**Gebied III**: Van de scheepvaartwegen zoals genoemd in de [bijlage bij de Scheepvaartverkeerswet, onderdeel A, onder punt III](onbekend): de territoriale zee alsmede de trajecten van deze scheepvaartweg naar en van de loodskruisposten Steenbank, Wandelaar en IJmuiden de Maasmond, de Nieuwe Waterweg, de Nieuwe Maas beneden de Koningshaven, de Oude Maas beneden de Spijkenisserbrug met inbegrip van alle havens en sluizen gelegen aan of in voornoemde scheepvaartwegen.
 
-Gebied 5: de aanloop en de haven van Scheveningen.
+**Gebied IV**: De Nieuwe Maas boven kilometerraai 992,7, de Noord, de Rietbaan, het Spui, de Beningen, de Beneden Merwede tot aan Hardinxveld-Giessendam, het Wantij, het Hollands Diep bewesten Noordschans, het Haringvliet, het Vuile Gat, de Krammer benoorden de Krammersluizen, het Zuid-Vlije, het Volkerak, het Slijkgat, het Schelde-Rijnkanaal aan de noordzijde begrensd door het Volkerak en aan de zuidzijde begrensd door de Kreekraksluizen met inbegrip van alle havens en sluizen gelegen aan voornoemde scheepvaartwegen.
 
-6. Tot het regionale loodsstation Schelde behoren de scheepvaartwegen genoemd in de [bijlage bij de Scheepvaartverkeerswet, onderdeel A, onder punt IV, de nummers 1, 2, 5](onbekend), - althans het gedeelte gelegen ten zuiden van de parallel over een punt gelegen 100 meter benoorden de uitmonding van het Verbrede Arnekanaal, en [6](onbekend),
+**Gebied V**: De aanloop en de haven van Scheveningen.
+
+6. Tot het regionale loodsstation Schelde behoren de scheepvaartwegen genoemd in de [bijlage bij de Scheepvaartverkeerswet, onderdeel A, onder punt IV, de nummers 1, 2, 5, - althans het gedeelte gelegen ten zuiden van de parallel over een punt gelegen 100 meter benoorden de uitmonding van het Verbrede Arnekanaal, en 6](onbekend),
 
 - althans het gedeelte gelegen ten zuiden van de Vlakebrug, alsmede de trajecten tussen de scheepvaartwegen, genoemd in de [bijlage bij de Scheepvaartverkeerswet, onderdeel A, onder punt IV.1](onbekend), en de loodskruisposten Wandelaar, Maasmond en IJmuiden, en de rede van Oostende.
 
@@ -107,13 +109,11 @@ Gebied 5: de aanloop en de haven van Scheveningen.
 
 - -. althans de Oosterschelde zeewaarts van de dammen, alsmede de trajecten tussen de scheepvaartwegen, genoemd in de [bijlage bij de Scheepvaartverkeerswet, onderdeel A, onder punt IV.1](onbekend), en de loodskruisposten Wandelaar, Maasmond en IJmuiden, en de rede van Oostende.
 
-8. Tot het regionale loodsstation Schelde Rivier behoren de scheepvaartwegen, genoemd in de [bijlage bij de Scheepvaartverkeerswet, onderdeel A, onder punt IV, de nummers 2](onbekend), met inbegrip van de rede van Vlissingen, [4](onbekend)
+8. Tot het regionale loodsstation Schelde Rivier behoren de scheepvaartwegen, genoemd in de [bijlage bij de Scheepvaartverkeerswet, onderdeel A, onder punt IV, de nummers 2, met inbegrip van de rede van Vlissingen, 4 - met uitzondering van de Oosterschelde, zeewaarts van de dammen en 5 tot en met 7](onbekend).
 
-- met uitzondering van de Oosterschelde, zeewaarts van de dammen en [5 tot en met 7](onbekend).
+9. Tot het regionale loodsstation Terneuzen behoren de scheepvaartwegen genoemd in de [bijlage bij de Scheepvaartverkeerswet, onderdeel A, onder punt IV, nummer 2, met inbegrip van de rede van Vlissingen tot de meridiaan over het lichtopstand van Margarethapolder, en nummer 3](onbekend).
 
-9. Tot het regionale loodsstation Terneuzen behoren de scheepvaartwegen genoemd in de [bijlage bij de Scheepvaartverkeerswet](onbekend), onderdeel A, onder punt IV, nummer 2, met inbegrip van de rede van Vlissingen tot de meridiaan over het lichtopstand van Margarehtapolder, en nummer 3.
-
-10. De scheepvaartwegen, aangewezen krachtens [artikel 11, onderdeel b, van de Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=11), behoren tot het regionale loodsstation, waaraan zij door de algemene raad zijn toegedeeld. De aanloop van Scheveningen en de haven van Scheveningen behoren zowel tot het regionale loodsstation IJmuiden/Amsterdam als het regionale loodsstation Rijnmond.
+10. De scheepvaartwegen, aangewezen krachtens [artikel 11, onderdeel b, van de Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=11), behoren tot het regionale loodsstation, waaraan zij door de algemene raad zijn toebedeeld. De aanloop van Scheveningen en de haven van Scheveningen behoren tot het regionale Ioodsstation Rijnmond. Het Schelde-Rijnkanaal, aan de noordzijde begrensd door het Volkerak en aan de zuidzijde begrensd door de Kreekraksluizen behoort zowel tot het regionale loodsstation Rijnmond als tot de regionale loodsstations Schelde en Schelde Rivier.
 
 ### Hoofdstuk 2. Loodsbevoegdheden
 
@@ -133,9 +133,9 @@ Gebied 5: de aanloop en de haven van Scheveningen.
 
 ##### Artikel 4
 
-1. De registerloods is bevoegd voor de categorieën schepen en scheepvaartwegen volgens het bepaalde in de [artikelen 5 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0007399&hoofdstuk=2&artikel=5&z=2003-07-10&g=2003-07-10).
+1. De registerloods is bevoegd voor de categorieën schepen en scheepvaartwegen volgens het bepaalde in de [artikelen 5 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0007399&hoofdstuk=2&artikel=5&z=2006-06-24&g=2006-06-24).
 
-2. Voor de in de [artikelen 5 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0007399&hoofdstuk=2&artikel=5&z=2003-07-10&g=2003-07-10) genoemde specialisaties is de registerloods eerst bevoegd nadat hij heeft voldaan aan de eisen met betrekking tot een aanvullende opleiding, ervaring, training of vaardigheid, vastgesteld door het bestuur van de betreffende regionale loodsencorporatie. Het bestuur van een regionale loodsencorporatie kan dergelijke eisen ook vaststellen voor de toelating tot een hogere bevoegdheid.
+2. Voor de in de [artikelen 5 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0007399&hoofdstuk=2&artikel=5&z=2006-06-24&g=2006-06-24) genoemde specialisaties is de registerloods eerst bevoegd nadat hij heeft voldaan aan de eisen met betrekking tot een aanvullende opleiding, ervaring, training of vaardigheid, vastgesteld door het bestuur van de betreffende regionale loodsencorporatie. Het bestuur van een regionale loodsencorporatie kan dergelijke eisen ook vaststellen voor de toelating tot een hogere bevoegdheid.
 
 3. Indien de eisen als bedoeld in het tweede lid een aanvullende opleiding betreffen dient de registerloods een daarbij behorend examen, vastgesteld door het bestuur van de regionale loodsencorporatie, met goed gevolg te hebben afgelegd.
 
@@ -183,11 +183,11 @@ Gebied 5: de aanloop en de haven van Scheveningen.
 
 De registerloods die in het register is ingeschreven voor de scheepvaartwegen die behoren tot het regionale loodsstation Den Helder is op die scheepvaartwegen bevoegd:
 
-- a. vanaf het moment van inschrijving in het register, voor schepen met een lengte over alles tot en met 80 m;
+- a. vanaf het moment van inschrijving in het register, voor schepen met een lengte over alles tot en met 95m;
 
-- b. vanaf 12 maanden na inschrijving in het register, voor schepen met een lengte over alles tot en met 100 m;
+- b. vanaf 6 maanden na inschrijving in het register, voor schepen met een lengte over alles tot en met 125m;
 
-- c. vanaf 24 maanden na inschrijving in het register, voor alle schepen.
+- c. vanaf 12 maanden na inschrijving in het register, voor alle schepen.
 
 ##### Artikel 8
 
@@ -211,117 +211,91 @@ De registerloods die in het register is ingeschreven voor de scheepvaartwegen di
 
 ##### Artikel 9
 
-1. De bevoegdheid van de registerloods die in het register is ingeschreven voor de scheepvaartwegen die behoren tot één of meer gebieden van het regionale loodsstation Rijnmond wordt onderscheiden in één of meer van de volgende bevoegdheidscategorieën:
+1. De bevoegdheden van de registerloods die in het register is ingeschreven voor de scheepvaartwegen die behoren tot één of meer gebieden van het regionale loodsstation Rijnmond wordt onderscheiden in de volgende bevoegdheidscategorieën:
 
-- a. R-loods (Rivier);
+- a. Algemeen loods (gebied la en gebied Ib);
 
-- b. E-loods (Europoort);
+- b. Europoort loods (gebied II);
 
-- c. S-loods (Stad);
+- c. Stadloods (gebied III);
 
-- d. D-loods (Dordrecht);
+- d. Dordrecht loods (gebied Ib en gebied IV);
 
-- e. V-loods (Scheveningen).
+- e. Scheveningen loods (gebied V).
 
-2. Voor de bevoegdheidscategorieën als genoemd in het eerste lid geldt de volgende maximale bevoegdheid:
+2. Voor de bevoegdheidscategorieën als genoemd in het eerste lid gelden de volgende maximale bevoegdheden:
 
-- a. R-loods: op de scheepvaartwegen gelegen in de gebieden 2 en 3, op de Oude Maas bovenstrooms de Spijkenisserbrug tot aan de Dordtse bruggen, de Krabbengeul, het Mallegat, de Dordtse Kil, het Holland Diep tot aan de Sassenplaat en het Zuid-Hollands Diep voor schepen met een lengte tot 125 m; op de Oude Maas bovenstrooms de Spijkernisserbrug tot aan de Dordtse bruggen, de Krabbengeul en het Mallegat met een diepgang tot 70 dm; op de Kordtse Kil, het Hollands Diep tot aan de Sassenplaat en het Zuid-Hollands Diep met een diepgang tot 65 dm en op de overige scheepvaartwegen in gebied 1 voor zover die niet tevens zijn gelegen in de gebieden 2 en 3, voor schepen met een lengte over alles tot 100 m, of met een diepgang tot 60 dm;
+- a. Algemeen loods in gebied la voor schepen met een lengte over alles tot 200m en in gebied Ib voor schepen met een lengte over alles tot 125m of met een diepgang tot 70dm met uitzondering van de Nieuwe Maas tussen de Erasmusbrug en kilometerraai 992,7 en de Hollandse IJssel tot aan de stuw te Krimpen aan de IJssel waar een lengte tot 100m geldt of een diepgang tot 60 dm;
 
-- b. E-loods: als R-loods, doch op de scheepvaartwegen in gebied 2, voor alle schepen;
+- b. Europoort loods in gebied II voor alle schepen:
 
-- c. S-loods: als R-loods, doch op de scheepvaartwegen in gebied 3, voor alle schepen;
+- c. Stad loods in gebied III voor alle schepen;
 
-- d. D-loods: op de scheepvaartwegen in gebied 4, voor alle schepen;
+- d. Dordrecht loods in gebied Ib en gebied IV voor alle schepen;
 
-- e. V-loods: op de scheepvaartwegen in gebied 5, voor alle schepen.
+- e. Scheveningen loods in gebied V voor alle schepen.
 
-3. Onverminderd het bepaalde in het tweede lid is de registerloods die in het register is ingeschreven voor de scheepvaartwegen die behoren tot één of meer gebieden van het regionale loodsstation Rijnmond, op de scheepvaartwegen die behoren tot de bevoegdheidscategorie R-loods, bevoegd:
+3. Onverminderd het bepaalde in het tweede lid is de registerloods die in het register is ingeschreven voor de scheepvaartwegen die behoren tot één of meer gebieden van het regionale Ioodsstation Rijnmond, op de scheepvaartwegen die behoren tot de bevoegdheidscategorie Algemeen loods, bevoegd:
 
-- a. vanaf het moment van inschrijving in het register, voor schepen met een lengte over alles tot 85 m;
+- a. vanaf het moment van inschrijving in het register, voor schepen met een lengte over alles tot 100m;
 
-- b. vanaf 9 maanden na inschrijving in het register, voor schepen met een lengte over alles tot 100 m;
+- b. vanaf 9 maanden na inschrijving in het register, voor schepen met een lengte over alles tot 125m;
 
-- c. vanaf 24 maanden na inschrijving in het register, voor schepen met een lengte over alles tot 125 m.
+- c. vanaf 21 maanden na inschrijving in het register, voor schepen met een lengte over alles tot 150m;
 
-4. De plaatsing in de bevoegdheidscategorieën E-loods, S-loods, D-loods of V-loods en de plaatsing als bedoeld in het zevende lid onderscheidenlijk het negende lid, vindt plaats door het bestuur van de regionale loodsencorporatie Rotterdam-Rijnmond, uitsluitend op grond van:
+- d. vanaf 33 maanden na inschrijving in het register, voor schepen met een lengte over alles tot 175m;
 
-- a. het doorlopend kunnen uitvoeren van de dienstverlening als bedoeld in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004385&artikel=1) en [2 van de Dienstverleningsverordening registerloodsen](https://wetten.overheid.nl/jci1.3:c:BWBR0004385&artikel=2); en
+- e. vanaf 42 maanden na inschrijving in het register, voor schepen met een lengte over alles tot 200m.
 
-- b. zoveel mogelijk de persoonlijke voorkeur van de betrokken registerloods.
+4. De plaatsing in de bevoegdhedencategorieën Europoort-, Stad-, Dordrecht- of Scheveningen loods alsmede de plaatsing in de specialisatie ‘loodsen op afstand vanaf de wal’ vindt plaats door het bestuur van de regionale loodsencorporatie Rotterdam-Rijnmond, uitsluitend op grond van:
 
-5. Onverminderd het bepaalde in het vierde lid wordt de registerloods uiterlijk 12 maanden na het verkrijgen van de bevoegdheid, genoemd in onderdeel c van het derde lid, door het bestuur van de regionale loodsencorporatie geplaatst in ten minste één andere bevoegdheidscategorie.
+- a. het doorlopend kunnen uitvoeren van de dienstverlening als bedoeld in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004385&artikel=1)en [2 van de Dienstverleningsverordening registerloodsen](https://wetten.overheid.nl/jci1.3:c:BWBR0004385&artikel=2); en
 
-6. De registerloods die is geplaatst in de bevoegdheidscategorie E-loods is op de tot die bevoegdheidscategorie behorende scheepvaartwegen bevoegd:
+- b. zoveel mogelijk de persoonlijke voorkeur van de registerloods.
 
-- a. vanaf plaatsing in deze bevoegdheidscategorie, voor schepen met een lengte over alles tot 150 m;
+De plaatsing in de specialisatie ‘loodsen op afstand vanaf de wal’ geschiedt nadat de loods ten minste 12 maanden de bevoegdheid genoemd in onderdeel e van het derde lid heeft bezeten. De plaatsing in de bevoegdheidscategorieën Europoort loods, Stad loods of Scheveningen loods geschiedt nadat de loods uiterlijk 24 maanden de bevoegdheid genoemd in het derde lid onderdeel e heeft bezeten. De plaatsing in de bevoegdheidscategorie Dordrecht loods geschiedt nadat de loods ten minste 24 maanden de bevoegdheid genoemd in het derde lid onderdeel b heeft bezeten.
 
-- b. vanaf 9 maanden na plaatsing in deze bevoegdheidscategorie, voor schepen met een lengte over alles tot 175 m;
+5. De registerloods die ten minste 9 maanden over de bevoegdheid, genoemd in onderdeel e van het derde lid beschikt, kan door het bestuur van de regionale loodsencorporatie Rotterdam-Rijnmond in de bevoegdheidscategorie Europoort loods worden geplaatst. Alsdan is de registerloods op de tot deze bevoegdheidscategorie behorende scheepvaartwegen bevoegd:
 
-- c. vanaf 18 maanden na plaatsing in deze bevoegdheidscategorie, voor schepen met een lengte over alles tot 200 m.
+- a. vanaf die plaatsing, voor schepen met een lengte over alles tot 250m;
 
-7. De registerloods die gedurende ten minste 9 maanden over de bevoegdheid, genoemd in onderdeel c van het zesde lid, beschikt kan in de bevoegdheidscategorie E-loods worden geplaatst met de bevoegdheid voor schepen met een lengte over alles van 200 m en meer. Alsdan is de registerloods op de tot deze bevoegdheidscategorie behorende scheepvaartwegen bevoegd:
+- b. vanaf 12 maanden na die plaatsing, voor schepen met een lengte over alles tot 275m;
 
-- a. vanaf die plaatsing, voor schepen met een lengte over alles tot 225 m;
+- c. vanaf 21 maanden na die plaatsing, voor schepen met een lengte over alles tot 300m;
 
-- b. vanaf 9 maanden na die plaatsing, voor schepen met een lengte over alles tot 250 m;
+- d. vanaf 33 maanden na die plaatsing, voor schepen met een lengte over alles tot 325m;
 
-- c. vanaf 18 maanden na die plaatsing, voor schepen met een lengte over alles tot 275 m;
+- e. vanaf 45 maanden na die plaatsing, voor schepen met een lengte over alles tot 375m;
 
-- d. vanaf 27 maanden na die plaatsing, voor schepen met een lengte over alles tot 300 m;
+- f. vanaf 54 maanden na die plaatsing voor alle schepen.
 
-- e. vanaf 36 maanden na die plaatsing, voor schepen met een lengte over alles tot 325 m;
-
-- f. vanaf 45 maanden na die plaatsing, voor alle schepen.
-
-8. De registerloods die is geplaatst in de bevoegdheidscategorie S-loods is op de tot die bevoegdheidscategorie behorende scheepvaartwegen bevoegd:
-
-- a. vanaf plaatsing in deze bevoegdheidscategorie, voor schepen met een lengte over alles tot 150 m;
-
-- b. vanaf 9 maanden na plaatsing in deze bevoegdheidscategorie, voor schepen met een lengte over alles tot 170 m;
-
-- c. vanaf 18 maanden na plaatsing in deze bevoegdheidscategorie, voor schepen met een lengte over alles tot 200 m.
-
-9. De registerloods die gedurende ten minste 9 maanden over de bevoegdheid, genoemd in onderdeel c van het achtste lid, beschikt kan in de bevoegdheidscategorie S-loods worden geplaatst met de bevoegdheid voor schepen met een lengte over alles van 200 m en meer.
+6. De registerloods die ten minste 9 maanden over de bevoegdheid, genoemd in onderdeel e van het derde lid beschikt kan door het bestuur van de regionale loodsencorporatie Rotterdam-Rijnmond in de bevoegdheidscategorie Stad loods worden geplaatst.
 
 Alsdan is de registerloods op de tot deze bevoegdheidscategorie behorende scheepvaartwegen bevoegd:
 
-- a. vanaf plaatsing, voor schepen met een lengte over alles tot 225 m;
+- a. vanaf die plaatsing, voor schepen met een lengte over alles tot 225m;
 
-- b. vanaf 9 maanden na die plaatsing, voor schepen met een lengte over alles tot 250 m;
+- b. vanaf 12 maanden na die plaatsing, voor schepen met een lengte over alles tot 250m;
 
-- c. vanaf 18 maanden na die plaatsing, voor schepen met een lengte over alles tot 275 m;
+- c. vanaf 21 maanden na die plaatsing, voor schepen met een lengte over alles tot 275m;
 
-- d. vanaf 27 maanden na die plaatsing, voor schepen met een lengte over alles tot 300 m;
+- d. vanaf 33 maanden na die plaatsing, voor schepen met een lengte over alles tot 300m;
 
-- e. vanaf 36 maanden na die plaatsing, voor schepen met een lengte over alles tot 325 m;
+- e. vanaf 45 maanden na die plaatsing, voor alle schepen.
 
-- f. vanaf 45 maanden na die plaatsing, voor alle schepen.
+7. De registerloods die ten minste 12 maanden over de bevoegdheid, genoemd in onderdeel b van het derde lid beschikt kan door het bestuur van de regionale loodsencorporatie Rotterdam-Rijnmond in de bevoegdheidscategorie Dordrecht loods worden geplaatst. Alsdan is de registerloods op de tot deze bevoegdheidscategorie behorende scheepvaartwegen bevoegd:
 
-10. De registerloods die is geplaatst in de bevoegdheidscategorie D-loods is op de tot deze bevoegdheidscategorie behorende scheepvaartwegen bevoegd:
+- a. vanaf die plaatsing, voor schepen meteen lengte over alles tot 150m;
 
-- a. vanaf plaatsing in deze bevoegdheidscategorie, voor schepen met een lengte over alles tot 125 m;
+- b. vanaf 12 maanden na die plaatsing, voor schepen met een lengte over alles tot 175m;
 
-- b. vanaf 9 maanden na plaatsing in deze bevoegdheidscategorie, voor schepen met een lengte over alles tot 150 m;
+- c. vanaf 21 maanden na die plaatsing, voor schepen voor alle schepen.
 
-- c. vanaf 18 maanden na plaatsing in deze bevoegdheidscategorie, voor schepen met een lengte over alles tot 175 m;
+8. De registerloods die ten minste 9 maanden over de bevoegdheid, genoemd in onderdeel e van het derde lid beschikt kan door het bestuur van de regionale loodsencorporatie Rotterdam-Rijnmond in de bevoegdheidscategorie Scheveningen loods worden geplaatst.
 
-- d. vanaf 27 maanden na plaatsing in deze bevoegdheidscategorie, voor schepen met een lengte over alles tot 200 m;
+Alsdan is de registerloods op de tot deze bevoegdheidscategorie behorende scheepvaartwegen bevoegd voor alle schepen.
 
-- e. vanaf 36 maanden na plaatsing in deze bevoegdheidscategorie, voor alle schepen.
-
-11. De registerloods die is geplaatst in de bevoegdheidscategorie V-loods is op de tot deze bevoegdheidscategorie behorende scheepvaartwegen bevoegd:
-
-- a. vanaf plaatsing in deze bevoegdheidscategorie, voor schepen met een lengte over alles tot 85 m;
-
-- b. vanaf 12 maanden na plaatsing in deze bevoegdheidscategorie, voor schepen met een lengte over alles tot 100 m;
-
-- c. vanaf 24 maanden na plaatsing in deze bevoegdheidscategorie, voor schepen met een lengte over alles tot 125 m;
-
-- d. vanaf 36 maanden na plaatsing in deze bevoegdheidscategorie, voor schepen met een lengte over alles tot 145 m;
-
-- e. vanaf 45 maanden na plaatsing in deze bevoegdheidscategorie, voor alle schepen.
-
-12. Voor de registerloods zijn de schepen, onderscheidenlijk genoemd in het zevende, negende, tiende en elfde lid, op de in die onderscheidenlijke leden bedoelde scheepvaartwegen, alsmede schepen met een diepgang van 143 dm of meer, specialisaties.
+9. Voor de registerloods zijn de schepen onderscheidenlijk genoemd in het vijfde, zesde, zevende en achtste lid op die onderscheidenlijke scheepvaartwegen, alsmede schepen met een diepgang van 143dm of meer, specialisaties.
 
 ##### Artikel 10
 
@@ -369,31 +343,33 @@ Alsdan is de registerloods op de tot deze bevoegdheidscategorie behorende scheep
 
 ##### Artikel 11
 
-Voor de registerloods zijn eveneens specialisaties:
+1. Voor de registerloods zijn eveneens specialisaties:
 
-- a. schepen op de scheepvaartwegen als bedoeld in [artikel 2, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007399&hoofdstuk=1&artikel=2&z=2003-07-10&g=2003-07-10), voorzover deze schepen niet reeds als specialisatie zijn genoemd in de [artikelen 5 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0007399&hoofdstuk=2&artikel=5&z=2003-07-10&g=2003-07-10) dan wel de scheepvaartwegen die behoren tot het gebied als bedoeld in [artikel 3, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0007399&hoofdstuk=2&artikel=3&z=2003-07-10&g=2003-07-10).
+- a. schepen op de scheepvaartwegen als bedoeld in [artikel 2, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007399&hoofdstuk=1&artikel=2&z=2006-06-24&g=2006-06-24), voorzover deze schepen niet reeds als specialisatie zijn genoemd in de [artikelen 5 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0007399&hoofdstuk=2&artikel=5&z=2006-06-24&g=2006-06-24) dan wel de scheepvaartwegen die behoren tot het gebied als bedoeld in [artikel 3, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0007399&hoofdstuk=2&artikel=3&z=2006-06-24&g=2006-06-24).
 
 - b. het loodsen op afstand vanaf de wal.
 
+2. De registerloodsen die de bevoegdheden ontlenen aan [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0007399&hoofdstuk=2&artikel=9&z=2006-06-24&g=2006-06-24) zijn, na verloop van 66 maanden na inschrijving verplicht in ieder geval één van de specialisaties Europoort loods, Stads loods of Dordrecht loods te hebben onverminderd de bevoegdheid als Algemeen loods.
+
 ##### Artikel 12
 
-De registerloods, die een opleiding als bedoeld in de [artikelen 3, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0007399&hoofdstuk=2&artikel=3&z=2003-07-10&g=2003-07-10), en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0007399&hoofdstuk=2&artikel=4&z=2003-07-10&g=2003-07-10) wenst te volgen, behoeft hiervoor de goedkeuring van het bestuur van de regionale loodsencorporatie.
+De registerloods, die een opleiding als bedoeld in de [artikelen 3, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0007399&hoofdstuk=2&artikel=3&z=2006-06-24&g=2006-06-24), en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0007399&hoofdstuk=2&artikel=4&z=2006-06-24&g=2006-06-24) wenst te volgen, behoeft hiervoor de goedkeuring van het bestuur van de regionale loodsencorporatie.
 
 ##### Artikel 13
 
-1. Onverminderd het bepaalde in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007399&hoofdstuk=2&artikel=4&z=2003-07-10&g=2003-07-10), is, indien in bijzondere omstandigheden voor een bepaalde categorie van schepen geen bevoegde registerloods beschikbaar is, voor een schip uit die bepaalde categorie van schepen bevoegd, de registerloods die van de beschikbare registerloodsen in de naastgelegen voorafgaande lagere bevoegdheid de langste tijd bevoegd is binnen die categorie.
+1. Onverminderd het bepaalde in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007399&hoofdstuk=2&artikel=4&z=2006-06-24&g=2006-06-24), is, indien in bijzondere omstandigheden voor een bepaalde categorie van schepen geen bevoegde registerloods beschikbaar is, voor een schip uit die bepaalde categorie van schepen bevoegd, de registerloods die van de beschikbare registerloodsen in de naastgelegen voorafgaande lagere bevoegdheid de langste tijd bevoegd is binnen die categorie.
 
-2. Het eerste lid blijft buiten toepassing, ten aanzien van de [artikelen 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007399&hoofdstuk=2&artikel=5&z=2003-07-10&g=2003-07-10), [6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007399&hoofdstuk=2&artikel=6&z=2003-07-10&g=2003-07-10), [8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007399&hoofdstuk=2&artikel=8&z=2003-07-10&g=2003-07-10) en [10, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007399&hoofdstuk=2&artikel=10&z=2003-07-10&g=2003-07-10).
+2. Het eerste lid blijft buiten toepassing, ten aanzien van de [artikelen 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007399&hoofdstuk=2&artikel=5&z=2006-06-24&g=2006-06-24), [6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007399&hoofdstuk=2&artikel=6&z=2006-06-24&g=2006-06-24), [8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007399&hoofdstuk=2&artikel=8&z=2006-06-24&g=2006-06-24) en [10, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007399&hoofdstuk=2&artikel=10&z=2006-06-24&g=2006-06-24).
 
 ##### Artikel 14
 
-1. Indien daartoe naar het oordeel van het bestuur van de regionale loodsencorporatie aanleiding bestaat, kan in individuele gevallen in beperkende zin worden afgeweken van het bepaalde in de [artikelen 5 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0007399&hoofdstuk=2&artikel=5&z=2003-07-10&g=2003-07-10).
+1. Indien daartoe naar het oordeel van het bestuur van de regionale loodsencorporatie aanleiding bestaat, kan in individuele gevallen in beperkende zin worden afgeweken van het bepaalde in de [artikelen 5 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0007399&hoofdstuk=2&artikel=5&z=2006-06-24&g=2006-06-24).
 
 2. Indien een registerloods gedurende een door het bestuur van de regionale loodsencorporatie vast te stellen termijn geen reizen als bedoeld in [artikel 1, onderdeel c, van het Loodsenregisterbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0004393&artikel=1) (Stb. 1988, 394) heeft gemaakt op een scheepvaartweg of een gedeelte daarvan, waarvoor hij krachtens deze verordening een bevoegdheid heeft, kan dat bestuur de bevoegdheid van die registerloods voor die scheepvaartweg of een gedeelte daarvan overeenkomstig beperken. Deze beperking kan door het bestuur eveneens geheel of gedeeltelijk worden beëindigd.
 
 Voor het beëindigen van een beperking kan het bestuur nadere voorwaarden stellen ten aanzien van ervaring en vaardigheid.
 
-3. In de gevallen als bedoeld in [artikel 3, tweede lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0007399&hoofdstuk=2&artikel=3&z=2003-07-10&g=2003-07-10), kan het bestuur van de betreffende regionale loodsencorporatie de termijnen genoemd in de [artikelen 5 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0007399&hoofdstuk=2&artikel=5&z=2003-07-10&g=2003-07-10) voor de betrokken registerloods lager vaststellen. Deze vaststelling wordt zoveel moge- lijk afgestemd op de als registerloods reeds elders verkregen bevoegdheid.
+3. In de gevallen als bedoeld in [artikel 3, tweede lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0007399&hoofdstuk=2&artikel=3&z=2006-06-24&g=2006-06-24), kan het bestuur van de betreffende regionale loodsencorporatie de termijnen genoemd in de [artikelen 5 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0007399&hoofdstuk=2&artikel=5&z=2006-06-24&g=2006-06-24) voor de betrokken registerloods lager vaststellen. Deze vaststelling wordt zoveel moge- lijk afgestemd op de als registerloods reeds elders verkregen bevoegdheid.
 
 ### Hoofdstuk 3. Overige bepalingen
 
@@ -401,11 +377,11 @@ Voor het beëindigen van een beperking kan het bestuur nadere voorwaarden stelle
 
 1. Als startpunt voor de opbouw van bevoegdheden geldt ten aanzien van hen die in het register zijn ingeschreven op grond van [artikel 63, eerste lid, van de Loodsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=63) (Stb. 1988, 353) in plaats van het moment van inschrijving in het register, het moment waarop zij bevoegd werden zelfstandig te loodsen in het betreffende regionale loodsstation.
 
-2. Het bestuur van de regionale loodsen- corporatie Rotterdam-Rijnmond plaatst de tot die regionale loodsencorporatie behorende registerloodsen, met ingang van de datum waarop deze verordening van kracht is, in de in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0007399&hoofdstuk=2&artikel=9&z=2003-07-10&g=2003-07-10) genoemde bevoegdheden, zodanig dat de krachtens [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0007399&hoofdstuk=2&artikel=9&z=2003-07-10&g=2003-07-10) toegekende bevoegdheid zoveel mogelijk overeenkomt met de bevoegdheid van de registerloods op de dag voorafgaande aan de inwerkingtredingsdatum van deze verordening.
+2. Het bestuur van de regionale loodsen- corporatie Rotterdam-Rijnmond plaatst de tot die regionale loodsencorporatie behorende registerloodsen, met ingang van de datum waarop deze verordening van kracht is, in de in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0007399&hoofdstuk=2&artikel=9&z=2006-06-24&g=2006-06-24) genoemde bevoegdheden, zodanig dat de krachtens [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0007399&hoofdstuk=2&artikel=9&z=2006-06-24&g=2006-06-24) toegekende bevoegdheid zoveel mogelijk overeenkomt met de bevoegdheid van de registerloods op de dag voorafgaande aan de inwerkingtredingsdatum van deze verordening.
 
 3. Behoudens het bepaalde in het tweede lid wordt de bevoegdheid van een registerloods, verkregen krachtens de van toepassing zijnde [Bevoegdhedenverordening registerloodsen](onbekend) op de dag voorafgaande aan de inwerkingtreding van deze verordening, geacht te zijn verkregen krachtens deze verordening.
 
-4. Na inwerkingtreding van deze verordening berusten de op grond van [artikel 5, tweede lid, van de Bevoegdhe-denverordening registerloodsen](onbekend) door de besturen van de regionale loodsencorporaties vastgestelde reglementen op [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007399&hoofdstuk=2&artikel=4&z=2003-07-10&g=2003-07-10), van deze verordening.
+4. Na inwerkingtreding van deze verordening berusten de op grond van [artikel 5, tweede lid, van de Bevoegdhe-denverordening registerloodsen](onbekend) door de besturen van de regionale loodsencorporaties vastgestelde reglementen op [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007399&hoofdstuk=2&artikel=4&z=2006-06-24&g=2006-06-24), van deze verordening.
 
 ##### Artikel 16
 
