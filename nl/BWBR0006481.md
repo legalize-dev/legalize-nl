@@ -4,7 +4,7 @@ identifier: "BWBR0006481"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-01-01"
-last_updated: "2002-01-01"
+last_updated: "2006-06-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006481"
 soort: "ministeriele-regeling"
@@ -47,19 +47,19 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-#### Paragraaf 2. Vacatiegelden centrale commissie en commissie beheer landbouwgronden
+#### Paragraaf 2. Vacatiegelden commissie beheer landbouwgronden
 
 ##### Artikel 2
 
-1. Aan de leden, plaatsvervangende leden en adviserende leden van de centrale commissie, niet zijnde functionarissen in dienst van het Rijk, van een ander publiekrechtelijk lichaam dan het Rijk of van een door het Rijk in het leven geroepen instelling dan wel van een instelling, welker personeelskosten door het Rijk worden vergoed, indien hun benoeming haar oorzaak vindt in de functie die zij vervullen, wordt voor het bijwonen van een vergadering van de commissie dan wel voor het afleggen van een terreinbezoek een vergoeding van € 72,60 toegekend.
+1. Aan de leden en adviserende leden van de commissie beheer landbouwgronden, niet zijnde functionarissen in dienst van het Rijk, van een ander publiekrechtelijk lichaam dan het Rijk of van een door het Rijk in het leven geroepen instelling dan wel van een instelling, welker personeelskosten door het Rijk worden vergoed, indien hun benoeming haar oorzaak vindt in de functie die zij vervullen, wordt voor het bijwonen van een vergadering van de commissie dan wel voor het afleggen van een terreinbezoek een vergoeding van € 72,60 toegekend.
 
 2. Twee of meer vergaderingen dan wel terreinbezoeken op dezelfde dag gelden als één vergadering dan wel terreinbezoek.
 
-3. Aan de fungerend voorzitter van de centrale commissie, niet zijnde een functionaris in dienst van het Rijk, van een ander publiekrechtelijk lichaam dan het Rijk of van een door het Rijk in het leven geroepen instelling dan wel een instelling, welker personeelskosten door het Rijk worden vergoed, indien zijn benoeming haar oorzaak vindt in de functie die hij vervult, wordt voor het bijwonen van een vergadering naast de in het eerste lid bedoelde vergoeding, een vergoeding van € 13,61 toegekend.
+3. Aan de fungerend voorzitter van de commissie beheer landbouwgronden, niet zijnde een functionaris in dienst van het Rijk, van een ander publiekrechtelijk lichaam dan het Rijk of van een door het Rijk in het leven geroepen instelling dan wel een instelling, welker personeelskosten door het Rijk worden vergoed, indien zijn benoeming haar oorzaak vindt in de functie die hij vervult, wordt voor het bijwonen van een vergadering naast de in het eerste lid bedoelde vergoeding, een vergoeding van € 13,61 toegekend.
 
 ##### Artikel 3
 
-Aan de leden en adviserende leden van de commissie beheer landbouwgronden wordt, voor zover niet reeds toegekend in het kader van hun werkzaamheden voor de centrale commissie, een vergoeding toegekend overeenkomstig [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006481&paragraaf=2&artikel=2&z=2002-01-01&g=2002-01-01).
+Vervallen
 
 #### Paragraaf 3. Vacatiegelden provinciale commissies beheer landbouwgronden en subcommissies
 
@@ -89,9 +89,7 @@ Aan de leden en adviserende leden van de commissie beheer landbouwgronden wordt,
 
 ##### Artikel 6
 
-1. De in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006481&paragraaf=2&artikel=2&z=2002-01-01&g=2002-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0006481&paragraaf=3&artikel=4&z=2002-01-01&g=2002-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0006481&paragraaf=4&artikel=5&z=2002-01-01&g=2002-01-01) bedoelde personen genieten in verband met de in die artikelen bedoelde werkzaamheden, een vergoeding voor reis- en verblijfkosten op de voet van het bepaalde in het [Reisbesluit binnenland](https://wetten.overheid.nl/jci1.3:c:BWBR0005889).
-
-2. De in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006481&paragraaf=2&artikel=3&z=2002-01-01&g=2002-01-01) bedoelde personen genieten een vergoeding voor reis- en verblijfkosten op de voet van het bepaalde in het [Reisbesluit binnenland](https://wetten.overheid.nl/jci1.3:c:BWBR0005889), voor zover deze niet reeds zijn vergoed in het kader van hun werkzaamheden voor de centrale commissie.
+De in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006481&paragraaf=2&artikel=2&z=2006-06-25&g=2006-06-25), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0006481&paragraaf=3&artikel=4&z=2006-06-25&g=2006-06-25) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0006481&paragraaf=4&artikel=5&z=2006-06-25&g=2006-06-25) bedoelde personen genieten in verband met de in die artikelen bedoelde werkzaamheden, een vergoeding voor reis- en verblijfkosten op de voet van het bepaalde in het [Reisbesluit binnenland](https://wetten.overheid.nl/jci1.3:c:BWBR0005889).
 
 #### Paragraaf 6. Slotbepalingen
 
@@ -101,6 +99,4 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 
 ##### Artikel 8
 
-Deze regeling wordt aangehaald als: Regeling vacatiegelden leden Centrale Landinrichtingscommissie, commissie beheer landbouwgronden, provinciale commissie beheer landbouwgronden en geschillencommissie.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+Deze regeling wordt aangehaald als: Regeling vacatiegelden leden commissie beheer landbouwgronden, provinciale commissie beheer landbouwgronden en geschillencommissie.
