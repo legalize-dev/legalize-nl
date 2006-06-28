@@ -4,7 +4,7 @@ identifier: "BWBR0017155"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2013-04-01"
-last_updated: "2004-10-21"
+last_updated: "2006-06-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017155"
 soort: "ministeriele-regeling"
@@ -73,9 +73,9 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 4
 
-1. De veiling is een veiling met gesloten bod.
+1. De veiling is een veiling met gesloten bod. Het object van de veiling is een recht om één nummer te kiezen.
 
-2. Een veiling met gesloten bod omvat één biedronde, tenzij na toekenning er overlappende aanvragen resteren.
+2. De veiling omvat net zoveel biedronden totdat één deelnemer aan de veiling resteert.
 
 ##### Artikel 5
 
@@ -103,7 +103,7 @@ Een deelnemer is vanaf het moment dat hij een bod heeft uitgebracht tot en met h
 
 2. De veilingmeester verklaart een tijdens de veiling uitgebracht bod door een van deelname aan de veiling uitgesloten deelnemer ongeldig.
 
-3. Een bod is tevens ongeldig indien het niet voldoet aan het bepaalde in [artikel 6, derde tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017155&paragraaf=2&artikel=6&z=2004-10-21&g=2004-10-21).
+3. Een bod is tevens ongeldig indien het niet voldoet aan het bepaalde in [artikel 6, derde tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017155&paragraaf=2&artikel=6&z=2006-06-28&g=2006-06-28).
 
 4. De deelnemer van wie de veilingmeester heeft vastgesteld dat deze een ongeldig bod heeft uitgebracht wordt hiervan door het college op de hoogte gesteld.
 
@@ -121,17 +121,17 @@ Indien het hoogste bod door twee of meer deelnemers wordt uitgebracht, stelt de 
 
 1. Indien na het vaststellen van het hoogste bod geen overlappende aanvragen, maar wel een of meerdere aanvragen resteren, kan het college toekennen aan deze aanvrager of aanvragers.
 
-2. Indien na het vaststellen van het hoogste bod overlappende aanvragen resteren, verstrekt het college de betrokken aanvragers een nieuwe biedkaart. De [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017155&paragraaf=2&artikel=5&z=2004-10-21&g=2004-10-21), [6, tweede tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017155&paragraaf=2&artikel=6&z=2004-10-21&g=2004-10-21), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0017155&paragraaf=2&artikel=7&z=2004-10-21&g=2004-10-21), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0017155&paragraaf=2&artikel=8&z=2004-10-21&g=2004-10-21), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0017155&paragraaf=2&artikel=9&z=2004-10-21&g=2004-10-21) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0017155&paragraaf=2&artikel=10&z=2004-10-21&g=2004-10-21) zijn van toepassing op de volgende biedronde.
+2. Indien na het vaststellen van het hoogste bod overlappende aanvragen resteren, verstrekt het college de betrokken aanvragers een nieuwe biedkaart. De [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017155&paragraaf=2&artikel=5&z=2006-06-28&g=2006-06-28), [6, tweede tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017155&paragraaf=2&artikel=6&z=2006-06-28&g=2006-06-28), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0017155&paragraaf=2&artikel=7&z=2006-06-28&g=2006-06-28), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0017155&paragraaf=2&artikel=8&z=2006-06-28&g=2006-06-28), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0017155&paragraaf=2&artikel=9&z=2006-06-28&g=2006-06-28) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0017155&paragraaf=2&artikel=10&z=2006-06-28&g=2006-06-28) zijn van toepassing op de volgende biedronde.
 
 ##### Artikel 11
 
-1. Na de vaststelling van het hoogste bod bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0017155&paragraaf=2&artikel=8&z=2004-10-21&g=2004-10-21), deelt het college aan de deelnemers de uitslag van de veiling mee.
+1. Na de vaststelling van het hoogste bod bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0017155&paragraaf=2&artikel=8&z=2006-06-28&g=2006-06-28), deelt het college aan de deelnemers de uitslag van de veiling mee.
 
 2. Het college maakt de uitslag van de veiling openbaar.
 
 ##### Artikel 12
 
-1. De deelnemer waarvan de veilingmeester heeft vastgesteld dat hij het hoogste bod heeft uitgebracht, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0017155&paragraaf=2&artikel=8&z=2004-10-21&g=2004-10-21), voldoet het door hem verschuldigde bedrag binnen een door het college vast te stellen termijn op een door het college vast te stellen wijze.
+1. De deelnemer waarvan de veilingmeester heeft vastgesteld dat hij het hoogste bod heeft uitgebracht, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0017155&paragraaf=2&artikel=8&z=2006-06-28&g=2006-06-28), voldoet het door hem verschuldigde bedrag binnen een door het college vast te stellen termijn op een door het college vast te stellen wijze.
 
 2. Het college kent toe, nadat het verschuldigde bedrag is ontvangen.
 
