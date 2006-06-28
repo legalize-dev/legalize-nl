@@ -4,7 +4,7 @@ identifier: "BWBR0012812"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-01"
-last_updated: "2006-01-01"
+last_updated: "2006-06-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012812"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ Besluit:
 
 1. In deze regeling wordt verstaan onder:
 
-a. de wet: de [Paspoortwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212); b. aanvraag, weigering, verstrekking, uitreiking, houder, wijziging, inhouding, vervallen of vervallenverklaring en vermissing: hetgeen ingevolge [artikel 1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=1) daaronder wordt verstaan; c. aanvrager: degene die een aanvraag als bedoeld in [artikel 1, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=1) indient of op wie een dergelijke aanvraag betrekking heeft; d. noodverlenging: een wijziging van de datum waarop de geldigheidsduur van het reisdocument eindigt in een datum die op een later tijdstip is gelegen; e. register paspoortsignaleringen: het register, bedoeld in [artikel 25, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=25); f. opsporingsregister: het opsporingsregister, gehouden bij het Korps Landelijke Politiediensten; g. basisadministratie: de gemeentelijke basisadministratie persoonsgegevens, bedoeld in [artikel 2 van de Wet gemeentelijke basisadministratie persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0006723&artikel=2); h. basisregister reisdocumenten: het register, bedoeld in [artikel 4a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=4a); i. aanvraagsysteem reisdocumenten: het geheel van apparatuur, programmatuur, opslagmedia en overige materialen, waarvan door de bevoegde autoriteit gebruik wordt gemaakt bij de aanvraag, verstrekking, uitreiking en registratie van reisdocumenten; j. reisdocumentenstation: de door de leverancier beschikbaar gestelde apparatuur en programmatuur, waarin gegevens met betrekking tot aangevraagde en uitgereikte reisdocumenten worden verwerkt en gearchiveerd en waarmee de gegevensuitwisseling tussen de bevoegde autoriteit en de leverancier plaatsvindt (reisdocumentenaanvraag- en archiefstation); k. reisdocumentenadministratie: de in het reisdocumentenstation en op andere wijze bij de bevoegde autoriteit opgeslagen gegevens met betrekking tot aangevraagde en uitgereikte reisdocumenten; l. reisdocumentenmodule: de apparatuur en programmatuur, waarmee de bevoegde autoriteit bij de aanvraag en uitreiking gegevens uitwisselt met het reisdocumentenstation; m. standaardclausule: een clausule, waarvan de tekst in bijlage A van deze regeling is opgenomen en die door de bevoegde autoriteit in het reisdocument wordt aangebracht; n. standaardformulier: een voorbedrukt formulier, opgenomen in bijlage B van deze regeling; o. modelformulier: een model voor een formulier, opgenomen in bijlage C van deze regeling; p. aanvraag-informatieformulier: een door de Commandant van de Koninklijke Marechaussee voorgeschreven formulier, dat bestemd is voor het opmaken van een aanvraag voor een reisdocument; q. aanvraagformulier: het in bijlage B van deze regeling opgenomen standaardformulier B1 dat bestemd is voor het op schrift stellen van de aanvraaggegevens, bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0012812&hoofdstuk=III&paragraaf=3&artikel=22&z=2006-01-01&g=2006-01-01); r. aanvraagnummer: het nummer dat voorgedrukt is op het aanvraagformulier; s. commandant: brigadecommandant van de Koninklijke Marechaussee dan wel de commandant van het District Koninklijke Marechaussee Schiphol, die ingevolge artikel 6 van deze regeling is aangewezen; t. agentschap BPR: het agentschap Basisadministratie Persoonsgegevens en Reisdocumenten van het ministerie van Binnenlandse Zaken en Koninkrijksrelaties; u. identificatiekaart: een document als bedoeld in [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0012812&hoofdstuk=IX&paragraaf=1&artikel=39&z=2006-01-01&g=2006-01-01), waarmee op elektronische wijze toegang kan worden verkregen tot het reisdocumentenstation en de daarin opgeslagen programmatuur en gegevens; v. leverancier: het bedrijf dat in opdracht van het ministerie van Binnenlandse Zaken en Koninkrijksrelaties belast is met het verrichten van diensten in verband met de verstrekking van reisdocumenten, waaronder de vervaardiging en levering van reisdocumenten, bijschrijvingsstickers en identificatiekaarten.
+a. de wet: de [Paspoortwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212); b. aanvraag, weigering, verstrekking, uitreiking, houder, wijziging, inhouding, vervallen of vervallenverklaring en vermissing: hetgeen ingevolge [artikel 1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=1) daaronder wordt verstaan; c. aanvrager: degene die een aanvraag als bedoeld in [artikel 1, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=1) indient of op wie een dergelijke aanvraag betrekking heeft; d. noodverlenging: een wijziging van de datum waarop de geldigheidsduur van het reisdocument eindigt in een datum die op een later tijdstip is gelegen; e. register paspoortsignaleringen: het register, bedoeld in [artikel 25, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=25); f. opsporingsregister: het opsporingsregister, gehouden bij het Korps Landelijke Politiediensten; g. basisadministratie: de gemeentelijke basisadministratie persoonsgegevens, bedoeld in [artikel 2 van de Wet gemeentelijke basisadministratie persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0006723&artikel=2); h. basisregister reisdocumenten: het register, bedoeld in [artikel 4a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=4a); i. aanvraagsysteem reisdocumenten: het geheel van apparatuur, programmatuur, opslagmedia en overige materialen, waarvan door de bevoegde autoriteit gebruik wordt gemaakt bij de aanvraag, verstrekking, uitreiking en registratie van reisdocumenten; j. reisdocumentenstation: de door de leverancier beschikbaar gestelde apparatuur en programmatuur, waarin gegevens met betrekking tot aangevraagde en uitgereikte reisdocumenten worden verwerkt en gearchiveerd en waarmee de gegevensuitwisseling tussen de bevoegde autoriteit en de leverancier plaatsvindt (reisdocumentenaanvraag- en archiefstation); k. reisdocumentenadministratie: de in het reisdocumentenstation en op andere wijze bij de bevoegde autoriteit opgeslagen gegevens met betrekking tot aangevraagde en uitgereikte reisdocumenten; l. reisdocumentenmodule: de apparatuur en programmatuur, waarmee de bevoegde autoriteit bij de aanvraag en uitreiking gegevens uitwisselt met het reisdocumentenstation; m. standaardclausule: een clausule, waarvan de tekst in bijlage A van deze regeling is opgenomen en die door de bevoegde autoriteit in het reisdocument wordt aangebracht; n. standaardformulier: een voorbedrukt formulier, opgenomen in bijlage B van deze regeling; o. modelformulier: een model voor een formulier, opgenomen in bijlage C van deze regeling; p. aanvraag-informatieformulier: een door de Commandant van de Koninklijke Marechaussee voorgeschreven formulier, dat bestemd is voor het opmaken van een aanvraag voor een reisdocument; q. aanvraagformulier: het in bijlage B van deze regeling opgenomen standaardformulier B1 dat bestemd is voor het op schrift stellen van de aanvraaggegevens, bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0012812&hoofdstuk=III&paragraaf=3&artikel=22&z=2006-06-28&g=2006-06-28); r. aanvraagnummer: het nummer dat voorgedrukt is op het aanvraagformulier; s. commandant: brigadecommandant van de Koninklijke Marechaussee dan wel de commandant van het District Koninklijke Marechaussee Schiphol, die ingevolge artikel 6 van deze regeling is aangewezen; t. agentschap BPR: het agentschap Basisadministratie Persoonsgegevens en Reisdocumenten van het ministerie van Binnenlandse Zaken en Koninkrijksrelaties; u. identificatiekaart: een document als bedoeld in [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0012812&hoofdstuk=IX&paragraaf=1&artikel=39&z=2006-06-28&g=2006-06-28), waarmee op elektronische wijze toegang kan worden verkregen tot het reisdocumentenstation en de daarin opgeslagen programmatuur en gegevens; v. leverancier: het bedrijf dat in opdracht van het ministerie van Binnenlandse Zaken en Koninkrijksrelaties belast is met het verrichten van diensten in verband met de verstrekking van reisdocumenten, waaronder de vervaardiging en levering van reisdocumenten, bijschrijvingsstickers en identificatiekaarten.
 
 2. Deze regeling is van toepassing op de verstrekking van noodpaspoorten en het aanbrengen van noodverlengingen door de Koninklijke Marechaussee.
 
@@ -118,7 +118,7 @@ Het register paspoortsignaleringen is ondergebracht bij het agentschap BPR.
 
 ##### Artikel 7. Heffing en kwijtschelding van rechten
 
-De in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0012812&hoofdstuk=I&paragraaf=5&artikel=6&z=2006-01-01&g=2006-01-01) bedoelde commandanten zijn bevoegd tot heffing van rechten, dan wel het verlenen van gehele of gedeeltelijke kwijtschelding van rechten als bedoeld in het [Besluit paspoortgelden](https://wetten.overheid.nl/jci1.3:c:BWBR0005264).
+De in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0012812&hoofdstuk=I&paragraaf=5&artikel=6&z=2006-06-28&g=2006-06-28) bedoelde commandanten zijn bevoegd tot heffing van rechten, dan wel het verlenen van gehele of gedeeltelijke kwijtschelding van rechten als bedoeld in het [Besluit paspoortgelden](https://wetten.overheid.nl/jci1.3:c:BWBR0005264).
 
 ### Hoofdstuk II. Vaststelling aanspraken en geldigheid van noodpaspoorten en noodverlengingen
 
@@ -144,13 +144,13 @@ De in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0012812&hoofdstuk=I&pa
 
 ##### Artikel 10. Beslissing op een aanvraag
 
-1. Een aanvraag waarbij door de aanvrager niet is voldaan aan het bepaalde in de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0012812&hoofdstuk=II&artikel=8&z=2006-01-01&g=2006-01-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0012812&hoofdstuk=II&artikel=9&z=2006-01-01&g=2006-01-01) wordt niet in behandeling genomen.
+1. Een aanvraag waarbij door de aanvrager niet is voldaan aan het bepaalde in de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0012812&hoofdstuk=II&artikel=8&z=2006-06-28&g=2006-06-28) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0012812&hoofdstuk=II&artikel=9&z=2006-06-28&g=2006-06-28) wordt niet in behandeling genomen.
 
-2. De commandant die een aanvraag in behandeling neemt betreffende een persoon die blijkens de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012812&hoofdstuk=I&paragraaf=4&artikel=5&z=2006-01-01&g=2006-01-01) bedoelde administratie in het register paspoortsignaleringen is vermeld, legt deze aanvraag onverwijld voor aan de Minister van Binnenlandse Zaken en Koninkrijksrelaties die beslist of tot verstrekking van een noodpaspoort of het aanbrengen van een noodverlenging kan worden overgegaan.
+2. De commandant die een aanvraag in behandeling neemt betreffende een persoon die blijkens de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012812&hoofdstuk=I&paragraaf=4&artikel=5&z=2006-06-28&g=2006-06-28) bedoelde administratie in het register paspoortsignaleringen is vermeld, legt deze aanvraag onverwijld voor aan de Minister van Binnenlandse Zaken en Koninkrijksrelaties die beslist of tot verstrekking van een noodpaspoort of het aanbrengen van een noodverlenging kan worden overgegaan.
 
 ##### Artikel 11. Aanspraak op een noodpaspoort en geldigheid
 
-1. Aan een persoon die voldoet aan de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0012812&hoofdstuk=II&artikel=8&z=2006-01-01&g=2006-01-01), 9 en 10 gestelde voorwaarden en geen dan wel slechts een door tijdsverloop ongeldig geworden Nederlands reisdocument kan overleggen, wordt een noodpaspoort verstrekt.
+1. Aan een persoon die voldoet aan de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0012812&hoofdstuk=II&artikel=8&z=2006-06-28&g=2006-06-28), 9 en 10 gestelde voorwaarden en geen dan wel slechts een door tijdsverloop ongeldig geworden Nederlands reisdocument kan overleggen, wordt een noodpaspoort verstrekt.
 
 2. Het noodpaspoort is een jaar geldig of zoveel korter als mogelijk, afhankelijk van de duur van de reis, alsmede de door het land van bestemming en de landen van doorreis vereiste minimale geldigheid van het reisdocument na binnenkomst, dan wel vertrek van de houder.
 
@@ -158,11 +158,11 @@ De in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0012812&hoofdstuk=I&pa
 
 ##### Artikel 12. Aanspraak op een noodverlenging en geldigheid
 
-1. Van een persoon die voldoet aan de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0012812&hoofdstuk=II&artikel=8&z=2006-01-01&g=2006-01-01), 9 en 10 gestelde voorwaarden en houder is van een nog geldig Nederlands reisdocument, niet zijnde een Nederlandse identiteitskaart of een nooddocument, wordt uitsluitend een aanvraag tot het aanbrengen van een noodverlenging in ontvangst genomen.
+1. Van een persoon die voldoet aan de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0012812&hoofdstuk=II&artikel=8&z=2006-06-28&g=2006-06-28), 9 en 10 gestelde voorwaarden en houder is van een nog geldig Nederlands reisdocument, niet zijnde een Nederlandse identiteitskaart of een nooddocument, wordt uitsluitend een aanvraag tot het aanbrengen van een noodverlenging in ontvangst genomen.
 
 2. Het aanbrengen van een noodverlenging in een reisdocument waarin reeds eerder een noodverlenging werd aangebracht, is niet toegestaan.
 
-3. [Artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012812&hoofdstuk=II&artikel=11&z=2006-01-01&g=2006-01-01), is van overeenkomstige toepassing.
+3. [Artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012812&hoofdstuk=II&artikel=11&z=2006-06-28&g=2006-06-28), is van overeenkomstige toepassing.
 
 ### Hoofdstuk III. Aanvraagprocedure
 
@@ -172,7 +172,7 @@ De in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0012812&hoofdstuk=I&pa
 
 1. Bij het opmaken van een aanvraag voor een reisdocument kan, in nader door de Commandant van de Koninklijke Marechaussee te bepalen gevallen, gebruik worden gemaakt van een daartoe bestemd aanvraag-informatieformulier.
 
-2. In de aanvraag wordt de in [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0012812&hoofdstuk=IX&paragraaf=1&artikel=42&z=2006-01-01&g=2006-01-01) bedoelde locatiecode, behorende bij de uitgiftelocatie, vermeld.
+2. In de aanvraag wordt de in [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0012812&hoofdstuk=IX&paragraaf=1&artikel=42&z=2006-06-28&g=2006-06-28) bedoelde locatiecode, behorende bij de uitgiftelocatie, vermeld.
 
 3. In de aanvraag wordt aangegeven of deze betrekking heeft op een noodpaspoort of een noodverlenging.
 
@@ -246,13 +246,13 @@ Indien de aanvrager ingevolge artikel 28, derde lid, van de wet niet persoonlijk
 
 2. In de verklaring van toestemming worden tevens de naam en de handtekening vermeld van degene die de aanvraag ten behoeve van een handelingsonbekwame indient.
 
-3. Indien gebruik wordt gemaakt van het aanvraag-informatieformulier, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0012812&hoofdstuk=III&paragraaf=1&artikel=13&z=2006-01-01&g=2006-01-01), kan voor het overleggen van de verklaring van toestemming worden volstaan met het (mede) ondertekenen van dat formulier door de degenen die het gezag over de minderjarige uitoefenen.
+3. Indien gebruik wordt gemaakt van het aanvraag-informatieformulier, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0012812&hoofdstuk=III&paragraaf=1&artikel=13&z=2006-06-28&g=2006-06-28), kan voor het overleggen van de verklaring van toestemming worden volstaan met het (mede) ondertekenen van dat formulier door de degenen die het gezag over de minderjarige uitoefenen.
 
 4. In de aanvraag wordt melding gemaakt van de overlegging van de betreffende verklaring van toestemming.
 
 ##### Artikel 21. Vaststelling identiteit en bevoegdheid van gezaghebber of curator
 
-1. Op de procedure voor het verkrijgen van de nodige zekerheid over de identiteit van degene die het gezag over de minderjarige uitoefent of van de curator is [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0012812&hoofdstuk=II&artikel=9&z=2006-01-01&g=2006-01-01) van overeenkomstige toepassing.
+1. Op de procedure voor het verkrijgen van de nodige zekerheid over de identiteit van degene die het gezag over de minderjarige uitoefent of van de curator is [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0012812&hoofdstuk=II&artikel=9&z=2006-06-28&g=2006-06-28) van overeenkomstige toepassing.
 
 2. Indien degene die een verklaring van toestemming moet afgeven niet in persoon verschijnt, kan de aanvraag slechts in behandeling worden genomen indien uit de overgelegde schriftelijke verklaring van toestemming en eventuele andere overgelegde stukken met de nodige zekerheid kan worden afgeleid dat de verklaring van toestemming van de betreffende persoon afkomstig is.
 
@@ -264,21 +264,21 @@ Indien de aanvrager ingevolge artikel 28, derde lid, van de wet niet persoonlijk
 
 ##### Artikel 22
 
-1. De in [bijlage F](https://wetten.overheid.nl/jci1.3:c:BWBR0012812&bijlage=F&z=2006-01-01&g=2006-01-01) genoemde aanvraaggegevens worden rechtstreeks dan wel door overname van deze gegevens uit het aanvraag-informatieformulier, opgenomen in:
+1. De in [bijlage F](https://wetten.overheid.nl/jci1.3:c:BWBR0012812&bijlage=F&z=2006-06-28&g=2006-06-28) genoemde aanvraaggegevens worden rechtstreeks dan wel door overname van deze gegevens uit het aanvraag-informatieformulier, opgenomen in:
 
 - a. de reisdocumentenmodule van het District Koninklijke Marechaussee Schiphol, dan wel
 
 - b. het reisdocumentenstation van de andere aangewezen brigades van de Koninklijke Marechaussee, en vervolgens met een daartoe bestemde printer vermeld in het aanvraagformulier.
 
-2. De daartoe aangewezen ambtenaar vergelijkt bij een aanvraag voor een noodpaspoort, behoudens in het in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0012812&hoofdstuk=III&paragraaf=1&artikel=19&z=2006-01-01&g=2006-01-01) bedoelde geval, nauwkeurig de overgelegde foto van de aanvrager dan wel van degene ten behoeve van wie de aanvraag wordt ingediend met de persoon die voor hem staat en brengt deze foto vervolgens op de bestemde plaats in het aanvraagformulier aan.
+2. De daartoe aangewezen ambtenaar vergelijkt bij een aanvraag voor een noodpaspoort, behoudens in het in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0012812&hoofdstuk=III&paragraaf=1&artikel=19&z=2006-06-28&g=2006-06-28) bedoelde geval, nauwkeurig de overgelegde foto van de aanvrager dan wel van degene ten behoeve van wie de aanvraag wordt ingediend met de persoon die voor hem staat en brengt deze foto vervolgens op de bestemde plaats in het aanvraagformulier aan.
 
-3. Indien de aanvrager akkoord is met de in de aanvraag vermelde gegevens, ziet de in het tweede lid bedoelde ambtenaar, behoudens in het in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0012812&hoofdstuk=III&paragraaf=1&artikel=18&z=2006-01-01&g=2006-01-01) bedoelde geval, er op toe dat in het aanvraagformulier op de bestemde plaats de duidelijk leesbare handtekening wordt geplaatst van de aanvrager dan wel van de persoon ten behoeve van wie de aanvraag van het reisdocument wordt gedaan. In de gevallen waarin gebruik wordt gemaakt van een aanvraag-informatieformulier, wordt tevens dit formulier door de aanvrager ondertekend.
+3. Indien de aanvrager akkoord is met de in de aanvraag vermelde gegevens, ziet de in het tweede lid bedoelde ambtenaar, behoudens in het in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0012812&hoofdstuk=III&paragraaf=1&artikel=18&z=2006-06-28&g=2006-06-28) bedoelde geval, er op toe dat in het aanvraagformulier op de bestemde plaats de duidelijk leesbare handtekening wordt geplaatst van de aanvrager dan wel van de persoon ten behoeve van wie de aanvraag van het reisdocument wordt gedaan. In de gevallen waarin gebruik wordt gemaakt van een aanvraag-informatieformulier, wordt tevens dit formulier door de aanvrager ondertekend.
 
 #### § 4. Afhandeling van de aanvraag en vastlegging van de gegevens in het reisdocumentenstation
 
 ##### Artikel 23
 
-1. Een aanvraag waarbij niet is voldaan aan het bepaalde in de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0012812&hoofdstuk=III&paragraaf=1&artikel=13&z=2006-01-01&g=2006-01-01) tot en met [22](https://wetten.overheid.nl/jci1.3:c:BWBR0012812&hoofdstuk=III&paragraaf=3&artikel=22&z=2006-01-01&g=2006-01-01) wordt niet in behandeling genomen.
+1. Een aanvraag waarbij niet is voldaan aan het bepaalde in de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0012812&hoofdstuk=III&paragraaf=1&artikel=13&z=2006-06-28&g=2006-06-28) tot en met [22](https://wetten.overheid.nl/jci1.3:c:BWBR0012812&hoofdstuk=III&paragraaf=3&artikel=22&z=2006-06-28&g=2006-06-28) wordt niet in behandeling genomen.
 
 2. De daartoe aangewezen ambtenaar die, met inachtneming van het bij of krachtens de wet bepaalde, heeft beslist dat het aangevraagde noodpaspoort kan worden uitgereikt dan wel de aangevraagde noodverlenging kan plaatsvinden, vermeldt in de aanvraag, het gegeven dat deze verstrekking heeft plaatsgevonden, de datum van deze verstrekking en de datum waarop de geldigheidsduur van het uit te reiken noodpaspoort of de aan te brengen noodverlenging eindigt.
 
@@ -286,19 +286,19 @@ Indien de aanvrager ingevolge artikel 28, derde lid, van de wet niet persoonlijk
 
 ##### Artikel 24
 
-1. De daartoe aangewezen ambtenaar draagt zorg dat de aanvraaggegevens, genoemd in de [artikelen 13 tot en met 23](https://wetten.overheid.nl/jci1.3:c:BWBR0012812&hoofdstuk=III&paragraaf=1&artikel=13&z=2006-01-01&g=2006-01-01), in het reisdocumentenstation worden vastgelegd. Bij het District Koninklijke Marechaussee Schiphol gebeurt dit met gebruikmaking van de reisdocumentenmodule.
+1. De daartoe aangewezen ambtenaar draagt zorg dat de aanvraaggegevens, genoemd in de [artikelen 13 tot en met 23](https://wetten.overheid.nl/jci1.3:c:BWBR0012812&hoofdstuk=III&paragraaf=1&artikel=13&z=2006-06-28&g=2006-06-28), in het reisdocumentenstation worden vastgelegd. Bij het District Koninklijke Marechaussee Schiphol gebeurt dit met gebruikmaking van de reisdocumentenmodule.
 
-2. Indien de aanvraaggegevens zijn opgenomen in het reisdocumentenstation, maar de beslissing op de aanvraag ingevolge [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012812&hoofdstuk=II&artikel=10&z=2006-01-01&g=2006-01-01), is aangehouden, worden de in [artikel 23, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012812&hoofdstuk=III&paragraaf=4&artikel=23&z=2006-01-01&g=2006-01-01), genoemde gegevens in het reisdocumentenstation vastgelegd, nadat de verstrekking heeft plaatsgevonden.
+2. Indien de aanvraaggegevens zijn opgenomen in het reisdocumentenstation, maar de beslissing op de aanvraag ingevolge [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012812&hoofdstuk=II&artikel=10&z=2006-06-28&g=2006-06-28), is aangehouden, worden de in [artikel 23, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012812&hoofdstuk=III&paragraaf=4&artikel=23&z=2006-06-28&g=2006-06-28), genoemde gegevens in het reisdocumentenstation vastgelegd, nadat de verstrekking heeft plaatsgevonden.
 
 ### Hoofdstuk IV. Personaliseren van noodpaspoorten en aanbrengen van noodverlengingen
 
 ##### Artikel 25. Het scannen van het aanvraagformulier
 
-Het aanvraagformulier wordt door de daartoe aangewezen ambtenaar met gebruikmaking van de daartoe bestemde apparatuur gescand, zodat de foto en de handtekening van de aanvrager en de paraaf van de bevoegde ambtenaar die akkoord is met de verstrekking worden gedigitaliseerd en met de aanvraaggegevens, bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0012812&hoofdstuk=III&paragraaf=4&artikel=24&z=2006-01-01&g=2006-01-01), worden samengevoegd tot een aanvraagbestand in het reisdocumentenstation.
+Het aanvraagformulier wordt door de daartoe aangewezen ambtenaar met gebruikmaking van de daartoe bestemde apparatuur gescand, zodat de foto en de handtekening van de aanvrager en de paraaf van de bevoegde ambtenaar die akkoord is met de verstrekking worden gedigitaliseerd en met de aanvraaggegevens, bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0012812&hoofdstuk=III&paragraaf=4&artikel=24&z=2006-06-28&g=2006-06-28), worden samengevoegd tot een aanvraagbestand in het reisdocumentenstation.
 
 ##### Artikel 26. Vermelding tijdstip en autoriteit van inlevering
 
-1. Bij de aanvraag van een noodpaspoort worden de datum waarop het desbetreffende reisdocument uiterlijk moet worden ingeleverd en de autoriteit bij wie de inlevering dient plaats te vinden, in de aanvraag vermeld overeenkomstig de gebruikershandleiding bij het reisdocumentenstation, bedoeld in [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0012812&hoofdstuk=IX&paragraaf=4&artikel=49&z=2006-01-01&g=2006-01-01).
+1. Bij de aanvraag van een noodpaspoort worden de datum waarop het desbetreffende reisdocument uiterlijk moet worden ingeleverd en de autoriteit bij wie de inlevering dient plaats te vinden, in de aanvraag vermeld overeenkomstig de gebruikershandleiding bij het reisdocumentenstation, bedoeld in [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0012812&hoofdstuk=IX&paragraaf=4&artikel=49&z=2006-06-28&g=2006-06-28).
 
 2. De ingevolge het eerste lid te vermelden datum is de datum waarop de geldigheidsduur van het noodpaspoort eindigt.
 
@@ -318,11 +318,11 @@ Het aanvraagformulier wordt door de daartoe aangewezen ambtenaar met gebruikmaki
 
 1. De daartoe aangewezen ambtenaar controleert het aanvraagbestand in het reisdocumentenstation op volledigheid en autoriseert het gebruik van dit bestand voor het personaliseren van het noodpaspoort of de noodverlenging.
 
-2. Een noodpaspoort wordt gepersonaliseerd dan wel een noodverlenging wordt aangebracht met behulp van het in het reisdocumentenstation opgenomen aanvraagbestand en met gebruikmaking van de daartoe bestemde reisdocumentenprinter, overeenkomstig de gebruikershandleiding bij het reisdocumentenstation, bedoeld in [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0012812&hoofdstuk=IX&paragraaf=4&artikel=49&z=2006-01-01&g=2006-01-01).
+2. Een noodpaspoort wordt gepersonaliseerd dan wel een noodverlenging wordt aangebracht met behulp van het in het reisdocumentenstation opgenomen aanvraagbestand en met gebruikmaking van de daartoe bestemde reisdocumentenprinter, overeenkomstig de gebruikershandleiding bij het reisdocumentenstation, bedoeld in [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0012812&hoofdstuk=IX&paragraaf=4&artikel=49&z=2006-06-28&g=2006-06-28).
 
 3. Na het personaliseren van het noodpaspoort wordt het bijbehorende laminaat over de houderpagina aangebracht.
 
-4. Indien de noodverlenging niet op de juiste wijze blijkt te zijn aangebracht, wordt deze met behulp van de in [artikel 50, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012812&hoofdstuk=IX&paragraaf=4&artikel=50&z=2006-01-01&g=2006-01-01), bedoelde clausulestempel doorgehaald en met gebruikmaking van standaardclausule II verwezen naar de visumbladzijde waar de noodverlenging opnieuw wordt aangebracht.
+4. Indien de noodverlenging niet op de juiste wijze blijkt te zijn aangebracht, wordt deze met behulp van de in [artikel 50, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012812&hoofdstuk=IX&paragraaf=4&artikel=50&z=2006-06-28&g=2006-06-28), bedoelde clausulestempel doorgehaald en met gebruikmaking van standaardclausule II verwezen naar de visumbladzijde waar de noodverlenging opnieuw wordt aangebracht.
 
 ### Hoofdstuk V. Uitreiking en registratie in het reisdocumentenstation
 
@@ -412,13 +412,13 @@ Gevonden reisdocumenten, niet zijnde nooddocumenten, worden met een opgave van d
 
 4. Een uitsluitend wegens het verstrijken van de geldigheidsduur bij de uitreiking van een noodpaspoort ingeleverd nationaal paspoort, Nederlandse identiteitskaart, faciliteitenpaspoort, tweede paspoort, reisdocument voor vluchtelingen of reisdocument voor vreemdelingen, wordt door de commandant definitief aan het verkeer onttrokken door het onbruikbaar te maken en aan de houder terug te geven. Het onbruikbaar maken geschiedt door het aanbrengen van drie ponsgaten (elk van tenminste 12 mm middellijn) door het gehele reisdocument of het knippen van een driehoek (met zijden van tenminste 40 mm) uit de rechterzijde van het gehele reisdocument. Daarbij dient het in het reisdocument aangebrachte kinegram gedeeltelijk onbruikbaar te worden gemaakt.
 
-5. Indien het ingevolge het vierde lid ingeleverde reisdocument bladzijden met een nog geldig visum of een geldige verblijfstitel bevat en in verband daarmee het verzoek is gedaan, bedoeld in [artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012812&hoofdstuk=III&paragraaf=1&artikel=15&z=2006-01-01&g=2006-01-01), worden de desbetreffende bladzijden en het documentnummer intact gelaten.
+5. Indien het ingevolge het vierde lid ingeleverde reisdocument bladzijden met een nog geldig visum of een geldige verblijfstitel bevat en in verband daarmee het verzoek is gedaan, bedoeld in [artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012812&hoofdstuk=III&paragraaf=1&artikel=15&z=2006-06-28&g=2006-06-28), worden de desbetreffende bladzijden en het documentnummer intact gelaten.
 
-6. De in het vierde lid bedoelde teruggave van een reisdocument vindt niet plaats, indien het reisdocument op grond van [artikel 47, eerste lid, onder a, b, c, g of h, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=47) van rechtswege is vervallen, op grond van [54, eerste lid, onder b, c en e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=54) is ingehouden, dan wel [artikel 57, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012812&hoofdstuk=XI&artikel=57&z=2006-01-01&g=2006-01-01), of [artikel 58, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012812&hoofdstuk=XI&artikel=58&z=2006-01-01&g=2006-01-01), van toepassing is.
+6. De in het vierde lid bedoelde teruggave van een reisdocument vindt niet plaats, indien het reisdocument op grond van [artikel 47, eerste lid, onder a, b, c, g of h, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=47) van rechtswege is vervallen, op grond van [54, eerste lid, onder b, c en e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=54) is ingehouden, dan wel [artikel 57, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012812&hoofdstuk=XI&artikel=57&z=2006-06-28&g=2006-06-28), of [artikel 58, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012812&hoofdstuk=XI&artikel=58&z=2006-06-28&g=2006-06-28), van toepassing is.
 
 ##### Artikel 33. Kennisgevingen
 
-Van de definitieve onttrekking aan het verkeer van een reisdocument als bedoeld in [artikel 32, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012812&hoofdstuk=VII&paragraaf=1&artikel=32&z=2006-01-01&g=2006-01-01), wordt met gebruikmaking van modelformulier C3 kennis gegeven aan:
+Van de definitieve onttrekking aan het verkeer van een reisdocument als bedoeld in [artikel 32, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012812&hoofdstuk=VII&paragraaf=1&artikel=32&z=2006-06-28&g=2006-06-28), wordt met gebruikmaking van modelformulier C3 kennis gegeven aan:
 
 - a. de burgemeester van de gemeente waar de houder in de basisadministratie is ingeschreven, dan wel
 
@@ -432,7 +432,7 @@ Van de definitieve onttrekking aan het verkeer van een reisdocument als bedoeld 
 
 ##### Artikel 34
 
-Het ongedaan maken van een bijschrijving geschiedt door het plaatsen van het in [artikel 50, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012812&hoofdstuk=IX&paragraaf=4&artikel=50&z=2006-01-01&g=2006-01-01), bedoelde stempel, voorzien van de paraaf van de commandant of de daartoe aangewezen ambtenaar over de tekst en de foto van de bijschrijving in het reisdocument.
+Het ongedaan maken van een bijschrijving geschiedt door het plaatsen van het in [artikel 50, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012812&hoofdstuk=IX&paragraaf=4&artikel=50&z=2006-06-28&g=2006-06-28), bedoelde stempel, voorzien van de paraaf van de commandant of de daartoe aangewezen ambtenaar over de tekst en de foto van de bijschrijving in het reisdocument.
 
 ### Hoofdstuk VIII. Reisdocumentenadministratie
 
@@ -440,7 +440,7 @@ Het ongedaan maken van een bijschrijving geschiedt door het plaatsen van het in 
 
 1. Van elk verstrekt noodpaspoort en elke aangebrachte noodverlenging wordt een administratie bijgehouden.
 
-2. De in het eerste lid bedoelde reisdocumentenadministratie wordt bijgehouden in het reisdocumentenstation, voor zover het de daarin overeenkomstig de [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBR0012812&hoofdstuk=III&paragraaf=4&artikel=24&z=2006-01-01&g=2006-01-01) en [29](https://wetten.overheid.nl/jci1.3:c:BWBR0012812&hoofdstuk=V&artikel=29&z=2006-01-01&g=2006-01-01) opgenomen gegevens betreft.
+2. De in het eerste lid bedoelde reisdocumentenadministratie wordt bijgehouden in het reisdocumentenstation, voor zover het de daarin overeenkomstig de [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBR0012812&hoofdstuk=III&paragraaf=4&artikel=24&z=2006-06-28&g=2006-06-28) en [29](https://wetten.overheid.nl/jci1.3:c:BWBR0012812&hoofdstuk=V&artikel=29&z=2006-06-28&g=2006-06-28) opgenomen gegevens betreft.
 
 3. De overige gegevens met betrekking tot de aanvraag, verstrekking en uitreiking worden als afzonderlijke documenten in de reisdocumentenadministratie opgenomen op een wijze die raadpleging in samenhang met de in het tweede lid bedoelde gegevens mogelijk maakt.
 
@@ -448,13 +448,13 @@ Het ongedaan maken van een bijschrijving geschiedt door het plaatsen van het in 
 
 ##### Artikel 36. Verstrekking van gegevens
 
-De verstrekking van gegevens uit de in 35 bedoelde reisdocumentenadministratie wordt uitsluitend toegestaan aan:
+De verstrekking van gegevens uit de in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0012812&hoofdstuk=VIII&artikel=35&z=2006-06-28&g=2006-06-28) bedoelde reisdocumentenadministratie wordt uitsluitend toegestaan aan:
 
 - a. degenen die bij of krachtens de wet belast zijn met de uitvoering daarvan, voor zover die gegevens noodzakelijk zijn voor het verrichten van werkzaamheden met betrekking tot reisdocumenten;
 
 - b. de ambtenaren, werkzaam bij het ministerie van Buitenlandse Zaken, een Nederlandse consulaire vertegenwoordiging in het buitenland onderscheidenlijk het Kabinet van de Gouverneur van de Nederlandse Antillen of van Aruba, voor zover die gegevens noodzakelijk zijn voor consulaire handelingen waarbij de identiteit van de betrokken persoon moet worden vastgesteld;
 
-- c. de opsporingsambtenaren bedoeld in artikel 141 en 142 van het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903), voor zover die gegevens noodzakelijk zijn voor de opsporing van strafbare feiten in het kader van het onderzoek waarbij zij zijn betrokken of voor zover die noodzakelijk zijn voor de identificatie van slachtoffers;
+- c. de opsporingsambtenaren bedoeld in [artikel 141](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141) en [142 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=142), voor zover die gegevens noodzakelijk zijn voor de opsporing van strafbare feiten in het kader van het onderzoek waarbij zij zijn betrokken of voor zover die noodzakelijk zijn voor de identificatie van slachtoffers;
 
 - d. de ambtenaren van het openbaar ministerie, voor zover die gegevens noodzakelijk zijn voor de uitoefening van de hun opgedragen werkzaamheden;
 
@@ -462,7 +462,9 @@ De verstrekking van gegevens uit de in 35 bedoelde reisdocumentenadministratie w
 
 - f. de ambtenaren werkzaam bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties, voor zover die gegevens noodzakelijk zijn voor de hun opgedragen werkzaamheden in verband met de verwerking van gegevens in het basisregister reisdocumenten, in verband met de uitoefening van hun taak als bedoeld in [artikel 58 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=58), alsmede in verband met onderzoek naar onregelmatigheden met reisdocumenten;
 
-- g. de houder, beheerder, bewerker en degene die belast is met de invoer, wijziging, of verwijdering van gegevens, voor zover die gegevens, de rechtstreekse toegang daaronder begrepen, noodzakelijk zijn voor de uitoefening van de hun in verband daarmee opgedragen werkzaamheden.
+- g. de houder, beheerder, bewerker en degene die belast is met de invoer, wijziging, of verwijdering van gegevens, voor zover die gegevens, de rechtstreekse toegang daaronder begrepen, noodzakelijk zijn voor de uitoefening van de hun in verband daarmee opgedragen werkzaamheden;
+
+- h. de ambtenaren werkzaam bij de Algemene Inlichtingen- en Veiligheidsdienst en de Militaire Inlichtingen- en Veiligheidsdienst, voor zover die gegevens noodzakelijk zijn voor de uitvoering van hun taken als bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013409&artikel=6), en [artikel 7, tweede lid, van de Wet op de inlichtingen- en veiligheidsdiensten 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0013409&artikel=7).
 
 ### Hoofdstuk IX. Organisatie en beheer van het aanvraagsysteem reisdocumenten
 
@@ -470,13 +472,13 @@ De verstrekking van gegevens uit de in 35 bedoelde reisdocumentenadministratie w
 
 ##### Artikel 37. Aanwijzing en registratie algemeen
 
-1. De Commandant van het Wapen der Koninklijke Marechaussee onderscheidenlijk de brigadecommandant van de Koninklijke Marechaussee dan wel de commandant van het District Koninklijke Marechaussee Schiphol, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0012812&hoofdstuk=I&paragraaf=5&artikel=6&z=2006-01-01&g=2006-01-01), wijst de personen aan die bevoegd zijn tot het verrichten van de handelingen die bij of krachtens de wet zijn voorgeschreven.
+1. De Commandant van het Wapen der Koninklijke Marechaussee onderscheidenlijk de brigadecommandant van de Koninklijke Marechaussee dan wel de commandant van het District Koninklijke Marechaussee Schiphol, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0012812&hoofdstuk=I&paragraaf=5&artikel=6&z=2006-06-28&g=2006-06-28), wijst de personen aan die bevoegd zijn tot het verrichten van de handelingen die bij of krachtens de wet zijn voorgeschreven.
 
-2. De in het eerste lid bedoelde aanwijzing van personen, alsmede de registratie van hun bevoegdheden geschiedt met inachtneming van de functionele beschrijvingen met betrekking tot het aanvraagsysteem reisdocumenten en overeenkomstig de beveiligingsprocedure, bedoeld in [artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBR0012812&hoofdstuk=X&artikel=55&z=2006-01-01&g=2006-01-01).
+2. De in het eerste lid bedoelde aanwijzing van personen, alsmede de registratie van hun bevoegdheden geschiedt met inachtneming van de functionele beschrijvingen met betrekking tot het aanvraagsysteem reisdocumenten en overeenkomstig de beveiligingsprocedure, bedoeld in [artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBR0012812&hoofdstuk=X&artikel=55&z=2006-06-28&g=2006-06-28).
 
 ##### Artikel 38. De autorisatiebevoegden reisdocumenten
 
-1. De commandant wijst per uitgiftelocatie tenminste twee ambtenaren aan die binnen het aanvraagsysteem reisdocumenten zullen functioneren als de autorisatiebevoegde reisdocumenten overeenkomstig de gebruikershandleiding bij het reisdocumentenstation, bedoeld in [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0012812&hoofdstuk=IX&paragraaf=4&artikel=49&z=2006-01-01&g=2006-01-01).
+1. De commandant wijst per uitgiftelocatie tenminste twee ambtenaren aan die binnen het aanvraagsysteem reisdocumenten zullen functioneren als de autorisatiebevoegde reisdocumenten overeenkomstig de gebruikershandleiding bij het reisdocumentenstation, bedoeld in [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0012812&hoofdstuk=IX&paragraaf=4&artikel=49&z=2006-06-28&g=2006-06-28).
 
 2. Van de aanwijzing of de vervanging van een autorisatiebevoegde reisdocumenten wordt terstond met gebruikmaking van standaardformulier B3 melding gedaan aan het agentschap BPR, die een registratie bijhoudt van de autorisatiebevoegden reisdocumenten en deze gegevens doorgeeft aan de leverancier.
 
@@ -490,7 +492,7 @@ De verstrekking van gegevens uit de in 35 bedoelde reisdocumentenadministratie w
 
 2. De autorisatiebevoegde reisdocumenten is verantwoordelijk voor het aanvragen, de bewaring, de uitgifte, de intrekking en het (autorisatie)beheer van de identificatiekaarten van andere personen die bevoegd zijn tot het verrichten van handelingen waarvoor toegang tot het reisdocumentenstation is vereist. Hij geeft wijzigingen terstond door aan de leverancier.
 
-3. Het aanvragen van identificatiekaarten bij de leverancier en het doorgeven van wijzigingen, alsmede het uitgeven, intrekken en beheren van de geleverde identificatiekaarten geschiedt overeenkomstig de gebruikershandleiding bij het reisdocumentenstation, bedoeld in [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0012812&hoofdstuk=IX&paragraaf=4&artikel=49&z=2006-01-01&g=2006-01-01).
+3. Het aanvragen van identificatiekaarten bij de leverancier en het doorgeven van wijzigingen, alsmede het uitgeven, intrekken en beheren van de geleverde identificatiekaarten geschiedt overeenkomstig de gebruikershandleiding bij het reisdocumentenstation, bedoeld in [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0012812&hoofdstuk=IX&paragraaf=4&artikel=49&z=2006-06-28&g=2006-06-28).
 
 4. De identificatiekaarten worden op naam uitgegeven.
 
@@ -506,13 +508,13 @@ De verstrekking van gegevens uit de in 35 bedoelde reisdocumentenadministratie w
 
 1. Bevoegd tot het bestellen van blanco noodpaspoorten, alsmede aanvraag- en standaardformulieren is het door de Commandant van het Wapen der Koninklijke Marechaussee aangewezen Hoofd van de Sektie Vreemdelingenzaken van de Staf van de Koninklijke Marechaussee.
 
-2. Bevoegd tot het in ontvangst nemen van zendingen blanco noodpaspoorten, alsmede aanvraag- en standaardformulieren is de door de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0012812&hoofdstuk=I&paragraaf=5&artikel=6&z=2006-01-01&g=2006-01-01) bedoelde commandant aangewezen plaatsvervangend commandant of de brigade-administrateur.
+2. Bevoegd tot het in ontvangst nemen van zendingen blanco noodpaspoorten, alsmede aanvraag- en standaardformulieren is de door de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0012812&hoofdstuk=I&paragraaf=5&artikel=6&z=2006-06-28&g=2006-06-28) bedoelde commandant aangewezen plaatsvervangend commandant of de brigade-administrateur.
 
 ##### Artikel 42. Registratie bestel- en ontvangstbevoegdheid en uitgiftelocatie
 
-1. De aanmelding van de tot bestelling en ontvangst bevoegden als bedoeld in [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0012812&hoofdstuk=IX&paragraaf=1&artikel=41&z=2006-01-01&g=2006-01-01) en van de uitgiftelocaties, alsmede wijzigingen in deze gegevens, vindt plaats door de Commandant van het Wapen der Koninklijke Marechaussee bij het agentschap BPR, met gebruikmaking van de standaardformulieren B6 en B7.
+1. De aanmelding van de tot bestelling en ontvangst bevoegden als bedoeld in [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0012812&hoofdstuk=IX&paragraaf=1&artikel=41&z=2006-06-28&g=2006-06-28) en van de uitgiftelocaties, alsmede wijzigingen in deze gegevens, vindt plaats door de Commandant van het Wapen der Koninklijke Marechaussee bij het agentschap BPR, met gebruikmaking van de standaardformulieren B6 en B7.
 
-2. Het ingevulde registratieformulier wordt gewaarmerkt met een afdruk van een dienststempel als bedoeld in [artikel 50, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012812&hoofdstuk=IX&paragraaf=4&artikel=50&z=2006-01-01&g=2006-01-01).
+2. Het ingevulde registratieformulier wordt gewaarmerkt met een afdruk van een dienststempel als bedoeld in [artikel 50, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012812&hoofdstuk=IX&paragraaf=4&artikel=50&z=2006-06-28&g=2006-06-28).
 
 3. Het agentschap BPR houdt een registratie bij van de ingevolge het eerste lid aangemelde personen en uitgiftelocaties en geeft deze gegevens door aan de leverancier.
 
@@ -522,19 +524,19 @@ De verstrekking van gegevens uit de in 35 bedoelde reisdocumentenadministratie w
 
 ##### Artikel 43. Bestelling
 
-1. De noodpaspoorten worden met gebruikmaking van modelformulier C11 door de daartoe aangewezen ambtenaar maximaal vier maal binnen een jaar bij de leverancier besteld. De bestelopdracht wordt gesteld op briefpapier van de Commandant van het Wapen der Koninklijke Marechaussee, Sektie Vreemdelingenzaken, en na ondertekening van de daartoe aangewezen ambtenaar, gewaarmerkt met een afdruk van het in [artikel 50, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012812&hoofdstuk=IX&paragraaf=4&artikel=50&z=2006-01-01&g=2006-01-01), bedoelde dienststempel.
+1. De noodpaspoorten worden met gebruikmaking van modelformulier C11 door de daartoe aangewezen ambtenaar maximaal vier maal binnen een jaar bij de leverancier besteld. De bestelopdracht wordt gesteld op briefpapier van de Commandant van het Wapen der Koninklijke Marechaussee, Sektie Vreemdelingenzaken, en na ondertekening van de daartoe aangewezen ambtenaar, gewaarmerkt met een afdruk van het in [artikel 50, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012812&hoofdstuk=IX&paragraaf=4&artikel=50&z=2006-06-28&g=2006-06-28), bedoelde dienststempel.
 
 2. Het aantal blanco noodpaspoorten dat binnen een jaar kan worden besteld, wordt bepaald door de leverancier en is gebaseerd op het gemiddelde jaarlijkse aantal verstrekte documenten, in de periode tussen 1 oktober en 30 september, vermeerderd met vijf procent. De leverancier maakt jaarlijks voor 1 november het aantal te bestellen noodpaspoorten voor het daaropvolgende jaar bekend aan de Commandant van het Wapen der Koninklijke Marechaussee.
 
 3. Indien tussen twee bestellingen blijkt dat de voorraad noodpaspoorten ontoereikend zal zijn, kan een opdracht voor een spoedbestelling worden geplaatst. De opdracht voor een spoedbestelling kan slechts worden gedaan, nadat in overleg met de leverancier is vastgesteld dat het aflevertijdstip van de eerstvolgende bestelopdracht niet kan worden vervroegd. De omvang van de spoedbestelling is niet groter dan noodzakelijk om de periode tot de levering van de eerstvolgende bestelling te overbruggen.
 
-4. Alvorens een bestelopdracht te plaatsen, wordt nagegaan of de in [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0012812&hoofdstuk=IX&paragraaf=1&artikel=42&z=2006-01-01&g=2006-01-01) bedoelde gegevens, nog juist zijn.
+4. Alvorens een bestelopdracht te plaatsen, wordt nagegaan of de in [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0012812&hoofdstuk=IX&paragraaf=1&artikel=42&z=2006-06-28&g=2006-06-28) bedoelde gegevens, nog juist zijn.
 
 5. Indien gegevens zijn gewijzigd, dient het nieuwe registratieformulier minstens vijf werkdagen voor het plaatsen van een nieuwe bestelopdracht in het bezit van het agentschap BPR te zijn.
 
 ##### Artikel 44. Controle bij aflevering en leveringsbevestiging
 
-1. De bestelling wordt door de leverancier bevestigd door toezending van een leveringsbevestiging aan de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0012812&hoofdstuk=I&paragraaf=5&artikel=6&z=2006-01-01&g=2006-01-01) bedoelde commandant.
+1. De bestelling wordt door de leverancier bevestigd door toezending van een leveringsbevestiging aan de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0012812&hoofdstuk=I&paragraaf=5&artikel=6&z=2006-06-28&g=2006-06-28) bedoelde commandant.
 
 2. De daadwerkelijke aflevering bij de uitgiftelocatie vindt gemiddeld maximaal vijf werkdagen na de op de leveringsbevestigingen vermelde dagtekening plaats met gebruikmaking van een waardetransporteur.
 
@@ -554,7 +556,7 @@ De verstrekking van gegevens uit de in 35 bedoelde reisdocumentenadministratie w
 
 1. Na ontvangst van de zending wordt deze terstond veilig gesteld. Indien de aflevering niet aan de kluis geschiedt, ziet de persoon die de zending in ontvangst heeft genomen erop toe, dat de zending terstond in de kluis wordt opgeslagen.
 
-2. De inhoud van de verpakkingseenheden van de zending wordt vergeleken met de opgave in de leveringsbevestiging. De ontvangen noodpaspoorten worden vervolgens in het reisdocumentenstation geregistreerd overeenkomstig de daarbij behorende gebruikershandleiding, bedoeld in [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0012812&hoofdstuk=IX&paragraaf=4&artikel=49&z=2006-01-01&g=2006-01-01).
+2. De inhoud van de verpakkingseenheden van de zending wordt vergeleken met de opgave in de leveringsbevestiging. De ontvangen noodpaspoorten worden vervolgens in het reisdocumentenstation geregistreerd overeenkomstig de daarbij behorende gebruikershandleiding, bedoeld in [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0012812&hoofdstuk=IX&paragraaf=4&artikel=49&z=2006-06-28&g=2006-06-28).
 
 3. De controle van de inhoud van de verpakkingseenheden als bedoeld in het tweede lid geschiedt door de tot ontvangst bevoegde persoon en tenminste één andere persoon.
 
@@ -566,7 +568,7 @@ De verstrekking van gegevens uit de in 35 bedoelde reisdocumentenadministratie w
 
 ##### Artikel 46. Voorraadadministratie
 
-1. Van de beschikbaar gestelde noodpaspoorten wordt, met gebruikmaking van het reisdocumentenstation overeenkomstig de daarbij behorende gebruikershandleiding, bedoeld in [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0012812&hoofdstuk=IX&paragraaf=4&artikel=49&z=2006-01-01&g=2006-01-01), een voorraadadministratie bijgehouden.
+1. Van de beschikbaar gestelde noodpaspoorten wordt, met gebruikmaking van het reisdocumentenstation overeenkomstig de daarbij behorende gebruikershandleiding, bedoeld in [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0012812&hoofdstuk=IX&paragraaf=4&artikel=49&z=2006-06-28&g=2006-06-28), een voorraadadministratie bijgehouden.
 
 2. Eén maal per jaar wordt het aantal in voorraad zijnde blanco noodpaspoorten met vermelding van de documentnummers vastgesteld.
 
@@ -602,9 +604,9 @@ De verstrekking van gegevens uit de in 35 bedoelde reisdocumentenadministratie w
 
 ##### Artikel 51. Aanvraagformulieren en andere standaardformulieren
 
-1. De in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0012812&hoofdstuk=III&paragraaf=3&artikel=22&z=2006-01-01&g=2006-01-01) bedoelde aanvraagformulieren worden vier maal binnen een jaar door de leverancier beschikbaar gesteld.
+1. De in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0012812&hoofdstuk=III&paragraaf=3&artikel=22&z=2006-06-28&g=2006-06-28) bedoelde aanvraagformulieren worden vier maal binnen een jaar door de leverancier beschikbaar gesteld.
 
-2. Het aantal aanvraagformulieren dat jaarlijks beschikbaar wordt gesteld, wordt bepaald en bekendgemaakt door de leverancier op de in [artikel 43, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012812&hoofdstuk=IX&paragraaf=2&artikel=43&z=2006-01-01&g=2006-01-01), aangegeven wijze.
+2. Het aantal aanvraagformulieren dat jaarlijks beschikbaar wordt gesteld, wordt bepaald en bekendgemaakt door de leverancier op de in [artikel 43, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012812&hoofdstuk=IX&paragraaf=2&artikel=43&z=2006-06-28&g=2006-06-28), aangegeven wijze.
 
 3. Indien tussen twee aflevertijdstippen blijkt dat de voorraad aanvraagformulieren ontoereikend zal zijn, kan een spoedbestelling worden gedaan. De opdracht voor een spoedbestelling kan echter slechts worden gedaan, nadat in overleg met de leverancier is vastgesteld dat het reguliere aflevertijdstip niet kan worden vervroegd. De omvang van de spoedbestelling is niet groter dan noodzakelijk om de periode tot het eerstvolgende aflevertijdstip te overbruggen.
 
@@ -634,7 +636,7 @@ De met de uitvoering van de wet belaste autoriteiten treffen maatregelen om de o
 
 1. Van de in het reisdocumentenstation opgeslagen gegevens wordt dagelijks een back-up gemaakt.
 
-2. De bewaring van de back-ups geschiedt zodanig, dat afwisselend een exemplaar op de uitgiftelocatie wordt bewaard in de voorziening, bedoeld in [artikel 53, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012812&hoofdstuk=X&artikel=53&z=2006-01-01&g=2006-01-01), terwijl een ander exemplaar elders wordt bewaard, in een vergelijkbare voorziening als bedoeld in [artikel 53, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012812&hoofdstuk=X&artikel=53&z=2006-01-01&g=2006-01-01), zodat tegelijkertijd twee opeenvolgende back-ups op verschillende plaatsen voorhanden zijn.
+2. De bewaring van de back-ups geschiedt zodanig, dat afwisselend een exemplaar op de uitgiftelocatie wordt bewaard in de voorziening, bedoeld in [artikel 53, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012812&hoofdstuk=X&artikel=53&z=2006-06-28&g=2006-06-28), terwijl een ander exemplaar elders wordt bewaard, in een vergelijkbare voorziening als bedoeld in [artikel 53, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012812&hoofdstuk=X&artikel=53&z=2006-06-28&g=2006-06-28), zodat tegelijkertijd twee opeenvolgende back-ups op verschillende plaatsen voorhanden zijn.
 
 3. De verstrekkende autoriteit beschikt over een op schrift gestelde procedure inzake back-up en herstel, die er in voorziet dat reconstructie van de gegevens mogelijk is.
 
@@ -686,7 +688,7 @@ De met de uitvoering van de wet belaste autoriteiten treffen maatregelen om de o
 
 1. Indien het vermoeden bestaat dat de met het reisdocument gepleegde onregelmatigheden strafbare feiten opleveren en de vermoedelijke dader niet bekend is, wordt het desbetreffende reisdocument per aangetekende post met gebruikmaking van modelformulier C5 aan de Dienst Nationale Recherche Informatie van het Korps Landelijke Politie Diensten gezonden.
 
-2. De commandant die van mening is dat met het reisdocument onregelmatigheden zijn gepleegd die geen strafbare feiten opleveren, onttrekt dit document op de in [artikel 32, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012812&hoofdstuk=VII&paragraaf=1&artikel=32&z=2006-01-01&g=2006-01-01), bedoelde wijze definitief aan het verkeer.
+2. De commandant die van mening is dat met het reisdocument onregelmatigheden zijn gepleegd die geen strafbare feiten opleveren, onttrekt dit document op de in [artikel 32, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012812&hoofdstuk=VII&paragraaf=1&artikel=32&z=2006-06-28&g=2006-06-28), bedoelde wijze definitief aan het verkeer.
 
 ### Hoofdstuk XII. Verantwoording
 
@@ -694,7 +696,7 @@ De met de uitvoering van de wet belaste autoriteiten treffen maatregelen om de o
 
 1. Noodpaspoorten die onjuist blijken te zijn geproduceerd of beschadigd worden per aangetekende post door de commandant naar het Hoofd van de Sektie Vreemdelingenzaken gezonden.
 
-2. De verschreven noodpaspoorten worden, na deugdelijk onbruikbaar te zijn gemaakt op de in [artikel 32, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012812&hoofdstuk=VII&paragraaf=1&artikel=32&z=2006-01-01&g=2006-01-01), aangegeven wijze waarbij de documentnummers intact blijven, per aangetekende post door de commandant naar het Hoofd van de Sektie Vreemdelingenzaken gezonden.
+2. De verschreven noodpaspoorten worden, na deugdelijk onbruikbaar te zijn gemaakt op de in [artikel 32, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012812&hoofdstuk=VII&paragraaf=1&artikel=32&z=2006-06-28&g=2006-06-28), aangegeven wijze waarbij de documentnummers intact blijven, per aangetekende post door de commandant naar het Hoofd van de Sektie Vreemdelingenzaken gezonden.
 
 ##### Artikel 60. Verantwoording noodpaspoorten
 
@@ -726,7 +728,7 @@ De reisdocumenten die voor de inwerkingtreding van deze regeling zijn verstrekt,
 
 ##### Artikel 62. Ongedaan maken bijschrijving in reisdocumenten verstrekt voor de inwerkingtreding van deze regeling
 
-In afwijking van [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0012812&hoofdstuk=VII&paragraaf=2&artikel=34&z=2006-01-01&g=2006-01-01) vindt het ongedaan maken van een bijschrijving in een reisdocument dat voor de inwerkingtreding van deze regeling is verstrekt, plaats door deze bijschrijving met de pen op onuitwisbare wijze door te halen, het plaatsen van de clausule ‘Wijziging/doorhaling goedgekeurd d.d. <datum> en waarmerking van de doorhaling met het in [artikel 50, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012812&hoofdstuk=IX&paragraaf=4&artikel=50&z=2006-01-01&g=2006-01-01), bedoelde dienststempel, voorzien van de paraaf van de commandant of de daartoe aangewezen ambtenaar
+In afwijking van [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0012812&hoofdstuk=VII&paragraaf=2&artikel=34&z=2006-06-28&g=2006-06-28) vindt het ongedaan maken van een bijschrijving in een reisdocument dat voor de inwerkingtreding van deze regeling is verstrekt, plaats door deze bijschrijving met de pen op onuitwisbare wijze door te halen, het plaatsen van de clausule ‘Wijziging/doorhaling goedgekeurd d.d. <datum> en waarmerking van de doorhaling met het in [artikel 50, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012812&hoofdstuk=IX&paragraaf=4&artikel=50&z=2006-06-28&g=2006-06-28), bedoelde dienststempel, voorzien van de paraaf van de commandant of de daartoe aangewezen ambtenaar
 
 ##### Artikel 63. Intrekking Paspoortuitvoeringsregeling Koninklijke Marechaussee 1995
 
