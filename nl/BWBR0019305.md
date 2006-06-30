@@ -4,7 +4,7 @@ identifier: "BWBR0019305"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-09-01"
-last_updated: "2006-04-09"
+last_updated: "2006-06-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019305"
 soort: "ministeriele-regeling"
@@ -51,8 +51,6 @@ In deze regeling wordt verstaan onder:
 **resterende verdiencapaciteit**: de resterende verdiencapaciteit, bedoeld in [paragraaf 7.2 van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&paragraaf=7.2);
 
 **uitkeringsgerechtigde**: de verzekerde die zijn resterende verdiencapaciteit als bedoeld in [paragraaf 7.2 van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&paragraaf=7.2) niet volledig benut of de werknemer;
-
-**UWV**: Uitvoeringsinstituut werknemersverzekeringen, genoemd in [hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5);
 
 **verzekerde**: de verzekerde, bedoeld in de [Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057), die recht heeft op een WGA-uitkering;
 
