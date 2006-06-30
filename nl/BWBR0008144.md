@@ -4,7 +4,7 @@ identifier: "BWBR0008144"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2006-04-01"
+last_updated: "2006-06-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008144"
 soort: "ministeriele-regeling"
@@ -79,13 +79,17 @@ Aan de dienst worden de volgende taken opgedragen:
 
 - n. het instandhouden en beheren van een systeem voor de centrale landelijke registratie van gestolen brom- en snorfietsen en het aan de hand van een framenummer verstrekken van het gegeven of een brom- of snorfiets als gestolen gesignaleerd is;
 
-- o. het instandhouden en beheren van een systeem van registratie van tachograafkaarten en daarbij behorende gegevens van betrokkenen.
+- o. het instandhouden en beheren van een systeem van registratie van tachograafkaarten en daarbij behorende gegevens van betrokkenen;
+
+- p. het verrichten van testen en keuringen van emissieverminderende voertuigonderdelen of voertuigonderdelen ter vermindering van de geluidbelasting, voor zover deze testen en keuringen niet worden voorgeschreven voor de toelating of het gebruik van deze voertuigonderdelen in Nederland;
+
+- q. het toezien op de uitvoering van de overeenkomsten door middel waarvan een natuurlijke persoon of rechtspersoon is aangemerkt als gekwalificeerd voor het verrichten van de inbouw van emissieverminderende voertuigonderdelen en het opnemen van de in dit kader noodzakelijke gegevens in het kentekenregister.
 
 ##### Artikel 3. Voorwaarden
 
-1. De dienst mag voor de in [artikel 2, onder a tot en met d en j](https://wetten.overheid.nl/jci1.3:c:BWBR0008144&artikel=2&z=2006-04-01&g=2006-04-01), bedoelde activiteiten prijzen in rekening brengen.
+1. De dienst mag voor de in [artikel 2, onder a tot en met d, j, p en q](https://wetten.overheid.nl/jci1.3:c:BWBR0008144&artikel=2&z=2006-06-30&g=2006-06-30), bedoelde activiteiten prijzen in rekening brengen.
 
-2. De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008144&artikel=2&z=2006-04-01&g=2006-04-01) bedoelde activiteiten en de hiervoor door de dienst in rekening te brengen prijzen dienen te voldoen aan de volgende voorwaarden:
+2. De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008144&artikel=2&z=2006-06-30&g=2006-06-30) bedoelde activiteiten en de hiervoor door de dienst in rekening te brengen prijzen dienen te voldoen aan de volgende voorwaarden:
 
 - a. de exploitatie mag niet ten koste gaan van de in artikel 4b, eerste en tweede lid, onderdeel a, bedoelde taken;
 
