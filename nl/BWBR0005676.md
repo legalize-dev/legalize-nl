@@ -4,7 +4,7 @@ identifier: "BWBR0005676"
 country: "nl"
 rank: "wet"
 publication_date: "2006-06-30"
-last_updated: "1998-03-06"
+last_updated: "2006-06-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005676"
 soort: "wet"
@@ -46,19 +46,19 @@ Zo is het, dat Wij, de Raad van State gehoord en met gemeen overleg der Staten-G
 
 - a. wet: de [Uitkeringswet gewezen militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0002540);
 
-- b. uitkeringsgerechtigde leeftijd: de datum van ingang van een ontslag als bedoeld in artikel 1, lid 1 onder **b**, van de wet;
+- b. uitkeringsgerechtigde leeftijd: de datum van ingang van een ontslag als bedoeld in [artikel 1, lid 1 onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002540&artikel=1);
 
 - c. belanghebbende: de gewezen militair die:
 
-- 1e. tussen 31 december 1989 en 1 januari 2001 is ontslagen op grond van [artikel 39, tweede lid, onder **d**, van het Algemeen militair ambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=39) (**Stb.** 1982, 279) en, te rekenen van de dag waarop dat ontslag is ingegaan, binnen vijf jaar de voor hem geldende uitkeringsgerechtigde leeftijd zou hebben bereikt;
+- 1e. tussen 31 december 1989 en een bij koninklijk besluit te bepalen tijdstip is ontslagen op grond van [artikel 39, tweede lid, onder d, van het Algemeen militair ambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=39) (**Stb.** 1982, 279) en, te rekenen van de dag waarop dat ontslag is ingegaan, binnen vijf jaar de voor hem geldende uitkeringsgerechtigde leeftijd zou hebben bereikt;
 
 - 2e. voor zijn ontslag in beginsel was aangesteld om tot het bereiken van de voor hem geldende uitkeringsgerechtigde leeftijd bij de krijgsmacht werkzaam te zijn en
 
 - 3e. op het moment van het bereiken van die voor hem geldende uitkeringsgerechtigde leeftijd recht heeft op wachtgeld ingevolge de Militaire wachtgeldregeling 1961 (**Stb.** 1986, 494).
 
-2. Het ontslag van een belanghebbende wordt, tenzij hij daartegen bezwaar maakt, te rekenen van het moment waarop hij de voor hem geldende uitkeringsgerechtigde leeftijd bereikt alsnog aangemerkt als een ontslag in de zin van artikel 1, eerste lid, onder **b**, van de wet. Voor de verdere toepassing van de wet wordt een aldus aangemerkt ontslag geacht ook bij het bereiken van die leeftijd in te gaan.
+2. Het ontslag van een belanghebbende wordt, tenzij hij daartegen bezwaar maakt, te rekenen van het moment waarop hij de voor hem geldende uitkeringsgerechtigde leeftijd bereikt alsnog aangemerkt als een ontslag in de zin van [artikel 1, eerste lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002540&artikel=1). Voor de verdere toepassing van de wet wordt een aldus aangemerkt ontslag geacht ook bij het bereiken van die leeftijd in te gaan.
 
-3. Voor de toepassing van artikel 5, tweede lid, van de wet wordt het tijdvak, gerekend van de dag waarop het tot wachtgeld leidende ontslag is aangezegd of aangevraagd tot het moment van het bereiken van de uitkeringsgerechtigde leeftijd, gelijkgesteld met verlof, onmiddellijk voorafgaande aan het ontslag.
+3. Voor de toepassing van [artikel 5, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002540&artikel=5) wordt het tijdvak, gerekend van de dag waarop het tot wachtgeld leidende ontslag is aangezegd of aangevraagd tot het moment van het bereiken van de uitkeringsgerechtigde leeftijd, gelijkgesteld met verlof, onmiddellijk voorafgaande aan het ontslag.
 
 4. Het recht van de belanghebbende op wachtgeld vervalt met ingang van de dag waarop voor hem recht op een uitkering ingevolge de wet ontstaat.
 
