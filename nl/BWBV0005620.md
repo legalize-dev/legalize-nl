@@ -4,7 +4,7 @@ identifier: "BWBV0005620"
 country: "nl"
 rank: "verdrag"
 publication_date: "2006-07-01"
-last_updated: "1999-06-03"
+last_updated: "2006-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0005620"
 soort: "verdrag"
@@ -62,7 +62,7 @@ De [COTIF 1980](https://wetten.overheid.nl/jci1.3:c:BWBV0004155) wordt gewijzigd
 
 - a. van de ondertekeningen van dit Protocol en van de nederlegging van de akten van bekrachtiging, aanvaarding, goedkeuring of toetreding,
 
-- b. van de datum waarop dit Protocol ingevolge [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0005620&artikel=4&z=1999-06-03&g=1999-06-03) in werking treedt,
+- b. van de datum waarop dit Protocol ingevolge [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0005620&artikel=4&z=2006-07-01&g=2006-07-01) in werking treedt,
 
 en vervult de overige taken van de depositaris zoals vermeld in [Deel VII van het Verdrag van Wenen van 23 mei 1969 inzake het verdragenrecht](https://wetten.overheid.nl/jci1.3:c:BWBV0003441&deel=VII).
 
@@ -80,7 +80,7 @@ en vervult de overige taken van de depositaris zoals vermeld in [Deel VII van he
 
 § 1. Dit Protocol treedt in werking op de eerste dag van de derde maand volgend op de maand waarin de voorlopige depositaris de Lidstaten kennis heeft gegeven van de nederlegging van de akte waardoor de voorwaarden van [artikel 20, § 2 van de COTIF 1980](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&artikel=20) zijn vervuld. Als Lidstaten in de zin van dit artikel 20, § 2 worden de Staten aangemerkt, die ten tijde van het besluit van de vijfde Algemene Vergadering Lidstaten waren en dit nog steeds zijn op het tijdstip waarop de voorwaarden voor de inwerkingtreding van dit Protocol zijn vervuld.
 
-§ 2. [Artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005620&artikel=3&z=1999-06-03&g=1999-06-03) is evenwel van toepassing vanaf de openstelling ter ondertekening van dit Protocol.
+§ 2. [Artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005620&artikel=3&z=2006-07-01&g=2006-07-01) is evenwel van toepassing vanaf de openstelling ter ondertekening van dit Protocol.
 
 ##### Artikel 5. Verklaringen en voorbehouden
 
