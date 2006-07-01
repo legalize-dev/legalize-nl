@@ -4,7 +4,7 @@ identifier: "BWBR0013374"
 country: "nl"
 rank: "wet"
 publication_date: "2006-07-01"
-last_updated: "2005-07-01"
+last_updated: "2006-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013374"
 soort: "wet"
@@ -49,11 +49,11 @@ Wijzigt de Algemene wet bestuursrecht.
 
 ##### Artikel II
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Provinciewet.
 
 ##### Artikel III
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Gemeentewet.
 
 ##### Artikel IV
 
@@ -77,7 +77,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel V
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, met uitzondering van de [artikelen II](https://wetten.overheid.nl/jci1.3:c:BWBR0013374&artikel=II&z=2005-07-01&g=2005-07-01) en [III](https://wetten.overheid.nl/jci1.3:c:BWBR0013374&artikel=III&z=2005-07-01&g=2005-07-01), die in werking treden met ingang van een jaar na het in dit koninklijk besluit bepaalde tijdstip.
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, met uitzondering van de [artikelen II](https://wetten.overheid.nl/jci1.3:c:BWBR0013374&artikel=II&z=2006-07-01&g=2006-07-01) en [III](https://wetten.overheid.nl/jci1.3:c:BWBR0013374&artikel=III&z=2006-07-01&g=2006-07-01), die in werking treden met ingang van een jaar na het in dit koninklijk besluit bepaalde tijdstip.
 
 ##### Artikel VI
 
