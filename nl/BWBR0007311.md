@@ -4,7 +4,7 @@ identifier: "BWBR0007311"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2005-01-01"
+last_updated: "2006-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007311"
 soort: "AMvB"
@@ -50,7 +50,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-Dit besluit geeft uitvoering aan de [artikelen 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=1), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=4), [19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=19), [22, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=22), [24a](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=24a), [25b](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=25b), [30, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=30), [37b, derde lid en vierde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=37b), [37c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=37c), [50, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=50), [71, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=71), [72, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=72), [73](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=73) en [74, eerste lid, van de Wet op de motorrijtuigenbelasting 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=74) en [artikel 37 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=37).
+Dit besluit geeft uitvoering aan de [artikelen 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=1), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=4), [19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=19), [22, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=22), [23a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=23a), [24a](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=24a), [25b](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=25b), [30, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=30), [37b, derde lid en vierde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=37b), [37c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=37c), [50, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=50), [71, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=71), [72, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=72), [73](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=73) en [74, eerste lid, van de Wet op de motorrijtuigenbelasting 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=74) en [artikel 37 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=37).
 
 ##### Artikel 2
 
@@ -130,39 +130,23 @@ Met motorrijwielen als bedoeld in [artikel 2, onderdeel **d**](https://wetten.ov
 
 ##### Artikel 6
 
-1. [Artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=30) van de wet vindt toepassing voor
+1. [Artikel 30 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=30) vindt toepassing voor
 
-- a. een kampeerauto:
+- a. een motorrijtuig dat in de uitoefening van een bedrijf, niet zijnde een lease- of verhuurbedrijf van motorrijtuigen, wordt gebruikt als reserve-motorrijtuig: indien het motorrijtuig een toegestane maximum massa heeft van ten hoogste 11.000 kg dan wel de richtlijn niet op het motorrijtuig van toepassing is, het motorrijtuig beschikbaar wordt gehouden voor vervanging van motorrijtuigen van dezelfde soort in gevallen van noodzakelijk herstel of onderhoud van die motorrijtuigen of van plotseling optredende bedrijfsdrukte en daarmee uitsluitend in deze gevallen niet meer dan zestig dagen gedurende de vier aaneengesloten tijdvakken waarover belasting wordt betaald gebruik van de weg wordt gemaakt;
 
-- 1°. indien de kampeerauto een ruimte heeft, gesitueerd achter de zitplaatsen voor de bestuurder en de bijrijder, die een rechthoekig blok kan bevatten van ten minste 170 cm hoogte over een lengte van ten minste 200 cm en over een breedte van ten minste 90 cm en is voorzien van:
+- b. een motorrijtuig dat wordt gebruikt voor het vervoer van kermis- of circusbenodigdheden: indien het motorrijtuig wordt gehouden door een kermis- of circusexploitant, uitsluitend als zodanig wordt gebruikt en daarmee niet meer dan zestig dagen gedurende de vier aaneengesloten tijdvakken waarover belasting wordt betaald gebruik van de weg wordt gemaakt;
 
-- –. minimaal twee vaste zitplaatsen;
+- c. een motorrijtuig dat is ingericht als werktuig: indien het motorrijtuig als zodanig uiterlijk herkenbaar is, het als zodanig wordt gebruikt op vaste plaatsen en daarmee niet meer dan zestig dagen gedurende de vier aaneengesloten tijdvakken waarover belasting wordt betaald van de weg gebruik wordt gemaakt en het gebruik uitsluitend dient voor de verplaatsing naar een andere werkplek;
 
-- –. een tafel;
+- d. een motorrijtuig dat is ingericht als werkplaats: indien het motorrijtuig is voorzien van een laadruimte waarin permanent een werkbank is aangebracht, het met het oog op de te verrichten werkzaamheden noodzakelijke gereedschap permanent daarin aanwezig is, het motorrijtuig uitsluitend als zodanig wordt gebruikt en daarmee niet meer dan zestig dagen gedurende de vier aaneengesloten tijdvakken waarover belasting wordt betaald van de weg gebruik wordt gemaakt en het gebruik uitsluitend dient voor de verplaatsing naar een andere werkplek;
 
-- –. slaapaccommodatie voor twee of meer personen, eventueel met behulp van de zitplaatsen, niet zijnde de zitplaatsen voor de bestuurder en de bijrijder, gecreëerd;
+- e. een motorrijtuig dat wordt gebruikt als verhuiswagen: indien het motorrijtuig een toegestane maximum massa heeft van ten hoogste 11.000 kg, wordt gehouden door een verhuisondernemer, uitsluitend als zodanig wordt gebruikt en daarmee niet meer dan zestig dagen gedurende de vier aaneengesloten tijdvakken waarover belasting wordt betaald gebruik van de weg wordt gemaakt;
 
-- –. vaste en afsluitbare opbergfaciliteiten; en
+- f. een motorrijtuig dat is ingericht voor bijzondere, niet geregeld voorkomende transporten: indien aan de hand van bescheiden wordt aangetoond dat het motorrijtuig als zodanig is ingericht en daarmee niet meer dan zestig dagen gedurende de vier aaneengesloten tijdvakken waarover de belasting wordt betaald gebruik van de weg wordt gemaakt;
 
-- –. een vast keukenblok met een minimale hoogte van het werkblad van ten minste 60 cm, voorzien van een ingebouwde uitneembare watervoorziening met een spoelbak, een kraan en een afvoer, het geheel bestemd voor gebruik in de binnenruimte; of
+- g. een motorrijtuig dat is ingericht voor het vervoer van paarden: indien het motorrijtuig uitsluitend niet-beroepsmatig ten behoeve van de paardensport wordt gebruikt, de houder van het motorrijtuig een verklaring overlegt waaruit dit blijkt en met het motorrijtuig niet meer dan zestig dagen gedurende de vier aaneengesloten tijdvakken waarover belasting wordt betaald gebruik van de weg wordt gemaakt.
 
-- 2°. indien in afwijking van het hiervoor bepaalde de binnenruimte van de kampeerauto af fabriek geen hoogte van 170 cm maar wel ten minste 130 cm heeft, en het dak voorzien is van een al dan niet uitklapbare, permanent aangebrachte gesloten dakconstructie waardoor de hoogte over een breedte van ten minste 90 cm en een lengte van 100 cm verhoogd kan worden tot ten minste 170 cm.
-
-- b. een motorrijtuig dat in de uitoefening van een bedrijf, niet zijnde een lease- of verhuurbedrijf van motorrijtuigen, wordt gebruikt als reserve-motorrijtuig: indien het motorrijtuig een toegestane maximum massa heeft van ten hoogste 11.000 kg dan wel de richtlijn niet op het motorrijtuig van toepassing is, het motorrijtuig beschikbaar wordt gehouden voor vervanging van motorrijtuigen van dezelfde soort in gevallen van noodzakelijk herstel of onderhoud van die motorrijtuigen of van plotseling optredende bedrijfsdrukte en daarmee uitsluitend in deze gevallen niet meer dan zestig dagen gedurende de vier aaneengesloten tijdvakken waarover belasting wordt betaald gebruik van de weg wordt gemaakt;
-
-- c. een motorrijtuig dat wordt gebruikt voor het vervoer van kermis- of circusbenodigdheden: indien het motorrijtuig wordt gehouden door een kermis- of circusexploitant, uitsluitend als zodanig wordt gebruikt en daarmee niet meer dan zestig dagen gedurende de vier aaneengesloten tijdvakken waarover belasting wordt betaald gebruik van de weg wordt gemaakt;
-
-- d. een motorrijtuig dat is ingericht als werktuig: indien het motorrijtuig als zodanig uiterlijk herkenbaar is, het als zodanig wordt gebruikt op vaste plaatsen en daarmee niet meer dan zestig dagen gedurende de vier aaneengesloten tijdvakken waarover belasting wordt betaald van de weg gebruik wordt gemaakt en het gebruik uitsluitend dient voor de verplaatsing naar een andere werkplek;
-
-- e. een motorrijtuig dat is ingericht als werkplaats: indien het motorrijtuig is voorzien van een laadruimte waarin permanent een werkbank is aangebracht, het met het oog op de te verrichten werkzaamheden noodzakelijke gereedschap permanent daarin aanwezig is, het motorrijtuig uitsluitend als zodanig wordt gebruikt en daarmee niet meer dan zestig dagen gedurende de vier aaneengesloten tijdvakken waarover belasting wordt betaald van de weg gebruik wordt gemaakt en het gebruik uitsluitend dient voor de verplaatsing naar een andere werkplek;
-
-- f. een motorrijtuig dat wordt gebruikt als verhuiswagen: indien het motorrijtuig een toegestane maximum massa heeft van ten hoogste 11.000 kg, wordt gehouden door een verhuisondernemer, uitsluitend als zodanig wordt gebruikt en daarmee niet meer dan zestig dagen gedurende de vier aaneengesloten tijdvakken waarover belasting wordt betaald gebruik van de weg wordt gemaakt;
-
-- g. een motorrijtuig dat is ingericht voor bijzondere, niet geregeld voorkomende transporten: indien aan de hand van bescheiden wordt aangetoond dat het motorrijtuig als zodanig is ingericht en daarmee niet meer dan zestig dagen gedurende de vier aaneengesloten tijdvakken waarover de belasting wordt betaald gebruik van de weg wordt gemaakt;
-
-- h. een motorrijtuig dat is ingericht voor het vervoer van paarden: indien het motorrijtuig uitsluitend niet-beroepsmatig ten behoeve van de paardensport wordt gebruikt, de houder van het motorrijtuig een verklaring overlegt waaruit dit blijkt en met het motorrijtuig niet meer dan zestig dagen gedurende de vier aaneengesloten tijdvakken waarover belasting wordt betaald gebruik van de weg wordt gemaakt.
-
-2. Voor de toepassing van het eerste lid, aanhef en onderdeel b, komen in aanmerking:
+2. Voor de toepassing van het eerste lid, aanhef en onderdeel a, komen in aanmerking:
 
 - -. één motorrijtuig op een wagenpark van meer dan drie motorrijtuigen van dezelfde soort;
 
@@ -172,7 +156,7 @@ Met motorrijwielen als bedoeld in [artikel 2, onderdeel **d**](https://wetten.ov
 
 - -. vier motorrijtuigen op een wagenpark van meer dan negenenveertig motorrijtuigen van dezelfde soort en vervolgens één motorrijtuig op elke vijftig motorrijtuigen van dezelfde soort.
 
-3. De toepassing van [artikel 30, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=30), van de wet vindt plaats op verzoek.
+3. De toepassing van [artikel 30, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=30) vindt plaats op verzoek.
 
 4. Het verzoek wordt bij de inspecteur ingediend voor de aanvang van de vier aaneengesloten tijdvakken waarover de belasting wordt betaald.
 
@@ -196,7 +180,7 @@ Tenzij in de beschikking anders is bepaald, werkt deze terug tot op het tijdstip
 
 2. De toepassing van [artikel 50, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=50), van de wet vindt plaats op verzoek.
 
-3. [Artikel 6, tweede lid, en vierde tot en met tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=III&artikel=6&z=2005-01-01&g=2005-01-01), is van overeenkomstige toepassing.
+3. [Artikel 6, tweede lid, en vierde tot en met tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=III&artikel=6&z=2006-07-01&g=2006-07-01), is van overeenkomstige toepassing.
 
 ### Hoofdstuk IIIA. Bedrijfsvoertuigenpark
 
@@ -418,23 +402,23 @@ Vrijstelling van belasting voor motorrijtuigen die zijn geregistreerd in het bui
 
 - b. uitsluitend de afstand van de woonplaats naar de in het buitenland gelegen werkplaats en omgekeerd wordt overbrugd; en
 
-- c. de houder niet een werknemer is als bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=25&z=2005-01-01&g=2005-01-01).
+- c. de houder niet een werknemer is als bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=25&z=2006-07-01&g=2006-07-01).
 
 ##### Artikel 27
 
-1. De vrijstellingen, bedoeld in de [artikelen 8 tot en met 26](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=8&z=2005-01-01&g=2005-01-01) worden op verzoek verleend.
+1. De vrijstellingen, bedoeld in de [artikelen 8 tot en met 26](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=8&z=2006-07-01&g=2006-07-01) worden op verzoek verleend.
 
 2. Het verzoek wordt bij de inspecteur ingediend vóór de aanvang van het tijdvak, dan wel van het gebruik van de weg in Nederland met het motorrijtuig.
 
-3. Bij het verzoek worden de in de [artikelen 8 tot en met 26](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=8&z=2005-01-01&g=2005-01-01) bedoelde opgaven, verklaringen en bescheiden overgelegd, alsmede een opgave van het kenteken van het motorrijtuig.
+3. Bij het verzoek worden de in de [artikelen 8 tot en met 26](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=8&z=2006-07-01&g=2006-07-01) bedoelde opgaven, verklaringen en bescheiden overgelegd, alsmede een opgave van het kenteken van het motorrijtuig.
 
-4. Bij het verzoek wordt een verklaring overgelegd dat voor motorrijtuigen die niet meer voldoen aan in de [artikelen 8 tot en met 26](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=8&z=2005-01-01&g=2005-01-01) gestelde voorwaarden of omstandigheden, dan wel - voor zover het andere motorrijtuigen betreft - worden afgestoten, een opgaaf aan de inspecteur zal worden gedaan.
+4. Bij het verzoek wordt een verklaring overgelegd dat voor motorrijtuigen die niet meer voldoen aan in de [artikelen 8 tot en met 26](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=8&z=2006-07-01&g=2006-07-01) gestelde voorwaarden of omstandigheden, dan wel - voor zover het andere motorrijtuigen betreft - worden afgestoten, een opgaaf aan de inspecteur zal worden gedaan.
 
 5. De inspecteur beslist op het verzoek bij voor bezwaar vatbare beschikking. De vrijstelling werkt, tenzij in de beschikking anders is bepaald, terug tot op het tijdstip waarop het verzoek is ingediend.
 
 6. Indien de in het vierde lid bedoelde voorwaarden of omstandigheden zich niet langer voordoen, trekt de inspecteur de vrijstelling in. De intrekking geschiedt bij voor bezwaar vatbare beschikking.
 
-7. Indien degene aan wie de vrijstelling is verleend niet voldoet aan de verplichting bedoeld in het vierde lid, wordt de vrijstelling geacht te zijn vervallen op het tijdstip waarop de in de [artikelen 8 tot en met 26](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=8&z=2005-01-01&g=2005-01-01) bedoelde voorwaarden of omstandigheden zich niet meer voordoen.
+7. Indien degene aan wie de vrijstelling is verleend niet voldoet aan de verplichting bedoeld in het vierde lid, wordt de vrijstelling geacht te zijn vervallen op het tijdstip waarop de in de [artikelen 8 tot en met 26](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=8&z=2006-07-01&g=2006-07-01) bedoelde voorwaarden of omstandigheden zich niet meer voordoen.
 
 8. Bij beëindiging van de vrijstelling geldt als kort tijdvak waarover de belasting moet worden betaald, het tijdvak dat aanvangt met ingang van de dag waarop de vrijstelling is opgeheven en dat eindigt met de dag voorafgaande aan de eerste dag van het tijdvak met ingang waarvan de belasting voor het eerst na beëindiging van die vrijstelling moet worden betaald op de voet van [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=11), van de wet.
 
@@ -458,17 +442,17 @@ Vrijstelling van belasting voor motorrijtuigen waarvan de houder niet in Nederla
 
 ##### Artikel 30
 
-1. Voor motorrijtuigen waarvoor tot 1 april 1995 een vrijstelling van belasting gold op grond van [artikel 9 van de Wet op de motorrijtuigenbelasting 1966](https://wetten.overheid.nl/jci1.3:c:BWBR0002534&artikel=9), en waarvoor op grond van de artikelen 71 tot en met 73 van de wet aanspraak op een vrijstelling kan worden gemaakt, geldt in afwijking van [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=27&z=2005-01-01&g=2005-01-01) dat:
+1. Voor motorrijtuigen waarvoor tot 1 april 1995 een vrijstelling van belasting gold op grond van [artikel 9 van de Wet op de motorrijtuigenbelasting 1966](https://wetten.overheid.nl/jci1.3:c:BWBR0002534&artikel=9), en waarvoor op grond van de artikelen 71 tot en met 73 van de wet aanspraak op een vrijstelling kan worden gemaakt, geldt in afwijking van [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=27&z=2006-07-01&g=2006-07-01) dat:
 
 - a. indien de vrijstelling onder de voorwaarde van een vergunning van de inspecteur is verleend, het verzoek om vrijstelling wordt ingediend vóór de datum waarop de vergunning afloopt, dan wel, indien de vergunning voor onbepaalde tijd is afgegeven, vóór 1 juli 1995;
 
-- b. indien de vrijstelling niet onder de voorwaarde van een vergunning is verleend, de verklaringen, bedoeld in [artikel 27, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=27&z=2005-01-01&g=2005-01-01), worden overgelegd vóór 1 juli 1995.
+- b. indien de vrijstelling niet onder de voorwaarde van een vergunning is verleend, de verklaringen, bedoeld in [artikel 27, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=27&z=2006-07-01&g=2006-07-01), worden overgelegd vóór 1 juli 1995.
 
 2. In de in het eerste lid genoemde gevallen wordt de vrijstelling geacht te zijn verleend op grond van de wet tot de in het eerste lid genoemde tijdstippen.
 
 ##### Artikel 31
 
-1. Het Uitvoeringsbesluit motorrijtuigenbelasting 1966 wordt ingetrokken, met dien verstande dat het van toepassing blijft voor de gevallen bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=V&artikel=30&z=2005-01-01&g=2005-01-01).
+1. Het Uitvoeringsbesluit motorrijtuigenbelasting 1966 wordt ingetrokken, met dien verstande dat het van toepassing blijft voor de gevallen bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=V&artikel=30&z=2006-07-01&g=2006-07-01).
 
 2. Het Besluit tot vrijstelling van motorrijtuigenbelasting voor buitenlanders wordt ingetrokken.
 
@@ -551,6 +535,96 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 7. Indien aan de in het eerste lid bedoelde voorwaarden niet langer wordt voldaan, trekt de inspecteur de beschikking in. De intrekking geschiedt bij voor bezwaar vatbare beschikking.
 
 8. Indien degene aan wie de beschikking is verleend niet voldoet aan de verplichting bedoeld in het vijfde lid, wordt de beschikking geacht te zijn vervallen op het tijdstip waarop aan de in het eerste lid gestelde voorwaarden niet meer wordt voldaan.
+
+### Hoofdstuk IIIA. Bedrijfsvoertuigenpark
+
+### Hoofdstuk IV. Vrijstellingen
+
+### Hoofdstuk V. Overgangsbepalingen
+
+### Hoofdstuk VI. Slotbepalingen
+
+## Bijlage
+
+| Land waar de houder woont of is gevestigd | Omschrijving van de motorrijtuigen waarvoor de vrijstelling geldt | Duur van de vrijstelling |
+| --- | --- | --- |
+| **A. Lid-staten van de Europese Unie** |   |   |
+| België | alle motorrijtuigen | onbeperkte duur |
+| Duitsland | a. motorrijtuigen, ingericht voor personenvervoer en niet dienende tot het vervoer van personen tegen betaling | al dan niet ononderbroken duur van ten hoogste zeven maanden per tijdvak van twaalf maanden |
+|   | b. motorrijtuigen, andere dan bedoeld onder onderdeel a | ten hoogste veertien dagen |
+| Denemarken | a. motorrijtuigen, ingericht voor personenvervoer en niet dienende tot het vervoer van personen tegen betaling | al dan niet ononderbroken duur van ten hoogste zeven maanden per tijdvak van twaalf maanden |
+|   | b. motorrijtuigen, andere dan bedoeld onder onderdeel a | ten hoogste drie maanden |
+| Frankrijk | alle motorrijtuigen | ten hoogste twaalf maanden |
+| Griekenland | a. motorrijtuigen, ingericht voor personenvervoer en niet dienende tot het vervoer van personen tegen betaling | al dan niet ononderbroken duur van ten hoogste zeven maanden per tijdvak van twaalf maanden |
+|   | b. motorrijtuigen, andere dan bedoeld onder onderdeel a | onbeperkte duur |
+| Ierland | a. motorrijtuigen, ingericht voor personenvervoer en niet dienende tot het vervoer van personen tegen betaling | al dan niet ononderbroken duur van ten hoogste zeven maanden per tijdvak van twaalf maanden |
+|   | b. motorrijtuigen, niet ingericht voor personenvervoer | onbeperkte duur |
+| Italië | a. motorrijtuigen, ingericht voor personenvervoer en niet dienende tot het vervoer van personen tegen betaling | al dan niet ononderbroken duur van ten hoogste zeven maanden per tijdvak van twaalf maanden |
+|   | b. motorrijtuigen, andere dan bedoeld onder onderdeel a | onbeperkte duur |
+| Luxemburg | alle motorrijtuigen | onbeperkte duur |
+| Portugal | alle motorrijtuigen, met uitzondering van die, ingericht voor personenvervoer en niet dienende tot het vervoer van personen tegen betaling | onbeperkte duur |
+| Spanje | motorrijtuigen, ingericht voor personenvervoer | ten hoogste twaalf maanden |
+| Verenigd Koninkrijk | a. motorrijtuigen, ingericht voor personenvervoer en niet dienende tot het vervoer van personen tegen betaling | al dan niet ononderbroken duur van ten hoogste zeven maanden per tijdvak van twaalf maanden |
+|   | b. motorrijtuigen, andere dan bedoeld onder onderdeel a | onbeperkte duur |
+| Alle lid-staten | motorrijtuigen, ingericht voor personenvervoer en niet dienende tot het vervoer van personen of goederen tegen betaling | regelmatig gebruik van de weg in Nederland van de verblijfplaats buiten Nederland naar de arbeidsplaats en terug |
+| **B. Overige landen** |   |   |
+| Aruba | alle motorrijtuigen | onbeperkte duur |
+| Bulgarije | alle motorrijtuigen, met uitzondering van die, ingericht voor personenvervoer en niet dienende tot het vervoer van personen tegen betaling | onbeperkte duur |
+| Canada | motorrijtuigen, ingericht voor personenvervoer en niet dienende tot het vervoer van personen tegen betaling | ten hoogste twaalf maanden |
+| Cyprus | motorrijtuigen, niet ingericht voor personenvervoer | onbeperkte duur |
+| Finland | alle motorrijtuigen, met uitzondering van die, ingericht voor personenvervoer en niet dienende tot het vervoer van personen tegen betaling | onbeperkte duur |
+| Hongarije | a. motorrijtuigen, ingericht voor personenvervoer en niet dienende tot het vervoer van personen tegen betaling | ten hoogste 60 dagen per kalenderjaar |
+|   | b. motorrijtuigen, niet ingericht voor personenvervoer | onbeperkte duur |
+| Israël | motorrijtuigen, niet ingericht voor personenvervoer | onbeperkte duur |
+| Japan | motorrijtuigen, ingericht voor personenvervoer en niet dienende tot het vervoer van personen tegen betaling | ten hoogste drie maanden |
+| Joegoslavië | a. motorrijtuigen, ingericht voor personenvervoer en niet dienende tot het vervoer van personen tegen betaling | onbeperkte duur |
+|   | b. motorrijtuigen, andere dan bedoeld onder onderdeel a | vrijstelling onder voorwaarde dat een geldig legitimatiebewijs wordt overgelegd |
+| Liechtenstein | alle motorrijtuigen | ten hoogste drie maanden |
+| Nederlandse Antillen | alle motorrijtuigen | onbeperkte duur |
+| Noorwegen | alle motorrijtuigen, met uitzondering van die welke niet zijn ingericht voor personenvervoer en worden voortbewogen of zijn ingericht om te worden voortbewogen door een kracht welke niet uitsluitend wordt ontleend aan benzine | ten hoogste twaalf maanden |
+| Oostenrijk | alle motorrijtuigen | onbeperkte duur |
+| Polen | alle motorrijtuigen met uitzondering van die gebezigd voor doorgaand transport en van die, ingericht voor personenvervoer en niet dienende tot het vervoer van personen tegen betaling | onbeperkte duur |
+| Roemenië | motorrijtuigen, niet ingericht voor personenvervoer | onbeperkte duur |
+| Suriname | alle motorrijtuigen | ten hoogste twaalf maanden |
+| Tsjechoslowakije | alle motorrijtuigen | onbeperkte duur |
+| Turkije | motorrijtuigen, niet ingericht voor personenvervoer | onbeperkte duur |
+| Unie van Socialistische Sovjetrepublieken | alle motorrijtuigen | onbeperkte duur |
+| Unie van Zuid-Afrika | alle motorrijtuigen | ten hoogste twaalf maanden |
+| Verenigde Staten van Amerika | alle motorrijtuigen | ten hoogste twaalf maanden |
+| Zweden | alle motorrijtuigen | ten hoogste twaalf maanden |
+| Zwitserland | alle motorrijtuigen | ten hoogste drie maanden |
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
+
+##### Artikel 5aa
+
+1. [Artikel 23a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=23a) vindt toepassing indien de personenauto een ruimte heeft, gesitueerd achter de zitplaatsen voor de bestuurder en de bijrijder, die een rechthoekig blok kan bevatten van ten minste 170 cm hoogte over een lengte van ten minste 200 cm en over een breedte van ten minste 90 cm en is voorzien van:
+
+- –. minimaal twee vaste zitplaatsen;
+
+- –. een tafel;
+
+- –. slaapaccommodatie voor twee of meer personen, eventueel gecreëerd met behulp van de zitplaatsen, niet zijnde de zitplaatsen voor de bestuurder en de bijrijder;
+
+- –. vaste en afsluitbare opbergfaciliteiten; en
+
+- –. een vast keukenblok met een minimale hoogte van het werkblad van ten minste 60 cm, voorzien van een ingebouwde uitneembare watervoorziening met een spoelbak, een kraan en een afvoer, het geheel bestemd voor gebruik in de binnenruimte.
+
+[Artikel 23a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=23a) vindt mede toepassing, indien in afwijking van het hiervoor bepaalde de binnenruimte van de personenauto af fabriek geen hoogte van 170 cm maar wel van ten minste 130 cm heeft, en het dak is voorzien van een al dan niet uitklapbare, permanent aangebrachte gesloten dakconstructie waardoor de hoogte over een breedte van ten minste 90 cm en een lengte van 100 cm verhoogd kan worden tot ten minste 170 cm.
+
+2. De toepassing van [artikel 23a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=23a) vindt plaats op verzoek.
+
+3. Het verzoek wordt bij de inspecteur ingediend voor de aanvang van het tijdvak.
+
+4. Bij het verzoek worden bescheiden overgelegd waaruit blijkt dat wordt voldaan aan de in het eerste lid gestelde voorwaarden, alsmede een opgave van het kenteken van de personenauto.
+
+5. Bij het verzoek wordt een verklaring overgelegd dat indien niet meer wordt voldaan aan de in het eerste lid gestelde voorwaarden de inspecteur daarvan in kennis zal worden gesteld.
+
+6. De inspecteur beslist op het verzoek bij voor bezwaar vatbare beschikking. Tenzij in de beschikking anders is bepaald, werkt deze terug tot op het tijdstip waarop het verzoek is ingediend.
+
+7. Indien aan de in het eerste lid bedoelde voorwaarden niet langer wordt voldaan, trekt de inspecteur de beschikking in. De intrekking geschiedt bij voor bezwaar vatbare beschikking.
+
+8. Indien degene aan wie de beschikking is verleend niet voldoet aan de verplichting, bedoeld in het vijfde lid, wordt de beschikking geacht te zijn vervallen op het tijdstip waarop aan de in het eerste lid gestelde voorwaarden niet meer wordt voldaan.
 
 ### Hoofdstuk IIIA. Bedrijfsvoertuigenpark
 
