@@ -4,7 +4,7 @@ identifier: "BWBV0002791"
 country: "nl"
 rank: "verdrag"
 publication_date: "2006-07-01"
-last_updated: "1984-07-17"
+last_updated: "2006-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0002791"
 soort: "verdrag"
@@ -375,10 +375,6 @@ Overeengekomen wordt dat dubbele belasting op de volgende wijze wordt vermeden:
 
 - 3. Nederland verleent voorts een aftrek op de aldus berekende Nederlandse belasting voor die bestanddelen van het inkomen die volgens artikel 10, tweede lid, letter b, artikel 11, tweede lid, artikel 12, tweede lid, artikel 14, vijfde lid, artikel 16, derde lid, artikel 18 en artikel 19, tweede lid, van deze Overeenkomst in Griekenland mogen worden belast, in zoverre deze bestanddelen in de in het eerste lid bedoelde grondslag zijn begrepen. Het bedrag van deze aftrek is gelijk aan de in Griekenland over deze bestanddelen van het inkomen betaalde belasting, met dien verstande dat in het geval van dividenden niet meer dan 15 percent van het brutobedrag daarvan in aanmerking wordt genomen, maar bedraagt niet meer dan het bedrag van de vermindering die zou zijn verleend indien de aldus in het inkomen begrepen bestanddelen van het inkomen de enige bestanddelen van het inkomen zouden zijn geweest die uit hoofde van de bepalingen in de Nederlandse wetgeving tot het vermijden van dubbele belasting van Nederlandse belasting zijn vrijgesteld.
 
-- 4. Indien als gevolg van bijzondere stimuleringsmaatregelen, gericht op het bevorderen van de economische ontwikkeling in Griekenland, de in feite geheven Griekse belasting over uit Griekenland afkomstige interest minder bedraagt dan de belasting die Griekenland ingevolge artikel 11, tweede lid, mag heffen, wordt, voor de toepassing van het vorige lid, de in Griekenland over die interest betaalde belasting geacht 10 percent van het brutobedrag daarvan te bedragen.
-
-- 5. Voor de toepassing van bovenstaand derde lid, wordt de in Griekenland betaalde belasting over uit Griekenland afkomstige royalty's, waarop artikel 12, tweede lid, letter b), van toepassing is, geacht 10 percent van het brutobedrag daarvan te bedragen.
-
 - B. Wat Griekenland betreft:
 
 - 1. Griekenland is bevoegd bij het heffen van belasting van zijn inwoners in de grondslag waarnaar de belasting wordt geheven, de bestanddelen van het inkomen of het vermogen te begrijpen die overeenkomstig de bepalingen van deze Overeenkomst in Nederland mogen worden belast.
@@ -467,7 +463,7 @@ Het is wel verstaan, dat de uitdrukking „bestuurder” of „commissaris” va
 
 ##### IV. Ad Artikel 25
 
-Na een tijdvak van tien jaren volgende op de inwerkingtreding van de Overeenkomst treden de bevoegde autoriteiten met elkaar in overleg, ten einde te beslissen of er aanleiding bestaat de bepalingen van artikel 25, deel A, vierde en vijfde lid, van de Overeenkomst te wijzigen.
+Vervallen
 
 IN WITNESS WHEREOF the undersigned, duly authorised thereto, have signed this Convention.
 
