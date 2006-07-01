@@ -4,7 +4,7 @@ identifier: "BWBR0009890"
 country: "nl"
 rank: "amvb"
 publication_date: "2023-04-19"
-last_updated: "2002-05-08"
+last_updated: "2006-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009890"
 soort: "AMvB"
@@ -66,6 +66,8 @@ Hebben goedgevonden en verstaan:
 
 4. Dit besluit geldt voorts niet met betrekking tot een stof of hulpstof als bedoeld in de Regeling stoffen (medische hulpmiddelen), die kwik bevat.
 
+5. Dit besluit geldt voorts niet met betrekking tot kwikhoudende producten ten aanzien waarvan in het Besluit beheer elektrische en elektronische apparatuur regels zijn gesteld.
+
 #### § 2. Handelingen met kwikhoudende producten
 
 ##### Artikel 2.1
@@ -84,13 +86,13 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 2.2
 
-1. Het verbod, bedoeld in [artikel 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009890&paragraaf=2&artikel=2.1&z=2002-05-08&g=2002-05-08), geldt tot 1 januari 2002 niet met betrekking tot het vervaardigen of in Nederland invoeren van de volgende kwikhoudende producten:
+1. Het verbod, bedoeld in [artikel 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009890&paragraaf=2&artikel=2.1&z=2006-07-01&g=2006-07-01), geldt tot 1 januari 2002 niet met betrekking tot het vervaardigen of in Nederland invoeren van de volgende kwikhoudende producten:
 
 - a. een verwarmingsthermostaat, alsmede de kwikschakelaar die uitsluitend bestemd is voor toepassing in een verwarmingsthermostaat, en
 
 - b. een activiteitsmeter voor dieren, alsmede de kwikschakelaar die uitsluitend bestemd is voor toepassing in een activiteitsmeter voor dieren.
 
-2. Het verbod, bedoeld in [artikel 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009890&paragraaf=2&artikel=2.1&z=2002-05-08&g=2002-05-08), geldt voorts tot 1 januari 2005 niet met betrekking tot het vervaardigen of in Nederland invoeren van een kwikhoudende barometer; bij koninklijk besluit kan een latere datum worden vastgesteld dan 1 januari 2005.
+2. Het verbod, bedoeld in [artikel 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009890&paragraaf=2&artikel=2.1&z=2006-07-01&g=2006-07-01), geldt voorts tot 1 januari 2005 niet met betrekking tot het vervaardigen of in Nederland invoeren van een kwikhoudende barometer; bij koninklijk besluit kan een latere datum worden vastgesteld dan 1 januari 2005.
 
 ##### Artikel 2.3
 
@@ -102,7 +104,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 2.4
 
-De verboden, bedoeld in de [artikelen 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009890&paragraaf=2&artikel=2.1&z=2002-05-08&g=2002-05-08), en [2.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009890&paragraaf=2&artikel=2.3&z=2002-05-08&g=2002-05-08), gelden niet met betrekking tot de volgende kwikhoudende producten:
+De verboden, bedoeld in de [artikelen 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009890&paragraaf=2&artikel=2.1&z=2006-07-01&g=2006-07-01), en [2.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009890&paragraaf=2&artikel=2.3&z=2006-07-01&g=2006-07-01), gelden niet met betrekking tot de volgende kwikhoudende producten:
 
 - a. een pycno- of porosimeter ter bepaling van het poriënvolume van grond of andere poreuze vaste stoffen;
 
@@ -126,25 +128,17 @@ De verboden, bedoeld in de [artikelen 2.1, eerste lid](https://wetten.overheid.n
 
 - k. een apparaat om platina-weerstandsthermometers te kalibreren met behulp van het tripelpunt van kwik;
 
-- l. een gasontladingslamp met uitzondering van:
+- l. een product voor gebruik in de scheepvaart waarin de toepassing van kwik bij of krachtens wettelijk voorschrift is voorgeschreven, rechtstreeks met de scheepvaart verband houdende apparatuur waarin de toepassing van kwik naar het oordeel van Onze Minister van Verkeer en Waterstaat noodzakelijk is en scheepsuitrusting waarop [richtlijn nr. 96/98/EG](31996L0098) van de Raad van de Europese Unie van 20 december 1996 inzake uitrusting van zeeschepen (PbEG 1997 L 46) van toepassing is;
 
-- 1°. een fluorescentielamp voor verlichtingsdoeleinden met geïntegreerd voorschakelapparaat, voor zover deze meer dan 10 mg kwik bevat;
+- m. een product voor gebruik in de luchtvaart waarin de toepassing van kwik bij of krachtens wettelijk voorschrift is voorgeschreven, alsmede rechtstreeks met de luchtvaart verband houdende apparatuur waarin de toepassing van kwik naar het oordeel van Onze Minister van Verkeer en Waterstaat noodzakelijk is;
 
-- 2°. een niet-cirkelvormige fluorescentielamp voor verlichtingsdoeleinden met één lampvoet, voor zover deze meer dan 10 mg kwik bevat;
+- n. apparatuur in gebruik bij de krijgsmacht, waarin de toepassing van kwik bij of krachtens wettelijk voorschrift is voorgeschreven, dan wel apparatuur ten behoeve van de operationele taken van de krijgsmacht, waarin de toepassing van kwik naar het oordeel van Onze Minister van Defensie noodzakelijk is;
 
-- 3°. een rechte fluorescentielamp voor verlichtingsdoeleinden met twee lampvoeten, voor zover deze meer dan 20 mg kwik bevat;
-
-- m. een product voor gebruik in de scheepvaart waarin de toepassing van kwik bij of krachtens wettelijk voorschrift is voorgeschreven, rechtstreeks met de scheepvaart verband houdende apparatuur waarin de toepassing van kwik naar het oordeel van Onze Minister van Verkeer en Waterstaat noodzakelijk is en scheepsuitrusting waarop [richtlijn nr. 96/98/EG](31996L0098) van de Raad van de Europese Unie van 20 december 1996 inzake uitrusting van zeeschepen (PbEG 1997 L 46) van toepassing is;
-
-- n. een product voor gebruik in de luchtvaart waarin de toepassing van kwik bij of krachtens wettelijk voorschrift is voorgeschreven, alsmede rechtstreeks met de luchtvaart verband houdende apparatuur waarin de toepassing van kwik naar het oordeel van Onze Minister van Verkeer en Waterstaat noodzakelijk is;
-
-- o. apparatuur in gebruik bij de krijgsmacht, waarin de toepassing van kwik bij of krachtens wettelijk voorschrift is voorgeschreven, dan wel apparatuur ten behoeve van de operationele taken van de krijgsmacht, waarin de toepassing van kwik naar het oordeel van Onze Minister van Defensie noodzakelijk is;
-
-- p. een fotografische film, een fotografische plaat en fotografisch papier, voorzover de film, de plaat of het papier niet meer dan 0,3 mg kwik per kg product bevatten.
+- o. een fotografische film, een fotografische plaat en fotografisch papier, voorzover de film, de plaat of het papier niet meer dan 0,3 mg kwik per kg product bevatten.
 
 ##### Artikel 2.5
 
-De verboden, bedoeld in de [artikelen 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009890&paragraaf=2&artikel=2.1&z=2002-05-08&g=2002-05-08), en [2.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009890&paragraaf=2&artikel=2.3&z=2002-05-08&g=2002-05-08), gelden niet met betrekking tot elektrotechnische componenten die dienen als reserve-onderdelen voor apparatuur waarvan degene die deze apparatuur bezit, kan aantonen dat die apparatuur voor 1 januari 2003 voor het eerst voor gebruik ter beschikking is gesteld.
+De verboden, bedoeld in de [artikelen 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009890&paragraaf=2&artikel=2.1&z=2006-07-01&g=2006-07-01), en [2.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009890&paragraaf=2&artikel=2.3&z=2006-07-01&g=2006-07-01), gelden niet met betrekking tot elektrotechnische componenten die dienen als reserve-onderdelen voor apparatuur waarvan degene die deze apparatuur bezit, kan aantonen dat die apparatuur voor 1 januari 2003 voor het eerst voor gebruik ter beschikking is gesteld.
 
 #### § 3. Slotbepalingen
 
