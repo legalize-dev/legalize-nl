@@ -4,7 +4,7 @@ identifier: "BWBR0018442"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2006-07-01"
-last_updated: "2005-07-10"
+last_updated: "2006-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018442"
 soort: "beleidsregel"
@@ -55,7 +55,7 @@ In deze regeling wordt verstaan onder:
 
 - e. Minister: de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;
 
-- f. [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0018442&bijlage=1&z=2005-07-10&g=2005-07-10), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0018442&bijlage=2&z=2005-07-10&g=2005-07-10) en 3: de bij deze regeling behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0018442&bijlage=1&z=2005-07-10&g=2005-07-10), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0018442&bijlage=2&z=2005-07-10&g=2005-07-10) onderscheidenlijk 3.
+- f. [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0018442&bijlage=1&z=2006-07-01&g=2006-07-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0018442&bijlage=2&z=2006-07-01&g=2006-07-01) en 3: de bij deze regeling behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0018442&bijlage=1&z=2006-07-01&g=2006-07-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0018442&bijlage=2&z=2006-07-01&g=2006-07-01) onderscheidenlijk 3.
 
 #### § 2. Het begrip grond
 
@@ -73,9 +73,9 @@ In deze regeling wordt verstaan onder:
 
 De beoordeling van de reinigbaarheid van verontreinigde grond geschiedt op basis van de [Regeling beoordeling reinigbaarheid grond bodemsanering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011411), en tevens
 
-- a. voor de beoordeling van asbest: op basis van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018442&paragraaf=3&artikel=4&z=2005-07-10&g=2005-07-10),
+- a. voor de beoordeling van asbest: op basis van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018442&paragraaf=3&artikel=4&z=2006-07-01&g=2006-07-01),
 
-- b. voor de beoordeling van stoffen waarvoor geen waarden zijn vastgesteld in de [Regeling beoordeling reinigbaarheid grond bodemsanering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011411) of in deze beleidsregels: op basis van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0018442&paragraaf=3&artikel=5&z=2005-07-10&g=2005-07-10).
+- b. voor de beoordeling van stoffen waarvoor geen waarden zijn vastgesteld in de [Regeling beoordeling reinigbaarheid grond bodemsanering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011411) of in deze beleidsregels: op basis van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0018442&paragraaf=3&artikel=5&z=2006-07-01&g=2006-07-01).
 
 ##### Artikel 4
 
@@ -105,11 +105,11 @@ Bij de beoordeling wordt aangegeven binnen welke minimum- en maximumwaarden zij 
 
 ##### Artikel 8
 
-1. Voor het indienen van een aanvraag van een verklaring verontreinigde grond wordt het formulier met toelichting vastgesteld, dat is opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0018442&bijlage=1&z=2005-07-10&g=2005-07-10).
+1. Voor het indienen van een aanvraag van een verklaring verontreinigde grond wordt het formulier met toelichting vastgesteld, dat is opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0018442&bijlage=1&z=2006-07-01&g=2006-07-01).
 
-2. Bij de aanvraag van een verklaring verontreinigde grond worden de gegevens verstrekt die zijn aangegeven in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0018442&bijlage=2&z=2005-07-10&g=2005-07-10).
+2. Bij de aanvraag van een verklaring verontreinigde grond worden de gegevens verstrekt die zijn aangegeven in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0018442&bijlage=2&z=2006-07-01&g=2006-07-01).
 
-3. De aanvraag van een verklaring verontreinigde grond voldoet aan het bepaalde in [§ 6](https://wetten.overheid.nl/jci1.3:c:BWBR0018442&paragraaf=6&z=2005-07-10&g=2005-07-10) dan wel [§ 7](https://wetten.overheid.nl/jci1.3:c:BWBR0018442&paragraaf=7&z=2005-07-10&g=2005-07-10).
+3. De aanvraag van een verklaring verontreinigde grond voldoet aan het bepaalde in [§ 6](https://wetten.overheid.nl/jci1.3:c:BWBR0018442&paragraaf=6&z=2006-07-01&g=2006-07-01) dan wel [§ 7](https://wetten.overheid.nl/jci1.3:c:BWBR0018442&paragraaf=7&z=2006-07-01&g=2006-07-01).
 
 ##### Artikel 9
 
@@ -125,7 +125,7 @@ Ter uitvoering van het bepaalde in [artikel 3:2 van de Algemene wet bestuursrech
 
 1. Deze paragraaf is van toepassing op verklaringen verontreinigde grond.
 
-2. In afwijking van het eerste lid is deze paragraaf niet van toepassing op verklaringen voor verontreinigde grond waarvan is gebleken dat zij is verontreinigd met asbest tot boven de samenstellingswaarde voor herbruikbare grond, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018442&paragraaf=3&artikel=4&z=2005-07-10&g=2005-07-10).
+2. In afwijking van het eerste lid is deze paragraaf niet van toepassing op verklaringen voor verontreinigde grond waarvan is gebleken dat zij is verontreinigd met asbest tot boven de samenstellingswaarde voor herbruikbare grond, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018442&paragraaf=3&artikel=4&z=2006-07-01&g=2006-07-01).
 
 ##### Artikel 12
 
@@ -155,7 +155,7 @@ De voorbehandeling en de analyse van de monsters wordt uitgevoerd overeenkomstig
 
 ##### Artikel 16
 
-1. Indien de aanvraag betrekking heeft op een partij residu die is vrijgekomen bij de procesmatige reiniging van grond, mag de voorbehandeling en de analyse van de monsters in afwijking van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0018442&paragraaf=6&artikel=15&z=2005-07-10&g=2005-07-10) zijn uitgevoerd overeenkomstig ISO/IEC 17025 dan wel EN 45001.
+1. Indien de aanvraag betrekking heeft op een partij residu die is vrijgekomen bij de procesmatige reiniging van grond, mag de voorbehandeling en de analyse van de monsters in afwijking van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0018442&paragraaf=6&artikel=15&z=2006-07-01&g=2006-07-01) zijn uitgevoerd overeenkomstig ISO/IEC 17025 dan wel EN 45001.
 
 2. Indien toepassing wordt gegeven aan het eerste lid, worden de gemiddelde analyseresultaten voor de in tabel 1 opgenomen verontreinigingen gedeeld door de in tabel 1 opgenomen omrekenfactoren.
 
@@ -180,7 +180,7 @@ De voorbehandeling en de analyse van de monsters wordt uitgevoerd overeenkomstig
 
 ##### Artikel 18
 
-Deze paragraaf is van toepassing op verklaringen voor verontreinigde grond waarvan is gebleken dat zij is verontreinigd met asbest tot boven de samenstellingswaarde voor herbruikbare grond, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018442&paragraaf=3&artikel=4&z=2005-07-10&g=2005-07-10).
+Deze paragraaf is van toepassing op verklaringen voor verontreinigde grond waarvan is gebleken dat zij is verontreinigd met asbest tot boven de samenstellingswaarde voor herbruikbare grond, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018442&paragraaf=3&artikel=4&z=2006-07-01&g=2006-07-01).
 
 ##### Artikel 19
 
@@ -226,19 +226,7 @@ Een verklaring verontreinigde grond kan worden ingetrokken indien:
 
 ##### Artikel 25
 
-1. In afwijking van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0018442&paragraaf=6&artikel=14&z=2005-07-10&g=2005-07-10) mag een partij in depot zijn bemonsterd overeenkomstig de volgende bepalingen:
-
-- a. De partij wordt in het depot bemonsterd overeenkomstig:
-
-- 1°. VKB-protocol 1018, of
-
-- 2°. het accreditatieprogramma bouwstoffenbesluit (AP04) voor de monstername conform het schema voor de monsterneming ten behoeve van het handhavingsprotocol schone grond.
-
-- b. Bij het gebruik van VKB-protocol 1018 wordt bemonsterd overeenkomstig de doelstelling ‘keuring schone grond’ zoals opgenomen in tabel 1 van hoofdstuk 6 van genoemd protocol;
-
-- c. Bij het gebruik van VKB-protocol 1018 wordt ten aanzien van het nemen van grepen de strategie 2 maal 50 grepen gevolgd, overeenkomstig hoofdstuk 6 van genoemd protocol, met uitzondering van de paragrafen 6.2.2 tot en met 6.2.6.
-
-2. Dit artikel vervalt met ingang van 1 juli 2006.
+Vervallen
 
 ##### Artikel 26
 
