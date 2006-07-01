@@ -4,7 +4,7 @@ identifier: "BWBR0004045"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2006-06-30"
+last_updated: "2006-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004045"
 soort: "wet"
@@ -135,7 +135,7 @@ wordt hij voor de toepassing van de eerste volzin gelijkgesteld met een in Neder
 
 ##### Artikel 3a
 
-Zo nodig in afwijking van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=I&paragraaf=2&artikel=3&z=2006-06-30&g=2006-06-30) en de daarop berustende bepalingen:
+Zo nodig in afwijking van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=I&paragraaf=2&artikel=3&z=2006-07-01&g=2006-07-01) en de daarop berustende bepalingen:
 
 - a. wordt als werknemer beschouwd de persoon van wie de verzekering op grond van deze wet voortvloeit uit de toepassing van bepalingen van een verdrag of van een besluit van een volkenrechtelijke organisatie;
 
@@ -191,7 +191,7 @@ Zo nodig in afwijking van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 - b. niet in Nederland woont en die belastbare winst uit Nederlandse onderneming geniet als bedoeld in [afdeling 7.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&afdeling=7.2), tenzij hij de onderneming niet voor eigen rekening feitelijk drijft;
 
-- c. directeur-grootaandeelhouder is als bedoeld in [artikel 6, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=I&paragraaf=2&artikel=6&z=2006-06-30&g=2006-06-30), en het werk tot stand brengt uitsluitend voor rekening en risico van de onderneming van de rechtspersoon waarvan hij directeur-grootaandeelhouder is.
+- c. directeur-grootaandeelhouder is als bedoeld in [artikel 6, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=I&paragraaf=2&artikel=6&z=2006-07-01&g=2006-07-01), en het werk tot stand brengt uitsluitend voor rekening en risico van de onderneming van de rechtspersoon waarvan hij directeur-grootaandeelhouder is.
 
 ##### Artikel 5
 
@@ -203,7 +203,7 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld, op
 
 - c. als musicus of anderszins als artiest optreedt of als beroep een tak van sport beoefent; en
 
-- d. tegen beloning persoonlijk arbeid verricht en wiens arbeidsverhouding niet reeds op grond van dit artikel en de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=I&paragraaf=2&artikel=3&z=2006-06-30&g=2006-06-30) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=I&paragraaf=2&artikel=4&z=2006-06-30&g=2006-06-30) als dienstbetrekking wordt beschouwd, doch hiermee maatschappelijk gelijk kan worden gesteld.
+- d. tegen beloning persoonlijk arbeid verricht en wiens arbeidsverhouding niet reeds op grond van dit artikel en de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=I&paragraaf=2&artikel=3&z=2006-07-01&g=2006-07-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=I&paragraaf=2&artikel=4&z=2006-07-01&g=2006-07-01) als dienstbetrekking wordt beschouwd, doch hiermee maatschappelijk gelijk kan worden gesteld.
 
 ##### Artikel 6
 
@@ -241,7 +241,7 @@ Vervallen
 
 1. Een persoon wiens dienstbetrekking is geëindigd, behoudt de hoedanigheid van werknemer, voor zover hij geen werkzaamheden verricht uit hoofde waarvan hij op grond van deze wet niet als werknemer wordt beschouwd.
 
-2. Een persoon, wiens werknemerschap is geëindigd door het verrichten van werkzaamheden in de uitoefening van een bedrijf of in de zelfstandige uitoefening van een beroep, herkrijgt bij beëindiging van die werkzaamheden de hoedanigheid van werknemer, voor zover die beëindiging plaatsvindt binnen een tijdvak van anderhalf jaar nadat die werkzaamheden een aanvang hebben genomen.
+2. Een persoon, wiens werknemerschap is geëindigd door het verrichten van werkzaamheden in de uitoefening van een bedrijf of in de zelfstandige uitoefening van een beroep, herkrijgt bij beëindiging van die werkzaamheden de hoedanigheid van werknemer, indien de werkzaamheden worden beëindigd binnen een periode die gelijk is aan de uitkeringsduur, danwel binnen anderhalf jaar, indien de uitkeringsduur korter is dan anderhalf jaar.
 
 3. Een persoon, wiens werknemerschap is geëindigd door het verrichten van werkzaamheden als lid van de Eerste Kamer der Staten-Generaal, van een vertegenwoordigend orgaan van een publiekrechtelijk lichaam, dat bij rechtstreekse verkiezing wordt samengesteld, of van een algemeen bestuur van een waterschap, herkrijgt bij beëindiging van die werkzaamheden de hoedanigheid van werknemer, voor zover die beëindiging plaatsvindt binnen het tijdvak van de bij de aanvang van die werkzaamheden voor die persoon nog geldende uitkeringsduur krachtens deze wet.
 
@@ -257,9 +257,9 @@ Werkgever is de overheidswerkgever onderscheidenlijk de natuurlijke persoon tot 
 
 Als werkgever wordt beschouwd:
 
-- a. in de gevallen, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=I&paragraaf=2&artikel=4&z=2006-06-30&g=2006-06-30), onderdeel: **a en b:** de aanbesteder; **c en d:** degene, met wie de overeenkomst tot bemiddeling is gesloten; **f:** de exploitant of mede-exploitant van het vaartuig; **g:** Onze Minister van Defensie of Onze Minister; **h:** de coöperatie.
+- a. in de gevallen, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=I&paragraaf=2&artikel=4&z=2006-07-01&g=2006-07-01), onderdeel: **a en b:** de aanbesteder; **c en d:** degene, met wie de overeenkomst tot bemiddeling is gesloten; **f:** de exploitant of mede-exploitant van het vaartuig; **g:** Onze Minister van Defensie of Onze Minister; **h:** de coöperatie.
 
-- b. in de gevallen, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=I&paragraaf=2&artikel=5&z=2006-06-30&g=2006-06-30), onderdeel: **a:** de opdrachtgever; **b:** de thuiswerker; **c:** degene, met wie het optreden of de sportbeoefening is overeengekomen; **d:** degene, die bij de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=I&paragraaf=2&artikel=5&z=2006-06-30&g=2006-06-30) bedoelde algemene maatregel van bestuur als werkgever wordt aangewezen.
+- b. in de gevallen, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=I&paragraaf=2&artikel=5&z=2006-07-01&g=2006-07-01), onderdeel: **a:** de opdrachtgever; **b:** de thuiswerker; **c:** degene, met wie het optreden of de sportbeoefening is overeengekomen; **d:** degene, die bij de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=I&paragraaf=2&artikel=5&z=2006-07-01&g=2006-07-01) bedoelde algemene maatregel van bestuur als werkgever wordt aangewezen.
 
 ##### Artikel 11
 
@@ -267,7 +267,7 @@ Als werkgever wordt beschouwd:
 
 - a. ziekengeld wordt betaald op grond van de verplichte verzekering krachtens de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888);
 
-- b. uitkering wordt betaald op grond van de verplichte verzekering of [hoofdstuk IV van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IV&z=2006-06-30&g=2006-06-30);
+- b. uitkering wordt betaald op grond van de verplichte verzekering of [hoofdstuk IV van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IV&z=2006-07-01&g=2006-07-01);
 
 - c. uitkering wordt betaald op grond van de verplichte verzekering op grond van de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) of de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524);
 
@@ -275,13 +275,13 @@ Als werkgever wordt beschouwd:
 
 - e. geen ziekengeld wordt betaald op grond van [artikel 29, eerste lid, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=29) maar wel een toeslag op grond van de [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043).
 
-2. Ingeval het UWV de uitkering of toeslag, bedoeld in het eerste lid, vermeerderd met de daarover door de werkgever verschuldigde premies en de vergoeding, bedoeld in [artikel 46 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=46), betaalt aan de werkgever, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=I&paragraaf=3&artikel=9&z=2006-06-30&g=2006-06-30), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=I&paragraaf=3&artikel=10&z=2006-06-30&g=2006-06-30) of [12](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=I&paragraaf=3&artikel=12&z=2006-06-30&g=2006-06-30), teneinde deze uitkering door diens tussenkomst te doen uitbetalen, treedt voor de toepassing van het eerste lid, deze in de plaats van het UWV, onafhankelijk van het voortbestaan van de dienstbetrekking met die werkgever.
+2. Ingeval het UWV de uitkering of toeslag, bedoeld in het eerste lid, vermeerderd met de daarover door de werkgever verschuldigde premies en de vergoeding, bedoeld in [artikel 46 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=46), betaalt aan de werkgever, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=I&paragraaf=3&artikel=9&z=2006-07-01&g=2006-07-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=I&paragraaf=3&artikel=10&z=2006-07-01&g=2006-07-01) of [12](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=I&paragraaf=3&artikel=12&z=2006-07-01&g=2006-07-01), teneinde deze uitkering door diens tussenkomst te doen uitbetalen, treedt voor de toepassing van het eerste lid, deze in de plaats van het UWV, onafhankelijk van het voortbestaan van de dienstbetrekking met die werkgever.
 
 3. Bij ministeriële regeling kunnen met betrekking tot de door de werkgever verschuldigde premies, bedoeld in het tweede lid, nadere en zonodig afwijkende regels worden gesteld.
 
 ##### Artikel 12
 
-Onze Minister is bevoegd, in afwijking van de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=I&paragraaf=3&artikel=9&z=2006-06-30&g=2006-06-30) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=I&paragraaf=3&artikel=10&z=2006-06-30&g=2006-06-30), andere dan de aldaar bedoelde personen of lichamen aan te wijzen als werkgever ten aanzien van de persoon die:
+Onze Minister is bevoegd, in afwijking van de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=I&paragraaf=3&artikel=9&z=2006-07-01&g=2006-07-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=I&paragraaf=3&artikel=10&z=2006-07-01&g=2006-07-01), andere dan de aldaar bedoelde personen of lichamen aan te wijzen als werkgever ten aanzien van de persoon die:
 
 - a. krachtens overeenkomst met een ander tegen beloning geregeld zijn bemiddeling verleent tot het tot stand komen van overeenkomsten tussen daartoe door hem te bezoeken personen en een opdrachtgever van die ander;
 
@@ -311,7 +311,7 @@ De werkgever is verplicht de werknemer de gelegenheid te geven tot het uitoefene
 
 ##### Artikel 15
 
-Met inachtneming van de [artikelen 16 tot en met 21](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=16&z=2006-06-30&g=2006-06-30) en de daarop berustende bepalingen heeft de werknemer die werkloos is recht op loongerelateerde uitkering.
+Met inachtneming van de [artikelen 16 tot en met 21](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=16&z=2006-07-01&g=2006-07-01) en de daarop berustende bepalingen heeft de werknemer die werkloos is recht op loongerelateerde uitkering.
 
 ##### Artikel 16
 
@@ -333,7 +333,7 @@ Met inachtneming van de [artikelen 16 tot en met 21](https://wetten.overheid.nl/
 
 Indien de dienstbetrekking is geëindigd door ontbinding op verzoek van de werkgever, is [artikel 672 lid 4 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=672) van overeenkomstige toepassing.
 
-4. Het derde lid vindt geen toepassing indien de werkgever na het einde van de dienstbetrekking verkeert in een toestand als bedoeld in [artikel 61, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IV&artikel=61&z=2006-06-30&g=2006-06-30), en voorzover de werknemer als gevolg van die toestand de in het derde lid bedoelde inkomsten niet ontvangt.
+4. Het derde lid vindt geen toepassing indien de werkgever na het einde van de dienstbetrekking verkeert in een toestand als bedoeld in [artikel 61, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IV&artikel=61&z=2006-07-01&g=2006-07-01), en voorzover de werknemer als gevolg van die toestand de in het derde lid bedoelde inkomsten niet ontvangt.
 
 5. Bij algemene maatregel van bestuur kunnen met betrekking tot het eerste en het tweede lid regels worden gesteld:
 
@@ -351,9 +351,9 @@ Indien de dienstbetrekking is geëindigd door ontbinding op verzoek van de werkg
 
 8. Voor de toepassing van deze wet en de daarop berustende bepalingen is de eerste dag van werkloosheid de eerste dag waarop een verlies van een of meer uren, alsmede een verlies van het recht op onverminderde doorbetaling van het loon over die uren intreedt in de kalenderweek waarin zich een situatie voordoet als bedoeld in het eerste of tiende lid.
 
-9. Indien bij het intreden van het arbeidsurenverlies, bedoeld in het eerste lid, niet wordt voldaan aan een van de overige in dat lid bedoelde voorwaarden, of de werknemer geen recht op uitkering heeft op grond van [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=19&z=2006-06-30&g=2006-06-30), wordt, in afwijking van het achtste lid, voor de toepassing van deze wet en de daarop berustende bepalingen als eerste werkloosheidsdag aangemerkt, de dag van de kalenderweek waarop aan de overige voorwaarden als bedoeld in het eerste lid wordt voldaan en [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=19&z=2006-06-30&g=2006-06-30) niet meer aan het recht op uitkering in de weg staat.
+9. Indien bij het intreden van het arbeidsurenverlies, bedoeld in het eerste lid, niet wordt voldaan aan een van de overige in dat lid bedoelde voorwaarden, of de werknemer geen recht op uitkering heeft op grond van [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=19&z=2006-07-01&g=2006-07-01), wordt, in afwijking van het achtste lid, voor de toepassing van deze wet en de daarop berustende bepalingen als eerste werkloosheidsdag aangemerkt, de dag van de kalenderweek waarop aan de overige voorwaarden als bedoeld in het eerste lid wordt voldaan en [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=19&z=2006-07-01&g=2006-07-01) niet meer aan het recht op uitkering in de weg staat.
 
-10. In afwijking van het eerste lid is tevens werkloos de werknemer die voldoet aan het eerste lid, onderdeel **a**, doch niet voldoet aan het eerste lid, onderdeel **b**, wegens het enkele feit dat hij voorafgaand aan of aansluitend op het arbeidsurenverlies deelneemt of gaat deelnemen aan een naar het oordeel van het UWV noodzakelijke opleiding of scholing, als bedoeld in [artikel 76](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=VI&artikel=76&z=2006-06-30&g=2006-06-30). Voor de toepassing van het negende lid wordt een werknemer op wie de eerste volzin van toepassing is beschouwd als een werknemer die voldoet aan de voorwaarden van het eerste lid.
+10. In afwijking van het eerste lid is tevens werkloos de werknemer die voldoet aan het eerste lid, onderdeel **a**, doch niet voldoet aan het eerste lid, onderdeel **b**, wegens het enkele feit dat hij voorafgaand aan of aansluitend op het arbeidsurenverlies deelneemt of gaat deelnemen aan een naar het oordeel van het UWV noodzakelijke opleiding of scholing, als bedoeld in [artikel 76](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=VI&artikel=76&z=2006-07-01&g=2006-07-01). Voor de toepassing van het negende lid wordt een werknemer op wie de eerste volzin van toepassing is beschouwd als een werknemer die voldoet aan de voorwaarden van het eerste lid.
 
 11. Voor de toepassing van deze wet en de daarop berustende bepalingen is de maandag de eerste dag van de kalenderweek.
 
@@ -369,15 +369,15 @@ Recht op uitkering ontstaat voor de werknemer indien hij
 
 - 1°. aantoont in de periode van vijf kalenderjaren onmiddellijk voorafgaande aan het jaar waarin zijn eerste werkloosheidsdag is gelegen, in ten minste vier kalenderjaren over 52 of meer dagen per jaar loon te hebben ontvangen; of
 
-- 2°. onmiddellijk voorafgaande aan of op zijn eerste dag van werkloosheid recht heeft op een uitkering op grond van een wet als genoemd in [artikel 19, eerste lid, onderdeel **b**, **c**, of **d**](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=19&z=2006-06-30&g=2006-06-30).
+- 2°. onmiddellijk voorafgaande aan of op zijn eerste dag van werkloosheid recht heeft op een uitkering op grond van een wet als genoemd in [artikel 19, eerste lid, onderdeel **b**, **c**, of **d**](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=19&z=2006-07-01&g=2006-07-01).
 
 ##### Artikel 17a
 
-1. Voor de vaststelling van het in [artikel 17, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=17&z=2006-06-30&g=2006-06-30), bedoelde aantal van 36 weken worden niet in aanmerking genomen weken gedurende welke de werknemer:
+1. Voor de vaststelling van het in [artikel 17, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=17&z=2006-07-01&g=2006-07-01), bedoelde aantal van 36 weken worden niet in aanmerking genomen weken gedurende welke de werknemer:
 
 - a. wegens ziekte of arbeidsongeschiktheid geen arbeid kon verrichten;
 
-- b. werkzaamheden heeft verricht als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=I&paragraaf=2&artikel=8&z=2006-06-30&g=2006-06-30) en hij op grond van dat artikel de hoedanigheid van werknemer heeft herkregen;
+- b. werkzaamheden heeft verricht als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=I&paragraaf=2&artikel=8&z=2006-07-01&g=2006-07-01) en hij op grond van dat artikel de hoedanigheid van werknemer heeft herkregen;
 
 - c. vervallen;
 
@@ -385,25 +385,25 @@ Recht op uitkering ontstaat voor de werknemer indien hij
 
 - e. geen arbeid heeft verricht maar wel recht op uitkering heeft op grond van [hoofdstuk 3, afdeling 2, paragraaf 1, van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&paragraaf=1).
 
-2. Voor de vaststelling van het in [artikel 17, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=17&z=2006-06-30&g=2006-06-30), bedoelde aantal van 26 weken wordt de in een week verrichte arbeid slechts in aanmerking genomen, voor zover deze betrekking heeft op de dienstbetrekking waaruit de werknemer werkloos is geworden en op een of meer dienstbetrekkingen waarvoor eerstgenoemde dienstbetrekking in de plaats is gekomen, en voor zover deze niet reeds eerder heeft geleid tot het ontstaan van een recht op uitkering ingevolge dit hoofdstuk of [hoofdstuk IIb](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIB&z=2006-06-30&g=2006-06-30) dan wel op grond van [hoofdstuk 7 van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=7).
+2. Voor de vaststelling van het in [artikel 17, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=17&z=2006-07-01&g=2006-07-01), bedoelde aantal van 26 weken wordt de in een week verrichte arbeid slechts in aanmerking genomen, voor zover deze betrekking heeft op de dienstbetrekking waaruit de werknemer werkloos is geworden en op een of meer dienstbetrekkingen waarvoor eerstgenoemde dienstbetrekking in de plaats is gekomen, en voor zover deze niet reeds eerder heeft geleid tot het ontstaan van een recht op uitkering ingevolge dit hoofdstuk of [hoofdstuk IIb](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIB&z=2006-07-01&g=2006-07-01) dan wel op grond van [hoofdstuk 7 van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=7).
 
-3. Bij algemene maatregel van bestuur kan voor bepaalde groepen werknemers het in [artikel 17, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=17&z=2006-06-30&g=2006-06-30), bedoelde aantal van 36 weken hoger worden vastgesteld en het in dat onderdeel bedoelde aantal van 26 weken lager worden vastgesteld.
+3. Bij algemene maatregel van bestuur kan voor bepaalde groepen werknemers het in [artikel 17, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=17&z=2006-07-01&g=2006-07-01), bedoelde aantal van 36 weken hoger worden vastgesteld en het in dat onderdeel bedoelde aantal van 26 weken lager worden vastgesteld.
 
-4. Bij ministeriële regeling kunnen, zo nodig in afwijking van het tweede lid, regels worden gesteld omtrent de berekening van het in [artikel 17, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=17&z=2006-06-30&g=2006-06-30), bedoelde aantal van 26 weken. Deze regels hebben betrekking op:
+4. Bij ministeriële regeling kunnen, zo nodig in afwijking van het tweede lid, regels worden gesteld omtrent de berekening van het in [artikel 17, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=17&z=2006-07-01&g=2006-07-01), bedoelde aantal van 26 weken. Deze regels hebben betrekking op:
 
-- a. de gelijkstelling van weken waarin geen arbeid is verricht in de dienstbetrekking waaruit de werknemer werkloos is geworden met weken als bedoeld in [artikel 17, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=17&z=2006-06-30&g=2006-06-30);
+- a. de gelijkstelling van weken waarin geen arbeid is verricht in de dienstbetrekking waaruit de werknemer werkloos is geworden met weken als bedoeld in [artikel 17, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=17&z=2006-07-01&g=2006-07-01);
 
 - b. het meer keren in aanmerking nemen van weken waarin arbeid is verricht.
 
 ##### Artikel 17b
 
-1. Voor de toepassing van [artikel 17, onderdeel b, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=17&z=2006-06-30&g=2006-06-30), worden met dagen waarover loon is ontvangen, gelijkgesteld:
+1. Voor de toepassing van [artikel 17, onderdeel b, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=17&z=2006-07-01&g=2006-07-01), worden met dagen waarover loon is ontvangen, gelijkgesteld:
 
 - a. dagen waarover recht bestond op een uitkering die naar aard en strekking overeenkomt met een uitkering op grond van de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) of met een uitkering op grond van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) voorzover de uitkering wordt toegekend naar een arbeidsongeschiktheid van ten minste 80% respectievelijk wordt toegekend over periodes waarin de persoon slechts in staat is om met arbeid ten hoogste 20% te verdienen van het maatmaninkomen, bedoeld in [artikel 1 van eerstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=1);
 
 - b. dagen waarover een persoon een uitkering ontvangt op grond van [hoofdstuk III van de Wet arbeidsongeschiktheidsvoorziening militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0002822&hoofdstuk=III), berekend naar een arbeidsongeschiktheid van ten minste 80% of een toelage op grond van dat hoofdstuk, die al dan niet vermeerderd met de arbeidsongeschiktheidsuitkering 70% of meer bedraagt van het dagloon, waarnaar de arbeidsongeschiktheidsuitkering is of zou zijn berekend.
 
-2. Voor de toepassing van [artikel 17, aanhef en onderdeel **b**, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=17&z=2006-06-30&g=2006-06-30), worden niet reeds in aanmerking genomen kalenderjaren waarin een persoon recht heeft op kinderbijslag op grond van [artikel 7 van de Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&artikel=7) of een andere gezinsbijslag als bedoeld in artikel 4, eerste lid, onderdeel h, van [verordening (EG) nr. 1408/71](31971R1408) van de Raad van de Europese Gemeenschap van 14 juni 1971 betreffende de toepassing van socialezekerheidsregelingen op werknemers en zelfstandigen, alsmede op hun gezinsleden, die zich binnen de Gemeenschap verplaatsen (PbEG L 149) voor een tot zijn huishouden behorend kind dat bij de aanvang van dat kalenderjaar de leeftijd van vijf jaar niet heeft bereikt, voor de helft gelijkgesteld met kalenderjaren waarin over 52 of meer dagen loon is ontvangen. De in de vorige zin bedoelde persoon wordt aangemerkt als verzorgend persoon.
+2. Voor de toepassing van [artikel 17, aanhef en onderdeel **b**, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=17&z=2006-07-01&g=2006-07-01), worden niet reeds in aanmerking genomen kalenderjaren waarin een persoon recht heeft op kinderbijslag op grond van [artikel 7 van de Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&artikel=7) of een andere gezinsbijslag als bedoeld in artikel 4, eerste lid, onderdeel h, van [verordening (EG) nr. 1408/71](31971R1408) van de Raad van de Europese Gemeenschap van 14 juni 1971 betreffende de toepassing van socialezekerheidsregelingen op werknemers en zelfstandigen, alsmede op hun gezinsleden, die zich binnen de Gemeenschap verplaatsen (PbEG L 149) voor een tot zijn huishouden behorend kind dat bij de aanvang van dat kalenderjaar de leeftijd van vijf jaar niet heeft bereikt, voor de helft gelijkgesteld met kalenderjaren waarin over 52 of meer dagen loon is ontvangen. De in de vorige zin bedoelde persoon wordt aangemerkt als verzorgend persoon.
 
 3. Het tweede lid vindt geen toepassing indien de verzorgende persoon in een kalenderjaar voor een periode langer dan een half jaar als werknemer in de zin van een wettelijke regeling inzake werkloosheid recht heeft op een uitkering ter zake van werkloosheid.
 
@@ -413,19 +413,19 @@ Recht op uitkering ontstaat voor de werknemer indien hij
 
 - b. een pleegkind verstaan een kind dat als een eigen kind wordt onderhouden en opgevoed.
 
-5. Voor de toepassing van [artikel 17, onderdeel b, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=17&z=2006-06-30&g=2006-06-30), worden dagen, tot een maximum van achttien maanden, waarover de werknemer onbetaald verlof heeft genoten, gelijkgesteld met dagen, waarover loon is ontvangen.
+5. Voor de toepassing van [artikel 17, onderdeel b, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=17&z=2006-07-01&g=2006-07-01), worden dagen, tot een maximum van achttien maanden, waarover de werknemer onbetaald verlof heeft genoten, gelijkgesteld met dagen, waarover loon is ontvangen.
 
-6. Voor de toepassing van dit artikel en van [artikel 17, onderdeel **b**, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=17&z=2006-06-30&g=2006-06-30), wordt
+6. Voor de toepassing van dit artikel en van [artikel 17, onderdeel **b**, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=17&z=2006-07-01&g=2006-07-01), wordt
 
-- a. de persoon, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=I&paragraaf=2&artikel=7&z=2006-06-30&g=2006-06-30), geacht als werknemer in een dienstbetrekking in de zin van deze wet te staan;
+- a. de persoon, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=I&paragraaf=2&artikel=7&z=2006-07-01&g=2006-07-01), geacht als werknemer in een dienstbetrekking in de zin van deze wet te staan;
 
-- b. niet als loon beschouwd een uitkering op grond van deze wet, met uitzondering van een uitkering op grond van [hoofdstuk IV](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IV&z=2006-06-30&g=2006-06-30) van deze wet, een uitkering op grond van [hoofdstuk 7 van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=7), met uitzondering van een uitkering aan de persoon die slechts in staat is om met arbeid ten hoogste 20% te verdienen van het maatmaninkomen, bedoeld in [artikel 1 van laatstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=1), alsmede een uitkering op grond van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), berekend naar een arbeidsongeschiktheid van minder dan 80%.
+- b. niet als loon beschouwd een uitkering op grond van deze wet, met uitzondering van een uitkering op grond van [hoofdstuk IV](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IV&z=2006-07-01&g=2006-07-01) van deze wet, een uitkering op grond van [hoofdstuk 7 van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=7), met uitzondering van een uitkering aan de persoon die slechts in staat is om met arbeid ten hoogste 20% te verdienen van het maatmaninkomen, bedoeld in [artikel 1 van laatstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=1), alsmede een uitkering op grond van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), berekend naar een arbeidsongeschiktheid van minder dan 80%.
 
 7. Bij algemene maatregel van bestuur kunnen regels worden gesteld:
 
-- a. ter vaststelling van het aantal dagen waarover loon is ontvangen, bedoeld in [artikel 17, onderdeel b, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=17&z=2006-06-30&g=2006-06-30);
+- a. ter vaststelling van het aantal dagen waarover loon is ontvangen, bedoeld in [artikel 17, onderdeel b, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=17&z=2006-07-01&g=2006-07-01);
 
-- b. op grond waarvan voor het bepalen van het aantal van 52 dagen, bedoeld in [artikel 17, onderdeel b, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=17&z=2006-06-30&g=2006-06-30), dagen waarover, anders dan bedoeld in het vijfde lid, geen loon is ontvangen, worden gelijkgesteld met dagen waarover loon is ontvangen.
+- b. op grond waarvan voor het bepalen van het aantal van 52 dagen, bedoeld in [artikel 17, onderdeel b, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=17&z=2006-07-01&g=2006-07-01), dagen waarover, anders dan bedoeld in het vijfde lid, geen loon is ontvangen, worden gelijkgesteld met dagen waarover loon is ontvangen.
 
 ##### Artikel 17c
 
@@ -437,9 +437,9 @@ Recht op uitkering ontstaat voor de werknemer indien hij
 
 1. De werknemer, die werkloos is uitsluitend als gevolg van vorst, sneeuwval, hoog water of andere buitengewone natuurlijke omstandigheden heeft recht op uitkering voor de duur van de buitengewone natuurlijke omstandigheden.
 
-2. Bij ministeriële regeling kunnen regels worden gesteld op grond waarvan ten aanzien van een of meer bepaalde groepen werknemers voor de toepassing van het eerste lid, in afwijking van [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=16&z=2006-06-30&g=2006-06-30), ook als werkloos wordt beschouwd de werknemer die minder dan vijf arbeidsuren per kalenderweek heeft verloren, alsmede het recht op onverminderde doorbetaling van zijn loon over die uren.
+2. Bij ministeriële regeling kunnen regels worden gesteld op grond waarvan ten aanzien van een of meer bepaalde groepen werknemers voor de toepassing van het eerste lid, in afwijking van [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=16&z=2006-07-01&g=2006-07-01), ook als werkloos wordt beschouwd de werknemer die minder dan vijf arbeidsuren per kalenderweek heeft verloren, alsmede het recht op onverminderde doorbetaling van zijn loon over die uren.
 
-3. [Artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=17&z=2006-06-30&g=2006-06-30) is niet van toepassing op de in het eerste lid bedoelde werknemer.
+3. [Artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=17&z=2006-07-01&g=2006-07-01) is niet van toepassing op de in het eerste lid bedoelde werknemer.
 
 4. Bij de vaststelling van de uitkeringsduur op grond van afdeling II en III blijven perioden waarin recht op uitkering op grond van het eerste lid bestaat buiten beschouwing.
 
@@ -497,13 +497,13 @@ Recht op uitkering ontstaat voor de werknemer indien hij
 
 9. Het eerste lid, onderdeel b, is niet van toepassing op:
 
-- a. de werknemer, bedoeld in [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=18&z=2006-06-30&g=2006-06-30);
+- a. de werknemer, bedoeld in [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=18&z=2006-07-01&g=2006-07-01);
 
 - b. de werknemer wiens werkloosheid uitsluitend het gevolg is van verkorting van de werktijd waarvoor op grond van [artikel 8, derde lid, van het Buitengewoon Besluit Arbeidsverhoudingen 1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002014&artikel=8) ontheffing is verleend, en
 
 - c. de werknemer wiens werkloosheid is ontstaan na het ontstaan van het recht op de loongerelateerde uitkering van de werkhervattingsuitkering gedeeltelijk arbeidsgeschikten op grond van de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057).
 
-10. In afwijking van het eerste lid, onderdeel f, blijft het recht op uitkering bestaan ten aanzien van de werknemer die buiten Nederland verblijf houdt anders dan wegens vakantie, indien hij gedurende dat verblijf meewerkt aan activiteiten die bevorderlijk zijn voor zijn inschakeling in de arbeid als bedoeld in de [hoofdstukken VI](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=VI&z=2006-06-30&g=2006-06-30) en [XA](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=XA&z=2006-06-30&g=2006-06-30), mits:
+10. In afwijking van het eerste lid, onderdeel f, blijft het recht op uitkering bestaan ten aanzien van de werknemer die buiten Nederland verblijf houdt anders dan wegens vakantie, indien hij gedurende dat verblijf meewerkt aan activiteiten die bevorderlijk zijn voor zijn inschakeling in de arbeid als bedoeld in de [hoofdstukken VI](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=VI&z=2006-07-01&g=2006-07-01) en [XA](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=XA&z=2006-07-01&g=2006-07-01), mits:
 
 - a. die activiteiten niet langer duren dan zes maanden;
 
@@ -513,7 +513,7 @@ Recht op uitkering ontstaat voor de werknemer indien hij
 
 - d. het bedrag dat het Uitvoeringsinstituut werknemersverzekeringen is verschuldigd terzake van die activiteiten niet hoger is dan het op grond van [artikel 4.2, derde lid, van het Besluit SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&artikel=4.2) vastgestelde bedrag.
 
-11. Voor de toepassing van dit artikel wordt onder intentieverklaring verstaan: een ondertekende verklaring waarin de ondertekenaar aangeeft dat hij het voornemen heeft om een werknemer die meewerkt aan activiteiten die bevorderlijk zijn voor zijn inschakeling in de arbeid als bedoeld in de [hoofdstukken VI](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=VI&z=2006-06-30&g=2006-06-30) en [XA](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=XA&z=2006-06-30&g=2006-06-30), na afloop van die activiteiten in dienst te nemen.
+11. Voor de toepassing van dit artikel wordt onder intentieverklaring verstaan: een ondertekende verklaring waarin de ondertekenaar aangeeft dat hij het voornemen heeft om een werknemer die meewerkt aan activiteiten die bevorderlijk zijn voor zijn inschakeling in de arbeid als bedoeld in de [hoofdstukken VI](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=VI&z=2006-07-01&g=2006-07-01) en [XA](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=XA&z=2006-07-01&g=2006-07-01), na afloop van die activiteiten in dienst te nemen.
 
 ##### Artikel 19a
 
@@ -527,9 +527,9 @@ Vervallen
 
 - b. voor zover de werknemer niet langer werkloos is;
 
-- c. indien ter zake van na het ontstaan van het recht verrichte arbeid een nieuw recht op uitkering is ontstaan, voor zover het aantal arbeidsuren waarnaar beide rechten samen zijn berekend, vermeerderd met het resterend aantal arbeidsuren per kalenderweek, groter is dan het aantal arbeidsuren, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=16&z=2006-06-30&g=2006-06-30), voorafgaande aan het intreden van het verlies van arbeidsuren waarnaar het eerstgenoemde recht is berekend;
+- c. indien ter zake van na het ontstaan van het recht verrichte arbeid een nieuw recht op uitkering is ontstaan, voor zover het aantal arbeidsuren waarnaar beide rechten samen zijn berekend, vermeerderd met het resterend aantal arbeidsuren per kalenderweek, groter is dan het aantal arbeidsuren, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=16&z=2006-07-01&g=2006-07-01), voorafgaande aan het intreden van het verlies van arbeidsuren waarnaar het eerstgenoemde recht is berekend;
 
-- d. zodra de werknemer geen recht op uitkering heeft op grond van [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=19&z=2006-06-30&g=2006-06-30);
+- d. zodra de werknemer geen recht op uitkering heeft op grond van [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=19&z=2006-07-01&g=2006-07-01);
 
 - e. zodra de voor de werknemer geldende uitkeringsduur is verstreken.
 
@@ -537,15 +537,15 @@ Vervallen
 
 3. Op grond van het eerste lid, onderdeel **b**, eindigt het recht op uitkering geheel indien de werknemer:
 
-- a. al dan niet opeenvolgend een zodanig aantal uren arbeid als werknemer verricht dat een verlies aan arbeidsuren resteert van minder dan vijf en minder dan de helft van zijn arbeidsuren, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=16&z=2006-06-30&g=2006-06-30);
+- a. al dan niet opeenvolgend een zodanig aantal uren arbeid als werknemer verricht dat een verlies aan arbeidsuren resteert van minder dan vijf en minder dan de helft van zijn arbeidsuren, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=16&z=2006-07-01&g=2006-07-01);
 
-- b. beschikbaar is voor arbeid voor minder dan vijf en minder dan de helft van zijn arbeidsuren, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=16&z=2006-06-30&g=2006-06-30).
+- b. beschikbaar is voor arbeid voor minder dan vijf en minder dan de helft van zijn arbeidsuren, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=16&z=2006-07-01&g=2006-07-01).
 
 4. Op grond van het eerste lid, onderdeel **b**, eindigt het recht op uitkering gedeeltelijk indien de werknemer:
 
-- a. al dan niet opeenvolgend ten minste vijf of de helft van zijn arbeidsuren arbeid als werknemer verricht en nog een verlies aan arbeidsuren resteert van ten minste vijf of ten minste de helft van zijn arbeidsuren, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=16&z=2006-06-30&g=2006-06-30);
+- a. al dan niet opeenvolgend ten minste vijf of de helft van zijn arbeidsuren arbeid als werknemer verricht en nog een verlies aan arbeidsuren resteert van ten minste vijf of ten minste de helft van zijn arbeidsuren, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=16&z=2006-07-01&g=2006-07-01);
 
-- b. beschikbaar is voor arbeid voor minder arbeidsuren dan het aantal dat hij heeft verloren, doch voor ten minste vijf of ten minste de helft van zijn arbeidsuren, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=16&z=2006-06-30&g=2006-06-30).
+- b. beschikbaar is voor arbeid voor minder arbeidsuren dan het aantal dat hij heeft verloren, doch voor ten minste vijf of ten minste de helft van zijn arbeidsuren, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=16&z=2006-07-01&g=2006-07-01).
 
 5. Voor de werknemer op wie:
 
@@ -565,7 +565,7 @@ Vervallen
 
 ##### Artikel 21
 
-1. Indien het recht op uitkering op grond van [artikel 20, eerste lid, onderdeel a, b, c of d](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=20&z=2006-06-30&g=2006-06-30), geheel of gedeeltelijk is geëindigd en vervolgens de omstandigheid die tot dat eindigen heeft geleid heeft opgehouden te bestaan, herleeft het recht op uitkering met inachtneming van het tweede lid, de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=I&paragraaf=2&artikel=8&z=2006-06-30&g=2006-06-30) en het derde lid genoemde termijnen en de op grond van het vierde lid gestelde regels, voor zover geen nieuw recht op uitkering ingevolge dit hoofdstuk bestaat.
+1. Indien het recht op uitkering op grond van [artikel 20, eerste lid, onderdeel a, b, c of d](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=20&z=2006-07-01&g=2006-07-01), geheel of gedeeltelijk is geëindigd en vervolgens de omstandigheid die tot dat eindigen heeft geleid heeft opgehouden te bestaan, herleeft het recht op uitkering met inachtneming van het tweede lid, de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=I&paragraaf=2&artikel=8&z=2006-07-01&g=2006-07-01) en het derde lid genoemde termijnen en de op grond van het vierde lid gestelde regels, voor zover geen nieuw recht op uitkering ingevolge dit hoofdstuk bestaat.
 
 2. In afwijking van het eerste lid herleeft een recht dat geheel geëindigd is niet, indien:
 
@@ -579,9 +579,9 @@ Vervallen
 
 3. Een recht op uitkering dat geheel of gedeeltelijk is geëindigd:
 
-- a. wegens een omstandigheid als bedoeld in [artikel 19, eerste lid, onderdeel f, h of k](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=19&z=2006-06-30&g=2006-06-30); of
+- a. wegens een omstandigheid als bedoeld in [artikel 19, eerste lid, onderdeel f, h of k](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=19&z=2006-07-01&g=2006-07-01); of
 
-- b. op grond van [artikel 20, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=20&z=2006-06-30&g=2006-06-30), als gevolg van het niet kunnen voldoen aan de voorwaarde bedoeld in [artikel 16, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=16&z=2006-06-30&g=2006-06-30), wegens andere omstandigheden dan ziekte of arbeidsongeschiktheid of het volgen van scholing of opleiding, terzake waarvan de werknemer een uitkering ontvangt als bedoeld in [artikel 19, eerste lid, onderdelen a, b, c of d](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=19&z=2006-06-30&g=2006-06-30); of
+- b. op grond van [artikel 20, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=20&z=2006-07-01&g=2006-07-01), als gevolg van het niet kunnen voldoen aan de voorwaarde bedoeld in [artikel 16, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=16&z=2006-07-01&g=2006-07-01), wegens andere omstandigheden dan ziekte of arbeidsongeschiktheid of het volgen van scholing of opleiding, terzake waarvan de werknemer een uitkering ontvangt als bedoeld in [artikel 19, eerste lid, onderdelen a, b, c of d](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=19&z=2006-07-01&g=2006-07-01); of
 
 - c. wegens een combinatie van de hier bedoelde omstandigheden, kan, ook indien deze omstandigheden zich aaneensluitend voordoen, slechts herleven indien de periode tussen de eindiging van het recht en het vervallen van de omstandigheid of omstandigheden als hier bedoeld niet langer is dan zes maanden.
 
@@ -595,23 +595,23 @@ Vervallen
 
 2. Een aanvraag is gericht tot het UWV en wordt overeenkomstig [artikel 28 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=28) ingediend bij de CWI. Na de overdracht van de aanvraag door de CWI aan het UWV ingevolge [artikel 28, derde lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=28) wordt de aanvraag verder behandeld door het UWV.
 
-3. Op de toekenning en de beëindiging van een uitkering als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=18&z=2006-06-30&g=2006-06-30) of van een uitkering die verband houdt met een verleende ontheffing op grond van [artikel 8, derde lid, van het Buitengewoon Besluit Arbeidsverhoudingen 1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002014&artikel=8) zijn de [artikelen 3:40](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:40) en [3:45 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:45) niet van toepassing, indien redelijkerwijs mag worden aangenomen dat aan de bekendmaking van de beschikking geen behoefte bestaat.
+3. Op de toekenning en de beëindiging van een uitkering als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=18&z=2006-07-01&g=2006-07-01) of van een uitkering die verband houdt met een verleende ontheffing op grond van [artikel 8, derde lid, van het Buitengewoon Besluit Arbeidsverhoudingen 1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002014&artikel=8) zijn de [artikelen 3:40](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:40) en [3:45 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:45) niet van toepassing, indien redelijkerwijs mag worden aangenomen dat aan de bekendmaking van de beschikking geen behoefte bestaat.
 
 4. Verzoekt de belanghebbende binnen een redelijke termijn echter om bekendmaking van de in het derde lid bedoelde beschikking, dan wordt deze zo spoedig mogelijk verstrekt.
 
-5. Indien het een aanvraag betreft tot toekenning van een uitkering op grond van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=18&z=2006-06-30&g=2006-06-30) of [artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IV&artikel=61&z=2006-06-30&g=2006-06-30) dan wel van uitkering die verband houdt met een verleende ontheffing op grond van [artikel 8, derde lid, van het Buitengewoon Besluit Arbeidsverhoudingen 1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002014&artikel=8), wordt, in afwijking van het tweede lid, de aanvraag ingediend bij het UWV.
+5. Indien het een aanvraag betreft tot toekenning van een uitkering op grond van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=18&z=2006-07-01&g=2006-07-01) of [artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IV&artikel=61&z=2006-07-01&g=2006-07-01) dan wel van uitkering die verband houdt met een verleende ontheffing op grond van [artikel 8, derde lid, van het Buitengewoon Besluit Arbeidsverhoudingen 1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002014&artikel=8), wordt, in afwijking van het tweede lid, de aanvraag ingediend bij het UWV.
 
-6. Bij of krachtens algemene maatregel van bestuur kan worden bepaald dat categorieën van aanvragen om uitkering, in afwijking van het tweede lid en [artikel 26, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=2&artikel=26&z=2006-06-30&g=2006-06-30), bij het UWV in plaats van de CWI worden ingediend.
+6. Bij of krachtens algemene maatregel van bestuur kan worden bepaald dat categorieën van aanvragen om uitkering, in afwijking van het tweede lid en [artikel 26, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=2&artikel=26&z=2006-07-01&g=2006-07-01), bij het UWV in plaats van de CWI worden ingediend.
 
 ##### Artikel 22a
 
 1. Onverminderd het elders in deze wet bepaalde terzake van herziening of intrekking van een besluit tot toekenning van uitkering en terzake van weigering van uitkering, herziet het UWV een dergelijk besluit of trekt het dat in:
 
-- a. indien het niet of niet behoorlijk nakomen van een verplichting op grond van [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=2&artikel=24&z=2006-06-30&g=2006-06-30), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=2&artikel=25&z=2006-06-30&g=2006-06-30) of [26](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=2&artikel=26&z=2006-06-30&g=2006-06-30) heeft geleid tot het ten onrechte of tot een te hoog bedrag verlenen van uitkering;
+- a. indien het niet of niet behoorlijk nakomen van een verplichting op grond van [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=2&artikel=24&z=2006-07-01&g=2006-07-01), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=2&artikel=25&z=2006-07-01&g=2006-07-01) of [26](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=2&artikel=26&z=2006-07-01&g=2006-07-01) heeft geleid tot het ten onrechte of tot een te hoog bedrag verlenen van uitkering;
 
 - b. indien anderszins de uitkering ten onrechte of tot een te hoog bedrag is verleend;
 
-- c. indien het niet of niet behoorlijk nakomen van de verplichting bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=2&artikel=25&z=2006-06-30&g=2006-06-30) ertoe leidt dat niet kan worden vastgesteld of nog recht op uitkering bestaat.
+- c. indien het niet of niet behoorlijk nakomen van de verplichting bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=2&artikel=25&z=2006-07-01&g=2006-07-01) ertoe leidt dat niet kan worden vastgesteld of nog recht op uitkering bestaat.
 
 2. Indien daarvoor dringende redenen aanwezig zijn kan het UWV besluiten geheel of gedeeltelijk van herziening of intrekking af te zien.
 
@@ -653,7 +653,7 @@ Het recht op uitkering kan niet worden vastgesteld over perioden gelegen voor 26
 
 5. Bij algemene maatregel van bestuur worden nadere regels gesteld omtrent het begrip passende arbeid, bedoeld in het eerste en vierde lid.
 
-6. De werknemer is verplicht zich zodanig te gedragen dat hij door zijn doen en laten het Algemeen Werkloosheidsfonds, het sectorfonds of het Uitvoeringsfonds voor de overheid niet benadeelt of zou kunnen benadelen. Onder benadeling in de zin van dit artikel is niet begrepen een gedraging als bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=2&artikel=25&z=2006-06-30&g=2006-06-30).
+6. De werknemer is verplicht zich zodanig te gedragen dat hij door zijn doen en laten het Algemeen Werkloosheidsfonds, het sectorfonds of het Uitvoeringsfonds voor de overheid niet benadeelt of zou kunnen benadelen. Onder benadeling in de zin van dit artikel is niet begrepen een gedraging als bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=2&artikel=25&z=2006-07-01&g=2006-07-01).
 
 7. Onze Minister is bevoegd regels te stellen waarbij bepaalde groepen werknemers worden vrijgesteld van verplichtingen, hun op grond van het eerste lid, onderdeel **b**, onder 1°, 2° en 4°, opgelegd.
 
@@ -673,15 +673,15 @@ De werknemer is verplicht aan het UWV op zijn verzoek of onverwijld uit eigen be
 
 - d. zich als werkzoekende bij de CWI te laten registreren en die registratie tijdig te doen verlengen, indien hem daartoe het recht toekomt op grond van [artikel 25, derde lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=25);
 
-- e. mee te werken aan de activiteiten die bevorderlijk zijn voor zijn inschakeling in de arbeid, bedoeld in de [hoofdstukken VI](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=VI&z=2006-06-30&g=2006-06-30) en [XA](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=XA&z=2006-06-30&g=2006-06-30);
+- e. mee te werken aan de activiteiten die bevorderlijk zijn voor zijn inschakeling in de arbeid, bedoeld in de [hoofdstukken VI](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=VI&z=2006-07-01&g=2006-07-01) en [XA](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=XA&z=2006-07-01&g=2006-07-01);
 
 - f. mee te werken aan een scholing of opleiding die noodzakelijk wordt geacht voor zijn inschakeling in de arbeid, beschikbaar te zijn voor de voorzieningen, bedoeld in [artikel 7, eerste lid, onderdeel a, van de Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=7) en mee te werken aan het verkrijgen van die voorzieningen;
 
 - g. mee te werken aan een voor hem gewenst onderzoek naar zijn arbeidsgeschiktheid door een arts, een psycholoog of een beroepskeuze-adviseur;
 
-- h. te voldoen aan de andere voorwaarden die het UWV op grond van [artikel 101, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=VIII&artikel=101&z=2006-06-30&g=2006-06-30), stelt;
+- h. te voldoen aan de andere voorwaarden die het UWV op grond van [artikel 101, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=VIII&artikel=101&z=2006-07-01&g=2006-07-01), stelt;
 
-- i. de hem op grond van [hoofdstuk VI](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=VI&z=2006-06-30&g=2006-06-30) opgelegde verplichtingen na te komen; en
+- i. de hem op grond van [hoofdstuk VI](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=VI&z=2006-07-01&g=2006-07-01) opgelegde verplichtingen na te komen; en
 
 - j. de voorschriften op te volgen die het UWV stelt in verband met het genieten van vakantie tijdens de duur van de uitkering;
 
@@ -695,35 +695,35 @@ De werknemer is verplicht aan het UWV op zijn verzoek of onverwijld uit eigen be
 
 3. Onze Minister is bevoegd regels te stellen waarbij bepaalde groepen werknemers worden vrijgesteld van verplichtingen, hun op grond van het eerste lid, onderdelen d, f of g, opgelegd.
 
-4. Indien het een aangifte van werkloosheid betreft als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=18&z=2006-06-30&g=2006-06-30) of [artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IV&artikel=61&z=2006-06-30&g=2006-06-30) dan wel aangifte van werkloosheid die verband houdt met een verleende ontheffing op grond van [artikel 8, derde lid, van het Buitengewoon Besluit Arbeidsverhoudingen 1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002014&artikel=8), wordt, in afwijking van het eerste lid, onderdeel a, de aangifte gedaan bij het UWV.
+4. Indien het een aangifte van werkloosheid betreft als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=18&z=2006-07-01&g=2006-07-01) of [artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IV&artikel=61&z=2006-07-01&g=2006-07-01) dan wel aangifte van werkloosheid die verband houdt met een verleende ontheffing op grond van [artikel 8, derde lid, van het Buitengewoon Besluit Arbeidsverhoudingen 1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002014&artikel=8), wordt, in afwijking van het eerste lid, onderdeel a, de aangifte gedaan bij het UWV.
 
 5. Bij of krachtens algemene maatregel van bestuur kan worden bepaald dat categorieën van aangiften van werkloosheid, in afwijking van het eerste lid, onderdeel a, bij het UWV in plaats van de CWI worden gedaan.
 
 ##### Artikel 27
 
-1. Indien de werknemer een verplichting, hem op grond van [artikel 24, eerste lid, onderdeel a, of onderdeel b, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=2&artikel=24&z=2006-06-30&g=2006-06-30) opgelegd, niet is nagekomen, weigert het UWV de uitkering blijvend geheel, tenzij het niet nakomen van de verplichting de werknemer niet in overwegende mate kan worden verweten. In dat geval weigert het UWV de uitkering over een periode van 26 weken gedeeltelijk door het uitkeringspercentage te verlagen van 70 naar 35.
+1. Indien de werknemer een verplichting, hem op grond van [artikel 24, eerste lid, onderdeel a, of onderdeel b, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=2&artikel=24&z=2006-07-01&g=2006-07-01) opgelegd, niet is nagekomen, weigert het UWV de uitkering blijvend geheel, tenzij het niet nakomen van de verplichting de werknemer niet in overwegende mate kan worden verweten. In dat geval weigert het UWV de uitkering over een periode van 26 weken gedeeltelijk door het uitkeringspercentage te verlagen van 70 naar 35.
 
-2. Indien de werknemer een verplichting, hem op grond van [artikel 24, eerste lid, onderdeel b, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=2&artikel=24&z=2006-06-30&g=2006-06-30), opgelegd, niet is nagekomen, weigert het UWV de uitkering blijvend over het aantal uren waarover het recht op uitkering zou zijn geëindigd of niet zou zijn ontstaan indien de werknemer de betreffende arbeid zou hebben aanvaard of verkregen.
+2. Indien de werknemer een verplichting, hem op grond van [artikel 24, eerste lid, onderdeel b, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=2&artikel=24&z=2006-07-01&g=2006-07-01), opgelegd, niet is nagekomen, weigert het UWV de uitkering blijvend over het aantal uren waarover het recht op uitkering zou zijn geëindigd of niet zou zijn ontstaan indien de werknemer de betreffende arbeid zou hebben aanvaard of verkregen.
 
-3. Indien de werknemer een verplichting, hem op grond van de [artikelen 24, eerste lid, onderdeel b, onder 1° of 4°, of zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=2&artikel=24&z=2006-06-30&g=2006-06-30), of [26](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=2&artikel=26&z=2006-06-30&g=2006-06-30), [artikel 55, tweede lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=55) of [artikel 28, tweede lid, van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=28) opgelegd, niet of niet behoorlijk is nagekomen, dan wel de verplichting, bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=2&artikel=25&z=2006-06-30&g=2006-06-30) of de [artikelen 28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=28), en [29, eerste lid van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=29), niet binnen de door het UWV, onderscheidenlijk de CWI daarvoor vastgestelde termijn is nagekomen, weigert het UWV, de uitkering tijdelijk of blijvend, geheel of gedeeltelijk.
+3. Indien de werknemer een verplichting, hem op grond van de [artikelen 24, eerste lid, onderdeel b, onder 1° of 4°, of zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=2&artikel=24&z=2006-07-01&g=2006-07-01), of [26](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=2&artikel=26&z=2006-07-01&g=2006-07-01), [artikel 55, tweede lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=55) of [artikel 28, tweede lid, van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=28) opgelegd, niet of niet behoorlijk is nagekomen, dan wel de verplichting, bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=2&artikel=25&z=2006-07-01&g=2006-07-01) of de [artikelen 28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=28), en [29, eerste lid van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=29), niet binnen de door het UWV, onderscheidenlijk de CWI daarvoor vastgestelde termijn is nagekomen, weigert het UWV, de uitkering tijdelijk of blijvend, geheel of gedeeltelijk.
 
 4. Een maatregel als bedoeld in het derde lid wordt afgestemd op de ernst van de gedraging en de mate waarin de werknemer de gedraging verweten kan worden. Van het opleggen van een maatregel wordt in elk geval afgezien, indien elke vorm van verwijtbaarheid ontbreekt.
 
-5. Indien het niet tijdig nakomen van de verplichting, bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=2&artikel=25&z=2006-06-30&g=2006-06-30), of de [artikelen 28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=28), en [29, eerste lid van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=29) niet heeft geleid tot het ten onrechte of tot een te hoog bedrag verlenen van uitkering, of indien de werknemer zich niet houdt aan de voorschriften, bedoeld in [artikel 26, eerste lid, onderdelen a, b of d](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=2&artikel=26&z=2006-06-30&g=2006-06-30), kan het UWV afzien van het opleggen van een maatregel als bedoeld in het derde lid en volstaan met het geven van een schriftelijke waarschuwing ter zake van het niet tijdig nakomen van de verplichting, of het zich niet houden aan de voorschriften, tenzij het niet tijdig nakomen van de verplichting, of het zich niet houden aan de voorschriften, plaatsvindt binnen een periode van twee jaar te rekenen vanaf de datum waarop eerder aan de werknemer een zodanige waarschuwing is gegeven.
+5. Indien het niet tijdig nakomen van de verplichting, bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=2&artikel=25&z=2006-07-01&g=2006-07-01), of de [artikelen 28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=28), en [29, eerste lid van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=29) niet heeft geleid tot het ten onrechte of tot een te hoog bedrag verlenen van uitkering, of indien de werknemer zich niet houdt aan de voorschriften, bedoeld in [artikel 26, eerste lid, onderdelen a, b of d](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=2&artikel=26&z=2006-07-01&g=2006-07-01), kan het UWV afzien van het opleggen van een maatregel als bedoeld in het derde lid en volstaan met het geven van een schriftelijke waarschuwing ter zake van het niet tijdig nakomen van de verplichting, of het zich niet houden aan de voorschriften, tenzij het niet tijdig nakomen van de verplichting, of het zich niet houden aan de voorschriften, plaatsvindt binnen een periode van twee jaar te rekenen vanaf de datum waarop eerder aan de werknemer een zodanige waarschuwing is gegeven.
 
 6. Indien daarvoor dringende redenen aanwezig zijn kan het UWV besluiten van het opleggen van een maatregel af te zien.
 
-7. Het opleggen van een maatregel blijft achterwege indien voor dezelfde gedraging een boete als bedoeld in [artikel 27a](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=2&artikel=27&z=2006-06-30&g=2006-06-30) wordt opgelegd.
+7. Het opleggen van een maatregel blijft achterwege indien voor dezelfde gedraging een boete als bedoeld in [artikel 27a](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=2&artikel=27&z=2006-07-01&g=2006-07-01) wordt opgelegd.
 
 8. Het UWV stelt nadere regels met betrekking tot het derde en vierde lid.
 
 ##### Artikel 27a
 
-1. Indien de werknemer een verplichting als bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=2&artikel=25&z=2006-06-30&g=2006-06-30) van deze wet of [artikel 28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=28), of [29, eerste lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=29) niet of niet behoorlijk is nagekomen, legt het UWV hem een boete op van ten hoogste € 2 269.
+1. Indien de werknemer een verplichting als bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=2&artikel=25&z=2006-07-01&g=2006-07-01) van deze wet of [artikel 28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=28), of [29, eerste lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=29) niet of niet behoorlijk is nagekomen, legt het UWV hem een boete op van ten hoogste € 2 269.
 
 2. De hoogte van de boete wordt afgestemd op de ernst van de gedraging, de mate waarin de werknemer de gedraging verweten kan worden en de omstandigheden waarin hij verkeert. Van het opleggen van een boete wordt in elk geval afgezien, indien elke vorm van verwijtbaarheid ontbreekt.
 
-3. Indien het niet of niet behoorlijk nakomen van een verplichting als bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=2&artikel=25&z=2006-06-30&g=2006-06-30) van deze wet of [artikel 28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=28), of [29, eerste lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=29), niet heeft geleid tot het ten onrechte of tot een te hoog bedrag verlenen van uitkering, kan het UWV afzien van het opleggen van een boete als bedoeld in het eerste lid en volstaan met het geven van een schriftelijke waarschuwing ter zake van het niet of niet behoorlijk nakomen van de verplichting, tenzij het niet of niet behoorlijk nakomen van de verplichting plaatsvindt binnen een periode van twee jaar te rekenen vanaf de datum waarop eerder aan de werknemer een zodanige waarschuwing is gegeven.
+3. Indien het niet of niet behoorlijk nakomen van een verplichting als bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=2&artikel=25&z=2006-07-01&g=2006-07-01) van deze wet of [artikel 28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=28), of [29, eerste lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=29), niet heeft geleid tot het ten onrechte of tot een te hoog bedrag verlenen van uitkering, kan het UWV afzien van het opleggen van een boete als bedoeld in het eerste lid en volstaan met het geven van een schriftelijke waarschuwing ter zake van het niet of niet behoorlijk nakomen van de verplichting, tenzij het niet of niet behoorlijk nakomen van de verplichting plaatsvindt binnen een periode van twee jaar te rekenen vanaf de datum waarop eerder aan de werknemer een zodanige waarschuwing is gegeven.
 
 4. Indien daarvoor dringende redenen aanwezig zijn kan het UWV besluiten van het opleggen van een boete af te zien.
 
@@ -747,7 +747,7 @@ De werknemer is verplicht aan het UWV op zijn verzoek of onverwijld uit eigen be
 
 ##### Artikel 27c
 
-1. Het besluit waarbij de boete wordt opgelegd vermeldt de termijn of de termijnen waarbinnen deze moet worden betaald, alsmede de wijze waarop het besluit bij gebreke van tijdige betaling, overeenkomstig [artikel 27g](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=2&artikel=27g&z=2006-06-30&g=2006-06-30) zal worden tenuitvoergelegd.
+1. Het besluit waarbij de boete wordt opgelegd vermeldt de termijn of de termijnen waarbinnen deze moet worden betaald, alsmede de wijze waarop het besluit bij gebreke van tijdige betaling, overeenkomstig [artikel 27g](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=2&artikel=27g&z=2006-07-01&g=2006-07-01) zal worden tenuitvoergelegd.
 
 2. Op verzoek van de werknemer die het in het eerste lid bedoelde besluit wegens zijn gebrekkige kennis van de Nederlandse taal onvoldoende begrijpt, draagt het UWV er zoveel mogelijk zorg voor dat de in dat besluit vermelde informatie aan de werknemer wordt meegedeeld in een voor hem begrijpelijke taal.
 
@@ -763,7 +763,7 @@ De werknemer is verplicht aan het UWV op zijn verzoek of onverwijld uit eigen be
 
 ##### Artikel 27e
 
-1. Een boete wordt opgelegd binnen een jaar nadat het UWV de werknemer overeenkomstig het bepaalde in [artikel 27b, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=2&artikel=27b&z=2006-06-30&g=2006-06-30), in de gelegenheid heeft gesteld zijn zienswijze naar voren te brengen. Indien terzake aangifte is gedaan of proces-verbaal is opgemaakt en ingezonden vangt de termijn van een jaar aan op de dag na die waarop het openbaar ministerie aan het UWV heeft medegedeeld dat geen strafvervolging wordt ingesteld.
+1. Een boete wordt opgelegd binnen een jaar nadat het UWV de werknemer overeenkomstig het bepaalde in [artikel 27b, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=2&artikel=27b&z=2006-07-01&g=2006-07-01), in de gelegenheid heeft gesteld zijn zienswijze naar voren te brengen. Indien terzake aangifte is gedaan of proces-verbaal is opgemaakt en ingezonden vangt de termijn van een jaar aan op de dag na die waarop het openbaar ministerie aan het UWV heeft medegedeeld dat geen strafvervolging wordt ingesteld.
 
 2. Een boete wordt in elk geval niet opgelegd na verloop van vijf jaren nadat de desbetreffende gedraging heeft plaatsgevonden.
 
@@ -789,13 +789,13 @@ In afwijking van [artikel 8:69 van de Algemene wet bestuursrecht](https://wetten
 
 8. De tenuitvoerlegging van een besluit met toepassing van dit artikel geschiedt zodanig dat de werknemer blijft beschikken over een inkomen gelijk aan de beslagvrije voet bedoeld in de [artikelen 475c tot en met 475e van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=475c).
 
-9. Het achtste lid geldt niet, zolang de werknemer zijn verplichting bedoeld in [artikel 27a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=2&artikel=27a&z=2006-06-30&g=2006-06-30), niet of niet behoorlijk nakomt.
+9. Het achtste lid geldt niet, zolang de werknemer zijn verplichting bedoeld in [artikel 27a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=2&artikel=27a&z=2006-07-01&g=2006-07-01), niet of niet behoorlijk nakomt.
 
 ##### Artikel 28
 
-1. Indien het UWV een maatregel als bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=2&artikel=27&z=2006-06-30&g=2006-06-30) heeft opgelegd, zet het UWV in geval van herleving van het recht op uitkering als bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=21&z=2006-06-30&g=2006-06-30) of [52d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIB&afdeling=I&paragraaf=1&artikel=52d&z=2006-06-30&g=2006-06-30), een weigering van de uitkering voort.
+1. Indien het UWV een maatregel als bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=2&artikel=27&z=2006-07-01&g=2006-07-01) heeft opgelegd, zet het UWV in geval van herleving van het recht op uitkering als bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=21&z=2006-07-01&g=2006-07-01) of [52d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIB&afdeling=I&paragraaf=1&artikel=52d&z=2006-07-01&g=2006-07-01), een weigering van de uitkering voort.
 
-2. In afwijking van het eerste lid zet het UWV een weigering van de uitkering over de uren waarover het recht op uitkering ingevolge [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=21&z=2006-06-30&g=2006-06-30) herleeft niet voort, indien ter zake van arbeid verricht sinds de eerste dag waarop het recht op uitkering is ontstaan, is voldaan aan [artikel 52b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIB&afdeling=I&paragraaf=1&artikel=52b&z=2006-06-30&g=2006-06-30), en op grond van het derde lid van [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIB&afdeling=I&paragraaf=1&artikel=52b&z=2006-06-30&g=2006-06-30) geen recht op uitkering ingevolge hoofdstuk IIb is ontstaan.
+2. In afwijking van het eerste lid zet het UWV een weigering van de uitkering over de uren waarover het recht op uitkering ingevolge [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=21&z=2006-07-01&g=2006-07-01) herleeft niet voort, indien ter zake van arbeid verricht sinds de eerste dag waarop het recht op uitkering is ontstaan, is voldaan aan [artikel 52b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIB&afdeling=I&paragraaf=1&artikel=52b&z=2006-07-01&g=2006-07-01), en op grond van het derde lid van [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIB&afdeling=I&paragraaf=1&artikel=52b&z=2006-07-01&g=2006-07-01) geen recht op uitkering ingevolge hoofdstuk IIb is ontstaan.
 
 ##### Artikel 29
 
@@ -813,7 +813,7 @@ Bij een besluit tot herziening van de uitkering wordt mededeling gedaan van de h
 
 - b. recht op een lagere uitkering bestaat; of
 
-- c. de werknemer een verplichting, hem op grond van de [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=2&artikel=24&z=2006-06-30&g=2006-06-30), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=2&artikel=25&z=2006-06-30&g=2006-06-30) of [26](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=2&artikel=26&z=2006-06-30&g=2006-06-30) van deze wet of de [artikelen 28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=28), of [29, eerste lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=29) opgelegd, niet is nagekomen.
+- c. de werknemer een verplichting, hem op grond van de [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=2&artikel=24&z=2006-07-01&g=2006-07-01), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=2&artikel=25&z=2006-07-01&g=2006-07-01) of [26](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=2&artikel=26&z=2006-07-01&g=2006-07-01) van deze wet of de [artikelen 28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=28), of [29, eerste lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=29) opgelegd, niet is nagekomen.
 
 3. Indien een reïntegratiebedrijf aan het UWV heeft gemeld dat het gegronde vermoeden bestaat dat een persoon aan wie een uitkering op grond van deze wet is toegekend onvoldoende medewerking verleent aan de op hem betrekking hebbende werkzaamheden van het reïntegratiebedrijf, neemt het UWV een besluit omtrent de gehele of gedeeltelijke opschorting of schorsing van de betaling van de uitkering aan die persoon voor de duur van ten hoogste acht weken.
 
@@ -865,7 +865,7 @@ De uitkering die niet in ontvangst is genomen of is ingevorderd binnen drie maan
 
 3. Indien de werknemer wegens eindiging van een dienstbetrekking ouderdomspensioen ontvangt, wordt, voor zoveel nodig in afwijking van het eerste lid, de uitkering per dag niet hoger gesteld dan op het verschil tussen de uitkering zoals die is of zou zijn vastgesteld op de eerste werkdag na die eindiging en het bedrag van het pensioen per dag dat op die dag is ontvangen.
 
-4. Voor de toepassing van het derde lid wordt het dagloon zoals dat is of zou zijn vastgesteld op de eerste dag waarop ouderdomspensioen wordt ontvangen, voor zoveel nodig herzien overeenkomstig [artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=II&paragraaf=2&artikel=46&z=2006-06-30&g=2006-06-30).
+4. Voor de toepassing van het derde lid wordt het dagloon zoals dat is of zou zijn vastgesteld op de eerste dag waarop ouderdomspensioen wordt ontvangen, voor zoveel nodig herzien overeenkomstig [artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=II&paragraaf=2&artikel=46&z=2006-07-01&g=2006-07-01).
 
 5. In afwijking van het eerste lid worden de in onderdeel **a** van dat lid bedoelde inkomsten niet op de uitkering in mindering gebracht, indien zij:
 
@@ -891,19 +891,19 @@ De uitkering die niet in ontvangst is genomen of is ingevorderd binnen drie maan
 
 1. De uitkering wordt niet betaald over dagen, waarop de werknemer vakantie geniet en over bij of krachtens collectieve arbeidsovereenkomst aangewezen feest- en verplichte snipperdagen, en de werknemer vakantiebonnen of daarmee overeenkomende aanspraken, bestemd voor die vakantie-, feest- of snipperdagen heeft verkregen, mits deze vakantiebonnen of daarmee overeenkomende aanspraken zijn verstrekt als een deel van een uitkering op grond van dit hoofdstuk, dan wel naast een uitkering op grond van de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888), indien de ziekengeldverzekering is ontleend aan [artikel 7 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=7), of naast een uitkering op grond van [hoofdstuk 3, afdeling 2, paragraaf 1, van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&paragraaf=1), indien de werknemer gelijkgestelde was als bedoeld in [artikel 3:6, eerste lid, onderdeel b, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:6) op grond van een ziekengeldverzekering die is ontleend aan [artikel 7 van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=7).
 
-2. [Artikel 19, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=19&z=2006-06-30&g=2006-06-30), is van overeenkomstige toepassing met betrekking tot het eerste lid.
+2. [Artikel 19, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=19&z=2006-07-01&g=2006-07-01), is van overeenkomstige toepassing met betrekking tot het eerste lid.
 
 ##### Artikel 35
 
-Indien de werkloze werknemer arbeid als werknemer gaat verrichten gedurende minder dan vijf en minder dan de helft van de arbeidsuren, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=16&z=2006-06-30&g=2006-06-30), wordt de uitkering verminderd met 70% van hetgeen hij met die arbeid verdient.
+Indien de werkloze werknemer arbeid als werknemer gaat verrichten gedurende minder dan vijf en minder dan de helft van de arbeidsuren, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=16&z=2006-07-01&g=2006-07-01), wordt de uitkering verminderd met 70% van hetgeen hij met die arbeid verdient.
 
 ##### Artikel 35a
 
-Indien de werknemer deelneemt aan een voor hem naar het oordeel van het UWV noodzakelijke opleiding of scholing en het recht op uitkering op grond van [artikel 76](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=VI&artikel=76&z=2006-06-30&g=2006-06-30) blijft bestaan, worden op de uitkering geheel in mindering gebracht de inkomsten uit of in verband met de opleiding of scholing voor zover zij meer bedragen dan een nader door Onze Minister vast te stellen bedrag.
+Indien de werknemer deelneemt aan een voor hem naar het oordeel van het UWV noodzakelijke opleiding of scholing en het recht op uitkering op grond van [artikel 76](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=VI&artikel=76&z=2006-07-01&g=2006-07-01) blijft bestaan, worden op de uitkering geheel in mindering gebracht de inkomsten uit of in verband met de opleiding of scholing voor zover zij meer bedragen dan een nader door Onze Minister vast te stellen bedrag.
 
 ##### Artikel 35b
 
-1. Indien de werknemer meer dan één recht op uitkering heeft, wordt, indien tenminste één van die rechten ontstaan is uit hoofde van een dienstbetrekking als overheidswerknemer, voor de toepassing van de [artikelen 34](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=3&artikel=34&z=2006-06-30&g=2006-06-30), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=3&artikel=35&z=2006-06-30&g=2006-06-30) en [35a](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=3&artikel=35a&z=2006-06-30&g=2006-06-30) een volgorde in aanmerking genomen bij de vermindering van de uitkering.
+1. Indien de werknemer meer dan één recht op uitkering heeft, wordt, indien tenminste één van die rechten ontstaan is uit hoofde van een dienstbetrekking als overheidswerknemer, voor de toepassing van de [artikelen 34](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=3&artikel=34&z=2006-07-01&g=2006-07-01), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=3&artikel=35&z=2006-07-01&g=2006-07-01), [35a](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=3&artikel=35a&z=2006-07-01&g=2006-07-01) en [35aa](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=3&artikel=35aa&z=2006-07-01&g=2006-07-01) een volgorde in aanmerking genomen bij de vermindering van de uitkering.
 
 2. Bij de toepassing van het eerste lid worden de inkomsten bij voorrang in mindering gebracht op de uitkering waarmee zij de meeste samenhang hebben.
 
@@ -923,7 +923,7 @@ Indien tegelijkertijd recht bestaat op meer kortdurende uitkeringen en de som va
 
 ##### Artikel 36
 
-1. De uitkering die als gevolg van een besluit als bedoeld in [artikel 22a](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=2&artikel=22a&z=2006-06-30&g=2006-06-30) of [27](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=2&artikel=27&z=2006-06-30&g=2006-06-30) onverschuldigd is betaald, alsmede hetgeen anderszins onverschuldigd is betaald, wordt door het UWV teruggevorderd.
+1. De uitkering die als gevolg van een besluit als bedoeld in [artikel 22a](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=2&artikel=22a&z=2006-07-01&g=2006-07-01) of [27](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=2&artikel=27&z=2006-07-01&g=2006-07-01) onverschuldigd is betaald, alsmede hetgeen anderszins onverschuldigd is betaald, wordt door het UWV teruggevorderd.
 
 2. In afwijking van het eerste lid kan het UWV besluiten van terugvordering of van verdere terugvordering af te zien, indien degene van wie wordt teruggevorderd:
 
@@ -939,11 +939,11 @@ Indien tegelijkertijd recht bestaat op meer kortdurende uitkeringen en de som va
 
 - a. het gemiddeld inkomen van de belanghebbende in die periode de beslagvrije voet bedoeld in de [artikelen 475c](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=475c) en [475d van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=475d) niet te boven is gegaan; en
 
-- b. de terugvordering niet het gevolg is van het niet of niet behoorlijk nakomen van de verplichting, bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=2&artikel=25&z=2006-06-30&g=2006-06-30).
+- b. de terugvordering niet het gevolg is van het niet of niet behoorlijk nakomen van de verplichting, bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=2&artikel=25&z=2006-07-01&g=2006-07-01).
 
 4. Indien daarvoor dringende redenen aanwezig zijn kan het UWV besluiten geheel of gedeeltelijk van terugvordering af te zien.
 
-5. Het besluit tot terugvordering vermeldt hetgeen wordt teruggevorderd, de termijn of termijnen waarbinnen moet worden betaald, alsmede dat het besluit bij gebreke van tijdige betaling zal worden tenuitvoergelegd op de wijze als omschreven in [artikel 36a](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=3&artikel=36a&z=2006-06-30&g=2006-06-30).
+5. Het besluit tot terugvordering vermeldt hetgeen wordt teruggevorderd, de termijn of termijnen waarbinnen moet worden betaald, alsmede dat het besluit bij gebreke van tijdige betaling zal worden tenuitvoergelegd op de wijze als omschreven in [artikel 36a](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=3&artikel=36a&z=2006-07-01&g=2006-07-01).
 
 6. Degene van wie wordt teruggevorderd is verplicht desgevraagd aan het UWV de inlichtingen te verstrekken die voor de terugvordering van belang zijn.
 
@@ -953,11 +953,11 @@ Indien tegelijkertijd recht bestaat op meer kortdurende uitkeringen en de som va
 
 1. Het besluit tot terugvordering levert een executoriale titel op in de zin van het [Tweede Boek van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede).
 
-2. [Artikel 27g](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=2&artikel=27g&z=2006-06-30&g=2006-06-30) is van overeenkomstige toepassing, met dien verstande dat indien het gemiddeld inkomen van de belanghebbende gedurende drie jaar de beslagvrije voet bedoeld in de artikelen [475c](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=475c) en [475d van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=475d) niet te boven is gegaan, het UWV de aflossingsbedragen lager vaststelt.
+2. [Artikel 27g](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=2&artikel=27g&z=2006-07-01&g=2006-07-01) is van overeenkomstige toepassing, met dien verstande dat indien het gemiddeld inkomen van de belanghebbende gedurende drie jaar de beslagvrije voet bedoeld in de artikelen [475c](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=475c) en [475d van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=475d) niet te boven is gegaan, het UWV de aflossingsbedragen lager vaststelt.
 
 ##### Artikel 36b
 
-Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de [artikelen 36](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=3&artikel=36&z=2006-06-30&g=2006-06-30) en [36a](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=3&artikel=36a&z=2006-06-30&g=2006-06-30).
+Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de [artikelen 36](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=3&artikel=36&z=2006-07-01&g=2006-07-01) en [36a](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=3&artikel=36a&z=2006-07-01&g=2006-07-01).
 
 ##### Artikel 37
 
@@ -965,7 +965,7 @@ Ingeval het UWV een aan een overheidswerknemer toegekende uitkering op grond van
 
 - a. wordt de bedoelde uitkering of toeslag niet vermeerderd met de daarover door de werkgever verschuldigde premie op grond van [artikel 24, tweede lid, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=24) en wordt die uitkering of toeslag verminderd met het door de overheidswerknemer of gewezen overheidswerknemer verschuldigde deel van de premie op grond van dat lid;
 
-- b. treedt, in afwijking van [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=I&paragraaf=3&artikel=11&z=2006-06-30&g=2006-06-30), [artikel 10, derde lid, van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=10), en [artikel 11, derde lid, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=11), voorzover die artikelleden betrekking hebben op de premie bedoeld in [artikel 24, tweede lid, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=24), de overheidswerkgever niet in de plaats van het UWV;
+- b. treedt, in afwijking van [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=I&paragraaf=3&artikel=11&z=2006-07-01&g=2006-07-01), [artikel 10, derde lid, van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=10), en [artikel 11, derde lid, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=11), voorzover die artikelleden betrekking hebben op de premie bedoeld in [artikel 24, tweede lid, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=24), de overheidswerkgever niet in de plaats van het UWV;
 
 - c. wordt voor de inhouding, bedoeld in [artikel 32, eerste lid, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=32) onder loon niet verstaan de bedoelde uitkering of toeslag.
 
@@ -1033,7 +1033,7 @@ en
 
 40 jaren, vijf jaar.
 
-2. De duur van de loongerelateerde uitkering voor de werknemer die voldoet aan [artikel 17, onderdeel b, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=17&z=2006-06-30&g=2006-06-30), is bij een arbeidsverleden van minder dan 4 jaar zes maanden.
+2. De duur van de loongerelateerde uitkering voor de werknemer die voldoet aan [artikel 17, onderdeel b, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=17&z=2006-07-01&g=2006-07-01), is bij een arbeidsverleden van minder dan 4 jaar zes maanden.
 
 3. Het arbeidsverleden wordt berekend door samentelling van:
 
@@ -1043,19 +1043,19 @@ en
 
 4. Een kalenderjaar wordt in aanmerking genomen bij de berekening, bedoeld in het derde lid, onderdeel a, indien volgens de beschikking, bedoeld in [artikel 83i van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=83i), de werknemer in dat jaar over 52 of meer dagen loon heeft ontvangen.
 
-5. Bij de toepassing van het derde lid, onderdeel a, wordt, indien over een kalenderjaar een beschikking als bedoeld in het vierde lid niet is afgegeven, dat kalenderjaar in aanmerking genomen indien de werknemer aantoont daarin over 52 of meer dagen loon te hebben ontvangen. [Artikel 17b](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=17b&z=2006-06-30&g=2006-06-30) is van overeenkomstige toepassing.
+5. Bij de toepassing van het derde lid, onderdeel a, wordt, indien over een kalenderjaar een beschikking als bedoeld in het vierde lid niet is afgegeven, dat kalenderjaar in aanmerking genomen indien de werknemer aantoont daarin over 52 of meer dagen loon te hebben ontvangen. [Artikel 17b](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=17b&z=2006-07-01&g=2006-07-01) is van overeenkomstige toepassing.
 
 ##### Artikel 43
 
-1. Telkens nadat het recht op uitkering na gehele eindiging van dat recht is herleefd op grond van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=21&z=2006-06-30&g=2006-06-30), eindigt de loongerelateerde uitkering met inachtneming van het tweede en derde lid, zoveel later dan de in [artikel 42, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=II&paragraaf=1&artikel=42&z=2006-06-30&g=2006-06-30), genoemde periode als de periode tussen de eindiging en herleving van het recht op uitkering heeft geduurd.
+1. Telkens nadat het recht op uitkering na gehele eindiging van dat recht is herleefd op grond van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=21&z=2006-07-01&g=2006-07-01), eindigt de loongerelateerde uitkering met inachtneming van het tweede en derde lid, zoveel later dan de in [artikel 42, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=II&paragraaf=1&artikel=42&z=2006-07-01&g=2006-07-01), genoemde periode als de periode tussen de eindiging en herleving van het recht op uitkering heeft geduurd.
 
-2. Voor de vaststelling van de periode tussen de eindiging en de herleving van het recht op uitkering worden, telkens nadat het recht op uitkering geheel is geëindigd wegens ziekte, de eerste drie maanden waarin de werknemer een uitkering ontvangt als bedoeld in [artikel 19, eerste lid, onderdeel **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=19&z=2006-06-30&g=2006-06-30), buiten beschouwing gelaten.
+2. Voor de vaststelling van de periode tussen de eindiging en de herleving van het recht op uitkering worden, telkens nadat het recht op uitkering geheel is geëindigd wegens ziekte, de eerste drie maanden waarin de werknemer een uitkering ontvangt als bedoeld in [artikel 19, eerste lid, onderdeel **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=19&z=2006-07-01&g=2006-07-01), buiten beschouwing gelaten.
 
-3. Voor de bepaling van de periode van drie maanden bedoeld in het tweede lid, worden perioden waarover de in [artikel 19, eerste lid, onderdeel **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=19&z=2006-06-30&g=2006-06-30), bedoelde uitkeringen worden ontvangen samengeteld, indien zij elkaar met een onderbreking van minder dan vier weken opvolgen.
+3. Voor de bepaling van de periode van drie maanden bedoeld in het tweede lid, worden perioden waarover de in [artikel 19, eerste lid, onderdeel **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=19&z=2006-07-01&g=2006-07-01), bedoelde uitkeringen worden ontvangen samengeteld, indien zij elkaar met een onderbreking van minder dan vier weken opvolgen.
 
-4. [Artikel 19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=19&z=2006-06-30&g=2006-06-30), is van toepassing op het tweede en derde lid.
+4. [Artikel 19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=19&z=2006-07-01&g=2006-07-01), is van toepassing op het tweede en derde lid.
 
-#### § 2. De hoogte van de uitkering
+#### § 1. De duur van de uitkering
 
 ##### Artikel 44
 
@@ -1063,7 +1063,7 @@ De uitkering op grond van deze afdeling wordt berekend naar het dagloon.
 
 ##### Artikel 45
 
-1. Voor de berekening van de uitkering waarop op grond van deze afdeling recht bestaat wordt als dagloon beschouwd 1/261 deel van het loon dat de werknemer in de periode van één jaar, die eindigt op de laatste dag van het aangiftetijdvak voorafgaande aan het aangiftetijdvak waarin het arbeidsurenverlies, bedoeld in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=16&z=2006-06-30&g=2006-06-30), is ingetreden, verdiende, doch ten hoogste het bedrag, bedoeld in [artikel 17, eerste lid, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=17), met betrekking tot een loontijdvak van een dag.
+1. Voor de berekening van de uitkering waarop op grond van deze afdeling recht bestaat wordt als dagloon beschouwd 1/261 deel van het loon dat de werknemer in de periode van één jaar, die eindigt op de laatste dag van het aangiftetijdvak voorafgaande aan het aangiftetijdvak waarin het arbeidsurenverlies, bedoeld in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=16&z=2006-07-01&g=2006-07-01), is ingetreden, verdiende, doch ten hoogste het bedrag, bedoeld in [artikel 17, eerste lid, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=17), met betrekking tot een loontijdvak van een dag.
 
 2. Bij of krachtens algemene maatregel van bestuur worden ten aanzien van de vaststelling van het dagloon, bedoeld in het eerste lid, en de herziening ervan nadere en zo nodig afwijkende regels gesteld.
 
@@ -1079,7 +1079,7 @@ De uitkering op grond van deze afdeling wordt berekend naar het dagloon.
 
 1. De uitkering bedraagt per dag, de zaterdagen en zondagen niet meegerekend, 70% van het dagloon.
 
-2. Voor de werknemer die bij het ontstaan van zijn recht op uitkering zijn arbeidsuren, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=16&z=2006-06-30&g=2006-06-30), niet volledig heeft verloren of wiens verlies van arbeidsuren tijdens de duur van de uitkering wijziging ondergaat, bedraagt de uitkering 70% van het dagloon, vermenigvuldigd met het aantal uren werkloosheid per kalenderweek, gedeeld door het aantal arbeidsuren voorafgaande aan het intreden van het verlies van arbeidsuren waarnaar zijn recht is berekend. Het aantal arbeidsuren voorafgaande aan het intreden van het verlies van arbeidsuren wordt bepaald met toepassing van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=16&z=2006-06-30&g=2006-06-30).
+2. Voor de werknemer die bij het ontstaan van zijn recht op uitkering zijn arbeidsuren, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=16&z=2006-07-01&g=2006-07-01), niet volledig heeft verloren of wiens verlies van arbeidsuren tijdens de duur van de uitkering wijziging ondergaat, bedraagt de uitkering 70% van het dagloon, vermenigvuldigd met het aantal uren werkloosheid per kalenderweek, gedeeld door het aantal arbeidsuren voorafgaande aan het intreden van het verlies van arbeidsuren waarnaar zijn recht is berekend. Het aantal arbeidsuren voorafgaande aan het intreden van het verlies van arbeidsuren wordt bepaald met toepassing van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=16&z=2006-07-01&g=2006-07-01).
 
 3. Het tweede lid vindt geen toepassing voor zover bij de vaststelling onderscheidenlijk een herziening van het dagloon met de omstandigheden, bedoeld in dat lid, rekening is gehouden.
 
@@ -1117,29 +1117,29 @@ Vervallen
 
 ##### Artikel 52a
 
-Met inachtneming van de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=16&z=2006-06-30&g=2006-06-30) en [52**b** tot en met 52**d**](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIB&afdeling=I&paragraaf=1&artikel=52b&z=2006-06-30&g=2006-06-30) en de daarop berustende bepalingen heeft de werknemer die werkloos is recht op kortdurende uitkering.
+Met inachtneming van de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=16&z=2006-07-01&g=2006-07-01) en [52**b** tot en met 52**d**](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIB&afdeling=I&paragraaf=1&artikel=52b&z=2006-07-01&g=2006-07-01) en de daarop berustende bepalingen heeft de werknemer die werkloos is recht op kortdurende uitkering.
 
 ##### Artikel 52b
 
-1. Recht op uitkering ontstaat voor de werknemer die in 39 weken onmiddellijk voorafgaande aan de eerste dag van werkloosheid in ten minste 26 weken als werknemer arbeid heeft verricht, doch die geen recht op loongerelateerde uitkering heeft omdat hij noch aan de voorwaarde van [artikel 17, onderdeel **b**, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=17&z=2006-06-30&g=2006-06-30), noch aan de voorwaarde van [artikel 17, onderdeel **b**, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=17&z=2006-06-30&g=2006-06-30), voldoet.
+1. Recht op uitkering ontstaat voor de werknemer die in 39 weken onmiddellijk voorafgaande aan de eerste dag van werkloosheid in ten minste 26 weken als werknemer arbeid heeft verricht, doch die geen recht op loongerelateerde uitkering heeft omdat hij noch aan de voorwaarde van [artikel 17, onderdeel **b**, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=17&z=2006-07-01&g=2006-07-01), noch aan de voorwaarde van [artikel 17, onderdeel **b**, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=17&z=2006-07-01&g=2006-07-01), voldoet.
 
-2. In afwijking van het eerste lid heeft een werknemer die terzake van werkloosheid uitsluitend als gevolg van vorst, sneeuwval, hoog water of andere buitengewone omstandigheden op grond van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=18&z=2006-06-30&g=2006-06-30) recht op uitkering heeft, terzake van dezelfde werkloosheid geen recht op kortdurende uitkering.
+2. In afwijking van het eerste lid heeft een werknemer die terzake van werkloosheid uitsluitend als gevolg van vorst, sneeuwval, hoog water of andere buitengewone omstandigheden op grond van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=18&z=2006-07-01&g=2006-07-01) recht op uitkering heeft, terzake van dezelfde werkloosheid geen recht op kortdurende uitkering.
 
-3. In afwijking van het eerste lid ontstaat geen recht op uitkering voor het aantal arbeidsuren waarover een recht op uitkering ingevolge [hoofdstuk IIa](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&z=2006-06-30&g=2006-06-30) herleeft, dan wel, indien een recht ingevolge [hoofdstuk IIa](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&z=2006-06-30&g=2006-06-30) na herleving nogmaals herleeft, voor het totaal aantal uren van dat recht na de laatste herleving. Indien de resterende duur van het recht op uitkering op grond van [hoofdstuk IIa](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&z=2006-06-30&g=2006-06-30) bij herleving korter is dan zes maanden, ontstaat, nadat de geldende duur van die uitkering is verstreken en met inachtneming van de overige voorwaarden daarvoor, recht op uitkering voor het aantal arbeidsuren waarover het recht op uitkering op grond van [hoofdstuk IIa](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&z=2006-06-30&g=2006-06-30) is geëindigd, en bedraagt de duur van die uitkering zes maanden verminderd met de duur van de herleefde uitkering op grond van [hoofdstuk IIa](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&z=2006-06-30&g=2006-06-30). Geen recht op uitkering ontstaat indien, na toepassing van de eerste of tweede zin, het recht op uitkering dat zou ontstaan een omvang zou hebben van minder dan vijf arbeidsuren per kalenderweek en minder dan de helft van de arbeidsuren per kalenderweek.
+3. In afwijking van het eerste lid ontstaat geen recht op uitkering voor het aantal arbeidsuren waarover een recht op uitkering ingevolge [hoofdstuk IIa](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&z=2006-07-01&g=2006-07-01) herleeft, dan wel, indien een recht ingevolge [hoofdstuk IIa](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&z=2006-07-01&g=2006-07-01) na herleving nogmaals herleeft, voor het totaal aantal uren van dat recht na de laatste herleving. Indien de resterende duur van het recht op uitkering op grond van [hoofdstuk IIa](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&z=2006-07-01&g=2006-07-01) bij herleving korter is dan zes maanden, ontstaat, nadat de geldende duur van die uitkering is verstreken en met inachtneming van de overige voorwaarden daarvoor, recht op uitkering voor het aantal arbeidsuren waarover het recht op uitkering op grond van [hoofdstuk IIa](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&z=2006-07-01&g=2006-07-01) is geëindigd, en bedraagt de duur van die uitkering zes maanden verminderd met de duur van de herleefde uitkering op grond van [hoofdstuk IIa](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&z=2006-07-01&g=2006-07-01). Geen recht op uitkering ontstaat indien, na toepassing van de eerste of tweede zin, het recht op uitkering dat zou ontstaan een omvang zou hebben van minder dan vijf arbeidsuren per kalenderweek en minder dan de helft van de arbeidsuren per kalenderweek.
 
 ##### Artikel 52c
 
-De [artikelen 17a](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=17a&z=2006-06-30&g=2006-06-30), [17c](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=17c&z=2006-06-30&g=2006-06-30), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=19&z=2006-06-30&g=2006-06-30), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=20&z=2006-06-30&g=2006-06-30), en de daarop berustende bepalingen, zijn van overeenkomstige toepassing.
+De [artikelen 17a](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=17a&z=2006-07-01&g=2006-07-01), [17c](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=17c&z=2006-07-01&g=2006-07-01), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=19&z=2006-07-01&g=2006-07-01), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=20&z=2006-07-01&g=2006-07-01), en de daarop berustende bepalingen, zijn van overeenkomstige toepassing.
 
 ##### Artikel 52d
 
-1. Indien het recht op uitkering op grond van [artikel 52**c**](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIB&afdeling=I&paragraaf=1&artikel=52c&z=2006-06-30&g=2006-06-30) in verbinding met [artikel 20, eerste lid, onderdeel **a**, **b**, **c** of **d**](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=20&z=2006-06-30&g=2006-06-30), geheel of gedeeltelijk is geëindigd en vervolgens de omstandigheid die tot dat eindigen heeft geleid heeft opgehouden te bestaan, herleeft het recht op uitkering met inachtneming van de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=I&paragraaf=2&artikel=8&z=2006-06-30&g=2006-06-30) en [artikel 21, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=21&z=2006-06-30&g=2006-06-30), genoemde termijnen, voor zover geen nieuw recht op uitkering ingevolge dit hoofdstuk of ingevolge [hoofdstuk II**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&z=2006-06-30&g=2006-06-30) bestaat.
+1. Indien het recht op uitkering op grond van [artikel 52**c**](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIB&afdeling=I&paragraaf=1&artikel=52c&z=2006-07-01&g=2006-07-01) in verbinding met [artikel 20, eerste lid, onderdeel **a**, **b**, **c** of **d**](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=20&z=2006-07-01&g=2006-07-01), geheel of gedeeltelijk is geëindigd en vervolgens de omstandigheid die tot dat eindigen heeft geleid heeft opgehouden te bestaan, herleeft het recht op uitkering met inachtneming van de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=I&paragraaf=2&artikel=8&z=2006-07-01&g=2006-07-01) en [artikel 21, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=21&z=2006-07-01&g=2006-07-01), genoemde termijnen, voor zover geen nieuw recht op uitkering ingevolge dit hoofdstuk of ingevolge [hoofdstuk II**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&z=2006-07-01&g=2006-07-01) bestaat.
 
-2. [Artikel 21, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=21&z=2006-06-30&g=2006-06-30), en de daarop berustende bepalingen zijn van overeenkomstige toepassing.
+2. [Artikel 21, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=21&z=2006-07-01&g=2006-07-01), en de daarop berustende bepalingen zijn van overeenkomstige toepassing.
 
-3. Indien ter zake van na het ontstaan van het recht op kortdurende uitkering verrichte arbeid recht op loongerelateerde uitkering is ontstaan nadat het recht op kortdurende uitkering is herleefd, eindigt het recht op kortdurende uitkering voor zover het aantal arbeidsuren waarnaar beide rechten samen zijn berekend, vermeerderd met het resterende aantal arbeidsuren per kalenderweek, groter is dan het aantal arbeidsuren bedoeld in [artikel 52**c**](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIB&afdeling=I&paragraaf=1&artikel=52c&z=2006-06-30&g=2006-06-30) in verbinding met [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=16&z=2006-06-30&g=2006-06-30), voorafgaande aan het intreden van het verlies van arbeidsuren waarnaar het eerstgenoemde recht is berekend.
+3. Indien ter zake van na het ontstaan van het recht op kortdurende uitkering verrichte arbeid recht op loongerelateerde uitkering is ontstaan nadat het recht op kortdurende uitkering is herleefd, eindigt het recht op kortdurende uitkering voor zover het aantal arbeidsuren waarnaar beide rechten samen zijn berekend, vermeerderd met het resterende aantal arbeidsuren per kalenderweek, groter is dan het aantal arbeidsuren bedoeld in [artikel 52**c**](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIB&afdeling=I&paragraaf=1&artikel=52c&z=2006-07-01&g=2006-07-01) in verbinding met [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=16&z=2006-07-01&g=2006-07-01), voorafgaande aan het intreden van het verlies van arbeidsuren waarnaar het eerstgenoemde recht is berekend.
 
-4. Indien na het ontstaan van het recht op kortdurende uitkering aansluitend of na verrichte arbeid het recht op loongerelateerde uitkering is herleefd, eindigt het recht op kortdurende uitkering voor zover het aantal arbeidsuren waarnaar beide rechten zijn berekend, vermeerderd met het resterende aantal arbeidsuren per kalenderweek, groter is dan het aantal arbeidsuren, bedoeld in [artikel 52a](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIB&afdeling=I&paragraaf=1&artikel=52a&z=2006-06-30&g=2006-06-30) in verbinding met [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=16&z=2006-06-30&g=2006-06-30), voorafgaande aan het intreden van het verlies van arbeidsuren op grond waarvan het recht op kortdurende uitkering is ontstaan.
+4. Indien na het ontstaan van het recht op kortdurende uitkering aansluitend of na verrichte arbeid het recht op loongerelateerde uitkering is herleefd, eindigt het recht op kortdurende uitkering voor zover het aantal arbeidsuren waarnaar beide rechten zijn berekend, vermeerderd met het resterende aantal arbeidsuren per kalenderweek, groter is dan het aantal arbeidsuren, bedoeld in [artikel 52a](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIB&afdeling=I&paragraaf=1&artikel=52a&z=2006-07-01&g=2006-07-01) in verbinding met [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=16&z=2006-07-01&g=2006-07-01), voorafgaande aan het intreden van het verlies van arbeidsuren op grond waarvan het recht op kortdurende uitkering is ontstaan.
 
 5. Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot het geheel of gedeeltelijk eindigen van rechten op loongerelateerde uitkering enerzijds en op kortdurende uitkering anderzijds, bij samenloop van deze rechten.
 
@@ -1147,13 +1147,13 @@ De [artikelen 17a](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA
 
 ##### Artikel 52e
 
-De [artikelen 22 tot en met 27g](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=2&artikel=22&z=2006-06-30&g=2006-06-30), [28, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=2&artikel=28&z=2006-06-30&g=2006-06-30), en de daarop berustende bepalingen zijn van toepassing.
+De [artikelen 22 tot en met 27g](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=2&artikel=22&z=2006-07-01&g=2006-07-01), [28, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=2&artikel=28&z=2006-07-01&g=2006-07-01), en de daarop berustende bepalingen zijn van toepassing.
 
 #### § 2. Het geldend maken van het recht op kortdurende uitkering
 
 ##### Artikel 52f
 
-De [artikelen 30 tot en met 41](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=3&artikel=30&z=2006-06-30&g=2006-06-30), alsmede de daarop berustende bepalingen, zijn van toepassing.
+De [artikelen 30 tot en met 41](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=3&artikel=30&z=2006-07-01&g=2006-07-01), alsmede de daarop berustende bepalingen, zijn van toepassing.
 
 ### Afdeling II. De duur van de kortdurende uitkering
 
@@ -1163,29 +1163,29 @@ De duur van de kortdurende uitkering is zes maanden, te rekenen vanaf de eerste 
 
 ##### Artikel 52h
 
-1. Telkens nadat het recht op kortdurende uitkering na gehele eindiging van dat recht is herleefd op grond van [artikel 52**d**](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIB&afdeling=I&paragraaf=1&artikel=52d&z=2006-06-30&g=2006-06-30), eindigt de kortdurende uitkering met inachtneming van het tweede lid, zoveel later dan de in [artikel 52**g**](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIB&afdeling=II&artikel=52g&z=2006-06-30&g=2006-06-30) genoemde periode als de periode tussen de eindiging en de herleving van het recht op kortdurende uitkering heeft geduurd.
+1. Telkens nadat het recht op kortdurende uitkering na gehele eindiging van dat recht is herleefd op grond van [artikel 52**d**](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIB&afdeling=I&paragraaf=1&artikel=52d&z=2006-07-01&g=2006-07-01), eindigt de kortdurende uitkering met inachtneming van het tweede lid, zoveel later dan de in [artikel 52**g**](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIB&afdeling=II&artikel=52g&z=2006-07-01&g=2006-07-01) genoemde periode als de periode tussen de eindiging en de herleving van het recht op kortdurende uitkering heeft geduurd.
 
-2. [Artikel 43, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=II&paragraaf=1&artikel=43&z=2006-06-30&g=2006-06-30), is van toepassing.
+2. [Artikel 43, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=II&paragraaf=1&artikel=43&z=2006-07-01&g=2006-07-01), is van toepassing.
 
-### Afdeling III. De hoogte van de kortdurende uitkering
+### Afdeling II. De duur van de kortdurende uitkering
 
 ##### Artikel 52i
 
 1. De kortdurende uitkering bedraagt per dag 70% van het minimumloon.
 
-2. Voor de werknemer die bij het ontstaan van zijn recht op uitkering zijn arbeidsuren, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=16&z=2006-06-30&g=2006-06-30), uit de dienstbetrekking waaruit hij werkloos werd niet volledig heeft verloren of wiens verlies van arbeidsuren tijdens de duur van de uitkering wijziging ondergaat, bedraagt de uitkering 70% van het minimumloon, vermenigvuldigd met het aantal uren werkloosheid per kalenderweek, gedeeld door het aantal arbeidsuren voorafgaande aan het intreden van het verlies van arbeidsuren waarnaar zijn recht is berekend. Het aantal arbeidsuren voorafgaande aan het verlies van arbeidsuren wordt bepaald met toepassing van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=16&z=2006-06-30&g=2006-06-30).
+2. Voor de werknemer die bij het ontstaan van zijn recht op uitkering zijn arbeidsuren, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=16&z=2006-07-01&g=2006-07-01), uit de dienstbetrekking waaruit hij werkloos werd niet volledig heeft verloren of wiens verlies van arbeidsuren tijdens de duur van de uitkering wijziging ondergaat, bedraagt de uitkering 70% van het minimumloon, vermenigvuldigd met het aantal uren werkloosheid per kalenderweek, gedeeld door het aantal arbeidsuren voorafgaande aan het intreden van het verlies van arbeidsuren waarnaar zijn recht is berekend. Het aantal arbeidsuren voorafgaande aan het verlies van arbeidsuren wordt bepaald met toepassing van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=16&z=2006-07-01&g=2006-07-01).
 
 3. Voor de werknemer die op de eerste dag van herleving van het recht op werkloosheidsuitkering, een arbeidsongeschiktheidsuitkering op grond van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) naar een arbeidsongeschiktheid van minder dan 80% ontvangt of zou ontvangen indien [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=25), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=28), [30](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=30) of [33 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=33) niet op hem van toepassing zou zijn bedraagt de uitkering per dag 70% van een percentage van het minimumloon. Het percentage is gelijk aan het verschil tussen 100 en het midden van de arbeidsongeschiktheidsklasse waarin de werknemer is ingedeeld.
 
-4. Indien het dagloon lager is dan het minimumloon wordt bij de toepassing van het eerste en tweede lid voor «minimumloon» gelezen «dagloon». De [artikelen 45](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=II&paragraaf=2&artikel=45&z=2006-06-30&g=2006-06-30), [46](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=II&paragraaf=2&artikel=46&z=2006-06-30&g=2006-06-30) en [47, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=II&paragraaf=2&artikel=47&z=2006-06-30&g=2006-06-30), en de daarop berustende bepalingen zijn van overeenkomstige toepassing.
+4. Indien het dagloon lager is dan het minimumloon wordt bij de toepassing van het eerste en tweede lid voor «minimumloon» gelezen «dagloon». De [artikelen 45](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=II&paragraaf=2&artikel=45&z=2006-07-01&g=2006-07-01), [46](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=II&paragraaf=2&artikel=46&z=2006-07-01&g=2006-07-01) en [47, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=II&paragraaf=2&artikel=47&z=2006-07-01&g=2006-07-01), en de daarop berustende bepalingen zijn van overeenkomstige toepassing.
 
 5. Op de herziening van de uitkering als gevolg van een wijziging van het minimumloon zijn de [artikelen 3:41](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:41) en [3:45 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:45) niet van toepassing.
 
-6. De kortdurende uitkering per dag bedraagt het op grond van de vorige leden berekende bedrag, verminderd met de hoogte van de uitkering op grond van [hoofdstuk IIa](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&z=2006-06-30&g=2006-06-30), indien:
+6. De kortdurende uitkering per dag bedraagt het op grond van de vorige leden berekende bedrag, verminderd met de hoogte van de uitkering op grond van [hoofdstuk IIa](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&z=2006-07-01&g=2006-07-01), indien:
 
-- a. het recht op kortdurende uitkering is ontstaan na toepassing van [artikel 52b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIB&afdeling=I&paragraaf=1&artikel=52b&z=2006-06-30&g=2006-06-30); of
+- a. het recht op kortdurende uitkering is ontstaan na toepassing van [artikel 52b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIB&afdeling=I&paragraaf=1&artikel=52b&z=2006-07-01&g=2006-07-01); of
 
-- b. tegelijkertijd een recht op kortdurende uitkering herleeft en een recht op uitkering op grond van [hoofdstuk IIa](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&z=2006-06-30&g=2006-06-30) ontstaat.
+- b. tegelijkertijd een recht op kortdurende uitkering herleeft en een recht op uitkering op grond van [hoofdstuk IIa](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&z=2006-07-01&g=2006-07-01) ontstaat.
 
 ### Hoofdstuk IIC
 
@@ -1197,7 +1197,7 @@ Vervallen
 
 ##### Artikel 53
 
-1. Het UWV laat, op zijn verzoek, tot de vrijwillige werkloosheidsverzekering toe de persoon, jonger dan 65 jaar, die op grond van het bepaalde bij of krachtens [artikel 3, tweede, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=I&paragraaf=2&artikel=3&z=2006-06-30&g=2006-06-30), niet als werknemer wordt beschouwd, en
+1. Het UWV laat, op zijn verzoek, tot de vrijwillige werkloosheidsverzekering toe de persoon, jonger dan 65 jaar, die op grond van het bepaalde bij of krachtens [artikel 3, tweede, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=I&paragraaf=2&artikel=3&z=2006-07-01&g=2006-07-01), niet als werknemer wordt beschouwd, en
 
 - a. wiens werknemerschap is geëindigd en die buiten Nederland woont, aldaar direct aansluitend op de beëindiging van zijn werknemerschap een dienstbetrekking vervult voor de duur van maximaal vijf jaar en wiens werkgever binnen Nederland woont of gevestigd is;
 
@@ -1209,7 +1209,7 @@ Vervallen
 
 - e. die Nederlander is en buiten Nederland werkzaamheden verricht die worden bekostigd door het Rijk en die tevens in opdracht van het Rijk worden verricht in het kader van een wettelijke taakomschrijving of ter uitvoering van een internationaal verdrag dan wel een daarmee gelijk te stellen overeenkomst of een besluit van een volkenrechtelijke organisatie.
 
-2. Het UWV laat, op zijn verzoek, tot de vrijwillige werkloosheidsverzekering toe de persoon, jonger dan 65 jaar, wiens arbeidsverhouding op grond van [artikel 6, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=I&paragraaf=2&artikel=6&z=2006-06-30&g=2006-06-30), niet als dienstbetrekking wordt beschouwd.
+2. Het UWV laat, op zijn verzoek, tot de vrijwillige werkloosheidsverzekering toe de persoon, jonger dan 65 jaar, wiens arbeidsverhouding op grond van [artikel 6, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=I&paragraaf=2&artikel=6&z=2006-07-01&g=2006-07-01), niet als dienstbetrekking wordt beschouwd.
 
 3. Voorafgaand aan het vervullen van een dienstbetrekking, bedoeld in het eerste lid, onderdeel a, dient de persoon gedurende een aaneengesloten periode van tenminste één jaar de hoedanigheid van werknemer te bezitten.
 
@@ -1221,23 +1221,23 @@ Vervallen
 
 2. Het verzoek om toelating als bedoeld in het eerste lid moet worden ingediend:
 
-- a. door de in [artikel 53, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=III&artikel=53&z=2006-06-30&g=2006-06-30), bedoelde persoon: binnen vier weken na de dag, waarop zijn werknemerschap is geëindigd;
+- a. door de in [artikel 53, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=III&artikel=53&z=2006-07-01&g=2006-07-01), bedoelde persoon: binnen vier weken na de dag, waarop zijn werknemerschap is geëindigd;
 
-- b. door de in [artikel 53, eerste lid, onderdeel b, c en e](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=III&artikel=53&z=2006-06-30&g=2006-06-30) bedoelde persoon: binnen vier weken na de dag van zijn vertrek naar het buitenland dan wel, indien de in [artikel 53, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=III&artikel=53&z=2006-06-30&g=2006-06-30), bedoelde werkzaamheden worden verricht in Nederland, binnen vier weken na de dag waarop die werkzaamheden een aanvang hebben genomen;
+- b. door de in [artikel 53, eerste lid, onderdeel b, c en e](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=III&artikel=53&z=2006-07-01&g=2006-07-01) bedoelde persoon: binnen vier weken na de dag van zijn vertrek naar het buitenland dan wel, indien de in [artikel 53, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=III&artikel=53&z=2006-07-01&g=2006-07-01), bedoelde werkzaamheden worden verricht in Nederland, binnen vier weken na de dag waarop die werkzaamheden een aanvang hebben genomen;
 
-- c. door de in [artikel 53, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=III&artikel=53&z=2006-06-30&g=2006-06-30), bedoelde persoon: binnen vier weken na de dag, waarop zijn werkzaamheden buiten Nederland een aanvang hebben genomen.
+- c. door de in [artikel 53, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=III&artikel=53&z=2006-07-01&g=2006-07-01), bedoelde persoon: binnen vier weken na de dag, waarop zijn werkzaamheden buiten Nederland een aanvang hebben genomen.
 
 3. Het UWV is bevoegd te verklaren dat een verzoek om toelating tot de vrijwillige werkloosheidsverzekering, ingediend na de ingevolge het tweede lid geldende termijn, tijdig is ingekomen, indien de persoon die het verzoek heeft gedaan, redelijkerwijs niet geacht kan worden in verzuim te zijn geweest.
 
 4. De vrijwillige werkloosheidsverzekering vangt aan:
 
-- a. voor de in [artikel 53, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=III&artikel=53&z=2006-06-30&g=2006-06-30), bedoelde persoon: op de dag na die, waarop zijn werknemerschap is geëindigd;
+- a. voor de in [artikel 53, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=III&artikel=53&z=2006-07-01&g=2006-07-01), bedoelde persoon: op de dag na die, waarop zijn werknemerschap is geëindigd;
 
-- b. voor de in [artikel 53, eerste lid, onderdeel b, c en e](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=III&artikel=53&z=2006-06-30&g=2006-06-30) bedoelde persoon: op de dag van zijn vertrek naar het buitenland dan wel, indien de in [artikel 53, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=III&artikel=53&z=2006-06-30&g=2006-06-30), bedoelde werkzaamheden worden verricht in Nederland, op de dag waarop die werkzaamheden een aanvang hebben genomen;
+- b. voor de in [artikel 53, eerste lid, onderdeel b, c en e](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=III&artikel=53&z=2006-07-01&g=2006-07-01) bedoelde persoon: op de dag van zijn vertrek naar het buitenland dan wel, indien de in [artikel 53, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=III&artikel=53&z=2006-07-01&g=2006-07-01), bedoelde werkzaamheden worden verricht in Nederland, op de dag waarop die werkzaamheden een aanvang hebben genomen;
 
-- c. voor de in [artikel 53, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=III&artikel=53&z=2006-06-30&g=2006-06-30), bedoelde persoon: op de dag waarop zijn werkzaamheden een aanvang hebben genomen;
+- c. voor de in [artikel 53, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=III&artikel=53&z=2006-07-01&g=2006-07-01), bedoelde persoon: op de dag waarop zijn werkzaamheden een aanvang hebben genomen;
 
-- d. voor de in [artikel 53, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=III&artikel=53&z=2006-06-30&g=2006-06-30), bedoelde persoon: op de dag van ontvangst van zijn verzoek om toelating.
+- d. voor de in [artikel 53, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=III&artikel=53&z=2006-07-01&g=2006-07-01), bedoelde persoon: op de dag van ontvangst van zijn verzoek om toelating.
 
 ##### Artikel 55
 
@@ -1253,19 +1253,19 @@ Het UWV beëindigt de vrijwillige werkloosheidsverzekering:
 
 - a. op verzoek van de vrijwillig verzekerde met ingang van een door hem te bepalen datum;
 
-- b. met ingang van de dag, waarop de termijn van vijf jaar, bedoeld in [artikel 53, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=III&artikel=53&z=2006-06-30&g=2006-06-30), is verstreken;
+- b. met ingang van de dag, waarop de termijn van vijf jaar, bedoeld in [artikel 53, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=III&artikel=53&z=2006-07-01&g=2006-07-01), is verstreken;
 
-- c. met ingang van de dag, waarop de werkzaamheden bedoeld in [artikel 53, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=III&artikel=53&z=2006-06-30&g=2006-06-30) worden beëindigd;
+- c. met ingang van de dag, waarop de werkzaamheden bedoeld in [artikel 53, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=III&artikel=53&z=2006-07-01&g=2006-07-01) worden beëindigd;
 
 - d. met ingang van de dag waarop de vrijwillig verzekerde verplicht verzekerd wordt ingevolge deze wet;
 
 - e. indien de verschuldigde premie over een periode van twee volle kalendermaanden niet, niet volledig of niet-tijdig is betaald; of
 
-- f. indien niet langer wordt voldaan aan andere vereisten voor toelating tot de vrijwillige verzekering, bedoeld in [artikel 53, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=III&artikel=53&z=2006-06-30&g=2006-06-30).
+- f. indien niet langer wordt voldaan aan andere vereisten voor toelating tot de vrijwillige verzekering, bedoeld in [artikel 53, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=III&artikel=53&z=2006-07-01&g=2006-07-01).
 
 ##### Artikel 57
 
-De persoon, bedoeld in [artikel 53, eerste lid, onderdeel a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=III&artikel=53&z=2006-06-30&g=2006-06-30), die werkloos is, heeft eerst recht op uitkering na terugkeer in Nederland.
+De persoon, bedoeld in [artikel 53, eerste lid, onderdeel a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=III&artikel=53&z=2006-07-01&g=2006-07-01), die werkloos is, heeft eerst recht op uitkering na terugkeer in Nederland.
 
 ##### Artikel 58
 
@@ -1275,7 +1275,7 @@ De persoon, bedoeld in [artikel 53, eerste lid, onderdeel a, b en c](https://wet
 
 - b. het loon of het inkomen dat hij in geval van werkloosheid naar het oordeel van het UWV derft.
 
-2. Voor de vaststelling van de hoogte van het recht op uitkering op grond van de vrijwillige werkloosheidsverzekering wordt, zonodig in afwijking van [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=II&paragraaf=2&artikel=45&z=2006-06-30&g=2006-06-30) en de daarop berustende bepalingen, onder dagloon verstaan het in het eerste lid bedoelde dagloon.
+2. Voor de vaststelling van de hoogte van het recht op uitkering op grond van de vrijwillige werkloosheidsverzekering wordt, zonodig in afwijking van [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=II&paragraaf=2&artikel=45&z=2006-07-01&g=2006-07-01) en de daarop berustende bepalingen, onder dagloon verstaan het in het eerste lid bedoelde dagloon.
 
 ##### Artikel 59
 
@@ -1285,7 +1285,7 @@ Het UWV stelt nadere regels met betrekking tot de vrijwillige werkloosheidsverze
 
 - b. het einde van de vrijwillige werkloosheidsverzekering;
 
-- c. het dagloon, bedoeld in [artikel 58, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=III&artikel=58&z=2006-06-30&g=2006-06-30).
+- c. het dagloon, bedoeld in [artikel 58, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=III&artikel=58&z=2006-07-01&g=2006-07-01).
 
 ##### Artikel 60
 
@@ -1297,29 +1297,29 @@ Voor zover bij of krachtens dit hoofdstuk niet anders is bepaald, zijn de overig
 
 1. Een werknemer heeft recht op uitkering op grond van dit hoofdstuk, indien hij van een werkgever, die in staat van faillissement is verklaard, aan wie surséance van betaling is verleend, ten aanzien van wie de schuldsaneringsregeling natuurlijke personen van toepassing is, of die anderszins verkeert in de blijvende toestand dat hij heeft opgehouden te betalen, loon, vakantiegeld, of vakantiebijslag te vorderen heeft of indien hij geldelijk nadeel kan ondervinden doordat deze werkgever bedragen die hij in verband met de dienstbetrekking met de werknemer aan derden verschuldigd is, niet heeft betaald.
 
-2. Over de in [artikel 64, onderdeel **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IV&artikel=64&z=2006-06-30&g=2006-06-30), bedoelde termijn van opzegging heeft de werknemer slechts recht op uitkering op grond van dit hoofdstuk, voor zover hij arbeidsuren heeft verloren en beschikbaar is om arbeid te aanvaarden als bedoeld in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=16&z=2006-06-30&g=2006-06-30), of voor zover hij voor de in het eerste lid bedoelde werkgever arbeid blijft verrichten. Aan de werknemer die wegens ziekte, gebreken, zwangerschap of bevalling ongeschikt is tot het verrichten van zijn arbeid of een uitkering ontvangt op grond van [hoofdstuk 3 van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3), wordt het in de vorige volzin bedoelde vereiste van beschikbaarheid om arbeid te aanvaarden niet gesteld.
+2. Over de in [artikel 64, onderdeel **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IV&artikel=64&z=2006-07-01&g=2006-07-01), bedoelde termijn van opzegging heeft de werknemer slechts recht op uitkering op grond van dit hoofdstuk, voor zover hij arbeidsuren heeft verloren en beschikbaar is om arbeid te aanvaarden als bedoeld in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=16&z=2006-07-01&g=2006-07-01), of voor zover hij voor de in het eerste lid bedoelde werkgever arbeid blijft verrichten. Aan de werknemer die wegens ziekte, gebreken, zwangerschap of bevalling ongeschikt is tot het verrichten van zijn arbeid of een uitkering ontvangt op grond van [hoofdstuk 3 van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3), wordt het in de vorige volzin bedoelde vereiste van beschikbaarheid om arbeid te aanvaarden niet gesteld.
 
 ##### Artikel 62
 
-1. Geen recht op uitkering op grond van dit hoofdstuk heeft de werknemer, wiens dienstbetrekking met de werkgever reeds was geëindigd voordat de werkgever kwam te verkeren in een toestand als bedoeld in [artikel 61, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IV&artikel=61&z=2006-06-30&g=2006-06-30), tenzij:
+1. Geen recht op uitkering op grond van dit hoofdstuk heeft de werknemer, wiens dienstbetrekking met de werkgever reeds was geëindigd voordat de werkgever kwam te verkeren in een toestand als bedoeld in [artikel 61, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IV&artikel=61&z=2006-07-01&g=2006-07-01), tenzij:
 
 - a. een duidelijke samenhang bestaat tussen de omstandigheden die tot het eindigen van de dienstbetrekking leidden en de omstandigheden, die tot die toestand hebben geleid;
 
-- b. de werknemer een recht heeft op betaling van loon, vakantiegeld, vakantiebijslag of andere bedragen als bedoeld in [artikel 61, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IV&artikel=61&z=2006-06-30&g=2006-06-30), dat geen verband houdt met een toestand als bedoeld in [artikel 61, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IV&artikel=61&z=2006-06-30&g=2006-06-30), en dat niet geldend kan worden gemaakt uitsluitend wegens die toestand.
+- b. de werknemer een recht heeft op betaling van loon, vakantiegeld, vakantiebijslag of andere bedragen als bedoeld in [artikel 61, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IV&artikel=61&z=2006-07-01&g=2006-07-01), dat geen verband houdt met een toestand als bedoeld in [artikel 61, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IV&artikel=61&z=2006-07-01&g=2006-07-01), en dat niet geldend kan worden gemaakt uitsluitend wegens die toestand.
 
-2. Indien de werkgever, bedoeld in [artikel 61, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IV&artikel=61&z=2006-06-30&g=2006-06-30), een vaste inrichting heeft op het grondgebied van ten minste één andere lidstaat van de Europese Unie of een in ten minste één andere lidstaat van de Europese Unie wonende of gevestigde vaste vertegenwoordiger heeft, bestaat slechts recht op uitkering op grond van dit hoofdstuk indien de werknemer zijn arbeid voor deze werkgever gewoonlijk verricht of verrichtte voor een vaste inrichting van de werkgever in Nederland onderscheidenlijk een in Nederland wonende of gevestigde vaste vertegenwoordiger van de werkgever.
+2. Indien de werkgever, bedoeld in [artikel 61, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IV&artikel=61&z=2006-07-01&g=2006-07-01), een vaste inrichting heeft op het grondgebied van ten minste één andere lidstaat van de Europese Unie of een in ten minste één andere lidstaat van de Europese Unie wonende of gevestigde vaste vertegenwoordiger heeft, bestaat slechts recht op uitkering op grond van dit hoofdstuk indien de werknemer zijn arbeid voor deze werkgever gewoonlijk verricht of verrichtte voor een vaste inrichting van de werkgever in Nederland onderscheidenlijk een in Nederland wonende of gevestigde vaste vertegenwoordiger van de werkgever.
 
 ##### Artikel 63
 
-1. De werknemer, wiens werkgever verkeert in een toestand als bedoeld in [artikel 61, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IV&artikel=61&z=2006-06-30&g=2006-06-30), is verplicht:
+1. De werknemer, wiens werkgever verkeert in een toestand als bedoeld in [artikel 61, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IV&artikel=61&z=2006-07-01&g=2006-07-01), is verplicht:
 
 - a. indien geen tijdige betaling van loon, vakantiegeld of vakantiebijslag heeft plaatsgevonden, binnen een week na de dag waarop hij deze betaling normaal zou hebben ontvangen daarvan aangifte te doen bij het UWV; en
 
-- b. binnen een week na de dag waarop het hem redelijkerwijs duidelijk moet zijn geweest dat zijn werkgever de bedragen, bedoeld in [artikel 61, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IV&artikel=61&z=2006-06-30&g=2006-06-30), niet heeft betaald, daarvan aangifte te doen bij het UWV.
+- b. binnen een week na de dag waarop het hem redelijkerwijs duidelijk moet zijn geweest dat zijn werkgever de bedragen, bedoeld in [artikel 61, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IV&artikel=61&z=2006-07-01&g=2006-07-01), niet heeft betaald, daarvan aangifte te doen bij het UWV.
 
 2. Indien de werknemer een verplichting hem op grond van het eerste lid opgelegd, niet of niet behoorlijk is nagekomen, weigert het Uitvoeringsinstituut werknemersverzekeringen de uitkering op grond van dit hoofdstuk tijdelijk of blijvend, geheel of gedeeltelijk.
 
-3. Indien het de werknemer voor de totstandkoming van de dienstbetrekking of voor een wijziging in de arbeidsvoorwaarden tijdens de dienstbetrekking redelijkerwijs duidelijk moet zijn geweest dat in verband met een toestand als bedoeld in [artikel 61, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IV&artikel=61&z=2006-06-30&g=2006-06-30), geen of slechts ten dele betaling zou plaatsvinden van loon, vakantiegeld, vakantiebijslag of aan derden verschuldigde bedragen in verband met de dienstbetrekking van de werknemer, is het tweede lid van overeenkomstige toepassing.
+3. Indien het de werknemer voor de totstandkoming van de dienstbetrekking of voor een wijziging in de arbeidsvoorwaarden tijdens de dienstbetrekking redelijkerwijs duidelijk moet zijn geweest dat in verband met een toestand als bedoeld in [artikel 61, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IV&artikel=61&z=2006-07-01&g=2006-07-01), geen of slechts ten dele betaling zou plaatsvinden van loon, vakantiegeld, vakantiebijslag of aan derden verschuldigde bedragen in verband met de dienstbetrekking van de werknemer, is het tweede lid van overeenkomstige toepassing.
 
 ##### Artikel 64
 
@@ -1333,7 +1333,7 @@ Het recht op uitkering op grond van dit hoofdstuk omvat:
 
 ##### Artikel 65
 
-Op de uitkering, bedoeld in [artikel 64](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IV&artikel=64&z=2006-06-30&g=2006-06-30), worden geheel in mindering gebracht de inkomsten uit arbeid als werknemer en uit werkzaamheden als bedoeld in [artikel 16, tweede lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=16&z=2006-06-30&g=2006-06-30), alsmede inkomsten wegens loonderving over de in die onderdelen bedoelde periode, tenzij de werknemer deze inkomsten reeds ontving naast het loon uit de dienstbetrekking uit hoofde waarvan hij recht op uitkering op grond van dit hoofdstuk heeft.
+Op de uitkering, bedoeld in [artikel 64](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IV&artikel=64&z=2006-07-01&g=2006-07-01), worden geheel in mindering gebracht de inkomsten uit arbeid als werknemer en uit werkzaamheden als bedoeld in [artikel 16, tweede lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=16&z=2006-07-01&g=2006-07-01), alsmede inkomsten wegens loonderving over de in die onderdelen bedoelde periode, tenzij de werknemer deze inkomsten reeds ontving naast het loon uit de dienstbetrekking uit hoofde waarvan hij recht op uitkering op grond van dit hoofdstuk heeft.
 
 ##### Artikel 66
 
@@ -1353,7 +1353,7 @@ Voor de toepassing van dit hoofdstuk wordt:
 
 ##### Artikel 68
 
-1. De [artikelen 17 tot en met 21](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=17&z=2006-06-30&g=2006-06-30), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=2&artikel=28&z=2006-06-30&g=2006-06-30), [41](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=3&artikel=41&z=2006-06-30&g=2006-06-30), en [52**a** tot en met 52**i**](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIB&afdeling=I&paragraaf=1&artikel=52a&z=2006-06-30&g=2006-06-30) zijn niet van toepassing op het recht op uitkering, het geldend maken van het recht op uitkering en de betaling van de uitkering op grond van dit hoofdstuk.
+1. De [artikelen 17 tot en met 21](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=17&z=2006-07-01&g=2006-07-01), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=2&artikel=28&z=2006-07-01&g=2006-07-01), [41](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=3&artikel=41&z=2006-07-01&g=2006-07-01), en [52**a** tot en met 52**i**](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIB&afdeling=I&paragraaf=1&artikel=52a&z=2006-07-01&g=2006-07-01) zijn niet van toepassing op het recht op uitkering, het geldend maken van het recht op uitkering en de betaling van de uitkering op grond van dit hoofdstuk.
 
 2. Voor zover bij of krachtens dit hoofdstuk niet anders is bepaald zijn de overige artikelen van deze wet en de daarop berustende bepalingen, voor zoveel nodig, van overeenkomstige toepassing op het recht op uitkering, het geldend maken van het recht op uitkering en de betaling van de uitkering op grond van dit hoofdstuk.
 
@@ -1377,9 +1377,9 @@ Vervallen
 
 1. Het UWV heeft tot taak de inschakeling in de arbeid te bevorderen van:
 
-- a. werknemers, niet zijnde overheidswerknemers, die recht op uitkering hebben op grond van [hoofdstuk IIa](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&z=2006-06-30&g=2006-06-30) of [IIb](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIB&z=2006-06-30&g=2006-06-30),
+- a. werknemers, niet zijnde overheidswerknemers, die recht op uitkering hebben op grond van [hoofdstuk IIa](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&z=2006-07-01&g=2006-07-01) of [IIb](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIB&z=2006-07-01&g=2006-07-01),
 
-- b. werknemers, niet zijnde overheidswerknemers, die kunnen aantonen dat de dienstbetrekking binnen vier maanden zal eindigen en van wie naar het oordeel van de CWI redelijkerwijs valt aan te nemen dat zij recht zullen hebben op een uitkering op grond van [hoofdstuk IIa](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&z=2006-06-30&g=2006-06-30) of [IIb](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIB&z=2006-06-30&g=2006-06-30).
+- b. werknemers, niet zijnde overheidswerknemers, die kunnen aantonen dat de dienstbetrekking binnen vier maanden zal eindigen en van wie naar het oordeel van de CWI redelijkerwijs valt aan te nemen dat zij recht zullen hebben op een uitkering op grond van [hoofdstuk IIa](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&z=2006-07-01&g=2006-07-01) of [IIb](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIB&z=2006-07-01&g=2006-07-01).
 
 2. Het eerste lid is niet van toepassing op werknemers als bedoeld in het eerste lid, indien het UWV met burgemeester en wethouders van een gemeente overeenkomen dat op die werknemers [artikel 7, eerste lid, aanhef en onderdeel a, van de Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=7) van toepassing is.
 
@@ -1393,11 +1393,17 @@ Vervallen
 
 ##### Artikel 72a
 
-De overheidswerkgever heeft tot taak de inschakeling in de arbeid te bevorderen van een persoon die uit hoofde van een dienstbetrekking als overheidswerknemer met die overheidswerkgever recht heeft op uitkering op grond van [hoofdstuk IIa](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&z=2006-06-30&g=2006-06-30) of [IIb](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIB&z=2006-06-30&g=2006-06-30).
+1. De overheidswerkgever heeft tot taak de inschakeling in de arbeid te bevorderen van:
+
+- a. een persoon die uit hoofde van een dienstbetrekking als overheidswerknemer met die overheidswerkgever recht heeft op uitkering op grond van [hoofdstuk IIa](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&z=2006-07-01&g=2006-07-01) of [IIb](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIB&z=2006-07-01&g=2006-07-01);
+
+- b. een overheidswerknemer die kan aantonen dat de dienstbetrekking binnen vier maanden zal eindigen en van wie naar het oordeel van de CWI redelijkerwijs valt aan te nemen dat hij recht zullen hebben op een uitkering op grond van [hoofdstuk IIa](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&z=2006-07-01&g=2006-07-01) of [IIb](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIB&z=2006-07-01&g=2006-07-01).
+
+2. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot het ten behoeve van een persoon als bedoeld in het eerste lid sluiten van een individuele reïntegratieovereenkomst met een reïntegratiebedrijf.
 
 ##### Artikel 73
 
-De werknemer die recht heeft op een uitkering op grond van deze wet heeft recht op ondersteuning bij arbeidsinschakeling en, met inachtneming van de daarvoor geldende wettelijke bepalingen, op de naar het oordeel van het UWV noodzakelijk geachte voorziening gericht op arbeidsinschakeling.
+De werknemer die recht heeft op een uitkering op grond van deze wet heeft recht op ondersteuning bij arbeidsinschakeling en, met inachtneming van de daarvoor geldende wettelijke bepalingen, op de naar het oordeel van het UWV of de overheidswerkgever noodzakelijk geachte voorziening gericht op arbeidsinschakeling.
 
 ##### Artikel 74
 
@@ -1409,11 +1415,11 @@ Onze Minister is bevoegd regels te stellen op grond waarvan, in bij die regels a
 
 ##### Artikel 76
 
-1. Indien de werknemer die recht heeft op een uitkering op grond van [hoofdstuk IIa](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&z=2006-06-30&g=2006-06-30) of [IIb](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIB&z=2006-06-30&g=2006-06-30), deelneemt of gaat deelnemen aan een voor hem, naar het oordeel van het UWV, noodzakelijke opleiding of scholing, blijft volgens door Onze Minister te stellen regels het recht op uitkering op grond van het desbetreffende hoofdstuk bestaan.
+1. Indien de werknemer die recht heeft op een uitkering op grond van [hoofdstuk IIa](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&z=2006-07-01&g=2006-07-01) of [IIb](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIB&z=2006-07-01&g=2006-07-01), deelneemt of gaat deelnemen aan een voor hem, naar het oordeel van het UWV, noodzakelijke opleiding of scholing, blijft volgens door Onze Minister te stellen regels het recht op uitkering op grond van het desbetreffende hoofdstuk bestaan.
 
 2. In de door Onze Minister te stellen regels, die voor verschillende groepen werknemers verschillend kunnen luiden, worden in ieder geval voorschriften en beperkingen gegeven met betrekking tot de aard, de omvang en de duur van de opleiding of scholing als bedoeld in het eerste en derde lid.
 
-3. In afwijking van het eerste lid, blijft het recht op uitkering op grond van [hoofdstuk IIa](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&z=2006-06-30&g=2006-06-30) of [IIb](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIB&z=2006-06-30&g=2006-06-30) van de herbeoordeelde bestaan totdat de, naar het oordeel van het UWV noodzakelijke opleiding of scholing is beëindigd, indien de opleiding of scholing deel uit maakt van een plan als bedoeld in [artikel 29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=2&artikel=29&z=2006-06-30&g=2006-06-30), dat binnen drie maanden na de datum van verlaging of intrekking van de arbeidsongeschiktheidsuitkering is opgesteld en met de opleiding of scholing is aangevangen voor de duur van de uitkering verstrijkt.
+3. In afwijking van het eerste lid, blijft het recht op uitkering op grond van [hoofdstuk IIa](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&z=2006-07-01&g=2006-07-01) of [IIb](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIB&z=2006-07-01&g=2006-07-01) van de herbeoordeelde bestaan totdat de, naar het oordeel van het UWV noodzakelijke opleiding of scholing is beëindigd, indien de opleiding of scholing deel uit maakt van een plan als bedoeld in [artikel 29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=2&artikel=29&z=2006-07-01&g=2006-07-01), dat binnen drie maanden na de datum van verlaging of intrekking van de arbeidsongeschiktheidsuitkering is opgesteld en met de opleiding of scholing is aangevangen voor de duur van de uitkering verstrijkt.
 
 4. Onder herbeoordeelde als bedoeld in het derde lid wordt verstaan: de werknemer wiens arbeidsongeschiktheidsuitkering is verlaagd of ingetrokken als gevolg van de toepassing van [artikel 34, vierde lid, van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=34), [artikel 35, vijfde lid, van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=35) of [artikel 28, vijfde lid, van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=28), of de persoon, bedoeld in [artikel 2, derde lid, van het Besluit eenmalige herbeoordelingen arbeidsongeschiktheidswetten](https://wetten.overheid.nl/jci1.3:c:BWBR0017207&artikel=2), wiens arbeidsongeschiktheidsuitkering is verlaagd of ingetrokken.
 
@@ -1423,7 +1429,7 @@ Vervallen
 
 ##### Artikel 78
 
-De werknemer, ten aanzien van wie [artikel 75](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=VI&artikel=75&z=2006-06-30&g=2006-06-30), [76](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=VI&artikel=76&z=2006-06-30&g=2006-06-30), [76a](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=VI&artikel=76a&z=2006-06-30&g=2006-06-30) of 77 wordt toegepast, wordt geacht werkloos te zijn en te blijven zolang die toepassing duurt.
+De werknemer, ten aanzien van wie [artikel 75](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=VI&artikel=75&z=2006-07-01&g=2006-07-01), [76](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=VI&artikel=76&z=2006-07-01&g=2006-07-01), [76a](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=VI&artikel=76a&z=2006-07-01&g=2006-07-01), 77 of [77a](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=VI&artikel=77a&z=2006-07-01&g=2006-07-01) wordt toegepast, wordt geacht werkloos te zijn en te blijven zolang die toepassing duurt.
 
 ### Hoofdstuk VII. Financiering
 
@@ -1441,7 +1447,7 @@ De werknemer, ten aanzien van wie [artikel 75](https://wetten.overheid.nl/jci1.3
 
 1. Het UWV verhaalt op de overheidswerkgever tot wie de dienstbetrekking bestond uit hoofde waarvan de overheidswerknemer de in onderdeel a bedoelde uitkering ontvangt:
 
-- a. de op grond van [hoofdstuk IIa](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&z=2006-06-30&g=2006-06-30) of [IIb](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIB&z=2006-06-30&g=2006-06-30) te betalen uitkering aan die overheidswerknemer, met uitzondering van de premie verschuldigd over een uitkering, als bedoeld in [artikel 24, tweede lid, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=24);
+- a. de op grond van [hoofdstuk IIa](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&z=2006-07-01&g=2006-07-01) of [IIb](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIB&z=2006-07-01&g=2006-07-01) te betalen uitkering aan die overheidswerknemer, met uitzondering van de premie verschuldigd over een uitkering, als bedoeld in [artikel 24, tweede lid, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=24);
 
 - b. de op grond van enige wet over de uitkering, bedoeld in onderdeel a, door het UWV verschuldigde premies of vergoedingen als bedoeld in [artikel 46 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=46) die niet op deze uitkering in mindering kunnen worden gebracht, met uitzondering van de premie verschuldigd over een uitkering, als bedoeld in [artikel 24, tweede lid, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=24);
 
@@ -1453,7 +1459,7 @@ De werknemer, ten aanzien van wie [artikel 75](https://wetten.overheid.nl/jci1.3
 
 - b. waarvan het de overheidswerkgever niet redelijkerwijs duidelijk kon zijn dat deze tot hem in een privaatrechtelijke of publiekrechtelijke dienstbetrekking stond.
 
-3. Op het totaal van de bedragen die op de overheidswerkgever op grond van het eerste lid over enig tijdvak wordt verhaald, wordt in mindering gebracht hetgeen het UWV in dat tijdvak ontvangt door de toepassing van [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=3&artikel=36&z=2006-06-30&g=2006-06-30), onder aftrek van de daarop betrekking hebbende uitvoeringskosten, voorzover die toepassing betrekking heeft op uitkeringen en premies die eerder op grond van dat lid op de overheidswerkgever zijn verhaald.
+3. Op het totaal van de bedragen die op de overheidswerkgever op grond van het eerste lid over enig tijdvak wordt verhaald, wordt in mindering gebracht hetgeen het UWV in dat tijdvak ontvangt door de toepassing van [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=3&artikel=36&z=2006-07-01&g=2006-07-01), onder aftrek van de daarop betrekking hebbende uitvoeringskosten, voorzover die toepassing betrekking heeft op uitkeringen en premies die eerder op grond van dat lid op de overheidswerkgever zijn verhaald.
 
 4. Indien hetgeen op grond van het tweede lid in mindering wordt gebracht het totaal van de bedragen die op de overheidswerkgever over het betrokken tijdvak wordt verhaald overtreft, wordt dat meerdere door het UWV betaald aan de overheidswerkgever.
 
@@ -1471,7 +1477,7 @@ De werknemer, ten aanzien van wie [artikel 75](https://wetten.overheid.nl/jci1.3
 
 ##### Artikel 80
 
-1. Een beschikking tot verhaal van uitkering, premies of vergoeding als bedoeld in [artikel 79, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=VII&artikel=79&z=2006-06-30&g=2006-06-30), wordt niet meer gegeven indien meer dan vijf jaren sedert het einde van het kalenderjaar zijn verstreken, waarin zij zijn betaald of afgedragen.
+1. Een beschikking tot verhaal van uitkering, premies of vergoeding als bedoeld in [artikel 79, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=VII&artikel=79&z=2006-07-01&g=2006-07-01), wordt niet meer gegeven indien meer dan vijf jaren sedert het einde van het kalenderjaar zijn verstreken, waarin zij zijn betaald of afgedragen.
 
 2. Uitkering, premies of vergoeding, die niet zijn ingevorderd binnen tien jaren na het geven van de beschikking tot verhaal, worden niet meer ingevorderd.
 
@@ -1479,7 +1485,7 @@ De werknemer, ten aanzien van wie [artikel 75](https://wetten.overheid.nl/jci1.3
 
 ##### Artikel 81
 
-De vordering van het UWV wegens verhaal als bedoeld in [artikel 79, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=VII&artikel=79&z=2006-06-30&g=2006-06-30), is bevoorrecht op alle goederen van de werkgever en gaat boven alle andere voorrechten met uitzondering van die van de [artikelen 287](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=287) en [288 onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=288), alsmede dat van [artikel 284 van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=284).
+De vordering van het UWV wegens verhaal als bedoeld in [artikel 79, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=VII&artikel=79&z=2006-07-01&g=2006-07-01), is bevoorrecht op alle goederen van de werkgever en gaat boven alle andere voorrechten met uitzondering van die van de [artikelen 287](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=287) en [288 onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=288), alsmede dat van [artikel 284 van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=284).
 
 ##### Artikel 82
 
@@ -1851,7 +1857,7 @@ Vervallen
 
 ##### Artikel 111
 
-Tussen Onze Minister en Onze Minister van Financiën dient overeenstemming te bestaan omtrent te stellen regels als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=I&paragraaf=3&artikel=12&z=2006-06-30&g=2006-06-30).
+Tussen Onze Minister en Onze Minister van Financiën dient overeenstemming te bestaan omtrent te stellen regels als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=I&paragraaf=3&artikel=12&z=2006-07-01&g=2006-07-01).
 
 ##### Artikel 112
 
@@ -1875,9 +1881,9 @@ Vervallen
 
 ##### Artikel 116
 
-1. De door het UWV op grond van de [artikelen 16, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=16&z=2006-06-30&g=2006-06-30), [26, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=2&artikel=26&z=2006-06-30&g=2006-06-30), [35b, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=3&artikel=35b&z=2006-06-30&g=2006-06-30), [59](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=III&artikel=59&z=2006-06-30&g=2006-06-30) en [79, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=VII&artikel=79&z=2006-06-30&g=2006-06-30), gestelde regels behoeven de goedkeuring van Onze Minister.
+1. De door het UWV op grond van de [artikelen 16, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=16&z=2006-07-01&g=2006-07-01), [26, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=2&artikel=26&z=2006-07-01&g=2006-07-01), [35b, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=3&artikel=35b&z=2006-07-01&g=2006-07-01), [59](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=III&artikel=59&z=2006-07-01&g=2006-07-01) en [79, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=VII&artikel=79&z=2006-07-01&g=2006-07-01), gestelde regels behoeven de goedkeuring van Onze Minister.
 
-2. Een door het UWV vastgesteld uitkeringsreglement werkloosheidsverzekeringen, bedoeld in [artikel 101, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=VIII&artikel=101&z=2006-06-30&g=2006-06-30), behoeft de goedkeuring van Onze Minister.
+2. Een door het UWV vastgesteld uitkeringsreglement werkloosheidsverzekeringen, bedoeld in [artikel 101, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=VIII&artikel=101&z=2006-07-01&g=2006-07-01), behoeft de goedkeuring van Onze Minister.
 
 ##### Artikel 117
 
@@ -1913,17 +1919,17 @@ Vervallen
 
 ##### Artikel 125
 
-Het ontwerp van een algemene maatregel van bestuur als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=I&paragraaf=2&artikel=7&z=2006-06-30&g=2006-06-30) wordt bekend gemaakt in de **Staatscourant**.
+Het ontwerp van een algemene maatregel van bestuur als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=I&paragraaf=2&artikel=7&z=2006-07-01&g=2006-07-01) wordt bekend gemaakt in de **Staatscourant**.
 
 ##### Artikel 126
 
-Een voordracht tot een algemene maatregel van bestuur als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=I&paragraaf=2&artikel=7&z=2006-06-30&g=2006-06-30) wordt niet gedaan dan nadat twee maanden na de in [artikel 125](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IX&artikel=125&z=2006-06-30&g=2006-06-30) bedoelde mededeling zijn verstreken. Gelijktijdig met de mededeling wordt het ontwerp aan de beide kamers der Staten-Generaal overgelegd. Binnen 30 dagen na de overlegging kan door een der kamers of door tenminste een vijfde van het grondwettelijk aantal leden van een der kamers de wens te kennen worden gegeven dat het in de maatregel geregelde onderwerp bij wet wordt geregeld. Alsdan wordt een daartoe strekkend voorstel van wet zo spoedig mogelijk ingediend.
+Een voordracht tot een algemene maatregel van bestuur als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=I&paragraaf=2&artikel=7&z=2006-07-01&g=2006-07-01) wordt niet gedaan dan nadat twee maanden na de in [artikel 125](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IX&artikel=125&z=2006-07-01&g=2006-07-01) bedoelde mededeling zijn verstreken. Gelijktijdig met de mededeling wordt het ontwerp aan de beide kamers der Staten-Generaal overgelegd. Binnen 30 dagen na de overlegging kan door een der kamers of door tenminste een vijfde van het grondwettelijk aantal leden van een der kamers de wens te kennen worden gegeven dat het in de maatregel geregelde onderwerp bij wet wordt geregeld. Alsdan wordt een daartoe strekkend voorstel van wet zo spoedig mogelijk ingediend.
 
 ### Hoofdstuk X. Bezwaar, administratief beroep en beroep bij de Centrale Raad van Beroep
 
 ##### Artikel 127
 
-1. Onverminderd [artikel 127a](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=X&artikel=127a&z=2006-06-30&g=2006-06-30), worden beschikkingen op grond van deze wet en de daarop berustende bepalingen gegeven binnen een redelijke termijn na ontvangst van de aanvraag.
+1. Onverminderd [artikel 127a](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=X&artikel=127a&z=2006-07-01&g=2006-07-01), worden beschikkingen op grond van deze wet en de daarop berustende bepalingen gegeven binnen een redelijke termijn na ontvangst van de aanvraag.
 
 2. De redelijke termijn is in ieder geval verstreken wanneer binnen acht weken na ontvangst van de aanvraag geen beschikking is gegeven, noch een kennisgeving als bedoeld in het derde of vierde lid is gedaan.
 
@@ -1935,9 +1941,9 @@ Een voordracht tot een algemene maatregel van bestuur als bedoeld in [artikel 7]
 
 1. Een aanvraag tot het geven van een beschikking over het verzekerd zijn op grond van deze wet kan door de werknemer uitsluitend bij het UWV worden ingediend. Het UWV geeft de beschikking binnen dertien weken na ontvangst van de aanvraag.
 
-2. Een beschikking over de betaling van een voorschot op grond van [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=3&artikel=31&z=2006-06-30&g=2006-06-30) wordt gegeven binnen vier weken na ontvangst van de aanvraag.
+2. Een beschikking over de betaling van een voorschot op grond van [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=3&artikel=31&z=2006-07-01&g=2006-07-01) wordt gegeven binnen vier weken na ontvangst van de aanvraag.
 
-3. Een beschikking op grond van [hoofdstuk IV](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IV&z=2006-06-30&g=2006-06-30) en de daarop berustende bepalingen wordt gegeven binnen zes maanden na ontvangst van de aanvraag.
+3. Een beschikking op grond van [hoofdstuk IV](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IV&z=2006-07-01&g=2006-07-01) en de daarop berustende bepalingen wordt gegeven binnen zes maanden na ontvangst van de aanvraag.
 
 4. Indien een beschikking als bedoeld in het eerste, tweede of derde lid niet binnen de toepasselijke termijn kan worden gegeven, wordt dit schriftelijk aan de aanvrager medegedeeld onder vermelding van een zo kort mogelijke termijn waarbinnen de beschikking wel tegemoet kan worden gezien.
 
@@ -1961,7 +1967,7 @@ Bij algemene maatregel van bestuur kunnen regels worden gesteld ten aanzien van 
 
 ##### Artikel 129b
 
-Het bezwaar of beroep van een werkgever tegen het verhaal, bedoeld in [artikel 79, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=VII&artikel=79&z=2006-06-30&g=2006-06-30), kan niet zijn gegrond op de grief dat de uitkering ten onrechte of tot een te hoog bedrag is vastgesteld.
+Het bezwaar of beroep van een werkgever tegen het verhaal, bedoeld in [artikel 79, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=VII&artikel=79&z=2006-07-01&g=2006-07-01), kan niet zijn gegrond op de grief dat de uitkering ten onrechte of tot een te hoog bedrag is vastgesteld.
 
 ##### Artikel 129c
 
@@ -1969,7 +1975,7 @@ Ten aanzien van besluiten waaraan een medische beoordeling ten grondslag ligt zi
 
 ##### Artikel 129d
 
-1. Tegen uitspraken van de Centrale Raad van Beroep kan ieder der partijen beroep in cassatie instellen terzake van schending of verkeerde toepassing van de [artikelen 2 tot en met 12](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=I&paragraaf=1&artikel=2&z=2006-06-30&g=2006-06-30) en [14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=I&paragraaf=4&artikel=14&z=2006-06-30&g=2006-06-30), en de daarop berustende bepalingen.
+1. Tegen uitspraken van de Centrale Raad van Beroep kan ieder der partijen beroep in cassatie instellen terzake van schending of verkeerde toepassing van de [artikelen 2 tot en met 12](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=I&paragraaf=1&artikel=2&z=2006-07-01&g=2006-07-01) en [14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=I&paragraaf=4&artikel=14&z=2006-07-01&g=2006-07-01), en de daarop berustende bepalingen.
 
 2. Op dit beroep zijn de voorschriften betreffende het beroep in cassatie tegen de uitspraken van de gerechtshoven inzake beroepen in belastingzaken van overeenkomstige toepassing, waarbij de Centrale Raad van Beroep de plaats inneemt van een gerechtshof.
 
@@ -1977,7 +1983,7 @@ Ten aanzien van besluiten waaraan een medische beoordeling ten grondslag ligt zi
 
 ##### Artikel 130
 
-1. Bij algemene maatregel van bestuur kan bij wijze van experiment, met het oog op het onderzoeken van mogelijkheden om deze wet met betrekking tot de inschakeling in de arbeid van werknemers die recht op uitkering hebben op grond van hoofdstuk IIa of IIb, doeltreffender uit te voeren, worden afgeweken van het bepaalde bij of krachtens de [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=2&artikel=24&z=2006-06-30&g=2006-06-30), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=2&artikel=26&z=2006-06-30&g=2006-06-30) en [72 tot en met 78](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=VI&artikel=72&z=2006-06-30&g=2006-06-30) van deze wet. Bij toepassing van de eerste zin wordt bij algemene maatregel van bestuur geregeld op welke wijze van welke artikelen wordt afgeweken.
+1. Bij algemene maatregel van bestuur kan bij wijze van experiment, met het oog op het onderzoeken van mogelijkheden om deze wet met betrekking tot de inschakeling in de arbeid van werknemers die recht op uitkering hebben op grond van hoofdstuk IIa of IIb, doeltreffender uit te voeren, worden afgeweken van het bepaalde bij of krachtens de [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=2&artikel=24&z=2006-07-01&g=2006-07-01), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=2&artikel=26&z=2006-07-01&g=2006-07-01) en [72 tot en met 78](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=VI&artikel=72&z=2006-07-01&g=2006-07-01) van deze wet. Bij toepassing van de eerste zin wordt bij algemene maatregel van bestuur geregeld op welke wijze van welke artikelen wordt afgeweken.
 
 2. Een experiment als bedoeld in het eerste lid duurt ten hoogste vier jaar. Indien, voor een experiment is afgelopen, een voorstel van wet is ingediend bij de Staten-Generaal om het experiment om te zetten in een structurele wettelijke regeling, kan het experiment worden verlengd tot het tijdstip waarop het voorstel van wet in werking treedt. Het eerste lid, tweede zin, is van overeenkomstige toepassing.
 
@@ -2015,17 +2021,17 @@ Vervallen
 
 ##### Artikel 130g
 
-1. De [artikelen 82, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=VII&artikel=82&z=2006-06-30&g=2006-06-30), 82a, eerste lid, en 97c, zesde lid, zoals deze artikelen luidden op de dag voorafgaande aan het tijdstip van inwerkingtreding van de desbetreffende bepalingen van de [Invoeringswet Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017747), zijn niet van toepassing indien de dienstbetrekking is aangegaan voor 1 januari 2002.
+1. De [artikelen 82, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=VII&artikel=82&z=2006-07-01&g=2006-07-01), 82a, eerste lid, en 97c, zesde lid, zoals deze artikelen luidden op de dag voorafgaande aan het tijdstip van inwerkingtreding van de desbetreffende bepalingen van de [Invoeringswet Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017747), zijn niet van toepassing indien de dienstbetrekking is aangegaan voor 1 januari 2002.
 
-2. De [artikelen 82, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=VII&artikel=82&z=2006-06-30&g=2006-06-30), 82a, tweede lid, en 97c, zevende lid, zoals deze artikelen luidden op de dag voorafgaande aan het tijdstip van inwerkingtreding van de desbetreffende bepalingen van de [Invoeringswet Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017747), zijn niet van toepassing indien de werknemer voor 1 januari 2002 zijn eigen arbeid of een andere functie bij dezelfde werkgever geheel of gedeeltelijk heeft hervat dan wel indien diens arbeidsplaats voor die datum is aangepast tot behoud, herstel of ter bevordering van de mogelijkheden tot het verrichten van arbeid van die werknemer.
+2. De [artikelen 82, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=VII&artikel=82&z=2006-07-01&g=2006-07-01), 82a, tweede lid, en 97c, zevende lid, zoals deze artikelen luidden op de dag voorafgaande aan het tijdstip van inwerkingtreding van de desbetreffende bepalingen van de [Invoeringswet Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017747), zijn niet van toepassing indien de werknemer voor 1 januari 2002 zijn eigen arbeid of een andere functie bij dezelfde werkgever geheel of gedeeltelijk heeft hervat dan wel indien diens arbeidsplaats voor die datum is aangepast tot behoud, herstel of ter bevordering van de mogelijkheden tot het verrichten van arbeid van die werknemer.
 
-3. Zo nodig in afwijking van de [artikelen 82, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=VII&artikel=82&z=2006-06-30&g=2006-06-30), 82a, eerste, tweede en derde lid, of 97c, zesde, zevende en achtste lid, zoals deze artikelen luidden op de dag voorafgaande aan het tijdstip van inwerkingtreding van de desbetreffende bepalingen van de [Invoeringswet Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017747), kan het bedrag dat in mindering wordt gebracht op de door de werkgever verschuldigde premie en de premiekorting met betrekking tot het jaar 2002, in 2003 worden vastgesteld. Bij ministeriële regeling kunnen met betrekking tot dit lid nadere regels worden gesteld.
+3. Zo nodig in afwijking van de [artikelen 82, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=VII&artikel=82&z=2006-07-01&g=2006-07-01), 82a, eerste, tweede en derde lid, of 97c, zesde, zevende en achtste lid, zoals deze artikelen luidden op de dag voorafgaande aan het tijdstip van inwerkingtreding van de desbetreffende bepalingen van de [Invoeringswet Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017747), kan het bedrag dat in mindering wordt gebracht op de door de werkgever verschuldigde premie en de premiekorting met betrekking tot het jaar 2002, in 2003 worden vastgesteld. Bij ministeriële regeling kunnen met betrekking tot dit lid nadere regels worden gesteld.
 
 ### Hoofdstuk XI. Straf- en slotbepalingen
 
 ##### Artikel 131
 
-De werkgever, die zijn verplichting als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=I&paragraaf=3&artikel=13&z=2006-06-30&g=2006-06-30) niet nakomt, wordt gestraft met hechtenis van ten hoogste een maand of geldboete van de tweede categorie.
+De werkgever, die zijn verplichting als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=I&paragraaf=3&artikel=13&z=2006-07-01&g=2006-07-01) niet nakomt, wordt gestraft met hechtenis van ten hoogste een maand of geldboete van de tweede categorie.
 
 ##### Artikel 132
 
@@ -2041,7 +2047,7 @@ Vervallen
 
 ##### Artikel 135
 
-De in de [artikelen 131](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=XI&artikel=131&z=2006-06-30&g=2006-06-30) en [132](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=XI&artikel=132&z=2006-06-30&g=2006-06-30) omschreven strafbare feiten zijn overtredingen.
+De in de [artikelen 131](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=XI&artikel=131&z=2006-07-01&g=2006-07-01) en [132](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=XI&artikel=132&z=2006-07-01&g=2006-07-01) omschreven strafbare feiten zijn overtredingen.
 
 ##### Artikel 135a
 
@@ -2069,9 +2075,9 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 2. De artikelen 48, 51 en 52, zoals die luidden op de dag voor inwerkingtreding van de in het eerste lid genoemde wet, blijven van toepassing op de persoon:
 
-- a. die voor 11 augustus 2003 recht op uitkering op grond van deze wet had, welk recht eindigt of is geëindigd op grond van het verrichten van werkzaamheden als werknemer, en die terzake van de verrichte werkzaamheden op of na 11 augustus 2003 een nieuw recht op uitkering krijgt, tot aan het moment waarop dat eerste recht zonder toepassing van de [artikelen 43](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=II&paragraaf=1&artikel=43&z=2006-06-30&g=2006-06-30) en [50](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=III&paragraaf=1&artikel=50&z=2006-06-30&g=2006-06-30) zou hebben geduurd;
+- a. die voor 11 augustus 2003 recht op uitkering op grond van deze wet had, welk recht eindigt of is geëindigd op grond van het verrichten van werkzaamheden als werknemer, en die terzake van de verrichte werkzaamheden op of na 11 augustus 2003 een nieuw recht op uitkering krijgt, tot aan het moment waarop dat eerste recht zonder toepassing van de [artikelen 43](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=II&paragraaf=1&artikel=43&z=2006-07-01&g=2006-07-01) en [50](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=III&paragraaf=1&artikel=50&z=2006-07-01&g=2006-07-01) zou hebben geduurd;
 
-- b. op wie het eerste lid, onderdeel b of c van toepassing is, en wiens recht als bedoeld in dat lid eindigt of is geëindigd op grond van het verrichten van werkzaamheden als werknemer, en die terzake van de verrichte werkzaamheden op of na 11 augustus 2003 een nieuw recht op uitkering krijgt, tot aan het moment waarop dat eerste recht zonder toepassing van de [artikelen 43](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=II&paragraaf=1&artikel=43&z=2006-06-30&g=2006-06-30) en [50](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=III&paragraaf=1&artikel=50&z=2006-06-30&g=2006-06-30) zou hebben geduurd.
+- b. op wie het eerste lid, onderdeel b of c van toepassing is, en wiens recht als bedoeld in dat lid eindigt of is geëindigd op grond van het verrichten van werkzaamheden als werknemer, en die terzake van de verrichte werkzaamheden op of na 11 augustus 2003 een nieuw recht op uitkering krijgt, tot aan het moment waarop dat eerste recht zonder toepassing van de [artikelen 43](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=II&paragraaf=1&artikel=43&z=2006-07-01&g=2006-07-01) en [50](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=III&paragraaf=1&artikel=50&z=2006-07-01&g=2006-07-01) zou hebben geduurd.
 
 3. De artikelen 15, 35c, 52b, derde lid, en 52d, derde tot en met vijfde lid, zoals die luidden op de dag voor inwerkingtreding van de in het eerste lid genoemde wet, blijven van toepassing op de in het eerste en tweede lid bedoelde rechten respectievelijk personen.
 
@@ -2083,9 +2089,9 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 76a
 
-1. Het UWV kan ter uitvoering van de taak, genoemd in [artikel 72](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=VI&artikel=72&z=2006-06-30&g=2006-06-30), toestemming verlenen aan de werknemer, die recht heeft op een uitkering op grond van hoofdstuk IIa of IIb, om op een proefplaats bij een werkgever gedurende maximaal drie maanden onbeloonde werkzaamheden te verrichten.
+1. Het UWV kan toestemming verlenen aan de werknemer, die recht heeft op een uitkering op grond van [hoofdstuk IIa](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&z=2006-07-01&g=2006-07-01) of [IIb](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIB&z=2006-07-01&g=2006-07-01), om op een proefplaats bij een werkgever gedurende maximaal drie maanden onbeloonde werkzaamheden te verrichten.
 
-2. Voor de werknemer, bedoeld in het eerste lid, blijft het recht op uitkering op grond van hoofdstuk IIa of IIb bestaan, onverminderd [artikel 20, eerste lid, aanhef en onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=20&z=2006-06-30&g=2006-06-30), gedurende de periode waarover toestemming is verleend tot het verrichten van die werkzaamheden.
+2. Voor de werknemer, bedoeld in het eerste lid, blijft het recht op uitkering op grond van hoofdstuk IIa of IIb bestaan, onverminderd [artikel 20, eerste lid, aanhef en onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=20&z=2006-07-01&g=2006-07-01), gedurende de periode waarover toestemming is verleend tot het verrichten van die werkzaamheden.
 
 3. De onbeloonde werkzaamheden op een proefplaats zijn:
 
@@ -2135,13 +2141,13 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 130i
 
-1. De [artikelen 42](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=II&paragraaf=1&artikel=42&z=2006-06-30&g=2006-06-30) en [17b](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=17b&z=2006-06-30&g=2006-06-30), zoals deze luidden op de dag voor inwerkingtreding van de wet van 4 november 2004 tot wijziging van de Werkloosheidswet en de Wet structuur uitvoeringsorganisatie werk en inkomen in verband met de vervanging van fictief arbeidsverleden door feitelijk arbeidsverleden en de beperking van het verzorgingsforfait Stb. 2004, 594, blijven van toepassing op een recht op uitkering waarbij de eerste werkloosheidsdag is gelegen voor of op die dag.
+1. De [artikelen 42](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=II&paragraaf=1&artikel=42&z=2006-07-01&g=2006-07-01) en [17b](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=17b&z=2006-07-01&g=2006-07-01), zoals deze luidden op de dag voor inwerkingtreding van de wet van 4 november 2004 tot wijziging van de Werkloosheidswet en de Wet structuur uitvoeringsorganisatie werk en inkomen in verband met de vervanging van fictief arbeidsverleden door feitelijk arbeidsverleden en de beperking van het verzorgingsforfait Stb. 2004, 594, blijven van toepassing op een recht op uitkering waarbij de eerste werkloosheidsdag is gelegen voor of op die dag.
 
-2. In afwijking van de eerste zin van [artikel 17b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=17b&z=2006-06-30&g=2006-06-30), worden voor de toepassing van [artikel 17, aanhef en onderdeel b, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=17&z=2006-06-30&g=2006-06-30), niet reeds in aanmerking genomen kalenderjaren over de periode tot 1 januari 2005, waarin een persoon recht heeft op kinderbijslag op grond van [artikel 7 van de Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&artikel=7) of een andere gezinsbijslag als bedoeld in artikel 4, eerste lid, onderdeel h, van [verordening (EG) nr. 1408/71](31971R1408) van de Raad van de Europese Gemeenschap van 14 juni 1971 betreffende de toepassing van socialezekerheidsregelingen op werknemers en zelfstandigen, alsmede op hun gezinsleden, die zich binnen de Gemeenschap verplaatsen (PbEG L 149) voor een tot zijn huishouden behorend kind dat bij de aanvang van dat kalenderjaar de leeftijd van vijf jaar niet heeft bereikt, gelijkgesteld met, en worden dergelijke kalenderjaren over de periode van 1 januari 2005 tot 1 januari 2007 voor drie kwart gelijkgesteld met, kalenderjaren waarin over 52 of meer dagen loon is ontvangen.
+2. In afwijking van de eerste zin van [artikel 17b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=17b&z=2006-07-01&g=2006-07-01), worden voor de toepassing van [artikel 17, aanhef en onderdeel b, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=17&z=2006-07-01&g=2006-07-01), niet reeds in aanmerking genomen kalenderjaren over de periode tot 1 januari 2005, waarin een persoon recht heeft op kinderbijslag op grond van [artikel 7 van de Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&artikel=7) of een andere gezinsbijslag als bedoeld in artikel 4, eerste lid, onderdeel h, van [verordening (EG) nr. 1408/71](31971R1408) van de Raad van de Europese Gemeenschap van 14 juni 1971 betreffende de toepassing van socialezekerheidsregelingen op werknemers en zelfstandigen, alsmede op hun gezinsleden, die zich binnen de Gemeenschap verplaatsen (PbEG L 149) voor een tot zijn huishouden behorend kind dat bij de aanvang van dat kalenderjaar de leeftijd van vijf jaar niet heeft bereikt, gelijkgesteld met, en worden dergelijke kalenderjaren over de periode van 1 januari 2005 tot 1 januari 2007 voor drie kwart gelijkgesteld met, kalenderjaren waarin over 52 of meer dagen loon is ontvangen.
 
 ##### Artikel 130j
 
-1. De [artikelen 17a, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=17a&z=2006-06-30&g=2006-06-30), [17b, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=17b&z=2006-06-30&g=2006-06-30), [19, eerste lid, onderdeel m](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=19&z=2006-06-30&g=2006-06-30), [28, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=2&artikel=28&z=2006-06-30&g=2006-06-30), [76, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=VI&artikel=76&z=2006-06-30&g=2006-06-30), en de daarop berustende bepalingen, zoals die luidden op de dag voor inwerkingtreding van de wet van 23 december 2004 houdende wijziging van enkele socialeverzekeringswetten en enige andere wetten in verband met het aanbrengen van enige vereenvoudigingen, blijven van toepassing op de werknemer die voor de datum van inwerkingtreding van die wet:
+1. De [artikelen 17a, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=17a&z=2006-07-01&g=2006-07-01), [17b, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=17b&z=2006-07-01&g=2006-07-01), [19, eerste lid, onderdeel m](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=19&z=2006-07-01&g=2006-07-01), [28, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=2&artikel=28&z=2006-07-01&g=2006-07-01), [76, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=VI&artikel=76&z=2006-07-01&g=2006-07-01), en de daarop berustende bepalingen, zoals die luidden op de dag voor inwerkingtreding van de wet van 23 december 2004 houdende wijziging van enkele socialeverzekeringswetten en enige andere wetten in verband met het aanbrengen van enige vereenvoudigingen, blijven van toepassing op de werknemer die voor de datum van inwerkingtreding van die wet:
 
 - a. een voor hem, naar het oordeel van het UWV, noodzakelijke opleiding of scholing volgt, of
 
@@ -2149,7 +2155,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 voor de duur van die opleiding of scholing respectievelijk die reïntegratie-uitkering.
 
-2. In afwijking van [artikel 76a](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=VI&artikel=76a&z=2006-06-30&g=2006-06-30) blijven [artikel 130a](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=XA&artikel=130a&z=2006-06-30&g=2006-06-30) en het daarop berustende [Tijdelijk besluit proefplaatsing WW](https://wetten.overheid.nl/jci1.3:c:BWBR0011325), zoals die luidden op de dag voor inwerkingtreding van de wet van 23 december 2004 houdende wijziging van enkele socialeverzekeringswetten en enige andere wetten in verband met het aanbrengen van enige vereenvoudigingen, van toepassing op de werknemer die voor de datum van inwerkingtreding van die wet werkzaamheden verricht in het kader van het [Tijdelijk besluit proefplaatsing WW](https://wetten.overheid.nl/jci1.3:c:BWBR0011325), voor de duur van die werkzaamheden.
+2. In afwijking van [artikel 76a](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=VI&artikel=76a&z=2006-07-01&g=2006-07-01) blijven [artikel 130a](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=XA&artikel=130a&z=2006-07-01&g=2006-07-01) en het daarop berustende [Tijdelijk besluit proefplaatsing WW](https://wetten.overheid.nl/jci1.3:c:BWBR0011325), zoals die luidden op de dag voor inwerkingtreding van de wet van 23 december 2004 houdende wijziging van enkele socialeverzekeringswetten en enige andere wetten in verband met het aanbrengen van enige vereenvoudigingen, van toepassing op de werknemer die voor de datum van inwerkingtreding van die wet werkzaamheden verricht in het kader van het [Tijdelijk besluit proefplaatsing WW](https://wetten.overheid.nl/jci1.3:c:BWBR0011325), voor de duur van die werkzaamheden.
 
 ### Hoofdstuk XI. Straf- en slotbepalingen
 
@@ -2157,7 +2163,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 130k
 
-De [artikelen 92, onderdelen g, h, en i](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=VII&artikel=92&z=2006-06-30&g=2006-06-30), [93, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=VII&artikel=93&z=2006-06-30&g=2006-06-30), 97b, tweede lid, 97e, onderdeel j, en 97f, onderdeel i, zoals deze luidden op de dag voor inwerkingtreding van de [Wet van 28 april 2005 tot wijziging van de Wet arbeid en zorg en enige andere wetten in verband met het tot stand brengen van een recht op langdurend zorgverlof en het aanbrengen van enkele verbeteringen](https://wetten.overheid.nl/jci1.3:c:BWBR0018262) (Stb. 274) blijven van toepassing voor de duur van de periode waarin op grond van artikel IXa van die wet recht bestaat op een financiële tegemoetkoming op grond van [hoofdstuk 7 van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=7).
+De [artikelen 92, onderdelen g, h, en i](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=VII&artikel=92&z=2006-07-01&g=2006-07-01), [93, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=VII&artikel=93&z=2006-07-01&g=2006-07-01), 97b, tweede lid, 97e, onderdeel j, en 97f, onderdeel i, zoals deze luidden op de dag voor inwerkingtreding van de [Wet van 28 april 2005 tot wijziging van de Wet arbeid en zorg en enige andere wetten in verband met het tot stand brengen van een recht op langdurend zorgverlof en het aanbrengen van enkele verbeteringen](https://wetten.overheid.nl/jci1.3:c:BWBR0018262) (Stb. 274) blijven van toepassing voor de duur van de periode waarin op grond van artikel IXa van die wet recht bestaat op een financiële tegemoetkoming op grond van [hoofdstuk 7 van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=7).
 
 ### Hoofdstuk XI. Straf- en slotbepalingen
 
@@ -2165,13 +2171,13 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 130l
 
-1. Een aanvraag als bedoeld in [artikel 4 van het Tijdelijk besluit preventieve inzet sectorfondsen](https://wetten.overheid.nl/jci1.3:c:BWBR0011324&artikel=4) van een werknemer als bedoeld in [artikel 3 van dat besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011324&artikel=3) wordt vanaf 1 juli 2005 aangemerkt als een aanvraag om werkzaamheden waarmee de taak, bedoeld in [artikel 72, eerste lid onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=VI&artikel=72&z=2006-06-30&g=2006-06-30), wordt uitgevoerd.
+1. Een aanvraag als bedoeld in [artikel 4 van het Tijdelijk besluit preventieve inzet sectorfondsen](https://wetten.overheid.nl/jci1.3:c:BWBR0011324&artikel=4) van een werknemer als bedoeld in [artikel 3 van dat besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011324&artikel=3) wordt vanaf 1 juli 2005 aangemerkt als een aanvraag om werkzaamheden waarmee de taak, bedoeld in [artikel 72, eerste lid onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=VI&artikel=72&z=2006-07-01&g=2006-07-01), wordt uitgevoerd.
 
-2. Een traject als bedoeld in [artikel 4 van het Tijdelijk besluit preventieve inzet sectorfondsen](https://wetten.overheid.nl/jci1.3:c:BWBR0011324&artikel=4) dat is aangevangen voor 1 juli 2005 wordt vanaf die datum aangemerkt als een traject, bedoeld in [artikel 72, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=VI&artikel=72&z=2006-06-30&g=2006-06-30), met dien verstande dat de duur van het traject hierdoor niet wordt verlengd.
+2. Een traject als bedoeld in [artikel 4 van het Tijdelijk besluit preventieve inzet sectorfondsen](https://wetten.overheid.nl/jci1.3:c:BWBR0011324&artikel=4) dat is aangevangen voor 1 juli 2005 wordt vanaf die datum aangemerkt als een traject, bedoeld in [artikel 72, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=VI&artikel=72&z=2006-07-01&g=2006-07-01), met dien verstande dat de duur van het traject hierdoor niet wordt verlengd.
 
-3. De [artikelen 72](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=VI&artikel=72&z=2006-06-30&g=2006-06-30) en [72a](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=VI&artikel=72a&z=2006-06-30&g=2006-06-30), zoals die luidden op de dag voor inwerkingtreding van de wet van 16 juli 2005, houdende wijziging van de Werkloosheidswet in verband met het preventief inzetten van reïntegratie-instrumenten, het opdragen van de reïntegratietaak aan overheidswerkgevers, het ondersteunen van WAO-herbeoordeelden bij scholing, het subsidiëren van scholing in het kader van de WAJONG en enkele andere wijzigingen in wetten die de reïntegratie-instrumenten betreffen (Stb. 382), blijven van toepassing op de persoon, die recht heeft op uitkering op grond van [hoofdstuk IIa](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&z=2006-06-30&g=2006-06-30) of [IIb](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIB&z=2006-06-30&g=2006-06-30) en van wie de eerste werkloosheidsdag is gelegen voor 1 juli 2005.
+3. De [artikelen 72](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=VI&artikel=72&z=2006-07-01&g=2006-07-01) en [72a](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=VI&artikel=72a&z=2006-07-01&g=2006-07-01), zoals die luidden op de dag voor inwerkingtreding van de wet van 16 juli 2005, houdende wijziging van de Werkloosheidswet in verband met het preventief inzetten van reïntegratie-instrumenten, het opdragen van de reïntegratietaak aan overheidswerkgevers, het ondersteunen van WAO-herbeoordeelden bij scholing, het subsidiëren van scholing in het kader van de WAJONG en enkele andere wijzigingen in wetten die de reïntegratie-instrumenten betreffen (Stb. 382), blijven van toepassing op de persoon, die recht heeft op uitkering op grond van [hoofdstuk IIa](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&z=2006-07-01&g=2006-07-01) of [IIb](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIB&z=2006-07-01&g=2006-07-01) en van wie de eerste werkloosheidsdag is gelegen voor 1 juli 2005.
 
-4. In afwijking van het derde lid is [artikel 72a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=VI&artikel=72a&z=2006-06-30&g=2006-06-30), zoals dat luidde op de dag voor inwerkingtreding van de in het derde lid genoemde wet, slechts van toepassing op door de overheidswerkgever gedane uitgaven die betrekking hebben op tot 1 juli 2006 verrichte activiteiten in verband met de inschakeling in het arbeidsproces van personen als bedoeld in artikel 78a.
+4. In afwijking van het derde lid is [artikel 72a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=VI&artikel=72a&z=2006-07-01&g=2006-07-01), zoals dat luidde op de dag voor inwerkingtreding van de in het derde lid genoemde wet, slechts van toepassing op door de overheidswerkgever gedane uitgaven die betrekking hebben op tot 1 juli 2006 verrichte activiteiten in verband met de inschakeling in het arbeidsproces van personen als bedoeld in artikel 78a.
 
 ### Hoofdstuk XI. Straf- en slotbepalingen
 
@@ -2251,7 +2257,7 @@ Vervallen
 
 ### Hoofdstuk IX. Bepalingen van procedurele aard
 
-### Hoofdstuk X. Bezwaar, administratief beroep en beroep bij de Centrale Raad van Beroep
+### Hoofdstuk XB. Overgangsbepalingen
 
 ### Hoofdstuk XA. Experimenten
 
@@ -2265,7 +2271,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 126c
 
-In afwijking van [artikel 1:2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:2) is de werkgever geen belanghebbende bij een besluit van het UWV over het verzekerd zijn op grond van deze wet als bedoeld in [artikel 127a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=X&artikel=127a&z=2006-06-30&g=2006-06-30).
+In afwijking van [artikel 1:2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:2) is de werkgever geen belanghebbende bij een besluit van het UWV over het verzekerd zijn op grond van deze wet als bedoeld in [artikel 127a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=X&artikel=127a&z=2006-07-01&g=2006-07-01).
 
 ### Hoofdstuk XA. Experimenten
 
@@ -2279,7 +2285,21 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 77a
 
-Dit onderdeel is nog niet inwerking getreden
+1. Het UWV kan een werknemer toestemming verlenen om gedurende maximaal zes maanden werkzaamheden in de uitoefening van een bedrijf of in de zelfstandige uitoefening van een beroep te verrichten, indien:
+
+- a. aannemelijk is dat de werknemer in de toekomst met die werkzaamheden structureel in zijn bestaan kan voorzien;
+
+- b. de werkzaamheden nog geen aanvang hebben genomen;
+
+- c. de werknemer recht heeft op uitkering op grond van [hoofdstuk IIa](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&z=2006-07-01&g=2006-07-01) of [IIb](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIB&z=2006-07-01&g=2006-07-01), anders dan op grond van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=18&z=2006-07-01&g=2006-07-01);
+
+- d. de werkloosheid van de werknemer niet uitsluitend een gevolg is van verkorting van de werktijd, waarvoor op grond van [artikel 8, derde lid, van het Buitengewoon Besluit Arbeidsverhoudingen 1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002014&artikel=8) ontheffing is verleend; en
+
+- e. deze toestemming tijdens de uitkeringsduur niet eerder aan de werknemer is verleend.
+
+2. Voor de werknemer, bedoeld in het eerste lid, blijft, onverminderd [artikel 20, eerste lid, aanhef en onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=1&artikel=20&z=2006-07-01&g=2006-07-01), het recht op uitkering op grond van [hoofdstuk IIa](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&z=2006-07-01&g=2006-07-01) of [IIb](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIB&z=2006-07-01&g=2006-07-01) bestaan.
+
+3. De werknemer aan wie toestemming is verleend als bedoeld in het eerste lid wordt geacht werknemer te zijn en te blijven zolang die toepassing duurt.
 
 ### Hoofdstuk VII. Verhaal
 
@@ -2293,6 +2313,74 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 135b
 
+Onze Minister zendt binnen drie jaar na de datum van inwerkingtreding van de onderdelen Aa, Ya en PPa van artikel I van de Wet wijziging WW-stelsel aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten in de praktijk van de [artikelen 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=I&paragraaf=2&artikel=8&z=2006-07-01&g=2006-07-01), [35aa](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA&afdeling=I&paragraaf=3&artikel=35aa&z=2006-07-01&g=2006-07-01) en [77a](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=VI&artikel=77a&z=2006-07-01&g=2006-07-01) van deze wet, zoals die artikelen vanaf die datum komen te luiden.
+
+Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 35aa
+
+1. Indien de werknemer toestemming heeft verkregen van het UWV om werkzaamheden als bedoeld in [artikel 77a](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=VI&artikel=77a&z=2006-07-01&g=2006-07-01), eerste lid, te verrichten en het recht op uitkering op grond van het [tweede lid van dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=VI&artikel=77a&z=2006-07-01&g=2006-07-01) blijft bestaan, wordt de uitkering verminderd met 70% van de inkomsten uit of in verband met die werkzaamheden.
+
+2. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot de inkomsten, bedoeld in het eerste lid, de berekening daarvan en de periode waaraan deze worden toegerekend.
+
+### Afdeling II. De loongerelateerde uitkering
+
+#### § 2. De hoogte van de uitkering
+
+### Afdeling III. De vervolguitkering
+
+#### § 1. De duur van de uitkering
+
+#### § 2. De hoogte van de uitkering
+
+### Hoofdstuk IIB. De verplichte verzekering van kortdurende uitkering bij werkloosheid
+
+### Afdeling I. Algemene bepalingen
+
+#### § 1. De voorwaarden voor het recht op kortdurende uitkering
+
+#### § 2. Het geldend maken van het recht op kortdurende uitkering
+
+#### § 3. De betaling van de kortdurende uitkering
+
+### Afdeling III. De hoogte van de kortdurende uitkering
+
+### Hoofdstuk IIC
+
+### Hoofdstuk III. De vrijwillige verzekering van uitkering bij werkloosheid
+
+### Hoofdstuk IV. Overneming van uit de dienstbetrekking voortvloeiende verplichtingen bij onmacht van de werkgever te betalen
+
+### Hoofdstuk V. Vervallen.
+
+### Hoofdstuk VI. Reïntegratiemaatregelen
+
+##### Artikel 77
+
+Vervallen
+
+### Hoofdstuk VII. Verhaal
+
+### Hoofdstuk VIII. De uitvoeringsorganisatie
+
+### Hoofdstuk IX. Bepalingen van procedurele aard
+
+### Hoofdstuk X. Bepalingen in verband met de Algemene wet bestuursrecht en beroep in cassatie
+
+### Hoofdstuk XA. Experimenten
+
+##### Artikel 130n
+
+De periode waarbinnen de hoedanigheid van werknemer kan worden herkregen op grond van [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=I&paragraaf=2&artikel=8&z=2006-07-01&g=2006-07-01), bedraagt ten hoogste 38 maanden voor de persoon die voor de dag van inwerkingtreding van artikel I, onderdeel BB, van de Wet wijziging WW-stelsel recht op uitkering op grond van deze wet had.
+
+##### Artikel 130o
+
 Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 130q
+
+Dit onderdeel is nog niet inwerking getreden
+
+### Hoofdstuk XI. Straf- en slotbepalingen
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
