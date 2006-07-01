@@ -4,7 +4,7 @@ identifier: "BWBV0001546"
 country: "nl"
 rank: "verdrag"
 publication_date: "2017-02-01"
-last_updated: "2005-08-01"
+last_updated: "2006-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0001546"
 soort: "verdrag"
@@ -136,9 +136,9 @@ De Voormalige Joegoslavische Republiek Macedonië verbindt zich ertoe samenwerki
 
 ##### Artikel 5
 
-1. De associatie wordt volledig verwezenlijkt in een overgangsperiode van maximaal 10 jaar die in twee fasen uiteenvalt. Deze opsplitsing in twee op elkaar volgende fasen is bedoeld om de bepalingen van de Stabilisatie- en Associatieovereenkomst geleidelijk uit te voeren en de aandacht in de eerste fase toe te spitsen op de hieronder in de [titels III](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=III&z=2005-08-01&g=2005-08-01), [V](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=V&z=2005-08-01&g=2005-08-01), [VI](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=VI&z=2005-08-01&g=2005-08-01) en VII genoemde gebieden.
+1. De associatie wordt volledig verwezenlijkt in een overgangsperiode van maximaal 10 jaar die in twee fasen uiteenvalt. Deze opsplitsing in twee op elkaar volgende fasen is bedoeld om de bepalingen van de Stabilisatie- en Associatieovereenkomst geleidelijk uit te voeren en de aandacht in de eerste fase toe te spitsen op de hieronder in de [titels III](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=III&z=2006-07-01&g=2006-07-01), [V](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=V&z=2006-07-01&g=2006-07-01), [VI](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=VI&z=2006-07-01&g=2006-07-01) en VII genoemde gebieden.
 
-2. De krachtens [artikel 108](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=X&artikel=108&z=2005-08-01&g=2005-08-01) opgerichte Stabilisatie- en Associatieraad onderzoekt op gezette tijden de toepassing van deze overeenkomst en de verwezenlijking door de Voormalige Joegoslavische Republiek Macedonië van de juridische, administratieve, institutionele en economische hervormingen in het licht van de preambule en in overeenstemming met de algemene principes van deze overeenkomst.
+2. De krachtens [artikel 108](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=X&artikel=108&z=2006-07-01&g=2006-07-01) opgerichte Stabilisatie- en Associatieraad onderzoekt op gezette tijden de toepassing van deze overeenkomst en de verwezenlijking door de Voormalige Joegoslavische Republiek Macedonië van de juridische, administratieve, institutionele en economische hervormingen in het licht van de preambule en in overeenstemming met de algemene principes van deze overeenkomst.
 
 3. Vier jaar na de inwerkingtreding van de overeenkomst zal de Stabilisatie- en Associatieraad de vooruitgang evalueren en een besluit nemen over de overgang naar en de duur van de tweede fase, en over eventueel aan te brengen wijzigingen in de inhoud van de bepalingen inzake de tweede fase. Daarbij wordt rekening gehouden met de resultaten van voornoemde toetsing.
 
@@ -180,7 +180,7 @@ De politieke dialoog kan plaatsvinden in een multilateraal kader, en als regiona
 
 ##### Artikel 10
 
-Op parlementair niveau vindt de politieke dialoog plaats in het kader van het bij [artikel 114](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=X&artikel=114&z=2005-08-01&g=2005-08-01) ingestelde Parlementair Stabilisatie- en Associatiecomité.
+Op parlementair niveau vindt de politieke dialoog plaats in het kader van het bij [artikel 114](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=X&artikel=114&z=2006-07-01&g=2006-07-01) ingestelde Parlementair Stabilisatie- en Associatiecomité.
 
 ## TITEL III. REGIONALE SAMENWERKING
 
@@ -188,7 +188,7 @@ Op parlementair niveau vindt de politieke dialoog plaats in het kader van het bi
 
 In overeenstemming met haar verbintenis op het gebied van vrede en stabiliteit en de ontwikkeling van betrekkingen van goed nabuurschap zal de Voormalige Joegoslavische Republiek Macedonië de regionale samenwerking actief bevorderen. De Gemeenschap zal via haar programma's voor technische bijstand ook projecten steunen met een regionale of grensoverschrijdende dimensie.
 
-Telkens wanneer de Voormalige Joegoslavische Republiek Macedonië van plan is de samenwerking met een van de in onderstaande artikelen 12 tot en met 14 genoemde landen te intensiveren, deelt zij dit mede aan en voert zij overleg met de Gemeenschap en haar lidstaten overeenkomstig de bepalingen van [titel X](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=X&z=2005-08-01&g=2005-08-01).
+Telkens wanneer de Voormalige Joegoslavische Republiek Macedonië van plan is de samenwerking met een van de in onderstaande artikelen 12 tot en met 14 genoemde landen te intensiveren, deelt zij dit mede aan en voert zij overleg met de Gemeenschap en haar lidstaten overeenkomstig de bepalingen van [titel X](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=X&z=2006-07-01&g=2006-07-01).
 
 ##### Artikel 12. Samenwerking met andere landen die een Stabilisatie- en Associatieraad hebben ondertekend
 
@@ -236,7 +236,7 @@ De Voormalige Joegoslavische Republiek Macedonië kan met elke kandidaat-lidstaa
 
 1. De bepalingen van dit hoofdstuk zijn van toepassing op producten van oorsprong uit de Gemeenschap of de Voormalige Joegoslavische Republiek Macedonië, bedoeld in de hoofdstukken 25 tot en met 97 van de gecombineerde nomenclatuur, met uitzondering van de in [bijlage I. § I, ii) van de Overeenkomst inzake de landbouw](https://wetten.overheid.nl/jci1.3:c:BWBV0001160&bijlage=1) (GATT 1994) genoemde producten.
 
-2. De bepalingen van de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=IV&hoofdstuk=I&artikel=17&z=2005-08-01&g=2005-08-01) en [18](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=IV&hoofdstuk=I&artikel=18&z=2005-08-01&g=2005-08-01) zijn niet van toepassing op textielproducten of staalproducten, zoals gespecificeerd in de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=IV&hoofdstuk=I&artikel=22&z=2005-08-01&g=2005-08-01) en [23](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=IV&hoofdstuk=I&artikel=23&z=2005-08-01&g=2005-08-01).
+2. De bepalingen van de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=IV&hoofdstuk=I&artikel=17&z=2006-07-01&g=2006-07-01) en [18](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=IV&hoofdstuk=I&artikel=18&z=2006-07-01&g=2006-07-01) zijn niet van toepassing op textielproducten of staalproducten, zoals gespecificeerd in de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=IV&hoofdstuk=I&artikel=22&z=2006-07-01&g=2006-07-01) en [23](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=IV&hoofdstuk=I&artikel=23&z=2006-07-01&g=2006-07-01).
 
 3. De handel tussen de partijen in producten die onder het [Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie](https://wetten.overheid.nl/jci1.3:c:BWBV0004033) vallen, geschiedt in overeenstemming met de bepalingen van dat Verdrag.
 
@@ -288,7 +288,7 @@ De Gemeenschap en de Voormalige Joegoslavische Republiek Macedonië schaffen bij
 
 ##### Artikel 21
 
-De Voormalige Joegoslavische Republiek Macedonië verklaart zich bereid haar douanerechten in het handelsverkeer met de Gemeenschap in een sneller tempo te verlagen dan het tempo waarin [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=IV&hoofdstuk=I&artikel=18&z=2005-08-01&g=2005-08-01) voorziet, indien de algemene economische situatie en de situatie in de betrokken sector van de economie zulks mogelijk maken.
+De Voormalige Joegoslavische Republiek Macedonië verklaart zich bereid haar douanerechten in het handelsverkeer met de Gemeenschap in een sneller tempo te verlagen dan het tempo waarin [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=IV&hoofdstuk=I&artikel=18&z=2006-07-01&g=2006-07-01) voorziet, indien de algemene economische situatie en de situatie in de betrokken sector van de economie zulks mogelijk maken.
 
 De Stabilisatie- en Associatieraad doet daartoe strekkende aanbevelingen.
 
@@ -322,11 +322,13 @@ Protocol nr. 3 bevat de handelsregeling voor de daarin genoemde verwerkte landbo
 
 ##### Artikel 27. Landbouwproducten
 
-1. Vanaf de datum van de inwerkingtreding van deze overeenkomst gaat de Gemeenschap over tot afschaffing van alle douanerechten en heffingen van gelijke werking die van toepassing zijn op de invoer van landbouwproducten, andere dan die van de posten 0102, 0201, 0202 en 2204 van de Gecombineerde Nomenclatuur, van oorsprong uit de Voormalige Joegoslavische Republiek Macedonië.
+1. De Gemeenschap gaat over tot de afschaffing van de douanerechten en heffingen van gelijke werking die van toepassing zijn op de invoer van landbouwproducten van oorsprong uit de voormalige Joegoslavische Republiek Macedonië, andere dan die van de posten 0102, 0201, 0202, 1701, 1702 en 2204 van de gecombineerde nomenclatuur.
 
 Voor de producten die vallen onder hoofdstukken 7 en 8 van de Gecombineerde Nomenclatuur, voor welke het gemeenschappelijk douanetarief in een „ad valorem" douanerecht en in een specifiek douanerecht voorziet, is de afschaffing uitsluitend op het „ad valorem" deel van de douanerechten van toepassing.
 
 2. Met ingang van de inwerkingtreding van deze overeenkomst gaat de Gemeenschap over tot de vaststelling van de douanerechten die van toepassing zijn bij invoer in de Gemeenschap van de in bijlage III gedefinieerde producten van de categorie „baby beef" van oorsprong uit de Voormalige Joegoslavische Republiek Macedonië op 20% van het ad-valoremrecht en 20% van het specifieke recht als vastgesteld in het gemeenschappelijk douanetarief van de Europese Gemeenschappen, binnen een jaarlijks tariefcontingent van 650 ton geslacht gewicht.
+
+Producten van oorsprong uit de voormalige Joegoslavische Republiek Macedonië van de posten 1701 en 1702 van de gecombineerde nomenclatuur worden binnen een jaarlijks tariefcontingent van 7000 t (nettogewicht) rechtenvrij in de Gemeenschap ingevoerd.
 
 3. Vanaf de datum van inwerkingtreding van deze overeenkomst dient de Voormalige Joegoslavische Republiek Macedonië:
 
@@ -372,7 +374,7 @@ Voor de producten die vallen onder hoofdstukken 7 en 8 van de Gecombineerde Nome
 
 ##### Artikel 30
 
-Onverminderd de andere bepalingen van deze overeenkomst, met name die van [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=IV&hoofdstuk=III&artikel=37&z=2005-08-01&g=2005-08-01), plegen beide partijen, indien, wegens de bijzondere gevoeligheid van de markten voor landbouw- en visserijproducten, de invoer van producten van oorsprong uit een partij waarvoor de concessies uit hoofde van de [artikelen 25](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=IV&hoofdstuk=II&artikel=25&z=2005-08-01&g=2005-08-01), [27](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=IV&hoofdstuk=II&artikel=27&z=2005-08-01&g=2005-08-01) en [28](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=IV&hoofdstuk=II&artikel=28&z=2005-08-01&g=2005-08-01) zijn verleend, ernstige problemen veroorzaakt op de markt of de binnenlandse regelmechanismen van de andere partij, onverwijld overleg teneinde een passende oplossing te vinden voor het probleem. In afwachting van deze oplossing kan de betrokken partij de passende maatregelen nemen die zij noodzakelijk acht.
+Onverminderd de andere bepalingen van deze overeenkomst, met name die van [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=IV&hoofdstuk=III&artikel=37&z=2006-07-01&g=2006-07-01), plegen beide partijen, indien, wegens de bijzondere gevoeligheid van de markten voor landbouw- en visserijproducten, de invoer van producten van oorsprong uit een partij waarvoor de concessies uit hoofde van de [artikelen 25](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=IV&hoofdstuk=II&artikel=25&z=2006-07-01&g=2006-07-01), [27](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=IV&hoofdstuk=II&artikel=27&z=2006-07-01&g=2006-07-01) en [28](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=IV&hoofdstuk=II&artikel=28&z=2006-07-01&g=2006-07-01) zijn verleend, ernstige problemen veroorzaakt op de markt of de binnenlandse regelmechanismen van de andere partij, onverwijld overleg teneinde een passende oplossing te vinden voor het probleem. In afwachting van deze oplossing kan de betrokken partij de passende maatregelen nemen die zij noodzakelijk acht.
 
 ### HOOFDSTUK III. GEMEENSCHAPPELIJKE BEPALINGEN
 
@@ -402,7 +404,7 @@ De bepalingen betreffende de afschaffing van douanerechten bij invoer zijn evene
 
 1. Deze Overeenkomst vormt geen beletsel voor de handhaving of de oprichting van douane-unies, vrijhandelszones of regelingen voor grensverkeer, mits de in deze Overeenkomst neergelegde handelsregelingen daardoor niet worden gewijzigd.
 
-2. Tijdens de in de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=IV&hoofdstuk=I&artikel=17&z=2005-08-01&g=2005-08-01) en [18](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=IV&hoofdstuk=I&artikel=18&z=2005-08-01&g=2005-08-01) vermelde overgangsperioden mag deze overeenkomst geen invloed hebben op de tenuitvoerlegging van de specifieke preferentiële regelingen voor het goederenverkeer die ofwel zijn vastgelegd in grensovereenkomsten die vroeger tussen een of meer lidstaten en de Socialistische Federale Republiek Joegoslavië, opgevolgd door de Voormalige Joegoslavische Republiek Macedonië, zijn gesloten, ofwel voortvloeien uit de in [titel III](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=III&z=2005-08-01&g=2005-08-01) gespecificeerde bilaterale overeenkomsten die door de Voormalige Joegoslavische Republiek Macedonië ter bevordering van de regionale handel zijn gesloten.
+2. Tijdens de in de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=IV&hoofdstuk=I&artikel=17&z=2006-07-01&g=2006-07-01) en [18](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=IV&hoofdstuk=I&artikel=18&z=2006-07-01&g=2006-07-01) vermelde overgangsperioden mag deze overeenkomst geen invloed hebben op de tenuitvoerlegging van de specifieke preferentiële regelingen voor het goederenverkeer die ofwel zijn vastgelegd in grensovereenkomsten die vroeger tussen een of meer lidstaten en de Socialistische Federale Republiek Joegoslavië, opgevolgd door de Voormalige Joegoslavische Republiek Macedonië, zijn gesloten, ofwel voortvloeien uit de in [titel III](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=III&z=2006-07-01&g=2006-07-01) gespecificeerde bilaterale overeenkomsten die door de Voormalige Joegoslavische Republiek Macedonië ter bevordering van de regionale handel zijn gesloten.
 
 3. De partijen plegen in de Stabilisatie- en Associatieraad overleg over de in de leden 1 en 2 beschreven overeenkomsten en, desgewenst, over andere belangrijke onderwerpen in verband met hun respectieve handelspolitiek ten aanzien van derde landen. Een dergelijk overleg vindt met name plaats bij de toetreding van een derde land tot de Gemeenschap, teneinde rekening te kunnen houden met de onderlinge belangen van de Gemeenschap en de Voormalige Joegoslavische Republiek Macedonië als omschreven in deze overeenkomst.
 
@@ -470,7 +472,7 @@ Deze overeenkomst vormt geen beletsel voor verbodsbepalingen of beperkingen ten 
 
 Beide partijen komen overeen samen te werken om het risico van fraude bij de toepassing van de handelsbepalingen van deze overeenkomst te verkleinen.
 
-In afwijking van andere bepalingen van deze overeenkomst, met name de [artikelen 30](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=IV&hoofdstuk=II&artikel=30&z=2005-08-01&g=2005-08-01), [37](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=IV&hoofdstuk=III&artikel=37&z=2005-08-01&g=2005-08-01) en [88](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=VIII&artikel=88&z=2005-08-01&g=2005-08-01) en Protocol 4, geldt dat, indien een van de partijen oordeelt dat er voldoende bewijs is van fraude, zoals een significante toename van de handel in producten van de ene naar de andere partij boven het niveau dat de economische omstandigheden zoals de normale productie en exportcapaciteit weerspiegelt, of het niet verlenen van de vereiste administratieve medewerking voor de verificatie van het bewijs van oorsprong door de andere partij, de partijen onverwijld overleg voeren om een passende oplossing te vinden. In afwachting van deze oplossing kan de betrokken partij de passende maatregelen nemen die zij noodzakelijk acht. Bij de keuze van deze maatregelen wordt prioriteit gegeven aan die welke de werking van de bij deze overeenkomst vastgestelde regelingen het minst verstoren.
+In afwijking van andere bepalingen van deze overeenkomst, met name de [artikelen 30](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=IV&hoofdstuk=II&artikel=30&z=2006-07-01&g=2006-07-01), [37](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=IV&hoofdstuk=III&artikel=37&z=2006-07-01&g=2006-07-01) en [88](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=VIII&artikel=88&z=2006-07-01&g=2006-07-01) en Protocol 4, geldt dat, indien een van de partijen oordeelt dat er voldoende bewijs is van fraude, zoals een significante toename van de handel in producten van de ene naar de andere partij boven het niveau dat de economische omstandigheden zoals de normale productie en exportcapaciteit weerspiegelt, of het niet verlenen van de vereiste administratieve medewerking voor de verificatie van het bewijs van oorsprong door de andere partij, de partijen onverwijld overleg voeren om een passende oplossing te vinden. In afwachting van deze oplossing kan de betrokken partij de passende maatregelen nemen die zij noodzakelijk acht. Bij de keuze van deze maatregelen wordt prioriteit gegeven aan die welke de werking van de bij deze overeenkomst vastgestelde regelingen het minst verstoren.
 
 ##### Artikel 43
 
@@ -486,7 +488,7 @@ De toepassing van deze overeenkomst laat de toepassing van de bepalingen van het
 
 - –. is de behandeling van werknemers die de nationaliteit van de Voormalige Joegoslavische Republiek Macedonië hebben en die legaal op het grondgebied van een lidstaat zijn tewerkgesteld vrij van elke vorm van discriminatie op grond van nationaliteit wat betreft de arbeidsvoorwaarden, de beloning of ontslag in vergelijking met de nationale onderdanen;
 
-- –. hebben de legaal op het grondgebied van een lidstaat verblijvende echtgenoot en kinderen van een legaal op het grondgebied van een lidstaat tewerkgestelde werknemer, met uitzondering van seizoenwerknemers en werknemers die onder bilaterale overeenkomsten in de zin van [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=V&hoofdstuk=I&artikel=45&z=2005-08-01&g=2005-08-01) vallen, tenzij in dergelijke overeenkomsten anders is bepaald, gedurende de periode van het toegestane tewerkstellingsverblijf van die werknemer toegang tot de arbeidsmarkt van die lidstaat.
+- –. hebben de legaal op het grondgebied van een lidstaat verblijvende echtgenoot en kinderen van een legaal op het grondgebied van een lidstaat tewerkgestelde werknemer, met uitzondering van seizoenwerknemers en werknemers die onder bilaterale overeenkomsten in de zin van [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=V&hoofdstuk=I&artikel=45&z=2006-07-01&g=2006-07-01) vallen, tenzij in dergelijke overeenkomsten anders is bepaald, gedurende de periode van het toegestane tewerkstellingsverblijf van die werknemer toegang tot de arbeidsmarkt van die lidstaat.
 
 2. De Voormalige Joegoslavische Republiek Macedonië verleent, met inachtneming van de in dat land geldende voorwaarden en modaliteiten, aan werknemers die onderdaan zijn van een lidstaat en die legaal op zijn grondgebied zijn tewerkgesteld alsmede aan hun echtgenoten en kinderen die aldaar legaal verblijven de in lid 1 vermelde behandeling.
 
@@ -536,7 +538,7 @@ In de overeenkomst wordt verstaan onder:
 
 - g. „communautaire onderdaan” en „onderdaan van de Voormalige Joegoslavische Republiek Macedonië”: een natuurlijke persoon die een onderdaan is van respectievelijk een van de lidstaten of van de Voormalige Joegoslavische Republiek Macedonië;
 
-- h. wat het internationale vervoer over zee betreft, met inbegrip van het intermodale vervoer dat ten dele over zee plaatsvindt, zijn de bepalingen van dit hoofdstuk en van [hoofdstuk III](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=V&hoofdstuk=III&z=2005-08-01&g=2005-08-01) van deze titel eveneens van toepassing op buiten de Gemeenschap of de Voormalige Joegoslavische Republiek Macedonië gevestigde onderdanen van respectievelijk de Gemeenschap of de Voormalige Joegoslavische Republiek Macedonië, en op buiten de Gemeenschap of de Voormalige Joegoslavische Republiek Macedonië gevestigde scheepvaartondernemingen die worden bestuurd door onderdanen van respectievelijk een lidstaat of de Voormalige Joegoslavische Republiek Macedonië, indien hun vaartuigen respectievelijk in die lidstaat of in de Voormalige Joegoslavische Republiek Macedonië in overeenstemming met de respectieve wetgevingen zijn ingeschreven;
+- h. wat het internationale vervoer over zee betreft, met inbegrip van het intermodale vervoer dat ten dele over zee plaatsvindt, zijn de bepalingen van dit hoofdstuk en van [hoofdstuk III](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=V&hoofdstuk=III&z=2006-07-01&g=2006-07-01) van deze titel eveneens van toepassing op buiten de Gemeenschap of de Voormalige Joegoslavische Republiek Macedonië gevestigde onderdanen van respectievelijk de Gemeenschap of de Voormalige Joegoslavische Republiek Macedonië, en op buiten de Gemeenschap of de Voormalige Joegoslavische Republiek Macedonië gevestigde scheepvaartondernemingen die worden bestuurd door onderdanen van respectievelijk een lidstaat of de Voormalige Joegoslavische Republiek Macedonië, indien hun vaartuigen respectievelijk in die lidstaat of in de Voormalige Joegoslavische Republiek Macedonië in overeenstemming met de respectieve wetgevingen zijn ingeschreven;
 
 - i. „financiële diensten”: de in bijlage VI omschreven activiteiten. De Stabilisatie- en Associatieraad kan de werkingssfeer van die bijlage uitbreiden of wijzigen.
 
@@ -568,7 +570,7 @@ In de overeenkomst wordt verstaan onder:
 
 ##### Artikel 49
 
-1. Met inachtneming van het bepaalde in [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=V&hoofdstuk=II&artikel=48&z=2005-08-01&g=2005-08-01) en uitgezonderd de in bijlage VI beschreven financiële diensten kan elke partij de vestiging van en de exploitatie door vennootschappen en onderdanen op haar grondgebied regelen, voor zover deze regelingen vennootschappen en onderdanen van de andere partij niet discrimineren in vergelijking met de eigen vennootschappen en onderdanen.
+1. Met inachtneming van het bepaalde in [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=V&hoofdstuk=II&artikel=48&z=2006-07-01&g=2006-07-01) en uitgezonderd de in bijlage VI beschreven financiële diensten kan elke partij de vestiging van en de exploitatie door vennootschappen en onderdanen op haar grondgebied regelen, voor zover deze regelingen vennootschappen en onderdanen van de andere partij niet discrimineren in vergelijking met de eigen vennootschappen en onderdanen.
 
 2. Ten aanzien van financiële diensten vormt geen andere bepaling van deze overeenkomst voor een partij een beletsel om prudentiële maatregelen te treffen, voor het beschermen van investeerders, depositohouders, verzekeringsnemers of diegenen jegens wie een fiduciaire verplichting is aangegaan of om de integriteit en stabiliteit van het financiële systeem te verzekeren. Dergelijke maatregelen mogen door een partij niet worden aangewend om zich aan de uit de overeenkomst voortvloeiende verplichtingen te onttrekken.
 
@@ -582,7 +584,7 @@ In de overeenkomst wordt verstaan onder:
 
 ##### Artikel 51
 
-1. Het bepaalde in de [artikelen 48](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=V&hoofdstuk=II&artikel=48&z=2005-08-01&g=2005-08-01) en [49](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=V&hoofdstuk=II&artikel=49&z=2005-08-01&g=2005-08-01) vormt geen beletsel voor de toepassing door een partij, met betrekking tot de vestiging en activiteiten op haar grondgebied van filialen van vennootschappen van een andere partij die niet op het grondgebied van de eerste partij zijn opgericht, van bijzondere regels die op grond van juridische of technische verschillen tussen bedoelde filialen en filialen van vennootschappen die op het grondgebied van de eerste partij zijn opgericht, of, wat financiële diensten betreft, om prudentiële redenen gerechtvaardigd zijn.
+1. Het bepaalde in de [artikelen 48](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=V&hoofdstuk=II&artikel=48&z=2006-07-01&g=2006-07-01) en [49](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=V&hoofdstuk=II&artikel=49&z=2006-07-01&g=2006-07-01) vormt geen beletsel voor de toepassing door een partij, met betrekking tot de vestiging en activiteiten op haar grondgebied van filialen van vennootschappen van een andere partij die niet op het grondgebied van de eerste partij zijn opgericht, van bijzondere regels die op grond van juridische of technische verschillen tussen bedoelde filialen en filialen van vennootschappen die op het grondgebied van de eerste partij zijn opgericht, of, wat financiële diensten betreft, om prudentiële redenen gerechtvaardigd zijn.
 
 2. Het verschil in behandeling blijft beperkt tot hetgeen als gevolg van dergelijke juridische of technische verschillen strikt noodzakelijk is of, wat financiële diensten betreft, tot hetgeen om prudentiële redenen noodzakelijk is.
 
@@ -640,7 +642,7 @@ Bij het verstrijken van het vierde jaar na de datum van inwerkingtreding van dez
 
 1. De partijen verbinden zich ertoe overeenkomstig de hiernavolgende bepalingen de nodige stappen te ondernemen om geleidelijk het verrichten van diensten mogelijk te maken door vennootschappen of onderdanen van de Gemeenschap respectievelijk vennootschappen of onderdanen van de Voormalige Joegoslavische Republiek Macedonië die zijn gevestigd op het grondgebied van een andere partij dan die van de persoon voor wie de diensten worden verricht.
 
-2. Naargelang de in lid 1 bedoelde liberalisering tot stand komt, staan de partijen de tijdelijke verplaatsing toe van natuurlijke personen die de dienst verlenen of als werknemer voor de dienstverlener een belangrijke functie vervullen zoals omschreven in [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=V&hoofdstuk=II&artikel=53&z=2005-08-01&g=2005-08-01), met inbegrip van de natuurlijke personen die vertegenwoordigers zijn van een onderneming of onderdaan van de Gemeenschap of de Voormalige Joegoslavische Republiek Macedonië en tijdelijke toegang wensen te krijgen voor onderhandelingen over de verkoop van diensten of voor het aangaan van overeenkomsten over de verkoop van diensten namens de dienstverlener, voor zover deze vertegenwoordigers niet zelf betrokken zijn bij de openbare directe verkoop of bij de eigenlijke dienstverlening.
+2. Naargelang de in lid 1 bedoelde liberalisering tot stand komt, staan de partijen de tijdelijke verplaatsing toe van natuurlijke personen die de dienst verlenen of als werknemer voor de dienstverlener een belangrijke functie vervullen zoals omschreven in [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=V&hoofdstuk=II&artikel=53&z=2006-07-01&g=2006-07-01), met inbegrip van de natuurlijke personen die vertegenwoordigers zijn van een onderneming of onderdaan van de Gemeenschap of de Voormalige Joegoslavische Republiek Macedonië en tijdelijke toegang wensen te krijgen voor onderhandelingen over de verkoop van diensten of voor het aangaan van overeenkomsten over de verkoop van diensten namens de dienstverlener, voor zover deze vertegenwoordigers niet zelf betrokken zijn bij de openbare directe verkoop of bij de eigenlijke dienstverlening.
 
 3. Met ingang van de tweede fase van de overgangsperiode neemt de Stabilisatie- en Associatieraad de nodige maatregelen voor de geleidelijke tenuitvoerlegging van de bepalingen van lid 1. Hierbij wordt rekening gehouden met de vorderingen die de partijen maken bij de onderlinge aanpassing van hun wetgeving.
 
@@ -684,7 +686,7 @@ De partijen verbinden zich ertoe machtiging te verlenen, in vrije convertibele v
 
 ##### Artikel 59
 
-1. Met betrekking tot de verrichtingen op de kapitaalrekening en de financiële rekening van de betalingsbalans garanderen vanaf de datum van inwerkingtreding van de Overeenkomst zowel de lidstaten als de Voormalige Joegoslavische Republiek Macedonië het vrije verkeer van kapitaal met betrekking tot directe investeringen in ondernemingen welke in overeenstemming met de wetten van het gastland zijn opgericht, en investeringen in overeenstemming met [hoofdstuk II van titel V](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=V&hoofdstuk=II&z=2005-08-01&g=2005-08-01), alsook de liquidatie of de repatriëring van die investeringen en van alle opbrengsten daarvan.
+1. Met betrekking tot de verrichtingen op de kapitaalrekening en de financiële rekening van de betalingsbalans garanderen vanaf de datum van inwerkingtreding van de Overeenkomst zowel de lidstaten als de Voormalige Joegoslavische Republiek Macedonië het vrije verkeer van kapitaal met betrekking tot directe investeringen in ondernemingen welke in overeenstemming met de wetten van het gastland zijn opgericht, en investeringen in overeenstemming met [hoofdstuk II van titel V](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=V&hoofdstuk=II&z=2006-07-01&g=2006-07-01), alsook de liquidatie of de repatriëring van die investeringen en van alle opbrengsten daarvan.
 
 2. Met betrekking tot de verrichtingen op de kapitaalrekening van de betalingsbalans garanderen zowel de lidstaten als Slovenië het vrije verkeer van kapitaal met betrekking tot kredieten die verband houden met commerciële transacties of het verrichten van diensten waarbij een ingezetene van een der partijen betrokken is, alsmede op financiële leningen en kredieten met een looptijd van meer dan een jaar.
 
@@ -692,7 +694,7 @@ Bij aanvang van de tweede fase garanderen zij tevens het vrije verkeer van kapit
 
 3. Onverminderd lid 1 stellen de partijen geen nieuwe beperkingen in op het kapitaalverkeer en de lopende betalingen tussen ingezetenen van de Gemeenschap en van de Voormalige Joegoslavische Republiek Macedonië, en brengen zij in de bestaande regelingen geen verdere restricties aan.
 
-4. Onverminderd de bepalingen van [artikel 58](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=V&hoofdstuk=IV&artikel=58&z=2005-08-01&g=2005-08-01) en van dit artikel mogen de Gemeenschap en de Voormalige Joegoslavische Republiek Macedonië in uitzonderlijke gevallen wanneer het kapitaalverkeer tussen de Gemeenschap en de Voormalige Joegoslavische Republiek Macedonië ernstige moeilijkheden veroorzaakt of dreigt te veroorzaken voor de werking van het wisselkoersbeleid of het monetaire beleid in de Gemeenschap of de Voormalige Joegoslavische Republiek Macedonië, vrijwaringsmaatregelen nemen ten aanzien van het kapitaalverkeer tussen de Gemeenschap en de Voormalige Joegoslavische Republiek Macedonië voor een periode van ten hoogste zes maanden indien dergelijke maatregelen absoluut noodzakelijk zijn.
+4. Onverminderd de bepalingen van [artikel 58](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=V&hoofdstuk=IV&artikel=58&z=2006-07-01&g=2006-07-01) en van dit artikel mogen de Gemeenschap en de Voormalige Joegoslavische Republiek Macedonië in uitzonderlijke gevallen wanneer het kapitaalverkeer tussen de Gemeenschap en de Voormalige Joegoslavische Republiek Macedonië ernstige moeilijkheden veroorzaakt of dreigt te veroorzaken voor de werking van het wisselkoersbeleid of het monetaire beleid in de Gemeenschap of de Voormalige Joegoslavische Republiek Macedonië, vrijwaringsmaatregelen nemen ten aanzien van het kapitaalverkeer tussen de Gemeenschap en de Voormalige Joegoslavische Republiek Macedonië voor een periode van ten hoogste zes maanden indien dergelijke maatregelen absoluut noodzakelijk zijn.
 
 5. De partijen plegen overleg teneinde het kapitaalverkeer tussen de Gemeenschap en de Voormalige Joegoslavische Republiek Macedonië te vergemakkelijken met het oog op de verwezenlijking van de doelstellingen van deze overeenkomst.
 
@@ -712,7 +714,7 @@ Bij aanvang van de tweede fase garanderen zij tevens het vrije verkeer van kapit
 
 ##### Artikel 62
 
-Voor de toepassing van deze titel belet geen enkele bepaling van deze overeenkomst de partijen hun wetten en voorschriften betreffende toelating en verblijf, tewerkstelling, arbeidsvoorwaarden, de vestiging van natuurlijke personen en het verrichten van diensten toe te passen, mits zij dat niet op zodanige wijze doen dat de voor een partij uit een specifieke bepaling van de overeenkomst voortvloeiende voordelen teniet gedaan of beperkt worden. Deze bepaling doet geen afbreuk aan de toepassing van [artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=V&hoofdstuk=V&artikel=61&z=2005-08-01&g=2005-08-01).
+Voor de toepassing van deze titel belet geen enkele bepaling van deze overeenkomst de partijen hun wetten en voorschriften betreffende toelating en verblijf, tewerkstelling, arbeidsvoorwaarden, de vestiging van natuurlijke personen en het verrichten van diensten toe te passen, mits zij dat niet op zodanige wijze doen dat de voor een partij uit een specifieke bepaling van de overeenkomst voortvloeiende voordelen teniet gedaan of beperkt worden. Deze bepaling doet geen afbreuk aan de toepassing van [artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=V&hoofdstuk=V&artikel=61&z=2006-07-01&g=2006-07-01).
 
 ##### Artikel 63
 
@@ -750,11 +752,11 @@ De bepalingen van deze Overeenkomst doen geen afbreuk aan de uitvoering door elk
 
 2. Deze geleidelijke harmonisatie van de wetgeving zal in twee fasen plaatsvinden.
 
-3. Beginnend op de datum van ondertekening van de overeenkomst en met een duur die in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=I&artikel=5&z=2005-08-01&g=2005-08-01) wordt uiteengezet, heeft de aanpassing van wetgeving ook betrekking op bepaalde fundamentele elementen van het acquis betreffende de interne markt en op andere met de handel verband houdende terreinen, volgens een in coördinatie met de Commissie van de Europese Gemeenschappen op te stellen programma. De Voormalige Joegoslavische Republiek Macedonië definieert ook, in coördinatie met de Commissie van de Europese Gemeenschappen, de modaliteiten voor het toezicht op de tenuitvoerlegging van de harmonisatie van de wetgeving en de te treffen rechtshandhavingsmaatregelen, inclusief hervorming van het justitieel apparaat.
+3. Beginnend op de datum van ondertekening van de overeenkomst en met een duur die in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=I&artikel=5&z=2006-07-01&g=2006-07-01) wordt uiteengezet, heeft de aanpassing van wetgeving ook betrekking op bepaalde fundamentele elementen van het acquis betreffende de interne markt en op andere met de handel verband houdende terreinen, volgens een in coördinatie met de Commissie van de Europese Gemeenschappen op te stellen programma. De Voormalige Joegoslavische Republiek Macedonië definieert ook, in coördinatie met de Commissie van de Europese Gemeenschappen, de modaliteiten voor het toezicht op de tenuitvoerlegging van de harmonisatie van de wetgeving en de te treffen rechtshandhavingsmaatregelen, inclusief hervorming van het justitieel apparaat.
 
 Er zullen tijdslimieten worden vastgesteld voor de mededingingswetgeving, de wetgeving inzake de intellectuele eigendom, de wetgeving inzake normen en certificering, de wetgeving inzake overheidsopdrachten en de wetgeving inzake gegevensbescherming. Harmonisatie van de wetgeving in andere sectoren van de interne markt is een verplichting waaraan aan het einde van de overgangsperiode zal moeten zijn voldaan.
 
-4. Tijdens de tweede fase van de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=I&artikel=5&z=2005-08-01&g=2005-08-01) vermelde overgangsperiode heeft de aanpassing van de wetgeving ook betrekking op de elementen van het acquis die niet door het vorige lid worden gedekt.
+4. Tijdens de tweede fase van de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=I&artikel=5&z=2006-07-01&g=2006-07-01) vermelde overgangsperiode heeft de aanpassing van de wetgeving ook betrekking op de elementen van het acquis die niet door het vorige lid worden gedekt.
 
 ##### Artikel 69. Bepalingen betreffende de concurrentie en andere economische aspecten
 
@@ -772,7 +774,7 @@ Er zullen tijdslimieten worden vastgesteld voor de mededingingswetgeving, de wet
 
 - b. Elke partij garandeert met betrekking tot overheidssteun transparantie door met name ieder jaar aan de andere partij mededeling te doen van het totale bedrag en de verdeling van de verstrekte steun en door op verzoek informatie over steunprogramma's te verstrekken. Op verzoek van een van de partijen verstrekt de andere partij informatie over bepaalde afzonderlijke steunmaatregelen van de overheid. Elke partij zal erop toezien dat deze bepalingen van dit artikel binnen vijf jaar na de inwerkingtreding van deze overeenkomst worden toegepast.
 
-4. Met betrekking tot de producten vermeld in [hoofdstuk II van titel IV](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=IV&hoofdstuk=II&z=2005-08-01&g=2005-08-01):
+4. Met betrekking tot de producten vermeld in [hoofdstuk II van titel IV](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=IV&hoofdstuk=II&z=2006-07-01&g=2006-07-01):
 
 - –. is het bepaalde in lid 1, onder iii), niet van toepassing;
 
@@ -808,7 +810,7 @@ Indien zich op het gebied van intellectuele, industriële en commerciële eigend
 
 Bovenstaande bepalingen zullen ook van toepassing zijn op contracten in de nutssector zodra de Voormalige Joegoslavische Republiek Macedonië de wetgeving die de communautaire regels op dit terrein invoert, heeft vastgesteld. De Gemeenschap onderzoekt op gezette tijden of de Voormalige Joegoslavische Republiek Macedonië deze wetgeving daadwerkelijk heeft ingevoerd.
 
-De vennootschappen van de Gemeenschap die niet in de Voormalige Joegoslavische Republiek Macedonië zijn gevestigd, krijgen, uiterlijk vijf jaar na de inwerkingtreding van deze overeenkomst, toegang tot aanbestedingsprocedures in de Voormalige Joegoslavische Republiek Macedonië overeenkomstig de Wet op Aanbestedingen en krijgen daarbij een behandeling die niet minder gunstig is dan die van de vennootschappen van de Voormalige Joegoslavische Republiek Macedonië. De in de Voormalige Joegoslavische Republiek Macedonië overeenkomstig de bepalingen van [hoofdstuk 2 van titel V](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=V&hoofdstuk=II&z=2005-08-01&g=2005-08-01) gevestigde vennootschappen van de Gemeenschap krijgen vanaf de datum van inwerkingtreding van de overeenkomst toegang tot aanbestedingsprocedures en krijgen daarbij een behandeling die niet minder gunstig is dan die van vennootschappen van de Voormalige Joegoslavische Republiek Macedonië.
+De vennootschappen van de Gemeenschap die niet in de Voormalige Joegoslavische Republiek Macedonië zijn gevestigd, krijgen, uiterlijk vijf jaar na de inwerkingtreding van deze overeenkomst, toegang tot aanbestedingsprocedures in de Voormalige Joegoslavische Republiek Macedonië overeenkomstig de Wet op Aanbestedingen en krijgen daarbij een behandeling die niet minder gunstig is dan die van de vennootschappen van de Voormalige Joegoslavische Republiek Macedonië. De in de Voormalige Joegoslavische Republiek Macedonië overeenkomstig de bepalingen van [hoofdstuk 2 van titel V](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=V&hoofdstuk=II&z=2006-07-01&g=2006-07-01) gevestigde vennootschappen van de Gemeenschap krijgen vanaf de datum van inwerkingtreding van de overeenkomst toegang tot aanbestedingsprocedures en krijgen daarbij een behandeling die niet minder gunstig is dan die van vennootschappen van de Voormalige Joegoslavische Republiek Macedonië.
 
 De Stabilisatie- en Associatieraad onderzoekt op gezette tijden de mogelijkheid voor de Voormalige Joegoslavische Republiek Macedonië om alle vennootschappen van de Gemeenschap toegang te verlenen tot aanbestedingsprocedures in de Voormalige Joegoslavische Republiek Macedonië.
 
@@ -1030,7 +1032,7 @@ De samenwerking op het gebied van toerisme is gericht op het vergemakkelijken en
 
 - –. steun bij de invoering van moderne douane-informatiesystemen.
 
-3. Onverminderd de verdere bepalingen inzake samenwerking van deze Overeenkomst en in het bijzonder [artikel 76](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=VII&artikel=76&z=2005-08-01&g=2005-08-01), [77](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=VII&artikel=77&z=2005-08-01&g=2005-08-01) en [78](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=VII&artikel=78&z=2005-08-01&g=2005-08-01) vindt de wederzijdse bijstand tussen de administratieve autoriteiten op douanegebied van de partijen plaats overeenkomstig de bepalingen van Protocol 5.
+3. Onverminderd de verdere bepalingen inzake samenwerking van deze Overeenkomst en in het bijzonder [artikel 76](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=VII&artikel=76&z=2006-07-01&g=2006-07-01), [77](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=VII&artikel=77&z=2006-07-01&g=2006-07-01) en [78](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=VII&artikel=78&z=2006-07-01&g=2006-07-01) vindt de wederzijdse bijstand tussen de administratieve autoriteiten op douanegebied van de partijen plaats overeenkomstig de bepalingen van Protocol 5.
 
 ##### Artikel 89. Belastingen
 
@@ -1236,7 +1238,7 @@ Specifieke aandacht wordt besteed aan grensoverschrijdende, transnationale en in
 
 ##### Artikel 104
 
-Met het oog op de verwezenlijking van de doelstellingen van deze Overeenkomst en in overeenstemming met de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=I&artikel=3&z=2005-08-01&g=2005-08-01), [108](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=X&artikel=108&z=2005-08-01&g=2005-08-01) en [109](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=X&artikel=109&z=2005-08-01&g=2005-08-01) komt de Voormalige Joegoslavische Republiek Macedonië in aanmerking voor financiële steun van de Gemeenschap in de vorm subsidies en leningen, waaronder leningen van de Europese Investeringsbank.
+Met het oog op de verwezenlijking van de doelstellingen van deze Overeenkomst en in overeenstemming met de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=I&artikel=3&z=2006-07-01&g=2006-07-01), [108](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=X&artikel=108&z=2006-07-01&g=2006-07-01) en [109](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=X&artikel=109&z=2006-07-01&g=2006-07-01) komt de Voormalige Joegoslavische Republiek Macedonië in aanmerking voor financiële steun van de Gemeenschap in de vorm subsidies en leningen, waaronder leningen van de Europese Investeringsbank.
 
 ##### Artikel 105
 
@@ -1276,7 +1278,7 @@ Hierbij wordt een Stabilisatie- en Associatieraad opgericht, die toezicht houdt 
 
 ##### Artikel 110
 
-Om de doelstellingen van de overeenkomst te bereiken, krijgt de Stabilisatie- en Associatieraad de bevoegdheid besluiten te nemen binnen de toepassingssfeer van deze overeenkomst voor de in de overeenkomst vermelde gevallen. Zijn besluiten zijn bindend voor de partijen, die de nodige maatregelen treffen voor de uitvoering ervan. Bij het nemen van een besluit over de overgang naar de tweede fase, volgens de bepalingen van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=I&artikel=5&z=2005-08-01&g=2005-08-01), kan de Stabilisatie- en Associatieraad ook besluiten nemen over eventuele inhoudelijke veranderingen in de bepalingen die gelden voor de tweede fase.
+Om de doelstellingen van de overeenkomst te bereiken, krijgt de Stabilisatie- en Associatieraad de bevoegdheid besluiten te nemen binnen de toepassingssfeer van deze overeenkomst voor de in de overeenkomst vermelde gevallen. Zijn besluiten zijn bindend voor de partijen, die de nodige maatregelen treffen voor de uitvoering ervan. Bij het nemen van een besluit over de overgang naar de tweede fase, volgens de bepalingen van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=I&artikel=5&z=2006-07-01&g=2006-07-01), kan de Stabilisatie- en Associatieraad ook besluiten nemen over eventuele inhoudelijke veranderingen in de bepalingen die gelden voor de tweede fase.
 
 In zijn reglement van orde bepaalt de Stabilisatie- en Associatieraad de taken van het Stabilisatie- en Associatiecomité, waaronder de voorbereiding van de vergaderingen van de Stabilisatie- en Associatieraad, en stelt hij de werkwijze van dit comité vast.
 
@@ -1344,7 +1346,7 @@ Bij de keuze van de maatregelen moet voorrang worden gegeven aan die welke de go
 
 De partijen komen overeen op verzoek van elk van de partijen onmiddellijk overleg te plegen via passende kanalen om kwesties met betrekking tot de interpretatie of tenuitvoerlegging van deze Overeenkomst en andere relevante aspecten van de betrekkingen tussen de partijen te bespreken.
 
-De bepalingen van dit artikel hebben geen invloed op en gelden onverminderd de [artikelen 30](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=IV&hoofdstuk=II&artikel=30&z=2005-08-01&g=2005-08-01), [37](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=IV&hoofdstuk=III&artikel=37&z=2005-08-01&g=2005-08-01), [38](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=IV&hoofdstuk=III&artikel=38&z=2005-08-01&g=2005-08-01) en [42](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=IV&hoofdstuk=III&artikel=42&z=2005-08-01&g=2005-08-01).
+De bepalingen van dit artikel hebben geen invloed op en gelden onverminderd de [artikelen 30](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=IV&hoofdstuk=II&artikel=30&z=2006-07-01&g=2006-07-01), [37](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=IV&hoofdstuk=III&artikel=37&z=2006-07-01&g=2006-07-01), [38](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=IV&hoofdstuk=III&artikel=38&z=2006-07-01&g=2006-07-01) en [42](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=IV&hoofdstuk=III&artikel=42&z=2006-07-01&g=2006-07-01).
 
 ##### Artikel 120
 
@@ -1386,7 +1388,7 @@ Bij haar inwerkingtreding vervangt deze overeenkomst de samenwerkingsovereenkoms
 
 ##### Artikel 128. Interimovereenkomst
 
-De partijen komen overeen dat indien, in afwachting van de voltooiing van de procedures die nodig zijn voor de inwerkingtreding van deze overeenkomst, de bepalingen van bepaalde gedeelten van deze overeenkomst, met name die met betrekking tot het vrije verkeer van goederen, door middel van een interimovereenkomst tussen de Gemeenschap en de Voormalige Joegoslavische Republiek Macedonië tot uitvoering worden gebracht, in dergelijke omstandigheden voor de toepassing van [titel IV](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=IV&z=2005-08-01&g=2005-08-01), de [artikelen 69](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=VI&artikel=69&z=2005-08-01&g=2005-08-01), [70](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=VI&artikel=70&z=2005-08-01&g=2005-08-01) en [71](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=VI&artikel=71&z=2005-08-01&g=2005-08-01), van deze overeenkomst en van de Protocollen 1 tot en met 5 daarbij, onder „datum van inwerkingtreding van deze overeenkomst” wordt verstaan: de datum van inwerkingtreding van de interimovereenkomst voor wat betreft de verplichtingen die in deze artikelen en protocollen zijn opgenomen.
+De partijen komen overeen dat indien, in afwachting van de voltooiing van de procedures die nodig zijn voor de inwerkingtreding van deze overeenkomst, de bepalingen van bepaalde gedeelten van deze overeenkomst, met name die met betrekking tot het vrije verkeer van goederen, door middel van een interimovereenkomst tussen de Gemeenschap en de Voormalige Joegoslavische Republiek Macedonië tot uitvoering worden gebracht, in dergelijke omstandigheden voor de toepassing van [titel IV](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=IV&z=2006-07-01&g=2006-07-01), de [artikelen 69](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=VI&artikel=69&z=2006-07-01&g=2006-07-01), [70](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=VI&artikel=70&z=2006-07-01&g=2006-07-01) en [71](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=VI&artikel=71&z=2006-07-01&g=2006-07-01), van deze overeenkomst en van de Protocollen 1 tot en met 5 daarbij, onder „datum van inwerkingtreding van deze overeenkomst” wordt verstaan: de datum van inwerkingtreding van de interimovereenkomst voor wat betreft de verplichtingen die in deze artikelen en protocollen zijn opgenomen.
 
 ##### Artikel 1
 
@@ -1398,7 +1400,7 @@ Dit Protocol heeft betrekking op textiel en kledingproducten (hierna „textielp
 
 2. De rechten die van toepassing zijn op de onder Afdeling XI (Hoofdstuk 50 tot en met 63) van de gecombineerde nomenclatuur vallende producten van oorsprong uit de Gemeenschap, in de zin van Protocol 4 van deze Overeenkomst, die rechtstreeks in de Voormalige Joegoslavische Republiek Macedonië worden ingevoerd, vervallen op de dag van inwerkingtreding van de Overeenkomst, met uitzondering van de rechten die van toepassing zijn op de in Bijlage I bij dit Protocol bedoelde producten die op de daarin vermelde wijze geleidelijk worden verminderd.
 
-3. Onder voorbehoud van het bepaalde in dit Protocol zijn de bepalingen van de Overeenkomst, en met name de [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=IV&hoofdstuk=I&artikel=19&z=2005-08-01&g=2005-08-01) en [34 van de Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=IV&hoofdstuk=III&artikel=34&z=2005-08-01&g=2005-08-01) van toepassing op de handel in textielproducten tussen partijen.
+3. Onder voorbehoud van het bepaalde in dit Protocol zijn de bepalingen van de Overeenkomst, en met name de [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=IV&hoofdstuk=I&artikel=19&z=2006-07-01&g=2006-07-01) en [34 van de Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=IV&hoofdstuk=III&artikel=34&z=2006-07-01&g=2006-07-01) van toepassing op de handel in textielproducten tussen partijen.
 
 ##### Artikel 3
 
@@ -1432,11 +1434,11 @@ Douanerechten die bij invoer in de Voormalige Joegoslavische Republiek Macedoni�
 
 ##### Artikel 5
 
-1. In verband met het bepaalde in [artikel 69 van de overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=VI&artikel=69&z=2005-08-01&g=2005-08-01) erkennen de partijen dat het noodzakelijk en urgent is dat elke partij terstond maatregelen neemt om eventuele structurele zwakheden van haar staalsector te verhelpen ter waarborging van het algemene concurrentievermogen van haar industrie. De Voormalige Joegoslavische Republiek Macedonië stelt daarom binnen twee jaar een herstructurerings- en omschakelingsprogramma voor haar staalindustrie op om ervoor te zorgen dat deze industrie op normale marktvoorwaarden kan voortbestaan. De Gemeenschap zal de Voormalige Joegoslavische Republiek Macedonië op verzoek technische bijstand verlenen om dit doel te bereiken.
+1. In verband met het bepaalde in [artikel 69 van de overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=VI&artikel=69&z=2006-07-01&g=2006-07-01) erkennen de partijen dat het noodzakelijk en urgent is dat elke partij terstond maatregelen neemt om eventuele structurele zwakheden van haar staalsector te verhelpen ter waarborging van het algemene concurrentievermogen van haar industrie. De Voormalige Joegoslavische Republiek Macedonië stelt daarom binnen twee jaar een herstructurerings- en omschakelingsprogramma voor haar staalindustrie op om ervoor te zorgen dat deze industrie op normale marktvoorwaarden kan voortbestaan. De Gemeenschap zal de Voormalige Joegoslavische Republiek Macedonië op verzoek technische bijstand verlenen om dit doel te bereiken.
 
-2. In verband met het bepaalde in [artikel 69 van de overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=VI&artikel=69&z=2005-08-01&g=2005-08-01) worden voorts alle praktijken die strijdig zijn met dit artikel beoordeeld op grond van specifieke criteria die voortvloeien uit de toepassing van de wetgeving van de Gemeenschap inzake overheidssteun, met inbegrip van de afgeleide wetgeving, en van bijzondere voorschriften inzake het toezicht op overheidssteun die na het vervallen van het EGKS-Verdrag op de staalsector van toepassing zijn.
+2. In verband met het bepaalde in [artikel 69 van de overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=VI&artikel=69&z=2006-07-01&g=2006-07-01) worden voorts alle praktijken die strijdig zijn met dit artikel beoordeeld op grond van specifieke criteria die voortvloeien uit de toepassing van de wetgeving van de Gemeenschap inzake overheidssteun, met inbegrip van de afgeleide wetgeving, en van bijzondere voorschriften inzake het toezicht op overheidssteun die na het vervallen van het EGKS-Verdrag op de staalsector van toepassing zijn.
 
-3. Voor de toepassing van [lid 1, onder iii) van artikel 69 van de overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=VI&artikel=69&z=2005-08-01&g=2005-08-01) op staalproducten, erkent de Gemeenschap dat de Voormalige Joegoslavische Republiek Macedonië gedurende vijf jaar na de inwerkingtreding van de overeenkomst bij wijze van uitzondering overheidssteun voor herstructureringsdoeleinden kan verlenen, mits:
+3. Voor de toepassing van [lid 1, onder iii) van artikel 69 van de overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=VI&artikel=69&z=2006-07-01&g=2006-07-01) op staalproducten, erkent de Gemeenschap dat de Voormalige Joegoslavische Republiek Macedonië gedurende vijf jaar na de inwerkingtreding van de overeenkomst bij wijze van uitzondering overheidssteun voor herstructureringsdoeleinden kan verlenen, mits:
 
 - –. de steun ertoe leidt dat de begunstigde ondernemingen aan het einde van de herstructureringsperiode op normale marktvoorwaarden kan voortbestaan;
 
@@ -1448,11 +1450,11 @@ Douanerechten die bij invoer in de Voormalige Joegoslavische Republiek Macedoni�
 
 5. De Stabilisatie- en Associatieraad houdt toezicht op de naleving van het bepaalde in de leden 1 tot en met 4.
 
-6. Indien een partij van oordeel is dat een praktijk van de andere partij met dit artikel in strijd is, en indien die praktijk nadelig is of dreigt te zijn voor de belangen van de eerste partij of indien de binnenlandse industrie van die partij aanmerkelijke schade ondervindt of dreigt te ondervinden, kan deze partij de nodige maatregelen nemen na raadpleging van de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&artikel=8&z=2005-08-01&g=2005-08-01) genoemde contactgroep of dertig werkdagen nadat om deze raadpleging is verzocht.
+6. Indien een partij van oordeel is dat een praktijk van de andere partij met dit artikel in strijd is, en indien die praktijk nadelig is of dreigt te zijn voor de belangen van de eerste partij of indien de binnenlandse industrie van die partij aanmerkelijke schade ondervindt of dreigt te ondervinden, kan deze partij de nodige maatregelen nemen na raadpleging van de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&artikel=8&z=2006-07-01&g=2006-07-01) genoemde contactgroep of dertig werkdagen nadat om deze raadpleging is verzocht.
 
 ##### Artikel 6
 
-De [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=IV&hoofdstuk=I&artikel=19&z=2005-08-01&g=2005-08-01), [20](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=IV&hoofdstuk=I&artikel=20&z=2005-08-01&g=2005-08-01) en [34 van de overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=IV&hoofdstuk=III&artikel=34&z=2005-08-01&g=2005-08-01) zijn van toepassing op de handel in staalproducten tussen de partijen.
+De [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=IV&hoofdstuk=I&artikel=19&z=2006-07-01&g=2006-07-01), [20](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=IV&hoofdstuk=I&artikel=20&z=2006-07-01&g=2006-07-01) en [34 van de overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=IV&hoofdstuk=III&artikel=34&z=2006-07-01&g=2006-07-01) zijn van toepassing op de handel in staalproducten tussen de partijen.
 
 ##### Artikel 7
 
@@ -2170,7 +2172,7 @@ Verzoeken om de afgifte van documenten of om de kennisgeving van besluiten worde
 
 - a. de soevereiniteit van de Voormalige Joegoslavische Republiek Macedonië of van een lidstaat waaraan op grond van dit Protocol om bijstand is gevraagd, zou kunnen aantasten;
 
-- b. de openbare orde, de veiligheid of andere wezenlijke belangen in gevaar zou kunnen brengen, in het bijzonder in de in [artikel 10, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&artikel=10&z=2005-08-01&g=2005-08-01), bedoelde gevallen;
+- b. de openbare orde, de veiligheid of andere wezenlijke belangen in gevaar zou kunnen brengen, in het bijzonder in de in [artikel 10, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&artikel=10&z=2006-07-01&g=2006-07-01), bedoelde gevallen;
 
 - c. de schending inhoudt van een industrieel geheim, een handelsgeheim of een beroepsgeheim.
 
@@ -2216,7 +2218,7 @@ De Overeenkomstsluitende Partijen brengen elkaar geen kosten in rekening voor ui
 
 2. Onverminderd lid 1 hebben de bepalingen van dit protocol voorrang op de bepalingen van bilaterale overeenkomsten betreffende wederzijdse bijstand die zijn of kunnen worden gesloten tussen afzonderlijke lidstaten en de Voormalige Joegoslavische Republiek Macedonië voorzover de bepalingen van laatstgenoemde overeenkomsten met die van dit protocol strijdig zijn.
 
-3. Ten aanzien van vraagstukken in verband met de toepassing van dit protocol plegen de Overeenkomstsluitende Partijen overleg met elkaar om deze op te lossen in het kader van het bij [artikel 114 van de Stabilisatie- en Associatieovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=X&artikel=114&z=2005-08-01&g=2005-08-01) ingestelde Stabilisatie- en Associatiecomité.
+3. Ten aanzien van vraagstukken in verband met de toepassing van dit protocol plegen de Overeenkomstsluitende Partijen overleg met elkaar om deze op te lossen in het kader van het bij [artikel 114 van de Stabilisatie- en Associatieovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=X&artikel=114&z=2006-07-01&g=2006-07-01) ingestelde Stabilisatie- en Associatiecomité.
 
 De gevolmachtigden van:
 
