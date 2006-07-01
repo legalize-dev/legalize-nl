@@ -4,7 +4,7 @@ identifier: "BWBR0005233"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-07-01"
-last_updated: "2000-04-14"
+last_updated: "2006-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005233"
 soort: "AMvB"
@@ -89,7 +89,7 @@ Kredietvergoeding over een bepaald tijdvak mag niet eerder in rekening worden ge
 
 ##### Artikel 4
 
-Voor de berekening van de ten hoogste toegelaten kredietvergoeding bij regelmatige afwikkeling geldt de wettelijke rente verhoogd met 17 procentpunten als het ten hoogste toegelaten effectieve kredietvergoedingspercentage op jaarbasis.
+Voor de berekening van de ten hoogste toegelaten kredietvergoeding bij regelmatige afwikkeling geldt de wettelijke rente verhoogd met 12 procentpunten als het ten hoogste toegelaten effectieve kredietvergoedingspercentage op jaarbasis.
 
 ##### Artikel 5
 
@@ -117,13 +117,13 @@ Rt: het uitstaand saldo aan het begin van de betalingstermijn met volgnummer t d
 
 im: het honderdste deel van het ten hoogste toegelaten kredietvergoedingspercentage per betalingstermijn;
 
-i: het honderdste deel van het ingevolge [afdeling 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005233&hoofdstuk=II&afdeling=1&z=2000-04-14&g=2000-04-14) ten hoogste toegelaten effectieve kredietvergoedingspercentage op jaarbasis;
+i: het honderdste deel van het ingevolge [afdeling 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005233&hoofdstuk=II&afdeling=1&z=2006-07-01&g=2006-07-01) ten hoogste toegelaten effectieve kredietvergoedingspercentage op jaarbasis;
 
 m: het aantal betalingstermijnen per jaar.
 
-2. Indien bij een krediettransactie als bedoeld in het eerste lid een betaling of het opnemen van een geldsom door de kredietnemer dan wel het verschaffen van het genot van een zaak of het verlenen van een dienst aan de kredietnemer, plaatsvinden op een ander tijdstip dan waarop ingevolge de betalingsregeling uiterlijk een termijnbedrag dient te worden voldaan, wordt de ten hoogste toegelaten kredietvergoeding ter zake van de betalingstermijn waarbinnen deze gebeurtenissen plaatsvinden, op dagbasis berekend, waarbij de ten hoogste toegelaten kredietvergoeding per dag wordt berekend op de in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0005233&hoofdstuk=II&afdeling=2&artikel=10&z=2000-04-14&g=2000-04-14) aangegeven wijze.
+2. Indien bij een krediettransactie als bedoeld in het eerste lid een betaling of het opnemen van een geldsom door de kredietnemer dan wel het verschaffen van het genot van een zaak of het verlenen van een dienst aan de kredietnemer, plaatsvinden op een ander tijdstip dan waarop ingevolge de betalingsregeling uiterlijk een termijnbedrag dient te worden voldaan, wordt de ten hoogste toegelaten kredietvergoeding ter zake van de betalingstermijn waarbinnen deze gebeurtenissen plaatsvinden, op dagbasis berekend, waarbij de ten hoogste toegelaten kredietvergoeding per dag wordt berekend op de in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0005233&hoofdstuk=II&afdeling=2&artikel=10&z=2006-07-01&g=2006-07-01) aangegeven wijze.
 
-3. In het geval, bedoeld in het eerste lid, onder **b**, wordt de ten hoogste toegelaten kredietvergoeding ter zake van de afwijkende betalingstermijnen op dagbasis berekend, waarbij de ten hoogste toegelaten kredietvergoeding per dag wordt berekend op de in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0005233&hoofdstuk=II&afdeling=2&artikel=10&z=2000-04-14&g=2000-04-14) aangegeven wijze.
+3. In het geval, bedoeld in het eerste lid, onder **b**, wordt de ten hoogste toegelaten kredietvergoeding ter zake van de afwijkende betalingstermijnen op dagbasis berekend, waarbij de ten hoogste toegelaten kredietvergoeding per dag wordt berekend op de in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0005233&hoofdstuk=II&afdeling=2&artikel=10&z=2006-07-01&g=2006-07-01) aangegeven wijze.
 
 ##### Artikel 7
 
@@ -151,7 +151,7 @@ K: de kredietsom;
 
 im: het honderdste deel van het ten hoogste toegelaten kredietvergoedingspercentage per betalingstermijn;
 
-i: het honderdste deel van het ingevolge [afdeling 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005233&hoofdstuk=II&afdeling=1&z=2000-04-14&g=2000-04-14) ten hoogste toegelaten effectieve kredietvergoedingspercentage op jaarbasis;
+i: het honderdste deel van het ingevolge [afdeling 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005233&hoofdstuk=II&afdeling=1&z=2006-07-01&g=2006-07-01) ten hoogste toegelaten effectieve kredietvergoedingspercentage op jaarbasis;
 
 m: het aantal betalingstermijnen per jaar.
 
@@ -159,11 +159,11 @@ m: het aantal betalingstermijnen per jaar.
 
 - a. de ten hoogste toegelaten totale kredietvergoeding, berekend op de in het eerste lid aangegeven wijze, met dien verstande dat voor de omschrijving van "n" wordt gelezen: het totale aantal gelijk blijvende betalingstermijnen, en
 
-- b. de ter zake van de afwijkende betalingstermijn op dagbasis berekende ten hoogste toegelaten kredietvergoeding, berekend op de in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0005233&hoofdstuk=II&afdeling=2&artikel=10&z=2000-04-14&g=2000-04-14) aangegeven wijze.
+- b. de ter zake van de afwijkende betalingstermijn op dagbasis berekende ten hoogste toegelaten kredietvergoeding, berekend op de in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0005233&hoofdstuk=II&afdeling=2&artikel=10&z=2006-07-01&g=2006-07-01) aangegeven wijze.
 
 ##### Artikel 8
 
-1. De ten hoogste toegelaten kredietvergoeding per betalingstermijn bij regelmatige afwikkeling van andere dan de in het tweede lid alsmede de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005233&hoofdstuk=II&afdeling=2&artikel=6&z=2000-04-14&g=2000-04-14) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0005233&hoofdstuk=II&afdeling=2&artikel=7&z=2000-04-14&g=2000-04-14) bedoelde krediettransacties wordt berekend als volgt:
+1. De ten hoogste toegelaten kredietvergoeding per betalingstermijn bij regelmatige afwikkeling van andere dan de in het tweede lid alsmede de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005233&hoofdstuk=II&afdeling=2&artikel=6&z=2006-07-01&g=2006-07-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0005233&hoofdstuk=II&afdeling=2&artikel=7&z=2006-07-01&g=2006-07-01) bedoelde krediettransacties wordt berekend als volgt:
 
 KVt= Rt . imt,
 
@@ -181,17 +181,17 @@ Rt: het uitstaand saldo aan het begin van de betalingstermijn met volgnummer t d
 
 imt: het honderdste deel van het ten hoogste toegelaten kredietvergoedingspercentage per betalingstermijn met volgnummer t;
 
-i: het honderdste deel van het ingevolge [afdeling 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005233&hoofdstuk=II&afdeling=1&z=2000-04-14&g=2000-04-14) ten hoogste toegelaten effectieve kredietvergoedingspercentage op jaarbasis;
+i: het honderdste deel van het ingevolge [afdeling 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005233&hoofdstuk=II&afdeling=1&z=2006-07-01&g=2006-07-01) ten hoogste toegelaten effectieve kredietvergoedingspercentage op jaarbasis;
 
 mt: een periode die gelijk is aan een jaar, uitgedrukt in eenheden van een betalingstermijn met volgnummer t.
 
-2. De ten hoogste toegelaten kredietvergoeding bij regelmatige afwikkeling van doorlopende krediettransacties waarvoor geen betalingsregeling van toepassing is wordt berekend op dagbasis. Daarbij wordt de ten hoogste toegelaten kredietvergoeding per dag berekend op de in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0005233&hoofdstuk=II&afdeling=2&artikel=10&z=2000-04-14&g=2000-04-14) aangegeven wijze.
+2. De ten hoogste toegelaten kredietvergoeding bij regelmatige afwikkeling van doorlopende krediettransacties waarvoor geen betalingsregeling van toepassing is wordt berekend op dagbasis. Daarbij wordt de ten hoogste toegelaten kredietvergoeding per dag berekend op de in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0005233&hoofdstuk=II&afdeling=2&artikel=10&z=2006-07-01&g=2006-07-01) aangegeven wijze.
 
 ##### Artikel 9
 
-1. Indien op een tijdstip na het aangaan van de krediettransactie de betalingsregeling bij nadere overeenkomst wordt gewijzigd, wordt de kredietvergoeding bij regelmatige afwikkeling over de laatste betalingstermijn voor dat tijdstip respectievelijk over de eerste betalingstermijn na dat tijdstip op dagbasis berekend, indien die betalingstermijn afwijkt van de overige betalingstermijnen voor respectievelijk na dat tijdstip. Daarbij wordt de ten hoogste toegelaten kredietvergoeding per dag berekend op de in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0005233&hoofdstuk=II&afdeling=2&artikel=10&z=2000-04-14&g=2000-04-14) aangegeven wijze.
+1. Indien op een tijdstip na het aangaan van de krediettransactie de betalingsregeling bij nadere overeenkomst wordt gewijzigd, wordt de kredietvergoeding bij regelmatige afwikkeling over de laatste betalingstermijn voor dat tijdstip respectievelijk over de eerste betalingstermijn na dat tijdstip op dagbasis berekend, indien die betalingstermijn afwijkt van de overige betalingstermijnen voor respectievelijk na dat tijdstip. Daarbij wordt de ten hoogste toegelaten kredietvergoeding per dag berekend op de in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0005233&hoofdstuk=II&afdeling=2&artikel=10&z=2006-07-01&g=2006-07-01) aangegeven wijze.
 
-2. Indien de betalingsregeling na de wijziging voldoet aan de omschrijving van [artikel 7, eerste lid, aanhef en onder **a** of **b**, dan wel tweede lid, aanhef](https://wetten.overheid.nl/jci1.3:c:BWBR0005233&hoofdstuk=II&afdeling=2&artikel=7&z=2000-04-14&g=2000-04-14), wordt de ten hoogste toegelaten kredietvergoeding per betalingstermijn bij regelmatige afwikkeling na dat tijdstip niettemin berekend op de in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005233&hoofdstuk=II&afdeling=2&artikel=8&z=2000-04-14&g=2000-04-14), aangegeven wijze. De aldus berekende ten hoogste toegelaten kredietvergoeding treedt in de plaats van de ten hoogste toegelaten kredietvergoeding die nog in rekening zou kunnen worden gebracht indien de betalingsregeling niet zou zijn gewijzigd.
+2. Indien de betalingsregeling na de wijziging voldoet aan de omschrijving van [artikel 7, eerste lid, aanhef en onder **a** of **b**, dan wel tweede lid, aanhef](https://wetten.overheid.nl/jci1.3:c:BWBR0005233&hoofdstuk=II&afdeling=2&artikel=7&z=2006-07-01&g=2006-07-01), wordt de ten hoogste toegelaten kredietvergoeding per betalingstermijn bij regelmatige afwikkeling na dat tijdstip niettemin berekend op de in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005233&hoofdstuk=II&afdeling=2&artikel=8&z=2006-07-01&g=2006-07-01), aangegeven wijze. De aldus berekende ten hoogste toegelaten kredietvergoeding treedt in de plaats van de ten hoogste toegelaten kredietvergoeding die nog in rekening zou kunnen worden gebracht indien de betalingsregeling niet zou zijn gewijzigd.
 
 ##### Artikel 10
 
@@ -203,11 +203,11 @@ KVd: de ten hoogste toegelaten kredietvergoeding over dag d;
 
 Rd: het uitstaand saldo aan het begin van dag d, dan wel:
 
-- 1°. indien het gaat om de toepassing van [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005233&hoofdstuk=II&afdeling=2&artikel=6&z=2000-04-14&g=2000-04-14), of [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005233&hoofdstuk=II&afdeling=2&artikel=8&z=2000-04-14&g=2000-04-14), en het uitstaand saldo als gevolg van achterstallige betalingen hoger is dan de kredietlimiet: de kredietlimiet;
+- 1°. indien het gaat om de toepassing van [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005233&hoofdstuk=II&afdeling=2&artikel=6&z=2006-07-01&g=2006-07-01), of [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005233&hoofdstuk=II&afdeling=2&artikel=8&z=2006-07-01&g=2006-07-01), en het uitstaand saldo als gevolg van achterstallige betalingen hoger is dan de kredietlimiet: de kredietlimiet;
 
-- 2°. indien het gaat om de toepassing van [artikel 7, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0005233&hoofdstuk=II&afdeling=2&artikel=7&z=2000-04-14&g=2000-04-14), en de kredietnemer achterstallig is: het uitstaand saldo dat aan het begin van dag d zou bestaan als de kredietnemer niet achterstallig zou zijn;
+- 2°. indien het gaat om de toepassing van [artikel 7, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0005233&hoofdstuk=II&afdeling=2&artikel=7&z=2006-07-01&g=2006-07-01), en de kredietnemer achterstallig is: het uitstaand saldo dat aan het begin van dag d zou bestaan als de kredietnemer niet achterstallig zou zijn;
 
-i: het honderdste deel van het ingevolge [afdeling 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005233&hoofdstuk=II&afdeling=1&z=2000-04-14&g=2000-04-14) ten hoogste toegelaten effectieve kredietvergoedingspercentage op jaarbasis;
+i: het honderdste deel van het ingevolge [afdeling 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005233&hoofdstuk=II&afdeling=1&z=2006-07-01&g=2006-07-01) ten hoogste toegelaten effectieve kredietvergoedingspercentage op jaarbasis;
 
 q: het aantal dagen van de maand waarvan dag d deel uitmaakt.
 
@@ -221,7 +221,7 @@ De ten hoogste toegelaten vertragingsvergoeding wordt op dagbasis berekend. De t
 
 VVd: de ten hoogste toegelaten vertragingsvergoeding over dag d;
 
-Ad: het bedrag in de betaling waarvan de kredietnemer aan het begin van dag d achterstallig is dan wel, indien het een krediettransactie als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005233&hoofdstuk=II&afdeling=2&artikel=6&z=2000-04-14&g=2000-04-14) betreft, het deel van het uitstaand saldo dat op dag d de kredietlimiet te boven gaat als gevolg van achterstallige betalingen;
+Ad: het bedrag in de betaling waarvan de kredietnemer aan het begin van dag d achterstallig is dan wel, indien het een krediettransactie als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005233&hoofdstuk=II&afdeling=2&artikel=6&z=2006-07-01&g=2006-07-01) betreft, het deel van het uitstaand saldo dat op dag d de kredietlimiet te boven gaat als gevolg van achterstallige betalingen;
 
 r: het honderdste deel van het in het kader van de krediettransactie overeengekomen effectieve kredietvergoedingspercentage op jaarbasis;
 
@@ -249,9 +249,9 @@ Het is verboden vergoeding bij vervroegde aflossing in rekening te brengen, te b
 
 ##### Artikel 14
 
-1. Bij volledige vervroegde aflossing treedt de in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0005233&hoofdstuk=IV&artikel=13&z=2000-04-14&g=2000-04-14) bedoelde kredietvergoeding in de plaats van de ten hoogste toegelaten kredietvergoeding bij regelmatige afwikkeling, die over de restant-looptijd in rekening zou kunnen worden gebracht indien geen vervroegde aflossing zou hebben plaatsgevonden.
+1. Bij volledige vervroegde aflossing treedt de in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0005233&hoofdstuk=IV&artikel=13&z=2006-07-01&g=2006-07-01) bedoelde kredietvergoeding in de plaats van de ten hoogste toegelaten kredietvergoeding bij regelmatige afwikkeling, die over de restant-looptijd in rekening zou kunnen worden gebracht indien geen vervroegde aflossing zou hebben plaatsgevonden.
 
-2. Bij gedeeltelijke vervroegde aflossing van een krediettransactie als bedoeld in [artikel 7, eerste, onderscheidenlijk tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005233&hoofdstuk=II&afdeling=2&artikel=7&z=2000-04-14&g=2000-04-14), wordt de ten hoogste toegelaten totale kredietvergoeding bij regelmatige afwikkeling, in afwijking van [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005233&hoofdstuk=II&afdeling=2&artikel=7&z=2000-04-14&g=2000-04-14), [onderscheidenlijk artikel 7, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0005233&hoofdstuk=II&afdeling=2&artikel=7&z=2000-04-14&g=2000-04-14), berekend volgens, onderscheidenlijk met gebruikmaking van, de volgende formule:
+2. Bij gedeeltelijke vervroegde aflossing van een krediettransactie als bedoeld in [artikel 7, eerste, onderscheidenlijk tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005233&hoofdstuk=II&afdeling=2&artikel=7&z=2006-07-01&g=2006-07-01), wordt de ten hoogste toegelaten totale kredietvergoeding bij regelmatige afwikkeling, in afwijking van [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005233&hoofdstuk=II&afdeling=2&artikel=7&z=2006-07-01&g=2006-07-01), [onderscheidenlijk artikel 7, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0005233&hoofdstuk=II&afdeling=2&artikel=7&z=2006-07-01&g=2006-07-01), berekend volgens, onderscheidenlijk met gebruikmaking van, de volgende formule:
 
 TKV = x . T - (K - Rx),
 
@@ -277,7 +277,7 @@ n: het totale aantal betalingstermijnen volgens de betalingsregeling.
 
 ##### Artikel 15
 
-Vervallen
+Ten aanzien van krediettransacties aangegaan voor de wijziging van het aantal procentpunten waarmee de wettelijke rente, op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0005233&hoofdstuk=II&afdeling=1&artikel=4&z=2006-07-01&g=2006-07-01), mag worden verhoogd voor de berekening van de ten hoogste toegelaten kredietvergoeding bij regelmatige afwikkeling, is het ten hoogste toegelaten effectieve kredietvergoedingspercentage op jaarbasis van voor die wijziging van toepassing, mits de krediettransactie binnen 12 maanden na die wijziging wordt beëindigd en het uitstaand saldo vanaf die wijziging afloopt.
 
 ##### Artikel 16
 
