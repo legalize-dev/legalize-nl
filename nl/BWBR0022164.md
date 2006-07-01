@@ -4,7 +4,7 @@ identifier: "BWBR0022164"
 country: "nl"
 rank: "amvb"
 publication_date: "2007-07-04"
-last_updated: "2006-04-01"
+last_updated: "2006-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022164"
 soort: "AMvB"
@@ -78,7 +78,7 @@ Wijzigt het Inkomstenbesluit militairen.
 
 ##### Artikel 12
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Verplaatsingskostenbesluit burgerlijke ambtenaren defensie.
 
 ##### Artikel 13
 
@@ -182,14 +182,14 @@ Hebben goedgevonden en verstaan:
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt terug tot en met 1 januari 2006, met dien verstande dat:
 
-- a. [artikel 9, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0022164&hoofdstuk=4&artikel=9&z=2007-07-04&g=2006-04-01), terugwerkt tot 31 december 2004;
+- a. [artikel 9, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0022164&hoofdstuk=4&artikel=9&z=2007-07-04&g=2006-07-01), terugwerkt tot 31 december 2004;
 
-- b. [artikel 9, onderdeel A en C](https://wetten.overheid.nl/jci1.3:c:BWBR0022164&hoofdstuk=4&artikel=9&z=2007-07-04&g=2006-04-01), terugwerken tot en met 5 september 2005;
+- b. [artikel 9, onderdeel A en C](https://wetten.overheid.nl/jci1.3:c:BWBR0022164&hoofdstuk=4&artikel=9&z=2007-07-04&g=2006-07-01), terugwerken tot en met 5 september 2005;
 
-- c. [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0022164&hoofdstuk=4&artikel=5&z=2007-07-04&g=2006-04-01) terugwerkt tot en met 1 april 2006;
+- c. [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0022164&hoofdstuk=4&artikel=5&z=2007-07-04&g=2006-07-01) terugwerkt tot en met 1 april 2006;
 
-- d. de [artikelen 6, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0022164&hoofdstuk=4&artikel=6&z=2007-07-04&g=2006-04-01), [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0022164&hoofdstuk=4&artikel=12&z=2007-07-04&g=2006-04-01), en [artikel 13, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0022164&hoofdstuk=4&artikel=13&z=2007-07-04&g=2006-04-01), terugwerken tot en met 1 juli 2006;
+- d. de [artikelen 6, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0022164&hoofdstuk=4&artikel=6&z=2007-07-04&g=2006-07-01), [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0022164&hoofdstuk=4&artikel=12&z=2007-07-04&g=2006-07-01), en [artikel 13, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0022164&hoofdstuk=4&artikel=13&z=2007-07-04&g=2006-07-01), terugwerken tot en met 1 juli 2006;
 
-- e. de [artikelen 14 tot en met 18](https://wetten.overheid.nl/jci1.3:c:BWBR0022164&hoofdstuk=5&artikel=14&z=2007-07-04&g=2006-04-01), terugwerken tot 1 januari 2007.
+- e. de [artikelen 14 tot en met 18](https://wetten.overheid.nl/jci1.3:c:BWBR0022164&hoofdstuk=5&artikel=14&z=2007-07-04&g=2006-07-01), terugwerken tot 1 januari 2007.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
