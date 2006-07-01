@@ -4,7 +4,7 @@ identifier: "BWBR0010269"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-02-07"
-last_updated: "2006-02-07"
+last_updated: "2006-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010269"
 soort: "ministeriele-regeling"
@@ -37,7 +37,7 @@ entry_into_force: "2007-02-22"
 
 Handelende in overeenstemming met de Staatssecretaris van Landbouw, Natuurbeheer en Visserij;
 
-Gelet op: artikel 2 van [verordening (EEG) nr. 737/90](31990R0737) van de Raad van de Europese Unie van 22 maart 1990 betreffende de voorwaarden voor de invoer van landbouwproducten van oorsprong uit derde landen ingevolge het ongeluk in de kerncentrale van Tsjernobyl (PbEG L 82), artikel 2, tweede lid, van [verordening (EG) nr. 194/97](31997R0194) van de Commissie van 31 januari 1997 tot vaststelling van maximumgehalten aan bepaalde verontreinigingen in levensmiddelen (PbEG L 31), [richtlijn nr. 98/53/EG](31998L0053) van de Commissie van 16 juli 1998 tot vaststelling van bemonsteringswijzen en analysemethoden voor de officiële controle op de maximumgehalten aan bepaalde verontreinigingen in levensmiddelen (PbEG L 201), [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010269&artikel=12&z=2006-02-07&g=2006-02-07), en 13, van het [Warenwetbesluit Bereiding en behandeling van levensmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0005758), alsmede [artikel 1 van het Residubesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002449&artikel=1);
+Gelet op: artikel 2 van [verordening (EEG) nr. 737/90](31990R0737) van de Raad van de Europese Unie van 22 maart 1990 betreffende de voorwaarden voor de invoer van landbouwproducten van oorsprong uit derde landen ingevolge het ongeluk in de kerncentrale van Tsjernobyl (PbEG L 82), artikel 2, tweede lid, van [verordening (EG) nr. 194/97](31997R0194) van de Commissie van 31 januari 1997 tot vaststelling van maximumgehalten aan bepaalde verontreinigingen in levensmiddelen (PbEG L 31), [richtlijn nr. 98/53/EG](31998L0053) van de Commissie van 16 juli 1998 tot vaststelling van bemonsteringswijzen en analysemethoden voor de officiële controle op de maximumgehalten aan bepaalde verontreinigingen in levensmiddelen (PbEG L 201), [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010269&artikel=12&z=2006-07-01&g=2006-07-01), en 13, van het [Warenwetbesluit Bereiding en behandeling van levensmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0005758), alsmede [artikel 1 van het Residubesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002449&artikel=1);
 
 Besluit:
 
@@ -110,19 +110,13 @@ Vervallen
 
 ##### Artikel 10
 
-1. Voor de opsporing van kwik in vis en schaal-, schelp- en weekdieren wordt de in [artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010269&artikel=1&z=2006-02-07&g=2006-02-07), van beschikking 90/515/EEG opgenomen referentie-analysetechniek toegepast.
+1. Voor de opsporing van kwik in vis en schaal-, schelp- en weekdieren wordt de in artikel 1, derde lid, van beschikking 90/515/EEG opgenomen referentie-analysetechniek toegepast.
 
-2. Als methode van onderzoek die bij uitsluiting beslissend is voor de vraag of met betrekking tot de in [verordening (EG) 466/2001](32001R0466) bedoelde waren voldaan is aan de ter zake toegelaten gehalten aan aflatoxinen, worden aangewezen de in [richtlijn 98/53/EG](31998L0053) bedoelde analysemethoden.
+2. De methoden van onderzoek die worden gebruikt voor de officiële controle op de maximumgehalten aan dioxinen en furanen, en de gehaltebepaling van dioxineachtige PCB’s, voldoen aan de criteria, bedoeld in bijlage II van [richtlijn 2002/69/EG](32002L0069).
 
-3. Als methoden van onderzoek die bij uitsluiting beslissend zijn voor de vraag of met betrekking tot de in [verordening (EG) 466/2001](32001R0466) bedoelde waren voldaan is aan de ter zake toegelaten gehalten aan ochratoxine A, worden aangewezen de in [richtlijn 2002/26/EG](32002L0026) bedoelde analysemethoden.
+3. Als methoden van onderzoek die bij uitsluiting beslissend zijn voor de vraag of met betrekking tot de in [verordening (EG) 466/2001](32001R0466) bedoelde waren voldaan is aan de ter zake toegelaten tingehaltes van levensmiddelen in blik, worden aangewezen de in [richtlijn 2004/16/EG](32004L0016) bedoelde analysemethoden.
 
-4. De methoden van onderzoek die worden gebruikt voor de officiële controle op de maximumgehalten aan dioxinen en furanen, en de gehaltebepaling van dioxineachtige PCB’s, voldoen aan de criteria, bedoeld in bijlage II van [richtlijn 2002/69/EG](32002L0069).
-
-5. Als methoden van onderzoek die bij uitsluiting beslissend zijn voor de vraag of met betrekking tot de in [verordening (EG) 466/2001](32001R0466) bedoelde waren voldaan is aan de ter zake toegelaten gehalten aan patuline, worden aangewezen de in [richtlijn 2003/78/EG](32003L0078) bedoelde analysemethoden.
-
-6. Als methoden van onderzoek die bij uitsluiting beslissend zijn voor de vraag of met betrekking tot de in [verordening (EG) 466/2001](32001R0466) bedoelde waren voldaan is aan de ter zake toegelaten tingehaltes van levensmiddelen in blik, worden aangewezen de in [richtlijn 2004/16/EG](32004L0016) bedoelde analysemethoden.
-
-7. Als methoden van onderzoek die bij uitsluiting beslissend zijn voor de vraag of met betrekking tot de in [verordening (EG) 466/2001](32001R0466) bedoelde waren voldaan is aan de ter zake toegelaten gehalten aan benzo(a)pyreen in levensmiddelen, worden aangewezen de in [richtlijn 2005/10/EG](32005L0010) bedoelde analysemethoden.
+4. Als methoden van onderzoek die bij uitsluiting beslissend zijn voor de vraag of met betrekking tot de in [verordening (EG) 466/2001](32001R0466) bedoelde waren voldaan is aan de ter zake toegelaten gehalten aan benzo(a)pyreen in levensmiddelen, worden aangewezen de in [richtlijn 2005/10/EG](32005L0010) bedoelde analysemethoden.
 
 ##### Artikel 11
 
@@ -134,19 +128,13 @@ Vervallen
 
 ##### Artikel 13
 
-1. Deze regeling treedt in werking met ingang van 1 februari 1999, met uitzondering van [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010269&artikel=10&z=2006-02-07&g=2006-02-07), dat in werking treedt met ingang van 30 december 2000.
+1. Deze regeling treedt in werking met ingang van 1 februari 1999, met uitzondering van [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010269&artikel=10&z=2006-07-01&g=2006-07-01), dat in werking treedt met ingang van 30 december 2000.
 
-2. Een wijziging van [richtlijn 98/53/EG](31998L0053) gaat voor de toepassing van [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010269&artikel=10&z=2006-02-07&g=2006-02-07), gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
+2. Een wijziging van [richtlijn 2002/69/EG](32002L0069) gaat voor de toepassing van [artikel 10, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010269&artikel=10&z=2006-07-01&g=2006-07-01), gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
 
-3. Een wijziging van [richtlijn nr. 2002/26/EG](32002L0026) gaat voor de toepassing van [artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010269&artikel=10&z=2006-02-07&g=2006-02-07), gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
+3. Een wijziging van [richtlijn 2004/16/EG](32004L0016) gaat voor de toepassing van [artikel 10, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010269&artikel=10&z=2006-07-01&g=2006-07-01), gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
 
-4. Een wijziging van [richtlijn 2002/69/EG](32002L0069) gaat voor de toepassing van [artikel 10, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010269&artikel=10&z=2006-02-07&g=2006-02-07), gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
-
-5. Een wijziging van [richtlijn 2003/78/EG](32003L0078) gaat voor de toepassing van [artikel 10, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010269&artikel=10&z=2006-02-07&g=2006-02-07), gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
-
-6. Een wijziging van [richtlijn 2004/16/EG](32004L0016) gaat voor de toepassing van [artikel 10, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010269&artikel=10&z=2006-02-07&g=2006-02-07), gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
-
-7. Een wijziging van [richtlijn 2005/10/EG](32005L0010) gaat voor de toepassing van [artikel 10, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010269&artikel=10&z=2006-02-07&g=2006-02-07), gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
+4. Een wijziging van [richtlijn 2005/10/EG](32005L0010) gaat voor de toepassing van [artikel 10, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010269&artikel=10&z=2006-07-01&g=2006-07-01), gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
 
 ##### Artikel 14
 
