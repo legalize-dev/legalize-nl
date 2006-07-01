@@ -4,7 +4,7 @@ identifier: "BWBV0003096"
 country: "nl"
 rank: "verdrag"
 publication_date: "2006-07-01"
-last_updated: "2000-01-01"
+last_updated: "2006-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0003096"
 soort: "verdrag"
@@ -112,13 +112,13 @@ Staten kunnen partij bij dit Verdrag worden door:
 
 ##### Artikel V. Inwerkingtreding
 
-1. Dit Verdrag treedt in werking twaalf maanden na de datum waarop vijftien Staten partij daarbij zijn geworden overeenkomstig het bepaalde in [artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBV0003096&artikel=IV&z=2000-01-01&g=2000-01-01).
+1. Dit Verdrag treedt in werking twaalf maanden na de datum waarop vijftien Staten partij daarbij zijn geworden overeenkomstig het bepaalde in [artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBV0003096&artikel=IV&z=2006-07-01&g=2006-07-01).
 
-2. Voor Staten die dit Verdrag bekrachtigen, aanvaarden, goedkeuren of ertoe toetreden overeenkomstig het bepaalde in [artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBV0003096&artikel=IV&z=2000-01-01&g=2000-01-01), nadat aan de in het eerste lid gestelde voorwaarde is voldaan en voordat dit Verdrag in werking treedt, geldt als datum van inwerkingtreding de dag waarop dit Verdrag in werking treedt.
+2. Voor Staten die dit Verdrag bekrachtigen, aanvaarden, goedkeuren of ertoe toetreden overeenkomstig het bepaalde in [artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBV0003096&artikel=IV&z=2006-07-01&g=2006-07-01), nadat aan de in het eerste lid gestelde voorwaarde is voldaan en voordat dit Verdrag in werking treedt, geldt als datum van inwerkingtreding de dag waarop dit Verdrag in werking treedt.
 
-3. Voor Staten die dit Verdrag bekrachtigen, aanvaarden, goedkeuren of ertoe toetreden na de datum waarop dit Verdrag in werking treedt, treedt dit Verdrag in werking dertig dagen na de datum van nederlegging van een akte overeenkomstig het bepaalde in [artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBV0003096&artikel=IV&z=2000-01-01&g=2000-01-01).
+3. Voor Staten die dit Verdrag bekrachtigen, aanvaarden, goedkeuren of ertoe toetreden na de datum waarop dit Verdrag in werking treedt, treedt dit Verdrag in werking dertig dagen na de datum van nederlegging van een akte overeenkomstig het bepaalde in [artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBV0003096&artikel=IV&z=2006-07-01&g=2006-07-01).
 
-4. ledere akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, nedergelegd na de datum waarop een wijziging van het Verdrag overeenkomstig het bepaalde in [artikel III](https://wetten.overheid.nl/jci1.3:c:BWBV0003096&artikel=III&z=2000-01-01&g=2000-01-01) van kracht is geworden, heeft betrekking op dit Verdrag, zoals gewijzigd, en dit Verdrag, zoals gewijzigd, treedt in werking voor een Staat die een zodanige akte nederlegt, dertig dagen na de nederlegging ervan.
+4. ledere akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, nedergelegd na de datum waarop een wijziging van het Verdrag overeenkomstig het bepaalde in [artikel III](https://wetten.overheid.nl/jci1.3:c:BWBV0003096&artikel=III&z=2006-07-01&g=2006-07-01) van kracht is geworden, heeft betrekking op dit Verdrag, zoals gewijzigd, en dit Verdrag, zoals gewijzigd, treedt in werking voor een Staat die een zodanige akte nederlegt, dertig dagen na de nederlegging ervan.
 
 5. De Secretaris-Generaal stelt alle Staten in kennis van de datum van inwerkingtreding van dit Verdrag.
 
