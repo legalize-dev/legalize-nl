@@ -4,7 +4,7 @@ identifier: "BWBR0009658"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-04-01"
-last_updated: "2002-03-22"
+last_updated: "2006-07-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009658"
 soort: "ministeriele-regeling"
@@ -67,7 +67,7 @@ Onverminderd [artikel 62, eerste lid, onderdelen a tot en met e, van het Besluit
 
 ##### Artikel 3
 
-In afwijking van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009658&artikel=2&z=2002-03-22&g=2002-03-22) kan het bevoegd gezag een ambtenaar niet detacheren bij een gemeente of een stichting indien deze detachering plaatsvindt in het kader van de Regeling Extra werkgelegenheid langdurig werklozen.
+In afwijking van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009658&artikel=2&z=2002-03-22&g=2006-07-02) kan het bevoegd gezag een ambtenaar niet detacheren bij een gemeente of een stichting indien deze detachering plaatsvindt in het kader van de Regeling Extra werkgelegenheid langdurig werklozen.
 
 ##### Artikel 4
 
