@@ -4,7 +4,7 @@ identifier: "BWBR0009488"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2006-07-09"
-last_updated: "2001-07-01"
+last_updated: "2006-07-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009488"
 soort: "ministeriele-regeling"
@@ -36,7 +36,7 @@ entry_into_force: "1998-03-29"
 
 ##### Artikel 1
 
-Voor de verlenging van de termijn van geldigheid van bewijzen van bevoegdheid en de daarin gestelde bevoegdverklaringen moet de houder, op de wijze als aangegeven in de bij deze regeling behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0009488&bijlage=1&z=2001-07-01&g=2001-07-01), aantonen dat hij zijn bekwaamheid heeft behouden. Van deze verplichting kan door de Minister van Verkeer en Waterstaat ontheffing worden verleend.
+Voor de verlenging van de termijn van geldigheid van bewijzen van bevoegdheid en de daarin gestelde bevoegdverklaringen moet de houder, op de wijze als aangegeven in de bij deze regeling behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0009488&bijlage=1&z=2006-07-09&g=2006-07-09), aantonen dat hij zijn bekwaamheid heeft behouden. Van deze verplichting kan door de Minister van Verkeer en Waterstaat ontheffing worden verleend.
 
 ##### Artikel 2
 
@@ -62,7 +62,7 @@ Als personen zoals bedoeld in het tweede lid van artikel 2 van deze regeling wor
 
 2. Voor de proeven van bekwaamheid in het blindvliegen:
 
-- a. de inspecteurs-vlieger van de divisie Luchtvaart van de Inspectie Verkeer en Waterstaat;
+- a. de inspecteurs-vlieger van de Inspectie Verkeer en Waterstaat;
 
 - b. de door het hoofd Vliegdienst van de Directie Rijksluchtvaartschool te Eelde aangewezen vlieginstructeurs;
 
