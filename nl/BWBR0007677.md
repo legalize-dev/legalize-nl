@@ -4,7 +4,7 @@ identifier: "BWBR0007677"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-01-01"
-last_updated: "2002-07-24"
+last_updated: "2006-07-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007677"
 soort: "ministeriele-regeling"
@@ -87,7 +87,7 @@ Als aangiftepunten bedoeld in artikel 11, derde lid, van de wet worden aangeweze
 
 ##### Artikel 3b
 
-Als ambtenaren van het Ministerie van Verkeer en Waterstaat, bedoeld in [artikel 18 van de Wet belasting zware motorrijtuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&artikel=18), worden aangewezen de ambtenaren van de divisie Vervoer van de Inspectie Verkeer en Waterstaat.
+Als ambtenaren van het Ministerie van Verkeer en Waterstaat, bedoeld in [artikel 18 van de Wet belasting zware motorrijtuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&artikel=18), worden aangewezen de ambtenaren van de Inspectie Verkeer en Waterstaat.
 
 ##### Artikel 4
 
@@ -300,7 +300,7 @@ Deze regeling wordt aangehaald als: Uitvoeringsregeling belasting zware motorrij
 | DOUANE VEENDAM | SPOORHAVEN- WEG 19 | 9645 LZ | VEENDAM |
 | DOUANE VENLO/TEAM 5 | EUROPAWEG 4 | 5916 RP | VENLO |
 
-## Bijlage II,. houdende aanwijzing van de stations van inlading en de stations van uitlading, bedoeld in [artikel 3a, eerste lid, van de Uitvoeringsregeling belasting zware motorrijtuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0007677&artikel=3a&z=2002-07-24&g=2002-07-24)
+## Bijlage II,. houdende aanwijzing van de stations van inlading en de stations van uitlading, bedoeld in [artikel 3a, eerste lid, van de Uitvoeringsregeling belasting zware motorrijtuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0007677&artikel=3a&z=2006-07-09&g=2006-07-09)
 
 Amsterdam Westpoint, Cacaoweg 20, 1047 BM Amsterdam
 
