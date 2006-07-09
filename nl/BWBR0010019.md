@@ -4,7 +4,7 @@ identifier: "BWBR0010019"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2007-06-10"
-last_updated: "2002-07-01"
+last_updated: "2006-07-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010019"
 soort: "ministeriele-regeling"
@@ -40,17 +40,17 @@ Besluiten:
 
 ##### Artikel 1
 
-1. De werkgever zendt een door hem ondertekend dienstrooster, betrekking hebbende op alle werknemers, voorzover betrokken bij het vervoer, bedoeld in artikel 2.4:3, [eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386), van het [Arbeidstijdenbesluit vervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0009386), ten minste veertien dagen voor de dag waarop het in werking treedt aan het Hoofd van de Sector Marktordening van de divisie Vervoer van de Inspectie Verkeer en Waterstaat.
+1. De werkgever zendt een door hem ondertekend dienstrooster, betrekking hebbende op alle werknemers, voorzover betrokken bij het vervoer, bedoeld in [artikel 2.4:3, eerste lid, van het Arbeidstijdenbesluit vervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&artikel=2.4:3), ten minste veertien dagen voor de dag waarop het in werking treedt aan de Inspectie Verkeer en Waterstaat.
 
 2. Het eerste lid is van overeenkomstige toepassing in geval van tussentijdse vervanging of wijziging van het dienst-rooster.
 
 ##### Artikel 2
 
-De werkgever zorgt ervoor dat in elke stalling waarbij de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010019&artikel=1&z=2002-07-01&g=2002-07-01) bedoelde werknemers zijn ingedeeld een afschrift van het dienstrooster dan wel van de vervanging of de wijziging daarvan, vanaf de dag vóór de inwerkingtreding en gedurende de gehele periode van geldigheid, is opgehangen op een zodanige wijze dat daarvan door hen gemakkelijk kennis kan worden genomen.
+De werkgever zorgt ervoor dat in elke stalling waarbij de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010019&artikel=1&z=2006-07-09&g=2006-07-09) bedoelde werknemers zijn ingedeeld een afschrift van het dienstrooster dan wel van de vervanging of de wijziging daarvan, vanaf de dag vóór de inwerkingtreding en gedurende de gehele periode van geldigheid, is opgehangen op een zodanige wijze dat daarvan door hen gemakkelijk kennis kan worden genomen.
 
 ##### Artikel 3
 
-Indien enige taak van een werknemer als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010019&artikel=1&z=2002-07-01&g=2002-07-01) niet uit het dienstrooster blijkt, zorgt de werkgever ervoor dat tijdig voor de aanvang van die taak naast het dienstrooster een gewaarmerkte mededeling wordt opgehangen waarin de taak en de naam van de betrokken werknemer vermeld staan.
+Indien enige taak van een werknemer als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010019&artikel=1&z=2006-07-09&g=2006-07-09) niet uit het dienstrooster blijkt, zorgt de werkgever ervoor dat tijdig voor de aanvang van die taak naast het dienstrooster een gewaarmerkte mededeling wordt opgehangen waarin de taak en de naam van de betrokken werknemer vermeld staan.
 
 ##### Artikel 4
 
