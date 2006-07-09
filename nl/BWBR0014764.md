@@ -4,7 +4,7 @@ identifier: "BWBR0014764"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2003-03-16"
+last_updated: "2006-07-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014764"
 soort: "ministeriele-regeling"
@@ -61,7 +61,7 @@ De aanvraag voor verlening van een erkenning wordt ingediend door middel van een
 
 De aanvraag voor verlening van een erkenning gaat vergezeld van:
 
-- a. een verklaring waarin de aanvrager aangeeft dat de aangeleverde informatie juist is en dat aan [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0014764&hoofdstuk=2&paragraaf=2.2&artikel=4&z=2003-03-16&g=2003-03-16) wordt voldaan;
+- a. een verklaring waarin de aanvrager aangeeft dat de aangeleverde informatie juist is en dat aan [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0014764&hoofdstuk=2&paragraaf=2.2&artikel=4&z=2006-07-09&g=2006-07-09) wordt voldaan;
 
 - b. een overzicht van alle medewerkers die in het bezit zijn van een certificaat en per medewerker een afschrift van het geldige certificaat;
 
@@ -113,7 +113,7 @@ Wanneer de erkenning is verleend, worden in de Staatscourant de volgende gegeven
 
 1. Een erkenning wordt gewijzigd, nadat de houder van de erkenning heeft aangetoond, dat hij voldoet aan de eisen, zoals die gelden voor de erkenning, nadat deze is gewijzigd.
 
-2. De [artikelen 2 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0014764&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2003-03-16&g=2003-03-16) zijn van overeenkomstige toepassing.
+2. De [artikelen 2 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0014764&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2006-07-09&g=2006-07-09) zijn van overeenkomstige toepassing.
 
 ### Hoofdstuk 3. Diverse bepalingen
 
@@ -123,7 +123,7 @@ Indien de erkenninghouder voor behandeling van gevaarlijke stoffen voor vervoer 
 
 ##### Artikel 9
 
-Handelen in strijd met de [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0014764&hoofdstuk=3&artikel=8&z=2003-03-16&g=2003-03-16) vormt een strafbaar feit.
+Handelen in strijd met de [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0014764&hoofdstuk=3&artikel=8&z=2006-07-09&g=2006-07-09) vormt een strafbaar feit.
 
 ### Hoofdstuk 4. Slotbepalingen
 
@@ -135,7 +135,7 @@ Deze regeling treedt in werking met ingang van 16 maart 2003.
 
 Deze regeling wordt aangehaald als: Regeling erkenningen vervoer gevaarlijke stoffen door de lucht.
 
-## Bijlage. als bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014764&hoofdstuk=2&paragraaf=2.2&artikel=5&z=2003-03-16&g=2003-03-16) van de Regeling erkenningen vervoer gevaarlijke stoffen door de lucht
+## Bijlage. als bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014764&hoofdstuk=2&paragraaf=2.2&artikel=5&z=2006-07-09&g=2006-07-09), van de Regeling erkenningen vervoer gevaarlijke stoffen door de lucht
 
 **Inspectie Verkeer en Waterstaat**
 
@@ -180,15 +180,5 @@ De Minister van Verkeer en Waterstaat,
 The Minister of Transport, Public Works and Watermanagement,
 
 on behalf,
-
-De Hoofdinspecteur-directeur divisie Vervoer
-
-DIRECTOR CHIEF INSPECTOR Transport division, Inspectorate Transport, Public Works and Watermanagement,
-
-on behalf,
-
-Hoofd afdeling Gevaarlijke stoffen en advies
-
-HEAD DIVISION DANGEROUS GOODS AND COUNSEL
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
