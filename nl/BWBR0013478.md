@@ -4,7 +4,7 @@ identifier: "BWBR0013478"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-09-04"
-last_updated: "2003-10-16"
+last_updated: "2006-07-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013478"
 soort: "ministeriele-regeling"
@@ -41,35 +41,21 @@ Besluit:
 
 ##### Artikel 1
 
-Als ambtenaren, bedoeld in [artikel 73, eerste lid, onderdeel a, van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=73) en [artikel 11.1, eerste lid, onderdeel b, van de Wet Luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=11.1) worden aangewezen:
+Als ambtenaren belast met het toezicht op de naleving bedoeld in [artikel 73, eerste lid, onderdeel a, van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=73) en [artikel 11.1, eerste lid, onderdeel b, van de Wet Luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=11.1) worden aangewezen:
 
-- a. de Inspecteur-generaal van de Inspectie Verkeer en Waterstaat;
+- a. de inspecteur-generaal van de Inspectie Verkeer en Waterstaat;
 
-- b. de Directeur-hoofdinspecteur van de Divisie Luchtvaart;
+- b. de ambtenaren van de Inspectie Verkeer en Waterstaat, die zijn belast met toezicht;
 
-- c. het Hoofd van de Handhavingsdienst Luchtvaart;
-
-- d. de ambtenaren van de Handhavingsdienst Luchtvaart, die zijn belast met het toezicht op de naleving van het bij of krachtens de [Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267) en de [Wet Luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555) bepaalde;
-
-- e. de ambtenaren van de divisie Vervoer van de Inspectie Verkeer en Waterstaat, die zijn belast met toezicht en opsporing;
-
-- f. de ambtenaren van de Dienst Luchtvaartpolitie van het Korps Landelijke Politiediensten;
-
-- g. de ambtenaren van de Divisie Luchtvaart van de Inspectie Verkeer en Waterstaat, die zijn belast met het toezicht op de uitvoering door de LVNL van de op [artikel 5.34a van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=5.34a) gebaseerde regels inzake kwaliteits- en veiligheidszorg.
+- c. de ambtenaren van de Dienst Luchtvaartpolitie van het Korps Landelijke Politiediensten.
 
 ##### Artikel 2
 
-Als personen, bedoeld in [artikel 102, eerste lid, van de Regeling Toezicht Luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0002309&artikel=102), worden aangewezen:
-
-- a. de ambtenaren van het Cluster Toezicht en Operatie van de Unit Operaties en Vervoer van de Uitvoeringsdienst Luchtvaart, die zijn belast met het toezicht tijdens de vluchtvoorbereiding, de vlucht en de vluchtafhandeling;
-
-- b. de ambtenaren van het Cluster Vliegveiligheid en het Cluster Grondveiligheid en Vluchtondersteuning van de Handhavingsdienst Luchtvaart;
-
-- c. de ambtenaren van de divisie Vervoer van de Inspectie Verkeer en Waterstaat, die zijn belast met toezicht en opsporing.
+Als personen belast met het toezicht op de naleving bedoeld in [artikel 102, eerste lid, van de Regeling Toezicht Luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0002309&artikel=102), worden aangewezen de ambtenaren van de Inspectie Verkeer en Waterstaat, die zijn belast met toezicht.
 
 ##### Artikel 3
 
-Als personen, bedoeld in [artikel 73, eerste lid, onderdeel b, van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=73) worden aangewezen, de in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013478&artikel=1&z=2003-10-16&g=2003-10-16) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0013478&artikel=2&z=2003-10-16&g=2003-10-16) van dit Besluit genoemde ambtenaren, alsmede de havenmeesters en assistent-havenmeesters van de luchtvaartterreinen Ameland, Budel, Drachten, Eelde, Eindhoven, Hilversum, Hoogeveen, Lelystad, Maastricht-Aachen, Midden Zeeland, Onstwedde, Rotterdam, Schiphol, Seppe, Terlet, Teuge en Texel.
+Als personen, bedoeld in [artikel 73, eerste lid, onderdeel b, van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=73) worden aangewezen, de in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013478&artikel=1&z=2006-07-09&g=2006-07-09) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0013478&artikel=2&z=2006-07-09&g=2006-07-09) van dit Besluit genoemde ambtenaren, alsmede de havenmeesters en assistent-havenmeesters van de luchtvaartterreinen Ameland, Budel, Drachten, Eelde, Eindhoven, Hilversum, Hoogeveen, Lelystad, Maastricht-Aachen, Midden Zeeland, Onstwedde, Rotterdam, Schiphol, Seppe, Terlet, Teuge en Texel.
 
 ##### Artikel 4
 
