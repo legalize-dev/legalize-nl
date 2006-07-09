@@ -4,7 +4,7 @@ identifier: "BWBR0018189"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-03-19"
-last_updated: "2005-04-17"
+last_updated: "2006-07-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018189"
 soort: "ministeriele-regeling"
@@ -41,7 +41,7 @@ Besluit:
 
 ##### Artikel 1
 
-1. De ambtenaren van de divisie Rail van de Inspectie van Verkeer en Waterstaat worden aangewezen als ambtenaren belast met het toezicht op de naleving, bedoeld in [artikel 69, eerste lid, van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=69), van het bepaalde bij of krachtens deze wet.
+1. De ambtenaren van de Inspectie van Verkeer en Waterstaat worden aangewezen als ambtenaren belast met het toezicht op de naleving, bedoeld in [artikel 69, eerste lid, van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=69), van het bepaalde bij of krachtens deze wet.
 
 2. In afwijking van het eerste lid worden:
 
