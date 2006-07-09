@@ -4,7 +4,7 @@ identifier: "BWBR0011673"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-09-04"
-last_updated: "2005-12-29"
+last_updated: "2006-07-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011673"
 soort: "ministeriele-regeling"
@@ -72,7 +72,7 @@ De ambtenaren van de Arbeidsinspectie van het Ministerie van Sociale Zaken en We
 
 ##### Artikel 1.2
 
-1. De ambtenaren, bedoeld in [artikel 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011673&paragraaf=1&artikel=1.1&z=2005-12-29&g=2005-12-29), worden aangewezen als de ambtenaar, bedoeld in:
+1. De ambtenaren, bedoeld in [artikel 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011673&paragraaf=1&artikel=1.1&z=2006-07-09&g=2006-07-09), worden aangewezen als de ambtenaar, bedoeld in:
 
 - a. de [Algemene wet gelijke behandeling](https://wetten.overheid.nl/jci1.3:c:BWBR0006502): [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&artikel=18);
 
@@ -92,9 +92,9 @@ De ambtenaren van de Arbeidsinspectie van het Ministerie van Sociale Zaken en We
 
 - i. het Besluit gegevensverstrekking sociale verzekeringen 1997: artikel 12.
 
-2. De ambtenaren, bedoeld in [artikel 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011673&paragraaf=1&artikel=1.1&z=2005-12-29&g=2005-12-29), worden aangewezen als de door Onze Minister van Sociale Zaken en Werkgelegenheid aangewezen onder hem ressorterende ambtenaar, bedoeld in [artikel 23 van de Leerplichtwet 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&artikel=23).
+2. De ambtenaren, bedoeld in [artikel 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011673&paragraaf=1&artikel=1.1&z=2006-07-09&g=2006-07-09), worden aangewezen als de door Onze Minister van Sociale Zaken en Werkgelegenheid aangewezen onder hem ressorterende ambtenaar, bedoeld in [artikel 23 van de Leerplichtwet 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&artikel=23).
 
-3. De ambtenaren, bedoeld in [artikel 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011673&paragraaf=1&artikel=1.1&z=2005-12-29&g=2005-12-29), worden aangewezen als de ambtenaar, bedoeld in:
+3. De ambtenaren, bedoeld in [artikel 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011673&paragraaf=1&artikel=1.1&z=2006-07-09&g=2006-07-09), worden aangewezen als de ambtenaar, bedoeld in:
 
 - a. de Arbeidsomstandighedenwet 1998: de artikelen 6, eerste lid, onderdeel b en 7, eerste lid;
 
@@ -134,29 +134,25 @@ Vervallen
 
 Vervallen
 
-#### § 3. Divisie Luchtvaart van de Inspectie Verkeer en Waterstaat
+#### § 3. De Inspectie Verkeer en Waterstaat
 
 #### Aanwijzing toezichthouders
 
 ##### Artikel 3.1
 
-De ambtenaren van de divisie Luchtvaart van de Inspectie Verkeer en Waterstaat, aangewezen op grond van [artikel 71 van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=71) en bedoeld in [artikel 102 van de Regeling Toezicht Luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0002309&artikel=102), zijn mede belast met het toezicht op de naleving van het bepaalde bij of krachtens de [Arbeidsomstandighedenwet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0010346), met betrekking tot arbeid verricht aan boord van een luchtvaartuig tijdens de vlucht en aan boord van een stilstaand luchtvaartuig, voorzover het betreft de arbeid van boordpersoneel in verband met de vlucht.
+De ambtenaren van de Inspectie Verkeer en Waterstaat, aangewezen op grond van [artikel 71 van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=71) en bedoeld in [artikel 102 van de Regeling Toezicht Luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0002309&artikel=102), zijn mede belast met het toezicht op de naleving van het bepaalde bij of krachtens de [Arbeidsomstandighedenwet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0010346), met betrekking tot arbeid verricht aan boord van een luchtvaartuig tijdens de vlucht en aan boord van een stilstaand luchtvaartuig, voor zover het betreft de arbeid van boordpersoneel in verband met de vlucht.
 
 #### Aanwijzing ambtenaren met specifieke uitvoeringstaken
 
 ##### Artikel 3.2
 
-1. De ambtenaren, bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011673&paragraaf=3&artikel=3.1&z=2005-12-29&g=2005-12-29), worden voor de in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011673&paragraaf=3&artikel=3.1&z=2005-12-29&g=2005-12-29) bedoelde arbeid aangewezen als de ambtenaar, bedoeld in:
+1. De ambtenaren van de Inspectie Verkeer en Waterstaat belast met toezicht zijn mede belast met het toezicht op de naleving van het bepaalde bij of krachtens de [Arbeidsomstandighedenwet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0010346), met betrekking tot arbeid verricht in een voertuig op een openbare weg bestemd voor het vervoer van goederen of personen en voor welk vervoer op grond van de [Wet goederenvervoer over de weg](https://wetten.overheid.nl/jci1.3:c:BWBR0005443) onderscheidenlijk de [Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470) een vergunning is vereist.
 
-- a. de [Arbeidsomstandighedenwet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0010346): de [artikelen 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=9), [27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=27), [28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=28), en [29, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=29);
+2. De ambtenaren, bedoeld in het eerste lid, zijn mede belast met het toezicht op de naleving van het bepaalde bij of krachtens:
 
-- b. het [Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498): de [artikelen 7.4a, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=7.4a), [7.20, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=7.20), [7.27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=7.27), en [7.29, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=7.29).
+- a. de [Arbeidsomstandighedenwet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0010346) voorzover het betreft arbeid verricht in bedrijven of inrichtingen die rechtstreeks betrekking heeft op de arbeid, bedoeld in het eerste lid;
 
-2. De directeur-hoofdinspecteur van de divisie Luchtvaart van de Inspectie Verkeer en Waterstaat wordt voor de in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011673&paragraaf=3&artikel=3.1&z=2005-12-29&g=2005-12-29) bedoelde arbeid aangewezen als de ambtenaar, bedoeld in:
-
-- a. de [Arbeidsomstandighedenwet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0010346): [artikel 30, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=30);
-
-- b. het [Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498): de [artikelen 4.49, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.49), en [9.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=9.13).
+- b. de [Arbeidstijdenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671) voorzover het betreft arbeid in bedrijven of inrichtingen die rechtstreeks betrekking heeft op arbeid als bedoeld in het eerste lid.
 
 #### § 4. Politie
 
@@ -174,29 +170,13 @@ De ambtenaren van de divisie Luchtvaart van de Inspectie Verkeer en Waterstaat, 
 
 ##### Artikel 5.1
 
-1. De ambtenaren van de divisie Vervoer van de Inspectie Verkeer en Waterstaat zijn mede belast met het toezicht op de naleving van het bepaalde bij of krachtens de [Arbeidsomstandighedenwet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0010346), met betrekking tot arbeid verricht in een voertuig op een openbare weg bestemd voor het vervoer van goederen of personen en voor welk vervoer op grond van de [Wet goederenvervoer over de weg](https://wetten.overheid.nl/jci1.3:c:BWBR0005443) onderscheidenlijk de [Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470) een vergunning is vereist.
-
-2. De ambtenaren, bedoeld in het eerste lid, zijn mede belast met het toezicht op de naleving van het bepaalde bij of krachtens:
-
-- a. de [Arbeidsomstandighedenwet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0010346) voorzover het betreft arbeid verricht in bedrijven of inrichtingen die rechtstreeks betrekking heeft op de arbeid, bedoeld in het eerste lid;
-
-- b. de [Arbeidstijdenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671) voorzover het betreft arbeid in bedrijven of inrichtingen die rechtstreeks betrekking heeft op arbeid verricht in een voertuig op een openbare weg bestemd voor het vervoer van goederen of personen en voor welk vervoer op grond van de [Wet goederenvervoer over de weg](https://wetten.overheid.nl/jci1.3:c:BWBR0005443), onderscheidenlijk de [Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470), een vergunning is vereist.
+Vervallen
 
 #### Aanwijzing toezichthouders
 
 ##### Artikel 5.2
 
-1. De ambtenaren, bedoeld in [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011673&paragraaf=5&artikel=5.1&z=2005-12-29&g=2005-12-29), worden voor de in [artikel 5.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011673&paragraaf=5&artikel=5.1&z=2005-12-29&g=2005-12-29), bedoelde arbeid aangewezen als de ambtenaar, bedoeld in:
-
-- a. de [Arbeidsomstandighedenwet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0010346): de [artikelen 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=27), [28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=27), en [29, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=29);
-
-- b. het [Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498): de [artikelen 7.4a, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=7.4a), en [7.20, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=7.4a).
-
-2. De directeur-hoofdinspecteur van de divisie Vervoer van de Inspectie Verkeer en Waterstaat wordt voor de in [artikel 5.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011673&paragraaf=5&artikel=5.1&z=2005-12-29&g=2005-12-29), bedoelde arbeid aangewezen als de ambtenaar, bedoeld in:
-
-- a. de [Arbeidsomstandighedenwet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0010346): [artikel 30, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=30);
-
-- b. het [Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498): de [artikelen 4.49, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=7.4a), en [9.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=9.13).
+Vervallen
 
 #### § 6. Divisie Scheepvaart van de Inspectie Verkeer en Waterstaat
 
@@ -204,23 +184,13 @@ De ambtenaren van de divisie Luchtvaart van de Inspectie Verkeer en Waterstaat, 
 
 ##### Artikel 6.1
 
-De ambtenaren van de divisie Scheepvaart van de Inspectie Verkeer en Waterstaat, bedoeld in [artikel 10 van de Schepenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&artikel=10), zijn mede belast met het toezicht op de naleving van het bepaalde bij of krachtens de [Arbeidsomstandighedenwet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0010346), met betrekking tot arbeid verricht in, respectievelijk op een zeeschip, met uitzondering van aanbouw, verbouwing, herstelling of sloping dan wel onderhouds- of reinigingswerkzaamheden en hiermee verband houdende andere werkzaamheden aan deze schepen, alsmede met uitzondering van laden en lossen, tenzij deze arbeid wordt verricht door een werknemer die behoort tot de bemanning van een zeeschip.
+Vervallen
 
 #### Aanwijzing toezichthouders
 
 ##### Artikel 6.2
 
-1. De ambtenaren, bedoeld in [artikel 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011673&paragraaf=6&artikel=6.1&z=2005-12-29&g=2005-12-29), worden voor de in [artikel 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011673&paragraaf=6&artikel=6.1&z=2005-12-29&g=2005-12-29) bedoelde arbeid aangewezen als de ambtenaar, bedoeld in:
-
-- a. de [Arbeidsomstandighedenwet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0010346): de [artikelen 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=9), [27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=27), [28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=28), en [29, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=29);
-
-- b. het [Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498): de [artikelen 4.7, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=30), [7.4a, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=30), [7.20, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=30), [7.27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=7.27), en [7.29, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=7.29).
-
-2. De directeur-hoofdinspecteur van de divisie Scheepvaart van de Inspectie Verkeer en Waterstaat, bedoeld in [artikel 10 van de Schepenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&artikel=10), wordt voor de in [artikel 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011673&paragraaf=6&artikel=6.1&z=2005-12-29&g=2005-12-29) bedoelde arbeid aangewezen als de ambtenaar, bedoeld in:
-
-- a. de [Arbeidsomstandighedenwet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0010346): [artikel 30, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=30);
-
-- b. het [Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498): de [artikelen 4.49, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.49), en [9.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=9.13).
+Vervallen
 
 #### § 7. Staatstoezicht op de Mijnen
 
@@ -238,9 +208,9 @@ De ambtenaren van de divisie Scheepvaart van de Inspectie Verkeer en Waterstaat,
 
 ##### Artikel 7.2
 
-1. De ambtenaren, bedoeld in [artikel 7.1 tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011673&paragraaf=7&artikel=7.1&z=2005-12-29&g=2005-12-29), worden met betrekking tot de in dat lid bedoelde arbeid, aangewezen als de ambtenaar, bedoeld in de [artikelen 4:1, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=4:1), en [8:2, eerste en tweede lid, van de Arbeidstijdenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=8:2).
+1. De ambtenaren, bedoeld in [artikel 7.1 tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011673&paragraaf=7&artikel=7.1&z=2006-07-09&g=2006-07-09), worden met betrekking tot de in dat lid bedoelde arbeid, aangewezen als de ambtenaar, bedoeld in de [artikelen 4:1, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=4:1), en [8:2, eerste en tweede lid, van de Arbeidstijdenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=8:2).
 
-2. De ambtenaren, bedoeld in [artikel 7.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011673&paragraaf=7&artikel=7.1&z=2005-12-29&g=2005-12-29), worden met betrekking tot de in dat lid bedoelde arbeid aangewezen als de ambtenaar, bedoeld in:
+2. De ambtenaren, bedoeld in [artikel 7.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011673&paragraaf=7&artikel=7.1&z=2006-07-09&g=2006-07-09), worden met betrekking tot de in dat lid bedoelde arbeid aangewezen als de ambtenaar, bedoeld in:
 
 - a. de [Arbeidsomstandighedenwet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0010346): de [artikelen 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=9), [27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=27), [28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=28), en [29, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=29);
 
@@ -248,7 +218,7 @@ De ambtenaren van de divisie Scheepvaart van de Inspectie Verkeer en Waterstaat,
 
 - c. de [arbeidsomstandighedenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0008587): de [artikelen 3.11, eerste tot en met het vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&artikel=3.11), [3.12, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&artikel=3.12) en [3.13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&artikel=3.13).
 
-3. De Inspecteur-Generaal der Mijnen wordt voor de in [artikel 7.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011673&paragraaf=7&artikel=7.1&z=2005-12-29&g=2005-12-29), bedoelde arbeid aangewezen als de ambtenaar, bedoeld in:
+3. De Inspecteur-Generaal der Mijnen wordt voor de in [artikel 7.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011673&paragraaf=7&artikel=7.1&z=2006-07-09&g=2006-07-09), bedoelde arbeid aangewezen als de ambtenaar, bedoeld in:
 
 - de [Arbeidsomstandighedenwet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0010346): [artikel 30, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=30);
 
@@ -264,7 +234,7 @@ Vervallen
 
 #### § 8. Intrekking en wijziging regelgeving
 
-#### Intrekking regelgeving
+#### Aanwijzing ambtenaren met specifieke uitvoeringstaken
 
 ##### Artikel 8.1
 
@@ -274,7 +244,7 @@ Vervallen
 
 Vervallen
 
-#### Wijziging regelgeving
+#### Aanwijzing toezichthouders
 
 ##### Artikel 8.3
 
@@ -328,7 +298,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 4.2
 
-De ambtenaren, bedoeld in [artikel 4.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011673&paragraaf=4&artikel=4.1&z=2005-12-29&g=2005-12-29), worden aangewezen als ambtenaar, bedoeld in:
+De ambtenaren, bedoeld in [artikel 4.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011673&paragraaf=4&artikel=4.1&z=2006-07-09&g=2006-07-09), worden aangewezen als ambtenaar, bedoeld in:
 
 - a. de [Arbeidsomstandighedenwet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0010346): de [artikelen 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=9) en [29, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=29)
 
@@ -357,6 +327,92 @@ De ambtenaren, bedoeld in [artikel 4.1, tweede lid](https://wetten.overheid.nl/j
 #### Wijziging regelgeving
 
 #### § 9. Slotbepalingen
+
+#### Citeertitel
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 3.3
+
+De ambtenaren van de divisie Scheepvaart van de Inspectie verkeer en Waterstaat, bedoeld in [artikel 10 van de Schepenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&artikel=10), zijn mede belast met het toezicht op de naleving van het bepaalde bij of krachtens de [Arbeidsomstandighedenwet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0010346), met betrekking tot arbeid verricht in, respectievelijk op een zeeschip, met uitzondering van aanbouw, verbouwing, herstelling of sloping dan wel onderhouds- of reinigingswerkzaamheden en hiermee verband houdende andere werkzaamheden aan deze schepen, alsmede met uitzondering van laden en lossen, tenzij deze arbeid wordt verricht door een werknemer die behoort tot de bemanning van een zeeschip.
+
+#### Aanwijzing ambtenaren met specifieke uitvoeringstaken
+
+##### Artikel 3.4
+
+1. De ambtenaren, bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011673&paragraaf=3&artikel=3.1&z=2006-07-09&g=2006-07-09), worden voor de in dat artikel bedoelde arbeid aangewezen als de ambtenaar, bedoeld in:
+
+- a. de [Arbeidsomstandighedenwet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0010346): de [artikelen 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=9), [27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=27), [28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=28), en [29, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=29);
+
+- b. het [Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498): de [artikelen 7.4a, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=7.4a), en [7.20, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=7.20), [7.27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=7.27), en [7.29, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=7.29).
+
+2. De inspecteur-generaal van de Inspectie Verkeer en Waterstaat wordt voor de in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011673&paragraaf=3&artikel=3.1&z=2006-07-09&g=2006-07-09) bedoelde arbeid aangewezen als de ambtenaar, bedoeld in:
+
+- a. de [Arbeidsomstandighedenwet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0010346): [artikel 30, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=30);
+
+- b. het [Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498): [artikel 4.49, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.49).
+
+##### Artikel 3.5
+
+1. De ambtenaren, bedoeld in [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011673&paragraaf=3&artikel=3.2&z=2006-07-09&g=2006-07-09), worden voor de in dat artikel bedoelde arbeid aangewezen als de ambtenaar, bedoeld in:
+
+- a. de [Arbeidsomstandighedenwet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0010346): [de artikelen 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=27), [28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=28), en [29, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=29);
+
+- b. het [Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498): de [artikelen 7.4a, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=7.4a), en [7.20, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=7.20).
+
+2. De inspecteur-generaal van de Inspectie Verkeer en Waterstaat wordt voor de in [artikel 3.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011673&paragraaf=3&artikel=3.2&z=2006-07-09&g=2006-07-09), bedoelde arbeid aangewezen als de ambtenaar, bedoeld in:
+
+- a. de [Arbeidsomstandighedenwet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0010346): [artikel 30, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=30);
+
+- b. het [Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498): [artikel 4.49, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.49).
+
+##### Artikel 3.6
+
+1. De ambtenaren, bedoeld in [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0011673&paragraaf=3&artikel=3.3&z=2006-07-09&g=2006-07-09), worden voor de in dat artikel bedoelde arbeid aangewezen als de ambtenaar, bedoeld in:
+
+- a. de [Arbeidsomstandighedenwet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0010346): de [artikelen 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=9), [27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=27), [28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=28), en [29, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=29);
+
+- b. het [Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498): de [artikelen 4.7, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.7), [7.4a, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=7.4a), [7.20, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=7.20), [7.27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=7.27), en [7.29, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=7.29).
+
+2. De directeur-hoofdinspecteur van de divisie Scheepvaart van de Inspectie Verkeer en waterstaat, bedoeld in [artikel 10 van de Schepenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&artikel=10), wordt voor de in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011673&paragraaf=3&artikel=3.1&z=2006-07-09&g=2006-07-09) bedoelde arbeid aangewezen als de ambtenaar, bedoeld in:
+
+- a. de [Arbeidsomstandighedenwet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0010346): [artikel 30, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=30);
+
+- b. het [Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498): [artikel 4.49, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.49).
+
+#### § 4. Politie
+
+#### Aanwijzing toezichthouders
+
+#### Aanwijzing ambtenaren met specifieke uitvoeringstaken
+
+#### § 5. Divisie Vervoer van de Inspectie Verkeer en Waterstaat
+
+#### Aanwijzing toezichthouders
+
+#### Aanwijzing ambtenaren met specifieke uitvoeringstaken
+
+#### § 6. Divisie Scheepvaart van de Inspectie Verkeer en Waterstaat
+
+#### Aanwijzing toezichthouders
+
+#### Aanwijzing ambtenaren met specifieke uitvoeringstaken
+
+#### § 7. Staatstoezicht op de Mijnen
+
+#### Aanwijzing toezichthouders
+
+#### § 7a. Ambtenaren van de rijksbelastingdienst, bevoegd inzake douane
+
+#### § 8. Intrekking en wijziging regelgeving
+
+#### Intrekking regelgeving
+
+#### Wijziging regelgeving
+
+#### § 9. Slotbepalingen
+
+#### Inwerkingtreding
 
 #### Citeertitel
 
