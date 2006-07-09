@@ -4,7 +4,7 @@ identifier: "BWBR0012844"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2006-07-09"
-last_updated: "2001-10-10"
+last_updated: "2006-07-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012844"
 soort: "ministeriele-regeling"
@@ -42,7 +42,7 @@ Besluit:
 
 Als ambtenaar die de bevoegdheid heeft tot het geheel of gedeeltelijk verlenen van kwijtschelding van de geluidsheffing burgerluchtvaart wordt aangewezen:
 
-De Directeur-Hoofdinspecteur van de Divisie Luchtvaart van de Inspectie Verkeer en Waterstaat.
+De inspecteur-generaal van de Inspectie Verkeer en Waterstaat.
 
 ##### Artikel 2
 
