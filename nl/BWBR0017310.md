@@ -4,7 +4,7 @@ identifier: "BWBR0017310"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2006-07-09"
-last_updated: "2004-10-23"
+last_updated: "2006-07-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017310"
 soort: "ministeriele-regeling"
@@ -41,7 +41,7 @@ Besluit:
 
 ##### Artikel 1
 
-De ambtenaren van de Divisie Rail van de Inspectie Verkeer en Waterstaat worden aangewezen als ambtenaren belast met het toezicht, bedoeld in [artikel 34, eerste lid, van de Wet kabelbaaninstallaties](https://wetten.overheid.nl/jci1.3:c:BWBR0016366&artikel=34).
+De ambtenaren van de Inspectie Verkeer en Waterstaat worden aangewezen als ambtenaren belast met het toezicht, bedoeld in [artikel 34, eerste lid, van de Wet kabelbaaninstallaties](https://wetten.overheid.nl/jci1.3:c:BWBR0016366&artikel=34).
 
 ##### Artikel 2
 
