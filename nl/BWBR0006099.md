@@ -4,7 +4,7 @@ identifier: "BWBR0006099"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2014-03-15"
-last_updated: "2001-11-01"
+last_updated: "2006-07-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006099"
 soort: "ministeriele-regeling"
@@ -75,7 +75,7 @@ Het is de houder van een dergelijk bewijs van bevoegdheid alleen toegestaan vluc
 
 Mocht er redelijk gegronde twijfel bestaan aan de gelijkwaardigheid van die eisen, dan kan bepaald worden, dat aan aanvullende eisen of examens moet worden voldaan alvorens gelijkstelling van het bewijs van bevoegdheid mogelijk is.
 
-2.2. Indien de houder van een bewijs van bevoegdheid, dat is afgegeven in één der E.G.-lidstaten op grond van de eisen van bijlage 1 bij het Verdrag van Chicago inzake de Internationale Burgerluchtvaart, voldoet aan de eisen van ervaring en medische geschiktheid bij deze regeling behorende [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0006099&bijlage=A&z=2001-11-01&g=2001-11-01), wordt hem een bewijs van gelijkstelling afgegeven, nadat hij ten overstaan van de desbetreffende Nederlandse examencommissie met goed gevolg heeft afgelegd:
+2.2. Indien de houder van een bewijs van bevoegdheid, dat is afgegeven in één der E.G.-lidstaten op grond van de eisen van bijlage 1 bij het Verdrag van Chicago inzake de Internationale Burgerluchtvaart, voldoet aan de eisen van ervaring en medische geschiktheid bij deze regeling behorende [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0006099&bijlage=A&z=2006-07-09&g=2006-07-09), wordt hem een bewijs van gelijkstelling afgegeven, nadat hij ten overstaan van de desbetreffende Nederlandse examencommissie met goed gevolg heeft afgelegd:
 
 - a. een praktisch examen; voor zover gewenst en krachtens de Nederlandse voorschriften nodig worden in dit examen begrepen de in het buitenlands bewijs van bevoegdheid gestelde bevoegdverklaring(en); en
 
@@ -85,9 +85,9 @@ Mocht er redelijk gegronde twijfel bestaan aan de gelijkwaardigheid van die eise
 
 ##### Artikel 3. Bewijzen van bevoegdheid afgegeven in niet-E.G.-lidstaten
 
-3.1. Indien de houder van een bewijs van bevoegdheid afgegeven overeenkomstig de eisen van Annex I bij het Verdrag van Chicago in landen die geen lid zijn van de E.G. andere privé-vluchten dan genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0006099&hoofdstuk=I&artikel=1&z=2001-11-01&g=2001-11-01) wenst te maken kan een bewijs van gelijkstelling worden afgegeven. Om voor afgifte van een bewijs van gelijkstelling in aanmerking te komen moet aan de volgende voorwaarden worden voldaan:
+3.1. Indien de houder van een bewijs van bevoegdheid afgegeven overeenkomstig de eisen van Annex I bij het Verdrag van Chicago in landen die geen lid zijn van de E.G. andere privé-vluchten dan genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0006099&hoofdstuk=I&artikel=1&z=2006-07-09&g=2006-07-09) wenst te maken kan een bewijs van gelijkstelling worden afgegeven. Om voor afgifte van een bewijs van gelijkstelling in aanmerking te komen moet aan de volgende voorwaarden worden voldaan:
 
-- a. de houder van het buitenlands bewijs van bevoegdheid voldoet aan de ervaringseisen na afgifte van het betrokken buitenlandse bewijs van bevoegdheid en aan de medische geschiktheid zoals genoemd in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0006099&bijlage=A&z=2001-11-01&g=2001-11-01);
+- a. de houder van het buitenlands bewijs van bevoegdheid voldoet aan de ervaringseisen na afgifte van het betrokken buitenlandse bewijs van bevoegdheid en aan de medische geschiktheid zoals genoemd in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0006099&bijlage=A&z=2006-07-09&g=2006-07-09);
 
 - b. de vereiste examens voor het buitenlandse bewijs van bevoegdheid en de daarin gestelde bevoegdverklaringen moeten in het land van afgifte van het bewijs van bevoegdheid zijn afgelegd;
 
@@ -129,7 +129,7 @@ Een bewijs van bevoegdheid afgegeven door een E.G.-lidstaat wordt gelijkgesteld 
 
 ##### Artikel 7
 
-1. Indien de houder van een in één der EG-lidstaten afgegeven bewijs van bevoegdheid beschikt over de ervaring en medische geschiktheid genoemd in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0006099&bijlage=A&z=2001-11-01&g=2001-11-01) wordt een bewijs van gelijkstelling afgegeven nadat deze ten overstaan van de desbetreffende Nederlandse examencommissie met goed gevolg een praktisch examen heeft afgelegd; voor zover gewenst en krachtens de Nederlandse voorschriften nodig worden in dit examen begrepen de in het buitenlands bewijs van bevoegdheid gestelde bevoegdverklaring(en).
+1. Indien de houder van een in één der EG-lidstaten afgegeven bewijs van bevoegdheid beschikt over de ervaring en medische geschiktheid genoemd in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0006099&bijlage=A&z=2006-07-09&g=2006-07-09) wordt een bewijs van gelijkstelling afgegeven nadat deze ten overstaan van de desbetreffende Nederlandse examencommissie met goed gevolg een praktisch examen heeft afgelegd; voor zover gewenst en krachtens de Nederlandse voorschriften nodig worden in dit examen begrepen de in het buitenlands bewijs van bevoegdheid gestelde bevoegdverklaring(en).
 
 2.
 
@@ -141,7 +141,7 @@ Ten bewijze van de in het eerste lid genoemde ervaring en medische geschiktheid 
 
 Bewijzen van bevoegdheid afgegeven overeenkomstig de eisen van Annex I bij het Verdrag van Chicago in landen die geen lid zijn van de E.G. kunnen worden gelijkgesteld. Om voor afgifte van een bewijs van gelijkstelling in aanmerking te komen moet aan de volgende voorwaarden worden voldaan:
 
-- a. de houder van het buitenlands bewijs van bevoegdheid voldoet aan de ervaringseisen na afgifte van het betrokken buitenlandse bewijs van bevoegdheid zoals genoemd in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0006099&bijlage=A&z=2001-11-01&g=2001-11-01);
+- a. de houder van het buitenlands bewijs van bevoegdheid voldoet aan de ervaringseisen na afgifte van het betrokken buitenlandse bewijs van bevoegdheid zoals genoemd in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0006099&bijlage=A&z=2006-07-09&g=2006-07-09);
 
 - b. de vereiste examens voor het buitenlandse bewijs van bevoegdheid en de daarin gestelde bevoegdverklaring(en) moeten in het land van afgifte van het bewijs van bevoegdheid zijn afgelegd;
 
@@ -163,7 +163,7 @@ Op basis van de buitenlandse senior commercial pilot licence wordt ten hoogste e
 
 1. De aanvraag van een bewijs van gelijkstelling moet zijn gesteld op een daartoe bestemd en deugdelijk ingevuld aanvraagformulier met daarbij gevoegd het origineel of een gewaarmerkte kopie van het gelijk te stellen bewijs van bevoegdheid, het logboek, de examenresultaten en een geldige medische verklaring als bedoeld in [artikel 2.4 Wet Luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=2.4).
 
-2. Een aanvraag voor een bewijs van gelijkstelling moet worden ingediend bij de divisie Luchtvaart van de Inspectie Verkeer en Waterstaat te Den Haag.
+2. Een aanvraag voor een bewijs van gelijkstelling moet worden ingediend bij de Inspectie Verkeer en Waterstaat te Den Haag.
 
 ##### Artikel 11. De geldigheidsduur
 
@@ -237,7 +237,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ## Bijlage A
 
-| [Bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0006099&bijlage=A&z=2001-11-01&g=2001-11-01) bij gelijkstellingsregeling | [Bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0006099&bijlage=A&z=2001-11-01&g=2001-11-01) bij gelijkstellingsregeling | [Bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0006099&bijlage=A&z=2001-11-01&g=2001-11-01) bij gelijkstellingsregeling | [Bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0006099&bijlage=A&z=2001-11-01&g=2001-11-01) bij gelijkstellingsregeling |
+| [Bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0006099&bijlage=A&z=2006-07-09&g=2006-07-09) bij gelijkstellingsregeling | [Bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0006099&bijlage=A&z=2006-07-09&g=2006-07-09) bij gelijkstellingsregeling | [Bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0006099&bijlage=A&z=2006-07-09&g=2006-07-09) bij gelijkstellingsregeling | [Bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0006099&bijlage=A&z=2006-07-09&g=2006-07-09) bij gelijkstellingsregeling |
 | --- | --- | --- | --- |
 | Bewijs van bevoegdheid | Medische eisen | Leeftijd | Ervaring na afgifte van het buitenlandse bewijs van bevoegdheid |
 | ATPL-A | Medisch certificaat klasse 1 zonder enige beperking | 21 - 60 | 1500 vlieguren als verkeersvlieger op FAF 25/JAR 25 - vliegtuigen |
