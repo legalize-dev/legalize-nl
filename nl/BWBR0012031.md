@@ -4,7 +4,7 @@ identifier: "BWBR0012031"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-17"
-last_updated: "2006-06-17"
+last_updated: "2006-07-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012031"
 soort: "ministeriele-regeling"
@@ -678,7 +678,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst
 
 2. Met betrekking tot de uitkeringen en de administratieve vormgeving daarvan gelden de volgende regels:
 
-- a. de termijnen van een oudedagslijfrente, een overbruggingslijfrente of een tijdelijke oudedagslijfrente als bedoeld in [artikel 3.125, eerste lid, onderdeel a, onderdeel c, respectievelijk onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.125) worden op de ingangsdatum uitgedrukt in een vast aantal beleggingseenheden (units) per jaar;
+- a. de termijnen van een oudedagslijfrente of een tijdelijke oudedagslijfrente als bedoeld in [artikel 3.125, eerste lid, onderdeel a, respectievelijk onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.125) worden op de ingangsdatum uitgedrukt in een vast aantal beleggingseenheden (units) per jaar;
 
 - b. indien bij een of meer van de onder a genoemde lijfrenten een nabestaandenlijfrente als bedoeld in [artikel 3.125, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.125) is meeverzekerd, dient deze op de ingangsdatum van de lijfrente waarbij deze is meeverzekerd te worden uitgedrukt in een vast aantal beleggingseenheden per jaar; in plaats daarvan kan op die ingangsdatum voor de nabestaandenlijfrente een kapitaal worden bepaald dat dient als rekengrootheid voor de vaststelling van de hoogte van de termijnen van de nabestaandenlijfrente in beleggingseenheden of euro’s; indien de nabestaandenlijfrente niet een lijfrente in beleggingseenheden of een gerichte lijfrente is, maar is verzekerd als een recht op uitkeringen in euro’s, wordt de nabestaandenlijfrente geadministreerd als een zelfstandig recht ten opzichte van de in onderdeel a genoemde lijfrenten;
 
@@ -728,11 +728,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst
 
 Vóór 1 januari 2005 vastgestelde lijfrenten die niet in geldeenheden luiden:
 
-- 1. Op een lijfrente waarvan vóór 1 januari 2005 de hoogte van de termijnen in beleggingseenheden (units) met de verzekeraar is overeengekomen, blijft [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=1&artikel=2a&z=2006-06-17&g=2006-06-17) buiten toepassing en kan de lijfrente-overeenkomst worden tenuitvoergelegd zoals is overeengekomen.
+- 1. Op een lijfrente waarvan vóór 1 januari 2005 de hoogte van de termijnen in beleggingseenheden (units) met de verzekeraar is overeengekomen, blijft [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=1&artikel=2a&z=2009-02-12&g=2006-07-15) buiten toepassing en kan de lijfrente-overeenkomst worden tenuitvoergelegd zoals is overeengekomen.
 
-- 2. Indien ter zake van een lijfrente als bedoeld in het eerste lid op of na 1 januari 2005 met de verzekeraar een wijziging van methode van berekening van de termijnen in units of in euro’s wordt overeengekomen, is met ingang van de datum van die wijziging [art. 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=1&artikel=2a&z=2006-06-17&g=2006-06-17) wel van toepassing.
+- 2. Indien ter zake van een lijfrente als bedoeld in het eerste lid op of na 1 januari 2005 met de verzekeraar een wijziging van methode van berekening van de termijnen in units of in euro’s wordt overeengekomen, is met ingang van de datum van die wijziging [art. 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=1&artikel=2a&z=2009-02-12&g=2006-07-15) wel van toepassing.
 
-- 3. Indien een lijfrente als bedoeld in het eerste lid op of na 1 januari 2005 wordt omgezet in een andere lijfrente, is [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=1&artikel=2a&z=2006-06-17&g=2006-06-17) van toepassing op de laatstgenoemde lijfrente.
+- 3. Indien een lijfrente als bedoeld in het eerste lid op of na 1 januari 2005 wordt omgezet in een andere lijfrente, is [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=1&artikel=2a&z=2009-02-12&g=2006-07-15) van toepassing op de laatstgenoemde lijfrente.
 
 ### Hoofdstuk 11. Overgangs- en slotbepalingen ([hoofdstuk 11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=11))
 
