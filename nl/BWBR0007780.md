@@ -4,7 +4,7 @@ identifier: "BWBR0007780"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-01"
-last_updated: "2006-01-01"
+last_updated: "2006-07-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007780"
 soort: "ministeriele-regeling"
@@ -122,7 +122,7 @@ De inhoudingsplichtige die met betrekking tot een door hem aangewezen categorie 
 
 ##### Artikel 8
 
-De inhoudingsplichtige voegt binnen twee maanden na afloop van het kalenderjaar aan de loonadministratie toe de administratie met betrekking tot de in dat jaar toegepaste afdrachtvermindering lagelonen en afdrachtvermindering onderwijs. De administratie bevat per werknemer het bedrag van de afdrachtvermindering lage lonen en de afdrachtvermindering onderwijs.
+De inhoudingsplichtige voegt binnen twee maanden na afloop van het kalenderjaar aan de loonadministratie toe de administratie met betrekking tot de in dat jaar toegepaste afdrachtvermindering onderwijs. De administratie bevat per werknemer het bedrag van de de afdrachtvermindering onderwijs.
 
 ### Hoofdstuk III. Afdrachtvermindering langdurig werklozen
 
