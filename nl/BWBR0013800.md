@@ -4,7 +4,7 @@ identifier: "BWBR0013800"
 country: "nl"
 rank: "wet"
 publication_date: "2025-01-01"
-last_updated: "2006-03-08"
+last_updated: "2006-07-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013800"
 soort: "wet"
@@ -52,13 +52,11 @@ In deze wet wordt verstaan onder:
 
 - a. Onze Minister: Onze Minister van Onderwijs, Cultuur en Wetenschap en, voorzover het betreft het onderwijs op het gebied van landbouw en natuurlijke omgeving, Onze Minister van Landbouw, Natuur en Voedselkwaliteit,
 
-- b. de inspectie: de Inspectie van het onderwijs en, voorzover het betreft het onderwijs op het gebied van landbouw en natuurlijke omgeving, de Inspectie van het landbouwonderwijs,
+- b. de inspectie: de Inspectie van het onderwijs,
 
 - c. de inspecteur-generaal: de inspecteur-generaal van het onderwijs,
 
-- d. het hoofd inspectie: het hoofd van de Inspectie landbouwonderwijs,
-
-- e. onderwijswet:
+- d. onderwijswet:
 
 - –. [Leerplichtwet 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002628),
 
@@ -76,31 +74,29 @@ In deze wet wordt verstaan onder:
 
 - –. [Experimentenwet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002718),
 
-- f. onderwijs: bij of krachtens een onderwijswet geregeld onderwijs,
+- e. onderwijs: bij of krachtens een onderwijswet geregeld onderwijs,
 
-- g. instelling: school, instelling, exameninstelling of agrarisch innovatie- en praktijkcentrum in de zin van een onderwijswet, daaronder begrepen een niet bekostigde instelling,
+- f. instelling: school, instelling, exameninstelling of agrarisch innovatie- en praktijkcentrum in de zin van een onderwijswet, daaronder begrepen een niet bekostigde instelling,
 
-- h. exameninstelling: instelling als bedoeld in [artikel 1.6.1 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.6.1),
+- g. exameninstelling: instelling als bedoeld in [artikel 1.6.1 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.6.1),
 
-- i. vervallen,
+- h. vervallen,
 
-- j. bestuur: bevoegd gezag in de zin van een onderwijswet, met dien verstande dat waar het de [Leerplichtwet 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002628) betreft hieronder wordt verstaan het hoofd van de school of instelling,
+- i. bestuur: bevoegd gezag in de zin van een onderwijswet, met dien verstande dat waar het de [Leerplichtwet 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002628) betreft hieronder wordt verstaan het hoofd van de school of instelling,
 
-- k. onderwijsdeelnemer: leerling, deelnemer, student of extraneus in de zin van een onderwijswet,
+- j. onderwijsdeelnemer: leerling, deelnemer, student of extraneus in de zin van een onderwijswet,
 
-- l. ouders: met het gezag over het kind belaste ouders, hun geregistreerde partners, voogden en verzorgers,
+- k. ouders: met het gezag over het kind belaste ouders, hun geregistreerde partners, voogden en verzorgers,
 
-- m. maatregel: maatregel als bedoeld in [artikel 1d van de Leerplichtwet 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&artikel=1d), [artikel 164a van de Wet op het primair onderwijs](onbekend), [artikel 146a van de Wet op de expertisecentra](onbekend), de [artikelen 104a](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=104a) en [261a van de Wet op het voortgezet onderwijs](onbekend) en de [artikelen 6.1.5a](onbekend) en [6.2.3a van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.2.3a),
+- l. maatregel: maatregel als bedoeld in [artikel 1d van de Leerplichtwet 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&artikel=1d), [artikel 164a van de Wet op het primair onderwijs](onbekend), [artikel 146a van de Wet op de expertisecentra](onbekend), de [artikelen 104a](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=104a) en [261a van de Wet op het voortgezet onderwijs](onbekend) en de [artikelen 6.1.5a](onbekend) en [6.2.3a van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.2.3a),
 
-- n. jaarwerkplan: document waarin de inspectie haar werkzaamheden voor het komende jaar neerlegt.
+- m. jaarwerkplan: document waarin de inspectie haar werkzaamheden voor het komende jaar neerlegt.
 
 ##### Artikel 2. De inspectie
 
 1. Er is een Inspectie van het onderwijs, die onder Onze Minister van Onderwijs, Cultuur en Wetenschap ressorteert. Aan het hoofd van de inspectie staat de inspecteur-generaal.
 
-2. Er is een Inspectie van het landbouwonderwijs, die onder Onze Minister van Landbouw, Natuur en Voedselkwaliteit ressorteert. Aan het hoofd van de inspectie staat het hoofd inspectie.
-
-3. Onze Minister geeft met betrekking tot de uitoefening van de in deze wet aan de inspectie toegekende bevoegdheden uitsluitend in schriftelijke vorm zijn aanwijzingen, onder mededeling daarvan aan de Staten-Generaal.
+2. Onze Minister geeft met betrekking tot de uitoefening van de in deze wet aan de inspectie toegekende bevoegdheden uitsluitend in schriftelijke vorm zijn aanwijzingen, onder mededeling daarvan aan de Staten-Generaal.
 
 ### Hoofdstuk 2. Taken en bevoegdheden bij het toezicht
 
@@ -134,13 +130,13 @@ Bij de uitoefening van het toezicht op opleidingen, gericht op een beroep waarvo
 
 1. Bij de inspectie zijn vertrouwensinspecteurs werkzaam voor:
 
-- a. onderwijsdeelnemers die het slachtoffer zijn van seksueel misbruik of seksuele intimidatie dan wel van fysiek geweld of psychisch geweld, gepleegd door een ten behoeve van de instelling met taken belast persoon of een onderwijsdeelnemer van de instelling,
+- a. onderwijsdeelnemers die het slachtoffer zijn van seksueel misbruik, seksuele intimidatie, fysiek geweld, psychisch geweld, discriminatie of radicalisering, gepleegd door een ten behoeve van de instelling met taken belast persoon of een onderwijsdeelnemer van de instelling,
 
-- b. ten behoeve van een instelling met taken belaste personen die het slachtoffer zijn van seksueel misbruik of seksuele intimidatie dan wel van fysiek geweld of psychisch geweld, gepleegd door een ten behoeve van de instelling met taken belast persoon of een onderwijsdeelnemer van de instelling, en
+- b. ten behoeve van een instelling met taken belaste personen die het slachtoffer zijn van seksueel misbruik, seksuele intimidatie, fysiek geweld, psychisch geweld, discriminatie of radicalisering, gepleegd door een ten behoeve van de instelling met taken belast persoon of een onderwijsdeelnemer van de instelling, en
 
-- c. onderwijsdeelnemers, ten behoeve van een instelling met taken belaste personen, besturen, ouders, op instellingen ingestelde klachtencommissies en op instellingen aangestelde vertrouwenspersonen, die geconfronteerd worden met een geval van seksueel misbruik of seksuele intimidatie dan wel van fysiek geweld of psychisch geweld als bedoeld onder a of b.
+- c. onderwijsdeelnemers, ten behoeve van een instelling met taken belaste personen, besturen, ouders, op instellingen ingestelde klachtencommissies en op instellingen aangestelde vertrouwenspersonen, die geconfronteerd worden met een geval van seksueel misbruik, seksuele intimidatie, fysiek geweld, psychisch geweld, discriminatie of radicalisering als bedoeld onder a of b.
 
-2. Naast zijn taken, voortvloeiend uit [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=2&artikel=3&z=2006-03-08&g=2006-03-08), heeft de vertrouwensinspecteur ten behoeve van de in het eerste lid genoemde personen en organen de volgende taken:
+2. Naast zijn taken, voortvloeiend uit [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=2&artikel=3&z=2006-07-19&g=2006-07-19), heeft de vertrouwensinspecteur ten behoeve van de in het eerste lid genoemde personen en organen de volgende taken:
 
 - a. het fungeren als aanspreekpunt,
 
@@ -154,9 +150,21 @@ Bij de uitoefening van het toezicht op opleidingen, gericht op een beroep waarvo
 
 4. De vertrouwensinspecteur is voorzover het betreft een geval van seksueel misbruik of seksuele intimidatie als bedoeld in het eerste lid, onder a of b, verplicht tot geheimhouding van hetgeen hem in de uitoefening van zijn functie is toevertrouwd door een onderwijsdeelnemer, de ouders van een onderwijsdeelnemer of een ten behoeve van een instelling met taken belast persoon.
 
+5. De vertrouwensinspecteur is bevoegd zonder toestemming van degene die het betreft bijzondere gegevens als bedoeld in [artikel 16 van de Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=16) te verwerken met betrekking tot de personen, bedoeld in het eerste lid, indien uit een melding redelijkerwijs een vermoeden van seksueel misbruik, seksuele intimidatie, psychisch geweld, fysiek geweld, discriminatie of radicalisering kan worden afgeleid.
+
+6. De vertrouwensinspecteur verstrekt de door hem verzamelde gegevens niet aan derden. In het verslag over de staat van het onderwijs, bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=2&artikel=8&z=2006-07-19&g=2006-07-19), worden slechts geabstraheerde gegevens opgenomen.
+
+7. In afwijking van het zesde lid is de vertrouwensinspecteur bevoegd rechtstreeks onder de verantwoordelijkheid van Onze Minister van Justitie vallende instanties in kennis te stellen van een geval of vermoeden van een geval van psychisch geweld, fysiek geweld, discriminatie of radicalisering:
+
+- a. in het belang van de onderwijsdeelnemers,
+
+- b. in het belang van ten behoeve van een instelling met taken belaste personen, of
+
+- c. indien de ernst van de situatie waarop de melding betrekking heeft daartoe aanleiding geeft.
+
 ##### Artikel 7. Jaarwerkplan
 
-1. De inspectie stelt jaarlijks uiterlijk in de eerste week van augustus een jaarwerkplan vast. Het jaarwerkplan behoeft de goedkeuring van Onze Minister.
+1. De inspectie stelt jaarlijks een jaarwerkplan vast. Het jaarwerkplan behoeft de goedkeuring van Onze Minister.
 
 2. Onze Minister zendt het jaarwerkplan van de inspectie aan de Staten-Generaal.
 
@@ -164,7 +172,7 @@ Bij de uitoefening van het toezicht op opleidingen, gericht op een beroep waarvo
 
 1. De inspectie rapporteert desgevraagd en uit eigen beweging aan Onze Minister over de ontwikkeling, in het bijzonder van de kwaliteit, van het onderwijs en doet op grond daarvan voorstellen die zij in het belang van het onderwijs nodig acht.
 
-2. De inspectie stelt jaarlijks uiterlijk in de eerste week van mei het verslag over de staat van het onderwijs, bedoeld in [artikel 23, achtste lid, van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=23) vast. Onze Minister zendt het verslag, vergezeld van een reactie, namens de regering onverwijld aan de Staten-Generaal.
+2. De inspectie stelt jaarlijks uiterlijk de derde woensdag van mei het verslag over de staat van het onderwijs, bedoeld in [artikel 23, achtste lid, van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=23) vast. Onze Minister zendt het verslag, vergezeld van een reactie, namens de regering onverwijld aan de Staten-Generaal.
 
 3. Onze Minister geeft geen aanwijzingen met betrekking tot de in de rapportages neergelegde oordelen van de inspectie over de ontwikkeling, in het bijzonder van de kwaliteit, van het onderwijs.
 
@@ -194,7 +202,7 @@ Dit hoofdstuk is niet van toepassing op:
 
 ##### Artikel 11. Periodiek kwaliteitsonderzoek
 
-1. Ter uitvoering van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=2&artikel=3&z=2006-03-08&g=2006-03-08) bedoelde taken onderzoekt de inspectie jaarlijks het onderwijs aan elke instelling, behoudens bijzondere omstandigheden. Naar aanleiding van het onderzoek geeft de inspectie een oordeel over de kwaliteit van het onderwijs.
+1. Ter uitvoering van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=2&artikel=3&z=2006-07-19&g=2006-07-19) bedoelde taken onderzoekt de inspectie jaarlijks het onderwijs aan elke instelling, behoudens bijzondere omstandigheden. Naar aanleiding van het onderzoek geeft de inspectie een oordeel over de kwaliteit van het onderwijs.
 
 2. De inspectie verricht het onderzoek aan de hand van de bij of krachtens een onderwijswet gegeven voorschriften en, indien het betreft een instelling voor primair of voortgezet onderwijs, de aspecten van kwaliteit, te weten
 
@@ -230,11 +238,11 @@ Indien uit het onderzoek een redelijk vermoeden voortvloeit dat de kwaliteit tek
 
 ##### Artikel 12. Aansluiting bij zelfevaluatie instelling
 
-1. De inspectie gaat bij een onderzoek als bedoeld in [artikel 11, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=3&artikel=11&z=2006-03-08&g=2006-03-08), uit van de uitkomsten van een evaluatie van de kwaliteit door of vanwege de instelling, waaronder worden verstaan de uitkomsten van het beleid met betrekking tot de bewaking en verbetering van de kwaliteit van het onderwijs door of vanwege de instelling als bedoeld in [artikel 12, eerste lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=12), [artikel 21 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=21), [artikel 24, eerste lid, van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=24), en het verslag, bedoeld in [artikel 1.3.6, tweede lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.3.6).
+1. De inspectie gaat bij een onderzoek als bedoeld in [artikel 11, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=3&artikel=11&z=2006-07-19&g=2006-07-19), uit van de uitkomsten van een evaluatie van de kwaliteit door of vanwege de instelling, waaronder worden verstaan de uitkomsten van het beleid met betrekking tot de bewaking en verbetering van de kwaliteit van het onderwijs door of vanwege de instelling als bedoeld in [artikel 12, eerste lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=12), [artikel 21 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=21), [artikel 24, eerste lid, van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=24), en het verslag, bedoeld in [artikel 1.3.6, tweede lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.3.6).
 
 2. De uitkomsten van een evaluatie, bedoeld in het eerste lid, zijn richtinggevend voor het oordeel van de inspectie indien:
 
-- a. alle aspecten van kwaliteit die de inspectie bij haar oordeel betrekt, zoals neergelegd in een toezichtskader als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=3&artikel=13&z=2006-03-08&g=2006-03-08), daarin aan de orde komen,
+- a. alle aspecten van kwaliteit die de inspectie bij haar oordeel betrekt, zoals neergelegd in een toezichtskader als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=3&artikel=13&z=2006-07-19&g=2006-07-19), daarin aan de orde komen,
 
 - b. de wijze van uitvoering en de hoedanigheid van de evaluatie voldoende betrouwbaar zijn, en
 
@@ -244,7 +252,7 @@ Indien uit het onderzoek een redelijk vermoeden voortvloeit dat de kwaliteit tek
 
 ##### Artikel 13. Toezichtskader
 
-1. De inspectie legt haar werkwijze voor een onderzoek als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=3&artikel=11&z=2006-03-08&g=2006-03-08), vast in een of meer toezichtskaders. De toezichtskaders behoeven de goedkeuring van Onze Minister.
+1. De inspectie legt haar werkwijze voor een onderzoek als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=3&artikel=11&z=2006-07-19&g=2006-07-19), vast in een of meer toezichtskaders. De toezichtskaders behoeven de goedkeuring van Onze Minister.
 
 2. Alvorens een toezichtskader vast te stellen of te wijzigen voert de inspectie overleg met vertegenwoordigers van het onderwijsveld en andere betrokkenen, terwijl bij onderwerpen betrekking hebbend op de vrijheid van inrichting in ieder geval overleg wordt gevoerd met de erkende richtingen.
 
@@ -258,9 +266,9 @@ Indien uit het onderzoek een redelijk vermoeden voortvloeit dat de kwaliteit tek
 
 ##### Artikel 15. Incidenteel onderzoek
 
-1. Naast het periodieke kwaliteitsonderzoek, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=3&artikel=11&z=2006-03-08&g=2006-03-08), kan de inspectie uit eigen beweging dan wel op aanwijzing van Onze Minister incidenteel onderzoek verrichten naar de kwaliteit van het onderwijs onderscheidenlijk, indien het een exameninstelling betreft, van de externe legitimering waaronder mede wordt verstaan naar de naleving van de bij of krachtens een onderwijswet gegeven voorschiften.
+1. Naast het periodieke kwaliteitsonderzoek, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=3&artikel=11&z=2006-07-19&g=2006-07-19), kan de inspectie uit eigen beweging dan wel op aanwijzing van Onze Minister incidenteel onderzoek verrichten naar de kwaliteit van het onderwijs onderscheidenlijk, indien het een exameninstelling betreft, van de externe legitimering waaronder mede wordt verstaan naar de naleving van de bij of krachtens een onderwijswet gegeven voorschiften.
 
-2. De artikelen 20 en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=5&artikel=21&z=2006-03-08&g=2006-03-08) zijn van overeenkomstige toepassing, tenzij de aard of omvang van het onderzoek zich tegen openbare rapportage verzetten.
+2. De artikelen 20 en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=5&artikel=21&z=2006-07-19&g=2006-07-19) zijn van overeenkomstige toepassing, tenzij de aard of omvang van het onderzoek zich tegen openbare rapportage verzetten.
 
 ### Hoofdstuk 3a. Toezicht externe kwaliteitsbewaking examinering beroepsopleidingen
 
@@ -298,25 +306,25 @@ Dit hoofdstuk is van toepassing op het accreditatieorgaan, bedoeld in [artikel 5
 
 ##### Artikel 18. Onderzoek hoger onderwijs
 
-1. De inspectie voert de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=2&artikel=3&z=2006-03-08&g=2006-03-08) bedoelde taken uit door onderzoek naar de naleving door instellingen van de voorschriften, bedoeld in de [artikelen 6.5, eerste lid onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=6.5), en [6.10, eerste lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=6.10).
+1. De inspectie voert de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=2&artikel=3&z=2006-07-19&g=2006-07-19) bedoelde taken uit door onderzoek naar de naleving door instellingen van de voorschriften, bedoeld in de [artikelen 6.5, eerste lid onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=6.5), en [6.10, eerste lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=6.10).
 
-2. De [artikelen 11, derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=3&artikel=11&z=2006-03-08&g=2006-03-08), en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=3&artikel=14&z=2006-03-08&g=2006-03-08) zijn van overeenkomstige toepassing.
+2. De [artikelen 11, derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=3&artikel=11&z=2006-07-19&g=2006-07-19), en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=3&artikel=14&z=2006-07-19&g=2006-07-19) zijn van overeenkomstige toepassing.
 
 ##### Artikel 19. Incidenteel onderzoek hoger onderwijs
 
-1. Naast het onderzoek, bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=4&artikel=18&z=2006-03-08&g=2006-03-08), kan de inspectie incidenteel onderzoek verrichten naar:
+1. Naast het onderzoek, bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=4&artikel=18&z=2006-07-19&g=2006-07-19), kan de inspectie incidenteel onderzoek verrichten naar:
 
 - a. aspecten van de kwaliteit van het stelsel van hoger onderwijs in zijn geheel, en
 
 - b. de naleving door instellingen van de voorschriften, bedoeld in de [artikelen 6.5, eerste lid onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=6.5), en [6.10, eerste lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=6.10).
 
-2. De [artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=5&artikel=20&z=2006-03-08&g=2006-03-08) en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=5&artikel=21&z=2006-03-08&g=2006-03-08) zijn van overeenkomstige toepassing, tenzij de aard of omvang van het onderzoek zich tegen openbare rapportage verzetten.
+2. De [artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=5&artikel=20&z=2006-07-19&g=2006-07-19) en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=5&artikel=21&z=2006-07-19&g=2006-07-19) zijn van overeenkomstige toepassing, tenzij de aard of omvang van het onderzoek zich tegen openbare rapportage verzetten.
 
 ### Hoofdstuk 5. Vaststelling en openbaarmaking van inspectierapporten
 
 ##### Artikel 20. Vaststelling van inspectierapporten
 
-1. De inspectie legt haar oordeel naar aanleiding van een onderzoek als bedoeld in [artikel 11, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=3&artikel=11&z=2006-03-08&g=2006-03-08), vast in een inspectierapport.
+1. De inspectie legt haar oordeel naar aanleiding van een onderzoek als bedoeld in [artikel 11, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=3&artikel=11&z=2006-07-19&g=2006-07-19), vast in een inspectierapport.
 
 2. Indien de inspectie oordeelt dat een bij of krachtens een onderwijswet gegeven voorschrift niet is nageleefd, vermeldt zij dit in het rapport.
 
@@ -344,7 +352,7 @@ De inspectie draagt zorg voor een verantwoorde uitoefening van het toezicht.
 
 1. Er is een klachtadviescommissie belast met de behandeling van en advisering over klachten over gedragingen van de inspectie. Op de behandeling van en advisering over klachten is de in [afdeling 9.1.3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=9.1.3) geregelde procedure van toepassing.
 
-2. De klachtadviescommissie bestaat uit drie leden, die worden benoemd en ontslagen door Onze Minister van Onderwijs, Cultuur en Wetenschap na overleg met Onze Minister van Landbouw, Natuur en Voedselkwaliteit. De leden maken geen deel uit van en zijn niet werkzaam onder verantwoordelijkheid van de inspectie. De leden kiezen uit hun midden een voorzitter.
+2. De klachtadviescommissie bestaat uit ten minste drie leden, die worden benoemd en ontslagen door Onze Minister van Onderwijs, Cultuur en Wetenschap na overleg met Onze Minister van Landbouw, Natuur en Voedselkwaliteit. De leden maken geen deel uit van en zijn niet werkzaam onder verantwoordelijkheid van de inspectie. De leden kiezen uit hun midden een voorzitter.
 
 3. De voorzitter en leden zijn afzonderlijk of gezamenlijk deskundig op het gebied van onderwijs, in het bijzonder op het gebied van de vrijheid van richting en inrichting, toezicht en klachtbehandeling.
 
@@ -352,7 +360,7 @@ De inspectie draagt zorg voor een verantwoorde uitoefening van het toezicht.
 
 ##### Artikel 24. Raad van advies inzake de inspectie
 
-1. Er is een Raad van advies inzake de inspectie die tot taak heeft de inspectie bij te staan in de waarborging van een zorgvuldige en professionele uitoefening van het toezicht. De raad adviseert de inspecteur-generaal onderscheidenlijk het hoofd inspectie gevraagd en ongevraagd over de kwaliteit van de uitoefening van het toezicht, in het bijzonder over de uitvoering van de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=3&artikel=13&z=2006-03-08&g=2006-03-08) en [22](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=6&artikel=22&z=2006-03-08&g=2006-03-08).
+1. Er is een Raad van advies inzake de inspectie die tot taak heeft de inspectie bij te staan in de waarborging van een zorgvuldige en professionele uitoefening van het toezicht. De raad adviseert de inspecteur-generaal onderscheidenlijk het hoofd inspectie gevraagd en ongevraagd over de kwaliteit van de uitoefening van het toezicht, in het bijzonder over de uitvoering van de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=3&artikel=13&z=2006-07-19&g=2006-07-19) en [22](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&hoofdstuk=6&artikel=22&z=2006-07-19&g=2006-07-19).
 
 2. De raad bestaat uit drie leden, die worden benoemd en ontslagen door Onze Minister van Onderwijs, Cultuur en Wetenschap na overleg met Onze Minister van Landbouw, Natuur en Voedselkwaliteit. De benoeming geschiedt voor de tijd van ten hoogste vier jaar. De leden kiezen uit hun midden een voorzitter.
 
