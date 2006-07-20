@@ -4,7 +4,7 @@ identifier: "BWBR0019134"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2006-07-20"
-last_updated: "2006-01-01"
+last_updated: "2006-07-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019134"
 soort: "ministeriele-regeling"
@@ -46,11 +46,11 @@ Het tijdvak voor de subsidieverstrekking als bedoeld in deze regeling wordt vast
 
 ##### Artikel 2
 
-Het subsidieplafond voor het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019134&artikel=1&z=2006-01-01&g=2006-01-01) vastgestelde tijdvak ten behoeve van de sanering van verkeerslawaai als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019134&artikel=3&z=2006-01-01&g=2006-01-01) wordt vastgesteld op: € 18.621.000,00.
+Het subsidieplafond voor het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019134&artikel=1&z=2006-07-20&g=2006-07-20) vastgestelde tijdvak ten behoeve van de sanering van verkeerslawaai als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019134&artikel=3&z=2006-07-20&g=2006-07-20) wordt vastgesteld op: € 22 911 000,00.
 
 ##### Artikel 3
 
-1. In het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019134&artikel=1&z=2006-01-01&g=2006-01-01) genoemde tijdvak komen voor subsidie als bedoeld in [hoofdstuk 2, afdeling 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&afdeling=2), en [afdeling 3, paragrafen 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&paragraaf=3.1), [3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&paragraaf=3.3), [3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&paragraaf=3.4) en [3.5, van het Subsidiebesluit openbare lichamen milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&paragraaf=3.5) in aanmerking:
+1. In het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019134&artikel=1&z=2006-07-20&g=2006-07-20) genoemde tijdvak komen voor subsidie als bedoeld in [hoofdstuk 2, afdeling 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&afdeling=2), en [afdeling 3, paragrafen 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&paragraaf=3.1), [3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&paragraaf=3.3), [3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&paragraaf=3.4) en [3.5, van het Subsidiebesluit openbare lichamen milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&paragraaf=3.5) in aanmerking:
 
 - a. projecten waarvoor eerder verleende subsidie wordt verhoogd en die zijn geplaatst op een voor 1 januari 2006 in de Staatscourant bekendgemaakte lijst als bedoeld in [artikel 12, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&artikel=12), en [artikel 16, vierde lid, van het Subsidiebesluit openbare lichamen milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&artikel=16);
 
@@ -86,7 +86,7 @@ Het subsidieplafond voor het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:
 
 ##### Artikel 4
 
-De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer kan van [artikel 3, tweede lid, onder a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0019134&artikel=3&z=2006-01-01&g=2006-01-01), afwijken, indien:
+De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer kan van [artikel 3, tweede lid, onder a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0019134&artikel=3&z=2006-07-20&g=2006-07-20), afwijken, indien:
 
 - a. het gevolg van die afwijking is dat projecten vanuit het oogpunt van doelmatigheid en kostenbeheersing gezamenlijk uitgevoerd worden met andere werken aan de (spoor)weg;
 
@@ -98,7 +98,7 @@ De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer kan van [
 
 ##### Artikel 5
 
-Aanvragen als bedoeld in [artikel 3, eerste lid, onder d, e, f en g](https://wetten.overheid.nl/jci1.3:c:BWBR0019134&artikel=3&z=2006-01-01&g=2006-01-01), worden voor 1 februari 2006 ingediend bij de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, p/a Bureau Sanering Verkeerslawaai, Postbus 97, 3440 AB Woerden.
+Aanvragen als bedoeld in [artikel 3, eerste lid, onder d, e, f en g](https://wetten.overheid.nl/jci1.3:c:BWBR0019134&artikel=3&z=2006-07-20&g=2006-07-20), worden voor 1 februari 2006 ingediend bij de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, p/a Bureau Sanering Verkeerslawaai, Postbus 97, 3440 AB Woerden.
 
 ##### Artikel 6
 
