@@ -4,7 +4,7 @@ identifier: "BWBR0020045"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2008-02-08"
-last_updated: "2006-05-01"
+last_updated: "2006-07-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020045"
 soort: "ministeriele-regeling"
@@ -75,7 +75,7 @@ In dit besluit wordt verstaan onder:
 
 De teammanagers juridische zaken en de unitmanagers van de Dienst Regelingen zijn bevoegd om namens de minister besluiten te nemen en stukken af te doen en te ondertekenen met betrekking tot:
 
-- a. bezwaarschriften tegen een primair besluit als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020045&artikel=2&z=2006-07-20&g=2006-05-01);
+- a. bezwaarschriften tegen een primair besluit als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020045&artikel=2&z=2006-07-20&g=2006-07-20);
 
 - b. beslissingen op een verzoek tot heroverweging van op bezwaarschrift genomen beslissingen.
 
@@ -89,7 +89,7 @@ De teammanagers uitvoering, de teammanagers juridische zaken en de unitmanagers 
 
 ##### Artikel 5
 
-De ondertekening, bedoeld in de [artikelen 2 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0020045&artikel=2&z=2006-07-20&g=2006-05-01), luidt:
+De ondertekening, bedoeld in de [artikelen 2 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0020045&artikel=2&z=2006-07-20&g=2006-07-20), luidt:
 
 ‘DE MINISTER VAN BINNENLANDSE ZAKEN EN KONINKRIJKSRELATIES,
 
