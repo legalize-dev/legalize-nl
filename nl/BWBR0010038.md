@@ -4,7 +4,7 @@ identifier: "BWBR0010038"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2011-12-01"
-last_updated: "2006-06-28"
+last_updated: "2006-07-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010038"
 soort: "ministeriele-regeling"
@@ -65,7 +65,7 @@ De volgende nummers in een door de Minister van Economische Zaken op grond van [
 
 - d. persoonlijke assistent-diensten;
 
-- e. vervallen;
+- e. nummers uit de 085-serie of uit de 091-serie;
 
 - f. nummers voor virtual private networks;
 
