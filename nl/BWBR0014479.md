@@ -4,7 +4,7 @@ identifier: "BWBR0014479"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2003-01-01"
+last_updated: "2006-07-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014479"
 soort: "ministeriele-regeling"
@@ -47,11 +47,7 @@ Als ambtenaren belast met het toezicht houden op de naleving van het bij of krac
 
 ##### Artikel 2
 
-Als ambtenaren belast met het toezicht op de naleving met betrekking tot helikopterdefkken zoals bedoeld in artikel 51, tweede lid, van het Mijnbouwbesluit worden mede aangewezen:
-
-- a. de ambtenaren van de Clusters Vliegveiligheid en Grondveiligheid en Vluchtondersteuning van de Handhavingsdienst Luchtvaart van de Divisie Luchtvaart van de Inspectie Verkeer en Waterstaat, voor zover betrokken bij de bestuursrechtelijke handhaving van wet- en regelgeving en vergunningsvoorwaarden, en
-
-- b. de ambtenaren van de Unit Infrastructuur van de Uitvoeringsdienst Luchtvaart van de Divisie Luchtvaart van de Inspectie Verkeer en Waterstaat, voor zover betrokken bij de afgifte dan wel de verlenging van de vergunning ten aanzien van de aanleg en het gebruik van helikopterdekken.
+Als ambtenaren belast met het toezicht op de naleving met betrekking tot helikopterdekken als bedoeld in [artikel 51, tweede lid, van het Mijnbouwbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=51) worden de ambtenaren van de toezichteenheid Luchthavens en Luchtruim van de inspectie Verkeer en Waterstaat mede aangewezen.
 
 ##### Artikel 3
 
