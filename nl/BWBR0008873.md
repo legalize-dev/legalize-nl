@@ -4,7 +4,7 @@ identifier: "BWBR0008873"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2006-07-23"
-last_updated: "1997-08-27"
+last_updated: "2006-07-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008873"
 soort: "ministeriele-regeling"
@@ -41,15 +41,19 @@ Besluit:
 
 ##### Artikel 1
 
-Als militaire gezagsdragers als bedoeld in [artikel 4 van de Oorlogswet voor Nederland](https://wetten.overheid.nl/jci1.3:c:BWBR0007983&artikel=4), worden aangewezen de bevelhebber der landstrijdkrachten en voorts:
+Als militaire gezagsdragers als bedoeld in [artikel 4 van de Oorlogswet voor Nederland](https://wetten.overheid.nl/jci1.3:c:BWBR0007983&artikel=4) worden aangewezen:
 
-- a. de nationaal territoriaal commandant en de regionale militaire commandanten,
+- a. de Commandant der Strijdkrachten,
 
-- b. de commandant der zeemacht in Nederland en de commandanten der maritieme middelen, ieder in het hun in deze regeling toegewezen gezagsgebied.
+- b. de Commandant Landstrijdkrachten en de regionale militaire commandanten, en
+
+- c. de Commandant Zeestrijdkrachten,
+
+ieder in het in deze regeling toegewezen gezagsgebied.
 
 ##### Artikel 2
 
-Bij ontstentenis van een militaire gezagsdrager, genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008873&artikel=1&z=1997-08-27&g=1997-08-27), treedt voor de uitoefening van het militair gezag in de plaats degene die de functie van die militaire gezagsdrager waarneemt.
+Bij ontstentenis van een militaire gezagsdrager, genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008873&artikel=1&z=2006-07-23&g=2006-07-23), treedt voor de uitoefening van het militair gezag in de plaats degene die de functie van die militaire gezagsdrager waarneemt.
 
 ##### Artikel 3
 
@@ -59,9 +63,9 @@ Bij ontstentenis van een militaire gezagsdrager, genoemd in [artikel 1](https://
 
 ##### Artikel 4
 
-De gezagsgebieden, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008873&artikel=1&z=1997-08-27&g=1997-08-27), omvatten:
+De gezagsgebieden, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008873&artikel=1&z=2006-07-23&g=2006-07-23), omvatten:
 
-- a. voor wat betreft de bevelhebber der landstrijdkrachten en de nationaal territoriaal commandant: Nederland;
+- a. voor wat betreft de Commandant der Strijdkrachten en de Commandant Landstrijdkrachten: Nederland;
 
 - b. voor wat betreft de regionaal militair commandant west: de provincies Noord-Holland, Zuid-Holland en Utrecht;
 
@@ -69,17 +73,17 @@ De gezagsgebieden, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BW
 
 - d. voor wat betreft de regionaal militair commandant oost: de provincies Groningen, Friesland, Drenthe, Overijssel, Gelderland en Flevoland;
 
-- e. voor wat betreft de commandant der zeemacht in Nederland: de provincies Groningen, Friesland, Noord-Holland, Zuid-Holland en Zeeland met de aangrenzende territoriale wateren, de zeegaten, het IJsselmeer, het Markermeer en de Waddenzee, met dien verstande dat voor wat betreft genoemde provincies het betreft de gezagsgebieden van de commandanten der maritieme middelen;
+- e. voor wat betreft de Commandant Zeestrijdkrachten:
 
-- f. voor wat betreft de commandanten der maritieme middelen:
+- 1°. de territoriale wateren, de zeegaten, het IJsselmeer, het Markermeer en de Waddenzee;
 
-- 1º. voor wat betreft de commandant der maritieme middelen Den Helder: de haven en rede van Den Helder, alsmede de gemeenten Den Helder, Texel, Eemsmond en Delfzijl;
+- 2°. de haven en rede van Den Helder, alsmede de gemeenten Den Helder, Texel, Eemsmond en Delfzijl;
 
-- 2º. voor wat betreft de commandant der maritieme middelen Amsterdam: het Noordzeekanaal met de daaraan gelegen havens, alsmede de gemeenten Amsterdam, Eemnes, Weesp, Zaanstad, Velsen en Bloemendaal;
+- 3°. het Noordzeekanaal met de daaraan gelegen havens, alsmede de gemeenten Amsterdam, Eemnes, Weesp, Zaanstad, Velsen en Bloemendaal;
 
-- 3º. voor wat betreft de commandant der maritieme middelen Rotterdam: de waterwegen van Dordrecht tot en met Hoek van Holland met de daaraan gelegen havens, alsmede de gemeenten Dordrecht, Rotterdam, met inbegrip van Hoek van Holland, Schiedam, Vlaardingen, Maassluis, Rozenburg, Hellevoetsluis, Goedereede, Wassenaar, Valkenburg (Z-H), Katwijk, Noordwijk en Doorn;
+- 4°. de waterwegen van Dordrecht tot en met Hoek van Holland met de daaraan gelegen havens, alsmede de gemeenten Dordrecht, Rotterdam met inbegrip van Hoek van Holland, Schiedam, Vlaardingen, Maassluis, Rozenburg, Hellevoetsluis, Goedereede, Wassenaar, Katwijk, Noordwijk en Doorn;
 
-- 4º. voor wat betreft de commandant der maritieme middelen Vlissingen: de haven en rede van Vlissingen, alsmede de gemeenten Vlissingen, Oostburg, Valkenisse, West-Kapelle, Borsele, Kapelle, Reimerswaal, Terneuzen en Hontenisse.
+- 5°. de haven en rede van Vlissingen, de gemeenten Vlissingen, Borsele, Kapelle, Reimerswaal en Terneuzen, alsmede de plaatsen Oostburg, Valkenisse, Westkapelle en Hontenisse.
 
 ##### Artikel 5
 
