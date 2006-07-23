@@ -4,7 +4,7 @@ identifier: "BWBR0002114"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2006-07-23"
-last_updated: "2002-01-01"
+last_updated: "2006-07-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002114"
 soort: "ministeriele-regeling"
@@ -55,19 +55,17 @@ Uit de aard van hun betrekking moeten geacht worden bij de legers te behoren, in
 
 ##### Artikel 3
 
-1. Tot het doen van een aanvraag, bedoeld in [artikel 6 der wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002111&artikel=6), zijn bevoegd:
+1. Tot het doen van een aanvraag als bedoeld in [artikel 6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002111&artikel=6) zijn bevoegd:
 
-- 1. de Nederlandse territoriale bevelhebber;
+- a. de Commandant Landstrijdkrachten;
 
-- 2. de commandant zeemacht Nederland;
+- b. de Commandant Zeestrijdkrachten;
 
-- 3. de territoriale bevelhebbers, tevens bevelhebbers in een militaire afdeling, ieder voor wat betreft zijn gezagsgebied;
+- c. de regionale militaire commandanten;
 
-- 4. de commandant van het korps mariniers, voor wat betreft zijn onderdeel;
+- d. de commandanten van de Lokaal Facilitaire Dienst, ieder voor wat betreft zijn verzorgingsgebied;
 
-- 5. de garnizoenscommandanten, ieder voor wat betreft zijn garnizoen;
-
-- 6. de commandanten van onderdelen, van detachementen of van transporten en alleenreizende militairen, doch slechts indien de aanvraag op generlei wijze tijdig door de bevoegde garnizoenscommandant kan plaats hebben.
+- e. de commandanten van onderdelen, van detachementen of van transporten en alleenreizende militairen, doch slechts indien de aanvraag op generlei wijze tijdig door de bevoegde commandant van de Lokaal Facilitaire Dienst kan plaatshebben.
 
 2. De aanvraag van een van de onder 1–5 van lid 1 genoemde autoriteiten geschiedt door middel van een door hem aan de burgemeester gericht schriftelijk verzoek.
 
@@ -85,7 +83,7 @@ Uit de aard van hun betrekking moeten geacht worden bij de legers te behoren, in
 
 ##### Artikel 4
 
-Als autoriteit, bedoeld in [artikel 28 lid 1, der wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002111&artikel=28), is aangewezen de bevelhebber der landstrijdkrachten.
+Als autoriteit, bedoeld in [artikel 28 lid 1, der wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002111&artikel=28), is aangewezen de Commandant der Strijdkrachten.
 
 ##### Artikel 5
 
@@ -105,7 +103,7 @@ Als hoofdofficier, bedoeld in [artikel 15 van het besluit](https://wetten.overhe
 
 ##### Artikel 7
 
-De schriftelijke bewijzen, bedoeld in de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002111&artikel=7) en [28 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002111&artikel=28), de lastgeving, bedoeld in [artikel 62 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002113&artikel=62), het rapport, bedoeld in [artikel 53 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002113&artikel=53), en de bon, bedoeld in [artikel 76](https://wetten.overheid.nl/jci1.3:c:BWBR0002113&artikel=76) van het besluit, worden opgemaakt overeenkomstig de in de [bijlagen A—E](https://wetten.overheid.nl/jci1.3:c:BWBR0002114&bijlage=A&z=2002-01-01&g=2002-01-01) bij deze beschikking gevoegde modellen.
+De schriftelijke bewijzen, bedoeld in de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002111&artikel=7) en [28 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002111&artikel=28), de lastgeving, bedoeld in [artikel 62 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002113&artikel=62), het rapport, bedoeld in [artikel 53 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002113&artikel=53), en de bon, bedoeld in [artikel 76](https://wetten.overheid.nl/jci1.3:c:BWBR0002113&artikel=76) van het besluit, worden opgemaakt overeenkomstig de in de [bijlagen A—E](https://wetten.overheid.nl/jci1.3:c:BWBR0002114&bijlage=A&z=2006-07-23&g=2006-07-23) bij deze beschikking gevoegde modellen.
 
 ### HOOFDSTUK II. Vervallen
 
@@ -123,7 +121,7 @@ Deze beschikking, welke in de **Nederlandse Staatscourant** zal worden geplaatst
 
 ## BIJLAGE A
 
-| [Inkwartieringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002111) | [Artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002114&hoofdstuk=I&artikel=6&z=2002-01-01&g=2002-01-01) | Vorderingsbewijs |
+| [Inkwartieringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002111) | [Artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002114&hoofdstuk=I&artikel=6&z=2006-07-23&g=2006-07-23) | Vorderingsbewijs |
 | --- | --- | --- |
 | Gemeente | (nummer) | Strijdkracht |
 | Datum |   |   |
@@ -269,7 +267,7 @@ klaart voorts dat hij wel/geen genoegen neemt met dit bedrag.
 
 Krachtens artikel 47 van de Inkwartieringswet staat beroep open, indien het betreft schadeloosstellingen, waarvoor door de Minister van Oorlog geen tarieven zijn voorgeschreven. Alsdan kan de rechthebbende op de schadeloosstelling, zo hij geen genoegen neemt met het bovenstaande bedrag, zich met een met redenen omkleed bezwaarschrift wenden tot de Minister van Oorlog te 's-Gravenhage door tussenkomst van de aan de keerzijde vermelde officier.
 
-## Artikel C. [BIJLAGE C](https://wetten.overheid.nl/jci1.3:c:BWBR0002114&artikel=C&z=2002-01-01&g=2002-01-01)
+## Artikel C. [BIJLAGE C](https://wetten.overheid.nl/jci1.3:c:BWBR0002114&artikel=C&z=2006-07-23&g=2006-07-23)
 
 Nr. .....
 
