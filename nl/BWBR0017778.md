@@ -4,7 +4,7 @@ identifier: "BWBR0017778"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-01-01"
-last_updated: "2006-03-01"
+last_updated: "2006-07-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017778"
 soort: "AMvB"
@@ -69,7 +69,7 @@ Dit besluit is niet van toepassing op:
 
 - c. handelingen waaromtrent regels zijn gesteld bij of krachtens het [Asbestverwijderingsbesluit 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0019316);
 
-- d. het geheel of gedeeltelijk slopen van bouwwerken, constructies, apparaten, installaties en transportmiddelen waarin asbest of een asbesthoudend product is verwerkt, voorzover daaromtrent regels zijn gesteld bij of krachtens het [Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498);
+- d. het geheel of gedeeltelijk afbreken of uit elkaar nemen van bouwwerken of objecten waarin asbest of asbesthoudende producten is respectievelijk zijn verwerkt en het verwijderen van asbest of asbesthoudende producten uit deze bouwwerken of objecten voorzover daaromtrent regels zijn gesteld bij of krachtens het [Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498);
 
 - e. het verplaatsen van verontreinigde grond binnen een geval van ernstige verontreiniging als bedoeld in [artikel 1 van de Wet bodembescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0003994&artikel=1), tenzij aan die grond asbest opzettelijk is toegevoegd.
 
@@ -97,7 +97,7 @@ Het is verboden asbest of asbesthoudende producten te vervaardigen, in Nederland
 
 ##### Artikel 5
 
-Het verbod, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017778&paragraaf=2&artikel=4&z=2006-03-01&g=2006-03-01), is niet van toepassing voorzover dit betrekking heeft op:
+Het verbod, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017778&paragraaf=2&artikel=4&z=2006-07-28&g=2006-07-28), is niet van toepassing voorzover dit betrekking heeft op:
 
 - a. het voorhanden hebben of aan een ander ter beschikking stellen van een product dat rechtmatig op de markt is gebracht of waarin asbest of een asbesthoudend product rechtmatig is toegepast en dat voor de datum van inwerkingtreding van dit besluit reeds geïnstalleerd of in bedrijf was, tenzij bij wettelijk voorschrift anders is bepaald;
 
@@ -109,13 +109,13 @@ Het verbod, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR00177
 
 - e. het afgraven, opslaan, tijdens het vervoer voorhanden hebben of aan een ander ter beschikking stellen van afvalstoffen indien daaraan geen asbest opzettelijk is toegevoegd, tenzij bij wettelijk voorschrift anders is bepaald;
 
-- f. het reinigen van afvalstoffen waaraan geen asbest opzettelijk is toegevoegd en waarvan na reiniging de concentratie serpetijnasbest, vermeerderd met tien maal de concentratie amfiboolasbest, bepaald overeenkomstig een krachtens [artikel 2, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0017778&paragraaf=1&artikel=2&z=2006-03-01&g=2006-03-01), vastgestelde methode, niet hoger is dan de in dat onderdeel aangegeven hoeveelheid per kilogram droge stof, tenzij bij wettelijk voorschrift anders is bepaald;
+- f. het reinigen van afvalstoffen waaraan geen asbest opzettelijk is toegevoegd en waarvan na reiniging de concentratie serpetijnasbest, vermeerderd met tien maal de concentratie amfiboolasbest, bepaald overeenkomstig een krachtens [artikel 2, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0017778&paragraaf=1&artikel=2&z=2006-07-28&g=2006-07-28), vastgestelde methode, niet hoger is dan de in dat onderdeel aangegeven hoeveelheid per kilogram droge stof, tenzij bij wettelijk voorschrift anders is bepaald;
 
 - g. handelingen die betrekking hebben op het opruimen van asbest of een asbesthoudend product dat ten gevolge van een incident is vrijgekomen.
 
 ##### Artikel 6
 
-1. Handelingen als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017778&paragraaf=2&artikel=5&z=2006-03-01&g=2006-03-01) met asbest of asbesthoudende producten worden op een zodanige wijze verricht dat gevaren voor mens en milieu die door zodanige handelingen kunnen ontstaan, worden voorkomen.
+1. Handelingen als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017778&paragraaf=2&artikel=5&z=2006-07-28&g=2006-07-28) met asbest of asbesthoudende producten worden op een zodanige wijze verricht dat gevaren voor mens en milieu die door zodanige handelingen kunnen ontstaan, worden voorkomen.
 
 2. Bij regeling van Onze Minister kunnen met het oog op het voorkomen van gevaren voor mens of milieu met asbest regels worden gegeven die ten minste bij het verrichten van zodanige handelingen in acht worden genomen.
 
@@ -131,11 +131,11 @@ Het verbod, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR00177
 
 ##### Artikel 8
 
-Ter uitvoering van [artikel 16, tiende lid, van de Arbeidsomstandighedenwet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=16) zijn de werkgever, de werknemer en de zelfstandig werkende verplicht tot naleving van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017778&paragraaf=2&artikel=4&z=2006-03-01&g=2006-03-01).
+Ter uitvoering van [artikel 16, tiende lid, van de Arbeidsomstandighedenwet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=16) zijn de werkgever, de werknemer en de zelfstandig werkende verplicht tot naleving van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017778&paragraaf=2&artikel=4&z=2006-07-28&g=2006-07-28).
 
 ##### Artikel 9
 
-De handeling of het nalaten in strijd met het ter uitvoering van [artikel 16, derde lid, van de Arbeidsomstandighedenwet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=16) in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017778&paragraaf=2&artikel=4&z=2006-03-01&g=2006-03-01) bepaalde is een strafbaar feit.
+De handeling of het nalaten in strijd met het ter uitvoering van [artikel 16, derde lid, van de Arbeidsomstandighedenwet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=16) in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017778&paragraaf=2&artikel=4&z=2006-07-28&g=2006-07-28) bepaalde is een strafbaar feit.
 
 #### § 5. Wijziging regelgeving
 
@@ -157,7 +157,7 @@ Wijzigt het Warenwetbesluit bestuurlijke boeten.
 
 1. De krachtens [artikel 9.11 van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=9.11), zoals dat artikel luidde op de dag voor de inwerkingtreding van dit besluit, verleende ontheffingen blijven, met inbegrip van de aan die ontheffingen verbonden voorschriften of beperkingen, van kracht tot en met het tijdstip waarvoor die ontheffingen zijn verleend.
 
-2. Ten aanzien van de ontheffingen, bedoeld in het eerste lid, is [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017778&paragraaf=2&artikel=4&z=2006-03-01&g=2006-03-01) niet van toepassing.
+2. Ten aanzien van de ontheffingen, bedoeld in het eerste lid, is [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017778&paragraaf=2&artikel=4&z=2006-07-28&g=2006-07-28) niet van toepassing.
 
 ##### Artikel 14
 
@@ -175,7 +175,7 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
 Dit besluit wordt aangehaald als: Productenbesluit asbest.
 
-## Bijlage. behorend bij [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0017778&paragraaf=3&artikel=7&z=2006-03-01&g=2006-03-01)
+## Bijlage. behorend bij [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0017778&paragraaf=3&artikel=7&z=2006-07-28&g=2006-07-28)
 
 De aanduiding van asbesthoudende producten geschiedt als volgt.
 
