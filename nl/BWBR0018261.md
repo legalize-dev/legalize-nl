@@ -4,7 +4,7 @@ identifier: "BWBR0018261"
 country: "nl"
 rank: "wet"
 publication_date: "2006-08-01"
-last_updated: "2006-05-01"
+last_updated: "2006-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018261"
 soort: "wet"
@@ -52,7 +52,7 @@ Wijzigt de Wet financiering decentrale overheden.
 
 ##### Artikel III
 
-Tot het tijdstip waarop [artikel I, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0018261&artikel=I&z=2006-05-01&g=2006-05-01), in werking treedt is [artikel 47a, vijfde lid, van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=47a) van overeenkomstige toepassing op de ambtenaren die werkzaam zijn bij de Organisatie Informatie- en communicatietechnologie OOV, bedoeld in [artikel 53d, vijfde lid, van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=53d).
+Tot het tijdstip waarop [artikel I, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0018261&artikel=I&z=2006-08-01&g=2006-08-01), in werking treedt is [artikel 47a, vijfde lid, van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=47a) van overeenkomstige toepassing op de ambtenaren die werkzaam zijn bij de Organisatie Informatie- en communicatietechnologie OOV, bedoeld in [artikel 53d, vijfde lid, van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=53d).
 
 ##### Artikel IV
 
@@ -60,6 +60,6 @@ Alle op het tijdstip van inwerkingtreding van deze wet bestaande samenwerkingsve
 
 ##### Artikel V
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip. Bij koninklijk besluit kan een ander tijdstip worden vastgesteld waarop [artikel I, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0018261&artikel=I&z=2006-05-01&g=2006-05-01), in werking treedt.
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip. Bij koninklijk besluit kan een ander tijdstip worden vastgesteld waarop [artikel I, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0018261&artikel=I&z=2006-08-01&g=2006-08-01), in werking treedt.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
