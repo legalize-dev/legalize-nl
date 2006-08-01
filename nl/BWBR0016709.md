@@ -4,7 +4,7 @@ identifier: "BWBR0016709"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-10-01"
-last_updated: "2005-04-20"
+last_updated: "2006-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016709"
 soort: "ministeriele-regeling"
@@ -62,7 +62,9 @@ In deze regeling wordt verstaan onder:
 
 - e. piekuren: maandag tot en met vrijdag van 8.00 uur tot 20.00 uur;
 
-- f. daluren: maandag tot en met vrijdag van 0.00 uur tot 8.00 uur en van 20.00 uur tot 24.00 uur, en zaterdag en zondag van 0.00 uur tot 24.00 uur.
+- f. daluren: maandag tot en met vrijdag van 0.00 uur tot 8.00 uur en van 20.00 uur tot 24.00 uur, en zaterdag en zondag van 0.00 uur tot 24.00 uur;
+
+- g. nummer met bijzondere toegang: nummer uit het Nummerplan telefoon- en ISDN-diensten of een internationaal nummer dat voor toegang gebruik maakt van een voor dat nummer specifieke voorziening in een randapparaat van de eindgebruiker die wordt aangeboden door een aanbieder anders dan de aanbieder van een openbare elektronische communicatiedienst die de eindgebruiker toegang verschaft tot nummers uit het Nummerplan telefoon- en ISDN-diensten of internationale nummers.
 
 #### § 2. Universele dienstverlening
 
@@ -82,13 +84,13 @@ In deze regeling wordt verstaan onder:
 
 1. De aanbieder van openbare telefoondiensten op een vaste locatie die krachtens [artikel 9.2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=9.2) is aangewezen verstrekt, onverminderd het bepaalde bij of krachtens [hoofdstuk 11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=11), op verzoek van zijn abonnee een gespecificeerde rekening van de kosten voor het gebruik van de openbare telefoondienst op een vaste locatie.
 
-2. De aanbieder, bedoeld in het eerste lid, kan slechts een redelijke vergoeding voor een gespecificeerde rekening vragen van de abonnee indien deze rekening meer gespecificeerd is dan het in [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=2&artikel=2.3&z=2005-04-20&g=2005-04-20) bepaalde basisniveau van specificatie.
+2. De aanbieder, bedoeld in het eerste lid, kan slechts een redelijke vergoeding voor een gespecificeerde rekening vragen van de abonnee indien deze rekening meer gespecificeerd is dan het in [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=2&artikel=2.3&z=2006-08-01&g=2006-08-01) bepaalde basisniveau van specificatie.
 
 3. Gesprekken die voor de oproepende abonnee kosteloos zijn worden niet op de gespecificeerde rekening van de oproepende abonnee vermeld.
 
 ##### Artikel 2.3
 
-Het in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=2&artikel=2.2&z=2005-04-20&g=2005-04-20) bedoelde basisniveau van specificatie van rekeningen voor het gebruik van de openbare telefoondienst op een vaste locatie omvat:
+Het in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=2&artikel=2.2&z=2006-08-01&g=2006-08-01) bedoelde basisniveau van specificatie van rekeningen voor het gebruik van de openbare telefoondienst op een vaste locatie omvat:
 
 - a. de periode waarop de rekening betrekking heeft;
 
@@ -128,7 +130,7 @@ Het in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=2
 
 2. Bij de in het eerste lid bedoelde maatregelen:
 
-- a. blijft een beperking van de dienstverlening, voor zover dat technisch mogelijk is, beperkt tot die delen van de dienstverlening waarvoor een betalingsachterstand bestaat, tenzij er sprake is van fraude of aanhoudend te laat of niet betaalde rekeningen door de abonnee, en
+- a. blijft een beperking van de dienstverlening, voor zover dat technisch mogelijk is, beperkt tot die delen van de dienstverlening waarvoor een betalingsachterstand bestaat, tenzij er sprake is van fraude door de abonnee, en
 
 - b. gaat de aanbieder niet over tot beperking van de dienstverlening of verbreking van de aansluiting, dan nadat de abonnee van het voornemen tot beperking of afsluiting op genoegzame wijze op de hoogte is gesteld en hem een redelijke termijn is gegund om alsnog aan zijn betalingsverplichtingen te voldoen.
 
@@ -200,7 +202,7 @@ Een aanbieder richt de in [artikel 11.9, eerste lid, van de wet](https://wetten.
 
 ##### Artikel 4.5
 
-Onverminderd [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=3&artikel=3.2&z=2005-04-20&g=2005-04-20), draagt een aanbieder er zorg voor dat voor eenieder op genoegzame wijze informatie beschikbaar is met betrekking tot nummeridentificatie, de daarbij geboden mogelijkheden tot weigering en blokkering van deze faciliteit, en de financiële aspecten daarvan.
+Onverminderd [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=3&artikel=3.2&z=2006-08-01&g=2006-08-01), draagt een aanbieder er zorg voor dat voor eenieder op genoegzame wijze informatie beschikbaar is met betrekking tot nummeridentificatie, de daarbij geboden mogelijkheden tot weigering en blokkering van deze faciliteit, en de financiële aspecten daarvan.
 
 #### § 5. Slotbepalingen
 
@@ -215,5 +217,67 @@ Deze regeling treedt in werking met ingang van het tijdstip waarop de [Wet imple
 ##### Artikel 5.3
 
 Deze regeling wordt aangehaald als: Regeling universele dienstverlening en eindgebruikersbelangen.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 3.2a
+
+1. Een aanbieder van een openbare elektronische communicatiedienst die eindgebruikers toegang verschaft tot nummers uit de reeksen 0900, 0906, 0909 of 18 uit het Nummerplan telefoon- en ISDN-diensten, en waarvan de tarieven door die aanbieder bij de consument in rekening worden gebracht, draagt er zorg voor dat voorafgaand aan een oproep worden vermeld:
+
+- a. het tarief per minuut of per oproep, met, indien dit van toepassing is, de vermelding dat het genoemde tarief exclusief een aanvullend verkeerstarief is en
+
+- b. het nummer dat wordt opgeroepen.
+
+2. Een aanbieder van een openbare elektronische communicatiedienst die eindgebruikers toegang verschaft tot nummers met bijzondere toegang uit het Nummerplan telefoon- en ISDN-diensten en waarvan de tarieven door die aanbieder bij de consument in rekening worden gebracht, uitgezonderd geografische nummers, nummers uit de reeks 0670… tot en met 0679… en nummers als bedoeld in het eerste lid, draagt er zorg voor dat voorafgaand aan een oproep worden vermeld:
+
+- a. het tarief per minuut of per oproep, met, indien dit van toepassing is, de vermelding dat het genoemde tarief exclusief een aanvullend verkeerstarief is en
+
+- b. het nummer dat wordt opgeroepen.
+
+3. Een aanbieder van een openbare elektronische communicatiedienst die eindgebruikers toegang verschaft tot internationale nummers met bijzondere toegang, waarvan de tarieven door die aanbieder bij de consument in rekening worden gebracht, vermeldt voorafgaand aan een oproep:
+
+- a. het tarief per minuut of per oproep, met, indien dit van toepassing is, de vermelding dat het genoemde tarief exclusief een aanvullend verkeerstarief is en
+
+- b. het nummer dat wordt opgeroepen.
+
+4. In afwijking van het eerste, tweede en derde lid kan een aanbieder van een openbare elektronische communicatiedienst volstaan met het bieden van een voorziening voor gebruik in een randapparaat die het tarief en het nummer overeenkomstig het bepaalde in het eerste, tweede en derde lid vermeldt. De aanbieder bericht in dat geval haar eindgebruikers schriftelijk of elektronisch omtrent:
+
+- a. de wijze waarop aan de op haar rustende verplichting wordt voldaan en
+
+- b. het aanbod van een voorziening voor gebruik in een randapparaat.
+
+5. Het eerste en tweede lid zijn niet van toepassing op oproepen vanuit het buitenland.
+
+6. De melding bedoeld in het eerste, tweede en derde lid en de voorziening voor gebruik in een randapparaat zijn kosteloos voor de consument en zijn ondubbelzinnig en duidelijk leesbaar of verstaanbaar.
+
+##### Artikel 3.4
+
+1. Een aanbieder van een elektronische communicatiedienst die eindgebruikers toegang verschaft tot nummers met bijzondere toegang uit het Nummerplan telefoon- en ISDN-diensten en waarvan de tarieven door die aanbieder bij de consument in rekening worden gebracht, uitgezonderd geografische nummers en nummers uit de reeks 0670… tot en met 0679…, of internationale nummers, biedt de consument tenminste een van de volgende voorzieningen voor het begrenzen van het gebruik van nummers met bijzondere toegang aan:
+
+- a. de maximale duur van de oproep;
+
+- b. het maximum tarief per minuut of per oproep;
+
+- c. de maximale kosten per oproep;
+
+- d. de maximale kosten per periode.
+
+2. In afwijking van het eerste lid kan een aanbieder van een openbare elektronische communicatiedienst volstaan met het bieden van een voorziening voor gebruik in een randapparaat voor het begrenzen van het gebruik van nummers met bijzondere toegang overeenkomstig het eerste lid. De aanbieder bericht in dat geval haar eindgebruikers schriftelijk of elektronisch omtrent
+
+- a. de wijze waarop aan de op haar rustende verplichting wordt voldaan en
+
+- b. het aanbod van een voorziening voor gebruik in een randapparaat.
+
+3. Voor een voorziening bedoeld in het eerste en tweede lid kunnen door die aanbieder redelijke kosten in rekening gebracht worden.
+
+##### Artikel 3.5a
+
+1. Een aanbieder als bedoeld in [artikel 3.2a, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=3&artikel=3.2a&z=2006-08-01&g=2006-08-01), biedt de consument die een klacht bij hem heeft ingediend, de mogelijkheid tot opschorting van betaling van het betwiste deel van de rekening tijdens de behandeling van de klacht.
+
+2. Een aanbieder als bedoeld in [artikel 3.2a, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=3&artikel=3.2a&z=2006-08-01&g=2006-08-01), biedt de consument de mogelijkheid tot opschorting van betaling van het betwiste deel van de rekening, indien de consument een geschil aanhangig maakt bij een op grond van [artikel 12.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=12.1) erkende geschillencommissie binnen de door die geschillencommissie gehanteerde termijn en de consument zijn aanbieder hiervan op de hoogte stelt.
+
+#### § 4. Nummeridentificatie
+
+#### § 5. Slotbepalingen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
