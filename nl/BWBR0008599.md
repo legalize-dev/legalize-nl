@@ -4,7 +4,7 @@ identifier: "BWBR0008599"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2017-12-15"
-last_updated: "2004-09-10"
+last_updated: "2006-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008599"
 soort: "ministeriele-regeling"
@@ -67,7 +67,7 @@ In deze regeling wordt verstaan onder:
 
 - d. de wijze waarop het beleid wordt vertaald naar concrete maatregelen en de wijze waarop deze gefinancierd worden;
 
-- e. de gemeenschappelijke betrouwbaarheidseisen en maatregelen, vastgesteld met inachtneming van de bij deze regeling gevoegde [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0008599&bijlage=I&z=2004-09-10&g=2004-09-10), die voor het politiekorps en de ITO van toepassing zijn;
+- e. de gemeenschappelijke betrouwbaarheidseisen en maatregelen, vastgesteld met inachtneming van de bij deze regeling gevoegde [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0008599&bijlage=I&z=2004-09-10&g=2006-08-01), die voor het politiekorps en de ITO van toepassing zijn;
 
 - f. de wijze waarop geconstateerde dan wel vermoede inbreuken op de informatiebeveiliging door politieambtenaren gemeld worden, de politieambtenaar bij wie deze inbreuken worden gemeld en de wijze waarop deze worden afgehandeld;
 
@@ -75,11 +75,11 @@ In deze regeling wordt verstaan onder:
 
 - h. de wijze waarop het beveiligingsbewustzijn wordt bevorderd en
 
-- i. de te nemen maatregelen met betrekking tot de interceptiefaciliteiten binnen het korps, met inachtneming van de Normstelling inrichting interceptiefaciliteiten, bedoeld in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0008599&bijlage=II&z=2004-09-10&g=2004-09-10).
+- i. de te nemen maatregelen met betrekking tot de interceptiefaciliteiten binnen het korps, met inachtneming van de Normstelling inrichting interceptiefaciliteiten, bedoeld in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0008599&bijlage=II&z=2004-09-10&g=2006-08-01).
 
 ##### Artikel 4
 
-De korpsbeheerder, en voorzover het betreft het Korps landelijke politiediensten en de ITO, de Minister van Binnenlandse Zaken en Koninkrijksrelaties, draagt er zorg voor dat voor elk informatiesysteem en voor elke gemeenschappelijke IT-dienst op systematische wijze met inachtneming van de betrouwbaarheidscriteria en -normklassen, bedoeld in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0008599&bijlage=I&z=2004-09-10&g=2004-09-10), bepaald wordt welk stelsel van maatregelen uit hoofde van informatiebeveiliging getroffen dient te worden. Deze zorgplicht houdt tenminste in dat:
+De korpsbeheerder, en voorzover het betreft het Korps landelijke politiediensten en de ITO, de Minister van Binnenlandse Zaken en Koninkrijksrelaties, draagt er zorg voor dat voor elk informatiesysteem en voor elke gemeenschappelijke IT-dienst op systematische wijze met inachtneming van de betrouwbaarheidscriteria en -normklassen, bedoeld in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0008599&bijlage=I&z=2004-09-10&g=2006-08-01), bepaald wordt welk stelsel van maatregelen uit hoofde van informatiebeveiliging getroffen dient te worden. Deze zorgplicht houdt tenminste in dat:
 
 - a. voor elk informatiesysteem een afhankelijkheidsanalyse wordt uitgevoerd, uitmondend in de aan het informatiesysteem te stellen betrouwbaarheidseisen;
 
@@ -97,7 +97,7 @@ De korpsbeheerder, en voorzover het betreft het Korps landelijke politiediensten
 
 ##### Artikel 5
 
-Met het oog op zo uniform mogelijke beveiligingsafspraken bij gegevensuitwisseling tussen politiekorpsen onderling, tussen politiekorpsen en de ITO en met andere instanties, bedoeld in [artikel 2, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008599&artikel=2&z=2004-09-10&g=2004-09-10), het bereiken van zo uniform mogelijke betrouwbaarheidseisen en maatregelen, bedoeld in [artikel 3, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0008599&artikel=3&z=2004-09-10&g=2004-09-10), en het opstellen van zo uniform mogelijke informatiebeveiligingsplannen, bedoeld in [artikel 4, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0008599&artikel=4&z=2004-09-10&g=2004-09-10), werken de politiekorpsen en de ITO samen.
+Met het oog op zo uniform mogelijke beveiligingsafspraken bij gegevensuitwisseling tussen politiekorpsen onderling, tussen politiekorpsen en de ITO en met andere instanties, bedoeld in [artikel 2, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008599&artikel=2&z=2004-09-10&g=2006-08-01), het bereiken van zo uniform mogelijke betrouwbaarheidseisen en maatregelen, bedoeld in [artikel 3, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0008599&artikel=3&z=2004-09-10&g=2006-08-01), en het opstellen van zo uniform mogelijke informatiebeveiligingsplannen, bedoeld in [artikel 4, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0008599&artikel=4&z=2004-09-10&g=2006-08-01), werken de politiekorpsen en de ITO samen.
 
 ##### Artikel 6
 
@@ -121,7 +121,7 @@ Deze regeling treedt in werking op 1 april 1997.
 
 Deze regeling wordt aangehaald als Regeling informatiebeveiliging politie.
 
-Deze regeling zal met de toelichting en de bijbehorende [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0008599&bijlage=I&z=2004-09-10&g=2004-09-10) in de Staatscourant en het Algemeen Politieblad worden geplaatst.
+Deze regeling zal met de toelichting en de bijbehorende [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0008599&bijlage=I&z=2004-09-10&g=2006-08-01) in de Staatscourant en het Algemeen Politieblad worden geplaatst.
 
 ## Bijlage. Betrouwbaarheidscriteria en -normklassen
 
@@ -129,7 +129,7 @@ Deze regeling zal met de toelichting en de bijbehorende [bijlage](https://wetten
 
 [Artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008599&artikel=2&z=1998-07-22&g=1998-07-22) van de regeling bepaalt dat bij gegevensuitwisseling tussen politiekorpsen onderling (lid 3) en met andere instanties (lid 4) schriftelijke afspraken gemaakt worden over de betrouwbaarheid van de informatiesystemen en de informatie daarin.
 
-[Artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008599&artikel=2&z=2004-09-10&g=2004-09-10) van de regeling bepaalt dat bij gegevensuitwisseling tussen politiekorpsen onderling (lid 3) en met andere instanties (lid 4) schriftelijke afspraken gemaakt worden over de betrouwbaarheid van de informatiesystemen en de informatie daarin.
+[Artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008599&artikel=2&z=2004-09-10&g=2006-08-01) van de regeling bepaalt dat bij gegevensuitwisseling tussen politiekorpsen onderling (lid 3) en met andere instanties (lid 4) schriftelijke afspraken gemaakt worden over de betrouwbaarheid van de informatiesystemen en de informatie daarin.
 
 Vanzelfsprekend kunnen (en dienen) dergelijke afspraken, al dan niet schriftelijk, ook gemaakt te worden bij gegevensuitwisseling binnen een politiekorps.
 
