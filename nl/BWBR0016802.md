@@ -4,7 +4,7 @@ identifier: "BWBR0016802"
 country: "nl"
 rank: "amvb"
 publication_date: "2017-11-29"
-last_updated: "2004-06-18"
+last_updated: "2006-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016802"
 soort: "AMvB"
@@ -107,7 +107,7 @@ De raad is bevoegd tot het horen van deskundigen, maatschappelijke organisaties 
 
 ##### Artikel 8. Archief
 
-1. Het beheer van de bescheiden betreffende de werkzaamheden van de raad geschiedt door het secretariaat, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0016802&paragraaf=2&artikel=2&z=2004-06-18&g=2004-06-18), op overeenkomstige wijze als bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.
+1. Het beheer van de bescheiden betreffende de werkzaamheden van de raad geschiedt door het secretariaat, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0016802&paragraaf=2&artikel=2&z=2004-06-18&g=2006-08-01), op overeenkomstige wijze als bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.
 
 2. De bescheiden worden bij opheffing van de raad overgedragen aan Onze Minister.
 
