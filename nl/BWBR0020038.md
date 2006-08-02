@@ -4,7 +4,7 @@ identifier: "BWBR0020038"
 country: "nl"
 rank: "amvb"
 publication_date: "2006-10-01"
-last_updated: "2005-09-05"
+last_updated: "2006-08-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020038"
 soort: "AMvB"
@@ -88,9 +88,9 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XI. Inwerkingtreding
 
-1. [Artikel I, onderdeel J](https://wetten.overheid.nl/jci1.3:c:BWBR0020038&artikel=I&z=2006-08-02&g=2005-09-05), [artikel II onderdeel AA](https://wetten.overheid.nl/jci1.3:c:BWBR0020038&artikel=II&z=2006-08-02&g=2005-09-05), [artikel IV onderdeel G](https://wetten.overheid.nl/jci1.3:c:BWBR0020038&artikel=IV&z=2006-08-02&g=2005-09-05), [artikel V onderdelen F en G](https://wetten.overheid.nl/jci1.3:c:BWBR0020038&artikel=V&z=2006-08-02&g=2005-09-05) alsmede [artikel X](https://wetten.overheid.nl/jci1.3:c:BWBR0020038&artikel=X&z=2006-08-02&g=2005-09-05) treden in werking op 1 oktober 2006.
+1. [Artikel I, onderdeel J](https://wetten.overheid.nl/jci1.3:c:BWBR0020038&artikel=I&z=2006-08-02&g=2006-08-02), [artikel II onderdeel AA](https://wetten.overheid.nl/jci1.3:c:BWBR0020038&artikel=II&z=2006-08-02&g=2006-08-02), [artikel IV onderdeel G](https://wetten.overheid.nl/jci1.3:c:BWBR0020038&artikel=IV&z=2006-08-02&g=2006-08-02), [artikel V onderdelen F en G](https://wetten.overheid.nl/jci1.3:c:BWBR0020038&artikel=V&z=2006-08-02&g=2006-08-02) alsmede [artikel X](https://wetten.overheid.nl/jci1.3:c:BWBR0020038&artikel=X&z=2006-08-02&g=2006-08-02) treden in werking op 1 oktober 2006.
 
-2. [Artikel II, onderdelen BBB en EEE](https://wetten.overheid.nl/jci1.3:c:BWBR0020038&artikel=II&z=2006-08-02&g=2005-09-05), [artikel V, onderdelen A, subonderdeel 2, E, H, J, K en L](https://wetten.overheid.nl/jci1.3:c:BWBR0020038&artikel=V&z=2006-08-02&g=2005-09-05) alsmede de [artikelen VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0020038&artikel=VIII&z=2006-08-02&g=2005-09-05) en [IX](https://wetten.overheid.nl/jci1.3:c:BWBR0020038&artikel=IX&z=2006-08-02&g=2005-09-05) treden in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst met dien verstande dat zij terugwerken tot en met 11 mei 2005.
+2. [Artikel II, onderdelen BBB en EEE](https://wetten.overheid.nl/jci1.3:c:BWBR0020038&artikel=II&z=2006-08-02&g=2006-08-02), [artikel V, onderdelen A, subonderdeel 2, E, H, J, K en L](https://wetten.overheid.nl/jci1.3:c:BWBR0020038&artikel=V&z=2006-08-02&g=2006-08-02) alsmede de [artikelen VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0020038&artikel=VIII&z=2006-08-02&g=2006-08-02) en [IX](https://wetten.overheid.nl/jci1.3:c:BWBR0020038&artikel=IX&z=2006-08-02&g=2006-08-02) treden in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst met dien verstande dat zij terugwerken tot en met 11 mei 2005.
 
 3. De overige artikelen van dit besluit treden in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst met dien verstande dat zij terugwerken tot en met 5 september 2005.
 
