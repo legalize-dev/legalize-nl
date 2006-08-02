@@ -4,7 +4,7 @@ identifier: "BWBR0008475"
 country: "nl"
 rank: "amvb"
 publication_date: "2006-08-02"
-last_updated: "2005-09-05"
+last_updated: "2006-08-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008475"
 soort: "AMvB"
@@ -54,7 +54,7 @@ In dit besluit wordt verstaan onder:
 
 - a. Onze Minister: Onze Minister van Defensie;
 
-- b. geneeskundige autoriteit: de door de bevelhebber van het betreffende krijgsmachtdeel aangewezen autoriteit van de militair geneeskundige dienst van het krijgsmachtdeel waaronder de betreffende militair ressorteert dan wel de ontslagen militair tijdens zijn actieve dienst laatstelijk ressorteerde;
+- b. geneeskundige autoriteit: de door Onze Minister aan te wijzen medische autoriteit, die hem adviseert omtrent blijvende dienstongeschiktheid;
 
 - c. geneeskundig onderzoek: een militair geneeskundig onderzoek naar het bestaan van blijvende ongeschiktheid voor het vervullen van de militaire dienst;
 
@@ -62,7 +62,7 @@ In dit besluit wordt verstaan onder:
 
 - e. pensioenverzekeringsautoriteit: een door Onze Minister aan te wijzen medisch adviseur, die hem adviseert omtrent de pensioenverzekeringsaspecten;
 
-- f. commissie: de commissie genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008475&paragraaf=2&artikel=3&z=2003-05-23&g=2005-09-05).
+- f. commissie: de commissie genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008475&paragraaf=2&artikel=3&z=2006-08-02&g=2006-08-02).
 
 #### Paragraaf 2. Het geneeskundig onderzoek naar blijvende dienstongeschiktheid
 
