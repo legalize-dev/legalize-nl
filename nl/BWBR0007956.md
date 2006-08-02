@@ -4,7 +4,7 @@ identifier: "BWBR0007956"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-01-01"
-last_updated: "2006-07-01"
+last_updated: "2006-08-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007956"
 soort: "AMvB"
@@ -54,17 +54,17 @@ In dit besluit en de daarop rustende bepalingen wordt, tenzij in dit besluit uit
 
 - a. ministerie: Ministerie van Defensie;
 
-- b. bevoegd gezag: de bij ministeriële regeling aan te wijzen functionarissen;
+- b. commandant: de bij ministeriële regeling aan te wijzen functionarissen;
 
-- c. de dienstreiziger: voor zover [de onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0007956&hoofdstuk=1&artikel=1&z=2005-05-11&g=2006-07-01) of 2° genoemde een dienstreis maakt;
+- c. de dienstreiziger: voor zover de onder 1° of 2° genoemde een dienstreis maakt;
 
-- 1°. de militair, bedoeld in artikel 1, eerste lid, onderdeel c, van het Algemeen militair ambtenarenreglement, of
+- 1°. de militair, bedoeld in [artikel 1, eerste lid, onderdeel c, van het Algemeen militair ambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=1), of
 
-- 2°. de ambtenaar, bedoeld in artikel 1, van het Burgerlijk ambtenarenreglement Defensie,
+- 2°. de ambtenaar, bedoeld in [artikel 1, van het Burgerlijk ambtenarenreglement Defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=1),
 
-- d. de dienstreis: de door het bevoegd gezag aan de dienstreiziger in verband met dienstverrichting opgedragen noodzakelijke reis en het daarmee samenhangende verblijf;
+- d. de dienstreis: de door de commandant aan de dienstreiziger in verband met dienstverrichting opgedragen noodzakelijke reis en het daarmee samenhangende verblijf;
 
-- e. een plaats van tewerkstelling: een gebouw, gebouwencomplex, terrein of vaartuig, of een andere door het bevoegd gezag aan te wijzen plaats, waar of van waaruit de dienstreiziger gewoonlijk zijn werkzaamheden verricht;
+- e. een plaats van tewerkstelling: een gebouw, gebouwencomplex, terrein of vaartuig, of een andere door de commandant aan te wijzen plaats, waar of van waaruit de dienstreiziger gewoonlijk zijn werkzaamheden verricht;
 
 - f. openbaar vervoer: voor een ieder openstaand personenvervoer per trein, metro, tram, bus, auto, pont, (veer)boot of vliegtuig volgens een dienstregeling, dan wel met de treintaxi;
 
@@ -96,23 +96,23 @@ Onze Minister van Defensie kan in geval van buitengewone omstandigheden tijdelij
 
 ##### Artikel 4. Algemene uitvoering dienstreis
 
-1. Een dienstreis wordt op de door het bevoegd gezag aangegeven wijze uitgevoerd.
+1. Een dienstreis wordt op de door de commandant aangegeven wijze uitgevoerd.
 
 2. Een dienstreis wordt met openbaar vervoer gemaakt, tenzij dienstvervoer beschikbaar en doelmatiger is.
 
-3. Indien dienstvervoer niet beschikbaar en de plaats van bestemming doelmatig met openbaar vervoer bereikbaar is, wordt de dienstreis met openbaar vervoer gemaakt. Het bevoegd gezag kan de dienstreiziger toestaan de dienstreis met eigen vervoer te maken.
+3. Indien dienstvervoer niet beschikbaar en de plaats van bestemming doelmatig met openbaar vervoer bereikbaar is, wordt de dienstreis met openbaar vervoer gemaakt. De commandant kan de dienstreiziger toestaan de dienstreis met eigen vervoer te maken.
 
 4. Indien dienstvervoer niet beschikbaar en de plaats van bestemming niet of niet doelmatig met openbaar vervoer bereikbaar is, wordt de dienstreis, indien de dienstreiziger hierin toestemt, met eigen vervoer gemaakt.
 
-5. Voor de beoordeling of een plaats met openbaar vervoer bereikbaar is, kan het bevoegd gezag het gebruik van een taxi mede betrekken in zijn overwegingen.
+5. Voor de beoordeling of een plaats met openbaar vervoer bereikbaar is, kan de commandant het gebruik van een taxi mede betrekken in zijn overwegingen.
 
-6. Indien de dienstreis niet op de door het bevoegd gezag aangegeven wijze is uitgevoerd, heeft de dienstreiziger slechts aanspraak op de vergoedingen bij of krachtens dit besluit, waarop aanspraak bestaat, indien de dienstreis wel op de door het bevoegd gezag aangegeven wijze zou zijn uitgevoerd.
+6. Indien de dienstreis niet op de door de commandant aangegeven wijze is uitgevoerd, heeft de dienstreiziger slechts aanspraak op de vergoedingen bij of krachtens dit besluit, waarop aanspraak bestaat, indien de dienstreis wel op de door de commandant aangegeven wijze zou zijn uitgevoerd.
 
 ##### Artikel 5. Begin en einde dienstreis
 
 1. Voor de vergoeding van reis- en verblijfkosten geldt dat de gebruikelijke ingang van een plaats van tewerkstelling het beginpunt en het eindpunt is van de dienstreis.
 
-2. In afwijking van het eerste lid kan het bevoegd gezag de woning van de dienstreiziger of een andere plaats als beginpunt of eindpunt van de dienstreis aanmerken, tenzij op een reisdeel een plaats van tewerkstelling wordt bezocht.
+2. In afwijking van het eerste lid kan de commandant de woning van de dienstreiziger of een andere plaats als beginpunt of eindpunt van de dienstreis aanmerken, tenzij op een reisdeel een plaats van tewerkstelling wordt bezocht.
 
 ##### Artikel 6. Binnen- en buitenlandse dienstreis
 
@@ -138,7 +138,7 @@ De dienstreiziger die de dienstreis met dienstvervoer maakt, heeft aanspraak op 
 
 1. Indien dienstvervoer niet beschikbaar en openbaar vervoer niet mogelijk of niet doelmatig is en de dienstreiziger gebruik maakt van een eigen motorrijtuig, maakt deze aanspraak op de bij ministeriële regeling vast te stellen vergoeding.
 
-2. Indien in bijzondere gevallen het gebruik van een eigen motorrijtuig voor het vervoer tussen de woning en een plaats van tewerkstelling noodzakelijk is voor het doelmatig uitvoeren van een op die dag voorkomende dienstreis, kan het bevoegd gezag daarvoor een vergoeding verlenen als bedoeld in het eerste lid.
+2. Indien in bijzondere gevallen het gebruik van een eigen motorrijtuig voor het vervoer tussen de woning en een plaats van tewerkstelling noodzakelijk is voor het doelmatig uitvoeren van een op die dag voorkomende dienstreis, kan de commandant daarvoor een vergoeding verlenen als bedoeld in het eerste lid.
 
 3. De vergoeding voor het gebruik van een eigen motorrijtuig strekt mede tot vergoeding van eventueel onverhaalbare schaden aan het motorrijtuig of de premie van een hierop betrekking hebbende schadeverzekering, voor zover de kilometervergoeding, bedoeld in het eerste en tweede lid, is verstrekt voor meer dan een bij ministeriële regeling vastgesteld aantal kilometers per jaar, alsmede tot vergoeding van de bij ministeriële regeling omschreven andere kosten.
 
@@ -152,7 +152,7 @@ De dienstreiziger die de dienstreis met dienstvervoer maakt, heeft aanspraak op 
 
 1. Indien voor de dienstreis gebruik wordt gemaakt van een fiets, maakt de dienstreiziger aanspraak op de bij ministeriële regeling vast te stellen vergoeding.
 
-2. Indien een deel van de dienstreis wordt uitgevoerd met een taxi of een gehuurd motorrijtuig worden de daaraan verbonden kosten vergoed, indien het gebruik daarvan naar het oordeel van het bevoegd gezag voor de dienstreis noodzakelijk is.
+2. Indien een deel van de dienstreis wordt uitgevoerd met een taxi of een gehuurd motorrijtuig worden de daaraan verbonden kosten vergoed, indien het gebruik daarvan naar het oordeel van de commandant voor de dienstreis noodzakelijk is.
 
 #### § 2. Vergoeding van verblijfkosten en andere kosten
 
@@ -180,7 +180,7 @@ De dienstreiziger die de dienstreis met dienstvervoer maakt, heeft aanspraak op 
 
 ##### Artikel 13a. Opkomst in werkelijke dienst
 
-De aanspraak op reiskosten voor het reizen tussen de woning en de plaats van tewerkstelling en terug van een militair, aangesteld bij het reservepersoneel, die ingevolge een oproep van het bevoegd gezag in werkelijke dienst moet komen, wordt berekend op de voet van dit besluit.
+De aanspraak op reiskosten voor het reizen tussen de woning en de plaats van tewerkstelling en terug van een militair, aangesteld bij het reservepersoneel, die ingevolge een oproep van Onze Minister in werkelijke dienst moet komen, wordt berekend op de voet van dit besluit.
 
 ##### Artikel 14. Detachering
 
@@ -206,11 +206,11 @@ De aanspraak op reiskosten voor het reizen tussen de woning en de plaats van tew
 
 ##### Artikel 15a. Mandaatverlening
 
-Van de bevoegdheid tot het vaststellen van ministeriële regelingen als bedoeld in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0007956&hoofdstuk=2&z=2005-05-11&g=2006-07-01) kan mandaat worden verleend aan de hoofddirecteur personeel van het Ministerie van Defensie.
+Van de bevoegdheid tot het vaststellen van ministeriële regelingen als bedoeld in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0007956&hoofdstuk=2&z=2006-08-02&g=2006-08-02) kan mandaat worden verleend aan de hoofddirecteur personeel van het Ministerie van Defensie.
 
 ##### Artikel 16. Hardheidsclausule
 
-Onze Minister van Defensie kan [de artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0007956&hoofdstuk=2&paragraaf=2&artikel=12&z=2005-05-11&g=2006-07-01) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0007956&hoofdstuk=2&paragraaf=2&artikel=13&z=2005-05-11&g=2006-07-01) buiten toepassing laten of daarvan afwijken voor zover toepassing gelet op het belang van de vergoeding van verblijfkosten voor de dienstreiziger zal leiden tot een onbillijkheid van overwegende aard.
+Onze Minister van Defensie kan [de artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0007956&hoofdstuk=2&paragraaf=2&artikel=12&z=2006-08-02&g=2006-08-02) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0007956&hoofdstuk=2&paragraaf=2&artikel=13&z=2006-08-02&g=2006-08-02) buiten toepassing laten of daarvan afwijken voor zover toepassing gelet op het belang van de vergoeding van verblijfkosten voor de dienstreiziger zal leiden tot een onbillijkheid van overwegende aard.
 
 ##### Artikel 17. Algemene overgangsbepaling
 
@@ -218,7 +218,7 @@ Voor een dienstreis die is aangevangen en nog niet is beëindigd voor de dag van
 
 ##### Artikel 18. Afbouwregelingen
 
-1. Degene, bedoeld in [artikel 1, onderdeel **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0007956&hoofdstuk=1&artikel=1&z=2005-05-11&g=2006-07-01), ten 1°, die in de periode van 12 maanden voorafgaande aan de inwerkingtreding van dit besluit als militair in de zin van het Besluit dienstreizen militairen op ten minste 40 dagen tegen vergoeding dienstreizen binnen Nederland heeft gemaakt, heeft aanspraak op de bij ministeriële regeling vast te stellen tegemoetkoming.
+1. Degene, bedoeld in [artikel 1, onderdeel **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0007956&hoofdstuk=1&artikel=1&z=2006-08-02&g=2006-08-02), ten 1°, die in de periode van 12 maanden voorafgaande aan de inwerkingtreding van dit besluit als militair in de zin van het Besluit dienstreizen militairen op ten minste 40 dagen tegen vergoeding dienstreizen binnen Nederland heeft gemaakt, heeft aanspraak op de bij ministeriële regeling vast te stellen tegemoetkoming.
 
 2. Degene die aanspraak had op de tegemoetkoming, bedoeld in artikel 17 van het Reisbesluit binnenland burgerlijke ambtenaren defensie, behoudt deze aanspraak onder dezelfde voorwaarden als neergelegd in genoemd artikel.
 
