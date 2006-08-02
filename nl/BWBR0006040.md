@@ -4,7 +4,7 @@ identifier: "BWBR0006040"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-04-01"
-last_updated: "2006-03-10"
+last_updated: "2006-08-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006040"
 soort: "AMvB"
@@ -54,17 +54,19 @@ In dit besluit en de daarop berustende bepalingenen wordt verstaan onder ambtena
 
 1. Dit besluit is niet van toepassing op Onze Minister.
 
-2. De [hoofdstukken 4](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&z=2006-08-02&g=2006-03-10) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=5&z=2006-08-02&g=2006-03-10) zijn niet van toepassing op ambtenaren met gedeeltelijke dag-, week- of jaartaken, die niet regelmatig dienst doen. Ten aanzien van de in die hoofdstukken geregelde onderwerpen worden voor hen voor elk betrokken dienstvak de nodige bepalingen vastgesteld.
+2. De [hoofdstukken 4](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&z=2007-07-04&g=2006-08-02) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=5&z=2007-07-04&g=2006-08-02) zijn niet van toepassing op ambtenaren met gedeeltelijke dag-, week- of jaartaken, die niet regelmatig dienst doen. Ten aanzien van de in die hoofdstukken geregelde onderwerpen worden voor hen voor elk betrokken dienstvak de nodige bepalingen vastgesteld.
 
 3. Op de ambtenaar die is aangesteld voor het verrichten van enkele diensten niet vallende binnen de taak van het betrokken dienstvak, waarbij per dienst een afzonderlijke beloning wordt vastgesteld, zijn niet van toepassing:
 
-- a. [hoofdstuk 2, paragraaf 4](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=2&paragraaf=4&z=2006-08-02&g=2006-03-10);
+- a. [hoofdstuk 2, paragraaf 4](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=2&paragraaf=4&z=2007-07-04&g=2006-08-02);
 
-- b. de [hoofdstukken 4](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&z=2006-08-02&g=2006-03-10) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=5&z=2006-08-02&g=2006-03-10);
+- b. de [hoofdstukken 4](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&z=2007-07-04&g=2006-08-02) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=5&z=2007-07-04&g=2006-08-02);
 
-- c. [hoofdstuk 6, paragrafen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=6&paragraaf=2&z=2006-08-02&g=2006-03-10) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=6&paragraaf=3&z=2006-08-02&g=2006-03-10);
+- c. [hoofdstuk 6, paragrafen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=6&paragraaf=2&z=2007-07-04&g=2006-08-02) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=6&paragraaf=3&z=2007-07-04&g=2006-08-02);
 
-- d. de [artikelen 63](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=6&paragraaf=6&artikel=63&z=2006-08-02&g=2006-03-10), [66](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=6&paragraaf=7&artikel=66&z=2006-08-02&g=2006-03-10), [67](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=6&paragraaf=7&artikel=67&z=2006-08-02&g=2006-03-10) en [69](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=6&paragraaf=7&artikel=69&z=2006-08-02&g=2006-03-10).
+- d. de [artikelen 63](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=6&paragraaf=6&artikel=63&z=2007-07-04&g=2006-08-02), [66](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=6&paragraaf=7&artikel=66&z=2007-07-04&g=2006-08-02), [67](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=6&paragraaf=7&artikel=67&z=2007-07-04&g=2006-08-02) en [69](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=6&paragraaf=7&artikel=69&z=2007-07-04&g=2006-08-02).
+
+4. De [hoofdstukken 4](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&z=2007-07-04&g=2006-08-02), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=5&z=2007-07-04&g=2006-08-02), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=6&z=2007-07-04&g=2006-08-02), en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=8&z=2007-07-04&g=2006-08-02), alsmede de [artikelen 76](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=7b&artikel=76&z=2007-07-04&g=2006-08-02), [70b](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=7a&paragraaf=1&artikel=70b&z=2007-07-04&g=2006-08-02), [70d](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=7a&paragraaf=1&artikel=70d&z=2007-07-04&g=2006-08-02), [70e](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=7a&paragraaf=1&artikel=70e&z=2007-07-04&g=2006-08-02) en [70f](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=7a&paragraaf=1&artikel=70f&z=2007-07-04&g=2006-08-02), [85](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=7b&artikel=85&z=2007-07-04&g=2006-08-02), [87a](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=7b&artikel=87a&z=2007-07-04&g=2006-08-02), [88](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=7b&artikel=88&z=2007-07-04&g=2006-08-02), [93](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=7b&artikel=93&z=2007-07-04&g=2006-08-02), [109](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=10&artikel=109&z=2007-07-04&g=2006-08-02), [110](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=10&artikel=110&z=2007-07-04&g=2006-08-02), [111](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=10&artikel=111&z=2007-07-04&g=2006-08-02), [127](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=10&artikel=127&z=2007-07-04&g=2006-08-02) en [127a](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=10&artikel=127a&z=2007-07-04&g=2006-08-02), zijn niet van toepassing op de ambtenaar die is aangesteld om bij de krijgsmacht als geestelijk verzorger werkzaam te zijn.
 
 ##### Artikel 3. Definities
 
@@ -72,7 +74,17 @@ In dit besluit en de daarop berustende bepalingenen wordt verstaan onder ambtena
 
 - a. Onze Minister: Onze Minister van Defensie;
 
-- b. bevoegd gezag: de bij koninklijk besluit of bij ministeriële regeling als zodanig aangewezen autoriteit.
+- b. hoofd defensieonderdeel
+
+- 1°. de Secretaris-Generaal, voor zover het betreft de Bestuursstaf;
+
+- 2°. de Commandant Zeestrijdkrachten, de Commandant Landstrijdkrachten, de Commandant Luchtstrijdkrachten, de Commandant Koninklijke Marechaussee, voor het desbetreffende commando;
+
+- 3°. de directeur van de Defensie Materieel Organisatie, voor zover het betreft de Defensie Materieel Organisatie, met uitzondering van het deel ondergebracht in de Bestuursstaf;
+
+- 4°. de commandant van het Commando Dienstencentra, voor zover het betreft het Commando Dienstencentra.
+
+- c. de commandant: een bij ministeriële regeling aan te wijzen functionaris;
 
 2. Tenzij anders is bepaald wordt in dit besluit en de daarop berustende bepalingen verstaan onder salaris, onderscheidenlijk bezoldiging, hetgeen daaronder wordt verstaan in het [Inkomstenbesluit burgerlijke ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0018191).
 
@@ -116,7 +128,7 @@ Onze Minister stelt regels ten aanzien van de werving en selectie van ambtenaren
 
 3. Degene die geen Nederlander is, kan slechts worden aangesteld indien hem verblijf is toegestaan op grond van artikel 9 van de Vreemdelingenwet en de vergunning tot verblijf het verrichten van arbeid in loondienst niet uitsluit of indien hem verblijf is toegestaan op grond van artikel 10 van de Vreemdelingenwet.
 
-4. Evenmin vindt aanstelling plaats in een functie als bedoeld in [artikel 119, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=10&artikel=119&z=2006-08-02&g=2006-03-10), van personen die op het tijdstip waarop de voor die functie vastgestelde leeftijdsgrens wordt bereikt, geen ononderbroken diensttijd van tenminste 5 jaren, doorgebracht in een of meer zodanige functies, zouden kunnen aanwijzen.
+4. Evenmin vindt aanstelling plaats in een functie als bedoeld in [artikel 119, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=10&artikel=119&z=2007-07-04&g=2006-08-02), van personen die op het tijdstip waarop de voor die functie vastgestelde leeftijdsgrens wordt bereikt, geen ononderbroken diensttijd van tenminste 5 jaren, doorgebracht in een of meer zodanige functies, zouden kunnen aanwijzen.
 
 5. Het in het vierde lid bepaalde is van overeenkomstige toepassing in geval van plaatsing van een ambtenaar in een functie als in het vierde lid bedoeld.
 
@@ -128,7 +140,7 @@ Onze Minister stelt regels ten aanzien van de werving en selectie van ambtenaren
 
 - a. voor een proeftijd van ten hoogste twee jaar, zonodig bijzondere gevallen op aanvraag van de ambtenaar met nog één jaar te verlengen en zonodig ambtshalve te verlengen met de tijd, gedurende welke de ambtenaar de proeftijd niet in werkelijke dienst heeft doorgebracht;
 
-- b. voor de tijd van ten hoogste drie maanden, indien een onderzoek als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=2&paragraaf=2&artikel=9&z=2006-08-02&g=2006-03-10), nog niet is beëindigd;
+- b. voor de tijd van ten hoogste drie maanden, indien een verklaring als bedoeld in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=2&paragraaf=2&artikel=10&z=2007-07-04&g=2006-08-02), nog niet is afgegeven, met dien verstande dat aan de ambtenaar geen werkzaamheden mogen worden opgedragen die verband houden met de aspecten van de betreffende functie die hebben geleid tot de kwalificatie vertrouwensfunctie als bedoeld in [artikel 1, eerste lid, onderdeel a, van de Wet veiligheidsonderzoeken](https://wetten.overheid.nl/jci1.3:c:BWBR0008277&artikel=1);
 
 - c. van personen, die niet voldoen aan de voor een aanstelling in vaste dienst gestelde eisen;
 
@@ -136,7 +148,7 @@ Onze Minister stelt regels ten aanzien van de werving en selectie van ambtenaren
 
 - e. van personen, die belast zullen worden met werk van kennelijk tijdelijk karakter, al dan niet vallende binnen de taak van het betrokken dienstvak;
 
-- f. voor het incidenteel verrichten van werkzaamheden, vallende binnen de taak van het betrokken dienstvak, waarbij telkenmale het bevoegd gezag, gehoord de ambtenaar, vaststelt op welke tijdstippen daadwerkelijk door de ambtenaar dienst wordt verricht;
+- f. voor het incidenteel verrichten van werkzaamheden, vallende binnen de taak van het betrokken dienstvak, waarbij telkenmale de commandant, gehoord de ambtenaar, vaststelt op welke tijdstippen daadwerkelijk door de ambtenaar dienst wordt verricht;
 
 - g. voor het verrichten van enkele diensten niet vallende binnen de normale taak van het betrokken dienstvak, waarbij per dienst een afzonderlijke beloning wordt vastgesteld;
 
@@ -170,9 +182,9 @@ Onze Minister stelt regels ten aanzien van de werving en selectie van ambtenaren
 
 ##### Artikel 8. Bevoegdheid tot aanstelling
 
-1. Tenzij Wij anders hebben bepaald geschiedt de aanstelling bij koninklijk besluit, indien zij plaatsvindt in vaste dienst en het salaris, dan wel het maximumsalaris van de schaal welke voor de ambtenaar geldt, gelijk is aan of hoger is dan het maximumsalaris van schaal 15 van [bijlage A van het Inkomstenbesluit burgerlijke ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&bijlage=A).
+1. De aanstelling van de ambtenaar in vaste dienst die wordt bezoldigd volgens salarisschaal 15 of hoger van [bijlage A van het Inkomstenbesluit burgerlijke ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&bijlage=A) alsmede van de ambtenaar die is aangesteld in burgerlijke openbare dienst om bij de krijgsmacht als geestelijk verzorger werkzaam te zijn en die wordt bezoldigd in de salarisschaal behorend bij de rang van kapitein ter zee/kolonel geschiedt bij koninklijk besluit.
 
-2. Tenzij Wij anders hebben bepaald, geschiedt de aanstelling in de overige gevallen door Onze Minister of het bevoegd gezag.
+2. De aanstelling in de overige gevallen geschiedt door Onze Minister.
 
 ##### Artikel 8a. Duur functievervulling
 
@@ -182,47 +194,61 @@ Onze Minister stelt regels ten aanzien van de werving en selectie van ambtenaren
 
 #### § 2. Voorwaarden voor aanstelling
 
-##### Artikel 9
+##### Artikel 9. Geschiktheid en bekwaamheid
 
-1. Het bevoegd gezag kan, met uitzondering van het geval, bedoeld in het tweede lid, van de betrokkene eisen dat deze een verklaring omtrent het gedrag als bedoeld in de [Wet justitiële gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194) overlegt.
+1. Een aanstelling voor de tijd van langer dan drie maanden kan slechts plaatsvinden, indien Onze Minister op grond van de gegevens waarover hij beschikt van oordeel is dat de betrokkene in voldoende mate geschikt en bekwaam is voor de desbetreffende functie.
 
-2. Aanstelling in een vertrouwensfunctie als bedoeld in [artikel 1, eerste lid, onder a, van de Wet veiligheidsonderzoeken](https://wetten.overheid.nl/jci1.3:c:BWBR0008277&artikel=1) is slechts mogelijk, indien ten aanzien van de betrokkene een verklaring als bedoeld in [artikel 1, eerste lid, onder b, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008277&artikel=1) is afgegeven.
+2. Onze Minister stelt voor een functie of voor een groep van functies eisen van geschiktheid en bekwaamheid vast waaraan de betrokkene moet voldoen om voor een aanstelling in aanmerking te komen.
 
-##### Artikel 10. Geneeskundige keuring
+3. Teneinde vast te stellen of de betrokkene in voldoende mate geschikt of bekwaam is, wordt deze door Onze Minister aan een onderzoek onderworpen, waaronder begrepen het verifiëren en zo nodig aanvullen van de gegevens die door de betrokkene zijn verstrekt.
 
-1. Behoudens in door Onze Minister te bepalen gevallen van aanstelling voor de tijd van niet langer dan drie maanden, wordt een aanstelling slechts verleend, nadat de betrokkene op grond van de uitslag van een geneeskundige keuring geschikt is verklaard voor de aan het desbetreffende ambt verbonden werkzaamheden.
+4. Het onderzoek, bedoeld in het derde lid, omvat tevens:
 
-2. Een aanstelling in tijdelijke dienst kan ook worden verleend, nadat de betrokkene voorwaardelijk geschikt is verklaard.
+- a. een psychologisch onderzoek, indien daaraan naar het oordeel van Onze Minister behoefte bestaat;
 
-3. Indien de betrokkene niet geschikt is verklaard, kan hem niettemin een aanstelling worden verleend, wanneer het dienstbelang zulks bepaaldelijk vordert of in andere bijzondere gevallen.
+- b. een medisch onderzoek, indien dit op grond van een wettelijk voorschrift verplicht is gesteld dan wel indien op grond van functie-eisen een onderzoek naar de medische geschiktheid van de betrokkene noodzakelijk is.
 
-4. De kosten van de keuring komen voor rekening van het Ministerie van Defensie. Reis- en verblijfkosten voor de betrokkene worden hem vergoed op de voet van de bepalingen van het [Besluit dienstreizen defensie](onbekend), met dien verstande, dat de betrokkene voor de toepassing van dat besluit wordt geacht het ambt, met betrekking waartoe de keuring heeft plaatsgevonden, reeds te bekleden.
+5. Onze Minister stelt vast voor welke functies een medisch onderzoek als bedoeld in het vierde lid, onderdeel b, noodzakelijk is.
 
-##### Artikel 11. Geneeskundige herkeuring
+##### Artikel 10. Verklaring omtrent gedrag; veiligheidsonderzoek vertrouwensfunctie
 
-1. De uitslag van de keuring wordt uiterlijk binnen twee weken na vaststelling aan de betrokkene medegedeeld.
+1. Onze Minister kan, met uitzondering van het geval, bedoeld in het tweede lid, van de betrokkene eisen dat deze een verklaring omtrent het gedrag als bedoeld in de [Wet justitiële gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194) overlegt.
 
-2. Indien de betrokkene binnen twee weken na ontvangst van deze mededeling daartoe een verzoek indient, vindt een herkeuring plaats, mits tevens een bedrag van € 4,50 is gestort.
+2. Aanstelling in een vertrouwensfunctie als bedoeld in [artikel 1, eerste lid, onderdeel a, van de Wet veiligheidsonderzoeken](https://wetten.overheid.nl/jci1.3:c:BWBR0008277&artikel=1) is slechts mogelijk, indien ten aanzien van de betrokkene een verklaring als bedoeld in [artikel 1, eerste lid, onderdeel b, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008277&artikel=1) is afgegeven.
 
-3. Het bedrag van € 4,50 bedoeld in het tweede lid, wordt aan de betrokkene teruggegeven en reis- en verblijfkosten worden hem vergoed, indien de betrokkene bij de herkeuring in plaats van ongeschikt, voorwaardelijk of onvoorwaardelijk geschikt dan wel in plaats van voorwaardelijk geschikt onvoorwaardelijk geschikt is verklaard. De vergoeding van reis- en verblijfkosten geschiedt op de voet van de bepalingen van het [Besluit dienstreizen defensie](onbekend), met dien verstande, dat de betrokkene voor de toepassing van dat besluit wordt geacht het ambt, met betrekking waartoe de herkeuring heeft plaatsgevonden, reeds te bekleden.
+3. Bij wijziging van een tijdelijk in een vast dienstverband dan wel in geval van wijziging van tewerkstelling in een andere niet-vertrouwensfunctie wordt geen verklaring omtrent het gedrag verlangd, tenzij naar het oordeel van Onze Minister dit noodzakelijk wordt geacht.
 
-4. Voor zover dit niet bij koninklijk besluit is geschied, stelt Onze Minister omtrent de herkeuring, waaraan in ieder geval niet zal mogen deelnemen een arts die de keuring heeft verricht, nadere regels vast.
+4. Een veiligheidsonderzoek als bedoeld in het tweede lid, wordt pas ingesteld, als naar het oordeel van Onze Minister de betrokkene geschikt en bekwaam is voor de betreffende functie.
 
-##### Artikel 12. Hernieuwde geneeskundige keuring
+##### Artikel 11. Psychologisch onderzoek
 
-1. Bij wijziging van een privaatrechtelijk in een publiekrechtelijk of van een tijdelijk in een vast dienstverband vindt slechts dan opnieuw een geneeskundige keuring plaats indien:
+1. Aan de betrokkene die is onderworpen aan een psychologisch onderzoek als bedoeld in [artikel 9, vierde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=2&paragraaf=2&artikel=9&z=2007-07-04&g=2006-08-02), wordt op zijn verzoek binnen twee weken na de vaststelling van de uitslag van het onderzoek inzage verleend in die uitslag. Dit vindt plaats in het kader van een nagesprek met de psycholoog die het onderzoek heeft verricht.
 
-- a. de betrokkene voorwaardelijk geschikt was verklaard;
+2. Mededeling van de uitslag van het onderzoek aan Onze Minister blijft achterwege, indien de betrokkene uiterlijk een week nadat hij van de uitslag van het onderzoek heeft kennis genomen zijn wens daartoe schriftelijk heeft meegedeeld aan degene die met het onderzoek is belast.
 
-- b. aan de geschiktheid van de betrokkene ernstig twijfel is gerezen.
+3. De uitslag van het onderzoek wordt niet eerder dan twee weken nadat betrokkene daarvan heeft kennis genomen, medegedeeld aan Onze Minister, tenzij die mededeling op een eerder tijdstip is geboden en de betrokkene met die eerdere mededeling schriftelijk heeft ingestemd.
 
-2. Bij aanstelling in een ander ambt vindt, behalve in de gevallen, genoemd in het eerste lid, niet opnieuw keuring plaats, tenzij voor de vervulling van de nieuwe werkzaamheden andere eisen worden gesteld dan voor het tot dusverre beklede ambt.
+4. Voor zover dit niet heeft plaatsgevonden overeenkomstig het eerste lid heeft de betrokkene recht op een nagesprek met de psycholoog die het onderzoek heeft verricht.
+
+5. De kosten van het psychologisch onderzoek en van het nagesprek komen voor rekening van het Ministerie van Defensie. De betrokkene ontvangt voor ten behoeve van het onderzoek en het nagesprek gemaakte reis- en verblijfkosten een vergoeding ingevolge de bepalingen van het [Besluit dienstreizen defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0007956).
+
+##### Artikel 12. Medisch onderzoek
+
+1. De uitslag van het medisch onderzoek als genoemd in [artikel 9, vierde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=2&paragraaf=2&artikel=9&z=2007-07-04&g=2006-08-02), wordt uiterlijk binnen twee weken na vaststelling van die uitslag aan de betrokkene medegedeeld.
+
+2. De betrokkene kan binnen twee weken nadat hem de uitslag van het medisch onderzoek is meegedeeld, een hernieuwd medisch onderzoek aanvragen.
+
+3. Het hernieuwd medisch onderzoek mag niet worden verricht door de arts die het medisch onderzoek heeft verricht.
+
+4. De betrokkene die op grond van [artikel 9, vierde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=2&paragraaf=2&artikel=9&z=2007-07-04&g=2006-08-02), is onderworpen aan een medisch onderzoek, wordt bij aanstelling in een andere functie opnieuw aan een onderzoek naar de medische geschiktheid onderworpen indien de betrokkene voor het vervullen van die functie aan andere medische eisen dient te voldoen dan voor de tot dusverre vervulde functie.
+
+5. Het medisch onderzoek, bedoeld in [artikel 9, vierde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=2&paragraaf=2&artikel=9&z=2007-07-04&g=2006-08-02), mag pas plaatsvinden, indien de betrokkene naar het oordeel van Onze Minister op grond van het onderzoek, bedoeld in [artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=2&paragraaf=2&artikel=9&z=2007-07-04&g=2006-08-02), en eventueel na het psychologisch onderzoek, bedoeld in [artikel 9, vierde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=2&paragraaf=2&artikel=9&z=2007-07-04&g=2006-08-02), overigens voldoende bekwaam en geschikt is voor de desbetreffende functie.
+
+6. De kosten van het medisch onderzoek en het hernieuwd medisch onderzoek komen voor rekening van het Ministerie van Defensie. De betrokkene ontvangt voor ten behoeve van het onderzoek en het hernieuwd onderzoek gemaakte reis- en verblijfkosten een vergoeding ingevolge de bepalingen van het [Besluit dienstreizen defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0007956).
 
 ##### Artikel 13. Eisen van bekwaamheid
 
-1. Bij koninklijk besluit kunnen op de voordracht van Onze Minister voor een bepaald ambt of voor een groep van ambten eisen van bekwaamheid worden vastgesteld, waaraan de belanghebbende moet voldoen om voor een aanstelling in vaste dienst in aanmerking te komen.
-
-2. Voor zover dit niet bij koninklijk besluit is geschied, kunnen deze eisen ook worden vastgesteld door Onze Minister, of door het tot aanstelling in het desbetreffende ambt of in de desbetreffende groep van ambten bevoegd gezag.
+Vervallen
 
 #### § 3. De akte van aanstelling en andere bescheiden
 
@@ -236,13 +262,15 @@ Onze Minister stelt regels ten aanzien van de werving en selectie van ambtenaren
 
 - c. de datum, met ingang waarvan hij wordt aangesteld;
 
-- d. of de aanstelling geschiedt in vaste of tijdelijke dienst.
+- d. of de aanstelling geschiedt in vaste of tijdelijke dienst;
+
+- e. de wekelijkse arbeidsduur waarvoor de ambtenaar wordt aangesteld.
 
 2. Indien de aanstelling geschiedt in tijdelijke dienst, wordt bovendien in de akte van aanstelling vermeld:
 
 - a. of de aanstelling geschiedt voor bepaalde tijd - en zo ja voor hoelang of voor onbepaalde tijd;
 
-- b. de toepasselijke, in artikel 7, tweede lid, omschreven grond(en) voor de aanstelling in tijdelijke dienst.
+- b. de toepasselijke, in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=2&paragraaf=1&artikel=7&z=2007-07-04&g=2006-08-02), omschreven grond(en) voor de aanstelling in tijdelijke dienst.
 
 ##### Artikel 15. Nadere schriftelijke mededelingen
 
@@ -352,49 +380,51 @@ In dit hoofdstuk wordt verstaan onder:
 
 ##### Artikel 30b. Vaststelling werk- en rusttijden
 
-1. De werk- en rusttijden van de ambtenaar worden met inachtneming van de bepalingen in dit hoofdstuk, en nadat hierover overeenkomstig het [Besluit medezeggenschap defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0010617) overeenstemming is bereikt met de betrokken medezeggenschapscommissie, vastgesteld door het bevoegd gezag en schriftelijk vastgelegd in roosters.
+1. De werk- en rusttijden van de ambtenaar worden met inachtneming van de bepalingen in dit hoofdstuk, en nadat hierover overeenkomstig het [Besluit medezeggenschap defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0010617) overeenstemming is bereikt met de betrokken medezeggenschapscommissie, vastgesteld door de commandant en schriftelijk vastgelegd in roosters.
 
 2. De arbeidsduur bedraagt gerekend over de periode waarvoor het rooster is vastgesteld ten hoogste gemiddeld 38 uren per week. In uitzonderlijke gevallen kan door Onze Minister van de eerste volzin worden afgeweken.
 
 3. Aan de ambtenaar van 55 jaar en ouder wordt niet opgedragen dienst te verrichten tussen 22.00 uur en 06.00 uur, tenzij het een gedeelte van een dienst betreft die doorloopt na 22.00 uur en ten laatste eindigt om 24.00 uur.
 
-4. Van het derde lid kan door het bevoegd gezag voor de duur van telkens ten hoogste één jaar worden afgeweken, indien de ambtenaar dit heeft aangevraagd, dan wel zeer gewichtige redenen van dienstbelang hiertoe noodzaken, mits de arts van de bedrijfsgeneeskundige dienst daaromtrent een positief advies heeft uitgebracht.
+4. Van het derde lid kan door de commandant voor de duur van telkens ten hoogste één jaar worden afgeweken, indien de ambtenaar dit heeft aangevraagd, dan wel zeer gewichtige redenen van dienstbelang hiertoe noodzaken, mits de arts van de bedrijfsgeneeskundige dienst daaromtrent een positief advies heeft uitgebracht.
 
 5. Door Onze Minister kunnen functies worden aangewezen waarbij het reizen, naar en vanaf de plaats waar de ambtenaar dienst moet verrichten, een wezenlijk bestanddeel uitmaakt van de functie. Bij die functies wordt de reisduur buiten de voor de ambtenaar geldende werktijd als arbeidsduur aangemerkt.
 
 ##### Artikel 30c. Partiële arbeidsparticipatie senioren
 
-1. De arbeidsduur, bedoeld in artikel 30b, tweede lid, van de ambtenaar van 57 jaar en ouder die daartoe een aanvraag heeft ingediend, wordt, onder handhaving van de arbeidsduur waarvoor hij is aangesteld, teruggebracht met 15,8%, tenzij het dienstbelang zich daartegen verzet.
+1. De arbeidsduur, bedoeld in [artikel 30b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=1&artikel=30b&z=2007-07-04&g=2006-08-02), van de ambtenaar van 57 jaar en ouder die daartoe een aanvraag heeft ingediend, wordt door de commandant, onder handhaving van de arbeidsduur waarvoor hij is aangesteld, teruggebracht met 15,8%, tenzij het dienstbelang zich daartegen verzet.
 
-2. De arbeidsduur, bedoeld in artikel 30b, tweede lid, van de ambtenaar van 61 jaar en ouder die daartoe een aanvraag heeft ingediend, wordt, onder handhaving van de arbeidsduur waarvoor hij is aangesteld, teruggebracht met 36,8%, tenzij het dienstbelang zich daartegen verzet.
+2. De arbeidsduur, bedoeld in [artikel 30b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=1&artikel=30b&z=2007-07-04&g=2006-08-02), van de ambtenaar van 61 jaar en ouder die daartoe een aanvraag heeft ingediend, wordt door de commandant, onder handhaving van de arbeidsduur waarvoor hij is aangesteld, teruggebracht met 36,8%, tenzij het dienstbelang zich daartegen verzet.
 
 3. De ingevolge het eerste en het tweede lid teruggebrachte arbeidsduur wordt afgerond naar boven indien de eerste decimaal achter de komma groter is dan nul.
 
-4. De in het eerste dan wel tweede lid bedoelde ambtenaar dient op het moment van de eerste aanvraag ten minste 5 aaneengesloten jaren in dienst te zijn van het Ministerie van Defensie.
+4. De aanspraak op vakantie als bedoeld in [artikel 32, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=5&paragraaf=1&artikel=32&z=2007-07-04&g=2006-08-02), wordt naar evenredigheid verminderd en de in [artikel 32, vijfde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=5&paragraaf=1&artikel=32&z=2007-07-04&g=2006-08-02), bedoelde verhoging van de vakantieaanspraak komt te vervallen.
 
-5. Voor de uren die het wekelijks verschil vormen tussen de in het eerste en tweede lid bedoelde arbeidsduur waarvoor hij is aangesteld, en de teruggebrachte arbeidsduur wordt de ambtenaar geacht met verlof te zijn.
+5. De in het eerste dan wel tweede lid bedoelde ambtenaar dient op het moment van de eerste aanvraag ten minste 5 aaneengesloten jaren in dienst te zijn van het Ministerie van Defensie.
 
-6. Op het salaris van de in het eerste respectievelijk tweede lid bedoelde ambtenaar wordt een inhouding toegepast ter grootte van 5% respectievelijk 10% van het salaris dat voor hem zou gelden zonder arbeidsduurvermindering op grond van dit artikel.
+6. Voor de uren die het wekelijks verschil vormen tussen de in het eerste en tweede lid bedoelde arbeidsduur waarvoor hij is aangesteld, en de teruggebrachte arbeidsduur wordt de ambtenaar geacht met verlof te zijn.
 
-7. Onze Minister stelt omtrent de verrekening van extra inkomsten uit arbeid of bedrijf met het salaris van de in het eerste en tweede lid bedoelde ambtenaar nadere regels vast.
+7. Op het salaris van de in het eerste respectievelijk tweede lid bedoelde ambtenaar wordt een inhouding toegepast ter grootte van 5% respectievelijk 10% van het salaris dat voor hem zou gelden zonder arbeidsduurvermindering op grond van dit artikel.
 
-8. Dit artikel is niet van toepassing op een ambtenaar die gebruik maakt van de mogelijkheid van ontslag als bedoeld in artikel 114, tweede lid.
+8. Onze Minister stelt omtrent de verrekening van extra inkomsten uit arbeid of bedrijf met het salaris van de in het eerste en tweede lid bedoelde ambtenaar nadere regels vast.
+
+9. Dit artikel is niet van toepassing op een ambtenaar die gebruik maakt van de mogelijkheid van ontslag als bedoeld in [artikel 114, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=10&artikel=114&z=2007-07-04&g=2006-08-02).
 
 ##### Artikel 30d. Bekendstelling werk- en rusttijden
 
-1. Het bevoegd gezag dat een rooster vaststelt of opnieuw vaststelt, maakt het rooster ten minste 28 dagen vóór de datum van inwerkingtreding bekend aan de ambtenaar.
+1. De commandant dat een rooster vaststelt of opnieuw vaststelt, maakt het rooster ten minste 28 dagen vóór de datum van inwerkingtreding bekend aan de ambtenaar.
 
-2. Indien de aard van de arbeid toepassing van het eerste lid onmogelijk maakt, stelt het bevoegd gezag ten minste 28 dagen van tevoren aan de ambtenaar bekend op welke dag de rusttijd, bedoeld in de artikelen 30r en 31g, eerste lid, aanvangt. Tevens maakt hij aan de ambtenaar ten minste 4 dagen van tevoren de tijdstippen bekend waarop hij arbeid moet verrichten.
+2. Indien de aard van de arbeid toepassing van het eerste lid onmogelijk maakt, stelt de commandant ten minste 28 dagen van tevoren aan de ambtenaar bekend op welke dag de rusttijd, bedoeld in de [artikelen 30r](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=4&artikel=30r&z=2007-07-04&g=2006-08-02) en [31g, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=8&artikel=31g&z=2007-07-04&g=2006-08-02), aanvangt. Tevens maakt hij aan de ambtenaar ten minste 4 dagen van tevoren de tijdstippen bekend waarop hij arbeid moet verrichten.
 
-3. Het bevoegd gezag dient overeenstemming te bereiken met de betrokken medezeggenschapscommissie, indien het dienstbelang het noodzakelijk maakt af te wijken van het eerste of tweede lid.
+3. De commandant dient overeenstemming te bereiken met de betrokken medezeggenschapscommissie, indien het dienstbelang het noodzakelijk maakt af te wijken van het eerste of tweede lid.
 
 ##### Artikel 30da. Tijdelijke verlenging van de arbeidsduur
 
-1. De ambtenaar van wie het rooster is gebaseerd op een arbeidsduur van gemiddeld 38 uur per week, kan bij het bevoegd gezag een aanvraag indienen om zijn arbeidsduur tijdelijk gedurende een kalenderjaar met 2 uren per week te verlengen, onder handhaving van de arbeidsduur waarvoor hij is aangesteld. Voor de ambtenaar die is aangesteld voor een arbeidsduur van gemiddeld minder dan 38 uur per week wordt de ingevolge de vorige volzin geldende aanspraak vastgesteld op een evenredig deel van de aanspraak bij een arbeidsduur van gemiddeld 38 uur per week.
+1. De ambtenaar van wie het rooster is gebaseerd op een arbeidsduur van gemiddeld 38 uur per week, kan bij de commandant een aanvraag indienen om zijn arbeidsduur tijdelijk gedurende een kalenderjaar met 2 uren per week te verlengen, onder handhaving van de arbeidsduur waarvoor hij is aangesteld. Voor de ambtenaar die is aangesteld voor een arbeidsduur van gemiddeld minder dan 38 uur per week wordt de ingevolge de vorige volzin geldende aanspraak vastgesteld op een evenredig deel van de aanspraak bij een arbeidsduur van gemiddeld 38 uur per week.
 
-2. Een aanvraag als bedoeld in het eerste lid wordt vóór 1 oktober voorafgaande aan het desbetreffende kalenderjaar ingediend bij het bevoegd gezag.
+2. Een aanvraag als bedoeld in het eerste lid wordt vóór 1 oktober voorafgaande aan het desbetreffende kalenderjaar ingediend bij de commandant.
 
-3. Het bevoegd gezag wijst een aanvraag als bedoeld in het eerste en het vierde lid toe, tenzij het dienstbelang zich daartegen verzet. In ieder geval wordt de aanvraag afgewezen indien de tijdelijke verlenging van de arbeidsduur geen effect heeft op de formatie, onder door het bevoegd gezag nader vast te stellen voorwaarden.
+3. De commandant wijst een aanvraag als bedoeld in het eerste en het vierde lid toe, tenzij het dienstbelang zich daartegen verzet. In ieder geval wordt de aanvraag afgewezen indien de tijdelijke verlenging van de arbeidsduur geen effect heeft op de formatie, onder door de commandant nader vast te stellen voorwaarden.
 
 4. Indien de ambtenaar op een andere functie wordt tewerkgesteld vervalt met ingang van de datum van tewerkstelling de toewijzing bedoeld in het derde lid. In afwijking van de datum genoemd in het tweede lid kan de ambtenaar een aanvraag als bedoeld in het eerste lid indienen. Bij toewijzing geldt de verlenging van de arbeidsduur voor het resterende gedeelte van het lopende kalenderjaar
 
@@ -402,13 +432,13 @@ In dit hoofdstuk wordt verstaan onder:
 
 ##### Artikel 30db. Tijdelijke verkorting van de arbeidsduur
 
-1. De ambtenaar van wie het rooster is gebaseerd op een arbeidsduur van gemiddeld 38 uur per week, kan bij het bevoegd gezag een aanvraag indienen om zijn arbeidsduur tijdelijk gedurende een kalenderjaar met 2 uren per week te verkorten, onder handhaving van de arbeidsduur waarvoor hij is aangesteld. Voor de ambtenaar die is aangesteld voor een arbeidsduur van gemiddeld minder dan 38 uur per week wordt de ingevolge de vorige volzin geldende aanspraak vastgesteld op een evenredig deel van de aanspraak bij een arbeidsduur van gemiddeld 38 uur per week.
+1. De ambtenaar van wie het rooster is gebaseerd op een arbeidsduur van gemiddeld 38 uur per week, kan bij de commandant een aanvraag indienen om zijn arbeidsduur tijdelijk gedurende een kalenderjaar met 2 uren per week te verkorten, onder handhaving van de arbeidsduur waarvoor hij is aangesteld. Voor de ambtenaar die is aangesteld voor een arbeidsduur van gemiddeld minder dan 38 uur per week wordt de ingevolge de vorige volzin geldende aanspraak vastgesteld op een evenredig deel van de aanspraak bij een arbeidsduur van gemiddeld 38 uur per week.
 
 2. De in het eerste lid bedoelde verkorting van de arbeidsduur wordt verwerkt in het voor de betrokken ambtenaar geldende rooster dan wel wordt toegekend in de vorm van acht spaaruren per maand wanneer het een ambtenaar betreft van wie het rooster is gebaseerd op een arbeidsduur van gemiddeld 38 uur per week en een evenredig deel daarvan wanneer het een ambtenaar betreft die is aangesteld voor een arbeidsduur van gemiddeld minder dan 38 uur per week.
 
-3. Een aanvraag als bedoeld in het eerste lid wordt vóór 1 oktober voorafgaande aan het desbetreffende kalenderjaar ingediend bij het bevoegd gezag.
+3. Een aanvraag als bedoeld in het eerste lid wordt vóór 1 oktober voorafgaande aan het desbetreffende kalenderjaar ingediend bij de commandant.
 
-4. Het bevoegd gezag wijst een aanvraag als bedoeld in het eerste en vijfde lid toe.
+4. De commandant wijst een aanvraag als bedoeld in het eerste en vijfde lid toe.
 
 5. Indien de ambtenaar op een andere functie wordt tewerkgesteld vervalt met ingang van de datum van tewerkstelling de toewijzing bedoeld in het vierde lid. In dat geval kan de ambtenaar in afwijking van de datum genoemd in het derde lid een aanvraag als bedoeld in het eerste lid indienen. Bij toewijzing geldt de verkorting van de arbeidsduur voor het resterende gedeelte van het lopende kalenderjaar.
 
@@ -416,13 +446,13 @@ In dit hoofdstuk wordt verstaan onder:
 
 ##### Artikel 30e. Registratie werk- en rusttijden
 
-1. Het bevoegd gezag voert een deugdelijke registratie ter zake van de werk- en rusttijden en de realisatie daarvan, welke het toezicht op de naleving van de bepalingen in dit hoofdstuk mogelijk maakt.
+1. De commandant voert een deugdelijke registratie ter zake van de werk- en rusttijden en de realisatie daarvan, welke het toezicht op de naleving van de bepalingen in dit hoofdstuk mogelijk maakt.
 
 2. De in het eerste lid bedoelde gegevens en bescheiden worden ten minste 52 weken, gerekend vanaf de datum waarop de desbetreffende gegevens en bescheiden betrekking hebben, bewaard.
 
 ##### Artikel 30f. Gelijkstelling met arbeidsduur
 
-Voor de toepassing van de bepalingen in dit hoofdstuk, ten aanzien van de arbeidsduur, wordt voor het bepalen van het aantal uren dat arbeid wordt verricht, meegeteld de uren waarop de ambtenaar de arbeid zou hebben verricht, maar deze uren in het kader van de medezeggenschap als bedoeld in [artikel 17 van het Besluit medezeggenschap defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0010617&artikel=17), ziekte, verlof als bedoeld in de [artikelen 32](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=5&paragraaf=1&artikel=32&z=2006-08-02&g=2006-03-10), [40](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=5&paragraaf=2&artikel=40&z=2006-08-02&g=2006-03-10), [42 tot en met 45](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=5&paragraaf=2&artikel=42&z=2006-08-02&g=2006-03-10) en [47](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=5&paragraaf=2&artikel=47&z=2006-08-02&g=2006-03-10), studieverlof als bedoeld in [artikel 3 van de Studiefaciliteitenregeling burgerlijke ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0043998&artikel=3), of de vervulling van door wet of overheid opgelegde verplichting welke niet in zijn vrije tijd kon geschieden, niet heeft verricht.
+Voor de toepassing van de bepalingen in dit hoofdstuk, ten aanzien van de arbeidsduur, wordt voor het bepalen van het aantal uren dat arbeid wordt verricht, meegeteld de uren waarop de ambtenaar de arbeid zou hebben verricht, maar deze uren in het kader van de medezeggenschap als bedoeld in [artikel 17 van het Besluit medezeggenschap defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0010617&artikel=17), ziekte, verlof als bedoeld in de [artikelen 32](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=5&paragraaf=1&artikel=32&z=2007-07-04&g=2006-08-02), [40](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=5&paragraaf=2&artikel=40&z=2007-07-04&g=2006-08-02), [42 tot en met 45](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=5&paragraaf=2&artikel=42&z=2007-07-04&g=2006-08-02) en [47](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=5&paragraaf=2&artikel=47&z=2007-07-04&g=2006-08-02), studieverlof als bedoeld in [artikel 3 van de Studiefaciliteitenregeling burgerlijke ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0043998&artikel=3), of de vervulling van door wet of overheid opgelegde verplichting welke niet in zijn vrije tijd kon geschieden, niet heeft verricht.
 
 ##### Artikel 30g. Gelijkstelling met de zondag
 
@@ -432,7 +462,7 @@ Voor de toepassing van de bepalingen in dit hoofdstuk ten aanzien van de zondag,
 
 1. Indien uit arbeidsgezondheidskundig onderzoek blijkt, dat de gezondheidsproblemen van een ambtenaar voortvloeien uit het verrichten van nachtdiensten, dan wordt de arbeid van die ambtenaar binnen redelijke termijn zodanig ingericht, dat hij arbeid verricht anders dan in nachtdienst.
 
-2. Het bevoegd gezag voldoet aan de voor hem uit het eerste lid voortvloeiende verplichting, tenzij hij aannemelijk maakt dat dit redelijkerwijs niet van hem kan worden gevergd.
+2. De commandant voldoet aan de voor hem uit het eerste lid voortvloeiende verplichting, tenzij hij aannemelijk maakt dat dit redelijkerwijs niet van hem kan worden gevergd.
 
 #### Paragraaf 2. Toepassingsbereik
 
@@ -448,7 +478,7 @@ Voor de toepassing van de bepalingen in dit hoofdstuk ten aanzien van de zondag,
 
 - d. inzake aangelegenheden die rechtstreeks betrekking hebben op de omstandigheden, bedoeld onder a, b, en c.
 
-2. Dit hoofdstuk en de daarop berustende bepalingen zijn, met uitzondering van [paragraaf 11](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=11&z=2006-08-02&g=2006-03-10), niet van toepassing op arbeid verricht:
+2. Dit hoofdstuk en de daarop berustende bepalingen zijn, met uitzondering van [paragraaf 11](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=11&z=2007-07-04&g=2006-08-02), niet van toepassing op arbeid verricht:
 
 - a. tijdens varen, vliegen en oefeningen;
 
@@ -456,7 +486,7 @@ Voor de toepassing van de bepalingen in dit hoofdstuk ten aanzien van de zondag,
 
 ##### Artikel 30j. Opleidingen
 
-Dit hoofdstuk en de daarop berustende bepalingen zijn, met uitzondering van [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=2&z=2006-08-02&g=2006-03-10), niet van toepassing op de ambtenaar die een opleiding volgt als bedoeld in [artikel 94](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=7b&artikel=94&z=2006-08-02&g=2006-03-10).
+Dit hoofdstuk en de daarop berustende bepalingen zijn, met uitzondering van [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=2&z=2007-07-04&g=2006-08-02), niet van toepassing op de ambtenaar die een opleiding volgt als bedoeld in [artikel 94](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=7b&artikel=94&z=2007-07-04&g=2006-08-02).
 
 ##### Artikel 30k. Inzet brandweer
 
@@ -464,7 +494,7 @@ Dit hoofdstuk en de daarop berustende bepalingen zijn van toepassing op arbeid v
 
 ##### Artikel 30l. Leidinggevenden en hoger personeel
 
-Dit hoofdstuk en de daarop berustende bepalingen zijn, met uitzondering van de [paragrafen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=2&z=2006-08-02&g=2006-03-10) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=11&z=2006-08-02&g=2006-03-10), en de [artikelen 30a](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=1&artikel=30a&z=2006-08-02&g=2006-03-10), [30b, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=1&artikel=30b&z=2006-08-02&g=2006-03-10), [30c](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=1&artikel=30c&z=2006-08-02&g=2006-03-10), [30da](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=1&artikel=30da&z=2006-08-02&g=2006-03-10). [30db](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=1&artikel=30db&z=2006-08-02&g=2006-03-10), [30h](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=1&artikel=30h&z=2006-08-02&g=2006-03-10) en [31g](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=8&artikel=31g&z=2006-08-02&g=2006-03-10), niet van toepassing op arbeid verricht door de ambtenaar van 18 jaar of ouder voor wie:
+Dit hoofdstuk en de daarop berustende bepalingen zijn, met uitzondering van de [paragrafen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=2&z=2007-07-04&g=2006-08-02) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=11&z=2007-07-04&g=2006-08-02), en de [artikelen 30a](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=1&artikel=30a&z=2007-07-04&g=2006-08-02), [30b, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=1&artikel=30b&z=2007-07-04&g=2006-08-02), [30c](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=1&artikel=30c&z=2007-07-04&g=2006-08-02), [30da](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=1&artikel=30da&z=2007-07-04&g=2006-08-02). [30db](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=1&artikel=30db&z=2007-07-04&g=2006-08-02), [30h](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=1&artikel=30h&z=2007-07-04&g=2006-08-02) en [31g](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=8&artikel=31g&z=2007-07-04&g=2006-08-02), niet van toepassing op arbeid verricht door de ambtenaar van 18 jaar of ouder voor wie:
 
 - a. een salarisschaal geldt van schaal 11 of hoger, en die uitsluitend of in hoofdzaak leiding geeft;
 
@@ -472,7 +502,7 @@ Dit hoofdstuk en de daarop berustende bepalingen zijn, met uitzondering van de [
 
 ##### Artikel 30m. Internationaal tewerkgesteld
 
-Dit hoofdstuk en de daarop berustende bepalingen zijn, met uitzondering van de [paragrafen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=2&z=2006-08-02&g=2006-03-10) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=11&z=2006-08-02&g=2006-03-10), en de [artikelen 30a](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=1&artikel=30a&z=2006-08-02&g=2006-03-10), [30b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=1&artikel=30b&z=2006-08-02&g=2006-03-10), [30da](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=1&artikel=30da&z=2006-08-02&g=2006-03-10), [30db](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=1&artikel=30db&z=2006-08-02&g=2006-03-10), [30c](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=1&artikel=30c&z=2006-08-02&g=2006-03-10), [30h](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=1&artikel=30h&z=2006-08-02&g=2006-03-10) en [31g, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=8&artikel=31g&z=2006-08-02&g=2006-03-10), niet van toepassing op arbeid verricht door de ambtenaar voor zover hij is tewerkgesteld buiten Nederland:
+Dit hoofdstuk en de daarop berustende bepalingen zijn, met uitzondering van de [paragrafen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=2&z=2007-07-04&g=2006-08-02) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=11&z=2007-07-04&g=2006-08-02), en de [artikelen 30a](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=1&artikel=30a&z=2007-07-04&g=2006-08-02), [30b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=1&artikel=30b&z=2007-07-04&g=2006-08-02), [30da](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=1&artikel=30da&z=2007-07-04&g=2006-08-02), [30db](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=1&artikel=30db&z=2007-07-04&g=2006-08-02), [30c](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=1&artikel=30c&z=2007-07-04&g=2006-08-02), [30h](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=1&artikel=30h&z=2007-07-04&g=2006-08-02) en [31g, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=8&artikel=31g&z=2007-07-04&g=2006-08-02), niet van toepassing op arbeid verricht door de ambtenaar voor zover hij is tewerkgesteld buiten Nederland:
 
 - a. onder leiding of toezicht van een orgaan van de Verenigde Naties;
 
@@ -482,7 +512,7 @@ Dit hoofdstuk en de daarop berustende bepalingen zijn, met uitzondering van de [
 
 ##### Artikel 30n. Medisch specialisten
 
-Dit hoofdstuk en de daarop berustende bepalingen zijn, met uitzondering van de [paragrafen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=2&z=2006-08-02&g=2006-03-10) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=11&z=2006-08-02&g=2006-03-10), en de [artikelen 30a](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=1&artikel=30a&z=2006-08-02&g=2006-03-10), [30b, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=1&artikel=30b&z=2006-08-02&g=2006-03-10), [30c](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=1&artikel=30c&z=2006-08-02&g=2006-03-10), [30da](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=1&artikel=30da&z=2006-08-02&g=2006-03-10), [30db](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=1&artikel=30db&z=2006-08-02&g=2006-03-10), [30h](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=1&artikel=30h&z=2006-08-02&g=2006-03-10) en [31g](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=8&artikel=31g&z=2006-08-02&g=2006-03-10), niet van toepassing op arbeid verricht door de ambtenaar van 18 jaar of ouder die werkzaam is als medisch specialist, als huisarts of als sociaal geneeskundige en als zodanig staat geregistreerd in één van de registers van de Koninklijke Nederlandsche Maatschappij tot bevordering der Geneeskunst, dan wel als tandheelkundig specialist en als zodanig staat ingeschreven in het specialistenregister van de Nederlandse Maatschappij tot bevordering der Tandheelkunde.
+Dit hoofdstuk en de daarop berustende bepalingen zijn, met uitzondering van de [paragrafen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=2&z=2007-07-04&g=2006-08-02) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=11&z=2007-07-04&g=2006-08-02), en de [artikelen 30a](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=1&artikel=30a&z=2007-07-04&g=2006-08-02), [30b, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=1&artikel=30b&z=2007-07-04&g=2006-08-02), [30c](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=1&artikel=30c&z=2007-07-04&g=2006-08-02), [30da](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=1&artikel=30da&z=2007-07-04&g=2006-08-02), [30db](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=1&artikel=30db&z=2007-07-04&g=2006-08-02), [30h](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=1&artikel=30h&z=2007-07-04&g=2006-08-02) en [31g](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=8&artikel=31g&z=2007-07-04&g=2006-08-02), niet van toepassing op arbeid verricht door de ambtenaar van 18 jaar of ouder die werkzaam is als medisch specialist, als huisarts of als sociaal geneeskundige en als zodanig staat geregistreerd in één van de registers van de Koninklijke Nederlandsche Maatschappij tot bevordering der Geneeskunst, dan wel als tandheelkundig specialist en als zodanig staat ingeschreven in het specialistenregister van de Nederlandse Maatschappij tot bevordering der Tandheelkunde.
 
 #### Paragraaf 3. Arbeidsduur en verlengde arbeidsduur
 
@@ -490,7 +520,7 @@ Dit hoofdstuk en de daarop berustende bepalingen zijn, met uitzondering van de [
 
 1. De arbeidsduur van de ambtenaar van 18 jaar of ouder bedraagt ten hoogste 10 uren per dienst, in elke periode van 4 achtereenvolgende weken ten hoogste gemiddeld 50 uren per week en in elke periode van 13 achtereenvolgende weken ten hoogste gemiddeld 45 uren per week.
 
-2. Het bevoegd gezag dient over de toepassing van het eerste lid overeenstemming te bereiken met de betrokken medezeggenschapscommissie, indien het dienstbelang het noodzakelijk maakt dat de ambtenaar meer dan 9 uren per dienst of meer dan 45 uren per week arbeid verricht.
+2. De commandant dient over de toepassing van het eerste lid overeenstemming te bereiken met de betrokken medezeggenschapscommissie, indien het dienstbelang het noodzakelijk maakt dat de ambtenaar meer dan 9 uren per dienst of meer dan 45 uren per week arbeid verricht.
 
 3. Indien het eerste en tweede lid niet wordt toegepast, dan bedraagt de arbeidsduur ten hoogste 9 uren per dienst, ten hoogste 45 uren per week en ten hoogste gemiddeld 40 uren per week in elke periode van 13 achtereenvolgende weken.
 
@@ -498,13 +528,13 @@ Dit hoofdstuk en de daarop berustende bepalingen zijn, met uitzondering van de [
 
 ##### Artikel 30p. Verlengde arbeidsduur
 
-1. Van de in [artikel 30o](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=3&artikel=30o&z=2006-08-02&g=2006-03-10) genoemde arbeidsduur kan voor de ambtenaar van 18 jaar of ouder worden afgeweken indien zich een onvoorziene wijziging van omstandigheden, incidenteel en niet periodiek, voordoet, of de aard van de arbeid, incidenteel en voor korte tijd, dergelijke afwijkingen noodzakelijk maakt.
+1. Van de in [artikel 30o](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=3&artikel=30o&z=2007-07-04&g=2006-08-02) genoemde arbeidsduur kan voor de ambtenaar van 18 jaar of ouder worden afgeweken indien zich een onvoorziene wijziging van omstandigheden, incidenteel en niet periodiek, voordoet, of de aard van de arbeid, incidenteel en voor korte tijd, dergelijke afwijkingen noodzakelijk maakt.
 
 2. De arbeidsduur bedraagt in situaties als bedoeld in het eerste lid ten hoogste 12 uren per dienst, ten hoogste 60 uren per week en in elke periode van 13 achtereenvolgende weken ten hoogste gemiddeld 48 uren per week.
 
-3. Op de afwijking, bedoeld in het eerste lid, is [artikel 31c, vierde lid, onderdelen b en c, en het zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=7&artikel=31c&z=2006-08-02&g=2006-03-10), niet van toepassing.
+3. Op de afwijking, bedoeld in het eerste lid, is [artikel 31c, vierde lid, onderdelen b en c, en het zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=7&artikel=31c&z=2007-07-04&g=2006-08-02), niet van toepassing.
 
-4. Indien als gevolg van de toepassing van het eerste lid arbeid wordt verricht in nachtdienst, welke arbeid eindigt vóór of op 02.00 uur, dan zijn hierop de in [paragraaf 5](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=5&z=2006-08-02&g=2006-03-10) opgenomen bepalingen ten aanzien van het verrichten van arbeid in nachtdienst niet van toepassing.
+4. Indien als gevolg van de toepassing van het eerste lid arbeid wordt verricht in nachtdienst, welke arbeid eindigt vóór of op 02.00 uur, dan zijn hierop de in [paragraaf 5](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=5&z=2007-07-04&g=2006-08-02) opgenomen bepalingen ten aanzien van het verrichten van arbeid in nachtdienst niet van toepassing.
 
 #### Paragraaf 3. Arbeidsduur en verlengde arbeidsduur
 
@@ -530,23 +560,23 @@ Dit hoofdstuk en de daarop berustende bepalingen zijn, met uitzondering van de [
 
 1. Voor de ambtenaar van 18 jaar of ouder die arbeid in nachtdienst verricht, bedraagt de arbeidsduur ten hoogste 9 uren per nachtdienst, in elke periode van 4 achtereenvolgende weken ten hoogste gemiddeld 50 uren per week en in elke periode van 13 achtereenvolgende weken ten hoogste gemiddeld 40 uren per week.
 
-2. Het bevoegd gezag dient over de toepassing van het eerste lid overeenstemming te bereiken met de betrokken medezeggenschapscommissie, indien het dienstbelang het noodzakelijk maakt dat de ambtenaar meer dan 8 uren per nachtdienst of meer dan 45 uren per week arbeid verricht.
+2. De commandant dient over de toepassing van het eerste lid overeenstemming te bereiken met de betrokken medezeggenschapscommissie, indien het dienstbelang het noodzakelijk maakt dat de ambtenaar meer dan 8 uren per nachtdienst of meer dan 45 uren per week arbeid verricht.
 
 3. Indien het eerste en tweede lid niet wordt toegepast, dan bedraagt de arbeidsduur ten hoogste 8 uren per nachtdienst, ten hoogste 45 uren per week en ten hoogste gemiddeld 40 uren per week in elke periode van 13 achtereenvolgende weken.
 
 ##### Artikel 30t. Verlengde arbeidsduur nachtdienst
 
-1. Van de in [artikel 30s](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=5&artikel=30s&z=2006-08-02&g=2006-03-10) genoemde arbeidsduur kan voor de ambtenaar van 18 jaar of ouder worden afgeweken indien zich een onvoorziene wijziging van omstandigheden, incidenteel en niet periodiek, voordoet, of de aard van de arbeid, incidenteel en voor korte tijd, dergelijke afwijkingen noodzakelijk maakt.
+1. Van de in [artikel 30s](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=5&artikel=30s&z=2007-07-04&g=2006-08-02) genoemde arbeidsduur kan voor de ambtenaar van 18 jaar of ouder worden afgeweken indien zich een onvoorziene wijziging van omstandigheden, incidenteel en niet periodiek, voordoet, of de aard van de arbeid, incidenteel en voor korte tijd, dergelijke afwijkingen noodzakelijk maakt.
 
 2. De arbeidsduur bedraagt in situaties als bedoeld in het eerste lid ten hoogste 10 uren per nachtdienst, ten hoogste 60 uren per week en in elke periode van 13 achtereenvolgende weken ten hoogste gemiddeld 40 uren per week.
 
-3. Op de afwijking, bedoeld in het eerste lid, is [artikel 31c, vierde lid, onderdelen b en c, en het zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=7&artikel=31c&z=2006-08-02&g=2006-03-10), niet van toepassing.
+3. Op de afwijking, bedoeld in het eerste lid, is [artikel 31c, vierde lid, onderdelen b en c, en het zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=7&artikel=31c&z=2007-07-04&g=2006-08-02), niet van toepassing.
 
 ##### Artikel 30u. Onafgebroken rusttijd nachtdienst
 
 1. De ambtenaar van 18 jaar of ouder heeft na het verrichten van arbeid in nachtdienst, welke eindigt ná 02.00 uur, recht op een onafgebroken rusttijd van tenminste 14 uren, welke éénmaal in elke aaneengesloten tijdruimte van 7 maal 24 uren mag worden bekort tot ten minste 8 uren.
 
-2. Het bevoegd gezag dient over de toepassing van de in het eerste lid bedoelde bekorting van de onafgebroken rusttijd tot ten minste 8 uren overeenstemming te bereiken met de betrokken medezeggenschapscommissie, indien het dienstbelang toepassing noodzakelijk maakt.
+2. De commandant dient over de toepassing van de in het eerste lid bedoelde bekorting van de onafgebroken rusttijd tot ten minste 8 uren overeenstemming te bereiken met de betrokken medezeggenschapscommissie, indien het dienstbelang toepassing noodzakelijk maakt.
 
 3. De in het eerste lid bedoelde tijdruimte vangt aan op het eerste tijdstip van de dag, waarop de ambtenaar arbeid verricht.
 
@@ -554,17 +584,17 @@ Dit hoofdstuk en de daarop berustende bepalingen zijn, met uitzondering van de [
 
 1. De ambtenaar van 18 jaar of ouder verricht in elke periode van 13 achtereenvolgende weken niet meer dan ten hoogste 52 maal arbeid in nachtdienst, indien de arbeid eindigt vóór of op 02.00 uur.
 
-2. Het bevoegd gezag dient over de toepassing van het eerste lid overeenstemming te bereiken met de betrokken medezeggenschapscommissie, indien het dienstbelang het noodzakelijk maakt dat de ambtenaar in een periode van 4 achtereenvolgende weken meer dan 16 maal arbeid in nachtdienst verricht, indien de arbeid eindigt vóór of op 02.00 uur.
+2. De commandant dient over de toepassing van het eerste lid overeenstemming te bereiken met de betrokken medezeggenschapscommissie, indien het dienstbelang het noodzakelijk maakt dat de ambtenaar in een periode van 4 achtereenvolgende weken meer dan 16 maal arbeid in nachtdienst verricht, indien de arbeid eindigt vóór of op 02.00 uur.
 
 ##### Artikel 30w. Aantal nachtdiensten die eindigen ná 02.00 uur
 
 1. De ambtenaar van 18 jaar of ouder verricht in elke periode van 13 achtereenvolgende weken niet meer dan ten hoogste 28 maal arbeid in nachtdienst, indien de arbeid eindigt ná 02.00 uur.
 
-2. Het bevoegd gezag dient over de toepassing van het eerste lid overeenstemming te bereiken met de betrokken medezeggenschapscommissie, indien het dienstbelang het noodzakelijk maakt dat de ambtenaar in elke periode van 4 achtereenvolgende weken meer dan 10 maal en in elke periode van13 achtereenvolgende weken meer dan 25 maal arbeid in nachtdienst verricht, indien die arbeid eindigt ná 02.00 uur.
+2. De commandant dient over de toepassing van het eerste lid overeenstemming te bereiken met de betrokken medezeggenschapscommissie, indien het dienstbelang het noodzakelijk maakt dat de ambtenaar in elke periode van 4 achtereenvolgende weken meer dan 10 maal en in elke periode van13 achtereenvolgende weken meer dan 25 maal arbeid in nachtdienst verricht, indien die arbeid eindigt ná 02.00 uur.
 
 ##### Artikel 30x. Afwijking aantal nachtdiensten
 
-1. In afwijking van artikel 30w, eerste lid, kan het bevoegd gezag dit artikel toepassen.
+1. In afwijking van [artikel 30w, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=5&artikel=30w&z=2007-07-04&g=2006-08-02), kan de commandant dit artikel toepassen.
 
 2. Indien de aard van de arbeid met zich brengt dat arbeid in nachtdienst worden verricht en dit door het op een andere wijze organiseren van de arbeid redelijkerwijs niet is te voorkomen, verricht de ambtenaar van 18 jaar of ouder:
 
@@ -572,13 +602,13 @@ Dit hoofdstuk en de daarop berustende bepalingen zijn, met uitzondering van de [
 
 - b. hetzij ten hoogste 20 uren in elke periode van 2 achtereenvolgende weken arbeid tussen 00.00 uur en 06.00 uur.
 
-3. Het bevoegd gezag dient over de toepassing van het eerste en tweede lid overeenstemming te bereiken met de betrokken medezeggenschapscommissie, indien het dienstbelang toepassing noodzakelijk maakt.
+3. De commandant dient over de toepassing van het eerste en tweede lid overeenstemming te bereiken met de betrokken medezeggenschapscommissie, indien het dienstbelang toepassing noodzakelijk maakt.
 
 ##### Artikel 30y. Rusttijd na reeks nachtdiensten
 
 1. Na een reeks van ten minste 3 en ten hoogste 7 maal achtereen arbeid in nachtdienst te hebben verricht, heeft de ambtenaar van 18 jaar of ouder recht op een onafgebroken rusttijd van ten minste 48 uren.
 
-2. Het bevoegd gezag dient over de toepassing van het eerste lid overeenstemming te bereiken met de betrokken medezeggenschapscommissie, indien het dienstbelang noodzakelijk maakt dat de ambtenaar 7 maal achtereen arbeid in nachtdienst verricht die eindigt vóór of op 02.00 uur, hetzij 6 of 7 maal achtereen arbeid in nachtdienst verricht die eindigt ná 02.00 uur.
+2. De commandant dient over de toepassing van het eerste lid overeenstemming te bereiken met de betrokken medezeggenschapscommissie, indien het dienstbelang noodzakelijk maakt dat de ambtenaar 7 maal achtereen arbeid in nachtdienst verricht die eindigt vóór of op 02.00 uur, hetzij 6 of 7 maal achtereen arbeid in nachtdienst verricht die eindigt ná 02.00 uur.
 
 3. Indien het eerste en tweede lid niet wordt toegepast, dan heeft de ambtenaar,:
 
@@ -590,17 +620,17 @@ recht op een onafgebroken rusttijd van ten minste 48 uren.
 
 ##### Artikel 30z. Referentieperiode
 
-1. In afwijking van artikel 30s, eerste lid, en artikel 30t, tweede lid, ten aanzien van het gemiddeld aantal uren per week in elke periode van 13 achtereenvolgende weken dat arbeid in nachtdienst wordt verricht, kan het bevoegd gezag dit artikel toepassen.
+1. In afwijking van [artikel 30s, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=5&artikel=30s&z=2007-07-04&g=2006-08-02), en [artikel 30t, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=5&artikel=30t&z=2007-07-04&g=2006-08-02), ten aanzien van het gemiddeld aantal uren per week in elke periode van 13 achtereenvolgende weken dat arbeid in nachtdienst wordt verricht, kan de commandant dit artikel toepassen.
 
 2. Indien zich een onvoorziene wijziging van omstandigheden voordoet of de aard van de arbeid het noodzakelijk maakt dat de ambtenaar van 18 jaar of ouder slechts incidenteel of voor korte tijd arbeid in nachtdienst verricht en dit door het op een andere wijze organiseren van de arbeid redelijkerwijs niet is te voorkomen, verricht de ambtenaar in elke periode van 52 achtereenvolgende weken gemiddeld 40 uren per week arbeid.
 
-3. Het bevoegd gezag dient over de toepassing van het eerste en tweede lid overeenstemming te bereiken met de betrokken medezeggenschapscommissie, indien het dienstbelang toepassing noodzakelijk maakt.
+3. De commandant dient over de toepassing van het eerste en tweede lid overeenstemming te bereiken met de betrokken medezeggenschapscommissie, indien het dienstbelang toepassing noodzakelijk maakt.
 
 #### Paragraaf 6. Afwijkende bepalingen inzake arbeidsduur en rusttijd
 
 ##### Artikel 31a. Noodzakelijke werkzaamheden
 
-1. In afwijking van de artikelen 30o, 30p, 30s, en 30t, ten aanzien van de arbeidsduur per dienst onderscheidenlijk per nachtdienst, kan het bevoegd gezag dit artikel toepassen.
+1. In afwijking van de [artikelen 30o](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=3&artikel=30o&z=2007-07-04&g=2006-08-02), [30p](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=3&artikel=30p&z=2007-07-04&g=2006-08-02), [30s](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=5&artikel=30s&z=2007-07-04&g=2006-08-02), en [30t](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=5&artikel=30t&z=2007-07-04&g=2006-08-02), ten aanzien van de arbeidsduur per dienst onderscheidenlijk per nachtdienst, kan de commandant dit artikel toepassen.
 
 2. Indien de arbeid geen uitstel gedogen, en door het nemen van andere maatregelen redelijkerwijs niet is te voorkomen, verricht de ambtenaar van 18 jaar of ouder ten hoogste éénmaal in elke periode van 2 achtereenvolgende weken 14 uren arbeid per dienst onderscheidenlijk per nachtdienst.
 
@@ -612,11 +642,11 @@ recht op een onafgebroken rusttijd van ten minste 48 uren.
 
 ##### Artikel 31b. Overdracht van diensten
 
-1. Het bevoegd gezag kan, in afwijking van de in dit hoofdstuk opgenomen bepalingen ten aanzien van de arbeidsduur per dienst onderscheidenlijk per nachtdienst en de onafgebroken rusttijd, dit artikel toepassen.
+1. De commandant kan, in afwijking van de in dit hoofdstuk opgenomen bepalingen ten aanzien van de arbeidsduur per dienst onderscheidenlijk per nachtdienst en de onafgebroken rusttijd, dit artikel toepassen.
 
 2. De arbeidsduur per dienst of per nachtdienst onderscheidenlijk de onafgebroken rusttijd wordt met ten hoogste 15 achtereenvolgende minuten verlengd onderscheidenlijk ingekort, indien de arbeid van de ambtenaar van 18 jaar of ouder aan het eind van de dienst wordt overgenomen en direct daaropvolgend worden voortgezet door een andere ambtenaar en de goede voortgang van die arbeid overdracht noodzakelijk maakt.
 
-3. Op de afwijking bedoeld in het tweede lid zijn de artikelen 30v, 30w en 30x, ten aanzien van het aantal malen dat arbeid in nachtdienst wordt verricht, niet van toepassing.
+3. Op de afwijking bedoeld in het tweede lid zijn de [artikelen 30v](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=5&artikel=30v&z=2007-07-04&g=2006-08-02), [30w](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=5&artikel=30w&z=2007-07-04&g=2006-08-02) en [30x](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=5&artikel=30x&z=2007-07-04&g=2006-08-02), ten aanzien van het aantal malen dat arbeid in nachtdienst wordt verricht, niet van toepassing.
 
 #### Paragraaf 6. Afwijkende bepalingen inzake arbeidsduur en rusttijd
 
@@ -626,7 +656,7 @@ recht op een onafgebroken rusttijd van ten minste 48 uren.
 
 2. De in het eerste lid bedoelde pauze bedraagt ten minste een half uur aaneengesloten, welke mag worden gesplitst in twee pauzes van ten minste 15 achtereenvolgende minuten.
 
-3. Het bevoegd gezag dient over de toepassing van het tweede lid overeenstemming te bereiken met de betrokken medezeggenschapscommissie, indien het dienstbelang toepassing noodzakelijk maakt.
+3. De commandant dient over de toepassing van het tweede lid overeenstemming te bereiken met de betrokken medezeggenschapscommissie, indien het dienstbelang toepassing noodzakelijk maakt.
 
 4. Indien het tweede lid niet wordt toegepast, dan wordt, met inachtneming van het eerste lid, de arbeid van de ambtenaar:
 
@@ -646,7 +676,7 @@ recht op een onafgebroken rusttijd van ten minste 48 uren.
 
 2. De in het eerste lid bedoelde pauze bedraagt ten minste een half uur aaneengesloten, welke mag worden gesplitst in twee pauzes van ten minste 15 achtereenvolgende minuten.
 
-3. Het bevoegd gezag dient over de toepassing van het tweede lid overeenstemming te bereiken met de betrokken medezeggenschapscommissie, indien het dienstbelang toepassing noodzakelijk maakt.
+3. De commandant dient over de toepassing van het tweede lid overeenstemming te bereiken met de betrokken medezeggenschapscommissie, indien het dienstbelang toepassing noodzakelijk maakt.
 
 4. Indien het tweede lid niet wordt toegepast, dan wordt, met inachtneming van het eerste lid, de arbeid van de jeugdige ambtenaar:
 
@@ -660,63 +690,63 @@ recht op een onafgebroken rusttijd van ten minste 48 uren.
 
 ##### Artikel 31e. Consignatie tijdens pauze
 
-1. Het bevoegd gezag kan van het bepaalde in artikel 30a, onderdeel h, en artikel 31j, tweede lid, afwijken, indien de aard van de arbeid van de ambtenaar van 18 jaar of ouder het noodzakelijk maakt dat hij tijdens de pauze bereikbaar is onderscheidenlijk op de werkplek aanwezig is om op oproep zo spoedig mogelijk die arbeid te verrichten, en dit door het op een andere wijze organiseren van de arbeid redelijkerwijs niet is te voorkomen.
+1. De commandant kan van het bepaalde in [artikel 30a, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=1&artikel=30a&z=2007-07-04&g=2006-08-02), en [artikel 31j, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=9&artikel=31j&z=2007-07-04&g=2006-08-02), afwijken, indien de aard van de arbeid van de ambtenaar van 18 jaar of ouder het noodzakelijk maakt dat hij tijdens de pauze bereikbaar is onderscheidenlijk op de werkplek aanwezig is om op oproep zo spoedig mogelijk die arbeid te verrichten, en dit door het op een andere wijze organiseren van de arbeid redelijkerwijs niet is te voorkomen.
 
-2. Het bevoegd gezag dient over de toepassing van het eerste lid overeenstemming te bereiken met de betrokken medezeggenschapscommissie, indien het dienstbelang toepassing noodzakelijk maakt.
+2. De commandant dient over de toepassing van het eerste lid overeenstemming te bereiken met de betrokken medezeggenschapscommissie, indien het dienstbelang toepassing noodzakelijk maakt.
 
 3. Voor de toepassing van het eerste lid geldt de tijd tijdens de werkplekgebonden pauze waarop de arbeid van de ambtenaar zich uitsluitend beperkt tot de verplichte aanwezigheid op de werkplek, als pauze.
 
 ##### Artikel 31f. Afwijking pauzeverplichting
 
-1. Het bevoegd gezag kan van het bepaalde in artikel 31c, eerste lid, afwijken, indien de ambtenaar van 18 jaar of ouder:
+1. De commandant kan van het bepaalde in [artikel 31c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=7&artikel=31c&z=2007-07-04&g=2006-08-02), afwijken, indien de ambtenaar van 18 jaar of ouder:
 
 - a. arbeid verricht zonder enig direct contact met een andere ambtenaar die vergelijkbare arbeid verricht, of
 
 - b. indien de aard van de arbeid met zich brengt dat de afwisseling van de arbeid per dienst onderscheidenlijk per nachtdienst door een pauze onmogelijk is en dit door het op een andere wijze organiseren van de arbeid redelijkerwijs niet is te voorkomen.
 
-2. Het bevoegd gezag dient over de toepassing van het eerste lid overeenstemming te bereiken met de betrokken medezeggenschapscommissie, indien het dienstbelang toepassing noodzakelijk maakt.
+2. De commandant dient over de toepassing van het eerste lid overeenstemming te bereiken met de betrokken medezeggenschapscommissie, indien het dienstbelang toepassing noodzakelijk maakt.
 
 3. Indien het eerste lid wordt toegepast, verricht de ambtenaar in elke periode van 52 achtereenvolgende weken ten hoogste gemiddeld 40 uren per week arbeid.
 
-4. Indien het eerste lid wordt toegepast, verricht de ambtenaar in afwijking van artikel 31i, tweede lid, en artikel 31o, tweede lid, ten hoogste 12 uren per dienst onderscheidenlijk per nachtdienst arbeid.
+4. Indien het eerste lid wordt toegepast, verricht de ambtenaar in afwijking van [artikel 31i, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=8&artikel=31i&z=2007-07-04&g=2006-08-02), en [artikel 31o, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=10&artikel=31o&z=2007-07-04&g=2006-08-02), ten hoogste 12 uren per dienst onderscheidenlijk per nachtdienst arbeid.
 
 #### Paragraaf 8. Werk- en rusttijden op bepaalde dagen
 
 ##### Artikel 31g. Werk- en rusttijden op bepaalde dagen
 
-1. Op zaterdag en zondag wordt aan de ambtenaar geen arbeid opgedragen. Hiervan kan slechts worden afgeweken indien naar het oordeel van het bevoegd gezag het dienstbelang zulks onvermijdelijk maakt. Indien de jeugdige ambtenaar op zondag arbeid verricht, dan wordt door hem op de dag voorafgaande aan die zondag geen dienst verricht.
+1. Op zaterdag en zondag wordt aan de ambtenaar geen arbeid opgedragen. Hiervan kan slechts worden afgeweken indien naar het oordeel van de commandant het dienstbelang zulks onvermijdelijk maakt. Indien de jeugdige ambtenaar op zondag arbeid verricht, dan wordt door hem op de dag voorafgaande aan die zondag geen dienst verricht.
 
 2. Het eerste lid geldt mede voor Nieuwjaarsdag, Eerste en Tweede Paasdag, Hemelvaartsdag, Eerste en Tweede Pinksterdag, Eerste en Tweede Kerstdag, Koninginnedag en 5 mei en de door Onze Minister aan te wijzen feest- of gedenkdagen.
 
 3. De ambtenaar verricht geen arbeid op ten minste 26 zondagen per periode van 52 weken.
 
-4. Indien naar het oordeel van het bevoegd gezag de belangen van de dienst zich hiertegen niet verzetten, wordt de ambtenaar, aan wie op een zondag of een dag als bedoeld in het tweede lid, dienst is opgedragen, tijdens de werktijd in de gelegenheid gesteld de godsdienstuitoefening van de gezindte waartoe hij behoort bij te wonen.
+4. Indien naar het oordeel van de commandant de belangen van de dienst zich hiertegen niet verzetten, wordt de ambtenaar, aan wie op een zondag of een dag als bedoeld in het tweede lid, dienst is opgedragen, tijdens de werktijd in de gelegenheid gesteld de godsdienstuitoefening van de gezindte waartoe hij behoort bij te wonen.
 
 ##### Artikel 31h. Arbeidsduur voorafgaand aan feest- of gedenkdagen
 
-1. In afwijking van de artikelen 30p en 30t ten aanzien van de arbeidsduur per dienst onderscheidenlijk per nachtdienst kan het bevoegd gezag dit artikel toepassen.
+1. In afwijking van de [artikelen 30p](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=3&artikel=30p&z=2007-07-04&g=2006-08-02) en [30t](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=5&artikel=30t&z=2007-07-04&g=2006-08-02) ten aanzien van de arbeidsduur per dienst onderscheidenlijk per nachtdienst kan de commandant dit artikel toepassen.
 
 2. Indien de aard van de arbeid, of de bedrijfsomstandigheden, in verband met de Nieuwjaarsdag, Eerste en Tweede Paasdag, Hemelvaartsdag, Eerste en Tweede Pinksterdag, Eerste en Tweede Kerstdag, Koninginnedag of 5 december dit noodzakelijk maakt, verricht de ambtenaar van 18 jaar of ouder in de aaneengesloten periode van 7 dagen voorafgaand aan die dag ten hoogste tweemaal 14 uren per dienst onderscheidenlijk per nachtdienst arbeid.
 
-3. Het bevoegd gezag dient over de toepassing van het eerste en tweede lid overeenstemming te bereiken met de betrokken medezeggenschapscommissie, indien het dienstbelang toepassing noodzakelijk maakt.
+3. De commandant dient over de toepassing van het eerste en tweede lid overeenstemming te bereiken met de betrokken medezeggenschapscommissie, indien het dienstbelang toepassing noodzakelijk maakt.
 
-4. Artikel 31a is niet van toepassing indien het eerste en tweede lid wordt toegepast.
+4. [Artikel 31a](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=6&artikel=31a&z=2007-07-04&g=2006-08-02) is niet van toepassing indien het eerste en tweede lid wordt toegepast.
 
 ##### Artikel 31i. Arbeidsduur op feest- of gedenkdagen
 
-1. In afwijking van artikel 30o, eerste lid, en artikel 30s, eerste lid, ten aanzien van de arbeidsduur per dienst onderscheidenlijk per nachtdienst, en artikel 30u, eerste lid, ten aanzien van de onafgebroken rusttijd na een nachtdienst, kan het bevoegd gezag dit artikel toepassen.
+1. In afwijking van [artikel 30o, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=3&artikel=30o&z=2007-07-04&g=2006-08-02), en [artikel 30s, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=5&artikel=30s&z=2007-07-04&g=2006-08-02), ten aanzien van de arbeidsduur per dienst onderscheidenlijk per nachtdienst, en [artikel 30u, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=5&artikel=30u&z=2007-07-04&g=2006-08-02), ten aanzien van de onafgebroken rusttijd na een nachtdienst, kan de commandant dit artikel toepassen.
 
 2. De ambtenaar van 18 jaar of ouder verricht, in verband met de Nieuwjaarsdag, Eerste en Tweede Paasdag, Hemelvaartsdag, Eerste en Tweede Pinksterdag en Eerste en Tweede Kerstdag, in de tijdruimte tussen de dag voorafgaand aan bedoelde dagen 18.00 uur en de op deze dagen volgende dag 08.00 uur ten hoogste 11 uren per dienst onderscheidenlijk per nachtdienst arbeid. De ambtenaar heeft na het verrichten van die arbeid een onafgebroken rusttijd van ten minste 12 uren.
 
-3. Indien het eerste en tweede lid wordt toegepast, dan organiseert het bevoegd gezag de arbeid zodanig, dat zoveel mogelijk ambtenaren op de in het tweede lid bedoelde dagen geen arbeid verricht in de tijdruimte gelegen tussen 00.00 uur en de daarop volgende dag 06.00 uur.
+3. Indien het eerste en tweede lid wordt toegepast, dan organiseert de commandant de arbeid zodanig, dat zoveel mogelijk ambtenaren op de in het tweede lid bedoelde dagen geen arbeid verricht in de tijdruimte gelegen tussen 00.00 uur en de daarop volgende dag 06.00 uur.
 
-4. Het bevoegd gezag dient over de toepassing van het eerste en tweede lid overeenstemming te bereiken met de betrokken medezeggenschapscommissie, indien het dienstbelang toepassing noodzakelijk maakt.
+4. De commandant dient over de toepassing van het eerste en tweede lid overeenstemming te bereiken met de betrokken medezeggenschapscommissie, indien het dienstbelang toepassing noodzakelijk maakt.
 
 #### Paragraaf 9. Consignatie en bijzondere vormen van consignatie
 
 ##### Artikel 31j. Consignatie
 
-1. Het bevoegd gezag kan de ambtenaar van 18 jaar of ouder consignatie opleggen.
+1. De commandant kan de ambtenaar van 18 jaar of ouder consignatie opleggen.
 
 2. Ten minste gedurende 2 maal een aaneengesloten tijdruimte van 7 maal 24 uren in elke periode van 4 achtereenvolgende weken wordt geen consignatie opgelegd.
 
@@ -730,13 +760,13 @@ recht op een onafgebroken rusttijd van ten minste 48 uren.
 
 7. De arbeid die voortvloeit uit een oproep wordt voor de toepassing van de in dit hoofdstuk opgenomen bepalingen ten aanzien van rusttijd en pauze buiten beschouwing gelaten.
 
-8. Op de arbeid die voortvloeit uit een oproep zijn de bepalingen in paragraaf 5 ten aanzien van het aantal malen dat arbeid in nachtdienst wordt verricht niet van toepassing.
+8. Op de arbeid die voortvloeit uit een oproep zijn de bepalingen in [paragraaf 5](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=5&z=2007-07-04&g=2006-08-02) ten aanzien van het aantal malen dat arbeid in nachtdienst wordt verricht niet van toepassing.
 
 ##### Artikel 31k. Aanwezigheidsdienst
 
-1. In afwijking van artikel 31j, tweede lid, kan het bevoegd gezag de ambtenaar van 18 jaar of ouder ten hoogste 3 maal in elke aaneengesloten tijdruimte van 7 maal 24 uren en ten hoogste 26 maal in elke periode van 13 achtereenvolgende weken een aanwezigheidsdienst opleggen.
+1. In afwijking van [artikel 31j, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=9&artikel=31j&z=2007-07-04&g=2006-08-02), kan de commandant de ambtenaar van 18 jaar of ouder ten hoogste 3 maal in elke aaneengesloten tijdruimte van 7 maal 24 uren en ten hoogste 26 maal in elke periode van 13 achtereenvolgende weken een aanwezigheidsdienst opleggen.
 
-2. In afwijking van het eerste lid kan het bevoegd gezag de ambtenaar gedurende ten hoogste 6 weken in elke periode van 52 achtereenvolgende weken ten hoogste 4 maal in elke aaneengesloten tijdruimte van 7 maal 24 uren en ten hoogste 26 maal in elke periode van 13 achtereenvolgende weken een aanwezigheidsdienst opleggen.
+2. In afwijking van het eerste lid kan de commandant de ambtenaar gedurende ten hoogste 6 weken in elke periode van 52 achtereenvolgende weken ten hoogste 4 maal in elke aaneengesloten tijdruimte van 7 maal 24 uren en ten hoogste 26 maal in elke periode van 13 achtereenvolgende weken een aanwezigheidsdienst opleggen.
 
 3. Als het tweede lid wordt toegepast heeft de ambtenaar na de aanwezigheidsdienst of reeks van aaneengesloten aanwezigheidsdiensten een onafgebroken rusttijd die ten minste even lang is als de voorafgaande aanwezigheidsdienst onderscheidenlijk reeks van aaneengesloten aanwezigheidsdiensten.
 
@@ -752,13 +782,13 @@ recht op een onafgebroken rusttijd van ten minste 48 uren.
 
 9. De arbeid die voortvloeit uit een oproep wordt voor de toepassing van de in dit hoofdstuk opgenomen bepalingen ten aanzien van rusttijd en pauze buiten beschouwing gelaten.
 
-10. Op de arbeid die voortvloeit uit een oproep zijn de bepalingen in paragraaf 5, ten aanzien van het aantal malen dat arbeid in nachtdienst wordt verricht, niet van toepassing.
+10. Op de arbeid die voortvloeit uit een oproep zijn de bepalingen in [paragraaf 5](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=5&z=2007-07-04&g=2006-08-02), ten aanzien van het aantal malen dat arbeid in nachtdienst wordt verricht, niet van toepassing.
 
 ##### Artikel 31l. Aanwezigheidsdienst brandweer
 
 1. Dit artikel is uitsluitend van toepassing op de ambtenaar van 18 jaar of ouder die met goed gevolg een brandweeropleiding heeft afgesloten en die als zodanig werkzaam is, alsmede de ambtenaar van 18 jaar of ouder die in directe samenhang met voornoemde ambtenaar arbeid verricht.
 
-2. In afwijking van artikel 31j, tweede lid, kan het bevoegd gezag de ambtenaar ten hoogste 4 maal in elke aaneengesloten tijdruimte van 7 maal 24 uren, ten hoogste 46 maal in elke periode van 13 achtereenvolgende weken en ten hoogste 124 maal in elke periode van 52 achtereenvolgende weken een aanwezigheidsdienst opleggen.
+2. In afwijking van [artikel 31j, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=9&artikel=31j&z=2007-07-04&g=2006-08-02), kan de commandant de ambtenaar ten hoogste 4 maal in elke aaneengesloten tijdruimte van 7 maal 24 uren, ten hoogste 46 maal in elke periode van 13 achtereenvolgende weken en ten hoogste 124 maal in elke periode van 52 achtereenvolgende weken een aanwezigheidsdienst opleggen.
 
 3. Indien het tweede lid wordt toegepast dan:
 
@@ -774,11 +804,11 @@ recht op een onafgebroken rusttijd van ten minste 48 uren.
 
 7. De arbeid die voortvloeit uit een oproep wordt voor de toepassing van de in dit hoofdstuk opgenomen bepalingen ten aanzien van rusttijd en pauze buiten beschouwing gelaten.
 
-8. Op de arbeid die voortvloeit uit een oproep zijn de bepalingen in paragraaf 5, ten aanzien van het aantal malen dat arbeid in nachtdienst wordt verricht, niet van toepassing.
+8. Op de arbeid die voortvloeit uit een oproep zijn de bepalingen in [paragraaf 5](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=5&z=2007-07-04&g=2006-08-02), ten aanzien van het aantal malen dat arbeid in nachtdienst wordt verricht, niet van toepassing.
 
 ##### Artikel 31m. Piket
 
-1. In afwijking van artikel 31j, tweede lid, kan het bevoegd gezag de ambtenaar van 18 jaar of ouder ten hoogste een aaneengesloten tijdruimte van 7 maal 24 uren piket opleggen.
+1. In afwijking van [artikel 31j, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=9&artikel=31j&z=2007-07-04&g=2006-08-02), kan de commandant de ambtenaar van 18 jaar of ouder ten hoogste een aaneengesloten tijdruimte van 7 maal 24 uren piket opleggen.
 
 2. Als piket wordt opgelegd, dan wordt de ambtenaar ten minste gedurende 8 maal een aaneengesloten tijdruimte van 7 maal 24 uren in elke periode van 13 achtereenvolgende weken geen piket, aanwezigheidsdienst of consignatie opgelegd.
 
@@ -794,7 +824,7 @@ recht op een onafgebroken rusttijd van ten minste 48 uren.
 
 8. De arbeid die voortvloeit uit een oproep wordt voor de toepassing van de in dit hoofdstuk opgenomen bepalingen ten aanzien van rusttijd en pauze buiten beschouwing gelaten.
 
-9. Op de arbeid die voortvloeit uit een oproep zijn de bepalingen in paragraaf 5 ten aanzien van het aantal malen dat arbeid in nachtdienst wordt verricht niet van toepassing.
+9. Op de arbeid die voortvloeit uit een oproep zijn de bepalingen in [paragraaf 5](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=5&z=2007-07-04&g=2006-08-02) ten aanzien van het aantal malen dat arbeid in nachtdienst wordt verricht niet van toepassing.
 
 #### Paragraaf 10. Bijzondere bepalingen voor continu- en ploegendienst
 
@@ -804,21 +834,21 @@ Deze paragraaf is uitsluitend van toepassing op arbeid in continu- of ploegendie
 
 ##### Artikel 31o. Arbeidsduur op zaterdag en zondag
 
-1. In afwijking van artikel 30o, eerste lid, en artikel 30s, eerste lid, ten aanzien van de arbeidsduur per dienst onderscheidenlijk per nachtdienst, en artikel 30u, eerste lid, ten aanzien van de onafgebroken rusttijd na een nachtdienst, kan het bevoegd gezag dit artikel toepassen.
+1. In afwijking van [artikel 30o, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=3&artikel=30o&z=2007-07-04&g=2006-08-02), en [artikel 30s, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=5&artikel=30s&z=2007-07-04&g=2006-08-02), ten aanzien van de arbeidsduur per dienst onderscheidenlijk per nachtdienst, en [artikel 30u, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=5&artikel=30u&z=2007-07-04&g=2006-08-02), ten aanzien van de onafgebroken rusttijd na een nachtdienst, kan de commandant dit artikel toepassen.
 
 2. De ambtenaar verricht in de tijdruimte gelegen tussen vrijdag 18.00 uur en de daaropvolgende maandag 08.00 uur ten hoogste 11 uren per dienst onderscheidenlijk per nachtdienst arbeid.
 
 3. Indien het eerste en tweede lid wordt toegepast heeft de ambtenaar na het verrichten van die arbeid een onafgebroken rusttijd van ten minste 12 uren, en verricht hij ten minste 2 maal in elke periode van 4 achtereenvolgende weken geen arbeid in de tijdruimte gelegen tussen zaterdag 00.00 uur en de daaropvolgende maandag 06.00 uur.
 
-4. Het bevoegd gezag dient over de toepassing van het eerste en tweede lid overeenstemming te bereiken met de betrokken medezeggenschapscommissie, indien het dienstbelang toepassing noodzakelijk maakt.
+4. De commandant dient over de toepassing van het eerste en tweede lid overeenstemming te bereiken met de betrokken medezeggenschapscommissie, indien het dienstbelang toepassing noodzakelijk maakt.
 
 ##### Artikel 31p. Onafgebroken rusttijd continu- en ploegendienst
 
-1. In afwijking van artikel 30r, eerste lid, kan het bevoegd gezag dit artikel toepassen.
+1. In afwijking van [artikel 30r, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=4&artikel=30r&z=2007-07-04&g=2006-08-02), kan de commandant dit artikel toepassen.
 
 2. De ambtenaar heeft recht op een onafgebroken rusttijd van ten minste 92 uren in elke aaneengesloten tijdruimte van 11 maal 24 uren, welke rusttijd éénmaal in elke periode van 5 achtereenvolgende weken mag worden bekort tot 72 uren.
 
-3. Het bevoegd gezag dient over de toepassing van het eerste en tweede lid overeenstemming te bereiken met de betrokken medezeggenschapscommissie, indien het dienstbelang toepassing noodzakelijk maakt.
+3. De commandant dient over de toepassing van het eerste en tweede lid overeenstemming te bereiken met de betrokken medezeggenschapscommissie, indien het dienstbelang toepassing noodzakelijk maakt.
 
 4. Indien het eerste en tweede lid niet wordt toegepast, dan heeft de ambtenaar recht op een onafgebroken rusttijd van hetzij ten minste 36 uren in elke aaneengesloten tijdruimte van 7 maal 24 uren, hetzij ten minste 92 uren in elke aaneengesloten tijdruimte van 11 maal 24 uren.
 
@@ -826,57 +856,57 @@ Deze paragraaf is uitsluitend van toepassing op arbeid in continu- of ploegendie
 
 ##### Artikel 31q. Pauze continu- en ploegendienst
 
-1. In afwijking van artikel 31c, tweede lid, kan het bevoegd gezag dit artikel toepassen.
+1. In afwijking van [artikel 31c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=7&artikel=31c&z=2007-07-04&g=2006-08-02), kan de commandant dit artikel toepassen.
 
 2. Indien de arbeidsduur meer dan 5½ uur per dienst bedraagt, dan wordt de arbeid van de ambtenaar afgewisseld door een pauze.
 
-3. Het bevoegd gezag dient over de toepassing van het eerste en tweede lid overeenstemming te bereiken met de betrokken medezeggenschapscommissie, indien het dienstbelang toepassing noodzakelijk maakt.
+3. De commandant dient over de toepassing van het eerste en tweede lid overeenstemming te bereiken met de betrokken medezeggenschapscommissie, indien het dienstbelang toepassing noodzakelijk maakt.
 
 ##### Artikel 31r. Doorstaan in continu- en ploegendienst
 
-1. Indien zich incidentele en onvoorziene omstandigheden voordoen, waardoor het aantal ambtenaren in een ploeg onder het vereiste minimum komt, kan het bevoegd gezag afwijken van artikel 30s, eerste lid, ten aanzien van de arbeidsduur per nachtdienst, en artikel 30u, eerste lid.
+1. Indien zich incidentele en onvoorziene omstandigheden voordoen, waardoor het aantal ambtenaren in een ploeg onder het vereiste minimum komt, kan de commandant afwijken van [artikel 30s, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=5&artikel=30s&z=2007-07-04&g=2006-08-02), ten aanzien van de arbeidsduur per nachtdienst, en [artikel 30u, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=5&artikel=30u&z=2007-07-04&g=2006-08-02).
 
-2. Onverminderd het gestelde in artikel 31i, en artikel 31o ten aanzien van de zondag,:
+2. Onverminderd het gestelde in [artikel 31i](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=8&artikel=31i&z=2007-07-04&g=2006-08-02), en [artikel 31o](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=10&artikel=31o&z=2007-07-04&g=2006-08-02) ten aanzien van de zondag,:
 
 - a. verricht de ambtenaar bij toepassing van het eerste lid gedurende ten hoogste 2 maal in elke periode van 4 achtereenvolgende weken en 8 maal in elke periode van 52 achtereenvolgende weken, ten hoogste 11 uur per nachtdienst arbeid;
 
 - b. heeft de ambtenaar na het verrichten van die arbeid recht op een onafgebroken rusttijd van ten minste 12 uren.
 
-3. Het bevoegd gezag dient over de toepassing van het eerste en tweede lid overeenstemming te bereiken met de betrokken medezeggenschapscommissie, indien het dienstbelang toepassing noodzakelijk maakt.
+3. De commandant dient over de toepassing van het eerste en tweede lid overeenstemming te bereiken met de betrokken medezeggenschapscommissie, indien het dienstbelang toepassing noodzakelijk maakt.
 
 #### Paragraaf 11. Bijzondere bepalingen voor vrouwelijke ambtenaren
 
 ##### Artikel 31s. Werk- en rusttijden tijdens de zwangerschap
 
-1. De arbeid van een zwangere ambtenaar wordt zodanig ingericht, dat rekening wordt gehouden met haar specifieke omstandigheden. Het bevoegd gezag voldoet, met inachtneming van het tweede tot en met vijfde lid, aan de voor hem uit de eerste volzin voortvloeiende verplichting binnen een redelijke termijn nadat een aanvraag daartoe door de zwangere ambtenaar is gedaan. Bij deze aanvraag wordt desgevraagd een schriftelijke verklaring overgelegd van een geneeskundige of een verloskundige waaruit blijkt, dat de betrokken ambtenaar zwanger is.
+1. De arbeid van een zwangere ambtenaar wordt zodanig ingericht, dat rekening wordt gehouden met haar specifieke omstandigheden. De commandant voldoet, met inachtneming van het tweede tot en met vijfde lid, aan de voor hem uit de eerste volzin voortvloeiende verplichting binnen een redelijke termijn nadat een aanvraag daartoe door de zwangere ambtenaar is gedaan. Bij deze aanvraag wordt desgevraagd een schriftelijke verklaring overgelegd van een geneeskundige of een verloskundige waaruit blijkt, dat de betrokken ambtenaar zwanger is.
 
-2. De zwangere ambtenaar heeft het recht de arbeid af te wisselen met één of meer pauzes buiten die bedoeld in artikel 31c. Deze extra pauze onderscheidenlijk pauzes bedragen tezamen ten minste 15 minuten en ten hoogste één achtste deel van de voor haar geldende arbeidsduur per dienst of nachtdienst. De in de vorige volzin bedoelde pauzes gelden voor de toepassing van dit hoofdstuk als arbeidsduur.
+2. De zwangere ambtenaar heeft het recht de arbeid af te wisselen met één of meer pauzes buiten die bedoeld in [artikel 31c](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=7&artikel=31c&z=2007-07-04&g=2006-08-02). Deze extra pauze onderscheidenlijk pauzes bedragen tezamen ten minste 15 minuten en ten hoogste één achtste deel van de voor haar geldende arbeidsduur per dienst of nachtdienst. De in de vorige volzin bedoelde pauzes gelden voor de toepassing van dit hoofdstuk als arbeidsduur.
 
 3. De zwangere ambtenaar heeft het recht arbeid te verrichten in een bestendig en regelmatig werk- en rusttijdenpatroon.
 
-4. De zwangere ambtenaar kan niet worden verplicht arbeid te verrichten anders dan op grond van artikel 30o is toegestaan.
+4. De zwangere ambtenaar kan niet worden verplicht arbeid te verrichten anders dan op grond van [artikel 30o](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=3&artikel=30o&z=2007-07-04&g=2006-08-02) is toegestaan.
 
-5. De zwangere ambtenaar kan niet worden verplicht arbeid te verrichten in nachtdienst, tenzij het bevoegd gezag aannemelijk maakt dat dit redelijkerwijs niet van hem kan worden gevergd.
+5. De zwangere ambtenaar kan niet worden verplicht arbeid te verrichten in nachtdienst, tenzij de commandant aannemelijk maakt dat dit redelijkerwijs niet van hem kan worden gevergd.
 
-6. Het bevoegd gezag stelt de zwangere ambtenaar in de gelegenheid de noodzakelijke zwangerschapsonderzoeken te ondergaan. De tijd van de in de vorige volzin bedoelde onderzoeken gelden voor de toepassing van dit hoofdstuk als arbeidsduur.
+6. De commandant stelt de zwangere ambtenaar in de gelegenheid de noodzakelijke zwangerschapsonderzoeken te ondergaan. De tijd van de in de vorige volzin bedoelde onderzoeken gelden voor de toepassing van dit hoofdstuk als arbeidsduur.
 
 ##### Artikel 31t. Bevalling
 
-Het bevoegd gezag organiseert de arbeid zodanig, dat een vrouwelijke ambtenaar:
+De commandant organiseert de arbeid zodanig, dat een vrouwelijke ambtenaar:
 
-- a. geen arbeid verricht binnen 28 dagen voor de vermoedelijke datum van de bevalling, zoals die is aangegeven in een door de vrouwelijke ambtenaar aan het bevoegd gezag overgelegde schriftelijke verklaring van een geneeskundige of verloskundige waaruit de vermoedelijke datum van bevalling blijkt. Het in de eerste volzin bedoelde tijdvak wordt verlengd met het tijdvak dat verloopt tussen de vermoedelijke datum van de bevalling en de werkelijke datum van de bevalling;
+- a. geen arbeid verricht binnen 28 dagen voor de vermoedelijke datum van de bevalling, zoals die is aangegeven in een door de vrouwelijke ambtenaar aan de commandant overgelegde schriftelijke verklaring van een geneeskundige of verloskundige waaruit de vermoedelijke datum van bevalling blijkt. Het in de eerste volzin bedoelde tijdvak wordt verlengd met het tijdvak dat verloopt tussen de vermoedelijke datum van de bevalling en de werkelijke datum van de bevalling;
 
 - b. geen arbeid verricht binnen 42 dagen na haar bevalling.
 
 ##### Artikel 31u. Werk- en rusttijden na de bevalling
 
-[Artikel 31s](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=11&artikel=31s&z=2006-08-02&g=2006-03-10) is, met uitzondering van het zesde lid, van overeenkomstige toepassing gedurende een periode van 6 maanden na de bevalling.
+[Artikel 31s](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=11&artikel=31s&z=2007-07-04&g=2006-08-02) is, met uitzondering van het zesde lid, van overeenkomstige toepassing gedurende een periode van 6 maanden na de bevalling.
 
 ##### Artikel 31v. Voedingsrecht
 
-1. Een vrouwelijke ambtenaar, die een borstkind voedt, heeft, indien zij het bevoegd gezag hiervan in kennis heeft gesteld, gedurende ten minste de eerste 9 levensmaanden van dat kind het recht de arbeid te onderbreken ten einde in de nodige rust en afzondering haar kind te zogen dan wel de borstvoeding te kolven. Het bevoegd gezag biedt haar daartoe de gelegenheid en stelt, waar nodig, een geschikte af te sluiten besloten ruimte ter beschikking.
+1. Een vrouwelijke ambtenaar, die een borstkind voedt, heeft, indien zij de commandant hiervan in kennis heeft gesteld, gedurende ten minste de eerste 9 levensmaanden van dat kind het recht de arbeid te onderbreken ten einde in de nodige rust en afzondering haar kind te zogen dan wel de borstvoeding te kolven. De commandant biedt haar daartoe de gelegenheid en stelt, waar nodig, een geschikte af te sluiten besloten ruimte ter beschikking.
 
-2. De onderbrekingen, bedoeld in het eerste lid, vinden plaats zo vaak en zo lang als nodig is doch bedragen gezamenlijk ten hoogste een vierde van de arbeidsduur per dienst of nachtdienst. De vaststelling van het tijdstip en de duur van de onderbrekingen vindt plaats door de betrokken vrouwelijke ambtenaar na overleg met het bevoegd gezag.
+2. De onderbrekingen, bedoeld in het eerste lid, vinden plaats zo vaak en zo lang als nodig is doch bedragen gezamenlijk ten hoogste een vierde van de arbeidsduur per dienst of nachtdienst. De vaststelling van het tijdstip en de duur van de onderbrekingen vindt plaats door de betrokken vrouwelijke ambtenaar na overleg met de commandant.
 
 3. De duur van de onderbrekingen, bedoeld in dit artikel, gelden voor de toepassing van dit hoofdstuk en de daarop berustende bepalingen als arbeidsduur.
 
@@ -896,9 +926,9 @@ Het bevoegd gezag organiseert de arbeid zodanig, dat een vrouwelijke ambtenaar:
 
 - b. de leeftijd van de ambtenaar;
 
-- c. de werktijd van de ambtenaar.
+- c. de arbeidsduur waarvoor de ambtenaar is aangesteld.
 
-4. Voor de ambtenaar met een volledige werktijd bedraagt de aanspraak op vakantie 184 uren per kalenderjaar indien het salaris op 1 januari van het desbetreffende jaar minder bedraagt dan het maximumsalaris van schaal 9 van bijlage B van het [Bezoldigingsbesluit burgerlijke ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006038) en 192 uren per kalenderjaar indien het salaris op 1 januari van het desbetreffende jaar gelijk is aan of meer bedraagt dan vorenbedoeld maximumsalaris. Onder volledige werktijd wordt verstaan een werktijd die gemiddeld 38 werkuren per week omvat.
+4. Voor de ambtenaar die is aangesteld voor een wekelijkse arbeidsduur van 38 uur bedraagt de aanspraak op vakantie 184 uren per kalenderjaar indien het salaris op 1 januari van het desbetreffende jaar minder bedraagt dan het maximumsalaris van schaal 9 van [bijlage A van het Inkomstenbesluit burgerlijke ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&bijlage=A), en 192 uren per kalenderjaar indien het salaris op 1 januari van het desbetreffende jaar gelijk is aan of meer bedraagt dan vorenbedoeld maximumsalaris.
 
 5. De op grond van het vierde lid geldende aanspraak op vakantie wordt verhoogd:
 
@@ -918,11 +948,11 @@ Het bevoegd gezag organiseert de arbeid zodanig, dat een vrouwelijke ambtenaar:
 
 - b. over het kalenderjaar, waarin de ambtenaar in geheel of gedeeltelijk afwisselende dienst werkzaam is: met zoveel uren als hij op in dat kalenderjaar niet op zaterdag of zondag vallende feestdagen als bedoeld in artikel 31g, tweede lid volgens rooster heeft gewerkt, hetzij volgens rooster vrij van dienst is geweest, dan wel uit hoofde van ziekte of vakantie niet tot dienstverrichting was gehouden.
 
-6. Voor de ambtenaar met onvolledige werktijd wordt de op basis van het vierde en vijfde lid geldende aanspraak op vakantie vastgesteld op een evenredig deel van de aanspraak bij een volledige werktijd.
+6. Voor de ambtenaar die is aangesteld voor een wekelijkse arbeidsduur van minder dan 38 uur, wordt de op basis van het vierde en vijfde lid geldende aanspraak op vakantie vastgesteld op een evenredig deel van de aanspraak van een ambtenaar die is aangesteld voor een wekelijkse arbeidsduur van 38 uur.
 
 7. Bij beëindiging of aanvang van het dienstverband in de loop van een kalenderjaar, wordt de aanspraak op vakantie vastgesteld naar evenredigheid van de dienst, die de ambtenaar in dat jaar verricht heeft of zal verrichten.
 
-8. Indien de werktijd van de ambtenaar wordt gewijzigd, wordt de aanspraak op vakantie over een eventueel resterend gedeelte van het desbetreffende kalenderjaar opnieuw vastgesteld, rekening houdend met de nieuwe werktijd. De tot aan de datum van ingang van de gewijzigde werktijd verworven aanspraak op vakantie blijft ongewijzigd gehandhaafd.
+8. Indien de wekelijkse arbeidsduur waarvoor de ambtenaar is aangesteld wordt gewijzigd, wordt de aanspraak op vakantie over een eventueel resterend gedeelte van het desbetreffende kalenderjaar opnieuw vastgesteld, rekening houdend met de nieuwe arbeidsduur. De tot aan de datum van ingang van de gewijzigde arbeidsduur verworven aanspraak op vakantie blijft ongewijzigd gehandhaafd.
 
 9. De vakantie waarop een ambtenaar aanspraak maakt wordt naar evenredigheid verminderd indien hij een aaneengesloten periode van langer dan een maand geheel of gedeeltelijk geen dienst verricht.
 
@@ -938,13 +968,11 @@ Het bevoegd gezag organiseert de arbeid zodanig, dat een vrouwelijke ambtenaar:
 
 11. De vakantie waarop de ambtenaar aanspraak maakt:
 
-- wordt verminderd naar evenredigheid van de tijd gedurende welke hem langer durend zorgverlof als bedoeld in [artikel 46e](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=5&paragraaf=2&artikel=46e&z=2006-08-02&g=2006-03-10), of ouderschapsverlof als bedoeld in [hoofdstuk 6 van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=6), is verleend;
+- wordt verminderd naar evenredigheid van de tijd gedurende welke hem langer durend zorgverlof als bedoeld in [artikel 46e](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=5&paragraaf=2&artikel=46e&z=2007-07-04&g=2006-08-02), of ouderschapsverlof als bedoeld in [hoofdstuk 6 van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=6), is verleend;
 
-- kan worden verminderd naar evenredigheid van de tijd gedurende welke hem buitengewoon verlof als bedoeld in [artikel 125c, tweede lid, van de Ambtenarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=125c) of [artikel 45 van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=5&paragraaf=2&artikel=45&z=2006-08-02&g=2006-03-10), is verleend.
+- kan worden verminderd naar evenredigheid van de tijd gedurende welke hem buitengewoon verlof als bedoeld in [artikel 125c, tweede lid, van de Ambtenarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=125c) of [artikel 45 van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=5&paragraaf=2&artikel=45&z=2007-07-04&g=2006-08-02), is verleend.
 
-12. Met ingang van de dag dat de ambtenaar op grond van [artikel 30c](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=1&artikel=30c&z=2006-08-02&g=2006-03-10) gedeeltelijk geen dienst verricht vervalt de in het vijfde lid, onder **a**, bedoelde verhoging van de vakantieaanspraak.
-
-13. De ambtenaar heeft geen aanspraak op vakantie, indien [artikel 61a, tweede lid, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=6&paragraaf=4&artikel=61a&z=2006-08-02&g=2006-03-10), van toepassing is.
+12. De ambtenaar heeft geen aanspraak op vakantie, indien [artikel 61a, tweede lid, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=6&paragraaf=4&artikel=61a&z=2007-07-04&g=2006-08-02), van toepassing is.
 
 ##### Artikel 33. Het opnemen van vakantie
 
@@ -952,23 +980,23 @@ Het bevoegd gezag organiseert de arbeid zodanig, dat een vrouwelijke ambtenaar:
 
 2. Vakantie wordt zoveel mogelijk opgenomen in aaneengesloten perioden van ten minste vier uren.
 
-3. De ambtenaar dient in elk kalenderjaar ten minste 120 uur vakantie op te nemen waarvan ten minste 80 uur over een aaneengesloten periode indien voor hem een volledige werktijd geldt en tot in evenredigheid lagere getallen indien voor hem een onvolledige werktijd geldt.
+3. De ambtenaar dient in elk kalenderjaar ten minste 120 uur vakantie op te nemen waarvan ten minste 80 uur over een aaneengesloten periode indien hij is aangesteld voor een wekelijkse arbeidsduur van 38 uur, en tot in evenredigheid lagere getallen indien hij is aangesteld voor een wekelijkse arbeidsduur van minder dan 38 uur.
 
-4. Het bevoegd gezag kan toestaan dat een ambtenaar in enig kalenderjaar meer uren vakantie opneemt dan zijn aanspraak tot en met het lopende jaar bedraagt, met dien verstande dat de opgenomen vakantie de aanspraak tot en met het lopende jaar nimmer met meer dan 64 uren mag overschrijden. Voor de ambtenaar met onvolledige werktijd wordt het in de vorige volzin bedoelde aantal uren van de maximaal toegestane overschrijding verminderd naar evenredigheid van de werktijd. De in een kalenderjaar teveel genoten vakantie wordt in mindering gebracht op de aanspraak op vakantie over het eerstvolgende jaar.
+4. De commandant kan toestaan dat een ambtenaar in enig kalenderjaar meer uren vakantie opneemt dan zijn aanspraak tot en met het lopende jaar bedraagt, met dien verstande dat de opgenomen vakantie de aanspraak tot en met het lopende jaar nimmer met meer dan 64 uren mag overschrijden. Voor de ambtenaar die is aangesteld voor een wekelijkse arbeidsduur van minder dan 38 uur, wordt het in de vorige volzin bedoelde aantal uren van de maximaal toegestane overschrijding verminderd naar evenredigheid van de arbeidsduur waarvoor hij is aangesteld. De in een kalenderjaar teveel genoten vakantie wordt in mindering gebracht op de aanspraak op vakantie over het eerstvolgende jaar.
 
 5. De ambtenaar meldt het voornemen vakantie op te nemen ruimschoots van te voren.
 
-6. Tenzij gewichtige redenen van dienstbelang zich hiertegen verzetten, is het de ambtenaar toegestaan op het voornemen vakantie op te nemen, terug te komen, dan wel het opnemen niet voort te zetten. De vorige volzin geldt in geval van ziekte of ongeval alleen indien de ambtenaar ten genoege van het bevoegd gezag die ziekte of dat ongeval aantoont.
+6. Tenzij gewichtige redenen van dienstbelang zich hiertegen verzetten, is het de ambtenaar toegestaan op het voornemen vakantie op te nemen, terug te komen, dan wel het opnemen niet voort te zetten. De vorige volzin geldt in geval van ziekte of ongeval alleen indien de ambtenaar ten genoege van de commandant die ziekte of dat ongeval aantoont.
 
-7. Wanneer dringende redenen van dienstbelang dat noodzakelijk maken, kan het bevoegd gezag aan de ambtenaar verleende toestemming vakantie op te nemen intrekken, zowel vóór als tijdens de vakantie. Indien de ambtenaar ten gevolge van het intrekken van de toestemming vakantie op te nemen geldelijke schade lijdt, wordt deze hem vergoed.
+7. Wanneer dringende redenen van dienstbelang dat noodzakelijk maken, kan de commandant aan de ambtenaar verleende toestemming vakantie op te nemen intrekken, zowel vóór als tijdens de vakantie. Indien de ambtenaar ten gevolge van het intrekken van de toestemming vakantie op te nemen geldelijke schade lijdt, wordt deze hem vergoed.
 
-8. Onverminderd het bepaalde in het derde lid wordt niet-opgenomen vakantie, waaronder eventuele van vorige jaren overgeboekte vakantie, naar het volgende kalenderjaar overgeboekt tot een maximum van 80 uren indien voor de ambtenaar een volledige werktijd geldt en tot een evenredig lager getal indien voor de ambtenaar een onvolledige werktijd geldt.
+8. Onverminderd het bepaalde in het derde lid wordt niet-opgenomen vakantie, waaronder eventuele van vorige jaren overgeboekte vakantie, naar het volgende kalenderjaar overgeboekt tot een maximum van 80 uren voor de ambtenaar die is aangesteld voor een wekelijkse arbeidsduur van 38 uur, en tot een evenredig lager getal voor de ambtenaar die is aangesteld voor een wekelijkse arbeidsduur van minder dan 38 uur.
 
-9. Uitsluitend indien naar het oordeel van het bevoegd gezag operationele of gewichtige persoonlijke omstandigheden de ambtenaar hebben verhinderd vakantie op te nemen, kan worden afgeweken van de overeenkomstig het achtste lid maximaal naar een volgend kalenderjaar over te boeken vakantieaanspraken.
+9. Uitsluitend indien naar het oordeel van de commandant operationele of gewichtige persoonlijke omstandigheden de ambtenaar hebben verhinderd vakantie op te nemen, kan worden afgeweken van de overeenkomstig het achtste lid maximaal naar een volgend kalenderjaar over te boeken vakantieaanspraken.
 
 ##### Artikel 34. Ontslag en vakantie
 
-1. Indien de ambtenaar op de datum van zijn ontslag nog aanspraak heeft op vakantie, wordt hem voor ieder uur vakantie dat hij niet heeft opgenomen een vergoeding toegekend ten bedrage van het salaris per uur dat de ambtenaar direct voorafgaand aan zijn ontslag genoot. De vergoeding wordt berekend over ten hoogste twee maal de aanspraak op vakantie over een vol kalenderjaar, uitgaande van het salaris en de werktijd zoals die direct voorafgaand aan het ontslag voor de ambtenaar golden en de leeftijd welke hij bereikt in het kalenderjaar waarin de dienstbetrekking wordt beëindigd.
+1. Indien de ambtenaar op de datum van zijn ontslag nog aanspraak heeft op vakantie, wordt hem voor ieder uur vakantie dat hij niet heeft opgenomen een vergoeding toegekend ten bedrage van het salaris per uur dat de ambtenaar direct voorafgaand aan zijn ontslag genoot. De vergoeding wordt berekend over ten hoogste twee maal de aanspraak op vakantie over een vol kalenderjaar, uitgaande van het salaris en de arbeidsduur waarvoor hij is aangesteld zoals die direct voorafgaand aan het ontslag voor de ambtenaar golden en de leeftijd welke hij bereikt in het kalenderjaar waarin de dienstbetrekking wordt beëindigd.
 
 2. Indien op de dag van zijn ontslag blijkt dat de ambtenaar teveel vakantie heeft genoten, is hij voor ieder uur teveel genoten vakantie een bedrag verschuldigd ten bedrage van het salaris per uur.
 
@@ -988,7 +1016,7 @@ Onze Minister is bevoegd nadere en zonodig afwijkende regels vast te stellen.
 
 ##### Artikel 37. Verlof bij militaire en soortgelijke dienst alsmede in geval van ziekte
 
-Onverminderd het bepaalde in [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=6&z=2006-08-02&g=2006-03-10), genieten verlof:
+Onverminderd het bepaalde in [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=6&z=2007-07-04&g=2006-08-02), genieten verlof:
 
 - a. de ambtenaar, die als militair in werkelijke dienst is;
 
@@ -1004,15 +1032,15 @@ Onverminderd het bepaalde in [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:B
 
 1. Indien het Ministerie van Defensie of een onderdeel daarvan op een daartoe aangewezen kerkelijke of nationale, landelijk, regionaal of plaatselijk erkende feest- of gedenkdag is gesloten, geniet de desbetreffende ambtenaar verlof voor zoveel het dienstbelang niet anders vereist.
 
-2. Indien de ambtenaar op een dag als bedoeld in het eerste lid, een aantal uren dienst moet verrichten binnen de vastgestelde werktijden dan wel, in geheel of gedeeltelijk afwisselende dienst werkzaam zijnde, op die dag volgens rooster vrij van dienst is of uit hoofde van ziekte of vakantie niet tot dienstverrichting is gehouden, geniet hij bedoeld aantal uren als verlof op een andere dag.
+2. Indien de ambtenaar op een dag als bedoeld in het eerste lid, een aantal uren dienst moet verrichten binnen het voor hem vastgestelde rooster, dan wel, in geheel of gedeeltelijk afwisselende dienst werkzaam zijnde, op die dag volgens rooster vrij van dienst is of uit hoofde van ziekte of vakantie niet tot dienstverrichting is gehouden, geniet hij bedoeld aantal uren als verlof op een andere dag.
 
 3. Het eerste en tweede lid vinden geen toepassing, indien de sluiting van het Ministerie van Defensie regionaal of plaatselijk plaats vindt en de ambtenaar elders werkzaam is.
 
-4. Het eerste en tweede lid vinden voorts geen toepassing, indien het betreft feestdagen genoemd in artikel 31g, tweede lid.
+4. Het eerste en tweede lid vinden voorts geen toepassing, indien het betreft feestdagen genoemd in [artikel 31g, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=8&artikel=31g&z=2007-07-04&g=2006-08-02).
 
 ##### Artikel 39. Buitengewoon verlof
 
-Onverminderd het bepaalde in de [artikelen 94](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=7b&artikel=94&z=2006-08-02&g=2006-03-10) en 95 wordt aan de ambtenaar in de gevallen en onder de voorwaarden, genoemd in de volgende artikelen van deze paragraaf, buitengewoon verlof verleend.
+Onverminderd het bepaalde in de [artikelen 94](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=7b&artikel=94&z=2007-07-04&g=2006-08-02) en 95 wordt aan de ambtenaar in de gevallen en onder de voorwaarden, genoemd in de volgende artikelen van deze paragraaf, buitengewoon verlof verleend.
 
 #### Buitengewoon verlof van korte duur
 
@@ -1026,7 +1054,7 @@ Vervallen
 
 ##### Artikel 42. Vergaderingen van statutaire organen van ambtenarenorganisaties, kaderactiviteiten, cursussen en commissies van georganiseerd overleg en ambtenarenzaken
 
-1. Tenzij de belangen van de dienst zich daartegen verzetten wordt jaarlijks ten hoogste 120 uren buitengewoon verlof met behoud van volle bezoldiging verleend voor het bijwonen van vergaderingen van statutaire organen van verenigingen van ambtenaren, van centrale organisaties, waarbij deze verenigingen zijn aangesloten of van internationale ambtenarenorganisaties, mits de ambtenaar hieraan deelneemt:
+1. Tenzij de belangen van de dienst zich daartegen verzetten wordt door de commandant aan de ambtenaar jaarlijks ten hoogste 120 uren buitengewoon verlof met behoud van volle bezoldiging verleend voor het bijwonen van vergaderingen van statutaire organen van verenigingen van ambtenaren, van centrale organisaties, waarbij deze verenigingen zijn aangesloten of van internationale ambtenarenorganisaties, mits de ambtenaar hieraan deelneemt:
 
 - a. voor zover het betreft vergaderingen van verenigingen van ambtenaren als bestuurslid van die vereniging dan wel als afgevaardigde of bestuurslid van een onderdeel daarvan;
 
@@ -1034,9 +1062,9 @@ Vervallen
 
 - c. voor zover het betreft vergaderingen van een internationale ambtenarenorganisatie als bestuurslid van deze organisatie dan wel als afgevaardigde of bestuurslid van een bij die organisatie aangesloten vereniging van ambtenaren.
 
-2. Tenzij de belangen van de dienst zich daartegen verzetten, wordt tot ten hoogste 208 uren per jaar buitengewoon verlof met behoud van volle bezoldiging verleend aan de ambtenaar, die door een centrale als bedoeld in het [Besluit georganiseerd overleg sector defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006042) of een daarbij aangesloten vereniging is aangewezen om bestuurlijke of vertegenwoordigende activiteiten te ontplooien binnen zijn centrale of een daarbij aangesloten vereniging respectievelijk binnen de organisatie van de werkgever, die er toe strekken de doelstellingen van zijn centrale van overheidspersoneel en de daarbij aangesloten verenigingen te ondersteunen.
+2. Tenzij de belangen van de dienst zich daartegen verzetten, wordt door de commandant tot ten hoogste 208 uren per jaar buitengewoon verlof met behoud van volle bezoldiging verleend aan de ambtenaar, die door een centrale als bedoeld in het [Besluit georganiseerd overleg sector defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006042) of een daarbij aangesloten vereniging is aangewezen om bestuurlijke of vertegenwoordigende activiteiten te ontplooien binnen zijn centrale of een daarbij aangesloten vereniging respectievelijk binnen de organisatie van de werkgever, die er toe strekken de doelstellingen van zijn centrale van overheidspersoneel en de daarbij aangesloten verenigingen te ondersteunen.
 
-3. Tenzij de belangen van de dienst zich daartegen verzetten, wordt buitengewoon verlof met behoud van volle bezoldiging verleend aan de ambtenaar voor het - op uitnodiging van een organisatie van ambtenaren - als cursist deelnemen aan een cursus, met dien verstande dat dit verlof ten hoogste 48 uren per twee jaren bedraagt.
+3. Tenzij de belangen van de dienst zich daartegen verzetten, wordt door de commandant buitengewoon verlof met behoud van volle bezoldiging verleend aan de ambtenaar voor het – op uitnodiging van een organisatie van ambtenaren – als cursist deelnemen aan een cursus, met dien verstande dat dit verlof ten hoogste 48 uren per twee jaren bedraagt.
 
 4. Het aantal uren dat op grond van het eerste, tweede en derde lid alsmede op grond van [artikel 17, tweede lid, van het Besluit medezeggenschap defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0010617&artikel=17) aan een ambtenaar mag worden verleend, bedraagt tezamen ten hoogste 240 uren per jaar, met dien verstande dat ten hoogste 320 uren worden verleend:
 
@@ -1048,11 +1076,11 @@ Vervallen
 
 5. Het verlof bedoeld in het eerste tot en met vierde lid, wordt slechts verleend aan ambtenaren, die lid zijn van verenigingen van ambtenaren, welke zijn aangesloten bij centrales van verenigingen van ambtenaren, die deel uitmaken van de sectorcommissie Defensie.
 
-6. Tenzij andere belangen van de dienst zich daartegen verzetten, wordt buitengewoon verlof met behoud van volle bezoldiging verleend voor het bijwonen van vergaderingen van commissies voor georganiseerd overleg in ambtenarenzaken. Dit geldt eveneens voor één voorvergadering per in de vorige volzin bedoelde vergadering.
+6. Tenzij andere belangen van de dienst zich daartegen verzetten, wordt door de commandant aan de ambtenaar buitengewoon verlof met behoud van volle bezoldiging verleend voor het bijwonen van vergaderingen van commissies voor georganiseerd overleg in ambtenarenzaken. Dit geldt eveneens voor één voorvergadering per in de vorige volzin bedoelde vergadering.
 
 ##### Artikel 43. Verhuizing
 
-Tenzij de belangen van de dienst zich daartegen verzetten, wordt buitengewoon verlof met behoud van volle bezoldiging verleend:
+Tenzij de belangen van de dienst zich daartegen verzetten, wordt door de commandant aan de ambtenaar buitengewoon verlof met behoud van volle bezoldiging verleend:
 
 - a. voor het zoeken van een woning in geval van overplaatsing: ten hoogste twee dagen;
 
@@ -1060,7 +1088,7 @@ Tenzij de belangen van de dienst zich daartegen verzetten, wordt buitengewoon ve
 
 ##### Artikel 44. Familie-omstandigheden
 
-Tenzij de belangen van de dienst zich daartegen verzetten, wordt aan de ambtenaar buitengewoon verlof met behoud van volle bezoldiging verleend:
+Tenzij de belangen van de dienst zich daartegen verzetten, wordt door de commandant aan de ambtenaar buitengewoon verlof met behoud van volle bezoldiging verleend:
 
 - a. bij zijn ondertrouw: één dag;
 
@@ -1072,7 +1100,7 @@ Tenzij de belangen van de dienst zich daartegen verzetten, wordt aan de ambtenaa
 
 ##### Artikel 45. Aanvullende bevoegdheid tot het verlenen van buitengewoon verlof
 
-1. Buitengewoon verlof van korte duur, al dan niet met behoud van volle bezoldiging, kan bovendien worden verleend in de gevallen, waarin hij, die tot verlenen van dat verlof bevoegd is verklaard, oordeelt, dat daartoe aanleiding bestaat.
+1. Buitengewoon verlof van korte duur, al dan niet met behoud van volle bezoldiging, kan bovendien aan de ambtenaar worden verleend in de gevallen waarin de commandant oordeelt dat daartoe aanleiding bestaat.
 
 2. Onze Minister is bevoegd ter uitvoering van het eerste lid zo nodig nadere regels vast te stellen.
 
@@ -1080,7 +1108,7 @@ Tenzij de belangen van de dienst zich daartegen verzetten, wordt aan de ambtenaa
 
 1. Behoudens in dringende gevallen moet buitengewoon verlof van korte duur ten minste 24 uren tevoren schriftelijk of mondeling worden aangevraagd.
 
-2. Indien de ambtenaar, die niet vooraf een aanvraag voor buitengewoon verlof van korte duur heeft ingediend ten genoege van het bevoegde gezag aantoont, dat hij daartoe geen gelegenheid heeft gehad, terwijl er voor zijn afwezigheid gegronde redenen bestonden, wordt deze afwezigheid beschouwd als buitengewoon verlof met behoud van volle bezoldiging.
+2. Indien de ambtenaar, die niet vooraf een aanvraag voor buitengewoon verlof van korte duur bij de commandant heeft ingediend, aantoont, dat hij daartoe geen gelegenheid heeft gehad, terwijl er voor zijn afwezigheid gegronde redenen bestonden, wordt deze afwezigheid beschouwd als buitengewoon verlof met behoud van volle bezoldiging.
 
 3. Een gegronde reden als bedoeld in het tweede lid is slechts aanwezig:
 
@@ -1092,7 +1120,7 @@ Tenzij de belangen van de dienst zich daartegen verzetten, wordt aan de ambtenaa
 
 ##### Artikel 48. Voorwaarden van buitengewoon verlof van lange duur
 
-1. Buitengewoon verlof van lange duur kan aan de ambtenaar op zijn aanvraag worden verleend door het bevoegd gezag, hetwelk bevoegd is hem ontslag te verlenen, al dan niet met behoud van bezoldiging en al dan niet onder bepaalde voorwaarden.
+1. Buitengewoon verlof van lange duur kan aan de ambtenaar op zijn aanvraag worden verleend door het hoofd defensieonderdeel al dan niet met behoud van bezoldiging en al dan niet onder bepaalde voorwaarden.
 
 2. Het verlof, genoemd in het eerste lid, gaat niet in dan na aanvaarding van dat verlof met de daaraan verbonden voorwaarden door de ambtenaar.
 
@@ -1102,17 +1130,17 @@ Indien het verlof, genoemd in artikel 48, uitsluitend strekt in het persoonlijk 
 
 ##### Artikel 50. Buitengewoon verlof mede in het algemeen belang
 
-Indien het verlof, genoemd in artikel 48, ten doel heeft de ambtenaar in de gelegenheid te stellen een andere functie te vervullen en met verlofverlening naar het oordeel van Onze Minister niet uitsluitend het persoonlijk belang van de ambtenaar, doch mede het algemeen belang wordt gediend, kan het verlof - onverminderd het bepaalde in de artikelen 51 en 52 - in beginsel voor ten hoogste een jaar, zonder behoud van bezoldiging, worden verleend.
+Indien het verlof, genoemd in [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=5&paragraaf=2&artikel=48&z=2007-07-04&g=2006-08-02), ten doel heeft de ambtenaar in de gelegenheid te stellen een andere functie te vervullen en met verlofverlening naar het oordeel van het hoofd defensieonderdeel niet uitsluitend het persoonlijk belang van de ambtenaar, doch mede het algemeen belang wordt gediend, kan het verlof - onverminderd het bepaalde in de [artikelen 51](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=5&paragraaf=2&artikel=51&z=2007-07-04&g=2006-08-02) en [52](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=5&paragraaf=2&artikel=52&z=2007-07-04&g=2006-08-02) - in beginsel voor ten hoogste een jaar, zonder behoud van bezoldiging, worden verleend.
 
 ##### Artikel 51. Buitengewoon verlof voor bezoldigde bestuurders van ambtenarenorganisaties
 
-1. Aan de ambtenaar, benoemd tot bezoldigd bestuurder van een vereniging van ambtenaren, van een centrale of van een internationale organisatie van zodanige verenigingen, kan uit dien hoofde voor ten hoogste twee jaren buitengewoon verlof zonder behoud van bezoldiging worden verleend.
+1. Aan de ambtenaar, benoemd tot bezoldigd bestuurder van een vereniging van ambtenaren, van een centrale of van een internationale organisatie van zodanige verenigingen, kan uit dien hoofde naar het oordeel van Onze Minister voor ten hoogste twee jaren buitengewoon verlof zonder behoud van bezoldiging worden verleend.
 
-2. Artikel 42, vijfde lid, is van overeenkomstige toepassing.
+2. [Artikel 42, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=5&paragraaf=2&artikel=42&z=2007-07-04&g=2006-08-02), is van overeenkomstige toepassing.
 
 ##### Artikel 52. Buitengewoon verlof overwegend in het algemeen belang
 
-1. Indien het verlof, genoemd in artikel 48, ten doel heeft de ambtenaar in de gelegenheid te stellen anders dan in vaste dienst hetzij een functie in dienst van een volkenrechtelijke organisatie te vervullen hetzij ten behoeve van de Nederlandse Antillen of Aruba, dan wel als deskundige tijdelijk ten behoeve van een vreemde mogendheid werkzaam te zijn en met verlofverlening naar het oordeel van Onze Minister het algemeen belang in overwegende mate wordt gediend, kan het verlof in beginsel voor ten hoogste drie jaren, zonder behoud van bezoldiging, worden verleend.
+1. Indien het verlof, genoemd in [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=5&paragraaf=2&artikel=48&z=2007-07-04&g=2006-08-02), ten doel heeft de ambtenaar in de gelegenheid te stellen anders dan in vaste dienst hetzij een functie in dienst van een volkenrechtelijke organisatie te vervullen hetzij ten behoeve van de Nederlandse Antillen of Aruba, dan wel als deskundige tijdelijk ten behoeve van een vreemde mogendheid werkzaam te zijn en met verlofverlening naar het oordeel van het hoofd defensieonderdeel het algemeen belang in overwegende mate wordt gediend, kan het verlof in beginsel voor ten hoogste drie jaren, zonder behoud van bezoldiging, worden verleend.
 
 2. In afwijking van het eerste lid kan aan de ambtenaar, die wenst te worden uitgezonden om in burgerlijke landsdienst van de Nederlandse Antillen of Aruba tijdelijk een betrekking te vervullen buitengewoon verlof worden verleend op de voet van het [West-Indisch Detacheeringsbesluit 1930](https://wetten.overheid.nl/jci1.3:c:BWBR0001949).
 
@@ -1176,51 +1204,51 @@ In dit hoofdstuk wordt verstaan onder:
 
 1. Onverminderd hetgeen ter zake is bepaald in de [Arbeidsomstandighedenwet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0010346) geniet de ambtenaar bedrijfsgeneeskundige begeleiding overeenkomstig deze paragraaf.
 
-2. Het bevoegd gezag is verantwoordelijk voor de bedrijfsgeneeskundige begeleiding van de ambtenaar. Bij deze begeleiding neemt het bevoegd gezag de door of vanwege Onze Minister gestelde regels in acht.
+2. Het hoofd defensieonderdeel is verantwoordelijk voor de bedrijfsgeneeskundige begeleiding van de ambtenaar. Bij deze begeleiding neemt het hoofd defensieonderdeel de door of vanwege Onze Minister gestelde regels in acht.
 
-3. Voor de uitvoering van de bedrijfsgeneeskundige begeleiding laat het bevoegd gezag zich bijstaan door de deskundige persoon of de arbodienst.
+3. Voor de uitvoering van de bedrijfsgeneeskundige begeleiding laat het hoofd defensieonderdeel zich bijstaan door de deskundige persoon of de arbodienst.
 
 ##### Artikel 56. Onderzoek op aanvraag
 
-1. Onverminderd de mogelijkheid de arts van de deskundige persoon of de arbodienst rechtstreeks te consulteren ter zake van met zijn arbeidssituatie samenhangende gezondheidsproblemen kan de ambtenaar het bevoegd gezag verzoeken hem in verband hiermede aan een onderzoek vanwege de deskundige persoon of de arbodienst te onderwerpen.
+1. Onverminderd de mogelijkheid de arts van de deskundige persoon of de arbodienst rechtstreeks te consulteren ter zake van met zijn arbeidssituatie samenhangende gezondheidsproblemen kan de ambtenaar het hoofd defensieonderdeel verzoeken hem in verband hiermede aan een onderzoek vanwege de deskundige persoon of de arbodienst te onderwerpen.
 
 2. De ambtenaar, die in verband met het verrichten van zijn arbeid aan bijzonder gevaar voor zijn gezondheid blootstaat dan wel voor een goede vervulling van zijn betrekking aan bijzondere gezondheidseisen moet voldoen, wordt in overleg met of op aanwijzing van de deskundige persoon of de arbodienst onderworpen aan een periodiek bedrijfsgeneeskundig onderzoek.
 
-3. Het bevoegd gezag draagt de ambtenaar op zich aan een geneeskundig onderzoek te onderwerpen:
+3. Het hoofd defensieonderdeel draagt de ambtenaar op zich aan een geneeskundig onderzoek te onderwerpen:
 
-- a. indien naar het oordeel van het bevoegd gezag gegronde redenen bestaan voor twijfel aan een goede gezondheidstoestand van de ambtenaar;
+- a. indien naar het oordeel van het hoofd defensieonderdeel gegronde redenen bestaan voor twijfel aan een goede gezondheidstoestand van de ambtenaar;
 
 - b. indien de ambtenaar niet langer volledig geschikt is gebleken tot het verrichten van zijn arbeid, teneinde na te gaan of hiervoor medische oorzaken aanwezig zijn en, zo ja, of de ambtenaar geschikt kan worden geacht voor het vervullen van een andere betrekking.
 
-4. Het bevoegd gezag stelt de ambtenaar buiten dienst indien na een onderzoek als bedoeld in het eerste tot en met derde lid blijkt dat sprake is van een zodanige lichamelijke of geestelijke toestand dat de belangen van de ambtenaar, van de dienst of van derden zich er tegen verzetten dat de ambtenaar zijn arbeid blijft verrichten. De ambtenaar wordt niet buiten dienst gesteld indien hem andere passende arbeid kan worden opgedragen. Indien de ambtenaar buiten dienst wordt gesteld, wordt hij geacht wegens ziekte ongeschikt te zijn tot het verrichten van zijn arbeid, in welk geval de overige bepalingen van dit hoofdstuk van toepassing zijn.
+4. Het hoofd defensieonderdeel stelt de ambtenaar buiten dienst indien na een onderzoek als bedoeld in het eerste tot en met derde lid blijkt dat sprake is van een zodanige lichamelijke of geestelijke toestand dat de belangen van de ambtenaar, van de dienst of van derden zich er tegen verzetten dat de ambtenaar zijn arbeid blijft verrichten. De ambtenaar wordt niet buiten dienst gesteld indien hem andere passende arbeid kan worden opgedragen. Indien de ambtenaar buiten dienst wordt gesteld, wordt hij geacht wegens ziekte ongeschikt te zijn tot het verrichten van zijn arbeid, in welk geval de overige bepalingen van dit hoofdstuk van toepassing zijn.
 
 5. De ambtenaar is gehouden aan een onderzoek als bedoeld in het tweede en derde lid zijn medewerking te verlenen. Hij is tevens gehouden zijn medewerking te verlenen aan onderzoeken vanwege de deskundige persoon of de arbodienst, welke worden ingesteld ter beantwoording van de vraag:
 
 - a. of, in welke mate en tot welk tijdstip er sprake is van ongeschiktheid tot het verrichten van zijn arbeid wegens ziekte;
 
-- b. of maatregelen of voorzieningen nodig zijn in het belang van het herstel van zijn gezondheid dan wel in het belang van het behoud, het herstel of de bevordering van zijn arbeidsgeschiktheid als genoemd in de [artikelen 65](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=65) en [65**a** van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=65a).
+- b. of maatregelen of voorzieningen nodig zijn in het belang van het herstel van zijn gezondheid dan wel in het belang van het behoud, het herstel of de bevordering van zijn arbeidsgeschiktheid als genoemd in de [artikelen 65](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=65) en [65a van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=65a).
 
-6. Indien het medisch advies daartoe aanleiding geeft, verzoekt het bevoegd gezag het UWV de ambtenaar in aanmerking te brengen voor maatregelen of voorzieningen als bedoeld in het vijfde lid onderdeel b.
+6. Indien het medisch advies daartoe aanleiding geeft, verzoekt het hoofd defensieonderdeel het UWV de ambtenaar in aanmerking te brengen voor maatregelen of voorzieningen als bedoeld in het vijfde lid onderdeel b.
 
 ##### Artikel 57. Hernieuwd onderzoek
 
-1. Het medisch advies wordt zo spoedig mogelijk door die dienst aan de ambtenaar en aan het bevoegd gezag medegedeeld.
+1. Het medisch advies wordt zo spoedig mogelijk door die dienst aan de ambtenaar en aan het hoofd defensieonderdeel medegedeeld.
 
-2. Indien de ambtenaar binnen drie dagen na ontvangst van de mededeling zijn bedenkingen tegen het advies schriftelijk aan het bevoegd gezag kenbaar maakt, vindt zo spoedig mogelijk, doch uiterlijk binnen vier weken, een nieuw onderzoek plaats door een commissie van drie artsen, tenzij het bevoegd gezag na overleg met de deskundige persoon of de arbodienst reeds aanstonds van mening is dat de bedenkingen van de ambtenaar voldoende gegrond zijn.
+2. Indien de ambtenaar binnen drie dagen na ontvangst van de mededeling zijn bedenkingen tegen het advies schriftelijk aan het hoofd defensieonderdeel kenbaar maakt, vindt zo spoedig mogelijk, doch uiterlijk binnen vier weken, een nieuw onderzoek plaats door een commissie van drie artsen, tenzij het hoofd defensieonderdeel na overleg met de deskundige persoon of de arbodienst reeds aanstonds van mening is dat de bedenkingen van de ambtenaar voldoende gegrond zijn.
 
-3. De kosten van het in het tweede lid genoemde onderzoek komen voor rekening van het Ministerie van Defensie. Eventuele reis- en verblijfkosten van de ambtenaar worden hem vergoed volgens de in [artikel 87, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=7b&artikel=87&z=2006-08-02&g=2006-03-10), bedoelde regels.
+3. De kosten van het in het tweede lid genoemde onderzoek komen voor rekening van het Ministerie van Defensie. Eventuele reis- en verblijfkosten van de ambtenaar worden hem vergoed volgens de in [artikel 87, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=7b&artikel=87&z=2007-07-04&g=2006-08-02), bedoelde regels.
 
 #### § 3. Maatregelen ingeval van ziekte tijdens de betrekking
 
 ##### Artikel 58. Verplichtingen van het bevoegd gezag
 
-1. Het bevoegd gezag is verplicht zo tijdig mogelijk zodanige maatregelen te treffen en voorschriften te geven als redelijkerwijs nodig is, opdat de ambtenaar, die in verband met ongeschiktheid als gevolg van ziekte verhinderd is zijn arbeid te verrichten, in staat wordt gesteld de eigen of andere passende arbeid te verrichten. Indien vaststaat dat zijn arbeid niet meer kan worden verricht en binnen het gezagsbereik van Onze Minister geen andere passende arbeid voorhanden is, bevordert het bevoegd gezag naar bij ministeriële regeling te stellen regels, de inschakeling van de ambtenaar in voor hem passende arbeid buiten het gezagsbereik van Onze Minister.
+1. Het hoofd defensieonderdeel is verplicht zo tijdig mogelijk zodanige maatregelen te treffen en voorschriften te geven als redelijkerwijs nodig is, opdat de ambtenaar, die in verband met ongeschiktheid als gevolg van ziekte verhinderd is zijn arbeid te verrichten, in staat wordt gesteld de eigen of andere passende arbeid te verrichten. Indien vaststaat dat zijn arbeid niet meer kan worden verricht en binnen het gezagsbereik van Onze Minister geen andere passende arbeid voorhanden is, bevordert het hoofd defensieonderdeel naar bij ministeriële regeling te stellen regels, de inschakeling van de ambtenaar in voor hem passende arbeid buiten het gezagsbereik van Onze Minister.
 
-2. Uit hoofde van de verplichting bedoeld in het eerste lid, stelt het bevoegd gezag in overeenstemming met de ambtenaar een plan van aanpak op als bedoeld in [artikel 71a, tweede lid van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=71a). Het plan van aanpak wordt met medewerking van de ambtenaar regelmatig geëvalueerd en zo nodig bijgesteld.
+2. Uit hoofde van de verplichting bedoeld in het eerste lid, stelt het hoofd defensieonderdeel in overeenstemming met de ambtenaar een plan van aanpak op als bedoeld in [artikel 71a, tweede lid van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=71a). Het plan van aanpak wordt met medewerking van de ambtenaar regelmatig geëvalueerd en zo nodig bijgesteld.
 
 ##### Artikel 58a. Enkele bijzonder verplichtingen bij ongeschiktheid tot het verrichten van arbeid
 
-1. De ambtenaar die ongeschikt is tot het verrichten van zijn arbeid wegens ziekte kan een andere betrekking worden opgedragen.
+1. De ambtenaar die ongeschikt is tot het verrichten van zijn arbeid wegens ziekte kan door het hoofd defensieonderdeel een andere functie worden opgedragen.
 
 2. de ambtenaar die in verband met ongeschiktheid ten gevolge van ziekte verhinderd is de bedongen arbeid te verrichten, is verplicht:
 
@@ -1256,7 +1284,7 @@ Vervallen
 
 ##### Artikel 62. Aanspraak op bezoldiging na ontslag
 
-1. De gewezen ambtenaar, die voor de beëindiging van zijn betrekking ongeschikt was tot het verrichten van zijn arbeid en nadien nog ongeschikt is een naar aard en omvang soortgelijke betrekking te vervullen, behoudt gedurende zijn ongeschiktheid zijn laatstelijk genoten bezoldiging. De vorige volzin geldt slechts zolang de termijn van 18 maanden, bedoeld in het [eerste lid van artikel 59](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=6&paragraaf=4&artikel=59&z=2006-08-02&g=2006-03-10), nog niet is verstreken, doch uiterlijk tot de eerste dag van de maand volgend op die waarin de gewezen ambtenaar de leeftijd van 65 jaar bereikt.
+1. De gewezen ambtenaar, die voor de beëindiging van zijn betrekking ongeschikt was tot het verrichten van zijn arbeid en nadien nog ongeschikt is om een naar aard en omvang soortgelijke betrekking te vervullen, behoudt gedurende een termijn van twaalf maanden aanspraak op zijn volledige bezoldiging. Vervolgens heeft hij aanspraak op 70% van zijn bezoldiging. De vorige volzin geldt slechts voor zover de termijn van achttien kalendermaanden, gerekend vanaf de eerste ziektedag, nog niet is verstreken en uiterlijk tot de eerste dag van de maand volgend op die waarin de gewezen ambtenaar de leeftijd van 65 jaar bereikt.
 
 2. De gewezen ambtenaar, die binnen een maand na de datum van de beëindiging van zijn betrekking wegens ziekte ongeschikt wordt een naar aard en omvang soortgelijke betrekking te vervullen, ontvangt - mits hij gedurende tenminste twee maanden onmiddellijk aan dat tijdstip voorafgaande in dienst is geweest - gedurende zijn ongeschiktheid, doch uiterlijk tot een jaar na de aanvang van deze ongeschiktheid, dan wel - indien dit eerder is - uiterlijk tot de eerste dag van de maand volgende op die waarin hij de leeftijd van 65 jaar heeft bereikt, zijn laatstelijk genoten bezoldiging.
 
@@ -1276,7 +1304,7 @@ Indien de bevalling niet wordt verwacht binnen vier maanden na de datum van beë
 
 9. Indien de gewezen ambtenaar ter zake van de betrekking waaruit het recht op doorbetaling van zijn laatstgenoten bezoldiging voortvloeit, recht heeft op een uitkering op grond van een werknemersverzekering, een uitkering op basis van [hoofdstuk 3 van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3), dan wel een bovenwettelijke uitkering wegens onvrijwillige werkloosheid, wordt het bedrag van die uitkering in mindering gebracht op het bedrag waarop hij ingevolge dit artikel recht heeft. [Artikel 27 van het Inkomstenbesluit burgerlijke ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&artikel=27) is van overeenkomstige toepassing.
 
-10. Inkomsten uit of in verband met arbeid of bedrijf, anders dan bedoeld in het negende lid, worden op het bedrag waarop de gewezen ambtenaar ingevolge dit artikel recht heeft in mindering gebracht.
+10. Inkomsten uit of in verband met arbeid of bedrijf, anders dan bedoeld in het negende lid, worden op het bedrag waarop de gewezen ambtenaar ingevolge dit artikel recht heeft in mindering gebracht. Bij deze vermindering wordt uitgegaan van de volledige laatstgenoten bezoldiging.
 
 11. Ten aanzien van gevallen als bedoeld in het eerste lid is het tiende lid niet van toepassing indien de inkomsten uit of in verband met arbeid of bedrijf vóór het intreden van de ongeschiktheid tot het verrichten van zijn arbeid wegens ziekte werden genoten en de omvang van die dienstbetrekking niet is toegenomen.
 
@@ -1284,7 +1312,7 @@ Indien de bevalling niet wordt verwacht binnen vier maanden na de datum van beë
 
 13. De gewezen ambtenaar die ingevolge dit artikel aanspraak heeft op doorbetaling van bezoldiging, heeft eveneens aanspraak op vakantie-uitkering overeenkomstig het bepaalde in [hoofdstuk 5 van het Bezoldigingsbesluit burgerlijke ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006038&hoofdstuk=5).
 
-14. In de gevallen, bedoeld in dit artikel, zijn de[artikelen 56](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=6&paragraaf=2&artikel=56&z=2006-08-02&g=2006-03-10), [57](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=6&paragraaf=2&artikel=57&z=2006-08-02&g=2006-03-10), en [artikel 29 van het Inkomstenbesluit burgerlijke ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&artikel=29), van overeenkomstige toepassing.
+14. In de gevallen, bedoeld in dit artikel, zijn de[artikelen 56](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=6&paragraaf=2&artikel=56&z=2007-07-04&g=2006-08-02), [57](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=6&paragraaf=2&artikel=57&z=2007-07-04&g=2006-08-02), en [artikel 29 van het Inkomstenbesluit burgerlijke ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&artikel=29), van overeenkomstige toepassing.
 
 #### § 3. Maatregelen ingeval van ziekte tijdens de betrekking
 
@@ -1294,15 +1322,15 @@ In bijzondere gevallen kan aan de ambtenaar een tegemoetkoming worden toegekend 
 
 ##### Artikel 64. Volledige vergoeding van ziektekosten
 
-1. In geval van een door de ambtenaar opgelopen beroepsziekte of een hem overkomen bedrijfsongeval worden de te zijnen laste blijvende, naar het oordeel van het tot verlening der vergoeding bevoegde gezag noodzakelijk gemaakte kosten voor geneeskundige behandeling of verzorging aan hem vergoed.
+1. In geval van een door de ambtenaar opgelopen beroepsziekte of een hem overkomen bedrijfsongeval worden de te zijnen laste blijvende, naar het oordeel van het hoofd defensieonderdeel noodzakelijk gemaakte kosten voor geneeskundige behandeling of verzorging aan hem vergoed.
 
 2. Onze Minister kan omtrent het bepaalde in het vorige lid nadere voorschriften geven.
 
 ##### Artikel 65. Aanvullende uitkering
 
-1. Aan de gewezen ambtenaar aan wie ontslag is verleend op grond van ongeschiktheid tot het verrichten van zijn arbeid wegens een door hem opgelopen beroepsziekte of een hem overkomen bedrijfsongeval, wordt een aanvullende uitkering verleend.
+1. Aan de gewezen ambtenaar aan wie ontslag is verleend op grond van ongeschiktheid tot het verrichten van zijn arbeid wegens ziekte, wordt – indien de arbeidsongeschiktheid in overwegende mate haar oorzaak vindt in de aard van de aan de ambtenaar opgedragen arbeid of in de bijzondere omstandigheden, waaronder deze moesten worden verricht, en de ongeschiktheid niet aan zijn schuld of onvoorzichtigheid is te wijten – door Onze Minister een aanvullende uitkering verleend.
 
-2. De in het eerste lid bedoelde aanvullende uitkering is gelijk aan het bedrag dat nodig is om de gedeeltelijke, dan wel verminderde bezoldiging, bedoeld in de artikel 62“de artikel 62” moet zijn: “artikel 62”, negende lid, alsmede de eventuele uitkering op grond van de [ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888), dan wel de [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), vermeerderd met de suppletie krachtens de [Suppletieregeling gedeeltelijk arbeidsongeschikten sector Defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0008977), aan te vullen tot 90,02% van de bezoldiging welke de ambtenaar heeft genoten in het jaar voorafgaande aan zijn ontslag.
+2. De in het eerste lid bedoelde aanvullende uitkering is gelijk aan het bedrag dat nodig is om de gedeeltelijke, dan wel verminderde bezoldiging, bedoeld in de artikel 62, negende lid, alsmede de eventuele uitkering op grond van de [ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888), dan wel de [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), vermeerderd met de suppletie krachtens de [Suppletieregeling gedeeltelijk arbeidsongeschikten sector Defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0008977), aan te vullen tot 90,02% van de bezoldiging welke de ambtenaar heeft genoten in het jaar voorafgaande aan zijn ontslag.
 
 3. De in het eerste lid bedoelde aanvullende uitkering is gelijk aan het bedrag dat nodig is om de uitkering op grond van de [ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888), dan wel de [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), in voorkomend geval vermeerderd met een invaliditeitspensioen aan te vullen tot een bepaald percentage van de bezoldiging welke de ambtenaar heeft genoten in het jaar voorafgaand aan zijn ontslag. Dit percentage is afhankelijk van de mate van arbeidsongeschiktheid en bedraagt bij een arbeidsongeschiktheid van:
 
@@ -1319,9 +1347,9 @@ In bijzondere gevallen kan aan de ambtenaar een tegemoetkoming worden toegekend 
 
 De aanvullende uitkering als bedoeld in het derde lid eindigt op het moment dat de gewezen ambtenaar niet meer voldoet aan de in het eerste lid gestelde voorwaarden en in ieder geval met ingang van de eerste dag van de maand waarin de gewezen ambtenaar de leeftijd van 65 jaar bereikt.
 
-5. Indien het overlijden van een ambtenaar in overwegende mate zijn oorzaak vindt in de aard van de aan de ambtenaar opgedragen arbeid of in de bijzondere omstandigheden waaronder deze moesten worden verricht en niet aan zijn schuld of onvoorzichtigheid is te wijten, wordt aan degene die in verband met dit overlijden krachtens het pensioenreglement, bedoeld in artikel 54a, onderdeel h, een nabestaandenpensioen geniet, een uitkering toegekend ten bedrage van 18 procent van het resultaat van de vermenigvuldiging van:
+5. Indien het overlijden van een ambtenaar in overwegende mate zijn oorzaak vindt in de aard van de aan de ambtenaar opgedragen arbeid of in de bijzondere omstandigheden waaronder deze moesten worden verricht en niet aan zijn schuld of onvoorzichtigheid is te wijten, wordt aan degene die in verband met dit overlijden krachtens het pensioenreglement, bedoeld in [artikel 54a, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=6&paragraaf=1&artikel=54a&z=2007-07-04&g=2006-08-02), een nabestaandenpensioen geniet, door Onze Minister een uitkering toegekend ten bedrage van 18 procent van het resultaat van de vermenigvuldiging van:
 
-- a. 1,75 procent van de berekeningsgronsdslag, bedoeld in artikel 8.3 van het pensioenreglement, en
+- a. 1,75 procent van de berekeningsgrondslag, bedoeld in artikel 8.3 van het pensioenreglement, en
 
 - b. de pensioengeldige diensttijd, bedoeld in paragraaf 5 van het pensioenreglement.
 
@@ -1329,7 +1357,7 @@ De uitkering eindigt met ingang van de maand waarin de overleden ambtenaar de le
 
 6. Het vijfde lid is van overeenkomstige toepassing op de gewezen ambtenaar ten aanzien van wie het eerste lid toepassing heeft gevonden, indien zijn overlijden het rechtstreeks gevolg is van de arbeidsongeschiktheid, bedoeld in dat lid.
 
-7. Artikel 62, achtste lid, is van overeenkomstige toepassing op de bezoldiging, bedoeld in het tweede en derde lid.
+7. [Artikel 62, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=6&paragraaf=5&artikel=62&z=2007-07-04&g=2006-08-02), is van overeenkomstige toepassing op de bezoldiging, bedoeld in het tweede en derde lid.
 
 #### § 7. Overige bepalingen
 
@@ -1343,7 +1371,7 @@ Voor de toepassing van dit hoofdstuk is, voor de berekening van de bezoldiging, 
 
 ##### Artikel 69. Afwijkende aanspraken voor tijdelijke ambtenaren
 
-Met uitzondering van [paragraaf 1](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=6&paragraaf=1&z=2006-08-02&g=2006-03-10) en van [artikel 64](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=6&paragraaf=6&artikel=64&z=2006-08-02&g=2006-03-10) is het bepaalde in dit hoofdstuk niet van toepassing op de ambtenaar die geen deelnemer is in de zin van het pensioenreglement. In geval van ziekte ontvangt hij tijdens de duur van zijn dienstverband op een hem op grond van de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) of [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) toegekende uitkering een aanvulling tot zijn bezoldiging. Indien de ambtenaar wegens ziekte ongeschikt is voor de uitoefening van zijn dienstbetrekking, ontvangt hij gedurende de eerste 18 maanden van die ongeschiktheid 100% en daarna tot aan het einde van zijn betrekking 80% van zijn bezoldiging, nadat daarop de uitkering ingevolge de [ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) of de [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) in mindering is gebracht. Op die vermindering zijn de [artikelen 27](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&artikel=27) en [29 van het Inkomstenbesluit burgerlijke ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&artikel=29) van overeenkomstige toepassing.
+Met uitzondering van [paragraaf 1](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=6&paragraaf=1&z=2007-07-04&g=2006-08-02) en van [artikel 64](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=6&paragraaf=6&artikel=64&z=2007-07-04&g=2006-08-02) is het bepaalde in dit hoofdstuk niet van toepassing op de ambtenaar die geen deelnemer is in de zin van het pensioenreglement. In geval van ziekte ontvangt hij tijdens de duur van zijn dienstverband op een hem op grond van de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) of [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) toegekende uitkering een aanvulling tot zijn bezoldiging. Indien de ambtenaar wegens ziekte ongeschikt is voor de uitoefening van zijn dienstbetrekking, ontvangt hij gedurende de eerste 18 maanden van die ongeschiktheid 100% en daarna tot aan het einde van zijn betrekking 80% van zijn bezoldiging, nadat daarop de uitkering ingevolge de [ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) of de [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) in mindering is gebracht. Op die vermindering zijn de [artikelen 27](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&artikel=27) en [29 van het Inkomstenbesluit burgerlijke ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&artikel=29) van overeenkomstige toepassing.
 
 ### Hoofdstuk 7. Overige rechten en verplichtingen
 
@@ -1365,41 +1393,39 @@ Ter zake van niet-naleving van bepalingen, welke redelijkerwijs niet kunnen word
 
 ##### Artikel 73. In strijd met een regeling onthouden van voordelen of toebrengen van nadelen
 
-1. In strijd met een regeling, door het bevoegd gezag getroffen, worden de ambtenaar geen voordelen onthouden of nadelen toegebracht.
-
-2. Het gezag, dat een algemene regeling vaststelde, is niet bevoegd voor een bepaald geval ten nadele van de ambtenaar daarvan af te wijken, tenzij de regeling afwijking voorbehoudt.
+Vervallen
 
 ##### Artikel 74. Verplichte mededeling van verhindering
 
-De ambtenaar die door ziekte of anderszins verhinderd is zijn dienst te verrichten, is verplicht, naar regels bij ministeriële regeling te stellen, daarvan mededeling te doen.
+De ambtenaar die door ziekte of anderszins verhinderd is zijn dienst te verrichten, is verplicht, naar regels bij ministeriële regeling te stellen, daarvan zo tijdig mogelijk mededeling te doen aan zijn commandant.
 
 ##### Artikel 75. Woonplaats
 
-1. De ambtenaar kan worden verplicht te gaan wonen of te blijven wonen in of nabij de gemeente die hem als standplaats is aangewezen of waartoe zijn standplaats behoort, indien dit naar het oordeel van het bevoegd gezag noodzakelijk is in verband met de goede vervulling van zijn functie.
+1. De ambtenaar kan worden verplicht te gaan wonen of te blijven wonen in of nabij de gemeente die hem als standplaats is aangewezen of waartoe zijn standplaats behoort, indien dit naar het oordeel van de commandant noodzakelijk is in verband met de goede vervulling van zijn functie.
 
 2. De ambtenaar aan wie de verplichting is opgelegd in of nabij de in het eerste lid bedoelde gemeente te gaan wonen, is gehouden zo spoedig mogelijk, maar uiterlijk twee jaar nadat die verplichting is opgelegd, daaraan gevolg te geven.
 
 ##### Artikel 76. Ambts- of dienstwoning
 
-1. De ambtenaar is verplicht indien hem een ambts- of dienstwoning ter bewoning is aangewezen, deze te betrekken en zich ter zake van de bewoning en het gebruik te gedragen naar de regels, die daaromtrent zijn gesteld.
+1. De ambtenaar is verplicht indien hem door de commandant een ambts- of dienstwoning ter bewoning is aangewezen, deze te betrekken en zich ter zake van de bewoning en het gebruik te gedragen naar de regels, die daaromtrent zijn gesteld.
 
-2. Hij draagt de onderhoudskosten, welke volgens de wet en het plaatselijk gebruik gemeenlijk voor rekening van de huurder zijn, tenzij door het bevoegd gezag ter zake een afwijkende regeling is vastgesteld.
+2. De ambtenaar draagt de onderhoudskosten, die volgens de wet en het plaatselijk gebruik gemeenlijk voor rekening van de huurder zijn, tenzij door Onze Minister anders wordt bepaald.
 
-##### Artikel 77. Verplichte aanvaarding van een andere betrekking
+##### Artikel 77. Opdragen van een andere functie
 
-1. De ambtenaar kan op zijn aanvraag een andere betrekking worden opgedragen.
+1. Het hoofd defensieonderdeel kan de ambtenaar op diens aanvraag een andere functie opdragen.
 
-2. Wanneer het belang van de dienst zulks vordert, is de ambtenaar verplicht, al dan niet in zijn dienstvak en al of niet op dezelfde standplaats, een andere betrekking te aanvaarden die hem in verband met zijn persoonlijkheid, zijn omstandigheden en de voor hem bestaande vooruitzichten redelijkerwijs kan worden opgedragen.
+2. Het hoofd defensieonderdeel kan de ambtenaar indien het belang van de dienst dit vordert, al dan niet in zijn dienstvak en al of niet op dezelfde standplaats, een andere functie opdragen die redelijkerwijs in overeenstemming is met diens persoonlijkheid, omstandigheden en vooruitzichten; de ambtenaar is verplicht een dergelijke functie te aanvaarden.
 
-##### Artikel 78. Verrichten van andere ambtelijke werkzaamheden
+3. De Secretaris-Generaal is bevoegd tot het opdragen van een andere functie als bedoeld in het eerste en tweede lid aan een ambtenaar, bezoldigd volgens salarisschaal 14 of hoger van [bijlage A van het Inkomstenbesluit burgerlijke ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&bijlage=A) alsmede aan een ambtenaar die is aangesteld in burgerlijke openbare dienst om bij de krijgsmacht als geestelijk verzorger werkzaam te zijn en die wordt bezoldigd in de salarisschaal behorend bij de rang van kapitein ter zee/kolonel.
 
-1. De ambtenaar kan worden verplicht tijdelijk andere ambtelijke werkzaamheden te verrichten dan die, welke hij gewoonlijk verricht, mits die werkzaamheden hem redelijkerwijs kunnen worden opgedragen. Hij kan echter niet worden verplicht werkzaamheden te verrichten in de plaats van stakers of uitgeslotenen in particuliere dienst, tenzij de opgedragen werkzaamheden worden verricht in dienst van het lichaam, waarbij hij werkzaam is, en voor de openbare dienst tijdens de staking of uitsluiting, dan wel als onmiddellijk gevolg daarvan redelijkerwijze dadelijk noodzakelijk zijn te achten.
+##### Artikel 78. Tijdelijk verrichten van andere ambtelijke werkzaamheden
 
-2. Voorts kan aan de ambtenaar door Onze Minister de verplichting worden opgelegd in geval van buitengewone omstandigheden andere werkzaamheden te verrichten dan die, welke hij gewoonlijk verricht, mits die werkzaamheden strekken tot uitvoering van de taak van het ministerie of van de dienst of instelling, waarbij hij werkzaam is, in die tijden heeft of zal krijgen, dan wel ertoe strekken een zo goed en ongestoord mogelijke uitvoering van die taak te verzekeren.
+1. Het hoofd defensieonderdeel kan de ambtenaar opdragen tijdelijk andere werkzaamheden te verrichten dan hij gewoonlijk verricht en die hem gelet op zijn persoonlijke omstandigheden redelijkerwijs kunnen worden opgedragen. De ambtenaar is gehouden deze werkzaamheden te verrichten, met uitzondering van werkzaamheden in de plaats van stakers of uitgeslotenen in particuliere dienst, tenzij deze worden verricht in dienst van Defensie en zij tijdens de staking of uitsluiting of als onmiddellijk gevolg daarvan, redelijkerwijs noodzakelijk zijn voor de openbare dienst.
 
-3. De ambtenaar aan wie de in het tweede lid bedoelde verplichting is opgelegd, is tevens te allen tijde verplicht lessen te volgen en deel te nemen aan oefeningen, die verband houden met de in dat lid bedoelde werkzaamheden.
+2. Onze Minister kan, rekening houdend met de persoonlijke omstandigheden van de ambtenaar, de ambtenaar opdragen in geval van buitengewone omstandigheden andere werkzaamheden te verrichten dan hij gewoonlijk verricht, mits die werkzaamheden strekken tot uitvoering van de taken van de defensieorganisatie of ertoe strekken een zo goed mogelijke uitvoering van die taken te verzekeren.
 
-4. Bij de toepassing van het bepaalde in dit artikel wordt voor zoveel mogelijk rekening gehouden met de persoonlijke omstandigheden van de ambtenaar.
+3. Het hoofd defensieonderdeel kan de ambtenaar opdragen lessen te volgen en deel te nemen aan oefeningen met het oog op het verrichten van werkzaamheden als bedoeld in het tweede lid.
 
 ##### Artikel 79. Nevenbetrekkingen en nevenwerkzaamheden
 
@@ -1419,7 +1445,7 @@ Vervallen
 
 - a. heeft plaats gehad door dan wel in overeenstemming met Onze Minister;
 
-- b. is voortgevloeid uit een wettelijk voorschrift dan wel uit een overeenkomst, welke met instemming van Onze Minister of de Raad van Ministers is tot stand gekomen.
+- b. is voortgevloeid uit een wettelijk voorschrift dan wel uit een overeenkomst, welke met instemming van Onze Minister of de Ministerraad is tot stand gekomen.
 
 2. Het eerste lid is van overeenkomstige toepassing ten aanzien van de ambtenaar, die een nevenfunctie vervult, welke verband houdt met het door hem beklede ambt en hem is opgedragen door Onze Minister, en voor de in die functie verrichte of te verrichten werkzaamheden, anders dan uit 's-Rijks kas, een vergoeding ontvangt.
 
@@ -1457,9 +1483,9 @@ Onze Minister kan de ambtenaar naar billijkheid schadeloos stellen voor schaden 
 
 ##### Artikel 89. Infectieziekten
 
-1. De ambtenaar, die in contact staat of kort geleden gestaan heeft met een persoon, die een ziekte heeft, waarvoor ingevolge het krachtens de Wet bestrijding infectieziekten en opsporing ziekteoorzaken bepaalde een nominatieve aangifteplicht geldt, mag zijn dienst niet verrichten en heeft geen toegang tot dienstgebouwen-, lokalen en -terreinen dan met toestemming van het bevoegd gezag, dat deze toestemming slechts kan verlenen na positief advies van de deskundige persoon of de arbodienst bedoeld in [artikel 54a, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=6&paragraaf=1&artikel=54a&z=2006-08-02&g=2006-03-10).
+1. De ambtenaar, die in contact staat of kort geleden gestaan heeft met een persoon, die een ziekte heeft, waarvoor ingevolge het krachtens de [Infectieziektenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009684) bepaalde een nominatieve aangifteplicht geldt, mag zijn dienst niet verrichten en heeft geen toegang tot dienstgebouwen-, lokalen en -terreinen dan met toestemming van de commandant, dat deze toestemming slechts kan verlenen na positief advies van de deskundige persoon of de arbodienst bedoeld in [artikel 54a, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=6&paragraaf=1&artikel=54a&z=2007-07-04&g=2006-08-02).
 
-2. De ambtenaar, die verkeert in de in het eerste lid omschreven situatie, is verplicht daarvan ten spoedigste kennis te geven aan de deskundige persoon of de arbodienst bedoeld in [artikel 54a, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=6&paragraaf=1&artikel=54a&z=2006-08-02&g=2006-03-10). Hij is gehouden zich te gedragen naar de vanwege de deskundige persoon of de arbodienst bedoeld in [artikel 54a, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=6&paragraaf=1&artikel=54a&z=2006-08-02&g=2006-03-10) gegeven aanwijzingen, waaronder die met betrekking tot het ondergaan van een geneeskundig onderzoek.
+2. De ambtenaar, die verkeert in de in het eerste lid omschreven situatie, is verplicht daarvan ten spoedigste kennis te geven aan de deskundige persoon of de arbodienst bedoeld in [artikel 54a, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=6&paragraaf=1&artikel=54a&z=2007-07-04&g=2006-08-02). Hij is gehouden zich te gedragen naar de vanwege de deskundige persoon of de arbodienst bedoeld in [artikel 54a, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=6&paragraaf=1&artikel=54a&z=2007-07-04&g=2006-08-02) gegeven aanwijzingen, waaronder die met betrekking tot het ondergaan van een geneeskundig onderzoek.
 
 3. Gedurende de periode dat de ambtenaar ingevolge het bepaalde in dit artikel zijn dienst niet verricht, geniet hij zijn volle bezoldiging.
 
@@ -1497,17 +1523,11 @@ b. De afspraken en aandachtspunten worden opgelegd in het personeelsdossier van 
 
 ##### Artikel 91. Veiligheidsonderzoek in verband met vertrouwensfuncties
 
-1. Alvorens de ambtenaar met een (vertrouwens)functie wordt belast, wordt te zijnen aanzien een veiligheidsonderzoek ingesteld.
-
-Dit geschiedt eveneens, indien de door hem beklede functie als vertrouwensfunctie wordt aangewezen of de door hem beklede vertrouwensfunctie een andere inhoud krijgt waardoor het naar het oordeel van het bevoegd gezag nodig is dat opnieuw een veiligheidsonderzoek wordt ingesteld. Hij wordt door het bevoegd gezag van het instellen van het onderzoek in kennis gesteld.
-
-2. De ambtenaar wordt van tegen hem op grond van de uitslag van het onderzoek gerezen twijfels in kennis gesteld. Hij kan zijn bedenkingen daartegen aan het bevoegd gezag kenbaar maken. Alvorens het bevoegd gezag daarop een beslissing neemt is het gehouden het advies in te winnen van een door Onze Minister ingestelde commissie. Op deze commissie is het bepaalde in hoofdstuk 9 niet van toepassing.
-
-3. Onze Minister stelt omtrent het bepaalde in dit artikel nadere regels vast. Hij geeft daarbij onder meer regels met betrekking tot de werkwijze van de in het vorige lid bedoelde commissie.
+Vervallen
 
 ##### Artikel 91a. Reisbeperkingen
 
-1. De ambtenaar die werkzaam is in een vertrouwensfunctie waarin hij toegang heeft tot zeer geheime of geheime gegevens waarvan de kennisneming door niet-gerechtigden zeer ernstige of ernstige schade aan de veiligheid of andere gewichtige belangen van de staat kan veroorzaken, is verplicht van een, anders dan in de uitoefening van zijn functie, voorgenomen reis naar of verblijf in bij koninklijk besluit aangewezen landen, ten minste zes weken voor vertrek mededeling te doen aan een door Onze Minister aan te wijzen functionaris.
+1. De ambtenaar die werkzaam is in een vertrouwensfunctie waarin hij toegang heeft tot zeer geheime of geheime gegevens waarvan de kennisneming door niet-gerechtigden zeer ernstige of ernstige schade aan de veiligheid of andere gewichtige belangen van de staat kan veroorzaken, is verplicht van een, anders dan in de uitoefening van zijn functie, voorgenomen reis naar of verblijf in bij koninklijk besluit aangewezen landen, ten minste zes weken voor vertrek mededeling te doen aan de Directeur Militaire Inlichtingen- en Veiligheidsdienst.
 
 2. Een ambtenaar die tijdens het verblijf in een land als bedoeld in het eerste lid betrokken is geweest bij een incident dat van belang kan zijn uit het oogpunt van veiligheid of andere gewichtige belangen van de staat, is verplicht daarvan onmiddellijk bij terugkomst melding te doen aan een daartoe aangewezen functionaris van de Militaire Inlichtingen- en Veiligheidsdienst.
 
@@ -1525,21 +1545,21 @@ Verplichting tot zekerheidsstelling wordt de ambtenaar niet opgelegd.
 
 ##### Artikel 94. Om- en bijscholingsopleidingen
 
-1. De burgerambtenaar kan, al dan niet op eigen aanvraag, door het bevoegd gezag worden aangewezen voor het volgen van een om- of bijscholingsopleiding teneinde de benodigde kennis en vaardigheden te behouden voor het vervullen van de huidige functie, dan wel te verkrijgen voor de vervulling van toekomstige functies. De ambtenaar wordt tijdig in de gelegenheid gesteld tot het volgen van die opleiding.
+1. De burgerambtenaar kan, al dan niet op eigen aanvraag, door het hoofd defensieonderdeel worden aangewezen voor het volgen van een om- of bijscholingsopleiding teneinde de benodigde kennis en vaardigheden te behouden voor het vervullen van de huidige functie, dan wel te verkrijgen voor de vervulling van toekomstige functies. De ambtenaar wordt tijdig in de gelegenheid gesteld tot het volgen van die opleiding.
 
-2. Het bevoegd gezag kent de ambtenaar een vergoeding toe voor de aan een om- of bijscholingsopleiding verbonden noodzakelijk te zijnen laste komende kosten.
+2. Het hoofd defensieonderdeel kent de ambtenaar een vergoeding toe voor de aan een om- of bijscholingsopleiding verbonden noodzakelijk te zijnen laste komende kosten.
 
-3. De ambtenaar die is aangewezen voor het volgen van een om- of bijscholingsopleiding, kan daarvan door het bevoegd gezag worden ontheven, indien hij niet voldoet aan de bij de opleiding gestelde eisen of indien ontheffing in het belang van de dienst of van de ambtenaar om andere redenen noodzakelijk is.
+3. De ambtenaar die is aangewezen voor het volgen van een om- of bijscholingsopleiding, kan daarvan door het hoofd defensieonderdeel worden ontheven, indien hij niet voldoet aan de bij de opleiding gestelde eisen of indien ontheffing in het belang van de dienst of van de ambtenaar om andere redenen noodzakelijk is.
 
-4. Artikel 86 is van overeenkomstige toepassing.
+4. [Artikel 86](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=7b&artikel=86&z=2007-07-04&g=2006-08-02) is van overeenkomstige toepassing.
 
 ##### Artikel 94a. Studiefaciliteiten
 
-Aan de ambtenaar die dat wenst, kunnen naar bij ministeriële regeling te stellen regels bepaalde studiefaciliteiten worden verleend, indien de ambtenaar naar het oordeel van het bevoegd gezag een studie of opleiding voor eigen rekening volgt of heeft voltooid die mede in het belang van de dienst of in het belang van de bevordering van de externe werkzekerheid is.
+Aan de ambtenaar die dat wenst, kunnen naar bij ministeriële regeling te stellen regels bepaalde studiefaciliteiten worden verleend, indien de ambtenaar naar het oordeel van het hoofd defensieonderdeel een studie of opleiding voor eigen rekening volgt of heeft voltooid die mede in het belang van de dienst of in het belang van de bevordering van de externe werkzekerheid is.
 
 ##### Artikel 96. Maatregelen van orde
 
-1. Aan de ambtenaar kan door het bevoegd gezag de toegang tot de dienstlokalen, dienstgebouwen of het werk, dan wel het verblijf aldaar, worden ontzegd.
+1. Aan de ambtenaar kan door de commandant de toegang tot de dienstlokalen, dienstgebouwen of het werk, dan wel het verblijf aldaar, worden ontzegd.
 
 2. Hij is verplicht zich te gedragen naar de maatregelen van orde, die ten aanzien van het verblijf aldaar zijn vastgesteld.
 
@@ -1555,7 +1575,9 @@ Het is de ambtenaar verboden gedurende de werktijd alcoholhoudende dranken te ge
 
 2. Plichtsverzuim omvat zowel het overtreden van enig voorschrift als het doen of nalaten van iets, hetwelk een goed ambtenaar in gelijke omstandigheden behoort na te laten of te doen.
 
-3. Tenzij bij koninklijk besluit of met Onze machtiging door Onze Minister anders is bepaald, wordt de straf opgelegd door het gezag, dat bevoegd is tot aanstelling in het door de ambtenaar beklede ambt. Indien deze bevoegdheid bij Ons berust, geschiedt de bestraffing, behalve voor zover het betreft de straffen genoemd in artikel 100, eerste lid onder **i** en **l**, door Onze Minister.
+3. De straf wordt opgelegd door Onze Minister of een door hem aangewezen autoriteit.
+
+4. In afwijking van het derde lid, geschiedt het opleggen van straffen, genoemd in [artikel 100, eerste lid onder i en l](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=8&artikel=100&z=2007-07-04&g=2006-08-02), aan de ambtenaar die bij koninklijk besluit is aangesteld, door Onze Minister.
 
 ##### Artikel 100. Soorten disciplinaire straffen
 
@@ -1585,13 +1607,13 @@ Het is de ambtenaar verboden gedurende de werktijd alcoholhoudende dranken te ge
 
 - l. ontslag.
 
-2. Indien een straf, als bedoeld in het eerste lid onder **g**, **h**, of **i** is opgelegd, kan - zo het verdere gedrag van de ambtenaar naar het oordeel van het tot oplegging van de straf bevoegd gezag daartoe aanleiding heeft gegeven zijn positie met ingang van een bepaald tijdstip geheel of ten dele in overeenstemming worden gebracht met de positie, zoals deze zonder de strafoplegging zou zijn geweest.
+2. Een opgelegde straf, als bedoeld in het eerste lid onder g, h, of i, kan, indien daar gelet op het gedrag van betrokken ambtenaar naar het oordeel van de bevoegde autoriteit, bedoeld in [artikel 99, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=8&artikel=99&z=2007-07-04&g=2006-08-02), reden voor is, ongedaan worden gemaakt.
 
 3. Bij het opleggen van een straf kan worden bepaald, dat zij niet ten uitvoer zal worden gelegd, indien de ambtenaar zich gedurende een vastgestelde termijn niet schuldig maakt aan soortgelijk plichtsverzuim, als waarvoor de bestraffing plaats vindt, noch aan enig ander ernstig plichtsverzuim en zich houdt aan bij het opleggen van de straf eventueel gestelde bijzondere voorwaarden.
 
 ##### Artikel 101. Gelegenheid tot verantwoording
 
-1. Indien de ambtenaar verantwoording aflegt doet hij dit ten overstaan van het gezag dat tot de voorgenomen strafoplegging bevoegd is, of van een door dit gezag aangewezen autoriteit tenzij bij koninklijk besluit anders bepaald. Indien deze bevoegdheid bij Ons berust, geschiedt de verantwoording ten overstaan van Onze Minister of van een door deze aangewezen autoriteit. Het gezag, ten overstaan waarvan de verantwoording zal plaats vinden, bepaalt of deze mondeling of schriftelijk zal geschieden, met dien verstande dat bij schriftelijke verantwoording de ambtenaar op zijn verzoek gelegenheid wordt gegeven tot nadere mondelinge toelichting. De ambtenaar kan zich daarbij door een rechtskundige of een andere raadsman doen bijstaan.
+1. Indien de ambtenaar verantwoording aflegt doet hij dit ten overstaan van Onze Minister of een door hem aangewezen autoriteit. Deze bepaalt of de verantwoording mondeling of schriftelijk zal geschieden, met dien verstande dat bij schriftelijke verantwoording de ambtenaar op zijn verzoek gelegenheid wordt gegeven tot nadere mondelinge toelichting. De ambtenaar kan zich door een rechtskundige of een andere raadsman doen bijstaan.
 
 2. Van de mondelinge verantwoording en van een eventuele nadere mondelinge toelichting wordt aanstonds proces-verbaal opgemaakt, dat na voorlezing wordt getekend door hem, te wiens overstaan de verantwoording heeft plaatsgevonden en door de ambtenaar.
 
@@ -1613,7 +1635,7 @@ De ambtenaar kan niet gestraft worden wegens overtreding van [artikel 125**a**, 
 
 1. De ambtenaar is van rechtswege in zijn ambt geschorst, wanneer hij krachtens wettelijke maatregel van zijn vrijheid is beroofd, tenzij die vrijheidsbeneming het gevolg is van een maatregel, anders dan op grond van de [Wet bijzondere opnemingen in psychiatrische ziekenhuizen](https://wetten.overheid.nl/jci1.3:c:BWBR0005700), genomen in het belang van de volksgezondheid.
 
-2. Onverminderd [artikel 99, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=8&artikel=99&z=2006-08-02&g=2006-03-10), j°. [artikel 100, eerste lid, onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=8&artikel=100&z=2006-08-02&g=2006-03-10), kan de ambtenaar voorts in zijn ambt worden geschorst:
+2. Onverminderd [artikel 99, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=8&artikel=99&z=2007-07-04&g=2006-08-02), j°. [artikel 100, eerste lid, onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=8&artikel=100&z=2007-07-04&g=2006-08-02), kan de ambtenaar voorts in zijn ambt worden geschorst:
 
 - a. indien een strafrechtelijke vervolging ter zake van misdrijf tegen hem is ingesteld;
 
@@ -1623,27 +1645,29 @@ De ambtenaar kan niet gestraft worden wegens overtreding van [artikel 125**a**, 
 
 ##### Artikel 110. Wijze waarop schorsing plaatsvindt
 
-1. Schorsing als bedoeld in [artikel 109, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=10&artikel=109&z=2006-08-02&g=2006-03-10), geschiedt door het bevoegde gezag.
+1. Schorsing als bedoeld in [artikel 109, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=10&artikel=109&z=2007-07-04&g=2006-08-02), geschiedt door Onze Minister of een door hem aangewezen autoriteit.
 
 2. In afwijking van het eerste lid geschiedt de schorsing van de ambtenaar die bij koninklijk besluit is aangesteld, door Onze Minister.
 
-3. De schorsing als bedoeld in [artikel 109, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=10&artikel=109&z=2006-08-02&g=2006-03-10), gaat in op het tijdstip, waarop deze de betrokken ambtenaar bekend wordt gemaakt. Indien het gedurende zes dagen feitelijk niet mogelijk is de ambtenaar het schorsingsbesluit ter kennis te brengen, gaat de schorsing in op de zevende dag na de dagtekening van het schorsingsbesluit.
+3. De schorsing als bedoeld in [artikel 109, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=10&artikel=109&z=2007-07-04&g=2006-08-02), gaat in op het tijdstip, waarop deze de betrokken ambtenaar bekend wordt gemaakt. Indien het gedurende zes dagen feitelijk niet mogelijk is de ambtenaar het schorsingsbesluit ter kennis te brengen, gaat de schorsing in op de zevende dag na de dagtekening van het schorsingsbesluit.
 
 ##### Artikel 111. Opheffing van de schorsing
 
-1. Een schorsing als bedoeld in [artikel 109, tweede lid, onderdeel a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=10&artikel=109&z=2006-08-02&g=2006-03-10), eindigt wanneer hij wordt opgeheven door de bevoegde autoriteit, bedoeld in [artikel 110, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=10&artikel=110&z=2006-08-02&g=2006-03-10).
+1. Een schorsing als bedoeld in [artikel 109, tweede lid, onderdeel a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=10&artikel=109&z=2007-07-04&g=2006-08-02), eindigt wanneer hij wordt opgeheven door de bevoegde autoriteit, bedoeld in [artikel 110, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=10&artikel=110&z=2007-07-04&g=2006-08-02).
 
-2. Een schorsing als bedoeld in [artikel 109, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=10&artikel=109&z=2006-08-02&g=2006-03-10), wordt opgeheven wanneer de belangen van de dienst de schorsing niet meer vorderen, doch uiterlijk na drie maanden, tenzij de omstandigheid die aanleiding gaf voor die schorsing zich nog immer voordoet.
+2. Een schorsing als bedoeld in [artikel 109, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=10&artikel=109&z=2007-07-04&g=2006-08-02), wordt opgeheven wanneer de belangen van de dienst de schorsing niet meer vorderen, doch uiterlijk na drie maanden, tenzij de omstandigheid die aanleiding gaf voor die schorsing zich nog immer voordoet.
 
-##### Artikel 112. Ontslag
+##### Artikel 112. Bevoegdheid tot ontslag
 
-Ontslag wordt gegeven door het gezag, dat bevoegd is tot aanstelling in het desbetreffende ambt.
+1. Het ontslag van de ambtenaar in vaste dienst die wordt bezoldigd volgens salarisschaal 15 of hoger van [bijlage A van het Inkomstenbesluit burgerlijke ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&bijlage=A) geschiedt bij koninklijk besluit.
+
+2. Het ontslag in de overige gevallen geschiedt door Onze Minister.
 
 ##### Artikel 113. Ontslag op aanvraag
 
 1. De ambtenaar wordt op zijn aanvraag ontslag verleend.
 
-2. Behoudens in het geval bedoeld in [artikel 53, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=5&paragraaf=2&artikel=53&z=2006-08-02&g=2006-03-10), wordt dit ontslag verleend met ingang van een dag niet vroeger dan een maand of later dan 3 maanden na de dag, waarop de aanvraag om ontslag is ingekomen.
+2. Behoudens in het geval bedoeld in [artikel 53, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=5&paragraaf=2&artikel=53&z=2007-07-04&g=2006-08-02), wordt dit ontslag verleend met ingang van een dag niet vroeger dan een maand of later dan 3 maanden na de dag, waarop de aanvraag om ontslag is ingekomen.
 
 3. Van het bepaalde in het eerste lid kan worden afgeweken, indien een strafrechtelijke vervolging ter zake van misdrijf tegen de ambtenaar is ingesteld of indien wordt overwogen de disciplinaire straf van ontslag op te leggen.
 
@@ -1667,7 +1691,7 @@ Ontslag wordt gegeven door het gezag, dat bevoegd is tot aanstelling in het desb
 
 ##### Artikel 115. Ontslag ambtenaar in tijdelijke dienst
 
-1. Aan de ambtenaar in tijdelijke dienst die blijkens zijn akte van aanstelling is aangesteld voor een vast bepaalde tijd of voor een proeftijd, wordt tenzij het tegendeel blijkt, geacht eervol ontslag te zijn verleend zodra die tijd is verstreken. Bij voortduring van het dienstverband na het verstrijken van de vast bepaalde tijd of de – eventueel ingevolge artikel 7, tweede lid onder a verlengde – proeftijd, wordt de ambtenaar geacht voor onbepaalde tijd te zijn aangesteld.
+1. Aan de ambtenaar in tijdelijke dienst die blijkens zijn akte van aanstelling is aangesteld voor een vast bepaalde tijd of voor een proeftijd, wordt tenzij het tegendeel blijkt, geacht eervol ontslag te zijn verleend zodra die tijd is verstreken. Bij voortduring van het dienstverband na het verstrijken van de vast bepaalde tijd of de – eventueel ingevolge [artikel 7, tweede lid onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=2&paragraaf=1&artikel=7&z=2007-07-04&g=2006-08-02) verlengde – proeftijd, wordt de ambtenaar geacht voor onbepaalde tijd te zijn aangesteld.
 
 2. Aan de ambtenaar in tijdelijke dienst, die is aangesteld voor onbepaalde tijd – waaronder begrepen de ambtenaar die is aangesteld ter vervanging van een afwezige ambtenaar dan wel belast is met werk van kennelijk tijdelijk karakter – kan ontslag worden verleend, mits een opzeggingstermijn in acht wordt genomen van:
 
@@ -1677,7 +1701,7 @@ Ontslag wordt gegeven door het gezag, dat bevoegd is tot aanstelling in het desb
 
 - c. één maand, indien de ambtenaar ten tijde van de opzegging laatstelijk korter dan zes maanden onafgebroken in dienst is geweest.
 
-3. Opzegging als bedoeld in het tweede lid kan niet geschieden gedurende de zwangerschap van de vrouwelijke ambtenaar, noch gedurende het verlof op grond van [artikel 3:1 van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:1), noch – indien zij haar dienst heeft hervat – gedurende een periode van zes weken volgend op dat verlof. Het bevoegd gezag kan ter staving van de zwangerschap een verklaring van een arts of van een verloskundige verlangen.
+3. Opzegging als bedoeld in het tweede lid kan niet geschieden gedurende de zwangerschap van de vrouwelijke ambtenaar, noch gedurende het verlof op grond van [artikel 3:1 van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:1), noch – indien zij haar dienst heeft hervat – gedurende een periode van zes weken volgend op dat verlof. Onze Minister kan ter staving van de zwangerschap een verklaring van een arts of van een verloskundige verlangen.
 
 4. Opzegging als bedoeld in het tweede lid kan niet geschieden wegens de omstandigheid dat de ambtenaar in of buiten rechte een beroep heeft gedaan op het beginsel van gelijke behandeling van mannen en vrouwen.
 
@@ -1697,7 +1721,7 @@ Ontslag wordt gegeven door het gezag, dat bevoegd is tot aanstelling in het desb
 
 - b. wegens overtolligheid van personeel als gevolg van verandering in de inrichting van het dienstvak of onderdeel daarvan zoals een directie of een afdeling waarbij de ambtenaar werkzaam is, dan wel als gevolg van vermindering der werkzaamheden bij het dienstvak of dat onderdeel.
 
-2. Ontslag op één van de in het eerste lid genoemde gronden kan slechts plaatsvinden, indien het na een zorgvuldig onderzoek niet mogelijk is gebleken om de ambtenaar binnen het gezagsbereik van Onze Minister andere mede in verband met zijn persoonlijkheid en omstandigheden voor hem passende werkzaamheden op te dragen, dan wel indien deze zodanige werkzaamheden weigert te aanvaarden. Bij het opdragen van passende werkzaamheden zal, teneinde het ontstaan dan wel het vergroten van feitelijke ongelijkheden tegen te gaan, uitgangspunt zijn dat voorrang wordt gegeven aan vrouwelijke ambtenaren.
+2. Ontslag op één van de in het eerste lid genoemde gronden kan slechts plaatsvinden, indien het na een zorgvuldig onderzoek niet mogelijk is gebleken om de ambtenaar binnen het gezagsbereik van Onze Minister andere mede in verband met zijn persoonlijkheid en omstandigheden voor hem passende werkzaamheden op te dragen, dan wel indien deze zodanige werkzaamheden weigert te aanvaarden. Bij het opdragen van passende werkzaamheden zal, teneinde het ontstaan dan wel het vergroten van feitelijke ongelijkheden tegen te gaan, uitgangspunt zijn dat bij gelijke geschiktheid voorrang wordt gegeven aan vrouwelijke ambtenaren.
 
 3. Ontslag van in vaste dienst aangestelde ambtenaren wegens overtolligheid van personeel geschiedt in de volgende rangorde:
 
@@ -1713,19 +1737,19 @@ Ontslag wordt gegeven door het gezag, dat bevoegd is tot aanstelling in het desb
 
 5. Bij een ontslagverlening op grond van het eerste lid van dit artikel wordt een opzeggingstermijn van drie maanden in acht genomen.
 
-6. Aan de ambtenaar wordt bij dan wel na verplaatsing van de dienst of het dienstvak of onderdeel daarvan waarbij hij werkzaam is, eervol ontslag verleend, indien op grond van door hem kenbaar gemaakte, aan zijn persoonlijke omstandigheden ontleende en door Onze Minister als geldig erkende bedenkingen van hem in redelijkheid niet kan worden verlangd dat hij zich naar de daaruit voor hem voortvloeiende verplaatsing zal voegen dan wel in de daaruit voor hem voortgevloeide verplaatsing zal blijven voegen, tenzij het tot ontslagverlening bevoegde gezag het mogelijk acht aan de ambtenaar andere hem passende werkzaamheden op te dragen waarvoor eerderbedoelde bedenkingen niet gelden.
+6. Aan de ambtenaar wordt bij dan wel na verplaatsing van de dienst of het dienstvak of onderdeel daarvan waarbij hij werkzaam is, eervol ontslag verleend, indien op grond van door hem kenbaar gemaakte, aan zijn persoonlijke omstandigheden ontleende en door Onze Minister als geldig erkende bedenkingen van hem in redelijkheid niet kan worden verlangd dat hij zich naar de daaruit voor hem voortvloeiende verplaatsing zal voegen dan wel in de daaruit voor hem voortgevloeide verplaatsing zal blijven voegen, tenzij de bevoegde autoriteit, bedoeld in [artikel 112, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=10&artikel=112&z=2007-07-04&g=2006-08-02) het mogelijk acht aan de ambtenaar andere hem passende werkzaamheden op te dragen waarvoor eerderbedoelde bedenkingen niet gelden.
 
 ##### Artikel 117. Ontslag ambtenaren, die lid van Gedeputeerde Staten, wethouder etc. zijn geweest
 
-1. Aan de ambtenaar die in verband met de aanvaarding van een functie in een publiekrechtelijk college, waarin hij is benoemd of verkozen tijdelijk is ontheven van de waarneming van zijn ambt, wordt, indien hij ophoudt zodanige functie te bekleden en hij naar het oordeel van het bevoegd gezag niet in actieve dienst kan worden hersteld, eervol ontslag verleend.
+1. Aan de ambtenaar die in verband met de aanvaarding van een functie in een publiekrechtelijk college, waarin hij is benoemd of verkozen tijdelijk is ontheven van de waarneming van zijn ambt, wordt, indien hij ophoudt zodanige functie te bekleden en hij naar het oordeel van de bevoegde autoriteit, bedoeld in [artikel 112, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=10&artikel=112&z=2007-07-04&g=2006-08-02) niet in actieve dienst kan worden hersteld, eervol ontslag verleend.
 
-2. Tenzij [artikel 53, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=5&paragraaf=2&artikel=53&z=2006-08-02&g=2006-03-10) van toepassing is, wordt eervol ontslag eveneens verleend aan de ambtenaar die na afloop van het verlof, verleend met toepassing van [artikel 50](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=5&paragraaf=2&artikel=50&z=2006-08-02&g=2006-03-10) danwel van [artikel 52, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=5&paragraaf=2&artikel=52&z=2006-08-02&g=2006-03-10), naar het oordeel van het bevoegd gezag niet in actieve dienst kan worden hersteld.
+2. Tenzij [artikel 53, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=5&paragraaf=2&artikel=53&z=2007-07-04&g=2006-08-02) van toepassing is, wordt eervol ontslag eveneens verleend aan de ambtenaar die na afloop van het verlof, verleend met toepassing van [artikel 50](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=5&paragraaf=2&artikel=50&z=2007-07-04&g=2006-08-02) danwel van [artikel 52, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=5&paragraaf=2&artikel=52&z=2007-07-04&g=2006-08-02), naar het oordeel van de bevoegde autoriteit, bedoeld in [artikel 112, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=10&artikel=112&z=2007-07-04&g=2006-08-02) niet in actieve dienst kan worden hersteld.
 
 3. Het eerste lid vindt eveneens toepassing voor de ambtenaar die ophoudt de functie van substituut-ombudsman te bekleden.
 
 ##### Artikel 118. Ontslag bij benoeming tot minister of staatssecretaris
 
-Aan de ambtenaar die een benoeming tot Minister of Staatssecretaris aanvaardt wordt, met ingang van de dag van het aanvaarden van deze betrekking, eervol ontslag verleend.
+Aan de ambtenaar die een benoeming tot Minister of Staatssecretaris aanvaardt wordt door de bevoegde autoriteit, bedoeld in [artikel 112, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=10&artikel=112&z=2007-07-04&g=2006-08-02), met ingang van de dag van het aanvaarden van deze betrekking, eervol ontslag verleend.
 
 ##### Artikel 119. Functioneel leeftijdsontslag
 
@@ -1765,25 +1789,25 @@ Aan de ambtenaar die een benoeming tot Minister of Staatssecretaris aanvaardt wo
 
 3. Aan de ambtenaar, die met een functie als bedoeld in het eerste of tweede lid is belast, wordt eervol ontslag verleend met ingang van de eerste van de maand, volgende op die waarin hij de voor die functie vastgestelde leeftijdsgrens bereikt.
 
-4. De ingang van het ingevolge het bepaalde in het derde lid te verlenen ontslag kan, indien het opschorten van de ingangsdatum van het ontslag door het bevoegde gezag in het belang van de dienst wordt geacht, de ambtenaar zulks heeft aangevraagd of daarmede instemt en hij blijkens de uitslag van een onderzoek door de deskundige persoon of de arbodienst bedoeld in [artikel 54a, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=6&paragraaf=1&artikel=54a&z=2006-08-02&g=2006-03-10) lichamelijk en psychisch in staat kan worden geacht zijn functie te blijven waarnemen, voor de duur van ten hoogste één jaar worden opgeschort, welke duur onder voorgenoemde voorwaarden telkens met ten hoogste een jaar worden verlengd.
+4. De ingang van het ingevolge het bepaalde in het derde lid te verlenen ontslag kan, indien het opschorten van de ingangsdatum van het ontslag door de bevoegde autoriteit, bedoeld in [artikel 112, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=10&artikel=112&z=2007-07-04&g=2006-08-02) in het belang van de dienst wordt geacht, de ambtenaar zulks heeft aangevraagd of daarmede instemt en hij blijkens de uitslag van een onderzoek door de deskundige persoon of de arbodienst bedoeld in [artikel 54a, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=6&paragraaf=1&artikel=54a&z=2007-07-04&g=2006-08-02) lichamelijk en psychisch in staat kan worden geacht zijn functie te blijven waarnemen, voor de duur van ten hoogste één jaar worden opgeschort, welke duur onder voorgenoemde voorwaarden telkens met ten hoogste een jaar worden verlengd.
 
 Niettemin kan aan de ambtenaar, die tussentijds blijkens de uitslag van een bedrijfsgeneeskundig onderzoek ongeschikt is geworden voor de verdere waarneming van zijn functie, eervol ontslag worden verleend met ingang van de eerste van de maand, volgende op die waarin de uitslag van het geneeskundig onderzoek te zijner kennis is gebracht.
 
 5. De ambtenaar, aan wie op grond van het eerste of tweede lid ontslag is verleend, geniet een uitkering overeenkomstig de daarvoor vastgestelde regels.
 
-6. Het ontslag, bedoeld in het eerste en tweede lid, wordt aangemerkt als een ontslag als bedoeld in [artikel 114, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=10&artikel=114&z=2006-08-02&g=2006-03-10), indien voor dat ontslag wordt voldaan aan de daar bedoelde voorwaarden.
+6. Het ontslag, bedoeld in het eerste en tweede lid, wordt aangemerkt als een ontslag als bedoeld in [artikel 114, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=10&artikel=114&z=2007-07-04&g=2006-08-02), indien voor dat ontslag wordt voldaan aan de daar bedoelde voorwaarden.
 
 ##### Artikel 120
 
-1. Voor de ontslagverlening als bedoeld in [artikel 125**e**, vierde lid van de Ambtenarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=125e) is de medewerking of machtiging vereist van Onze Minister. Deze is gehouden het advies in te winnen van de adviescommissie grondrechten en functie-uitoefening ambtenaren.
+1. Voor de ontslagverlening als bedoeld in [artikel 125e, tweede lid van de Ambtenarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=125e) is de medewerking of machtiging vereist van Onze Minister. Deze is gehouden het advies in te winnen van de adviescommissie grondrechten en functie-uitoefening ambtenaren.
 
 2. Indien het voornemen tot ontslagverlening afkomstig is van Onze Minister is de machtiging vereist van Onze Minister-President.
 
 ##### Artikel 121. Ontslaggronden
 
-1. Anders dan op eigen aanvraag, bij wijze van straf of ingevolge het bepaalde bij [artikel 7 van de Wet Incompatibiliteiten Staten-Generaal en Europees Parlement](https://wetten.overheid.nl/jci1.3:c:BWBR0006612&artikel=7) en bij de [artikelen 115](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=10&artikel=115&z=2006-08-02&g=2006-03-10), [116](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=10&artikel=116&z=2006-08-02&g=2006-03-10), [117](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=10&artikel=117&z=2006-08-02&g=2006-03-10), [119](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=10&artikel=119&z=2006-08-02&g=2006-03-10) en [120 van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=10&artikel=120&z=2006-08-02&g=2006-03-10), kan de ambtenaar worden ontslagen op grond van:
+1. Anders dan op eigen aanvraag, bij wijze van straf of ingevolge het bepaalde bij [artikel 7 van de Wet Incompatibiliteiten Staten-Generaal en Europees Parlement](https://wetten.overheid.nl/jci1.3:c:BWBR0006612&artikel=7) en bij de [artikelen 115](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=10&artikel=115&z=2007-07-04&g=2006-08-02), [116](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=10&artikel=116&z=2007-07-04&g=2006-08-02), [117](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=10&artikel=117&z=2007-07-04&g=2006-08-02), [119](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=10&artikel=119&z=2007-07-04&g=2006-08-02) en [120](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=10&artikel=120&z=2007-07-04&g=2006-08-02) van dit besluit, kan de ambtenaar worden ontslagen op grond van:
 
-- a. het verlies van een vereiste voor de benoembaarheid, door het bevoegd gezag gesteld bij een regeling aan de benoeming voorafgegaan, tenzij het vereiste alleen voor de aanvang van het ambt geldt;
+- a. het verlies van een vereiste voor de benoembaarheid, door Onze Minister gesteld bij een regeling aan de benoeming voorafgegaan, tenzij het vereiste alleen voor de aanvang van het ambt geldt;
 
 - b. het aangaan van een graad van zwagerschap, die de benoembaarheid tot het ambt zou uitsluiten;
 
@@ -1799,11 +1823,11 @@ Niettemin kan aan de ambtenaar, die tussentijds blijkens de uitslag van een bedr
 
 - h. het bereiken van de pensioengerechtigde leeftijd;
 
-- i. het bij of in verband met indiensttreding of keuring verstrekken van onjuiste of onvolledige inlichtingen, zonder welke handelwijze niet tot indienstneming of goedkeuring zou zijn overgegaan, tenzij de ambtenaar aannemelijk maakt dat hij te goeder trouw heeft gehandeld.
+- i. het bij of in verband met indiensttreding of medisch onderzoek verstrekken van onjuiste of onvolledige inlichtingen, zonder welke handelwijze niet tot indienstneming of goedkeuring zou zijn overgegaan, tenzij de ambtenaar aannemelijk maakt dat hij te goeder trouw heeft gehandeld.
 
 2. Een ontslag op grond van het bepaalde in het eerste lid onder **a**, **b**, **f**, **g** en **h** wordt steeds eervol verleend.
 
-3. Behoudens voor de toepassing van [artikel 123a](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=10&artikel=123a&z=2006-08-02&g=2006-03-10) kan een ontslag als bedoeld in het eerste lid, onderdeel f. slechts plaatsvinden indien:
+3. Behoudens voor de toepassing van [artikel 123a](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=10&artikel=123a&z=2007-07-04&g=2006-08-02) kan een ontslag als bedoeld in het eerste lid, onderdeel f. slechts plaatsvinden indien:
 
 - a. er sprake is van ongeschiktheid tot het verrichten van zijn arbeid wegens ziekte gedurende een ononderbroken periode van twee jaar,
 
@@ -1811,7 +1835,7 @@ Niettemin kan aan de ambtenaar, die tussentijds blijkens de uitslag van een bedr
 
 - c. na een zorgvuldig onderzoek het niet mogelijk is gebleken om de ambtenaar binnen het gezagsbereik van Onze Minister andere arbeid aan te bieden, dan wel indien de ambtenaar geweigerd heeft deze arbeid te aanvaarden.
 
-4. Onder arbeid als bedoeld in het derde lid, onderdeel **c**, wordt gedurende het eerste jaar dat de ambtenaar ongeschikt is tot het verrichten van zijn arbeid wegens ziekte passende, en gedurende de periode daarna gangbare arbeid verstaan als bedoeld in artikel 54**a**.
+4. Onder arbeid als bedoeld in het derde lid, onderdeel **c**, wordt gedurende het eerste jaar dat de ambtenaar ongeschikt is tot het verrichten van zijn arbeid wegens ziekte passende, en gedurende de periode daarna gangbare arbeid verstaan als bedoeld in [artikel 54a](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=6&paragraaf=1&artikel=54a&z=2007-07-04&g=2006-08-02).
 
 5. Bij het bepalen van het tijdvak van twee jaar als bedoeld in het derde lid, onder a, wordt niet in aanmerking genomen afwezigheid van een vrouwelijke ambtenaar wegens ziekte die haar oorsprong vindt in de zwangerschap of bevalling, in geval deze ziekte is opgetreden tijdens de zwangerschap en gedurende en na het zwangerschapsverlof heeft voortgeduurd.
 
@@ -1823,21 +1847,21 @@ Niettemin kan aan de ambtenaar, die tussentijds blijkens de uitslag van een bedr
 
 - c. een onder b. bedoelde afwezigheid wordt voorafgegaan of wordt gevolgd door een periode van arbeidsgeschiktheid, die in totaal minder dan vier weken bedraagt.
 
-7. Om te beoordelen of er sprake is van een situatie als bedoeld in het derde lid, onderdelen **a** en **b**, vraagt het bevoegd gezag het oordeel van een daartoe door de UWV, bedoeld in [artikel 54a, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=6&paragraaf=1&artikel=54a&z=2006-08-02&g=2006-03-10), die de [Wet op de Arbeidsongeschiktheidsverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) uitvoert ten aanzien van de ambtenaar, aangewezen arts.
+7. Om te beoordelen of er sprake is van een situatie als bedoeld in het derde lid, onderdelen **a** en **b**, vraagt Onze Minister het oordeel van een daartoe door de UWV, bedoeld in [artikel 54a, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=6&paragraaf=1&artikel=54a&z=2007-07-04&g=2006-08-02), die de [Wet op de Arbeidsongeschiktheidsverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) uitvoert ten aanzien van de ambtenaar, aangewezen arts.
 
-8. De in het zevende lid bedoelde arts betrekt bij zijn beoordeling een door het bevoegd gezag aangewezen arts en, indien de ambtenaar dit wenst, een door de ambtenaar aangewezen arts.
+8. De in het zevende lid bedoelde arts betrekt bij zijn beoordeling een door Onze Minister aangewezen arts en, indien de ambtenaar dit wenst, een door de ambtenaar aangewezen arts.
 
-9. Het bevoegd gezag stelt de ambtenaar er schriftelijk van in kennis dat de procedure, bedoeld in het zevende lid, wordt ingesteld. Daarbij wijst het bevoegd gezag de ambtenaar op de mogelijkheid om een arts van zijn keuze te laten deelnemen aan de procedure.
+9. Onze Minister stelt de ambtenaar er schriftelijk van in kennis dat de procedure, bedoeld in het zevende lid, wordt ingesteld. Daarbij wijst Onze Minister de ambtenaar op de mogelijkheid om een arts van zijn keuze te laten deelnemen aan de procedure.
 
 10. De kennisgeving, bedoeld in het negende lid, geschiedt niet eerder dan nadat de ambtenaar gedurende een onafgebroken periode van 18 maanden ongeschikt is geweest tot het verrichten van zijn arbeid wegens ziekte. Het zesde lid is hierbij van overeenkomstige toepassing.
 
-11. De in het zevende lid bedoelde arts stelt naar aanleiding van zijn bevindingen een rapport op. Hij zendt dit rapport aan het bevoegd gezag. Tevens zendt hij een afschrift van dit rapport aan de ambtenaar.
+11. De in het zevende lid bedoelde arts stelt naar aanleiding van zijn bevindingen een rapport op. Hij zendt dit rapport aan Onze Minister . Tevens zendt hij een afschrift van dit rapport aan de ambtenaar.
 
 12. Indien herplaatsing als bedoeld in het derde lid, onderdeel **c**, plaatsvindt in een betrekking voor minder uren dan het aantal waarvoor de ambtenaar was aangesteld, heeft het ontslag uitsluitend betrekking op het meerdere aantal uren.
 
 ##### Artikel 122. Pensioengerechtigde leeftijd
 
-1. Aan ambtenaren of werknemers op arbeidsovereenkomst werkzaam bij het Ministerie van Defensie en de daaronder ressorterende bedrijven en instellingen, wordt behoudens in zeer bijzondere gevallen ter beoordeling van het tot ontslag bevoegde gezag bij het bereiken van de leeftijd van 65 jaar door het bevoegd gezag het ontslag als bedoeld in artikel 121, eerste lid onder **h**, verleend met ingang van de eerstvolgende maand.
+1. Aan ambtenaren wordt, behoudens in zeer bijzondere gevallen, bij het bereiken van de leeftijd van 65 jaar door de bevoegde autoriteit, bedoeld in [artikel 112, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=10&artikel=112&z=2007-07-04&g=2006-08-02), het ontslag als bedoeld in [artikel 121, eerste lid onder h](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=10&artikel=121&z=2007-07-04&g=2006-08-02), verleend met ingang van de eerstvolgende maand.
 
 2. Dit artikel is niet van toepassing:
 
@@ -1849,27 +1873,27 @@ Niettemin kan aan de ambtenaar, die tussentijds blijkens de uitslag van een bedr
 
 ##### Artikel 124. Ontslag op andere gronden
 
-1. Aan de ambtenaar in vaste dienst kan ook op andere gronden dan die in artikel 121 zijn geregeld of waarnaar in dat artikel wordt verwezen, ontslag worden gegeven. Het ontslag wordt eervol verleend.
+1. Aan de ambtenaar in vaste dienst kan ook op andere gronden dan die in [artikel 121](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=10&artikel=121&z=2007-07-04&g=2006-08-02) zijn geregeld of waarnaar in dat artikel wordt verwezen, ontslag worden gegeven. Het ontslag wordt eervol verleend.
 
-2. In geval van ontslag ingevolge het eerste lid wordt door het tot ontslagverlening bevoegde gezag een voorziening getroffen waarbij de ambtenaar een uitkering verleend wordt, die, naar het oordeel van dat bevoegde gezag, met het oog op de omstandigheden redelijk is te achten. Deze uitkering is ten minste gelijk aan het totaalbedrag van de uitkeringen berekend op basis van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) en het [Besluit bovenwettelijke uitkeringen bij werkloosheid voor de sector Defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0010510).
+2. In geval van ontslag ingevolge het eerste lid wordt door de bevoegde autoriteit, bedoeld in [artikel 112, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=10&artikel=112&z=2007-07-04&g=2006-08-02), een voorziening getroffen waarbij de ambtenaar een uitkering wordt verleend, die, naar het oordeel van dat bevoegd gezag, met het oog op de omstandigheden redelijk is te achten. Deze uitkering is ten minste gelijk aan het totaalbedrag van de uitkeringen berekend op basis van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) en het [Besluit bovenwettelijke uitkeringen bij werkloosheid voor de sector Defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0010510).
 
-3. Indien de ambtenaar terzake van zijn ontslag ingevolge het eerste lid recht heeft op een uitkering krachtens de[Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) of het [Besluit bovenwettelijke uitkeringen bij werkloosheid voor de sector Defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0010510), wordt de in het tweede lid bedoelde uitkering met die uitkering verminderd.
+3. Indien de ambtenaar terzake van zijn ontslag ingevolge het eerste lid recht heeft op een uitkering krachtens de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) of het [Besluit bovenwettelijke uitkeringen bij werkloosheid voor de sector Defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0010510), wordt de in het tweede lid bedoelde uitkering met die uitkering verminderd.
 
 ##### Artikel 127. Uitkering na overlijden
 
-1. De bezoldiging van de ambtenaar wordt niet langer uitbetaald dan tot en met de dag van overlijden. [Artikel 30dd](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=1&artikel=30dd&z=2006-08-02&g=2006-03-10) en [artikel 34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=5&paragraaf=1&artikel=34&z=2006-08-02&g=2006-03-10), worden voorts overeenkomstig toegepast.
+1. De bezoldiging van de ambtenaar wordt niet langer uitbetaald dan tot en met de dag van overlijden. [Artikel 30dd](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=1&artikel=30dd&z=2007-07-04&g=2006-08-02) en [artikel 34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=5&paragraaf=1&artikel=34&z=2007-07-04&g=2006-08-02), worden voorts overeenkomstig toegepast.
 
-2. Met inachtneming van het bepaalde in het vijfde lid wordt zo spoedig mogelijk na het overlijden aan de weduwe, van wie de overleden ambtenaar niet duurzaam gescheiden leefde, een bedrag uitgekeerd gelijk aan de bezoldiging over een tijdvak van drie maanden. Als maatstaf bij de berekening van het in de vorige volzin bedoelde bedrag geldt, behoudens het hierna bepaalde, de bezoldiging, welke de ambtenaar op de dag van het overlijden genoot of zou hebben genoten met in acht neming van het bepaalde in artikel 59**a**.
+2. Met inachtneming van het bepaalde in het vijfde lid wordt zo spoedig mogelijk na het overlijden aan de weduwe, van wie de overleden ambtenaar niet duurzaam gescheiden leefde, een bedrag uitgekeerd gelijk aan de bezoldiging over een tijdvak van drie maanden. Als maatstaf bij de berekening van het in de vorige volzin bedoelde bedrag geldt, behoudens het hierna bepaalde, de bezoldiging, welke de ambtenaar op de dag van het overlijden genoot of zou hebben genoten met in acht neming van het bepaalde in [artikel 59a](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=6&paragraaf=4&artikel=59a&z=2007-07-04&g=2006-08-02).
 
-De uitkering wordt vermeerderd met een bedrag gelijk aan drie maal dat van de vakantie-uitkering over een maand berekend op de voet van het bepaalde in het [Bezoldigingsbesluit burgerlijke ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006038), naar de bezoldiging die de ambtenaar in de maand van het overlijden zou hebben genoten. Indien de ambtenaar in het genot was van een toelage als bedoeld in artikel 15, dan wel artikel 18 van eerdervermeld besluit, wordt het gedeelte van de in de eerste volzin genoemde uitkering dat betrekking heeft op bovenbedoelde toelagen gesteld op het bedrag dat de overleden ambtenaar in de drie kalendermaanden voorafgaand aan de dag van het overlijden aan zodanige toelagen is toegekend.
+De uitkering wordt vermeerderd met een bedrag gelijk aan drie maal dat van de vakantie-uitkering over een maand berekend op de voet van het bepaalde in het [Bezoldigingsbesluit burgerlijke ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006038), naar de bezoldiging die de ambtenaar in de maand van het overlijden zou hebben genoten. Indien de ambtenaar in het genot was van een toelage als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0006038&artikel=15), dan wel [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0006038&artikel=18) van eerdervermeld besluit, wordt het gedeelte van de in de eerste volzin genoemde uitkering dat betrekking heeft op bovenbedoelde toelagen gesteld op het bedrag dat de overleden ambtenaar in de drie kalendermaanden voorafgaand aan de dag van het overlijden aan zodanige toelagen is toegekend.
 
 Bij ontstentenis van een weduwe, van wie de overledene niet duurzaam gescheiden leefde, geschiedt de uitkering ten behoeve van de minderjarige kinderen. Onder kinderen in de zin van dit artikel worden mede verstaan natuurlijke kinderen, waarover de overledene de pleegouderlijke zorg droeg. Onder pleegouderlijke zorg wordt verstaan de zorg voor het onderhoud en de opvoeding van het kind als was het een eigen kind, onafhankelijk van enige veplichting daartoe of van het genieten van een vergoeding daarvoor. Ontbreken ook zodanige kinderen dan geschiedt de uitkering aan degenene die geheel of grotendeels afhankelijk waren van de bezoldiging van de ambtenaar.
 
-3. Indien de overledene geen betrekkingen, als bedoeld in het tweede lid nalaat, kan het daarbedoelde bedrag door het bevoegde gezag geheel of ten dele worden uitgekeerd voor de betaling van de kosten van de laatste ziekte en van de lijkbezorging, indien de nalatenschap van de overledene voor de betaling van die kosten ontoereikend is.
+3. Indien de overledene geen betrekkingen, als bedoeld in het tweede lid nalaat, kan het daarbedoelde bedrag door Onze Minister geheel of ten dele worden uitgekeerd voor de betaling van de kosten van de laatste ziekte en van de lijkbezorging, indien de nalatenschap van de overledene voor de betaling van die kosten ontoereikend is.
 
-4. Voor de toepassing van dit artikel wordt, indien de ambtenaar op de dag van zijn overlijden wegens ziekte of ongeval verhinderd was zijn dienst te verrichten, onder bezoldiging verstaan hetgeen daaronder voor de toepassing van hoofdstuk 6 wordt verstaan.
+4. Voor de toepassing van dit artikel wordt, indien de ambtenaar op de dag van zijn overlijden wegens ziekte of ongeval verhinderd was zijn dienst te verrichten, onder bezoldiging verstaan hetgeen daaronder voor de toepassing van [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=6&z=2007-07-04&g=2006-08-02) wordt verstaan.
 
-5. Op het bedrag bedoeld in het tweede lid, worden in mindering gebracht een uitkering overeenkomstig [35](onbekend)“35” moet zijn: “artikel 35 ”en [36 van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=36), [artikel 53 van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=53), [artikel 6 van het Besluit bovenwettelijke uitkeringen bij werkloosheid voor de sector Defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0010510&artikel=6) en naar aard en strekking daarmee overeenkomende uitkeringen, voorzover deze daadwerkelijk geschieden.
+5. Op het bedrag bedoeld in het tweede lid, worden in mindering gebracht een uitkering overeenkomstig [35](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=35) en [36 van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=36), [artikel 53 van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=53), [artikel 6 van het Besluit bovenwettelijke uitkeringen bij werkloosheid voor de sector Defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0010510&artikel=6) en naar aard en strekking daarmee overeenkomende uitkeringen, voorzover deze daadwerkelijk geschieden.
 
 ##### Artikel 127a. Aanspraken bij overlijden
 
@@ -1893,13 +1917,13 @@ Indien door de ambtenaar voor het gebruik der ambts- of dienstwoning een vergoed
 
 ##### Artikel 130. Vermissing van de ambtenaar
 
-1. Bij vermissing van de ambtenaar vinden, behoudens het bepaalde in het tweede lid, de bepalingen van de artikelen 127 tot en met 129 overeenkomstig toepassing. De ambtenaar wordt daarbij geacht te zijn overleden op een door Onze Minister te bepalen dag.
+1. Bij vermissing van de ambtenaar vinden, behoudens het bepaalde in het tweede lid, de bepalingen van de [artikelen 127 tot en met 129](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=10&artikel=127&z=2007-07-04&g=2006-08-02) overeenkomstig toepassing. De ambtenaar wordt daarbij geacht te zijn overleden op een door Onze Minister te bepalen dag.
 
-2. Het bepaalde in het tweede lid van artikel 127 vindt geen toepassing indien gegronde vermoedens bestaan, dat de vermissing het gevolg is van ongeoorloofde afwezigheid.
+2. Het bepaalde in het tweede lid van [artikel 127](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=10&artikel=127&z=2007-07-04&g=2006-08-02) vindt geen toepassing indien gegronde vermoedens bestaan, dat de vermissing het gevolg is van ongeoorloofde afwezigheid.
 
-3. Indien blijkt dat de als vermist beschouwde ambtenaar in leven is, kan ter beoordeling van het bevoegde gezag de bezoldiging alsnog worden uitbetaald, tenzij gegronde vermoedens bestaan dat de vermissing het gevolg was van ongeoorloofde afwezigheid.
+3. Indien blijkt dat de als vermist beschouwde ambtenaar in leven is, kan ter beoordeling van Onze Minister de bezoldiging alsnog worden uitbetaald, tenzij gegronde vermoedens bestaan dat de vermissing het gevolg was van ongeoorloofde afwezigheid.
 
-4. Indien uit hoofde van de vermissing van de ambtenaar pensioen of enige andere uitkering voortvloeiende uit zijn ambtelijke rechtspositieregeling is toegekend over het tijdvak waarover naar het oordeel van het bevoegd gezag aanspraak bestaat op bezoldiging, wordt die bezoldiging verminderd met de over dat tijdvak aldus uitbetaalde bedragen.
+4. Indien uit hoofde van de vermissing van de ambtenaar pensioen of enige andere uitkering voortvloeiende uit zijn ambtelijke rechtspositieregeling is toegekend over het tijdvak waarover naar het oordeel van Onze Minister aanspraak bestaat op bezoldiging, wordt die bezoldiging verminderd met de over dat tijdvak aldus uitbetaalde bedragen.
 
 5. De bezoldiging waarop de ambtenaar ingevolge het derde en vierde lid aanspraak heeft, kan aan anderen dan de ambtenaar worden uitbetaald.
 
@@ -1907,25 +1931,21 @@ Indien door de ambtenaar voor het gebruik der ambts- of dienstwoning een vergoed
 
 ### Hoofdstuk 12. Rechtspositie deelnemers aan initiële opleidingen en assistent- en basisberoepsopleidingen in de zin van de [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625)
 
-##### Artikel 161
+##### Artikel 161. Opleiding
 
 In dit hoofdstuk wordt verstaan onder:
 
-- a. opleiding
+- a. **opleiding:** de assistentopleiding en de basisberoepsopleiding, bedoeld in [artikel 7.2.2, eerste lid, onder a en b, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2);
 
-- 1°. de door Onze Minister aangewezen opleiding, die aansluitend aan de indiensttreding wordt gevolgd;
-
-- 2°. de assistentopleiding en de basisberoepsopleiding, bedoeld in [artikel 7.2.2, eerste lid, onder **a** en **b**, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2);
-
-- b. deelnemer: de ambtenaar die minder dan twaalf maanden achtereen is bezoldigd volgens [Inkomstenbesluit burgerlijke ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0018191) en die deelneemt aan de opleiding.
+- b. **deelnemer:** de ambtenaar die minder dan twaalf maanden achtereen is bezoldigd volgens het [Inkomstenbesluit burgerlijke ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0018191) en die deelneemt aan de opleiding.
 
 ##### Artikel 162
 
-In de akte van aanstelling van de deelnemer wordt vermeld voor hoeveel uren het dienstverband wordt aangegaan. Daarnaast wordt schriftelijk meegedeeld hoeveel uren van het dienstverband zijn bestemd voor het volgen van de opleiding.
+In de akte van aanstelling van de deelnemer wordt opgenomen hoeveel uren van de wekelijkse arbeidsuur waarvoor hij is aangesteld is bestemd voor het verrichten van arbeid, alsmede het aantal uren dat is bestemd voor het volgen van de opleiding.
 
 ##### Artikel 163
 
-In de akte van aanstelling van de ambtenaar die een opleiding dient te volgen, wordt vermeld voor hoeveel uren het dienstverband wordt aangegaan, hoeveel uren daarvan als werktijd gelden en hoeveel uren voor het volgen van de opleiding zijn bestemd.
+In de akte van aanstelling van de ambtenaar die een opleiding dient te volgen, wordt vermeld voor hoeveel uren het dienstverband wordt aangegaan, hoeveel uren daarvan als arbeidsduur gelden en hoeveel uren voor het volgen van de opleiding zijn bestemd.
 
 ##### Artikel 164
 
@@ -1935,7 +1955,7 @@ In de akte van aanstelling van de ambtenaar die een opleiding dient te volgen, w
 
 ##### Artikel 166
 
-Aan de deelnemer wordt voor de uren die zijn bestemd voor het volgen van de opleiding een salaris in de zin van [Inkomstenbesluit burgerlijke ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0018191) toegekend.
+Aan de deelnemer wordt voor de uren die zijn bestemd voor het volgen van de opleiding een salaris in de zin van het [Inkomstenbesluit burgerlijke ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0018191) toegekend.
 
 ### Hoofdstuk 13. Slot- en overgangsbepalingen
 
@@ -1945,31 +1965,31 @@ Voor zoveel voor ambtenaren nadere regels ter uitwerking of aanvulling van de be
 
 ##### Artikel 168a. Mandaatverlening
 
-Van de bevoegdheid tot het vaststellen van ministeriële regelingen als bedoeld in de [hoofdstukken 4](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&z=2006-08-02&g=2006-03-10), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=5&z=2006-08-02&g=2006-03-10) en 7 kan mandaat worden verleend aan de hoofddirecteur personeel van het Ministerie van Defensie.
+Van de bevoegdheid tot het vaststellen van ministeriële regelingen als bedoeld in de [hoofdstukken 4](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&z=2007-07-04&g=2006-08-02), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=5&z=2007-07-04&g=2006-08-02) en 7 kan mandaat worden verleend aan de hoofddirecteur personeel van het Ministerie van Defensie.
 
 ##### Artikel 169
 
-1. De ambtenaar in de zin van artikel 1 die is aangesteld op grond van [artikel 7, eerste respectievelijk tweede lid van het Algemeen rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=7) wordt geacht met ingang van de datum van inwerkingtreden van dit besluit te zijn aangesteld op grond van [artikel 8, eerste respectievelijk tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=2&paragraaf=1&artikel=8&z=2006-08-02&g=2006-03-10) van dit besluit.
+1. De ambtenaar in de zin van artikel 1 die is aangesteld op grond van [artikel 7, eerste respectievelijk tweede lid van het Algemeen rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=7) wordt geacht met ingang van de datum van inwerkingtreden van dit besluit te zijn aangesteld op grond van [artikel 8, eerste respectievelijk tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=2&paragraaf=1&artikel=8&z=2007-07-04&g=2006-08-02) van dit besluit.
 
 2. De ambtenaar die bij koninklijk besluit in algemene dienst van het Rijk is aangesteld op grond van [artikel 7, vierde lid van het Algemeen rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=7) en werkzaam is bij het Ministerie van Defensie wordt geacht met ingang van de datum van inwerkingtreden van dit besluit te zijn aangesteld bij het Ministerie van Defensie.
 
 ##### Artikel 170
 
-1. Voor zover op grond van de bepalingen van dit besluit nadere regels moeten worden gegeven gelden na de inwerkingtreding van dit besluit ten aanzien van de ambtenaar als genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=1&artikel=1&z=2006-08-02&g=2006-03-10) van dit besluit de op basis van de overeenkomstige bepalingen van het [Algemeen rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950) vastgestelde regels als nadere regels berustende op dit besluit voor zover zij daarmede niet in strijd zijn. Zij blijven gedurende één jaar na het inwerkingtreden van dit besluit van toepassing op de in artikel 1 genoemde ambtenaar tenzij Onze Minister anders bepaalt.
+1. Voor zover op grond van de bepalingen van dit besluit nadere regels moeten worden gegeven gelden na de inwerkingtreding van dit besluit ten aanzien van de ambtenaar als genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=1&artikel=1&z=2007-07-04&g=2006-08-02) van dit besluit de op basis van de overeenkomstige bepalingen van het [Algemeen rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950) vastgestelde regels als nadere regels berustende op dit besluit voor zover zij daarmede niet in strijd zijn. Zij blijven gedurende één jaar na het inwerkingtreden van dit besluit van toepassing op de in artikel 1 genoemde ambtenaar tenzij Onze Minister anders bepaalt.
 
-2. Besluiten ten aanzien van ambtenaren als genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=1&artikel=1&z=2006-08-02&g=2006-03-10) van dit besluit, welke na 1 april 1993 op basis van het [Algemeen rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950) zijn genomen worden geacht te zijn genomen op basis van dit besluit.
+2. Besluiten ten aanzien van ambtenaren als genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=1&artikel=1&z=2007-07-04&g=2006-08-02) van dit besluit, welke na 1 april 1993 op basis van het [Algemeen rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950) zijn genomen worden geacht te zijn genomen op basis van dit besluit.
 
 ##### Artikel 171
 
-1. Voor de ambtenaar die op datum van inwerkingtreding van dit besluit in dienst is bij het Ministerie van Defensie, wordt de tijd dat hij aangesteld is geweest bij een onderdeel van de sector Rijk meegeteld voor het bepaalde in [artikel 7, tweede lid, onder e en g](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=2&paragraaf=1&artikel=7&z=2006-08-02&g=2006-03-10).
+1. Voor de ambtenaar die op datum van inwerkingtreding van dit besluit in dienst is bij het Ministerie van Defensie, wordt de tijd dat hij aangesteld is geweest bij een onderdeel van de sector Rijk meegeteld voor het bepaalde in [artikel 7, tweede lid, onder e en g](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=2&paragraaf=1&artikel=7&z=2007-07-04&g=2006-08-02).
 
 ##### Artikel 172. Verlofstuwmeer
 
-De toepassing van artikel 33, achtste lid, vindt ten aanzien van op 31 december 1991 nog niet genoten vakantie eerst plaats met ingang van 31 december 1994, welke datum in bijzondere individuele gevallen door het bevoegde gezag op een latere datum kan worden gesteld.
+Vervallen
 
 ##### Artikel 173. Toepasselijkheid [Algemene Termijnenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002448)
 
-De [Algemene Termijnenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002448) is niet van toepassing op de termijnen in dit besluit gesteld, met uitzondering van die, genoemd in de [artikelen 11, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=2&paragraaf=2&artikel=11&z=2006-08-02&g=2006-03-10), [57, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=6&paragraaf=2&artikel=57&z=2006-08-02&g=2006-03-10) alsmede in [hoofdstuk 11](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=11&z=2006-08-02&g=2006-03-10).
+De [Algemene Termijnenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002448) is niet van toepassing op de termijnen in dit besluit gesteld, met uitzondering van die, genoemd in de [artikelen 11, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=2&paragraaf=2&artikel=11&z=2007-07-04&g=2006-08-02), [57, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=6&paragraaf=2&artikel=57&z=2007-07-04&g=2006-08-02) alsmede in [hoofdstuk 11](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=11&z=2007-07-04&g=2006-08-02).
 
 ##### Artikel 174. Inwerkingtreding
 
@@ -1983,19 +2003,19 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 30dc. Opname van spaaruren
 
-1. De spaaruren, bedoeld in [artikel 30db, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=1&artikel=30db&z=2006-08-02&g=2006-03-10), worden geheel of gedeeltelijk in een aaneengesloten periode van ten minste 288 spaaruren en ten hoogste 960 spaaruren opgenomen. Voor de ambtenaar die is aangesteld voor een arbeidsduur van gemiddeld minder dan 38 uur per week wordt de in de vorige volzin genoemde verplichting vastgesteld op een aaneengesloten periode van een evenredig aantal spaaruren van het aantal dat geldt voor een ambtenaar van wie het rooster is gebaseerd op een arbeidsduur van gemiddeld 38 uur per week.
+1. De spaaruren, bedoeld in [artikel 30db, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=1&artikel=30db&z=2007-07-04&g=2006-08-02), worden geheel of gedeeltelijk in een aaneengesloten periode van ten minste 288 spaaruren en ten hoogste 960 spaaruren opgenomen. Voor de ambtenaar die is aangesteld voor een arbeidsduur van gemiddeld minder dan 38 uur per week wordt de in de vorige volzin genoemde verplichting vastgesteld op een aaneengesloten periode van een evenredig aantal spaaruren van het aantal dat geldt voor een ambtenaar van wie het rooster is gebaseerd op een arbeidsduur van gemiddeld 38 uur per week.
 
-2. Indien de ambtenaar op een andere functie wordt tewerkgesteld kan het bevoegd gezag op aanvraag van de ambtenaar afwijken van het minimum aantal op te nemen spaaruren. Indien de ambtenaar op een andere functie wordt tewerkgesteld kan het bevoegd gezag op aanvraag van de ambtenaar afwijken van het gestelde in het eerste lid dat de spaaruren in een aaneengesloten periode van ten minste 288 spaaruren worden opgenomen. Indien met een dergelijke aanvraag wordt ingestemd, dan wordt het gehele tegoed aan spaaruren opgenomen bij functiewisseling, voorafgaand aan de datum van tewerkstelling op de nieuwe functie.
+2. Indien de ambtenaar op een andere functie wordt tewerkgesteld kan de commandant op aanvraag van de ambtenaar afwijken van het minimum aantal op te nemen spaaruren. Indien de ambtenaar op een andere functie wordt tewerkgesteld kan de commandant op aanvraag van de ambtenaar afwijken van het gestelde in het eerste lid dat de spaaruren in een aaneengesloten periode van ten minste 288 spaaruren worden opgenomen. Indien met een dergelijke aanvraag wordt ingestemd, dan wordt het gehele tegoed aan spaaruren opgenomen bij functiewisseling, voorafgaand aan de datum van tewerkstelling op de nieuwe functie.
 
-3. Een aanvraag voor de opname van spaaruren wordt ten minste 6 maanden voorafgaande aan de gewenste datum van aanvang van de opnameperiode, ingediend bij het bevoegd gezag.
+3. Een aanvraag voor de opname van spaaruren wordt ten minste 6 maanden voorafgaande aan de gewenste datum van aanvang van de opnameperiode, ingediend bij de commandant.
 
-4. Het bevoegd gezag wijst een aanvraag als bedoeld in het derde lid toe, tenzij het dienstbelang zich daartegen verzet.
+4. De commandant wijst een aanvraag als bedoeld in het derde lid toe, tenzij het dienstbelang zich daartegen verzet.
 
 5. De in een kalenderjaar opgebouwde spaaruren vervallen na een periode van 10 kalenderjaren, te rekenen vanaf de dag van aanvang van het daarop volgende kalenderjaar.
 
-6. Indien vanwege dienstbelang dan wel persoonlijke omstandigheden de ambtenaar gedurende de periode van 10 jaar bedoeld in het vijfde lid niet in de gelegenheid is gesteld de spaaruren op te nemen, maakt het bevoegd gezag in afwijking van het vijfde lid met de ambtenaar afspraken over de opname van de spaaruren binnen de 2 daaropvolgende kalenderjaren.
+6. Indien vanwege dienstbelang dan wel persoonlijke omstandigheden de ambtenaar gedurende de periode van 10 jaar bedoeld in het vijfde lid niet in de gelegenheid is gesteld de spaaruren op te nemen, maakt de commandant in afwijking van het vijfde lid met de ambtenaar afspraken over de opname van de spaaruren binnen de 2 daaropvolgende kalenderjaren.
 
-7. Ten aanzien van de opname van spaaruren zijn [artikel 33, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=5&paragraaf=1&artikel=33&z=2006-08-02&g=2006-03-10), en [artikel 91a](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=7b&artikel=91a&z=2006-08-02&g=2006-03-10) van overeenkomstige toepassing.
+7. Ten aanzien van de opname van spaaruren zijn [artikel 33, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=5&paragraaf=1&artikel=33&z=2007-07-04&g=2006-08-02), en [artikel 91a](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=7b&artikel=91a&z=2007-07-04&g=2006-08-02) van overeenkomstige toepassing.
 
 ##### Artikel 30dd. Spaaruren en ontslag
 
@@ -2043,7 +2063,7 @@ Vervallen
 
 ##### Artikel 46c. Buitengewoon verlof bij calamiteiten en zeer bijzondere persoonlijke omstandigheden
 
-1. Onverminderd [artikel 4:1 van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=4:1) wordt door het bevoegd gezag aan de ambtenaar buitengewoon verlof met behoud van volle bezoldiging verleend:
+1. Onverminderd [artikel 4:1 van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=4:1) wordt door de commandant aan de ambtenaar buitengewoon verlof met behoud van volle bezoldiging verleend:
 
 - a. bij plotselinge ziekte van de echtgenote of echtgenoot van de ambtenaar, de persoon met wie de ambtenaar ongehuwd samenwoont of een van zijn bloed- of aanverwanten in de eerste graad of wanneer een andere noodsituatie, waarvoor de ambtenaar onverwijld een voorziening moet treffen, ontstaat: voor de duur benodigd voor de eerste opvang en het treffen van verdere voorzieningen, maar voor ten hoogste één werkdag per zich voordoende situatie;
 
@@ -2059,41 +2079,41 @@ Vervallen
 
 met dien verstande dat indien de ambtenaar is belast met de regeling van de begrafenis, de crematie of van de nalatenschap dan wel van beide, het verlof voor ten hoogste 4 werkdagen kan worden verleend en indien sprake is van bijzondere godsdienstige plechtigheden zoveel werkdagen als benodigd om overeenkomstig de bepalingen van die godsdienst rouwceremoniën te verrichten.
 
-2. De ambtenaar meldt vooraf aan het bevoegd gezag dat hij het verlof, bedoeld in het eerste lid, opneemt onder opgave van de reden. Indien dit niet mogelijk is, meldt de ambtenaar het opnemen van het verlof zo spoedig mogelijk aan het bevoegd gezag onder opgave van de reden.
+2. De ambtenaar meldt vooraf aan de commandant dat hij het verlof, bedoeld in het eerste lid, opneemt onder opgave van de reden. Indien dit niet mogelijk is, meldt de ambtenaar het opnemen van het verlof zo spoedig mogelijk aan de commandant onder opgave van de reden.
 
-3. Het bevoegd gezag kan achteraf van de ambtenaar verlangen dat hij aannemelijk maakt dat hij geen dienst heeft kunnen verrichten wegens een van de redenen genoemd in het eerste lid.
+3. De commandant kan achteraf van de ambtenaar verlangen dat hij aannemelijk maakt dat hij geen dienst heeft kunnen verrichten wegens een van de redenen genoemd in het eerste lid.
 
 ##### Artikel 46d. Kort durend zorgverlof
 
-Het kort durend zorgverlof, bedoeld in [hoofdstuk 5 van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=5), wordt door het bevoegd gezag verleend met behoud van volle bezoldiging.
+Het kort durend zorgverlof, bedoeld in [hoofdstuk 5 van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=5), wordt door de commandant verleend met behoud van volle bezoldiging.
 
 ##### Artikel 46e. Langer durend zorgverlof
 
-1. Aan de ambtenaar wordt door het bevoegd gezag langer durend zorgverlof met behoud van volle bezoldiging verleend voor hulpverlening aan een tijdelijk ernstig hulpbehoevende of stervende echtgenote, echtgenoot of persoon met wie de ambtenaar ongehuwd samenwoont, ouders, stief-, pleeg- of schoonouders, eigen of aangehuwde kinderen, stief- of pleegkinderen.
+1. Aan de ambtenaar wordt door de commandant langer durend zorgverlof met behoud van volle bezoldiging verleend voor hulpverlening aan een tijdelijk ernstig hulpbehoevende of stervende echtgenote, echtgenoot of persoon met wie de ambtenaar ongehuwd samenwoont, ouders, stief-, pleeg- of schoonouders, eigen of aangehuwde kinderen, stief- of pleegkinderen.
 
-2. De ambtenaar meldt vooraf aan het bevoegd gezag dat hij het verlof, bedoeld in het eerste lid, opneemt onder opgave van de reden. Indien dit niet mogelijk is, meldt de ambtenaar het opnemen van het verlof zo spoedig mogelijk aan het bevoegd gezag onder opgave van de reden. Bij de melding geeft de ambtenaar ook de omvang, de wijze van opneming en zo mogelijk de vermoedelijke duur van het verlof aan.
+2. De ambtenaar meldt vooraf aan de commandant dat hij het verlof, bedoeld in het eerste lid, opneemt onder opgave van de reden. Indien dit niet mogelijk is, meldt de ambtenaar het opnemen van het verlof zo spoedig mogelijk aan de commandant onder opgave van de reden. Bij de melding geeft de ambtenaar ook de omvang, de wijze van opneming en zo mogelijk de vermoedelijke duur van het verlof aan.
 
-3. Het verlof vangt niet aan of eindigt in ieder geval zodra het bevoegd gezag aan de ambtenaar kenbaar maakt dat hij tegen het opnemen van het verlof onderscheidenlijk de voortzetting daarvan een zodanig zwaarwegend dienstbelang heeft, dat het belang van de ambtenaar daarvoor naar maatstaven van redelijkheid en billijkheid moet wijken.
+3. Het verlof vangt niet aan of eindigt in ieder geval zodra de commandant aan de ambtenaar kenbaar maakt dat hij tegen het opnemen van het verlof onderscheidenlijk de voortzetting daarvan een zodanig zwaarwegend dienstbelang heeft, dat het belang van de ambtenaar daarvoor naar maatstaven van redelijkheid en billijkheid moet wijken.
 
-4. Het bevoegd gezag kan achteraf van de ambtenaar verlangen dat hij aannemelijk maakt dat hij geen dienst heeft kunnen verrichten wegens de reden genoemd in het eerste lid.
+4. De commandant kan achteraf van de ambtenaar verlangen dat hij aannemelijk maakt dat hij geen dienst heeft kunnen verrichten wegens de reden genoemd in het eerste lid.
 
-5. Het bevoegd gezag wijst de ambtenaar op de mogelijkheden tot het aanvragen van een financiële tegemoetkoming op basis van [hoofdstuk 7 van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=7).
+5. De commandant wijst de ambtenaar op de mogelijkheden tot het aanvragen van een financiële tegemoetkoming op basis van [hoofdstuk 7 van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=7).
 
-6. Indien de ambtenaar aan wie verlof als bedoeld in het eerste lid, is verleend gedurende dat verlof of gedurende een bepaalde periode van dat verlof tevens recht heeft op een financiële tegemoetkoming op basis van [hoofdstuk 7 van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=7), wordt door het bevoegd gezag gedurende de periode waarin sprake is van een samenloop een inhouding op de doorbetaling van de bezoldiging, als bedoeld in het eerste lid, toegepast welke overeenkomt met het bedrag van bedoelde financiële tegemoetkoming.
+6. Indien de ambtenaar aan wie verlof als bedoeld in het eerste lid, is verleend gedurende dat verlof of gedurende een bepaalde periode van dat verlof tevens recht heeft op een financiële tegemoetkoming op basis van [hoofdstuk 7 van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=7), wordt door de commandant gedurende de periode waarin sprake is van een samenloop een inhouding op de doorbetaling van de bezoldiging, als bedoeld in het eerste lid, toegepast welke overeenkomt met het bedrag van bedoelde financiële tegemoetkoming.
 
-7. Indien aan de in [hoofdstuk 7 van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=7) gestelde voorwaarden voor het toekennen van een financiële tegemoetkoming is voldaan maar geen financiële tegemoetkoming is toegekend omdat de ambtenaar geen aanvraag heeft ingediend, kan het bevoegd gezag het zesde lid op overeenkomstige wijze toepassen. In dat geval wordt rekening gehouden met de financiële tegemoetkoming die aan de ambtenaar zou zijn toegekend indien hij wel een aanvraag zou hebben ingediend.
+7. Indien aan de in [hoofdstuk 7 van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=7) gestelde voorwaarden voor het toekennen van een financiële tegemoetkoming is voldaan maar geen financiële tegemoetkoming is toegekend omdat de ambtenaar geen aanvraag heeft ingediend, kan de commandant het zesde lid op overeenkomstige wijze toepassen. In dat geval wordt rekening gehouden met de financiële tegemoetkoming die aan de ambtenaar zou zijn toegekend indien hij wel een aanvraag zou hebben ingediend.
 
 ##### Artikel 47. Ouderschapsverlof
 
-1. Over de uren waarop de ambtenaar door het bevoegd gezag ouderschapsverlof, als bedoeld in [hoofdstuk 6 van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=6), is verleend, behoudt hij 75% van zijn bezoldiging.
+1. Over de uren waarop de ambtenaar door de commandant ouderschapsverlof, als bedoeld in [hoofdstuk 6 van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=6), is verleend, behoudt hij 75% van zijn bezoldiging.
 
-2. De ambtenaar kan door het bevoegd gezag worden verplicht tot terugbetaling van de bezoldiging over de genoten ouderschapsverlofuren wanneer hem tijdens de verlofperiode of binnen één jaar na afloop van het ouderschapsverlof ontslag wordt verleend op aanvraag dan wel niet op aanvraag op grond van aan de ambtenaar te wijten omstandigheden of, wanneer hij is aangesteld in tijdelijke dienst voor bepaalde tijd of voor een proeftijd, ter zake van het verstrijken van die tijd. De verplichting tot terugbetaling wordt beperkt tot een bedrag dat evenredig is aan het aantal maanden dat ontbreekt aan de periode van één jaar. Indien het ontslag verband houdt met een aanstelling als militair ambtenaar of indiensttreding bij een andere overheidssector bestaat geen verplichting tot terugbetaling.
+2. De ambtenaar kan door de commandant worden verplicht tot terugbetaling van de bezoldiging over de genoten ouderschapsverlofuren wanneer hem tijdens de verlofperiode of binnen één jaar na afloop van het ouderschapsverlof ontslag wordt verleend op aanvraag dan wel niet op aanvraag op grond van aan de ambtenaar te wijten omstandigheden of, wanneer hij is aangesteld in tijdelijke dienst voor bepaalde tijd of voor een proeftijd, ter zake van het verstrijken van die tijd. De verplichting tot terugbetaling wordt beperkt tot een bedrag dat evenredig is aan het aantal maanden dat ontbreekt aan de periode van één jaar. Indien het ontslag verband houdt met een aanstelling als militair ambtenaar of indiensttreding bij een andere overheidssector bestaat geen verplichting tot terugbetaling.
 
-3. Het bevoegd gezag wijst de ambtenaar, aan wie ouderschapsverlof wordt verleend, in voorkomend geval op de mogelijkheden tot het aanvragen van een financiële tegemoetkoming op basis [hoofdstuk 7 van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=7).
+3. De commandant wijst de ambtenaar, aan wie ouderschapsverlof wordt verleend, in voorkomend geval op de mogelijkheden tot het aanvragen van een financiële tegemoetkoming op basis [hoofdstuk 7 van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=7).
 
-4. Indien de ambtenaar aan wie ouderschapsverlof is verleend gedurende dat verlof of gedurende een bepaalde periode van dat verlof tevens recht heeft op een financiële tegemoetkoming op basis van [hoofdstuk 7 van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=7), wordt door het bevoegd gezag gedurende de periode waarin sprake is van een samenloop een inhouding op de doorbetaling van de bezoldiging, bedoeld in het eerste lid, toegepast welke overeenkomt met het bedrag van bedoelde financiële tegemoetkoming, voor zover dat bedrag het bedrag overeenkomend met 100% van de bezoldiging te boven gaat.
+4. Indien de ambtenaar aan wie ouderschapsverlof is verleend gedurende dat verlof of gedurende een bepaalde periode van dat verlof tevens recht heeft op een financiële tegemoetkoming op basis van [hoofdstuk 7 van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=7), wordt door de commandant gedurende de periode waarin sprake is van een samenloop een inhouding op de doorbetaling van de bezoldiging, bedoeld in het eerste lid, toegepast welke overeenkomt met het bedrag van bedoelde financiële tegemoetkoming, voor zover dat bedrag het bedrag overeenkomend met 100% van de bezoldiging te boven gaat.
 
-5. Indien aan de in [hoofdstuk 7 van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=7) gestelde voorwaarden voor het toekennen van een financiële tegemoetkoming is voldaan maar geen financiële tegemoetkoming is toegekend omdat de ambtenaar geen aanvraag heeft ingediend, kan het bevoegd gezag het vierde lid op overeenkomstige wijze toepassen. In dat geval wordt rekening gehouden met de financiële tegemoetkoming die aan de ambtenaar zou zijn toegekend indien hij wel een aanvraag zou hebben ingediend.
+5. Indien aan de in [hoofdstuk 7 van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=7) gestelde voorwaarden voor het toekennen van een financiële tegemoetkoming is voldaan maar geen financiële tegemoetkoming is toegekend omdat de ambtenaar geen aanvraag heeft ingediend, kan de commandant het vierde lid op overeenkomstige wijze toepassen. In dat geval wordt rekening gehouden met de financiële tegemoetkoming die aan de ambtenaar zou zijn toegekend indien hij wel een aanvraag zou hebben ingediend.
 
 #### Buitengewoon verlof van lange duur
 
@@ -2163,11 +2183,11 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 1. Voor de toepassing van dit artikel wordt verstaan onder kinderopvang en gastouderopvang hetgeen daaronder wordt verstaan in [artikel 1, onderdeel b onderscheidenlijk c, van de Wet kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1).
 
-2. Door het bevoegd gezag kan naar bij ministeriële regeling te stellen regels, financieel worden bijgedragen in de kosten van de ambtenaar voor kinderopvang of gastouderopvang van een of meerdere kinderen.
+2. Door het hoofd defensieonderdeel kan naar bij ministeriële regeling te stellen regels, financieel worden bijgedragen in de kosten van de ambtenaar voor kinderopvang of gastouderopvang van een of meerdere kinderen.
 
 3. De bijdrage, als bedoeld in het tweede lid, eindigt met ingang van de dag waarop de ambtenaar ontslag wordt verleend.
 
-4. Wanneer sprake is van een ontslag op grond van [artikel 116](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=10&artikel=116&z=2006-08-02&g=2006-03-10) van dit besluit, eindigt de bijdrage, als bedoeld in het tweede lid, in afwijking van het vierde lid, 6 maanden na de datum waarop dat ontslag is ingegaan of op het moment dat uit andere hoofde aanspraak bestaat op een bijdrage, als bedoeld in het tweede lid. Gedurende deze periode van 6 maanden blijft de situatie van voor het ontslag ongewijzigd gehandhaafd.
+4. Wanneer sprake is van een ontslag op grond van [artikel 116](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=10&artikel=116&z=2007-07-04&g=2006-08-02) van dit besluit, eindigt de bijdrage, als bedoeld in het tweede lid, in afwijking van het vierde lid, 6 maanden na de datum waarop dat ontslag is ingegaan of op het moment dat uit andere hoofde aanspraak bestaat op een bijdrage, als bedoeld in het tweede lid. Gedurende deze periode van 6 maanden blijft de situatie van voor het ontslag ongewijzigd gehandhaafd.
 
 ### Hoofdstuk 8. Disciplinaire straffen
 
@@ -2181,7 +2201,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 90a. Beoordeling
 
-1. Indien het bevoegd gezag of de ambtenaar dit wenselijk vindt, wordt een beoordeling opgemaakt. De ambtenaar dient daartoe een aanvraag in bij het bevoegd gezag.
+1. Indien de commandant of de ambtenaar dit wenselijk vindt, wordt een beoordeling opgemaakt. De ambtenaar dient daartoe een aanvraag in bij de commandant.
 
 2. Onze Minister kan opdracht geven tot het opmaken van een beoordeling.
 
@@ -2191,7 +2211,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 5. Het beoordelingstijdvak omvat een periode van ten minste zes maanden en ten hoogste twee jaren. Per kalenderjaar kan maximaal één beoordeling worden opgemaakt.
 
-6. De beoordeling wordt opgemaakt door een eerste en in beginsel een tweede beoordelaar. Als eerste beoordelaar treedt op de functionele chef van de ambtenaar. De tweede beoordelaar is het bevoegd gezag dan wel een door het bevoegd gezag aangewezen functionaris. In geval het bevoegd gezag is opgetreden als eerste beoordelaar, treedt in beginsel als tweede beoordelaar op de functionele chef van het bevoegd gezag.
+6. De beoordeling wordt opgemaakt door een eerste en in beginsel een tweede beoordelaar. Als eerste beoordelaar treedt op de functionele chef van de ambtenaar. De tweede beoordelaar is de commandant dan wel een door de commandant aangewezen functionaris. In geval de commandant is opgetreden als eerste beoordelaar, treedt in beginsel als tweede beoordelaar op de functionele chef van de commandant.
 
 7. Gelet op de vereiste deskundigheid kan bij het uitbrengen van een beoordeling een personeelsbeoordelingsadviseur aan de beoordelaar worden toegevoegd.
 
@@ -2219,15 +2239,15 @@ Indien aan de ambtenaar gedurende de tijd, dat hij recht heeft op wachtgeld, daa
 
 ##### Artikel 123a
 
-1. Aan de ambtenaar die in verband met ongeschiktheid ten gevolge van ziekte verhinderd is zijn arbeid te verrichten, kan, in afwijking van [artikel 121, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=10&artikel=121&z=2006-08-02&g=2006-03-10), ontslag worden verleend, indien hij zonder deugdelijke grond weigert:
+1. Aan de ambtenaar die in verband met ongeschiktheid ten gevolge van ziekte verhinderd is zijn arbeid te verrichten, kan door de bevoegde autoriteit, bedoeld in [artikel 112, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=10&artikel=112&z=2007-07-04&g=2006-08-02), in afwijking van [artikel 121, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=10&artikel=121&z=2007-07-04&g=2006-08-02), ontslag worden verleend, indien hij zonder deugdelijke grond weigert:
 
-- a. gevolg te geven aan door het bevoegd gezag of een door het bevoegd gezag aangewezen deskundige gegeven redelijke voorschriften mee te werken aan door het bevoegd gezag of een door het bevoegd gezag aangewezen deskundige getroffen maatregelen om hem in staat te stellen de eigen of andere passende arbeid als bedoeld in [artikel 54a, onderdeel j](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=6&paragraaf=1&artikel=54a&z=2006-08-02&g=2006-03-10), te verrichten,
+- a. gevolg te geven aan door Onze Minister of een door Onze Minister aangewezen deskundige gegeven redelijke voorschriften mee te werken aan door Onze Minister of een door Onze Minister aangewezen deskundige getroffen maatregelen om hem in staat te stellen de eigen of andere passende arbeid als bedoeld in [artikel 54a, onderdeel j](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=6&paragraaf=1&artikel=54a&z=2007-07-04&g=2006-08-02), te verrichten,
 
-- b. passende arbeid als bedoeld in [artikel 54a, onderdeel j](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=6&paragraaf=1&artikel=54a&z=2006-08-02&g=2006-03-10), te verrichten waartoe het bevoegd gezag hem in de gelegenheid stelt, dan wel
+- b. passende arbeid als bedoeld in [artikel 54a, onderdeel j](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=6&paragraaf=1&artikel=54a&z=2007-07-04&g=2006-08-02), te verrichten waartoe Onze Minister hem in de gelegenheid stelt, dan wel
 
 - c. zijn medewerking te verlenen aan het opstellen, evalueren en bijstellen van een plan van aanpak als bedoeld in [artikel 71a, tweede lid, van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=71a).
 
-2. Om te beoordelen of er sprake is van een situatie als bedoeld in het eerste lid, wint het bevoegd gezag een hierop betrekking hebbend advies van de UWV, bedoeld in [artikel 54a, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=6&paragraaf=1&artikel=54a&z=2006-08-02&g=2006-03-10), in en neemt dit mede in beschouwing.
+2. Om te beoordelen of er sprake is van een situatie als bedoeld in het eerste lid, wint Onze Minister een hierop betrekking hebbend advies van de UWV, bedoeld in [artikel 54a, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=6&paragraaf=1&artikel=54a&z=2007-07-04&g=2006-08-02), in en neemt dit mede in beschouwing.
 
 ### Hoofdstuk 11
 
@@ -2239,7 +2259,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 30dca
 
-De bevoegdheid tot het toekennen van de aanvraag op grond van de [artikelen 30da](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=1&artikel=30da&z=2006-08-02&g=2006-03-10), [30db](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=1&artikel=30db&z=2006-08-02&g=2006-03-10) en [30dc](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=1&artikel=30dc&z=2006-08-02&g=2006-03-10) aan ambtenaren bezoldigd volgens salarisschaal 14 en hoger berust bij de Secretaris-Generaal.
+De bevoegdheid tot het toekennen van de aanvraag op grond van de [artikelen 30da](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=1&artikel=30da&z=2007-07-04&g=2006-08-02), [30db](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=1&artikel=30db&z=2007-07-04&g=2006-08-02) en [30dc](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4&paragraaf=1&artikel=30dc&z=2007-07-04&g=2006-08-02) aan ambtenaren bezoldigd volgens salarisschaal 14 en hoger berust bij de Secretaris-Generaal.
 
 #### Paragraaf 2. Toepassingsbereik
 
@@ -2353,7 +2373,7 @@ In deze paragraaf wordt verstaan onder:
 
 ##### Artikel 70i
 
-1. De leidinggevende of de vertrouwenspersoon, bedoeld in [artikel 70h, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=7a&paragraaf=2&artikel=70h&z=2006-08-02&g=2006-03-10), draagt er zorg voor dat het bevoegd gezag onverwijld via de hiërarchische lijn schriftelijk op de hoogte wordt gesteld van het gemelde vermoeden van een misstand en van de datum waarop de melding is ontvangen. Indien de melding is gedaan bij de vertrouwenspersoon, vergewist deze zich ervan dat de ambtenaar heeft ingestemd met melding aan het bevoegd gezag.
+1. De leidinggevende of de vertrouwenspersoon, bedoeld in [artikel 70h, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=7a&paragraaf=2&artikel=70h&z=2007-07-04&g=2006-08-02), draagt er zorg voor dat het bevoegd gezag onverwijld via de hiërarchische lijn schriftelijk op de hoogte wordt gesteld van het gemelde vermoeden van een misstand en van de datum waarop de melding is ontvangen. Indien de melding is gedaan bij de vertrouwenspersoon, vergewist deze zich ervan dat de ambtenaar heeft ingestemd met melding aan het bevoegd gezag.
 
 2. Het bevoegd gezag
 
@@ -2373,13 +2393,13 @@ In deze paragraaf wordt verstaan onder:
 
 1. De ambtenaar kan het vermoeden van een misstand melden bij de Commissie integriteit overheid, indien:
 
-- a. de ambtenaar het niet eens is met het standpunt van het bevoegd gezag, bedoeld in [artikel 70i, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=7a&paragraaf=2&artikel=70i&z=2006-08-02&g=2006-03-10);
+- a. de ambtenaar het niet eens is met het standpunt van het bevoegd gezag, bedoeld in [artikel 70i, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=7a&paragraaf=2&artikel=70i&z=2007-07-04&g=2006-08-02);
 
-- b. de ambtenaar niet binnen de in [artikel 70i, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=7a&paragraaf=2&artikel=70i&z=2006-08-02&g=2006-03-10), gestelde termijn een standpunt of een bericht als bedoeld in [artikel 70i vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=7a&paragraaf=2&artikel=70i&z=2006-08-02&g=2006-03-10) heeft ontvangen, of
+- b. de ambtenaar niet binnen de in [artikel 70i, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=7a&paragraaf=2&artikel=70i&z=2007-07-04&g=2006-08-02), gestelde termijn een standpunt of een bericht als bedoeld in [artikel 70i vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=7a&paragraaf=2&artikel=70i&z=2007-07-04&g=2006-08-02) heeft ontvangen, of
 
-- c. de ambtenaar niet binnen de in [artikel 70i, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=7a&paragraaf=2&artikel=70i&z=2006-08-02&g=2006-03-10), bedoelde termijn een standpunt heeft ontvangen dan wel die termijn onredelijk lang is.
+- c. de ambtenaar niet binnen de in [artikel 70i, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=7a&paragraaf=2&artikel=70i&z=2007-07-04&g=2006-08-02), bedoelde termijn een standpunt heeft ontvangen dan wel die termijn onredelijk lang is.
 
-2. De ambtenaar meldt het vermoeden van een misstand bij de Commissie integriteit overheid, indien de situatie, bedoeld in [artikel 70h, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=7a&paragraaf=2&artikel=70h&z=2006-08-02&g=2006-03-10), zich voordoet.
+2. De ambtenaar meldt het vermoeden van een misstand bij de Commissie integriteit overheid, indien de situatie, bedoeld in [artikel 70h, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=7a&paragraaf=2&artikel=70h&z=2007-07-04&g=2006-08-02), zich voordoet.
 
 3. Binnen vier weken nadat de Commissie integriteit overheid advies heeft uitgebracht, deelt het bevoegd gezag de ambtenaar die het vermoeden van een misstand heeft gemeld, schriftelijk gemotiveerd mee of het advies wordt opgevolgd. Een afschrift van deze mededeling wordt gezonden aan de Commissie integriteit overheid.
 
