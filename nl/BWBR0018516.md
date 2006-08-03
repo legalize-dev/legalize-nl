@@ -4,7 +4,7 @@ identifier: "BWBR0018516"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2013-01-01"
-last_updated: "2006-08-01"
+last_updated: "2006-08-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018516"
 soort: "ministeriele-regeling"
@@ -54,11 +54,11 @@ In deze regeling wordt verstaan onder:
 
 - d. CBS: Centraal bureau voor de statistiek;
 
-- e. maatschappelijke centrumgemeenten: centrumgemeenten voor maatschappelijke opvang en verslavingsbeleid die zijn vermeld in de bij deze regeling behorende [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&bijlage=A&z=2006-07-23&g=2006-08-01);
+- e. maatschappelijke centrumgemeenten: centrumgemeenten voor maatschappelijke opvang en verslavingsbeleid die zijn vermeld in de bij deze regeling behorende [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&bijlage=A&z=2006-08-03&g=2006-08-03);
 
-- f. maatschappelijk zorggebied: zorggebied voor maatschappelijke opvang en verslavingsbeleid volgens de in de bij deze regeling behorende [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&bijlage=A&z=2006-07-23&g=2006-08-01) opgenomen gebiedsindeling;
+- f. maatschappelijk zorggebied: zorggebied voor maatschappelijke opvang en verslavingsbeleid volgens de in de bij deze regeling behorende [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&bijlage=A&z=2006-08-03&g=2006-08-03) opgenomen gebiedsindeling;
 
-- g. zorggebied voor vrouwenopvang: zorggebied volgens de in de bij deze regeling behorende [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&bijlage=B&z=2006-07-23&g=2006-08-01) opgenomen gebiedsindeling;
+- g. zorggebied voor vrouwenopvang: zorggebied volgens de in de bij deze regeling behorende [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&bijlage=B&z=2006-08-03&g=2006-08-03) opgenomen gebiedsindeling;
 
 - h. verklaring: door het bevoegd gezag van een instelling uitgereikte verklaring, bedoeld in [artikel 7.4.15, eerste lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.4.15);
 
@@ -342,47 +342,47 @@ De indicatoren, bedoeld in [artikel 7, tweede lid, van het Besluit](https://wett
 
 1. De percentsgewijze verdeling van de middelen voor leefbaarheid en veiligheid over de indicatoren, bedoeld in [artikel 7, tweede lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0018238&artikel=7), is als volgt samengesteld:
 
-- a. 27,20 percent aan de indicator, bedoeld in [artikel 10, onder n](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=10&z=2006-07-23&g=2006-08-01);
+- a. 27,20 percent aan de indicator, bedoeld in [artikel 10, onder n](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=10&z=2006-08-03&g=2006-08-03);
 
-- b. 27,20 percent aan de indicator, bedoeld in [artikel 10, onder o](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=10&z=2006-07-23&g=2006-08-01);
+- b. 27,20 percent aan de indicator, bedoeld in [artikel 10, onder o](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=10&z=2006-08-03&g=2006-08-03);
 
-- c. 18,40 percent aan de indicator, bedoeld in [artikel 10, onder p](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=10&z=2006-07-23&g=2006-08-01), en
+- c. 18,40 percent aan de indicator, bedoeld in [artikel 10, onder p](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=10&z=2006-08-03&g=2006-08-03), en
 
-- d. 27,20 percent aan de indicator, bedoeld in [artikel 10, onder t](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=10&z=2006-07-23&g=2006-08-01).
+- d. 27,20 percent aan de indicator, bedoeld in [artikel 10, onder t](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=10&z=2006-08-03&g=2006-08-03).
 
-2. Bij de percentsgewijze verdeling van de middelen voor het terugdringen van voortijdig schoolverlaten over de indicatoren, bedoeld in [artikel 7, tweede lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0018238&artikel=7), wordt 100 percent toegedeeld aan de indicator, bedoeld in [artikel 10, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=10&z=2006-07-23&g=2006-08-01).
+2. Bij de percentsgewijze verdeling van de middelen voor het terugdringen van voortijdig schoolverlaten over de indicatoren, bedoeld in [artikel 7, tweede lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0018238&artikel=7), wordt 100 percent toegedeeld aan de indicator, bedoeld in [artikel 10, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=10&z=2006-08-03&g=2006-08-03).
 
 3. De percentsgewijze verdeling van de middelen voor de bestrijding van gezondheidsachterstanden over de indicatoren, bedoeld in [artikel 7, tweede lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0018238&artikel=7), is als volgt samengesteld:
 
-- a. 80 percent aan de indicator, bedoeld in [artikel 10, onder l](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=10&z=2006-07-23&g=2006-08-01), en
+- a. 80 percent aan de indicator, bedoeld in [artikel 10, onder l](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=10&z=2006-08-03&g=2006-08-03), en
 
-- b. 20 percent aan de indicator, bedoeld in [artikel 10, onder m](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=10&z=2006-07-23&g=2006-08-01).
+- b. 20 percent aan de indicator, bedoeld in [artikel 10, onder m](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=10&z=2006-08-03&g=2006-08-03).
 
 4. De percentsgewijze verdeling van de middelen voor maatschappelijke opvang en verslavingsbeleid respectievelijk voor vrouwenopvang over de indicatoren, bedoeld in [artikel 7, tweede lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0018238&artikel=7), is steeds als volgt samengesteld:
 
-- a. 33,90 percent aan de indicator, bedoeld in [artikel 10, onder h](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=10&z=2006-07-23&g=2006-08-01);
+- a. 33,90 percent aan de indicator, bedoeld in [artikel 10, onder h](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=10&z=2006-08-03&g=2006-08-03);
 
-- b. 17,50 percent aan de indicator, bedoeld in [artikel 10, onder i](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=10&z=2006-07-23&g=2006-08-01);
+- b. 17,50 percent aan de indicator, bedoeld in [artikel 10, onder i](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=10&z=2006-08-03&g=2006-08-03);
 
-- c. 28,60 percent aan de indicator, bedoeld in [artikel 10, onder j](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=10&z=2006-07-23&g=2006-08-01), en
+- c. 28,60 percent aan de indicator, bedoeld in [artikel 10, onder j](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=10&z=2006-08-03&g=2006-08-03), en
 
-- d. 20,00 percent aan de indicator, bedoeld in [artikel 10, onder k](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=10&z=2006-07-23&g=2006-08-01).
+- d. 20,00 percent aan de indicator, bedoeld in [artikel 10, onder k](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=10&z=2006-08-03&g=2006-08-03).
 
 5. De percentsgewijze verdeling van de extra middelen voor veiligheid over de indicatoren, bedoeld in [artikel 7, tweede lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0018238&artikel=7), is als volgt samengesteld:
 
-- a. 13,36 percent aan de indicator, bedoeld in [artikel 10, onder n](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=10&z=2006-07-23&g=2006-08-01);
+- a. 13,36 percent aan de indicator, bedoeld in [artikel 10, onder n](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=10&z=2006-08-03&g=2006-08-03);
 
-- b. 13,36 percent aan de indicator, bedoeld in [artikel 10, onder o](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=10&z=2006-07-23&g=2006-08-01);
+- b. 13,36 percent aan de indicator, bedoeld in [artikel 10, onder o](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=10&z=2006-08-03&g=2006-08-03);
 
-- c. 13,36 percent aan de indicator, bedoeld in [artikel 10, onder q](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=10&z=2006-07-23&g=2006-08-01);
+- c. 13,36 percent aan de indicator, bedoeld in [artikel 10, onder q](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=10&z=2006-08-03&g=2006-08-03);
 
-- d. 13,36 percent aan de indicator, bedoeld in [artikel 10, onder r](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=10&z=2006-07-23&g=2006-08-01);
+- d. 13,36 percent aan de indicator, bedoeld in [artikel 10, onder r](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=10&z=2006-08-03&g=2006-08-03);
 
-- e. 13,36 percent aan de indicator, bedoeld in [artikel 10, onder s](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=10&z=2006-07-23&g=2006-08-01);
+- e. 13,36 percent aan de indicator, bedoeld in [artikel 10, onder s](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=10&z=2006-08-03&g=2006-08-03);
 
-- f. 13,36 percent aan de indicator, bedoeld in [artikel 10, onder t](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=10&z=2006-07-23&g=2006-08-01), en
+- f. 13,36 percent aan de indicator, bedoeld in [artikel 10, onder t](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=10&z=2006-08-03&g=2006-08-03), en
 
-- g. 20,00 percent aan de indicator, bedoeld in [artikel 10, onder u](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=10&z=2006-07-23&g=2006-08-01).
+- g. 20,00 percent aan de indicator, bedoeld in [artikel 10, onder u](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=10&z=2006-08-03&g=2006-08-03).
 
 ##### Artikel 12
 
@@ -500,7 +500,7 @@ In deze formule is
 
 3. Het verleende voorschot voor een kalenderjaar wordt in twee termijnen betaald.
 
-4. Het in 2005 aan de gemeente Heerlen te verlenen voorschot wordt verhoogd met het bedrag dat Onze Minister op grond van [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=12&z=2006-07-23&g=2006-08-01), heeft verleend.
+4. Het in 2005 aan de gemeente Heerlen te verlenen voorschot wordt verhoogd met het bedrag dat Onze Minister op grond van [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=12&z=2006-08-03&g=2006-08-03), heeft verleend.
 
 5. Aan Sittard-Geleen wordt vanaf 2006 ambtshalve jaarlijks een voorschot verleend van € 1.494.327,–, met in 2006 een extra bedrag voor inburgering van € 435.032,–.
 
@@ -821,9 +821,9 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 15a
 
-Onverminderd [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=15&z=2006-07-23&g=2006-08-01) wordt in november 2005 een additioneel voorschot verstrekt op het inburgeringsdeel, ter hoogte van het verschil tussen enerzijds de helft van de door de Minister voor Vreemdelingenzaken en Integratie geraamde door een gemeente opgebouwde reserve aan niet bestede rijksbijdragen als bedoeld in [artikel 1, onderdeel g, van het Bekostigingsbesluit inburgering nieuwkomers](https://wetten.overheid.nl/jci1.3:c:BWBR0009768&artikel=1), per 31 december 2004, en anderzijds de helft van de verantwoorde reserve van een gemeente per 31 december 2004, mits dat verschil groter is dan € 0.
+Onverminderd [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=15&z=2006-08-03&g=2006-08-03) wordt in november 2005 een additioneel voorschot verstrekt op het inburgeringsdeel, ter hoogte van het verschil tussen enerzijds de helft van de door de Minister voor Vreemdelingenzaken en Integratie geraamde door een gemeente opgebouwde reserve aan niet bestede rijksbijdragen als bedoeld in [artikel 1, onderdeel g, van het Bekostigingsbesluit inburgering nieuwkomers](https://wetten.overheid.nl/jci1.3:c:BWBR0009768&artikel=1), per 31 december 2004, en anderzijds de helft van de verantwoorde reserve van een gemeente per 31 december 2004, mits dat verschil groter is dan € 0.
 
-## Bijlage A. behorende bij [artikel 1, onderdelen d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=1&z=2006-07-23&g=2006-08-01)
+## Bijlage A. behorende bij [artikel 1, onderdelen d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=1&z=2006-08-03&g=2006-08-03)
 
 In deze bijlage wordt verstaan onder gezondheidsregio: gezondheidsregio voor de [Wet ziekenhuisvoorzieningen](https://wetten.overheid.nl/jci1.3:c:BWBR0002753).
 
@@ -921,13 +921,13 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 1a
 
-De [artikelen 2 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=2&z=2006-07-23&g=2006-08-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=15&z=2006-07-23&g=2006-08-01) en [15b](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=15b&z=2006-07-23&g=2006-08-01) zijn niet van toepassing op de gemeente Sittard-Geleen.
+De [artikelen 2 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=2&z=2006-08-03&g=2006-08-03), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=15&z=2006-08-03&g=2006-08-03) en [15b](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=15b&z=2006-08-03&g=2006-08-03) zijn niet van toepassing op de gemeente Sittard-Geleen.
 
 ##### Artikel 9a
 
 De aan de gemeente Sittard-Geleen te verstrekken uitkering bedraagt
 
-- a. € 5.977.310,– voor de periode van 1 januari 2006 tot en met 31 december 2009, ten behoeve van de uitvoering van het ontwikkelingsprogramma, plus
+- a. € 6.080.182,– voor de periode van 1 januari 2006 tot en met 31 december 2009, ten behoeve van de uitvoering van het ontwikkelingsprogramma, plus
 
 - b. € 435.032,– ten behoeve van de inburgering van nieuwkomers en oudkomers voor de periode van 1 januari tot en met 30 juni 2006.
 
@@ -953,7 +953,7 @@ T: het door de Minister voor Vreemdelingenzaken en Integratie vastgestelde aanta
 
 2. Het bedrag dat in 2006 ambtshalve aan voorschotten op het inburgeringsdeel wordt verleend bedraagt in afwijking van het eerste lid ten minste T × € 6400.
 
-## Bijlage B. behorende bij [artikel 1, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=1&z=2006-07-23&g=2006-08-01)
+## Bijlage B. behorende bij [artikel 1, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=1&z=2006-08-03&g=2006-08-03)
 
 In deze bijlage wordt verstaan onder gezondheidsregio: gezondheidsregio voor de [Wet ziekenhuisvoorzieningen](https://wetten.overheid.nl/jci1.3:c:BWBR0002753)
 
@@ -1131,7 +1131,7 @@ v: het vermenigvuldigingsbedrag van het jaar van vaststelling.
 
 4. Het vermenigvuldigingsbedrag zoals dat op grond van het vorige lid jaarlijks wordt vastgesteld, wordt jaarlijks bekendgemaakt in de Staatscourant.
 
-5. Uiterlijk 15 november 2006 dienen de colleges van burgemeester en wethouders van de betreffende gemeenten bij de minister een aanvraag in tot de verhoging, bedoeld in het eerste lid. De aanvraag gaat vergezeld van een wijziging van het meerjarenontwikkelingsprogramma. In de wijziging van het meerjarenontwikkelingsprogramma worden de te bereiken resultaten geformuleerd met inachtneming van de indicatoren, bedoeld in [artikel 10, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=10&z=2006-08-31&g=2006-08-01).
+5. Uiterlijk 15 november 2006 dienen de colleges van burgemeester en wethouders van de betreffende gemeenten bij de minister een aanvraag in tot de verhoging, bedoeld in het eerste lid. De aanvraag gaat vergezeld van een wijziging van het meerjarenontwikkelingsprogramma. In de wijziging van het meerjarenontwikkelingsprogramma worden de te bereiken resultaten geformuleerd met inachtneming van de indicatoren, bedoeld in [artikel 10, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=10&z=2006-08-31&g=2006-08-03).
 
 6. Voorschoolse educatie geschiedt onder de volgende voorwaarden:
 
@@ -1147,7 +1147,7 @@ v: het vermenigvuldigingsbedrag van het jaar van vaststelling.
 
 - b. indien het onderwijs in de schakelklas plaatsvindt na de reguliere schooltijd, bedoeld in [artikel 166a van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=166a), bedraagt het aantal uren onderwijs dat in de schakelklas wordt gegeven minimaal 100 uren per schooljaar.
 
-8. De minister neemt een beschikking tot verlening van een in het eerste lid bedoelde verhoging binnen acht weken na het tijdstip waarop de in het tweede lid bedoelde aanvraag is ontvangen. De verhoging wordt voor 80% toegedeeld aan de indicator, bedoeld in [artikel 10, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=10&z=2006-08-31&g=2006-08-01), en voor 20 procent aan de indicator, bedoeld in [artikel 10, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=10&z=2006-08-31&g=2006-08-01).
+8. De minister neemt een beschikking tot verlening van een in het eerste lid bedoelde verhoging binnen acht weken na het tijdstip waarop de in het tweede lid bedoelde aanvraag is ontvangen. De verhoging wordt voor 80% toegedeeld aan de indicator, bedoeld in [artikel 10, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=10&z=2006-08-31&g=2006-08-03), en voor 20 procent aan de indicator, bedoeld in [artikel 10, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=10&z=2006-08-31&g=2006-08-03).
 
 9. De minister kan minder dan 100 percent verlenen van het in het tweede lid bedoelde procentuele aandeel, indien de in het ontwikkelingsprogramma opgenomen resultaten naar zijn oordeel daartoe aanleiding geven.
 
