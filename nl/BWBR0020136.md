@@ -4,7 +4,7 @@ identifier: "BWBR0020136"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2007-05-01"
-last_updated: "2006-05-01"
+last_updated: "2006-08-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020136"
 soort: "ministeriele-regeling"
@@ -52,6 +52,6 @@ Als onderwijsinstelling die voltijds hoger onderwijs verzorgt als bedoeld in [ar
 
 1. Deze regeling treedt inwerking met ingang van de tweede dag na dagtekening van de Staatscourant en werkt terug tot en met 1 mei 2006.
 
-2. [Artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0020136&artikel=II&z=2006-08-12&g=2006-05-01) vervalt met ingang van 1 mei 2007.
+2. [Artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0020136&artikel=II&z=2006-08-12&g=2006-08-12) vervalt met ingang van 1 mei 2007.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
