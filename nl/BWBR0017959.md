@@ -4,7 +4,7 @@ identifier: "BWBR0017959"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-11-26"
-last_updated: "2006-01-01"
+last_updated: "2006-08-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017959"
 soort: "ministeriele-regeling"
@@ -73,11 +73,11 @@ Voor de toepassing van deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-1. Deze regeling heeft uitsluitend betrekking op een asielzoeker en de daarmee gelijkgestelde categorieën, als bedoeld in [artikel 3 derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&hoofdstuk=II&artikel=3&z=2005-02-05&g=2006-01-01) van deze regeling, die niet beschikt over voldoende middelen om in de noodzakelijke kosten van het bestaan te voorzien, als bedoeld in de [Wet Werk en Bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703).
+1. Deze regeling heeft uitsluitend betrekking op een asielzoeker en de daarmee gelijkgestelde categorieën, als bedoeld in [artikel 3 derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&hoofdstuk=II&artikel=3&z=2006-08-13&g=2006-08-13) van deze regeling, die niet beschikt over voldoende middelen om in de noodzakelijke kosten van het bestaan te voorzien, als bedoeld in de [Wet Werk en Bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703).
 
 2. Het orgaan kan deze regeling tevens van toepassing verklaren op een asielzoeker die beschikt over voldoende middelen om in de noodzakelijke kosten van het bestaan te voorzien, indien dringende redenen daartoe noodzaken.
 
-3. Het orgaan verstrekt aan de asielzoeker, als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&hoofdstuk=II&artikel=3&z=2005-02-05&g=2006-01-01) van deze regeling, binnen een termijn van ten hoogste 10 dagen na plaatsing in een opvangvoorziening:
+3. Het orgaan verstrekt aan de asielzoeker, als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&hoofdstuk=II&artikel=3&z=2006-08-13&g=2006-08-13) van deze regeling, binnen een termijn van ten hoogste 10 dagen na plaatsing in een opvangvoorziening:
 
 - a. informatie met betrekking tot de voor de asielzoeker aan de opvang van het orgaan verbonden rechten en plichten;
 
@@ -93,9 +93,9 @@ Voor de toepassing van deze regeling wordt verstaan onder:
 
 2. Tot de in het eerste lid bedoelde categorieën asielzoekers aan wie opvang wordt geboden behoren:
 
-- a. de asielzoeker als bedoeld in [artikel 1, eerste lid, aanhef en onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&hoofdstuk=I&artikel=1&z=2005-02-05&g=2006-01-01) van deze regeling;
+- a. de asielzoeker als bedoeld in [artikel 1, eerste lid, aanhef en onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&hoofdstuk=I&artikel=1&z=2006-08-13&g=2006-08-13) van deze regeling;
 
-- b. de asielzoeker als bedoeld in [artikel 1, eerste lid, aanhef en onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&hoofdstuk=I&artikel=1&z=2005-02-05&g=2006-01-01) van deze regeling.
+- b. de asielzoeker als bedoeld in [artikel 1, eerste lid, aanhef en onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&hoofdstuk=I&artikel=1&z=2006-08-13&g=2006-08-13) van deze regeling.
 
 3. Met de in het vorige lid bedoelde categorieën asielzoekers worden gelijkgesteld:
 
@@ -103,11 +103,11 @@ Voor de toepassing van deze regeling wordt verstaan onder:
 
 - b. een alleenstaande minderjarige vreemdeling wiens asielaanvraag binnen de procedure op het AC is afgewezen;
 
-- c. de vreemdeling aan wie de verblijfsvergunning, als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14) of [28 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=28) is verleend en die, met inachtneming van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&hoofdstuk=IV&artikel=12&z=2005-02-05&g=2006-01-01) van deze regeling, reeds in de centrale opvang verblijft in afwachting van het betrekken van woonruimte in een gemeente;
+- c. de vreemdeling aan wie de verblijfsvergunning, als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14) of [28 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=28) is verleend en die, met inachtneming van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&hoofdstuk=IV&artikel=12&z=2006-08-13&g=2006-08-13) van deze regeling, reeds in de centrale opvang verblijft in afwachting van het betrekken van woonruimte in een gemeente;
 
 - d. de vreemdeling die een aanvraag tot het verlenen van de verblijfsvergunning als bedoeld in [artikel 14 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14) heeft ingediend onder een beperking verband houdend met gezinshereniging met een asielzoeker aan wie met toepassing van deze regeling opvang wordt geboden;
 
-- e. de vreemdeling die niet in een opvangvoorziening verblijft als bedoeld in [artikel 1, aanhef en onder h](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&hoofdstuk=I&artikel=1&z=2005-02-05&g=2006-01-01) van deze regeling en die in het bezit wordt gesteld van een verblijfsvergunning asiel bepaalde tijd, dan wel in het bezit wordt gesteld van een asielgerelateerde verblijfsvergunning, vanaf het moment van vergunningverlening tot het moment waarop passende huisvesting buiten de opvangvoorziening kan worden gerealiseerd, tenzij de vreemdeling reeds van overheidswege in een opvangvoorziening is gehuisvest;
+- e. de vreemdeling die niet in een opvangvoorziening verblijft als bedoeld in [artikel 1, aanhef en onder h](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&hoofdstuk=I&artikel=1&z=2006-08-13&g=2006-08-13) van deze regeling en die in het bezit wordt gesteld van een verblijfsvergunning asiel bepaalde tijd, dan wel in het bezit wordt gesteld van een asielgerelateerde verblijfsvergunning, vanaf het moment van vergunningverlening tot het moment waarop passende huisvesting buiten de opvangvoorziening kan worden gerealiseerd, tenzij de vreemdeling reeds van overheidswege in een opvangvoorziening is gehuisvest;
 
 - f. de vreemdeling wiens uitzetting op grond van [artikel 64 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=64) achterwege blijft;
 
@@ -119,7 +119,7 @@ Voor de toepassing van deze regeling wordt verstaan onder:
 
 - j. de vreemdeling aan wie binnen de AC-procedure een verblijfsvergunning als bedoeld in [artikel 28 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=28) wordt verstrekt;
 
-- k. de vreemdeling op wie een van de uitzonderingsbepalingen als bedoeld in [artikel 4, tweede lid, onder a tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&hoofdstuk=II&artikel=4&z=2005-02-05&g=2006-01-01) van deze regeling van toepassing is;
+- k. de vreemdeling op wie een van de uitzonderingsbepalingen als bedoeld in [artikel 4, tweede lid, onder a tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&hoofdstuk=II&artikel=4&z=2006-08-13&g=2006-08-13) van deze regeling van toepassing is;
 
 - l. de uitgenodigde vluchteling, ook en indien reeds binnen de AC-procedure een verblijfsvergunning is verleend.
 
@@ -145,7 +145,7 @@ Voor de toepassing van deze regeling wordt verstaan onder:
 
 3. Er bestaat geen recht op opvang indien de asielzoeker tot ongewenst vreemdeling is verklaard, als bedoeld in [artikel 67 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=67).
 
-4. Het enkele beroep op [artikel 64 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=64) danwel het beroep op de daarmee gelijk te stellen feitelijke situatie, als bedoeld in [artikel 3, derde lid, aanhef en onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&hoofdstuk=II&artikel=3&z=2005-02-05&g=2006-01-01)van deze regeling, genereert geen recht op opvang.
+4. Het enkele beroep op [artikel 64 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=64) danwel het beroep op de daarmee gelijk te stellen feitelijke situatie, als bedoeld in [artikel 3, derde lid, aanhef en onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&hoofdstuk=II&artikel=3&z=2006-08-13&g=2006-08-13)van deze regeling, genereert geen recht op opvang.
 
 ### Hoofdstuk III. Het eindigen van de opvang
 
@@ -177,15 +177,15 @@ Het recht op opvang van een alleenstaande minderjarige vreemdeling eindigt:
 
 - b. indien het een asielzoeker betreft die rechtmatig verwijderbaar is vanwege het niet inwilligen van de asielaanvraag die recht geeft op opvang: op de dag na de dag waarop de vreemdeling rechtmatig verwijderbaar is geworden;
 
-- c. indien het een asielzoeker betreft aan wie met toepassing van [artikel 3, derde lid, aanhef en onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&hoofdstuk=II&artikel=3&z=2005-02-05&g=2006-01-01) van deze regeling opvang is geboden: op de dag waarop voor de asielzoeker met wie gezinshereniging wordt beoogd naar het oordeel van het orgaan passende huisvesting buiten de opvangvoorziening kan worden gerealiseerd;
+- c. indien het een asielzoeker betreft aan wie met toepassing van [artikel 3, derde lid, aanhef en onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&hoofdstuk=II&artikel=3&z=2006-08-13&g=2006-08-13) van deze regeling opvang is geboden: op de dag waarop voor de asielzoeker met wie gezinshereniging wordt beoogd naar het oordeel van het orgaan passende huisvesting buiten de opvangvoorziening kan worden gerealiseerd;
 
-- d. indien het een asielzoeker betreft aan wie met toepassing van [artikel 3, derde lid, aanhef en onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&hoofdstuk=II&artikel=3&z=2005-02-05&g=2006-01-01) van deze regeling opvang is geboden: vier weken nadat het rechtmatig verblijf, als bedoeld in [artikel 8, aanhef en onder j, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) is geëindigd;
+- d. indien het een asielzoeker betreft aan wie met toepassing van [artikel 3, derde lid, aanhef en onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&hoofdstuk=II&artikel=3&z=2006-08-13&g=2006-08-13) van deze regeling opvang is geboden: vier weken nadat het rechtmatig verblijf, als bedoeld in [artikel 8, aanhef en onder j, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) is geëindigd;
 
-- e. indien het een asielzoeker betreft aan wie met toepassing van [artikel 3, derde lid, aanhef en onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&hoofdstuk=II&artikel=3&z=2005-02-05&g=2006-01-01) van deze regeling opvang is geboden: op de dag na de dag waarop naar het oordeel van Onze Minister niet langer sprake is van feitelijk dezelfde situatie, als bedoeld in [artikel 64 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=64);
+- e. indien het een asielzoeker betreft aan wie met toepassing van [artikel 3, derde lid, aanhef en onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&hoofdstuk=II&artikel=3&z=2006-08-13&g=2006-08-13) van deze regeling opvang is geboden: op de dag na de dag waarop naar het oordeel van Onze Minister niet langer sprake is van feitelijk dezelfde situatie, als bedoeld in [artikel 64 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=64);
 
-- f. indien het een asielzoeker betreft aan wie met toepassing van [artikel 3, derde lid, aanhef en onder h](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&hoofdstuk=II&artikel=3&z=2005-02-05&g=2006-01-01) van deze regeling opvang is geboden: vier weken na de dag waarop het besluit, als bedoeld in [artikel 45 vierde lid van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=45), is ingetrokken;
+- f. indien het een asielzoeker betreft aan wie met toepassing van [artikel 3, derde lid, aanhef en onder h](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&hoofdstuk=II&artikel=3&z=2006-08-13&g=2006-08-13) van deze regeling opvang is geboden: vier weken na de dag waarop het besluit, als bedoeld in [artikel 45 vierde lid van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=45), is ingetrokken;
 
-- g. indien het een asielzoeker betreft aan wie met toepassing van [artikel 3, derde lid, aanhef en onder i](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&hoofdstuk=II&artikel=3&z=2005-02-05&g=2006-01-01) van deze regeling opvang is geboden: vier weken na de dag waarop het besluit, als bedoeld in [artikel 45, zesde lid van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=45) is ingetrokken;
+- g. indien het een asielzoeker betreft aan wie met toepassing van [artikel 3, derde lid, aanhef en onder i](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&hoofdstuk=II&artikel=3&z=2006-08-13&g=2006-08-13) van deze regeling opvang is geboden: vier weken na de dag waarop het besluit, als bedoeld in [artikel 45, zesde lid van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=45) is ingetrokken;
 
 - h. indien een asielzoeker tot ongewenst vreemdeling is verklaard als bedoeld in [artikel 67 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=67), ook indien de asielzoeker nog niet rechtmatig verwijderbaar is geraakt op zijn asielaanvraag;
 
@@ -193,19 +193,19 @@ Het recht op opvang van een alleenstaande minderjarige vreemdeling eindigt:
 
 - j. indien het een asielzoeker betreft die twee opeenvolgende malen niet heeft voldaan aan de meldplicht bij de Vreemdelingenpolitie: twee weken nadat hij voor de eerste maal heeft verzuimd zich bij de Vreemdelingenpolitie te melden;
 
-- k. indien een asielzoeker onjuiste gegevens heeft verstrekt danwel gegevens heeft achtergehouden, met het oogmerk om aldus voor zichzelf of voor degenen voor wie hij zorgt, ten onrechte een aanspraak te doen ontstaan op de verstrekkingen bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&hoofdstuk=IV&artikel=9&z=2005-02-05&g=2006-01-01) van deze regeling, danwel ten onrechte de hoogte van de verstrekkingen te doen stijgen;
+- k. indien een asielzoeker onjuiste gegevens heeft verstrekt danwel gegevens heeft achtergehouden, met het oogmerk om aldus voor zichzelf of voor degenen voor wie hij zorgt, ten onrechte een aanspraak te doen ontstaan op de verstrekkingen bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&hoofdstuk=IV&artikel=9&z=2006-08-13&g=2006-08-13) van deze regeling, danwel ten onrechte de hoogte van de verstrekkingen te doen stijgen;
 
-- l. indien een asielzoeker niet de instemming heeft verkregen als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&hoofdstuk=IV&artikel=12&z=2005-02-05&g=2006-01-01) van deze regeling.
+- l. indien een asielzoeker niet de instemming heeft verkregen als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&hoofdstuk=IV&artikel=12&z=2006-08-13&g=2006-08-13) van deze regeling.
 
 2. De indiening van een tweede of volgende asielaanvraag, danwel van een aanvraag tot het verlenen van een verblijfsvergunning als bedoeld in de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14) en [28 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=28) is niet van invloed op het moment van het eindigen van het recht op opvang.
 
 ##### Artikel 8
 
-Indien op grond van een van de uitzonderingsbepalingen uit [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&hoofdstuk=II&artikel=4&z=2005-02-05&g=2006-01-01) van deze regeling opvang is geboden eindigt het recht op opvang:
+Indien op grond van een van de uitzonderingsbepalingen uit [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&hoofdstuk=II&artikel=4&z=2006-08-13&g=2006-08-13) van deze regeling opvang is geboden eindigt het recht op opvang:
 
-- a. op de dag na de dag waarop niet langer sprake is van zeer schrijnende humanitaire omstandigheden als bedoeld in [artikel 4 tweede lid onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&hoofdstuk=II&artikel=4&z=2005-02-05&g=2006-01-01) of;
+- a. op de dag na de dag waarop niet langer sprake is van zeer schrijnende humanitaire omstandigheden als bedoeld in [artikel 4 tweede lid onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&hoofdstuk=II&artikel=4&z=2006-08-13&g=2006-08-13) of;
 
-- b. overeenkomstig de bepalingen als opgenomen in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&hoofdstuk=III&artikel=6&z=2005-02-05&g=2006-01-01), of [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&hoofdstuk=III&artikel=7&z=2005-02-05&g=2006-01-01), van deze regeling.
+- b. overeenkomstig de bepalingen als opgenomen in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&hoofdstuk=III&artikel=6&z=2006-08-13&g=2006-08-13), of [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&hoofdstuk=III&artikel=7&z=2006-08-13&g=2006-08-13), van deze regeling.
 
 ### Hoofdstuk IV. De verstrekkingen gedurende de opvang
 
@@ -243,13 +243,13 @@ Indien op grond van een van de uitzonderingsbepalingen uit [artikel 4, tweede li
 
 ##### Artikel 10
 
-De in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&hoofdstuk=IV&artikel=9&z=2005-02-05&g=2006-01-01), bedoelde verstrekkingen kunnen geheel of gedeeltelijk aan een asielzoeker worden onthouden indien de asielzoeker:
+De in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&hoofdstuk=IV&artikel=9&z=2006-08-13&g=2006-08-13), bedoelde verstrekkingen kunnen geheel of gedeeltelijk aan een asielzoeker worden onthouden indien de asielzoeker:
 
 - a. niet desgevraagd mededeling doet van op hem betrekking hebbende gegevens die nodig zijn voor het realiseren van de opvang, waaronder in elk geval zijn naam, geboortedatum, nationaliteit, land van herkomst, gezinssamenstelling, vermogenspositie en de datum waarop door of ten behoeve van hem een asielaanvraag is ingediend;
 
-- b. een hem overeenkomstig het bepaalde in [artikel 20 tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&hoofdstuk=V&artikel=20&z=2005-02-05&g=2006-01-01) van deze regeling in rekening gebrachte tegemoetkoming in de kosten van opvang niet betaalt;
+- b. een hem overeenkomstig het bepaalde in [artikel 20 tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&hoofdstuk=V&artikel=20&z=2006-08-13&g=2006-08-13) van deze regeling in rekening gebrachte tegemoetkoming in de kosten van opvang niet betaalt;
 
-- c. het bepaalde in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&hoofdstuk=V&artikel=19&z=2005-02-05&g=2006-01-01) van deze regeling niet naleeft;
+- c. het bepaalde in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&hoofdstuk=V&artikel=19&z=2006-08-13&g=2006-08-13) van deze regeling niet naleeft;
 
 - d. overlast bezorgt aan asielzoekers die in een opvangvoorziening verblijven, aan personen die werkzaam zijn in de voorziening of aan anderen, of;
 
@@ -259,7 +259,7 @@ De in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&ho
 
 1. Het orgaan bepaalt in welke opvangvoorziening een asielzoeker wordt geplaatst en is bevoegd een asielzoeker naar een andere voorziening over te plaatsen.
 
-2. Na overplaatsing van een asielzoeker naar een andere opvangvoorziening worden de in [artikel 9 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&hoofdstuk=IV&artikel=9&z=2005-02-05&g=2006-01-01) van deze regeling bedoelde verstrekkingen in deze andere voorziening aangeboden.
+2. Na overplaatsing van een asielzoeker naar een andere opvangvoorziening worden de in [artikel 9 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&hoofdstuk=IV&artikel=9&z=2006-08-13&g=2006-08-13) van deze regeling bedoelde verstrekkingen in deze andere voorziening aangeboden.
 
 3. Bij haar bevoegdheid op grond van het eerste lid van dit artikel handhaaft het orgaan, voor zover mogelijk en met instemming van de asielzoeker, de eenheid van het gezin en neemt zij de bescherming van het gezinsleven tot uitgangspunt.
 
@@ -269,27 +269,27 @@ De in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&ho
 
 ##### Artikel 12
 
-1. De asielzoeker aan wie een verblijfsvergunning is verleend en die in afwachting is van het betrekken van woonruimte in een gemeente krijgt de verstrekkingen, bedoeld in [artikel 9 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&hoofdstuk=IV&artikel=9&z=2005-02-05&g=2006-01-01) van deze regeling, aangeboden indien het orgaan hiermee heeft ingestemd.
+1. De asielzoeker aan wie een verblijfsvergunning is verleend en die in afwachting is van het betrekken van woonruimte in een gemeente krijgt de verstrekkingen, bedoeld in [artikel 9 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&hoofdstuk=IV&artikel=9&z=2006-08-13&g=2006-08-13) van deze regeling, aangeboden indien het orgaan hiermee heeft ingestemd.
 
 2. De asielzoeker, bedoeld in het eerste lid, zal zich iedere twee weken bij het orgaan moeten melden en de instemming bedoeld in het eerste lid moeten hebben verkregen.
 
 ##### Artikel 13
 
-1. De verstrekkingen, bedoeld in [artikel 9, eerste lid, onderdeel b tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&hoofdstuk=IV&artikel=9&z=2005-02-05&g=2006-01-01) van deze regeling, vinden niet plaats indien de bewoner van de opvangvoorziening geen gebruik maakt van het in de desbetreffende voorziening geboden onderdak.
+1. De verstrekkingen, bedoeld in [artikel 9, eerste lid, onderdeel b tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&hoofdstuk=IV&artikel=9&z=2006-08-13&g=2006-08-13) van deze regeling, vinden niet plaats indien de bewoner van de opvangvoorziening geen gebruik maakt van het in de desbetreffende voorziening geboden onderdak.
 
 2. Het orgaan kan in bijzondere gevallen afwijken van de bepaling in het eerste lid.
 
-3. Het bepaalde in [artikel 19, aanhef en onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&hoofdstuk=V&artikel=19&z=2005-02-05&g=2006-01-01) van deze regeling is op dit artikel van overeenkomstige toepassing.
+3. Het bepaalde in [artikel 19, aanhef en onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&hoofdstuk=V&artikel=19&z=2006-08-13&g=2006-08-13) van deze regeling is op dit artikel van overeenkomstige toepassing.
 
 ##### Artikel 14
 
-1. Iedere asielzoeker aan wie opvang wordt verleend in een opvangvoorziening hier te lande maakt aanspraak op de verstrekking van een wekelijkse financiële toelage, bedoeld in [artikel 9, eerste lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&hoofdstuk=IV&artikel=9&z=2005-02-05&g=2006-01-01) van deze regeling, ten behoeve van voedsel, kleding en andere persoonlijke uitgaven.
+1. Iedere asielzoeker aan wie opvang wordt verleend in een opvangvoorziening hier te lande maakt aanspraak op de verstrekking van een wekelijkse financiële toelage, bedoeld in [artikel 9, eerste lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&hoofdstuk=IV&artikel=9&z=2006-08-13&g=2006-08-13) van deze regeling, ten behoeve van voedsel, kleding en andere persoonlijke uitgaven.
 
-2. De hoogte van de in het eerste lid bedoelde toelage is in de opvangvoorziening waarin de bewoners volledig zelf het eigen eten verzorgen als volgt: volwassenen: € 40,04, kinderen tot en met 11 jaar: € 8,26, kinderen ouder dan 11 jaar en jonger dan 18 jaar: € 12,35 en alleenstaande minderjarige vreemdelingen € 32,77. Alleenstaande ouders krijgen daarboven een toeslag van € 26,32.
+2. De hoogte van de in het eerste lid bedoelde toelage is in de opvangvoorziening waarin de bewoners volledig zelf het eigen eten verzorgen als volgt: volwassenen: 43,02 Euro, kinderen tot en met 11 jaar: 13,16 Euro, kinderen ouder dan 11 jaar en jonger dan 18 jaar: 19,22 Euro en alleenstaande minderjarige vreemdelingen: 36,94 Euro. Alleenstaande ouders krijgen daarboven een toeslag van 26,65 Euro.
 
-3. De hoogte van de in het eerste lid bedoelde toelage is in de opvangvoorziening waarin de bewoners het ontbijt en de lunch zelf verzorgen en niet de hoofdmaaltijd als volgt: volwassenen: € 28,65, kinderen tot en met 11 jaar: € 5,50, kinderen ouder dan 11 jaar en jonger dan 18 jaar: € 7,77 en alleenstaande minderjarige vreemdelingen € 23,20. Alleenstaande ouders krijgen daarboven een toeslag van € 20,88
+3. De hoogte van de in het eerste lid bedoelde toelage is in de opvangvoorziening waarin de bewoners het ontbijt en een tweede maaltijd zelf verzorgen en niet de hoofdmaaltijd als volgt: volwassenen: 30,32 Euro, kinderen tot en met 11 jaar: 7,51 Euro, kinderen ouder dan 11 jaar en jonger dan 18 jaar: 10,12 Euro en alleenstaande minderjarige vreemdelingen 26,94 Euro. Alleenstaande ouders krijgen daarboven een toeslag van 21,15 Euro.
 
-4. De hoogte van de in het eerste lid bedoelde toelage is in de opvangvoorziening waarin aan de bewoners alle maaltijden in natura worden verstrekt als volgt: volwassenen: € 15,88 kinderen tot en met 11 jaar: € 3,63, kinderen ouder dan 11 jaar en jonger dan 18 jaar: € 5,45 en alleenstaande minderjarige vreemdelingen € 12,71. Alleenstaande ouders krijgen daarboven een toeslag van € 10,44.
+4. De hoogte van de in het eerste lid bedoelde toelage is in de opvangvoorziening waarin aan de bewoners alle maaltijden krijgen verstrekt als volgt: volwassenen: 16,08 Euro, kinderen tot en met 11 jaar: 3,68 Euro, kinderen ouder dan 11 jaar en jonger dan 18 jaar: 5,52 Euro en alleenstaande minderjarige vreemdelingen 12,87 Euro. Alleenstaande ouders krijgen daarboven een toeslag van 10,57 Euro.
 
 5. De financiële toelage wordt iedere week bij vooruitbetaling op een door het orgaan vastgestelde tijd (en plaats) aan de asielzoeker beschikbaar gesteld.
 
@@ -313,13 +313,13 @@ De in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&ho
 
 ##### Artikel 16
 
-1. Het treffen van een ziektekostenregeling bedoeld in [artikel 9 eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&hoofdstuk=IV&artikel=9&z=2005-02-05&g=2006-01-01) van deze regeling, houdt in het afsluiten van een ziektekostencontract ter dekking van de kosten van het door Onze Minister vastgestelde pakket medische verstrekkingen.
+1. Het treffen van een ziektekostenregeling bedoeld in [artikel 9 eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&hoofdstuk=IV&artikel=9&z=2006-08-13&g=2006-08-13) van deze regeling, houdt in het afsluiten van een ziektekostencontract ter dekking van de kosten van het door Onze Minister vastgestelde pakket medische verstrekkingen.
 
-2. Het verzekeren tegen de financiële gevolgen van wettelijke aansprakelijkheid, bedoeld in [artikel 9, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&hoofdstuk=IV&artikel=9&z=2005-02-05&g=2006-01-01) van deze regeling, houdt in het ten behoeve van de asielzoeker afsluiten van een verzekering voor de wettelijke aansprakelijkheid van de asielzoeker jegens een derde voor een som van maximaal € 453.780 per gebeurtenis per jaar, alsmede het betalen van de daarvoor verschuldigde premie.
+2. Het verzekeren tegen de financiële gevolgen van wettelijke aansprakelijkheid, bedoeld in [artikel 9, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&hoofdstuk=IV&artikel=9&z=2006-08-13&g=2006-08-13) van deze regeling, houdt in het ten behoeve van de asielzoeker afsluiten van een verzekering voor de wettelijke aansprakelijkheid van de asielzoeker jegens een derde voor een som van maximaal € 453.780 per gebeurtenis per jaar, alsmede het betalen van de daarvoor verschuldigde premie.
 
 ##### Artikel 17
 
-1. Een asielzoeker kan een vergoeding ontvangen voor buitengewone kosten, bedoeld in [artikel 9, eerste lid, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&hoofdstuk=IV&artikel=9&z=2005-02-05&g=2006-01-01) van deze regeling, die hij heeft gemaakt.
+1. Een asielzoeker kan een vergoeding ontvangen voor buitengewone kosten, bedoeld in [artikel 9, eerste lid, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&hoofdstuk=IV&artikel=9&z=2006-08-13&g=2006-08-13) van deze regeling, die hij heeft gemaakt.
 
 2. Buitengewone kosten zijn noodzakelijke kosten die vanwege hun aard of hoogte in redelijkheid niet geacht kunnen worden door de asielzoeker zelf te worden betaald.
 
@@ -363,11 +363,11 @@ De asielzoeker die onderdak heeft in een opvangvoorziening is verplicht:
 
 ##### Artikel 21
 
-Indien blijkt dat een asielzoeker in strijd met de waarheid gegevens heeft verstrekt of verzwegen, waardoor hij of zijn gezinsleden ten onrechte, of tot een te hoog bedrag, de verstrekkingen, bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&hoofdstuk=IV&artikel=9&z=2005-02-05&g=2006-01-01) van deze regeling, hebben verkregen, dan wel dit op andere wijze heeft bewerkstelligd, is het orgaan bevoegd de waarde van de ten onrechte toegekende verstrekkingen terug te vorderen.
+Indien blijkt dat een asielzoeker in strijd met de waarheid gegevens heeft verstrekt of verzwegen, waardoor hij of zijn gezinsleden ten onrechte, of tot een te hoog bedrag, de verstrekkingen, bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&hoofdstuk=IV&artikel=9&z=2006-08-13&g=2006-08-13) van deze regeling, hebben verkregen, dan wel dit op andere wijze heeft bewerkstelligd, is het orgaan bevoegd de waarde van de ten onrechte toegekende verstrekkingen terug te vorderen.
 
 ##### Artikel 22
 
-Voor de verstrekkingen op basis van deze regeling geldt een beslagvrije voet ten aanzien van alle verstrekkingen die in natura geschieden en viervijfde deel van de verstrekkingen op grond van [artikel 9, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&hoofdstuk=IV&artikel=9&z=2005-02-05&g=2006-01-01) van deze regeling.
+Voor de verstrekkingen op basis van deze regeling geldt een beslagvrije voet ten aanzien van alle verstrekkingen die in natura geschieden en viervijfde deel van de verstrekkingen op grond van [artikel 9, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&hoofdstuk=IV&artikel=9&z=2006-08-13&g=2006-08-13) van deze regeling.
 
 ### Hoofdstuk VI. Overgangs- en slotbepalingen
 
@@ -381,11 +381,11 @@ Indien er ten aanzien van een asielzoeker
 
 - c. door de korpschef van de politieregio waar de vreemdeling zijn woon- of verblijfsplaats heeft is meegedeeld dat hij Nederland moet verlaten,
 
-eindigen de verstrekkingen, in afwijking van [artikel 7, eerste lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&hoofdstuk=III&artikel=7&z=2005-02-05&g=2006-01-01) van deze regeling, op de dag waarop de asielzoeker Nederland ingevolge de mededeling van de korpschef dient te verlaten.
+eindigen de verstrekkingen, in afwijking van [artikel 7, eerste lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&hoofdstuk=III&artikel=7&z=2006-09-13&g=2006-08-13) van deze regeling, op de dag waarop de asielzoeker Nederland ingevolge de mededeling van de korpschef dient te verlaten.
 
 ##### Artikel 24
 
-[Artikel 7, eerste lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&hoofdstuk=III&artikel=7&z=2005-02-05&g=2006-01-01) van deze regeling is, in afwijking van [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&hoofdstuk=IV&artikel=23&z=2005-02-05&g=2006-01-01) van deze regeling, eveneens van toepassing op de vreemdeling ten aanzien van wie:
+[Artikel 7, eerste lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&hoofdstuk=III&artikel=7&z=2006-09-13&g=2006-08-13) van deze regeling is, in afwijking van [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&hoofdstuk=VI&artikel=23&z=2006-09-13&g=2006-08-13) van deze regeling, eveneens van toepassing op de vreemdeling ten aanzien van wie:
 
 - a. op of na 1 januari 2000 een niet inwilligende beslissing op de asielaanvraag is genomen, of;
 
