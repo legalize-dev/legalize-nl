@@ -4,7 +4,7 @@ identifier: "BWBR0009888"
 country: "nl"
 rank: "kb"
 publication_date: "2008-10-01"
-last_updated: "1999-01-01"
+last_updated: "2006-08-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009888"
 soort: "KB"
@@ -48,13 +48,13 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - a. Onze Minister: Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;
 
-- b. dienst: Rijksgebouwendienst, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009888&hoofdstuk=2&afdeling=1&artikel=2&z=1999-01-01&g=1999-01-01);
+- b. dienst: Rijksgebouwendienst, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009888&hoofdstuk=2&afdeling=1&artikel=2&z=2006-08-15&g=2006-08-15);
 
 - c. huisvesting: ingebruikgeving en beheer van gebouwen, werken en daarbij behorende terreinen;
 
-- d. afnemer: lichaam of organisatie als bedoeld in de [artikelen 3, onderdelen a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0009888&hoofdstuk=2&afdeling=1&artikel=3&z=1999-01-01&g=1999-01-01), en [4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009888&hoofdstuk=2&afdeling=1&artikel=4&z=1999-01-01&g=1999-01-01).
+- d. afnemer: lichaam of organisatie als bedoeld in de [artikelen 3, onderdelen a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0009888&hoofdstuk=2&afdeling=1&artikel=3&z=2006-08-15&g=2006-08-15), en [4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009888&hoofdstuk=2&afdeling=1&artikel=4&z=2006-08-15&g=2006-08-15).
 
-### HOOFDSTUK 2. De Rijksgebouwendienst
+### Hoofdstuk 2. De Rijksgebouwendienst
 
 ### AFDELING 1. Instelling, taken en bevoegdheden
 
@@ -84,7 +84,7 @@ De dienst heeft tot taak:
 
 ##### Artikel 4
 
-1. Ten aanzien van andere lichamen op het niveau van de centrale overheid dan genoemd in [artikel 3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0009888&hoofdstuk=2&afdeling=1&artikel=3&z=1999-01-01&g=1999-01-01), die geheel of nagenoeg geheel bekostigd worden uit de collectieve middelen, heeft de dienst tot taak:
+1. Ten aanzien van andere lichamen op het niveau van de centrale overheid dan genoemd in [artikel 3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0009888&hoofdstuk=2&afdeling=1&artikel=3&z=2006-08-15&g=2006-08-15), die geheel of nagenoeg geheel bekostigd worden uit de collectieve middelen, heeft de dienst tot taak:
 
 - a. de zorg voor de huisvesting, voorzover Onze Minister, dan wel Onze Minister in overeenstemming met Onze Minister(s) wie het mede aangaat, deze zorg aan de dienst heeft opgedragen;
 
@@ -96,11 +96,11 @@ De dienst heeft tot taak:
 
 ##### Artikel 5
 
-Onze Minister kan, in overeenstemming met onze Minister van Financiën en met Onze Minister wie het mede aangaat, de zorg voor de huisvesting van een lichaam als bedoeld in [artikel 3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0009888&hoofdstuk=2&afdeling=1&artikel=3&z=1999-01-01&g=1999-01-01), geheel of gedeeltelijk overdragen aan Onze Minister wie het mede aangaat.
+Onze Minister kan, in overeenstemming met onze Minister van Financiën en met Onze Minister wie het mede aangaat, de zorg voor de huisvesting van een lichaam als bedoeld in [artikel 3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0009888&hoofdstuk=2&afdeling=1&artikel=3&z=2006-08-15&g=2006-08-15), geheel of gedeeltelijk overdragen aan Onze Minister wie het mede aangaat.
 
 ##### Artikel 6
 
-Ter uitvoering van de taken, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009888&hoofdstuk=2&afdeling=1&artikel=3&z=1999-01-01&g=1999-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0009888&hoofdstuk=2&afdeling=1&artikel=4&z=1999-01-01&g=1999-01-01), is de dienst in elk geval bevoegd tot:
+Ter uitvoering van de taken, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009888&hoofdstuk=2&afdeling=1&artikel=3&z=2006-08-15&g=2006-08-15) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0009888&hoofdstuk=2&afdeling=1&artikel=4&z=2006-08-15&g=2006-08-15), is de dienst in elk geval bevoegd tot:
 
 - a. het sluiten van huurovereenkomsten met afnemers;
 
@@ -122,7 +122,7 @@ Ter uitvoering van de taken, bedoeld in de [artikelen 3](https://wetten.overheid
 
 3. In afwijking van het eerste lid kan Onze Minister, in overeenstemming met het gevoelen van de ministerraad, bepalen dat de gebouwen, werken en terreinen waarover de zorg van de dienst zich uitstrekt, om niet ter beschikking worden gesteld en dat bekostiging plaatsvindt vanuit de begroting van het Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer.
 
-4. De paleizen, bedoeld in [artikel 3, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0009888&hoofdstuk=2&afdeling=1&artikel=3&z=1999-01-01&g=1999-01-01), worden om niet ter beschikking gesteld. Bekostiging vindt plaats vanuit de begroting van het Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer.
+4. De paleizen, bedoeld in [artikel 3, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0009888&hoofdstuk=2&afdeling=1&artikel=3&z=2006-08-15&g=2006-08-15), worden om niet ter beschikking gesteld. Bekostiging vindt plaats vanuit de begroting van het Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer.
 
 ##### Artikel 8
 
@@ -148,21 +148,17 @@ Ter uitvoering van de taken, bedoeld in de [artikelen 3](https://wetten.overheid
 
 3. Ter vergoeding van werkzaamheden die niet in de huurovereenkomst zijn opgenomen en die de dienst verricht op verzoek van een afnemer, brengt de dienst door Onze Minister vast te stellen tarieven in rekening.
 
-4. Het derde lid is van overeenkomstige toepassing ten aanzien van het uitbrengen van adviezen, bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009888&hoofdstuk=2&afdeling=1&artikel=4&z=1999-01-01&g=1999-01-01).
+4. Het derde lid is van overeenkomstige toepassing ten aanzien van het uitbrengen van adviezen, bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009888&hoofdstuk=2&afdeling=1&artikel=4&z=2006-08-15&g=2006-08-15).
 
 ##### Artikel 11
 
 Onze Minister kan nadere regels geven omtrent de taken, bevoegdheden, werkwijze en inrichting van de dienst.
 
-### AFDELING 3. De Klantenraad
+### Afdeling 3. De Klantenraad
 
 ##### Artikel 12
 
-1. Er is een Klantenraad.
-
-2. De Klantenraad voert overleg met de dienst over rijkshuisvestingsaangelegenheden en adviseert de Directeur-Generaal van de Rijksgebouwendienst over deze aangelegenheden.
-
-3. Onze Minister geeft, in overeenstemming met het gevoelen van de ministerraad, regels omtrent samenstelling, bevoegdheden en werkwijze van de Klantenraad.
+Vervallen
 
 ### AFDELING 4. De Rijksbouwmeester
 
@@ -174,7 +170,7 @@ Onze Minister kan nadere regels geven omtrent de taken, bevoegdheden, werkwijze 
 
 ##### Artikel 14
 
-De Rijksbouwmeester adviseert de Directeur-Generaal van de Rijksgebouwendienst ten aanzien van de in [artikel 3, onderdelen e, f en g](https://wetten.overheid.nl/jci1.3:c:BWBR0009888&hoofdstuk=2&afdeling=1&artikel=3&z=1999-01-01&g=1999-01-01), bedoelde taken van de dienst.
+De Rijksbouwmeester adviseert de Directeur-Generaal van de Rijksgebouwendienst ten aanzien van de in [artikel 3, onderdelen e, f en g](https://wetten.overheid.nl/jci1.3:c:BWBR0009888&hoofdstuk=2&afdeling=1&artikel=3&z=2006-08-15&g=2006-08-15), bedoelde taken van de dienst.
 
 ##### Artikel 15
 
@@ -194,7 +190,7 @@ De Rijksbouwmeester brengt op verzoek, dan wel uit eigen beweging advies uit aan
 
 2. In het meerjarenbeleidsplan wordt het rijkshuisvestingsbeleid geformuleerd.
 
-### HOOFDSTUK 4. Slotbepalingen
+### HOOFDSTUK 3. Het meerjarenbeleidsplan
 
 ##### Artikel 17
 
@@ -205,5 +201,19 @@ Het Besluit Rijksgebouwendienst wordt ingetrokken.
 1. Dit besluit treedt in werking met ingang van 1 januari 1999.
 
 2. Dit besluit wordt aangehaald als: Besluit Rijksgebouwendienst 1999.
+
+Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer is belast met de uitvoering van dit besluit dat in het Staatsblad zal worden geplaatst en waarvan afschrift zal worden gezonden aan de kamers der Staten-Generaal en aan de Algemene Rekenkamer.
+
+### Afdeling 5. Het Rijkshuisvestingsberaad
+
+##### Artikel 15a
+
+1. Er is een Rijkshuisvestingsberaad.
+
+2. Het Rijkshuisvestingsberaad overlegt over rijkshuisvestingsaangelegenheden en adviseert Onze Minister over deze aangelegenheden.
+
+3. Onze Minister geeft, in overeenstemming met het gevoelen van de ministerraad, nadere regels omtrent de taken en bevoegdheden van het Rijkshuisvestingsberaad alsmede regels omtrent de samenstelling, inrichting, en werkwijze van het Rijkshuisvestingsberaad.
+
+### HOOFDSTUK 4. Slotbepalingen
 
 Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer is belast met de uitvoering van dit besluit dat in het Staatsblad zal worden geplaatst en waarvan afschrift zal worden gezonden aan de kamers der Staten-Generaal en aan de Algemene Rekenkamer.
