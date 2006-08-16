@@ -4,7 +4,7 @@ identifier: "BWBR0020039"
 country: "nl"
 rank: "amvb"
 publication_date: "2007-07-04"
-last_updated: "2006-01-01"
+last_updated: "2006-08-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020039"
 soort: "AMvB"
@@ -106,13 +106,33 @@ van de in het derde lid bedoelde grondslag.
 
 - c. indien een ambtenaar of gewezen ambtenaar dan wel de nabestaanden van de ambtenaar of gewezen ambtenaar in 2005 rechthebbende is respectievelijk zijn geworden en als gevolg daarvan over een deel van het kalenderjaar 2005 een tegemoetkoming heeft respectievelijk hebben ontvangen: het bedrag van die tegemoetkoming.
 
-4. Dit artikel is niet van toepassing ten aanzien van een belanghebbende als bedoeld in [artikel 3, eerste lid, onderdelen b tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0020039&hoofdstuk=3&artikel=3&z=2006-08-16&g=2006-01-01), alsmede ten aanzien van de gewezen burgerambtenaar die een uitkering ontvangt op grond van [artikel 114, eerste lid, van het Burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=114).
+4. Dit artikel is niet van toepassing ten aanzien van een belanghebbende als bedoeld in [artikel 3, eerste lid, onderdelen b tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0020039&hoofdstuk=3&artikel=3&z=2006-08-16&g=2006-08-16), alsmede ten aanzien van de gewezen burgerambtenaar die een uitkering ontvangt op grond van [artikel 114, eerste lid, van het Burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=114).
 
 ### Hoofdstuk 3. Vaststelling van aanspraken op vergoeding van de inkomensafhankelijke bijdrage voor gewezen defensiepersoneel
 
 ##### Artikel 3
 
-Dit onderdeel is nog niet inwerking getreden
+1. Voor de toepassing van dit artikel wordt verstaan onder belanghebbende:
+
+- a. De gewezen militair die een uitkering ontvangt op grond van de [Uitkeringswet gewezen militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0002540);
+
+- b. De gewezen militair, jonger dan 65 jaar, die een verhoogd arbeidsongeschiktheidspensioen als bedoeld in [artikel 3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&artikel=3), een militair invaliditeitspensioen als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&artikel=7) of een bijzondere invaliditeitsverhoging als bedoeld in [artikel 8 van het Besluit aanvullende arbeidsongeschiktheids- en invaliditeitsvoorzieningen militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&artikel=8) ontvangt;
+
+- c. De nabestaanden, jonger dan 65 jaar, van een militair die een bijzonder nabestaandenpensioen ontvangen op grond van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0012222&artikel=6) of [7 van het Besluit bijzondere militaire pensioenen](https://wetten.overheid.nl/jci1.3:c:BWBR0012222&artikel=7);
+
+- d. De gewezen militair of burgerambtenaar die een wachtgelduitkering ontvangt op grond van de Militaire wachtgeldregeling 1961 of het Wachtgeldbesluit burgerlijke ambtenaren defensie;
+
+- e. De gewezen burgerambtenaar dan wel diens nabestaanden die een uitkering ontvangen op grond van [artikel 65 van het Burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=65);
+
+- f. De gewezen burgerambtenaar die een uitkering ontvangt op grond van [artikel 119, vijfde lid, van het Burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=119).
+
+2. De belanghebbende heeft aanspraak op vergoeding van de inkomensafhankelijke bijdrage, bedoeld in [artikel 41 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=41), die hij verschuldigd is over zijn uitkering of pensioen.
+
+3. De belanghebbende als bedoeld in het eerste lid, onderdeel a, heeft aanspraak op een tegemoetkoming ter grootte van de inkomensafhankelijke bijdrage als bedoeld in [artikel 41 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=41) indien hij, in verband met zijn verblijf in het buitenland, deze inkomensafhankelijke bijdrage niet verschuldigd is.
+
+4. Voor de belanghebbende bedoeld in het eerste lid, onderdeel e, wordt, bij de vaststelling van de maximaal verschuldigde premie, eerst het ten laste van het VUT-fonds komende deel van de uitkering in aanmerking genomen.
+
+5. Bij ministeriële regeling kunnen omtrent het bepaalde in dit artikel nadere voorschriften worden vastgesteld.
 
 ### Hoofdstuk 4. Wijzigingen besluiten
 
@@ -138,7 +158,7 @@ Wijzigt het Inkomstenbesluit militairen.
 
 ##### Artikel 8
 
-In afwijking van [artikel 6, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0020039&hoofdstuk=4&artikel=6&z=2006-08-16&g=2006-01-01), is het percentage in [artikel 6 van het Inkomstenbesluit militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&artikel=6) voor de periode 1 januari 2004 tot en met 31 december 2004 bepaald op 0,8%.
+In afwijking van [artikel 6, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0020039&hoofdstuk=4&artikel=6&z=2006-08-16&g=2006-08-16), is het percentage in [artikel 6 van het Inkomstenbesluit militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&artikel=6) voor de periode 1 januari 2004 tot en met 31 december 2004 bepaald op 0,8%.
 
 ##### Artikel 9
 
