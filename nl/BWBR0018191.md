@@ -4,7 +4,7 @@ identifier: "BWBR0018191"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-01-17"
-last_updated: "2006-08-02"
+last_updated: "2006-08-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018191"
 soort: "AMvB"
@@ -121,7 +121,7 @@ De volgende besluiten worden ingetrokken:
 
 ##### Artikel 76. Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het besluit wordt geplaatst, met dien verstande dat de [artikelen 63, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=9&artikel=63&z=2006-08-02&g=2006-08-02), [64](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=9&artikel=64&z=2006-08-02&g=2006-08-02), [65](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=9&artikel=65&z=2006-08-02&g=2006-08-02), [66](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=9&artikel=66&z=2006-08-02&g=2006-08-02), [68](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=9&artikel=68&z=2006-08-02&g=2006-08-02), [69](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=9&artikel=69&z=2006-08-02&g=2006-08-02), [70, onderdeel W](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=9&artikel=70&z=2006-08-02&g=2006-08-02), [71, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=9&artikel=71&z=2006-08-02&g=2006-08-02), [72, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=9&artikel=72&z=2006-08-02&g=2006-08-02), en [73](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=9&artikel=73&z=2006-08-02&g=2006-08-02) terugwerken tot en met 1 augustus 2004.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het besluit wordt geplaatst, met dien verstande dat de [artikelen 63, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=9&artikel=63&z=2006-08-16&g=2006-08-16), [64](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=9&artikel=64&z=2006-08-16&g=2006-08-16), [65](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=9&artikel=65&z=2006-08-16&g=2006-08-16), [66](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=9&artikel=66&z=2006-08-16&g=2006-08-16), [68](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=9&artikel=68&z=2006-08-16&g=2006-08-16), [69](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=9&artikel=69&z=2006-08-16&g=2006-08-16), [70, onderdeel W](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=9&artikel=70&z=2006-08-16&g=2006-08-16), [71, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=9&artikel=71&z=2006-08-16&g=2006-08-16), [72, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=9&artikel=72&z=2006-08-16&g=2006-08-16), en [73](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=9&artikel=73&z=2006-08-16&g=2006-08-16) terugwerken tot en met 1 augustus 2004.
 
 ##### Artikel 77. Citeertitel
 
@@ -169,21 +169,21 @@ In dit besluit en de daarop rustende bepalingen wordt verstaan onder:
 
 - d. **commandant:** een bij ministeriële regeling aangewezen autoriteit;
 
-- e. **salaris:** het bedrag, dat in de [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&bijlage=A&z=2006-08-02&g=2006-08-02) wordt gevonden in de voor de ambtenaar geldende salarisschaal en salarisnummer, in voorkomend geval verhoogd met de aanvulling op het salaris, bedoeld in [artikel 4 van het Besluit personenchauffeurs defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0010280&artikel=4), of het bedrag, dat wordt gevonden met toepassing van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&bijlage=B&z=2006-08-02&g=2006-08-02);
+- e. **salaris:** het bedrag, dat in de [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&bijlage=A&z=2006-08-16&g=2006-08-16) wordt gevonden in de voor de ambtenaar geldende salarisschaal en salarisnummer, in voorkomend geval verhoogd met de aanvulling op het salaris, bedoeld in [artikel 4 van het Besluit personenchauffeurs defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0010280&artikel=4), of het bedrag, dat wordt gevonden met toepassing van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&bijlage=B&z=2006-08-16&g=2006-08-16);
 
 - f. **salaris per uur:** 1/165 deel van het salaris bij een voltijdaanstelling;
 
-- g. **salarisschaal:** een als zodanig in de [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&bijlage=A&z=2006-08-02&g=2006-08-02) vermelde reeks van genummerde salarissen;
+- g. **salarisschaal:** een als zodanig in de [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&bijlage=A&z=2006-08-16&g=2006-08-16) vermelde reeks van genummerde salarissen;
 
 - h. **salarisnummer:** een aanduiding, bestaande uit een getal of uit een letter en een getal, dat in een salarisschaal voor een salaris is vermeld;
 
 - i. **maximumsalaris:** het hoogste bedrag van een salarisschaal;
 
-- j. **bezoldiging:** de som van het salaris en de toelagen waarop de ambtenaar ingevolge [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=3&z=2006-08-02&g=2006-08-02) van dit besluit aanspraak heeft, in voorkomend geval vermeerderd met:
+- j. **bezoldiging:** de som van het salaris en de toelagen waarop de ambtenaar ingevolge [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=3&z=2006-08-16&g=2006-08-16) van dit besluit aanspraak heeft, in voorkomend geval vermeerderd met:
 
-- 1°. aanspraken op grond van [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=9&artikel=62&z=2006-08-02&g=2006-08-02), indien en voor zover de minister dit bepaalt,
+- 1°. aanspraken op grond van [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=9&artikel=62&z=2006-08-16&g=2006-08-16), indien en voor zover de minister dit bepaalt,
 
-- 2°. aanspraken op grond van [artikel 51](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=6&artikel=51&z=2006-08-02&g=2006-08-02) voor zover deze tot de bezoldiging worden gerekend, en
+- 2°. aanspraken op grond van [artikel 51](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=6&artikel=51&z=2006-08-16&g=2006-08-16) voor zover deze tot de bezoldiging worden gerekend, en
 
 - 3°. de vaste toelage onregelmatige dienst en de consignatietoelage, bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0010280&artikel=5) en [6 van het Besluit personenchauffeurs defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0010280&artikel=6);
 
@@ -207,21 +207,21 @@ In dit besluit en de daarop rustende bepalingen wordt verstaan onder:
 
 - b. die in burgerlijke openbare dienst is aangesteld om als geestelijk verzorger bij de krijgsmacht werkzaam te zijn;
 
-- c. die ingevolge [artikel 125c, eerste lid, van de Ambtenarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=125c) in verband met de werkzaamheden die voortvloeien uit een functie in een publiekrechtelijk college, waarin hij is benoemd of verkozen, tijdelijk is ontheven van de waarneming van zijn ambt, met uitzondering van [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=5&artikel=32&z=2006-08-02&g=2006-08-02);
+- c. die ingevolge [artikel 125c, eerste lid, van de Ambtenarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=125c) in verband met de werkzaamheden die voortvloeien uit een functie in een publiekrechtelijk college, waarin hij is benoemd of verkozen, tijdelijk is ontheven van de waarneming van zijn ambt, met uitzondering van [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=5&artikel=32&z=2006-08-16&g=2006-08-16);
 
-- d. die op grond van [artikel 7, tweede lid, onderdeel g, van het Burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=7) is aangesteld voor het verrichten van enkele diensten, met uitzondering van [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=5&artikel=34&z=2006-08-02&g=2006-08-02);
+- d. die op grond van [artikel 7, tweede lid, onderdeel g, van het Burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=7) is aangesteld voor het verrichten van enkele diensten, met uitzondering van [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=5&artikel=34&z=2006-08-16&g=2006-08-16);
 
 - e. indien hem buitengewoon verlof zonder behoud van bezoldiging is verleend.
 
 2. Op de ambtenaar die is aangesteld in de functie van tandarts en die hoofdzakelijk is belast met de curatieve tandheelkundige zorg, zijn uitsluitend van toepassing:
 
-- a. de [hoofdstukken 1](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=1&z=2006-08-02&g=2006-08-02), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=4&z=2006-08-02&g=2006-08-02), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=5&z=2006-08-02&g=2006-08-02), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=7&z=2006-08-02&g=2006-08-02), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=8&z=2006-08-02&g=2006-08-02) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=9&z=2006-08-02&g=2006-08-02);
+- a. de [hoofdstukken 1](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=1&z=2006-08-16&g=2006-08-16), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=4&z=2006-08-16&g=2006-08-16), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=5&z=2006-08-16&g=2006-08-16), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=7&z=2006-08-16&g=2006-08-16), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=8&z=2006-08-16&g=2006-08-16) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=9&z=2006-08-16&g=2006-08-16);
 
-- b. uit [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=2&z=2006-08-02&g=2006-08-02): het salaris burgertandarts, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=2&artikel=13&z=2006-08-02&g=2006-08-02), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=2&artikel=14&z=2006-08-02&g=2006-08-02) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=2&artikel=15&z=2006-08-02&g=2006-08-02);
+- b. uit [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=2&z=2006-08-16&g=2006-08-16): het salaris burgertandarts, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=2&artikel=13&z=2006-08-16&g=2006-08-16), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=2&artikel=14&z=2006-08-16&g=2006-08-16) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=2&artikel=15&z=2006-08-16&g=2006-08-16);
 
-- c. uit [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=3&z=2006-08-02&g=2006-08-02): de toelage hoofd tandheelkundig centrum;
+- c. uit [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=3&z=2006-08-16&g=2006-08-16): de toelage hoofd tandheelkundig centrum;
 
-- d. [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=6&z=2006-08-02&g=2006-08-02), met uitzondering van [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=6&artikel=49&z=2006-08-02&g=2006-08-02) en [50](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=6&artikel=50&z=2006-08-02&g=2006-08-02).
+- d. [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=6&z=2006-08-16&g=2006-08-16), met uitzondering van [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=6&artikel=49&z=2006-08-16&g=2006-08-16) en [50](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=6&artikel=50&z=2006-08-16&g=2006-08-16).
 
 ##### Artikel 3. Buitengewone omstandigheden
 
@@ -233,7 +233,7 @@ Onze Minister kan in geval van buitengewone omstandigheden, als bedoeld in [arti
 
 2. Indien de bevoegdheid tot het toekennen van een aanspraak berust bij de commandant, worden aanspraken die de commandant betreffen, toegekend door het hoofd defensieonderdeel.
 
-3. De bevoegdheid tot het toekennen van aanspraken op grond van de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=2&artikel=10&z=2006-08-02&g=2006-08-02), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=2&artikel=11&z=2006-08-02&g=2006-08-02), [45](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=6&artikel=45&z=2006-08-02&g=2006-08-02), [46](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=6&artikel=46&z=2006-08-02&g=2006-08-02) en [47](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=6&artikel=47&z=2006-08-02&g=2006-08-02) aan ambtenaren bezoldigd volgens salarisschaal 14 en hoger berust bij de Secretaris-Generaal.
+3. De bevoegdheid tot het toekennen van aanspraken op grond van de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=2&artikel=10&z=2006-08-16&g=2006-08-16), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=2&artikel=11&z=2006-08-16&g=2006-08-16), [45](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=6&artikel=45&z=2006-08-16&g=2006-08-16), [46](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=6&artikel=46&z=2006-08-16&g=2006-08-16) en [47](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=6&artikel=47&z=2006-08-16&g=2006-08-16) aan ambtenaren bezoldigd volgens salarisschaal 14 en hoger berust bij de Secretaris-Generaal.
 
 ##### Artikel 5. Beëindiging van aanspraken
 
@@ -257,7 +257,7 @@ Voor de berekening van het pensioengevend inkomen worden aanspraken op grond van
 
 1. Onze Minister bepaalt de salarisschaal die voor de ambtenaar van toepassing is, welke, tenzij zijn wijze van functioneren zich nog daartegen verzet, wordt bepaald met in achtneming van de zwaarte van zijn functie en van bijzondere regelingen als bedoeld in [artikel 18 van het Burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=18).
 
-2. De zwaarte van de functie wordt gewaardeerd binnen de in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&bijlage=A&z=2006-08-02&g=2006-08-02) van dit besluit aangegeven indelingsstructuur, met inachtneming van het door Onze Minister vastgestelde normeringstelsel.
+2. De zwaarte van de functie wordt gewaardeerd binnen de in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&bijlage=A&z=2006-08-16&g=2006-08-16) van dit besluit aangegeven indelingsstructuur, met inachtneming van het door Onze Minister vastgestelde normeringstelsel.
 
 3. Indien de ambtenaar bij wijze van waarneming tijdelijk een andere functie vervult, blijft de voordien voor hem geldende salarisschaal van toepassing.
 
@@ -273,13 +273,13 @@ Voor de berekening van het pensioengevend inkomen worden aanspraken op grond van
 
 ##### Artikel 9. Functiewaardering
 
-1. Het hoofd defensieonderdeel stelt de ambtenaar in kennis van de voorgenomen functiewaardering als bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=2&artikel=8&z=2006-08-02&g=2006-08-02). De ambtenaar die bedenkingen heeft tegen de functiewaardering kan die bedenkingen aan het hoofd defensieonderdeel kenbaar maken. Na een heroverweging stelt het hoofd defensieonderdeel de functiewaardering al dan niet gewijzigd vast. De ambtenaar kan tegen deze heroverweging bezwaar maken. In een dergelijk geval wint het hoofd defensieonderdeel, naar regels bij ministeriële regeling te stellen, het advies in van de Commissie van advies bezwaren functiewaardering.
+1. Het hoofd defensieonderdeel stelt de ambtenaar in kennis van de voorgenomen functiewaardering als bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=2&artikel=8&z=2006-08-16&g=2006-08-16). De ambtenaar die bedenkingen heeft tegen de functiewaardering kan die bedenkingen aan het hoofd defensieonderdeel kenbaar maken. Na een heroverweging stelt het hoofd defensieonderdeel de functiewaardering al dan niet gewijzigd vast. De ambtenaar kan tegen deze heroverweging bezwaar maken. In een dergelijk geval wint het hoofd defensieonderdeel, naar regels bij ministeriële regeling te stellen, het advies in van de Commissie van advies bezwaren functiewaardering.
 
 2. Het eerste lid is niet van toepassing indien voor de ambtenaar een bijzondere regeling geldt als bedoeld in [artikel 18 van het Burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=18).
 
 ##### Artikel 10. Salarisnummer bij aanstelling
 
-1. De commandant kent de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=2&artikel=8&z=2006-08-02&g=2006-08-02) bedoelde ambtenaar bij aanstelling het salaris toe, dat:
+1. De commandant kent de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=2&artikel=8&z=2006-08-16&g=2006-08-16) bedoelde ambtenaar bij aanstelling het salaris toe, dat:
 
 - a. wanneer hij 22 jaar of ouder is, in de voor hem van toepassing zijnde salarisschaal is vermeld achter het salarisnummer 0;
 
@@ -309,13 +309,13 @@ Voor de berekening van het pensioengevend inkomen worden aanspraken op grond van
 
 1. Het salaris van de ambtenaar met een deeltijdaanstelling wordt vastgesteld op een evenredig deel van het salaris bij een voltijdaanstelling.
 
-2. Het salaris van de ambtenaar die is aangesteld op grond van [artikel 7, tweede lid, onderdeel f, van het Burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=7), wordt, met inachtneming van het bepaalde in [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=2&artikel=8&z=2006-08-02&g=2006-08-02), vastgesteld op een bedrag per uur dat daadwerkelijk dienst wordt verricht.
+2. Het salaris van de ambtenaar die is aangesteld op grond van [artikel 7, tweede lid, onderdeel f, van het Burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=7), wordt, met inachtneming van het bepaalde in [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=2&artikel=8&z=2006-08-16&g=2006-08-16), vastgesteld op een bedrag per uur dat daadwerkelijk dienst wordt verricht.
 
 ##### Artikel 13. Jaaromzet en maandsalaris tandarts
 
-1. In dit artikel en in de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=2&artikel=14&z=2006-08-02&g=2006-08-02), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=2&artikel=15&z=2006-08-02&g=2006-08-02) en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=3&artikel=19&z=2006-08-02&g=2006-08-02) wordt verstaan onder:
+1. In dit artikel en in de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=2&artikel=14&z=2006-08-16&g=2006-08-16), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=2&artikel=15&z=2006-08-16&g=2006-08-16) en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=3&artikel=19&z=2006-08-16&g=2006-08-16) wordt verstaan onder:
 
-- a. **tandarts:** de ambtenaar bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=1&artikel=2&z=2006-08-02&g=2006-08-02);
+- a. **tandarts:** de ambtenaar bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=1&artikel=2&z=2006-08-16&g=2006-08-16);
 
 - b. **hoofd tandheelkundige dienst:** het hoofd tandheelkundige dienst zeemacht, de tandheelkundige autoriteit landmacht en de staf tandarts luchtmacht;
 
@@ -331,15 +331,15 @@ Voor de berekening van het pensioengevend inkomen worden aanspraken op grond van
 
 5. De tandarts met een voltijdaanstelling dient zodanig te presteren dat de krachtens het tweede lid bepaalde jaaromzet per kalenderjaar ten minste 11.818 punten bedraagt. Bij een deeltijdaanstelling wordt deze jaaromzet teruggerekend in verhouding naar het aantal uren van de deeltijdaanstelling.
 
-6. Het hoofd defensieonderdeel kent aan de tandarts het maandsalaris toe, dat bij een voltijdaanstelling van 254 roosterdagen per jaar wordt bepaald aan de hand van de geraamde jaaromzet, met toepassing van de in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&bijlage=B&z=2006-08-02&g=2006-08-02) opgenomen tabel. Het maandsalaris wordt tot de definitieve afrekening beschouwd als een voorschotbetaling.
+6. Het hoofd defensieonderdeel kent aan de tandarts het maandsalaris toe, dat bij een voltijdaanstelling van 254 roosterdagen per jaar wordt bepaald aan de hand van de geraamde jaaromzet, met toepassing van de in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&bijlage=B&z=2006-08-16&g=2006-08-16) opgenomen tabel. Het maandsalaris wordt tot de definitieve afrekening beschouwd als een voorschotbetaling.
 
-7. Bij een deeltijdaanstelling wordt de te behalen omzet herleid tot de omzet behorende bij een voltijdaanstelling. Aan de hand van deze gecorrigeerde omzet wordt het maandsalaris bepaald, met toepassing van de in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&bijlage=B&z=2006-08-02&g=2006-08-02) opgenomen tabel. Dit maandsalaris wordt teruggerekend in verhouding naar het aantal uren van de deeltijdaanstelling.
+7. Bij een deeltijdaanstelling wordt de te behalen omzet herleid tot de omzet behorende bij een voltijdaanstelling. Aan de hand van deze gecorrigeerde omzet wordt het maandsalaris bepaald, met toepassing van de in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&bijlage=B&z=2006-08-16&g=2006-08-16) opgenomen tabel. Dit maandsalaris wordt teruggerekend in verhouding naar het aantal uren van de deeltijdaanstelling.
 
 8. Mede op grond van de realisatie van de omzet in enig kalenderjaar wordt uiterlijk in de maand december van dat jaar door het hoofd tandheelkundige dienst in overleg met de tandarts voor het aankomende kalenderjaar een nieuwe raming van de omzet en het daarbij behorende maandsalaris vastgesteld.
 
 ##### Artikel 14. Definitieve afrekening tandarts
 
-1. Na afloop van het kalenderjaar wordt de totale realisatie van de omzet van de tandarts door zorg van het hoofd tandheelkundige dienst getoetst aan de raming van de omzet. Het vaststellen van het bijbehorende salaris geschiedt aan de hand van de in [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&bijlage=C&z=2006-08-02&g=2006-08-02) opgenomen tabel.
+1. Na afloop van het kalenderjaar wordt de totale realisatie van de omzet van de tandarts door zorg van het hoofd tandheelkundige dienst getoetst aan de raming van de omzet. Het vaststellen van het bijbehorende salaris geschiedt aan de hand van de in [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&bijlage=C&z=2006-08-16&g=2006-08-16) opgenomen tabel.
 
 2. Indien de maximale omzet werd geraamd en er meer dan het maximum werd gerealiseerd vindt geen nabetaling van salaris plaats.
 
@@ -391,9 +391,9 @@ Voor de berekening van het pensioengevend inkomen worden aanspraken op grond van
 
 - b. **volledige waarneming:** een zodanige waarneming dat in de plaats van de eigen functie het volledige samenstel van werkzaamheden van de waargenomen functie, met de daarmee gepaard gaande verantwoordelijkheden, wordt uitgeoefend.
 
-2. De commandant kent, voor de duur van de waarneming, een waarnemingstoelage toe aan de ambtenaar, die bij wijze van volledige waarneming tijdelijk een functie vervult, die bij toepassing van [artikel 8, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=2&artikel=8&z=2006-08-02&g=2006-08-02), zou leiden tot een hogere salarisschaal.
+2. De commandant kent, voor de duur van de waarneming, een waarnemingstoelage toe aan de ambtenaar, die bij wijze van volledige waarneming tijdelijk een functie vervult, die bij toepassing van [artikel 8, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=2&artikel=8&z=2006-08-16&g=2006-08-16), zou leiden tot een hogere salarisschaal.
 
-3. De commandant kan, voor de duur van de waarneming, een waarnemingstoelage toekennen aan de ambtenaar, die bij wijze van onvolledige waarneming tijdelijk een functie vervult, die bij toepassing van [artikel 8, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=2&artikel=8&z=2006-08-02&g=2006-08-02), zou leiden tot een hogere salarisschaal.
+3. De commandant kan, voor de duur van de waarneming, een waarnemingstoelage toekennen aan de ambtenaar, die bij wijze van onvolledige waarneming tijdelijk een functie vervult, die bij toepassing van [artikel 8, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=2&artikel=8&z=2006-08-16&g=2006-08-16), zou leiden tot een hogere salarisschaal.
 
 4. De toelage wordt, tenzij bijzondere omstandigheden aanwezig zijn, slechts toegekend wanneer de waarneming ten minste een tijdvak van dertig dagen beslaat.
 
@@ -411,7 +411,7 @@ Voor de berekening van het pensioengevend inkomen worden aanspraken op grond van
 
 ##### Artikel 19. Toelage hoofd tandheelkundig centrum
 
-Het hoofd defensieonderdeel kent een toelage hoofd tandheelkundig centrum toe aan de tandarts die de functie van hoofd van één of meer tandheelkundige centra vervult en hierdoor extra werkzaamheden verricht. De toelage bedraagt voor iedere maand dat hij deze functie vervult 37,5% van het maximale jaarsalaris, bedoeld in [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&bijlage=C&z=2006-08-02&g=2006-08-02), gedeeld door het aantal roosterdagen van 254, bedoeld in [artikel 13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=2&artikel=13&z=2006-08-02&g=2006-08-02). Voor de tandarts met een deeltijdaanstelling wordt de toelage op een evenredig deel vastgesteld.
+Het hoofd defensieonderdeel kent een toelage hoofd tandheelkundig centrum toe aan de tandarts die de functie van hoofd van één of meer tandheelkundige centra vervult en hierdoor extra werkzaamheden verricht. De toelage bedraagt voor iedere maand dat hij deze functie vervult 37,5% van het maximale jaarsalaris, bedoeld in [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&bijlage=C&z=2006-08-16&g=2006-08-16), gedeeld door het aantal roosterdagen van 254, bedoeld in [artikel 13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=2&artikel=13&z=2006-08-16&g=2006-08-16). Voor de tandarts met een deeltijdaanstelling wordt de toelage op een evenredig deel vastgesteld.
 
 ##### Artikel 20. Toelage onregelmatige dienst
 
@@ -477,7 +477,7 @@ met dien verstande dat genoemde percentages worden berekend over ten hoogste het
 
 ##### Artikel 24. Toelage en vergoeding brandweerdiensten defensie
 
-1. In afwijking van [artikel 20 tot en met 23](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=3&artikel=20&z=2006-08-02&g=2006-08-02) en [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=6&artikel=49&z=2006-08-02&g=2006-08-02) kent de commandant een toelage brandweerdiensten defensie toe, wegens extra beslaglegging binnen het voor betrokkene geldende rooster, aan de ambtenaar die werkzaam is bij een door Onze Minister aangewezen brandweerdienst van het Ministerie van Defensie anders dan in het kader van bedrijfszelfbeschermingsactiviteiten, indien hij gekazerneerd is ten behoeve van repressieve brandweertaken en uitrukdiensten en hij 24-uursdiensten verricht.
+1. In afwijking van [artikel 20 tot en met 23](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=3&artikel=20&z=2006-08-16&g=2006-08-16) en [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=6&artikel=49&z=2006-08-16&g=2006-08-16) kent de commandant een toelage brandweerdiensten defensie toe, wegens extra beslaglegging binnen het voor betrokkene geldende rooster, aan de ambtenaar die werkzaam is bij een door Onze Minister aangewezen brandweerdienst van het Ministerie van Defensie anders dan in het kader van bedrijfszelfbeschermingsactiviteiten, indien hij gekazerneerd is ten behoeve van repressieve brandweertaken en uitrukdiensten en hij 24-uursdiensten verricht.
 
 2. De brandweertoelage defensie bedraagt per maand 17,05% van het voor de ambtenaar geldende salaris, met dien verstande dat genoemd percentage wordt berekend over ten hoogste het maximumsalaris van salarisschaal 7.
 
@@ -553,7 +553,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 ##### Artikel 27. Samenloop van bezoldiging en uitkering op grond van een werknemersverzekering, de [Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008) of bovenwettelijke regeling
 
-1. Indien de ambtenaar, bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=4&artikel=26&z=2006-08-02&g=2006-08-02), ter zake van de betrekking waaruit de aanspraak op bezoldiging voortvloeit, recht heeft op een of meerdere uitkeringen op grond van een werknemersverzekering, de [Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008) of een bovenwettelijke WW-uitkering, wordt het bedrag van die uitkering of uitkeringen in mindering gebracht op het bedrag waarop hij ingevolge [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=4&artikel=26&z=2006-08-02&g=2006-08-02) recht heeft.
+1. Indien de ambtenaar, bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=4&artikel=26&z=2006-08-16&g=2006-08-16), ter zake van de betrekking waaruit de aanspraak op bezoldiging voortvloeit, recht heeft op een of meerdere uitkeringen op grond van een werknemersverzekering, de [Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008) of een bovenwettelijke WW-uitkering, wordt het bedrag van die uitkering of uitkeringen in mindering gebracht op het bedrag waarop hij ingevolge [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=4&artikel=26&z=2006-08-16&g=2006-08-16) recht heeft.
 
 2. Indien de in het eerste lid bedoelde ambtenaar uit hoofde van twee of meer betrekkingen recht heeft op één uitkering op grond van een werknemersverzekering, de [Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008) of een bovenwettelijke WW-uitkering, wordt die uitkering voor de toepassing van het eerste lid toegerekend aan de betrekking ter zake waarvan hij aanspraak heeft op bezoldiging naar rato van de bezoldiging uit hoofde van de desbetreffende betrekkingen.
 
@@ -563,15 +563,15 @@ In dit hoofdstuk wordt verstaan onder:
 
 ##### Artikel 28. Geen aanspraak op bezoldiging ingeval van herplaatsing
 
-1. De in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=4&artikel=26&z=2006-08-02&g=2006-08-02) bedoelde aanspraak op volledige of gedeeltelijke bezoldiging eindigt indien de ambtenaar op grond van [artikel 58a van het Burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=58a) wordt herplaatst.
+1. De in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=4&artikel=26&z=2006-08-16&g=2006-08-16) bedoelde aanspraak op volledige of gedeeltelijke bezoldiging eindigt indien de ambtenaar op grond van [artikel 58a van het Burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=58a) wordt herplaatst.
 
 2. Indien de herplaatsing, bedoeld in het eerste lid, plaatsvindt voordat de termijn van twee jaar, bedoeld in [artikel 121, derde lid, onderdeel a, van het Burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=121) is verstreken en de bezoldiging van de ambtenaar als gevolg van de herplaatsing vermindering ondergaat, heeft hij tot het eind van de genoemde termijn recht op een aanvullende uitkering.
 
-3. De aanvullende uitkering, bedoeld in het tweede lid, bedraagt het verschil tussen het bedrag waarop de ambtenaar op grond van [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=4&artikel=26&z=2006-08-02&g=2006-08-02) recht zou hebben gehad indien hij niet zou zijn herplaatst en zijn bezoldiging na herplaatsing, in voorkomend geval vermeerderd met een uit de oorspronkelijke betrekking voortvloeiend recht op uitkering op grond van de [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) en herplaatsingstoelage.
+3. De aanvullende uitkering, bedoeld in het tweede lid, bedraagt het verschil tussen het bedrag waarop de ambtenaar op grond van [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=4&artikel=26&z=2006-08-16&g=2006-08-16) recht zou hebben gehad indien hij niet zou zijn herplaatst en zijn bezoldiging na herplaatsing, in voorkomend geval vermeerderd met een uit de oorspronkelijke betrekking voortvloeiend recht op uitkering op grond van de [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) en herplaatsingstoelage.
 
 ##### Artikel 29. Sancties
 
-1. Geen aanspraak op bezoldiging als bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=4&artikel=26&z=2006-08-02&g=2006-08-02) bestaat:
+1. Geen aanspraak op bezoldiging als bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=4&artikel=26&z=2006-08-16&g=2006-08-16) bestaat:
 
 - a. indien de ziekte is voorgewend, althans zodanig overdreven wordt voorgesteld, dat ongeschiktheid tot het verrichten van zijn arbeid wegens ziekte niet kan worden aangenomen;
 
@@ -579,7 +579,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 - c. indien de ongeschiktheid tot het verrichten van zijn arbeid wegens ziekte zich voordoet binnen een half jaar na een medisch onderzoek als bedoeld in [artikel 9, vierde lid, onderdeel b, van het Burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=9), en tevens blijkt, dat de ambtenaar onjuiste informatie omtrent zijn gezondheidstoestand heeft verstrekt of gegevens heeft verzwegen ten gevolge waarvan de verklaring van geschiktheid tot het verrichten van zijn arbeid ten onrechte heeft plaatsgevonden, tenzij de ambtenaar aannemelijk maakt dat hij te goeder trouw heeft gehandeld.
 
-2. De ambtenaar heeft geen aanspraak op bezoldiging, als bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=4&artikel=26&z=2006-08-02&g=2006-08-02), indien en gedurende de tijd dat hij:
+2. De ambtenaar heeft geen aanspraak op bezoldiging, als bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=4&artikel=26&z=2006-08-16&g=2006-08-16), indien en gedurende de tijd dat hij:
 
 - a. weigert zich te onderwerpen aan een onderzoek vanwege de bedrijfsgeneeskundige dienst of, na voor zulk een onderzoek te zijn opgeroepen, zonder geldige reden niet verschijnt;
 
@@ -593,7 +593,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 - f. zonder deugdelijke grond weigert hem aangeboden passende arbeid, dan wel gangbare arbeid, waartoe de bedrijfsgeneeskundige dienst hem in staat acht, te aanvaarden.
 
-3. Het hoofd defensieonderdeel kan bepalen, dat de aanspraak op bezoldiging, bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=4&artikel=26&z=2006-08-02&g=2006-08-02), vervalt, indien de ambtenaar de voorschriften overtreedt die ter zake van afwezigheid wegens ziekte zijn vastgesteld.
+3. Het hoofd defensieonderdeel kan bepalen, dat de aanspraak op bezoldiging, bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=4&artikel=26&z=2006-08-16&g=2006-08-16), vervalt, indien de ambtenaar de voorschriften overtreedt die ter zake van afwezigheid wegens ziekte zijn vastgesteld.
 
 4. De ambtenaar kan aan een onderzoek vanwege de bedrijfsgeneeskundige dienst worden onderworpen ter beantwoording van de vraag of zich een omstandigheid voordoet als bedoeld in het eerste of tweede lid, onderdeel b of c, van dit artikel. De ambtenaar is gehouden aan een zodanig onderzoek zijn medewerking te verlenen.
 
@@ -603,19 +603,19 @@ In dit hoofdstuk wordt verstaan onder:
 
 7. Indien de ambtenaar recht heeft op een uitkering op grond van een werknemersverzekering of de [Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008), is in plaats van het eerste tot en met vierde lid het verplichtingen- en sanctieregime van de desbetreffende wet op hem van toepassing.
 
-8. Indien ten aanzien van de uitkering die de ambtenaar geniet op grond van een werknemersverzekering of de [Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008) een verplichting wordt opgelegd of een sanctie wordt toegepast, wordt door het hoofd defensieonderdeel zoveel mogelijk dezelfde verplichting opgelegd, dan wel een overeenkomende sanctie toegepast, op het bedrag waarop de ambtenaar recht heeft ingevolge [artikel 26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=4&artikel=26&z=2006-08-02&g=2006-08-02), na toepassing van [artikel 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=4&artikel=27&z=2006-08-02&g=2006-08-02).
+8. Indien ten aanzien van de uitkering die de ambtenaar geniet op grond van een werknemersverzekering of de [Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008) een verplichting wordt opgelegd of een sanctie wordt toegepast, wordt door het hoofd defensieonderdeel zoveel mogelijk dezelfde verplichting opgelegd, dan wel een overeenkomende sanctie toegepast, op het bedrag waarop de ambtenaar recht heeft ingevolge [artikel 26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=4&artikel=26&z=2006-08-16&g=2006-08-16), na toepassing van [artikel 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=4&artikel=27&z=2006-08-16&g=2006-08-16).
 
 ##### Artikel 30. Begrip bezoldiging
 
-1. Ingeval de ambtenaar aanspraak heeft op een toelage onregelmatige dienst, als bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=3&artikel=20&z=2006-08-02&g=2006-08-02), wordt voor de toepassing van dit hoofdstuk deze toelage vastgesteld op het bedrag dat hem ingevolge het voor hem geldende rooster zou zijn toegekend, indien hij niet aan zijn arbeid zou zijn onttrokken. Is de vaststelling van het bedrag op deze wijze niet mogelijk, dan wordt dit, met inachtneming van de percentages zoals genoemd in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=3&artikel=20&z=2006-08-02&g=2006-08-02), berekend over het voor de ambtenaar geldende salaris, zulks naar aantallen uren als bedoeld in dat artikel waarop door hem gedurende de drie kalendermaanden voorafgaande aan het tijdstip met ingang waarvan hij aan zijn arbeid werd onttrokken, ingevolge het voor hem geldende rooster gemiddeld per maand is gewerkt.
+1. Ingeval de ambtenaar aanspraak heeft op een toelage onregelmatige dienst, als bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=3&artikel=20&z=2006-08-16&g=2006-08-16), wordt voor de toepassing van dit hoofdstuk deze toelage vastgesteld op het bedrag dat hem ingevolge het voor hem geldende rooster zou zijn toegekend, indien hij niet aan zijn arbeid zou zijn onttrokken. Is de vaststelling van het bedrag op deze wijze niet mogelijk, dan wordt dit, met inachtneming van de percentages zoals genoemd in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=3&artikel=20&z=2006-08-16&g=2006-08-16), berekend over het voor de ambtenaar geldende salaris, zulks naar aantallen uren als bedoeld in dat artikel waarop door hem gedurende de drie kalendermaanden voorafgaande aan het tijdstip met ingang waarvan hij aan zijn arbeid werd onttrokken, ingevolge het voor hem geldende rooster gemiddeld per maand is gewerkt.
 
-2. In geval de ambtenaar aanspraak heeft op een consignatietoelage, als bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=3&artikel=23&z=2006-08-02&g=2006-08-02), wordt deze toelage vastgesteld op het bedrag dat hem ingevolge het voor hem geldende consignatierooster zou zijn toegekend, indien hij niet aan zijn arbeid zou zijn onttrokken. Is de vaststelling van het bedrag op deze wijze niet mogelijk, wordt dit bedrag berekend naar de berekeningsgrondslag en de percentages zoals genoemd in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=3&artikel=23&z=2006-08-02&g=2006-08-02), zulks naar de aantallen uren als bedoeld in dat artikel waarop door hem gedurende de drie kalendermaanden voorafgaande aan het tijdstip met ingang waarvan hij aan zijn arbeid werd onttrokken, gemiddeld per maand consignatiediensten zijn verricht.
+2. In geval de ambtenaar aanspraak heeft op een consignatietoelage, als bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=3&artikel=23&z=2006-08-16&g=2006-08-16), wordt deze toelage vastgesteld op het bedrag dat hem ingevolge het voor hem geldende consignatierooster zou zijn toegekend, indien hij niet aan zijn arbeid zou zijn onttrokken. Is de vaststelling van het bedrag op deze wijze niet mogelijk, wordt dit bedrag berekend naar de berekeningsgrondslag en de percentages zoals genoemd in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=3&artikel=23&z=2006-08-16&g=2006-08-16), zulks naar de aantallen uren als bedoeld in dat artikel waarop door hem gedurende de drie kalendermaanden voorafgaande aan het tijdstip met ingang waarvan hij aan zijn arbeid werd onttrokken, gemiddeld per maand consignatiediensten zijn verricht.
 
 3. Indien ook voor het overige de bezoldiging niet in een vast bedrag per maand kan worden uitgedrukt, wordt gerekend met het bedrag dat gemiddeld per maand is toegekend in de drie kalendermaanden voorafgaande aan het tijdstip waarop de verhindering tot dienstverrichting is ontstaan. Voor zover de ambtenaar op evenbedoeld tijdstip nog geen drie kalendermaanden in dienst is geweest, wordt gerekend met het bedrag dat hem gemiddeld aan bezoldiging per maand is toegekend over het tijdvak waarin hij voor het ontstaan van de verhindering in dienst is geweest.
 
 ##### Artikel 31. Afwijkende afspraken voor tijdelijke ambtenaren
 
-Dit hoofdstuk is niet van toepassing op de ambtenaar die geen deelnemer is in de zin van het Pensioenreglement ABP. In geval van ziekte ontvangt hij tijdens de duur van zijn dienstverband op een hem op grond van de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) of de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) toegekende uitkering een aanvulling tot zijn bezoldiging. Indien de ambtenaar wegens ziekte ongeschikt is voor de uitoefening van zijn dienstbetrekking, ontvangt hij gedurende de eerste twaalf maanden van die ongeschiktheid 100% en daarna tot aan het einde van zijn betrekking 70% van zijn bezoldiging, nadat daarop de uitkering ingevolge de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) of de de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) in mindering is gebracht. Op die vermindering zijn de [artikelen 27](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=4&artikel=27&z=2006-08-02&g=2006-08-02) en [29](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=4&artikel=29&z=2006-08-02&g=2006-08-02) van overeenkomstige toepassing.
+Dit hoofdstuk is niet van toepassing op de ambtenaar die geen deelnemer is in de zin van het Pensioenreglement ABP. In geval van ziekte ontvangt hij tijdens de duur van zijn dienstverband op een hem op grond van de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) of de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) toegekende uitkering een aanvulling tot zijn bezoldiging. Indien de ambtenaar wegens ziekte ongeschikt is voor de uitoefening van zijn dienstbetrekking, ontvangt hij gedurende de eerste twaalf maanden van die ongeschiktheid 100% en daarna tot aan het einde van zijn betrekking 70% van zijn bezoldiging, nadat daarop de uitkering ingevolge de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) of de de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) in mindering is gebracht. Op die vermindering zijn de [artikelen 27](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=4&artikel=27&z=2006-08-16&g=2006-08-16) en [29](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=4&artikel=29&z=2006-08-16&g=2006-08-16) van overeenkomstige toepassing.
 
 ### Hoofdstuk 5. Bezoldiging tijdens bijzondere situaties
 
@@ -677,7 +677,7 @@ De ambtenaar ontvangt geen bezoldiging over de tijd, gedurende welke hij in stri
 
 4. De ingehouden bezoldiging kan alsnog geheel of gedeeltelijk aan de ambtenaar worden uitbetaald, indien een schorsing als bedoeld in [artikel 109, tweede lid, onderdeel a of b, van het Burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=109) niet wordt gevolgd door een veroordeling tot een onvoorwaardelijke vrijheidsstraf, een vrijheidsbenemende maatregel, ontslag op grond van [artikel 121, eerste lid, onderdeel e, van het Burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=121) of een onvoorwaardelijk ontslag bij wijze van straf. Op de aldus uit te keren bezoldiging worden in mindering gebracht de inkomsten, welke de ambtenaar sedert de schorsing heeft genoten uit arbeid, die hij als gevolg van de schorsing heeft kunnen verrichten, tenzij zulks, naar het oordeel van het hoofd defensieonderdeel, onredelijk of onbillijk is.
 
-5. In geval van schorsing tijdens ziekte van de ambtenaar is voor de berekening van de bezoldiging [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=4&artikel=30&z=2006-08-02&g=2006-08-02) van toepassing.
+5. In geval van schorsing tijdens ziekte van de ambtenaar is voor de berekening van de bezoldiging [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=4&artikel=30&z=2006-08-16&g=2006-08-16) van toepassing.
 
 ##### Artikel 37. Bezoldiging bij nevenwerkzaamheden tijdens diensttijd
 
@@ -731,7 +731,7 @@ activiteiten, geen deel uitmakend van die welke in het kader van de functievervu
 
 - c. ten behoeve van operaties in het kader van internationale overeenkomsten of andere verplichtingen door Nederland aangegaan.
 
-3. Ingeval de ambtenaar, bedoeld in het tweede lid, aanspraak heeft op een toelage onregelmatige dienst dan wel een consignatietoelage is voor de berekening van de bezoldiging [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=4&artikel=30&z=2006-08-02&g=2006-08-02) van toepassing.
+3. Ingeval de ambtenaar, bedoeld in het tweede lid, aanspraak heeft op een toelage onregelmatige dienst dan wel een consignatietoelage is voor de berekening van de bezoldiging [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=4&artikel=30&z=2006-08-16&g=2006-08-16) van toepassing.
 
 4. Voor de toepassing van het tweede lid wordt onder militaire inkomsten verstaan, hetgeen bij of krachtens het [Inkomstenbesluit militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0007816) of het [Algemeen militair ambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003482) wordt aangemerkt als:
 
@@ -759,9 +759,9 @@ Voor de berekening van de militaire inkomsten wordt in voorkomend geval de inhou
 
 ##### Artikel 42. Overige samenloopbepalingen
 
-1. Het bepaalde in [artikel 41, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=5&artikel=41&z=2006-08-02&g=2006-08-02), is van overeenkomstige toepassing ten aanzien van de ambtenaar, die is tewerkgesteld in de zin van [artikel 9 van de Wet gewetensbezwaren militaire dienst](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&artikel=9).
+1. Het bepaalde in [artikel 41, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=5&artikel=41&z=2006-08-16&g=2006-08-16), is van overeenkomstige toepassing ten aanzien van de ambtenaar, die is tewerkgesteld in de zin van [artikel 9 van de Wet gewetensbezwaren militaire dienst](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&artikel=9).
 
-2. De ambtenaar die in werkelijke dienst is als een vrijwillige ambtenaar van politie, als bedoeld in het Besluit rechtspositie vrijwillige politie, behoudt aanspraak op zijn bezoldiging, met dien verstande, dat deze bezoldiging, indien de werkelijke dienst langer dan twee weken duurt, voor de verdere duur wordt verminderd met de inkomsten, waarop de ambtenaar als vrijwillige ambtenaar van politie aanspraak heeft. Het bepaalde in [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=5&artikel=41&z=2006-08-02&g=2006-08-02) is verder voor zoveel mogelijk van overeenkomstige toepassing.
+2. De ambtenaar die in werkelijke dienst is als een vrijwillige ambtenaar van politie, als bedoeld in het Besluit rechtspositie vrijwillige politie, behoudt aanspraak op zijn bezoldiging, met dien verstande, dat deze bezoldiging, indien de werkelijke dienst langer dan twee weken duurt, voor de verdere duur wordt verminderd met de inkomsten, waarop de ambtenaar als vrijwillige ambtenaar van politie aanspraak heeft. Het bepaalde in [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=5&artikel=41&z=2006-08-16&g=2006-08-16) is verder voor zoveel mogelijk van overeenkomstige toepassing.
 
 ### Hoofdstuk 6. Overige inkomsten
 
@@ -775,23 +775,23 @@ Voor de berekening van de militaire inkomsten wordt in voorkomend geval de inhou
 
 4. Indien de ambtenaar aanspraak heeft op een gedeelte van de bezoldiging wordt de vakantie-uitkering naar evenredigheid van de bezoldiging berekend, tenzij anders vermeld. Indien de ambtenaar geen aanspraak heeft op bezoldiging heeft de ambtenaar geen aanspraak op vakantie-uitkering, tenzij anders vermeld.
 
-5. In afwijking van het vierde lid heeft de ambtenaar, die op grond van [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=4&artikel=26&z=2006-08-02&g=2006-08-02) aanspraak heeft op een gedeelte van de bezoldiging, aanspraak op de vakantie-uitkering berekend over de volledige bezoldiging.
+5. In afwijking van het vierde lid heeft de ambtenaar, die op grond van [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=4&artikel=26&z=2006-08-16&g=2006-08-16) aanspraak heeft op een gedeelte van de bezoldiging, aanspraak op de vakantie-uitkering berekend over de volledige bezoldiging.
 
-6. In afwijking van het vierde lid, heeft de ambtenaar, die aanspraak heeft op militaire inkomsten als bedoeld in [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=5&artikel=41&z=2006-08-02&g=2006-08-02), aanspraak op een vakantie-uitkering, voor zo veel de vakantie-uitkering, berekend over de volledige bezoldiging, meer bedraagt dan de vakantie-uitkering waarop hij als militair aanspraak heeft.
+6. In afwijking van het vierde lid, heeft de ambtenaar, die aanspraak heeft op militaire inkomsten als bedoeld in [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=5&artikel=41&z=2006-08-16&g=2006-08-16), aanspraak op een vakantie-uitkering, voor zo veel de vakantie-uitkering, berekend over de volledige bezoldiging, meer bedraagt dan de vakantie-uitkering waarop hij als militair aanspraak heeft.
 
-7. In afwijking van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=1&artikel=6&z=2006-08-02&g=2006-08-02) wordt de vakantie-uitkering eenmaal per jaar in de maand mei uitbetaald over de periode van 12 maanden, die is aangevangen met de maand juni van het voorafgaande kalenderjaar. Bij ontslag van de ambtenaar vindt de uitbetaling plaats zo snel mogelijk na zijn ontslag.
+7. In afwijking van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=1&artikel=6&z=2006-08-16&g=2006-08-16) wordt de vakantie-uitkering eenmaal per jaar in de maand mei uitbetaald over de periode van 12 maanden, die is aangevangen met de maand juni van het voorafgaande kalenderjaar. Bij ontslag van de ambtenaar vindt de uitbetaling plaats zo snel mogelijk na zijn ontslag.
 
 ##### Artikel 44. Eindejaarsuitkering
 
 1. Het hoofd defensieonderdeel kent een eindejaarsuitkering per maand toe aan de ambtenaar ten bedrage van 0,8% van het salaris van de ambtenaar.
 
-2. Indien ingevolge [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=4&artikel=27&z=2006-08-02&g=2006-08-02) op het salaris van de ambtenaar een uitkering op grond van de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) of de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) in mindering is gebracht, wordt voor de toepassing van het eerste lid geen rekening gehouden met deze vermindering.
+2. Indien ingevolge [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=4&artikel=27&z=2006-08-16&g=2006-08-16) op het salaris van de ambtenaar een uitkering op grond van de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) of de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) in mindering is gebracht, wordt voor de toepassing van het eerste lid geen rekening gehouden met deze vermindering.
 
-3. Voor de toepassing van het eerste lid is het vierde tot en met zevende lid van [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=6&artikel=43&z=2006-08-02&g=2006-08-02) van overeenkomstige toepassing.
+3. Voor de toepassing van het eerste lid is het vierde tot en met zevende lid van [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=6&artikel=43&z=2006-08-16&g=2006-08-16) van overeenkomstige toepassing.
 
 4. Onze Minister kent een eindejaarsuitkering toe aan de gewezen ambtenaar, die in het genot is van wachtgeld als bedoeld in [artikel 22 van het Besluit bovenwettelijke uitkeringen bij werkloosheid voor de sector Defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0010510&artikel=9), of een uitkering op grond van het [Besluit uitkering wegens functioneel leeftijdsontslag burgerlijke ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006041). De eindejaarsuitkering bedraagt 0,8% van het genoten wachtgeld of de genoten uitkering na toepassing van de bij of krachtens die besluiten geldende vermindering wegens inkomsten uit of in verband met arbeid of bedrijf.
 
-5. In afwijking van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=1&artikel=6&z=2006-08-02&g=2006-08-02) wordt de eindejaarsuitkering eenmaal per kalenderjaar en over dat kalenderjaar in de maand december uitbetaald. Bij ontslag van de ambtenaar vindt de uitbetaling plaats zo snel mogelijk na zijn ontslag.
+5. In afwijking van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=1&artikel=6&z=2006-08-16&g=2006-08-16) wordt de eindejaarsuitkering eenmaal per kalenderjaar en over dat kalenderjaar in de maand december uitbetaald. Bij ontslag van de ambtenaar vindt de uitbetaling plaats zo snel mogelijk na zijn ontslag.
 
 ##### Artikel 45. Beloningen
 
@@ -896,9 +896,9 @@ Bij de toekenning van een aanspraak op een wervingstoelage, een beloning, een fu
 
 - c. **ZZF-dag:** een zaterdag, zondag of feest- en gedenkdag, als bedoeld in [artikel 31g, eerste of tweede lid, van het Burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=31g).
 
-2. De commandant kent, in afwijking van de [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=3&artikel=23&z=2006-08-02&g=2006-08-02) en [49](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=6&artikel=49&z=2006-08-02&g=2006-08-02), aan de ambtenaar met een salarisschaal tot en met 10 een oefentoelage toe voor een oefening, die een etmaal of langer duurt en waarbij sprake is van consignatie in de zin van [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=3&artikel=23&z=2006-08-02&g=2006-08-02) of overwerk in de zin van [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=6&artikel=49&z=2006-08-02&g=2006-08-02).
+2. De commandant kent, in afwijking van de [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=3&artikel=23&z=2006-08-16&g=2006-08-16) en [49](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=6&artikel=49&z=2006-08-16&g=2006-08-16), aan de ambtenaar met een salarisschaal tot en met 10 een oefentoelage toe voor een oefening, die een etmaal of langer duurt en waarbij sprake is van consignatie in de zin van [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=3&artikel=23&z=2006-08-16&g=2006-08-16) of overwerk in de zin van [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=6&artikel=49&z=2006-08-16&g=2006-08-16).
 
-3. De oefentoelage wordt niet toegekend, indien de oefening korter dan een etmaal duurt. De [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=3&artikel=23&z=2006-08-02&g=2006-08-02) en [49](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=6&artikel=49&z=2006-08-02&g=2006-08-02) zijn in dit geval van toepassing.
+3. De oefentoelage wordt niet toegekend, indien de oefening korter dan een etmaal duurt. De [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=3&artikel=23&z=2006-08-16&g=2006-08-16) en [49](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=6&artikel=49&z=2006-08-16&g=2006-08-16) zijn in dit geval van toepassing.
 
 4. De oefentoelage bedraagt per etmaal 3% van:
 
@@ -950,113 +950,27 @@ Bij de toekenning van een aanspraak op een wervingstoelage, een beloning, een fu
 
 ##### Artikel 53. Begripsbepalingen
 
-In dit hoofdstuk wordt verstaan onder:
-
-- a. **de echtgenoot:** de echtgenoot of echtgenote van de ambtenaar, als bedoeld in [artikel 4, eerste lid, onderdeel a, van het Burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=4), die niet van tafel en bed is gescheiden;
-
-- b. **het kind jonger dan 16 jaar:** het kind jonger dan 16 jaar bedoeld in [artikel 7 van de Algemene kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&artikel=7) of in [hoofdstuk II van de Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2);
-
-- c. **het kind in de leeftijd van 16 tot 27 jaar:** het kind in de leeftijd van 16 tot 27 jaar waarvoor ingevolge [artikel 7 van de Algemene kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&artikel=7) of [artikel 3.1 van de Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.1) of [artikel 1.1 van de Wet tegemoetkoming onderwijsbijdrage en schoolkosten](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=1.1) aanspraak bestaat op kinderbijslag, studiefinanciering dan wel een tegemoetkoming in de onderwijsbijdrage en schoolkosten;
-
-- d. **gezinslid:** de echtgenoot of een kind, bedoeld onder a tot en met c;
-
-- e. **uitvoeringsorgaan:** het orgaan belast met de uitbetaling van de bezoldiging van de ambtenaar.
+Vervallen
 
 ##### Artikel 54. Aanspraak op tegemoetkoming ziektekostenverzekering
 
-1. Het hoofd defensieonderdeel kent aan de ambtenaar over elke kalendermaand aanspraak op een tegemoetkoming ziektekostenverzekering toe, bestaande uit:
-
-- a. een tegemoetkoming voor de ambtenaar zelf;
-
-- b. een tegemoetkoming voor de echtgenoot van de ambtenaar die niet voor zichzelf aanspraak heeft op grond van dit hoofdstuk en van wie de inkomsten lager zijn dan die van de ambtenaar;
-
-- c. een tegemoetkoming voor ten hoogste één kind jonger dan 16 jaar, voor wie de ambtenaar de premie voor de ziektekostenverzekering betaalt;
-
-- d. een tegemoetkoming voor elk kind in de leeftijd van 16 tot 27 jaar, voor wie de ambtenaar de premie voor de ziektekostenverzekering betaalt.
-
-2. De ambtenaar heeft over een kalendermaand slechts aanspraak op de tegemoetkoming ziektekostenverzekering, indien hij gedurende meer dan de helft van het aantal dagen als ambtenaar is aangesteld geweest.
-
-3. De ambtenaar heeft over een kalendermaand slechts aanspraak op een tegemoetkoming voor een gezinslid, indien dat gezinslid gedurende meer dan de helft van het aantal dagen als gezinslid kan worden aangemerkt.
-
-4. Indien de ambtenaar en diens echtgenoot beiden aanspraak hebben op een tegemoetkoming ingevolge dit besluit voor hetzelfde kind, wordt de tegemoetkoming voor dat kind slechts toegekend aan de ambtenaar met het hoogste salaris. Indien de ambtenaar en diens echtgenoot beiden aanspraak hebben op een tegemoetkoming voor een kind jonger dan 16 jaar, wordt de tegemoetkoming slechts toegekend voor één kind jonger dan 16 jaar dat deel uitmaakt van het gemeenschappelijke huishouden.
+Vervallen
 
 ##### Artikel 55. Aanspraken bij deeltijdaanstelling
 
-1. De ambtenaar met een deeltijdaanstelling van meer dan twaalf uur per week heeft, met inachtneming van [artikel 56](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=7&artikel=56&z=2006-08-02&g=2006-08-02), aanspraak op de tegemoetkoming ziektekostenverzekering, behorende bij een voltijdsaanstelling.
-
-2. De ambtenaar met een deeltijdaanstelling van twaalf uur of minder per week heeft, met inachtneming van [artikel 56](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=7&artikel=56&z=2006-08-02&g=2006-08-02), aanspraak op een evenredig deel van de tegemoetkoming ziektekostenverzekering, behorende bij een voltijdsaanstelling.
-
-3. De ambtenaar met een deeltijdaanstelling, die een echtgenoot heeft, heeft slechts aanspraak op een tegemoetkoming voor een kind, als bedoeld in [artikel 56, eerste lid, onderdeel c of d](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=7&artikel=56&z=2006-08-02&g=2006-08-02), indien de inkomsten van die echtgenoot lager zijn dan de inkomsten van de ambtenaar.
+Vervallen
 
 ##### Artikel 56. Samenloop met aanspraken elders
 
-1. De ambtenaar heeft geen aanspraak op een tegemoetkoming voor zichzelf over een kalendermaand, waarin hij gedurende meer dan de helft van het aantal dagen behoort tot een van de volgende categorieën:
-
-- a. degenen die zelfstandig verplicht verzekerd zijn krachtens de [Ziekenfondswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002460);
-
-- b. degenen die medeverzekerd zijn ingevolge het bepaalde in [artikel 4 van de Ziekenfondswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002460&artikel=4);
-
-- c. degenen die uit hoofde van een dienstbetrekking of een voormalige dienstbetrekking aanspraak hebben op gehele of gedeeltelijke geneeskundige verzorging of op gehele of gedeeltelijke vergoeding van de kosten daarvan;
-
-- d. degenen die geen bezoldiging genieten.
-
-2. De ambtenaar heeft geen aanspraak op een tegemoetkoming voor een gezinslid over een kalendermaand waarin hij gedurende meer dan de helft van het aantal dagen behoort tot de in het eerste lid, onderdeel d, genoemde categorie.
-
-3. De ambtenaar heeft evenmin aanspraak op een tegemoetkoming voor een gezinslid dat tot één van de in het eerste lid, onderdeel a, b of c, genoemde categorieën behoort, dan wel uit anderen hoofde aanspraak heeft op gehele of gedeeltelijke geneeskundige verzorging, of op gehele of gedeeltelijke vergoeding van de kosten daarvan.
-
-4. In afwijking van het eerste lid, aanhef, en onderdeel d, en het tweede lid, behoudt de ambtenaar, die als militair in werkelijke dienst is, de aanspraak op de tegemoetkoming ziektekostenverzekering voor hem en zijn gezinsleden.
-
-5. De ambtenaar met een deeltijdaanstelling van meer dan twaalf uur per week, bedoeld in [artikel 55, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=7&artikel=55&z=2006-08-02&g=2006-08-02), heeft aanspraak op een evenredig deel van de tegemoetkoming ziektekostenverzekering behorende bij een voltijdsaanstelling, indien hij op grond van één van de in het eerste lid, onderdeel a, b of c, genoemde redenen of uit anderen hoofde gedurende de helft of minder dan de helft van het aantal dagen van een kalendermaand aanspraak heeft op gehele of gedeeltelijke geneeskundige verzorging of op gehele of gedeeltelijke vergoeding van de kosten daarvan.
+Vervallen
 
 ##### Artikel 57. Bedrag van de tegemoetkoming ziektekostenverzekering
 
-1. Het bedrag van de tegemoetkoming over een kalendermaand voor de ambtenaar zelf en voor elk gezinslid afzonderlijk bestaat uit:
-
-- a. een bedrag ter tegemoetkoming in de premiekosten voor een ziektekostenverzekering, verhoogd met
-
-- b. de helft van de verschuldigde omslagbijdrage ingevolge [artikel 5 van de Wet medefinanciering oververtegenwoordiging oudere ziekenfondsverzekerden](https://wetten.overheid.nl/jci1.3:c:BWBR0003933&artikel=5), en verhoogd met
-
-- c. de helft van de verschuldigde omslagbijdrage ingevolge [artikel 11 van de Wet op de toegang tot ziektekostenverzekeringen 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009750&artikel=11).
-
-2. Het bedrag van de tegemoetkoming, bedoeld in het eerste lid, wordt verhoogd met een bedrag voor de ambtenaar en het gezinslid:
-
-- a. die verzekerd of medeverzekerd zijn krachtens een overeenkomst voor standaardverzekering, als bedoeld in [artikel 3, eerste lid, van de Wet op de toegang tot de ziektekostenverzekeringen 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009750&artikel=3) voor een persoon die de dag voor 1 april 1986 verzekerd of medeverzekerd was in de vrijwillige verzekering ingevolge de [Ziekenfondswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002460), en
-
-- b. die daarvoor de maximale maandpremie, als bedoeld in [artikel 7, eerste lid, van de Wet op de toegang tot de ziektekostenverzekeringen 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009750&artikel=7) verschuldigd is, en
-
-- c. voor wie de overeenkomst voor standaardverzekering is afgesloten vóór 1 januari 1989.
-
-3. Het bedrag van de tegemoetkoming ziektekostenverzekering wordt verhoogd met een toeslag.
-
-4. Het bedrag van de tegemoetkoming ziektekostenverzekering wordt verhoogd met een aanvullende toeslag, indien de ambtenaar geen aanspraak heeft op een tegemoetkoming voor een gezinslid, en indien het salaris van de ambtenaar bij een voltijdsaanstelling niet hoger is dan het maximumsalaris van salarisschaal 7.
-
-5. Onze Minister stelt nadere regels vast ten aanzien van de vaststelling van de bedragen van de tegemoetkoming en de toeslagen, bedoeld in het eerste tot en met vierde lid. Daarbij worden de bedragen ter tegemoetkoming in de premiekosten, bedoeld in het eerste lid, onderdeel a, jaarlijks per 1 januari aangepast aan de gemiddelde procentuele ontwikkeling van de premies voor een ziektekostenverzekering volgens opgave van Zorgverzekeraars Nederland.
-
-6. De ambtenaar en de gezinsleden in de leeftijdscategorie van 16 tot en met 19 jaar en van 65 jaar en ouder worden gelijkgesteld met degenen in de leeftijdscategorie van 20 tot en met 64 jaar voor wat betreft:
-
-- a. de verschuldigde omslagbijdragen ingevolge [artikel 5 van de Wet medefinanciering oververtegenwoordiging oudere ziekenfondsverzekerden](https://wetten.overheid.nl/jci1.3:c:BWBR0003933&artikel=5), en
-
-- b. de verschuldigde omslagbijdragen ingevolge [artikel 11 van de Wet op de toegang tot ziektekostenverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0009750&artikel=11).
-
-7. De loonheffing en de inhoudingen, bedoeld in [paragraaf 5 van de Wet financiële voorzieningen privatisering ABP](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=5), voor zover die zijn verschuldigd over de tegemoetkomingen, komen voor rekening van Defensie.
+Vervallen
 
 ##### Artikel 58. Uitbetaling van de tegemoetkoming ziektekostenverzekering
 
-1. In afwijking van [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=1&artikel=6&z=2006-08-02&g=2006-08-02), betaalt het uitvoeringsorgaan de tegemoetkomingen uit:
-
-- a. in de maanden juni en december over de twee voorafgaande kwartalen die eindigen met de maand maart respectievelijk september, dan wel
-
-- b. op verzoek van de ambtenaar: in de maand december over de vier voorafgaande kwartalen eindigend met de maand september, dan wel
-
-- c. op verzoek van de ambtenaar: maandelijks, over de maand gelegen drie maanden daarvoor.
-
-2. Zo nodig vindt uitbetaling van het resterende bedrag eerder plaats in geval van ontslag of overlijden.
-
-3. De eerste toekenning van de tegemoetkoming vindt slechts plaats op aanvraag van de ambtenaar. Indien wijzigingen optreden in de voor de vaststelling van de tegemoetkoming relevante gegevens is de ambtenaar verplicht deze wijzigingen aan het uitvoeringsorgaan te melden. De eerste aanvraag alsmede de melding van wijzigingen geschiedt op formulieren, waarvan het model wordt vastgesteld door Onze Minister.
-
-4. Indien niet binnen een periode van een jaar nadat de aanspraak op de tegemoetkoming is ontstaan een aanvraagformulier dan wel nadat een verhoging van de aanspraak op de tegemoetkoming is ontstaan een wijzigingsformulier is ingediend, vindt de eerste uitbetaling respectievelijk de verhoging van de tegemoetkoming plaats met terugwerkende kracht tot en met een jaar gerekend vanaf de eerste dag van de maand van indiening.
-
-5. Het uitvoeringsorgaan kan verlangen dat de ambtenaar voor de toekenning van een tegemoetkoming relevante bescheiden overlegt. Indien de ambtenaar niet voldoet aan het verzoek om bescheiden over te leggen, kan de uitbetaling van de tegemoetkoming door het uitvoeringsorgaan worden opgeschort.
+Vervallen
 
 ### Hoofdstuk 8. Verschuldigde bedragen
 
@@ -1260,7 +1174,7 @@ zulks met inachtneming van door Onze Minister aan te geven maxima voor de verstr
 | 1 | 4166,69 | 1 | 4370,08 | 1 | 4757,54 | 1 | 5153,02 |
 | 0 | 4063,33 | 0 | 4266,26 | 0 | 4627,76 | 0 | 5016,16 |
 
-## Bijlage A. (IBBAD, [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=2&artikel=8&z=2006-08-02&g=2006-08-02)) van het Inkomstenbesluit burgerlijke ambtenaren defensie
+## Bijlage A. (IBBAD, [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=2&artikel=8&z=2006-08-16&g=2006-08-16)) van het Inkomstenbesluit burgerlijke ambtenaren defensie
 
 | HOOFDGROEP I (maandbedragen in euro’s) | HOOFDGROEP I (maandbedragen in euro’s) | HOOFDGROEP I (maandbedragen in euro’s) | HOOFDGROEP I (maandbedragen in euro’s) | HOOFDGROEP I (maandbedragen in euro’s) | HOOFDGROEP I (maandbedragen in euro’s) |
 | --- | --- | --- | --- | --- | --- |
@@ -1422,7 +1336,7 @@ zulks met inachtneming van door Onze Minister aan te geven maxima voor de verstr
 | 1 | 4166,69 | 1 | 4370,08 | 1 | 4757,54 | 1 | 5153,02 |
 | 0 | 4063,33 | 0 | 4266,26 | 0 | 4627,76 | 0 | 5016,16 |
 
-## Bijlage B. (IBBAD, [artikel 13, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=2&artikel=13&z=2006-08-02&g=2006-08-02)) van het Inkomstenbesluit burgerlijke ambtenaren defensie
+## Bijlage B. (IBBAD, [artikel 13, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=2&artikel=13&z=2006-08-16&g=2006-08-16)) van het Inkomstenbesluit burgerlijke ambtenaren defensie
 
 Maandsalaris burgertandartsen
 
@@ -1457,7 +1371,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ### Hoofdstuk 9. Slotbepalingen
 
-## Bijlage C. (IBBAD, [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=2&artikel=14&z=2006-08-02&g=2006-08-02)) van het Inkomstenbesluit burgerlijke ambtenaren defensie
+## Bijlage C. (IBBAD, [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=2&artikel=14&z=2006-08-16&g=2006-08-16)) van het Inkomstenbesluit burgerlijke ambtenaren defensie
 
 Jaarsalaris burgertandartsen
 
