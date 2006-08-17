@@ -4,7 +4,7 @@ identifier: "BWBR0020144"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2006-08-17"
-last_updated: "2005-08-31"
+last_updated: "2006-08-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020144"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ Besluit:
 
 ##### Artikel 1
 
-1. Voor de beroepsopleidingen opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0020144&bijlage=1&z=2006-08-17&g=2005-08-31) behorende bij deze regeling worden voor het studiejaar 2007–2008 in [die bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0020144&bijlage=1&z=2006-08-17&g=2005-08-31) vastgesteld:
+1. Voor de beroepsopleidingen opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0020144&bijlage=1&z=2006-08-17&g=2006-08-17) behorende bij deze regeling worden voor het studiejaar 2007–2008 in [die bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0020144&bijlage=1&z=2006-08-17&g=2006-08-17) vastgesteld:
 
 - a. of de beroepsopleiding voor bekostiging in aanmerking komt;
 
@@ -56,7 +56,7 @@ Besluit:
 
 - e. de leerweg, bedoeld in [artikel 7.2.2, tweede lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2) waarin de beroepsopleiding kan worden verzorgd.
 
-2. Voor de beroepsopleidingen opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0020144&bijlage=1&z=2006-08-17&g=2005-08-31) behorende bij deze regeling worden voor het studiejaar 2007–2008 in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0020144&bijlage=2&z=2006-08-17&g=2005-08-31) behorende bij deze regeling vastgesteld:
+2. Voor de beroepsopleidingen opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0020144&bijlage=1&z=2006-08-17&g=2006-08-17) behorende bij deze regeling worden voor het studiejaar 2007–2008 in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0020144&bijlage=2&z=2006-08-17&g=2006-08-17) behorende bij deze regeling vastgesteld:
 
 - a. de eindtermen;
 
@@ -66,11 +66,11 @@ Besluit:
 
 ##### Artikel 2
 
-1. Voor de beroepsopleidingen opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0020144&bijlage=3&z=2006-08-17&g=2005-08-31) behorende bij deze regeling, worden de kwalificatieprofielen voor het studiejaar 2005–2006 vastgesteld in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0020144&bijlage=4&z=2006-08-17&g=2005-08-31) behorende bij deze regeling.
+1. Voor de beroepsopleidingen opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0020144&bijlage=3&z=2006-08-17&g=2006-08-17) behorende bij deze regeling, worden de kwalificatieprofielen voor het studiejaar 2005–2006 vastgesteld in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0020144&bijlage=4&z=2006-08-17&g=2006-08-17) behorende bij deze regeling.
 
-2. Voor de beroepsopleidingen opgenomen in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0020144&bijlage=5&z=2006-08-17&g=2005-08-31) behorende bij deze regeling, worden de kwalificatieprofielen voor het studiejaar 2006–2007 vastgesteld in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0020144&bijlage=6&z=2006-08-17&g=2005-08-31) behorende bij deze regeling.
+2. Voor de beroepsopleidingen opgenomen in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0020144&bijlage=5&z=2006-08-17&g=2006-08-17) behorende bij deze regeling, worden de kwalificatieprofielen voor het studiejaar 2006–2007 vastgesteld in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0020144&bijlage=6&z=2006-08-17&g=2006-08-17) behorende bij deze regeling.
 
-3. In [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0020144&bijlage=3&z=2006-08-17&g=2005-08-31) en in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0020144&bijlage=5&z=2006-08-17&g=2005-08-31) behorende bij deze regeling worden per beroepsopleiding vastgesteld:
+3. In [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0020144&bijlage=3&z=2006-08-17&g=2006-08-17) en in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0020144&bijlage=5&z=2006-08-17&g=2006-08-17) behorende bij deze regeling worden per beroepsopleiding vastgesteld:
 
 - a. de hoogte van de studielast;
 
@@ -114,4 +114,4 @@ Ligt ter inzage bij het Ministerie van Landbouw, Natuur en Voedselkwaliteit.
 
 Ligt ter inzage bij het Ministerie van Landbouw, Natuur en Voedselkwaliteit.
 
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de bijlagen, die ter inzage worden gelegd in de bibliotheek van het Ministerie van Landbouw, Natuur en Voedselkwaliteit en voor wat betreft de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0020144&bijlage=1&z=2006-08-17&g=2005-08-31), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0020144&bijlage=3&z=2006-08-17&g=2005-08-31) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0020144&bijlage=5&z=2006-08-17&g=2005-08-31) tevens worden gepubliceerd op de websites www.cfi.nl en www.groenkennisnet.nl.
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de bijlagen, die ter inzage worden gelegd in de bibliotheek van het Ministerie van Landbouw, Natuur en Voedselkwaliteit en voor wat betreft de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0020144&bijlage=1&z=2006-08-17&g=2006-08-17), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0020144&bijlage=3&z=2006-08-17&g=2006-08-17) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0020144&bijlage=5&z=2006-08-17&g=2006-08-17) tevens worden gepubliceerd op de websites www.cfi.nl en www.groenkennisnet.nl.
