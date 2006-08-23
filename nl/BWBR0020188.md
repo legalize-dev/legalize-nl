@@ -57,9 +57,3 @@ De termijn, bedoeld in [artikel 40, dertiende lid, van de Wet financiering socia
 Deze regeling wordt aangehaald als: Regeling vaststelling periode eigenrisicodragen WGA-uitkeringen.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 2a. Grondslag
-
-Deze regeling berust mede op [artikel 83, eerste lid, van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=83).
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
