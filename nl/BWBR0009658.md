@@ -4,7 +4,7 @@ identifier: "BWBR0009658"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-04-01"
-last_updated: "2006-07-02"
+last_updated: "2006-08-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009658"
 soort: "ministeriele-regeling"
@@ -55,19 +55,13 @@ Onverminderd [artikel 62, eerste lid, onderdelen a tot en met e, van het Besluit
 
 - b. de stichting Transpol te Amsterdam;
 
-- c. de stichting Nederlands Politie Instituut te Den Haag;
+- c. de stichting Beheersinstituut Politiekeurmerk Veilig Wonen;
 
-- d. de stichting Beheersinstituut Politiekeurmerk Veilig Wonen;
-
-- e. de Coöperatie Informatiemanagement Politie U.A.;
-
-- f. de ICT-service Coöperatie Politie Justitie en Veiligheid U.A.;
-
-- g. een andere organisatie dan genoemd onder a tot en met f, mits de aard en werkwijze van de organisatie niet strijdig zijn met de taken van de politie-organisatie dan wel het LSOP en mits er geen sprake is van een commercieel belang waarbij de organisatie in overwegende mate afhankelijk is van opdrachten van of namens een regionaal politiekorps, het Korps landelijke politiediensten dan wel het LSOP.
+- d. een andere organisatie dan genoemd onder a tot en met c, mits de aard en werkwijze van de organisatie niet strijdig zijn met de taken van de politie-organisatie dan wel het LSOP en mits er geen sprake is van een commercieel belang waarbij de organisatie in overwegende mate afhankelijk is van opdrachten van of namens een regionaal politiekorps, het korps landelijke politiediensten dan wel het LSOP.
 
 ##### Artikel 3
 
-In afwijking van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009658&artikel=2&z=2002-03-22&g=2006-07-02) kan het bevoegd gezag een ambtenaar niet detacheren bij een gemeente of een stichting indien deze detachering plaatsvindt in het kader van de Regeling Extra werkgelegenheid langdurig werklozen.
+In afwijking van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009658&artikel=2&z=2006-08-26&g=2006-08-26) kan het bevoegd gezag een ambtenaar niet detacheren bij een gemeente of een stichting indien deze detachering plaatsvindt in het kader van de Regeling Extra werkgelegenheid langdurig werklozen.
 
 ##### Artikel 4
 
