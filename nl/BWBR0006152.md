@@ -4,7 +4,7 @@ identifier: "BWBR0006152"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2006-07-21"
+last_updated: "2006-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006152"
 soort: "AMvB"
@@ -118,7 +118,7 @@ Vervallen
 
 ##### Artikel 2.4. Aanspraak
 
-De door een organisatie aangewezen vertegenwoordiger heeft, met inachtneming van het bepaalde in deze afdeling, gedurende het tijdvak waarvoor de in [artikel 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=2&afdeling=2&artikel=2.5&z=2006-07-21&g=2006-07-21) bedoelde aanwijzing geldt, aanspraak op financiële ondersteuning.
+De door een organisatie aangewezen vertegenwoordiger heeft, met inachtneming van het bepaalde in deze afdeling, gedurende het tijdvak waarvoor de in [artikel 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=2&afdeling=2&artikel=2.5&z=2006-09-01&g=2006-09-01) bedoelde aanwijzing geldt, aanspraak op financiële ondersteuning.
 
 ##### Artikel 2.5. Aanwijzing, vertegenwoordiging en termijn
 
@@ -140,17 +140,17 @@ De door een organisatie aangewezen vertegenwoordiger heeft, met inachtneming van
 
 ##### Artikel 2.7. Beperking totaal der aanspraken
 
-1. Per studiejaar is ten aanzien van ten hoogste twintig organisaties financiële ondersteuning als bedoeld in [artikel 2.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=2&afdeling=2&artikel=2.6&z=2006-07-21&g=2006-07-21), beschikbaar.
+1. Per studiejaar is ten aanzien van ten hoogste twintig organisaties financiële ondersteuning als bedoeld in [artikel 2.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=2&afdeling=2&artikel=2.6&z=2006-09-01&g=2006-09-01), beschikbaar.
 
-2. Toewijzing van de financiële ondersteuning vindt plaats in de volgorde van binnenkomst van de aanmeldingen, bedoeld in [artikel 2.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=2&afdeling=2&artikel=2.5&z=2006-07-21&g=2006-07-21).
+2. Toewijzing van de financiële ondersteuning vindt plaats in de volgorde van binnenkomst van de aanmeldingen, bedoeld in [artikel 2.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=2&afdeling=2&artikel=2.5&z=2006-09-01&g=2006-09-01).
 
 ##### Artikel 2.8. Subsidies aan VSNU en HBO-Raad ten behoeve van studentleden van visitatiecommissies
 
 1. Aan de Vereniging van samenwerkende Nederlandse universiteiten, de VSNU, gevestigd te Utrecht, en de Vereniging van hogescholen, de HBO-Raad, gevestigd te 's-Gravenhage, verstrekt Onze minister een subsidie ten behoeve van de financiële ondersteuning van studenten die op voordracht van de genoemde vereniging of raad gedurende één maand of langer deelnemen aan een beoordeling als bedoeld in [artikel 1.18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.18), van de wet.
 
-2. De subsidie bedraagt ten behoeve van iedere beoordeling, bedoeld in het eerste lid, drie maal het bedrag, bedoeld in [artikel 2.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=2&afdeling=2&artikel=2.6&z=2006-07-21&g=2006-07-21), indien het betreft deelname aan een beoordeling in het wetenschappelijk onderwijs, en vier maal het bedrag, bedoeld in [artikel 2.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=2&afdeling=2&artikel=2.6&z=2006-07-21&g=2006-07-21), indien het betreft deelname aan een beoordeling in het hoger beroepsonderwijs.
+2. De subsidie bedraagt ten behoeve van iedere beoordeling, bedoeld in het eerste lid, drie maal het bedrag, bedoeld in [artikel 2.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=2&afdeling=2&artikel=2.6&z=2006-09-01&g=2006-09-01), indien het betreft deelname aan een beoordeling in het wetenschappelijk onderwijs, en vier maal het bedrag, bedoeld in [artikel 2.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=2&afdeling=2&artikel=2.6&z=2006-09-01&g=2006-09-01), indien het betreft deelname aan een beoordeling in het hoger beroepsonderwijs.
 
-3. De in dit artikel bedoelde subsidie wordt niet in aanmerking genomen bij de bepaling van het toegestane bedrag, bedoeld in [artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=2&afdeling=2&artikel=2.7&z=2006-07-21&g=2006-07-21).
+3. De in dit artikel bedoelde subsidie wordt niet in aanmerking genomen bij de bepaling van het toegestane bedrag, bedoeld in [artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=2&afdeling=2&artikel=2.7&z=2006-09-01&g=2006-09-01).
 
 ##### Artikel 2.9. Nadere regeling
 
@@ -212,13 +212,13 @@ De Informatie Beheer Groep kan voorschriften geven voor de wijze waarop gegevens
 
 1. Op een daartoe ingediend verzoek kunnen gegevens die in het register zijn opgenomen, worden verstrekt. Bij dat verzoek wordt aangegeven welke gegevens worden verlangd alsmede de gewenste wijze van verstrekking.
 
-2. Binnen een maand na ontvangst van het verzoek, wordt aan aanvrager bekendgemaakt of het verzoek kan worden gehonoreerd. Indien het verzoek zal worden gehonoreerd, wordt tevens aangegeven binnen welke termijn dit zal geschieden alsmede of aan de verstrekking kosten zijn verbonden en zo ja, hoe hoog de verschuldigde vergoeding, met inachtneming van [artikel 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=3&afdeling=1&artikel=3.5&z=2006-07-21&g=2006-07-21), zal zijn.
+2. Binnen een maand na ontvangst van het verzoek, wordt aan aanvrager bekendgemaakt of het verzoek kan worden gehonoreerd. Indien het verzoek zal worden gehonoreerd, wordt tevens aangegeven binnen welke termijn dit zal geschieden alsmede of aan de verstrekking kosten zijn verbonden en zo ja, hoe hoog de verschuldigde vergoeding, met inachtneming van [artikel 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=3&afdeling=1&artikel=3.5&z=2006-09-01&g=2006-09-01), zal zijn.
 
 3. De verstrekking kan slechts worden geweigerd als de gevraagde gegevens niet beschikbaar zijn, of de gevraagde wijze van verstrekking niet kan worden uitgevoerd.
 
 ##### Artikel 3.5. Vergoeding verstrekte gegevens
 
-1. Indien een verzoek als bedoeld in [artikel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=3&afdeling=1&artikel=3.4&z=2006-07-21&g=2006-07-21) wordt gedaan door anderen dan de besturen van instellingen waarop de wet betrekking heeft, is voor het verstrekken van gegevens een vergoeding verschuldigd.
+1. Indien een verzoek als bedoeld in [artikel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=3&afdeling=1&artikel=3.4&z=2006-09-01&g=2006-09-01) wordt gedaan door anderen dan de besturen van instellingen waarop de wet betrekking heeft, is voor het verstrekken van gegevens een vergoeding verschuldigd.
 
 2. De verschuldigde vergoeding is afhankelijk van:
 
@@ -234,7 +234,7 @@ De Informatie Beheer Groep kan voorschriften geven voor de wijze waarop gegevens
 
 ##### Artikel 3.6. Aanwijzing bacheloropleidingen in het h.b.o.
 
-De bacheloropleidingen in het hoger beroepsonderwijs ten aanzien waarvan [het eerste lid van artikel 7.26](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.26) van de wet toepassing kan vinden, zijn, ingedeeld naar de onderdelen van het register, genoemd in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=3&afdeling=1&artikel=3.1&z=2006-07-21&g=2006-07-21):
+De bacheloropleidingen in het hoger beroepsonderwijs ten aanzien waarvan [het eerste lid van artikel 7.26](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.26) van de wet toepassing kan vinden, zijn, ingedeeld naar de onderdelen van het register, genoemd in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=3&afdeling=1&artikel=3.1&z=2006-09-01&g=2006-09-01):
 
 - a. binnen het onderdeel onderwijs:
 
@@ -278,7 +278,7 @@ De bacheloropleidingen in het hoger beroepsonderwijs ten aanzien waarvan [het ee
 
 ##### Artikel 4.1. Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin het wordt geplaatst en werkt voor wat betreft de [artikelen 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=3&afdeling=1&artikel=3.1&z=2006-07-21&g=2006-07-21) en [3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=3&afdeling=1&artikel=3.2&z=2006-07-21&g=2006-07-21) terug tot en met 1 mei 1993.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin het wordt geplaatst en werkt voor wat betreft de [artikelen 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=3&afdeling=1&artikel=3.1&z=2006-09-01&g=2006-09-01) en [3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=3&afdeling=1&artikel=3.2&z=2006-09-01&g=2006-09-01) terug tot en met 1 mei 1993.
 
 ##### Artikel 4.2. Citeertitel
 
@@ -288,9 +288,9 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 3.7. Masteropleidingen in het wetenschappelijk onderwijs met een studielast van 120 studiepunten of hoger
 
-1. Masteropleidingen in het wetenschappelijk onderwijs met een studielast van 120 studiepunten zijn de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&bijlage=1&z=2006-07-21&g=2006-07-21) bij dit besluit vermelde opleidingen.
+1. Masteropleidingen in het wetenschappelijk onderwijs met een studielast van 120 studiepunten zijn de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&bijlage=1&z=2006-09-01&g=2006-09-01) bij dit besluit vermelde opleidingen.
 
-2. Masteropleidingen in het wetenschappelijk onderwijs met een studielast van ten minste 120 en ten hoogste 180 studiepunten zijn de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&bijlage=2&z=2006-07-21&g=2006-07-21) bij dit besluit vermelde opleidingen.
+2. Masteropleidingen in het wetenschappelijk onderwijs met een studielast van ten minste 120 en ten hoogste 180 studiepunten zijn de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&bijlage=2&z=2006-09-01&g=2006-09-01) bij dit besluit vermelde opleidingen.
 
 ### Afdeling 4. Overige eigen bijdragen
 
@@ -382,6 +382,8 @@ Chemistry
 
 Ecology
 
+Educatie en Communicatie in Wiskunde en Natuurwetenschappen
+
 Energie en Milieuwetenschappen
 
 Evolutionary Biology
@@ -402,9 +404,9 @@ Mens-Machine Communicatie
 
 Moleculaire Biologie en Biotechnologie
 
-Nanoscience
-
 ### 4. **Openbare universiteit te Utrecht**
+
+Physics
 
 Scheikundige Technologie
 
@@ -440,9 +442,9 @@ Philosophy: Knowledge and Knowledge Development
 
 Regional Studies: Spaces and Places, Analysis and Intervention
 
-Religious Symbols and Traditions.
-
 ### 3. Openbare universiteit te Amsterdam
+
+A.
 
 A.
 
@@ -470,6 +472,8 @@ Mathematics
 
 Mathematics and Science Education
 
+Medische Informatiekunde
+
 Physics
 
 Stochastics and Financial Mathematics;
@@ -490,11 +494,11 @@ Human Geography, Planning and Development Studies
 
 Kunstwetenschappen
 
-Linguistics
+### 4. Openbare universiteit te Utrecht
 
 Literary Studies
 
-### 4. Openbare universiteit te Utrecht
+Master of Philosophy in Economics
 
 Media Studies
 
@@ -502,17 +506,17 @@ Metropolitan Studies
 
 Nederlandse letterkunde
 
+Philosophy: Rationality
+
 Psychology
 
 Religiewetenschappen
 
 Rhetoric, Argumentation and Philosophy
 
-Social Sciences
+Social Sciences.
 
-Wijsbegeerte.
-
-Earth Sciences
+Artificial intelligence
 
 A.
 
@@ -540,11 +544,11 @@ Informatica
 
 Information Science
 
-Mathematische wetenschappen
+### 7. **Openbare universiteit te Eindhoven**
 
 Natuurkunde en meteorologie & fysische oceanografie
 
-### 7. **Openbare universiteit te Eindhoven**
+Natuurwetenschappen en bedrijf
 
 Natuurwetenschappen en Innovatiemanagement
 
@@ -574,11 +578,11 @@ Human Geography and Planning
 
 Linguistics: the Study of the Language Faculty
 
-Literary Studies: Literature in the Modern Age
+### 8. **Openbare universiteit te Enschede**
 
 Media Studies
 
-### 8. **Openbare universiteit te Enschede**
+Medieval Studies
 
 Methodology and Statistics of Behavioural and Social Sciences
 
@@ -598,7 +602,7 @@ Sociology and Social Research
 
 Theology.
 
-Computer Science
+Applied Earth Sciences
 
 Aerospace Engineering
 
@@ -608,11 +612,11 @@ Applied Mathematics
 
 Applied Physics
 
-Architecture, Urbanism and Building Sciences
+### 9. **Bijzondere universiteit te Amsterdam**
 
 Biochemical Engineering
 
-### 9. **Bijzondere universiteit te Amsterdam**
+Biomedical Engineering
 
 Chemical Engineering
 
@@ -652,17 +656,17 @@ Offshore Engeneering
 
 Strategic Product Design
 
-Systems and Control
+### 10. **Bijzondere universiteit te Nijmegen**
 
 Systems Engineering, Policy Analysis and Management
 
-### 10. **Bijzondere universiteit te Nijmegen**
+Transport, Infrastructure & Logistics.
 
-Forest and Nature Conservation
+Animal Sciences and Aquaculture
 
 Agricultural and Bioresource Engineering
 
-Animal Sciences and Aquaculture
+Animal Sciences
 
 Aquaculture and Fisheries
 
@@ -675,10 +679,6 @@ Biotechnology
 Earth System Science
 
 Environmental Sciences
-
-Food Quality Management
-
-Food Safety
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
 
@@ -700,33 +700,37 @@ Biomedische Technologie
 
 ### 3. **Openbare universiteit te Amsterdam**
 
-Physics
+Nanoscience
 
 ### 4. **Openbare universiteit te Utrecht**
 
-Chemistry
+Religious Symbols and Traditions.
 
 ### 5. **Openbare universiteit te Delft**
 
-Master of Philosophy in Economics
+Linguistics
 
 ### 6. **Openbare universiteit te Wageningen**
 
-Natuurwetenschappen en bedrijf
+Mathematische wetenschappen
 
 ### 7. **Openbare universiteit te Eindhoven**
 
-Medieval Studies
+Literary Studies: Literature in the Modern Age
 
 ### 5. Openbare universiteit te Delft
 
-Biomedical Engineering
+Architecture, Urbanism and Building Sciences
 
 ### 9. **Bijzondere universiteit te Amsterdam**
 
-Transport, Infrastructure & Logistics.
+Systems and Control
 
 ### 10. **Bijzondere universiteit te Nijmegen**
+
+Food Quality Management
+
+Food Safety
 
 Food Technology
 
@@ -744,10 +748,6 @@ Landscape, Architecture and Planning
 
 Leisure, Tourism and Environment
 
-Meteorology and Air Quality
-
-Molecular Sciences
-
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
 
 ### 2. Openbare universiteit te Groningen
@@ -762,6 +762,10 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ### 7. Openbare universiteit te Eindhoven
 
+Meteorology and Air Quality
+
+Molecular Sciences
+
 Nutrition and Health
 
 Organic Agriculture
@@ -774,17 +778,17 @@ Soil Science
 
 Urban Environmental Management.
 
-Applied Physics
+Architecture, Building and Planning
 
 Applied Physics
 
 Architecture, Building and Planning
 
-Biomedical Engineering
+### 8. Openbare universiteit te Enschede
 
 Building Services
 
-### 8. Openbare universiteit te Enschede
+Business Information Systems
 
 Chemical Engineering
 
@@ -808,7 +812,7 @@ Operations Management and Logistics
 
 Technology and Policy.
 
-A.
+Applied Mathematics
 
 A.
 
@@ -820,11 +824,11 @@ Biomedical Engineering
 
 Business Information Technology
 
-Chemical Engineering
+### 9. Openbare universiteit te Rotterdam
 
 Civil Engineering & Management
 
-### 9. Openbare universiteit te Rotterdam
+Computer Science
 
 Electrical Engineering
 
@@ -834,11 +838,11 @@ Human Media Interaction
 
 Industrial Design Engineering
 
-Industrial Engineering & Management
+### 10. Openbare universiteit te Maastricht
 
 Mechanical Engineering
 
-### 10. Openbare universiteit te Maastricht
+Mechatronics
 
 Nanotechnology
 
@@ -848,11 +852,11 @@ B.
 
 Social Systems Evaluation and Survey Research.
 
-Clinical Epidemiology
+### 9. Openbare universiteit te Rotterdam
 
 Clinical Epidemiology
 
-### 11. Bijzondere universiteit te Amsterdam
+Clinical Research
 
 ERIM Master of Philosophy in Business Research
 
@@ -862,7 +866,7 @@ Molecular Medicine
 
 Neuroscience.
 
-A.
+Law and Language Studies.
 
 A.
 
@@ -884,7 +888,7 @@ Health Sciences
 
 Ius Commune and Human Rights Research.
 
-A.
+Artificial Intelligence
 
 A.
 
@@ -912,11 +916,11 @@ Ecology
 
 Geo-environmental Sciences
 
-Hydrology
+### 12. Bijzondere universiteit te Nijmegen
 
 Mathematics
 
-### 12. Bijzondere universiteit te Nijmegen
+Medical Natural Sciences
 
 Neurosciences
 
@@ -950,13 +954,13 @@ Reformed Theology
 
 Social Psychology: Regulation of Social Behaviour.
 
-A.
-
-A.
-
 Algemene natuurwetenschappen
 
 ### 13. Bijzondere universiteit te Tilburg
+
+Algemene natuurwetenschappen
+
+Biology
 
 Bio-informatics
 
@@ -964,45 +968,51 @@ Biomedical sciences
 
 Chemistry
 
-Informatica
-
-Kunstmatige Intelligentie
-
 ### 14. Katholieke Theologische Universiteit te Utrecht
 
-Medische biologie
+Kunstmatige Intelligentie
 
 ## Bijlage 2. Masteropleidingen in het wetenschappelijk onderwijs met een studielast van ten minste 120 en ten hoogste 180 studiepunten
 
 ### 1. Openbare universiteit te Eindhoven
 
+Milieu-natuurwetenschappen
+
+Moleculaire levenswetenschappen
+
 Natuur- en sterrenkunde
 
-Natuurwetenschappen;
+### 2. Bijzondere universiteit te Nijmegen
 
 B.
 
-### 2. Bijzondere universiteit te Nijmegen
+Behavioral Science: the study of behavior regulation
 
 Cognitive Neuroscience
 
 Historische Wetenschappen
 
-Kunst en visuele cultuur in historisch perspectief
+## Bijlage. bij het uitvoeringsbesluit WHW
 
 Language and Communication
 
-## Bijlage. bij het uitvoeringsbesluit WHW
+### 1. **Openbare universiteit te Leiden**
 
 Molecular Mechanisms of Disease
 
-### 1. **Openbare universiteit te Leiden**
+Onderneming en Recht
 
 Social Cultural Science: Comparative Research on Societies.
 
 Wijsbegeerte.
 
-Grondslagen en methoden van de rechtswetenschap
+Language and Communication
+
+A.
+
+Medische Psychologie.
+
+B.
 
 Grondslagen en methoden van de rechtswetenschap
 
@@ -1010,19 +1020,19 @@ Language and Communication
 
 Master of Philosophy in Business
 
-Master of Philosophy in Economics
+### 1. Openbare universiteit te Eindhoven
 
 Social and Behavioural Sciences
 
 Wijsbegeerte.
 
-Theology.
+Mathematics Education
 
 Theology.
 
-### 1. Openbare universiteit te Eindhoven
+Opleiding tot leraar voortgezet onderwijs van de eerste graad in Biologie
 
-Chemistry Education
+Opleiding tot leraar voortgezet onderwijs van de eerste graad in Biologie
 
 Chemistry Education
 
@@ -1030,7 +1040,7 @@ Mathematics Education
 
 Physics Education.
 
-Opleiding tot leraar voortgezet onderwijs van de eerste graad in Biologie
+informatica
 
 Opleiding tot leraar voortgezet onderwijs van de eerste graad in Biologie
 
@@ -1039,16 +1049,6 @@ Opleiding tot leraar voortgezet onderwijs van de eerste graad in Natuurkunde
 Opleiding tot leraar voortgezet onderwijs van de eerste graad in Scheikunde
 
 Opleiding tot leraar voortgezet onderwijs van de eerste graad in Wiskunde.
-
-informatica
-
-mariene biologie
-
-mathematics
-
-medical and pharmaceutical drug innovation
-
-medisch farmaceutische wetenschappen
 
 medische biologie
 
@@ -1386,17 +1386,17 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ### 7. Openbare universiteit te Eindhoven
 
-### 8. Openbare universiteit te Enschede
+### 7. Openbare universiteit te Eindhoven
 
-Business Information Systems
+Biomedical Engineering
 
 ### 9. Openbare universiteit te Rotterdam
 
-Computer Science
+Chemical Engineering
 
 ### 10. Openbare universiteit te Maastricht
 
-Mechatronics
+Industrial Engineering & Management
 
 ### 9. Openbare universiteit te Rotterdam
 
@@ -1404,23 +1404,23 @@ Clinical Research
 
 ### 12. Bijzondere universiteit te Nijmegen
 
-Medical Natural Sciences
+Hydrology
 
 ### 12. Bijzondere universiteit te Nijmegen
 
-Biology
+A.
 
 ### 14. Katholieke Theologische Universiteit te Utrecht
 
 ## Bijlage 2. Masteropleidingen in het wetenschappelijk onderwijs met een studielast van ten minste 120 en ten hoogste 180 studiepunten
 
-Milieu-natuurwetenschappen
+Mathematics
 
-Moleculaire levenswetenschappen
+Medische biologie
 
 ### 2. Bijzondere universiteit te Nijmegen
 
-Behavioral Science: the study of behavior regulation
+Natuurwetenschappen;
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
 
@@ -1442,11 +1442,11 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ### 12. Bijzondere universiteit te Nijmegen
 
-Mathematics
+Informatica
+
+Kunst en visuele cultuur in historisch perspectief
 
 Letterkunde en Literatuurwetenschap: Nieuwe Filologie
-
-Onderneming en Recht
 
 ### 13. Bijzondere universiteit te Tilburg
 
@@ -1469,6 +1469,36 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 ### 11. Bijzondere universiteit te Amsterdam
 
 ### 13. Bijzondere universiteit te Tilburg
+
+### 14. Katholieke Theologische Universiteit te Utrecht
+
+## Bijlage 2. Masteropleidingen in het wetenschappelijk onderwijs met een studielast van ten minste 120 en ten hoogste 180 studiepunten
+
+### 1. Openbare universiteit te Eindhoven
+
+### 2. Bijzondere universiteit te Nijmegen
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
+
+### 3. Openbare universiteit te Amsterdam
+
+### 4. Openbare universiteit te Utrecht
+
+### 5. Openbare universiteit te Delft
+
+### 6. Openbare universiteit te Wageningen
+
+### 8. Openbare universiteit te Enschede
+
+### 10. Openbare universiteit te Maastricht
+
+### 11. Bijzondere universiteit te Amsterdam
+
+### 12. Bijzondere universiteit te Nijmegen
+
+### 13. Bijzondere universiteit te Tilburg
+
+Master of Philosophy in Economics
 
 ### 14. Katholieke Theologische Universiteit te Utrecht
 
