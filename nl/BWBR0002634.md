@@ -4,7 +4,7 @@ identifier: "BWBR0002634"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-01"
-last_updated: "2006-01-01"
+last_updated: "2006-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002634"
 soort: "ministeriele-regeling"
@@ -423,7 +423,7 @@ Vervallen
 
 ##### Artikel 18
 
-1. Voor andere goederen dan bedoeld in de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=VII&artikel=17&z=2006-01-01&g=2006-01-01) en [17a](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=VII&artikel=17a&z=2006-01-01&g=2006-01-01) wordt een verzoek om aanwijzing voor de toepassing van [artikel 23 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=23) ingediend bij de inspecteur. De inspecteur beslist op het verzoek bij voor bezwaar vatbare beschikking. Bij inwilliging van het verzoek stelt de inspecteur een datum van ingang vast en kent hij aan de belanghebbende een btw-identificatienummer toe.
+1. Voor andere goederen dan bedoeld in de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=VII&artikel=17&z=2006-09-01&g=2006-09-01) en [17a](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=VII&artikel=17a&z=2006-09-01&g=2006-09-01) wordt een verzoek om aanwijzing voor de toepassing van [artikel 23 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=23) ingediend bij de inspecteur. De inspecteur beslist op het verzoek bij voor bezwaar vatbare beschikking. Bij inwilliging van het verzoek stelt de inspecteur een datum van ingang vast en kent hij aan de belanghebbende een btw-identificatienummer toe.
 
 2. Het verzoek wordt slechts ingewilligd, indien de belanghebbende:
 
@@ -443,7 +443,7 @@ Vervallen
 
 5. Tenzij de inspecteur anders bepaalt, moet de belanghebbende voldoen aan de volgende voorwaarden:
 
-- a. van de invoer wordt afzonderlijk aantekening gehouden op de voet van [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=XII&artikel=31&z=2006-01-01&g=2006-01-01);
+- a. van de invoer wordt afzonderlijk aantekening gehouden op de voet van [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=XII&artikel=31&z=2006-09-01&g=2006-09-01);
 
 - b. bij aangifte ten invoer van de goederen worden bescheiden - een kopie-factuur, vracht- en ladingspapieren en dergelijke - overgelegd waaruit blijkt dat de goederen voor belanghebbende zijn bestemd en de regeling van [artikel 23 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=23) van toepassing is. Op deze bescheiden moet het btw-identificatienummer zijn vermeld.
 
@@ -467,9 +467,9 @@ Vervallen
 
 3. De belanghebbende moet voldoen aan de volgende voorwaarden:
 
-- a. van de invoer van goederen als zijn bedoeld in het eerste lid, wordt afzonderlijk aantekening gehouden op de voet van [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=XII&artikel=31&z=2006-01-01&g=2006-01-01);
+- a. van de invoer van goederen als zijn bedoeld in het eerste lid, wordt afzonderlijk aantekening gehouden op de voet van [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=XII&artikel=31&z=2006-09-01&g=2006-09-01);
 
-- b. bij aangifte ten invoer van de hiervoor bedoelde goederen worden bescheiden - een kopie-factuur, vracht- en ladingspapieren en dergelijke - overgelegd waaruit blijkt dat de goederen voor belanghebbende zijn bestemd en de regeling van [artikel 23 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=23) van toepassing is. Op deze bescheiden moeten datum en nummer van de in het eerste lid bedoelde beschikking, alsmede in voorkomende gevallen het op de voet van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=VII&artikel=18&z=2006-01-01&g=2006-01-01) aan belanghebbende toegekende btw-identificatienummer zijn vermeld.
+- b. bij aangifte ten invoer van de hiervoor bedoelde goederen worden bescheiden - een kopie-factuur, vracht- en ladingspapieren en dergelijke - overgelegd waaruit blijkt dat de goederen voor belanghebbende zijn bestemd en de regeling van [artikel 23 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=23) van toepassing is. Op deze bescheiden moeten datum en nummer van de in het eerste lid bedoelde beschikking, alsmede in voorkomende gevallen het op de voet van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=VII&artikel=18&z=2006-09-01&g=2006-09-01) aan belanghebbende toegekende btw-identificatienummer zijn vermeld.
 
 4. De inspecteur is bevoegd in bepaalde gevallen nadere voorwaarden te stellen.
 
@@ -535,7 +535,7 @@ Ingeval een lichaam als bedoeld in [artikel 24, eerste lid, van de wet](https://
 
 ##### Artikel 23a
 
-1. In geval van levering van goederen aan natuurlijke personen die hun normale verblijfplaats hebben in een derde-land en die, anders dan als ondernemer, deze goederen uiterlijk het einde van de derde maand na de maand van aankoop bij het verlaten van Nederland in hun persoonlijke bagage meevoeren naar een derde-land, hetzij rechtstreeks hetzij via één of meer andere lid-staten, is de ondernemer gerechtigd, in afwijking van het wettelijk geldende tarief, het tarief van nihil toe te passen, indien de totale waarde van de op de factuur vermelde goederen, inclusief de tegen het wettelijk tarief berekende belasting, ten minste € 136 bedraagt. De normale verblijfplaats dient aan de hand van een legitimatiebewijs te worden aangetoond.
+1. In geval van levering van goederen aan natuurlijke personen die hun normale verblijfplaats hebben in een derde-land en die, anders dan als ondernemer, deze goederen uiterlijk het einde van de derde maand na de maand van aankoop bij het verlaten van Nederland in hun persoonlijke bagage meevoeren naar een derde-land, hetzij rechtstreeks hetzij via één of meer andere lid-staten, is de ondernemer gerechtigd, in afwijking van het wettelijk geldende tarief, het tarief van nihil toe te passen, indien de totale waarde van de op de factuur vermelde goederen, inclusief de tegen het wettelijk tarief berekende belasting, ten minste € 50 bedraagt. De normale verblijfplaats dient aan de hand van een legitimatiebewijs te worden aangetoond.
 
 2. Het eerste lid, eerste volzin, is van overeenkomstige toepassing met betrekking tot goederen die worden afgenomen door een natuurlijke persoon die zijn normale verblijfplaats heeft in de Gemeenschap en die ten genoegen van de inspecteur kan aantonen dat hij zich binnen de in het eerste lid bedoelde termijn in een derde-land zal vestigen.
 
