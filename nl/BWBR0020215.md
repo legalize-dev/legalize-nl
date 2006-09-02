@@ -95,9 +95,3 @@ De algemeen directeur van SenterNovem verstrekt de minister periodiek en op dien
 Dit besluit treedt inwerking met ingang van de tweede dag na dagtekening van de Staatscourant waarin het is geplaatst.
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 10
-
-Dit besluit wordt aangehaald als: Besluit mandaat, volmacht en machtiging Agentschap NL Subsidieregeling TTI.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
