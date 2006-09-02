@@ -59,9 +59,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 Deze regeling wordt aangehaald als: Regeling aanwijzing opsporingsambtenaren luchtvaart IVW.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 5
-
-Deze regeling berust tevens op [artikel 61a, eerste lid, van de Luchtvaartwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&artikel=61a).
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
