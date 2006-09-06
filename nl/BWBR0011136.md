@@ -4,7 +4,7 @@ identifier: "BWBR0011136"
 country: "nl"
 rank: "amvb"
 publication_date: "2016-01-01"
-last_updated: "2005-12-29"
+last_updated: "2006-09-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011136"
 soort: "AMvB"
@@ -58,7 +58,9 @@ Als categorieën van personen, bedoeld in de [artikelen 19b, vierde lid, van de 
 
 - d. proefverlof genieten als bedoeld in [artikel 31, eerste lid, van de Beginselenwet justitiële jeugdinrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=31);
 
-- e. deelnemen aan een programma in de laatste fase van de maatregel tot plaatsing in een inrichting voor de opvang van verslaafden als bedoeld in [artikel 38m van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=38m).
+- e. deelnemen aan het extramurale gedeelte van een programma in het kader van de maatregel tot plaatsing in een inrichting voor stelselmatige daders, bedoeld in [artikel 38m, eerste lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=38m);
+
+- f. in verband met noodzakelijke sociale verzorging en hulpverlening op grond van [artikel 43, derde lid, van de Penitentiaire beginselenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=43) zijn overgebracht naar een daartoe bestemde plaats.
 
 ##### Artikel 2
 
