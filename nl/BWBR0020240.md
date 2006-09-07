@@ -4,7 +4,7 @@ identifier: "BWBR0020240"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2006-09-07"
-last_updated: "2006-04-01"
+last_updated: "2006-09-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020240"
 soort: "ministeriele-regeling"
@@ -68,9 +68,9 @@ LMA is bevoegd tot het verlenen van ondermandaat aan bij LMA in dienst zijnde fu
 
 ##### Artikel 5
 
-1. LMA rapporteert ieder kwartaal aan de Minister over de uitvoering van zijn bevoegdheden als omschreven in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0020240&artikel=2&z=2006-09-07&g=2006-04-01).
+1. LMA rapporteert ieder kwartaal aan de Minister over de uitvoering van zijn bevoegdheden als omschreven in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0020240&artikel=2&z=2006-09-07&g=2006-09-07).
 
-2. In geval er op grond van [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020240&artikel=2&z=2006-09-07&g=2006-04-01), wordt beslist op een bezwaarschrift waarbij kennelijk een aanmerkelijk belang financieel of rechtspositioneel belang in het geding is, vindt in afwijking van het eerste lid rapportage onverwijld plaats.
+2. In geval er op grond van [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020240&artikel=2&z=2006-09-07&g=2006-09-07), wordt beslist op een bezwaarschrift waarbij kennelijk een aanmerkelijk belang financieel of rechtspositioneel belang in het geding is, vindt in afwijking van het eerste lid rapportage onverwijld plaats.
 
 ##### Artikel 6
 
