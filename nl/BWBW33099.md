@@ -4,7 +4,7 @@ identifier: "BWBW33099"
 country: "nl"
 rank: "circulaire"
 publication_date: "2026-02-01"
-last_updated: "2006-06-10"
+last_updated: "2006-09-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBW33099"
 soort: "circulaire"
@@ -962,7 +962,7 @@ Hoewel de verzoeker **bij de indiening**van het verzoek het verblijfsdocument mo
 
 Tenslotte wordt verzoeker in de voorlichtingsfase meegedeeld dat indien hij na de naturalisatie weigert afstand te doen van zijn oorspronkelijke nationaliteit, het besluit waarbij hem het Nederlanderschap is verleend kan worden ingetrokken.
 
-Bij het indienen van een verzoek om naturalisatie en tijdens de behandeling van dat verzoek kunnen omstandigheden aan het licht komen die grond kunnen vormen om de verblijfsvergunning in te trekken dan wel niet te verlengen (dit geldt zowel voor verblijfsvergunningen voor onbepaalde tijd als verblijfsvergunningen voor bepaalde tijd). Voor de beeldvorming is in [Bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=6&z=2006-06-10&g=2006-06-10) bij dit artikel een beknopt overzicht gegeven van de gronden tot intrekking dan wel van de gronden tot niet verlenging van de verschillende verblijfsvergunningen.
+Bij het indienen van een verzoek om naturalisatie en tijdens de behandeling van dat verzoek kunnen omstandigheden aan het licht komen die grond kunnen vormen om de verblijfsvergunning in te trekken dan wel niet te verlengen (dit geldt zowel voor verblijfsvergunningen voor onbepaalde tijd als verblijfsvergunningen voor bepaalde tijd). Voor de beeldvorming is in [Bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=6&z=2006-06-10&g=2006-09-16) bij dit artikel een beknopt overzicht gegeven van de gronden tot intrekking dan wel van de gronden tot niet verlenging van de verschillende verblijfsvergunningen.
 
 ### 3.3. Aanspraken op een ander (sterker) verblijfsrecht
 
@@ -1816,7 +1816,7 @@ Op grond van de [Vw 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) zijn 
 
 ### 3.2. Reden tot intrekking/niet-verlenging van de verblijfsvergunning
 
-Het kan voorkomen dat bij de indiening van het verzoek blijkt dat op grond van het verblijfsdocument van verzoeker moet worden geconcludeerd dat er bedenkingen bestaan tegen het verblijf voor onbepaalde tijd, maar dat de verzoeker stelt in aanmerking te kunnen komen voor een andere verblijfsvergunning die wel voldoende is om in aanmerking te komen voor naturalisatie. Ook hier geldt –om bovengenoemde redenen –dat verzoeker wordt ontraden om een verzoek in te dienen en dat hij wordt verwezen naar de Immigratie- en Naturalisatiedienst (IND). Houdt verzoeker niettemin vast aan indiening van het verzoek om naturalisatie, dan wordt de procedure gevolgd zoals beschreven in paragraaf 3.1 bij de toelichting op dit artikellid. Door de Immigratie- en Naturalisatiedienst (IND) wordt op basis van het door verzoeker overgelegde verblijfsdocument (dus geen fictietoets) met behulp van [Bijlagen 2](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=2&z=2006-06-10&g=2006-06-10) en [3](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=3&z=2006-06-10&g=2006-06-10) beoordeeld of sprake is van bedenkingen tegen verblijf voor onbepaalde tijd.
+Het kan voorkomen dat bij de indiening van het verzoek blijkt dat op grond van het verblijfsdocument van verzoeker moet worden geconcludeerd dat er bedenkingen bestaan tegen het verblijf voor onbepaalde tijd, maar dat de verzoeker stelt in aanmerking te kunnen komen voor een andere verblijfsvergunning die wel voldoende is om in aanmerking te komen voor naturalisatie. Ook hier geldt –om bovengenoemde redenen –dat verzoeker wordt ontraden om een verzoek in te dienen en dat hij wordt verwezen naar de Immigratie- en Naturalisatiedienst (IND). Houdt verzoeker niettemin vast aan indiening van het verzoek om naturalisatie, dan wordt de procedure gevolgd zoals beschreven in paragraaf 3.1 bij de toelichting op dit artikellid. Door de Immigratie- en Naturalisatiedienst (IND) wordt op basis van het door verzoeker overgelegde verblijfsdocument (dus geen fictietoets) met behulp van [Bijlagen 2](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=2&z=2006-06-10&g=2006-09-16) en [3](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=3&z=2006-06-10&g=2006-09-16) beoordeeld of sprake is van bedenkingen tegen verblijf voor onbepaalde tijd.
 
 ### 3.4. EU/EER-onderdanen en Zwitserse onderdanen
 
@@ -1838,7 +1838,7 @@ Er is sprake van toelating voor onbepaalde tijd als het verblijfsrecht naar zijn
 
 * Bij de uitkomst ‘geen bedenkingen’ in [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=2&z=2006-05-01&g=2006-05-01) of [3](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=3&z=2006-05-01&g=2006-05-01) moet nog wel worden bedacht dat er geen redenen mogen bestaan om de verblijfsvergunning in te trekken dan wel niet te verlengen. Zie hiervoor paragraaf 3.2 en [Bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=6&z=2006-05-01&g=2006-05-01). Tevens kunnen er gevallen zijn waarbij het verblijfsrecht van rechtswege is komen te vervallen (gemeenschapsonderdanen). Zie hiervoor paragraaf 3.4.
 
-* Bij de uitkomst ‘geen bedenkingen’ in [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=2&z=2006-06-10&g=2006-06-10) of [3](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=3&z=2006-06-10&g=2006-06-10) moet nog wel worden bedacht dat er geen redenen mogen bestaan om de verblijfsvergunning in te trekken dan wel niet te verlengen. Zie hiervoor paragraaf 3.2 en [Bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=6&z=2006-06-10&g=2006-06-10). Tevens kunnen er gevallen zijn waarbij het verblijfsrecht van rechtswege is komen te vervallen (gemeenschapsonderdanen). Zie hiervoor paragraaf 3.4.
+* Bij de uitkomst ‘geen bedenkingen’ in [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=2&z=2006-06-10&g=2006-09-16) of [3](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=3&z=2006-06-10&g=2006-09-16) moet nog wel worden bedacht dat er geen redenen mogen bestaan om de verblijfsvergunning in te trekken dan wel niet te verlengen. Zie hiervoor paragraaf 3.2 en [Bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=6&z=2006-06-10&g=2006-09-16). Tevens kunnen er gevallen zijn waarbij het verblijfsrecht van rechtswege is komen te vervallen (gemeenschapsonderdanen). Zie hiervoor paragraaf 3.4.
 
 N.B. Altijd dient de beschikking waarbij het verblijfsrecht is vastgesteld door de Vreemdelingendienst of IND te worden geraadpleegd op eventuele uitzonderingen op het schema. Let in het bijzonder op toepassingen van [artikel 3.5, derde lid, Vb 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.5)!
 
@@ -1846,7 +1846,7 @@ N.B. Altijd dient de beschikking waarbij het verblijfsrecht is vastgesteld door 
 
 Verblijfgever = degene van wie het verblijfsrecht in Nederland afhankelijk is.
 
-* Bij de uitkomst ‘geen bedenkingen’ in [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=2&z=2006-06-10&g=2006-06-10) of [3](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=3&z=2006-06-10&g=2006-06-10) moet nog wel worden bedacht dat er geen redenen mogen bestaan om de verblijfsvergunning in te trekken dan wel niet te verlengen. Zie hiervoor paragraaf 3.2 en [Bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=6&z=2006-06-10&g=2006-06-10). Tevens kunnen er gevallen zijn waarbij het verblijfsrecht van rechtswege is komen te vervallen (gemeenschapsonderdanen). Zie hiervoor paragraaf 3.4.
+* Bij de uitkomst ‘geen bedenkingen’ in [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=2&z=2006-06-10&g=2006-09-16) of [3](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=3&z=2006-06-10&g=2006-09-16) moet nog wel worden bedacht dat er geen redenen mogen bestaan om de verblijfsvergunning in te trekken dan wel niet te verlengen. Zie hiervoor paragraaf 3.2 en [Bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=6&z=2006-06-10&g=2006-09-16). Tevens kunnen er gevallen zijn waarbij het verblijfsrecht van rechtswege is komen te vervallen (gemeenschapsonderdanen). Zie hiervoor paragraaf 3.4.
 
 N.B. Voor deze bepaling geldt overgangsrecht. Zie de toelichting bij artikel 7 RWN, onder ‘Overgangsrecht’.
 
