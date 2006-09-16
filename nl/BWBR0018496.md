@@ -4,7 +4,7 @@ identifier: "BWBR0018496"
 country: "nl"
 rank: "pbo"
 publication_date: "2006-09-16"
-last_updated: "2005-09-25"
+last_updated: "2006-09-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018496"
 soort: "pbo"
@@ -79,7 +79,7 @@ Besluit:
 
 ##### Artikel 3
 
-1. Ter uitvoering van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0018496&paragraaf=2&artikel=2&z=2005-09-25&g=2005-09-25) doet de kweker of importeur bij het productschap aangifte van de door hem verhandelde, voor zover door hem gekweekte, onderscheidenlijk door hem geïmporteerde bloemkwekerijproducten of geïmporteerd uitgangsmateriaal.
+1. Ter uitvoering van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0018496&paragraaf=2&artikel=2&z=2006-09-16&g=2006-09-16) doet de kweker of importeur bij het productschap aangifte van de door hem verhandelde, voor zover door hem gekweekte, onderscheidenlijk door hem geïmporteerde bloemkwekerijproducten of geïmporteerd uitgangsmateriaal.
 
 2. De opgave als bedoeld in het eerste lid, wordt gedaan op een door het productschap te verstrekken aangifteformulier, met inachtneming van de daarop gestelde vragen en gegeven aanwijzingen.
 
@@ -91,9 +91,9 @@ Besluit:
 
 2. De heffing als bedoeld in het eerste lid, wordt uitgedrukt in een percentage van de omzet en bedraagt voor:
 
-| a. | bloemkwekerijproducten (met uitzondering van bloemzaden): | 1,03%; |
+| a. | bloemkwekerijproducten (met uitzondering van bloemzaden): | 1,01%; |
 | --- | --- | --- |
-| b. | uitgangsmateriaal: | 0,685%,en |
+| b. | uitgangsmateriaal: | 0,665%,en |
 | c. | bloemzaden: | 1,000%. |
 
 Voor kwekers van bloemzaden wordt bij de heffing, bij de berekening en oplegging van de heffing uitgegaan van een veronderstelde omzet van € 3.400 per hectare, welke omzet wordt toegepast naar rato van het areaal van de kweker van bloemzaden.
@@ -114,7 +114,7 @@ ontvangt van het productschap een restitutie ter grootte van de over de oorspron
 
 - b. hij over vorenbedoelde door hem verhandelde bloemkwekerijproducten de vakheffing was verschuldigd.
 
-6. De handelaar die aantoont dat hij via de veiling ingekochte bloemkwekerijproducten via de veiling heeft doorverkocht en dat over die inkoop- en verkoopwaarde vakheffing is betaald, ontvangt van het productschap een rèstitutie over de verkoopwaarde ten hoogste van: 1,03%.
+6. De handelaar die aantoont dat hij via de veiling ingekochte bloemkwekerijproducten via de veiling heeft doorverkocht en dat over die inkoop- en verkoopwaarde vakheffing is betaald, ontvangt van het productschap een rèstitutie over de verkoopwaarde ten hoogste van: 1,01%.
 
 7. Voor de kweker, die aantoont dat hij uitgangsmateriaal heeft verhandeld aan een snijbloemen- of potplantenkweker en waarvoor ten behoeve van de verhandeling extra kosten zijn gemaakt, geldt dat de omzet waarover de vakheffing wordt berekend, wordt verminderd met: 60%.
 
@@ -130,17 +130,17 @@ ontvangt van het productschap een restitutie ter grootte van de over de oorspron
 
 - c. Wanneer het productschap vaststelt dat op jaarbasis de heffingsgrondslag van zelfgekweekte bloemkwekerijproducten (niet zijnde uitgangsmateriaal) hoger is dan € 6.000.000,=, wordt over:
 
-- 1. de eerste € 6.000.000,= het heffingstarief van 1,03% toegepast, en
+- 1. de eerste € 6.000.000,= het heffingstarief van 1,01% toegepast, en
 
-- 2. het bedrag hoger dan € 6.000.000,= het verlaagde heffingstarief van 0,78% toegepast.
+- 2. het bedrag hoger dan € 6.000.000,= het verlaagde heffingstarief van 0,76% toegepast.
 
 - d. Aanvragen voor restitutie moeten worden ingediend binnen één jaar na afloop van het jaar waarover de restitutie wordt gevraagd en vergezeld gaan van een accountantsverklaring.
 
 9. Voor 2006 geldt dat het aan het Hoofdbedrijfschap Agrarische Groothandel Bloemen en Planten (HAGBP) af te dragen bedrag wordt vastgesteld op de som van:
 
-- a. 90% van 11/103 deel van de jaarlijkse opbrengst van de in eerder genoemde verordening bedoelde heffing op het eindproduct;
+- a. 90% van 9/109 deel van de jaarlijkse opbrengst van de in eerder genoemde verordening bedoelde heffing op het eindproduct;
 
-- b. 100% van 11/68,5 deel van de jaarlijkse opbrengst van de in eerder bedoelde heffing op het uitgangsmateriaal.
+- b. 100% van 9/66,5 deel van de jaarlijkse opbrengst van de in eerder bedoelde heffing op het uitgangsmateriaal.
 
 #### § 4. Oplegging en inning
 
@@ -156,11 +156,11 @@ Indien uit de ter beschikking gekomen gegevens blijkt dat de verstrekking van de
 
 ##### Artikel 7
 
-Een kweker, onderscheidenlijk een importeur van bloemkwekerijproducten wordt geacht, indien hij door hem gekweekte, onderscheidenlijk geïmporteerde bloemkwekerijproducten door tussenkomst van een veiling verhandelt, aan zijn verplichtingen als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0018496&paragraaf=2&artikel=2&z=2005-09-25&g=2005-09-25) ten aanzien van de op vorenbedoelde wijze verhandelde producten te hebben voldaan, indien hij de desbetreffende veiling heeft gemachtigd namens hem aan het productschap de door hem verschuldigde heffing te voldoen en deze heffing door het productschap is ontvangen.
+Een kweker, onderscheidenlijk een importeur van bloemkwekerijproducten wordt geacht, indien hij door hem gekweekte, onderscheidenlijk geïmporteerde bloemkwekerijproducten door tussenkomst van een veiling verhandelt, aan zijn verplichtingen als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0018496&paragraaf=2&artikel=2&z=2006-09-16&g=2006-09-16) ten aanzien van de op vorenbedoelde wijze verhandelde producten te hebben voldaan, indien hij de desbetreffende veiling heeft gemachtigd namens hem aan het productschap de door hem verschuldigde heffing te voldoen en deze heffing door het productschap is ontvangen.
 
 ##### Artikel 8
 
-1. De verkoper van bloemkwekerijproducten heeft het recht aan de afnemers van door hem gekweekte bloemkwekerijproducten onderscheidenlijk van door hem rechtstreeks doorverhandelde bloemkwekerijproducten, het hieronder genoemde heffingspercentage van het verkoopbedrag der door hem aan die afnemers verhandelde bloemkwekerijproducten in rekening te brengen van: 0,455%.
+1. De verkoper van bloemkwekerijproducten heeft het recht aan de afnemers van door hem gekweekte bloemkwekerijproducten onderscheidenlijk van door hem rechtstreeks doorverhandelde bloemkwekerijproducten, het hieronder genoemde heffingspercentage van het verkoopbedrag der door hem aan die afnemers verhandelde bloemkwekerijproducten in rekening te brengen van: 0,435%.
 
 2. Indien een verkoper van bloemkwekerijproducten, van het hem in het vorige lid toegekende recht gebruik maakt, zijn de desbetreffende afnemers verplicht het aan hen krachtens het bepaalde in het vorige lid in rekening gebracht, aan die verkoper te voldoen.
 
