@@ -4,7 +4,7 @@ identifier: "BWBR0018498"
 country: "nl"
 rank: "pbo"
 publication_date: "2006-09-17"
-last_updated: "2005-09-25"
+last_updated: "2006-09-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018498"
 soort: "pbo"
@@ -73,14 +73,14 @@ Besluit:
 
 ##### Artikel 3
 
-1. De heffing die de ondernemer is verschuldigd, bestaat uit een basisheffing van € 90, vermeerderd met de som van het bedrag dat wordt verkregen no toepassing van de hierna genoemde heffingspercentages over de hierna genoemde heffingsgrondslagen.
+1. De heffing die de ondernemer is verschuldigd, bestaat uit een basisheffing van € 60, vermeerderd met de som van het bedrag dat wordt verkregen na toepassing van de hierna genoemde heffingspercentages over de hierna genoemde heffingsgrondslagen.
 
-| a. tot en met € 900.000 | : | 0,65%; |
-| --- | --- | --- |
-| b. van € 900.000 tot en met € 1,800.000 | : | 0,5%; |
-| c. vanaf € 1.800.000 | : | 0,3%, |
+| a. | tot en met € 900.000 | : | 0,52%; |
+| --- | --- | --- | --- |
+| b. | van € 900.000 tot en met € 1.800.000,00 | : | 0,4%; |
+| c. | vanaf € 1.800.000,00 | : | 0,24%, |
 
-met dien verstande dat het maximum van de vorenbedoelde som wordt berekend volgens de formule: het maximum is gelijk aan het geldende maximum in het jaar voorafgaande aan dat waarop de heffingsgrondslag betrekking heeft, gedeeld door het indexcijfer van de maand maart van dat voorafgaande jaar, vermenigvuldigd met indexcijfer van de maand maart van het jaar waarop de heffingsgrondslag betrekking heeft en waarbij het maximum voor het jaar 2005 bedraagt € 15.354.
+met dien verstande dat het maximum van de vorenbedoelde som wordt berekend volgens de formule: het maximum is gelijk aan het geldende maximum in het jaar voorafgaande aan dat waarop de heffingsgrondslag betrekking heeft, gedeeld door het indexcijfer van de maand maart van dat voorafgaande jaar, vermenigvuldigd met indexcijfer van de maand maart van het jaar waarop de heffingsgrondslag betrekking heeft en waarbij het maximum voor het jaar 2005 bedraagt € 12.035,00.
 
 2. Voor de toepassing van het eerste lid wordt, indien de betrokken ondernemer in 2005 geen boomkwekerijproducten heeft ingekocht, het inkoopbedrag in dat jaar geacht nul te zijn geweest.
 
@@ -104,11 +104,11 @@ Indien een heffingsplichtige gegevens die hem ten behoeve van de onderhavige ver
 
 3. in afwijking van het eerste lid kan de voorzitter de heffingsplichtige een voorlopige heffing opleggen tot het bedrag waarop de heffing vermoedelijk zal worden vastgesteld. Do voorlopige heffing wordt verrekend met de krachtens deze verordening verschuldigde heffing.
 
-4. Voorschotten als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0018498&paragraaf=5&artikel=10&z=2005-09-25&g=2005-09-25) worden verrekend met de krachtens deze verordening verschuldigde heffing.
+4. Voorschotten als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0018498&paragraaf=5&artikel=10&z=2006-09-17&g=2006-09-17) worden verrekend met de krachtens deze verordening verschuldigde heffing.
 
 ##### Artikel 6
 
-De voorzitter kan, indien hem uit te zijner beschikking komende gegevens blijkt dat de verstrekking van de verstrekking van de gegevens of een raming als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018498&paragraaf=4&artikel=4&z=2005-09-25&g=2005-09-25), niet in overeenstemming is met de werkelijkheid, een opgelegde heffing aan de hand van deze gegevens herzien en opnieuw opleggen.
+De voorzitter kan, indien hem uit te zijner beschikking komende gegevens blijkt dat de verstrekking van de verstrekking van de gegevens of een raming als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018498&paragraaf=4&artikel=4&z=2006-09-17&g=2006-09-17), niet in overeenstemming is met de werkelijkheid, een opgelegde heffing aan de hand van deze gegevens herzien en opnieuw opleggen.
 
 ##### Artikel 7
 
@@ -126,7 +126,7 @@ De voorzitter kan, indien hem uit te zijner beschikking komende gegevens blijkt 
 
 ##### Artikel 8
 
-Aan de heffingsplichtige, die niet of niet geheel binnen de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0018498&paragraaf=4&artikel=7&z=2005-09-25&g=2005-09-25) gestelde termijn heeft betaald, kunnen:
+Aan de heffingsplichtige, die niet of niet geheel binnen de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0018498&paragraaf=4&artikel=7&z=2006-09-17&g=2006-09-17) gestelde termijn heeft betaald, kunnen:
 
 - a. de daaruit voortvloeiende extra kosten van € 22,50 in rekening worden gebracht, alsmede
 
@@ -134,15 +134,15 @@ Aan de heffingsplichtige, die niet of niet geheel binnen de in [artikel 7](https
 
 ##### Artikel 9
 
-De invorderingskosten voortvloeiende uit het niet betalen binnen de gestelde termijn als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0018498&paragraaf=4&artikel=7&z=2005-09-25&g=2005-09-25) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0018498&paragraaf=5&artikel=8&z=2005-09-25&g=2005-09-25), zijn voor rekening en risico van de ondernemer.
+De invorderingskosten voortvloeiende uit het niet betalen binnen de gestelde termijn als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0018498&paragraaf=4&artikel=7&z=2006-09-17&g=2006-09-17) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0018498&paragraaf=5&artikel=8&z=2006-09-17&g=2006-09-17), zijn voor rekening en risico van de ondernemer.
 
 ##### Artikel 10
 
-Indien en voor zover de ondernemer boomkwekerijproducten heeft verhandeld en door de veiling bedragen zijn ingehouden met toepassing van het bepaalde in de [Verordening PT vakheffing bloemkwekerijproducten 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0016957), worden deze bedragen aangemerkt als voorschotten op de ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0018498&paragraaf=2&artikel=2&z=2005-09-25&g=2005-09-25) verschuldigde heffing.
+Indien en voor zover de ondernemer boomkwekerijproducten heeft verhandeld en door de veiling bedragen zijn ingehouden met toepassing van het bepaalde in de [Verordening PT vakheffing bloemkwekerijproducten 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0016957), worden deze bedragen aangemerkt als voorschotten op de ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0018498&paragraaf=2&artikel=2&z=2006-09-17&g=2006-09-17) verschuldigde heffing.
 
 ##### Artikel 11
 
-De voorzitter is belast met de oplegging en inning van de heffingen de daarmee samenhangende kosten als bedoeld in de [artikelen 5 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0018498&paragraaf=4&artikel=5&z=2005-09-25&g=2005-09-25).
+De voorzitter is belast met de oplegging en inning van de heffingen de daarmee samenhangende kosten als bedoeld in de [artikelen 5 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0018498&paragraaf=4&artikel=5&z=2006-09-17&g=2006-09-17).
 
 ##### Artikel 12
 
