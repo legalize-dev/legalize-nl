@@ -4,7 +4,7 @@ identifier: "BWBR0036968"
 country: "nl"
 rank: "amvb"
 publication_date: "2015-08-27"
-last_updated: "2005-12-29"
+last_updated: "2006-09-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036968"
 soort: "AMvB"
@@ -58,7 +58,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VI
 
-Dit onderdeel is nog niet inwerking getreden
+De [Regeling compensatie inkomensgevolgen WIA sector Politie](https://wetten.overheid.nl/jci1.3:c:BWBR0020276&wetgeving) wordt ingetrokken.
 
 ##### Artikel VII
 
