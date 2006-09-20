@@ -4,7 +4,7 @@ identifier: "BWBR0006589"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2005-03-09"
+last_updated: "2006-09-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006589"
 soort: "AMvB"
@@ -53,7 +53,7 @@ Hebben goedgevonden en verstaan:
 
 - a. de ambtenaar van politie, bedoeld in [artikel 3, eerste lid, onder **a** en **c**, en tweede lid, van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=3);
 
-- b. de ambtenaar van politie, bedoeld in [artikel 3, eerste lid, onder **b**, van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=3) voor zover het betreft de[artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=1&artikel=1&z=2005-03-09&g=2005-03-09) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=1&artikel=2&z=2005-03-09&g=2005-03-09), [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=5&z=2005-03-09&g=2005-03-09); In [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=6&z=2005-03-09&g=2005-03-09) van dit besluit wordt onder ambtenaar mede verstaan de ambtenaar van politie, bedoeld in [artikel 3, eerste lid, onder **b**, van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=3), dan wel een andere persoon, voor zover die ambtenaar van politie of die persoon tevens buitengewoon opsporingsambtenaar is en door de korpsbeheerder is belast met de verzorging van ingeslotenen.
+- b. de ambtenaar van politie, bedoeld in [artikel 3, eerste lid, onder **b**, van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=3) voor zover het betreft de[artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=1&artikel=1&z=2006-09-20&g=2006-09-20) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=1&artikel=2&z=2006-09-20&g=2006-09-20), [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=5&z=2006-09-20&g=2006-09-20); In [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=6&z=2006-09-20&g=2006-09-20) van dit besluit wordt onder ambtenaar mede verstaan de ambtenaar van politie, bedoeld in [artikel 3, eerste lid, onder **b**, van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=3), dan wel een andere persoon, voor zover die ambtenaar van politie of die persoon tevens buitengewoon opsporingsambtenaar is en door de korpsbeheerder is belast met de verzorging van ingeslotenen.
 
 - c. degene die is benoemd tot adspirant voor de duur dat hij de praktijkstage volgt;
 
@@ -95,7 +95,9 @@ Hebben goedgevonden en verstaan:
 
 - i. buitengewoon opsporingsambtenaar: de buitengewoon opsporingsambtenaar, bedoeld in [artikel 142, eerste lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=142);
 
-- j. het gebruik van een vuurwapen: het richten, het gericht houden en het daadwerkelijk gebruik van een vuurwapen.
+- j. het gebruik van een vuurwapen: het richten, het gericht houden en het daadwerkelijk gebruik van een vuurwapen;
+
+- k. niet-penetrerende munitie: munitie die is ontworpen om bij het treffen van een persoon niet het lichaam binnen te dringen.
 
 4. In dit besluit wordt onder ingeslotene verstaan degene die rechtens van zijn vrijheid is beroofd. Onder ingeslotene wordt mede verstaan degene die ten behoeve van de hulpverlening aan hem op het politie- of brigadebureau is ondergebracht.
 
@@ -129,7 +131,7 @@ Het gebruik van een geweldmiddel is uitsluitend toegestaan aan een ambtenaar:
 
 2. Het eerste lid is niet van toepassing in het geval de meerdere, bedoeld in het eerste lid, vooraf anders heeft bepaald.
 
-3. Het eerste lid is evenmin van toepassing in een geval als bedoeld in [artikel 10, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=2&artikel=10&z=2005-03-09&g=2005-03-09), voor zover de last redelijkerwijs niet kan worden afgewacht.
+3. Het eerste lid is evenmin van toepassing in een geval als bedoeld in [artikel 10, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=2&artikel=10&z=2006-09-20&g=2006-09-20), voor zover de last redelijkerwijs niet kan worden afgewacht.
 
 ##### Artikel 6
 
@@ -199,7 +201,7 @@ Het gebruik van een geweldmiddel is uitsluitend toegestaan aan een ambtenaar:
 
 ##### Artikel 11
 
-Vervallen
+De [artikelen 7 tot en met 10a](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=2&artikel=7&z=2006-09-20&g=2006-09-20) zijn niet van toepassing op het gebruik en het ter hand nemen van een vuurwapen dat is geladen met niet-penetrerende munitie.
 
 ##### Artikel 12
 
@@ -237,7 +239,7 @@ De ambtenaar waarschuwt onmiddellijk voordat hij gericht pepperspray tegen een p
 
 Pepperspray wordt tegen een persoon per geval ten hoogste twee maal voor de duur van niet langer dan ongeveer een seconde gebruikt en op een afstand van ten minste een meter.
 
-#### § 3. Overige geweldmiddelen
+#### § 2b. Pepperspray
 
 ##### Artikel 13
 
@@ -321,7 +323,7 @@ De ambtenaar die een onderzoek als bedoeld in [artikel 8, derde of vierde lid, v
 
 ##### Artikel 23
 
-De ambtenaar die gebruik heeft gemaakt van handboeien als bedoeld in [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=4&artikel=22&z=2005-03-09&g=2005-03-09), meldt dit onverwijld schriftelijk aan de meerdere, onder vermelding van de redenen die tot het gebruik van handboeien hebben geleid.
+De ambtenaar die gebruik heeft gemaakt van handboeien als bedoeld in [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=4&artikel=22&z=2006-09-20&g=2006-09-20), meldt dit onverwijld schriftelijk aan de meerdere, onder vermelding van de redenen die tot het gebruik van handboeien hebben geleid.
 
 ### Hoofdstuk 4a. Hulpmiddelen ten behoeve van de uitzetting van vreemdelingen
 
@@ -377,13 +379,13 @@ De ambtenaar die gebruik heeft gemaakt van handboeien als bedoeld in [artikel 22
 
 ##### Artikel 30
 
-1. De ambtenaar die een onderzoek als bedoeld in [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=6&paragraaf=2&artikel=28&z=2005-03-09&g=2005-03-09), heeft uitgevoerd, maakt hiervan onverwijld schriftelijk rapport op ten behoeve van de meerdere.
+1. De ambtenaar die een onderzoek als bedoeld in [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=6&paragraaf=2&artikel=28&z=2006-09-20&g=2006-09-20), heeft uitgevoerd, maakt hiervan onverwijld schriftelijk rapport op ten behoeve van de meerdere.
 
 2. De ambtenaar tekent nauwkeurig alle voorwerpen en kledingstukken die hij in bewaring heeft genomen, op. Bij voorwerpen van een geringe omvang en waarde kan worden volstaan met een globale aanduiding.
 
 3. Een afschrift van de aantekening, bedoeld in het tweede lid, wordt door de ingeslotene en de ambtenaar ondertekend en aan de ingeslotene overhandigd.
 
-#### § 3. Permanente camera-observatie
+#### § 1. Algemeen
 
 ##### Artikel 31
 
@@ -423,9 +425,9 @@ De ambtenaar mag aan de arts bij het onderzoek en de behandeling geen beperkinge
 
 ##### Artikel 35
 
-Bij overplaatsing van de ingeslotene geeft de ambtenaar de geneesmiddelen, de registraties, bedoeld in de[artikelen 26, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=6&paragraaf=1&artikel=26&z=2005-03-09&g=2005-03-09), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=6&paragraaf=4&artikel=33&z=2005-03-09&g=2005-03-09) en [34, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=6&paragraaf=4&artikel=34&z=2005-03-09&g=2005-03-09), voor zover die van belang kunnen zijn, en de rapportage van de arts, die bestemd is voor een arts die de behandeling zal overnemen, mee.
+Bij overplaatsing van de ingeslotene geeft de ambtenaar de geneesmiddelen, de registraties, bedoeld in de[artikelen 26, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=6&paragraaf=1&artikel=26&z=2006-09-20&g=2006-09-20), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=6&paragraaf=4&artikel=33&z=2006-09-20&g=2006-09-20) en [34, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=6&paragraaf=4&artikel=34&z=2006-09-20&g=2006-09-20), voor zover die van belang kunnen zijn, en de rapportage van de arts, die bestemd is voor een arts die de behandeling zal overnemen, mee.
 
-#### § 5. Invrijheidstelling
+#### § 3. Permanente camera-observatie
 
 ##### Artikel 36
 
@@ -435,9 +437,9 @@ De ambtenaar zorgt ervoor dat bij de invrijheidstelling van een persoon die zich
 
 ##### Artikel 37
 
-1. Indien Onze Minister van Justitie ingevolge [artikel 8, zevende lid, van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=8), heeft bepaald dat een buitengewoon opsporingsambtenaar bevoegd is tot de uitoefening van de bevoegdheden, bedoeld in het eerste en derde lid van dat artikel, handelt de desbetreffende buitengewoon opsporingsambtenaar overeenkomstig de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=1&artikel=5&z=2005-03-09&g=2005-03-09), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=4&artikel=17&z=2005-03-09&g=2005-03-09), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=4&artikel=19&z=2005-03-09&g=2005-03-09), [20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=3&artikel=20&z=2005-03-09&g=2005-03-09), en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=3&artikel=21&z=2005-03-09&g=2005-03-09) van dit besluit. In [artikel 17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=4&artikel=17&z=2005-03-09&g=2005-03-09), wordt voor «de korpschef» gelezen: de meerdere.
+1. Indien Onze Minister van Justitie ingevolge [artikel 8, zevende lid, van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=8), heeft bepaald dat een buitengewoon opsporingsambtenaar bevoegd is tot de uitoefening van de bevoegdheden, bedoeld in het eerste en derde lid van dat artikel, handelt de desbetreffende buitengewoon opsporingsambtenaar overeenkomstig de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=1&artikel=5&z=2006-09-20&g=2006-09-20), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=4&artikel=17&z=2006-09-20&g=2006-09-20), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=4&artikel=19&z=2006-09-20&g=2006-09-20), [20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=3&artikel=20&z=2006-09-20&g=2006-09-20), en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=3&artikel=21&z=2006-09-20&g=2006-09-20) van dit besluit. In [artikel 17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=4&artikel=17&z=2006-09-20&g=2006-09-20), wordt voor «de korpschef» gelezen: de meerdere.
 
-2. Indien de aanwijzing mede omvat het gebruik van een wapen, een surveillancehond dan wel handboeien handelt de desbetreffende buitengewoon opsporingsambtenaar mede overeenkomstig de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=1&artikel=4&z=2005-03-09&g=2005-03-09), [7, eerste lid, aanhef en onder a en b, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=2&artikel=7&z=2005-03-09&g=2005-03-09), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=2&artikel=10&z=2005-03-09&g=2005-03-09), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=2&artikel=12&z=2005-03-09&g=2005-03-09), [12a](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=2a&artikel=12a&z=2005-03-09&g=2005-03-09), [12b](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=2a&artikel=12b&z=2005-03-09&g=2005-03-09), [12c](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=2a&artikel=12c&z=2005-03-09&g=2005-03-09), [15, eerste lid, aanhef en onder a, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=3&artikel=15&z=2005-03-09&g=2005-03-09), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=3&artikel=16&z=2005-03-09&g=2005-03-09) respectievelijk [22](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=4&artikel=22&z=2005-03-09&g=2005-03-09) en [23](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=4&artikel=23&z=2005-03-09&g=2005-03-09) van dit besluit.
+2. Indien de aanwijzing mede omvat het gebruik van een wapen, een surveillancehond dan wel handboeien handelt de desbetreffende buitengewoon opsporingsambtenaar mede overeenkomstig de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=1&artikel=4&z=2006-09-20&g=2006-09-20), [7, eerste lid, aanhef en onder a en b, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=2&artikel=7&z=2006-09-20&g=2006-09-20), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=2&artikel=10&z=2006-09-20&g=2006-09-20), [10a](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=2&artikel=10a&z=2006-09-20&g=2006-09-20), [12a](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=2b&artikel=12a&z=2006-09-20&g=2006-09-20), [12b](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=2b&artikel=12b&z=2006-09-20&g=2006-09-20), [12c](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=2b&artikel=12c&z=2006-09-20&g=2006-09-20), [15, eerste lid, aanhef en onder a, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=3&artikel=15&z=2006-09-20&g=2006-09-20), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=3&artikel=16&z=2006-09-20&g=2006-09-20) respectievelijk [22](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=4&artikel=22&z=2006-09-20&g=2006-09-20) en [23](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=4&artikel=23&z=2006-09-20&g=2006-09-20) van dit besluit.
 
 3. Voor de toepassing van het eerste en tweede lid wordt verstaan onder:
 
@@ -483,7 +485,7 @@ Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in 
 
 ##### Artikel 23b
 
-1. De ambtenaar die ten aanzien van een vreemdeling die wordt uitgezet gebruik heeft gemaakt van een hulpmiddel ten behoeve van uitzetting als bedoeld in [artikel 23a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=4a&artikel=23a&z=2005-03-09&g=2005-03-09), meldt dit onverwijld schriftelijk aan de meerdere, onder vermelding van de aard van het hulpmiddel, de redenen die tot het gebruik hebben geleid en de daaruit voortvloeiende gevolgen.
+1. De ambtenaar die ten aanzien van een vreemdeling die wordt uitgezet gebruik heeft gemaakt van een hulpmiddel ten behoeve van uitzetting als bedoeld in [artikel 23a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=4a&artikel=23a&z=2006-09-20&g=2006-09-20), meldt dit onverwijld schriftelijk aan de meerdere, onder vermelding van de aard van het hulpmiddel, de redenen die tot het gebruik hebben geleid en de daaruit voortvloeiende gevolgen.
 
 2. De meerdere draagt zorg voor registratie van de melding, bedoeld in het eerste lid.
 
@@ -491,7 +493,7 @@ Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in 
 
 #### § 2. In bewaring nemen van kleding en voorwerpen
 
-#### § 3. Permanente camera-observatie
+#### § 2. In bewaring nemen van kleding en voorwerpen
 
 #### § 4. Medische bijstand
 
@@ -499,6 +501,56 @@ Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in 
 
 ### Hoofdstuk 7. Buitengewoon opsporingsambtenaar
 
+### Hoofdstuk 7. Buitengewoon opsporingsambtenaar
+
+Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
+
+##### Artikel 10a
+
+1. De ambtenaar waarschuwt onmiddellijk voordat hij gericht met een vuurwapen, niet zijnde een vuurwapen waarmee lange afstandsprecisievuur kan worden afgegeven, zal schieten, met luide stem of op andere niet mis te verstane wijze dat geschoten zal worden, indien niet onverwijld het gegeven bevel wordt opgevolgd. Deze waarschuwing, die zo nodig vervangen kan worden door een waarschuwingsschot, blijft slechts achterwege, wanneer de omstandigheden de waarschuwing niet toelaten.
+
+2. Een waarschuwingsschot moet op zodanige wijze worden gegeven, dat gevaar voor personen of zaken zoveel mogelijk wordt vermeden.
+
+#### § 2a. Niet-penetrerende munitie
+
+##### Artikel 11a
+
+Het gebruik van een vuurwapen dat is geladen met niet-penetrerende munitie is slechts geoorloofd:
+
+- a. om een persoon aan te houden ten aanzien van wie redelijkerwijs mag worden aangenomen dat hij een voor onmiddellijk gebruik gereed zijnd wapen bij zich heeft en dit tegen personen zal gebruiken; of
+
+- b. om een persoon aan te houden die zich aan zijn aanhouding, voorgeleiding of andere rechtmatige vrijheidsbeneming tracht te onttrekken of heeft onttrokken.
+
+##### Artikel 11b
+
+De ambtenaar waarschuwt onmiddellijk voordat hij gericht met een vuurwapen dat is geladen met niet-penetrerende munitie zal schieten, met luide stem of op andere niet mis te verstane wijze dat geschoten zal worden, indien niet onverwijld het gegeven bevel wordt opgevolgd. Deze waarschuwing blijft slechts achterwege, wanneer de omstandigheden de waarschuwing niet toelaten.
+
+##### Artikel 11c
+
+De [artikelen 11a](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=2a&artikel=11a&z=2006-09-20&g=2006-09-20) en [11b](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=2a&artikel=11b&z=2006-09-20&g=2006-09-20) zijn van overeenkomstige toepassing indien de niet-penetrerende munitie wordt afgegeven met een ander hulpmiddel dan een vuurwapen.
+
+#### § 3. Overige geweldmiddelen
+
+#### § 4. Melding geweld
+
+### Hoofdstuk 3. Veiligheidsfouillering
+
+### Hoofdstuk 4. Handboeien
+
+### Hoofdstuk 4a. Hulpmiddelen ten behoeve van de uitzetting van vreemdelingen
+
+### Hoofdstuk 5. Hulpverlening
+
+### Hoofdstuk 6. Maatregelen jegens ingeslotenen
+
+#### § 4. Medische bijstand
+
+#### § 5. Invrijheidstelling
+
 ### Hoofdstuk 8. Slotbepalingen
+
+##### Artikel 39a
+
+Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties zendt in overeenstemming met Onze Minister van Justitie binnen drie jaar na de inwerkingtreding van het besluit van 25 augustus 2006 tot wijziging van de Ambtsinstructie voor de politie, de Koninklijke marechaussee en de buitengewoon opsporingsambtenaar in verband met de invoering van niet-penetrerende munitie (Stb. 2006, 407) aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van de [artikelen 11 tot en met 11c](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=2a&artikel=11&z=2006-09-20&g=2006-09-20) in de praktijk.
 
 Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
