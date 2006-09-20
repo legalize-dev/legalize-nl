@@ -4,7 +4,7 @@ identifier: "BWBR0007325"
 country: "nl"
 rank: "amvb"
 publication_date: "2009-05-01"
-last_updated: "2002-07-01"
+last_updated: "2006-09-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007325"
 soort: "AMvB"
@@ -58,7 +58,7 @@ De ambtenaren van de rijksbelastingdienst, die zijn belast met het toezicht op d
 
 ##### Artikel 3
 
-1. Met de opsporing van de bij de [artikelen 175 tot en met 177 van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=175) strafbaar gestelde feiten zijn onverminderd [artikel 141 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141), belast de bij besluit van Onze Minister aangewezen ambtenaren van de divisie Vervoer van de Inspectie Verkeer en Waterstaat.
+1. Met de opsporing van de bij de [artikelen 175 tot en met 177 van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=175) strafbaar gestelde feiten zijn onverminderd [artikel 141 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141), belast de bij besluit van Onze Minister aangewezen ambtenaren van de Inspectie Verkeer en Waterstaat.
 
 2. Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de Staatscourant.
 
