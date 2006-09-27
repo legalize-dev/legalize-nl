@@ -4,7 +4,7 @@ identifier: "BWBR0019806"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-01"
-last_updated: "2006-05-25"
+last_updated: "2006-09-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019806"
 soort: "ministeriele-regeling"
@@ -67,7 +67,7 @@ De commissie brengt over elk kalenderjaar aan de Minister van Verkeer en Waterst
 
 ##### Artikel 4
 
-Risicoanalyses, bedoeld in [artikel 6, eerste lid, eerste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019516&artikel=6), worden uitgevoerd overeenkomstig het RWS-QRA-model voor wegtunnels, versie 1.0 (Rijkswaterstaat, Bouwdienst, registratienummer 4818-2006-0091).
+Risicoanalyses, bedoeld in [artikel 6, eerste lid, eerste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019516&artikel=6), worden uitgevoerd overeenkomstig het RWS-QRA-model voor wegtunnels, versie 1.0 (Rijkswaterstaat, Bouwdienst, registratienummer 4818-2006-0091) en de Leidraad Scenarioanalyse Ongevallen in Tunnels, deel 1: wegtunnels, versie mei 2004 (ISBN 90-77374-03-5).
 
 ##### Artikel 5
 
@@ -85,11 +85,11 @@ Het tunnelveiligheidsplan, bedoeld in [artikel 6, tweede lid, van de wet](https:
 
 - c. een beschrijving van de wijze van voortdurende terugkoppeling van ervaring ten behoeve van de verslaglegging en analyse van significante voorvallen;
 
-- d. een beschrijving van de uitgangspunten en randvoorwaarden bij het gebruik van de tunnel, zoals aangegeven in de leidraad, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&artikel=5&z=2006-05-25&g=2006-05-25).
+- d. een beschrijving van de uitgangspunten en randvoorwaarden bij het gebruik van de tunnel, zoals aangegeven in de leidraad, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&artikel=5&z=2006-09-27&g=2006-09-27).
 
 ##### Artikel 7
 
-De veiligheidsbeambte werkt mee aan de afstemming tussen het calamiteitenbestrijdingsplan, bedoeld in [artikel 6, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&artikel=6&z=2006-05-25&g=2006-05-25), en de aanvalsplannen van de hulpverleningsdiensten. Hij neemt kennis van de rampbestrijdingsplannen van de desbetreffende gemeenten, voor zover de tunnel betreffende.
+De veiligheidsbeambte werkt mee aan de afstemming tussen het calamiteitenbestrijdingsplan, bedoeld in [artikel 6, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&artikel=6&z=2006-09-27&g=2006-09-27), en de aanvalsplannen van de hulpverleningsdiensten. Hij neemt kennis van de rampbestrijdingsplannen van de desbetreffende gemeenten, voor zover de tunnel betreffende.
 
 ##### Artikel 8
 
@@ -139,7 +139,7 @@ De veiligheidsbeambte controleert regelmatig of de tunnelconstructies en -voorzi
 
 ##### Artikel 12
 
-1. Het tunnelveiligheidsdossier bevat alle voor de veiligheid betreffende de tunnel van belang zijnde gegevens en oorspronkelijke bescheiden, alsmede de desbetreffende digitale documenten, waartoe in elk geval behoren de documenten, bedoeld in de [artikelen 2 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&artikel=2&z=2006-05-25&g=2006-05-25), en de documenten betreffende het bepaalde in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&artikel=11&z=2006-05-25&g=2006-05-25), met inbegrip van latere wijzigingen daarvan, alsmede:
+1. Het tunnelveiligheidsdossier bevat alle voor de veiligheid betreffende de tunnel van belang zijnde gegevens en oorspronkelijke bescheiden, alsmede de desbetreffende digitale documenten, waartoe in elk geval behoren de documenten, bedoeld in de [artikelen 2 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&artikel=2&z=2006-09-27&g=2006-09-27), en de documenten betreffende het bepaalde in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&artikel=11&z=2006-09-27&g=2006-09-27), met inbegrip van latere wijzigingen daarvan, alsmede:
 
 - a. de planologische besluiten ten aanzien van de tunnel;
 
