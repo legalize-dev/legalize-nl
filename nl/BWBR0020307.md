@@ -239,9 +239,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 Deze regeling wordt aangehaald als: Klachtenregeling Rijksrecherche.
 
 Deze regeling zal met toelichting worden geplaatst in de Staatscourant. Van de plaatsing wordt mededeling gedaan in het Algemeen Politieblad.
-
-##### Artikel 23a
-
-Deze regeling berust op [artikel 68, eerste lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=68).
-
-Deze regeling zal met toelichting worden geplaatst in de Staatscourant. Van de plaatsing wordt mededeling gedaan in het Algemeen Politieblad.
