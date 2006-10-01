@@ -4,7 +4,7 @@ identifier: "BWBR0010710"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-04-01"
-last_updated: "2006-03-03"
+last_updated: "2006-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010710"
 soort: "ministeriele-regeling"
@@ -90,7 +90,7 @@ Bij afwezigheid of verhindering van een gevolmachtigde wordt, voor de duur van d
 
 ##### Artikel 8
 
-De Secretaris-Generaal heeft volmacht ten aanzien van alle rechtshandelingen met uitsluiting van de rechtshandelingen die ingevolge [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=4&artikel=11&z=2006-03-03&g=2006-03-03) door de Minister worden verricht.
+De Secretaris-Generaal heeft volmacht ten aanzien van alle rechtshandelingen met uitsluiting van de rechtshandelingen die ingevolge [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=4&artikel=11&z=2006-03-03&g=2006-10-01) door de Minister worden verricht.
 
 ##### Artikel 9
 
@@ -142,35 +142,35 @@ De plaatsvervangend Secretaris-Generaal heeft volmacht ten aanzien van de rechts
 
 ##### Artikel 12
 
-1. In afwijking van [artikel 10, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=3&artikel=10&z=2006-03-03&g=2006-03-03) worden overeenkomsten met betrekking tot de verwerving van goederen en diensten waarvoor op basis van de [Richtlijnen 93/36/EEG](31993L0036) en [92/50/EEG](31992L0050) een plicht tot Europees aanbesteden geldt, gesloten door de functionarissen, genoemd in [artikel 10, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=3&artikel=10&z=2006-03-03&g=2006-03-03), tezamen met de Coördinerend Directeur Inkoop.
+1. In afwijking van [artikel 10, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=3&artikel=10&z=2006-03-03&g=2006-10-01) worden overeenkomsten met betrekking tot de verwerving van goederen en diensten waarvoor op basis van de [Richtlijnen 93/36/EEG](31993L0036) en [92/50/EEG](31992L0050) een plicht tot Europees aanbesteden geldt, gesloten door de functionarissen, genoemd in [artikel 10, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=3&artikel=10&z=2006-03-03&g=2006-10-01), tezamen met de Coördinerend Directeur Inkoop.
 
-2. In afwijking van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=3&artikel=10&z=2006-03-03&g=2006-03-03) worden raamovereenkomsten met betrekking tot de verwerving van goederen en diensten waarvoor op basis van de [Richtlijnen 93/36/EEG](31993L0036) en [92/50/EEG](31992L0050) een plicht tot Europees aanbesteden geldt, gesloten door de Coördinerend Directeur Inkoop tezamen met de Directeur Facilitaire Dienst, of, wanneer het een raamovereenkomst op het werkterrein van één of enkele functionarissen, genoemd in [artikel 10, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=3&artikel=10&z=2006-03-03&g=2006-03-03), betreft, tezamen met de betrokken functionaris of functionarissen.
+2. In afwijking van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=3&artikel=10&z=2006-03-03&g=2006-10-01) worden raamovereenkomsten met betrekking tot de verwerving van goederen en diensten waarvoor op basis van de [Richtlijnen 93/36/EEG](31993L0036) en [92/50/EEG](31992L0050) een plicht tot Europees aanbesteden geldt, gesloten door de Coördinerend Directeur Inkoop tezamen met de Directeur Facilitaire Dienst, of, wanneer het een raamovereenkomst op het werkterrein van één of enkele functionarissen, genoemd in [artikel 10, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=3&artikel=10&z=2006-03-03&g=2006-10-01), betreft, tezamen met de betrokken functionaris of functionarissen.
 
-3. De Coördinerend Directeur Inkoop heeft tevens volmacht voor het sluiten van overeenkomsten met betrekking tot de verwerving van goederen en diensten op het werkterrein van de functionarissen, genoemd in [artikel 10, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=3&artikel=10&z=2006-03-03&g=2006-03-03), mits hij daartoe van hen opdracht krijgt.
+3. De Coördinerend Directeur Inkoop heeft tevens volmacht voor het sluiten van overeenkomsten met betrekking tot de verwerving van goederen en diensten op het werkterrein van de functionarissen, genoemd in [artikel 10, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=3&artikel=10&z=2006-03-03&g=2006-10-01), mits hij daartoe van hen opdracht krijgt.
 
 4. Het eerste lid geldt niet voor nadere overeenkomsten op basis van een raamovereenkomst.
 
-5. Het tweede lid geldt niet voor raamovereenkomsten welke uitsluitend betrekking hebben op het werkterrein van één van de functionarissen, genoemd in [artikel 10, eerste lid, onder a tot en met m](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=3&artikel=10&z=2006-03-03&g=2006-03-03).
+5. Het tweede lid geldt niet voor raamovereenkomsten welke uitsluitend betrekking hebben op het werkterrein van één van de functionarissen, genoemd in [artikel 10, eerste lid, onder a tot en met m](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=3&artikel=10&z=2006-03-03&g=2006-10-01).
 
 ##### Artikel 13
 
-1. In afwijking van de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=3&artikel=10&z=2006-03-03&g=2006-03-03) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=4&artikel=12&z=2006-03-03&g=2006-03-03) heeft de Directeur Facilitaire Dienst volmacht om overeenkomsten te sluiten waarbij bepaalde, door de Secretaris-Generaal aangewezen, categorieën goederen en diensten worden verworven.
+1. In afwijking van de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=3&artikel=10&z=2006-03-03&g=2006-10-01) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=4&artikel=12&z=2006-03-03&g=2006-10-01) heeft de Directeur Facilitaire Dienst volmacht om overeenkomsten te sluiten waarbij bepaalde, door de Secretaris-Generaal aangewezen, categorieën goederen en diensten worden verworven.
 
-2. In afwijking van het eerste lid hebben de Directeur Facilitaire Dienst en de Coördinerend Directeur Inkoop tezamen volmacht met betrekking tot overeenkomsten als bedoeld in [artikel 12, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=4&artikel=12&z=2006-03-03&g=2006-03-03), waarbij bepaalde, met toepassing van het eerste lid aangewezen goederen en diensten worden verworven.
+2. In afwijking van het eerste lid hebben de Directeur Facilitaire Dienst en de Coördinerend Directeur Inkoop tezamen volmacht met betrekking tot overeenkomsten als bedoeld in [artikel 12, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=4&artikel=12&z=2006-03-03&g=2006-10-01), waarbij bepaalde, met toepassing van het eerste lid aangewezen goederen en diensten worden verworven.
 
-3. De Coördinerend Directeur Inkoop heeft tevens volmacht voor het sluiten van overeenkomsten met betrekking tot de verwerving van deze goederen en diensten op het werkterrein van de functionarissen, genoemd in [artikel 10, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=3&artikel=10&z=2006-03-03&g=2006-03-03), mits hij daartoe van hen opdracht krijgt.
+3. De Coördinerend Directeur Inkoop heeft tevens volmacht voor het sluiten van overeenkomsten met betrekking tot de verwerving van deze goederen en diensten op het werkterrein van de functionarissen, genoemd in [artikel 10, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=3&artikel=10&z=2006-03-03&g=2006-10-01), mits hij daartoe van hen opdracht krijgt.
 
 4. Het eerste en het tweede lid gelden niet voor nadere overeenkomsten op basis van een raamovereenkomst.
 
-5. Het eerste lid geldt niet voor overeenkomsten welke uitsluitend betrekking hebben op het werkterrein van één van de functionarissen, genoemd in [artikel 10, eerste lid, onder a tot en met m](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=3&artikel=10&z=2006-03-03&g=2006-03-03).
+5. Het eerste lid geldt niet voor overeenkomsten welke uitsluitend betrekking hebben op het werkterrein van één van de functionarissen, genoemd in [artikel 10, eerste lid, onder a tot en met m](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=3&artikel=10&z=2006-03-03&g=2006-10-01).
 
 ##### Artikel 14
 
-In afwijking van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=3&artikel=10&z=2006-03-03&g=2006-03-03) wordt uitsluitend aan de Directeur Financieel-Economische Zaken en door deze aan te wijzen kasbeheerders volmacht verleend om bankrekeningen te openen, te wijzigen en op te heffen.
+In afwijking van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=3&artikel=10&z=2006-03-03&g=2006-10-01) wordt uitsluitend aan de Directeur Financieel-Economische Zaken en door deze aan te wijzen kasbeheerders volmacht verleend om bankrekeningen te openen, te wijzigen en op te heffen.
 
 ##### Artikel 15
 
-In afwijking van [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=3&artikel=10&z=2006-03-03&g=2006-03-03), wordt aan de Directeur Curatieve Zorg volmacht verleend tot het aangaan van borgtochtovereenkomsten uit hoofde van de Garantieregeling Inrichtingen voor Gezondheidszorg 1958, de Rijksregeling dagverblijven voor gehandicapten (Stcrt. 1971, 64) en de Rijksregeling gezinsvervangende tehuizen voor gehandicapten (Stcrt. 1971, 254).
+In afwijking van [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=3&artikel=10&z=2006-03-03&g=2006-10-01), wordt aan de Directeur Curatieve Zorg volmacht verleend tot het aangaan van borgtochtovereenkomsten uit hoofde van de Garantieregeling Inrichtingen voor Gezondheidszorg 1958, de Rijksregeling dagverblijven voor gehandicapten (Stcrt. 1971, 64) en de Rijksregeling gezinsvervangende tehuizen voor gehandicapten (Stcrt. 1971, 254).
 
 ### Hoofdstuk 5. Ondervolmacht
 
@@ -178,11 +178,11 @@ In afwijking van [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BW
 
 1. De directeuren van beleidsdirecties en stafeenheden zijn bevoegd ondervolmacht te verlenen aan de directeur van een facilitaire eenheid.
 
-2. De functionarissen genoemd in [artikel 10, eerste lid, onder a tot en met m](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=3&artikel=10&z=2006-03-03&g=2006-03-03), kunnen volmacht verlenen:
+2. De functionarissen genoemd in [artikel 10, eerste lid, onder a tot en met m](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=3&artikel=10&z=2006-03-03&g=2006-10-01), kunnen volmacht verlenen:
 
-- a. tot een bedrag van € 25.000 aan anderen dan de in [artikel 10, eerste lid, onder m](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=3&artikel=10&z=2006-03-03&g=2006-03-03), genoemde hoofden;
+- a. tot een bedrag van € 25.000 aan anderen dan de in [artikel 10, eerste lid, onder m](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=3&artikel=10&z=2006-03-03&g=2006-10-01), genoemde hoofden;
 
-- b. in bijzondere gevallen tot een bedrag hoger dan € 25.000, maar niet hoger dan € 100.000, aan de in [artikel 10, eerste lid, onder m](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=3&artikel=10&z=2006-03-03&g=2006-03-03), genoemde hoofden en de onder a van dit lid bedoelde functionarissen.
+- b. in bijzondere gevallen tot een bedrag hoger dan € 25.000, maar niet hoger dan € 100.000, aan de in [artikel 10, eerste lid, onder m](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=3&artikel=10&z=2006-03-03&g=2006-10-01), genoemde hoofden en de onder a van dit lid bedoelde functionarissen.
 
 3. Ondervolmacht kan hetzij algemeen hetzij voor een bepaald geval verleend worden.
 
@@ -194,7 +194,7 @@ In afwijking van [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BW
 
 ##### Artikel 17
 
-1. Onverminderd [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=4&artikel=11&z=2006-03-03&g=2006-03-03) kan de Secretaris-Generaal in het kader van een bepaald project en in andere bijzondere gevallen naast of in plaats van de op grond van de [Hoofdstukken 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=3&z=2006-03-03&g=2006-03-03), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=4&z=2006-03-03&g=2006-03-03) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=5&z=2006-03-03&g=2006-03-03) bevoegde functionarissen aan anderen de bevoegdheid verlenen in naam van de Minister privaatrechtelijke rechtshandelingen te verrichten.
+1. Onverminderd [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=4&artikel=11&z=2006-03-03&g=2006-10-01) kan de Secretaris-Generaal in het kader van een bepaald project en in andere bijzondere gevallen naast of in plaats van de op grond van de [Hoofdstukken 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=3&z=2006-03-03&g=2006-10-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=4&z=2006-03-03&g=2006-10-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=5&z=2006-03-03&g=2006-10-01) bevoegde functionarissen aan anderen de bevoegdheid verlenen in naam van de Minister privaatrechtelijke rechtshandelingen te verrichten.
 
 2. Bijzondere ondervolmacht aan personen die geen ambtenaar zijn, wordt slechts verleend voor zover daartoe dwingende redenen zijn.
 
