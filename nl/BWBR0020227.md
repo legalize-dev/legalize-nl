@@ -223,5 +223,3 @@ Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat.
 ## Bijlage 15
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de bijlagen 1 tot en met 6 die ter inzage worden gelegd bij het Ministerie van Verkeer en Waterstaat te Den Haag.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de bijlagen 1 tot en met 6 die ter inzage worden gelegd bij het Ministerie van Verkeer en Waterstaat te Den Haag.
