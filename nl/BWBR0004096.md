@@ -4,7 +4,7 @@ identifier: "BWBR0004096"
 country: "nl"
 rank: "amvb"
 publication_date: "2013-06-01"
-last_updated: "2006-09-30"
+last_updated: "2006-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004096"
 soort: "AMvB"
@@ -56,19 +56,19 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 2
 
-Opeenvolgend verlies van arbeidsuren als bedoeld in [artikel 1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004096&artikel=1&z=2006-09-30&g=2006-09-30), wordt op verzoek van de werknemer opgeteld tot één verlies van arbeidsuren tot en met het moment dat het opeenvolgend verlies van arbeidsuren totaal ten minste vijf of ten minste de helft van het aantal arbeidsuren per kalenderweek voorafgaande aan het eerste verlies van arbeidsuren bedraagt en wordt vanaf dat moment beschouwd als een verlies van ten minste vijf of ten minste de helft van het aantal arbeidsuren.
+Opeenvolgend verlies van arbeidsuren als bedoeld in [artikel 1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004096&artikel=1&z=2006-10-01&g=2006-10-01), wordt op verzoek van de werknemer opgeteld tot één verlies van arbeidsuren tot en met het moment dat het opeenvolgend verlies van arbeidsuren totaal ten minste vijf of ten minste de helft van het aantal arbeidsuren per kalenderweek voorafgaande aan het eerste verlies van arbeidsuren bedraagt en wordt vanaf dat moment beschouwd als een verlies van ten minste vijf of ten minste de helft van het aantal arbeidsuren.
 
 ##### Artikel 3
 
-1. Het UWV telt, met inachtneming van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004096&artikel=2&z=2006-09-30&g=2006-09-30), opeenvolgend verlies van arbeidsuren als bedoeld in [artikel 1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0004096&artikel=1&z=2006-09-30&g=2006-09-30), voor zover dit betrekking heeft op een dienstbetrekking of op een of meer dienstbetrekkingen waarvoor eerstgenoemde dienstbetrekking in de plaats is gekomen samen tot één verlies van arbeidsuren.
+1. Het UWV telt, met inachtneming van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004096&artikel=2&z=2006-10-01&g=2006-10-01), opeenvolgend verlies van arbeidsuren als bedoeld in [artikel 1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0004096&artikel=1&z=2006-10-01&g=2006-10-01), voor zover dit betrekking heeft op een dienstbetrekking of op een of meer dienstbetrekkingen waarvoor eerstgenoemde dienstbetrekking in de plaats is gekomen samen tot één verlies van arbeidsuren.
 
 2. Toepassing van het eerste lid brengt geen wijziging in de dag waarop recht op uitkering ontstaat.
 
-3. In afwijking van het eerste lid worden opeenvolgende verliezen van arbeidsuren niet tot één verlies van arbeidsuren samengeteld indien het ene verlies leidt of heeft geleid tot het ontstaan van een recht op minimumloongerelateerde uitkering ingevolge [hoofdstuk IIb van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIB), en het andere tot het ontstaan van een recht op een uitkering ingevolge [hoofdstuk IIa van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA).
+3. In afwijking van het eerste lid worden opeenvolgende verliezen van arbeidsuren niet tot één verlies van arbeidsuren samengeteld indien het ene verlies leidt of heeft geleid tot het ontstaan van een recht op minimumloongerelateerde uitkering ingevolge [hoofdstuk IIb van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIB), en het andere tot het ontstaan van een recht op een uitkering ingevolge [hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=II) of [IIa van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIA).
 
 ##### Artikel 4
 
-1. Het verlies van arbeidsuren, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004096&artikel=1&z=2006-09-30&g=2006-09-30), dat zich voordoet in een kalenderweek gelegen na de dag waarop zich een eerder verlies van arbeidsuren voordoet, wordt berekend door het aantal arbeidsuren in die kalenderweek in mindering te brengen op het gemiddeld aantal arbeidsuren in de kalenderweken van het voorgaande verlies tot en met de kalenderweek voorafgaande aan die waarin het volgend verlies plaatsvindt.
+1. Het verlies van arbeidsuren, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004096&artikel=1&z=2006-10-01&g=2006-10-01), dat zich voordoet in een kalenderweek gelegen na de dag waarop zich een eerder verlies van arbeidsuren voordoet, wordt berekend door het aantal arbeidsuren in die kalenderweek in mindering te brengen op het gemiddeld aantal arbeidsuren in de kalenderweken van het voorgaande verlies tot en met de kalenderweek voorafgaande aan die waarin het volgend verlies plaatsvindt.
 
 2. Indien een opgeteld verlies van arbeidsuren, vermeerderd met het resterend aantal arbeidsuren groter is dan het aantal arbeidsuren voorafgaand aan een eerder verlies van arbeidsuren, wordt de omvang van het laatste verlies zodanig vastgesteld dat het opgetelde verlies, vermeerderd met het resterend aantal arbeidsuren, gelijk is aan het aantal arbeidsuren voorafgaande aan het eerdere verlies van arbeidsuren.
 
