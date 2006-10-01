@@ -4,7 +4,7 @@ identifier: "BWBR0008871"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2002-02-03"
+last_updated: "2006-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008871"
 soort: "ministeriele-regeling"
@@ -78,7 +78,7 @@ De volgende personen of groepen van personen zijn, uit hoofde van hun bijzondere
 
 - n. de voorzitters en leden van besturen van de openbare lichamen voor beroep en bedrijf, bedoeld in [artikel 134 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=134);
 
-- o. de leden van het Centraal Bestuur voor de Arbeidsvoorziening, genoemd in [artikel 1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0008871&artikel=1&z=2002-02-03&g=2002-02-03), en de voorzitter en de leden van een Regionaal Bestuur voor de Arbeidsvoorziening genoemd in [artikel 1, onderdeel c, van de Arbeidsvoorzieningswet 1996](https://wetten.overheid.nl/jci1.3:c:BWBR0008367&artikel=1) en
+- o. de leden van het Centraal Bestuur voor de Arbeidsvoorziening, genoemd in [artikel 1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0008871&artikel=1&z=2002-02-03&g=2006-10-01), en de voorzitter en de leden van een Regionaal Bestuur voor de Arbeidsvoorziening genoemd in [artikel 1, onderdeel c, van de Arbeidsvoorzieningswet 1996](https://wetten.overheid.nl/jci1.3:c:BWBR0008367&artikel=1) en
 
 - p. de leden van het bestuur van het FAOP.
 
@@ -88,7 +88,7 @@ Het bestuur van de Stichting Pensioen-fonds ABP kan nadere voorschriften geven v
 
 ##### Artikel 3
 
-1. De persoon die op grond van [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008871&artikel=4&z=2002-02-03&g=2002-02-03), van de Regeling beperking van het zijn van overheidswerknemer in de zin van de Wet privatisering ABP, zoals die luidde voor 1 september 1997, overheidswerknemer in de zin van de [Wet privatisering ABP](https://wetten.overheid.nl/jci1.3:c:BWBR0007791) is, blijft overheidswerknemer zolang die persoon zonder onderbreking van het dienstverband of de aanstelling de betrekking vervult die hij binnen de periode na 31 december 1995 tot 7 augustus 1996 vervulde en die op grond van deze regeling wordt uitgesloten.
+1. De persoon die op grond van [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008871&artikel=4&z=2002-02-03&g=2006-10-01), van de Regeling beperking van het zijn van overheidswerknemer in de zin van de Wet privatisering ABP, zoals die luidde voor 1 september 1997, overheidswerknemer in de zin van de [Wet privatisering ABP](https://wetten.overheid.nl/jci1.3:c:BWBR0007791) is, blijft overheidswerknemer zolang die persoon zonder onderbreking van het dienstverband of de aanstelling de betrekking vervult die hij binnen de periode na 31 december 1995 tot 7 augustus 1996 vervulde en die op grond van deze regeling wordt uitgesloten.
 
 2. De persoon die op 31 augustus 1997 de functie vervult van voorzitter van het bestuur van de Stichting Pensioen-fonds ABP blijft overheidswerknemer zolang hij die functie na die datum zonder onderbreking blijft vervullen.
 
@@ -98,11 +98,11 @@ De Regeling beperking van het zijn van overheidswerknemer in de zin van de Wet p
 
 ##### Artikel 5
 
-1. Deze regeling treedt, met uitzondering van [artikel 1, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0008871&artikel=1&z=2002-02-03&g=2002-02-03), in werking met ingang van 1 september 1997 en werkt met betrekking tot [artikel 1, onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0008871&artikel=1&z=2002-02-03&g=2002-02-03), terug tot en met 1 maart 1997.
+1. Deze regeling treedt, met uitzondering van [artikel 1, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0008871&artikel=1&z=2002-02-03&g=2006-10-01), in werking met ingang van 1 september 1997 en werkt met betrekking tot [artikel 1, onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0008871&artikel=1&z=2002-02-03&g=2006-10-01), terug tot en met 1 maart 1997.
 
-2. [Artikel 1, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0008871&artikel=1&z=2002-02-03&g=2002-02-03), van deze regeling treedt in werking met ingang van 1 januari 1998. Met ingang van 1 januari 1998 is [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008871&artikel=3&z=2002-02-03&g=2002-02-03), van deze regeling niet van toepassing op personen bedoeld in [artikel 1, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0008871&artikel=1&z=2002-02-03&g=2002-02-03) van de Regeling beperking van het zijn van overheidswerknemer in de zin van de Wet privatisering ABP, zoals die luidde voor 1 september 1997.
+2. [Artikel 1, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0008871&artikel=1&z=2002-02-03&g=2006-10-01), van deze regeling treedt in werking met ingang van 1 januari 1998. Met ingang van 1 januari 1998 is [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008871&artikel=3&z=2002-02-03&g=2006-10-01), van deze regeling niet van toepassing op personen bedoeld in [artikel 1, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0008871&artikel=1&z=2002-02-03&g=2006-10-01) van de Regeling beperking van het zijn van overheidswerknemer in de zin van de Wet privatisering ABP, zoals die luidde voor 1 september 1997.
 
-3. De eerste volzin van [artikel 1 en de onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0008871&artikel=1&z=2002-02-03&g=2002-02-03) van de Regeling beperking van het zijn van overheidswerknemer in de zin van de Wet privatisering ABP, zoals die luidde voor 1 september 1997, worden ingetrokken met ingang van 1 januari 1998.
+3. De eerste volzin van [artikel 1 en de onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0008871&artikel=1&z=2002-02-03&g=2006-10-01) van de Regeling beperking van het zijn van overheidswerknemer in de zin van de Wet privatisering ABP, zoals die luidde voor 1 september 1997, worden ingetrokken met ingang van 1 januari 1998.
 
 ##### Artikel 6
 
