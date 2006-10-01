@@ -4,7 +4,7 @@ identifier: "BWBR0017139"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-03-27"
-last_updated: "2004-08-28"
+last_updated: "2006-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017139"
 soort: "ministeriele-regeling"
@@ -54,11 +54,11 @@ Besluit:
 
 ##### Artikel 2. Duur
 
-Opleiding of scholing als bedoeld in [artikel 76 van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=76), duurt maximaal één jaar. Het Uitvoeringsinstituut werknemersverzekeringen kan in individuele gevallen een opleiding of scholing van een langere duur toestaan, doch niet meer dan twee jaar.
+Opleiding of scholing als bedoeld in [artikel 76 van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=76), duurt maximaal één jaar. Het UWV kan in individuele gevallen een opleiding of scholing van een langere duur toestaan, doch niet meer dan twee jaar.
 
 ##### Artikel 3. Uitzondering recht op uitkering
 
-Geen recht op uitkering als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017139&artikel=1&z=2004-08-28&g=2004-08-28) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0017139&artikel=2&z=2004-08-28&g=2004-08-28) blijft bestaan, indien tijdens de opleiding of scholing recht bestaat op een voorziening in de derving van inkomen.
+Geen recht op uitkering als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017139&artikel=1&z=2006-10-01&g=2006-10-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0017139&artikel=2&z=2006-10-01&g=2006-10-01) blijft bestaan, indien tijdens de opleiding of scholing recht bestaat op een voorziening in de derving van inkomen.
 
 ##### Artikel 4. Overgangsrecht
 
