@@ -4,7 +4,7 @@ identifier: "BWBR0009896"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-05-01"
-last_updated: "2006-01-01"
+last_updated: "2006-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009896"
 soort: "AMvB"
@@ -58,7 +58,7 @@ Als bestuursorgaan als bedoeld in [artikel 1a, eerste lid, onderdeel e, van de W
 
 - c. de Pensioen- & Verzekeringskamer, voor zover belast met werkzaamheden die voortvloeien uit dan wel verband houden met haar taken en bevoegdheden ingevolge de [Wet toezicht verzekeringsbedrijf 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006509), de [Wet toezicht natura-uitvaartverzekeringsbedrijf](https://wetten.overheid.nl/jci1.3:c:BWBR0007477), de [Pensioen- en Spaarfondsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0006670), de [Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012092), de [Wet betreffende verplichte deelneming in een beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0002830) en de [Wet tot invoering van een leeftijdsgrens voor het notarisambt en oprichting van een notarieel pensioenfonds](https://wetten.overheid.nl/jci1.3:c:BWBR0002143);
 
-- d. de Stichting Autoriteit Financiële Markten, voor zover belast met werkzaamheden die voortvloeien uit dan wel verband houden met haar taken en bevoegdheden ingevolge de [Wet toezicht beleggingsinstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0004809), de [Wet toezicht effectenverkeer 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007657), de [Wet toezicht kredietwezen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005792), de [Wet toezicht natura-uitvaartverzekeringsbedrijf](https://wetten.overheid.nl/jci1.3:c:BWBR0007477), de [Wet toezicht verzekeringsbedrijf 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006509) en de [Wet financiële dienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0018329).
+- d. de Stichting Autoriteit Financiële Markten, voor zover belast met werkzaamheden die voortvloeien uit dan wel verband houden met haar taken en bevoegdheden ingevolge de [Wet toezicht beleggingsinstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0004809), de [Wet toezicht effectenverkeer 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007657), de [Wet toezicht kredietwezen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005792), de [Wet toezicht natura-uitvaartverzekeringsbedrijf](https://wetten.overheid.nl/jci1.3:c:BWBR0007477), de [Wet toezicht verzekeringsbedrijf 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006509), de [Wet financiële dienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0018329) en de [Wet toezicht accountantsorganisaties](https://wetten.overheid.nl/jci1.3:c:BWBR0019468).
 
 ##### Artikel 2
 
