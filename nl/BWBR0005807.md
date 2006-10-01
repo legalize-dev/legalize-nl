@@ -4,7 +4,7 @@ identifier: "BWBR0005807"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-01-01"
-last_updated: "2005-07-01"
+last_updated: "2006-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005807"
 soort: "AMvB"
@@ -86,7 +86,7 @@ Hebben goedgevonden en verstaan:
 
 - -. bestuurder, vennoot of aandeelhouder zijn van een onderneming, opgericht in de vorm van een vennootschap,
 
-een en ander mits de eigenaar of houder niet een werknemer is als bedoeld in [artikel 2, eerste lid, onderdeel **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0005807&artikel=2&z=2005-07-01&g=2005-07-01).
+een en ander mits de eigenaar of houder niet een werknemer is als bedoeld in [artikel 2, eerste lid, onderdeel **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0005807&artikel=2&z=2006-10-01&g=2006-10-01).
 
 2. De vrijstelling als bedoeld in het eerste lid wordt slechts verleend indien:
 
@@ -94,17 +94,17 @@ een en ander mits de eigenaar of houder niet een werknemer is als bedoeld in [ar
 
 - b. uitsluitend de afstand van de woonplaats naar de in het buitenland gelegen werkplaats en omgekeerd wordt overbrugd.
 
-3. [Artikel 2, tweede tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005807&artikel=2&z=2005-07-01&g=2005-07-01), is van overeenkomstige toepassing.
+3. [Artikel 2, tweede tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005807&artikel=2&z=2006-10-01&g=2006-10-01), is van overeenkomstige toepassing.
 
 ##### Artikel 4
 
-1. Vrijstelling van belasting wordt in andere gevallen dan bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005807&artikel=2&z=2005-07-01&g=2005-07-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0005807&artikel=3&z=2005-07-01&g=2005-07-01) verleend voor uit een ander land afkomstige personenauto’s, motorrijwielen en bestelauto’s indien ter zake van het in het vrije verkeer brengen daarvan aanspraak op vrijstelling van rechten bij invoer bestaat, of zou bestaan indien de vervoermiddelen uit een ander land dan een lid-staat van de Europese Unie in het vrije verkeer zouden zijn gebracht, onder de daarbij gestelde voorwaarden en beperkingen.
+1. Vrijstelling van belasting wordt in andere gevallen dan bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005807&artikel=2&z=2006-10-01&g=2006-10-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0005807&artikel=3&z=2006-10-01&g=2006-10-01) verleend voor uit een ander land afkomstige personenauto’s, motorrijwielen en bestelauto’s indien ter zake van het in het vrije verkeer brengen daarvan aanspraak op vrijstelling van rechten bij invoer bestaat, of zou bestaan indien de vervoermiddelen uit een ander land dan een lid-staat van de Europese Unie in het vrije verkeer zouden zijn gebracht, onder de daarbij gestelde voorwaarden en beperkingen.
 
 2. Indien aanspraak op vrijstelling van rechten bij invoer bestaat of zou bestaan ter zake van de wederinvoer van een personenauto, een motorrijwiel of een bestelauto, wordt de vrijstelling slechts verleend indien wordt aangetoond dat de belasting vóór de overbrenging naar het buitenland daadwerkelijk is betaald en niet ter zake van de overbrenging naar het buitenland is teruggegeven.
 
 3. Vrijstelling voor een in het buitenland aan een in Nederland wonende natuurlijke persoon of gevestigd lichaam verhuurde personenauto, motorrijwiel of bestelauto wordt slechts verleend indien de personenauto, het motorrijwiel of de bestelauto uiterlijk aan het eind van de dag volgende op die waarop het gebruik van de Nederlandse weg is aangevangen, buiten Nederland wordt gebracht, dan wel wordt ingeleverd bij een Nederlandse vestiging van de verhuurmaatschappij.
 
-4. Indien voor de in het eerste lid bedoelde personenauto’s, motorrijwielen en bestelauto’s vrijstelling van rechten bij invoer wordt gevraagd overeenkomstig de daarvoor geldende bepalingen, dient de desbetreffende aanvraag tevens het verzoek om vrijstelling van belasting te bevatten. In andere gevallen is [artikel 2, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005807&artikel=2&z=2005-07-01&g=2005-07-01), van overeenkomstige toepassing.
+4. Indien voor de in het eerste lid bedoelde personenauto’s, motorrijwielen en bestelauto’s vrijstelling van rechten bij invoer wordt gevraagd overeenkomstig de daarvoor geldende bepalingen, dient de desbetreffende aanvraag tevens het verzoek om vrijstelling van belasting te bevatten. In andere gevallen is [artikel 2, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005807&artikel=2&z=2006-10-01&g=2006-10-01), van overeenkomstige toepassing.
 
 5. In de gevallen waarin vrijstelling van belasting is verleend op de voet van het eerste lid, wordt, indien ingevolge de bepalingen op grond waarvan de vrijstelling van rechten bij invoer is verleend of zou worden verleend de rechten bij invoer verschuldigd is of zou worden, tevens de belasting verschuldigd.
 
@@ -114,7 +114,7 @@ De in [artikel 15 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&ar
 
 ##### Artikel 6
 
-De in [artikel 15, eerste lid, aanhef en onderdeel **a**, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=15) bedoelde teruggaaf wordt verleend, indien:
+1. De in [artikel 15, eerste lid, aanhef en onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=15) bedoelde teruggaaf wordt verleend, indien:
 
 - a. de personenauto, het motorrijwiel of de bestelauto is geregistreerd op naam van een politie-instantie dan wel, indien de personenauto, het motorrijwiel of de bestelauto op lease-basis aan de politie ter beschikking staat, afschriften van het kentekenbewijs en het lease-contract worden overgelegd;
 
@@ -124,15 +124,15 @@ De in [artikel 15, eerste lid, aanhef en onderdeel **a**, van de wet](https://we
 
 - -. een duidelijk zichtbaar blauw zwaai- of knipperlicht; en
 
-- -. ten minste aan weerszijden één of meer duidelijk zichtbare afbeeldingen van het politielogo, bedoeld in de [Regeling politielogo](https://wetten.overheid.nl/jci1.3:c:BWBR0009137);
+- -. ten minste aan weerszijden één of meer duidelijk zichtbare afbeeldingen van het politielogo, bedoeld in de [Regeling politielogo](https://wetten.overheid.nl/jci1.3:c:BWBR0009137); en
 
-- c. de personenauto, het motorrijwiel of de bestelauto uitsluitend wordt gebruikt door politie-ambtenaren voor de uitoefening van hun politietaak; en
+- c. de personenauto, het motorrijwiel of de bestelauto uitsluitend wordt gebruikt door politie-ambtenaren voor de uitoefening van hun politietaak.
 
-- d. een verklaring wordt overgelegd dat voor personenauto’s, motorrijwielen en bestelauto’s die niet meer voldoen aan het bepaalde onder **a**, **b** of **c**, dan wel binnen drie jaren na het tijdstip waarop het recht op teruggaaf is ontstaan, worden afgestoten, een opgaaf aan de inspecteur zal worden gedaan en alsdan een bedrag aan belasting zal worden voldaan, berekend op de voet van de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=9) en [10 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=10).
+2. De in [artikel 15, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=15) bedoelde aangifte wordt gedaan indien niet meer wordt voldaan aan de voorwaarden en beperkingen in het eerste lid, of indien het motorrijtuig binnen drie jaren na het tijdstip waarop het recht op teruggaaf is ontstaan, wordt afgestoten.
 
 ##### Artikel 7
 
-1. De in [artikel 15, eerste lid, aanhef en onderdeel **b**, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=15) bedoelde teruggaaf wordt slechts verleend, indien:
+1. De in [artikel 15, eerste lid, aanhef en onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=15) bedoelde teruggaaf wordt slechts verleend, indien:
 
 - a. de personenauto, het motorrijwiel of de bestelauto is geregistreerd op naam van een brandweer-instantie dan wel, indien de personenauto, het motorrijwiel of de bestelauto op lease-basis aan de brandweer ter beschikking staat, afschriften van het kentekenbewijs en het lease-contract worden overgelegd;
 
@@ -142,43 +142,43 @@ De in [artikel 15, eerste lid, aanhef en onderdeel **a**, van de wet](https://we
 
 - -. een duidelijk zichtbaar blauw zwaai- of knipperlicht; en
 
-- -. ten minste aan weerszijden één of meer duidelijk zichtbare afbeeldingen van een brandweerembleem dan wel in voorkomend geval een gemeentewapen, welke afbeeldingen alle een oppervlakte hebben van ten minste 314 cm2;
+- -. ten minste aan weerszijden één of meer duidelijk zichtbare afbeeldingen van een brandweerembleem dan wel in voorkomend geval een gemeentewapen, welke afbeeldingen alle een oppervlakte hebben van ten minste 314 cm2; en
 
-- c. de personenauto, het motorrijwiel of de bestelauto uitsluitend wordt gebruikt door brandweerlieden voor de uitoefening van hun brandweertaak; en
+- c. de personenauto, het motorrijwiel of de bestelauto uitsluitend wordt gebruikt door brandweerlieden voor de uitoefening van hun brandweertaak.
 
-- d. een verklaring wordt overgelegd dat voor personenauto’s, motorrijwielen en bestelauto’s die niet meer voldoen aan het bepaalde onder **a**, **b** of **c**, dan wel binnen drie jaren na het tijdstip waarop het recht op teruggaaf is ontstaan, worden afgestoten, een opgaaf aan de inspecteur zal worden gedaan en alsdan een bedrag aan belasting zal worden voldaan, berekend op de voet van de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=9) en [10 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=10).
+2. De in [artikel 15, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=15) bedoelde aangifte wordt gedaan indien niet meer wordt voldaan aan de voorwaarden en beperkingen in het eerste lid, of indien het motorrijtuig binnen drie jaren na het tijdstip waarop het recht op teruggaaf is ontstaan, wordt afgestoten.
 
-2. Onder brandweer-instantie wordt mede begrepen een bedrijf dat beschikt over een eigen bedrijfsbrandweer.
+3. Onder brandweer-instantie wordt mede begrepen een bedrijf dat beschikt over een eigen bedrijfsbrandweer.
 
 ##### Artikel 8
 
-De in artikel 15, eerste lid, aanhef en onderdeel **d**, van de wet bedoelde teruggaaf wordt slechts verleend, indien:
+1. De in [artikel 15, eerste lid, aanhef en onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=15) bedoelde teruggaaf wordt slechts verleend, indien:
 
 - a. de personenauto voldoet aan de bepalingen gesteld in het Eisenbesluit ambulancevervoer;
 
-- b. voor de personenauto een vergunning is verleend op de voet van [artikel 2 van de Wet ambulancevervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0002757&artikel=2), dan wel de personenauto behoort tot de in artikel 17**a** van die wet bedoelde categorieën van ambulancevervoer;
+- b. voor de personenauto een vergunning is verleend op de voet van [artikel 2 van de Wet ambulancevervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0002757&artikel=2), dan wel de personenauto behoort tot de in [artikel 17a van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002757&artikel=17a) bedoelde categorieën van ambulancevervoer; en
 
-- c. de personenauto uitsluitend wordt gebruikt voor het vervoer van zieken en ongevalsslachtoffers; en
+- c. de personenauto uitsluitend wordt gebruikt voor het vervoer van zieken en ongevalsslachtoffers.
 
-- d. een verklaring wordt overgelegd dat voor personenauto's die niet meer voldoen aan het bepaalde onder **a, b** of **c**, dan wel binnen acht jaren na het tijdstip waarop het recht op teruggaaf is ontstaan, worden afgestoten, een opgaaf aan de inspecteur zal worden gedaan en alsdan een bedrag aan belasting zal worden voldaan, berekend op de voet van de artikelen 9 en 10 van de wet.
+2. De in [artikel 15, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=15) bedoelde aangifte wordt gedaan indien niet meer wordt voldaan aan de voorwaarden en beperkingen in het eerste lid, of indien het motorrijtuig binnen vijf jaren na het tijdstip waarop het recht op teruggaaf is ontstaan, wordt afgestoten.
 
 ##### Artikel 9
 
-De in [artikel 15, eerste lid, aanhef en onderdeel **e**, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=15) bedoelde teruggaaf wordt slechts verleend indien:
+1. De in [artikel 15, eerste lid, aanhef en onderdeel e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=15) bedoelde teruggaaf wordt slechts verleend indien:
 
 - a. direct achter de bestuurderszitplaats een vaste wand is aangebracht over de gehele breedte van de personenauto of de bestelauto;
 
 - b. de achterruimte niet is voorzien van zitplaatsen en veiligheidsgordels;
 
-- c. de achterruimte geheel is voorzien van een verhoogde laadvloer;
+- c. de achterruimte geheel is voorzien van een verhoogde laadvloer; en
 
-- d. de personenauto of de bestelauto uitsluitend wordt gebruikt voor het vervoer van stoffelijke overschotten; en
+- d. de personenauto of de bestelauto uitsluitend wordt gebruikt voor het vervoer van stoffelijke overschotten.
 
-- e. een verklaring wordt overgelegd dat voor personenauto’s en bestelauto’s die niet meer voldoen aan het bepaalde onder **a, b, c**, of **d**, dan wel binnen acht jaren na het tijdstip waarop het recht op teruggaaf is ontstaan, worden afgestoten, een opgaaf aan de inspecteur zal worden gedaan en alsdan een bedrag aan belasting zal worden voldaan, berekend op de voet van de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=9) en [10 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=10).
+2. De in [artikel 15, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=15) bedoelde aangifte wordt gedaan indien niet meer wordt voldaan aan de voorwaarden en beperkingen in het eerste lid, of indien het motorrijtuig binnen acht jaren na het tijdstip waarop het recht op teruggaaf is ontstaan, wordt afgestoten.
 
 ##### Artikel 10
 
-De in artikel 15, eerste lid, aanhef en onderdeel **f**, van de wet bedoelde teruggaaf wordt slechts verleend indien:
+1. De in [artikel 15, eerste lid, aanhef en onderdeel f, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=15) bedoelde teruggaaf wordt slechts verleend indien:
 
 - a. direct achter de bestuurdersplaats een vaste wand, een traliewerk of een soortgelijke afscheiding is aangebracht over de gehele breedte van de personenauto;
 
@@ -186,27 +186,27 @@ De in artikel 15, eerste lid, aanhef en onderdeel **f**, van de wet bedoelde ter
 
 - c. de ramen en luiken in de achterruimte niet kunnen worden geopend, dan wel zijn voorzien van tralies of een metalen rooster;
 
-- d. de personenauto is voorzien van een mobilofooninstallatie;
+- d. de personenauto is voorzien van een mobilofooninstallatie; en
 
-- e. de personenauto uitsluitend wordt gebruikt voor het vervoer door daartoe aangewezen opsporingsambtenaren van personen die rechtens van hun vrijheid zijn beroofd; en
+- e. de personenauto uitsluitend wordt gebruikt voor het vervoer door daartoe aangewezen opsporingsambtenaren van personen die rechtens van hun vrijheid zijn beroofd.
 
-- f. een verklaring wordt overgelegd dat voor personenauto's die niet meer voldoen aan het bepaalde onder **a, b, c, d** of **e**, dan wel binnen acht jaren na het tijdstip waarop het recht op teruggaaf is ontstaan, worden afgestoten, een opgaaf aan de inspecteur zal worden gedaan en alsdan een bedrag aan belasting zal worden voldaan, berekend op de voet van de artikelen 9 en 10 van de wet.
+2. De in [artikel 15, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=15) bedoelde aangifte wordt gedaan indien niet meer wordt voldaan aan de voorwaarden en beperkingen in het eerste lid, of indien het motorrijtuig binnen acht jaren na het tijdstip waarop het recht op teruggaaf is ontstaan, wordt afgestoten.
 
 ##### Artikel 11
 
-De in artikel 15, eerste lid, aanhef en onderdeel **g**, van de wet bedoelde teruggaaf wordt slechts verleend indien:
+1. De in [artikel 15, eerste lid, aanhef en onderdeel g, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=15) bedoelde teruggaaf wordt slechts verleend indien:
 
 - a. de personenauto beschikt over voorzieningen waardoor deze gemakkelijk toegankelijk is voor rolstoelen;
 
-- b. in de personenauto bevestigingspunten zijn aangebracht voor de rolstoelen, waarmee zij kunnen worden vastgezet, opdat de veiligheid van de rolstoelgebruiker is gewaarborgd;
+- b. in de personenauto bevestigingspunten zijn aangebracht voor de rolstoelen, waarmee zij kunnen worden vastgezet, opdat de veiligheid van de rolstoelgebruiker is gewaarborgd; en
 
-- c. het motorrijtuig uitsluitend wordt gebruikt voor het bedrijfsmatig vervoer van rolstoelgebruikers en hun begeleiders van en naar instellingen die zich de zorg voor gehandicapte personen ten doel stellen; en
+- c. het motorrijtuig uitsluitend wordt gebruikt voor het bedrijfsmatig vervoer van rolstoelgebruikers en hun begeleiders van en naar instellingen die zich de zorg voor gehandicapte personen ten doel stellen.
 
-- d. een verklaring wordt overgelegd dat voor personenauto's die niet meer voldoen aan het bepaalde onder **a**, **b** of **c**, dan wel binnen zes jaren na het tijdstip waarop het recht op teruggaaf is ontstaan, worden afgestoten, een opgaaf aan de inspecteur zal worden gedaan en alsdan een bedrag aan belasting zal worden voldaan, berekend op de voet van de artikelen 9 en 10 van de wet.
+2. De in [artikel 15, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=15) bedoelde aangifte wordt gedaan indien niet meer wordt voldaan aan de voorwaarden en beperkingen in het eerste lid, of indien het motorrijtuig binnen zes jaren na het tijdstip waarop het recht op teruggaaf is ontstaan, wordt afgestoten.
 
 ##### Artikel 12
 
-De in [artikel 15, eerste lid, aanhef en onderdeel**h**, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=15) bedoelde teruggaaf wordt slechts verleend indien:
+1. De in [artikel 15, eerste lid, aanhef en onderdeel h, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=15) bedoelde teruggaaf wordt slechts verleend indien:
 
 - a. de personenauto of de bestelauto is voorzien van:
 
@@ -216,15 +216,15 @@ De in [artikel 15, eerste lid, aanhef en onderdeel**h**, van de wet](https://wet
 
 - -. een mobilofooninstallatie of daarmee vergelijkbare installatie; en
 
-- -. voorzieningen voor vervoer en verzorging van zieke of gewonde dieren;
+- -. voorzieningen voor vervoer en verzorging van zieke of gewonde dieren; en
 
-- b. de personenauto of de bestelauto uitsluitend wordt gebruikt voor het bedrijfsmatig vervoer van zieke of gewonde dieren; en
+- b. de personenauto of de bestelauto uitsluitend wordt gebruikt voor het bedrijfsmatig vervoer van zieke of gewonde dieren.
 
-- c. een verklaring wordt overgelegd dat voor personenauto’s en bestelauto’s die niet meer voldoen aan het bepaalde onder **a** of **b**, dan wel binnen acht jaren na het tijdstip waarop het recht op teruggaaf is ontstaan, worden afgestoten, een opgaaf aan de inspecteur zal worden gedaan en alsdan een bedrag aan belasting zal worden voldaan, berekend op de voet van de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=9) en [10 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=10).
+2. De in [artikel 15, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=15) bedoelde aangifte wordt gedaan indien niet meer wordt voldaan aan de voorwaarden en beperkingen in het eerste lid, of indien het motorrijtuig binnen acht jaren na het tijdstip waarop het recht op teruggaaf is ontstaan, wordt afgestoten.
 
 ##### Artikel 13
 
-De in [artikel 15, eerste lid, aanhef en onderdeel **i**, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=15) bedoelde teruggaaf wordt slechts verleend indien:
+1. De in [artikel 15, eerste lid, aanhef en onderdeel i, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=15) bedoelde teruggaaf wordt slechts verleend indien:
 
 - a. direct achter de bestuurderszitplaats een vaste wand van kogelvrij materiaal is aangebracht over de gehele breedte van de personenauto of de bestelauto;
 
@@ -234,23 +234,23 @@ De in [artikel 15, eerste lid, aanhef en onderdeel **i**, van de wet](https://we
 
 - d. de kluizen in de achterruimte onverbrekelijk met de bodem zijn verbonden;
 
-- e. de personenauto of de bestelauto voor de beveiliging van de inzittenden voldoende is gepantserd;
+- e. de personenauto of de bestelauto voor de beveiliging van de inzittenden voldoende is gepantserd; en
 
-- f. de personenauto of de bestelauto uitsluitend wordt gebruikt voor het bedrijfsmatig vervoer van geld of waarden; en
+- f. de personenauto of de bestelauto uitsluitend wordt gebruikt voor het bedrijfsmatig vervoer van geld of waarden.
 
-- g. een verklaring wordt overgelegd dat voor personenauto’s en bestelauto’s die niet meer voldoen aan het bepaalde onder **a, b, c, d, e** of **f**, dan wel binnen acht jaren na het tijdstip waarop het recht op teruggaaf is ontstaan, worden afgestoten, een opgaaf aan de inspecteur zal worden gedaan en alsdan een bedrag aan belasting zal worden voldaan, berekend op de voet van de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=9) en [10 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=10).
+2. De in [artikel 15, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=15) bedoelde aangifte wordt gedaan indien niet meer wordt voldaan aan de voorwaarden en beperkingen in het eerste lid, of indien het motorrijtuig binnen acht jaren na het tijdstip waarop het recht op teruggaaf is ontstaan, wordt afgestoten.
 
 ##### Artikel 14
 
-1. De in [artikel 16, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=16) bedoelde teruggaaf wordt slechts verleend indien de belastingplichtige daartoe verzoekt binnen dertien weken nadat het recht op teruggaaf is ontstaan en bij het verzoek worden overgelegd:
+De in [artikel 16, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=16) bedoelde teruggaaf wordt slechts verleend indien degene op wiens naam het kenteken is gesteld daartoe verzoekt binnen dertien weken nadat het recht op teruggaaf is ontstaan en bij het verzoek worden overgelegd:
 
-- 1°. een afschrift van de in [artikel 16, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=16) bedoelde vergunning;
+- a. een afschrift van de vergunning ingevolge de [Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470) voor het verrichten van openbaar vervoer of taxivervoer als bedoeld in [artikel 16, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=16);
 
-- 2°. een afschrift van de delen I en II, de delen I en I B of deel I A en B van het bewijs dat ingevolge [artikel 36, tweede lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=36) is afgegeven voor de personenauto; en
+- b. een afschrift van de delen I en II, de delen I en I B of deel I A en B van het bewijs dat ingevolge [artikel 36, tweede lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=36) is afgegeven voor de personenauto; en
 
-- 3°. een verklaring van de exploitant van de personenauto dat de personenauto in de periode van een jaar waarop het verzoek betrekking heeft, geheel of nagenoeg geheel is gebruikt voor het verrichten van openbaar vervoer of taxivervoer in de zin van de [Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470).
+- c. een afschrift van het keuringsbewijs dat ingevolge de [Regeling permanente eisen taxi’s](https://wetten.overheid.nl/jci1.3:c:BWBR0009110) is afgegeven voor de personenauto; alsmede, indien degene op wiens naam het kenteken is gesteld en de houder van de in onderdeel a bedoelde vergunning niet dezelfde persoon zijn,
 
-2. Ingeval het in het eerste lid, onder 2° bedoelde bewijs in de periode van een jaar waarop de teruggaaf betrekking heeft, op naam van meer dan één ondernemer is gesteld geweest, wordt de teruggaaf over dat jaar verleend aan de ondernemer op wiens naam het bewijs was gesteld zowel op de laatste als op de voorlaatste dag van de periode.
+- d. een gezamenlijke verklaring waaruit blijkt dat het voertuig wordt gebruikt in het kader van de onderneming van degene op wiens naam de vergunning, bedoeld in onderdeel a, is afgegeven.
 
 ##### Artikel 15
 
