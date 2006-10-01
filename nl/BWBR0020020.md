@@ -147,9 +147,3 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 3. [Artikel VI, tweede tot en met vierde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020020&artikel=VI&z=2006-12-08&g=2006-10-01), is van overeenkomstige toepassing.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel VIIA
-
-Bromfietscertificaten dienen te voldoen aan de eisen zoals die golden voor inwerkingtreding van deze wet en dienen behoorlijk leesbaar te zijn.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
