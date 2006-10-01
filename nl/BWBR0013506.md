@@ -4,7 +4,7 @@ identifier: "BWBR0013506"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2010-10-10"
-last_updated: "2006-04-02"
+last_updated: "2006-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013506"
 soort: "ministeriele-regeling"
@@ -63,7 +63,7 @@ Tenzij in deze regeling anders is bepaald, oefent de uitvoeringsautoriteit de he
 
 ##### Artikel 3
 
-1. De uitvoeringsautoriteit zendt de in het [eerste lid van artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=12), respectievelijk van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=18), [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=24) en [artikel 30 van het Besluit verkrijging en verlies Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=30) genoemde afschriften van de door hem ontvangen optieverklaringen, van de in deze artikelen genoemde documenten en van de bevestigingen van de verkrijging van het Nederlanderschap aan de Minister op de door het hoofd van de Immigratie- en Naturalisatiedienst aan te geven wijze.
+1. De uitvoeringsautoriteit zendt de in het [eerste lid van artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=12), respectievelijk van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=18), [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=24) en [artikel 30 van het Besluit verkrijging en verlies Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=30) genoemde afschriften van de door hem ontvangen optieverklaringen, van de in deze artikelen genoemde documenten en van de bevestigingen van de verkrijging van het Nederlanderschap aan de Minister op de door het hoofd van de Immigratie- en Naturalisatiedienst aan te geven wijze. Op het afschrift van de bevestiging van de verkrijging van het Nederlanderschap vermeldt de uitvoeringsautoriteit de datum waarop de bevestiging ingevolge [artikel 29, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=29) dan wel [artikel 60a Besluit verkrijging en verlies Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=60a) is bekendgemaakt.
 
 2. De uitvoeringsautoriteiten gevestigd op de Nederlandse Antillen of Aruba zenden tevens onverwijld afschriften van de optieverklaringen en de bevestigingen van de verkrijging van het Nederlanderschap aan de Minister van Justitie van de Nederlandse Antillen dan wel de Minister van Justitie van Aruba op de door deze aan te geven wijze.
 
@@ -77,23 +77,37 @@ Tenzij in deze regeling anders is bepaald, oefent de uitvoeringsautoriteit de he
 
 ##### Artikel 4
 
-1. De uitvoeringsautoriteit bij wie een optieverklaring wordt ingediend, reikt binnen gerede tijd de bevestiging van de optieverklaring aan de optant uit of verzendt deze binnen gerede tijd per post aan de optant.
+1. De uitvoeringsautoriteiten bedoeld in [artikel 2, onder b en c Besluit verkrijging en verlies Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=2), bij wie een optieverklaring wordt ingediend, reiken binnen gerede tijd de bevestiging van de optieverklaring aan de optant uit of verzenden deze binnen gerede tijd per post aan de optant.
 
-2. De bevestigingen van optieverklaringen, namens een minderjarige door zijn wettelijke vertegenwoordiger afgelegd, worden verzonden naar het adres van deze vertegenwoordiger.
+2. De bevestigingen van optieverklaringen namens een minderjarige door zijn wettelijke vertegenwoordiger afgelegd, worden verzonden naar het adres van deze vertegenwoordiger, tenzij sprake is van een uitreiking op grond van [artikel 60a Besluit verkrijging en verlies Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=60a).
 
-3. Gehele of gedeeltelijke weigering van de optieverklaring maakt hij bekend door uitreiking van het besluit of door toezending daarvan per aangetekende post.
+3. Gehele of gedeeltelijke weigering van de optieverklaring maakt de uitvoeringsautoriteit bedoeld in [artikel 2 Besluit verkrijging en verlies Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=2) bekend door uitreiking in persoon van het besluit of door toezending daarvan per aangetekende post.
 
 4. De bevestiging wordt opgesteld overeenkomstig het daarvoor vastgestelde modelformulier en de overige daarvoor door de Minister gestelde regels betreffende de vormgeving van dit formulier.
 
 ##### Artikel 5
 
-1. De burgemeester die een optieverklaring heeft bevestigd aan de persoon, die bij hem een optieverklaring heeft afgelegd, of aan wie de verlening van het Nederlanderschap aan een persoon, die door zijn tussenkomst is genaturaliseerd, is medegedeeld, nodigt de betrokken persoon uit voor een bijeenkomst waarin deze verkrijging of verlening op ceremoniële wijze wordt gevierd.
+1. De uitvoeringsautoriteit bedoeld in [artikel 2, onder a Besluit verkrijging en verlies Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=2) die een optieverklaring heeft bevestigd aan de persoon, die bij hem een optieverklaring heeft afgelegd, of aan wie de verlening van het Nederlanderschap aan een persoon, die door zijn tussenkomst is genaturaliseerd, is medegedeeld, nodigt de betrokken persoon uit voor een bijeenkomst waarin deze verkrijging of verlening op ceremoniële wijze wordt gevierd en waarbij de optiebevestiging of het uittreksel van het besluit tot verlening van het Nederlanderschap wordt uitgereikt op de in de [artikelen 60a](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=60a) en [60b Besluit verkrijging en verlies Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=60b) voorgeschreven wijze. Uitgenodigd voor de ceremonie wordt in ieder geval de persoon aan wie een besluit tot verkrijging of verlening dan wel een besluit tot medeverlening moet worden uitgereikt.
 
 2. De in het vorige lid bedoelde ceremoniële bijeenkomst wordt ten minste op 24 augustus gehouden. Indien 24 augustus op een zaterdag of een zondag valt, vindt de bijeenkomst plaats op de eerstvolgende werkdag.
 
 3. Burgemeesters van naburige gemeenten kunnen tot een gemeenschappelijke bijeenkomst beslissen.
 
-4. De uitvoeringsautoriteit gevestigd op de Nederlandse Antillen, Aruba of buiten het Koninkrijk die een optieverklaring heeft bevestigd aan de persoon, die bij hem een optieverklaring heeft afgelegd, of aan wie de verlening van het Nederlanderschap aan een persoon, die door zijn tussenkomst is genaturaliseerd, is medegedeeld, kan de betrokken persoon uitnodigen voor een bijeenkomst waarin deze verkrijging of verlening op ceremoniële wijze wordt gevierd. Hij doet daarvan melding aan mijn ministerie ter attentie van het Hoofd van de Immigratie- en Naturalisatiedienst.
+4. De uitvoeringsautoriteit gevestigd op de Nederlandse Antillen of Aruba die een optieverklaring heeft bevestigd aan de persoon, die bij hem een optieverklaring heeft afgelegd, of aan wie de verlening van het Nederlanderschap aan een persoon, die door zijn tussenkomst is genaturaliseerd, is medegedeeld, kan de betrokken persoon uitnodigen voor een bijeenkomst waarin deze verkrijging of verlening op ceremoniële wijze wordt gevierd. Hij doet daarvan melding aan mijn ministerie ter attentie van het Hoofd van de Immigratie- en Naturalisatiedienst.
+
+- a. De uitvoeringsautoriteit bedoeld in [artikel 2, onder d Besluit verkrijging en verlies Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=2) die een optieverklaring heeft bevestigd aan de persoon, die bij hem een optieverklaring heeft afgelegd, of aan wie de verlening van het Nederlanderschap aan een persoon, die door zijn tussenkomst is genaturaliseerd, is medegedeeld, nodigt in beginsel de betrokken persoon uit voor een bijeenkomst waarin deze verkrijging of verlening op ceremoniële wijze wordt gevierd en waarbij de optiebevestiging of het uittreksel van het besluit tot verlening van het Nederlanderschap wordt uitgereikt op de in de [artikelen 60a](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=60a) en [60b Besluit verkrijging en verlies Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=60b) voorgeschreven wijze.
+
+- b. Uitgenodigd voor de ceremonie wordt in ieder geval de persoon aan wie een besluit tot verkrijging of verlening dan wel een besluit tot medeverlening moet worden uitgereikt.
+
+- c. Indien om zwaarwegende redenen van een voor uitreiking op te roepen of reeds opgeroepen persoon niet kan worden verwacht dat deze de bevestiging van de verkrijging van het Nederlanderschap dan wel het uittreksel uit het naturalisatiebesluit in persoon wordt uitgereikt, kan een andere wijze van bekendmaking worden gekozen. Onder zwaarwegende redenen wordt in ieder geval gerekend de fysieke of psychische onmogelijkheid te verschijnen; alsmede een voor de op te roepen persoon af te leggen reisafstand, die in redelijkheid niet van hem kan worden verlangd.
+
+- d. Wegens bijzondere aan de personele omvang van de diplomatieke of consulaire post gerelateerde omstandigheden kan het hoofd komen tot een andere wijze van bekendmaking dan uitreiking in persoon.
+
+- e. Een bekendmaking per post geschiedt in beginsel onmiddellijk na de vaststelling van de optiebevestiging dan wel onmiddellijk na de ontvangst van het uittreksel van het naturalisatiebesluit doch uiterlijk binnen één week daarna.
+
+- a. Van een ingevolge [artikel 60b, achtste lid, Besluit verkrijging en verlies Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=60b) vervallen besluit tot verlening van het Nederlanderschap zendt de uitvoeringsautoriteit het uittreksel van het besluit aan het hoofd van de Immigratie- en Naturalisatiedienst, met de vermelding dat het besluit niet inwerking is getreden.
+
+- b. De uitvoeringsautoriteit laat de onder a. bedoelde inzending achterwege tot het moment dat over het besluit omtrent de wijze van bekendmaking van het besluit tot verlening van het Nederlanderschap onherroepelijk in bezwaar of beroep is beslist.
 
 ### Afdeling III. Vrijstellingen van de afstandsverplichting
 
@@ -117,7 +131,7 @@ Tenzij in deze regeling anders is bepaald, oefent de uitvoeringsautoriteit de he
 
 - h. de verzoeker onderdaan is van een Staat die door Nederland niet wordt erkend.
 
-2. Indien de verzoeker aantoont, dat hij andere bijzondere en objectief waardeerbare redenen heeft om geen afstand te doen van zijn oorspronkelijke nationaliteit, dan legt de uitvoeringsautoriteit die aan de Minister ter beoordeling voor.
+2. Indien de verzoeker aantoont, dat hij andere bijzondere en objectief waardeerbare redenen heeft om geen afstand te doen van zijn oorspronkelijke nationaliteit, dan legt na ontvangst van het naturalisatieverzoek het hoofd van de Immigratie- en Naturalisatiedienst die redenen aan de Minister ter beoordeling voor.
 
 3. Bij de bepaling dat een Staat een wetgeving of rechtspraktijk heeft als bedoeld in het eerste lid, aanhef en onder a, b en c, wordt gebruik gemaakt van de in de Handleiding en nadere instructies gegeven landeninformatie terzake.
 
@@ -139,7 +153,7 @@ Onder rechtstreeks betrokken persoon wordt eveneens verstaan, voor zover zij daa
 
 ##### Artikel 9
 
-De uitvoeringsautoriteit kan van de in het [voorgaande artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0013506&hoofdstuk=III&artikel=8&z=2006-01-01&g=2006-04-02) bedoelde bevoegdheden ondermandaat verlenen aan onder hem ressorterende functionarissen, voor zover dat in overeenstemming is met de aard van de werkzaamheden van die functionarissen en de aard van de bevoegdheid zich daartegen niet verzet.
+De uitvoeringsautoriteit kan van de in het [voorgaande artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0013506&hoofdstuk=III&artikel=8&z=2006-10-01&g=2006-10-01) bedoelde bevoegdheden ondermandaat verlenen aan onder hem ressorterende functionarissen, voor zover dat in overeenstemming is met de aard van de werkzaamheden van die functionarissen en de aard van de bevoegdheid zich daartegen niet verzet.
 
 ##### Artikel 10
 
@@ -163,7 +177,13 @@ De uitvoeringsautoriteit kan van de in het [voorgaande artikel](https://wetten.o
 
 ##### Artikel 12
 
-Dit onderdeel is nog niet inwerking getreden
+1. Een verzoeker die zijn optieverklaring of naturalisatieverzoek in Aruba dient in te dienen, is min- of onvermogend als bedoeld in [artikel 3, tweede lid, van het Besluit optie- en naturalisatiegelden 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0013782&artikel=3), indien hij een kaart overlegt omtrent inkomen en vermogen als bedoeld in artikel 2, eerste lid, van de Landsverordening kosteloze rechtskundige bijstand.
+
+2. Bij de vaststelling van het inkomen en vermogen van de verzoeker wordt mede in aanmerking genomen het inkomen en vermogen van de echtgenoot of echtgenote, tenzij deze duurzaam van de verzoeker gescheiden leeft, en van de persoon met wie de verzoeker duurzaam een gezamenlijke huishouding voert, tenzij tussen deze en de verzoeker een bloedverwantschap in de eerste of tweede graad bestaat.
+
+3. Bij gemeenschappelijk verzoek worden de verzoekers gelijkgesteld met min- of onvermogenden indien hun gezamenlijke netto-inkomen minder is dan de op hen toepasselijke norm van de Landsverordening kosteloze rechtskundige bijstand.
+
+4. Is de verzoeker een betalingsplichtige minderjarige dan zijn de vorige leden van toepassing op de persoon die jegens hem onderhoudsplichtig is.
 
 ##### Artikel 13
 
@@ -181,6 +201,8 @@ Dit onderdeel is nog niet inwerking getreden
 
 2. Tot het afgeven van berichten omtrent toelating zijn in de Nederlandse Antillen bevoegd de chefs van de vreemdelingendiensten in de eilandgebieden.
 
+3. Tot het afgeven van berichten omtrent toelating is in Aruba bevoegd de directeur van de met de uitvoering van de Landsverordening toelating en uitzetting belaste dienst.
+
 ##### Artikel 15
 
 De uitvoeringautoriteiten dienen verzoeken om een bericht omtrent toelating in met gebruikmaking van de modelformulieren die daarvoor in de bijlage bij de Handleiding zijn gegeven.
@@ -195,6 +217,6 @@ De [Machtigingsregeling naturalisatie en naturalisatiegelden 1998](onbekend) ver
 
 1. Deze regeling wordt met de toelichting in de Staatscourant, het Publicatieblad van de Nederlandse Antillen en het Afkondigingsblad van Aruba geplaatst.
 
-2. Deze regeling treedt, met uitzondering van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0013506&hoofdstuk=III&artikel=12&z=2006-01-01&g=2006-04-02) en [artikel 14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013506&hoofdstuk=IV&artikel=14&z=2006-01-01&g=2006-04-02), in werking met ingang van 1 april 2003; [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0013506&hoofdstuk=II&afdeling=III&artikel=6&z=2006-01-01&g=2006-04-02) is slechts van toepassing op Nederland en de Nederlandse Antillen.
+2. Deze regeling treedt, met uitzondering van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0013506&hoofdstuk=III&artikel=12&z=2006-10-01&g=2006-10-01) en [artikel 14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013506&hoofdstuk=IV&artikel=14&z=2006-10-01&g=2006-10-01), in werking met ingang van 1 april 2003; [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0013506&hoofdstuk=II&afdeling=III&artikel=6&z=2006-10-01&g=2006-10-01) is slechts van toepassing op Nederland en de Nederlandse Antillen.
 
 3. Deze regeling wordt aangehaald als Regeling verkrijging en verlies Nederlanderschap.
