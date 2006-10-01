@@ -4,7 +4,7 @@ identifier: "BWBR0005199"
 country: "nl"
 rank: "amvb"
 publication_date: "2013-01-01"
-last_updated: "2005-12-29"
+last_updated: "2006-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005199"
 soort: "AMvB"
@@ -46,7 +46,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-1. Voor de toepassing van [artikel 17, aanhef en onderdeel b, onder 1°, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=17) en [artikel 15, eerste lid, aanhef en onderdeel a, van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) worden dagen, waarover de werknemer:
+1. Voor de toepassing van [artikel 42, tweede lid, onderdeel a, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=42) en [artikel 15, eerste lid, aanhef en onderdeel a, van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=15) worden dagen, waarover de werknemer:
 
 - a. van zijn werkgever geen loon doch vakantiegeld heeft ontvangen; of
 
@@ -54,15 +54,15 @@ Hebben goedgevonden en verstaan:
 
 gelijkgesteld met dagen waarover loon is ontvangen.
 
-2. Het eerste lid is niet van toepassing indien de in onderdeel **b** van dat lid bedoelde vakantiebonnen of daarmee overeenkomende aanspraken bestemd zijn voor dagen, waarover recht op uitkering op grond van [hoofdstuk IIa](onbekend) of [IIb van de Werkloosheidswet](onbekend) dan wel [hoofdstuk 7 van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=7) bestaat of over dagen, waarin dat recht wegens vakantie of het in aanmerking nemen van deze aanspraken wordt onderbroken.
+2. Het eerste lid is niet van toepassing indien de in onderdeel b van dat lid bedoelde vakantiebonnen of daarmee overeenkomende aanspraken bestemd zijn voor dagen, waarover recht op uitkering op grond van [hoofdstuk II van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=II) dan wel [hoofdstuk 7 van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=7) bestaat of over dagen, waarin dat recht wegens vakantie of het in aanmerking nemen van deze aanspraken wordt onderbroken.
 
 ##### Artikel 2
 
-Voor de toepassing van [artikel 17, onderdeel **b**, onder 1°, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=17) en [artikel 15, eerste lid, aanhef en onderdeel a, van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=15) worden dagen waarover een werknemer geen loon heeft ontvangen wegens werkstaking of uitsluiting gelijkgesteld met dagen waarover loon is ontvangen.
+Voor de toepassing van [artikel 42, tweede lid, onderdeel a, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=42) en [artikel 15, eerste lid, aanhef en onderdeel a, van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=15) worden dagen waarover een werknemer geen loon heeft ontvangen wegens werkstaking of uitsluiting gelijkgesteld met dagen waarover loon is ontvangen.
 
 ##### Artikel 3
 
-1. Voor de toepassing van [artikel 17, onderdeel **b**, onder 1°, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=17) wordt de persoon, die is toegelaten tot de vrijwillige verzekering op grond van [die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), geacht loon te hebben ontvangen over tijdvakken waarover premie is betaald.
+1. Voor de toepassing van [artikel 42, tweede lid, onderdeel a, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=42) wordt de persoon, die is toegelaten tot de vrijwillige verzekering op grond van [die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), geacht loon te hebben ontvangen over tijdvakken waarover premie is betaald.
 
 2. Voor de toepassing van [artikel 15, eerste lid, aanhef en onderdeel a, van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=15) wordt de persoon die is toegelaten tot de vrijwillige verzekering op grond van [die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019057), geacht loon te hebben ontvangen over tijdvakken waarover premie is betaald.
 
@@ -84,7 +84,7 @@ Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in 
 
 ##### Artikel 3a
 
-Voor de toepassing van [artikel 17, aanhef en onderdeel b, onder 1°, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=17) en [artikel 15, eerste lid, aanhef en onderdeel a, van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=15) wordt:
+Voor de toepassing van [artikel 42, tweede lid, onderdeel a, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=42) en [artikel 15, eerste lid, aanhef en onderdeel a, van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=15) wordt:
 
 - a. de werknemer die uitsluitend als gevolg van ploegendienst op minder dan vijf dagen per week arbeid verrichtte, geacht over het tijdvak waarin hij in ploegendienst werkzaam was, over vijf dagen per week loon te hebben genoten;
 
