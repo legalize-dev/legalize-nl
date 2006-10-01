@@ -4,7 +4,7 @@ identifier: "BWBR0019305"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-09-01"
-last_updated: "2006-06-30"
+last_updated: "2006-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019305"
 soort: "ministeriele-regeling"
@@ -43,8 +43,6 @@ Besluit:
 ##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
-
-**CWI**: Centrale organisatie werk en inkomen, genoemd in [hoofdstuk 4 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=4);
 
 **mantelzorg**: noodzakelijke zorg voor een zieke of gehandicapte;
 
@@ -128,7 +126,7 @@ Van de verplichtingen, bedoeld in de [artikelen 24, eerste lid, onderdeel b, ond
 
 - d. die 57,5 jaar of ouder is op 31 december 2003, wiens eerste werkloosheidsdag is gelegen voor 1 januari 2004 en:
 
-- 1°. die onmiddellijk voorafgaande aan de eerste werkloosheidsdag een recht op uitkering had op grond van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656), de [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657), de [Wet arbeidsongeschiktheidsvoorziening militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0002822) of de [Liquidatiewet ongevallenwetten](https://wetten.overheid.nl/jci1.3:c:BWBR0002553) dan wel een uitkering had die naar aard en strekking daarmee overeenkomt; of
+- 1°. die onmiddellijk voorafgaande aan de eerste werkloosheidsdag een recht op uitkering had op grond van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656), de [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657) of de [Wet arbeidsongeschiktheidsvoorziening militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0002822) dan wel een uitkering had die naar aard en strekking daarmee overeenkomt; of
 
 - 2°. die onmiddellijk voorafgaande aan de eerste werkloosheidsdag een recht op ziekengeld had op grond van de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) dat is ontstaan op of voor 1 januari 2003;
 
