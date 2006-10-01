@@ -4,7 +4,7 @@ identifier: "BWBR0023289"
 country: "nl"
 rank: "wet"
 publication_date: "2013-01-01"
-last_updated: "2006-01-01"
+last_updated: "2006-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023289"
 soort: "wet"
@@ -131,7 +131,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wijzigingswet Wet op de orgaandonatie (evaluatie).
 
 ##### Artikel XXVI
 
@@ -156,11 +156,3 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel XXXI
 
 Dit onderdeel is nog niet inwerking getreden
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is in diverse wetten op of in verband met het terrein van Volksgezondheid, Welzijn en Sport wetstechnische gebreken te herstellen en andere wijzigingen van ondergeschikte aard aan te brengen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
