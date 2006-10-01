@@ -4,7 +4,7 @@ identifier: "BWBR0011381"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2006-10-01"
-last_updated: "2002-06-01"
+last_updated: "2006-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011381"
 soort: "ministeriele-regeling"
@@ -40,23 +40,7 @@ Besluit:
 
 ##### Artikel 1
 
-De ingevolge de [artikelen 33, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=33), [55, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=55), [59, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=59), [160, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=160), en [197, derde lid, onderdeel b, van het Reglement rijbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=197) over te leggen pasfoto’s dienen te voldoen aan de volgende eisen:
-
-- a. de foto’s dienen de aanvrager voor te stellen en dienen recent, duidelijk en goedgelijkend te zijn;
-
-- b. de foto’s mogen geen reproducties zijn; digitale foto’s zijn toegestaan mits zij een lichtechtheid hebben van BWS 6 en een optimale hechting hebben met het document en met de over de foto aan te brengen beschermende folie; bij het aanbrengen van de beschermende folie mag ter plaatse van de foto geen vervorming of blaasvorming optreden;
-
-- c. de foto’s mogen aan de rugzijde niet zijn gestickerd;
-
-- d. de foto’s mogen geen beschadigingen vertonen en mogen niet eerder zijn gebruikt;
-
-- e. de foto’s dienen 4 cm hoog en 3 cm breed te zijn; het gezicht van de aanvrager dient recht van voren, tegen een lichte, egale achtergrond te zijn gefotografeerd;
-
-- f. de breedte van het hoofd dient ongeveer 2 cm te bedragen; beide ogen dienen zichtbaar te zijn, eventueel achter een bril met doorschijnende glazen; het dragen van een donkere bril op de foto’s is niet toegestaan tenzij de aanvrager kan aantonen dat het dragen van een donkere bril om medische redenen noodzakelijk is;
-
-- g. het hoofd dient onbedekt te zijn tenzij de aanvrager kan aantonen dat godsdienstige, levensbeschouwelijke of medische redenen zich hiertegen verzetten; ingeval het hoofd bedekt is, dient het gezicht duidelijk herkenbaar te blijven;
-
-- h. indien meer dan een pasfoto moet worden overgelegd, dienen de pasfoto’s identiek te zijn.
+De ingevolge de [artikelen 33, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=33), en [59, eerste lid, onderdeel d, van het Reglement rijbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=59) over te leggen pasfoto’s voldoen aan alle acceptatiecriteria zoals die zijn opgenomen in de bij de [Paspoortuitvoeringsregeling Nederland 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012811) behorende fotomatrix.
 
 ##### Artikel 2
 
