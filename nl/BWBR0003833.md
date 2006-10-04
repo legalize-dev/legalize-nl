@@ -4,7 +4,7 @@ identifier: "BWBR0003833"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-04-01"
-last_updated: "2006-09-20"
+last_updated: "2006-10-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003833"
 soort: "AMvB"
@@ -52,7 +52,7 @@ In dit besluit wordt verstaan onder:
 
 **wet**: [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420);
 
-**school**: een basisschool als bedoeld in de [titels B](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=B&z=2006-09-20&g=2006-09-20) en [C van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=C&z=2006-09-20&g=2006-09-20), tenzij het tegendeel blijkt;
+**school**: een basisschool als bedoeld in de [titels B](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=B&z=2006-10-04&g=2006-10-04) en [C van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=C&z=2006-10-04&g=2006-10-04), tenzij het tegendeel blijkt;
 
 **schooljaar**: het tijdvak van 1 augustus tot en met 31 juli daaraanvolgend voor zover in dit besluit niet anders is bepaald.
 
@@ -70,9 +70,9 @@ leerling met een niet-Nederlandse culturele achtergrond: leerling:
 
 ##### Artikel A 2. Afwijking van bepalingen en van overeenkomstige toepassing zijnde bepalingen van de WPO
 
-1. [Artikel 4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=4) is niet van toepassing op een school als bedoeld in dit besluit. [Artikel 2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=2) is niet van toepassing op de school, bedoeld in [titel C van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=C&z=2006-09-20&g=2006-09-20).
+1. [Artikel 4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=4) is niet van toepassing op een school als bedoeld in dit besluit. [Artikel 2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=2) is niet van toepassing op de school, bedoeld in [titel C van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=C&z=2006-10-04&g=2006-10-04).
 
-2. De [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=8), [10 tot en met 16](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=10), behoudens de in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=13) bedoelde algemene maatregel van bestuur, [29 tot en met 37](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=29), [40 tot en met 46](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=40), [50 tot en met 64](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=50), [66](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=66), [67](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=67), [123, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=123), [126 tot en met 131](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=126), [138](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=138), [164](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=164), [177](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=177), [178](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=178), [182 tot en met 184a](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=182), [186](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=186) en [187 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=187) zijn van overeenkomstige toepassing. Voorts zijn het [Rechtspositiebesluit WPO/WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0015136) en het [Besluit vernieuwde kerndoelen WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0018844) van overeenkomstige toepassing.
+2. De [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=8), [10 tot en met 16](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=10), behoudens de in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=13) bedoelde algemene maatregel van bestuur, [29 tot en met 37](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=29), [40 tot en met 46](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=40), [50 tot en met 64](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=50), [66](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=66), [67](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=67), [123, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=123), [126 tot en met 131](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=126), [138](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=138), [164](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=164), [177](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=177), [178](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=178), [182 tot en met 184a](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=182), [186](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=186) en [187 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=187) zijn van overeenkomstige toepassing. Voorts zijn het [Kaderbesluit rechtspositie PO](https://wetten.overheid.nl/jci1.3:c:BWBR0020315) en het [Besluit vernieuwde kerndoelen WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0018844) van overeenkomstige toepassing.
 
 ##### Artikel A 3. Van overeenkomstige toepassing zijnde bepalingen van het [Formatiebesluit WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0005441)
 
@@ -136,7 +136,7 @@ Vervallen
 
 ##### Artikel B 10. Toelatingsleeftijd, duur onderwijs
 
-1. Om als leerling tot een school voor kinderen als bedoeld in [artikel B 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=B&afdeling=2&artikel=B_2&z=2006-09-20&g=2006-09-20) te worden toegelaten, moet het kind de leeftijd van 4 jaar hebben bereikt.
+1. Om als leerling tot een school voor kinderen als bedoeld in [artikel B 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=B&afdeling=2&artikel=B_2&z=2006-10-04&g=2006-10-04) te worden toegelaten, moet het kind de leeftijd van 4 jaar hebben bereikt.
 
 2. De leerlingen verlaten de school, bedoeld in het eerste lid, in elk geval na afloop van het schooljaar waarin zij de leeftijd van 14 jaar hebben bereikt.
 
@@ -230,13 +230,13 @@ De kosten van materiële instandhouding die voor vergoeding uit 's Rijks kas in 
 
 De formatie, bedoeld in onderdeel **a**, is redelijkerwijs voldoende voor het leiden en beheren van de school, voor het geven van onderwijs aan de school en voor de overige werkzaamheden die verband houden met het onderwijs aan de school.
 
-2. Onze Minister kan op verzoek van het bevoegd gezag op grond van bijzondere omstandigheden meer formatie toekennen aan een school dan op grond van het eerste lid juncto de [artikelen B 16b tot en met B 16m](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=B&afdeling=6&paragraaf=4A&artikel=B_16b&z=2006-09-20&g=2006-09-20) wordt vastgesteld.
+2. Onze Minister kan op verzoek van het bevoegd gezag op grond van bijzondere omstandigheden meer formatie toekennen aan een school dan op grond van het eerste lid juncto de [artikelen B 16b tot en met B 16m](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=B&afdeling=6&paragraaf=4A&artikel=B_16b&z=2006-10-04&g=2006-10-04) wordt vastgesteld.
 
 ##### Artikel B 16b. Formatiebudget; formatierekeneenheden
 
-1. De totale omvang van de formatie, bedoeld in [artikel B 16a](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=B&afdeling=6&paragraaf=4A&artikel=B_16a&z=2006-09-20&g=2006-09-20), die voor een school wordt vastgesteld, is het formatiebudget. Indien krachtens [artikel B 16j](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=B&afdeling=6&paragraaf=4A&artikel=B_16j&z=2006-09-20&g=2006-09-20) kan worden voorzien in formatie voor speciale doeleinden, maakt deze formatie uitsluitend deel uit van het formatiebudget indien de desbetreffende formatierekeneenheden worden besteed voor die speciale doeleinden. Het formatiebudget wordt in de vorm van formatierekeneenheden aan het bevoegd gezag van een school toegekend.
+1. De totale omvang van de formatie, bedoeld in [artikel B 16a](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=B&afdeling=6&paragraaf=4A&artikel=B_16a&z=2006-10-04&g=2006-10-04), die voor een school wordt vastgesteld, is het formatiebudget. Indien krachtens [artikel B 16j](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=B&afdeling=6&paragraaf=4A&artikel=B_16j&z=2006-10-04&g=2006-10-04) kan worden voorzien in formatie voor speciale doeleinden, maakt deze formatie uitsluitend deel uit van het formatiebudget indien de desbetreffende formatierekeneenheden worden besteed voor die speciale doeleinden. Het formatiebudget wordt in de vorm van formatierekeneenheden aan het bevoegd gezag van een school toegekend.
 
-2. De omvang van het formatiebudget wordt bepaald door de som van de aantallen formatierekeneenheden zoals voor een school berekend op grond van de [artikelen B 16d tot en met B 16m](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=B&afdeling=6&paragraaf=4A&artikel=B_16d&z=2006-09-20&g=2006-09-20).
+2. De omvang van het formatiebudget wordt bepaald door de som van de aantallen formatierekeneenheden zoals voor een school berekend op grond van de [artikelen B 16d tot en met B 16m](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=B&afdeling=6&paragraaf=4A&artikel=B_16d&z=2006-10-04&g=2006-10-04).
 
 ##### Artikel B 16c. Formatie reguliere taken van de school
 
@@ -252,7 +252,7 @@ De formatie voor de vervulling van de reguliere taken van de school, bedoeld in 
 
 ##### Artikel B 16d. Opbouw normatieve formatie
 
-De normatieve formatie van een school, bedoeld in [artikel B 16c](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=B&afdeling=6&paragraaf=4A&artikel=B_16c&z=2006-09-20&g=2006-09-20) onderdeel **a**, omvat de basisformatie, de formatie voor vakonderwijs, en de formatie voor de schoolleiding.
+De normatieve formatie van een school, bedoeld in [artikel B 16c](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=B&afdeling=6&paragraaf=4A&artikel=B_16c&z=2006-10-04&g=2006-10-04) onderdeel **a**, omvat de basisformatie, de formatie voor vakonderwijs, en de formatie voor de schoolleiding.
 
 ##### Artikel B 16e. Berekening basisformatie
 
@@ -283,7 +283,7 @@ De opslag in verband met rechtspositionele aanspraken van personeel bij verminde
 
 ##### Artikel B 16i. Opslag vanwege herbezetting i.v.m. arbeidsduurverkorting
 
-De aantallen formatierekeneenheden, berekend op grond van [artikel B 16m](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=B&afdeling=6&paragraaf=4A&artikel=B_16m&z=2006-09-20&g=2006-09-20), worden verhoogd met 8,11% vanwege herbezetting in verband met arbeidsduurverkorting. De uitkomst wordt afgerond op een geheel getal. Bij de afronding worden de decimalen verwaarloosd indien het eerste cijfer achter de komma kleiner is dan 5, en worden de decimalen verwaarloosd en het getal verhoogd met 1 indien het eerste cijfer achter de komma gelijk is aan of groter is dan 5.
+De aantallen formatierekeneenheden, berekend op grond van [artikel B 16m](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=B&afdeling=6&paragraaf=4A&artikel=B_16m&z=2006-10-04&g=2006-10-04), worden verhoogd met 8,11% vanwege herbezetting in verband met arbeidsduurverkorting. De uitkomst wordt afgerond op een geheel getal. Bij de afronding worden de decimalen verwaarloosd indien het eerste cijfer achter de komma kleiner is dan 5, en worden de decimalen verwaarloosd en het getal verhoogd met 1 indien het eerste cijfer achter de komma gelijk is aan of groter is dan 5.
 
 ##### Artikel B 16i.1. Opslag vanwege herbezetting i.v.m. uitbreiding arbeidsduurverkorting
 
@@ -371,7 +371,7 @@ Het Rijk vergoedt aan het bevoegd gezag van een bijzondere school de kosten van 
 
 ##### Artikel B 20. Vergoeding door Rijk van uitgaven personeel
 
-1. Met inachtneming van de [artikelen B 16a tot en met B 16m](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=B&afdeling=6&paragraaf=4A&artikel=B_16a&z=2006-09-20&g=2006-09-20) van dit besluit, vergoedt het Rijk aan het bevoegd gezag van een bijzondere school:
+1. Met inachtneming van de [artikelen B 16a tot en met B 16m](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=B&afdeling=6&paragraaf=4A&artikel=B_16a&z=2006-10-04&g=2006-10-04) van dit besluit, vergoedt het Rijk aan het bevoegd gezag van een bijzondere school:
 
 - a. de uitgaven voor het personeel dat is aangesteld ten laste van het formatiebudget, en
 
@@ -491,7 +491,7 @@ Vervallen
 
 1. De formatie wordt toegekend in formatierekeneenheden.
 
-2. Grondslag voor de berekening van de formatie voor een schooljaar is een vaste voet en het aantal leerlingen, bedoeld in [artikel C 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=C&afdeling=2&artikel=C_2&z=2006-09-20&g=2006-09-20), dat op de teldatum 1 oktober van het voorafgaande schooljaar, aan de school voor varende kinderen is ingeschreven. De formatie wordt berekend door het aantal leerlingen op de teldatum te vermenigvuldigen met een aantal formatierekeneenheden dat jaarlijks voorafgaand aan het schooljaar schriftelijk wordt bekend gemaakt en te verhogen met de vaste voet. De uitkomst wordt rekenkundig afgerond op een heel getal.
+2. Grondslag voor de berekening van de formatie voor een schooljaar is een vaste voet en het aantal leerlingen, bedoeld in [artikel C 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=C&afdeling=2&artikel=C_2&z=2006-10-04&g=2006-10-04), dat op de teldatum 1 oktober van het voorafgaande schooljaar, aan de school voor varende kinderen is ingeschreven. De formatie wordt berekend door het aantal leerlingen op de teldatum te vermenigvuldigen met een aantal formatierekeneenheden dat jaarlijks voorafgaand aan het schooljaar schriftelijk wordt bekend gemaakt en te verhogen met de vaste voet. De uitkomst wordt rekenkundig afgerond op een heel getal.
 
 3. Het bevoegd gezag van de school voor varende kinderen zendt de telling van het aantal leerlingen, bedoeld in het tweede lid, voor 15 oktober van het desbetreffende jaar aan Onze Minister.
 
@@ -507,7 +507,7 @@ Vervallen
 
 1. Het Rijk bekostigt ten behoeve van elk kalenderjaar de uitgaven voor voorzieningen in de huisvesting en voor de materiële instandhouding.
 
-2. De bekostiging van voorzieningen in de huisvesting en voor de materiële instandhouding ten behoeve van een kalenderjaar, bestaat uit een vast bedrag, verhoogd met een bedrag voor elke leerling, bedoeld in [artikel C 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=C&afdeling=4&paragraaf=2&artikel=C_11&z=2006-09-20&g=2006-09-20).
+2. De bekostiging van voorzieningen in de huisvesting en voor de materiële instandhouding ten behoeve van een kalenderjaar, bestaat uit een vast bedrag, verhoogd met een bedrag voor elke leerling, bedoeld in [artikel C 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=C&afdeling=4&paragraaf=2&artikel=C_11&z=2006-10-04&g=2006-10-04).
 
 3. De bekostiging, bedoeld in het tweede lid, wordt jaarlijks aangepast overeenkomstig de prijsmutatie van de netto materiële consumptie, zoals opgenomen in de Macro Economische Verkenning, die naar verwachting zal optreden tussen het prijsniveau in het kalenderjaar waarvoor de bekostiging wordt vastgesteld en het prijsniveau in het daaraan voorafgaande jaar.
 
@@ -676,7 +676,7 @@ Vervallen
 
 ##### Artikel C 16. Bekostiging door het Rijk van uitgaven voor personeel
 
-1. Met inachtneming van de [artikelen C 11](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=C&afdeling=4&paragraaf=2&artikel=C_11&z=2006-09-20&g=2006-09-20) en [C 12](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=C&afdeling=4&paragraaf=2&artikel=C_12&z=2006-09-20&g=2006-09-20) bekostigt het Rijk:
+1. Met inachtneming van de [artikelen C 11](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=C&afdeling=4&paragraaf=2&artikel=C_11&z=2006-10-04&g=2006-10-04) en [C 12](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=C&afdeling=4&paragraaf=2&artikel=C_12&z=2006-10-04&g=2006-10-04) bekostigt het Rijk:
 
 - a. de uitgaven van het personeel dat is aangesteld ten laste van het formatiebudget,
 
@@ -708,9 +708,9 @@ Vervallen
 
 ##### Artikel C 18. Besteding bekostiging personeel en overschrijdingsbedragen
 
-1. De bekostiging, bedoeld in [artikel C 16, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=C&afdeling=4&paragraaf=3&artikel=C_16&z=2006-09-20&g=2006-09-20), wordt besteed aan de kosten van het personeel dat is aangesteld ten laste van het formatiebudget.
+1. De bekostiging, bedoeld in [artikel C 16, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=C&afdeling=4&paragraaf=3&artikel=C_16&z=2006-10-04&g=2006-10-04), wordt besteed aan de kosten van het personeel dat is aangesteld ten laste van het formatiebudget.
 
-2. De bekostiging, bedoeld in [artikel C 16, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=C&afdeling=4&paragraaf=3&artikel=C_16&z=2006-09-20&g=2006-09-20), wordt besteed aan personele uitgaven.
+2. De bekostiging, bedoeld in [artikel C 16, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=C&afdeling=4&paragraaf=3&artikel=C_16&z=2006-10-04&g=2006-10-04), wordt besteed aan personele uitgaven.
 
 3. [Artikel 150 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=150) is van overeenkomstige toepassing.
 
@@ -1354,7 +1354,7 @@ De [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0003862&artikel=6), [7]
 
 ##### Artikel C 12. Formatiebudget
 
-De totale omvang van de formatie die voor de school voor varende kinderen wordt vastgesteld, is het formatiebudget. Het formatiebudget bedraagt de som van de aantallen formatierekeneenheden, berekend op grond van [artikel C 11](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=C&afdeling=4&paragraaf=2&artikel=C_11&z=2006-09-20&g=2006-09-20).
+De totale omvang van de formatie die voor de school voor varende kinderen wordt vastgesteld, is het formatiebudget. Het formatiebudget bedraagt de som van de aantallen formatierekeneenheden, berekend op grond van [artikel C 11](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=C&afdeling=4&paragraaf=2&artikel=C_11&z=2006-10-04&g=2006-10-04).
 
 #### Paragraaf 3. Wijze van bekostiging
 
@@ -1362,11 +1362,11 @@ De totale omvang van de formatie die voor de school voor varende kinderen wordt 
 
 De [artikelen 140 tot en met 147 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=140) zijn van overeenkomstige toepassing, met dien verstande dat:
 
-- a. in [artikel 142, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=142), «nevenvestiging» wordt gelezen als: vestiging, bedoeld in [artikel C 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=C&afdeling=1&artikel=C_1&z=2006-09-20&g=2006-09-20), van het Besluit trekkende bevolking WPO;
+- a. in [artikel 142, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=142), «nevenvestiging» wordt gelezen als: vestiging, bedoeld in [artikel C 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=C&afdeling=1&artikel=C_1&z=2006-10-04&g=2006-10-04), van het Besluit trekkende bevolking WPO;
 
-- b. in [artikel 144, eerste lid onder d1e](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=144), «[artikel 137, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=137)» wordt gelezen als: [artikel C 16, eerste lid onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=C&afdeling=4&paragraaf=3&artikel=C_16&z=2006-09-20&g=2006-09-20), van het Besluit trekkende bevolking WPO, en
+- b. in [artikel 144, eerste lid onder d1e](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=144), «[artikel 137, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=137)» wordt gelezen als: [artikel C 16, eerste lid onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=C&afdeling=4&paragraaf=3&artikel=C_16&z=2006-10-04&g=2006-10-04), van het Besluit trekkende bevolking WPO, en
 
-- c. in [artikel 144, eerste lid onder d2e](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=144), «[artikel 137, eerste lid onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=137)» wordt gelezen als: [artikel C 16, eerste lid onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=C&afdeling=4&paragraaf=3&artikel=C_16&z=2006-09-20&g=2006-09-20), van het Besluit trekkende bevolking WPO.
+- c. in [artikel 144, eerste lid onder d2e](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=144), «[artikel 137, eerste lid onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=137)» wordt gelezen als: [artikel C 16, eerste lid onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=C&afdeling=4&paragraaf=3&artikel=C_16&z=2006-10-04&g=2006-10-04), van het Besluit trekkende bevolking WPO.
 
 #### Paragraaf 4. Beëindiging van de bekostiging
 
