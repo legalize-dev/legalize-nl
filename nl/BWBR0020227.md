@@ -4,7 +4,7 @@ identifier: "BWBR0020227"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2015-07-01"
-last_updated: "2006-10-01"
+last_updated: "2006-10-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020227"
 soort: "ministeriele-regeling"
@@ -74,7 +74,7 @@ Besluit:
 
 ##### Artikel 4. Het transport en de aflevering van bestelde rijbewijzen
 
-1. De bestelde rijbewijzen worden maximaal vier werkdagen na ontvangst van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0020227&artikel=3&z=2006-10-01&g=2006-10-01) bedoelde aanvraag vóór 9.00 uur bij de in de aanvraag genoemde afgiftelocatie afgeleverd. Indien de bestelling een spoedaanvraag betreft, die op een werkdag vóór 16.00 uur door de leverancier is ontvangen, wordt het aangevraagde rijbewijs de volgende werkdag vóór 9.00 uur bij de in de aanvraag genoemde afgiftelocatie afgeleverd.
+1. De bestelde rijbewijzen worden maximaal vier werkdagen na ontvangst van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0020227&artikel=3&z=2006-10-06&g=2006-10-06) bedoelde aanvraag vóór 9.00 uur bij de in de aanvraag genoemde afgiftelocatie afgeleverd. Indien de bestelling een spoedaanvraag betreft, die op een werkdag vóór 16.00 uur door de leverancier is ontvangen, wordt het aangevraagde rijbewijs de volgende werkdag vóór 9.00 uur bij de in de aanvraag genoemde afgiftelocatie afgeleverd.
 
 2. De leverancier zorgt voor de aflevering van de bestelde rijbewijzen door middel van een beveiligd transport.
 
@@ -100,7 +100,7 @@ Besluit:
 
 ##### Artikel 5. Het inklaren van de ontvangen rijbewijzen
 
-1. Na de aflevering van de rijbewijzen controleert de tot het in ontvangst nemen bevoegde persoon of de levering overeenstemt met de in [artikel 3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020227&artikel=3&z=2006-10-01&g=2006-10-01), bedoelde gereedmelding en of de geleverde rijbewijzen juist en onbeschadigd zijn.
+1. Na de aflevering van de rijbewijzen controleert de tot het in ontvangst nemen bevoegde persoon of de levering overeenstemt met de in [artikel 3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020227&artikel=3&z=2006-10-06&g=2006-10-06), bedoelde gereedmelding en of de geleverde rijbewijzen juist en onbeschadigd zijn.
 
 2. De afgeleverde rijbewijzen worden op de dag van aflevering in het rijbewijzenregister geregistreerd.
 
@@ -120,7 +120,7 @@ Rijbewijzen die niet binnen drie maanden na de datum waarop het besluit tot afgi
 
 ##### Artikel 9. Procesbeschrijvingen
 
-De tot afgifte van rijbewijzen bevoegde autoriteiten nemen bij de aanvraag en afgifte van rijbewijzen de procesbeschrijvingen rijbewijzen in acht die als [bijlagen 1 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0020227&bijlage=1&z=2006-10-01&g=2006-10-01) bij deze regeling zijn opgenomen.
+De tot afgifte van rijbewijzen bevoegde autoriteiten nemen bij de aanvraag en afgifte van rijbewijzen de procesbeschrijvingen rijbewijzen in acht die als [bijlagen 1 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0020227&bijlage=1&z=2006-10-06&g=2006-10-06) bij deze regeling zijn opgenomen.
 
 ##### Artikel 10. Aanvraagformulieren
 
