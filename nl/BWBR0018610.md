@@ -4,7 +4,7 @@ identifier: "BWBR0018610"
 country: "nl"
 rank: "wet"
 publication_date: "2006-10-06"
-last_updated: "2005-09-01"
+last_updated: "2006-10-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018610"
 soort: "wet"
@@ -48,7 +48,7 @@ De voorzitter en de andere leden van de raad van toezicht, bedoeld in [artikel 1
 
 ##### Artikel III
 
-Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst, met uitzondering van [artikel I, onderdeel T](https://wetten.overheid.nl/jci1.3:c:BWBR0018610&artikel=I&z=2005-09-01&g=2005-09-01), dat in werking treedt op een bij koninklijk besluit te bepalen tijdstip. [Artikel I, onderdeel AA](https://wetten.overheid.nl/jci1.3:c:BWBR0018610&artikel=I&z=2005-09-01&g=2005-09-01), werkt terug tot en met 31 december 2003.
+Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst, met uitzondering van [artikel I, onderdeel T](https://wetten.overheid.nl/jci1.3:c:BWBR0018610&artikel=I&z=2006-10-06&g=2006-10-06), dat in werking treedt op een bij koninklijk besluit te bepalen tijdstip. [Artikel I, onderdeel AA](https://wetten.overheid.nl/jci1.3:c:BWBR0018610&artikel=I&z=2006-10-06&g=2006-10-06), werkt terug tot en met 31 december 2003.
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
