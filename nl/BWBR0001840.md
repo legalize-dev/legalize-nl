@@ -4,7 +4,7 @@ identifier: "BWBR0001840"
 country: "nl"
 rank: "grondwet"
 publication_date: "2023-02-22"
-last_updated: "2006-04-06"
+last_updated: "2006-10-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0001840"
 soort: "wet"
@@ -286,7 +286,7 @@ De Koning kan de uitoefening van het koninklijk gezag tijdelijk neerleggen en di
 
 4. De regent zweert of belooft trouw aan de Grondwet en een getrouwe vervulling van zijn ambt, in een verenigde vergadering van de Staten-Generaal. De wet geeft nadere regels omtrent het regentschap en kan voorzien in de opvolging en de vervanging daarin. De Staten-Generaal beraadslagen en besluiten ter zake in verenigde vergadering.
 
-5. Op de regent zijn de [artikelen 35](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=2&paragraaf=1&artikel=35&z=2006-04-06&g=2006-04-06) en [36](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=2&paragraaf=1&artikel=36&z=2006-04-06&g=2006-04-06) van overeenkomstige toepassing.
+5. Op de regent zijn de [artikelen 35](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=2&paragraaf=1&artikel=35&z=2006-10-11&g=2006-10-11) en [36](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=2&paragraaf=1&artikel=36&z=2006-10-11&g=2006-10-11) van overeenkomstige toepassing.
 
 ##### Artikel 38
 
@@ -578,7 +578,7 @@ De vaststelling van wetten geschiedt door de regering en de Staten-Generaal geza
 
 1. Voorstellen van wet kunnen worden ingediend door of vanwege de Koning en door de Tweede Kamer der Staten-Generaal.
 
-2. Voorstellen van wet waarvoor behandeling door de Staten-Generaal in verenigde vergadering is voorgeschreven, kunnen worden ingediend door of vanwege de Koning en, voor zover de betreffende artikelen van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=2&z=2006-04-06&g=2006-04-06) dit toelaten, door de verenigde vergadering.
+2. Voorstellen van wet waarvoor behandeling door de Staten-Generaal in verenigde vergadering is voorgeschreven, kunnen worden ingediend door of vanwege de Koning en, voor zover de betreffende artikelen van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=2&z=2006-10-11&g=2006-10-11) dit toelaten, door de verenigde vergadering.
 
 3. Voorstellen van wet, in te dienen door de Tweede Kamer onderscheidenlijk de verenigde vergadering, worden bij haar door een of meer leden aanhangig gemaakt.
 
@@ -638,7 +638,7 @@ De regering bevordert de ontwikkeling van de internationale rechtsorde.
 
 ##### Artikel 92
 
-Met inachtneming, zo nodig, van het bepaalde in [artikel 91, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=5&paragraaf=2&artikel=91&z=2006-04-06&g=2006-04-06), kunnen bij of krachtens verdrag aan volkenrechtelijke organisaties bevoegdheden tot wetgeving, bestuur en rechtspraak worden opgedragen.
+Met inachtneming, zo nodig, van het bepaalde in [artikel 91, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=5&paragraaf=2&artikel=91&z=2006-10-11&g=2006-10-11), kunnen bij of krachtens verdrag aan volkenrechtelijke organisaties bevoegdheden tot wetgeving, bestuur en rechtspraak worden opgedragen.
 
 ##### Artikel 93
 
@@ -700,7 +700,7 @@ Vervallen
 
 1. De wet bepaalt in welke gevallen ter handhaving van de uit- of inwendige veiligheid bij koninklijk besluit een door de wet als zodanig aan te wijzen uitzonderingstoestand kan worden afgekondigd; zij regelt de gevolgen.
 
-2. Daarbij kan worden afgeweken van de grondwetsbepalingen inzake de bevoegdheden van de besturen van provincies, gemeenten en waterschappen, van de grondrechten geregeld in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=1&artikel=6&z=2006-04-06&g=2006-04-06), voor zover dit de uitoefening buiten gebouwen en besloten plaatsen van het in dit artikel omschreven recht betreft, 7, 8, [9](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=1&artikel=9&z=2006-04-06&g=2006-04-06), [12, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=1&artikel=12&z=2006-04-06&g=2006-04-06), en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=1&artikel=13&z=2006-04-06&g=2006-04-06), alsmede van [artikel 113, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=6&artikel=113&z=2006-04-06&g=2006-04-06).
+2. Daarbij kan worden afgeweken van de grondwetsbepalingen inzake de bevoegdheden van de besturen van provincies, gemeenten en waterschappen, van de grondrechten geregeld in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=1&artikel=6&z=2006-10-11&g=2006-10-11), voor zover dit de uitoefening buiten gebouwen en besloten plaatsen van het in dit artikel omschreven recht betreft, 7, 8, [9](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=1&artikel=9&z=2006-10-11&g=2006-10-11), [12, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=1&artikel=12&z=2006-10-11&g=2006-10-11), en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=1&artikel=13&z=2006-10-11&g=2006-10-11), alsmede van [artikel 113, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=6&artikel=113&z=2006-10-11&g=2006-10-11).
 
 3. Terstond na de afkondiging van een uitzonderingstoestand en voorts, zolang deze niet bij koninklijk besluit is opgeheven, telkens wanneer zij zulks nodig oordelen beslissen de Staten-Generaal omtrent het voortduren daarvan; zij beraadslagen en besluiten ter zake in verenigde vergadering.
 
@@ -712,7 +712,7 @@ Belastingen van het Rijk worden geheven uit kracht van een wet. Andere heffingen
 
 1. De begroting van de ontvangsten en de uitgaven van het Rijk wordt bij de wet vastgesteld.
 
-2. Jaarlijks worden voorstellen van algemene begrotingswetten door of vanwege de Koning ingediend op het in [artikel 65](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=3&paragraaf=2&artikel=65&z=2006-04-06&g=2006-04-06) bedoelde tijdstip.
+2. Jaarlijks worden voorstellen van algemene begrotingswetten door of vanwege de Koning ingediend op het in [artikel 65](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=3&paragraaf=2&artikel=65&z=2006-10-11&g=2006-10-11) bedoelde tijdstip.
 
 3. De verantwoording van de ontvangsten en de uitgaven van het Rijk wordt aan de Staten-Generaal gedaan overeenkomstig de bepalingen van de wet. De door de Algemene Rekenkamer goedgekeurde rekening wordt aan de Staten-Generaal overgelegd.
 
@@ -768,7 +768,7 @@ De doodstraf kan niet worden opgelegd.
 
 ##### Artikel 115
 
-Ten aanzien van de in [artikel 112, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=6&artikel=112&z=2006-04-06&g=2006-04-06), bedoelde geschillen kan administratief beroep worden opengesteld.
+Ten aanzien van de in [artikel 112, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=6&artikel=112&z=2006-10-11&g=2006-10-11), bedoelde geschillen kan administratief beroep worden opengesteld.
 
 ##### Artikel 116
 
@@ -848,7 +848,7 @@ Provinciale staten en de gemeenteraad stellen, behoudens bij de wet of door hen 
 
 ##### Artikel 128
 
-Behoudens in de gevallen bedoeld in [artikel 123](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=7&artikel=123&z=2006-04-06&g=2006-04-06), kan de toekenning van bevoegdheden, als bedoeld in [artikel 124, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=7&artikel=124&z=2006-04-06&g=2006-04-06), aan andere organen dan die, genoemd in [artikel 125](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=7&artikel=125&z=2006-04-06&g=2006-04-06), alleen door provinciale staten onderscheidenlijk de gemeenteraad geschieden.
+Behoudens in de gevallen bedoeld in [artikel 123](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=7&artikel=123&z=2006-10-11&g=2006-10-11), kan de toekenning van bevoegdheden, als bedoeld in [artikel 124, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=7&artikel=124&z=2006-10-11&g=2006-10-11), aan andere organen dan die, genoemd in [artikel 125](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=7&artikel=125&z=2006-10-11&g=2006-10-11), alleen door provinciale staten onderscheidenlijk de gemeenteraad geschieden.
 
 ##### Artikel 129
 
@@ -856,7 +856,7 @@ Behoudens in de gevallen bedoeld in [artikel 123](https://wetten.overheid.nl/jci
 
 2. De leden worden gekozen op de grondslag van evenredige vertegenwoordiging binnen door de wet te stellen grenzen.
 
-3. De [artikelen 53, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=3&paragraaf=1&artikel=53&z=2006-04-06&g=2006-04-06), en [59](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=3&paragraaf=1&artikel=59&z=2006-04-06&g=2006-04-06) zijn van toepassing.
+3. De [artikelen 53, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=3&paragraaf=1&artikel=53&z=2006-10-11&g=2006-10-11), en [59](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=3&paragraaf=1&artikel=59&z=2006-10-11&g=2006-10-11) zijn van toepassing. [Artikel 57a](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=3&paragraaf=1&artikel=57a&z=2006-10-11&g=2006-10-11) is van overeenkomstige toepassing.
 
 4. De zittingsduur van provinciale staten en de gemeenteraad is vier jaren, behoudens bij de wet te bepalen uitzonderingen.
 
@@ -882,7 +882,7 @@ De commissaris van de Koning en de burgemeester worden bij koninklijk besluit be
 
 4. Vernietiging van besluiten van deze besturen kan alleen geschieden bij koninklijk besluit wegens strijd met het recht of het algemeen belang.
 
-5. De wet regelt de voorzieningen bij in gebreke blijven ten aanzien van regeling en bestuur, gevorderd krachtens [artikel 124, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=7&artikel=124&z=2006-04-06&g=2006-04-06). Bij de wet kunnen met afwijking van de [artikelen 125](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=7&artikel=125&z=2006-04-06&g=2006-04-06) en [127](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=7&artikel=127&z=2006-04-06&g=2006-04-06) voorzieningen worden getroffen voor het geval het bestuur van een provincie of een gemeente zijn taken grovelijk verwaarloost.
+5. De wet regelt de voorzieningen bij in gebreke blijven ten aanzien van regeling en bestuur, gevorderd krachtens [artikel 124, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=7&artikel=124&z=2006-10-11&g=2006-10-11). Bij de wet kunnen met afwijking van de [artikelen 125](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=7&artikel=125&z=2006-10-11&g=2006-10-11) en [127](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=7&artikel=127&z=2006-10-11&g=2006-10-11) voorzieningen worden getroffen voor het geval het bestuur van een provincie of een gemeente zijn taken grovelijk verwaarloost.
 
 6. De wet bepaalt welke belastingen door de besturen van provincies en gemeenten kunnen worden geheven en regelt hun financiële verhouding tot het rijk.
 
@@ -904,7 +904,7 @@ De commissaris van de Koning en de burgemeester worden bij koninklijk besluit be
 
 ##### Artikel 135
 
-De wet geeft regels ter voorziening in zaken waarbij twee of meer openbare lichamen zijn betrokken. Daarbij kan in de instelling van een nieuw openbaar lichaam worden voorzien, in welk geval [artikel 134, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=7&artikel=134&z=2006-04-06&g=2006-04-06), van toepassing is.
+De wet geeft regels ter voorziening in zaken waarbij twee of meer openbare lichamen zijn betrokken. Daarbij kan in de instelling van een nieuw openbaar lichaam worden voorzien, in welk geval [artikel 134, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=7&artikel=134&z=2006-10-11&g=2006-10-11), van toepassing is.
 
 ##### Artikel 136
 
@@ -948,7 +948,7 @@ De tekst van de herziene Grondwet wordt bij koninklijk besluit bekendgemaakt, wa
 
 ##### Artikel 142
 
-De Grondwet kan bij de wet met het [Statuut voor het Koninkrijk der Nederlanden](https://wetten.overheid.nl/jci1.3:c:BWBR0002154) in overeenstemming worden gebracht. De [artikelen 139](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=8&artikel=139&z=2006-04-06&g=2006-04-06), [140](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=8&artikel=140&z=2006-04-06&g=2006-04-06) en [141](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=8&artikel=141&z=2006-04-06&g=2006-04-06) zijn van overeenkomstige toepassing.
+De Grondwet kan bij de wet met het [Statuut voor het Koninkrijk der Nederlanden](https://wetten.overheid.nl/jci1.3:c:BWBR0002154) in overeenstemming worden gebracht. De [artikelen 139](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=8&artikel=139&z=2006-10-11&g=2006-10-11), [140](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=8&artikel=140&z=2006-10-11&g=2006-10-11) en [141](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=8&artikel=141&z=2006-10-11&g=2006-10-11) zijn van overeenkomstige toepassing.
 
 ### Additionele artikelen
 
@@ -986,7 +986,7 @@ Vervallen
 
 ##### Artikel IX
 
-[Artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=1&artikel=16&z=2006-04-06&g=2006-04-06) is niet van toepassing ten aanzien van feiten, strafbaar gesteld krachtens het [Besluit Buitengewoon Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0002006).
+[Artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=1&artikel=16&z=2006-10-11&g=2006-10-11) is niet van toepassing ten aanzien van feiten, strafbaar gesteld krachtens het [Besluit Buitengewoon Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0002006).
 
 ##### Artikel X
 
@@ -1078,4 +1078,30 @@ Vervallen
 
 ##### Artikel I
 
-De artikelen 57a en [129, derde lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=7&artikel=129&z=2006-04-06&g=2006-04-06) treden eerst na vier jaar of op een bij of krachtens de wet te bepalen eerder tijdstip in werking.
+De [artikelen 57a](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=3&paragraaf=1&artikel=57a&z=2006-10-11&g=2006-10-11) en [129, derde lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=7&artikel=129&z=2006-10-11&g=2006-10-11) treden eerst na vier jaar of op een bij of krachtens de wet te bepalen eerder tijdstip in werking.
+
+##### Artikel 57a
+
+De wet regelt de tijdelijke vervanging van een lid van de Staten-Generaal wegens zwangerschap en bevalling, alsmede wegens ziekte.
+
+#### § 2. Werkwijze
+
+### Hoofdstuk 4. Raad van State, Algemene Rekenkamer, Nationale ombudsman en vaste colleges van advies
+
+### Hoofdstuk 5. Wetgeving en bestuur
+
+#### § 1. Wetten en andere voorschriften
+
+#### § 2. Overige bepalingen
+
+### Hoofdstuk 6. Rechtspraak
+
+### Hoofdstuk 7. Provincies, gemeenten, waterschappen en andere openbare lichamen
+
+### Hoofdstuk 8. Herziening van de Grondwet
+
+### Additionele artikelen
+
+##### Artikel II
+
+Vervallen
