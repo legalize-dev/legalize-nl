@@ -4,7 +4,7 @@ identifier: "BWBR0009788"
 country: "nl"
 rank: "wet"
 publication_date: "2006-10-11"
-last_updated: "1998-08-21"
+last_updated: "2006-10-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009788"
 soort: "wet"
@@ -54,6 +54,8 @@ Wijzigt de Wet Incompatibiliteiten Staten-Generaal en Europees Parlement.
 2. Degenen die op grond van het eerste lid de aanspraken als omschreven in de [artikelen 4 tot en met 7 van de Wet Incompatibiliteiten Staten-Generaal en Europees Parlement](https://wetten.overheid.nl/jci1.3:c:BWBR0006612&artikel=4), zoals die luidden voor inwerkingtreding van deze wet, hebben behouden tot aan de eerstvolgende verkiezing van de leden van de Tweede Kamer der Staten-Generaal, worden indien zij opnieuw worden toegelaten tot het lidmaatschap van de Tweede Kamer omdat een ander lid van de Tweede Kamer minister of staatssecretaris wordt bij de kabinetsformatie, van rechtswege op non-actief gesteld. Zij verkrijgen opnieuw de aanspraken als omschreven in de [artikelen 4 tot en met 7 van de Wet Incompatibiliteiten Staten-Generaal en Europees Parlement](https://wetten.overheid.nl/jci1.3:c:BWBR0006612&artikel=4), zoals die luidden voor inwerkingtreding van deze wet.
 
 3. Degenen die een in [artikel 1, tweede en derde lid, van de Wet Incompatibiliteiten Staten-Generaal en Europees Parlement](https://wetten.overheid.nl/jci1.3:c:BWBR0006612&artikel=1) bedoeld ambt bekleden, worden, indien zij na de datum van inwerkingtreding van deze wet op grond van een voor de inwerkingtreding van deze wet gehouden verkiezing worden toegelaten tot het lidmaatschap van de Tweede Kamer der Staten-Generaal, van rechtswege op non-actief gesteld. Zij verkrijgen de aanspraken als omschreven in de [artikelen 4 tot en met 7 van de Wet Incompatibiliteiten Staten-Generaal en Europees Parlement](https://wetten.overheid.nl/jci1.3:c:BWBR0006612&artikel=4), zoals die luidden voor inwerkingtreding van deze wet. Het eerste en tweede lid zijn van overeenkomstige toepassing.
+
+4. Een tijdelijk ontslag als bedoeld in [artikel X 10 van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=X_10) geldt niet als een onderbreking in de zin van het eerste lid.
 
 ##### ARTIKEL III
 
