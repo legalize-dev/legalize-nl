@@ -4,7 +4,7 @@ identifier: "BWBR0012645"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-06-27"
-last_updated: "2005-07-13"
+last_updated: "2006-10-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012645"
 soort: "AMvB"
@@ -68,9 +68,9 @@ De vreemdeling die tegemoetkoming op grond van [hoofdstuk 3 van de wet](https://
 
 ##### Artikel 3. Nationaliteit voor hoofdstukken 4 en 5 van de wet
 
-1. [Artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012645&hoofdstuk=1&artikel=2&z=2005-07-13&g=2005-07-13) is van overeenkomstige toepassing op de vreemdeling die tegemoetkoming op grond van de [hoofdstukken 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=4) of [5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=5) aanvraagt, met dien verstande dat de verblijfsvergunning, bedoeld in [artikel 2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0012645&hoofdstuk=1&artikel=2&z=2005-07-13&g=2005-07-13), verleend is onder de beperking:
+1. [Artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012645&hoofdstuk=1&artikel=2&z=2006-10-11&g=2006-10-11) is van overeenkomstige toepassing op de vreemdeling die tegemoetkoming op grond van de [hoofdstukken 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=4) of [5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=5) aanvraagt, met dien verstande dat de verblijfsvergunning, bedoeld in [artikel 2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0012645&hoofdstuk=1&artikel=2&z=2006-10-11&g=2006-10-11), verleend is onder de beperking:
 
-- a. verband houdend met gezinshereniging of gezinsvorming als bedoeld in [artikel 15 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=15) met een Nederlander of met een vreemdeling als bedoeld in [artikel 2, onderdelen a, b, c of d](https://wetten.overheid.nl/jci1.3:c:BWBR0012645&hoofdstuk=1&artikel=2&z=2005-07-13&g=2005-07-13),
+- a. verband houdend met gezinshereniging of gezinsvorming als bedoeld in [artikel 15 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=15) met een Nederlander of met een vreemdeling als bedoeld in [artikel 2, onderdelen a, b, c of d](https://wetten.overheid.nl/jci1.3:c:BWBR0012645&hoofdstuk=1&artikel=2&z=2006-10-11&g=2006-10-11),
 
 - b. verblijf als alleenstaande minderjarige vreemdeling of als gevolg daarvan voortgezet verblijf, of
 
@@ -100,7 +100,7 @@ De vreemdeling die tegemoetkoming op grond van [hoofdstuk 3 van de wet](https://
 
 ### Hoofdstuk 2. Overgangsrecht
 
-##### Artikel 6. Overgangsbepaling [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012645&hoofdstuk=1&artikel=2&z=2005-07-13&g=2005-07-13) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0012645&hoofdstuk=1&artikel=3&z=2005-07-13&g=2005-07-13)
+##### Artikel 6. Overgangsbepaling [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012645&hoofdstuk=1&artikel=2&z=2006-10-11&g=2006-10-11) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0012645&hoofdstuk=1&artikel=3&z=2006-10-11&g=2006-10-11)
 
 Degenen die op 31 juli 2001 op grond van het [Besluit tegemoetkoming studiekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0008149) rechtmatig tegemoetkoming ontvingen, voldoen aan de nationaliteitseis, bedoeld in [artikel 2.2, eerste lid, aanhef en onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=2.2).
 
@@ -135,5 +135,23 @@ Dit besluit treedt in werking op 1 augustus 2001.
 ##### Artikel 13. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit tegemoetkoming onderwijsbijdrage en schoolkosten.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 3a. Nationaliteit voor [hoofdstuk 4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=4): gedeeltelijke gelijksteling
+
+1. Voor personen met de nationaliteit van een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte dan wel van Zwitserland anders dan werknemers, of zelfstandigen, of personen die deze status hebben behouden, en hun familieleden, die niet het duurzaam verblijfsrecht, bedoeld in artikel 16 van [Richtlijn 2004/38/EG](32004L0038), hebben verworven, betreft de gelijkstelling, op grond van [artikel 2.2, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=2.2), slechts een tegemoetkoming in de kosten van de toegang tot het onderwijs.
+
+2. De tegemoetkoming op grond van het eerste lid wordt verstrekt in de vorm van een gift en bestaat uit het bedrag genoemd in [artikel 4.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=4.6), en voorzover het een leerling betreft als bedoeld in [artikel 4.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=4.2), een bedrag ter grootte van eentwaalfde deel van het bedrag, bedoeld in [artikel 5, tweede lid van de Les- en cursusgeldwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&artikel=5). Het laatstgenoemde bedrag wordt niet uitbetaald maar verrekend met de aan de IB-Groep verschuldigde onderwijsbijdrage. Voorzover blijkt dat de onderwijsbijdrage reeds aan de IB-Groep is betaald, wordt het bedrag door de IB-Groep terugbetaald binnen 8 weken na het besluit, bedoeld in [artikel 4.8, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=4.8).
+
+3. In afwijking van [artikel 4.10, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=4.10), kan een aanvraag op grond van [artikel 2.2, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=2.2), betrekking hebben op een periode die uiterlijk aanvangt op de eerste dag van de vierde maand voorafgaand aan de maand waarin de aanvraag wordt ingediend.
+
+4. De tegemoetkoming wordt toegekend in één bedrag per schooljaar. Indien de aanspraak gedurende een schooljaar ontstaat bestaat de aanspraak uit ééntwaalfde van het bedrag per schooljaar maal het aantal resterende maanden van dat schooljaar.
+
+### Hoofdstuk 2. Overgangsrecht
+
+### Hoofdstuk 3. Wijzigingen in andere besluiten
+
+### Hoofdstuk 4. Slotbepalingen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
