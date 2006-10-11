@@ -4,7 +4,7 @@ identifier: "BWBR0004939"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2006-01-01"
+last_updated: "2006-10-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004939"
 soort: "wet"
@@ -48,7 +48,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - -. Onze Minister: Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;
 
-- -. schadeloosstelling: de schadeloosstelling, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004939&paragraaf=2&artikel=2&z=2006-01-01&g=2006-01-01) van deze wet;
+- -. schadeloosstelling: de schadeloosstelling, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004939&paragraaf=2&artikel=2&z=2006-10-11&g=2006-10-11) van deze wet;
 
 - -. kamerlid: lid van de Tweede Kamer der Staten-Generaal;
 
@@ -60,6 +60,8 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 2. Deze wet is niet van toepassing op kamerleden die het ambt van minister of staatssecretaris bekleden.
 
+3. De [artikelen 2 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0004939&paragraaf=2&artikel=2&z=2006-10-11&g=2006-10-11) van deze wet zijn van overeenkomstige toepassing op het kamerlid aan wie ingevolge [artikel X 10 van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=X_10) tijdelijk ontslag is verleend wegens zwangerschap en bevalling of ziekte.
+
 #### § 2:. Schadeloosstelling en tegemoetkoming in ziektekosten
 
 ##### Artikel 2
@@ -70,11 +72,11 @@ De kamerleden genieten een schadeloosstelling waarvan de hoogte overeenkomt met 
 
 1. Indien aan het burgerlijk rijkspersoneel een eenmalige uitkering wordt toegekend en wordt bepaald dat deze uitkering een algemeen karakter draagt, ontvangen de kamerleden een uitkering op gelijke voet.
 
-2. Indien de hoogte van de uitkering, bedoeld in het eerste lid, afhankelijk is van de hoogte van de schadeloosstelling, wordt bij de vaststelling hiervan rekening gehouden met een eventuele vermindering van de schadeloosstelling als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004939&paragraaf=2&artikel=3&z=2006-01-01&g=2006-01-01), met een eventuele toelage als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0004939&paragraaf=4&artikel=11&z=2006-01-01&g=2006-01-01), alsmede met een verhoging van de schadeloosstelling als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0004939&paragraaf=4&artikel=12&z=2006-01-01&g=2006-01-01).
+2. Indien de hoogte van de uitkering, bedoeld in het eerste lid, afhankelijk is van de hoogte van de schadeloosstelling, wordt bij de vaststelling hiervan rekening gehouden met een eventuele vermindering van de schadeloosstelling als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004939&paragraaf=2&artikel=3&z=2006-10-11&g=2006-10-11), met een eventuele toelage als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0004939&paragraaf=4&artikel=11&z=2006-10-11&g=2006-10-11), alsmede met een verhoging van de schadeloosstelling als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0004939&paragraaf=4&artikel=12&z=2006-10-11&g=2006-10-11).
 
 ##### Artikel 2b
 
-De kamerleden ontvangen een eindejaarsuitkering overeenkomstig de bepalingen welke daaromtrent voor het burgerlijk rijkspersoneel zijn vastgesteld. Grondslag voor de eindejaarsuitkering is de schadeloosstelling, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004939&paragraaf=2&artikel=2&z=2006-01-01&g=2006-01-01), verminderd met het in dat artikel bedoelde percentage en rekening houdend met een eventuele vermindering van de schadeloosstelling als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004939&paragraaf=2&artikel=3&z=2006-01-01&g=2006-01-01), alsmede de toelagen, bedoeld in de[artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0004939&paragraaf=4&artikel=11&z=2006-01-01&g=2006-01-01) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0004939&paragraaf=4&artikel=12&z=2006-01-01&g=2006-01-01).
+De kamerleden ontvangen een eindejaarsuitkering overeenkomstig de bepalingen welke daaromtrent voor het burgerlijk rijkspersoneel zijn vastgesteld. Grondslag voor de eindejaarsuitkering is de schadeloosstelling, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004939&paragraaf=2&artikel=2&z=2006-10-11&g=2006-10-11), verminderd met het in dat artikel bedoelde percentage en rekening houdend met een eventuele vermindering van de schadeloosstelling als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004939&paragraaf=2&artikel=3&z=2006-10-11&g=2006-10-11), alsmede de toelagen, bedoeld in de[artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0004939&paragraaf=4&artikel=11&z=2006-10-11&g=2006-10-11) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0004939&paragraaf=4&artikel=12&z=2006-10-11&g=2006-10-11).
 
 ##### Artikel 3
 
@@ -156,7 +158,9 @@ Vervallen
 
 waarbij bedrag A gelijk is aan de som van de bedragen, genoemd in artikel 5, eerste lid, van de Reisregeling binnenland voor vergoeding van kosten voor lunch, avondmaaltijd en voor kleine uitgaven overdag en ’s avonds en bedrag B gelijk is aan de som van de bedragen, genoemd in artikel 5, eerste lid, van die regeling voor vergoeding van kosten voor maaltijden, voor logies en voor kleine uitgaven overdag en ’s avonds. De vergoeding behorend bij afstanden, afgerond op hele kilometers, tussen de in bovenstaand schema genoemde afstanden, wordt berekend naar evenredigheid met het verschil tussen de in het schema aangegeven vergoedingen bij de naast hogere en naast lagere afstand. Het bedrag van de vergoeding wordt afgerond op hele euro's.
 
-3. Ten aanzien van een kamerlid van wie de arbeidsverhouding ingevolge [artikel 4, aanhef en onderdeel f, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=4) voor de toepassing van die wet als dienstbetrekking wordt aangemerkt, wordt het bedrag, berekend met toepassing van het tweede lid, vermenigvuldigd met 100/P, waarbij P wordt berekend door het getal 100 te verminderen met het getal van het hoogste tarief, bedoeld in kolom IV van [artikel 2.10 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.10).
+3. Het kamerlid aan wie ingevolge [artikel X 10 van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=X_10) tijdelijk ontslag is verleend wegens zwangerschap en bevalling of ziekte heeft aanspraak op een vergoeding van € 500,– per maand indien de afstand van de woonplaats van het kamerlid of het door het kamerlid bewoonde deel van de woonplaats tot het gebouw van de Tweede Kamer der Staten-Generaal groter is dan 75 km en hij voor de uitoefening van het kamerlidmaatschap beschikt over huisvesting voor verblijf in of nabij ’s-Gravenhage.
+
+4. Ten aanzien van een kamerlid van wie de arbeidsverhouding ingevolge [artikel 4, aanhef en onderdeel f, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=4) voor de toepassing van die wet als dienstbetrekking wordt aangemerkt, wordt het bedrag, berekend met toepassing van het tweede lid, vermenigvuldigd met 100/P, waarbij P wordt berekend door het getal 100 te verminderen met het getal van het hoogste tarief, bedoeld in kolom IV van [artikel 2.10 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.10).
 
 ##### Artikel 9
 
@@ -164,11 +168,13 @@ waarbij bedrag A gelijk is aan de som van de bedragen, genoemd in artikel 5, eer
 
 2. Ten aanzien van een kamerlid van wie de arbeidsverhouding ingevolge [artikel 4, aanhef en onderdeel f, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=4) voor de toepassing van die wet als dienstbetrekking wordt aangemerkt, wordt het bedrag, genoemd in het eerste lid, vermenigvuldigd met 100/P, waarbij P wordt berekend door het getal 100 te verminderen met het getal van het hoogste tarief, bedoeld in kolom IV van [artikel 2.10 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.10).
 
-3. Het bedrag, genoemd in het eerste lid, wordt per 1 januari van elk jaar door Onze Minister herzien aan de hand van de consumentenprijsindex, geldend voor de maand september van het voorafgaande jaar.
+3. Het kamerlid aan wie ingevolge [artikel X 10 van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=X_10) tijdelijk ontslag is verleend wegens zwangerschap en bevalling of ziekte ontvangt een onkostenvergoeding ter hoogte van de helft van het in het eerste lid genoemde bedrag. Het tweede lid is van overeenkomstige toepassing.
+
+4. Het bedrag, genoemd in het eerste lid, wordt per 1 januari van elk jaar door Onze Minister gewijzigd aan de hand van de consumentenprijsindex, geldend voor de maand september van het voorafgaande jaar.
 
 ##### Artikel 10
 
-De in de[artikelen 7 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0004939&paragraaf=3&artikel=7&z=2006-01-01&g=2006-01-01) bedoelde bedragen worden telkens wanneer zij wijziging ondergaan door Onze Minister in de **Staatscourant** bekend gemaakt.
+De in de [artikelen 6a tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0004939&paragraaf=3&artikel=7&z=2006-10-11&g=2006-10-11) bedoelde bedragen worden telkens wanneer zij wijziging ondergaan door Onze Minister in de **Staatscourant** bekend gemaakt.
 
 #### § 4:. Toelagen voorzitter, ondervoorzitters en fractievoorzitters
 
@@ -202,7 +208,7 @@ Vervallen
 
 ##### Artikel 14
 
-Bij de verrekening van de neveninkomsten, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004939&paragraaf=2&artikel=3&z=2006-01-01&g=2006-01-01), wordt de overhevelingstoeslag, bedoeld in de Wet overhevelingstoeslag opslagpremies of de Wet aanpassing uitkeringsregelingen overheveling opslagpremies buiten beschouwing gelaten.
+Bij de verrekening van de neveninkomsten, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004939&paragraaf=2&artikel=3&z=2006-10-11&g=2006-10-11), wordt de overhevelingstoeslag, bedoeld in de Wet overhevelingstoeslag opslagpremies of de Wet aanpassing uitkeringsregelingen overheveling opslagpremies buiten beschouwing gelaten.
 
 ##### Artikel 15
 
@@ -236,26 +242,46 @@ De Wet van 28 december 1989, houdende voorzieningen ten behoeve van de leden van
 
 ##### Artikel 19a
 
-Onder neveninkomsten als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004939&paragraaf=2&artikel=3&z=2006-01-01&g=2006-01-01), wordt met betrekking tot aan het kalenderjaar 2001 voorafgaande kalenderjaren verstaan winst uit onderneming en zuivere inkomsten uit tegenwoordige arbeid. Met betrekking tot die jaren wordt in [artikel 3, derde lid, onder Wet inkomstenbelasting 2001](onbekend) verstaan Wet op de inkomstenbelasting 1964.
+Onder neveninkomsten als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004939&paragraaf=2&artikel=3&z=2006-10-11&g=2006-10-11), wordt met betrekking tot aan het kalenderjaar 2001 voorafgaande kalenderjaren verstaan winst uit onderneming en zuivere inkomsten uit tegenwoordige arbeid. Met betrekking tot die jaren wordt in [artikel 3, derde lid, onder Wet inkomstenbelasting 2001](onbekend) verstaan Wet op de inkomstenbelasting 1964.
 
 ##### Artikel 20
 
-1. Onze Minister maakt de voor het jaar 1990 geldende bedragen, bedoeld in de[artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004939&paragraaf=2&artikel=2&z=2006-01-01&g=2006-01-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0004939&paragraaf=3&artikel=7&z=2006-01-01&g=2006-01-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0004939&paragraaf=3&artikel=8&z=2006-01-01&g=2006-01-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0004939&paragraaf=3&artikel=9&z=2006-01-01&g=2006-01-01), bekend in de Staatscourant.
+1. Onze Minister maakt de voor het jaar 1990 geldende bedragen, bedoeld in de[artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004939&paragraaf=2&artikel=2&z=2006-10-11&g=2006-10-11), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0004939&paragraaf=3&artikel=7&z=2006-10-11&g=2006-10-11), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0004939&paragraaf=3&artikel=8&z=2006-10-11&g=2006-10-11) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0004939&paragraaf=3&artikel=9&z=2006-10-11&g=2006-10-11), bekend in de Staatscourant.
 
-2. Bij de vaststelling van de bedragen bedoeld in de[artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004939&paragraaf=2&artikel=5&z=2006-01-01&g=2006-01-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0004939&paragraaf=4&artikel=11&z=2006-01-01&g=2006-01-01) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0004939&paragraaf=4&artikel=12&z=2006-01-01&g=2006-01-01) wordt de eenmalige uitkering van f 250 die per 1 april 1990 aan het rijksoverheidspersoneel is toegekend, buiten beschouwing gelaten.
+2. Bij de vaststelling van de bedragen bedoeld in de[artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004939&paragraaf=2&artikel=5&z=2006-10-11&g=2006-10-11), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0004939&paragraaf=4&artikel=11&z=2006-10-11&g=2006-10-11) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0004939&paragraaf=4&artikel=12&z=2006-10-11&g=2006-10-11) wordt de eenmalige uitkering van f 250 die per 1 april 1990 aan het rijksoverheidspersoneel is toegekend, buiten beschouwing gelaten.
 
 ##### Artikel 21
 
 1. Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin zij wordt geplaatst en werkt terug tot en met 1 januari 1990.
 
-2. Tot 1 januari 1991 dient [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004939&paragraaf=3&artikel=7&z=2006-01-01&g=2006-01-01), te worden gelezen als volgt: De kamerleden ontvangen een compensatie voor de reiskosten in het woon-werkverkeer gelijk aan het bedrag dat op grond van artikel 23, eerste lid, onder **b**, juncto artikel 23, vierde lid, van de Wet op de inkomstenbelasting 1964 niet tot de inkomsten uit arbeid behoort. Bij de vaststelling van het in de vorige volzin bedoelde bedrag, wordt er van uit gegaan dat niet met het openbaar vervoer wordt gereisd.
+2. Tot 1 januari 1991 dient [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004939&paragraaf=3&artikel=7&z=2006-10-11&g=2006-10-11), te worden gelezen als volgt: De kamerleden ontvangen een compensatie voor de reiskosten in het woon-werkverkeer gelijk aan het bedrag dat op grond van artikel 23, eerste lid, onder **b**, juncto artikel 23, vierde lid, van de Wet op de inkomstenbelasting 1964 niet tot de inkomsten uit arbeid behoort. Bij de vaststelling van het in de vorige volzin bedoelde bedrag, wordt er van uit gegaan dat niet met het openbaar vervoer wordt gereisd.
 
-3. Voor de tegemoetkoming in de premie van een ziektekostenverzekering, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0004939&paragraaf=2&artikel=6&z=2006-01-01&g=2006-01-01) en [artikel 16, onder D](https://wetten.overheid.nl/jci1.3:c:BWBR0004939&paragraaf=6&artikel=16&z=2006-01-01&g=2006-01-01), over het jaar 1990, blijft de tweede volzin van artikel 6, tweede lid, van de Interimregeling ziektekosten ambtenaren 1982 buiten toepassing.
+3. Voor de tegemoetkoming in de premie van een ziektekostenverzekering, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0004939&paragraaf=2&artikel=6&z=2006-10-11&g=2006-10-11) en [artikel 16, onder D](https://wetten.overheid.nl/jci1.3:c:BWBR0004939&paragraaf=6&artikel=16&z=2006-10-11&g=2006-10-11), over het jaar 1990, blijft de tweede volzin van artikel 6, tweede lid, van de Interimregeling ziektekosten ambtenaren 1982 buiten toepassing.
 
 4. De op 1 januari 1990 ingevolge deze wet geldende schadeloosstelling is met ingang van die dag de berekeningsgrondslag van een uitkering, die ingevolge [artikel 51 van de Algemene pensioenwet politieke ambtsdragers](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=51) is toegekend aan een gewezen kamerlid die is afgetreden vóór 2 januari 1990.
 
 ##### Artikel 22
 
 Deze wet kan worden aangehaald als: Wet schadeloosstelling leden Tweede Kamer.
+
+Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 6a
+
+1. Het kamerlid dat ingevolge [artikel X 12 van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=X_12) is benoemd in de plaats die is opengevallen als gevolg van het tijdelijk ontslag van een lid wegens zwangerschap en bevalling of ziekte, ontvangt een bedrag van € 590 per maand waarmee voorzieningen kunnen worden getroffen ter zake van arbeidsongeschiktheid, ouderdom en overlijden.
+
+2. Het bedrag, genoemd in het eerste lid, wordt door Onze Minister gewijzigd overeenkomstig de procentuele wijzigingen die de schadeloosstelling, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004939&paragraaf=2&artikel=2&z=2006-10-11&g=2006-10-11), ondergaat.
+
+#### § 3. Onkostenvergoedingen
+
+#### § 4:. Toelagen voorzitter, ondervoorzitters en fractievoorzitters
+
+#### § 5:. Overhevelingstoeslag opslagpremies
+
+#### § 6:. Leden Europees Parlement
+
+#### § 7:. Wijziging [Algemene pensioenwet politieke ambtsdragers](https://wetten.overheid.nl/jci1.3:c:BWBR0002691)
+
+#### § 8:. Overgangs- en slotbepalingen
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
