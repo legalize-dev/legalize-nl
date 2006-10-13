@@ -4,7 +4,7 @@ identifier: "BWBR0012287"
 country: "nl"
 rank: "circulaire"
 publication_date: "2026-04-03"
-last_updated: "2006-07-16"
+last_updated: "2006-10-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012287"
 soort: "circulaire"
@@ -407,7 +407,7 @@ Ingevolge artikel 5, eerste lid, onder e, SUO kan toegang worden verleend aan vr
 
 Bij artikel 10 SUO is een eenvormig visum vastgesteld dat geldig is voor het gehele Schengengebied. De Schengenstaten geven het Schengenvisum af in de vorm van een sticker. Bepalingen omtrent visa zijn verder opgenomen in de GVI.
 
-Zie voor modellen van visa, afgegeven in het buitenland of aan de grens, [model M2-A](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M2-A&z=2006-07-16&g=2006-07-16), M2-B en bijlage 13 en BNL bijlage VI, GVI.
+Zie voor modellen van visa, afgegeven in het buitenland of aan de grens, [model M2-A](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M2-A&z=2006-07-16&g=2006-10-13), M2-B en bijlage 13 en BNL bijlage VI, GVI.
 
 In hoofdstuk VI GVI en bijlage 9, 10, 11 en 13 GVI is aangegeven op welke wijze een visumsticker moet worden ingevuld en aangebracht.
 
@@ -857,7 +857,7 @@ De vervoerder is verplicht een vreemdeling aan wie de toegang is geweigerd onver
 
 Tot op het tijdstip van uitvoering van de terugbrenging dienen geweigerde vreemdelingen zich op te houden in de hun daartoe door een met de grensbewaking belaste ambtenaar aangewezen ruimte, die kan worden afgesloten of op andere wijze kan worden verzekerd tegen ongeoorloofd vertrek daaruit. Dit teneinde illegale binnenkomst te verhinderen.
 
-Indien de uitzetting van een vreemdeling aan wie ten tijde van de uitzetting de toegang was geweigerd, mislukt en hij terugkeert nadat hij aan boord van een vliegtuig of schip het Nederlands grondgebied had verlaten, dient opnieuw te worden bekeken of de vreemdeling voldoet aan de voorwaarden voor toegang. Als niet aan de voorwaarden wordt voldaan, zal de toegang tot Nederland opnieuw moeten worden geweigerd. Tevens zal, ingeval de vreemdeling op grond van [artikel 65 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=65) is verwijderd, de vervoerder een nieuwe aanwijzing krijgen om de vreemdeling om niet terug te voeren naar een plaats buiten Nederland (zie [model M29](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M29&z=2006-07-16&g=2006-07-16)).
+Indien de uitzetting van een vreemdeling aan wie ten tijde van de uitzetting de toegang was geweigerd, mislukt en hij terugkeert nadat hij aan boord van een vliegtuig of schip het Nederlands grondgebied had verlaten, dient opnieuw te worden bekeken of de vreemdeling voldoet aan de voorwaarden voor toegang. Als niet aan de voorwaarden wordt voldaan, zal de toegang tot Nederland opnieuw moeten worden geweigerd. Tevens zal, ingeval de vreemdeling op grond van [artikel 65 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=65) is verwijderd, de vervoerder een nieuwe aanwijzing krijgen om de vreemdeling om niet terug te voeren naar een plaats buiten Nederland (zie [model M29](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M29&z=2006-07-16&g=2006-10-13)).
 
 De situatie is anders bij de vreemdeling die Nederland uit eigen beweging verlaat, maar aan wie door de autoriteiten van het land van bestemming of van transit de toegang wordt geweigerd en wordt teruggezonden. De vreemdeling dient bij terugkomst in Nederland wel te voldoen aan de voorwaarden voor toegang, en als niet aan de voorwaarden wordt voldaan, zal de toegang tot Nederland worden geweigerd, maar de vervoerder door wiens tussenkomst de vreemdeling terug naar Nederland is vervoerd kan in dat geval niet de verplichting van [artikel 65 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=65) worden opgelegd tot het vervoeren van de vreemdeling naar een plaats buiten Nederland.
 
@@ -1005,7 +1005,7 @@ Indien de vreemdeling zich ondanks een verplichting daartoe niet houdt aan de me
 
 ### 6.2.3.1. Diplomatieke en consulaire ambtenaren
 
-### 3.1.1. Bericht over een bezwaar- of administratief beroepschrift of voorlopige voorziening en het (niet) achterwege laten van de uitzetting
+### 6.2.3.1. Diplomatieke en consulaire ambtenaren
 
 ### 3.1.2. Het stellen van een aantekening indien de werking van het besluit wordt opgeschort
 
@@ -1027,7 +1027,7 @@ Indien de vreemdeling zich ondanks een verplichting daartoe niet houdt aan de me
 
 ### 5.1. Algemeen
 
-Wanneer vreemdelingen strafbare feiten plegen is het van belang dat de vreemdelingrechtelijke consequenties hiervan worden bezien. Zoveel als mogelijk dienen criminele illegale vreemdelingen na ommekomst van hun straf uit Nederland te worden verwijderd, bij voorkeur vanuit strafrechtelijke detentie. Waar mogelijk moeten zij ook ongewenst worden verklaard (zie B1/2.2.4.4). Voor zover het vreemdelingen betreft die rechtmatig in Nederland verblijven moet worden bezien of het verblijfsrecht kan worden beëindigd, of voortgezet verblijf kan worden ontzegd. Zie voor de intrekking van verblijfsvergunningen asiel C6/31. Voor de intrekking van verblijfsvergunningen regulier, zie B1/4.5.2.1 en B1/3.4. Ook is het van belang dat de verblijfsrechtelijke status van de criminele vreemdeling in de strafrechtketen bekend is. Op deze wijze kunnen werkwijzen en beleidsregels die specifiek gelden voor vreemdelingen worden toegepast.
+Ten aanzien van diplomatieke en consulaire ambtenaren, hun gezinsleden en personeel, welke slechts op doorreis in Nederland zijn, is de [Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) niet van toepassing voor zover het de doorreis naar of terugkeer van de diplomatieke zending of consulaire post in een derde land betreft. Hetgeen onder a is opgemerkt over de bijzondere status geldt ook hier.
 
 Deze vreemdelingen zijn óf beroepskoeriers óf als zodanig voor één reis aangewezen.
 
@@ -1037,9 +1037,11 @@ Deze vreemdelingen zijn óf beroepskoeriers óf als zodanig voor één reis aang
 
 ### 6.2.3.3. Leden van internationale organisaties
 
-### 6.1.1. Aanlevering van de vreemdeling ten behoeve van uitzetting
+### 6.2.3.3. Leden van internationale organisaties
 
-Wanneer vreemdelingen strafbare feiten plegen is het van belang dat de vreemdelingrechtelijke consequenties hiervan worden bezien. Zoveel als mogelijk dienen criminele illegale vreemdelingen na ommekomst van hun straf uit Nederland te worden verwijderd, bij voorkeur vanuit strafrechtelijke detentie. Waar mogelijk moeten zij ook ongewenst worden verklaard (zie B1/2.2.4.4). Voor zover het vreemdelingen betreft die rechtmatig in Nederland verblijven moet worden bezien of het verblijfsrecht kan worden beëindigd, of voortgezet verblijf kan worden ontzegd. Zie voor de intrekking van verblijfsvergunningen asiel C6/31. Voor de intrekking van verblijfsvergunningen regulier, zie B1/4.5.2.1 en B1/3.4. Ook is het van belang dat de verblijfsrechtelijke status van de criminele vreemdeling in de strafrechtketen bekend is. Op deze wijze kunnen werkwijzen en beleidsregels die specifiek gelden voor vreemdelingen worden toegepast.
+De [Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) is in het algemeen niet van toepassing op vreemdelingen die een bijzondere status bezitten krachtens een zetelovereenkomst gesloten met een internationale organisatie waarin is bepaald dat de zetel, dat wil zeggen hoofdkantoor, in Nederland is gevestigd en waarin (mede) bepalingen zijn opgenomen omtrent hun verblijfsrechtelijke positie. Zij zijn in het bezit van het eerdergenoemde geprivilegieerdendocument (zie [model M81](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M81&z=2006-11-16&g=2006-10-13)). Voor deze categorie geldt hetgeen hierboven bij a (niet-duurzaam verblijf) is opgemerkt over de bijzondere status. Voor een overzicht van de categorieën vreemdelingen die krachtens een internationale overeenkomst een geprivilegieerdendocument bezitten, wordt verwezen naar [B12/4](onbekend).
+
+Op vreemdelingen van wie niet is gebleken dat zij tot een van de hierboven genoemde categorieën behoren, kunnen de bepalingen van de [Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) worden toegepast. Het kan voorkomen dat een vreemdeling die op grond van [artikel 50, eerste lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=50) staande is gehouden ter vaststelling van zijn identiteit, zich beroept op een bijzondere status, maar niet terstond door het tonen van een legitimatiebewijs of ander document aannemelijk kan maken dat hij die status inderdaad bezit. Dit kan met name het geval zijn ten aanzien van personen die behoren tot de categorieën a en c, bij eerste binnenkomst in Nederland en bij functionarissen, hun gezinsleden en personeel op doorreis.
 
 Op vreemdelingen van wie niet is gebleken dat zij tot een van de hierboven genoemde categorieën behoren, kunnen de bepalingen van de [Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) worden toegepast. Het kan voorkomen dat een vreemdeling die op grond van [artikel 50, eerste lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=50) staande is gehouden ter vaststelling van zijn identiteit, zich beroept op een bijzondere status, maar niet terstond door het tonen van een legitimatiebewijs of ander document aannemelijk kan maken dat hij die status inderdaad bezit. Dit kan met name het geval zijn ten aanzien van personen die behoren tot de categorieën a en c, bij eerste binnenkomst in Nederland en bij functionarissen, hun gezinsleden en personeel op doorreis.
 
@@ -1047,13 +1049,11 @@ In de laatstgenoemde situatie zal een reisbiljet soms de bijzondere status aanne
 
 Zolang niet duidelijk is geworden dat de [Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) niet van toepassing is, kan gebruik worden gemaakt van de in [artikel 50, tweede lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=50) toegekende bevoegdheid tot het overbrengen naar en het zich ophouden op een plaats bestemd voor verhoor. Daarbij dient wel met enige voorzichtigheid te worden gehandeld.
 
-T.a.v. vreemdelingen, verblijvend in centrale of decentrale opvang, die verstrekkingen ontvangen op grond van de ROA- of RVA-regeling en die niet vallen onder de werking van [vreemdelingenwet 2000,](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) Stappenplan 2000 of Stappenplan VVTV-Zorgwet is het Stappenplan ROA/RVA-voorzieningen van toepassing. Dit stappenplan is gepubliceerd in de Stcrt. 2000, 53. Binnen dit stappenplan wordt uitgegaan van het meewerkcriterium.
-
 Dit stappenplan is gepubliceerd in de Stcrt. 2000, 233. Het Stappenplan Zorgwet VVTV is van toepassing op vreemdelingen aan wie voorzieningen worden verstrekt in het kader van de Zorgwet VVTV en van wie op of na de datum van inwerkingtreding van de circulaire Stappenplan Zorgwet VVTV een beslissing tot intrekking of niet-verlenging van de VVTV is genomen of een negatieve beslissing op het ingediende bezwaar tegen de intrekking of de niet-verlenging van de VVTV is genomen.
 
 Aan vreemdelingen die reizen op een geldig collectief paspoort of een geldige collectieve lijst kan toegang worden verleend voor een verblijf van ten hoogste 3 maanden of voor doorreis, mits:
 
-Collectieve paspoorten of lijsten afgegeven door de autoriteiten van Albanië, Bulgarije, China, Cuba, Roemenië, Rusland dan wel door de autoriteiten van een niet door Nederland erkende regering of staat, worden niet erkend als een geldig document voor grensoverschrijding (zie [bijlage 3, VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=3)).
+Aan vreemdelingen die reizen op een geldig collectief paspoort of een geldige collectieve lijst kan toegang worden verleend voor een verblijf van ten hoogste 3 maanden of voor doorreis, mits:
 
 ### 6.7. Toezending van reisdocumenten aan de doorlaatpost van uitreis
 
@@ -1073,7 +1073,7 @@ Collectieve paspoorten of lijsten afgegeven door de autoriteiten van Albanië, B
 
 ### 6.2.4.2. Controle van personen reizend op een collectief reisdocument
 
-### 6.12.2. De vreemdeling onttrekt zich aan uitzetting
+### 6.2.4.2. Controle van personen reizend op een collectief reisdocument
 
 ### 6.13. Beëindiging verstrekkingen
 
@@ -1093,7 +1093,7 @@ Collectieve paspoorten of lijsten afgegeven door de autoriteiten van Albanië, B
 
 ### 6.2.5. Piloten en andere bemanningsleden van luchtvaartuigen
 
-### 6.17. Signalering in het opsporingsregister
+### 6.2.5. Piloten en andere bemanningsleden van luchtvaartuigen
 
 ### 6.18. Bericht van vertrek
 
@@ -1105,7 +1105,7 @@ Collectieve paspoorten of lijsten afgegeven door de autoriteiten van Albanië, B
 
 ### 6.2.6. Transitpassagiers van vliegtuigen
 
-### 7.2.1. Inwilliging
+### 6.2.6. Transitpassagiers van vliegtuigen
 
 ### 7.2.2. Afwijzing
 
@@ -1125,17 +1125,17 @@ Collectieve paspoorten of lijsten afgegeven door de autoriteiten van Albanië, B
 
 ### 9.2. Verstekelingen
 
+In plaats van het stellen van een aantekening kan, in het geval van toegangverlening aan de transitpassagier van een vliegtuig, een afzonderlijke verklaring aan de vreemdeling worden verstrekt (zie [bijlage 5a VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=5a)).
+
 De territoriale geldigheid van de toegang wordt beperkt wanneer het document voor grensoverschrijding van de vreemdeling niet geldig is voor België of Luxemburg. In dat geval wordt bij de aantekening aangegeven voor welk(e) Benelux-land(en) deze geldig is.
 
 Indien de vreemdeling aan wie toegang is verleend niet op het voorgeschreven tijdstip is vertrokken, moet hiervan onmiddellijk kennis worden gegeven aan de ambtenaren der KMar belast met het toezicht op vreemdelingen, alsmede aan de vreemdelingenpolitie.
-
-Wanneer het binnenkomst met een paspoort of enig ander daarvoor in de plaats tredend document betreft, dient het verzoek tot overname binnen een termijn van drie maanden, te rekenen vanaf het verstrijken van de termijn gedurende welke de vreemdeling zich vrijelijk op het Beneluxgebied mag verplaatsen.
 
 [Artikel 2.8 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=2.8) handelt over bemanningsleden van zeeschepen. In de reisdocumenten van zeelieden die slechts gedurende het afmeren van hun schip in de binnengevaren haven verblijven wordt geen in- of uitreisstempel aangebracht.
 
 ### 6.2.7.1. Passagieren in de havenplaats of aangrenzende gemeente
 
-### 10.5. Verantwoording ontvangen gelden
+### 6.2.7.1. Passagieren in de havenplaats of aangrenzende gemeente
 
 ### 10.6. Declareren van kosten bij de IND
 
@@ -1143,7 +1143,7 @@ Wanneer het binnenkomst met een paspoort of enig ander daarvoor in de plaats tre
 
 ### 6.2.7.2. Toegang tot andere gemeenten
 
-### 11.1. Inleiding
+### 6.2.7.2. Toegang tot andere gemeenten
 
 ### 11.2. Terug- en overname – Benelux intern
 
@@ -1151,7 +1151,7 @@ Wanneer het binnenkomst met een paspoort of enig ander daarvoor in de plaats tre
 
 ### 6.2.7.3. Zeelieden die niet of niet langer mogen passagieren
 
-### 11.2.2.1. Hoofdregels
+### 6.2.7.3. Zeelieden die niet of niet langer mogen passagieren
 
 ### 11.2.2.2. Onmiddellijke verwijdering naar België of Luxemburg
 
@@ -1159,7 +1159,7 @@ Wanneer het binnenkomst met een paspoort of enig ander daarvoor in de plaats tre
 
 ### 6.2.7.4. Zieke zeelieden
 
-### 11.2.2.5. Vluchtelingen
+### 6.2.7.4. Zieke zeelieden
 
 ### 11.3. Terug- en overname – Benelux-derde landen
 
@@ -1167,7 +1167,7 @@ Wanneer het binnenkomst met een paspoort of enig ander daarvoor in de plaats tre
 
 ### 6.2.7.5. Werkzoekende zeelieden
 
-### 11.3.1.2. Verwijdering van derde landers naar Duitsland (artikelen 4 en 5 van de overeenkomst)
+### 6.2.7.5. Werkzoekende zeelieden
 
 ### 11.3.1.3. Doorgeleiding van vreemdelingen bestemd voor verwijdering naar derde landen (artikel 6 van de overeenkomst)
 
@@ -1177,9 +1177,9 @@ Wanneer het binnenkomst met een paspoort of enig ander daarvoor in de plaats tre
 
 ### 6.2.8. Werknemers van een boorplatform en suppliers
 
-### 6.2.8.1. Algemene beleidsregels
+### 6.2.8. Werknemers van een boorplatform en suppliers
 
-### 11.2.2.5. Vluchtelingen
+### 6.2.8.1. Algemene beleidsregels
 
 ### 11.3. Terug- en overname – Benelux-derde landen
 
@@ -1187,7 +1187,7 @@ Wanneer het binnenkomst met een paspoort of enig ander daarvoor in de plaats tre
 
 ### 6.2.8.2. Vertrek naar een boorinstallatie
 
-### 11.3.3. Verwijdering van vreemdelingen naar Oostenrijk
+### 6.2.8.2. Vertrek naar een boorinstallatie
 
 ### 11.3.3.1. Verwijdering van Oostenrijkse onderdanen (artikel 1 van de overeenkomst)
 
@@ -1195,19 +1195,19 @@ Wanneer het binnenkomst met een paspoort of enig ander daarvoor in de plaats tre
 
 ### 6.2.8.3. Walverlof
 
-### 11.3.4. Verwijdering van vreemdelingen naar Slovenië
+### 6.2.8.3. Walverlof
 
 ### 6.2.8.4. Vreemdelingen die werkzaam zijn in de offshoresector
 
-### 11.3.4.2. Verwijdering van derde landers naar Slovenië (artikel 4 van de overeenkomst)
+### 6.2.8.4. Vreemdelingen die werkzaam zijn in de offshoresector
 
-Wanneer het binnenkomst met een paspoort of enig ander daarvoor in de plaats tredend document betreft, dient het verzoek tot overname binnen een termijn van drie maanden, te rekenen vanaf het verstrijken van de termijn gedurende welke de vreemdeling zich vrijelijk op het Beneluxgebied mag verplaatsen.
+Het bovenstaande kan ook toegepast worden indien de betrokken vreemdeling niet werkzaam is op een boorplatform maar bij een bedrijf dat ondersteunend werkt voor booreilanden (bijvoorbeeld de zogenaamde ‘suppliers’).
 
-### 11.3.5. Verwijdering van vreemdelingen naar Roemenië
+### 6.2.9. Minderjarigen (inclusief adoptie(f)- en pleegkinderen)
 
 ### 6.2.9.1. Minderjarigen die reizen onder begeleiding
 
-### 11.3.6. Verwijdering van vreemdelingen naar Bulgarije
+### 6.2.9.1. Minderjarigen die reizen onder begeleiding
 
 ### 11.3.6.1. Verwijdering van Bulgaarse onderdanen (artikel 2 van de overeenkomst)
 
@@ -1215,11 +1215,11 @@ Wanneer het binnenkomst met een paspoort of enig ander daarvoor in de plaats tre
 
 ### 6.2.9.2. Alleenreizende minderjarigen
 
-### 11.3.7. Verwijdering van vreemdelingen naar Estland
+### 6.2.9.2. Alleenreizende minderjarigen
 
 ### 6.2.9.3. Adoptie(f)- en pleegkinderen
 
-### 11.3.7.2. Verwijdering van derde landers naar Estland (artikel 3 van de overeenkomst)
+### 6.2.9.3. Adoptie(f)- en pleegkinderen
 
 ### 11.3.7.3. Doorgeleiding van vreemdelingen bestemd voor verwijdering naar derde landen (artikel 10 van de overeenkomst)
 
@@ -1229,13 +1229,13 @@ Wanneer het binnenkomst met een paspoort of enig ander daarvoor in de plaats tre
 
 ### 11.3.8.2. Verwijdering van derde landers naar Letland (artikel 3 van de overeenkomst)
 
+In beide gevallen wordt een meldplicht opgelegd als bedoeld in [artikel 4.26 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.26).
+
 In het al tweede geval wordt bovendien van de aspirant-pleegouders verlangd dat zij een garantverklaring (zie de [bijlage 6c VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=6c)) ondertekenen. Bij aspirant-adoptie(f)ouders is het ondertekenen van zo’n verklaring niet nodig.
 
-Indien de vreemdeling wordt vervoerd (bijv. ter effectuering van de uitzetting), dient de ambtenaar die voor het vervoer verantwoordelijk is, het C-gedeelte in te vullen. Op het C-gedeelte is ruimte voor opmerkingen over in totaal drie vervoersbewegingen.
+### 6.2.10. Vreemdelingen aan wie lang verblijf is toegestaan
 
 ### 6.2.10.1. In Nederland voor lang verblijf toegelaten vreemdelingen
-
-### 11.3.9.2. Verwijdering van derde landers naar Litouwen (artikel 3 van de overeenkomst)
 
 ### 11.3.9.3. Doorgeleiding van vreemdelingen bestemd voor verwijdering naar derde landen
 
@@ -1259,7 +1259,7 @@ Indien de vreemdeling wordt vervoerd (bijv. ter effectuering van de uitzetting),
 
 ### 6.2.10.2. Vreemdelingen die een beslissing over verblijf mogen afwachten
 
-### 11.4.2.2. Rol Dublinbureaus bij de aanmeldcentra
+### 6.2.10.2. Vreemdelingen die een beslissing over verblijf mogen afwachten
 
 ### 11.4.2.3. Rol Dublinbureaus bij de terug- en overnameovereenkomsten
 
@@ -1267,7 +1267,7 @@ Indien de vreemdeling wordt vervoerd (bijv. ter effectuering van de uitzetting),
 
 ### 6.2.10.3. In de overige Schengenstaten voor lang verblijf toegelaten vreemdelingen
 
-### 12.2. Houders van door Zwitserland afgegeven reisdocumenten voor werkende vluchtelingen
+### 6.2.10.3. In de overige Schengenstaten voor lang verblijf toegelaten vreemdelingen
 
 ### A5. Vrijheidsbeperkende en vrijheidsontnemende maatregelen
 
@@ -1277,9 +1277,9 @@ Indien de vreemdeling wordt vervoerd (bijv. ter effectuering van de uitzetting),
 
 ### 6.2.11. Vluchtelingen
 
-### 6.2.11.1. Houders van reisdocumenten voor vluchtelingen
+### 6.2.11. Vluchtelingen
 
-### 1.3. Geleidebrief/checklist
+### 6.2.11.1. Houders van reisdocumenten voor vluchtelingen
 
 ### 11.4.2.3. Rol Dublinbureaus bij de terug- en overnameovereenkomsten
 
@@ -1291,13 +1291,13 @@ Indien de vreemdeling wordt vervoerd (bijv. ter effectuering van de uitzetting),
 
 ### 6.2.11.2. Uitgenodigde vluchtelingen
 
-### 2.1. Algemeen
+### 6.2.11.2. Uitgenodigde vluchtelingen
 
 ### 2.2. Het toepassen van de vrijheidsbeperkende of vrijheidsontnemende maatregel op grond van artikel 6 Vreemdelingenwet
 
 ### 6.2.12. Houders van vreemdelingenpaspoorten (staatlozen)
 
-### 2.2.2. De bevoegdheid
+### 6.2.12. Houders van vreemdelingenpaspoorten (staatlozen)
 
 ### 2.2.3. De toepassing
 
@@ -1313,11 +1313,11 @@ Indien de vreemdeling wordt vervoerd (bijv. ter effectuering van de uitzetting),
 
 ### 7. Verplichtingen voor vervoerders, bestuurders en gezagvoerders
 
+### 7. Verplichtingen voor vervoerders, bestuurders en gezagvoerders
+
 ### 7.1. Verplichtingen voor vervoerders
 
 ### 7.1.1. Inleiding
-
-### 3.1.1. Algemeen
 
 ### 3.1.2. Het doel
 
@@ -1327,7 +1327,7 @@ Indien de vreemdeling wordt vervoerd (bijv. ter effectuering van de uitzetting),
 
 ### 7.1.2. De zorgplicht
 
-### 3.1.5. Het staandehouden, onderzoeken (fouilleren) en doorzoeken
+### 7.1.2. De zorgplicht
 
 ### 4. Toezicht
 
@@ -1343,7 +1343,7 @@ Indien de vreemdeling wordt vervoerd (bijv. ter effectuering van de uitzetting),
 
 ### 7.1.3. De afschriftplicht
 
-### 4.3.4. De beëindiging
+### 7.1.3. De afschriftplicht
 
 ### 5. Uitzetting
 
@@ -1361,11 +1361,11 @@ Indien de vreemdeling wordt vervoerd (bijv. ter effectuering van de uitzetting),
 
 ### 7.1.4. De terugvoerplicht
 
-### 5.2.5. De beëindiging
+### 7.1.4. De terugvoerplicht
+
+Als uitwerking van artikel 26 SUO, is in [artikel 65](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=65), juncto [artikel 5, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=5) de verplichting voor de vervoerder vastgelegd om een vreemdeling die hij naar Nederland heeft vervoerd en aan wie de toegang tot het Schengengebied is geweigerd terug te brengen naar een plaats buiten Nederland.
 
 Blijkens de toelichting bij [artikel 5 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=5) dient de vervoerder een vreemdeling aan wie de toegang tot het Schengengebied is geweigerd, terug te brengen naar het derde land van waaruit hij werd aangevoerd, dan wel te vervoeren naar het derde land dat het document voor grensoverschrijding waarmee de vreemdeling heeft gereisd heeft afgegeven, of naar ieder derde land waar zijn toelating is gewaarborgd.
-
-Ingevolge [artikel 65, eerste lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=65) is deze terugvoerplicht van toepassing op de vreemdeling die Nederland onmiddellijk dient te verlaten dan wel die binnen zes maanden na binnenkomst met het oog op uitzetting is aangehouden. Voor de vaststelling van de termijn van zes maanden is beslissend het tijdstip van staande houden. De plaatsing van de vreemdeling aan boord van een schip of vliegtuig dat bij dezelfde vervoersonderneming in gebruik is, kan eventueel ook op een later tijdstip plaatsvinden. Dit is onder meer het geval indien de vreemdeling kort voor het verstrijken van bedoelde termijn wordt aangetroffen.
 
 ### 5.2.5.3. Beëindiging door de rechtbank
 
@@ -1389,7 +1389,7 @@ Ingevolge [artikel 65, eerste lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0
 
 ### 7.1.5. Strafrechtelijke aansprakelijkheid
 
-### 5.3.3.6. Asielzoekers in bewaring (band C Asiel)
+### 7.1.5. Strafrechtelijke aansprakelijkheid
 
 ### 5.3.3.7. Dublinclaimanten in bewaring
 
@@ -1401,7 +1401,9 @@ Ingevolge [artikel 65, eerste lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0
 
 ### 7.1.6. Aansprakelijkheid voor uitzettings- en verblijfskosten
 
-### 5.3.4.2. Bijstand van een raadsman
+### 7.1.6. Aansprakelijkheid voor uitzettings- en verblijfskosten
+
+Indien het niet binnen redelijke tijd mogelijk is de vreemdeling naar een plaats buiten Nederland te vervoeren, dan kunnen de kosten van uitzetting uit Nederland, waaronder ook de verblijfskosten kunnen worden begrepen ingevolge [artikel 65 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=65), juncto [artikel 6.3 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=6.3), op die vervoersonderneming worden verhaald.
 
 Deze kosten omvatten blijkens [artikel 6.3 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=6.3) in ieder geval de kosten verbonden aan:
 
@@ -1409,17 +1411,17 @@ Onder de kosten van uitzetting zijn ook begrepen de kosten van de handelingen, z
 
 Nadat een vreemdeling is terugvervoerd, leveren alle overheidsinstanties de IND een overzicht aan van de kosten die zij met betrekking tot de betreffende vreemdeling hebben gemaakt. Zij doen dit aan de hand van onderstaande tarievenlijst. Deze gestandaardiseerde tarieven betreffen de kosten van uitzetting en de kosten van verblijf die de overheid maakt met betrekking tot vreemdelingen aan wie de toegang tot Nederland is geweigerd. De tarieven zijn gebaseerd op de werkelijk gemaakte kosten van de diverse betrokken instanties. De tarieven zullen jaarlijks – per 1 januari – worden herzien en worden gepubliceerd in de Stcrt.
 
-De IND stuurt de vervoerder vervolgens een rekening die de kosten omvat die door de diverse instanties zijn gemaakt. De instanties die het betreft, ontvangen alle een kopie van de rekening. De vervoerder dient het betreffende bedrag voorts over te maken aan de IND, waarna deze laatste de andere overheidspartijen hun aandeel doet toekomen.
-
 ### 5.3.5. De duur
 
 ### 5.3.5.1. Indienen van voorlopige voorziening tijdens bewaring
 
 ### 7.2. Verplichtingen voor bestuurders en gezagvoerders
 
-### 5.3.6.1. Plaats van tenuitvoerlegging
+### 7.2. Verplichtingen voor bestuurders en gezagvoerders
 
 ### 5.3.4.1. Het gehoor
+
+Voor de verplichtingen voor gezagvoerders in de (internationale) luchtvaart wordt verwezen naar [artikel 4.15](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.15) en [4.16 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.16). Voor de verplichtingen voor gezagvoerders in de zeevaart wordt verwezen naar [artikel 4.9 tot en met 4.14 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.10). Hieruit blijkt onder meer dat in beginsel de gezagvoerders direct bij binnenkomst een passagiers- en bemanningslijst dienen te overhandigen aan de ambtenaar belast met de grensbewaking. In het VV zijn voor wat betreft de (internationale) luchtvaart modellen voor bemannings- en passagierslijsten opgenomen in [bijlage 15](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=15) en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=16). Voor wat betreft de zeevaart zijn modellen voor bemannings- en passagierslijsten opgenomen in [bijlage 14a tot en met 14d VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=14a). De in [bijlage 14c](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=14c) en [14d VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=14d) opgenomen passagierslijst wordt gehanteerd voor schepen die gecertificeerd zijn voor het vervoer van ten hoogste twaalf passagiers (zie [artikel 4.4 VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&artikel=4.4)). De passagierslijst kan tevens gebruikt worden voor de opgave van de aanwezigheid van aangetroffen verstekelingen.
 
 Naast het feit dat de Nederlandse overheid, zoals hieronder wordt omschreven, in bepaalde gevallen ontheffing kan verlenen, geldt dat de Nederlandse overheid de vervoerder kan opleggen om op de passagierslijst naast de namen van de reizigers ook andere gegevens vast te leggen.
 
@@ -1429,11 +1431,9 @@ Bij het verlenen van de ontheffing dient strikt de hand te worden gehouden aan o
 
 Op basis van ervaringsgegevens geldt de verplichting om direct bij binnenkomst in Nederland bemannings- en/of passagierslijsten aan te leveren thans niet voor vervoerders die een regelmatige ferryverbinding onderhouden.
 
-Gezagvoerders van Nederlandse vissersschepen zijn ontheven van de verplichtingen genoemd in [artikel 4.11 tot en met 4.13 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.11) indien zij aan de ambtenaar belast met de grensbewaking ter plaatse, met inachtneming van diens aanwijzingen, vóór het vertrek naar het buitenland respectievelijk zo spoedig mogelijk na binnenkomst in Nederland kennis geven van:
-
 ### 8. Ondersteuning van doorgeleiding bij verwijdering door de lucht
 
-### 5.3.8. Het regime
+### 8. Ondersteuning van doorgeleiding bij verwijdering door de lucht
 
 ### 5.3.8.1. Contact tussen de vreemdeling en zijn raadsman
 
@@ -1441,29 +1441,29 @@ Gezagvoerders van Nederlandse vissersschepen zijn ontheven van de verplichtingen
 
 ### 5.3.9.1. Gronden voor opheffing
 
+Wanneer na het verlenen van toestemming tot doorgeleiding omstandigheden als hierboven genoemd bekend worden, kan de reeds verleende toestemming worden ingetrokken. Bij weigering of intrekking van toestemming dient de KMar de verzoekende lidstaat onverwijld en met opgave van redenen hiervan op de hoogte te brengen.
+
 De KMar stelt de verzoekende lidstaat onmiddellijk, in ieder geval binnen twee dagen, in kennis van de beslissing op het verzoek om doorgeleiding. Deze termijn kan, in naar behoren gemotiveerde gevallen, met ten hoogste 48 uur worden verlengd. Zonder instemming van Nederland mag de verzoekende lidstaat niet met de doorgeleiding beginnen. Als echter niet binnen de gestelde termijn wordt geantwoord, kan de verzoekende lidstaat beginnen met de doorgeleiding door middel van een kennisgeving aan de KMar.
 
 De doorgeleiding dient binnen de kortst mogelijke tijdspanne plaats te vinden, en maximaal binnen 24 uur. Dit betekent dat de vreemdeling de luchthaven binnen 24 uur weer moet hebben verlaten. Deze termijn kan, op verzoek van en in overleg met de verzoekende lidstaat, worden verlengd tot maximaal 48 uur in gevallen waarin de voltooiing van de doorgeleiding niet kan worden gewaarborgd. Tijdens de gehele doorgeleiding dient de KMar bereikbaar te zijn voor de betrokken autoriteiten van de verzoekende lidstaat.
 
 De KMar begeleidt de doorgeleiding in het kader van haar grensbewakingstaak ex [artikel 46 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=46). Bij de begeleiding van de doorgeleiding beschikt de KMar over bevoegdheden in het belang van de grensbewaking. In overleg met de autoriteiten van de verzoekende lidstaat neemt de KMar in dit kader alle mogelijke en nodige ondersteunende maatregelen. Dit betreft met name de volgende maatregelen:
 
-Op grond van [artikel 4.6 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.6) is de vreemdeling verplicht zich te houden aan de door de ambtenaar belast met de grensbewaking in het kader van de uitoefening van zijn taak gegeven aanwijzingen. Hieronder vallen tevens de aanwijzingen van deze ambtenaar aan de vreemdeling met betrekking tot de plaats waar de laatste zich dient op te houden. Overtreding van deze aanwijzingen is strafbaar gesteld in [artikel 108 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=108).
+De ambtenaren van de KMar die (tevens) zijn aangewezen als ambtenaren belast met het vreemdelingentoezicht, beschikken in het kader van ondersteuning van doorgeleiding bij verwijdering door de lucht, indien noodzakelijk, over de bevoegdheden tot vrijheidsbeperking en vrijheidsontneming op grond van [artikel 50](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=50) en [artikel 59 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=59). Voor zover de betrokken vreemdeling de toegang is geweigerd door de verzoekende lidstaat, kan [artikel 6 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=6) worden toegepast (zie [model M19](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M19&z=2006-07-16&g=2006-10-13) en [model M118](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M118&z=2006-07-16&g=2006-10-13)). Voor toepassing van maatregelen van vrijheidsbeperking en vrijheidsontneming wordt verwezen naar A6. Bevoegdheden kunnen ook zijn gerelateerd aan de algemene politietaak van de KMar op Schiphol op grond van [artikel 2 Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=2).
 
-De ambtenaren van de KMar die (tevens) zijn aangewezen als ambtenaren belast met het vreemdelingentoezicht, beschikken in het kader van ondersteuning van doorgeleiding bij verwijdering door de lucht, indien noodzakelijk, over de bevoegdheden tot vrijheidsbeperking en vrijheidsontneming op grond van [artikel 50](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=50) en [artikel 59 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=59). Voor zover de betrokken vreemdeling de toegang is geweigerd door de verzoekende lidstaat, kan [artikel 6 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=6) worden toegepast (zie [model M19](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M19&z=2006-07-16&g=2006-07-16) en [model M118](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M118&z=2006-07-16&g=2006-07-16)). Voor toepassing van maatregelen van vrijheidsbeperking en vrijheidsontneming wordt verwezen naar A6. Bevoegdheden kunnen ook zijn gerelateerd aan de algemene politietaak van de KMar op Schiphol op grond van [artikel 2 Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=2).
+De ambtenaren van de KMar die (tevens) zijn aangewezen als ambtenaren belast met het vreemdelingentoezicht, beschikken in het kader van ondersteuning van doorgeleiding bij verwijdering door de lucht, indien noodzakelijk, over de bevoegdheden tot vrijheidsbeperking en vrijheidsontneming op grond van [artikel 50](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=50) en [artikel 59 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=59). Voor zover de betrokken vreemdeling de toegang is geweigerd door de verzoekende lidstaat, kan [artikel 6 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=6) worden toegepast (zie [model M19](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M19&z=2006-11-16&g=2006-10-13) en [model M118](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M118&z=2006-11-16&g=2006-10-13)). Voor toepassing van maatregelen van vrijheidsbeperking en vrijheidsontneming wordt verwezen naar A6. Bevoegdheden kunnen ook zijn gerelateerd aan de algemene politietaak van de KMar op Schiphol op grond van [artikel 2 Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=2).
 
 Ten aanzien van het gebruik van hulpmiddelen om de vreemdeling in zijn bewegingsvrijheid te beperken, wordt verwezen naar A4. De bepalingen van deze paragraaf zijn hier onverkort van toepassing.
 
-Begeleiders van de autoriteiten van de verzoekende lidstaat moeten in alle omstandigheden de Nederlandse regelgeving naleven. Zij hebben derhalve geen verdergaande bevoegdheden dan de Nederlandse regelgeving toelaat. De begeleiders dragen tijdens de doorgeleiding door de lucht geen wapens en zijn gekleed in burgerkleding. Op verzoek dienen zij passende identificatiemiddelen te overleggen, waaronder de toestemming voor doorgeleiding die door Nederland is afgegeven, of, in geval niet tijdig een toestemming is afgegeven, een kennisgeving van doorgeleiding.
-
 ### 6.2.2. In kennis stellen van de rechtbank
 
-Op dag 2 ontvangt de Immigratie- en Naturalisatiedienst (IND) de zittingslijst van de rechtbank. Deze zittingslijst is voorzien van de naam van de advocaat.
+In de volgende gevallen kan de vreemdeling onmiddellijk voor terugname worden overgedragen aan de verzoekende lidstaat:
+
+### 3. Toezicht
 
 ### 1. Inleiding
 
 ### 1.1. Algemeen
-
-### 5.3.9.3. Beëindiging door de rechtbank
 
 ### 5.3.9.4. Wijze van opheffing van de bewaring
 
@@ -1475,7 +1475,7 @@ Op dag 2 ontvangt de Immigratie- en Naturalisatiedienst (IND) de zittingslijst v
 
 ### 1.2. Ambtenaren belast met het toezicht op vreemdelingen
 
-### 7. Overgangsrecht vrijheidsbeperkende en vrijheidsontnemende maatregelen
+### 1.2. Ambtenaren belast met het toezicht op vreemdelingen
 
 ### 6.2.3. Procedure bij 1e kennisgeving door de IND/1e beroep door de vreemdeling (binnen 28 dagen)
 
@@ -1485,15 +1485,15 @@ Op dag 2 ontvangt de Immigratie- en Naturalisatiedienst (IND) de zittingslijst v
 
 ### 1.3. Opsporing van de bij de [Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) strafbaar gestelde feiten
 
-### 3. Adressen en telefoonnummers
+### 1.3. Opsporing van de bij de [Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) strafbaar gestelde feiten
 
 ### A6. Voorlichting
 
 ### 2. Operationeel vreemdelingentoezicht
 
-### 2.1. Inleiding
+### 2. Operationeel vreemdelingentoezicht
 
-### 2.1. Informatie voor de vreemdeling
+### 2.1. Inleiding
 
 ### 2.2. Brochures en ander voorlichtingsmateriaal
 
@@ -1505,27 +1505,27 @@ Op dag 2 ontvangt de Immigratie- en Naturalisatiedienst (IND) de zittingslijst v
 
 ### 4. Signaleringen in OPS en (N)SIS
 
-Casus:
+Tot slot is bij het uitoefenen van toezichthoudende taken het evenredigheidsbeginsel van belang, dat is neergelegd in [artikel 5:13 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:13). Deze bepaling is ook van toepassing op de bevoegdheden die in de [Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) aan toezichthouders zijn toegekend.
 
-### 6. WOB-Ambtenaar
+### 2.2. Vreemdelingentoezicht en opsporing van strafbare feiten
 
 ### 7. Contact met de IND buiten kantooruren
 
+Het is niet uitgesloten dat een vreemdeling die in een later stadium als verdachte wordt aangemerkt, ter voldoening aan zijn plicht gegevens te verstrekken of mee te werken (zie [artikel 54 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=54)) feiten aandraagt die in een latere fase aanleiding kunnen vormen voor een strafvervolging. Deze feiten mogen dan binnen de wettelijke randvoorwaarden worden betrokken in het opsporingsonderzoek. Deze feiten zijn immers verkregen in een fase waarin er nog geen sprake was van een redelijk vermoeden van schuld aan een strafbaar feit zodat aan de betrokken vreemdeling nog niet behoefde te worden medegedeeld dat hij niet tot antwoorden is verplicht. Wel is het zo dat de betrokken vreemdeling zodra hij is betrokken in een opsporingsonderzoek en hij derhalve op grond van [artikel 29 WvSv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=29) niet tot antwoorden is verplicht, geen nadere mededelingen meer behoeft te doen ter zake van de feiten waarvan hij wordt verdacht, ook niet meer ter zake van de feiten waarover hij in de fase waarin hij tot medewerking verplicht was mededelingen heeft gedaan.
+
 Illegaal verblijf als zodanig is in ons land niet strafbaar gesteld, maar de vreemdeling die geen rechtmatig verblijf (meer) heeft, kan strafbaar zijn wegens het niet voldoen aan de verplichting tot het doen van mededeling van zijn aanwezigheid (zie [artikel 4.39 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.39)). Ook kan een vreemdeling die niet rechtmatig in Nederland verblijft en die bij herhaling een bij de [Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) strafbaar feit heeft begaan op grond van [artikel 67, eerste lid, onder a, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=67) ongewenst worden verklaard. Het als ongewenst vreemdeling in Nederland verblijven is wel een strafbaar feit (zie [artikel 197 WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=197)).
 
-Ook wijzigingen of opheffing van de beperking worden geregistreerd. Daarbij worden meegenomen de datum van indiening en de datum van beslissing op een aanvraag om wijziging of opheffing van de beperking.
+Toezicht in het binnenland vindt plaats op grond van feiten en omstandigheden die, naar objectieve maatstaven gemeten, een redelijk vermoeden van illegaal verblijf opleveren en is erop gericht het illegaal verblijf te beëindigen. Zie nader met betrekking tot het begrip ‘redelijk vermoeden’ A3/3.3.
 
 Toezicht in het binnenland vindt plaats op grond van feiten en omstandigheden die, naar objectieve maatstaven gemeten, een redelijk vermoeden van illegaal verblijf opleveren en is erop gericht het illegaal verblijf te beëindigen. Zie nader met betrekking tot het begrip ‘redelijk vermoeden’ A3/3.3.
 
 Indien de politie bij de uitoefening van haar taken toch al persoonsgegevens van burgers verifieert, dient zij als regel ook de nationaliteit en, bij een niet-Nederlandse nationaliteit, de verblijfsstatus te controleren. Een uitzondering kan gelden, indien het belang van de uitvoering van een taak (bijvoorbeeld hulpverlening) rechtvaardigt dat niet of niet onmiddellijk tot vreemdelingentoezicht wordt overgegaan. Indien bij verificatie van persoonsgegevens blijkt dat de bestuurder van een voertuig illegaal in Nederland verblijft, rechtvaardigt dit dat ook de eventueel overige inzittenden van dat voertuig naar hun verblijfsrechtelijke positie wordt gevraagd.
 
-In het geval het redelijk vermoeden betrekking heeft op een bepaalde plaats of ruimte geldt als uitgangspunt dat iedereen die zich daar bevindt, daadwerkelijk moet worden gecontroleerd. Daardoor wordt uitgesloten dat degenen die met de controle zijn belast, een keuze op uiterlijke kenmerken moeten maken. Het kan echter zijn dat eisen van redelijkheid of doelmatigheid zich verzetten tegen het controleren van alle aanwezige personen. Dit is onder meer het geval, indien iemands identiteit de politie al uit andere hoofde bekend is.
+### 2.4. Operationeel toezicht ter bestrijding van illegale immigratie
 
 ### 2.4. Operationeel toezicht ter bestrijding van illegale immigratie
 
-### 3.3. Klachten per e-mail
-
-Om illegaal verblijf in een zo vroeg mogelijk stadium tegen te gaan, kunnen ingereisde personen na grensoverschrijding aan vreemdelingentoezicht worden onderworpen. Dit is onder meer het geval in internationale treinen en bij auto’s die de Nederlandse grens zijn gepasseerd, maar ook in het geval van internationaal vliegverkeer waarbij sprake is van een intra-Schengenvlucht naar het grondgebied van Nederland. Deze vorm van toezicht is uitsluitend toegestaan ten aanzien van personen van wie mag worden aangenomen dat zij grensgangers zijn. Deze controles vinden plaats zodra dit redelijkerwijs mogelijk is na grensoverschrijding en nog geen of slechts een geringe vermenging met het binnenlands reizigersverkeer heeft plaatsgevonden.
+Het toezicht ter bestrijding van illegale immigratie is erop gericht illegaal verblijf door illegale immigratie, al dan niet in georganiseerd verband, in een zo vroeg mogelijk stadium tegen te gaan. Dit toezicht is tevens gericht op preventie en ontmoediging van toekomstige illegale immigratie.
 
 ### 3.5. Aanlevering van klachten en vorm van de klaagbrief
 
@@ -1545,19 +1545,19 @@ Om illegaal verblijf in een zo vroeg mogelijk stadium tegen te gaan, kunnen inge
 
 ### 3. Staande houden, overbrengen en ophouden
 
-### 3.1. Het doel
+### 3. Staande houden, overbrengen en ophouden
 
-### 2.3. Gezinsleden
+### 3.1. Het doel
 
 ### 2.4. Gegevens over verblijfstitels
 
 ### 3.2. De bevoegdheid
 
-### A8. Registratie
+### 3.2. De bevoegdheid
 
 ### 3.3. De toepassing
 
-### 1.1. Welke vreemdelingen worden geregistreerd
+### 3.3. De toepassing
 
 ### 2. Welke gegevens worden geregistreerd
 
@@ -2079,7 +2079,7 @@ Deze aantekening moet worden voorzien van een dienststempel en een paraaf van de
 
 ### 8.2.4. Checklist/geleidebrief (model M118)
 
-Voor de in te vullen aanvraag om wijziging van de geldigheidsduur van een visum wordt verwezen naar [model M5-A](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M5-A&z=2006-07-16&g=2006-07-16). Voor de beschikking waarmee een dergelijke aanvraag wordt afgewezen wordt verwezen naar [model M5-C](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M5-C&z=2006-07-16&g=2006-07-16).
+Voor de in te vullen aanvraag om wijziging van de geldigheidsduur van een visum wordt verwezen naar [model M5-A](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M5-A&z=2006-07-16&g=2006-10-13). Voor de beschikking waarmee een dergelijke aanvraag wordt afgewezen wordt verwezen naar [model M5-C](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M5-C&z=2006-07-16&g=2006-10-13).
 
 Voor de wijziging van de geldigheidsduur dient vooraf toestemming te worden verleend door de Visadienst. Voorzover het een door een andere Schengenstaat afgegeven visum betreft, stelt de Visadienst in beginsel binnen 72 uur de centrale autoriteiten van de Schengenstaat dat het visum heeft afgegeven in kennis van de wijziging.
 
@@ -2115,23 +2115,23 @@ In afwijking van het bovenstaande wordt een asielzoeker in het onderzoeks- en op
 
 ### 6.2.3.2. Diplomatieke en consulaire koeriers
 
-### 6.11. Vreemdelingen in de strafrechtketen
+### 6.2.3.2. Diplomatieke en consulaire koeriers
+
+Zij zijn voorzien van een officieel document waaruit hun bijzondere status en het aantal pakketten welke de diplomatieke of consulaire tas vormen, blijkt.
 
 De pakketten dragen aan de buitenkant duidelijk zichtbare kentekenen, waaruit hun aard blijkt. De koerier geniet persoonlijke onschendbaarheid (de dwangmiddelen uit [artikel 50, tweede, derde, vierde en vijfde lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=50) kunnen niet worden toegepast). De tas mag niet worden geopend of ingenomen.
 
-T.a.v. vreemdelingen, verblijvend in centrale of decentrale opvang, die verstrekkingen ontvangen op grond van de ROA- of RVA-regeling en die niet vallen onder de werking van [vreemdelingenwet 2000,](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) Stappenplan 2000 of Stappenplan VVTV-Zorgwet is het Stappenplan ROA/RVA-voorzieningen van toepassing. Dit stappenplan is gepubliceerd in de Stcrt. 2000, 53. Binnen dit stappenplan wordt uitgegaan van het meewerkcriterium.
+### 6.2.3.4. Te volgen gedragslijn bij twijfel
 
 ### 6.2.3.4. Te volgen gedragslijn bij twijfel
 
-### 6.2. Aanvragen reisdocumenten
-
 ### 6.3. Gedragslijn indien het onmogelijk blijkt tijdig een (vervangend) reisdocument te bemachtigen
+
+Collectieve paspoorten of lijsten afgegeven door de autoriteiten van Albanië, Bulgarije, China, Cuba, Roemenië, Rusland dan wel door de autoriteiten van een niet door Nederland erkende regering of staat, worden niet erkend als een geldig document voor grensoverschrijding (zie [bijlage 3, VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=3)).
 
 Aan personen beneden de leeftijd van 21 jaar kunnen ingevolge de Europese overeenkomst van 16 december 1961 door de volgende lidstaten collectieve paspoorten voor jeugdige personen worden afgegeven: België, Denemarken, Frankrijk, Griekenland, Groot-Brittannië (en Noord-Ierland), Ierland, Italië, Luxemburg, Malta, Nederland, Noorwegen, Portugal, Turkije, IJsland en Zweden.
 
 Aan jeugdige personen beneden de leeftijd van 21 jaar die reizen op een door één van deze landen afgegeven collectief paspoort of lijst kan toegang worden verleend voor een verblijf van ten hoogste drie maanden, mits:
-
-Wanneer in een collectief paspoort of lijst afgegeven door de autoriteiten van Frankrijk of Ierland ook in die landen gevestigde jeugdige vluchtelingen of staatlozen voorkomen, moet dit uit het document blijken. Deze deelnemers moeten wel beschikken over een individueel identiteitsbewijs voorzien van een foto.
 
 ### 10. Kostenverhaal en declaratie bij de Immigratie- en Naturalisatiedienst
 
@@ -2139,11 +2139,11 @@ Wanneer in een collectief paspoort of lijst afgegeven door de autoriteiten van F
 
 ### 6.2.7. Zeelieden
 
-Wanneer het binnenkomst met een visum betreft, dient het verzoek tot overname binnen een termijn van drie maanden, te rekenen vanaf het verstrijken van de geldigheidsduur van het visum, ingediend te worden.
+[Artikel 2.8 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=2.8) handelt over bemanningsleden van zeeschepen. In de reisdocumenten van zeelieden die slechts gedurende het afmeren van hun schip in de binnengevaren haven verblijven wordt geen in- of uitreisstempel aangebracht.
 
 Zeelieden mogen passagieren in de gemeente waar hun schip ligt of in een aangrenzende gemeente. Hiertoe zijn zij niet verplicht zich langs een doorlaatpost te begeven. Bovendien behoeven passagierende zeelieden voor een dergelijke beperkte toegang tot Nederland ingevolge de [Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) niet te beschikken over een document voor grensoverschrijding of middelen van bestaan. Voorwaarden hiervoor zijn dat de passagierende zeelieden:
 
-Voor zogeheten ‘supernumeraries’ (‘boventalligen’ zijn zogenaamde werkende passagiers die de faciliteiten van bemanningsleden genieten) geldt dat ook zij mogen passagieren. Deze personen dienen vermeld te staan op de bemanningslijst.
+Zeelieden mogen passagieren in de gemeente waar hun schip ligt of in een aangrenzende gemeente. Hiertoe zijn zij niet verplicht zich langs een doorlaatpost te begeven. Bovendien behoeven passagierende zeelieden voor een dergelijke beperkte toegang tot Nederland ingevolge de [Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) niet te beschikken over een document voor grensoverschrijding of middelen van bestaan. Voorwaarden hiervoor zijn dat de passagierende zeelieden:
 
 ### 6.2.9. Minderjarigen (inclusief adoptie(f)- en pleegkinderen)
 
@@ -2155,15 +2155,15 @@ Kinderen beneden de leeftijd van zestien jaar kunnen, in afwijking van het verei
 
 Toegang wordt steeds verleend aan:
 
-Bij het tweede punt wordt opgemerkt dat aan een persoon met een door de Nederlandse autoriteiten afgegeven paspoort of identiteitskaart die gebruik heeft gemaakt van zijn recht op vrij verkeer van personen (zie [B10](onbekend)) en (vervolgens) verwijderd is door een andere lidstaat om redenen van openbare orde, openbare veiligheid of volksgezondheid, door de Nederlandse ambtenaar belast met de grensbewaking zonder formaliteiten toegang dient te worden verleend. Dit geldt ook wanneer het paspoort of de identiteitskaart is vervallen of de nationaliteit van de houder wordt betwist (zie [artikel 8.10 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.10)).
+Toegang wordt steeds verleend aan:
 
 ### 5.2.5.1. Gronden voor opheffing
 
 ### 5.2.5.2. Beëindiging van rechtswege (artikel 57, vierde lid Vreemdelingenwet)
 
-In [artikel 65, tweede lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=65) is opgenomen dat de vervoersonderneming op aanwijzing van de ambtenaar belast met de grensbewaking de vreemdeling vervoert naar een plaats buiten Nederland en daartoe zo nodig een ander middel voor terugbrenging vindt. Hiervoor worden ‘removal orders’ gehanteerd (zie [modellen M29](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M29&z=2006-07-16&g=2006-07-16) en [M30](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M30&z=2006-07-16&g=2006-07-16)). Om het terugvoeren naar een plaats buiten Nederland door de vervoerder te faciliteren, wordt door de ambtenaar belast met de grensbewaking gebruik gemaakt van de daarvoor in internationaal verband gehanteerde attesten, bedoeld voor de met immigratie/grensbewaking belaste autoriteiten in het land van bestemming (zie [modellen M27](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M27&z=2006-07-16&g=2006-07-16) en [M28](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M28&z=2006-07-16&g=2006-07-16)).
+In [artikel 65, tweede lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=65) is opgenomen dat de vervoersonderneming op aanwijzing van de ambtenaar belast met de grensbewaking de vreemdeling vervoert naar een plaats buiten Nederland en daartoe zo nodig een ander middel voor terugbrenging vindt. Hiervoor worden ‘removal orders’ gehanteerd (zie [modellen M29](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M29&z=2006-07-16&g=2006-10-13) en [M30](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M30&z=2006-07-16&g=2006-10-13)). Om het terugvoeren naar een plaats buiten Nederland door de vervoerder te faciliteren, wordt door de ambtenaar belast met de grensbewaking gebruik gemaakt van de daarvoor in internationaal verband gehanteerde attesten, bedoeld voor de met immigratie/grensbewaking belaste autoriteiten in het land van bestemming (zie [modellen M27](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M27&z=2006-07-16&g=2006-10-13) en [M28](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M28&z=2006-07-16&g=2006-10-13)).
 
-Gedurende de gehele periode vanaf het moment dat aan de vervoerder de aanwijzing is gegeven de vreemdeling terug te brengen naar een plaats buiten Nederland tot aan het moment dat de vreemdeling door de vervoersonderneming daadwerkelijk naar een plaats buiten Nederland wordt gevoerd, is de vervoerder verantwoordelijk voor de vreemdeling. Dit betekent allereerst dat de vervoerder verantwoordelijk is voor de zorg van een vreemdeling wanneer deze bijvoorbeeld in de internationale lounge van de luchthaven verblijft in afwachting van zijn vertrek. Het betekent voorts dat alle kosten die door de overheid worden gemaakt en voortkomen uit het (feitelijk) verblijf van de vreemdeling in Nederland, ook ten laste kunnen komen van de vervoerder (zie A2/7.1.6).
+In [artikel 65, tweede lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=65) is opgenomen dat de vervoersonderneming op aanwijzing van de ambtenaar belast met de grensbewaking de vreemdeling vervoert naar een plaats buiten Nederland en daartoe zo nodig een ander middel voor terugbrenging vindt. Hiervoor worden ‘removal orders’ gehanteerd (zie [modellen M29](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M29&z=2006-11-16&g=2006-10-13) en [M30](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M30&z=2006-11-16&g=2006-10-13)). Om het terugvoeren naar een plaats buiten Nederland door de vervoerder te faciliteren, wordt door de ambtenaar belast met de grensbewaking gebruik gemaakt van de daarvoor in internationaal verband gehanteerde attesten, bedoeld voor de met immigratie/grensbewaking belaste autoriteiten in het land van bestemming (zie [modellen M27](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M27&z=2006-11-16&g=2006-10-13) en [M28](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M28&z=2006-11-16&g=2006-10-13)).
 
 ### 5.3.4.3. De vorm
 
@@ -2171,11 +2171,11 @@ Gedurende de gehele periode vanaf het moment dat aan de vervoerder de aanwijzing
 
 ### 5.3.4.5. De voortzetting van de bewaring op een andere bewaringsgrond
 
+De IND stuurt de vervoerder vervolgens een rekening die de kosten omvat die door de diverse instanties zijn gemaakt. De instanties die het betreft, ontvangen alle een kopie van de rekening. De vervoerder dient het betreffende bedrag voorts over te maken aan de IND, waarna deze laatste de andere overheidspartijen hun aandeel doet toekomen.
+
 Indien een vreemdeling aan wie de toegang is geweigerd een aanvraag om een verblijfsvergunning asiel indient, wordt de aansprakelijkheid van de vervoerder voor de kosten voor de duur van de behandeling van de asielaanvraag opgeschort. Er zullen pas weer kosten op de vervoerder worden verhaald nadat de vreemdeling rechtmatig verwijderbaar is geworden en de ambtenaar belast met de grensbewaking de vervoerder de aanwijzing heeft gegeven de vreemdeling terug te vervoeren naar een plaats buiten Nederland.
 
 Ook indien het uiteindelijk niet mogelijk blijkt de vreemdeling uit te zetten is de vervoerder aansprakelijk voor de kosten die gemaakt worden met betrekking tot de door hem aangevoerde geweigerde vreemdeling.
-
-Het uitzetcentrum Zestienhoven en het uitzetcentrum Schiphol zijn locaties in de zin van [artikel 6 van de Vreemdelingenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=6), waar het regime van het Reglement grenslogies geldt. Het uitzetcentrum is **in beginsel** bedoeld voor illegale vreemdelingen die bij (grootschalige) acties in vreemdelingenbewaring worden gesteld en voor andere illegale vreemdelingen voorzover deze op korte termijn uitzetbaar zijn. Echter, de duur van het verblijf in het uitzetcentrum is niet aan een wettelijk maximum gebonden. Vreemdelingenbewaring in een uitzetcentrum kan duren zolang de openbare orde of de nationale veiligheid dat vergt en zolang er zicht is op uitzetting. Ook vanuit de optiek van de in het uitzetcentrum aanwezige voorzieningen bestaat er geen limiet aan de verblijfsduur in het uitzetcentrum.
 
 ### 5.3.4.2. Bijstand van een raadsman
 
@@ -2183,11 +2183,11 @@ Het uitzetcentrum Zestienhoven en het uitzetcentrum Schiphol zijn locaties in de
 
 ### 5.3.6.3. Declaratie van de kosten van bewaring in een politiecel
 
-Op dag 2 ontvangt de Immigratie- en Naturalisatiedienst (IND) de zittingslijst van de rechtbank. Deze zittingslijst is voorzien van de naam van de advocaat.
+Gezagvoerders van Nederlandse vissersschepen zijn ontheven van de verplichtingen genoemd in [artikel 4.11 tot en met 4.13 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.11) indien zij aan de ambtenaar belast met de grensbewaking ter plaatse, met inachtneming van diens aanwijzingen, vóór het vertrek naar het buitenland respectievelijk zo spoedig mogelijk na binnenkomst in Nederland kennis geven van:
 
 Onderdanen van derde landen die niet of niet langer rechtmatig op het grondgebied van de EU verblijven en op wie een verwijderingsmaatregel van toepassing is, worden veelal verwijderd per luchtvaartuig. Rechtstreekse vluchten zijn niet altijd mogelijk en soms moet gebruik worden gemaakt van vluchten via transitluchthavens van andere lidstaten. [Richtlijn 2003/110/EG](32003L0110) d.d. 25 november 2003 voorziet in wederzijdse ondersteuning bij doorgeleiding in het kader van verwijdering door de lucht en geeft regels voor eenvormige procedures. De Richtlijn is niet van toepassing op Denemarken, Groot-Brittannië (en Noord-Ierland) en Ierland. Wel is de Richtlijn van toepassing op IJsland en Noorwegen.
 
-Indien de lidstaat die een persoon wenst terug te zenden om redelijke en praktische motieven geen gebruik kan maken van een rechtstreekse vlucht naar het land van bestemming, kan hij verzoeken om doorgeleiding door de lucht via Nederland. Een schriftelijk verzoek om doorgeleiding van een andere lidstaat moet worden ingediend bij de KMar te Schiphol. Het verzoek dient zo vroeg mogelijk te worden ingediend, en ten minste twee dagen vóór de doorgeleiding bij de KMar aan te komen. In bijzonder dringende en naar behoren gemotiveerde gevallen mag deze termijn korter zijn. Het verzoek moet worden ingediend door middel van het daartoe in de Richtlijn vastgelegde formulier.
+Onderdanen van derde landen die niet of niet langer rechtmatig op het grondgebied van de EU verblijven en op wie een verwijderingsmaatregel van toepassing is, worden veelal verwijderd per luchtvaartuig. Rechtstreekse vluchten zijn niet altijd mogelijk en soms moet gebruik worden gemaakt van vluchten via transitluchthavens van andere lidstaten. [Richtlijn 2003/110/EG](32003L0110) d.d. 25 november 2003 voorziet in wederzijdse ondersteuning bij doorgeleiding in het kader van verwijdering door de lucht en geeft regels voor eenvormige procedures. De Richtlijn is niet van toepassing op Denemarken, Groot-Brittannië (en Noord-Ierland) en Ierland. Wel is de Richtlijn van toepassing op IJsland en Noorwegen.
 
 ### 5.3.9.2. Beëindiging van rechtswege
 
@@ -2195,7 +2195,7 @@ Indien de lidstaat die een persoon wenst terug te zenden om redelijke en praktis
 
 ### 5.3.9.4. Wijze van opheffing van de bewaring
 
-In de volgende gevallen kan de vreemdeling onmiddellijk voor terugname worden overgedragen aan de verzoekende lidstaat:
+Begeleiders van de autoriteiten van de verzoekende lidstaat moeten in alle omstandigheden de Nederlandse regelgeving naleven. Zij hebben derhalve geen verdergaande bevoegdheden dan de Nederlandse regelgeving toelaat. De begeleiders dragen tijdens de doorgeleiding door de lucht geen wapens en zijn gekleed in burgerkleding. Op verzoek dienen zij passende identificatiemiddelen te overleggen, waaronder de toestemming voor doorgeleiding die door Nederland is afgegeven, of, in geval niet tijdig een toestemming is afgegeven, een kennisgeving van doorgeleiding.
 
 Van dag 29 tot en met dag 35 ontvangt de Immigratie- en Naturalisatiedienst (IND) de zittingslijst van de rechtbank. Deze zittingslijst is voorzien van de naam van de advocaat.
 
@@ -2205,15 +2205,15 @@ Door de grote omvang en de toename van het internationale personenverkeer nemen 
 
 ### 2.3. Operationeel toezicht in het binnenland
 
-### 2. Klacht bij voorkeur indienen op de plek waar de gedraging plaatsvond
+### 2.3. Operationeel toezicht in het binnenland
 
-Ook wijzigingen of opheffing van het voorschrift worden geregistreerd.
+In het geval het redelijk vermoeden betrekking heeft op een bepaalde plaats of ruimte geldt als uitgangspunt dat iedereen die zich daar bevindt, daadwerkelijk moet worden gecontroleerd. Daardoor wordt uitgesloten dat degenen die met de controle zijn belast, een keuze op uiterlijke kenmerken moeten maken. Het kan echter zijn dat eisen van redelijkheid of doelmatigheid zich verzetten tegen het controleren van alle aanwezige personen. Dit is onder meer het geval, indien iemands identiteit de politie al uit andere hoofde bekend is.
 
 Het toezicht ter bestrijding van illegale immigratie is erop gericht illegaal verblijf door illegale immigratie, al dan niet in georganiseerd verband, in een zo vroeg mogelijk stadium tegen te gaan. Dit toezicht is tevens gericht op preventie en ontmoediging van toekomstige illegale immigratie.
 
-Alle personen, Nederlanders en niet-Nederlanders, waarvan mag worden aangenomen dat zij grensganger zijn, kunnen aan deze vorm van vreemdelingentoezicht worden onderworpen. Een redelijk vermoeden over illegaal verblijf speelt bij deze vorm van toezicht geen rol.
+Controles op inreizende personen leveren aanwijzingen op over de mate waarin op een bepaalde route sprake is van illegale immigratie. Het controlebeleid wordt op deze aanwijzingen afgestemd, zodat het toezicht zoveel mogelijk daar plaatsvindt waar de kans op confrontatie met illegale immigratie reëel is.
 
-### 3. Fysieke archivering
+### 3.4. Identiteitsdocumenten
 
 ### 3.1. Archivering van bescheiden
 
@@ -2231,11 +2231,13 @@ Vervallen
 
 De verplichtingen omschreven in [artikel 4 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=4) en de [artikelen 4.8 tot en met 4.14 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.10) (verplichtingen voor vervoerders) zijn eveneens van toepassing op Nederlanders.
 
+### 6.2.4. Personen die reizen op een collectief reisdocument
+
 ### 6.2.4.1. Soorten collectieve reisdocumenten
 
-### 6.5. Stellen van aantekeningen in reisdocumenten
-
 ### 6.6. Intrekking geldigheidsduur visa
+
+Wanneer in een collectief paspoort of lijst afgegeven door de autoriteiten van Frankrijk of Ierland ook in die landen gevestigde jeugdige vluchtelingen of staatlozen voorkomen, moet dit uit het document blijken. Deze deelnemers moeten wel beschikken over een individueel identiteitsbewijs voorzien van een foto.
 
 Deelnemers die reizen op een collectief paspoort of lijst afgegeven door de autoriteiten van Groot-Brittannië (en Noord-Ierland) hoeven – behoudens bij grenspassage – niet in groepsverband te reizen, op voorwaarde dat zij zich kunnen legitimeren en de reisleider steeds beschikbaar blijft.
 
@@ -2247,9 +2249,9 @@ Indien de deelnemers niet in het bezit zijn van een individueel document voor gr
 
 De vorm van de reizigerslijst is vastgesteld (zie [bijlage 3b VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=3b)).
 
-Het met de sterke arm aan de landgrenzen doen vertrekken van een niet rechtmatig in Nederland verblijvende vreemdeling die tijdens een MTV-controle is aangetroffen. De vreemdeling wordt hierbij niet in persoon overgedragen aan de autoriteiten van België of Duitsland.
+### 6.2.7. Zeelieden
 
-### 10.3. Verhaal van kosten op de vreemdeling
+Indien zeelieden toegang tot andere dan de hiervoor bedoelde gemeenten willen hebben, dienen zij een document voor grensoverschrijding bij zich te dragen. Zij dienen tevens te voldoen aan de andere twee hierboven genoemde voorwaarden.
 
 Indien zeelieden toegang tot andere dan de hiervoor bedoelde gemeenten willen hebben, dienen zij een document voor grensoverschrijding bij zich te dragen. Zij dienen tevens te voldoen aan de andere twee hierboven genoemde voorwaarden.
 
@@ -2257,23 +2259,21 @@ De ambtenaar belast met grensbewaking hoeft geen machtiging te vragen voor het v
 
 Behalve de daar genoemde voorwaarden gelden voor zelfstandige verlening van een visum in dit geval bovendien de volgende voorwaarden:
 
-Het verzoek tot overname is niet vereist indien de hiervoor genoemde personen in het bezit zijn van een door de Franse autoriteiten afgegeven geldige verblijfsvergunning.
-
 Onderscheid wordt gemaakt tussen adoptie(f)kinderen en pleegkinderen. Adoptie(f)kinderen zijn kinderen die op zeer jeugdige leeftijd, in de regel jonger dan zes jaar, ter adoptie naar Nederland komen. De aspirant-adoptiefouders moeten voor opneming van deze kinderen onder andere in het bezit zijn van een zogenaamde beginseltoestemming van de Minister. Pleegkinderen zijn diegenen die niet voor adoptie maar om andere redenen in hun belang naar Nederland komen om te worden opgenomen in het gezin van naaste familieleden.
+
+Vreemdelingen aan wie lang verblijf in Nederland is toegestaan zijn bij in- en uitreis verplicht om het in hun bezit zijnde document voor grensoverschrijding desgevraagd aan een grensbewakingsambtenaar te tonen en te overhandigen (zie [artikel 4.5 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.5)).
 
 Ten aanzien van vreemdelingen die kunnen aantonen dat hen lang verblijf in Nederland is toegestaan blijft controle op bestaansmiddelen achterwege. Hen wordt niet gevraagd naar doel en duur van het verblijf. Wel kan controle aan de hand van het OPS plaatsvinden, met name met het oog op tenuitvoerlegging van signaleringen die verband houden met de [Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) (zie A3/9).
 
-Zoals is aangegeven in A2/5.5.1, dient in het geval het voornemen bestaat om de toegang te weigeren aan een persoon die zich er op beroept dat hem lang verblijf in Nederland is toegestaan, eerst contact op te worden genomen met de IND.
+In plaats van terugplaatsing aan boord kan de verstekeling, eveneens op kosten van de vervoerder, op een andere wijze worden terugvervoerd naar het land waar hij aan boord is gegaan, dan wel worden vervoerd naar het derde land dat het document voor grensoverschrijding waarmee de vreemdeling heeft gereisd, heeft afgegeven, of een ander land waar zijn toelating is gewaarborgd. Een dergelijke wijze van terugvervoeren is alleen mogelijk als deze praktisch uitvoerbaar is. Hiertoe dient de verstekeling in beginsel voldoende gedocumenteerd te zijn. Indien dit niet het geval is, dient de identiteit en/of nationaliteit te worden vastgesteld en aan de verstekeling een vervangend reisdocument te worden verstrekt door de diplomatieke vertegenwoordiging van het land van bestemming. De vaststelling van de nationaliteit en/of identiteit en de afgifte van de vervangende reisdocumenten dient te geschieden alvorens het schip waarmee de verstekeling is aangevoerd de haven heeft verlaten. De uitvoering van de terugvoerverplichting op deze wijze mag evenwel niet ten koste gaan van een unieke verwijdermogelijkheid.
 
 Gezagvoerders van zeeschepen kunnen zich niet onttrekken aan hun verplichtingen als bedoeld in [artikel 65, derde lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=65), door een beroep te doen op [artikel 371a Wetboek van Koophandel](https://wetten.overheid.nl/jci1.3:c:BWBR0001838&artikel=371a). In dat artikel is onder meer sprake van een bevoegdheid van de kapitein om een verstekeling bij de eerste gelegenheid die zich voordoet van boord te verwijderen. Onder ‘gelegenheid’ dient hier namelijk te worden verstaan een wettelijk geoorloofde gelegenheid, dat wil zeggen het van boord zetten van een vreemdeling mag slechts plaatsvinden na verkregen toestemming van de bevoegde autoriteiten.
-
-Evenmin kan de kapitein zich zonder meer onttrekken aan terugplaatsing van de verstekeling aan boord door een beroep te doen op voorschrift 8 Verdrag voor beveiliging van mensenlevens op zee van 1974 (zoals gewijzigd in 2002). In geval de kapitein zich op dit voorschrift beroept, dienen de omstandigheden waarop hij zich beroept door de ambtenaar belast met de grensbewaking te worden beoordeeld en te worden afgewogen tegen het belang van terugplaatsing van de verstekeling aan boord.
 
 ### 5.3.4.6. Hernieuwde inbewaringstelling op een andere bewaringsgrond
 
 ### 5.3.7.1. Het toepassen van artikel 50, derde lid, Vreemdelingenwet na strafrechtelijke detentie
 
-Wanneer na het verlenen van toestemming tot doorgeleiding omstandigheden als hierboven genoemd bekend worden, kan de reeds verleende toestemming worden ingetrokken. Bij weigering of intrekking van toestemming dient de KMar de verzoekende lidstaat onverwijld en met opgave van redenen hiervan op de hoogte te brengen.
+Een verzoek om doorgeleiding door de lucht kan worden geweigerd wanneer:
 
 ### 6.1. Algemeen
 
@@ -2285,13 +2285,13 @@ Wanneer na het verlenen van toestemming tot doorgeleiding omstandigheden als hie
 
 Op de dag van de indiening van het beroep (dag 0), of anders uiterlijk op dag 1 wordt aan de Immigratie- en Naturalisatiedienst (IND) het beroepschrift gezonden met het verzoek om nadere gegevens omtrent de voortgang van de verwijdering. Uiterlijk op dag 10 dient de Vreemdelingendienst dan wel de Koninklijke Marechaussee het [Model M119](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M119&z=2006-03-29&g=2006-03-29) (rapportage vreemdelingenbewaring) met de eventuele aanwezige bijlagen naar de Immigratie- en Naturalisatiedienst (IND) te faxen. Tevens dienen eventuele (nadere) gegevens omtrent de voortgang van de verwijdering te worden gefaxt onder gebruikmaking van het [model M120](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M120&z=2006-03-29&g=2006-03-29) ((voortgangs)gegevens met betrekking tot uitzetting). Ook andere gegevens die van belang kunnen zijn voor het verloop van de procedure dienen te worden gefaxt.
 
+Door de grote omvang en de toename van het internationale personenverkeer nemen de mogelijkheden tot onregelmatige binnenkomst en illegaal verblijf van vreemdelingen toe. In het bijzonder met het oog hierop is een efficiënt vreemdelingentoezicht vereist. Voorts kan het in het belang van de openbare orde of de nationale veiligheid zijn, dat inzicht wordt verkregen in de activiteiten van vreemdelingen die zich op legale wijze in Nederland bevinden.
+
 Ook is een adequaat vreemdelingentoezicht vereist in het kader van het te voeren vreemdelingenbeleid omdat het daarvoor noodzakelijk is om over betrouwbare gegevens te kunnen beschikken. Te denken valt hierbij aan de aantallen van de hier te lande verblijvende vreemdelingen, de plaatsen waar zij zich bevinden, het doel van hun verblijf en de omstandigheden waaronder zij leven.
 
 Teneinde het vreemdelingentoezicht op doelmatige wijze te kunnen uitoefenen, voorziet de [Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) in de mogelijkheid tot het treffen van bepaalde maatregelen van toezicht en het opleggen van bepaalde verplichtingen aan vreemdelingen of aan derden.
 
 In het belang van het toezicht op vreemdelingen mogen slechts die verplichtingen worden opgelegd of maatregelen worden getroffen waarin de wettelijke bepalingen voorzien.
-
-Er kunnen twee vormen van vreemdelingentoezicht worden onderscheiden, namelijk het administratieve toezicht en het operationele toezicht. Het operationele toezicht is weer onder te verdelen in toezicht ter bestrijding van illegale immigratie en toezicht in het binnenland. Bij het administratieve toezicht moet men in het bijzonder denken aan de controles voortvloeiende uit de vreemdelingenregistratie.
 
 De ambtenaren van politie die zijn aangesteld voor de uitvoering van de politietaak (zie [artikel 3, eerste lid, onder a en c, en tweede lid, Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=3)) zijn belast met het toezicht op vreemdelingen (zie [artikel 47, eerste lid, onder a, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=47)). Hieronder wordt ingevolge [artikel 3, tweede lid, Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=3) mede begrepen de Rijksrecherche. Zij voeren hun werkzaamheden uit onder leiding van de Korpschef.
 
@@ -2303,21 +2303,21 @@ De ambtenaren van politie die zijn aangesteld voor de uitvoering van de politiet
 
 ### 3.4. Schriftelijke klachten
 
-Controles op inreizende personen leveren aanwijzingen op over de mate waarin op een bepaalde route sprake is van illegale immigratie. Het controlebeleid wordt op deze aanwijzingen afgestemd, zodat het toezicht zoveel mogelijk daar plaatsvindt waar de kans op confrontatie met illegale immigratie reëel is.
+Deze controles vinden plaats in het kader van het zogenaamde MTV. MTV-controles kunnen worden uitgevoerd aan de grensovergangen en in een grensstrook tot drie kilometer achter de grens. De controle op doorgaande wegen en snelwegen wordt uitgevoerd binnen de driekilometerzone. Bij snelwegen kan de driekilometerzone worden overschreden tot aan de tweede afslag na grensoverschrijding. Het MTV op vaarwegen wordt eveneens uitgevoerd binnen de driekilometerzone. Deze zone kan worden overschreden tot de eerste afmeermogelijkheid. MTV-controles op de treinen worden uitgevoerd tot het punt waarop de ambtenaar belast met het toezicht op vreemdelingen van oordeel is dat niet langer aan het criterium – dat er geen of nagenoeg geen vermenging met binnenlands reisverkeer mag plaatsvinden – wordt voldaan.
+
+Alle personen, Nederlanders en niet-Nederlanders, waarvan mag worden aangenomen dat zij grensganger zijn, kunnen aan deze vorm van vreemdelingentoezicht worden onderworpen. Een redelijk vermoeden over illegaal verblijf speelt bij deze vorm van toezicht geen rol.
 
 Een goed inzicht in de verkeersstromen, zowel op de snelwegen, de secundaire wegen als die van het internationale trein- en vliegverkeer, is een essentiële voorwaarde voor een doelmatig controlebeleid. Dit inzicht kan worden verkregen door observatie van de verkeersstromen en analyse van de observatiegegevens. Rapportage omtrent de uitoefening van het MTV geeft uiteindelijk inzicht in de doelmatigheid van dit toezicht. Deze rapportage dient te vermelden: het totaal aantal geobserveerde voertuigen, het aantal gecontroleerde voertuigen/personen en het aantal treffers.
 
 Op grond van aanwijzingen over illegale immigratie, verkregen van buitenlandse overheidsinstanties, kan te allen tijde worden overgegaan tot deze vorm van vreemdelingentoezicht. Ook eigen ervaringsgegevens van de KMar, gebaseerd op de hierboven genoemde werkmethode, zijn voldoende aanknopingspunt om over te gaan tot controles.
 
-De controle op auto’s die de Nederlandse grens zijn gepasseerd, richt zich met name op de kleinere personenbussen en op personenauto’s met overmatige belading van personen of bagage. Auto’s met buitenlandse kentekens, in het bijzonder Oost-Europese, kunnen te allen tijde steekproefsgewijs worden gecontroleerd. De staat van onderhoud van een voertuig, het type voertuig, geblindeerde ruiten, de rijstijl van de chauffeur, de snelheid van het voertuig en het (kennelijk) bij elkaar horen van meerdere voertuigen, kunnen een rol spelen bij de steekproefsgewijze keuze van te controleren voertuigen.
-
-Wanneer een afzonderlijk verblijfsdocument wordt uitgereikt als bedoeld in [bijlage 7 bij het Voorschrift Vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=7), wordt dit geregistreerd. Bij het nummer wordt tevens geregistreerd van welk model (I, II, III,IV,EU/EER,W) het uitgereikte verblijfsdocument is.
+Bij een controle op internationaal (intra-Schengen) vliegverkeer worden in beginsel alle grensgangers gecontroleerd. Indien daarvoor de tijd ontbreekt, kan ook hier een steekproefsgewijze controle plaatsvinden. Indien ervaringsgegevens of andere informatie aanleiding vormt tot controles van vliegverkeer vanuit een specifiek herkomstland, dient zoveel mogelijk sprake te zijn van evenredigheid waar het gaat om controles van verschillende luchtvaartmaatschappijen.
 
 ### 3.3. Vernietiging van bescheiden
 
 ### 3.5. Overbrenging naar een plaats bestemd voor verhoor
 
-### 4. Administratieve organisatie
+### 3.5. Overbrenging naar een plaats bestemd voor verhoor
 
 ### 4.1. Taken en bevoegdheden
 
@@ -2359,31 +2359,31 @@ Indien het document voor grensoverschrijding van een Nederlander is vervallen, v
 
 Voor de controle van de personen op de collectieve paspoorten of lijsten gelden de onderstaande bijzondere bepalingen.
 
-De groepsleider, of begeleidende leerkracht in het geval van schoolreizen, dient altijd te beschikken over een individueel geldig document voor grensoverschrijding en aan het geheel van voorwaarden voor toegang te voldoen. De groepsleider of leerkracht houdt het collectief document onder zich, is verantwoordelijk voor het vervullen van de grensformaliteiten en draagt er zorg voor dat de deelnemers van het gezelschap gedurende het verblijf bij elkaar blijven. Voorts informeert de groepsleider terstond de bevoegde autoriteiten omtrent het niet kunnen of willen voortzetten van de groepsreis door een van de deelnemers.
+Voor de controle van de personen op de collectieve paspoorten of lijsten gelden de onderstaande bijzondere bepalingen.
 
 Wanneer een zeeman niet of niet langer aan de voorwaarden voor passagieren voldoet, stelt het hoofd van de doorlaatpost daaromtrent een aantekening op de bemanningslijst achter de naam van de zeeman.
 
-Bij gevaar voor de openbare orde kan het hoofd van de doorlaatpost/het hoofd van dienst volstaan de vreemdeling de verplichting op te leggen aan boord van het schip te blijven.
+Wanneer een zeeman niet of niet langer aan de voorwaarden voor passagieren voldoet, stelt het hoofd van de doorlaatpost daaromtrent een aantekening op de bemanningslijst achter de naam van de zeeman.
 
-Toegang wordt verleend aan jeugdige vreemdelingen aan wie ter adoptie(f)- dan wel als pleegkind een mvv is afgegeven. Wanneer niet, uit een mvv, blijkt dat voorafgaand aan de komst naar Nederland toestemming voor verblijf ter adoptie(f)- dan wel als pleegkind is verleend, moet steeds de IND worden geraadpleegd.
+Voor binnenkomst met het oog op verblijf ter adoptie(f)- dan wel als pleegkind is onder meer het bezit van een geldig document voor grensoverschrijding vereist. Dit is in beginsel een geldig paspoort, indien vereist, voorzien van een geldige mvv.
+
+Zoals is aangegeven in A2/5.5.1, dient in het geval het voornemen bestaat om de toegang te weigeren aan een persoon die zich er op beroept dat hem lang verblijf in Nederland is toegestaan, eerst contact op te worden genomen met de IND.
 
 **b) Vreemdelingen aan wie lang verblijf in Nederland niet meer is toegestaan / bij twijfel omtrent het verblijfsrecht**
 
-Uit een signalering in het OPS kan blijken dat de verblijfsvergunning voor bepaalde of onbepaalde tijd is ingetrokken dan wel de geldigheidsduur is verstreken. Aan de houder van een geldig paspoort en van een verblijfsvergunning waarvan de geldigheidsduur nog maar korte tijd is verstreken kan, wanneer hij een redelijke grond kan aanvoeren voor zijn verlate terugkeer, toegang worden verleend. In ieder geval dient de grensbewakingsambtenaar zo veel mogelijk direct de verblijfsrechtelijke status na te gaan. Indien de vreemdeling wordt doorgelaten dient met toepassing van [artikel 4.26 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.26) een meldplicht te worden opgelegd.
+Evenmin kan de kapitein zich zonder meer onttrekken aan terugplaatsing van de verstekeling aan boord door een beroep te doen op voorschrift 8 Verdrag voor beveiliging van mensenlevens op zee van 1974 (zoals gewijzigd in 2002). In geval de kapitein zich op dit voorschrift beroept, dienen de omstandigheden waarop hij zich beroept door de ambtenaar belast met de grensbewaking te worden beoordeeld en te worden afgewogen tegen het belang van terugplaatsing van de verstekeling aan boord.
 
 Indien de vervoerder bij een controle constateert dat hij te maken heeft met een vreemdeling die niet of niet juist is gedocumenteerd, dient hij deze in principe niet te vervoeren. Indien de vreemdeling stelt dat zijn leven in het land van waar hij op dat moment wil vertrekken in direct gevaar is, kan de vervoerder de vreemdeling niet naar de Nederlandse vertegenwoordiging zenden om aldaar een aanvraag voor een mvv met als doel ‘asiel’ in te dienen (zie [C5/25](onbekend)). Indien de vervoerder in deze situatie overweegt de vreemdeling te vervoeren, dient de vervoerder contact op te nemen met de IND. Het Hoofd van de IND bepaalt dan of de betrokken vreemdeling, ook al is hij niet in het bezit van de juiste reisdocumenten, naar Nederland mag worden gebracht. Als een vervoerder een niet of niet juist gedocumenteerde vreemdeling naar Nederlands grondgebied heeft vervoerd, maar dit heeft gedaan met instemming van de betreffende ambtenaar, geldt geen terugvoerplicht en wordt geen proces-verbaal opgemaakt ter zake van vermoedelijke overtreding van [artikel 4 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=4). Wel dient de vervoerder de feiten en omstandigheden zoals hij die daarbij heeft voorgelegd, deugdelijk schriftelijk vast te leggen.
 
-Het is mogelijk om een Dublinclaimant op grond van artikel 59, eerste lid Vreemdelingenwet of artikel 59 eerste jo. tweede lid, Vreemdelingenwet in bewaring te stellen. Voor de toepassing van deze bewaringsgrond is het noodzakelijk dat er een belangenafweging plaatsvindt (zie A5/5.3.3.5). Voor de specifieke invulling van de belangenafweging in Dublinzaken wordt verwezen naar C1/2 Dublin-procedure.
+Er kunnen twee vormen van vreemdelingentoezicht worden onderscheiden, namelijk het administratieve toezicht en het operationele toezicht. Het operationele toezicht is weer onder te verdelen in toezicht ter bestrijding van illegale immigratie en toezicht in het binnenland. Bij het administratieve toezicht moet men in het bijzonder denken aan de controles voortvloeiende uit de vreemdelingenregistratie.
 
-Casus:
+Ambtenaren van de KMar zijn eveneens belast met het toezicht op vreemdelingen (zie [artikel 47, eerste lid, onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=47)). Zij oefenen hun toezichtstaken (in casu: het MTV) uit onder leiding van de Commandant der KMar.
 
-Op grond van [artikel 47, eerste lid, onder c, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=47) kan de Minister bij besluit ambtenaren aanwijzen die belast zijn met het toezicht op vreemdelingen. De Minister heeft van deze mogelijkheid gebruik gemaakt door de in [artikel 142 WvSv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=142) bedoelde ambtenaren, die zijn belast met opsporingsbevoegdheid voor één of meer strafbare feiten ingevolge de [Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823), aan te wijzen.
+Om illegaal verblijf in een zo vroeg mogelijk stadium tegen te gaan, kunnen ingereisde personen na grensoverschrijding aan vreemdelingentoezicht worden onderworpen. Dit is onder meer het geval in internationale treinen en bij auto’s die de Nederlandse grens zijn gepasseerd, maar ook in het geval van internationaal vliegverkeer waarbij sprake is van een intra-Schengenvlucht naar het grondgebied van Nederland. Deze vorm van toezicht is uitsluitend toegestaan ten aanzien van personen van wie mag worden aangenomen dat zij grensgangers zijn. Deze controles vinden plaats zodra dit redelijkerwijs mogelijk is na grensoverschrijding en nog geen of slechts een geringe vermenging met het binnenlands reizigersverkeer heeft plaatsgevonden.
 
-Deze controles vinden plaats in het kader van het zogenaamde MTV. MTV-controles kunnen worden uitgevoerd aan de grensovergangen en in een grensstrook tot drie kilometer achter de grens. De controle op doorgaande wegen en snelwegen wordt uitgevoerd binnen de driekilometerzone. Bij snelwegen kan de driekilometerzone worden overschreden tot aan de tweede afslag na grensoverschrijding. Het MTV op vaarwegen wordt eveneens uitgevoerd binnen de driekilometerzone. Deze zone kan worden overschreden tot de eerste afmeermogelijkheid. MTV-controles op de treinen worden uitgevoerd tot het punt waarop de ambtenaar belast met het toezicht op vreemdelingen van oordeel is dat niet langer aan het criterium – dat er geen of nagenoeg geen vermenging met binnenlands reisverkeer mag plaatsvinden – wordt voldaan.
+De controle op auto’s die de Nederlandse grens zijn gepasseerd, richt zich met name op de kleinere personenbussen en op personenauto’s met overmatige belading van personen of bagage. Auto’s met buitenlandse kentekens, in het bijzonder Oost-Europese, kunnen te allen tijde steekproefsgewijs worden gecontroleerd. De staat van onderhoud van een voertuig, het type voertuig, geblindeerde ruiten, de rijstijl van de chauffeur, de snelheid van het voertuig en het (kennelijk) bij elkaar horen van meerdere voertuigen, kunnen een rol spelen bij de steekproefsgewijze keuze van te controleren voertuigen.
 
 Bij een controle in internationale treinen worden in beginsel alle grensgangers gecontroleerd. Indien daarvoor de tijd ontbreekt, kan ook hier een steekproefsgewijze controle plaatsvinden. Daarbij kan de hoeveelheid meegenomen bagage een rol spelen. Ook grotere groepen of gezinnen die (kennelijk) gezamenlijk reizen kunnen voorwerp van controle vormen.
-
-Bij een controle op internationaal (intra-Schengen) vliegverkeer worden in beginsel alle grensgangers gecontroleerd. Indien daarvoor de tijd ontbreekt, kan ook hier een steekproefsgewijze controle plaatsvinden. Indien ervaringsgegevens of andere informatie aanleiding vormt tot controles van vliegverkeer vanuit een specifiek herkomstland, dient zoveel mogelijk sprake te zijn van evenredigheid waar het gaat om controles van verschillende luchtvaartmaatschappijen.
 
 Een belangrijk instrument voor het daadwerkelijk handhaven van het vreemdelingenbeleid wordt gevormd door een adequaat toezicht op vreemdelingen die hier verblijven. Dit toezicht, dat noodzakelijk is in het kader van de rechtshandhaving, dient uit het oogpunt van rechtsbescherming op non-discriminatoire wijze uitgevoerd te worden.
 
@@ -2397,13 +2397,13 @@ Een belangrijk instrument voor het daadwerkelijk handhaven van het vreemdelingen
 
 De vervoerder kan worden vervolgd terzake van overtreding van [artikel 4, eerste en tweede lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=4), te weten het veronachtzamen van de zorg- en afschriftplicht, alsmede terzake van overtreding van [artikel 5, eerste en tweede lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=5) en [artikel 65, derde lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=65). Ook kan tegen de vervoerder vervolging worden ingesteld terzake van overtreding van [artikel 197a WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=197a), welk artikel mensensmokkel behelst.
 
-Ambtenaren van de KMar zijn eveneens belast met het toezicht op vreemdelingen (zie [artikel 47, eerste lid, onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=47)). Zij oefenen hun toezichtstaken (in casu: het MTV) uit onder leiding van de Commandant der KMar.
+De ambtenaren van politie die zijn aangesteld voor de uitvoering van de politietaak (zie [artikel 3, eerste lid, onder a en c, en tweede lid, Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=3)) zijn belast met het toezicht op vreemdelingen (zie [artikel 47, eerste lid, onder a, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=47)). Hieronder wordt ingevolge [artikel 3, tweede lid, Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=3) mede begrepen de Rijksrecherche. Zij voeren hun werkzaamheden uit onder leiding van de Korpschef.
 
-Ambtenaren belast met toezicht beschikken over de bevoegdheden die ingevolge de [Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) aan toezichthouders toekomen (zie [artikelen 5:11 tot en met 5:20 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:11)). Deze bevoegdheden en de aanvullende bevoegdheden die op grond van de Vw aan de ambtenaren belast met toezicht op vreemdelingen toekomen, worden nader uitgewerkt in A3/2.
+Op grond van [artikel 47, eerste lid, onder c, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=47) kan de Minister bij besluit ambtenaren aanwijzen die belast zijn met het toezicht op vreemdelingen. De Minister heeft van deze mogelijkheid gebruik gemaakt door de in [artikel 142 WvSv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=142) bedoelde ambtenaren, die zijn belast met opsporingsbevoegdheid voor één of meer strafbare feiten ingevolge de [Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823), aan te wijzen.
 
-In het belang van een actief en effectief vreemdelingentoezicht kunnen personen staande gehouden worden om hun identiteit, nationaliteit en verblijfsrechtelijke status (rechtmatig verblijf) vast te stellen. [Artikel 50 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=50) biedt daartoe, met inachtneming van de genoemde waarborgen, onder meer de bevoegdheid van staande houden en ophouden.
+Een belangrijk instrument voor het daadwerkelijk handhaven van het vreemdelingenbeleid wordt gevormd door een adequaat toezicht op vreemdelingen die hier verblijven. Dit toezicht, dat noodzakelijk is in het kader van de rechtshandhaving, dient uit het oogpunt van rechtsbescherming op non-discriminatoire wijze uitgevoerd te worden.
 
-### 3.6.1. Onderzoek aan kleding of lichaam en het doorzoeken van zaken
+### 3.6. Onderzoek identiteit en verblijfsstatus
 
 ## Model M94-A. Verklaring ex artikel 25 lid 1 Uitvoeringsovereenkomst Schengen
 
@@ -2415,47 +2415,47 @@ Van vertrek is sprake indien een vreemdeling zelfstandig of gedwongen vertrekt, 
 
 Indien een aanvraag is goedgekeurd organiseert IOM de reis en stelt de eventueel uit te keren financiële bijdrage voor de eerste kosten van levensonderhoud vast. De vreemdeling is zelf verantwoordelijk voor het verkrijgen van reisdocumenten. Indien de vreemdeling aangeeft dat het reisdocument zich bevindt bij de korpschef, zal IOM de korpschef kunnen verzoeken om toezending van het reisdocument. Het originele document dat in bewaring is bij de korpschef wordt op aanvraag van IOM naar IOM op Schiphol gezonden en bij vertrek op Schiphol aan de vreemdeling overhandigd.
 
-Indien een aanvraag is goedgekeurd organiseert IOM de reis en stelt de eventueel uit te keren financiële bijdrage voor de eerste kosten van levensonderhoud vast. De vreemdeling is zelf verantwoordelijk voor het verkrijgen van reisdocumenten. Indien de vreemdeling aangeeft dat het reisdocument zich bevindt bij de korpschef, zal IOM de korpschef kunnen verzoeken om toezending van het reisdocument. Het originele document dat in bewaring is bij de korpschef wordt op aanvraag van IOM naar IOM op Schiphol gezonden en bij vertrek op Schiphol aan de vreemdeling overhandigd.
+Voor wat betreft de bijzondere regels voor staatshoofden en houders van een diplomatiek, een officieel of een dienstpaspoort en leden van internationale organisaties wordt verwezen naar artikel 19 en Bijlage VII, onder 1. en 4, SGC. Ter toelichting en aanvulling voor de Nederlandse situatie is het volgende van belang.
 
-De [Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) is in het algemeen niet van toepassing op vreemdelingen die een bijzondere status bezitten krachtens een zetelovereenkomst gesloten met een internationale organisatie waarin is bepaald dat de zetel, dat wil zeggen hoofdkantoor, in Nederland is gevestigd en waarin (mede) bepalingen zijn opgenomen omtrent hun verblijfsrechtelijke positie. Zij zijn in het bezit van het eerdergenoemde geprivilegieerdendocument (zie [model M81](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M81&z=2006-07-16&g=2006-07-16)). Voor deze categorie geldt hetgeen hierboven bij a (niet-duurzaam verblijf) is opgemerkt over de bijzondere status. Voor een overzicht van de categorieën vreemdelingen die krachtens een internationale overeenkomst een geprivilegieerdendocument bezitten, wordt verwezen naar [B12/4](onbekend).
+De [Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) is in het algemeen niet van toepassing op vreemdelingen die een bijzondere status bezitten krachtens een zetelovereenkomst gesloten met een internationale organisatie waarin is bepaald dat de zetel, dat wil zeggen hoofdkantoor, in Nederland is gevestigd en waarin (mede) bepalingen zijn opgenomen omtrent hun verblijfsrechtelijke positie. Zij zijn in het bezit van het eerdergenoemde geprivilegieerdendocument (zie [model M81](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M81&z=2006-07-16&g=2006-10-13)). Voor deze categorie geldt hetgeen hierboven bij a (niet-duurzaam verblijf) is opgemerkt over de bijzondere status. Voor een overzicht van de categorieën vreemdelingen die krachtens een internationale overeenkomst een geprivilegieerdendocument bezitten, wordt verwezen naar [B12/4](onbekend).
+
+De groepsleider, of begeleidende leerkracht in het geval van schoolreizen, dient altijd te beschikken over een individueel geldig document voor grensoverschrijding en aan het geheel van voorwaarden voor toegang te voldoen. De groepsleider of leerkracht houdt het collectief document onder zich, is verantwoordelijk voor het vervullen van de grensformaliteiten en draagt er zorg voor dat de deelnemers van het gezelschap gedurende het verblijf bij elkaar blijven. Voorts informeert de groepsleider terstond de bevoegde autoriteiten omtrent het niet kunnen of willen voortzetten van de groepsreis door een van de deelnemers.
 
 In beginsel dienen de deelnemers te beschikken over een individueel identiteitsbewijs voorzien van een goedgelijkende foto.
 
 Deelnemers aan collectieve paspoorten voor jeugdige personen hoeven niet te beschikken over een individueel identiteitsbewijs, maar dienen zo nodig wel hun identiteit aannemelijk te kunnen maken. Wanneer in een collectief paspoort of lijst voor jeugdige personen afgegeven door de autoriteiten van Frankrijk of Ierland ook in die landen gevestigde jeugdige vluchtelingen of staatlozen voorkomen, moeten deze deelnemers wel beschikken over een individueel identiteitsbewijs voorzien van een foto.
 
-Deelnemers aan een reizigerslijst voor scholieren hoeven in beginsel niet te beschikken over een individueel identiteitsbewijs.
+Bij gevaar voor de openbare orde kan het hoofd van de doorlaatpost/het hoofd van dienst volstaan de vreemdeling de verplichting op te leggen aan boord van het schip te blijven.
 
 Zonodig kan hij de zeeman in dit geval ook met toepassing van [artikel 50 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=50) overbrengen naar de vreemdelingenpolitie. Dit laatste geschiedt steeds:
 
-Wanneer het binnenkomst met een paspoort of enig ander daarvoor in de plaats tredend document betreft, dient het verzoek tot overname binnen een termijn van drie maanden, te rekenen vanaf het verstrijken van de termijn gedurende welke de vreemdeling zich vrijelijk op het Beneluxgebied mag verplaatsen.
-
 Aan visumplichtige zeelieden die na aankomst in Nederland onmiddellijk in een ziekenhuis moeten worden opgenomen en niet in het bezit zijn van het vereiste visum, kan door het hoofd van de doorlaatpost, ongeacht hun nationaliteit, zonder voorafgaande machtiging, een visum dan wel een visumverklaring indien niet wordt beschikt over een document van grensoverschrijding, voor ten hoogste vijftien dagen worden verstrekt, waarvan de geldigheid is beperkt tot Nederland.
 
-Het A-gedeelte van het formulier wordt ingevuld door of namens de ambtenaar die voor de vrijheidsontnemende maatregel verantwoordelijk is. Deze is ook verantwoordelijk voor het aanbrengen van wijzigingen en aanvullingen op het formulier.
+Wanneer de vreemdeling niet kan aantonen of aannemelijk kan maken dat hem lang verblijf in Nederland is toegestaan, kan voor vaststelling van zijn verblijfsrechtelijke positie contact worden opgenomen met de vreemdelingenpolitie van de politieregio waar de gestelde woon- of verblijfplaats van de vreemdeling is gelegen.
 
 Aan vreemdelingen wordt in bepaalde gevallen toegestaan om in Nederland de (definitieve) beslissing over hun verblijf af te wachten. Hieromtrent wordt door de IND een aantekening gesteld in het paspoort. Zie voor deze aantekening [artikel 4.34, eerste lid, onder c, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.34).
 
-Overtreding van de [artikelen 5, eerste en tweede lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=5) en [artikel 65, derde lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=65) wordt gestraft met een geldboete van de tweede categorie (maximaal € 2.250) of een hechtenis van ten hoogste zes maanden ([artikel 108 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=108)).
+Overtreding van [artikel 4, eerste en tweede lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=4) (het nalaten van de zorg- of afschriftplicht) kan worden bestraft met geldboete van de vierde categorie (maximaal € 11.250) of hechtenis van zes maanden ([artikel 108 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=108)). Proces-verbaal wordt opgemaakt in alle gevallen waarin als gevolg van het nalaten van de zorg- of afschriftplicht een niet of onjuist gedocumenteerde vreemdeling binnen Nederland is gebracht. Alle processen-verbaal worden doorgezonden aan het OM. In beginsel zal eerst een transactie worden aangeboden door het OM.
 
-Het misdrijf van [artikel 197a WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=197a) (mensensmokkel) kan worden bestraft met gevangenisstraf van ten hoogste vier jaren of een geldboete van de vijfde categorie. Het derde lid van het artikel bevat de mogelijkheid tot strafverzwaring indien het feit is begaan in de uitoefening van enig ambt of beroep. Ingeval van verdenking van mensensmokkel wordt in ieder geval proces-verbaal opgemaakt en zal in beginsel onmiddellijk tot dagvaarden worden overgegaan.
+Overtreding van de [artikelen 5, eerste en tweede lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=5) en [artikel 65, derde lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=65) wordt gestraft met een geldboete van de tweede categorie (maximaal € 2.250) of een hechtenis van ten hoogste zes maanden ([artikel 108 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=108)).
 
 ### 5.3.7. Het strafrecht en bewaring
 
-Een verzoek om doorgeleiding door de lucht kan worden geweigerd wanneer:
+Indien de lidstaat die een persoon wenst terug te zenden om redelijke en praktische motieven geen gebruik kan maken van een rechtstreekse vlucht naar het land van bestemming, kan hij verzoeken om doorgeleiding door de lucht via Nederland. Een schriftelijk verzoek om doorgeleiding van een andere lidstaat moet worden ingediend bij de KMar te Schiphol. Het verzoek dient zo vroeg mogelijk te worden ingediend, en ten minste twee dagen vóór de doorgeleiding bij de KMar aan te komen. In bijzonder dringende en naar behoren gemotiveerde gevallen mag deze termijn korter zijn. Het verzoek moet worden ingediend door middel van het daartoe in de Richtlijn vastgelegde formulier.
 
 ### 6. Rechtsmiddelen
 
-2. Van inbewaringstellingen die vóór 1 september 2004 zijn opgelegd, waarin uitspraak is gedaan vóór 1 september 2004 met als dictum “ongegrond” en de vrijheidsontneming duurt ná 1 september 2004 voort, dient te allen tijde nog **éénmaal** een kennisgeving (oude wet) uiterlijk vier weken na de laatste uitspraak uit te gaan.
+Ambtenaren belast met toezicht beschikken over de bevoegdheden die ingevolge de [Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) aan toezichthouders toekomen (zie [artikelen 5:11 tot en met 5:20 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:11)). Deze bevoegdheden en de aanvullende bevoegdheden die op grond van de Vw aan de ambtenaren belast met toezicht op vreemdelingen toekomen, worden nader uitgewerkt in A3/2.
 
 Overtreding van een aantal bepalingen van de [Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) of handelen in strijd met krachtens de wet opgelegde verplichtingen, die onder meer het vreemdelingentoezicht betreffen, is strafbaar gesteld bij [artikel 108, eerste lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=108).
 
-De brochure geeft de voorwaarden weer voor de vreemdeling die naturalisatie wil aanvragen. Tevens geeft het een overzicht van de leges, mee te nemen documenten en de afstandsverplichting. Deze brochure is alleen in het Nederlands beschikbaar.
+Bevoegd tot het opsporen van bij die wetsbepaling strafbaar gestelde feiten zijn behalve de met het vreemdelingentoezicht belaste ambtenaren (zie [artikel 1:3 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:3)) tevens de ambtenaren belast met de grensbewaking, alsmede alle bij [artikel 141 WvSv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141) in het algemeen met de opsporing van strafbare feiten belaste personen.
 
-Ook wordt de datum vermeld met ingang waarop de verblijfsvergunning overeenkomstig [artikel 26 Vreemdelingenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=26) is verleend.
+In het belang van een actief en effectief vreemdelingentoezicht kunnen personen staande gehouden worden om hun identiteit, nationaliteit en verblijfsrechtelijke status (rechtmatig verblijf) vast te stellen. [Artikel 50 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=50) biedt daartoe, met inachtneming van de genoemde waarborgen, onder meer de bevoegdheid van staande houden en ophouden.
 
 De politie heeft als taken de handhaving van de openbare orde en de strafrechtelijke handhaving van de rechtsorde. Voorts verleent zij hulp aan hen die deze behoeven (zie [artikel 2 Politiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=2)). Ook het actief toezicht op vreemdelingen maakt deel uit van de taken van politieambtenaren en de overige speciaal daarvoor aangewezen toezichthouders. Bij de uitvoering van dit toezicht wordt in het belang van de (handhaving van de) openbare orde nagegaan of in Nederland verblijvende vreemdelingen rechtmatig hier verblijven. In verband daarmee kunnen personen worden staande gehouden. Van deze bevoegdheid mag gebruik gemaakt worden indien er sprake is van ‘feiten en omstandigheden die, naar objectieve maatstaven gemeten, een redelijk vermoeden van illegaal verblijf opleveren’ of ‘ter bestrijding van illegaal verblijf na grensoverschrijding’.
 
-### 5. Controle op juistheid van de gegevens
+### 3.6.1. Onderzoek aan kleding of lichaam en het doorzoeken van zaken
 
 ### 5.1. Maatregelen om de controleerbaarheid te vergroten
 
@@ -2477,11 +2477,11 @@ Indien daartoe in het belang van het toezicht op vreemdelingen gegronde reden be
 
 ### Overwegingen:
 
-In de afgelopen periode hebben Partijen informatie uitgewisseld. De au pair heeft kenbaar gemaakt, gedurende de periode van een jaar, kennis te willen maken met de Nederlandse samenleving en cultuur, door middel van verblijf als au pair bij een Nederlands gastgezin. Het gastgezin heeft kenbaar gemaakt de au pair faciliteiten te willen verlenen, in ruil waarvoor de au pair licht huishoudelijk werk verricht in het gastgezin.
+Een in bewaring genomen document moet op grond van [artikel 52, tweede lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=52) aan de vreemdeling worden teruggegeven indien hij te kennen geeft Nederland te willen verlaten en hij ook daadwerkelijk vertrekt. Ingeval van uitzetting kan het reis- en identiteitspapier worden overgedragen aan de persoon belast met grensbewaking in het land waar de toelating is gewaarborgd.
 
-In bepaalde gevallen zijn de ambtenaren belast met het toezicht op vreemdelingen bevoegd het grensoverschrijdingsdocument of het verblijfsdocument van een persoon in bewaring te nemen. Bij inname van het grensoverschrijdingsdocument of het verblijfsdocument dient aan de vreemdeling een ontvangstbewijs te worden verstrekt (zie [model M101](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M101&z=2006-07-16&g=2006-07-16)).
+In bepaalde gevallen zijn de ambtenaren belast met het toezicht op vreemdelingen bevoegd het grensoverschrijdingsdocument of het verblijfsdocument van een persoon in bewaring te nemen. Bij inname van het grensoverschrijdingsdocument of het verblijfsdocument dient aan de vreemdeling een ontvangstbewijs te worden verstrekt (zie [model M101](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M101&z=2006-07-16&g=2006-10-13)).
 
-Het in bewaring nemen van het grensoverschrijdingsdocument of het verblijfsdocument kan op grond van [artikel 4.23 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.23) in de onderstaande gevallen plaatsvinden:
+In bepaalde gevallen zijn de ambtenaren belast met het toezicht op vreemdelingen bevoegd het grensoverschrijdingsdocument of het verblijfsdocument van een persoon in bewaring te nemen. Bij inname van het grensoverschrijdingsdocument of het verblijfsdocument dient aan de vreemdeling een ontvangstbewijs te worden verstrekt (zie [model M101](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M101&z=2006-11-16&g=2006-10-13)).
 
 ### Artikel 2 – alternatief
 
@@ -2491,9 +2491,11 @@ In de afgelopen periode hebben Partijen informatie uitgewisseld. De au pair heef
 
 ### Artikel 2 – alternatief
 
-Betreden impliceert niet het doorzoeken van de plaats die wordt betreden (bijvoorbeeld het openen van willekeurige kasten, laden en andere bergplaatsen), tenzij het toezicht daarop specifiek betrekking heeft in de zin van [artikel 5:18 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:18). Dit kan bijvoorbeeld het geval zijn indien er onderzoek wordt gedaan naar de daadwerkelijke samenwoning van een vreemdeling met een ander persoon. Voor het betreden van de woning moet in dat geval wel toestemming zijn verleend.
+Op grond van [artikel 5:15 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:15) is een toezichthouder bevoegd elke plaats te betreden met uitzondering van een woning zonder toestemming van de bewoner. Daarbij geldt dat uit het evenredigheidsbeginsel van [artikel 5:13 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:13) voortvloeit dat alleen die plaatsen worden betreden waarbij dat voor de uitoefening van het toezicht redelijkerwijs noodzakelijk is.
 
 ### De au pair en het gastgezin komen derhalve het volgende overeen:
+
+De binnentredingsbevoegdheid voortvloeiend uit de [Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) wordt in [artikel 53 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=53) nader aangevuld en verruimd.
 
 In [artikel 53, eerste lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=53) is de mogelijkheid geboden om zonder toestemming van de bewoner een woning te betreden indien er op grond van feiten en omstandigheden, naar objectieve maatstaven gemeten, een redelijk vermoeden bestaat dat op deze plaats een vreemdeling verblijft die geen rechtmatig verblijf heeft. De identiteit van de vreemdeling behoeft voorafgaand aan het betreden van de woning niet bekend te zijn aan de betreffende ambtenaar. Voor wat betreft een uitleg van het begrip ‘redelijk vermoeden’ wordt verwezen naar hetgeen daarover in A3/3.3 is opgemerkt.
 
@@ -2505,21 +2507,19 @@ Als bewoner van een woning geldt iedereen die tot een huishouden behoort. De amb
 
 Op grond van [artikel 1, eerste lid, Algemene wet op het binnentreden](https://wetten.overheid.nl/jci1.3:c:BWBR0006763&artikel=1) is degene die bij of krachtens de wet belast is met de opsporing van strafbare feiten of enig ander onderzoek, met de uitvoering van een wettelijk voorschrift of met het toezicht op de naleving daarvan, dan wel een bevoegdheid tot vrijheidsontneming uitoefent, en uit die hoofde een woning betreedt, verplicht zich voorafgaand te legitimeren en mededeling te doen van het doel van het binnentreden. Ingevolge [artikel 1, tweede lid, Algemene wet op het binnentreden](https://wetten.overheid.nl/jci1.3:c:BWBR0006763&artikel=1) kan van de legitimatie- en mededelingsplicht worden afgezien wanneer dit naar redelijke verwachting onmiddellijk en ernstig gevaar oplevert voor de veiligheid van personen of goederen, feitelijk onmogelijk is dan wel naar redelijke verwachting de strafvordering schaadt.
 
-Op grond van [artikel 2 Algemene wet op het binnentreden](https://wetten.overheid.nl/jci1.3:c:BWBR0006763&artikel=2) is voor het binnentreden een machtiging nodig. Deze machtiging kan aan ambtenaren belast met het toezicht op vreemdelingen worden verleend door de burgemeester, de officier van justitie of de hulpofficier van justitie ([artikel 3 Algemene wet op het binnentreden](https://wetten.overheid.nl/jci1.3:c:BWBR0006763&artikel=3)).
-
 ### Artikel 2 – alternatief
 
 Het is altijd mogelijk een woning te betreden met toestemming van de bewoner. Op grond van [artikel 1, vierde lid, Algemene wet op het binnentreden](https://wetten.overheid.nl/jci1.3:c:BWBR0006763&artikel=1) is het dan noodzakelijk dat de persoon die binnentreedt voorafgaand aan het binnentreden toestemming vraagt aan de bewoner. Op grond van die bepaling moet die toestemming blijken aan degene die wenst binnen te treden. De leeftijd van de bewoner die toestemming verleent om een woning te betreden is niet van belang. Wel dient degene die de toestemming verleent de gevolgen van zijn handelen te kunnen overzien. De gang van zaken bij het binnentreden met toestemming van de bewoner moet worden vastgelegd in een proces-verbaal (bijvoorbeeld worden opgenomen in het proces-verbaal van staandehouden van een vreemdeling).
 
 ### Artikel 3 – culturele uitwisseling
 
-4. ____________________________
+Bij binnentreding van een woning met toestemming van de bewoner kan de toestemming overigens te allen tijde worden ingetrokken. Een ambtenaar zonder machtiging dient dan te vertrekken.
 
 ### Artikel 1 – weekindeling
 
-Bevoegd tot het geven van een machtiging tot binnentreden zijn onder meer de officieren en hulpofficieren van justitie. De machtiging die wordt verleend voor het binnentreden op grond van de [Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) zal gewoonlijk worden gegeven voor het binnentreden in één in de machtiging te noemen woning. Zo nodig kan worden bepaald dat de machtiging tevens zal gelden voor ten hoogste drie andere afzonderlijk te noemen woningen.
+Voor het binnentreden van een woning zonder toestemming van de bewoner is ingevolge [artikel 2, eerste lid, Algemene wet op het binnentreden](https://wetten.overheid.nl/jci1.3:c:BWBR0006763&artikel=2) een schriftelijke machtiging vereist. De machtiging wordt zo mogelijk bij het binnentreden getoond. In de [leden 1 en 3 van artikel 2 Algemene wet op het binnentreden](https://wetten.overheid.nl/jci1.3:c:BWBR0006763&artikel=2) zijn enige uitzonderingen opgenomen op de verplichting om te beschikken over een schriftelijke machtiging, maar deze uitzonderingen doen zich in het geval van binnentreden op grond van de [Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) normaliter niet voor.
 
-Degene die zonder toestemming van de bewoner in een woning is binnengetreden, maakt daarvan op zijn ambtseed of -belofte een schriftelijk verslag op. Voor wat betreft de inhoud van het verslag wordt verwezen naar [artikel 10, tweede lid, onder a tot en met g, Algemene wet op het binnentreden](https://wetten.overheid.nl/jci1.3:c:BWBR0006763&artikel=10). Indien krachtens een machtiging is binnengetreden wordt het verslag uiterlijk op de vierde dag na die waarop in de woning is binnengetreden toegezonden aan de degene die de machtiging heeft gegeven. Indien dit een hulpofficier van justitie is, dan wordt het verslag ook aan de officier van justitie verzonden. Een afschrift van het verslag wordt op de hiervoor bedoelde dag toegezonden of uitgereikt aan de bewoner. Indien het niet mogelijk is het afschrift toe te zenden of uit te reiken dan wordt het verslag gedurende zes maanden voor de bewoner beschikbaar gehouden.
+Bevoegd tot het geven van een machtiging tot binnentreden zijn onder meer de officieren en hulpofficieren van justitie. De machtiging die wordt verleend voor het binnentreden op grond van de [Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) zal gewoonlijk worden gegeven voor het binnentreden in één in de machtiging te noemen woning. Zo nodig kan worden bepaald dat de machtiging tevens zal gelden voor ten hoogste drie andere afzonderlijk te noemen woningen.
 
 ### Artikel 5 – geldigheid
 
@@ -2527,9 +2527,9 @@ Deze overeenkomst is geldig vanaf het moment van ondertekenen en blijft van krac
 
 Als maatregel van toezicht kunnen aan vreemdelingen geen andere verplichtingen worden opgelegd dan die welke bij en krachtens de [Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) zijn vastgesteld. Hierbij gelden de volgende uitgangspunten:
 
-In [artikel 54, eerste lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=54) is de grondslag opgenomen voor de verplichtingen die als maatregel van toezicht aan vreemdelingen kunnen worden opgelegd. Indien een vreemdeling bij herhaling opzettelijk niet voldoet aan de hem opgelegde verplichting kan dit onder omstandigheden aanleiding zijn voor in bewaringstelling ex [artikel 59 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=59) of vrijheidsontneming ex [artikel 58 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=58) of signalering in het OPS of (N)SIS.
+Als maatregel van toezicht kunnen aan vreemdelingen geen andere verplichtingen worden opgelegd dan die welke bij en krachtens de [Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) zijn vastgesteld. Hierbij gelden de volgende uitgangspunten:
 
-Ook het gastgezin heeft de mogelijkheid contact op te nemen met het meldpunt.
+In [artikel 54, eerste lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=54) is de grondslag opgenomen voor de verplichtingen die als maatregel van toezicht aan vreemdelingen kunnen worden opgelegd. Indien een vreemdeling bij herhaling opzettelijk niet voldoet aan de hem opgelegde verplichting kan dit onder omstandigheden aanleiding zijn voor in bewaringstelling ex [artikel 59 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=59) of vrijheidsontneming ex [artikel 58 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=58) of signalering in het OPS of (N)SIS.
 
 ## Model M110-A. Maatregel van bewaring
 
@@ -2643,27 +2643,29 @@ Van vertrek is sprake indien een vreemdeling zelfstandig of gedwongen vertrekt, 
 
 De vreemdelingen van de categorie waarop de bepalingen van dit onderdeel betrekking hebben, dienen te worden onderscheiden in drie groepen:
 
+Deelnemers aan een reizigerslijst voor scholieren hoeven in beginsel niet te beschikken over een individueel identiteitsbewijs.
+
 Bij inreis van gezelschappen die reizen op een collectief paspoort of lijst dient te worden gecontroleerd of alle personen die op het document voorkomen daadwerkelijk deel uitmaken van het gezelschap. Indien een persoon zich niet (meer) bij het gezelschap bevindt of om enigerlei reden de toegang is geweigerd, wordt diens naam op het collectieve paspoort of lijst doorgehaald. Deze doorhaling wordt gedateerd en voorzien van een paraaf.
 
 In bepaalde of bijzondere gevallen, bijvoorbeeld bij schoolreizen, reisgezelschappen van ouderen, pelgrims of bedevaartgangers, kan de inreiscontrole tot een toetsing aan de hand van een bezettingslijst of een steekproefsgewijze toetsing van de deelnemers worden beperkt.
 
 Naast de gebruikelijke controlehandelingen, wordt bij uitreis van personen die reizen op een collectief paspoort of collectieve lijst eveneens gecontroleerd of de in het document voorkomende personen nog deel uitmaken van het gezelschap. Indien een of meerdere personen niet meer bij het gezelschap zijn, moet de reden daarvan bij de reisleider worden nagegaan. Zonodig worden de bevoegde autoriteiten van het Schengenstaat waar de ontbrekende persoon is achtergebleven hiervan in kennis gesteld. Op grond van het ontbreken van een van de deelnemers kan de uitreis van de overige deelnemers niet worden belet. In geval een persoon ontbreekt, wordt hieromtrent bij de (uitreis)stempel tevens een aantekening gesteld.
 
-Ook in het geval van gezelschappen die reizen op een collectief paspoort of lijst dienen, wanneer het gaat om onderdanen van derde landen, bij in- en bij uitreisstempels te worden geplaatst. Bij de stempel wordt, zoals hiervoor reeds aangegeven, een aantekening gesteld omtrent het aantal personen dat is in- respectievelijk uitgereisd.
+Voor wat betreft het vereiste van een geldig grensoverschrijdingsdocument geldt, dat voor werkzoekende zeelieden het zeemansboekje niet in de plaats van het paspoort kan treden.
 
 Indien in het geldig document van grensoverschrijding het benodigde visum ontbreekt, kan aan werkzoekende zeelieden aan de grens een reisvisum met een geldigheid van maximaal vijftien dagen worden afgegeven, mits aan alle overige voorwaarden voor toegang wordt voldaan. Indien nodig kan na ommekomst van de vijftiendagentermijn een wijziging of verlenging van de geldigheidsduur van het reisvisum bij de Visadienst, of (voor zover het de in de regio Rotterdam-Rijnmond verblijvende zeelieden betreft) bij de ZHP worden gevraagd.
 
 Deze werkzoekende zeelieden moeten bovendien met een zeemansboekje (-paspoort) of andere bewijsmiddelen kunnen aantonen dat zij daadwerkelijk het beroep van zeeman uitoefenen.
 
-Wanneer het binnenkomst met een paspoort of enig ander daarvoor in de plaats tredend document betreft, dient het verzoek tot overname binnen een termijn van drie maanden, te rekenen vanaf het verstrijken van de termijn gedurende welke de vreemdeling zich vrijelijk op het Beneluxgebied mag verplaatsen.
-
 Vreemdelingen die in Frankrijk hun hoofdverblijf hebben en op wettige wijze Nederland zijn binnengekomen, zullen worden overgenomen door Frankrijk.
 
-Het A-gedeelte van het formulier wordt ingevuld door of namens de ambtenaar die voor de vrijheidsontnemende maatregel verantwoordelijk is. Deze is ook verantwoordelijk voor het aanbrengen van wijzigingen en aanvullingen op het formulier.
+Het bovenstaande is van overeenkomstige toepassing op vreemdelingen die in het bezit zijn van het vereiste document voor grensoverschrijding en een geldige Belgische of Luxemburgse mvv (autorisation de séjour provisoire), mits in deze machtiging staat vermeld dat zij geldig is voor binnenkomst in het Benelux-gebied.
 
 Indien de vreemdeling wordt vervoerd (bijv. ter effectuering van de uitzetting), dient de ambtenaar die voor het vervoer verantwoordelijk is, het C-gedeelte in te vullen. Op het C-gedeelte is ruimte voor opmerkingen over in totaal drie vervoersbewegingen.
 
 Deze brochure beschrijft in grote lijnen wanneer en op welke wijze oud-Nederlanders de Nederlandse nationaliteit kunnen herkrijgen. Daarnaast wordt kort ingegaan op de voorwaarden voor oud-Nederlanders om zich in Nederland te vestigen. De brochure is alleen in het Nederlands beschikbaar.
+
+Het algemeen belang vergt dat wordt opgetreden tegen vreemdelingen die zich in strijd met de wettelijke bepalingen in Nederland bevinden. Een vreemdelingenbeleid is immers niet te voeren indien degenen die volgens dit beleid niet in Nederland mogen verblijven, ongemoeid worden gelaten. Bovendien kunnen uit illegaal verblijf misstanden voortvloeien, onder meer met betrekking tot de tewerkstelling van buitenlandse werknemers, de volksgezondheid en de huisvesting. Om deze redenen dient nauwlettend toezicht te worden gehouden op de binnenkomst en aanwezigheid van illegale vreemdelingen.
 
 Het algemeen belang vergt dat wordt opgetreden tegen vreemdelingen die zich in strijd met de wettelijke bepalingen in Nederland bevinden. Een vreemdelingenbeleid is immers niet te voeren indien degenen die volgens dit beleid niet in Nederland mogen verblijven, ongemoeid worden gelaten. Bovendien kunnen uit illegaal verblijf misstanden voortvloeien, onder meer met betrekking tot de tewerkstelling van buitenlandse werknemers, de volksgezondheid en de huisvesting. Om deze redenen dient nauwlettend toezicht te worden gehouden op de binnenkomst en aanwezigheid van illegale vreemdelingen.
 
@@ -2675,23 +2677,21 @@ Om hun toezichthoudende taken goed te kunnen uitoefenen zijn ambtenaren belast m
 
 Op ambtenaren die zijn belast met het toezicht op de naleving van de wettelijke voorschriften met betrekking tot vreemdelingen is [Afdeling 5:2 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=5.2) van toepassing. Deze [Afdeling](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=5.2) geeft regels over de wijze waarop toezichthouders hun taak dienen te vervullen en verleent aan deze toezichthouders een aantal bevoegdheden. Ingevolge [artikel 5:12, eerste lid, Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:12) is iedere toezichthouder verplicht een legitimatiebewijs bij zich te dragen. Het legitimatiebewijs behoeft alleen op verzoek te worden getoond. Voor het binnentreden van een woning geldt echter dat de toezichthouder zich altijd, ook ongevraagd, moet legitimeren.
 
-Tot slot is bij het uitoefenen van toezichthoudende taken het evenredigheidsbeginsel van belang, dat is neergelegd in [artikel 5:13 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:13). Deze bepaling is ook van toepassing op de bevoegdheden die in de [Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) aan toezichthouders zijn toegekend.
-
 Toezicht dient te worden onderscheiden van opsporing. In de praktijk is het onderscheid tussen toezicht en opsporing vooral van belang voor de vraag op welk moment de toezichthouder aan iemand moet mededelen dat hij niet tot antwoorden verplicht is. Indien tijdens het toezicht op de naleving van de bepalingen van de [Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) blijkt dat ten aanzien van de persoon die is onderworpen aan het toezicht sprake is van een redelijk vermoeden van schuld aan een strafbaar feit, dan dient aan deze persoon – die dan als verdachte in de zin van [artikel 27 WvSv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=27) dient te worden beschouwd – op grond van [artikel 29 WvSv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=29) te worden medegedeeld dat hij niet tot (verder) antwoorden is verplicht. Achterwege laten van deze mededeling (‘cautie’) kan met zich meebrengen dat de verkregen informatie in een latere strafzaak als onrechtmatig bewijs wordt aangemerkt.
 
-Ook wijzigingen of opheffing van het voorschrift worden geregistreerd.
+Ambtenaren belast met de grensbewaking en ambtenaren belast met het toezicht op vreemdelingen zijn bevoegd tot het staande houden en ophouden van personen. De ambtenaren belast met grensbewaking staan genoemd in [artikel 46 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=46), de ambtenaren belast met het toezicht zijn te vinden in [artikel 47 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=47). Voor de ambtenaren belast met toezicht zie tevens A3/1.2.
+
+De term ‘redelijk vermoeden van illegaal verblijf’ heeft grote raakvlakken met het voor de politie vertrouwde begrip ‘redelijk vermoeden’ in van het [artikel 27 WvSv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=27). Ook bij de toepassing van de bevoegdheid tot staandehouding van [artikel 50 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=50) moet het vermoeden redelijk zijn en wel naar objectieve maatstaven gemeten.
 
 Ter voorkoming van discriminatoir handelen zal steeds uit feiten of omstandigheden, naar objectieve maatstaven gemeten, moeten blijken waar het redelijke vermoeden van illegaal verblijf op gebaseerd geweest is. Hierbij kunnen de feiten of omstandigheden van de situatie of de aanwijzingen richting een persoon bepalend zijn.
 
 Een objectief redelijk vermoeden van illegaal verblijf mag mede op basis van ervarings- of omgevingsgegevens aangenomen worden als er bijvoorbeeld sprake is van:
 
-Naast het criterium van ‘feiten en omstandigheden die, naar objectieve maatstaven gemeten, een redelijk vermoeden van illegaal verblijf opleveren’ kunnen personen staande gehouden worden ‘ter bestrijding van illegaal verblijf na grensoverschrijding’ om illegaal verblijf in een zo vroeg mogelijk stadium tegen te gaan. Zie A3/2.4.
+De ambtenaren belast met grensbewaking en met toezicht op vreemdelingen maken van de staandehouding en ophouding van personen op grond van [artikel 50 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=50) een proces-verbaal op ([model M-111A](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M111-A&z=2006-07-16&g=2006-10-13)).
 
-De ambtenaren belast met grensbewaking en met toezicht op vreemdelingen maken van de staandehouding en ophouding van personen op grond van [artikel 50 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=50) een proces-verbaal op ([model M-111A](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M111-A&z=2006-07-16&g=2006-07-16)).
+De ambtenaren belast met grensbewaking en met toezicht op vreemdelingen maken van de staandehouding en ophouding van personen op grond van [artikel 50 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=50) een proces-verbaal op ([model M-111A](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M111-A&z=2006-11-16&g=2006-10-13)).
 
-De datum van intrekking wordt geregistreerd.
-
-Voor andere vreemdelingen is als identiteitsdocument aangewezen een ingevolge de [Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) voor het hebben van toegang tot Nederland vereist geldig document voor grensoverschrijding, dan wel een geldig document voor grensoverschrijding waarin een geldig visum is aangetekend. De voor het hebben van toegang tot Nederland vereiste documenten voor grensoverschrijding zijn aangewezen bij [artikel 2.3 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=2.3). Deze bepaling is niet alleen van toepassing op vreemdelingen aan wie gedurende de vrije termijn verblijf is toegestaan, maar ook op vreemdelingen die illegaal in ons land verblijven.
+In [artikel 4.21 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.21) worden de documenten genoemd waarmee personen zich in Nederland op grond van [artikel 50, eerste lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=50) kunnen identificeren. Het gaat om de volgende categorieën:
 
 ### 5.2.2. Controle bij kritische transacties
 
@@ -2699,7 +2699,7 @@ Voor andere vreemdelingen is als identiteitsdocument aangewezen een ingevolge de
 
 ### 3.6.2. Onderzoek identiteit
 
-### 6.2. Fysieke beveiliging
+### 3.6.2. Onderzoek identiteit
 
 ### 4.3. Actualiteit van gegevens
 
@@ -2707,7 +2707,7 @@ Voor andere vreemdelingen is als identiteitsdocument aangewezen een ingevolge de
 
 ### 3.6.3. Onderzoek verblijfsstatus
 
-### 5.1. Maatregelen om de controleerbaarheid te vergroten
+### 3.6.3. Onderzoek verblijfsstatus
 
 ### 5.2. Algemene controle
 
@@ -2717,7 +2717,7 @@ Voor andere vreemdelingen is als identiteitsdocument aangewezen een ingevolge de
 
 Voor het binnentreden van een woning zonder toestemming van de bewoner is ingevolge [artikel 2, eerste lid, Algemene wet op het binnentreden](https://wetten.overheid.nl/jci1.3:c:BWBR0006763&artikel=2) een schriftelijke machtiging vereist. De machtiging wordt zo mogelijk bij het binnentreden getoond. In de [leden 1 en 3 van artikel 2 Algemene wet op het binnentreden](https://wetten.overheid.nl/jci1.3:c:BWBR0006763&artikel=2) zijn enige uitzonderingen opgenomen op de verplichting om te beschikken over een schriftelijke machtiging, maar deze uitzonderingen doen zich in het geval van binnentreden op grond van de [Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) normaliter niet voor.
 
-De au pair functioneert als gelijkwaardig lid van het gezin. Dit betekent dat de au pair geen werk mag verrichten waarvoor hij of zij onmisbaar is. Het gastgezin belooft dat de au pair niet alleen verantwoordelijk is voor het (licht) huishoudelijk werk of de verzorging van de kinderen, en dat er (bij afwezigheid van de au pair) te allen tijde alternatieve hulp of oppas aanwezig is of kan zijn. Het gastgezin geeft in onderstaande tabel aan welk lid op welke dag als alternatief voor de au pair fungeert of kan fungeren.
+Degene die zonder toestemming van de bewoner in een woning is binnengetreden, maakt daarvan op zijn ambtseed of -belofte een schriftelijk verslag op. Voor wat betreft de inhoud van het verslag wordt verwezen naar [artikel 10, tweede lid, onder a tot en met g, Algemene wet op het binnentreden](https://wetten.overheid.nl/jci1.3:c:BWBR0006763&artikel=10). Indien krachtens een machtiging is binnengetreden wordt het verslag uiterlijk op de vierde dag na die waarop in de woning is binnengetreden toegezonden aan de degene die de machtiging heeft gegeven. Indien dit een hulpofficier van justitie is, dan wordt het verslag ook aan de officier van justitie verzonden. Een afschrift van het verslag wordt op de hiervoor bedoelde dag toegezonden of uitgereikt aan de bewoner. Indien het niet mogelijk is het afschrift toe te zenden of uit te reiken dan wordt het verslag gedurende zes maanden voor de bewoner beschikbaar gehouden.
 
 ### Artikel 6 – meldpunt au pairs 2Het meldpunt is tijdelijk ondergebracht bij de IND. Het telefoonnummer van het meldpunt is: (070) 370 3888.
 
@@ -2727,9 +2727,9 @@ De in [artikel 4.37, eerste lid, onder a, b en d, Vb](https://wetten.overheid.nl
 
 ### Artikel 6 – meldpunt au pairs 2Het meldpunt is tijdelijk ondergebracht bij de IND. Het telefoonnummer van het meldpunt is: (070) 370 3888.
 
-In het in [artikel 4.37, eerste lid, onder c, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.37) bedoelde geval is de verplichting zich in persoon te melden bij de Korpschef ook opgelegd om de bij [artikel 4.12 VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&artikel=4.12) voorgeschreven aantekening over de verhuizing in het document voor grensoverschrijding van de vreemdeling te plaatsen.
+Van deze kennisgeving kan aantekening worden gemaakt in het document voor grensoverschrijding (zie [artikel 4.32 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.32)).
 
-Deze verplichtingen gelden niet voor onderdanen van de EU, de EER en Zwitserland met een verblijfsrecht van maximaal drie maanden als bedoeld in [artikel 8.11 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.11).
+In het in [artikel 4.37, eerste lid, onder c, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.37) bedoelde geval is de verplichting zich in persoon te melden bij de Korpschef ook opgelegd om de bij [artikel 4.12 VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&artikel=4.12) voorgeschreven aantekening over de verhuizing in het document voor grensoverschrijding van de vreemdeling te plaatsen.
 
 ### Artikel 7 – geschillenclausule
 
@@ -2737,9 +2737,9 @@ Op deze overeenkomst is Nederlands recht van toepassing. Bij geschillen over de 
 
 Ten aanzien van vreemdelingen kan worden voorzien in een verplichting tot het – zonodig in persoon – verstrekken van gegevens die van belang zijn voor de toepassing van het bepaalde bij en krachtens de [Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823). Hieronder zal eerst worden ingegaan op de verplichtingen die aan de vreemdeling kunnen worden opgelegd op grond van het [Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825). Niet alle verplichtingen voor de vreemdeling vloeien echter voort uit het [Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825). Het is mogelijk dat de ambtenaren belast met toezicht gegevens (of bescheiden) van de vreemdeling nodig hebben die niet een basis vinden in de [Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) of het [Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825) maar die wel noodzakelijk zijn in het kader van de toezichthoudende taak. In die gevallen kan de vreemdeling worden verplicht medewerking te verlenen aan het verkrijgen van die gegevens (of bescheiden) op grond van de [Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537). Hieraan wordt aandacht besteed in A3/7.3.8.
 
-De verplichting tot het op vordering verstrekken van gegevens kan worden opgelegd aan alle hier te lande aanwezige vreemdelingen, ongeacht of zij legaal of illegaal in ons land verblijven. De vordering is steeds gericht tot de vreemdeling zelf, tenzij het kinderen beneden de leeftijd van twaalf jaar betreft. Ten aanzien van vreemdelingen beneden de leeftijd van twaalf jaar kan een vordering worden gericht tot de wettelijk vertegenwoordiger (zie [artikel 4.38, vierde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.38)).
+Ten aanzien van vreemdelingen kan worden voorzien in een verplichting tot het – zonodig in persoon – verstrekken van gegevens die van belang zijn voor de toepassing van het bepaalde bij en krachtens de [Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823). Hieronder zal eerst worden ingegaan op de verplichtingen die aan de vreemdeling kunnen worden opgelegd op grond van het [Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825). Niet alle verplichtingen voor de vreemdeling vloeien echter voort uit het [Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825). Het is mogelijk dat de ambtenaren belast met toezicht gegevens (of bescheiden) van de vreemdeling nodig hebben die niet een basis vinden in de [Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) of het [Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825) maar die wel noodzakelijk zijn in het kader van de toezichthoudende taak. In die gevallen kan de vreemdeling worden verplicht medewerking te verlenen aan het verkrijgen van die gegevens (of bescheiden) op grond van de [Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537). Hieraan wordt aandacht besteed in A3/7.3.8.
 
-Niet alleen de vreemdeling zelf maar ook anderen (met inbegrip van Nederlanders) kunnen in bepaalde gevallen worden verplicht gegevens over vreemdelingen te verstrekken (zie A3/7.3.4 en A3/7.6.1).
+De verplichting tot het op vordering verstrekken van gegevens kan worden opgelegd aan alle hier te lande aanwezige vreemdelingen, ongeacht of zij legaal of illegaal in ons land verblijven. De vordering is steeds gericht tot de vreemdeling zelf, tenzij het kinderen beneden de leeftijd van twaalf jaar betreft. Ten aanzien van vreemdelingen beneden de leeftijd van twaalf jaar kan een vordering worden gericht tot de wettelijk vertegenwoordiger (zie [artikel 4.38, vierde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.38)).
 
 ## Model M137-A. Formulier restitutie garantiesom
 
@@ -2827,7 +2827,7 @@ Daarnaast kunnen vreemdelingen die voor zakelijke doeleinden wensen te reizen in
 
 De geldigheidsduur van zowel het grensoverschrijdingsdocument als de geldigheidsduur van de aan de vreemdeling verleende verblijfsvergunning dient de duur van het terugkeervisum met ten minste één maand te overschrijden.
 
-Voor de in te vullen aanvraag om verlenging of wijziging van de geldigheidsduur van een visum, wordt verwezen naar [model M5-A](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M5-A&z=2006-07-16&g=2006-07-16). Voor de beschikking waarmee een dergelijke aanvraag wordt afgewezen, wordt verwezen naar [model M5-C](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M5-C&z=2006-07-16&g=2006-07-16).
+Voor de in te vullen aanvraag om verlenging of wijziging van de geldigheidsduur van een visum, wordt verwezen naar [model M5-A](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M5-A&z=2006-07-16&g=2006-10-13). Voor de beschikking waarmee een dergelijke aanvraag wordt afgewezen, wordt verwezen naar [model M5-C](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M5-C&z=2006-07-16&g=2006-10-13).
 
 Vreemdelingen die rechtmatig verblijven indien tegen de uitzetting beletselen bestaan als bedoeld in artikel 64 Vreemdelingenwet 2000, en vreemdelingen die rechtmatig verblijven vanwege een vertrekmoratorium krijgen als identiteitsbewijs het verblijfsdocument conform bijlage 7f2.
 
@@ -2839,31 +2839,31 @@ Voor onderdanen van België en Luxemburg geldt in beginsel hetgeen hierboven ges
 
 Onderdanen van België en Luxemburg mogen Nederland voor kortere of langere duur binnenkomen, ongeacht het doel van hun verblijf, indien zij in het bezit zijn van een paspoort of identiteitsbewijs ([bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=2) en [3 VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=3)).
 
-Zij zijn voorzien van een officieel document waaruit hun bijzondere status en het aantal pakketten welke de diplomatieke of consulaire tas vormen, blijkt.
+Deze vreemdelingen zijn óf beroepskoeriers óf als zodanig voor één reis aangewezen.
+
+Niet-visumplichtige zieke zeelieden, die niet in het bezit zijn van een geldig document voor grensoverschrijding kunnen zonder voorafgaande machtiging in het bezit worden gesteld van een bijzonder doorlaatbewijs, mits hun identiteit op enigerlei wijze kan worden aangetoond.
 
 In alle gevallen waarin een zieke zeeman op de hiervoor bedoelde wijze tot Nederland wordt toegelaten, dient de Korpschef van de politieregio waaronder de gemeente ressorteert waarin het ziekenhuis staat, schriftelijk te worden geïnformeerd. Indien de zieke zeeman lijdt aan een ziekte die een gevaar voor de volksgezondheid kan opleveren, onder meer zoals opgenomen in de bijlage als bedoeld in [artikel 8.7, eerste lid, onder d, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.7), is hetgeen bepaald in A2/5.5.3 van toepassing.
 
-Wanneer het binnenkomst met een visum betreft, dient het verzoek tot overname binnen een termijn van drie maanden, te rekenen vanaf het verstrijken van de geldigheidsduur van het visum, ingediend te worden.
+Zeelieden die werk willen zoeken aan boord van een in één van de Schengenhavens liggend schip, zonder dat uit een verklaring van de rederij/scheepsagent de mogelijkheid van aan- of overmonstering blijkt, moeten aan alle voorwaarden voor toegang voldoen.
 
 Zeelieden die werk willen zoeken aan boord van een in één van de Schengenhavens liggend schip, zonder dat uit een verklaring van de rederij/scheepsagent de mogelijkheid van aan- of overmonstering blijkt, moeten aan alle voorwaarden voor toegang voldoen.
 
-Voor wat betreft het vereiste van een geldig grensoverschrijdingsdocument geldt, dat voor werkzoekende zeelieden het zeemansboekje niet in de plaats van het paspoort kan treden.
-
-Inwonende kinderen beneden de twaalf jaar zijn meestal opgenomen in de vergunning van hun ouders. Deze kinderen worden ook feitelijk in het bezit gesteld van een verblijfsdocument (zie [artikel 4.21, tweede lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.21)).
+Bij het tweede punt wordt opgemerkt dat aan een persoon met een door de Nederlandse autoriteiten afgegeven paspoort of identiteitskaart die gebruik heeft gemaakt van zijn recht op vrij verkeer van personen (zie [B10](onbekend)) en (vervolgens) verwijderd is door een andere lidstaat om redenen van openbare orde, openbare veiligheid of volksgezondheid, door de Nederlandse ambtenaar belast met de grensbewaking zonder formaliteiten toegang dient te worden verleend. Dit geldt ook wanneer het paspoort of de identiteitskaart is vervallen of de nationaliteit van de houder wordt betwist (zie [artikel 8.10 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.10)).
 
 Vreemdelingen die houder zijn van een geldige, door een Schengenstaat afgegeven verblijfsdocument opgesomd in bijlage 4 GVI zijn vrijgesteld van de visumplicht (zie ook artikel 21 SUO).
 
-De toegang wordt aan houders van een geldige Belgische of Luxemburgse verblijfsvergunning niet geweigerd op de enkele grond dat zij niet tevens in het bezit zijn van hun paspoort. Controle op bestaansmiddelen blijft bij deze vreemdelingen achterwege, wanneer zij in het bezit zijn van geldige reisbiljetten naar de landen waarvoor zij over een geldige verblijfstitel of terugkeervisum beschikken.
+Vreemdelingen die houder zijn van een geldige, door een Schengenstaat afgegeven verblijfsdocument opgesomd in bijlage 4 GVI zijn vrijgesteld van de visumplicht (zie ook artikel 21 SUO).
 
-In plaats van terugplaatsing aan boord kan de verstekeling, eveneens op kosten van de vervoerder, op een andere wijze worden terugvervoerd naar het land waar hij aan boord is gegaan, dan wel worden vervoerd naar het derde land dat het document voor grensoverschrijding waarmee de vreemdeling heeft gereisd, heeft afgegeven, of een ander land waar zijn toelating is gewaarborgd. Een dergelijke wijze van terugvervoeren is alleen mogelijk als deze praktisch uitvoerbaar is. Hiertoe dient de verstekeling in beginsel voldoende gedocumenteerd te zijn. Indien dit niet het geval is, dient de identiteit en/of nationaliteit te worden vastgesteld en aan de verstekeling een vervangend reisdocument te worden verstrekt door de diplomatieke vertegenwoordiging van het land van bestemming. De vaststelling van de nationaliteit en/of identiteit en de afgifte van de vervangende reisdocumenten dient te geschieden alvorens het schip waarmee de verstekeling is aangevoerd de haven heeft verlaten. De uitvoering van de terugvoerverplichting op deze wijze mag evenwel niet ten koste gaan van een unieke verwijdermogelijkheid.
+In afwachting van het daadwerkelijke vertrek van de verstekeling blijft de verantwoordelijkheid voor de verstekeling bij de vervoerder liggen. In overleg met de vervoerder kan de ambtenaar belast met de grensbewaking evenwel besluiten de verstekeling tijdelijk van boord te halen en de vrijheidsontnemende maatregel ex [artikel 6 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=6) op te leggen (zie [model M19](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M19&z=2006-11-16&g=2006-10-13) en [model M118](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M118&z=2006-11-16&g=2006-10-13)). De vervoerder blijft echter gehouden de verstekeling zo snel als mogelijk te doen vertrekken van het Nederlands grondgebied. De vervoerder wordt tijdig geïnformeerd omtrent de plaatsing aan boord van de verstekeling ter uitvoering van zijn verplichting.
 
-Bevoegd tot het opsporen van bij die wetsbepaling strafbaar gestelde feiten zijn behalve de met het vreemdelingentoezicht belaste ambtenaren (zie [artikel 1:3 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:3)) tevens de ambtenaren belast met de grensbewaking, alsmede alle bij [artikel 141 WvSv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141) in het algemeen met de opsporing van strafbare feiten belaste personen.
+Overtreding van een aantal bepalingen van de [Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) of handelen in strijd met krachtens de wet opgelegde verplichtingen, die onder meer het vreemdelingentoezicht betreffen, is strafbaar gesteld bij [artikel 108, eerste lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=108).
 
 Ambtenaren belast met de grensbewaking en ambtenaren belast met het toezicht op vreemdelingen zijn bevoegd tot het staande houden en ophouden van personen. De ambtenaren belast met grensbewaking staan genoemd in [artikel 46 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=46), de ambtenaren belast met het toezicht zijn te vinden in [artikel 47 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=47). Voor de ambtenaren belast met toezicht zie tevens A3/1.2.
 
-De term ‘redelijk vermoeden van illegaal verblijf’ heeft grote raakvlakken met het voor de politie vertrouwde begrip ‘redelijk vermoeden’ in van het [artikel 27 WvSv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=27). Ook bij de toepassing van de bevoegdheid tot staandehouding van [artikel 50 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=50) moet het vermoeden redelijk zijn en wel naar objectieve maatstaven gemeten.
+De politie heeft als taken de handhaving van de openbare orde en de strafrechtelijke handhaving van de rechtsorde. Voorts verleent zij hulp aan hen die deze behoeven (zie [artikel 2 Politiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=2)). Ook het actief toezicht op vreemdelingen maakt deel uit van de taken van politieambtenaren en de overige speciaal daarvoor aangewezen toezichthouders. Bij de uitvoering van dit toezicht wordt in het belang van de (handhaving van de) openbare orde nagegaan of in Nederland verblijvende vreemdelingen rechtmatig hier verblijven. In verband daarmee kunnen personen worden staande gehouden. Van deze bevoegdheid mag gebruik gemaakt worden indien er sprake is van ‘feiten en omstandigheden die, naar objectieve maatstaven gemeten, een redelijk vermoeden van illegaal verblijf opleveren’ of ‘ter bestrijding van illegaal verblijf na grensoverschrijding’.
 
-In deze gevallen dient de begeleidende ambtenaar de desbetreffende documenten bij het verlaten van Nederland te overhandigen aan de vreemdeling zelf of aan een ambtenaar van de KMar door wiens tussenkomst de vreemdeling aan de buitenlandse autoriteiten wordt overgegeven.
+Het in bewaring nemen van het grensoverschrijdingsdocument of het verblijfsdocument kan op grond van [artikel 4.23 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.23) in de onderstaande gevallen plaatsvinden:
 
 Op grond van [artikel 5:15 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:15) is een toezichthouder bevoegd elke plaats te betreden met uitzondering van een woning zonder toestemming van de bewoner. Daarbij geldt dat uit het evenredigheidsbeginsel van [artikel 5:13 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:13) voortvloeit dat alleen die plaatsen worden betreden waarbij dat voor de uitoefening van het toezicht redelijkerwijs noodzakelijk is.
 
@@ -2871,35 +2871,35 @@ Op grond van [artikel 5:15 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&
 
 ### Artikel 2 – alternatief
 
-1. ____________________________
+Op grond van [artikel 2 Algemene wet op het binnentreden](https://wetten.overheid.nl/jci1.3:c:BWBR0006763&artikel=2) is voor het binnentreden een machtiging nodig. Deze machtiging kan aan ambtenaren belast met het toezicht op vreemdelingen worden verleend door de burgemeester, de officier van justitie of de hulpofficier van justitie ([artikel 3 Algemene wet op het binnentreden](https://wetten.overheid.nl/jci1.3:c:BWBR0006763&artikel=3)).
 
-Bij binnentreding van een woning met toestemming van de bewoner kan de toestemming overigens te allen tijde worden ingetrokken. Een ambtenaar zonder machtiging dient dan te vertrekken.
+Het is altijd mogelijk een woning te betreden met toestemming van de bewoner. Op grond van [artikel 1, vierde lid, Algemene wet op het binnentreden](https://wetten.overheid.nl/jci1.3:c:BWBR0006763&artikel=1) is het dan noodzakelijk dat de persoon die binnentreedt voorafgaand aan het binnentreden toestemming vraagt aan de bewoner. Op grond van die bepaling moet die toestemming blijken aan degene die wenst binnen te treden. De leeftijd van de bewoner die toestemming verleent om een woning te betreden is niet van belang. Wel dient degene die de toestemming verleent de gevolgen van zijn handelen te kunnen overzien. De gang van zaken bij het binnentreden met toestemming van de bewoner moet worden vastgelegd in een proces-verbaal (bijvoorbeeld worden opgenomen in het proces-verbaal van staandehouden van een vreemdeling).
 
 ### Artikel 4 – zakgeld
 
 ### Artikel 7 – geschillenclausule
 
-Van deze kennisgeving kan aantekening worden gemaakt in het document voor grensoverschrijding (zie [artikel 4.32 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.32)).
+De in [artikel 4.37, eerste lid, onder a, b en d, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.37) bedoelde kennisgevingen hoeven niet in persoon te worden gedaan. Aan de vreemdeling kan daartoe een kaart worden verstrekt.
 
-Contractpartij (Hoofd(en)) Gastgezin,
+Deze verplichtingen gelden niet voor onderdanen van de EU, de EER en Zwitserland met een verblijfsrecht van maximaal drie maanden als bedoeld in [artikel 8.11 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.11).
 
-Werd de sticker aangebracht of de aantekening gesteld op een afzonderlijk inlegblad, dan moet dit in de in deze paragraaf bedoelde gevallen worden ingehouden.
+Het doorhalen van een in het grensoverschrijdingsdocument van een vreemdeling gestelde aantekening moet geschieden:
 
 ### Overwegingen:
 
 In de afgelopen periode hebben Partijen informatie uitgewisseld. De au pair heeft kenbaar gemaakt, gedurende de periode van een jaar, kennis te willen maken met de Nederlandse samenleving en cultuur, door middel van verblijf als au pair bij een Nederlands gastgezin. Het gastgezin heeft kenbaar gemaakt de au pair faciliteiten te willen verlenen, in ruil waarvoor de au pair licht huishoudelijk werk verricht in het gastgezin.
 
-Een in bewaring genomen document moet op grond van [artikel 52, tweede lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=52) aan de vreemdeling worden teruggegeven indien hij te kennen geeft Nederland te willen verlaten en hij ook daadwerkelijk vertrekt. Ingeval van uitzetting kan het reis- en identiteitspapier worden overgedragen aan de persoon belast met grensbewaking in het land waar de toelating is gewaarborgd.
+Indien daartoe in het belang van het toezicht op vreemdelingen gegronde reden bestaat, zijn de ambtenaren belast met het toezicht op vreemdelingen op grond van [artikel 52, eerste lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=52) bevoegd tot het tijdelijk in bewaring nemen van reis- en identiteitspapieren van personen. De bevoegdheid kan niet alleen worden gebruikt jegens vreemdelingen maar jegens alle personen. Dit maakt het mogelijk om ook papieren van een vreemdeling die aan hem zijn afgegeven door derden tijdelijk te bewaren.
 
 ### De au pair en het gastgezin komen derhalve het volgende overeen:
 
 ### Artikel 1 – weekindeling
 
-De au pair functioneert als gelijkwaardig lid van het gezin. Dit betekent dat de au pair geen werk mag verrichten waarvoor hij of zij onmisbaar is. Het gastgezin belooft dat de au pair niet alleen verantwoordelijk is voor het (licht) huishoudelijk werk of de verzorging van de kinderen, en dat er (bij afwezigheid van de au pair) te allen tijde alternatieve hulp of oppas aanwezig is of kan zijn. Het gastgezin geeft in onderstaande tabel aan welk lid op welke dag als alternatief voor de au pair fungeert of kan fungeren.
+In deze gevallen dient de begeleidende ambtenaar de desbetreffende documenten bij het verlaten van Nederland te overhandigen aan de vreemdeling zelf of aan een ambtenaar van de KMar door wiens tussenkomst de vreemdeling aan de buitenlandse autoriteiten wordt overgegeven.
 
 ### Artikel 3 – culturele uitwisseling
 
-De binnentredingsbevoegdheid voortvloeiend uit de [Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) wordt in [artikel 53 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=53) nader aangevuld en verruimd.
+Betreden impliceert niet het doorzoeken van de plaats die wordt betreden (bijvoorbeeld het openen van willekeurige kasten, laden en andere bergplaatsen), tenzij het toezicht daarop specifiek betrekking heeft in de zin van [artikel 5:18 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:18). Dit kan bijvoorbeeld het geval zijn indien er onderzoek wordt gedaan naar de daadwerkelijke samenwoning van een vreemdeling met een ander persoon. Voor het betreden van de woning moet in dat geval wel toestemming zijn verleend.
 
 ### Overwegingen:
 
@@ -3053,13 +3053,15 @@ De gunstiger regels in verband met toegang voor onderdanen van de EU, EER en Zwi
 
 Ad c: De vreemdeling die eerder om redenen van openbare orde of openbare veiligheid is verwijderd kan na verloop van een redelijke termijn en in ieder geval na drie jaar na zijn vertrek een aanvraag indienen om opheffing van het eerdere besluit om hem uit Nederland te verwijderen. Gelet op het feit dat verblijfsbeëindiging persoonlijk gedrag vereist dat een actuele, werkelijke en (voldoende) ernstige bedreiging voor een fundamenteel belang van de samenleving vormt, ligt het voor de hand dat de vreemdeling tevens ongewenst zal zijn verklaard (zie A5/6). In die gevallen betreft het in de Nederlandse situatie derhalve een aanvraag tot opheffing van de ongewenstverklaring. Gedurende de behandeling van deze aanvraag heeft de vreemdeling geen recht van toegang tot Nederland.
 
+Personen die in het bezit zijn van een ‘crew member licence’ dan wel een ‘crew member certificate’ als bedoeld in bijlage 9 Verdrag van Chicago zijn vrijgesteld van de paspoort- en visumplicht voorzover zij:
+
 Zie tevens GVI, bijlage 1, II, onderdeel 1, BNL-kader.
 
 De ‘crew member licence’ en ‘crew member certificate’ worden bij grensoverschrijding niet gestempeld.
 
 Voor bemanningsleden van vliegtuigen die niet voldoen aan de bovenstaande voorwaarden gelden de normale toegangsvoorwaarden voor vreemdelingen (zie A2/4.2).
 
-Het onder begeleiding uit Nederland doen vertrekken van een niet rechtmatig in Nederland verblijvende vreemdeling, die zich zelfstandig heeft gemeld bij de Koninklijke Marechaussee op een luchthaven of zeehaven voor het verkrijgen van reisdocumenten.
+In [artikel 2.4 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=2.4) zijn bepalingen opgenomen over vreemdelingen die als passagier van een vliegtuig een vliegveld aandoen (transiteren).
 
 In [artikel 2.4 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=2.4) zijn bepalingen opgenomen over vreemdelingen die als passagier van een vliegtuig een vliegveld aandoen (transiteren).
 
@@ -3071,29 +3073,27 @@ Zie voor transitpassagiers van vliegtuigen tevens de Benelux Voorschriften Verza
 
 In beginsel wordt toegang verleend tot het Benelux-gebied indien:
 
-De toegang wordt verleend voor de duur die noodzakelijk is om de doorreis per eerstvolgende gelegenheid te kunnen voortzetten. De toegang kan worden geweigerd aan personen ten aanzien van wie een gegrond vermoeden bestaat dat zij toegang vragen voor een ander doel dan waarvoor deze regeling bedoeld is.
-
-Vreemdelingen die in Frankrijk hun hoofdverblijf hebben en op wettige wijze Nederland zijn binnengekomen, zullen worden overgenomen door Frankrijk.
+Voor werknemers op boorinstallaties geldt een werktijdenregeling die voorziet in veertien dagen werk en veertien dagen verlof aan de wal. Voor dit walverlof gelden de normale voorwaarden voor kort verblijf in Nederland.
 
 Het bovenstaande kan ook toegepast worden indien de betrokken vreemdeling niet werkzaam is op een boorplatform maar bij een bedrijf dat ondersteunend werkt voor booreilanden (bijvoorbeeld de zogenaamde ‘suppliers’).
 
 Deze paragraaf gaat over minderjarigen, inclusief adoptie(f)- en pleegkinderen, aan wie (nog) geen lang verblijf in Nederland is toegestaan. Minderjarigen worden op dezelfde wijze gecontroleerd als volwassenen, ongeacht of zij alleen reizen dan wel begeleid worden.
 
-Het bovenstaande is van overeenkomstige toepassing op vreemdelingen die in het bezit zijn van het vereiste document voor grensoverschrijding en een geldige Belgische of Luxemburgse mvv (autorisation de séjour provisoire), mits in deze machtiging staat vermeld dat zij geldig is voor binnenkomst in het Benelux-gebied.
+Toegang wordt geweigerd wanneer gevaar voor de Nederlandse openbare orde of nationale veiligheid daartoe aanleiding geeft, met name wanneer de vreemdeling is gesignaleerd als ongewenst vreemdeling of als ongewenstverklaard vreemdeling (ongewenstverklaard ex [artikel 67 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=67)).
+
+Het reisdocument voor staatlozen, afgegeven krachtens voornoemd verdrag, wordt voor binnenkomst op het grondgebied van de Schengenstaten als document voor grensoverschrijding erkend.
 
 Vreemdelingenpaspoorten worden door de autoriteiten van het land waar zij zijn toegelaten ook wel afgegeven aan personen die om één of andere reden van het land waarvan zij onderdaan zijn geen document voor grensoverschrijding kunnen verkrijgen of een reeds verkregen document voor grensoverschrijding niet kunnen laten verlengen.
 
-Toegang tot het Schengengebied wordt slechts aan houders van vreemdelingenpaspoorten verleend indien uit het vreemdelingenpaspoort of een ander document blijkt dat de wedertoelating van de vreemdeling tot het land van afgifte is gewaarborgd.
+Vreemdelingen van 14 jaar en ouder, zijn op grond van de [Wet op de identificatieplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0006297) verplicht een identiteitsbewijs op eerste vordering ter inzage af te geven (toonplicht).
 
 Vreemdelingen van 14 jaar en ouder, zijn op grond van de [Wet op de identificatieplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0006297) verplicht een identiteitsbewijs op eerste vordering ter inzage af te geven (toonplicht).
 
-In [artikel 4.21 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.21) worden de documenten genoemd waarmee personen zich in Nederland op grond van [artikel 50, eerste lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=50) kunnen identificeren. Het gaat om de volgende categorieën:
+Voor andere vreemdelingen is als identiteitsdocument aangewezen een ingevolge de [Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) voor het hebben van toegang tot Nederland vereist geldig document voor grensoverschrijding, dan wel een geldig document voor grensoverschrijding waarin een geldig visum is aangetekend. De voor het hebben van toegang tot Nederland vereiste documenten voor grensoverschrijding zijn aangewezen bij [artikel 2.3 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=2.3). Deze bepaling is niet alleen van toepassing op vreemdelingen aan wie gedurende de vrije termijn verblijf is toegestaan, maar ook op vreemdelingen die illegaal in ons land verblijven.
 
 Voor transitpassagiers geldt de speciale regeling van [artikel 2.4 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=2.4). Voor vreemdelingen die in het bezit zijn van een verblijfsdocument van een andere Schengenstaat geldt dat zij zich voor ten hoogste drie maanden visumvrij in het Schengengebied mogen verplaatsen. Zij dienen hierbij in het bezit te zijn van een geldig reisdocument (zie A2/4.2)
 
-De datum van intrekking wordt geregistreerd.
-
-Ook degene die stelt Nederlander te zijn, maar dat niet kan aantonen, kan worden overgebracht naar een plaats bestemd voor verhoor (zie [artikel 50, eerste lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=50)).
+Het gaat hierbij om de vaststelling van de identiteit, nationaliteit en de rechtmatigheid van het verblijf aan de hand van geldige documenten of bescheiden (zie [artikel 4.21 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.21)). Een bekende identiteit is op zichzelf nog geen vastgestelde identiteit.
 
 ### 5.2.1. Controle op dubbele registratie
 
@@ -3117,17 +3117,17 @@ Ook degene die stelt Nederlander te zijn, maar dat niet kan aantonen, kan worden
 
 ### Artikel 6 – meldpunt au pairs 2Het meldpunt is tijdelijk ondergebracht bij de IND. Het telefoonnummer van het meldpunt is: (070) 370 3888.
 
-Het niet voldoen aan de verplichting van [artikel 4.38 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.38) is ingevolge het bepaalde in [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=54) juncto [108 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=108) een strafbaar feit.
+Niet alleen de vreemdeling zelf maar ook anderen (met inbegrip van Nederlanders) kunnen in bepaalde gevallen worden verplicht gegevens over vreemdelingen te verstrekken (zie A3/7.3.4 en A3/7.6.1).
 
 ### Artikel 7 – geschillenclausule
+
+Vreemdelingen zijn verplicht op vordering van de Korpschef van het regionale politiekorps waarin de gemeente is gelegen waar zij wonen of verblijven, binnen de in de vordering aangegeven tijd de gegevens te verstrekken die de Korpschef in het belang van het bepaalde bij en krachtens de [Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) vraagt (zie [artikel 4.38 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.38)) voorzover het de gegevens betreft die worden bedoeld in de [artikelen 4.39 tot en met 4.44 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.39). Er dient steeds een rechtstreeks verband te bestaan tussen het vragen van de gegevens en de toepassing van de [Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823), dan wel van de uitvoeringsbepalingen daarvan. Voorts kan een vordering tot het verstrekken van gegevens bijvoorbeeld worden gedaan met het oog op het bijhouden van de vreemdelingenadministratie.
 
 Vreemdelingen zijn verplicht op vordering van de Korpschef van het regionale politiekorps waarin de gemeente is gelegen waar zij wonen of verblijven, binnen de in de vordering aangegeven tijd de gegevens te verstrekken die de Korpschef in het belang van het bepaalde bij en krachtens de [Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) vraagt (zie [artikel 4.38 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.38)) voorzover het de gegevens betreft die worden bedoeld in de [artikelen 4.39 tot en met 4.44 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.39). Er dient steeds een rechtstreeks verband te bestaan tussen het vragen van de gegevens en de toepassing van de [Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823), dan wel van de uitvoeringsbepalingen daarvan. Voorts kan een vordering tot het verstrekken van gegevens bijvoorbeeld worden gedaan met het oog op het bijhouden van de vreemdelingenadministratie.
 
 Indien daartoe in het belang van het toezicht op vreemdelingen gegronde reden bestaat, kan de vreemdeling verplicht worden de gevraagde gegevens persoonlijk te komen verstrekken. Aanleiding tot het opleggen van deze verplichting bestaat bijvoorbeeld:
 
 Een vordering tot het verstrekken van gegevens dient zoveel mogelijk in een voor de vreemdeling begrijpelijke vorm en taal te worden gedaan. Een vordering tot het verstrekken van gegevens kan ook bij algemene bekendmaking worden gedaan. Zodanige vordering kan dan gericht zijn hetzij tot alle vreemdelingen in de gemeente, hetzij tot bepaalde categorieën van vreemdelingen. Een vordering als hier bedoeld kan alleen worden gedaan in het belang van de vreemdelingenadministratie.
-
-Het verstrekken van onjuiste gegevens die hebben geleid tot het verlenen of het verlengen van de geldigheidsduur van verblijfsvergunning kan, naast strafbaarheid wegens overtreding van [artikel 4.38 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.38), juncto [artikel 54, eerste lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=54), voor de vreemdeling tot gevolg hebben dat de verleende vergunning wordt ingetrokken (zie [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=19) juncto [artikel 18, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=18), [artikel 22 aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=22), [artikel 32, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=32), en [artikel 35, aanhef en onder a, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=35)).
 
 ## Model M137-B. Formulier restitutie passagebiljet
 
@@ -3143,17 +3143,17 @@ Vervallen
 
 Vreemdelingen die zich via Nederland naar een boorinstallatie op Nederlands deel van het continentaal plat willen begeven of die komende van een boorinstallatie Nederland willen inreizen moeten voldoen aan alle normale voorwaarden voor binnenkomst en verblijf. Het verkeer van en naar een boorinstallatie moet steeds plaatsvinden via een grensdoorlaatpost gedurende de tijd dat deze is opengesteld. De normale in- en uitreisformaliteiten worden steeds vervuld.
 
+Vreemdelingen die zich via Nederland naar een boorinstallatie op Nederlands deel van het continentaal plat willen begeven of die komende van een boorinstallatie Nederland willen inreizen moeten voldoen aan alle normale voorwaarden voor binnenkomst en verblijf. Het verkeer van en naar een boorinstallatie moet steeds plaatsvinden via een grensdoorlaatpost gedurende de tijd dat deze is opengesteld. De normale in- en uitreisformaliteiten worden steeds vervuld.
+
 Wel zijn er ten aanzien van werknemers van boorplatformen en werknemers van ondersteunende bedrijven (bijvoorbeeld de zogenaamde ‘suppliers’) enige bijzonderheden, die hieronder worden aangegeven.
 
-Controle op bestaansmiddelen blijft achterwege indien de vreemdeling kan aantonen dat hij op een boorinstallatie is tewerkgesteld.
+Vreemdelingen die houder zijn van een reisdocument voor vluchtelingen afgegeven door een staat die is aangesloten bij de Europese Overeenkomst inzake de afschaffing van visa voor vluchtelingen (Trb. 1959, nr. 153, en [bijlage 3, onder F, sub 1, VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=3)) en op wiens grondgebied zij regelmatig verblijven, mogen zonder visum het Schengengebied inreizen wanneer zij ook aan de overige voorwaarden voor binnenkomst voldoen. Het betreft hier een reisdocument voor vluchtelingen als bedoeld in artikel 28 s Vluchtelingenverdrag.
 
 Partij bij de Europese Overeenkomst inzake de afschaffing van visa voor vluchtelingen zijn, naast Nederland: België, Denemarken, Duitsland, Finland, Frankrijk, IJsland, Ierland, Italië, Liechtenstein, Luxemburg, Malta, Noorwegen, Portugal, Spanje, Zweden, Zwitserland en Groot-Brittannië (en Noord-Ierland). Voor Frankrijk geldt de volgende uitzondering: de houder van een reisdocument voor vluchtelingen is voor Frankrijk niet vrijgesteld van de visumplicht, indien het document is afgegeven door een niet-Schengenstaat.
 
-Het vorenstaande (inreizen zonder visum) geldt in bepaalde gevallen en onder bepaalde voorwaarden eveneens voor zeelieden-vluchtelingen die houder zijn van een reisdocument voor vluchtelingen (zie [bijlage 3, onder F, VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=3)).
+Het college van procureurs-generaal heeft op 7 november 2005 de Richtlijn inzake strafvordering strafrechtelijke aansprakelijkheid voor de aanvoer van niet of onjuist gedocumenteerde vreemdelingen vastgesteld, welke op 1 januari 2006 in werking is getreden. De Richtlijn bevat aanwijzingen voor het OM ten aanzien van het transactie- en vervolgingsbeleid met betrekking tot [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=4) en [artikel 108 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=108).
 
-Overtreding van [artikel 4, eerste en tweede lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=4) (het nalaten van de zorg- of afschriftplicht) kan worden bestraft met geldboete van de vierde categorie (maximaal € 11.250) of hechtenis van zes maanden ([artikel 108 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=108)). Proces-verbaal wordt opgemaakt in alle gevallen waarin als gevolg van het nalaten van de zorg- of afschriftplicht een niet of onjuist gedocumenteerde vreemdeling binnen Nederland is gebracht. Alle processen-verbaal worden doorgezonden aan het OM. In beginsel zal eerst een transactie worden aangeboden door het OM.
-
-Voor de verplichtingen voor gezagvoerders in de (internationale) luchtvaart wordt verwezen naar [artikel 4.15](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.15) en [4.16 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.16). Voor de verplichtingen voor gezagvoerders in de zeevaart wordt verwezen naar [artikel 4.9 tot en met 4.14 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.10). Hieruit blijkt onder meer dat in beginsel de gezagvoerders direct bij binnenkomst een passagiers- en bemanningslijst dienen te overhandigen aan de ambtenaar belast met de grensbewaking. In het VV zijn voor wat betreft de (internationale) luchtvaart modellen voor bemannings- en passagierslijsten opgenomen in [bijlage 15](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=15) en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=16). Voor wat betreft de zeevaart zijn modellen voor bemannings- en passagierslijsten opgenomen in [bijlage 14a tot en met 14d VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=14a). De in [bijlage 14c](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=14c) en [14d VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=14d) opgenomen passagierslijst wordt gehanteerd voor schepen die gecertificeerd zijn voor het vervoer van ten hoogste twaalf passagiers (zie [artikel 4.4 VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&artikel=4.4)). De passagierslijst kan tevens gebruikt worden voor de opgave van de aanwezigheid van aangetroffen verstekelingen.
+De verplichting voor de bestuurder van een voertuig om mee te werken, is geregeld in [artikel 4.8 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.8) en de [artikelen 5:19](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:19) en [5:20 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20).
 
 De invoering van de [Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823), het daarbij behorende [Vreemdelingenbesluit 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011825)en het [Voorschrift Vreemdelingen 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012002)op 1 april 2001 hebben geleid tot het opstellen van de Vreemdelingencirculaire 2000. De Vreemdelingencirculaire 2000 is vastgesteld bij beschikking van de toenmalige Staatssecretaris van Justitie en verving op bovengenoemde datum de Vreemdelingencirculaire 1994. De Vreemdelingencirculaire 2000 is in 2006 geheel herzien.
 
@@ -3313,7 +3313,7 @@ Aan vreemdelingen van wie niet zeker is dat zij over voldoende bestaansmiddelen 
 
 In daarvoor in aanmerking komende gevallen kan tevens een meldplicht worden opgelegd met toepassing van [artikel 4.24, eerste lid, onder d, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.24).
 
-Kennisgeving aan de Korpschef van de toegangsverlening onder voorwaarden geschiedt middels [model M20](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M20&z=2006-07-16&g=2006-07-16). Zie voor toegang onder voorwaarden ook A2/5.4.
+Kennisgeving aan de Korpschef van de toegangsverlening onder voorwaarden geschiedt middels [model M20](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M20&z=2006-07-16&g=2006-10-13). Zie voor toegang onder voorwaarden ook A2/5.4.
 
 Aan de vreemdeling kan worden verzocht een in zijn bezit zijnd retourpassagebiljet te deponeren tot zekerheidstelling. In het geval de vreemdeling gebruik heeft gemaakt van electronic ticketing en derhalve niet in het bezit is van een retourpassagebiljet, wijst de ambtenaar belast met grensbewaking de vreemdeling op de mogelijkheid om alsnog door de luchtvaartmaatschappij een retourpassagebiljet te laten printen. Indien de betreffende luchtvaartmaatschappij hier niet aan kan of wil voldoen, behoudt de ambtenaar belast met grensbewaking de bevoegdheid tot het stellen van zekerheid. De geldigheid van het retourpassagebiljet moet de duur van het voorgenomen verblijf overschrijden.
 
@@ -3511,7 +3511,7 @@ Bij toegang onder voorwaarden worden aantekeningen gesteld in het document voor 
 
 De aantekeningen worden gesteld door middel van het aanbrengen van de sticker ‘Doorlating onder voorwaarden’. Deze sticker dient in het paspoort te worden aangebracht. De inreisstempel wordt half op en half onder het laminaat geplaatst.
 
-Aan de Korpschef van de politieregio waarin de gemeente waar de vreemdeling zal verblijven is gelegen, wordt van de toegang onder voorwaarden kennis gegeven door gebruik van een formulier (zie [model M20](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M20&z=2006-07-16&g=2006-07-16)). Een eventuele garantverklaring (zie A2/4.2.3.2) wordt met deze kennisgeving meegezonden. In het geval van een niet-visumplichtige vreemdeling die zijn verblijfsdoel wijzigt in kort verblijf worden eveneens de door de vreemdeling overgelegde verklaringen meegezonden.
+Aan de Korpschef van de politieregio waarin de gemeente waar de vreemdeling zal verblijven is gelegen, wordt van de toegang onder voorwaarden kennis gegeven door gebruik van een formulier (zie [model M20](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M20&z=2006-07-16&g=2006-10-13)). Een eventuele garantverklaring (zie A2/4.2.3.2) wordt met deze kennisgeving meegezonden. In het geval van een niet-visumplichtige vreemdeling die zijn verblijfsdoel wijzigt in kort verblijf worden eveneens de door de vreemdeling overgelegde verklaringen meegezonden.
 
 Indien daarvoor in het belang van het toezicht op vreemdelingen gegronde reden bestaat, kan bij inreis eveneens een van de andere aantekeningen die zijn opgenomen in [artikel 4.24, eerste lid, onder b, c en e Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.24) (doel en duur voorgenomen verblijf en de toepassing van de [artikelen 2.4 tot en met 2.8 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=2.4)) in het document voor grensoverschrijding worden gesteld.
 
@@ -3531,7 +3531,7 @@ In principe wordt toegang geweigerd aan een vreemdeling van wie blijkt dat hij l
 
 Voor het onderstaande is van belang dat de ambtenaar belast met de grensbewaking bevoegd is het reisdocument tijdelijk in bewaring te nemen (zie [artikel 4.23 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.23)) en daarin aantekeningen te maken (zie [artikel 4.24](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.24) en [4.25 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.25)).
 
-De toegangsweigering geschiedt schriftelijk door uitreiking van een standaardformulier aan de vreemdeling (zie [model M31](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M31&z=2006-07-16&g=2006-07-16)). Indien de vreemdeling weigert het standaardformulier te ondertekenen, maakt de ambtenaar belast met de grensbewaking daarvan melding in het vak ‘opmerkingen’ op het formulier. De vreemdeling ontvangt een kopie.
+De toegangsweigering geschiedt schriftelijk door uitreiking van een standaardformulier aan de vreemdeling (zie [model M31](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M31&z=2006-07-16&g=2006-10-13)). Indien de vreemdeling weigert het standaardformulier te ondertekenen, maakt de ambtenaar belast met de grensbewaking daarvan melding in het vak ‘opmerkingen’ op het formulier. De vreemdeling ontvangt een kopie.
 
 Tevens wordt in het document voor grensoverschrijding van een vreemdeling een aantekening omtrent weigering van toegang gesteld in de vorm van een weigeringsstempel. Een weigeringsstempel is een inreisstempel (zie A2/5.3) dat met een kruis in zwarte onuitwisbare inkt is doorgehaald en waarnaast aan de rechterkant door middel van één of meer letters in onuitwisbare inkt de reden(en) voor de toegangsweigering staat(n) zoals vermeld op het standaardformulier.
 
@@ -3541,7 +3541,7 @@ Voor de wijze waarop gehandeld dient te worden bij toegangsweigering aan onderda
 
 In het geval een vreemdeling de toegang tot het grondgebied is geweigerd wegens gevaar voor de openbare orde omdat hij een gevaar vormt voor de volksgezondheid, treft de ambtenaar belast met de grensbewaking de nodige maatregelen die erop gericht zijn de volksgezondheid te beschermen.
 
-Indien de ziekte behandeling in een ziekenhuis verlangt of ingevolge de Infectieziektewet en Quarantainewet aanleiding geeft tot quarantaine, wordt de toegang geweigerd door de ambtenaar belast met de grensbewaking en wordt een maatregel ingevolge [artikel 6, eerste lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=6) opgelegd met als aangewezen ruimte het ziekenhuis alwaar de behandeling of de quarantaine plaats zal vinden (zie [model M19](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M19&z=2006-07-16&g=2006-07-16) en [model M118](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M118&z=2006-07-16&g=2006-07-16)).
+Indien de ziekte behandeling in een ziekenhuis verlangt of ingevolge de Infectieziektewet en Quarantainewet aanleiding geeft tot quarantaine, wordt de toegang geweigerd door de ambtenaar belast met de grensbewaking en wordt een maatregel ingevolge [artikel 6, eerste lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=6) opgelegd met als aangewezen ruimte het ziekenhuis alwaar de behandeling of de quarantaine plaats zal vinden (zie [model M19](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M19&z=2006-07-16&g=2006-10-13) en [model M118](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M118&z=2006-07-16&g=2006-10-13)).
 
 Na behandeling van de ziekte of na de periode van quarantaine, wordt door de ambtenaar belast met de grensbewaking beoordeeld of aan de betrokken vreemdeling alsnog toegang tot het grondgebied kan worden verleend.
 
@@ -3551,13 +3551,13 @@ De schriftelijke toegangsweigering is een besluit waartegen de vreemdeling admin
 
 De vreemdeling wordt in beginsel in de gelegenheid gesteld de afloop van de gevraagde voorlopige voorziening in Nederland af te wachten indien sprake is van een (eerste) verzoek om een voorlopige voorziening.
 
-Ook als de geweigerde vreemdeling zijn vrijheid wordt ontnomen, bijvoorbeeld op strafrechtelijke gronden, blijft hem de toegang geweigerd. In dat geval blijft ook de terugvoerverplichting (zie A2/5.5.7 en A2/7.1.4) in stand en blijft de mogelijkheid bestaan om hem – na expiratie van de straf – in een grenslogies zijn vrijheid te ontnemen in afwachting van zijn uitzetting ([artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=6) juncto [artikel 7 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=7)). Hierbij kan worden gedacht aan de situatie waarin de vreemdeling op grond van het [WvSv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) bijvoorbeeld in een huis van bewaring wordt geplaatst. Het is dus mogelijk om de vreemdeling na vrijlating uit het huis van bewaring op grond van [artikel 6 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=6)zijn vrijheid te ontnemen (zie [model M19](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M19&z=2006-07-16&g=2006-07-16) en [model M118](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M118&z=2006-07-16&g=2006-07-16)). [Artikel 7 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=7) is tevens van toepassing op personen in Nederlandse gevangenissen in verband met hun berechting door een internationaal gerecht.
+Ook als de geweigerde vreemdeling zijn vrijheid wordt ontnomen, bijvoorbeeld op strafrechtelijke gronden, blijft hem de toegang geweigerd. In dat geval blijft ook de terugvoerverplichting (zie A2/5.5.7 en A2/7.1.4) in stand en blijft de mogelijkheid bestaan om hem – na expiratie van de straf – in een grenslogies zijn vrijheid te ontnemen in afwachting van zijn uitzetting ([artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=6) juncto [artikel 7 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=7)). Hierbij kan worden gedacht aan de situatie waarin de vreemdeling op grond van het [WvSv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) bijvoorbeeld in een huis van bewaring wordt geplaatst. Het is dus mogelijk om de vreemdeling na vrijlating uit het huis van bewaring op grond van [artikel 6 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=6)zijn vrijheid te ontnemen (zie [model M19](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M19&z=2006-07-16&g=2006-10-13) en [model M118](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M118&z=2006-07-16&g=2006-10-13)). [Artikel 7 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=7) is tevens van toepassing op personen in Nederlandse gevangenissen in verband met hun berechting door een internationaal gerecht.
 
 Indien een vreemdeling de toegang wordt geweigerd heeft dat niet alleen betrekking op toegang tot Nederland, maar – behoudens uitzonderingen – op het hele Schengengebied. Wanneer een asielzoeker de toegang geweigerd wordt, betrokkene een asielaanvraag indient en er naar aanleiding daarvan op grond van de Overeenkomst van Dublin een verzoek tot overname van de asielaanvraag ingediend wordt bij een andere staat, kan zich een complicatie voordoen.
 
 Als immers het Dublinland waarbij het verzoek tot overname ingediend wordt tevens een Schengenstaat is en het overnameverzoek gebaseerd is op de eerdere aanwezigheid van de asielzoeker in die Schengenstaat, dan was er doorgaans al sprake van feitelijke toegang tot het Schengengebied en kan de toegang dus niet alsnog geweigerd worden.
 
-Het vorenstaande betekent dat alleen indien een verzoek tot overname van de asielaanvraag gedaan kan worden op grond van de Overeenkomst van Dublin, maar niet tevens op grond van het Akkoord van Schengen en de SUO, de toegang geweigerd kan worden en één van de maatregelen van [artikel 6 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=6) opgelegd kan worden (zie [model M19](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M19&z=2006-07-16&g=2006-07-16) en [model M118](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M118&z=2006-07-16&g=2006-07-16)).
+Het vorenstaande betekent dat alleen indien een verzoek tot overname van de asielaanvraag gedaan kan worden op grond van de Overeenkomst van Dublin, maar niet tevens op grond van het Akkoord van Schengen en de SUO, de toegang geweigerd kan worden en één van de maatregelen van [artikel 6 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=6) opgelegd kan worden (zie [model M19](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M19&z=2006-07-16&g=2006-10-13) en [model M118](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M118&z=2006-07-16&g=2006-10-13)).
 
 In de situatie waarin een overnameverzoek wordt ingediend bij de Nederlandse autoriteiten dan wel waarin de Nederlandse autoriteiten afzien van het doen van een overnameverzoek en de asielaanvraag op grond van artikel 3, vierde lid, Overeenkomst van Dublin aan zich trekken, doet zich hetzelfde voor. Ook in deze zaken is van belang of de asielzoeker onmiddellijk voorafgaand aan zijn binnenkomst in Nederland in een Schengenstaat (waaronder Nederland) is geweest en zich daar reeds de verdere feitelijke toegang tot het Schengengebied heeft verschaft. Is dat het geval, dan is het niet (meer) mogelijk om de asielzoeker de toegang tot Nederland en daarmee het Schengengebied te weigeren.
 
@@ -3615,7 +3615,7 @@ Ad a: Van belang is dat de beoordeling uitsluitend gebaseerd mag zijn op het ged
 
 Ad b: Het gaat hier enkel om potentieel epidemische ziekten zoals gedefinieerd in de relevante instrumenten van de Wereldgezondheidsorganisatie, en andere infectieziekten of besmettelijke parasitaire ziekten, voorzover in Nederland beschermende regelingen zijn getroffen ten aanzien van de eigen onderdanen. Daarbij kan, naast de in gezondheidswetgeving gebruikelijke ziekten als pest, cholera en gele koorts, ook worden gedacht aan nieuwere ziekten als Sars. Verwezen wordt [artikel 2, onderdeel a, Infectieziektenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009684&artikel=2).
 
-Zoals is aangegeven in A2/5.5.1, dient bij de vreemdeling die onderdaan is (of dat stelt te zijn) van de EU, de EER of Zwitserland, voorafgaand aan toegangsweigering de IND te worden geraadpleegd (zie ook [artikel 8.8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.8), juncto [artikel 8.7, eerste lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.7)). Indien wordt overgegaan tot toegangsweigering moet een schriftelijke gemotiveerde beschikking worden uitgereikt (zie [artikel 8.8, tweede lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.8)). Hiervoor kan [model M18](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M18&z=2006-07-16&g=2006-07-16) worden gebruikt. De motivering moet concreet zijn; niet mag worden volstaan met de enkele mededeling dat de betrokkene een gevaar oplevert voor de openbare orde, de nationale veiligheid of de volksgezondheid. Bij de kennisgeving moet worden vermeld dat daartegen administratief beroep kan worden ingesteld bij de Minister. Het aanbrengen van een (toegangs)weigeringsstempel is eveneens van toepassing op burgers van de EU en onderdanen van EER-landen en Zwitserland.
+Zoals is aangegeven in A2/5.5.1, dient bij de vreemdeling die onderdaan is (of dat stelt te zijn) van de EU, de EER of Zwitserland, voorafgaand aan toegangsweigering de IND te worden geraadpleegd (zie ook [artikel 8.8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.8), juncto [artikel 8.7, eerste lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.7)). Indien wordt overgegaan tot toegangsweigering moet een schriftelijke gemotiveerde beschikking worden uitgereikt (zie [artikel 8.8, tweede lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.8)). Hiervoor kan [model M18](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M18&z=2006-07-16&g=2006-10-13) worden gebruikt. De motivering moet concreet zijn; niet mag worden volstaan met de enkele mededeling dat de betrokkene een gevaar oplevert voor de openbare orde, de nationale veiligheid of de volksgezondheid. Bij de kennisgeving moet worden vermeld dat daartegen administratief beroep kan worden ingesteld bij de Minister. Het aanbrengen van een (toegangs)weigeringsstempel is eveneens van toepassing op burgers van de EU en onderdanen van EER-landen en Zwitserland.
 
 Zoals aangegeven in A2/4.4.1, wordt sedert de implementatie op 29 april 2006 van [Richtlijn 2004/38/EG](32004L0038) van 29 april 2004, betreffende het recht van vrij verkeer en verblijf op het grondgebied van de lidstaten voor de burgers van de Unie en hun familieleden, ten aanzien van onderdanen van de EU, de EER en Zwitserland niet langer onderscheid gemaakt tussen rechtmatig verblijf in de vrije termijn en rechtmatig verblijf als gemeenschapsonderdaan. Ingevolge [artikel 8.11, eerste lid, onder a en b Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.11), heeft een vreemdeling rechtmatig verblijf gedurende een periode van drie maanden na inreis indien hij:
 
@@ -3623,9 +3623,11 @@ Een eerste termijn van drie maanden geldt ten aanzien van familieleden als bedoe
 
 Overigens, een vreemdeling die niet beschikt over het vereiste document voor grensoverschrijding, kan pas worden uitgezet nadat hem gedurende een redelijke termijn de gelegenheid is gegeven dat document te verkrijgen of op andere wijze vast te stellen of te bewijzen dat hij het recht op vrij verkeer en verblijf geniet (zie [artikel 8.8, vierde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.8)).
 
-Op onderdanen van België en Luxemburg die geen gebruik maken van het recht op vrij verkeer van personen geldt dat [artikel 8.8, eerste en tweede lid, VV](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.5) niet van toepassing zijn. Op deze vreemdelingen is artikel 8.5 Vb van toepassing. Uit dat artikel volgt dat aan deze onderdanen van België en Luxemburg, indien zij het vereiste document van grensoverschrijding bezitten, de toegang tot Nederland alleen kan worden geweigerd als zij een actuele bedreiging voor de openbare orde of nationale veiligheid vormen. Net als bij andere onderdanen van de EU/EER, dient voorafgaand aan toegangsweigering de IND te worden geraadpleegd (zie A2/5.5.1). Indien wordt overgegaan tot toegangsweigering moet een schriftelijke gemotiveerde beschikking worden uitgereikt. Hiervoor kan [model M18](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M18&z=2006-07-16&g=2006-07-16) worden gebruikt.
+Op onderdanen van België en Luxemburg die geen gebruik maken van het recht op vrij verkeer van personen geldt dat [artikel 8.8, eerste en tweede lid, VV](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.5) niet van toepassing zijn. Op deze vreemdelingen is artikel 8.5 Vb van toepassing. Uit dat artikel volgt dat aan deze onderdanen van België en Luxemburg, indien zij het vereiste document van grensoverschrijding bezitten, de toegang tot Nederland alleen kan worden geweigerd als zij een actuele bedreiging voor de openbare orde of nationale veiligheid vormen. Net als bij andere onderdanen van de EU/EER, dient voorafgaand aan toegangsweigering de IND te worden geraadpleegd (zie A2/5.5.1). Indien wordt overgegaan tot toegangsweigering moet een schriftelijke gemotiveerde beschikking worden uitgereikt. Hiervoor kan [model M18](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M18&z=2006-07-16&g=2006-10-13) worden gebruikt.
 
-Op vreemdelingen die in Nederland werkzaamheden verrichten als lid van een diplomatieke zending of consulaire post, hun gezinsleden en hun personeel, is de [Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) niet van toepassing indien zij niet-duurzaam in Nederland verblijven. Op grond van de Weense Verdragen inzake het Diplomatiek Verkeer en de Consulaire Betrekkingen komt hen een bijzondere status toe. Zij zijn door de Minister van BuZa in het bezit gesteld van het geprivilegieerdendocument (zie [model M81](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M81&z=2006-07-16&g=2006-07-16)).
+Op vreemdelingen die in Nederland werkzaamheden verrichten als lid van een diplomatieke zending of consulaire post, hun gezinsleden en hun personeel, is de [Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) niet van toepassing indien zij niet-duurzaam in Nederland verblijven. Op grond van de Weense Verdragen inzake het Diplomatiek Verkeer en de Consulaire Betrekkingen komt hen een bijzondere status toe. Zij zijn door de Minister van BuZa in het bezit gesteld van het geprivilegieerdendocument (zie [model M81](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M81&z=2006-07-16&g=2006-10-13)).
+
+Op vreemdelingen die in Nederland werkzaamheden verrichten als lid van een diplomatieke zending of consulaire post, hun gezinsleden en hun personeel, is de [Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) niet van toepassing indien zij niet-duurzaam in Nederland verblijven. Op grond van de Weense Verdragen inzake het Diplomatiek Verkeer en de Consulaire Betrekkingen komt hen een bijzondere status toe. Zij zijn door de Minister van BuZa in het bezit gesteld van het geprivilegieerdendocument (zie [model M81](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M81&z=2006-11-16&g=2006-10-13)).
 
 De bijzondere status houdt onder meer in dat de maatregelen van uitzetting krachtens de [Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) op hen niet kunnen worden toegepast. Hun toegang, toelating en verblijf hier te lande richten zich naar de algemene regelen van volkenrecht.
 
@@ -3637,17 +3639,17 @@ Ten aanzien van deze categorie blijft controle aan de hand van (N)SIS/OPS in beg
 
 Zoals is aangegeven in A2/5.5.1, dient in het geval het voornemen bestaat om de toegang te weigeren aan een persoon die zich op een bijzondere status beroept, eerst contact op te worden genomen met de IND.
 
-Op vreemdelingen die reeds een jaar of meer op grond van [artikel 8 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) rechtmatig in Nederland verblijven, die gerechtigd zijn arbeid al dan niet in loondienst te verrichten en in dienst treden van een diplomatieke missie of consulaire post, blijft de [Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) in volle omvang van toepassing. Het betreft met name vreemdelingen die door de diplomatieke zending of consulaire post lokaal zijn geworven.
+Vreemdelingen van deze categorie ontvangen wel een geprivilegieerdendocument afgegeven door het ministerie van BuZa. Daarop komt echter een lettercode voor, met een verklaring waaruit bovengenoemde, niet-bijzondere status blijkt (zie [model M81-A](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M81-A&z=2006-07-16&g=2006-10-13)).
 
-Vreemdelingen van deze categorie ontvangen wel een geprivilegieerdendocument afgegeven door het ministerie van BuZa. Daarop komt echter een lettercode voor, met een verklaring waaruit bovengenoemde, niet-bijzondere status blijkt (zie [model M81-A](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M81-A&z=2006-07-16&g=2006-07-16)).
+Vreemdelingen van deze categorie ontvangen wel een geprivilegieerdendocument afgegeven door het ministerie van BuZa. Daarop komt echter een lettercode voor, met een verklaring waaruit bovengenoemde, niet-bijzondere status blijkt (zie [model M81-A](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M81-A&z=2006-11-16&g=2006-10-13)).
 
 Lokaal geworven personeel dat vóór 1 augustus 1987, vanaf welke datum het onderscheid tussen duurzaam en niet-duurzaam verblijf wordt gemaakt, in het bezit was van een legitimatiebewijs afgegeven door de Minister van BuZa, behoudt de verworven bijzondere status tot beëindiging van het dienstverband.
 
-Ten aanzien van diplomatieke en consulaire ambtenaren, hun gezinsleden en personeel, welke slechts op doorreis in Nederland zijn, is de [Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) niet van toepassing voor zover het de doorreis naar of terugkeer van de diplomatieke zending of consulaire post in een derde land betreft. Hetgeen onder a is opgemerkt over de bijzondere status geldt ook hier.
+[Artikel 2.5 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=2.5) handelt over bemanningsleden van luchtvaartuigen.
 
 [Artikel 2.5 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=2.5) handelt over bemanningsleden van luchtvaartuigen.
 
-Personen die in het bezit zijn van een ‘crew member licence’ dan wel een ‘crew member certificate’ als bedoeld in bijlage 9 Verdrag van Chicago zijn vrijgesteld van de paspoort- en visumplicht voorzover zij:
+De toegang wordt verleend voor de duur die noodzakelijk is om de doorreis per eerstvolgende gelegenheid te kunnen voortzetten. De toegang kan worden geweigerd aan personen ten aanzien van wie een gegrond vermoeden bestaat dat zij toegang vragen voor een ander doel dan waarvoor deze regeling bedoeld is.
 
 Als blijk van de verleende toegang aan de transitpassagier, wordt in het reisdocument van de transitpassagier een aantekening gesteld. De tekst van deze aantekening luidt:
 
@@ -3655,65 +3657,65 @@ Als blijk van de verleende toegang aan de transitpassagier, wordt in het reisdoc
 
 Daarbij komt een inreisstempel en handtekening van de ambtenaar die toegang verleent.
 
-In plaats van het stellen van een aantekening kan, in het geval van toegangverlening aan de transitpassagier van een vliegtuig, een afzonderlijke verklaring aan de vreemdeling worden verstrekt (zie [bijlage 5a VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=5a)).
+Voor zogeheten ‘supernumeraries’ (‘boventalligen’ zijn zogenaamde werkende passagiers die de faciliteiten van bemanningsleden genieten) geldt dat ook zij mogen passagieren. Deze personen dienen vermeld te staan op de bemanningslijst.
 
-Op grond van de Wet op de uitgebreide identificatieplicht is een politieambtenaar bevoegd tot het vorderen van een identiteitsbewijs voor zover dat redelijkerwijs noodzakelijk is voor zijn taakuitoefening. In dat geval dienen ook passagierende zeelieden een identiteitsbewijs ter inzage aan te bieden. Een geldig grensoverschrijdingsdocument is in dat geval voldoende.
+Aan visumplichtige zeelieden die na aankomst in Nederland onmiddellijk in een ziekenhuis moeten worden opgenomen en niet in het bezit zijn van het vereiste visum, kan door het hoofd van de doorlaatpost, ongeacht hun nationaliteit, zonder voorafgaande machtiging, een visum dan wel een visumverklaring indien niet wordt beschikt over een document van grensoverschrijding, voor ten hoogste vijftien dagen worden verstrekt, waarvan de geldigheid is beperkt tot Nederland.
 
-Niet-visumplichtige zieke zeelieden, die niet in het bezit zijn van een geldig document voor grensoverschrijding kunnen zonder voorafgaande machtiging in het bezit worden gesteld van een bijzonder doorlaatbewijs, mits hun identiteit op enigerlei wijze kan worden aangetoond.
+Eerst bij vertrek uit Nederland naar een boorinstallatie kan worden vastgesteld of de vreemdeling aan alle voorwaarden voor binnenkomst en verblijf heeft voldaan.
 
 Eerst bij vertrek uit Nederland naar een boorinstallatie kan worden vastgesteld of de vreemdeling aan alle voorwaarden voor binnenkomst en verblijf heeft voldaan.
 
 Voor offshoremedewerkers is een langdurig visum, geldig voor meer inreizen, te verkrijgen op het Consulaat-Generaal te Antwerpen. Daartoe dient de vreemdeling zich in persoon te melden en in het bezit te zijn van de volgende bewijsstukken:
 
-Als bovenstaande bewijsstukken overlegd kunnen worden en de eventueel noodzakelijke verdere onderzoeken zijn uitgevoerd, zal de vreemdeling in het bezit worden gesteld van een visum met een maximale geldigheidsduur van vijf jaar. De geldigheidsduur van het visum kan nooit die van het arbeidscontract of het reisdocument te boven gaan.
-
 Voor werknemers op boorinstallaties geldt een werktijdenregeling die voorziet in veertien dagen werk en veertien dagen verlof aan de wal. Voor dit walverlof gelden de normale voorwaarden voor kort verblijf in Nederland.
+
+Kinderen beneden de leeftijd van zestien jaar kunnen, in afwijking van het vereiste dat zelfstandig moet worden beschikt over een geldig document voor grensoverschrijding, Nederland binnenkomen, wanneer zij reizen in gezelschap van een persoon wiens document voor grensoverschrijding mede voor hen geldig is, onder de volgende voorwaarden:
 
 Zie voor Britse kinderen beneden de leeftijd van zestien jaar die reizen in het gezelschap van een ouder, grootouder of voogd die houder is van een geldig ‘British visitors passport’ [bijlage 3, onder B, sub 3, VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=3).
 
-Degene onder wiens begeleiding minderjarige kinderen reizen, is verplicht om op verzoek het mede voor hen geldig document voor grensoverschrijding aan een grensbewakingsambtenaar te tonen en te overhandigen (zie [artikel 4.5, eerste lid, onder a, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.5)). De zelfstandige identificatieplicht van [artikel 50 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=50) juncto [artikel 4.21 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.21) geldt voor deze kinderen niet.
-
 Alleenreizende minderjarigen moeten voldoen aan de normale vereisten voor binnenkomst en verblijf. Indien de toegang tot Nederland aan de alleenreizende minderjarige wordt geweigerd, dient de grensbewakingsambtenaar zich er zoveel mogelijk van te vergewissen dat de minderjarige wordt teruggebracht naar een derde land waar zijn of haar toelating is gewaarborgd.
 
-Voor binnenkomst met het oog op verblijf ter adoptie(f)- dan wel als pleegkind is onder meer het bezit van een geldig document voor grensoverschrijding vereist. Dit is in beginsel een geldig paspoort, indien vereist, voorzien van een geldige mvv.
+Onderscheid wordt gemaakt tussen adoptie(f)kinderen en pleegkinderen. Adoptie(f)kinderen zijn kinderen die op zeer jeugdige leeftijd, in de regel jonger dan zes jaar, ter adoptie naar Nederland komen. De aspirant-adoptiefouders moeten voor opneming van deze kinderen onder andere in het bezit zijn van een zogenaamde beginseltoestemming van de Minister. Pleegkinderen zijn diegenen die niet voor adoptie maar om andere redenen in hun belang naar Nederland komen om te worden opgenomen in het gezin van naaste familieleden.
+
+Toegang wordt verleend aan jeugdige vreemdelingen aan wie ter adoptie(f)- dan wel als pleegkind een mvv is afgegeven. Wanneer niet, uit een mvv, blijkt dat voorafgaand aan de komst naar Nederland toestemming voor verblijf ter adoptie(f)- dan wel als pleegkind is verleend, moet steeds de IND worden geraadpleegd.
 
 Toestemming voor de inreis wordt in deze gevallen slechts verleend:
 
-In beide gevallen wordt een meldplicht opgelegd als bedoeld in [artikel 4.26 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.26).
+Inwonende kinderen beneden de twaalf jaar zijn meestal opgenomen in de vergunning van hun ouders. Deze kinderen worden ook feitelijk in het bezit gesteld van een verblijfsdocument (zie [artikel 4.21, tweede lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.21)).
 
 Alle hierboven genoemde vreemdelingen zijn in geval van terugkeer naar Nederland vrijgesteld van de visumplicht ([bijlage 3, onder A, VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=3)).
 
 **a) Vreemdelingen die kunnen aantonen dat hen lang verblijf in Nederland is toegestaan**
 
-Vreemdelingen aan wie lang verblijf in Nederland is toegestaan zijn bij in- en uitreis verplicht om het in hun bezit zijnde document voor grensoverschrijding desgevraagd aan een grensbewakingsambtenaar te tonen en te overhandigen (zie [artikel 4.5 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.5)).
+Uit een signalering in het OPS kan blijken dat de verblijfsvergunning voor bepaalde of onbepaalde tijd is ingetrokken dan wel de geldigheidsduur is verstreken. Aan de houder van een geldig paspoort en van een verblijfsvergunning waarvan de geldigheidsduur nog maar korte tijd is verstreken kan, wanneer hij een redelijke grond kan aanvoeren voor zijn verlate terugkeer, toegang worden verleend. In ieder geval dient de grensbewakingsambtenaar zo veel mogelijk direct de verblijfsrechtelijke status na te gaan. Indien de vreemdeling wordt doorgelaten dient met toepassing van [artikel 4.26 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.26) een meldplicht te worden opgelegd.
 
-Wanneer de vreemdeling niet kan aantonen of aannemelijk kan maken dat hem lang verblijf in Nederland is toegestaan, kan voor vaststelling van zijn verblijfsrechtelijke positie contact worden opgenomen met de vreemdelingenpolitie van de politieregio waar de gestelde woon- of verblijfplaats van de vreemdeling is gelegen.
+Aan vreemdelingen wordt in bepaalde gevallen toegestaan om in Nederland de (definitieve) beslissing over hun verblijf af te wachten. Hieromtrent wordt door de IND een aantekening gesteld in het paspoort. Zie voor deze aantekening [artikel 4.34, eerste lid, onder c, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.34).
 
 Wanneer deze vreemdelingen Nederland verlaten en naderhand weer willen terugkeren, moeten zij in beginsel voldoen aan de normale vereisten voor binnenkomst en verblijf in Nederland.
 
-Wanneer deze vreemdelingen in het bezit zijn van een geldig paspoort, voorzien van een geldig visum voor terugkeer (zie model M2-B), wordt steeds toegang verleend. In verband met de grenscontrole is in dit geval het gestelde onder A2/6.2.10.1 van overeenkomstige toepassing.
-
-Toegang wordt geweigerd wanneer gevaar voor de Nederlandse openbare orde of nationale veiligheid daartoe aanleiding geeft, met name wanneer de vreemdeling is gesignaleerd als ongewenst vreemdeling of als ongewenstverklaard vreemdeling (ongewenstverklaard ex [artikel 67 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=67)).
+De toegang wordt aan houders van een geldige Belgische of Luxemburgse verblijfsvergunning niet geweigerd op de enkele grond dat zij niet tevens in het bezit zijn van hun paspoort. Controle op bestaansmiddelen blijft bij deze vreemdelingen achterwege, wanneer zij in het bezit zijn van geldige reisbiljetten naar de landen waarvoor zij over een geldige verblijfstitel of terugkeervisum beschikken.
 
 Vreemdelingen die houder zijn van een reisdocument voor vluchtelingen afgegeven door een staat die is aangesloten bij de Europese Overeenkomst inzake de afschaffing van visa voor vluchtelingen (Trb. 1959, nr. 153, en [bijlage 3, onder F, sub 1, VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=3)) en op wiens grondgebied zij regelmatig verblijven, mogen zonder visum het Schengengebied inreizen wanneer zij ook aan de overige voorwaarden voor binnenkomst voldoen. Het betreft hier een reisdocument voor vluchtelingen als bedoeld in artikel 28 s Vluchtelingenverdrag.
 
-Voor houders van elders afgegeven reisdocumenten voor vluchtelingen die niet vallen onder genoemde regelingen, gelden in beginsel geen afwijkingen van de normale voorwaarden voor binnenkomst en verblijf. Deze vreemdelingen mogen echter in geen geval naar hun land van herkomst worden verwijderd.
+Het vorenstaande (inreizen zonder visum) geldt in bepaalde gevallen en onder bepaalde voorwaarden eveneens voor zeelieden-vluchtelingen die houder zijn van een reisdocument voor vluchtelingen (zie [bijlage 3, onder F, VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=3)).
 
-Indien het reisdocument voor vluchtelingen is verlopen maar is afgegeven door één van de staten die zijn aangesloten bij de Europese Overeenkomst inzake de overdracht van verantwoordelijkheid met betrekking tot vluchtelingen, dient de betrokkene te worden overgedragen aan de staat die het verlopen reisdocument heeft afgegeven. Dit geschiedt op grond van artikel 4 van deze overeenkomst. Partij bij deze Overeenkomst zijn: Denemarken, Duitsland, Finland, Italië, Nederland, Noorwegen, Portugal, Spanje, Groot-Brittannië (en Noord-Ierland), Zweden en Zwitserland.
+Voor houders van elders afgegeven reisdocumenten voor vluchtelingen die niet vallen onder genoemde regelingen, gelden in beginsel geen afwijkingen van de normale voorwaarden voor binnenkomst en verblijf. Deze vreemdelingen mogen echter in geen geval naar hun land van herkomst worden verwijderd.
 
 Uitgenodigde vluchtelingen zijn vluchtelingen die door de Nederlandse regering als zodanig worden erkend en op verzoek van de UNHCR naar Nederland worden overgebracht.
 
-Vluchtelingen die door de Nederlandse regering zijn uitgenodigd, zullen zich individueel of in groepsverband melden aan de grens. Zij zullen in de regel in het bezit zijn van een geldig document voor grensoverschrijding. Hun komst wordt door de IND van te voren aangekondigd aan de ambtenaar belast met de grensbewaking, opdat hun onmiddellijk toegang kan worden verleend. De ambtenaar belast met de grensbewaking vangt de betrokkenen bij aankomst op en begeleidt hen naar AC Schiphol alwaar zij in de gelegenheid worden gesteld om een aanvraag asiel in te dienen.
+Uitgenodigde vluchtelingen zijn vluchtelingen die door de Nederlandse regering als zodanig worden erkend en op verzoek van de UNHCR naar Nederland worden overgebracht.
 
 Onder ‘staatloze’ wordt blijkens het op 28 september 1954 te New York gesloten Verdrag betreffende de status van staatlozen (Trb. 1955, 42 en 1957, 22) verstaan: een persoon die door geen enkele staat, krachtens diens wetgeving, als onderdaan wordt beschouwd. Deze personen worden in de regel door de autoriteiten van het land waar zij zijn toegelaten in het bezit gesteld van een vreemdelingenpaspoort.
 
-Het reisdocument voor staatlozen, afgegeven krachtens voornoemd verdrag, wordt voor binnenkomst op het grondgebied van de Schengenstaten als document voor grensoverschrijding erkend.
+Onder ‘staatloze’ wordt blijkens het op 28 september 1954 te New York gesloten Verdrag betreffende de status van staatlozen (Trb. 1955, 42 en 1957, 22) verstaan: een persoon die door geen enkele staat, krachtens diens wetgeving, als onderdaan wordt beschouwd. Deze personen worden in de regel door de autoriteiten van het land waar zij zijn toegelaten in het bezit gesteld van een vreemdelingenpaspoort.
+
+Toegang tot het Schengengebied wordt slechts aan houders van vreemdelingenpaspoorten verleend indien uit het vreemdelingenpaspoort of een ander document blijkt dat de wedertoelating van de vreemdeling tot het land van afgifte is gewaarborgd.
 
 Houders van een dergelijk document voor grensoverschrijding zijn bij binnenkomst aan de visumplicht onderworpen, tenzij zij beschikken over een verblijfstitel afgegeven door een van de Schengenstaten (zie A2/6.2.10.3).
 
 Voor de bepalingen met betrekking tot houders van een vreemdelingenpaspoort aan wie lang verblijf in Nederland is toegestaan wordt verwezen naar A2/6.2.10.1.
 
-Aan personen die verklaren staatloos te zijn en die niet in het bezit zijn van een vreemdelingenpaspoort wordt de toegang geweigerd. Houders van vreemdelingenpaspoorten die niet beschikken over de vereiste visa wordt in beginsel eveneens de toegang geweigerd. In bijzondere gevallen en onder bepaalde voorwaarden kunnen echter aan de grens visumfaciliteiten worden verleend (zie A2/4.3.8).
+Onder vervoerder wordt verstaan: eenieder door wiens tussenkomst vreemdelingen arriveren op Nederlands grondgebied met dien verstande dat de plaats van aankomst een plaats dient te zijn waar personencontrole in het kader van de overschrijding van een buitengrens mogelijk is. Voor Nederland geldt dat met name die luchtvaart-, cruise- en ferrymaatschappijen, alsmede eigenaars van koopvaardijschepen en eigenaars/gebruikers van pleziervaartuigen, die één of meer vreemdelingen aanvoeren via een plaats waar buitengrenscontrole voor het Schengengebied plaatsvindt, zich aan een aantal verplichtingen moeten houden.
 
 Onder vervoerder wordt verstaan: eenieder door wiens tussenkomst vreemdelingen arriveren op Nederlands grondgebied met dien verstande dat de plaats van aankomst een plaats dient te zijn waar personencontrole in het kader van de overschrijding van een buitengrens mogelijk is. Voor Nederland geldt dat met name die luchtvaart-, cruise- en ferrymaatschappijen, alsmede eigenaars van koopvaardijschepen en eigenaars/gebruikers van pleziervaartuigen, die één of meer vreemdelingen aanvoeren via een plaats waar buitengrenscontrole voor het Schengengebied plaatsvindt, zich aan een aantal verplichtingen moeten houden.
 
@@ -3721,7 +3723,7 @@ De volgende verplichtingen voor vervoerders zijn opgenomen in de Vw:
 
 Daarnaast kan de vervoerder ingevolge [artikel 65 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=65), juncto [artikel 6.3 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=6.3), aansprakelijk worden gesteld voor de uitzettings- en verblijfskosten die door de overheid worden gemaakt met betrekking tot geweigerde vreemdelingen die niet onmiddellijk kunnen worden terugvervoerd.
 
-De onder b genoemde afschriftplicht is een nationale bepaling. De overige bepalingen vloeien voort uit het feit dat Nederland zich heeft aangesloten bij de SUO.
+De vervoerder dient zodanige voorzorgsmaatregelen te nemen dat de aanvoer van niet of niet juist gedocumenteerde vreemdelingen wordt voorkomen. Als dergelijke vreemdelingen zonder voorafgaande toestemming van bevoegde autoriteiten (zie hierna) toch worden aangevoerd, kan de vervoerder strafbaar zijn. In ieder geval zal terzake een proces-verbaal worden opgemaakt.
 
 De vervoerder dient zodanige voorzorgsmaatregelen te nemen dat de aanvoer van niet of niet juist gedocumenteerde vreemdelingen wordt voorkomen. Als dergelijke vreemdelingen zonder voorafgaande toestemming van bevoegde autoriteiten (zie hierna) toch worden aangevoerd, kan de vervoerder strafbaar zijn. In ieder geval zal terzake een proces-verbaal worden opgemaakt.
 
@@ -3735,7 +3737,7 @@ De Nederlandse overheid kan de individuele vervoerder aanwijzingen geven om extr
 
 Overeenkomstig de daartoe strekkende internationale regelgeving kan de Nederlandse overheid een vervoerder verzoeken, om op een risicodragende vlucht of vaart een plaats aan boord van het vaartuig of luchtvaartuig ter beschikking te stellen aan een ambtenaar deskundig op het terrein van reisdocumenten. De ambtenaar kan dan in de opstapplaats, ter gelegenheid van het aan boord gaan, vervoerders adviseren of de aangeboden reisdocumenten echt en onvervalst zijn, en het aangeboden reisdocument voorzien is van de benodigde visa (zowel voor Nederland als voor het land van uiteindelijke bestemming). Dit geschiedt enkel indien daartoe door de staat waarin de opstapplaats is gelegen toestemming is verleend.
 
-Om vervoerders in staat te stellen de verlangde controle zo goed mogelijk te verrichten, houdt het ministerie van Justitie hen regelmatig op de hoogte van wijzigingen in de voor toegang tot Nederland vereiste documenten en visa. Tevens zullen aanwijzingen gegeven worden die een meer effectieve en efficiënte controle kunnen bewerkstelligen (bijv. informatie over reisroutes, trends, veel voorkomende vervalsingen etc.).
+De Nederlandse overheid kan op grond van [artikel 2.2 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=2.2) vervoerders verplichten een afschrift te maken van de in het bezit van bepaalde vreemdelingen zijnde documenten. Deze afschriftplicht geldt slechts voor vluchten of vaarten vanaf die plaatsen van vertrek die specifiek, bij ministeriële regeling, zijn aangegeven. Ook kunnen bepaalde specifieke vervoersondernemingen worden aangewezen.
 
 De Nederlandse overheid kan op grond van [artikel 2.2 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=2.2) vervoerders verplichten een afschrift te maken van de in het bezit van bepaalde vreemdelingen zijnde documenten. Deze afschriftplicht geldt slechts voor vluchten of vaarten vanaf die plaatsen van vertrek die specifiek, bij ministeriële regeling, zijn aangegeven. Ook kunnen bepaalde specifieke vervoersondernemingen worden aangewezen.
 
@@ -3751,33 +3753,33 @@ Indien een vreemdeling bij binnenkomst in Nederland niet over (de juiste) reisdo
 
 De bij ministeriële regeling vastgestelde lijst van plaatsen van vertrek en/of vervoersondernemingen waarvoor de afschriftplicht geldt, wordt samengesteld op basis van ervaringsgegevens en is terug te vinden in [bijlage 1 VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=1). Deze lijst wordt regelmatig geactualiseerd en schriftelijk kenbaar gemaakt aan de betreffende vervoerders. Daarbij wordt steeds aangegeven vanaf welk moment de afschriftplicht geldt.
 
-De afschriftplicht geldt nimmer ten aanzien van diplomatieke ambtenaren en andere geprivilegieerde personen. Deze plicht geldt evenmin ten aanzien van uitgenodigde vluchtelingen.
-
 Als uitwerking van artikel 26 SUO, is in [artikel 65](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=65), juncto [artikel 5, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=5) de verplichting voor de vervoerder vastgelegd om een vreemdeling die hij naar Nederland heeft vervoerd en aan wie de toegang tot het Schengengebied is geweigerd terug te brengen naar een plaats buiten Nederland.
 
-De terugvoerplicht is niet alleen van toepassing op vreemdelingen aan wie bij binnenkomst aanstonds de toegang is geweigerd, maar ook op vreemdelingen – bijvoorbeeld bemanningsleden van schepen of transitpassagiers van vliegtuigen – aan wie aanvankelijk toegang is verleend maar die op illegale wijze zijn achtergebleven. De terugvoerplicht geldt niet alleen bij weigeringen van vreemdelingen die niet beschikken over (de juiste) grensoverschrijdingsdocumenten, maar ook bij weigeringen op basis van één van de andere gronden van [artikel 3 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=3), zoals het niet beschikken over voldoende middelen van bestaan of het vormen van een gevaar voor de openbare orde en nationale veiligheid.
+Ingevolge [artikel 65, eerste lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=65) is deze terugvoerplicht van toepassing op de vreemdeling die Nederland onmiddellijk dient te verlaten dan wel die binnen zes maanden na binnenkomst met het oog op uitzetting is aangehouden. Voor de vaststelling van de termijn van zes maanden is beslissend het tijdstip van staande houden. De plaatsing van de vreemdeling aan boord van een schip of vliegtuig dat bij dezelfde vervoersonderneming in gebruik is, kan eventueel ook op een later tijdstip plaatsvinden. Dit is onder meer het geval indien de vreemdeling kort voor het verstrijken van bedoelde termijn wordt aangetroffen.
+
+Gedurende de gehele periode vanaf het moment dat aan de vervoerder de aanwijzing is gegeven de vreemdeling terug te brengen naar een plaats buiten Nederland tot aan het moment dat de vreemdeling door de vervoersonderneming daadwerkelijk naar een plaats buiten Nederland wordt gevoerd, is de vervoerder verantwoordelijk voor de vreemdeling. Dit betekent allereerst dat de vervoerder verantwoordelijk is voor de zorg van een vreemdeling wanneer deze bijvoorbeeld in de internationale lounge van de luchthaven verblijft in afwachting van zijn vertrek. Het betekent voorts dat alle kosten die door de overheid worden gemaakt en voortkomen uit het (feitelijk) verblijf van de vreemdeling in Nederland, ook ten laste kunnen komen van de vervoerder (zie A2/7.1.6).
 
 Indien nodig, kan door de ambtenaar belast met de grensbewaking of de ambtenaar belast met het vreemdelingentoezicht aan de vreemdeling die zal worden teruggevoerd een vrijheidsbeperkende of vrijheidsontnemende maatregel worden opgelegd.
 
-Bovengenoemde regelgeving is ook van toepassing in het geval zich verstekelingen bevinden aan boord van een schip dat een Nederlandse haven aandoet en aan wie de toegang tot Nederland wordt geweigerd.
+In afwachting van het daadwerkelijke vertrek van de verstekeling blijft de verantwoordelijkheid voor de verstekeling bij de vervoerder liggen. In overleg met de vervoerder kan de ambtenaar belast met de grensbewaking evenwel besluiten de verstekeling tijdelijk van boord te halen en de vrijheidsontnemende maatregel ex [artikel 6 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=6) op te leggen (zie [model M19](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M19&z=2006-07-16&g=2006-10-13) en [model M118](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M118&z=2006-07-16&g=2006-10-13)). De vervoerder blijft echter gehouden de verstekeling zo snel als mogelijk te doen vertrekken van het Nederlands grondgebied. De vervoerder wordt tijdig geïnformeerd omtrent de plaatsing aan boord van de verstekeling ter uitvoering van zijn verplichting.
 
-In afwachting van het daadwerkelijke vertrek van de verstekeling blijft de verantwoordelijkheid voor de verstekeling bij de vervoerder liggen. In overleg met de vervoerder kan de ambtenaar belast met de grensbewaking evenwel besluiten de verstekeling tijdelijk van boord te halen en de vrijheidsontnemende maatregel ex [artikel 6 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=6) op te leggen (zie [model M19](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M19&z=2006-07-16&g=2006-07-16) en [model M118](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M118&z=2006-07-16&g=2006-07-16)). De vervoerder blijft echter gehouden de verstekeling zo snel als mogelijk te doen vertrekken van het Nederlands grondgebied. De vervoerder wordt tijdig geïnformeerd omtrent de plaatsing aan boord van de verstekeling ter uitvoering van zijn verplichting.
-
-Het college van procureurs-generaal heeft op 7 november 2005 de Richtlijn inzake strafvordering strafrechtelijke aansprakelijkheid voor de aanvoer van niet of onjuist gedocumenteerde vreemdelingen vastgesteld, welke op 1 januari 2006 in werking is getreden. De Richtlijn bevat aanwijzingen voor het OM ten aanzien van het transactie- en vervolgingsbeleid met betrekking tot [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=4) en [artikel 108 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=108).
+De vervoerder kan worden vervolgd terzake van overtreding van [artikel 4, eerste en tweede lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=4), te weten het veronachtzamen van de zorg- en afschriftplicht, alsmede terzake van overtreding van [artikel 5, eerste en tweede lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=5) en [artikel 65, derde lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=65). Ook kan tegen de vervoerder vervolging worden ingesteld terzake van overtreding van [artikel 197a WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=197a), welk artikel mensensmokkel behelst.
 
 Indien het niet binnen redelijke tijd mogelijk is de vreemdeling naar een plaats buiten Nederland te vervoeren, dan kunnen de kosten van uitzetting uit Nederland, waaronder ook de verblijfskosten kunnen worden begrepen ingevolge [artikel 65 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=65), juncto [artikel 6.3 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=6.3), op die vervoersonderneming worden verhaald.
 
 De verplichting voor de bestuurder van een voertuig om mee te werken, is geregeld in [artikel 4.8 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.8) en de [artikelen 5:19](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:19) en [5:20 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20).
 
-Het is niet uitgesloten dat een vreemdeling die in een later stadium als verdachte wordt aangemerkt, ter voldoening aan zijn plicht gegevens te verstrekken of mee te werken (zie [artikel 54 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=54)) feiten aandraagt die in een latere fase aanleiding kunnen vormen voor een strafvervolging. Deze feiten mogen dan binnen de wettelijke randvoorwaarden worden betrokken in het opsporingsonderzoek. Deze feiten zijn immers verkregen in een fase waarin er nog geen sprake was van een redelijk vermoeden van schuld aan een strafbaar feit zodat aan de betrokken vreemdeling nog niet behoefde te worden medegedeeld dat hij niet tot antwoorden is verplicht. Wel is het zo dat de betrokken vreemdeling zodra hij is betrokken in een opsporingsonderzoek en hij derhalve op grond van [artikel 29 WvSv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=29) niet tot antwoorden is verplicht, geen nadere mededelingen meer behoeft te doen ter zake van de feiten waarvan hij wordt verdacht, ook niet meer ter zake van de feiten waarover hij in de fase waarin hij tot medewerking verplicht was mededelingen heeft gedaan.
+Toezicht dient te worden onderscheiden van opsporing. In de praktijk is het onderscheid tussen toezicht en opsporing vooral van belang voor de vraag op welk moment de toezichthouder aan iemand moet mededelen dat hij niet tot antwoorden verplicht is. Indien tijdens het toezicht op de naleving van de bepalingen van de [Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) blijkt dat ten aanzien van de persoon die is onderworpen aan het toezicht sprake is van een redelijk vermoeden van schuld aan een strafbaar feit, dan dient aan deze persoon – die dan als verdachte in de zin van [artikel 27 WvSv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=27) dient te worden beschouwd – op grond van [artikel 29 WvSv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=29) te worden medegedeeld dat hij niet tot (verder) antwoorden is verplicht. Achterwege laten van deze mededeling (‘cautie’) kan met zich meebrengen dat de verkregen informatie in een latere strafzaak als onrechtmatig bewijs wordt aangemerkt.
 
 De staande gehouden persoon mag overgebracht worden naar een plaats bestemd voor verhoor indien:
 
-Het gaat hierbij om de vaststelling van de identiteit, nationaliteit en de rechtmatigheid van het verblijf aan de hand van geldige documenten of bescheiden (zie [artikel 4.21 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.21)). Een bekende identiteit is op zichzelf nog geen vastgestelde identiteit.
+De staande gehouden persoon mag overgebracht worden naar een plaats bestemd voor verhoor indien:
+
+Ook degene die stelt Nederlander te zijn, maar dat niet kan aantonen, kan worden overgebracht naar een plaats bestemd voor verhoor (zie [artikel 50, eerste lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=50)).
 
 [Artikel 50, derde lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=50) verschaft een titel van vrijheidsontneming om vreemdelingen na een strafrechtelijke detentie en ter inbewaringstelling te vervoeren, dan wel over te brengen naar een plaats bestemd voor verhoor. Als plaats bestemd voor verhoor kunnen in dit verband worden aangemerkt een politiebureau, een brigade of celruimte bij een doorlaatpost van de KMar of een huis van bewaring. Zie voor de toepassing van [artikel 50, derde lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=50) tevens A6/5.3.7.1.
 
-De termijn van ophouding vangt aan op het moment dat de staande gehouden persoon op de plaats bestemd voor verhoor is aangekomen. De ophouding kan maximaal zes uren duren waarbij de tijd tussen middernacht en negen uur ’s ochtends niet wordt meegerekend.
+Ambtenaren belast met grensbewaking of met toezicht op vreemdelingen zijn, voorzover dat voor de vaststelling van de identiteit noodzakelijk is, bevoegd de opgehouden persoon aan kleding of lichaam te onderzoeken. Deze bijzondere op grond van de [Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) toegekende bevoegdheid dient niet verward te worden met een veiligheidsfouillering of arrestantenfouillering op grond van de [Politiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0006299) of een identiteitsfouillering op grond van het [WvSv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903).
 
 Ambtenaren belast met grensbewaking of met toezicht op vreemdelingen zijn, voorzover dat voor de vaststelling van de identiteit noodzakelijk is, bevoegd de opgehouden persoon aan kleding of lichaam te onderzoeken. Deze bijzondere op grond van de [Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) toegekende bevoegdheid dient niet verward te worden met een veiligheidsfouillering of arrestantenfouillering op grond van de [Politiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0006299) of een identiteitsfouillering op grond van het [WvSv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903).
 
@@ -3789,13 +3791,13 @@ In gevallen waarin de vreemdeling als verdachte van een strafbaar feit is aangeh
 
 Inwendig lichamelijk onderzoek dient slechts verricht te worden door een arts dan wel in aanwezigheid van een arts.
 
-Ook degene die stelt dat hij Nederlander is, maar dat niet kan aantonen, kan aan de hiervoor genoemde maatregelen onderworpen worden.
+De opgehouden vreemdeling is op grond van [artikel 4.45 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.45) verplicht ter vaststelling van zijn identiteit zich te laten fotograferen en vingerafdrukken van zich te laten nemen. Het vingerafdrukkenformulier moet onmiddellijk worden gezonden naar de DNRI.
 
 De opgehouden vreemdeling is op grond van [artikel 4.45 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.45) verplicht ter vaststelling van zijn identiteit zich te laten fotograferen en vingerafdrukken van zich te laten nemen. Het vingerafdrukkenformulier moet onmiddellijk worden gezonden naar de DNRI.
 
 Voor de vaststelling van de identiteit van de vreemdeling kan vaak een nuttig gebruik worden gemaakt van de gegevens die bij de DNRI beschikbaar zijn. In het belang van het onderzoek naar de identiteit dienen ook de gegevens van de vreemdelingenadministratie geraadpleegd te worden. Het is namelijk niet uitgesloten dat een vreemdeling reeds eerder in Nederland werd aangetroffen.
 
-Tevens dient nagegaan te worden of de vreemdeling onder de opgegeven of vastgestelde identiteit gesignaleerd staat in het OPS en het (N)SIS.
+Wanneer een vreemdeling op grond van een redelijk vermoeden van illegaal verblijf is staande gehouden en het is niet mogelijk de identiteit en de andere relevante gegevens van de betrokkene met voldoende zekerheid aan de hand van een geschikt document vast te stellen, kan een eigen opgave van de betrokkene omtrent zijn identiteit, nationaliteit en eventueel zijn verblijfsstatus worden gecontroleerd in de vreemdelingenadministratie.
 
 Wanneer een vreemdeling op grond van een redelijk vermoeden van illegaal verblijf is staande gehouden en het is niet mogelijk de identiteit en de andere relevante gegevens van de betrokkene met voldoende zekerheid aan de hand van een geschikt document vast te stellen, kan een eigen opgave van de betrokkene omtrent zijn identiteit, nationaliteit en eventueel zijn verblijfsstatus worden gecontroleerd in de vreemdelingenadministratie.
 
@@ -3807,15 +3809,15 @@ Wanneer in het grensoverschrijdingsdocument van een vreemdeling geen inreisstemp
 
 Indien de vreemdeling het vermoeden heeft kunnen weerleggen dat hij illegaal in Nederland verblijft, dient de bevoegde ambtenaar in het grensoverschrijdingsdocument van de vreemdeling een aantekening te plaatsen op welke datum en welke plaats hij de buitengrens van één van de Schengenlidstaten heeft overschreden (zie Verordening EG nr. 2133/2004).
 
-Indien de ambtenaren belast met de grensbewaking of de ambtenaren belast met het vreemdelingentoezicht constateren dat de vreemdeling niet kan aantonen dat er buiten zijn schuld geen inreisstempel is aangebracht in zijn reisdocument, moet geconstateerd worden dat er sprake is van illegaal verblijf. In dat geval dient zowel in het kader van de grensbewaking als in het kader van het MTV de gebruikelijke procedure te worden gevolgd, dat wil zeggen: de procedures voor overdracht dan wel uitzetting dienen ter hand te worden genomen.
+Aan de persoon die met toepassing van [artikel 50, tweede of derde lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=50) overgebracht is naar een plaats bestemd voor verhoor, dient op grond van [artikel 4.18 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.18) tijdig (dat is op een zodanig tijdstip dat een op zijn verzoek gewaarschuwde raadsman bij het verhoor aanwezig kan zijn) mededeling te worden gedaan van het hem toekomende recht zich bij het verhoor te doen bijstaan door een raadsman (van zijn keuze). Het feit dat deze mededeling is gedaan dient duidelijk uit de vreemdelingenadministratie te blijken.
 
 Aan de persoon die met toepassing van [artikel 50, tweede of derde lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=50) overgebracht is naar een plaats bestemd voor verhoor, dient op grond van [artikel 4.18 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.18) tijdig (dat is op een zodanig tijdstip dat een op zijn verzoek gewaarschuwde raadsman bij het verhoor aanwezig kan zijn) mededeling te worden gedaan van het hem toekomende recht zich bij het verhoor te doen bijstaan door een raadsman (van zijn keuze). Het feit dat deze mededeling is gedaan dient duidelijk uit de vreemdelingenadministratie te blijken.
 
 Indien de opgehouden vreemdeling dat verzoekt, wordt de door hem gewenste raadsman of een via de vreemdelingenpiketdienst van het bureau voor rechtshulp aangewezen raadsman ingelicht. Uiteraard moet de vreemdeling in de gelegenheid worden gesteld onverwijld contact met zijn raadsman op te nemen.
 
-De raadsman heeft vrije toegang tot de opgehouden persoon. Hij kan hem alleen spreken, of indien vereist onder toezicht en zonder dat het onderzoek daardoor mag worden opgehouden. Het toezicht strekt niet verder dan om te verzekeren dat de opgehouden persoon zich niet aan het onderzoek onttrekt of bescheiden die voor het onderzoek van belang zijn, wegmaakt.
-
 ### 3.8. Het verhoor
+
+Indien door moeilijkheden met de taal geen of onvoldoende contact met de opgehouden persoon mogelijk is, dient de hulp van een tolk te worden ingeroepen, die als voldoende bekwaam en objectief kan worden beschouwd.
 
 Indien door moeilijkheden met de taal geen of onvoldoende contact met de opgehouden persoon mogelijk is, dient de hulp van een tolk te worden ingeroepen, die als voldoende bekwaam en objectief kan worden beschouwd.
 
@@ -3823,25 +3825,25 @@ Wenst de opgehouden persoon bepaalde vragen niet te beantwoorden voordat hij met
 
 Als het verhoor dient om de identiteit van de opgehouden persoon vast te stellen, moet hij uitvoerig worden verhoord over zijn levensloop, woonplaatsen, bezochte onderwijsinstellingen en dergelijke. Ook bij derden kan informatie worden ingewonnen.
 
-De vreemdeling is op grond van [artikel 54, eerste lid, onder c, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=54) (of indien de [Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) daartoe geen basis biedt op grond van de [artikelen 5:16](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:16), [5:17](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:17) en [5:20 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20), zie A3/7.3.8) verplicht gegevens te verstrekken bijvoorbeeld over zijn identiteit, nationaliteit, burgerlijke staat, beroep, woon- of verblijfplaats met adres, datum, plaats en wijze van binnenkomst in Nederland, doel en duur van verblijf in Nederland, en de middelen van bestaan. Hij kan daartoe zelfs gevorderd worden. Het niet meewerken aan een verplichting op grond van [artikel 54 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=54) is strafbaar gesteld in [artikel 108 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=108) (en het niet meewerken aan een vordering op grond van de [Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) is strafbaar gesteld in [artikel 184 WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=184)). Het feit dat deze vordering is gedaan dient duidelijk uit de vreemdelingenadministratie te blijken.
-
 ### 3.9. Verlenging ophouding
 
-Zie [artikelen 4.19](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.19) en [4.20 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.20). Indien er nog grond bestaat voor het vermoeden dat de opgehouden persoon geen rechtmatig verblijf heeft, bijvoorbeeld als er nog steeds twijfel is over de identiteit, kan de termijn van ophouding door de Korpschef of door de Commandant der KMar, bevoegd ter plaatse waar de persoon zich bevindt, in het belang van het onderzoek naar de identiteit of het rechtmatig verblijf met ten hoogste achtenveertig uren verlengd worden. Voor de verlenging van de ophouding dient gebruik gemaakt te worden van [model M111-D](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M111-D&z=2006-07-16&g=2006-07-16).
+Zie [artikelen 4.19](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.19) en [4.20 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.20). Indien er nog grond bestaat voor het vermoeden dat de opgehouden persoon geen rechtmatig verblijf heeft, bijvoorbeeld als er nog steeds twijfel is over de identiteit, kan de termijn van ophouding door de Korpschef of door de Commandant der KMar, bevoegd ter plaatse waar de persoon zich bevindt, in het belang van het onderzoek naar de identiteit of het rechtmatig verblijf met ten hoogste achtenveertig uren verlengd worden. Voor de verlenging van de ophouding dient gebruik gemaakt te worden van [model M111-D](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M111-D&z=2006-07-16&g=2006-10-13).
+
+Zie [artikelen 4.19](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.19) en [4.20 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.20). Indien er nog grond bestaat voor het vermoeden dat de opgehouden persoon geen rechtmatig verblijf heeft, bijvoorbeeld als er nog steeds twijfel is over de identiteit, kan de termijn van ophouding door de Korpschef of door de Commandant der KMar, bevoegd ter plaatse waar de persoon zich bevindt, in het belang van het onderzoek naar de identiteit of het rechtmatig verblijf met ten hoogste achtenveertig uren verlengd worden. Voor de verlenging van de ophouding dient gebruik gemaakt te worden van [model M111-D](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M111-D&z=2006-11-16&g=2006-10-13).
 
 De vreemdeling behoeft bij het opleggen van de verlenging van de ophouding niet gehoord te worden. De beschikking tot verlenging dient gedagtekend, ondertekend en met redenen omkleed te zijn. Aan de opgehouden persoon wordt een afschrift daarvan uitgereikt. Hem wordt daarbij (schriftelijk) mededeling gedaan van de mogelijkheid tot het aanwenden van een rechtsmiddel (zie A6/6). Het origineel van dit formulier moet in het archief worden opgeborgen. Het tijdstip waarop de verlenging van een ophouding ingegaan is, dient te worden aangetekend in de vreemdelingenadministratie.
 
-De verlenging van de ophouding wordt ten uitvoer gelegd in een cel van de KMar of een politiebureau.
+### 3.10. Regime waaraan de opgehouden persoon is onderworpen
 
 ### 3.10. Regime waaraan de opgehouden persoon is onderworpen
 
-### 3.10.1. Algemeen
+De opgehouden persoon wordt niet verder beperkt in zijn grondrechten dan wordt gevorderd door het doel van de maatregel en de handhaving van de orde en veiligheid op de plaats bestemd voor verhoor. Dit betekent dat voor een opgehouden persoon op enige punten, bijvoorbeeld ten aanzien van het toezicht bij het ontvangen van bezoek en de beperkingen met betrekking tot correspondentie, een gunstiger regime geldt dan voor – krachtens het [WvSv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) – gedetineerde verdachten.
 
 De opgehouden persoon wordt niet verder beperkt in zijn grondrechten dan wordt gevorderd door het doel van de maatregel en de handhaving van de orde en veiligheid op de plaats bestemd voor verhoor. Dit betekent dat voor een opgehouden persoon op enige punten, bijvoorbeeld ten aanzien van het toezicht bij het ontvangen van bezoek en de beperkingen met betrekking tot correspondentie, een gunstiger regime geldt dan voor – krachtens het [WvSv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) – gedetineerde verdachten.
 
-De opgehouden persoon kan op zijn verzoek in de gelegenheid worden gesteld contact op te nemen met een hulpverlenende instantie, een tolk of met zijn diplomatieke of consulaire vertegenwoordiger hier te lande. Van deze mogelijkheid dient hij in kennis te worden gesteld.
-
 ### 3.10.2. Kennisgeving aan derden
+
+De Korpschef respectievelijk de Commandant der KMar is in de hierna genoemde gevallen verplicht van zijn beslissing tot verlenging van de ophoudingstermijn kennis te geven aan derden.
 
 De Korpschef respectievelijk de Commandant der KMar is in de hierna genoemde gevallen verplicht van zijn beslissing tot verlenging van de ophoudingstermijn kennis te geven aan derden.
 
@@ -3851,19 +3853,19 @@ Indien de opgehouden persoon minderjarig is, dient de kennisgeving, als daartoe 
 
 Als de opgehouden persoon meerderjarig is, geldt de plicht tot kennisgeving aan derden slechts wanneer de betrokkene verzoekt zijn naaste verwanten of de diplomatieke of consulaire vertegenwoordiging van zijn land in te lichten. De vreemdeling die gehuwd is, of een levenspartner heeft, dient de gelegenheid te worden geboden die persoon te doen inlichten omtrent zijn vrijheidsontneming. De kennisgeving gebeurt zo mogelijk telefonisch. Indien de kennisgeving moet worden gedaan aan een persoon buiten Nederland, wordt de snelst mogelijke weg gevolgd. In dat geval kan het de betrokkene worden toegestaan te telefoneren of te telefaxen.
 
-Ingevolge een tussen Nederland en Groot-Brittannië gesloten overeenkomst dient de betrokken Britse consul steeds – dus ook indien de vreemdeling niet daarom heeft verzocht – terzake te worden geïnformeerd, indien de maatregel tegen een Britse onderdaan wordt getroffen. Dit met het oog op het verlenen van eventuele diplomatieke of consulaire bijstand.
-
 ### 3.11. Beëindiging van de vrijheidsontneming
 
 Zodra de grond van de vrijheidsontneming niet meer aanwezig is, heft de Korpschef respectievelijk de Commandant der KMar de maatregel op. De opheffing moet plaatsvinden:
 
-De gelegenheid om Nederland te verlaten bestaat indien de vreemdeling beschikt over een geldig document voor grensoverschrijding en vlieg- of reistickets (of voldoende middelen van bestaan). Voor vertrek naar een derde land kan van de vreemdeling gevraagd worden dat hij bovendien beschikt over een geldig visum of een geldige verblijfsvergunning voor dat land.
+Zodra de grond van de vrijheidsontneming niet meer aanwezig is, heft de Korpschef respectievelijk de Commandant der KMar de maatregel op. De opheffing moet plaatsvinden:
 
-Bij het opheffen van de maatregel dient gebruik gemaakt te worden van [model M113](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M113&z=2006-07-16&g=2006-07-16).
+Bij het opheffen van de maatregel dient gebruik gemaakt te worden van [model M113](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M113&z=2006-07-16&g=2006-10-13).
 
-Indien de termijn van [artikel 50 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=50) verstreken is, vervalt de vrijheidsbeneming van rechtswege.
+Bij het opheffen van de maatregel dient gebruik gemaakt te worden van [model M113](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M113&z=2006-11-16&g=2006-10-13).
 
 ### 4. Onderzoek van vervoermiddelen
+
+Indien ambtenaren belast met grensbewaking of de ambtenaren belast met het toezicht op vreemdelingen op grond van feiten en omstandigheden die, naar objectieve maatstaven gemeten, een redelijk vermoeden hebben dat met een vervoermiddel of luchtvaartuig personen worden vervoerd met betrekking tot wie zij een toezichthoudende taak hebben, dan zijn zij bevoegd het vervoermiddel te onderzoeken. De ambtenaren zijn in dat geval bevoegd van de bestuurder van het voertuig, van de schipper van het vaartuig of de gezagvoerder van het luchtvaartuig te vorderen dat deze zijn vervoermiddel stilhoudt en naar een door hen aangewezen plaats overbrengt teneinde het vervoermiddel te onderzoeken op de aanwezigheid van vreemdelingen. [Artikel 51 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=51) is te beschouwen als een aanvulling op [artikel 50 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=50). Dit betekent dat indien in het staandegehouden vervoermiddel een vreemdeling wordt aangetroffen van wie redelijkerwijs kan worden vermoed dat hij illegaal in Nederland verblijft, deze vreemdeling kan worden onderworpen aan de dwangmiddelen bedoeld in [artikel 50, tweede tot en met vijfde lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=50) (zie A3/3).
 
 Indien ambtenaren belast met grensbewaking of de ambtenaren belast met het toezicht op vreemdelingen op grond van feiten en omstandigheden die, naar objectieve maatstaven gemeten, een redelijk vermoeden hebben dat met een vervoermiddel of luchtvaartuig personen worden vervoerd met betrekking tot wie zij een toezichthoudende taak hebben, dan zijn zij bevoegd het vervoermiddel te onderzoeken. De ambtenaren zijn in dat geval bevoegd van de bestuurder van het voertuig, van de schipper van het vaartuig of de gezagvoerder van het luchtvaartuig te vorderen dat deze zijn vervoermiddel stilhoudt en naar een door hen aangewezen plaats overbrengt teneinde het vervoermiddel te onderzoeken op de aanwezigheid van vreemdelingen. [Artikel 51 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=51) is te beschouwen als een aanvulling op [artikel 50 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=50). Dit betekent dat indien in het staandegehouden vervoermiddel een vreemdeling wordt aangetroffen van wie redelijkerwijs kan worden vermoed dat hij illegaal in Nederland verblijft, deze vreemdeling kan worden onderworpen aan de dwangmiddelen bedoeld in [artikel 50, tweede tot en met vijfde lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=50) (zie A3/3).
 
@@ -3873,23 +3875,21 @@ Ingevolge [artikel 5:19 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&art
 
 Voor wat betreft het gebruik maken van de bevoegdheid tot het onderzoek van vervoermiddelen wordt voor het operationeel toezicht ter bestrijding van illegale immigratie verwezen naar A3/2.4.
 
-Voor wat betreft het gebruik maken van de bevoegdheid tot het onderzoek van vervoermiddelen in het kader van het operationele toezicht in het binnenland kunnen onder andere de volgende aanwijzingen aanleiding geven van deze bevoegdheid gebruik te maken:
-
 ### 5. Bevoegdheden ten aanzien van reis- en verblijfsdocumenten
 
-### 5.1. Algemeen
+### 5. Bevoegdheden ten aanzien van reis- en verblijfsdocumenten
 
 De ambtenaren belast met grensbewaking en de ambtenaren belast met het toezicht op vreemdelingen zijn bevoegd om, ter vervulling van hun taken, reis- en identiteitspapieren van personen in te nemen, tijdelijk in bewaring te nemen alsmede om hierin aantekeningen te maken.
 
 ### 5.2. Stellen van aantekeningen
 
-### 5.2.1. Algemeen
+### 5.2. Stellen van aantekeningen
+
+In andere delen van deze circulaire wordt – voorzover het de daarin behandelde onderwerpen betreft – eveneens aandacht besteed aan voorschriften op het gebied van het stellen of doorhalen van aantekeningen in documenten voor grensoverschrijding van vreemdelingen.
 
 In andere delen van deze circulaire wordt – voorzover het de daarin behandelde onderwerpen betreft – eveneens aandacht besteed aan voorschriften op het gebied van het stellen of doorhalen van aantekeningen in documenten voor grensoverschrijding van vreemdelingen.
 
 In deze paragraaf worden de terzake geldende voorschriften die van meer algemene aard zijn behandeld.
-
-Als algemene richtlijnen gelden:
 
 ### 5.2.2. Aantekeningen door grensbewakingsambtenaren
 
@@ -3899,27 +3899,27 @@ Op grond van [artikel 52, eerste lid, Vw](https://wetten.overheid.nl/jci1.3:c:BW
 
 De [artikelen 4.29 tot en met 4.36 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.29) zijn in dit kader met name relevant.
 
-De ambtenaren belast met het toezicht op vreemdelingen, zijn mede bevoegd om in de reispapieren van vreemdelingen aantekeningen te stellen omtrent visa (zie A2/4.3). Op grond van [artikel 4.29, derde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.29) moet de aantekening in een aantal gevallen echter worden gesteld op een aan de vreemdeling te verstrekken afzonderlijk inlegblad (van het in [bijlage 8 VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=8) gevoegde model, tevens vermeldende diens naam, voornamen, geboortedatum en een omschrijving van diens identiteitspapier).
+De [artikelen 4.29 tot en met 4.36 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.29) zijn in dit kader met name relevant.
 
-Wanneer in het grensoverschrijdingsdocument van een vreemdeling geen inreisstempel is aangebracht, mag hieraan het vermoeden worden verbonden dat de houder niet of niet langer voldoet aan de voorwaarden inzake de rechtmatige verblijfsduur. Indien de vreemdeling het vermoeden heeft kunnen weerleggen dat hij illegaal in Nederland verblijft, dient de bevoegde ambtenaar in het grensoverschrijdingsdocument van de vreemdeling een aantekening te plaatsen op welke datum en welke plaats hij de buitengrens van één van de Schengenlidstaten heeft overschreden (zie A3/3.6.3).
+De ambtenaren belast met het toezicht op vreemdelingen, zijn mede bevoegd om in de reispapieren van vreemdelingen aantekeningen te stellen omtrent visa (zie A2/4.3). Op grond van [artikel 4.29, derde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.29) moet de aantekening in een aantal gevallen echter worden gesteld op een aan de vreemdeling te verstrekken afzonderlijk inlegblad (van het in [bijlage 8 VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=8) gevoegde model, tevens vermeldende diens naam, voornamen, geboortedatum en een omschrijving van diens identiteitspapier).
 
 ### 5.2.4. Doorhaling of vervallenverklaring van aantekeningen
 
 Elke doorhaling of vervallenverklaring van een in het reis- en identiteitspapieren van een vreemdeling gestelde aantekening dient te worden gedateerd en van een paraaf te worden voorzien (zie [artikel 4.29, lid 2, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.29)).
 
-De vervallenverklaring is voorgeschreven in de gevallen waarin overeenkomstig [artikel 4.30](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.30) of [4.31 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.31) gebruik is gemaakt van een in het grensoverschrijdingsdocument van de vreemdeling aangebrachte sticker voor verblijfsaantekeningen (zie [bijlagen 7g](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=7g), [7h](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=7h) en [7i VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=7i)).
+Elke doorhaling of vervallenverklaring van een in het reis- en identiteitspapieren van een vreemdeling gestelde aantekening dient te worden gedateerd en van een paraaf te worden voorzien (zie [artikel 4.29, lid 2, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.29)).
 
-Het doorhalen van een in het grensoverschrijdingsdocument van een vreemdeling gestelde aantekening moet geschieden:
+De vervallenverklaring is voorgeschreven in de gevallen waarin overeenkomstig [artikel 4.30](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.30) of [4.31 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.31) gebruik is gemaakt van een in het grensoverschrijdingsdocument van de vreemdeling aangebrachte sticker voor verblijfsaantekeningen (zie [bijlagen 7g](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=7g), [7h](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=7h) en [7i VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=7i)).
 
 ### 5.3. Tijdelijk in bewaring nemen van reis- en identiteitspapieren
 
-### 5.3.1. Algemeen
+### 5.3. Tijdelijk in bewaring nemen van reis- en identiteitspapieren
 
 ### 5.3.2. Gevallen waarin tijdelijke bewaring geoorloofd is
 
 ### 6. Binnentreden
 
-### 6.1. Algemeen
+### 6. Binnentreden
 
 ### 6.2. Binnentreden met toestemming van de bewoner
 
@@ -3927,13 +3927,13 @@ Het doorhalen van een in het grensoverschrijdingsdocument van een vreemdeling ge
 
 ### 7. Verplichtingen in het kader van toezicht
 
-### 7.1. Inleiding
+### 7. Verplichtingen in het kader van toezicht
 
 ### 7.2. Verplichting tot opgave van verhuizing
 
 ### 7.3. Verplichting tot het verstrekken van gegevens
 
-### 7.3.1. Algemeen
+### 7.3. Verplichting tot het verstrekken van gegevens
 
 ### 7.3.2. Op vordering verstrekken van gegevens
 
@@ -3945,27 +3945,29 @@ Zie [artikel 4.39 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.
 
 Zie [artikel 4.40 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.40). Niet alleen de vreemdeling zelf moet van zijn aanwezigheid onmiddellijk mededeling doen aan de Korpschef indien hij niet rechtmatig in Nederland verblijft. Ook degene die nachtverblijf verschaft aan een vreemdeling van wie hij weet of redelijkerwijs kan vermoeden dat deze niet rechtmatig in Nederland verblijft, moet daarvan onmiddellijk mededeling doen aan de Korpschef van het regionale politiekorps waarin de gemeente waar hij verblijft is gelegen.
 
-Degene op wie deze verplichting rust kan zowel Nederlander als vreemdeling zijn. Er zijn geen voorschriften gegeven voor de vorm waarin deze mededeling moet worden gedaan. De strekking van deze bepaling is om de opsporing van illegaal in Nederland verblijvende vreemdelingen te vergemakkelijken en om hen, die – te kwader trouw – aan dit illegale verblijf medewerking verlenen, strafbaar te stellen (zie [artikel 108 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=108)).
+Zie [artikel 4.40 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.40). Niet alleen de vreemdeling zelf moet van zijn aanwezigheid onmiddellijk mededeling doen aan de Korpschef indien hij niet rechtmatig in Nederland verblijft. Ook degene die nachtverblijf verschaft aan een vreemdeling van wie hij weet of redelijkerwijs kan vermoeden dat deze niet rechtmatig in Nederland verblijft, moet daarvan onmiddellijk mededeling doen aan de Korpschef van het regionale politiekorps waarin de gemeente waar hij verblijft is gelegen.
 
 ### 7.3.5. Verstrekken gegevens over (vroegere) buitenlandse werknemers
 
 Zie [artikel 4.41 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.41). In een aantal gevallen zijn werkgevers verplicht, ten aanzien van vreemdelingen die bij hen te werk gesteld worden, in dienst zijn of in dienst zijn geweest, desgevraagd gegevens te verstrekken aan de Korpschef.
 
-Deze verplichting geldt voor daartoe gevorderde werkgevers van wie bij de Korpschef bekend is dat zij vreemdelingen in dienst gehad hebben die illegaal hier te lande verbleven of die in Nederland ongeoorloofd arbeid verrichten. De gevraagde gegevens dienen onmiddellijk of binnen een door de Korpschef aangegeven termijn te worden verstrekt.
+Zie [artikel 4.41 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.41). In een aantal gevallen zijn werkgevers verplicht, ten aanzien van vreemdelingen die bij hen te werk gesteld worden, in dienst zijn of in dienst zijn geweest, desgevraagd gegevens te verstrekken aan de Korpschef.
 
 ### 7.3.6. Mededeling omtrent zoeken of gaan verrichten van arbeid
 
 Zie [artikel 4.42 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.42). De vreemdeling die in Nederland rechtmatig verblijft gedurende de vrije termijn bedoeld in [artikel 12 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0006855&artikel=12) zolang het verblijf bij of krachtens dat artikel is toegestaan – en die arbeid gaat zoeken of arbeid gaat verrichten – is verplicht daarvan onmiddellijk mededeling te doen aan de Korpschef van het regionale politiekorps van de gemeente waar hij verblijft. Een aantal categorieën, genoemd in [artikel 4.42, tweede lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.42), is vrijgesteld van deze verplichting.
 
-De beperking die in het derde lid van [artikel 4.42 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.42) is opgenomen vloeit voort uit [artikel 3.32 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.32), waarin is bepaald dat geen verblijfsvergunning wordt verstrekt indien de arbeid geheel of gedeeltelijk bestaat uit het verrichten van seksuele handelingen met derden of het verlenen van seksuele diensten aan derden. Het ligt voor de hand in dit geval evenmin vrijstelling van de meldplicht te verlenen.
+Zie [artikel 4.42 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.42). De vreemdeling die in Nederland rechtmatig verblijft gedurende de vrije termijn bedoeld in [artikel 12 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0006855&artikel=12) zolang het verblijf bij of krachtens dat artikel is toegestaan – en die arbeid gaat zoeken of arbeid gaat verrichten – is verplicht daarvan onmiddellijk mededeling te doen aan de Korpschef van het regionale politiekorps van de gemeente waar hij verblijft. Een aantal categorieën, genoemd in [artikel 4.42, tweede lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.42), is vrijgesteld van deze verplichting.
 
 ### 7.3.7. Mededeling omtrent het vervallen van het verblijfsdoel
 
 Zie [artikel 4.43 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.43). De vreemdeling die rechtmatig in Nederland verblijft op grond van een verblijfsvergunning regulier voor bepaalde tijd, is verplicht, indien de beperking waaronder het verblijf is toegestaan, is komen te vervallen, daarvan onmiddellijk mededeling te doen aan de Korpschef van het regionale politiekorps waarin de gemeente waar hij verblijft, is gelegen.
 
-Voldoet een vreemdeling niet meer aan de beperking waaronder de vergunning tot verblijf is verleend dan kan deze worden ingetrokken, dan wel kan de beperking worden gewijzigd of opgeheven.
+Zie [artikel 4.43 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.43). De vreemdeling die rechtmatig in Nederland verblijft op grond van een verblijfsvergunning regulier voor bepaalde tijd, is verplicht, indien de beperking waaronder het verblijf is toegestaan, is komen te vervallen, daarvan onmiddellijk mededeling te doen aan de Korpschef van het regionale politiekorps waarin de gemeente waar hij verblijft, is gelegen.
 
 ### 7.3.8. Verplichtingen op grond van de Awb
+
+Zoals hierboven al is aangegeven, kan het voorkomen dat een ambtenaar belast met grensbewaking of met toezicht op vreemdelingen gegevens nodig heeft van een vreemdeling, maar dat het verstrekken van die gegevens niet kan worden gevorderd op basis van de [Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823). In die gevallen kan een vordering de benodigde gegevens te verstrekken of bescheiden te tonen, worden gebaseerd op de [Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537). Voorwaarde daarvoor is dat de vordering verband houdt met de uitoefening van de toezichthoudende taak van de ambtenaar. Voorts dient in het oog gehouden te worden dat van de bevoegdheden alleen gebruik wordt gemaakt indien dit voor de vervulling van de taak redelijkerwijs noodzakelijk is (het evenredigheidsbeginsel).
 
 Zoals hierboven al is aangegeven, kan het voorkomen dat een ambtenaar belast met grensbewaking of met toezicht op vreemdelingen gegevens nodig heeft van een vreemdeling, maar dat het verstrekken van die gegevens niet kan worden gevorderd op basis van de [Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823). In die gevallen kan een vordering de benodigde gegevens te verstrekken of bescheiden te tonen, worden gebaseerd op de [Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537). Voorwaarde daarvoor is dat de vordering verband houdt met de uitoefening van de toezichthoudende taak van de ambtenaar. Voorts dient in het oog gehouden te worden dat van de bevoegdheden alleen gebruik wordt gemaakt indien dit voor de vervulling van de taak redelijkerwijs noodzakelijk is (het evenredigheidsbeginsel).
 
@@ -3973,11 +3975,11 @@ De in het kader van het verstrekken van inlichtingen en het tonen van bescheiden
 
 Alle vreemdelingen zijn op grond van voornoemde artikelen van de [Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) tegenover elke ambtenaar die belast is met de grensbewaking of met het toezicht op vreemdelingen verplicht desgevorderd bijvoorbeeld gegevens te verstrekken en de in hun bezit zijnde bescheiden te tonen die kunnen dienen ter vaststelling van:
 
-De medewerkingsplicht van [artikel 5:20 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) houdt in dat de vreemdeling verplicht is tot het verstrekken van de gevraagde inlichtingen en tot afgifte van de gevorderde gegevens en bescheiden. Het weigeren van de vereiste medewerking is strafbaar gesteld in [artikel 184 WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=184).
+### 7.4. Verlenen van medewerking aan identificatie
 
 ### 7.4. Verlenen van medewerking aan identificatie
 
-### 7.4.1. Algemeen
+De strekking van [artikel 54, eerste lid, onder c, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=54) is om de tot opsporing van strafbare feiten bevoegde ambtenaren, als zij bij de uitoefening van hun taken in aanraking komen met vreemdelingen, in staat te stellen de beschikking te krijgen over de primaire gegevens die nodig zijn om te kunnen vaststellen met welke vreemdeling zij te doen hebben, of deze vreemdeling op regelmatige wijze is binnengekomen en of het hem is toegestaan in Nederland te verblijven.
 
 De strekking van [artikel 54, eerste lid, onder c, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=54) is om de tot opsporing van strafbare feiten bevoegde ambtenaren, als zij bij de uitoefening van hun taken in aanraking komen met vreemdelingen, in staat te stellen de beschikking te krijgen over de primaire gegevens die nodig zijn om te kunnen vaststellen met welke vreemdeling zij te doen hebben, of deze vreemdeling op regelmatige wijze is binnengekomen en of het hem is toegestaan in Nederland te verblijven.
 
@@ -3985,9 +3987,9 @@ In dit verband moet niet alleen worden gedacht aan ambtenaren die specifiek take
 
 Uiteraard dienen aan de vreemdeling bij het uitoefenen van de identiteitscontrole slechts die gegevens te worden gevraagd die voor de toepassing van het bepaalde bij en krachtens de [Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) van belang zijn.
 
-Vreemdelingen die beschikken over een verblijfsdocument dienen niet verplicht te worden nadere inlichtingen te verstrekken. Slechts als er gegronde aanleiding is te veronderstellen dat zij de voorschriften op het gebied van toezicht op vreemdelingen niet zijn nagekomen, dient de vreemdeling daaromtrent te worden ondervraagd.
-
 ### 7.4.2. Foto’s en vingerafdrukken
+
+Zie [artikel 4.45 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.45). De verplichtingen gelden tegenover de met de grensbewaking belaste ambtenaren en tegenover ambtenaren belast met het vreemdelingentoezicht.
 
 Zie [artikel 4.45 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.45). De verplichtingen gelden tegenover de met de grensbewaking belaste ambtenaren en tegenover ambtenaren belast met het vreemdelingentoezicht.
 
@@ -3997,15 +3999,15 @@ De in [artikel 4.45, onder b, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR001182
 
 Het tien-vingerafdrukkenformulier moet onmiddellijk worden gezonden naar de DNRI, ter attentie van de afdeling Dactyloscopie. Achter op het formulier dient te worden vermeld aan de hand van welke gegevens de identiteit van de vreemdeling, zoals deze op het formulier wordt vermeld, is onderzocht. Voorts moet worden aangegeven waarom de vingerafdrukken werden genomen. Het formulier dient te worden voorzien van het dossier- en V-nummer van de IND. Zonodig dient het vakje ‘Asiel’ te worden aangekruist. Op de buitenzijde van de enveloppe dient in dat geval in de linker bovenhoek ‘Asiel’ te worden vermeld.
 
-Nota bene, in het geval van het gebruik van vingerafdrukkenformulieren bij de voorbereiding van de uitzetting van vreemdelingen, meer specifiek bij het verkrijgen van vervangende reisdocumenten, dient een speciaal en neutraal vingerafdrukkenformulier te worden gebruikt, waarop verwijzingen naar de eventuele verblijfshistorie van de vreemdelingen nadrukkelijk ontbreken (dactyloscopisch formulier Identiteitsonderzoek).
-
 ### 7.5. Het verlenen van medewerking aan een medisch onderzoek
 
 De vreemdeling die naar Nederland is gekomen voor een verblijf van langer dan drie maanden is ingevolge [artikel 4.46, eerste lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.46) verplicht om een TBC-onderzoek te ondergaan (zie [B1/2.2.5](onbekend) voor de procedure). Deze verplichting geldt niet voor de in [artikel 4.46, tweede lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.46) bedoelde vreemdelingen.
 
 ### 7.6. Aanmelding na binnenkomst in Nederland
 
-### 7.6.1. Verblijf langer dan drie maanden
+### 7.6. Aanmelding na binnenkomst in Nederland
+
+Zie [artikel 4.47 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.47). De vreemdeling die rechtmatig verblijft gedurende de vrije termijn bedoeld in [artikel 12 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=12), zolang het verblijf van de vreemdeling bij of krachtens dat artikel is toegestaan, en die naar Nederland is gekomen voor een verblijf van langer dan drie maanden is verplicht zich binnen drie dagen na binnenkomst in Nederland in persoon aan te melden bij de Korpschef van het regionale politiekorps waarin de gemeente waar hij verblijft is gelegen. Voor de berekening van het verblijf worden voorgaande verblijven in Nederland binnen een tijdvak van zes maanden onmiddellijk voorafgaande aan de binnenkomst mede in aanmerking genomen.
 
 Zie [artikel 4.47 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.47). De vreemdeling die rechtmatig verblijft gedurende de vrije termijn bedoeld in [artikel 12 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=12), zolang het verblijf van de vreemdeling bij of krachtens dat artikel is toegestaan, en die naar Nederland is gekomen voor een verblijf van langer dan drie maanden is verplicht zich binnen drie dagen na binnenkomst in Nederland in persoon aan te melden bij de Korpschef van het regionale politiekorps waarin de gemeente waar hij verblijft is gelegen. Voor de berekening van het verblijf worden voorgaande verblijven in Nederland binnen een tijdvak van zes maanden onmiddellijk voorafgaande aan de binnenkomst mede in aanmerking genomen.
 
@@ -4013,9 +4015,9 @@ In het algemeen rust de aanmeldplicht op de vreemdeling zelf. Een uitzondering o
 
 De verplichting tot aanmelding (dat wil zeggen: melding van hun aanwezigheid hier te lande) geldt niet voor EU-/EER-onderdanen en Zwitserse onderdanen. Wel geldt dat zij zich in de vierde maand na binnenkomst dienen te melden bij de IND ter inschrijving in de vreemdelingenadministratie (en daarmee in de BVV) (zie [B10](onbekend)).
 
-Na aanmelding wordt in het document voor grensoverschrijding van de vreemdeling daarvan een aantekening gesteld (zie [artikel 4.29, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.29), juncto [4.30, eerste lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.30)). Daarbij wordt gebruik gemaakt van een speciale sticker (zie [bijlage 7 bij het VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=7)). In een aantal gevallen dient deze aantekening op een afzonderlijk inlegblad te worden gesteld (zie [artikel 4.29, derde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.29)).
-
 ### 7.6.2. Verblijf korter dan drie maanden
+
+Zie [artikel 4.48. Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.48). De vreemdeling die rechtmatig verblijft gedurende de vrije termijn bedoeld in [artikel 12 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=12), zolang het verblijf van de vreemdeling bij of krachtens dat artikel is toegestaan, en die naar Nederland is gekomen voor een verblijf van ten hoogste drie maanden is, voorzover de Minister dat heeft voorgeschreven, verplicht zich binnen drie dagen na binnenkomst in Nederland in persoon aan te melden bij de Korpschef van het regionale politiekorps waarin de gemeente waar hij verblijft is gelegen, indien de duur van het voorgenomen verblijf langer is dan drie dagen.
 
 Zie [artikel 4.48. Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.48). De vreemdeling die rechtmatig verblijft gedurende de vrije termijn bedoeld in [artikel 12 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=12), zolang het verblijf van de vreemdeling bij of krachtens dat artikel is toegestaan, en die naar Nederland is gekomen voor een verblijf van ten hoogste drie maanden is, voorzover de Minister dat heeft voorgeschreven, verplicht zich binnen drie dagen na binnenkomst in Nederland in persoon aan te melden bij de Korpschef van het regionale politiekorps waarin de gemeente waar hij verblijft is gelegen, indien de duur van het voorgenomen verblijf langer is dan drie dagen.
 
@@ -4023,13 +4025,13 @@ In het algemeen rust de aanmeldplicht op de vreemdeling zelf. Een uitzondering o
 
 De verplichting tot aanmelding geldt niet voor EU-/EER-onderdanen en Zwitserse onderdanen en voor de vreemdeling die zijn intrek neemt in een hotel of in een inrichting, waarvan de eigenaar, houder of beheerder bij of krachtens gemeentelijke verordening verplicht is aan de daartoe aangewezen autoriteit kennis te geven van het verschaffen van nachtverblijf aan personen.
 
-Na aanmelding wordt in het document voor grensoverschrijding van de vreemdeling daarvan een aantekening gesteld (zie [artikel 4.29, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.29), juncto [4.30, eerste lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.30)). Daarbij wordt gebruik gemaakt van een speciale sticker (zie [bijlage 7 bij het VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=7)). In een aantal gevallen dient deze aantekening op een afzonderlijk inlegblad te worden gesteld (zie [artikel 4.29, derde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.29)).
+### 7.7. Periodieke aanmeldingen
 
 ### 7.7. Periodieke aanmeldingen
 
 ### 7.7.1. Periodieke aanmelding ex [artikel 4.51 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.51)
 
-### 7.7.1.1. Algemeen
+Periodieke aanmelding bij de Korpschef van het regionale politiekorps waaronder de gemeente van verblijf van de vreemdeling is gelegen, is verplicht voor de vreemdeling:
 
 Periodieke aanmelding bij de Korpschef van het regionale politiekorps waaronder de gemeente van verblijf van de vreemdeling is gelegen, is verplicht voor de vreemdeling:
 
@@ -4037,9 +4039,9 @@ De vreemdeling dient zich wekelijks te melden, tenzij de Korpschef een andere te
 
 De verplichting geldt niet voor onderdanen van de EU, de EER en Zwitserland, alsmede vreemdelingen die rechtens van hun vrijheid zijn beroofd.
 
-Bij aanvang van de procedure tot het verlenen van een verblijfsvergunning dient de vreemdeling er op te worden gewezen dat op hem, hangende de beslissing op zijn aanvraag een meldplicht rust. Zie [C3/13.2](onbekend) met betrekking tot de meldplicht ex [artikel 4.51 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.51) voor asielzoekers.
-
 ### 7.7.1.2. Ontheffing en termijnstelling
+
+De Korpschef kan ontheffing van de meldplicht verlenen. Voorts kan hij een andere meldingstermijn dan de wekelijkse aan de meldplicht verbinden. Indien de Korpschef van mening is dat ontheffing niet langer gewenst is, kan hij de ontheffing beëindigen. De vreemdeling dient steeds op hem aangaande wijzigingen betreffende de meldplicht te worden gewezen.
 
 De Korpschef kan ontheffing van de meldplicht verlenen. Voorts kan hij een andere meldingstermijn dan de wekelijkse aan de meldplicht verbinden. Indien de Korpschef van mening is dat ontheffing niet langer gewenst is, kan hij de ontheffing beëindigen. De vreemdeling dient steeds op hem aangaande wijzigingen betreffende de meldplicht te worden gewezen.
 
@@ -4055,21 +4057,21 @@ De gedachte hierachter is dat een zeker toezichtsregime met betrekking tot de me
 
 Geen aanleiding om (nog langer) ontheffing te verlenen bestaat in zijn algemeenheid indien;
 
-De meldplicht voor de laatstgenoemde categorie (definitieve aanzegging tot vertrek) geldt zolang de finale vertrektermijn nog niet is verstreken. Voor asielzoekers geldt daarbij evenwel het volgende: de uitgeprocedeerde asielzoeker wordt, zolang de opvangvoorzieningen nog niet zijn beëindigd, in het bezit gelaten van het W-document. Derhalve blijft voor een dergelijke vreemdeling de wekelijkse meldplicht gelden zolang de ontruimingsprocedure voortduurt.
-
 ### 7.7.1.3. Stellen van aantekeningen
 
 Ten bewijze van het opleggen en het voldoen aan de verplichting tot periodieke aanmelding wordt daarvan in het reisdocument van de vreemdeling een aantekening gesteld als volgt:
 
-In afwijking van het bovenstaande wordt een asielzoeker in de opvanglocatie in het bezit gesteld van een registratiekaart meldplicht asielzoekers (zie [C3/13.3](onbekend)).
+Ten bewijze van het opleggen en het voldoen aan de verplichting tot periodieke aanmelding wordt daarvan in het reisdocument van de vreemdeling een aantekening gesteld als volgt:
 
 ### 7.7.1.4. Niet voldoen aan de meldplicht en vertrek van de vreemdeling
 
 Indien de vreemdeling zich ondanks een verplichting daartoe niet houdt aan de meldplicht kan dit een aanwijzing zijn dat hij het land heeft verlaten of dat hij zich definitief aan het toezicht heeft onttrokken. Indien de vreemdeling zich twee achtereenvolgende keren niet houdt aan de meldplicht dient hij gevorderd te worden om in persoon gegevens te verstrekken omtrent de onttrekking aan de meldplicht. Reageert de vreemdeling niet dan kan geconcludeerd worden dat hij Nederland heeft verlaten of zich definitief aan het toezicht heeft onttrokken en dient hij in de vreemdelingenadministratie te worden afgemeld. Voor asielzoekers die in een opvangvoorziening verblijven, geldt een uitzondering op deze regel. Gezien het betrekkelijke gemak waarmee het daadwerkelijke vertrek van de betrokkene kan worden gecontroleerd door de vreemdelingenpolitie ter plaatse, dient in deze gevallen altijd een adrescontrole plaats te vinden, alvorens conclusies over het definitieve vertrek van de vreemdeling worden getrokken. Voorts vereist de omstandigheid dat deze vreemdelingen direct ten laste komen van de openbare kas en het feit dat indien een vreemdeling vertrekt, de woning kan worden betrokken door een andere vreemdeling, dat het vertrek onomstotelijk vast komt te staan.
 
-Over het (aangenomen) vertrek van een vreemdeling wordt de IND geïnformeerd door middel van een formulier [M100](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M100&z=2006-07-16&g=2006-07-16).
+Over het (aangenomen) vertrek van een vreemdeling wordt de IND geïnformeerd door middel van een formulier [M100](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M100&z=2006-07-16&g=2006-10-13).
 
 ### 7.7.2. Individuele verplichting tot periodieke aanmelding
+
+De Minister kan op grond van [artikel 54, tweede lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=54) aan een vreemdeling een individuele verplichting tot periodieke aanmelding bij de Korpschef opleggen. Deze maatregel kan alleen worden opgelegd als dat naar het oordeel van de Minister in het belang van de openbare orde of de nationale veiligheid nodig is.
 
 De Minister kan op grond van [artikel 54, tweede lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=54) aan een vreemdeling een individuele verplichting tot periodieke aanmelding bij de Korpschef opleggen. Deze maatregel kan alleen worden opgelegd als dat naar het oordeel van de Minister in het belang van de openbare orde of de nationale veiligheid nodig is.
 
@@ -4077,17 +4079,17 @@ De verplichting kan worden opgelegd aan alle hier te lande verblijvende vreemdel
 
 Bij de toepassing van deze maatregel geeft de Minister terzake een beschikking af. Op grond van [artikel 75, aanhef en onder a, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=75) kan tegen deze beschikking geen bezwaar worden gemaakt. De vreemdeling kan tegen deze beschikking rechtstreeks in beroep gaan bij de rechtbank.
 
-Omtrent het opleggen van de verplichting wordt door de Korpschef de bij [artikel 4.29, eerste lid, onder e, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.29) voorgeschreven aantekening in het document voor grensoverschrijding van de vreemdeling gesteld, met dien verstande dat in de gevallen, omschreven in het derde lid van [artikel 4.29 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.29), de aantekening geschiedt op een afzonderlijk inlegblad.
-
 ### 7.8. Het inleveren van het document bedoeld in [artikel 9 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=9)
 
 Zie [artikel 4.52 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.52). In de volgende gevallen is de vreemdeling verplicht het document als bedoeld in [artikel 9 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=9) in persoon in te leveren bij de Korpschef van het regionale politiekorps waar hij verblijft:
 
-Het niet voldoen aan deze verplichting is ingevolge het bepaalde in [artikel 108 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=108) een strafbaar feit.
+Zie [artikel 4.52 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.52). In de volgende gevallen is de vreemdeling verplicht het document als bedoeld in [artikel 9 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=9) in persoon in te leveren bij de Korpschef van het regionale politiekorps waar hij verblijft:
 
 ### 7.9. Toezicht op documenten
 
-### 7.9.1. Aangifte van vermissing van documenten
+### 7.9. Toezicht op documenten
+
+De vreemdeling die rechtmatig verblijft als bedoeld in [artikel 8, onder a tot en met e, dan wel l, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) en wiens document, bedoeld in [artikel 9 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=9), waaruit het rechtmatige verblijf blijkt, vermist wordt, verloren is gegaan of ondeugdelijk is geworden voor identificatie, doet daarvan onmiddellijk in persoon aangifte bij de Korpschef van het regionale politiekorps waarin de gemeente waar hij woon- of verblijfplaats heeft is gelegen.
 
 De vreemdeling die rechtmatig verblijft als bedoeld in [artikel 8, onder a tot en met e, dan wel l, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) en wiens document, bedoeld in [artikel 9 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=9), waaruit het rechtmatige verblijf blijkt, vermist wordt, verloren is gegaan of ondeugdelijk is geworden voor identificatie, doet daarvan onmiddellijk in persoon aangifte bij de Korpschef van het regionale politiekorps waarin de gemeente waar hij woon- of verblijfplaats heeft is gelegen.
 
@@ -4095,9 +4097,9 @@ Het niet voldoen aan de verplichting van [artikel 4.44 Vb](https://wetten.overhe
 
 Van de aangifte dient proces-verbaal te worden opgemaakt. Een afschrift van het proces-verbaal dient te worden gezonden aan de IND. De IND zal verder zorgdragen dat het betreffende documentnummer wordt opgenomen in het Verificatie- en Informatiesysteem van de DNRI.
 
-Voorts dient in alle gevallen waarin wordt geconstateerd dat onregelmatigheden zijn gepleegd met door de Nederlandse overheid afgegeven reisdocumenten, daarvan bericht te worden gezonden aan het ministerie van BZK.
-
 ### 7.9.2. Vervanging van identiteitspapieren
+
+Aanvragen met betrekking tot het vervangen of het vernieuwen van verblijfsdocumenten om redenen als genoemd in [artikel 4.22, eerste lid, van het Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.22) kunnen worden gezonden naar de IND. De aanvrager kan daartoe een aanvraagformulier aanvragen.
 
 Aanvragen met betrekking tot het vervangen of het vernieuwen van verblijfsdocumenten om redenen als genoemd in [artikel 4.22, eerste lid, van het Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.22) kunnen worden gezonden naar de IND. De aanvrager kan daartoe een aanvraagformulier aanvragen.
 
@@ -4105,17 +4107,17 @@ De afgifte van documenten als bedoeld in [artikel 4.21 Vb](https://wetten.overhe
 
 Documenten worden vervangen indien de vreemdeling aan wie het document werd afgegeven overeenkomstig [artikel 4.44 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.44) aangifte heeft gedaan van vermissing, verlies of het voor identificatie ondeugdelijk worden van het document.
 
-Wordt niet aanstonds tot afgifte van een nieuw document aan de vreemdeling overgegaan dan verdient het aanbeveling een verklaring af te geven waaruit de aangifte blijkt.
-
 ### 7.9.3. Gedragslijn bij vreemdelingen zonder documenten
+
+Een vreemdeling die, bij aanmelding of bij aantreffen, niet (meer) in het bezit is van een geldig document voor grensoverschrijding, dient op grond van [artikel 50, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=50) te worden staande gehouden en te worden gehoord. Zie ook paragraaf A3/3. Zijn identiteit dient te worden vastgelegd aan de hand van naamsopgave, foto’s en dactyloscopisch signalement met handtekening van de gedactyloscopeerde.
 
 Een vreemdeling die, bij aanmelding of bij aantreffen, niet (meer) in het bezit is van een geldig document voor grensoverschrijding, dient op grond van [artikel 50, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=50) te worden staande gehouden en te worden gehoord. Zie ook paragraaf A3/3. Zijn identiteit dient te worden vastgelegd aan de hand van naamsopgave, foto’s en dactyloscopisch signalement met handtekening van de gedactyloscopeerde.
 
 Er moet niet te snel worden afgegaan op de bewering van een vreemdeling dat hij niet (of niet meer) in het bezit is van een geldig document voor grensoverschrijding. In de praktijk is gebleken dat indien de vreemdeling uitvoerig wordt gehoord, door deze soms alsnog een document voor grensoverschrijding wordt overgelegd. Indien door moeilijkheden met de taal geen of onvoldoende contact met de vreemdeling mogelijk is, kan de hulp van een tolk worden ingeroepen, die als voldoende bekwaam en objectief kan worden beschouwd.
 
-Van alle aangetroffen bescheiden, zoals reisbiljetten, diploma’s en dergelijke, moeten fotokopieën worden gemaakt. De Korpschef of de Commandant der KMar zendt zo spoedig mogelijk de aanwezige informatie naar de IND. Met behulp van deze informatie zal dan worden geprobeerd een document voor grensoverschrijding te verkrijgen.
-
 ### 8. Beschikbaar houden en fouillering
+
+Op grond van [artikel 55, eerste lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=55) dient de vreemdeling die een verblijfsvergunning asiel of regulier voor bepaalde tijd heeft ingediend zich beschikbaar te houden conform de aanwijzingen door de bevoegde autoriteit. Zie A6/3.1 en [C3/13.2](onbekend).
 
 Op grond van [artikel 55, eerste lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=55) dient de vreemdeling die een verblijfsvergunning asiel of regulier voor bepaalde tijd heeft ingediend zich beschikbaar te houden conform de aanwijzingen door de bevoegde autoriteit. Zie A6/3.1 en [C3/13.2](onbekend).
 
@@ -4123,13 +4125,11 @@ In [artikel 55, tweede lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&
 
 In [artikel 55, derde lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=55) is de bevoegdheid opgenomen tot een veiligheidsfouillering. Deze bevoegdheid kan worden uitgeoefend door de ambtenaren belast met grensbewaking of met toezicht op vreemdelingen ten aanzien van asielzoekers aan wie de maatregel van [artikel 55, eerste lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=55) opgelegd is, of ten aanzien van de vreemdeling die zich in een verwijdercentrum bevindt. De bevoegdheid heeft tot doel de veiligheid van de vreemdeling zelf, de in een centrum verblijvende asielzoekers en het daar aanwezige personeel te waarborgen. Bij de beoordeling in welke gevallen zal worden gefouilleerd bijvoorbeeld bij het van buiten naar binnen komen van een asielzoeker, dient te worden nagegaan of deze fouillering in verhouding staat tot het doel. Dit betekent dat een asielzoeker die in een centrum verblijft niet op ieder moment kan worden onderworpen aan een veiligheidsfouillering, met andere woorden, er moet een reden of aanleiding voor zijn.
 
-De bevoegdheden van documentzoeking en veiligheidsfouillering mogen slechts uitgeoefend worden met inachtneming van de volgende algemene uitgangspunten:
+### 9. Signaleringen
 
 ### 9. Signaleringen
 
 ### 9.1. Signaleringssystemen
-
-### 9.1.1. Het OPS
 
 In het OPS staan signaleringen uit hoofde van de [Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823). Andere signaleringen in het OPS hebben betrekking op de tenuitvoerlegging van vonnissen en de aanhouding of voorgeleiding van personen die van een strafbaar feit verdacht worden. De tenuitvoerlegging van deze signaleringen behoort niet tot de uitvoering van de [Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823). De bevoegdheden terzake berusten op het [WvSv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) en andere wetgeving. Richtlijnen met betrekking tot deze signaleringen worden gegeven door het OM. Ook het OPS bevat aanwijzingen terzake. Ook kunnen vermiste personen in het OPS worden gesignaleerd.
 
@@ -4137,21 +4137,23 @@ In het OPS staan signaleringen uit hoofde van de [Vw](https://wetten.overheid.nl
 
 Een aantal signaleringen wordt ook opgenomen in het (N)SIS. Dit gemeenschappelijke opsporingssysteem is gebouwd ter uitvoering van het Akkoord van Schengen, dat de afschaffing van de controles aan de binnengrenzen van de Schengenlanden regelt. De centrale computer, waarop ieder Schengenland een aansluiting heeft (voor Nederland het (N)SIS), staat in Straatsburg en kan door alle Schengenlanden geraadpleegd worden. Het (N)SIS is een systeem dat naast de andere systemen (zoals het OPS) opereert. Het is niet zo dat het (N)SIS in de plaats komt van andere nationale systemen. Signaleringen die opgenomen dienen te worden in het (N)SIS, moeten voldoen aan de voorwaarden die vermeld staan in artikelen 95 en 96 SUO.
 
+Een aantal signaleringen wordt ook opgenomen in het (N)SIS. Dit gemeenschappelijke opsporingssysteem is gebouwd ter uitvoering van het Akkoord van Schengen, dat de afschaffing van de controles aan de binnengrenzen van de Schengenlanden regelt. De centrale computer, waarop ieder Schengenland een aansluiting heeft (voor Nederland het (N)SIS), staat in Straatsburg en kan door alle Schengenlanden geraadpleegd worden. Het (N)SIS is een systeem dat naast de andere systemen (zoals het OPS) opereert. Het is niet zo dat het (N)SIS in de plaats komt van andere nationale systemen. Signaleringen die opgenomen dienen te worden in het (N)SIS, moeten voldoen aan de voorwaarden die vermeld staan in artikelen 95 en 96 SUO.
+
 Andere signaleringen in het (N)SIS hebben betrekking op de tenuitvoerlegging van vonnissen en de aanhouding of voorgeleiding van personen die van een strafbaar feit verdacht worden. Ook kunnen vermiste personen in het (N)SIS worden gesignaleerd.
 
 In ieder land dat via het (N)SIS een aansluiting heeft op het (N)SIS is een contactbureau gevestigd: de SIRENE. Dit is het enige permanent beschikbare contactpunt voor aanvullende informatie over gegevens die in het (N)SIS zijn opgenomen of moeten worden opgenomen. De afdeling SIRENE Nederland is ondergebracht bij de DNRI en dient als vraagbaak voor alle zaken die met het (N)SIS te maken hebben. Ook moeten alle ‘hits’ bij de afdeling SIRENE worden gemeld.
-
-Verder zal deze afdeling behulpzaam kunnen zijn bij navraag en advies over signaleringen, internationale opsporingsverzoeken en alle andere voorkomende vragen over internationale rechtshulp.
 
 ### 9.1.3. Verhouding OPS en (N)SIS
 
 Signaleringen in het OPS uit hoofde van de Vw kunnen betrekking hebben op zowel vreemdelingen als EU/EER- en Zwitserse onderdanen. In het (N)SIS mogen geen EU/EER-onderdanen en Zwitserse onderdanen worden gesignaleerd. Zodra een signalering in het (N)SIS wordt opgenomen blijft signalering in het OPS achterwege. Bij bevraging van EU/EER-onderdanen en Zwitserse onderdanen niet behorend tot de EU/EER of de Zwitserse Bondsstaat dient eerst het (N)SIS en vervolgens het OPS te worden geraadpleegd. Controle aan de hand van het OPS blijft achterwege ten aanzien van diplomatieke ambtenaren en andere geprivilegieerde personen.
 
-De IND zal voorstellen tot signalering toetsen aan de voorwaarden voor opnamen in het OPS, dan wel (N)SIS. De politie- en grensbewakingsambtenaren dienen in voorkomende gevallen beide systemen te raadplegen.
+Signaleringen in het OPS uit hoofde van de Vw kunnen betrekking hebben op zowel vreemdelingen als EU/EER- en Zwitserse onderdanen. In het (N)SIS mogen geen EU/EER-onderdanen en Zwitserse onderdanen worden gesignaleerd. Zodra een signalering in het (N)SIS wordt opgenomen blijft signalering in het OPS achterwege. Bij bevraging van EU/EER-onderdanen en Zwitserse onderdanen niet behorend tot de EU/EER of de Zwitserse Bondsstaat dient eerst het (N)SIS en vervolgens het OPS te worden geraadpleegd. Controle aan de hand van het OPS blijft achterwege ten aanzien van diplomatieke ambtenaren en andere geprivilegieerde personen.
 
 ### 9.2. Soorten signaleringen
 
-### 9.2.1. Signalering ‘ONGEW’ (ongewenst verklaard ex [artikel 67 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=67))
+### 9.2. Soorten signaleringen
+
+Deze signalering kan in OPS en (N)SIS voorkomen.
 
 Deze signalering kan in OPS en (N)SIS voorkomen.
 
@@ -4163,9 +4165,9 @@ In dringende gevallen kan de Minister op grond van [artikel 6.7 Vb](https://wett
 
 In alle overige gevallen moet – wanneer de vreemdeling tijdens de uitoefening van de grenscontrole wordt aangetroffen – contact worden opgenomen met de IND om de beschikking te krijgen over een afschrift van het besluit tot ongewenstverklaring en de wijze van uitreiking van dat besluit. Deze bescheiden moeten worden gevoegd bij het op te maken proces-verbaal wegens overtreding van [artikel 197 WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=197).
 
-De ongewenstverklaring eindigt pas indien de betrokken vreemdeling daartoe een aanvraag indient en deze aanvraag wordt ingewilligd. De duur van de signalering ‘ONGEW’ is derhalve afhankelijk van een tot opheffing van de ongewenstverklaring strekkende aanvraag en de inwilliging ervan. Eerst nadat de aanvraag tot opheffing is ingewilligd, kan de signalering in OPS en (N)SIS vervallen worden verklaard.
-
 ### 9.2.2. Signalering ‘OVR’ (ongewenst vreemdeling)
+
+Deze signalering kan onder alle hieronder genoemde voorwaarden in zowel OPS als in het (N)SIS voorkomen.
 
 Deze signalering kan onder alle hieronder genoemde voorwaarden in zowel OPS als in het (N)SIS voorkomen.
 
@@ -4185,9 +4187,9 @@ In de gevallen bedoeld onder 1 tot en met 6 vangt de termijn van signalering aan
 
 In alle gevallen kan de betrokken vreemdeling verzoeken om de signalering op te heffen door een daartoe strekkend gemotiveerd verzoek in te dienen bij de DNRI (zie [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=35) en [artikel 36 Wbp](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=36)). Verzoeken tot opheffing signalering en bezwaarschriften worden doorgestuurd aan en behandeld door de IND.
 
-Vreemdelingen die gedurende enige tijd om beleidsmatige dan wel technische redenen niet verwijderd mogen of kunnen worden, worden niet gesignaleerd gedurende deze periode.
-
 ### 9.3. Handelwijze bij een als ongewenst gesignaleerde vreemdeling
+
+Een vreemdeling die in het kader van grensbewaking wordt aangetroffen en die staat gesignaleerd zoals hiervoor omschreven, wordt in principe de toegang geweigerd op grond van [artikel 3, eerste lid, aanhef en onder b of d, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=3). Er dient voordat tot toegangsweigering wordt overgegaan echter contact te worden opgenomen met de IND indien het een vreemdeling betreft als bedoeld in A2/5.5.1.
 
 Een vreemdeling die in het kader van grensbewaking wordt aangetroffen en die staat gesignaleerd zoals hiervoor omschreven, wordt in principe de toegang geweigerd op grond van [artikel 3, eerste lid, aanhef en onder b of d, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=3). Er dient voordat tot toegangsweigering wordt overgegaan echter contact te worden opgenomen met de IND indien het een vreemdeling betreft als bedoeld in A2/5.5.1.
 
@@ -4195,9 +4197,9 @@ Een vreemdeling die in het kader van binnenlands vreemdelingentoezicht wordt aan
 
 Indien aannemelijk is dat de verwijdering uit Nederland van een vreemdeling die terzake van een strafbaar feit gesignaleerd staat, na het ondergaan van zijn straf of na beëindiging van het tegen hem in te stellen strafrechtelijk onderzoek, op moeilijkheden zal stuiten of aanmerkelijke kosten met zich mee zal brengen, moet onmiddellijk contact met de IND worden opgenomen. Dit laatste dient in ieder geval te geschieden indien een terzake van een strafbaar feit gesignaleerde vreemdeling niet in het bezit is van een geldig document voor grensoverschrijding of houder is van een (niet Nederlands) vreemdelingen- of vluchtelingenpaspoort.
 
-Indien de gesignaleerde vreemdeling in het bezit is van een verblijfsvergunning voor Nederland of een van de andere Schengenlanden, dan wel een aanvraag tot verblijf indient of heeft ingediend, dan wel een verblijfsvergunning wil verlengen, is de procedure zoals vermeld onder A3/9.4 van toepassing.
-
 ### 9.4. Signaleringen en verblijfstitels/verblijfsaanvragen
+
+Artikel 25 SUO legt de verdragspartners de verplichting op om overleg te plegen met een Schengenstaat die een vreemdeling, niet zijnde een EU/EER-onderdaan of een Zwitserse onderdaan, heeft opgenomen in het (N)SIS ter fine van weigering van toegang, indien het voornemen bestaat aan een dergelijke vreemdeling een verblijfstitel te verlenen.
 
 Artikel 25 SUO legt de verdragspartners de verplichting op om overleg te plegen met een Schengenstaat die een vreemdeling, niet zijnde een EU/EER-onderdaan of een Zwitserse onderdaan, heeft opgenomen in het (N)SIS ter fine van weigering van toegang, indien het voornemen bestaat aan een dergelijke vreemdeling een verblijfstitel te verlenen.
 
@@ -4215,15 +4217,15 @@ ad b.: De IND beslist op de aanvraag om verlening van een verblijfsvergunning. B
 
 ad c.: Het Bureau SIRENE Nederland stelt naast de IND ook het Bureau SIRENE van het desbetreffende land in kennis. De IND past de in artikel 25 SUO genoemde raadpleegprocedure toe.De IND beslist op de aanvraag om verlening van een verblijfsvergunning. Na het indienen van voornoemde aanvraag kan aan betrokkene door de IND verklaring worden uitgereikt waarin is vermeld dat betrokkene een aanvraag tot verblijf heeft ingediend terwijl deze ter fine van weigering van de toegang gesignaleerd staat. De vreemdeling dient deze verklaring bij zich te dragen en bij controle te overleggen. Het Hoofd van de IND stelt een model voor deze verklaring vast.Bij een negatieve beschikking waartegen geen rechtsmiddelen meer open staan, dient betrokkene te worden verwijderd. Bij een positieve beschikking kan de toelatingsprocedure worden voortgezet.
 
-ad d.: Het Bureau SIRENE Nederland stelt naast de IND ook het Bureau SIRENE van het desbetreffende land in kennis. De IND past de in artikel 25 SUO genoemde raadpleegprocedure toe.De vreemdelingenpolitie, ZHP of KMar die de betrokkene aantreft, doet navraag naar de rechtmatige afgifte van de (tijdelijke) verblijfstitel bij de IND. Wanneer bij navraag blijkt dat de verblijfstitel rechtens is verstrekt, dient betrokkene zijn weg te vervolgen.Wanneer de signalering bij afgifte van de verblijfstitel dan wel bij de verlenging van die titel (nog) niet bekend was bij de IND maakt de vreemdelingenpolitie, ZHP of KMar die de vreemdeling heeft aangetroffen proces-verbaal van bevindingen op. Hierbij maakt hij een kopie van alle documenten die nog niet bekend waren bij de IND. De IND handelt conform ad 3 de hitmelding af en reikt aan betrokkene een verklaring uit. De vreemdeling dient deze verklaring bij zich te dragen en bij controle te overleggen. Het Hoofd van de IND stelt een model voor deze verklaring vast.
-
 ### 9.5. Signalering en weigering van toegang
 
-### 9.5.1. Algemeen
+### 9.5. Signalering en weigering van toegang
 
 Indien een vreemdeling geen geldige verblijfstitel voor Nederland of een van de andere Schengenstaten bezit en ter fine van weigering van toegang gesignaleerd staat in OPS of (N)SIS, dient aan hem de toegang te worden geweigerd. De ambtenaar belast met de grensbewaking meldt de ‘hit’ bij bureau SIRENE (zie A3/9.1.2).
 
 ### 9.5.2. Asielaanvraag
+
+Indien een vreemdeling te kennen geeft een asielaanvraag te willen indienen en in het (N)SIS of OPS gesignaleerd staat, meldt de ambtenaar belast met de grensbewaking de ‘hit’ bij bureau SIRENE (zie A3/9.1.2).
 
 Indien een vreemdeling te kennen geeft een asielaanvraag te willen indienen en in het (N)SIS of OPS gesignaleerd staat, meldt de ambtenaar belast met de grensbewaking de ‘hit’ bij bureau SIRENE (zie A3/9.1.2).
 
@@ -4233,13 +4235,11 @@ Bij een negatieve beschikking waartegen geen rechtsmiddelen meer open staan, die
 
 Indien sprake is van een Dublinclaim, neemt het verantwoordelijke land de behandeling over en blijft de (N)SIS-signalering vooralsnog gehandhaafd. Een uiteindelijke beslissing over het handhaven dan wel laten vervallen van de signalering wordt genomen door de Schengenstaat die de betrokken vreemdeling heeft gesignaleerd.
 
-Bij een positieve beschikking wordt betrokkene toegelaten en dient de OPS- of SIS-signalering te vervallen. Indien het een SIS-signalering door een andere Schengenstaat betreft, dient die signalerende partij hierover geconsulteerd te worden. Dit gebeurt door de betreffende districtscoördinator signaleringen. Na de consultatie verzoekt deze coördinator aan de signalerende staat om de signalering uit het SIS te verwijderen. Desgewenst kan de signalerende staat betrokkene opnemen op de nationale signaleringslijst.
-
 ### 9.5.3. Bezit geldige verblijfstitel/(N)SIS-signalering
 
 Indien een vreemdeling die in Nederland of een ander Schengenland een geldige verblijfstitel bezit en in het (N)SIS gesignaleerd staat, meldt de ambtenaar belast met de grensbewaking de ‘hit’ bij bureau SIRENE (zie A3/9.1.2) en licht de IND in. De vreemdeling dient in beginsel te worden doorgelaten dan wel doorreis te worden verleend. Bij twijfel over de verblijfsrechtelijke positie dient de ambtenaar alvorens de vreemdeling door te laten bij de Korpschef van het regionale politiekorps waar betrokkene woonachtig is na te gaan of de Nederlandse verblijfstitel rechtmatig is afgegeven.
 
-De raadplegingsprocedure met het betreffende Schengenland wordt vervolgens door de IND opgestart.
+Indien een vreemdeling die in Nederland of een ander Schengenland een geldige verblijfstitel bezit en in het (N)SIS gesignaleerd staat, meldt de ambtenaar belast met de grensbewaking de ‘hit’ bij bureau SIRENE (zie A3/9.1.2) en licht de IND in. De vreemdeling dient in beginsel te worden doorgelaten dan wel doorreis te worden verleend. Bij twijfel over de verblijfsrechtelijke positie dient de ambtenaar alvorens de vreemdeling door te laten bij de Korpschef van het regionale politiekorps waar betrokkene woonachtig is na te gaan of de Nederlandse verblijfstitel rechtmatig is afgegeven.
 
 ### 9.5.4. Bezit geldige verblijfstitel/OPS-signalering
 
@@ -4247,23 +4247,25 @@ Aan een vreemdeling die in het bezit is van een voor Nederland of een andere Sch
 
 ### 9.6. Opneming en vervallen van signaleringen
 
-### 9.6.1. Inleiding
+### 9.6. Opneming en vervallen van signaleringen
 
 Opneming en vervallenverklaring van de in dit hoofdstuk genoemde signaleringen geschiedt door de IND. De IND bepaalt ook, op grond van de SUO, welke signaleringen in het (N)SIS worden opgenomen.
 
-De signaleringen zijn aan termijnen gebonden, die automatisch beëindigd worden, tenzij zich in die periode wijzigingen hebben voorgedaan, die leiden tot een nieuwe signalering of (voortijdige) vervallenverklaring.
+Opneming en vervallenverklaring van de in dit hoofdstuk genoemde signaleringen geschiedt door de IND. De IND bepaalt ook, op grond van de SUO, welke signaleringen in het (N)SIS worden opgenomen.
 
-Voor een voorstel tot signalering of een vervallenverklaring dient gebruik te worden gemaakt van het standaardformulier (zie model [M93](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M93&z=2006-07-16&g=2006-07-16)). Dit formulier dient verzonden te worden aan de IND. Bij het model [M93](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M93&z=2006-07-16&g=2006-07-16) dienen vingerafdrukken en, indien aanwezig, kopieën van identiteitsdocumenten te worden meegezonden. Tevens dient het nummer van het proces-verbaal, het proces-verbaal zelf of de registratiekaart te worden meegezonden. Indien geen sprake is van een proces-verbaal dienen andere stukken die de signaleringsgrond ondersteunen, te worden meegezonden. Hierbij kan bijvoorbeeld worden gedacht aan een bericht van verwijdering, een proces-verbaal of een ambtsbericht.
+Voor een voorstel tot signalering of een vervallenverklaring dient gebruik te worden gemaakt van het standaardformulier (zie model [M93](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M93&z=2006-07-16&g=2006-10-13)). Dit formulier dient verzonden te worden aan de IND. Bij het model [M93](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M93&z=2006-07-16&g=2006-10-13) dienen vingerafdrukken en, indien aanwezig, kopieën van identiteitsdocumenten te worden meegezonden. Tevens dient het nummer van het proces-verbaal, het proces-verbaal zelf of de registratiekaart te worden meegezonden. Indien geen sprake is van een proces-verbaal dienen andere stukken die de signaleringsgrond ondersteunen, te worden meegezonden. Hierbij kan bijvoorbeeld worden gedacht aan een bericht van verwijdering, een proces-verbaal of een ambtsbericht.
 
 ### 9.6.2. Opnemen van signaleringen
 
 De ambtenaar belast met de grensbewaking of met het toezicht op vreemdelingen moet ten aanzien van vreemdelingen die voldoen aan de onder A3/9.2.1 en A3/9.2.2 genoemde voorwaarden altijd een verzoek tot signalering indienen bij de IND. Indien de betrokken vreemdeling toestemming krijgt voor verblijf hier te lande, dient de signalering te vervallen. Bij elke beoordeling van een aanvraag om een verblijfstitel hier te lande dient te worden nagegaan of de betrokken vreemdeling is gesignaleerd.
 
-Indien de identiteit van de vreemdeling niet bekend is, dient de Korpschef er voor te zorgen dat steeds de DNRI een onderzoek naar de vingerafdrukken doet. Dit onderzoek is noodzakelijk om te voorkomen dat vreemdelingen onder verschillende personalia gesignaleerd worden. De vreemdeling met meerdere personalia wordt in dat geval onder de naam zoals deze bij de IND bekend is, gesignaleerd. De eventueel andere bekende personalia zullen als aliasnaam opgenomen worden.
+De ambtenaar belast met de grensbewaking of met het toezicht op vreemdelingen moet ten aanzien van vreemdelingen die voldoen aan de onder A3/9.2.1 en A3/9.2.2 genoemde voorwaarden altijd een verzoek tot signalering indienen bij de IND. Indien de betrokken vreemdeling toestemming krijgt voor verblijf hier te lande, dient de signalering te vervallen. Bij elke beoordeling van een aanvraag om een verblijfstitel hier te lande dient te worden nagegaan of de betrokken vreemdeling is gesignaleerd.
 
 ### 9.6.3. Behandeling van het verzoek om opheffing van signalering
 
-### 9.6.3.1. Opheffing van signaleringen in het (N)SIS
+### 9.6.3. Behandeling van het verzoek om opheffing van signalering
+
+Ingevolge artikel 111 SUO heeft een ieder het recht op het grondgebied van elk der Overeenkomstsluitende Partijen bij de naar nationaal recht bevoegde rechter of instantie een beroep in te stellen wegens een hem betreffende signalering. In het bijzonder kan dit beroep zijn gericht op verbetering, verwijdering of kennisneming van de signalering of op schadevergoeding. Om opheffing van een signalering kan door de vreemdeling worden verzocht bij de staat die verantwoordelijk is voor de signalering. In Nederland dient de vreemdeling zich met een dergelijk gemotiveerd verzoek te richten tot de DNRI. Verwezen wordt naar [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=35) en [artikel 36 Wbp](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=36). Verzoeken tot opheffing van door Nederland opgenomen signaleringen en ingediende bezwaarschriften worden doorgestuurd aan en behandeld door de IND. Binnen vier weken nadat het verzoek ontvangen is, wordt door de IND schriftelijk op het verzoek beslist.
 
 Ingevolge artikel 111 SUO heeft een ieder het recht op het grondgebied van elk der Overeenkomstsluitende Partijen bij de naar nationaal recht bevoegde rechter of instantie een beroep in te stellen wegens een hem betreffende signalering. In het bijzonder kan dit beroep zijn gericht op verbetering, verwijdering of kennisneming van de signalering of op schadevergoeding. Om opheffing van een signalering kan door de vreemdeling worden verzocht bij de staat die verantwoordelijk is voor de signalering. In Nederland dient de vreemdeling zich met een dergelijk gemotiveerd verzoek te richten tot de DNRI. Verwezen wordt naar [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=35) en [artikel 36 Wbp](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=36). Verzoeken tot opheffing van door Nederland opgenomen signaleringen en ingediende bezwaarschriften worden doorgestuurd aan en behandeld door de IND. Binnen vier weken nadat het verzoek ontvangen is, wordt door de IND schriftelijk op het verzoek beslist.
 
@@ -4273,13 +4275,11 @@ ad c) : Verwezen wordt naar A3/9.4. Indien de vreemdeling verblijf wordt toegest
 
 ad d): Het kan voorkomen dat een andere Schengenstaat voornemens is een door Nederland gesignaleerde vreemdeling een verblijfsvergunning te verlenen. In die gevallen zal het Nederlandse bureau SIRENE door die staat worden verzocht de signalering op te heffen. Ook in deze gevallen stuurt het bureau SIRENE het verzoek om opheffing van de signalering door naar de IND. De signalering dient dan uit het (N)SIS te worden verwijderd. In ieder individueel geval moet worden bezien of de signalering vervolgens in het OPS wordt opgenomen. Daarbij dient rekening te worden gehouden met het verblijfsdoel van de vreemdeling in de staat waar hem verblijf wordt toegestaan. Immers, in sommige gevallen kan de vreemdeling onder de werking van het Gemeenschapsrecht komen te vallen. Dit is bijvoorbeeld het geval bij vreemdelingen die verblijf wordt toegestaan bij een familielid dat EU-/EER- of Zwitsers onderdaan is.
 
-Humanitaire omstandigheden zijn op zichzelf geen reden om te besluiten tot opheffing van de signalering. Als sprake is van kortdurende humanitaire omstandigheden kan een gesignaleerde vreemdeling op grond van artikel 5, tweede lid, SUO verzoeken toegang te verkrijgen tot Nederland voor de duur van maximaal drie maanden zoals ook is uitgewerkt in [artikel 2.9 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=2.9), zie A3/9.6.4. Als de vreemdeling zich beroept op langduriger omstandigheden als gezinsleven of vrees voor vervolging in het land van herkomst, dan dient hij een verblijfsvergunning voor het betreffende doel aan te vragen. Als de verblijfsvergunning wordt verleend, dient de signalering te worden opgeheven.
-
 ### 9.6.3.2. Opheffing van signaleringen in het OPS
 
 Een persoon die is geregistreerd in het OPS heeft het recht een verzoek in te dienen om gegevens te verwijderen uit het systeem. Het gemotiveerde verzoek dient schriftelijk te worden gericht aan DNRI. Verwezen wordt naar [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=35) en [artikel 36 Wbp](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=36). Het verzoek wordt doorgezonden aan de IND en binnen vier weken nadat het verzoek ontvangen is, wordt door de IND schriftelijk op het verzoek beslist.
 
-Een signalering wordt uit het OPS verwijderd als de signaleringstermijn is verstreken. Verzoeken tot opheffing richten zich dus op opheffing voordat de signaleringstermijn is verstreken. Een signalering in het OPS kan worden opgeheven als er sprake is van gewijzigde omstandigheden, die nopen tot opheffing. Daarvan is in ieder geval sprake in de volgende gevallen:
+Een persoon die is geregistreerd in het OPS heeft het recht een verzoek in te dienen om gegevens te verwijderen uit het systeem. Het gemotiveerde verzoek dient schriftelijk te worden gericht aan DNRI. Verwezen wordt naar [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=35) en [artikel 36 Wbp](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=36). Het verzoek wordt doorgezonden aan de IND en binnen vier weken nadat het verzoek ontvangen is, wordt door de IND schriftelijk op het verzoek beslist.
 
 ### 9.6.3.3. Rechtsmiddelen
 
@@ -4289,11 +4289,11 @@ Een signalering is een feitelijke handeling waartegen geen rechtsmiddel open sta
 
 Op grond van artikel 5, tweede lid, SUO mogen lidstaten besluiten om een vreemdeling toegang te verlenen voor kort verblijf, ondanks dat deze vreemdeling ter fine van weigering toegang in het SIS staat gesignaleerd. Dit is ook uitgewerkt in [artikel 2.9, tweede lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=2.9).
 
+Op grond van artikel 5, tweede lid, SUO mogen lidstaten besluiten om een vreemdeling toegang te verlenen voor kort verblijf, ondanks dat deze vreemdeling ter fine van weigering toegang in het SIS staat gesignaleerd. Dit is ook uitgewerkt in [artikel 2.9, tweede lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=2.9).
+
 Toegang voor kort verblijf kan worden verleend op grond van humanitaire overwegingen, om redenen van nationaal belang of wegens internationale verplichtingen. Als sprake is van dergelijke omstandigheden hoeft de signalering niet tijdelijk te worden opgeheven, maar kan worden besloten om de vreemdeling toegang te verlenen voor de duur van maximaal drie maanden, beperkt tot het Nederlands grondgebied. De andere lidstaten dienen van deze toegangsverlening op de hoogte te worden gesteld.
 
 Als omstandigheden in de zin van artikel 5, tweede lid SUO kunnen in ieder geval worden aangemerkt (niet limitatief):
-
-Voor een nadere uitwerking van deze omstandigheden en de wijze van indiening en beoordeling van het verzoek wordt verwezen naar de beschrijving ten aanzien van de tijdelijke opheffing van ongewenstverklaringen in A5.
 
 ### 10. Gedragslijn bij ongewenste politieke activiteiten
 
@@ -4301,7 +4301,9 @@ Politieke activiteiten van een vreemdeling die gevaar opleveren voor de openbare
 
 ### 4. Vertrek en uitzetting
 
-### 1. Inleiding
+### 4. Vertrek en uitzetting
+
+In [hoofdstuk 6 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823)zijn regels opgenomen over onder meer het vertrek en de uitzetting van de vreemdeling. Deze regels zijn ook van toepassing op EU-/EER-onderdanen en Zwitserse onderdanen, alsmede de familieleden als bedoeld in [artikel 8.7, tweede en derde, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.7) en de vreemdelingen als bedoeld in [artikel 8.7, vierde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.7), die geen rechtmatig verblijf (meer) hebben. Er dient echter wel rekening mee te worden gehouden dat op EU-/EER-onderdanen toch nog het Europees Vestigingsverdrag (zie [B11/4](onbekend)) van toepassing kan zijn. Dit Verdrag verschaft de onderdanen van alle verdragsluitende partijen (in de praktijk alleen de Turkse onderdanen) (extra) procedurele waarborgen in geval van voorgenomen verblijfsbeëindiging bij rechtmatig verblijf van ten minste twee respectievelijk tien jaar.
 
 In [hoofdstuk 6 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823)zijn regels opgenomen over onder meer het vertrek en de uitzetting van de vreemdeling. Deze regels zijn ook van toepassing op EU-/EER-onderdanen en Zwitserse onderdanen, alsmede de familieleden als bedoeld in [artikel 8.7, tweede en derde, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.7) en de vreemdelingen als bedoeld in [artikel 8.7, vierde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.7), die geen rechtmatig verblijf (meer) hebben. Er dient echter wel rekening mee te worden gehouden dat op EU-/EER-onderdanen toch nog het Europees Vestigingsverdrag (zie [B11/4](onbekend)) van toepassing kan zijn. Dit Verdrag verschaft de onderdanen van alle verdragsluitende partijen (in de praktijk alleen de Turkse onderdanen) (extra) procedurele waarborgen in geval van voorgenomen verblijfsbeëindiging bij rechtmatig verblijf van ten minste twee respectievelijk tien jaar.
 
@@ -4311,17 +4313,15 @@ Van vertrek is sprake indien een vreemdeling, al dan niet aantoonbaar, zelfstand
 
 De wet bevat geen definitie van het begrip uitzetting. De term uitzetting wordt gebruikt voor alle gevallen van ‘verwijdering met de sterke arm uit Nederland’. Dit impliceert dat er geen sprake is van uitzetting als een vreemdeling in de gelegenheid wordt gesteld ons land op een door hem verkozen wijze te verlaten.
 
-Het begrip verwijdering, dat niet voorkomt in de [Vw,](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) omvat alle overheidshandelingen en handelingen van vervoerders die erop gericht zijn om een vreemdeling die Nederland moet verlaten daadwerkelijk te doen vertrekken. Hieronder vallen de begrippen (zelfstandig) vertrek en uitzetting. De handelingen van vervoerders zien enkel op vreemdelingen ten aanzien van wie zij op grond van [artikel 65 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=65)een terugvoerverplichting hebben.
+### 2. Zelfstandig vertrek
 
 ### 2. Zelfstandig vertrek
 
-### 2.1. De rechtsplicht om Nederland uit eigen beweging te verlaten
+Uitgangspunt in de [Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823)is dat de vreemdeling die geen rechtmatig verblijf in Nederland (meer) heeft, Nederland uit eigen beweging moet verlaten. De vreemdeling is daarbij zelf verantwoordelijk voor zijn terugkeer. Deze eigen verantwoordelijkheid is neergelegd in [artikel 61, eerste lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=61). De verplichting om Nederland te verlaten is ingevolge dat artikel afhankelijk van de rechtmatigheid van het verblijf. Welke vreemdeling rechtmatig in Nederland verblijft, is opgenomen in [artikel 8 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8).
 
 Uitgangspunt in de [Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823)is dat de vreemdeling die geen rechtmatig verblijf in Nederland (meer) heeft, Nederland uit eigen beweging moet verlaten. De vreemdeling is daarbij zelf verantwoordelijk voor zijn terugkeer. Deze eigen verantwoordelijkheid is neergelegd in [artikel 61, eerste lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=61). De verplichting om Nederland te verlaten is ingevolge dat artikel afhankelijk van de rechtmatigheid van het verblijf. Welke vreemdeling rechtmatig in Nederland verblijft, is opgenomen in [artikel 8 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8).
 
 De rechtsplicht om Nederland te verlaten ontstaat op het moment waarop het rechtmatig verblijf eindigt. Voor vreemdelingen die nooit rechtmatig verblijf in Nederland hebben gehad en zich dus illegaal toegang tot Nederland hebben verschaft, ontstaat deze rechtsplicht op het moment waarop zij zich illegaal toegang tot Nederland hebben verschaft. De termijn waarbinnen de vreemdeling Nederland moet verlaten kan variëren en is geregeld in [artikel 62 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=62).
-
-Voor vreemdelingen die wel een aanvraag hebben ingediend, maar waarvan de aanvraag is afgewezen en het bezwaar of beroep de werking van de bestreden beschikking niet opschort, ontstaat de rechtsplicht na afwijzing van de aanvraag. Als bezwaar of beroep de werking van de bestreden beschikking opschort, dan ontstaat de rechtsplicht nadat de opschorting is geëindigd.
 
 ### 2.2. Het vorderen van medewerking aan de voorbereiding van vertrek
 
@@ -4335,7 +4335,7 @@ In het [derde lid van artikel 61 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR001
 
 Vreemdelingen die Nederland dienen te verlaten, zijn in beginsel vrij zich te begeven naar ieder land waar zijn toegang is gewaarborgd. Toegang tot een ander land dan het land van herkomst moet de vreemdeling zelf aannemelijk maken. Echter, indien de vreemdeling niet is vertrokken in de vertrektermijn en de overheid de uitzetting van de vreemdeling ter hand heeft genomen, zal de gedwongen verwijdering niet worden opgeschort wanneer de vreemdeling op enig moment aangeeft naar een ander land te willen vertrekken.
 
-Concrete informatie over de voorwaarden voor binnenkomst in een bepaald land wordt getoetst aan het individuele geval. In voorkomende gevallen dient hierover contact te worden opgenomen met de IND.
+Vreemdelingen die Nederland dienen te verlaten, zijn in beginsel vrij zich te begeven naar ieder land waar zijn toegang is gewaarborgd. Toegang tot een ander land dan het land van herkomst moet de vreemdeling zelf aannemelijk maken. Echter, indien de vreemdeling niet is vertrokken in de vertrektermijn en de overheid de uitzetting van de vreemdeling ter hand heeft genomen, zal de gedwongen verwijdering niet worden opgeschort wanneer de vreemdeling op enig moment aangeeft naar een ander land te willen vertrekken.
 
 ### 2.5. Verwijdering van gezinsleden
 
@@ -4343,7 +4343,7 @@ Indien het hoofd van een gezin uit Nederland moet worden verwijderd, geldt als a
 
 ### 3. Vertrektermijnen
 
-### 3.1. De algemene termijn van vier weken
+### 3. Vertrektermijnen
 
 De vreemdeling wiens rechtmatig verblijf is geëindigd, dient Nederland in het algemeen binnen vier weken (vertrektermijn) te verlaten op grond van [artikel 62, eerste lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=62). De vertrektermijn van vier weken gaat in nadat het rechtmatig verblijf op grond van [artikel 8 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8)is geëindigd. De vreemdeling dient Nederland binnen deze termijn op eigen gelegenheid te verlaten. Voldoet de vreemdeling niet aan deze verplichting, dan kan uitzetting aan de orde zijn.
 
@@ -4355,6 +4355,8 @@ Indien de vreemdeling de beroepstermijn ongebruikt laat, kan deze in mindering w
 
 Er kunnen zich omstandigheden voordoen, die het wenselijk maken om een kortere vertrektermijn te geven. Om die reden is in [artikel 62, vierde lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=62) de bevoegdheid van de Minister opgenomen om de vertrektermijn tot minder dan vier weken te verkorten. De Korpschef, dan wel de Commandant der KMar kan ingevolge [artikel 1.4 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=1.4)zelfstandig tot verkorting van de vertrektermijn besluiten.
 
+Er kunnen zich omstandigheden voordoen, die het wenselijk maken om een kortere vertrektermijn te geven. Om die reden is in [artikel 62, vierde lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=62) de bevoegdheid van de Minister opgenomen om de vertrektermijn tot minder dan vier weken te verkorten. De Korpschef, dan wel de Commandant der KMar kan ingevolge [artikel 1.4 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=1.4)zelfstandig tot verkorting van de vertrektermijn besluiten.
+
 De vertrektermijn kan verkort worden in het belang van de uitzetting:
 
 De vertrektermijn kan voorts worden verkort in het belang van de openbare orde of de nationale veiligheid.
@@ -4363,19 +4365,19 @@ Bij EU-/EER-onderdanen en Zwitserse onderdanen, alsmede de familieleden als bedo
 
 De verkorting van de vertrektermijn kan op twee manieren door de rechter worden beoordeeld:
 
-Het verkorten van de vertrektermijn heeft overigens geen gevolg voor de termijn waarbinnen de vreemdeling bezwaar of beroep kan instellen. Deze termijn blijft in genoemde situaties in het algemeen vier weken, tenzij de aanvraag in het AC wordt afgedaan, in welk geval de beroepstermijn een week bedraagt ([artikel 69, eerste en tweede lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=69)).
-
 ### 3.4. Onthouden van een vertrektermijn
+
+In een aantal gevallen wordt de vreemdeling geen vertrektermijn gegund (zie [artikel 62, derde lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=62)).
 
 In een aantal gevallen wordt de vreemdeling geen vertrektermijn gegund (zie [artikel 62, derde lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=62)).
 
 Het betreft de volgende categorieën:
 
-Vreemdelingen behorend tot de hierboven genoemde categorieën dienen Nederland dus onmiddellijk te verlaten.
+### 4. Reisdocumenten
 
 ### 4. Reisdocumenten
 
-### 4.1. Aanvragen reisdocumenten
+Uitgangspunt in de [Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) is dat de vreemdeling aan wie geen (verder) verblijf in Nederland is toegestaan een eigen verantwoordelijkheid heeft om Nederland binnen de daarvoor gestelde termijn te verlaten. Wanneer een vreemdeling niet beschikt over geldige reisdocumenten, dient hij hiervoor tijdig zelf te zorgen. Hiertoe kan de vreemdeling zich wenden tot zijn eigen diplomatieke vertegenwoordiging of tot familieleden of bekenden in het land van herkomst.
 
 Uitgangspunt in de [Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) is dat de vreemdeling aan wie geen (verder) verblijf in Nederland is toegestaan een eigen verantwoordelijkheid heeft om Nederland binnen de daarvoor gestelde termijn te verlaten. Wanneer een vreemdeling niet beschikt over geldige reisdocumenten, dient hij hiervoor tijdig zelf te zorgen. Hiertoe kan de vreemdeling zich wenden tot zijn eigen diplomatieke vertegenwoordiging of tot familieleden of bekenden in het land van herkomst.
 
@@ -4397,11 +4399,11 @@ Is de vreemdeling in een huis van bewaring, een gevangenis, een TBS-inrichting o
 
 De diplomatieke vertegenwoordiging wordt, evenals andere autoriteiten van het (vermoedelijke land van herkomst), nimmer op de hoogte gesteld van het feit dat de vreemdeling eerder een asielaanvraag heeft ingediend in Nederland of in enig ander land. Er kan slechts worden aangegeven dat de persoon in kwestie geen rechtmatig verblijf in Nederland heeft en om die reden Nederland dient te verlaten.
 
-De ambtenaar belast met de grensbewaking of met het toezicht op vreemdelingen en de betrokken ambtenaren van de IND zien erop toe dat geen aantekeningen in reis- of identiteitsdocumenten van asielzoekers worden geplaatst.
+### 4.2. Gedragslijn als geen reisdocument kan worden verkregen
 
 ### 4.2. Gedragslijn als geen reisdocument kan worden verkregen
 
-### 4.2.1. De diplomatieke vertegenwoordiging wijst de aanvraag af
+Indien een diplomatieke vertegenwoordiging (of andere autoriteiten van het (vermoedelijke) land van herkomst) weigert het aangevraagde reisdocument of visum te verstrekken, dient de ambtenaar belast met de grensbewaking of met het toezicht op vreemdelingen, in de gevallen dat deze de aanvraag rechtstreeks bij de diplomatieke vertegenwoordiging heeft ingediend, daarvan zo spoedig mogelijk mededeling te doen aan de IND, zoveel mogelijk onder overlegging van bescheiden die van belang kunnen zijn om de vreemdeling alsnog uit te zetten.
 
 Indien een diplomatieke vertegenwoordiging (of andere autoriteiten van het (vermoedelijke) land van herkomst) weigert het aangevraagde reisdocument of visum te verstrekken, dient de ambtenaar belast met de grensbewaking of met het toezicht op vreemdelingen, in de gevallen dat deze de aanvraag rechtstreeks bij de diplomatieke vertegenwoordiging heeft ingediend, daarvan zo spoedig mogelijk mededeling te doen aan de IND, zoveel mogelijk onder overlegging van bescheiden die van belang kunnen zijn om de vreemdeling alsnog uit te zetten.
 
@@ -4409,51 +4411,51 @@ Is de aanvraag afgewezen omdat de diplomatieke vertegenwoordiging van oordeel is
 
 Zo mogelijk zal aan de hand van de verstrekte informatie alsnog worden getracht een (vervangend) reisdocument te verkrijgen.
 
-Indien de vreemdeling niet in het bezit wordt gesteld van een (vervangend) reisdocument en hij overigens niet aan de buitenlandse grensautoriteiten kan worden overgegeven, dan wel uit Nederland worden verwijderd door middel van plaatsing aan boord van een schip of vliegtuig (zie A4/8) en er daarnaast geen sprake is van de situatie dat de vreemdeling buiten zijn schuld niet uit Nederland kan vertrekken (zie C2/8), dient hem te worden aangezegd dat hij Nederland moet verlaten.
-
 ### 4.2.2. Afgifte van een EU-staat
+
+Indien er geen diplomatieke vertegenwoordiging aanwezig is die een laissez-passer kan afgeven, kan in bepaalde gevallen de terugkeer plaatsvinden met behulp van een EU-staat. Dit document wordt afgegeven door de Nederlandse overheid indien de nationaliteit van de vreemdeling voldoende aannemelijk is. De EU-staat kan worden gebruikt bij terugkeer naar het land van herkomst, maar in voorkomende gevallen ook bij de terugkeer naar een ander land. Tevens kan het document worden gebruikt als ondersteunend reisdocument bij overdracht naar andere Europese landen.
 
 Indien er geen diplomatieke vertegenwoordiging aanwezig is die een laissez-passer kan afgeven, kan in bepaalde gevallen de terugkeer plaatsvinden met behulp van een EU-staat. Dit document wordt afgegeven door de Nederlandse overheid indien de nationaliteit van de vreemdeling voldoende aannemelijk is. De EU-staat kan worden gebruikt bij terugkeer naar het land van herkomst, maar in voorkomende gevallen ook bij de terugkeer naar een ander land. Tevens kan het document worden gebruikt als ondersteunend reisdocument bij overdracht naar andere Europese landen.
 
 Bij gebruikmaking van een EU-staat in het kader van de terugkeer dient aan de volgende – cumulatieve – voorwaarden voldaan te zijn:
 
-In alle gevallen vindt afgifte van een EU-staat plaats door de IND. Het verdient aanbeveling om, indien aanwezig, bij de EU-staat (kopieën) van identiteits(ondersteunende) documenten te voegen, zoals een rijbewijs of geboorteakte. De (kopieën) van deze documenten mogen geen asielgerelateerde informatie bevatten.
-
 ### 4.3. Het inhouden van documenten
 
 Bij elke verwijdering van een vreemdeling dient steeds zoveel mogelijk te worden nagegaan of de hand is gehouden aan de door de Minister gegeven voorschriften en aanwijzingen omtrent het doorhalen van in het paspoort gestelde aantekeningen, het inhouden van afzonderlijke inlegbladen en het inhouden van identiteitsdocumenten, zie A3/5.
 
-Indien inlegbladen en identiteitsdocumenten als hier bedoeld bij de vreemdelingen worden aangetroffen, dienen deze te worden ingehouden en te worden toegezonden aan de betrokken ambtenaar belast met de grensbewaking of met het toezicht op vreemdelingen.
+Bij elke verwijdering van een vreemdeling dient steeds zoveel mogelijk te worden nagegaan of de hand is gehouden aan de door de Minister gegeven voorschriften en aanwijzingen omtrent het doorhalen van in het paspoort gestelde aantekeningen, het inhouden van afzonderlijke inlegbladen en het inhouden van identiteitsdocumenten, zie A3/5.
 
 ### 4.4. Het stellen van aantekeningen in reisdocumenten
 
 Ten aanzien van het stellen van aantekeningen omtrent verwijdering in het reisdocument van de vreemdeling, gelden de volgende hoofdregels:
 
-Voor het stellen van aantekeningen in het algemeen, zieA3/5.
+Ten aanzien van het stellen van aantekeningen omtrent verwijdering in het reisdocument van de vreemdeling, gelden de volgende hoofdregels:
 
-Voor de eventuele intrekking van de resterende geldigheidsduur van een visum, zie A2/4.3.7.
+Voor het stellen van aantekeningen in het algemeen, zieA3/5.
 
 ### 4.5. Toezending van reisdocumenten aan de doorlaatpost van uitreis
 
-In gevallen waarin het vertrek van de vreemdeling onder toezicht geschiedt, wordt zijn reisdocument met toepassing van het bepaalde in [artikel 4.23 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.23) tijdelijk in bewaring genomen en toegezonden aan het hoofd van de grensdoorlaatpost of het overgave-overnamepunt waarlangs de betrokkene Nederland zal verlaten. Zie in dit verband ook A3/5. De ambtenaar belast met de grensbewaking of met het toezicht op vreemdelingen stelt de vreemdeling in het bezit van een ontvangstbewijs (zie [model M101](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M101&z=2006-07-16&g=2006-07-16)).
+In gevallen waarin het vertrek van de vreemdeling onder toezicht geschiedt, wordt zijn reisdocument met toepassing van het bepaalde in [artikel 4.23 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.23) tijdelijk in bewaring genomen en toegezonden aan het hoofd van de grensdoorlaatpost of het overgave-overnamepunt waarlangs de betrokkene Nederland zal verlaten. Zie in dit verband ook A3/5. De ambtenaar belast met de grensbewaking of met het toezicht op vreemdelingen stelt de vreemdeling in het bezit van een ontvangstbewijs (zie [model M101](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M101&z=2006-07-16&g=2006-10-13)).
 
-De ambtenaar belast met de grensbewaking of met het toezicht op vreemdelingen zendt het reisdocument tijdig per aangetekende brief aan het hoofd van de betreffende grensdoorlaatpost of het overgave-overnamepunt, onder nauwkeurige opgave van het tijdstip waarop de vreemdeling langs deze doorlaatpost/overgave-overnamepunt zal uitreizen.
+In gevallen waarin het vertrek van de vreemdeling onder toezicht geschiedt, wordt zijn reisdocument met toepassing van het bepaalde in [artikel 4.23 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.23) tijdelijk in bewaring genomen en toegezonden aan het hoofd van de grensdoorlaatpost of het overgave-overnamepunt waarlangs de betrokkene Nederland zal verlaten. Zie in dit verband ook A3/5. De ambtenaar belast met de grensbewaking of met het toezicht op vreemdelingen stelt de vreemdeling in het bezit van een ontvangstbewijs (zie [model M101](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M101&z=2006-11-16&g=2006-10-13)).
 
-Het hoofd van de desbetreffende grensdoorlaatpost of het overgave-overnamepunt geeft het reisdocument aan de vreemdeling terug nadat deze het ontvangstbewijs voor terugontvangst (zie [model M101](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M101&z=2006-07-16&g=2006-07-16)) heeft ondertekend en controleert of de vreemdeling inderdaad het land verlaat. Vervolgens stelt het hoofd van de grensdoorlaatpost of het overgave-overnamepunt op het ingehouden ontvangstbewijs een verklaring waaruit blijkt dat het vertrek van de vreemdeling is gecontroleerd en zendt hij het ontvangstbewijs terug aan de ambtenaar belast met de grensbewaking of met het toezicht op vreemdelingen die het heeft afgegeven.
+Het hoofd van de desbetreffende grensdoorlaatpost of het overgave-overnamepunt geeft het reisdocument aan de vreemdeling terug nadat deze het ontvangstbewijs voor terugontvangst (zie [model M101](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M101&z=2006-07-16&g=2006-10-13)) heeft ondertekend en controleert of de vreemdeling inderdaad het land verlaat. Vervolgens stelt het hoofd van de grensdoorlaatpost of het overgave-overnamepunt op het ingehouden ontvangstbewijs een verklaring waaruit blijkt dat het vertrek van de vreemdeling is gecontroleerd en zendt hij het ontvangstbewijs terug aan de ambtenaar belast met de grensbewaking of met het toezicht op vreemdelingen die het heeft afgegeven.
 
-Indien de vreemdeling zich niet op de afgesproken tijd en plaats bij het hoofd van de grensdoorlaatpost of het overgave-overnamepunt heeft vervoegd, of indien de uitreis van de vreemdeling vertraging ondervindt, dan wel op moeilijkheden stuit, geeft het hoofd van de grensdoorlaatpost of het overgave-overnamepunt aanstonds kennis aan de betrokken vreemdelingenpolitie, ZHP of KMar, teneinde overleg te plegen omtrent de ter zake te volgen gedragslijn.
+Het hoofd van de desbetreffende grensdoorlaatpost of het overgave-overnamepunt geeft het reisdocument aan de vreemdeling terug nadat deze het ontvangstbewijs voor terugontvangst (zie [model M101](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M101&z=2006-11-16&g=2006-10-13)) heeft ondertekend en controleert of de vreemdeling inderdaad het land verlaat. Vervolgens stelt het hoofd van de grensdoorlaatpost of het overgave-overnamepunt op het ingehouden ontvangstbewijs een verklaring waaruit blijkt dat het vertrek van de vreemdeling is gecontroleerd en zendt hij het ontvangstbewijs terug aan de ambtenaar belast met de grensbewaking of met het toezicht op vreemdelingen die het heeft afgegeven.
 
 ### 5. Zelfstandig vertrek gefaciliteerd door IOM
 
-### 5.1. Algemeen
+### 5. Zelfstandig vertrek gefaciliteerd door IOM
+
+IOM in Nederland bemiddelt bij het zelfstandig vertrek van vreemdelingen die Nederland willen verlaten en biedt daartoe de REAN-regeling aan. Deze regeling houdt in dat de vreemdeling in het bezit wordt gesteld van een vliegticket voor zijn vertrek naar zijn land van herkomst of een derde land, indien op basis van het geheel van feiten en omstandigheden kan worden aangenomen dat de vreemdeling aldaar de toegang wordt verleend. Afhankelijk van de situatie van de vreemdeling kan een ondersteuningsbijdrage worden toegekend ten behoeve van de kosten van levensonderhoud in de eerste periode na vertrek uit Nederland. Tevens kunnen de kosten voor het verkrijgen van een (vervangend) reisdocument worden vergoed. Ook kan de vreemdeling in aanmerking komen voor reiskosten binnen het land van bestemming naar de plaats van vestiging.
 
 IOM in Nederland bemiddelt bij het zelfstandig vertrek van vreemdelingen die Nederland willen verlaten en biedt daartoe de REAN-regeling aan. Deze regeling houdt in dat de vreemdeling in het bezit wordt gesteld van een vliegticket voor zijn vertrek naar zijn land van herkomst of een derde land, indien op basis van het geheel van feiten en omstandigheden kan worden aangenomen dat de vreemdeling aldaar de toegang wordt verleend. Afhankelijk van de situatie van de vreemdeling kan een ondersteuningsbijdrage worden toegekend ten behoeve van de kosten van levensonderhoud in de eerste periode na vertrek uit Nederland. Tevens kunnen de kosten voor het verkrijgen van een (vervangend) reisdocument worden vergoed. Ook kan de vreemdeling in aanmerking komen voor reiskosten binnen het land van bestemming naar de plaats van vestiging.
 
 De uitvoeringsregeling van het REAN-programma is opgenomen in Stcrt. 250 van 24 december 1991.
 
-De REAN-regeling is vooral bedoeld voor de categorie vreemdelingen die met toestemming van de overheid hier te lande verblijft, na een eerste afwijzing van een verzoek om een verblijfsvergunning. Gelet op het doel van een humaan en effectief terugkeerbeleid worden andere vreemdelingen niet bij voorbaat van de REAN-regeling uitgesloten, mits dit niet het Nederlandse verwijderingsbeleid doorkruist. In geval van illegaal verblijf of beperking van de bewegingsvrijheid, dan wel inbewaringstelling heeft de vreemdeling eveneens de mogelijkheid zich aan te melden voor zelfstandig vertrek met hulp van IOM, mits de IND daarvoor toestemming verleent.
-
 ### 5.2. Procedure
+
+De procedure voor vertrek onder het REAN-programma is hieronder kort samengevat en toegelicht:
 
 De procedure voor vertrek onder het REAN-programma is hieronder kort samengevat en toegelicht:
 
@@ -4465,13 +4467,13 @@ ad c.: Indien een aanvraag is goedgekeurd, organiseert IOM de reis en stelt de e
 
 ad d.: De uitreisformaliteiten op Schiphol worden afgehandeld door IOM. Indien sprake is van vrijheidsbeperkende maatregelen, of wanneer de vreemdeling vanuit vreemdelingenbewaring vertrekt, wordt de vreemdeling door de KMar overgedragen aan IOM. Voor overgave aan IOM heft de ambtenaar belast met de grensbewaking de vrijheidsbeperkende maatregel of de vreemdelingenbewaring op. In die gevallen ontvangt de KMar schriftelijk bericht van IOM dat de vreemdeling daadwerkelijk is vertrokken.
 
-De vreemdeling ondertekent ten overstaan van IOM een verklaring dat hij afziet van het voeren van procedures, voor zover het lopende aanvragen betreft, ter verkrijging van een verblijfstitel.
-
-De IND ontvangt schriftelijk bericht van IOM dat de vreemdeling is vertrokken met ondersteuning van IOM. Er dient geen bericht vertrek (zie [model M100](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M100&z=2006-07-16&g=2006-07-16)) aan de IND te worden gestuurd. De IND verstrekt dan wel voorafgaand aan het vertrek informatie aan IOM over eventuele ketenpartners die door IOM van het uiteindelijke vertrek op de hoogte gesteld moeten worden.
+De IND ontvangt schriftelijk bericht van IOM dat de vreemdeling is vertrokken met ondersteuning van IOM. Er dient geen bericht vertrek (zie [model M100](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M100&z=2006-07-16&g=2006-10-13)) aan de IND te worden gestuurd. De IND verstrekt dan wel voorafgaand aan het vertrek informatie aan IOM over eventuele ketenpartners die door IOM van het uiteindelijke vertrek op de hoogte gesteld moeten worden.
 
 ### 6. Uitzetting
 
-### 6.1. Algemene uitgangspunten
+### 6. Uitzetting
+
+Uitzetting is een bevoegdheid en geen verplichting van de Minister. De titel tot uitzetting is van rechtswege het gevolg van het niet verlenen, niet verlengen of intrekken van de vergunning, het eindigen van het rechtmatig verblijf, of het niet rechtmatige verblijf. In [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=27),[45](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=45) en[63 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=63) is opgenomen dat de vreemdeling kan worden uitgezet indien hij Nederland niet uit eigen beweging verlaat binnen de daartoe gestelde termijn. De rechter kan op het moment van het doen van zijn uitspraak beoordelen of er beletselen bestaan tegen uitzetting. Als de rechter de beschikking in stand laat, is met die uitspraak bevestigd dat de vreemdeling Nederland dient te verlaten.
 
 Uitzetting is een bevoegdheid en geen verplichting van de Minister. De titel tot uitzetting is van rechtswege het gevolg van het niet verlenen, niet verlengen of intrekken van de vergunning, het eindigen van het rechtmatig verblijf, of het niet rechtmatige verblijf. In [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=27),[45](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=45) en[63 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=63) is opgenomen dat de vreemdeling kan worden uitgezet indien hij Nederland niet uit eigen beweging verlaat binnen de daartoe gestelde termijn. De rechter kan op het moment van het doen van zijn uitspraak beoordelen of er beletselen bestaan tegen uitzetting. Als de rechter de beschikking in stand laat, is met die uitspraak bevestigd dat de vreemdeling Nederland dient te verlaten.
 
@@ -4479,23 +4481,23 @@ Uitzetting vindt plaats:
 
 In de regel betreft het een verwijdering per vliegtuig of schip met tussenkomst van de KMar of de ZHP.
 
-Van belang is dat in het kader van de uitzetting nimmer aan de autoriteiten van het land van herkomst van de vreemdeling, noch aan autoriteiten van het land van doorreis of bestemming, mag worden medegedeeld, of documenten mogen worden verstrekt waaruit blijkt dat de vreemdeling eerder een asielaanvraag heeft ingediend. Om te voorkomen dat deze informatie de genoemde autoriteiten bereikt, mag ook nimmer aan het personeel van de vervoersmaatschappij waarmee de vreemdeling wordt uitgezet, worden medegedeeld dat hij een asielaanvraag heeft ingediend. Er kan slechts worden aangegeven dat de persoon in kwestie geen rechtmatig verblijf in Nederland (meer) heeft en om die reden Nederland dient te verlaten.
-
 ### 6.2. Geen uitzetting ondanks de vertrekplicht
 
 In de volgende gevallen vindt vooralsnog geen uitzetting plaats ondanks het feit dat de vertrekplicht is ingegaan:
 
-Voor de situatie waarin uitzetting (vooralsnog) achterwege blijft vanwege gezondheidsredenen, wordt verwezen naar A4/7.
+In de volgende gevallen vindt vooralsnog geen uitzetting plaats ondanks het feit dat de vertrekplicht is ingegaan:
 
 ### 6.3. Verantwoordelijkheid voor maatregelen uitzetting
 
 Ten aanzien van vreemdelingen die zijn aangetroffen in het kader van het MTV is de Commandant der KMar verantwoordelijk voor het nemen van maatregelen voor de uitzetting. Hetzelfde geldt voor de situatie waarin na toegangsweigering door de KMar, de KMar in staat is binnen afzienbare tijd te realiseren dat de vreemdeling wordt verwijderd.
 
+Ten aanzien van vreemdelingen die zijn aangetroffen in het kader van het MTV is de Commandant der KMar verantwoordelijk voor het nemen van maatregelen voor de uitzetting. Hetzelfde geldt voor de situatie waarin na toegangsweigering door de KMar, de KMar in staat is binnen afzienbare tijd te realiseren dat de vreemdeling wordt verwijderd.
+
 Om maatregelen te nemen voor de uitzetting van andere vreemdelingen is in beginsel verantwoordelijk de Korpschef van achtereenvolgens:
 
-Wordt een vreemdeling die voor uitzetting in aanmerking komt echter aangetroffen in een andere gemeente dan die waarin hij in de GBA is ingeschreven, dan wel feitelijk woonachtig is, dan zal het, teneinde vertraging en het maken van onnodige kosten te vermijden, vaak aanbeveling verdienen dat de vreemdeling rechtstreeks vanuit de gemeente waar hij werd aangetroffen wordt verwijderd naar het land van herkomst of een derde land.
-
 ### 6.4. Aanlevering van de vreemdeling ten behoeve van uitzetting
+
+Over het algemeen vindt uitzetting plaats via één van de uitzetcentra, ook als het gaat om een groepsgewijze uitzetting per overheidsvlucht. De uitzetting van vreemdelingen via een uitzetcentrum kan op twee manieren plaatsvinden:
 
 Over het algemeen vindt uitzetting plaats via één van de uitzetcentra, ook als het gaat om een groepsgewijze uitzetting per overheidsvlucht. De uitzetting van vreemdelingen via een uitzetcentrum kan op twee manieren plaatsvinden:
 
@@ -4505,49 +4507,49 @@ Bij uitzetting per vliegtuig is het in uitzonderlijke gevallen in overleg met de
 
 De KMar is bij uitzetting per vliegtuig verantwoordelijk voor het boeken van een vlucht bij een daartoe aangewezen reisbureau. Minimaal 48 uur voor vertrek controleert de KMar of de vreemdeling beschikt over:
 
-Voor de uitzetting plaatsvindt, wijst de ambtenaar belast met de uitzetting (veelal de KMar of ZHP) de vreemdeling erop, dat als er documenten in de bagage van de vreemdeling bevinden waaruit kan blijken dat de vreemdeling asiel heeft gevraagd, deze achtergelaten kunnen worden.
-
-Voor het gebruik van het formulier Geleidebrief / checklist (zie [model M118](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M118&z=2006-07-16&g=2006-07-16)) zie A6/1.3.
+Voor het gebruik van het formulier Geleidebrief / checklist (zie [model M118](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M118&z=2006-07-16&g=2006-10-13)) zie A6/1.3.
 
 ### 6.5. Informatie-uitwisseling ten behoeve van de uitzetting
 
 Bij uitzetting per vliegtuig informeert de KMar de vreemdelingenpolitie schriftelijk over de geplande vluchtdatum. De vreemdelingenpolitie of de terugkeerfunctionaris van de DJI meldt aan de KMar vooraf alle omstandigheden, waaronder medische, die van belang kunnen zijn voor de vliegveiligheid of de veiligheid van de ambtenaren belast met de grensbewaking. Indien het gedrag van de vreemdeling daartoe aanleiding geeft, kan de ambtenaar belast met de grensbewaking of met het toezicht op vreemdelingen aan de KMar verzoeken om begeleiding van de vreemdeling tijdens de vlucht.
 
-Bij de overdracht van de vreemdeling aan de KMar ten behoeve van de uitzetting wordt gebruik gemaakt van een formulier Opdracht tot verwijdering (zie [model M24-A](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M24-A&z=2006-07-16&g=2006-07-16)). Na overname van de vreemdeling wordt een exemplaar van dit formulier door de KMar ondertekend en direct weer ter hand gesteld van de ambtenaar die de vreemdeling heeft overgedragen.
+Bij de overdracht van de vreemdeling aan de KMar ten behoeve van de uitzetting wordt gebruik gemaakt van een formulier Opdracht tot verwijdering (zie [model M24-A](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M24-A&z=2006-07-16&g=2006-10-13)). Na overname van de vreemdeling wordt een exemplaar van dit formulier door de KMar ondertekend en direct weer ter hand gesteld van de ambtenaar die de vreemdeling heeft overgedragen.
 
-Door middel van het formulier Opdracht tot verwijdering maakt de KMar van iedere uitzetting schriftelijk melding aan de vreemdelingenpolitie. Door de vreemdelingenpolitie, de ZHP of de KMar wordt na een uitzetting een formulier Bericht van vertrek (zie [model M100](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M100&z=2006-07-16&g=2006-07-16)) opgemaakt (zie A4/6.9). Tevens wordt een Verzoek tot signalering (zie [model M93](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M93&z=2006-07-16&g=2006-07-16)) opgemaakt (zie A4/6.8 en A3/9).
+Door middel van het formulier Opdracht tot verwijdering maakt de KMar van iedere uitzetting schriftelijk melding aan de vreemdelingenpolitie. Door de vreemdelingenpolitie, de ZHP of de KMar wordt na een uitzetting een formulier Bericht van vertrek (zie [model M100](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M100&z=2006-07-16&g=2006-10-13)) opgemaakt (zie A4/6.9). Tevens wordt een Verzoek tot signalering (zie [model M93](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M93&z=2006-07-16&g=2006-10-13)) opgemaakt (zie A4/6.8 en A3/9).
 
-Op het formulier Opdracht tot verwijdering moet worden aangegeven of de vreemdeling behoort tot de categorie asiel of niet-asiel. Het is daarom van belang dat het formulier Opdracht tot verwijdering nimmer wordt overgegeven aan buitenlandse autoriteiten.
+Door middel van het formulier Opdracht tot verwijdering maakt de KMar van iedere uitzetting schriftelijk melding aan de vreemdelingenpolitie. Door de vreemdelingenpolitie, de ZHP of de KMar wordt na een uitzetting een formulier Bericht van vertrek (zie [model M100](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M100&z=2006-11-16&g=2006-10-13)) opgemaakt (zie A4/6.9). Tevens wordt een Verzoek tot signalering (zie [model M93](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M93&z=2006-11-16&g=2006-10-13)) opgemaakt (zie A4/6.8 en A3/9).
 
 ### 6.6. Hulpmiddelen ten behoeve van uitzetting
 
 In artikel 23a en 23b Ambtsinstructie voor de politie, Koninklijke Marechaussee en de buitengewoon opsporingsambtenaar zijn regels opgesteld voor het gebruik van hulpmiddelen ten behoeve van de uitzetting.
 
+In artikel 23a en 23b Ambtsinstructie voor de politie, Koninklijke Marechaussee en de buitengewoon opsporingsambtenaar zijn regels opgesteld voor het gebruik van hulpmiddelen ten behoeve van de uitzetting.
+
 Artikel 23a Ambtsinstructie bevat de voorwaarden waaronder hulpmiddelen kunnen worden ingezet.
 
-Op grond van artikel 23a, derde lid, Ambtsinstructie zal de ambtenaar belast met de grensbewaking of het toezicht op vreemdelingen, indien hij onder leiding van een meerdere optreedt, geen gebruik maken van hulpmiddelen ten behoeve van uitzetting dan na uitdrukkelijke last van deze meerdere. Het is de inschatting van de meerdere welk hulpmiddel voor een bepaalde situatie het beste kan worden aangewend. De eisen van subsidiariteit en proportionaliteit dienen te allen tijde in acht te worden genomen bij het toepassen van hulpmiddelen bij een uitzetting. Deze inschatting dient te worden gemaakt op het moment van of vlak voor de daadwerkelijke uitzetting.
+De informatie over het gedrag van de vreemdeling opgenomen in de checklist/ geleidebrief (zie [model M118](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M118&z=2006-07-16&g=2006-10-13)) dient bij deze inschatting te worden betrokken. De gezagvoerder van het luchtvaartuig dient vooraf, in een zo vroeg mogelijk stadium, te worden geïnformeerd in geval van aanwending hulpmiddelen bij het aan boord brengen van de vreemdeling. Na het sluiten van de vliegtuigdeuren kan enkel in overleg met en na toestemming van de gezagvoerder van het luchtvaartuig worden overgegaan tot het aanwenden van hulpmiddelen.
 
-De informatie over het gedrag van de vreemdeling opgenomen in de checklist/ geleidebrief (zie [model M118](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M118&z=2006-07-16&g=2006-07-16)) dient bij deze inschatting te worden betrokken. De gezagvoerder van het luchtvaartuig dient vooraf, in een zo vroeg mogelijk stadium, te worden geïnformeerd in geval van aanwending hulpmiddelen bij het aan boord brengen van de vreemdeling. Na het sluiten van de vliegtuigdeuren kan enkel in overleg met en na toestemming van de gezagvoerder van het luchtvaartuig worden overgegaan tot het aanwenden van hulpmiddelen.
+De informatie over het gedrag van de vreemdeling opgenomen in de checklist/ geleidebrief (zie [model M118](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M118&z=2006-11-16&g=2006-10-13)) dient bij deze inschatting te worden betrokken. De gezagvoerder van het luchtvaartuig dient vooraf, in een zo vroeg mogelijk stadium, te worden geïnformeerd in geval van aanwending hulpmiddelen bij het aan boord brengen van de vreemdeling. Na het sluiten van de vliegtuigdeuren kan enkel in overleg met en na toestemming van de gezagvoerder van het luchtvaartuig worden overgegaan tot het aanwenden van hulpmiddelen.
 
 De volgende hulpmiddelen kunnen, afzonderlijk dan wel gecombineerd, worden gebruikt:
-
-Op grond van artikel 23b Ambtsinstructie dient de toepassing van een hulpmiddel bij uitzetting onverwijld schriftelijk te worden gemeld aan de meerdere, onder vermelding van de aard van het hulpmiddel, de redenen die tot het gebruik hebben geleid en de daaruit voortvloeiende gevolgen. De meerdere ziet toe op de registratie van deze melding.
 
 ### 6.7. Uitzetting via transitluchthaven in een EU-lidstaat
 
 [Richtlijn 2003/110/EG](32003L0110) van de Raad van de EU voorziet in wederzijdse ondersteuning bij doorgeleiding in het kader van verwijdering door de lucht en geeft regels voor eenvormige procedures. Indien bij uitzetting via de lucht geen gebruik kan worden gemaakt van een rechtstreekse vlucht naar het land van bestemming, kan worden verzocht om doorgeleiding door de lucht via een andere lidstaat van de EU. Er wordt in beginsel niet om doorgeleiding door de lucht verzocht wanneer de verwijderingsmaatregel gepaard dient te gaan met de overbrenging van de betrokken vreemdeling naar een andere luchthaven op het grondgebied van de aangezochte lidstaat. Zie ook A2/8.
 
-Het verzoek om al dan niet begeleide doorgeleiding door de lucht en de daarmee verbonden ondersteuningsmaatregelen moet door de KMar schriftelijk worden ingediend bij de aangezochte lidstaat. Hiertoe dient gebruik te worden gemaakt van het formulier [model M102](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M102&z=2006-07-16&g=2006-07-16). Het verzoek moet zo vroeg mogelijk, doch ten minste twee dagen vóór de doorgeleiding, in de aangezochte lidstaat aankomen. In bijzonder dringende en naar behoren gemotiveerde gevallen mag deze termijn korter zijn. De aangezochte lidstaat dient onmiddellijk, in ieder geval binnen twee dagen, een beslissing op het verzoek bekend te maken. Deze termijn kan, in gemotiveerde gevallen, met ten hoogste 48 uur worden verlengd. Zonder instemming van de aangezochte staat wordt niet met de doorgeleiding door de lucht begonnen. Indien de aangezochte lidstaat niet binnen de gestelde termijn antwoordt, kan met de doorreis worden begonnen door middel van een kennisgeving.
+Het verzoek om al dan niet begeleide doorgeleiding door de lucht en de daarmee verbonden ondersteuningsmaatregelen moet door de KMar schriftelijk worden ingediend bij de aangezochte lidstaat. Hiertoe dient gebruik te worden gemaakt van het formulier [model M102](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M102&z=2006-07-16&g=2006-10-13). Het verzoek moet zo vroeg mogelijk, doch ten minste twee dagen vóór de doorgeleiding, in de aangezochte lidstaat aankomen. In bijzonder dringende en naar behoren gemotiveerde gevallen mag deze termijn korter zijn. De aangezochte lidstaat dient onmiddellijk, in ieder geval binnen twee dagen, een beslissing op het verzoek bekend te maken. Deze termijn kan, in gemotiveerde gevallen, met ten hoogste 48 uur worden verlengd. Zonder instemming van de aangezochte staat wordt niet met de doorgeleiding door de lucht begonnen. Indien de aangezochte lidstaat niet binnen de gestelde termijn antwoordt, kan met de doorreis worden begonnen door middel van een kennisgeving.
+
+Het verzoek om al dan niet begeleide doorgeleiding door de lucht en de daarmee verbonden ondersteuningsmaatregelen moet door de KMar schriftelijk worden ingediend bij de aangezochte lidstaat. Hiertoe dient gebruik te worden gemaakt van het formulier [model M102](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M102&z=2006-11-16&g=2006-10-13). Het verzoek moet zo vroeg mogelijk, doch ten minste twee dagen vóór de doorgeleiding, in de aangezochte lidstaat aankomen. In bijzonder dringende en naar behoren gemotiveerde gevallen mag deze termijn korter zijn. De aangezochte lidstaat dient onmiddellijk, in ieder geval binnen twee dagen, een beslissing op het verzoek bekend te maken. Deze termijn kan, in gemotiveerde gevallen, met ten hoogste 48 uur worden verlengd. Zonder instemming van de aangezochte staat wordt niet met de doorgeleiding door de lucht begonnen. Indien de aangezochte lidstaat niet binnen de gestelde termijn antwoordt, kan met de doorreis worden begonnen door middel van een kennisgeving.
 
 Ambtenaren van de KMar begeleiden de doorgeleiding. Zij moeten daarbij in alle omstandigheden de regelgeving van de aangezochte lidstaat naleven. Zij hebben derhalve geen verdergaande bevoegdheden dan de betreffende regelgeving toelaat. De begeleiders dragen tijdens de doorgeleiding door de lucht geen wapens en zijn gekleed in burgerkleding. Op verzoek dienen zij passende identificatiemiddelen te overleggen, waaronder de toestemming voor doorgeleiding die door de aangezochte lidstaat is afgegeven, of, in voorkomende gevallen, een kennisgeving van doorgeleiding.
 
-Vreemdelingen worden onmiddellijk teruggenomen van de aangezochte lidstaat wanneer:
-
 ### 6.8. Signalering in het opsporingsregister
 
-Verwijderde vreemdelingen kunnen worden gesignaleerd in het (N)SIS of het OPS, zie hiervoor A3/9. De vreemdelingenpolitie, ZHP of de KMar dient hiertoe een voorstel tot signalering in bij de IND ([model M93](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M93&z=2006-07-16&g=2006-07-16)).
+Verwijderde vreemdelingen kunnen worden gesignaleerd in het (N)SIS of het OPS, zie hiervoor A3/9. De vreemdelingenpolitie, ZHP of de KMar dient hiertoe een voorstel tot signalering in bij de IND ([model M93](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M93&z=2006-07-16&g=2006-10-13)).
 
 ### 6.9. Bericht van vertrek
+
+De vreemdelingenpolitie, ZHP of KMar dient het vertrek of de uitzetting van een vreemdeling uit Nederland door toezending van een bericht (model M100) aan de IND, en indien van toepassing aan de opvangverlenende instantie, te melden. Indien het vertrek is gefaciliteerd door IOM, blijft toezending van dit bericht achterwege (zie A4/5). De IND verstrekt dan wel voorafgaand aan het vertrek informatie aan de IOM over eventuele ketenpartners die door de IOM van het uiteindelijke vertrek op de hoogte moeten worden gesteld. In alle gevallen kan middels een model M93 advies worden uitgebracht om de vreemdeling in het OPS te signaleren (zie A3/9).
 
 De vreemdelingenpolitie, ZHP of KMar dient het vertrek of de uitzetting van een vreemdeling uit Nederland door toezending van een bericht (model M100) aan de IND, en indien van toepassing aan de opvangverlenende instantie, te melden. Indien het vertrek is gefaciliteerd door IOM, blijft toezending van dit bericht achterwege (zie A4/5). De IND verstrekt dan wel voorafgaand aan het vertrek informatie aan de IOM over eventuele ketenpartners die door de IOM van het uiteindelijke vertrek op de hoogte moeten worden gesteld. In alle gevallen kan middels een model M93 advies worden uitgebracht om de vreemdeling in het OPS te signaleren (zie A3/9).
 
@@ -4573,8 +4575,6 @@ Tijdens de asielprocedure of reguliere procedure bij adrescontrole constateren d
 
 In of na de vertrektermijn van de asielprocedure of reguliere procedure bij adrescontrole constateren dat de woonruimte van de vreemdeling definitief verlaten is. Naast de IND ontvangt, indien van toepassing, ook de opvangverlenende instantie deze informatie.
 
-Zelfstandig vertrek van een vreemdeling die, al dan niet na afloop van de vrije termijn, illegaal in Nederland heeft verbleven en die is aangetroffen bij uitreiscontrole aan de buitengrens.
-
 ### 6.10. Bericht van ontruiming
 
 Het COA dient de ontruiming van een vreemdeling uit de opvangvoorzieningen door toezending van een bericht (zie model M100a) aan de IND te melden.
@@ -4585,7 +4585,9 @@ In een aantal gevallen is uitzetting niet mogelijk, omdat de vreemdeling niet la
 
 ### 7. Geen uitzetting om gezondheidsredenen
 
-### 7.1. Beleid
+### 7. Geen uitzetting om gezondheidsredenen
+
+[Artikel 64 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=64) bepaalt dat de uitzetting achterwege dient te blijven zolang het, gelet op de gezondheidstoestand van de vreemdeling of van een van zijn gezinsleden, niet verantwoord is om te reizen.
 
 [Artikel 64 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=64) bepaalt dat de uitzetting achterwege dient te blijven zolang het, gelet op de gezondheidstoestand van de vreemdeling of van een van zijn gezinsleden, niet verantwoord is om te reizen.
 
@@ -4611,41 +4613,41 @@ Een aanvraag om [artikel 64 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&
 
 De gezondheidstoestand van de vreemdeling kan desalniettemin, gelet op de strekking van [artikel 64 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=64), aanleiding zijn om tijdelijk geen gevolg te geven aan de bevoegdheid om de vreemdeling uit te zetten.
 
-In dat geval blijft de uitzetting achterwege zonder dat sprake is van rechtmatig verblijf en zonder dat de ongewenstverklaring of toegangsweigering wordt opgeheven. In dit geval gebeurt dit naar de ratio van (en niet ingevolge) [artikel 64 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=64). Het stellen van een aantekening in het grensoverschrijdingsdocument blijft in deze gevallen achterwege.
+### 7.2. Procedure
 
 ### 7.2. Procedure
 
-### 7.2.1. Beroep op artikel 64 Vw
+Een beroep op [artikel 64 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=64)is, gelet op [artikel 1:3 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:3), een aanvraag in de zin van de [Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537). De aanvraag wordt schriftelijk gedaan bij de IND en dient steeds onderbouwd te zijn met alle gegevens en bescheiden die nodig zijn voor de beoordeling van de vraag of de uitzetting gelet op de gezondheid van betrokkene kan worden geëffectueerd. Het zal daarbij kunnen gaan om recente medische stukken van één of meer behandelend arts(en) die in een gesloten envelop, voorzien van een stempel of aantekening “medisch geheim”, aangeleverd moeten worden. Ook dient een ingevulde en ondertekende toestemmingsverklaring (zie [model 39-A](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M39-A&z=2006-07-16&g=2006-10-13)) te worden bijgevoegd. Op deze toestemmingsverklaring dienen alleen de meest recente behandelaars te worden vermeld. De aanvraag dient te worden verzonden naar de IND.
 
-Een beroep op [artikel 64 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=64)is, gelet op [artikel 1:3 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:3), een aanvraag in de zin van de [Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537). De aanvraag wordt schriftelijk gedaan bij de IND en dient steeds onderbouwd te zijn met alle gegevens en bescheiden die nodig zijn voor de beoordeling van de vraag of de uitzetting gelet op de gezondheid van betrokkene kan worden geëffectueerd. Het zal daarbij kunnen gaan om recente medische stukken van één of meer behandelend arts(en) die in een gesloten envelop, voorzien van een stempel of aantekening “medisch geheim”, aangeleverd moeten worden. Ook dient een ingevulde en ondertekende toestemmingsverklaring (zie [model 39-A](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M39-A&z=2006-07-16&g=2006-07-16)) te worden bijgevoegd. Op deze toestemmingsverklaring dienen alleen de meest recente behandelaars te worden vermeld. De aanvraag dient te worden verzonden naar de IND.
+Een beroep op [artikel 64 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=64)is, gelet op [artikel 1:3 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:3), een aanvraag in de zin van de [Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537). De aanvraag wordt schriftelijk gedaan bij de IND en dient steeds onderbouwd te zijn met alle gegevens en bescheiden die nodig zijn voor de beoordeling van de vraag of de uitzetting gelet op de gezondheid van betrokkene kan worden geëffectueerd. Het zal daarbij kunnen gaan om recente medische stukken van één of meer behandelend arts(en) die in een gesloten envelop, voorzien van een stempel of aantekening “medisch geheim”, aangeleverd moeten worden. Ook dient een ingevulde en ondertekende toestemmingsverklaring (zie [model 39-A](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M39-A&z=2006-11-16&g=2006-10-13)) te worden bijgevoegd. Op deze toestemmingsverklaring dienen alleen de meest recente behandelaars te worden vermeld. De aanvraag dient te worden verzonden naar de IND.
 
-Met uitsluitend mededelingen van de vreemdeling zelf wordt in beginsel geen genoegen genomen. Dit is slechts anders indien bij de ambtenaar belast met de uitzetting, dan wel ontruiming, reeds aanstonds en wegens concrete aanwijzingen het vermoeden rijst dat de vreemdeling medisch gezien niet in staat is om te reizen. In dat geval zal de IND ook zonder nadere onderbouwing van het beroep op [artikel 64 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=64) zich ervan moeten vergewissen of de uitzetting achterwege moet blijven en hiertoe een onderzoek instellen. In de meeste gevallen zal de medisch adviseur van het BMA om een advies worden gevraagd.
+Indien er geen medische stukken ter onderbouwing van de aanvraag worden ingediend, of indien een ingevulde toestemmingsverklaring (zie [M39-A](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M39-A&z=2006-07-16&g=2006-10-13)) ontbreekt, wordt de vreemdeling in de gelegenheid gesteld binnen een redelijke termijn de aanvraag aan te vullen en dit verzuim te herstellen. Indien de vreemdeling hier niet aan voldoet, kan de aanvraag worden afgewezen.
 
-Indien er geen medische stukken ter onderbouwing van de aanvraag worden ingediend, of indien een ingevulde toestemmingsverklaring (zie [M39-A](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M39-A&z=2006-07-16&g=2006-07-16)) ontbreekt, wordt de vreemdeling in de gelegenheid gesteld binnen een redelijke termijn de aanvraag aan te vullen en dit verzuim te herstellen. Indien de vreemdeling hier niet aan voldoet, kan de aanvraag worden afgewezen.
+Indien er geen medische stukken ter onderbouwing van de aanvraag worden ingediend, of indien een ingevulde toestemmingsverklaring (zie [M39-A](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M39-A&z=2006-11-16&g=2006-10-13)) ontbreekt, wordt de vreemdeling in de gelegenheid gesteld binnen een redelijke termijn de aanvraag aan te vullen en dit verzuim te herstellen. Indien de vreemdeling hier niet aan voldoet, kan de aanvraag worden afgewezen.
 
 De redelijke termijn voor het indienen van relevante medische stukken bedraagt in beginsel een week, maar kan korter zijn in het belang van de vreemdeling, of in het geval de uitzetting op (zeer) korte termijn gepland is.
-
-Indien de vreemdeling zich wendt tot de vreemdelingenpolitie of het COA, wordt de aanvraag om toepassing van [artikel 64 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=64) doorgezonden aan de IND.
 
 ### 7.2.2. Procedure in geval van vreemdelingenbewaring
 
 In geval de aanvraag vanuit vreemdelingenbewaring wordt gedaan, dient de ambtenaar belast met het toezicht of de ambtenaar belast met de grensbewaking de noodzakelijke voortvarendheid te betrachten en bij het doorzenden melding te maken van het feit dat aan de vreemdeling de vrijheid is ontnomen. De IND behandelt deze aanvragen met voorrang.
 
-Indien de aanvraag om [artikel 64 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=64) toe te passen wordt ingewilligd, wordt de vreemdelingenbewaring ex [artikel 59 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=59) opgeheven, aangezien er (wederom) sprake is van rechtmatig verblijf.
+In geval de aanvraag vanuit vreemdelingenbewaring wordt gedaan, dient de ambtenaar belast met het toezicht of de ambtenaar belast met de grensbewaking de noodzakelijke voortvarendheid te betrachten en bij het doorzenden melding te maken van het feit dat aan de vreemdeling de vrijheid is ontnomen. De IND behandelt deze aanvragen met voorrang.
 
 ### 7.2.3. Het raadplegen van het BMA
 
 Bij de beoordeling van een aanvraag om [artikel 64 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=64) toe te passen wordt indien nodig door de IND de medisch adviseur van het BMA geraadpleegd. Ook een andere onafhankelijk medisch deskundige kan worden benaderd om een advies uit te brengen.
 
-Naast de medische stukken dient tevens een door de vreemdeling ondertekende toestemmingsverklaring te worden meegezonden (zie [model M39-A](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M39-A&z=2006-07-16&g=2006-07-16)). De IND zendt deze stukken naar het BMA met het verzoek om een advies uit te brengen. Het medisch onderzoek wordt uitgevoerd door de medisch adviseur van het BMA dan wel een andere arts die door de medisch adviseur hiertoe wordt ingeschakeld.
+Naast de medische stukken dient tevens een door de vreemdeling ondertekende toestemmingsverklaring te worden meegezonden (zie [model M39-A](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M39-A&z=2006-07-16&g=2006-10-13)). De IND zendt deze stukken naar het BMA met het verzoek om een advies uit te brengen. Het medisch onderzoek wordt uitgevoerd door de medisch adviseur van het BMA dan wel een andere arts die door de medisch adviseur hiertoe wordt ingeschakeld.
 
 ### 7.2.4. Gevolgen indiening aanvraag
 
 Het indienen van een aanvraag om [artikel 64 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=64) toe te passen schort de vertrekplicht niet op. De vreemdeling heeft gedurende het onderzoek en behandeling van de aanvraag geen rechtmatig verblijf ex [artikel 8 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8). In beginsel zal echter geen gebruik worden gemaakt van de bevoegdheid tot uitzetting, zolang op de aanvraag niet is beslist.
 
-Het indienen van een aanvraag om [artikel 64 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=64) toe te passen schort evenmin de door het COA te volgen procedures tot beëindiging van verstrekkingen ingevolge de Rva op. Dit betekent dat de verstrekkingen kunnen worden beëindigd ondanks het feit dat door de vreemdeling een dergelijke aanvraag is gedaan.
+Het indienen van een aanvraag om [artikel 64 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=64) toe te passen schort de vertrekplicht niet op. De vreemdeling heeft gedurende het onderzoek en behandeling van de aanvraag geen rechtmatig verblijf ex [artikel 8 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8). In beginsel zal echter geen gebruik worden gemaakt van de bevoegdheid tot uitzetting, zolang op de aanvraag niet is beslist.
 
 ### 7.3. Inwilliging
+
+De IND doet, onder verwijzing naar het medisch advies, schriftelijk mededeling aan de vreemdeling dat de uitzetting achterwege zal blijven. Ook de duur van de opschorting van het vertrek, de periode waarin verwacht wordt dat de medische beletselen aanwezig zijn, wordt vermeld. Deze periode is in beginsel gelijk aan de periode die in het medisch advies is genoemd, met een maximum van een half jaar.
 
 De IND doet, onder verwijzing naar het medisch advies, schriftelijk mededeling aan de vreemdeling dat de uitzetting achterwege zal blijven. Ook de duur van de opschorting van het vertrek, de periode waarin verwacht wordt dat de medische beletselen aanwezig zijn, wordt vermeld. Deze periode is in beginsel gelijk aan de periode die in het medisch advies is genoemd, met een maximum van een half jaar.
 
@@ -4669,9 +4671,9 @@ Na afloop van deze periode ontstaat van rechtswege (wederom) de rechtsplicht voo
 
 Indien de vreemdeling zonder rechtmatig verblijf in verband met zijn gezondheidstoestand aanspraak wenst te maken op (de voortzetting van) de voorzieningen ingevolge de Rva, dan dient hij zich eerst te wenden tot de IND met het verzoek om vast te stellen of er in zijn geval sprake is van de situatie als bedoeld in [artikel 64 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=64). De IND stelt, na advies te hebben ingewonnen van de medisch adviseur, vast of de vreemdeling medisch gezien kan reizen.
 
-De aanspraak op verstrekkingen ontstaat niet door de vaststelling van de IND dat er sprake is van een situatie zoals bedoeld in [artikel 64 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=64), maar pas nadat het COA de aanvraag van betrokkene heeft getoetst aan de bepalingen van de Rva.
-
 ### 7.4. Afwijzing
+
+Indien naar het oordeel van de IND geen reisbeletselen bestaan, wordt de vreemdeling hiervan onder verwijzing naar het medisch advies schriftelijk op de hoogte gebracht.
 
 Indien naar het oordeel van de IND geen reisbeletselen bestaan, wordt de vreemdeling hiervan onder verwijzing naar het medisch advies schriftelijk op de hoogte gebracht.
 
@@ -4681,9 +4683,9 @@ Het komt voor dat de medisch adviseur in zijn advies aangeeft dat de vreemdeling
 
 De vreemdelingenpolitie ziet erop toe dat aan deze voorwaarden is voldaan voordat de vreemdeling wordt uitgezet. Het opvragen en meenemen van het medisch dossier betreft een verantwoordelijkheid van de vreemdeling zelf. De vreemdeling of zijn raadsman wordt hierop gewezen door de IND.
 
-Indien de vreemdelingenpolitie constateert dat niet is voldaan aan de medische voorwaarden die aan de uitzetting worden gesteld, treedt hij in alle gevallen in overleg met de IND.
-
 ### 7.5. Rechtsmiddelen
+
+Tegen de vaststelling dat de uitzetting niet achterwege blijft, staan op grond van [artikel 72 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=72) rechtsmiddelen open, namelijk het indienen van een bezwaarschrift bij de IND. Het indienen van een bezwaarschrift schort de vertrekplicht, uitzetting of eventuele beëindiging van de voorzieningen niet op.
 
 Tegen de vaststelling dat de uitzetting niet achterwege blijft, staan op grond van [artikel 72 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=72) rechtsmiddelen open, namelijk het indienen van een bezwaarschrift bij de IND. Het indienen van een bezwaarschrift schort de vertrekplicht, uitzetting of eventuele beëindiging van de voorzieningen niet op.
 
@@ -4693,9 +4695,9 @@ De behandeling van het verzoek om een voorlopige voorziening mag evenmin worden 
 
 De vaststelling of er sprake is van het frustreren van de uitzetting dient plaats te vinden aan de hand van alle individuele omstandigheden van de zaak. De IND zal derhalve steeds per geval moeten beoordelen of het de vreemdeling te doen is de geplande uitzetting te frustreren of dat de behandeling van het verzoek in Nederland mag worden afgewacht.
 
-In geval dat wordt geoordeeld dat de behandeling van het eerste, tijdig ingediende verzoek om een voorlopige voorziening niet in Nederland mag worden afgewacht, wordt de vreemdeling of zijn raadsman hiervan aanstonds in beginsel schriftelijk op de hoogte gebracht. Uiteraard is het aan de rechtbank om te beoordelen of de uitzetting doorgang vindt, dan wel dat er middels een spoedprocedure op het verzoek van de vreemdeling zal worden beslist.
-
 ### 7.6. Procedure bij zwangerschap/bevalling
+
+Bij zwangerschap blijft de uitzetting per vliegtuig achterwege gedurende de periode van zes weken voor tot zes weken na de bevalling. Dit is de periode van zes weken vanaf de eerste dag dat de bevalling blijkens een verklaring van een arts of verloskundige, aangevend de vermoedelijke datum van bevalling, binnen zes weken is te verwachten tot zes weken na de bevalling.
 
 Bij zwangerschap blijft de uitzetting per vliegtuig achterwege gedurende de periode van zes weken voor tot zes weken na de bevalling. Dit is de periode van zes weken vanaf de eerste dag dat de bevalling blijkens een verklaring van een arts of verloskundige, aangevend de vermoedelijke datum van bevalling, binnen zes weken is te verwachten tot zes weken na de bevalling.
 
@@ -4709,9 +4711,9 @@ In alle gevallen waarin [artikel 64 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR
 
 In de gevallen waarin [artikel 64 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=64) voor de duur van meer dan zes weken wordt toegepast, wordt door de vreemdelingenpolitie aan de vreemdelinge een document W2, met een inlegvel, voorzien van een sticker Verblijfsaantekeningen Algemeen, uitgereikt. De geldigheidsduur van het rechtmatig verblijf is gelijk aan de duur van het verleende uitstel van vertrek.
 
-Ten aanzien van andere procedurele bepalingen zij hierbij verder verwezen naar A4/7.3.
-
 ### 7.7. Procedure bij vreemdelingen met TBC
+
+De uitzetting van de vreemdeling en van zijn gezinsleden wordt opgeschort indien bij de vreemdeling of een van zijn gezinsleden TBC is geconstateerd.
 
 De uitzetting van de vreemdeling en van zijn gezinsleden wordt opgeschort indien bij de vreemdeling of een van zijn gezinsleden TBC is geconstateerd.
 
@@ -4725,9 +4727,9 @@ Indien de vreemdeling bij wie TBC is geconstateerd zich onttrekt aan de medische
 
 Onttrekt de vreemdeling zich aan de medische behandeling en er is een besmettingsgevaar aanwezig, dan is zijn uitzetting uit Nederland met het oog op zijn gezondheidstoestand niet verantwoord te achten in de zin van [artikel 64 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=64). Vanwege het zich onttrekken aan de medische behandeling kan de vreemdeling niet uit Nederland worden verwijderd, maar hij vormt daarentegen wel een gevaar voor de algemene volksgezondheid. De Wet op de bestrijding infectieziekten kan in deze situatie uitkomst bieden. Deze wet regelt onder andere gedwongen opname (isolatie) bij gevaar voor de algemene volksgezondheid en gedwongen behandeling.
 
-Ten aanzien van andere procedurele bepalingen en het eventueel verkrijgen van de Rva-verstrekkingen zij hierbij verder verwezen naar A4/7.3 en [B1/2.2.5.](onbekend)
-
 ### 8. Uitzetting via aanvoerende vervoersonderneming
+
+Ingevolge [artikel 65, eerste lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=65) kan een vreemdeling worden uitgezet door plaatsing aan boord van een schip of vliegtuig in gebruik bij dezelfde vervoersonderneming als waarmee de vreemdeling Nederland is binnengekomen indien hij Nederland onmiddellijk dient te verlaten danwel indien hij binnen zes maanden na binnenkomst met het oog op uitzetting is aangehouden.
 
 Ingevolge [artikel 65, eerste lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=65) kan een vreemdeling worden uitgezet door plaatsing aan boord van een schip of vliegtuig in gebruik bij dezelfde vervoersonderneming als waarmee de vreemdeling Nederland is binnengekomen indien hij Nederland onmiddellijk dient te verlaten danwel indien hij binnen zes maanden na binnenkomst met het oog op uitzetting is aangehouden.
 
@@ -4735,25 +4737,23 @@ Onder de toepassing van [artikel 65, eerste lid, Vw](https://wetten.overheid.nl/
 
 Voor de vaststelling van de in [artikel 65, eerste lid, onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=65) genoemde termijn van zes maanden is beslissend het tijdstip van staande houden; de plaatsing van de vreemdeling aan boord van een schip of vliegtuig dat bij dezelfde vervoersonderneming in gebruik is, kan op een tijdstip na zes maanden plaatsvinden.
 
-In A2/7.1.3 is de terugvoerplicht voor vervoerders nader uitgewerkt.
+### 9. Verhaal van kosten van uitzetting
 
 ### 9. Verhaal van kosten van uitzetting
 
-### 9.1. Algemeen uitgangspunt
+Uitgangspunt is dat de kosten van uitzetting ten laste van de uit te zetten vreemdelingen dienen te worden gebracht. Daarbij dient zo veel mogelijk gebruik te worden gemaakt van gegeven garanties of gedeponeerde gelden of reisbiljetten. Bovendien kunnen, in geval de vreemdeling niet kan betalen, de kosten van zijn uitzetting verhaalbaar zijn op derden.
 
 Uitgangspunt is dat de kosten van uitzetting ten laste van de uit te zetten vreemdelingen dienen te worden gebracht. Daarbij dient zo veel mogelijk gebruik te worden gemaakt van gegeven garanties of gedeponeerde gelden of reisbiljetten. Bovendien kunnen, in geval de vreemdeling niet kan betalen, de kosten van zijn uitzetting verhaalbaar zijn op derden.
 
-Is ook dat niet mogelijk, dan kunnen de kosten onder bepaalde voorwaarden worden gedeclareerd bij de IND.
-
 ### 9.2. Verhaal van kosten op de vreemdeling
+
+De noodzakelijke kosten van uitzetting die ten laste komen van de Staat of andere openbare lichamen kunnen op de vreemdeling zelf worden verhaald (zie a[rtikel 66 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=66), juncto [artikel 6.4 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=6.4)). Voorzover deze minderjarig is, kunnen deze kosten worden verhaald op diegenen die het wettig gezag over hem uitoefenen. Aangezien het effectueren van deze verhaalsbevoegdheid niet tegen de uitdrukkelijke wil van de vreemdeling mag plaatsvinden, dient de vreemdeling een verklaring te ondertekenen waaruit blijkt dat hij geen bezwaar heeft tegen invordering van de noodzakelijke kosten van uitzetting door de vreemdelingenpolitie. Indien de vreemdeling wel bezwaar heeft tegen de effectuering van de verhaalsbevoegdheid dan kan de weg bewandeld worden om deze verhaalsbevoegdheid juridisch af te dwingen (civiele procedure). Voor de te volgen procedure kan contact opgenomen worden met de IND.
 
 De noodzakelijke kosten van uitzetting die ten laste komen van de Staat of andere openbare lichamen kunnen op de vreemdeling zelf worden verhaald (zie a[rtikel 66 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=66), juncto [artikel 6.4 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=6.4)). Voorzover deze minderjarig is, kunnen deze kosten worden verhaald op diegenen die het wettig gezag over hem uitoefenen. Aangezien het effectueren van deze verhaalsbevoegdheid niet tegen de uitdrukkelijke wil van de vreemdeling mag plaatsvinden, dient de vreemdeling een verklaring te ondertekenen waaruit blijkt dat hij geen bezwaar heeft tegen invordering van de noodzakelijke kosten van uitzetting door de vreemdelingenpolitie. Indien de vreemdeling wel bezwaar heeft tegen de effectuering van de verhaalsbevoegdheid dan kan de weg bewandeld worden om deze verhaalsbevoegdheid juridisch af te dwingen (civiele procedure). Voor de te volgen procedure kan contact opgenomen worden met de IND.
 
 Indien de vreemdeling zelf niet in staat is de kosten te voldoen, dient te worden nagegaan of door of ten behoeve van hem een passagebiljet, een garantiesom of een waarborgsom werd gedeponeerd of een garantverklaring werd afgegeven (zie A2/4.2.3.2 en [B1/2.1.7.1](onbekend)). In een dergelijk geval kunnen deze gelden of biljetten worden aangewend voor de betaling van de kosten van de verwijdering of zal de garantsteller worden aangesproken om aan zijn verplichtingen te voldoen.
 
 Indien het vreemdelingen betreft op wie het beleid ten aanzien van slachtoffers van vrouwenhandel van toepassing is (zie [B9](onbekend)), dient het verhaal van kosten steeds in overleg met de IND te gebeuren.
-
-Op grond van voor Nederland verbindende verdragsbepalingen is verhaal van kosten op de uit te zetten vreemdeling zelf niet geoorloofd, indien het onderdanen betreft van een der landen aangesloten bij het Europese Verdrag betreffende sociale en medische bijstand in de gevallen bedoeld in artikel 8 juncto artikel 7 van dat Verdrag (zie [B11](onbekend));
 
 ### 9.3. Verhaal van kosten op de vervoerder
 
@@ -4765,13 +4765,15 @@ Van ontvangen gelden dient schriftelijke opgave te worden gedaan aan de IND met 
 
 ### 10. Vreemdelingen in de strafrechtketen
 
-### 10.1. Protocol VRIS
+### 10. Vreemdelingen in de strafrechtketen
 
 Wanneer vreemdelingen strafbare feiten plegen, is het van belang dat de vreemdelingrechtelijke consequenties hiervan worden bezien. Zoveel als mogelijk dienen criminele illegale vreemdelingen na ommekomst van hun straf uit Nederland te worden verwijderd, bij voorkeur vanuit strafrechtelijke detentie. Waar mogelijk moeten zij ook ongewenst worden verklaard (zie A5).
 
-Ten behoeve van de afstemming tussen de betrokken ketenpartners zijn in dit kader werkafspraken vastgelegd in het protocol VRIS. Deze afspraken moeten worden gehanteerd ten aanzien van criminele vreemdelingen. De werkafspraken in het VRIS-protocol leggen de nadruk op het in een zo vroeg mogelijk stadium vaststellen van de identiteit en nationaliteit en daarmee van de verblijfsrechtelijke status van een van criminele feiten verdachte vreemdeling door de (vreemdelingen)politie, de KMar en de IND. Doel hiervan is het vervolgtraject voor de ketenpartners makkelijker te laten verlopen en in zoveel mogelijk gevallen de verwijdering van de vreemdeling te effectueren. Ook wordt benadrukt dat een illegale vreemdeling bij onmiddellijke invrijheidsstelling altijd dient te worden overgedragen aan de vreemdelingenpolitie of de KMar voor verdere vreemdelingrechtelijke toetsing.
+Wanneer vreemdelingen strafbare feiten plegen, is het van belang dat de vreemdelingrechtelijke consequenties hiervan worden bezien. Zoveel als mogelijk dienen criminele illegale vreemdelingen na ommekomst van hun straf uit Nederland te worden verwijderd, bij voorkeur vanuit strafrechtelijke detentie. Waar mogelijk moeten zij ook ongewenst worden verklaard (zie A5).
 
 ### 10.2. Gedragslijn indien buitenlandse autoriteiten uitlevering vragen
+
+Uitlevering heeft een strafrechtelijk doel, namelijk het ter beschikking stellen van een persoon aan buitenlandse autoriteiten ten behoeve van hetzij een tegen de vreemdeling gericht strafrechtelijk onderzoek, hetzij de tenuitvoerlegging van een straf of strafrechtelijke maatregel. Uitlevering geschiedt uitsluitend krachtens verdrag en overeenkomstig de bepalingen van de Uitleveringswet. Uitlevering vindt bovendien slechts plaats op verzoek van een buitenlandse autoriteit. Indien een formeel uitleveringsverzoek is gedaan door het land waarnaar een vreemdeling zou moeten worden uitgezet of door een ander land, mogen er geen handelingen in die richting plaatsvinden totdat de uitleveringsprocedure is afgerond.
 
 Uitlevering heeft een strafrechtelijk doel, namelijk het ter beschikking stellen van een persoon aan buitenlandse autoriteiten ten behoeve van hetzij een tegen de vreemdeling gericht strafrechtelijk onderzoek, hetzij de tenuitvoerlegging van een straf of strafrechtelijke maatregel. Uitlevering geschiedt uitsluitend krachtens verdrag en overeenkomstig de bepalingen van de Uitleveringswet. Uitlevering vindt bovendien slechts plaats op verzoek van een buitenlandse autoriteit. Indien een formeel uitleveringsverzoek is gedaan door het land waarnaar een vreemdeling zou moeten worden uitgezet of door een ander land, mogen er geen handelingen in die richting plaatsvinden totdat de uitleveringsprocedure is afgerond.
 
@@ -4783,25 +4785,25 @@ In beginsel wordt een vreemdeling hangende de beslissing op een uitleveringsverz
 
 De Korpschef of de Commandant der KMar stelt zich hierover op de gebruikelijke wijze in verbinding met de ter zake bevoegde officier van justitie.
 
-Wanneer gedurende de afhandeling van een verzoek om voorlopige aanhouding of uitlevering de voorgenomen uitzetting van de vreemdeling wordt opgeschort, kan de situatie ontstaan dat zich een mogelijkheid om betrokkene uit te zetten niet meer op korte termijn zal voordoen. In dat geval dient de ambtenaar belast met de grensbewaking of met het toezicht op vreemdelingen telefonisch contact op te nemen met de IND.
-
 ### 11. Internationale overeenkomsten over terug- en overname
 
 Er bestaan bi- en multilaterale verdragen waarbij Nederland partij is die betrekking hebben op de terug- en overname van personen. Hierbij gaat het in het geval van terugname om eigen onderdanen en in het geval van overname om onderdanen van derde landen. Zo zijn er afspraken over terug- en overname tussen de Benelux-landen en hebben de Benelux en de EU terug- en overnameverdragen met derde landen. Daarnaast is er bijvoorbeeld een in Schengenverband afgesloten terug- en overnameovereenkomst met Polen en bevatten [Verordening (EG) 232/2003](32003R0232) en de Overeenkomst van Dublin (zie [C1/2](onbekend)) terug- en overnamebepalingen. Verder bestaan er bilaterale verdragen tussen de EU/Nederland en derde landen (over uiteenlopende onderwerpen) met een terug- en overnameclausule en sluit Nederland met derde landen memoranda of understanding waarin uitvoeringsafspraken met betrekking tot de terug- en overname worden vastgelegd.
 
-Of – en onder welke omstandigheden – ten behoeve van terug- of overname van een vreemdeling gebruik kan worden gemaakt van een verdrag of internationale overeenkomst (met bepalingen) over terug- en overname, kan worden nagegaan op de website van de vreemdelingenketen (zie A1/3). Over de te volgen procedure en uitvoeringsaspecten bij daadwerkelijke terug- of overname dient afstemming te worden gezocht met de IND.
+Er bestaan bi- en multilaterale verdragen waarbij Nederland partij is die betrekking hebben op de terug- en overname van personen. Hierbij gaat het in het geval van terugname om eigen onderdanen en in het geval van overname om onderdanen van derde landen. Zo zijn er afspraken over terug- en overname tussen de Benelux-landen en hebben de Benelux en de EU terug- en overnameverdragen met derde landen. Daarnaast is er bijvoorbeeld een in Schengenverband afgesloten terug- en overnameovereenkomst met Polen en bevatten [Verordening (EG) 232/2003](32003R0232) en de Overeenkomst van Dublin (zie [C1/2](onbekend)) terug- en overnamebepalingen. Verder bestaan er bilaterale verdragen tussen de EU/Nederland en derde landen (over uiteenlopende onderwerpen) met een terug- en overnameclausule en sluit Nederland met derde landen memoranda of understanding waarin uitvoeringsafspraken met betrekking tot de terug- en overname worden vastgelegd.
 
 ### 5. Ongewenstverklaring
 
-### 1. Inleiding
+### 5. Ongewenstverklaring
+
+De ongewenstverklaring betreft een administratieve maatregel die ten doel heeft bepaalde vreemdelingen, aan wie het niet of niet langer is toegestaan in Nederland te verblijven, uit ons land te weren.
 
 De ongewenstverklaring betreft een administratieve maatregel die ten doel heeft bepaalde vreemdelingen, aan wie het niet of niet langer is toegestaan in Nederland te verblijven, uit ons land te weren.
 
 Door de ongewenstverklaring wordt het verblijf in en illegale terugkeer naar Nederland van de vreemdeling strafbaar. Een vreemdeling die in Nederland verblijft, terwijl hij weet of ernstige redenen heeft om te vermoeden dat hij tot ongewenste vreemdeling is verklaard, maakt zich schuldig aan een misdrijf (zie [artikel 197 WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=197)).
 
-De ongewenstverklaring betekent tevens dat [artikel 8 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) niet van toepassing is. Dit heeft tot gevolg dat deze vreemdelingen – zolang de ongewenstverklaring van kracht blijft – niet gedurende de ‘vrije termijn’ in Nederland mogen verblijven en geen andere titel tot verblijf kunnen verkrijgen. Dit betekent tevens dat in het kader van de grensbewaking aan deze vreemdelingen de toegang tot het grondgebied zal worden geweigerd. Evenmin is het hun toegestaan de behandeling van een aanvraag in Nederland af te wachten. Tevens kan naar aanleiding van de ongewenstverklaring, de vreemdeling als ongewenst worden gesignaleerd in het OPS of (N)SIS (zie A3/9).
-
 ### 2. Gronden voor ongewenstverklaring
+
+Zie [artikel 67 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=67).
 
 Zie [artikel 67 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=67).
 
@@ -4825,17 +4827,17 @@ Ad e.: Een vreemdeling die buiten de rechtsmacht van Nederland een ernstig misdr
 
 Indien wordt overgegaan tot ongewenstverklaring van een vreemdeling is, ook bij eerste toelating – tenzij ook de gezinsleden Nederland (moeten) hebben verlaten – steeds sprake van inmenging.
 
-Beoordeeld dient te worden of die inmenging gerechtvaardigd is op grond van het tweede lid van artikel 8 EVRM. Hiertoe dient een belangenafweging te worden gemaakt tussen het belang van de vreemdeling en het belang van de Staat. Voor de omstandigheden die bij deze belangenafweging dienen te worden betrokken, wordt verwezen naar [B2/13.2.3.3.](onbekend)
+### 3. Procedurele aspecten
 
 ### 3. Procedurele aspecten
 
-### 3.1. Indienen van een voorstel
+Is de vreemdelingenpolitie van oordeel dat er gronden aanwezig zijn tot ongewenstverklaring van een vreemdeling, dan maakt zij dat onverwijld kenbaar aan de IND, hetzij middels een gemotiveerd voorstel ([model M63](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M63&z=2006-07-16&g=2006-10-13)), hetzij middels een ander gemotiveerd schrijven. In ieder geval dienen alle gegevens en bescheiden (zoals afschriften processen-verbaal en dergelijke) die voor de beoordeling van de zaak van belang kunnen zijn, naar de IND te worden gezonden. Gelet op de bewoordingen van [artikel 67 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=67), kan de IND, indien op andere wijze is gebleken dat er gronden aanwezig zijn tot ongewenstverklaring, ook ambtshalve tot ongewenstverklaring over gaan.
 
-Is de vreemdelingenpolitie van oordeel dat er gronden aanwezig zijn tot ongewenstverklaring van een vreemdeling, dan maakt zij dat onverwijld kenbaar aan de IND, hetzij middels een gemotiveerd voorstel ([model M63](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M63&z=2006-07-16&g=2006-07-16)), hetzij middels een ander gemotiveerd schrijven. In ieder geval dienen alle gegevens en bescheiden (zoals afschriften processen-verbaal en dergelijke) die voor de beoordeling van de zaak van belang kunnen zijn, naar de IND te worden gezonden. Gelet op de bewoordingen van [artikel 67 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=67), kan de IND, indien op andere wijze is gebleken dat er gronden aanwezig zijn tot ongewenstverklaring, ook ambtshalve tot ongewenstverklaring over gaan.
-
-Het verdient aanbeveling dat de vreemdelingenpolitie in een zo vroeg mogelijk stadium bericht omtrent de antecedenten van de vreemdeling en dat zij niet wachten tot de invrijheidstelling van de vreemdeling aanstaande is. Ten behoeve van de afstemming tussen de betrokken ketenpartners zijn in dit kader werkafspraken vastgelegd in het protocol VRIS (zie A4/10.1).
+Is de vreemdelingenpolitie van oordeel dat er gronden aanwezig zijn tot ongewenstverklaring van een vreemdeling, dan maakt zij dat onverwijld kenbaar aan de IND, hetzij middels een gemotiveerd voorstel ([model M63](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M63&z=2006-11-16&g=2006-10-13)), hetzij middels een ander gemotiveerd schrijven. In ieder geval dienen alle gegevens en bescheiden (zoals afschriften processen-verbaal en dergelijke) die voor de beoordeling van de zaak van belang kunnen zijn, naar de IND te worden gezonden. Gelet op de bewoordingen van [artikel 67 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=67), kan de IND, indien op andere wijze is gebleken dat er gronden aanwezig zijn tot ongewenstverklaring, ook ambtshalve tot ongewenstverklaring over gaan.
 
 ### 3.2. Voorbereiding
+
+Overeenkomstig [artikel 4:7](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:7) en [4:8 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:8) wordt de vreemdeling in de gelegenheid gesteld zijn zienswijze naar voren te brengen en daarbij feiten en omstandigheden naar voren te brengen die naar zijn mening bij de besluitvorming moeten worden betrokken (zie [B1/4.2.2](onbekend)).
 
 Overeenkomstig [artikel 4:7](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:7) en [4:8 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:8) wordt de vreemdeling in de gelegenheid gesteld zijn zienswijze naar voren te brengen en daarbij feiten en omstandigheden naar voren te brengen die naar zijn mening bij de besluitvorming moeten worden betrokken (zie [B1/4.2.2](onbekend)).
 
@@ -4843,13 +4845,13 @@ Aan de hoorplicht ingevolge de Awb wordt in beginsel door de vreemdelingenpoliti
 
 De vreemdelingenpolitie geeft in ieder geval uitvoering aan de hoorplicht indien:
 
-Uit de door de vreemdelingenpolitie aan de IND gezonden bescheiden dient duidelijk naar voren te komen of en hoe door de vreemdelingenpolitie uitvoering is gegeven aan de hoorplicht ingevolge [artikel 4:7](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:7) en [4:8 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:8). Bij voorkeur is van het gehoor een proces-verbaal opgemaakt.
+Door de vreemdeling genoemde personen, die volgens zijn verklaring iets in zijn voordeel zouden kunnen aanvoeren, moeten zoveel mogelijk (schriftelijk) worden gehoord. Een vlotte en goede besluitvorming is ermee gediend dat bij een voorstel of advies tot verblijfsbeëindiging tevens aan de IND alle relevante feiten en omstandigheden met betrekking tot de mogelijke ongewenstverklaring zo uitvoerig mogelijk worden belicht ([model M63](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M63&z=2006-07-16&g=2006-10-13)).
 
-Door de vreemdeling genoemde personen, die volgens zijn verklaring iets in zijn voordeel zouden kunnen aanvoeren, moeten zoveel mogelijk (schriftelijk) worden gehoord. Een vlotte en goede besluitvorming is ermee gediend dat bij een voorstel of advies tot verblijfsbeëindiging tevens aan de IND alle relevante feiten en omstandigheden met betrekking tot de mogelijke ongewenstverklaring zo uitvoerig mogelijk worden belicht ([model M63](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M63&z=2006-07-16&g=2006-07-16)).
-
-De IND geeft in beginsel uitvoering aan de hoorplicht in andere dan de hierboven genoemde situaties. Hierbij valt te denken aan de situatie waarin bij de afhandeling van een aanvraag tot verlening van een verblijfsvergunning regulier een inbreuk op de openbare orde wordt geconstateerd, welke dermate ernstig is dat ongewenstverklaring van de vreemdeling ex [artikel 67 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=67) is geïndiceerd. Het vorenstaande laat onverlet dat er situaties kunnen zijn, waarin horen door de vreemdelingenpolitie desalniettemin meer voor de hand ligt.
+Door de vreemdeling genoemde personen, die volgens zijn verklaring iets in zijn voordeel zouden kunnen aanvoeren, moeten zoveel mogelijk (schriftelijk) worden gehoord. Een vlotte en goede besluitvorming is ermee gediend dat bij een voorstel of advies tot verblijfsbeëindiging tevens aan de IND alle relevante feiten en omstandigheden met betrekking tot de mogelijke ongewenstverklaring zo uitvoerig mogelijk worden belicht ([model M63](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M63&z=2006-11-16&g=2006-10-13)).
 
 ### 3.3. Uitreiking van de beschikking
+
+Zie voor de toepasselijke algemene regels voor het uitreiken van beschikkingen [B1/4.5.1](onbekend).
 
 Zie voor de toepasselijke algemene regels voor het uitreiken van beschikkingen [B1/4.5.1](onbekend).
 
@@ -4860,8 +4862,6 @@ Van deze uitreiking wordt door de vreemdelingenpolitie een proces-verbaal opgema
 Kan uitreiking van de beschikking aan de vreemdeling in persoon niet plaatsvinden, dan wordt deze – met de brochure – per aangetekende brief gezonden aan zijn laatst bekende adres, wordt afschrift aan de gemachtigde gezonden, zo die er is, en vindt tevens publicatie van de beschikking in de Stcrt. plaats (zie [artikel 67, tweede lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=67)).
 
 Indien uitreiking van de beschikking aan de vreemdeling in persoon niet kan plaatsvinden en bekend is dat de vreemdeling niet langer op het laatst bekende adres woont, wordt de beschikking – met de brochure – aan de in Nederland kantoor houdende gemachtigde gezonden, zo die er is en wordt van de beschikking mededeling gedaan in de Stcrt.
-
-Indien zodanige gemachtigde er niet is, niet bekend is, of stelt niet of niet langer gemachtigde te zijn, wordt volstaan met de bekendmaking van de beschikking door mededeling ervan in de Stcrt.
 
 ### 3.4. Bezwaar en beroep
 
@@ -4875,7 +4875,7 @@ Het indienen van een bezwaarschrift leidt er niet toe dat de werking van de besc
 
 Een aantekening over de ongewenstverklaring wordt in het document voor grensoverschrijding van de vreemdeling gesteld, indien naar het oordeel van de Korpschef gegronde reden bestaat om te vermoeden dat de vreemdeling zal proberen naar Nederland terug te keren. In het kader van de grensbewaking is de ambtenaar belast met grensbewaking bevoegd een aantekening te stellen in het reisdocument van de vreemdeling omtrent de reden van weigering toegang in verband met ongewenstverklaring, zie [artikel 4.29, eerste lid, aanhef en onder h, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.29).
 
-Het stellen van een dergelijke aantekening kan onder omstandigheden gevolgen hebben voor de doorreis of toelating tot een derde land. Indien door deze aantekening de doorreis van de vreemdeling door, of diens toelating tot, een derde land zou worden bemoeilijkt, mag de aantekening omtrent ongewenstverklaring niet in het document voor grensoverschrijding worden aangetekend (zie [artikel 4.34, derde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.34)). De hier bedoelde aantekening luidt: ‘ongewenst verklaard op (datum beschikking Minister)’. Aantekeningen mogen nimmer worden geplaatst in de grensoverschrijdingsdocumenten of identiteitsbewijzen van asielzoekers (zie A3/5.2.1).
+Een aantekening over de ongewenstverklaring wordt in het document voor grensoverschrijding van de vreemdeling gesteld, indien naar het oordeel van de Korpschef gegronde reden bestaat om te vermoeden dat de vreemdeling zal proberen naar Nederland terug te keren. In het kader van de grensbewaking is de ambtenaar belast met grensbewaking bevoegd een aantekening te stellen in het reisdocument van de vreemdeling omtrent de reden van weigering toegang in verband met ongewenstverklaring, zie [artikel 4.29, eerste lid, aanhef en onder h, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.29).
 
 ### 3.7. Signalering in verband met de ongewenstverklaring
 
@@ -4883,7 +4883,9 @@ Voor wat betreft de signalering van de ongewenstverklaring ex [artikel 67 Vw](ht
 
 ### 4. Opheffing van de ongewenstverklaring
 
-### 4.1. Inleiding
+### 4. Opheffing van de ongewenstverklaring
+
+Zie [artikel 6.6 Vb.](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=6.6)
 
 Zie [artikel 6.6 Vb.](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=6.6)
 
@@ -4897,8 +4899,6 @@ Een verzoek om opheffing van een ongewenstverklaring op grond van een gevaar voo
 
 In voorkomende gevallen kan ook worden uitgegaan van een ambtsbericht van onder andere (inter-)nationale ministeries of inlichtingendiensten.
 
-Er kunnen zich echter (uitzonderlijke) gevallen voordoen waarbij het gevaar voor de openbare orde is geweken of het persoonlijk belang van de vreemdeling dient te prevaleren vóórdat de van toepassing zijnde duur van de ongewenstverklaring is verstreken. Het algemeen belang van de Staat kan alleen wijken voor het persoonlijk belang van de vreemdeling als sprake is van bijzondere feiten en omstandigheden van het individuele geval die bij de totstandkoming van de algemene regel (lees: de bovengrens) niet zijn betrokken. In ieder geval kan het enkele gegeven dat de vreemdeling zich gedurende de ongewenstverklaring niet schuldig heeft gemaakt aan enig strafbaar feit en niet meer in Nederland heeft verbleven, niet worden aangemerkt als een bijzonder feit of omstandigheid.
-
 ### 4.2. De vorm van de aanvraag
 
 De aanvraag om opheffing van de ongewenstverklaring wordt ingediend bij de IND, wordt ondertekend en bevat ten minste de naam en het volledige adres van de vreemdeling, de dagtekening en de aanduiding dat verzocht wordt om opheffing van de maatregel van ongewenstverklaring (zie [B1/4.1](onbekend)). De door de ongewenst verklaarde vreemdeling ingediende aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd of onbepaalde tijd wordt niet ambtshalve aangemerkt als aanvraag om opheffing van de ongewenstverklaring.
@@ -4907,9 +4907,11 @@ De aanvraag om opheffing van de ongewenstverklaring wordt ingediend bij de IND, 
 
 Bij de aanvraag dient de vreemdeling in ieder geval de volgende informatie te leveren (zie [artikel 6.6 derde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=6.6)):
 
-Het overleggen van een verklaring als bedoeld onder d kan achterwege blijven indien het overleggen van een dergelijke verklaring niet mogelijk is, bijvoorbeeld vanwege de algemene (oorlogs)situatie of het ontbreken van een registratie in dat land.
+Bij de aanvraag dient de vreemdeling in ieder geval de volgende informatie te leveren (zie [artikel 6.6 derde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=6.6)):
 
 ### 4.4. Beoordeling van de aanvraag
+
+Als uitgangspunt geldt dat slechts in de volgende twee situaties gesproken kan worden van bijzondere feiten en omstandigheden, die mogelijk een opheffing van de ongewenstverklaring rechtvaardigen:
 
 Als uitgangspunt geldt dat slechts in de volgende twee situaties gesproken kan worden van bijzondere feiten en omstandigheden, die mogelijk een opheffing van de ongewenstverklaring rechtvaardigen:
 
@@ -4925,8 +4927,6 @@ Als sprake is van gewijzigde feiten en omstandigheden, dient vervolgens beoordee
 
 Indien een ongewenst verklaarde vreemdeling aannemelijk heeft gemaakt dat hij gegronde redenen heeft om aan te nemen dat juist hij bij terugkeer naar zijn land van herkomst een reëel risico loopt om te worden onderworpen aan een behandeling in de zin van artikel 3 EVRM, dan wel artikel 3 Anti-Folterverdrag, zal hij nu niet worden uitgezet naar het land van herkomst. Bij de beoordeling dient het bepaalde in [C1/4.3](onbekend)te worden betrokken.
 
-Vorenstaande laat onverlet dat het voornemen tot uitzetting blijft bestaan. Voorts geldt dat op de vreemdeling de plicht rust om Nederland zelfstandig te verlaten en mitsdien zelf gevolg te geven aan zijn vertrekplicht. Eerst als de ongewenst verklaarde vreemdeling aannemelijk heeft gemaakt dat artikel 3 EVRM, dan wel artikel 3 Anti-Folterverdrag, duurzaam in de weg staat aan uitzetting naar zijn land van herkomst, en hij bovendien heeft aangetoond dat er geen derde land is waar hij zich zal kunnen vestigen, kan de vreemdeling om opheffing van zijn ongewenstverklaring verzoeken. Bij de beoordeling van dit verzoek tot opheffing moet in ieder geval de aard en ernst van het gepleegde misdrijf worden betrokken. Met name vreemdelingen aan wie artikel 1F Vluchtelingenverdrag is tegengeworpen of die een gevaar vormen voor de nationale veiligheid, hebben een grotere inspanningsverplichting om aan te tonen dat er geen derde land is waar zij zich kunnen vestigen.
-
 ### 4.5. De beslissing op de aanvraag
 
 Een besluit tot inwilliging of niet-inwilliging van een aanvraag om opheffing van de ongewenstverklaring is een beschikking welke de IND bevoegd is te slaan. Wanneer de aanvraag niet wordt ingewilligd kan de vreemdeling of zijn gemachtigde hiertegen bezwaar maken.
@@ -4937,7 +4937,7 @@ Indien wordt overgegaan tot opheffing van de ongewenstverklaring dient de IND ee
 
 ### 5. Tijdelijke opheffing van de ongewenstverklaring
 
-### 5.1. Inleiding
+### 5. Tijdelijke opheffing van de ongewenstverklaring
 
 Tijdelijke opheffing van de ongewenstverklaring ingevolge [artikel 6.7 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=6.7) kan slechts plaatsvinden in zeer uitzonderlijke en dringende gevallen. Aan de tijdelijke opheffing worden voorwaarden gesteld omtrent de plaats van binnenkomst en de duur van het verblijf in Nederland.
 
@@ -4961,21 +4961,23 @@ Aan de overkomst van de vreemdeling naar Nederland moeten voorwaarden worden ges
 
 Ten aanzien van een vreemdeling wiens ongewenstverklaring tijdelijk is opgeheven dient sprake te zijn van een gecontroleerde in- en uitreis van het Nederlands grondgebied via een buitengrens. Ook dient tijdens het verblijf van de vreemdeling in Nederland toezicht op hem te worden uitgeoefend. Tijdelijke opheffing van de ongewenstverklaring gaat gepaard met tijdelijke toegangsverlening aan een gesignaleerde vreemdeling op grond van artikel 5, tweede lid, SUO. Daarbij dient de handelwijze te worden gehanteerd zoals beschreven in A3/9.6.4.
 
-De ambtenaren belast met de grensbewaking worden door de IND op de hoogte gesteld van de komst van de vreemdeling naar Nederland. Bij vertrek van de vreemdeling uit Nederland moeten de ambtenaren belast met de grensbewaking de IND van het moment van het daadwerkelijke vertrek op de hoogte stellen.
+Ten aanzien van een vreemdeling wiens ongewenstverklaring tijdelijk is opgeheven dient sprake te zijn van een gecontroleerde in- en uitreis van het Nederlands grondgebied via een buitengrens. Ook dient tijdens het verblijf van de vreemdeling in Nederland toezicht op hem te worden uitgeoefend. Tijdelijke opheffing van de ongewenstverklaring gaat gepaard met tijdelijke toegangsverlening aan een gesignaleerde vreemdeling op grond van artikel 5, tweede lid, SUO. Daarbij dient de handelwijze te worden gehanteerd zoals beschreven in A3/9.6.4.
 
-Hoe het toezicht op de vreemdeling tijdens zijn verblijf in Nederland moet worden ingericht, dient per individueel geval te worden bezien. Dit hangt onder meer af van de ernst van de onderliggende feiten die tot de ongewenstverklaring hebben geleid en van de reden waarom de vreemdeling in Nederland is. De toe te passen vorm van toezicht moet worden afgestemd met de instantie die om het verblijf van de vreemdeling in Nederland heeft verzocht. Gedacht kan worden aan een vorm van beperking van bewegingsvrijheid op grond van [artikel 56, eerste lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=56) en [artikel 5.1 Vb.](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=5.1)
+De ambtenaren belast met de grensbewaking worden door de IND op de hoogte gesteld van de komst van de vreemdeling naar Nederland. Bij vertrek van de vreemdeling uit Nederland moeten de ambtenaren belast met de grensbewaking de IND van het moment van het daadwerkelijke vertrek op de hoogte stellen.
 
 ### 6. EU-/EER-onderdanen, Zwitserse onderdanen en familieleden
 
-### 6.1. Inleiding
+### 6. EU-/EER-onderdanen, Zwitserse onderdanen en familieleden
+
+[Artikel 8.7 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.7) geeft aan welke vreemdelingen onder welke omstandigheden onder de toepassing van het Gemeenschapsrecht inzake vrij verkeer vallen. Het gaat hier om:
 
 [Artikel 8.7 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.7) geeft aan welke vreemdelingen onder welke omstandigheden onder de toepassing van het Gemeenschapsrecht inzake vrij verkeer vallen. Het gaat hier om:
 
 Voor een nadere uitwerking van (de bepalingen die gelden voor) de categorieën vermeld in [artikel 8.7 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.7) wordt verwezen naar [B10](onbekend).
 
-Ongewenstverklaring ex [artikel 67 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=67) van een vreemdeling genoemd in [artikel 8.7 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.7) kan met toepassing van [artikel 8.22 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.22) geschieden om redenen van openbare orde of openbare veiligheid.
-
 ### 6.2. Ongewenstverklaring
+
+Er dient sprake te zijn van een actuele, werkelijke en ernstige bedreiging voor een fundamenteel belang van de samenleving door uitsluitend de **persoonlijke** gedragingen van de EU-/EER-onderdaan, de Zwitserse onderdaan en zijn familielid als bedoeld in [artikel 8.7, tweede, derde en vierde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.7) (zie [artikel 8.22, eerste lid, sub a, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.22)).
 
 Er dient sprake te zijn van een actuele, werkelijke en ernstige bedreiging voor een fundamenteel belang van de samenleving door uitsluitend de **persoonlijke** gedragingen van de EU-/EER-onderdaan, de Zwitserse onderdaan en zijn familielid als bedoeld in [artikel 8.7, tweede, derde en vierde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.7) (zie [artikel 8.22, eerste lid, sub a, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.22)).
 
@@ -4987,19 +4989,17 @@ Het rechtmatig verblijf wordt echter niet beëindigd en de vreemdeling wordt nie
 
 Indien dwingende redenen van openbare veiligheid daartoe nopen, kan echter weer wel tot beëindiging van het rechtmatig verblijf en tot ongewenstverklaring worden overgegaan.
 
-Bij de voorbereiding van de beschikking tot beëindiging van het rechtmatig verblijf dienen in overweging te worden genomen (zie artikel 28, eerste lid, [Richtlijn 2004/38](32004L0038) EG):
-
 ### 6.3. Procedurele aspecten ongewenstverklaring
 
 Zie voor de procedurele aspecten met betrekking tot de ongewenstverklaring A5/3.
 
 ### 6.4. Opheffing van de ongewenstverklaring
 
-### 6.4.1. Inleiding
+### 6.4. Opheffing van de ongewenstverklaring
 
 De aanvraag tot opheffing van de ongewenstverklaring kan ingevolge het bepaalde in [artikel 8.22, vierde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.22), slechts worden gedaan
 
-Of er sprake is van het verstrijken van een redelijke termijn is afhankelijk van de individuele omstandigheden. Die termijn kan korter zijn dan drie jaren, maar ook langer. Een aanvraag die ten minste drie jaren na effectuering van de verwijdering is ingediend, leidt derhalve niet automatisch tot opheffing van de ongewenstverklaring.
+De aanvraag tot opheffing van de ongewenstverklaring kan ingevolge het bepaalde in [artikel 8.22, vierde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.22), slechts worden gedaan
 
 ### 6.4.2. Vorm van de aanvraag
 
@@ -5009,19 +5009,21 @@ De aanvraag tot opheffing dient te worden ingediend bij de IND. Voor de vormvere
 
 Bij de aanvraag voert de vreemdeling argumenten aan om te bewijzen dat er een wijziging in materiële zin is opgetreden in de omstandigheden die het besluit rechtvaardigden om jegens hem een verwijderingsmaatregel uit te vaardigen, een en ander als bedoeld in artikel 32 van [Richtlijn 2004/38](32004L0038) EG van 29 april 2004 betreffende het recht op vrij verkeer en verblijf op het grondgebied van de lidstaten van de burgers van de Unie en hun familieleden (PbEU L158 en L229), welke op 29 april 2006 is geïmplementeerd. Hierbij dient te worden gedacht aan
 
-Het kan voorkomen dat een vreemdeling in een individueel geval aanvullende gegevens en bescheiden zal moeten overleggen, ofwel deze eigener beweging overlegt.
+Bij de aanvraag voert de vreemdeling argumenten aan om te bewijzen dat er een wijziging in materiële zin is opgetreden in de omstandigheden die het besluit rechtvaardigden om jegens hem een verwijderingsmaatregel uit te vaardigen, een en ander als bedoeld in artikel 32 van [Richtlijn 2004/38](32004L0038) EG van 29 april 2004 betreffende het recht op vrij verkeer en verblijf op het grondgebied van de lidstaten van de burgers van de Unie en hun familieleden (PbEU L158 en L229), welke op 29 april 2006 is geïmplementeerd. Hierbij dient te worden gedacht aan
 
-Het staat de vreemdeling uiteraard vrij andere dan de hierboven genoemde gegevens en bescheiden te overleggen ten bewijze van het feit dat er een wijziging in materiële zin is opgetreden in de omstandigheden die het besluit rechtvaardigden om jegens hem een verwijderingsmaatregel uit te vaardigen.
+Het kan voorkomen dat een vreemdeling in een individueel geval aanvullende gegevens en bescheiden zal moeten overleggen, ofwel deze eigener beweging overlegt.
 
 ### 6.4.4. De beslissing op de aanvraag
 
 Zie voor de algemeen toepasselijke regels ter zake van de beslissing op de aanvraag A5/4.4.
 
-De beschikking op de aanvraag tot opheffing van de ongewenstverklaring moet worden gegeven uiterlijk binnen zes maanden na de datum van indiening van de aanvraag (zie [artikel 8.22, vijfde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.22)).
+Zie voor de algemeen toepasselijke regels ter zake van de beslissing op de aanvraag A5/4.4.
 
 ### 6. Vrijheidsbeperkende en vrijheidsontnemende maatregelen
 
-### 1. Algemeen
+### 6. Vrijheidsbeperkende en vrijheidsontnemende maatregelen
+
+Het vreemdelingentoezicht en het terugkeerbeleid maken deel uit van het door de overheid gevoerde vreemdelingenbeleid. De terugkeer van vreemdelingen is in veel gevallen het sluitstuk van het binnenlandse vreemdelingentoezicht. Om deze taken van toezicht en terugkeer te realiseren kan de overheid gebruik maken van vrijheidsbeperkende en vrijheidsontnemende maatregelen.
 
 Het vreemdelingentoezicht en het terugkeerbeleid maken deel uit van het door de overheid gevoerde vreemdelingenbeleid. De terugkeer van vreemdelingen is in veel gevallen het sluitstuk van het binnenlandse vreemdelingentoezicht. Om deze taken van toezicht en terugkeer te realiseren kan de overheid gebruik maken van vrijheidsbeperkende en vrijheidsontnemende maatregelen.
 
@@ -5031,23 +5033,23 @@ Vanwege het ingrijpende karakter dient de toepassing van een vrijheidsbeperkende
 
 Tegen een besluit tot het opleggen van een vrijheidsbeperkende of vrijheidsontnemende maatregel kan de vreemdeling beroep instellen bij de rechtbank (zie [artikel 93 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=15)). Het indienen van bezwaar of administratief beroep tegen deze maatregelen is niet mogelijk (zie [artikel 75](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=75) en [77 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=77)).
 
-De Minister kan aan de Korpschef en aan de Commandant der KMar aanwijzingen geven over de uitvoering van de [Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823), ook ten aanzien van de in dit hoofdstuk genoemde maatregelen (zie [artikel 48, tweede lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=48)).
-
 ### 1.1. Overzicht vrijheidsbeperkende en vrijheidsontnemende maatregelen
 
 De Vw kent vijf maatregelen van vrijheidsbeperking:
 
-Naast de vrijheidsbeperkende maatregelen kent de wet vier vrijheidsontnemende maatregelen:
+De Vw kent vijf maatregelen van vrijheidsbeperking:
 
 ### 1.2. Mededeling van vrijheidsontnemende maatregelen
 
-### 1.2.1. Mededeling aan de IND
+### 1.2. Mededeling van vrijheidsontnemende maatregelen
 
-De ambtenaar belast met grensbewaking, de ambtenaar belast met het toezicht op vreemdelingen of de hulpofficier van justitie die een vreemdeling een vrijheidsontnemende maatregel op grond van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=6), [artikel 58](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=58) of [artikel 59 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=59) oplegt, dient de IND door middel van [model M19](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M19&z=2006-07-16&g=2006-07-16) of [M110-A](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M110-A&z=2006-07-16&g=2006-07-16) daarvan op de eerste dag van het opleggen van de maatregel op de hoogte te brengen (zie [artikel 5.6 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=5.6)). Deze mededeling aan de IND dient ook plaats te vinden indien een dergelijke maatregel inmiddels is opgeheven.
+De ambtenaar belast met grensbewaking, de ambtenaar belast met het toezicht op vreemdelingen of de hulpofficier van justitie die een vreemdeling een vrijheidsontnemende maatregel op grond van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=6), [artikel 58](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=58) of [artikel 59 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=59) oplegt, dient de IND door middel van [model M19](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M19&z=2006-07-16&g=2006-10-13) of [M110-A](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M110-A&z=2006-07-16&g=2006-10-13) daarvan op de eerste dag van het opleggen van de maatregel op de hoogte te brengen (zie [artikel 5.6 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=5.6)). Deze mededeling aan de IND dient ook plaats te vinden indien een dergelijke maatregel inmiddels is opgeheven.
 
-In verband met de kennisgeving van de IND aan de rechtbank of een beroep bij de rechtbank van de vreemdeling tegen één van deze maatregelen dient hierbij tevens een aantal noodzakelijke bescheiden aan de IND verzonden te worden, zie A6/6.2.3en A6/6.2.4.
+De ambtenaar belast met grensbewaking, de ambtenaar belast met het toezicht op vreemdelingen of de hulpofficier van justitie die een vreemdeling een vrijheidsontnemende maatregel op grond van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=6), [artikel 58](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=58) of [artikel 59 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=59) oplegt, dient de IND door middel van [model M19](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M19&z=2006-11-16&g=2006-10-13) of [M110-A](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M110-A&z=2006-11-16&g=2006-10-13) daarvan op de eerste dag van het opleggen van de maatregel op de hoogte te brengen (zie [artikel 5.6 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=5.6)). Deze mededeling aan de IND dient ook plaats te vinden indien een dergelijke maatregel inmiddels is opgeheven.
 
 ### 1.2.2. Mededeling aan derden
+
+Op verzoek van de vreemdeling wordt zo spoedig mogelijk mededeling van de tenuitvoerlegging van een vrijheidsontnemende maatregel op grond van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=6), [58](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=58)of [59 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=59) gedaan aan zijn naaste verwanten en aan een in Nederland gevestigde diplomatieke of consulaire vertegenwoordiging van de staat waarvan hij onderdaan is.
 
 Op verzoek van de vreemdeling wordt zo spoedig mogelijk mededeling van de tenuitvoerlegging van een vrijheidsontnemende maatregel op grond van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=6), [58](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=58)of [59 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=59) gedaan aan zijn naaste verwanten en aan een in Nederland gevestigde diplomatieke of consulaire vertegenwoordiging van de staat waarvan hij onderdaan is.
 
@@ -5055,37 +5057,35 @@ De betrokken vreemdeling dient er steeds op gewezen te worden dat hij contact ka
 
 Wordt een vrijheidsontnemende maatregel aan een minderjarige opgelegd dan wordt daarvan, als daartoe de gelegenheid bestaat, ambtshalve zo spoedig mogelijk mededeling gedaan aan degenen die de ouderlijke macht of de voogdij over die minderjarige uitoefenen, voorzover die zich in Nederland bevinden. Is dat niet mogelijk, dan zal de diplomatieke of consulaire vertegenwoordiging hier te lande ingelicht worden.
 
-De in de vorige alinea’s vermelde verplichting rust op de ambtenaar die de maatregel oplegt.
-
 ### 1.3. Geleidebrief/checklist
 
-Ten behoeve van een zorgvuldige en efficiënte informatievoorziening aan alle betrokkenen bij de uitzetting van een vreemdeling wordt een geleidebrief/checklist [model M118](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M118&z=2006-07-16&g=2006-07-16) opgemaakt. Het ingevulde formulier geeft informatie om de vrijheidsontneming en de uitzetting van een vreemdeling zo probleemloos mogelijk te doen verlopen. Het wordt opgemaakt bij iedere vrijheidsontneming op grond van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=6), [artikel 58](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=58) of [artikel 59 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=59) en dient de vreemdeling te begeleiden van het moment van ingang van de vrijheidsontnemende maatregel tot zijn uitzetting of invrijheidstelling. Eventuele wijzigingen en aanvullingen dienen terstond te worden aangebracht.
+Ten behoeve van een zorgvuldige en efficiënte informatievoorziening aan alle betrokkenen bij de uitzetting van een vreemdeling wordt een geleidebrief/checklist [model M118](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M118&z=2006-07-16&g=2006-10-13) opgemaakt. Het ingevulde formulier geeft informatie om de vrijheidsontneming en de uitzetting van een vreemdeling zo probleemloos mogelijk te doen verlopen. Het wordt opgemaakt bij iedere vrijheidsontneming op grond van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=6), [artikel 58](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=58) of [artikel 59 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=59) en dient de vreemdeling te begeleiden van het moment van ingang van de vrijheidsontnemende maatregel tot zijn uitzetting of invrijheidstelling. Eventuele wijzigingen en aanvullingen dienen terstond te worden aangebracht.
+
+Ten behoeve van een zorgvuldige en efficiënte informatievoorziening aan alle betrokkenen bij de uitzetting van een vreemdeling wordt een geleidebrief/checklist [model M118](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M118&z=2006-11-16&g=2006-10-13) opgemaakt. Het ingevulde formulier geeft informatie om de vrijheidsontneming en de uitzetting van een vreemdeling zo probleemloos mogelijk te doen verlopen. Het wordt opgemaakt bij iedere vrijheidsontneming op grond van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=6), [artikel 58](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=58) of [artikel 59 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=59) en dient de vreemdeling te begeleiden van het moment van ingang van de vrijheidsontnemende maatregel tot zijn uitzetting of invrijheidstelling. Eventuele wijzigingen en aanvullingen dienen terstond te worden aangebracht.
 
 Hierna wordt het formulier bewaard in de vreemdelingenadministratie.
 
 Het formulier wordt ingevuld door of namens de ambtenaar die voor de vrijheidsontnemende maatregel verantwoordelijk is. Deze is ook verantwoordelijk voor het aanbrengen van wijzigingen en aanvullingen op het formulier. Vanaf het moment dat de vrijheidsontneming in een inrichting plaatsvindt, rust deze verantwoordelijkheid op de terugkeerfunctionaris die in die inrichting werkzaam is.
 
-Nadat de uitzetting heeft plaatsgevonden retourneert de ambtenaar belast met de grensbewaking het gehele formulier aan de ambtenaar die voor de oorspronkelijke vrijheidsbeneming verantwoordelijk was.
-
 ### 1.4. Het lichten van vreemdelingen
+
+Zie [artikel 5.5 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=5.5). Voor het lichten van strafrechtelijk gedetineerde vreemdelingen wordt verwezen naar A4/10.1.
 
 Zie [artikel 5.5 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=5.5). Voor het lichten van strafrechtelijk gedetineerde vreemdelingen wordt verwezen naar A4/10.1.
 
 Gedurende de tenuitvoerlegging van de vrijheidsontneming op grond van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=6), [58](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=58) of [59 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=59) kan de vreemdeling voor korte duur naar elders (bijvoorbeeld politiebureau, brigade van KMar, een ambassade of consulaat etc.) overgebracht worden, indien dit redelijkerwijs nodig is voor de toepassing van het bepaalde bij of krachtens de [Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823). De opdracht tot lichten kan door een hulpofficier van justitie gegeven worden. Van deze mogelijkheid kan gebruik gemaakt worden bijvoorbeeld om de vreemdeling te horen of te presenteren bij een diplomatieke vertegenwoordiging in verband met de uitvoering van de Vw. Hierbij dienen de volgende voorwaarden in acht te worden genomen:
 
-De op grond van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=6), [58](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=58) of [59 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=59) opgelegde maatregel blijft gedurende de tijd dat de vreemdeling gelicht is van kracht.
-
 ### 1.5. Vrijheidsontnemende maatregelen bij jeugdigen onder 16 jaar
+
+Vrijheidsontneming is een ingrijpende maatregel. De toepassing daarvan moet daarom tot het strikt noodzakelijke beperkt blijven. De noodzaak van een zo beperkt mogelijke toepassing van vrijheidsontneming bestaat in versterkte mate wanneer het gaat om jeugdige personen jonger dan 16 jaar. Voordat tot vrijheidsontneming overgegaan wordt, moet worden bezien of volstaan kan worden met de aanzegging te verblijven op een bij de Korpschef, ambtenaar belast met grensbewaking of hulpofficier van justitie bekend opvangadres (bijvoorbeeld bij familie, kennissen of andere particuliere personen). Bij aannemelijke twijfel omtrent de leeftijd van deze vreemdelingen kan een leeftijdsonderzoek worden ingesteld volgens de daarvoor geldende protocollen (zie [C/1](onbekend)).
 
 Vrijheidsontneming is een ingrijpende maatregel. De toepassing daarvan moet daarom tot het strikt noodzakelijke beperkt blijven. De noodzaak van een zo beperkt mogelijke toepassing van vrijheidsontneming bestaat in versterkte mate wanneer het gaat om jeugdige personen jonger dan 16 jaar. Voordat tot vrijheidsontneming overgegaan wordt, moet worden bezien of volstaan kan worden met de aanzegging te verblijven op een bij de Korpschef, ambtenaar belast met grensbewaking of hulpofficier van justitie bekend opvangadres (bijvoorbeeld bij familie, kennissen of andere particuliere personen). Bij aannemelijke twijfel omtrent de leeftijd van deze vreemdelingen kan een leeftijdsonderzoek worden ingesteld volgens de daarvoor geldende protocollen (zie [C/1](onbekend)).
 
 De volgende regels zijn van toepassing:
 
-Indien het voornemen bestaat een uitzondering te maken op a – c vindt overleg met de IND plaats.
-
 ### 2. Toegang
 
-### 2.1. De maatregelen op grond van artikel 6 Vw
+### 2. Toegang
 
 De vreemdeling aan wie de toegang tot Nederland is geweigerd, dient krachtens [artikel 5 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=5) Nederland onmiddellijk te verlaten. Deze verplichting geldt niet indien de vreemdeling een aanvraag tot het verlenen van een verblijfsvergunning als bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=28) of [33 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=33) indient (zie [artikel 5, derde lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=5)). Aan een geweigerde vreemdeling kan op grond van [artikel 6 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=6) een vrijheidsbeperkende of -ontnemende maatregel worden opgelegd.
 
@@ -5093,7 +5093,7 @@ De vreemdeling aan wie de toegang tot Nederland is geweigerd, dient krachtens [a
 
 In het belang van de grensbewaking en de internationale betrekkingen dient voorkomen te worden dat de vreemdeling aan wie de toegang tot Nederland geweigerd is – maar die Nederland niet onmiddellijk kan verlaten – zich in de tijd tot aan zijn vertrek toch de feitelijke toegang tot Nederland kan verschaffen. Op grond van artikel 5, eerste lid, aanhef en onder f EVRM is vrijheidsontneming van vreemdelingen slechts toegestaan om de onrechtmatige binnenkomst in een land te voorkomen of om de verwijdering of uitlevering veilig te stellen. [Artikel 6 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=6) dient het eerste doel en biedt de mogelijkheid om geweigerde vreemdelingen hun vrijheid te beperken of zelfs te ontnemen.
 
-Bij een vrijheidsbeperkende maatregel kan de vreemdeling in afwachting van zijn vertrek opgedragen worden zich in een bepaalde ruimte of op een bepaalde plaats op te houden (zie [artikel 6, eerste lid , Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=6)). De vreemdeling mag deze ruimte of plaats niet verlaten, maar kan dit feitelijk wel. Wanneer deze ruimte of plaats beveiligd wordt tegen ongeoorloofd vertrek van de vreemdeling spreken we van vrijheidsontneming. Deze maatregel wordt gegeven op grond van [artikel 6, eerste en tweede lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=6).
+In het belang van de grensbewaking en de internationale betrekkingen dient voorkomen te worden dat de vreemdeling aan wie de toegang tot Nederland geweigerd is – maar die Nederland niet onmiddellijk kan verlaten – zich in de tijd tot aan zijn vertrek toch de feitelijke toegang tot Nederland kan verschaffen. Op grond van artikel 5, eerste lid, aanhef en onder f EVRM is vrijheidsontneming van vreemdelingen slechts toegestaan om de onrechtmatige binnenkomst in een land te voorkomen of om de verwijdering of uitlevering veilig te stellen. [Artikel 6 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=6) dient het eerste doel en biedt de mogelijkheid om geweigerde vreemdelingen hun vrijheid te beperken of zelfs te ontnemen.
 
 ### 2.3. De bevoegdheid
 
@@ -5103,25 +5103,25 @@ De in [artikel 46 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=46
 
 [Artikel 6, eerste lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=6) geeft aan dat aan de vreemdeling aan wie de toegang tot Nederland is geweigerd, de verplichting opgelegd kan worden om zich op te houden in een door de ambtenaar belast met de grensbewaking aangewezen ruimte of plaats. Deze ruimte kan ingevolge het tweede lid worden beveiligd tegen ongeoorloofd vertrek. Het opleggen van de vrijheidsontnemende maatregel is in ieder geval geïndiceerd wanneer naar het oordeel van de ambtenaar belast met de grensbewaking aanwijzingen bestaan dat de vreemdeling zich niet zal houden aan de aanwijzing om zich op te houden in de bedoelde ruimte of plaats en/of omdat aspecten van openbare orde of nationale veiligheid dit vorderen. Ten aanzien van vreemdelingen die een aanvraag tot het verlenen van een verblijfsvergunning asiel indienen of hebben ingediend, wordt verwezen naar de paragraaf hieronder en [C3/11.3.](onbekend) De vrijheidsbeneming zal dan een aanvang nemen in een gebouw van de doorlaatpost of een politiebureau. Daarna zal de vreemdeling met een nieuwe beschikking geplaatst moeten worden in een inrichting waar het Reglement grenslogies (Stb. 1993, nr. 45) van toepassing is. Dient deze vreemdeling een aanvraag om een verblijfsvergunning asiel in dan dient gehandeld te worden zoals hierna vermeld.
 
+[Artikel 6, eerste lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=6) geeft aan dat aan de vreemdeling aan wie de toegang tot Nederland is geweigerd, de verplichting opgelegd kan worden om zich op te houden in een door de ambtenaar belast met de grensbewaking aangewezen ruimte of plaats. Deze ruimte kan ingevolge het tweede lid worden beveiligd tegen ongeoorloofd vertrek. Het opleggen van de vrijheidsontnemende maatregel is in ieder geval geïndiceerd wanneer naar het oordeel van de ambtenaar belast met de grensbewaking aanwijzingen bestaan dat de vreemdeling zich niet zal houden aan de aanwijzing om zich op te houden in de bedoelde ruimte of plaats en/of omdat aspecten van openbare orde of nationale veiligheid dit vorderen. Ten aanzien van vreemdelingen die een aanvraag tot het verlenen van een verblijfsvergunning asiel indienen of hebben ingediend, wordt verwezen naar de paragraaf hieronder en [C3/11.3.](onbekend) De vrijheidsbeneming zal dan een aanvang nemen in een gebouw van de doorlaatpost of een politiebureau. Daarna zal de vreemdeling met een nieuwe beschikking geplaatst moeten worden in een inrichting waar het Reglement grenslogies (Stb. 1993, nr. 45) van toepassing is. Dient deze vreemdeling een aanvraag om een verblijfsvergunning asiel in dan dient gehandeld te worden zoals hierna vermeld.
+
 Verstekelingen (met uitzondering van de asielzoekers) dienen zoveel mogelijk geplaatst te worden aan boord van het schip waarvan zij afkomstig zijn. Deze plaatsing geschiedt op grond van[artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=5) en [artikel 65 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=65).
 
 De vreemdeling aan wie de toegang is geweigerd en die een aanvraag om een verblijfsvergunning asiel indient, kan de maatregel van [artikel 6, eerste en/of tweede lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=6) opgelegd worden. Voor de toepassing van deze maatregel bij deze categorie vreemdelingen wordt verwezen naar [C3/12.3.3.1.](onbekend)
 
-De weigering van toegang strekt zich niet enkel uit tot de verdere inreis in Nederland, doch ook tot de verdere inreis in het overige Schengengebied. Voor een toelichting op de situatie waarbij een asielzoeker de toegang geweigerd wordt, terwijl tegelijkertijd op grond van de Overeenkomst van Dublin een verzoek tot overname van de asielaanvraag ingediend wordt bij een andere staat, wordt verwezen naar A2/5.5.6. Aan Dublinclaimanten aan wie de toegang niet geweigerd kan worden, wordt de vrijheidsbeperkende maatregel van [artikel 55 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=55) opgelegd of, indien aan de voorwaarden daarvan wordt voldaan, de maatregel van [artikel 59 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=59).
-
 ### 2.5. De vorm
 
-Het opleggen van een vrijheidsbeperkende of -ontnemende maatregel op grond van [artikel 6 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=6) geschiedt bij beschikking [model M19](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M19&z=2006-07-16&g=2006-07-16). De bevoegde ambtenaar dient een afschrift daarvan uit te reiken aan de vreemdeling, waarbij de inhoud van de beschikking en de mogelijkheid tot het indienen van beroep bij de rechtbank in een voor de vreemdeling begrijpelijke taal aan hem moeten worden meegedeeld. Bij aanwijzing van een andere ruimte of plaats dient steeds een nieuwe beschikking te worden gemaakt. Als echter om redenen die voortvloeien uit de toepassing van de[Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823), zoals het afnemen van een gehoor of om medische redenen, tijdelijke overplaatsing (afhankelijk van feiten of omstandigheden, in beginsel ten hoogste 48 uur) van de vreemdeling vanuit de justitiële inrichting of een andere plaats van onderbrenging naar een andere ruimte of plaats nodig is (bijvoorbeeld van een grenslogies naar het AC), dan is de geldende plaatsingsbeschikking van toepassing. Ook het transport naar de aangewezen ruimte of plaats valt onder de gegeven beschikking. In deze gevallen hoeft geen nieuwe plaatsingsbeschikking gemaakt te worden.
+Het opleggen van een vrijheidsbeperkende of -ontnemende maatregel op grond van [artikel 6 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=6) geschiedt bij beschikking [model M19](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M19&z=2006-07-16&g=2006-10-13). De bevoegde ambtenaar dient een afschrift daarvan uit te reiken aan de vreemdeling, waarbij de inhoud van de beschikking en de mogelijkheid tot het indienen van beroep bij de rechtbank in een voor de vreemdeling begrijpelijke taal aan hem moeten worden meegedeeld. Bij aanwijzing van een andere ruimte of plaats dient steeds een nieuwe beschikking te worden gemaakt. Als echter om redenen die voortvloeien uit de toepassing van de[Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823), zoals het afnemen van een gehoor of om medische redenen, tijdelijke overplaatsing (afhankelijk van feiten of omstandigheden, in beginsel ten hoogste 48 uur) van de vreemdeling vanuit de justitiële inrichting of een andere plaats van onderbrenging naar een andere ruimte of plaats nodig is (bijvoorbeeld van een grenslogies naar het AC), dan is de geldende plaatsingsbeschikking van toepassing. Ook het transport naar de aangewezen ruimte of plaats valt onder de gegeven beschikking. In deze gevallen hoeft geen nieuwe plaatsingsbeschikking gemaakt te worden.
 
 ### 2.6. De tenuitvoerlegging
+
+Bij het opleggen van de vrijheidsbeperkende of vrijheidsontnemende maatregel op grond van [artikel 6 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=6) aan een geweigerde vreemdeling kan iedere ruimte of plaats in Nederland aangewezen worden. Het kan dus zo zijn dat de ruimte of plaats verder landinwaarts gelegen is. Ook in deze feitelijke situatie blijft de toegang geweigerd.
 
 Bij het opleggen van de vrijheidsbeperkende of vrijheidsontnemende maatregel op grond van [artikel 6 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=6) aan een geweigerde vreemdeling kan iedere ruimte of plaats in Nederland aangewezen worden. Het kan dus zo zijn dat de ruimte of plaats verder landinwaarts gelegen is. Ook in deze feitelijke situatie blijft de toegang geweigerd.
 
 De vrijheidsontnemende maatregel van [artikel 6, eerste en tweede lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=6) wordt zoveel mogelijk ten uitvoer gelegd in een door de Minister voor deze categorie vreemdelingen aangewezen ruimte of plaats.
 
 Voor de tenuitvoerlegging van de vrijheidsbeperkende maatregel van [artikel 6, eerste lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=6) geldt geen regime.
-
-Dat is anders voor de vrijheidsontnemende maatregel genoemd in [artikel 6, eerste en tweede lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=6). In dat geval geldt in de door de Minister aangewezen ruimte of plaats het regime van het Reglement grenslogies. Wordt de vrijheidsontneming ten uitvoer gelegd in een andere (dan door de Minister aangewezen) ruimte of plaats dan dient het regime overeen te komen met dat van het Reglement grenslogies.
 
 ### 2.7. De duur
 
@@ -5131,19 +5131,19 @@ In de wet is geen wettelijke maximumtermijn gesteld aan de vrijheidsbeperkende o
 
 De vrijheidsbeperkende of -ontnemende maatregel eindigt wanneer de vreemdeling Nederland daadwerkelijk heeft verlaten, dan wel de maatregel opgeheven wordt. Indien de vreemdeling aan boord van een vliegtuig of schip niet het Nederlands grondgebied heeft verlaten (bijvoorbeeld door verzet van de vreemdeling), blijft de oorspronkelijk opgelegde maatregel van kracht. Er wordt geen nieuwe plaatsingsbeschikking genomen. Ook de oorspronkelijke toegangsweigering blijft van kracht.
 
-Heeft de vreemdeling het Nederlands grondgebied wél verlaten en keert hij terug (bijvoorbeeld na weigering toegang door de autoriteiten van het land van bestemming of van transit), dan dient opnieuw te worden bekeken of de vreemdeling voldoet aan de voorwaarden voor toegang. Indien deze beoordeling leidt tot een (nieuwe) toegangsweigering, dient ook de maatregel van [artikel 6, eerste en tweede lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=6) opnieuw te worden opgelegd en moet een nieuwe plaatsingsbeschikking worden genomen. Tevens zal, ingeval de vreemdeling op grond van [artikel 65 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=65) is verwijderd, de vervoerder een nieuwe aanwijzing krijgen om de vreemdeling om niet terug te voeren naar een plaats buiten Nederland (zie [model M29](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M29&z=2006-07-16&g=2006-07-16)).
+Heeft de vreemdeling het Nederlands grondgebied wél verlaten en keert hij terug (bijvoorbeeld na weigering toegang door de autoriteiten van het land van bestemming of van transit), dan dient opnieuw te worden bekeken of de vreemdeling voldoet aan de voorwaarden voor toegang. Indien deze beoordeling leidt tot een (nieuwe) toegangsweigering, dient ook de maatregel van [artikel 6, eerste en tweede lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=6) opnieuw te worden opgelegd en moet een nieuwe plaatsingsbeschikking worden genomen. Tevens zal, ingeval de vreemdeling op grond van [artikel 65 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=65) is verwijderd, de vervoerder een nieuwe aanwijzing krijgen om de vreemdeling om niet terug te voeren naar een plaats buiten Nederland (zie [model M29](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M29&z=2006-07-16&g=2006-10-13)).
 
-Indien de rechtbank de opheffing van de vrijheidsontnemende maatregel van [artikel 6, eerste en tweede lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=6) beveelt (zie A6/6) betekent dat niet dat ook de weigering van de toegang ex [artikel 3 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=3) wordt opgeheven. In die gevallen kan nog steeds op grond van [artikel 6, eerste lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=6) (vrijheidsbeperking) een ruimte of plaats worden aangewezen waar de vreemdeling zich dient op te houden. Indien de toegangsweigering wordt opgeheven, bijvoorbeeld omdat aan de vreemdeling alsnog rechtmatig verblijf toekomt op grond van [artikel 8, aanhef en onder a tot en met e, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) of de rechtbank de beschikking van weigering toegang vernietigt, wordt de maatregel van [artikel 6 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=6) eveneens opgeheven. Voor het opheffen van de maatregel dient gebruik te worden gemaakt van [Model M113](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M113&z=2006-07-16&g=2006-07-16).
+Indien de rechtbank de opheffing van de vrijheidsontnemende maatregel van [artikel 6, eerste en tweede lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=6) beveelt (zie A6/6) betekent dat niet dat ook de weigering van de toegang ex [artikel 3 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=3) wordt opgeheven. In die gevallen kan nog steeds op grond van [artikel 6, eerste lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=6) (vrijheidsbeperking) een ruimte of plaats worden aangewezen waar de vreemdeling zich dient op te houden. Indien de toegangsweigering wordt opgeheven, bijvoorbeeld omdat aan de vreemdeling alsnog rechtmatig verblijf toekomt op grond van [artikel 8, aanhef en onder a tot en met e, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) of de rechtbank de beschikking van weigering toegang vernietigt, wordt de maatregel van [artikel 6 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=6) eveneens opgeheven. Voor het opheffen van de maatregel dient gebruik te worden gemaakt van [Model M113](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M113&z=2006-07-16&g=2006-10-13).
 
 ### 3. Verblijf
 
-### 3.1. Het zich beschikbaar houden (artikel 55, eerste lid, Vw)
+### 3. Verblijf
+
+Aan een vreemdeling die een aanvraag tot het verlenen van een verblijfsvergunning regulier of asiel voor bepaalde tijd indient en de beslissing daarvan op grond van deze wet in Nederland mag afwachten, kan de vrijheidsbeperkende maatregel van [artikel 55, eerste lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=55) opgelegd worden. De maatregel houdt in dat de vreemdeling die rechtmatig verblijf geniet op grond van [artikel 8, aanhef en onder f, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) een plaats aangewezen krijgt waar hij zich gedurende het onderzoek naar de inwilligbaarheid van die aanvraag dient op de houden, overeenkomstig hem daartoe gegeven aanwijzingen. De aanwijzingen, die betrekking kunnen hebben op het gehoor, het fotograferen of dactyloscoperen, en het verstrekken van gegevens, maken deel uit van de beschikbaarheidsverplichting. Het wél verblijven op de aangewezen plaats maar niet handelen overeenkomstig de gegeven aanwijzingen betekent dat de vreemdeling zich niet overeenkomstig [artikel 55, eerste lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=55) beschikbaar houdt op de aangewezen plaats. Daartegenover staat dat ook de beschikbaarheid noodzakelijk dient te zijn ten behoeve van het onderzoek naar de inwilligbaarheid van de aanvraag. Het ontbreken van dergelijk verband maakt de maatregel onrechtmatig.
 
 Aan een vreemdeling die een aanvraag tot het verlenen van een verblijfsvergunning regulier of asiel voor bepaalde tijd indient en de beslissing daarvan op grond van deze wet in Nederland mag afwachten, kan de vrijheidsbeperkende maatregel van [artikel 55, eerste lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=55) opgelegd worden. De maatregel houdt in dat de vreemdeling die rechtmatig verblijf geniet op grond van [artikel 8, aanhef en onder f, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) een plaats aangewezen krijgt waar hij zich gedurende het onderzoek naar de inwilligbaarheid van die aanvraag dient op de houden, overeenkomstig hem daartoe gegeven aanwijzingen. De aanwijzingen, die betrekking kunnen hebben op het gehoor, het fotograferen of dactyloscoperen, en het verstrekken van gegevens, maken deel uit van de beschikbaarheidsverplichting. Het wél verblijven op de aangewezen plaats maar niet handelen overeenkomstig de gegeven aanwijzingen betekent dat de vreemdeling zich niet overeenkomstig [artikel 55, eerste lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=55) beschikbaar houdt op de aangewezen plaats. Daartegenover staat dat ook de beschikbaarheid noodzakelijk dient te zijn ten behoeve van het onderzoek naar de inwilligbaarheid van de aanvraag. Het ontbreken van dergelijk verband maakt de maatregel onrechtmatig.
 
 Het overtreden van [artikel 55 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=55) is strafbaar gesteld in [artikel 108 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=108). Gedurende de tijd dat de vreemdeling zich niet beschikbaar hoeft te houden voor het onderzoek kan hij zich buiten de aangewezen plaats begeven. In dat geval overtreedt hij niet het voorschrift van [artikel 55 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=55).
-
-Voor het aanwenden van een rechtsmiddel door de vreemdeling wordt verwezen naar A6/6.
 
 ### 3.2. Het doel
 
@@ -5157,21 +5157,21 @@ De bevoegde autoriteit die de plaats aanwijst waar de vreemdeling zich beschikba
 
 De beschikbaarheidsverplichting van [artikel 55, eerste lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=55) kan opgelegd worden aan vreemdelingen die een aanvraag tot het verlenen van een verblijfsvergunning regulier of asiel voor bepaalde tijd indienen. Deze beschikbaarheidsverplichting geldt tot en met de uitreiking van de beschikking in eerste aanleg. Is uitreiking niet mogelijk dan geldt de hierna vermelde procedure.
 
-Voor asielzoekers geldt dat zij zich beschikbaar dienen te houden in een AC of opvangvoorziening. Voor reguliere vreemdelingen kan dat de woon- of verblijfplaats zijn.
+De beschikbaarheidsverplichting van [artikel 55, eerste lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=55) kan opgelegd worden aan vreemdelingen die een aanvraag tot het verlenen van een verblijfsvergunning regulier of asiel voor bepaalde tijd indienen. Deze beschikbaarheidsverplichting geldt tot en met de uitreiking van de beschikking in eerste aanleg. Is uitreiking niet mogelijk dan geldt de hierna vermelde procedure.
 
 ### 3.5. De vorm
 
-De beschikbaarheidsverplichting wordt opgelegd door de Korpschef. Hij maakt daarbij gebruik van [model M117-A](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M117-A&z=2006-07-16&g=2006-07-16). Dit model doet tevens dienst als proces-verbaal van uitreiking. De daarbij gegeven aanwijzingen kunnen onder meer betrekking hebben op het gehoor, het fotograferen, dactyloscoperen en het verstrekken van gegevens en/of informatie. De vreemdeling wordt daarbij tevens gewezen op de mogelijkheid tot het aanwenden van een rechtsmiddel.
+De beschikbaarheidsverplichting wordt opgelegd door de Korpschef. Hij maakt daarbij gebruik van [model M117-A](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M117-A&z=2006-07-16&g=2006-10-13). Dit model doet tevens dienst als proces-verbaal van uitreiking. De daarbij gegeven aanwijzingen kunnen onder meer betrekking hebben op het gehoor, het fotograferen, dactyloscoperen en het verstrekken van gegevens en/of informatie. De vreemdeling wordt daarbij tevens gewezen op de mogelijkheid tot het aanwenden van een rechtsmiddel.
 
-De beschikbaarheidsverplichting houdt in dat de vreemdeling bereikbaar is op een woon- of verblijfplaats zodat hij kan worden opgeroepen voor een gehoor of om in kennis gesteld te worden van voor hem relevante beslissingen. Dit houdt onder meer in dat de vreemdeling die opgeroepen is voor een bepaalde datum (en tijd), in de tussenliggende periode met inachtneming van zijn meldingsplicht (en de huisregels van het centrum), zich naar een andere plaats in Nederland mag begeven.
+De beschikbaarheidsverplichting wordt opgelegd door de Korpschef. Hij maakt daarbij gebruik van [model M117-A](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M117-A&z=2006-11-16&g=2006-10-13). Dit model doet tevens dienst als proces-verbaal van uitreiking. De daarbij gegeven aanwijzingen kunnen onder meer betrekking hebben op het gehoor, het fotograferen, dactyloscoperen en het verstrekken van gegevens en/of informatie. De vreemdeling wordt daarbij tevens gewezen op de mogelijkheid tot het aanwenden van een rechtsmiddel.
 
-Indien de vreemdeling in strijd met zijn beschikbaarheidsverplichting met onbekende bestemming is vertrokken, dient de Korpschef dit te melden door middel van [model M100](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M100&z=2006-07-16&g=2006-07-16) met een kopie van het [model M117-A](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M117-A&z=2006-07-16&g=2006-07-16). Het met onbekende bestemming vertrokken zijn dient in beginsel concreet vastgesteld te zijn aan de hand van bijvoorbeeld een adrescontrole.
+Indien de vreemdeling in strijd met zijn beschikbaarheidsverplichting met onbekende bestemming is vertrokken, dient de Korpschef dit te melden door middel van [model M100](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M100&z=2006-07-16&g=2006-10-13) met een kopie van het [model M117-A](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M117-A&z=2006-07-16&g=2006-10-13). Het met onbekende bestemming vertrokken zijn dient in beginsel concreet vastgesteld te zijn aan de hand van bijvoorbeeld een adrescontrole.
 
-Voor de bevoegdheden op grond van [artikel 55, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=55), zie A3/8.
+Indien de vreemdeling in strijd met zijn beschikbaarheidsverplichting met onbekende bestemming is vertrokken, dient de Korpschef dit te melden door middel van [model M100](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M100&z=2006-11-16&g=2006-10-13) met een kopie van het [model M117-A](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M117-A&z=2006-11-16&g=2006-10-13). Het met onbekende bestemming vertrokken zijn dient in beginsel concreet vastgesteld te zijn aan de hand van bijvoorbeeld een adrescontrole.
 
 ### 4. Toezicht
 
-### 4.1. Algemeen
+### 4. Toezicht
 
 Voor het toezicht op vreemdelingen zijn de [artikelen 50](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=50) en [56 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=56) van belang. [Artikel 50 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=50) betreft de bevoegdheid van het staande- en ophouden van personen (eventueel ook Nederlanders) in het belang van het toezicht op vreemdelingen. [Artikel 56 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=56) geeft de bevoegdheid om de vrijheid van beweging van bepaalde categorieën vreemdelingen op grond van de openbare orde of de nationale veiligheid te beperken.
 
@@ -5181,13 +5181,15 @@ In verband met een uitvoerige beschrijving van alle onderdelen die met het toezi
 
 ### 4.3. Het beperken van de bewegingsvrijheid op grond van artikel 56 Vw
 
-### 4.3.1. Het doel
+### 4.3. Het beperken van de bewegingsvrijheid op grond van artikel 56 Vw
 
 [Artikel 56 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=56) geeft de bevoegdheid om de vrijheid van beweging van bepaalde categorieën vreemdelingen op grond van de openbare orde of de nationale veiligheid te beperken (zie ook [artikel 5.1 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=5.1) en [artikel 5.2 VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&artikel=5.2)).
 
-De opgelegde beperkingen mogen niet zo verstrekkend zijn, dat zij het karakter van een vrijheidsontnemende maatregel hebben, noch dienen zij ertoe om de uitzetting van een vreemdeling te verzekeren. Neemt de vreemdeling de opgelegde beperking niet in acht, dan begaat hij een in [artikel 108 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=108) strafbaar gestelde overtreding.
+[Artikel 56 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=56) geeft de bevoegdheid om de vrijheid van beweging van bepaalde categorieën vreemdelingen op grond van de openbare orde of de nationale veiligheid te beperken (zie ook [artikel 5.1 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=5.1) en [artikel 5.2 VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&artikel=5.2)).
 
 ### 4.3.2. De bevoegdheid
+
+De bevoegdheid tot het opleggen, wijzigen of opheffen van deze maatregel berust bij de Minister.
 
 De bevoegdheid tot het opleggen, wijzigen of opheffen van deze maatregel berust bij de Minister.
 
@@ -5195,43 +5197,43 @@ Indien de Korpschef van oordeel is dat de vrijheid van beweging van een vreemdel
 
 De Korpschef kan deze bevoegdheid alleen ondermandateren aan een ambtenaar belast met toezicht op vreemdelingen, die tevens hulpofficier van justitie is (zie [artikel 1.4 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=1.4)).
 
-Voor het aanwenden van een rechtsmiddel wordt verwezen naar A6/6.
-
 ### 4.3.3. De toepassing
+
+De beperking van vrijheidsbeweging kan niet toegepast worden ten aanzien van vreemdelingen die voor onbepaalde tijd in Nederland verblijven. Als gevolg van de goedkeuring van het vierde Protocol bij het EVRM (Trb. 1964, 15 en 1969, 241, TK 1980-1981, 15 396 [R 1110], nr. 6) kan deze maatregel ook niet opgelegd worden aan personen die onder het Gemeenschapsrecht inzake vrij verkeer vallen (zie [artikel 8.7 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.7) en [B10](onbekend)).
 
 De beperking van vrijheidsbeweging kan niet toegepast worden ten aanzien van vreemdelingen die voor onbepaalde tijd in Nederland verblijven. Als gevolg van de goedkeuring van het vierde Protocol bij het EVRM (Trb. 1964, 15 en 1969, 241, TK 1980-1981, 15 396 [R 1110], nr. 6) kan deze maatregel ook niet opgelegd worden aan personen die onder het Gemeenschapsrecht inzake vrij verkeer vallen (zie [artikel 8.7 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.7) en [B10](onbekend)).
 
 Deze maatregel kan derhalve alleen opgelegd worden aan vreemdelingen die:
 
-Alleen in uitzonderingsgevallen, met name indien de uitzetting (nog) niet kan plaatsvinden en de toepassing van een andere vrijheidsbeperkende maatregel niet in aanmerking komt, kan deze maatregel in het kader van de openbare orde of nationale veiligheid toegepast worden.
-
 ### 4.3.4. De beëindiging
 
 Hoewel de maatregel niet aan een wettelijke termijn gebonden is, dienen ook hierbij de beginselen van proportionaliteit (doelmatigheid) en subsidiariteit (kan een lichter middel toegepast worden) in acht genomen te worden.
 
-De maatregel wordt bovendien beëindigd zodra de vreemdeling te kennen geeft Nederland te willen verlaten en daartoe voor hem ook gelegenheid bestaat. Deze gelegenheid bestaat indien de vreemdeling beschikt over een geldig grensoverschrijdingsdocument en vlieg- of reistickets (of voldoende financiële middelen om het beoogde verblijf en de terugkeer te bekostigen). Voor vertrek naar een derde land kan van de vreemdeling gevraagd worden dat hij bovendien beschikt over een geldig visum of een geldige verblijfsvergunning voor dat land.
+Hoewel de maatregel niet aan een wettelijke termijn gebonden is, dienen ook hierbij de beginselen van proportionaliteit (doelmatigheid) en subsidiariteit (kan een lichter middel toegepast worden) in acht genomen te worden.
 
 ### 5. Uitzetting
 
-### 5.1. Het doel van de maatregelen van [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=57), [58](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=58) en [59 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=59)
+### 5. Uitzetting
+
+Om de overheid in staat te stellen haar bevoegdheid tot uitzetting van vreemdelingen die niet dan wel niet langer rechtmatig in Nederland verblijven uit te kunnen laten voeren, zijn in de wet vrijheidsbeperkende en vrijheidsontnemende maatregelen opgenomen.
 
 Om de overheid in staat te stellen haar bevoegdheid tot uitzetting van vreemdelingen die niet dan wel niet langer rechtmatig in Nederland verblijven uit te kunnen laten voeren, zijn in de wet vrijheidsbeperkende en vrijheidsontnemende maatregelen opgenomen.
 
 [Artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=57) (vrijheidsbeperking) en [58](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=58) (vrijheidsontneming) Vw maken het mogelijk om vreemdelingen van wie de asielaanvraag is afgewezen te verplichten zich in verband met hun uitzetting beschikbaar te houden in een bepaalde ruimte of op een bepaalde plaats die, indien noodzakelijk, tegen ongeoorloofd vertrek daaruit beveiligd kan worden. Het zich niet houden aan de verplichting van [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=57) of [58 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=58) is strafbaar gesteld in [artikel 108 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=108).
 
-Indien de openbare orde of de nationale veiligheid dat vordert, kunnen vreemdelingen, zowel asielzoekers als reguliere vreemdelingen, ter fine van hun uitzetting in bewaring gesteld worden op grond van [artikel 59 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=59). Bij deze maatregel gaat het in beginsel – anders dan bij [artikel 58 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=58) – om vreemdelingen ten aanzien van wie er aanwijzingen zijn voor het vermoeden dat zij zich aan de uitzetting zullen onttrekken.
+### 5.2. Het zich ophouden op grond van [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=57) en [58 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=58)
 
 ### 5.2. Het zich ophouden op grond van [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=57) en [58 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=58)
 
-### 5.2.1. De bevoegdheid
+In [artikel 57, eerste lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=57) staat vermeld dat de Minister aan de asielzoeker de aanwijzing geeft om zich in een bepaalde ruimte of op een bepaalde plaats op te houden. Over het algemeen zal een dergelijke aanwijzing in de afwijzende beschikking opgenomen worden (zie [artikel 5.7 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=5.7)).
 
 In [artikel 57, eerste lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=57) staat vermeld dat de Minister aan de asielzoeker de aanwijzing geeft om zich in een bepaalde ruimte of op een bepaalde plaats op te houden. Over het algemeen zal een dergelijke aanwijzing in de afwijzende beschikking opgenomen worden (zie [artikel 5.7 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=5.7)).
 
 De Korpschef is namens de Minister bevoegd in de daarvoor in aanmerking komende gevallen (zie A6/5.2.2 en [artikel 1.4 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=1.4)) de asielzoeker de verplichting op te leggen om zich beschikbaar te houden in een ruimte of plaats die beveiligd is tegen ongeoorloofd vertrek daaruit (zie [artikel 58 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=58)). Deze aanwijzing dient bij afzonderlijke beschikking gegeven te worden. De beschikking dient gemotiveerd, gedagtekend en ondertekend te zijn. Aan de vreemdeling wordt een afschrift daarvan uitgereikt.
 
-Deze laatst bedoelde aanwijzing wordt gegeven door de Korpschef van de politieregio waaronder de gemeente, waar de vreemdeling zijn woon- of verblijfplaats heeft, ressorteert. De Korpschef kan van zijn bevoegdheid ondermandaat verlenen aan een hulpofficier van justitie (zie [artikel 1.4 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=1.4)).
-
 ### 5.2.2. De toepassing
+
+De aanwijzing om zich in een bepaalde ruimte of op een bepaalde plaats op te houden kan gegeven worden ten aanzien van vreemdelingen van wie de aanvraag om een verblijfsvergunning asiel voor bepaalde tijd (zie [artikel 28 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=28)) is afgewezen.
 
 De aanwijzing om zich in een bepaalde ruimte of op een bepaalde plaats op te houden kan gegeven worden ten aanzien van vreemdelingen van wie de aanvraag om een verblijfsvergunning asiel voor bepaalde tijd (zie [artikel 28 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=28)) is afgewezen.
 
@@ -5239,9 +5241,9 @@ Het gaat hier dus zowel om de afwijzing van een aanvraag tot het verlenen als de
 
 Bovendien kan deze aanwijzing slechts plaatsvinden indien de afwijzing op de aanvraag binnen acht weken (in verband met de voornemenprocedure) na de indiening daarvan is gegeven. De termijn van acht weken, bedoeld in [artikel 57, derde lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=57) is de termijn tussen indiening van de aanvraag en kennisgeving van de beschikking. Heeft de vreemdeling zich onttrokken aan de beschikbaarheidsplicht (van [artikel 55 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=55)) nadat het onderzoek is afgerond, maar nog voordat de afwijzende beschikking te zijner kennis is gebracht dan wordt de tijd waarin de vreemdeling zich heeft onttrokken aan de beschikbaarheidsplicht opgeteld bij de eerder genoemde termijn van acht weken (zie [artikel 57, derde en vijfde lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=57)). De afwijzing behoeft niet onherroepelijk te zijn. Dus ook als de vreemdeling procedeert bij de Vreemdelingenkamer tegen de afwijzing van zijn aanvraag kan hem deze aanwijzing gegeven worden.
 
-Voor de aanwijzing op grond van [artikel 58 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=58) dient de Korpschef gebruikt te maken van een afzonderlijke beschikking. De beschikking dient gemotiveerd, gedagtekend en ondertekend te zijn. Aan de vreemdeling wordt een afschrift daarvan uitgereikt (zie [artikel 5.7 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=5.7)). Daarbij wordt tevens (schriftelijk) mededeling gedaan van de mogelijkheid om tegen deze maatregel beroep in te stellen bij de rechtbank (zie A6/6).
-
 ### 5.2.3. De tenuitvoerlegging
+
+De maatregel van [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=57) en [58 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=58) houdt in dat de asielzoeker zich in een bepaalde ruimte of op een bepaalde plaats dient op te houden. Bij de term ‘ruimte’ kan gedacht worden aan bijvoorbeeld: een AC of opvangvoorziening, een gebouw of gebouwencomplex. De term ‘ruimte’ is niet beperkt tot een ‘cel’ waarvan de deur op slot kan. Ook een groter complex, dat de vreemdeling vrij veel bewegingsvrijheid laat, maar waarvan de buitenpoort dicht of afgesloten is, levert een ‘ruimte’ op. Ook een schip of vliegtuig valt onder de term ‘ruimte’. De term ‘plaats’ ziet meer op een geografische situatie, zoals bijvoorbeeld een haventerrein.
 
 De maatregel van [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=57) en [58 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=58) houdt in dat de asielzoeker zich in een bepaalde ruimte of op een bepaalde plaats dient op te houden. Bij de term ‘ruimte’ kan gedacht worden aan bijvoorbeeld: een AC of opvangvoorziening, een gebouw of gebouwencomplex. De term ‘ruimte’ is niet beperkt tot een ‘cel’ waarvan de deur op slot kan. Ook een groter complex, dat de vreemdeling vrij veel bewegingsvrijheid laat, maar waarvan de buitenpoort dicht of afgesloten is, levert een ‘ruimte’ op. Ook een schip of vliegtuig valt onder de term ‘ruimte’. De term ‘plaats’ ziet meer op een geografische situatie, zoals bijvoorbeeld een haventerrein.
 
@@ -5249,35 +5251,33 @@ De asielzoeker zal in beginsel als vrijheidsbeperkende maatregel de aanwijzing k
 
 Houdt de asielzoeker zich opzettelijk niet aan de verplichting om zich beschikbaar te houden en volgt hij de gegeven aanwijzingen niet op dan kan hem de verplichting opgelegd worden zich op te houden in een inrichting waar het Reglement grenslogies geldt. In dat geval is er sprake van vrijheidsbeneming.
 
-Voor het verkrijgen van een plaats in een grenslogies zie A6/5.3.6.2. Is plaatsing daar niet mogelijk, dan moet de vrijheidsontneming plaatsvinden in een ruimte of plaats met een overeenkomstig regime.
-
 ### 5.2.4. Bijstand van een raadsman
 
 Zodra de vreemdeling zijn vrijheid ontnomen is op grond van [artikel 58 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=58), wordt een (door hem gewenste) raadsman of een via de vreemdelingenpiketdienst van het bureau voor rechtshulp aangewezen raadsman ingelicht.
 
-De vreemdeling wordt in de gelegenheid gesteld onverwijld contact met zijn raadsman op te nemen. De raadsman van de vreemdeling heeft ingevolge [artikel 104 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=104) tijdens de tenuitvoerlegging van de vrijheidsontnemende maatregel vrije toegang tot hem. Hij kan hem alleen spreken en met hem brieven wisselen, zonder dat van de inhoud door anderen kennis wordt genomen. Een en ander onder toezicht indien vereist en met inachtneming van de huishoudelijke reglementen, en zonder dat het onderzoek daardoor mag worden opgehouden. Voor het aanwenden van rechtsmiddelen en de procedure van beroep bij de rechtbank zie A6/6.
+Zodra de vreemdeling zijn vrijheid ontnomen is op grond van [artikel 58 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=58), wordt een (door hem gewenste) raadsman of een via de vreemdelingenpiketdienst van het bureau voor rechtshulp aangewezen raadsman ingelicht.
 
 ### 5.2.5. De duur
 
 De duur van de vrijheidsbeperkende en -ontnemende maatregel op grond van [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=57) en[58 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=58) is niet aan een termijn gebonden. Overigens mogen de maatregelen niet langer duren dan met het oog op het doel (de uitzetting) daarvan strikt noodzakelijk is.
 
-De Korpschef zal gelet hierop alle maatregelen dienen te nemen om de uitzetting op zo kort mogelijke termijn te effectueren (onderzoek naar identiteit, aanvraag reispapieren en dergelijke).
+De duur van de vrijheidsbeperkende en -ontnemende maatregel op grond van [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=57) en[58 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=58) is niet aan een termijn gebonden. Overigens mogen de maatregelen niet langer duren dan met het oog op het doel (de uitzetting) daarvan strikt noodzakelijk is.
 
 ### 5.2.6. De beëindiging
 
 Zodra de grond voor het toepassen van de maatregel van [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=57) of [58 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=58)niet meer aanwezig is, heft de Korpschef deze maatregel op. Hiervan kan sprake zijn:
 
-Deze gelegenheid bestaat indien de vreemdeling beschikt over een geldig grensoverschrijdingsdocument, vlieg- of reistickets (of voldoende middelen van bestaan). Voor vertrek naar een derde land kan van de vreemdeling gevraagd worden dat hij bovendien beschikt over een geldig visum of een geldige verblijfsvergunning voor dat land.
+Zodra de grond voor het toepassen van de maatregel van [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=57) of [58 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=58)niet meer aanwezig is, heft de Korpschef deze maatregel op. Hiervan kan sprake zijn:
 
-De Korpschef zal in deze gevallen de maatregel uitdrukkelijk moeten opheffen. Hij dient daarvoor gebruik te maken van [Model M113](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M113&z=2006-07-16&g=2006-07-16). Het origineel van dit formulier moet in het archief worden opgeborgen en een afschrift wordt aan de vreemdeling uitgereikt
+De Korpschef zal in deze gevallen de maatregel uitdrukkelijk moeten opheffen. Hij dient daarvoor gebruik te maken van [Model M113](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M113&z=2006-07-16&g=2006-10-13). Het origineel van dit formulier moet in het archief worden opgeborgen en een afschrift wordt aan de vreemdeling uitgereikt
 
-Ten behoeve van de informatievoorziening dient er tevens een afschrift te worden verzonden naar de IND. Aan de directeur van de inrichting waarin de vreemdeling zich bevindt moet tezamen met een verzoek om ontslag uit de inrichting (zie [Model M114](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M114&z=2006-07-16&g=2006-07-16)) eveneens een afschrift van [Model M113](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M113&z=2006-07-16&g=2006-07-16) worden gestuurd.
+Ten behoeve van de informatievoorziening dient er tevens een afschrift te worden verzonden naar de IND. Aan de directeur van de inrichting waarin de vreemdeling zich bevindt moet tezamen met een verzoek om ontslag uit de inrichting (zie [Model M114](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M114&z=2006-07-16&g=2006-10-13)) eveneens een afschrift van [Model M113](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M113&z=2006-07-16&g=2006-10-13) worden gestuurd.
 
-De maatregel van [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=57) of [58 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=58) vervalt van rechtswege:
+Ten behoeve van de informatievoorziening dient er tevens een afschrift te worden verzonden naar de IND. Aan de directeur van de inrichting waarin de vreemdeling zich bevindt moet tezamen met een verzoek om ontslag uit de inrichting (zie [Model M114](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M114&z=2006-11-16&g=2006-10-13)) eveneens een afschrift van [Model M113](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M113&z=2006-11-16&g=2006-10-13) worden gestuurd.
 
 ### 5.3. Bewaring op grond van [artikel 59 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=59)
 
-### 5.3.1. Het doel
+### 5.3. Bewaring op grond van [artikel 59 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=59)
 
 Vreemdelingenbewaring is een maatregel die ten doel heeft de uitzetting van een vreemdeling te effectueren. Indien een vreemdeling niet of niet langer rechtmatig in Nederland verblijft, dient hij in beginsel Nederland zelf te verlaten. Doet hij dat niet, dan vindt uitzetting plaats. Op deze wijze bestaat er een directe relatie tussen de vreemdelingenbewaring en het terugkeerbeleid. Mede vanwege het ingrijpende karakter is ook deze maatregel met strikte waarborgen omkleed.
 
@@ -5293,7 +5293,7 @@ Indien het belang van de openbare orde of van de nationale veiligheid dat vorder
 
 De openbare orde wordt geacht de bewaring van de vreemdeling te vorderen wanneer de noodzakelijke bescheiden ten behoeve van de uitzetting (zoals een geldig document voor grensoverschrijding, een reisbiljet en/of een claim op een vervoersmaatschappij) voorhanden zijn, dan wel binnen korte termijn voorhanden zullen zijn (zie [artikel 59, tweede lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=59) en A6/5.3.3.5).
 
-Het belang van de openbare orde kan de bewaring voorts bijvoorbeeld vorderen:
+De openbare orde wordt geacht de bewaring van de vreemdeling te vorderen wanneer de noodzakelijke bescheiden ten behoeve van de uitzetting (zoals een geldig document voor grensoverschrijding, een reisbiljet en/of een claim op een vervoersmaatschappij) voorhanden zijn, dan wel binnen korte termijn voorhanden zullen zijn (zie [artikel 59, tweede lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=59) en A6/5.3.3.5).
 
 ### 5.3.3.2. Het belang van de nationale veiligheid
 
@@ -5303,9 +5303,11 @@ In de meeste gevallen waarbij bewaring wordt overwogen, zal de maatregel gebasee
 
 Gronden om de vreemdelingenbewaring niet of niet langer toe te passen kunnen zijn:
 
-Bewaring mag bovendien niet worden toegepast uitsluitend op basis van overwegingen van algemene aard. De bewaring moet gerelateerd zijn aan feiten en/of omstandigheden die betrekking hebben op de persoon van de vreemdeling. Steeds zal een zorgvuldige afweging moeten plaatsvinden tussen het belang van de openbare orde of van de nationale veiligheid en het individuele belang van de vreemdeling (zie A6/5.3.5).
+Gronden om de vreemdelingenbewaring niet of niet langer toe te passen kunnen zijn:
 
 ### 5.3.3.4. Vreemdelingen die op korte termijn uitgezet kunnen worden
+
+[Artikel 59, eerste en tweede lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=59) biedt de mogelijkheid vreemdelingen voor wie de noodzakelijke bescheiden voorhanden zijn, dan wel op korte termijn voorhanden zullen zijn, in bewaring te stellen. Het tweede lid van [artikel 59](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=59)bepaalt dat in deze gevallen wordt geacht dat de openbare orde de bewaring van de vreemdeling vordert. Met noodzakelijke bescheiden wordt bedoeld dat een paspoort, laissez-passer (of andere geldige documenten voor grensoverschrijding) of een claim op een vervoersmaatschappij voorhanden is, dan wel binnen korte termijn voorhanden zal zijn. Met ‘binnen korte termijn voorhanden zal zijn’ wordt bijvoorbeeld gedoeld op de situatie dat de diplomatieke vertegenwoordiging van het land van herkomst van de vreemdeling een vervangend document voor grensoverschrijding in het vooruitzicht heeft gesteld. De bewaringsgrond van het tweede lid van [artikel 59 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=59) dient er toe om te voorkomen dat een vreemdeling die goed gedocumenteerd is of op korte termijn goed gedocumenteerd zal zijn, zich alsnog aan uitzetting onttrekt.
 
 [Artikel 59, eerste en tweede lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=59) biedt de mogelijkheid vreemdelingen voor wie de noodzakelijke bescheiden voorhanden zijn, dan wel op korte termijn voorhanden zullen zijn, in bewaring te stellen. Het tweede lid van [artikel 59](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=59)bepaalt dat in deze gevallen wordt geacht dat de openbare orde de bewaring van de vreemdeling vordert. Met noodzakelijke bescheiden wordt bedoeld dat een paspoort, laissez-passer (of andere geldige documenten voor grensoverschrijding) of een claim op een vervoersmaatschappij voorhanden is, dan wel binnen korte termijn voorhanden zal zijn. Met ‘binnen korte termijn voorhanden zal zijn’ wordt bijvoorbeeld gedoeld op de situatie dat de diplomatieke vertegenwoordiging van het land van herkomst van de vreemdeling een vervangend document voor grensoverschrijding in het vooruitzicht heeft gesteld. De bewaringsgrond van het tweede lid van [artikel 59 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=59) dient er toe om te voorkomen dat een vreemdeling die goed gedocumenteerd is of op korte termijn goed gedocumenteerd zal zijn, zich alsnog aan uitzetting onttrekt.
 
@@ -5313,15 +5315,13 @@ Aan de gebruikmaking van het bewaringsinstrument ex [artikel 59, eerste en tweed
 
 Daarnaast kunnen nog andere, persoonsgebonden belangen een rol spelen.
 
-Uit het bewaringsdossier van de vreemdeling dient te blijken dat een belangenafweging, waarbij het bovenstaande in acht is genomen, heeft plaatsgevonden.
-
 ### 5.3.3.5. Bewaring van vreemdelingen met rechtmatig verblijf
 
 [Artikel 59, eerste lid, aanhef en onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=59) biedt de mogelijkheid tot het in bewaring stellen van vreemdelingen die een aanvraag tot het verlenen (verlengen) van een verblijfsvergunning regulier of asiel voor (on)bepaalde tijd indienen/ingediend hebben en van wie in afwachting van de beslissing daarop de uitzetting achterwege blijft (zie artikel 8, aanhef en onder f en g, Vw). Voor de procedure tot inbewaringstelling van deze vreemdelingen wordt verwezen naar A6/5.3.4.
 
-Het toepassen van bewaring bij vreemdelingen die een aanvraag tot het verlenen van een verblijfsvergunning asiel in willen dienen of ingediend hebben, dient zo beperkt mogelijk te geschieden. Het kan hierbij gaan om vreemdelingen die een dergelijke aanvraag indienen/ingediend hebben en waarvan bijvoorbeeld om redenen van manifest bedrog of andere gronden genoemd in A6/5.3.3.1 aangenomen kan worden dat zij zich aan de eventuele uitzetting zullen gaan onttrekken. Ook kan het voorkomen dat een vreemdeling eerst nadat hij in bewaring gesteld is een asielaanvraag indient. In beide gevallen zal aan de hand van de bekend geworden feiten en omstandigheden voor de aanvraag bijvoorbeeld het nader gehoor, een concrete afweging gemaakt moeten worden met betrekking tot het toepassen van de maatregel in relatie tot de asielaanvraag.
+[Artikel 59, eerste lid, aanhef en onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=59) biedt de mogelijkheid tot het in bewaring stellen van vreemdelingen die een aanvraag tot het verlenen (verlengen) van een verblijfsvergunning regulier of asiel voor (on)bepaalde tijd indienen/ingediend hebben en van wie in afwachting van de beslissing daarop de uitzetting achterwege blijft (zie artikel 8, aanhef en onder f en g, Vw). Voor de procedure tot inbewaringstelling van deze vreemdelingen wordt verwezen naar A6/5.3.4.
 
-Zolang de aanvraag nog niet in eerste aanleg is afgewezen, mag de inbewaringstelling van asielzoekers uitsluitend plaatsvinden en voortduren na vooraf overleg met de IND. Van dat overleg dient verslag te worden gelegd in de vreemdelingenadministratie.
+Het toepassen van bewaring bij vreemdelingen die een aanvraag tot het verlenen van een verblijfsvergunning asiel in willen dienen of ingediend hebben, dient zo beperkt mogelijk te geschieden. Het kan hierbij gaan om vreemdelingen die een dergelijke aanvraag indienen/ingediend hebben en waarvan bijvoorbeeld om redenen van manifest bedrog of andere gronden genoemd in A6/5.3.3.1 aangenomen kan worden dat zij zich aan de eventuele uitzetting zullen gaan onttrekken. Ook kan het voorkomen dat een vreemdeling eerst nadat hij in bewaring gesteld is een asielaanvraag indient. In beide gevallen zal aan de hand van de bekend geworden feiten en omstandigheden voor de aanvraag bijvoorbeeld het nader gehoor, een concrete afweging gemaakt moeten worden met betrekking tot het toepassen van de maatregel in relatie tot de asielaanvraag.
 
 ### 5.3.3.6. Bewaring van Dublinclaimanten
 
@@ -5331,15 +5331,17 @@ Het is mogelijk om een Dublinclaimant op grond van [artikel 59, eerste lid, Vw](
 
 [Artikel 8.7 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.7) geeft aan welke vreemdelingen onder welke omstandigheden onder de toepassing van het Gemeenschapsrecht inzake vrij verkeer vallen. Voor een nadere uitwerking van de (bepalingen die gelden voor de) de categorieën vermeld in [artikel 8.7 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.7) wordt verwezen naar [B10](onbekend).
 
+[Artikel 8.7 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.7) geeft aan welke vreemdelingen onder welke omstandigheden onder de toepassing van het Gemeenschapsrecht inzake vrij verkeer vallen. Voor een nadere uitwerking van de (bepalingen die gelden voor de) de categorieën vermeld in [artikel 8.7 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.7) wordt verwezen naar [B10](onbekend).
+
 Met de documenten als bedoeld in [artikel 50, eerste lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=50) en [artikel 4.21 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.21) kan de vreemdeling aantonen verblijfsrecht te ontlenen aan het Gemeenschapsrecht. Hij heeft als persoon die valt onder het Gemeenschapsrecht inzake vrij verkeer rechtmatig verblijf in de zin van [artikel 8, onder e, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8), zolang en indien het onderzoek door de Minister niet heeft uitgewezen dat de betrokken persoon geen verblijfsrecht (meer) heeft of anderszins niet voldaan is aan de beperkingen en voorwaarden van het Gemeenschapsrecht (zie [Richtlijn 2004/38/EG](32004L0038) d.d. 29 april 2004 betreffende het recht van vrij verkeer en verblijf op het grondgebied van de lidstaten voor de burgers van de Unie en hun familieleden, alsmede de uitspraak van de ABRvS d.d. 7 juli 2003, JV 2003, 431).
 
 Een onderdaan van de EU, de EER of Zwitserland, alsmede het familielid als bedoeld in [artikel 8.7, tweede, derde en vierde lid, Vb,](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.7) kan slechts in bewaring worden gesteld indien de Minister een besluit op grond van [Richtlijn 2004/38/EG](32004L0038) heeft genomen, waarmee het verblijfsrecht van de vreemdeling is beëindigd of aan hem is ontzegd om redenen van openbare orde, openbare veiligheid of volksgezondheid én
 
-Tenslotte kan ten aanzien van een vreemdeling die stelt gebruik te maken van het Gemeenschapsrecht inzake het vrij verkeer van personen maar geen geldige identiteitskaart of geldig paspoort toont en evenmin op andere wijze ondubbelzinnig (zonder enige twijfel) zijn identiteit en nationaliteit kan aantonen, als regel niet worden vastgesteld dat hij onder het Gemeenschapsrecht inzake vrij verkeer valt en kan hij in bewaring worden gesteld.
+### 5.3.4. De procedure
 
 ### 5.3.4. De procedure
 
-### 5.3.4.1. Het gehoor
+Zie [artikel 5.2 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=5.2). Het uitgangspunt is dat een vreemdeling, voordat hij in bewaring gesteld wordt, gehoord wordt. Het kan voorkomen dat het gehoor na de inbewaringstelling plaatsvindt. Dit geval kan zich bijvoorbeeld voordoen als de vreemdeling aansluitend aan een ontslag uit strafrechtelijke detentie in bewaring gesteld is en vervolgens voor het gehoor overgebracht wordt naar een politiebureau. Een gehoor na de inbewaringstelling kan zich ook voordoen als de advocaat niet tijdig op verzoek van de vreemdeling bij het gehoor aanwezig kan zijn.
 
 Zie [artikel 5.2 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=5.2). Het uitgangspunt is dat een vreemdeling, voordat hij in bewaring gesteld wordt, gehoord wordt. Het kan voorkomen dat het gehoor na de inbewaringstelling plaatsvindt. Dit geval kan zich bijvoorbeeld voordoen als de vreemdeling aansluitend aan een ontslag uit strafrechtelijke detentie in bewaring gesteld is en vervolgens voor het gehoor overgebracht wordt naar een politiebureau. Een gehoor na de inbewaringstelling kan zich ook voordoen als de advocaat niet tijdig op verzoek van de vreemdeling bij het gehoor aanwezig kan zijn.
 
@@ -5349,37 +5351,37 @@ Uit de vreemdelingenadministratie dient duidelijk te blijken om welke reden(en) 
 
 Het gehoor van de vreemdeling moet afgenomen worden door degene die bevoegd is tot het geven van een besluit tot inbewaringstelling.
 
-Indien de vreemdeling de Nederlandse taal niet dan wel onvoldoende beheerst, dient het gehoor plaats te vinden met behulp van een tolk in een taal die de vreemdeling voldoende begrijpt.
-
-Van het gehoor wordt een proces-verbaal [M110-B](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M110-B&z=2006-07-16&g=2006-07-16) opgemaakt (zie [artikel 5.2, vierde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=5.2)).
+Van het gehoor wordt een proces-verbaal [M110-B](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M110-B&z=2006-07-16&g=2006-10-13) opgemaakt (zie [artikel 5.2, vierde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=5.2)).
 
 ### 5.3.4.2. Bijstand van een raadsman
 
 In beginsel wordt de vreemdeling gehoord in het bijzijn van een advocaat. Van dit recht moet door de bevoegde ambtenaar aan de vreemdeling tijdig mededeling gedaan worden (zie [artikel 5.2, vijfde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=5.2)). ‘Tijdig’ betekent in dit verband dat, als de vreemdeling rechtsbijstand bij het gehoor wil, de ambtenaar belast met de grensbewaking of met het toezicht op vreemdelingen zich zodanig dient in te spannen dat die bijstand in redelijkheid gerealiseerd kan worden.
 
-Ten aanzien van deze vorm van rechtsbijstand kunnen zich de volgende situaties voordoen:
+In beginsel wordt de vreemdeling gehoord in het bijzijn van een advocaat. Van dit recht moet door de bevoegde ambtenaar aan de vreemdeling tijdig mededeling gedaan worden (zie [artikel 5.2, vijfde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=5.2)). ‘Tijdig’ betekent in dit verband dat, als de vreemdeling rechtsbijstand bij het gehoor wil, de ambtenaar belast met de grensbewaking of met het toezicht op vreemdelingen zich zodanig dient in te spannen dat die bijstand in redelijkheid gerealiseerd kan worden.
 
-Op verzoek van de raadsman wordt hem een afschrift verstrekt van het besluit tot bewaring [M110-A](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M110-A&z=2006-07-16&g=2006-07-16) en van het proces-verbaal van gehoor [M110-B](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M110-B&z=2006-07-16&g=2006-07-16). De raadsman van de vreemdeling heeft ingevolge [artikel 104 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=104) tijdens de tenuitvoerlegging van de vrijheidsontnemende maatregel vrije toegang tot de vreemdeling. Hij kan hem alleen spreken en met hem brieven wisselen zonder dat van de inhoud door anderen kennis wordt genomen, indien vereist, onder toezicht en met inachtneming van de huishoudelijke reglementen en zonder dat het onderzoek daardoor mag worden opgehouden.
+Op verzoek van de raadsman wordt hem een afschrift verstrekt van het besluit tot bewaring [M110-A](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M110-A&z=2006-07-16&g=2006-10-13) en van het proces-verbaal van gehoor [M110-B](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M110-B&z=2006-07-16&g=2006-10-13). De raadsman van de vreemdeling heeft ingevolge [artikel 104 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=104) tijdens de tenuitvoerlegging van de vrijheidsontnemende maatregel vrije toegang tot de vreemdeling. Hij kan hem alleen spreken en met hem brieven wisselen zonder dat van de inhoud door anderen kennis wordt genomen, indien vereist, onder toezicht en met inachtneming van de huishoudelijke reglementen en zonder dat het onderzoek daardoor mag worden opgehouden.
 
 ### 5.3.4.3. De vorm waarin de maatregel wordt opgelegd
 
-De maatregel waarbij de bewaring opgelegd wordt, wordt gedagtekend, ondertekend en met redenen omkleed. Aan de vreemdeling op wie de maatregel betrekking heeft, wordt onmiddellijk een afschrift daarvan uitgereikt (zie [artikel 5.3 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=5.3)). Deze vereisten gelden ook bij de voortzetting van de bewaring op een andere grond, zie A6/5.3.4.5. De vreemdeling moet daarbij schriftelijk en mondeling (in een voor hem begrijpelijke taal) worden gewezen op de mogelijkheid tot het aanwenden van het rechtsmiddel genoemd in [artikel 93 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=93) (zie A6/6). Voor het opleggen van de maatregel van bewaring dient gebruik te worden gemaakt van een formulier [M110-A](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M110-A&z=2006-07-16&g=2006-07-16). Dit model is zodanig ingericht dat daarin, overeenkomstig [artikel 59 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=59), steeds de gronden voor de inbewaringstelling worden aangegeven.
+De maatregel waarbij de bewaring opgelegd wordt, wordt gedagtekend, ondertekend en met redenen omkleed. Aan de vreemdeling op wie de maatregel betrekking heeft, wordt onmiddellijk een afschrift daarvan uitgereikt (zie [artikel 5.3 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=5.3)). Deze vereisten gelden ook bij de voortzetting van de bewaring op een andere grond, zie A6/5.3.4.5. De vreemdeling moet daarbij schriftelijk en mondeling (in een voor hem begrijpelijke taal) worden gewezen op de mogelijkheid tot het aanwenden van het rechtsmiddel genoemd in [artikel 93 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=93) (zie A6/6). Voor het opleggen van de maatregel van bewaring dient gebruik te worden gemaakt van een formulier [M110-A](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M110-A&z=2006-07-16&g=2006-10-13). Dit model is zodanig ingericht dat daarin, overeenkomstig [artikel 59 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=59), steeds de gronden voor de inbewaringstelling worden aangegeven.
 
-Er dienen voldoende afschriften te worden gemaakt van de maatregel waarbij de bewaring opgelegd is:
+De maatregel waarbij de bewaring opgelegd wordt, wordt gedagtekend, ondertekend en met redenen omkleed. Aan de vreemdeling op wie de maatregel betrekking heeft, wordt onmiddellijk een afschrift daarvan uitgereikt (zie [artikel 5.3 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=5.3)). Deze vereisten gelden ook bij de voortzetting van de bewaring op een andere grond, zie A6/5.3.4.5. De vreemdeling moet daarbij schriftelijk en mondeling (in een voor hem begrijpelijke taal) worden gewezen op de mogelijkheid tot het aanwenden van het rechtsmiddel genoemd in [artikel 93 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=93) (zie A6/6). Voor het opleggen van de maatregel van bewaring dient gebruik te worden gemaakt van een formulier [M110-A](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M110-A&z=2006-11-16&g=2006-10-13). Dit model is zodanig ingericht dat daarin, overeenkomstig [artikel 59 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=59), steeds de gronden voor de inbewaringstelling worden aangegeven.
 
 ### 5.3.4.4. Voortzetting van de bewaring op een andere categorie
 
-Het kan voorkomen dat de vreemdeling tijdens zijn inbewaringstelling een aanvraag tot het verlenen van een verblijfsvergunning indient of dat tijdens zijn vrijheidsontneming een door hem ingediende aanvraag wordt afgewezen. In die gevallen kan de bewaring op een andere categorie worden voortgezet (zie voor de verschillende categorieën [artikel 59, eerste lid, sub a, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=59)en [artikel 59, eerste lid, sub b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=59)). De bewaring wordt niet opgeheven, immers de gronden voor de bewaring kunnen dezelfde blijven. Als de bewaring wordt voortgezet op een andere categorie wordt door de hulpofficier van justitie onverwijld een nieuw [Model M110-A](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M110-A&z=2006-07-16&g=2006-07-16) aan de vreemdeling uitgereikt (zie [artikel 5.3, tweede lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=5.3)). Gelet op het bepaalde in [artikel 5.2 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=5.2) hoeft de vreemdeling daarbij niet gehoord te worden.
+Het kan voorkomen dat de vreemdeling tijdens zijn inbewaringstelling een aanvraag tot het verlenen van een verblijfsvergunning indient of dat tijdens zijn vrijheidsontneming een door hem ingediende aanvraag wordt afgewezen. In die gevallen kan de bewaring op een andere categorie worden voortgezet (zie voor de verschillende categorieën [artikel 59, eerste lid, sub a, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=59)en [artikel 59, eerste lid, sub b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=59)). De bewaring wordt niet opgeheven, immers de gronden voor de bewaring kunnen dezelfde blijven. Als de bewaring wordt voortgezet op een andere categorie wordt door de hulpofficier van justitie onverwijld een nieuw [Model M110-A](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M110-A&z=2006-07-16&g=2006-10-13) aan de vreemdeling uitgereikt (zie [artikel 5.3, tweede lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=5.3)). Gelet op het bepaalde in [artikel 5.2 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=5.2) hoeft de vreemdeling daarbij niet gehoord te worden.
 
-Indien de vreemdeling tijdens zijn inbewaringstelling een reguliere aanvraag of een asielaanvraag indient, komt aan de beslissing op de reguliere aanvraag ingevolge [artikel 73, vierde lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=73) en aan de beslissing op de asielaanvraag ingevolge [artikel 82, vierde lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=82) geen opschortende werking toe. Zie ook [C4/17.3.1.](onbekend)
+Het kan voorkomen dat de vreemdeling tijdens zijn inbewaringstelling een aanvraag tot het verlenen van een verblijfsvergunning indient of dat tijdens zijn vrijheidsontneming een door hem ingediende aanvraag wordt afgewezen. In die gevallen kan de bewaring op een andere categorie worden voortgezet (zie voor de verschillende categorieën [artikel 59, eerste lid, sub a, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=59)en [artikel 59, eerste lid, sub b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=59)). De bewaring wordt niet opgeheven, immers de gronden voor de bewaring kunnen dezelfde blijven. Als de bewaring wordt voortgezet op een andere categorie wordt door de hulpofficier van justitie onverwijld een nieuw [Model M110-A](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M110-A&z=2006-11-16&g=2006-10-13) aan de vreemdeling uitgereikt (zie [artikel 5.3, tweede lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=5.3)). Gelet op het bepaalde in [artikel 5.2 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=5.2) hoeft de vreemdeling daarbij niet gehoord te worden.
 
 ### 5.3.4.5. Hernieuwde inbewaringstelling op een andere bewaringsgrond
 
 Indien de bewaring wordt opgeheven, is het mogelijk om de vreemdeling onmiddellijk aansluitend aan de opheffing – zonder dat de vreemdeling uit de macht van de tot inbewaringstelling en uitzetting bevoegde autoriteiten is geweest – opnieuw in bewaring te stellen. Voor het opnieuw opleggen van een maatregel van bewaring is het noodzakelijk dat er sprake is van gewijzigde omstandigheden, op grond waarvan een hernieuwde inbewaringstelling gerechtvaardigd is. Het maakt in dit verband geen verschil of de opheffing van de eerdere bewaring door de rechtbank is bevolen dan wel op eigen initiatief namens de Minister is opgeheven. Van gewijzigde omstandigheden is onder andere sprake indien de voor de terugkeer van de vreemdeling noodzakelijke bescheiden voorhanden zijn of op korte termijn voorhanden zullen zijn, terwijl die er ten tijde van de eerste inbewaringstelling niet waren.
 
-Ook is het denkbaar dat de bewaringsgrond van [artikel 59, tweede lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=59) wordt omgezet in [artikel 59, eerste lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=59). Bijvoorbeeld indien de vreemdeling zich verzet bij de uitzetting. Bij een hernieuwde inbewaringstelling dient de vreemdeling uiteraard te worden gehoord.
+Indien de bewaring wordt opgeheven, is het mogelijk om de vreemdeling onmiddellijk aansluitend aan de opheffing – zonder dat de vreemdeling uit de macht van de tot inbewaringstelling en uitzetting bevoegde autoriteiten is geweest – opnieuw in bewaring te stellen. Voor het opnieuw opleggen van een maatregel van bewaring is het noodzakelijk dat er sprake is van gewijzigde omstandigheden, op grond waarvan een hernieuwde inbewaringstelling gerechtvaardigd is. Het maakt in dit verband geen verschil of de opheffing van de eerdere bewaring door de rechtbank is bevolen dan wel op eigen initiatief namens de Minister is opgeheven. Van gewijzigde omstandigheden is onder andere sprake indien de voor de terugkeer van de vreemdeling noodzakelijke bescheiden voorhanden zijn of op korte termijn voorhanden zullen zijn, terwijl die er ten tijde van de eerste inbewaringstelling niet waren.
 
 ### 5.3.5. De duur
+
+In [artikel 59, vierde lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=59) wordt aangegeven hoe lang de maatregel van bewaring mag duren. Daarbij is het volgende onderscheid gemaakt:
 
 In [artikel 59, vierde lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=59) wordt aangegeven hoe lang de maatregel van bewaring mag duren. Daarbij is het volgende onderscheid gemaakt:
 
@@ -5391,15 +5393,15 @@ Voorts mag de bewaring niet langer duren dan met het oog op het doel van deze ma
 
 De Korpschef dan wel de Commandant der KMar moet gelet hierop alle maatregelen nemen om de uitzetting op zo kort mogelijke termijn te effectueren (onderzoek naar identiteit en nationaliteit, reispapieren, verblijfspositie, aanvraag reispapieren e.d.). Bij het voortduren van de maatregel zal de nadruk gelegd dienen te worden op de voortvarendheid van het handelen met betrekking tot het verkrijgen van reis- en/of identiteitspapieren.
 
-De omstandigheid dat een beroep op de rechtbank (zie [artikel 93 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=93)) over de rechtmatigheid van de bewaring nog bij de rechter aanhangig is, staat niet aan de uitzetting in de weg.
-
 ### 5.3.5.1. Indienen van voorlopige voorziening tijdens bewaring
 
 Indien een vreemdeling gedurende de tenuitvoerlegging van de bewaring een verzoek om een voorlopige voorziening indient, blijft de vreemdelingenbewaring in beginsel voortduren. De ambtenaar belast met de grensbewaking of met het toezicht op vreemdelingen zal in overleg met de IND na moeten gaan of deze procedure in Nederland afgewacht mag worden. Indien daartoe besloten wordt en de vreemdelingenbewaring voortduurt, zal de IND aan de rechtbank verzoeken om het verzoek om een voorlopige voorziening zo spoedig als mogelijk te laten plaatsvinden. Ook de advocaat van de vreemdeling kan in deze gevallen aan de rechtbank om bespoediging van de behandeling van het verzoek om een voorlopige voorziening vragen.
 
 ### 5.3.6. De tenuitvoerlegging
 
-### 5.3.6.1. Plaats van tenuitvoerlegging
+### 5.3.6. De tenuitvoerlegging
+
+Ingevolge [artikel 5.4, eerste lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=5.4) wordt de maatregel van bewaring ten uitvoer gelegd op een politiebureau, in een cel van de KMar of in een huis van bewaring. Tenuitvoerlegging in een ruimte of plaats als bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=6), of [artikel 58, eerste lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=58) is eveneens mogelijk. Het regime is geregeld in respectievelijk de Regeling Politiecellencomplex, de Penitentiaire beginselenwet en het Reglement grenslogies. In [artikel 5.4, eerste lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=5.4) is bepaald dat bij de tenuitvoerlegging van de bewaring de vreemdeling niet verder beperkt wordt in de uitoefening van zijn grondrechten dan wordt gevorderd door het doel van de bewaring en de handhaving van de orde en de veiligheid op de plaats van de tenuitvoerlegging.
 
 Ingevolge [artikel 5.4, eerste lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=5.4) wordt de maatregel van bewaring ten uitvoer gelegd op een politiebureau, in een cel van de KMar of in een huis van bewaring. Tenuitvoerlegging in een ruimte of plaats als bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=6), of [artikel 58, eerste lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=58) is eveneens mogelijk. Het regime is geregeld in respectievelijk de Regeling Politiecellencomplex, de Penitentiaire beginselenwet en het Reglement grenslogies. In [artikel 5.4, eerste lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=5.4) is bepaald dat bij de tenuitvoerlegging van de bewaring de vreemdeling niet verder beperkt wordt in de uitoefening van zijn grondrechten dan wordt gevorderd door het doel van de bewaring en de handhaving van de orde en de veiligheid op de plaats van de tenuitvoerlegging.
 
@@ -5415,9 +5417,9 @@ De hier genoemde voorbeelden van bijzondere omstandigheden of zwaarwegende belan
 
 In het geval een tenuitvoerlegging op een politiebureau of in een cel van de KMar langer duurt dan tien dagen, dient uit het bewaringsdossier van de vreemdeling te blijken welke bijzondere omstandigheden of zwaarwegende belangen hiertoe hebben genoopt.
 
-Een uitzetcentrum is in beginsel bedoeld voor illegale vreemdelingen die bij (grootschalige) acties in vreemdelingenbewaring worden gesteld en voor andere illegale vreemdelingen voorzover deze op korte termijn uitzetbaar zijn. Echter, de duur van het verblijf in het uitzetcentrum is niet aan een wettelijk maximum gebonden. Vreemdelingenbewaring in een uitzetcentrum kan duren zolang de openbare orde of de nationale veiligheid dat vergt en zolang er zicht is op uitzetting. Ook vanuit de optiek van de in het uitzetcentrum aanwezige voorzieningen bestaat er geen limiet aan de verblijfsduur in het uitzetcentrum.
-
 ### 5.3.6.2. Plaatsing in een justitiële inrichting
+
+De ambtenaar belast met de grensbewaking of met het toezicht op vreemdelingen meldt de vreemdeling zo spoedig mogelijk na inbewaringstelling aan bij DJI.
 
 De ambtenaar belast met de grensbewaking of met het toezicht op vreemdelingen meldt de vreemdeling zo spoedig mogelijk na inbewaringstelling aan bij DJI.
 
@@ -5425,33 +5427,33 @@ Bij het verzoek tot plaatsing dienen de benodigde gegevens over de van zijn vrij
 
 Indien van het verzoek om opname geen gebruik gemaakt wordt, bijvoorbeeld omdat de vreemdeling inmiddels is uitgezet, licht de ambtenaar belast met de grensbewaking of met het toezicht op vreemdelingen DJI terstond in. Een dergelijke afmelding is noodzakelijk om de benodigde capaciteit zo efficiënt mogelijk te gebruiken.
 
-Zodra van DJI bericht ontvangen is in welke inrichting de vreemdeling gaat verblijven, richt de ambtenaar belast met de grensbewaking of met het toezicht op vreemdelingen een schriftelijk verzoek tot plaatsing aan de directeur van die inrichting.
-
 ### 5.3.6.3. Declaratie van de kosten van bewaring in een politiecel
 
 De kosten van bewaring in een politiecel kunnen – met uitsluiting van die van de eerste vier dagen van de bewaring – op grond van de Circulaire afbakening tussen politie- en Justitiekosten 2004-2008 van de Minister van Justitie (Stcrt 2004, nr. 92, pag. 22), gedeclareerd worden bij het ministerie van Justitie.
 
 ### 5.3.7. Het strafrecht en bewaring
 
-### 5.3.7.1. Het overbrengen en ophouden na strafrechtelijke detentie
+### 5.3.7. Het strafrecht en bewaring
+
+Het uitgangspunt is dat zoveel als mogelijk voorkomen dient te worden dat vreemdelingen na hun strafrechtelijke detentie in bewaring gesteld moeten worden (zie A4/10). Toch kan het voorkomen dat een vreemdeling na zijn detentie in vreemdelingenrechtelijke bewaring gesteld moet worden. Dit kan zich voordoen bij detentie waarvan niet bij voorbaat de datum van ontslag vaststaat, zoals bij voorlopige hechtenis of een nog niet onherroepelijk vonnis. De inbewaringstelling dient alsdan binnen een redelijke termijn na de (strafrechtelijke) invrijheidstelling te geschieden met toepassing van [artikel 50, derde lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=50). Dit artikel verschaft een rechtstitel van vrijheidsontneming om vreemdelingen na een strafrechtelijke detentie ter inbewaringstelling te vervoeren naar een plaats bestemd voor verhoor. Aldaar kan de vreemdeling maximaal zes uren worden opgehouden waarbij de tijd tussen middernacht en negen uur 's ochtends niet wordt meegerekend. De termijn van ophouding vangt aan op het moment dat de vreemdeling op de plaats bestemd voor verhoor is aangekomen. Zie A3/3.5.
 
 Het uitgangspunt is dat zoveel als mogelijk voorkomen dient te worden dat vreemdelingen na hun strafrechtelijke detentie in bewaring gesteld moeten worden (zie A4/10). Toch kan het voorkomen dat een vreemdeling na zijn detentie in vreemdelingenrechtelijke bewaring gesteld moet worden. Dit kan zich voordoen bij detentie waarvan niet bij voorbaat de datum van ontslag vaststaat, zoals bij voorlopige hechtenis of een nog niet onherroepelijk vonnis. De inbewaringstelling dient alsdan binnen een redelijke termijn na de (strafrechtelijke) invrijheidstelling te geschieden met toepassing van [artikel 50, derde lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=50). Dit artikel verschaft een rechtstitel van vrijheidsontneming om vreemdelingen na een strafrechtelijke detentie ter inbewaringstelling te vervoeren naar een plaats bestemd voor verhoor. Aldaar kan de vreemdeling maximaal zes uren worden opgehouden waarbij de tijd tussen middernacht en negen uur 's ochtends niet wordt meegerekend. De termijn van ophouding vangt aan op het moment dat de vreemdeling op de plaats bestemd voor verhoor is aangekomen. Zie A3/3.5.
 
 Voor alle duidelijkheid dient te worden opgemerkt dat indien de identiteit van de vreemdeling én de onrechtmatigheid van zijn verblijf vaststaan, verlenging van de termijn, als bedoeld in [artikel 50, vierde lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=50), niet mogelijk is.
 
-Aan de vreemdeling wordt tijdens de strafrechtelijke detentie mededeling gedaan van het feit dat hij bij beëindiging van zijn detentie op grond van artikel 50, derde lid, Vw naar een plaats bestemd voor verhoor wordt overgebracht. Deze mededeling wordt op schrift aan de vreemdeling uitgereikt. Aan de directeur van de inrichting waarin de vreemdeling zich bevindt, moet eveneens een afschrift van deze mededeling worden gestuurd.
-
-Voorts dient van de toepassing van dit artikel proces-verbaal (zie [Model M111-A](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M111-A&z=2006-07-16&g=2006-07-16)) opgemaakt te worden.
+Voorts dient van de toepassing van dit artikel proces-verbaal (zie [Model M111-A](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M111-A&z=2006-07-16&g=2006-10-13)) opgemaakt te worden.
 
 ### 5.3.7.2. Tenuitvoerlegging strafrechtelijke vonnis tijdens bewaring
 
 Gedurende de tenuitvoerlegging van de bewaring kan het voorkomen dat bekend wordt dat de vreemdeling nog een strafrechtelijk vonnis moet ondergaan.
 
+Gedurende de tenuitvoerlegging van de bewaring kan het voorkomen dat bekend wordt dat de vreemdeling nog een strafrechtelijk vonnis moet ondergaan.
+
 Voor zover de tenuitvoerlegging is toegelaten, wordt een vonnis of arrest zodra mogelijk ten uitvoer gelegd. In verband hiermee dient de Korpschef, de Commandant der KMar of de directeur van de vreemdelingenrechtelijke inrichting zodra hij op de hoogte is van een strafrechtelijk vonnis contact op te nemen met het OM over de executie van het vonnis.
 
-Indien tot executie overgegaan kan worden, dient de vreemdelingenbewaring opgeheven en het vonnis op de daarvoor bestemde plaats ten uitvoer gelegd te worden.
-
 ### 5.3.8. De beëindiging
+
+De maatregel van bewaring wordt namens de Minister opgeheven door een ambtenaar belast met het toezicht op vreemdelingen of met de grensbewaking, die tevens hulpofficier van justitie is, zodra er geen grond voor bewaring meer aanwezig is (zie [artikel 5.4, derde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=5.4)).
 
 De maatregel van bewaring wordt namens de Minister opgeheven door een ambtenaar belast met het toezicht op vreemdelingen of met de grensbewaking, die tevens hulpofficier van justitie is, zodra er geen grond voor bewaring meer aanwezig is (zie [artikel 5.4, derde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=5.4)).
 
@@ -5461,37 +5463,37 @@ Deze laatstgenoemde gelegenheid bestaat indien de vreemdeling beschikt over een 
 
 Bewaring krachtens [artikel 59, eerste lid, aanhef en onder b, of tweede lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=59) duurt in geen geval langer dan vier weken. Indien voorafgaande aan de beslissing op de aanvraag tot het verlenen van een verblijfsvergunning asiel de voornemenprocedure ([artikel 39 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=39)) toegepast is, duurt de bewaring krachtens [artikel 59, eerste lid, aanhef en onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=59) in geen geval langer dan zes weken. Deze bewaring eindigt van rechtswege en behoeft, als de termijn verstreken is, niet opgeheven te worden.
 
-Voorts kan de beëindiging van de bewaring door de rechtbank (zie [artikel 94](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=94) en [96 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=96)) worden bevolen (zie hierna onder rechtsmiddelen).
+De ambtenaar belast met het toezicht op vreemdelingen of met de grensbewaking, die tevens hulpofficier van justitie is, zal in de hierboven genoemde gevallen de bewaring uitdrukkelijk moeten opheffen. Hij kan daarvoor gebruik maken van het [Model M113](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M113&z=2006-07-16&g=2006-10-13). Het origineel van dit formulier moet in het archief worden opgeborgen en een afschrift wordt aan de vreemdeling uitgereikt. Ten behoeve van de informatievoorziening dient er tevens een afschrift te worden verzonden naar de IND. Tezamen met het verzoek om ontslag uit de inrichting (zie [Model M114](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M114&z=2006-07-16&g=2006-10-13)) wordt een afschrift van het model toegezonden aan de directeur van de inrichting waarin de vreemdeling zich bevindt.
 
-De ambtenaar belast met het toezicht op vreemdelingen of met de grensbewaking, die tevens hulpofficier van justitie is, zal in de hierboven genoemde gevallen de bewaring uitdrukkelijk moeten opheffen. Hij kan daarvoor gebruik maken van het [Model M113](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M113&z=2006-07-16&g=2006-07-16). Het origineel van dit formulier moet in het archief worden opgeborgen en een afschrift wordt aan de vreemdeling uitgereikt. Ten behoeve van de informatievoorziening dient er tevens een afschrift te worden verzonden naar de IND. Tezamen met het verzoek om ontslag uit de inrichting (zie [Model M114](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M114&z=2006-07-16&g=2006-07-16)) wordt een afschrift van het model toegezonden aan de directeur van de inrichting waarin de vreemdeling zich bevindt.
+De ambtenaar belast met het toezicht op vreemdelingen of met de grensbewaking, die tevens hulpofficier van justitie is, zal in de hierboven genoemde gevallen de bewaring uitdrukkelijk moeten opheffen. Hij kan daarvoor gebruik maken van het [Model M113](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M113&z=2006-11-16&g=2006-10-13). Het origineel van dit formulier moet in het archief worden opgeborgen en een afschrift wordt aan de vreemdeling uitgereikt. Ten behoeve van de informatievoorziening dient er tevens een afschrift te worden verzonden naar de IND. Tezamen met het verzoek om ontslag uit de inrichting (zie [Model M114](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M114&z=2006-11-16&g=2006-10-13)) wordt een afschrift van het model toegezonden aan de directeur van de inrichting waarin de vreemdeling zich bevindt.
 
-De ambtenaar belast met het toezicht op vreemdelingen of met de grensbewaking ziet toe op beëindiging van de bewaring. Hij draagt zorg voor invrijheidstelling van de vreemdeling dan wel de verwijdering van de vreemdeling uit Nederland op de voorgeschreven wijze.
+Overbrenging van een in bewaring gestelde vreemdeling van een inrichting naar een politiebureau dan wel een brigade van de KMar is mogelijk indien vaststaat dat hij op korte termijn uit Nederland kan worden verwijderd en de uitzettingsprocedure door deze overbrenging wordt versneld. In dit geval dient de ambtenaar belast met het toezicht op vreemdelingen of met de grensbewaking met gebruikmaking van [M114](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M114&z=2006-07-16&g=2006-10-13) een verzoek om ontslag van de vreemdeling uit de inrichting te doen. De maatregel van bewaring blijft dan echter van kracht en dient te worden opgeheven op het moment van het daadwerkelijke vertrek uit Nederland.
 
-Overbrenging van een in bewaring gestelde vreemdeling van een inrichting naar een politiebureau dan wel een brigade van de KMar is mogelijk indien vaststaat dat hij op korte termijn uit Nederland kan worden verwijderd en de uitzettingsprocedure door deze overbrenging wordt versneld. In dit geval dient de ambtenaar belast met het toezicht op vreemdelingen of met de grensbewaking met gebruikmaking van [M114](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M114&z=2006-07-16&g=2006-07-16) een verzoek om ontslag van de vreemdeling uit de inrichting te doen. De maatregel van bewaring blijft dan echter van kracht en dient te worden opgeheven op het moment van het daadwerkelijke vertrek uit Nederland.
+Heeft de vreemdeling het Nederlands grondgebied niet verlaten (bijvoorbeeld door verzet van de vreemdeling), dan kan de bewaring gecontinueerd worden op de bestaande maatregel van bewaring. In dat geval zal wel een nieuw (spoed) verzoek tot plaatsing aan DJI moeten worden gedaan. In dit geval dient uiteraard geen [M113](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M113&z=2006-07-16&g=2006-10-13) te worden verzonden.
 
-Heeft de vreemdeling het Nederlands grondgebied niet verlaten (bijvoorbeeld door verzet van de vreemdeling), dan kan de bewaring gecontinueerd worden op de bestaande maatregel van bewaring. In dat geval zal wel een nieuw (spoed) verzoek tot plaatsing aan DJI moeten worden gedaan. In dit geval dient uiteraard geen [M113](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M113&z=2006-07-16&g=2006-07-16) te worden verzonden.
+Heeft de vreemdeling het Nederlands grondgebied niet verlaten (bijvoorbeeld door verzet van de vreemdeling), dan kan de bewaring gecontinueerd worden op de bestaande maatregel van bewaring. In dat geval zal wel een nieuw (spoed) verzoek tot plaatsing aan DJI moeten worden gedaan. In dit geval dient uiteraard geen [M113](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M113&z=2006-11-16&g=2006-10-13) te worden verzonden.
 
 Heeft de vreemdeling het Nederlands grondgebied verlaten en keert hij terug (bijvoorbeeld na weigering toegang door de autoriteiten in het land van bestemming of van transit), dan dient de vreemdeling (na aankomst op bijvoorbeeld de luchthaven Schiphol) opnieuw in bewaring te worden gesteld, in beginsel door een hulpofficier van justitie van het politiekorps die verantwoordelijk was voor de eerdere bewaring dan wel door een hulpofficier van het politiekorps van de regio waarbinnen de desbetreffende grensdoorlaatpost is gelegen. De toegang tot Nederland zal niet worden geweigerd, ondanks het feit dat betrokkene strikt genomen niet aan de voorwaarden voor toegang voldoet, tenzij er concrete aanwijzingen zijn dat de vreemdeling in de tussentijd toegang heeft verkregen in een derde land. Een dergelijke aanwijzing kan bestaan uit het feit dat hij na meerdere dagen terugkeert dan wel uit een inreisstempel in zijn reisdocument.
 
-Zonodig kan met betrekking tot de vreemdeling in afwachting van de hernieuwde inbewaringstelling gebruik gemaakt worden van de maatregel als bedoeld in [artikel 50, derde lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=50).
-
 ### 6. Rechtsmiddelen
 
-### 6.1. Algemeen
+### 6. Rechtsmiddelen
 
 De bepalingen van [hoofdstuk 8 van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) zijn, met uitzondering van de in [artikel 93 tot en met 107 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=93)genoemde afwijkingen, van overeenkomstige toepassing met betrekking tot het opleggen van de in [artikel 93 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=93) genoemde vrijheidsbeperkende en vrijheidsontnemende maatregelen op grond van de[Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823). [Artikel 8, eerste lid, Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:1) stelt het opleggen van deze maatregelen gelijk met een besluit. Op grond van [artikel 75](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=75) en [77 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=77) kan geen bezwaar en administratief beroep worden ingediend en dient tegen het opleggen van deze maatregelen beroep ingesteld te worden bij de rechtbank. Het gaat hierbij om de volgende maatregelen:
 
 ### 6.2. Beroep bij de rechtbank
 
-### 6.2.1. Beroep instellen bij de rechtbank
+### 6.2. Beroep bij de rechtbank
+
+De vreemdeling zelf, zijn wettelijk vertegenwoordiger, zijn bijzonder gemachtigde of een in Nederland ingeschreven advocaa, indien deze verklaart daartoe gevolmachtigd te zijn, kan tegen een vrijheidsbeperkende of vrijheidsontnemende maatregel genoemd onder 6.1 beroep instellen bij de rechtbank Den Haag (zie [artikel 70 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=70)). Het beroep kan ook ingesteld worden door middel van een schriftelijke verklaring, bedoeld in [artikel 451a van het WvSv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=451a). Voor het instellen van beroep geldt geen termijn (zie [artikel 69, derde lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=69)).
 
 De vreemdeling zelf, zijn wettelijk vertegenwoordiger, zijn bijzonder gemachtigde of een in Nederland ingeschreven advocaa, indien deze verklaart daartoe gevolmachtigd te zijn, kan tegen een vrijheidsbeperkende of vrijheidsontnemende maatregel genoemd onder 6.1 beroep instellen bij de rechtbank Den Haag (zie [artikel 70 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=70)). Het beroep kan ook ingesteld worden door middel van een schriftelijke verklaring, bedoeld in [artikel 451a van het WvSv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=451a). Voor het instellen van beroep geldt geen termijn (zie [artikel 69, derde lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=69)).
 
 Het beroepschrift moet in tweevoud ingediend worden bij de rechtbank Den Haag. Daarbij moet een afschrift van de bestreden beschikking overgelegd worden.
 
-In afwijking van [artikel 8:41 van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:41) wordt door de griffier van de rechtbank geen griffierecht geheven (zie [artikel 93, derde lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=93)).
-
 ### 6.2.2. In kennis stellen van de rechtbank
+
+De Minister (in de praktijk de IND) dient uiterlijk op de 28e dag na de bekendmaking van een besluit tot oplegging van een vrijheidsontnemende maatregel op grond van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=6), [58](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=58) of [59 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=59) de rechtbank daarvan in kennis te stellen, tenzij de vreemdeling zelf beroep heeft ingesteld (zie [artikel 94, eerste lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=94)). Op deze termijnstelling is de Algemene Termijnenwet van toepassing. Dit heeft tot gevolg dat de termijn van 28 dagen een aanvang neemt op de dag nadat de vreemdeling in bewaring is gesteld. De kennisgeving, die gelijk wordt gesteld met een beroep van de vreemdeling, dient dus uiterlijk op de 29e dag van de vrijheidsontneming door de rechtbank te zijn ontvangen.
 
 De Minister (in de praktijk de IND) dient uiterlijk op de 28e dag na de bekendmaking van een besluit tot oplegging van een vrijheidsontnemende maatregel op grond van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=6), [58](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=58) of [59 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=59) de rechtbank daarvan in kennis te stellen, tenzij de vreemdeling zelf beroep heeft ingesteld (zie [artikel 94, eerste lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=94)). Op deze termijnstelling is de Algemene Termijnenwet van toepassing. Dit heeft tot gevolg dat de termijn van 28 dagen een aanvang neemt op de dag nadat de vreemdeling in bewaring is gesteld. De kennisgeving, die gelijk wordt gesteld met een beroep van de vreemdeling, dient dus uiterlijk op de 29e dag van de vrijheidsontneming door de rechtbank te zijn ontvangen.
 
@@ -5499,9 +5501,9 @@ Daarnaast geldt dat, indien de gestelde termijn eindigt op een zaterdag, zondag 
 
 In het geval dat binnen de termijn van 28 dagen meerdere besluiten tot vrijheidsontneming zijn genomen, bijvoorbeeld als gevolg van het indienen van een aanvraag tot het verlenen van een verblijfsvergunning, telt voor de termijn van kennisgeving het eerste besluit.
 
-De kennisgeving hoeft niet gedaan te worden indien de bewaring uiterlijk de 28e dag van de vrijheidsontneming is opgeheven. Stelt de vreemdeling dan wel zijn advocaat of gemachtigde beroep in binnen de termijn van 28 dagen, dan hoeft de IND evenmin een kennisgeving aan de rechtbank te zenden.
-
 ### 6.2.3. Behandeling van de kennisgeving/het 1e beroep door de rechtbank
+
+In [artikel 94, lid 2 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=94) is voorgeschreven dat de rechtbank onmiddellijk het tijdstip van het onderzoek ter zitting bepaalt. De zitting vindt uiterlijk op de 14e dag na ontvangst van het beroepschrift of de kennisgeving plaats. De rechtbank roept de vreemdeling op om in persoon dan wel in persoon of bij raadsman te verschijnen om te worden gehoord. Tevens roept de rechtbank de gemachtigde van de Minister op. Tijdens dit onderzoek ter zitting kan de vreemdeling zich alleen doen bijstaan door een raadsman. Als raadsman wordt slechts toegelaten een in Nederland ingeschreven advocaat of een rechtshulpverlener die in dienst is van de SRA, indien deze persoon aan de daarvoor gestelde eisen voldoet (zie [artikel 98, derde lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=98)).
 
 In [artikel 94, lid 2 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=94) is voorgeschreven dat de rechtbank onmiddellijk het tijdstip van het onderzoek ter zitting bepaalt. De zitting vindt uiterlijk op de 14e dag na ontvangst van het beroepschrift of de kennisgeving plaats. De rechtbank roept de vreemdeling op om in persoon dan wel in persoon of bij raadsman te verschijnen om te worden gehoord. Tevens roept de rechtbank de gemachtigde van de Minister op. Tijdens dit onderzoek ter zitting kan de vreemdeling zich alleen doen bijstaan door een raadsman. Als raadsman wordt slechts toegelaten een in Nederland ingeschreven advocaat of een rechtshulpverlener die in dienst is van de SRA, indien deze persoon aan de daarvoor gestelde eisen voldoet (zie [artikel 98, derde lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=98)).
 
@@ -5509,21 +5511,19 @@ De rechtbank doet mondeling ter zitting of schriftelijk uitspraak. De schrifteli
 
 Indien de rechtbank de toepassing of de tenuitvoerlegging van de vrijheidsontnemende maatregel onrechtmatig acht, verklaart zij het beroep gegrond. In dat geval beveelt de rechtbank de opheffing van de maatregel of een wijziging van de wijze van tenuitvoerlegging daarvan. Ook kan de rechtbank schadevergoeding toekennen (zie hierna A6/6.4).
 
-De griffier van de rechtbank zendt zo spoedig mogelijk een afschrift van de uitspraak aan de vreemdeling of zijn advocaat en aan de IND. De IND stuurt vervolgens een afschrift van de uitspraak aan de Korpschef of de Commandant der KMar. Daarbij kan tevens aangegeven worden hoe verder ten aanzien van de vreemdeling gehandeld moet worden. Een opheffing van de vrijheidsontnemende maatregel kan enkel geschieden na overleg met de IND, gelet op het eventueel in te dienen hoger beroep of het verzoeken om een voorlopige voorziening.
-
-Indien uit informatie van de rechtbank blijkt dat de vrijheidsontnemende maatregel onmiddellijk dient te worden opgeheven, informeert de IND onverwijld de vreemdelingenpolitie (zie [artikel 58](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=58) en [59 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=59)) of de KMar (zie [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=6) en[59 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=59)). De maatregel dient onverwijld door een daartoe bevoegde ambtenaar te worden opgeheven onder gebruikmaking van het [Model M113](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M113&z=2006-07-16&g=2006-07-16). De vreemdeling wordt dus niet zonder voorafgaande opheffing heengezonden. Indien in de inrichting waar de vreemdeling zich bevindt geen tot opheffing bevoegde ambtenaar aanwezig is, kan een wel bevoegde ambtenaar een schriftelijk verzoek om invrijheidstelling richten aan de directeur, vergezeld van een [Model M113](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M113&z=2006-07-16&g=2006-07-16). Voorts kan de directeur van de inrichting verzocht worden om de vreemdeling een mededeling te doen omtrent melding of vertrek. Een afschrift van het opheffingsbewijs (zie [Model M113](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M113&z=2006-07-16&g=2006-07-16)) dient naar de IND te worden verzonden.
+Indien uit informatie van de rechtbank blijkt dat de vrijheidsontnemende maatregel onmiddellijk dient te worden opgeheven, informeert de IND onverwijld de vreemdelingenpolitie (zie [artikel 58](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=58) en [59 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=59)) of de KMar (zie [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=6) en[59 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=59)). De maatregel dient onverwijld door een daartoe bevoegde ambtenaar te worden opgeheven onder gebruikmaking van het [Model M113](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M113&z=2006-07-16&g=2006-10-13). De vreemdeling wordt dus niet zonder voorafgaande opheffing heengezonden. Indien in de inrichting waar de vreemdeling zich bevindt geen tot opheffing bevoegde ambtenaar aanwezig is, kan een wel bevoegde ambtenaar een schriftelijk verzoek om invrijheidstelling richten aan de directeur, vergezeld van een [Model M113](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M113&z=2006-07-16&g=2006-10-13). Voorts kan de directeur van de inrichting verzocht worden om de vreemdeling een mededeling te doen omtrent melding of vertrek. Een afschrift van het opheffingsbewijs (zie [Model M113](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M113&z=2006-07-16&g=2006-10-13)) dient naar de IND te worden verzonden.
 
 ### 6.2.4. Procedure bij voortduren van de vrijheidsontneming
 
 Indien de rechtbank na een eerste beoordeling het beroep ongegrond heeft verklaard dan wel een wijziging van de wijze van tenuitvoerlegging heeft bevolen, en de maatregel van vrijheidsontneming duurt voort, kan de vreemdeling op ieder moment opnieuw beroep instellen tegen het voortduren van de maatregel van vrijheidsontneming.
 
-De vreemdelingenpolitie dan wel de brigade van de KMar faxt uiterlijk op dag 3 na de indiening van het beroep het [Model M120](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M120&z=2006-07-16&g=2006-07-16) ((voortgangs)gegevens met betrekking tot uitzetting) naar de IND. Afwijking van deze werkwijze leidt er op zichzelf niet toe dat onrechtmatig is gehandeld. Uitgangspunt is steeds dat de rechtbank en de wederpartij tijdig en volledig worden geïnformeerd.
+De vreemdelingenpolitie dan wel de brigade van de KMar faxt uiterlijk op dag 3 na de indiening van het beroep het [Model M120](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M120&z=2006-07-16&g=2006-10-13) ((voortgangs)gegevens met betrekking tot uitzetting) naar de IND. Afwijking van deze werkwijze leidt er op zichzelf niet toe dat onrechtmatig is gehandeld. Uitgangspunt is steeds dat de rechtbank en de wederpartij tijdig en volledig worden geïnformeerd.
+
+De vreemdelingenpolitie dan wel de brigade van de KMar faxt uiterlijk op dag 3 na de indiening van het beroep het [Model M120](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M120&z=2006-11-16&g=2006-10-13) ((voortgangs)gegevens met betrekking tot uitzetting) naar de IND. Afwijking van deze werkwijze leidt er op zichzelf niet toe dat onrechtmatig is gehandeld. Uitgangspunt is steeds dat de rechtbank en de wederpartij tijdig en volledig worden geïnformeerd.
 
 De rechtbank sluit het vooronderzoek binnen een week na ontvangst van het beroep. Anders dan bij een eerste beroep of kennisgeving kan de rechtbank besluiten om de vreemdeling of de gemachtigde van de Minister niet te horen en zelfs zonder toestemming van partijen bepalen dat een onderzoek ter zitting achterwege blijft (de zaak buiten zitting afdoen). Bij de behandeling van het beroep staat met name de voortgang van de verwijdering ter beoordeling.
 
 Na de sluiting van het onderzoek (dat kan zowel het vooronderzoek als het onderzoek ter zitting betreffen) doet de rechtbank mondeling ter zitting of schriftelijk uitspraak. De schriftelijke uitspraak wordt binnen zeven dagen na de sluiting van het onderzoek gedaan.
-
-Evenals bij een eerste beroep kan de rechtbank de toepassing of de tenuitvoerlegging van de vrijheidsontnemende maatregel onrechtmatig achten en zal zij het beroep gegrond verklaren. In dat geval beveelt de rechtbank de opheffing van de maatregel of een wijziging van de wijze van tenuitvoerlegging daarvan. Ook kan de rechtbank – indien hierom verzocht wordt – schadevergoeding toekennen (zie A6/6.4). De griffier van de rechtbank zendt zo spoedig mogelijk een afschrift van de uitspraak aan de vreemdeling of zijn advocaat en aan de IND. De IND stuurt vervolgens een afschrift van de uitspraak aan de Korpschef of aan de Commandant der KMar. Daarbij kunnen tevens aanwijzingen gegeven worden hoe verder ten aanzien van de vreemdeling gehandeld moet worden.
 
 ### 6.3. Hoger Beroep
 
@@ -5535,7 +5535,7 @@ Zie [artikel 106 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=106
 
 ### 7. Overgangsrecht
 
-### 1. Inleiding
+### 7. Overgangsrecht
 
 In dit hoofdstuk wordt het overgangsrecht van de Vw beschreven. Het overgangsrecht betreft zowel de verblijfsvergunningen als de procedurele aspecten.
 
@@ -5545,11 +5545,13 @@ Sinds de datum van inwerkingtreding van de [Vw](https://wetten.overheid.nl/jci1.
 
 ### 3. Behandeling van de aanvraag
 
-### 3.1. Inleiding
+### 3. Behandeling van de aanvraag
 
 In [artikel 117 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=117) is geregeld welk rechtsregime van toepassing is op de aanvragen die op het tijdstip van inwerkingtreding reeds in behandeling waren. Deze aanvragen worden aangemerkt als een aanvraag tot verlening van een verblijfsvergunning op grond van de Vw.
 
 ### 3.2. Aanvragen verlening of verlenging van een vergunning tot verblijf
+
+Aanvragen tot verlening of verlenging van een vergunning tot verblijf op grond van artikel 9 Vw (oud) voor een regulier verblijfsdoel (onder een beperking) worden aangemerkt als aanvragen tot het verlenen of het verlengen van een verblijfsvergunning regulier voor bepaalde tijd als bedoeld in [artikel 14 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14).
 
 Aanvragen tot verlening of verlenging van een vergunning tot verblijf op grond van artikel 9 Vw (oud) voor een regulier verblijfsdoel (onder een beperking) worden aangemerkt als aanvragen tot het verlenen of het verlengen van een verblijfsvergunning regulier voor bepaalde tijd als bedoeld in [artikel 14 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14).
 
@@ -5558,8 +5560,6 @@ Verlening van een verblijfsvergunning regulier voor bepaalde tijd zonder beperki
 Indien moet worden beslist op een aanvraag die is ontvangen vóór 1 april 2001, of op een bezwaar gericht tegen de weigering om een dergelijke aanvraag in te willigen, wordt per brief aan de vreemdeling (danwel diens gemachtigde) meegedeeld dat het als gevolg van de inwerkingtreding van de Vw niet langer mogelijk is een vergunning tot verblijf zonder beperkingen te verlenen en wordt bij die brief verzocht binnen een in die brief bepaalde termijn het verblijfsdoel aan te geven en dat met gegevens en bescheiden te onderbouwen, met het oog op eventuele verlening van een verblijfsvergunning regulier voor bepaalde tijd. Betrokkene wordt erop gewezen dat hij in beginsel dient te kiezen uit de verblijfsdoelen van [artikel 3.4, eerste lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.4). Indien betrokkene een ander verblijfsdoel wenst dan vermeld in artikel 3.4, eerste lid, Vb, geldt het vermelde in [B1/2.1.1](onbekend).
 
 Indien betrokkene geen verblijfsdoel aangeeft, stelt betrokkene niet (alsnog) een kader voor de besluitvorming. De toelatingsgrond 'klemmende redenen van humanitaire aard' is naar zijn aard niet als een verblijfsdoel aan te merken. Indien voorts op grond van de aanwezige stukken geen grond kan worden gevonden om tot ambtshalve verlening van een vergunning als bedoeld in [artikel 3.6 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.6) over te gaan, wordt de aanvraag afgewezen en eventueel bezwaar om dezelfde reden, als regel, kennelijk ongegrond verklaard.
-
-Aanvragen om verlenging van de geldigheidsduur van een vergunning tot verblijf zonder beperkingen op basis van een asielaanvraag worden opgevat als een aanvraag om een verblijfsvergunning voor onbepaalde tijd als bedoeld in [artikel 33 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=33).
 
 ### 3.3. Aanvragen om verlening van een vergunning tot vestiging
 
@@ -5573,19 +5573,21 @@ Aanvragen om toelating als vluchteling als bedoeld in artikel 15 Vw (oud) worden
 
 Een aanvraag tot verlening of verlenging die is ingediend vóór 1 april 2001 wordt op grond van [artikel 117, tweede lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=117) behandeld op grond van de Vw (oud). Op deze aanvragen blijft het recht van toepassing zoals dat gold vóór inwerkingtreding van de Vw.
 
+Een aanvraag tot verlening of verlenging die is ingediend vóór 1 april 2001 wordt op grond van [artikel 117, tweede lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=117) behandeld op grond van de Vw (oud). Op deze aanvragen blijft het recht van toepassing zoals dat gold vóór inwerkingtreding van de Vw.
+
 Dit houdt in dat de procedurele bepalingen van de Vw (oud) van toepassing zijn. Ook de bepalingen omtrent het betalen van leges (artikel 16, tweede lid, Vw (oud)) blijven van toepassing. Dit voorkomt dat in een lopende aanvraagprocedure stappen moeten worden overgedaan.
 
 In [artikel 3:40 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:40) is vastgelegd dat een besluit pas in werking treedt als het bekendgemaakt is. Deze hoofdregel geldt ook hier. Dat betekent dat de beslissing wordt genomen met inachtneming van het nieuwe materiële recht, dus de inhoudelijke toets vindt aan de hand van de Vw plaats. Dit geldt zowel voor aanvragen in eerste aanleg die op of na 1 april 2001 zijn ontvangen als voor aanvragen in eerste aanleg die per 1 april 2001 reeds waren ontvangen, waarop nog niet is beslist.
 
-[Artikel 3.103 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.103) is geen bepaling van overgangsrecht per 1 april 2001. Dit artikel is bedoeld voor wijzigingen van na de inwerkingtreding van de Vw en codificeert de in het vreemdelingenrecht geldende uitzondering op het onmiddellijkheidsbeginsel.
-
 ### 4. Rechtsmiddelen
 
-### 4.1. Inleiding
+### 4. Rechtsmiddelen
 
 De [artikelen 118–120 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=118) regelen het overgangsrecht ten aan zien van de rechtsmiddelen. Voornoemde artikelen bevatte zowel de mogelijkheden tot het instellen van een rechtsmiddel op grond van de Vw (oud) en de behandeling van dit rechtsmiddel.
 
 ### 4.2. Bezwaar
+
+Tegen een besluit op grond van de Vw (oud), dat is bekendgemaakt vóór de inwerkingtreding van de Vw, kan op grond van het oude recht bezwaar worden gemaakt. Hetzelfde geldt voor de handeling op grond van de Vw (oud) die is verricht voor inwerkingtreding van de Vw. Dit is bepaald in [artikel 118, eerste lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=118).
 
 Tegen een besluit op grond van de Vw (oud), dat is bekendgemaakt vóór de inwerkingtreding van de Vw, kan op grond van het oude recht bezwaar worden gemaakt. Hetzelfde geldt voor de handeling op grond van de Vw (oud) die is verricht voor inwerkingtreding van de Vw. Dit is bepaald in [artikel 118, eerste lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=118).
 
@@ -5595,9 +5597,9 @@ De nadruk ligt op de datum van het bekendmaken van het besluit om te verzekeren 
 
 In [artikel 118, tweede lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=118) is vastgelegd dat op de behandeling van een dergelijk bezwaarschrift de bepalingen van het oude recht van toepassing zijn. Het betreft dan artikel 29 en volgende Vw (oud). Dat betekent ook dat bijvoorbeeld de ACVZ moet worden ingeschakeld indien dat volgens artikel 31, tweede lid, Vw (oud) verplicht is.
 
-Op het bezwaarschrift zijn de materiële bepalingen van het nieuwe recht van toepassing, omdat in bezwaar op grond van de hoofdregel uit het algemene bestuursrecht ex nunc wordt beslist (Memorie van Toelichting, pagina 94). Wel dient – als een overgangsregeling voor het beleid ontbreekt – het voor de vreemdeling meest gunstige beleid te worden toegepast.
-
 ### 4.3. Beroep
+
+Tegen een besluit op grond van de Vw (oud), dat is bekendgemaakt voor de inwerkingtreding van de wet, kan op grond van het oude recht beroep worden ingesteld. Hetzelfde geldt voor de handeling op grond van de Vw (oud), die is verricht voor inwerkingtreding van de wet. Dit is bepaald in [artikel 119, eerste lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=119). Dit artikel moet in samenhang met het [eerste lid van artikel 118 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=118) worden bezien.
 
 Tegen een besluit op grond van de Vw (oud), dat is bekendgemaakt voor de inwerkingtreding van de wet, kan op grond van het oude recht beroep worden ingesteld. Hetzelfde geldt voor de handeling op grond van de Vw (oud), die is verricht voor inwerkingtreding van de wet. Dit is bepaald in [artikel 119, eerste lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=119). Dit artikel moet in samenhang met het [eerste lid van artikel 118 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=118) worden bezien.
 
@@ -5607,11 +5609,13 @@ Onder [artikel 119, eerste lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011
 
 In het derde lid is bepaald dat voor een beroep of een verzoek om een voorlopige voorziening op grond van het oude recht ook de bepalingen van het oude recht van toepassing zijn over de hoogte van het griffierecht. Zie artikel 33f Vw (oud).
 
-Het beroep op de rechtbank tegen een besluit of handeling op grond van de Vw (oud) dat is bekendgemaakt of verricht voor inwerkingtreding van de Vw, of tegen een op bezwaar genomen beslissing, heeft geen opschortende werking ([artikel 119, tweede lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=119)).
-
 ### 4.4. Hoger beroep
 
 In [artikel 120 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=120) is bepaald dat het hoger beroep als bedoeld in [artikel 84 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=84) slechts kan worden ingesteld tegen de uitspraak die is bekendgemaakt na het tijdstip van inwerkingtreding van de wet. Het betreft een uitspraak van de rechtbank of de president van de rechtbank over de beschikking op de aanvraag tot het verlenen of verlengen van een verblijfsvergunning, dan wel over de beschikking waarbij de verblijfsvergunning is ingetrokken. Dit artikel beoogt het instellen van hoger beroep te beperken tot die zaken, waarin vanaf de eerste aanlegfase de nieuwe wet is toegepast ([artikel 117 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=117)).
+
+## Model M1
+
+Vervallen
 
 ## Model M1
 
@@ -5825,21 +5829,19 @@ Vervallen
 
 Vervallen
 
-## Model M44-A. Overeenkomst Au pair – Gastgezin
-
 De Overeenkomst Au pair – Gastgezin (hierna: de overeenkomst) is gesloten op ……………………………… (**datum**) tussen de partijen: de voor de duur van een jaar in Nederland verblijvende vreemdeling ……………………………… (**naam**), geboren op ………………... (**datum**), hierna te noemen ‘de au pair’, en het aan deze vreemdeling vrije kost en inwoning verschaffende gezin ………………………………………… (**naam of namen hoofd(en)**), geboren op ……………………………(**datum**), hierna te noemen ‘het gastgezin’, wonende te ………………………………………………………… (**straat, postcode, woonplaats**), te bereiken op ………………… (**telefoonnummer**). De au pair en het gastgezin tezamen worden aangeduid als Partijen. Bemiddeling tussen Partijen heeft plaatsgevonden door …………………………………… (**naam bureau of organisatie**). 1Dit hoeft uiteraard alleen te worden ingevuld indien bemiddeling heeft plaatsgevonden.
 
 ### Overwegingen:
 
 In de afgelopen periode hebben Partijen informatie uitgewisseld. De au pair heeft kenbaar gemaakt, gedurende de periode van een jaar, kennis te willen maken met de Nederlandse samenleving en cultuur, door middel van verblijf als au pair bij een Nederlands gastgezin. Het gastgezin heeft kenbaar gemaakt de au pair faciliteiten te willen verlenen, in ruil waarvoor de au pair licht huishoudelijk werk verricht in het gastgezin.
 
-De au pair heeft hiertoe (in samenspraak met het gastgezin, dat als verblijfgever fungeert) een aanvraag om een verblijfsvergunning ingediend. De (door Partijen ondertekende) overeenkomst wordt in de beoordeling van bovenstaande aanvraag betrokken en moet derhalve bij de aanvraag worden overgelegd.
+In de afgelopen periode hebben Partijen informatie uitgewisseld. De au pair heeft kenbaar gemaakt, gedurende de periode van een jaar, kennis te willen maken met de Nederlandse samenleving en cultuur, door middel van verblijf als au pair bij een Nederlands gastgezin. Het gastgezin heeft kenbaar gemaakt de au pair faciliteiten te willen verlenen, in ruil waarvoor de au pair licht huishoudelijk werk verricht in het gastgezin.
 
-De au pair en het gastgezin hebben de inhoud van de bewustverklaring (model M44) tot zich genomen en hebben de verklaring ondertekend en overgelegd.
+De au pair heeft hiertoe (in samenspraak met het gastgezin, dat als verblijfgever fungeert) een aanvraag om een verblijfsvergunning ingediend. De (door Partijen ondertekende) overeenkomst wordt in de beoordeling van bovenstaande aanvraag betrokken en moet derhalve bij de aanvraag worden overgelegd.
 
 ### De au pair en het gastgezin komen derhalve het volgende overeen:
 
-### Artikel 1 – weekindeling
+### De au pair en het gastgezin komen derhalve het volgende overeen:
 
 De au pair mag, in ruil voor kost, inwoning en zakgeld, niet meer dan acht uur per dag werken met een maximum van 30 uur per week. De au pair heeft recht op minimaal twee vrije etmalen en daarnaast twee vrije avonden per week. De au pair mag alleen licht huishoudelijk werk doen. Voorbeelden hiervan zijn het opruimen van de kinderkamer, wassen en strijken van de kinderkleren, het bereiden van lichte maaltijden, oppassen en af en toe een boodschap doen. Partijen verplichten zich ertoe zich hieraan te zullen houden. Hiertoe hebben zij onderstaande tabel (weekindeling en alternatief) in overleg met elkaar ingevuld.
 
@@ -5851,6 +5853,8 @@ De au pair functioneert als gelijkwaardig lid van het gezin. Dit betekent dat de
 
 Het au pairschap is gericht op culturele uitwisseling. Dit betekent dat de au pair gedurende het verblijf deelneemt aan een aantal vrijetijdsactiviteiten. Deze activiteiten zijn bijv. een cursus volgen, een taal leren, met het gastgezin uitstapjes maken en in georganiseerd verband (al dan niet met andere au pairs) deelnemen aan een uitstapje. De au pair en het gastgezin verplichten zich ertoe dat zij zich in ieder geval aan de vijf hieronder opgegeven activiteiten zullen houden.
 
+Het au pairschap is gericht op culturele uitwisseling. Dit betekent dat de au pair gedurende het verblijf deelneemt aan een aantal vrijetijdsactiviteiten. Deze activiteiten zijn bijv. een cursus volgen, een taal leren, met het gastgezin uitstapjes maken en in georganiseerd verband (al dan niet met andere au pairs) deelnemen aan een uitstapje. De au pair en het gastgezin verplichten zich ertoe dat zij zich in ieder geval aan de vijf hieronder opgegeven activiteiten zullen houden.
+
 1. ____________________________
 
 2. ____________________________
@@ -5858,8 +5862,6 @@ Het au pairschap is gericht op culturele uitwisseling. Dit betekent dat de au pa
 3. ____________________________
 
 4. ____________________________
-
-5. ____________________________
 
 ### Artikel 4 – zakgeld
 
@@ -5873,9 +5875,11 @@ Deze overeenkomst is geldig vanaf het moment van ondertekenen en blijft van krac
 
 De au pair heeft de mogelijkheid klachten over het verblijf in Nederland te melden bij het meldpunt au pairs. Afhankelijk van het soort klacht zal deze vervolgens worden doorgeleid naar de politie of arbeidsinspectie of naar beide instanties. Het meldpunt is niet beschikbaar voor meldingen over fysiek en/of psychisch misbruik.
 
-Ook het gastgezin heeft de mogelijkheid contact op te nemen met het meldpunt.
+De au pair heeft de mogelijkheid klachten over het verblijf in Nederland te melden bij het meldpunt au pairs. Afhankelijk van het soort klacht zal deze vervolgens worden doorgeleid naar de politie of arbeidsinspectie of naar beide instanties. Het meldpunt is niet beschikbaar voor meldingen over fysiek en/of psychisch misbruik.
 
 ### Artikel 7 – geschillenclausule
+
+Op deze overeenkomst is Nederlands recht van toepassing. Bij geschillen over de interpretatie van deze overeenkomst is de rechtbank bevoegd.
 
 Op deze overeenkomst is Nederlands recht van toepassing. Bij geschillen over de interpretatie van deze overeenkomst is de rechtbank bevoegd.
 
@@ -5883,7 +5887,9 @@ Aldus in drievoud opgemaakt (**Partijen en de IND ontvangen elk een exemplaar**)
 
 Contractpartij Au pair,
 
-Contractpartij (Hoofd(en)) Gastgezin,
+## Model M45. Bewustverklaring geestelijk voorganger / godsdienstleraar
+
+Vervallen
 
 ## Model M45. Bewustverklaring geestelijk voorganger / godsdienstleraar
 
@@ -6188,5 +6194,901 @@ Vervallen
 ## Model M140. De verklaring van de werkgever
 
 Vervallen
+
+Ook in het geval van gezelschappen die reizen op een collectief paspoort of lijst dienen, wanneer het gaat om onderdanen van derde landen, bij in- en bij uitreisstempels te worden geplaatst. Bij de stempel wordt, zoals hiervoor reeds aangegeven, een aantekening gesteld omtrent het aantal personen dat is in- respectievelijk uitgereisd.
+
+Op grond van de Wet op de uitgebreide identificatieplicht is een politieambtenaar bevoegd tot het vorderen van een identiteitsbewijs voor zover dat redelijkerwijs noodzakelijk is voor zijn taakuitoefening. In dat geval dienen ook passagierende zeelieden een identiteitsbewijs ter inzage aan te bieden. Een geldig grensoverschrijdingsdocument is in dat geval voldoende.
+
+Controle op bestaansmiddelen blijft achterwege indien de vreemdeling kan aantonen dat hij op een boorinstallatie is tewerkgesteld.
+
+Als bovenstaande bewijsstukken overlegd kunnen worden en de eventueel noodzakelijke verdere onderzoeken zijn uitgevoerd, zal de vreemdeling in het bezit worden gesteld van een visum met een maximale geldigheidsduur van vijf jaar. De geldigheidsduur van het visum kan nooit die van het arbeidscontract of het reisdocument te boven gaan.
+
+Deze paragraaf gaat over minderjarigen, inclusief adoptie(f)- en pleegkinderen, aan wie (nog) geen lang verblijf in Nederland is toegestaan. Minderjarigen worden op dezelfde wijze gecontroleerd als volwassenen, ongeacht of zij alleen reizen dan wel begeleid worden.
+
+Degene onder wiens begeleiding minderjarige kinderen reizen, is verplicht om op verzoek het mede voor hen geldig document voor grensoverschrijding aan een grensbewakingsambtenaar te tonen en te overhandigen (zie [artikel 4.5, eerste lid, onder a, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.5)). De zelfstandige identificatieplicht van [artikel 50 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=50) juncto [artikel 4.21 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.21) geldt voor deze kinderen niet.
+
+Alleenreizende minderjarigen moeten voldoen aan de normale vereisten voor binnenkomst en verblijf. Indien de toegang tot Nederland aan de alleenreizende minderjarige wordt geweigerd, dient de grensbewakingsambtenaar zich er zoveel mogelijk van te vergewissen dat de minderjarige wordt teruggebracht naar een derde land waar zijn of haar toelating is gewaarborgd.
+
+Wanneer deze vreemdelingen in het bezit zijn van een geldig paspoort, voorzien van een geldig visum voor terugkeer (zie model M2-B), wordt steeds toegang verleend. In verband met de grenscontrole is in dit geval het gestelde onder A2/6.2.10.1 van overeenkomstige toepassing.
+
+Indien het reisdocument voor vluchtelingen is verlopen maar is afgegeven door één van de staten die zijn aangesloten bij de Europese Overeenkomst inzake de overdracht van verantwoordelijkheid met betrekking tot vluchtelingen, dient de betrokkene te worden overgedragen aan de staat die het verlopen reisdocument heeft afgegeven. Dit geschiedt op grond van artikel 4 van deze overeenkomst. Partij bij deze Overeenkomst zijn: Denemarken, Duitsland, Finland, Italië, Nederland, Noorwegen, Portugal, Spanje, Groot-Brittannië (en Noord-Ierland), Zweden en Zwitserland.
+
+Vluchtelingen die door de Nederlandse regering zijn uitgenodigd, zullen zich individueel of in groepsverband melden aan de grens. Zij zullen in de regel in het bezit zijn van een geldig document voor grensoverschrijding. Hun komst wordt door de IND van te voren aangekondigd aan de ambtenaar belast met de grensbewaking, opdat hun onmiddellijk toegang kan worden verleend. De ambtenaar belast met de grensbewaking vangt de betrokkenen bij aankomst op en begeleidt hen naar AC Schiphol alwaar zij in de gelegenheid worden gesteld om een aanvraag asiel in te dienen.
+
+Aan personen die verklaren staatloos te zijn en die niet in het bezit zijn van een vreemdelingenpaspoort wordt de toegang geweigerd. Houders van vreemdelingenpaspoorten die niet beschikken over de vereiste visa wordt in beginsel eveneens de toegang geweigerd. In bijzondere gevallen en onder bepaalde voorwaarden kunnen echter aan de grens visumfaciliteiten worden verleend (zie A2/4.3.8).
+
+De onder b genoemde afschriftplicht is een nationale bepaling. De overige bepalingen vloeien voort uit het feit dat Nederland zich heeft aangesloten bij de SUO.
+
+Om vervoerders in staat te stellen de verlangde controle zo goed mogelijk te verrichten, houdt het ministerie van Justitie hen regelmatig op de hoogte van wijzigingen in de voor toegang tot Nederland vereiste documenten en visa. Tevens zullen aanwijzingen gegeven worden die een meer effectieve en efficiënte controle kunnen bewerkstelligen (bijv. informatie over reisroutes, trends, veel voorkomende vervalsingen etc.).
+
+De afschriftplicht geldt nimmer ten aanzien van diplomatieke ambtenaren en andere geprivilegieerde personen. Deze plicht geldt evenmin ten aanzien van uitgenodigde vluchtelingen.
+
+Het misdrijf van [artikel 197a WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=197a) (mensensmokkel) kan worden bestraft met gevangenisstraf van ten hoogste vier jaren of een geldboete van de vijfde categorie. Het derde lid van het artikel bevat de mogelijkheid tot strafverzwaring indien het feit is begaan in de uitoefening van enig ambt of beroep. Ingeval van verdenking van mensensmokkel wordt in ieder geval proces-verbaal opgemaakt en zal in beginsel onmiddellijk tot dagvaarden worden overgegaan.
+
+De termijn van ophouding vangt aan op het moment dat de staande gehouden persoon op de plaats bestemd voor verhoor is aangekomen. De ophouding kan maximaal zes uren duren waarbij de tijd tussen middernacht en negen uur ’s ochtends niet wordt meegerekend.
+
+Ook degene die stelt dat hij Nederlander is, maar dat niet kan aantonen, kan aan de hiervoor genoemde maatregelen onderworpen worden.
+
+Tevens dient nagegaan te worden of de vreemdeling onder de opgegeven of vastgestelde identiteit gesignaleerd staat in het OPS en het (N)SIS.
+
+Indien de ambtenaren belast met de grensbewaking of de ambtenaren belast met het vreemdelingentoezicht constateren dat de vreemdeling niet kan aantonen dat er buiten zijn schuld geen inreisstempel is aangebracht in zijn reisdocument, moet geconstateerd worden dat er sprake is van illegaal verblijf. In dat geval dient zowel in het kader van de grensbewaking als in het kader van het MTV de gebruikelijke procedure te worden gevolgd, dat wil zeggen: de procedures voor overdracht dan wel uitzetting dienen ter hand te worden genomen.
+
+### 3.7. Rechtsbijstand
+
+De raadsman heeft vrije toegang tot de opgehouden persoon. Hij kan hem alleen spreken, of indien vereist onder toezicht en zonder dat het onderzoek daardoor mag worden opgehouden. Het toezicht strekt niet verder dan om te verzekeren dat de opgehouden persoon zich niet aan het onderzoek onttrekt of bescheiden die voor het onderzoek van belang zijn, wegmaakt.
+
+### 3.8. Het verhoor
+
+De vreemdeling is op grond van [artikel 54, eerste lid, onder c, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=54) (of indien de [Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) daartoe geen basis biedt op grond van de [artikelen 5:16](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:16), [5:17](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:17) en [5:20 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20), zie A3/7.3.8) verplicht gegevens te verstrekken bijvoorbeeld over zijn identiteit, nationaliteit, burgerlijke staat, beroep, woon- of verblijfplaats met adres, datum, plaats en wijze van binnenkomst in Nederland, doel en duur van verblijf in Nederland, en de middelen van bestaan. Hij kan daartoe zelfs gevorderd worden. Het niet meewerken aan een verplichting op grond van [artikel 54 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=54) is strafbaar gesteld in [artikel 108 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=108) (en het niet meewerken aan een vordering op grond van de [Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) is strafbaar gesteld in [artikel 184 WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=184)). Het feit dat deze vordering is gedaan dient duidelijk uit de vreemdelingenadministratie te blijken.
+
+### 3.9. Verlenging ophouding
+
+De verlenging van de ophouding wordt ten uitvoer gelegd in een cel van de KMar of een politiebureau.
+
+### 3.10.1. Algemeen
+
+De opgehouden persoon kan op zijn verzoek in de gelegenheid worden gesteld contact op te nemen met een hulpverlenende instantie, een tolk of met zijn diplomatieke of consulaire vertegenwoordiger hier te lande. Van deze mogelijkheid dient hij in kennis te worden gesteld.
+
+### 3.10.2. Kennisgeving aan derden
+
+Ingevolge een tussen Nederland en Groot-Brittannië gesloten overeenkomst dient de betrokken Britse consul steeds – dus ook indien de vreemdeling niet daarom heeft verzocht – terzake te worden geïnformeerd, indien de maatregel tegen een Britse onderdaan wordt getroffen. Dit met het oog op het verlenen van eventuele diplomatieke of consulaire bijstand.
+
+### 3.11. Beëindiging van de vrijheidsontneming
+
+Indien de termijn van [artikel 50 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=50) verstreken is, vervalt de vrijheidsbeneming van rechtswege.
+
+### 4. Onderzoek van vervoermiddelen
+
+Voor wat betreft het gebruik maken van de bevoegdheid tot het onderzoek van vervoermiddelen in het kader van het operationele toezicht in het binnenland kunnen onder andere de volgende aanwijzingen aanleiding geven van deze bevoegdheid gebruik te maken:
+
+### 5.1. Algemeen
+
+De ambtenaren belast met grensbewaking en de ambtenaren belast met het toezicht op vreemdelingen zijn bevoegd om, ter vervulling van hun taken, reis- en identiteitspapieren van personen in te nemen, tijdelijk in bewaring te nemen alsmede om hierin aantekeningen te maken.
+
+### 5.2.1. Algemeen
+
+Als algemene richtlijnen gelden:
+
+### 5.2.2. Aantekeningen door grensbewakingsambtenaren
+
+Op grond van [artikel 52, eerste lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=52) zijn ambtenaren belast met de grensbewaking bevoegd aantekeningen te stellen in reis- en identiteitsdocumenten. In [artikel 4.24 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.24) is vastgelegd dat het onder meer kan gaan om aantekeningen met betrekking tot:
+
+### 5.2.3. Aantekeningen door toezichtsambtenaren
+
+Wanneer in het grensoverschrijdingsdocument van een vreemdeling geen inreisstempel is aangebracht, mag hieraan het vermoeden worden verbonden dat de houder niet of niet langer voldoet aan de voorwaarden inzake de rechtmatige verblijfsduur. Indien de vreemdeling het vermoeden heeft kunnen weerleggen dat hij illegaal in Nederland verblijft, dient de bevoegde ambtenaar in het grensoverschrijdingsdocument van de vreemdeling een aantekening te plaatsen op welke datum en welke plaats hij de buitengrens van één van de Schengenlidstaten heeft overschreden (zie A3/3.6.3).
+
+### 5.2.4. Doorhaling of vervallenverklaring van aantekeningen
+
+Werd de sticker aangebracht of de aantekening gesteld op een afzonderlijk inlegblad, dan moet dit in de in deze paragraaf bedoelde gevallen worden ingehouden.
+
+### 5.3.1. Algemeen
+
+### 5.3.2. Gevallen waarin tijdelijke bewaring geoorloofd is
+
+### 6.1. Algemeen
+
+### 6.2. Binnentreden met toestemming van de bewoner
+
+### 6.3. Binnentreden zonder toestemming van de bewoner
+
+### 7.1. Inleiding
+
+### 7.2. Verplichting tot opgave van verhuizing
+
+### 7.3.1. Algemeen
+
+Het niet voldoen aan de verplichting van [artikel 4.38 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.38) is ingevolge het bepaalde in [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=54) juncto [108 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=108) een strafbaar feit.
+
+### 7.3.2. Op vordering verstrekken van gegevens
+
+Het verstrekken van onjuiste gegevens die hebben geleid tot het verlenen of het verlengen van de geldigheidsduur van verblijfsvergunning kan, naast strafbaarheid wegens overtreding van [artikel 4.38 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.38), juncto [artikel 54, eerste lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=54), voor de vreemdeling tot gevolg hebben dat de verleende vergunning wordt ingetrokken (zie [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=19) juncto [artikel 18, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=18), [artikel 22 aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=22), [artikel 32, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=32), en [artikel 35, aanhef en onder a, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=35)).
+
+### 7.3.3. Melding door de vreemdeling zonder rechtmatig verblijf
+
+Zie [artikel 4.39 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.39). Deze bepaling richt zich tot vreemdelingen die op illegale wijze Nederland zijn binnengekomen of die na beëindiging van hun eerdere rechtmatige verblijf als bedoeld in [artikel 8 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) zonder toestemming in Nederland zijn achtergebleven. Deze bepaling geldt ook voor passagierende zeelieden en transitpassagiers van vliegtuigen en zeeschepen die niet tijdig uit Nederland zijn vertrokken (zie [artikel 2.4 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=2.4)). De in [artikel 4.39 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.39) bedoelde kennisgeving moet in persoon worden gedaan.
+
+### 7.3.4. Kennis geven van het verschaffen van nachtverblijf
+
+Degene op wie deze verplichting rust kan zowel Nederlander als vreemdeling zijn. Er zijn geen voorschriften gegeven voor de vorm waarin deze mededeling moet worden gedaan. De strekking van deze bepaling is om de opsporing van illegaal in Nederland verblijvende vreemdelingen te vergemakkelijken en om hen, die – te kwader trouw – aan dit illegale verblijf medewerking verlenen, strafbaar te stellen (zie [artikel 108 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=108)).
+
+### 7.3.5. Verstrekken gegevens over (vroegere) buitenlandse werknemers
+
+Deze verplichting geldt voor daartoe gevorderde werkgevers van wie bij de Korpschef bekend is dat zij vreemdelingen in dienst gehad hebben die illegaal hier te lande verbleven of die in Nederland ongeoorloofd arbeid verrichten. De gevraagde gegevens dienen onmiddellijk of binnen een door de Korpschef aangegeven termijn te worden verstrekt.
+
+### 7.3.6. Mededeling omtrent zoeken of gaan verrichten van arbeid
+
+De beperking die in het derde lid van [artikel 4.42 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.42) is opgenomen vloeit voort uit [artikel 3.32 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.32), waarin is bepaald dat geen verblijfsvergunning wordt verstrekt indien de arbeid geheel of gedeeltelijk bestaat uit het verrichten van seksuele handelingen met derden of het verlenen van seksuele diensten aan derden. Het ligt voor de hand in dit geval evenmin vrijstelling van de meldplicht te verlenen.
+
+### 7.3.7. Mededeling omtrent het vervallen van het verblijfsdoel
+
+Voldoet een vreemdeling niet meer aan de beperking waaronder de vergunning tot verblijf is verleend dan kan deze worden ingetrokken, dan wel kan de beperking worden gewijzigd of opgeheven.
+
+### 7.3.8. Verplichtingen op grond van de Awb
+
+De medewerkingsplicht van [artikel 5:20 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) houdt in dat de vreemdeling verplicht is tot het verstrekken van de gevraagde inlichtingen en tot afgifte van de gevorderde gegevens en bescheiden. Het weigeren van de vereiste medewerking is strafbaar gesteld in [artikel 184 WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=184).
+
+### 7.4.1. Algemeen
+
+Vreemdelingen die beschikken over een verblijfsdocument dienen niet verplicht te worden nadere inlichtingen te verstrekken. Slechts als er gegronde aanleiding is te veronderstellen dat zij de voorschriften op het gebied van toezicht op vreemdelingen niet zijn nagekomen, dient de vreemdeling daaromtrent te worden ondervraagd.
+
+### 7.4.2. Foto’s en vingerafdrukken
+
+Nota bene, in het geval van het gebruik van vingerafdrukkenformulieren bij de voorbereiding van de uitzetting van vreemdelingen, meer specifiek bij het verkrijgen van vervangende reisdocumenten, dient een speciaal en neutraal vingerafdrukkenformulier te worden gebruikt, waarop verwijzingen naar de eventuele verblijfshistorie van de vreemdelingen nadrukkelijk ontbreken (dactyloscopisch formulier Identiteitsonderzoek).
+
+### 7.5. Het verlenen van medewerking aan een medisch onderzoek
+
+De vreemdeling die naar Nederland is gekomen voor een verblijf van langer dan drie maanden is ingevolge [artikel 4.46, eerste lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.46) verplicht om een TBC-onderzoek te ondergaan (zie [B1/2.2.5](onbekend) voor de procedure). Deze verplichting geldt niet voor de in [artikel 4.46, tweede lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.46) bedoelde vreemdelingen.
+
+### 7.6.1. Verblijf langer dan drie maanden
+
+Na aanmelding wordt in het document voor grensoverschrijding van de vreemdeling daarvan een aantekening gesteld (zie [artikel 4.29, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.29), juncto [4.30, eerste lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.30)). Daarbij wordt gebruik gemaakt van een speciale sticker (zie [bijlage 7 bij het VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=7)). In een aantal gevallen dient deze aantekening op een afzonderlijk inlegblad te worden gesteld (zie [artikel 4.29, derde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.29)).
+
+### 7.6.2. Verblijf korter dan drie maanden
+
+Na aanmelding wordt in het document voor grensoverschrijding van de vreemdeling daarvan een aantekening gesteld (zie [artikel 4.29, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.29), juncto [4.30, eerste lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.30)). Daarbij wordt gebruik gemaakt van een speciale sticker (zie [bijlage 7 bij het VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=7)). In een aantal gevallen dient deze aantekening op een afzonderlijk inlegblad te worden gesteld (zie [artikel 4.29, derde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.29)).
+
+### 7.7.1.1. Algemeen
+
+Bij aanvang van de procedure tot het verlenen van een verblijfsvergunning dient de vreemdeling er op te worden gewezen dat op hem, hangende de beslissing op zijn aanvraag een meldplicht rust. Zie [C3/13.2](onbekend) met betrekking tot de meldplicht ex [artikel 4.51 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.51) voor asielzoekers.
+
+### 7.7.1.2. Ontheffing en termijnstelling
+
+De meldplicht voor de laatstgenoemde categorie (definitieve aanzegging tot vertrek) geldt zolang de finale vertrektermijn nog niet is verstreken. Voor asielzoekers geldt daarbij evenwel het volgende: de uitgeprocedeerde asielzoeker wordt, zolang de opvangvoorzieningen nog niet zijn beëindigd, in het bezit gelaten van het W-document. Derhalve blijft voor een dergelijke vreemdeling de wekelijkse meldplicht gelden zolang de ontruimingsprocedure voortduurt.
+
+### 7.7.1.3. Stellen van aantekeningen
+
+In afwijking van het bovenstaande wordt een asielzoeker in de opvanglocatie in het bezit gesteld van een registratiekaart meldplicht asielzoekers (zie [C3/13.3](onbekend)).
+
+### 7.7.1.4. Niet voldoen aan de meldplicht en vertrek van de vreemdeling
+
+Over het (aangenomen) vertrek van een vreemdeling wordt de IND geïnformeerd door middel van een formulier [M100](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M100&z=2006-11-16&g=2006-10-13).
+
+### 7.7.2. Individuele verplichting tot periodieke aanmelding
+
+Omtrent het opleggen van de verplichting wordt door de Korpschef de bij [artikel 4.29, eerste lid, onder e, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.29) voorgeschreven aantekening in het document voor grensoverschrijding van de vreemdeling gesteld, met dien verstande dat in de gevallen, omschreven in het derde lid van [artikel 4.29 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.29), de aantekening geschiedt op een afzonderlijk inlegblad.
+
+### 7.8. Het inleveren van het document bedoeld in [artikel 9 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=9)
+
+Het niet voldoen aan deze verplichting is ingevolge het bepaalde in [artikel 108 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=108) een strafbaar feit.
+
+### 7.9.1. Aangifte van vermissing van documenten
+
+Voorts dient in alle gevallen waarin wordt geconstateerd dat onregelmatigheden zijn gepleegd met door de Nederlandse overheid afgegeven reisdocumenten, daarvan bericht te worden gezonden aan het ministerie van BZK.
+
+### 7.9.2. Vervanging van identiteitspapieren
+
+Wordt niet aanstonds tot afgifte van een nieuw document aan de vreemdeling overgegaan dan verdient het aanbeveling een verklaring af te geven waaruit de aangifte blijkt.
+
+### 7.9.3. Gedragslijn bij vreemdelingen zonder documenten
+
+Van alle aangetroffen bescheiden, zoals reisbiljetten, diploma’s en dergelijke, moeten fotokopieën worden gemaakt. De Korpschef of de Commandant der KMar zendt zo spoedig mogelijk de aanwezige informatie naar de IND. Met behulp van deze informatie zal dan worden geprobeerd een document voor grensoverschrijding te verkrijgen.
+
+### 8. Beschikbaar houden en fouillering
+
+De bevoegdheden van documentzoeking en veiligheidsfouillering mogen slechts uitgeoefend worden met inachtneming van de volgende algemene uitgangspunten:
+
+### 9.1.1. Het OPS
+
+In het OPS staan signaleringen uit hoofde van de [Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823). Andere signaleringen in het OPS hebben betrekking op de tenuitvoerlegging van vonnissen en de aanhouding of voorgeleiding van personen die van een strafbaar feit verdacht worden. De tenuitvoerlegging van deze signaleringen behoort niet tot de uitvoering van de [Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823). De bevoegdheden terzake berusten op het [WvSv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) en andere wetgeving. Richtlijnen met betrekking tot deze signaleringen worden gegeven door het OM. Ook het OPS bevat aanwijzingen terzake. Ook kunnen vermiste personen in het OPS worden gesignaleerd.
+
+### 9.1.2. Het (N)SIS
+
+Verder zal deze afdeling behulpzaam kunnen zijn bij navraag en advies over signaleringen, internationale opsporingsverzoeken en alle andere voorkomende vragen over internationale rechtshulp.
+
+### 9.1.3. Verhouding OPS en (N)SIS
+
+De IND zal voorstellen tot signalering toetsen aan de voorwaarden voor opnamen in het OPS, dan wel (N)SIS. De politie- en grensbewakingsambtenaren dienen in voorkomende gevallen beide systemen te raadplegen.
+
+### 9.2.1. Signalering ‘ONGEW’ (ongewenst verklaard ex [artikel 67 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=67))
+
+De ongewenstverklaring eindigt pas indien de betrokken vreemdeling daartoe een aanvraag indient en deze aanvraag wordt ingewilligd. De duur van de signalering ‘ONGEW’ is derhalve afhankelijk van een tot opheffing van de ongewenstverklaring strekkende aanvraag en de inwilliging ervan. Eerst nadat de aanvraag tot opheffing is ingewilligd, kan de signalering in OPS en (N)SIS vervallen worden verklaard.
+
+### 9.2.2. Signalering ‘OVR’ (ongewenst vreemdeling)
+
+Vreemdelingen die gedurende enige tijd om beleidsmatige dan wel technische redenen niet verwijderd mogen of kunnen worden, worden niet gesignaleerd gedurende deze periode.
+
+### 9.3. Handelwijze bij een als ongewenst gesignaleerde vreemdeling
+
+Indien de gesignaleerde vreemdeling in het bezit is van een verblijfsvergunning voor Nederland of een van de andere Schengenlanden, dan wel een aanvraag tot verblijf indient of heeft ingediend, dan wel een verblijfsvergunning wil verlengen, is de procedure zoals vermeld onder A3/9.4 van toepassing.
+
+### 9.4. Signaleringen en verblijfstitels/verblijfsaanvragen
+
+ad d.: Het Bureau SIRENE Nederland stelt naast de IND ook het Bureau SIRENE van het desbetreffende land in kennis. De IND past de in artikel 25 SUO genoemde raadpleegprocedure toe.De vreemdelingenpolitie, ZHP of KMar die de betrokkene aantreft, doet navraag naar de rechtmatige afgifte van de (tijdelijke) verblijfstitel bij de IND. Wanneer bij navraag blijkt dat de verblijfstitel rechtens is verstrekt, dient betrokkene zijn weg te vervolgen.Wanneer de signalering bij afgifte van de verblijfstitel dan wel bij de verlenging van die titel (nog) niet bekend was bij de IND maakt de vreemdelingenpolitie, ZHP of KMar die de vreemdeling heeft aangetroffen proces-verbaal van bevindingen op. Hierbij maakt hij een kopie van alle documenten die nog niet bekend waren bij de IND. De IND handelt conform ad 3 de hitmelding af en reikt aan betrokkene een verklaring uit. De vreemdeling dient deze verklaring bij zich te dragen en bij controle te overleggen. Het Hoofd van de IND stelt een model voor deze verklaring vast.
+
+### 9.5.1. Algemeen
+
+Indien een vreemdeling geen geldige verblijfstitel voor Nederland of een van de andere Schengenstaten bezit en ter fine van weigering van toegang gesignaleerd staat in OPS of (N)SIS, dient aan hem de toegang te worden geweigerd. De ambtenaar belast met de grensbewaking meldt de ‘hit’ bij bureau SIRENE (zie A3/9.1.2).
+
+### 9.5.2. Asielaanvraag
+
+Bij een positieve beschikking wordt betrokkene toegelaten en dient de OPS- of SIS-signalering te vervallen. Indien het een SIS-signalering door een andere Schengenstaat betreft, dient die signalerende partij hierover geconsulteerd te worden. Dit gebeurt door de betreffende districtscoördinator signaleringen. Na de consultatie verzoekt deze coördinator aan de signalerende staat om de signalering uit het SIS te verwijderen. Desgewenst kan de signalerende staat betrokkene opnemen op de nationale signaleringslijst.
+
+### 9.5.3. Bezit geldige verblijfstitel/(N)SIS-signalering
+
+De raadplegingsprocedure met het betreffende Schengenland wordt vervolgens door de IND opgestart.
+
+### 9.5.4. Bezit geldige verblijfstitel/OPS-signalering
+
+Aan een vreemdeling die in het bezit is van een voor Nederland of een andere Schengenstaat geldige verblijfstitel en in het OPS gesignaleerd staat, kan in beginsel de toegang worden geweigerd. Hierover dient contact te worden opgenomen met de IND. De ambtenaar belast met de grensbewaking meldt de ‘hit’ bij bureau SIRENE (zie A3/9.1.2).
+
+### 9.6.1. Inleiding
+
+Voor een voorstel tot signalering of een vervallenverklaring dient gebruik te worden gemaakt van het standaardformulier (zie model [M93](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M93&z=2006-11-16&g=2006-10-13)). Dit formulier dient verzonden te worden aan de IND. Bij het model [M93](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M93&z=2006-11-16&g=2006-10-13) dienen vingerafdrukken en, indien aanwezig, kopieën van identiteitsdocumenten te worden meegezonden. Tevens dient het nummer van het proces-verbaal, het proces-verbaal zelf of de registratiekaart te worden meegezonden. Indien geen sprake is van een proces-verbaal dienen andere stukken die de signaleringsgrond ondersteunen, te worden meegezonden. Hierbij kan bijvoorbeeld worden gedacht aan een bericht van verwijdering, een proces-verbaal of een ambtsbericht.
+
+### 9.6.2. Opnemen van signaleringen
+
+Indien de identiteit van de vreemdeling niet bekend is, dient de Korpschef er voor te zorgen dat steeds de DNRI een onderzoek naar de vingerafdrukken doet. Dit onderzoek is noodzakelijk om te voorkomen dat vreemdelingen onder verschillende personalia gesignaleerd worden. De vreemdeling met meerdere personalia wordt in dat geval onder de naam zoals deze bij de IND bekend is, gesignaleerd. De eventueel andere bekende personalia zullen als aliasnaam opgenomen worden.
+
+### 9.6.3.1. Opheffing van signaleringen in het (N)SIS
+
+Humanitaire omstandigheden zijn op zichzelf geen reden om te besluiten tot opheffing van de signalering. Als sprake is van kortdurende humanitaire omstandigheden kan een gesignaleerde vreemdeling op grond van artikel 5, tweede lid, SUO verzoeken toegang te verkrijgen tot Nederland voor de duur van maximaal drie maanden zoals ook is uitgewerkt in [artikel 2.9 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=2.9), zie A3/9.6.4. Als de vreemdeling zich beroept op langduriger omstandigheden als gezinsleven of vrees voor vervolging in het land van herkomst, dan dient hij een verblijfsvergunning voor het betreffende doel aan te vragen. Als de verblijfsvergunning wordt verleend, dient de signalering te worden opgeheven.
+
+### 9.6.3.2. Opheffing van signaleringen in het OPS
+
+Een signalering wordt uit het OPS verwijderd als de signaleringstermijn is verstreken. Verzoeken tot opheffing richten zich dus op opheffing voordat de signaleringstermijn is verstreken. Een signalering in het OPS kan worden opgeheven als er sprake is van gewijzigde omstandigheden, die nopen tot opheffing. Daarvan is in ieder geval sprake in de volgende gevallen:
+
+### 9.6.3.3. Rechtsmiddelen
+
+Een signalering is een feitelijke handeling waartegen geen rechtsmiddel open staat. Een beslissing op een aanvraag om opheffing van de signalering dient echter te worden aangemerkt als een besluit in de zin van [artikel 1:3, eerste lid, Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:3). Dit brengt met zich dat tegen het besluit het rechtsmiddel bezwaar kan worden aangewend.
+
+### 9.6.4. Toegangsverlening aan een gesignaleerde vreemdeling
+
+Voor een nadere uitwerking van deze omstandigheden en de wijze van indiening en beoordeling van het verzoek wordt verwezen naar de beschrijving ten aanzien van de tijdelijke opheffing van ongewenstverklaringen in A5.
+
+### 10. Gedragslijn bij ongewenste politieke activiteiten
+
+Politieke activiteiten van een vreemdeling die gevaar opleveren voor de openbare orde (met inbegrip van de goede internationale betrekkingen) of de nationale veiligheid kunnen grond vormen hem (voortgezet) verblijf te ontzeggen. Indien er naar het oordeel van de vreemdelingenpolitie, ZHP of KMar gebleken is van – of gegronde reden is te vrezen voor – deze politieke activiteiten, moet contact worden opgenomen met de IND teneinde te vernemen hoe moet worden gehandeld. In voorkomende gevallen kan aan de vreemdeling de bijzondere aanwijzing worden gegeven dat hij zich dient te onthouden van activiteiten of uitlatingen die een gevaar opleveren voor de openbare orde.
+
+### 1. Inleiding
+
+Het begrip verwijdering, dat niet voorkomt in de [Vw,](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) omvat alle overheidshandelingen en handelingen van vervoerders die erop gericht zijn om een vreemdeling die Nederland moet verlaten daadwerkelijk te doen vertrekken. Hieronder vallen de begrippen (zelfstandig) vertrek en uitzetting. De handelingen van vervoerders zien enkel op vreemdelingen ten aanzien van wie zij op grond van [artikel 65 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=65)een terugvoerverplichting hebben.
+
+### 2.1. De rechtsplicht om Nederland uit eigen beweging te verlaten
+
+Voor vreemdelingen die wel een aanvraag hebben ingediend, maar waarvan de aanvraag is afgewezen en het bezwaar of beroep de werking van de bestreden beschikking niet opschort, ontstaat de rechtsplicht na afwijzing van de aanvraag. Als bezwaar of beroep de werking van de bestreden beschikking opschort, dan ontstaat de rechtsplicht nadat de opschorting is geëindigd.
+
+### 2.2. Het vorderen van medewerking aan de voorbereiding van vertrek
+
+Indien bij beschikking een verblijfsaanvraag is afgewezen of de verblijfsvergunning is ingetrokken, terwijl de werking van die beschikking is opgeschort, dan kan op grond van [artikel 61, tweede lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=61) desalniettemin medewerking van de vreemdeling worden gevorderd aan de voorbereiding van het vertrek uit Nederland. Deze regeling maakt het onder meer mogelijk om medewerking van een asielzoeker te verlangen aan de voorbereiding van de terugkeer wanneer de eerste beslissing op de asielaanvraag negatief is, zodat, ingeval de bestreden beschikking in de rechterlijke procedure wordt bevestigd, het vertrek zo snel mogelijk kan plaatsvinden. Van de asielzoeker kan derhalve worden verlangd dat hij zich inspant om vervangende reisdocumenten te verkrijgen op het moment dat hij nog in afwachting is van de rechterlijke procedure. Dat betekent niet dat de vreemdeling zich dient te wenden tot autoriteiten van zijn land van herkomst. Hij kan bijvoorbeeld ook via familieleden of vrienden in het land van herkomst trachten om identiteitsdocumenten of andere schriftelijke stukken waaruit zijn nationaliteit en identiteit blijkt, te verkrijgen. De vreemdeling kan zonodig op grond van [artikel 4.38 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.38) door de vreemdelingenpolitie worden gevorderd om te verschijnen teneinde gegevens te verstrekken die noodzakelijk zijn voor de voorbereiding van het vertrek uit Nederland. Steeds dient door de ambtenaar belast met het toezicht aan de vreemdeling duidelijk te worden gemaakt wat er van hem in dit kader wordt verlangd. In de vreemdelingenadministratie vindt hiervan registratie plaats.
+
+### 2.3. Een klacht schort het vertrek uit Nederland niet op
+
+In het [derde lid van artikel 61 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=61)is neergelegd dat het indienen van een klacht als bedoeld in [artikel 9:1 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:1) de verplichting om Nederland uit eigen beweging te verlaten niet opschort. Als de vreemdeling wordt uitgezet, kan hij, indien de klacht in behandeling zal worden genomen, in het buitenland over zijn klacht worden gehoord. De omstandigheid dat de vreemdeling in het buitenland kan worden gehoord, maakt het mogelijk dat, indien de vreemdeling vooraf of tijdens de uitzetting kenbaar maakt een klacht te willen indienen, de uitzetting doorgang kan vinden. Ook is het mogelijk dat de klacht schriftelijk wordt afgehandeld (zie [artikel 9:10, tweede lid, Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:10)) of dat de vreemdeling een klacht laat indienen door een vertegenwoordiger in Nederland (zie [artikel 9:1, eerste lid, Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:1)).
+
+### 2.4. Vertrek naar een ander land dan het land van herkomst
+
+Concrete informatie over de voorwaarden voor binnenkomst in een bepaald land wordt getoetst aan het individuele geval. In voorkomende gevallen dient hierover contact te worden opgenomen met de IND.
+
+### 2.5. Verwijdering van gezinsleden
+
+Indien het hoofd van een gezin uit Nederland moet worden verwijderd, geldt als algemene regel dat de tot zijn gezin behorende vreemdelingen, aan wie het niet of niet langer krachtens een van de bepalingen van [artikel 8 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) is toegestaan in Nederland te verblijven, zoveel mogelijk met het hoofd van het gezin verwijderd dienen te worden. Indien al dan niet door toedoen van een gezinslid gezamenlijk vertrek van het gezin niet mogelijk is, kan gescheiden verwijdering pas plaatsvinden nadat hiervoor toestemming is verleend door de IND.
+
+### 3.1. De algemene termijn van vier weken
+
+De vreemdeling wiens rechtmatig verblijf is geëindigd, dient Nederland in het algemeen binnen vier weken (vertrektermijn) te verlaten op grond van [artikel 62, eerste lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=62). De vertrektermijn van vier weken gaat in nadat het rechtmatig verblijf op grond van [artikel 8 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8)is geëindigd. De vreemdeling dient Nederland binnen deze termijn op eigen gelegenheid te verlaten. Voldoet de vreemdeling niet aan deze verplichting, dan kan uitzetting aan de orde zijn.
+
+### 3.2. In mindering brengen van beroepstermijn op de vertrektermijn
+
+Indien de vreemdeling de beroepstermijn ongebruikt laat, kan deze in mindering worden gebracht op de vertrektermijn van vier weken (zie [artikel 62, tweede lid, Vw)](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=62). Omdat de beroepstermijn in het algemeen vier weken bedraagt, dient de vreemdeling in deze gevallen na het verstrijken van de ongebruikte beroepstermijn Nederland onmiddellijk te verlaten. Reden hiervoor is dat de vreemdeling reeds voorbereidingen voor zijn vertrek heeft kunnen nemen.
+
+### 3.3. Verkorten van de vertrektermijn
+
+Het verkorten van de vertrektermijn heeft overigens geen gevolg voor de termijn waarbinnen de vreemdeling bezwaar of beroep kan instellen. Deze termijn blijft in genoemde situaties in het algemeen vier weken, tenzij de aanvraag in het AC wordt afgedaan, in welk geval de beroepstermijn een week bedraagt ([artikel 69, eerste en tweede lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=69)).
+
+### 3.4. Onthouden van een vertrektermijn
+
+Vreemdelingen behorend tot de hierboven genoemde categorieën dienen Nederland dus onmiddellijk te verlaten.
+
+### 4.1. Aanvragen reisdocumenten
+
+De ambtenaar belast met de grensbewaking of met het toezicht op vreemdelingen en de betrokken ambtenaren van de IND zien erop toe dat geen aantekeningen in reis- of identiteitsdocumenten van asielzoekers worden geplaatst.
+
+### 4.2.1. De diplomatieke vertegenwoordiging wijst de aanvraag af
+
+Indien de vreemdeling niet in het bezit wordt gesteld van een (vervangend) reisdocument en hij overigens niet aan de buitenlandse grensautoriteiten kan worden overgegeven, dan wel uit Nederland worden verwijderd door middel van plaatsing aan boord van een schip of vliegtuig (zie A4/8) en er daarnaast geen sprake is van de situatie dat de vreemdeling buiten zijn schuld niet uit Nederland kan vertrekken (zie C2/8), dient hem te worden aangezegd dat hij Nederland moet verlaten.
+
+### 4.2.2. Afgifte van een EU-staat
+
+In alle gevallen vindt afgifte van een EU-staat plaats door de IND. Het verdient aanbeveling om, indien aanwezig, bij de EU-staat (kopieën) van identiteits(ondersteunende) documenten te voegen, zoals een rijbewijs of geboorteakte. De (kopieën) van deze documenten mogen geen asielgerelateerde informatie bevatten.
+
+### 4.3. Het inhouden van documenten
+
+Indien inlegbladen en identiteitsdocumenten als hier bedoeld bij de vreemdelingen worden aangetroffen, dienen deze te worden ingehouden en te worden toegezonden aan de betrokken ambtenaar belast met de grensbewaking of met het toezicht op vreemdelingen.
+
+### 4.4. Het stellen van aantekeningen in reisdocumenten
+
+Voor de eventuele intrekking van de resterende geldigheidsduur van een visum, zie A2/4.3.7.
+
+### 4.5. Toezending van reisdocumenten aan de doorlaatpost van uitreis
+
+Indien de vreemdeling zich niet op de afgesproken tijd en plaats bij het hoofd van de grensdoorlaatpost of het overgave-overnamepunt heeft vervoegd, of indien de uitreis van de vreemdeling vertraging ondervindt, dan wel op moeilijkheden stuit, geeft het hoofd van de grensdoorlaatpost of het overgave-overnamepunt aanstonds kennis aan de betrokken vreemdelingenpolitie, ZHP of KMar, teneinde overleg te plegen omtrent de ter zake te volgen gedragslijn.
+
+### 5.1. Algemeen
+
+De REAN-regeling is vooral bedoeld voor de categorie vreemdelingen die met toestemming van de overheid hier te lande verblijft, na een eerste afwijzing van een verzoek om een verblijfsvergunning. Gelet op het doel van een humaan en effectief terugkeerbeleid worden andere vreemdelingen niet bij voorbaat van de REAN-regeling uitgesloten, mits dit niet het Nederlandse verwijderingsbeleid doorkruist. In geval van illegaal verblijf of beperking van de bewegingsvrijheid, dan wel inbewaringstelling heeft de vreemdeling eveneens de mogelijkheid zich aan te melden voor zelfstandig vertrek met hulp van IOM, mits de IND daarvoor toestemming verleent.
+
+### 5.2. Procedure
+
+De IND ontvangt schriftelijk bericht van IOM dat de vreemdeling is vertrokken met ondersteuning van IOM. Er dient geen bericht vertrek (zie [model M100](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M100&z=2006-11-16&g=2006-10-13)) aan de IND te worden gestuurd. De IND verstrekt dan wel voorafgaand aan het vertrek informatie aan IOM over eventuele ketenpartners die door IOM van het uiteindelijke vertrek op de hoogte gesteld moeten worden.
+
+### 6.1. Algemene uitgangspunten
+
+Van belang is dat in het kader van de uitzetting nimmer aan de autoriteiten van het land van herkomst van de vreemdeling, noch aan autoriteiten van het land van doorreis of bestemming, mag worden medegedeeld, of documenten mogen worden verstrekt waaruit blijkt dat de vreemdeling eerder een asielaanvraag heeft ingediend. Om te voorkomen dat deze informatie de genoemde autoriteiten bereikt, mag ook nimmer aan het personeel van de vervoersmaatschappij waarmee de vreemdeling wordt uitgezet, worden medegedeeld dat hij een asielaanvraag heeft ingediend. Er kan slechts worden aangegeven dat de persoon in kwestie geen rechtmatig verblijf in Nederland (meer) heeft en om die reden Nederland dient te verlaten.
+
+### 6.2. Geen uitzetting ondanks de vertrekplicht
+
+Voor de situatie waarin uitzetting (vooralsnog) achterwege blijft vanwege gezondheidsredenen, wordt verwezen naar A4/7.
+
+### 6.3. Verantwoordelijkheid voor maatregelen uitzetting
+
+Wordt een vreemdeling die voor uitzetting in aanmerking komt echter aangetroffen in een andere gemeente dan die waarin hij in de GBA is ingeschreven, dan wel feitelijk woonachtig is, dan zal het, teneinde vertraging en het maken van onnodige kosten te vermijden, vaak aanbeveling verdienen dat de vreemdeling rechtstreeks vanuit de gemeente waar hij werd aangetroffen wordt verwijderd naar het land van herkomst of een derde land.
+
+### 6.4. Aanlevering van de vreemdeling ten behoeve van uitzetting
+
+Voor het gebruik van het formulier Geleidebrief / checklist (zie [model M118](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M118&z=2006-11-16&g=2006-10-13)) zie A6/1.3.
+
+### 6.5. Informatie-uitwisseling ten behoeve van de uitzetting
+
+Op het formulier Opdracht tot verwijdering moet worden aangegeven of de vreemdeling behoort tot de categorie asiel of niet-asiel. Het is daarom van belang dat het formulier Opdracht tot verwijdering nimmer wordt overgegeven aan buitenlandse autoriteiten.
+
+### 6.6. Hulpmiddelen ten behoeve van uitzetting
+
+Op grond van artikel 23b Ambtsinstructie dient de toepassing van een hulpmiddel bij uitzetting onverwijld schriftelijk te worden gemeld aan de meerdere, onder vermelding van de aard van het hulpmiddel, de redenen die tot het gebruik hebben geleid en de daaruit voortvloeiende gevolgen. De meerdere ziet toe op de registratie van deze melding.
+
+### 6.7. Uitzetting via transitluchthaven in een EU-lidstaat
+
+Vreemdelingen worden onmiddellijk teruggenomen van de aangezochte lidstaat wanneer:
+
+### 6.8. Signalering in het opsporingsregister
+
+Verwijderde vreemdelingen kunnen worden gesignaleerd in het (N)SIS of het OPS, zie hiervoor A3/9. De vreemdelingenpolitie, ZHP of de KMar dient hiertoe een voorstel tot signalering in bij de IND ([model M93](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M93&z=2006-11-16&g=2006-10-13)).
+
+### 6.9. Bericht van vertrek
+
+Zelfstandig vertrek van een vreemdeling die, al dan niet na afloop van de vrije termijn, illegaal in Nederland heeft verbleven en die is aangetroffen bij uitreiscontrole aan de buitengrens.
+
+### 6.10. Bericht van ontruiming
+
+Het COA dient de ontruiming van een vreemdeling uit de opvangvoorzieningen door toezending van een bericht (zie model M100a) aan de IND te melden.
+
+### 6.11. Gedragslijn indien uitzetting niet mogelijk is
+
+In een aantal gevallen is uitzetting niet mogelijk, omdat de vreemdeling niet langer op zijn woonadres verblijft. Wanneer dit na een adrescontrole of op andere wijze duidelijk is gebleken, dient de vreemdelingenpolitie een bericht te zenden aan de IND (zie model M100). De in dit formulier opgenomen rubrieken dienen zo volledig mogelijk te worden ingevuld. De vreemdelingenpolitie doet hierbij een voorstel tot signalering (zie A3/9). Hierbij is van belang dat nagegaan wordt of de vreemdeling inmiddels rechtmatig verblijf heeft gekregen.
+
+### 7.1. Beleid
+
+In dat geval blijft de uitzetting achterwege zonder dat sprake is van rechtmatig verblijf en zonder dat de ongewenstverklaring of toegangsweigering wordt opgeheven. In dit geval gebeurt dit naar de ratio van (en niet ingevolge) [artikel 64 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=64). Het stellen van een aantekening in het grensoverschrijdingsdocument blijft in deze gevallen achterwege.
+
+### 7.2.1. Beroep op artikel 64 Vw
+
+Indien de vreemdeling zich wendt tot de vreemdelingenpolitie of het COA, wordt de aanvraag om toepassing van [artikel 64 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=64) doorgezonden aan de IND.
+
+### 7.2.2. Procedure in geval van vreemdelingenbewaring
+
+Indien de aanvraag om [artikel 64 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=64) toe te passen wordt ingewilligd, wordt de vreemdelingenbewaring ex [artikel 59 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=59) opgeheven, aangezien er (wederom) sprake is van rechtmatig verblijf.
+
+### 7.2.3. Het raadplegen van het BMA
+
+Naast de medische stukken dient tevens een door de vreemdeling ondertekende toestemmingsverklaring te worden meegezonden (zie [model M39-A](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M39-A&z=2006-11-16&g=2006-10-13)). De IND zendt deze stukken naar het BMA met het verzoek om een advies uit te brengen. Het medisch onderzoek wordt uitgevoerd door de medisch adviseur van het BMA dan wel een andere arts die door de medisch adviseur hiertoe wordt ingeschakeld.
+
+### 7.2.4. Gevolgen indiening aanvraag
+
+Het indienen van een aanvraag om [artikel 64 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=64) toe te passen schort evenmin de door het COA te volgen procedures tot beëindiging van verstrekkingen ingevolge de Rva op. Dit betekent dat de verstrekkingen kunnen worden beëindigd ondanks het feit dat door de vreemdeling een dergelijke aanvraag is gedaan.
+
+### 7.3. Inwilliging
+
+De aanspraak op verstrekkingen ontstaat niet door de vaststelling van de IND dat er sprake is van een situatie zoals bedoeld in [artikel 64 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=64), maar pas nadat het COA de aanvraag van betrokkene heeft getoetst aan de bepalingen van de Rva.
+
+### 7.4. Afwijzing
+
+Indien de vreemdelingenpolitie constateert dat niet is voldaan aan de medische voorwaarden die aan de uitzetting worden gesteld, treedt hij in alle gevallen in overleg met de IND.
+
+### 7.5. Rechtsmiddelen
+
+In geval dat wordt geoordeeld dat de behandeling van het eerste, tijdig ingediende verzoek om een voorlopige voorziening niet in Nederland mag worden afgewacht, wordt de vreemdeling of zijn raadsman hiervan aanstonds in beginsel schriftelijk op de hoogte gebracht. Uiteraard is het aan de rechtbank om te beoordelen of de uitzetting doorgang vindt, dan wel dat er middels een spoedprocedure op het verzoek van de vreemdeling zal worden beslist.
+
+### 7.6. Procedure bij zwangerschap/bevalling
+
+Ten aanzien van andere procedurele bepalingen zij hierbij verder verwezen naar A4/7.3.
+
+### 7.7. Procedure bij vreemdelingen met TBC
+
+Ten aanzien van andere procedurele bepalingen en het eventueel verkrijgen van de Rva-verstrekkingen zij hierbij verder verwezen naar A4/7.3 en [B1/2.2.5.](onbekend)
+
+### 8. Uitzetting via aanvoerende vervoersonderneming
+
+In A2/7.1.3 is de terugvoerplicht voor vervoerders nader uitgewerkt.
+
+### 9.1. Algemeen uitgangspunt
+
+Is ook dat niet mogelijk, dan kunnen de kosten onder bepaalde voorwaarden worden gedeclareerd bij de IND.
+
+### 9.2. Verhaal van kosten op de vreemdeling
+
+Op grond van voor Nederland verbindende verdragsbepalingen is verhaal van kosten op de uit te zetten vreemdeling zelf niet geoorloofd, indien het onderdanen betreft van een der landen aangesloten bij het Europese Verdrag betreffende sociale en medische bijstand in de gevallen bedoeld in artikel 8 juncto artikel 7 van dat Verdrag (zie [B11](onbekend));
+
+### 9.3. Verhaal van kosten op de vervoerder
+
+Indien het niet binnen redelijke tijd mogelijk is de vreemdeling, conform de terugvoerplicht, naar een plaats buiten Nederland te vervoeren, dan kunnen de kosten van uitzetting uit Nederland, waaronder ook de verblijfskosten kunnen worden begrepen, ingevolge [artikel 65 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=65), juncto [artikel 6.3 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=6.3), op die vervoersonderneming worden verhaald. Zie voor een nadere uitwerking van deze bepaling A2/7.1.4.
+
+### 9.4. Verantwoording ontvangen gelden
+
+Van ontvangen gelden dient schriftelijke opgave te worden gedaan aan de IND met gebruikmaking van het daartoe door de IND ontwikkelde formulier.
+
+### 10.1. Protocol VRIS
+
+Ten behoeve van de afstemming tussen de betrokken ketenpartners zijn in dit kader werkafspraken vastgelegd in het protocol VRIS. Deze afspraken moeten worden gehanteerd ten aanzien van criminele vreemdelingen. De werkafspraken in het VRIS-protocol leggen de nadruk op het in een zo vroeg mogelijk stadium vaststellen van de identiteit en nationaliteit en daarmee van de verblijfsrechtelijke status van een van criminele feiten verdachte vreemdeling door de (vreemdelingen)politie, de KMar en de IND. Doel hiervan is het vervolgtraject voor de ketenpartners makkelijker te laten verlopen en in zoveel mogelijk gevallen de verwijdering van de vreemdeling te effectueren. Ook wordt benadrukt dat een illegale vreemdeling bij onmiddellijke invrijheidsstelling altijd dient te worden overgedragen aan de vreemdelingenpolitie of de KMar voor verdere vreemdelingrechtelijke toetsing.
+
+### 10.2. Gedragslijn indien buitenlandse autoriteiten uitlevering vragen
+
+Wanneer gedurende de afhandeling van een verzoek om voorlopige aanhouding of uitlevering de voorgenomen uitzetting van de vreemdeling wordt opgeschort, kan de situatie ontstaan dat zich een mogelijkheid om betrokkene uit te zetten niet meer op korte termijn zal voordoen. In dat geval dient de ambtenaar belast met de grensbewaking of met het toezicht op vreemdelingen telefonisch contact op te nemen met de IND.
+
+### 11. Internationale overeenkomsten over terug- en overname
+
+Of – en onder welke omstandigheden – ten behoeve van terug- of overname van een vreemdeling gebruik kan worden gemaakt van een verdrag of internationale overeenkomst (met bepalingen) over terug- en overname, kan worden nagegaan op de website van de vreemdelingenketen (zie A1/3). Over de te volgen procedure en uitvoeringsaspecten bij daadwerkelijke terug- of overname dient afstemming te worden gezocht met de IND.
+
+### 1. Inleiding
+
+De ongewenstverklaring betekent tevens dat [artikel 8 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) niet van toepassing is. Dit heeft tot gevolg dat deze vreemdelingen – zolang de ongewenstverklaring van kracht blijft – niet gedurende de ‘vrije termijn’ in Nederland mogen verblijven en geen andere titel tot verblijf kunnen verkrijgen. Dit betekent tevens dat in het kader van de grensbewaking aan deze vreemdelingen de toegang tot het grondgebied zal worden geweigerd. Evenmin is het hun toegestaan de behandeling van een aanvraag in Nederland af te wachten. Tevens kan naar aanleiding van de ongewenstverklaring, de vreemdeling als ongewenst worden gesignaleerd in het OPS of (N)SIS (zie A3/9).
+
+### 2. Gronden voor ongewenstverklaring
+
+Beoordeeld dient te worden of die inmenging gerechtvaardigd is op grond van het tweede lid van artikel 8 EVRM. Hiertoe dient een belangenafweging te worden gemaakt tussen het belang van de vreemdeling en het belang van de Staat. Voor de omstandigheden die bij deze belangenafweging dienen te worden betrokken, wordt verwezen naar [B2/13.2.3.3.](onbekend)
+
+### 3.1. Indienen van een voorstel
+
+Het verdient aanbeveling dat de vreemdelingenpolitie in een zo vroeg mogelijk stadium bericht omtrent de antecedenten van de vreemdeling en dat zij niet wachten tot de invrijheidstelling van de vreemdeling aanstaande is. Ten behoeve van de afstemming tussen de betrokken ketenpartners zijn in dit kader werkafspraken vastgelegd in het protocol VRIS (zie A4/10.1).
+
+### 3.2. Voorbereiding
+
+De IND geeft in beginsel uitvoering aan de hoorplicht in andere dan de hierboven genoemde situaties. Hierbij valt te denken aan de situatie waarin bij de afhandeling van een aanvraag tot verlening van een verblijfsvergunning regulier een inbreuk op de openbare orde wordt geconstateerd, welke dermate ernstig is dat ongewenstverklaring van de vreemdeling ex [artikel 67 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=67) is geïndiceerd. Het vorenstaande laat onverlet dat er situaties kunnen zijn, waarin horen door de vreemdelingenpolitie desalniettemin meer voor de hand ligt.
+
+### 3.3. Uitreiking van de beschikking
+
+Indien zodanige gemachtigde er niet is, niet bekend is, of stelt niet of niet langer gemachtigde te zijn, wordt volstaan met de bekendmaking van de beschikking door mededeling ervan in de Stcrt.
+
+### 3.4. Bezwaar en beroep
+
+Tegen een beschikking waarbij de vreemdeling met toepassing van [artikel 67 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=67) ongewenst is verklaard kan binnen vier weken een bezwaarschrift worden ingediend. Tegen het besluit op bezwaar staat beroep bij de rechtbank ’s-Gravenhage (de vreemdelingenkamer) open.
+
+### 3.5. Geen opschortende werking in bezwaar
+
+Het indienen van een bezwaarschrift leidt er niet toe dat de werking van de beschikking hangende de behandeling van het bezwaarschrift wordt opgeschort. De beschikking heeft dus onmiddellijke werking (zie [artikel 6:16 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:16)).
+
+### 3.6. Stellen van aantekeningen
+
+Het stellen van een dergelijke aantekening kan onder omstandigheden gevolgen hebben voor de doorreis of toelating tot een derde land. Indien door deze aantekening de doorreis van de vreemdeling door, of diens toelating tot, een derde land zou worden bemoeilijkt, mag de aantekening omtrent ongewenstverklaring niet in het document voor grensoverschrijding worden aangetekend (zie [artikel 4.34, derde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.34)). De hier bedoelde aantekening luidt: ‘ongewenst verklaard op (datum beschikking Minister)’. Aantekeningen mogen nimmer worden geplaatst in de grensoverschrijdingsdocumenten of identiteitsbewijzen van asielzoekers (zie A3/5.2.1).
+
+### 3.7. Signalering in verband met de ongewenstverklaring
+
+Voor wat betreft de signalering van de ongewenstverklaring ex [artikel 67 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=67) in de systemen wordt verwezen naar A3/9.2.
+
+### 4.1. Inleiding
+
+Er kunnen zich echter (uitzonderlijke) gevallen voordoen waarbij het gevaar voor de openbare orde is geweken of het persoonlijk belang van de vreemdeling dient te prevaleren vóórdat de van toepassing zijnde duur van de ongewenstverklaring is verstreken. Het algemeen belang van de Staat kan alleen wijken voor het persoonlijk belang van de vreemdeling als sprake is van bijzondere feiten en omstandigheden van het individuele geval die bij de totstandkoming van de algemene regel (lees: de bovengrens) niet zijn betrokken. In ieder geval kan het enkele gegeven dat de vreemdeling zich gedurende de ongewenstverklaring niet schuldig heeft gemaakt aan enig strafbaar feit en niet meer in Nederland heeft verbleven, niet worden aangemerkt als een bijzonder feit of omstandigheid.
+
+### 4.2. De vorm van de aanvraag
+
+De aanvraag om opheffing van de ongewenstverklaring wordt ingediend bij de IND, wordt ondertekend en bevat ten minste de naam en het volledige adres van de vreemdeling, de dagtekening en de aanduiding dat verzocht wordt om opheffing van de maatregel van ongewenstverklaring (zie [B1/4.1](onbekend)). De door de ongewenst verklaarde vreemdeling ingediende aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd of onbepaalde tijd wordt niet ambtshalve aangemerkt als aanvraag om opheffing van de ongewenstverklaring.
+
+### 4.3. De inhoud van de aanvraag
+
+Het overleggen van een verklaring als bedoeld onder d kan achterwege blijven indien het overleggen van een dergelijke verklaring niet mogelijk is, bijvoorbeeld vanwege de algemene (oorlogs)situatie of het ontbreken van een registratie in dat land.
+
+### 4.4. Beoordeling van de aanvraag
+
+Vorenstaande laat onverlet dat het voornemen tot uitzetting blijft bestaan. Voorts geldt dat op de vreemdeling de plicht rust om Nederland zelfstandig te verlaten en mitsdien zelf gevolg te geven aan zijn vertrekplicht. Eerst als de ongewenst verklaarde vreemdeling aannemelijk heeft gemaakt dat artikel 3 EVRM, dan wel artikel 3 Anti-Folterverdrag, duurzaam in de weg staat aan uitzetting naar zijn land van herkomst, en hij bovendien heeft aangetoond dat er geen derde land is waar hij zich zal kunnen vestigen, kan de vreemdeling om opheffing van zijn ongewenstverklaring verzoeken. Bij de beoordeling van dit verzoek tot opheffing moet in ieder geval de aard en ernst van het gepleegde misdrijf worden betrokken. Met name vreemdelingen aan wie artikel 1F Vluchtelingenverdrag is tegengeworpen of die een gevaar vormen voor de nationale veiligheid, hebben een grotere inspanningsverplichting om aan te tonen dat er geen derde land is waar zij zich kunnen vestigen.
+
+### 4.5. De beslissing op de aanvraag
+
+Een besluit tot inwilliging of niet-inwilliging van een aanvraag om opheffing van de ongewenstverklaring is een beschikking welke de IND bevoegd is te slaan. Wanneer de aanvraag niet wordt ingewilligd kan de vreemdeling of zijn gemachtigde hiertegen bezwaar maken.
+
+### 4.6. Signalering verwijderen
+
+Indien wordt overgegaan tot opheffing van de ongewenstverklaring dient de IND een kopie van de beschikking te zenden aan het aanspreekpunt signalering OVR in de eigen regio. Dit aanspreekpunt dient de signalering “ONGEW” vervolgens te verwijderen uit de systemen (zie A3/9.2).
+
+### 5.1. Inleiding
+
+Tijdelijke opheffing van de ongewenstverklaring ingevolge [artikel 6.7 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=6.7) kan slechts plaatsvinden in zeer uitzonderlijke en dringende gevallen. Aan de tijdelijke opheffing worden voorwaarden gesteld omtrent de plaats van binnenkomst en de duur van het verblijf in Nederland.
+
+### 5.2. Vorm van het verzoek
+
+Een verzoek tot tijdelijke opheffing van de ongewenstverklaring dient schriftelijk bij de IND te worden ingediend. Het dient afkomstig te zijn van de vreemdeling zelf, van zijn gemachtigde, of van een instantie die stelt een bijzonder belang te hebben bij de komst van betrokkene naar Nederland. In het laatste geval kan bijvoorbeeld worden gedacht aan het OM of een internationaal straftribunaal. Als het verzoek wordt ingediend door het OM dient het te zijn ondertekend door een Hoofdofficier van Justitie. In het geval van bijvoorbeeld een internationaal straftribunaal moet de ondertekening geschieden door iemand van het niveau van een Hoofdofficier van Justitie. Ook een rechter kan een verzoek ondertekenen om tijdelijke opheffing van de ongewenstverklaring.
+
+### 5.3. Inhoud van het verzoek
+
+Het verzoek dient minimaal de volgende gegevens te bevatten:
+
+### 5.4. Beoordeling van het verzoek
+
+In onderstaande, niet uitputtende lijst, zijn verblijfsdoelen weergegeven die kunnen leiden tot tijdelijke opheffing van de ongewenstverklaring. De bewijslast voor het aannemelijk maken van zijn verblijfsdoel ligt bij de vreemdeling. Voor alle omstandigheden geldt dat de vreemdeling na afloop onverwijld Nederland dient te verlaten.
+
+### 5.5. Voorwaarden aan de tijdelijke opheffing
+
+Aan de overkomst van de vreemdeling naar Nederland moeten voorwaarden worden gesteld.
+
+### 5.6. Inreis, toezicht en uitreis
+
+Hoe het toezicht op de vreemdeling tijdens zijn verblijf in Nederland moet worden ingericht, dient per individueel geval te worden bezien. Dit hangt onder meer af van de ernst van de onderliggende feiten die tot de ongewenstverklaring hebben geleid en van de reden waarom de vreemdeling in Nederland is. De toe te passen vorm van toezicht moet worden afgestemd met de instantie die om het verblijf van de vreemdeling in Nederland heeft verzocht. Gedacht kan worden aan een vorm van beperking van bewegingsvrijheid op grond van [artikel 56, eerste lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=56) en [artikel 5.1 Vb.](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=5.1)
+
+### 6.1. Inleiding
+
+Ongewenstverklaring ex [artikel 67 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=67) van een vreemdeling genoemd in [artikel 8.7 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.7) kan met toepassing van [artikel 8.22 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.22) geschieden om redenen van openbare orde of openbare veiligheid.
+
+### 6.2. Ongewenstverklaring
+
+Bij de voorbereiding van de beschikking tot beëindiging van het rechtmatig verblijf dienen in overweging te worden genomen (zie artikel 28, eerste lid, [Richtlijn 2004/38](32004L0038) EG):
+
+### 6.3. Procedurele aspecten ongewenstverklaring
+
+Zie voor de procedurele aspecten met betrekking tot de ongewenstverklaring A5/3.
+
+### 6.4.1. Inleiding
+
+Of er sprake is van het verstrijken van een redelijke termijn is afhankelijk van de individuele omstandigheden. Die termijn kan korter zijn dan drie jaren, maar ook langer. Een aanvraag die ten minste drie jaren na effectuering van de verwijdering is ingediend, leidt derhalve niet automatisch tot opheffing van de ongewenstverklaring.
+
+### 6.4.2. Vorm van de aanvraag
+
+De aanvraag tot opheffing dient te worden ingediend bij de IND. Voor de vormvereisten van de aanvraag wordt verwezen naar A5/4.2en A5/5.2.
+
+### 6.4.3. Inhoud van de aanvraag
+
+Het staat de vreemdeling uiteraard vrij andere dan de hierboven genoemde gegevens en bescheiden te overleggen ten bewijze van het feit dat er een wijziging in materiële zin is opgetreden in de omstandigheden die het besluit rechtvaardigden om jegens hem een verwijderingsmaatregel uit te vaardigen.
+
+### 6.4.4. De beslissing op de aanvraag
+
+De beschikking op de aanvraag tot opheffing van de ongewenstverklaring moet worden gegeven uiterlijk binnen zes maanden na de datum van indiening van de aanvraag (zie [artikel 8.22, vijfde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.22)).
+
+### 1. Algemeen
+
+De Minister kan aan de Korpschef en aan de Commandant der KMar aanwijzingen geven over de uitvoering van de [Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823), ook ten aanzien van de in dit hoofdstuk genoemde maatregelen (zie [artikel 48, tweede lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=48)).
+
+### 1.1. Overzicht vrijheidsbeperkende en vrijheidsontnemende maatregelen
+
+Naast de vrijheidsbeperkende maatregelen kent de wet vier vrijheidsontnemende maatregelen:
+
+### 1.2.1. Mededeling aan de IND
+
+In verband met de kennisgeving van de IND aan de rechtbank of een beroep bij de rechtbank van de vreemdeling tegen één van deze maatregelen dient hierbij tevens een aantal noodzakelijke bescheiden aan de IND verzonden te worden, zie A6/6.2.3en A6/6.2.4.
+
+### 1.2.2. Mededeling aan derden
+
+De in de vorige alinea’s vermelde verplichting rust op de ambtenaar die de maatregel oplegt.
+
+### 1.3. Geleidebrief/checklist
+
+Nadat de uitzetting heeft plaatsgevonden retourneert de ambtenaar belast met de grensbewaking het gehele formulier aan de ambtenaar die voor de oorspronkelijke vrijheidsbeneming verantwoordelijk was.
+
+### 1.4. Het lichten van vreemdelingen
+
+De op grond van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=6), [58](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=58) of [59 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=59) opgelegde maatregel blijft gedurende de tijd dat de vreemdeling gelicht is van kracht.
+
+### 1.5. Vrijheidsontnemende maatregelen bij jeugdigen onder 16 jaar
+
+Indien het voornemen bestaat een uitzondering te maken op a – c vindt overleg met de IND plaats.
+
+### 2.1. De maatregelen op grond van artikel 6 Vw
+
+De vreemdeling aan wie de toegang tot Nederland is geweigerd, dient krachtens [artikel 5 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=5) Nederland onmiddellijk te verlaten. Deze verplichting geldt niet indien de vreemdeling een aanvraag tot het verlenen van een verblijfsvergunning als bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=28) of [33 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=33) indient (zie [artikel 5, derde lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=5)). Aan een geweigerde vreemdeling kan op grond van [artikel 6 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=6) een vrijheidsbeperkende of -ontnemende maatregel worden opgelegd.
+
+### 2.2. Het doel
+
+Bij een vrijheidsbeperkende maatregel kan de vreemdeling in afwachting van zijn vertrek opgedragen worden zich in een bepaalde ruimte of op een bepaalde plaats op te houden (zie [artikel 6, eerste lid , Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=6)). De vreemdeling mag deze ruimte of plaats niet verlaten, maar kan dit feitelijk wel. Wanneer deze ruimte of plaats beveiligd wordt tegen ongeoorloofd vertrek van de vreemdeling spreken we van vrijheidsontneming. Deze maatregel wordt gegeven op grond van [artikel 6, eerste en tweede lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=6).
+
+### 2.3. De bevoegdheid
+
+De in [artikel 46 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=46) genoemde ambtenaren belast met grensbewaking zijn bevoegd tot het opleggen van de verplichting aan een geweigerde vreemdeling om zich op te houden in een aangewezen ruimte of plaats (zie [artikel 6, eerste lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=6)).
+
+### 2.4. De toepassing
+
+De weigering van toegang strekt zich niet enkel uit tot de verdere inreis in Nederland, doch ook tot de verdere inreis in het overige Schengengebied. Voor een toelichting op de situatie waarbij een asielzoeker de toegang geweigerd wordt, terwijl tegelijkertijd op grond van de Overeenkomst van Dublin een verzoek tot overname van de asielaanvraag ingediend wordt bij een andere staat, wordt verwezen naar A2/5.5.6. Aan Dublinclaimanten aan wie de toegang niet geweigerd kan worden, wordt de vrijheidsbeperkende maatregel van [artikel 55 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=55) opgelegd of, indien aan de voorwaarden daarvan wordt voldaan, de maatregel van [artikel 59 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=59).
+
+### 2.5. De vorm
+
+Het opleggen van een vrijheidsbeperkende of -ontnemende maatregel op grond van [artikel 6 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=6) geschiedt bij beschikking [model M19](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M19&z=2006-11-16&g=2006-10-13). De bevoegde ambtenaar dient een afschrift daarvan uit te reiken aan de vreemdeling, waarbij de inhoud van de beschikking en de mogelijkheid tot het indienen van beroep bij de rechtbank in een voor de vreemdeling begrijpelijke taal aan hem moeten worden meegedeeld. Bij aanwijzing van een andere ruimte of plaats dient steeds een nieuwe beschikking te worden gemaakt. Als echter om redenen die voortvloeien uit de toepassing van de[Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823), zoals het afnemen van een gehoor of om medische redenen, tijdelijke overplaatsing (afhankelijk van feiten of omstandigheden, in beginsel ten hoogste 48 uur) van de vreemdeling vanuit de justitiële inrichting of een andere plaats van onderbrenging naar een andere ruimte of plaats nodig is (bijvoorbeeld van een grenslogies naar het AC), dan is de geldende plaatsingsbeschikking van toepassing. Ook het transport naar de aangewezen ruimte of plaats valt onder de gegeven beschikking. In deze gevallen hoeft geen nieuwe plaatsingsbeschikking gemaakt te worden.
+
+### 2.6. De tenuitvoerlegging
+
+Dat is anders voor de vrijheidsontnemende maatregel genoemd in [artikel 6, eerste en tweede lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=6). In dat geval geldt in de door de Minister aangewezen ruimte of plaats het regime van het Reglement grenslogies. Wordt de vrijheidsontneming ten uitvoer gelegd in een andere (dan door de Minister aangewezen) ruimte of plaats dan dient het regime overeen te komen met dat van het Reglement grenslogies.
+
+### 2.7. De duur
+
+In de wet is geen wettelijke maximumtermijn gesteld aan de vrijheidsbeperkende of -ontnemende maatregel op grond van [artikel 6 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=6). De maatregel en de duur daarvan zal, mede gelet op het bepaalde in [artikel 94 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=94), binnen 42 dagen getoetst worden door de rechtbank. De rechtbank zal alsdan toetsen of de maatregel voldoet aan het gestelde doel en of de maatregel bij afweging van alle belangen gerechtvaardigd is. Een vrijheidsontnemende maatregel die langer duurt dan zes maanden zal streng getoetst worden (zie A6/6).
+
+### 2.8. De beëindiging
+
+Indien de rechtbank de opheffing van de vrijheidsontnemende maatregel van [artikel 6, eerste en tweede lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=6) beveelt (zie A6/6) betekent dat niet dat ook de weigering van de toegang ex [artikel 3 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=3) wordt opgeheven. In die gevallen kan nog steeds op grond van [artikel 6, eerste lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=6) (vrijheidsbeperking) een ruimte of plaats worden aangewezen waar de vreemdeling zich dient op te houden. Indien de toegangsweigering wordt opgeheven, bijvoorbeeld omdat aan de vreemdeling alsnog rechtmatig verblijf toekomt op grond van [artikel 8, aanhef en onder a tot en met e, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) of de rechtbank de beschikking van weigering toegang vernietigt, wordt de maatregel van [artikel 6 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=6) eveneens opgeheven. Voor het opheffen van de maatregel dient gebruik te worden gemaakt van [Model M113](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M113&z=2006-11-16&g=2006-10-13).
+
+### 3.1. Het zich beschikbaar houden (artikel 55, eerste lid, Vw)
+
+Voor het aanwenden van een rechtsmiddel door de vreemdeling wordt verwezen naar A6/6.
+
+### 3.2. Het doel
+
+Het doel van deze maatregel is niet alleen de bevordering van de waarheidsvinding, maar ook de versnelling van de procedure doordat de vreemdeling steeds bereikbaar is. Meer in het algemeen kan het voorkomen dat tijdens de behandeling van de asielaanvraag nadere vragen opkomen die, als de asielzoeker bereikbaar is, snel beantwoord kunnen worden, wat niet alleen de voortgang van de procedure, maar ook de kwaliteit van de beslissing ten goede zal komen.
+
+### 3.3. De bevoegdheid
+
+De bevoegde autoriteit die de plaats aanwijst waar de vreemdeling zich beschikbaar dient te houden overeenkomstig hem daartoe gegeven aanwijzingen is de Minister. De Korpschef kan namens de Minister de beschikbaarheidsverplichting opleggen en de daarbij behorende aanwijzingen geven. De Korpschef kan van deze bevoegdheid ondermandaat verlenen aan de onder hem ressorterende ambtenaren (zie [artikel 1.4 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=1.4)).
+
+### 3.4. De toepassing
+
+Voor asielzoekers geldt dat zij zich beschikbaar dienen te houden in een AC of opvangvoorziening. Voor reguliere vreemdelingen kan dat de woon- of verblijfplaats zijn.
+
+### 3.5. De vorm
+
+Voor de bevoegdheden op grond van [artikel 55, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=55), zie A3/8.
+
+### 4.1. Algemeen
+
+Voor het toezicht op vreemdelingen zijn de [artikelen 50](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=50) en [56 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=56) van belang. [Artikel 50 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=50) betreft de bevoegdheid van het staande- en ophouden van personen (eventueel ook Nederlanders) in het belang van het toezicht op vreemdelingen. [Artikel 56 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=56) geeft de bevoegdheid om de vrijheid van beweging van bepaalde categorieën vreemdelingen op grond van de openbare orde of de nationale veiligheid te beperken.
+
+### 4.2. Het staandehouden en ophouden op grond van artikel 50 Vw
+
+In verband met een uitvoerige beschrijving van alle onderdelen die met het toezicht op vreemdelingen te maken hebben, wordt voor de toepassing van [artikel 50 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=50) verwezen naarA3/3.
+
+### 4.3.1. Het doel
+
+De opgelegde beperkingen mogen niet zo verstrekkend zijn, dat zij het karakter van een vrijheidsontnemende maatregel hebben, noch dienen zij ertoe om de uitzetting van een vreemdeling te verzekeren. Neemt de vreemdeling de opgelegde beperking niet in acht, dan begaat hij een in [artikel 108 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=108) strafbaar gestelde overtreding.
+
+### 4.3.2. De bevoegdheid
+
+Voor het aanwenden van een rechtsmiddel wordt verwezen naar A6/6.
+
+### 4.3.3. De toepassing
+
+Alleen in uitzonderingsgevallen, met name indien de uitzetting (nog) niet kan plaatsvinden en de toepassing van een andere vrijheidsbeperkende maatregel niet in aanmerking komt, kan deze maatregel in het kader van de openbare orde of nationale veiligheid toegepast worden.
+
+### 4.3.4. De beëindiging
+
+De maatregel wordt bovendien beëindigd zodra de vreemdeling te kennen geeft Nederland te willen verlaten en daartoe voor hem ook gelegenheid bestaat. Deze gelegenheid bestaat indien de vreemdeling beschikt over een geldig grensoverschrijdingsdocument en vlieg- of reistickets (of voldoende financiële middelen om het beoogde verblijf en de terugkeer te bekostigen). Voor vertrek naar een derde land kan van de vreemdeling gevraagd worden dat hij bovendien beschikt over een geldig visum of een geldige verblijfsvergunning voor dat land.
+
+### 5.1. Het doel van de maatregelen van [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=57), [58](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=58) en [59 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=59)
+
+Indien de openbare orde of de nationale veiligheid dat vordert, kunnen vreemdelingen, zowel asielzoekers als reguliere vreemdelingen, ter fine van hun uitzetting in bewaring gesteld worden op grond van [artikel 59 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=59). Bij deze maatregel gaat het in beginsel – anders dan bij [artikel 58 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=58) – om vreemdelingen ten aanzien van wie er aanwijzingen zijn voor het vermoeden dat zij zich aan de uitzetting zullen onttrekken.
+
+### 5.2.1. De bevoegdheid
+
+Deze laatst bedoelde aanwijzing wordt gegeven door de Korpschef van de politieregio waaronder de gemeente, waar de vreemdeling zijn woon- of verblijfplaats heeft, ressorteert. De Korpschef kan van zijn bevoegdheid ondermandaat verlenen aan een hulpofficier van justitie (zie [artikel 1.4 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=1.4)).
+
+### 5.2.2. De toepassing
+
+Voor de aanwijzing op grond van [artikel 58 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=58) dient de Korpschef gebruikt te maken van een afzonderlijke beschikking. De beschikking dient gemotiveerd, gedagtekend en ondertekend te zijn. Aan de vreemdeling wordt een afschrift daarvan uitgereikt (zie [artikel 5.7 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=5.7)). Daarbij wordt tevens (schriftelijk) mededeling gedaan van de mogelijkheid om tegen deze maatregel beroep in te stellen bij de rechtbank (zie A6/6).
+
+### 5.2.3. De tenuitvoerlegging
+
+Voor het verkrijgen van een plaats in een grenslogies zie A6/5.3.6.2. Is plaatsing daar niet mogelijk, dan moet de vrijheidsontneming plaatsvinden in een ruimte of plaats met een overeenkomstig regime.
+
+### 5.2.4. Bijstand van een raadsman
+
+De vreemdeling wordt in de gelegenheid gesteld onverwijld contact met zijn raadsman op te nemen. De raadsman van de vreemdeling heeft ingevolge [artikel 104 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=104) tijdens de tenuitvoerlegging van de vrijheidsontnemende maatregel vrije toegang tot hem. Hij kan hem alleen spreken en met hem brieven wisselen, zonder dat van de inhoud door anderen kennis wordt genomen. Een en ander onder toezicht indien vereist en met inachtneming van de huishoudelijke reglementen, en zonder dat het onderzoek daardoor mag worden opgehouden. Voor het aanwenden van rechtsmiddelen en de procedure van beroep bij de rechtbank zie A6/6.
+
+### 5.2.5. De duur
+
+De Korpschef zal gelet hierop alle maatregelen dienen te nemen om de uitzetting op zo kort mogelijke termijn te effectueren (onderzoek naar identiteit, aanvraag reispapieren en dergelijke).
+
+### 5.2.6. De beëindiging
+
+De maatregel van [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=57) of [58 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=58) vervalt van rechtswege:
+
+### 5.3.1. Het doel
+
+Vreemdelingenbewaring is een maatregel die ten doel heeft de uitzetting van een vreemdeling te effectueren. Indien een vreemdeling niet of niet langer rechtmatig in Nederland verblijft, dient hij in beginsel Nederland zelf te verlaten. Doet hij dat niet, dan vindt uitzetting plaats. Op deze wijze bestaat er een directe relatie tussen de vreemdelingenbewaring en het terugkeerbeleid. Mede vanwege het ingrijpende karakter is ook deze maatregel met strikte waarborgen omkleed.
+
+### 5.3.2. De bevoegdheid
+
+De bevoegdheid tot inbewaringstelling berust bij de Minister (zie [artikel 59, eerste lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=59)). De maatregel van inbewaringstelling wordt namens hem opgelegd en opgeheven door een ambtenaar belast met de grensbewaking of met het toezicht op vreemdelingen, die tevens hulpofficier van justitie is (zie [artikel 1.4 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=1.4) en [artikel 5.3 VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&artikel=5.3)).
+
+### 5.3.3. De toepassing
+
+Indien het belang van de openbare orde of van de nationale veiligheid dat vordert, kunnen, met het oog op de uitzetting, in bewaring gesteld worden vreemdelingen die:
+
+### 5.3.3.1. Het belang van de openbare orde
+
+Het belang van de openbare orde kan de bewaring voorts bijvoorbeeld vorderen:
+
+### 5.3.3.2. Het belang van de nationale veiligheid
+
+In de meeste gevallen waarbij bewaring wordt overwogen, zal de maatregel gebaseerd zijn op het belang van de openbare orde en niet op het belang van de nationale veiligheid (bijv. spionage, terroristische activiteiten) betreffen. Indien er aanleiding is inbewaringstelling op deze laatste grond te baseren, kan dat alleen na een bijzondere aanwijzing van de Minister.
+
+### 5.3.3.3. Het niet of niet langer toepassen van bewaring
+
+Bewaring mag bovendien niet worden toegepast uitsluitend op basis van overwegingen van algemene aard. De bewaring moet gerelateerd zijn aan feiten en/of omstandigheden die betrekking hebben op de persoon van de vreemdeling. Steeds zal een zorgvuldige afweging moeten plaatsvinden tussen het belang van de openbare orde of van de nationale veiligheid en het individuele belang van de vreemdeling (zie A6/5.3.5).
+
+### 5.3.3.4. Vreemdelingen die op korte termijn uitgezet kunnen worden
+
+Uit het bewaringsdossier van de vreemdeling dient te blijken dat een belangenafweging, waarbij het bovenstaande in acht is genomen, heeft plaatsgevonden.
+
+### 5.3.3.5. Bewaring van vreemdelingen met rechtmatig verblijf
+
+Zolang de aanvraag nog niet in eerste aanleg is afgewezen, mag de inbewaringstelling van asielzoekers uitsluitend plaatsvinden en voortduren na vooraf overleg met de IND. Van dat overleg dient verslag te worden gelegd in de vreemdelingenadministratie.
+
+### 5.3.3.6. Bewaring van Dublinclaimanten
+
+Het is mogelijk om een Dublinclaimant op grond van [artikel 59, eerste lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=59) of [artikel 59, eerste juncto tweede lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=59) in bewaring te stellen. Voor de toepassing van deze bewaringsgrond is het noodzakelijk dat er een belangenafweging plaatsvindt (zie A6/5.3.3.5). Zie[C5/21](onbekend) voor de specifieke invulling van de belangenafweging in Dublinzaken.
+
+### 5.3.3.7. Bewaring van EU-/EER-, Zwitserse onderdanen en familieleden
+
+Tenslotte kan ten aanzien van een vreemdeling die stelt gebruik te maken van het Gemeenschapsrecht inzake het vrij verkeer van personen maar geen geldige identiteitskaart of geldig paspoort toont en evenmin op andere wijze ondubbelzinnig (zonder enige twijfel) zijn identiteit en nationaliteit kan aantonen, als regel niet worden vastgesteld dat hij onder het Gemeenschapsrecht inzake vrij verkeer valt en kan hij in bewaring worden gesteld.
+
+### 5.3.4.1. Het gehoor
+
+Van het gehoor wordt een proces-verbaal [M110-B](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M110-B&z=2006-11-16&g=2006-10-13) opgemaakt (zie [artikel 5.2, vierde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=5.2)).
+
+### 5.3.4.2. Bijstand van een raadsman
+
+Op verzoek van de raadsman wordt hem een afschrift verstrekt van het besluit tot bewaring [M110-A](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M110-A&z=2006-11-16&g=2006-10-13) en van het proces-verbaal van gehoor [M110-B](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M110-B&z=2006-11-16&g=2006-10-13). De raadsman van de vreemdeling heeft ingevolge [artikel 104 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=104) tijdens de tenuitvoerlegging van de vrijheidsontnemende maatregel vrije toegang tot de vreemdeling. Hij kan hem alleen spreken en met hem brieven wisselen zonder dat van de inhoud door anderen kennis wordt genomen, indien vereist, onder toezicht en met inachtneming van de huishoudelijke reglementen en zonder dat het onderzoek daardoor mag worden opgehouden.
+
+### 5.3.4.3. De vorm waarin de maatregel wordt opgelegd
+
+Er dienen voldoende afschriften te worden gemaakt van de maatregel waarbij de bewaring opgelegd is:
+
+### 5.3.4.4. Voortzetting van de bewaring op een andere categorie
+
+Indien de vreemdeling tijdens zijn inbewaringstelling een reguliere aanvraag of een asielaanvraag indient, komt aan de beslissing op de reguliere aanvraag ingevolge [artikel 73, vierde lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=73) en aan de beslissing op de asielaanvraag ingevolge [artikel 82, vierde lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=82) geen opschortende werking toe. Zie ook [C4/17.3.1.](onbekend)
+
+### 5.3.4.5. Hernieuwde inbewaringstelling op een andere bewaringsgrond
+
+Ook is het denkbaar dat de bewaringsgrond van [artikel 59, tweede lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=59) wordt omgezet in [artikel 59, eerste lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=59). Bijvoorbeeld indien de vreemdeling zich verzet bij de uitzetting. Bij een hernieuwde inbewaringstelling dient de vreemdeling uiteraard te worden gehoord.
+
+### 5.3.5. De duur
+
+De omstandigheid dat een beroep op de rechtbank (zie [artikel 93 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=93)) over de rechtmatigheid van de bewaring nog bij de rechter aanhangig is, staat niet aan de uitzetting in de weg.
+
+### 5.3.5.1. Indienen van voorlopige voorziening tijdens bewaring
+
+Indien een vreemdeling gedurende de tenuitvoerlegging van de bewaring een verzoek om een voorlopige voorziening indient, blijft de vreemdelingenbewaring in beginsel voortduren. De ambtenaar belast met de grensbewaking of met het toezicht op vreemdelingen zal in overleg met de IND na moeten gaan of deze procedure in Nederland afgewacht mag worden. Indien daartoe besloten wordt en de vreemdelingenbewaring voortduurt, zal de IND aan de rechtbank verzoeken om het verzoek om een voorlopige voorziening zo spoedig als mogelijk te laten plaatsvinden. Ook de advocaat van de vreemdeling kan in deze gevallen aan de rechtbank om bespoediging van de behandeling van het verzoek om een voorlopige voorziening vragen.
+
+### 5.3.6.1. Plaats van tenuitvoerlegging
+
+Een uitzetcentrum is in beginsel bedoeld voor illegale vreemdelingen die bij (grootschalige) acties in vreemdelingenbewaring worden gesteld en voor andere illegale vreemdelingen voorzover deze op korte termijn uitzetbaar zijn. Echter, de duur van het verblijf in het uitzetcentrum is niet aan een wettelijk maximum gebonden. Vreemdelingenbewaring in een uitzetcentrum kan duren zolang de openbare orde of de nationale veiligheid dat vergt en zolang er zicht is op uitzetting. Ook vanuit de optiek van de in het uitzetcentrum aanwezige voorzieningen bestaat er geen limiet aan de verblijfsduur in het uitzetcentrum.
+
+### 5.3.6.2. Plaatsing in een justitiële inrichting
+
+Zodra van DJI bericht ontvangen is in welke inrichting de vreemdeling gaat verblijven, richt de ambtenaar belast met de grensbewaking of met het toezicht op vreemdelingen een schriftelijk verzoek tot plaatsing aan de directeur van die inrichting.
+
+### 5.3.6.3. Declaratie van de kosten van bewaring in een politiecel
+
+De kosten van bewaring in een politiecel kunnen – met uitsluiting van die van de eerste vier dagen van de bewaring – op grond van de Circulaire afbakening tussen politie- en Justitiekosten 2004-2008 van de Minister van Justitie (Stcrt 2004, nr. 92, pag. 22), gedeclareerd worden bij het ministerie van Justitie.
+
+### 5.3.7.1. Het overbrengen en ophouden na strafrechtelijke detentie
+
+Voorts dient van de toepassing van dit artikel proces-verbaal (zie [Model M111-A](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M111-A&z=2006-11-16&g=2006-10-13)) opgemaakt te worden.
+
+### 5.3.7.2. Tenuitvoerlegging strafrechtelijke vonnis tijdens bewaring
+
+Indien tot executie overgegaan kan worden, dient de vreemdelingenbewaring opgeheven en het vonnis op de daarvoor bestemde plaats ten uitvoer gelegd te worden.
+
+### 5.3.8. De beëindiging
+
+Zonodig kan met betrekking tot de vreemdeling in afwachting van de hernieuwde inbewaringstelling gebruik gemaakt worden van de maatregel als bedoeld in [artikel 50, derde lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=50).
+
+### 6.1. Algemeen
+
+De bepalingen van [hoofdstuk 8 van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) zijn, met uitzondering van de in [artikel 93 tot en met 107 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=93)genoemde afwijkingen, van overeenkomstige toepassing met betrekking tot het opleggen van de in [artikel 93 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=93) genoemde vrijheidsbeperkende en vrijheidsontnemende maatregelen op grond van de[Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823). [Artikel 8, eerste lid, Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:1) stelt het opleggen van deze maatregelen gelijk met een besluit. Op grond van [artikel 75](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=75) en [77 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=77) kan geen bezwaar en administratief beroep worden ingediend en dient tegen het opleggen van deze maatregelen beroep ingesteld te worden bij de rechtbank. Het gaat hierbij om de volgende maatregelen:
+
+### 6.2.1. Beroep instellen bij de rechtbank
+
+In afwijking van [artikel 8:41 van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:41) wordt door de griffier van de rechtbank geen griffierecht geheven (zie [artikel 93, derde lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=93)).
+
+### 6.2.2. In kennis stellen van de rechtbank
+
+De kennisgeving hoeft niet gedaan te worden indien de bewaring uiterlijk de 28e dag van de vrijheidsontneming is opgeheven. Stelt de vreemdeling dan wel zijn advocaat of gemachtigde beroep in binnen de termijn van 28 dagen, dan hoeft de IND evenmin een kennisgeving aan de rechtbank te zenden.
+
+### 6.2.3. Behandeling van de kennisgeving/het 1e beroep door de rechtbank
+
+Indien uit informatie van de rechtbank blijkt dat de vrijheidsontnemende maatregel onmiddellijk dient te worden opgeheven, informeert de IND onverwijld de vreemdelingenpolitie (zie [artikel 58](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=58) en [59 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=59)) of de KMar (zie [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=6) en[59 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=59)). De maatregel dient onverwijld door een daartoe bevoegde ambtenaar te worden opgeheven onder gebruikmaking van het [Model M113](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M113&z=2006-11-16&g=2006-10-13). De vreemdeling wordt dus niet zonder voorafgaande opheffing heengezonden. Indien in de inrichting waar de vreemdeling zich bevindt geen tot opheffing bevoegde ambtenaar aanwezig is, kan een wel bevoegde ambtenaar een schriftelijk verzoek om invrijheidstelling richten aan de directeur, vergezeld van een [Model M113](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M113&z=2006-11-16&g=2006-10-13). Voorts kan de directeur van de inrichting verzocht worden om de vreemdeling een mededeling te doen omtrent melding of vertrek. Een afschrift van het opheffingsbewijs (zie [Model M113](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M113&z=2006-11-16&g=2006-10-13)) dient naar de IND te worden verzonden.
+
+### 6.2.4. Procedure bij voortduren van de vrijheidsontneming
+
+Evenals bij een eerste beroep kan de rechtbank de toepassing of de tenuitvoerlegging van de vrijheidsontnemende maatregel onrechtmatig achten en zal zij het beroep gegrond verklaren. In dat geval beveelt de rechtbank de opheffing van de maatregel of een wijziging van de wijze van tenuitvoerlegging daarvan. Ook kan de rechtbank – indien hierom verzocht wordt – schadevergoeding toekennen (zie A6/6.4). De griffier van de rechtbank zendt zo spoedig mogelijk een afschrift van de uitspraak aan de vreemdeling of zijn advocaat en aan de IND. De IND stuurt vervolgens een afschrift van de uitspraak aan de Korpschef of aan de Commandant der KMar. Daarbij kunnen tevens aanwijzingen gegeven worden hoe verder ten aanzien van de vreemdeling gehandeld moet worden.
+
+### 6.3. Hoger Beroep
+
+Op grond van [artikel 95](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=95), juncto [artikel 69, derde lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=69) kan de vreemdeling of zijn advocaat, of de IND binnen één week tegen een uitspraak van de rechtbank, bedoeld in [artikel 94, derde lid Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=94) (eerste beroep/kennisgeving tegen een vrijheidsontnemende maatregel op grond van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=6), [artikel 58](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=58) en [artikel 59 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=59)) hoger beroep instellen bij de ABRvS. [Afdeling 4 van hoofdstuk 7 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=84) is van toepassing, met uitzondering van [artikel 84](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=84) en [86 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=86).
+
+### 6.4. Schadevergoeding
+
+Zie [artikel 106 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=106). Indien de rechtbank de maatregel van vrijheidsontneming onrechtmatig acht (beroep gegrond verklaart) en de opheffing beveelt, of de maatregel voor de behandeling van het beroep wordt opgeheven, kan zij aan de vreemdeling schadevergoeding toekennen. Onder schade is begrepen het nadeel dat niet in vermogensschade bestaat. De [artikelen 90](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=90) (toekenning van schade als er gronden voor billijkheid zijn) en [93 (uitbetaling door de griffier) WvSv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=93) zijn van overeenkomstige toepassing.
+
+### 1. Inleiding
+
+In dit hoofdstuk wordt het overgangsrecht van de Vw beschreven. Het overgangsrecht betreft zowel de verblijfsvergunningen als de procedurele aspecten.
+
+### 2. Omzetting van verblijfsvergunningen
+
+Sinds de datum van inwerkingtreding van de [Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823), op 1 april 2001, worden de tot dan toe geldige verblijfsvergunningen van rechtswege aangemerkt als een verblijfsvergunning op grond van deze wet ([artikel 115, eerste lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=115)), met de daaraan verbonden rechten en verplichtingen. Een opsomming van de omzettingen volgt hieronder.
+
+### 3.1. Inleiding
+
+In [artikel 117 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=117) is geregeld welk rechtsregime van toepassing is op de aanvragen die op het tijdstip van inwerkingtreding reeds in behandeling waren. Deze aanvragen worden aangemerkt als een aanvraag tot verlening van een verblijfsvergunning op grond van de Vw.
+
+### 3.2. Aanvragen verlening of verlenging van een vergunning tot verblijf
+
+Aanvragen om verlenging van de geldigheidsduur van een vergunning tot verblijf zonder beperkingen op basis van een asielaanvraag worden opgevat als een aanvraag om een verblijfsvergunning voor onbepaalde tijd als bedoeld in [artikel 33 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=33).
+
+### 3.3. Aanvragen om verlening van een vergunning tot vestiging
+
+Aanvragen tot verlening van een vergunning tot vestiging worden aangemerkt als aanvragen om verlening van een verblijfsvergunning voor onbepaalde tijd regulier als bedoeld in [artikel 20 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=20).
+
+### 3.4. Aanvragen om toelating als vluchteling
+
+Aanvragen om toelating als vluchteling als bedoeld in artikel 15 Vw (oud) worden aangemerkt als een aanvraag om een verblijfsvergunning als bedoeld in [artikel 28 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=28), de verblijfsvergunning voor bepaalde tijd asiel.
+
+### 3.5. Wijze van behandeling
+
+[Artikel 3.103 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.103) is geen bepaling van overgangsrecht per 1 april 2001. Dit artikel is bedoeld voor wijzigingen van na de inwerkingtreding van de Vw en codificeert de in het vreemdelingenrecht geldende uitzondering op het onmiddellijkheidsbeginsel.
+
+### 4.1. Inleiding
+
+De [artikelen 118–120 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=118) regelen het overgangsrecht ten aan zien van de rechtsmiddelen. Voornoemde artikelen bevatte zowel de mogelijkheden tot het instellen van een rechtsmiddel op grond van de Vw (oud) en de behandeling van dit rechtsmiddel.
+
+### 4.2. Bezwaar
+
+Op het bezwaarschrift zijn de materiële bepalingen van het nieuwe recht van toepassing, omdat in bezwaar op grond van de hoofdregel uit het algemene bestuursrecht ex nunc wordt beslist (Memorie van Toelichting, pagina 94). Wel dient – als een overgangsregeling voor het beleid ontbreekt – het voor de vreemdeling meest gunstige beleid te worden toegepast.
+
+### 4.3. Beroep
+
+Het beroep op de rechtbank tegen een besluit of handeling op grond van de Vw (oud) dat is bekendgemaakt of verricht voor inwerkingtreding van de Vw, of tegen een op bezwaar genomen beslissing, heeft geen opschortende werking ([artikel 119, tweede lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=119)).
+
+### 4.4. Hoger beroep
+
+In [artikel 120 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=120) is bepaald dat het hoger beroep als bedoeld in [artikel 84 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=84) slechts kan worden ingesteld tegen de uitspraak die is bekendgemaakt na het tijdstip van inwerkingtreding van de wet. Het betreft een uitspraak van de rechtbank of de president van de rechtbank over de beschikking op de aanvraag tot het verlenen of verlengen van een verblijfsvergunning, dan wel over de beschikking waarbij de verblijfsvergunning is ingetrokken. Dit artikel beoogt het instellen van hoger beroep te beperken tot die zaken, waarin vanaf de eerste aanlegfase de nieuwe wet is toegepast ([artikel 117 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=117)).
+
+## Model M44-A. Overeenkomst Au pair – Gastgezin
+
+De Overeenkomst Au pair – Gastgezin (hierna: de overeenkomst) is gesloten op ……………………………… (**datum**) tussen de partijen: de voor de duur van een jaar in Nederland verblijvende vreemdeling ……………………………… (**naam**), geboren op ………………... (**datum**), hierna te noemen ‘de au pair’, en het aan deze vreemdeling vrije kost en inwoning verschaffende gezin ………………………………………… (**naam of namen hoofd(en)**), geboren op ……………………………(**datum**), hierna te noemen ‘het gastgezin’, wonende te ………………………………………………………… (**straat, postcode, woonplaats**), te bereiken op ………………… (**telefoonnummer**). De au pair en het gastgezin tezamen worden aangeduid als Partijen. Bemiddeling tussen Partijen heeft plaatsgevonden door …………………………………… (**naam bureau of organisatie**). 1Dit hoeft uiteraard alleen te worden ingevuld indien bemiddeling heeft plaatsgevonden.
+
+### Overwegingen:
+
+De au pair en het gastgezin hebben de inhoud van de bewustverklaring (model M44) tot zich genomen en hebben de verklaring ondertekend en overgelegd.
+
+### Artikel 1 – weekindeling
+
+De au pair mag, in ruil voor kost, inwoning en zakgeld, niet meer dan acht uur per dag werken met een maximum van 30 uur per week. De au pair heeft recht op minimaal twee vrije etmalen en daarnaast twee vrije avonden per week. De au pair mag alleen licht huishoudelijk werk doen. Voorbeelden hiervan zijn het opruimen van de kinderkamer, wassen en strijken van de kinderkleren, het bereiden van lichte maaltijden, oppassen en af en toe een boodschap doen. Partijen verplichten zich ertoe zich hieraan te zullen houden. Hiertoe hebben zij onderstaande tabel (weekindeling en alternatief) in overleg met elkaar ingevuld.
+
+### Artikel 2 – alternatief
+
+De au pair functioneert als gelijkwaardig lid van het gezin. Dit betekent dat de au pair geen werk mag verrichten waarvoor hij of zij onmisbaar is. Het gastgezin belooft dat de au pair niet alleen verantwoordelijk is voor het (licht) huishoudelijk werk of de verzorging van de kinderen, en dat er (bij afwezigheid van de au pair) te allen tijde alternatieve hulp of oppas aanwezig is of kan zijn. Het gastgezin geeft in onderstaande tabel aan welk lid op welke dag als alternatief voor de au pair fungeert of kan fungeren.
+
+### Artikel 3 – culturele uitwisseling
+
+5. ____________________________
+
+### Artikel 4 – zakgeld
+
+De au pair heeft recht op een vergoeding voor het werk dat de au pair in het gezin verricht. Deze vergoeding heeft de vorm van zakgeld en wordt niet als loon uitgekeerd omdat de au pair geen arbeid in de zin van de [Wet arbeid vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007149) (Wav) mag verrichten. Het bedrag mag niet hoger zijn dan € 340 per maand. Het gastgezin belooft een bedrag van € ________________ per maand aan de au pair te betalen.
+
+### Artikel 5 – geldigheid
+
+Deze overeenkomst is geldig vanaf het moment van ondertekenen en blijft van kracht tot op het moment dat de geldigheidsduur van de verblijfsvergunning van de au pair afloopt.
+
+### Artikel 6 – meldpunt au pairs 2Het meldpunt is tijdelijk ondergebracht bij de IND. Het telefoonnummer van het meldpunt is: (070) 370 3888.
+
+Ook het gastgezin heeft de mogelijkheid contact op te nemen met het meldpunt.
+
+### Artikel 7 – geschillenclausule
+
+Contractpartij (Hoofd(en)) Gastgezin,
 
 ## Model M141. Verzoek om advies voor afgifte machtiging tot voorlopig verblijf kennismigrant
