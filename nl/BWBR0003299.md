@@ -4,7 +4,7 @@ identifier: "BWBR0003299"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2006-01-01"
+last_updated: "2006-10-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003299"
 soort: "wet"
@@ -46,31 +46,39 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 1
 
-In deze wet wordt onder onderscheid tussen mannen en vrouwen verstaan direct en indirect onderscheid tussen mannen en vrouwen. Onder direct onderscheid wordt mede verstaan, onderscheid op grond van zwangerschap, bevalling en moederschap.
+In deze wet wordt onder onderscheid verstaan direct en indirect onderscheid alsmede de opdracht tot het maken van onderscheid. Onder direct onderscheid wordt verstaan onderscheid tussen mannen en vrouwen. Onder direct onderscheid wordt mede verstaan, onderscheid op grond van zwangerschap, bevalling en moederschap.
 
 Onder indirect onderscheid wordt verstaan onderscheid op grond van andere hoedanigheden dan het geslacht, bijvoorbeeld echtelijke staat of gezinsomstandigheden, dat onderscheid op grond van geslacht tot gevolg heeft.
 
 ##### Artikel 1a
 
-1. In de openbare dienst mag het bevoegd gezag geen onderscheid maken tussen mannen en vrouwen bij de aanstelling tot ambtenaar of indienstneming op arbeidsovereenkomst naar burgerlijk recht, in de arbeidsvoorwaarden, bij het verstrekken van onderricht, bij de bevordering en bij de beëindiging van het dienstverband.
+1. Het in deze wet neergelegde verbod van direct onderscheid houdt mede in een verbod op intimidatie en een verbod op seksuele intimidatie.
+
+2. Onder intimidatie als bedoeld in het eerste lid wordt verstaan: gedrag dat met het geslacht van een persoon verband houdt en dat tot doel of gevolg heeft dat de waardigheid van de persoon wordt aangetast en dat een bedreigende, vijandige, beledigende, vernederende of kwetsende omgeving wordt gecreëerd.
+
+3. Onder seksuele intimidatie als bedoeld in het eerste lid wordt verstaan: enige vorm van verbaal, non-verbaal of fysiek gedrag met een seksuele connotatie dat als doel of gevolg heeft dat de waardigheid van de persoon wordt aangetast, in het bijzonder wanneer een bedreigende, vijandige, beledigende, vernederende of kwetsende situatie wordt gecreëerd.
+
+4. Het is niet toegelaten een persoon te benadelen wegens de omstandigheid dat deze het in het tweede en derde lid bedoelde gedrag afwijst of lijdzaam ondergaat.
+
+5. De [artikelen 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=1&artikel=3&z=2006-10-18&g=2006-10-18), [4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=1&artikel=4&z=2006-10-18&g=2006-10-18), en [5, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=1&artikel=5&z=2006-10-18&g=2006-10-18), zijn niet van toepassing op het verbod van intimidatie en seksuele intimidatie, bedoeld in het eerste lid.
+
+##### Artikel 1b
+
+1. In de openbare dienst mag het bevoegd gezag geen onderscheid maken bij de aanstelling tot ambtenaar of indienstneming op arbeidsovereenkomst naar burgerlijk recht, in de arbeidsvoorwaarden, bij de arbeidsomstandigheden, bij het verstrekken van onderricht, bij de bevordering en bij de beëindiging van het dienstverband.
 
 2. Tot de openbare dienst, bedoeld in het eerste lid, worden gerekend alle instellingen, diensten en bedrijven door de staat en de openbare lichamen beheerd.
 
 3. Van het in het eerste lid bepaalde mag worden afgeweken in de gevallen waarin het de bescherming van de vrouw betreft, met name in verband met zwangerschap en moederschap.
 
-4. Het bevoegd gezag mag het dienstverband van degene die krachtens aanstelling of op arbeidsovereenkomst naar burgerlijk recht werkzaam is in openbare dienst niet beëindigen wegens de omstandigheid, dat betrokkene in of buiten rechte een beroep heeft gedaan op het in het eerste lid bepaalde.
+4. Het bevoegd gezag mag het dienstverband van degene die krachtens aanstelling of arbeidsovereenkomst naar burgerlijk recht werkzaam is in de openbare dienst niet beëindigen of betrokkene niet anderszins benadelen wegens de omstandigheid dat deze in of buiten rechte een beroep heeft gedaan op het in het eerste lid bepaalde of terzake bijstand heeft verleend.
 
-5. De beëindiging van de arbeidsovereenkomst van degene die op arbeidsovereenkomst naar burgerlijk recht werkzaam is in openbare dienst door het bevoegd gezag in strijd met deze wet, is vernietigbaar. Artikel 647 van Boek 7 van het Burgerlijk Wetboek is van overeenkomstige toepassing.
+5. De beëindiging van de arbeidsovereenkomst van degene die op arbeidsovereenkomst naar burgerlijk recht werkzaam is in openbare dienst door het bevoegd gezag in strijd met deze wet, is vernietigbaar. [Artikel 647 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=647) is van overeenkomstige toepassing.
 
 6. Elk beding dat strijdig is met het in het eerste lid bepaalde is nietig.
 
-##### Artikel 1b
-
-Ingeval een natuurlijke persoon, rechtspersoon of bevoegd gezag een ander onder zijn gezag arbeid laat verrichten, anders dan krachtens arbeidsovereenkomst naar burgerlijk recht of ambtelijke aanstelling, zijn de artikelen 646 en 647 van Boek 7 van het Burgerlijk Wetboek van overeenkomstige toepassing.
-
 ##### Artikel 2
 
-1. Het is niet toegelaten onderscheid te maken tussen mannen en vrouwen met betrekking tot de voorwaarden voor de toegang tot en de mogelijkheden tot uitoefening van en ontplooiing binnen het vrije beroep, alsmede wat betreft regelingen tussen beroepsgenoten inzake sociale zekerheid niet zijnde pensioenvoorzieningen als bedoeld in [artikel 12a](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=3&artikel=12a&z=2006-01-01&g=2006-01-01).
+1. Het is niet toegelaten onderscheid te maken met betrekking tot de voorwaarden voor de toegang tot en de mogelijkheden tot uitoefening van en ontplooiing binnen het vrije beroep, alsmede wat betreft regelingen tussen beroepsgenoten inzake sociale zekerheid niet zijnde pensioenvoorzieningen als bedoeld in [artikel 12a](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=3&artikel=12a&z=2006-10-18&g=2006-10-18).
 
 2. Indien een regeling als bedoeld in het eerste lid betrekking heeft op ziekte of arbeidsongeschiktheid mag daarin geen uitzondering worden gemaakt voor zwangerschap en bevalling, onverminderd de bevoegdheid bepalingen op te nemen ter voorkoming van misbruik en oneigenlijk gebruik.
 
@@ -78,9 +86,9 @@ Ingeval een natuurlijke persoon, rechtspersoon of bevoegd gezag een ander onder 
 
 ##### Artikel 3
 
-1. Het is niet toegelaten bij de aanbieding van een betrekking of bij de behandeling bij de vervulling van een openstaande betrekking onderscheid te maken tussen mannen en vrouwen.
+1. Het is niet toegelaten onderscheid te maken bij de aanbieding van een betrekking, bij de behandeling bij de vervulling van een openstaande betrekking of bij arbeidsbemiddeling.
 
-2. Van het in het eerste lid bepaalde mag worden afgeweken in die gevallen waarin ingevolge deze of enige andere wet bij het aanbieden van een betrekking onderscheid tussen mannen en vrouwen mag worden gemaakt en, voor zover het betreft een openlijke aanbieding van een betrekking, de grond voor dat onderscheid daarbij uitdrukkelijk wordt vermeld.
+2. Van het in het eerste lid bepaalde mag worden afgeweken in die gevallen waarin ingevolge deze of enige andere wet bij het aanbieden van een betrekking onderscheid mag worden gemaakt en, voor zover het betreft een openlijke aanbieding van een betrekking, de grond voor dat onderscheid daarbij uitdrukkelijk wordt vermeld.
 
 3. Het aanbieden van een betrekking, bedoeld in het eerste lid, geschiedt wat betreft tekst en vormgeving zodanig, dat duidelijk blijkt, dat zowel mannen als vrouwen in aanmerking komen.
 
@@ -90,23 +98,23 @@ Ingeval een natuurlijke persoon, rechtspersoon of bevoegd gezag een ander onder 
 
 ##### Artikel 4
 
-1. De natuurlijke persoon of de rechtspersoon die een beroepsopleiding, voortgezette beroepsopleiding of cursus voor bijscholing of omscholing onder welke benaming dan ook in stand houdt, dan wel de natuurlijke persoon of rechtspersoon die een examen verband houdend met de hiervoor bedoelde opleidingen of cursussen afneemt, mag bij de toelating tot en de behandeling binnen de opleiding, dan wel bij het afnemen van het examen, geen onderscheid maken tussen mannen en vrouwen noch ten aanzien van de criteria noch ten aanzien van de niveaus.
+1. De natuurlijke persoon of de rechtspersoon die een beroepsopleiding, voortgezette beroepsopleiding of cursus voor bijscholing of omscholing onder welke benaming dan ook in stand houdt, dan wel de natuurlijke persoon of rechtspersoon die een examen verband houdend met de hiervoor bedoelde opleidingen of cursussen afneemt, mag bij de toelating tot en de behandeling binnen de opleiding, dan wel bij het afnemen van het examen, geen onderscheid maken noch ten aanzien van de criteria noch ten aanzien van de niveaus.
 
-2. Van het in [het eerste lid van dit artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=1&artikel=4&z=2006-01-01&g=2006-01-01) bepaalde mag, behoudens voor wat betreft het afnemen van het examen en mits voor leerlingen van beide geslachten gelijkwaardige voorzieningen aanwezig zijn, worden afgeweken indien de eigen aard van een instelling voor bijzonder onderwijs zich tegen het in dat lid bepaalde verzet.
+2. Van het in het eerste lid van dit artikel bepaalde mag, behoudens voor wat betreft het afnemen van het examen en mits voor leerlingen van beide geslachten gelijkwaardige voorzieningen aanwezig zijn, worden afgeweken indien de eigen aard van een instelling voor bijzonder onderwijs zich tegen het in dat lid bepaalde verzet.
 
 3. Iedere bepaling die strijdig is met het in het eerste lid bepaalde, is nietig.
 
 ##### Artikel 5
 
-1. Van het in [de artikelen 1**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=1&artikel=1a&z=2006-01-01&g=2006-01-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=1&artikel=2&z=2006-01-01&g=2006-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=1&artikel=3&z=2006-01-01&g=2006-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=1&artikel=4&z=2006-01-01&g=2006-01-01) bepaalde mag worden afgeweken indien het gemaakte onderscheid beoogt vrouwen in een bevoorrechte positie te plaatsen teneinde feitelijke ongelijkheden op te heffen of te verminderen en het onderscheid in een redelijke verhouding staat tot het beoogde doel.
+1. Van het in de [artikelen 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=1&artikel=1b&z=2006-10-18&g=2006-10-18), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=1&artikel=2&z=2006-10-18&g=2006-10-18), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=1&artikel=3&z=2006-10-18&g=2006-10-18) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=1&artikel=4&z=2006-10-18&g=2006-10-18) bepaalde mag worden afgeweken indien het gemaakte onderscheid beoogt vrouwen in een bevoorrechte positie te plaatsen teneinde nadelen op te heffen of te verminderen en het onderscheid in een redelijke verhouding staat tot het beoogde doel.
 
-2. Voor zover het betreft de toegang tot beroepsactiviteiten of de hiervoor noodzakelijke opleidingen mag van het in [de artikelen 1**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=1&artikel=1a&z=2006-01-01&g=2006-01-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=1&artikel=2&z=2006-01-01&g=2006-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=1&artikel=3&z=2006-01-01&g=2006-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=1&artikel=4&z=2006-01-01&g=2006-01-01) bepaalde worden afgeweken in gevallen waarin vanwege de aard of de voorwaarden voor de uitoefening van de betreffende beroepsactiviteit het geslacht bepalend is.
+2. Voor zover het betreft de toegang tot beroepsactiviteiten of de hiervoor noodzakelijke opleidingen mag van de [artikelen 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=1&artikel=1b&z=2006-10-18&g=2006-10-18), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=1&artikel=2&z=2006-10-18&g=2006-10-18), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=1&artikel=3&z=2006-10-18&g=2006-10-18) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=1&artikel=4&z=2006-10-18&g=2006-10-18) worden afgeweken indien het gemaakte onderscheid is gebaseerd op een kenmerk dat verband houdt met het geslacht en dat kenmerk wegens de aard van de betrokken specifieke beroepsactiviteiten of de context waarin deze worden uitgevoerd, een wezenlijk en bepalend beroepsvereiste is, mits het doel legitiem is en het vereiste evenredig aan dat doel is.
 
-3. Als beroepsactiviteiten en hiervoor noodzakelijke opleidingen waarvoor vanwege hun aard of de voorwaarden voor de uitoefening ervan het geslacht bepalend kan zijn, worden slechts beschouwd die welke behoren tot respectievelijk opleiden voor geestelijke ambten dan wel beroepsactiviteiten die bij algemene maatregel van bestuur zijn aangewezen.
+3. Als beroepsactiviteiten en hiervoor noodzakelijke opleidingen waarvoor een kenmerk als bedoeld in het tweede lid, een wezenlijk en bepalend beroepsvereiste is, worden slechts beschouwd die welke behoren tot respectievelijk opleiden voor geestelijke ambten dan wel beroepsactiviteiten die bij algemene maatregel van bestuur zijn aangewezen.
 
 ##### Artikel 6
 
-Het in deze wet neergelegde verbod van onderscheid geldt niet ten aanzien van indirect onderscheid dat objectief gerechtvaardigd is.
+Het in deze wet neergelegde verbod van onderscheid geldt niet ten aanzien van indirect onderscheid, indien dat onderscheid objectief gerechtvaardigd wordt door een legitiem doel en de middelen voor het bereiken van dat doel passend en noodzakelijk zijn.
 
 ##### Artikel 6a
 
@@ -122,19 +130,19 @@ Indien degene die meent dat te zijnen nadeel een onderscheid is of wordt gemaakt
 
 ##### Artikel 8
 
-Voor de toepassing van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=2&artikel=7&z=2006-01-01&g=2006-01-01) wordt arbeid gewaardeerd volgens een deugdelijk stelsel van functiewaardering, waarbij zoveel mogelijk wordt aangesloten bij het stelsel dat gebruikelijk is in de onderneming waarin de belanghebbende werknemer werkzaam is. Bij gebreke van een zodanig stelsel wordt de arbeid, gelet op de beschikbare gegevens, naar billijkheid gewaardeerd.
+Voor de toepassing van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=2&artikel=7&z=2006-10-18&g=2006-10-18) wordt arbeid gewaardeerd volgens een deugdelijk stelsel van functiewaardering, waarbij zoveel mogelijk wordt aangesloten bij het stelsel dat gebruikelijk is in de onderneming waarin de belanghebbende werknemer werkzaam is. Bij gebreke van een zodanig stelsel wordt de arbeid, gelet op de beschikbare gegevens, naar billijkheid gewaardeerd.
 
 ##### Artikel 9
 
-1. Voor de toepassing van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=2&artikel=7&z=2006-01-01&g=2006-01-01) wordt het loon van de belanghebbende werknemer geacht gelijk te zijn aan het loon dat een werknemer van de andere kunne voor arbeid van gelijke waarde pleegt te ontvangen, indien het is berekend op grondslag van gelijkwaardige maatstaven.
+1. Voor de toepassing van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=2&artikel=7&z=2006-10-18&g=2006-10-18) wordt het loon van de belanghebbende werknemer geacht gelijk te zijn aan het loon dat een werknemer van de andere kunne voor arbeid van gelijke waarde pleegt te ontvangen, indien het is berekend op grondslag van gelijkwaardige maatstaven.
 
-2. Voor de toepassing van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=2&artikel=7&z=2006-01-01&g=2006-01-01) worden andere dan geldelijke loonbestanddelen in aanmerking genomen naar de waarde, welke daaraan in het economisch verkeer kan worden toegekend.
+2. Voor de toepassing van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=2&artikel=7&z=2006-10-18&g=2006-10-18) worden andere dan geldelijke loonbestanddelen in aanmerking genomen naar de waarde, welke daaraan in het economisch verkeer kan worden toegekend.
 
 3. Ingeval een arbeidsduur is overeengekomen, welke korter is dan die welke in overeenkomstige arbeidsverhoudingen in de regel geacht wordt een volledige dienstbetrekking te vormen, wordt het loon, voorzover het naar tijdsduur wordt berekend, naar evenredigheid verminderd.
 
 ##### Artikel 10
 
-Bij algemene maatregel van bestuur kunnen nadere regelen worden gesteld omtrent het in de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=2&artikel=7&z=2006-01-01&g=2006-01-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=2&artikel=8&z=2006-01-01&g=2006-01-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=2&artikel=9&z=2006-01-01&g=2006-01-01) bepaalde.
+Bij algemene maatregel van bestuur kunnen nadere regelen worden gesteld omtrent het in de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=2&artikel=7&z=2006-10-18&g=2006-10-18), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=2&artikel=8&z=2006-10-18&g=2006-10-18) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=2&artikel=9&z=2006-10-18&g=2006-10-18) bepaalde.
 
 ##### Artikel 11
 
@@ -142,7 +150,7 @@ Vervallen
 
 ##### Artikel 12
 
-Bij de toepassing van [de artikelen 1**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=1&artikel=1a&z=2006-01-01&g=2006-01-01) en [1**b**](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=1&artikel=1b&z=2006-01-01&g=2006-01-01) van deze wet is deze paragraaf van overeenkomstige toepassing.
+Bij de toepassing van de [artikelen 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=1&artikel=1b&z=2006-10-18&g=2006-10-18) en [1c](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=1&artikel=1c&z=2006-10-18&g=2006-10-18) van deze wet is deze paragraaf van overeenkomstige toepassing.
 
 #### § 3. Gelijke behandeling wat betreft pensioenvoorzieningen
 
@@ -152,21 +160,21 @@ Voor de toepassing van het in deze paragraaf bepaalde wordt verstaan onder pensi
 
 ##### Artikel 12b
 
-1. Het is ook aan anderen dan de werkgever bedoeld in artikel 646 van Boek 7 van het Burgerlijk Wetboek of het bevoegd gezag bedoeld in [artikel 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=1&artikel=1a&z=2006-01-01&g=2006-01-01) niet toegestaan onderscheid te maken tussen mannen en vrouwen wat betreft de bepaling van de kring van personen voor wie een pensioenvoorziening tot stand wordt gebracht, wat betreft de bepaling van de inhoud van een pensioenvoorziening of wat betreft de wijze van uitvoering daarvan.
+1. Het is ook aan anderen dan de werkgever bedoeld in [artikel 646 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=646) of het bevoegd gezag bedoeld in [artikel 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=1&artikel=1b&z=2006-10-18&g=2006-10-18) niet toegestaan onderscheid te maken wat betreft de bepaling van de kring van personen voor wie een pensioenvoorziening tot stand wordt gebracht, wat betreft de bepaling van de inhoud van een pensioenvoorziening of wat betreft de wijze van uitvoering daarvan.
 
-2. Bepalingen krachtens welke de verwerving van pensioenaanspraken wordt onderbroken gedurende de periode van zwangerschaps- en bevallingsverlof op grond van een wettelijke bepaling of overeenkomst, worden voor de toepassing van artikel 646 van Boek 7 van het Burgerlijk Wetboek, [artikel 1a en het eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=1&artikel=1a&z=2006-01-01&g=2006-01-01) beschouwd als strijdig met het verbod van ongelijke behandeling van mannen en vrouwen.
+2. Bepalingen krachtens welke de verwerving van pensioenaanspraken wordt onderbroken gedurende de periode van zwangerschaps- en bevallingsverlof op grond van een wettelijke bepaling of overeenkomst, worden voor de toepassing van [artikel 646 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=646), [artikel 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=1&artikel=1b&z=2006-10-18&g=2006-10-18) en het eerste lid beschouwd als strijdig met het verbod van ongelijke behandeling van mannen en vrouwen.
 
 ##### Artikel 12c
 
-1. Indien het pensioen niet wordt berekend op grond van de geldelijke bijdrage van de werkgever ten behoeve van de aan diens onderneming verbonden persoon dan wel van de tot de betrokken tak van beroep behorende persoon, blijft de omvang van de geldelijke bijdrage van de werkgever voor de toepassing van [artikel 646 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=646) en van de [artikelen 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=1&artikel=1a&z=2006-01-01&g=2006-01-01) en [12b](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=3&artikel=12b&z=2006-01-01&g=2006-01-01) buiten beschouwing, voor zover dat gerechtvaardigd is in verband met voor mannen en vrouwen verschillende actuariële berekeningselementen.
+1. Indien het pensioen niet wordt berekend op grond van de geldelijke bijdrage van de werkgever ten behoeve van de aan diens onderneming verbonden persoon dan wel van de tot de betrokken tak van beroep behorende persoon, blijft de omvang van de geldelijke bijdrage van de werkgever voor de toepassing van [artikel 646 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=646) en van de [artikelen 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=1&artikel=1b&z=2006-10-18&g=2006-10-18) en [12b](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=3&artikel=12b&z=2006-10-18&g=2006-10-18) buiten beschouwing, voor zover dat gerechtvaardigd is in verband met voor mannen en vrouwen verschillende actuariële berekeningselementen.
 
-2. Indien het pensioen wordt berekend of mede wordt berekend op grond van de geldelijke bijdrage van de werkgever ten behoeve van de aan diens onderneming verbonden persoon blijft de omvang van de geldelijke bijdrage van de werkgever voor de toepassing van [artikel 646 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=646) en van de [artikelen 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=1&artikel=1a&z=2006-01-01&g=2006-01-01) en [12b](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=3&artikel=12b&z=2006-01-01&g=2006-01-01) buiten beschouwing en wordt:
+2. Indien het pensioen wordt berekend of mede wordt berekend op grond van de geldelijke bijdrage van de werkgever ten behoeve van de aan diens onderneming verbonden persoon blijft de omvang van de geldelijke bijdrage van de werkgever voor de toepassing van [artikel 646 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=646) en van de [artikelen 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=1&artikel=1b&z=2006-10-18&g=2006-10-18) en [12b](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=3&artikel=12b&z=2006-10-18&g=2006-10-18) buiten beschouwing en wordt:
 
 - a. of de omvang van dat pensioen voor mannen en vrouwen gelijk getrokken;
 
 - b. of die geldelijke bijdrage zodanig vastgesteld dat naar het inzicht op het tijdstip van vaststelling, de omvang van de pensioenen voor mannen en vrouwen gelijk wordt getrokken.
 
-3. Indien het pensioen niet wordt berekend op grond van de geldelijke bijdrage van de tot de betrokken tak van beroep behorende persoon blijft de omvang van de geldelijke bijdrage voor de toepassing van [artikel 12b](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=3&artikel=12b&z=2006-01-01&g=2006-01-01) buiten beschouwing voor zover dat gerechtvaardigd is in verband met voor mannen en vrouwen verschillende actuariële berekeningselementen.
+3. Indien het pensioen niet wordt berekend op grond van de geldelijke bijdrage van de tot de betrokken tak van beroep behorende persoon blijft de omvang van de geldelijke bijdrage voor de toepassing van [artikel 12b](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=3&artikel=12b&z=2006-10-18&g=2006-10-18) buiten beschouwing voor zover dat gerechtvaardigd is in verband met voor mannen en vrouwen verschillende actuariële berekeningselementen.
 
 4. Indien het pensioen wordt berekend of mede wordt berekend op grond van de geldelijke bijdrage van de tot de betrokken beroepsgroep behorende persoon wordt de omvang van dat pensioen voor mannen en vrouwen gelijk getrokken.
 
@@ -174,15 +182,15 @@ Voor de toepassing van het in deze paragraaf bepaalde wordt verstaan onder pensi
 
 ##### Artikel 12d
 
-In afwijking van [artikel 12b](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=3&artikel=12b&z=2006-01-01&g=2006-01-01) zijn toegestaan bepalingen die betrekking hebben op bescherming van de vrouw met name in verband met zwangerschap en moederschap.
+In afwijking van [artikel 12b](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=3&artikel=12b&z=2006-10-18&g=2006-10-18) zijn toegestaan bepalingen die betrekking hebben op bescherming van de vrouw met name in verband met zwangerschap en moederschap.
 
 ##### Artikel 12e
 
-Iedere bepaling die strijdig is met het verbod van ongelijke behandeling van mannen en vrouwen bedoeld in [artikel 12b](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=3&artikel=12b&z=2006-01-01&g=2006-01-01) is nietig.
+Iedere bepaling die strijdig is met het verbod van ongelijke behandeling van mannen en vrouwen bedoeld in [artikel 12b](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=3&artikel=12b&z=2006-10-18&g=2006-10-18) is nietig.
 
 ##### Artikel 12f
 
-Het bepaalde in [artikel 647 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=647) is van overeenkomstige toepassing bij beëindiging van de dienstbetrekking door de werkgever wegens de omstandigheid dat de werknemer in of buiten rechte een beroep heeft gedaan op het bepaalde in [artikel 12b](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=3&artikel=12b&z=2006-01-01&g=2006-01-01).
+Het bepaalde in [artikel 647 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=647) is van overeenkomstige toepassing bij beëindiging van de dienstbetrekking door de werkgever wegens de omstandigheid dat de werknemer in of buiten rechte een beroep heeft gedaan op het bepaalde in [artikel 12b](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=3&artikel=12b&z=2006-10-18&g=2006-10-18).
 
 ##### Artikel 13
 
@@ -226,7 +234,7 @@ Vervallen
 
 1. Met het toezicht op de naleving van [artikel 646 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=646) en van het bepaalde bij of krachtens deze wet, zijn belast de bij besluit van Onze Minister van Sociale Zaken en Werkgelegenheid aangewezen ambtenaren. Onze Minister van Sociale Zaken en Werkgelegenheid kan ten behoeve van dit toezicht een onderzoek doen instellen door die ambtenaren. Voorzover het de openbare dienst betreft kan Onze Minister van Binnenlandse Zaken Onze Minister van Sociale Zaken en Werkgelegenheid verzoeken een onderzoek als bedoeld in de tweede volzin te doen instellen. Van een besluit als bedoeld in de eerste volzin wordt mededeling gedaan door plaatsing in de **Staatscourant**.
 
-2. Indien uit een onderzoek blijkt dat een onderscheid is of wordt gemaakt als bedoeld in [artikel 646 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=646) of in deze wet doet Onze Minister van Sociale Zaken en Werkgelegenheid hiervan mededeling aan de natuurlijke persoon, rechtspersoon of het bevoegde gezag dat het onderscheid heeft gemaakt of maakt, en, indien het een onderscheid als bedoeld in [artikel 646 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=646) of [artikel 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=1&artikel=1a&z=2006-01-01&g=2006-01-01) of [artikel 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=1&artikel=1b&z=2006-01-01&g=2006-01-01) van deze wet betreft, aan de betrokken ondernemingsraad of het daarmee vergelijkbare medezeggenschapsorgaan, alsmede aan de daarvoor in aanmerking komende organisaties van werkgevers, van werknemers, uit het beroepsleven of van overheidspersoneel.
+2. Indien uit een onderzoek blijkt dat een onderscheid is of wordt gemaakt als bedoeld in [artikel 646 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=646) of in deze wet doet Onze Minister van Sociale Zaken en Werkgelegenheid hiervan mededeling aan de natuurlijke persoon, rechtspersoon of het bevoegde gezag dat het onderscheid heeft gemaakt of maakt, en, indien het een onderscheid als bedoeld in [artikel 646 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=646) of [artikel 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=1&artikel=1b&z=2006-10-18&g=2006-10-18) of [artikel 1c](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=1&artikel=1c&z=2006-10-18&g=2006-10-18) van deze wet betreft, aan de betrokken ondernemingsraad of het daarmee vergelijkbare medezeggenschapsorgaan, alsmede aan de daarvoor in aanmerking komende organisaties van werkgevers, van werknemers, uit het beroepsleven of van overheidspersoneel.
 
 De mededeling aan de betrokken ondernemingsraad of het daarmee vergelijkbare medezeggenschapsorgaan, alsmede aan de daarvoor in aanmerking komende organisaties van werkgevers, van werknemers, uit het beroepsleven of van overheidspersoneel bevat geen gegevens waaruit de identiteit van de in het onderzoek betrokken personen ten nadele van wie het onderscheid is of wordt gemaakt kan worden afgeleid.
 
@@ -236,12 +244,30 @@ Vervallen
 
 ##### Artikel 23
 
-De voordracht tot wijziging van een algemene maatregel van bestuur als bedoeld in [artikel 5, derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=1&artikel=5&z=2006-01-01&g=2006-01-01), en de voordracht voor een algemene maatregel van bestuur als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=2&artikel=10&z=2006-01-01&g=2006-01-01) wordt niet gedaan dan nadat het ontwerp in de **Staatscourant** is bekendgemaakt en aan een ieder de gelegenheid is geboden om binnen vier weken na de dag waarop de bekendmaking is geschied, wensen en bedenkingen ter kennis van Onze minister te brengen. Gelijktijdig met de bekendmaking wordt het ontwerp aan de beide Kamers der Staten-Generaal overgelegd.
+De voordracht tot wijziging van een algemene maatregel van bestuur als bedoeld in [artikel 5, derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=1&artikel=5&z=2006-10-18&g=2006-10-18), en de voordracht voor een algemene maatregel van bestuur als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=2&artikel=10&z=2006-10-18&g=2006-10-18) wordt niet gedaan dan nadat het ontwerp in de **Staatscourant** is bekendgemaakt en aan een ieder de gelegenheid is geboden om binnen vier weken na de dag waarop de bekendmaking is geschied, wensen en bedenkingen ter kennis van Onze minister te brengen. Gelijktijdig met de bekendmaking wordt het ontwerp aan de beide Kamers der Staten-Generaal overgelegd.
 
 ##### Artikel 24
 
 1. Deze wet kan worden aangehaald als: Wet gelijke behandeling van mannen en vrouwen.
 
 2. Deze wet treedt in werking met ingang van de tweede dag na de datum van uitgifte van het **Staatsblad** waarin zij wordt geplaatst.
+
+Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 1c
+
+Ingeval een natuurlijke persoon, rechtspersoon of bevoegd gezag een ander onder zijn gezag arbeid laat verrichten, anders dan krachtens arbeidsovereenkomst naar burgerlijk recht of ambtelijke aanstelling, zijn de [artikelen 646](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=646) en [647 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=647) van overeenkomstige toepassing.
+
+##### Artikel 4a
+
+1. Het is niet toegelaten onderscheid te maken bij het lidmaatschap van of de betrokkenheid bij een werknemers- of werkgeversorganisatie of een vereniging van beroepsgenoten, alsmede bij de voordelen die uit dat lidmaatschap of uit die betrokkenheid voortvloeien.
+
+2. Iedere bepaling die in strijd is met het eerste lid is nietig.
+
+#### § 2. Gelijke beloning voor arbeid van gelijke waarde
+
+#### § 3. Gelijke behandeling wat betreft pensioenvoorzieningen
+
+#### § 4. Slotbepalingen
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
