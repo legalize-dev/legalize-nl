@@ -4,7 +4,7 @@ identifier: "BWBR0016766"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2006-10-27"
-last_updated: "2004-06-13"
+last_updated: "2006-10-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016766"
 soort: "ministeriele-regeling"
@@ -54,29 +54,27 @@ Het Adviescollege Landelijk management development brandweer heeft als taak aan 
 
 ##### Artikel 3
 
-1. Het Adviescollege Landelijk management development brandweer is als volgt samengesteld:
+Het Adviescollege LMD Brandweer is als volgt samengesteld:
 
-- a. mevrouw dr. G. ter Horst,burgemeester van gemeente Nijmegen, voorzitter Algemeen Bestuur en Dagelijks Bestuur van de Gemeenschappelijke Regeling Regionale Brandweer Gelderland Zuid, voorzitter;
+- a. de heer dr. R.L. Vreeman, burgemeester van gemeente Tilburg, voorzitter veiligheidsregio Midden en West Brabant, voorzitter;
 
-- b. de heer dr. R.L. Vreeman, burgemeester van gemeente Zaanstad, voorzitter regionaal bestuur regionale brandweer Zaanstreek;
+- b. mevrouw drs. A.Th.B. Bijleveld-Schouten, burgemeester van Hof van Twente, plaatsvervangend voorzitter;
 
-- c. de heer M.A. Fränzel, burgemeester van Woensdrecht;
+- c. de heer M.A. Fränzel, burgemeester van Woensdrecht, lid;
 
-- d. de heer ing. Th. Faber, vertegenwoordiger NVBR-bestuur, tevens commandant regionale brandweer Groningen en brandweer gemeente Groningen;
+- d. de heer ing. Th. Faber, vertegenwoordiger NVBR-bestuur, tevens commandant regionale brandweer Groningen en brandweer gemeente Groningen, lid;
 
-- e. de heer J.J. Rooijmans, commandant regionale brandweer Brabant Zuid-Oost en brandweer gemeente Eindhoven;
+- e. de heer J.J. Rooijmans, directeur Veiligheid van de hulpverleningsregio Zuid-Oost Brabant, lid;
 
-- f. de heer dr. P.L.J. Bos, commandant brandweer gemeente Zoetermeer;
+- f. de heer dr. P.L.J. Bos MCDm, commandant regionale brandweer Zuid-Holland-Zuid en brandweer gemeente Dordrecht, lid;
 
-- g. mevrouw drs. mr. C.M. Sjerps, secretaris College van Arbeidszaken van de Vereniging van Nederlandse Gemeenten te ’s-Gravenhage;
+- g. mevrouw drs. mr. C.M. Sjerps, secretaris College van Arbeidszaken van de Vereniging van Nederlandse Gemeenten te ’s-Gravenhage, lid;
 
-- h. de heer mr. D.K.W. Hendriks, gemeentesecretaris Edam-Volendam;
+- h. de heer mr. D.K.W. Hendriks, gemeentesecretaris Edam-Volendam, lid;
 
-- i. de heer ing. G.A.J.M. van Strien, directeur Rampenbeheersing en Brandweer van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties te ’s-Gravenhage;
+- i. mevrouw mr. A.L.C. Roelofs, directeur Brandweer en GHOR van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties te ’s-Gravenhage, lid;
 
-Mevrouw ing. H.W.M. Blaauw, hoofd unit Landelijk Management Development Brandweer van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties te ’s-Gravenhage treedt op als secretaris.
-
-2. De Minister van Binnenlandse Zaken en Koninkrijksrelaties voorziet in de opvolging en tussentijdse vervanging van de leden.
+- j. mevrouw ing. H.W.M. Blaauw, hoofd unit Landelijk Management Development Brandweer van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties te ’s-Gravenhage, secretaris.
 
 ##### Artikel 4
 
