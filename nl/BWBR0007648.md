@@ -4,7 +4,7 @@ identifier: "BWBR0007648"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-08-27"
-last_updated: "2006-01-01"
+last_updated: "2006-11-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007648"
 soort: "AMvB"
@@ -68,11 +68,11 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 3
 
-In afwijking van [artikel 2, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0007648&artikel=2&z=2006-01-01&g=2006-01-01), kunnen degenen die de bevoegdheid hadden verkregen of waren toegelaten tot de uitoefening van een in artikel 104, vierde lid, van de wet genoemd beroep, dan wel de bevoegdheid hadden verkregen tot het voeren van de titel van verpleegkundige vóór het tijdstip waarop artikel 3, eerste lid, van de wet ten aanzien van het desbetreffende beroep in werking is getreden, bij de indiening van de aanvrage om inschrijving, behalve het in [artikel 2, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0007648&artikel=2&z=2006-01-01&g=2006-01-01), bedoelde formulier, een fotokopie verstrekken van het getuigschrift of de beschikking waaraan zij de desbetreffende bevoegdheid of toelating ontlenen.
+In afwijking van [artikel 2, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0007648&artikel=2&z=2006-11-01&g=2006-11-01), kunnen degenen die de bevoegdheid hadden verkregen of waren toegelaten tot de uitoefening van een in artikel 104, vierde lid, van de wet genoemd beroep, dan wel de bevoegdheid hadden verkregen tot het voeren van de titel van verpleegkundige vóór het tijdstip waarop artikel 3, eerste lid, van de wet ten aanzien van het desbetreffende beroep in werking is getreden, bij de indiening van de aanvrage om inschrijving, behalve het in [artikel 2, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0007648&artikel=2&z=2006-11-01&g=2006-11-01), bedoelde formulier, een fotokopie verstrekken van het getuigschrift of de beschikking waaraan zij de desbetreffende bevoegdheid of toelating ontlenen.
 
 ##### Artikel 4
 
-Bij het indienen van een aanvrage als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0007648&artikel=2&z=2006-01-01&g=2006-01-01) wordt een bedrag van € 59 betaald.
+Bij het indienen van een aanvrage als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0007648&artikel=2&z=2006-11-01&g=2006-11-01) wordt een bedrag van € 80 betaald.
 
 ##### Artikel 5
 
@@ -90,9 +90,9 @@ Aan een ieder die dat verlangt, wordt meegedeeld hetgeen in het register staat a
 
 ##### Artikel 7
 
-1. Van de totstandkoming van een inschrijving in een register met toepassing van artikel 41, derde lid, van de wet, en van de duur van die inschrijving of van de aard van de andere beperkingen die aan die inschrijving zijn verbonden, wordt kennis gegeven in de **Staatscourant** en, indien deze bekend zijn, aan de in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007648&artikel=5&z=2006-01-01&g=2006-01-01), bedoelde instanties.
+1. Van de totstandkoming van een inschrijving in een register met toepassing van artikel 41, derde lid, van de wet, en van de duur van die inschrijving of van de aard van de andere beperkingen die aan die inschrijving zijn verbonden, wordt kennis gegeven in de **Staatscourant** en, indien deze bekend zijn, aan de in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007648&artikel=5&z=2006-11-01&g=2006-11-01), bedoelde instanties.
 
-2. Van de doorhaling van een inschrijving die met toepassing van artikel 42, derde lid, eerste volzin, van de wet is geschied, en van de doorhaling van een met toepassing van artikel 41 van de wet tot stand gekomen inschrijving op grond van het intreden of bekend worden van omstandigheden als bedoeld in artikel 42, eerste lid, van de wet, ten aanzien van de betrokkene, wordt kennis gegeven aan de in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007648&artikel=5&z=2006-01-01&g=2006-01-01), bedoelde instanties, in een of meer dag- of weekbladen die in het gebied waarin de betrokkene zijn beroep uitoefent, worden verspreid en in de **Staatscourant**.
+2. Van de doorhaling van een inschrijving die met toepassing van artikel 42, derde lid, eerste volzin, van de wet is geschied, en van de doorhaling van een met toepassing van artikel 41 van de wet tot stand gekomen inschrijving op grond van het intreden of bekend worden van omstandigheden als bedoeld in artikel 42, eerste lid, van de wet, ten aanzien van de betrokkene, wordt kennis gegeven aan de in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007648&artikel=5&z=2006-11-01&g=2006-11-01), bedoelde instanties, in een of meer dag- of weekbladen die in het gebied waarin de betrokkene zijn beroep uitoefent, worden verspreid en in de **Staatscourant**.
 
 ##### Artikel 8
 
