@@ -121,39 +121,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 Dit besluit wordt aangehaald als: Besluit ontheffing verplichtingen WW en Wet WIA.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 4a. Ontheffing in verband met zorg voor pasgeboren kind bij overlijden van de moeder
-
-1. Het UWV kan aan een uitkeringsgerechtigde, die partner is als bedoeld in [artikel 3:1a, tweede lid, van de Wazo](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:1a), op diens aanvraag ontheffing verlenen van de verplichtingen, bedoeld in de [artikelen 30, eerste lid, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=30), [2:31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:31), en [2:39, derde lid, onderdelen e, f en g, van de Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:39), [30, eerste lid, van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=30), [24, eerste lid, onderdeel b, onder 1°, 2° en 4°, en 26, eerste lid, onderdelen d, f en g, van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=24), [12, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&artikel=12), [14, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&artikel=14), of [15, onderdelen a tot en met e, van de IOW](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&artikel=15), indien:
-
-- a. de moeder van het kind overlijdt:
-
-- 1°. tijdens het bevallingsverlof indien zij een werknemer is als bedoeld in [artikel 3:6, eerste lid, onderdeel a, en tweede lid, onderdeel a, van de Wazo](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:6);
-
-- 2°. tijdens de bevallingsuitkering indien zij gelijkgestelde als bedoeld in [artikel 3:6, eerste lid, onderdeel b, en tweede lid, onderdeel b, van de Wazo](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:6) of zelfstandige of beroepsbeoefenaar op arbeidsovereenkomst is als bedoeld in [artikel 3:17, eerste lid, onderdelen a en b, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:17); of
-
-- 3°. binnen tien weken na de dag van de geboorte van het kind indien de moeder geen recht had op bevallingsverlof of een bevallingsuitkering als bedoeld in [afdeling 2 van hoofdstuk 3 van de Wazo](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&afdeling=2); en
-
-- b. er een akte van geboorte van haar kind is opgemaakt.
-
-2. Deze ontheffing eindigt op de dag dat:
-
-- a. het bevallingsverlof van de moeder, die werknemer is als bedoeld in [artikel 3:6, eerste lid, onderdeel a, en tweede lid, onderdeel a, van de Wazo](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:6), zou zijn geëindigd;
-
-- b. de bevallingsuitkering van de moeder, die gelijkgestelde als bedoeld in [artikel 3:6, eerste lid, onderdeel b, en tweede lid, onderdeel b, van de Wazo](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:6) of zelfstandige of beroepsbeoefenaar op arbeidsovereenkomst is als bedoeld in [artikel 3:17, eerste lid, onderdelen a en b, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:17), zou zijn geëindigd; of
-
-- c. tien weken na de dag van de geboorte van het kind zijn verstreken, indien de moeder geen recht had op bevallingsverlof of een bevallingsuitkering als bedoeld in [afdeling 2 van hoofdstuk 3 van de Wazo](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&afdeling=2).
-
-3. Indien [artikel 3:1, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:1), of [artikel 3:18, tweede lid, van de Wazo](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:18) van toepassing, is eindigt de ontheffing, in afwijking van het tweede lid, na afloop van de overeenkomstig die artikelen geldende verlenging.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 1a. Aanvulling wettelijke grondslag
-
-Dit onderdeel is nog niet inwerking getreden
-
-##### Artikel 6a. Overgangsrecht
-
-Dit onderdeel is nog niet inwerking getreden
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
