@@ -4,7 +4,7 @@ identifier: "BWBR0032383"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-06-05"
-last_updated: "2006-10-01"
+last_updated: "2006-11-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032383"
 soort: "ministeriele-regeling"
@@ -49,7 +49,7 @@ De wijze waarop in de behoefte aan centra voor bijzondere perinatologische zorg 
 
 ##### Artikel 3
 
-Voor het uitvoeren van de verrichtingen als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032383&artikel=1&z=2001-09-13&g=2006-10-01) gelden de voorwaarden zoals aangegeven in de bijlage bij deze regeling.
+Voor het uitvoeren van de verrichtingen als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032383&artikel=1&z=2006-11-01&g=2006-11-01) gelden de voorwaarden zoals aangegeven in de bijlage bij deze regeling.
 
 ##### Artikel 4
 
@@ -143,6 +143,6 @@ Het spreekt voor zich dat de bij het verlenen van bijzondere perinatologische zo
 
 ### 8. Realisatie
 
-Met 'Zorg verzekerd' is een aanpak tot stand gebracht op basis van integrale financiële afspraken waarin ruimte zit voor alle soorten van productie-afspraken, dus ook voor WBMV-voorzieningen. Er is derhalve geen afzonderlijk taakstellend WBMV-kader meer. Alleen ten behoeve van een monitoring van de ontwikkelingen worden de WBMV-afspraken nog afzonderlijk bijgehouden. Voor de centra voor bijzondere perinatologische zorg kan dit geschieden middels informatie van het CTG. Voor dit onderwerp wordt bovendien door de VAZ en ZN een landelijke regie gevoerd. Het `boter bij de vis'-principe houdt in dat lokale verzekeraars met de ziekenhuizen productie-afspraken maken over alle zorg die zij voor de verzekerde nodig achten. Afrekening vindt plaats op basis van hetgeen hiervan daadwerkelijk is gerealiseerd. In dit principe wordt ook de WBMV-productie meegenomen.
+Met 'Zorg verzekerd' is een aanpak tot stand gebracht op basis van integrale financiële afspraken waarin ruimte zit voor alle soorten van productie-afspraken, dus ook voor WBMV-voorzieningen. Er is derhalve geen afzonderlijk taakstellend WBMV-kader meer. Alleen ten behoeve van een monitoring van de ontwikkelingen worden de WBMV-afspraken nog afzonderlijk bijgehouden. Voor de centra voor bijzondere perinatologische zorg kan dit geschieden middels informatie van de Nederlandse Zorgautoriteit. Voor dit onderwerp wordt bovendien door de VAZ en ZN een landelijke regie gevoerd. Het `boter bij de vis'-principe houdt in dat lokale verzekeraars met de ziekenhuizen productie-afspraken maken over alle zorg die zij voor de verzekerde nodig achten. Afrekening vindt plaats op basis van hetgeen hiervan daadwerkelijk is gerealiseerd. In dit principe wordt ook de WBMV-productie meegenomen.
 
 Deze regeling zal met bijbehorende bijlage en toelichting in de Staatscourant worden geplaatst.
