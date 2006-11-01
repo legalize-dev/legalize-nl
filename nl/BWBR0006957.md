@@ -4,7 +4,7 @@ identifier: "BWBR0006957"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2011-01-01"
-last_updated: "2006-10-01"
+last_updated: "2006-11-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006957"
 soort: "ministeriele-regeling"
@@ -62,7 +62,7 @@ Aan deze regeling kan geen aanspraak worden ontleend door degene aan wie op gron
 
 ##### Artikel 3
 
-Voor de beoordeling of voldaan is aan de in [artikel 2, onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0006957&artikel=2&z=2002-01-01&g=2006-10-01), genoemde voorwaarden alsmede omtrent de vaststelling van de geïndiceerde duur van de behandeling vraagt de Pensioen- en Uitkeringsraad een schriftelijk advies aan de psychiater of psychotherapeut/niet-psychiater, werkzaam bij de Centrale Vereniging Joodse Geestelijke Gezondheidszorg dan wel het Centrum '45, die tevens verbonden is aan het samenwerkingsverband Aanspreekpunt Na-oorlogse Generatie.
+Voor de beoordeling of voldaan is aan de in [artikel 2, onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0006957&artikel=2&z=2006-11-01&g=2006-11-01), genoemde voorwaarden alsmede omtrent de vaststelling van de geïndiceerde duur van de behandeling vraagt de Pensioen- en Uitkeringsraad een schriftelijk advies aan de psychiater of psychotherapeut/niet-psychiater, werkzaam bij de Centrale Vereniging Joodse Geestelijke Gezondheidszorg dan wel het Centrum '45, die tevens verbonden is aan het samenwerkingsverband Aanspreekpunt Na-oorlogse Generatie.
 
 ##### Artikel 4
 
@@ -70,7 +70,7 @@ Een vergoeding in de kosten van een behandeling reikt niet verder terug dan tot 
 
 ##### Artikel 5
 
-1. De vergoeding, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006957&artikel=2&z=2002-01-01&g=2006-10-01), bedraagt per zitting ten hoogste het op grond van de [Wet tarieven gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0003356) vastgestelde of goedgekeurde tarief.
+1. De vergoeding, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006957&artikel=2&z=2006-11-01&g=2006-11-01), bedraagt per zitting ten hoogste het op grond van de [Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078) vastgestelde tarief.
 
 2. De vergoeding wordt verleend tot een maximum van negentig zittingen, verminderd met een eigen bijdrage van € 9,08 per zitting tot een maximum van € 408,40 per jaar.
 
@@ -84,7 +84,7 @@ Een vergoeding in de kosten van een behandeling reikt niet verder terug dan tot 
 
 ##### Artikel 7
 
-Indien een behandeling reeds is aangevangen voor de datum van inwerkingtreding van deze regeling en op die datum nog niet is geëindigd kan een vergoeding van de kosten van die behandeling, in afwijking van [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006957&artikel=4&z=2002-01-01&g=2006-10-01), worden aangevraagd binnen acht weken na inwerkingtreding van deze regeling. Voor vergoeding komen in aanmerking de kosten van behandeling voorzover deze plaatsvindt na de datum van inwerkingtreding van deze regeling.
+Indien een behandeling reeds is aangevangen voor de datum van inwerkingtreding van deze regeling en op die datum nog niet is geëindigd kan een vergoeding van de kosten van die behandeling, in afwijking van [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006957&artikel=4&z=2006-11-01&g=2006-11-01), worden aangevraagd binnen acht weken na inwerkingtreding van deze regeling. Voor vergoeding komen in aanmerking de kosten van behandeling voorzover deze plaatsvindt na de datum van inwerkingtreding van deze regeling.
 
 ##### Artikel 8
 
