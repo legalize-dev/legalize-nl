@@ -4,7 +4,7 @@ identifier: "BWBR0019505"
 country: "nl"
 rank: "zbo"
 publication_date: "2006-11-06"
-last_updated: "2006-01-01"
+last_updated: "2006-11-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019505"
 soort: "zbo"
@@ -97,7 +97,7 @@ Het College kan de subsidieontvanger voorschotten verlenen.
 
 ##### Artikel 7
 
-De [artikelen 1 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0019505&artikel=1&z=2006-11-06&g=2006-01-01) zijn van overeenkomstige toepassing ten aanzien van de financiële gevolgen als bedoeld in [artikel 12a van de Wet ambulancevervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0002757&artikel=12a).
+De [artikelen 1 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0019505&artikel=1&z=2006-11-06&g=2006-11-06) zijn van overeenkomstige toepassing ten aanzien van de financiële gevolgen als bedoeld in [artikel 12a van de Wet ambulancevervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0002757&artikel=12a).
 
 ##### Artikel 8
 
