@@ -4,7 +4,7 @@ identifier: "BWBR0019496"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2006-11-09"
-last_updated: "2006-02-22"
+last_updated: "2006-11-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019496"
 soort: "ministeriele-regeling"
@@ -86,7 +86,7 @@ Op aanvraag kan de minister een tegemoetkoming voor de in de schadeperiode veroo
 
 ##### Artikel 4
 
-1. De ingevolge [artikel 2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0019496&paragraaf=1&artikel=2&z=2006-02-22&g=2006-02-22), in aanmerking te nemen schade wordt vastgesteld volgens de formule:
+1. De ingevolge [artikel 2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0019496&paragraaf=1&artikel=2&z=2006-11-09&g=2006-11-09), in aanmerking te nemen schade wordt vastgesteld volgens de formule:
 
 A × B – C = D
 
@@ -94,7 +94,7 @@ waarbij:
 
 A = de totale oppervlakte die in het jaar 2002 op het bedrijf was beteeld met het betreffende gewas;
 
-B = het in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019496&bijlage=1&z=2006-02-22&g=2006-02-22) voor het betreffende gewas vastgestelde normbedrag voor de opbrengst. Indien daarbij een jaaraanwas is gegeven, wordt het normbedrag vermenigvuldigd met het aantal jaren dat de teelt van het betreffende gewas was gevorderd op het moment van de schade;
+B = het in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019496&bijlage=1&z=2006-11-09&g=2006-11-09) voor het betreffende gewas vastgestelde normbedrag voor de opbrengst. Indien daarbij een jaaraanwas is gegeven, wordt het normbedrag vermenigvuldigd met het aantal jaren dat de teelt van het betreffende gewas was gevorderd op het moment van de schade;
 
 C = de gerealiseerde opbrengst op basis van de marktwaarde;
 
@@ -106,21 +106,21 @@ D / (A × B) ≥ 0,3.
 
 3. De tegemoetkoming bedraagt 75% van de in aanmerking te nemen schade per gewas.
 
-4. Indien de aanvrager geen gebruik heeft gemaakt van de landbouwregeling, bedoeld in [artikel 27 van de Wet op de omzetbelasting](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=27) wordt het in aanmerking te nemen schadebedrag, berekend op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0019496&paragraaf=2&artikel=4&z=2006-02-22&g=2006-02-22), met 6/106e deel verminderd.
+4. Indien de aanvrager geen gebruik heeft gemaakt van de landbouwregeling, bedoeld in [artikel 27 van de Wet op de omzetbelasting](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=27) wordt het in aanmerking te nemen schadebedrag, berekend op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0019496&paragraaf=2&artikel=4&z=2006-11-09&g=2006-11-09), met 6/106e deel verminderd.
 
 ##### Artikel 5
 
 1. Het subsidieplafond voor deze regeling bedraagt € 3.800.000,–.
 
-2. Indien het totaal van de voor tegemoetkoming in aanmerking te nemen schades per gewas, bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019496&paragraaf=2&artikel=4&z=2006-02-22&g=2006-02-22), het subsidieplafond, bedoeld in het eerste lid, overstijgt, wordt het totaal voor de tegemoetkomingen beschikbare bedrag evenredig over de voor tegemoetkoming in aanmerking te nemen schades verdeeld.
+2. Indien het totaal van de voor tegemoetkoming in aanmerking te nemen schades per gewas, bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019496&paragraaf=2&artikel=4&z=2006-11-09&g=2006-11-09), het subsidieplafond, bedoeld in het eerste lid, overstijgt, wordt het totaal voor de tegemoetkomingen beschikbare bedrag evenredig over de voor tegemoetkoming in aanmerking te nemen schades verdeeld.
 
 #### § 3. Voorwaarden tegemoetkoming
 
 ##### Artikel 6
 
-De tegemoetkoming in de schade, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019496&paragraaf=1&artikel=3&z=2006-02-22&g=2006-02-22), wordt verstrekt indien wordt voldaan aan de volgende voorwaarden:
+De tegemoetkoming in de schade, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019496&paragraaf=1&artikel=3&z=2006-11-09&g=2006-11-09), wordt verstrekt indien wordt voldaan aan de volgende voorwaarden:
 
-- a. blijkens de gegevens, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0019496&paragraaf=4&artikel=8&z=2006-02-22&g=2006-02-22), werden de gewassen waaraan schade is ontstaan als gevolg van de zware regenval in de schadeperiode daadwerkelijk in de schadeperiode op het landbouwbedrijf geteeld;
+- a. blijkens de gegevens, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0019496&paragraaf=4&artikel=8&z=2006-11-09&g=2006-11-09), werden de gewassen waaraan schade is ontstaan als gevolg van de zware regenval in de schadeperiode daadwerkelijk in de schadeperiode op het landbouwbedrijf geteeld;
 
 - b. van de voor deze regeling vereiste gegevens wordt een juiste en volledige opgave gedaan;
 
@@ -160,13 +160,13 @@ De tegemoetkoming in de schade, bedoeld in [artikel 3](https://wetten.overheid.n
 
 - viii). een handtekening van de aanvrager en de taxateur;
 
-- b. een verklaring van een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393) inhoudende dat het protocol uit [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019496&bijlage=2&z=2006-02-22&g=2006-02-22) bij deze regeling in acht is genomen;
+- b. een verklaring van een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393) inhoudende dat het protocol uit [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019496&bijlage=2&z=2006-11-09&g=2006-11-09) bij deze regeling in acht is genomen;
 
 2. Indien de aanvrager niet over een taxatierapport als bedoeld in het eerste lid, onderdeel a, beschikt, worden in plaats van een taxatierapport de volgende gegevens ter onderbouwing van de in de schadetermijn opgetreden schade aan de gewassen overgelegd:
 
 - a. de boekhouding gewassen;
 
-- b. een schaderapport, opgesteld door een schade-expert als bedoeld in [artikel 1, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0019496&paragraaf=1&artikel=1&z=2006-02-22&g=2006-02-22), dat ten minste de volgende gegevens bevat:
+- b. een schaderapport, opgesteld door een schade-expert als bedoeld in [artikel 1, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0019496&paragraaf=1&artikel=1&z=2006-11-09&g=2006-11-09), dat ten minste de volgende gegevens bevat:
 
 - i). de naam, het adres en het relatienummer;
 
@@ -182,7 +182,7 @@ De tegemoetkoming in de schade, bedoeld in [artikel 3](https://wetten.overheid.n
 
 - vii). een omschrijving van de wijze waarop de schade zich heeft gemanifesteerd, en
 
-- viii). een handtekening van de aanvrager en de schade-expert, bedoeld in [artikel 1, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0019496&paragraaf=1&artikel=1&z=2006-02-22&g=2006-02-22);
+- viii). een handtekening van de aanvrager en de schade-expert, bedoeld in [artikel 1, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0019496&paragraaf=1&artikel=1&z=2006-11-09&g=2006-11-09);
 
 3. Het taxatierapport, bedoeld in het eerste lid, onderdeel a, en het schaderapport, bedoeld in het tweede lid, onderdeel b, gaan vergezeld van:
 
@@ -192,7 +192,7 @@ De tegemoetkoming in de schade, bedoeld in [artikel 3](https://wetten.overheid.n
 
 ##### Artikel 9
 
-1. De minister beslist binnen tweeëntwintig weken na sluiting van de aanvraagperiode, bedoeld in [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019496&paragraaf=4&artikel=7&z=2006-02-22&g=2006-02-22).
+1. De minister beslist binnen tweeëntwintig weken na sluiting van de aanvraagperiode, bedoeld in [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019496&paragraaf=4&artikel=7&z=2006-11-09&g=2006-11-09).
 
 2. Indien de minister niet binnen tweeëntwintig weken een besluit op de aanvraag kan nemen, stelt de minister de aanvrager daarvan in kennis en noemt daarbij een termijn waarbinnen het besluit op de aanvraag wordt genomen.
 
@@ -212,7 +212,7 @@ Deze regeling wordt aangehaald als: Tegemoetkomingsregeling oogstschade 2002.
 
 ## Bijlage 1. Tabel van normbedragen
 
-| Gewas | Specificatie | Normbedrag in € inclusief BTW per ha |
+| Gewas | Specificatie | Normbedrag in € inclusief BTW per ha, tenzij anders vermeld |
 | --- | --- | --- |
 | Aardbei |   | 50.200 |
 | Andijvie | verse markt | 18.700 |
@@ -280,8 +280,51 @@ Deze regeling wordt aangehaald als: Tegemoetkomingsregeling oogstschade 2002.
 | Wittekool | Industrie | 6.100 |
 | Wittekool | verse markt biologisch | 12.700 |
 | Zetmeelaardappel |   | 2.600 |
+| Andijvie | industrie | 2.900 |
+| Bladselderij | industrie | 3.500 |
+| Boerenkool | industrie biologisch | 5.300 |
+| Koolrapen | verse markt biologisch | 12.000 |
+| Koolrapen | industrie | 3.100 |
+| Knolselderij | verse markt biologisch | 17.400 |
+| Kervel | industrie nateelt | 2.200 |
+| Koriander |   | 4.800 |
+| Thijm | industrie | 2.600 |
+| Tuinkers | drogerij | 1.700 |
+| Pastinaak |   | 7.500 |
+| Pastinaak | biologisch | 8.000 |
+| Prei | verse markt | 13.900 |
+| Prei | industrie | 7.100 |
+| Rode bieten |   | 7.400 |
+| Rode bieten | verse markt biologisch | 17.700 |
+| Rode bieten | industrie biologisch | 13.000 |
+| Savooiekool | biologisch | 14.400 |
+| Spinazie | industrie biologisch | 4.300 |
+| Stamslabonen | industrie biologisch | 3.600 |
+| Winterpeen | industrie biologisch | 11.500 |
+| Broccoli | herfstteelt | 7.100 |
+| Digitalis lanata | kruiden | 4.800 |
+| Erwten | zaadteelt | 1.100 |
+| Groene asperge | eerste oogstjaar | 2.400 |
+| Groene asperge | derde t/m negende oogstjaar | 15.100 |
+| Groene asperge | vervangingswaarde | 0,29/plant |
+| Bloemkool | zaadteelt | 6.800 |
+| Kruiden | potteelt potmaat < 13 cm | 0,46/pot |
+| Kruiden | potteelt potmaat ≥ 13 cm | 0,68/pot |
+| Bieslook | pollenteelt | 29.700 |
+| Skimmia | potteelt | 1,90/pot |
+| Potchrysanten |   | 1,68/pot |
+| Hypericum | snijheester derde – vierde oogstjaar | 58.300 |
+| Hypericum | snijheester zesde oogstjaar | 15.500 |
+| Brassica olearacea | snijteelt | 0,32/stuk |
+| Euphorbia Amyg. ‘Purpurea’ | potteelt | 1,52/pot |
+| Hebe | potteelt potmaat < 15 cm | 0,67/pot |
+| Hebe | potteelt potmaat ≥ 15 cm | 1,10/pot |
+| Pernethya | potteelt potmaat < 15 cm | 0,70/pot |
+| Pernethya | potteelt potmaat ≥ 15 cm | 1,80/pot |
+| Framboos | voorjaar/verwarmd | 153.000 |
+| Appelbomen | vervangingswaarde driejarige bomen | 36.000 |
 
-## Bijlage 2. Protocol als bedoeld in [artikel 8, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0019496&paragraaf=4&artikel=8&z=2006-02-22&g=2006-02-22)
+## Bijlage 2. Protocol als bedoeld in [artikel 8, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0019496&paragraaf=4&artikel=8&z=2006-11-09&g=2006-11-09)
 
 Het onderzoek van de aanvraag, de opgave van het gerealiseerde teeltplan 2002 voor de Landbouwtelling 2002 en de teeltplanschade heeft ten doel vast te stellen of deze juist is. De door de accountant uit te voeren werkzaamheden zijn:
 
