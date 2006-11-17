@@ -4,7 +4,7 @@ identifier: "BWBR0012289"
 country: "nl"
 rank: "circulaire"
 publication_date: "2026-04-03"
-last_updated: "2006-09-08"
+last_updated: "2006-11-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012289"
 soort: "circulaire"
@@ -1945,6 +1945,26 @@ De bij het eerste opsommingsteken bedoelde gespecificeerde periode bedraagt éé
 
 ### 2. Doelgroep
 
+### 2. Doelgroep
+
+### 3.1. Opschorting van de verwijdering
+
+### 3.1.1. Het bescheid rechtmatig verblijf
+
+### 3.1.2. Meldplicht
+
+### 3.1.3. Aanmelding bij de STV
+
+### 3.2. Opvang en huisvesting
+
+### 3.2.1. Opschorting van de verwijdering
+
+### 3.2.2. Registratie door de politie
+
+### 3.2.3. Briefadres
+
+### 3.2.4. Het bescheid rechtmatig verblijf
+
 ### 3. Bedenktijdfase
 
 ### 3.1. Opschorting van de verwijdering
@@ -1969,11 +1989,11 @@ De bij het eerste opsommingsteken bedoelde gespecificeerde periode bedraagt éé
 
 ### 3.2.6. Aanmelding bij de Stichting tegen vrouwenhandel
 
-### 3.2.7. Opvang en huisvesting
+Na afgifte van de verblijfsvergunning kan het slachtoffer zich voor vervolgopvang wenden tot de zorgcoördinator in de regio waar hij of zij reeds verblijft of, in het geval er geen regionale zorgcoördinator beschikbaar is, tot de STV. Vervolgopvang op een andere locatie kan aangewezen zijn, indien de opvanglocatie die in de bedenktijdfase werd geboden niet geschikt is voor een langduriger verblijf.
 
-### 3.2.8. Kosten van levensonderhoud
+De zorgcoördinator ziet toe op het regelen van het medische onderzoek. Indien het slachtoffer nog geen TBC-keuring heeft ondergaan, dient een TBC keuring onderdeel uit te maken van dit medische onderzoek.
 
-### 3.2.9. Medische bijstand en rechtshulp
+De zorgcoördinator draagt er zorg voor dat het slachtoffer goed wordt geïnformeerd over de juridische consequenties van het doen van aangifte. Indien juridisch advies noodzakelijk blijkt, kan een rechtshulpverlener worden ingeschakeld. De rechtshulpverlener ontvangt hiervoor de gebruikelijke financiering van de Raad voor Rechtsbijstand.
 
 ### 3.3. Kosten van levensonderhoud
 
@@ -1989,11 +2009,11 @@ De bij het eerste opsommingsteken bedoelde gespecificeerde periode bedraagt éé
 
 ### 4.2. De situatie na de aangifte
 
-Na afgifte van de verblijfsvergunning kan het slachtoffer zich voor vervolgopvang wenden tot de zorgcoördinator in de regio waar hij of zij reeds verblijft of, in het geval er geen regionale zorgcoördinator beschikbaar is, tot de STV. Vervolgopvang op een andere locatie kan aangewezen zijn, indien de opvanglocatie die in de bedenktijdfase werd geboden niet geschikt is voor een langduriger verblijf.
+### 4.6. Verlenging en voortgezet verblijf
 
-De zorgcoördinator ziet toe op het regelen van het medische onderzoek. Indien het slachtoffer nog geen TBC-keuring heeft ondergaan, dient een TBC keuring onderdeel uit te maken van dit medische onderzoek.
+### 5. Procedure ten aanzien van getuige-aangevers
 
-De zorgcoördinator draagt er zorg voor dat het slachtoffer goed wordt geïnformeerd over de juridische consequenties van het doen van aangifte. Indien juridisch advies noodzakelijk blijkt, kan een rechtshulpverlener worden ingeschakeld. De rechtshulpverlener ontvangt hiervoor de gebruikelijke financiering van de Raad voor Rechtsbijstand.
+### 5.1. De aanvraag om een verblijfsvergunning
 
 ### 4.2.1. Beëindiging Rvb
 
@@ -2010,6 +2030,40 @@ De zorgcoördinator draagt er zorg voor dat het slachtoffer goed wordt geïnform
 ### 4.5. Geldigheid van de verblijfsvergunningen
 
 ### 4.6. Verlenging en voortgezet verblijf
+
+### 6.3. Meldplicht
+
+### 6.4. Bescheid rechtmatig verblijf
+
+### 6.5. Opvang en financiën
+
+### 7. Gezinshereniging
+
+De verlengingsaanvraag wordt niet afgewezen wegens gevaar voor de openbare orde, indien sprake is van een inbreuk op de openbare orde die naar het oordeel van de Minister rechtstreeks verband houdt met het feit waarvan aangifte is gedaan.
+
+Op grond van [artikel 3.34e, onder c VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&artikel=3.34e) is het slachtoffer van mensenhandel geen leges verschuldigd.
+
+### 7.1. Beslissing op de aanvraag
+
+### 7.2. Beperking en arbeidsmarktaantekening
+
+### 7.3. Afgifte van het verblijfsdocument
+
+### 8. Geldigheidsduur van de verblijfsvergunning
+
+### 9. Verlenging
+
+### 10. Beklagprocedure
+
+### 11. Wijziging beperking en voortgezet verblijf ex [artikel 3.52 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.52)
+
+### 12. Gezinshereniging
+
+### B10. EU/EER-onderdanen
+
+Indien de aangifte van mensenhandel van het slachtoffer tot een veroordeling van de verdachte heeft geleid, wordt aangenomen dat terugkeer voor het slachtoffer risico’s met zich brengt. Indien het slachtoffer een aanvraag doet om voortgezet verblijf kan deze om die reden worden ingewilligd. Hierbij is dan wel van belang dat de rechterlijke uitspraak in de strafzaak onherroepelijk is geworden doordat geen rechtsmiddel is aangewend tegen de uitspraak in eerste aanleg óf, indien wel een rechtsmiddel is aangewend, het Gerechtshof in hoger beroep uitspraak heeft gedaan.
+
+### 1. Inleiding
 
 ### 5. Procedure ten aanzien van getuige-aangevers
 
@@ -2039,9 +2093,9 @@ De zorgcoördinator draagt er zorg voor dat het slachtoffer goed wordt geïnform
 
 ### 7. Gezinshereniging
 
-Voor verlening van een verblijfsvergunning komen in aanmerking de biologische of juridische minderjarige kinderen die feitelijk behoren tot het gezin en reeds in het land van herkomst feitelijk behoorden tot het gezin van de hoofdpersoon en die onder wettig gezag van de hoofdpersoon staat. De algemene bepalingen van B2 van toepassing, met uitzondering van het gedeelte over voortgezet verblijf, aangezien het gaat om een verblijfsrecht van tijdelijke aard (zie [artikel 3.5, tweede lid, aanhef en onder a en o, Vreemdelingenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.5)) en het middelenvereiste.
+### 2.6. Bewijs van rechtmatig verblijf
 
-Om te verzekeren dat minderjarige kinderen slechts verblijf krijgen gedurende de periode van toelating van de hoofdpersoon, krijgt de aan hen verstrekte verblijfsvergunning dezelfde geldigheidsduur als die van de hoofdpersoon.
+### 2.6.1. Niet betalen van leges
 
 ### 7.1. Beslissing op de aanvraag
 
@@ -2061,7 +2115,7 @@ Om te verzekeren dat minderjarige kinderen slechts verblijf krijgen gedurende de
 
 ### B10. EU/EER-onderdanen
 
-[Verwijzingen: EG-verdrag, Verdrag van Maastricht, Overeenkomst betreffende de Europese Economische Ruimte, [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=1), [8 Vreemdelingenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8), [artikel 1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=1.5), [8.6](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.6), [8.8](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.8), [8.11](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.11), [8.12](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.12), [8.13 Vreemdelingenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.13), [Richtlijn 64/221/EEG](31964L0221), EG-[verordening 1612/68](31968R1612), [Richtlijn 68/360/EEG](31968L0360), [Richtlijn 73/148/EEG](31973L0148)]
+### 3.3. Over te leggen stukken
 
 ### 1. Inleiding
 
@@ -2251,7 +2305,7 @@ Om te verzekeren dat minderjarige kinderen slechts verblijf krijgen gedurende de
 
 ### 5.4.4. Kinderen die 21 jaar worden
 
-### 6. Onderdanen van België en Luxemburg
+Zie voor artikel 8 EVRM (recht op eerbiediging van privé-, familie- en gezinsleven) B2 en zie voor artikel 3 EVRM (verbod van foltering) deel [C](onbekend).
 
 ### 6.1. Verblijfsdocument
 
@@ -2305,7 +2359,7 @@ Om te verzekeren dat minderjarige kinderen slechts verblijf krijgen gedurende de
 
 ### 2. EVRM
 
-Zie voor artikel 8 EVRM (recht op eerbiediging van privé-, familie- en gezinsleven) B2 en zie voor artikel 3 EVRM (verbod van foltering) deel [C](onbekend).
+### 5.2.2. Arbeidsmarktaantekening
 
 ### 3. Associatieovereenkomst EG en Turkije, besluit nr. 1/80
 
@@ -2375,7 +2429,7 @@ Zie voor artikel 8 EVRM (recht op eerbiediging van privé-, familie- en gezinsle
 
 ### 6. Het Nederlands-Zwitserse Traktaat
 
-### 6.1. Belang
+Tevens wordt de verblijfsvergunning voorzien van de aantekening: ‘Een beroep op de publieke middelen kan gevolgen hebben voor het verblijfsrecht.’
 
 ### 6.1.1. Inleiding
 
@@ -2417,7 +2471,7 @@ Zie voor artikel 8 EVRM (recht op eerbiediging van privé-, familie- en gezinsle
 
 ### 7.2.4. Overige aantekeningen
 
-### 7.2.5. Voorschrift
+Dit onderdeel is nog niet inwerking getreden
 
 ### 7.3. Verblijf van zelfstandigen
 
@@ -2427,9 +2481,9 @@ Zie voor artikel 8 EVRM (recht op eerbiediging van privé-, familie- en gezinsle
 
 ### 7.3.3. Arbeidsmarktaantekening
 
-### 7.3.4. Overige aantekeningen
+Dit onderdeel is nog niet inwerking getreden
 
-Tevens wordt de verblijfsvergunning voorzien van de aantekening: ‘Een beroep op de publieke middelen kan gevolgen hebben voor het verblijfsrecht.’
+### 11.1. Inleiding
 
 ### 7.3.5. Voorschrift
 
@@ -2471,7 +2525,7 @@ Tevens wordt de verblijfsvergunning voorzien van de aantekening: ‘Een beroep o
 
 ### 10. Europees Sociaal Handvest
 
-Dit onderdeel is nog niet inwerking getreden
+### 16.1. Het Verdrag betreffende de status van staatlozen
 
 ### 10.1. Inleiding
 
@@ -2481,11 +2535,11 @@ Dit onderdeel is nog niet inwerking getreden
 
 ### 11. Europees Verdrag inzake de rechtspositie van migrerende werknemers
 
-Dit onderdeel is nog niet inwerking getreden
+### 16.2.1. Procedure in eerste aanleg
 
 ### 11.1. Inleiding
 
-### 11.2. Belang
+Zolang niet is beslist op een tijdig ingediend bezwaar- of administratief beroepschrift is sprake van rechtmatig verblijf in de zin van [artikel 8, aanhef en onder h, Vreemdelingenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) en blijft uitzetting achterwege.
 
 ### 11.3. Gezinshereniging
 
@@ -2493,7 +2547,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ### 12. Overeenkomst EEG-Algerije, Israël, Jordanië, Marokko en Tunesië
 
-### 12.1. Inleiding
+[Verwijzingen: Verdrag van Wenen inzake diplomatiek Verkeer (1961), artikel 37, nota van 30 augustus 1999 (DKP/BV-99/389) ministerie van Buitenlandse Zaken, nota nr. 68229 van 16 maart 1987 ministerie van Buitenlandse Zaken, [Vreemdelingenwet artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=16), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=17), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=21), [50](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=50), [Vreemdelingenbesluit artikel 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.7), [3.13 t/m 3.22](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.13), [3.40](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.40), [3.63](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.63), [3.71](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.71), [3.93](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.93), [4.46](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.46).]
 
 ### 12.2. Belang
 
@@ -2539,15 +2593,15 @@ Dit onderdeel is nog niet inwerking getreden
 
 ### 16.2.2. Procedure bij administratief beroep of bezwaar
 
-Zolang niet is beslist op een tijdig ingediend bezwaar- of administratief beroepschrift is sprake van rechtmatig verblijf in de zin van [artikel 8, aanhef en onder h, Vreemdelingenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) en blijft uitzetting achterwege.
+### 2.2.2.1. Verblijfsstatus
 
 ### 16.2.3. Uitzonderingen
 
-### 16.3. Reisdocumenten
+De bepalingen omtrent het voortgezet verblijf van B2 zijn op deze gezinsleden eerst van toepassing op het moment dat zij rechtmatig verblijf hebben op grond van de Vreemdelingenwet.
 
-### B12. Diplomaten en personeel van diplomatieke zending of consulaire posten en personeel van internationale organisaties en gezinsleden
+Indien familie- of gezinsleden zich eerst bij de hoofdpersoon in Nederland willen vervoegen wanneer de hoofdpersoon reeds rechtmatig verblijf heeft op grond van [artikel 8, onderdeel b, Vreemdelingenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8), dan zijn de bepalingen van B2 op deze familie- of gezinsleden van toepassing.
 
-[Verwijzingen: Verdrag van Wenen inzake diplomatiek Verkeer (1961), artikel 37, nota van 30 augustus 1999 (DKP/BV-99/389) ministerie van Buitenlandse Zaken, nota nr. 68229 van 16 maart 1987 ministerie van Buitenlandse Zaken, [Vreemdelingenwet artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=16), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=17), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=21), [50](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=50), [Vreemdelingenbesluit artikel 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.7), [3.13 t/m 3.22](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.13), [3.40](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.40), [3.63](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.63), [3.71](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.71), [3.93](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.93), [4.46](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.46).]
+### 2.2.2.3. Leges
 
 ### 1. Inleiding
 
@@ -2599,7 +2653,7 @@ Zolang niet is beslist op een tijdig ingediend bezwaar- of administratief beroep
 
 De bepalingen omtrent het voortgezet verblijf van B2 zijn op deze gezinsleden eerst van toepassing op het moment dat zij rechtmatig verblijf hebben op grond van de Vreemdelingenwet.
 
-Indien familie- of gezinsleden zich eerst bij de hoofdpersoon in Nederland willen vervoegen wanneer de hoofdpersoon reeds rechtmatig verblijf heeft op grond van [artikel 8, onderdeel b, Vreemdelingenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8), dan zijn de bepalingen van B2 op deze familie- of gezinsleden van toepassing.
+### 4.2.2.5. Registratie
 
 ### 2.2.2.3. Leges
 
@@ -2645,13 +2699,13 @@ Indien familie- of gezinsleden zich eerst bij de hoofdpersoon in Nederland wille
 
 ### 4.2.2.1. Algemeen
 
-### 4.2.2.2. Regeling van het verblijf
+Indien de eigen financiële middelen van de vreemdeling ontoereikend zijn, kan het verblijf slechts worden toegestaan wanneer het familielid of een andere relatie zich schriftelijk garant heeft gesteld voor de kosten van het levensonderhoud en van de terugreis. Hierbij geldt slechts dat één persoon (het familielid of de andere relatie) het verblijf kan bekostigen en garant staan.
 
 ### 4.2.2.3. Machtiging tot voorlopig verblijf
 
 ### 4.2.2.4. Beperking, arbeidsmarktaantekening en voorschriften
 
-Aan vreemdelingen als bedoeld in [artikel 3.40 Vreemdelingenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.40) wordt een verblijfsvergunning voor bepaalde tijd als bedoeld in [artikel 14 Vreemdelingenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14) verleend onder de beperking: ‘verblijf als NAVO-vreemdeling’ en met aantekening: ‘Arbeid vrij toegestaan. TWV niet vereist.’
+### 1. Inleiding
 
 ### 4.2.2.5. Registratie
 
@@ -2687,13 +2741,13 @@ Aan vreemdelingen als bedoeld in [artikel 3.40 Vreemdelingenbesluit](https://wet
 
 ### 4.18. Organisatie voor het Verbod van Chemische Wapens (OPCW)
 
-### 4.19. Internationaal Tribunaal voor de vervolging van personen verantwoordelijk voor ernstige schendingen van het internationaal humanitair recht op het grondgebied van het voormalige Joegoslavië sedert 1991
+In tegenstelling tot het middelenvereiste wordt bij de beoordeling van het looncriterium uitsluitend betekenis toegekend aan het loon in geld. Het gaat daarbij om het vaste contractueel overeengekomen en in geld vastgestelde bruto loon. De waarde van niet in geld uitgekeerd loon en de waarde van onzekere loonbestanddelen als overwerkvergoedingen, fooien en uitkeringen uit fondsen worden derhalve niet meegeteld. Vaste toeslagen zoals de vakantietoeslag en een dertiende maand kunnen bij dit bruto loon wel worden meegerekend.
 
 ### 4.20. Internationale Thee Promotie Associatie (ITPA)
 
 ### B13. Verblijf voor familiebezoek
 
-### 1. Inleiding
+Indien de vreemdeling beschikt over een arbeidsovereenkomst voor een kortere duur dan één jaar, dient de vreemdeling gedurende de duur van de arbeidsovereenkomst naar rato te voldoen aan het criterium van het bruto jaarloon. De vreemdeling dient derhalve een loon in geld te genieten dat de uitkomst is van de rekensom: geldend looncriterium, gedeeld door twaalf en vermenigvuldigd met het aantal maanden van de arbeidsovereenkomst.
 
 ### 2. Familiebezoek voor langer dan drie maanden
 
@@ -2718,6 +2772,110 @@ Indien de eigen financiële middelen van de vreemdeling ontoereikend zijn, kan h
 ### 1. Inleiding
 
 ### 2. Samenhang Vreemdelingenwet en de Wet arbeid vreemdelingen
+
+De in dit hoofdstuk beschreven procedure, bedoeld voor slachtoffers en getuige-aangevers van mensenhandel, maakt onderdeel uit van een integrale aanpak om mensenhandel te bestrijden, een uitdrukkelijke prioriteit voor politie en justitie in Nederland. Mensenhandel is een grove schending van de rechten van de mens en een uiterst ernstig misdrijf. Het delict is strafbaar gesteld in [artikel 273f WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=273f). Dit artikel ziet op mensenhandel in het algemeen, daaraan gerelateerde vormen van uitbuiting en het trekken van profijt daaruit. Ook is in dit verband relevant [artikel 248b WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=248b).
+
+De procedure in dit hoofdstuk heeft betrekking op de hierna genoemde categorieën vreemdelingen.
+
+Wanneer in een seksinrichting in het kader van een reguliere controle op basis van de APV, de [Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) en de [WAV](https://wetten.overheid.nl/jci1.3:c:BWBR0007149) of in het kader van een strafrechtelijk opsporingsonderzoek niet rechtmatig in Nederland verblijvende vreemdelingen worden aangetroffen, dient de politie reeds bij geringe aanwijzing van mensenhandel de betrokken vreemdeling te wijzen op de in dit hoofdstuk omschreven rechten.
+
+Aanwijzingen van mensenhandel kunnen op verschillende manieren worden verkregen. Na de opheffing van het bordeelverbod per 1 oktober 2000, dient een exploitant teneinde legaal een seksinrichting te mogen exploiteren, te beschikken over een door de gemeente verstrekte vergunning. Voorwaarde voor een dergelijke vergunning is onder meer dat er geen vreemdelingen werkzaam mogen zijn die niet beschikken over een geldige verblijfstitel waarmee het is toegestaan om in Nederland te werken. De aanwezigheid van een prostituee in een seksinrichting die niet beschikt over een geldige verblijfstitel kan een aanwijzing van mensenhandel zijn.
+
+Verder kunnen de politie en andere overheidsinstanties tijdens acties die gericht zijn op (het opsporen van) illegalen ook op mogelijke slachtoffers van mensenhandel stuiten. Indien tijdens deze acties aanwijzingen worden verkregen dat mogelijk sprake is van mensenhandel dienen de vermoedelijke slachtoffers daarvan gewezen te worden op de in dit hoofdstuk omschreven procedure.
+
+Het gaat hier om vreemdelingen die in Nederland in de prostitutie werkzaam zijn of zijn geweest en zich op eigen initiatief tot de politie wenden, omdat zij slachtoffer zijn van mensenhandel. De politie dient de vreemdeling te wijzen op de in dit hoofdstuk omschreven procedure.
+
+Onder uitbuiting wordt verstaan gedwongen of verplichte arbeid of diensten, slavernij of met slavernij of dienstbaarheid te vergelijken praktijken. Dat zijn alle vormen van moderne slavernij. Daarbij kan worden gedacht aan tewerkstelling onder dwang of het maken van misbruik van een afhankelijke positie van een persoon die onder de gegeven omstandigheden redelijkerwijs geen andere keuze heeft dan in een toestand van uitbuiting te geraken of te blijven. Alleen de slachtoffers die geen geldige verblijfstitel hebben in Nederland kunnen rechten ontlenen aan de in dit hoofdstuk omschreven procedure.
+
+Het gaat hier om vreemdelingen die zich in Nederland bevinden en mogelijk buiten Nederland slachtoffer van mensenhandel zijn geworden, en die nog niet feitelijk in Nederland werkzaam zijn geweest. Aangezien slachtoffers van mensenhandel regelmatig van het ene naar het andere land worden gebracht, juist om de afhankelijkheid te vergroten en de opsporing te bemoeilijken komt deze doelgroep regelmatig voor. Het kan echter wel degelijk van belang zijn dat ook deze vreemdelingen ten behoeve van een strafrechtelijk onderzoek gehoord worden en dat zij in de gelegenheid worden gesteld om aangifte te doen. De dader kan in meerdere landen actief zijn en het is ook mogelijk dat het slachtoffer met het oogmerk hem/haar hier te lande wederom te verhandelen naar Nederland is gebracht. Voor deze vreemdelingen is de bedenktijd opengesteld.
+
+Het gaat hier bijvoorbeeld om vreemdelingen aan wie de toegang tot Nederland is geweigerd, maar die aangeven slachtoffer te zijn van mensenhandel. Voor de strafbaarstelling in [artikel 273f WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=273f) gelden geen territoriale beperkingen. Het kan dus wel degelijk van belang zijn dat ook deze vreemdelingen ten behoeve van een strafrechtelijk onderzoek gehoord worden en dat zij in de gelegenheid worden gesteld om aangifte te doen. Pas na aangifte volgt toelating. Op hen is de bedenktijd als beschreven in B9/3 niet van toepassing omdat de bedenktijd feitelijke toelating tot Nederland vereist. De overige paragrafen zijn wel van toepassing.
+
+Getuige-aangevers kunnen vreemdelingen zijn of Nederlanders die zelf werkzaam zijn in dezelfde sector als het slachtoffer. Tevens kunnen het personen zijn, die werkzaam zijn buiten deze sector en die kennis dragen van mensenhandel. Alleen de getuige-aangevers die geen geldige verblijfstitel hebben in Nederland kunnen rechten ontlenen aan de in dit hoofdstuk omschreven procedure. Op hen is de bedenktijd als omschreven in B9/3 niet van toepassing omdat de bedenktijd naar zijn aard bedoeld is om een slachtoffer uit de strafbare situatie te halen en de gelegenheid te bieden om op adem te komen en een weloverwogen beslissing tot aangifte te kunnen laten nemen.
+
+### 3.2.7. Opvang en huisvesting
+
+### 3.2.8. Kosten van levensonderhoud
+
+### 3.2.9. Medische bijstand en rechtshulp
+
+Na afgifte van de verblijfsvergunning kan het slachtoffer zich voor vervolgopvang wenden tot de zorgcoördinator in de regio waar hij of zij reeds verblijft of, in het geval er geen regionale zorgcoördinator beschikbaar is, tot de STV. Vervolgopvang op een andere locatie kan aangewezen zijn, indien de opvanglocatie die in de bedenktijdfase werd geboden niet geschikt is voor een langduriger verblijf.
+
+De zorgcoördinator ziet toe op het regelen van het medische onderzoek. Indien het slachtoffer nog geen TBC-keuring heeft ondergaan, dient een TBC keuring onderdeel uit te maken van dit medische onderzoek.
+
+De zorgcoördinator draagt er zorg voor dat het slachtoffer goed wordt geïnformeerd over de juridische consequenties van het doen van aangifte. Indien juridisch advies noodzakelijk blijkt, kan een rechtshulpverlener worden ingeschakeld. De rechtshulpverlener ontvangt hiervoor de gebruikelijke financiering van de Raad voor Rechtsbijstand.
+
+De geldigheidsduur van de verblijfsvergunning kan worden verlengd zolang er sprake is van een strafrechtelijk opsporings- en vervolgingsonderzoek naar of berechting in feitelijke aanleg van de verdachte van het strafbare feit ter zake waarvan aangifte is gedaan. De geldigheid van de verblijfsvergunning wordt niet verlengd indien er geen sprake meer is van een strafrechtelijk opsporings- en vervolgingsonderzoek naar of berechting in feitelijke aanleg van de verdachte van het strafbare feit ter zake waarvan aangifte is gedaan.
+
+De aanvraag om verlenging van de verblijfsvergunning kan rechtstreeks bij de IND worden ingediend.
+
+Bij de beoordeling van de verlengingsaanvraag dient de IND bij het OM na te gaan of er nog sprake is van een strafrechtelijk opsporings- of vervolgingsonderzoek dan wel of de berechting in feitelijke aanleg van de verdachte heeft plaatsgevonden.
+
+De verlengingsaanvraag wordt niet afgewezen op grond van [artikel 18, eerste lid, onder c, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=18).
+
+Indien het slachtoffer van mensenhandel niet over een paspoort beschikt, dient het slachtoffer een paspoort aan te vragen bij de diplomatieke vertegenwoordiging van het land waarvan betrokkene de nationaliteit bezit. Indien blijkt dat betrokkene niet in het bezit kan worden gesteld van een paspoort in verband met weigerachtigheid van de betreffende autoriteiten kan ontheffing van het paspoortvereiste worden verleend (B1/2.2.2).
+
+Nadat de grondslag aan de verblijfsvergunning als bedoeld in dit hoofdstuk is komen te ontvallen en de verblijfsvergunning is ingetrokken of de geldigheidsduur ervan is verstreken, dient betrokkene Nederland te verlaten.
+
+Dat is anders indien betrokkene tijdig een aanvraag doet om wijziging van de verblijfsvergunning voor een ander doel en aan de in dat kader gestelde voorwaarden is voldaan. Betrokkene dient dan een wijziging van de vergunning aan te vragen. Het gaat hier om een aanvraag die niet gerelateerd is aan de B9-procedure, bijvoorbeeld verblijf bij partner.
+
+Voorts bestaat de mogelijkheid om een wijziging van de verblijfsvergunning aan te vragen met het oog op voortgezet verblijf wegens klemmende redenen van humanitaire aard, gerelateerd aan de B9-procedure, waarmee dan een beroep wordt gedaan op [artikel 3.52 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.52). Een slachtoffer van mensenhandel aan wie voor de duur en in het belang van het strafproces tijdelijk verblijf in Nederland was toegestaan en van oordeel is dat het verblijf dient te worden voortgezet om onaanvaardbare gevolgen bij terugzending te voorkomen, kan een beroep doen op [artikel 3.52 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.52).
+
+In andere gevallen dan genoemd in de [artikelen 3.50](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.50) en [3.51 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.51), kan de verblijfsvergunning voor bepaalde tijd, bedoeld in [artikel 14 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14), onder een beperking verband houdend met voortgezet verblijf worden verleend aan de vreemdeling die rechtmatig verblijf als bedoeld in [artikel 8, onder a tot en met e dan wel l, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) heeft gehad en van wie naar het oordeel van de Minister wegens bijzondere individuele omstandigheden niet gevergd kan worden dat hij Nederland verlaat.
+
+Slachtoffers die daarop beroep doen, dienen een aanvraag in om wijziging van de verblijfsvergunning onder een beperking verband houdend met ‘voortgezet verblijf’. De aanvraag wordt ingediend bij de burgemeester van de gemeente waar zij woon- of verblijfplaats hebben.
+
+Voor de afdoening van deze aanvraag om wijziging zijn ingevolge [artikel 3.34c, aanhef, VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&artikel=3.34c) leges verschuldigd.
+
+Indien het slachtoffer van mensenhandel niet over een paspoort beschikt, dient het slachtoffer een paspoort aan te vragen bij de diplomatieke vertegenwoordiging van het land waarvan betrokkene de nationaliteit bezit. Indien aangetoond wordt dat betrokkene niet in het bezit kan worden gesteld van een paspoort in verband met weigerachtigheid van de betreffende autoriteiten kan ontheffing van het paspoortvereiste worden verleend (B1/2.2.2).
+
+Van de volgende categorieën slachtoffers kan de aanvraag om voortgezet verblijf, mits zich verder geen algemene weigeringsgrond voordoet, in ieder geval worden ingewilligd:
+
+Om het recht op voortgezet verblijf niet geheel afhankelijk te maken van het verloop van de strafzaak, zal indien de strafzaak niet tot een veroordeling leidt doch anders luidt, maar er wel tenminste drie jaar verstreken is tussen de verlening van de verblijfsvergunning op grond van dit hoofdstuk en het in kracht van gewijsde gaan van de rechterlijke uitspraak, de verblijfsduur van het slachtoffer als belangrijkste humanitaire factor wegen. Hierbij is dan eveneens van belang dat de rechterlijke uitspraak in de strafzaak onherroepelijk is geworden doordat geen rechtsmiddel is aangewend tegen de uitspraak in eerste aanleg óf, indien wel een rechtsmiddel is aangewend, het Gerechtshof in hoger beroep uitspraak heeft gedaan.
+
+Voor verlening van een verblijfsvergunning komen in aanmerking de biologische of juridische minderjarige kinderen die feitelijk behoren tot het gezin en reeds in het land van herkomst feitelijk behoorden tot het gezin van de hoofdpersoon en die onder wettig gezag van de hoofdpersoon staat. De algemene bepalingen van B2 van toepassing, met uitzondering van het gedeelte over voortgezet verblijf, aangezien het gaat om een verblijfsrecht van tijdelijke aard (zie [artikel 3.5, tweede lid, aanhef en onder a en o, Vreemdelingenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.5)) en het middelenvereiste.
+
+Om te verzekeren dat minderjarige kinderen slechts verblijf krijgen gedurende de periode van toelating van de hoofdpersoon, krijgt de aan hen verstrekte verblijfsvergunning dezelfde geldigheidsduur als die van de hoofdpersoon.
+
+[Verwijzingen: EG-verdrag, Verdrag van Maastricht, Overeenkomst betreffende de Europese Economische Ruimte, [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=1), [8 Vreemdelingenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8), [artikel 1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=1.5), [8.6](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.6), [8.8](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.8), [8.11](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.11), [8.12](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.12), [8.13 Vreemdelingenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.13), [Richtlijn 64/221/EEG](31964L0221), EG-[verordening 1612/68](31968R1612), [Richtlijn 68/360/EEG](31968L0360), [Richtlijn 73/148/EEG](31973L0148)]
+
+### 6. Onderdanen van België en Luxemburg
+
+Zie voor artikel 8 EVRM (recht op eerbiediging van privé-, familie- en gezinsleven) B2 en zie voor artikel 3 EVRM (verbod van foltering) deel [C](onbekend).
+
+### 6.1. Belang
+
+### 7.2.5. Voorschrift
+
+### 7.3.4. Overige aantekeningen
+
+Tevens wordt de verblijfsvergunning voorzien van de aantekening: ‘Een beroep op de publieke middelen kan gevolgen hebben voor het verblijfsrecht.’
+
+Dit onderdeel is nog niet inwerking getreden
+
+Dit onderdeel is nog niet inwerking getreden
+
+### 11.2. Belang
+
+### 12.1. Inleiding
+
+Zolang niet is beslist op een tijdig ingediend bezwaar- of administratief beroepschrift is sprake van rechtmatig verblijf in de zin van [artikel 8, aanhef en onder h, Vreemdelingenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) en blijft uitzetting achterwege.
+
+### 16.3. Reisdocumenten
+
+### B12. Diplomaten en personeel van diplomatieke zending of consulaire posten en personeel van internationale organisaties en gezinsleden
+
+[Verwijzingen: Verdrag van Wenen inzake diplomatiek Verkeer (1961), artikel 37, nota van 30 augustus 1999 (DKP/BV-99/389) ministerie van Buitenlandse Zaken, nota nr. 68229 van 16 maart 1987 ministerie van Buitenlandse Zaken, [Vreemdelingenwet artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=16), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=17), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=21), [50](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=50), [Vreemdelingenbesluit artikel 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.7), [3.13 t/m 3.22](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.13), [3.40](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.40), [3.63](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.63), [3.71](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.71), [3.93](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.93), [4.46](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.46).]
+
+Indien familie- of gezinsleden zich eerst bij de hoofdpersoon in Nederland willen vervoegen wanneer de hoofdpersoon reeds rechtmatig verblijf heeft op grond van [artikel 8, onderdeel b, Vreemdelingenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8), dan zijn de bepalingen van B2 op deze familie- of gezinsleden van toepassing.
+
+### 4.2.2.2. Regeling van het verblijf
+
+Aan vreemdelingen als bedoeld in [artikel 3.40 Vreemdelingenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.40) wordt een verblijfsvergunning voor bepaalde tijd als bedoeld in [artikel 14 Vreemdelingenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14) verleend onder de beperking: ‘verblijf als NAVO-vreemdeling’ en met aantekening: ‘Arbeid vrij toegestaan. TWV niet vereist.’
+
+### 4.19. Internationaal Tribunaal voor de vervolging van personen verantwoordelijk voor ernstige schendingen van het internationaal humanitair recht op het grondgebied van het voormalige Joegoslavië sedert 1991
+
+### 1. Inleiding
 
 ### 3. Kennismigranten
 
