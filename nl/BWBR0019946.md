@@ -4,7 +4,7 @@ identifier: "BWBR0019946"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2006-11-19"
-last_updated: "2006-06-17"
+last_updated: "2006-11-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019946"
 soort: "ministeriele-regeling"
@@ -50,7 +50,7 @@ Besluit:
 
 ##### Artikel I
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Regeling Verpakkingen- en gebruiksartikelen (Warenwet).
 
 ##### Artikel II
 
@@ -58,16 +58,16 @@ Wijzigt de Regeling Verpakkingen- en gebruiksartikelen (Warenwet).
 
 ##### Artikel III
 
-Materialen en voorwerpen van kunststof die bestemd zijn om met levensmiddelen in aanraking te komen en die voldoen aan [deel A, hoofdstuk I, onderdelen 1.2, 2.1, 2.2, 2.3 en 2.5, van de Regeling Verpakkingen- en gebruiksartikelen (Warenwet)](onbekend), zoals die onmiddellijk vóór de inwerkingtreding van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0019946&artikel=I&z=2006-06-17&g=2006-06-17) luidde, mogen nog worden verhandeld tot 19 november 2007.
+Materialen en voorwerpen van kunststof die bestemd zijn om met levensmiddelen in aanraking te komen en die voldoen aan [deel A, hoofdstuk I, onderdelen 1.2, 2.1, 2.2, 2.3 en 2.5, van de Regeling Verpakkingen- en gebruiksartikelen (Warenwet)](onbekend), zoals die onmiddellijk vóór de inwerkingtreding van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0019946&artikel=I&z=2006-11-19&g=2006-11-19) luidde, mogen nog worden verhandeld tot 19 november 2007.
 
 ##### Artikel IV
 
-Keramische materialen die bestemd zijn om met levensmiddelen in aanraking te komen en die voldoen aan de [Regeling Verpakkingen- en gebruiksartikelen (Warenwet)](https://wetten.overheid.nl/jci1.3:c:BWBR0003276), zoals die onmiddellijk vóór de inwerkingtreding van [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0019946&artikel=II&z=2006-06-17&g=2006-06-17) van deze regeling luidde, mogen nog worden verhandeld tot 20 mei 2007.
+Keramische materialen die bestemd zijn om met levensmiddelen in aanraking te komen en die voldoen aan de [Regeling Verpakkingen- en gebruiksartikelen (Warenwet)](https://wetten.overheid.nl/jci1.3:c:BWBR0003276), zoals die onmiddellijk vóór de inwerkingtreding van [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0019946&artikel=II&z=2006-11-19&g=2006-11-19) van deze regeling luidde, mogen nog worden verhandeld tot 20 mei 2007.
 
 ##### Artikel V
 
 1. Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-2. In afwijking van het eerste lid, treedt [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0019946&artikel=I&z=2006-06-17&g=2006-06-17) in werking met ingang van 19 november 2006.
+2. In afwijking van het eerste lid, treedt [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0019946&artikel=I&z=2006-11-19&g=2006-11-19) in werking met ingang van 19 november 2006.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
