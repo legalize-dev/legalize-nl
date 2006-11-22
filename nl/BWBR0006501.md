@@ -4,7 +4,7 @@ identifier: "BWBR0006501"
 country: "nl"
 rank: "rijks_kb"
 publication_date: "2020-04-16"
-last_updated: "1998-08-01"
+last_updated: "2006-11-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006501"
 soort: "rijksKB"
@@ -120,7 +120,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 5
 
-Over aangelegenheden bij welke het algemeen regeringsbeleid betrokken kan zijn, niet behorende tot die bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0006501&paragraaf=2&artikel=4&z=1998-08-01&g=1998-08-01), plegen de ministers overleg met de minister-president. Indien het overleg niet tot overeenstemming leidt, worden deze aangelegenheden in de raad gebracht.
+Over aangelegenheden bij welke het algemeen regeringsbeleid betrokken kan zijn, niet behorende tot die bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0006501&paragraaf=2&artikel=4&z=2006-11-22&g=2006-11-22), plegen de ministers overleg met de minister-president. Indien het overleg niet tot overeenstemming leidt, worden deze aangelegenheden in de raad gebracht.
 
 ##### Artikel 6
 
@@ -128,7 +128,7 @@ In gevallen waarin het niet duidelijk is, welke minister in de eerste plaats ver
 
 ##### Artikel 7
 
-De minister-president kan, indien een aangelegenheid door de minister die daarvoor in de eerste plaats verantwoordelijk is, niet in de raad aan de orde wordt gesteld, in overeenstemming met het gevoelen van de raad, zelf zorg dragen voor de indiening van deze aangelegenheid bij de raad.
+De minister-president kan, indien een aangelegenheid door een minister die daarvoor in de eerste plaats verantwoordelijk is, niet in de raad aan de orde wordt gesteld, zelf zorg dragen voor de indiening van deze aangelegenheid bij de raad.
 
 #### § 3. De werkwijze van de raad
 
@@ -140,7 +140,7 @@ De raad vergadert in beginsel op vrijdag en voorts zo dikwijls als de minister-p
 
 1. De minister-president stelt de agenda vast. Een exemplaar van de agenda wordt tijdig aan de ministers en de staatssecretarissen gezonden.
 
-2. De voor de raad bestemde stukken worden in het algemeen 10 dagen voor de behandeling in de raad rondgezonden. Zij zijn voorzien van een daartoe bestemd aanbiedingsformulier.
+2. De voor de raad bestemde stukken worden in het algemeen 7 dagen voor de behandeling in de raad rondgezonden. Zij zijn voorzien van een daartoe bestemd aanbiedingsformulier.
 
 ##### Artikel 10
 
