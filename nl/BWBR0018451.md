@@ -4,7 +4,7 @@ identifier: "BWBR0018451"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2006-01-01"
+last_updated: "2006-11-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018451"
 soort: "wet"
@@ -57,7 +57,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - e. drempelinkomen: 108% van het twaalfvoud van het voor de maand januari van het berekeningsjaar geldende in [artikel 8, eerste lid, onderdeel a, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8) bedoelde bedrag per maand, verminderd met het werknemersaandeel in de premie ingevolge [artikel 25, tweede lid, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=25) en vermeerderd met de vergoeding ingevolge [artikel 46, eerste lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=46) over dat loon;
 
-- f. de standaardpremie: het op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018451&artikel=4&z=2006-01-01&g=2006-01-01) vastgestelde bedrag;
+- f. de standaardpremie: het op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018451&artikel=4&z=2006-11-22&g=2006-11-22) vastgestelde bedrag;
 
 - g. de normpremie: de aan de hand van het drempelinkomen en het toetsingsinkomen van de verzekerde berekende premie voor een zorgverzekering in het berekeningsjaar.
 
@@ -81,13 +81,11 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 3
 
-De voordracht voor een krachtens [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018451&artikel=2&z=2006-01-01&g=2006-01-01), vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan twee weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.
+De voordracht voor een krachtens [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018451&artikel=2&z=2006-11-22&g=2006-11-22), vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan twee weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.
 
 ##### Artikel 4
 
-1. Onze Minister stelt vóór 1 november van het jaar, voorafgaande aan het berekeningsjaar, bij regeling een bedrag vast, dat wordt gevormd door de geraamde gemiddelde premie voor een verzekerde voor een zorgverzekering in het berekeningsjaar te verminderen met het geraamde gemiddelde bedrag dat een verzekerde naar verwachting in het daaropvolgende jaar terug ontvangt ingevolge [artikel 22 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=22). Het vastgestelde bedrag geldt als standaardpremie voor het berekeningsjaar.
-
-2. In de maand april van het berekeningsjaar bepaalt Onze Minister aan de hand van het Centraal Economisch Plan of de standaardpremie afwijkt van het werkelijke gemiddelde van de premie. Indien hij een afwijking constateert van € 25 of meer, stelt hij de standaardpremie voor dat jaar opnieuw vast.
+Onze Minister stelt uiterlijk 15 dagen, voorafgaande aan het berekeningsjaar, bij regeling een bedrag vast, dat wordt gevormd door de geraamde gemiddelde premie voor een verzekerde voor een zorgverzekering in het berekeningsjaar te verminderen met het geraamde gemiddelde bedrag dat een verzekerde naar verwachting in het daaropvolgende jaar terug ontvangt ingevolge [artikel 22 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=22). Het vastgestelde bedrag geldt als standaardpremie voor het berekeningsjaar.
 
 ##### Artikel 5
 
