@@ -4,7 +4,7 @@ identifier: "BWBR0027703"
 country: "nl"
 rank: "zbo"
 publication_date: "2025-07-01"
-last_updated: "2006-06-12"
+last_updated: "2006-11-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027703"
 soort: "zbo"
@@ -49,39 +49,61 @@ Treedt in werking op het tijdstip waarop de Organisatiewet Kadaster in werking t
 
 ##### Artikel 1
 
-1. In deze regeling wordt verstaan onder ‘M.t.s.’: [Maatregel teboekgestelde schepen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005260).
+In deze regeling wordt verstaan onder:
 
-2. [Artikel 1 van de M.t.s.](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&artikel=1) is van toepassing.
+- a. de wet: de [Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541);
 
-### Hoofdstuk 2. Openbare registers
+- b. de Dienst: de Dienst voor het kadaster en de openbare registers, bedoeld in [artikel 2 van de Organisatiewet Kadaster](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&artikel=2);
+
+- c. het kantoor: het kantoor van de Dienst als bedoeld in [artikel 4, tweede lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=4);
+
+- d. het hoofdkantoor: het ingevolge [artikel 4, eerste lid, tweede zin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=4) door het bestuur van de Dienst als hoofdkantoor van de openbare registers en registratie voor schepen aangewezen kantoor van de Dienst;
+
+- e. de openbare registers: de openbare registers, bedoeld in [afdeling 2 van titel 1 van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&afdeling=2);
+
+- f. een verdragsregister: een verdragsregister als bedoeld in [artikel 781, onder d, van Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=781);
+
+- g. het brandmerk: het brandmerk, bedoeld in [artikel 21, eerste lid, onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=21), dat overeenkomstig [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=22) is aangebracht op een schip;
+
+- h. branden: duurzaam aanbrengen van een brandmerk;
+
+- i. verplaatsing van een binnenschip: hetgeen daaronder wordt verstaan in [artikel 785, tweede lid, onder a, van Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=785);
+
+- j. het stukidentificatienummer: het stukidentificatienummer, bedoeld in [artikel 11c, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=11c).
+
+### Hoofdstuk 2. De openbare registers voor schepen
 
 ##### Artikel 2
 
-Op het register van voorlopige aantekeningen voor schepen en de rechten waaraan deze onderworpen zijn, bedoeld in [artikel 8, eerste lid, onder d, van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=8), zijn de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&artikel=5) en [6 van de Kadasterregeling 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&artikel=6) van overeenkomstige toepassing.
+[Hoofdstuk 2 van de Kadasterregeling 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&hoofdstuk=2) is van overeenkomstige toepassing op de openbare registers voor schepen, met dien verstande dat:
+
+- a. op het afschrift van een stuk dat in papieren vorm wordt aangeboden, de tekst ‘Hypotheken 3’ of ‘Hypotheken 4’ voorafgegaan wordt door de afkorting ‘SC’, en
+
+- b. de opbergeenheid waarin afschriften worden opgeborgen van de stukken die in papieren vorm zijn aangeboden, wordt aangeduid met de letters ‘SC’.
 
 ##### Artikel 3
 
-Ten aanzien van door de bewaarder te stellen aantekeningen in de openbare registers, bedoeld in [artikel 8, eerste lid, onder b, van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=8) en in het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027703&hoofdstuk=2&artikel=2&z=2006-06-12&g=2006-06-12) bedoelde register, zijn de [artikelen 7 tot en met 11 van de Kadasterregeling 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&artikel=7) van overeenkomstige toepassing.
+Vervallen
 
 ##### Artikel 4
 
-De inschrijvingen in elk der registers genoemd in [artikel 2, tweede lid, onder a en b, van de Uitvoeringsregeling Kadasterwet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&artikel=2) geschieden onder doorlopende volgnummers die in elk register een ononderbroken reeks vormen.
+Vervallen
 
 ##### Artikel 5
 
-De formulieren Hypotheken 3 en 4 worden voorzien van het in [artikel 13 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=13) bedoelde deel en nummer. Zij worden gerangschikt in volgorde van deel en nummer en vervolgens gescand en gemicrofotografeerd.
+Vervallen
 
 ##### Artikel 6
 
-De [artikelen 16 tot en met 21 van de Kadasterregeling 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&artikel=16) zijn van overeenkomstige toepassing.
+Vervallen
 
 ##### Artikel 7
 
-Voor de inschrijving van stukken in de registers Hypotheken 3 en 4, zijn de [artikelen 11a](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&artikel=11a), [11b](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&artikel=11b), [11c](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&artikel=11c) en [11e van de Kadasterregeling 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&artikel=11e) van overeenkomstige toepassing.
+Vervallen
 
 ##### Artikel 8
 
-1. Ten behoeve van de inschrijving van stukken ten aanzien waarvan mede inlevering van een afschrift niet is vereist, maakt de Dienst een mechanische reproduktie van het ter inschrijving aangeboden stuk op een formulier Hypotheken 4, zo nodig vervolgd op een of meer formulieren Hypotheken 3/4-vervolg.
+1. Indien een stuk ter inschrijving wordt aangeboden en niet vereist is dat tevens een afschrift van dit stuk wordt aangeboden, maakt de Dienst een afschrift van dit stuk, dat voldoet aan de [artikelen 11c van de Kadasterregeling 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&artikel=11c) en [2, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0027703&hoofdstuk=2&artikel=2&z=2006-11-24&g=2006-11-24).
 
 2. De bewaarder verklaart de inhoud van het formulier overeenkomstig het origineel, welke verklaring door hem wordt ondertekend.
 
@@ -95,7 +117,7 @@ Voor de inschrijving van stukken in de registers Hypotheken 3 en 4, zijn de [art
 
 3. De geautomatiseerde registratie voor schepen is behalve door het brandmerk ook toegankelijk door middel van de naam van de rechthebbende en de naam van het schip.
 
-4. De in [artikel 85, tweede lid, onder a en b, van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=85) genoemde gegevens, die ten gevolge van bijwerking niet meer actueel zijn, blijven, ook voor schepen waarvan de teboekstelling is doorgehaald, raadpleegbaar.
+4. De in [artikel 85, tweede lid, onder a en b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=85) genoemde gegevens, die ten gevolge van bijwerking niet meer actueel zijn, blijven, ook voor schepen waarvan de teboekstelling is doorgehaald, raadpleegbaar.
 
 5. Ten aanzien van het gebruik van hoofd- en kleine letters en diacritische tekens, en van het al dan niet aan elkaar schrijven van letters behoeft geen overeenstemming te bestaan tussen de bij de Dienst bekend gestelde schrijfwijze der in de registratie voor schepen te vermelden gegevens en de wijze van vermelding van die gegevens daarin. In geval van diacritische tekens wordt in de registratie voor schepen een indicatie opgenomen waaruit van het bestaan van deze tekens blijkt.
 
@@ -116,7 +138,7 @@ Voor de inschrijving van stukken in de registers Hypotheken 3 en 4, zijn de [art
 | a. Afwijkend beding als bedoeld in [artikel 1, vijfde lid, van Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=1) | Afwijkend beding, onder vermelding van het scheepstoebehoren ten aanzien waarvan dat beding is gemaakt |
 | Scheepshuurkoopovereenkomst waarop [artikel 800, tweede lid, van Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=800) van toepassing is | Scheepshuurkoop |
 
-6. In geval van een boeking in het register Hypotheken 4D wordt onder verwijzing van een fictief deel en nummer van het register Hypotheken 4 achter ‘mede-eigenaar’ opgevoerd ‘boeking in register voorlopige aantekening’.
+6. In geval van een boeking in het register Hypotheken 4D wordt onder verwijzing van het stukidentificatienummer van het stuk waarop de boeking betrekking heeft achter ‘mede-eigenaar’ opgevoerd ‘boeking in register voorlopige aantekening’.
 
 ##### Artikel 11
 
@@ -146,17 +168,17 @@ met teboekstellingskenmerk ...’, onder invulling van de desbetreffende gegeven
 
 De Nederlandse teboekstelling heeft eerst gevolg nadat de teboekstelling in het buitenlandse register is doorgehaald’, onder invulling van de desbetreffende gegevens.
 
-3. In geval van inschrijving van het in de [artikelen 18, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&artikel=18), en [19, derde lid, van de M.t.s.](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&artikel=19) genoemde bewijs wordt de in het tweede lid bedoelde vermelding doorgehaald onder aantekening van het tijdstip en het deel en nummer van inschrijving van het bewijs. Het eerste lid is van toepassing.
+3. In geval van inschrijving van het in de [artikelen 18, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&artikel=18), en [19, derde lid, van de M.t.s.](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&artikel=19) genoemde bewijs wordt de in het tweede lid bedoelde vermelding doorgehaald onder aantekening van het tijdstip en het stukidentificatienummer van het bewijs. Het eerste lid is van toepassing.
 
 4. In geval van weigering van doorhaling in het buitenlands register als bedoeld in de [artikelen 18, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&artikel=18), en [19, vierde lid, van de M.t.s.](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&artikel=19), wordt in de registratie voor schepen toegevoegd de aantekening:
 
-‘bewaarder buitenlands register weigert doorhaling teboekstelling’, onder aantekening van het tijdstip en het deel en nummer van inschrijving van het bewijsstuk van de weigering.
+‘bewaarder buitenlands register weigert doorhaling teboekstelling’, onder aantekening van het tijdstip en het stukidentificatienummer van het bewijsstuk van de weigering.
 
 ##### Artikel 15
 
-1. Wanneer een schip in een andere rubriek wordt teboekgesteld, wordt in de registratie voor schepen bij de doorhaling der teboekstelling aangetekend:
+1. Wanneer een schip in een andere rubriek wordt te boek gesteld, wordt in de registratie voor schepen bij de doorhaling der teboekstelling aangetekend:
 
-‘later teboekgesteld B, V of Z nr. ...’, onder invulling van de desbetreffende gegevens, en bij de nieuwe teboekstelling bij het brandmerk: ‘vroeger geboekt B, V of Z nr. ...’, onderinvulling van de desbetreffende gegevens. In geval van een nieuwe teboekstelling van een schip dat reeds eerder te boek stond, wordt op gelijke wijze onderling verwezen.
+‘later te boek gesteld B, V of Z nr. ...’, onder invulling van de desbetreffende gegevens, en bij de nieuwe teboekstelling bij het brandmerk: ‘vroeger geboekt B, V of Z nr. ...’, onderinvulling van de desbetreffende gegevens. In geval van een nieuwe teboekstelling van een schip dat reeds eerder te boek stond, wordt op gelijke wijze onderling verwezen.
 
 2. In de in het eerste lid genoemde gevallen wordt het schip opnieuw gebrand met wijziging van het vroegere brandmerk.
 
@@ -246,11 +268,11 @@ alsmede
 
 3. Een uittreksel inzake een niet-actuele toestand wordt zoveel mogelijk verstrekt in de vorm van een mechanische reproductie van het desbetreffende stuk.
 
-4. Een bewijs van doorhaling van de teboekstelling van een schip heeft de vorm van het model dat als [bijlage 32](https://wetten.overheid.nl/jci1.3:c:BWBR0027703&bijlage=32&z=2006-06-12&g=2006-06-12) bij deze regeling is gevoegd.
+4. Een bewijs van doorhaling van de teboekstelling van een schip heeft de vorm van het model dat als [bijlage 32](https://wetten.overheid.nl/jci1.3:c:BWBR0027703&bijlage=32&z=2006-11-24&g=2006-11-24) bij deze regeling is gevoegd.
 
-5. De in [artikel 106, eerste lid, van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=106) bedoelde verklaring heeft de vorm van het model dat als [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027703&bijlage=4&z=2006-06-12&g=2006-06-12) bij deze regeling is gevoegd.
+5. De in [artikel 101, eerste lid, van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=101) bedoelde verklaring heeft de vorm van het model dat als [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027703&bijlage=4&z=2006-11-24&g=2006-11-24) bij deze regeling is gevoegd.
 
-6. De in [artikel 106, eerste lid, van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=106) bedoelde afschriften worden verstrekt in de vorm van mechanische reproducties van die bescheiden.
+6. De in [artikel 101, eerste lid, van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=101) bedoelde afschriften worden verstrekt in de vorm van mechanische reproducties van die bescheiden.
 
 7. Ten behoeve van de teboekstelling in een buitenlands register kunnen vorm en tekst van de in het vierde en vijfde lid genoemde documenten worden afgestemd op de in dat land gestelde eisen.
 
@@ -258,45 +280,45 @@ alsmede
 
 ##### Artikel 22
 
-Vervallen
+1. De Dienst verstrekt op verzoek afschriften of uittreksels betreffende de in de registratie voor schepen te boek gestelde stukken, dan wel getuigschriften omtrent het al dan niet bestaan van inschrijvingen betreffende schepen, als bedoeld in [artikel 99 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=99). De [artikelen 119](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&artikel=119) en [126 van de Kadasterregeling 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&artikel=126) zijn van overeenkomstige toepassing.
+
+2. De bewaarder waarmerkt afschriften en uittreksels in papieren vorm door in het afschrift of het uittreksel de volgende door hem te ondertekenen verklaring op te nemen: ‘Voor eensluidend afschrift (onderscheidenlijk uittreksel)’, gevolgd door zijn naam, voorletters en functie.
+
+3. De bewaarder waarmerkt getuigschriften in papieren vorm door hierop zijn naam, voorletters en functie te vermelden en het getuigschrift te ondertekenen.
+
+4. De bewaarder waarmerkt afschriften, uittreksels en getuigschriften in elektronische vorm door hieraan een afzonderlijk bestand toe te voegen, waarin zijn opgenomen zijn naam, de naam van het kantoor van de Dienst, de datum van afgifte en de verklaring dat de gegevens overeenstemmen met de bij de Dienst berustende gegevens.
 
 ##### Artikel 23
 
-1. Omtrent de vorm van de in [artikel 99 van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=99) bedoelde afschriften, uittreksels en getuigschriften inzake de openbare registers betreffende schepen, en de wijze van raadpleging van die registers, zijn de [artikelen 119](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&artikel=119), [126, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&artikel=126), en [128 tot en met 130 van de Kadasterregeling 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&artikel=128) voorzover mogelijk van overeenkomstige toepassing, met dien verstande dat de in laatstgenoemde artikelen bedoelde formulieren naar omstandigheden worden aangepast.
-
-2. Omtrent de wijze van raadpleging van de registratie voor schepen is [artikel 136 van de Kadasterregeling 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&artikel=136) van overeenkomstige toepassing.
+De raadpleging van de kadastrale registratie voor schepen geschiedt door het verlenen van inzage aan de kantoren van de Dienst die voor het publiek zijn opengesteld, via het in paragraaf 3.6 van de technische handleiding genoemde internetadres of door middel van een permanente aansluiting op de geautomatiseerde kadastrale registratie en door het verstrekken van inlichtingen, door middel van de telefoon of telefax.
 
 ### Hoofdstuk 7. Overige en slotbepalingen
 
 ##### Artikel 24
 
-1. De kennisgevingen van het resultaat van de bijhouding, bedoeld in [artikel 88 van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=88), voor zover het de wijziging van een rechthebbende betreft, hebben de vorm van de modellen die als [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027703&bijlage=1&z=2006-06-12&g=2006-06-12) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0027703&bijlage=2&z=2006-06-12&g=2006-06-12) bij deze regeling zijn gevoegd.
+1. Omtrent de kennisgeving, bedoeld in [artikel 89, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=89), juncto [artikel 59, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=59), is [artikel 109, vierde lid, van de Kadasterregeling 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&artikel=109) van overeenkomstige toepassing.
 
-2. Omtrent de kennisgeving, bedoeld in [artikel 89, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=89), juncto [artikel 59, derde lid, van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=59), is [artikel 109, vierde lid, van de Kadasterregeling 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&artikel=109) van overeenkomstige toepassing.
+2. Omtrent de mededeling, bedoeld in [artikel 91, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=91), juncto [artikel 64, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=64), is [artikel 109, vijfde lid, van de Kadasterregeling 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&artikel=109) van overeenkomstige toepassing.
 
-3. Omtrent de mededeling, bedoeld in [artikel 91, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=91), juncto [artikel 64, tweede lid, van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=64), is [artikel 109, vijfde lid, van de Kadasterregeling 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&artikel=109) van overeenkomstige toepassing.
+3. Omtrent de mededeling, bedoeld in [artikel 91, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=91), juncto [artikel 65, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=65), is [artikel 109, zesde lid, van de Kadasterregeling 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&artikel=109) van overeenkomstige toepassing.
 
-4. Omtrent de mededeling, bedoeld in [artikel 91, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=91), juncto [artikel 65, tweede lid, van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=65), is [artikel 109, zesde lid, van de Kadasterregeling 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&artikel=109) van overeenkomstige toepassing.
-
-5. [Artikel 111 van de Kadasterregeling 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&artikel=111) van overeenkomstige toepassing op de beslissing van de ambtenaar op het bezwaarschrift waarbij bezwaar is gemaakt tegen de beslissing, bedoeld in de [artikelen 89, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=89), juncto [artikel 59, derde lid, van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=59) en op diens beslissing op bezwaarschriften als bedoeld in [artikel 87b](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=87b) juncto [artikel 56c, eerste lid, van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=56c) tegen beschikkingen inzake de bijhouding, alsmede op de brief waarbij die beslissingen van de ambtenaar aan belanghebbenden wordt toegezonden.
-
-6. De in [artikel 34 van de M.t.s.](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&artikel=34) bedoelde kennisgeving van een teboekstelling dan wel van een doorhaling van een teboekstelling bestaat uit een uitvoerprodukt met de vorm van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027703&bijlage=1&z=2006-06-12&g=2006-06-12) met een begeleidende brief.
+4. [Artikel 111 van de Kadasterregeling 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&artikel=111) van overeenkomstige toepassing op de beslissing van de ambtenaar op het bezwaarschrift waarbij bezwaar is gemaakt tegen de beslissing, bedoeld in de [artikelen 89, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=89), juncto [artikel 59, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=59) en op diens beslissing op bezwaarschriften als bedoeld in [artikel 87b](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=87b) juncto [artikel 56c, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=56c) tegen beschikkingen inzake de bijhouding, alsmede op de brief waarbij die beslissingen van de ambtenaar aan belanghebbenden wordt toegezonden.
 
 ##### Artikel 25
 
-De in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&artikel=36) juncto [artikel 35, eerste lid, van de M.t.s.](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&artikel=35) bedoelde aangifte heeft de vorm van het model dat als [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0027703&bijlage=9&z=2006-06-12&g=2006-06-12) bij deze regeling is gevoegd.
+De in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&artikel=36) juncto [artikel 35, eerste lid, van de M.t.s.](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&artikel=35) bedoelde aangifte heeft de vorm van het model dat als [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0027703&bijlage=9&z=2006-11-24&g=2006-11-24) bij deze regeling is gevoegd.
 
 ##### Artikel 26
 
-1. Omtrent de kennisgeving van het herstel van een kennelijke misslag begaan bij de bijwerking van de registratie voor schepen, bedoeld in [artikel 113, eerste lid, van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=113), is [artikel 146, eerste lid, van de Kadasterregeling 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&artikel=146) van overeenkomstige toepassing.
+1. Omtrent de kennisgeving van het herstel van een kennelijke misslag begaan bij de bijwerking van de registratie voor schepen, bedoeld in [artikel 113, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=113), is [artikel 146, eerste lid, van de Kadasterregeling 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&artikel=146) van overeenkomstige toepassing.
 
-2. [Artikel 112, eerste lid, van de Kadasterregeling 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&artikel=112) is van overeenkomstige toepassing op de vorm van de in [artikel 113, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=113), juncto [artikel 112, eerste lid, van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=112) bedoelde afwijzende beslissing op verzoeken tot herstel. Het in [artikel 146, derde lid, van de Kadasterregeling 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&artikel=146) bedoelde model voor de brief waarbij de beslissing wordt bekend gemaakt, wordt aangepast aan de omstandigheden.
+2. [Artikel 112, eerste lid, van de Kadasterregeling 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&artikel=112) is van overeenkomstige toepassing op de vorm van de in [artikel 113, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=113), juncto [artikel 112, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=112) bedoelde afwijzende beslissing op verzoeken tot herstel. Het in [artikel 146, derde lid, van de Kadasterregeling 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&artikel=146) bedoelde model voor de brief waarbij de beslissing wordt bekend gemaakt, wordt aangepast aan de omstandigheden.
 
 3. [Artikel 111 van de Kadasterregeling 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&artikel=111) is van overeenkomstige toepassing op de vorm van de beslissing van de ambtenaar op bezwaarschriften, waarbij bezwaar is gemaakt tegen de beslissing op een zodanig verzoek dan wel tegen de beslissing tot een ambtshalve herstel van een kennelijke misslag, alsmede op de brief waarbij de desbetrefffende beslissing aan de belanghebbende wordt bekendgemaakt. Het in artikel 111, tweede lid, van de Kadasterregeling 1994 bedoelde model voor de in de vorige zin bedoelde brief wordt aangepast naar de omstandigheden.
 
 ##### Artikel 27
 
-Omtrent de wijze waarop de in [artikel 116 van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=116) bedoelde vergissingen, verzuimen, kennelijk misslagen en andere onregelmatigheden omtrent de openbare registers voor schepen en de registratie voor schepen worden hersteld, zijn de [artikelen 147](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&artikel=147) en [148 van de Kadasterregeling 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&artikel=148) van overeenkomstige toepassing.
+Omtrent de wijze waarop de in [artikel 116 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=116) bedoelde vergissingen, verzuimen, kennelijk misslagen en andere onregelmatigheden omtrent de openbare registers voor schepen en de registratie voor schepen worden hersteld, zijn de [artikelen 147](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&artikel=147) en [148 van de Kadasterregeling 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&artikel=148) van overeenkomstige toepassing.
 
 ##### Artikel 28
 
@@ -304,7 +326,7 @@ Omtrent de wijze waarop de in [artikel 116 van de Kadasterwet](https://wetten.ov
 
 2. Deze regeling wordt aangehaald als: Regeling teboekgestelde schepen 1994, dan wel als: R.t.s. 1994.
 
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0027703&bijlage=1&z=2006-06-12&g=2006-06-12).
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0027703&bijlage=1&z=2006-11-24&g=2006-11-24).
 
 ## Bijlage 1
 
