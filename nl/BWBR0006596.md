@@ -4,7 +4,7 @@ identifier: "BWBR0006596"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2017-03-10"
-last_updated: "2005-09-01"
+last_updated: "2006-11-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006596"
 soort: "ministeriele-regeling"
@@ -39,61 +39,67 @@ Gelet op de [artikelen 8, tweede lid, eerste zin](https://wetten.overheid.nl/jci
 
 Besluit:
 
-### Hoofdstuk 1. Algemene bepaling
+### Hoofdstuk 1. Algemene bepalingen
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
+- a. de wet: de [Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541);
+
+- b. de Dienst: de Dienst voor het kadaster en de openbare registers, bedoeld in [artikel 2 van de Organisatiewet Kadaster](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&artikel=2);
+
+- c. de bewaarder, bedoeld in [artikel 6 van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=6);
+
+- d. het certificaat: het certificaat, bedoeld in [artikel 1.1, onderdeel rr, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=1.1);
+
+- e. het gekwalificeerde certificaat: het gekwalificeerde certificaat, bedoeld in [artikel 1.1, onderdeel ss, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=1.1);
+
+- f. de certificatiedienstverlener: de certificatiedienstverlener, bedoeld in [artikel 1.1, onderdeel tt, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=1.1);
+
+- g. de identiteitscode: de identiteitscode, bedoeld in [artikel 3, onder g, van het Besluit elektronische handtekeningen](https://wetten.overheid.nl/jci1.3:c:BWBR0015047&artikel=3);
+
+- h. het kabelnet: het net bestaande uit een of meer kabels, dat in de grond is of wordt aangelegd.
+
 ### Hoofdstuk 2. Het samenstel van de openbare registers en het afschrift van ter inschrijving aangeboden stukken; tekeningen
 
 ##### Artikel 2
 
-1. De registers, bedoeld in [artikel 8, eerste lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=8) bestaan uit:
+1. De elektronische handtekening, bedoeld in [artikel 7e, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=7e), wordt aangemaakt met de techniek van de digitale handtekening.
 
-- a. een register Hypotheken 3 voor de inschrijving van stukken inzake hypotheken en beslagen, alsmede inzake alle rechtshandelingen en rechtsfeiten die betrekking hebben op hypotheken en beslagen;
-
-- b. een register Hypotheken 4 voor de inschrijving van alle overige stukken.
-
-2. De registers, bedoeld in [artikel 8, eerste lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=8) bestaan uit:
-
-- a. een register Hypotheken 4 voor de inschrijving van de verzoeken tot teboekstelling van zeeschepen en zeevissersschepen;
-
-- b. een register Hypotheken 4 voor de inschrijving van de verzoeken tot teboekstelling van binnenschepen;
-
-- c. een register Hypotheken 3 voor de inschrijving van stukken inzake hypotheken en beslagen, alsmede inzake alle rechtshandelingen en rechtsfeiten die betrekking hebben op hypotheken en beslagen;
-
-- d. een register Hypotheken 4 voor de inschrijving van de verzoeken tot teboekstelling als afgebouwd schip, alsmede voor de inschrijving van alle overige stukken.
-
-3. De registers, bedoeld in [artikel 8, eerste lid, onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=8) bestaan uit:
-
-- a. een register Hypotheken 4 voor de inschrijving van de verzoeken tot teboekstelling;
-
-- b. een register Hypotheken 3 voor de inschrijving van stukken inzake hypotheken en beslagen, alsmede inzake alle rechtshandelingen en rechtsfeiten die betrekking hebben op hypotheken en beslagen;
-
-- c. een register Hypotheken 4 voor de inschrijving van alle overige stukken.
+2. Het bestuur van de Dienst stelt bij regeling technische standaarden, normen en specificaties vast voor het aanmaken van de elektronische handtekening.
 
 ##### Artikel 3
 
-1. De verklaring van eensluidendheid, bedoeld in [artikel 11, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=11) wordt gesteld aan de voet van het afschrift en bevat de verklaring dat het afschrift eensluidend is met het ter inschrijving aangeboden stuk, onder vermelding van naam, voornamen en woonplaats met adres van degene die de verklaring ondertekent.
+1. De verklaring van eensluidendheid, bedoeld in [artikel 11, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=11), wordt gesteld aan de voet van het afschrift van het in papieren vorm ter inschrijving aangeboden stuk en bevat de verklaring dat het afschrift eensluidend is met het ter inschrijving aangeboden stuk. De verklaring bevat voorts de vermelding van de naam, de voornamen en de woonplaats met het adres van degene die de verklaring ondertekent.
 
-2. Ingeval de verklaring van eensluidendheid wordt ondertekend door een notaris of griffier, kan in plaats van de woonplaats met adres, de benaming van het ambt alsmede de standplaats worden vermeld.
+2. Indien de verklaring van eensluidendheid ondertekend wordt door een notaris, gerechtsdeurwaarder, griffier dan wel een advocaat of procureur, kan in plaats van de woonplaats met het adres worden vermeld:
 
-3. De in het eerste lid bedoelde verklaring moet worden ondertekend:
+- a. de benaming van het ambt en de plaats van vestiging van de notaris dan wel de gerechtsdeurwaarder;
+
+- b. de benaming van het ambt en de standplaats van de griffier, of
+
+- c. de benaming van de hoedanigheid van de advocaat of de procureur en de plaats van vestiging van de advocaat of procureur.
+
+3. De in het eerste lid bedoelde verklaring wordt ondertekend:
 
 - a. indien het notariële akten en notariële verklaringen betreft: door een notaris;
 
-- b. indien het rechterlijke uitspraken betreft: door de desbetreffende griffier of door een notaris;
+- b. indien het rechterlijke uitspraken betreft: door de betrokken griffier of door een notaris;
 
-- c. indien het een proces-verbaal van inbeslagneming betreft: door de desbetreffende deurwaarder of procureur, of door een notaris;
+- c. indien het een proces-verbaal van inbeslagneming betreft: door de betrokken deurwaarder of procureur, of door een notaris;
 
 - d. indien het een instelling van een rechtsvordering, of een indiening van een verzoekschrift ter verkrijging van een rechterlijke uitspraak betreft: door degene die het ter inschrijving aangeboden stuk voor afschrift heeft getekend, of door een notaris;
 
 - e. indien het andere dan de onder a tot en met d bedoelde stukken betreft: door de ondertekenaars van die stukken, dan wel door één of meer van hen die daartoe uitdrukkelijk in het stuk zijn gemachtigd, of door een notaris.
 
+4. De verklaring, bedoeld in [artikel 11b, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=11b), wordt op zodanige wijze in het afschrift of het uittreksel van het in elektronische vorm ter inschrijving aangeboden stuk opgenomen, dat na omzetting van het desbetreffende elektronische bestand naar een leesbare tekst de verklaring aan de voet van het afschrift verschijnt. De verklaring bevat de vermelding van de naam, de voornamen en de woonplaats met het adres van degene die de verklaring voorziet van een elektronische handtekening. Het tweede en derde lid zijn van overeenkomstige toepassing.
+
+5. Het eerste tot en met het vierde lid zijn van overeenkomstige toepassing op de verklaring van eensluidendheid, bedoeld in [artikel 11, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=11), of de verklaring, bedoeld in [artikel 11b, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=11b), die wordt opgenomen in het afschrift van een stuk dat deel uitmaakt of deel uit zal gaan maken van een stuk dat ter inschrijving wordt aangeboden, voorzover hiervan niet wordt afgeweken in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&hoofdstuk=2&artikel=5&z=2006-11-24&g=2006-11-24) en [7 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&hoofdstuk=2&artikel=7&z=2006-11-24&g=2006-11-24).
+
 ##### Artikel 4
 
-Bij de aanbieding ter inschrijving van de volgende stukken behoeft geen afschrift als bedoeld in [artikel 11, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=11) te worden aangeboden:
+Bij de aanbieding ter inschrijving van de volgende stukken in papieren vorm behoeft geen afschrift als bedoeld in [artikel 11, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=11) te worden aangeboden:
 
 - a. verzoek tot teboekstelling van een zeeschip of zeevissersschip in aanbouw;
 
@@ -125,21 +131,21 @@ Bij de aanbieding ter inschrijving van de volgende stukken behoeft geen afschrif
 
 ##### Artikel 5
 
-1. Tekeningen die deel uitmaken van ter inschrijving aangeboden stukken, moeten voldoen aan de volgende vereisten:
+1. Indien een stuk in papieren vorm ter inschrijving wordt aangeboden en een tekening van A4-formaat in papieren vorm deel uitmaakt van dit stuk, wordt aan de voet van het afschrift van het stuk, boven de verklaring van eensluidendheid, tevens een afschrift van de tekening opgenomen. Indien de tekening een groter formaat dan A4-formaat heeft, wordt naast het afschrift van het stuk een afzonderlijk afschrift van de tekening aangeboden, dat eveneens voorzien is van een verklaring van eensluidendheid.
 
-- a. de tekeningen moeten in zwarte inkt op het formulier, bedoeld in [artikel 11, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=11), zijn overgenomen, waarbij geen kleuren mogen worden gebruikt;
+2. Indien in de tekening, naast zwart en wit, kleuren zijn gebruikt, wordt dit op het afschrift van de tekening vermeld op een in het oog vallende plaats.
 
-- b. wordt een tekening gesteld na de verklaring van eensluidendheid, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&hoofdstuk=2&artikel=3&z=2005-09-01&g=2005-09-01), dan behoort deze verklaring onder de tekening te worden herhaald.
+3. Het afschrift van de tekening is behoorlijk raadpleegbaar.
 
-2. In afwijking van [artikel 11, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=11) kan van een tekening een niet op een door de Dienst verstrekt formulier gesteld afschrift worden aangeboden, ingeval naar het oordeel van de bewaarder de figuratie te groot of te ingewikkeld is om zonder bezwaar op bedoeld formulier te worden overgenomen.
+4. Indien de tekening is vervaardigd op een groter formaat dan A0-formaat, wordt het afschrift van de tekening verdeeld over een aantal doorlopend genummerde bladen op A0-formaat en wordt bij het afschrift een overzichtstekening gevoegd. Op de overzichtstekening wordt de ligging van de bladen ten opzichte van elkaar vermeld onder toevoeging van de bladnummers.
 
-3. Het niet op een door de Dienst verstrekt formulier gesteld afschrift, bedoeld in het tweede lid, moet zijn voorzien van een verklaring van eensluidendheid als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&hoofdstuk=2&artikel=3&z=2005-09-01&g=2005-09-01).
+5. In gevallen als bedoeld in het vierde lid wordt de verklaring van eensluidendheid gesteld aan de voet van het afschrift van het blad met het hoogste nummer.
 
 ##### Artikel 6
 
-1. Onverminderd [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&hoofdstuk=2&artikel=5&z=2005-09-01&g=2005-09-01), moet de tekening, bedoeld in [artikel 109, tweede lid, van Boek 5 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&artikel=109), voldoen aan de volgende vereisten:
+1. Onverminderd [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&hoofdstuk=2&artikel=5&z=2006-11-24&g=2006-11-24), voldoet de tekening, bedoeld in [artikel 109, tweede lid, van Boek 5 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&artikel=109), aan de volgende vereisten:
 
-- a. elk blad waaruit de tekening bestaat vermeldt de kadastrale aanduiding van het in de splitsing in appartementsrechten betrokken perceel en elk blad wordt door de desbetreffende notaris gewaarmerkt;
+- a. elk blad waaruit de tekening bestaat, vermeldt de kadastrale aanduiding van het in de splitsing in appartementsrechten betrokken perceel en elk blad wordt door de betrokken notaris gewaarmerkt;
 
 - b. de tekening bevat plattegronden van de begane grond en van de ver diepingen en zonodig ook doorsnede en aanzichten van het gebouw, alsmede van de bij het gebouw behorende grond;
 
@@ -165,27 +171,229 @@ Bij de aanbieding ter inschrijving van de volgende stukken behoeft geen afschrif
 
 3. In afwijking van het eerste lid, onder i, kan een kleinere schaal worden gebruikt voor een situatieschets, welke met het oog op het aan het slot van het eerste lid, onder c, omschreven vereiste, op de tekening wordt aangebracht, als overzicht van de overige afbeeldingen.
 
-4. In geval van ondersplitsing in appartementsrechten worden de omkringde nummers, bedoeld in [artikel 28, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&hoofdstuk=7&artikel=28&z=2005-09-01&g=2005-09-01), op de tekening gesteld in de linkerbovenhoek van elk van de desbetreffende gedeelten.
-
-##### Artikel 7
-
-Vervallen
-
-##### Artikel 8
-
-Vervallen
-
-##### Artikel 9
-
-Vervallen
+4. In geval van ondersplitsing in appartementsrechten worden de omkringde nummers, bedoeld in [artikel 28, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&hoofdstuk=7&artikel=28&z=2006-11-24&g=2006-11-24), op de tekening gesteld in de linkerbovenhoek van elk van de desbetreffende gedeelten.
 
 ##### Artikel 10
 
-Vervallen
+1. Van een tekening in papieren vorm die deel uitmaakt dan wel deel uit zal gaan maken van een stuk dat in elektronische vorm ter inschrijving zal worden aangeboden, kan voorafgaand aan de inschrijving een afschrift in papieren vorm in bewaring worden genomen, indien de aanbieder dit verzoekt en dit bijdraagt aan de raadpleegbaarheid van het afschrift van de tekening in de openbare registers.
+
+2. Het verzoek tot inbewaringneming wordt ingediend ten minste twee weken voordat het stuk waarvan de tekening deel uitmaakt, ter inschrijving wordt aangeboden, door middel van een formulier dat de vorm heeft van het model dat als [bijlage 17](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&bijlage=17&z=2006-11-24&g=2006-11-24) bij deze regeling is gevoegd.
+
+3. Indien de tekening deel uitmaakt van een stuk dat betrekking heeft op een appartementsrecht of een kabelnet, wordt het verzoek tot inbewaringneming, in afwijking van het tweede lid, gedaan gelijktijdig met een verzoek tot vaststelling van het complexnummer of een verzoek tot vaststelling van het nummer van een kabelnet als bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&hoofdstuk=7&artikel=26&z=2006-11-24&g=2006-11-24) door middel van een formulier dat de vorm heeft van het model dat als [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&bijlage=1&z=2006-11-24&g=2006-11-24) bij deze regeling is gevoegd.
+
+4. Het verzoek wordt in tweevoud ingediend en bevat een afschrift van de tekening, alsmede een door de aanbieder aan de tekening toegekend uniek kenmerk.
+
+5. Indien het afschrift voldoet aan de daaraan gestelde eisen, neemt de bewaarder dit afschrift in bewaring onder vermelding van een uniek depotnummer. Indien de tekening deel uit zal gaan maken van een stuk dat betrekking heeft op een appartementsrecht of een kabelnet, neemt de bewaarder, in afwijking van de eerste zin, het afschrift slechts in bewaring, indien het verzoek tot vaststelling van het complexnummer of het verzoek tot vaststelling van het nummer van een kabelnet als bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&hoofdstuk=7&artikel=26&z=2006-11-24&g=2006-11-24) wordt ingewilligd.
+
+6. Na de inbewaringneming voorziet de bewaarder beide exemplaren van het verzoek tot inbewaringneming van een depotverklaring, waarin het toegekende depotnummer wordt vermeld, en zendt hij een exemplaar van het verzoek aan de aanbieder terug. Indien de tekening deel uit zal gaan maken van een stuk dat betrekking heeft op een appartementsrecht of een kabelnet, zendt de bewaarder, in afwijking van de eerste zin, de depotverklaring gelijktijdig terug met de verklaring inzake de vaststelling van het complexnummer of het nummer van een kabelnet als bedoeld in [artikel 27a](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&hoofdstuk=7&artikel=27a&z=2006-11-24&g=2006-11-24).
+
+7. Indien het stuk waarvan de tekening deel uitmaakt niet binnen een jaar na de inbewaringneming wordt ingeschreven, eindigt de inbewaringneming en zendt de bewaarder het afschrift aan de aanbieder terug door middel van een bericht dat de vorm heeft van het model dat als [bijlage 18](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&bijlage=18&z=2006-11-24&g=2006-11-24) bij deze regeling is gevoegd.
+
+8. Het eerste tot en met zevende lid zijn van overeenkomstige toepassing op andere stukken dan tekeningen in papieren vorm, die deel uitmaken dan wel deel uit zullen gaan maken van een stuk dat in elektronische vorm ter inschrijving zal worden aangeboden.
 
 ##### Artikel 11
 
-Vervallen
+1. Van een tekening in elektronische vorm die deel uitmaakt dan wel deel zal gaan uitmaken van een stuk dat in elektronische vorm ter inschrijving zal worden aangeboden, kan op verzoek van de aanbieder voorafgaande aan de inschrijving een afschrift in elektronische vorm in bewaring worden genomen, indien de aanbieder dit verzoekt en dit bijdraagt aan een doelmatige inschrijving in de openbare registers of bijwerking van de kadastrale registratie.
+
+2. [Artikel 10, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&hoofdstuk=2&artikel=10&z=2006-11-24&g=2006-11-24), is van overeenkomstige toepassing, met dien verstande dat het verzoek in enkelvoud wordt ingediend.
+
+3. Na de inbewaringneming voorziet de bewaarder het verzoek tot inbewaringneming van een depotverklaring, waarin het toegekende depotnummer wordt vermeld, en zendt deze aan de aanbieder terug. Indien de tekening deel uit zal gaan maken van een stuk dat betrekking heeft op een appartementsrecht of een kabelnet, zendt de bewaarder, in afwijking van de eerste zin, de depotverklaring gelijktijdig terug met de verklaring inzake de vaststelling van het complexnummer of het nummer van een kabelnet als bedoeld in [artikel 27b](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&hoofdstuk=7&artikel=27b&z=2006-11-24&g=2006-11-24).
+
+4. [Artikel 10, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&hoofdstuk=2&artikel=10&z=2006-11-24&g=2006-11-24), is van overeenkomstige toepassing, met dien verstande dat de bewaarder na de beëindiging van de inbewaringneming een bericht zendt aan de aanbieder dat de vorm heeft van het model dat als [bijlage 19](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&bijlage=19&z=2006-11-24&g=2006-11-24) bij deze regeling is gevoegd.
+
+5. Het eerste tot en met vierde lid zijn van overeenkomstige toepassing op andere stukken dan tekeningen in elektronische vorm, die deel uitmaken dan wel deel uit zullen gaan maken van een stuk dat in elektronische vorm ter inschrijving zal worden aangeboden.
+
+##### Artikel 12
+
+1. Ingeval een ter inschrijving aangeboden stuk betrekking heeft op een bepaald reeds eerder ingeschreven stuk als bedoeld in [artikel 19, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=19), bevat het een verwijzing naar dit eerdere stuk door de vermelding van het kantoor van de Dienst waar het eerdere stuk is ingeschreven, het soort register waarin inschrijving plaatsvond, alsmede deel en nummer van inschrijving.
+
+2. Het eerste lid is tevens van toepassing op de in [artikel 46, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=46) bedoelde verwijzing.
+
+##### Artikel 13
+
+Indien in een in te schrijven stuk de plaatselijke aanduiding van een onroerende zaak of een appartementsrecht moet worden vermeld, geschiedt zulks door de vermelding van de plaats en het adres, of, zo de desbetreffende onroerende zaak of het desbetreffende appartementsrecht geen adres heeft, de naam van de plaats en de straat in welks nabijheid de onroerende zaak of het appartementsrecht is gelegen.
+
+##### Artikel 14
+
+1. In de kadastrale registratie worden de volgende gegevens betreffende de feitelijke gesteldheid van onroerende zaken opgenomen:
+
+- a. de cultuuraanduiding;
+
+- b. voor bebouwde percelen: het objectadres met postcode; voor onbebouwde percelen: de plaatselijke benaming, zo deze bekend is;
+
+- c. de coördinaten van het perceel in het stelsel van de Rijksdriehoeksmeting;
+
+- d. gegevens omtrent het beheer van aan overheden toebehorende onroerende zaken, zo deze bij de Dienst bekend zijn;
+
+- e. in geval van bebouwde percelen waaraan een of meer adressen zijn toegekend: de coördinaten van elk huisnummer in het stelsel van de Rijksdriehoeksmeting.
+
+2. In de kadastrale registratie worden tevens de volgende gegevens met betrekking tot onroerende zaken opgenomen:
+
+- a. het feit dat een onroerende zaak is gelegen in een herverkavelingsblok als bedoeld in [artikel 161 van de de Landinrichtingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0003793&artikel=161), dan wel in een gebied als bedoeld in [artikel 1 van de Reconstructiewet Midden-Delfland](https://wetten.overheid.nl/jci1.3:c:BWBR0003094) of [artikel 1 van de Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën](https://wetten.overheid.nl/jci1.3:c:BWBR0003143&artikel=1);
+
+- b. het feit dat afwijkingen bestaan tussen de lijst van rechthebbenden, bedoeld in [artikel 188 van de Landinrichtingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0003793&artikel=188), [artikel 68 van de Reconstructiewet Midden-Delfland](https://wetten.overheid.nl/jci1.3:c:BWBR0003094&artikel=68), dan wel in [artikel 53 van de Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën](https://wetten.overheid.nl/jci1.3:c:BWBR0003143&artikel=53) en de kadastrale registratie;
+
+- c. het feit dat een verkrijging plaatsvond onder een ontbindende of opschortende voorwaarde;
+
+- d. gegevens omtrent de koopsom, zo die bekend is;
+
+- e. de aanduiding van degene die geheel of voor het grootste deel eigenaar is van de onroerende zaak alsmede van degene die als beperkt gerechtigde geheel of voor het grootste deel het genot van een onroerende zaak heeft;
+
+- f. het feit dat een onroerende zaak of een appartementsrecht is betrokken bij een voorgenomen splitsing of ondersplitsing in appartementsrechten, dan wel bij een wijziging van de splitsing in appartementsrechten;
+
+- g. een korte aanduiding van de aard van de in de openbare registers ingeschreven stukken betreffende de volgende feiten:
+
+- 1°. ondercuratelestelling van een rechthebbende;
+
+- 2°. faillietverklaring van een rechthebbende;s
+
+- 3°. surséance van betaling, verleend aan een rechthebbende;
+
+- 4º. toestemming als bedoeld in de [artikelen 42, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&artikel=42), en [50, eerste lid, van Boek 5 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&artikel=50) om een boom, heester of heg dan wel een venster, balcon of soortgelijke werken binnen de verboden afstand van de grens van een erf te hebben;
+
+- 5º. afwijkende regeling als bedoeld in [artikel 59 van Boek 5 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&artikel=59);
+
+- 6º. bestemming van een onroerende zaak tot gemeenschappelijk nut in verband met mandeligheid als bedoeld in [artikel 1 van Boek 5 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&artikel=1);
+
+- 7º. huurkoop als bedoeld in de Tijdelijke wet huurkoop onroerend zaken;
+
+- 8º. reglementen en andere regelingen die tussen medegerechtigden in registergoederen zijn vastgesteld;
+
+- 9º. instelling van een rechtsvordering of de indiening van een verzoekschrift ter verkrijging van een rechterlijke uitspraak;
+
+- 10º. instelling van een rechtsmiddel tegen een rechterlijke uitspraak;
+
+- 11º. ruilverkavelingsovereenkomst als bedoeld in [artikel 119, eerste lid, van de Landinrichtingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0003793&artikel=119);
+
+- 12º. het van toepassing zijn van de schuldsaneringsregeling natuurlijke personen op een rechthebbende.
+
+- h. inzake hypotheken, ingeschreven vanaf 1 januari 1995:
+
+- 1º. de rangorde van de hypotheek;
+
+- 2º. het feit dat inzake een hypotheek een overeenkomst van borgtocht is gesloten met de te 's-Gravenhage gevestigde Stichting Waarborgfonds Eigen Woningen;
+
+- 3º. de rentevast periode van een geldlening waarvoor de hypotheek is gevestigd, alsmede de duur van de rentevast periode;
+
+- i. inzake beslagen, ingeschreven vanaf 1 januari 1995:
+
+- 1º. ten behoeve en ten laste van wie het beslag is gelegd, alsmede het desbetreffende bedrag;
+
+- 2º. de datum waarop het proces-verbaal van inbeslagneming is opgemaakt;
+
+- j. een korte aanduiding van de aard van een besluit, als hierna aangegeven, waarbij een beperking in de eigendom of het gebruik van een onroerende zaak wordt aangebracht, voor zover het betrokken bestuursorgaan van dat besluit opgave doet aan de Dienst:
+
+- 1º. de [Onteigeningswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001842):
+
+- een koninklijk besluit inzake onteigening;
+
+- een raadsbesluit tot onteigening;
+
+- 2º. de [Monumentenwet 1988](https://wetten.overheid.nl/jci1.3:c:BWBR0004471):
+
+- een voorstel tot aanwijzing en een aanwijzing als beschermd stads- of dorpsgezicht als bedoeld in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0004471&artikel=35);
+
+- 3º. de [Huisvestingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005674):
+
+- een vordering als bedoeld in [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0005674&artikel=40);
+
+- 4º. de [Boswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002357):
+
+- een kapverbod als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0002357&artikel=13);
+
+- 5º. de [Wet geluidhinder](https://wetten.overheid.nl/jci1.3:c:BWBR0003227):
+
+- een vaststelling van een geluidszone als bedoeld in [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0003227&artikel=41);
+
+- 6º. de [Wegenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001948):
+
+- een besluit inzake de onderhoudsplicht of inzake de verplichting tot bijdragen in het onderhoud als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&artikel=15);
+
+- 7º. vervallen;
+
+- 8º. de [Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267):
+
+- een aanwijzing van een luchtvaartterrein als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=18);
+
+- 9º. de [Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950):
+
+- een besluit inzake de gedoogplicht, bedoeld in [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5);.
+
+- 10º. de [Waterstaatswet 1900](https://wetten.overheid.nl/jci1.3:c:BWBR0001867):
+
+- een besluit inzake de verplichting tot bijdragen in het beheer of onderhoud van waterstaatswerken;
+
+- een opgave van de onroerende zaken waarop de gedoogplicht als bedoeld in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&artikel=10), betrekking heeft;
+
+- een besluit inzake de gedoogplicht als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&artikel=12) of in [artikel 12a van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&artikel=12a);
+
+- 11º. de [Grondwaterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0003406):
+
+- een besluit inzake de gedoogplicht als bedoeld in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0003406&artikel=31) dan wel in [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0003406&artikel=32);
+
+- 12º. de [Mijnbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168):
+
+- een gedoogplicht als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=4);
+
+- 13º. de [Wet op de Ruimtelijke Ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0002375):
+
+- een voorbereidingsbesluit als bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0002375&artikel=21);
+
+- een bestemmingsplan als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002375&artikel=10);
+
+- 14º. de [Wet op de stads- en dorpsvernieuwing](https://wetten.overheid.nl/jci1.3:c:BWBR0003709):
+
+- een stadsvernieuwingsplan als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0003709&artikel=7);
+
+- een leefmilieuverordening als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0003709&artikel=7);
+
+- 15º. een provinciale wegenverordening:
+
+- een aanschrijving;
+
+- een bouwverbod;
+
+- 16º. een provinciale plassenverordening:
+
+- een bouwverbod;
+
+- 17º. een provinciale monumentenverordening:
+
+- een aanwijzing tot monument;
+
+- 18º. een gemeentelijke verordening inzake bouwgrondbelasting:
+
+- een besluit inzake bouwgrondbelasting;
+
+- 19º. een gemeentelijke verordening inzake baatbelasting;
+
+- een besluit inzake baatbelasting;
+
+- 20º. een gemeentelijke algemene plaatselijke verordening:
+
+- een aanschrijving tot maatregelen tegen geluidhinder;
+
+- 21º. een gemeentelijke monumentenverordening:
+
+- een aanwijzing tot monument;
+
+- 22º. een gemeentelijke vestigingsregeling kleine kernen:
+
+- een vestigingsverbod;
+
+- 23º. een waterschapskeur:
+
+- een besluit inzake de plicht tot onderhoud van waterkeringen;
+
+- een besluit inzake verbodsbepalingen betreffende waterkeringen;
+
+- een besluit inzake de plicht tot onderhoud van wateren;
+
+- een besluit inzake verbodsbepalingen betreffende wateren;
+
+- k. met betrekking tot een appartementsrecht:
+
+- de naam en de woonplaats met adres van de bestuurder of bestuurders van de vereniging van eigenaars, bedoeld in [artikel 131, eerste lid, van Boek 5 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&artikel=131).
 
 ### Hoofdstuk 3. Vereisten waaraan in te schrijven stukken moeten voldoen
 
@@ -199,7 +407,7 @@ Vervallen
 
 Indien in een in te schrijven stuk de plaatselijke aanduiding van een onroerende zaak of een appartementsrecht moet worden vermeld, geschiedt zulks door de vermelding van de plaats en het adres, of, zo de desbetreffende onroerende zaak of het desbetreffende appartementsrecht geen adres heeft, de naam van de plaats en de straat in welks nabijheid de onroerende zaak of het appartementsrecht is gelegen.
 
-### Hoofdstuk 4. In de kadastrale registratie op te nemen gegevens
+### Hoofdstuk 3. Vereisten waaraan in te schrijven stukken moeten voldoen
 
 ##### Artikel 14
 
@@ -415,15 +623,15 @@ Indien uit een ingeschreven stuk blijkt dat sprake is van een trust, wordt in de
 
 ##### Artikel 18
 
-1. De Dienst doet van het voornemen tot het houden van een onderzoek, al dan niet op verzoek van een belanghebbende, naar het zich voorgedaan hebben van een feit als bedoeld in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&hoofdstuk=7&artikel=29&z=2005-09-01&g=2005-09-01) dan wel in [artikel 35 van Boek 5 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&artikel=35), mededeling aan belanghebbenden door middel van een brief.
+1. De Dienst doet van het voornemen tot het houden van een onderzoek, al dan niet op verzoek van een belanghebbende, naar het zich voorgedaan hebben van een feit als bedoeld in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&hoofdstuk=7&artikel=29&z=2006-11-24&g=2006-11-24) dan wel in [artikel 35 van Boek 5 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&artikel=35), mededeling aan belanghebbenden door middel van een brief.
 
-2. [Artikel 17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&hoofdstuk=5&artikel=17&z=2005-09-01&g=2005-09-01), is van toepassing.
+2. [Artikel 17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&hoofdstuk=5&artikel=17&z=2006-11-24&g=2006-11-24), is van toepassing.
 
 ##### Artikel 19
 
 1. De Dienst doet van het voornemen tot het ter plaatse inwinnen van nadere inlichtingen, bedoeld in [artikel 73, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=73), mededeling aan belanghebbenden door middel van een brief.
 
-2. [Artikel 17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&hoofdstuk=5&artikel=17&z=2005-09-01&g=2005-09-01), is van toepassing.
+2. [Artikel 17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&hoofdstuk=5&artikel=17&z=2006-11-24&g=2006-11-24), is van toepassing.
 
 ##### Artikel 20
 
@@ -501,37 +709,19 @@ Het relaas van bevindingen bevat tenminste naast de gegevens die op grond van de
 
 ##### Artikel 26
 
-1. Het verzoek tot vaststelling van het complexnummer ter zake van appartementsrechten, bedoeld in [artikel 2, derde lid, van het Kadasterbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0005259&artikel=2), wordt gedaan bij de bewaarder van het kantoor binnen wiens kring de onroerende zaken geheel of grotendeels zijn gelegen, door middel van een formulier in tweevoud, waarvan de vorm overeenkomt met het model dat als bijlage 1 bij deze regeling is gevoegd.
-
-2. De percelen, waarop de in de splitsing te betrekken rechten betrekking hebben, moeten in het formulier door gehele kadastrale percelen zijn aangeduid.
-
-3. Het formulier vermeldt:
-
-- a. de kadastrale aanduiding van de desbetreffende onroerende zaken;
-
-- b. het aantal appartementsrechten, waarin de rechten zullen worden gesplitst.
-
-4. Het formulier wordt gedagtekend en namens degene die tot de splitsing wil overgaan, door een notaris ondertekend.
-
-5. Bij het formulier worden twee exemplaren overgelegd van de in [artikel 109, tweede lid, van Boek 5 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&artikel=109) bedoelde tekening.
-
-6. De in het vijfde lid bedoelde tekening kan uit meer dan één blad bestaan. Elk blad vermeldt de in het derde lid, onder a, bedoelde gegevens, alsmede de dagtekening van het verzoek en elk blad wordt door de notaris die het formulier ondertekent, gewaarmerkt. Het bevat een open ruimte, bestemd voor de verklaring bedoeld in [artikel 27, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&hoofdstuk=7&artikel=27&z=2005-09-01&g=2005-09-01).
-
-7. De notaris die het formulier ondertekent, verklaart daarin uit hoeveel bladen de tekening bestaat, en tevens, dat de overgelegde exemplaren van de tekening onderling geheel gelijkluidend zijn.
-
-8. [Artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&hoofdstuk=2&artikel=6&z=2005-09-01&g=2005-09-01) is van overeenkomstige toepassing.
+Een verzoek tot vaststelling van het complexnummer of het nummer van een kabelnet als bedoeld in [artikel 2, derde en vijfde lid, van het Kadasterbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0005259&artikel=2) wordt gedaan door middel van een formulier dat de vorm heeft van het model dat als [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&bijlage=1&z=2006-11-24&g=2006-11-24) bij deze regeling is gevoegd.
 
 ##### Artikel 27
 
-1. Nadat de Dienst heeft bevonden dat de tekening, bedoeld in [artikel 26, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&hoofdstuk=7&artikel=26&z=2005-09-01&g=2005-09-01), voldoet aan de in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&hoofdstuk=7&artikel=26&z=2005-09-01&g=2005-09-01) bedoelde vereisten, stelt de Dienst het complexnummer vast.
+1. Indien het verzoek, bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&hoofdstuk=7&artikel=26&z=2006-11-24&g=2006-11-24), overeenkomstig [artikel 26a](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&hoofdstuk=7&artikel=26a&z=2006-11-24&g=2006-11-24) in papieren vorm is ingediend, stelt de bewaarder het complexnummer of het nummer van het kabelnet vast en voorziet beide exemplaren van het verzoek en beide afschriften van de tekening van een gedagtekende en ondertekende verklaring waarin dit complexnummer of nummer van het kabelnet wordt vermeld.
 
-2. De beide exemplaren van het in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&hoofdstuk=7&artikel=26&z=2005-09-01&g=2005-09-01) bedoelde formulier en elk exemplaar van elk blad van de daarbij overgelegde tekening worden voorzien van een door de bewaarder gedagtekende en ondertekende verklaring, aangevend hoe de complexaanduiding luidt.
+2. Indien het afschrift van de tekening uit meerdere bladen bestaat, worden de overzichtstekening en alle bladen voorzien van de verklaring, bedoeld in het eerste lid.
 
-Daarna zendt de bewaarder aan de notaris die het formulier heeft ondertekend, één exemplaar van dit formulier en één exemplaar van de tekening terug.
+3. Nadat de bewaarder het complexnummer of het nummer van het kabelnet heeft vastgesteld, zendt hij een exemplaar van het verzoek, bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&hoofdstuk=7&artikel=26&z=2006-11-24&g=2006-11-24), voorzien van de verklaring, bedoeld in het eerste lid, en een afschrift van de tekening aan de notaris terug. Het andere exemplaar van het verzoek en het andere afschrift van de tekening blijven bij de Dienst berusten.
 
 ##### Artikel 28
 
-1. In geval van een ondersplitsing van een appartementsrecht als bedoeld in [artikel 106, tweede lid, van Boek 5 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&artikel=106), zijn de [artikelen 26](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&hoofdstuk=7&artikel=26&z=2005-09-01&g=2005-09-01) en [27](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&hoofdstuk=7&artikel=27&z=2005-09-01&g=2005-09-01) van overeenkomstige toepassing, met dien verstande dat het bestaande complexnummer gehandhaafd wordt en behoudens het tweede en derde lid.
+1. In geval van een ondersplitsing van een appartementsrecht als bedoeld in [artikel 106, tweede lid, van Boek 5 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&artikel=106), zijn de [artikelen 26 tot en met 27b](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&hoofdstuk=7&artikel=26&z=2006-11-24&g=2006-11-24) van overeenkomstige toepassing, met dien verstande dat het bestaande complexnummer gehandhaafd wordt en behoudens het tweede en derde lid.
 
 2. De tekening die bij het verzoek betreffende de voorgenomen ondersplitsing wordt overgelegd, stemt geheel overeen met de laatste ingeschreven tekening, met dien verstande dat binnen de begrenzing van het gedeelte van de gebouwen en de grond, waarvan het uitsluitend gebruik in het onder te splitsen appartementsrecht begrepen is, de begrenzingen worden aangegeven van de onderscheidene gedeelten die bestemd zijn om na de voorgenomen ondersplitsing als afzonderlijk geheel te worden gebruikt en waarvan volgens de akte van ondersplitsing het uitsluitend gebruik in de onderscheidene nieuwe appartementsrechten zal zijn begrepen.
 
@@ -541,7 +731,7 @@ Tevens wordt elk van deze gedeelten en die waarvan na de ondersplitsing het uits
 
 ##### Artikel 29
 
-1. In geval van een wijziging van de akte van splitsing als bedoeld in [artikel 139 van Boek 5 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&artikel=139), die niet uitsluitend betrekking heeft op het reglement, zijn de [artikelen 26](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&hoofdstuk=7&artikel=26&z=2005-09-01&g=2005-09-01) en [27](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&hoofdstuk=7&artikel=27&z=2005-09-01&g=2005-09-01) van overeenkomstige toepassing, met dien verstande dat het bestaande complexnummer gehandhaafd wordt en behoudens het tweede en derde lid.
+1. In geval van een wijziging van de akte van splitsing als bedoeld in [artikel 139 van Boek 5 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&artikel=139), die niet uitsluitend betrekking heeft op het reglement, zijn de [artikelen 26 tot en met 27b](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&hoofdstuk=7&artikel=26&z=2006-11-24&g=2006-11-24) van overeenkomstige toepassing, met dien verstande dat het bestaande complexnummer gehandhaafd wordt en behoudens het tweede en derde lid.
 
 2. De appartementsindices blijven bij wijziging van de akte van splitsing gehandhaafd, voor zover deze wijziging niet een verandering betreft in de begrenzing van enig gedeelte van de gebouwen of de grond, dat al dan niet tezamen met andere gedeelten voor gebruik als afzonderlijk geheel is bestemd en waarvan het uitsluitend gebruik in een appartementsrecht is begrepen.
 
@@ -649,7 +839,7 @@ Indien uit een ingeschreven stuk blijkt dat sprake is van een trust, wordt in de
 
 ##### Artikel 38
 
-De in artikel 15 van de Maatregel teboekgestelde luchtvaartuigen 1996 bedoelde verzoeken en aangiften hebben de vorm van de modellen die als [bijlagen 14 tot en met 16](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&bijlage=14&z=2005-09-01&g=2005-09-01) bij deze regeling zijn gevoegd.
+De in artikel 15 van de Maatregel teboekgestelde luchtvaartuigen 1996 bedoelde verzoeken en aangiften hebben de vorm van de modellen die als [bijlagen 14 tot en met 16](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&bijlage=14&z=2006-11-24&g=2006-11-24) bij deze regeling zijn gevoegd.
 
 ##### Artikel 39
 
@@ -717,6 +907,184 @@ Niet opgenomen.
 
 Niet opgenomen.
 
+## Bijlage 1
+
+Niet opgenomen.
+
+## Bijlage 2
+
+Niet opgenomen.
+
+## Bijlage 3
+
+Niet opgenomen.
+
+## Bijlage 4
+
+Niet opgenomen.
+
+## Bijlage 5
+
+Niet opgenomen.
+
+## Bijlage 6
+
+Niet opgenomen.
+
+## Bijlage 7
+
+Niet opgenomen.
+
+### Hoofdstuk 2. Vereisten met betrekking tot de aanbieding van stukken ter inschrijving in de openbare registers
+
+##### Artikel 7
+
+1. Indien een stuk in elektronische vorm ter inschrijving wordt aangeboden en een tekening in elektronische vorm deel uitmaakt van dat stuk, dan wordt naast het afschrift of het uittreksel van het stuk tevens een afschrift van de tekening aangeboden.
+
+2. Het afschrift van de tekening kan tezamen met het afschrift of het uittreksel van het stuk waar de tekening deel van uitmaakt, in een elektronisch bestand worden aangeboden. Het elektronische bestand wordt voorzien van een verklaring als bedoeld in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&hoofdstuk=2&artikel=3&z=2006-11-24&g=2006-11-24), en van een elektronische handtekening. De verklaring en de elektronische handtekening worden op zodanige wijze in het elektronische bestand opgenomen, dat deze na de omzetting van het elektronische bestand naar een leesbare tekst aan de voet van het afschrift of het uittreksel verschijnen.
+
+3. Indien het afschrift van de tekening wordt aangeboden in een apart bestand, wordt dit bestand afzonderlijk voorzien van een verklaring als bedoeld in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&hoofdstuk=2&artikel=3&z=2006-11-24&g=2006-11-24), en van een elektronische handtekening. De verklaring en de elektronische handtekening worden op zodanige wijze in het elektronische bestand opgenomen dat deze na de omzetting van het elektronische bestand naar een leesbare tekst aan de voet van het afschrift verschijnt.
+
+4. De [artikelen 5, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&hoofdstuk=2&artikel=5&z=2006-11-24&g=2006-11-24), en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&hoofdstuk=2&artikel=6&z=2006-11-24&g=2006-11-24) zijn van overeenkomstige toepassing, voorzover daarvan in het vijfde en zesde lid niet wordt afgeweken.
+
+5. Het afschrift van de tekening wordt, indien dit noodzakelijk is om voldoende raadpleegbaar te zijn, verdeeld over een aantal doorlopend genummerde deeltekeningen. Bij het afschrift wordt een overzichtstekening gevoegd, waarop de ligging van de deeltekeningen ten opzichte van elkaar wordt vermeld onder toevoeging van de nummers van de deeltekeningen.
+
+6. In gevallen als bedoeld in het vijfde lid wordt de verklaring, bedoeld in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&hoofdstuk=2&artikel=3&z=2006-11-24&g=2006-11-24), opgenomen in het afschrift van de overzichtstekening. Het tweede en derde lid zijn van overeenkomstige toepassing.
+
+7. Indien het afschrift van de tekening overeenkomstig [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&hoofdstuk=2&artikel=11&z=2006-11-24&g=2006-11-24) in bewaring is genomen, wordt dit afschrift niet voorzien van een verklaring als bedoeld in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&hoofdstuk=2&artikel=3&z=2006-11-24&g=2006-11-24). In plaats daarvan wordt de verklaring, bedoeld in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&hoofdstuk=2&artikel=3&z=2006-11-24&g=2006-11-24), aan de voet van het afschrift of het uittreksel van het stuk waar de tekening deel van uitmaakt, uitgebreid met een verklaring, inhoudende dat het in bewaring genomen afschrift van de tekening inhoudelijk een volledige en juiste weergave is van de originele tekening. In de verklaring wordt eveneens het betrokken depotnummer vermeld.
+
+##### Artikel 8
+
+1. Indien een stuk in elektronische vorm ter inschrijving wordt aangeboden en een ander stuk, niet zijnde een tekening, deel uitmaakt van dat stuk, dan wordt naast het afschrift of het uittreksel van dat stuk tevens een afschrift aangeboden van het stuk dat daarvan deel uitmaakt.
+
+2. Het afschrift of het uittreksel van het in elektronische vorm ter inschrijving aangeboden stuk kan tezamen met het afschrift van het stuk dat daarvan deel uitmaakt in een elektronisch bestand worden aangeboden. Het elektronische bestand wordt voorzien van een verklaring als bedoeld in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&hoofdstuk=2&artikel=3&z=2006-11-24&g=2006-11-24), en van een elektronische handtekening. De verklaring en de elektronische handtekening worden op zodanige wijze in het elektronische bestand opgenomen, dat deze na de omzetting van het elektronische bestand naar een leesbare tekst aan de voet van het afschrift of het uittreksel verschijnen.
+
+3. Indien het afschrift van het stuk dat deel uitmaakt van het stuk dat in elektronische vorm ter inschrijving wordt aangeboden, in een afzonderlijk bestand wordt aangeboden, wordt dit bestand afzonderlijk voorzien van een verklaring als bedoeld in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&hoofdstuk=2&artikel=3&z=2006-11-24&g=2006-11-24), en van een elektronische handtekening. De verklaring wordt op zodanige wijze in het elektronische bestand opgenomen dat deze na de omzetting van het elektronische bestand naar een leesbare tekst aan de voet van het afschrift verschijnt.
+
+4. Indien het origineel van het stuk dat deel uitmaakt van het in elektronische vorm ter inschrijving aangeboden stuk, is voorzien van een elektronische handtekening, wordt in de verklaring, bedoeld in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&hoofdstuk=2&artikel=3&z=2006-11-24&g=2006-11-24), vermeld:
+
+- a. de naam van degene die het originele stuk heeft voorzien van een elektronische handtekening, zoals blijkt uit het bij de elektronische handtekening behorende certificaat;
+
+- b. de identiteitscode van voornoemd certificaat, en
+
+- c. de naam van de certificatiedienstverlener die voornoemd certificaat heeft afgegeven.
+
+##### Artikel 9
+
+Indien het afschrift van een tekening of een ander stuk dat deel uitmaakt dan wel deel uit zal gaan maken van een in elektronische vorm ter inschrijving aan te bieden stuk als bedoeld in de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&hoofdstuk=2&artikel=7&z=2006-11-24&g=2006-11-24) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&hoofdstuk=2&artikel=8&z=2006-11-24&g=2006-11-24) overeenkomstig [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&hoofdstuk=2&artikel=10&z=2006-11-24&g=2006-11-24) in papieren vorm in bewaring is genomen, wordt dit afschrift niet voorzien van een verklaring van eensluidendheid. In plaats daarvan wordt de verklaring, bedoeld in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&hoofdstuk=2&artikel=3&z=2006-11-24&g=2006-11-24), aan de voet van het afschrift van het stuk waar de tekening of het andere stuk deel van uitmaakt uitgebreid met een verklaring, inhoudende dat het in bewaring genomen afschrift van de tekening of het stuk inhoudelijk een volledige en juiste weergave is van de originele tekening of het originele stuk. In de verklaring wordt tevens het betrokken depotnummer vermeld.
+
+##### Artikel 11a
+
+1. Indien in een ter inschrijving aangeboden stuk in elektronische vorm verklaringen zijn opgenomen van een persoon die verklaart notaris of waarnemend notaris te zijn, wordt in het verzoek tot inschrijving een bewijsstuk opgenomen, waaruit blijkt dat die persoon bevoegd is om als notaris, dan wel waarnemend notaris op te treden.
+
+2. Het bewijsstuk is niet ouder dan twee jaar.
+
+3. Indien het bewijsstuk wordt geleverd door middel van een specifiek attribuut in het gekwalificeerde certificaat waarop de elektronische handtekening van de notaris of de waarnemend notaris gebaseerd is, dient de certificatiedienstverlener dit attribuut te baseren op inlichtingen van de Koninklijke Notariële Beroepsorganisatie.
+
+##### Artikel 11b
+
+1. Indien ter verkrijging van de inschrijving van een stuk in elektronische vorm door de aanbieder bewijsstukken als bedoeld in [artikel 11b, vijfde lid, derde zin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=11b) worden overgelegd, kan die overlegging zowel in papieren als in elektronische vorm plaatsvinden, met dien verstande dat de overlegging van bewijsstukken in elektronische vorm slechts plaats kan vinden met inachtneming van het tweede en derde lid.
+
+2. Indien het origineel van het bewijsstuk is voorzien van een elektronische handtekening, wordt bij het afschrift een verklaring van een certificatiedienstverlener gevoegd, inhoudende dat de elektronische handtekening op het originele stuk is gebaseerd op een gekwalificeerd certificaat, onder toevoeging van de volgende gegevens:
+
+- a. de naam van degene die het originele stuk heeft voorzien van een elektronische handtekening, zoals blijkend uit het bij de elektronische handtekening behorende certificaat;
+
+- b. de identiteitscode van voornoemd certificaat, en
+
+- c. de naam van de certificatiedienstverlener die voornoemd certificaat heeft afgegeven.
+
+3. Indien het origineel van het bewijsstuk is opgemaakt in papieren vorm, kan een door een notaris voor eensluidendheid gewaarmerkt elektronisch afschrift worden overgelegd. [Artikel 11a](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&hoofdstuk=2&artikel=11a&z=2006-11-24&g=2006-11-24) is van overeenkomstige toepassing.
+
+##### Artikel 11c
+
+1. Een hernieuwd verzoek tot inschrijving van een stuk dat oorspronkelijk in elektronische vorm ter inschrijving is aangeboden, wordt gedaan door middel van een verzoek dat de vorm heeft van het model dat als [bijlage 19](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&bijlage=19&z=2006-11-24&g=2006-11-24) bij deze regeling is gevoegd.
+
+2. Indien het hernieuwde verzoek tot inschrijving wordt gedaan in elektronische vorm, wordt dit verzoek voorzien van de elektronische handtekening van:
+
+- a. de oorspronkelijke aanbieder, dan wel
+
+- b. een persoon die bevoegd is tot het opmaken van het stuk waarop het hernieuwde verzoek tot inschrijving betrekking heeft.
+
+3. Indien het hernieuwde verzoek tot inschrijving wordt gedaan in papieren vorm, vindt de hernieuwde aanbieding van tekeningen, foto’s en andere stukken die deel uitmaken van het ter inschrijving aangeboden stuk, in papieren vorm plaats tezamen met de indiening van dat verzoek.
+
+##### Artikel 12a
+
+Een bijhoudingsverklaring als bedoeld in [artikel 46a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=46a) kan uitsluitend worden ingeschreven, indien:
+
+- a. de bijhoudingsverklaring betrekking heeft op een eerder ingeschreven stuk betreffende de overdracht van een gedeelte van een perceel of de vestiging van een beperkt recht op een gedeelte van een perceel;
+
+- b. onduidelijk is op welk gedeelte van het betrokken perceel het eerder ingeschreven stuk betrekking heeft, en
+
+- c. de notaris in de bijhoudingsverklaring in aanvulling op het eerder ingeschreven stuk verklaart op welk gedeelte van het betrokken perceel dit stuk betrekking heeft.
+
+### Hoofdstuk 4. In de kadastrale registratie op te nemen gegevens
+
+### Hoofdstuk 5. Bijwerking van de kadastrale registratie en de kadastrale kaarten
+
+### Hoofdstuk 6. Inlichtingen
+
+### Hoofdstuk 7. Vaststelling van het complexnummer van een appartementsrecht en het nummer van een kabelnet
+
+##### Artikel 26a
+
+1. Een verzoek als bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&hoofdstuk=7&artikel=26&z=2006-11-24&g=2006-11-24) wordt in papieren vorm in tweevoud ingediend bij de bewaarder. Het verzoek wordt gedagtekend en door een notaris ondertekend.
+
+2. In het verzoek tot vaststelling van het complexnummer worden de kadastrale aanduidingen van de desbetreffende onroerende zaken en de appartementsrechten, waarin deze onroerende zaken zullen worden gesplitst, vermeld. Bij het verzoek worden, voorzover [artikel 26b](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&hoofdstuk=7&artikel=26b&z=2006-11-24&g=2006-11-24) niet van toepassing is, twee afschriften van de tekening, bedoeld in [artikel 109, tweede lid, van Boek 5 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&artikel=109), gevoegd. Op de tekening worden de onroerende zaken waarop de in de splitsing te betrekken appartementsrechten betrekking hebben, perceelsgewijs aangeduid door middel van hun kadastrale aanduiding.
+
+3. Bij het verzoek tot vaststelling van het nummer van een kabelnet worden, voorzover [artikel 26b](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&hoofdstuk=7&artikel=26b&z=2006-11-24&g=2006-11-24) niet van toepassing is, twee afschriften van de tekening gevoegd waarop het kabelnet is weergegeven door middel van een lijn lopend over de onroerende zaken waarin het kabelnet is of wordt aangelegd. Op de tekening worden de onroerende zaken perceelsgewijs aangeduid door middel van hun kadastrale aanduiding, wordt de voor de desbetreffende afbeelding gebruikte schaal vermeld en de richting van het noorden door middel van een pijl aangegeven.
+
+4. Indien het afschrift van de tekening, bedoeld in het tweede en derde lid, uit meerdere bladen bestaat, wordt op elk blad vermeld de daarop afgebeelde onroerende zaken met perceelsgewijs hun kadastrale aanduiding en de dagtekening van het verzoek. Elk blad wordt voorzien van een open ruimte, bestemd voor de verklaring, bedoeld in [artikel 27, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&hoofdstuk=7&artikel=27&z=2006-11-24&g=2006-11-24), en wordt door de notaris gewaarmerkt.
+
+5. De notaris vermeldt in het verzoek, bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&hoofdstuk=7&artikel=26&z=2006-11-24&g=2006-11-24), uit hoeveel bladen het afschrift van de tekening bestaat en verklaart dat de overgelegde afschriften van de tekening onderling geheel gelijkluidend zijn.
+
+##### Artikel 26b
+
+Indien het afschrift van de tekening overeenkomstig [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&hoofdstuk=2&artikel=10&z=2006-11-24&g=2006-11-24) in papieren vorm in bewaring wordt gegeven, wordt een verzoek als bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&hoofdstuk=7&artikel=26&z=2006-11-24&g=2006-11-24) in papieren vorm ingediend. [Artikel 26a](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&hoofdstuk=7&artikel=26a&z=2006-11-24&g=2006-11-24) is van overeenkomstige toepassing, met dien verstande dat bij het verzoek slechts één afschrift van de tekening wordt gevoegd.
+
+##### Artikel 26c
+
+1. Een verzoek als bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&hoofdstuk=7&artikel=26&z=2006-11-24&g=2006-11-24) wordt in elektronische vorm in enkelvoud ingediend op het elektronische postadres dat daartoe is vastgesteld bij regeling van het bestuur van de Dienst. Het verzoek wordt gedagtekend en door een notaris voorzien van een elektronische handtekening die voldoet aan [artikel 7e van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=7e).
+
+2. Op het verzoek tot vaststelling van het complexnummer is [artikel 26a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&hoofdstuk=7&artikel=26a&z=2006-11-24&g=2006-11-24), van toepassing, met dien verstande dat bij het verzoek een elektronisch afschrift van de tekening, bedoeld in [artikel 109, tweede lid, van Boek 5 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&artikel=109), wordt gevoegd, waarop de voor de desbetreffende afbeelding gebruikte schaal en de afmetingen van de originele afbeelding worden vermeld.
+
+3. Op het verzoek tot vaststelling van het nummer van een kabelnet is [artikel 26a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&hoofdstuk=7&artikel=26a&z=2006-11-24&g=2006-11-24), van overeenkomstige toepassing, met dien verstande dat bij het verzoek een elektronisch afschrift van de tekening wordt gevoegd.
+
+4. Indien het afschrift van de tekening, bedoeld in het tweede en derde lid, uit meerdere deeltekeningen bestaat, worden op elke deeltekening vermeld de daarop afgebeelde onroerende zaken met perceelsgewijs hun kadastrale aanduiding en de dagtekening van het verzoek. Op elke deeltekening worden de voor de desbetreffende afbeelding gebruikte schaal en de afmetingen van de originele afbeelding vermeld.
+
+5. De notaris verklaart in het verzoek, bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&hoofdstuk=7&artikel=26&z=2006-11-24&g=2006-11-24), uit hoeveel deeltekeningen het afschrift van de tekening, bedoeld in het tweede en derde lid, bestaat.
+
+##### Artikel 27a
+
+1. Indien het verzoek, bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&hoofdstuk=7&artikel=26&z=2006-11-24&g=2006-11-24), overeenkomstig [artikel 26b](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&hoofdstuk=7&artikel=26b&z=2006-11-24&g=2006-11-24) in papieren vorm is ingediend, stelt de bewaarder het complexnummer of het nummer van het kabelnet vast en voorziet het verzoek, alsmede het bij het verzoek tot inbewaringneming gevoegde afschrift van de tekening, van een gedagtekende en ondertekende verklaring waarin deze complexaanduiding of kadastrale aanduiding wordt vermeld.
+
+2. [Artikel 27, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&hoofdstuk=7&artikel=27&z=2006-11-24&g=2006-11-24), is van overeenkomstige toepassing.
+
+3. Nadat de bewaarder het complexnummer of het nummer van het kabelnet heeft vastgesteld, zendt hij een exemplaar van het verzoek, bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&hoofdstuk=7&artikel=26&z=2006-11-24&g=2006-11-24), voorzien van de verklaring, bedoeld in het eerste lid, en het bij het verzoek gevoegde afschrift van de tekening aan de notaris terug.
+
+##### Artikel 27b
+
+1. Indien het verzoek, bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&hoofdstuk=7&artikel=26&z=2006-11-24&g=2006-11-24), overeenkomstig [artikel 26c](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&hoofdstuk=7&artikel=26c&z=2006-11-24&g=2006-11-24) in elektronische vorm is ingediend, stelt de bewaarder het complexnummer of het nummer van het kabelnet vast en voorziet het verzoek en het afschrift van de tekening van een gedagtekende verklaring, waarin het complexnummer of het nummer van het kabelnet wordt vermeld. De bewaarder voorziet de verklaring van een elektronische handtekening.
+
+2. Indien het afschrift van de tekening uit meerdere deeltekeningen bestaat, worden de overzichtstekening en alle deeltekeningen voorzien van de verklaring, bedoeld in het eerste lid.
+
+3. Nadat de bewaarder het complexnummer of het nummer van het kabelnet heeft vastgesteld, vervaardigt hij een elektronisch afschrift van het verzoek, bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&hoofdstuk=7&artikel=26&z=2006-11-24&g=2006-11-24). De bewaarder zendt het afschrift van het verzoek, voorzien van de verklaring, bedoeld in het eerste lid, en zijn elektronische handtekening terug aan de notaris. Een exemplaar van het verzoek en het elektronische afschrift van de tekening blijven bij de Dienst berusten.
+
+4. De elektronische handtekening van de bewaarder, bedoeld in het eerste en derde lid, voldoet aan [artikel 7e van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=7e).
+
+### Hoofdstuk 8. Inhoud en bijwerking van de registratie voor schepen
+
+### Hoofdstuk 9. Inhoud en bijwerking van de registratie voor luchtvaartuigen
+
+### Hoofdstuk 10. Overige en slotbepalingen
+
+## Bijlage 8
+
+Niet opgenomen.
+
+## Bijlage 9
+
+Niet opgenomen.
+
 ## Bijlage 10
 
 Niet opgenomen.
@@ -733,7 +1101,7 @@ Niet opgenomen.
 
 Niet opgenomen.
 
-## Bijlage 14. als bedoeld in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&hoofdstuk=9&artikel=38&z=2005-09-01&g=2005-09-01) van de Uitvoeringsregeling Kadasterwet 1994
+## Bijlage 14. als bedoeld in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&hoofdstuk=9&artikel=38&z=2006-11-24&g=2006-11-24) van de Uitvoeringsregeling Kadasterwet 1994
 
 **Verzoek tot teboekstelling van een luchtvaartuig**
 
@@ -791,7 +1159,7 @@ Totaal der bijlagen: …
 
 **...**
 
-## Bijlage 15. als bedoeld in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&hoofdstuk=9&artikel=38&z=2005-09-01&g=2005-09-01) van de Uitvoeringsregeling Kadasterwet 1994
+## Bijlage 15. als bedoeld in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&hoofdstuk=9&artikel=38&z=2006-11-24&g=2006-11-24) van de Uitvoeringsregeling Kadasterwet 1994
 
 **Verzoek tot doorhaling van de teboekstelling van een luchtvaartuig**
 
@@ -823,7 +1191,7 @@ Teneinde de machtiging tot deze doorhaling te verkrijgen, worden aan de arrondis
 
 Totaal der bijlagen: …
 
-## Bijlage 16. als bedoeld in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&hoofdstuk=9&artikel=38&z=2005-09-01&g=2005-09-01) van de Uitvoeringsregeling Kadasterwet 1994
+## Bijlage 16. als bedoeld in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&hoofdstuk=9&artikel=38&z=2006-11-24&g=2006-11-24) van de Uitvoeringsregeling Kadasterwet 1994
 
 **Aangifte**
 
@@ -854,3 +1222,15 @@ Teneinde de machtiging tot deze doorhaling te verkrijgen, worden aan de arrondis
 Totaal der bijlagen: …
 
 … (plaats), … (datum)
+
+## Bijlage 17
+
+Niet opgenomen.
+
+## Bijlage 18
+
+Niet opgenomen.
+
+## Bijlage 19
+
+Niet opgenomen.
