@@ -4,7 +4,7 @@ identifier: "BWBR0027518"
 country: "nl"
 rank: "zbo"
 publication_date: "2006-11-24"
-last_updated: "1994-05-01"
+last_updated: "2006-11-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027518"
 soort: "zbo"
@@ -42,9 +42,11 @@ Gelet op [artikel 108, vierde lid, van de Kadasterwet](https://wetten.overheid.n
 
 Besluit:
 
+Treedt in werking op het tijdstip waarop de Organisatiewet Kadaster in werking treedt.
+
 ##### Artikel 1
 
-Het verschuldigde kadastraal recht wordt binnen twee weken na dagtekening van de nota, die ter zake van de verrichte werkzaamheden wordt verstrekt, voldaan of verrekend door betaling door middel van overmaking of storting op een op de nota vermelde bankrekening. Het verschuldigde recht voor de in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=4) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=11) bedoelde inzages en inlichtingen kan evenwel worden voldaan door betaling ten kantore van de Dienst voor het kadaster en de openbare registers, waar de inzage is verleend onderscheidenlijk de inlichtingen zijn verstrekt.
+Het verschuldigde kadastraal recht wordt binnen drie weken na dagtekening van de nota, die ter zake van de verrichte werkzaamheden wordt verstrekt, voldaan of verrekend door betaling door middel van overmaking of storting op een op de nota vermelde bankrekening. Het verschuldigde recht voor de in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=4) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=11) bedoelde inzages en inlichtingen kan evenwel worden voldaan door betaling ten kantore van de Dienst voor het kadaster en de openbare registers, waar de inzage is verleend onderscheidenlijk de inlichtingen zijn verstrekt. Het verschuldigde recht voor via het in paragraaf 3.6 van de technische handleiding genoemde internetadres aangevraagde en geleverde producten kan ook worden voldaan door middel van een elektronische betaling.
 
 2. In bijzondere gevallen kan worden gevorderd dat voorafgaand aan het verrichten van de werkzaamheden ten gunste en genoegen van de Dienst zekerheid wordt gesteld voor de betaling.
 
