@@ -73,23 +73,3 @@ Het kader voor het merk van goedkeuring, bedoeld in [artikel 1, onderdeel a](htt
 Het kenmerk, bedoeld in [artikel 1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0020565&artikel=1&z=2006-11-29&g=2006-11-29).
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 3a
-
-Het merkteken, bedoeld in [artikel 20, eerste lid, van het Meetinstrumentenbesluit I](https://wetten.overheid.nl/jci1.3:c:BWBR0019897&artikel=20) en [artikel 19, eerste lid, van het Meetinstrumentenbesluit II](https://wetten.overheid.nl/jci1.3:c:BWBR0020554&artikel=19) wordt duidelijk zichtbaar, gemakkelijk leesbaar en duurzaam op het meetinstrument aangebracht. Wanneer een meetinstrument te klein of te gevoelig is om de markering daarop aan te brengen wordt de markering aangebracht op de eventuele verpakking en op de documenten die bij het meetinstrument zijn gevoegd.
-
-## Bijlage II
-
-Het kenmerk, bedoeld in [artikel 1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0020565&artikel=1&z=2008-04-11&g=2008-04-11).
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 4a
-
-Deze regeling berust op de [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&artikel=21) en [22 van het Besluit meetinstrumenten en marktdeelnemers](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&artikel=22).
-
-## Bijlage II
-
-Het kenmerk, bedoeld in [artikel 1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0020565&artikel=1&z=2016-04-20&g=2016-04-20).
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
