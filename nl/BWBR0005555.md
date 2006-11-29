@@ -4,7 +4,7 @@ identifier: "BWBR0005555"
 country: "nl"
 rank: "wet"
 publication_date: "2025-12-31"
-last_updated: "2006-08-02"
+last_updated: "2006-11-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005555"
 soort: "wet"
@@ -56,7 +56,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - Eurocontrol-organisatie: de Organisatie, ingesteld bij het op 13 december 1960 te Brussel tot stand gekomen Verdrag tot samenwerking in het belang van de veiligheid van de luchtvaart «Eurocontrol» (Trb. 1961, 62), zoals gewijzigd bij Protocol van 12 februari 1981 (Trb. 1981, 182);
 
-- gevaarlijke stoffen: indien zij krachtens [artikel 6.51](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=6&titeldeel=6.5&artikel=6.51&z=2006-08-02&g=2006-08-02) of [artikel 10.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=10&artikel=10.7&z=2006-08-02&g=2006-08-02), zijn aangewezen.
+- gevaarlijke stoffen: indien zij krachtens [artikel 6.51](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=6&titeldeel=6.5&artikel=6.51&z=2006-11-29&g=2006-11-29) of [artikel 10.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=10&artikel=10.7&z=2006-11-29&g=2006-11-29), zijn aangewezen.
 
 - 1°. ontplofbare stoffen of voorwerpen;
 
@@ -78,7 +78,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - gezagvoerder: degene, die de leiding heeft bij en verantwoordelijk is voor de veilige uitvoering van de vlucht;
 
-- houder van een luchtvaartuig: degene, op wiens naam een luchtvaartuig in het register, bedoeld in [artikel 3.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=3&titeldeel=3.1&artikel=3.3&z=2006-08-02&g=2006-08-02), dan wel in een buitenlands register van luchtvaartuigen is ingeschreven;
+- houder van een luchtvaartuig: degene, op wiens naam een luchtvaartuig in het register, bedoeld in [artikel 3.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=3&titeldeel=3.1&artikel=3.3&z=2006-11-29&g=2006-11-29), dan wel in een buitenlands register van luchtvaartuigen is ingeschreven;
 
 - klaring: machtiging aan de gezagvoerder van een luchtvaartuig om een vlucht aan te vangen of te vervolgen onder door een luchtverkeersleidingsdienst gestelde voorwaarden;
 
@@ -100,21 +100,27 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - luchtverkeersleiding: het regelen van het luchtverkeer door het geven van klaringen en aanwijzingen aan deelnemers aan het luchtverkeer;
 
-- LVNL: de organisatie voor luchtverkeersdienstverlening, bedoeld in [artikel 5.22](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=5&titeldeel=5.3&paragraaf=5.3.1&artikel=5.22&z=2006-08-02&g=2006-08-02);
+- LVNL: de organisatie voor luchtverkeersdienstverlening, bedoeld in [artikel 5.22](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=5&titeldeel=5.3&paragraaf=5.3.1&artikel=5.22&z=2006-11-29&g=2006-11-29);
 
 - Nederlands luchtvaartuig: een in Nederland geregistreerd luchtvaartuig;
 
-- opsporingsambtenaar: de ambtenaar, bedoeld in [artikel 11.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=11&titeldeel=11.1&artikel=11.3&z=2006-08-02&g=2006-08-02);
+- opsporingsambtenaar: de ambtenaar, bedoeld in [artikel 11.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=11&titeldeel=11.1&artikel=11.3&z=2006-11-29&g=2006-11-29);
 
 - STD: een trainingsinstrument zijnde een vluchtnabootser, een vliegtrainingsinstrument, een trainer voor vlieg- en navigatieprocedures of een ander trainingsinstrument (Synthetic Training Device);
 
 - vlucht: de verplaatsing van het luchtvaartuig gedurende het tijdsverloop dat het in beweging komt met de bedoeling om op te stijgen, tot het ogenblik dat het weer tot volledige stilstand is gekomen na de landing;
 
-- vluchtinformatiegebied Amsterdam: het luchtruim boven het gebied, dat wordt begrensd door de rijksgrenzen en de kortste lijn op de ellipsoïde tussen de posities met de coördinaten 51°22'25" N 003°21'50" O en 51°30'00" N 002°00'00" O, 51°30'00" N 002°00'00" O en 55°00'00" N 005°00'00" O, de loxodroom tussen 55°00'00" N, 005°00'00" O en 55°00'00" N 006°30'00" O en de kortste lijn op de ellipsoïde tussen de posities met de coördinaten 55°00'00" N 006°30'00" O en 53°40'00" N, 006°30'00" O, uitgedrukt in het geografische referentiesysteem WGS 84.
+- vluchtinformatiegebied Amsterdam: het luchtruim boven het gebied, dat wordt begrensd door de rijksgrenzen en de kortste lijn op de ellipsoïde tussen de posities met de coördinaten 51°22'25" N 003°21'50" O en 51°30'00" N 002°00'00" O, 51°30'00" N 002°00'00" O en 55°00'00" N 005°00'00" O, de loxodroom tussen 55°00'00" N, 005°00'00" O en 55°00'00" N 006°30'00" O en de kortste lijn op de ellipsoïde tussen de posities met de coördinaten 55°00'00" N 006°30'00" O en 53°40'00" N, 006°30'00" O, uitgedrukt in het geografische referentiesysteem WGS 84;
+
+- v. voorval: een operationele onderbreking, defect, fout of andere onregelmatigheid, waardoor de vliegveiligheid wordt of kan worden beïnvloed, zonder dat sprake is van een ongeval of ernstig incident, als bedoeld in artikel 3, onderdelen a en k, van [richtlijn nr. 94/56/EG](31994L0056) van de Raad van de Europese Gemeenschappen van 21 november 1994, houdende vaststelling van de grondbeginselen voor het onderzoek van ongevallen en incidenten in de burgerluchtvaart (PbEG L 319);
+
+- w. voorval gevaarlijke stoffen: ongeval of incident met gevaarlijke stoffen als bedoeld in de als bijlage bij Annex 18 bij het Verdrag inzake de internationale burgerluchtvaart (Trb. 1973, 109) behorende Technische Voorschriften voor het veilig vervoer van gevaarlijke stoffen door de lucht.
 
 2. Onder lid van het cockpitpersoneel wordt ten aanzien van onbemande luchtvaartuigen mede verstaan ieder, die werkzaamheden verricht, welke van direct belang zijn voor het op afstand bedienen van het luchtvaartuig.
 
 3. Onder luchtvaartmaatschappij wordt mede verstaan de naar privaatrecht opgerichte rechtspersoon, die zich bezig houdt met het vervoer van personen, dieren of goederen met luchtvaartuigen tegen vergoeding.
+
+4. Een wijziging van artikel 3, onderdelen a en k, van [richtlijn nr. 94/56/EG](31994L0056), gaat voor de toepassing van het eerste lid, onderdeel v, gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
 
 ##### Artikel 1.2
 
@@ -122,19 +128,19 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 2. Bij algemene maatregel van bestuur kan worden bepaald dat, op nader in die algemene maatregel aan te geven categorieën van personeel of op bepaalde soorten van luchtvaartuigen, op bepaalde soorten van vervoer of op bepaalde vormen van vluchtuitvoering, indien toepassing van deze wet in redelijkheid niet kan worden gevergd en de veiligheid van het luchtverkeer niet in gevaar wordt gebracht, geheel of gedeeltelijk niet van toepassing zijn:
 
-- –. de[artikelen 2.1 tot en met 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=2&titeldeel=2.1&artikel=2.1&z=2006-08-02&g=2006-08-02) of één of meer van deze artikelen,
+- –. de[artikelen 2.1 tot en met 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=2&titeldeel=2.1&artikel=2.1&z=2006-11-29&g=2006-11-29) of één of meer van deze artikelen,
 
-- –. [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=3&z=2006-08-02&g=2006-08-02),
+- –. [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=3&z=2006-11-29&g=2006-11-29),
 
-- –. [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=4&z=2006-08-02&g=2006-08-02),
+- –. [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=4&z=2006-11-29&g=2006-11-29),
 
-- –. [titel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=5&titeldeel=5.1&z=2006-08-02&g=2006-08-02) of [5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=5&titeldeel=5.2&z=2006-08-02&g=2006-08-02),
+- –. [titel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=5&titeldeel=5.1&z=2006-11-29&g=2006-11-29) of [5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=5&titeldeel=5.2&z=2006-11-29&g=2006-11-29),
 
-- –. [titel 6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=6&titeldeel=6.5&z=2006-08-02&g=2006-08-02) of [titel 6.6](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=6&titeldeel=6.6&z=2006-08-02&g=2006-08-02),
+- –. [titel 6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=6&titeldeel=6.5&z=2006-11-29&g=2006-11-29) of [titel 6.6](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=6&titeldeel=6.6&z=2006-11-29&g=2006-11-29),
 
-- –. [hoofdstuk 9](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=9&z=2006-08-02&g=2006-08-02), of
+- –. [hoofdstuk 9](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=9&z=2006-11-29&g=2006-11-29), of
 
-- –. [hoofdstuk 10](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=10&z=2006-08-02&g=2006-08-02).
+- –. [hoofdstuk 10](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=10&z=2006-11-29&g=2006-11-29).
 
 3. Bij de toepassing van het tweede lid kunnen bij of krachtens die algemene maatregel van bestuur voorschriften en beperkingen worden opgenomen met betrekking tot één of meer buiten toepassing van de wet te laten onderdelen. Deze voorschriften en beperkingen kunnen mede betrekking hebben op de beperking van geluidshinder.
 
@@ -170,11 +176,11 @@ Voor zover Onze Minister van Verkeer en Waterstaat onderscheidenlijk Onze Minist
 
 - a. een door Onze Minister van Verkeer en Waterstaat afgegeven bewijs van bevoegdheid of bewijs van gelijkstelling, hetzij
 
-- b. een bewijs van bevoegdheid of bewijs van gelijkstelling, afgegeven door de bevoegde autoriteit van een door Onze Minister van Verkeer en Waterstaat op grond van [artikel 2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=2&titeldeel=2.1&artikel=2.8&z=2006-08-02&g=2006-08-02) aangewezen staat of door een door hem aangewezen internationale organisatie. Betrokkene dient in geval van toepassing van [onderdeel **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=2&titeldeel=2.1&artikel=2.1&z=2006-08-02&g=2006-08-02) tevens in het bezit te zijn van een geldige medische verklaring, bedoeld in [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=2&titeldeel=2.1&artikel=2.4&z=2006-08-02&g=2006-08-02), afgegeven door Onze Minister van Verkeer en Waterstaat dan wel door de bevoegde autoriteit van een door hem aangewezen staat.
+- b. een bewijs van bevoegdheid of bewijs van gelijkstelling, afgegeven door de bevoegde autoriteit van een door Onze Minister van Verkeer en Waterstaat op grond van [artikel 2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=2&titeldeel=2.1&artikel=2.8&z=2006-11-29&g=2006-11-29) aangewezen staat of door een door hem aangewezen internationale organisatie. Betrokkene dient in geval van toepassing van [onderdeel **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=2&titeldeel=2.1&artikel=2.1&z=2006-11-29&g=2006-11-29) tevens in het bezit te zijn van een geldige medische verklaring, bedoeld in [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=2&titeldeel=2.1&artikel=2.4&z=2006-11-29&g=2006-11-29), afgegeven door Onze Minister van Verkeer en Waterstaat dan wel door de bevoegde autoriteit van een door hem aangewezen staat.
 
 3. Bij algemene maatregel van bestuur kunnen andere werkzaamheden aan boord van een burgerluchtvaartuig worden aangewezen, die niet mogen worden verricht zonder een door Onze Minister van Verkeer en Waterstaat afgegeven bewijs van bevoegdheid of bewijs van gelijkstelling.
 
-4. Onze Minister van Verkeer en Waterstaat kan ontheffing verlenen van het bepaalde bij of krachtens [dit artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=2&titeldeel=2.1&artikel=2.1&z=2006-08-02&g=2006-08-02), wanneer door bijzondere omstandigheden die regels in redelijkheid geen toepassing kunnen vinden en de veiligheid van het luchtverkeer met het verlenen van de ontheffing niet in gevaar wordt gebracht. Aan de ontheffing kunnen voorschriften of beperkingen worden verbonden.
+4. Onze Minister van Verkeer en Waterstaat kan ontheffing verlenen van het bepaalde bij of krachtens [dit artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=2&titeldeel=2.1&artikel=2.1&z=2006-11-29&g=2006-11-29), wanneer door bijzondere omstandigheden die regels in redelijkheid geen toepassing kunnen vinden en de veiligheid van het luchtverkeer met het verlenen van de ontheffing niet in gevaar wordt gebracht. Aan de ontheffing kunnen voorschriften of beperkingen worden verbonden.
 
 5. Onze Minister van Verkeer en Waterstaat trekt de door hem verleende ontheffing in, wanneer
 
@@ -210,7 +216,7 @@ Voor zover Onze Minister van Verkeer en Waterstaat onderscheidenlijk Onze Minist
 
 - b. slechts onder in die algemene maatregel bepaalde voorwaarden mag uitoefenen.
 
-6. Bij of krachtens algemene maatregel van bestuur worden nadere regels gegeven met betrekking tot [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=2&titeldeel=2.1&artikel=2.2&z=2006-08-02&g=2006-08-02) en [dit artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=2&titeldeel=2.1&artikel=2.3&z=2006-08-02&g=2006-08-02). Deze regels bevatten in ieder geval bepalingen betreffende:
+6. Bij of krachtens algemene maatregel van bestuur worden nadere regels gegeven met betrekking tot [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=2&titeldeel=2.1&artikel=2.2&z=2006-11-29&g=2006-11-29) en [dit artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=2&titeldeel=2.1&artikel=2.3&z=2006-11-29&g=2006-11-29). Deze regels bevatten in ieder geval bepalingen betreffende:
 
 - a. de aanvraag en afgifte van bewijzen van bevoegdheid en de aanvraag, afgifte en verlenging van bevoegdverklaringen;
 
@@ -226,15 +232,15 @@ Voor zover Onze Minister van Verkeer en Waterstaat onderscheidenlijk Onze Minist
 
 - g. de vernieuwing van het document, waarop bewijzen van bevoegdheid en bevoegdverklaringen worden weergegeven;
 
-- h. de vergoeding, die de aanvrager is verschuldigd voor de kosten van de handelingen ten behoeve van de aanvraag tot afgifte van het bewijs van bevoegdheid, een bevoegdverklaring of het bewijs van gelijkstelling, de verlenging van een bewijs van bevoegdheid of verlenging een bevoegdverklaring, het afleggen van een theorie- of praktijkexamen,,“praktijkexamen,,” moet zijn “praktijkexamen,” de vernieuwing van het document, bedoeld in [onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=2&titeldeel=2.1&artikel=2.3&z=2006-08-02&g=2006-08-02), de afgifte van de autorisatie, bedoeld in [onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=2&titeldeel=2.1&artikel=2.3&z=2006-08-02&g=2006-08-02), de afgifte en verlenging van de medische verklaring, bedoeld in [artikel 2.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=2&titeldeel=2.1&artikel=2.2&z=2006-08-02&g=2006-08-02), en de afgifte en verlenging van de kwalificatie, bedoeld in [onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=2&titeldeel=2.1&artikel=2.3&z=2006-08-02&g=2006-08-02).
+- h. de vergoeding, die de aanvrager is verschuldigd voor de kosten van de handelingen ten behoeve van de aanvraag tot afgifte van het bewijs van bevoegdheid, een bevoegdverklaring of het bewijs van gelijkstelling, de verlenging van een bewijs van bevoegdheid of verlenging een bevoegdverklaring, het afleggen van een theorie- of praktijkexamen,,“praktijkexamen,,” moet zijn “praktijkexamen,” de vernieuwing van het document, bedoeld in [onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=2&titeldeel=2.1&artikel=2.3&z=2006-11-29&g=2006-11-29), de afgifte van de autorisatie, bedoeld in [onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=2&titeldeel=2.1&artikel=2.3&z=2006-11-29&g=2006-11-29), de afgifte en verlenging van de medische verklaring, bedoeld in [artikel 2.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=2&titeldeel=2.1&artikel=2.2&z=2006-11-29&g=2006-11-29), en de afgifte en verlenging van de kwalificatie, bedoeld in [onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=2&titeldeel=2.1&artikel=2.3&z=2006-11-29&g=2006-11-29).
 
 7. Bij het besluit van Onze Minister van Verkeer en Waterstaat, bedoeld in het zesde lid, onderdeel e, kunnen in aanmerking genomen worden het aantal reeds geautoriseerde examinatoren, hun specifieke deskundigheid en de spreiding van examinatoren over het land in relatie tot de regionale of plaatselijke behoefte.
 
-8. [Artikel 2.1, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=2&titeldeel=2.1&artikel=2.1&z=2006-08-02&g=2006-08-02), is met betrekking tot [dit artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=2&titeldeel=2.1&artikel=2.3&z=2006-08-02&g=2006-08-02) van overeenkomstige toepassing.
+8. [Artikel 2.1, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=2&titeldeel=2.1&artikel=2.1&z=2006-11-29&g=2006-11-29), is met betrekking tot [dit artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=2&titeldeel=2.1&artikel=2.3&z=2006-11-29&g=2006-11-29) van overeenkomstige toepassing.
 
 ##### Artikel 2.4
 
-1. Onze Minister van Verkeer en Waterstaat geeft op aanvraag de medische verklaring, bedoeld in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=2&titeldeel=2.1&artikel=2.2&z=2006-08-02&g=2006-08-02), af, indien betrokkene voldoet aan de eisen van medische geschiktheid om de werkzaamheden te verrichten, waarvoor betrokkene een bewijs van bevoegdheid of bevoegdverklaring heeft aangevraagd of is verleend.
+1. Onze Minister van Verkeer en Waterstaat geeft op aanvraag de medische verklaring, bedoeld in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=2&titeldeel=2.1&artikel=2.2&z=2006-11-29&g=2006-11-29), af, indien betrokkene voldoet aan de eisen van medische geschiktheid om de werkzaamheden te verrichten, waarvoor betrokkene een bewijs van bevoegdheid of bevoegdverklaring heeft aangevraagd of is verleend.
 
 2. De medische verklaring wordt, al dan niet onder beperkingen, verleend voor een bij algemene maatregel van bestuur vast te stellen termijn. Onze Minister van Verkeer en Waterstaat verlengt op aanvraag de medische verklaring voor een bij algemene maatregel van bestuur vast te stellen termijn, indien de houder voldoet aan de in het eerste lid bedoelde eisen.
 
@@ -248,11 +254,11 @@ Voor zover Onze Minister van Verkeer en Waterstaat onderscheidenlijk Onze Minist
 
 - d. de eisen waaraan een geneeskundige of geneeskundige instantie moet voldoen teneinde een autorisatie te verkrijgen;
 
-- e. de aanwijzing van instellingen die in het kader van een autorisatie als bedoeld in [onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=2&titeldeel=2.1&artikel=2.4&z=2006-08-02&g=2006-08-02) een certificaat kunnen afgeven;
+- e. de aanwijzing van instellingen die in het kader van een autorisatie als bedoeld in [onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=2&titeldeel=2.1&artikel=2.4&z=2006-11-29&g=2006-11-29) een certificaat kunnen afgeven;
 
 - f. de mogelijkheid van herbeoordeling;
 
-- g. de vergoeding, die de aanvrager is verschuldigd voor de kosten van de handelingen ten behoeve van de aanvraag tot afgifte van de autorisatie, bedoeld in [onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=2&titeldeel=2.1&artikel=2.4&z=2006-08-02&g=2006-08-02).
+- g. de vergoeding, die de aanvrager is verschuldigd voor de kosten van de handelingen ten behoeve van de aanvraag tot afgifte van de autorisatie, bedoeld in [onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=2&titeldeel=2.1&artikel=2.4&z=2006-11-29&g=2006-11-29).
 
 4. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gegeven omtrent de beperkingen waaronder een medische verklaring kan worden afgegeven.
 
@@ -282,13 +288,13 @@ Voor zover Onze Minister van Verkeer en Waterstaat onderscheidenlijk Onze Minist
 
 - b. de wijze, waarop de houder van het betrokken bewijs van bevoegdheid kan doen blijken, dat hij bij het verrichten van de hem toegestane werkzaamheden de veiligheid niet in gevaar brengt;
 
-- c. de wijze waarop de houder van een autorisatie als bedoeld in [artikel 2.4, derde lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=2&titeldeel=2.1&artikel=2.4&z=2006-08-02&g=2006-08-02), opnieuw kan doen blijken aan de bij of krachtens dat onderdeel bedoelde eisen te voldoen.
+- c. de wijze waarop de houder van een autorisatie als bedoeld in [artikel 2.4, derde lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=2&titeldeel=2.1&artikel=2.4&z=2006-11-29&g=2006-11-29), opnieuw kan doen blijken aan de bij of krachtens dat onderdeel bedoelde eisen te voldoen.
 
-5. Onze Minister kan een autorisatie als bedoeld in [artikel 2.4, derde lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=2&titeldeel=2.1&artikel=2.4&z=2006-08-02&g=2006-08-02), schorsen, wanneer een ernstig vermoeden rijst, dat de houder van de autorisatie niet langer voldoet aan de bij of krachtens dat onderdeel gestelde eisen.
+5. Onze Minister kan een autorisatie als bedoeld in [artikel 2.4, derde lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=2&titeldeel=2.1&artikel=2.4&z=2006-11-29&g=2006-11-29), schorsen, wanneer een ernstig vermoeden rijst, dat de houder van de autorisatie niet langer voldoet aan de bij of krachtens dat onderdeel gestelde eisen.
 
-6. Het eerste tot en met vierde lid is van overeenkomstige toepassing op een autorisatie als bedoeld in [artikel 2.3, zesde lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=2&titeldeel=2.1&artikel=2.3&z=2006-08-02&g=2006-08-02).
+6. Het eerste tot en met vierde lid is van overeenkomstige toepassing op een autorisatie als bedoeld in [artikel 2.3, zesde lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=2&titeldeel=2.1&artikel=2.3&z=2006-11-29&g=2006-11-29).
 
-7. Het derde lid is van overeenkomstige toepassing op een autorisatie als bedoeld in [artikel 2.4, derde lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=2&titeldeel=2.1&artikel=2.4&z=2006-08-02&g=2006-08-02).
+7. Het derde lid is van overeenkomstige toepassing op een autorisatie als bedoeld in [artikel 2.4, derde lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=2&titeldeel=2.1&artikel=2.4&z=2006-11-29&g=2006-11-29).
 
 8. Schorsing van het bewijs van bevoegdheid betekent schorsing van op het document weergegeven bevoegdverklaringen voor de duur van die schorsing.
 
@@ -308,11 +314,11 @@ Voor zover Onze Minister van Verkeer en Waterstaat onderscheidenlijk Onze Minist
 
 2. Indien de houder van een bewijs van bevoegdheid of een of meer bevoegdverklaringen de bevoegdheid een luchtvaartuig te bedienen is ontzegd, dan wel zijn bewijs van bevoegdheid of een of meer bevoegdverklaringen zijn ingetrokken, is hij verplicht het document, waarop zijn bewijs van bevoegdheid en eventuele bevoegdverklaringen zijn weergegeven, onverwijld bij Onze Minister van Verkeer en Waterstaat in te leveren.
 
-3. Het eerste en tweede lid is van overeenkomstige toepassing op een autorisatie als bedoeld in [artikel 2.3, zesde lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=2&titeldeel=2.1&artikel=2.3&z=2006-08-02&g=2006-08-02).
+3. Het eerste en tweede lid is van overeenkomstige toepassing op een autorisatie als bedoeld in [artikel 2.3, zesde lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=2&titeldeel=2.1&artikel=2.3&z=2006-11-29&g=2006-11-29).
 
-4. Het eerste lid is van overeenkomstige toepassing op een autorisatie als bedoeld in [artikel 2.4, derde lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=2&titeldeel=2.1&artikel=2.4&z=2006-08-02&g=2006-08-02).
+4. Het eerste lid is van overeenkomstige toepassing op een autorisatie als bedoeld in [artikel 2.4, derde lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=2&titeldeel=2.1&artikel=2.4&z=2006-11-29&g=2006-11-29).
 
-5. Het eerste en tweede lid is van overeenkomstige toepassing op een autorisatie als bedoeld in [artikel 2.3, vijfde lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=2&titeldeel=2.1&artikel=2.3&z=2006-08-02&g=2006-08-02).
+5. Het eerste en tweede lid is van overeenkomstige toepassing op een autorisatie als bedoeld in [artikel 2.3, vijfde lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=2&titeldeel=2.1&artikel=2.3&z=2006-11-29&g=2006-11-29).
 
 6. Bij ministeriële regeling kan Onze Minister van Verkeer en Waterstaat regels geven met betrekking tot de procedure van intrekking.
 
@@ -322,13 +328,13 @@ Voor zover Onze Minister van Verkeer en Waterstaat onderscheidenlijk Onze Minist
 
 2. Het bewijs van gelijkstelling geeft niet meer bevoegdheden dan het betrokken bewijs van bevoegdheid en wordt slechts eenmaal afgegeven voor ten hoogste de duur van geldigheid van het betrokken bewijs van bevoegdheid doch niet langer dan een jaar.
 
-3. Onze Minister van Verkeer en Waterstaat kan een bewijs van gelijkstelling intrekken wanneer de omstandigheden, bedoeld in [artikel 2.6, eerste lid, onder c of d](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=2&titeldeel=2.1&artikel=2.6&z=2006-08-02&g=2006-08-02), zich voordoen.
+3. Onze Minister van Verkeer en Waterstaat kan een bewijs van gelijkstelling intrekken wanneer de omstandigheden, bedoeld in [artikel 2.6, eerste lid, onder c of d](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=2&titeldeel=2.1&artikel=2.6&z=2006-11-29&g=2006-11-29), zich voordoen.
 
 4. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gegeven over de voorwaarden en omstandigheden waaronder een bewijs van gelijkstelling wordt afgegeven.
 
 ##### Artikel 2.8
 
-Onze Minister van Verkeer en Waterstaat kan op grond van internationale overeenkomsten of besluiten van volkenrechtelijke organisaties bewijzen van bevoegdheid of bewijzen van gelijkstelling, die op grond van eisen, welke gelijkwaardig zijn aan de krachtens [artikel 2.3, zesde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=2&titeldeel=2.1&artikel=2.3&z=2006-08-02&g=2006-08-02), gestelde eisen, zijn afgegeven door
+Onze Minister van Verkeer en Waterstaat kan op grond van internationale overeenkomsten of besluiten van volkenrechtelijke organisaties bewijzen van bevoegdheid of bewijzen van gelijkstelling, die op grond van eisen, welke gelijkwaardig zijn aan de krachtens [artikel 2.3, zesde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=2&titeldeel=2.1&artikel=2.3&z=2006-11-29&g=2006-11-29), gestelde eisen, zijn afgegeven door
 
 - a. de bevoegde autoriteit van een door hem bij ministeriële regeling aangewezen staat, of
 
@@ -372,11 +378,11 @@ Het is de houder van een bewijs van bevoegdheid of bewijs van gelijkstelling ver
 
 4. Het is een lid van het boordpersoneel verboden werkzaamheden aan boord van een luchtvaartuig te verrichten gedurende de tijd, waarvoor een rijverbod als bedoeld in [artikel 162, eerste lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=162) geldt.
 
-5. Het is verboden een lid van het boordpersoneel van wie men weet of redelijkerwijs moet weten, dat deze verkeert in een toestand, als bedoeld in [artikel 2.11 of in het eerste of derde lid van dit artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=2&titeldeel=2.2&artikel=2.12&z=2006-08-02&g=2006-08-02), werkzaamheden aan boord van een luchtvaartuig te doen verrichten.
+5. Het is verboden een lid van het boordpersoneel van wie men weet of redelijkerwijs moet weten, dat deze verkeert in een toestand, als bedoeld in [artikel 2.11 of in het eerste of derde lid van dit artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=2&titeldeel=2.2&artikel=2.12&z=2006-11-29&g=2006-11-29), werkzaamheden aan boord van een luchtvaartuig te doen verrichten.
 
 ##### Artikel 2.13
 
-Aan de ambtenaren, die belast zijn met de handhaving van [artikel 2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=2&titeldeel=2.2&artikel=2.12&z=2006-08-02&g=2006-08-02) worden uit het register, bedoeld in [artikel 126 van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=126), op door de Dienst Wegverkeer te bepalen wijze de gegevens verstrekt, die zij voor de uitoefening van hun taak nodig hebben.
+Aan de ambtenaren, die belast zijn met de handhaving van [artikel 2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=2&titeldeel=2.2&artikel=2.12&z=2006-11-29&g=2006-11-29) worden uit het register, bedoeld in [artikel 126 van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=126), op door de Dienst Wegverkeer te bepalen wijze de gegevens verstrekt, die zij voor de uitoefening van hun taak nodig hebben.
 
 ## TITEL 2.3. ADVIESCOMMISSIE ARBEIDSOMSTANDIGHEDEN
 
@@ -424,7 +430,7 @@ Aan de ambtenaren, die belast zijn met de handhaving van [artikel 2.12](https://
 
 - a. een door Onze Minister van Verkeer en Waterstaat respectievelijk Onze Minister van Defensie vastgesteld nationaliteitskenmerk en een voor dat luchtvaartuig vastgesteld inschrijvingskenmerk; en
 
-- b. een bewijs van inschrijving in het register, bedoeld in [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=3&titeldeel=3.1&artikel=3.3&z=2006-08-02&g=2006-08-02).
+- b. een bewijs van inschrijving in het register, bedoeld in [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=3&titeldeel=3.1&artikel=3.3&z=2006-11-29&g=2006-11-29).
 
 2. De kenmerken, bedoeld in het eerste lid, bestaan voor burgerluchtvaartuigen uit letters of cijfers of een combinatie van beide; zij worden op bij ministeriële regeling nader aan te geven plaats, wijze en uitvoering op het desbetreffende luchtvaartuig aangebracht.
 
@@ -450,7 +456,7 @@ Aan de ambtenaren, die belast zijn met de handhaving van [artikel 2.12](https://
 
 ##### Artikel 3.4
 
-1. Onze Minister van Verkeer en Waterstaat kan op aanvraag van de houder van een burgerluchtvaartuig de inschrijving wijzigen, nadat de houder de nodige gegevens heeft verstrekt en het bewijs van inschrijving, bedoeld in [artikel 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=3&titeldeel=3.1&artikel=3.5&z=2006-08-02&g=2006-08-02), bij Onze Minister van Verkeer en Waterstaat heeft ingeleverd.
+1. Onze Minister van Verkeer en Waterstaat kan op aanvraag van de houder van een burgerluchtvaartuig de inschrijving wijzigen, nadat de houder de nodige gegevens heeft verstrekt en het bewijs van inschrijving, bedoeld in [artikel 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=3&titeldeel=3.1&artikel=3.5&z=2006-11-29&g=2006-11-29), bij Onze Minister van Verkeer en Waterstaat heeft ingeleverd.
 
 2. Onze Minister van Verkeer en Waterstaat kan een inschrijving ambtshalve wijzigen, wanneer:
 
@@ -458,15 +464,15 @@ Aan de ambtenaren, die belast zijn met de handhaving van [artikel 2.12](https://
 
 - b. de feiten die ten grondslag liggen aan de gegevens, tijdens de duur van de inschrijving wijziging hebben ondergaan.
 
-3. Onze Minister van Verkeer en Waterstaat haalt op aanvraag van de houder van een burgerluchtvaartuig de inschrijving door, nadat de houder de nodige gegevens heeft verstrekt en het bewijs van inschrijving, bedoeld in [artikel 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=3&titeldeel=3.1&artikel=3.5&z=2006-08-02&g=2006-08-02), bij Onze Minister van Verkeer en Waterstaat heeft ingeleverd.
+3. Onze Minister van Verkeer en Waterstaat haalt op aanvraag van de houder van een burgerluchtvaartuig de inschrijving door, nadat de houder de nodige gegevens heeft verstrekt en het bewijs van inschrijving, bedoeld in [artikel 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=3&titeldeel=3.1&artikel=3.5&z=2006-11-29&g=2006-11-29), bij Onze Minister van Verkeer en Waterstaat heeft ingeleverd.
 
 4. Onze Minister van Verkeer en Waterstaat kan een inschrijving ambtshalve doorhalen, wanneer:
 
 - a. de houder ten behoeve van de inschrijving onjuiste gegevens heeft verstrekt;
 
-- b. de houder niet meer voldoet aan de eisen, bedoeld in [artikel 3.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=3&titeldeel=3.1&artikel=3.3&z=2006-08-02&g=2006-08-02), of
+- b. de houder niet meer voldoet aan de eisen, bedoeld in [artikel 3.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=3&titeldeel=3.1&artikel=3.3&z=2006-11-29&g=2006-11-29), of
 
-- c. gedurende langer dan een jaar het desbetreffende luchtvaartuig niet voorzien is van een geldig bewijs van luchtwaardigheid als bedoeld in [artikel 3.8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=3&titeldeel=3.2&paragraaf=3.2.1&artikel=3.8&z=2006-08-02&g=2006-08-02).
+- c. gedurende langer dan een jaar het desbetreffende luchtvaartuig niet voorzien is van een geldig bewijs van luchtwaardigheid als bedoeld in [artikel 3.8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=3&titeldeel=3.2&paragraaf=3.2.1&artikel=3.8&z=2006-11-29&g=2006-11-29).
 
 5. Onze Minister van Verkeer en Waterstaat haalt een inschrijving ambtshalve door, wanneer het betrokken luchtvaartuig:
 
@@ -476,27 +482,27 @@ Aan de ambtenaren, die belast zijn met de handhaving van [artikel 2.12](https://
 
 ##### Artikel 3.5
 
-1. Ten bewijze van inschrijving in het register, bedoeld in [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=3&titeldeel=3.1&artikel=3.3&z=2006-08-02&g=2006-08-02), verstrekt Onze Minister van Verkeer en Waterstaat respectievelijk Onze Minister van Defensie met betrekking tot het ingeschreven luchtvaartuig een bewijs van inschrijving. Onze Minister wie het aangaat kan een inschrijvingsbewijs wijzigen. Het bewijs wordt verstrekt voor onbepaalde tijd.
+1. Ten bewijze van inschrijving in het register, bedoeld in [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=3&titeldeel=3.1&artikel=3.3&z=2006-11-29&g=2006-11-29), verstrekt Onze Minister van Verkeer en Waterstaat respectievelijk Onze Minister van Defensie met betrekking tot het ingeschreven luchtvaartuig een bewijs van inschrijving. Onze Minister wie het aangaat kan een inschrijvingsbewijs wijzigen. Het bewijs wordt verstrekt voor onbepaalde tijd.
 
-2. In geval van toepassing van [artikel 3.3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=3&titeldeel=3.1&artikel=3.3&z=2006-08-02&g=2006-08-02), verstrekt Onze Minister van Verkeer en Waterstaat een bewijs van inschrijving voor de termijn, waarvoor het betrokken luchtvaartuig is ingeschreven.
+2. In geval van toepassing van [artikel 3.3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=3&titeldeel=3.1&artikel=3.3&z=2006-11-29&g=2006-11-29), verstrekt Onze Minister van Verkeer en Waterstaat een bewijs van inschrijving voor de termijn, waarvoor het betrokken luchtvaartuig is ingeschreven.
 
 3. In geval van:
 
-- a. wijziging van de inschrijving, bedoeld in [artikel 3.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=3&titeldeel=3.1&artikel=3.4&z=2006-08-02&g=2006-08-02), of
+- a. wijziging van de inschrijving, bedoeld in [artikel 3.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=3&titeldeel=3.1&artikel=3.4&z=2006-11-29&g=2006-11-29), of
 
-- b. doorhaling van de inschrijving, bedoeld in [artikel 3.4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=3&titeldeel=3.1&artikel=3.4&z=2006-08-02&g=2006-08-02), kan Onze Minister van Verkeer en Waterstaat aan de aanvrager een tijdelijk bewijs van inschrijving ver trekken voor ten hoogste vier weken. Wijziging of doorhaling van de inschrijving vindt plaats na verstrijken van de termijn, waarvoor het tijdelijk bewijs van inschrijving is verleend.
+- b. doorhaling van de inschrijving, bedoeld in [artikel 3.4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=3&titeldeel=3.1&artikel=3.4&z=2006-11-29&g=2006-11-29), kan Onze Minister van Verkeer en Waterstaat aan de aanvrager een tijdelijk bewijs van inschrijving ver trekken voor ten hoogste vier weken. Wijziging of doorhaling van de inschrijving vindt plaats na verstrijken van de termijn, waarvoor het tijdelijk bewijs van inschrijving is verleend.
 
-4. In geval van ambtshalve wijziging of doorhaling van de inschrijving, bedoeld in [artikel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=3&titeldeel=3.1&artikel=3.4&z=2006-08-02&g=2006-08-02), tweede respectievelijk vierde of vijfde lid, levert de houder van het bewijs van inschrijving dit bewijs terstond in bij Onze Minister van Verkeer en Waterstaat.
+4. In geval van ambtshalve wijziging of doorhaling van de inschrijving, bedoeld in [artikel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=3&titeldeel=3.1&artikel=3.4&z=2006-11-29&g=2006-11-29), tweede respectievelijk vierde of vijfde lid, levert de houder van het bewijs van inschrijving dit bewijs terstond in bij Onze Minister van Verkeer en Waterstaat.
 
 5. Bij regeling van Onze Minister van Verkeer en Waterstaat respectievelijk Onze Minister van Defensie kunnen met betrekking tot het model en de uitvoering van het bewijs van inschrijving eisen worden vastgesteld.
 
 ##### Artikel 3.6
 
-Voor luchtvaartuigen, die behoren tot de bedrijfsvoorraad van een natuurlijke of rechtspersoon aan wie een erkenning als bedoeld in [artikel 3.25](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=3&titeldeel=3.2&paragraaf=3.2.2&artikel=3.25&z=2006-08-02&g=2006-08-02) is verleend, geldt het vereiste, dat een inschrijvingskenmerk voor een bepaald luchtvaartuig is vastgesteld, niet, mits het betrokken luchtvaartuig een inschrijvingskenmerk voert, dat door Onze Minister van Verkeer en Waterstaat aan die natuurlijke of rechtspersoon met het oog op de bedrijfsvoorraad is opgegeven. Artikel 3.2, tweede lid, is van toepassing.
+Voor luchtvaartuigen, die behoren tot de bedrijfsvoorraad van een natuurlijke of rechtspersoon aan wie een erkenning als bedoeld in [artikel 3.25](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=3&titeldeel=3.2&paragraaf=3.2.2&artikel=3.25&z=2006-11-29&g=2006-11-29) is verleend, geldt het vereiste, dat een inschrijvingskenmerk voor een bepaald luchtvaartuig is vastgesteld, niet, mits het betrokken luchtvaartuig een inschrijvingskenmerk voert, dat door Onze Minister van Verkeer en Waterstaat aan die natuurlijke of rechtspersoon met het oog op de bedrijfsvoorraad is opgegeven. Artikel 3.2, tweede lid, is van toepassing.
 
 ##### Artikel 3.7
 
-Ten aanzien van burgerluchtvaartuigen worden bij of krachtens algemene maatregel van bestuur nadere regels gegeven ter uitvoering van [de artikelen 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=3&titeldeel=3.1&artikel=3.4&z=2006-08-02&g=2006-08-02) en [3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=3&titeldeel=3.1&artikel=3.5&z=2006-08-02&g=2006-08-02). Deze regels bevatten in ieder geval bepalingen betreffende:
+Ten aanzien van burgerluchtvaartuigen worden bij of krachtens algemene maatregel van bestuur nadere regels gegeven ter uitvoering van [de artikelen 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=3&titeldeel=3.1&artikel=3.4&z=2006-11-29&g=2006-11-29) en [3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=3&titeldeel=3.1&artikel=3.5&z=2006-11-29&g=2006-11-29). Deze regels bevatten in ieder geval bepalingen betreffende:
 
 - a. de procedure van aanvraag, wijziging of doorhaling van een inschrijving, alsmede de gegevens, welke bij elke procedure dienen te worden verstrekt;
 
@@ -568,7 +574,7 @@ Vervallen
 
 1. Onze Minister van Defensie geeft met betrekking tot Nederlandse militaire luchtvaartuigen bewijzen van luchtwaardigheid af, indien:
 
-- a. ten aanzien van het betrokken type-ontwerp een typecertificaat is afgegeven als bedoeld in [artikel 3.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=3&titeldeel=3.2&paragraaf=3.2.1&artikel=3.9&z=2006-08-02&g=2006-08-02); en
+- a. ten aanzien van het betrokken type-ontwerp een typecertificaat is afgegeven als bedoeld in [artikel 3.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=3&titeldeel=3.2&paragraaf=3.2.1&artikel=3.9&z=2006-11-29&g=2006-11-29); en
 
 - b. het betrokken luchtvaartuig voldoet aan de bij ministeriële regeling gestelde eisen; deze eisen kunnen voor verschillende categorieën luchtvaartuigen verschillend zijn.
 
@@ -584,7 +590,7 @@ Vervallen
 
 1. Het bewijs van luchtwaardigheid voor burgerluchtvaartuigen wordt afgegeven voor onbepaalde tijd dan wel voor een bij algemene maatregel van bestuur vast te stellen termijn, welke voor de verschillende bewijzen van luchtwaardigheid verschillend kan zijn.
 
-2. Op aanvraag van de houder verlengt Onze Minister van Verkeer en Waterstaat het bewijs van luchtwaardigheid voor een burgerluchtvaartuig, indien wordt voldaan aan de bij of krachtens [artikel 3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=3&titeldeel=3.2&paragraaf=3.2.1&artikel=3.13&z=2006-08-02&g=2006-08-02) gestelde eisen.
+2. Op aanvraag van de houder verlengt Onze Minister van Verkeer en Waterstaat het bewijs van luchtwaardigheid voor een burgerluchtvaartuig, indien wordt voldaan aan de bij of krachtens [artikel 3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=3&titeldeel=3.2&paragraaf=3.2.1&artikel=3.13&z=2006-11-29&g=2006-11-29) gestelde eisen.
 
 3. Het bewijs van luchtwaardigheid voor militaire luchtvaartuigen wordt afgegeven voor onbepaalde tijd.
 
@@ -602,7 +608,7 @@ Vervallen
 
 - a. een ernstig vermoeden rijst dat het betrokken luchtvaartuig niet lichtwaardig is;
 
-- b. het desbetreffende luchtvaartuig niet meer in het register, bedoeld in [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=3&titeldeel=3.1&artikel=3.3&z=2006-08-02&g=2006-08-02), is ingeschreven;
+- b. het desbetreffende luchtvaartuig niet meer in het register, bedoeld in [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=3&titeldeel=3.1&artikel=3.3&z=2006-11-29&g=2006-11-29), is ingeschreven;
 
 - c. de houder van het betrokken luchtvaartuig dat luchtvaartuig niet overeenkomstig bij of krachtens algemene maatregel van bestuur gestelde eisen onderhoudt of laat onderhouden, of
 
@@ -732,7 +738,7 @@ Bij ministeriële regeling kunnen met betrekking tot het model en de uitvoering 
 
 ##### Artikel 3.27
 
-1. Onze Minister van Verkeer en Waterstaat kan een erkenning geheel of gedeeltelijk schorsen, wanneer een ernstig vermoeden rijst, dat het betrokken bedrijf niet voldoet aan de eisen, gesteld krachtens [artikel 3.25](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=3&titeldeel=3.2&paragraaf=3.2.2&artikel=3.25&z=2006-08-02&g=2006-08-02).
+1. Onze Minister van Verkeer en Waterstaat kan een erkenning geheel of gedeeltelijk schorsen, wanneer een ernstig vermoeden rijst, dat het betrokken bedrijf niet voldoet aan de eisen, gesteld krachtens [artikel 3.25](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=3&titeldeel=3.2&paragraaf=3.2.2&artikel=3.25&z=2006-11-29&g=2006-11-29).
 
 2. Onze Minister van Verkeer en Waterstaat heft de schorsing op zodra de redenen van de schorsing zijn komen te vervallen.
 
@@ -740,7 +746,7 @@ Bij ministeriële regeling kunnen met betrekking tot het model en de uitvoering 
 
 - a. de houder daarom verzoekt;
 
-- b. het betrokken bedrijf niet voldoet aan de eisen, gesteld krachtens [artikel 3.25](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=3&titeldeel=3.2&paragraaf=3.2.2&artikel=3.25&z=2006-08-02&g=2006-08-02);
+- b. het betrokken bedrijf niet voldoet aan de eisen, gesteld krachtens [artikel 3.25](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=3&titeldeel=3.2&paragraaf=3.2.2&artikel=3.25&z=2006-11-29&g=2006-11-29);
 
 - c. de houder krachtens de hem verleende erkenning werkzaamheden verricht, waartoe deze niet erkend is;
 
@@ -752,7 +758,7 @@ Bij ministeriële regeling kunnen met betrekking tot het model en de uitvoering 
 
 ##### Artikel 3.28
 
-Onze Minister van Verkeer en Waterstaat kan op grond van een internationale overeenkomst of een besluit van een volkenrechtelijke organisatie natuurlijke of rechtspersonen, die bedrijven voeren, welke op grond van eisen, welke gelijkwaardig zijn aan de krachtens [artikel 3.25](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=3&titeldeel=3.2&paragraaf=3.2.2&artikel=3.25&z=2006-08-02&g=2006-08-02) gestelde eisen,
+Onze Minister van Verkeer en Waterstaat kan op grond van een internationale overeenkomst of een besluit van een volkenrechtelijke organisatie natuurlijke of rechtspersonen, die bedrijven voeren, welke op grond van eisen, welke gelijkwaardig zijn aan de krachtens [artikel 3.25](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=3&titeldeel=3.2&paragraaf=3.2.2&artikel=3.25&z=2006-11-29&g=2006-11-29) gestelde eisen,
 
 - a. erkend zijn door de bevoegde autoriteit van een door hem bij ministeriële regeling aangewezen staat, of
 
@@ -772,7 +778,7 @@ Bij of krachtens algemene maatregel van bestuur worden nadere regels gegeven met
 
 - e. de vergoeding die de aanvrager is verschuldigd voor de kosten van de behandeling van zijn aanvraag om afgifte, verlenging, vernieuwing of wijziging van een erkenning;
 
-- f. de vergoeding die de aanvrager verschuldigd is voor het verlenen van toestemming tot het verrichten van werkzaamheden zonder erkenning als bedoeld in [artikel 3.25, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=3&titeldeel=3.2&paragraaf=3.2.2&artikel=3.25&z=2006-08-02&g=2006-08-02) en
+- f. de vergoeding die de aanvrager verschuldigd is voor het verlenen van toestemming tot het verrichten van werkzaamheden zonder erkenning als bedoeld in [artikel 3.25, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=3&titeldeel=3.2&paragraaf=3.2.2&artikel=3.25&z=2006-11-29&g=2006-11-29) en
 
 - g. het model en de uitvoering van de erkenningen.
 
@@ -786,9 +792,9 @@ Bij of krachtens algemene maatregel van bestuur worden nadere regels gegeven met
 
 - b. waarmee de houder in aanmerking komt om door een erkend onderhoudsbedrijf gemachtigd te worden om namens dat bedrijf werkzaamheden te mogen vrijgeven.
 
-De [artikelen 2.1, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=2&titeldeel=2.1&artikel=2.1&z=2006-08-02&g=2006-08-02), [2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=2&titeldeel=2.1&artikel=2.2&z=2006-08-02&g=2006-08-02), [2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=2&titeldeel=2.1&artikel=2.3&z=2006-08-02&g=2006-08-02) en [2.5 tot en met 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=2&titeldeel=2.1&artikel=2.5&z=2006-08-02&g=2006-08-02) zijn van overeenkomstige toepassing.
+De [artikelen 2.1, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=2&titeldeel=2.1&artikel=2.1&z=2006-11-29&g=2006-11-29), [2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=2&titeldeel=2.1&artikel=2.2&z=2006-11-29&g=2006-11-29), [2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=2&titeldeel=2.1&artikel=2.3&z=2006-11-29&g=2006-11-29) en [2.5 tot en met 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=2&titeldeel=2.1&artikel=2.5&z=2006-11-29&g=2006-11-29) zijn van overeenkomstige toepassing.
 
-2. Behoudens [artikel 3.25](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=3&titeldeel=3.2&paragraaf=3.2.2&artikel=3.25&z=2006-08-02&g=2006-08-02) is het verboden zonder toezicht onderhoud aan burgerluchtvaartuigen te verrichten indien het daarvoor geldige bewijs van bevoegdheid ontbreekt.
+2. Behoudens [artikel 3.25](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=3&titeldeel=3.2&paragraaf=3.2.2&artikel=3.25&z=2006-11-29&g=2006-11-29) is het verboden zonder toezicht onderhoud aan burgerluchtvaartuigen te verrichten indien het daarvoor geldige bewijs van bevoegdheid ontbreekt.
 
 ##### Artikel 3.31
 
@@ -800,7 +806,7 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels worden gegeven met
 
 ##### Artikel 5.1
 
-Het bepaalde bij of krachtens [de artikelen 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=5&titeldeel=5.1&artikel=5.3&z=2006-08-02&g=2006-08-02) tot en met [5.9](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=5&titeldeel=5.1&artikel=5.9&z=2006-08-02&g=2006-08-02) is van toepassing op:
+Het bepaalde bij of krachtens [de artikelen 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=5&titeldeel=5.1&artikel=5.3&z=2006-11-29&g=2006-11-29) tot en met [5.9](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=5&titeldeel=5.1&artikel=5.9&z=2006-11-29&g=2006-11-29) is van toepassing op:
 
 - a. deelnemers aan het luchtverkeer binnen het vluchtinformatiegebied Amsterdam, en
 
@@ -840,7 +846,7 @@ Het is verboden boven gebieden met aaneengesloten bebouwing of kunstwerken, indu
 
 - f. gedrag van het verkeer op een luchtvaartterrein.
 
-3. In het bepaalde ingevolge [dit artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=5&titeldeel=5.1&artikel=5.5&z=2006-08-02&g=2006-08-02) kan aan de LVNL de bevoegdheid worden gedelegeerd tot het geven van een ontheffing, vrijstelling of toestemming, mede met inachtneming van het veilige, ordelijke en vlotte verloop van het luchtverkeer.
+3. In het bepaalde ingevolge [dit artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=5&titeldeel=5.1&artikel=5.5&z=2006-11-29&g=2006-11-29) kan aan de LVNL de bevoegdheid worden gedelegeerd tot het geven van een ontheffing, vrijstelling of toestemming, mede met inachtneming van het veilige, ordelijke en vlotte verloop van het luchtverkeer.
 
 ##### Artikel 5.6
 
@@ -850,7 +856,7 @@ Het is verboden een vlucht uit te voeren zonder dat een gezagvoerder is aangewez
 
 1. De gezagvoerder bevindt zich aan boord van het luchtvaartuig.
 
-2. De gezagvoerder is, ongeacht of hij daadwerkelijk de stuurorganen bedient of niet, ervoor verantwoordelijk dat de uitvoering van de vlucht geschiedt in overeenstemming met de bij of krachtens deze wet gestelde regels. Van de regels bedoeld in [de eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=5&titeldeel=5.1&artikel=5.7&z=2006-08-02&g=2006-08-02) mag slechts worden afgeweken indien de omstandigheden dit in het belang van de veiligheid dringend noodzakelijk maken.
+2. De gezagvoerder is, ongeacht of hij daadwerkelijk de stuurorganen bedient of niet, ervoor verantwoordelijk dat de uitvoering van de vlucht geschiedt in overeenstemming met de bij of krachtens deze wet gestelde regels. Van de regels bedoeld in [de eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=5&titeldeel=5.1&artikel=5.7&z=2006-11-29&g=2006-11-29) mag slechts worden afgeweken indien de omstandigheden dit in het belang van de veiligheid dringend noodzakelijk maken.
 
 3. Het eerste lid is niet van toepassing op door Onze Minister van Verkeer en Waterstaat respectievelijk Onze Minister van Defensie bij ministeriële regeling aan te wijzen onbemande luchtvaartuigen.
 
@@ -860,7 +866,7 @@ Voor de aanvang van iedere vlucht, neemt de gezagvoerder kennis van alle gegeven
 
 ##### Artikel 5.9
 
-1. Voor de aanvang van iedere vlucht waaraan luchtverkeersleiding wordt gegeven wordt door of namens de gezagvoerder een vliegplan ingediend overeenkomstig de bij of krachtens de algemene maatregel van bestuur, bedoeld in [artikel 5.5, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=5&titeldeel=5.1&artikel=5.5&z=2006-08-02&g=2006-08-02), gestelde regels. Het vliegplan bevat de gegevens en inlichtingen omtrent de voorgenomen vlucht.
+1. Voor de aanvang van iedere vlucht waaraan luchtverkeersleiding wordt gegeven wordt door of namens de gezagvoerder een vliegplan ingediend overeenkomstig de bij of krachtens de algemene maatregel van bestuur, bedoeld in [artikel 5.5, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=5&titeldeel=5.1&artikel=5.5&z=2006-11-29&g=2006-11-29), gestelde regels. Het vliegplan bevat de gegevens en inlichtingen omtrent de voorgenomen vlucht.
 
 2. Alvorens een vlucht waaraan luchtverkeersleiding wordt gegeven aan te vangen, of een gedeelte daarvan uit te voeren moet een desbetreffende klaring zijn gevraagd en verkregen.
 
@@ -878,7 +884,7 @@ Voor de aanvang van iedere vlucht, neemt de gezagvoerder kennis van alle gegeven
 
 3. Op voordracht van Onze Minister van Verkeer en Waterstaat, gedaan in overeenstemming met Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, worden bij algemene maatregel van bestuur regels gesteld met betrekking tot het uitoefenen van het burgerluchtverkeer boven gebieden aangewezen overeenkomstig [artikel 1.2, tweede lid, onder b, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=1.2).
 
-4. Van de regelingen krachtens het eerste en tweede lid wordt mededeling gedaan via de luchtvaartpublicaties bedoeld in [artikel 5.23, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=5&titeldeel=5.3&paragraaf=5.3.2&artikel=5.23&z=2006-08-02&g=2006-08-02), en voor zover nodig via de luchtverkeersdienstverlening aan de betrokken gezagvoerder.
+4. Van de regelingen krachtens het eerste en tweede lid wordt mededeling gedaan via de luchtvaartpublicaties bedoeld in [artikel 5.23, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=5&titeldeel=5.3&paragraaf=5.3.2&artikel=5.23&z=2006-11-29&g=2006-11-29), en voor zover nodig via de luchtverkeersdienstverlening aan de betrokken gezagvoerder.
 
 5. Het is verboden aan het luchtverkeer deel te nemen in strijd met het bepaalde krachtens het eerste, tweede en derde lid van dit artikel.
 
@@ -916,9 +922,9 @@ Voor de aanvang van iedere vlucht, neemt de gezagvoerder kennis van alle gegeven
 
 ##### Artikel 5.14
 
-1. In afwijking van het bepaalde in [artikel 5.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.1&artikel=5.13&z=2006-08-02&g=2006-08-02), kunnen Onze Minister van Verkeer en Waterstaat en Onze Minister van Defensie:
+1. In afwijking van het bepaalde in [artikel 5.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.1&artikel=5.13&z=2006-11-29&g=2006-11-29), kunnen Onze Minister van Verkeer en Waterstaat en Onze Minister van Defensie:
 
-- a. met de Eurocontrol-organisatie overeenkomen dat deze, binnen bepaalde delen van het vluchtinformatiegebied Amsterdam of aan bepaald luchtverkeer, luchtverkeersdienstverlening geeft op voorwaarde dat daarbij vastgelegd wordt dat het bepaalde bij of krachtens [de artikelen 5.12](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.1&artikel=5.12&z=2006-08-02&g=2006-08-02), [5.15](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.1&artikel=5.15&z=2006-08-02&g=2006-08-02), [5.16](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.1&artikel=5.16&z=2006-08-02&g=2006-08-02) en [5.17a](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.1&artikel=5.17a&z=2006-08-02&g=2006-08-02) wordt nageleefd.
+- a. met de Eurocontrol-organisatie overeenkomen dat deze, binnen bepaalde delen van het vluchtinformatiegebied Amsterdam of aan bepaald luchtverkeer, luchtverkeersdienstverlening geeft op voorwaarde dat daarbij vastgelegd wordt dat het bepaalde bij of krachtens [de artikelen 5.12](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.1&artikel=5.12&z=2006-11-29&g=2006-11-29), [5.15](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.1&artikel=5.15&z=2006-11-29&g=2006-11-29), [5.16](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.1&artikel=5.16&z=2006-11-29&g=2006-11-29) en [5.17a](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.1&artikel=5.17a&z=2006-11-29&g=2006-11-29) wordt nageleefd.
 
 - b. delen van het vluchtinformatiegebied Amsterdam aanwijzen waarbinnen, na overleg met de bevoegde autoriteiten van een aangrenzende Staat, luchtverkeersdienstverlening wordt gegeven door een instantie van die Staat;
 
@@ -932,17 +938,17 @@ De instanties belast met luchtverkeersdienstverlening coördineren de uitvoering
 
 ##### Artikel 5.16
 
-1. Het is verboden luchtverkeersdienstverlening te geven zonder een daartoe door Onze Minister van Verkeer en Waterstaat afgegeven bewijs van bevoegdheid of bewijs van gelijkstelling en zonder daartoe verkregen opdracht van een in [artikel 5.13](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.1&artikel=5.13&z=2006-08-02&g=2006-08-02) of 5.14 aangewezen instantie. De artikelen 2.1, vierde en vijfde lid, en 2.2 tot en met 2.9 zijn van overeenkomstige toepassing, met dien verstande, dat:
+1. Het is verboden luchtverkeersdienstverlening te geven zonder een daartoe door Onze Minister van Verkeer en Waterstaat afgegeven bewijs van bevoegdheid of bewijs van gelijkstelling en zonder daartoe verkregen opdracht van een in [artikel 5.13](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.1&artikel=5.13&z=2006-11-29&g=2006-11-29) of 5.14 aangewezen instantie. De artikelen 2.1, vierde en vijfde lid, en 2.2 tot en met 2.9 zijn van overeenkomstige toepassing, met dien verstande, dat:
 
 - a. het bewijs van bevoegdheid geldig is voor de duur van de medische verklaring;
 
-- b. de zinsnede in [artikel 2.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=2&titeldeel=2.1&artikel=2.2&z=2006-08-02&g=2006-08-02), «aan een door Onze Minister van Verkeer en Waterstaat dan wel door de bevoegde autoriteit van een door hem aangewezen staat erkende, gekwalificeerde of geregistreerde opleidingsinstelling» niet van toepassing is;
+- b. de zinsnede in [artikel 2.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=2&titeldeel=2.1&artikel=2.2&z=2006-11-29&g=2006-11-29), «aan een door Onze Minister van Verkeer en Waterstaat dan wel door de bevoegde autoriteit van een door hem aangewezen staat erkende, gekwalificeerde of geregistreerde opleidingsinstelling» niet van toepassing is;
 
 - c. in artikel 2.2, vierde lid, in plaats van «het document waarop het bewijs van bevoegdheid en de bevoegdverklaringen worden weergegeven» wordt gelezen: het model en de uitvoering van het bewijs van bevoegdheid, en
 
 - d. artikel 2.3, vijfde lid, onderdeel f, wordt vervangen door: de vernieuwing van een bewijs van bevoegdheid.
 
-2. In afwijking van [artikel 2.3, zesde lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=2&titeldeel=2.1&artikel=2.3&z=2006-08-02&g=2006-08-02), stelt de LVB-organisatie de regels met betrekking tot de kennis, de bedrevenheid en de ervaring op, waaraan degene, die luchtverkeersdienstverlening geeft, dient te voldoen om zijn bewijs van bevoegdheid te behouden. De regels behoeven de goedkeuring van Onze Minister van Verkeer en Waterstaat.
+2. In afwijking van [artikel 2.3, zesde lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=2&titeldeel=2.1&artikel=2.3&z=2006-11-29&g=2006-11-29), stelt de LVB-organisatie de regels met betrekking tot de kennis, de bedrevenheid en de ervaring op, waaraan degene, die luchtverkeersdienstverlening geeft, dient te voldoen om zijn bewijs van bevoegdheid te behouden. De regels behoeven de goedkeuring van Onze Minister van Verkeer en Waterstaat.
 
 3. Bij algemene maatregel van bestuur kunnen onderdelen van luchtverkeersdienstverlening aangewezen worden, waarvoor geen bewijs van bevoegdheid vereist is.
 
@@ -950,13 +956,13 @@ De instanties belast met luchtverkeersdienstverlening coördineren de uitvoering
 
 1. Het is verboden een grondstation of een mobiel station in de luchtvaartmobiele band, waarvoor een machtiging is vereist als bedoeld in artikel 17 van de Wet op de Telecommunicatievoorzieningen, te bedienen, zonder een daartoe door Onze Minister van Verkeer en Waterstaat afgegeven bewijs van bevoegdheid of bewijs van gelijkstelling. De artikelen 2.1, vierde en vijfde lid, en 2.2 tot en met 2.9 zijn van overeenkomstige toepassing.
 
-2. Het eerste lid is onverminderd [artikel 1.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=1&artikel=1.2&z=2006-08-02&g=2006-08-02), eveneens van toepassing op het continentaal plat, bedoeld in [artikel 1 van de Mijnbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=1), voor zover dat buiten het vluchtinformatiegebied Amsterdam ligt.
+2. Het eerste lid is onverminderd [artikel 1.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=1&artikel=1.2&z=2006-11-29&g=2006-11-29), eveneens van toepassing op het continentaal plat, bedoeld in [artikel 1 van de Mijnbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=1), voor zover dat buiten het vluchtinformatiegebied Amsterdam ligt.
 
 ##### Artikel 5.17a
 
-1. Het is verboden luchtverkeersdienstverlening te geven dan wel een grondstation of een mobiel station als bedoeld in [artikel 5.17](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.1&artikel=5.17&z=2006-08-02&g=2006-08-02) te bedienen, terwijl degene, die luchtverkeersdienstverlening geeft dan wel een grondstation of een mobiel station bedient, verkeert onder zodanige invloed van een stof, waarvan hij weet of redelijkerwijze moet weten, dat het gebruik daarvan – al dan niet in combinatie met het gebruik van een andere stof – de vaardigheid voor het geven van luchtverkeersdienstverlening of het bedienen van een grondstation kan verminderen, dat hij niet in staat moet worden geacht zulks naar behoren te verrichten.
+1. Het is verboden luchtverkeersdienstverlening te geven dan wel een grondstation of een mobiel station als bedoeld in [artikel 5.17](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.1&artikel=5.17&z=2006-11-29&g=2006-11-29) te bedienen, terwijl degene, die luchtverkeersdienstverlening geeft dan wel een grondstation of een mobiel station bedient, verkeert onder zodanige invloed van een stof, waarvan hij weet of redelijkerwijze moet weten, dat het gebruik daarvan – al dan niet in combinatie met het gebruik van een andere stof – de vaardigheid voor het geven van luchtverkeersdienstverlening of het bedienen van een grondstation kan verminderen, dat hij niet in staat moet worden geacht zulks naar behoren te verrichten.
 
-2. [De artikelen 2.12, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=2&titeldeel=2.2&artikel=2.12&z=2006-08-02&g=2006-08-02), en [2.13](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=2&titeldeel=2.2&artikel=2.13&z=2006-08-02&g=2006-08-02) zijn van overeenkomstige toepassing.
+2. [De artikelen 2.12, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=2&titeldeel=2.2&artikel=2.12&z=2006-11-29&g=2006-11-29), en [2.13](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=2&titeldeel=2.2&artikel=2.13&z=2006-11-29&g=2006-11-29) zijn van overeenkomstige toepassing.
 
 ##### Artikel 5.18
 
@@ -988,9 +994,9 @@ Bij algemene maatregel van bestuur kan worden bepaald dat de beheerder van een b
 
 ##### Artikel 5.21
 
-1. De natuurlijke persoon of rechtspersoon die een luchtvaartuig te zijner beschikking heeft en [dit onder](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.2&artikel=5.21&z=2006-08-02&g=2006-08-02) zijn verantwoordelijkheid laat deelnemen aan het luchtverkeer, en daarbij gebruik maakt van een luchtverkeersdienst verstrekt door een in [artikel 5.13](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.1&artikel=5.13&z=2006-08-02&g=2006-08-02) of 5.14 bedoelde instantie, is aan deze instantie een vergoeding verschuldigd ter dekking van de kosten van de luchtverkeersbeveiliging, anders dan bedoeld in [artikel 5.20](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.2&artikel=5.20&z=2006-08-02&g=2006-08-02).
+1. De natuurlijke persoon of rechtspersoon die een luchtvaartuig te zijner beschikking heeft en [dit onder](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.2&artikel=5.21&z=2006-11-29&g=2006-11-29) zijn verantwoordelijkheid laat deelnemen aan het luchtverkeer, en daarbij gebruik maakt van een luchtverkeersdienst verstrekt door een in [artikel 5.13](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.1&artikel=5.13&z=2006-11-29&g=2006-11-29) of 5.14 bedoelde instantie, is aan deze instantie een vergoeding verschuldigd ter dekking van de kosten van de luchtverkeersbeveiliging, anders dan bedoeld in [artikel 5.20](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.2&artikel=5.20&z=2006-11-29&g=2006-11-29).
 
-2. De eigenaar van het luchtvaartuig, bedoeld in het eerste lid, is hoofdelijk aansprakelijk voor de vergoeding tenzij hij op eerste vordering de natuurlijk persoon of rechtspersoon aanwijst die het luchtvaartuig te zijner beschikking heeft en [dit onder](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.2&artikel=5.21&z=2006-08-02&g=2006-08-02) zijn verantwoordelijkheid laat deelnemen aan het luchtverkeer.
+2. De eigenaar van het luchtvaartuig, bedoeld in het eerste lid, is hoofdelijk aansprakelijk voor de vergoeding tenzij hij op eerste vordering de natuurlijk persoon of rechtspersoon aanwijst die het luchtvaartuig te zijner beschikking heeft en [dit onder](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.2&artikel=5.21&z=2006-11-29&g=2006-11-29) zijn verantwoordelijkheid laat deelnemen aan het luchtverkeer.
 
 3. De hoogte van de vergoeding wordt vastgesteld door het bestuur, onder goedkeuring door Onze Minister van Verkeer en Waterstaat, onderscheidenlijk Onze Minister van Defensie.
 
@@ -998,7 +1004,7 @@ Bij algemene maatregel van bestuur kan worden bepaald dat de beheerder van een b
 
 5. Van de hoogte van de vergoedingen wordt mededeling gedaan in de luchtvaartpublicaties.
 
-6. Het op grond van [het eerste lid van dit artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.2&artikel=5.21&z=2006-08-02&g=2006-08-02), ten behoeve van de LVNL, geïnde bedrag wordt afgedragen aan de LVNL.
+6. Het op grond van [het eerste lid van dit artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.2&artikel=5.21&z=2006-11-29&g=2006-11-29), ten behoeve van de LVNL, geïnde bedrag wordt afgedragen aan de LVNL.
 
 ## Titel 5.3. De luchtverkeersbeveiligings-organisatie
 
@@ -1014,7 +1020,7 @@ Er is een organisatie voor luchtverkeersdienstverlening. Hij heeft rechtspersoon
 
 1. De LVNL is, ter bevordering van een zo groot mogelijke veiligheid van het luchtverkeer in het vluchtinformatiegebied Amsterdam, belast met de volgende taken:
 
-- a. het geven van luchtverkeersdienstverlening overeenkomstig het bepaalde in [artikel 5.13](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.1&artikel=5.13&z=2006-08-02&g=2006-08-02);
+- a. het geven van luchtverkeersdienstverlening overeenkomstig het bepaalde in [artikel 5.13](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.1&artikel=5.13&z=2006-11-29&g=2006-11-29);
 
 - b. het definiëren, verwerven, installeren, beheren en instandhouden van technische installaties en systemen ten behoeve van luchtverkeersbeveiliging;
 
@@ -1022,7 +1028,7 @@ Er is een organisatie voor luchtverkeersdienstverlening. Hij heeft rechtspersoon
 
 - d. het verzorgen of doen verzorgen van opleidingen ten behoeve van luchtverkeersbeveiliging;
 
-- e. het doen van voorstellen aan Onze Minister van Verkeer en Waterstaat betreffende het tarief van de heffingen bedoeld in [de artikelen 5.20](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.2&artikel=5.20&z=2006-08-02&g=2006-08-02) en [5.21](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.2&artikel=5.21&z=2006-08-02&g=2006-08-02);
+- e. het doen van voorstellen aan Onze Minister van Verkeer en Waterstaat betreffende het tarief van de heffingen bedoeld in [de artikelen 5.20](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.2&artikel=5.20&z=2006-11-29&g=2006-11-29) en [5.21](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.2&artikel=5.21&z=2006-11-29&g=2006-11-29);
 
 - f. het adviseren van Onze Minister van Verkeer en Waterstaat alsmede Onze Minister van Defensie betreffende aangelegenheden op het gebied van de luchtverkeersbeveiliging;
 
@@ -1102,9 +1108,9 @@ De raad van toezicht bestaat uit zes leden, waaronder de voorzitter, alsmede een
 
 3. Besluiten van het bestuur betreffende de volgende onderwerpen behoeven voorafgaande instemming van de raad van toezicht:
 
-- a. de reglementen bedoeld in [de artikelen 5.34](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=5&titeldeel=5.3&paragraaf=5.3.4&artikel=5.34&z=2006-08-02&g=2006-08-02), [5.36](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=5&titeldeel=5.3&paragraaf=5.3.5&artikel=5.36&z=2006-08-02&g=2006-08-02), [5.37](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=5&titeldeel=5.3&paragraaf=5.3.6&artikel=5.37&z=2006-08-02&g=2006-08-02) en [5.39](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=5&titeldeel=5.3&paragraaf=5.3.7&artikel=5.39&z=2006-08-02&g=2006-08-02);
+- a. de reglementen bedoeld in [de artikelen 5.34](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=5&titeldeel=5.3&paragraaf=5.3.4&artikel=5.34&z=2006-11-29&g=2006-11-29), [5.36](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=5&titeldeel=5.3&paragraaf=5.3.5&artikel=5.36&z=2006-11-29&g=2006-11-29), [5.37](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=5&titeldeel=5.3&paragraaf=5.3.6&artikel=5.37&z=2006-11-29&g=2006-11-29) en [5.39](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=5&titeldeel=5.3&paragraaf=5.3.7&artikel=5.39&z=2006-11-29&g=2006-11-29);
 
-- b. het voorstel aan Onze Minister van Verkeer en Waterstaat terzake van de tarieven bedoeld in [de artikelen 5.20](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.2&artikel=5.20&z=2006-08-02&g=2006-08-02) en [5.21](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.2&artikel=5.21&z=2006-08-02&g=2006-08-02);
+- b. het voorstel aan Onze Minister van Verkeer en Waterstaat terzake van de tarieven bedoeld in [de artikelen 5.20](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.2&artikel=5.20&z=2006-11-29&g=2006-11-29) en [5.21](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.2&artikel=5.21&z=2006-11-29&g=2006-11-29);
 
 - c. investeringen die een door de raad van toezicht vast te stellen bedrag te boven gaan;
 
@@ -1200,11 +1206,11 @@ Het bestuur van de LVNL voert op bij reglement vast te stellen wijze overleg met
 
 De geldmiddelen van de LVNL bestaan uit:
 
-- a. de opbrengst van de in [artikel 5.20](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.2&artikel=5.20&z=2006-08-02&g=2006-08-02) en 5.21 bedoelde vergoedingen;
+- a. de opbrengst van de in [artikel 5.20](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.2&artikel=5.20&z=2006-11-29&g=2006-11-29) en 5.21 bedoelde vergoedingen;
 
-- b. uit compensatie, indien en voorzover verleend door het Rijk, voor tekorten ontstaan door de bij de in [artikel 5.20, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.2&artikel=5.20&z=2006-08-02&g=2006-08-02) van deze wet bedoelde algemene maatregel van bestuur verleende vrijstelling van de heffingenplicht voor vluchten en voor de exploitatietekorten op de regionale velden die ontstaan indien Onze Minister van Verkeer en Waterstaat tarieven goedkeurt op een lager dan kostendekkend niveau;
+- b. uit compensatie, indien en voorzover verleend door het Rijk, voor tekorten ontstaan door de bij de in [artikel 5.20, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.2&artikel=5.20&z=2006-11-29&g=2006-11-29) van deze wet bedoelde algemene maatregel van bestuur verleende vrijstelling van de heffingenplicht voor vluchten en voor de exploitatietekorten op de regionale velden die ontstaan indien Onze Minister van Verkeer en Waterstaat tarieven goedkeurt op een lager dan kostendekkend niveau;
 
-- c. de opbrengst van de vergoedingen voor verleende diensten waarvan de kosten niet reeds de basis vormen voor de vergoedingen bedoeld in [de artikelen 5.20](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.2&artikel=5.20&z=2006-08-02&g=2006-08-02) en [5.21](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.2&artikel=5.21&z=2006-08-02&g=2006-08-02);
+- c. de opbrengst van de vergoedingen voor verleende diensten waarvan de kosten niet reeds de basis vormen voor de vergoedingen bedoeld in [de artikelen 5.20](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.2&artikel=5.20&z=2006-11-29&g=2006-11-29) en [5.21](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.2&artikel=5.21&z=2006-11-29&g=2006-11-29);
 
 - d. andere baten hoe ook genoemd.
 
@@ -1242,7 +1248,7 @@ Het bestuur stelt bij reglement de werkwijze vast voor het financiële beheer en
 
 - d. de verklaring van de door de raad van toezicht aangewezen externe registeraccountant; en
 
-- e. een document, houdende de instemming bedoeld in [artikel 5.32, derde lid onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=5&titeldeel=5.3&paragraaf=5.3.3&artikel=5.32&z=2006-08-02&g=2006-08-02).
+- e. een document, houdende de instemming bedoeld in [artikel 5.32, derde lid onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=5&titeldeel=5.3&paragraaf=5.3.3&artikel=5.32&z=2006-11-29&g=2006-11-29).
 
 ##### Artikel 5.42
 
@@ -1276,7 +1282,7 @@ Het bestuur stelt bij reglement de werkwijze vast voor het financiële beheer en
 
 ##### Artikel 5.44
 
-Waar in deze wet de goedkeuring van Onze Minister van Verkeer en Waterstaat is vereist, verleent dan wel onthoudt hij die, behoudens het bepaalde in [artikel 5.43, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=5&titeldeel=5.3&paragraaf=5.3.8&artikel=5.43&z=2006-08-02&g=2006-08-02), binnen twaalf weken na de datum van ontvangst van de goed te keuren stukken. Indien Onze Minister van Verkeer en Waterstaat goedkeuring onthoudt aan de financiële begroting, is het bestuur gerechtigd voor iedere maand gedurende welke de goedkeuring wordt onthouden, uitgaven te doen ter grootte van maximaal een twaalfde deel van de begroting van het voorafgaande boekjaar.
+Waar in deze wet de goedkeuring van Onze Minister van Verkeer en Waterstaat is vereist, verleent dan wel onthoudt hij die, behoudens het bepaalde in [artikel 5.43, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=5&titeldeel=5.3&paragraaf=5.3.8&artikel=5.43&z=2006-11-29&g=2006-11-29), binnen twaalf weken na de datum van ontvangst van de goed te keuren stukken. Indien Onze Minister van Verkeer en Waterstaat goedkeuring onthoudt aan de financiële begroting, is het bestuur gerechtigd voor iedere maand gedurende welke de goedkeuring wordt onthouden, uitgaven te doen ter grootte van maximaal een twaalfde deel van de begroting van het voorafgaande boekjaar.
 
 ##### Artikel 5.45
 
@@ -1298,7 +1304,7 @@ Onze Minister van Verkeer en Waterstaat zendt binnen vijf jaar na inwerkingtredi
 
 ##### Artikel 9.2
 
-1. Onverminderd de [artikelen 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=7), en [8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=8) kunnen, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, de [artikelen 9.3](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=9&artikel=9.3&z=2006-08-02&g=2006-08-02), [9.4](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=9&artikel=9.4&z=2006-08-02&g=2006-08-02) en [9.5](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=9&artikel=9.5&z=2006-08-02&g=2006-08-02) gezamenlijk of afzonderlijk in werking worden gesteld.
+1. Onverminderd de [artikelen 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=7), en [8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=8) kunnen, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, de [artikelen 9.3](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=9&artikel=9.3&z=2006-11-29&g=2006-11-29), [9.4](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=9&artikel=9.4&z=2006-11-29&g=2006-11-29) en [9.5](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=9&artikel=9.5&z=2006-11-29&g=2006-11-29) gezamenlijk of afzonderlijk in werking worden gesteld.
 
 2. Wanneer het in het eerste lid bedoelde besluit is genomen wordt onverwijld een voorstel van wet aan de Tweede Kamer gezonden omtrent het voortduren van de werking van de bij dat besluit in werking gestelde bepalingen.
 
@@ -1324,15 +1330,15 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 9.6
 
-1. Onze Minister kan aan de LVNL een naar billijkheid te bepalen vergoeding toekennen ter zake van buitengewone kosten door de LVNL gemaakt vanwege de naleving van de aanwijzing gegeven krachtens [artikel 9.3](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=9&artikel=9.3&z=2006-08-02&g=2006-08-02).
+1. Onze Minister kan aan de LVNL een naar billijkheid te bepalen vergoeding toekennen ter zake van buitengewone kosten door de LVNL gemaakt vanwege de naleving van de aanwijzing gegeven krachtens [artikel 9.3](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=9&artikel=9.3&z=2006-11-29&g=2006-11-29).
 
-2. Onze Minister van Defensie kan aan de LVNL een naar billijkheid te bepalen vergoeding toekennen ter zake van buitengewone kosten door de LVNL gemaakt vanwege de naleving van de aanwijzing gegeven krachtens [artikel 9.4](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=9&artikel=9.4&z=2006-08-02&g=2006-08-02).
+2. Onze Minister van Defensie kan aan de LVNL een naar billijkheid te bepalen vergoeding toekennen ter zake van buitengewone kosten door de LVNL gemaakt vanwege de naleving van de aanwijzing gegeven krachtens [artikel 9.4](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=9&artikel=9.4&z=2006-11-29&g=2006-11-29).
 
 ### HOOFDSTUK 10. MILITAIRE LUCHTVAART
 
 ##### Artikel 10.1
 
-1. Behoudens titel 2.2 is [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=2&z=2006-08-02&g=2006-08-02) niet van toepassing op het bedienen van militaire luchtvaartuigen.
+1. Behoudens titel 2.2 is [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=2&z=2006-11-29&g=2006-11-29) niet van toepassing op het bedienen van militaire luchtvaartuigen.
 
 2. Militaire luchtvaartuigen worden bediend door cockpitpersoneel, dat voldoet aan bij of krachtens algemene maatregel van bestuur gestelde eisen inzake theoretische en praktische bekwaamheid en geestelijke en lichamelijke geschiktheid.
 
@@ -1346,13 +1352,13 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 10.2
 
-1. [Artikel 5.16](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.1&artikel=5.16&z=2006-08-02&g=2006-08-02) is niet van toepassing op luchtverkeersdienstverleningspersoneel van de krijgsmacht. Dit personeel voldoet aan bij of krachtens algemene maatregel van bestuur gestelde eisen inzake theoretische en praktische bekwaamheid en geestelijke en lichamelijke geschiktheid.
+1. [Artikel 5.16](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.1&artikel=5.16&z=2006-11-29&g=2006-11-29) is niet van toepassing op luchtverkeersdienstverleningspersoneel van de krijgsmacht. Dit personeel voldoet aan bij of krachtens algemene maatregel van bestuur gestelde eisen inzake theoretische en praktische bekwaamheid en geestelijke en lichamelijke geschiktheid.
 
-2. [Artikel 10.1, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=10&artikel=10.1&z=2006-08-02&g=2006-08-02), zijn van overeenkomstige toepassing.
+2. [Artikel 10.1, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=10&artikel=10.1&z=2006-11-29&g=2006-11-29), zijn van overeenkomstige toepassing.
 
 ##### Artikel 10.3
 
-Onze Minister van Defensie kan voor militaire luchtvaartuigen toestaan, dat van het nationaliteitskenmerk en het inschrijvingskenmerk bedoeld in [artikel 3.2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=3&titeldeel=3.1&artikel=3.2&z=2006-08-02&g=2006-08-02), wordt afgeweken.
+Onze Minister van Defensie kan voor militaire luchtvaartuigen toestaan, dat van het nationaliteitskenmerk en het inschrijvingskenmerk bedoeld in [artikel 3.2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=3&titeldeel=3.1&artikel=3.2&z=2006-11-29&g=2006-11-29), wordt afgeweken.
 
 ##### Artikel 10.4
 
@@ -1360,19 +1366,19 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 10.5
 
-[Hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=4&z=2006-08-02&g=2006-08-02) is niet van toepassing op de vluchtuitvoering met militaire luchtvaartuigen alsmede op de vluchtuitvoering ten behoeve van militaire doeleinden.
+[Hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=4&z=2006-11-29&g=2006-11-29) is niet van toepassing op de vluchtuitvoering met militaire luchtvaartuigen alsmede op de vluchtuitvoering ten behoeve van militaire doeleinden.
 
 ### Hoofdstuk 11. Toezicht-, opsporings- en strafbepalingen
 
 ##### Artikel 11.1
 
-1. Met het toezicht op de naleving van het bij of krachtens deze wet bepaalde, met uitzondering van de [artikelen 8.25d tot en met 8.25h](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=8&titeldeel=8.4&artikel=8.25d&z=2006-08-02&g=2006-08-02) zijn belast:
+1. Met het toezicht op de naleving van het bij of krachtens deze wet bepaalde, met uitzondering van de [artikelen 8.25d tot en met 8.25h](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=8&titeldeel=8.4&artikel=8.25d&z=2006-11-29&g=2006-11-29) zijn belast:
 
-- a. de in [artikel 141 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141) bedoelde ambtenaren, met dien verstande dat dit toezicht zich niet uitstrekt tot het bepaalde bij of krachtens [titel 6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=6&titeldeel=6.5&z=2006-08-02&g=2006-08-02) en de[artikelen 10.7](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=10&artikel=10.7&z=2006-08-02&g=2006-08-02) en [10.8](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=10&artikel=10.8&z=2006-08-02&g=2006-08-02);
+- a. de in [artikel 141 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141) bedoelde ambtenaren, met dien verstande dat dit toezicht zich niet uitstrekt tot het bepaalde bij of krachtens [titel 6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=6&titeldeel=6.5&z=2006-11-29&g=2006-11-29) en de[artikelen 10.7](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=10&artikel=10.7&z=2006-11-29&g=2006-11-29) en [10.8](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=10&artikel=10.8&z=2006-11-29&g=2006-11-29);
 
 - b. voor zover het betreft de burgerluchtvaart de hiertoe door Onze Minister van Verkeer en Waterstaat aangewezen ambtenaren; de aanwijzing kan inhouden, dat de betrokken ambtenaar slechts belast is met het toezicht op de naleving van een of enkele in die aanwijzing genoemde hoofdstukken of artikelen gesteld bij of krachtens deze wet;
 
-- c. voor zover het betreft het vervoer van gevaarlijke stoffen als bedoeld in [titel 6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=6&titeldeel=6.5&z=2006-08-02&g=2006-08-02) en de[artikelen 10.7](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=10&artikel=10.7&z=2006-08-02&g=2006-08-02) en [10.8](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=10&artikel=10.8&z=2006-08-02&g=2006-08-02), met luchtvaartuigen waarvan de krijgsmacht of de krijgsmacht van een andere mogendheid houder is, de hiertoe door Onze Minister van Defensie aangewezen ambtenaren; de aanwijzing kan inhouden dat de betrokken ambtenaar slechts belast is met het toezicht op de naleving van een of enkele in die aanwijzing genoemde artikelen gesteld bij of krachtens deze wet.
+- c. voor zover het betreft het vervoer van gevaarlijke stoffen als bedoeld in [titel 6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=6&titeldeel=6.5&z=2006-11-29&g=2006-11-29) en de[artikelen 10.7](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=10&artikel=10.7&z=2006-11-29&g=2006-11-29) en [10.8](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=10&artikel=10.8&z=2006-11-29&g=2006-11-29), met luchtvaartuigen waarvan de krijgsmacht of de krijgsmacht van een andere mogendheid houder is, de hiertoe door Onze Minister van Defensie aangewezen ambtenaren; de aanwijzing kan inhouden dat de betrokken ambtenaar slechts belast is met het toezicht op de naleving van een of enkele in die aanwijzing genoemde artikelen gesteld bij of krachtens deze wet.
 
 2. Onze Minister van Verkeer en Waterstaat kan met het oog op de coördinatie van het beleid ten aanzien van het toezicht algemene aanwijzingen geven aan de ambtenaren, bedoeld in het eerste lid, onderdeel a.
 
@@ -1390,7 +1396,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 11.2a
 
-1. Tot het toezicht op de naleving van de verplichtingen, voortvloeiend uit de erkenning, bedoeld in [artikel 3.25](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=3&titeldeel=3.2&paragraaf=3.2.2&artikel=3.25&z=2006-08-02&g=2006-08-02), behoort in ieder geval:
+1. Tot het toezicht op de naleving van de verplichtingen, voortvloeiend uit de erkenning, bedoeld in [artikel 3.25](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=3&titeldeel=3.2&paragraaf=3.2.2&artikel=3.25&z=2006-11-29&g=2006-11-29), behoort in ieder geval:
 
 - a. het periodiek onderzoeken van het erkende bedrijf;
 
@@ -1408,7 +1414,7 @@ De houder van een erkenning is verplicht aan voor het houden van het toezicht no
 
 2. De opsporingsambtenaren zijn bevoegd het verrichten van werkzaamheden aan boord van luchtvaartuigen of het bedienen of opstijgen van luchtvaartuigen in strijd met het bij of krachtens deze wet bepaalde te verbieden of te beletten en voor zover het een burgerluchtvaartuig betreft, het luchtvaartuig, waarmee de overtreding wordt begaan naar een door hen aangewezen plaats over te brengen of te doen overbrengen en aldaar in bewaring te stellen.
 
-3. De betrokken ambtenaar maakt van de inbewaringstelling proces-verbaal op, dat hij binnen vierentwintig uur zendt aan de officier van justitie van de rechtbank binnen het rechtsgebied waarvan de inbewaringstelling geschiedt. Een afschrift van het proces-verbaal wordt tegelijkertijd uitgereikt of toegezonden aan de gezagvoerder en aan de houder van het betrokken luchtvaartuig. [Artikel 11.7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=11&titeldeel=11.1&artikel=11.7&z=2006-08-02&g=2006-08-02), is ten aanzien van de gezagvoerder en de houder van overeenkomstige toepassing.
+3. De betrokken ambtenaar maakt van de inbewaringstelling proces-verbaal op, dat hij binnen vierentwintig uur zendt aan de officier van justitie van de rechtbank binnen het rechtsgebied waarvan de inbewaringstelling geschiedt. Een afschrift van het proces-verbaal wordt tegelijkertijd uitgereikt of toegezonden aan de gezagvoerder en aan de houder van het betrokken luchtvaartuig. [Artikel 11.7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=11&titeldeel=11.1&artikel=11.7&z=2006-11-29&g=2006-11-29), is ten aanzien van de gezagvoerder en de houder van overeenkomstige toepassing.
 
 4. De kosten verbonden aan de uitvoering van het tweede lid komen ten laste van de houder van het betrokken burgerluchtvaartuig en kunnen door Onze Minister van Verkeer en Waterstaat worden ingevorderd bij dwangbevel, dat op kosten van de houder bij deurwaardersexploit wordt betekend en ten uitvoer gelegd op de wijze bij het [Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827) ten aanzien van vonnissen en authentieke akten is voorgeschreven.
 
@@ -1420,9 +1426,9 @@ De houder van een erkenning is verplicht aan voor het houden van het toezicht no
 
 ##### Artikel 11.5
 
-1. Een opsporingsambtenaar kan het lid van het boordpersoneel van wie, uit het in [artikel 11.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=11&titeldeel=11.1&artikel=11.4&z=2006-08-02&g=2006-08-02), bedoelde onderzoek of op andere wijze, naar het oordeel van de opsporingsambtenaar gebleken is dat hij onder zodanige invloed van een stof, als bedoeld in [artikel 2.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=2&titeldeel=2.2&artikel=2.12&z=2006-08-02&g=2006-08-02), verkeert, dat hij onvoldoende in staat is zijn werkzaamheden behoorlijk te verrichten, een vliegverbod opleggen voor de tijd gedurende welke redelijkerwijs verwacht mag worden dat deze toestand zal voortduren, tot ten hoogste vierentwintig uren. De vorige volzin is van overeenkomstige toepassing op het lid van het boordpersoneel, dat aanstalten maakt zijn werkzaamheden te gaan verrichten.
+1. Een opsporingsambtenaar kan het lid van het boordpersoneel van wie, uit het in [artikel 11.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=11&titeldeel=11.1&artikel=11.4&z=2006-11-29&g=2006-11-29), bedoelde onderzoek of op andere wijze, naar het oordeel van de opsporingsambtenaar gebleken is dat hij onder zodanige invloed van een stof, als bedoeld in [artikel 2.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=2&titeldeel=2.2&artikel=2.12&z=2006-11-29&g=2006-11-29), verkeert, dat hij onvoldoende in staat is zijn werkzaamheden behoorlijk te verrichten, een vliegverbod opleggen voor de tijd gedurende welke redelijkerwijs verwacht mag worden dat deze toestand zal voortduren, tot ten hoogste vierentwintig uren. De vorige volzin is van overeenkomstige toepassing op het lid van het boordpersoneel, dat aanstalten maakt zijn werkzaamheden te gaan verrichten.
 
-2. In geval van verdenking van overtreding van [artikel 2.12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=2&titeldeel=2.2&artikel=2.12&z=2006-08-02&g=2006-08-02), kan een opsporingsambtenaar aan het betreffende lid van het boordpersoneel een vliegverbod opleggen tot ten hoogste vierentwintig uren.
+2. In geval van verdenking van overtreding van [artikel 2.12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=2&titeldeel=2.2&artikel=2.12&z=2006-11-29&g=2006-11-29), kan een opsporingsambtenaar aan het betreffende lid van het boordpersoneel een vliegverbod opleggen tot ten hoogste vierentwintig uren.
 
 3. De opsporingsambtenaar, die een verbod als bedoeld in het eerste of tweede lid oplegt, legt dit vast in een beschikking die het tijdstip van ingang en de duur van het verbod bevat.
 
@@ -1430,13 +1436,13 @@ De houder van een erkenning is verplicht aan voor het houden van het toezicht no
 
 ##### Artikel 11.6
 
-1. Bij verdenking dat een lid van het boordpersoneel werkzaamheden heeft verricht in strijd met [artikel 2.12, eerste of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=2&titeldeel=2.2&artikel=2.12&z=2006-08-02&g=2006-08-02), kan de opsporingsambtenaar hem bevelen zijn medewerking te verlenen aan een onderzoek als bedoeld in [artikel 2.12, derde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=2&titeldeel=2.2&artikel=2.12&z=2006-08-02&g=2006-08-02).
+1. Bij verdenking dat een lid van het boordpersoneel werkzaamheden heeft verricht in strijd met [artikel 2.12, eerste of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=2&titeldeel=2.2&artikel=2.12&z=2006-11-29&g=2006-11-29), kan de opsporingsambtenaar hem bevelen zijn medewerking te verlenen aan een onderzoek als bedoeld in [artikel 2.12, derde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=2&titeldeel=2.2&artikel=2.12&z=2006-11-29&g=2006-11-29).
 
 2. Het lid van het boordpersoneel aan wie het in het eerste lid bedoelde bevel is gegeven, is verplicht ademlucht te blazen in een voor het onderzoek bestemd apparaat en gevolg te geven aan alle door de opsporingsambtenaar ten dienste van het onderzoek gegeven aanwijzingen.
 
 3. De in het tweede lid genoemde verplichtingen gelden niet voor de verdachte van wie aannemelijk is, dat het verlenen van medewerking aan een ademonderzoek voor hem om bijzondere geneeskundige redenen onwenselijk is.
 
-4. In het geval, bedoeld in het derde lid, dan wel indien de medewerking van de verdachte niet heeft geleid tot een voltooid ademonderzoek, kan de opsporingsambtenaar de verdachte vragen of hij zijn toestemming geeft tot het verrichten van een onderzoek als bedoeld in [artikel 2.12, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=2&titeldeel=2.2&artikel=2.12&z=2006-08-02&g=2006-08-02). Gelijke bevoegdheid heeft de opsporingsambtenaar, indien het vermoeden bestaat dat de verdachte onder invloed van een andere in [artikel 2.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=2&titeldeel=2.2&artikel=2.12&z=2006-08-02&g=2006-08-02), bedoelde stof dan alcoholhoudende drank verkeert.
+4. In het geval, bedoeld in het derde lid, dan wel indien de medewerking van de verdachte niet heeft geleid tot een voltooid ademonderzoek, kan de opsporingsambtenaar de verdachte vragen of hij zijn toestemming geeft tot het verrichten van een onderzoek als bedoeld in [artikel 2.12, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=2&titeldeel=2.2&artikel=2.12&z=2006-11-29&g=2006-11-29). Gelijke bevoegdheid heeft de opsporingsambtenaar, indien het vermoeden bestaat dat de verdachte onder invloed van een andere in [artikel 2.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=2&titeldeel=2.2&artikel=2.12&z=2006-11-29&g=2006-11-29), bedoelde stof dan alcoholhoudende drank verkeert.
 
 5. Indien het lid van het boordpersoneel zijn op grond van het vierde lid gevraagde toestemming niet verleent, kan de officier van justitie, een hulpofficier van justitie of een van de daartoe bij regeling van Onze Minister van Justitie aangewezen ambtenaren van politie hem bevelen zich te onderwerpen aan een bloedonderzoek.
 
@@ -1444,7 +1450,7 @@ De houder van een erkenning is verplicht aan voor het houden van het toezicht no
 
 7. De in het zesde lid genoemde verplichtingen gelden niet voor de verdachte van wie aannemelijk is, dat afname van bloed bij hem om bijzondere geneeskundige redenen onwenselijk is.
 
-8. De krachtens het zevende lid vrijgestelde personen zijn verplicht mee te werken aan een door de officier van justitie, door een hulpofficier van justitie of door een van de daartoe bij regeling van Onze Minister van Justitie aangewezen ambtenaren van politie bevolen onderzoek teneinde op andere wijze dan door bloedonderzoek het gebruik van de in [artikel 2.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=2&titeldeel=2.2&artikel=2.12&z=2006-08-02&g=2006-08-02) bedoelde stoffen of het in 2.12, derde lid, onder **b** genoemde gehalte vast te stellen.
+8. De krachtens het zevende lid vrijgestelde personen zijn verplicht mee te werken aan een door de officier van justitie, door een hulpofficier van justitie of door een van de daartoe bij regeling van Onze Minister van Justitie aangewezen ambtenaren van politie bevolen onderzoek teneinde op andere wijze dan door bloedonderzoek het gebruik van de in [artikel 2.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=2&titeldeel=2.2&artikel=2.12&z=2006-11-29&g=2006-11-29) bedoelde stoffen of het in 2.12, derde lid, onder **b** genoemde gehalte vast te stellen.
 
 9. Indien de verdachte niet in staat is zijn wil kenbaar te maken, kan hem met toestemming van de officier van justitie, een hulpofficier van justitie of een van de daartoe bij regeling van Onze Minister van Justitie aangewezen opsporingsambtenaren, door een arts de in het zesde lid bedoelde hoeveelheid bloed worden afgenomen. Een onderzoek van het bloed vindt niet plaats dan nadat de verdachte in de gelegenheid is gesteld zijn toestemming daartoe te geven. Zo nodig kan hem overeenkomstig het bepaalde in het vijfde lid worden bevolen zijn medewerking te verlenen. De verdachte, aan wie een zodanig bevel is gegeven, is verplicht zijn medewerking te verlenen. Indien de verdachte weigert zijn medewerking te verlenen, wordt het bloedmonster vernietigd.
 
@@ -1454,15 +1460,15 @@ De houder van een erkenning is verplicht aan voor het houden van het toezicht no
 
 1. Op de eerste vordering van een opsporingsambtenaar is het lid van het boordpersoneel, tegen wie door een van die personen ter zake van overtreding van:
 
-- a. [artikel 2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=2&titeldeel=2.2&artikel=2.12&z=2006-08-02&g=2006-08-02), indien bij een onderzoek als bedoeld in het derde lid, onderdeel a respectievelijk onderdeel b, van dat artikel blijkt of bij gebreke van een dergelijk onderzoek een ernstig vermoeden bestaat dat het alcoholgehalte van het lid van het boordpersoneel hoger is dan tweehonderdzeventig microgram (270 µg) alcohol per liter uitgeademde lucht respectievelijk drievijfde milligram (0,6 mg) alcohol per milliliter bloed, of
+- a. [artikel 2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=2&titeldeel=2.2&artikel=2.12&z=2006-11-29&g=2006-11-29), indien bij een onderzoek als bedoeld in het derde lid, onderdeel a respectievelijk onderdeel b, van dat artikel blijkt of bij gebreke van een dergelijk onderzoek een ernstig vermoeden bestaat dat het alcoholgehalte van het lid van het boordpersoneel hoger is dan tweehonderdzeventig microgram (270 µg) alcohol per liter uitgeademde lucht respectievelijk drievijfde milligram (0,6 mg) alcohol per milliliter bloed, of
 
-- b. [artikel 11.6, tweede, zesde, achtste en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=11&titeldeel=11.1&artikel=11.6&z=2006-08-02&g=2006-08-02), proces-verbaal wordt opgemaakt,
+- b. [artikel 11.6, tweede, zesde, achtste en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=11&titeldeel=11.1&artikel=11.6&z=2006-11-29&g=2006-11-29), proces-verbaal wordt opgemaakt,
 
 verplicht tot afgifte van het hem afgegeven bewijs van bevoegdheid of bewijs van gelijkstelling.
 
 2. Het ingevorderde bewijs van bevoegdheid of bewijs van gelijkstelling wordt, tegelijk met het proces-verbaal, onverwijld opgezonden aan de betrokken officier van justitie. Deze is bevoegd het ingevorderde bewijs van bevoegdheid of bewijs van gelijkstelling onder zich te houden, totdat de rechterlijke uitspraak in kracht van gewijsde is gegaan of, indien bij die uitspraak het lid van het boordpersoneel de bevoegdheid een luchtvaartuig te bedienen is ontzegd, tot het tijdstip waarop die uitspraak, voor wat betreft de bijkomende straf der ontzegging voor tenuitvoerlegging vatbaar is geworden. In het laatste geval levert de ambtenaar, na het bovenbedoelde tijdstip, het bewijs van bevoegdheid of van gelijkstelling in bij Onze Minister van Verkeer en Waterstaat.
 
-3. Indien de officier van justitie binnen tien dagen na de dag van invordering niet gebruik maakt van de in het tweede lid bedoelde bevoegdheid, geeft hij het ingevorderde bewijs onverwijld terug aan de houder. Teruggave vindt eveneens plaats, indien ernstig rekening moet worden gehouden met de mogelijkheid, dat aan de houder in geval van veroordeling geen onvoorwaardelijke ontzegging van een bevoegdheid als bedoeld in [artikel 11.11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=11&titeldeel=11.1&artikel=11.11&z=2006-08-02&g=2006-08-02), zal worden opgelegd, dan wel geen onvoorwaardelijke ontzegging van langere duur dan de tijd gedurende welke het bewijs is ingevorderd of ingevorderd geweest, of indien het onderzoek van de zaak op de terechtzitting niet binnen zes maanden na de dag van invordering is aangevangen.
+3. Indien de officier van justitie binnen tien dagen na de dag van invordering niet gebruik maakt van de in het tweede lid bedoelde bevoegdheid, geeft hij het ingevorderde bewijs onverwijld terug aan de houder. Teruggave vindt eveneens plaats, indien ernstig rekening moet worden gehouden met de mogelijkheid, dat aan de houder in geval van veroordeling geen onvoorwaardelijke ontzegging van een bevoegdheid als bedoeld in [artikel 11.11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=11&titeldeel=11.1&artikel=11.11&z=2006-11-29&g=2006-11-29), zal worden opgelegd, dan wel geen onvoorwaardelijke ontzegging van langere duur dan de tijd gedurende welke het bewijs is ingevorderd of ingevorderd geweest, of indien het onderzoek van de zaak op de terechtzitting niet binnen zes maanden na de dag van invordering is aangevangen.
 
 4. De opsporingsambtenaar, die gebruik maakt van de in het eerste lid bedoelde bevoegdheid, en de officier van justitie, die gebruik maakt van de in het tweede lid bedoelde bevoegdheid, doen daarvan onverwijld mededeling aan Onze Minister van Verkeer en Waterstaat. Indien de officier van justitie het ingevorderde bewijs van bevoegdheid of bewijs van gelijkstelling aan de houder teruggeeft, doet hij daarvan op gelijke wijze mededeling.
 
@@ -1472,19 +1478,19 @@ verplicht tot afgifte van het hem afgegeven bewijs van bevoegdheid of bewijs van
 
 ##### Artikel 11.8
 
-1. Indien het proces-verbaal, bedoeld in [artikel 11.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=11&titeldeel=11.1&artikel=11.7&z=2006-08-02&g=2006-08-02), betreft een lid van het boordpersoneel als bedoeld in [artikel 10.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=10&artikel=10.1&z=2006-08-02&g=2006-08-02), stelt de opsporingsambtenaar onverwijld, voor de afloop van de in [artikel 11.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=11&titeldeel=11.1&artikel=11.5&z=2006-08-02&g=2006-08-02), bedoelde periode, de officier van justitie bij het gerecht, bedoeld in [hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=II), titel [I](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=I), [III](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=III) of [IV van de Wet militaire strafrechtspraak](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=IV) daarvan in kennis.
+1. Indien het proces-verbaal, bedoeld in [artikel 11.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=11&titeldeel=11.1&artikel=11.7&z=2006-11-29&g=2006-11-29), betreft een lid van het boordpersoneel als bedoeld in [artikel 10.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=10&artikel=10.1&z=2006-11-29&g=2006-11-29), stelt de opsporingsambtenaar onverwijld, voor de afloop van de in [artikel 11.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=11&titeldeel=11.1&artikel=11.5&z=2006-11-29&g=2006-11-29), bedoelde periode, de officier van justitie bij het gerecht, bedoeld in [hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=II), titel [I](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=I), [III](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=III) of [IV van de Wet militaire strafrechtspraak](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=IV) daarvan in kennis.
 
 2. De officier van justitie, bedoeld in het eerste lid, is bevoegd het betrokken lid van het boordpersoneel een vliegverbod op te leggen, totdat de rechterlijke uitspraak in kracht van gewijsde is gegaan of, indien bij die uitspraak het lid van het boordpersoneel de bevoegdheid een luchtvaartuig te bedienen is ontzegd, tot het tijdstip waarop die uitspraak, voor wat betreft de bijkomende straf der ontzegging voor tenuitvoerlegging vatbaar is geworden. De betrokken officier van justitie stelt hiervan onverwijld Onze Minister van Defensie in kennis.
 
-3. Indien de officier van justitie binnen tien dagen na de dag van invordering niet gebruik maakt van de in het tweede lid bedoelde bevoegdheid, heft hij het vliegverbod op. Opheffing vindt eveneens plaats, indien ernstig rekening moet worden gehouden met de mogelijkheid, dat aan de houder in geval van veroordeling geen onvoorwaardelijke ontzegging van een bevoegdheid, bedoeld in [artikel 11.11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=11&titeldeel=11.1&artikel=11.11&z=2006-08-02&g=2006-08-02), zal worden opgelegd, dan wel geen onvoorwaardelijke ontzegging van langere duur wordt opgelegd dan de tijd gedurende welke het vliegverbod geldt, of indien het onderzoek van de zaak op de terechtzitting niet binnen zes maanden na de dag van oplegging van het vliegverbod is aangevangen. De betrokken officier van justitie stelt hiervan onverwijld Onze Minister van Defensie in kennis.
+3. Indien de officier van justitie binnen tien dagen na de dag van invordering niet gebruik maakt van de in het tweede lid bedoelde bevoegdheid, heft hij het vliegverbod op. Opheffing vindt eveneens plaats, indien ernstig rekening moet worden gehouden met de mogelijkheid, dat aan de houder in geval van veroordeling geen onvoorwaardelijke ontzegging van een bevoegdheid, bedoeld in [artikel 11.11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=11&titeldeel=11.1&artikel=11.11&z=2006-11-29&g=2006-11-29), zal worden opgelegd, dan wel geen onvoorwaardelijke ontzegging van langere duur wordt opgelegd dan de tijd gedurende welke het vliegverbod geldt, of indien het onderzoek van de zaak op de terechtzitting niet binnen zes maanden na de dag van oplegging van het vliegverbod is aangevangen. De betrokken officier van justitie stelt hiervan onverwijld Onze Minister van Defensie in kennis.
 
 4. In geval van toepassing van het tweede lid kan iedere belanghebbende bij klaagschrift daartegen in beroep komen. Artikel 11.7, vijfde lid, is van overeenkomstige toepassing met dien verstande, dat het klaagschrift wordt ingediend bij de griffie van het gerecht in feitelijke aanleg, bedoeld in [hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=II), titel [I](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=I), [III](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=III) of [IV van de Wet militaire strafrechtspraak](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=IV) en de beschikking van de rechtbank eveneens onverwijld aan Onze Minister van Defensie wordt betekend.
 
-5. Ten aanzien van het vliegverbod, bedoeld in het tweede lid, is [artikel 11.5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=11&titeldeel=11.1&artikel=11.5&z=2006-08-02&g=2006-08-02), van overeenkomstige toepassing.
+5. Ten aanzien van het vliegverbod, bedoeld in het tweede lid, is [artikel 11.5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=11&titeldeel=11.1&artikel=11.5&z=2006-11-29&g=2006-11-29), van overeenkomstige toepassing.
 
 ##### Artikel 11.8a
 
-[De artikelen 11.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=11&titeldeel=11.1&artikel=11.4&z=2006-08-02&g=2006-08-02), [11.5, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=11&titeldeel=11.1&artikel=11.5&z=2006-08-02&g=2006-08-02), [11.6](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=11&titeldeel=11.1&artikel=11.6&z=2006-08-02&g=2006-08-02), [11.7](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=11&titeldeel=11.1&artikel=11.7&z=2006-08-02&g=2006-08-02) en [11.8](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=11&titeldeel=11.1&artikel=11.8&z=2006-08-02&g=2006-08-02) zijn van overeenkomstige toepassing op degene, die luchtverkeersdienstverlening geeft als bedoeld in [artikel 5.16](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.1&artikel=5.16&z=2006-08-02&g=2006-08-02) of 10.2 dan wel een grondstation of een mobiel station als bedoeld in [artikel 5.17](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.1&artikel=5.17&z=2006-08-02&g=2006-08-02) bedient, met dien verstande, dat voor de toepassing van [artikel 11.5](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=11&titeldeel=11.1&artikel=11.5&z=2006-08-02&g=2006-08-02) in plaats van het opleggen van een vliegverbod treedt het verbieden van het geven van luchtverkeersdienstverlening of het gebruiken van een grondstation als bedoeld in [artikel 5.17](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.1&artikel=5.17&z=2006-08-02&g=2006-08-02).
+[De artikelen 11.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=11&titeldeel=11.1&artikel=11.4&z=2006-11-29&g=2006-11-29), [11.5, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=11&titeldeel=11.1&artikel=11.5&z=2006-11-29&g=2006-11-29), [11.6](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=11&titeldeel=11.1&artikel=11.6&z=2006-11-29&g=2006-11-29), [11.7](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=11&titeldeel=11.1&artikel=11.7&z=2006-11-29&g=2006-11-29) en [11.8](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=11&titeldeel=11.1&artikel=11.8&z=2006-11-29&g=2006-11-29) zijn van overeenkomstige toepassing op degene, die luchtverkeersdienstverlening geeft als bedoeld in [artikel 5.16](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.1&artikel=5.16&z=2006-11-29&g=2006-11-29) of 10.2 dan wel een grondstation of een mobiel station als bedoeld in [artikel 5.17](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.1&artikel=5.17&z=2006-11-29&g=2006-11-29) bedient, met dien verstande, dat voor de toepassing van [artikel 11.5](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=11&titeldeel=11.1&artikel=11.5&z=2006-11-29&g=2006-11-29) in plaats van het opleggen van een vliegverbod treedt het verbieden van het geven van luchtverkeersdienstverlening of het gebruiken van een grondstation als bedoeld in [artikel 5.17](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.1&artikel=5.17&z=2006-11-29&g=2006-11-29).
 
 ##### Artikel 11.9
 
@@ -1492,31 +1498,31 @@ verplicht tot afgifte van het hem afgegeven bewijs van bevoegdheid of bewijs van
 
 - a. handelt in strijd met de artikelen
 
-- 1°. [1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=1&artikel=1.3&z=2006-08-02&g=2006-08-02);
+- 1°. [1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=1&artikel=1.3&z=2006-11-29&g=2006-11-29);
 
-- 2°. [2.1, eerste, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=2&titeldeel=2.1&artikel=2.1&z=2006-08-02&g=2006-08-02), [2.3, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=2&titeldeel=2.1&artikel=2.3&z=2006-08-02&g=2006-08-02), [2.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=2&titeldeel=2.1&artikel=2.5&z=2006-08-02&g=2006-08-02), [2.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=2&titeldeel=2.1&artikel=2.6&z=2006-08-02&g=2006-08-02), [2.10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=2&titeldeel=2.1&artikel=2.10&z=2006-08-02&g=2006-08-02), [2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=2&titeldeel=2.2&artikel=2.11&z=2006-08-02&g=2006-08-02);
+- 2°. [2.1, eerste, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=2&titeldeel=2.1&artikel=2.1&z=2006-11-29&g=2006-11-29), [2.3, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=2&titeldeel=2.1&artikel=2.3&z=2006-11-29&g=2006-11-29), [2.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=2&titeldeel=2.1&artikel=2.5&z=2006-11-29&g=2006-11-29), [2.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=2&titeldeel=2.1&artikel=2.6&z=2006-11-29&g=2006-11-29), [2.10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=2&titeldeel=2.1&artikel=2.10&z=2006-11-29&g=2006-11-29), [2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=2&titeldeel=2.2&artikel=2.11&z=2006-11-29&g=2006-11-29);
 
-- 3°. [3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=3&titeldeel=3.1&artikel=3.1&z=2006-08-02&g=2006-08-02), [3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=3&titeldeel=3.1&artikel=3.2&z=2006-08-02&g=2006-08-02), [3.5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=3&titeldeel=3.1&artikel=3.5&z=2006-08-02&g=2006-08-02), [3.8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=3&titeldeel=3.2&paragraaf=3.2.1&artikel=3.8&z=2006-08-02&g=2006-08-02), [3.16, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=3&titeldeel=3.2&paragraaf=3.2.1&artikel=3.16&z=2006-08-02&g=2006-08-02), [3.19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=3&titeldeel=3.2&paragraaf=3.2.1&artikel=3.19&z=2006-08-02&g=2006-08-02), [3.19a, eerste en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=3&titeldeel=3.2&paragraaf=3.2.1&artikel=3.19a&z=2006-08-02&g=2006-08-02), [3.19c, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=3&titeldeel=3.2&paragraaf=3.2.1&artikel=3.19c&z=2006-08-02&g=2006-08-02), [3.19e, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=3&titeldeel=3.2&paragraaf=3.2.1&artikel=3.19e&z=2006-08-02&g=2006-08-02), [3.19f, vijfde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=3&titeldeel=3.2&paragraaf=3.2.1&artikel=3.19f&z=2006-08-02&g=2006-08-02), [3.22, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=3&titeldeel=3.2&paragraaf=3.2.1&artikel=3.22&z=2006-08-02&g=2006-08-02), [3.25, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=3&titeldeel=3.2&paragraaf=3.2.2&artikel=3.25&z=2006-08-02&g=2006-08-02), [3.30, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=3&titeldeel=3.2&paragraaf=3.2.3&artikel=3.30&z=2006-08-02&g=2006-08-02);
+- 3°. [3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=3&titeldeel=3.1&artikel=3.1&z=2006-11-29&g=2006-11-29), [3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=3&titeldeel=3.1&artikel=3.2&z=2006-11-29&g=2006-11-29), [3.5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=3&titeldeel=3.1&artikel=3.5&z=2006-11-29&g=2006-11-29), [3.8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=3&titeldeel=3.2&paragraaf=3.2.1&artikel=3.8&z=2006-11-29&g=2006-11-29), [3.16, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=3&titeldeel=3.2&paragraaf=3.2.1&artikel=3.16&z=2006-11-29&g=2006-11-29), [3.19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=3&titeldeel=3.2&paragraaf=3.2.1&artikel=3.19&z=2006-11-29&g=2006-11-29), [3.19a, eerste en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=3&titeldeel=3.2&paragraaf=3.2.1&artikel=3.19a&z=2006-11-29&g=2006-11-29), [3.19c, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=3&titeldeel=3.2&paragraaf=3.2.1&artikel=3.19c&z=2006-11-29&g=2006-11-29), [3.19e, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=3&titeldeel=3.2&paragraaf=3.2.1&artikel=3.19e&z=2006-11-29&g=2006-11-29), [3.19f, vijfde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=3&titeldeel=3.2&paragraaf=3.2.1&artikel=3.19f&z=2006-11-29&g=2006-11-29), [3.22, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=3&titeldeel=3.2&paragraaf=3.2.1&artikel=3.22&z=2006-11-29&g=2006-11-29), [3.25, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=3&titeldeel=3.2&paragraaf=3.2.2&artikel=3.25&z=2006-11-29&g=2006-11-29), [3.30, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=3&titeldeel=3.2&paragraaf=3.2.3&artikel=3.30&z=2006-11-29&g=2006-11-29);
 
-- 4°. [4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=4&artikel=4.8&z=2006-08-02&g=2006-08-02);
+- 4°. [4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=4&artikel=4.8&z=2006-11-29&g=2006-11-29);
 
-- 5°. [5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=5&titeldeel=5.1&artikel=5.2&z=2006-08-02&g=2006-08-02), [5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=5&titeldeel=5.1&artikel=5.3&z=2006-08-02&g=2006-08-02), [5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=5&titeldeel=5.1&artikel=5.4&z=2006-08-02&g=2006-08-02), [5.6 tot en met 5.9](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=5&titeldeel=5.1&artikel=5.6&z=2006-08-02&g=2006-08-02), [5.10, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=5&titeldeel=5.1&artikel=5.10&z=2006-08-02&g=2006-08-02), [5.16](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.1&artikel=5.16&z=2006-08-02&g=2006-08-02), [5.17](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.1&artikel=5.17&z=2006-08-02&g=2006-08-02);
+- 5°. [5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=5&titeldeel=5.1&artikel=5.2&z=2006-11-29&g=2006-11-29), [5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=5&titeldeel=5.1&artikel=5.3&z=2006-11-29&g=2006-11-29), [5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=5&titeldeel=5.1&artikel=5.4&z=2006-11-29&g=2006-11-29), [5.6 tot en met 5.9](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=5&titeldeel=5.1&artikel=5.6&z=2006-11-29&g=2006-11-29), [5.10, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=5&titeldeel=5.1&artikel=5.10&z=2006-11-29&g=2006-11-29), [5.16](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.1&artikel=5.16&z=2006-11-29&g=2006-11-29), [5.17](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.1&artikel=5.17&z=2006-11-29&g=2006-11-29);
 
-- 6°. [6.59](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=6&titeldeel=6.5&artikel=6.59&z=2006-08-02&g=2006-08-02);
+- 6°. [6.59](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=6&titeldeel=6.5&artikel=6.59&z=2006-11-29&g=2006-11-29);
 
-- 7°. 7.4, eerste en tweede lid;
+- 7°. [7.4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=7&titeldeel=7.3&artikel=7.4&z=2006-11-29&g=2006-11-29);
 
-- 10°. [10.1, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=10&artikel=10.1&z=2006-08-02&g=2006-08-02), [10.2](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=10&artikel=10.2&z=2006-08-02&g=2006-08-02);
+- 10°. [10.1, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=10&artikel=10.1&z=2006-11-29&g=2006-11-29), [10.2](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=10&artikel=10.2&z=2006-11-29&g=2006-11-29);
 
-- 11°. [11.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=11&titeldeel=11.1&artikel=11.2a&z=2006-08-02&g=2006-08-02), [11.4](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=11&titeldeel=11.1&artikel=11.4&z=2006-08-02&g=2006-08-02), [11.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=11&titeldeel=11.1&artikel=11.7&z=2006-08-02&g=2006-08-02), en [11.8a](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=11&titeldeel=11.1&artikel=11.8a&z=2006-08-02&g=2006-08-02) voor zover het betreft de[artikelen 11.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=11&titeldeel=11.1&artikel=11.4&z=2006-08-02&g=2006-08-02), en [11.7](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=11&titeldeel=11.1&artikel=11.7&z=2006-08-02&g=2006-08-02);
+- 11°. [11.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=11&titeldeel=11.1&artikel=11.2a&z=2006-11-29&g=2006-11-29), [11.4](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=11&titeldeel=11.1&artikel=11.4&z=2006-11-29&g=2006-11-29), [11.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=11&titeldeel=11.1&artikel=11.7&z=2006-11-29&g=2006-11-29), en [11.8a](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=11&titeldeel=11.1&artikel=11.8a&z=2006-11-29&g=2006-11-29) voor zover het betreft de[artikelen 11.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=11&titeldeel=11.1&artikel=11.4&z=2006-11-29&g=2006-11-29), en [11.7](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=11&titeldeel=11.1&artikel=11.7&z=2006-11-29&g=2006-11-29);
 
 - b. handelt in strijd met het bepaalde krachtens de artikelen
 
-- 1°. [2.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=2&titeldeel=2.1&artikel=2.1&z=2006-08-02&g=2006-08-02), [2.3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=2&titeldeel=2.1&artikel=2.3&z=2006-08-02&g=2006-08-02);
+- 1°. [2.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=2&titeldeel=2.1&artikel=2.1&z=2006-11-29&g=2006-11-29), [2.3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=2&titeldeel=2.1&artikel=2.3&z=2006-11-29&g=2006-11-29);
 
-- 3°. [3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=3&titeldeel=3.1&artikel=3.7&z=2006-08-02&g=2006-08-02),[3.23](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=3&titeldeel=3.2&paragraaf=3.2.1&artikel=3.23&z=2006-08-02&g=2006-08-02), [3.31](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=3&titeldeel=3.2&paragraaf=3.2.3&artikel=3.31&z=2006-08-02&g=2006-08-02);
+- 3°. [3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=3&titeldeel=3.1&artikel=3.7&z=2006-11-29&g=2006-11-29),[3.23](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=3&titeldeel=3.2&paragraaf=3.2.1&artikel=3.23&z=2006-11-29&g=2006-11-29), [3.31](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=3&titeldeel=3.2&paragraaf=3.2.3&artikel=3.31&z=2006-11-29&g=2006-11-29);
 
-- 5°. [5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=5&titeldeel=5.1&artikel=5.5&z=2006-08-02&g=2006-08-02), [5.11](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=5&titeldeel=5.1&artikel=5.11&z=2006-08-02&g=2006-08-02) en [5.12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.1&artikel=5.12&z=2006-08-02&g=2006-08-02).
+- 5°. [5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=5&titeldeel=5.1&artikel=5.5&z=2006-11-29&g=2006-11-29), [5.11](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=5&titeldeel=5.1&artikel=5.11&z=2006-11-29&g=2006-11-29) en [5.12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.1&artikel=5.12&z=2006-11-29&g=2006-11-29).
 
 2. De in het eerste lid van dit artikel strafbaar gestelde feiten zijn overtredingen.
 
@@ -1526,21 +1532,21 @@ verplicht tot afgifte van het hem afgegeven bewijs van bevoegdheid of bewijs van
 
 1. Met een gevangenisstraf van ten hoogste een jaar of een geldboete van ten hoogste de vierde categorie wordt gestraft degene, die handelt in strijd met de artikelen
 
-- a. [1.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=1&artikel=1.2a&z=2006-08-02&g=2006-08-02);
+- a. [1.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=1&artikel=1.2a&z=2006-11-29&g=2006-11-29);
 
-- b. [2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=2&titeldeel=2.2&artikel=2.12&z=2006-08-02&g=2006-08-02);
+- b. [2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=2&titeldeel=2.2&artikel=2.12&z=2006-11-29&g=2006-11-29);
 
-- c. [3.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=3&titeldeel=3.2&paragraaf=3.2.1&artikel=3.8&z=2006-08-02&g=2006-08-02), [3.13, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=3&titeldeel=3.2&paragraaf=3.2.1&artikel=3.13&z=2006-08-02&g=2006-08-02);
+- c. [3.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=3&titeldeel=3.2&paragraaf=3.2.1&artikel=3.8&z=2006-11-29&g=2006-11-29), [3.13, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=3&titeldeel=3.2&paragraaf=3.2.1&artikel=3.13&z=2006-11-29&g=2006-11-29);
 
-- d. [5.17a](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.1&artikel=5.17a&z=2006-08-02&g=2006-08-02);
+- d. [5.17a](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.1&artikel=5.17a&z=2006-11-29&g=2006-11-29);
 
-- k. [11.5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=11&titeldeel=11.1&artikel=11.5&z=2006-08-02&g=2006-08-02), [11.6, tweede, zesde, achtste en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=11&titeldeel=11.1&artikel=11.6&z=2006-08-02&g=2006-08-02), [11.8, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=11&titeldeel=11.1&artikel=11.8&z=2006-08-02&g=2006-08-02), [11.8a](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=11&titeldeel=11.1&artikel=11.8&z=2006-08-02&g=2006-08-02) voor zover het betreft de [artikelen 11.5](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=11&titeldeel=11.1&artikel=11.5&z=2006-08-02&g=2006-08-02), [11.6](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=11&titeldeel=11.1&artikel=11.6&z=2006-08-02&g=2006-08-02) en [11.8](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=11&titeldeel=11.1&artikel=11.8&z=2006-08-02&g=2006-08-02), [11.12](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=11&titeldeel=11.1&artikel=11.12&z=2006-08-02&g=2006-08-02) en [11.14](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=11&titeldeel=11.1&artikel=11.14&z=2006-08-02&g=2006-08-02).
+- k. [11.5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=11&titeldeel=11.1&artikel=11.5&z=2006-11-29&g=2006-11-29), [11.6, tweede, zesde, achtste en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=11&titeldeel=11.1&artikel=11.6&z=2006-11-29&g=2006-11-29), [11.8, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=11&titeldeel=11.1&artikel=11.8&z=2006-11-29&g=2006-11-29), [11.8a](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=11&titeldeel=11.1&artikel=11.8&z=2006-11-29&g=2006-11-29) voor zover het betreft de [artikelen 11.5](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=11&titeldeel=11.1&artikel=11.5&z=2006-11-29&g=2006-11-29), [11.6](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=11&titeldeel=11.1&artikel=11.6&z=2006-11-29&g=2006-11-29) en [11.8](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=11&titeldeel=11.1&artikel=11.8&z=2006-11-29&g=2006-11-29), [11.12](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=11&titeldeel=11.1&artikel=11.12&z=2006-11-29&g=2006-11-29) en [11.14](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=11&titeldeel=11.1&artikel=11.14&z=2006-11-29&g=2006-11-29).
 
 2. De in het eerste lid strafbaar gestelde feiten zijn misdrijven.
 
 ##### Artikel 11.11
 
-1. Bij veroordeling wegens overtreding van een der in [artikel 11.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=11&titeldeel=11.1&artikel=11.9&z=2006-08-02&g=2006-08-02), strafbaar gestelde feiten kan de bevoegdheid
+1. Bij veroordeling wegens overtreding van een der in [artikel 11.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=11&titeldeel=11.1&artikel=11.9&z=2006-11-29&g=2006-11-29), strafbaar gestelde feiten kan de bevoegdheid
 
 - a. aan boord van een luchtvaartuig werkzaamheden te verrichten als lid van het boordpersoneel,
 
@@ -1550,25 +1556,25 @@ verplicht tot afgifte van het hem afgegeven bewijs van bevoegdheid of bewijs van
 
 voor ten hoogste drie jaren worden ontzegd.
 
-2. Bij veroordeling wegens overtreding van een der in [artikel 11.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=11&titeldeel=11.1&artikel=11.10&z=2006-08-02&g=2006-08-02), strafbaar gestelde feiten kan een bevoegdheid als bedoeld in het eerste lid voor ten hoogste zes jaren worden ontzegd.
+2. Bij veroordeling wegens overtreding van een der in [artikel 11.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=11&titeldeel=11.1&artikel=11.10&z=2006-11-29&g=2006-11-29), strafbaar gestelde feiten kan een bevoegdheid als bedoeld in het eerste lid voor ten hoogste zes jaren worden ontzegd.
 
-3. Indien tijdens het plegen van een der strafbare feiten, genoemd in [artikel 11.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=11&titeldeel=11.1&artikel=11.9&z=2006-08-02&g=2006-08-02), of bij of krachtens algemene maatregel van bestuur aangewezen, nog geen drie jaren zijn verlopen na het einde van de tijdsduur waarvoor bij een vroegere onherroepelijke veroordeling wegens een van die strafbare feiten of wegens een der in [artikel 11.10](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=11&titeldeel=11.1&artikel=11.10&z=2006-08-02&g=2006-08-02) bedoelde strafbare feiten de betrokkene een bevoegdheid als bedoeld in het eerste lid is ontzegd, kan hem die bevoegdheid voor ten hoogste zes jaren worden ontzegd.
+3. Indien tijdens het plegen van een der strafbare feiten, genoemd in [artikel 11.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=11&titeldeel=11.1&artikel=11.9&z=2006-11-29&g=2006-11-29), of bij of krachtens algemene maatregel van bestuur aangewezen, nog geen drie jaren zijn verlopen na het einde van de tijdsduur waarvoor bij een vroegere onherroepelijke veroordeling wegens een van die strafbare feiten of wegens een der in [artikel 11.10](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=11&titeldeel=11.1&artikel=11.10&z=2006-11-29&g=2006-11-29) bedoelde strafbare feiten de betrokkene een bevoegdheid als bedoeld in het eerste lid is ontzegd, kan hem die bevoegdheid voor ten hoogste zes jaren worden ontzegd.
 
-4. Indien tijdens het plegen van een der strafbare feiten, genoemd in [artikel 11.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=11&titeldeel=11.1&artikel=11.10&z=2006-08-02&g=2006-08-02), nog geen zes jaren zijn verlopen na het einde van de tijdsduur waarvoor bij een vroegere onherroepelijke veroordeling wegens een van die strafbare feiten de betrokkene een bevoegdheid als bedoeld in het eerste lid is ontzegd, kan hem die bevoegdheid voor ten hoogste twaalf jaren worden ontzegd.
+4. Indien tijdens het plegen van een der strafbare feiten, genoemd in [artikel 11.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=11&titeldeel=11.1&artikel=11.10&z=2006-11-29&g=2006-11-29), nog geen zes jaren zijn verlopen na het einde van de tijdsduur waarvoor bij een vroegere onherroepelijke veroordeling wegens een van die strafbare feiten de betrokkene een bevoegdheid als bedoeld in het eerste lid is ontzegd, kan hem die bevoegdheid voor ten hoogste twaalf jaren worden ontzegd.
 
 ##### Artikel 11.12
 
-1. Het is degene, die weet of redelijkerwijs moet weten, dat een hem afgegeven bewijs van bevoegdheid of een daarop aangetekende bevoegdverklaring krachtens [artikel 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=2&titeldeel=2.1&artikel=2.5&z=2006-08-02&g=2006-08-02) is geschorst, verboden gedurende de tijd van schorsing werkzaamheden te verrichten, waartoe het geschorste bewijs of de geschorste bevoegdverklaring de bevoegdheid gaf.
+1. Het is degene, die weet of redelijkerwijs moet weten, dat een hem afgegeven bewijs van bevoegdheid of een daarop aangetekende bevoegdverklaring krachtens [artikel 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=2&titeldeel=2.1&artikel=2.5&z=2006-11-29&g=2006-11-29) is geschorst, verboden gedurende de tijd van schorsing werkzaamheden te verrichten, waartoe het geschorste bewijs of de geschorste bevoegdverklaring de bevoegdheid gaf.
 
-2. Het is degene, die weet of redelijkerwijs moet weten, dat een hem afgegeven bewijs van bevoegdheid of bewijs van gelijkstelling krachtens [artikel 11.7](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=11&titeldeel=11.1&artikel=11.7&z=2006-08-02&g=2006-08-02) is ingevorderd, verboden gedurende de tijd, dat het bewijs is ingevorderd, werkzaamheden te verrichten, waartoe het geschorste bewijs of de geschorste bevoegdverklaring de bevoegdheid gaf.
+2. Het is degene, die weet of redelijkerwijs moet weten, dat een hem afgegeven bewijs van bevoegdheid of bewijs van gelijkstelling krachtens [artikel 11.7](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=11&titeldeel=11.1&artikel=11.7&z=2006-11-29&g=2006-11-29) is ingevorderd, verboden gedurende de tijd, dat het bewijs is ingevorderd, werkzaamheden te verrichten, waartoe het geschorste bewijs of de geschorste bevoegdverklaring de bevoegdheid gaf.
 
-3. Het is degene, die weet of redelijkerwijs moet weten, dat hem bij rechterlijke uitspraak de bevoegdheid tot het verrichten van werkzaamheden als bedoeld in [artikel 11.11](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=11&titeldeel=11.1&artikel=11.11&z=2006-08-02&g=2006-08-02) is ontzegd, verboden gedurende de tijd, dat hem die bevoegdheid is ontzegd, die werkzaamheden te verrichten.
+3. Het is degene, die weet of redelijkerwijs moet weten, dat hem bij rechterlijke uitspraak de bevoegdheid tot het verrichten van werkzaamheden als bedoeld in [artikel 11.11](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=11&titeldeel=11.1&artikel=11.11&z=2006-11-29&g=2006-11-29) is ontzegd, verboden gedurende de tijd, dat hem die bevoegdheid is ontzegd, die werkzaamheden te verrichten.
 
 ##### Artikel 11.13
 
-1. Bij de toepassing van [artikel 11.11](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=11&titeldeel=11.1&artikel=11.11&z=2006-08-02&g=2006-08-02) gaat de bijkomende straf in en verliest elk aan de veroordeelde ingevolge [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=2&titeldeel=2.1&artikel=2.2&z=2006-08-02&g=2006-08-02) afgegeven bewijs van bevoegdheid of ingevolge [artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=2&titeldeel=2.1&artikel=2.7&z=2006-08-02&g=2006-08-02) afgegeven bewijs van gelijkstelling zijn geldigheid voor de duur van de ontzegging, zodra de rechterlijke uitspraak voor wat genoemde bijkomende straf betreft, voor tenuitvoerlegging vatbaar is geworden. De uitspraak is, voor wat de bijkomende straf betreft, niet voor tenuitvoerlegging vatbaar, zolang de termijn, waarvoor hem bij een of meer andere rechterlijke uitspraken die bevoegdheid is ontzegd, nog niet verstreken zijn.
+1. Bij de toepassing van [artikel 11.11](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=11&titeldeel=11.1&artikel=11.11&z=2006-11-29&g=2006-11-29) gaat de bijkomende straf in en verliest elk aan de veroordeelde ingevolge [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=2&titeldeel=2.1&artikel=2.2&z=2006-11-29&g=2006-11-29) afgegeven bewijs van bevoegdheid of ingevolge [artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=2&titeldeel=2.1&artikel=2.7&z=2006-11-29&g=2006-11-29) afgegeven bewijs van gelijkstelling zijn geldigheid voor de duur van de ontzegging, zodra de rechterlijke uitspraak voor wat genoemde bijkomende straf betreft, voor tenuitvoerlegging vatbaar is geworden. De uitspraak is, voor wat de bijkomende straf betreft, niet voor tenuitvoerlegging vatbaar, zolang de termijn, waarvoor hem bij een of meer andere rechterlijke uitspraken die bevoegdheid is ontzegd, nog niet verstreken zijn.
 
-2. Bij de rechterlijke uitspraak kan worden bepaald, dat de tijd, gedurende welke het bewijs van bevoegdheid van de veroordeelde ingevolge [artikel 11.7](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=11&titeldeel=11.1&artikel=11.7&z=2006-08-02&g=2006-08-02) voor het tijdstip, waarop de uitspraak voor wat betreft de in [dit artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=11&titeldeel=11.1&artikel=11.13&z=2006-08-02&g=2006-08-02) genoemde bijkomende straf voor tenuitvoerlegging vatbaar is geworden, ingehouden is geweest, dan wel ingevolge [artikel 11.8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=11&titeldeel=11.1&artikel=11.8&z=2006-08-02&g=2006-08-02), een vliegverbod is opgelegd, op de duur van de in het eerste lid bedoelde bijkomende straf geheel of gedeeltelijk in mindering zal worden gebracht.
+2. Bij de rechterlijke uitspraak kan worden bepaald, dat de tijd, gedurende welke het bewijs van bevoegdheid van de veroordeelde ingevolge [artikel 11.7](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=11&titeldeel=11.1&artikel=11.7&z=2006-11-29&g=2006-11-29) voor het tijdstip, waarop de uitspraak voor wat betreft de in [dit artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=11&titeldeel=11.1&artikel=11.13&z=2006-11-29&g=2006-11-29) genoemde bijkomende straf voor tenuitvoerlegging vatbaar is geworden, ingehouden is geweest, dan wel ingevolge [artikel 11.8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=11&titeldeel=11.1&artikel=11.8&z=2006-11-29&g=2006-11-29), een vliegverbod is opgelegd, op de duur van de in het eerste lid bedoelde bijkomende straf geheel of gedeeltelijk in mindering zal worden gebracht.
 
 3. Voor wat betreft de in het eerste lid bedoelde bijkomende straf is [artikel 557, tweede lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=557) op rechterlijke uitspraken niet van toepassing.
 
@@ -1606,15 +1612,15 @@ De ambtenaren die op het moment van inwerkingtreding van titel 5.3 van deze wet 
 
 2. De in het eerste lid bedoelde vermogensbestanddelen gaan op de datum van inwerkingtreding van deze wet onder algemene titel over op de LVNL tegen een door Onze Minister van Verkeer en Waterstaat in overeenstemming met Onze Minister van Financiën te bepalen waarde.
 
-3. De in [het eerste lid van dit artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=12&artikel=12.5&z=2006-08-02&g=2006-08-02) bedoelde overgang van vermogensbestanddelen wordt aangemerkt als storting op geldleningen van de Staat aan de LVNL. De voorwaarden van de geldlening worden door Onze Minister van Verkeer en Waterstaat in overeenstemming met Onze Minister van Financiën vastgesteld, waarbij een door Onze Minister van Verkeer en Waterstaat in overeenstemming met onze Minister van Financiën te bepalen deel van het te lenen bedrag achtergesteld zal zijn bij alle andere verplichtingen van de LVNL.
+3. De in [het eerste lid van dit artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=12&artikel=12.5&z=2006-11-29&g=2006-11-29) bedoelde overgang van vermogensbestanddelen wordt aangemerkt als storting op geldleningen van de Staat aan de LVNL. De voorwaarden van de geldlening worden door Onze Minister van Verkeer en Waterstaat in overeenstemming met Onze Minister van Financiën vastgesteld, waarbij een door Onze Minister van Verkeer en Waterstaat in overeenstemming met onze Minister van Financiën te bepalen deel van het te lenen bedrag achtergesteld zal zijn bij alle andere verplichtingen van de LVNL.
 
-4. Ten aanzien van de in [het eerste lid van dit artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=12&artikel=12.5&z=2006-08-02&g=2006-08-02) bedoelde vermogensbestanddelen welke in openbare registers te boek zijn gesteld, zal verandering van de tenaamstelling in die registers plaatsvinden. De daartoe nodige opgaven worden door de zorg van Onze Minister van Financiën aan de bewaarders van de desbetreffende registers gedaan.
+4. Ten aanzien van de in [het eerste lid van dit artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=12&artikel=12.5&z=2006-11-29&g=2006-11-29) bedoelde vermogensbestanddelen welke in openbare registers te boek zijn gesteld, zal verandering van de tenaamstelling in die registers plaatsvinden. De daartoe nodige opgaven worden door de zorg van Onze Minister van Financiën aan de bewaarders van de desbetreffende registers gedaan.
 
 5. Ter zake van de verkrijging door de LVNL van de vermogensbestanddelen bedoeld in het eerste lid, blijft de heffing van overdrachtsbelasting achterwege.
 
 ##### Artikel 12.6
 
-In afwijking van het bepaalde in [artikel 5.31](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=5&titeldeel=5.3&paragraaf=5.3.3&artikel=5.31&z=2006-08-02&g=2006-08-02) benoemt Onze Minister van Verkeer en Waterstaat de leden van de raad van toezicht, bedoeld in [artikel 5.31, tweede lid onder a, b, c, en d](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=5&titeldeel=5.3&paragraaf=5.3.3&artikel=5.31&z=2006-08-02&g=2006-08-02) de eerste maal als volgt:
+In afwijking van het bepaalde in [artikel 5.31](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=5&titeldeel=5.3&paragraaf=5.3.3&artikel=5.31&z=2006-11-29&g=2006-11-29) benoemt Onze Minister van Verkeer en Waterstaat de leden van de raad van toezicht, bedoeld in [artikel 5.31, tweede lid onder a, b, c, en d](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=5&titeldeel=5.3&paragraaf=5.3.3&artikel=5.31&z=2006-11-29&g=2006-11-29) de eerste maal als volgt:
 
 - a. een lid wordt benoemd op voordracht van Onze Minister van Defensie;
 
@@ -1650,13 +1656,13 @@ In dit hoofdstuk wordt verstaan onder:
 
 - b. **luchthavenluchtverkeer**: het in onderdeel a, onderdeel 1°, bedoelde luchtverkeer;
 
-- c. **luchthavenindelingbesluit**: het besluit, bedoeld in [artikel 8.4](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=8&titeldeel=8.2&paragraaf=8.2.1&artikel=8.4&z=2006-08-02&g=2006-08-02);
+- c. **luchthavenindelingbesluit**: het besluit, bedoeld in [artikel 8.4](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=8&titeldeel=8.2&paragraaf=8.2.1&artikel=8.4&z=2006-11-29&g=2006-11-29);
 
-- d. **luchthavenverkeerbesluit**: het besluit, bedoeld in [artikel 8.15](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=8&titeldeel=8.3&paragraaf=8.3.1&artikel=8.15&z=2006-08-02&g=2006-08-02);
+- d. **luchthavenverkeerbesluit**: het besluit, bedoeld in [artikel 8.15](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=8&titeldeel=8.3&paragraaf=8.3.1&artikel=8.15&z=2006-11-29&g=2006-11-29);
 
 - e. **luchtverkeerweg**: een ten behoeve van geleiding van het luchthavenluchtverkeer afgebakend deel van het luchtruim;
 
-- f. **luchthavenexploitatievergunning**: de vergunning, bedoeld in [artikel 8.25](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=8&titeldeel=8.4&artikel=8.25&z=2006-08-02&g=2006-08-02);
+- f. **luchthavenexploitatievergunning**: de vergunning, bedoeld in [artikel 8.25](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=8&titeldeel=8.4&artikel=8.25&z=2006-11-29&g=2006-11-29);
 
 - g. **exploitant van de luchthaven**: de N.V. Luchthaven Schiphol, of, indien dit een ander is, de houder van de luchthavenexploitatievergunning;
 
@@ -1744,7 +1750,7 @@ Voor zover het ontwerp van een bestemmingsplan zijn grondslag vindt in de uitvoe
 
 ##### Artikel 8.11
 
-Voor de mogelijkheid van beroep ingevolge [hoofdstuk 8 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8) worden een verklaring van geen bezwaar als bedoeld in [artikel 8.9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=8&titeldeel=8.2&paragraaf=8.2.1&artikel=8.9&z=2006-08-02&g=2006-08-02), en het besluit waarop de verklaring betrekking heeft als één besluit aangemerkt.
+Voor de mogelijkheid van beroep ingevolge [hoofdstuk 8 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8) worden een verklaring van geen bezwaar als bedoeld in [artikel 8.9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=8&titeldeel=8.2&paragraaf=8.2.1&artikel=8.9&z=2006-11-29&g=2006-11-29), en het besluit waarop de verklaring betrekking heeft als één besluit aangemerkt.
 
 ##### Artikel 8.12
 
@@ -1998,7 +2004,7 @@ Het beheer van de bescheiden betreffende de werkzaamheden van de commissie wordt
 
 ##### Artikel 11.15
 
-1. Onze Minister van Verkeer en Waterstaat is bevoegd tot toepassing van bestuursdwang ter handhaving van de bij of krachtens deze wet gestelde verplichtingen, met uitzondering van verplichtingen als bedoeld in de [artikelen 8.25d tot en met 8.25h](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=8&titeldeel=8.4&artikel=8.25d&z=2006-08-02&g=2006-08-02).
+1. Onze Minister van Verkeer en Waterstaat is bevoegd tot toepassing van bestuursdwang ter handhaving van de bij of krachtens deze wet gestelde verplichtingen, met uitzondering van verplichtingen als bedoeld in de [artikelen 8.25d tot en met 8.25h](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=8&titeldeel=8.4&artikel=8.25d&z=2006-11-29&g=2006-11-29).
 
 2. Onze Minister van Verkeer en Waterstaat is bevoegd tot toepassing van bestuursdwang ter handhaving van overtreding door luchtvaartmaatschappijen van [Verordening (EG) nr. 261/2004](32004R0261) van het Europees Parlement en de Raad van de Europese Unie van 11 februari 2004 tot vaststelling van gemeenschappelijke regels inzake compensatie en bijstand aan luchtreizigers bij instapweigering en annulering of langdurige vertraging van vluchten en tot intrekking van [Verordening (EEG) nr. 259/91](31991R0259) (PbEU L 46).
 
@@ -2006,17 +2012,21 @@ Het beheer van de bescheiden betreffende de werkzaamheden van de commissie wordt
 
 1. Onze Minister van Verkeer en Waterstaat kan een bestuurlijke boete opleggen bij overtreding van:
 
-- a. artikel 8.12, 8.19, 8.20 of 8.21 of van een beperking of voorschrift als bedoeld in artikel 8.23;
+- a. [artikel 7.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=7&titeldeel=7.1&artikel=7.1&z=2006-11-29&g=2006-11-29);
 
-- b. een maatregel als bedoeld in artikel 8.22.
+- b. [artikel 8.12](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=8&titeldeel=8.2&paragraaf=8.2.1&artikel=8.12&z=2006-11-29&g=2006-11-29), [8.19](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=8&titeldeel=8.3&paragraaf=8.3.1&artikel=8.19&z=2006-11-29&g=2006-11-29), [8.20](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=8&titeldeel=8.3&paragraaf=8.3.1&artikel=8.20&z=2006-11-29&g=2006-11-29) of [8.21](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=8&titeldeel=8.3&paragraaf=8.3.1&artikel=8.21&z=2006-11-29&g=2006-11-29) of van een beperking of voorschrift als bedoeld in [artikel 8.23](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=8&titeldeel=8.3&paragraaf=8.3.1&artikel=8.23&z=2006-11-29&g=2006-11-29);
+
+- c. een maatregel als bedoeld in [artikel 8.22](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=8&titeldeel=8.3&paragraaf=8.3.1&artikel=8.22&z=2006-11-29&g=2006-11-29).
 
 2. Een boete en een last onder dwangsom kunnen tezamen worden opgelegd.
 
 3. De boete bedraagt ten hoogste:
 
-- a. 100 000 euro bij een overtreding als bedoeld in het eerste lid, onderdeel a;
+- a. 1 000 euro bij een overtreding als bedoeld in het eerste lid, onderdeel a;
 
-- b. 1 000 000 euro bij een overtreding als bedoeld in het eerste lid, onderdeel b.
+- b. 100 000 euro bij een overtreding als bedoeld in het eerste lid, onderdeel b;
+
+- c. 1 000 000 euro bij een overtreding als bedoeld in het eerste lid, onderdeel c.
 
 4. Een boete wordt niet opgelegd indien de natuurlijke persoon of rechtspersoon aan wie de overtreding kan worden toegerekend aannemelijk maakt dat hem van de overtreding geen verwijt kan worden gemaakt.
 
@@ -2074,7 +2084,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 6.50
 
-Deze titel is, met uitzondering van het bepaalde bij of krachtens de[artikelen 6.55](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=6&titeldeel=6.5&artikel=6.55&z=2006-08-02&g=2006-08-02), [6.56](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=6&titeldeel=6.5&artikel=6.56&z=2006-08-02&g=2006-08-02) en [6.57](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=6&titeldeel=6.5&artikel=6.57&z=2006-08-02&g=2006-08-02), niet van toepassing op het vervoer van splijtstoffen, ertsen of radioactieve stoffen als bedoeld in [artikel 1, eerste lid, van de Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=1).
+Deze titel is, met uitzondering van het bepaalde bij of krachtens de[artikelen 6.55](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=6&titeldeel=6.5&artikel=6.55&z=2006-11-29&g=2006-11-29), [6.56](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=6&titeldeel=6.5&artikel=6.56&z=2006-11-29&g=2006-11-29) en [6.57](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=6&titeldeel=6.5&artikel=6.57&z=2006-11-29&g=2006-11-29), niet van toepassing op het vervoer van splijtstoffen, ertsen of radioactieve stoffen als bedoeld in [artikel 1, eerste lid, van de Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=1).
 
 ##### Artikel 6.51
 
@@ -2092,7 +2102,7 @@ Deze titel is, met uitzondering van het bepaalde bij of krachtens de[artikelen 6
 
 ##### Artikel 6.53
 
-1. De regels, bedoeld in [artikel 6.51, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=6&titeldeel=6.5&artikel=6.51&z=2006-08-02&g=2006-08-02), kunnen onder meer betrekking hebben op:
+1. De regels, bedoeld in [artikel 6.51, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=6&titeldeel=6.5&artikel=6.51&z=2006-11-29&g=2006-11-29), kunnen onder meer betrekking hebben op:
 
 - a. de eisen ten aanzien van constructie, inrichting en uitrusting van luchtvaartuigen, waarmee gevaarlijke stoffen worden vervoerd;
 
@@ -2110,7 +2120,7 @@ Deze titel is, met uitzondering van het bepaalde bij of krachtens de[artikelen 6
 
 - h. de keuring van de inrichtingen, voertuigen of werktuigen, bedoeld in onderdeel g;
 
-- i. de melding voorafgaande aan het verrichten van een handeling, als bedoeld in [artikel 6.51](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=6&titeldeel=6.5&artikel=6.51&z=2006-08-02&g=2006-08-02);
+- i. de melding voorafgaande aan het verrichten van een handeling, als bedoeld in [artikel 6.51](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=6&titeldeel=6.5&artikel=6.51&z=2006-11-29&g=2006-11-29);
 
 - j. het opstellen van een risico-inventarisatie met betrekking tot het vervoeren, laden of lossen van door Onze Minister van Verkeer en Waterstaat daartoe aangewezen stoffen;
 
@@ -2152,7 +2162,7 @@ Hij heft de schorsing op zodra de redenen van de schorsing zijn komen te vervall
 
 - c. de houder krachtens de hem verleende erkenning werkzaamheden verricht, waartoe deze niet erkend is;
 
-- d. de houder handelt in strijd met de[artikelen 6.51, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=6&titeldeel=6.5&artikel=6.51&z=2006-08-02&g=2006-08-02), of [6.52](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=6&titeldeel=6.5&artikel=6.52&z=2006-08-02&g=2006-08-02);
+- d. de houder handelt in strijd met de[artikelen 6.51, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=6&titeldeel=6.5&artikel=6.51&z=2006-11-29&g=2006-11-29), of [6.52](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=6&titeldeel=6.5&artikel=6.52&z=2006-11-29&g=2006-11-29);
 
 - e. de erkenning gedurende ten minste drie maanden is geschorst;
 
@@ -2162,7 +2172,7 @@ Hij heft de schorsing op zodra de redenen van de schorsing zijn komen te vervall
 
 ##### Artikel 6.56
 
-1. Onze Minister van Verkeer en Waterstaat erkent een opleiding voor een theoretisch of praktisch examen als opleiding voor een theoretisch of praktisch examen benodigd ter verkrijging van een erkenning, als bedoeld in [artikel 6.55, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=6&titeldeel=6.5&artikel=6.55&z=2006-08-02&g=2006-08-02), indien die opleiding voldoet aan bij ministeriële regeling te stellen eisen.
+1. Onze Minister van Verkeer en Waterstaat erkent een opleiding voor een theoretisch of praktisch examen als opleiding voor een theoretisch of praktisch examen benodigd ter verkrijging van een erkenning, als bedoeld in [artikel 6.55, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=6&titeldeel=6.5&artikel=6.55&z=2006-11-29&g=2006-11-29), indien die opleiding voldoet aan bij ministeriële regeling te stellen eisen.
 
 2. Onze Minister van Verkeer en Waterstaat kan de erkenning van een opleiding intrekken, wanneer die opleiding niet meer aan de krachtens het eerste lid gestelde eisen voldoet.
 
@@ -2170,7 +2180,7 @@ Hij heft de schorsing op zodra de redenen van de schorsing zijn komen te vervall
 
 ##### Artikel 6.57
 
-Onze Minister van Verkeer en Waterstaat kan ter uitvoering van internationale overeenkomsten of besluiten van volkenrechtelijke organisaties natuurlijke personen of rechtspersonen, die handelingen als bedoeld in [artikel 6.55, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=6&titeldeel=6.5&artikel=6.55&z=2006-08-02&g=2006-08-02), verrichten op zodanige wijze, dat deze voldoen aan eisen, welke gelijkwaardig zijn aan de krachtens [artikel 6.55](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=6&titeldeel=6.5&artikel=6.55&z=2006-08-02&g=2006-08-02) gestelde eisen, erkennen als erkende bedrijven voor zover die bedrijven erkend zijn door de bevoegde autoriteit van een bij ministeriële regeling aangewezen land of internationale organisatie. Aan de erkenning kunnen voorschriften of beperkingen worden verbonden.
+Onze Minister van Verkeer en Waterstaat kan ter uitvoering van internationale overeenkomsten of besluiten van volkenrechtelijke organisaties natuurlijke personen of rechtspersonen, die handelingen als bedoeld in [artikel 6.55, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=6&titeldeel=6.5&artikel=6.55&z=2006-11-29&g=2006-11-29), verrichten op zodanige wijze, dat deze voldoen aan eisen, welke gelijkwaardig zijn aan de krachtens [artikel 6.55](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=6&titeldeel=6.5&artikel=6.55&z=2006-11-29&g=2006-11-29) gestelde eisen, erkennen als erkende bedrijven voor zover die bedrijven erkend zijn door de bevoegde autoriteit van een bij ministeriële regeling aangewezen land of internationale organisatie. Aan de erkenning kunnen voorschriften of beperkingen worden verbonden.
 
 ##### Artikel 6.58
 
@@ -2202,13 +2212,13 @@ Het is passagiers en leden van het boordpersoneel verboden gevaarlijke stoffen a
 
 ##### Artikel 6.60
 
-1. Degene, die een handeling als bedoeld in [artikel 6.51, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=6&titeldeel=6.5&artikel=6.51&z=2006-08-02&g=2006-08-02), verricht, is verplicht, indien zich daarbij voorvallen voordoen waardoor gevaar voor de openbare veiligheid is ontstaan of is te duchten, daarvan onverwijld mededeling te doen aan Onze Minister van Verkeer en Waterstaat respectievelijk Onze Minister van Defensie.
+1. Degene, die een handeling als bedoeld in [artikel 6.51, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=6&titeldeel=6.5&artikel=6.51&z=2006-11-29&g=2006-11-29), verricht, is verplicht, indien zich daarbij voorvallen gevaarlijke stoffen voordoen waardoor gevaar voor de openbare veiligheid is ontstaan of is te duchten, daarvan onverwijld mededeling te doen aan Onze Minister van Verkeer en Waterstaat respectievelijk Onze Minister van Defensie.
 
 2. Bij regeling van Onze Minister van Verkeer en Waterstaat respectievelijk Onze Minister van Defensie kunnen voorschriften worden gegeven omtrent de procedure en de wijze van mededeling als bedoeld in het eerste lid.
 
 ##### Artikel 6.61
 
-1. Onze Minister van Verkeer en Waterstaat respectievelijk Onze Minister van Defensie kan van degenen die handelingen verrichten als bedoeld in [artikel 6.51](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=6&titeldeel=6.5&artikel=6.51&z=2006-08-02&g=2006-08-02) , alle inlichtingen of documenten vragen die naar zijn redelijk oordeel nodig zijn ten behoeve van het analyseren van voorvallen als bedoeld in [artikel 6.60](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=6&titeldeel=6.5&artikel=6.60&z=2006-08-02&g=2006-08-02).
+1. Onze Minister van Verkeer en Waterstaat respectievelijk Onze Minister van Defensie kan van degenen die handelingen verrichten als bedoeld in [artikel 6.51](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=6&titeldeel=6.5&artikel=6.51&z=2006-11-29&g=2006-11-29) , alle inlichtingen of documenten vragen die naar zijn redelijk oordeel nodig zijn ten behoeve van het analyseren van voorvallen gevaarlijke stoffen als bedoeld in [artikel 6.60](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=6&titeldeel=6.5&artikel=6.60&z=2006-11-29&g=2006-11-29).
 
 2. De betrokkenen zijn verplicht de gevraagde inlichtingen volledig en naar waarheid te verstrekken binnen een door Onze Minister van Verkeer en Waterstaat respectievelijk Onze Minister van Defensie in redelijkheid te stellen termijn.
 
@@ -2238,9 +2248,9 @@ Het is passagiers en leden van het boordpersoneel verboden gevaarlijke stoffen a
 
 #### § 8.2.2. Het voorbereiden en wijzigen van het besluit
 
-## Titel 8.3. Het luchthavenluchtverkeer
+## Titel 7.2. Slotallocatie
 
-#### § 8.3.2. Het voorbereiden en wijzigen van het besluit
+#### § 8.2.1. Het luchthavenindelingbesluit
 
 ## Titel 8.4. De exploitatie van de luchthaven
 
@@ -2252,7 +2262,7 @@ Het is passagiers en leden van het boordpersoneel verboden gevaarlijke stoffen a
 
 #### § 8.5.3. Gegevensverstrekking, verslaglegging en openbaarmaking
 
-## Titel 8.6. Financiële aspecten
+## Titel 8.3. Het luchthavenluchtverkeer
 
 ## Titel 8.4. De exploitatie van de luchthaven
 
@@ -2262,25 +2272,25 @@ Het is passagiers en leden van het boordpersoneel verboden gevaarlijke stoffen a
 
 ##### Artikel 10.6
 
-1. [Titel 6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=6&titeldeel=6.5&z=2006-08-02&g=2006-08-02) is niet van toepassing op internationaal vervoer van gevaarlijke stoffen met luchtvaartuigen waarvan de krijgsmacht of de krijgsmacht van een andere mogendheid houder is.
+1. [Titel 6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=6&titeldeel=6.5&z=2006-11-29&g=2006-11-29) is niet van toepassing op internationaal vervoer van gevaarlijke stoffen met luchtvaartuigen waarvan de krijgsmacht of de krijgsmacht van een andere mogendheid houder is.
 
-2. [Titel 6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=6&titeldeel=6.5&z=2006-08-02&g=2006-08-02) is, met uitzondering van [artikel 6.54](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=6&titeldeel=6.5&artikel=6.54&z=2006-08-02&g=2006-08-02), niet van toepassing op nationaal vervoer van ontplofbare stoffen of voorwerpen met luchtvaartuigen waarvan de krijgsmacht of de krijgsmacht van een andere mogendheid houder is.
+2. [Titel 6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=6&titeldeel=6.5&z=2006-11-29&g=2006-11-29) is, met uitzondering van [artikel 6.54](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=6&titeldeel=6.5&artikel=6.54&z=2006-11-29&g=2006-11-29), niet van toepassing op nationaal vervoer van ontplofbare stoffen of voorwerpen met luchtvaartuigen waarvan de krijgsmacht of de krijgsmacht van een andere mogendheid houder is.
 
-3. [Artikel 6.51, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=6&titeldeel=6.5&artikel=6.51&z=2006-08-02&g=2006-08-02), geldt niet voor het nationale vervoer van de bij of krachtens algemene maatregel van bestuur aan te wijzen gevaarlijke stoffen, niet zijnde ontplofbare stoffen of voorwerpen, behorend tot de operationele uitrusting of het wapensysteem van een luchtvaartuig waarvan de krijgsmacht of de krijgsmacht van een andere mogendheid houder is, of behorend tot de uitrusting van personen die met een dergelijk luchtvaartuig worden vervoerd, indien aan de bij of krachtens die algemene maatregel van bestuur terzake gestelde regels is voldaan.
+3. [Artikel 6.51, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=6&titeldeel=6.5&artikel=6.51&z=2006-11-29&g=2006-11-29), geldt niet voor het nationale vervoer van de bij of krachtens algemene maatregel van bestuur aan te wijzen gevaarlijke stoffen, niet zijnde ontplofbare stoffen of voorwerpen, behorend tot de operationele uitrusting of het wapensysteem van een luchtvaartuig waarvan de krijgsmacht of de krijgsmacht van een andere mogendheid houder is, of behorend tot de uitrusting van personen die met een dergelijk luchtvaartuig worden vervoerd, indien aan de bij of krachtens die algemene maatregel van bestuur terzake gestelde regels is voldaan.
 
-4. [Artikel 6.55](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=6&titeldeel=6.5&artikel=6.55&z=2006-08-02&g=2006-08-02) is niet van toepassing op het door personeel van de krijgsmacht verrichten van de in dat artikel bedoelde handelingen ten aanzien van het nationaal vervoer van andere gevaarlijke stoffen dan ontplofbare stoffen of voorwerpen,met luchtvaartuigen waarvan de krijgsmacht of de krijgsmacht van een andere mogendheid houder is.
+4. [Artikel 6.55](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=6&titeldeel=6.5&artikel=6.55&z=2006-11-29&g=2006-11-29) is niet van toepassing op het door personeel van de krijgsmacht verrichten van de in dat artikel bedoelde handelingen ten aanzien van het nationaal vervoer van andere gevaarlijke stoffen dan ontplofbare stoffen of voorwerpen,met luchtvaartuigen waarvan de krijgsmacht of de krijgsmacht van een andere mogendheid houder is.
 
-5. De[artikelen 6.60](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=6&titeldeel=6.5&artikel=6.60&z=2006-08-02&g=2006-08-02), [6.61](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=6&titeldeel=6.5&artikel=6.61&z=2006-08-02&g=2006-08-02) en [6.61a](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=6&titeldeel=6.5&artikel=6.61a&z=2006-08-02&g=2006-08-02) zijn van overeenkomstige toepassing op het internationaal vervoer van gevaarlijke stoffen en het nationaal vervoer van ontplofbare stoffen en voorwerpen met luchtvaartuigen waarvan de krijgsmacht of de krijgsmacht van een andere mogendheid houder is met dien verstande dat:
+5. De[artikelen 6.60](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=6&titeldeel=6.5&artikel=6.60&z=2006-11-29&g=2006-11-29), [6.61](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=6&titeldeel=6.5&artikel=6.61&z=2006-11-29&g=2006-11-29) en [6.61a](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=6&titeldeel=6.5&artikel=6.61a&z=2006-11-29&g=2006-11-29) zijn van overeenkomstige toepassing op het internationaal vervoer van gevaarlijke stoffen en het nationaal vervoer van ontplofbare stoffen en voorwerpen met luchtvaartuigen waarvan de krijgsmacht of de krijgsmacht van een andere mogendheid houder is met dien verstande dat:
 
-- a. in [artikel 6.60, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=6&titeldeel=6.5&artikel=6.60&z=2006-08-02&g=2006-08-02), in plaats van «als bedoeld in [artikel 6.51, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=6&titeldeel=6.5&artikel=6.51&z=2006-08-02&g=2006-08-02),» wordt gelezen «als bedoeld in [artikel 10.7, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=10&artikel=10.7&z=2006-08-02&g=2006-08-02)»;
+- a. in [artikel 6.60, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=6&titeldeel=6.5&artikel=6.60&z=2006-11-29&g=2006-11-29), in plaats van «als bedoeld in [artikel 6.51, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=6&titeldeel=6.5&artikel=6.51&z=2006-11-29&g=2006-11-29),» wordt gelezen «als bedoeld in [artikel 10.7, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=10&artikel=10.7&z=2006-11-29&g=2006-11-29)»;
 
-- b. in [artikel 6.61, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=6&titeldeel=6.5&artikel=6.61&z=2006-08-02&g=2006-08-02), in plaats van «[artikel 6.51](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=6&titeldeel=6.5&artikel=6.51&z=2006-08-02&g=2006-08-02)» wordt gelezen [artikel 10.7, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=10&artikel=10.7&z=2006-08-02&g=2006-08-02).
+- b. in [artikel 6.61, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=6&titeldeel=6.5&artikel=6.61&z=2006-11-29&g=2006-11-29), in plaats van «[artikel 6.51](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=6&titeldeel=6.5&artikel=6.51&z=2006-11-29&g=2006-11-29)» wordt gelezen [artikel 10.7, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=10&artikel=10.7&z=2006-11-29&g=2006-11-29).
 
 ##### Artikel 10.7
 
-1. Bij of krachtens algemene maatregel van bestuur, gedaan op voordracht van Onze Minister van Defensie, worden regels gegeven inzake het internationaal vervoer van gevaarlijke stoffen met een luchtvaartuig waarvan de krijgsmacht of de krijgsmacht van een andere mogendheid houder is, het daartoe aanbieden of aannemen, alsmede het laden in of lossen uit een dergelijk luchtvaartuig of het tijdens het vervoer neerleggen van bedoelde stoffen. De [artikelen 6.51, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=6&titeldeel=6.5&artikel=6.51&z=2006-08-02&g=2006-08-02), en [6.52](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=6&titeldeel=6.5&artikel=6.52&z=2006-08-02&g=2006-08-02) zijn van overeenkomstige toepassing.
+1. Bij of krachtens algemene maatregel van bestuur, gedaan op voordracht van Onze Minister van Defensie, worden regels gegeven inzake het internationaal vervoer van gevaarlijke stoffen met een luchtvaartuig waarvan de krijgsmacht of de krijgsmacht van een andere mogendheid houder is, het daartoe aanbieden of aannemen, alsmede het laden in of lossen uit een dergelijk luchtvaartuig of het tijdens het vervoer neerleggen van bedoelde stoffen. De [artikelen 6.51, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=6&titeldeel=6.5&artikel=6.51&z=2006-11-29&g=2006-11-29), en [6.52](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=6&titeldeel=6.5&artikel=6.52&z=2006-11-29&g=2006-11-29) zijn van overeenkomstige toepassing.
 
-2. Bij of krachtens algemene maatregel van bestuur, gedaan op voordracht van Onze Minister van Defensie , worden regels gegeven inzake het nationaal vervoer van ontplofbare stoffen of voorwerpen met een luchtvaartuig waarvan de krijgsmacht of de krijgsmacht van een andere mogendheid houder is, het daartoe aanbieden of aannemen alsmede het laden in of lossen uit een dergelijk luchtvaartuig of het tijdens het vervoer neerleggen van bedoelde stoffen of voorwerpen. De [artikelen 6.51, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=6&titeldeel=6.5&artikel=6.51&z=2006-08-02&g=2006-08-02), en [6.52](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=6&titeldeel=6.5&artikel=6.52&z=2006-08-02&g=2006-08-02) zijn van overeenkomstige toepassing.
+2. Bij of krachtens algemene maatregel van bestuur, gedaan op voordracht van Onze Minister van Defensie , worden regels gegeven inzake het nationaal vervoer van ontplofbare stoffen of voorwerpen met een luchtvaartuig waarvan de krijgsmacht of de krijgsmacht van een andere mogendheid houder is, het daartoe aanbieden of aannemen alsmede het laden in of lossen uit een dergelijk luchtvaartuig of het tijdens het vervoer neerleggen van bedoelde stoffen of voorwerpen. De [artikelen 6.51, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=6&titeldeel=6.5&artikel=6.51&z=2006-11-29&g=2006-11-29), en [6.52](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=6&titeldeel=6.5&artikel=6.52&z=2006-11-29&g=2006-11-29) zijn van overeenkomstige toepassing.
 
 3. De bedoelde regels kunnen onder meer betrekking hebben op:
 
@@ -2308,13 +2318,13 @@ Het is passagiers en leden van het boordpersoneel verboden gevaarlijke stoffen a
 
 ##### Artikel 10.8
 
-1. Onze Minister van Defensie kan ontheffing verlenen van de krachtens [artikel 10.7](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=10&artikel=10.7&z=2006-08-02&g=2006-08-02) gegeven regels, wanneer de taakuitvoering met militaire luchtvaartuigen meebrengt, dat die regels in redelijkheid geen toepassing kunnen vinden en de veiligheid van het luchtverkeer met het verlenen van de ontheffing niet in gevaar komt. Aan de ontheffing kunnen voorschriften of beperkingen worden verbonden.
+1. Onze Minister van Defensie kan ontheffing verlenen van de krachtens [artikel 10.7](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=10&artikel=10.7&z=2006-11-29&g=2006-11-29) gegeven regels, wanneer de taakuitvoering met militaire luchtvaartuigen meebrengt, dat die regels in redelijkheid geen toepassing kunnen vinden en de veiligheid van het luchtverkeer met het verlenen van de ontheffing niet in gevaar komt. Aan de ontheffing kunnen voorschriften of beperkingen worden verbonden.
 
-2. Het[tweede tot en met het vijfde lid van artikel 6.58](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=6&titeldeel=6.5&artikel=6.58&z=2006-08-02&g=2006-08-02) zijn van overeenkomstige toepassing.
+2. Het[tweede tot en met het vijfde lid van artikel 6.58](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=6&titeldeel=6.5&artikel=6.58&z=2006-11-29&g=2006-11-29) zijn van overeenkomstige toepassing.
 
 ##### Artikel 10.9
 
-[Titel 6.6](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=6&titeldeel=6.6&z=2006-08-02&g=2006-08-02) is niet van toepassing op vervoer van dieren met luchtvaartuigen waarvan de krijgsmacht of de krijgsmacht van een andere mogendheid houder is.
+[Titel 6.6](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=6&titeldeel=6.6&z=2006-11-29&g=2006-11-29) is niet van toepassing op vervoer van dieren met luchtvaartuigen waarvan de krijgsmacht of de krijgsmacht van een andere mogendheid houder is.
 
 ### Hoofdstuk 11. Toezicht en handhaving
 
@@ -2344,7 +2354,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ## Titel 11.1. Toezicht en strafrechtelijke handhaving
 
-## Titel 11.2. Bestuursrechtelijke handhaving
+## Titel 8.7. De commissie regionaal overleg luchthaven schiphol
 
 ### Hoofdstuk 10. Militaire luchtvaart
 
@@ -2422,11 +2432,11 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 9.7
 
-1. In afwijking van [artikel 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=1&artikel=1.4&z=2006-08-02&g=2006-08-02) richt Onze Minister van Defensie, voordat hij de hem krachtens [artikel 9.4](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=9&artikel=9.4&z=2006-08-02&g=2006-08-02) toekomende bevoegdheid uitoefent, een verzoek aan Onze Minister van Verkeer en Waterstaat om aan de behoefte gesteld door Onze Minister van Defensie te voldoen. Onze Minister van Defensie oefent de bevoegdheid krachtens [artikel 9.4](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=9&artikel=9.4&z=2006-08-02&g=2006-08-02) niet uit dan nadat Onze Minister van Verkeer en Waterstaat te kennen heeft gegeven niet te zullen voldoen aan dit verzoek.
+1. In afwijking van [artikel 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=1&artikel=1.4&z=2006-11-29&g=2006-11-29) richt Onze Minister van Defensie, voordat hij de hem krachtens [artikel 9.4](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=9&artikel=9.4&z=2006-11-29&g=2006-11-29) toekomende bevoegdheid uitoefent, een verzoek aan Onze Minister van Verkeer en Waterstaat om aan de behoefte gesteld door Onze Minister van Defensie te voldoen. Onze Minister van Defensie oefent de bevoegdheid krachtens [artikel 9.4](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=9&artikel=9.4&z=2006-11-29&g=2006-11-29) niet uit dan nadat Onze Minister van Verkeer en Waterstaat te kennen heeft gegeven niet te zullen voldoen aan dit verzoek.
 
 2. In dringende omstandigheden kan Onze Minister van Defensie afwijken van het eerste lid. Hij stelt Onze Minister van Verkeer en Waterstaat daarvan terstond in kennis. Zodra de omstandigheden dat naar het oordeel van Onze Minister van Defensie en van Onze Minister van Verkeer en Waterstaat toelaten, wordt aan de door Onze Minister van Defensie gestelde behoefte voldaan door Onze Minister van Verkeer en Waterstaat.
 
-3. Indien de in [artikel 9.3](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=9&artikel=9.3&z=2006-08-02&g=2006-08-02) toegekende bevoegdheid door Onze Minister van Verkeer en Waterstaat wordt uitgeoefend op verzoek van Onze Minister van Defensie als bedoeld in het eerste lid, vindt toekenning van een vergoeding krachtens [artikel 9.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=9&artikel=9.6&z=2006-08-02&g=2006-08-02), plaats in overeenstemming met Onze Minister van Defensie. Deze vergoeding komt voor rekening van Onze Minister van Defensie.
+3. Indien de in [artikel 9.3](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=9&artikel=9.3&z=2006-11-29&g=2006-11-29) toegekende bevoegdheid door Onze Minister van Verkeer en Waterstaat wordt uitgeoefend op verzoek van Onze Minister van Defensie als bedoeld in het eerste lid, vindt toekenning van een vergoeding krachtens [artikel 9.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=9&artikel=9.6&z=2006-11-29&g=2006-11-29), plaats in overeenstemming met Onze Minister van Defensie. Deze vergoeding komt voor rekening van Onze Minister van Defensie.
 
 ### Hoofdstuk 10. Militaire luchtvaart
 
@@ -2614,9 +2624,9 @@ De gezagvoerder van een burgerluchtvaartuig is verplicht de bij regeling van Onz
 
 ## Titel 6.6. Vervoer van dieren
 
-### Hoofdstuk 8. De luchthaven Schiphol
+### Hoofdstuk 7. Diverse bepalingen inzake luchtvaart
 
-## Titel 8.1. Algemeen
+## Titel 7.1. Melding van voorvallen
 
 ## Titel 8.2. De ruimtelijke indeling van en rond de luchthaven
 
@@ -2650,7 +2660,7 @@ De gezagvoerder van een burgerluchtvaartuig is verplicht de bij regeling van Onz
 
 ## Titel 11.2. Bestuursrechtelijke handhaving
 
-### Hoofdstuk 12. Overgangs- en slotbepalingen
+### Hoofdstuk 11. Toezicht en handhaving
 
 ##### Artikel 12.1
 
@@ -2668,7 +2678,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 4. Het voorstel voor de krachtens het tweede lid vast te stellen regeling wordt gedaan door Onze Minister van Financiën in overeenstemming met Onze Minister van Verkeer en Waterstaat en wordt niet eerder gedaan dan vier weken nadat het ontwerp aan de Tweede Kamer der Staten-Generaal is overgelegd.
 
-## Titel 8.2. De ruimtelijke indeling van en rond de luchthaven
+## Titel 7.3. Verzekering
 
 #### § 8.2.2. Het voorbereiden en wijzigen van het besluit
 
@@ -2688,7 +2698,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 8.25a
 
-De exploitant van de luchthaven is verplicht tot exploitatie van de luchthaven en treft met inachtneming van [artikel 8.3](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=8&titeldeel=8.1&artikel=8.3&z=2006-08-02&g=2006-08-02) daartoe de voorzieningen die nodig zijn voor een goede afwikkeling van het luchthavenluchtverkeer en het daarmee samenhangende personen- en goederenvervoer op de luchthaven.
+De exploitant van de luchthaven is verplicht tot exploitatie van de luchthaven en treft met inachtneming van [artikel 8.3](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=8&titeldeel=8.1&artikel=8.3&z=2006-11-29&g=2006-11-29) daartoe de voorzieningen die nodig zijn voor een goede afwikkeling van het luchthavenluchtverkeer en het daarmee samenhangende personen- en goederenvervoer op de luchthaven.
 
 ##### Artikel 8.25b
 
@@ -2702,7 +2712,7 @@ De exploitant van de luchthaven is verplicht tot exploitatie van de luchthaven e
 
 ##### Artikel 8.25c
 
-Indien een ernstig vermoeden bestaat dat een omstandigheid als bedoeld in [artikel 8.25b, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=8&titeldeel=8.4&artikel=8.25b&z=2006-08-02&g=2006-08-02), zich dreigt voor te doen, kan Onze Minister van Verkeer en Waterstaat de exploitant van de luchthaven een aanwijzing geven om binnen een door hem te stellen termijn maatregelen te treffen ter voorkoming van wanbeheer.
+Indien een ernstig vermoeden bestaat dat een omstandigheid als bedoeld in [artikel 8.25b, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=8&titeldeel=8.4&artikel=8.25b&z=2006-11-29&g=2006-11-29), zich dreigt voor te doen, kan Onze Minister van Verkeer en Waterstaat de exploitant van de luchthaven een aanwijzing geven om binnen een door hem te stellen termijn maatregelen te treffen ter voorkoming van wanbeheer.
 
 ##### Artikel 8.25d
 
@@ -2744,7 +2754,7 @@ Indien een ernstig vermoeden bestaat dat een omstandigheid als bedoeld in [artik
 
 ##### Artikel 8.25e
 
-1. Voorafgaand aan de vaststelling van de tarieven en voorwaarden, bedoeld in [artikel 8.25d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=8&titeldeel=8.4&artikel=8.25d&z=2006-08-02&g=2006-08-02), doet de exploitant van de luchthaven aan de gebruikers van de luchthaven mededeling van een voorstel van deze tarieven en voorwaarden met een omschrijving van de daarvoor te leveren diensten, alsmede een toelichting, inhoudende een economische onderbouwing en een omschrijving, aan de hand van indicatoren, van het kwaliteitsniveau van de aangeboden diensten ten behoeve van het gebruik van de luchthaven.
+1. Voorafgaand aan de vaststelling van de tarieven en voorwaarden, bedoeld in [artikel 8.25d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=8&titeldeel=8.4&artikel=8.25d&z=2006-11-29&g=2006-11-29), doet de exploitant van de luchthaven aan de gebruikers van de luchthaven mededeling van een voorstel van deze tarieven en voorwaarden met een omschrijving van de daarvoor te leveren diensten, alsmede een toelichting, inhoudende een economische onderbouwing en een omschrijving, aan de hand van indicatoren, van het kwaliteitsniveau van de aangeboden diensten ten behoeve van het gebruik van de luchthaven.
 
 2. De exploitant van de luchthaven raadpleegt de gebruikers van de luchthaven over het voorstel, bedoeld in het eerste lid, alvorens de tarieven en voorwaarden vast te stellen.
 
@@ -2762,15 +2772,15 @@ Indien een ernstig vermoeden bestaat dat een omstandigheid als bedoeld in [artik
 
 ##### Artikel 8.25f
 
-1. Indien binnen vier weken na de mededeling, bedoeld in [artikel 8.25d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=8&titeldeel=8.4&artikel=8.25d&z=2006-08-02&g=2006-08-02), van de vaststelling van de tarieven en voorwaarden daartoe een aanvraag van een gebruiker is ingediend, stelt de raad vast of de tarieven en voorwaarden in strijd zijn met bij of krachtens deze wet gestelde regels. De raad deelt de exploitant van de luchthaven terstond mede dat een aanvraag van een gebruiker is ontvangen.
+1. Indien binnen vier weken na de mededeling, bedoeld in [artikel 8.25d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=8&titeldeel=8.4&artikel=8.25d&z=2006-11-29&g=2006-11-29), van de vaststelling van de tarieven en voorwaarden daartoe een aanvraag van een gebruiker is ingediend, stelt de raad vast of de tarieven en voorwaarden in strijd zijn met bij of krachtens deze wet gestelde regels. De raad deelt de exploitant van de luchthaven terstond mede dat een aanvraag van een gebruiker is ontvangen.
 
 2. De raad beslist zo spoedig mogelijk op de aanvraag doch uiterlijk binnen drie maanden na ontvangst van de aanvraag. Deze termijn kan eenmaal worden verlengd met ten hoogste acht weken.
 
 3. Indien de raad vaststelt dat de tarieven en voorwaarden in strijd zijn met bij of krachtens deze wet gestelde regels, deelt hij dit terstond mede aan de exploitant van de luchthaven. De exploitant van de luchthaven stelt opnieuw de tarieven en voorwaarden vast met inachtneming van de overwegingen van de raad op grond van het eerste lid.
 
-4. Het eerste lid en [artikel 8.25e](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=8&titeldeel=8.4&artikel=8.25e&z=2006-08-02&g=2006-08-02) zijn niet van toepassing op de vaststelling van tarieven en voorwaarden als bedoeld in het derde lid.
+4. Het eerste lid en [artikel 8.25e](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=8&titeldeel=8.4&artikel=8.25e&z=2006-11-29&g=2006-11-29) zijn niet van toepassing op de vaststelling van tarieven en voorwaarden als bedoeld in het derde lid.
 
-5. De exploitant van de luchthaven hanteert de ingevolge het derde lid vastgestelde tarieven en voorwaarden gedurende het resterende deel van de periode waarvoor de tarieven en voorwaarden overeenkomstig [artikel 8.25d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=8&titeldeel=8.4&artikel=8.25d&z=2006-08-02&g=2006-08-02), waren vastgesteld.
+5. De exploitant van de luchthaven hanteert de ingevolge het derde lid vastgestelde tarieven en voorwaarden gedurende het resterende deel van de periode waarvoor de tarieven en voorwaarden overeenkomstig [artikel 8.25d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=8&titeldeel=8.4&artikel=8.25d&z=2006-11-29&g=2006-11-29), waren vastgesteld.
 
 6. Vanaf de dag waarop door de raad is vastgesteld dat de tarieven en voorwaarden, bedoeld in het eerste lid, in strijd zijn met bij of krachtens deze wet gestelde regels, tot het moment dat de tarieven en voorwaarden, bedoeld in het derde lid, zijn vastgesteld, hanteert de exploitant van de luchthaven de tarieven en voorwaarden die golden in de periode voorafgaande aan de periode waarvoor de bestreden tarieven waren vastgesteld.
 
@@ -2778,15 +2788,15 @@ Indien een ernstig vermoeden bestaat dat een omstandigheid als bedoeld in [artik
 
 ##### Artikel 8.25g
 
-1. De exploitant van de luchthaven stelt een toerekeningssysteem vast voor de kosten en opbrengsten van de activiteiten, bedoeld in [artikel 8.25d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=8&titeldeel=8.4&artikel=8.25d&z=2006-08-02&g=2006-08-02), dat voldoet aan de eisen van marktconformiteit, proportionaliteit en integraliteit. De exploitant van de luchthaven legt het toerekeningssysteem ter goedkeuring voor aan de raad.
+1. De exploitant van de luchthaven stelt een toerekeningssysteem vast voor de kosten en opbrengsten van de activiteiten, bedoeld in [artikel 8.25d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=8&titeldeel=8.4&artikel=8.25d&z=2006-11-29&g=2006-11-29), dat voldoet aan de eisen van marktconformiteit, proportionaliteit en integraliteit. De exploitant van de luchthaven legt het toerekeningssysteem ter goedkeuring voor aan de raad.
 
-2. De exploitant van de luchthaven voert voor de activiteiten met betrekking tot het gebruik van de luchthaven door gebruikers een gescheiden administratie binnen de boekhouding, waarbinnen de kosten en opbrengsten van de uitvoering van de beveiliging van passagiers en hun bagage, bedoeld in [artikel 8.25d, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=8&titeldeel=8.4&artikel=8.25d&z=2006-08-02&g=2006-08-02), afzonderlijk worden geadministreerd.
+2. De exploitant van de luchthaven voert voor de activiteiten met betrekking tot het gebruik van de luchthaven door gebruikers een gescheiden administratie binnen de boekhouding, waarbinnen de kosten en opbrengsten van de uitvoering van de beveiliging van passagiers en hun bagage, bedoeld in [artikel 8.25d, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=8&titeldeel=8.4&artikel=8.25d&z=2006-11-29&g=2006-11-29), afzonderlijk worden geadministreerd.
 
-3. Op grond van de gescheiden administratie binnen de boekhouding, bedoeld in het tweede lid, stelt de exploitant van de luchthaven jaarlijks een financiële verantwoording op over het voorafgaande boekjaar, die bestaat uit een afzonderlijke exploitatierekening en een overzicht van de toegedeelde materiële vaste activa voor het geheel van de activiteiten, bedoeld in [artikel 8.25d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=8&titeldeel=8.4&artikel=8.25d&z=2006-08-02&g=2006-08-02). De financiële verantwoording bevat een toelichting en is voorzien van een verklaring van een onafhankelijke accountant.
+3. Op grond van de gescheiden administratie binnen de boekhouding, bedoeld in het tweede lid, stelt de exploitant van de luchthaven jaarlijks een financiële verantwoording op over het voorafgaande boekjaar, die bestaat uit een afzonderlijke exploitatierekening en een overzicht van de toegedeelde materiële vaste activa voor het geheel van de activiteiten, bedoeld in [artikel 8.25d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=8&titeldeel=8.4&artikel=8.25d&z=2006-11-29&g=2006-11-29). De financiële verantwoording bevat een toelichting en is voorzien van een verklaring van een onafhankelijke accountant.
 
 4. De exploitant van de luchthaven legt binnen vijf maanden na afloop van het boekjaar van de exploitant van de luchthaven de financiële verantwoording over het voorafgaande boekjaar tezamen met de verklaring van de onafhankelijke accountant, over aan de raad en de gebruikers die daarom verzoeken.
 
-5. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld omtrent de inrichting en goedkeuring van het toerekeningssysteem, bedoeld in het eerste lid, de toedeling van activa aan de activiteiten, bedoeld in [artikel 8.25d](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=8&titeldeel=8.4&artikel=8.25d&z=2006-08-02&g=2006-08-02), eerste lid, de inrichting van de gescheiden administratie binnen de boekhouding, bedoeld in het tweede lid, en omtrent de financiële verantwoording, bedoeld in het derde lid.
+5. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld omtrent de inrichting en goedkeuring van het toerekeningssysteem, bedoeld in het eerste lid, de toedeling van activa aan de activiteiten, bedoeld in [artikel 8.25d](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=8&titeldeel=8.4&artikel=8.25d&z=2006-11-29&g=2006-11-29), eerste lid, de inrichting van de gescheiden administratie binnen de boekhouding, bedoeld in het tweede lid, en omtrent de financiële verantwoording, bedoeld in het derde lid.
 
 6. Op de voorbereiding van een besluit omtrent goedkeuring van het toerekeningssysteem is [afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) van toepassing.
 
@@ -2796,11 +2806,11 @@ Indien een ernstig vermoeden bestaat dat een omstandigheid als bedoeld in [artik
 
 ##### Artikel 8.25ga
 
-De exploitant van de luchthaven zendt de raad en de gebruikers binnen vijf maanden na afloop van het boekjaar een rapportage omtrent het gerealiseerde kwaliteitsniveau van de geleverde diensten ten behoeve van het gebruik van de luchthaven, bedoeld in [artikel 8.25e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=8&titeldeel=8.4&artikel=8.25e&z=2006-08-02&g=2006-08-02), over het voorafgaande boekjaar, mede aan de hand van ervaringen van passagiers. De rapportage omtrent het gerealiseerde kwaliteitsniveau geschiedt aan de hand van de indicatoren, bedoeld in [artikel 8.25e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=8&titeldeel=8.4&artikel=8.25e&z=2006-08-02&g=2006-08-02).
+De exploitant van de luchthaven zendt de raad en de gebruikers binnen vijf maanden na afloop van het boekjaar een rapportage omtrent het gerealiseerde kwaliteitsniveau van de geleverde diensten ten behoeve van het gebruik van de luchthaven, bedoeld in [artikel 8.25e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=8&titeldeel=8.4&artikel=8.25e&z=2006-11-29&g=2006-11-29), over het voorafgaande boekjaar, mede aan de hand van ervaringen van passagiers. De rapportage omtrent het gerealiseerde kwaliteitsniveau geschiedt aan de hand van de indicatoren, bedoeld in [artikel 8.25e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=8&titeldeel=8.4&artikel=8.25e&z=2006-11-29&g=2006-11-29).
 
 ##### Artikel 8.25h
 
-1. De exploitant van de luchthaven zendt de raad een afschrift van de mededeling, bedoeld in [artikel 8.25d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=8&titeldeel=8.4&artikel=8.25d&z=2006-08-02&g=2006-08-02), en van de mededeling, bedoeld in [artikel 8.25e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=8&titeldeel=8.4&artikel=8.25e&z=2006-08-02&g=2006-08-02).
+1. De exploitant van de luchthaven zendt de raad een afschrift van de mededeling, bedoeld in [artikel 8.25d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=8&titeldeel=8.4&artikel=8.25d&z=2006-11-29&g=2006-11-29), en van de mededeling, bedoeld in [artikel 8.25e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=8&titeldeel=8.4&artikel=8.25e&z=2006-11-29&g=2006-11-29).
 
 2. De raad is bevoegd van de exploitant van de luchthaven alle inlichtingen en gegevens te verlangen, die hij voor de uitoefening van zijn taak op grond van deze wet redelijkerwijs nodig acht.
 
@@ -2816,19 +2826,19 @@ De exploitant van de luchthaven zendt de raad en de gebruikers binnen vijf maand
 
 ##### Artikel 8.25ha
 
-De raad brengt elk jaar aan Onze Minister van Verkeer en Waterstaat verslag uit over de uitoefening van zijn taken en bevoegdheden, bedoeld in de [artikelen 8.25f](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=8&titeldeel=8.4&artikel=8.25f&z=2006-08-02&g=2006-08-02) en [8.25g](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=8&titeldeel=8.4&artikel=8.25g&z=2006-08-02&g=2006-08-02).
+De raad brengt elk jaar aan Onze Minister van Verkeer en Waterstaat verslag uit over de uitoefening van zijn taken en bevoegdheden, bedoeld in de [artikelen 8.25f](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=8&titeldeel=8.4&artikel=8.25f&z=2006-11-29&g=2006-11-29) en [8.25g](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=8&titeldeel=8.4&artikel=8.25g&z=2006-11-29&g=2006-11-29).
 
 ##### Artikel 8.25i
 
-1. Een belanghebbende kan beroep instellen bij de Afdeling bestuursrechtspraak van de Raad van State tegen een besluit als bedoeld in de [artikelen 8.25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=8&titeldeel=8.4&artikel=8.25&z=2006-08-02&g=2006-08-02), [8.25b](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=8&titeldeel=8.4&artikel=8.25b&z=2006-08-02&g=2006-08-02) en [8.25c](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=8&titeldeel=8.4&artikel=8.25c&z=2006-08-02&g=2006-08-02).
+1. Een belanghebbende kan beroep instellen bij de Afdeling bestuursrechtspraak van de Raad van State tegen een besluit als bedoeld in de [artikelen 8.25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=8&titeldeel=8.4&artikel=8.25&z=2006-11-29&g=2006-11-29), [8.25b](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=8&titeldeel=8.4&artikel=8.25b&z=2006-11-29&g=2006-11-29) en [8.25c](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=8&titeldeel=8.4&artikel=8.25c&z=2006-11-29&g=2006-11-29).
 
-2. In afwijking van [artikel 8:7 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:7) is voor beroepen tegen besluiten van de raad op grond van [artikel 8.25f, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=8&titeldeel=8.4&artikel=8.25f&z=2006-08-02&g=2006-08-02), en [artikel 8.25g, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=8&titeldeel=8.4&artikel=8.25g&z=2006-08-02&g=2006-08-02), de rechtbank te Rotterdam bevoegd.
+2. In afwijking van [artikel 8:7 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:7) is voor beroepen tegen besluiten van de raad op grond van [artikel 8.25f, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=8&titeldeel=8.4&artikel=8.25f&z=2006-11-29&g=2006-11-29), en [artikel 8.25g, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=8&titeldeel=8.4&artikel=8.25g&z=2006-11-29&g=2006-11-29), de rechtbank te Rotterdam bevoegd.
 
-3. In geval van een beroep tegen besluiten als bedoeld in [artikel 8.25f, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=8&titeldeel=8.4&artikel=8.25f&z=2006-08-02&g=2006-08-02), en [artikel 8.25g, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=8&titeldeel=8.4&artikel=8.25g&z=2006-08-02&g=2006-08-02), blijft [artikel 7:1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:1) buiten toepassing.
+3. In geval van een beroep tegen besluiten als bedoeld in [artikel 8.25f, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=8&titeldeel=8.4&artikel=8.25f&z=2006-11-29&g=2006-11-29), en [artikel 8.25g, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=8&titeldeel=8.4&artikel=8.25g&z=2006-11-29&g=2006-11-29), blijft [artikel 7:1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:1) buiten toepassing.
 
 ##### Artikel 8.25j
 
-Een voordracht voor een algemene maatregel van bestuur op grond van de [artikelen 8.25d tot en met 8.25g](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=8&titeldeel=8.4&artikel=8.25d&z=2006-08-02&g=2006-08-02) wordt gedaan door Onze Minister van Verkeer en Waterstaat in overeenstemming met Onze Minister van Economische Zaken.
+Een voordracht voor een algemene maatregel van bestuur op grond van de [artikelen 8.25d tot en met 8.25g](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=8&titeldeel=8.4&artikel=8.25d&z=2006-11-29&g=2006-11-29) wordt gedaan door Onze Minister van Verkeer en Waterstaat in overeenstemming met Onze Minister van Economische Zaken.
 
 #### § 8.5.1. Algemeen
 
@@ -2838,11 +2848,11 @@ Een voordracht voor een algemene maatregel van bestuur op grond van de [artikele
 
 ##### Artikel 8.29a
 
-1. De exploitant van de luchthaven brengt elke drie jaar, of zoveel eerder als Onze Minister van Verkeer en Waterstaat nodig oordeelt, aan Onze Minister van Verkeer en Waterstaat verslag uit over de exploitatie van de luchthaven. Het verslag bevat ten minste een beschrijving van de ter uitvoering van [artikel 8.25a](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=8&titeldeel=8.4&artikel=8.25a&z=2006-08-02&g=2006-08-02) getroffen voorzieningen, een overzicht van alle daartoe relevante gegevens en een beschrijving van de doelmatigheid en doeltreffendheid van die voorzieningen.
+1. De exploitant van de luchthaven brengt elke drie jaar, of zoveel eerder als Onze Minister van Verkeer en Waterstaat nodig oordeelt, aan Onze Minister van Verkeer en Waterstaat verslag uit over de exploitatie van de luchthaven. Het verslag bevat ten minste een beschrijving van de ter uitvoering van [artikel 8.25a](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=8&titeldeel=8.4&artikel=8.25a&z=2006-11-29&g=2006-11-29) getroffen voorzieningen, een overzicht van alle daartoe relevante gegevens en een beschrijving van de doelmatigheid en doeltreffendheid van die voorzieningen.
 
 2. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld omtrent de verslaggeving.
 
-#### § 8.5.4. Gegevensverstrekking, geluidbelastingkaart en actieplan in verband met de richtlijn inzake de evaluatie en de beheersing van omgevingslawaai
+#### § 8.5.1. Algemeen
 
 ## Titel 8.7. De commissie regionaal overleg luchthaven schiphol
 
@@ -2854,9 +2864,9 @@ Een voordracht voor een algemene maatregel van bestuur op grond van de [artikele
 
 ##### Artikel 11.2b
 
-1. Onze Minister van Verkeer en Waterstaat kan ten behoeve van het toezicht op de naleving van de verplichtingen, voortvloeiend uit de exploitatievergunning, bedoeld in [artikel 8.25a](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=8&titeldeel=8.4&artikel=8.25a&z=2006-08-02&g=2006-08-02), een onderzoek instellen bij de exploitant van de luchthaven.
+1. Onze Minister van Verkeer en Waterstaat kan ten behoeve van het toezicht op de naleving van de verplichtingen, voortvloeiend uit de exploitatievergunning, bedoeld in [artikel 8.25a](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=8&titeldeel=8.4&artikel=8.25a&z=2006-11-29&g=2006-11-29), een onderzoek instellen bij de exploitant van de luchthaven.
 
-2. Met het onderzoek zijn belast de krachtens [artikel 11.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=11&titeldeel=11.1&artikel=11.1&z=2006-08-02&g=2006-08-02), aangewezen toezichthoudende ambtenaren.
+2. Met het onderzoek zijn belast de krachtens [artikel 11.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=11&titeldeel=11.1&artikel=11.1&z=2006-11-29&g=2006-11-29), aangewezen toezichthoudende ambtenaren.
 
 3. In afwijking van het tweede lid, kan Onze Minister van Verkeer en Waterstaat het onderzoek laten verrichten door een of meer aangewezen deskundigen.
 
@@ -2872,7 +2882,7 @@ Een voordracht voor een algemene maatregel van bestuur op grond van de [artikele
 
 ##### Artikel 11.14a
 
-1. Met het toezicht op de naleving van het bij of krachtens de [artikelen 8.25d tot en met 8.25h](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=8&titeldeel=8.4&artikel=8.25d&z=2006-08-02&g=2006-08-02) bepaalde zijn belast de bij besluit van de raad van de Nederlandse Mededingingsautoriteit aangewezen ambtenaren van de Nederlandse Mededingingsautoriteit. De [artikelen 51](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=51), [53](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=53) en [54 van de Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=54) zijn van overeenkomstige toepassing.
+1. Met het toezicht op de naleving van het bij of krachtens de [artikelen 8.25d tot en met 8.25h](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=8&titeldeel=8.4&artikel=8.25d&z=2006-11-29&g=2006-11-29) bepaalde zijn belast de bij besluit van de raad van de Nederlandse Mededingingsautoriteit aangewezen ambtenaren van de Nederlandse Mededingingsautoriteit. De [artikelen 51](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=51), [53](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=53) en [54 van de Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=54) zijn van overeenkomstige toepassing.
 
 2. Een besluit als bedoeld in het eerste lid, wordt bekendgemaakt in de Staatscourant.
 
@@ -2880,7 +2890,7 @@ Een voordracht voor een algemene maatregel van bestuur op grond van de [artikele
 
 ##### Artikel 11.21
 
-Ingeval van overtreding van de [artikelen 8.25d, eerste tot en met elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=8&titeldeel=8.4&artikel=8.25d&z=2006-08-02&g=2006-08-02), de krachtens het twaalfde lid gestelde regels, [8.25e, eerste, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=8&titeldeel=8.4&artikel=8.25e&z=2006-08-02&g=2006-08-02), de krachtens het vierde lid gestelde regels, [8.25f, derde, vijfde of zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=8&titeldeel=8.4&artikel=8.25f&z=2006-08-02&g=2006-08-02), de krachtens het zevende lid gestelde regels, [8.25g, eerste, tweede, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=8&titeldeel=8.4&artikel=8.25g&z=2006-08-02&g=2006-08-02), de krachtens het vijfde lid gestelde regels, [8.25ga](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=8&titeldeel=8.4&artikel=8.25ga&z=2006-08-02&g=2006-08-02) of [8.25h, eerste of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=8&titeldeel=8.4&artikel=8.25h&z=2006-08-02&g=2006-08-02), zijn [artikel 54a](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=54a) en [hoofdstuk 7](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=7), met uitzondering van [artikel 63, van de Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=63) van overeenkomstige toepassing.
+Ingeval van overtreding van de [artikelen 8.25d, eerste tot en met elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=8&titeldeel=8.4&artikel=8.25d&z=2006-11-29&g=2006-11-29), de krachtens het twaalfde lid gestelde regels, [8.25e, eerste, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=8&titeldeel=8.4&artikel=8.25e&z=2006-11-29&g=2006-11-29), de krachtens het vierde lid gestelde regels, [8.25f, derde, vijfde of zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=8&titeldeel=8.4&artikel=8.25f&z=2006-11-29&g=2006-11-29), de krachtens het zevende lid gestelde regels, [8.25g, eerste, tweede, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=8&titeldeel=8.4&artikel=8.25g&z=2006-11-29&g=2006-11-29), de krachtens het vijfde lid gestelde regels, [8.25ga](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=8&titeldeel=8.4&artikel=8.25ga&z=2006-11-29&g=2006-11-29) of [8.25h, eerste of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=8&titeldeel=8.4&artikel=8.25h&z=2006-11-29&g=2006-11-29), zijn [artikel 54a](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=54a) en [hoofdstuk 7](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=7), met uitzondering van [artikel 63, van de Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=63) van overeenkomstige toepassing.
 
 ### Hoofdstuk 12. Overgangs- en slotbepalingen
 
@@ -2890,6 +2900,92 @@ Vervallen
 
 ##### Artikel 12.3a
 
-Onze Minister van Verkeer en Waterstaat en Onze Minister van Economische Zaken zenden binnen vier jaar na de inwerkingtreding van de [artikelen 8.25d tot en met 8.25h](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=8&titeldeel=8.4&artikel=8.25d&z=2006-08-02&g=2006-08-02) en de artikelen 11.14a en [11.21 van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=11&titeldeel=11.2&artikel=11.21&z=2006-08-02&g=2006-08-02) en vervolgens telkens na vijf jaar, aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze bepalingen in de praktijk.
+Onze Minister van Verkeer en Waterstaat en Onze Minister van Economische Zaken zenden binnen vier jaar na de inwerkingtreding van de [artikelen 8.25d tot en met 8.25h](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=8&titeldeel=8.4&artikel=8.25d&z=2006-11-29&g=2006-11-29) en de artikelen 11.14a en [11.21 van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=11&titeldeel=11.2&artikel=11.21&z=2006-11-29&g=2006-11-29) en vervolgens telkens na vijf jaar, aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze bepalingen in de praktijk.
+
+Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 7.1
+
+1. Voorvallen worden gemeld aan Onze Minister van Verkeer en Waterstaat.
+
+2. Bij algemene maatregel van bestuur worden natuurlijke personen of rechtspersonen aangewezen die verplicht zijn tot het melden van een voorval.
+
+3. Bij regeling van Onze Minister van Verkeer en Waterstaat worden nadere regels gesteld met betrekking tot de in het eerste lid bedoelde meldingen en kunnen regels worden gesteld voor het vrijwillig melden van tekortkomingen in de luchtvaart welke niet verplicht gemeld moeten worden maar die de melder als een reëel of mogelijk gevaar beschouwt.
+
+##### Artikel 7.2
+
+1. Gegevens ontvangen uit een in [artikel 7.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=7&titeldeel=7.1&artikel=7.1&z=2006-11-29&g=2006-11-29), bedoelde melding, dan wel ontvangen van een lidstaat van de Europese Unie naar aanleiding van een soortgelijke melding in die lidstaat, zijn niet openbaar.
+
+2. Iedere instantie met regelgevende bevoegdheid op het gebied van de veiligheid in de burgerluchtvaart of met onderzoeksbevoegdheid voor ongevallen en incidenten die zich in de Europese Gemeenschap voordoen, heeft toegang tot de in het eerste lid bedoelde gegevens.
+
+3. Bij het registreren van de melding worden geen namen en adressen van individuele personen opgenomen.
+
+##### Artikel 7.3
+
+Een luchthavencoördinator als bedoeld in Verordening nr. 95/93 van de Raad van de Europese Gemeenschappen van 18 januari 1993 betreffende gemeenschappelijke regels voor de toewijzing van «slots» op communautaire luchthavens (PbEG L 14) die bij de uitvoering van zijn taak krachtens de verordening schade toebrengt aan luchtvaartmaatschappijen of anderen, is te dier zake niet aansprakelijk, tenzij de schade een gevolg is van zijn opzet of roekeloosheid.
+
+##### Artikel 7.4
+
+1. De luchtvervoerder en de exploitant van luchtvaartuigen, bedoeld in artikel 3 van de Verordening (EG) nr. 785/2004 van het Europees Parlement en de Raad van 21 april 2004 tot vaststelling van gemeenschappelijke regels inzake de verzekeringseisen voor luchtvervoerders en exploitanten van luchtvaartuigen (PbEU L 138) hebben een verzekering die voldoet aan de artikelen 4, 6 en 7 van voornoemde verordening.
+
+2. Met betrekking tot niet-commerciële diensten van luchtvaartuigen met een MTOM van 2700 kg of minder bedraagt de verzekeringsdekking ten minste 100 000 BTR per passagier.
+
+### Hoofdstuk 8. De luchthaven Schiphol
+
+## Titel 8.1. Algemeen
+
+## Titel 8.2. De ruimtelijke indeling van en rond de luchthaven
+
+#### § 8.2.2. Het voorbereiden en wijzigen van het besluit
+
+#### § 8.3.1. Het luchthavenverkeerbesluit
+
+##### Artikel 8.23a
+
+Dit onderdeel is nog niet inwerking getreden
+
+#### § 8.3.2. Het voorbereiden en wijzigen van het besluit
+
+## Titel 8.4. De exploitatie van de luchthaven
+
+## Titel 8.5. Informatievoorziening
+
+#### § 8.5.2. Het registreren van het veiligheidsrisico en de milieubelasting
+
+#### § 8.5.3. Gegevensverstrekking, verslaglegging en openbaarmaking
+
+#### § 8.5.4. Gegevensverstrekking, geluidbelastingkaart en actieplan in verband met de richtlijn inzake de evaluatie en de beheersing van omgevingslawaai
+
+## Titel 8.6. Financiële aspecten
+
+### Hoofdstuk 9. Bijzondere of buitengewone omstandigheden
+
+### Hoofdstuk 10. Militaire luchtvaart
+
+##### Artikel 10.10
+
+[Artikel 7.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=7&titeldeel=7.1&artikel=7.1&z=2006-11-29&g=2006-11-29), is niet van toepassing op voorvallen die uitsluitend de militaire luchtvaart betreffen.
+
+## Titel 11.1. Toezicht en strafrechtelijke handhaving
+
+## Titel 11.2. Bestuursrechtelijke handhaving
+
+## Titel 11.3. Uitzonderingen
+
+##### Artikel 11.25
+
+1. Naar aanleiding van een onopzettelijke of uit onachtzaamheid begane overtreding van een wettelijk voorschrift stelt de Staat geen rechtsvordering in en legt een bestuursorgaan geen bestuurlijke sanctie op indien van deze overtreding kennis is verkregen door een melding als bedoeld in [artikel 7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=7&titeldeel=7.1&artikel=7.1&z=2006-11-29&g=2006-11-29).
+
+2. Het eerste lid is niet van toepassing indien sprake is van grove nalatigheid met betrekking tot het voorval.
+
+##### Artikel 11.26
+
+Gegevens die bij een intern bedrijfsveiligheidsonderzoek in het kader van een bij of krachtens de Wet Luchtvaart of de [Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267) gecertificeerd veiligheidsmanagementssysteem zijn verkregen, kunnen niet ten behoeve van strafrechtelijk onderzoek naar aanleiding van een melding als bedoeld in [artikel 7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&hoofdstuk=7&titeldeel=7.1&artikel=7.1&z=2006-11-29&g=2006-11-29) worden gevorderd dan na machtiging van de rechter-commissaris op vordering van de officier van justitie.
+
+### Hoofdstuk 12. Overgangs- en slotbepalingen
+
+##### Artikel 12.1
+
+Vervallen
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat aan de nauwkeurige uitvoering de hand zullen houden.
