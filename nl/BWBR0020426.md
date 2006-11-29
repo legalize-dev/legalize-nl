@@ -4,7 +4,7 @@ identifier: "BWBR0020426"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2006-11-29"
-last_updated: "2006-10-26"
+last_updated: "2006-11-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020426"
 soort: "ministeriele-regeling"
@@ -72,21 +72,21 @@ In deze regeling wordt verstaan onder:
 
 3. De overeenkomstig het tweede lid berekende bedragen worden gesommeerd. Het resultaat wordt contant gemaakt naar 30 september 2006 door deling door (1 + i*m), waarbij ‘i’ de disconteringsvoet is en ‘m’ de periode vanaf 30 september 2006 tot aan de eerste vervaldatum van geldelijke steun, herleid tot een gedeelte van een heel jaar.
 
-4. Het overeenkomstig het derde lid berekende bedrag wordt vermeerderd met een rente van 4,25% per jaar, te rekenen vanaf 1 oktober 2006 tot de datum waarop de eenmalige subsidie wordt uitbetaald.
+4. Het overeenkomstig het derde lid berekende bedrag wordt vermeerderd met een rente van 4,00% per jaar, te rekenen vanaf 1 oktober 2006 tot de datum waarop de eenmalige subsidie wordt uitbetaald.
 
-5. Indien op grond van de verbintenis een jaarlijkse bijdrage aan geldelijke steun is betaald in de periode vanaf 1 oktober 2006 tot de datum waarop de beschikking tot vaststelling van de eenmalige subsidie is genomen, wordt het overeenkomstig het vierde lid berekende bedrag verminderd met die bijdrage en met een over die bijdrage berekende rente van 4,25% per jaar over de periode vanaf de datum waarop die bijdrage is betaald tot de datum waarop de eenmalige subsidie wordt uitbetaald.
+5. Indien op grond van de verbintenis een jaarlijkse bijdrage aan geldelijke steun is betaald in de periode vanaf 1 oktober 2006 tot de datum waarop de beschikking tot vaststelling van de eenmalige subsidie is genomen, wordt het overeenkomstig het vierde lid berekende bedrag verminderd met die bijdrage en met een over die bijdrage berekende rente van 4,00% per jaar over de periode vanaf de datum waarop die bijdrage is betaald tot de datum waarop de eenmalige subsidie wordt uitbetaald.
 
 ##### Artikel 4
 
-1. Voor de toepassing van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0020426&paragraaf=2&artikel=3&z=2006-10-26&g=2006-10-26) wordt uitgegaan van maanden van dertig dagen en van een jaar van 360 dagen.
+1. Voor de toepassing van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0020426&paragraaf=2&artikel=3&z=2006-11-29&g=2006-11-29) wordt uitgegaan van maanden van dertig dagen en van een jaar van 360 dagen.
 
-2. Voor de toepassing van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0020426&paragraaf=2&artikel=3&z=2006-10-26&g=2006-10-26) wordt voor het derde tijdvak van tien jaar van de beschikkingen tot vaststelling van geldelijke steun uitgegaan van een rendement van 4,25% voor het vaststellen van de resterende looptijd van de jaarlijkse bijdrage.
+2. Voor de toepassing van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0020426&paragraaf=2&artikel=3&z=2006-11-29&g=2006-11-29) wordt voor het derde tijdvak van tien jaar van de beschikkingen tot vaststelling van geldelijke steun uitgegaan van een rendement van 4,00% voor het vaststellen van de resterende looptijd van de jaarlijkse bijdrage.
 
-3. Voor de toepassing van [artikel 3, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020426&paragraaf=2&artikel=3&z=2006-10-26&g=2006-10-26), wordt de disconteringsvoet (i) gesteld op 0,0425 (4,25%).
+3. Voor de toepassing van [artikel 3, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020426&paragraaf=2&artikel=3&z=2006-11-29&g=2006-11-29), wordt de disconteringsvoet (i) gesteld op 0,0400 (4,00%).
 
 ##### Artikel 5
 
-1. Het bedrag van de eenmalige subsidie aan de gemeente komt overeen met het totaal aan subsidiebedragen, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020426&paragraaf=2&artikel=3&z=2006-10-26&g=2006-10-26).
+1. Het bedrag van de eenmalige subsidie aan de gemeente komt overeen met het totaal aan subsidiebedragen, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020426&paragraaf=2&artikel=3&z=2006-11-29&g=2006-11-29).
 
 2. De vaststelling van de eenmalige subsidie heeft tot gevolg dat:
 
@@ -100,9 +100,9 @@ In deze regeling wordt verstaan onder:
 
 1. Indien alle gemeenten tijdig een aanvraag hebben ingediend, wordt de beschikking op de aanvraag gegeven voor 4 december 2006.
 
-2. Indien toepassing wordt gegeven aan [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020426&paragraaf=2&artikel=2&z=2006-10-26&g=2006-10-26), wordt de beschikking op de aanvraag gegeven voor 4 december 2006.
+2. Indien toepassing wordt gegeven aan [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020426&paragraaf=2&artikel=2&z=2006-11-29&g=2006-11-29), wordt de beschikking op de aanvraag gegeven voor 4 december 2006.
 
-3. Indien geen toepassing wordt gegeven aan [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020426&paragraaf=2&artikel=2&z=2006-10-26&g=2006-10-26), worden de gemeenten daarvan in kennis gesteld voor 4 december 2006.
+3. Indien geen toepassing wordt gegeven aan [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020426&paragraaf=2&artikel=2&z=2006-11-29&g=2006-11-29), worden de gemeenten daarvan in kennis gesteld voor 4 december 2006.
 
 ##### Artikel 7
 
@@ -118,7 +118,7 @@ Burgemeester en wethouders van een gemeente kunnen op aanvraag van een natuurlij
 
 ##### Artikel 9
 
-Op de vaststelling van het subsidiebedrag en de beëindiging van verbintenissen als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0020426&paragraaf=3&artikel=8&z=2006-10-26&g=2006-10-26) zijn de [artikelen 3 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0020426&paragraaf=2&artikel=3&z=2006-10-26&g=2006-10-26) en [7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020426&paragraaf=2&artikel=7&z=2006-10-26&g=2006-10-26), van overeenkomstige toepassing, met dien verstande dat:
+Op de vaststelling van het subsidiebedrag en de beëindiging van verbintenissen als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0020426&paragraaf=3&artikel=8&z=2006-11-29&g=2006-11-29) zijn de [artikelen 3 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0020426&paragraaf=2&artikel=3&z=2006-11-29&g=2006-11-29) en [7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020426&paragraaf=2&artikel=7&z=2006-11-29&g=2006-11-29), van overeenkomstige toepassing, met dien verstande dat:
 
 - a. voor minister gelezen moet worden: burgemeester en wethouders;
 
@@ -126,7 +126,7 @@ Op de vaststelling van het subsidiebedrag en de beëindiging van verbintenissen 
 
 - c. voor gemeente gelezen moet worden: de natuurlijke persoon of rechtspersoon die de aanvraag indient;
 
-- d. burgemeester en wethouders de disconteringsvoet, bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020426&paragraaf=2&artikel=4&z=2006-10-26&g=2006-10-26), kunnen stellen op maximaal 0,0450 (4,50%).
+- d. burgemeester en wethouders de disconteringsvoet, bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020426&paragraaf=2&artikel=4&z=2006-11-29&g=2006-11-29), kunnen stellen op maximaal 0,0425 (4,25%).
 
 #### Paragraaf 4. Slotbepalingen
 
