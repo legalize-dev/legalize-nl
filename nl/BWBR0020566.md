@@ -275,35 +275,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 Deze regeling wordt aangehaald als: Regeling gebruik en installatie EU-meetinstrumenten.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 19a
-
-Een niet-automatisch weegwerktuig dat wordt gebruikt voor het wegen van visserijproducten aan boord van een vissersvaartuig is deiningsgecompenseerd.
-
-#### § 5. Specifieke bepalingen inzake korenschalen, alcoholmeters en areometers voor alcohol
-
-#### § 6. Slotbepalingen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 8a
-
-1. Warmtemeters voldoen na ingebruikneming aan de toepasselijke essentiële eisen van bijlage MI-004 van de richtlijn meetinstrumenten met dien verstande dat de maximaal toelaatbare fout in onderdeel 3 telkens met de factor 2 wordt vermenigvuldigd.
-
-2. Voordat een warmtemeter op de bestemde plaats in gebruik wordt genomen, stelt degene die zorg draagt voor de installatie hiervan vast of in de gegeven omstandigheden de warmtemeter geschikt is voor een correcte meting van het te verwachten gebruik.
-
-3. [Artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0020566&paragraaf=2&artikel=3&z=2015-01-01&g=2015-01-01) en het eerste lid zijn tien jaar na inwerkingtreding van dit artikel niet van toepassing op warmtemeters die reeds in gebruik zijn genomen voor de inwerkingtreding van deze regeling en die voldoen aan de nauwkeurigheidseis ten aanzien van warmtemeters van klasse 3 als bedoeld in onderdeel 3 van bijlage MI-004 van de richtlijn meetinstrumenten met dien verstande dat de maximaal toelaatbare fout met de factor 2 wordt vermenigvuldigd.
-
-#### § 4. Specifieke bepalingen inzake niet-automatische weegwerktuigen
-
-#### § 5. Specifieke bepalingen inzake korenschalen, alcoholmeters en areometers voor alcohol
-
-#### § 6. Slotbepalingen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 21a
-
-Deze regeling berust op de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&artikel=11) en [14, derde lid, van het Besluit meetinstrumenten en marktdeelnemers](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&artikel=14).
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
