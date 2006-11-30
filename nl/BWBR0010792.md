@@ -4,7 +4,7 @@ identifier: "BWBR0010792"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2007-01-01"
-last_updated: "1999-11-01"
+last_updated: "2006-11-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010792"
 soort: "ministeriele-regeling"
@@ -51,7 +51,7 @@ Wijzigt de arbeidsomstandighedenregeling.
 
 1. Voor de toepassing van deze regeling wordt een deskundige op het vakgebied van de arbeids- en bedrijfsgeneeskunde, die op het tijdstip van inwerkingtreding van deze regeling is ingeschreven in het register van Sociaal Geneeskundigen, tak arbeids- en bedrijfsgeneeskunde of tak verzekeringsgeneeskunde dan wel het register sociale geneeskunde, hoofdstroom arbeid en gezondheid van de Sociaal-Geneeskundige Registratiecommissie van de Koninklijke Nederlandse Maatschappij tot bevordering der Geneeskunst, tot vijf jaar na de datum van inwerkingtreding van deze regeling aangemerkt als deskundige die in het bezit is van een certificaat van vakbekwaamheid arbeids- en bedrijfsgeneeskunde als bedoeld in [artikel 2.7, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.7).
 
-2. Voor de toepassing van deze regeling wordt een deskundige op het vakgebied van de arbeidshygiëne, die op het tijdstip van inwerkingtreding van deze regeling is ingeschreven in het register van gecertificeerde arbeidshygiënisten van de Stichting ter certificering van Arbeidshygiënisten, tot vier jaar na de datum van inwerkingtreding van deze regeling aangemerkt als deskundige die in het bezit is van een certificaat van vakbekwaamheid arbeidshygiëne als bedoeld in [artikel 2.7, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.7).
+2. Vervallen.
 
 3. Voor de toepassing van deze regeling wordt een deskundige op het vakgebied van de veiligheidskunde, die op het tijdstip van inwerkingtreding van deze regeling is ingeschreven in het register van de Stichting voor de certificatie van vakbekwaamheid SKO, tot vier jaar na de datum van inwerkingtreding van de regeling, aangemerkt als deskundige die in het bezit is van een certificaat van vakbekwaamheid veiligheidskunde als bedoeld in [artikel 2.7, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.7).
 
@@ -237,4 +237,4 @@ Deze regeling treedt in werking op het tijdstip waarop de Arbeidsomstandighedenw
 
 - 41. De cursist kan na het optreden van een calamiteit aanvullende maatregelen ter voorkoming van herhaling nemen.
 
-Deze regeling zal met de [bijlagen I](https://wetten.overheid.nl/jci1.3:c:BWBR0010792&bijlage=1&z=1999-11-01&g=1999-11-01) en [VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0010792&bijlage=VIII&z=1999-11-01&g=1999-11-01) en de toelichting in de Staatscourant worden geplaatst.
+Deze regeling zal met de [bijlagen I](https://wetten.overheid.nl/jci1.3:c:BWBR0010792&bijlage=1&z=2006-11-30&g=2006-11-30) en [VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0010792&bijlage=VIII&z=2006-11-30&g=2006-11-30) en de toelichting in de Staatscourant worden geplaatst.
