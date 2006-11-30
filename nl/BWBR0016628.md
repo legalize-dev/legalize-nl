@@ -4,7 +4,7 @@ identifier: "BWBR0016628"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2006-11-30"
-last_updated: "2004-04-29"
+last_updated: "2006-11-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016628"
 soort: "ministeriele-regeling"
@@ -50,7 +50,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-1. De Minister vult over de boekjaren 2004, 2005 en 2006 eventuele tekorten in het fonds aan voorzover:
+1. De Minister vult over de boekjaren 2004 tot en met 2010 eventuele tekorten in het fonds aan voorzover:
 
 - a. deze tekorten voortkomen uit ontslaguitkeringen van de SWOV jegens ex-werknemers;
 
@@ -68,9 +68,9 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3
 
-1. Geen aanvulling als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0016628&artikel=2&z=2004-04-29&g=2004-04-29), heeft plaats voorzover deze betrekking heeft op tekorten in het fonds die voortvloeien uit ontslaguitkeringen die zijn ingegaan nadat de SWOV de B3-status heeft verloren.
+1. Geen aanvulling als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0016628&artikel=2&z=2006-11-30&g=2006-11-30), heeft plaats voorzover deze betrekking heeft op tekorten in het fonds die voortvloeien uit ontslaguitkeringen die zijn ingegaan nadat de SWOV de B3-status heeft verloren.
 
-2. Evenmin heeft aanvulling plaats als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0016628&artikel=2&z=2004-04-29&g=2004-04-29), indien de SWOV in de periode waarop de aanvulling betrekking heeft, activiteiten verricht of heeft verricht die in concurrentie met derden zijn of worden ontplooid dan wel zouden kunnen zijn of worden ontplooid.
+2. Evenmin heeft aanvulling plaats als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0016628&artikel=2&z=2006-11-30&g=2006-11-30), indien de SWOV in de periode waarop de aanvulling betrekking heeft, activiteiten verricht of heeft verricht die in concurrentie met derden zijn of worden ontplooid dan wel zouden kunnen zijn of worden ontplooid.
 
 3. Indien in de gevallen, genoemd in het eerste en tweede lid, reeds aanvullingen zijn gedaan, kan het teveel betaalde worden teruggevorderd of verrekend met andere betalingsverplichtingen.
 
