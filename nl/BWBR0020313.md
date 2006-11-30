@@ -4,7 +4,7 @@ identifier: "BWBR0020313"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2006-11-30"
-last_updated: "2006-11-09"
+last_updated: "2006-11-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020313"
 soort: "ministeriele-regeling"
@@ -41,15 +41,19 @@ Besluit:
 
 1. Ingesteld wordt het draaginsigne Dutchbat III.
 
-2. Het draaginsigne heeft de vorm van een gestileerde weergave van Dutchbat III en Srebrenica (d b s III), overeenkomstig de bij dit artikel behorende afbeelding. Het insigne is vervaardigd van mat bronskleurig metaal, breed 21 mm en lang 52 mm.
+2. Het draaginsigne heeft de vorm van een gestileerde weergave van Dutchbat III en Srebrenica (d b s III), overeenkomstig de bij dit artikel behorende afbeelding. Het insigne is vervaardigd van mat bronskleurig metaal, breed 21 mm en lang 15 mm.
 
 ##### Artikel 2
 
-Het draaginsigne Dutchbat III wordt verstrekt aan degene die als militair in de periode 6 januari 1995 tot en met 14 juli 1995 deel heeft genomen aan de operatie Dutchbat III en daarbij in alle opzichten een goede plichtsbetrachting en een goed gedrag heeft betoond.
+Het draaginsigne Dutchbat III wordt verstrekt aan de militair van de Nederlandse krijgsmacht die in de periode 6 januari 1995 tot en met 14 juli 1995 aan de VN-operatie in en nabij Srebrenica deel heeft genomen en daarbij in alle opzichten een goede plichtsbetrachting en een goed gedrag heeft betoond.
 
 ##### Artikel 3
 
-Het draaginsigne Dutchbat III kan zowel op de uniform als op de burgerkleding worden gedragen op de linker revers of dienovereenkomstige plaats.
+Het draaginsigne Dutchbat III kan worden gedragen op:
+
+- 1°. het uniform overeenkomstig het desbetreffende uniformvoorschrift;
+
+- 2°. de burgerkleding op de linker revers of dienovereenkomstige plaats.
 
 ##### Artikel 4
 
@@ -75,7 +79,7 @@ Dit besluit treedt in werking met ingang van de tweede dag na dagtekening van de
 
 Dit besluit wordt aangehaald als: Instellingsbesluit draaginsigne Dutchbat III.
 
-## Bijlage. behorende bij [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020313&artikel=1&z=2006-11-09&g=2006-11-09)
+## Bijlage. behorende bij [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020313&artikel=1&z=2006-11-30&g=2006-11-30)
 
 ### **Afbeelding draaginsigne**
 
