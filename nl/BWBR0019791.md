@@ -4,7 +4,7 @@ identifier: "BWBR0019791"
 country: "nl"
 rank: "amvb"
 publication_date: "2006-12-01"
-last_updated: "2006-04-29"
+last_updated: "2006-12-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019791"
 soort: "AMvB"
@@ -56,7 +56,7 @@ Een op het tijdstip van inwerkingtreding van dit besluit geldig bescheid, waarui
 
 ##### Artikel III
 
-Een op het tijdstip van inwerkingtreding van dit besluit geldig bescheid, waaruit het rechtmatig verblijf, bedoeld in [artikel 8, onder b, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) blijkt, wordt mede aangemerkt als een verblijfsdocument als bedoeld in [artikel 8.19 van het Vreemdelingenbesluit 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.19), indien de houder ervan de nationaliteit bezit van een staat als bedoeld in [artikel 8.7, eerste lid, van het Vreemdelingenbesluit 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.7) dan wel als een verblijfsdocument als bedoeld in [8.20 van het Vreemdelingenbesluit 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.20), indien de vreemdeling gemeenschapsonderdaan is, maar niet een zodanige nationaliteit bezit.
+Een op het tijdstip van inwerkingtreding van dit besluit geldig bescheid, waaruit het rechtmatig verblijf, bedoeld in [artikel 8, onder b, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) blijkt, wordt mede aangemerkt als een verblijfsdocument als bedoeld in [artikel 8.19 van het Vreemdelingenbesluit 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.19), indien de houder ervan de nationaliteit bezit van een staat als bedoeld in [artikel 8.7, eerste lid, van het Vreemdelingenbesluit 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.7) dan wel als een verblijfsdocument als bedoeld in [artikel 8.20 van het Vreemdelingenbesluit 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.20), indien de vreemdeling gemeenschapsonderdaan is, maar niet een zodanige nationaliteit bezit.
 
 ##### Artikel IV
 
