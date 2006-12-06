@@ -4,7 +4,7 @@ identifier: "BWBR0020555"
 country: "nl"
 rank: "wet"
 publication_date: "2007-02-07"
-last_updated: "2001-07-27"
+last_updated: "2006-12-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020555"
 soort: "wet"
@@ -146,8 +146,20 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXVI
 
-Dit onderdeel is nog niet inwerking getreden
+1. Met uitzondering van [artikel XXIV, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0020555&artikel=XXIV&z=2006-12-06&g=2006-12-06), treden de artikelen van deze wet in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
+
+2. [Artikel XXIV, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020555&artikel=XXIV&z=2006-12-06&g=2006-12-06), treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst en werkt terug tot en met 27 juli 2001.
+
+3. [Artikel XXIV, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0020555&artikel=XXIV&z=2006-12-06&g=2006-12-06), treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst en werkt terug tot en met 19 mei 2004.
 
 ##### Artikel XXVII
 
-Dit onderdeel is nog niet inwerking getreden
+Deze wet wordt aangehaald als: Veegwet EZ 2005.
+
+Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
+
+Alzo Wij in overweging genomen hebben, dat het wenselijk is de [Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950), de [Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755), de [Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440), de [Mijnbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168) en enkele andere daarmee verbandhoudende wetten, de [Wet voorraadvorming aardolieproducten 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012373), de [Wet op de kamers van koophandel en fabrieken 1997](https://wetten.overheid.nl/jci1.3:c:BWBR0009276), de [Raamwet EEG-voorschriften aanbestedingen](https://wetten.overheid.nl/jci1.3:c:BWBR0005937) en diverse andere wetten op een of meer onderdelen te wijzigen in verband met geconstateerde gebreken en leemten of om enkele inhoudelijke wijzigingen aan te brengen;
+
+Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
