@@ -4,7 +4,7 @@ identifier: "BWBR0014926"
 country: "nl"
 rank: "zbo"
 publication_date: "2006-12-06"
-last_updated: "2006-01-01"
+last_updated: "2006-12-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014926"
 soort: "zbo"
@@ -44,7 +44,9 @@ In deze regeling wordt verstaan onder:
 
 - a. **ZW:** de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888);
 
-- b. **UWV:** het Uitvoeringsinstituut werknemersverzekeringen.
+- b. **UWV:** het Uitvoeringsinstituut werknemersverzekeringen;
+
+- c. Wfsv: de [Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745).
 
 ##### Artikel 2. Toetsing voorstellen voor beslissingen
 
@@ -70,7 +72,7 @@ In deze regeling wordt verstaan onder:
 
 - a. Registratie vindt plaats op persoonsniveau;
 
-- b. De eigenrisicodrager registreert terzake van een persoon als bedoeld in artikel 63, eerste lid, ZW:
+- b. De eigenrisicodrager registreert terzake van een persoon als bedoeld in [artikel 40, eerste lid, onderdeel a, van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=40):
 
 - 1°. sofinummer;
 
@@ -78,7 +80,7 @@ In deze regeling wordt verstaan onder:
 
 - 3°. de periode van ongeschiktheid en een overzicht van eerdere perioden van ongeschiktheid;
 
-- 4°. motivering waarom het een persoon betreft als bedoeld in [artikel 63, eerste lid, ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=63);
+- 4°. motivering waarom het een persoon betreft als bedoeld in [artikel 40, eerste lid, onderdeel a, van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=40);
 
 - 5°. weigering van ZW-uitkering en de motivering daarvan;
 
@@ -104,7 +106,7 @@ De termijnen vangen aan op 1 januari van het jaar volgend op het jaar waarin de 
 
 4. Indien de uitkomsten van de controle daartoe aanleiding geven, is het UWV bevoegd om de eigenrisicodrager ten behoeve van de door de eigenrisicodrager te verrichten werkzaamheden instructies te geven.
 
-5. Indien de eigenrisicodrager zich niet of niet voldoende aan de in het vierde lid bedoelde instructies houdt, is het UWV bevoegd te bepalen dat de eigenrisicodrager in afwijking van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014926&artikel=2&z=2003-04-27&g=2006-01-01) gedurende een door het UWV vastgestelde periode voorstellen voor beslissingen ingevolge de [ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888), of onderdelen daarvan aan het UWV voorlegt.
+5. Indien de eigenrisicodrager zich niet of niet voldoende aan de in het vierde lid bedoelde instructies houdt, is het UWV bevoegd te bepalen dat de eigenrisicodrager in afwijking van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014926&artikel=2&z=2006-12-06&g=2006-12-06) gedurende een door het UWV vastgestelde periode voorstellen voor beslissingen ingevolge de [ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888), of onderdelen daarvan aan het UWV voorlegt.
 
 6. Gedurende de in het vijfde lid bedoelde periode legt de eigenrisicodrager een voorstel voor een beslissing voor aan het UWV op een door het UWV daartoe beschikbaar gesteld formulier.
 
@@ -124,15 +126,15 @@ De termijnen vangen aan op 1 januari van het jaar volgend op het jaar waarin de 
 
 1. De eigenrisicodrager verstrekt de gegevens die nodig zijn voor de uitvoering van de in [artikel 63a, eerste lid, van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=63a) genoemde werkzaamheden aan het UWV in de situatie dat het UWV werkzaamheden verricht voor de eigenrisicodrager.
 
-2. Indien de persoon, bedoeld in [artikel 63, eerste lid, van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=63), het UWV informatie heeft verstrekt ter nakoming van de verplichting, bedoeld in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=31), of [artikel 49 van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=49), deelt het UWV die informatie onverwijld mee aan de eigenrisicodrager met in achtneming van de medische besluitenregeling, neergelegd in de [derde afdeling, paragraaf 2, van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&paragraaf=2).
+2. Indien de persoon, bedoeld in [artikel 40, eerste lid, onderdeel a, van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=40), het UWV informatie heeft verstrekt ter nakoming van de verplichting, bedoeld in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=31), of [artikel 49 van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=49), deelt het UWV die informatie onverwijld mee aan de eigenrisicodrager met in achtneming van de medische besluitenregeling, neergelegd in de [derde afdeling, paragraaf 2, van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&paragraaf=2).
 
 ##### Artikel 5. Informatieverstrekking door de eigenrisicodrager aan het UWV
 
-Indien de eigenrisicodrager het vermoeden heeft dat de persoon, bedoeld in [artikel 63, eerste lid, van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=63), de verplichting, bedoeld in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=31), of [artikel 49 van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=49), niet of niet behoorlijk is nagekomen, deelt hij dit onverwijld mee aan het UWV.
+Indien de eigenrisicodrager het vermoeden heeft dat de persoon, bedoeld in [artikel 40, eerste lid, onderdeel a, van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=40), de verplichting, bedoeld in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=31), of [artikel 49 van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=49), niet of niet behoorlijk is nagekomen, deelt hij dit onverwijld mee aan het UWV.
 
 ##### Artikel 6. Kosten werkzaamheden verricht door het UWV
 
-1. Indien het UWV werkzaamheden als bedoeld in [artikel 63a, eerste lid, van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=63a) verricht, brengt het UWV de eigenrisicodrager ter zake van deze werkzaamheden per persoon als bedoeld in [artikel 63, eerste lid, ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=63) en per genoemd onderdeel de volgende bedragen in rekening.
+1. Indien het UWV werkzaamheden als bedoeld in [artikel 63a, eerste lid, van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=63a) verricht, brengt het UWV de eigenrisicodrager ter zake van deze werkzaamheden per persoon als bedoeld in [artikel 40, eerste lid, onderdeel a, van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=40) en per genoemd onderdeel de volgende bedragen in rekening.
 
 - a. Beoordeling Recht Ziektewet € 36;
 
