@@ -4,7 +4,7 @@ identifier: "BWBR0015731"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-24"
-last_updated: "2006-06-10"
+last_updated: "2006-12-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0015731"
 soort: "ministeriele-regeling"
@@ -70,7 +70,7 @@ Deze regeling is alleen van toepassing op aanvragen tot verlening van een vergun
 
 6. Voor de verklaring, bedoeld in het vierde lid, gebruikt de aanvrager de door het Agentschap Telecom opgestelde modelverklaring.
 
-7. Indien de aanvraag tot verlening van een vergunning betrekking heeft op frequentieruimte die is bestemd voor openbare elektronische communicatienetwerken of openbare elektronische communicatiediensten, kan de minister, naast de gegevens die worden gevraagd in het formulier, nadere gegevens vragen aan de aanvrager ter beoordeling van het bepaalde in [artikel 4, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0015731&hoofdstuk=3&paragraaf=1&artikel=4&z=2006-06-10&g=2006-06-10).
+7. Indien de aanvraag tot verlening van een vergunning betrekking heeft op frequentieruimte die is bestemd voor openbare elektronische communicatienetwerken of openbare elektronische communicatiediensten, kan de minister, naast de gegevens die worden gevraagd in het formulier, nadere gegevens vragen aan de aanvrager ter beoordeling van het bepaalde in [artikel 4, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0015731&hoofdstuk=3&paragraaf=1&artikel=4&z=2006-12-07&g=2006-12-07).
 
 ### Hoofdstuk 3. Toelatingscriteria
 
@@ -124,7 +124,7 @@ Deze regeling is alleen van toepassing op aanvragen tot verlening van een vergun
 
 ##### Artikel 7
 
-Een vergunning voor het gebruik van frequentieruimte voor ander gebruik dan bedoeld in de [artikelen 4 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0015731&hoofdstuk=3&paragraaf=1&artikel=4&z=2006-06-10&g=2006-06-10) wordt slechts verleend indien de aanvrager aantoont een redelijk belang te hebben bij de gevraagde vergunning.
+Een vergunning voor het gebruik van frequentieruimte voor ander gebruik dan bedoeld in de [artikelen 4 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0015731&hoofdstuk=3&paragraaf=1&artikel=4&z=2006-12-07&g=2006-12-07) wordt slechts verleend indien de aanvrager aantoont een redelijk belang te hebben bij de gevraagde vergunning.
 
 ### Hoofdstuk 4. Slotbepalingen
 
@@ -140,9 +140,9 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 
 Deze regeling wordt aangehaald als: Regeling aanvraag en toelating vergunningen voor het gebruik van frequentieruimte.
 
-## Bijlage. bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0015731&hoofdstuk=3&paragraaf=3&artikel=6&z=2006-06-10&g=2006-06-10) van de Regeling aanvraag en toelating vergunningen voor het gebruik van frequentieruimte
+## Bijlage. bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0015731&hoofdstuk=3&paragraaf=3&artikel=6&z=2006-12-07&g=2006-12-07) van de Regeling aanvraag en toelating vergunningen voor het gebruik van frequentieruimte
 
-| Categorie vergunningen | Toegestaan zendvermogen in watt (PEP)1Peak Envelope Power. | Frequentiebanden in MHz | Frequentiebanden in MHz | Status2P = Primaire status Amateurdienst, S = Secundaire status Amateurdienst. | Bijzondere bepalingen |
+| Categorie vergunningen | Toegestaan zendvermogen in watt (PEP)1Peak Envelope Power | Frequentiebanden in MHz | Frequentiebanden in MHz | Status2P = Primaire Status Amateurdienst, S = Secundaire Status Amateurdienst | Bijzondere bepalingen |
 | --- | --- | --- | --- | --- | --- |
 |   |   | van | tot |   |   |
 | F | 400 | 0.1357 | 0.1378 | S | Alleen de klasse A1A |
@@ -166,14 +166,14 @@ Deze regeling wordt aangehaald als: Regeling aanvraag en toelating vergunningen 
 | F | 400 | 436.0 | 440.0 | S |   |
 | F | 120 | 1240.0 | 1300.0 | S |   |
 | F | 120 | 2320.0 | 2400.0 | S |   |
-| F | 120 | 2400.0 | 2450.0 | S | Uitsluitend satelliet verkeer |
+| F | 120 | 2400.0 | 2450.0 | S | Uitsluitend satelliet-verkeer |
 | F | 120 | 3400.0 | 3410.0 | S |   |
 | F | 120 | 5650.0 | 5850.0 | S |   |
 | F | 120 | 10000.0 | 10500.0 | S |   |
 | F | 120 | 24000.0 | 24050.0 | P |   |
 | F | 120 | 24050.0 | 24250.0 | S |   |
 | F | 120 | 47000.0 | 47200.0 | P |   |
-| F | 120 | 75500.0 | 76000.0 | P | Deze toewijzing is geldig tot 2006 |
+| F | 120 | 75500.0 | 76000.0 | P |   |
 | F | 120 | 76000.0 | 77500.0 | S |   |
 | F | 120 | 77500.0 | 78000.0 | P |   |
 | F | 120 | 78000.0 | 81500.0 | S |   |
@@ -182,6 +182,9 @@ Deze regeling wordt aangehaald als: Regeling aanvraag en toelating vergunningen 
 | F | 120 | 136000.0 | 141000.0 | S |   |
 | F | 120 | 241000.0 | 248000.0 | S |   |
 | F | 120 | 248000.0 | 250000.0 | P |   |
+| N | 25 | 7.050 | 7.1 | P |   |
+| N | 25 | 14.0 | 14.25 | P |   |
+| N | 25 | 28.0 | 29.7 | P |   |
 | N | 25 | 144.0 | 146.0 | P |   |
 | N | 25 | 430.0 | 436.0 | P |   |
 | N | 25 | 436.0 | 440.0 | S |   |
