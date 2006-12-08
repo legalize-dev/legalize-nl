@@ -4,7 +4,7 @@ identifier: "BWBR0020606"
 country: "nl"
 rank: "wet"
 publication_date: "2009-05-01"
-last_updated: "2006-10-01"
+last_updated: "2006-12-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020606"
 soort: "wet"
@@ -40,7 +40,7 @@ entry_into_force: "2006-12-08"
 
 ##### Artikel I
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wegenverkeerswet 1994.
 
 ##### Artikel II
 
@@ -60,7 +60,7 @@ Wijzigt de Wijzigingswet Wegenverkeerswet 1994 (invoering bromfietsrijbewijs).
 
 ##### Artikel IVb
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wijzigingswet Wegenverkeerswet 1994 (invoering bromfietsrijbewijs).
 
 ##### Artikel V
 
@@ -72,4 +72,16 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VII
 
-Dit onderdeel is nog niet inwerking getreden
+1. Deze wet treedt in werking met ingang van een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
+
+2. [Artikel I, onderdeel Ca](https://wetten.overheid.nl/jci1.3:c:BWBR0020606&artikel=I&z=2006-12-08&g=2006-12-08), en [artikel IVb](https://wetten.overheid.nl/jci1.3:c:BWBR0020606&artikel=IVb&z=2006-12-08&g=2006-12-08) treden in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst.
+
+3. [Artikel IVa](https://wetten.overheid.nl/jci1.3:c:BWBR0020606&artikel=IVa&z=2006-12-08&g=2006-12-08) treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst en werkt terug tot en met 1 oktober 2006.
+
+Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
+
+Alzo Wij in overweging genomen hebben, dat het wenselijk is de [Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622) en enkele verwante wetten op een aantal punten van uiteenlopende aard te wijzigen;
+
+Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
