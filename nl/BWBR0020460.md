@@ -4,7 +4,7 @@ identifier: "BWBR0020460"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2006-12-08"
-last_updated: "2006-11-09"
+last_updated: "2006-12-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020460"
 soort: "ministeriele-regeling"
@@ -46,9 +46,9 @@ Wijzigt de de Kleine serie-regeling.
 
 ##### Artikel 3
 
-1. Indien artikel IVA van het bij koninklijke boodschap van 6 maart 2006 ingediende voorstel van wet tot wijziging van de Wegenverkeerswet 1994 en enkele verwante wetten op een aantal punten van uiteenlopende aard (Kamerstukken II 2005/06, 30 476) nadat het tot wet is verheven, in werking treedt, treedt [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0020460&artikel=1&z=2006-11-09&g=2006-11-09) van deze regeling op hetzelfde tijdstip in werking en werkt terug tot en met 1 oktober 2006.
+1. Indien artikel IVA van het bij koninklijke boodschap van 6 maart 2006 ingediende voorstel van wet tot wijziging van de Wegenverkeerswet 1994 en enkele verwante wetten op een aantal punten van uiteenlopende aard (Kamerstukken II 2005/06, 30 476) nadat het tot wet is verheven, in werking treedt, treedt [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0020460&artikel=1&z=2006-12-08&g=2006-12-08) van deze regeling op hetzelfde tijdstip in werking en werkt terug tot en met 1 oktober 2006.
 
-2. [Artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0020460&artikel=2&z=2006-11-09&g=2006-11-09) treedt in werking met ingang van 9 november 2006. Indien de Staatscourant waarin deze regeling wordt geplaatst, wordt uitgegeven na 7 november 2006, treedt [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0020460&artikel=2&z=2006-11-09&g=2006-11-09) in werking met ingang van de tweede dag na de datum van de Staatscourant waarin deze regeling wordt gepubliceerd en werkt deze wijziging terug tot en met 9 november 2006.
+2. [Artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0020460&artikel=2&z=2006-12-08&g=2006-12-08) treedt in werking met ingang van 9 november 2006. Indien de Staatscourant waarin deze regeling wordt geplaatst, wordt uitgegeven na 7 november 2006, treedt [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0020460&artikel=2&z=2006-12-08&g=2006-12-08) in werking met ingang van de tweede dag na de datum van de Staatscourant waarin deze regeling wordt gepubliceerd en werkt deze wijziging terug tot en met 9 november 2006.
 
 ##### Artikel 4
 
