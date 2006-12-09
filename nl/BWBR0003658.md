@@ -4,7 +4,7 @@ identifier: "BWBR0003658"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2016-07-20"
-last_updated: "2006-12-04"
+last_updated: "2006-12-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003658"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ Besluiten:
 
 De uit een oogpunt van volksgezondheid en goed landbouwkundig gebruik toelaatbare hoeveelheid van bestrijdingsmiddelen, bestanddelen daarvan of omzettingsproducten, aanwezig op of in:
 
-- a. onbewerkte of bewerkte eet- of drinkwaren, met uitzondering van: voor zover de producten uit de genoemde productgroepen onder 1 en 2 niet met name in [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0003658&bijlage=II&z=2006-12-04&g=2006-12-04) zijn genoemd, in welk geval het residugehalte niet hoger mag zijn dan in de desbetreffende bijlage met inachtneming van de daarbij gestelde aanwijzingen is aangegeven;
+- a. onbewerkte of bewerkte eet- of drinkwaren, met uitzondering van: voor zover de producten uit de genoemde productgroepen onder 1 en 2 niet met name in [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0003658&bijlage=II&z=2006-12-09&g=2006-12-09) zijn genoemd, in welk geval het residugehalte niet hoger mag zijn dan in de desbetreffende bijlage met inachtneming van de daarbij gestelde aanwijzingen is aangegeven;
 
 - 1. specerijen, bedoeld in het [Warenwetbesluit Specerijen en kruiden](https://wetten.overheid.nl/jci1.3:c:BWBR0009540);
 
@@ -56,13 +56,13 @@ De uit een oogpunt van volksgezondheid en goed landbouwkundig gebruik toelaatbar
 
 - 4. de waren, bedoeld in de [Warenwetregeling Babyvoeding](https://wetten.overheid.nl/jci1.3:c:BWBR0008503);
 
-- b. bewerkte eet- of drinkwaren, waarvoor in [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0003658&bijlage=II&z=2006-12-04&g=2006-12-04) geen afzonderlijk toegelaten gehalte is aangegeven, mag niet hoger zijn dan het in de voor onbewerkte eet- of drinkwaren vastgestelde gehalte, waarbij rekening gehouden wordt met de concentratie- of verdunningsfactor;
+- b. bewerkte eet- of drinkwaren, waarvoor in [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0003658&bijlage=II&z=2006-12-09&g=2006-12-09) geen afzonderlijk toegelaten gehalte is aangegeven, mag niet hoger zijn dan het in de voor onbewerkte eet- of drinkwaren vastgestelde gehalte, waarbij rekening gehouden wordt met de concentratie- of verdunningsfactor;
 
-- c. samengestelde eet- of drinkwaren mag niet hoger zijn dan het volgens [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0003658&bijlage=II&z=2006-12-04&g=2006-12-04), toegelaten gehalte van de afzonderlijke onbewerkte eet- of drinkwaren in het mengsel, waarbij rekening gehouden wordt met de relatieve concentraties van deze eet- of drinkwaren in het mengsel en met het gestelde onder b.
+- c. samengestelde eet- of drinkwaren mag niet hoger zijn dan het volgens [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0003658&bijlage=II&z=2006-12-09&g=2006-12-09), toegelaten gehalte van de afzonderlijke onbewerkte eet- of drinkwaren in het mengsel, waarbij rekening gehouden wordt met de relatieve concentraties van deze eet- of drinkwaren in het mengsel en met het gestelde onder b.
 
 ##### Artikel 2
 
-Bij de vaststelling van het ingevolge [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0003658&bijlage=II&z=2006-12-04&g=2006-12-04) toegelaten maximumgehalte dienen de bepalingen in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0003658&bijlage=I&z=2006-12-04&g=2006-12-04) in acht te worden genomen.
+Bij de vaststelling van het ingevolge [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0003658&bijlage=II&z=2006-12-09&g=2006-12-09) toegelaten maximumgehalte dienen de bepalingen in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0003658&bijlage=I&z=2006-12-09&g=2006-12-09) in acht te worden genomen.
 
 ##### Artikel 3
 
@@ -535,7 +535,7 @@ Deze regeling wordt aangehaald als: [Regeling residuen van bestrijdingsmiddelen]
 
 - 4. De in bijlage II gebezigde groepsaanduidingen van eet- en drinkwaren omvatten ten minste de hieronder in kolom II genoemde afzonderlijke producten.
 
-- 5. Voor de toepassing van [artikel 1, onder b van de Regeling residuen van bestrijdingsmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0003658&artikel=1&z=2006-12-04&g=2006-12-04) geldt dat voor de omrekening van het vochtgehalte van bewerkte producten naar dat in het onbewerkte product dient gebruik te worden gemaakt van de tabel gegeven in Section 201 in de Pesticide Analytical Manual, deel 1, uitgegeven door de Food and Drug Administration (United States of America).
+- 5. Voor de toepassing van [artikel 1, onder b van de Regeling residuen van bestrijdingsmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0003658&artikel=1&z=2006-12-09&g=2006-12-09) geldt dat voor de omrekening van het vochtgehalte van bewerkte producten naar dat in het onbewerkte product dient gebruik te worden gemaakt van de tabel gegeven in Section 201 in de Pesticide Analytical Manual, deel 1, uitgegeven door de Food and Drug Administration (United States of America).
 
 - 6. Bij verpakte bewerkte producten is het toegelaten maximum gehalte van toepassing op de totale inhoud, omgerekend op het verse product.
 
@@ -741,6 +741,8 @@ Deze regeling wordt aangehaald als: [Regeling residuen van bestrijdingsmiddelen]
 |   | - Veldsla |   |
 |   | - Sla |   |
 |   | - Andijvie |   |
+|   | - Bladeren en stengels van koolsoorten |   |
+|   | - Rucola |   |
 |   | - Groenlof |   |
 |   | - Radicchio rosso |   |
 |   | - Andere |   |
@@ -1419,33 +1421,13 @@ Door vernummering vervallen.
 |   |   |   | rozijnen | 5 |   |   |
 |   |   |   | overige | 0,1* |   |   |
 |   |   |   |   |   |   |   |
-| carbaryl | geen | carbaryl | pitvruchten | 3 |   |   |
-|   |   |   | steenvruchten | 3 |   |   |
-|   |   |   | tafel- en wijndruiven | 3 |   |   |
-|   |   |   | overig fruit | 1 |   |   |
-|   |   |   | wortel- en knolgewassen | 2 |   |   |
-|   |   |   | Solanaceae | 3 |   |   |
-|   |   |   | Cucurbitaceae (met eetbare schil) | 3 |   |   |
-|   |   |   | Cucurbitaceae (met niet-eetbare schil) | 3 |   |   |
-|   |   |   | bloemkoolachtigen | 3 |   |   |
-|   |   |   | sluitkoolachtigen | 3 |   |   |
-|   |   |   | bladkoolachtigen | 3 |   |   |
-|   |   |   | koolrabi | 2 |   |   |
-|   |   |   | sla | 3 |   |   |
-|   |   |   | andijvie | 3 |   |   |
-|   |   |   | overige groenten | 1 |   |   |
-|   |   |   | kousenbandboon | 1 |   |   |
-|   |   |   | sojabonen | 1 |   |   |
-|   |   |   | pinda's (met dop) | 2 |   |   |
-|   |   |   | katoenzaad | 1 |   |   |
-|   |   |   | aardappelen | 0,2 |   |   |
-|   |   |   | rijst | 1 |   |   |
-|   |   |   | overige granen | 0,5 |   |   |
-|   |   |   | vlees | 0,2 | 2) Het maximaal aanvaardbare residugehalte in vlees en bereidingen van vlees wordt uitgedrukt in mg/kg vet. Bedraagt het vetgehalte echter 10 gewichtsprocenten of minder, dan wordt het residu gerelateerd aan het totale gewicht van het uitgebeende product. Het maximaal toegelaten residu bedraagt dan 1/10 van de aan het vetgehalte gerelateerde waarde, maar 0,01 mg/kg. |   |
-|   |   |   | kippenvlees | 0,5 |   |   |
-|   |   |   | kippenhuid | 5 |   |   |
-|   |   |   | eieren | 0,5 |   |   |
-|   |   |   | overige | 0,1* |   |   |
+| carbaryl | geen | carbaryl | olijven (tafelolijven) | 5 |   | 31 |
+|   |   |   | olijven (voor olie-extractie) | 5 |   | 31 |
+|   |   |   | tomaten | 0,5 |   | 31 |
+|   |   |   | thee | 0,1* |   | 31 |
+|   |   |   | hop | 0,1* |   | 31 |
+|   |   |   | vlees | 0,05* | 1) in het vet | 31 |
+|   |   |   | overige | 0,05* |   | 31, 33, 34 |
 |   |   |   |   |   |   |   |
 | carbeetamide | aniline | aniline | zie aniline |   |   |   |
 |   |   |   |   |   |   |   |
@@ -1496,8 +1478,6 @@ Door vernummering vervallen.
 |   |   |   | overige plantaardige producten | 0,01* |   | 1 |
 |   |   |   |   |   |   |   |
 | cartap | nereïstoxine | nereïstoxine | zie nereïstoxine |   |   |   |
-|   |   |   |   |   |   |   |
-| carvon | geen | carvon | alle | 0,05* |   |   |
 |   |   |   |   |   |   |   |
 | chinomethionaat | geen | chinomethionaat | fruit | 0,3 |   |   |
 |   |   |   | groenten | 0,3 |   |   |
@@ -1807,13 +1787,13 @@ Door vernummering vervallen.
 |   |   |   |   |   |   |   |
 | cyazofamide | geen | cyazofamide | tafel- en wijndruiven | 0,5 |   |   |
 |   |   |   | tomaten | 0,2 |   |   |
-|   |   |   | komkommers | 0,1 |   |   |
+|   |   |   | Cucurbitacea (met eetbare schil) | 0,1 |   | 30 |
 |   |   |   | Cucurbitaceae (met niet-eetbare schil) | 0,1 |   |   |
 |   |   |   | oliehoudende zaden | 0,02* |   |   |
 |   |   |   | thee | 0,02* |   |   |
 |   |   |   | hop | 0,02* |   |   |
 |   |   |   | granen | 0,02* |   |   |
-|   |   |   | overige | 0,01* |   |   |
+|   |   |   | overige plantaardige producten | 0,01* |   |   |
 |   |   |   |   |   |   |   |
 | cycloaat | geen | cycloaat | alle | 0,05* |   |   |
 |   |   |   |   |   |   |   |
@@ -2023,41 +2003,50 @@ Door vernummering vervallen.
 |   |   |   | overige dierlijke oliën en vetten | 1 |   |   |
 |   |   |   | overige | 0,05* |   |   |
 |   |   |   |   |   |   |   |
-| deltamethrin | geen | deltamethrin | pitvruchten | 0,1 |   |   |
-|   |   |   | steenvruchten | 0,1 |   |   |
-|   |   |   | tafel- en wijndruiven | 0,1 |   |   |
+| deltamethrin | geen | cis-deltamethrin | appelen | 0,2 |   | 31 |
+|   |   |   | overige pitvruchten | 0,1 |   |   |
+|   |   |   | kersen | 0,2 |   | 31 |
+|   |   |   | overige steenvruchten | 0,1 |   |   |
+|   |   |   | tafel- en wijndruiven | 0,2 |   | 31 |
+|   |   |   | aardbeien (andere dan bosaardbeien) | 0,2 |   | 31 |
 |   |   |   | bramen | 0,5 |   |   |
 |   |   |   | frambozen | 0,5 |   |   |
-|   |   |   | aalbessen (rood, zwart en wit) | 0,2 |   |   |
+|   |   |   | aalbessen (rood, zwart en wit) | 0,5 |   | 31 |
 |   |   |   | kruisbessen (Cynorrhodom) | 0,2 |   |   |
-|   |   |   | olijven | 0,1* |   |   |
+|   |   |   | kiwi’s | 0,2 |   | 31 |
+|   |   |   | oijven (tafelolijven) | 1 |   | 31 |
+|   |   |   | olijven (voor olie-extractie) | 1 |   | 31 |
 |   |   |   | knoflook | 0,1 |   |   |
 |   |   |   | uien | 0,1 |   |   |
 |   |   |   | sjalotten | 0,1 |   |   |
 |   |   |   | bosuien | 0,1 |   |   |
-|   |   |   | Solanaceae | 0,2 |   |   |
-|   |   |   | Cucurbitaceae (met eetbare schil) | 0,1 |   |   |
+|   |   |   | tomaten | 0,3 |   | 31 |
+|   |   |   | aubergines | 0,3 |   | 31 |
+|   |   |   | okra | 0,3 |   | 31 |
+|   |   |   | overige Solanaceae | 0,2 |   |   |
+|   |   |   | Cucurbitaceae (met eetbare schil) | 0,2 |   | 31 |
+|   |   |   | Cucurbitaceae (met niet-eetbare schil) | 0,2 |   | 31 |
 |   |   |   | bloemkoolachtigen | 0,1 |   |   |
 |   |   |   | sluitkoolachtigen | 0,1 |   |   |
 |   |   |   | bladkoolachtigen | 0,5 |   |   |
 |   |   |   | sla en dergelijke | 0,5 |   |   |
 |   |   |   | spinazie en dergelijke | 0,5 |   |   |
 |   |   |   | kruiden | 0,5 |   |   |
-|   |   |   | bonen (met peul) | 0,2 |   |   |
-|   |   |   | erwten (met peul) | 0,1 |   |   |
+|   |   |   | peulgroenten (vers) | 0,2 |   | 31, 35 |
 |   |   |   | artisjokken | 0,1 |   |   |
 |   |   |   | prei | 0,2 |   |   |
 |   |   |   | peulvruchten | 1 |   |   |
 |   |   |   | kool- en raapzaad | 0,1 |   |   |
-|   |   |   | bewaaraardappelen | 0,5 |   |   |
+|   |   |   | mosterdzaad | 0,1 |   | 31 |
 |   |   |   | thee | 5 |   |   |
 |   |   |   | hop | 5 |   |   |
-|   |   |   | granen | 1 |   |   |
-|   |   |   | meel | 0,1 |   |   |
-|   |   |   | volkorenmeel | 0,5 |   |   |
-|   |   |   | zemelen (onbewerkt) | 2 |   |   |
-|   |   |   | pluimveevlees | 0,05* | 1) in het vet |   |
-|   |   |   | overige | 0,05* |   |   |
+|   |   |   | granen | 2 |   | 31 |
+|   |   |   | lever en nieren van slachtdieren | 0,03* | 1) in het vet | 31 |
+|   |   |   | pluimveevlees | 0,1 | 1) in het vet | 31 |
+|   |   |   | pluimveeproducten | 0,1 | 1) in het vet | 31 |
+|   |   |   | overig vlees | 0,5 | 1) in het vet | 31 |
+|   |   |   | melk | 0,05 |   | 31 |
+|   |   |   | overige | 0,05* |   | 36 |
 |   |   |   |   |   |   |   |
 | demeton (demeton-O en demeton-S) | demeton-sulfoxide en -sulfon | demeton-sulfon (thiolo-vorm) | alle | 0,05* |   |   |
 |   |   |   |   |   |   |   |
@@ -2414,24 +2403,20 @@ Door vernummering vervallen.
 |   |   |   | eieren | 0,01* |   |   |
 |   |   |   | overige | 0,02* |   |   |
 |   |   |   |   |   |   |   |
-| endosulfan | endosulfan-sulfaat | som van alfa- en bèta-endosulfan enendosulfan-sulfaat,uitgedrukt als endosulfan | citrusvruchten | 0,5 |   |   |
-|   |   |   | noten | 0,1* |   |   |
-|   |   |   | pitvruchten | 0,3 |   |   |
-|   |   |   | perziken, nectarines en | 0,5 |   |   |
-|   |   |   | soortgelijke kruisingen |   |   |   |
+| endosulfan | endosulfan-sulfaat | som van alfa- en bèta-endosulfan en endosulfan-sulfaat, uitgedrukt als endosulfan | noten | 0,1* |   |   |
+|   |   |   | peren | 0,3 |   | 31 |
 |   |   |   | tafel- en wijndruiven | 0,5 |   |   |
 |   |   |   | tomaten | 0,5 |   |   |
-|   |   |   | pepers (paprika's) | 1 |   |   |
-|   |   |   | Cucurbitaceae (met niet-eetbare schil) | 0,3 |   |   |
+|   |   |   | pepers (paprika’s) | 1 |   |   |
 |   |   |   | sojabonen | 0,5 |   |   |
-|   |   |   | katoenzaad | 0,3 |   |   |
+|   |   |   | katoenzaad | 5 |   | 31 |
 |   |   |   | overige oliehoudende zaden | 0,1* |   |   |
 |   |   |   | thee | 30 |   |   |
 |   |   |   | hop | 0,1* |   |   |
 |   |   |   | vlees | 0,1 | 2) Het maximaal aanvaardbare residugehalte in vlees en bereidingen van vlees wordt uitgedrukt in mg/kg vet. Bedraagt het vetgehalte echter 10 gewichtsprocenten of minder, dan wordt het residu gerelateerd aan het totale gewicht van het uitgebeende product. Het maximaal toegelaten residu bedraagt dan 1/10 van de aan het vetgehalte gerelateerde waarde, maar 0,01 mg/kg. |   |
 |   |   |   | melk | 0,004 | 3) Het maximaal aanvaardbare residugehalte in koemelk wordt uitgedrukt op basis van het product. Bij de vaststelling ervan is uitgegaan van een gewichtspercentage vet van 4%. Voor van andere dieren afkomstige melk en voor producten van melk worden residuen als volgt uitgedrukt. met een vetgehalte van minder dan 2 gewichtsprocenten is het maximumgehalte gelijk aan de helft van het voor melk vastgestelde maximumgehalte; met een vetgehalte van tenminste 2 gewichtsprocenten wordt het maximumgehalte uitgedrukt in mg/kg vet. In dit geval is het maximumgehalte 25-maal het voor melk vastgestelde maximumgehalte. |   |
 |   |   |   | eieren | 0,1* |   |   |
-|   |   |   | overige | 0,05* |   |   |
+|   |   |   | overige | 0,05* |   | 37 |
 |   |   |   |   |   |   |   |
 | endothal-natrium | geen | endothal-natrium | alle | 0,1* |   |   |
 |   |   |   |   |   |   |   |
@@ -2634,20 +2619,20 @@ Door vernummering vervallen.
 |   |   |   |   |   |   |   |
 | fenbuconazool | geen | fenbuconazool | alle | 0,05* |   |   |
 |   |   |   |   |   |   |   |
-| fenbutatinoxide | geen | fenbutatinoxide | citrusvruchten | 5 |   |   |
+| fenbutatin-oxide | geen | fenbutatin-oxide | citrusvruchten | 5 |   |   |
 |   |   |   | pitvruchten | 2 |   |   |
 |   |   |   | tafel- en wijndruiven | 2 |   |   |
 |   |   |   | aardbeien (andere dan bosaardbeien) | 1 |   |   |
+|   |   |   | bramen | 5 |   | 30 |
+|   |   |   | frambozen | 5 |   | 30 |
 |   |   |   | bananen | 3 |   |   |
-|   |   |   | tomaten | 1 |   |   |
-|   |   |   | pepers (paprika's) | 1 |   |   |
-|   |   |   | aubergines | 1 |   |   |
+|   |   |   | Solanaceae | 1 |   | 30, 38 |
 |   |   |   | komkommers | 0,5 |   |   |
 |   |   |   | courgettes | 0,5 |   |   |
 |   |   |   | thee | 0,1* |   |   |
 |   |   |   | hop | 0,1* |   |   |
-|   |   |   | vlees | 0,05* | 1) in het vet |   |
-|   |   |   | melk | 0,02* |   |   |
+|   |   |   | vlees | 0,05* |   |   |
+|   |   |   | melk | 0,02* | 1) in het vet |   |
 |   |   |   | overige | 0,05* |   |   |
 |   |   |   |   |   |   |   |
 | fenchloorfos | fenchloorfos-oxon | fenchloorfos | thee | 0,1* |   |   |
@@ -2671,24 +2656,19 @@ Door vernummering vervallen.
 |   |   |   | pepers (paprika’s) | 2 |   |   |
 |   |   |   | aubergines | 1 |   |   |
 |   |   |   | Cucurbitaceae (met eetbare schil) | 1 |   |   |
-|   |   |   | sla | 30 |   |   |
+|   |   |   | sla en dergelijke | 30 |   | 30 |
+|   |   |   | kruiden | 30 |   | 30 |
+|   |   |   | bonen (met peul) | 2 |   | 39 |
 |   |   |   | oliehoudende zaden | 0,1* |   |   |
 |   |   |   | thee | 0,1* |   |   |
 |   |   |   | hop | 0,1* |   |   |
 |   |   |   | overige | 0,05* |   |   |
 |   |   |   |   |   |   |   |
-| fenitrothion | geen | fenitrothion | citrusvruchten | 2 |   |   |
-|   |   |   | overig fruit | 0,5 |   |   |
-|   |   |   | groenten | 0,5 |   |   |
-|   |   |   | sojabonen | 0,1 |   |   |
-|   |   |   | aardappelen | 0,05* |   |   |
-|   |   |   | thee | 0,5 |   |   |
+| fenitrothion | geen | fenitrothion | thee | 0,5 |   |   |
+|   |   |   | hop | 0,02* |   | 31 |
 |   |   |   | granen | 0,5 |   |   |
 |   |   |   | cacaobonen | 0,1 |   |   |
-|   |   |   | vlees | 0,05* |   |   |
-|   |   |   | melk 0 | ,002* |   |   |
-|   |   |   | overige dierlijke oliën en vetten | 0,05* |   |   |
-|   |   |   | overige | 0,02* |   |   |
+|   |   |   | overige plantaardige producten | 0,01* |   | 31, 40 |
 |   |   |   |   |   |   |   |
 | fenmedifam | 3-methylaniline | fenmedifam | alle | 0,05* |   |   |
 |   |   |   |   |   |   |   |
@@ -3278,15 +3258,14 @@ Door vernummering vervallen.
 |   |   |   | knolselderij | 0,5 | 0,5 |   |   |
 |   |   |   | pastinaken | 0,2 | 0,2 |   |   |
 |   |   |   | wortelpeterselie | 0,2 | 0,2 |   |   |
-|   |   |   | peterselie | 1 | 1 |   |   |
-|   |   |   | selderijbladeren | 1 | 1 |   |   |
+|   |   |   | kruiden | 1 | 1 |   | 30 |
 |   |   |   | bonen (zonder peul) | 0,1 | 0,1 |   |   |
 |   |   |   | erwten (zonder peul) | 0,1 | 0,1 |   |   |
 |   |   |   | bleekselderij | 0,1 | 0,1 |   |   |
 |   |   |   | oliehoudende zaden | 0,1* | 0,1* |   |   |
 |   |   |   | thee | 0,1* | 0,1* |   |   |
 |   |   |   | hop | 0,1* | 0,1* |   |   |
-|   |   |   | overige | 0,05* | 0,05* |   |   |
+|   |   |   | overige | 0,05* | 0,05* |   | 44 |
 |   |   |   |   |   |   |   |   |
 | malathion | malaoxon | malathion | citrusvruchten | 2 | 2 |   |   |
 |   |   |   | overig fruit | 0,5 | 0,5 |   |   |
@@ -3412,14 +3391,14 @@ Door vernummering vervallen.
 |   |   |   |   |   |   |   |   |
 | methidathion | geen | methidathion | citrusvruchten | 2 | 2 |   |   |
 |   |   |   | noten | 0,05* | 0,05* |   |   |
-|   |   |   | pitvruchten | 0,3 | 0,3 |   |   |
-|   |   |   | steenvruchten (behalve kersen) | 0,2 | 0,2 |   |   |
-|   |   |   | tafel- en wijndruiven | 0,5 | 0,5 |   |   |
-|   |   |   | olijven | 1 | 1 |   |   |
+|   |   |   | perziken, nectarines en soortgelijke vruchten daaronder begrepen | 0,05 | 0,05 |   | 31 |
+|   |   |   | pruimen | 0,2 | 0,2 |   | 31 |
+|   |   |   | olijven (tafelolijven) | 1 | 1 |   |   |
+|   |   |   | olijven (voor olie-extractie) | 1 | 1 |   |   |
 |   |   |   | kool- en raapzaad | 0,05 | 0,05 |   |   |
 |   |   |   | thee | 0,1* | 0,1* |   |   |
-|   |   |   | hop | 3 | 3 |   |   |
-|   |   |   | overige | 0,02* | 0,02* |   |   |
+|   |   |   | hop | 0,1* | 0,1* |   | 31 |
+|   |   |   | overige | 0,02* | 0,02* |   | 41 |
 |   |   |   |   |   |   |   |   |
 | methiocarb | methiocarbsulfoxide en -sulfon | methiocarb | komkommers | 0,5 | 0,5 |   |   |
 |   |   |   | meloenen | 0,5 | 0,5 |   |   |
@@ -3634,14 +3613,17 @@ Door vernummering vervallen.
 |   |   |   |   |   |   |   |   |
 | oxadixyl | geen | oxadixyl | alle | 0,05* | 0,05* |   |   |
 |   |   |   |   |   |   |   |   |
-| oxamyl | oxamyl-oxim | oxamyl | bananen | 0,05 | 0,05 |   |   |
-|   |   |   | Solanaceae | 2 | 2 |   |   |
-|   |   |   | Cucurbitaceae (met eetbare schil) | 2 | 2 |   |   |
-|   |   |   | Cucurbitaceae (met niet-eetbare schil) | 2 | 2 |   |   |
-|   |   |   | sla | 0,5 | 0,5 |   |   |
-|   |   |   | andijvie | 0,5 | 0,5 |   |   |
-|   |   |   | bonen (met peul) | 0,2 | 0,2 |   |   |
-|   |   |   | overige | 0,02* | 0,02* |   |   |
+| oxamyl | geen | oxamyl | mandarijnen, clementines en soortgelijke kruisingen van citrusvruchten | 0,02 | 0,02 |   | 31 |
+|   |   |   | tomaten | 0,02 | 0,02 |   | 31 |
+|   |   |   | pepers (paprika’s) | 0,02 | 0,02 |   | 31 |
+|   |   |   | aubergines | 0,02 | 0,02 |   | 31 |
+|   |   |   | komkommers | 0,02 | 0,02 |   | 31 |
+|   |   |   | augurken | 0,02 | 0,02 |   | 31 |
+|   |   |   | courgettes | 0,03 | 0,03 |   | 31 |
+|   |   |   | oliehoudende zaden | 0,02* | 0,02* |   | 31 |
+|   |   |   | thee | 0,02* | 0,02* |   | 31 |
+|   |   |   | hop | 0,02* | 0,02* |   | 31 |
+|   |   |   | overige plantaardige producten | 0,01* | 0,01* |   | 31, 42 |
 |   |   |   |   |   |   |   |   |
 | oxasulfuron | geen | oxasulfuron | thee | 0,1* | 0,1* |   |   |
 |   |   |   | hop | 0,1* | 0,1* |   |   |
@@ -3973,12 +3955,13 @@ Door vernummering vervallen.
 |   |   |   | Cucurbitaceae (met eetbare schil) | 0,5 | 0,5 |   |   |
 |   |   |   | Cucurbitaceae (met niet-eetbare schil) | 0,2 | 0,2 |   |   |
 |   |   |   | sluitkool | 0,05 | 0,05 |   |   |
-|   |   |   | boerenkool | 0,1 | 0,1 |   |   |
-|   |   |   | sla en dergelijke | 1 | 1 |   |   |
+|   |   |   | bladkoolachtigen | 0,2 | 0,2 |   | 30, 43 |
+|   |   |   | sla en dergelijke | 2 | 2 |   | 30 |
 |   |   |   | kruiden | 1 | 1 |   |   |
+|   |   |   | peulgroenten (vers) | 1 | 1 |   | 30 |
 |   |   |   | katoenzaad | 0,05 | 0,05 |   |   |
 |   |   |   | thee | 0,1* | 0,1* |   |   |
-|   |   |   | hop | 5 | 5 |   |   |
+|   |   |   | hop | 15 | 15 |   | 30 |
 |   |   |   | vlees | 0,01* | 0,01* |   |   |
 |   |   |   | melk | 0,01* | 0,01* |   |   |
 |   |   |   | eieren | 0,01* | 0,01* |   |   |
@@ -3986,18 +3969,41 @@ Door vernummering vervallen.
 |   |   |   |   |   |   |   |   |
 | pyracarbolide | aniline | aniline | zie aniline |   |   |   |   |
 |   |   |   |   |   |   |   |   |
-| pyraclostrobine | geen | pyraclostrobine | aardbeien (andere dan bosaardbeien) | 0,5 | 0,5 |   |   |
-|   |   |   | wortelen | 0,5 | 0,5 |   |   |
-|   |   |   | bloemkoolachtigen | 0,5 | 0,5 |   |   |
-|   |   |   | spruitjes | 0,5 | 0,5 |   |   |
-|   |   |   | sluitkool | 0,1 | 0,1 |   |   |
-|   |   |   | bladkoolachtigen | 1,0 | 1,0 |   |   |
-|   |   |   | prei | 1,0 | 1,0 |   |   |
+| pyraclostrobine | geen | pyraclostrobine | citrusvruchten | 1 | 1 |   | 30 |
+|   |   |   | pistaches | 1 | 1 |   | 30 |
+|   |   |   | pitvruchten | 0,3 | 0,3 |   | 30 |
+|   |   |   | abrikozen | 0,2 | 0,2 |   | 30 |
+|   |   |   | kersen | 0,2 | 0,2 |   | 30 |
+|   |   |   | perziken, nectarines en soortgelijke kruisingen daaronder begrepen | 0,2 | 0,2 |   | 30 |
+|   |   |   | pruimen | 0,1 | 0,1 |   | 30 |
+|   |   |   | tafeldruiven | 1 | 1 |   | 30 |
+|   |   |   | wijndruiven | 2 | 2 |   | 30 |
+|   |   |   | aardbeien (andere dan bosaardbeien) | 0,5 | 0,5 |   |   |
+|   |   |   | mango’s | 0,05 | 0,05 |   | 30 |
+|   |   |   | papaja’s | 0,05 | 0,05 |   | 30 |
+|   |   |   | wortelen | 0,1 | 0,1 |   | 30 |
+|   |   |   | mierikswortel | 0,3 | 0,3 |   | 30 |
+|   |   |   | pastinaken | 0,3 | 0,3 |   | 30 |
+|   |   |   | knoflook | 0,2 | 0,2 |   | 30 |
+|   |   |   | uien | 0,2 | 0,2 |   | 30 |
+|   |   |   | sjalotten | 0,2 | 0,2 |   | 30 |
+|   |   |   | tomaten | 0,2 | 0,2 |   | 30 |
+|   |   |   | pepers (paprika’s) | 0,5 | 0,5 |   | 30 |
+|   |   |   | aubergines | 0,2 | 0,2 |   | 30 |
+|   |   |   | bloemkoolachtigen | 0,1 | 0,1 |   | 30 |
+|   |   |   | spruitjes | 0,2 | 0,2 |   | 30 |
+|   |   |   | sluitkool | 0,2 | 0,2 |   | 30 |
+|   |   |   | sla en dergelijke | 2 | 2 |   | 30 |
+|   |   |   | kruiden | 2 | 2 |   | 30 |
+|   |   |   | prei | 0,5 | 0,5 |   | 30 |
+|   |   |   | peulvruchten | 0,3 | 0,3 |   | 30 |
+|   |   |   | thee | 0,05* | 0,05* |   | 30 |
+|   |   |   | hop | 10 | 10 |   | 30 |
 |   |   |   | tarwe, rogge en triticale | 0,1 | 0,1 |   |   |
 |   |   |   | gerst | 0,2 | 0,2 |   |   |
+|   |   |   | overige plantaardige producten | 0,02* | 0,02* |   |   |
 |   |   |   | melk | 0,01* | 0,01* |   |   |
 |   |   |   | overige dierlijke producten | 0,05* | 0,05* |   |   |
-|   |   |   | overige | 0,02* | 0,02* |   |   |
 |   |   |   |   |   |   |   |   |
 | pyraflufen-ethyl | geen | pyraflufen-ethyl | noten | 0,1* | 0,1* |   |   |
 |   |   |   | oliehoudende zaden | 0,05* | 0,05* |   |   |
@@ -4104,7 +4110,11 @@ Door vernummering vervallen.
 |   |   |   | granen | 0,1 | 0,1 |   |   |
 |   |   |   | overige | 0,05* | 0,05* |   |   |
 |   |   |   |   |   |   |   |   |
-| spinosad | geen | som van spinosyn A en spinosyn B | Solanacea | 1,0 | 1,0 |   |   |
+| spinosad | geen | som van spinosyn A en spinosyn B | pitvruchten | 0,2 | 0,2 |   | 32 |
+|   |   |   | perziken, nectarines en soortgelijke kruisingen daaronder begrepen | 1 | 1 |   | 32 |
+|   |   |   | aardbeien (andere dan bosaardbeien) | 0,3 | 0,3 |   | 32 |
+|   |   |   | tafel- en wijndruiven | 0,2 | 0,2 |   | 32 |
+|   |   |   | Solanacea | 1 | 1 |   |   |
 |   |   |   | overige | 0,01* | 0,01* |   |   |
 |   |   |   |   |   |   |   |   |
 | spirodiclofen | geen | spirodiclofen | pitvruchten | 0,1 | 0,1 |   |   |
@@ -4314,8 +4324,9 @@ Door vernummering vervallen.
 |   |   |   | appelen | 0,2 | 0,2 |   |   |
 |   |   |   | tafel- en wijndruiven | 2 | 2 |   |   |
 |   |   |   | aardbeien (andere dan bosaardbeien) | 0,5 | 0,5 |   |   |
+|   |   |   | Ander klein fruit en besvruchten(voor zover niet wild) | 1 | 1 |   | 30 |
 |   |   |   | bananen | 0,2 | 0,2 |   |   |
-|   |   |   | ananassen | 3 | 3 | 23) waarvan maximaal 1 mg/kg afkomstig van triadimenol. |   |
+|   |   |   | ananassen | 3 | 3 |   | 30 |
 |   |   |   | uien | 0,5 | 0,5 |   |   |
 |   |   |   | bosuien | 1 | 1 |   |   |
 |   |   |   | tomaten | 0,3 | 0,3 |   |   |
@@ -4354,19 +4365,19 @@ Door vernummering vervallen.
 |   |   |   | pitvruchten | 0,5 | 0,5 |   |   |
 |   |   |   | abrikozen | 1 | 1 |   | 1 |
 |   |   |   | kersen | 1 | 1 |   | 1 |
-|   |   |   | perziken, nectarines en soortgelijke kruisingen daaronder begrepen | 1 | 1 |   | 1 |
-|   |   |   | tafel- en wijndruiven | 5 | 5 |   | 1 |
+|   |   |   | perziken, nectarines en soortgelijke | 1 | 1 |   | 1 |
+|   |   |   | kruisingen daaronder begrepen | 5 | 5 |   | 1 |
+|   |   |   | tafel- en wijndruiven | 1 | 1 |   | 1 |
 |   |   |   | aalbessen (rood, zwart en wit) | 1 | 1 |   | 1 |
-|   |   |   | kruisbessen (Cynorrhodom) | 1 | 1 |   | 1 |
-|   |   |   | bananen | 0,05 | 0,05 |   | 1 |
-|   |   |   | tomaten | 0,5 | 0,5 |   | 1 |
-|   |   |   | Cucurbitacea (met eetbare schil) | 0,2 | 0,2 |   | 1 |
-|   |   |   | meloenen | 0,03 | 0,03 |   | 1 |
+|   |   |   | kruisbessen (Cynorrhodom) | 0,05 | 0,05 |   | 1 |
+|   |   |   | bananen | 0,5 | 0,5 |   | 1 |
+|   |   |   | tomaten | 0,2 | 0,2 |   | 1 |
+|   |   |   | Cucurbitacea (met eetbare schil) | 0,3 | 0,3 |   | 1 |
+|   |   |   | Meloenen | 0,05* | 0,05* |   | 1 |
 |   |   |   | oliehoudende zaden | 0,05* | 0,05* |   | 1 |
-|   |   |   | thee | 0,05* | 0,05* |   | 1 |
-|   |   |   | hop | 30 | 30 |   | 1 |
-|   |   |   | rogge, tarwe en triticale | 0,05 | 0,05 |   | 1 |
-|   |   |   | gerst | 0,3 | 0,3 |   | 1 |
+|   |   |   | thee | 30 | 30 |   | 1 |
+|   |   |   | hop | 0,05 | 0,05 |   | 1 |
+|   |   |   | rogge, tarwe en triticale gerst | 0,3 | 0,3 |   | 1 |
 |   |   |   | overige plantaardige producten | 0,02* | 0,02* |   | 1 |
 |   |   |   |   |   |   |   |   |
 | trichlofenidine | geen | trichlofenidine | alle | 0,01* | 0,01* |   |   |
@@ -4511,9 +4522,39 @@ Motief:
 
 - 4. Het maximumgehalte voor kool- en raapzaad is verlaagd en opgenomen in oliehoudende zaden.
 
+- 30. Aanpassing aan richtlijn 2006/53/EG van 7 juni 2006 (PbEU L 154).
+
+- 31. Aanpassing aan richtlijn 2006/59/EG van 28 juni 2006 (PbEU L 175).
+
+- 32. Voorlopige MRL ingevolge artikel 5 ter van richtlijn 90/642/EEG.
+
+- 33. De maximumgehalten voor pitvruchten, steenvruchten, tafel- en wijndruiven, overig fruit (met uitzondering van olijven), wortel- en knolgewassen, Solanaceae (behalve tomaten), Cucurbitaceae (met eetbare schil), Cucurbitaceae (met niet-eetbare schil), bloemkoolachtigen, sluitkoolachtigen, bladkoolachtigen, koolrabi, sla, andijvie, overige groenten, kousenbandboon, sojabonen, pinda’s (met dop), katoenzaad, aardappelen, rijst, en overige granen zijn verlaagd tot de ondergrens van de analytische bepaling en opgenomen in overige.
+
+- 34. De maximumgehalten voor eieren zijn verlaagd tot de ondergrens van de analytische bepaling en opgenomen in overige.
+
+- 35. Bonen (met peul) en erwten (met peul) zijn opgenomen in peulgroenten (vers).
+
+- 36. Het maximumgehaltevoor bewaaraardappelen is verlaagd tot de ondergrens van de analytische bepaling en opgenomen in overige.
+
+- 37. De maximumgehalten voor citrusvruchten, pitvruchten (behalve peren), perziken, nectarines en soortgelijke kruisingen, Cucurbitaceae (met niet-eetbare schil) zijn verlaagd tot de ondergrens van de analytische bepaling en opgenomen in overige.
+
+- 38. Tomaten, pepers (paprika’s) en aubergines zijn opgenomen in Solanaceae.
+
+- 39. Voorlopige toelating. De MRL is vastgesteld door Nederland overeenkomstig artikel 4, lid 1, onder f), van richtlijn 91/414/EEG waarbij lidstaten voorlopige MRLs kunnen vaststellen.
+
+- 40. De maximumgehalten voor citrusvruchten, overig fruit, groenten, sojabonen en aardappelen zijn verlaagd tot de ondergrens van de analytische bepaling en opgenomen in overige plantaardige producten.
+
+- 41. De maximugehalten voor pitvruchten, steenvruchten (behalve perziken, nectarines en soortgelijke kruisingen daaronder begrepen en pruimen) en tafel- en wijndruiven zijn verlaagd tot de ondergrens van de analytische bepaling en opgenomen in overige.
+
+- 42. De maximumgehalten voor bananen, sla, andijvie en bonen (met peul) zijn verlaagd tot de ondergrens van de analytische bepaling en opgenomen in overige plantaardige producten.
+
+- 43. Boerenkool is opgenomen in bladkoolachtigen.
+
+- 44. De maximumgehalten voor peterselie en selderijbladeren zijn verlaagd tot de ondergrens van de analytische bepaling en opgenomen in overige plantaardige producten.
+
 ##### Artikel 1a
 
-In afwijking van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003658&artikel=1&z=2006-12-04&g=2006-12-04) is een hoeveelheid van bestrijdingsmiddelen, bestanddelen daarvan of omzettingsproducten, aanwezig op of in een eetwaar op basis van een landbouwproduct, eveneens aanvaardbaar uit oogpunt van volksgezondheid en goed landbouwkundig gebruik, voor zover:
+In afwijking van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003658&artikel=1&z=2006-12-09&g=2006-12-09) is een hoeveelheid van bestrijdingsmiddelen, bestanddelen daarvan of omzettingsproducten, aanwezig op of in een eetwaar op basis van een landbouwproduct, eveneens aanvaardbaar uit oogpunt van volksgezondheid en goed landbouwkundig gebruik, voor zover:
 
 - a. het desbetreffende landbouwproduct in de handel is gebracht in een lidstaat van de Europese Unie die voor dat landbouwproduct een voorlopig maximum residugehalte heeft vastgesteld en die lidstaat dat voorlopig maximum heeft medegedeeld aan de Commissie van de Europese Unie overeenkomstig artikel 4, eerste lid, onder f, van richtlijn nr. 91/414/EEG van de Raad van de Europese Gemeenschappen van 15 juli 1991 betreffende het op de markt brengen van gewasbeschermingsmiddelen (PbEG L 414); en
 
