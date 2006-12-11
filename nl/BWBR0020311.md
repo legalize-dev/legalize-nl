@@ -1,0 +1,185 @@
+---
+title: "Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 18 september 2006, nr. DJZ2006303617, houdende vaststelling van de bij de aanvraag, bedoeld in artikel 3, eerste lid, van het Subsidiebesluit experimenten en kennisoverdracht wonen over te leggen gegevens en bescheiden alsmede van het model voor de verklaring, bedoeld in artikel 6, derde lid, van dat besluit en het model voor de accountantsverklaring, bedoeld in artikel 14, derde lid, van dat besluit (Regeling Subsidiebesluit experimenten en kennisoverdracht wonen)"
+identifier: "BWBR0020311"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2006-12-11"
+last_updated: "2006-12-11"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0020311"
+soort: "ministeriele-regeling"
+stam_id: "8637203"
+version_id: "13624702"
+internal_id: "C18646481"
+label_id: "8617444"
+dtd_version: "2.0"
+original_entry_into_force: "2006-12-11"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0020311/2006-12-11/0"
+intitule_bron: "Stcrt.2006-195"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-09-18"
+intitule_published: "2006-10-06"
+intitule_in_force: "2006-12-05"
+intitule_status: "goed"
+original_publication: "Stcrt.2006-195"
+original_signed_date: "2006-09-18"
+original_published_date: "2006-10-06"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2006-195-p7-SC77087"
+entry_into_force_date: "2006-12-11"
+jci_1_3: "jci1.3:c:BWBR0020311&z=2006-12-11&g=2006-12-11"
+jci_1_0: "1.0:c:BWBR0020311&g=2006-12-11"
+citeertitel_status: "officieel"
+short_title: "Regeling Subsidiebesluit experimenten en kennisoverdracht wonen"
+signed_date: "2006-09-18"
+entry_into_force: "2006-12-11"
+---
+# Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 18 september 2006, nr. DJZ2006303617, houdende vaststelling van de bij de aanvraag, bedoeld in artikel 3, eerste lid, van het Subsidiebesluit experimenten en kennisoverdracht wonen over te leggen gegevens en bescheiden alsmede van het model voor de verklaring, bedoeld in artikel 6, derde lid, van dat besluit en het model voor de accountantsverklaring, bedoeld in artikel 14, derde lid, van dat besluit (Regeling Subsidiebesluit experimenten en kennisoverdracht wonen)
+
+Gelet op de [artikelen 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020333&artikel=3), [6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020333&artikel=6), en [14, vierde lid, van het Subsidiebesluit experimenten en kennisoverdracht wonen](https://wetten.overheid.nl/jci1.3:c:BWBR0020333&artikel=14);
+
+Besluit:
+
+Treedt in werking op het tijdstip waarop het Subsidiebesluit experimenten en kennisoverdracht wonen in werking treedt.
+
+##### Artikel 1
+
+Bij de aanvraag tot subsidieverlening, bedoeld in [artikel 3, eerste lid, van het Subsidiebesluit experimenten en kennisoverdracht wonen](https://wetten.overheid.nl/jci1.3:c:BWBR0020333&artikel=3), worden de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0020311&bijlage=I&z=2006-12-11&g=2006-12-11) bij deze regeling genoemde gegevens en bescheiden overgelegd.
+
+##### Artikel 2
+
+De verklaring omtrent de minimis-steun, bedoeld in [artikel 6, derde lid, van het Subsidiebesluit experimenten en kennisoverdracht wonen](https://wetten.overheid.nl/jci1.3:c:BWBR0020333&artikel=6), wordt opgesteld overeenkomstig het in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0020311&bijlage=II&z=2006-12-11&g=2006-12-11) bij deze regeling opgenomen model.
+
+##### Artikel 3
+
+De verklaring, bedoeld in [artikel 14, derde lid, van het Subsidiebesluit experimenten en kennisoverdracht wonen](https://wetten.overheid.nl/jci1.3:c:BWBR0020333&artikel=14), wordt opgesteld overeenkomstig het in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0020311&bijlage=III&z=2006-12-11&g=2006-12-11) bij deze regeling opgenomen model.
+
+##### Artikel 4
+
+Deze regeling treedt in werking op het tijdstip waarop het [Subsidiebesluit experimenten en kennisoverdracht wonen](https://wetten.overheid.nl/jci1.3:c:BWBR0020333) in werking treedt.
+
+##### Artikel 5
+
+Deze regeling wordt aangehaald als: Regeling Subsidiebesluit experimenten en kennisoverdracht wonen.
+
+## Bijlage I. bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0020311&artikel=1&z=2006-12-11&g=2006-12-11)
+
+### **Bij de aanvraag tot subsidieverlening op grond van artikel 3, eerste lid, van het Subsidiebesluit experimenten en kennisoverdracht wonen over te leggen gegevens en bescheiden**
+
+## Bijlage II. bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0020311&artikel=2&z=2006-12-11&g=2006-12-11)
+
+### **Modelverklaring de minimis-steun**
+
+### **Inleiding**
+
+Bij verordening is de Commissie van de Europese Gemeenschappen (hierna: de Commissie) de bevoegdheid toegekend bij verordening een drempel vast te stellen waaronder steunmaatregelen worden geacht niet aan de criteria van artikel 87, eerste lid, van het Verdrag tot oprichting van de Europese Gemeenschap te voldoen en derhalve niet hoeven te worden aangemeld. Een dergelijke verordening is op 12 januari 2001 gepubliceerd.
+
+Er moet aan een aantal voorwaarden worden voldaan. De Commissie ziet erop toe dat deze staatssteunregels worden nageleefd en de voorwaarden in acht worden genomen.
+
+Eén van de voorwaarden is dat het totale bedrag van de minimis-steun die is verleend aan één onderneming niet hoger mag zijn dan € 100.000 over een periode van drie jaar. Dit plafond is van toepassing ongeacht de vorm van de steun en ongeacht het daamee beoogde doel.
+
+### **Verklaring**
+
+Hierbij verklaart ondergetekende, dat aan de hierna genoemde onderneming alsmede aan het eventuele gehele moederconcern waartoe de onderneming behoort*
+
+□ over de periode van [dd-mm-jjjj] (datum drie jaar vóór de datum van ondertekening van deze verklaring) tot [dd-mm-jjjj] (datum van ondertekening van deze verklaring) eerder de minimis-steun (in welke vorm of voor welk doel dan ook) is verleend (of al daadwerkelijk is uitbetaald doet niet ter zake) tot een totaal bedrag van: .............
+
+Een kopie van de gegevens waaruit het verlenen van de minimis-steun blijkt wordt bijgaand verstrekt.
+
+□ over de periode van [dd-mm-jjjj] (datum drie jaar vóór de datum van ondertekening van deze verklaring) tot [dd-mm-jjjj] (datum van ondertekening van deze verklaring) niet eerder de minimis-steun is verleend.
+
+Tevens verklaart ondergetekende dat de hierna genoemde onderneming niet werkzaam is in de vervoers-, de landbouw-, de visserij- of de aquacultuursector.
+
+................................... (bedrijfsnaam)
+
+.............................................................. (naam functionaris en functie)
+
+.................................................... (adres)
+
+........................ (postcode en plaats)
+
+[dd-mm-jjjj]( datum) .........................
+
+................................... (handtekening)
+
+* aankruisen wat van toepassing is
+
+### Toelichting modelverklaring de minimis-steun
+
+### **De minimis-verordening**
+
+Niet aanmeldingsplichtig voor staatssteun is de overheidsbijdrage die voldoet aan de Verordening (EG) nr. 69/2001 van de Commissie van de Europese Gemeenschappen van 12 januari 2001 betreffende de toepassing van artikel 87 en 88 van het EG-verdrag op de minimis-steun (PbEG L 10) (hierna: de minimis-verordening).
+
+Steun, waarvan het bedrag over een periode van drie jaar voor een onderneming niet uitgaat boven € 100.000 valt krachtens die verordening niet onder artikel 87 EG. Deze verordening is evenwel niet van toepassing op de sectoren vervoer, landbouw, visserij en aquacultuur.
+
+Voor de toepassing van de verordening gelden strenge regels over cumulering en controle.
+
+### **Het begrip onderneming**
+
+Het begrip ‘onderneming’ is in jurisprudentie van het Hof van Justitie van de Europese Gemeenschappen omschreven als ‘elke eenheid die een economische activiteit uitoefent, ongeacht haar rechtsvorm en de wijze waarop zij wordt gefinancierd’ (Höfner arrest 23 april 1991 in zaak C-41/90, Jur. 1991, I-1797). Niet alleen privaatrechtelijke rechtspersonen kunnen derhalve een onderneming vormen, ook een publiekrechtelijke instelling kan als zodanig worden aangemerkt, terwijl daarbij ook niet de eis van de eigen rechtspersoonlijkheid gesteld mag worden. Onder ‘economische activiteit’ moet worden verstaan ‘het aanbieden van goederen en diensten op de markt’ (arrest van 16 juni 1987 in zaak C-118/85, Jur. 1987, I-2619).
+
+Voor de bepaling of er sprake is van een onderneming in Europeesrechtelijke zin is samengevat van belang:
+
+Ad 1. Om bepaalde activiteiten als ondernemingsactiviteiten te bestempelen zijn van belang de aard van de activiteiten, hun doel en de regels waaraan zij zijn onderworpen. Er is een onderscheid tussen het uitoefenen van overheidsgezag en het verrichten van economische activiteiten van industriële of commerciële aard (Diego Cali arrest 18 maart 1997 in zaak C-243/95, Jur. 1997, I-1547). Bij het uitoefenen van overheidsgezag is niet van belang of de Staat rechtstreeks via een tot het openbaar bestuur behorend orgaan handelt dan wel via een lichaam waaraan hij bijzondere of exclusieve rechten heeft verleend.
+
+Centraal staat de onderneming die uiteindelijk feitelijk profiteert van de steunverlening, dat wil zeggen de onderneming die een voordeel geniet dat onder normale marktcondities niet zou zijn genoten.
+
+Ad 2. Tevens is van belang of er sprake is van een activiteit in concurrentie met andere ondernemingen. Zo is een orgaan zonder winstoogmerk dat een economische activiteit in concurrentie met andere ondernemingen uitoefent als ‘onderneming’ aan te merken (FFSA -arrest 16 november 1995 in zaak C-244/94, Jur. 1995, I-4013).
+
+### **Periode van de minimis-steun**
+
+Ten aanzien van de periode van de minimis-steun zijn een aantal aspecten van belang:
+
+De toetsing of de onderneming voldoet aan de voorwaarde aangaande de periode van reeds verleende de minimis-steun vindt mede plaats aan de hand van de verklaring die de onderneming daarover voorafgaand moet invullen.
+
+### **Gevolgen kwalificatie van de subsidie als de minimis-steun**
+
+Het is van groot belang dat in de beschikking tot subsidieverlening wordt opgenomen dat het de minimis-steun betreft. Hierdoor is duidelijk kenbaar voor het bedrijf dat er sprake is van de minimis-steun en zal het bij een eventueel volgend verzoek om de minimis-steun voor een ander doel aan de daarvoor bevoegde overheid informatie over deze subsidie moeten verstrekken.
+
+Iedere verlener van een bijdrage in de vorm van de minimis-steun zal opnieuw voor het al dan niet verlenen van die bijdrage een toets op de voorwaarden van de de minimis-verordening moeten uitvoeren, ook als de voorafgaande de minimis-steun voor een ander doel is verstrekt.
+
+Mocht door een opeenstapeling van de minimis-steun de gestelde grens mogelijk worden overschreden, dan mag het laatst verstrekkende orgaan de bijdrage niet verlenen of zal het laatst verstrekkende orgaan (indien na het verlenen van een bijdrage blijkt dat de onderneming onjuiste informatie heeft gegeven) zijn bijdrage moeten terugvorderen.
+
+### **Verzamelen en bewaren van alle informatie**
+
+De lidstaten verzamelen en bewaren alle informatie die betrekking heeft op de toepassing van de de minimis-verordening. Deze dossiers moeten alle informatie bevatten die nodig is om na te gaan of aan de voorwaarden van de de minimis-verordening is voldaan. Een dossier betreffende een individuele de minimis-steunmaatregel moet tien jaar vanaf het tijdstip van de steunverlening worden bewaard. Een dossier over een de minimis-steunregeling moet tien jaar vanaf het tijdstip van de laatste individuele steunverlening op grond van die regeling worden bewaard. De Commissie kan schriftelijk om informatie verzoeken. De lidstaat moet alle informatie leveren binnen twintig werkdagen of binnen de langere termijn die de Commissie in haar verzoek vaststelt. Het betreft alle informatie die de Commissie nodig acht om te kunnen nagaan of aan de voorwaarden van de de minimis-verordening is voldaan en vooral om vast te stellen tot welk totaalbedrag een bepaalde onderneming de minimis-steun heeft ontvangen.
+
+## Bijlage III. bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0020311&artikel=3&z=2006-12-11&g=2006-12-11)
+
+### **Onderdeel A Controleprotocol**
+
+1. De accountantsverklaring wordt afgegeven met als doel de Minister van VROM in staat te stellen de juistheid van de verleende subsidie te beoordelen.
+
+2. De accountant controleert in elk geval of de beslissing tot besteding van de gelden op bevoegde wijze tot stand is gekomen en of de besteding feitelijk betrekking heeft op de doeleinden waarvoor de subsidie is verleend.
+
+3. De accountant controleert of de gelden zijn besteed aan het doel waarvoor de subsidie is verleend en of die gelden zijn besteed in overeenstemming met de geldende regelgeving en de bij de subsidieverlening opgelegde verplichtingen.
+
+4. De accountant stelt de getrouwheid van het verslag over de besteding van de gelden vast in overeenstemming met de hiervoor genoemde eisen. De accountant vermeldt, in aanvulling op zijn verklaring bij het financieel eindverslag, in een rapport zijn bevindingen ten aanzien van de controle, voorzover die van belang zijn geweest bij de oordeelsvorming.
+
+5. De accountant verstrekt slechts een goedkeurende verklaring indien naar het oordeel van de accountant de som van de fouten en onzekerheden in de verantwoorde bestedingen niet meer dan één procent bedraagt van het met de bestedingen gemoeide bedrag.
+
+6. De accountant stelt de goedkeurende verklaring op conform het model dat hierna in onderdeel B van deze bijlage is opgenomen.
+
+De accountant laat een niet-⁠goedkeurende verklaring zo goed mogelijk aansluiten op de indeling die in het hierna in onderdeel B opgenomen model is gegeven.
+
+7. De accountant richt de verklaring in met inachtneming van de door het Koninklijk Nederlands Instituut van Registeraccountants vastgestelde gedrags- en beroepsregels voor registeraccountants, dan wel van de door de Nederlandse Orde van AccountantsAdministratieconsulenten vastgestelde gedrags- en beroepsregels voor accountantsadministratieconsulenten.
+
+### **Onderdeel B Model van een goedkeurende accountantsverklaring**
+
+Het verslag over de besteding van de gelden heeft betrekking op de bij beschikking van (datum) (nummer) verleende subsidie ten behoeve van (omschrijving activiteit/project). Het is onze verantwoordelijkheid om een accountantsverklaring inzake het financieel eindverslag en de besteding van de gelden te verstrekken.
+
+### **Werkzaamheden**
+
+Onze controle is verricht overeenkomstig de in Nederland algemeen aanvaarde grondslagen met betrekking tot controleopdrachten. Volgens deze richtlijnen dient onze controle zodanig te worden gepland en uitgevoerd, dat een redelijke mate van zekerheid wordt verkregen dat het financieel eindverslag omtrent de besteding van de gelden geen onjuistheden van materieel belang bevat. Een controle omvat onder meer een onderzoek door middel van deelwaarnemingen van informatie ter onderbouwing van de bedragen. Tevens omvat een controle een beoordeling van de grondslagen voor de financiële verslaggeving die bij het opmaken van het financieel eindverslag zijn toegepast. Wij zijn van mening dat onze controle een deugdelijke grondslag vormt voor ons oordeel.
+
+### **Oordeel**
+
+Wij zijn van oordeel dat het financieel eindverslag een getrouw beeld geeft van de besteding van de gelden aan activiteiten gericht op de doeleinden waarvoor de subsidie is verleend.
+
+Tevens zijn wij van oordeel dat de gelden zijn besteed aan de doeleinden waarvoor zij waren bestemd en de gelden zijn besteed in overeenstemming met de van toepassing zijnde regelgeving en voorwaarden.
+
+Plaats, datum
+
+Ondertekening
+
+Deze regeling zal in de Staatscourant worden geplaatst.
