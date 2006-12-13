@@ -4,7 +4,7 @@ identifier: "BWBR0005766"
 country: "nl"
 rank: "wet"
 publication_date: "2021-07-01"
-last_updated: "2003-01-01"
+last_updated: "2006-12-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005766"
 soort: "wet"
@@ -62,21 +62,21 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 3
 
-1. Met betrekking tot een Markham-winningsvergunning wordt in zoverre afgeweken van het bij en krachtens de paragrafen 5.1.4 en 5.1.5 en [afdeling 5.6 van de Mijnbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&afdeling=5.6) bepaalde dat, voorzover het betreft het winnen van aardolie of aardgas uit voorkomens in het Markham-veld:
+1. Met betrekking tot een Markham-winningsvergunning wordt in zoverre afgeweken van het bij en krachtens de [paragrafen 5.1.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&paragraaf=5.1.1.3) en [5.1.1.4 van de Mijnbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&paragraaf=5.1.1.4) bepaalde dat, voorzover het betreft het winnen van aardolie of aardgas uit voorkomens in het Markham-veld:
 
-- a. de vergunninghouder jaarlijks aan de Staat een bedrag als bedoeld in [artikel 65, eerste lid, van de Mijnbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=65) (cijns) is verschuldigd dat wordt bepaald op de in paragraaf 5.1.4 van die wet voorgeschreven wijze, met dien verstande dat niet wordt geheven over de in [artikel 66, tweede lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=66) bedoelde omzet, maar over de omzet, waartoe de vergunninghouder ingevolge de vergunninghoudersovereenkomst gerechtigd is;
+- a. de vergunninghouder jaarlijks aan de Staat een afdracht als bedoeld in [artikel 60 van de Mijnbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=60) is verschuldigd dat wordt bepaald op de in [paragraaf 5.1.1.3 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&paragraaf=5.1.1.3) voorgeschreven wijze, met dien verstande dat niet wordt geheven over de in [artikel 62, tweede lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=62) bedoelde omzet, maar over de omzet, waartoe de vergunninghouder ingevolge de vergunninghoudersovereenkomst gerechtigd is;
 
-- b. de vergunninghouder jaarlijks aan de Staat een bedrag is verschuldigd, berekend naar de met de winning behaalde winst, dat wordt bepaald op de wijze zoals voorgeschreven in paragraaf 5.1.5 van de Mijnbouwwet, met dien verstande dat voor de bepaling van het door de vergunninghouder verschuldigde bedrag niet wordt uitgegaan van de opbrengsten van krachtens de Markham-winningsvergunning gewonnen delfstoffen, maar van de opbrengsten van de uit de voorkomens in het Markhamveld gewonnen delfstoffen, waartoe de vergunninghouder ingevolge de vergunninghoudersovereenkomst gerechtigd is;
+- b. de vergunninghouder jaarlijks aan de Staat een bedrag is verschuldigd, berekend naar de met de winning behaalde winst, dat wordt bepaald op de wijze zoals voorgeschreven in [paragraaf 5.1.1.4 van de Mijnbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&paragraaf=5.1.1.4), met dien verstande dat voor de bepaling van het door de vergunninghouder verschuldigde bedrag niet wordt uitgegaan van de opbrengsten van krachtens de Markham-winningsvergunning gewonnen delfstoffen, maar van de opbrengsten van de uit de voorkomens in het Markhamveld gewonnen delfstoffen, waartoe de vergunninghouder ingevolge de vergunninghoudersovereenkomst gerechtigd is;
 
 - c. voor de bepaling van het door de vergunninghouder verschuldigde bedrag, berekend naar de met de winning behaalde winst, kosten van het winnen en afleveren van delfstoffen, slechts in aanmerking worden genomen, voor zover zij kunnen worden toegerekend aan het deel van de uit de voorkomens van het Markhamveld gewonnen delfstoffen, waartoe de vergunninghouder ingevolge de vergunninghoudersovereenkomst gerechtigd is.
 
-2. Met betrekking tot hetgeen ingevolge het eerste lid verschuldigd is, is [afdeling 5.4 van de Mijnbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&afdeling=5.4) van overeenkomstige toepassing.
+2. Met betrekking tot hetgeen ingevolge het eerste lid verschuldigd is, is [paragraaf 5.1.1.5 van de Mijnbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&paragraaf=5.1.1.5) van overeenkomstige toepassing.
 
-3. Aan een Markham-winningsvergunning worden voorts, voor zover het betreft de winning van aardolie of aardgas uit voorkomens in het Markham-veld, in aanvulling op het bij en krachtens de Mijnbouwwet bepaalde de beperkingen en voorschriften verbonden die noodzakelijk zijn ter uitvoering van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005766&artikel=3&z=2003-01-01&g=2003-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0005766&artikel=4&z=2003-01-01&g=2003-01-01), [5, eerste, derde, vierde, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005766&artikel=5&z=2003-01-01&g=2003-01-01), [6, eerste, tweede, derde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005766&artikel=6&z=2003-01-01&g=2003-01-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0005766&artikel=7&z=2003-01-01&g=2003-01-01), [8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005766&artikel=8&z=2003-01-01&g=2003-01-01), [10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005766&artikel=10&z=2003-01-01&g=2003-01-01), 11, eerste, tweede en derde lid, 14, vierde lid, 16, eerste tot en met vierde en zevende lid, 20, tweede en derde lid, en 21 derde tot en met vijfde lid, van de Markham-overeenkomst.
+3. Aan een Markham-winningsvergunning worden voorts, voor zover het betreft de winning van aardolie of aardgas uit voorkomens in het Markham-veld, in aanvulling op het bij en krachtens de [Mijnbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168) bepaalde de beperkingen en voorschriften verbonden die noodzakelijk zijn ter uitvoering van de artikelen 3, 4, 5, eerste, derde, vierde, vijfde en zesde lid, 6, eerste, tweede, derde en zesde lid, 7, 8, eerste lid, 10, tweede lid, 11, eerste, tweede en derde lid, 14, vierde lid, 16, eerste tot en met vierde en zevende lid, 20, tweede en derde lid, en 21 derde tot en met vijfde lid, van de Markham-overeenkomst.
 
 ##### Artikel 4
 
-1. Ingeval een Markham-winningsvergunning is verleend vóór het tijdstip van inwerkingtreden van deze wet, wordt die vergunning door Onze Minister zodanig gewijzigd, dat de daaraan verbonden voorschriften en beperkingen komen te voldoen aan [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005766&artikel=3&z=2003-01-01&g=2003-01-01).
+1. Ingeval een Markham-winningsvergunning is verleend vóór het tijdstip van inwerkingtreden van deze wet, wordt die vergunning door Onze Minister zodanig gewijzigd, dat de daaraan verbonden voorschriften en beperkingen komen te voldoen aan [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005766&artikel=3&z=2006-12-13&g=2006-12-13).
 
 2. Overigens kunnen de aan een Markham-winningsvergunning verbonden voorschriften en beperkingen worden gewijzigd en kunnen nieuwe voorschriften en beperkingen aan een zodanige vergunning worden verbonden, voor zover dat noodzakelijk is ter uitvoering van de artikelen 10, 11, 13, 14, 15, 16, 17, en 19 van de Markham-overeenkomst.
 
