@@ -4,7 +4,7 @@ identifier: "BWBR0002469"
 country: "nl"
 rank: "wet"
 publication_date: "2025-02-12"
-last_updated: "2006-01-01"
+last_updated: "2006-12-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002469"
 soort: "wet"
@@ -57,13 +57,13 @@ Behoudens het in Titel Va van deze wet bepaalde is het verboden:
 
 ##### Artikel 1a
 
-1. Onder een gelegenheid als bedoeld in [artikel 1, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=I&artikel=1&z=2006-01-01&g=2006-01-01), wordt tevens begrepen het piramidespel.
+1. Onder een gelegenheid als bedoeld in [artikel 1, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=I&artikel=1&z=2006-12-13&g=2006-12-13), wordt tevens begrepen het piramidespel.
 
 2. Onder het piramidespel wordt verstaan een gelegenheid waarbij deelnemers een goed afgeven of een verplichting aangaan teneinde daaruit een voordeel te verwerven dat geheel of ten dele afhankelijk is van de afgifte van een goed of het aangaan van een verplichting door latere deelnemers.
 
 ##### Artikel 2
 
-[Artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=I&artikel=1&z=2006-01-01&g=2006-01-01) is niet van toepassing op:
+[Artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=I&artikel=1&z=2006-12-13&g=2006-12-13) is niet van toepassing op:
 
 - a. gelegenheden als daarin bedoeld, die noch voor het publiek zijn opengesteld, noch bedrijfsmatig worden gegeven;
 
@@ -73,7 +73,7 @@ Behoudens het in Titel Va van deze wet bepaalde is het verboden:
 
 ##### Artikel 3
 
-1. Tenzij deze wet anders bepaalt kan voor een gelegenheid als in [artikel 1, onder **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=I&artikel=1&z=2006-01-01&g=2006-01-01), bedoeld vergunning worden verleend, indien deze gelegenheid wordt opengesteld uitsluitend ten einde met de opbrengst daarvan enig algemeen belang te dienen. De vergunning wordt verleend door burgemeester en wethouders van de gemeente waar de aanwijzing van de winnaars zal geschieden, indien de prijzen en premies gezamenlijk geen grotere waarde hebben dan € 4500 en bij een grotere waarde door Onze Minister van Justitie.
+1. Tenzij deze wet anders bepaalt kan voor een gelegenheid als in [artikel 1, onder **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=I&artikel=1&z=2006-12-13&g=2006-12-13), bedoeld vergunning worden verleend, indien deze gelegenheid wordt opengesteld uitsluitend ten einde met de opbrengst daarvan enig algemeen belang te dienen. De vergunning wordt verleend door burgemeester en wethouders van de gemeente waar de aanwijzing van de winnaars zal geschieden, indien de prijzen en premies gezamenlijk geen grotere waarde hebben dan € 4500 en bij een grotere waarde door Onze Minister van Justitie.
 
 2. Het eerste lid is niet van toepassing voor gelegenheden, waarbij de spelers gemeenschappelijk aan een kansspel kunnen deelnemen.
 
@@ -87,7 +87,7 @@ Behoudens het in Titel Va van deze wet bepaalde is het verboden:
 
 ##### Artikel 5
 
-1. Aan een vergunning, krachtens [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=I&artikel=3&z=2006-01-01&g=2006-01-01) of [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=I&artikel=4&z=2006-01-01&g=2006-01-01) verleend, kunnen voorschriften worden verbonden. Zij worden in het besluit, houdende de vergunning opgenomen.
+1. Aan een vergunning, krachtens [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=I&artikel=3&z=2006-12-13&g=2006-12-13) of [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=I&artikel=4&z=2006-12-13&g=2006-12-13) verleend, kunnen voorschriften worden verbonden. Zij worden in het besluit, houdende de vergunning opgenomen.
 
 2. In elk geval moet het voorschrift worden gesteld dat in alle aankondigingen en voor openbaarmaking of verspreiding bestemde stukken, de gelegenheid waarvoor de vergunning geldt betreffende, worde vermeld wie de vergunning heeft verleend, onder aanhaling van dagtekening en kenmerk van het besluit.
 
@@ -95,19 +95,19 @@ Behoudens het in Titel Va van deze wet bepaalde is het verboden:
 
 ##### Artikel 6
 
-1. Wij kunnen bij algemene maatregel van bestuur nadere regelen stellen met betrekking tot de voorschriften, te verbinden aan vergunningen als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=I&artikel=3&z=2006-01-01&g=2006-01-01), alsmede met betrekking tot de wijze waarop en de middelen waarmede de aanwijzing der winnaars moet geschieden in gelegenheden, waarvoor ingevolge de[artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=I&artikel=3&z=2006-01-01&g=2006-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=I&artikel=4&z=2006-01-01&g=2006-01-01) vergunning is verleend.
+1. Wij kunnen bij algemene maatregel van bestuur nadere regelen stellen met betrekking tot de voorschriften, te verbinden aan vergunningen als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=I&artikel=3&z=2006-12-13&g=2006-12-13), alsmede met betrekking tot de wijze waarop en de middelen waarmede de aanwijzing der winnaars moet geschieden in gelegenheden, waarvoor ingevolge de[artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=I&artikel=3&z=2006-12-13&g=2006-12-13) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=I&artikel=4&z=2006-12-13&g=2006-12-13) vergunning is verleend.
 
-2. Bij algemene maatregel van bestuur worden regels gegeven met betrekking tot het bedrag dat is verschuldigd voor de behandeling van de aanvraag van een vergunning als bedoeld in de[artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=I&artikel=3&z=2006-01-01&g=2006-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=I&artikel=4&z=2006-01-01&g=2006-01-01). Daarbij worden tevens regels gegeven met betrekking tot het bedrag dat jaarlijks door de vergunninghouder is verschuldigd, indien de vergunning een geldigheidsduur heeft van meer dan een jaar.
+2. Bij algemene maatregel van bestuur worden regels gegeven met betrekking tot het bedrag dat is verschuldigd voor de behandeling van de aanvraag van een vergunning als bedoeld in de[artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=I&artikel=3&z=2006-12-13&g=2006-12-13) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=I&artikel=4&z=2006-12-13&g=2006-12-13). Daarbij worden tevens regels gegeven met betrekking tot het bedrag dat jaarlijks door de vergunninghouder is verschuldigd, indien de vergunning een geldigheidsduur heeft van meer dan een jaar.
 
 ##### Artikel 7
 
-Het is de vergunninghouder verboden, enig voorschrift van een krachtens deze wet uitgevaardigde algemene maatregel van bestuur, of krachtens [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=I&artikel=5&z=2006-01-01&g=2006-01-01) gesteld, niet in acht te nemen.
+Het is de vergunninghouder verboden, enig voorschrift van een krachtens deze wet uitgevaardigde algemene maatregel van bestuur, of krachtens [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=I&artikel=5&z=2006-12-13&g=2006-12-13) gesteld, niet in acht te nemen.
 
 ## Titel Ia. Enige bijzondere vormen van kansspel
 
 ##### Artikel 7a
 
-Het in [Titel I](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=I&z=2006-01-01&g=2006-01-01) bepaalde is niet van toepassing op het houden van winkelweekacties en het organiseren van kleine kansspelen, indien wordt voldaan aan de bepalingen van deze Titel.
+Het in [Titel I](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=I&z=2006-12-13&g=2006-12-13) bepaalde is niet van toepassing op het houden van winkelweekacties en het organiseren van kleine kansspelen, indien wordt voldaan aan de bepalingen van deze Titel.
 
 ##### Artikel 7b
 
@@ -143,7 +143,7 @@ Als klein kansspel in de zin van deze Titel worden aangemerkt het kienspel, voge
 
 ##### Artikel 7e
 
-1. De in [artikel 7**b**](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=Ia&artikel=7b&z=2006-01-01&g=2006-01-01) en [artikel 7**c**](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=Ia&artikel=7c&z=2006-01-01&g=2006-01-01) vastgestelde bedragen worden van rechtswege gewijzigd met een door Onze Minister van Justitie vast te stellen percentage, telkens wanneer het prijsindexcijfer van de gezinsconsumptie per 30 september van enig jaar ten minste tien procent afwijkt van het overeenkomstige indexcijfer in het jaar, dat die bedragen werden vastgesteld.
+1. De in [artikel 7b](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=Ia&artikel=7b&z=2006-12-13&g=2006-12-13) en [artikel 7c](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=Ia&artikel=7c&z=2006-12-13&g=2006-12-13) vastgestelde bedragen worden van rechtswege gewijzigd met een door Onze Minister van Justitie vast te stellen percentage, telkens wanneer de consumentenprijsindex per 30 september van enig jaar ten minste tien procent afwijkt van het overeenkomstige indexcijfer in het jaar, dat die bedragen werden vastgesteld.
 
 2. De wijziging gaat in op 1 januari volgende op de in het eerste lid genoemde datum.
 
@@ -165,7 +165,7 @@ Als klein kansspel in de zin van deze Titel worden aangemerkt het kienspel, voge
 
 ##### Artikel 10
 
-1. Onze in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=II&artikel=9&z=2006-01-01&g=2006-01-01) genoemde Minister verbindt, in overeenstemming met Onze Minister van Justitie, voorschriften aan de vergunning tot het organiseren van de staatsloterij.
+1. Onze in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=II&artikel=9&z=2006-12-13&g=2006-12-13) genoemde Minister verbindt, in overeenstemming met Onze Minister van Justitie, voorschriften aan de vergunning tot het organiseren van de staatsloterij.
 
 2. De voorschriften hebben onder meer betrekking op:
 
@@ -189,21 +189,21 @@ Als klein kansspel in de zin van deze Titel worden aangemerkt het kienspel, voge
 
 ##### Artikel 11
 
-De ingevolge [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=II&artikel=9&z=2006-01-01&g=2006-01-01) verleende vergunning kan tussentijds door Onze in dat artikel genoemde Minister, in overeenstemming met Onze Minister van Justitie, worden ingetrokken, indien de ingevolge [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=II&artikel=10&z=2006-01-01&g=2006-01-01) vastgestelde voorschriften worden overtreden.
+De ingevolge [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=II&artikel=9&z=2006-12-13&g=2006-12-13) verleende vergunning kan tussentijds door Onze in dat artikel genoemde Minister, in overeenstemming met Onze Minister van Justitie, worden ingetrokken, indien de ingevolge [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=II&artikel=10&z=2006-12-13&g=2006-12-13) vastgestelde voorschriften worden overtreden.
 
 ##### Artikel 12
 
-1. De Algemene Rekenkamer kan het financiële beheer dat door de krachtens [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=II&artikel=9&z=2006-01-01&g=2006-01-01) aangewezen rechtspersoon gevoerd is en de jaarlijkse financiële verantwoording daarover onderzoeken.
+1. De Algemene Rekenkamer kan het financiële beheer dat door de krachtens [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=II&artikel=9&z=2006-12-13&g=2006-12-13) aangewezen rechtspersoon gevoerd is en de jaarlijkse financiële verantwoording daarover onderzoeken.
 
 2. De [artikelen 86](https://wetten.overheid.nl/jci1.3:c:BWBR0013891&artikel=86), [87, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013891&artikel=87), en [85 van de Comptabiliteitswet 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0013891&artikel=85) is van overeenkomstige toepassing.
 
 ##### Artikel 13
 
-Behoudens ingevolge een door de krachtens [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=II&artikel=9&z=2006-01-01&g=2006-01-01) aangewezen rechtspersoon verleende uitdrukkelijke toestemming is het verboden, onverschillig voor welk doel en onverschillig op welke wijze, gebruik te maken van of invloed toe te kennen aan de uitslag van de trekkingen in de staatsloterij.
+Behoudens ingevolge een door de krachtens [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=II&artikel=9&z=2006-12-13&g=2006-12-13) aangewezen rechtspersoon verleende uitdrukkelijke toestemming is het verboden, onverschillig voor welk doel en onverschillig op welke wijze, gebruik te maken van of invloed toe te kennen aan de uitslag van de trekkingen in de staatsloterij.
 
 ##### Artikel 14
 
-Behoudens aan degenen die daartoe door de krachtens [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=II&artikel=9&z=2006-01-01&g=2006-01-01) aangewezen rechtspersoon gemachtigd zijn, is het aan een ieder verboden bij wijze van beroep of gewoonte loten of gedeelten van loten in de staatsloterij of onder deze naam te verkopen, te koop aan te bieden, af te leveren, uit te delen of ten verkoop of ter uitdeling in voorraad te hebben, af te lossen of op enige andere wijze de middellijke of onmiddellijke deelneming in voormelde loterij open te stellen of te bevorderen.
+Behoudens aan degenen die daartoe door de krachtens [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=II&artikel=9&z=2006-12-13&g=2006-12-13) aangewezen rechtspersoon gemachtigd zijn, is het aan een ieder verboden bij wijze van beroep of gewoonte loten of gedeelten van loten in de staatsloterij of onder deze naam te verkopen, te koop aan te bieden, af te leveren, uit te delen of ten verkoop of ter uitdeling in voorraad te hebben, af te lossen of op enige andere wijze de middellijke of onmiddellijke deelneming in voormelde loterij open te stellen of te bevorderen.
 
 ## Titel IIa. De instantloterij
 
@@ -225,7 +225,7 @@ Behoudens aan degenen die daartoe door de krachtens [artikel 9](https://wetten.o
 
 ##### Artikel 14c
 
-1. Onze in [artikel 14**b**, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=IIa&artikel=14b&z=2006-01-01&g=2006-01-01), genoemde Ministers verbinden voorschriften aan de vergunning tot het organiseren van een instantloterij.
+1. Onze in [artikel 14**b**, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=IIa&artikel=14b&z=2006-12-13&g=2006-12-13), genoemde Ministers verbinden voorschriften aan de vergunning tot het organiseren van een instantloterij.
 
 2. De voorschriften hebben onder meer betrekking op:
 
@@ -249,7 +249,7 @@ Behoudens aan degenen die daartoe door de krachtens [artikel 9](https://wetten.o
 
 3. Van de voorschriften wordt mededeling gedaan door plaatsing in de **Staatscourant**. Zij kunnen worden gewijzigd en aangevuld.
 
-4. Voorzover de voorschriften genoemd in het tweede lid betrekking hebben op de in [artikel 14**b**](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=IIa&artikel=14b&z=2006-01-01&g=2006-01-01) bedoelde vergoeding, alsmede op inrichtingen waar tevens deelnamebewijzen aan de staatsloterij verkrijgbaar zijn en op de vertegenwoordiging van de rechtspersoon welke is belast met de organisatie van de staatsloterij in het bestuur van de in [artikel 14**b**](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=IIa&artikel=14b&z=2006-01-01&g=2006-01-01) bedoelde rechtspersoon, worden deze vastgesteld in overeenstemming met Onze Minister van Financiën.
+4. Voorzover de voorschriften genoemd in het tweede lid betrekking hebben op de in [artikel 14**b**](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=IIa&artikel=14b&z=2006-12-13&g=2006-12-13) bedoelde vergoeding, alsmede op inrichtingen waar tevens deelnamebewijzen aan de staatsloterij verkrijgbaar zijn en op de vertegenwoordiging van de rechtspersoon welke is belast met de organisatie van de staatsloterij in het bestuur van de in [artikel 14**b**](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=IIa&artikel=14b&z=2006-12-13&g=2006-12-13) bedoelde rechtspersoon, worden deze vastgesteld in overeenstemming met Onze Minister van Financiën.
 
 ##### Artikel 14d
 
@@ -259,7 +259,7 @@ Behoudens aan degenen die daartoe door de krachtens [artikel 9](https://wetten.o
 
 ##### Artikel 14e
 
-De ingevolge [artikel 14**b**](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=IIa&artikel=14b&z=2006-01-01&g=2006-01-01) verleende vergunning kan tussentijds door Onze in [artikel 14**b**, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=IIa&artikel=14b&z=2006-01-01&g=2006-01-01), genoemde Ministers worden ingetrokken, indien de bij of krachtens deze titel vastgestelde voorschriften worden overtreden.
+De ingevolge [artikel 14**b**](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=IIa&artikel=14b&z=2006-12-13&g=2006-12-13) verleende vergunning kan tussentijds door Onze in [artikel 14**b**, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=IIa&artikel=14b&z=2006-12-13&g=2006-12-13), genoemde Ministers worden ingetrokken, indien de bij of krachtens deze titel vastgestelde voorschriften worden overtreden.
 
 ## Titel III. Sportprijsvragen
 
@@ -301,7 +301,7 @@ Vervallen
 
 ##### Artikel 21
 
-1. Onze in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=III&artikel=16&z=2006-01-01&g=2006-01-01) genoemde Ministers verbinden voorschriften aan de vergunning tot het organiseren van sportprijsvragen.
+1. Onze in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=III&artikel=16&z=2006-12-13&g=2006-12-13) genoemde Ministers verbinden voorschriften aan de vergunning tot het organiseren van sportprijsvragen.
 
 2. De voorschriften hebben onder meer betrekking op:
 
@@ -321,7 +321,7 @@ Vervallen
 
 ##### Artikel 22
 
-De ingevolge [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=III&artikel=16&z=2006-01-01&g=2006-01-01) verleende vergunning kan tussentijds door Onze in dat artikel genoemde Ministers worden ingetrokken, indien de bepalingen van deze titel of de ingevolge [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=III&artikel=21&z=2006-01-01&g=2006-01-01) vastgestelde voorschriften worden overtreden.
+De ingevolge [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=III&artikel=16&z=2006-12-13&g=2006-12-13) verleende vergunning kan tussentijds door Onze in dat artikel genoemde Ministers worden ingetrokken, indien de bepalingen van deze titel of de ingevolge [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=III&artikel=21&z=2006-12-13&g=2006-12-13) vastgestelde voorschriften worden overtreden.
 
 ## Titel IV. De totalisator
 
@@ -337,7 +337,7 @@ Onze Ministers van Landbouw en Visserij en van Justitie kunnen aan één rechtsp
 
 ##### Artikel 25
 
-1. Onze in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=IV&artikel=24&z=2006-01-01&g=2006-01-01) genoemde Ministers verbinden voorschriften aan de vergunning tot het organiseren van een totalisator.
+1. Onze in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=IV&artikel=24&z=2006-12-13&g=2006-12-13) genoemde Ministers verbinden voorschriften aan de vergunning tot het organiseren van een totalisator.
 
 2. De voorschriften hebben onder meer betrekking op:
 
@@ -355,7 +355,7 @@ Onze Ministers van Landbouw en Visserij en van Justitie kunnen aan één rechtsp
 
 ##### Artikel 26
 
-De ingevolge [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=IV&artikel=24&z=2006-01-01&g=2006-01-01) verleende vergunning kan tussentijds door Onze in dat artikel genoemde Ministers worden ingetrokken, indien de ingevolge [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=IV&artikel=25&z=2006-01-01&g=2006-01-01) vastgestelde voorschriften worden overtreden.
+De ingevolge [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=IV&artikel=24&z=2006-12-13&g=2006-12-13) verleende vergunning kan tussentijds door Onze in dat artikel genoemde Ministers worden ingetrokken, indien de ingevolge [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=IV&artikel=25&z=2006-12-13&g=2006-12-13) vastgestelde voorschriften worden overtreden.
 
 ##### Artikel 27
 
@@ -373,15 +373,15 @@ Het is verboden aan het publiek bemiddeling aan te bieden of te verlenen bij het
 
 ##### Artikel 27b
 
-1. Onze Ministers van Justitie en van Welzijn, Volksgezondheid en Cultuur kunnen met het oog op de belangen van instellingen werkzaam ten algemenen nutte, in het bijzonder op het gebied van sport en lichamelijke vorming, van de cultuur, het maatschappelijk welzijn en de volksgezondheid, aan de krachtens [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=III&artikel=16&z=2006-01-01&g=2006-01-01) aangewezen rechtspersoon voor een door hen te bepalen duur vergunning verlenen tot het organiseren van lotto's.
+1. Onze Ministers van Justitie en van Welzijn, Volksgezondheid en Cultuur kunnen met het oog op de belangen van instellingen werkzaam ten algemenen nutte, in het bijzonder op het gebied van sport en lichamelijke vorming, van de cultuur, het maatschappelijk welzijn en de volksgezondheid, aan de krachtens [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=III&artikel=16&z=2006-12-13&g=2006-12-13) aangewezen rechtspersoon voor een door hen te bepalen duur vergunning verlenen tot het organiseren van lotto's.
 
 2. De opbrengst van de lotto - na aftrek van prijzen en kosten - komt ten goede aan de belangen, die de rechtspersoon met het aanleggen en houden daarvan beoogt te dienen.
 
-3. Van de gezamenlijke opbrengst van de ingevolge deze titel en [titel III](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=III&z=2006-01-01&g=2006-01-01) georganiseerde kansspelen wordt, gerekend over een kalenderjaar, ten minste 47,5% bestemd voor uitkering aan prijzen.
+3. Van de gezamenlijke opbrengst van de ingevolge deze titel en [titel III](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=III&z=2006-12-13&g=2006-12-13) georganiseerde kansspelen wordt, gerekend over een kalenderjaar, ten minste 47,5% bestemd voor uitkering aan prijzen.
 
 ##### Artikel 27c
 
-1. Onze in [artikel 27**b**](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=IVa&artikel=27b&z=2006-01-01&g=2006-01-01) genoemde Ministers verbinden voorschriften aan de vergunning tot het organiseren van een lotto.
+1. Onze in [artikel 27**b**](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=IVa&artikel=27b&z=2006-12-13&g=2006-12-13) genoemde Ministers verbinden voorschriften aan de vergunning tot het organiseren van een lotto.
 
 2. De voorschriften hebben onder meer betrekking op:
 
@@ -411,7 +411,7 @@ Vervallen
 
 ##### Artikel 27f
 
-De ingevolge [artikel 27**b**](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=IVa&artikel=27b&z=2006-01-01&g=2006-01-01) verleende vergunning kan tussentijds door Onze in dat artikel genoemde Ministers worden ingetrokken, indien de bij of krachtens deze Titel vastgestelde voorschriften worden overtreden.
+De ingevolge [artikel 27**b**](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=IVa&artikel=27b&z=2006-12-13&g=2006-12-13) verleende vergunning kan tussentijds door Onze in dat artikel genoemde Ministers worden ingetrokken, indien de bij of krachtens deze Titel vastgestelde voorschriften worden overtreden.
 
 ## Titel IVb. Casinospelen
 
@@ -431,7 +431,7 @@ De ingevolge [artikel 27**b**](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&t
 
 ##### Artikel 27i
 
-1. Onze in [artikel 27**h**, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=IVb&artikel=27h&z=2006-01-01&g=2006-01-01), genoemde Ministers verbinden voorschriften aan de vergunning tot het organiseren van speelcasino's.
+1. Onze in [artikel 27**h**, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=IVb&artikel=27h&z=2006-12-13&g=2006-12-13), genoemde Ministers verbinden voorschriften aan de vergunning tot het organiseren van speelcasino's.
 
 2. De voorschriften hebben onder meer betrekking op:
 
@@ -463,11 +463,11 @@ De ingevolge [artikel 27**b**](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&t
 
 ##### Artikel 27k
 
-De ingevolge [artikel 27**h**](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=IVb&artikel=27h&z=2006-01-01&g=2006-01-01) verleende vergunning kan door Onze in dat artikel genoemde Ministers worden ingetrokken, indien de bij of krachtens deze Titel vastgestelde voorschriften worden overtreden.
+De ingevolge [artikel 27**h**](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=IVb&artikel=27h&z=2006-12-13&g=2006-12-13) verleende vergunning kan door Onze in dat artikel genoemde Ministers worden ingetrokken, indien de bij of krachtens deze Titel vastgestelde voorschriften worden overtreden.
 
 ##### Artikel 27l
 
-1. De Algemene Rekenkamer kan het financiële beheer dat door de krachtens [artikel 27**h**](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=IVb&artikel=27h&z=2006-01-01&g=2006-01-01) aangewezen rechtspersoon gevoerd is en de jaarlijkse financiële verantwoording daarover onderzoeken.
+1. De Algemene Rekenkamer kan het financiële beheer dat door de krachtens [artikel 27**h**](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=IVb&artikel=27h&z=2006-12-13&g=2006-12-13) aangewezen rechtspersoon gevoerd is en de jaarlijkse financiële verantwoording daarover onderzoeken.
 
 2. De [artikelen 86](https://wetten.overheid.nl/jci1.3:c:BWBR0013891&artikel=86), [87, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013891&artikel=87), en [85 van de Comptabiliteitswet 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0013891&artikel=85) is van overeenkomstige toepassing.
 
@@ -531,13 +531,13 @@ Vervallen
 
 ##### Artikel 28
 
-1. Het is, onverminderd het bepaalde in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=I&artikel=1&z=2006-01-01&g=2006-01-01), verboden zonder vergunning de gelegenheid open te stellen tot het meedingen naar een prijs of premie verbonden aan een prijsvraag van welke aard ook, indien aan die mededinging andere voorwaarden zijn gesteld dan het verrichten van een wetenschappelijke, kunstzinnige of technische prestatie en de uitgeloofde prijs of premie een waarde heeft van meer dan € 2300. De vergunning wordt verleend door burgemeester en wethouders van de gemeente waar de aanwijzing van de winnaars zal geschieden, indien de prijs of premie geen grotere waarde heeft dan € 4500 en bij een grotere waarde door Onze Minister van Justitie.
+1. Het is, onverminderd het bepaalde in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=I&artikel=1&z=2006-12-13&g=2006-12-13), verboden zonder vergunning de gelegenheid open te stellen tot het meedingen naar een prijs of premie verbonden aan een prijsvraag van welke aard ook, indien aan die mededinging andere voorwaarden zijn gesteld dan het verrichten van een wetenschappelijke, kunstzinnige of technische prestatie en de uitgeloofde prijs of premie een waarde heeft van meer dan € 2300. De vergunning wordt verleend door burgemeester en wethouders van de gemeente waar de aanwijzing van de winnaars zal geschieden, indien de prijs of premie geen grotere waarde heeft dan € 4500 en bij een grotere waarde door Onze Minister van Justitie.
 
 2. Een vergunning als in het eerste lid bedoeld kan alleen worden verleend voor gelegenheden, opengesteld teneinde met de opbrengst enig algemeen belang te dienen.
 
 ##### Artikel 29
 
-Met betrekking tot prijsvragen als in het vorige artikel bedoeld zijn de [artikelen 1, onder **b** en **d**](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=I&artikel=1&z=2006-01-01&g=2006-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=I&artikel=5&z=2006-01-01&g=2006-01-01),[6](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=I&artikel=6&z=2006-01-01&g=2006-01-01) en[7](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=I&artikel=7&z=2006-01-01&g=2006-01-01) van overeenkomstige toepassing.
+Met betrekking tot prijsvragen als in het vorige artikel bedoeld zijn de [artikelen 1, onder **b** en **d**](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=I&artikel=1&z=2006-12-13&g=2006-12-13), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=I&artikel=5&z=2006-12-13&g=2006-12-13),[6](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=I&artikel=6&z=2006-12-13&g=2006-12-13) en[7](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=I&artikel=7&z=2006-12-13&g=2006-12-13) van overeenkomstige toepassing.
 
 ## Titel VA. Speelautomaten
 
@@ -581,9 +581,9 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 2. Het eerste lid is niet van toepassing op het aanwezig hebben van:
 
-- a. behendigheidsautomaten op kermissen, ook indien zij niet behoren tot ingevolge [artikel 30a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=1&artikel=30a&z=2006-01-01&g=2006-01-01), aangewezen typen van speelautomaten;
+- a. behendigheidsautomaten op kermissen, ook indien zij niet behoren tot ingevolge [artikel 30a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=1&artikel=30a&z=2006-12-13&g=2006-12-13), aangewezen typen van speelautomaten;
 
-- b. speelautomaten op voor het publiek toegankelijke plaatsen, uitsluitend ten behoeve van het verkopen daarvan of van het krachtens een vergunning als bedoeld in [artikel 30h, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=3&artikel=30h&z=2006-01-01&g=2006-01-01), in gebruik geven daarvan aan anderen ten behoeve van de uitoefening van hun bedrijf.
+- b. speelautomaten op voor het publiek toegankelijke plaatsen, uitsluitend ten behoeve van het verkopen daarvan of van het krachtens een vergunning als bedoeld in [artikel 30h, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=3&artikel=30h&z=2006-12-13&g=2006-12-13), in gebruik geven daarvan aan anderen ten behoeve van de uitoefening van hun bedrijf.
 
 ##### Artikel 30c
 
@@ -605,15 +605,15 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 4. Indien zich binnen een laagdrempelige inrichting een horecalokaliteit als bedoeld in [artikel 1, eerste lid, van de Drank- en Horecawet](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=1) bevindt, waarin rechtmatig alcoholhoudende drank voor gebruik ter plaatse wordt verstrekt, dan wordt deze lokaliteit als hoogdrempelige inrichting aangemerkt voor de toepassing van deze titel, indien:
 
-- a. voldaan is aan de voorwaarden, bedoeld in [artikel 30, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=1&artikel=30&z=2006-01-01&g=2006-01-01), en
+- a. voldaan is aan de voorwaarden, bedoeld in [artikel 30, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=1&artikel=30&z=2006-12-13&g=2006-12-13), en
 
 - b. de overige ruimten in die inrichting door het publiek uitsluitend te bereiken zijn zonder eerst deze lokaliteit te betreden.
 
-5. Indien met toepassing van het vierde lid meerdere ruimten binnen een laagdrempelige inrichting als hoogdrempelige inrichting kunnen worden aangemerkt, wordt, in afwijking van het vierde lid, met behulp van de omschrijving als bedoeld in [artikel 30, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=1&artikel=30&z=2006-01-01&g=2006-01-01), bepaald of er sprake is van een of van meerdere hoogdrempelige inrichtingen.
+5. Indien met toepassing van het vierde lid meerdere ruimten binnen een laagdrempelige inrichting als hoogdrempelige inrichting kunnen worden aangemerkt, wordt, in afwijking van het vierde lid, met behulp van de omschrijving als bedoeld in [artikel 30, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=1&artikel=30&z=2006-12-13&g=2006-12-13), bepaald of er sprake is van een of van meerdere hoogdrempelige inrichtingen.
 
 ##### Artikel 30d
 
-1. Aan de vergunning kunnen voorschriften en beperkingen verbonden worden, die zo nodig kunnen worden gewijzigd, aangevuld of ingetrokken. Aan de vergunning wordt in ieder geval het voorschrift verbonden dat alleen speelautomaten mogen worden opgesteld, welke in eigendom toebehoren aan personen die in het bezit zijn van de in [artikel 30h, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=3&artikel=30h&z=2006-01-01&g=2006-01-01), bedoelde vergunning. Indien de omstandigheden ter plaatse daartoe aanleiding geven, worden aan de vergunning voorts voorschriften verbonden ten aanzien van de wijze van werving en reclame, gericht tot de speler.
+1. Aan de vergunning kunnen voorschriften en beperkingen verbonden worden, die zo nodig kunnen worden gewijzigd, aangevuld of ingetrokken. Aan de vergunning wordt in ieder geval het voorschrift verbonden dat alleen speelautomaten mogen worden opgesteld, welke in eigendom toebehoren aan personen die in het bezit zijn van de in [artikel 30h, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=3&artikel=30h&z=2006-12-13&g=2006-12-13), bedoelde vergunning. Indien de omstandigheden ter plaatse daartoe aanleiding geven, worden aan de vergunning voorts voorschriften verbonden ten aanzien van de wijze van werving en reclame, gericht tot de speler.
 
 2. De vergunning wordt voor bepaalde of onbepaalde tijd verleend.
 
@@ -621,17 +621,17 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 4. Bij algemene maatregel van bestuur worden regels gesteld met betrekking tot:
 
-- a. de eisen ten aanzien van het zedelijk gedrag, waaraan de aanvrager van de vergunning voor een inrichting als bedoeld in [artikel 30c, eerste lid, onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=2&artikel=30c&z=2006-01-01&g=2006-01-01), en de bedrijfsleiders en beheerders van deze inrichtingen, dienen te voldoen;
+- a. de eisen ten aanzien van het zedelijk gedrag, waaraan de aanvrager van de vergunning voor een inrichting als bedoeld in [artikel 30c, eerste lid, onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=2&artikel=30c&z=2006-12-13&g=2006-12-13), en de bedrijfsleiders en beheerders van deze inrichtingen, dienen te voldoen;
 
-- b. de eis dat de bedrijfsleiders en beheerders van de in [artikel 30c, eerste lid, onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=2&artikel=30c&z=2006-01-01&g=2006-01-01), bedoelde inrichtingen dienen te beschikken over voldoende kennis en inzicht met betrekking tot het gebruik van speelautomaten en de daaraan verbonden risico's van gokverslaving.
+- b. de eis dat de bedrijfsleiders en beheerders van de in [artikel 30c, eerste lid, onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=2&artikel=30c&z=2006-12-13&g=2006-12-13), bedoelde inrichtingen dienen te beschikken over voldoende kennis en inzicht met betrekking tot het gebruik van speelautomaten en de daaraan verbonden risico's van gokverslaving.
 
 ##### Artikel 30e
 
 1. De vergunning wordt geweigerd indien:
 
-- a. door het verlenen der vergunning zou worden afgeweken van het bij of krachtens [artikel 30c](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=2&artikel=30c&z=2006-01-01&g=2006-01-01) bepaalde;
+- a. door het verlenen der vergunning zou worden afgeweken van het bij of krachtens [artikel 30c](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=2&artikel=30c&z=2006-12-13&g=2006-12-13) bepaalde;
 
-- b. niet wordt voldaan aan de krachtens [artikel 30d, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=2&artikel=30d&z=2006-01-01&g=2006-01-01), geldende eisen.
+- b. niet wordt voldaan aan de krachtens [artikel 30d, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=2&artikel=30d&z=2006-12-13&g=2006-12-13), geldende eisen.
 
 2. De vergunning kan voorts worden geweigerd:
 
@@ -645,9 +645,9 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - a. indien de gegevens, die met het oog op de verkrijging der vergunning zijn verstrekt, zodanig onjuist of onvolledig blijken, dat op de aanvraag een andere beslissing zou zijn genomen als bij de beoordeling daarvan de juiste omstandigheden volledig bekend waren geweest;
 
-- b. indien voor een inrichting, als bedoeld in [artikel 30c, eerste lid, onder a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=2&artikel=30c&z=2006-01-01&g=2006-01-01), niet de vergunning van kracht is, die ingevolge de voor die inrichting geldende bepalingen is vereist;
+- b. indien voor een inrichting, als bedoeld in [artikel 30c, eerste lid, onder a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=2&artikel=30c&z=2006-12-13&g=2006-12-13), niet de vergunning van kracht is, die ingevolge de voor die inrichting geldende bepalingen is vereist;
 
-- c. indien niet langer wordt voldaan aan de krachtens [artikel 30d, vierde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=2&artikel=30d&z=2006-01-01&g=2006-01-01), geldende eisen.
+- c. indien niet langer wordt voldaan aan de krachtens [artikel 30d, vierde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=2&artikel=30d&z=2006-12-13&g=2006-12-13), geldende eisen.
 
 2. De vergunning kan voorts worden ingetrokken:
 
@@ -663,7 +663,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 1. Het is de vergunninghouder verboden personen beneden de leeftijd van achttien jaar een kansspelautomaat te laten bespelen.
 
-2. Het is personen beneden de leeftijd van achttien jaar verboden een kansspelautomaat te bespelen op een locatie als bedoeld in [artikel 30b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=2&artikel=30b&z=2006-01-01&g=2006-01-01).
+2. Het is personen beneden de leeftijd van achttien jaar verboden een kansspelautomaat te bespelen op een locatie als bedoeld in [artikel 30b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=2&artikel=30b&z=2006-12-13&g=2006-12-13).
 
 #### § 3. Vergunning tot het exploiteren van speelautomaten
 
@@ -689,15 +689,15 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 30j
 
-1. Aan de vergunning kunnen uit een oogpunt van toezicht op de naleving van het bij of krachtens deze Titel bepaalde voorschriften en beperkingen worden verbonden, die zo nodig kunnen worden gewijzigd, aangevuld of ingetrokken, overeenkomstig bij regeling van Onze Minister van Economische Zaken te stellen regels. Aan de vergunning wordt in ieder geval het voorschrift verbonden dat alleen speelautomaten mogen worden opgesteld, indien tot het aanwezig hebben daarvan een vergunning is verleend als bedoeld in [artikel 30c](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=2&artikel=30c&z=2006-01-01&g=2006-01-01). Indien de omstandigheden daartoe aanleiding geven, worden aan de vergunning voorts voorschriften verbonden ten aanzien van de wijze van werving en reclame, gericht tot de speler.
+1. Aan de vergunning kunnen uit een oogpunt van toezicht op de naleving van het bij of krachtens deze Titel bepaalde voorschriften en beperkingen worden verbonden, die zo nodig kunnen worden gewijzigd, aangevuld of ingetrokken, overeenkomstig bij regeling van Onze Minister van Economische Zaken te stellen regels. Aan de vergunning wordt in ieder geval het voorschrift verbonden dat alleen speelautomaten mogen worden opgesteld, indien tot het aanwezig hebben daarvan een vergunning is verleend als bedoeld in [artikel 30c](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=2&artikel=30c&z=2006-12-13&g=2006-12-13). Indien de omstandigheden daartoe aanleiding geven, worden aan de vergunning voorts voorschriften verbonden ten aanzien van de wijze van werving en reclame, gericht tot de speler.
 
 2. De vergunning wordt voor bepaalde of onbepaalde tijd verleend.
 
 ##### Artikel 30k
 
-1. De vergunning wordt geweigerd indien niet wordt voldaan aan de krachtens [artikel 30i, eerste lid, onder a en b, en tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=3&artikel=30i&z=2006-01-01&g=2006-01-01), geldende eisen.
+1. De vergunning wordt geweigerd indien niet wordt voldaan aan de krachtens [artikel 30i, eerste lid, onder a en b, en tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=3&artikel=30i&z=2006-12-13&g=2006-12-13), geldende eisen.
 
-2. De vergunning kan voorts worden geweigerd, indien de aanvrager of de andere in [artikel 30i, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=3&artikel=30i&z=2006-01-01&g=2006-01-01), bedoelde personen, de bij of krachtens deze Titel vastgestelde bepalingen hebben overtreden in de drie jaren voorafgaande aan het moment van aanvraag van de vergunning.
+2. De vergunning kan voorts worden geweigerd, indien de aanvrager of de andere in [artikel 30i, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=3&artikel=30i&z=2006-12-13&g=2006-12-13), bedoelde personen, de bij of krachtens deze Titel vastgestelde bepalingen hebben overtreden in de drie jaren voorafgaande aan het moment van aanvraag van de vergunning.
 
 ##### Artikel 30l
 
@@ -705,13 +705,13 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - a. indien de gegevens, die met het oog op de verkrijging der vergunning zijn verstrekt, zodanig onjuist of onvolledig blijken, dat op de aanvraag een andere beslissing zou zijn genomen als bij de beoordeling daarvan de juiste omstandigheden volledig bekend waren geweest;
 
-- b. indien de vergunninghouder het in de[artikelen 30t, eerste lid, onder b, of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=5&artikel=30t&z=2006-01-01&g=2006-01-01) bedoelde verbod heeft overtreden;
+- b. indien de vergunninghouder het in de[artikelen 30t, eerste lid, onder b, of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=5&artikel=30t&z=2006-12-13&g=2006-12-13) bedoelde verbod heeft overtreden;
 
 - c. indien de vergunninghouder gedurende een jaar na de dag van afgifte van de vergunning met de exploitatie geen begin heeft gemaakt;
 
-- d. indien niet langer wordt voldaan aan de krachtens [artikel 30i, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=3&artikel=30i&z=2006-01-01&g=2006-01-01), geldende eisen.
+- d. indien niet langer wordt voldaan aan de krachtens [artikel 30i, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=3&artikel=30i&z=2006-12-13&g=2006-12-13), geldende eisen.
 
-2. De vergunning kan voorts worden ingetrokken, indien de vergunninghouder of de andere in [artikel 30i, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=3&artikel=30i&z=2006-01-01&g=2006-01-01), bedoelde personen de bij of krachtens deze Titel vastgestelde bepalingen hebben overtreden.
+2. De vergunning kan voorts worden ingetrokken, indien de vergunninghouder of de andere in [artikel 30i, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=3&artikel=30i&z=2006-12-13&g=2006-12-13), bedoelde personen de bij of krachtens deze Titel vastgestelde bepalingen hebben overtreden.
 
 3. In de gevallen bedoeld in het eerste en tweede lid kan Onze Minister van Economische Zaken alvorens de vergunning in te trekken de vergunninghouder in de gelegenheid stellen binnen een daartoe te bepalen termijn tot naleving van de bij of krachtens deze Titel vastgestelde bepalingen of de aan de vergunning verbonden voorschriften over te gaan.
 
@@ -721,7 +721,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 1. Het vervaardigen of invoeren van speelautomaten is verboden, tenzij het speelautomaten betreft die overeenstemmen met een door Onze Minister van Economische Zaken toegelaten model en
 
-- a. zij ten bewijze daarvan zijn voorzien van het ingevolge [artikel 30r, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=4&artikel=30r&z=2006-01-01&g=2006-01-01), met betrekking tot die toelating vastgestelde merkteken, of
+- a. zij ten bewijze daarvan zijn voorzien van het ingevolge [artikel 30r, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=4&artikel=30r&z=2006-12-13&g=2006-12-13), met betrekking tot die toelating vastgestelde merkteken, of
 
 - b. de vervaardiging of invoer geschiedt door de houder van die toelating of diens gemachtigde.
 
@@ -775,7 +775,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - m. de verlichting en het geluid van de kansspelautomaat.
 
-3. Voor de toelating van het model van kansspelautomaten bestemd om te worden opgesteld in een inrichting als bedoeld in [artikel 30c, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=2&artikel=30c&z=2006-01-01&g=2006-01-01), kunnen bij of krachtens algemene maatregel van bestuur regels worden gesteld ten aanzien van de onderwerpen genoemd in het tweede lid, die afwijken van het bij of krachtens het tweede lid bepaalde.
+3. Voor de toelating van het model van kansspelautomaten bestemd om te worden opgesteld in een inrichting als bedoeld in [artikel 30c, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=2&artikel=30c&z=2006-12-13&g=2006-12-13), kunnen bij of krachtens algemene maatregel van bestuur regels worden gesteld ten aanzien van de onderwerpen genoemd in het tweede lid, die afwijken van het bij of krachtens het tweede lid bepaalde.
 
 ##### Artikel 30o
 
@@ -795,7 +795,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 30p
 
-1. De toelating van een model wordt geweigerd indien niet wordt voldaan aan de krachtens [artikel 30n](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=4&artikel=30n&z=2006-01-01&g=2006-01-01) gegeven voorschriften of niet de redelijke verwachting bestaat, dat overeenkomstig het model vervaardigde speelautomaten aan die voorschriften zullen voldoen.
+1. De toelating van een model wordt geweigerd indien niet wordt voldaan aan de krachtens [artikel 30n](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=4&artikel=30n&z=2006-12-13&g=2006-12-13) gegeven voorschriften of niet de redelijke verwachting bestaat, dat overeenkomstig het model vervaardigde speelautomaten aan die voorschriften zullen voldoen.
 
 2. De toelating van een model kan voorts worden geweigerd:
 
@@ -807,11 +807,11 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 1. Indien een model wordt toegelaten, wordt een op naam van de aanvrager gestelde, ondertekende en gedagtekende verklaring, houdende de toelating, afgegeven met gebruikmaking van een door Onze Minister van Economische Zaken vast te stellen formulier.
 
-2. De voorschriften, vastgesteld krachtens [artikel 30n](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=4&artikel=30n&z=2006-01-01&g=2006-01-01), worden, voor zover zij op het toegelaten model betrekking hebben, in de verklaring, houdende de toelating, opgenomen. Daarin kan tevens worden bepaald, dat het model op een in de verklaring vermelde plaats moet worden bewaard.
+2. De voorschriften, vastgesteld krachtens [artikel 30n](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=4&artikel=30n&z=2006-12-13&g=2006-12-13), worden, voor zover zij op het toegelaten model betrekking hebben, in de verklaring, houdende de toelating, opgenomen. Daarin kan tevens worden bepaald, dat het model op een in de verklaring vermelde plaats moet worden bewaard.
 
 3. Onze Minister van Economische Zaken kan aan een toelating aanvullende voorschriften verbinden uit een oogpunt van toezicht op de naleving van het bij of krachtens deze Titel bepaalde, die in de verklaring, houdende de toelating, worden opgenomen. Zij kunnen zo nodig worden gewijzigd, aangevuld of ingetrokken.
 
-4. Een gewaarmerkt afschrift van de in [artikel 30o, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=4&artikel=30o&z=2006-01-01&g=2006-01-01), bedoelde tekeningen en beschrijving maakt deel uit van de verklaring.
+4. Een gewaarmerkt afschrift van de in [artikel 30o, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=4&artikel=30o&z=2006-12-13&g=2006-12-13), bedoelde tekeningen en beschrijving maakt deel uit van de verklaring.
 
 5. Van een verklaring, houdende de toelating, wordt mededeling gedaan in de Staatscourant. Daarbij worden in elk geval opgenomen de voorschriften, bedoeld in het tweede en derde lid. Van een wijziging, aanvulling of intrekking van de in de verklaring opgenomen voorschriften wordt mededeling gedaan in de Staatscourant.
 
@@ -831,13 +831,13 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - a. indien de gegevens, die met het oog op de verkrijging der toelating zijn verstrekt, zodanig onjuist of onvolledig blijken, dat op de aanvraag een andere beslissing zou zijn genomen als bij de beoordeling daarvan de juiste omstandigheden volledig bekend waren geweest;
 
-- b. indien de krachtens [artikel 30n](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=4&artikel=30n&z=2006-01-01&g=2006-01-01) gegeven voorschriften zodanig zijn gewijzigd, dat het model onder de werking van de gewijzigde voorschriften niet zou zijn toegelaten.
+- b. indien de krachtens [artikel 30n](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=4&artikel=30n&z=2006-12-13&g=2006-12-13) gegeven voorschriften zodanig zijn gewijzigd, dat het model onder de werking van de gewijzigde voorschriften niet zou zijn toegelaten.
 
-2. De toelating van een model kan worden ingetrokken, indien de bij of krachtens deze Titel vastgestelde bepalingen of de voorschriften, opgenomen in de verklaring houdende de toelating, zijn overtreden door de houder of diens gemachtigde, bedoeld in [artikel 30m](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=4&artikel=30m&z=2006-01-01&g=2006-01-01) en [artikel 30r, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=4&artikel=30r&z=2006-01-01&g=2006-01-01).
+2. De toelating van een model kan worden ingetrokken, indien de bij of krachtens deze Titel vastgestelde bepalingen of de voorschriften, opgenomen in de verklaring houdende de toelating, zijn overtreden door de houder of diens gemachtigde, bedoeld in [artikel 30m](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=4&artikel=30m&z=2006-12-13&g=2006-12-13) en [artikel 30r, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=4&artikel=30r&z=2006-12-13&g=2006-12-13).
 
 3. In de gevallen bedoeld in het eerste lid, onder a, en het tweede lid kan Onze Minister van Economische Zaken alvorens de toelating in te trekken de houder daarvan in de gelegenheid stellen binnen een daartoe te bepalen termijn tot naleving van de bij of krachtens deze Titel vastgestelde bepalingen of de voorschriften, opgenomen in de verklaring houdende de toelating, over te gaan.
 
-4. De toelating van een model kan worden ingetrokken, indien noch de houder noch een gemachtigde gedurende een aaneengesloten periode van drie jaren gebruik heeft gemaakt van het in [artikel 30r, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=4&artikel=30r&z=2006-01-01&g=2006-01-01), bedoelde recht op speelautomaten een merkteken aan te brengen, tenzij de houder te kennen geeft binnen een termijn van twee jaren daar weer gebruik van te zullen gaan maken.
+4. De toelating van een model kan worden ingetrokken, indien noch de houder noch een gemachtigde gedurende een aaneengesloten periode van drie jaren gebruik heeft gemaakt van het in [artikel 30r, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=4&artikel=30r&z=2006-12-13&g=2006-12-13), bedoelde recht op speelautomaten een merkteken aan te brengen, tenzij de houder te kennen geeft binnen een termijn van twee jaren daar weer gebruik van te zullen gaan maken.
 
 5. In gevallen waarin de toelating kan worden ingetrokken, kan, in plaats daarvan, een beperking aan de toelating worden toegevoegd.
 
@@ -847,19 +847,19 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 30t
 
-1. Het is verboden een of meer speelautomaten, die niet overeenstemmen met het door Onze Minister van Economische Zaken toegelaten model daarvan en die niet ten bewijze daarvan zijn voorzien van het ingevolge [artikel 30r, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=4&artikel=30r&z=2006-01-01&g=2006-01-01), met betrekking tot die toelating vastgestelde merkteken:
+1. Het is verboden een of meer speelautomaten, die niet overeenstemmen met het door Onze Minister van Economische Zaken toegelaten model daarvan en die niet ten bewijze daarvan zijn voorzien van het ingevolge [artikel 30r, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=4&artikel=30r&z=2006-12-13&g=2006-12-13), met betrekking tot die toelating vastgestelde merkteken:
 
-- a. in de handel te brengen, te verkopen, ten verkoop in voorraad te hebben, ten verkoop aan te bieden of af te leveren , met uitzondering van de speelautomaten bedoeld in [artikel 30m, tweede lid, onder a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=4&artikel=30m&z=2006-01-01&g=2006-01-01);
+- a. in de handel te brengen, te verkopen, ten verkoop in voorraad te hebben, ten verkoop aan te bieden of af te leveren , met uitzondering van de speelautomaten bedoeld in [artikel 30m, tweede lid, onder a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=4&artikel=30m&z=2006-12-13&g=2006-12-13);
 
 - b. te exploiteren;
 
-- c. aanwezig te hebben op plaatsen of in inrichtingen als bedoeld in [artikel 30b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=2&artikel=30b&z=2006-01-01&g=2006-01-01).
+- c. aanwezig te hebben op plaatsen of in inrichtingen als bedoeld in [artikel 30b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=2&artikel=30b&z=2006-12-13&g=2006-12-13).
 
-2. Het is verboden in of aan een speelautomaat, die wordt gebruikt of die bestemd is om te worden gebruikt in inrichtingen of bij gelegenheden als bedoeld in [artikel 30c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=2&artikel=30c&z=2006-01-01&g=2006-01-01) en [artikel 30b, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=2&artikel=30b&z=2006-01-01&g=2006-01-01), zodanige wijzigingen aan te brengen of te doen aanbrengen, dat deze niet meer overeenstemt met het door Onze Minister van Economische Zaken toegelaten model daarvan.
+2. Het is verboden in of aan een speelautomaat, die wordt gebruikt of die bestemd is om te worden gebruikt in inrichtingen of bij gelegenheden als bedoeld in [artikel 30c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=2&artikel=30c&z=2006-12-13&g=2006-12-13) en [artikel 30b, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=2&artikel=30b&z=2006-12-13&g=2006-12-13), zodanige wijzigingen aan te brengen of te doen aanbrengen, dat deze niet meer overeenstemt met het door Onze Minister van Economische Zaken toegelaten model daarvan.
 
-3. Bij het intrekken van een toelating als bedoeld in [artikel 30s](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=4&artikel=30s&z=2006-01-01&g=2006-01-01), kan Onze Minister van Economische Zaken bepalen, dat het eerste lid niet of tijdelijk niet van toepassing is op speelautomaten, die voordien ingevolge die toelating rechtmatig van een merkteken zijn voorzien. Het tweede lid is van overeenkomstige toepassing met betrekking tot die speelautomaten.
+3. Bij het intrekken van een toelating als bedoeld in [artikel 30s](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=4&artikel=30s&z=2006-12-13&g=2006-12-13), kan Onze Minister van Economische Zaken bepalen, dat het eerste lid niet of tijdelijk niet van toepassing is op speelautomaten, die voordien ingevolge die toelating rechtmatig van een merkteken zijn voorzien. Het tweede lid is van overeenkomstige toepassing met betrekking tot die speelautomaten.
 
-4. Van een besluit als bedoeld in het derde lid wordt mededeling gedaan in de Staatscourant tegelijk met de mededeling, bedoeld in [artikel 30s, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=4&artikel=30s&z=2006-01-01&g=2006-01-01).
+4. Van een besluit als bedoeld in het derde lid wordt mededeling gedaan in de Staatscourant tegelijk met de mededeling, bedoeld in [artikel 30s, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=4&artikel=30s&z=2006-12-13&g=2006-12-13).
 
 5. Het is verboden om op grond van het behaalde spelresultaat op een behendigheidsautomaat middellijk of onmiddellijk prijzen of premies uit te keren, met uitzondering van een verlengde speelduur of het recht op gratis spellen.
 
@@ -885,7 +885,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 30v
 
-Tegen een op grond van de [paragrafen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=2&z=2006-01-01&g=2006-01-01),[3](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=3&z=2006-01-01&g=2006-01-01) of 4 van deze Titel genomen besluit kan een belanghebbende beroep instellen bij het College van Beroep voor het bedrijfsleven.
+Tegen een op grond van de [paragrafen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=2&z=2006-12-13&g=2006-12-13),[3](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=3&z=2006-12-13&g=2006-12-13) of 4 van deze Titel genomen besluit kan een belanghebbende beroep instellen bij het College van Beroep voor het bedrijfsleven.
 
 #### § 7. Toezicht
 
@@ -893,7 +893,7 @@ Tegen een op grond van de [paragrafen 2](https://wetten.overheid.nl/jci1.3:c:BWB
 
 1. Met het toezicht op de naleving van het bij of krachtens deze Titel bepaalde zijn belast de bij besluit van Onze Minister van Economische Zaken aangewezen ambtenaren of andere personen.
 
-2. Met het toezicht op de naleving van het verbod, bedoeld in [artikel 30b](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=2&artikel=30b&z=2006-01-01&g=2006-01-01), en van de door de burgemeester aan de vergunning verbonden voorschriften zijn belast de bij besluit van burgemeester en wethouders aangewezen ambtenaren.
+2. Met het toezicht op de naleving van het verbod, bedoeld in [artikel 30b](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=2&artikel=30b&z=2006-12-13&g=2006-12-13), en van de door de burgemeester aan de vergunning verbonden voorschriften zijn belast de bij besluit van burgemeester en wethouders aangewezen ambtenaren.
 
 3. Van een besluit als bedoeld in het eerste of tweede lid wordt mededeling gedaan door plaatsing in de Staatscourant.
 
@@ -909,13 +909,13 @@ Vervallen
 
 ##### Artikel 30z
 
-1. Tot het aanwezig hebben en het exploiteren van een of meer speelautomaten in een speelcasino kan uitsluitend door Onze Ministers van Justitie en Economische Zaken vergunning worden verleend. De [paragrafen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=2&z=2006-01-01&g=2006-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=3&z=2006-01-01&g=2006-01-01) van deze Titel zijn niet van toepassing op het aanwezig hebben en het exploiteren van een of meer speelautomaten in een speelcasino.
+1. Tot het aanwezig hebben en het exploiteren van een of meer speelautomaten in een speelcasino kan uitsluitend door Onze Ministers van Justitie en Economische Zaken vergunning worden verleend. De [paragrafen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=2&z=2006-12-13&g=2006-12-13) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=3&z=2006-12-13&g=2006-12-13) van deze Titel zijn niet van toepassing op het aanwezig hebben en het exploiteren van een of meer speelautomaten in een speelcasino.
 
-2. De vergunning kan uitsluitend worden verleend aan de krachtens [artikel 27h, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=IVb&artikel=27h&z=2006-01-01&g=2006-01-01), aangewezen rechtspersoon. De vergunning wordt ingetrokken indien niet de vergunning van kracht is, die ingevolge [artikel 27h, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=IVb&artikel=27h&z=2006-01-01&g=2006-01-01), vereist is tot het organiseren van een speelcasino.
+2. De vergunning kan uitsluitend worden verleend aan de krachtens [artikel 27h, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=IVb&artikel=27h&z=2006-12-13&g=2006-12-13), aangewezen rechtspersoon. De vergunning wordt ingetrokken indien niet de vergunning van kracht is, die ingevolge [artikel 27h, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=IVb&artikel=27h&z=2006-12-13&g=2006-12-13), vereist is tot het organiseren van een speelcasino.
 
 3. Aan de vergunning worden voorschriften verbonden ten aanzien van het aanwezig hebben en de exploitatie van speelautomaten. De voorschriften kunnen worden gewijzigd, aangevuld of ingetrokken.
 
-4. Voor de toelating van het model van speelautomaten kunnen bij of krachtens algemene maatregel van bestuur regels worden gesteld die afwijken van het bepaalde in [paragraaf 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=4&z=2006-01-01&g=2006-01-01) van deze Titel.
+4. Voor de toelating van het model van speelautomaten kunnen bij of krachtens algemene maatregel van bestuur regels worden gesteld die afwijken van het bepaalde in [paragraaf 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=4&z=2006-12-13&g=2006-12-13) van deze Titel.
 
 #### § 9. Slotbepalingen
 
@@ -923,7 +923,7 @@ Vervallen
 
 1. De voordracht tot vaststelling, wijziging of intrekking van een algemene maatregel van bestuur, als voorzien in deze Titel, wordt Ons gedaan door Onze Minister van Economische Zaken.
 
-2. Het ontwerp van een besluit tot vaststelling, wijziging of intrekking van een algemene maatregel van bestuur als voorzien in de[artikelen 30c, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=2&artikel=30c&z=2006-01-01&g=2006-01-01), en [30n, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=4&artikel=30n&z=2006-01-01&g=2006-01-01), wordt bekend gemaakt in de Staatscourant.
+2. Het ontwerp van een besluit tot vaststelling, wijziging of intrekking van een algemene maatregel van bestuur als voorzien in de[artikelen 30c, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=2&artikel=30c&z=2006-12-13&g=2006-12-13), en [30n, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=4&artikel=30n&z=2006-12-13&g=2006-12-13), wordt bekend gemaakt in de Staatscourant.
 
 Een voordracht tot vaststelling, wijziging of intrekking van een algemene maatregel van bestuur als bedoeld in de vorige volzin wordt Ons niet gedaan dan nadat twee maanden na die bekendmaking zijn verstreken.
 
@@ -931,17 +931,17 @@ Een voordracht tot vaststelling, wijziging of intrekking van een algemene maatre
 
 ##### Artikel 31
 
-1. Gedragingen in strijd met de voorschriften vastgesteld bij of krachtens de[artikelen 1, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=I&artikel=1&z=2006-01-01&g=2006-01-01), [30b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=2&artikel=30b&z=2006-01-01&g=2006-01-01), [30d, eerste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=2&artikel=30d&z=2006-01-01&g=2006-01-01), [30h, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=3&artikel=30h&z=2006-01-01&g=2006-01-01), [30j, eerste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=3&artikel=30j&z=2006-01-01&g=2006-01-01), [30m, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=4&artikel=30m&z=2006-01-01&g=2006-01-01), [30t, eerste, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=5&artikel=30t&z=2006-01-01&g=2006-01-01), en [30z, eerste, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=8&artikel=30z&z=2006-01-01&g=2006-01-01), zijn misdrijven, voorzover zij opzettelijk zijn begaan, en overigens overtredingen.
+1. Gedragingen in strijd met de voorschriften vastgesteld bij of krachtens de[artikelen 1, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=I&artikel=1&z=2006-12-13&g=2006-12-13), [30b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=2&artikel=30b&z=2006-12-13&g=2006-12-13), [30d, eerste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=2&artikel=30d&z=2006-12-13&g=2006-12-13), [30h, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=3&artikel=30h&z=2006-12-13&g=2006-12-13), [30j, eerste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=3&artikel=30j&z=2006-12-13&g=2006-12-13), [30m, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=4&artikel=30m&z=2006-12-13&g=2006-12-13), [30t, eerste, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=5&artikel=30t&z=2006-12-13&g=2006-12-13), en [30z, eerste, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=8&artikel=30z&z=2006-12-13&g=2006-12-13), zijn misdrijven, voorzover zij opzettelijk zijn begaan, en overigens overtredingen.
 
-2. Gedragingen in strijd met de voorschriften vastgesteld bij of krachtens de [artikelen 1, onder b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=I&artikel=1&z=2006-01-01&g=2006-01-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=I&artikel=7&z=2006-01-01&g=2006-01-01), [7c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=Ia&artikel=7c&z=2006-01-01&g=2006-01-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=II&artikel=13&z=2006-01-01&g=2006-01-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=II&artikel=14&z=2006-01-01&g=2006-01-01), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=IV&artikel=27&z=2006-01-01&g=2006-01-01), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=V&artikel=28&z=2006-01-01&g=2006-01-01), [30d, eerste lid, eerste en derde volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=2&artikel=30d&z=2006-01-01&g=2006-01-01), [30g, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=2&artikel=30g&z=2006-01-01&g=2006-01-01), [30i, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=3&artikel=30i&z=2006-01-01&g=2006-01-01), [30j, eerste lid, eerste en derde volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=3&artikel=30j&z=2006-01-01&g=2006-01-01), [30q, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=4&artikel=30q&z=2006-01-01&g=2006-01-01), [30r, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=4&artikel=30r&z=2006-01-01&g=2006-01-01), [30u, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=5&artikel=30u&z=2006-01-01&g=2006-01-01), [30x](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=7&artikel=30x&z=2006-01-01&g=2006-01-01) en [30z, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=8&artikel=30z&z=2006-01-01&g=2006-01-01), zijn overtredingen.
+2. Gedragingen in strijd met de voorschriften vastgesteld bij of krachtens de [artikelen 1, onder b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=I&artikel=1&z=2006-12-13&g=2006-12-13), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=I&artikel=7&z=2006-12-13&g=2006-12-13), [7c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=Ia&artikel=7c&z=2006-12-13&g=2006-12-13), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=II&artikel=13&z=2006-12-13&g=2006-12-13), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=II&artikel=14&z=2006-12-13&g=2006-12-13), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=IV&artikel=27&z=2006-12-13&g=2006-12-13), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=V&artikel=28&z=2006-12-13&g=2006-12-13), [30d, eerste lid, eerste en derde volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=2&artikel=30d&z=2006-12-13&g=2006-12-13), [30g, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=2&artikel=30g&z=2006-12-13&g=2006-12-13), [30i, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=3&artikel=30i&z=2006-12-13&g=2006-12-13), [30j, eerste lid, eerste en derde volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=3&artikel=30j&z=2006-12-13&g=2006-12-13), [30q, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=4&artikel=30q&z=2006-12-13&g=2006-12-13), [30r, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=4&artikel=30r&z=2006-12-13&g=2006-12-13), [30u, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=5&artikel=30u&z=2006-12-13&g=2006-12-13), [30x](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=7&artikel=30x&z=2006-12-13&g=2006-12-13) en [30z, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=8&artikel=30z&z=2006-12-13&g=2006-12-13), zijn overtredingen.
 
 3. Gedragingen, die in dit artikel als misdrijf of als overtreding zijn aangemerkt, zijn economische delicten in de zin van [artikel 1, aanhef en onder 3°, van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=1).
 
 ##### Artikel 32
 
-1. Overtreding van de verbodsbepaling van [artikel 1, onder **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=I&artikel=1&z=2006-01-01&g=2006-01-01), wordt gestraft met geldboete van de derde categorie.
+1. Overtreding van de verbodsbepaling van [artikel 1, onder **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=I&artikel=1&z=2006-12-13&g=2006-12-13), wordt gestraft met geldboete van de derde categorie.
 
-2. Overtreding van de verbodsbepalingen van de[artikelen 30g, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=2&artikel=30g&z=2006-01-01&g=2006-01-01), en [30u, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=5&artikel=30u&z=2006-01-01&g=2006-01-01), wordt gestraft met geldboete van de eerste categorie.
+2. Overtreding van de verbodsbepalingen van de[artikelen 30g, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=2&artikel=30g&z=2006-12-13&g=2006-12-13), en [30u, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=5&artikel=30u&z=2006-12-13&g=2006-12-13), wordt gestraft met geldboete van de eerste categorie.
 
 3. De feiten, strafbaar gesteld in het eerste en tweede lid, zijn overtredingen.
 
@@ -957,7 +957,7 @@ Een voordracht tot vaststelling, wijziging of intrekking van een algemene maatre
 
 ##### Artikel 34
 
-1. Het College wordt gehoord over het voornemen tot verlening, wijziging of intrekking van een vergunning als bedoeld in de[artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=II&artikel=9&z=2006-01-01&g=2006-01-01), [14b](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=IIa&artikel=14b&z=2006-01-01&g=2006-01-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=III&artikel=16&z=2006-01-01&g=2006-01-01), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=IV&artikel=24&z=2006-01-01&g=2006-01-01), [27b](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=IVa&artikel=27b&z=2006-01-01&g=2006-01-01), [27h](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=IVb&artikel=27h&z=2006-01-01&g=2006-01-01) en [30z](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=8&artikel=30z&z=2006-01-01&g=2006-01-01) van de wet, alsmede in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=I&artikel=3&z=2006-01-01&g=2006-01-01) van de wet voorzover de prijzen en premies gezamenlijk een grotere waarde dan € 4 500 000 hebben.
+1. Het College wordt gehoord over het voornemen tot verlening, wijziging of intrekking van een vergunning als bedoeld in de[artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=II&artikel=9&z=2006-12-13&g=2006-12-13), [14b](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=IIa&artikel=14b&z=2006-12-13&g=2006-12-13), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=III&artikel=16&z=2006-12-13&g=2006-12-13), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=IV&artikel=24&z=2006-12-13&g=2006-12-13), [27b](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=IVa&artikel=27b&z=2006-12-13&g=2006-12-13), [27h](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=IVb&artikel=27h&z=2006-12-13&g=2006-12-13) en [30z](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=8&artikel=30z&z=2006-12-13&g=2006-12-13) van de wet, alsmede in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=I&artikel=3&z=2006-12-13&g=2006-12-13) van de wet voorzover de prijzen en premies gezamenlijk een grotere waarde dan € 4 500 000 hebben.
 
 2. Het College is belast met het toezicht op de naleving door de rechtspersonen, waaraan een vergunning is verleend als bedoeld in het eerste lid, van het bepaalde bij of krachtens deze wet en van hun statuten en reglementen.
 
