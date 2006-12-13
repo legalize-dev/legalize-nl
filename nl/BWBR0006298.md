@@ -4,7 +4,7 @@ identifier: "BWBR0006298"
 country: "nl"
 rank: "wet"
 publication_date: "2013-01-01"
-last_updated: "2002-01-01"
+last_updated: "2006-12-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006298"
 soort: "wet"
@@ -74,7 +74,7 @@ In deze wet wordt verstaan onder:
 
 - b. zijn aanspraak op Surinaams pensioen aan de Nederlandse Staat heeft gecedeerd.
 
-2. Door de stichting wordt op de daartoe gedane aanvraag tevens een garantiepensioen toegekend aan degene die niet als rechthebbende in de zin van [artikel 1, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0006298&artikel=1&z=2002-01-01&g=2002-01-01), kan worden aangemerkt, maar aan wie voor 1 januari 1992 door de stichting voorschotten zijn verstrekt op zijn Surinaams pensioen, op voorwaarde dat hij zijn aanspraak op Surinaams pensioen aan de Nederlandse Staat heeft gecedeerd.
+2. Door de stichting wordt op de daartoe gedane aanvraag tevens een garantiepensioen toegekend aan degene die niet als rechthebbende in de zin van [artikel 1, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0006298&artikel=1&z=2006-12-13&g=2006-12-13), kan worden aangemerkt, maar aan wie voor 1 januari 1992 door de stichting voorschotten zijn verstrekt op zijn Surinaams pensioen, op voorwaarde dat hij zijn aanspraak op Surinaams pensioen aan de Nederlandse Staat heeft gecedeerd.
 
 3. Voorts wordt door de stichting op de daartoe gedane aanvraag een garantiepensioen toegekend aan degene of degenen die aanspraak hebben op een Surinaams nabestaandenpensioen ingevolge het overlijden van degene op wie het tweede lid van toepassing was, eveneens op voorwaarde dat de aanspraak op Surinaams pensioen aan de Nederlandse Staat is gecedeerd.
 
@@ -84,7 +84,7 @@ In deze wet wordt verstaan onder:
 
 ##### Artikel 3
 
-1. Onverminderd het gestelde in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0006298&artikel=4&z=2002-01-01&g=2002-01-01) wordt het bedrag van het garantiepensioen bepaald door het bruto bedrag van het gecedeerde Surinaams pensioen te vermenigvuldigen met:
+1. Onverminderd het gestelde in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0006298&artikel=4&z=2006-12-13&g=2006-12-13) wordt het bedrag van het garantiepensioen bepaald door het bruto bedrag van het gecedeerde Surinaams pensioen te vermenigvuldigen met:
 
 - a. de wisselkoers van de Surinaamse gulden: en met
 
@@ -94,13 +94,13 @@ In deze wet wordt verstaan onder:
 
 - 3°. van de maand waarin het recht op Surinaams pensioen wordt verkregen, indien de rechthebbende zich na 25 november 1975 in Nederland heeft gevestigd en op het moment van zijn vestiging nog geen recht had op een Surinaams pensioen;
 
-- b. de breuk waarvan de teller wordt gevormd door het prijsindexcijfer in de maand van uitbetaling van het garantiepensioen, met als basis de maand november 1975, en waarvan de noemer:
+- b. de breuk waarvan de teller wordt gevormd door de consumentenprijsindex in de maand van uitbetaling van het garantiepensioen, met als basis de maand november 1975, en waarvan de noemer:
 
 - 1°. 100 bedraagt, indien de rechthebbende zich voor of op 25 november 1975 in Nederland heeft gevestigd;
 
-- 2°. het prijsindexcijfer is ten tijde van de maand van vestiging in Nederland, indien de rechthebbende zich na 25 november 1975 in Nederland heeft gevestigd en op het moment van zijn vestiging in Nederland reeds recht had op een Surinaams pensioen;
+- 2°. de consumentenprijsindex is ten tijde van de maand van vestiging in Nederland, indien de rechthebbende zich na 25 november 1975 in Nederland heeft gevestigd en op het moment van zijn vestiging in Nederland reeds recht had op een Surinaams pensioen;
 
-- 3°. het prijsindexcijfer is ten tijde van de maand waarin het recht op een Surinaams pensioen wordt verkregen, indien de rechthebbende zich na 25 november 1975 in Nederland heeft gevestigd en op het moment van zijn vestiging in Nederland nog geen recht had op een Surinaams pensioen.
+- 3°. de consumentenprijsindex is ten tijde van de maand waarin het recht op een Surinaams pensioen wordt verkregen, indien de rechthebbende zich na 25 november 1975 in Nederland heeft gevestigd en op het moment van zijn vestiging in Nederland nog geen recht had op een Surinaams pensioen.
 
 2. In afwijking van het eerste lid wordt voor de berekening van het garantiepensioen van de rechthebbende die aanspraak heeft op een Surinaams nabestaandenpensioen ingevolge het overlijden van een gepensioneerde die zich voor 1 mei 1985 in Nederland heeft gevestigd, gebruik gemaakt van de wisselkoers als bedoeld in het eerste lid, onder **a**, en de breuk als bedoeld in het eerste lid, onder **b**, die ten aanzien van het garantiepensioen van de overledene golden of zouden hebben gegolden.
 
@@ -114,7 +114,7 @@ In deze wet wordt verstaan onder:
 
 Het bedrag van het garantiepensioen van degene:
 
-- a. op wie [artikel 2, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006298&artikel=2&z=2002-01-01&g=2002-01-01), van toepassing is, of
+- a. op wie [artikel 2, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006298&artikel=2&z=2006-12-13&g=2006-12-13), van toepassing is, of
 
 - b. die krachtens de [Toeslagregeling pensioenen Suriname en Nederlandse Antillen](https://wetten.overheid.nl/jci1.3:c:BWBR0002574) een toeslag ontvangt op zijn pensioen, wordt vastgesteld door het bruto bedrag van het gecedeerde Surinaamse pensioen te vermenigvuldigen met 0,505.
 
