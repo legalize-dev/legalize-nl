@@ -4,7 +4,7 @@ identifier: "BWBR0002845"
 country: "nl"
 rank: "wet"
 publication_date: "2024-01-01"
-last_updated: "2002-07-01"
+last_updated: "2006-12-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002845"
 soort: "wet"
@@ -56,15 +56,15 @@ vermeerderd of verminderd in elk jaar waarover de uitkering wordt genoten:
 
 - -. voor het gedeelte van de uitkering dat betrekking heeft op personeelskosten, vermeld onder A van de in het vierde lid opgenomen tabel, in de verhouding waarin het ambtelijke inkomen van een ambtenaar in schaal 11 dan wel schaal 3 - zulks naar gelang het betreft een lid van het Koninklijk Huis genoemd onder I en II dan wel onder III en IV van die tabel - in dat jaar afwijkt van dat ambtelijk inkomen in het jaar 1971;
 
-- -. voor het gedeelte van de uitkering dat betrekking heeft op overige kosten, vermeld onder B van de in het vierde lid opgenomen tabel, in de verhouding waarin het algemeen prijspeil van het gezinsverbruik blijkens de door het Centraal Bureau voor de Statistiek vastgestelde prijsindexcijfers voor de gezinsconsumptie in de maand juni van dat jaar afwijkt van dat prijspeil in de maand juni van het jaar 1971;
+- -. voor het gedeelte van de uitkering dat betrekking heeft op overige kosten, vermeld onder B van de in het vierde lid opgenomen tabel, in de verhouding waarin het algemeen prijspeil van het gezinsverbruik blijkens de door het Centraal Bureau voor de Statistiek vastgestelde consumentenprijsindex in de maand juni van dat jaar afwijkt van dat prijspeil in de maand juni van het jaar 1971;
 
 - -. voor het gedeelte van de uitkering dat betrekking heeft op het inkomensbestanddeel, vermeld onder C van de in het vierde lid opgenomen tabel, in de verhouding waarin het netto-ambtelijk inkomen van de vice-president van de Raad van State in dat jaar afwijkt van dat netto-ambtelijk inkomen in het jaar 1971.
 
 2. In het eerste lid wordt verstaan onder:
 
-- -. het ambtelijk inkomen van een ambtenaar in schaal 11 dan wel schaal 3 het ambtelijk inkomen in de zin van [artikel C1 van de Algemene burgerlijke pensioenwet](onbekend), zoals dat luidde op 31 december 1995, met uitzondering van toelagen of uitkeringen, welke geen algemeen karakter dragen van een ambtenaar in schaal 11, onderscheidenlijk 3 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B) (**Stb.** 1983, 571), die gedurende het desbetreffende jaar het maximum salaris van zijn schaal geniet;
+- -. het ambtelijk inkomen van een ambtenaar in schaal 11 dan wel schaal 3 het ambtelijk inkomen in de zin van artikel C1 van de Algemene burgerlijke pensioenwet, zoals dat luidde op 31 december 1995, met uitzondering van toelagen of uitkeringen, welke geen algemeen karakter dragen van een ambtenaar in schaal 11, onderscheidenlijk 3 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B) (**Stb.** 1983, 571), die gedurende het desbetreffende jaar het maximum salaris van zijn schaal geniet;
 
-- -. het netto-ambtelijk inkomen van de vice-president van de Raad van State het ambtelijk inkomen in de zin van [artikel C 1 van de Algemene burgerlijke pensioenwet](onbekend), zoals dat luidde op 31 december 1995, met uitzondering van toelagen of uitkeringen, welke geen algemeen karakter dragen, van de vice-president van de Raad van State, verminderd met over het inkomen verschuldigde premies voor sociale verzekeringen en inkomstenbelasting waarbij voor de berekening wordt uitgegaan van een leeftijd beneden 65 jaar, inkomen uit tegenwoordige arbeid en tweemaal de algemene heffingskorting.
+- -. het netto-ambtelijk inkomen van de vice-president van de Raad van State het ambtelijk inkomen in de zin van artikel C 1 van de Algemene burgerlijke pensioenwet, zoals dat luidde op 31 december 1995, met uitzondering van toelagen of uitkeringen, welke geen algemeen karakter dragen, van de vice-president van de Raad van State, verminderd met over het inkomen verschuldigde premies voor sociale verzekeringen en inkomstenbelasting waarbij voor de berekening wordt uitgegaan van een leeftijd beneden 65 jaar, inkomen uit tegenwoordige arbeid en tweemaal de algemene heffingskorting.
 
 3. Voor de toepassing van het eerste lid wordt niet als afwijking beschouwd de afwijking van het ambtelijk inkomen welke het gevolg is van de met de Wet afschaffing overneming premie AOW/AWW (**Stb.** 1985, 288) samenhangende salarisverhoging van het burgerlijk overheidspersoneel als geregeld in het koninklijk besluit van 8 augustus 1985, **Stb.** 451.
 
@@ -84,11 +84,11 @@ vermeerderd of verminderd in elk jaar waarover de uitkering wordt genoten:
 
 1. Bij overlijden van de Koning dan wel van de vermoedelijke erfgenaam van de Kroon ontvangt de overlevende echtgenote of echtgenoot, zolang deze lid van het Koninklijk Huis is, een uitkering die binnen twee jaren na het overlijden geregeld wordt door aanvulling van deze wet.
 
-2. De in het eerste lid bedoelde echtgenote of echtgenoot ontvangt, zolang deze lid van het Koninklijk Huis is, tot het in werking treden van de in het eerste lid bedoelde regeling ten minste de uitkering die zij of hij volgens het bepaalde in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002845&artikel=1&z=2002-07-01&g=2002-07-01) zou hebben ontvangen indien het overlijden niet zou hebben plaats gehad.
+2. De in het eerste lid bedoelde echtgenote of echtgenoot ontvangt, zolang deze lid van het Koninklijk Huis is, tot het in werking treden van de in het eerste lid bedoelde regeling ten minste de uitkering die zij of hij volgens het bepaalde in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002845&artikel=1&z=2006-12-13&g=2006-12-13) zou hebben ontvangen indien het overlijden niet zou hebben plaats gehad.
 
 ##### Artikel 3
 
-Een Koning die afstand van de Kroon heeft gedaan alsmede zijn echtgenote ontvangen, zolang zij lid zijn van het Koninklijk Huis, een uitkering die geregeld wordt door aanvulling van deze wet. De [artikelen 1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002845&artikel=1&z=2002-07-01&g=2002-07-01), en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0002845&artikel=2&z=2002-07-01&g=2002-07-01) zijn van overeenkomstige toepassing.
+Een Koning die afstand van de Kroon heeft gedaan alsmede zijn echtgenote ontvangen, zolang zij lid zijn van het Koninklijk Huis, een uitkering die geregeld wordt door aanvulling van deze wet. De [artikelen 1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002845&artikel=1&z=2006-12-13&g=2006-12-13), en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0002845&artikel=2&z=2006-12-13&g=2006-12-13) zijn van overeenkomstige toepassing.
 
 ##### Artikel 4
 
@@ -150,9 +150,9 @@ Prinses Juliana € 601 258,79
 
 Prins Bernhard € 353 948,57
 
-2. Deze uitkeringen worden jaarlijks vermeerderd of verminderd overeenkomstig de jaarlijkse vermeerdering of vermindering ten opzichte van 1979 van de uitkeringen van de leden van het Koninklijk Huis, genoemd onder I en II van de in [artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002845&artikel=1&z=2002-07-01&g=2002-07-01), opgenomen tabel.
+2. Deze uitkeringen worden jaarlijks vermeerderd of verminderd overeenkomstig de jaarlijkse vermeerdering of vermindering ten opzichte van 1979 van de uitkeringen van de leden van het Koninklijk Huis, genoemd onder I en II van de in [artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002845&artikel=1&z=2006-12-13&g=2006-12-13), opgenomen tabel.
 
-3. De in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002845&artikel=1&z=2002-07-01&g=2002-07-01), bedoelde gedeelten van de uitkeringen zijn voor:
+3. De in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002845&artikel=1&z=2006-12-13&g=2006-12-13), bedoelde gedeelten van de uitkeringen zijn voor:
 
 |   | A | B | C |
 | --- | --- | --- | --- |
