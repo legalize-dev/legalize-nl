@@ -4,7 +4,7 @@ identifier: "BWBR0004140"
 country: "nl"
 rank: "amvb"
 publication_date: "2015-07-01"
-last_updated: "2006-01-01"
+last_updated: "2006-12-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004140"
 soort: "AMvB"
@@ -50,11 +50,11 @@ Op de volgende rechtspersonen of organen van rechtspersonen rusten mede de in [a
 
 - 2°. de Sociaal-Economische Raad en de hoofdproduct-, product- de hoofdbedrijf- en de bedrijfschappen, bedoeld in de [Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058) (**Stb.** 1950, K22);
 
-- 3°. het College van toezicht sociale verzekeringen, de Sociale Verzekeringsbank, het Landelijk instituut sociale verzekeringen en de uitvoeringsinstellingen, bedoeld in de Organisatiewet sociale verzekeringen 1997;.
+- 3°. het College van toezicht sociale verzekeringen, de Sociale Verzekeringsbank, het Landelijk instituut sociale verzekeringen en de uitvoeringsinstellingen, bedoeld in de Organisatiewet sociale verzekeringen 1997;
 
-- 4°. het College van toezicht op de zorgverzekeringen, genoemd in [artikel 77, eerste lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=77);
+- 4°. de Nederlandse Zorgautoriteit;
 
-- 5°. het College tarieven gezondheidszorg;
+- 5°. Vervallen.
 
 - 6°. instellingen, in het belang van de volkshuisvesting werkzaam, als toegelaten op grond van [artikel 59 van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=59) (**Stb.** 1962, 287);
 
