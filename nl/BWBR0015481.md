@@ -4,7 +4,7 @@ identifier: "BWBR0015481"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2006-10-01"
+last_updated: "2006-12-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0015481"
 soort: "AMvB"
@@ -92,7 +92,7 @@ Hebben goedgevonden en verstaan:
 
 1. Het tarief voor de vergoeding van werkzaamheden als bedoeld in [artikel 3, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002406&artikel=3), verricht door psychologen, bedraagt, voor het verrichten van psychologisch onderzoek, ten hoogste € 61,71 per uur.
 
-2. Met betrekking tot de uren die voor vergoeding in aanmerking komen, is [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015481&paragraaf=2&artikel=2&z=2006-01-01&g=2006-10-01), van overeenkomstige toepassing.
+2. Met betrekking tot de uren die voor vergoeding in aanmerking komen, is [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015481&paragraaf=2&artikel=2&z=2006-12-14&g=2006-12-14), van overeenkomstige toepassing.
 
 ##### Artikel 4
 
@@ -130,17 +130,17 @@ Het tarief voor de vergoeding van werkzaamheden als bedoeld in [artikel 3, eerst
 
 Voor werkzaamheden als bedoeld in [artikel 3, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002406&artikel=3), waarvoor geen speciaal tarief is bepaald, geldt, naar gelang de werkzaamheden niet of in meer of mindere mate van wetenschappelijke of bijzondere aard zijn, een tarief van ten hoogste € 81,23 per uur, met dien verstande dat:
 
-- a. het tarief voor vergoedingen van verrichtingen van medische aard het door het College tarieven gezondheidszorg goedgekeurde of vastgestelde tarief bedraagt;
+- a. het tarief voor vergoedingen van verrichtingen van medische aard het door de Nederlandse Zorgautoriteit vastgestelde tarief bedraagt;
 
-- b. het tarief voor vergoedingen van verpleging in een ziekenhuisvoorziening het voor deze vergoedingen geldende tarief in de laagste klasse bedraagt.
+- b. het tarief voor vergoedingen van verpleging in een zorginstelling het voor deze vergoedingen geldende tarief in de laagste klasse bedraagt.
 
 ##### Artikel 7
 
-1. Het aantal aan de psychiater en psycholoog te vergoeden uren als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015481&paragraaf=2&artikel=2&z=2006-01-01&g=2006-10-01), respectievelijk [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015481&paragraaf=2&artikel=3&z=2006-01-01&g=2006-10-01), kan worden verhoogd met ten hoogste vier uur, indien er naar het oordeel van de ressortpsycholoog van de Forensisch Psychiatrische Dienst sprake is van een rapportage over jeugdigen.
+1. Het aantal aan de psychiater en psycholoog te vergoeden uren als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015481&paragraaf=2&artikel=2&z=2006-12-14&g=2006-12-14), respectievelijk [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015481&paragraaf=2&artikel=3&z=2006-12-14&g=2006-12-14), kan worden verhoogd met ten hoogste vier uur, indien er naar het oordeel van de ressortpsycholoog van de Forensisch Psychiatrische Dienst sprake is van een rapportage over jeugdigen.
 
 2. Het aantal aan de psycholoog te vergoeden uren kan voorts worden verhoogd met ten hoogste vier uur, indien er naar oordeel van de ressortpsycholoog van de Forensisch Psychiatrische Dienst sprake is van een uitgebreid psychologisch testonderzoek.
 
-3. De tarieven, genoemd in de [artikelen 2 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0015481&paragraaf=2&artikel=2&z=2006-01-01&g=2006-10-01), worden met de helft verhoogd voor werkzaamheden die ingevolge het daartoe strekkende verzoek of de gegeven opdracht moeten worden verricht op:
+3. De tarieven, genoemd in de [artikelen 2 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0015481&paragraaf=2&artikel=2&z=2006-12-14&g=2006-12-14), worden met de helft verhoogd voor werkzaamheden die ingevolge het daartoe strekkende verzoek of de gegeven opdracht moeten worden verricht op:
 
 - a. zaterdag;
 
@@ -168,9 +168,9 @@ Voor werkzaamheden als bedoeld in [artikel 3, eerste lid, onderdeel a, van de we
 
 ##### Artikel 9
 
-1. Voor de vaststelling van de uurvergoeding als bedoeld in de [artikelen 2 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0015481&paragraaf=2&artikel=2&z=2006-01-01&g=2006-10-01) geldt een gedeelte van een uur gelijk aan een half uur of korter, als een half uur, en een gedeelte langer dan een half uur als een heel uur.
+1. Voor de vaststelling van de uurvergoeding als bedoeld in de [artikelen 2 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0015481&paragraaf=2&artikel=2&z=2006-12-14&g=2006-12-14) geldt een gedeelte van een uur gelijk aan een half uur of korter, als een half uur, en een gedeelte langer dan een half uur als een heel uur.
 
-2. Voor tijdverzuim als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0015481&paragraaf=2&artikel=8&z=2006-01-01&g=2006-10-01) is per dag een vergoeding verschuldigd voor ten hoogste negen uur.
+2. Voor tijdverzuim als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0015481&paragraaf=2&artikel=8&z=2006-12-14&g=2006-12-14) is per dag een vergoeding verschuldigd voor ten hoogste negen uur.
 
 ##### Artikel 10
 
@@ -186,7 +186,7 @@ Voor werkzaamheden als bedoeld in [artikel 3, eerste lid, onderdeel a, van de we
 
 1. Het tarief voor vergoedingen wegens reis- en verblijfkosten als bedoeld in [artikel 6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002406&artikel=6) bedraagt, indien deze vergoedingen worden verstrekt aan:
 
-- a. personen als bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015481&paragraaf=2&artikel=8&z=2006-01-01&g=2006-10-01), € 1,54 per retourkilometer;
+- a. personen als bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015481&paragraaf=2&artikel=8&z=2006-12-14&g=2006-12-14), € 1,54 per retourkilometer;
 
 - b. personen aan wie op grond van [artikel 3, derde lid, sub c, d of e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002406&artikel=3), geen vergoeding wegens tijdverzuim toekomt, het tarief, gesteld in het [Reisbesluit binnenland](https://wetten.overheid.nl/jci1.3:c:BWBR0005889);
 
@@ -228,7 +228,7 @@ Voor het uitbrengen van exploiten ingevolge bijzondere wetten is aan de deurwaar
 
 ##### Artikel 14
 
-1. Tot de in [artikel 2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002406&artikel=2) bedoelde buitengewone, bij en krachtens die wet niet voorziene kosten worden gerekend de vergoedingen voor werkzaamheden, verricht door personen ten aanzien van wie in verband met hun verblijf in het buitenland wordt afgeweken van de tarieven, genoemd in de [artikelen 2 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0015481&paragraaf=2&artikel=2&z=2006-01-01&g=2006-10-01) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0015481&paragraaf=3&artikel=11&z=2006-01-01&g=2006-10-01).
+1. Tot de in [artikel 2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002406&artikel=2) bedoelde buitengewone, bij en krachtens die wet niet voorziene kosten worden gerekend de vergoedingen voor werkzaamheden, verricht door personen ten aanzien van wie in verband met hun verblijf in het buitenland wordt afgeweken van de tarieven, genoemd in de [artikelen 2 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0015481&paragraaf=2&artikel=2&z=2006-12-14&g=2006-12-14) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0015481&paragraaf=3&artikel=11&z=2006-12-14&g=2006-12-14).
 
 2. Bij deze niet voorziene kosten komen de reis- en verblijfkosten van deze personen en de kosten wegens tijdverzuim en daarmee verband houdende noodzakelijke kosten eveneens voor vergoeding in aanmerking.
 
@@ -270,7 +270,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 5a
 
-1. Bij ministeriële regeling kan bij wege van experiment, in het belang van het streven naar marktwerking op het gebied van de werkzaamheden van tolken en vertalers, voor een periode van maximaal drie jaren in dier voege worden afgeweken van de [artikelen 4, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015481&paragraaf=2&artikel=4&z=2006-01-01&g=2006-10-01), en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0015481&paragraaf=2&artikel=5&z=2006-01-01&g=2006-10-01) dat de daarin genoemde tarieven als maximumtarieven gelden.
+1. Bij ministeriële regeling kan bij wege van experiment, in het belang van het streven naar marktwerking op het gebied van de werkzaamheden van tolken en vertalers, voor een periode van maximaal drie jaren in dier voege worden afgeweken van de [artikelen 4, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015481&paragraaf=2&artikel=4&z=2006-12-14&g=2006-12-14), en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0015481&paragraaf=2&artikel=5&z=2006-12-14&g=2006-12-14) dat de daarin genoemde tarieven als maximumtarieven gelden.
 
 2. Indien toepassing wordt gegeven aan het eerste lid, wordt in ieder geval bepaald:
 
