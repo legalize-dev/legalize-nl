@@ -4,7 +4,7 @@ identifier: "BWBR0015738"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-02"
-last_updated: "2006-04-21"
+last_updated: "2006-12-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0015738"
 soort: "ministeriele-regeling"
@@ -58,9 +58,9 @@ In deze regeling wordt verstaan onder:
 
 1. Het verslag over de uitvoering, de verklaring van de accountant en het oordeel van de gemeenteraad, bedoeld in [artikel 77, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=77), worden uiterlijk op 20 september van het kalenderjaar volgend op het kalenderjaar waarop zij betrekking hebben door de minister ontvangen.
 
-2. Het verslag over de uitvoering wordt ingericht overeenkomstig het als [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&bijlage=1&z=2006-04-21&g=2006-04-21) bij deze regeling opgenomen model.
+2. Het verslag over de uitvoering wordt ingericht overeenkomstig het als [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&bijlage=1&z=2006-12-15&g=2006-12-15) bij deze regeling opgenomen model.
 
-3. De verklaring van de accountant wordt ingericht overeenkomstig het als [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&bijlage=2&z=2006-04-21&g=2006-04-21) bij deze regeling opgenomen model. Het onderzoek dat resulteert in de verklaring wordt uitgevoerd overeenkomstig het als [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&bijlage=3&z=2006-04-21&g=2006-04-21) bij deze regeling opgenomen controle- en rapportageprotocol.
+3. De verklaring van de accountant wordt ingericht overeenkomstig het als [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&bijlage=2&z=2006-12-15&g=2006-12-15) bij deze regeling opgenomen model. Het onderzoek dat resulteert in de verklaring wordt uitgevoerd overeenkomstig het als [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&bijlage=3&z=2006-12-15&g=2006-12-15) bij deze regeling opgenomen controle- en rapportageprotocol.
 
 ##### Artikel 3. Geen accountantsverklaring
 
@@ -72,7 +72,7 @@ In deze regeling wordt verstaan onder:
 
 1. Het voorlopig verslag over de uitvoering, bedoeld in [artikel 77, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=77) wordt uiterlijk op 28 februari van het kalenderjaar volgend op het kalenderjaar waarop het voorlopig verslag betrekking heeft door de minister ontvangen.
 
-2. Het voorlopig verslag wordt ingericht overeenkomstig het als [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&bijlage=4&z=2006-04-21&g=2006-04-21) bij deze regeling opgenomen model.
+2. Het voorlopig verslag wordt ingericht overeenkomstig het als [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&bijlage=4&z=2006-12-15&g=2006-12-15) bij deze regeling opgenomen model.
 
 #### § 3. Betaling
 
@@ -110,7 +110,9 @@ Niet tot de middelen, bedoeld in [artikel 31 van de wet](https://wetten.overheid
 
 - g. de individuele uitkeringen in het kader van tegoeden Tweede Wereldoorlog aan leden van de Joodse, Sinti, Roma en Indische gemeenschappen;
 
-- h. een kostenvergoeding voor het verrichten van vrijwilligerswerk van ten hoogste € 95,– per maand met een maximum van € 764,– per jaar, dan wel een kostenvergoeding voor het verrichten van vrijwilligerswerk in het kader van een voorziening gericht op arbeidsinschakeling als bedoeld in[artikel 7, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=7) van ten hoogste € 150,– per maand met een maximum van € 1500,– per jaar.
+- h. een kostenvergoeding voor het verrichten van vrijwilligerswerk van ten hoogste € 95,– per maand met een maximum van € 764,– per jaar, dan wel een kostenvergoeding voor het verrichten van vrijwilligerswerk in het kader van een voorziening gericht op arbeidsinschakeling als bedoeld in[artikel 7, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=7) van ten hoogste € 150,– per maand met een maximum van € 1500,– per jaar;
+
+- i. de eenmalige tegemoetkoming, bedoeld in [artikel 2 van de Tijdelijke regeling eenmalige tegemoetkoming pensioenverevening](https://wetten.overheid.nl/jci1.3:c:BWBR0020647&artikel=2).
 
 #### § 6. Vakantietoeslag
 
@@ -132,7 +134,7 @@ Deze paragraaf is van toepassing op de vaststelling van de aanspraak op vakantie
 
 ##### Artikel 10. In aanmerking te nemen vakantietoeslag
 
-Indien over het inkomen van de belanghebbende aanspraak op vakantietoeslag bestaat neemt het college bij de vaststelling van de hoogte van de algemene bijstand mede op grond van de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=11&z=2006-04-21&g=2006-04-21), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=12&z=2006-04-21&g=2006-04-21), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=13&z=2006-04-21&g=2006-04-21) of [14](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=14&z=2006-04-21&g=2006-04-21) berekende aanspraak op vakantietoeslag in aanmerking.
+Indien over het inkomen van de belanghebbende aanspraak op vakantietoeslag bestaat neemt het college bij de vaststelling van de hoogte van de algemene bijstand mede op grond van de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=11&z=2006-12-15&g=2006-12-15), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=12&z=2006-12-15&g=2006-12-15), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=13&z=2006-12-15&g=2006-12-15) of [14](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=14&z=2006-12-15&g=2006-12-15) berekende aanspraak op vakantietoeslag in aanmerking.
 
 ##### Artikel 11. Vakantieaanspraak voor personen jonger dan 65 jaar met inkomen uit tegenwoordige arbeid
 
@@ -271,7 +273,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met ui
 
 ##### Artikel 7a. Indexering
 
-1. Met ingang van de dag waarop de bedragen, genoemd in [artikel 2, zesde lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=2) wijzigen, worden de bedragen, genoemd in [artikel 7, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=5&artikel=7&z=2006-04-21&g=2006-04-21), herzien met het percentage van deze wijziging.
+1. Met ingang van de dag waarop de bedragen, genoemd in [artikel 2, zesde lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=2) wijzigen, worden de bedragen, genoemd in [artikel 7, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=5&artikel=7&z=2006-12-15&g=2006-12-15), herzien met het percentage van deze wijziging.
 
 2. Van de herziene bedragen, bedoeld in het eerste lid, en van de dag waarop de herziening plaatsvindt wordt door de minister mededeling gedaan in de Staatscourant.
 
