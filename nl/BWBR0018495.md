@@ -4,7 +4,7 @@ identifier: "BWBR0018495"
 country: "nl"
 rank: "pbo"
 publication_date: "2006-12-16"
-last_updated: "2005-09-04"
+last_updated: "2006-12-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018495"
 soort: "pbo"
@@ -69,7 +69,7 @@ Besluit:
 
 ##### Artikel 3
 
-1. Ter uitvoering van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0018495&paragraaf=2&artikel=2&z=2005-09-04&g=2005-09-04) doet de exporteur van bloemkwekerijproducten aangifte bij het productschap van de tijd gedurende welke de door hem naar Japan uitgevoerde hoeveelheden bloemkwekerijproducten zijn gecontroleerd.
+1. Ter uitvoering van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0018495&paragraaf=2&artikel=2&z=2006-12-16&g=2006-12-16) doet de exporteur van bloemkwekerijproducten aangifte bij het productschap van de tijd gedurende welke de door hem naar Japan uitgevoerde hoeveelheden bloemkwekerijproducten zijn gecontroleerd.
 
 2. De opgave als bedoeld in het vorige lid, wordt gedaan op een door het productschap te verstrekken aangifteformulier, met inachtneming van de daarop gestelde vragen en gegeven aanwijzingen.
 
@@ -79,19 +79,19 @@ Besluit:
 
 ##### Artikel 4
 
-1. Het bedrag van de heffing wordt vastgesteld op basis van de tijd gedurende welke de uit te voeren bloemkwekerijproducten onderworpen zijn geweest aan een controle als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018495&paragraaf=2&artikel=3&z=2005-09-04&g=2005-09-04).
+1. Het bedrag van de heffing wordt vastgesteld op basis van de tijd gedurende welke de uit te voeren bloemkwekerijproducten onderworpen zijn geweest aan een controle als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018495&paragraaf=2&artikel=3&z=2006-12-16&g=2006-12-16).
 
-2. De tijd welke is gemoeid met de controle wordt afgerond op de tijdseenheid van een kwartier. Per kwartier is een heffing van: € 45,= verschuldigd.
+2. De tijd welke is gemoeid met de controle wordt afgerond op de tijdseenheid van een kwartier. Per kwartier is een heffing van € 80,– verschuldigd.
 
 3. De exporteur en de keurmeester ondertekenen allebei de verklaring waaruit blijkt gedurende hoeveel tijd de keurmeester één of meerdere partijen bloemkwekerijproducten heeft gekeurd, uitgedrukt in eenheden van een kwartier.
 
-4. Indien een exporteur één of meer verklaringen niet heeft ondertekend, is [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0018495&paragraaf=4&artikel=5&z=2005-09-04&g=2005-09-04) van overeenkomstige toepassing.
+4. Indien een exporteur één of meer verklaringen niet heeft ondertekend, is [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0018495&paragraaf=4&artikel=5&z=2006-12-16&g=2006-12-16) van overeenkomstige toepassing.
 
 #### § 4. Oplegging en inning
 
 ##### Artikel 5
 
-Indien uit de ter beschikking gekomen gegevens blijkt dat de verstrekking van de gegevens, of een raming als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0018495&paragraaf=4&artikel=5&z=2005-09-04&g=2005-09-04), niet in overeenstemming is met de werkelijkheid, kan een opgelegde heffing aan de hand van deze gegevens worden herzien en opnieuw worden opgelegd.
+Indien uit de ter beschikking gekomen gegevens blijkt dat de verstrekking van de gegevens, of een raming als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0018495&paragraaf=4&artikel=5&z=2006-12-16&g=2006-12-16), niet in overeenstemming is met de werkelijkheid, kan een opgelegde heffing aan de hand van deze gegevens worden herzien en opnieuw worden opgelegd.
 
 ##### Artikel 6
 
