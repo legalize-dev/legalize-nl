@@ -4,7 +4,7 @@ identifier: "BWBR0019304"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-11-30"
-last_updated: "2006-01-01"
+last_updated: "2006-12-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019304"
 soort: "ministeriele-regeling"
@@ -50,7 +50,7 @@ In deze regeling wordt verstaan onder:
 
 - b. bodemsaneringprestatie-eenheid (bpe): (m2 verontreinigd oppervlak x 1) + (m3 verontreinigde grond x 3) + (m3 verontreinigd grondwater x 0.4);
 
-- c. netto-saneringskosten: de in [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019304&hoofdstuk=3&z=2006-01-01&g=2006-01-01) bedoelde saneringskosten verminderd met de omzetbelasting (BTW).
+- c. netto-saneringskosten: de in [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019304&hoofdstuk=3&z=2006-12-17&g=2006-12-17) bedoelde saneringskosten verminderd met de omzetbelasting (BTW).
 
 ### Hoofdstuk 2. Verstrekken van budget aan overheden
 
@@ -230,25 +230,25 @@ De niet-projectgebonden kosten, bedoeld in [artikel 3, tweede lid, van het beslu
 
 2. In het programma wordt het aantal bpe’s opgenomen die met het te verlenen budget zullen worden gerealiseerd in de budgetperiode, alsmede de werkzaamheden met betrekking tot regionale waterbodems.
 
-3. De financiële paragraaf, bedoeld in [artikel 4, vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019285&artikel=4) en het overzicht met betrekking tot de inhoud van het programma worden ingericht overeenkomstig het model dat is opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019304&bijlage=1&z=2006-01-01&g=2006-01-01).
+3. De financiële paragraaf, bedoeld in [artikel 4, vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019285&artikel=4) en het overzicht met betrekking tot de inhoud van het programma worden ingericht overeenkomstig het model dat is opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019304&bijlage=1&z=2006-12-17&g=2006-12-17).
 
 ##### Artikel 7
 
-1. Het verantwoordingsverslag, bedoeld in [artikel 7, tweede lid van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019285&artikel=7) wordt ingericht overeenkomstig het model dat is opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019304&bijlage=2&z=2006-01-01&g=2006-01-01).
+1. Het verantwoordingsverslag, bedoeld in [artikel 7, tweede lid van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019285&artikel=7) wordt ingericht overeenkomstig het model dat is opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019304&bijlage=2&z=2006-12-17&g=2006-12-17).
 
-2. Het verslag over de besteding van het verleende budget, bedoeld in [artikel 7, vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019285&artikel=7) wordt ingericht overeenkomstig het model dat is opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019304&bijlage=3&z=2006-01-01&g=2006-01-01).
+2. Het verslag over de besteding van het verleende budget, bedoeld in [artikel 7, vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019285&artikel=7) wordt ingericht overeenkomstig het model dat is opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019304&bijlage=3&z=2006-12-17&g=2006-12-17).
 
-3. De accountantsverklaring als bedoeld in [artikel 7, zevende lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019285&artikel=7) wordt opgesteld met inachtneming van de voorschriften opgenomen in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0019304&bijlage=5&z=2006-01-01&g=2006-01-01).
+3. De accountantsverklaring als bedoeld in [artikel 7, zevende lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019285&artikel=7) wordt opgesteld met inachtneming van de voorschriften opgenomen in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0019304&bijlage=5&z=2006-12-17&g=2006-12-17).
 
 ### Hoofdstuk 3. Verstrekken subsidies aan derden
 
 ##### Artikel 8
 
-De ouderdom van de bodemverontreiniging als bedoeld in [artikel 11, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019285&artikel=11) wordt bepaald aan de hand van het protocol dat is opgenomen in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0019304&bijlage=6&z=2006-01-01&g=2006-01-01).
+De ouderdom van de bodemverontreiniging als bedoeld in [artikel 11, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019285&artikel=11) wordt bepaald aan de hand van het protocol dat is opgenomen in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0019304&bijlage=6&z=2006-12-17&g=2006-12-17).
 
 ##### Artikel 9
 
-1. Bij de aanvraag tot subsidieverlening wordt naast de in [artikel 13, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019285&artikel=13) genoemde gegevens tevens een begroting van de saneringskosten verstrekt, die is opgebouwd uit kostenposten zoals genoemd in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0019304&bijlage=7&z=2006-01-01&g=2006-01-01).
+1. Bij de aanvraag tot subsidieverlening wordt naast de in [artikel 13, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019285&artikel=13) genoemde gegevens tevens een begroting van de saneringskosten verstrekt, die is opgebouwd uit kostenposten zoals genoemd in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0019304&bijlage=7&z=2006-12-17&g=2006-12-17).
 
 2. Deze begroting dient te worden opgemaakt volgens een goede werkomschrijving, waarin een duidelijk inzicht wordt geboden in de omvang en de eenheidsprijzen van werkzaamheden, en waarbij voorts geldt dat de kosten voor de aanvrager van de subsidie die betrekking hebben op de directievoering en milieukundige begeleiding van de sanering in het geval de netto-saneringskosten meer dan € 50.000 bedragen maximaal 10% van deze netto-saneringskosten mogen zijn, of in het geval deze kosten gelijk zijn aan of minder dan € 50.000 bedragen maximaal 20% van de netto-saneringskosten mogen zijn.
 
@@ -256,7 +256,7 @@ De ouderdom van de bodemverontreiniging als bedoeld in [artikel 11, derde lid, v
 
 ##### Artikel 10
 
-1. Het financieel verslag, bedoeld in [artikel 21, tweede lid van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019285&artikel=21), gaat vergezeld van een specificatie van de werkelijke saneringskosten, opgebouwd uit kostenposten zoals genoemd in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0019304&bijlage=7&z=2006-01-01&g=2006-01-01).
+1. Het financieel verslag, bedoeld in [artikel 21, tweede lid van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019285&artikel=21), gaat vergezeld van een specificatie van de werkelijke saneringskosten, opgebouwd uit kostenposten zoals genoemd in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0019304&bijlage=7&z=2006-12-17&g=2006-12-17).
 
 2. Deze specificatie vermeldt tevens het aantal gerealiseerde bpe’s.
 
@@ -270,7 +270,7 @@ De ouderdom van de bodemverontreiniging als bedoeld in [artikel 11, derde lid, v
 
 Indien niet wordt gekozen voor de goedkoopste offerte, wordt een schriftelijke motivering daarvoor bij de aanvraag gevoegd.
 
-2. De aanvraag bevat tevens een verklaring van de aanvrager van de subsidie inhoudende dat slechts de saneringskosten als bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019304&hoofdstuk=3&artikel=10&z=2006-01-01&g=2006-01-01), zijn betrokken bij de aanvraag tot subsidievaststelling.
+2. De aanvraag bevat tevens een verklaring van de aanvrager van de subsidie inhoudende dat slechts de saneringskosten als bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019304&hoofdstuk=3&artikel=10&z=2006-12-17&g=2006-12-17), zijn betrokken bij de aanvraag tot subsidievaststelling.
 
 ### Hoofdstuk 4. Verdeling van de rijksbijdrage
 
@@ -278,15 +278,15 @@ Indien niet wordt gekozen voor de goedkoopste offerte, wordt een schriftelijke m
 
 De melding, bedoeld in [artikel 26, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019285&artikel=26), bevat tevens:
 
-- a. de begroting van de saneringskosten, bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019304&hoofdstuk=3&artikel=9&z=2006-01-01&g=2006-01-01);
+- a. de begroting van de saneringskosten, bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019304&hoofdstuk=3&artikel=9&z=2006-12-17&g=2006-12-17);
 
-- b. de gegevens, bedoeld in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0019304&bijlage=8&z=2006-01-01&g=2006-01-01).
+- b. de gegevens, bedoeld in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0019304&bijlage=8&z=2006-12-17&g=2006-12-17).
 
 ##### Artikel 13
 
-1. De bestedingsverantwoording, bedoeld in [artikel 28 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019285&artikel=28) wordt opgesteld overeenkomstig het in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0019304&bijlage=4&z=2006-01-01&g=2006-01-01) opgenomen model.
+1. De bestedingsverantwoording, bedoeld in [artikel 28 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019285&artikel=28) wordt opgesteld overeenkomstig het in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0019304&bijlage=4&z=2006-12-17&g=2006-12-17) opgenomen model.
 
-2. De verklaring van getrouwheid van een accountant behorend bij de bestedingsverantwoording wordt opgesteld met inachtneming van de voorschriften opgenomen in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0019304&bijlage=5&z=2006-01-01&g=2006-01-01) bij deze regeling.
+2. De verklaring van getrouwheid van een accountant behorend bij de bestedingsverantwoording wordt opgesteld met inachtneming van de voorschriften opgenomen in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0019304&bijlage=5&z=2006-12-17&g=2006-12-17) bij deze regeling.
 
 ### Hoofdstuk 5. Overige bepalingen
 
@@ -306,7 +306,7 @@ De activiteiten op het gebied van onderzoek en sanering, bedoeld in [artikel 41,
 
 ##### Artikel 15
 
-De gegevens die dienen te worden verstrekt op grond van [artikel 43 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019285&artikel=43) zijn opgenomen in [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0019304&bijlage=9&z=2006-01-01&g=2006-01-01).
+De gegevens die dienen te worden verstrekt op grond van [artikel 43 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019285&artikel=43) zijn opgenomen in [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0019304&bijlage=9&z=2006-12-17&g=2006-12-17).
 
 ### Hoofdstuk 6. Slotbepalingen
 
@@ -316,11 +316,15 @@ De [Regeling financiële bepalingen bodemsanering 2002](https://wetten.overheid.
 
 ##### Artikel 17
 
-Deze regeling treedt in werking op het tijdstip waarop het [Besluit financiële bepalingen bodemsanering](https://wetten.overheid.nl/jci1.3:c:BWBR0019285) in werking treedt. Indien de dagtekening van de Staatscourant waarin deze regeling wordt geplaatst later is gelegen dan de tweede dag vóór genoemd tijdstip, treedt deze regeling in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. De [artikelen 2 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0019304&hoofdstuk=2&artikel=2&z=2006-01-01&g=2006-01-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0019304&hoofdstuk=5&artikel=14&z=2006-01-01&g=2006-01-01) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0019304&hoofdstuk=5&artikel=15&z=2006-01-01&g=2006-01-01) werken terug tot en met 1 januari 2005.
+Deze regeling treedt in werking op het tijdstip waarop het [Besluit financiële bepalingen bodemsanering](https://wetten.overheid.nl/jci1.3:c:BWBR0019285) in werking treedt. Indien de dagtekening van de Staatscourant waarin deze regeling wordt geplaatst later is gelegen dan de tweede dag vóór genoemd tijdstip, treedt deze regeling in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. De [artikelen 2 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0019304&hoofdstuk=2&artikel=2&z=2006-12-17&g=2006-12-17), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0019304&hoofdstuk=5&artikel=14&z=2006-12-17&g=2006-12-17) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0019304&hoofdstuk=5&artikel=15&z=2006-12-17&g=2006-12-17) werken terug tot en met 1 januari 2005.
 
 ##### Artikel 18
 
 Deze regeling wordt aangehaald als: Regeling financiële bepalingen bodemsanering 2005.
+
+## Bijlage 1
+
+Ligt ter inzage bij het Ministerie van VROM.
 
 ## Bijlage 1
 
@@ -351,6 +355,18 @@ Ligt ter inzage bij het Ministerie van VROM.
 Ligt ter inzage bij het Ministerie van VROM.
 
 ## Bijlage 8
+
+Ligt ter inzage bij het Ministerie van VROM.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de bijlagen met toelichting; een volledig exemplaar van de regeling, inclusief de bijlagen zal aan alle budgethouders en bevoegde overheden worden gezonden. Daarnaast zal de volledige regeling inclusief de bijlagen ter inzage worden gelegd bij het Ministerie van VROM en zal worden geplaatst op www.vrom.nl
+
+##### Artikel 13a
+
+In het geval, bedoeld in [artikel 40a, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019285&artikel=40a), legt de eigenaar of erfpachter tezamen met het verzoek, bedoeld in [artikel 40, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019285&artikel=40) een verklaring overeenkomstig het model in [bijlage 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0019304&bijlage=8a&z=2006-12-17&g=2006-12-17) bij deze regeling omtrent de minimis-steun over.
+
+### Hoofdstuk 6. Slotbepalingen
+
+## Bijlage 8a
 
 Ligt ter inzage bij het Ministerie van VROM.
 
