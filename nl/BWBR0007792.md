@@ -4,7 +4,7 @@ identifier: "BWBR0007792"
 country: "nl"
 rank: "wet"
 publication_date: "2013-01-01"
-last_updated: "1998-02-25"
+last_updated: "2006-12-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007792"
 soort: "wet"
@@ -70,31 +70,31 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 1. Partijen kunnen een vut-overeenkomst aangaan.
 
-2. Een sectorwerkgever kan in overeenstemming met centrales en indien aanwezig organisaties als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0007792&artikel=1&z=1998-02-25&g=1998-02-25), derde dan wel vierde lid, zijn in het eerste lid vervatte bevoegdheid geheel of ten dele overdragen aan een gezag of bestuur dan wel een verband van meer dan één gezag of bestuur, ten aanzien van door hem aan te geven groepen van personeel, werkzaam in de desbetreffende sector.
+2. Een sectorwerkgever kan in overeenstemming met centrales en indien aanwezig organisaties als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0007792&artikel=1&z=2006-12-20&g=2006-12-20), derde dan wel vierde lid, zijn in het eerste lid vervatte bevoegdheid geheel of ten dele overdragen aan een gezag of bestuur dan wel een verband van meer dan één gezag of bestuur, ten aanzien van door hem aan te geven groepen van personeel, werkzaam in de desbetreffende sector.
 
 3. De tekst van een vut-overeenkomst wordt door Onze Minister in de **Staatscourant** geplaatst. Een vut-overeenkomst treedt niet eerder in werking dan met ingang van de tweede dag na de dagtekening van de **Staatscourant** waarin zij wordt geplaatst.
 
 ##### Artikel 3
 
-1. Overheids- en onderwijsinstellingen die behoren tot een sector als bedoeld in [artikel 1, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0007792&artikel=1&z=1998-02-25&g=1998-02-25), zijn gebonden aan de verplichtingen die partijen bij een vut-overeenkomst voor hen zijn overeengekomen.
+1. Overheids- en onderwijsinstellingen die behoren tot een sector als bedoeld in [artikel 1, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0007792&artikel=1&z=2006-12-20&g=2006-12-20), zijn gebonden aan de verplichtingen die partijen bij een vut-overeenkomst voor hen zijn overeengekomen.
 
 2. Degene die behoort tot het personeel van een instelling, bedoeld in het eerste lid, kan aan een vut-overeenkomst die dat personeel betreft, rechten ontlenen en is gebonden aan verplichtingen die partijen daarbij voor dat personeel zijn overeengekomen.
 
 ##### Artikel 4
 
-1. De werking van een door de gezamenlijke sectorwerkgevers en centrales gesloten vut-overeenkomst strekt zich mede uit tot een instelling die niet behoort tot een sector als bedoeld in [artikel 1, eerste lid, onderdeel **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0007792&artikel=1&z=1998-02-25&g=1998-02-25), indien en voor zover personeel van die instelling ambtenaar in de zin van de Algemene burgerlijke pensioenwet dan wel overheidswerknemer in de zin van de [Wet privatisering ABP](https://wetten.overheid.nl/jci1.3:c:BWBR0007791) is, alsmede tot dat personeel.
+1. De werking van een door de gezamenlijke sectorwerkgevers en centrales gesloten vut-overeenkomst strekt zich mede uit tot een instelling die niet behoort tot een sector als bedoeld in [artikel 1, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0007792&artikel=1&z=2006-12-20&g=2006-12-20), indien en voor zover personeel van die instelling ambtenaar in de zin van de Algemene burgerlijke pensioenwet dan wel overheidswerknemer in de zin van de [Wet privatisering ABP](https://wetten.overheid.nl/jci1.3:c:BWBR0007791) is, alsmede tot dat personeel.
 
 2. De werking van een door een sectorwerkgever afzonderlijk en partijen of een partij ter andere zijde gesloten vut-overeenkomst strekt zich mede uit tot een instelling als bedoeld in het eerste lid, onder de in dat lid genoemde voorwaarde en beperking, die op grond van de aard van haar werkzaamheid of haar financiële verhouding tot een of meer overheids- of onderwijsinstellingen geacht moet worden te zijn verbonden met de desbetreffende sector, alsmede tot het personeel van die instelling dat de in het eerste lid genoemde hoedanigheid heeft. Onze Minister beslist zonodig, op grond van de in de eerste volzin gegeven maatstaven, met welke sector een instelling geacht wordt te zijn verbonden.
 
 3. Het eerste en het tweede lid gelden voor een overeenkomst als daarin bedoeld, voor zover daarbij rechten en verplichtingen zijn overeengekomen die gelijk zijn voor het gehele personeel van overheids- en onderwijsinstellingen, respectievelijk van de instellingen die behoren tot de desbetreffende sector, en tevens financiering in omslag over die instellingen en hun personeel is overeengekomen.
 
-4. [Artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0007792&artikel=3&z=1998-02-25&g=1998-02-25) is van overeenkomstige toepassing op een instelling en personeel tot welke de werking van een vut-overeenkomst zich ingevolge dit artikel mede uitstrekt.
+4. [Artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0007792&artikel=3&z=2006-12-20&g=2006-12-20) is van overeenkomstige toepassing op een instelling en personeel tot welke de werking van een vut-overeenkomst zich ingevolge dit artikel mede uitstrekt.
 
-5. Onze Minister kan regels stellen voor de dekking van financiële lasten wegens uit een vut-overeenkomst onstane rechten van personen die behoren of behoorden tot het personeel van een instelling als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007792&artikel=3&z=1998-02-25&g=1998-02-25), dan wel van een instelling waarop [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0007792&artikel=3&z=1998-02-25&g=1998-02-25) van overeenkomstige toepassing is, voor het geval zo'n instelling ophoudt te bestaan of ophoudt als een zodanige instelling te bestaan.
+5. Onze Minister kan regels stellen voor de dekking van financiële lasten wegens beëindiging van de gebondenheid aan een vut-overeenkomst van een instelling als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007792&artikel=3&z=2006-12-20&g=2006-12-20), dan wel van een instelling waarop [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0007792&artikel=3&z=2006-12-20&g=2006-12-20) van overeenkomstige toepassing is, voor het geval zo'n instelling of onderdeel daarvan ophoudt te bestaan of ophoudt als zodanig te bestaan.
 
 ##### Artikel 5
 
-Een gezag of bestuur van een instelling als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007792&artikel=4&z=1998-02-25&g=1998-02-25), die publiekrechtelijk van aard is, kan een vut-overeenkomst aangaan, met dien verstande dat, in afwijking van [artikel 1, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0007792&artikel=1&z=1998-02-25&g=1998-02-25), de regeling die dat bestuur en zijn wederpartij of wederpartijen daarmee beogen te treffen uitsluitend de desbetreffende instelling en haar personeel aangaat. [Artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007792&artikel=2&z=1998-02-25&g=1998-02-25), is niet van toepassing.
+Een gezag of bestuur van een instelling als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007792&artikel=4&z=2006-12-20&g=2006-12-20), die publiekrechtelijk van aard is, kan een vut-overeenkomst aangaan, met dien verstande dat, in afwijking van [artikel 1, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0007792&artikel=1&z=2006-12-20&g=2006-12-20), de regeling die dat bestuur en zijn wederpartij of wederpartijen daarmee beogen te treffen uitsluitend de desbetreffende instelling en haar personeel aangaat. [Artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007792&artikel=2&z=2006-12-20&g=2006-12-20), is niet van toepassing.
 
 ##### Artikel 6
 
@@ -130,7 +130,7 @@ Bevat wijzigingen in andere regelgeving.
 
 ##### Artikel 9
 
-1. De [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&artikel=1), onderdeel **o**, [11](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&artikel=11), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&artikel=12), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&artikel=13), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&artikel=14), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&artikel=15), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&artikel=16), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&artikel=17), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&artikel=18), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&artikel=19), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&artikel=20), [38](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&artikel=38), [40](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&artikel=40) en [41 van de Wet financiële voorzieningen privatisering ABP](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&artikel=41) vervallen met ingang van het in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007792&artikel=8&z=1998-02-25&g=1998-02-25), bedoelde tijdstip.
+1. De [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&artikel=1), onderdeel **o**, [11](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&artikel=11), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&artikel=12), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&artikel=13), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&artikel=14), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&artikel=15), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&artikel=16), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&artikel=17), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&artikel=18), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&artikel=19), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&artikel=20), [38](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&artikel=38), [40](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&artikel=40) en [41 van de Wet financiële voorzieningen privatisering ABP](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&artikel=41) vervallen met ingang van het in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007792&artikel=8&z=2006-12-20&g=2006-12-20), bedoelde tijdstip.
 
 2. In afwijking van het eerste lid blijft het Algemeen burgerlijk pensioenfonds aan het Vut-fonds de jaarlijkse bijdrage verschuldigd, bedoeld in artikel 41, eerste lid, van de in het eerste lid genoemde wet, met dien verstande dat, in afwijking van het tweede en derde lid van dat artikel:
 
@@ -138,25 +138,25 @@ Bevat wijzigingen in andere regelgeving.
 
 - b. onder loonsom wordt verstaan: het totaal in enig jaar van de inkomens bedoeld in artikel 3.1, eerste tot en met het vijfde lid, van het pensioenreglement van de Stichting Pensioenfonds ABP.
 
-3. De lasten die voor het Vut-fonds ontstaan door [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007792&artikel=8&z=1998-02-25&g=1998-02-25), worden gedekt door bijdragen van de overheids- en onderwijsinstellingen, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007792&artikel=3&z=1998-02-25&g=1998-02-25), en van de instellingen, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007792&artikel=4&z=1998-02-25&g=1998-02-25), met verhaal op het personeel van die instellingen.
+3. De lasten die voor het Vut-fonds ontstaan door [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007792&artikel=8&z=2006-12-20&g=2006-12-20), worden gedekt door bijdragen van de overheids- en onderwijsinstellingen, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007792&artikel=3&z=2006-12-20&g=2006-12-20), en van de instellingen, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007792&artikel=4&z=2006-12-20&g=2006-12-20), met verhaal op het personeel van die instellingen.
 
-4. De lasten die voor het Vut-fonds ontstaan door [artikel 8, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007792&artikel=8&z=1998-02-25&g=1998-02-25), worden gedekt overeenkomstig de dekking van de lasten, bedoeld in het derde lid. Het bestuur van het Vut-fonds bepaalt evenwel op verzoek van de gezamenlijke sectorwerkgevers en centrales dat vanaf een bij dat verzoek aan te geven tijdstip de bijdragen worden verstrekt door de instellingen die behoren tot de sector waaruit de belanghebbenden, bedoeld in [artikel 8, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007792&artikel=8&z=1998-02-25&g=1998-02-25), afkomstig zijn.
+4. De lasten die voor het Vut-fonds ontstaan door [artikel 8, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007792&artikel=8&z=2006-12-20&g=2006-12-20), worden gedekt overeenkomstig de dekking van de lasten, bedoeld in het derde lid. Het bestuur van het Vut-fonds bepaalt evenwel op verzoek van de gezamenlijke sectorwerkgevers en centrales dat vanaf een bij dat verzoek aan te geven tijdstip de bijdragen worden verstrekt door de instellingen die behoren tot de sector waaruit de belanghebbenden, bedoeld in [artikel 8, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007792&artikel=8&z=2006-12-20&g=2006-12-20), afkomstig zijn.
 
 5. De in het tweede lid bedoelde bijdrage wordt aangewend ter vermindering van het verhaal op het personeel, bedoeld in het derde lid, en overigens ter verlichting van geldelijke verplichtingen die uit een vut-overeenkomst voor dat personeel zullen kunnen ontstaan.
 
-6. Het bestuur van het Vut-fonds stelt voor de toepassing van het derde, vierde en vijfde lid regels vast ter zake van de onderwerpen, geregeld in de artikelen 12, 13, eerste en tweede lid, 15, eerste tot en met derde lid, 16, 17, 18, 19 en 20 van de in het eerste lid genoemde wet. De in de eerste volzin bedoelde regels kunnen voorts overeenkomstig omvatten het geval, bedoeld in [artikel 4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007792&artikel=4&z=1998-02-25&g=1998-02-25), terzake van de lasten bedoeld in het derde en vierde lid.
+6. Het bestuur van het Vut-fonds stelt voor de toepassing van het derde, vierde en vijfde lid regels vast ter zake van de onderwerpen, geregeld in de artikelen 12, 13, eerste en tweede lid, 15, eerste tot en met derde lid, 16, 17, 18, 19 en 20 van de in het eerste lid genoemde wet. De in de eerste volzin bedoelde regels kunnen voorts overeenkomstig omvatten het geval, bedoeld in [artikel 4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007792&artikel=4&z=2006-12-20&g=2006-12-20), terzake van de lasten bedoeld in het derde en vierde lid.
 
 7. De ingevolge het zesde lid vast te stellen regels worden door het bestuur van het Vut-fonds vastgesteld in overeenstemming met Onze Minister en de Raad voor het Overheidspersoneelsbeleid. Zodanige overeenstemming is eveneens vereist ten aanzien van de in het vierde lid bedoelde bevoegdheid.
 
-8. Het bestuur van het Vut-fonds kan bepalen dat ingaande een tijdstip dat is gelegen vijf jaren na het in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007792&artikel=8&z=1998-02-25&g=1998-02-25), bedoelde tijdstip, de alsdan resterende lasten ter zake van belanghebbenden als bedoeld in artikel 3, eerste lid, vierde volzin, van de in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007792&artikel=8&z=1998-02-25&g=1998-02-25), genoemde wet (vut bij veertig dienstjaren) worden gedekt door specifieke door het bestuur van het Vut-fonds aangewezen groepen instellingen.
+8. Het bestuur van het Vut-fonds kan bepalen dat ingaande een tijdstip dat is gelegen vijf jaren na het in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007792&artikel=8&z=2006-12-20&g=2006-12-20), bedoelde tijdstip, de alsdan resterende lasten ter zake van belanghebbenden als bedoeld in artikel 3, eerste lid, vierde volzin, van de in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007792&artikel=8&z=2006-12-20&g=2006-12-20), genoemde wet (vut bij veertig dienstjaren) worden gedekt door specifieke door het bestuur van het Vut-fonds aangewezen groepen instellingen.
 
-9. Onze Minister stelt regels omtrent de vergoeding door lichamen van bedragen ter zake van uitkeringen als bedoeld in [artikel 8, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007792&artikel=8&z=1998-02-25&g=1998-02-25).
+9. Onze Minister stelt regels omtrent de vergoeding door lichamen van bedragen ter zake van uitkeringen als bedoeld in [artikel 8, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007792&artikel=8&z=2006-12-20&g=2006-12-20).
 
 ##### Artikel 10
 
-1. De werking van een vut-overeenkomst vangt niet eerder aan dan met ingang van het in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007792&artikel=8&z=1998-02-25&g=1998-02-25), bedoelde tijdstip.
+1. De werking van een vut-overeenkomst vangt niet eerder aan dan met ingang van het in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007792&artikel=8&z=2006-12-20&g=2006-12-20), bedoelde tijdstip.
 
-2. De door het bestuur van het Vut-fonds ingevolge [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0007792&artikel=9&z=1998-02-25&g=1998-02-25) te stellen regelen treden in werking op het in het eerste lid bedoelde tijdstip.
+2. De door het bestuur van het Vut-fonds ingevolge [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0007792&artikel=9&z=2006-12-20&g=2006-12-20) te stellen regelen treden in werking op het in het eerste lid bedoelde tijdstip.
 
 ##### Artikel 11
 
@@ -164,13 +164,13 @@ Bevat wijzigingen in andere regelgeving.
 
 ##### Artikel 12
 
-1. Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin zij wordt geplaatst. De [artikelen 8, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007792&artikel=8&z=1998-02-25&g=1998-02-25), en [9, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007792&artikel=9&z=1998-02-25&g=1998-02-25), werken terug tot en met 1 maart 1987.
+1. Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin zij wordt geplaatst. De [artikelen 8, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007792&artikel=8&z=2006-12-20&g=2006-12-20), en [9, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007792&artikel=9&z=2006-12-20&g=2006-12-20), werken terug tot en met 1 maart 1987.
 
-[Artikel 11, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007792&artikel=11&z=1998-02-25&g=1998-02-25), werkt terug tot en met 1 januari 1995.
+[Artikel 11, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007792&artikel=11&z=2006-12-20&g=2006-12-20), werkt terug tot en met 1 januari 1995.
 
-[Artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007792&artikel=11&z=1998-02-25&g=1998-02-25), werkt terug tot en met 1 mei 1993.
+[Artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007792&artikel=11&z=2006-12-20&g=2006-12-20), werkt terug tot en met 1 mei 1993.
 
-2. Indien het **Staatsblad** waarin deze wet wordt geplaatst, wordt uitgegeven na 31 december 1995, wordt de in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007792&artikel=8&z=1998-02-25&g=1998-02-25), genoemde datum vervangen door de dag van inwerkingtreding van deze wet.
+2. Indien het **Staatsblad** waarin deze wet wordt geplaatst, wordt uitgegeven na 31 december 1995, wordt de in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007792&artikel=8&z=2006-12-20&g=2006-12-20), genoemde datum vervangen door de dag van inwerkingtreding van deze wet.
 
 ##### Artikel 13
 
