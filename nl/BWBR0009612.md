@@ -4,7 +4,7 @@ identifier: "BWBR0009612"
 country: "nl"
 rank: "wet"
 publication_date: "2006-12-20"
-last_updated: "1999-01-01"
+last_updated: "2006-12-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009612"
 soort: "wet"
@@ -107,13 +107,13 @@ Wijzigt Boek 7 van het Burgerlijk Wetboek en de Wet op het ouderschapsverlof.
 
 1. Onze Minister van Sociale Zaken en Werkgelegenheid zendt binnen 3 jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
 
-2. Onze Minister van Sociale Zaken en Werkgelegenheid zendt na 2 jaar na de inwerkingtreding van deze wet en vervolgens telkens na 4 jaar aan de Staten-Generaal een verslag over de wijze waarop de Regionaal Directeur van de Arbeidsvoorzieningsorganisatie de bevoegdheid tot het verlenen van toestemming voor de opzegging van de arbeidsverhouding, bedoeld in [artikel II, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0009612&artikel=II&z=1999-01-01&g=1999-01-01), heeft uitgevoerd.
+2. Onze Minister van Sociale Zaken en Werkgelegenheid zendt na 2 jaar na de inwerkingtreding van deze wet en vervolgens telkens na 4 jaar aan de Staten-Generaal een verslag over de wijze waarop de Centrale organisatie werk en inkomen, bedoeld in [artikel 2 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=2) de bevoegdheid tot het verlenen van toestemming voor de opzegging van de arbeidsverhouding, bedoeld in [artikel II, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0009612&artikel=II&z=2006-12-20&g=2006-12-20), heeft uitgevoerd.
 
 #### OVERGANGS- EN SLOTBEPALINGEN
 
 ##### ARTIKEL XVII
 
-[Artikel 16, derde en vierde lid, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=16) zoals deze leden luiden na de inwerkingtreding van [artikel VI, onderdeel A, van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009612&artikel=VI&z=1999-01-01&g=1999-01-01), zijn niet van toepassing indien de dienstbetrekking is geëindigd vóór de dag van inwerkingtreding van dit onderdeel.
+[Artikel 16, derde en vierde lid, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=16) zoals deze leden luiden na de inwerkingtreding van [artikel VI, onderdeel A, van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009612&artikel=VI&z=2006-12-20&g=2006-12-20), zijn niet van toepassing indien de dienstbetrekking is geëindigd vóór de dag van inwerkingtreding van dit onderdeel.
 
 ##### ARTIKEL XVIII
 
