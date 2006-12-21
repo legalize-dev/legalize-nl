@@ -4,7 +4,7 @@ identifier: "BWBR0018109"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-11-12"
-last_updated: "2005-12-22"
+last_updated: "2006-12-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018109"
 soort: "ministeriele-regeling"
@@ -75,30 +75,30 @@ Het percentuele aandeel, bedoeld in [artikel 5, tweede lid, van de wet](https://
 
 ##### Artikel 3
 
-Het absolute aandeel, bedoeld in [artikel 5, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017828&artikel=5), van een uitkeringsontvanger bedraagt voor de uitkeringsjaren 2005 tot en met 2007 de som van het in de onderstaande tabel bij die ontvanger voor het uitkeringsjaar genoemd bedrag en de aanvullingen, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018109&artikel=4&z=2005-12-22&g=2005-12-22).
+Het absolute aandeel, bedoeld in [artikel 5, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017828&artikel=5), van een uitkeringsontvanger bedraagt voor de uitkeringsjaren 2005 tot en met 2007 de som van het in de onderstaande tabel bij die ontvanger voor het uitkeringsjaar genoemd bedrag en de aanvullingen, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018109&artikel=4&z=2006-12-21&g=2006-12-21).
 
-| Regio | Bedrag x 1.000 euro | Bedrag x 1.000 euro | Bedrag x 1.000 euro |
+|   | Bedrag | × 1.000 euro | × 1.000 euro |
 | --- | --- | --- | --- |
-|   | 2005 | 2006 | 2007 |
-| Bestuur Regio Utrecht (BRU) | € 12.416 | € 11.590 | € 7.844 |
-| Stadsgewest Haaglanden | € 8.015 | € 18.557 | € 38.170 |
-| Knooppunt Arnhem-Nijmegen (KAN) | € 557 | € 560 | € 560 |
-| Regionaal Orgaan Amsterdam (ROA) | € 18.658 | € 23.185 | € 47.706 |
-| Samenwerkingsverband Regio Eindhoven (SRE) | € 501 | € 504 | € 504 |
-| Stadsregio Rotterdam (SRR) | € 70.531 | € 38.395 | € 64.543 |
-| Regio Twente | € 13.944 | € 12.828 | € 5.569 |
-| Provincie Drenthe | € 140 | € 38 | € 28 |
-| Provincie Flevoland | € 8.424 | € 8.041 | € 6.031 |
-| Provincie Friesland | € 6.524 | € 8.396 | € 5.836 |
-| Provincie Gelderland | € 16.215 | € 13.040 | € 12.274 |
-| Provincie Groningen | € 10.988 | € 10.663 | € 9.966 |
-| Provincie Limburg | € 4.639 | € 1.586 | € 42 |
-| Provincie Noord-Brabant | € 266 | € 267 | € 973 |
-| Provincie Noord-Holland | € 305 | € 341 | € 8.251 |
-| Provincie Overijssel | € 5.532 | € –911 | € 212 |
-| Provincie Utrecht | € 253 | € 254 | € 4.276 |
-| Provincie Zeeland | € 48 | € 38 | € 28 |
-| Provincie Zuid-Holland | € 448 | € 450 | € 450 |
+| Regio | 2005 | 2006 | 2007 |
+| Bestuur Regio Utrecht (BRU) | € 12.416 | € 11.590 | € 17.144 |
+| Stadsgewest Haaglanden | € 8.015 | € 18.557 | € 50.611 |
+| Stadsregio Arnhem-Nijmegen | € 557 | € 560 | € 10.433 |
+| Stadsregio Amsterdam | € 18.658 | € 23.185 | € 77.430 |
+| Samenwerkingsverband Regio Eindhoven (SRE) | € 501 | € 504 | € 4.258 |
+| Stadsregio Rotterdam (SRR) | € 70.531 | € 38.395 | € 73.069 |
+| Regio Twente | € 13.944 | € 12.828 | € 9.331 |
+| Provincie Drenthe | € 140 | € 38 | € 2.154 |
+| Provincie Flevoland | € 8.424 | € 8.041 | € 10.563 |
+| Provincie Friesland | € 6.524 | € 8.396 | € 11.438 |
+| Provincie Gelderland | € 16.215 | € 13.040 | € 32.550 |
+| Provincie Groningen | € 10.988 | € 10.663 | € 23.124 |
+| Provincie Limburg | € 4.639 | € 1.586 | € 15.719 |
+| Provincie Noord-Brabant | € 266 | € 267 | € 7.312 |
+| Provincie Noord-Holland | € 305 | € 341 | € 41.831 |
+| Provincie Overijssel | € 5.532 | € -911 | € 5.933 |
+| Provincie Utrecht | € 253 | € 254 | € 17.523 |
+| Provincie Zeeland | € 48 | € 38 | € 3.775 |
+| Provincie Zuid-Holland | € 448 | € 450 | € 20.700 |
 
 ##### Artikel 4
 
@@ -128,11 +128,11 @@ Het absolute aandeel, bedoeld in [artikel 5, tweede lid, van de wet](https://wet
 
 ##### Artikel 5
 
-1. De uitkeringsontvanger verstrekt de financiële verantwoording, bedoeld in [artikel 10, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017828&artikel=10), overeenkomstig het in de bij deze regeling behorende [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0018109&bijlage=I&z=2005-12-22&g=2005-12-22) opgenomen model van verantwoording.
+1. De uitkeringsontvanger verstrekt de financiële verantwoording, bedoeld in [artikel 10, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017828&artikel=10), overeenkomstig het in de bij deze regeling behorende [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0018109&bijlage=I&z=2006-12-21&g=2006-12-21) opgenomen model van verantwoording.
 
-2. De accountantsverklaring, bedoeld in [artikel 10, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017828&artikel=10), wordt opgesteld met inachtneming van het in de bij deze regeling behorende [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0018109&bijlage=II&z=2005-12-22&g=2005-12-22) opgenomen controleprotocol.
+2. De accountantsverklaring, bedoeld in [artikel 10, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017828&artikel=10), wordt opgesteld met inachtneming van het in de bij deze regeling behorende [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0018109&bijlage=II&z=2006-12-21&g=2006-12-21) opgenomen controleprotocol.
 
-3. Indien de uitkeringontvanger de financiële verantwoording, bedoeld in [artikel 10, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017828&artikel=10), niet voor 1 november na afloop van het uitkeringsjaar, overeenkomstig het in de bij deze regeling behorende [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0018109&bijlage=I&z=2005-12-22&g=2005-12-22) opgenomen model van verantwoording heeft ingediend, verlaagt de Minister van Verkeer en Waterstaat, indien hij toepassing geeft aan [artikel 11, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017828&artikel=11), de uitkering voor dat uitkeringsjaar met € 150.000.
+3. Indien de uitkeringontvanger de financiële verantwoording, bedoeld in [artikel 10, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017828&artikel=10), niet voor 1 november na afloop van het uitkeringsjaar, overeenkomstig het in de bij deze regeling behorende [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0018109&bijlage=I&z=2006-12-21&g=2006-12-21) opgenomen model van verantwoording heeft ingediend, verlaagt de Minister van Verkeer en Waterstaat, indien hij toepassing geeft aan [artikel 11, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017828&artikel=11), de uitkering voor dat uitkeringsjaar met € 150.000.
 
 ##### Artikel 6
 
@@ -144,13 +144,15 @@ Het absolute aandeel, bedoeld in [artikel 5, tweede lid, van de wet](https://wet
 
 Deze regeling wordt aangehaald als: Uitvoeringsregeling en beleidsregel BDU verkeer en vervoer.
 
-## Bijlage I. , behorende bij [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018109&artikel=5&z=2005-12-22&g=2005-12-22), van de Uitvoeringsregeling en beleidsregel BDU verkeer en vervoer
+## Bijlage I. , behorende bij artikel 5, eerste lid, van de Uitvoeringsregeling en beleidsregel BDU verkeer en vervoer
 
-## Bijlage II
+Vervallen
 
-Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat.
+## Bijlage II. , behorende bij artikel 5, tweede lid, van de Uitvoeringsregeling en beleidsregel BDU verkeer en vervoer
 
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de [bijlagen I](https://wetten.overheid.nl/jci1.3:c:BWBR0018109&bijlage=I&z=2005-04-14&g=2005-04-14) en [II](https://wetten.overheid.nl/jci1.3:c:BWBR0018109&bijlage=II&z=2005-04-14&g=2005-04-14), die ter inzage worden gelegd bij de bibliotheek van het Ministerie van Verkeer en Waterstaat.
+Vervallen
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de [bijlagen I](https://wetten.overheid.nl/jci1.3:c:BWBR0018109&bijlage=I&z=2006-12-21&g=2006-12-21) en [II](https://wetten.overheid.nl/jci1.3:c:BWBR0018109&bijlage=II&z=2006-12-21&g=2006-12-21), die ter inzage worden gelegd bij de bibliotheek van het Ministerie van Verkeer en Waterstaat.
 
 ### **Verantwoordingsmodel**
 
