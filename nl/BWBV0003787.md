@@ -4,7 +4,7 @@ identifier: "BWBV0003787"
 country: "nl"
 rank: "verdrag"
 publication_date: "2021-02-18"
-last_updated: "2006-02-16"
+last_updated: "2006-12-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0003787"
 soort: "verdrag"
@@ -262,15 +262,15 @@ Het Fonds publiceert een jaarverslag dat een door accountants gecontroleerd over
 
 - (e). Onverminderd de bepalingen van deze Overeenkomst gelden voor de financiering door het Fonds algemene beleidslijnen, criteria en voorschriften die van tijd tot tijd door de Raad van Bestuur worden vastgesteld met een twee derde meerderheid van het totale aantal stemmen.
 
-- (a). Financiering door het Fonds geschiedt in de vorm van leningen en schenkingen, die worden verstrekt op door het Fonds passend geachte voorwaarden, rekening houdend met de economische situatie en vooruitzichten van het Lid en met de aard en behoeften van de betrokken activiteit. Het Fonds kan tevens, d.m.v. een besluit van het College van Bewindvoerders, aanvullende financiële middelen verstrekken voor de opzet en uitvoering van projecten en programma’s, gefinancierd door het Fonds via leningen en schenkingen.
+- (a). Financiering door het Fonds geschiedt in de vorm van leningen, schenkingen en een mechanisme ten behoeve van houdbare schulden, die worden verstrekt op door het Fonds passend geachte voorwaarden, rekening houdend met de economische situatie en vooruitzichten van het Lid en met de aard en behoeften van de betrokken activiteit. Het Fonds kan tevens, d.m.v. een besluit van het College van Bewindvoerders, aanvullende financiële middelen verstrekken voor de opzet en uitvoering van projecten en programma’s, gefinancierd door het Fonds via leningen, schenkingen en een mechanisme ten behoeve van houdbare schulden.
 
-- (b). Het deel van de middelen van het Fonds dat in een boekjaar kan worden vastgelegd voor financieringstransacties in elk van de in letter (a) bedoelde vormen wordt van tijd tot tijd door het College van Bewindvoerders bepaald, waarbij terdege rekening wordt gehouden met de levensvatbaarheid van het Fonds op de lange termijn en met de noodzaak van continuïteit in zijn verrichtingen. Het deel van de schenkingen mag normaal niet meer bedragen dan een achtste van de in een boekjaar vastgelegde middelen. Een groot deel van de leningen wordt verstrekt op zeer concessionele voorwaarden.
+- (b). Het deel van de middelen van het Fonds dat in een boekjaar kan worden vastgelegd voor financieringstransacties in elk van de in letter (a) bedoelde vormen wordt van tijd tot tijd door het College van Bewindvoerders bepaald, waarbij terdege rekening wordt gehouden met de levensvatbaarheid van het Fonds op de lange termijn en met de noodzaak van continuïteit in zijn verrichtingen. Het deel van de schenkingen mag normaal niet meer bedragen dan een achtste van de in een boekjaar vastgelegde middelen. Het College van Bewindvoerders stelt een mechanisme ten behoeve van houdbare schulden en de bijbehorende procedures en modaliteiten in; de uit hoofde daarvan verstrekte financiële middelen tellen niet mee voor het in het voorgaande bedoelde schenkingsplafond. Een groot deel van de leningen wordt verstrekt op zeer concessionele voorwaarden.
 
-- (c). De President legt het College van Bewindvoerders projecten en programma's voor ter beoordeling en goedkeuring.
+- (c). De President legt het College van Bewindvoerders projecten en programma’s voor ter beoordeling en goedkeuring.
 
-- (d). De besluiten ten aanzien van de keuze en goedkeuring van projecten en programma's worden genomen door het College van Bewindvoerders. Zodanige besluiten worden genomen op basis van de algemene beleidslijnen, criteria en voorschriften die zijn vastgesteld door de Raad van Bestuur.
+- (d). De besluiten ten aanzien van de keuze en goedkeuring van projecten en programma’s worden genomen door het College van Bewindvoerders. Zodanige besluiten worden genomen op basis van de algemene beleidslijnen, criteria en voorschriften die zijn vastgesteld door de Raad van Bestuur.
 
-- (e). Voor de beoordeling van aan het Fonds ter financiering voorgelegde projecten en programma's maakt het Fonds in de regel gebruik van de diensten van internationale instellingen en het kan, waar passend, gebruik maken van de diensten van andere bevoegde op dit terrein gespecialiseerde organisaties. Deze instellingen en organisaties worden door het College van Bewindvoerders gekozen na overleg met de betrokken ontvangende partij en zijn bij het verrichten van de beoordeling rechtstreeks verantwoordelijk jegens het Fonds.
+- (e). Voor de beoordeling van aan het Fonds ter financiering voorgelegde projecten en programma’s maakt het Fonds in de regel gebruik van de diensten van internationale instellingen en het kan, waar passend, gebruik maken van de diensten van andere bevoegde op dit terrein gespecialiseerde organisaties. Deze instellingen en organisaties worden door het College van Bewindvoerders gekozen na overleg met de betrokken ontvangende partij en zijn bij het verrichten van de beoordeling rechtstreeks verantwoordelijk jegens het Fonds.
 
 - (f). De leningsovereenkomst wordt per geval gesloten door het Fonds en de ontvangende partij, die verantwoordelijk is voor de uitvoering van het betrokken project of programma.
 
@@ -278,7 +278,7 @@ Het Fonds publiceert een jaarverslag dat een door accountants gecontroleerd over
 
 - (h). Voor de toepassing van het bepaalde in de letters (f) en (g) hierboven worden verwijzingen naar „leningen” geacht mede „schenkingen” te omvatten.
 
-- (i). Het Fonds kan een krediet openstellen voor een nationale ontwikkelingsorganisatie, waarmee deze, overeenkomstig de voorwaarden van de leningsovereenkomst en de modaliteiten vastgesteld door het Fonds, deelleningen kan verstrekken en beheren ter financiering van projecten en programma's. Alvorens het College van Bewindvoerders de openstelling van een zodanig krediet goedkeurt, wordt de betrokken nationale ontwikkelingsorganisatie en haar programma beoordeeld overeenkomstig het bepaalde in letter (e). De uitvoering van genoemd programma is onderworpen aan het toezicht van de instellingen die zijn gekozen overeenkomstig het bepaalde in letter (g).
+- (i). Het Fonds kan een krediet openstellen voor een nationale ontwikkelingsorganisatie, waarmee deze, overeenkomstig de voorwaarden van de leningsovereenkomst en de modaliteiten vastgesteld door het Fonds, deelleningen kan verstrekken en beheren ter financiering van projecten en programma’s. Alvorens het College van Bewindvoerders de openstelling van een zodanig krediet goedkeurt, wordt de betrokken nationale ontwikkelingsorganisatie en haar programma beoordeeld overeenkomstig het bepaalde in letter (e). De uitvoering van genoemd programma is onderworpen aan het toezicht van de instellingen die zijn gekozen overeenkomstig het bepaalde in letter (g).
 
 - (j). Het College van Bewindvoerders stelt passende voorschriften vast voor de aankoop van goederen en de betaling van diensten die uit de middelen van het Fonds zullen worden gefinancierd. Deze voorschriften dienen in de regel in overeenstemming te zijn met de beginselen van internationale inschrijvingen en dienen waar mogelijk de voorkeur te geven aan deskundigen, technici en goederen uit de ontwikkelingslanden.
 
