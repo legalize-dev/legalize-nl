@@ -4,7 +4,7 @@ identifier: "BWBR0020804"
 country: "nl"
 rank: "wet"
 publication_date: "2008-01-01"
-last_updated: "2006-10-01"
+last_updated: "2006-12-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020804"
 soort: "wet"
@@ -97,13 +97,13 @@ Wijzigt de Ziektewet.
 
 ### Hoofdstuk 2. Ministerie van Justitie
 
-### Hoofdstuk 3. Ministerie van Financiën
+### Hoofdstuk 2. Ministerie van Justitie
 
-### Hoofdstuk 4. Slotbepalingen
+### Hoofdstuk 3. Ministerie van Financiën
 
 ##### Artikel XVII. Verruiming grondslag [Regeling aanwijzing ontwikkelingsorganisaties BEU](https://wetten.overheid.nl/jci1.3:c:BWBR0014127)
 
-Na de inwerkingtreding van [artikel III, onderdeel G](https://wetten.overheid.nl/jci1.3:c:BWBR0020804&hoofdstuk=1&artikel=III&z=2006-12-23&g=2006-10-01), [artikel X, onderdeel K](https://wetten.overheid.nl/jci1.3:c:BWBR0020804&hoofdstuk=1&artikel=X&z=2006-12-23&g=2006-10-01), [artikel XII, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0020804&hoofdstuk=1&artikel=XII&z=2006-12-23&g=2006-10-01) en [artikel XIV, onderdeel G](https://wetten.overheid.nl/jci1.3:c:BWBR0020804&hoofdstuk=1&artikel=XIV&z=2006-12-23&g=2006-10-01) van deze wet berust de [Regeling aanwijzing ontwikkelingsorganisaties BEU](https://wetten.overheid.nl/jci1.3:c:BWBR0014127) mede op [artikel 53, eerste lid, onderdeel b, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=53), [artikel 18, tweede lid, onderdeel b, van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=18), [artikel 64, tweede lid, onderdeel b, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=64) en [artikel 81, tweede lid, onderdeel b, van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=81).
+Na de inwerkingtreding van [artikel III, onderdeel G](https://wetten.overheid.nl/jci1.3:c:BWBR0020804&hoofdstuk=1&artikel=III&z=2006-12-23&g=2006-12-23), [artikel X, onderdeel K](https://wetten.overheid.nl/jci1.3:c:BWBR0020804&hoofdstuk=1&artikel=X&z=2006-12-23&g=2006-12-23), [artikel XII, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0020804&hoofdstuk=1&artikel=XII&z=2006-12-23&g=2006-12-23) en [artikel XIV, onderdeel G](https://wetten.overheid.nl/jci1.3:c:BWBR0020804&hoofdstuk=1&artikel=XIV&z=2006-12-23&g=2006-12-23) van deze wet berust de [Regeling aanwijzing ontwikkelingsorganisaties BEU](https://wetten.overheid.nl/jci1.3:c:BWBR0014127) mede op [artikel 53, eerste lid, onderdeel b, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=53), [artikel 18, tweede lid, onderdeel b, van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=18), [artikel 64, tweede lid, onderdeel b, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=64) en [artikel 81, tweede lid, onderdeel b, van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=81).
 
 ##### Artikel XVIII. Wijziging grondslag [Besluit werkzaamheden, administratieve voorschriften en kosten eigenrisicodragen ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0014926)
 
@@ -130,3 +130,15 @@ Dit onderdeel is nog niet inwerking getreden
 Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.
 
 ### Hoofdstuk 4. Slotbepalingen
+
+Allen die deze zullen zien of horen lezen, saluut! doen te weten:
+
+Alzo Wij in overweging genomen hebben, dat het wenselijk is enkele correcties en andere wijzigingen aan te brengen in een aantal socialeverzekeringswetten, met name in verband met de inwerkingtreding van de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057);
+
+Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
+
+### Hoofdstuk 1. Ministerie van Sociale Zaken en Werkgelegenheid
+
+### Hoofdstuk 4. Slotbepalingen
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
