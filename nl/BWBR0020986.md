@@ -1,0 +1,137 @@
+---
+title: "Besluit van het bestuur van het Productschap Tuinbouw, d.d. 27 juni 2006, houdende de vaststelling van een heffing ten behoeve van hoveniersbedrijven op te leggen in het jaar 2007 (Verordening PT heffing hoveniersbedrijven omzetjaar 2006)"
+identifier: "BWBR0020986"
+country: "nl"
+rank: "pbo"
+publication_date: "2006-12-24"
+last_updated: "2006-12-24"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0020986"
+soort: "pbo"
+stam_id: "8862913"
+version_id: "14078072"
+internal_id: "C19171161"
+label_id: "8842394"
+dtd_version: "2.0"
+original_entry_into_force: "2006-12-24"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0020986/2006-12-24/0"
+intitule_bron: "Vbbo.2006-69"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-07-03"
+intitule_published: "2006-12-22"
+intitule_in_force: "2006-12-22"
+intitule_status: "goed"
+original_publication: "Vbbo.2006-69"
+original_signed_date: "2006-07-03"
+original_published_date: "2006-12-22"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2006-12-24"
+jci_1_3: "jci1.3:c:BWBR0020986&z=2006-12-24&g=2006-12-24"
+jci_1_0: "1.0:c:BWBR0020986&g=2006-12-24"
+citeertitel_status: "officieel"
+short_title: "Verordening PT heffing hoveniersbedrijven omzetjaar 2006"
+signed_date: "2006-07-03"
+entry_into_force: "2006-12-24"
+---
+# Besluit van het bestuur van het Productschap Tuinbouw, d.d. 27 juni 2006, houdende de vaststelling van een heffing ten behoeve van hoveniersbedrijven op te leggen in het jaar 2007 (Verordening PT heffing hoveniersbedrijven omzetjaar 2006)
+
+Gelet op de [artikelen 95](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=95) en [126 van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126), en
+
+Gelet op de [artikelen 12 tot en met 14 van het Instellingsbesluit Productschap Tuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=12);
+
+Gehoord de Commissie voor hovenierswerkzaamheden, d.d. 12 april 2006;
+
+Besluit:
+
+##### Artikel 1
+
+1. In deze verordening en de daarop berustende bepalingen worden overgenomen de begripsbepalingen van de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=1)en [2 van het Instellingsbesluit Productschap Tuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=2).
+
+2. In deze verordening en de daarop berustende bepalingen wordt verstaan onder:
+
+| a. | hovenierswerkzaamheden: | het aanleggen, het aanbrengen van wijzigingen in en het onderhouden van siertuinen, begraafplaatsen, groenstroken, parken, plantsoenen, landgoederen en openbaar groen in stad en landschap, inclusief werkzaamheden op sportterreinen en in bossen, met de daartoe behorende wegen, paden en pleinen in al hun onderdelen, met inbegrip van de voorbereidende en grondwerkzaamheden; |
+| --- | --- | --- |
+| b. | leveringen: | de bij de werkzaamheden behorende levering van levende en dode materialen; |
+| c. | ondernemer: | natuurlijke of rechtspersoon die een onderneming drijft waarin hovenierswerkzaam heden worden verricht; |
+| d. | omzet: | het bruto-omzetbedrag van hovenierswerkzaamheden en leveringen over het jaar 2006. |
+
+##### Artikel 2
+
+1. De ondernemer is in 2007 een heffing aan het Productschap Tuinbouw verschuldigd ten behoeve van promotionele en marketingactiviteiten, economische aangelegenheden, kwaliteitsaangelegenheden, technisch onderzoek, milieu-aangelegenheden en voorlichting, alsmede ten behoeve van de algemene kosten van het Productschap Tuinbouw.
+
+2. De heffing als bedoeld in het eerste lid wordt opgelegd door de voorzitter van het Productschap Tuinbouw, met inachtneming van het in de volgende artikelen bepaalde.
+
+##### Artikel 3
+
+1. De heffing die de ondernemer is verschuldigd, wordt opgelegd naar de grondslag van de in het jaar 2006 behaalde omzet.
+
+2. De heffing als bedoeld in het eerste lid, is samengesteld uit een basisheffing van € 135,–, vermeerderd met de som van het bedrag dat wordt verkregen na toepassing van de hierna genoemde heffingspercentages over de hierna genoemde omzetbedragen:
+
+| a. | tot en met € 2.250.000,–: met dien verstande, dat bij een omzet van ten hoogste € 45.500,– uitsluitend de basisheffing is verschuldigd; | 0,031%, |
+| --- | --- | --- |
+| b. | van € 2.250.000,– tot en met € 4.500.000,–: | 0,02%, en |
+| c. | meer dan € 4.500.000,–: | 0,01%. |
+
+##### Artikel 4
+
+Indien de heffingsplichtige de gegevens die hem krachtens of ten behoeve van de onderhavige verordening zijn gevraagd, niet, niet tijdig of niet volledig verstrekt, wordt de heffing berekend over de dan door de voorzitter van het Productschap Tuinbouw te ramen omvang van de grondslag die op de heffingsplichtige ingevolge deze verordening van toepassing is, in welk geval de heffing met € 40,– wordt verhoogd in verband met administratiekosten.
+
+##### Artikel 5
+
+1. De oplegging van de krachtens deze verordening verschuldigde heffing vindt plaats na afloop van het jaar waarover de heffing verschuldigd is en geschiedt door de voorzitter van het Productschap Tuinbouw middels toezending of uitreiking aan de heffingsplichtige van een heffingsnota.
+
+2. Iedere heffingsnota is gedagtekend en bevat:
+
+- a. naam en adres van de heffingsplichtige;
+
+- b. een specificatie of toelichting omtrent de wijze waarop de heffing is berekend;
+
+- c. het totaal van de heffing.
+
+3. In afwijking van het eerste lid kan de voorzitter van het Productschap Tuinbouw de heffingsplichtige een voorlopige heffing opleggen tot het bedrag waarop de heffing vermoedelijk zal worden vastgesteld. De voorlopige heffing wordt verrekend met de krachtens deze verordening verschuldigde heffing.
+
+##### Artikel 6
+
+Het Productschap Tuinbouw is gerechtigd om, indien hem aan de hand van te zijner beschikking gekomen gegevens blijkt, dat een aangifte als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0020986&artikel=3&z=2006-12-24&g=2006-12-24) of een schatting als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0020986&artikel=4&z=2006-12-24&g=2006-12-24), niet in overeenstemming is met de werkelijkheid, een opgelegde heffing aan de hand van deze gegevens te herzien en het verschil tussen de opgelegde en de herziene heffing alsnog na te vorderen.
+
+##### Artikel 7
+
+1. Betaling geschiedt binnen 30 dagen na dagtekening van de heffingsnota.
+
+2. In afwijking van het eerste lid is de nota terstond invorderbaar:
+
+- a. zodra het faillissement van de heffingsplichtige is aangevraagd;
+
+- b. zodra de ondernemer het drijven van de onderneming beëindigt of van het voornemen daartoe blijkt;
+
+- c. zodra de ondernemer zich metterwoon in het buitenland heeft gevestigd of van het voornemen daartoe blijkt.
+
+##### Artikel 8
+
+Aan de heffingsplichtige, die niet of niet geheel binnen de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0020986&artikel=7&z=2006-12-24&g=2006-12-24) bedoelde termijn heeft betaald, kunnen de daaruit voortvloeiende extra kosten van € 22,50 in rekening worden gebracht, alsmede de wettelijke interest over het niet betaalde bedrag, te berekenen vanaf de dag waarop de betaling diende te zijn verricht ingevolge de aanmaning als bedoeld in [artikel 127, tweede lid van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=127).
+
+##### Artikel 9
+
+De invorderingskosten voortvloeiend uit het niet betalen binnen de gestelde termijn als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0020986&artikel=7&z=2006-12-24&g=2006-12-24) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0020986&artikel=8&z=2006-12-24&g=2006-12-24), zijn voor rekening en risico van de ondernemer.
+
+##### Artikel 10
+
+De voorzitter is belast met de oplegging en inning van de heffing en de daarmee samenhangende kosten als bedoeld in de [artikelen 4 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0020986&artikel=4&z=2006-12-24&g=2006-12-24).
+
+##### Artikel 11
+
+1. De gegevens verkregen uit hoofde van het bepaalde in deze verordening dienen in handen van de voorzitter of door deze aan te wijzen personen van het secretariaat van het productschap te worden gesteld.
+
+2. Deze gegevens mogen slechts worden gebezigd voor de vervulling van de taak van het productschap.
+
+#### § 3. Slotbepalingen
+
+##### Artikel 12
+
+Deze verordening treedt in werking met ingang van de tweede dag na de datum van publicatie in het Verordeningenblad Bedrijfsorganisatie waarin zij wordt geplaatst.
+
+##### Artikel 13
+
+Deze verordening wordt aangehaald als: Verordening PT heffing hoveniersbedrijven omzetjaar 2006.
+
+Deze verordening en de daarbij behorende toelichting worden gepubliceerd in het Verordeningenblad Bedrijfsorganisatie.
