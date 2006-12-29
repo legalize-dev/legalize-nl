@@ -4,7 +4,7 @@ identifier: "BWBR0019070"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-04-01"
-last_updated: "2006-12-14"
+last_updated: "2006-12-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019070"
 soort: "AMvB"
@@ -66,7 +66,7 @@ Wijzigt het Besluit premiedifferentiatie WAO.
 
 1. De artikelen van dit besluit treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-2. [Artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=5&artikel=5.1&z=2006-12-14&g=2006-12-14) werkt terug tot en met 1 september 2005.
+2. [Artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=5&artikel=5.1&z=2006-12-29&g=2006-12-29) werkt terug tot en met 1 september 2005.
 
 ##### Artikel 5.4. Citeertitel
 
@@ -130,7 +130,7 @@ In deze paragraaf en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 2.3. Vaststelling verschillende sectorpremiepercentages
 
-1. In afwijking van [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=1&artikel=2.2&z=2006-12-14&g=2006-12-14) stelt het UWV op bij ministeriële regeling te bepalen wijze sectorpremiepercentages, die voor verschillende categorieën van werknemers kunnen verschillen, vast voor de sectorfondsen van:
+1. In afwijking van [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=1&artikel=2.2&z=2006-12-29&g=2006-12-29) stelt het UWV op bij ministeriële regeling te bepalen wijze sectorpremiepercentages, die voor verschillende categorieën van werknemers kunnen verschillen, vast voor de sectorfondsen van:
 
 - a. het agrarisch bedrijf;
 
@@ -180,7 +180,7 @@ Het gewogen gemiddelde van beide percentages bedraagt ten hoogste het lastenplaf
 
 ##### Artikel 2.5. Algemene begrippen
 
-1. In deze paragraaf en [paragraaf 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=3a&z=2006-12-14&g=2006-12-14) wordt verstaan onder:
+1. In deze paragraaf en [paragraaf 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=3a&z=2006-12-29&g=2006-12-29) wordt verstaan onder:
 
 - a. premieplichtig loon: het loon, bedoeld in [paragraaf 1 van afdeling 1 van hoofdstuk 3 van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&paragraaf=1), waarnaar op grond van [dat hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3) premies worden geheven;
 
@@ -240,7 +240,7 @@ Het gewogen gemiddelde van beide percentages bedraagt ten hoogste het lastenplaf
 
 ##### Artikel 2.9. Berekening opslag of korting kleine werkgevers
 
-1. De opslag of korting, bedoeld in [artikel 37, tweede lid, van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=37), is voor alle kleine werkgevers in een sector gelijk aan het sectorpercentage verminderd met het gemiddelde percentage, bedoeld in [artikel 2.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.7&z=2006-12-14&g=2006-12-14).
+1. De opslag of korting, bedoeld in [artikel 37, tweede lid, van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=37), is voor alle kleine werkgevers in een sector gelijk aan het sectorpercentage verminderd met het gemiddelde percentage, bedoeld in [artikel 2.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.7&z=2006-12-29&g=2006-12-29).
 
 2. Het sectorpercentage is de uitkomst van de volgende berekening:
 
@@ -262,9 +262,9 @@ C staat voor: het totaalbedrag van het over het premiebetalingstijdvak verwachte
 
 1. In geval van overgang van een onderneming in de zin van [artikel 662 van Boek 7 van het Burgerlijk](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=662) Wetboek, alsmede in geval van een dergelijke overgang bij faillissement:
 
-- a. worden bij de toepassing van [artikel 2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.8&z=2006-12-14&g=2006-12-14) de arbeidsongeschiktheidsuitkeringen, bedoeld in [artikel 2.8, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.8&z=2006-12-14&g=2006-12-14), die zijn of worden toegekend aan de werknemer die op de eerste dag van de ongeschiktheid tot het verrichten van zijn arbeid in dienstbetrekking stond tot de werkgever die de onderneming heeft overgedragen, toegerekend aan de werkgever die de onderneming verkrijgt; en
+- a. worden bij de toepassing van [artikel 2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.8&z=2006-12-29&g=2006-12-29) de arbeidsongeschiktheidsuitkeringen, bedoeld in [artikel 2.8, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.8&z=2006-12-29&g=2006-12-29), die zijn of worden toegekend aan de werknemer die op de eerste dag van de ongeschiktheid tot het verrichten van zijn arbeid in dienstbetrekking stond tot de werkgever die de onderneming heeft overgedragen, toegerekend aan de werkgever die de onderneming verkrijgt; en
 
-- b. wordt bij de toepassing van [artikel 2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.8&z=2006-12-14&g=2006-12-14) het ten laste van de werkgever die de onderneming heeft overgedragen, gekomen premieplichtig loon in enig premiebetalingstijdvak telkens opgeteld bij het premieplichtig loon van de werkgever die de onderneming verkrijgt in dat premiebetalingstijdvak, voordat het gemiddelde premieplichtig loon van laatstgenoemde werkgever wordt berekend.
+- b. wordt bij de toepassing van [artikel 2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.8&z=2006-12-29&g=2006-12-29) het ten laste van de werkgever die de onderneming heeft overgedragen, gekomen premieplichtig loon in enig premiebetalingstijdvak telkens opgeteld bij het premieplichtig loon van de werkgever die de onderneming verkrijgt in dat premiebetalingstijdvak, voordat het gemiddelde premieplichtig loon van laatstgenoemde werkgever wordt berekend.
 
 2. Indien slechts een deel van de onderneming overgaat, vindt het eerste lid toepassing naar rato van het deel van het totaalbedrag van premieplichtig loon in het overgegane deel van de onderneming van het totaalbedrag van premieplichtig loon in de gehele onderneming in het jaar voorafgaande aan dat van overgang.
 
@@ -272,9 +272,9 @@ C staat voor: het totaalbedrag van het over het premiebetalingstijdvak verwachte
 
 ##### Artikel 2.11. Regres en premievermindering grote werkgevers
 
-1. Indien blijkt dat een arbeidsongeschiktheidsuitkering als bedoeld in [artikel 2.8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.8&z=2006-12-14&g=2006-12-14) geheel of ten dele ten onrechte is toegekend, wordt bij de berekening van het individuele werkgeversrisicopercentage in het kalenderjaar waarin het besluit tot toekenning van de arbeidsongeschiktheidsuitkering wordt ingetrokken of herzien, het totaalbedrag, bedoeld in [artikel 2.8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.8&z=2006-12-14&g=2006-12-14), verminderd met een bedrag dat gelijk is aan het bedrag van de te veel betaalde arbeidsongeschiktheidsuitkering.
+1. Indien blijkt dat een arbeidsongeschiktheidsuitkering als bedoeld in [artikel 2.8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.8&z=2006-12-29&g=2006-12-29) geheel of ten dele ten onrechte is toegekend, wordt bij de berekening van het individuele werkgeversrisicopercentage in het kalenderjaar waarin het besluit tot toekenning van de arbeidsongeschiktheidsuitkering wordt ingetrokken of herzien, het totaalbedrag, bedoeld in [artikel 2.8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.8&z=2006-12-29&g=2006-12-29), verminderd met een bedrag dat gelijk is aan het bedrag van de te veel betaalde arbeidsongeschiktheidsuitkering.
 
-2. Indien een schadevergoeding als bedoeld in [artikel 107a, tweede lid, van Boek 6 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=107a) dan wel een schadevergoeding op grond van een wettelijke regeling die daarmee naar aard en strekking overeenkomt, is ontvangen, wordt, op verzoek van de werkgever, bij de berekening van het individuele werkgeversrisicopercentage met ingang van het kalenderjaar waarin de schadevergoeding is ontvangen, gedurende een tijdvak van vijf jaren, het totaalbedrag, bedoeld in [artikel 2.8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.8&z=2006-12-14&g=2006-12-14), verminderd met een compensatiebedrag.
+2. Indien een schadevergoeding als bedoeld in [artikel 107a, tweede lid, van Boek 6 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=107a) dan wel een schadevergoeding op grond van een wettelijke regeling die daarmee naar aard en strekking overeenkomt, is ontvangen, wordt, op verzoek van de werkgever, bij de berekening van het individuele werkgeversrisicopercentage met ingang van het kalenderjaar waarin de schadevergoeding is ontvangen, gedurende een tijdvak van vijf jaren, het totaalbedrag, bedoeld in [artikel 2.8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.8&z=2006-12-29&g=2006-12-29), verminderd met een compensatiebedrag.
 
 3. Het compensatiebedrag, bedoeld in het tweede lid, wordt vastgesteld door het bedrag van de arbeidsongeschiktheidsuitkering aan de betrokken werknemer jaarlijks gedurende vijf jaren te vermenigvuldigen met het getal dat is verkregen door het bedrag van de schadevergoeding, bedoeld in het tweede lid, te delen door het loon over het tijdvak van 52 weken, bedoeld in [artikel 629, eerste lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=629) dan wel [artikel 76a, eerste lid, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=76a). Het getal, bedoeld in de eerste zin, bedraagt niet meer dan 1.
 
@@ -284,39 +284,41 @@ C staat voor: het totaalbedrag van het over het premiebetalingstijdvak verwachte
 
 ##### Artikel 2.12. Niet gedurende gehele berekeningstijdvak grote werkgever
 
-1. Indien een grote werkgever, zonder dat er sprake is van een overgang van een onderneming als bedoeld in [artikel 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.10&z=2006-12-14&g=2006-12-14) in een of meer van de kalenderjaren van het tijdvak, bedoeld in [artikel 2.8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.8&z=2006-12-14&g=2006-12-14), niet de hoedanigheid van werkgever had, wordt bij de berekening van het individuele werkgeversrisicopercentage, bedoeld in [artikel 2.8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.8&z=2006-12-14&g=2006-12-14), het ten laste van die grote werkgever komende gemiddelde premieplichtige loon per jaar berekend over het aantal kalenderjaren in het tijdvak, bedoeld in [artikel 2.8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.8&z=2006-12-14&g=2006-12-14), waarin de grote werkgever de hoedanigheid van werkgever had, waarna het verkregen percentage wordt vermenigvuldigd met een breuk, waarvan de teller wordt gevormd door het gemiddelde werkgeversrisicopercentage, bedoeld in [artikel 2.8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.8&z=2006-12-14&g=2006-12-14), en de noemer door het gemiddelde werkgeversrisicopercentage, berekend over het aantal kalenderjaren in het tijdvak, bedoeld in [artikel 2.8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.8&z=2006-12-14&g=2006-12-14), waarin de grote werkgever de hoedanigheid van werkgever had.
+1. Indien een grote werkgever, zonder dat er sprake is van een overgang van een onderneming als bedoeld in [artikel 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.10&z=2006-12-29&g=2006-12-29) in een of meer van de kalenderjaren van het tijdvak, bedoeld in [artikel 2.8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.8&z=2006-12-29&g=2006-12-29), niet de hoedanigheid van werkgever had, wordt bij de berekening van het individuele werkgeversrisicopercentage, bedoeld in [artikel 2.8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.8&z=2006-12-29&g=2006-12-29), het ten laste van die grote werkgever komende gemiddelde premieplichtige loon per jaar berekend over het aantal kalenderjaren in het tijdvak, bedoeld in [artikel 2.8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.8&z=2006-12-29&g=2006-12-29), waarin de grote werkgever de hoedanigheid van werkgever had, waarna het verkregen percentage wordt vermenigvuldigd met een breuk, waarvan de teller wordt gevormd door het gemiddelde werkgeversrisicopercentage, bedoeld in [artikel 2.8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.8&z=2006-12-29&g=2006-12-29), en de noemer door het gemiddelde werkgeversrisicopercentage, berekend over het aantal kalenderjaren in het tijdvak, bedoeld in [artikel 2.8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.8&z=2006-12-29&g=2006-12-29), waarin de grote werkgever de hoedanigheid van werkgever had.
 
 2. De uitkomst van de berekening, bedoeld in het eerste lid, wordt naar beneden afgerond op twee cijfers achter de komma.
 
 ##### Artikel 2.13. Premiepercentage startende grote werkgever
 
-1. Voor een grote werkgever die, zonder dat er sprake is van een overgang van een onderneming als bedoeld in [artikel 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.10&z=2006-12-14&g=2006-12-14), eerst in het premiebetalingstijdvak, of in het eerste of tweede kalenderjaar onmiddellijk voorafgaande aan het premiebetalingstijdvak de hoedanigheid van werkgever heeft verkregen, is het percentage van de gedifferentieerde premie, bedoeld in [artikel 37 van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=37), gelijk aan het rekenpercentage, bedoeld in [artikel 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.6&z=2006-12-14&g=2006-12-14).
+1. Voor een grote werkgever die, zonder dat er sprake is van een overgang van een onderneming als bedoeld in [artikel 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.10&z=2006-12-29&g=2006-12-29), eerst in het premiebetalingstijdvak, of in het eerste of tweede kalenderjaar onmiddellijk voorafgaande aan het premiebetalingstijdvak de hoedanigheid van werkgever heeft verkregen, is het percentage van de gedifferentieerde premie, bedoeld in [artikel 37 van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=37), gelijk aan het rekenpercentage, bedoeld in [artikel 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.6&z=2006-12-29&g=2006-12-29).
 
-2. Het eerste lid is niet van toepassing op de werkgever die in het tijdvak, bedoeld in [artikel 2.8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.8&z=2006-12-14&g=2006-12-14), reeds werkgever was.
+2. Het eerste lid is niet van toepassing op de werkgever die in het tijdvak, bedoeld in [artikel 2.8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.8&z=2006-12-29&g=2006-12-29), reeds werkgever was.
 
-3. [Artikel 2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.12&z=2006-12-14&g=2006-12-14) is niet van toepassing op een werkgever als bedoeld in het eerste lid.
+3. [Artikel 2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.12&z=2006-12-29&g=2006-12-29) is niet van toepassing op een werkgever als bedoeld in het eerste lid.
 
 ##### Artikel 2.14. Minimum- en maximumpremie
 
-1. De gedifferentieerde premie, bedoeld in [artikel 37 van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=37), bedraagt ten minste nihil, en ten hoogste vier maal het gemiddelde percentage, bedoeld in [artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.7&z=2006-12-14&g=2006-12-14).
+1. De gedifferentieerde premie, bedoeld in [artikel 37 van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=37), bedraagt ten minste nihil, en ten hoogste vier maal het gemiddelde percentage, bedoeld in [artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.7&z=2006-12-29&g=2006-12-29).
 
-2. In afwijking van het eerste lid wordt voor een grote werkgever een premiepercentage vastgesteld lager dan nihil indien toepassing van [artikel 2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.11&z=2006-12-14&g=2006-12-14) daartoe aanleiding geeft.
+2. In afwijking van het eerste lid wordt voor een grote werkgever een premiepercentage vastgesteld lager dan nihil indien toepassing van [artikel 2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.11&z=2006-12-29&g=2006-12-29) daartoe aanleiding geeft.
 
 3. Het percentage, bedoeld in het tweede lid, wordt naar beneden afgerond op twee cijfers achter de komma.
 
 ##### Artikel 2.15. Overgangsbepalingen
 
-1. [Artikel 2.11, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.11&z=2006-12-14&g=2006-12-14), is uitsluitend van toepassing in die gevallen waarin de arbeidsongeschiktheidsuitkering ingaat op of na 1 januari 2002.
+1. [Artikel 2.11, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.11&z=2006-12-29&g=2006-12-29), is uitsluitend van toepassing in die gevallen waarin de arbeidsongeschiktheidsuitkering ingaat op of na 1 januari 2002.
 
-2. Voor de premiejaren 2006 en volgende jaren worden de op grond van [artikel 2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.8&z=2006-12-14&g=2006-12-14) berekende opslagen en kortingen vermenigvuldigd met een breuk, waarvan de teller wordt gevormd door het rekenpercentage, bedoeld in [artikel 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.6&z=2006-12-14&g=2006-12-14), en de noemer door het gemiddelde werkgeversrisicopercentage, bedoeld in [artikel 2.8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.8&z=2006-12-14&g=2006-12-14).
+2. Voor de premiejaren 2006 en volgende jaren worden de op grond van [artikel 2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.8&z=2006-12-29&g=2006-12-29) berekende opslagen en kortingen vermenigvuldigd met een breuk, waarvan de teller wordt gevormd door het rekenpercentage, bedoeld in [artikel 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.6&z=2006-12-29&g=2006-12-29), en de noemer door het gemiddelde werkgeversrisicopercentage, bedoeld in [artikel 2.8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.8&z=2006-12-29&g=2006-12-29).
 
 3. De uitkomst van de berekening, bedoeld in het tweede lid, wordt afgerond op twee cijfers achter de komma.
 
 #### § 3. Eigenrisicodragen
 
-##### Artikel 2.16. Beperking eigenrisicodragen arbeidsongeschiktheidsuitkering
+##### Artikel 2.16. Afsluiting eigenrisicodragen WAO-arbeidsongeschiktheidsuitkering
 
-De toestemming, bedoeld in [artikel 40, eerste lid, aanhef en onderdeel b, van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=40), wordt niet verleend aan de kleine werkgever.
+1. De toestemming, bedoeld in [artikel 40, eerste lid, aanhef en onderdeel b, van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=40), wordt niet verleend, voor zover het betreft het zelf dragen van het risico van betaling van de arbeidsongeschiktheidsuitkering overeenkomstig [hoofdstuk IIIA van de Wet op de arbeidsongeschiktheidsuitkering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&hoofdstuk=IIIA), indien de aanvraag is ingediend op of na 24 november 2006.
+
+2. In afwijking van het eerste lid wordt de toestemming, bedoeld in dat lid, aan de startende grote werkgever niet verleend, indien het tijdstip waarop deze aanvangt werkgever te zijn, ligt op of na de dag na de datum van inwerkingtreding van het besluit van 21 december 2006 tot wijziging van het Besluit Wfsv in verband met het afsluiten van de mogelijkheid om eigenrisicodrager te worden voor de Wet op de arbeidsongeschiktheidsverzekering (Stb. 725).
 
 ### Hoofdstuk 3. De financiering van de vrijwillige algemene ouderdomsverzekering en de vrijwillige nabestaandenverzekering
 
@@ -382,7 +384,7 @@ P x I – H, waarbij:
 
 - a. zij bij de vaststelling van die premie rekening dient te houden met de in dat kalenderjaar verschuldigde premie op grond van de verplichte verzekering ingevolge de [AOW](https://wetten.overheid.nl/jci1.3:c:BWBR0002221) of de [ANW](https://wetten.overheid.nl/jci1.3:c:BWBR0007795); of
 
-- b. nog onduidelijk is of [artikel 3.3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=3&artikel=3.3&z=2006-12-14&g=2006-12-14), van toepassing is.
+- b. nog onduidelijk is of [artikel 3.3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=3&artikel=3.3&z=2006-12-29&g=2006-12-29), van toepassing is.
 
 2. Zodra dat naar het oordeel van de SVB mogelijk is, wordt de over bedoeld kalenderjaar verschuldigde premie definitief vastgesteld.
 
@@ -450,7 +452,7 @@ Onze Minister geeft het College zorgverzekeringen jaarlijks een aanwijzing terza
 
 ##### Artikel 4.4. Uitkering zorgverzekeraar
 
-1. Het College zorgverzekeringen stelt jaarlijks, in het kader van de verdeling van de voor het kalenderjaar krachtens [artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=4&artikel=4.3&z=2006-12-14&g=2006-12-14) beschikbaar gestelde middelen, voor iedere zorgverzekeraar afzonderlijk ten laste van het AFBZ het beheerskostenbudget vast ter dekking van de beheerskosten die zij maken anders dan in de hoedanigheid van verbindingskantoor.
+1. Het College zorgverzekeringen stelt jaarlijks, in het kader van de verdeling van de voor het kalenderjaar krachtens [artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=4&artikel=4.3&z=2006-12-29&g=2006-12-29) beschikbaar gestelde middelen, voor iedere zorgverzekeraar afzonderlijk ten laste van het AFBZ het beheerskostenbudget vast ter dekking van de beheerskosten die zij maken anders dan in de hoedanigheid van verbindingskantoor.
 
 2. De vaststelling van het beheerskostenbudget, bedoeld in het eerste lid, geschiedt aan de hand van de door het College zorgverzekeringen vast te stellen beleidsregels.
 
@@ -466,9 +468,9 @@ Onze Minister geeft het College zorgverzekeringen jaarlijks een aanwijzing terza
 
 ##### Artikel 4.5. Uitkering verbindingskantoren en centraal administratiekantoor
 
-1. Het College zorgverzekeringen stelt jaarlijks, in het kader van de verdeling van de voor het kalenderjaar krachtens [artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=4&artikel=4.3&z=2006-12-14&g=2006-12-14) beschikbaar gestelde middelen, afzonderlijk voor ieder verbindingskantoor en voor het centraal administratiekantoor het beheerskostenbudget vast.
+1. Het College zorgverzekeringen stelt jaarlijks, in het kader van de verdeling van de voor het kalenderjaar krachtens [artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=4&artikel=4.3&z=2006-12-29&g=2006-12-29) beschikbaar gestelde middelen, afzonderlijk voor ieder verbindingskantoor en voor het centraal administratiekantoor het beheerskostenbudget vast.
 
-2. De vaststelling van het beheerskostenbudget, bedoeld in het eerste lid, geschiedt aan de hand van door het College zorgverzekeringen vast te stellen beleidsregels. Ten aanzien van die beleidsregels is [artikel 4.4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=4&artikel=4.4&z=2006-12-14&g=2006-12-14), van overeenkomstige toepassing.
+2. De vaststelling van het beheerskostenbudget, bedoeld in het eerste lid, geschiedt aan de hand van door het College zorgverzekeringen vast te stellen beleidsregels. Ten aanzien van die beleidsregels is [artikel 4.4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=4&artikel=4.4&z=2006-12-29&g=2006-12-29), van overeenkomstige toepassing.
 
 3. Het College zorgverzekeringen keert jaarlijks uit het AFBZ aan de verbindingskantoren en het centraal administratiekantoor het voor hen ingevolge het eerste lid vastgestelde beheerskostenbudget uit.
 
@@ -482,7 +484,7 @@ Onze Minister geeft het College zorgverzekeringen jaarlijks een aanwijzing terza
 
 ##### Artikel 4.6. Reserve uitvoering [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614)
 
-De reserve uitvoering [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614), bedoeld in [artikel 4.5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=4&artikel=4.5&z=2006-12-14&g=2006-12-14), ultimo enig jaar, bedraagt voor verbindingskantoren maximaal 20% en voor het centraal administratiekantoor maximaal 5% van het beheerskostenbudget voor dat jaar. Indien het College zorgverzekeringen vaststelt dat de reserve het gestelde maximum te boven gaat, stort het verbindingskantoor of het centraal administratiekantoor het door het College zorgverzekeringen vastgestelde bedrag van de overschrijding binnen vier weken in het AFBZ.
+De reserve uitvoering [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614), bedoeld in [artikel 4.5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=4&artikel=4.5&z=2006-12-29&g=2006-12-29), ultimo enig jaar, bedraagt voor verbindingskantoren maximaal 20% en voor het centraal administratiekantoor maximaal 5% van het beheerskostenbudget voor dat jaar. Indien het College zorgverzekeringen vaststelt dat de reserve het gestelde maximum te boven gaat, stort het verbindingskantoor of het centraal administratiekantoor het door het College zorgverzekeringen vastgestelde bedrag van de overschrijding binnen vier weken in het AFBZ.
 
 ##### Artikel 4.7. Toezicht op opgaven
 
@@ -494,7 +496,7 @@ Het College zorgverzekeringen bepaalt met inachtneming van het [Administratiebes
 
 ##### Artikel 4.9. Overgangsbepaling
 
-Besluiten van Onze Minister en het College zorgverzekeringen op grond van het [Besluit financiering uitvoeringsorganisatie bijzondere ziektekostenverzekering AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0018059) in het jaar 2005 terzake van de onderwerpen geregeld in de [artikelen 4.3 tot en met 4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=4&artikel=4.3&z=2006-12-14&g=2006-12-14) van dit hoofdstuk worden aangemerkt als besluiten op grond van de desbetreffende artikelen van dit hoofdstuk.
+Besluiten van Onze Minister en het College zorgverzekeringen op grond van het [Besluit financiering uitvoeringsorganisatie bijzondere ziektekostenverzekering AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0018059) in het jaar 2005 terzake van de onderwerpen geregeld in de [artikelen 4.3 tot en met 4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=4&artikel=4.3&z=2006-12-29&g=2006-12-29) van dit hoofdstuk worden aangemerkt als besluiten op grond van de desbetreffende artikelen van dit hoofdstuk.
 
 ### Hoofdstuk 5. Slotbepalingen
 
@@ -506,9 +508,9 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 1. Het rekenpercentage, bedoeld in [artikel 38, eerste lid, onderdeel a, van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=38), is gelijk aan het gemiddelde percentage, bedoeld in [artikel 38, eerste lid, onderdeel b, van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=38) vermeerderd of verminderd met:
 
-- a. een percentage ter compensatie van het naar verwachting over het premiebetalingstijdvak optredende verschil tussen enerzijds de premie-inkomsten die worden verkregen indien de gedifferentieerde premie, bedoeld in [artikel 38 van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=38), wordt gebaseerd op het gemiddelde percentage bedoeld in [artikel 38, eerste lid, onderdeel b, van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=38), verminderd met de premie-inkomsten die het gevolg zijn van de opslag, bedoeld in [artikel 2.16b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=3a&artikel=2.16b&z=2006-12-14&g=2006-12-14), en anderzijds het totaalbedrag dat naar verwachting in het premiebetalingstijdvak op grond van [artikel 117b van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=117b) ten laste van de Werkhervattingskas komt verminderd met de gelden die op grond van [artikel 117a, onderdelen b en c, van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=117a) naar verwachting ten gunste van de Werkhervattingskas komen;
+- a. een percentage ter compensatie van het naar verwachting over het premiebetalingstijdvak optredende verschil tussen enerzijds de premie-inkomsten die worden verkregen indien de gedifferentieerde premie, bedoeld in [artikel 38 van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=38), wordt gebaseerd op het gemiddelde percentage bedoeld in [artikel 38, eerste lid, onderdeel b, van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=38), verminderd met de premie-inkomsten die het gevolg zijn van de opslag, bedoeld in [artikel 2.16b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=3a&artikel=2.16b&z=2006-12-29&g=2006-12-29), en anderzijds het totaalbedrag dat naar verwachting in het premiebetalingstijdvak op grond van [artikel 117b van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=117b) ten laste van de Werkhervattingskas komt verminderd met de gelden die op grond van [artikel 117a, onderdelen b en c, van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=117a) naar verwachting ten gunste van de Werkhervattingskas komen;
 
-- b. een percentage, voorzover dit nodig of mogelijk is, rekening houdend met de verplichting, bedoeld in [artikel 113a van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=113a), betreffende het vormen en in stand houden van een voldoende reserve, met dien verstande dat bij de bepaling van dit percentage de opbrengst van de opslag, bedoeld in [artikel 2.16b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=3a&artikel=2.16b&z=2006-12-14&g=2006-12-14), buiten beschouwing wordt gelaten.
+- b. een percentage, voorzover dit nodig of mogelijk is, rekening houdend met de verplichting, bedoeld in [artikel 113a van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=113a), betreffende het vormen en in stand houden van een voldoende reserve, met dien verstande dat bij de bepaling van dit percentage de opbrengst van de opslag, bedoeld in [artikel 2.16b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=3a&artikel=2.16b&z=2006-12-29&g=2006-12-29), buiten beschouwing wordt gelaten.
 
 2. De percentages, bedoeld in het eerste lid, worden naar beneden afgerond op twee cijfers achter de komma.
 
@@ -544,7 +546,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 8. De uitkomst van de deling, bedoeld in het tweede en derde lid, wordt naar beneden afgerond op twee cijfers achter de komma.
 
-9. De op grond van dit artikel berekende opslagen of kortingen worden vermenigvuldigd met een breuk, waarvan de teller wordt gevormd door het gemiddeld percentage, bedoeld in [artikel 2.16b](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=3a&artikel=2.16b&z=2006-12-14&g=2006-12-14), en de noemer door het gemiddelde werkgeversrisicopercentage, bedoeld in het derde lid.
+9. De op grond van dit artikel berekende opslagen of kortingen worden vermenigvuldigd met een breuk, waarvan de teller wordt gevormd door het gemiddeld percentage, bedoeld in [artikel 2.16b](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=3a&artikel=2.16b&z=2006-12-29&g=2006-12-29), en de noemer door het gemiddelde werkgeversrisicopercentage, bedoeld in het derde lid.
 
 10. De uitkomst van de berekening, bedoeld in het negende lid, wordt afgerond op twee cijfers achter de komma.
 
@@ -552,9 +554,9 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 1. In geval van overgang van een onderneming in de zin van [artikel 662 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=662), alsmede in geval van een dergelijke overgang bij faillissement:
 
-- a. worden bij de toepassing van [artikel 2.16c](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=3a&artikel=2.16c&z=2006-12-14&g=2006-12-14) de arbeidsongeschiktheidsuitkeringen, bedoeld in [artikel 2.16c, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=3a&artikel=2.16c&z=2006-12-14&g=2006-12-14), die zijn of worden toegekend aan de werknemer die op de eerste dag van de ongeschiktheid tot het verrichten van zijn arbeid in dienstbetrekking stond tot de werkgever die de onderneming heeft overgedragen, toegerekend aan de werkgever die de onderneming verkrijgt; en
+- a. worden bij de toepassing van [artikel 2.16c](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=3a&artikel=2.16c&z=2006-12-29&g=2006-12-29) de arbeidsongeschiktheidsuitkeringen, bedoeld in [artikel 2.16c, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=3a&artikel=2.16c&z=2006-12-29&g=2006-12-29), die zijn of worden toegekend aan de werknemer die op de eerste dag van de ongeschiktheid tot het verrichten van zijn arbeid in dienstbetrekking stond tot de werkgever die de onderneming heeft overgedragen, toegerekend aan de werkgever die de onderneming verkrijgt; en
 
-- b. wordt bij de toepassing van [artikel 2.16c](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=3a&artikel=2.16c&z=2006-12-14&g=2006-12-14) het ten laste van de werkgever die de onderneming heeft overgedragen, gekomen premieplichtig loon in enig premiebetalingstijdvak telkens opgeteld bij het premieplichtig loon van de werkgever die de onderneming verkrijgt in dat premiebetalingstijdvak, voordat het gemiddelde premieplichtig loon van laatstgenoemde werkgever wordt berekend.
+- b. wordt bij de toepassing van [artikel 2.16c](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=3a&artikel=2.16c&z=2006-12-29&g=2006-12-29) het ten laste van de werkgever die de onderneming heeft overgedragen, gekomen premieplichtig loon in enig premiebetalingstijdvak telkens opgeteld bij het premieplichtig loon van de werkgever die de onderneming verkrijgt in dat premiebetalingstijdvak, voordat het gemiddelde premieplichtig loon van laatstgenoemde werkgever wordt berekend.
 
 2. Indien slechts een deel van de onderneming overgaat, vindt het eerste lid toepassing naar rato van het deel van het totaalbedrag van premieplichtig loon in het overgegane deel van de onderneming van het totaalbedrag van premieplichtig loon in de gehele onderneming in het jaar voorafgaande aan dat van overgang.
 
@@ -562,9 +564,9 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 2.16e. Opslag en korting bij regres en premievermindering
 
-1. Indien blijkt dat een arbeidsongeschiktheidsuitkering als bedoeld in [artikel 2.16c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=3a&artikel=2.16c&z=2006-12-14&g=2006-12-14) geheel of ten dele ten onrechte is toegekend, wordt bij de berekening van het individuele werkgeversrisicopercentage in het kalenderjaar waarin het besluit tot toekenning van de arbeidsongeschiktheidsuitkering wordt ingetrokken of herzien, het totaalbedrag, bedoeld in [artikel 2.16c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=3a&artikel=2.16c&z=2006-12-14&g=2006-12-14), verminderd met een bedrag dat gelijk is aan het bedrag van de te veel betaalde arbeidsongeschiktheidsuitkering.
+1. Indien blijkt dat een arbeidsongeschiktheidsuitkering als bedoeld in [artikel 2.16c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=3a&artikel=2.16c&z=2006-12-29&g=2006-12-29) geheel of ten dele ten onrechte is toegekend, wordt bij de berekening van het individuele werkgeversrisicopercentage in het kalenderjaar waarin het besluit tot toekenning van de arbeidsongeschiktheidsuitkering wordt ingetrokken of herzien, het totaalbedrag, bedoeld in [artikel 2.16c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=3a&artikel=2.16c&z=2006-12-29&g=2006-12-29), verminderd met een bedrag dat gelijk is aan het bedrag van de te veel betaalde arbeidsongeschiktheidsuitkering.
 
-2. Indien een schadevergoeding als bedoeld in [artikel 107a, tweede lid, van Boek 6 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=107a) dan wel een schadevergoeding op grond van een wettelijke regeling die daarmee naar aard en strekking overeenkomt, is ontvangen, wordt, op verzoek van de werkgever, bij de berekening van het individuele werkgeversrisicopercentage met ingang van het kalenderjaar waarin de schadevergoeding is ontvangen, gedurende een tijdvak van vijf jaren, het totaalbedrag, bedoeld in [artikel 2.16c, tweede lid,](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=3a&artikel=2.16c&z=2006-12-14&g=2006-12-14) verminderd met een compensatiebedrag.
+2. Indien een schadevergoeding als bedoeld in [artikel 107a, tweede lid, van Boek 6 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=107a) dan wel een schadevergoeding op grond van een wettelijke regeling die daarmee naar aard en strekking overeenkomt, is ontvangen, wordt, op verzoek van de werkgever, bij de berekening van het individuele werkgeversrisicopercentage met ingang van het kalenderjaar waarin de schadevergoeding is ontvangen, gedurende een tijdvak van vijf jaren, het totaalbedrag, bedoeld in [artikel 2.16c, tweede lid,](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=3a&artikel=2.16c&z=2006-12-29&g=2006-12-29) verminderd met een compensatiebedrag.
 
 3. Het compensatiebedrag, bedoeld in het tweede lid, wordt vastgesteld door het bedrag van de arbeidsongeschiktheidsuitkering aan de betrokken werknemer jaarlijks gedurende vijf jaar te vermenigvuldigen met het getal dat is verkregen door het bedrag van de schadevergoeding, bedoeld in het tweede lid, te delen door het loon over het tijdvak van 52 weken, bedoeld in [artikel 629, eerste lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=629) dan wel [artikel 76a, eerste lid, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=76a). Het getal, bedoeld in de eerste zin, bedraagt niet meer dan 1.
 
@@ -576,29 +578,29 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 2.16f. Niet gedurende gehele berekeningstijdvak werkgever
 
-1. Indien een werkgever, zonder dat er sprake is van een overgang van een onderneming als bedoeld in [artikel 2.16d](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=3a&artikel=2.16d&z=2006-12-14&g=2006-12-14) in een of meer van de kalenderjaren van het tijdvak, bedoeld in [artikel 2.16c](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=3a&artikel=2.16c&z=2006-12-14&g=2006-12-14), tweede lid, niet de hoedanigheid van werkgever had, wordt bij de berekening van het individuele werkgeversrisicopercentage, bedoeld in [artikel 2.16c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=3a&artikel=2.16c&z=2006-12-14&g=2006-12-14), het ten laste van die werkgever komende gemiddelde premieplichtige loon per jaar berekend over het aantal kalenderjaren in het tijdvak, bedoeld in [artikel 2.16c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=3a&artikel=2.16c&z=2006-12-14&g=2006-12-14), waarin de werkgever de hoedanigheid van werkgever had, waarna het verkregen percentage wordt vermenigvuldigd met een breuk, waarvan de teller wordt gevormd door het gemiddelde werkgeversrisicopercentage, bedoeld in [artikel 2.16c, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=3a&artikel=2.16c&z=2006-12-14&g=2006-12-14), en de noemer door het gemiddelde werkgeversrisicopercentage, berekend over het aantal kalenderjaren in het tijdvak, bedoeld in [artikel 2.16c, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=3a&artikel=2.16c&z=2006-12-14&g=2006-12-14), waarin de werkgever de hoedanigheid van werkgever had.
+1. Indien een werkgever, zonder dat er sprake is van een overgang van een onderneming als bedoeld in [artikel 2.16d](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=3a&artikel=2.16d&z=2006-12-29&g=2006-12-29) in een of meer van de kalenderjaren van het tijdvak, bedoeld in [artikel 2.16c](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=3a&artikel=2.16c&z=2006-12-29&g=2006-12-29), tweede lid, niet de hoedanigheid van werkgever had, wordt bij de berekening van het individuele werkgeversrisicopercentage, bedoeld in [artikel 2.16c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=3a&artikel=2.16c&z=2006-12-29&g=2006-12-29), het ten laste van die werkgever komende gemiddelde premieplichtige loon per jaar berekend over het aantal kalenderjaren in het tijdvak, bedoeld in [artikel 2.16c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=3a&artikel=2.16c&z=2006-12-29&g=2006-12-29), waarin de werkgever de hoedanigheid van werkgever had, waarna het verkregen percentage wordt vermenigvuldigd met een breuk, waarvan de teller wordt gevormd door het gemiddelde werkgeversrisicopercentage, bedoeld in [artikel 2.16c, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=3a&artikel=2.16c&z=2006-12-29&g=2006-12-29), en de noemer door het gemiddelde werkgeversrisicopercentage, berekend over het aantal kalenderjaren in het tijdvak, bedoeld in [artikel 2.16c, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=3a&artikel=2.16c&z=2006-12-29&g=2006-12-29), waarin de werkgever de hoedanigheid van werkgever had.
 
 2. De uitkomst van de berekening, bedoeld in het eerste lid, wordt naar beneden afgerond op twee cijfers achter de komma.
 
 ##### Artikel 2.16g. Premiepercentage startende werkgever
 
-Voor een werkgever die, zonder dat er sprake is van een overgang van een onderneming als bedoeld in [artikel 2.16d](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=3a&artikel=2.16d&z=2006-12-14&g=2006-12-14), eerst in het premiebetalingstijdvak, of in het eerste of tweede kalenderjaar onmiddellijk voorafgaande aan het premiebetalingstijdvak de hoedanigheid van werkgever heeft verkregen, is het percentage van de gedifferentieerde premie, bedoeld in [artikel 38 van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=38):
+Voor een werkgever die, zonder dat er sprake is van een overgang van een onderneming als bedoeld in [artikel 2.16d](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=3a&artikel=2.16d&z=2006-12-29&g=2006-12-29), eerst in het premiebetalingstijdvak, of in het eerste of tweede kalenderjaar onmiddellijk voorafgaande aan het premiebetalingstijdvak de hoedanigheid van werkgever heeft verkregen, is het percentage van de gedifferentieerde premie, bedoeld in [artikel 38 van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=38):
 
-- a. indien het een kleine werkgever betreft gelijk aan het overeenkomstig [artikel 2.16h, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=3a&artikel=2.16h&z=2006-12-14&g=2006-12-14), vastgestelde percentage;
+- a. indien het een kleine werkgever betreft gelijk aan het overeenkomstig [artikel 2.16h, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=3a&artikel=2.16h&z=2006-12-29&g=2006-12-29), vastgestelde percentage;
 
-- b. indien het een grote werkgever betreft gelijk aan het rekenpercentage, bedoeld in [artikel 2.16a](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=3a&artikel=2.16a&z=2006-12-14&g=2006-12-14).
+- b. indien het een grote werkgever betreft gelijk aan het rekenpercentage, bedoeld in [artikel 2.16a](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=3a&artikel=2.16a&z=2006-12-29&g=2006-12-29).
 
 ##### Artikel 2.16h. Minimum- en maximumpremie
 
 1. De gedifferentieerde premie, bedoeld in [artikel 38 van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=38), bedraagt:
 
-- a. voor een kleine werkgever: tenminste het overeenkomstig het tweede lid vastgestelde percentage en ten hoogste drie maal het gemiddelde percentage, bedoeld in [artikel 2.16b](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=3a&artikel=2.16b&z=2006-12-14&g=2006-12-14);
+- a. voor een kleine werkgever: tenminste het overeenkomstig het tweede lid vastgestelde percentage en ten hoogste drie maal het gemiddelde percentage, bedoeld in [artikel 2.16b](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=3a&artikel=2.16b&z=2006-12-29&g=2006-12-29);
 
-- b. voor een grote werkgever: tenminste het verschil tussen het rekenpercentage, bedoeld in [artikel 2.16a](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=3a&artikel=2.16a&z=2006-12-14&g=2006-12-14), en het gemiddeld percentage, bedoeld in [artikel 2.16b](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=3a&artikel=2.16b&z=2006-12-14&g=2006-12-14), maar niet minder dan nihil en ten hoogste vier maal het gemiddelde percentage, bedoeld in [artikel 2.16b](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=3a&artikel=2.16b&z=2006-12-14&g=2006-12-14).
+- b. voor een grote werkgever: tenminste het verschil tussen het rekenpercentage, bedoeld in [artikel 2.16a](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=3a&artikel=2.16a&z=2006-12-29&g=2006-12-29), en het gemiddeld percentage, bedoeld in [artikel 2.16b](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=3a&artikel=2.16b&z=2006-12-29&g=2006-12-29), maar niet minder dan nihil en ten hoogste vier maal het gemiddelde percentage, bedoeld in [artikel 2.16b](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=3a&artikel=2.16b&z=2006-12-29&g=2006-12-29).
 
 2. De voor kleine werkgevers geldende minimale gedifferentieerde premie wordt door het UWV voor elk premiebetalingstijdvak op een zodanig percentage vastgesteld, dat de uit de heffing van deze minimaal verschuldigde premie voortvloeiende extra inkomsten naar verwachting gelijk zullen zijn aan de extra premieinkomsten die zouden worden verworven indien geen maximum zou zijn gesteld aan de door deze werkgevers verschuldigde gedifferentieerde premie, verminderd met de naar verwachting ten laste van de kleine werkgevers komende premieinkomsten ten gevolge van de voor grote werkgevers krachtens het eerste lid, onderdeel b, geldende maximale gedifferentieerde premie.
 
-3. In afwijking van het eerste lid wordt een premiepercentage van lager dan nihil vastgesteld indien toepassing van artikel [2.16e](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=3a&artikel=2.16e&z=2006-12-14&g=2006-12-14) daartoe aanleiding geeft.
+3. In afwijking van het eerste lid wordt een premiepercentage van lager dan nihil vastgesteld indien toepassing van artikel [2.16e](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=3a&artikel=2.16e&z=2006-12-29&g=2006-12-29) daartoe aanleiding geeft.
 
 4. Het percentage, bedoeld in het derde lid, wordt naar beneden afgerond op twee cijfers achter de komma.
 
