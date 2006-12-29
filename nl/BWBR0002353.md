@@ -4,7 +4,7 @@ identifier: "BWBR0002353"
 country: "nl"
 rank: "wet"
 publication_date: "2022-05-28"
-last_updated: "2003-06-11"
+last_updated: "2006-12-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002353"
 soort: "wet"
@@ -85,7 +85,7 @@ Vervallen
 
 ##### Artikel 3
 
-1. Onze Minister kan van het krachtens de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002353&artikel=2&z=2003-06-11&g=2003-06-11) of [2**b**](https://wetten.overheid.nl/jci1.3:c:BWBR0002353&artikel=2b&z=2003-06-11&g=2003-06-11) bepaalde op daartoe strekkend verzoek ontheffing verlenen.
+1. Onze Minister kan van het krachtens de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002353&artikel=2&z=2006-12-29&g=2006-12-29) of [2**b**](https://wetten.overheid.nl/jci1.3:c:BWBR0002353&artikel=2b&z=2006-12-29&g=2006-12-29) bepaalde op daartoe strekkend verzoek ontheffing verlenen.
 
 2. De ontheffingen kunnen onder beperkingen worden verleend. Aan de ontheffingen kunnen voorschriften worden verbonden.
 
@@ -135,9 +135,9 @@ Indien in deze wet geregelde onderwerpen in het belang van een goede uitvoering 
 
 ##### Artikel 12
 
-1. Een gedraging in strijd met het krachtens de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002353&artikel=2&z=2003-06-11&g=2003-06-11), of [3](https://wetten.overheid.nl/jci1.3:c:BWBR0002353&artikel=3&z=2003-06-11&g=2003-06-11) bepaalde is een misdrijf, wanneer zij opzettelijk geschiedt, en overigens een overtreding.
+1. Een gedraging in strijd met het krachtens de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002353&artikel=2&z=2006-12-29&g=2006-12-29), of [3](https://wetten.overheid.nl/jci1.3:c:BWBR0002353&artikel=3&z=2006-12-29&g=2006-12-29) bepaalde is een misdrijf, wanneer zij opzettelijk geschiedt, en overigens een overtreding.
 
-2. Een gedraging in strijd met het bij of krachtens de [artikelen 2**b**](https://wetten.overheid.nl/jci1.3:c:BWBR0002353&artikel=2b&z=2003-06-11&g=2003-06-11), [6**b**](https://wetten.overheid.nl/jci1.3:c:BWBR0002353&artikel=6b&z=2003-06-11&g=2003-06-11) of - indien uitdrukkelijk aangeduid als strafbaar feit - 11 bepaalde, is een overtreding.
+2. Een gedraging in strijd met het bij of krachtens [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0002353&artikel=11&z=2006-12-29&g=2006-12-29) bepaalde, indien uitdrukkelijk aangeduid als strafbaar feit, is een overtreding.
 
 ##### Artikel 13
 
