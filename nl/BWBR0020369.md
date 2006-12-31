@@ -370,39 +370,3 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, da
 Deze wet wordt aangehaald als: Wet toezicht financiële verslaggeving.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 1a
-
-1. Deze wet is niet van toepassing op effectenuitgevende instellingen die uitsluitend obligaties of effecten zonder aandelenkarakter als bedoeld in [artikel 5:1, onderdeel e, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:1) uitgeven met een nominale waarde per eenheid van ten minste € 50 000.
-
-2. Deze wet is niet van toepassing op effectenuitgevende instellingen met zetel in een door Onze Minster aangewezen staat die geen lidstaat is en die op grond van [artikel 5:25v van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:25v) hun financiële verslaggeving opmaken overeenkomstig de in die staat geldende wettelijke voorschriften met betrekking tot financiële verslaggeving. Onze Minister kan een staat uitsluitend aanwijzen indien het in die staat uitgeoefende toezicht op de naleving van de in de vorige volzin bedoelde wettelijke voorschriften voldoende waarborgen biedt ter bescherming van de belangen die deze wet beoogt te beschermen.
-
-### Hoofdstuk 2. Toezicht op de naleving van financiële verslaggevingsvoorschriften
-
-### Hoofdstuk 3. Het register
-
-### Hoofdstuk 4. Uitwisseling van gegevens en samenwerking
-
-### Hoofdstuk 5. Rekening en verantwoording van de autoriteit financiële markten
-
-### Hoofdstuk 6. Wijziging van andere wetten
-
-### Hoofdstuk 7. Overgangs- en slotbepalingen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 6a
-
-1. De Autoriteit Financiële Markten verstrekt, indien zij deelneemt aan een samenwerkingsverband als bedoeld in de [Wet gegevensverwerking door samenwerkingsverbanden](https://wetten.overheid.nl/jci1.3:c:BWBR0049962), in afwijking van de [artikelen 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020369&hoofdstuk=2&artikel=2&z=2025-03-01&g=2025-03-01), [3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020369&hoofdstuk=2&artikel=3&z=2025-03-01&g=2025-03-01), aan het samenwerkingsverband gegevens behorend tot de in [hoofdstuk 2 van de Wet gegevensverwerking door samenwerkingsverbanden](https://wetten.overheid.nl/jci1.3:c:BWBR0049962&hoofdstuk=2) of bij algemene maatregel van bestuur op grond van die wet aangewezen categorieën, voor zover dat noodzakelijk is voor het doel van dat samenwerkingsverband, tenzij naar het oordeel van de Autoriteit Financiële Markten zwaarwegende redenen zich daartegen verzetten.
-
-2. Indien voor de verstrekking aan bepaalde partijen op grond van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0020369&hoofdstuk=4&artikel=6&z=2025-03-01&g=2025-03-01) bijzondere regels gelden, geschiedt de in het eerste lid bedoelde verstrekking steeds met inachtneming van die regels.
-
-3. Bij algemene maatregel van bestuur kunnen voorwaarden en beperkingen worden gesteld aan de verstrekkingen op grond van dit artikel.
-
-### Hoofdstuk 5. Rekening en verantwoording van de autoriteit financiële markten
-
-### Hoofdstuk 6. Wijziging van andere wetten
-
-### Hoofdstuk 7. Overgangs- en slotbepalingen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
