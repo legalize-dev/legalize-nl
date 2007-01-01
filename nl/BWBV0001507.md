@@ -4,7 +4,7 @@ identifier: "BWBV0001507"
 country: "nl"
 rank: "verdrag"
 publication_date: "2013-07-01"
-last_updated: "2005-10-11"
+last_updated: "2007-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0001507"
 soort: "verdrag"
@@ -299,7 +299,7 @@ Het Europees Parlement kan vragen of aanbevelingen tot de Raad richten. Het wijd
 
 Indien een lid van de Raad verklaart om belangrijke, nader genoemde, redenen van nationaal beleid voornemens te zijn zich te verzetten tegen de aanneming van een besluit dat met gekwalificeerde meerderheid van stemmen moet worden aangenomen, wordt niet tot stemming overgegaan. De Raad kan met gekwalificeerde meerderheid van stemmen verlangen dat de aangelegenheid voor een besluit met eenparigheid van stemmen wordt voorgelegd aan de Europese Raad.
 
-De stemmen van de leden van de Raad worden gewogen overeenkomstig artikel 205, lid 2, van het Verdrag tot oprichting van de Europese Gemeenschap. De besluiten komen tot stand wanneer zij ten minste 232 stemmen hebben verkregen en ten minste twee derden van de leden voorstemmen. Een lid van de Raad kan verlangen dat bij besluitvorming met gekwalificeerde meerderheid van stemmen wordt nagegaan of de lidstaten die de gekwalificeerde meerderheid vormen ten minste 62% van de totale bevolking van de Unie vertegenwoordigen. Indien blijkt dat niet aan deze voorwaarde is voldaan, is het besluit niet aangenomen.
+De stemmen van de leden van de Raad worden gewogen overeenkomstig artikel 205, lid 2, van het Verdrag tot oprichting van de Europese Gemeenschap. De besluiten komen tot stand wanneer zij ten minste 255 stemmen hebben verkregen en ten minste twee derden van de leden voorstemmen. Een lid van de Raad kan verlangen dat bij besluitvorming met gekwalificeerde meerderheid van stemmen wordt nagegaan of de lidstaten die de gekwalificeerde meerderheid vormen ten minste 62% van de totale bevolking van de Unie vertegenwoordigen. Indien blijkt dat niet aan deze voorwaarde is voldaan, is het besluit niet aangenomen.
 
 Dit lid is niet van toepassing op besluiten die gevolgen hebben op militair of defensiegebied.
 
@@ -455,7 +455,7 @@ Deze titel laat de uitoefening van de verantwoordelijkheden van de lidstaten ten
 
 - d. overeenkomsten vaststellen, waarvan hij de aanneming door de lidstaten overeenkomstig hun onderscheiden grondwettelijke bepalingen aanbeveelt. De lidstaten beginnen de toepasselijke procedures binnen een door de Raad te bepalen termijn. Tenzij in de overeenkomsten anders wordt bepaald, treden zij, zodra zij door ten minste de helft van de lidstaten zijn aangenomen, ten aanzien van deze lidstaten in werking. De maatregelen ter uitvoering van de overeenkomsten worden in de Raad aangenomen met een meerderheid van tweederde van de stemmen van de verdragsluitende partijen.
 
-3. Ingeval voor de besluiten van de Raad een gekwalificeerde meerderheid van stemmen is vereist, worden de stemmen van de leden gewogen overeenkomstig artikel 205, lid 2, van het Verdrag tot oprichting van de Europese Gemeenschap en komen de besluiten tot stand wanneer zij ten minste 232 stemmen hebben verkregen, en ten minste twee deren van de leden voorstemmen. Elk lid van de Raad kan verlangen dat bij besluitvorming met gekwalificeerde meerderheid van stemmen wordt nagegaan of de lidstaten die de gekwalificeerde meerderheid vormen ten minste 62% van de totale bevolking van de Unie vertegenwoordigen. Indien blijkt dat niet aan deze voorwaarde wordt voldaan, is het besluit niet aangenomen.
+3. Ingeval voor de besluiten van de Raad een gekwalificeerde meerderheid van stemmen is vereist, worden de stemmen van de leden gewogen overeenkomstig artikel 205, lid 2, van het Verdrag tot oprichting van de Europese Gemeenschap en komen de besluiten tot stand wanneer zij ten minste 255 stemmen hebben verkregen, en ten minste twee derden van de leden voorstemmen. Een lid van de Raad kan verlangen dat bij besluitvorming met gekwalificeerde meerderheid van stemmen wordt nagegaan of de lidstaten die de gekwalificeerde meerderheid vormen ten minste 62% van de totale bevolking van de Unie vertegenwoordigen. Indien blijkt dat niet aan deze voorwaarde wordt voldaan, is het besluit niet aangenomen.
 
 4. Voor procedurekwesties neemt de Raad zijn besluiten met volstrekte meerderheid van stemmen van zijn leden.
 
@@ -639,7 +639,7 @@ Dit Verdrag wordt voor onbeperkte tijd gesloten.
 
 Dit Verdrag, opgesteld in één exemplaar, in de Deense, de Duitse, de Engelse, de Franse, de Griekse, de Ierse, de Italiaanse, de Nederlandse, de Portugese en de Spaanse taal, zijnde de teksten in elk van deze talen gelijkelijk authentiek, zal worden nedergelegd in het archief van de regering van de Italiaanse Republiek die een voor eensluidend gewaarmerkt afschrift daarvan toezendt aan de regeringen der andere ondertekenende staten.
 
-Krachtens het Toetredingsverdrag van 1994 zijn de teksten van dit Verdrag in de Finse en de Zweedse taal eveneens gelijkelijk authentiek.
+Krachtens de Toetredingsverdragen zijn de teksten van dit Verdrag in de Bulgaarse, de Tsjechische, de Estse, de Finse, de Hongaarse, de Letse, de Litouwse, de Maltese, de Poolse, de Roemeense, de Slowaakse, de Sloveense en de Zweedse taal eveneens gelijkelijk authentiek.
 
 De Hoge Verdragsluitende Partijen,
 
@@ -844,6 +844,8 @@ De bepalingen van de artikelen 2 tot en met 7 zijn van toepassing op de advocate
 ##### Artikel 9
 
 De gedeeltelijke vervanging van de rechters, die om de drie jaar plaatsvindt, heeft beurtelings betrekking op veertien en op dertien rechters.
+
+De gedeeltelijke vervanging van de advocaten-generaal, die om de drie jaar plaatsvindt, heeft telkens betrekking op vier advocaten-generaal.
 
 ##### Artikel 10
 
@@ -1922,9 +1924,9 @@ Hij ziet erop toe dat deze richtlijnen worden opgevolgd.
 
 - b. hij stelt, ter ﬁne van artikel 9, lid 1, vast volgens welke beginselen ﬁnancieringsverrichtingen door de Bank in het kader van haar taak geschieden;
 
-- c. hij oefent de bevoegdheden uit welke in de artikelen 9 en [11](https://wetten.overheid.nl/jci1.3:c:BWBV0001507&artikel=11&z=2005-10-11&g=2005-10-11) voor de benoeming en het ambtshalve ontslaan der leden van de Raad van bewind en van de directie, alsmede in artikel 11, lid 1, tweede alinea, zijn genoemd;
+- c. hij oefent de bevoegdheden uit welke in de artikelen 9 en [11](https://wetten.overheid.nl/jci1.3:c:BWBV0001507&artikel=11&z=2007-01-01&g=2007-01-01) voor de benoeming en het ambtshalve ontslaan der leden van de Raad van bewind en van de directie, alsmede in artikel 11, lid 1, tweede alinea, zijn genoemd;
 
-- d. hij besluit overeenkomstig [artikel 16, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001507&artikel=16&z=2005-10-11&g=2005-10-11), tot ﬁnanciering van investeringsverrichtingen die geheel of gedeeltelijk buiten het grondgebied van de lidstaten zullen worden gedaan;
+- d. hij besluit overeenkomstig [artikel 16, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001507&artikel=16&z=2007-01-01&g=2007-01-01), tot ﬁnanciering van investeringsverrichtingen die geheel of gedeeltelijk buiten het grondgebied van de lidstaten zullen worden gedaan;
 
 - e. hij keurt het door de Raad van bewind opgestelde jaarverslag goed;
 
