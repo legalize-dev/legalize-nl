@@ -4,7 +4,7 @@ identifier: "BWBR0009455"
 country: "nl"
 rank: "wet"
 publication_date: "2025-01-01"
-last_updated: "1998-08-01"
+last_updated: "2007-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009455"
 soort: "wet"
@@ -55,7 +55,11 @@ Onze Minister kan subsidies verstrekken voor activiteiten op het terrein van:
 
 - b. de gezondheidsbescherming;
 
-- c. de gezondheidszorg.
+- c. de gezondheidszorg;
+
+- d. de maatschappelijke zorg, voor zover van landelijke betekenis;
+
+- e. de sport, voor zover van landelijke betekenis.
 
 ##### Artikel 3
 
@@ -77,13 +81,13 @@ Onze Minister kan subsidies verstrekken voor activiteiten op het terrein van:
 
 - g. de betaling van de subsidie en de verlening van voorschotten;
 
-- h. het verslag over de doeltreffendheid en de effecten van de subsidie in de praktijk, bedoeld in [artikel 4:24 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:24);
+- h. het verslag over de doeltreffendheid en de effecten van de subsidie in de praktijk, bedoeld in [artikel 4:24 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:24).
 
-- i. delegatie van de bevoegdheid besluiten te nemen met betrekking tot de subsidie.
+3. Onze Minister kan de uitvoering van een algemene maatregel van bestuur of een ministeriële regeling als bedoeld in het eerste lid, met inbegrip van het nemen van besluiten op grond van deze regels, delegeren aan andere bestuursorganen.
 
 ##### Artikel 4
 
-Onze Minister verstrekt slechts subsidie op grond van een algemene maatregel van bestuur of een ministeriële regeling als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009455&artikel=3&z=1998-08-01&g=1998-08-01), tenzij het een subsidie betreft:
+Onze Minister verstrekt slechts subsidie op grond van een algemene maatregel van bestuur of een ministeriële regeling als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009455&artikel=3&z=2007-01-01&g=2007-01-01), tenzij het een subsidie betreft:
 
 - a. als bedoeld in [artikel 4:23, derde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:23) of
 
@@ -91,7 +95,7 @@ Onze Minister verstrekt slechts subsidie op grond van een algemene maatregel van
 
 ##### Artikel 5
 
-Bij of krachtens algemene maatregel van bestuur of bij ministeriële regeling als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009455&artikel=3&z=1998-08-01&g=1998-08-01) kan worden voorzien in de vaststelling van een subsidieplafond en de regeling van de wijze van verdeling.
+Bij of krachtens algemene maatregel van bestuur of bij ministeriële regeling als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009455&artikel=3&z=2007-01-01&g=2007-01-01) kan worden voorzien in de vaststelling van een subsidieplafond en de regeling van de wijze van verdeling.
 
 ##### Artikel 6
 
@@ -127,6 +131,6 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
 ##### Artikel 11
 
-Deze wet wordt aangehaald als: Kaderwet volksgezondheidssubsidies.
+Deze wet wordt aangehaald als: Kaderwet VWS-subsidies.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
