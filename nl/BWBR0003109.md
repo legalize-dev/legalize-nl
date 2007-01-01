@@ -4,7 +4,7 @@ identifier: "BWBR0003109"
 country: "nl"
 rank: "wet"
 publication_date: "2023-01-01"
-last_updated: "2006-01-20"
+last_updated: "2007-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003109"
 soort: "wet"
@@ -70,7 +70,7 @@ Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan ond
 
 ##### Artikel 3
 
-1. Onze Minister kan op voordracht van de toezichthouder besluiten van organen van het centraal instituut vernietigen wegens strijd met de statuten, met de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=1&artikel=4&z=2006-01-20&g=2006-01-20) bedoelde regels of met de eisen van een behoorlijk giraal effectenverkeer.
+1. Onze Minister kan op voordracht van de toezichthouder besluiten van organen van het centraal instituut vernietigen wegens strijd met de statuten, met de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=1&artikel=4&z=2007-01-01&g=2007-01-01) bedoelde regels of met de eisen van een behoorlijk giraal effectenverkeer.
 
 2. Een voordracht tot vernietiging moet worden gedaan binnen tien dagen na die waarop de toezichthouder van het besluit heeft kennis gekregen. Hangende de beslissing op de voordracht is het besluit geschorst.
 
@@ -102,7 +102,7 @@ Het centraal instituut bepaalt welke effecten voor de toepassing van deze wet al
 
 ##### Artikel 8a
 
-Tot een verzameldepot en een girodepot kunnen niet behoren effecten op naam waarvan de overdraagbaarheid bij de statuten respectievelijk de voorwaarden van uitgifte is beperkt of uitgesloten, tenzij deze zijn toegelaten tot de officiële notering aan een in een lidstaat van de Europese Unie gelegen werkzame effectenbeurs.
+Tot een verzameldepot en een girodepot kunnen niet behoren effecten op naam waarvan de overdraagbaarheid bij de statuten respectievelijk de voorwaarden van uitgifte is beperkt of uitgesloten, tenzij deze zijn toegelaten tot de handel op een gereglementeerde markt als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1).
 
 ### Hoofdstuk 2. Verzameldepot
 
@@ -122,7 +122,7 @@ Tot een verzameldepot behoren:
 
 - b. het ten name van de instelling staande aandeel in het verzameldepot van effecten van de betreffende soort bij een andere instelling;
 
-- c. het ten name van de instelling staande aandeel in het in [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=3&z=2006-01-20&g=2006-01-20) bedoelde girodepot van effecten van de betreffende soort;
+- c. het ten name van de instelling staande aandeel in het in [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=3&z=2007-01-01&g=2007-01-01) bedoelde girodepot van effecten van de betreffende soort;
 
 - d. in het geval dat effecten als bedoeld onder **a** verloren zijn gegaan, de rechten daaruit of de daarvoor in de plaats getreden vorderingen tot vergoeding, alsmede hetgeen uit hoofde daarvan is ontvangen;
 
@@ -200,7 +200,7 @@ Voor zover een bijschrijving van effecten geschiedt tot een grotere hoeveelheid 
 
 1. Onverminderd het bepaalde in [artikel 54 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=54), is de pandhouder in geval van verzuim van de schuldenaar bevoegd:
 
-- a. indien de instelling die de effecten heeft uitgegeven uitlevering van de effecten mogelijk heeft gemaakt, uitlevering te vorderen, onverminderd het bepaalde in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=3&artikel=31&z=2006-01-20&g=2006-01-20), teneinde de uitgeleverde effecten overeenkomstig de bij de uitoefening van pandrecht op de betreffende soort effecten toepasselijke wettelijke bepalingen te doen verkopen en leveren; of
+- a. indien de instelling die de effecten heeft uitgegeven uitlevering van de effecten mogelijk heeft gemaakt, uitlevering te vorderen, onverminderd het bepaalde in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=3&artikel=31&z=2007-01-01&g=2007-01-01), teneinde de uitgeleverde effecten overeenkomstig de bij de uitoefening van pandrecht op de betreffende soort effecten toepasselijke wettelijke bepalingen te doen verkopen en leveren; of
 
 - b. effecten van de betreffende soort en hoeveelheid op voormelde wijze te doen verkopen en vervolgens te doen leveren door middel van bijschrijving als in deze wet bedoeld.
 
@@ -216,7 +216,7 @@ Vestiging van een vruchtgebruik op een aandeel in een verzameldepot geschiedt do
 
 1. Indien onder een aangesloten instelling executoriaal derdenbeslag is gelegd op het aandeel van een deelgenoot in een verzameldepot, is de beslaglegger bevoegd:
 
-- a. indien de instelling die de effecten heeft uitgegeven uitlevering van de effecten mogelijk heeft gemaakt, uitlevering te vorderen, onverminderd het bepaalde in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=3&artikel=31&z=2006-01-20&g=2006-01-20), teneinde de uitgeleverde effecten overeenkomstig de bij de executie van een beslag op de betreffende effecten toepasselijke wettelijke bepalingen te doen verkopen en leveren; of
+- a. indien de instelling die de effecten heeft uitgegeven uitlevering van de effecten mogelijk heeft gemaakt, uitlevering te vorderen, onverminderd het bepaalde in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=3&artikel=31&z=2007-01-01&g=2007-01-01), teneinde de uitgeleverde effecten overeenkomstig de bij de executie van een beslag op de betreffende effecten toepasselijke wettelijke bepalingen te doen verkopen en leveren; of
 
 - b. effecten van de betreffende soort en hoeveelheid op voormelde wijze te doen verkopen en vervolgens te doen leveren door bijschrijving als in deze wet bedoeld.
 
@@ -248,7 +248,7 @@ Vestiging van een vruchtgebruik op een aandeel in een verzameldepot geschiedt do
 
 1. De verdeling van een verzameldepot dat niet toereikend is om aan iedere deelgenoot de hoeveelheid effecten, waarvoor hij deelgenoot is, uit te leveren, geschiedt overeenkomstig de volgende regels.
 
-2. Aan ieder der deelgenoten worden naar evenredigheid van zijn aandeel zoveel effecten uitgeleverd als in verband met de rechten van de andere deelgenoten mogelijk is. Blijft een hoeveelheid effecten over die voor een zodanige verdeling te klein is, dan worden zij, tenzij de deelgenoten anders overeenkomen, op een effectenbeurs verkocht en wordt de opbrengst onder de deelgenoten naar evenredigheid van ieders aandeel verdeeld.
+2. Aan ieder der deelgenoten worden naar evenredigheid van zijn aandeel zoveel effecten uitgeleverd als in verband met de rechten van de andere deelgenoten mogelijk is. Blijft een hoeveelheid effecten over die voor een zodanige verdeling te klein is, dan worden zij, tenzij de deelgenoten anders overeenkomen, verkocht op een markt in financiële instrumenten als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1) en wordt de opbrengst onder de deelgenoten naar evenredigheid van ieders aandeel verdeeld.
 
 3. Andere tot het verzameldepot behorende goederen worden op de daartoe meest geschikte wijze te gelde gemaakt en de opbrengst wordt onder de deelgenoten naar evenredigheid van ieders aandeel verdeeld.
 
@@ -270,13 +270,13 @@ Levert de instelling aan een deelgenoot meer effecten uit dan waartoe zij ingevo
 
 ##### Artikel 31
 
-1. Bij de uitlevering van effecten uit hoofde van een aandeel waarop een beperkt recht of, ingeval van uitlevering aan een pandhouder of beslaglegger overeenkomstig [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=2&artikel=22&z=2006-01-20&g=2006-01-20) of [24](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=2&artikel=24&z=2006-01-20&g=2006-01-20), beslag rust, komt dit beperkte recht of beslag mede op uitgeleverde effecten te rusten.
+1. Bij de uitlevering van effecten uit hoofde van een aandeel waarop een beperkt recht of, ingeval van uitlevering aan een pandhouder of beslaglegger overeenkomstig [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=2&artikel=22&z=2007-01-01&g=2007-01-01) of [24](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=2&artikel=24&z=2007-01-01&g=2007-01-01), beslag rust, komt dit beperkte recht of beslag mede op uitgeleverde effecten te rusten.
 
-2. Het eerste lid is bij uitkeringen als bedoeld in [artikel 27, tweede lid, tweede zin, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=3&artikel=27&z=2006-01-20&g=2006-01-20) van overeenkomstige toepassing.
+2. Het eerste lid is bij uitkeringen als bedoeld in [artikel 27, tweede lid, tweede zin, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=3&artikel=27&z=2007-01-01&g=2007-01-01) van overeenkomstige toepassing.
 
 ##### Artikel 32
 
-Degene die overeenkomstig [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=1&artikel=12&z=2006-01-20&g=2006-01-20), een hoeveelheid effecten in bewaring heeft gegeven of heeft geleverd maar daarvoor geen deelgenoot is, wordt vermoed bevoegd te zijn de rechten van de deelgenoot uit de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=1&artikel=15&z=2006-01-20&g=2006-01-20), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=3&artikel=26&z=2006-01-20&g=2006-01-20) en [27](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=3&artikel=27&z=2006-01-20&g=2006-01-20) uit te oefenen.
+Degene die overeenkomstig [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=1&artikel=12&z=2007-01-01&g=2007-01-01), een hoeveelheid effecten in bewaring heeft gegeven of heeft geleverd maar daarvoor geen deelgenoot is, wordt vermoed bevoegd te zijn de rechten van de deelgenoot uit de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=1&artikel=15&z=2007-01-01&g=2007-01-01), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=3&artikel=26&z=2007-01-01&g=2007-01-01) en [27](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=3&artikel=27&z=2007-01-01&g=2007-01-01) uit te oefenen.
 
 ## Titel 4. Faillissement
 
@@ -324,7 +324,7 @@ Tot een girodepot behoren:
 
 6. Het centraal instituut is bevoegd tot een girodepot behorende effecten die aan toonder luiden, op naam te doen stellen.
 
-7. Indien de instelling die de effecten heeft uitgegeven uitlevering van de effecten niet mogelijk heeft gemaakt of heeft bepaald dat uitlevering niet langer mogelijk is, is zij gehouden na afloop van de periode bedoeld in [artikel 26, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=3&artikel=26&z=2006-01-20&g=2006-01-20), voorzover van toepassing:
+7. Indien de instelling die de effecten heeft uitgegeven uitlevering van de effecten niet mogelijk heeft gemaakt of heeft bepaald dat uitlevering niet langer mogelijk is, is zij gehouden na afloop van de periode bedoeld in [artikel 26, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=3&artikel=26&z=2007-01-01&g=2007-01-01), voorzover van toepassing:
 
 - a. tot vervanging van toonderstukken als bedoeld in het vierde lid door toonderstukken die een regeling bevatten als bedoeld in het vijfde lid, dan wel;
 
@@ -348,7 +348,7 @@ Tot een girodepot behoren:
 
 ##### Artikel 39
 
-Het centraal instituut draagt zorg dat de aangesloten instellingen kunnen voldoen aan hun in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=1&artikel=15&z=2006-01-20&g=2006-01-20) bedoelde verplichting ten aanzien van het aan de effecten verbonden stemrecht.
+Het centraal instituut draagt zorg dat de aangesloten instellingen kunnen voldoen aan hun in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=1&artikel=15&z=2007-01-01&g=2007-01-01) bedoelde verplichting ten aanzien van het aan de effecten verbonden stemrecht.
 
 ## Titel 2. Vervreemding en bezwaring
 
@@ -368,7 +368,7 @@ Het centraal instituut draagt zorg dat de aangesloten instellingen kunnen voldoe
 
 1. Vestiging van een pandrecht ten behoeve van een andere aangesloten instelling op een aandeel in een girodepot geschiedt door bijschrijving ten name van de andere instelling in de administratie van het centraal instituut.
 
-2. [Artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=2&artikel=20&z=2006-01-20&g=2006-01-20), en [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=2&artikel=22&z=2006-01-20&g=2006-01-20) zijn van overeenkomstige toepassing.
+2. [Artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=2&artikel=20&z=2007-01-01&g=2007-01-01), en [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=2&artikel=22&z=2007-01-01&g=2007-01-01) zijn van overeenkomstige toepassing.
 
 ##### Artikel 43
 
@@ -390,7 +390,7 @@ Derden-beslag onder het centraal instituut op een ten name van een instelling st
 
 ##### Artikel 46
 
-De verdeling van een girodepot dat niet toereikend is om aan iedere instelling de haar toekomende hoeveelheid effecten uit te leveren, geschiedt door overeenkomstige toepassing van [artikel 27, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=3&artikel=27&z=2006-01-20&g=2006-01-20).
+De verdeling van een girodepot dat niet toereikend is om aan iedere instelling de haar toekomende hoeveelheid effecten uit te leveren, geschiedt door overeenkomstige toepassing van [artikel 27, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=3&artikel=27&z=2007-01-01&g=2007-01-01).
 
 ##### Artikel 47
 
@@ -404,13 +404,13 @@ Het centraal instituut is tot uitlevering bevoegd zonder medewerking van de ande
 
 1. Bij uitlevering van effecten uit hoofde van een aandeel waarop een pandrecht rust, komt dit pandrecht mede op de uitgeleverde effecten te rusten.
 
-2. Het eerste lid is bij uitkeringen als bedoeld in [artikel 27, tweede lid, tweede zin, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=3&artikel=27&z=2006-01-20&g=2006-01-20) van overeenkomstige toepassing.
+2. Het eerste lid is bij uitkeringen als bedoeld in [artikel 27, tweede lid, tweede zin, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=3&artikel=27&z=2007-01-01&g=2007-01-01) van overeenkomstige toepassing.
 
 ### Hoofdstuk 4. Overgangs- en slotbepalingen
 
 ##### Artikel 50
 
-1. Indien het centraal instituut overeenkomstig [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=1&artikel=1&z=2006-01-20&g=2006-01-20) ten aanzien van effecten van een bepaalde soort heeft bepaald dat zij bij hem in bewaring kunnen worden gegeven, en zodanige effecten op dat tijdstip worden bewaard door een effectenbewaarbedrijf, is dit bevoegd deze effecten aan de bewaargever uit te leveren door ze namens hem in bewaring te geven bij de met het effectenbewaarbedrijf verbonden aangesloten instelling. Deze bevoegdheid bestaat niet, indien de effecten afzonderlijk voor de bewaargever werden bewaard.
+1. Indien het centraal instituut overeenkomstig [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=1&artikel=1&z=2007-01-01&g=2007-01-01) ten aanzien van effecten van een bepaalde soort heeft bepaald dat zij bij hem in bewaring kunnen worden gegeven, en zodanige effecten op dat tijdstip worden bewaard door een effectenbewaarbedrijf, is dit bevoegd deze effecten aan de bewaargever uit te leveren door ze namens hem in bewaring te geven bij de met het effectenbewaarbedrijf verbonden aangesloten instelling. Deze bevoegdheid bestaat niet, indien de effecten afzonderlijk voor de bewaargever werden bewaard.
 
 2. Beperkte rechten die rusten op de vordering van de bewaargever op het effectenbewaarbedrijf tot uitlevering van niet-afzonderlijk voor de bewaargever bewaarde effecten, komen te rusten op de overeenkomstig het eerste lid uitgeleverde effecten. Is op een zodanige vordering beslag gelegd, dan is het effectenbewaarbedrijf niet bevoegd tot uitlevering van effecten overeenkomstig het eerste lid.
 
