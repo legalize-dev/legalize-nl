@@ -4,7 +4,7 @@ identifier: "BWBR0010792"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2007-01-01"
-last_updated: "2006-11-30"
+last_updated: "2007-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010792"
 soort: "ministeriele-regeling"
@@ -49,57 +49,7 @@ Wijzigt de arbeidsomstandighedenregeling.
 
 ##### Artikel II. Overgangsbepalingen
 
-1. Voor de toepassing van deze regeling wordt een deskundige op het vakgebied van de arbeids- en bedrijfsgeneeskunde, die op het tijdstip van inwerkingtreding van deze regeling is ingeschreven in het register van Sociaal Geneeskundigen, tak arbeids- en bedrijfsgeneeskunde of tak verzekeringsgeneeskunde dan wel het register sociale geneeskunde, hoofdstroom arbeid en gezondheid van de Sociaal-Geneeskundige Registratiecommissie van de Koninklijke Nederlandse Maatschappij tot bevordering der Geneeskunst, tot vijf jaar na de datum van inwerkingtreding van deze regeling aangemerkt als deskundige die in het bezit is van een certificaat van vakbekwaamheid arbeids- en bedrijfsgeneeskunde als bedoeld in [artikel 2.7, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.7).
-
-2. Vervallen.
-
-3. Voor de toepassing van deze regeling wordt een deskundige op het vakgebied van de veiligheidskunde, die op het tijdstip van inwerkingtreding van deze regeling is ingeschreven in het register van de Stichting voor de certificatie van vakbekwaamheid SKO, tot vier jaar na de datum van inwerkingtreding van de regeling, aangemerkt als deskundige die in het bezit is van een certificaat van vakbekwaamheid veiligheidskunde als bedoeld in [artikel 2.7, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.7).
-
-4. Voor de toepassing van deze regeling wordt een deskundige op het vakgebied van de arbeids- en organisatiekunde, die op het tijdstip van inwerkingtreding van deze regeling is ingeschreven in het register van gecertificeerde arbeids- en organisatiedeskundigen van de Stichting Registratie Arbeids- en Organisatiedeskundigen, tot vier jaar na de datum van inwerkingtreding van de regeling, aangemerkt als deskundige die in het bezit is van een certificaat van vakbekwaamheid arbeids- en organisatiekunde als bedoeld in [artikel 2.7, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.7).
-
-5. Voor de toepassing van deze regeling wordt een persoon die:
-
-- a. tot 1 juli 1997 op grond van het Veiligheidsbesluit Tankschepen was erkend als gasdeskundige, tot 1 juli 2000 aangemerkt als gasdeskundige die in het bezit is van een certificaat van vakbekwaamheid gasdeskundige als bedoeld in [artikel 4.7, vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.7);
-
-- b. tot het tijdstip van inwerkingtreding van deze regeling in het bezit was van een certificaat van vakbekwaamheid als bedoeld in [artikel 4.7, vierde lid, van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.7), zoals dat artikel luidde vanaf 1 juli 1997, tot 1 juli 2000 aangemerkt als gasdeskundige die in het bezit is van een certificaat van vakbekwaamheid gasdeskundige als bedoeld in [artikel 4.7, vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.7).
-
-6. Voor de toepassing van deze regeling wordt een persoon die tot het tijdstip van inwerkingtreding van deze regeling in het bezit was van een certificaat van vakbekwaamheid als bedoeld in [artikel 4.8, tweede lid, van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.8), zoals dat artikel luidde vanaf 1 juli 1997, tot drie jaar na de datum van inwerkingtreding van deze regeling, aangemerkt als een persoon die in het bezit is van een certificaat van vakbekwaamheid springmeester als bedoeld in [artikel 4.8, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.8).
-
-7. Voor de toepassing van deze regeling wordt een persoon die in het bezit is van een diploma van een op grond van het Asbestbesluit Arbeidsomstandighedenwet, zoals dat besluit tot 1 juli 1997 luidde, erkende opleiding deskundig toezicht asbest-sloop, tot twee jaar na inwerkingtreding van deze regeling, aangemerkt als een persoon die in het bezit is van een certificaat van vakbekwaamheid verwijdering asbest en crocidoliet als bedoeld in [artikel 4.54, vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.54).
-
-8. Voor de toepassing van deze regeling wordt een bedrijf of een inrichting ten behoeve waarvan:
-
-- a. tot 1 juli 1997 op grond van artikel 41, tweede lid, van de Arbeidsomstandighedenwet, zoals dat artikel tot de inwerkingtreding van de [Arbeidsomstandighedenwet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0010346) luidde, ontheffing was verleend van de artikelen 2 en 3 van het Zandsteenbesluit, tot vier jaar na de datum van inwerkingtreding van deze regeling, aangemerkt als een bedrijf ten behoeve waarvan een certificaat zandsteenbedrijf als bedoeld in [artikel 4.60, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.60) is afgegeven. De voorschriften die aan de ontheffing waren verbonden zijn daarbij van overeenkomstige toepassing;
-
-- b. tot het tijdstip van inwerkingtreding van deze regeling een certificaat als bedoeld in [artikel 4.60, derde lid, van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.60), zoals dat artikel luidde vanaf 1 juli 1997, was afgegeven, tot vier jaar na de datum van inwerkingtreding van deze regeling, aangemerkt als een bedrijf of een inrichting ten behoeve waarvan een certificaat zandsteenbedrijf als bedoeld in [artikel 4.60, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.60) is afgegeven.
-
-9. Voor de toepassing van deze regeling wordt een vermelding in het kraanboek van de resultaten van de uitgevoerde onderzoeken en beproevingen van een mobiele kraan of een torenkraan als bedoeld in artikel 7.2, door een instelling die tot de inwerkingtreding van deze regeling op grond van [artikel 7.19, achtste lid, van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=7.19), zoals dat artikel luidde vanaf 1 juli 1997, was gecertificeerd, tot twee jaar na het tijdstip van inwerkingtreding van deze regeling aangemerkt als een certificaat van goedkeuring als bedoeld in [artikel 7.19, tiende lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=7.19).
-
-10. Voor de toepassing van deze regeling wordt een persoon die:
-
-- a. tot 1 juli 1997 in het bezit was van een deskundigheidsbewijs als bedoeld in artikel 212sexies, tweede lid, onder a, van het Veiligheidsbesluit voor fabrieken of werkplaatsen 1938 van een op grond van voornoemd artikellid erkende opleiding tot machinist met betrekking tot arbeidsmiddelen van de desbetreffende soort, tot vijf jaar na het tijdstip van inwerkingtreding van deze regeling aangemerkt als een persoon, die in het bezit is van een certificaat van vakbekwaamheid als bedoeld in [artikel 7.32, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=7.32), mits hij aantoont dat hij sinds de afgifte van dit deskundigheidsbewijs regelmatig een arbeidsmiddel van de desbetreffende soort heeft bediend gedurende twee zevende deel van de laatste zeven jaar of twee zevende deel van de periode die sinds de afgifte van het deskundigheidsbewijs is verlopen;
-
-- b. tot het tijdstip van inwerkingtreding van deze regeling in het bezit was van een deskundigheidsbewijs als bedoeld in [artikel 7.32, tweede lid, onder a, van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=7.32), zoals dat artikel luidde vanaf 1 juli 1997, van een op grond van voornoemd artikellid gecertificeerde opleiding tot machinist met betrekking tot arbeidsmiddelen van de desbetreffende soort, tot vijf jaar na het tijdstip van inwerkingtreding van deze regeling aangemerkt als een persoon, die in het bezit is van een certificaat van vakbekwaamheid als bedoeld in [artikel 7.32, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=7.32), mits hij aantoont dat hij sinds de afgifte van dit deskundigheidsbewijs regelmatig een arbeidsmiddel van de desbetreffende soort heeft bediend gedurende twee zevende deel van de laatste zeven jaar of twee zevende deel van de periode die sinds de afgifte van het deskundigheidsbewijs is verlopen.
-
-11. Tot een door de minister te bepalen tijdstip wordt voor de toepassing van deze regeling na de inwerkingtreding van deze regeling:
-
-- a. inschrijving in het register van Sociaal Geneeskundigen, tak arbeids- en bedrijfsgeneeskunde of tak verzekeringsgeneeskunde dan wel het register sociale geneeskunde, hoofdstroom arbeid en gezondheid van de Sociaal-Geneeskundige Registratiecommissie van de Koninklijke Nederlandse Maatschappij tot bevordering der geneeskunst aangemerkt als afgifte van een certificaat van vakbekwaamheid arbeids- en bedrijfsgeneeskunde als bedoeld in [artikel 2.7, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.7);
-
-- b. inschrijving in het register van gecertificeerde arbeidshygiënisten van de Stichting ter certificering van Arbeidshygiënisten aangemerkt als afgifte van een certificaat van vakbekwaamheid arbeidshygiëne als bedoeld in [artikel 2.7, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.7);
-
-- c. inschrijving in het register van gecertificeerde arbeids- en organisatiedeskundigen van de Stichting Registratie Arbeids- en Organisatiedeskundigen aangemerkt als afgifte van een certificaat arbeids- en organisatiekunde als bedoeld in [artikel 2.7, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.7);
-
-- d. het verkrijgen van een diploma van een op grond van het Asbestbesluit Arbeidsomstandighedenwet, zoals dat besluit tot 1 juli 1997 luidde, erkende opleiding deskundig toezicht asbestsloop, aangemerkt als afgifte van een certificaat van vakbekwaamheid verwijdering asbest en crocidoliet als bedoeld in [artikel 4.54, vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.54);
-
-- e. afgifte een deskundigheidsbewijs door de opleiding tot machinist van arbeidsmiddelen van de desbetreffende soort die tot het tijdstip van inwerkingtreding van deze regeling op grond van [artikel 7.32, eerste lid, onder a, van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=7.32), zoals dat artikel luidde vanaf 1 juli 1997, was gecertificeerd aangemerkt als afgifte van een certificaat van vakbekwaamheid als bedoeld in [artikel 7.32, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=7.32).
-
-12. Tot 1 juli 2000 wordt voor de toepassing van deze regeling na de inwerkingtreding van deze regeling:
-
-- a. inschrijving in het register van de Stichting voor de certificatie van vakbekwaamheid SKO aangemerkt als afgifte van een certificaat van vakbekwaamheid veiligheidskunde als bedoeld in [artikel 2.7, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.7);
-
-- b. afgifte van een certificaat van vakbekwaamheid als gasdeskundige als bepaald in [artikel 4.7, vierde lid, van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.7), zoals dat artikel luidde vanaf 1 juli 1997, aangemerkt als afgifte van een certificaat van vakbekwaamheid gasdeskundige als bedoeld in artikel 4.7, vierde lid, van het besluit;
-
-- c. afgifte van een certificaat van vakbekwaamheid als bepaald in [artikel 4.8, tweede lid, van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.8), zoals dat artikel luidde vanaf 1 juli 1997, aangemerkt als afgifte van een certificaat van vakbekwaamheid springmeester als bedoeld in [artikel 4.8, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.8).
+Vervallen
 
 ##### Artikel III
 
@@ -237,4 +187,4 @@ Deze regeling treedt in werking op het tijdstip waarop de Arbeidsomstandighedenw
 
 - 41. De cursist kan na het optreden van een calamiteit aanvullende maatregelen ter voorkoming van herhaling nemen.
 
-Deze regeling zal met de [bijlagen I](https://wetten.overheid.nl/jci1.3:c:BWBR0010792&bijlage=1&z=2006-11-30&g=2006-11-30) en [VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0010792&bijlage=VIII&z=2006-11-30&g=2006-11-30) en de toelichting in de Staatscourant worden geplaatst.
+Deze regeling zal met de [bijlagen I](https://wetten.overheid.nl/jci1.3:c:BWBR0010792&bijlage=1&z=2007-01-01&g=2007-01-01) en [VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0010792&bijlage=VIII&z=2007-01-01&g=2007-01-01) en de toelichting in de Staatscourant worden geplaatst.
