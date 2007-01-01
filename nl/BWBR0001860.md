@@ -4,7 +4,7 @@ identifier: "BWBR0001860"
 country: "nl"
 rank: "wet"
 publication_date: "2026-03-25"
-last_updated: "2006-02-01"
+last_updated: "2007-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0001860"
 soort: "wet"
@@ -66,7 +66,7 @@ Zoo is het, dat Wij, den Raad van State gehoord, en met gemeen overleg der State
 
 ##### Artikel 3
 
-1. Indien een verzoek tot faillietverklaring een natuurlijke persoon betreft en hij geen verzoekschrift heeft ingediend tot het uitspreken van de toepassing van de schuldsaneringsregeling bedoeld in [titel III](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&z=2006-02-01&g=2006-02-01), geeft de griffier de schuldenaar terstond bij brief kennis dat hij binnen veertien dagen na de dag van de verzending van die brief een verzoekschrift als bedoeld in [artikel 284](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Eerste&artikel=284&z=2006-02-01&g=2006-02-01) kan indienen.
+1. Indien een verzoek tot faillietverklaring een natuurlijke persoon betreft en hij geen verzoekschrift heeft ingediend tot het uitspreken van de toepassing van de schuldsaneringsregeling bedoeld in [titel III](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&z=2007-01-01&g=2007-01-01), geeft de griffier de schuldenaar terstond bij brief kennis dat hij binnen veertien dagen na de dag van de verzending van die brief een verzoekschrift als bedoeld in [artikel 284](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Eerste&artikel=284&z=2007-01-01&g=2007-01-01) kan indienen.
 
 2. De behandeling van het verzoek tot faillietverklaring wordt geschorst totdat de in het eerste lid bedoelde termijn is verstreken.
 
@@ -80,23 +80,23 @@ Zoo is het, dat Wij, den Raad van State gehoord, en met gemeen overleg der State
 
 ##### Artikel 3b
 
-De [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=3&z=2006-02-01&g=2006-02-01) en [3a](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=3a&z=2006-02-01&g=2006-02-01) blijven buiten toepassing indien een verzoek tot faillietverklaring een schuldenaar betreft ten aanzien van wie de schuldsaneringsregeling van toepassing is.
+De [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=3&z=2007-01-01&g=2007-01-01) en [3a](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=3a&z=2007-01-01&g=2007-01-01) blijven buiten toepassing indien een verzoek tot faillietverklaring een schuldenaar betreft ten aanzien van wie de schuldsaneringsregeling van toepassing is.
 
 ##### Artikel 4
 
-1. De aangifte tot faillietverklaring wordt gedaan en het verzoek daartoe ingediend ter griffie en met de meeste spoed in raadkamer behandeld. Het Openbaar Ministerie wordt daarop gehoord. Indien de aangifte tot faillietverklaring wordt gedaan door een natuurlijk persoon, stelt de griffier deze terstond ervan in kennis dat hij, onverminderd [artikel 15b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=15b&z=2006-02-01&g=2006-02-01), een verzoekschrift als bedoeld in [artikel 284](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Eerste&artikel=284&z=2006-02-01&g=2006-02-01) kan indienen.
+1. De aangifte tot faillietverklaring wordt gedaan en het verzoek daartoe ingediend ter griffie en met de meeste spoed in raadkamer behandeld. Het Openbaar Ministerie wordt daarop gehoord. Indien de aangifte tot faillietverklaring wordt gedaan door een natuurlijk persoon, stelt de griffier deze terstond ervan in kennis dat hij, onverminderd [artikel 15b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=15b&z=2007-01-01&g=2007-01-01), een verzoekschrift als bedoeld in [artikel 284](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Eerste&artikel=284&z=2007-01-01&g=2007-01-01) kan indienen.
 
 2. Een schuldenaar die gehuwd is of een geregistreerd partnerschap is aangegaan kan slechts aangifte doen met medewerking van zijn echtgenoot onderscheidenlijk geregistreerde partner tenzij iedere gemeenschap tussen echtgenoten onderscheidenlijk geregistreerde partners, is uitgesloten.
 
 3. Ten aanzien ener vennootschap onder ene firma, moet de aangifte inhouden de naam en de woonplaats van elk der hoofdelijk voor het geheel verbonden vennoten.
 
-4. De aangifte of het verzoek tot faillietverklaring bevat zodanige gegevens dat de rechter kan beoordelen of hem rechtsmacht toekomt op grond van de verordening, genoemd in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=5&z=2006-02-01&g=2006-02-01).
+4. De aangifte of het verzoek tot faillietverklaring bevat zodanige gegevens dat de rechter kan beoordelen of hem rechtsmacht toekomt op grond van de verordening, genoemd in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=5&z=2007-01-01&g=2007-01-01).
 
 5. Het vonnis van faillietverklaring wordt ter openbare terechtzitting uitgesproken en is bij voorraad, op de minuut uitvoerbaar, niettegenstaande enige daartegen gerichte voorziening.
 
 ##### Artikel 5
 
-1. De verzoekschriften, bedoeld in het vorige artikel en in de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=8&z=2006-02-01&g=2006-02-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=9&z=2006-02-01&g=2006-02-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=10&z=2006-02-01&g=2006-02-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=11&z=2006-02-01&g=2006-02-01), [15c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=15c&z=2006-02-01&g=2006-02-01), [67](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Derde&paragraaf=1&artikel=67&z=2006-02-01&g=2006-02-01), [155](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zesde&artikel=155&z=2006-02-01&g=2006-02-01), [166](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zesde&artikel=166&z=2006-02-01&g=2006-02-01), [198](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Negende&artikel=198&z=2006-02-01&g=2006-02-01) en [206](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Elfde&artikel=206&z=2006-02-01&g=2006-02-01), worden ingediend door een procureur.
+1. De verzoekschriften, bedoeld in het vorige artikel en in de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=8&z=2007-01-01&g=2007-01-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=9&z=2007-01-01&g=2007-01-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=10&z=2007-01-01&g=2007-01-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=11&z=2007-01-01&g=2007-01-01), [15c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=15c&z=2007-01-01&g=2007-01-01), [67](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Derde&paragraaf=1&artikel=67&z=2007-01-01&g=2007-01-01), [155](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zesde&artikel=155&z=2007-01-01&g=2007-01-01), [166](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zesde&artikel=166&z=2007-01-01&g=2007-01-01), [198](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Negende&artikel=198&z=2007-01-01&g=2007-01-01) en [206](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Elfde&artikel=206&z=2007-01-01&g=2007-01-01), worden ingediend door een procureur.
 
 2. Het eerste lid is niet van toepassing op een hoger beroep dat wordt ingesteld tegen een beschikking van de rechter-commissaris, houdende machtiging aan de curator tot opzegging van een arbeidsovereenkomst.
 
@@ -104,19 +104,19 @@ De [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afd
 
 ##### Artikel 6
 
-1. De rechtbank kan bevelen, dat de schuldenaar worde opgeroepen, om in persoon of bij gemachtigde gehoord te worden. De griffier doet de oproeping op de wijze, bij algemene maatregel van bestuur te bepalen. Is buiten Nederland een hoofdprocedure geopend op de voet van artikel 3, eerste lid, van de in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=5&z=2006-02-01&g=2006-02-01), genoemde verordening, dan stelt de griffier de curator in de hoofdprocedure onverwijld schriftelijk in kennis van de aanvraag onder mededeling dat deze zijn zienswijze binnen een daartoe door de rechter bepaalde termijn kenbaar kan maken.
+1. De rechtbank kan bevelen, dat de schuldenaar worde opgeroepen, om in persoon of bij gemachtigde gehoord te worden. De griffier doet de oproeping op de wijze, bij algemene maatregel van bestuur te bepalen. Is buiten Nederland een hoofdprocedure geopend op de voet van artikel 3, eerste lid, van de in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=5&z=2007-01-01&g=2007-01-01), genoemde verordening, dan stelt de griffier de curator in de hoofdprocedure onverwijld schriftelijk in kennis van de aanvraag onder mededeling dat deze zijn zienswijze binnen een daartoe door de rechter bepaalde termijn kenbaar kan maken.
 
 2. Indien de schuldenaar, die is opgeroepen om gehoord te worden, gehuwd is of een geregistreerd partnerschap is aangegaan, is zijn echtgenoot onderscheidenlijk geregistreerde partner mede bevoegd om in persoon of bij gemachtigde te verschijnen.
 
 3. De faillietverklaring wordt uitgesproken, indien summierlijk blijkt van het bestaan van feiten of omstandigheden, welke aantonen, dat de schuldenaar in de toestand verkeert dat hij heeft opgehouden te betalen, en, zo een schuldeiser het verzoek doet, ook van het vorderingsrecht van deze.
 
-4. Ontleent de Nederlandse rechter zijn rechtsmacht aan de in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=5&z=2006-02-01&g=2006-02-01), genoemde verordening, dan wordt in het vonnis van faillietverklaring vermeld of het een hoofdprocedure dan wel een territoriale procedure in de zin van de verordening betreft.
+4. Ontleent de Nederlandse rechter zijn rechtsmacht aan de in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=5&z=2007-01-01&g=2007-01-01), genoemde verordening, dan wordt in het vonnis van faillietverklaring vermeld of het een hoofdprocedure dan wel een territoriale procedure in de zin van de verordening betreft.
 
 ##### Artikel 7
 
 1. Hangende het onderzoek kan de rechtbank de verzoeker desverlangd verlof verlenen de boedel te doen verzegelen. Zij kan daaraan de voorwaarde van zekerheidstelling tot een door haar te bepalen bedrag, verbinden.
 
-2. De verzegeling geschiedt door een bij dit verlof aan te wijzen notaris. Buiten de verzegeling blijven zaken die onder [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=21&z=2006-02-01&g=2006-02-01) vallen; in het proces-verbaal wordt een korte beschrijving daarvan opgenomen.
+2. De verzegeling geschiedt door een bij dit verlof aan te wijzen notaris. Buiten de verzegeling blijven zaken die onder [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=21&z=2007-01-01&g=2007-01-01) vallen; in het proces-verbaal wordt een korte beschrijving daarvan opgenomen.
 
 ##### Artikel 8
 
@@ -130,7 +130,7 @@ De [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afd
 
 5. Deze kennisgeving geldt voor oproeping van de schuldeiser, die de faillietverklaring heeft uitgelokt.
 
-6. De behandeling geschiedt op de wijze bij [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=4&z=2006-02-01&g=2006-02-01) voorgeschreven.
+6. De behandeling geschiedt op de wijze bij [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=4&z=2007-01-01&g=2007-01-01) voorgeschreven.
 
 ##### Artikel 9
 
@@ -138,7 +138,7 @@ De [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afd
 
 2. Hetzelfde geldt bij vernietiging der faillietverklaring ten gevolge van verzet, in welk geval van het hoger beroep door de griffier van het gerechtshof, waarbij het is aangebracht, onverwijld wordt kennis gegeven aan de griffier van de rechtbank die de vernietiging heeft uitgesproken.
 
-3. De instelling en behandeling van het hoger beroep geschiedt op de wijze in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=4&z=2006-02-01&g=2006-02-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=6&z=2006-02-01&g=2006-02-01) voorgeschreven.
+3. De instelling en behandeling van het hoger beroep geschiedt op de wijze in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=4&z=2007-01-01&g=2007-01-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=6&z=2007-01-01&g=2007-01-01) voorgeschreven.
 
 ##### Artikel 10
 
@@ -150,29 +150,29 @@ De [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afd
 
 4. Deze kennisgeving geldt voor oproeping van de schuldenaar en van die schuldeiser.
 
-5. De behandeling geschiedt op de wijze bij [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=4&z=2006-02-01&g=2006-02-01) voorgeschreven.
+5. De behandeling geschiedt op de wijze bij [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=4&z=2007-01-01&g=2007-01-01) voorgeschreven.
 
 ##### Artikel 11
 
 1. De schuldeiser of de belanghebbende, wiens in het vorige artikel bedoeld verzet door de rechtbank is afgewezen, heeft recht van hoger beroep, gedurende acht dagen na de dag der afwijzing.
 
-2. Hetzelfde geldt, bij vernietiging der faillietverklaring door de rechtbank ten gevolge van dat verzet, voor de schuldenaar, de schuldeiser, die de faillietverklaring verzocht heeft, en het Openbaar Ministerie, in welk geval tevens het [tweede lid van artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=9&z=2006-02-01&g=2006-02-01) van toepassing is.
+2. Hetzelfde geldt, bij vernietiging der faillietverklaring door de rechtbank ten gevolge van dat verzet, voor de schuldenaar, de schuldeiser, die de faillietverklaring verzocht heeft, en het Openbaar Ministerie, in welk geval tevens het [tweede lid van artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=9&z=2007-01-01&g=2007-01-01) van toepassing is.
 
-3. De instelling en behandeling van het hoger beroep geschiedt op de wijze in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=4&z=2006-02-01&g=2006-02-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=6&z=2006-02-01&g=2006-02-01) voorgeschreven.
+3. De instelling en behandeling van het hoger beroep geschiedt op de wijze in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=4&z=2007-01-01&g=2007-01-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=6&z=2007-01-01&g=2007-01-01) voorgeschreven.
 
 4. Is het verzet bij het gerechtshof gedaan, dan is hoger beroep uitgesloten.
 
 ##### Artikel 12
 
-1. Van het arrest, door het gerechtshof gewezen, kunnen de schuldenaar, de schuldeiser die de faillietverklaring verzocht, de in [art. 10](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=10&z=2006-02-01&g=2006-02-01) bedoelde schuldeiser of belanghebbende en het Openbaar Ministerie, gedurende acht dagen na de dag der uitspraak, in cassatie komen.
+1. Van het arrest, door het gerechtshof gewezen, kunnen de schuldenaar, de schuldeiser die de faillietverklaring verzocht, de in [art. 10](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=10&z=2007-01-01&g=2007-01-01) bedoelde schuldeiser of belanghebbende en het Openbaar Ministerie, gedurende acht dagen na de dag der uitspraak, in cassatie komen.
 
-2. Het beroep in cassatie wordt aangebracht en behandeld op de wijze bij de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=4&z=2006-02-01&g=2006-02-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=6&z=2006-02-01&g=2006-02-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=8&z=2006-02-01&g=2006-02-01) bepaald.
+2. Het beroep in cassatie wordt aangebracht en behandeld op de wijze bij de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=4&z=2007-01-01&g=2007-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=6&z=2007-01-01&g=2007-01-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=8&z=2007-01-01&g=2007-01-01) bepaald.
 
 3. Indien de cassatie is gericht tegen een arrest, houdende vernietiging van het vonnis van faillietverklaring, geeft de griffier van de Hoge Raad van het verzoek tot cassatie onverwijld kennis aan de griffier van het gerechtshof dat de vernietiging heeft uitgesproken.
 
 ##### Artikel 13
 
-1. Indien ten gevolge van verzet, hoger beroep of cassatie de faillietverklaring wordt vernietigd, blijven niettemin geldig en verbindend voor de schuldenaar de handelingen, door de curator verricht vóór of op de dag, waarop aan het voorschrift tot aankondiging overeenkomstig [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=15&z=2006-02-01&g=2006-02-01) is voldaan.
+1. Indien ten gevolge van verzet, hoger beroep of cassatie de faillietverklaring wordt vernietigd, blijven niettemin geldig en verbindend voor de schuldenaar de handelingen, door de curator verricht vóór of op de dag, waarop aan het voorschrift tot aankondiging overeenkomstig [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=15&z=2007-01-01&g=2007-01-01) is voldaan.
 
 2. Hangende het verzet, het hoger beroep of de cassatie kan geen raadpleging over een akkoord plaats hebben, noch tot de vereffening van de boedel buiten toestemming van de schuldenaar worden overgegaan.
 
@@ -184,7 +184,7 @@ De [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afd
 
 3. Een uittreksel uit het vonnis van faillietverklaring, houdende vermelding van de naam, de woonplaats of het kantoor en het beroep van de gefailleerde, van de naam van de rechter-commissaris, van de naam en de woonplaats of het kantoor des curators, van de dag der uitspraak, alsmede van de naam, het beroep en de woonplaats of het kantoor van ieder lid der voorlopige commissie uit de schuldeisers, zo er een benoemd is, wordt door de curator onverwijld geplaatst in de **Nederlandsche Staatscourant**.
 
-4. Op verzoek van een curator in een insolventieprocedure op de voet van artikel 3, eerste of tweede lid, van de in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=5&z=2006-02-01&g=2006-02-01), genoemde verordening geeft de griffier van de rechtbank te 's-Gravenhage onverwijld in de Staatscourant kennis van de in artikel 21 van die verordening bedoelde gegevens. Een zodanige kennisgeving vindt in elk geval plaats wanneer de schuldenaar in Nederland een vestiging heeft in de zin van artikel 1, onder h, van de in de eerste zin bedoelde verordening. De gegevens, bedoeld in de eerste zin, worden aan de griffier verstrekt in de Nederlandse, Engelse, Duitse of Franse taal.
+4. Op verzoek van een curator in een insolventieprocedure op de voet van artikel 3, eerste of tweede lid, van de in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=5&z=2007-01-01&g=2007-01-01), genoemde verordening geeft de griffier van de rechtbank te 's-Gravenhage onverwijld in de Staatscourant kennis van de in artikel 21 van die verordening bedoelde gegevens. Een zodanige kennisgeving vindt in elk geval plaats wanneer de schuldenaar in Nederland een vestiging heeft in de zin van artikel 1, onder h, van de in de eerste zin bedoelde verordening. De gegevens, bedoeld in de eerste zin, worden aan de griffier verstrekt in de Nederlandse, Engelse, Duitse of Franse taal.
 
 ##### Artikel 15
 
@@ -200,9 +200,9 @@ Wordt faillietverklaring in hoger beroep of in cassatie uitgesproken met verniet
 
 ##### Artikel 15b
 
-1. Indien redelijkerwijs niet geoordeeld kan worden dat de gefailleerde wegens hem toe te rekenen omstandigheden binnen de termijn bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=3&z=2006-02-01&g=2006-02-01), geen verzoekschrift tot het van toepassing verklaren van de schuldsaneringsregeling heeft ingediend of indien het faillissement is uitgesproken op eigen aangifte van de schuldenaar, kan de rechtbank, totdat de verificatievergadering is gehouden of, indien de verificatievergadering achterwege blijft, totdat de rechter-commissaris de beschikkingen als bedoeld in [artikel 137a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vijfde_A&artikel=137a&z=2006-02-01&g=2006-02-01), heeft gegeven, op verzoek van de gefailleerde diens faillissement opheffen onder het gelijktijdig uitspreken van de toepassing van de schuldsaneringsregeling bedoeld in [titel III](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&z=2006-02-01&g=2006-02-01).
+1. Indien redelijkerwijs niet geoordeeld kan worden dat de gefailleerde wegens hem toe te rekenen omstandigheden binnen de termijn bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=3&z=2007-01-01&g=2007-01-01), geen verzoekschrift tot het van toepassing verklaren van de schuldsaneringsregeling heeft ingediend of indien het faillissement is uitgesproken op eigen aangifte van de schuldenaar, kan de rechtbank, totdat de verificatievergadering is gehouden of, indien de verificatievergadering achterwege blijft, totdat de rechter-commissaris de beschikkingen als bedoeld in [artikel 137a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vijfde_A&artikel=137a&z=2007-01-01&g=2007-01-01), heeft gegeven, op verzoek van de gefailleerde diens faillissement opheffen onder het gelijktijdig uitspreken van de toepassing van de schuldsaneringsregeling bedoeld in [titel III](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&z=2007-01-01&g=2007-01-01).
 
-2. De gefailleerde zal zich daartoe bij een verzoekschrift als bedoeld in [artikel 284](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Eerste&artikel=284&z=2006-02-01&g=2006-02-01) wenden tot de rechtbank waarbij de aangifte of het verzoek tot faillietverklaring werd ingediend. Het [derde lid van artikel 284](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Eerste&artikel=284&z=2006-02-01&g=2006-02-01) is niet van toepassing.
+2. De gefailleerde zal zich daartoe bij een verzoekschrift als bedoeld in [artikel 284](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Eerste&artikel=284&z=2007-01-01&g=2007-01-01) wenden tot de rechtbank waarbij de aangifte of het verzoek tot faillietverklaring werd ingediend. Het [derde lid van artikel 284](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Eerste&artikel=284&z=2007-01-01&g=2007-01-01) is niet van toepassing.
 
 3. Het eerste lid is niet van toepassing:
 
@@ -210,13 +210,13 @@ Wordt faillietverklaring in hoger beroep of in cassatie uitgesproken met verniet
 
 - b. indien de schuldenaar in staat van faillissement verkeert door beëindiging van de toepassing van de schuldsaneringsregeling;
 
-- c. indien het faillissement is uitgesproken op grond van [artikel 340, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Zesde&artikel=340&z=2006-02-01&g=2006-02-01).
+- c. indien het faillissement is uitgesproken op grond van [artikel 340, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Zesde&artikel=340&z=2007-01-01&g=2007-01-01).
 
-4. Alvorens te beslissen kan de rechtbank de gefailleerde, de rechter-commissaris en de curator oproepen om te worden gehoord. [Artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=6&z=2006-02-01&g=2006-02-01), is van toepassing.
+4. Alvorens te beslissen kan de rechtbank de gefailleerde, de rechter-commissaris en de curator oproepen om te worden gehoord. [Artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=6&z=2007-01-01&g=2007-01-01), is van toepassing.
 
 5. Bij toewijzing van het verzoek, spreekt de rechtbank de definitieve toepassing van de schuldsaneringsregeling uit.
 
-6. Van de opheffing van het faillissement wordt door de griffier kennis gegeven in de aankondiging die is voorgeschreven in [artikel 293](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Eerste&artikel=293&z=2006-02-01&g=2006-02-01). Indien in het faillissement overeenkomstig [artikel 108](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vijfde&artikel=108&z=2006-02-01&g=2006-02-01) reeds het tijdstip voor de verificatievergadering was bepaald, zal in die aankondiging tevens mededeling worden gedaan dat die verificatievergadering niet zal worden gehouden.
+6. Van de opheffing van het faillissement wordt door de griffier kennis gegeven in de aankondiging die is voorgeschreven in [artikel 293](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Eerste&artikel=293&z=2007-01-01&g=2007-01-01). Indien in het faillissement overeenkomstig [artikel 108](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vijfde&artikel=108&z=2007-01-01&g=2007-01-01) reeds het tijdstip voor de verificatievergadering was bepaald, zal in die aankondiging tevens mededeling worden gedaan dat die verificatievergadering niet zal worden gehouden.
 
 ##### Artikel 15c
 
@@ -228,7 +228,7 @@ Wordt faillietverklaring in hoger beroep of in cassatie uitgesproken met verniet
 
 4. Indien het gerechtshof het faillissement handhaaft, kan de schuldenaar gedurende acht dagen na die van de uitspraak in cassatie komen. Het beroep in cassatie wordt ingesteld bij een verzoekschrift, in te dienen ter griffie van de Hoge Raad. De voorzitter bepaalt terstond dag en uur voor de behandeling. De griffier van de Hoge Raad geeft van het beroep in cassatie en van de uitspraak van de Hoge Raad onverwijld kennis aan de griffier van de rechtbank.
 
-5. Zolang niet op het verzoekschrift bedoeld in [artikel 15b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=15b&z=2006-02-01&g=2006-02-01), is beslist en, indien de schuldsaneringsregeling niet is uitgesproken, hangende het hoger beroep of de cassatie, kan in het faillissement geen raadpleging over een akkoord plaatshebben, noch tot uitdeling aan de schuldeisers worden overgegaan.
+5. Zolang niet op het verzoekschrift bedoeld in [artikel 15b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=15b&z=2007-01-01&g=2007-01-01), is beslist en, indien de schuldsaneringsregeling niet is uitgesproken, hangende het hoger beroep of de cassatie, kan in het faillissement geen raadpleging over een akkoord plaatshebben, noch tot uitdeling aan de schuldeisers worden overgegaan.
 
 ##### Artikel 15d
 
@@ -240,7 +240,7 @@ Wordt faillietverklaring in hoger beroep of in cassatie uitgesproken met verniet
 
 - c. in het faillissement ingediende vorderingen gelden als ingediend in de schuldsaneringsregeling.
 
-2. Het tijdstip, waarop de termijnen vermeld in de [artikelen 43](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=43&z=2006-02-01&g=2006-02-01) en [45](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=45&z=2006-02-01&g=2006-02-01) aanvangen, wordt berekend met ingang van de dag van de faillietverklaring.
+2. Het tijdstip, waarop de termijnen vermeld in de [artikelen 43](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=43&z=2007-01-01&g=2007-01-01) en [45](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=45&z=2007-01-01&g=2007-01-01) aanvangen, wordt berekend met ingang van de dag van de faillietverklaring.
 
 ##### Artikel 16
 
@@ -272,7 +272,7 @@ De beschikking, bevelende de opheffing van het faillissement, wordt op dezelfde 
 
 - 4°. het bedrag van de uitdelingen bij vereffening;
 
-- 5°. de opheffing van het faillissement ingevolge [artikel 15b](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=15b&z=2006-02-01&g=2006-02-01) of [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=16&z=2006-02-01&g=2006-02-01);
+- 5°. de opheffing van het faillissement ingevolge [artikel 15b](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=15b&z=2007-01-01&g=2007-01-01) of [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=16&z=2007-01-01&g=2007-01-01);
 
 - 6°. de rehabilitatie.
 
@@ -280,7 +280,7 @@ De beschikking, bevelende de opheffing van het faillissement, wordt op dezelfde 
 
 3. De griffier is verplicht aan ieder kosteloze inzage van het register en tegen betaling een uittreksel daaruit te verstrekken.
 
-4. De griffier geeft de in het eerste lid onder 1° tot en met 6° genoemde gegevens door aan Onze Minister van Justitie of een bij algemene maatregel van bestuur aan te wijzen ander orgaan ten behoeve van het in [artikel 19a](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=19a&z=2006-02-01&g=2006-02-01) genoemde centrale register.
+4. De griffier geeft de in het eerste lid onder 1° tot en met 6° genoemde gegevens door aan Onze Minister van Justitie of een bij algemene maatregel van bestuur aan te wijzen ander orgaan ten behoeve van het in [artikel 19a](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=19a&z=2007-01-01&g=2007-01-01) genoemde centrale register.
 
 ### afdeeling Tweede. Van de gevolgen der faillietverklaring
 
@@ -302,7 +302,7 @@ Niettemin blijven buiten het faillissement:
 
 - 5°. het ingevolge [artikel 642c van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=642c) in de kas der gerechtelijke consignaties gestorte bedrag;
 
-- 6°. de goederen bedoeld in [artikel 60a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=60a&z=2006-02-01&g=2006-02-01).
+- 6°. de goederen bedoeld in [artikel 60a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=60a&z=2007-01-01&g=2007-01-01).
 
 ##### Artikel 21a
 
@@ -356,7 +356,7 @@ Rechtsvorderingen, die voldoening ener verbintenis uit de boedel ten doel hebben
 
 3. Indien de curator verschijnende dadelijk in de eis toestemt, zijn de proceskosten van de tegenpartij geen boedelschuld.
 
-4. Zo de curator niet verschijnt, is op het tegen de gefailleerde te verkrijgen vonnis de bepaling van het [tweede lid van artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=25&z=2006-02-01&g=2006-02-01) niet toepasselijk.
+4. Zo de curator niet verschijnt, is op het tegen de gefailleerde te verkrijgen vonnis de bepaling van het [tweede lid van artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=25&z=2007-01-01&g=2007-01-01) niet toepasselijk.
 
 ##### Artikel 29
 
@@ -364,17 +364,17 @@ Voorzover tijdens de faillietverklaring aanhangige rechtsvorderingen voldoening 
 
 ##### Artikel 30
 
-1. Indien vóór de faillietverklaring de stukken van het geding tot het geven van een beslissing aan de rechter zijn overgelegd, zijn het [tweede lid van artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=25&z=2006-02-01&g=2006-02-01) en de [artikelen 27-29](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=27&z=2006-02-01&g=2006-02-01) niet toepasselijk.
+1. Indien vóór de faillietverklaring de stukken van het geding tot het geven van een beslissing aan de rechter zijn overgelegd, zijn het [tweede lid van artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=25&z=2007-01-01&g=2007-01-01) en de [artikelen 27-29](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=27&z=2007-01-01&g=2007-01-01) niet toepasselijk.
 
-2. De [artikelen 27-29](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=27&z=2006-02-01&g=2006-02-01) worden weer toepasselijk, indien het geding voor de rechter, bij wie het aanhangig is, ten gevolge van zijn beslissing wordt voortgezet.
+2. De [artikelen 27-29](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=27&z=2007-01-01&g=2007-01-01) worden weer toepasselijk, indien het geding voor de rechter, bij wie het aanhangig is, ten gevolge van zijn beslissing wordt voortgezet.
 
 ##### Artikel 31
 
-Indien een geding door of tegen de curator, of ook in het geval van [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=29&z=2006-02-01&g=2006-02-01) tegen een schuldeiser wordt voortgezet, kan door de curator of door die schuldeiser de nietigheid worden ingeroepen van handelingen, door de schuldenaar vóór zijn faillietverklaring in het geding verricht, zo bewezen wordt dat deze door die handelingen de schuldeisers desbewust heeft benadeeld en dat dit aan zijn tegenpartij bekend was.
+Indien een geding door of tegen de curator, of ook in het geval van [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=29&z=2007-01-01&g=2007-01-01) tegen een schuldeiser wordt voortgezet, kan door de curator of door die schuldeiser de nietigheid worden ingeroepen van handelingen, door de schuldenaar vóór zijn faillietverklaring in het geding verricht, zo bewezen wordt dat deze door die handelingen de schuldeisers desbewust heeft benadeeld en dat dit aan zijn tegenpartij bekend was.
 
 ##### Artikel 43
 
-1. Indien de rechtshandeling waardoor de schuldeisers zijn benadeeld, is verricht binnen een jaar voor de faillietverklaring en de schuldenaar zich niet reeds voor de aanvang van die termijn daartoe had verplicht, wordt de aan het slot van [artikel 42, eerste lid, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=42&z=2006-02-01&g=2006-02-01), bedoelde wetenschap, behoudens tegenbewijs, vermoed aan beide zijden te bestaan:
+1. Indien de rechtshandeling waardoor de schuldeisers zijn benadeeld, is verricht binnen een jaar voor de faillietverklaring en de schuldenaar zich niet reeds voor de aanvang van die termijn daartoe had verplicht, wordt de aan het slot van [artikel 42, eerste lid, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=42&z=2007-01-01&g=2007-01-01), bedoelde wetenschap, behoudens tegenbewijs, vermoed aan beide zijden te bestaan:
 
 - 1°. bij overeenkomsten, waarbij de waarde der verbintenis aan de zijde van de schuldenaar aanmerkelijk die der verbintenis aan de andere zijde overtreft;
 
@@ -422,7 +422,7 @@ Indien een geding door of tegen de curator, of ook in het geval van [artikel 29]
 
 2. Gelegde beslagen vervallen; de inschrijving van een desbetreffende verklaring van de rechter-commissaris machtigt de bewaarder van de openbare registers tot doorhaling. Het beslag herleeft, zodra het faillissement een einde neemt ten gevolge van vernietiging of opheffing van het faillissement, mits het goed dan nog tot de boedel behoort. Indien de inschrijving van het beslag in de openbare registers is doorgehaald, vervalt de herleving, indien niet binnen veertien dagen na de herleving een exploot is ingeschreven, waarbij van de herleving mededeling aan de schuldenaar is gedaan.
 
-3. Indien de schuldenaar zich in gijzeling bevindt, wordt hij ontslagen, zodra het vonnis van faillietverklaring in kracht van gewijsde is gegaan, behoudens toepassing van [artikel 87](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vierde&artikel=87&z=2006-02-01&g=2006-02-01).
+3. Indien de schuldenaar zich in gijzeling bevindt, wordt hij ontslagen, zodra het vonnis van faillietverklaring in kracht van gewijsde is gegaan, behoudens toepassing van [artikel 87](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vierde&artikel=87&z=2007-01-01&g=2007-01-01).
 
 4. Het bepaalde bij dit artikel geldt niet voor lijfsdwang bij vonnissen, beschikkingen en authentieke akten, waarbij een uitkering tot levensonderhoud, krachtens het [Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656) verschuldigd, daaronder begrepen het verschuldigde voor verzorging en opvoeding van een minderjarige en voor levensonderhoud en studie van een meerderjarige die de leeftijd van een en twintig jaren niet heeft bereikt, is bevolen of toegezegd, alsmede beschikkingen, waarbij een uitkering, krachtens [artikel 85 lid 2 van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=85) door de ene partner aan de andere partner verschuldigd, is bevolen, alsmede besluiten op grond van [artikel 13 van de Invoeringswet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015704&artikel=13).
 
@@ -440,11 +440,11 @@ Indien vóór het faillissement van de schuldenaar de uitwinning zijner goederen
 
 2. Heeft de schuldenaar voor de dag van de faillietverklaring een toekomstig goed bij voorbaat geleverd, dan valt dit goed, indien het eerst na de aanvang van die dag door hem is verkregen, in de boedel, tenzij het gaat om nog te velde staande vruchten of beplantingen die reeds voor de faillietverklaring uit hoofde van een zakelijk recht of een huur- of pachtovereenkomst aan de schuldenaar toekwamen.
 
-3. Voor de toepassing van de [artikelen 86](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=86) en [238 van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=238) wordt degene die van de schuldenaar heeft verkregen, geacht na de bekendmaking van de faillietverklaring, bedoeld in [artikel 14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=14&z=2006-02-01&g=2006-02-01), diens onbevoegdheid te hebben gekend.
+3. Voor de toepassing van de [artikelen 86](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=86) en [238 van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=238) wordt degene die van de schuldenaar heeft verkregen, geacht na de bekendmaking van de faillietverklaring, bedoeld in [artikel 14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=14&z=2007-01-01&g=2007-01-01), diens onbevoegdheid te hebben gekend.
 
 ##### Artikel 35a
 
-Indien een beding als bedoeld in [artikel 252 van Boek 6 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=252) op de dag van de faillietverklaring nog niet in de openbare registers was ingeschreven, kan de curator het registergoed ten aanzien waarvan het is gemaakt, vrij van het beding overeenkomstig de [artikelen 101](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vierde&artikel=101&z=2006-02-01&g=2006-02-01) of [176](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zevende&artikel=176&z=2006-02-01&g=2006-02-01) verkopen.
+Indien een beding als bedoeld in [artikel 252 van Boek 6 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=252) op de dag van de faillietverklaring nog niet in de openbare registers was ingeschreven, kan de curator het registergoed ten aanzien waarvan het is gemaakt, vrij van het beding overeenkomstig de [artikelen 101](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vierde&artikel=101&z=2007-01-01&g=2007-01-01) of [176](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zevende&artikel=176&z=2007-01-01&g=2007-01-01) verkopen.
 
 ##### Artikel 35b
 
@@ -452,7 +452,7 @@ Aan een gift, door de schuldenaar gedaan onder een opschortende voorwaarde of ee
 
 ##### Artikel 36
 
-1. Wanneer een verjaringstermijn betreffende een rechtsvordering, als bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=26&z=2006-02-01&g=2006-02-01), zou aflopen gedurende het faillissement of binnen zes maanden na het einde daarvan, loopt de termijn voort totdat zes maanden na het einde van het faillissement zijn verstreken.
+1. Wanneer een verjaringstermijn betreffende een rechtsvordering, als bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=26&z=2007-01-01&g=2007-01-01), zou aflopen gedurende het faillissement of binnen zes maanden na het einde daarvan, loopt de termijn voort totdat zes maanden na het einde van het faillissement zijn verstreken.
 
 2. Het eerste lid is van overeenkomstige toepassing op van rechtswege aanvangende vervaltermijnen.
 
@@ -474,7 +474,7 @@ Voor vorderingen die de wederpartij uit hoofde van ontbinding of vernietiging va
 
 ##### Artikel 38
 
-Indien in het geval van [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=37&z=2006-02-01&g=2006-02-01) de levering van waren, die ter beurze op termijn worden verhandeld, bedongen is tegen een vastgesteld tijdstip of binnen een bepaalde termijn, en dit tijdstip invalt of die termijn verstrijkt na de faillietverklaring, wordt de overeenkomst door de faillietverklaring ontbonden en kan de wederpartij van de gefailleerde zonder meer voor schadevergoeding als concurrent schuldeiser opkomen. Lijdt de boedel door de ontbinding schade, dan is de wederpartij verplicht deze te vergoeden.
+Indien in het geval van [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=37&z=2007-01-01&g=2007-01-01) de levering van waren, die ter beurze op termijn worden verhandeld, bedongen is tegen een vastgesteld tijdstip of binnen een bepaalde termijn, en dit tijdstip invalt of die termijn verstrijkt na de faillietverklaring, wordt de overeenkomst door de faillietverklaring ontbonden en kan de wederpartij van de gefailleerde zonder meer voor schadevergoeding als concurrent schuldeiser opkomen. Lijdt de boedel door de ontbinding schade, dan is de wederpartij verplicht deze te vergoeden.
 
 ##### Artikel 38a
 
@@ -572,7 +572,7 @@ De voldoening door de schuldenaar aan een opeisbare schuld kan alleen dan worden
 
 ##### Artikel 49
 
-1. Rechtsvorderingen, gegrond op de bepalingen der [artikelen 42-48](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=42&z=2006-02-01&g=2006-02-01), worden ingesteld door de curator.
+1. Rechtsvorderingen, gegrond op de bepalingen der [artikelen 42-48](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=42&z=2007-01-01&g=2007-01-01), worden ingesteld door de curator.
 
 2. Niettemin kunnen de schuldeisers op gronden, aan die bepalingen ontleend, de toelating ener vordering bestrijden.
 
@@ -600,7 +600,7 @@ Beëindiging van het faillissement door de homologatie van een akkoord doet de r
 
 1. Hij die zowel schuldenaar als schuldeiser van de gefailleerde is, kan zijn schuld met zijn vordering op de gefailleerde verrekenen, indien beide zijn ontstaan vóór de faillietverklaring of voortvloeien uit handelingen, vóór de faillietverklaring met de gefailleerde verricht.
 
-2. De vordering op de gefailleerde wordt zonodig berekend naar de regels in de [artikelen 130](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vijfde&artikel=130&z=2006-02-01&g=2006-02-01) en [131](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vijfde&artikel=131&z=2006-02-01&g=2006-02-01) gesteld.
+2. De vordering op de gefailleerde wordt zonodig berekend naar de regels in de [artikelen 130](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vijfde&artikel=130&z=2007-01-01&g=2007-01-01) en [131](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vijfde&artikel=131&z=2007-01-01&g=2007-01-01) gesteld.
 
 3. De curator kan geen beroep doen op [artikel 136 van Boek 6 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=136).
 
@@ -616,7 +616,7 @@ De schuldenaar van de gefailleerde die zijn schuld wil verrekenen met een vorder
 
 ##### Artikel 56
 
-Hij die met de gefailleerde deelgenoot is in een gemeenschap waarvan tijdens het faillissement een verdeling plaatsvindt, kan toepassing van [artikel 184, eerste lid, van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=184) verlangen, ook als de schuld van de gefailleerde aan de gemeenschap er een is onder een nog niet vervulde opschortende voorwaarde. De [artikelen 130](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vijfde&artikel=130&z=2006-02-01&g=2006-02-01) en [131](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vijfde&artikel=131&z=2006-02-01&g=2006-02-01) zijn van toepassing.
+Hij die met de gefailleerde deelgenoot is in een gemeenschap waarvan tijdens het faillissement een verdeling plaatsvindt, kan toepassing van [artikel 184, eerste lid, van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=184) verlangen, ook als de schuld van de gefailleerde aan de gemeenschap er een is onder een nog niet vervulde opschortende voorwaarde. De [artikelen 130](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vijfde&artikel=130&z=2007-01-01&g=2007-01-01) en [131](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vijfde&artikel=131&z=2007-01-01&g=2007-01-01) zijn van toepassing.
 
 ##### Artikel 57
 
@@ -630,7 +630,7 @@ Hij die met de gefailleerde deelgenoot is in een gemeenschap waarvan tijdens het
 
 ##### Artikel 58
 
-1. De curator kan de pand- en hypotheekhouders een redelijke termijn stellen om tot uitoefening van hun rechten overeenkomstig het vorige artikel over te gaan. Heeft de pand- of hypotheekhouder het onderpand niet binnen deze termijn verkocht, dan kan de curator de goederen opeisen en met toepassing van de [artikelen 101](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vierde&artikel=101&z=2006-02-01&g=2006-02-01) of [176](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zevende&artikel=176&z=2006-02-01&g=2006-02-01) verkopen, onverminderd het recht van de pand- en hypotheekhouders op de opbrengst. De rechter-commissaris is bevoegd de termijn op verzoek van de pand- of hypotheekhouder een of meer malen te verlengen.
+1. De curator kan de pand- en hypotheekhouders een redelijke termijn stellen om tot uitoefening van hun rechten overeenkomstig het vorige artikel over te gaan. Heeft de pand- of hypotheekhouder het onderpand niet binnen deze termijn verkocht, dan kan de curator de goederen opeisen en met toepassing van de [artikelen 101](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vierde&artikel=101&z=2007-01-01&g=2007-01-01) of [176](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zevende&artikel=176&z=2007-01-01&g=2007-01-01) verkopen, onverminderd het recht van de pand- en hypotheekhouders op de opbrengst. De rechter-commissaris is bevoegd de termijn op verzoek van de pand- of hypotheekhouder een of meer malen te verlengen.
 
 2. De curator kan een met pand of hypotheek bezwaard goed tot op het tijdstip van de verkoop lossen tegen voldoening van hetgeen waarvoor het pand- of hypotheekrecht tot zekerheid strekt, alsmede van de reeds gemaakte kosten van executie.
 
@@ -640,9 +640,9 @@ Indien de opbrengst niet toereikend is om een pand- of hypotheekhouder of een de
 
 ##### Artikel 59a
 
-1. De [artikelen 57-59](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=57&z=2006-02-01&g=2006-02-01) zijn niet van toepassing wanneer de hypotheek rust op een luchtvaartuig dat te boek staat in de openbare registers, bedoeld in [afdeling 2 van titel 1 van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&afdeling=2), of in een verdragsregister als bedoeld in [artikel 1300 onder **d** van Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=1300).
+1. De [artikelen 57-59](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=57&z=2007-01-01&g=2007-01-01) zijn niet van toepassing wanneer de hypotheek rust op een luchtvaartuig dat te boek staat in de openbare registers, bedoeld in [afdeling 2 van titel 1 van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&afdeling=2), of in een verdragsregister als bedoeld in [artikel 1300 onder **d** van Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=1300).
 
-2. Hypotheekhouders wier rechten rusten op luchtvaartuigen als bedoeld in het vorige lid, en andere schuldeisers die op grond van [artikel 1317 van Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=1317) een voorrecht op het luchtvaartuig hebben, kunnen hun recht uitoefenen, alsof er geen faillissement was. [Artikel 57, tweede en derde lid, is van overeenkomstige toepassing](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=57&z=2006-02-01&g=2006-02-01).
+2. Hypotheekhouders wier rechten rusten op luchtvaartuigen als bedoeld in het vorige lid, en andere schuldeisers die op grond van [artikel 1317 van Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=1317) een voorrecht op het luchtvaartuig hebben, kunnen hun recht uitoefenen, alsof er geen faillissement was. [Artikel 57, tweede en derde lid, is van overeenkomstige toepassing](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=57&z=2007-01-01&g=2007-01-01).
 
 3. De curator kan deze schuldeisers een redelijke termijn stellen om tot uitoefening van hun rechten overeenkomstig het vorige lid over te gaan. Heeft de schuldeiser het luchtvaartuig niet binnen deze termijn verkocht, dan kan de curator het luchtvaartuig verkopen. De rechter-commissaris is bevoegd de termijn op verzoek van de schuldeiser een of meer malen te verlengen.
 
@@ -652,13 +652,13 @@ Indien de opbrengst niet toereikend is om een pand- of hypotheekhouder of een de
 
 6. De curator kan het luchtvaartuig tot op het tijdstip van de verkoop lossen tegen voldoening van het daarop verschuldigde, alsmede van de reeds gemaakte kosten van executie.
 
-7. [Artikel 59](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=59&z=2006-02-01&g=2006-02-01) is van overeenkomstige toepassing.
+7. [Artikel 59](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=59&z=2007-01-01&g=2007-01-01) is van overeenkomstige toepassing.
 
 ##### Artikel 60
 
 1. De schuldeiser die retentierecht heeft op een aan de schuldenaar toebehorende zaak, verliest dit recht niet door de faillietverklaring.
 
-2. De zaak kan door de curator worden opgeëist en met toepassing van [artikel 101](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vierde&artikel=101&z=2006-02-01&g=2006-02-01) of [176](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zevende&artikel=176&z=2006-02-01&g=2006-02-01) worden verkocht, onverminderd de voorrang, aan de schuldeiser in [artikel 292 van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=292) toegekend. De curator kan ook, voorzover dit in het belang is van de boedel, de zaak in de boedel terugbrengen door voldoening van de vordering waarvoor het retentierecht kan worden uitgeoefend.
+2. De zaak kan door de curator worden opgeëist en met toepassing van [artikel 101](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vierde&artikel=101&z=2007-01-01&g=2007-01-01) of [176](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zevende&artikel=176&z=2007-01-01&g=2007-01-01) worden verkocht, onverminderd de voorrang, aan de schuldeiser in [artikel 292 van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=292) toegekend. De curator kan ook, voorzover dit in het belang is van de boedel, de zaak in de boedel terugbrengen door voldoening van de vordering waarvoor het retentierecht kan worden uitgeoefend.
 
 3. De schuldeiser kan de curator een redelijke termijn stellen om tot toepassing van het vorige lid over te gaan. Heeft de curator de zaak niet binnen deze termijn verkocht, dan kan de schuldeiser haar verkopen met overeenkomstige toepassing van de bepalingen betreffende parate executie door een pandhouder of, als het een registergoed betreft, die betreffende parate executie door een hypotheekhouder. De rechter-commissaris is bevoegd de termijn op verzoek van de curator een of meer malen te verlengen.
 
@@ -668,7 +668,7 @@ Indien de opbrengst niet toereikend is om een pand- of hypotheekhouder of een de
 
 1. Indien tot het vermogen van de gefailleerde onder bewind staande goederen behoren en zich schuldeisers ter verificatie hebben aangemeld, die deze goederen onbelast met het bewind kunnen uitwinnen, zal de curator deze goederen van de bewindvoerder opeisen, onder zijn beheer nemen en te gelde maken, voorzover dit voor de voldoening van deze schuldeisers uit de opbrengst nodig is. Door de opeising eindigt het bewind over het goed. De opbrengst wordt overeenkomstig deze wet onder deze schuldeisers verdeeld, voorzover zij zijn geverifieerd. De curator draagt hetgeen na deze verdeling van de opbrengst over is, aan de bewindvoerder af, tenzij de andere schuldeisers de onder bewind staande goederen onder de last van het bewind kunnen uitwinnen in welk geval het restant overeenkomstig deze wet onder deze laatste schuldeisers verdeeld wordt.
 
-2. Indien zich slechts schuldeisers ter verificatie hebben aangemeld die de goederen onder de last van het bewind kunnen uitwinnen, worden deze goederen door de curator overeenkomstig de [artikelen 101](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vierde&artikel=101&z=2006-02-01&g=2006-02-01) of [176](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zevende&artikel=176&z=2006-02-01&g=2006-02-01) onder die last verkocht.
+2. Indien zich slechts schuldeisers ter verificatie hebben aangemeld die de goederen onder de last van het bewind kunnen uitwinnen, worden deze goederen door de curator overeenkomstig de [artikelen 101](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vierde&artikel=101&z=2007-01-01&g=2007-01-01) of [176](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zevende&artikel=176&z=2007-01-01&g=2007-01-01) onder die last verkocht.
 
 3. Buiten de gevallen, bedoeld in de vorige leden, blijven de onder bewind staande goederen buiten het faillissement en wordt slechts aan de curator uitgekeerd wat de goederen netto aan vruchten hebben opgebracht.
 
@@ -700,7 +700,7 @@ Vervallen
 
 ##### Artikel 63
 
-1. Het faillissement van de persoon die in enige gemeenschap van goederen gehuwd is of in enige gemeenschap van goederen een geregistreerd partnerschap is aangegaan, wordt als faillissement van die gemeenschap behandeld. Het omvat, behoudens de uitzonderingen van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=21&z=2006-02-01&g=2006-02-01), alle goederen, die in de gemeenschap vallen, en strekt ten behoeve van alle schuldeisers, die op de goederen der gemeenschap verhaal hebben. Goederen die de gefailleerde buiten de gemeenschap heeft, strekken slechts tot verhaal van schulden die daarop verhaald zouden kunnen worden, indien er generlei gemeenschap was.
+1. Het faillissement van de persoon die in enige gemeenschap van goederen gehuwd is of in enige gemeenschap van goederen een geregistreerd partnerschap is aangegaan, wordt als faillissement van die gemeenschap behandeld. Het omvat, behoudens de uitzonderingen van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=21&z=2007-01-01&g=2007-01-01), alle goederen, die in de gemeenschap vallen, en strekt ten behoeve van alle schuldeisers, die op de goederen der gemeenschap verhaal hebben. Goederen die de gefailleerde buiten de gemeenschap heeft, strekken slechts tot verhaal van schulden die daarop verhaald zouden kunnen worden, indien er generlei gemeenschap was.
 
 2. Bij het faillissement van een schuldenaar die in gemeenschap van goederen gehuwd is of die in gemeenschap van goederen een geregistreerd partnerschap is aangegaan, zijn de bepalingen van deze wet omtrent handelingen door de schuldenaar verricht, toepasselijk op de handelingen waardoor de gemeenschap wettig verbonden is, onverschillig wie van de echtgenoten onderscheidenlijk van de geregistreerde partners deze verrichtte.
 
@@ -740,7 +740,7 @@ Alvorens in enige zaak, het beheer of de vereffening des faillieten boedels betr
 
 1. Van alle beschikkingen van de rechter-commissaris is gedurende vijf dagen hoger beroep op de rechtbank mogelijk, te rekenen vanaf de dag waarop de beschikking is gegeven. De rechtbank beslist na verhoor of behoorlijke oproeping van de belanghebbenden.
 
-Niettemin staat geen hoger beroep open van de beschikkingen, vermeld in de artikelen [21, 2° en 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=21&z=2006-02-01&g=2006-02-01), [34](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=34&z=2006-02-01&g=2006-02-01), [58, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=58&z=2006-02-01&g=2006-02-01), [59a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=59a&z=2006-02-01&g=2006-02-01), [60, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=60&z=2006-02-01&g=2006-02-01), [73a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Derde&paragraaf=2&artikel=73a&z=2006-02-01&g=2006-02-01), [79](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Derde&paragraaf=3&artikel=79&z=2006-02-01&g=2006-02-01), [93a](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vierde&artikel=93a&z=2006-02-01&g=2006-02-01), [94](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vierde&artikel=94&z=2006-02-01&g=2006-02-01), [98](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vierde&artikel=98&z=2006-02-01&g=2006-02-01), [100](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vierde&artikel=100&z=2006-02-01&g=2006-02-01), [102](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vierde&artikel=102&z=2006-02-01&g=2006-02-01), [125](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vijfde&artikel=125&z=2006-02-01&g=2006-02-01), [127, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vijfde&artikel=127&z=2006-02-01&g=2006-02-01), [137a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vijfde_A&artikel=137a&z=2006-02-01&g=2006-02-01), [174](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zevende&artikel=174&z=2006-02-01&g=2006-02-01), [175, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zevende&artikel=175&z=2006-02-01&g=2006-02-01), [176, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zevende&artikel=176&z=2006-02-01&g=2006-02-01), [177](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zevende&artikel=177&z=2006-02-01&g=2006-02-01), [179](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zevende&artikel=179&z=2006-02-01&g=2006-02-01) en [180](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zevende&artikel=180&z=2006-02-01&g=2006-02-01).
+Niettemin staat geen hoger beroep open van de beschikkingen, vermeld in de artikelen [21, 2° en 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=21&z=2007-01-01&g=2007-01-01), [34](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=34&z=2007-01-01&g=2007-01-01), [58, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=58&z=2007-01-01&g=2007-01-01), [59a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=59a&z=2007-01-01&g=2007-01-01), [60, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=60&z=2007-01-01&g=2007-01-01), [73a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Derde&paragraaf=2&artikel=73a&z=2007-01-01&g=2007-01-01), [79](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Derde&paragraaf=3&artikel=79&z=2007-01-01&g=2007-01-01), [93a](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vierde&artikel=93a&z=2007-01-01&g=2007-01-01), [94](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vierde&artikel=94&z=2007-01-01&g=2007-01-01), [98](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vierde&artikel=98&z=2007-01-01&g=2007-01-01), [100](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vierde&artikel=100&z=2007-01-01&g=2007-01-01), [102](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vierde&artikel=102&z=2007-01-01&g=2007-01-01), [125](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vijfde&artikel=125&z=2007-01-01&g=2007-01-01), [127, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vijfde&artikel=127&z=2007-01-01&g=2007-01-01), [137a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vijfde_A&artikel=137a&z=2007-01-01&g=2007-01-01), [174](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zevende&artikel=174&z=2007-01-01&g=2007-01-01), [175, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zevende&artikel=175&z=2007-01-01&g=2007-01-01), [176, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zevende&artikel=176&z=2007-01-01&g=2007-01-01), [177](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zevende&artikel=177&z=2007-01-01&g=2007-01-01), [179](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zevende&artikel=179&z=2007-01-01&g=2007-01-01) en [180](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zevende&artikel=180&z=2007-01-01&g=2007-01-01).
 
 2. In afwijking van het eerste lid vangt in het geval van hoger beroep tegen een machtiging van de rechter-commissaris aan de curator tot opzegging van een arbeidsovereenkomst de termijn van vijf dagen aan op de dag dat de werknemer die het beroep instelt van de machtiging kennis heeft kunnen nemen. Op straffe van vernietigbaarheid wijst de curator de werknemer bij de opzegging op de mogelijkheid van beroep en op de termijn daarvan. Het beroep op de vernietigbaarheid geschiedt door een buitengerechtelijke verklaring aan de curator, en kan worden gedaan gedurende veertien dagen, te rekenen vanaf de dag waarop de arbeidsovereenkomst is opgezegd.
 
@@ -750,7 +750,7 @@ Niettemin staat geen hoger beroep open van de beschikkingen, vermeld in de artik
 
 1. De curator is belast met het beheer en de vereffening van de failliete boedel.
 
-2. Alvorens in rechte op te treden, behalve waar het verificatiegeschillen betreft, alsmede in de gevallen van de[artikelen 37](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=37&z=2006-02-01&g=2006-02-01), [39](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=39&z=2006-02-01&g=2006-02-01), [40](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=40&z=2006-02-01&g=2006-02-01), [58, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=58&z=2006-02-01&g=2006-02-01), [60, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=60&z=2006-02-01&g=2006-02-01), en [60a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=60a&z=2006-02-01&g=2006-02-01), behoeft de curator machtiging van de rechter-commissaris.
+2. Alvorens in rechte op te treden, behalve waar het verificatiegeschillen betreft, alsmede in de gevallen van de[artikelen 37](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=37&z=2007-01-01&g=2007-01-01), [39](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=39&z=2007-01-01&g=2007-01-01), [40](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=40&z=2007-01-01&g=2007-01-01), [58, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=58&z=2007-01-01&g=2007-01-01), [60, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=60&z=2007-01-01&g=2007-01-01), en [60a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=60a&z=2007-01-01&g=2007-01-01), behoeft de curator machtiging van de rechter-commissaris.
 
 ##### Artikel 69
 
@@ -766,15 +766,15 @@ Niettemin staat geen hoger beroep open van de beschikkingen, vermeld in de artik
 
 ##### Artikel 71
 
-1. Onverminderd het bepaalde in [artikel 15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=15&z=2006-02-01&g=2006-02-01), wordt het salaris van de curator in elk faillissement door de rechtbank vastgesteld.
+1. Onverminderd het bepaalde in [artikel 15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=15&z=2007-01-01&g=2007-01-01), wordt het salaris van de curator in elk faillissement door de rechtbank vastgesteld.
 
 2. In geval van akkoord wordt het salaris bij het vonnis van homologatie bepaald.
 
 ##### Artikel 72
 
-1. Het ontbreken van de machtiging van de rechter-commissaris, waar die vereist is, of de niet-inachtneming van de bepalingen vervat in de[artikelen 78](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Derde&paragraaf=3&artikel=78&z=2006-02-01&g=2006-02-01) en [79](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Derde&paragraaf=3&artikel=79&z=2006-02-01&g=2006-02-01), heeft, voor zoveel derden betreft, geen invloed op de geldigheid van de door de curator verrichte handeling. De curator is deswege alleen jegens de gefailleerde en de schuldeisers aansprakelijk.
+1. Het ontbreken van de machtiging van de rechter-commissaris, waar die vereist is, of de niet-inachtneming van de bepalingen vervat in de[artikelen 78](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Derde&paragraaf=3&artikel=78&z=2007-01-01&g=2007-01-01) en [79](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Derde&paragraaf=3&artikel=79&z=2007-01-01&g=2007-01-01), heeft, voor zoveel derden betreft, geen invloed op de geldigheid van de door de curator verrichte handeling. De curator is deswege alleen jegens de gefailleerde en de schuldeisers aansprakelijk.
 
-2. In afwijking van het eerste lid is de opzegging van een arbeidsovereenkomst door de curator zonder dat de rechter-commissaris daarvoor de machtiging, bedoeld in [artikel 68, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Derde&paragraaf=2&artikel=68&z=2006-02-01&g=2006-02-01), heeft gegeven, vernietigbaar. Daarnaast is de curator jegens de gefailleerde en de werknemer aansprakelijk. Het beroep op de vernietigbaarheid geschiedt door een buitengerechtelijke verklaring aan de curator, en kan worden gedaan gedurende vijf dagen, te rekenen vanaf de dag waarop de arbeidsovereenkomst is opgezegd.
+2. In afwijking van het eerste lid is de opzegging van een arbeidsovereenkomst door de curator zonder dat de rechter-commissaris daarvoor de machtiging, bedoeld in [artikel 68, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Derde&paragraaf=2&artikel=68&z=2007-01-01&g=2007-01-01), heeft gegeven, vernietigbaar. Daarnaast is de curator jegens de gefailleerde en de werknemer aansprakelijk. Het beroep op de vernietigbaarheid geschiedt door een buitengerechtelijke verklaring aan de curator, en kan worden gedaan gedurende vijf dagen, te rekenen vanaf de dag waarop de arbeidsovereenkomst is opgezegd.
 
 ##### Artikel 73
 
@@ -814,7 +814,7 @@ Tot het inwinnen van het advies der commissie vergadert de curator met haar, zo 
 
 ##### Artikel 78
 
-1. De curator is verplicht het advies der commissie in te winnen, alvorens een rechtsvordering in te stellen of een aanhangige voort te zetten of zich tegen een ingestelde of aanhangige rechtsvordering te verdedigen, behalve waar het geldt verificatiegeschillen; omtrent het al of niet voortzetten van het bedrijf des gefailleerden; alsmede in de gevallen van de [artikelen 37](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=37&z=2006-02-01&g=2006-02-01), [39](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=39&z=2006-02-01&g=2006-02-01), [40](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=40&z=2006-02-01&g=2006-02-01), [58, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=58&z=2006-02-01&g=2006-02-01), [73, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Derde&paragraaf=2&artikel=73&z=2006-02-01&g=2006-02-01), [100](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vierde&artikel=100&z=2006-02-01&g=2006-02-01), [101](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vierde&artikel=101&z=2006-02-01&g=2006-02-01), [175, laatste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zevende&artikel=175&z=2006-02-01&g=2006-02-01) en [177](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zevende&artikel=177&z=2006-02-01&g=2006-02-01), en in het algemeen omtrent de wijze van vereffening en tegeldemaking van de boedel en het tijdstip en het bedrag der te houden uitdelingen.
+1. De curator is verplicht het advies der commissie in te winnen, alvorens een rechtsvordering in te stellen of een aanhangige voort te zetten of zich tegen een ingestelde of aanhangige rechtsvordering te verdedigen, behalve waar het geldt verificatiegeschillen; omtrent het al of niet voortzetten van het bedrijf des gefailleerden; alsmede in de gevallen van de [artikelen 37](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=37&z=2007-01-01&g=2007-01-01), [39](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=39&z=2007-01-01&g=2007-01-01), [40](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=40&z=2007-01-01&g=2007-01-01), [58, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=58&z=2007-01-01&g=2007-01-01), [73, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Derde&paragraaf=2&artikel=73&z=2007-01-01&g=2007-01-01), [100](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vierde&artikel=100&z=2007-01-01&g=2007-01-01), [101](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vierde&artikel=101&z=2007-01-01&g=2007-01-01), [175, laatste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zevende&artikel=175&z=2007-01-01&g=2007-01-01) en [177](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zevende&artikel=177&z=2007-01-01&g=2007-01-01), en in het algemeen omtrent de wijze van vereffening en tegeldemaking van de boedel en het tijdstip en het bedrag der te houden uitdelingen.
 
 2. Dit advies wordt niet vereist, wanneer de curator de commissie tot het uitbrengen daarvan, met inachtneming van een bekwamen termijn, ter vergadering heeft opgeroepen en er geen advies wordt uitgebracht.
 
@@ -902,7 +902,7 @@ De curator zorgt, dadelijk na de aanvaarding zijner betrekking, door alle nodige
 
 1. De curator doet, zo hij of de rechter-commissaris dit nodig acht, dadelijk de boedel verzegelen door een notaris.
 
-2. Buiten de verzegeling blijven, doch worden in het proces-verbaal kortelijk beschreven, de goederen vermeld in de [artikelen 21, nr. 1](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=21&z=2006-02-01&g=2006-02-01) en [92](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vierde&artikel=92&z=2006-02-01&g=2006-02-01), alsmede de voorwerpen tot het bedrijf van de gefailleerde vereist, indien dit wordt voortgezet.
+2. Buiten de verzegeling blijven, doch worden in het proces-verbaal kortelijk beschreven, de goederen vermeld in de [artikelen 21, nr. 1](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=21&z=2007-01-01&g=2007-01-01) en [92](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vierde&artikel=92&z=2007-01-01&g=2007-01-01), alsmede de voorwerpen tot het bedrijf van de gefailleerde vereist, indien dit wordt voortgezet.
 
 ##### Artikel 93a
 
@@ -918,7 +918,7 @@ De curator heeft toegang tot elke plaats, voorzover dat redelijkerwijs voor de v
 
 ##### Artikel 95
 
-Van de goederen, vermeld in [artikel 21, nr. 1](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=21&z=2006-02-01&g=2006-02-01), wordt een staat aan de beschrijving gehecht; die, vermeld in [artikel 92](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vierde&artikel=92&z=2006-02-01&g=2006-02-01), worden in de beschrijving opgenomen.
+Van de goederen, vermeld in [artikel 21, nr. 1](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=21&z=2007-01-01&g=2007-01-01), wordt een staat aan de beschrijving gehecht; die, vermeld in [artikel 92](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vierde&artikel=92&z=2007-01-01&g=2007-01-01), worden in de beschrijving opgenomen.
 
 ##### Artikel 96
 
@@ -936,7 +936,7 @@ De curator is bevoegd het bedrijf van de gefailleerde voort te zetten. Indien er
 
 ##### Artikel 99
 
-1. De curator opent krachtens de last bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=14&z=2006-02-01&g=2006-02-01), de brieven en telegrammen aan de gefailleerde gericht. Die, welke niet op de boedel betrekking hebben, stelt hij terstond aan de gefailleerde ter hand. De administratie der posterijen en der telegrafie is, na van de griffier ontvangen kennisgeving, verplicht de curator de brieven en telegrammen, voor de gefailleerde bestemd, af te geven, totdat de curator of de rechter-commissaris haar van die verplichting ontslaat of zij de kennisgeving ontvangt, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=15&z=2006-02-01&g=2006-02-01). De rechterlijke last tot het openen van brieven en telegrammen verliest zijn kracht op het in de vorige zin bedoelde tijdstip waarop de verplichting van de administratie tot afgifte van brieven en telegrammen eindigt.
+1. De curator opent krachtens de last bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=14&z=2007-01-01&g=2007-01-01), de brieven en telegrammen aan de gefailleerde gericht. Die, welke niet op de boedel betrekking hebben, stelt hij terstond aan de gefailleerde ter hand. De administratie der posterijen en der telegrafie is, na van de griffier ontvangen kennisgeving, verplicht de curator de brieven en telegrammen, voor de gefailleerde bestemd, af te geven, totdat de curator of de rechter-commissaris haar van die verplichting ontslaat of zij de kennisgeving ontvangt, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=15&z=2007-01-01&g=2007-01-01). De rechterlijke last tot het openen van brieven en telegrammen verliest zijn kracht op het in de vorige zin bedoelde tijdstip waarop de verplichting van de administratie tot afgifte van brieven en telegrammen eindigt.
 
 2. Protesten, exploten, verklaringen en termijnstellingen betreffende de boedel geschieden door en aan de curator.
 
@@ -948,7 +948,7 @@ De curator is bevoegd naar omstandigheden een door de rechter-commissaris vast t
 
 1. De curator is bevoegd goederen te vervreemden, indien en voorzover de vervreemding noodzakelijk is ter bestrijding der kosten van het faillissement, of de goederen niet dan met nadeel voor de boedel bewaard kunnen blijven.
 
-2. De bepaling van [artikel 176](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zevende&artikel=176&z=2006-02-01&g=2006-02-01) is toepasselijk.
+2. De bepaling van [artikel 176](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zevende&artikel=176&z=2007-01-01&g=2007-01-01) is toepasselijk.
 
 ##### Artikel 102
 
@@ -972,7 +972,7 @@ De curator is, na ingewonnen advies van de commissie uit de schuldeisers, zo die
 
 ##### Artikel 106
 
-Bij het faillissement van een rechtspersoon zijn de bepalingen van de [artikelen 87-91](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vierde&artikel=87&z=2006-02-01&g=2006-02-01) op de bestuurders, die van [artikel 105, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vierde&artikel=105&z=2006-02-01&g=2006-02-01), op bestuurders en commissarissen toepasselijk.
+Bij het faillissement van een rechtspersoon zijn de bepalingen van de [artikelen 87-91](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vierde&artikel=87&z=2007-01-01&g=2007-01-01) op de bestuurders, die van [artikel 105, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vierde&artikel=105&z=2007-01-01&g=2007-01-01), op bestuurders en commissarissen toepasselijk.
 
 ##### Artikel 107
 
@@ -1016,13 +1016,13 @@ In de lijsten, bedoeld in het vorige artikel, wordt elke vordering omschreven, e
 
 ##### Artikel 114
 
-1. Van ieder der lijsten, in [artikel 112](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vijfde&artikel=112&z=2006-02-01&g=2006-02-01) bedoeld, wordt een afschrift door de curator ter griffie van de rechtbank neergelegd, om aldaar gedurende de zeven aan de verificatievergadering voorafgaande dagen kosteloos ter inzage te liggen van een ieder.
+1. Van ieder der lijsten, in [artikel 112](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vijfde&artikel=112&z=2007-01-01&g=2007-01-01) bedoeld, wordt een afschrift door de curator ter griffie van de rechtbank neergelegd, om aldaar gedurende de zeven aan de verificatievergadering voorafgaande dagen kosteloos ter inzage te liggen van een ieder.
 
 2. De neerlegging geschiedt kosteloos.
 
 ##### Artikel 115
 
-Van de krachtens [artikel 114](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vijfde&artikel=114&z=2006-02-01&g=2006-02-01) gedane neerlegging der lijsten geeft de curator aan alle bekende schuldeisers schriftelijk bericht, waarbij hij een nadere oproeping tot de verificatievergadering voegt en tevens vermeldt of een ontwerp-akkoord door de gefailleerde ter griffie is neergelegd.
+Van de krachtens [artikel 114](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vijfde&artikel=114&z=2007-01-01&g=2007-01-01) gedane neerlegging der lijsten geeft de curator aan alle bekende schuldeisers schriftelijk bericht, waarbij hij een nadere oproeping tot de verificatievergadering voegt en tevens vermeldt of een ontwerp-akkoord door de gefailleerde ter griffie is neergelegd.
 
 ##### Artikel 116
 
@@ -1106,7 +1106,7 @@ Vorderingen, die betwist worden, kunnen door de rechter-commissaris voorwaardeli
 
 ##### Artikel 127
 
-1. Vorderingen, na afloop van de in [artikel 108, 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vijfde&artikel=108&z=2006-02-01&g=2006-02-01). genoemde termijn, doch uiterlijk twee dagen vóór de dag, waarop de verificatievergadering zal worden gehouden, bij de curator ingediend, worden op daartoe ter vergadering gedaan verzoek geverifieerd, indien noch de curator noch een der aanwezige schuldeisers daartegen bezwaar maakt.
+1. Vorderingen, na afloop van de in [artikel 108, 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vijfde&artikel=108&z=2007-01-01&g=2007-01-01). genoemde termijn, doch uiterlijk twee dagen vóór de dag, waarop de verificatievergadering zal worden gehouden, bij de curator ingediend, worden op daartoe ter vergadering gedaan verzoek geverifieerd, indien noch de curator noch een der aanwezige schuldeisers daartegen bezwaar maakt.
 
 2. Vorderingen, daarna ingediend, worden niet geverifieerd.
 
@@ -1180,7 +1180,7 @@ De gefailleerde is bevoegd aan zijn gezamenlijke schuldeisers een akkoord aan te
 
 ##### Artikel 139
 
-1. Indien de gefailleerde een ontwerp van akkoord, ten minste acht dagen vóór de vergadering tot verificatie der schuldvorderingen, ter griffie van de rechtbank heeft nedergelegd, ter kosteloze inzage van een ieder, wordt daarover in die vergadering na afloop der verificatie dadelijk geraadpleegd en beslist, behoudens de bepaling van [artikel 141](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zesde&artikel=141&z=2006-02-01&g=2006-02-01).
+1. Indien de gefailleerde een ontwerp van akkoord, ten minste acht dagen vóór de vergadering tot verificatie der schuldvorderingen, ter griffie van de rechtbank heeft nedergelegd, ter kosteloze inzage van een ieder, wordt daarover in die vergadering na afloop der verificatie dadelijk geraadpleegd en beslist, behoudens de bepaling van [artikel 141](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zesde&artikel=141&z=2007-01-01&g=2007-01-01).
 
 2. Een afschrift van het ontwerp van akkoord moet, gelijktijdig met de nederlegging ter griffie, worden toegezonden aan de curator en aan ieder der leden van de voorlopige commissie uit de schuldeisers.
 
@@ -1216,7 +1216,7 @@ Tot het aannemen van het akkoord wordt vereist de toestemming van de gewone meer
 
 ##### Artikel 146
 
-In afwijking van [artikel 145](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zesde&artikel=145&z=2006-02-01&g=2006-02-01) kan de rechter-commissaris op verzoek van de schuldenaar of de curator bij gemotiveerde beschikking een aangeboden akkoord vaststellen als ware het aangenomen, indien
+In afwijking van [artikel 145](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zesde&artikel=145&z=2007-01-01&g=2007-01-01) kan de rechter-commissaris op verzoek van de schuldenaar of de curator bij gemotiveerde beschikking een aangeboden akkoord vaststellen als ware het aangenomen, indien
 
 - a. drie vierde van de ter vergadering verschenen erkende en voorwaardelijk toegelaten concurrente schuldeisers voor het akkoord hebben gestemd; en
 
@@ -1240,9 +1240,9 @@ Zowel de schuldeisers, die vóór gestemd hebben, als de gefailleerde, kunnen ge
 
 1. Indien het akkoord is aangenomen of vastgesteld, bepaalt de rechter-commissaris vóór het sluiten der vergadering de terechtzitting, waarop de rechtbank de homologatie zal behandelen.
 
-2. Bij toepassing van [artikel 149](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zesde&artikel=149&z=2006-02-01&g=2006-02-01) geschiedt de bepaling der terechtzitting door de rechtbank in haar beschikking. Van deze beschikking geeft de curator aan de schuldeisers schriftelijk kennis.
+2. Bij toepassing van [artikel 149](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zesde&artikel=149&z=2007-01-01&g=2007-01-01) geschiedt de bepaling der terechtzitting door de rechtbank in haar beschikking. Van deze beschikking geeft de curator aan de schuldeisers schriftelijk kennis.
 
-3. De terechtzitting zal gehouden worden ten minste acht en ten hoogste veertien dagen na de stemming over het akkoord of, bij toepassing van [artikel 149](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zesde&artikel=149&z=2006-02-01&g=2006-02-01), na de beschikking van de rechtbank.
+3. De terechtzitting zal gehouden worden ten minste acht en ten hoogste veertien dagen na de stemming over het akkoord of, bij toepassing van [artikel 149](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zesde&artikel=149&z=2007-01-01&g=2007-01-01), na de beschikking van de rechtbank.
 
 ##### Artikel 151
 
@@ -1266,19 +1266,19 @@ Gedurende die tijd kunnen de schuldeisers aan de rechter-commissaris schriftelij
 
 - 3°. indien het akkoord door bedrog, door begunstiging van een of meer schuldeisers of met behulp van andere oneerlijke middelen is tot stand gekomen, onverschillig of de gefailleerde dan wel een ander daartoe heeft medegewerkt;
 
-- 4°. indien de curator in een hoofdprocedure als bedoeld in [artikel 6, eerste lid, derde zin](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=6&z=2006-02-01&g=2006-02-01), zijn instemming aan het akkoord heeft onthouden, tenzij de rechtbank van oordeel is dat het akkoord de financiële belangen van de schuldeisers van de hoofdprocedure niet aantast.
+- 4°. indien de curator in een hoofdprocedure als bedoeld in [artikel 6, eerste lid, derde zin](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=6&z=2007-01-01&g=2007-01-01), zijn instemming aan het akkoord heeft onthouden, tenzij de rechtbank van oordeel is dat het akkoord de financiële belangen van de schuldeisers van de hoofdprocedure niet aantast.
 
 3. Zij kan ook op andere gronden en ook ambtshalve de homologatie weigeren.
 
 ##### Artikel 154
 
-Binnen acht dagen na de beschikking van de rechtbank kunnen, zo de homologatie is geweigerd, zowel de schuldeisers, die vóór het akkoord stemden, als de gefailleerde; zo de homologatie is toegestaan, de schuldeisers, die tegenstemden of bij de stemming afwezig waren, tegen die beschikking in hoger beroep komen. In het laatste geval hebben ook de schuldeisers, die vóór stemden, ditzelfde recht, doch alleen op grond van het ontdekken na de homologatie van handelingen als in [artikel 153 onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zesde&artikel=153&z=2006-02-01&g=2006-02-01). genoemd.
+Binnen acht dagen na de beschikking van de rechtbank kunnen, zo de homologatie is geweigerd, zowel de schuldeisers, die vóór het akkoord stemden, als de gefailleerde; zo de homologatie is toegestaan, de schuldeisers, die tegenstemden of bij de stemming afwezig waren, tegen die beschikking in hoger beroep komen. In het laatste geval hebben ook de schuldeisers, die vóór stemden, ditzelfde recht, doch alleen op grond van het ontdekken na de homologatie van handelingen als in [artikel 153 onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zesde&artikel=153&z=2007-01-01&g=2007-01-01). genoemd.
 
 ##### Artikel 155
 
 1. Het hoger beroep geschiedt bij een verzoekschrift, in te dienen ter griffie van het gerechtshof, dat van de zaak moet kennis nemen. De voorzitter bepaalt terstond dag en uur voor de behandeling, welke zal moeten plaats hebben binnen twintig dagen. Van het hoger beroep wordt door de griffier van het rechtscollege, waarbij het is aangebracht, onverwijld kennis gegeven aan de griffier van de rechtbank, die de beschikking omtrent de homologatie heeft gegeven.
 
-2. Op de behandeling van het hoger beroep zijn, met uitzondering van het bepaalde omtrent de rechter-commissaris, [artikel 152](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zesde&artikel=152&z=2006-02-01&g=2006-02-01) en [artikel 153, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zesde&artikel=153&z=2006-02-01&g=2006-02-01), toepasselijk.
+2. Op de behandeling van het hoger beroep zijn, met uitzondering van het bepaalde omtrent de rechter-commissaris, [artikel 152](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zesde&artikel=152&z=2007-01-01&g=2007-01-01) en [artikel 153, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zesde&artikel=153&z=2007-01-01&g=2007-01-01), toepasselijk.
 
 ##### Artikel 156
 
@@ -1294,7 +1294,7 @@ Na verwerping of weigering van de homologatie van het akkoord kan de gefailleerd
 
 ##### Artikel 159
 
-Het in kracht van gewijsde gegane vonnis van homologatie levert, in verband met het proces-verbaal der verificatie, ten behoeve der erkende vorderingen, voorzover zij niet door de gefailleerde overeenkomstig [artikel 126](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vijfde&artikel=126&z=2006-02-01&g=2006-02-01) betwist zijn, een voor tenuitvoerlegging vatbare titel op tegen de schuldenaar en de tot het akkoord als borgen toegetreden personen.
+Het in kracht van gewijsde gegane vonnis van homologatie levert, in verband met het proces-verbaal der verificatie, ten behoeve der erkende vorderingen, voorzover zij niet door de gefailleerde overeenkomstig [artikel 126](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vijfde&artikel=126&z=2007-01-01&g=2007-01-01) betwist zijn, een voor tenuitvoerlegging vatbare titel op tegen de schuldenaar en de tot het akkoord als borgen toegetreden personen.
 
 ##### Artikel 160
 
@@ -1332,7 +1332,7 @@ Voor zoveel betreft vorderingen, waarvan het voorrecht voorwaardelijk erkend is,
 
 ##### Artikel 166
 
-De vordering tot ontbinding van het akkoord wordt op dezelfde wijze aangebracht en beslist, als ten aanzien van het verzoek tot faillietverklaring in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=4&z=2006-02-01&g=2006-02-01), [6-9](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=6&z=2006-02-01&g=2006-02-01) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=12&z=2006-02-01&g=2006-02-01) is voorgeschreven.
+De vordering tot ontbinding van het akkoord wordt op dezelfde wijze aangebracht en beslist, als ten aanzien van het verzoek tot faillietverklaring in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=4&z=2007-01-01&g=2007-01-01), [6-9](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=6&z=2007-01-01&g=2007-01-01) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=12&z=2007-01-01&g=2007-01-01) is voorgeschreven.
 
 ##### Artikel 167
 
@@ -1340,11 +1340,11 @@ De vordering tot ontbinding van het akkoord wordt op dezelfde wijze aangebracht 
 
 2. Bij voorkeur zullen daartoe de personen gekozen worden, die vroeger in het faillissement die betrekkingen hebben waargenomen.
 
-3. De curator draagt zorg voor de bekendmaking van het vonnis op de wijze in [artikel 14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=14&z=2006-02-01&g=2006-02-01), voorgeschreven.
+3. De curator draagt zorg voor de bekendmaking van het vonnis op de wijze in [artikel 14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=14&z=2007-01-01&g=2007-01-01), voorgeschreven.
 
 ##### Artikel 168
 
-1. De [artikelen 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=13&z=2006-02-01&g=2006-02-01), [15-18](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=15&z=2006-02-01&g=2006-02-01) en die, welke vervat zijn in de [tweede](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&z=2006-02-01&g=2006-02-01), [derde](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Derde&z=2006-02-01&g=2006-02-01) en [vierde afdeling van deze titel](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vierde&z=2006-02-01&g=2006-02-01), zijn bij heropening van het faillissement toepasselijk.
+1. De [artikelen 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=13&z=2007-01-01&g=2007-01-01), [15-18](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=15&z=2007-01-01&g=2007-01-01) en die, welke vervat zijn in de [tweede](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&z=2007-01-01&g=2007-01-01), [derde](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Derde&z=2007-01-01&g=2007-01-01) en [vierde afdeling van deze titel](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vierde&z=2007-01-01&g=2007-01-01), zijn bij heropening van het faillissement toepasselijk.
 
 2. Evenzo zijn toepasselijk de bepalingen van de afdeling over de verificatie der schuldvorderingen, behoudens deze wijziging, dat de verificatie beperkt blijft tot de schuldvorderingen, die niet reeds vroeger geverifieerd werden.
 
@@ -1352,7 +1352,7 @@ De vordering tot ontbinding van het akkoord wordt op dezelfde wijze aangebracht 
 
 ##### Artikel 169
 
-De handelingen, door de schuldenaar in de tijd tussen de homologatie van het akkoord en de heropening van het faillissement verricht, zijn voor de boedel verbindend, behoudens de toepassing van [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=42&z=2006-02-01&g=2006-02-01) en volgende zo daartoe gronden zijn.
+De handelingen, door de schuldenaar in de tijd tussen de homologatie van het akkoord en de heropening van het faillissement verricht, zijn voor de boedel verbindend, behoudens de toepassing van [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=42&z=2007-01-01&g=2007-01-01) en volgende zo daartoe gronden zijn.
 
 ##### Artikel 170
 
@@ -1376,7 +1376,7 @@ Het vorige artikel is eveneens toepasselijk, indien de boedel van de schuldenaar
 
 1. Indien op de verificatievergadering geen akkoord aangeboden of indien het aangeboden akkoord verworpen of de homologatie definitief geweigerd is, verkeert de boedel van rechtswege in staat van insolventie.
 
-2. De [artikelen 98](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vierde&artikel=98&z=2006-02-01&g=2006-02-01) en [100](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vierde&artikel=100&z=2006-02-01&g=2006-02-01) houden op van toepassing te zijn, wanneer vaststaat, dat het bedrijf van de gefailleerde niet overeenkomstig de volgende artikelen zal worden voortgezet of wanneer de voortzetting wordt gestaakt.
+2. De [artikelen 98](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vierde&artikel=98&z=2007-01-01&g=2007-01-01) en [100](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vierde&artikel=100&z=2007-01-01&g=2007-01-01) houden op van toepassing te zijn, wanneer vaststaat, dat het bedrijf van de gefailleerde niet overeenkomstig de volgende artikelen zal worden voortgezet of wanneer de voortzetting wordt gestaakt.
 
 ##### Artikel 173a
 
@@ -1386,9 +1386,9 @@ Het vorige artikel is eveneens toepasselijk, indien de boedel van de schuldenaar
 
 3. Op verlangen van de curator of van een der aanwezige schuldeisers, stelt de rechter-commissaris de beraadslaging en beslissing over het voorstel uit, tot een op ten hoogste veertien dagen later te bepalen vergadering.
 
-4. De curator geeft onverwijld aan de schuldeisers, die niet ter vergadering aanwezig waren, kennis van deze nadere vergadering bij brieven, waarin het ingediend voorstel wordt vermeld en hun tevens de bepaling van [artikel 114](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vijfde&artikel=114&z=2006-02-01&g=2006-02-01) wordt herinnerd.
+4. De curator geeft onverwijld aan de schuldeisers, die niet ter vergadering aanwezig waren, kennis van deze nadere vergadering bij brieven, waarin het ingediend voorstel wordt vermeld en hun tevens de bepaling van [artikel 114](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vijfde&artikel=114&z=2007-01-01&g=2007-01-01) wordt herinnerd.
 
-5. Op deze vergadering zal, zo nodig, tevens de verificatie plaats hebben van de schuldvorderingen, die na afloop van de in [artikel 108, n°. 1](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vijfde&artikel=108&z=2006-02-01&g=2006-02-01), bepaalde termijn zijn ingediend en niet reeds ingevolge [artikel 127](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vijfde&artikel=127&z=2006-02-01&g=2006-02-01) geverifieerd zijn. De curator handelt ten opzichte van deze vorderingen overeenkomstig de bepalingen van de [artikelen 111-114](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vijfde&artikel=111&z=2006-02-01&g=2006-02-01).
+5. Op deze vergadering zal, zo nodig, tevens de verificatie plaats hebben van de schuldvorderingen, die na afloop van de in [artikel 108, n°. 1](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vijfde&artikel=108&z=2007-01-01&g=2007-01-01), bepaalde termijn zijn ingediend en niet reeds ingevolge [artikel 127](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vijfde&artikel=127&z=2007-01-01&g=2007-01-01) geverifieerd zijn. De curator handelt ten opzichte van deze vorderingen overeenkomstig de bepalingen van de [artikelen 111-114](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vijfde&artikel=111&z=2007-01-01&g=2007-01-01).
 
 ##### Artikel 173b
 
@@ -1404,9 +1404,9 @@ Het vorige artikel is eveneens toepasselijk, indien de boedel van de schuldenaar
 
 1. Indien binnen acht dagen, nadat de homologatie van een akkoord definitief is geweigerd, de curator of een schuldeiser bij de rechter-commissaris een voorstel indient tot voortzetting van het bedrijf van de gefailleerde, zal de rechter-commissaris op door hem terstond te bepalen dag, uur en plaats een vergadering van schuldeisers beleggen ten einde over het voorstel te doen beraadslagen en beslissen.
 
-2. De curator roept de schuldeisers, ten minste tien dagen vóór de vergadering, op bij brieven, waarin het ingediend voorstel wordt vermeld en hun tevens de bepaling van [artikel 114](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vijfde&artikel=114&z=2006-02-01&g=2006-02-01) wordt herinnerd.
+2. De curator roept de schuldeisers, ten minste tien dagen vóór de vergadering, op bij brieven, waarin het ingediend voorstel wordt vermeld en hun tevens de bepaling van [artikel 114](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vijfde&artikel=114&z=2007-01-01&g=2007-01-01) wordt herinnerd.
 
-3. [Artikel 173a, lid 2 en 5](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zevende&artikel=173a&z=2006-02-01&g=2006-02-01), alsmede [artikel 173b](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zevende&artikel=173b&z=2006-02-01&g=2006-02-01) zijn van toepassing.
+3. [Artikel 173a, lid 2 en 5](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zevende&artikel=173a&z=2007-01-01&g=2007-01-01), alsmede [artikel 173b](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zevende&artikel=173b&z=2007-01-01&g=2007-01-01) zijn van toepassing.
 
 ##### Artikel 173d
 
@@ -1438,7 +1438,7 @@ De curator kan ten behoeve der vereffening van de diensten des gefailleerden geb
 
 ##### Artikel 178
 
-Nadat de boedel insolvent is geworden, kan de rechter-commissaris, op door hem te bepalen dag, uur en plaats, een vergadering van schuldeisers beleggen, ten einde hen zo nodig te raadplegen over de wijze van vereffening des boedels, en zo nodig de verificatie te doen plaats hebben der schuldvorderingen, die na afloop van de in [artikel 108, n°. 1](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vijfde&artikel=108&z=2006-02-01&g=2006-02-01) bepaalde termijn nog zijn ingediend en niet reeds ingevolge [artikel 127](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vijfde&artikel=127&z=2006-02-01&g=2006-02-01) geverifieerd zijn. De curator handelt ten opzichte van deze vorderingen overeenkomstig de bepalingen van de [artikelen 111-114](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vijfde&artikel=111&z=2006-02-01&g=2006-02-01). Hij roept de schuldeisers, ten minste tien dagen vóór de vergadering, bij brieven op, waarin het onderwerp der vergadering wordt vermeld en hun tevens de bepaling van [artikel 114](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vijfde&artikel=114&z=2006-02-01&g=2006-02-01) wordt herinnerd.
+Nadat de boedel insolvent is geworden, kan de rechter-commissaris, op door hem te bepalen dag, uur en plaats, een vergadering van schuldeisers beleggen, ten einde hen zo nodig te raadplegen over de wijze van vereffening des boedels, en zo nodig de verificatie te doen plaats hebben der schuldvorderingen, die na afloop van de in [artikel 108, n°. 1](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vijfde&artikel=108&z=2007-01-01&g=2007-01-01) bepaalde termijn nog zijn ingediend en niet reeds ingevolge [artikel 127](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vijfde&artikel=127&z=2007-01-01&g=2007-01-01) geverifieerd zijn. De curator handelt ten opzichte van deze vorderingen overeenkomstig de bepalingen van de [artikelen 111-114](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vijfde&artikel=111&z=2007-01-01&g=2007-01-01). Hij roept de schuldeisers, ten minste tien dagen vóór de vergadering, bij brieven op, waarin het onderwerp der vergadering wordt vermeld en hun tevens de bepaling van [artikel 114](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vijfde&artikel=114&z=2007-01-01&g=2007-01-01) wordt herinnerd.
 
 ##### Artikel 179
 
@@ -1448,7 +1448,7 @@ Zo dikwijls er, naar het oordeel van de rechter-commissaris, voldoende gerede pe
 
 1. De curator maakt telkens de uitdelingslijst op en onderwerpt die aan de goedkeuring van de rechter-commissaris. De lijst houdt in een staat der ontvangsten en uitgaven (daaronder begrepen het salaris van de curator), de namen der schuldeisers, het geverifieerde bedrag van ieders vordering, benevens de daarop te ontvangen uitkering.
 
-2. Voor de concurrente schuldeisers worden de door de rechter-commissaris te bepalen percenten uitgetrokken. Voor de schuldeisers die voorrang hebben, ongeacht of deze betwist wordt, en die niet reeds overeenkomstig [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=57&z=2006-02-01&g=2006-02-01) of [60 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=60&z=2006-02-01&g=2006-02-01) voldaan zijn wordt het bedrag uitgetrokken waarvoor zij batig gerangschikt kunnen worden op de opbrengst der goederen waarop hun voorrang betrekking heeft. Zo dit minder is dan het gehele bedrag van hun vorderingen, worden voor het ontbrekende - zo de goederen waarop hun vordering betrekking heeft nog niet verkocht zijn, voor hun hele vordering - gelijke percenten als voor de concurrente schuldeisers uitgetrokken.
+2. Voor de concurrente schuldeisers worden de door de rechter-commissaris te bepalen percenten uitgetrokken. Voor de schuldeisers die voorrang hebben, ongeacht of deze betwist wordt, en die niet reeds overeenkomstig [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=57&z=2007-01-01&g=2007-01-01) of [60 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=60&z=2007-01-01&g=2007-01-01) voldaan zijn wordt het bedrag uitgetrokken waarvoor zij batig gerangschikt kunnen worden op de opbrengst der goederen waarop hun voorrang betrekking heeft. Zo dit minder is dan het gehele bedrag van hun vorderingen, worden voor het ontbrekende - zo de goederen waarop hun vordering betrekking heeft nog niet verkocht zijn, voor hun hele vordering - gelijke percenten als voor de concurrente schuldeisers uitgetrokken.
 
 ##### Artikel 181
 
@@ -1456,9 +1456,9 @@ Voor de voorwaardelijk toegelaten schuldvorderingen worden op de uitdelingslijst
 
 ##### Artikel 182
 
-1. De algemene faillissementskosten worden omgeslagen over ieder deel van de boedel, met uitzondering van hetgeen na een executie overeenkomstig [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=57&z=2006-02-01&g=2006-02-01) of [artikel 60, derde lid, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=60&z=2006-02-01&g=2006-02-01), toekomt aan de pand- of hypotheekhouders, aan de schuldeisers met retentierecht en aan de beperkt gerechtigden, huurders en pachters wier recht door de executie is vervallen of verloren gegaan, maar met inbegrip van hetgeen krachtens een zodanige executie aan de curator is uitgekeerd ten behoeve van een schuldeiser die boven een of meer van voormelde personen bevoorrecht was.
+1. De algemene faillissementskosten worden omgeslagen over ieder deel van de boedel, met uitzondering van hetgeen na een executie overeenkomstig [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=57&z=2007-01-01&g=2007-01-01) of [artikel 60, derde lid, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=60&z=2007-01-01&g=2007-01-01), toekomt aan de pand- of hypotheekhouders, aan de schuldeisers met retentierecht en aan de beperkt gerechtigden, huurders en pachters wier recht door de executie is vervallen of verloren gegaan, maar met inbegrip van hetgeen krachtens een zodanige executie aan de curator is uitgekeerd ten behoeve van een schuldeiser die boven een of meer van voormelde personen bevoorrecht was.
 
-2. De in het vorige lid genoemde uitzondering geldt eveneens ten aanzien van luchtvaartuigen, welke overeenkomstig de bepaling van [artikel 59a](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=59a&z=2006-02-01&g=2006-02-01) door een schuldeiser zelf zijn verkocht.
+2. De in het vorige lid genoemde uitzondering geldt eveneens ten aanzien van luchtvaartuigen, welke overeenkomstig de bepaling van [artikel 59a](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=59a&z=2007-01-01&g=2007-01-01) door een schuldeiser zelf zijn verkocht.
 
 ##### Artikel 183
 
@@ -1466,7 +1466,7 @@ Voor de voorwaardelijk toegelaten schuldvorderingen worden op de uitdelingslijst
 
 2. Van de neerlegging wordt door de zorg van de curator aan ieder van de erkende en voorwaardelijk toegelaten schuldeisers schriftelijk kennis gegeven, met vermelding van het voor hem uitgetrokken bedrag.
 
-3. Van de neerlegging wordt door de zorg van de curator aankondiging gedaan in het nieuwsblad of de nieuwsbladen bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=14&z=2006-02-01&g=2006-02-01), terwijl daarvan bovendien aan ieder der erkende en voorwaardelijk toegelaten schuldeisers schriftelijk kennis wordt gegeven, met vermelding van het voor hem uitgetrokken bedrag.
+3. Van de neerlegging wordt door de zorg van de curator aankondiging gedaan in het nieuwsblad of de nieuwsbladen bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=14&z=2007-01-01&g=2007-01-01), terwijl daarvan bovendien aan ieder der erkende en voorwaardelijk toegelaten schuldeisers schriftelijk kennis wordt gegeven, met vermelding van het voor hem uitgetrokken bedrag.
 
 ##### Artikel 184
 
@@ -1486,7 +1486,7 @@ Voor de voorwaardelijk toegelaten schuldvorderingen worden op de uitdelingslijst
 
 1. Ook een niet-geverifieerde schuldeiser, zomede een schuldeiser, wiens vordering voor een te laag bedrag is geverifieerd, doch overeenkomstig zijn opgave, kan verzet doen, mits hij uiterlijk twee dagen vóór die waarop het verzet ter openbare terechtzitting zal behandeld worden, de vordering of het niet-geverifieerde deel der vordering bij de curator indiene, een afschrift daarvan bij het bezwaarschrift voege, en in dit bezwaarschrift tevens verzoek doe om geverifieerd te worden.
 
-2. De verificatie geschiedt alsdan op de wijze, bij [artikel 119](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vijfde&artikel=119&z=2006-02-01&g=2006-02-01) en volgende voorgeschreven, ter openbare terechtzitting, bestemd voor de behandeling van het verzet en voordat daarmede een aanvang wordt gemaakt.
+2. De verificatie geschiedt alsdan op de wijze, bij [artikel 119](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vijfde&artikel=119&z=2007-01-01&g=2007-01-01) en volgende voorgeschreven, ter openbare terechtzitting, bestemd voor de behandeling van het verzet en voordat daarmede een aanvang wordt gemaakt.
 
 3. Indien dit verzet alleen ten doel heeft als schuldeiser geverifieerd te worden, en er niet tevens door anderen verzet is gedaan, komen de kosten van het verzet ten laste van de nalatige schuldeiser.
 
@@ -1498,7 +1498,7 @@ Voor de voorwaardelijk toegelaten schuldvorderingen worden op de uitdelingslijst
 
 3. Het beroep wordt ter openbare terechtzitting behandeld. De curator en alle schuldeisers kunnen aan de behandeling deelnemen.
 
-4. Door verloop van de termijn van [artikel 183](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zevende&artikel=183&z=2006-02-01&g=2006-02-01), of, zo verzet is gedaan, doordat de beschikking op het verzet in kracht van gewijsde is gegaan, wordt de uitdelingslijst verbindend.
+4. Door verloop van de termijn van [artikel 183](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zevende&artikel=183&z=2007-01-01&g=2007-01-01), of, zo verzet is gedaan, doordat de beschikking op het verzet in kracht van gewijsde is gegaan, wordt de uitdelingslijst verbindend.
 
 ##### Artikel 188
 
@@ -1516,7 +1516,7 @@ Voor de voorwaardelijk toegelaten schuldvorderingen worden op de uitdelingslijst
 
 ##### Artikel 190
 
-Indien enig goed met betrekking waartoe een schuldeiser voorrang heeft, wordt verkocht nadat hem ingevolge [artikel 179](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zevende&artikel=179&z=2006-02-01&g=2006-02-01) in verband met het slot van [artikel 180](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zevende&artikel=180&z=2006-02-01&g=2006-02-01), reeds een uitkering is gedaan, wordt hem bij een volgende uitdeling het bedrag waarvoor hij op de opbrengst van goed batig gerangschikt is, niet anders uitgekeerd dan onder aftrek van de percenten die hij reeds tevoren over dit bedrag ontving.
+Indien enig goed met betrekking waartoe een schuldeiser voorrang heeft, wordt verkocht nadat hem ingevolge [artikel 179](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zevende&artikel=179&z=2007-01-01&g=2007-01-01) in verband met het slot van [artikel 180](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zevende&artikel=180&z=2007-01-01&g=2007-01-01), reeds een uitkering is gedaan, wordt hem bij een volgende uitdeling het bedrag waarvoor hij op de opbrengst van goed batig gerangschikt is, niet anders uitgekeerd dan onder aftrek van de percenten die hij reeds tevoren over dit bedrag ontving.
 
 ##### Artikel 191
 
@@ -1526,11 +1526,11 @@ Indien enig goed met betrekking waartoe een schuldeiser voorrang heeft, wordt ve
 
 ##### Artikel 192
 
-Na afloop van de termijn van inzage, bedoeld bij [artikel 183](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zevende&artikel=183&z=2006-02-01&g=2006-02-01), of na uitspraak van het vonnis op het verzet, is de curator verplicht de vastgestelde uitkering onverwijld te doen. De uitkeringen, waarover niet binnen één maand daarna is beschikt of welke ingevolge [artikel 189](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zevende&artikel=189&z=2006-02-01&g=2006-02-01) gereserveerd zijn, worden door hem in de kas der gerechtelijke consignatiën gestort.
+Na afloop van de termijn van inzage, bedoeld bij [artikel 183](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zevende&artikel=183&z=2007-01-01&g=2007-01-01), of na uitspraak van het vonnis op het verzet, is de curator verplicht de vastgestelde uitkering onverwijld te doen. De uitkeringen, waarover niet binnen één maand daarna is beschikt of welke ingevolge [artikel 189](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zevende&artikel=189&z=2007-01-01&g=2007-01-01) gereserveerd zijn, worden door hem in de kas der gerechtelijke consignatiën gestort.
 
 ##### Artikel 193
 
-1. Zodra aan de geverifieerde schuldeisers het volle bedrag hunner vorderingen is uitgekeerd, of zodra de slotuitdelingslijst verbindend is geworden, neemt het faillissement een einde, behoudens de bepaling van [artikel 194](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zevende&artikel=194&z=2006-02-01&g=2006-02-01). Door de curator geschiedt daarvan aankondiging op de wijze bij [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=14&z=2006-02-01&g=2006-02-01) bepaald.
+1. Zodra aan de geverifieerde schuldeisers het volle bedrag hunner vorderingen is uitgekeerd, of zodra de slotuitdelingslijst verbindend is geworden, neemt het faillissement een einde, behoudens de bepaling van [artikel 194](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zevende&artikel=194&z=2007-01-01&g=2007-01-01). Door de curator geschiedt daarvan aankondiging op de wijze bij [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=14&z=2007-01-01&g=2007-01-01) bepaald.
 
 2. Na verloop van een maand doet de curator rekening en verantwoording van zijn beheer aan de rechter-commissaris.
 
@@ -1538,7 +1538,7 @@ Na afloop van de termijn van inzage, bedoeld bij [artikel 183](https://wetten.ov
 
 ##### Artikel 194
 
-Indien na de slotuitdeling ingevolge [artikel 189](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zevende&artikel=189&z=2006-02-01&g=2006-02-01) gereserveerde uitdelingen aan de boedel terugvallen, of mocht blijken dat er nog baten van de boedel aanwezig zijn, welke ten tijde der vereffening niet bekend waren, gaat de curator, op bevel van de rechtbank, tot vereffening en verdeling daarvan over op de grondslag van de vroegere uitdelingslijsten.
+Indien na de slotuitdeling ingevolge [artikel 189](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zevende&artikel=189&z=2007-01-01&g=2007-01-01) gereserveerde uitdelingen aan de boedel terugvallen, of mocht blijken dat er nog baten van de boedel aanwezig zijn, welke ten tijde der vereffening niet bekend waren, gaat de curator, op bevel van de rechtbank, tot vereffening en verdeling daarvan over op de grondslag van de vroegere uitdelingslijsten.
 
 ### afdeeling Achtste. Van den rechtstoestand des schuldenaars na afloop van de vereffening
 
@@ -1548,11 +1548,11 @@ Door het verbindend worden der slotuitdelingslijst herkrijgen de schuldeisers vo
 
 ##### Artikel 196
 
-De in het [vierde lid van artikel 121](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vijfde&artikel=121&z=2006-02-01&g=2006-02-01) bedoelde erkenning ener vordering heeft kracht van gewijsde zaak tegen de schuldenaar; het proces-verbaal der verificatievergadering levert voor de daarin als erkend vermelde vorderingen de voor tenuitvoerlegging vatbare titel op tegen de schuldenaar.
+De in het [vierde lid van artikel 121](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vijfde&artikel=121&z=2007-01-01&g=2007-01-01) bedoelde erkenning ener vordering heeft kracht van gewijsde zaak tegen de schuldenaar; het proces-verbaal der verificatievergadering levert voor de daarin als erkend vermelde vorderingen de voor tenuitvoerlegging vatbare titel op tegen de schuldenaar.
 
 ##### Artikel 197
 
-De bepaling van het vorige artikel geldt niet voorzover de vordering door de gefailleerde overeenkomstig [artikel 126](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vijfde&artikel=126&z=2006-02-01&g=2006-02-01) betwist is.
+De bepaling van het vorige artikel geldt niet voorzover de vordering door de gefailleerde overeenkomstig [artikel 126](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vijfde&artikel=126&z=2007-01-01&g=2007-01-01) betwist is.
 
 ### afdeeling Negende. Van het faillissement eener nalatenschap
 
@@ -1598,7 +1598,7 @@ Schuldeisers, die na de faillietverklaring hun vordering geheel of gedeeltelijk 
 
 ##### Artikel 206
 
-Nadat het faillissement overeenkomstig de [artikelen 161](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zesde&artikel=161&z=2006-02-01&g=2006-02-01) of [193](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zevende&artikel=193&z=2006-02-01&g=2006-02-01) geëindigd is, is de schuldenaar of zijn zijn erfgenamen bevoegd een verzoek van rehabilitatie in te leveren bij de rechtbank, die het faillissement heeft berecht.
+Nadat het faillissement overeenkomstig de [artikelen 161](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zesde&artikel=161&z=2007-01-01&g=2007-01-01) of [193](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zevende&artikel=193&z=2007-01-01&g=2007-01-01) geëindigd is, is de schuldenaar of zijn zijn erfgenamen bevoegd een verzoek van rehabilitatie in te leveren bij de rechtbank, die het faillissement heeft berecht.
 
 ##### Artikel 207
 
@@ -1612,7 +1612,7 @@ Van het verzoek wordt aankondiging gedaan in de Staatscourant.
 
 1. Ieder erkend schuldeiser is bevoegd om binnen de tijd van twee maanden na voorschreven aankondiging verzet tegen het verzoek te doen, door inlevering van een met redenen omkleed bezwaarschrift ter griffie; hem wordt door de griffier een bewijs van ontvangst afgegeven.
 
-2. Dit verzet zal alleen daarop kunnen gegrond zijn, dat door de verzoeker niet behoorlijk aan het voorschrift van [artikel 207](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Elfde&artikel=207&z=2006-02-01&g=2006-02-01) is voldaan.
+2. Dit verzet zal alleen daarop kunnen gegrond zijn, dat door de verzoeker niet behoorlijk aan het voorschrift van [artikel 207](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Elfde&artikel=207&z=2007-01-01&g=2007-01-01) is voldaan.
 
 ##### Artikel 210
 
@@ -1624,31 +1624,33 @@ Van de beslissing der rechtbank wordt noch hoger beroep, noch cassatie toegelate
 
 ##### Artikel 212
 
-Het vonnis, waarbij de rehabilitatie wordt toegestaan, wordt ter openbare terechtzitting uitgesproken, terwijl mede daarvan aantekening geschiedt in het in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=19&z=2006-02-01&g=2006-02-01) bedoelde register.
+Het vonnis, waarbij de rehabilitatie wordt toegestaan, wordt ter openbare terechtzitting uitgesproken, terwijl mede daarvan aantekening geschiedt in het in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=19&z=2007-01-01&g=2007-01-01) bedoelde register.
 
 ### afdeeling Negende. Vervallen
 
 ##### Artikel 212a
 
-Voor de toepassing van deze afdeling en [afdeling 11AA](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=11AA&z=2006-02-01&g=2006-02-01) wordt verstaan onder:
+Voor de toepassing van deze afdeling en [afdeling 11AA](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=11AA&z=2007-01-01&g=2007-01-01) wordt verstaan onder:
 
 - a. instelling:
 
-- 1°. een kredietinstelling als bedoeld in [artikel 1, eerste lid, onderdeel a, van de Wet toezicht kredietwezen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005792&artikel=1);
+- 1°. een kredietinstelling als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1);
 
-- 2°. een financiële instelling als bedoeld in [artikel 1, eerste lid, onderdeel c, van de Wet toezicht kredietwezen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005792&artikel=1);
+- 2°. een financiële instelling die een verklaring van ondertoezichtstelling als bedoeld in [artikel 3:110, eerste lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:110) heeft;
 
-- 3°. een effecteninstelling als bedoeld in [artikel 1, onderdeel d, van de Wet toezicht effectenverkeer 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&artikel=1);
+- 3°. een beleggingsonderneming als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1);
 
 - 4°. een centrale tegenpartij, indien deze in het kader van deelname aan het systeem op grond van een overboekingsopdracht effectentegoeden verkrijgt;
 
 - 5°. een overheidsinstantie of onderneming met overheidsgarantie;
 
-- 6°. een in een staat die niet een lidstaat is van de Europese Unie gevestigde onderneming of instelling die het bedrijf van kredietinstelling of effecteninstelling uitoefent door middel van een bijkantoor in Nederland;
+- 6°. een ieder, bedoeld in [artikel 3:4 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:4), die een vergunning heeft als bedoeld in [artikel 2:11 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:11);
+
+- 7°. een clearinginstelling als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1).
 
 - b. systeem:
 
-- 1°. een door de Minister van Financiën op grond van [artikel 212d](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=11A&artikel=212d&z=2006-02-01&g=2006-02-01) aangewezen systeem;
+- 1°. een door de Minister van Financiën op grond van [artikel 212d](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=11A&artikel=212d&z=2007-01-01&g=2007-01-01) aangewezen systeem;
 
 - 2°. een formele overeenkomst waarop het recht van een lidstaat van de Europese Unie van toepassing is en die door een andere lidstaat van de Europese Unie als systeem in de zin van [richtlijn nr. 98/26/EG](31998L0026) van het Europees Parlement en de Raad van de Europese Unie van 19 mei 1998 (PbEG L 166) is aangemeld bij de Commissie van de Europese Gemeenschappen;
 
@@ -1660,13 +1662,13 @@ Voor de toepassing van deze afdeling en [afdeling 11AA](https://wetten.overheid.
 
 - f. deelnemer: een instelling, een centrale tegenpartij, een afwikkelende instantie, dan wel een verrekeningsinstituut;
 
-- g. indirecte deelnemer: een kredietinstelling als bedoeld in [artikel 1, eerste lid, onderdeel a, van de Wet toezicht kredietwezen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005792&artikel=1), dan wel een financiële instelling als bedoeld in [artikel 1, eerste lid, onderdeel c, van de Wet toezicht kredietwezen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005792&artikel=1), die op grond van een overeenkomst met een instelling die deelneemt in een systeem via het systeem een geldsom ter beschikking van een ontvanger kan stellen door middel van een boeking in de rekening van een kredietinstelling, een financiële instelling, een centrale bank of een afwikkelende instantie;
+- g. indirecte deelnemer: een kredietinstelling als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1), of een financiële instelling als bedoeld in [artikel 1:1 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1), die op grond van een overeenkomst met een instelling die deelneemt in een systeem via het systeem een geldsom ter beschikking van een ontvanger kan stellen door middel van een boeking in de rekening van een kredietinstelling, een financiële instelling, een centrale bank of een afwikkelende instantie;
 
 - h. centrale bank: een centrale bank van een lidstaat van de Europese Unie, de centrale bank van een andere Staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, dan wel de Europese Centrale Bank;
 
-- i. bijkantoor: één of meer onderdelen zonder rechtspersoonlijkheid van een instelling die in een andere staat zijn gevestigd dan die waarin die instelling gevestigd is;
+- i. bijkantoor: een duurzaam in een andere staat dan de staat van de zetel aanwezig onderdeel zonder rechtspersoonlijkheid van een instelling;
 
-- j. effecten: effecten als bedoeld in [artikel 1, onderdeel a, van de Wet toezicht effectenverkeer 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&artikel=1);
+- j. effect: een effect als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1);
 
 - k. overboekingsopdracht: een opdracht door een deelnemer om door middel van een boeking op de rekeningen van een kredietinstelling, een centrale bank of een afwikkelende instantie een geldsom ter beschikking van een ontvanger te stellen, of iedere opdracht die resulteert in het op zich nemen of het nakomen van een betalingsverplichting zoals gedefinieerd in de regels van het systeem, dan wel een opdracht door een deelnemer om door middel van een boeking in een register of anderszins, de rechten op of de rechten ten aanzien van één of meer effecten over te boeken;
 
@@ -1678,11 +1680,11 @@ Voor de toepassing van deze afdeling en [afdeling 11AA](https://wetten.overheid.
 
 ##### Artikel 212b
 
-1. In afwijking van de [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=23&z=2006-02-01&g=2006-02-01) en [35](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=35&z=2006-02-01&g=2006-02-01) werkt de faillietverklaring van een instelling niet terug tot aan het begin van de dag waarop zij wordt uitgesproken, ten aanzien van een door die instelling vóór het tijdstip van faillietverklaring van die instelling gegeven overboekingsopdracht, opdracht tot verrekening of enige uit een dergelijke opdracht voortvloeiende betaling, levering, verrekening of andere rechtshandeling die benodigd is om de opdracht volledig in het systeem uit te voeren.
+1. In afwijking van de [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=23&z=2007-01-01&g=2007-01-01) en [35](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=35&z=2007-01-01&g=2007-01-01) werkt de faillietverklaring van een instelling niet terug tot aan het begin van de dag waarop zij wordt uitgesproken, ten aanzien van een door die instelling vóór het tijdstip van faillietverklaring van die instelling gegeven overboekingsopdracht, opdracht tot verrekening of enige uit een dergelijke opdracht voortvloeiende betaling, levering, verrekening of andere rechtshandeling die benodigd is om de opdracht volledig in het systeem uit te voeren.
 
-2. In afwijking van [artikel 63a](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=63a&z=2006-02-01&g=2006-02-01), geldt de afkoelingsperiode niet voor een bevoegdheid tot verhaal op tot de boedel behorende goederen of tot opeising van goederen die zich in de macht van de gefailleerde of de curator bevinden, noch voor de goederen waarop een dergelijke bevoegdheid betrekking heeft, indien die bevoegdheid is toegekend aan een centrale bank of, in verband met deelname aan het systeem, aan een andere instelling die deelneemt aan het systeem.
+2. In afwijking van [artikel 63a](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=63a&z=2007-01-01&g=2007-01-01), geldt de afkoelingsperiode niet voor een bevoegdheid tot verhaal op tot de boedel behorende goederen of tot opeising van goederen die zich in de macht van de gefailleerde of de curator bevinden, noch voor de goederen waarop een dergelijke bevoegdheid betrekking heeft, indien die bevoegdheid is toegekend aan een centrale bank of, in verband met deelname aan het systeem, aan een andere instelling die deelneemt aan het systeem.
 
-3. De [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=23&z=2006-02-01&g=2006-02-01), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=24&z=2006-02-01&g=2006-02-01), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=35&z=2006-02-01&g=2006-02-01), [53, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=53&z=2006-02-01&g=2006-02-01), en [54, tweede lid, van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=54&z=2006-02-01&g=2006-02-01), alsmede [artikel 72, aanhef en onder a, van boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=72), kunnen niet aan derden worden tegengeworpen ten aanzien van een door een instelling na het tijdstip van faillietverklaring van die instelling gegeven overboekingsopdracht, opdracht tot verrekening of enige uit een dergelijke opdracht voortvloeiende betaling, levering, verrekening of andere rechtshandeling die benodigd is om de opdracht volledig uit te voeren, indien de opdracht in het systeem wordt uitgevoerd op de dag van faillietverklaring en de centrale tegenpartij, de afwikkelende instantie of het verrekeningsinstituut kan aantonen dat deze ten tijde van de uitvoering van de opdracht de faillietverklaring niet kende of behoorde te kennen.
+3. De [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=23&z=2007-01-01&g=2007-01-01), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=24&z=2007-01-01&g=2007-01-01), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=35&z=2007-01-01&g=2007-01-01), [53, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=53&z=2007-01-01&g=2007-01-01), en [54, tweede lid, van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=54&z=2007-01-01&g=2007-01-01), alsmede [artikel 72, aanhef en onder a, van boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=72), kunnen niet aan derden worden tegengeworpen ten aanzien van een door een instelling na het tijdstip van faillietverklaring van die instelling gegeven overboekingsopdracht, opdracht tot verrekening of enige uit een dergelijke opdracht voortvloeiende betaling, levering, verrekening of andere rechtshandeling die benodigd is om de opdracht volledig uit te voeren, indien de opdracht in het systeem wordt uitgevoerd op de dag van faillietverklaring en de centrale tegenpartij, de afwikkelende instantie of het verrekeningsinstituut kan aantonen dat deze ten tijde van de uitvoering van de opdracht de faillietverklaring niet kende of behoorde te kennen.
 
 4. Het eerste en het derde lid zijn van overeenkomstige toepassing op de toekenning en op de uitoefening van een bevoegdheid als bedoeld in het tweede lid.
 
@@ -1690,7 +1692,7 @@ Voor de toepassing van deze afdeling en [afdeling 11AA](https://wetten.overheid.
 
 1. De griffier van de rechtbank stelt De Nederlandsche Bank N.V. terstond in kennis van de faillietverklaring.
 
-2. De Nederlandsche Bank N.V. stelt daarna terstond de door de Minister van Financiën op grond van [artikel 212d](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=11A&artikel=212d&z=2006-02-01&g=2006-02-01) aangewezen systemen, alsmede de bevoegde autoriteiten van de overige lidstaten van de Europese Unie en van de andere staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte, in kennis van de faillietverklaring.
+2. De Nederlandsche Bank N.V. stelt daarna terstond de door de Minister van Financiën op grond van [artikel 212d](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=11A&artikel=212d&z=2007-01-01&g=2007-01-01) aangewezen systemen, alsmede de bevoegde autoriteiten van de overige lidstaten van de Europese Unie en van de andere staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte, in kennis van de faillietverklaring.
 
 ##### Artikel 212d
 
@@ -1722,25 +1724,25 @@ Wanneer, in verband met deelname aan het systeem, een deelnemer of een centrale 
 
 Voor de toepassing van deze afdeling wordt verstaan onder:
 
-- a. verzekeraar: de verzekeraar, bedoeld in [artikel 1, onderdeel h, van de Wet toezicht verzekeringsbedrijf 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006509&artikel=1):
+- a. verzekeraar: een schadeverzekeraar of levensverzekeraar als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1):
 
-- 1. die in het bezit is van een vergunning als bedoeld in [artikel 24 van de Wet toezicht verzekeringsbedrijf 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006509&artikel=24), hem door de Pensioen- & Verzekeringskamer verleend dan wel, indien hij zijn zetel in een andere lidstaat dan Nederland heeft van een daarmee overeenkomende vergunning, hem door de toezichthoudende autoriteit van die lidstaat verleend;
+- 1. die een vergunning heeft ingevolge de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) dan wel, indien hij zijn zetel in een andere lidstaat dan Nederland heeft, een daarmee overeenkomende vergunning, hem door de toezichthoudende autoriteit van die lidstaat verleend;
 
 - 2. waarvan de vergunning, bedoeld onder 1, is ingetrokken of vervallen; of
 
-- 3. die nimmer in het bezit is geweest van een door de Pensioen- & Verzekeringskamer verleende vergunning dan wel, indien de verzekeraar zijn zetel in een andere lidstaat dan Nederland heeft, de verzekeraar met zetel in een andere lidstaat dan Nederland met een bijkantoor in Nederland, die nimmer in het bezit is geweest van een daarmee overeenkomende, door de toezichthoudende autoriteit van die lidstaat verleende vergunning.
+- 3. die nimmer in het bezit is geweest van een door de Nederlandsche Bank N.V. verleende vergunning dan wel, indien de verzekeraar zijn zetel in een andere lidstaat dan Nederland heeft, de verzekeraar met zetel in een andere lidstaat dan Nederland met een bijkantoor in Nederland, die nimmer in het bezit is geweest van een daarmee overeenkomende, door de toezichthoudende autoriteit van die lidstaat verleende vergunning.
 
-- b. overeenkomst van schadeverzekering: een overeenkomst als bedoeld in [artikel 1, eerste lid, onderdeel a, van de Wet toezicht verzekeringsbedrijf 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006509&artikel=1);
+- b. overeenkomst van schadeverzekering: een overeenkomst van schadeverzekering als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1);
 
-- c. overeenkomst van levensverzekering: een overeenkomst als bedoeld in [artikel 1, eerste lid, onderdeel b, van de Wet toezicht verzekeringsbedrijf 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006509&artikel=1);
+- c. overeenkomst van levensverzekering: een overeenkomst van levensverzekering als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1);
 
-- d. schadeverzekeraar: een schadeverzekeraar als bedoeld in [artikel 1, eerste lid, onderdeel f, van de Wet toezicht verzekeringsbedrijf 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006509&artikel=1);
+- d. schadeverzekeraar: een schadeverzekeraar als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1);
 
-- e. levensverzekeraar: een levensverzekeraar als bedoeld in [artikel 1, onderdeel g, van de Wet toezicht verzekeringsbedrijf 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006509&artikel=1);
+- e. levensverzekeraar: een levensverzekeraar als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1);
 
-- f. zetel: de plaats waar de verzekeraar overeenkomstig zijn statuten zijn zetel heeft;
+- f. zetel: de plaats waar een verzekeraar volgens zijn statuten of reglementen is gevestigd of, indien hij geen rechtspersoon is, de plaats waar die verzekeraar zijn hoofdvestiging heeft;
 
-- g. bijkantoor: elke duurzame aanwezigheid, met uitzondering van de zetel, van een verzekeraar op het grondgebied van een staat, ook indien er slechts sprake is van een bureau, beheerd door eigen personeel van de verzekeraar of door een zelfstandig persoon die gemachtigd is duurzaam voor de verzekeraar op te treden;
+- g. bijkantoor: een duurzame aanwezigheid van een verzekeraar, met uitzondering van de zetel, beheerd door eigen personeel van de verzekeraar of door een zelfstandig persoon die is gemachtigd duurzaam voor de verzekeraar op te treden;
 
 - h. liquidatieprocedure: een collectieve procedure, het faillissement daaronder begrepen, geopend in een lidstaat van de Europese Unie, die het te gelde maken van de activa van een verzekeraar en het op toepasselijke wijze verdelen van de opbrengst onder de schuldeisers, aandeelhouders of leden behelst, en die noodzakelijkerwijs een optreden van de administratieve of rechterlijke instanties van die lidstaat behelst, daaronder begrepen de collectieve procedure die wordt afgesloten met een gerechtelijk akkoord of een andere maatregel van dezelfde strekking, ongeacht of de procedure op insolventie berust en ongeacht of de procedure op eigen aangifte van de verzekeraar dan wel op verzoek van een ander is geopend;
 
@@ -1756,23 +1758,23 @@ Voor de toepassing van deze afdeling wordt verstaan onder:
 
 - n. vordering uit hoofde van verzekering: de uit een overeenkomst van verzekering voortvloeiende vordering, rechtstreeks op de verzekeraar;
 
-- o. noodregeling: de noodregeling, bedoeld in [artikel 156 van de Wet toezicht verzekeringsbedrijf 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006509&artikel=156).
+- o. noodregeling: de noodregeling, bedoeld in [afdeling 3.5.5 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&afdeling=3.5.5).
 
 ##### Artikel 214
 
 1. De schuldenaar die voorziet, dat hij met het betalen van zijn opeisbare schulden niet zal kunnen voortgaan, kan surseance van betaling aanvragen.
 
-2. Hij zal zich daartoe, onder overlegging van een door behoorlijke bescheiden gestaafde staat als bedoeld in [artikel 96](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vierde&artikel=96&z=2006-02-01&g=2006-02-01), bij verzoekschrift, door hemzelf en zijn procureur ondertekend, wenden tot de rechtbank, aangewezen in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=2&z=2006-02-01&g=2006-02-01). Het verzoekschrift bevat zodanige gegevens dat de rechter kan beoordelen of hem rechtsmacht toekomt op grond van de verordening, genoemd in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=5&z=2006-02-01&g=2006-02-01).
+2. Hij zal zich daartoe, onder overlegging van een door behoorlijke bescheiden gestaafde staat als bedoeld in [artikel 96](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vierde&artikel=96&z=2007-01-01&g=2007-01-01), bij verzoekschrift, door hemzelf en zijn procureur ondertekend, wenden tot de rechtbank, aangewezen in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=2&z=2007-01-01&g=2007-01-01). Het verzoekschrift bevat zodanige gegevens dat de rechter kan beoordelen of hem rechtsmacht toekomt op grond van de verordening, genoemd in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=5&z=2007-01-01&g=2007-01-01).
 
 3. Bij het verzoekschrift kan een ontwerp van een akkoord worden gevoegd.
 
-4. Surseance van betaling wordt niet verleend aan een natuurlijke persoon die geen zelfstandig beroep of bedrijf uitoefent, noch aan een kredietinstelling als bedoeld in [artikel 212g, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=11AA&paragraaf=1&artikel=212g&z=2006-02-01&g=2006-02-01), noch aan een verzekeraar als bedoeld in [artikel 213](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=11B&paragraaf=1&artikel=213&z=2006-02-01&g=2006-02-01).
+4. Surseance van betaling wordt niet verleend aan een natuurlijke persoon die geen zelfstandig beroep of bedrijf uitoefent, noch aan een kredietinstelling als bedoeld in [artikel 212g, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=11AA&paragraaf=1&artikel=212g&z=2007-01-01&g=2007-01-01), noch aan een verzekeraar als bedoeld in [artikel 213](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=11B&paragraaf=1&artikel=213&z=2007-01-01&g=2007-01-01).
 
 ##### Artikel 215
 
 1. Het verzoekschrift met bijbehorende stukken wordt ter griffie van de rechtbank neergelegd, ter kosteloze inzage van een ieder.
 
-2. De rechtbank zal dadelijk de gevraagde surseance voorlopig verlenen en een of meer bewindvoerders benoemen, ten einde met de schuldenaar het beheer over diens zaken te voeren. Bovendien beveelt zij, dat de bekende schuldeisers, benevens de schuldenaar, tegen een door haar op korte termijn bepaalde dag, door de griffier bij brieven worden opgeroepen, ten einde, alvorens beslist wordt omtrent het definitief verlenen van de gevraagde surseance, op het verzoekschrift te worden gehoord. Behalve de dag worden uur en plaats der bijeenkomst daarbij vermeld, alsmede of een ontwerp van akkoord bij het verzoekschrift is gevoegd. [Artikel 6, eerste lid, derde zin, en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=6&z=2006-02-01&g=2006-02-01), is van overeenkomstige toepassing.
+2. De rechtbank zal dadelijk de gevraagde surseance voorlopig verlenen en een of meer bewindvoerders benoemen, ten einde met de schuldenaar het beheer over diens zaken te voeren. Bovendien beveelt zij, dat de bekende schuldeisers, benevens de schuldenaar, tegen een door haar op korte termijn bepaalde dag, door de griffier bij brieven worden opgeroepen, ten einde, alvorens beslist wordt omtrent het definitief verlenen van de gevraagde surseance, op het verzoekschrift te worden gehoord. Behalve de dag worden uur en plaats der bijeenkomst daarbij vermeld, alsmede of een ontwerp van akkoord bij het verzoekschrift is gevoegd. [Artikel 6, eerste lid, derde zin, en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=6&z=2007-01-01&g=2007-01-01), is van overeenkomstige toepassing.
 
 ##### Artikel 216
 
@@ -1786,7 +1788,7 @@ De surseance wordt geacht te zijn ingegaan bij de aanvang van de dag, waarop zij
 
 1. Ten bepaalden dage hoort de rechtbank in raadkamer de schuldenaar, de rechter-commissaris zo die is benoemd, de bewindvoerders en de in persoon bij schriftelijk gemachtigde of bij procureur opgekomen schuldeisers. Iedere schuldeiser is bevoegd om, zelfs zonder opgeroepen te zijn, op te komen.
 
-2. De rechtbank kan de schuldenaar definitief surseance verlenen, tenzij zich daartegen verklaren hetzij houders van meer dan één vierde van het bedrag der ter vergadering vertegenwoordigde, in [artikel 233](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=233&z=2006-02-01&g=2006-02-01) bedoelde, schuldvorderingen, hetzij meer dan één derde der houders van zodanige vorderingen.
+2. De rechtbank kan de schuldenaar definitief surseance verlenen, tenzij zich daartegen verklaren hetzij houders van meer dan één vierde van het bedrag der ter vergadering vertegenwoordigde, in [artikel 233](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=233&z=2007-01-01&g=2007-01-01) bedoelde, schuldvorderingen, hetzij meer dan één derde der houders van zodanige vorderingen.
 
 3. Over de toelating tot de stemming beslist, bij verschil, de rechtbank.
 
@@ -1806,7 +1808,7 @@ De surseance wordt geacht te zijn ingegaan bij de aanvang van de dag, waarop zij
 
 3. Indien het hoger beroep door een schuldeiser is ingesteld, geeft deze uiterlijk op de vierde dag volgende op die, waarop hij zijn verzoek heeft gedaan, aan de procureur, die het verzoek tot surseance heeft ingediend, bij deurwaardersexploot kennis van het hoger beroep en van de tijd voor de behandeling bepaald. Deze kennisgeving geldt voor oproeping van de schuldenaar.
 
-4. De griffier van het gerechtshof doet van het hoger beroep en van de tijd, voor de behandeling bepaald, aankondiging in de Staatscourant. Tevens geeft hij van het ingestelde hoger beroep aan de griffier der rechtbank kennis, neemt van deze de in [artikel 214](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=214&z=2006-02-01&g=2006-02-01) bedoelde stukken over en legt die op zijn griffie voor een ieder ter kosteloze inzage.
+4. De griffier van het gerechtshof doet van het hoger beroep en van de tijd, voor de behandeling bepaald, aankondiging in de Staatscourant. Tevens geeft hij van het ingestelde hoger beroep aan de griffier der rechtbank kennis, neemt van deze de in [artikel 214](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=214&z=2007-01-01&g=2007-01-01) bedoelde stukken over en legt die op zijn griffie voor een ieder ter kosteloze inzage.
 
 ##### Artikel 220
 
@@ -1820,15 +1822,15 @@ De surseance wordt geacht te zijn ingegaan bij de aanvang van de dag, waarop zij
 
 2. Het beroep in cassatie wordt ingesteld bij een verzoekschrift, in te dienen ter griffie van de Hoge Raad. De voorzitter bepaalt terstond dag en uur voor de behandeling.
 
-3. De griffier van de Hoge Raad doet van het beroep in cassatie en van de tijd, voor de behandeling bepaald, aankondiging in de Staatscourant. Tevens geeft hij van het ingestelde beroep kennis aan de griffier van het gerechtshof, neemt van deze de in [artikel 214](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=214&z=2006-02-01&g=2006-02-01) bedoelde stukken over en legt die op zijn griffie voor een ieder ter kosteloze inzage.
+3. De griffier van de Hoge Raad doet van het beroep in cassatie en van de tijd, voor de behandeling bepaald, aankondiging in de Staatscourant. Tevens geeft hij van het ingestelde beroep kennis aan de griffier van het gerechtshof, neemt van deze de in [artikel 214](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=214&z=2007-01-01&g=2007-01-01) bedoelde stukken over en legt die op zijn griffie voor een ieder ter kosteloze inzage.
 
-4. De bepalingen van het [derde lid van artikel 219](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=219&z=2006-02-01&g=2006-02-01) en van het [tweede lid van artikel 220](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=220&z=2006-02-01&g=2006-02-01) vinden overeenkomstige toepassing.
+4. De bepalingen van het [derde lid van artikel 219](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=219&z=2007-01-01&g=2007-01-01) en van het [tweede lid van artikel 220](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=220&z=2007-01-01&g=2007-01-01) vinden overeenkomstige toepassing.
 
 ##### Artikel 222
 
 1. De beschikking, waarbij de surseance definitief wordt toegestaan, is bij voorraad uitvoerbaar, niettegenstaande enige daartegen gerichte voorziening.
 
-2. Zij wordt aangekondigd op de wijze, in [artikel 216](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=216&z=2006-02-01&g=2006-02-01) voorgeschreven.
+2. Zij wordt aangekondigd op de wijze, in [artikel 216](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=216&z=2007-01-01&g=2007-01-01) voorgeschreven.
 
 ##### Artikel 222a
 
@@ -1846,7 +1848,7 @@ De surseance wordt geacht te zijn ingegaan bij de aanvang van de dag, waarop zij
 
 3. De griffier is verplicht aan ieder kosteloze inzage van het register en tegen betaling een uittreksel daaruit te verstrekken.
 
-4. De griffier geeft de in het eerste lid onder 1° tot en met 4° genoemde gegevens door aan Onze Minister van Justitie of een bij algemene maatregel van bestuur aan te wijzen ander orgaan ten behoeve van het in [artikel 222b](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=222b&z=2006-02-01&g=2006-02-01) genoemde centrale register.
+4. De griffier geeft de in het eerste lid onder 1° tot en met 4° genoemde gegevens door aan Onze Minister van Justitie of een bij algemene maatregel van bestuur aan te wijzen ander orgaan ten behoeve van het in [artikel 222b](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=222b&z=2007-01-01&g=2007-01-01) genoemde centrale register.
 
 ##### Artikel 223
 
@@ -1868,7 +1870,7 @@ Bij het voorlopig verlenen der surseance of bij een latere beschikking kan de re
 
 ##### Artikel 224
 
-1. Indien meer dan één bewindvoerder is benoemd, wordt voor de geldigheid hunner handelingen toestemming der meerderheid of bij staking van stemmen een beslissing van de rechter-commissaris zo die is benoemd of, bij gebreke van dien, van de voorzieningenrechter der rechtbank vereist. Het [tweede lid van artikel 70](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Derde&paragraaf=2&artikel=70&z=2006-02-01&g=2006-02-01) vindt overeenkomstige toepassing.
+1. Indien meer dan één bewindvoerder is benoemd, wordt voor de geldigheid hunner handelingen toestemming der meerderheid of bij staking van stemmen een beslissing van de rechter-commissaris zo die is benoemd of, bij gebreke van dien, van de voorzieningenrechter der rechtbank vereist. Het [tweede lid van artikel 70](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Derde&paragraaf=2&artikel=70&z=2007-01-01&g=2007-01-01) vindt overeenkomstige toepassing.
 
 2. De rechtbank kan te allen tijde een bewindvoerder, na hem gehoord of behoorlijk opgeroepen te hebben, ontslaan en door een ander vervangen of hem één of meer bewindvoerders toevoegen, een en ander op verzoek van hemzelf, van de andere bewindvoerders of van één of meer schuldeisers, op voordracht van de rechter-commissaris zo die is benoemd, dan wel ambtshalve.
 
@@ -1880,17 +1882,17 @@ Bij het voorlopig verlenen der surseance of bij een latere beschikking kan de re
 
 ##### Artikel 226
 
-1. Bij het voorlopig verlenen der surseance kan de rechtbank één of meer deskundigen benoemen teneinde binnen een door haar te bepalen termijn, die zo nodig kan worden verlengd, een onderzoek naar de staat van de boedel in te stellen en een beredeneerd verslag van hun bevinding uit te brengen. Het [laatste lid van artikel 225](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=225&z=2006-02-01&g=2006-02-01) vindt overeenkomstige toepassing.
+1. Bij het voorlopig verlenen der surseance kan de rechtbank één of meer deskundigen benoemen teneinde binnen een door haar te bepalen termijn, die zo nodig kan worden verlengd, een onderzoek naar de staat van de boedel in te stellen en een beredeneerd verslag van hun bevinding uit te brengen. Het [laatste lid van artikel 225](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=225&z=2007-01-01&g=2007-01-01) vindt overeenkomstige toepassing.
 
 2. Het verslag van de deskundigen bevat een met redenen omkleed oordeel over de betrouwbaarheid van de door de schuldenaar overgelegde staat en bescheiden, en over de vraag of er vooruitzicht bestaat, dat de schuldenaar na verloop van tijd zijn schuldeisers zal kunnen bevredigen. Het verslag geeft zo mogelijk de maatregelen aan, welke tot die bevrediging kunnen leiden.
 
 3. De deskundigen leggen hun verslag neder ter griffie van de rechtbank, ter kosteloze inzage van een ieder. De neerlegging geschiedt kosteloos.
 
-4. Het [laatste lid van artikel 224](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=224&z=2006-02-01&g=2006-02-01) vindt ten aanzien van de deskundigen overeenkomstige toepassing.
+4. Het [laatste lid van artikel 224](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=224&z=2007-01-01&g=2007-01-01) vindt ten aanzien van de deskundigen overeenkomstige toepassing.
 
 ##### Artikel 227
 
-1. De bewindvoerders brengen, telkens na verloop van drie maanden, een verslag uit over de toestand van de boedel. Met dit verslag wordt gehandeld, gelijk in het [derde lid van artikel 226](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=226&z=2006-02-01&g=2006-02-01) is voorgeschreven.
+1. De bewindvoerders brengen, telkens na verloop van drie maanden, een verslag uit over de toestand van de boedel. Met dit verslag wordt gehandeld, gelijk in het [derde lid van artikel 226](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=226&z=2007-01-01&g=2007-01-01) is voorgeschreven.
 
 2. De termijn, bedoeld in het vorige lid, kan door de rechter-commissaris zo die is benoemd of, bij gebreke van dien, de rechtbank worden verlengd.
 
@@ -1904,17 +1906,17 @@ Bij het voorlopig verlenen der surseance of bij een latere beschikking kan de re
 
 1. Indien de schuldenaar in enige gemeenschap gehuwd is of in enige gemeenschap een geregistreerd partnerschap is aangegaan, worden onder de boedel de baten en lasten van die gemeenschap begrepen.
 
-2. [Artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=61&z=2006-02-01&g=2006-02-01) vindt overeenkomstige toepassing.
+2. [Artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=61&z=2007-01-01&g=2007-01-01) vindt overeenkomstige toepassing.
 
 ##### Artikel 230
 
-1. Gedurende de surseance kan de schuldenaar niet tot betaling zijner in [artikel 233](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=233&z=2006-02-01&g=2006-02-01) bedoelde schulden worden genoodzaakt en blijven alle tot verhaal van die schulden aangevangen executies geschorst.
+1. Gedurende de surseance kan de schuldenaar niet tot betaling zijner in [artikel 233](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=233&z=2007-01-01&g=2007-01-01) bedoelde schulden worden genoodzaakt en blijven alle tot verhaal van die schulden aangevangen executies geschorst.
 
 2. De gelegde beslagen vervallen en de schuldenaar, die zich in gijzeling bevindt, wordt daaruit ontslagen, zodra de uitspraak, houdende definitieve verlening der surseance of homologatie van het akkoord, in kracht van gewijsde is gegaan, beide tenzij de rechtbank op verzoek van de bewindvoerders reeds een vroeger tijdstip daarvoor heeft bepaald. De inschrijving van een desbetreffende, op verzoek van de bewindvoerders af te geven verklaring van de rechter-commissaris of, zo geen rechter-commissaris is benoemd, van de voorzieningenrechter van de rechtbank, machtigt de bewaarder van de openbare registers tot doorhaling.
 
 3. Het in de voorgaande leden bepaalde vindt geen toepassing ten aanzien van executies en beslagen ten behoeve van vorderingen waaraan voorrang is verbonden, voorzover het de goederen betreft, waarop de voorrang rust.
 
-4. Ter zake van schulden waarvoor het eerste lid geldt, is [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=36&z=2006-02-01&g=2006-02-01) van overeenkomstige toepassing.
+4. Ter zake van schulden waarvoor het eerste lid geldt, is [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=36&z=2007-01-01&g=2007-01-01) van overeenkomstige toepassing.
 
 ##### Artikel 231
 
@@ -1942,7 +1944,7 @@ De betaling van alle andere schulden, bestaande vóór de aanvang der surseance,
 
 1. Hij die zowel schuldenaar als schuldeiser van de boedel is, kan zijn schuld met zijn vordering op de boedel verrekenen, indien beide zijn ontstaan vóór de aanvang van de surseance of voortvloeien uit een handeling vóór de aanvang van de surseance met de schuldenaar verricht.
 
-2. De vordering op de schuldenaar wordt zo nodig berekend naar de regels in de [artikelen 261](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Tweede&artikel=261&z=2006-02-01&g=2006-02-01) en [262](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Tweede&artikel=262&z=2006-02-01&g=2006-02-01) gesteld.
+2. De vordering op de schuldenaar wordt zo nodig berekend naar de regels in de [artikelen 261](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Tweede&artikel=261&z=2007-01-01&g=2007-01-01) en [262](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Tweede&artikel=262&z=2007-01-01&g=2007-01-01) gesteld.
 
 3. Van de zijde van de boedel kan geen beroep worden gedaan op [artikel 136 van Boek 6 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=136).
 
@@ -1952,7 +1954,7 @@ De betaling van alle andere schulden, bestaande vóór de aanvang der surseance,
 
 2. Na de aanvang van de surseance overgenomen vorderingen of schulden kunnen niet worden verrekend.
 
-3. De [artikelen 55](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=55&z=2006-02-01&g=2006-02-01) en [56](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=56&z=2006-02-01&g=2006-02-01) zijn van overeenkomstige toepassing.
+3. De [artikelen 55](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=55&z=2007-01-01&g=2007-01-01) en [56](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=56&z=2007-01-01&g=2007-01-01) zijn van overeenkomstige toepassing.
 
 ##### Artikel 236
 
@@ -1964,11 +1966,11 @@ De betaling van alle andere schulden, bestaande vóór de aanvang der surseance,
 
 ##### Artikel 236a
 
-Voor vorderingen die de wederpartij uit hoofde van ontbinding of vernietiging van een vóór de aanvang van de surseance met de schuldenaar gesloten overeenkomst op deze heeft verkregen, of die strekken tot schadevergoeding ter zake van tekortschieten in de nakoming van een vóór de aanvang van de surseance op deze verkregen vordering, kan zij opkomen op de voet, in [artikel 233](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=233&z=2006-02-01&g=2006-02-01) bepaald.
+Voor vorderingen die de wederpartij uit hoofde van ontbinding of vernietiging van een vóór de aanvang van de surseance met de schuldenaar gesloten overeenkomst op deze heeft verkregen, of die strekken tot schadevergoeding ter zake van tekortschieten in de nakoming van een vóór de aanvang van de surseance op deze verkregen vordering, kan zij opkomen op de voet, in [artikel 233](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=233&z=2007-01-01&g=2007-01-01) bepaald.
 
 ##### Artikel 237
 
-Indien in het geval van [artikel 236](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=236&z=2006-02-01&g=2006-02-01) de levering van waren, die ter beurze op termijn worden verhandeld, bedongen is tegen een vastgesteld tijdstip of binnen een bepaalde termijn, en dit tijdstip invalt of die termijn verstrijkt na de aanvang der surseance, wordt de overeenkomst door de voorlopige verlening van surseance ontbonden en kan de wederpartij van de schuldenaar zonder meer voor schadevergoeding opkomen op de voet, in [artikel 233](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=233&z=2006-02-01&g=2006-02-01) bepaald. Lijdt de boedel door de ontbinding schade dan is de wederpartij verplicht deze te vergoeden.
+Indien in het geval van [artikel 236](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=236&z=2007-01-01&g=2007-01-01) de levering van waren, die ter beurze op termijn worden verhandeld, bedongen is tegen een vastgesteld tijdstip of binnen een bepaalde termijn, en dit tijdstip invalt of die termijn verstrijkt na de aanvang der surseance, wordt de overeenkomst door de voorlopige verlening van surseance ontbonden en kan de wederpartij van de schuldenaar zonder meer voor schadevergoeding opkomen op de voet, in [artikel 233](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=233&z=2007-01-01&g=2007-01-01) bepaald. Lijdt de boedel door de ontbinding schade dan is de wederpartij verplicht deze te vergoeden.
 
 ##### Artikel 237a
 
@@ -1976,11 +1978,11 @@ Indien in het geval van [artikel 236](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 2. Deze ontbinding heeft dezelfde gevolgen als ontbinding der overeenkomst wegens het niet nakomen door de koper van zijn verplichtingen.
 
-3. De verkoper kan voor het hem verschuldigde bedrag opkomen op de voet als in [artikel 233](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=233&z=2006-02-01&g=2006-02-01) bepaald.
+3. De verkoper kan voor het hem verschuldigde bedrag opkomen op de voet als in [artikel 233](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=233&z=2007-01-01&g=2007-01-01) bepaald.
 
 ##### Artikel 238
 
-1. Zodra de surseance een aanvang heeft genomen, kan de schuldenaar, die huurder is, met inachtneming van het bij [artikel 228](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=228&z=2006-02-01&g=2006-02-01) bepaalde, de huur tussentijds doen eindigen, mits de opzegging geschiede tegen een tijdstip, waarop dergelijke overeenkomsten naar plaatselijk gebruik eindigen. Bovendien moet bij de opzegging de daarvoor overeengekomen of gebruikelijke termijn in acht genomen worden, met dien verstande echter, dat een termijn van drie maanden in elk geval voldoende zal zijn. Zijn de huurpenningen vooruit betaald, dan kan de huur niet eerder worden opgezegd dan tegen de dag, waarop de termijn, waarvoor vooruitbetaling heeft plaats gehad, eindigt.
+1. Zodra de surseance een aanvang heeft genomen, kan de schuldenaar, die huurder is, met inachtneming van het bij [artikel 228](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=228&z=2007-01-01&g=2007-01-01) bepaalde, de huur tussentijds doen eindigen, mits de opzegging geschiede tegen een tijdstip, waarop dergelijke overeenkomsten naar plaatselijk gebruik eindigen. Bovendien moet bij de opzegging de daarvoor overeengekomen of gebruikelijke termijn in acht genomen worden, met dien verstande echter, dat een termijn van drie maanden in elk geval voldoende zal zijn. Zijn de huurpenningen vooruit betaald, dan kan de huur niet eerder worden opgezegd dan tegen de dag, waarop de termijn, waarvoor vooruitbetaling heeft plaats gehad, eindigt.
 
 2. Van de aanvang der surseance af is de huurprijs boedelschuld.
 
@@ -1988,7 +1990,7 @@ Indien in het geval van [artikel 236](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 ##### Artikel 239
 
-1. Zodra de surseance een aanvang heeft genomen, kan de schuldenaar, met inachtneming van het bij [artikel 228](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=228&z=2006-02-01&g=2006-02-01) bepaalde, aan werknemers in zijn dienst, de arbeidsovereenkomst opzeggen, met inachtneming van de overeengekomen of wettelijke termijnen, met dien verstande echter, dat in elk geval de arbeidsovereenkomst kan worden geëindigd door opzegging met een termijn van zes weken of, indien de termijn, omschreven in [artikel 672 lid 2 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=672) langer is dan zes weken, met inachtneming van die termijn.
+1. Zodra de surseance een aanvang heeft genomen, kan de schuldenaar, met inachtneming van het bij [artikel 228](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=228&z=2007-01-01&g=2007-01-01) bepaalde, aan werknemers in zijn dienst, de arbeidsovereenkomst opzeggen, met inachtneming van de overeengekomen of wettelijke termijnen, met dien verstande echter, dat in elk geval de arbeidsovereenkomst kan worden geëindigd door opzegging met een termijn van zes weken of, indien de termijn, omschreven in [artikel 672 lid 2 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=672) langer is dan zes weken, met inachtneming van die termijn.
 
 2. Zodra de surseance een aanvang heeft genomen, behoeft bij opzegging der arbeidsovereenkomst door werknemers in dienst van de schuldenaar het bepaalde in [artikel 672 lid 3 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=672) niet in acht te worden genomen.
 
@@ -2026,7 +2028,7 @@ De surseance werkt niet ten voordele van de borgen en andere medeschuldenaren.
 
 - 2°. indien hij zijn schuldeisers tracht te benadelen;
 
-- 3°. indien hij handelt in strijd met [artikel 228, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=228&z=2006-02-01&g=2006-02-01);
+- 3°. indien hij handelt in strijd met [artikel 228, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=228&z=2007-01-01&g=2007-01-01);
 
 - 4°. indien hij nalaat te doen, wat in de bepalingen, door de rechtbank bij het verlenen der surseance of later gesteld, aan hem is opgelegd of wat naar het oordeel der bewindvoerders door hem in het belang des boedels moet worden gedaan;
 
@@ -2058,11 +2060,11 @@ De surseance werkt niet ten voordele van de borgen en andere medeschuldenaren.
 
 ##### Artikel 245
 
-Zodra een beschikking, waarbij de surseance is ingetrokken, in kracht van gewijsde is gegaan, wordt zij aangekondigd, gelijk is voorgeschreven in [artikel 216](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=216&z=2006-02-01&g=2006-02-01).
+Zodra een beschikking, waarbij de surseance is ingetrokken, in kracht van gewijsde is gegaan, wordt zij aangekondigd, gelijk is voorgeschreven in [artikel 216](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=216&z=2007-01-01&g=2007-01-01).
 
 ##### Artikel 246
 
-1. Indien de rechtbank van oordeel is, dat de behandeling van het verzoek tot intrekking van de surseance niet zal zijn beëindigd vóór de dag, waarop de schuldeisers krachtens [artikel 215, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=215&z=2006-02-01&g=2006-02-01), worden gehoord, gelast zij, dat de griffier de schuldeisers bij brieven zal mededelen, dat dit verhoor op die dag niet zal worden gehouden.
+1. Indien de rechtbank van oordeel is, dat de behandeling van het verzoek tot intrekking van de surseance niet zal zijn beëindigd vóór de dag, waarop de schuldeisers krachtens [artikel 215, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=215&z=2007-01-01&g=2007-01-01), worden gehoord, gelast zij, dat de griffier de schuldeisers bij brieven zal mededelen, dat dit verhoor op die dag niet zal worden gehouden.
 
 2. Zo nodig bepaalt zij later de dag waarop dit verhoor alsnog zal plaats vinden; de schuldeisers worden door de griffier bij brieven opgeroepen.
 
@@ -2074,17 +2076,17 @@ Zodra een beschikking, waarbij de surseance is ingetrokken, in kracht van gewijs
 
 ##### Artikel 247a
 
-1. Uiterlijk op de achtste dag voorafgaande aan de dag bepaald overeenkomstig [artikel 215, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=215&z=2006-02-01&g=2006-02-01), doch in ieder geval niet later dan twee maanden na de dag waarop de surseance voorlopig is verleend, kan de rechtbank op verzoek van de schuldenaar, zijnde een natuurlijke persoon, de hem voorlopig verleende surseance intrekken onder het gelijktijdig uitspreken van de toepassing van de schuldsaneringsregeling bedoeld in [titel III](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&z=2006-02-01&g=2006-02-01).
+1. Uiterlijk op de achtste dag voorafgaande aan de dag bepaald overeenkomstig [artikel 215, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=215&z=2007-01-01&g=2007-01-01), doch in ieder geval niet later dan twee maanden na de dag waarop de surseance voorlopig is verleend, kan de rechtbank op verzoek van de schuldenaar, zijnde een natuurlijke persoon, de hem voorlopig verleende surseance intrekken onder het gelijktijdig uitspreken van de toepassing van de schuldsaneringsregeling bedoeld in [titel III](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&z=2007-01-01&g=2007-01-01).
 
-2. De schuldenaar zal zich daartoe bij een verzoekschrift als bedoeld in [artikel 284](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Eerste&artikel=284&z=2006-02-01&g=2006-02-01) wenden tot de rechtbank die de surseance voorlopig heeft verleend.
+2. De schuldenaar zal zich daartoe bij een verzoekschrift als bedoeld in [artikel 284](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Eerste&artikel=284&z=2007-01-01&g=2007-01-01) wenden tot de rechtbank die de surseance voorlopig heeft verleend.
 
 3. Alvorens te beslissen kan de rechtbank de schuldenaar, de rechter-commissaris en de bewindvoerder oproepen om te worden gehoord.
 
-4. [Artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=6&z=2006-02-01&g=2006-02-01), is van toepassing.
+4. [Artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=6&z=2007-01-01&g=2007-01-01), is van toepassing.
 
 5. Bij toewijzing van het verzoek, spreekt de rechtbank de definitieve toepassing van de schuldsaneringsregeling uit.
 
-6. Van de intrekking van de voorlopig verleende surseance wordt door de griffier kennis gegeven in de aankondiging die is voorgeschreven in [artikel 293](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Eerste&artikel=293&z=2006-02-01&g=2006-02-01). In die aankondiging wordt tevens mededeling gedaan dat het verhoor van de schuldeisers, bepaald overeenkomstig [artikel 215, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=215&z=2006-02-01&g=2006-02-01), niet zal worden gehouden. Indien op de voet van [artikel 255](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Tweede&artikel=255&z=2006-02-01&g=2006-02-01) of [264](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Tweede&artikel=264&z=2006-02-01&g=2006-02-01) reeds een tijdstip was bepaald voor de raadpleging en stemming over een akkoord, wordt in die aankondiging mededeling gedaan dat die raadpleging en stemming niet zullen plaatsvinden.
+6. Van de intrekking van de voorlopig verleende surseance wordt door de griffier kennis gegeven in de aankondiging die is voorgeschreven in [artikel 293](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Eerste&artikel=293&z=2007-01-01&g=2007-01-01). In die aankondiging wordt tevens mededeling gedaan dat het verhoor van de schuldeisers, bepaald overeenkomstig [artikel 215, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=215&z=2007-01-01&g=2007-01-01), niet zal worden gehouden. Indien op de voet van [artikel 255](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Tweede&artikel=255&z=2007-01-01&g=2007-01-01) of [264](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Tweede&artikel=264&z=2007-01-01&g=2007-01-01) reeds een tijdstip was bepaald voor de raadpleging en stemming over een akkoord, wordt in die aankondiging mededeling gedaan dat die raadpleging en stemming niet zullen plaatsvinden.
 
 ##### Artikel 247b
 
@@ -2096,33 +2098,33 @@ Zodra een beschikking, waarbij de surseance is ingetrokken, in kracht van gewijs
 
 4. De schuldenaar kan van de uitspraak van het gerechtshof gedurende acht dagen na die van de uitspraak in cassatie komen. Het beroep in cassatie wordt ingesteld bij een verzoekschrift, in te dienen ter griffie van de Hoge Raad. De voorzitter bepaalt terstond dag en uur voor de behandeling. De griffier van de Hoge Raad geeft van het beroep in cassatie en van de uitspraak van de Hoge Raad onverwijld kennis aan de griffier van de rechtbank.
 
-5. Zolang niet op het verzoekschrift bedoeld in [artikel 247a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=247a&z=2006-02-01&g=2006-02-01), is beslist en, indien de schuldsaneringsregeling niet is uitgesproken, hangende het hoger beroep of de cassatie, kan de surseance van betaling niet definitief worden verleend en kan geen raadpleging over een akkoord plaatshebben.
+5. Zolang niet op het verzoekschrift bedoeld in [artikel 247a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=247a&z=2007-01-01&g=2007-01-01), is beslist en, indien de schuldsaneringsregeling niet is uitgesproken, hangende het hoger beroep of de cassatie, kan de surseance van betaling niet definitief worden verleend en kan geen raadpleging over een akkoord plaatshebben.
 
 ##### Artikel 247c
 
 1. Indien de surseance van betaling wordt ingetrokken onder het gelijktijdig uitspreken van de toepassing van de schuldsaneringsregeling, gelden de volgende regelen:
 
-- a. de bewindvoerder in de schuldsaneringsregeling oefent de bevoegdheid uit, in [artikel 228, eerste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=228&z=2006-02-01&g=2006-02-01), aan de bewindvoerder in de surseance toegekend;
+- a. de bewindvoerder in de schuldsaneringsregeling oefent de bevoegdheid uit, in [artikel 228, eerste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=228&z=2007-01-01&g=2007-01-01), aan de bewindvoerder in de surseance toegekend;
 
 - b. boedelschulden, gedurende de toepassing van de surseance ontstaan, gelden ook in de toepassing van de schuldsaneringsregeling als boedelschulden;
 
 - c. in de surseance ingediende vorderingen gelden als ingediend in de schuldsaneringsregeling.
 
-2. [Artikel 249, eerste lid, onder 1° en 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=249&z=2006-02-01&g=2006-02-01), is van overeenkomstige toepassing.
+2. [Artikel 249, eerste lid, onder 1° en 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=249&z=2007-01-01&g=2007-01-01), is van overeenkomstige toepassing.
 
 ##### Artikel 248
 
 1. Gedurende een surseance kan faillietverklaring niet rauwelijks worden verzocht.
 
-2. Indien ingevolge een der bepalingen van deze titel een faillietverklaring uitgesproken wordt, vindt [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=14&z=2006-02-01&g=2006-02-01) overeenkomstige toepassing; wordt ingevolge die bepalingen een faillissement vernietigd, dan vinden de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=13&z=2006-02-01&g=2006-02-01) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=15&z=2006-02-01&g=2006-02-01) overeenkomstige toepassing.
+2. Indien ingevolge een der bepalingen van deze titel een faillietverklaring uitgesproken wordt, vindt [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=14&z=2007-01-01&g=2007-01-01) overeenkomstige toepassing; wordt ingevolge die bepalingen een faillissement vernietigd, dan vinden de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=13&z=2007-01-01&g=2007-01-01) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=15&z=2007-01-01&g=2007-01-01) overeenkomstige toepassing.
 
 ##### Artikel 249
 
 1. Indien de faillietverklaring wordt uitgesproken ingevolge een der bepalingen van deze titel of wel binnen één maand na het einde der surseance, gelden de volgende regelen:
 
-- 1°. het tijdstip, waarop de termijnen vermeld in de [artikelen 43](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=43&z=2006-02-01&g=2006-02-01) en [45](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=45&z=2006-02-01&g=2006-02-01) van deze wet en in de [artikelen 138, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=138), en [248, zesde lid, van boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=248) aanvangen, wordt berekend van de aanvang der surseance af;
+- 1°. het tijdstip, waarop de termijnen vermeld in de [artikelen 43](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=43&z=2007-01-01&g=2007-01-01) en [45](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=45&z=2007-01-01&g=2007-01-01) van deze wet en in de [artikelen 138, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=138), en [248, zesde lid, van boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=248) aanvangen, wordt berekend van de aanvang der surseance af;
 
-- 2°. de curator oefent de bevoegdheid uit, in het [eerste lid van artikel 228](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=228&z=2006-02-01&g=2006-02-01) aan de bewindvoerders toegekend;
+- 2°. de curator oefent de bevoegdheid uit, in het [eerste lid van artikel 228](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=228&z=2007-01-01&g=2007-01-01) aan de bewindvoerders toegekend;
 
 - 3°. handelingen, door de schuldenaar met medewerking, machtiging of bijstand van de bewindvoerders verricht, worden beschouwd als handelingen van de curator en boedelschulden, gedurende de surseance ontstaan, zullen ook in het faillissement als boedelschulden gelden;
 
@@ -2132,25 +2134,17 @@ Zodra een beschikking, waarbij de surseance is ingetrokken, in kracht van gewijs
 
 ##### Artikel 250
 
-1. Het loon van de deskundigen, benoemd ingevolge de bepaling van [artikel 226](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=226&z=2006-02-01&g=2006-02-01), en van de bewindvoerders wordt bepaald door de rechtbank en bij voorrang voldaan.
+1. Het loon van de deskundigen, benoemd ingevolge de bepaling van [artikel 226](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=226&z=2007-01-01&g=2007-01-01), en van de bewindvoerders wordt bepaald door de rechtbank en bij voorrang voldaan.
 
 2. Dit laatste is ook van toepassing op hun verschotten en op die, door de griffier ten gevolge van de bepalingen van deze titel gedaan.
 
 ##### Artikel 250a
 
-1. Ingeval een niet ingevolge [artikel 52, tweede lid, onder **a, b** of **c**, van de Wet toezicht kredietwezen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005792&artikel=52) (**Stb.** 1992, 722) geregistreerde onderneming of instelling, waarbij De Nederlandsche Bank N.V. op grond van die wet inlichtingen heeft ingewonnen, naar het oordeel van De Nederlandsche Bank N.V. niet zal kunnen voortgaan met het betalen van haar opeisbare schulden, kan De Nederlandsche Bank N.V. met machtiging van de voorzieningenrechter van de bevoegde rechtbank voor zodanige onderneming of instelling surseance van betaling aanvragen op de wijze, voorzien in [artikel 214, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=214&z=2006-02-01&g=2006-02-01).
-
-2. De voorzieningenrechter van de rechtbank beslist over een verzoek tot machtiging als bedoeld in het eerste lid, zo spoedig mogelijk, doch niet dan nadat de onderneming of instelling in de gelegenheid is gesteld haar zienswijze terzake aan hem kenbaar te maken.
-
-3. In het geval, bedoeld in het eerste lid, zal surseance nimmer definitief worden verleend, indien de onderneming of instelling zich daartegen verzet.
-
-4. De [artikelen 215-250](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=215&z=2006-02-01&g=2006-02-01) en [251](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=251&z=2006-02-01&g=2006-02-01) zijn van overeenkomstige toepassing.
-
-5. Indien het verzoek wordt afgewezen anders dan op grond van het derde lid, heeft De Nederlandsche Bank N.V. recht van hoger beroep en kan zij in cassatie komen overeenkomstig het bepaalde in de [artikelen 219](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=219&z=2006-02-01&g=2006-02-01) en [221](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=221&z=2006-02-01&g=2006-02-01). De Nederlandsche Bank N.V. is bevoegd zowel in hoger beroep als in cassatie aan de behandeling van het beroep deel te nemen.
+Vervallen
 
 ##### Artikel 251
 
-De bepalingen van internationaal recht van de [artikelen 203-205](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tiende&artikel=203&z=2006-02-01&g=2006-02-01) vinden bij surseance overeenkomstige toepassing.
+De bepalingen van internationaal recht van de [artikelen 203-205](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tiende&artikel=203&z=2007-01-01&g=2007-01-01) vinden bij surseance overeenkomstige toepassing.
 
 ### afdeeling Tweede. Van het akkoord
 
@@ -2160,7 +2154,7 @@ De schuldenaar is bevoegd bij of na het verzoek tot surseance aan hen, die vorde
 
 ##### Artikel 253
 
-1. Het ontwerp van akkoord wordt, indien het niet ingevolge [artikel 215](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=215&z=2006-02-01&g=2006-02-01) ter griffie van de rechtbank berust, aldaar neergelegd ter kosteloze inzage van een ieder.
+1. Het ontwerp van akkoord wordt, indien het niet ingevolge [artikel 215](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=215&z=2007-01-01&g=2007-01-01) ter griffie van de rechtbank berust, aldaar neergelegd ter kosteloze inzage van een ieder.
 
 2. Een afschrift moet zodra mogelijk aan de bewindvoerders en de deskundigen worden toegezonden.
 
@@ -2170,7 +2164,7 @@ Het ontwerp van akkoord vervalt, indien, voordat het vonnis van homologatie van 
 
 ##### Artikel 255
 
-1. Indien het ontwerp van akkoord tegelijk met het verzoekschrift tot verlening van surseance ter griffie is nedergelegd, kan de rechtbank, de rechter-commissaris zo die is benoemd en bewindvoerders gehoord, gelasten, dat de in [artikel 218](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=218&z=2006-02-01&g=2006-02-01) bedoelde behandeling van het verzoek niet zal plaats hebben, in welk geval zij tevens zal vaststellen:
+1. Indien het ontwerp van akkoord tegelijk met het verzoekschrift tot verlening van surseance ter griffie is nedergelegd, kan de rechtbank, de rechter-commissaris zo die is benoemd en bewindvoerders gehoord, gelasten, dat de in [artikel 218](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=218&z=2007-01-01&g=2007-01-01) bedoelde behandeling van het verzoek niet zal plaats hebben, in welk geval zij tevens zal vaststellen:
 
 - 1°. de dag, waarop uiterlijk de schuldvorderingen, ten aanzien waarvan de surseance werkt, bij de bewindvoerders moeten worden ingediend;
 
@@ -2182,9 +2176,9 @@ Het ontwerp van akkoord vervalt, indien, voordat het vonnis van homologatie van 
 
 ##### Artikel 256
 
-1. De bewindvoerders doen dadelijk zowel van de in het vorige artikel bedoelde beschikking als van de neerlegging ter griffie van het ontwerp van akkoord – tenzij deze reeds ingevolge [artikel 216](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=216&z=2006-02-01&g=2006-02-01) is bekend gemaakt – aankondiging in de Staatscourant.
+1. De bewindvoerders doen dadelijk zowel van de in het vorige artikel bedoelde beschikking als van de neerlegging ter griffie van het ontwerp van akkoord – tenzij deze reeds ingevolge [artikel 216](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=216&z=2007-01-01&g=2007-01-01) is bekend gemaakt – aankondiging in de Staatscourant.
 
-2. Zij geven tevens van een en ander bij brieven kennis aan alle bekende schuldeisers. Daarbij wordt op het bepaalde bij [artikel 257, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Tweede&artikel=257&z=2006-02-01&g=2006-02-01), gewezen.
+2. Zij geven tevens van een en ander bij brieven kennis aan alle bekende schuldeisers. Daarbij wordt op het bepaalde bij [artikel 257, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Tweede&artikel=257&z=2007-01-01&g=2007-01-01), gewezen.
 
 3. De schuldeisers kunnen verschijnen in persoon, bij schriftelijk gemachtigde of bij procureur.
 
@@ -2210,7 +2204,7 @@ De bewindvoerders brengen de bij hen ingediende vorderingen op een lijst, vermel
 
 1. Een rentedragende vordering wordt op de lijst gebracht met bijrekening der rente tot de aanvang der surseance.
 
-2. De [artikelen 129](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vijfde&artikel=129&z=2006-02-01&g=2006-02-01), [133-135](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vijfde&artikel=133&z=2006-02-01&g=2006-02-01) en [136, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vijfde&artikel=136&z=2006-02-01&g=2006-02-01), vinden overeenkomstige toepassing.
+2. De [artikelen 129](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vijfde&artikel=129&z=2007-01-01&g=2007-01-01), [133-135](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vijfde&artikel=133&z=2007-01-01&g=2007-01-01) en [136, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vijfde&artikel=136&z=2007-01-01&g=2007-01-01), vinden overeenkomstige toepassing.
 
 ##### Artikel 261
 
@@ -2228,7 +2222,7 @@ De bewindvoerders brengen de bij hen ingediende vorderingen op een lijst, vermel
 
 ##### Artikel 263
 
-1. Van de in [artikel 259](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Tweede&artikel=259&z=2006-02-01&g=2006-02-01) bedoelde lijst wordt een afschrift door de bewindvoerders ter griffie van de rechtbank neergelegd, om aldaar gedurende de zeven dagen voorafgaande aan de vergadering, in [artikel 255](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Tweede&artikel=255&z=2006-02-01&g=2006-02-01) bedoeld, kosteloos ter inzage te liggen voor een ieder.
+1. Van de in [artikel 259](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Tweede&artikel=259&z=2007-01-01&g=2007-01-01) bedoelde lijst wordt een afschrift door de bewindvoerders ter griffie van de rechtbank neergelegd, om aldaar gedurende de zeven dagen voorafgaande aan de vergadering, in [artikel 255](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Tweede&artikel=255&z=2007-01-01&g=2007-01-01) bedoeld, kosteloos ter inzage te liggen voor een ieder.
 
 2. De neerlegging geschiedt kosteloos.
 
@@ -2236,13 +2230,13 @@ De bewindvoerders brengen de bij hen ingediende vorderingen op een lijst, vermel
 
 1. De rechter-commissaris zo die is benoemd of, bij gebreke van dien, de rechtbank kan, op verzoek van de bewindvoerders of ambtshalve, de raadpleging en stemming over het akkoord tot een latere dag uitstellen.
 
-2. [Artikel 256](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Tweede&artikel=256&z=2006-02-01&g=2006-02-01) vindt alsdan overeenkomstige toepassing.
+2. [Artikel 256](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Tweede&artikel=256&z=2007-01-01&g=2007-01-01) vindt alsdan overeenkomstige toepassing.
 
 ##### Artikel 265
 
-1. Ter vergadering brengen zowel de bewindvoerders als de deskundigen, zo die er zijn, schriftelijk verslag uit over het aangeboden akkoord. [Artikel 144](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zesde&artikel=144&z=2006-02-01&g=2006-02-01) vindt overeenkomstige toepassing.
+1. Ter vergadering brengen zowel de bewindvoerders als de deskundigen, zo die er zijn, schriftelijk verslag uit over het aangeboden akkoord. [Artikel 144](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zesde&artikel=144&z=2007-01-01&g=2007-01-01) vindt overeenkomstige toepassing.
 
-2. Vorderingen, na afloop van de in [artikel 255, 1°.](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Tweede&artikel=255&z=2006-02-01&g=2006-02-01), genoemde termijn, doch uiterlijk twee dagen vóór de dag, waarop de vergadering zal worden gehouden, bij de bewindvoerders ingediend, worden op daartoe ter vergadering gedaan verzoek op de lijst geplaatst, indien noch de bewindvoerders, noch een der aanwezige schuldeisers daartegen bezwaar maken.
+2. Vorderingen, na afloop van de in [artikel 255, 1°.](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Tweede&artikel=255&z=2007-01-01&g=2007-01-01), genoemde termijn, doch uiterlijk twee dagen vóór de dag, waarop de vergadering zal worden gehouden, bij de bewindvoerders ingediend, worden op daartoe ter vergadering gedaan verzoek op de lijst geplaatst, indien noch de bewindvoerders, noch een der aanwezige schuldeisers daartegen bezwaar maken.
 
 3. Vorderingen, daarna ingediend, worden niet op de lijst geplaatst.
 
@@ -2266,7 +2260,7 @@ De rechter-commissaris zo die is benoemd of bij gebreke van dien de rechtbank be
 
 1. Tot het aannemen van het akkoord wordt vereist de toestemming van de gewone meerderheid van de ter vergadering verschenen erkende en toegelaten schuldeisers, die tezamen ten minste de helft van het bedrag van de erkende en toegelaten schuldvorderingen vertegenwoordigen. Geen toestemming is vereist van een erkende of toegelaten schuldeiser, voorzover zijn schuldvordering is gegrond op een verbeurde dwangsom.
 
-2. [Artikel 147](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zesde&artikel=147&z=2006-02-01&g=2006-02-01) is van overeenkomstige toepassing.
+2. [Artikel 147](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zesde&artikel=147&z=2007-01-01&g=2007-01-01) is van overeenkomstige toepassing.
 
 ##### Artikel 269
 
@@ -2276,15 +2270,15 @@ De rechter-commissaris zo die is benoemd of bij gebreke van dien de rechtbank be
 
 ##### Artikel 269a
 
-Indien ten overstaan van een rechter-commissaris is geraadpleegd en beslist en het akkoord verworpen is verklaard, stelt de rechter-commissaris de rechtbank onverwijld in kennis van deze verwerping door toezending van het ontwerp van akkoord en het in [artikel 269](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Tweede&artikel=269&z=2006-02-01&g=2006-02-01) bedoelde proces-verbaal. Zowel de schuldeisers, die vóór gestemd hebben, als de schuldenaar kunnen gedurende acht dagen na afloop der vergadering aan de rechtbank verbetering van het proces-verbaal verzoeken, indien uit de stukken zelve blijkt dat het akkoord door de rechter-commissaris ten onrechte als verworpen is beschouwd.
+Indien ten overstaan van een rechter-commissaris is geraadpleegd en beslist en het akkoord verworpen is verklaard, stelt de rechter-commissaris de rechtbank onverwijld in kennis van deze verwerping door toezending van het ontwerp van akkoord en het in [artikel 269](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Tweede&artikel=269&z=2007-01-01&g=2007-01-01) bedoelde proces-verbaal. Zowel de schuldeisers, die vóór gestemd hebben, als de schuldenaar kunnen gedurende acht dagen na afloop der vergadering aan de rechtbank verbetering van het proces-verbaal verzoeken, indien uit de stukken zelve blijkt dat het akkoord door de rechter-commissaris ten onrechte als verworpen is beschouwd.
 
 ##### Artikel 269b
 
 1. Indien het akkoord is aangenomen of vastgesteld, bepaalt de rechter-commissaris vóór het sluiten der vergadering de terechtzitting, waarop de rechtbank de homologatie zal behandelen.
 
-2. Bij toepassing van [artikel 269a](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Tweede&artikel=269a&z=2006-02-01&g=2006-02-01) geschiedt de bepaling der terechtzitting door de rechtbank in haar beschikking. Van deze beschikking geven de bewindvoerders schriftelijk kennis aan de schuldeisers.
+2. Bij toepassing van [artikel 269a](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Tweede&artikel=269a&z=2007-01-01&g=2007-01-01) geschiedt de bepaling der terechtzitting door de rechtbank in haar beschikking. Van deze beschikking geven de bewindvoerders schriftelijk kennis aan de schuldeisers.
 
-3. De terechtzitting zal gehouden worden ten minste acht en ten hoogste veertien dagen na de stemming over het akkoord of, bij toepassing van [artikel 269a](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Tweede&artikel=269a&z=2006-02-01&g=2006-02-01), na de beschikking der rechtbank.
+3. De terechtzitting zal gehouden worden ten minste acht en ten hoogste veertien dagen na de stemming over het akkoord of, bij toepassing van [artikel 269a](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Tweede&artikel=269a&z=2007-01-01&g=2007-01-01), na de beschikking der rechtbank.
 
 4. Gedurende die tijd kunnen de schuldeisers aan de rechter-commissaris schriftelijk de redenen opgeven, waarom zij weigering der homologatie wenselijk achten.
 
@@ -2292,11 +2286,11 @@ Indien ten overstaan van een rechter-commissaris is geraadpleegd en beslist en h
 
 1. Indien de raadpleging en beslissing over het akkoord in raadkamer der rechtbank heeft plaats gehad, kunnen zowel de schuldeisers, die vóór gestemd hebben, als de schuldenaar gedurende acht dagen na afloop der stemming aan het gerechtshof verbetering van het proces-verbaal verzoeken, indien uit de stukken zelve blijkt, dat het akkoord door de rechtbank ten onrechte als verworpen is beschouwd.
 
-2. Indien het gerechtshof het proces-verbaal verbetert, bepaalt het bij zijn beschikking de dag, waarop de rechtbank de homologatie zal behandelen, welke dag gesteld wordt op niet vroeger dan acht en niet later dan veertien dagen na de beschikking. Van deze beschikking geven de bewindvoerders schriftelijk kennis aan de schuldeisers. Deze beschikking brengt van rechtswege vernietiging mede van een ingevolge [artikel 277](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Tweede&artikel=277&z=2006-02-01&g=2006-02-01) uitgesproken faillissement.
+2. Indien het gerechtshof het proces-verbaal verbetert, bepaalt het bij zijn beschikking de dag, waarop de rechtbank de homologatie zal behandelen, welke dag gesteld wordt op niet vroeger dan acht en niet later dan veertien dagen na de beschikking. Van deze beschikking geven de bewindvoerders schriftelijk kennis aan de schuldeisers. Deze beschikking brengt van rechtswege vernietiging mede van een ingevolge [artikel 277](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Tweede&artikel=277&z=2007-01-01&g=2007-01-01) uitgesproken faillissement.
 
 ##### Artikel 271
 
-1. Indien het akkoord is aangenomen, wordt op de bepaalde dag ter openbare terechtzitting door de rechter-commissaris zo die is benoemd een schriftelijk rapport uitgebracht en kunnen zowel de bewindvoerders als elke schuldeiser de gronden uiteenzetten, waarop zij de homologatie wensen of haar bestrijden. [Artikel 152, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zesde&artikel=152&z=2006-02-01&g=2006-02-01), vindt overeenkomstige toepassing.
+1. Indien het akkoord is aangenomen, wordt op de bepaalde dag ter openbare terechtzitting door de rechter-commissaris zo die is benoemd een schriftelijk rapport uitgebracht en kunnen zowel de bewindvoerders als elke schuldeiser de gronden uiteenzetten, waarop zij de homologatie wensen of haar bestrijden. [Artikel 152, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zesde&artikel=152&z=2007-01-01&g=2007-01-01), vindt overeenkomstige toepassing.
 
 2. De rechtbank kan bepalen, dat de behandeling der homologatie op een latere, terstond door haar vast te stellen, dag zal plaats vinden.
 
@@ -2314,13 +2308,13 @@ Indien ten overstaan van een rechter-commissaris is geraadpleegd en beslist en h
 
 - 4°. indien het loon en de verschotten van de deskundigen en de bewindvoerders niet in handen van de bewindvoerders zijn gestort of daarvoor zekerheid is gesteld;
 
-- 5°. indien de curator in een hoofdprocedure als bedoeld in [artikel 6, eerste lid, derde zin](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=6&z=2006-02-01&g=2006-02-01), zijn instemming aan het akkoord heeft onthouden, tenzij de rechtbank van oordeel is dat het akkoord de financiële belangen van de schuldeisers van de hoofdprocedure niet aantast.
+- 5°. indien de curator in een hoofdprocedure als bedoeld in [artikel 6, eerste lid, derde zin](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=6&z=2007-01-01&g=2007-01-01), zijn instemming aan het akkoord heeft onthouden, tenzij de rechtbank van oordeel is dat het akkoord de financiële belangen van de schuldeisers van de hoofdprocedure niet aantast.
 
 3. Zij kan ook op andere gronden en ook ambtshalve de homologatie weigeren.
 
-4. De rechtbank, de homologatie weigerende, kan bij dezelfde beschikking de schuldenaar in staat van faillissement verklaren. Wordt het faillissement niet uitgesproken, dan eindigt de surseance zodra de beschikking, waarbij de homologatie geweigerd is, in kracht van gewijsde is gegaan. Van deze beëindiging doen de bewindvoerders aankondiging op de in [artikel 216](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=216&z=2006-02-01&g=2006-02-01) voorgeschreven wijze.
+4. De rechtbank, de homologatie weigerende, kan bij dezelfde beschikking de schuldenaar in staat van faillissement verklaren. Wordt het faillissement niet uitgesproken, dan eindigt de surseance zodra de beschikking, waarbij de homologatie geweigerd is, in kracht van gewijsde is gegaan. Van deze beëindiging doen de bewindvoerders aankondiging op de in [artikel 216](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=216&z=2007-01-01&g=2007-01-01) voorgeschreven wijze.
 
-5. De [artikelen 154-156](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zesde&artikel=154&z=2006-02-01&g=2006-02-01) en [160](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zesde&artikel=160&z=2006-02-01&g=2006-02-01) vinden overeenkomstige toepassing.
+5. De [artikelen 154-156](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zesde&artikel=154&z=2007-01-01&g=2007-01-01) en [160](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zesde&artikel=160&z=2007-01-01&g=2007-01-01) vinden overeenkomstige toepassing.
 
 ##### Artikel 273
 
@@ -2328,7 +2322,7 @@ Het gehomologeerde akkoord is verbindend voor alle schuldeisers te wier aanzien 
 
 ##### Artikel 274
 
-Het in kracht van gewijsde gegane vonnis van homologatie levert, in verband met het in [artikel 269](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Tweede&artikel=269&z=2006-02-01&g=2006-02-01) bedoelde proces-verbaal, ten behoeve der door de schuldenaar niet betwiste vorderingen een voor tenuitvoerlegging vatbare titel op tegen de schuldenaar en de tot het akkoord als borgen toegetreden personen.
+Het in kracht van gewijsde gegane vonnis van homologatie levert, in verband met het in [artikel 269](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Tweede&artikel=269&z=2007-01-01&g=2007-01-01) bedoelde proces-verbaal, ten behoeve der door de schuldenaar niet betwiste vorderingen een voor tenuitvoerlegging vatbare titel op tegen de schuldenaar en de tot het akkoord als borgen toegetreden personen.
 
 ##### Artikel 275
 
@@ -2336,15 +2330,15 @@ Zolang niet over het aangeboden akkoord uiteindelijk is beslist, eindigt de surs
 
 ##### Artikel 276
 
-De surseance neemt een einde zodra de homologatie in kracht van gewijsde is gegaan. Van deze beëindiging doen de bewindvoerders aankondiging op de in [artikel 216](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=216&z=2006-02-01&g=2006-02-01) voorgeschreven wijze.
+De surseance neemt een einde zodra de homologatie in kracht van gewijsde is gegaan. Van deze beëindiging doen de bewindvoerders aankondiging op de in [artikel 216](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=216&z=2007-01-01&g=2007-01-01) voorgeschreven wijze.
 
 ##### Artikel 277
 
-De rechtbank kan, wanneer het akkoord niet wordt aangenomen, de schuldenaar bij vonnis in staat van faillissement verklaren. Wordt het faillissement niet uitgesproken, dan eindigt de surseance zodra de termijn, in [artikel 269a](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Tweede&artikel=269a&z=2006-02-01&g=2006-02-01) dan wel in [artikel 270](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Tweede&artikel=270&z=2006-02-01&g=2006-02-01) bedoeld, ongebruikt verstreken is of verbetering van het proces-verbaal geweigerd is. Van deze beëindiging doen de bewindvoerders aankondiging op de in [artikel 216](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=216&z=2006-02-01&g=2006-02-01) voorgeschreven wijze.
+De rechtbank kan, wanneer het akkoord niet wordt aangenomen, de schuldenaar bij vonnis in staat van faillissement verklaren. Wordt het faillissement niet uitgesproken, dan eindigt de surseance zodra de termijn, in [artikel 269a](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Tweede&artikel=269a&z=2007-01-01&g=2007-01-01) dan wel in [artikel 270](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Tweede&artikel=270&z=2007-01-01&g=2007-01-01) bedoeld, ongebruikt verstreken is of verbetering van het proces-verbaal geweigerd is. Van deze beëindiging doen de bewindvoerders aankondiging op de in [artikel 216](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=216&z=2007-01-01&g=2007-01-01) voorgeschreven wijze.
 
 ##### Artikel 278
 
-1. Indien de rechtbank de schuldenaar in staat van faillissement heeft verklaard, heeft deze recht van hoger beroep tegen de faillietverklaring gedurende acht dagen na de dag waarop de termijn van [artikel 269a](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Tweede&artikel=269a&z=2006-02-01&g=2006-02-01) dan wel van [artikel 270](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Tweede&artikel=270&z=2006-02-01&g=2006-02-01) ongebruikt verstreken is of verbetering van het proces-verbaal geweigerd is.
+1. Indien de rechtbank de schuldenaar in staat van faillissement heeft verklaard, heeft deze recht van hoger beroep tegen de faillietverklaring gedurende acht dagen na de dag waarop de termijn van [artikel 269a](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Tweede&artikel=269a&z=2007-01-01&g=2007-01-01) dan wel van [artikel 270](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Tweede&artikel=270&z=2007-01-01&g=2007-01-01) ongebruikt verstreken is of verbetering van het proces-verbaal geweigerd is.
 
 2. Het hoger beroep wordt ingesteld bij een verzoekschrift, in te dienen ter griffie van het gerechtshof, dat van de zaak kennis moet nemen. De voorzitter bepaalt terstond dag en uur van de behandeling.
 
@@ -2358,49 +2352,49 @@ De rechtbank kan, wanneer het akkoord niet wordt aangenomen, de schuldenaar bij 
 
 ##### Artikel 280
 
-1. Ten aanzien van de ontbinding van het akkoord vinden de [artikelen 165](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zesde&artikel=165&z=2006-02-01&g=2006-02-01) en [166](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zesde&artikel=166&z=2006-02-01&g=2006-02-01) overeenkomstige toepassing.
+1. Ten aanzien van de ontbinding van het akkoord vinden de [artikelen 165](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zesde&artikel=165&z=2007-01-01&g=2007-01-01) en [166](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zesde&artikel=166&z=2007-01-01&g=2007-01-01) overeenkomstige toepassing.
 
 2. Bij het vonnis, waarbij de ontbinding van het akkoord wordt uitgesproken, wordt de schuldenaar tevens in staat van faillissement verklaard.
 
 ##### Artikel 281
 
-1. In een faillissement, uitgesproken krachtens de[artikelen 272](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Tweede&artikel=272&z=2006-02-01&g=2006-02-01), [277](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Tweede&artikel=277&z=2006-02-01&g=2006-02-01) of [280](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Tweede&artikel=280&z=2006-02-01&g=2006-02-01) kan een akkoord niet worden aangeboden.
+1. In een faillissement, uitgesproken krachtens de[artikelen 272](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Tweede&artikel=272&z=2007-01-01&g=2007-01-01), [277](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Tweede&artikel=277&z=2007-01-01&g=2007-01-01) of [280](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Tweede&artikel=280&z=2007-01-01&g=2007-01-01) kan een akkoord niet worden aangeboden.
 
-2. De bepalingen van deze afdeling zijn van overeenkomstige toepassing in het geval dat een akkoord wordt aangeboden op de voet van artikel 34, eerste lid, van de verordening, genoemd in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=5&z=2006-02-01&g=2006-02-01).
+2. De bepalingen van deze afdeling zijn van overeenkomstige toepassing in het geval dat een akkoord wordt aangeboden op de voet van artikel 34, eerste lid, van de verordening, genoemd in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=5&z=2007-01-01&g=2007-01-01).
 
 ### Tweede afdeling A. Bijzondere bepalingen
 
 ##### Artikel 281a
 
-1. Indien er meer dan 10 000 schuldeisers zijn, behoeven op de staat, welke de schuldenaar krachtens [artikel 214](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=214&z=2006-02-01&g=2006-02-01) bij zijn verzoek moet overleggen, de namen en woonplaatsen der schuldeisers, alsmede het bedrag der vorderingen van ieder hunner, niet te worden vermeld, doch kan worden volstaan met vermelding van de verschillende groepen van crediteuren, al naar gelang van de aard hunner vorderingen, en van het globale aantal en het globale bedrag van de gezamenlijke vorderingen van iedere groep.
+1. Indien er meer dan 10 000 schuldeisers zijn, behoeven op de staat, welke de schuldenaar krachtens [artikel 214](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=214&z=2007-01-01&g=2007-01-01) bij zijn verzoek moet overleggen, de namen en woonplaatsen der schuldeisers, alsmede het bedrag der vorderingen van ieder hunner, niet te worden vermeld, doch kan worden volstaan met vermelding van de verschillende groepen van crediteuren, al naar gelang van de aard hunner vorderingen, en van het globale aantal en het globale bedrag van de gezamenlijke vorderingen van iedere groep.
 
 2. Indien het aantal schuldeisers niet meer dan 10 000, doch wel meer dan 5000 bedraagt, kan de rechtbank toestaan dat de schuldenaar een staat overeenkomstig het vorige lid overlegt.
 
 ##### Artikel 281b
 
-1. Indien blijkt dat het aantal schuldeisers meer dan 5000 bedraagt, kan de rechtbank op verzoek van de bewindvoerders de voorzieningen treffen, omschreven in de [artikelen 281c-281f](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Tweede_A&artikel=281c&z=2006-02-01&g=2006-02-01).
+1. Indien blijkt dat het aantal schuldeisers meer dan 5000 bedraagt, kan de rechtbank op verzoek van de bewindvoerders de voorzieningen treffen, omschreven in de [artikelen 281c-281f](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Tweede_A&artikel=281c&z=2007-01-01&g=2007-01-01).
 
-2. De voorzieningen krachtens de [artikelen 281d](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Tweede_A&artikel=281d&z=2006-02-01&g=2006-02-01) en [e](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Tweede_A&artikel=281e&z=2006-02-01&g=2006-02-01) kunnen slechts gezamenlijk worden getroffen.
+2. De voorzieningen krachtens de [artikelen 281d](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Tweede_A&artikel=281d&z=2007-01-01&g=2007-01-01) en [e](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Tweede_A&artikel=281e&z=2007-01-01&g=2007-01-01) kunnen slechts gezamenlijk worden getroffen.
 
 ##### Artikel 281c
 
-De rechtbank kan bepalen dat de oproepingen van de schuldeisers, bedoeld in de [artikelen 215, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=215&z=2006-02-01&g=2006-02-01), 216a, tweede lid, tweede zin, [256, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Tweede&artikel=256&z=2006-02-01&g=2006-02-01), en [264, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Tweede&artikel=264&z=2006-02-01&g=2006-02-01), niet bij brieven, doch door aankondigingen in de Staatscourant dan wel in een of meer door de rechtbank aan te wijzen nieuwsbladen zullen plaatsvinden. In dat geval bepaalt de rechtbank tevens op welke datum uiterlijk deze aankondigingen moeten geschieden en welke punten in de aankondigingen moeten worden opgenomen.
+De rechtbank kan bepalen dat de oproepingen van de schuldeisers, bedoeld in de [artikelen 215, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=215&z=2007-01-01&g=2007-01-01), 216a, tweede lid, tweede zin, [256, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Tweede&artikel=256&z=2007-01-01&g=2007-01-01), en [264, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Tweede&artikel=264&z=2007-01-01&g=2007-01-01), niet bij brieven, doch door aankondigingen in de Staatscourant dan wel in een of meer door de rechtbank aan te wijzen nieuwsbladen zullen plaatsvinden. In dat geval bepaalt de rechtbank tevens op welke datum uiterlijk deze aankondigingen moeten geschieden en welke punten in de aankondigingen moeten worden opgenomen.
 
 ##### Artikel 281d
 
-De rechtbank kan bepalen, dat bepaalde soorten van vorderingen of vorderingen beneden een bepaald bedrag - dat echter niet hoger zal mogen zijn dan € 450 - niet op de lijst bedoeld in [artikel 259](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Tweede&artikel=259&z=2006-02-01&g=2006-02-01), zullen behoeven te worden geplaatst.
+De rechtbank kan bepalen, dat bepaalde soorten van vorderingen of vorderingen beneden een bepaald bedrag - dat echter niet hoger zal mogen zijn dan € 450 - niet op de lijst bedoeld in [artikel 259](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Tweede&artikel=259&z=2007-01-01&g=2007-01-01), zullen behoeven te worden geplaatst.
 
 ##### Artikel 281e
 
 1. De rechtbank kan een commissie van vertegenwoordiging benoemen, bestaande uit ten minste 9 leden. Bij de samenstelling van de commissie wordt er op gelet, dat daarin personen zitting hebben die geacht kunnen worden de belangrijkste groepen van de schuldeisers te vertegenwoordigen.
 
-2. Bij de stemmingen, bedoeld in de [artikelen 218](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=218&z=2006-02-01&g=2006-02-01) en [268](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Tweede&artikel=268&z=2006-02-01&g=2006-02-01), hebben alleen de leden van de commissie stemrecht.
+2. Bij de stemmingen, bedoeld in de [artikelen 218](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=218&z=2007-01-01&g=2007-01-01) en [268](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Tweede&artikel=268&z=2007-01-01&g=2007-01-01), hebben alleen de leden van de commissie stemrecht.
 
 3. Surseance kan niet definitief worden verleend, indien zich daartegen verklaren meer dan een vierde van de ter vergadering, waarin daarover moet worden beslist, verschenen leden der commissie.
 
 4. Tot het aannemen van een akkoord wordt vereist de toestemming van drie vierde van de ter vergadering, waarin daarover moet worden beslist, verschenen leden der commissie. Indien ter vergadering niet ten minste twee derde van de leden verschenen is, wordt de stemming over het akkoord tot een latere dag uitgesteld. Een nadere oproeping van de schuldeisers is niet vereist, doch de leden der commissie zullen door de bewindvoerders bij brieven tot de volgende vergadering worden opgeroepen. In deze vergadering wordt de stemming gehouden onafhankelijk van het aantal verschenen leden der commissie.
 
-5. Voor de toepassing van de [artikelen 269, eerste lid, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Tweede&artikel=269&z=2006-02-01&g=2006-02-01), [270](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Tweede&artikel=270&z=2006-02-01&g=2006-02-01) en [272](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Tweede&artikel=272&z=2006-02-01&g=2006-02-01), en voor de overeenkomstige toepassing van [artikel 154](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zesde&artikel=154&z=2006-02-01&g=2006-02-01) wordt telkens in plaats van "schuldeisers" gelezen "leden der commissie" en voor de toepassing van [artikel 271](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Tweede&artikel=271&z=2006-02-01&g=2006-02-01) in plaats van "elke schuldeiser": elke schuldeiser en elk lid der commissie.
+5. Voor de toepassing van de [artikelen 269, eerste lid, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Tweede&artikel=269&z=2007-01-01&g=2007-01-01), [270](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Tweede&artikel=270&z=2007-01-01&g=2007-01-01) en [272](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Tweede&artikel=272&z=2007-01-01&g=2007-01-01), en voor de overeenkomstige toepassing van [artikel 154](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zesde&artikel=154&z=2007-01-01&g=2007-01-01) wordt telkens in plaats van "schuldeisers" gelezen "leden der commissie" en voor de toepassing van [artikel 271](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Tweede&artikel=271&z=2007-01-01&g=2007-01-01) in plaats van "elke schuldeiser": elke schuldeiser en elk lid der commissie.
 
 ##### Artikel 281f
 
@@ -2410,43 +2404,29 @@ Indien te voorzien is dat er meer dan één uitkering aan de schuldeisers zal mo
 
 ##### Artikel 281g
 
-Deze afdeling is van toepassing op:
+De [artikelen 212a, onderdelen b tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=11A&artikel=212a&z=2007-01-01&g=2007-01-01), en [212b tot en met 212f](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=11A&artikel=212b&z=2007-01-01&g=2007-01-01) zijn van overeenkomstige toepassing op de verlening van surseance van betaling aan:
 
-- a. een kredietinstelling, die door de Minister van Financiën op grond van [artikel 6, tweede lid, van de Wet toezicht kredietwezen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005792&artikel=6) is vrijgesteld van het verbod van [artikel 6, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005792&artikel=6);
+- a. een beleggingsonderneming als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1);
 
-- b. een kredietinstelling, die door de Minister van Financiën op grond van [artikel 31, vierde lid, van de Wet toezicht kredietwezen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005792&artikel=31) is vrijgesteld van het verbod van [artikel 31, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005792&artikel=31);
+- b. een financiële instelling als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1) die een verklaring van ondertoezichtstelling als bedoeld in [artikel 3:110](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:110) heeft;
 
-- c. een kredietinstelling, die door de Minister van Financiën op grond van [artikel 38, derde lid, van de Wet toezicht kredietwezen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005792&artikel=38) is vrijgesteld van het verbod van [artikel 38, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005792&artikel=38);
+- c. een centrale tegenpartij, indien deze in het kader van deelname aan het systeem op grond van een overboekingsopdracht effectentegoeden verkrijgt;
 
-- d. een kredietinstelling, die door De Nederlandsche Bank N.V. op grond van [artikel 6, derde lid, van de Wet toezicht kredietwezen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005792&artikel=6) is ontheven van het verbod van [artikel 6, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005792&artikel=6);
+- d. een overheidsinstantie of onderneming met overheidsgarantie;
 
-- e. een kredietinstelling, die door De Nederlandsche Bank N.V. op grond van [artikel 31, vijfde lid, van de Wet toezicht kredietwezen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005792&artikel=31) is ontheven van het verbod van [artikel 31, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005792&artikel=31);
+- e. een beleggingsonderneming met zetel in een staat die niet een lidstaat is die haar bedrijf uitoefent vanuit een in Nederland gelegen bijkantoor, met dien verstande dat:
 
-- f. een kredietinstelling, die door De Nederlandsche Bank N.V. op grond van [artikel 38, vierde lid, van de Wet toezicht kredietwezen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005792&artikel=38) is ontheven van het verbod van [artikel 38, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005792&artikel=38);
+- –. voor «[artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=23&z=2007-01-01&g=2007-01-01)» wordt gelezen: [artikel 217](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=217&z=2007-01-01&g=2007-01-01);
 
-- g. een financiële instelling als bedoeld in [artikel 1, eerste lid, onderdeel c, van de Wet toezicht kredietwezen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005792&artikel=1);
+- –. voor «[artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=24&z=2007-01-01&g=2007-01-01)» wordt gelezen: [artikel 228, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=228&z=2007-01-01&g=2007-01-01);
 
-- h. een effecteninstelling als bedoeld in [artikel 1, onderdeel d, van de Wet toezicht effectenverkeer 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&artikel=1);
+- –. voor «[artikel 53, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=53&z=2007-01-01&g=2007-01-01),» wordt gelezen: [artikel 234, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=234&z=2007-01-01&g=2007-01-01); en
 
-- i. een centrale tegenpartij, indien deze in het kader van deelname aan het systeem op grond van een overboekingsopdracht effectentegoeden verkrijgt;
-
-- j. een overheidsinstantie of onderneming met overheidsgarantie;
-
-- k. een in een staat die niet een lidstaat is van de Europese Unie gevestigde onderneming of instelling die het bedrijf van effecteninstelling uitoefent door middel van een bijkantoor in Nederland.
+- –. voor «[artikel 54, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=54&z=2007-01-01&g=2007-01-01),» wordt gelezen: [artikel 235, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=235&z=2007-01-01&g=2007-01-01).
 
 ##### Artikel 281h
 
-De [artikelen 212a onderdelen b tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=11A&artikel=212a&z=2006-02-01&g=2006-02-01), en [212b tot en met 212f](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=11A&artikel=212b&z=2006-02-01&g=2006-02-01) zijn van overeenkomstige toepassing in een surseance, met dien verstande dat bij de toepassing van [artikel 212b](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=11A&artikel=212b&z=2006-02-01&g=2006-02-01):
-
-- –. voor «artikel 23» wordt gelezen: [artikel 217](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=217&z=2006-02-01&g=2006-02-01);
-
-- –. voor «artikel 24» wordt gelezen: [artikel 228, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=228&z=2006-02-01&g=2006-02-01);
-
-- –. voor «artikel 53, eerste lid» wordt gelezen: [artikel 234, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=234&z=2006-02-01&g=2006-02-01);
-
-- –. voor «artikel 54, tweede lid» wordt gelezen: [artikel 235, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=235&z=2006-02-01&g=2006-02-01);
-
-- –. voor «artikel 63a» wordt gelezen: [artikel 241a](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=241a&z=2006-02-01&g=2006-02-01).
+Vervallen
 
 ### Tweede afdeling A. Bijzondere bepalingen
 
@@ -2456,9 +2436,9 @@ Tegen de beslissingen van de rechter, ingevolge de bepalingen van deze titel geg
 
 ##### Artikel 283
 
-1. De verzoeken, te doen ingevolge de [artikelen 219](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=219&z=2006-02-01&g=2006-02-01), [223](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=223&z=2006-02-01&g=2006-02-01), [225](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=225&z=2006-02-01&g=2006-02-01), [242](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=242&z=2006-02-01&g=2006-02-01), [243](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=243&z=2006-02-01&g=2006-02-01), [247](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=247&z=2006-02-01&g=2006-02-01), [247b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=247b&z=2006-02-01&g=2006-02-01), [270](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Tweede&artikel=270&z=2006-02-01&g=2006-02-01), [272, laatste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Tweede&artikel=272&z=2006-02-01&g=2006-02-01), [278](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Tweede&artikel=278&z=2006-02-01&g=2006-02-01) en [280, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Tweede&artikel=280&z=2006-02-01&g=2006-02-01), moeten door een procureur zijn ondertekend, behalve wanneer een verzoek wordt gedaan door de bewindvoerders.
+1. De verzoeken, te doen ingevolge de [artikelen 219](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=219&z=2007-01-01&g=2007-01-01), [223](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=223&z=2007-01-01&g=2007-01-01), [225](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=225&z=2007-01-01&g=2007-01-01), [242](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=242&z=2007-01-01&g=2007-01-01), [243](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=243&z=2007-01-01&g=2007-01-01), [247](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=247&z=2007-01-01&g=2007-01-01), [247b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=247b&z=2007-01-01&g=2007-01-01), [270](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Tweede&artikel=270&z=2007-01-01&g=2007-01-01), [272, laatste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Tweede&artikel=272&z=2007-01-01&g=2007-01-01), [278](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Tweede&artikel=278&z=2007-01-01&g=2007-01-01) en [280, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Tweede&artikel=280&z=2007-01-01&g=2007-01-01), moeten door een procureur zijn ondertekend, behalve wanneer een verzoek wordt gedaan door de bewindvoerders.
 
-2. Een verzoekschrift op de voet van artikel 37 van de in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=5&z=2006-02-01&g=2006-02-01), genoemde verordening wordt ingediend door een procureur.
+2. Een verzoekschrift op de voet van artikel 37 van de in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=5&z=2007-01-01&g=2007-01-01), genoemde verordening wordt ingediend door een procureur.
 
 3. Voor het instellen van beroep in cassatie is steeds de medewerking nodig van een advocaat bij de Hoge Raad.
 
@@ -2470,19 +2450,19 @@ Tegen de beslissingen van de rechter, ingevolge de bepalingen van deze titel geg
 
 1. Een natuurlijke persoon kan, indien redelijkerwijs is te voorzien dat hij niet zal kunnen voortgaan met het betalen van zijn schulden of indien hij in de toestand verkeert dat hij heeft opgehouden te betalen, verzoeken de toepassing van de schuldsaneringsregeling uit te spreken.
 
-2. Hij zal zich daartoe bij een door hem of een gevolmachtigde ondertekend verzoekschrift wenden tot de rechtbank, aangewezen in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=2&z=2006-02-01&g=2006-02-01). Indien de gevolmachtigde niet als advocaat of procureur is ingeschreven, moet een geschrift waaruit de volmacht blijkt, bij het verzoekschrift worden overgelegd.[Artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=4&z=2006-02-01&g=2006-02-01), is van overeenkomstige toepassing.
+2. Hij zal zich daartoe bij een door hem of een gevolmachtigde ondertekend verzoekschrift wenden tot de rechtbank, aangewezen in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=2&z=2007-01-01&g=2007-01-01). Indien de gevolmachtigde niet als advocaat of procureur is ingeschreven, moet een geschrift waaruit de volmacht blijkt, bij het verzoekschrift worden overgelegd.[Artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=4&z=2007-01-01&g=2007-01-01), is van overeenkomstige toepassing.
 
 3. Een gehuwde schuldenaar of een schuldenaar die een geregistreerd partnerschap is aangegaan kan het verzoek slechts doen met medewerking van zijn echtgenoot onderscheidenlijk zijn geregistreerde partner, tenzij iedere gemeenschap van goederen tussen de echtgenoten onderscheidenlijk de geregistreerde partners is uitgesloten.
 
 4. Een verzoek als bedoeld in het eerste lid kan ten behoeve van een natuurlijke persoon ook worden gedaan door burgemeester en wethouders van de gemeente waar die persoon woon- of verblijfplaats heeft.
 
-5. De schuldsaneringsregeling natuurlijke personen kan niet van toepassing worden verklaard op een verzekeraar als bedoeld in [artikel 213](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=11B&paragraaf=1&artikel=213&z=2006-02-01&g=2006-02-01), noch op een kredietinstelling als bedoeld in [artikel 212g, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=11AA&paragraaf=1&artikel=212g&z=2006-02-01&g=2006-02-01).
+5. De schuldsaneringsregeling natuurlijke personen kan niet van toepassing worden verklaard op een verzekeraar als bedoeld in [artikel 213](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=11B&paragraaf=1&artikel=213&z=2007-01-01&g=2007-01-01), noch op een kredietinstelling als bedoeld in [artikel 212g, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=11AA&paragraaf=1&artikel=212g&z=2007-01-01&g=2007-01-01).
 
 ##### Artikel 285
 
 1. In het verzoekschrift of in een daarbij te voegen bijlage worden opgenomen:
 
-- a. een staat als bedoeld in [artikel 96](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vierde&artikel=96&z=2006-02-01&g=2006-02-01);
+- a. een staat als bedoeld in [artikel 96](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vierde&artikel=96&z=2007-01-01&g=2007-01-01);
 
 - b. een gespecificeerde opgave van de inkomsten van de schuldenaar, hoe ook genaamd en ongeacht de titel van verkrijging, die de schuldenaar pleegt te verwerven of kan verwerven;
 
@@ -2490,9 +2470,9 @@ Tegen de beslissingen van de rechter, ingevolge de bepalingen van deze titel geg
 
 - d. indien de schuldenaar is gehuwd of een geregistreerd partnerschap is aangegaan, een opgave van de gegevens, bedoeld onder b en c betreffende de echtgenoot onderscheidenlijk de geregistreerde partner;
 
-- e. een met redenen omklede verklaring dat er geen reële mogelijkheden zijn om tot een buitengerechtelijke schuldsanering te komen, alsmede over welke aflossingsmogelijkheden de verzoeker beschikt, afgegeven door het college van burgemeester en wethouders van de gemeente van de woon- of verblijfplaats van de schuldenaar. Het college kan deze bevoegdheid mandateren aan een gemeentelijke kredietbank als bedoeld in de [Wet financiële dienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0018329) of aan krachtens [artikel 48, eerste lid, onderdeel d, van de Wet op het consumentenkrediet](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&artikel=48) aangewezen natuurlijke personen of rechtspersonen, dan wel categorieën daarvan.
+- e. een met redenen omklede verklaring dat er geen reële mogelijkheden zijn om tot een buitengerechtelijke schuldsanering te komen, alsmede over welke aflossingsmogelijkheden de verzoeker beschikt, afgegeven door het college van burgemeester en wethouders van de gemeente van de woon- of verblijfplaats van de schuldenaar. Het college kan deze bevoegdheid mandateren aan een gemeentelijke kredietbank als bedoeld in de de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) of aan krachtens [artikel 48, eerste lid, onderdeel d, van de Wet op het consumentenkrediet](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&artikel=48) aangewezen natuurlijke personen of rechtspersonen, dan wel categorieën daarvan.
 
-2. In het verzoekschrift of in een daarbij te voegen bijlage dan wel in een nadien, binnen een door de rechter in de uitspraak bedoeld in [artikel 287, eerste of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Eerste&artikel=287&z=2006-02-01&g=2006-02-01), te bepalen termijn, doch uiterlijk op de vijftiende dag voorafgaande aan de dag waarop de verificatievergadering zal worden gehouden, ter griffie neer te leggen stuk worden opgenomen:
+2. In het verzoekschrift of in een daarbij te voegen bijlage dan wel in een nadien, binnen een door de rechter in de uitspraak bedoeld in [artikel 287, eerste of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Eerste&artikel=287&z=2007-01-01&g=2007-01-01), te bepalen termijn, doch uiterlijk op de vijftiende dag voorafgaande aan de dag waarop de verificatievergadering zal worden gehouden, ter griffie neer te leggen stuk worden opgenomen:
 
 - a. een ontwerp van een saneringsplan;
 
@@ -2514,27 +2494,27 @@ Tegen de beslissingen van de rechter, ingevolge de bepalingen van deze titel geg
 
 ##### Artikel 286
 
-Het verzoekschrift met bijbehorende stukken en die bedoeld in [artikel 285, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Eerste&artikel=285&z=2006-02-01&g=2006-02-01), worden ter griffie van de rechtbank neergelegd en zijn vanaf de uitspraak tot de toepassing van de schuldsaneringsregeling ter kosteloze inzage van een ieder. De neerlegging geschiedt kosteloos.
+Het verzoekschrift met bijbehorende stukken en die bedoeld in [artikel 285, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Eerste&artikel=285&z=2007-01-01&g=2007-01-01), worden ter griffie van de rechtbank neergelegd en zijn vanaf de uitspraak tot de toepassing van de schuldsaneringsregeling ter kosteloze inzage van een ieder. De neerlegging geschiedt kosteloos.
 
 ##### Artikel 287
 
 1. De rechtbank zal met de meeste spoed op het verzoekschrift uitspraak doen. Zij kan de voorlopige toepassing van de schuldsaneringsregeling uitspreken.
 
-De uitspraak geschiedt bij vonnis. [Artikel 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=6&z=2006-02-01&g=2006-02-01), is van overeenkomstige toepassing. De toepassing van de schuldsaneringsregeling wordt geacht te zijn ingegaan bij de aanvang van de dag waarop de rechter die toepassing heeft uitgesproken.
+De uitspraak geschiedt bij vonnis. [Artikel 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=6&z=2007-01-01&g=2007-01-01), is van overeenkomstige toepassing. De toepassing van de schuldsaneringsregeling wordt geacht te zijn ingegaan bij de aanvang van de dag waarop de rechter die toepassing heeft uitgesproken.
 
-2. Indien in of bij het verzoekschrift gegevens als bedoeld in [artikel 285, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Eerste&artikel=285&z=2006-02-01&g=2006-02-01), ontbreken, kan de rechtbank de schuldsaneringsregeling slechts voorlopig van toepassing verklaren, in welk geval zij de schuldenaar een termijn van ten hoogste eenentwintig dagen gunt om de ontbrekende gegevens te verstrekken.
+2. Indien in of bij het verzoekschrift gegevens als bedoeld in [artikel 285, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Eerste&artikel=285&z=2007-01-01&g=2007-01-01), ontbreken, kan de rechtbank de schuldsaneringsregeling slechts voorlopig van toepassing verklaren, in welk geval zij de schuldenaar een termijn van ten hoogste eenentwintig dagen gunt om de ontbrekende gegevens te verstrekken.
 
 3. Het vonnis bedoeld in het eerste lid houdt in de benoeming van een van de leden van de rechtbank tot rechter-commissaris en de benoeming van een bewindvoerder.
 
-4. Heeft de rechtbank de schuldsaneringsregeling voorlopig van toepassing verklaard, dan beslist zij uiterlijk op de achtentwintigste dag na de dag van die uitspraak of de definitieve toepassing van de schuldsaneringsregeling wordt uitgesproken. Zij kan alvorens te beslissen de schuldenaar, de rechter-commissaris, de bewindvoerder en een of meer schuldeisers oproepen om te worden gehoord. [Artikel 6, eerste lid, derde zin, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=6&z=2006-02-01&g=2006-02-01), zijn van overeenkomstige toepassing.
+4. Heeft de rechtbank de schuldsaneringsregeling voorlopig van toepassing verklaard, dan beslist zij uiterlijk op de achtentwintigste dag na de dag van die uitspraak of de definitieve toepassing van de schuldsaneringsregeling wordt uitgesproken. Zij kan alvorens te beslissen de schuldenaar, de rechter-commissaris, de bewindvoerder en een of meer schuldeisers oproepen om te worden gehoord. [Artikel 6, eerste lid, derde zin, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=6&z=2007-01-01&g=2007-01-01), zijn van overeenkomstige toepassing.
 
-5. De rechtbank spreekt de definitieve toepassing niet uit indien de schuldenaar niet binnen de termijn bedoeld in het tweede of achtste lid de ontbrekende gegevens heeft verstrekt. De rechtbank kan de definitieve toepassing wel uitspreken indien de verklaring, bedoeld in [artikel 285, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Eerste&artikel=285&z=2006-02-01&g=2006-02-01), ontbreekt op grond van een weigering of verzuim van de gemeente, de door haar gemandateerde kredietbank of van de aangewezen natuurlijke persoon of rechtspersoon om de verklaring af te geven, en de rechtbank van oordeel is dat de afgifte van de door de schuldenaar verzochte verklaring in redelijkheid niet geweigerd had mogen worden.
+5. De rechtbank spreekt de definitieve toepassing niet uit indien de schuldenaar niet binnen de termijn bedoeld in het tweede of achtste lid de ontbrekende gegevens heeft verstrekt. De rechtbank kan de definitieve toepassing wel uitspreken indien de verklaring, bedoeld in [artikel 285, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Eerste&artikel=285&z=2007-01-01&g=2007-01-01), ontbreekt op grond van een weigering of verzuim van de gemeente, de door haar gemandateerde kredietbank of van de aangewezen natuurlijke persoon of rechtspersoon om de verklaring af te geven, en de rechtbank van oordeel is dat de afgifte van de door de schuldenaar verzochte verklaring in redelijkheid niet geweigerd had mogen worden.
 
 6. Wordt geen definitieve toepassing van de schuldsaneringsregeling uitgesproken, dan vervalt de voorlopige toepassing pas met ingang van de dag waarop de uitspraak waarbij de definitieve toepassing is afgewezen, in kracht van gewijsde is gegaan.
 
-7. Indien het verzoekschrift op de voet van [artikel 284, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Eerste&artikel=284&z=2006-02-01&g=2006-02-01), door burgemeester en wethouders is ingediend, kan de rechtbank de schuldsaneringsregeling slechts voorlopig van toepassing verklaren, in welk geval de schuldenaar wordt opgeroepen om te worden gehoord als bedoeld in het vierde lid, tweede volzin.
+7. Indien het verzoekschrift op de voet van [artikel 284, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Eerste&artikel=284&z=2007-01-01&g=2007-01-01), door burgemeester en wethouders is ingediend, kan de rechtbank de schuldsaneringsregeling slechts voorlopig van toepassing verklaren, in welk geval de schuldenaar wordt opgeroepen om te worden gehoord als bedoeld in het vierde lid, tweede volzin.
 
-8. Indien het zevende lid toepassing vindt en in het verzoekschrift of in een daarbij gevoegde bijlage gegevens als bedoeld in [artikel 285, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Eerste&artikel=285&z=2006-02-01&g=2006-02-01), ontbreken, stelt de rechtbank de schuldenaar in de gelegenheid om binnen een termijn van eenentwintig dagen de ontbrekende gegevens te verstrekken.
+8. Indien het zevende lid toepassing vindt en in het verzoekschrift of in een daarbij gevoegde bijlage gegevens als bedoeld in [artikel 285, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Eerste&artikel=285&z=2007-01-01&g=2007-01-01), ontbreken, stelt de rechtbank de schuldenaar in de gelegenheid om binnen een termijn van eenentwintig dagen de ontbrekende gegevens te verstrekken.
 
 9. De rechtbank geeft in het vonnis, bedoeld in het eerste lid, last aan de bewindvoerder tot het openen van aan de schuldenaar gerichte brieven en telegrammen.
 
@@ -2578,7 +2558,7 @@ De uitspraak geschiedt bij vonnis. [Artikel 6, vierde lid](https://wetten.overhe
 
 ##### Artikel 291
 
-1. De rechter kan in de uitspraak tot de toepassing van de schuldsaneringsregeling één of meer deskundigen benoemen ten einde binnen een door hem te bepalen termijn, die zo nodig kan worden verlengd, een onderzoek naar de staat van de boedel in te stellen en een beredeneerd verslag van hun bevindingen uit te brengen. Het [tweede lid van artikel 290](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Eerste&artikel=290&z=2006-02-01&g=2006-02-01) vindt overeenkomstige toepassing.
+1. De rechter kan in de uitspraak tot de toepassing van de schuldsaneringsregeling één of meer deskundigen benoemen ten einde binnen een door hem te bepalen termijn, die zo nodig kan worden verlengd, een onderzoek naar de staat van de boedel in te stellen en een beredeneerd verslag van hun bevindingen uit te brengen. Het [tweede lid van artikel 290](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Eerste&artikel=290&z=2007-01-01&g=2007-01-01) vindt overeenkomstige toepassing.
 
 2. Het verslag bevat een met redenen omkleed oordeel over de betrouwbaarheid van de door de schuldenaar overgelegde staat en bescheiden en, indien de rechter daarom heeft verzocht, een voorstel omtrent door de rechtbank in het saneringsplan op te nemen regelingen.
 
@@ -2602,9 +2582,9 @@ De uitspraak geschiedt bij vonnis. [Artikel 6, vierde lid](https://wetten.overhe
 
 ##### Artikel 293
 
-1. De griffier van de rechtbank doet van de uitspraak tot de toepassing van de schuldsaneringsregeling, van de naam, de woonplaats en het beroep van de schuldenaar, van de naam van de rechter-commissaris, van de naam en de woonplaats of het kantoor van de bewindvoerder alsmede van de dagen, uur en plaats bedoeld in [artikel 289](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Eerste&artikel=289&z=2006-02-01&g=2006-02-01), onverwijld aankondiging in de Staatscourant.
+1. De griffier van de rechtbank doet van de uitspraak tot de toepassing van de schuldsaneringsregeling, van de naam, de woonplaats en het beroep van de schuldenaar, van de naam van de rechter-commissaris, van de naam en de woonplaats of het kantoor van de bewindvoerder alsmede van de dagen, uur en plaats bedoeld in [artikel 289](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Eerste&artikel=289&z=2007-01-01&g=2007-01-01), onverwijld aankondiging in de Staatscourant.
 
-2. De griffier van de rechtbank geeft van de verlening van de schuldsanering onverwijld kennis aan de administratie der posterijen. In de kennisgeving wordt melding gemaakt van de in [artikel 287, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Eerste&artikel=287&z=2006-02-01&g=2006-02-01), bedoelde last.
+2. De griffier van de rechtbank geeft van de verlening van de schuldsanering onverwijld kennis aan de administratie der posterijen. In de kennisgeving wordt melding gemaakt van de in [artikel 287, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Eerste&artikel=287&z=2007-01-01&g=2007-01-01), bedoelde last.
 
 ##### Artikel 294
 
@@ -2612,7 +2592,7 @@ De uitspraak geschiedt bij vonnis. [Artikel 6, vierde lid](https://wetten.overhe
 
 - a. een uittreksel van de rechterlijke uitspraken tot de voorlopige en definitieve toepassing van de schuldsaneringsregeling en tot beëindiging daarvan;
 
-- b. de beëindiging en de herleving van de toepassing van de schuldsaneringsregeling bedoeld in [artikel 312](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Tweede&artikel=312&z=2006-02-01&g=2006-02-01);
+- b. de beëindiging en de herleving van de toepassing van de schuldsaneringsregeling bedoeld in [artikel 312](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Tweede&artikel=312&z=2007-01-01&g=2007-01-01);
 
 - c. de summiere inhoud en de homologatie van het akkoord;
 
@@ -2622,15 +2602,15 @@ De uitspraak geschiedt bij vonnis. [Artikel 6, vierde lid](https://wetten.overhe
 
 - f. het bedrag van de uitdelingen;
 
-- g. de summiere inhoud van de uitspraak bedoeld in [artikel 354](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Negende&artikel=354&z=2006-02-01&g=2006-02-01);
+- g. de summiere inhoud van de uitspraak bedoeld in [artikel 354](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Negende&artikel=354&z=2007-01-01&g=2007-01-01);
 
-- h. de datum waarop de schuldsaneringsregeling ingevolge het bepaalde in [artikel 356, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Negende&artikel=356&z=2006-02-01&g=2006-02-01), is geëindigd.
+- h. de datum waarop de schuldsaneringsregeling ingevolge het bepaalde in [artikel 356, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Negende&artikel=356&z=2007-01-01&g=2007-01-01), is geëindigd.
 
 2. Omtrent vorm en inhoud van het register worden bij algemene maatregel van bestuur nadere regels gegeven.
 
 3. De griffier is verplicht aan een ieder kosteloze inzage van het register en tegen betaling een uittreksel daaruit te verstrekken.
 
-4. De griffier geeft de in het eerste lid onder a tot en met h genoemde gegevens door aan Onze Minister van Justitie of een bij algemene maatregel van bestuur aan te wijzen ander bestuursorgaan ten behoeve van het in [artikel 294a](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Eerste&artikel=294a&z=2006-02-01&g=2006-02-01) genoemde centrale register.
+4. De griffier geeft de in het eerste lid onder a tot en met h genoemde gegevens door aan Onze Minister van Justitie of een bij algemene maatregel van bestuur aan te wijzen ander bestuursorgaan ten behoeve van het in [artikel 294a](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Eerste&artikel=294a&z=2007-01-01&g=2007-01-01) genoemde centrale register.
 
 ### afdeling Tweede. De gevolgen van de toepassing van de schuldsaneringsregeling
 
@@ -2648,13 +2628,13 @@ De uitspraak geschiedt bij vonnis. [Artikel 6, vierde lid](https://wetten.overhe
 
 - b. de inboedel, voorzover niet bovenmatig, bedoeld in [artikel 5 van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=5);
 
-- c. hetgeen is vermeld in [artikel 21, onder 1°, 3°, 5° en 6°](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=21&z=2006-02-01&g=2006-02-01);
+- c. hetgeen is vermeld in [artikel 21, onder 1°, 3°, 5° en 6°](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=21&z=2007-01-01&g=2007-01-01);
 
-- d. het door de rechter of, totdat het saneringsplan is vastgesteld, door de rechter-commissaris overeenkomstig [artikel 21, onder 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=21&z=2006-02-01&g=2006-02-01), vastgestelde bedrag.
+- d. het door de rechter of, totdat het saneringsplan is vastgesteld, door de rechter-commissaris overeenkomstig [artikel 21, onder 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=21&z=2007-01-01&g=2007-01-01), vastgestelde bedrag.
 
-5. Niettemin valt een goed als bedoeld in het vierde lid, onder a, in de boedel indien de waarde van dat goed de waarde van de met de verkrijging samenhangende prestatie aanmerkelijk overtreft. In dat geval ontvangt de schuldenaar uit de boedel, indien dat goed op de voet van [artikel 347](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Achtste&artikel=347&z=2006-02-01&g=2006-02-01) te gelde wordt gemaakt en voorzover de opbrengst daarvan toereikend is, de waarde van zijn prestatie tot verkrijging van dat goed, bij voorrang te voldoen voordat met betalingen uit de boedel aan schuldeisers kan worden begonnen.
+5. Niettemin valt een goed als bedoeld in het vierde lid, onder a, in de boedel indien de waarde van dat goed de waarde van de met de verkrijging samenhangende prestatie aanmerkelijk overtreft. In dat geval ontvangt de schuldenaar uit de boedel, indien dat goed op de voet van [artikel 347](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Achtste&artikel=347&z=2007-01-01&g=2007-01-01) te gelde wordt gemaakt en voorzover de opbrengst daarvan toereikend is, de waarde van zijn prestatie tot verkrijging van dat goed, bij voorrang te voldoen voordat met betalingen uit de boedel aan schuldeisers kan worden begonnen.
 
-6. Ten aanzien van het tweede en vierde lid, onder c en d, is [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=22&z=2006-02-01&g=2006-02-01) van overeenkomstige toepassing.
+6. Ten aanzien van het tweede en vierde lid, onder c en d, is [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=22&z=2007-01-01&g=2007-01-01) van overeenkomstige toepassing.
 
 ##### Artikel 295a
 
@@ -2670,7 +2650,7 @@ De uitspraak geschiedt bij vonnis. [Artikel 6, vierde lid](https://wetten.overhe
 
 3. Indien de bewindvoerder de begunstiging heeft gewijzigd, vervalt deze wijziging met de beëindiging van de schuldsaneringsregeling.
 
-4. Indien de begunstiging na de uitspraak tot toepassing van de schuldsaneringsregeling onherroepelijk wordt, kan deze onherroepelijkheid niet aan de boedel worden tegengeworpen. De verzekeraar is verplicht een uitkering, waarop de begunstiging betrekking heeft, onder zich te houden. Voor zover vaststaat dat de begunstiging niet zal worden gewijzigd, blijven de eerste en de tweede volzin buiten toepassing. Ten aanzien van de begunstigde is [artikel 317](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Derde&artikel=317&z=2006-02-01&g=2006-02-01) van overeenkomstige toepassing.
+4. Indien de begunstiging na de uitspraak tot toepassing van de schuldsaneringsregeling onherroepelijk wordt, kan deze onherroepelijkheid niet aan de boedel worden tegengeworpen. De verzekeraar is verplicht een uitkering, waarop de begunstiging betrekking heeft, onder zich te houden. Voor zover vaststaat dat de begunstiging niet zal worden gewijzigd, blijven de eerste en de tweede volzin buiten toepassing. Ten aanzien van de begunstigde is [artikel 317](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Derde&artikel=317&z=2007-01-01&g=2007-01-01) van overeenkomstige toepassing.
 
 5. In afwijking van het vierde lid, tweede zin, kan de verzekeraar een betaling aan de begunstigde tegenwerpen aan de boedel, voorzover de bewindvoerder niet bewijst dat de verzekeraar op het tijdstip van betaling op de hoogte was van de toepassing van de schuldsaneringsregeling of van een daaraan voorafgegaan beslag ten laste van de verzekeringnemer. In dat geval heeft de bewindvoerder verhaal op de begunstigde.
 
@@ -2688,11 +2668,11 @@ De uitspraak geschiedt bij vonnis. [Artikel 6, vierde lid](https://wetten.overhe
 
 ##### Artikel 297
 
-1. Onverminderd het bepaalde in [artikel 296](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Tweede&artikel=296&z=2006-02-01&g=2006-02-01) is de schuldenaar zelfstandig bevoegd tot het verrichten van rechtshandelingen.
+1. Onverminderd het bepaalde in [artikel 296](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Tweede&artikel=296&z=2007-01-01&g=2007-01-01) is de schuldenaar zelfstandig bevoegd tot het verrichten van rechtshandelingen.
 
 2. De schuldenaar behoeft niettemin de toestemming van de bewindvoerder voor de volgende rechtshandelingen:
 
-- a. het aangaan van een overeenkomst inzake krediet als bedoeld in [artikel 1, onderdeel r, van de Wet financiële dienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0018329&artikel=1);
+- a. het aangaan van een overeenkomst inzake krediet in de zin van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368);
 
 - b. overeenkomsten waarbij hij zich als borg of anderszins als medeschuldenaar verbindt, zich voor een derde sterk maakt of zich tot zekerheidstelling voor de schuld van een derde verbindt;
 
@@ -2720,7 +2700,7 @@ Voor verbintenissen van de schuldenaar die na de uitspraak tot de toepassing van
 
 2. Rechtsvorderingen die voldoening van een vordering uit de boedel ten doel hebben, kunnen gedurende de toepassing van de schuldsaneringsregeling ook tegen de schuldenaar op geen andere wijze worden ingesteld dan door aanmelding ter verificatie.
 
-3. De [artikelen 57 tot en met 59a](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=57&z=2006-02-01&g=2006-02-01) zijn van overeenkomstige toepassing.
+3. De [artikelen 57 tot en met 59a](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=57&z=2007-01-01&g=2007-01-01) zijn van overeenkomstige toepassing.
 
 ##### Artikel 299a
 
@@ -2738,7 +2718,7 @@ Voor verbintenissen van de schuldenaar die na de uitspraak tot de toepassing van
 
 4. Betreft het een registergoed, dan dient de schuldeiser, op straffe van verval van het recht van parate executie, binnen veertien dagen na het verstrijken van de in het derde lid bedoelde termijn, aan de bewindvoerder bij exploot aan te zeggen dat hij tot executie overgaat, en dit exploot in de openbare registers te doen inschrijven.
 
-5. De bewindvoerder kan de schuldeiser die overeenkomstig het derde lid het recht van parate executie kan uitoefenen, een redelijk termijn stellen daartoe over te gaan. Heeft de schuldeiser de zaak niet binnen deze termijn verkocht, dan kan de bewindvoerder haar opeisen en met toepassing van [artikel 326](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Vierde&artikel=326&z=2006-02-01&g=2006-02-01) of [347, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Achtste&artikel=347&z=2006-02-01&g=2006-02-01), verkopen, onverminderd de voorrang, aan de schuldeiser in [artikel 292 van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=292) toegekend. De rechter-commissaris is bevoegd de termijn op verzoek van de schuldeiser een of meermalen te verlengen.
+5. De bewindvoerder kan de schuldeiser die overeenkomstig het derde lid het recht van parate executie kan uitoefenen, een redelijk termijn stellen daartoe over te gaan. Heeft de schuldeiser de zaak niet binnen deze termijn verkocht, dan kan de bewindvoerder haar opeisen en met toepassing van [artikel 326](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Vierde&artikel=326&z=2007-01-01&g=2007-01-01) of [347, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Achtste&artikel=347&z=2007-01-01&g=2007-01-01), verkopen, onverminderd de voorrang, aan de schuldeiser in [artikel 292 van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=292) toegekend. De rechter-commissaris is bevoegd de termijn op verzoek van de schuldeiser een of meermalen te verlengen.
 
 ##### Artikel 300
 
@@ -2752,7 +2732,7 @@ De schuldsaneringsregeling werkt niet ten voordele van borgen en andere medeschu
 
 3. De gelegde beslagen vervallen zodra de uitspraak, houdende de vaststelling van het saneringsplan, in kracht van gewijsde is gegaan, tenzij de rechter op voordracht van de rechter-commissaris of op verzoek van de bewindvoerder dan wel van de schuldenaar reeds een vroeger tijdstip daarvoor heeft bepaald. De inschrijving van een desbetreffende, op verzoek van de bewindvoerder af te geven verklaring van de rechter-commissaris machtigt de bewaarder van de openbare registers tot doorhaling.
 
-4. Een vervallen beslag herleeft, zodra de toepassing van de schuldsaneringsregeling eindigt op grond van het bepaalde in [artikel 350, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Negende&artikel=350&z=2006-02-01&g=2006-02-01), mits het goed dan nog tot de boedel behoort. Indien de inschrijving van het beslag in de openbare registers is doorgehaald, vervalt de herleving, indien niet binnen veertien dagen na de herleving een exploot is ingeschreven, waarbij van de herleving mededeling aan de schuldenaar is gedaan.
+4. Een vervallen beslag herleeft, zodra de toepassing van de schuldsaneringsregeling eindigt op grond van het bepaalde in [artikel 350, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Negende&artikel=350&z=2007-01-01&g=2007-01-01), mits het goed dan nog tot de boedel behoort. Indien de inschrijving van het beslag in de openbare registers is doorgehaald, vervalt de herleving, indien niet binnen veertien dagen na de herleving een exploot is ingeschreven, waarbij van de herleving mededeling aan de schuldenaar is gedaan.
 
 5. Het tweede, derde en vierde lid zijn eveneens van toepassing ten aanzien van executies en beslagen, aangevangen of gelegd ten behoeve van vorderingen welke door pand of hypotheek zijn gedekt, voorzover die executies en beslagen niet zijn aangevangen en gelegd op goederen, welke voor die vorderingen bijzonderlijk zijn verbonden.
 
@@ -2794,7 +2774,7 @@ Een betaling ten laste van niet tot de boedel behorende goederen van de schulden
 
 1. Hij die zowel schuldenaar als schuldeiser is van de persoon ten aanzien van wie de schuldsaneringsregeling is uitgesproken, kan zijn schuld met zijn vordering ten aanzien waarvan de schuldsaneringsregeling werkt, slechts verrekenen indien beide zijn ontstaan vóór de uitspraak tot de toepassing van de schuldsaneringsregeling.
 
-2. [Artikel 53, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=53&z=2006-02-01&g=2006-02-01), is van overeenkomstige toepassing.
+2. [Artikel 53, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=53&z=2007-01-01&g=2007-01-01), is van overeenkomstige toepassing.
 
 ##### Artikel 308
 
@@ -2834,13 +2814,13 @@ Een betaling door de schuldenaar anders dan ten laste van de boedel verricht, wo
 
 1. Gedurende de toepassing van de schuldsaneringsregeling kan de schuldenaar in staat van faillissement worden verklaard ter zake van vorderingen ten aanzien waarvan de schuldsaneringsregeling niet werkt.
 
-2. Door de faillietverklaring van de schuldenaar eindigt de toepassing van de schuldsaneringsregeling van rechtswege. Van de beëindiging wordt door de curator melding gemaakt in de publicatie bedoeld in [artikel 14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=14&z=2006-02-01&g=2006-02-01).
+2. Door de faillietverklaring van de schuldenaar eindigt de toepassing van de schuldsaneringsregeling van rechtswege. Van de beëindiging wordt door de curator melding gemaakt in de publicatie bedoeld in [artikel 14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=14&z=2007-01-01&g=2007-01-01).
 
-3. Indien tengevolge van verzet, hoger beroep of cassatie de faillietverklaring wordt vernietigd, herleeft de toepassing van de schuldsaneringsregeling van rechtswege. Daarvan wordt melding gemaakt in de aankondiging bedoeld in [artikel 15, eerste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=15&z=2006-02-01&g=2006-02-01). [Artikel 15d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=15d&z=2006-02-01&g=2006-02-01), is van overeenkomstige toepassing.
+3. Indien tengevolge van verzet, hoger beroep of cassatie de faillietverklaring wordt vernietigd, herleeft de toepassing van de schuldsaneringsregeling van rechtswege. Daarvan wordt melding gemaakt in de aankondiging bedoeld in [artikel 15, eerste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=15&z=2007-01-01&g=2007-01-01). [Artikel 15d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=15d&z=2007-01-01&g=2007-01-01), is van overeenkomstige toepassing.
 
 ##### Artikel 313
 
-De[artikelen 25](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=25&z=2006-02-01&g=2006-02-01), [27 tot en met 31](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=27&z=2006-02-01&g=2006-02-01), [34 tot en met 38a](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=34&z=2006-02-01&g=2006-02-01), [40 tot en met 52](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=40&z=2006-02-01&g=2006-02-01), [54 tot en met 56](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=54&z=2006-02-01&g=2006-02-01) en [60a tot en met 63](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=60a&z=2006-02-01&g=2006-02-01) zijn van overeenkomstige toepassing.
+De[artikelen 25](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=25&z=2007-01-01&g=2007-01-01), [27 tot en met 31](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=27&z=2007-01-01&g=2007-01-01), [34 tot en met 38a](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=34&z=2007-01-01&g=2007-01-01), [40 tot en met 52](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=40&z=2007-01-01&g=2007-01-01), [54 tot en met 56](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=54&z=2007-01-01&g=2007-01-01) en [60a tot en met 63](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=60a&z=2007-01-01&g=2007-01-01) zijn van overeenkomstige toepassing.
 
 ### Tweede afdeling A. Bijzondere bepalingen
 
@@ -2848,13 +2828,13 @@ De[artikelen 25](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afd
 
 1. De rechter-commissaris houdt toezicht op de vervulling door de bewindvoerder van de door hem ingevolge deze titel te verrichten taken.
 
-2. De [artikelen 65](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Derde&paragraaf=1&artikel=65&z=2006-02-01&g=2006-02-01) en [66](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Derde&paragraaf=1&artikel=66&z=2006-02-01&g=2006-02-01) zijn van overeenkomstige toepassing.
+2. De [artikelen 65](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Derde&paragraaf=1&artikel=65&z=2007-01-01&g=2007-01-01) en [66](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Derde&paragraaf=1&artikel=66&z=2007-01-01&g=2007-01-01) zijn van overeenkomstige toepassing.
 
 ##### Artikel 315
 
 1. Van alle beschikkingen van de rechter-commissaris staat gedurende vijf dagen hoger beroep op de rechtbank open. De rechtbank beslist na verhoor of behoorlijke oproeping van de belanghebbenden.
 
-2. Niettemin kan geen hoger beroep worden ingesteld tegen de beschikkingen die zijn genomen overeenkomstig de[artikelen 21, onder 4°, 34, 58, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=21&z=2006-02-01&g=2006-02-01), [59a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=59a&z=2006-02-01&g=2006-02-01), [94, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vierde&artikel=94&z=2006-02-01&g=2006-02-01), [102, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vierde&artikel=102&z=2006-02-01&g=2006-02-01), [125](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vijfde&artikel=125&z=2006-02-01&g=2006-02-01), [127, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vijfde&artikel=127&z=2006-02-01&g=2006-02-01), [176, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zevende&artikel=176&z=2006-02-01&g=2006-02-01), en de beschikkingen bedoeld in de[artikelen 295, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Tweede&artikel=295&z=2006-02-01&g=2006-02-01), [296, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Tweede&artikel=296&z=2006-02-01&g=2006-02-01), [artikel 299b, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Tweede&artikel=299b&z=2006-02-01&g=2006-02-01), [310, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Tweede&artikel=310&z=2006-02-01&g=2006-02-01), [311, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Tweede&artikel=311&z=2006-02-01&g=2006-02-01), [316, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Derde&artikel=316&z=2006-02-01&g=2006-02-01),[318, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Derde&artikel=318&z=2006-02-01&g=2006-02-01),[324, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Vierde&artikel=324&z=2006-02-01&g=2006-02-01), [326, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Vierde&artikel=326&z=2006-02-01&g=2006-02-01), [332, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=VIJFDE&paragraaf=2&artikel=332&z=2006-02-01&g=2006-02-01) en [347, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Achtste&artikel=347&z=2006-02-01&g=2006-02-01).
+2. Niettemin kan geen hoger beroep worden ingesteld tegen de beschikkingen die zijn genomen overeenkomstig de[artikelen 21, onder 4°, 34, 58, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=21&z=2007-01-01&g=2007-01-01), [59a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=59a&z=2007-01-01&g=2007-01-01), [94, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vierde&artikel=94&z=2007-01-01&g=2007-01-01), [102, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vierde&artikel=102&z=2007-01-01&g=2007-01-01), [125](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vijfde&artikel=125&z=2007-01-01&g=2007-01-01), [127, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vijfde&artikel=127&z=2007-01-01&g=2007-01-01), [176, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zevende&artikel=176&z=2007-01-01&g=2007-01-01), en de beschikkingen bedoeld in de[artikelen 295, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Tweede&artikel=295&z=2007-01-01&g=2007-01-01), [296, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Tweede&artikel=296&z=2007-01-01&g=2007-01-01), [artikel 299b, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Tweede&artikel=299b&z=2007-01-01&g=2007-01-01), [310, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Tweede&artikel=310&z=2007-01-01&g=2007-01-01), [311, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Tweede&artikel=311&z=2007-01-01&g=2007-01-01), [316, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Derde&artikel=316&z=2007-01-01&g=2007-01-01),[318, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Derde&artikel=318&z=2007-01-01&g=2007-01-01),[324, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Vierde&artikel=324&z=2007-01-01&g=2007-01-01), [326, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Vierde&artikel=326&z=2007-01-01&g=2007-01-01), [332, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=VIJFDE&paragraaf=2&artikel=332&z=2007-01-01&g=2007-01-01) en [347, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Achtste&artikel=347&z=2007-01-01&g=2007-01-01).
 
 ##### Artikel 316
 
@@ -2866,7 +2846,7 @@ De[artikelen 25](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afd
 
 - c. de uitvoering van het saneringsplan.
 
-2. Alvorens in rechte op te treden, behalve waar het verificatiegeschillen betreft, alsmede in de gevallen van de [artikelen 37](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=37&z=2006-02-01&g=2006-02-01), [40](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=40&z=2006-02-01&g=2006-02-01), [58, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=58&z=2006-02-01&g=2006-02-01), [59a, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=59a&z=2006-02-01&g=2006-02-01), [305](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Tweede&artikel=305&z=2006-02-01&g=2006-02-01), [326, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Vierde&artikel=326&z=2006-02-01&g=2006-02-01), en [349, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Achtste&artikel=349&z=2006-02-01&g=2006-02-01), behoeft de bewindvoerder machtiging van de rechter-commissaris. [Artikel 72](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Derde&paragraaf=2&artikel=72&z=2006-02-01&g=2006-02-01) is van overeenkomstige toepassing.
+2. Alvorens in rechte op te treden, behalve waar het verificatiegeschillen betreft, alsmede in de gevallen van de [artikelen 37](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=37&z=2007-01-01&g=2007-01-01), [40](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=40&z=2007-01-01&g=2007-01-01), [58, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=58&z=2007-01-01&g=2007-01-01), [59a, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=59a&z=2007-01-01&g=2007-01-01), [305](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Tweede&artikel=305&z=2007-01-01&g=2007-01-01), [326, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Vierde&artikel=326&z=2007-01-01&g=2007-01-01), en [349, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Achtste&artikel=349&z=2007-01-01&g=2007-01-01), behoeft de bewindvoerder machtiging van de rechter-commissaris. [Artikel 72](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Derde&paragraaf=2&artikel=72&z=2007-01-01&g=2007-01-01) is van overeenkomstige toepassing.
 
 ##### Artikel 317
 
@@ -2888,47 +2868,47 @@ De[artikelen 25](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afd
 
 ##### Artikel 320
 
-1. De rechtbank stelt het salaris van de bewindvoerder vast in het vonnis bedoeld in [artikel 354, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Negende&artikel=354&z=2006-02-01&g=2006-02-01).
+1. De rechtbank stelt het salaris van de bewindvoerder vast in het vonnis bedoeld in [artikel 354, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Negende&artikel=354&z=2007-01-01&g=2007-01-01).
 
 2. De rechtbank kan op verzoek van de bewindvoerder tijdens de toepassing van de schuldsaneringsregeling telkens voor een daarbij door de rechtbank vast te stellen periode een voorschot op het salaris toekennen.
 
-3. Indien de toepassing van de schuldsaneringsregeling wordt beëindigd op de voet van [artikel 338, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Zesde&artikel=338&z=2006-02-01&g=2006-02-01), of [artikel 350](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Negende&artikel=350&z=2006-02-01&g=2006-02-01), stelt de rechtbank daarbij tevens het salaris vast.
+3. Indien de toepassing van de schuldsaneringsregeling wordt beëindigd op de voet van [artikel 338, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Zesde&artikel=338&z=2007-01-01&g=2007-01-01), of [artikel 350](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Negende&artikel=350&z=2007-01-01&g=2007-01-01), stelt de rechtbank daarbij tevens het salaris vast.
 
-4. Eindigt de toepassing van de schuldsaneringsregeling op grond van het bepaalde in [artikel 312, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Tweede&artikel=312&z=2006-02-01&g=2006-02-01), dan stelt de rechtbank het salaris vast zodra de uitspraak tot faillietverklaring in kracht van gewijsde is gegaan.
+4. Eindigt de toepassing van de schuldsaneringsregeling op grond van het bepaalde in [artikel 312, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Tweede&artikel=312&z=2007-01-01&g=2007-01-01), dan stelt de rechtbank het salaris vast zodra de uitspraak tot faillietverklaring in kracht van gewijsde is gegaan.
 
 5. In geval van akkoord wordt het salaris bij het vonnis van homologatie bepaald.
 
 6. Het salaris van de bewindvoerder wordt vastgesteld volgens bij algemene maatregel van bestuur te stellen regels.
 
-7. Het salaris van de bewindvoerder is schuld van de boedel en wordt bij voorrang voldaan boven alle andere schulden en boven een betaling bedoeld in [artikel 295, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Tweede&artikel=295&z=2006-02-01&g=2006-02-01). Het in de vorige volzin bepaalde is ook van toepassing op de verschotten en op de publicaties die ingevolge deze titel zijn voorgeschreven.
+7. Het salaris van de bewindvoerder is schuld van de boedel en wordt bij voorrang voldaan boven alle andere schulden en boven een betaling bedoeld in [artikel 295, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Tweede&artikel=295&z=2007-01-01&g=2007-01-01). Het in de vorige volzin bepaalde is ook van toepassing op de verschotten en op de publicaties die ingevolge deze titel zijn voorgeschreven.
 
 8. De kosten van de ingevolge deze titel voorgeschreven publicaties die niet uit de boedel kunnen worden voldaan, en het salaris van deskundigen komen ten laste van de Staat. De griffier van de rechtbank waarbij de schuldenaar zijn verzoekschrift tot het uitspreken van de toepassing van de schuldsaneringsregeling heeft ingediend, draagt zorg voor de voldoening van het door de rechtbank vast te stellen bedrag dat ten laste van de Staat komt.
 
 ##### Artikel 321
 
-De [artikelen 85](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Derde&paragraaf=5&artikel=85&z=2006-02-01&g=2006-02-01) en [86](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Derde&paragraaf=5&artikel=86&z=2006-02-01&g=2006-02-01) zijn van overeenkomstige toepassing.
+De [artikelen 85](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Derde&paragraaf=5&artikel=85&z=2007-01-01&g=2007-01-01) en [86](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Derde&paragraaf=5&artikel=86&z=2007-01-01&g=2007-01-01) zijn van overeenkomstige toepassing.
 
 ### Tweede afdeling A. Bijzondere bepalingen
 
 ##### Artikel 322
 
-De bewindvoerder geeft van de dagen, uur en plaats bedoeld in [artikel 289](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Eerste&artikel=289&z=2006-02-01&g=2006-02-01) onverwijld aan alle bekende schuldeisers bij brieven kennis. In de kennisgeving wordt melding gemaakt dat gedurende een termijn van veertien dagen voorafgaande aan de verificatievergadering een ontwerp van een saneringsplan op de griffie ter inzage ligt. Indien de schuldenaar een ontwerp van akkoord ter griffie heeft neergelegd, wordt daarvan eveneens melding gemaakt.
+De bewindvoerder geeft van de dagen, uur en plaats bedoeld in [artikel 289](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Eerste&artikel=289&z=2007-01-01&g=2007-01-01) onverwijld aan alle bekende schuldeisers bij brieven kennis. In de kennisgeving wordt melding gemaakt dat gedurende een termijn van veertien dagen voorafgaande aan de verificatievergadering een ontwerp van een saneringsplan op de griffie ter inzage ligt. Indien de schuldenaar een ontwerp van akkoord ter griffie heeft neergelegd, wordt daarvan eveneens melding gemaakt.
 
 ##### Artikel 323
 
-De bewindvoerder zorgt, dadelijk na zijn benoeming, door alle nodige en gepaste middelen voor de bewaring van de boedel. Tenzij de rechter-commissaris anders bepaalt, neemt de bewindvoerder de tot de boedel behorende bescheiden en andere gegevensdragers, gelden, kleinodiën, effecten en andere papieren van waarde tegen ontvangstbewijs onder zich, behoudens voorzover het beheer daarover op grond van een beslissing als bedoeld in [artikel 296, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Tweede&artikel=296&z=2006-02-01&g=2006-02-01), toekomt aan de schuldenaar.
+De bewindvoerder zorgt, dadelijk na zijn benoeming, door alle nodige en gepaste middelen voor de bewaring van de boedel. Tenzij de rechter-commissaris anders bepaalt, neemt de bewindvoerder de tot de boedel behorende bescheiden en andere gegevensdragers, gelden, kleinodiën, effecten en andere papieren van waarde tegen ontvangstbewijs onder zich, behoudens voorzover het beheer daarover op grond van een beslissing als bedoeld in [artikel 296, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Tweede&artikel=296&z=2007-01-01&g=2007-01-01), toekomt aan de schuldenaar.
 
 ##### Artikel 324
 
-1. [Artikel 94, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vierde&artikel=94&z=2006-02-01&g=2006-02-01), is van overeenkomstige toepassing.
+1. [Artikel 94, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vierde&artikel=94&z=2007-01-01&g=2007-01-01), is van overeenkomstige toepassing.
 
-2. Van de goederen bedoeld in [artikel 295, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Tweede&artikel=295&z=2006-02-01&g=2006-02-01), wordt een staat aan de beschrijving gehecht.
+2. Van de goederen bedoeld in [artikel 295, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Tweede&artikel=295&z=2007-01-01&g=2007-01-01), wordt een staat aan de beschrijving gehecht.
 
-3. De rechter-commissaris kan bepalen dat de bewindvoerder een staat opmaakt als bedoeld in [artikel 96](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vierde&artikel=96&z=2006-02-01&g=2006-02-01) ter vervanging van de staat bedoeld in [artikel 285, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Eerste&artikel=285&z=2006-02-01&g=2006-02-01).
+3. De rechter-commissaris kan bepalen dat de bewindvoerder een staat opmaakt als bedoeld in [artikel 96](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vierde&artikel=96&z=2007-01-01&g=2007-01-01) ter vervanging van de staat bedoeld in [artikel 285, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Eerste&artikel=285&z=2007-01-01&g=2007-01-01).
 
 ##### Artikel 325
 
-Een afschrift van de boedelbeschrijving en, indien toepassing is gegeven aan [artikel 324, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Vierde&artikel=324&z=2006-02-01&g=2006-02-01), van de staat in dat artikellid bedoeld, worden ter kosteloze inzage van een ieder neergelegd ter griffie van de rechtbank die de schuldsaneringsregeling van toepassing heeft verklaard.
+Een afschrift van de boedelbeschrijving en, indien toepassing is gegeven aan [artikel 324, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Vierde&artikel=324&z=2007-01-01&g=2007-01-01), van de staat in dat artikellid bedoeld, worden ter kosteloze inzage van een ieder neergelegd ter griffie van de rechtbank die de schuldsaneringsregeling van toepassing heeft verklaard.
 
 De neerlegging geschiedt kosteloos.
 
@@ -2940,7 +2920,7 @@ De neerlegging geschiedt kosteloos.
 
 ##### Artikel 327
 
-De [artikelen 99](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vierde&artikel=99&z=2006-02-01&g=2006-02-01) en [102 tot en met 105](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vierde&artikel=102&z=2006-02-01&g=2006-02-01) en [107](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vierde&artikel=107&z=2006-02-01&g=2006-02-01) zijn van overeenkomstige toepassing.
+De [artikelen 99](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vierde&artikel=99&z=2007-01-01&g=2007-01-01) en [102 tot en met 105](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vierde&artikel=102&z=2007-01-01&g=2007-01-01) en [107](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vierde&artikel=107&z=2007-01-01&g=2007-01-01) zijn van overeenkomstige toepassing.
 
 ### afdeling Tweede. Van het akkoord
 
@@ -2948,7 +2928,7 @@ De [artikelen 99](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&af
 
 ##### Artikel 328
 
-1. Op de verificatie van vorderingen zijn de [artikelen 110 tot en met 116](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vijfde&artikel=110&z=2006-02-01&g=2006-02-01), [119 tot en met 127](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vijfde&artikel=119&z=2006-02-01&g=2006-02-01) (in welk laatste artikel in de plaats van 108, 1°, wordt gelezen: 289, derde lid) en [129 tot en met 137](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vijfde&artikel=129&z=2006-02-01&g=2006-02-01) van overeenkomstige toepassing.
+1. Op de verificatie van vorderingen zijn de [artikelen 110 tot en met 116](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vijfde&artikel=110&z=2007-01-01&g=2007-01-01), [119 tot en met 127](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vijfde&artikel=119&z=2007-01-01&g=2007-01-01) (in welk laatste artikel in de plaats van 108, 1°, wordt gelezen: 289, derde lid) en [129 tot en met 137](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vijfde&artikel=129&z=2007-01-01&g=2007-01-01) van overeenkomstige toepassing.
 
 2. Renten, na de uitspraak tot de toepassing van de schuldsaneringsregeling lopende ten aanzien van door pand of hypotheek gedekte vorderingen, worden pro memorie geverifieerd. Voorzover de renten op de opbrengst daarvan niet batig gerangschikt worden, kan de schuldeiser aan deze verificatie geen rechten ontlenen.
 
@@ -2964,9 +2944,9 @@ De [artikelen 99](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&af
 
 4. Vóórdat een saneringsplan is vastgesteld, kan aanbieding van een akkoord slechts geschieden door neerlegging van het ontwerp van akkoord ter griffie uiterlijk op de vijftiende dag vóór de dag waarop de verificatievergadering zal worden gehouden.
 
-5. Is een ontwerp van akkoord gevoegd bij het verzoekschrift tot het uitspreken van de toepassing van de schuldsaneringsregeling, dan doet de griffier daarvan opgave in de aankondiging bedoeld in [artikel 293](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Eerste&artikel=293&z=2006-02-01&g=2006-02-01).
+5. Is een ontwerp van akkoord gevoegd bij het verzoekschrift tot het uitspreken van de toepassing van de schuldsaneringsregeling, dan doet de griffier daarvan opgave in de aankondiging bedoeld in [artikel 293](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Eerste&artikel=293&z=2007-01-01&g=2007-01-01).
 
-6. Indien de neerlegging van een ontwerp van akkoord geschiedt na de indiening van het verzoekschrift tot het uitspreken van de toepassing van de schuldsaneringsregeling, doet de bewindvoerder daarvan onverwijld aankondiging in de Staatscourant. Tevens geeft de bewindvoerder van de neerlegging onverwijld bij brieven kennis aan alle bekende schuldeisers, tenzij daarvan reeds melding is gemaakt in de kennisgeving bedoeld in [artikel 322](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Vierde&artikel=322&z=2006-02-01&g=2006-02-01).
+6. Indien de neerlegging van een ontwerp van akkoord geschiedt na de indiening van het verzoekschrift tot het uitspreken van de toepassing van de schuldsaneringsregeling, doet de bewindvoerder daarvan onverwijld aankondiging in de Staatscourant. Tevens geeft de bewindvoerder van de neerlegging onverwijld bij brieven kennis aan alle bekende schuldeisers, tenzij daarvan reeds melding is gemaakt in de kennisgeving bedoeld in [artikel 322](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Vierde&artikel=322&z=2007-01-01&g=2007-01-01).
 
 ##### Artikel 330
 
@@ -2976,11 +2956,11 @@ Het ontwerp van een akkoord vervalt:
 
 - b. indien, voordat het vonnis van homologatie van het akkoord in kracht van gewijsde is gegaan, een rechterlijke uitspraak tot beëindiging van de toepassing van de schuldsaneringsregeling in kracht van gewijsde gaat;
 
-- c. indien de toepassing van de schuldsaneringsregeling eindigt op grond van het bepaalde in [artikel 312, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Tweede&artikel=312&z=2006-02-01&g=2006-02-01).
+- c. indien de toepassing van de schuldsaneringsregeling eindigt op grond van het bepaalde in [artikel 312, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Tweede&artikel=312&z=2007-01-01&g=2007-01-01).
 
 ##### Artikel 331
 
-1. Indien het ontwerp van akkoord is neergelegd overeenkomstig [artikel 329, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=VIJFDE&paragraaf=2&artikel=329&z=2006-02-01&g=2006-02-01), wordt daarover in de vergadering na afloop van de verificatie dadelijk geraadpleegd en beslist.
+1. Indien het ontwerp van akkoord is neergelegd overeenkomstig [artikel 329, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=VIJFDE&paragraaf=2&artikel=329&z=2007-01-01&g=2007-01-01), wordt daarover in de vergadering na afloop van de verificatie dadelijk geraadpleegd en beslist.
 
 2. Indien het ontwerp van akkoord is neergelegd nadat een saneringsplan is vastgesteld, zal de rechter-commissaris dadelijk dag, uur en plaats vaststellen waarop over het aangeboden akkoord ten overstaan van de rechter-commissaris zal worden geraadpleegd en beslist.
 
@@ -2992,7 +2972,7 @@ Tevens geeft de bewindvoerder daarvan onverwijld bij brieven kennis aan alle bek
 
 1. De schuldenaar is ter vergadering bevoegd tot toelichting en verdediging van het akkoord op te treden en het, staande de raadpleging, te wijzigen.
 
-2. Tot stemming over het akkoord zijn bevoegd de schuldeisers van vorderingen ten aanzien waarvan de schuldsaneringsregeling werkt. Pandhouders, hypotheekhouders en schuldeisers als bedoeld in [artikel 299b](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Tweede&artikel=299b&z=2006-02-01&g=2006-02-01) zijn tot stemmen bevoegd, indien zij vóór de aanvang van de stemming van hun recht van parate executie afstand doen. Zij herkrijgen dat recht niet, ongeacht of het akkoord wordt aanvaard, verworpen of overeenkomstig het vierde lid wordt vastgesteld.
+2. Tot stemming over het akkoord zijn bevoegd de schuldeisers van vorderingen ten aanzien waarvan de schuldsaneringsregeling werkt. Pandhouders, hypotheekhouders en schuldeisers als bedoeld in [artikel 299b](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Tweede&artikel=299b&z=2007-01-01&g=2007-01-01) zijn tot stemmen bevoegd, indien zij vóór de aanvang van de stemming van hun recht van parate executie afstand doen. Zij herkrijgen dat recht niet, ongeacht of het akkoord wordt aanvaard, verworpen of overeenkomstig het vierde lid wordt vastgesteld.
 
 3. Tot het aannemen van het akkoord wordt vereist:
 
@@ -3008,11 +2988,11 @@ Tevens geeft de bewindvoerder daarvan onverwijld bij brieven kennis aan alle bek
 
 5. Het proces-verbaal van de vergadering vermeldt de inhoud van het akkoord, de namen van de verschenen stemgerechtigde schuldeisers, de door ieder hunner uitgebrachte stem, de uitslag van de stemming en, indien toepassing is gegeven aan het vierde lid, de beschikking van de rechter-commissaris.
 
-6. [Artikel 149](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zesde&artikel=149&z=2006-02-01&g=2006-02-01) is van overeenkomstige toepassing.
+6. [Artikel 149](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zesde&artikel=149&z=2007-01-01&g=2007-01-01) is van overeenkomstige toepassing.
 
 ##### Artikel 333
 
-Indien over het akkoord is gestemd in een vergadering als bedoeld in [artikel 331, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=VIJFDE&paragraaf=2&artikel=331&z=2006-02-01&g=2006-02-01), vinden de [artikelen 335, eerste lid, aanhef en onder a en b, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=VIJFDE&paragraaf=3&artikel=335&z=2006-02-01&g=2006-02-01), [336](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=VIJFDE&paragraaf=3&artikel=336&z=2006-02-01&g=2006-02-01), [337, eerste en tweede lid, aanhef en onder a, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Zesde&artikel=337&z=2006-02-01&g=2006-02-01), [338, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Zesde&artikel=338&z=2006-02-01&g=2006-02-01), [339, eerste, tweede, derde en vierde lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Zesde&artikel=339&z=2006-02-01&g=2006-02-01), en [340](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Zesde&artikel=340&z=2006-02-01&g=2006-02-01) overeenkomstige toepassing.
+Indien over het akkoord is gestemd in een vergadering als bedoeld in [artikel 331, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=VIJFDE&paragraaf=2&artikel=331&z=2007-01-01&g=2007-01-01), vinden de [artikelen 335, eerste lid, aanhef en onder a en b, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=VIJFDE&paragraaf=3&artikel=335&z=2007-01-01&g=2007-01-01), [336](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=VIJFDE&paragraaf=3&artikel=336&z=2007-01-01&g=2007-01-01), [337, eerste en tweede lid, aanhef en onder a, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Zesde&artikel=337&z=2007-01-01&g=2007-01-01), [338, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Zesde&artikel=338&z=2007-01-01&g=2007-01-01), [339, eerste, tweede, derde en vierde lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Zesde&artikel=339&z=2007-01-01&g=2007-01-01), en [340](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Zesde&artikel=340&z=2007-01-01&g=2007-01-01) overeenkomstige toepassing.
 
 #### Paragraaf 3. Raadpleging over voortzetting van de schuldsaneringsregeling en het ontwerp van saneringsplan
 
@@ -3030,7 +3010,7 @@ Indien over het akkoord is gestemd in een vergadering als bedoeld in [artikel 33
 
 1. De rechter-commissaris bepaalt vóór het sluiten van de verificatievergadering de terechtzitting waarop de rechtbank achtereenvolgens zal behandelen:
 
-- a. verzoekschriften, indien deze op de voet van [artikel 149](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zesde&artikel=149&z=2006-02-01&g=2006-02-01) zijn ingediend;
+- a. verzoekschriften, indien deze op de voet van [artikel 149](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zesde&artikel=149&z=2007-01-01&g=2007-01-01) zijn ingediend;
 
 - b. de homologatie van het akkoord, indien een akkoord is aangenomen of vastgesteld;
 
@@ -3038,7 +3018,7 @@ Indien over het akkoord is gestemd in een vergadering als bedoeld in [artikel 33
 
 - d. het door de schuldenaar ingediende ontwerp van een saneringsplan.
 
-2. De terechtzitting zal gehouden worden ten minste acht en ten hoogste veertien dagen na de dag waarop de verificatievergadering heeft plaatsgevonden. [Artikel 151](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zesde&artikel=151&z=2006-02-01&g=2006-02-01) is van overeenkomstige toepassing.
+2. De terechtzitting zal gehouden worden ten minste acht en ten hoogste veertien dagen na de dag waarop de verificatievergadering heeft plaatsgevonden. [Artikel 151](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zesde&artikel=151&z=2007-01-01&g=2007-01-01) is van overeenkomstige toepassing.
 
 ##### Artikel 336
 
@@ -3050,7 +3030,7 @@ Indien over het akkoord is gestemd in een vergadering als bedoeld in [artikel 33
 
 ##### Artikel 337
 
-1. Op de openbare terechtzitting, bepaald ingevolge [artikel 335, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=VIJFDE&paragraaf=3&artikel=335&z=2006-02-01&g=2006-02-01), wordt door de rechter-commissaris verslag uitgebracht.
+1. Op de openbare terechtzitting, bepaald ingevolge [artikel 335, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=VIJFDE&paragraaf=3&artikel=335&z=2007-01-01&g=2007-01-01), wordt door de rechter-commissaris verslag uitgebracht.
 
 2. Ieder van de schuldeisers ten aanzien van wier vorderingen de schuldsaneringsregeling werkt, kan in persoon, bij schriftelijk gemachtigde of bij procureur:
 
@@ -3064,27 +3044,27 @@ Indien over het akkoord is gestemd in een vergadering als bedoeld in [artikel 33
 
 ##### Artikel 338
 
-1. Op de dag van de terechtzitting bedoeld in [artikel 337](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Zesde&artikel=337&z=2006-02-01&g=2006-02-01), of anders uiterlijk op de achtste dag daarna, doet de rechtbank uitspraak.
+1. Op de dag van de terechtzitting bedoeld in [artikel 337](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Zesde&artikel=337&z=2007-01-01&g=2007-01-01), of anders uiterlijk op de achtste dag daarna, doet de rechtbank uitspraak.
 
-2. Zij zal, voorzover van toepassing, eerst bij met redenen omklede beschikking uitspraak doen op verzoekschriften als bedoeld in [artikel 149](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zesde&artikel=149&z=2006-02-01&g=2006-02-01) en tot homologatie van het akkoord dan wel tot weigering daarvan. [Artikel 153, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zesde&artikel=153&z=2006-02-01&g=2006-02-01), is van overeenkomstige toepassing.
+2. Zij zal, voorzover van toepassing, eerst bij met redenen omklede beschikking uitspraak doen op verzoekschriften als bedoeld in [artikel 149](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zesde&artikel=149&z=2007-01-01&g=2007-01-01) en tot homologatie van het akkoord dan wel tot weigering daarvan. [Artikel 153, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zesde&artikel=153&z=2007-01-01&g=2007-01-01), is van overeenkomstige toepassing.
 
 3. Indien de homologatie wordt geweigerd, kan de rechter de schuldenaar niet in staat van faillissement verklaren.
 
-4. Indien de schuldenaar geen akkoord heeft aangeboden of de homologatie is geweigerd, bepaalt de rechtbank of de toepassing van de schuldsaneringsregeling wordt voortgezet of dat de toepassing wordt beëindigd.[Artikel 350, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Negende&artikel=350&z=2006-02-01&g=2006-02-01), is van toepassing. De uitspraak geschiedt bij vonnis.
+4. Indien de schuldenaar geen akkoord heeft aangeboden of de homologatie is geweigerd, bepaalt de rechtbank of de toepassing van de schuldsaneringsregeling wordt voortgezet of dat de toepassing wordt beëindigd.[Artikel 350, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Negende&artikel=350&z=2007-01-01&g=2007-01-01), is van toepassing. De uitspraak geschiedt bij vonnis.
 
 5. In de uitspraak tot voortzetting van de toepassing van de schuldsaneringsregeling wordt tevens een saneringsplan vastgesteld.
 
-6. Wordt de toepassing van de schuldsaneringsregeling beëindigd, dan vervalt de toepassing pas met ingang van de dag waarop de desbetreffende uitspraak in kracht van gewijsde is gegaan. [Artikel 350, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Negende&artikel=350&z=2006-02-01&g=2006-02-01), is van toepassing.
+6. Wordt de toepassing van de schuldsaneringsregeling beëindigd, dan vervalt de toepassing pas met ingang van de dag waarop de desbetreffende uitspraak in kracht van gewijsde is gegaan. [Artikel 350, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Negende&artikel=350&z=2007-01-01&g=2007-01-01), is van toepassing.
 
 ##### Artikel 339
 
-1. Ten aanzien van de uitspraak tot weigering dan wel verlening van homologatie, zijn de [artikelen 154](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zesde&artikel=154&z=2006-02-01&g=2006-02-01), [155, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zesde&artikel=155&z=2006-02-01&g=2006-02-01), en [156](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zesde&artikel=156&z=2006-02-01&g=2006-02-01) van overeenkomstige toepassing, met dien verstande dat het recht van hoger beroep en cassatie slechts toekomt aan schuldeisers die op de terechtzitting bedoeld in [artikel 337](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Zesde&artikel=337&z=2006-02-01&g=2006-02-01) zijn verschenen.
+1. Ten aanzien van de uitspraak tot weigering dan wel verlening van homologatie, zijn de [artikelen 154](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zesde&artikel=154&z=2007-01-01&g=2007-01-01), [155, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zesde&artikel=155&z=2007-01-01&g=2007-01-01), en [156](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zesde&artikel=156&z=2007-01-01&g=2007-01-01) van overeenkomstige toepassing, met dien verstande dat het recht van hoger beroep en cassatie slechts toekomt aan schuldeisers die op de terechtzitting bedoeld in [artikel 337](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Zesde&artikel=337&z=2007-01-01&g=2007-01-01) zijn verschenen.
 
-2. Op de behandeling van het hoger beroep zijn de [artikelen 337, tweede lid, aanhef en onder a, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Zesde&artikel=337&z=2006-02-01&g=2006-02-01), en [338, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Zesde&artikel=338&z=2006-02-01&g=2006-02-01), van overeenkomstige toepassing.
+2. Op de behandeling van het hoger beroep zijn de [artikelen 337, tweede lid, aanhef en onder a, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Zesde&artikel=337&z=2007-01-01&g=2007-01-01), en [338, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Zesde&artikel=338&z=2007-01-01&g=2007-01-01), van overeenkomstige toepassing.
 
 3. Indien de homologatie in hoger beroep of cassatie is verleend, verliest een door de rechter vastgesteld saneringsplan van rechtswege zijn kracht zodra de uitspraak tot verlening van homologatie in kracht van gewijsde is gegaan.
 
-4. Wordt de homologatie in hoger beroep of cassatie vernietigd, dan geeft de griffier van het rechtscollege daarvan onverwijld kennis aan de griffier van de rechtbank. Zodra de uitspraak tot vernietiging in kracht van gewijsde is gegaan, doet de rechtbank uitspraak als bedoeld in [artikel 338, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Zesde&artikel=338&z=2006-02-01&g=2006-02-01).
+4. Wordt de homologatie in hoger beroep of cassatie vernietigd, dan geeft de griffier van het rechtscollege daarvan onverwijld kennis aan de griffier van de rechtbank. Zodra de uitspraak tot vernietiging in kracht van gewijsde is gegaan, doet de rechtbank uitspraak als bedoeld in [artikel 338, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Zesde&artikel=338&z=2007-01-01&g=2007-01-01).
 
 ##### Artikel 340
 
@@ -3092,7 +3072,7 @@ Indien over het akkoord is gestemd in een vergadering als bedoeld in [artikel 33
 
 2. Het gehomologeerde akkoord is verbindend voor alle schuldeisers ten aanzien van wier vorderingen de schuldsaneringsregeling werkt, onverschillig of zij al dan niet in de schuldsaneringsregeling opgekomen zijn.
 
-3. De [artikelen 159](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zesde&artikel=159&z=2006-02-01&g=2006-02-01), [160](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zesde&artikel=160&z=2006-02-01&g=2006-02-01) en [162 tot en met 166](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zesde&artikel=162&z=2006-02-01&g=2006-02-01) zijn van overeenkomstige toepassing.
+3. De [artikelen 159](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zesde&artikel=159&z=2007-01-01&g=2007-01-01), [160](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zesde&artikel=160&z=2007-01-01&g=2007-01-01) en [162 tot en met 166](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zesde&artikel=162&z=2007-01-01&g=2007-01-01) zijn van overeenkomstige toepassing.
 
 4. Bij het vonnis, waarbij de ontbinding van het akkoord wordt uitgesproken, wordt de schuldenaar tevens in staat van faillissement verklaard.
 
@@ -3108,7 +3088,7 @@ Indien over het akkoord is gestemd in een vergadering als bedoeld in [artikel 33
 
 4. De griffier van het gerechtshof doet van het hoger beroep en van de dag en uur, voor de behandeling bepaald, aankondiging in de Staatscourant.
 
-5. Op de behandeling van het hoger beroep is [artikel 337, tweede lid, aanhef en onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Zesde&artikel=337&z=2006-02-01&g=2006-02-01), van toepassing.
+5. Op de behandeling van het hoger beroep is [artikel 337, tweede lid, aanhef en onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Zesde&artikel=337&z=2007-01-01&g=2007-01-01), van toepassing.
 
 6. De uitspraak vindt niet later plaats dan op de achtste dag na die van de behandeling van het verzoekschrift ter terechtzitting. Van het arrest van het gerechtshof wordt door de griffier onverwijld mededeling gedaan aan de griffier van de rechtbank.
 
@@ -3116,9 +3096,9 @@ Indien over het akkoord is gestemd in een vergadering als bedoeld in [artikel 33
 
 ##### Artikel 342
 
-1. Van het vonnis, houdende uitspraak tot voortzetting van de toepassing van de schuldsaneringsregeling en tot vaststelling van een saneringsplan, kunnen de schuldeisers die op de terechtzitting bedoeld in [artikel 337](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Zesde&artikel=337&z=2006-02-01&g=2006-02-01) zijn verschenen, gedurende acht dagen na de dag van de uitspraak in hoger beroep komen. De schuldenaar heeft dezelfde bevoegdheid voorzover het de vaststelling van het saneringsplan betreft.
+1. Van het vonnis, houdende uitspraak tot voortzetting van de toepassing van de schuldsaneringsregeling en tot vaststelling van een saneringsplan, kunnen de schuldeisers die op de terechtzitting bedoeld in [artikel 337](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Zesde&artikel=337&z=2007-01-01&g=2007-01-01) zijn verschenen, gedurende acht dagen na de dag van de uitspraak in hoger beroep komen. De schuldenaar heeft dezelfde bevoegdheid voorzover het de vaststelling van het saneringsplan betreft.
 
-2. [Artikel 341, tweede, derde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Zesde&artikel=341&z=2006-02-01&g=2006-02-01), is van toepassing.
+2. [Artikel 341, tweede, derde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Zesde&artikel=341&z=2007-01-01&g=2007-01-01), is van toepassing.
 
 3. Gedurende acht dagen na het arrest van het gerechtshof kan de daarbij in het ongelijk gestelde partij in cassatie komen. Het beroep in cassatie wordt ingesteld bij een verzoekschrift, in te dienen ter griffie van de Hoge Raad. De griffier van de Hoge Raad geeft van die indiening en van het arrest van de Hoge Raad onverwijld kennis aan de griffier van de rechtbank.
 
@@ -3128,19 +3108,19 @@ Indien over het akkoord is gestemd in een vergadering als bedoeld in [artikel 33
 
 1. De rechtbank is vrij in het saneringsplan bepalingen op te nemen die haar, alle omstandigheden in aanmerking genomen, redelijk en billijk voorkomen.
 
-2. In een saneringsplan stelt de rechter in ieder geval de termijn vast gedurende welke de toepassing van de schuldsaneringsregeling van kracht is, welke termijn ten hoogste drie jaar zal zijn, te rekenen van de dag van de uitspraak tot de toepassing van de schuldsaneringsregeling, die dag daaronder begrepen. In afwijking van de eerste volzin kan de termijn op ten hoogste vijf jaar worden vastgesteld, indien voor de gehele termijn vanaf de vaststelling van het saneringsplan in dat plan tevens een nominaal bedrag wordt vastgesteld als bedoeld in [artikel 295, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Tweede&artikel=295&z=2006-02-01&g=2006-02-01).
+2. In een saneringsplan stelt de rechter in ieder geval de termijn vast gedurende welke de toepassing van de schuldsaneringsregeling van kracht is, welke termijn ten hoogste drie jaar zal zijn, te rekenen van de dag van de uitspraak tot de toepassing van de schuldsaneringsregeling, die dag daaronder begrepen. In afwijking van de eerste volzin kan de termijn op ten hoogste vijf jaar worden vastgesteld, indien voor de gehele termijn vanaf de vaststelling van het saneringsplan in dat plan tevens een nominaal bedrag wordt vastgesteld als bedoeld in [artikel 295, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Tweede&artikel=295&z=2007-01-01&g=2007-01-01).
 
 3. De rechter kan in een saneringsplan onder meer:
 
-- a. een nominaal bedrag vaststellen als bedoeld in [artikel 295, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Tweede&artikel=295&z=2006-02-01&g=2006-02-01);
+- a. een nominaal bedrag vaststellen als bedoeld in [artikel 295, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Tweede&artikel=295&z=2007-01-01&g=2007-01-01);
 
 - b. ten aanzien van goederen van de boedel waarop geen recht van pand, hypotheek of retentie rust, bepalen dat deze niet of gedurende een daarvoor vast te stellen termijn niet bij de vereffening en tegeldemaking betrokken zullen worden;
 
 - c. ten aanzien van goederen als bedoeld onder b bepalen dat de schuldenaar daarover het beheer zal voeren;
 
-- d. een bedrag vaststellen als bedoeld in [artikel 21, onder 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=21&z=2006-02-01&g=2006-02-01).
+- d. een bedrag vaststellen als bedoeld in [artikel 21, onder 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=21&z=2007-01-01&g=2007-01-01).
 
-4. Een vóór de vaststelling van het saneringsplan gegeven beslissing op de voet van de [artikelen 21, onder 4°, 295, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=21&z=2006-02-01&g=2006-02-01), en [296, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Tweede&artikel=296&z=2006-02-01&g=2006-02-01), verliest haar kracht zodra de uitspraak houdende vaststelling van het saneringsplan in kracht van gewijsde is gegaan.
+4. Een vóór de vaststelling van het saneringsplan gegeven beslissing op de voet van de [artikelen 21, onder 4°, 295, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=21&z=2007-01-01&g=2007-01-01), en [296, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Tweede&artikel=296&z=2007-01-01&g=2007-01-01), verliest haar kracht zodra de uitspraak houdende vaststelling van het saneringsplan in kracht van gewijsde is gegaan.
 
 ##### Artikel 344
 
@@ -3152,9 +3132,9 @@ Een door de rechter vastgesteld saneringsplan is verbindend voor alle schuldeise
 
 2. Alvorens te beslissen bepaalt de rechtbank dag en uur voor de terechtzitting waarop de zaak zal worden behandeld en kan zij tevens de oproeping bevelen van schuldeisers ten aanzien van wier vorderingen de schuldsaneringsregeling werkt.
 
-3. De bewindvoerder doet van de dag, uur en plaats onverwijld aankondiging in de Staatscourant. Tevens geeft de bewindvoerder bij brieven kennis aan alle bekende schuldeisers. [Artikel 337, tweede lid, aanhef en onder c, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Zesde&artikel=337&z=2006-02-01&g=2006-02-01), is van overeenkomstige toepassing.
+3. De bewindvoerder doet van de dag, uur en plaats onverwijld aankondiging in de Staatscourant. Tevens geeft de bewindvoerder bij brieven kennis aan alle bekende schuldeisers. [Artikel 337, tweede lid, aanhef en onder c, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Zesde&artikel=337&z=2007-01-01&g=2007-01-01), is van overeenkomstige toepassing.
 
-4. Van het vonnis bedoeld in het eerste lid kunnen de schuldeisers die bij de behandeling van de zaak zijn verschenen en de schuldenaar gedurende acht dagen na de dag van de uitspraak in hoger beroep komen. De [artikelen 341, tweede, derde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Zesde&artikel=341&z=2006-02-01&g=2006-02-01), en [342, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Zesde&artikel=342&z=2006-02-01&g=2006-02-01), zijn van toepassing.
+4. Van het vonnis bedoeld in het eerste lid kunnen de schuldeisers die bij de behandeling van de zaak zijn verschenen en de schuldenaar gedurende acht dagen na de dag van de uitspraak in hoger beroep komen. De [artikelen 341, tweede, derde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Zesde&artikel=341&z=2007-01-01&g=2007-01-01), en [342, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Zesde&artikel=342&z=2007-01-01&g=2007-01-01), zijn van toepassing.
 
 ##### Artikel 346
 
@@ -3168,11 +3148,11 @@ Het saneringsplan verliest van rechtswege zijn kracht door de beëindiging van d
 
 2. De goederen worden ondershands verkocht, tenzij de rechter-commissaris bepaalt dat de verkoop in het openbaar zal geschieden.
 
-3. [Artikel 176, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zevende&artikel=176&z=2006-02-01&g=2006-02-01), is van overeenkomstige toepassing.
+3. [Artikel 176, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zevende&artikel=176&z=2007-01-01&g=2007-01-01), is van overeenkomstige toepassing.
 
 ##### Artikel 348
 
-De rechter-commissaris kan op een door hem te bepalen dag, uur en plaats een vergadering van schuldeisers beleggen, ten einde hen zo nodig te raadplegen over de wijze van vereffening van de boedel en zo nodig verificatie te doen plaatsvinden van de schuldvorderingen die na afloop van de ingevolge [artikel 289, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Eerste&artikel=289&z=2006-02-01&g=2006-02-01), bepaalde termijn zijn ingediend en niet reeds overeenkomstig [artikel 127](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vijfde&artikel=127&z=2006-02-01&g=2006-02-01) geverifieerd zijn. De bewindvoerder handelt ten opzichte van deze vorderingen overeenkomstig de bepalingen van de [artikelen 111 tot en met 114](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vijfde&artikel=111&z=2006-02-01&g=2006-02-01). Hij roept de schuldeisers ten minste tien dagen vóór de vergadering, bij brieven op waarin het onderwerp van de vergadering wordt vermeld en hun tevens de bepaling van [artikel 114](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vijfde&artikel=114&z=2006-02-01&g=2006-02-01) wordt herinnerd.
+De rechter-commissaris kan op een door hem te bepalen dag, uur en plaats een vergadering van schuldeisers beleggen, ten einde hen zo nodig te raadplegen over de wijze van vereffening van de boedel en zo nodig verificatie te doen plaatsvinden van de schuldvorderingen die na afloop van de ingevolge [artikel 289, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Eerste&artikel=289&z=2007-01-01&g=2007-01-01), bepaalde termijn zijn ingediend en niet reeds overeenkomstig [artikel 127](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vijfde&artikel=127&z=2007-01-01&g=2007-01-01) geverifieerd zijn. De bewindvoerder handelt ten opzichte van deze vorderingen overeenkomstig de bepalingen van de [artikelen 111 tot en met 114](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vijfde&artikel=111&z=2007-01-01&g=2007-01-01). Hij roept de schuldeisers ten minste tien dagen vóór de vergadering, bij brieven op waarin het onderwerp van de vergadering wordt vermeld en hun tevens de bepaling van [artikel 114](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vijfde&artikel=114&z=2007-01-01&g=2007-01-01) wordt herinnerd.
 
 ##### Artikel 349
 
@@ -3184,11 +3164,11 @@ Indien een goed als bedoeld in de vorige volzin in de boedel valt nadat een uitd
 
 2. De uitdeling geschiedt naar evenredigheid van ieders vordering, met dien verstande dat, zolang de vorderingen waaraan voorrang is verbonden niet volledig zijn voldaan, daarop een twee keer zo groot percentage wordt betaald als op de concurrente vorderingen.
 
-3. Voor de toepassing van het tweede lid worden de vorderingen van de schuldeisers die voorrang hebben, ongeacht of deze wordt betwist, en die niet reeds overeenkomstig [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=57&z=2006-02-01&g=2006-02-01) of [299b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Tweede&artikel=299b&z=2006-02-01&g=2006-02-01), voldaan zijn, bepaald op het bedrag waarvoor zij batig gerangschikt kunnen worden op de opbrengst der goederen waarop hun voorrang betrekking heeft. Zo dit minder is dan het gehele bedrag van hun vorderingen, worden zij voor het ontbrekende als concurrent behandeld.
+3. Voor de toepassing van het tweede lid worden de vorderingen van de schuldeisers die voorrang hebben, ongeacht of deze wordt betwist, en die niet reeds overeenkomstig [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=57&z=2007-01-01&g=2007-01-01) of [299b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Tweede&artikel=299b&z=2007-01-01&g=2007-01-01), voldaan zijn, bepaald op het bedrag waarvoor zij batig gerangschikt kunnen worden op de opbrengst der goederen waarop hun voorrang betrekking heeft. Zo dit minder is dan het gehele bedrag van hun vorderingen, worden zij voor het ontbrekende als concurrent behandeld.
 
 4. De bewindvoerder maakt telkens een uitdelingslijst op. De lijst houdt in een staat van de ontvangsten en uitgaven, de namen van de schuldeisers, het geverifieerde bedrag van ieders vordering, benevens de daarop te ontvangen uitkering.
 
-5. De [artikelen 181](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zevende&artikel=181&z=2006-02-01&g=2006-02-01), [182](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zevende&artikel=182&z=2006-02-01&g=2006-02-01) (in welk artikel in de plaats van 60, derde lid, tweede zin, wordt gelezen: 299b, derde lid, tweede volzin), [183 tot en met 189](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zevende&artikel=183&z=2006-02-01&g=2006-02-01), [191](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zevende&artikel=191&z=2006-02-01&g=2006-02-01) en [192](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zevende&artikel=192&z=2006-02-01&g=2006-02-01) zijn van overeenkomstige toepassing.
+5. De [artikelen 181](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zevende&artikel=181&z=2007-01-01&g=2007-01-01), [182](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zevende&artikel=182&z=2007-01-01&g=2007-01-01) (in welk artikel in de plaats van 60, derde lid, tweede zin, wordt gelezen: 299b, derde lid, tweede volzin), [183 tot en met 189](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zevende&artikel=183&z=2007-01-01&g=2007-01-01), [191](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zevende&artikel=191&z=2007-01-01&g=2007-01-01) en [192](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zevende&artikel=192&z=2007-01-01&g=2007-01-01) zijn van overeenkomstige toepassing.
 
 ### afdeling Negende. Beëindiging van de toepassing van de schuldsaneringsregeling
 
@@ -3218,13 +3198,13 @@ Indien een goed als bedoeld in de vorige volzin in de boedel valt nadat een uitd
 
 ##### Artikel 351
 
-1. Van het vonnis bedoeld in [artikel 350](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Negende&artikel=350&z=2006-02-01&g=2006-02-01) heeft, in geval van beëindiging van de toepassing van de schuldsaneringsregeling, de schuldenaar, of, in geval de beëindiging van de toepassing van de schuldsaneringsregeling geweigerd is, hij die het verzoek tot die beëindiging heeft gedaan, gedurende acht dagen na de dag van de uitspraak recht van hoger beroep.
+1. Van het vonnis bedoeld in [artikel 350](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Negende&artikel=350&z=2007-01-01&g=2007-01-01) heeft, in geval van beëindiging van de toepassing van de schuldsaneringsregeling, de schuldenaar, of, in geval de beëindiging van de toepassing van de schuldsaneringsregeling geweigerd is, hij die het verzoek tot die beëindiging heeft gedaan, gedurende acht dagen na de dag van de uitspraak recht van hoger beroep.
 
-2. De [artikelen 341, tweede, derde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Zesde&artikel=341&z=2006-02-01&g=2006-02-01), en [342, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Zesde&artikel=342&z=2006-02-01&g=2006-02-01), zijn van toepassing.
+2. De [artikelen 341, tweede, derde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Zesde&artikel=341&z=2007-01-01&g=2007-01-01), en [342, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Zesde&artikel=342&z=2007-01-01&g=2007-01-01), zijn van toepassing.
 
 ##### Artikel 352
 
-1. Indien de toepassing van de schuldsaneringsregeling niet reeds is beëindigd, bepaalt de rechtbank op voordracht van de rechter-commissaris, op verzoek van de bewindvoerder dan wel van de schuldenaar hetzij ambtshalve uiterlijk een maand vóór het einde van de termijn bedoeld in het [tweede lid van artikel 343](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Zevende&artikel=343&z=2006-02-01&g=2006-02-01), dag, uur en plaats voor de terechtzitting waarop de beëindiging van de toepassing van de schuldsaneringsregeling wordt behandeld.
+1. Indien de toepassing van de schuldsaneringsregeling niet reeds is beëindigd, bepaalt de rechtbank op voordracht van de rechter-commissaris, op verzoek van de bewindvoerder dan wel van de schuldenaar hetzij ambtshalve uiterlijk een maand vóór het einde van de termijn bedoeld in het [tweede lid van artikel 343](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Zevende&artikel=343&z=2007-01-01&g=2007-01-01), dag, uur en plaats voor de terechtzitting waarop de beëindiging van de toepassing van de schuldsaneringsregeling wordt behandeld.
 
 2. Indien nog geen dag voor de verificatievergadering is bepaald en een jaar is verstreken sinds de uitspraak tot definitieve toepassing van de schuldsaneringsregeling, kan de rechtbank op voordracht van de rechter-commissaris, op verzoek van de bewindvoerder dan wel van de schuldenaar een dag bepalen voor de terechtzitting waarop de beëindiging van de toepassing van de schuldsaneringsregeling wordt behandeld. De rechtbank bepaalt die zitting slechts als de voordracht of het verzoek vergezeld gaat van een beredeneerde verklaring van de bewindvoerder dat redelijkerwijs niet de verwachting bestaat dat de schuldenaar geheel of gedeeltelijk aan zijn verplichtingen kan voldoen.
 
@@ -3234,7 +3214,7 @@ Indien een goed als bedoeld in de vorige volzin in de boedel valt nadat een uitd
 
 ##### Artikel 353
 
-1. Op de terechtzitting, bepaald ingevolge [artikel 352](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Negende&artikel=352&z=2006-02-01&g=2006-02-01), wordt door de bewindvoerder een schriftelijk verslag uitgebracht. De schuldenaar wordt bij brief opgeroepen.
+1. Op de terechtzitting, bepaald ingevolge [artikel 352](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Negende&artikel=352&z=2007-01-01&g=2007-01-01), wordt door de bewindvoerder een schriftelijk verslag uitgebracht. De schuldenaar wordt bij brief opgeroepen.
 
 2. De rechtbank kan iedere verschenen schuldeiser in de gelegenheid stellen in persoon, bij schriftelijk gemachtigde of bij procureur het woord te voeren.
 
@@ -3244,39 +3224,39 @@ Indien een goed als bedoeld in de vorige volzin in de boedel valt nadat een uitd
 
 2. Ingeval van een toerekenbare tekortkoming, kan de rechter daarbij bepalen dat de tekortkoming, gezien haar bijzondere aard of geringe betekenis, buiten beschouwing blijft.
 
-3. Indien de terechtzitting is bepaald ingevolge [artikel 352, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Negende&artikel=352&z=2006-02-01&g=2006-02-01), beëindigt de rechtbank de schuldsanering slechts indien redelijkerwijs niet de verwachting bestaat dat de schuldenaar geheel of gedeeltelijk aan zijn verplichtingen kan voldoen en van omstandigheden als bedoeld in [artikel 350, derde lid onderdeel c, d of e](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Negende&artikel=350&z=2006-02-01&g=2006-02-01) niet is gebleken. De rechtbank kan een of meer keren haar beslissing aanhouden, hetzij voor nader onderzoek, hetzij indien uit het verslag van de bewindvoerder blijkt dat de schuldenaar op een later tijdstip geheel of gedeeltelijk aan zijn verplichtingen zal kunnen voldoen. De rechtbank bepaalt de dag waarop de schuldsaneringsregeling eindigt met inachtneming van de termijn, bedoeld in [artikel 343, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Zevende&artikel=343&z=2006-02-01&g=2006-02-01).
+3. Indien de terechtzitting is bepaald ingevolge [artikel 352, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Negende&artikel=352&z=2007-01-01&g=2007-01-01), beëindigt de rechtbank de schuldsanering slechts indien redelijkerwijs niet de verwachting bestaat dat de schuldenaar geheel of gedeeltelijk aan zijn verplichtingen kan voldoen en van omstandigheden als bedoeld in [artikel 350, derde lid onderdeel c, d of e](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Negende&artikel=350&z=2007-01-01&g=2007-01-01) niet is gebleken. De rechtbank kan een of meer keren haar beslissing aanhouden, hetzij voor nader onderzoek, hetzij indien uit het verslag van de bewindvoerder blijkt dat de schuldenaar op een later tijdstip geheel of gedeeltelijk aan zijn verplichtingen zal kunnen voldoen. De rechtbank bepaalt de dag waarop de schuldsaneringsregeling eindigt met inachtneming van de termijn, bedoeld in [artikel 343, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Zevende&artikel=343&z=2007-01-01&g=2007-01-01).
 
-4. Indien de rechtbank de voordracht of het verzoek om beëindiging van de schuldsaneringsregeling afwijst, en geen toepassing geeft aan [artikel 350, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Negende&artikel=350&z=2006-02-01&g=2006-02-01), bepaalt de rechtbank alsnog een verificatievergadering. Tussen de uitspraak en de verificatievergadering moeten ten minste veertien dagen verlopen.
+4. Indien de rechtbank de voordracht of het verzoek om beëindiging van de schuldsaneringsregeling afwijst, en geen toepassing geeft aan [artikel 350, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Negende&artikel=350&z=2007-01-01&g=2007-01-01), bepaalt de rechtbank alsnog een verificatievergadering. Tussen de uitspraak en de verificatievergadering moeten ten minste veertien dagen verlopen.
 
 ##### Artikel 355
 
-1. Van het vonnis bedoeld in [artikel 354](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Negende&artikel=354&z=2006-02-01&g=2006-02-01) kunnen de schuldeisers die op de voet van [artikel 353, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Negende&artikel=353&z=2006-02-01&g=2006-02-01), bij de behandeling van de zaak zijn verschenen en de schuldenaar gedurende acht dagen na de dag van de uitspraak in hoger beroep komen.
+1. Van het vonnis bedoeld in [artikel 354](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Negende&artikel=354&z=2007-01-01&g=2007-01-01) kunnen de schuldeisers die op de voet van [artikel 353, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Negende&artikel=353&z=2007-01-01&g=2007-01-01), bij de behandeling van de zaak zijn verschenen en de schuldenaar gedurende acht dagen na de dag van de uitspraak in hoger beroep komen.
 
-2. De [artikelen 341, tweede, derde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Zesde&artikel=341&z=2006-02-01&g=2006-02-01), en [342, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Zesde&artikel=342&z=2006-02-01&g=2006-02-01), zijn van toepassing.
+2. De [artikelen 341, tweede, derde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Zesde&artikel=341&z=2007-01-01&g=2007-01-01), en [342, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Zesde&artikel=342&z=2007-01-01&g=2007-01-01), zijn van toepassing.
 
 ##### Artikel 356
 
-1. De bewindvoerder gaat, zodra de uitspraak bedoeld in [artikel 354](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Negende&artikel=354&z=2006-02-01&g=2006-02-01) in kracht van gewijsde is gegaan, onverwijld over tot het opmaken van een slotuitdelingslijst. Geen slotuitdelingslijst wordt opgemaakt indien de rechtbank de toepassing van de schuldsaneringsregeling heeft beëindigd op grond van [artikel 354, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Negende&artikel=354&z=2006-02-01&g=2006-02-01).
+1. De bewindvoerder gaat, zodra de uitspraak bedoeld in [artikel 354](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Negende&artikel=354&z=2007-01-01&g=2007-01-01) in kracht van gewijsde is gegaan, onverwijld over tot het opmaken van een slotuitdelingslijst. Geen slotuitdelingslijst wordt opgemaakt indien de rechtbank de toepassing van de schuldsaneringsregeling heeft beëindigd op grond van [artikel 354, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Negende&artikel=354&z=2007-01-01&g=2007-01-01).
 
-2. De toepassing van de schuldsaneringsregeling is van rechtswege beëindigd zodra de slotuitdelingslijst verbindend is geworden dan wel, indien de rechtbank de toepassing van de schuldsaneringsregeling heeft beëindigd op grond van [artikel 354, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Negende&artikel=354&z=2006-02-01&g=2006-02-01), zodra de uitspraak tot de beëindiging in kracht van gewijsde is gegaan. De bewindvoerder doet daarvan aankondiging in de Staatscourant.
+2. De toepassing van de schuldsaneringsregeling is van rechtswege beëindigd zodra de slotuitdelingslijst verbindend is geworden dan wel, indien de rechtbank de toepassing van de schuldsaneringsregeling heeft beëindigd op grond van [artikel 354, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Negende&artikel=354&z=2007-01-01&g=2007-01-01), zodra de uitspraak tot de beëindiging in kracht van gewijsde is gegaan. De bewindvoerder doet daarvan aankondiging in de Staatscourant.
 
 3. Na verloop van een maand na de beëindiging doet de bewindvoerder rekening en verantwoording van zijn beheer aan de rechter-commissaris.
 
 ##### Artikel 357
 
-Indien na de slotuitdeling ingevolge [artikel 189](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zevende&artikel=189&z=2006-02-01&g=2006-02-01) gereserveerde uitdelingen aan de boedel terugvallen, of mocht blijken dat er nog baten van de boedel aanwezig zijn, welke ten tijde van de vereffening niet bekend waren, gaat de bewindvoerder, op bevel van de rechtbank, tot vereffening en verdeling daarvan over op de grondslag van de vroegere uitdelingslijsten.
+Indien na de slotuitdeling ingevolge [artikel 189](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zevende&artikel=189&z=2007-01-01&g=2007-01-01) gereserveerde uitdelingen aan de boedel terugvallen, of mocht blijken dat er nog baten van de boedel aanwezig zijn, welke ten tijde van de vereffening niet bekend waren, gaat de bewindvoerder, op bevel van de rechtbank, tot vereffening en verdeling daarvan over op de grondslag van de vroegere uitdelingslijsten.
 
 ##### Artikel 358
 
-1. Door de beëindiging van de toepassing van de schuldsaneringsregeling op grond van [artikei 356, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Negende&artikel=356&z=2006-02-01&g=2006-02-01), is een vordering ten aanzien waarvan de schuldsaneringsregeling werkt, voorzover deze onvoldaan is gebleven, niet langer afdwingbaar, onverschillig of de schuldeiser al dan niet in de schuldsaneringsregeling is opgekomen en onverschillig of de vordering al dan niet is geverifieerd.
+1. Door de beëindiging van de toepassing van de schuldsaneringsregeling op grond van [artikei 356, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Negende&artikel=356&z=2007-01-01&g=2007-01-01), is een vordering ten aanzien waarvan de schuldsaneringsregeling werkt, voorzover deze onvoldaan is gebleven, niet langer afdwingbaar, onverschillig of de schuldeiser al dan niet in de schuldsaneringsregeling is opgekomen en onverschillig of de vordering al dan niet is geverifieerd.
 
-2. Het eerste lid is niet van toepassing indien de rechter in het vonnis bedoeld in [artikel 354](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Negende&artikel=354&z=2006-02-01&g=2006-02-01) heeft vastgesteld dat de schuldenaar toerekenbaar is tekortgeschoten en de rechter daarbij geen toepassing heeft gegeven aan het [tweede lid van artikel 354](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Negende&artikel=354&z=2006-02-01&g=2006-02-01).
+2. Het eerste lid is niet van toepassing indien de rechter in het vonnis bedoeld in [artikel 354](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Negende&artikel=354&z=2007-01-01&g=2007-01-01) heeft vastgesteld dat de schuldenaar toerekenbaar is tekortgeschoten en de rechter daarbij geen toepassing heeft gegeven aan het [tweede lid van artikel 354](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Negende&artikel=354&z=2007-01-01&g=2007-01-01).
 
 ### Tweede afdeling B. Van de verlening van surseance van betaling aan een kredietinstelling, die ingevolge [artikel 6, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005792&artikel=6), is vrijgesteld onderscheidenlijk ontheven van [artikel 6, eerste lid, van de Wet toezicht kredietwezen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005792&artikel=6), een kredietinstelling, die ingevolge [artikel 31, vierde of vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005792&artikel=31), is vrijgesteld onderscheidenlijk ontheven van [artikel 31, eerste lid, van de Wet toezicht kredietwezen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005792&artikel=31), een kredietinstelling, die ingevolge [artikel 38, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005792&artikel=38), is vrijgesteld onderscheidenlijk ontheven van [artikel 38, eerste lid, van de Wet toezicht kredietwezen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005792&artikel=38), een financiële instelling, een effecteninstelling of een andere instelling, genoemd in [artikel 281g](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Tweede_B&artikel=281g&z=2006-01-01&g=2006-01-01)
 
 ##### Artikel 358a
 
-1. Indien na de beëindiging van de toepassing van de schuldsaneringsregeling waardoor het rechtsgevolg bedoeld in [artikel 358, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Negende&artikel=358&z=2006-02-01&g=2006-02-01), is ingetreden, blijkt dat zich voordien feiten of omstandigheden hebben voorgedaan die grond zouden hebben opgeleverd voor de beëindiging van de toepassing van de schuldsaneringsregeling op de voet van [artikel 350, derde lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Negende&artikel=350&z=2006-02-01&g=2006-02-01), kan de rechter op verzoek van iedere belanghebbende bepalen dat [artikel 358, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Negende&artikel=358&z=2006-02-01&g=2006-02-01), verder geen toepassing vindt.
+1. Indien na de beëindiging van de toepassing van de schuldsaneringsregeling waardoor het rechtsgevolg bedoeld in [artikel 358, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Negende&artikel=358&z=2007-01-01&g=2007-01-01), is ingetreden, blijkt dat zich voordien feiten of omstandigheden hebben voorgedaan die grond zouden hebben opgeleverd voor de beëindiging van de toepassing van de schuldsaneringsregeling op de voet van [artikel 350, derde lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Negende&artikel=350&z=2007-01-01&g=2007-01-01), kan de rechter op verzoek van iedere belanghebbende bepalen dat [artikel 358, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Negende&artikel=358&z=2007-01-01&g=2007-01-01), verder geen toepassing vindt.
 
 2. Alvorens te beslissen roept de rechtbank de schuldenaar op ten einde door haar te worden gehoord.
 
@@ -3296,9 +3276,9 @@ Indien na de slotuitdeling ingevolge [artikel 189](https://wetten.overheid.nl/jc
 
 - c. in de schuldsaneringsregeling ingediende vorderingen gelden als ingediend in het faillissement.
 
-2. De curator oefent de bevoegdheid uit, in [artikel 297, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Tweede&artikel=297&z=2006-02-01&g=2006-02-01), aan de bewindvoerder toegekend.
+2. De curator oefent de bevoegdheid uit, in [artikel 297, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Tweede&artikel=297&z=2007-01-01&g=2007-01-01), aan de bewindvoerder toegekend.
 
-3. Het tijdstip, waarop de termijnen vermeld in de [artikelen 43](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=43&z=2006-02-01&g=2006-02-01) en [45](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=45&z=2006-02-01&g=2006-02-01) aanvangen, wordt berekend met ingang van de dag van de uitspraak tot de toepassing van de schuldsaneringsregeling.
+3. Het tijdstip, waarop de termijnen vermeld in de [artikelen 43](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=43&z=2007-01-01&g=2007-01-01) en [45](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=45&z=2007-01-01&g=2007-01-01) aanvangen, wordt berekend met ingang van de dag van de uitspraak tot de toepassing van de schuldsaneringsregeling.
 
 ### afdeling Derde. Slotbepalingen
 
@@ -3308,9 +3288,9 @@ Tegen de beslissingen van de rechter, ingevolge de bepalingen van deze titel geg
 
 ##### Artikel 361
 
-1. De verzoeken, te doen ingevolge de [artikelen 292, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Eerste&artikel=292&z=2006-02-01&g=2006-02-01), [315, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Derde&artikel=315&z=2006-02-01&g=2006-02-01), [341, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Zesde&artikel=341&z=2006-02-01&g=2006-02-01), [342, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Zesde&artikel=342&z=2006-02-01&g=2006-02-01), [345, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Zevende&artikel=345&z=2006-02-01&g=2006-02-01), [350, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Negende&artikel=350&z=2006-02-01&g=2006-02-01), [351, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Negende&artikel=351&z=2006-02-01&g=2006-02-01), [355, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Negende&artikel=355&z=2006-02-01&g=2006-02-01), en [358a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Tiende&artikel=358a&z=2006-02-01&g=2006-02-01), moeten door een procureur zijn ondertekend, behalve wanneer een verzoek wordt gedaan door de bewindvoerder of, bij een verzoek ingevolge [artikel 350, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Negende&artikel=350&z=2006-02-01&g=2006-02-01), door de schuldenaar.
+1. De verzoeken, te doen ingevolge de [artikelen 292, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Eerste&artikel=292&z=2007-01-01&g=2007-01-01), [315, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Derde&artikel=315&z=2007-01-01&g=2007-01-01), [341, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Zesde&artikel=341&z=2007-01-01&g=2007-01-01), [342, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Zesde&artikel=342&z=2007-01-01&g=2007-01-01), [345, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Zevende&artikel=345&z=2007-01-01&g=2007-01-01), [350, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Negende&artikel=350&z=2007-01-01&g=2007-01-01), [351, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Negende&artikel=351&z=2007-01-01&g=2007-01-01), [355, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Negende&artikel=355&z=2007-01-01&g=2007-01-01), en [358a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Tiende&artikel=358a&z=2007-01-01&g=2007-01-01), moeten door een procureur zijn ondertekend, behalve wanneer een verzoek wordt gedaan door de bewindvoerder of, bij een verzoek ingevolge [artikel 350, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Negende&artikel=350&z=2007-01-01&g=2007-01-01), door de schuldenaar.
 
-2. Verzoekschriften op de voet van artikel 33 van de in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=5&z=2006-02-01&g=2006-02-01), genoemde verordening worden ingediend door een procureur.
+2. Verzoekschriften op de voet van artikel 33 van de in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=5&z=2007-01-01&g=2007-01-01), genoemde verordening worden ingediend door een procureur.
 
 3. Voor het instellen van beroep in cassatie is steeds de medewerking nodig van een advocaat bij de Hoge Raad.
 
@@ -3318,7 +3298,7 @@ Tegen de beslissingen van de rechter, ingevolge de bepalingen van deze titel geg
 
 ##### Artikel 362
 
-1. De [Algemene termijnenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002448) is niet van toepassing op de termijnen, gesteld in de [artikelen 39](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=39&z=2006-02-01&g=2006-02-01), [40](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=40&z=2006-02-01&g=2006-02-01), [238](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=238&z=2006-02-01&g=2006-02-01), [239](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=239&z=2006-02-01&g=2006-02-01) en [305](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Tweede&artikel=305&z=2006-02-01&g=2006-02-01).
+1. De [Algemene termijnenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002448) is niet van toepassing op de termijnen, gesteld in de [artikelen 39](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=39&z=2007-01-01&g=2007-01-01), [40](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=40&z=2007-01-01&g=2007-01-01), [238](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=238&z=2007-01-01&g=2007-01-01), [239](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=239&z=2007-01-01&g=2007-01-01) en [305](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Tweede&artikel=305&z=2007-01-01&g=2007-01-01).
 
 2. De [derde titel van het eerste boek van het Wetboek van Burgerlijke Rechtsvordering](onbekend) is niet van toepassing op verzoeken ingevolge deze wet.
 
@@ -3326,7 +3306,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ##### Artikel 13a
 
-Indien de faillietverklaring wordt vernietigd wordt de opzegging van een arbeidsovereenkomst door een curator, in afwijking van [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=13&z=2006-02-01&g=2006-02-01), met terugwerkende kracht beheerst door de wettelijke of overeengekomen regels die van toepassing zijn buiten faillissement, met dien verstande dat de termijnen, bedoeld in [artikel 683 leden 1 en 2 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=683) en in [artikel 9, derde lid, van het Buitengewoon Besluit Arbeidsverhoudingen 1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002014&artikel=9), aanvangen op het tijdstip waarop het faillissement wordt vernietigd.
+Indien de faillietverklaring wordt vernietigd wordt de opzegging van een arbeidsovereenkomst door een curator, in afwijking van [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=13&z=2007-01-01&g=2007-01-01), met terugwerkende kracht beheerst door de wettelijke of overeengekomen regels die van toepassing zijn buiten faillissement, met dien verstande dat de termijnen, bedoeld in [artikel 683 leden 1 en 2 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=683) en in [artikel 9, derde lid, van het Buitengewoon Besluit Arbeidsverhoudingen 1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002014&artikel=9), aanvangen op het tijdstip waarop het faillissement wordt vernietigd.
 
 ### afdeeling Tweede. Van de gevolgen der faillietverklaring
 
@@ -3376,9 +3356,9 @@ Vervallen
 
 ### afdeeling Derde. Slotbepalingen
 
-## Titel III. Schuldsaneringsregeling natuurlijke personen
+## Titel II. Van surseance van betaling
 
-### afdeling Eerste. Het uitspreken van de toepassing van de schuldsaneringsregeling
+### afdeling Eerste. Van de verlening van surseance van betaling en haar gevolgen
 
 ### afdeling Tweede. De gevolgen van de toepassing van de schuldsaneringsregeling
 
@@ -3418,7 +3398,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 2. De curator geeft van de in het eerste lid bedoelde beschikking onmiddellijk aan alle bekende schuldeisers bij brieven kennis en doet daarvan aankondiging in de Staatscourant.
 
-3. Ingeval de in het eerste lid bedoelde beschikking is gegeven, is deze afdeling van toepassing. De [vijfde afdeling](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vijfde&z=2006-02-01&g=2006-02-01) vindt geen toepassing. Op niet-concurrente vorderingen zijn de [artikelen 128 tot en met 136](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vijfde&artikel=128&z=2006-02-01&g=2006-02-01) van de vijfde afdeling van overeenkomstige toepassing. De [zesde](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zesde&z=2006-02-01&g=2006-02-01) en de [zevende afdeling](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zevende&z=2006-02-01&g=2006-02-01) vinden geen toepassing, tenzij hierna anders is bepaald.
+3. Ingeval de in het eerste lid bedoelde beschikking is gegeven, is deze afdeling van toepassing. De [vijfde afdeling](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vijfde&z=2007-01-01&g=2007-01-01) vindt geen toepassing. Op niet-concurrente vorderingen zijn de [artikelen 128 tot en met 136](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vijfde&artikel=128&z=2007-01-01&g=2007-01-01) van de vijfde afdeling van overeenkomstige toepassing. De [zesde](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zesde&z=2007-01-01&g=2007-01-01) en de [zevende afdeling](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zevende&z=2007-01-01&g=2007-01-01) vinden geen toepassing, tenzij hierna anders is bepaald.
 
 ##### Artikel 137b
 
@@ -3426,17 +3406,17 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 2. Indien de curator een vordering dan wel de aan een vordering verbonden voorrang betwist, geeft hij de desbetreffende schuldeiser daarvan bericht en treedt hij met hem in overleg ter regeling van dit geschil.
 
-3. Indien de curator geen overeenstemming bereikt met de in het vorige lid bedoelde schuldeiser, legt hij het geschil aan de rechter-commissaris voor. [Artikel 122, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vijfde&artikel=122&z=2006-02-01&g=2006-02-01), is van overeenkomstige toepassing.
+3. Indien de curator geen overeenstemming bereikt met de in het vorige lid bedoelde schuldeiser, legt hij het geschil aan de rechter-commissaris voor. [Artikel 122, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vijfde&artikel=122&z=2007-01-01&g=2007-01-01), is van overeenkomstige toepassing.
 
-4. De gefailleerde is bevoegd zijn bezwaren tegen een vordering dan wel tegen de aan een vordering verbonden voorrang aan de curator kenbaar te maken, die, als hij de bezwaren niet kan wegnemen, deze aan de rechter-commissaris voorlegt. [Artikel 126](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vijfde&artikel=126&z=2006-02-01&g=2006-02-01) is van overeenkomstige toepassing.
+4. De gefailleerde is bevoegd zijn bezwaren tegen een vordering dan wel tegen de aan een vordering verbonden voorrang aan de curator kenbaar te maken, die, als hij de bezwaren niet kan wegnemen, deze aan de rechter-commissaris voorlegt. [Artikel 126](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vijfde&artikel=126&z=2007-01-01&g=2007-01-01) is van overeenkomstige toepassing.
 
 ##### Artikel 137c
 
-1. De curator gaat over tot tegeldemaking van de boedel. De [artikelen 175 , tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zevende&artikel=175&z=2006-02-01&g=2006-02-01), [176](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zevende&artikel=176&z=2006-02-01&g=2006-02-01) en [177](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zevende&artikel=177&z=2006-02-01&g=2006-02-01) zijn van overeenkomstige toepassing.
+1. De curator gaat over tot tegeldemaking van de boedel. De [artikelen 175 , tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zevende&artikel=175&z=2007-01-01&g=2007-01-01), [176](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zevende&artikel=176&z=2007-01-01&g=2007-01-01) en [177](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zevende&artikel=177&z=2007-01-01&g=2007-01-01) zijn van overeenkomstige toepassing.
 
 2. De curator maakt een uitdelingslijst op. De lijst houdt in een staat van de ontvangsten en uitgaven (daaronder begrepen het salaris van de curator), de namen van de schuldeisers die een bevoorrechte of door pand, hypotheek of retentierecht gedekte vordering hebben, het bedrag van ieders vordering en de daarop te ontvangen uitkering.
 
-3. Voor de vorderingen waarover een geschil als bedoeld in [artikel 122](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vijfde&artikel=122&z=2006-02-01&g=2006-02-01) aanhangig is, trekt de curator op de lijst percenten over het volle bedrag uit, alsmede percenten voor in verband daarmee nog aan te wenden kosten. [Artikel 194](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zevende&artikel=194&z=2006-02-01&g=2006-02-01) is van overeenkomstige toepassing.
+3. Voor de vorderingen waarover een geschil als bedoeld in [artikel 122](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vijfde&artikel=122&z=2007-01-01&g=2007-01-01) aanhangig is, trekt de curator op de lijst percenten over het volle bedrag uit, alsmede percenten voor in verband daarmee nog aan te wenden kosten. [Artikel 194](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zevende&artikel=194&z=2007-01-01&g=2007-01-01) is van overeenkomstige toepassing.
 
 ##### Artikel 137d
 
@@ -3448,31 +3428,31 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 4. De curator geeft daarvan schriftelijk bericht aan alle bekende schuldeisers, met mededeling dat de uitdelingslijst geen betrekking heeft op concurrente vorderingen.
 
-5. [Artikel 182](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zevende&artikel=182&z=2006-02-01&g=2006-02-01) is van overeenkomstige toepassing.
+5. [Artikel 182](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zevende&artikel=182&z=2007-01-01&g=2007-01-01) is van overeenkomstige toepassing.
 
 ##### Artikel 137e
 
-1. Gedurende de in [artikel 137d, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vijfde_A&artikel=137d&z=2006-02-01&g=2006-02-01), genoemde termijn kan iedere schuldeiser in verzet komen tegen de ter griffie nedergelegde uitdelingslijst door inlevering van een met redenen omkleed bezwaarschrift ter griffie; hem wordt door de griffier een bewijs van ontvangst gegeven.
+1. Gedurende de in [artikel 137d, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vijfde_A&artikel=137d&z=2007-01-01&g=2007-01-01), genoemde termijn kan iedere schuldeiser in verzet komen tegen de ter griffie nedergelegde uitdelingslijst door inlevering van een met redenen omkleed bezwaarschrift ter griffie; hem wordt door de griffier een bewijs van ontvangst gegeven.
 
 2. Het bezwaarschrift wordt als bijlage bij de uitdelingslijst gevoegd.
 
 3. Het verzet door een concurrente schuldeiser kan niet worden gegrond op het enkele feit dat zijn vordering niet op de ter griffie nedergelegde uitdelingslijst is geplaatst.
 
-4. De [artikelen 185](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zevende&artikel=185&z=2006-02-01&g=2006-02-01) en [187](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zevende&artikel=187&z=2006-02-01&g=2006-02-01) zijn van overeenkomstige toepassing.
+4. De [artikelen 185](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zevende&artikel=185&z=2007-01-01&g=2007-01-01) en [187](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zevende&artikel=187&z=2007-01-01&g=2007-01-01) zijn van overeenkomstige toepassing.
 
 ##### Artikel 137f
 
-1. Na afloop van de termijn, genoemd in [artikel 137d, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vijfde_A&artikel=137d&z=2006-02-01&g=2006-02-01), of, indien verzet is gedaan, nadat de beschikking op het verzet in kracht van gewijsde is gegaan, verkeert de boedel van rechtswege in staat van insolventie en gaat de curator over tot het doen van de vastgestelde uitkering.
+1. Na afloop van de termijn, genoemd in [artikel 137d, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vijfde_A&artikel=137d&z=2007-01-01&g=2007-01-01), of, indien verzet is gedaan, nadat de beschikking op het verzet in kracht van gewijsde is gegaan, verkeert de boedel van rechtswege in staat van insolventie en gaat de curator over tot het doen van de vastgestelde uitkering.
 
-2. De [artikelen 188](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zevende&artikel=188&z=2006-02-01&g=2006-02-01), [189](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zevende&artikel=189&z=2006-02-01&g=2006-02-01), [190](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zevende&artikel=190&z=2006-02-01&g=2006-02-01), [192](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zevende&artikel=192&z=2006-02-01&g=2006-02-01) en [193](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zevende&artikel=193&z=2006-02-01&g=2006-02-01) zijn van overeenkomstige toepassing.
+2. De [artikelen 188](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zevende&artikel=188&z=2007-01-01&g=2007-01-01), [189](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zevende&artikel=189&z=2007-01-01&g=2007-01-01), [190](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zevende&artikel=190&z=2007-01-01&g=2007-01-01), [192](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zevende&artikel=192&z=2007-01-01&g=2007-01-01) en [193](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zevende&artikel=193&z=2007-01-01&g=2007-01-01) zijn van overeenkomstige toepassing.
 
 ##### Artikel 137g
 
-1. Indien tijdens de vereffening baten opkomen die van zodanige omvang zijn dat uit de opbrengst daarvan ook concurrente vorderingen geheel of gedeeltelijk kunnen worden voldaan, bepaalt de rechter-commissaris dat alsnog een verificatievergadering wordt gehouden en stelt daartoe dag, uur en plaats vast, alsmede de dag waarop uiterlijk de vorderingen ingediend moeten worden. [Artikel 108, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vijfde&artikel=108&z=2006-02-01&g=2006-02-01), is van toepassing.
+1. Indien tijdens de vereffening baten opkomen die van zodanige omvang zijn dat uit de opbrengst daarvan ook concurrente vorderingen geheel of gedeeltelijk kunnen worden voldaan, bepaalt de rechter-commissaris dat alsnog een verificatievergadering wordt gehouden en stelt daartoe dag, uur en plaats vast, alsmede de dag waarop uiterlijk de vorderingen ingediend moeten worden. [Artikel 108, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vijfde&artikel=108&z=2007-01-01&g=2007-01-01), is van toepassing.
 
 2. De curator geeft van de in het vorige lid genoemde beschikking onmiddellijk aan alle bekende schuldeisers kennis en doet daarvan aankondiging in de Staatscourant.
 
-3. De [vijfde](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vijfde&z=2006-02-01&g=2006-02-01), [zesde](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zesde&z=2006-02-01&g=2006-02-01) en [zevende afdeling](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zevende&z=2006-02-01&g=2006-02-01) zijn van toepassing.
+3. De [vijfde](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vijfde&z=2007-01-01&g=2007-01-01), [zesde](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zesde&z=2007-01-01&g=2007-01-01) en [zevende afdeling](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Zevende&z=2007-01-01&g=2007-01-01) zijn van toepassing.
 
 ### afdeeling Zesde. Van het akkoord
 
@@ -3518,19 +3498,19 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ### afdeling Elfde. Slotbepalingen
 
-### Algemene slotbepaling
+### afdeling Eerste. Het uitspreken van de toepassing van de schuldsaneringsregeling
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
 ##### Artikel 19b
 
-In het geval, bedoeld in [artikel 14, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=14&z=2006-02-01&g=2006-02-01), worden de gegevens met betrekking tot de daar bedoelde insolventieprocedure door de griffier van de rechtbank te 's-Gravenhage ingeschreven in het register, bedoeld in [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=19&z=2006-02-01&g=2006-02-01), alsmede in het centrale register, bedoeld in [artikel 19a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=19a&z=2006-02-01&g=2006-02-01).
+In het geval, bedoeld in [artikel 14, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=14&z=2007-01-01&g=2007-01-01), worden de gegevens met betrekking tot de daar bedoelde insolventieprocedure door de griffier van de rechtbank te 's-Gravenhage ingeschreven in het register, bedoeld in [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=19&z=2007-01-01&g=2007-01-01), alsmede in het centrale register, bedoeld in [artikel 19a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=19a&z=2007-01-01&g=2007-01-01).
 
 ### afdeeling Tweede. Van de gevolgen der faillietverklaring
 
 ##### Artikel 32
 
-De [artikelen 27 tot en met 31](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=27&z=2006-02-01&g=2006-02-01) zijn van overeenkomstige toepassing met betrekking tot rechtsvorderingen betreffende een goed of recht waarover de schuldenaar het beheer en de beschikking heeft verloren door de opening van een in Nederland op grond van artikel 16 van de verordening, genoemd in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=5&z=2006-02-01&g=2006-02-01), te erkennen insolventieprocedure, indien deze een liquidatieprocedure is in de zin van artikel 2, onder c, van die verordening.
+De [artikelen 27 tot en met 31](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=27&z=2007-01-01&g=2007-01-01) zijn van overeenkomstige toepassing met betrekking tot rechtsvorderingen betreffende een goed of recht waarover de schuldenaar het beheer en de beschikking heeft verloren door de opening van een in Nederland op grond van artikel 16 van de verordening, genoemd in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=5&z=2007-01-01&g=2007-01-01), te erkennen insolventieprocedure, indien deze een liquidatieprocedure is in de zin van artikel 2, onder c, van die verordening.
 
 ### afdeeling Derde. Van het bestuur over den faillieten boedel
 
@@ -3556,7 +3536,7 @@ De [artikelen 27 tot en met 31](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&
 
 ##### Artikel 172a
 
-De bepalingen van deze afdeling zijn van overeenkomstige toepassing in het geval dat een akkoord wordt aangeboden op de voet van artikel 34, eerste lid, van de verordening, genoemd in[artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=5&z=2006-02-01&g=2006-02-01).
+De bepalingen van deze afdeling zijn van overeenkomstige toepassing in het geval dat een akkoord wordt aangeboden op de voet van artikel 34, eerste lid, van de verordening, genoemd in[artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=5&z=2007-01-01&g=2007-01-01).
 
 ### afdeeling Zevende. Van de vereffening des boedels
 
@@ -3574,11 +3554,11 @@ De bepalingen van deze afdeling zijn van overeenkomstige toepassing in het geval
 
 ##### Artikel 231a
 
-[Artikel 231](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=231&z=2006-02-01&g=2006-02-01) is van overeenkomstige toepassing met betrekking tot rechtsvorderingen betreffende een goed of recht waarover de schuldenaar het beheer en de beschikking heeft verloren door de opening van een in Nederland op grond van artikel 16 van de verordening, genoemd in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=5&z=2006-02-01&g=2006-02-01), te erkennen insolventieprocedure, indien deze geen liquidatieprocedure is in de zin van artikel 2, onder c, van die verordening.
+[Artikel 231](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=231&z=2007-01-01&g=2007-01-01) is van overeenkomstige toepassing met betrekking tot rechtsvorderingen betreffende een goed of recht waarover de schuldenaar het beheer en de beschikking heeft verloren door de opening van een in Nederland op grond van artikel 16 van de verordening, genoemd in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=5&z=2007-01-01&g=2007-01-01), te erkennen insolventieprocedure, indien deze geen liquidatieprocedure is in de zin van artikel 2, onder c, van die verordening.
 
 ##### Artikel 247d
 
-In het geval van een verzoek tot omzetting als bedoeld in artikel 37 van de verordening, genoemd in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=5&z=2006-02-01&g=2006-02-01), zijn, wanneer het de omzetting in een faillissement betreft, de [artikelen 242, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=242&z=2006-02-01&g=2006-02-01), en [243 tot en met 246](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=243&z=2006-02-01&g=2006-02-01) dan wel, wanneer het de omzetting in een toepassing van de schuldsaneringsregeling betreft, de [artikelen 247a, derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=247a&z=2006-02-01&g=2006-02-01), [247b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=247b&z=2006-02-01&g=2006-02-01), en [247c](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=247c&z=2006-02-01&g=2006-02-01) van overeenkomstige toepassing.
+In het geval van een verzoek tot omzetting als bedoeld in artikel 37 van de verordening, genoemd in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=5&z=2007-01-01&g=2007-01-01), zijn, wanneer het de omzetting in een faillissement betreft, de [artikelen 242, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=242&z=2007-01-01&g=2007-01-01), en [243 tot en met 246](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=243&z=2007-01-01&g=2007-01-01) dan wel, wanneer het de omzetting in een toepassing van de schuldsaneringsregeling betreft, de [artikelen 247a, derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=247a&z=2007-01-01&g=2007-01-01), [247b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=247b&z=2007-01-01&g=2007-01-01), en [247c](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=247c&z=2007-01-01&g=2007-01-01) van overeenkomstige toepassing.
 
 ### afdeeling Tweede. Van het akkoord
 
@@ -3592,7 +3572,7 @@ In het geval van een verzoek tot omzetting als bedoeld in artikel 37 van de vero
 
 ### afdeling Tweede. Van het akkoord
 
-### afdeling Eerste. Het uitspreken van de toepassing van de schuldsaneringsregeling
+### afdeling Tweede. Van het akkoord
 
 #### Paragraaf 1. Verificatie van vorderingen
 
@@ -3600,7 +3580,7 @@ In het geval van een verzoek tot omzetting als bedoeld in artikel 37 van de vero
 
 ##### Artikel 333a
 
-De bepalingen van deze paragraaf zijn van overeenkomstige toepassing in het geval dat een akkoord wordt aangeboden op de voet van artikel 34, eerste lid, van de verordening, genoemd in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=5&z=2006-02-01&g=2006-02-01).
+De bepalingen van deze paragraaf zijn van overeenkomstige toepassing in het geval dat een akkoord wordt aangeboden op de voet van artikel 34, eerste lid, van de verordening, genoemd in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=5&z=2007-01-01&g=2007-01-01).
 
 #### Paragraaf 3. Raadpleging over voortzetting van de schuldsaneringsregeling en het ontwerp van saneringsplan
 
@@ -3624,17 +3604,17 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ##### Artikel 213a
 
-1. [Artikel 2, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=2&z=2006-02-01&g=2006-02-01), is niet van toepassing op een verzekeraar die in een andere lidstaat dan Nederland zijn zetel heeft en daar een vergunning heeft verkregen.
+1. [Artikel 2, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=2&z=2007-01-01&g=2007-01-01), is niet van toepassing op een verzekeraar die in een andere lidstaat dan Nederland zijn zetel heeft en daar een vergunning heeft verkregen.
 
 2. Een verzekeraar die in een andere lidstaat dan Nederland zijn zetel heeft en daar een vergunning heeft verkregen, kan in Nederland niet in staat van faillissement worden verklaard.
 
 ##### Artikel 213b
 
-De Pensioen- & Verzekeringskamer kan een verzoek tot faillietverklaring als bedoeld in [artikel 169, eerste lid, van de Wet toezicht verzekeringsbedrijf 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006509&artikel=169), zonder tussenkomst van een procureur indienen.
+De Nederlandsche Bank N.V. kan een verzoek tot faillietverklaring als bedoeld in [artikel 169, eerste lid, van de Wet toezicht verzekeringsbedrijf 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006509&artikel=169), zonder tussenkomst van een procureur indienen.
 
 ##### Artikel 213c
 
-De Pensioen- & Verzekeringskamer zendt een afschrift van haar verzoekschrift aan de verzekeraar en geeft van de inhoud daarvan kennis aan:
+De Nederlandsche Bank N.V. zendt een afschrift van haar verzoekschrift aan de verzekeraar en geeft van de inhoud daarvan kennis aan:
 
 - a. indien het een verzekeraar met zetel in Nederland betreft, de toezichthoudende autoriteiten van de andere lidstaten waar de verzekeraar een bijkantoor heeft of waarheen hij diensten verricht vanuit de vestigingen in de Europese Unie;
 
@@ -3642,9 +3622,9 @@ De Pensioen- & Verzekeringskamer zendt een afschrift van haar verzoekschrift aan
 
 ##### Artikel 213d
 
-1. Op een vordering of verzoek tot faillietverklaring van een verzekeraar, eigen aangifte daaronder begrepen, wordt niet beslist dan nadat de rechter de Pensioen- & Verzekeringskamer in de gelegenheid heeft gesteld haar mening daaromtrent kenbaar te maken.
+1. Op een vordering of verzoek tot faillietverklaring van een verzekeraar, eigen aangifte daaronder begrepen, wordt niet beslist dan nadat de rechter de Nederlandsche Bank N.V. in de gelegenheid heeft gesteld haar mening daaromtrent kenbaar te maken.
 
-2. De Pensioen- & Verzekeringskamer trekt de vergunning van de verzekeraar in, indien deze op het tijdstip van faillietverklaring nog een vergunning heeft.
+2. de Nederlandsche Bank N.V. trekt de vergunning van de verzekeraar in, indien deze op het tijdstip van faillietverklaring nog een vergunning heeft.
 
 ##### Artikel 213e
 
@@ -3654,33 +3634,51 @@ De Pensioen- & Verzekeringskamer zendt een afschrift van haar verzoekschrift aan
 
 ##### Artikel 213f
 
-1. Het uitspreken van de noodregeling heeft mede tot gevolg dat de verzekeraar slechts in staat van faillissement kan worden verklaard overeenkomstig [artikel 169, eerste en tweede lid, van de Wet toezicht verzekeringsbedrijf 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006509&artikel=169), alsmede dat de faillietverklaring wordt uitgesproken ongeacht of de verzekeraar verkeert in een toestand van te hebben opgehouden te betalen.
+1. Nadat de rechtbank een noodregeling als bedoeld in [artikel 3:161 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:161) heeft uitgesproken, kan zij in afwijking van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=1&z=2007-01-01&g=2007-01-01), de Nederlandsche Bank N.V. gehoord, op verzoek van de bewindvoerders, bedoeld in [artikel 3:162, vierde lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:162), op voordracht van de rechter-commissaris of ambtshalve, de desbetreffende verzekeraar met zetel in Nederland in staat van faillissement verklaren indien blijkt dat deze een negatief eigen vermogen heeft en het met de verleende machtiging te bereiken doel is verwezenlijkt of niet meer kan worden verwezenlijkt of, indien geen machtiging is verleend, geen redelijk vooruitzicht meer bestaat dat het met een machtiging te bereiken doel alsnog kan worden verwezenlijkt.
 
-2. Het bepaalde in de [eerste titel](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&z=2006-02-01&g=2006-02-01) en [artikel 362](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&artikel=362&z=2006-02-01&g=2006-02-01) is van overeenkomstige toepassing.
+2. De noodregeling en de machtiging houden van rechtswege op van kracht te zijn ingeval de verzekeraar in staat van faillissement wordt verklaard.
+
+3. Alsdan, zomede indien de faillietverklaring wordt uitgesproken binnen vier weken na de beëindiging van de noodregeling, gelden de volgende bepalingen:
+
+- a. het tijdstip waarop de termijnen, bedoeld in de [artikelen 43](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=43&z=2007-01-01&g=2007-01-01) en [45](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=45&z=2007-01-01&g=2007-01-01), aanvangen, wordt berekend vanaf het geven van de uitspraak, bedoeld in [artikel 3:160, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:160), of [artikel 3:206, eerste of tweede lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:206);
+
+- b. boedelschulden, na het geven van die uitspaak ontstaan, zullen ook in het faillissement als boedelschuld gelden;
+
+- c. het tijdstip waarop de termijnen, vermeld in de [artikelen 138, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=138), en [248, zesde lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=248), aanvangen, wordt berekend vanaf die uitspraak.
+
+- d. handelingen, ingevolge [artikel 3:175 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:175) door of namens de bewindvoerders, bedoeld in [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:175), verricht gedurende de tijd dat de noodregeling van kracht was, worden beschouwd als handelingen van de curator;
+
+- e. de boedel is niet aansprakelijk voor verbintenissen van de verzekeraar die in strijd met [artikel 3:175, eerste en zesde lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:175) zijn aangegaan gedurende de tijd dat de noodregeling van kracht was, dan voor zover deze daardoor is gebaat;
+
+- f. een beroep op verrekening kan in afwijking van [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=53&z=2007-01-01&g=2007-01-01) slechts worden gedaan indien de vordering en de schuldplichtigheid beide zijn ontstaan voor het tijdstip waarop de uitspraak van de noodregeling is gedaan of voortvloeien uit een handeling voor dat tijdstip met de verzekeraar verricht; en
+
+- g. vorderingen uit overeenkomsten van levensverzekering kunnen in afwijking van [artikel 110, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vijfde&artikel=110&z=2007-01-01&g=2007-01-01), worden ingediend door overlegging van de polis of een afschrift daarvan, zonder dat het bedrag van de vordering behoeft te worden vermeld; voor zover de curator de vordering erkent, stelt hij de omvang daarvan vast.
+
+4. Het bepaalde in de [eerste titel](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&z=2007-01-01&g=2007-01-01) en [artikel 362](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&artikel=362&z=2007-01-01&g=2007-01-01) is van overeenkomstige toepassing.
 
 ##### Artikel 213g
 
-1. De griffier stelt de Pensioen- & Verzekeringskamer onverwijld in kennis van de beslissing tot faillietverklaring.
+1. De griffier stelt de Nederlandsche Bank N.V. onverwijld in kennis van de beslissing tot faillietverklaring.
 
-2. De Pensioen- & Verzekeringskamer stelt onverwijld daarna de toezichthoudende autoriteiten van alle andere lidstaten in kennis van het vonnis tot faillietverklaring, alsmede van de mogelijke gevolgen daarvan in het desbetreffende geval.
+2. de Nederlandsche Bank N.V. stelt onverwijld daarna de toezichthoudende autoriteiten van alle andere lidstaten in kennis van het vonnis tot faillietverklaring, alsmede van de mogelijke gevolgen daarvan in het desbetreffende geval.
 
 ##### Artikel 213h
 
-1. Onverminderd [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=14&z=2006-02-01&g=2006-02-01), plaatst de curator een uittreksel van het vonnis tot faillietverklaring in het Publicatieblad van de Europese Gemeenschappen en in een of meer door de rechter-commissaris aan te wijzen dagbladen.
+1. Onverminderd [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=14&z=2007-01-01&g=2007-01-01), plaatst de curator een uittreksel van het vonnis tot faillietverklaring in het Publicatieblad van de Europese Gemeenschappen en in een of meer door de rechter-commissaris aan te wijzen dagbladen.
 
-2. In aanvulling op de gegevens, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=14&z=2006-02-01&g=2006-02-01), vermeldt de curator dat het Nederlandse recht, behoudens uitzonderingen, van toepassing is.
+2. In aanvulling op de gegevens, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=14&z=2007-01-01&g=2007-01-01), vermeldt de curator dat het Nederlandse recht, behoudens uitzonderingen, van toepassing is.
 
 ##### Artikel 213i
 
 1. De curator geeft van het vonnis tot faillietverklaring onmiddellijk aan alle bekende schuldeisers schriftelijk kennis.
 
-2. De curator die op de voet van [artikel 109](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vijfde&artikel=109&z=2006-02-01&g=2006-02-01) aan alle bekende schuldeisers kennis geeft van de in dat artikel bedoelde beschikkingen, deelt daarbij tevens mede wat de gevolgen zijn van het indienen van een vordering na het verstrijken van de termijn, bedoeld in [artikel 108, eerste lid, onderdeel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vijfde&artikel=108&z=2006-02-01&g=2006-02-01), en dat schuldeisers, daaronder begrepen de schuldeisers met een voorrecht of zakelijk zekerheidsrecht, hun vorderingen bij de curator moeten indienen, met, in het voorkomende geval, de opgave dat op een voorrecht of zakelijk zekerheidsrecht aanspraak wordt gemaakt. Aan schuldeisers met een vordering uit hoofde van verzekering vermeldt de kennisgeving voorts welke de belangrijkste gevolgen van de faillietverklaring voor de overeenkomsten uit hoofde van verzekering zijn, en de rechten en verplichtingen van de verzekerde en anderen in verband met de overeenkomst van verzekering.
+2. De curator die op de voet van [artikel 109](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vijfde&artikel=109&z=2007-01-01&g=2007-01-01) aan alle bekende schuldeisers kennis geeft van de in dat artikel bedoelde beschikkingen, deelt daarbij tevens mede wat de gevolgen zijn van het indienen van een vordering na het verstrijken van de termijn, bedoeld in [artikel 108, eerste lid, onderdeel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vijfde&artikel=108&z=2007-01-01&g=2007-01-01), en dat schuldeisers, daaronder begrepen de schuldeisers met een voorrecht of zakelijk zekerheidsrecht, hun vorderingen bij de curator moeten indienen, met, in het voorkomende geval, de opgave dat op een voorrecht of zakelijk zekerheidsrecht aanspraak wordt gemaakt. Aan schuldeisers met een vordering uit hoofde van verzekering vermeldt de kennisgeving voorts welke de belangrijkste gevolgen van de faillietverklaring voor de overeenkomsten uit hoofde van verzekering zijn, en de rechten en verplichtingen van de verzekerde en anderen in verband met de overeenkomst van verzekering.
 
 ##### Artikel 213j
 
-1. De kennisgeving, bedoeld in [artikel 213i, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=11B&paragraaf=2&artikel=213i&z=2006-02-01&g=2006-02-01), aan een bekende schuldeiser met gewone verblijfplaats of woonplaats in een lidstaat, die een vordering uit hoofde van verzekering heeft, geschiedt in een officiële taal van die lidstaat.
+1. De kennisgeving, bedoeld in [artikel 213i, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=11B&paragraaf=2&artikel=213i&z=2007-01-01&g=2007-01-01), aan een bekende schuldeiser met gewone verblijfplaats of woonplaats in een lidstaat, die een vordering uit hoofde van verzekering heeft, geschiedt in een officiële taal van die lidstaat.
 
-2. De kennisgeving, bedoeld in [artikel 213i, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=11B&paragraaf=2&artikel=213i&z=2006-02-01&g=2006-02-01), aan een bekende schuldeiser met gewone verblijfplaats of woonplaats in een lidstaat , die een andere vordering heeft dan de vordering, bedoeld in het eerste lid, geschiedt in het Nederlands met een formulier dat in alle officiële talen van de Unie het opschrift draagt «Oproep tot indiening van schuldvorderingen. Termijnen».
+2. De kennisgeving, bedoeld in [artikel 213i, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=11B&paragraaf=2&artikel=213i&z=2007-01-01&g=2007-01-01), aan een bekende schuldeiser met gewone verblijfplaats of woonplaats in een lidstaat , die een andere vordering heeft dan de vordering, bedoeld in het eerste lid, geschiedt in het Nederlands met een formulier dat in alle officiële talen van de Unie het opschrift draagt «Oproep tot indiening van schuldvorderingen. Termijnen».
 
 3. Elke schuldeiser met gewone verblijfplaats of woonplaats in een lidstaat kan zijn vordering en schriftelijke opmerkingen betreffende zijn vordering indienen in een officiële taal van die lidstaat met een verklaring met als opschrift in de Nederlandse taal «Indiening van een vordering», onderscheidenlijk «Indiening van opmerkingen betreffende een vordering».
 
@@ -3688,23 +3686,11 @@ De Pensioen- & Verzekeringskamer zendt een afschrift van haar verzoekschrift aan
 
 1. De curator stelt alle bekende schuldeisers regelmatig op passende wijze in kennis van in ieder geval het verloop van de procedure.
 
-2. De Pensioen- & Verzekeringskamer stelt de toezichthoudende autoriteiten van de andere lidstaten die zulks verzoeken in kennis van het verloop van de procedure.
+2. de Nederlandsche Bank N.V. stelt de toezichthoudende autoriteiten van de andere lidstaten die zulks verzoeken in kennis van het verloop van de procedure.
 
 ##### Artikel 213l
 
-Indien de machtiging ingevolge [artikel 169, derde lid, van de Wet toezicht verzekeringsbedrijf 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006509&artikel=169) ophoudt van kracht te zijn, alsmede indien de faillietverklaring wordt uitgesproken binnen vier weken na het intrekken van de machtiging, gelden de volgende bepalingen:
-
-- a. het tijdstip waarop de termijnen, bedoeld in de [artikelen 43](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=43&z=2006-02-01&g=2006-02-01) en [45](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=45&z=2006-02-01&g=2006-02-01), en in [artikel 138, zesde lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=138), aanvangen, wordt berekend vanaf het tijdstip waarop de noodregeling is uitgesproken;
-
-- b. een beroep op verrekening kan in afwijking van [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=53&z=2006-02-01&g=2006-02-01) slechts worden gedaan indien de vordering en de schuldplichtigheid beide zijn ontstaan voor het tijdstip waarop de beschikking, houdende het uitspreken van de noodregeling is gegeven, of voortvloeien uit een handeling voor dat tijdstip met de verzekeraar verricht;
-
-- c. handelingen, ingevolge [artikel 161 van de Wet toezicht verzekeringsbedrijf 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006509&artikel=161) door of namens de bewindvoerders, bedoeld in [artikel 1, eerste lid, onderdeel cc](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=1&z=2006-02-01&g=2006-02-01), verricht gedurende de tijd dat de machtiging van kracht was, worden beschouwd als handelingen van de curator, terwijl boedelschulden, gedurende die tijd ontstaan, ook in het faillissement als boedelschulden zullen gelden;
-
-- d. de boedel is niet aansprakelijk voor verbintenissen van de verzekeraar die in strijd met [artikel 161, eerste en zesde lid, van de Wet toezicht verzekeringsbedrijf 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006509&artikel=161), zijn aangegaan gedurende de tijd dat de machtiging van kracht was, dan voorzover deze daardoor is gebaat;
-
-- e. vorderingen uit overeenkomsten van levensverzekering kunnen in afwijking van [artikel 110, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vijfde&artikel=110&z=2006-02-01&g=2006-02-01), worden ingediend door overlegging van de polis of een afschrift daarvan, zonder dat het bedrag van de vordering behoeft te worden vermeld; voorzover de curator de vordering erkent, stelt hij de omvang daarvan vast;
-
-- f. voorzover niet reeds [artikel 163a van de Wet toezicht verzekeringsbedrijf 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006509&artikel=163a) tot volledige uitvoering is gekomen, is het bepaalde in titel I overigens van toepassing.
+Vervallen
 
 ##### Artikel 213m
 
@@ -3786,7 +3772,7 @@ De beslissing tot opening van een liquidatieprocedure, de liquidatieprocedure ze
 
 2. Ingeval de verzekeraar een zaak heeft verkocht, is de beslissing tot opening van een liquidatieprocedure geen grond voor ontbinding of beëindiging van de overeenkomst tot verkoop, en belet de liquidatieprocedure de koper niet de eigendom van de gekochte zaak te verkrijgen, indien de zaak zich op het tijdstip waarop de beslissing tot opening van de liquidatieprocedure rechtsgevolgen heeft, bevindt op het grondgebied van een andere lidstaat dan de lidstaat van herkomst.
 
-3. [Artikel 171c, vierde lid, van de Wet toezicht verzekeringsbedrijf 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006509&artikel=171c) is van overeenkomstige toepassing.
+3. [Artikel 3:241, vierde lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:241) is van overeenkomstige toepassing.
 
 ##### Artikel 213r
 
@@ -3794,37 +3780,37 @@ Indien degene die zowel schuldeiser als schuldenaar is van de verzekeraar bevoeg
 
 ##### Artikel 213s
 
-De [artikelen 213p tot en met 213r](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=11B&paragraaf=3&artikel=213p&z=2006-02-01&g=2006-02-01) staan er niet aan in de weg dat een vordering wordt ingesteld tot nietigheid, vernietiging of het niet kunnen worden tegengeworpen van een rechtshandeling wegens de benadeling van het geheel van schuldeisers welke van die rechtshandeling het gevolg is.
+De [artikelen 213p tot en met 213r](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=11B&paragraaf=3&artikel=213p&z=2007-01-01&g=2007-01-01) staan er niet aan in de weg dat een vordering wordt ingesteld tot nietigheid, vernietiging of het niet kunnen worden tegengeworpen van een rechtshandeling wegens de benadeling van het geheel van schuldeisers welke van die rechtshandeling het gevolg is.
 
 ##### Artikel 213t
 
-In afwijking van [artikel 213o](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=11B&paragraaf=3&artikel=213o&z=2006-02-01&g=2006-02-01) worden de gevolgen van een liquidatieprocedure voor arbeidsovereenkomsten en andere rechtsverhoudingen ter zake van het verrichten van arbeid uitsluitend beheerst door het recht van de lidstaat dat op die overeenkomst of rechtsverhouding van toepassing is.
+In afwijking van [artikel 213o](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=11B&paragraaf=3&artikel=213o&z=2007-01-01&g=2007-01-01) worden de gevolgen van een liquidatieprocedure voor arbeidsovereenkomsten en andere rechtsverhoudingen ter zake van het verrichten van arbeid uitsluitend beheerst door het recht van de lidstaat dat op die overeenkomst of rechtsverhouding van toepassing is.
 
 ##### Artikel 213u
 
-In afwijking van [artikel 213o](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=11B&paragraaf=3&artikel=213o&z=2006-02-01&g=2006-02-01) worden de gevolgen van een liquidatieprocedure voor een overeenkomst die het recht geeft op het genot of de verkrijging van een onroerende zaak uitsluitend beheerst door het recht van de lidstaat op het grondgebied waarvan de onroerende zaak is gelegen.
+In afwijking van [artikel 213o](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=11B&paragraaf=3&artikel=213o&z=2007-01-01&g=2007-01-01) worden de gevolgen van een liquidatieprocedure voor een overeenkomst die het recht geeft op het genot of de verkrijging van een onroerende zaak uitsluitend beheerst door het recht van de lidstaat op het grondgebied waarvan de onroerende zaak is gelegen.
 
 ##### Artikel 213v
 
-In afwijking van [artikel 213o](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=11B&paragraaf=3&artikel=213o&z=2006-02-01&g=2006-02-01) worden de gevolgen van een liquidatieprocedure voor de rechten van de verzekeraar op een registergoed beheerst door het recht van de lidstaat onder het gezag waarvan het register wordt gehouden.
+In afwijking van [artikel 213o](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=11B&paragraaf=3&artikel=213o&z=2007-01-01&g=2007-01-01) worden de gevolgen van een liquidatieprocedure voor de rechten van de verzekeraar op een registergoed beheerst door het recht van de lidstaat onder het gezag waarvan het register wordt gehouden.
 
 ##### Artikel 213w
 
-1. In afwijking van [artikel 213o](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=11B&paragraaf=3&artikel=213o&z=2006-02-01&g=2006-02-01) worden, onverminderd [artikel 213p](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=11B&paragraaf=3&artikel=213p&z=2006-02-01&g=2006-02-01), de gevolgen van een liquidatieprocedure voor de rechten en verplichtingen van deelnemers aan een gereglementeerde markt als bedoeld in artikel 1, onder 13, van [richtlijn nr. 93/22/EEG](31993L0022) van de Raad van de Europese Gemeenschappen van 10 mei 1993 betreffende het verrichten van diensten op het gebied van beleggingen in effecten (PbEG L 141) uitsluitend beheerst door het recht dat op die markt van toepassing is.
+1. In afwijking van [artikel 213o](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=11B&paragraaf=3&artikel=213o&z=2007-01-01&g=2007-01-01) worden, onverminderd [artikel 213p](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=11B&paragraaf=3&artikel=213p&z=2007-01-01&g=2007-01-01), de gevolgen van een liquidatieprocedure voor de rechten en verplichtingen van deelnemers aan een gereglementeerde markt als bedoeld in artikel 1, onder 13, van [richtlijn nr. 93/22/EEG](31993L0022) van de Raad van de Europese Gemeenschappen van 10 mei 1993 betreffende het verrichten van diensten op het gebied van beleggingen in effecten (PbEG L 141) uitsluitend beheerst door het recht dat op die markt van toepassing is.
 
 2. Het eerste lid staat er niet aan in de weg dat een vordering wordt ingesteld tot nietigheid, vernietiging of het niet kunnen worden tegengeworpen van een rechtshandeling wegens de benadeling van het geheel van schuldeisers die van die rechtshandeling het gevolg is.
 
 ##### Artikel 213x
 
-In afwijking van [artikel 213o](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=11B&paragraaf=3&artikel=213o&z=2006-02-01&g=2006-02-01) wordt de rechtsgeldigheid van een rechtshandeling, onder bezwarende titel aangegaan door de verzekeraar na het tijdstip van opening van een liquidatieprocedure, waarmee hij beschikt over een registergoed of effecten of andere waardepapieren waarvan het bestaan of de overdracht inschrijving in een wettelijk voorgeschreven register of op een wettelijk voorgeschreven rekening veronderstelt, of die zijn geplaatst in een door het recht van een lidstaat beheerst gecentraliseerd effectendepot, beheerst door het recht van de lidstaat onder het gezag waarvan het register, de rekening of het depot wordt gehouden dan wel, indien het een onroerende zaak betreft, door het recht van de lidstaat waar de onroerende zaak is gelegen.
+In afwijking van [artikel 213o](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=11B&paragraaf=3&artikel=213o&z=2007-01-01&g=2007-01-01) wordt de rechtsgeldigheid van een rechtshandeling, onder bezwarende titel aangegaan door de verzekeraar na het tijdstip van opening van een liquidatieprocedure, waarmee hij beschikt over een registergoed of effecten of andere waardepapieren waarvan het bestaan of de overdracht inschrijving in een wettelijk voorgeschreven register of op een wettelijk voorgeschreven rekening veronderstelt, of die zijn geplaatst in een door het recht van een lidstaat beheerst gecentraliseerd effectendepot, beheerst door het recht van de lidstaat onder het gezag waarvan het register, de rekening of het depot wordt gehouden dan wel, indien het een onroerende zaak betreft, door het recht van de lidstaat waar de onroerende zaak is gelegen.
 
 ##### Artikel 213ij
 
-In afwijking van [artikel 213o](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=11B&paragraaf=3&artikel=213o&z=2006-02-01&g=2006-02-01) worden de gevolgen van de liquidatieprocedure voor een aanhangige rechtsvordering betreffende een goed waarover de verzekeraar het beheer en de beschikking heeft verloren, uitsluitend beheerst door het recht van de lidstaat waar het rechtsgeding aanhangig is.
+In afwijking van [artikel 213o](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=11B&paragraaf=3&artikel=213o&z=2007-01-01&g=2007-01-01) worden de gevolgen van de liquidatieprocedure voor een aanhangige rechtsvordering betreffende een goed waarover de verzekeraar het beheer en de beschikking heeft verloren, uitsluitend beheerst door het recht van de lidstaat waar het rechtsgeding aanhangig is.
 
 ##### Artikel 213z
 
-[Artikel 213o](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=11B&paragraaf=3&artikel=213o&z=2006-02-01&g=2006-02-01) is niet van toepassing op regels betreffende de nietigheid, de vernietigbaarheid van voor het geheel van schuldeisers nadelige rechtshandelingen en evenmin op de regels die bepalen of dergelijke rechtshandelingen kunnen worden tegengeworpen, indien degene die voordeel heeft gehad bij die rechtshandeling bewijst dat:
+[Artikel 213o](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=11B&paragraaf=3&artikel=213o&z=2007-01-01&g=2007-01-01) is niet van toepassing op regels betreffende de nietigheid, de vernietigbaarheid van voor het geheel van schuldeisers nadelige rechtshandelingen en evenmin op de regels die bepalen of dergelijke rechtshandelingen kunnen worden tegengeworpen, indien degene die voordeel heeft gehad bij die rechtshandeling bewijst dat:
 
 - a. die rechtshandeling wordt beheerst door het recht van een andere lidstaat dan de lidstaat van herkomst; en
 
@@ -3844,17 +3830,17 @@ In afwijking van [artikel 213o](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&
 
 ##### Artikel 213cc
 
-Op verzoek van een curator uit een andere lidstaat dan Nederland worden de gegevens met betrekking tot een liquidatieprocedure, geopend in een andere lidstaat dan Nederland, door de griffier van de rechtbank te 's-Gravenhage ingeschreven in het register, bedoeld in [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=19&z=2006-02-01&g=2006-02-01).
+Op verzoek van een curator uit een andere lidstaat dan Nederland worden de gegevens met betrekking tot een liquidatieprocedure, geopend in een andere lidstaat dan Nederland, door de griffier van de rechtbank te 's-Gravenhage ingeschreven in het register, bedoeld in [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=19&z=2007-01-01&g=2007-01-01).
 
 ##### Artikel 213dd
 
-1. Indien een verzekeraar met zetel buiten de Europese Unie een bijkantoor heeft in Nederland en een of meer bijkantoren in andere lidstaten, trachten zowel de rechtbank als de Pensioen- & Verzekeringskamer hun optreden te coördineren met de bevoegde instanties onderscheidenlijk de toezichthoudende autoriteiten van de andere lidstaten waarin aan de verzekeraar een vergunning is verleend.
+1. Indien een verzekeraar met zetel buiten de Europese Unie een bijkantoor heeft in Nederland en een of meer bijkantoren in andere lidstaten, trachten zowel de rechtbank als de Nederlandsche Bank N.V. hun optreden te coördineren met de bevoegde instanties onderscheidenlijk de toezichthoudende autoriteiten van de andere lidstaten waarin aan de verzekeraar een vergunning is verleend.
 
 2. In het in het eerste lid bedoelde geval tracht de in Nederland benoemde curator zijn optreden te coördineren met de curatoren in die andere lidstaten.
 
 ##### Artikel 213ee
 
-In afwijking van [artikel 182 van de Wet toezicht verzekeringsbedrijf 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006509&artikel=182) kunnen gegevens of inlichtingen die geen betrekking hebben op derden die betrokken zijn bij pogingen de verzekeraar in staat te stellen zijn bedrijf voort te zetten, door de curator worden opgenomen in de verslagen, bedoeld in [artikel 73a](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Derde&paragraaf=2&artikel=73a&z=2006-02-01&g=2006-02-01).
+De curator kan in de verslagen, bedoeld in [artikel 73a](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Derde&paragraaf=2&artikel=73a&z=2007-01-01&g=2007-01-01), geen gegevens of inlichtingen opnemen die betrekking hebben op derden die betrokken zijn of zijn geweest bij pogingen de verzekeraar in staat te stellen haar bedrijf voort te zetten.
 
 ## Titel II. Van surséance van betaling
 
@@ -3892,7 +3878,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ##### Artikel 19a
 
-1. Door Onze Minister van Justitie of, indien ingevolge [artikel 19, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=19&z=2006-02-01&g=2006-02-01), een ander orgaan is aangewezen, door dat orgaan, wordt een centraal register gehouden, waarin de in [artikel 19, eerste lid, onder 1° tot en met 6°](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=19&z=2006-02-01&g=2006-02-01) genoemde gegevens worden ingeschreven.
+1. Door Onze Minister van Justitie of, indien ingevolge [artikel 19, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=19&z=2007-01-01&g=2007-01-01), een ander orgaan is aangewezen, door dat orgaan, wordt een centraal register gehouden, waarin de in [artikel 19, eerste lid, onder 1° tot en met 6°](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=19&z=2007-01-01&g=2007-01-01) genoemde gegevens worden ingeschreven.
 
 2. Omtrent vorm en inhoud van het register worden bij algemene maatregel van bestuur nadere regels gegeven.
 
@@ -3956,7 +3942,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ##### Artikel 222b
 
-1. Door onze Minister van Justitie of, indien ingevolge [artikel 222a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=222a&z=2006-02-01&g=2006-02-01), een ander orgaan is aangewezen, door dat orgaan, wordt een centraal register gehouden, waarin de in [artikel 222a, eerste lid, onder 1° tot en met 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=222a&z=2006-02-01&g=2006-02-01) genoemde gegevens worden ingeschreven.
+1. Door onze Minister van Justitie of, indien ingevolge [artikel 222a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=222a&z=2007-01-01&g=2007-01-01), een ander orgaan is aangewezen, door dat orgaan, wordt een centraal register gehouden, waarin de in [artikel 222a, eerste lid, onder 1° tot en met 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=222a&z=2007-01-01&g=2007-01-01) genoemde gegevens worden ingeschreven.
 
 2. Omtrent vorm en inhoud van het register worden bij algemene maatregel van bestuur nadere regels gegeven.
 
@@ -3984,7 +3970,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ##### Artikel 268a
 
-In afwijking van [artikel 268](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Tweede&artikel=268&z=2006-02-01&g=2006-02-01) kan de rechtbank of, zo die is benoemd, de rechter-commissaris op verzoek van de schuldenaar of de bewindvoerder bij gemotiveerde beschikking een aangeboden akkoord vaststellen als ware het aangenomen, indien:
+In afwijking van [artikel 268](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Tweede&artikel=268&z=2007-01-01&g=2007-01-01) kan de rechtbank of, zo die is benoemd, de rechter-commissaris op verzoek van de schuldenaar of de bewindvoerder bij gemotiveerde beschikking een aangeboden akkoord vaststellen als ware het aangenomen, indien:
 
 - a. drie vierde van de ter vergadering verschenen erkende en toegelaten schuldeisers voor het akkoord hebben gestemd; en
 
@@ -3994,7 +3980,7 @@ In afwijking van [artikel 268](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&t
 
 ##### Artikel 294a
 
-1. Door onze Minister van Justitie of, indien ingevolge [artikel 294, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Eerste&artikel=294&z=2006-02-01&g=2006-02-01), een ander bestuursorgaan is aangewezen, door dat bestuursorgaan wordt een centraal register gehouden, waarin de in [artikel 294, eerste lid, onder a tot en met h](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Eerste&artikel=294&z=2006-02-01&g=2006-02-01) genoemde gegevens worden ingeschreven.
+1. Door onze Minister van Justitie of, indien ingevolge [artikel 294, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Eerste&artikel=294&z=2007-01-01&g=2007-01-01), een ander bestuursorgaan is aangewezen, door dat bestuursorgaan wordt een centraal register gehouden, waarin de in [artikel 294, eerste lid, onder a tot en met h](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Eerste&artikel=294&z=2007-01-01&g=2007-01-01) genoemde gegevens worden ingeschreven.
 
 2. Omtrent vorm en inhoud van het register worden bij algemene maatregel van bestuur nadere regels gegeven.
 
@@ -4002,7 +3988,7 @@ In afwijking van [artikel 268](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&t
 
 ##### Artikel 294b
 
-De griffier geeft voor iedere van toepassing verklaarde schuldsaneringsregeling een uittreksel van het verzoekschrift met bijlagen op grond van [artikel 285](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Eerste&artikel=285&z=2006-02-01&g=2006-02-01) door aan Onze Minister van Justitie of, indien ingevolge [artikel 294, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Eerste&artikel=294&z=2006-02-01&g=2006-02-01), een ander bestuursorgaan is aangewezen, dat bestuursorgaan ter inschrijving in het in [artikel 294a](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Eerste&artikel=294a&z=2006-02-01&g=2006-02-01) bedoelde register. Onze Minister van Justitie onderscheidenlijk het bestuursorgaan, bedoeld in de eerste zin, stelt vast welke gegevens in het uittreksel worden opgenomen. [Artikel 294a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Eerste&artikel=294a&z=2006-02-01&g=2006-02-01), is op het uittreksel niet van toepassing.
+De griffier geeft voor iedere van toepassing verklaarde schuldsaneringsregeling een uittreksel van het verzoekschrift met bijlagen op grond van [artikel 285](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Eerste&artikel=285&z=2007-01-01&g=2007-01-01) door aan Onze Minister van Justitie of, indien ingevolge [artikel 294, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Eerste&artikel=294&z=2007-01-01&g=2007-01-01), een ander bestuursorgaan is aangewezen, dat bestuursorgaan ter inschrijving in het in [artikel 294a](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Eerste&artikel=294a&z=2007-01-01&g=2007-01-01) bedoelde register. Onze Minister van Justitie onderscheidenlijk het bestuursorgaan, bedoeld in de eerste zin, stelt vast welke gegevens in het uittreksel worden opgenomen. [Artikel 294a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Eerste&artikel=294a&z=2007-01-01&g=2007-01-01), is op het uittreksel niet van toepassing.
 
 ### AFDELING VIERDE. De voorzieningen na de uitspraak tot de toepassing van de schuldsaneringsregeling en de taak van de bewindvoerder
 
@@ -4024,7 +4010,7 @@ De griffier geeft voor iedere van toepassing verklaarde schuldsaneringsregeling 
 
 ##### Artikel 359a
 
-De [artikelen 203 tot en met 205](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tiende&artikel=203&z=2006-02-01&g=2006-02-01) zijn van overeenkomstige toepassing.
+De [artikelen 203 tot en met 205](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tiende&artikel=203&z=2007-01-01&g=2007-01-01) zijn van overeenkomstige toepassing.
 
 ### afdeling Elfde. Slotbepalingen
 
@@ -4036,19 +4022,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 1. Voor de toepassing van deze afdeling wordt verstaan onder:
 
-- a. kredietinstelling: de kredietinstelling, bedoeld in [artikel 1 van de Wet toezicht kredietwezen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005792&artikel=1), met uitzondering van een kredietinstelling:
-
-- 1°. die door de Minister van Financiën op grond van [artikel 6, tweede lid, van de Wet toezicht kredietwezen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005792&artikel=6) is vrijgesteld van het verbod van [artikel 6, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005792&artikel=6);
-
-- 2°. die door de Minister van Financiën op grond van [artikel 31, vierde lid, van de Wet toezicht kredietwezen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005792&artikel=31) is vrijgesteld van het verbod van [artikel 31, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005792&artikel=31);
-
-- 3°. die door de Minister van Financiën op grond van [artikel 38, derde lid, van de Wet toezicht kredietwezen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005792&artikel=38) is vrijgesteld van het verbod van [artikel 38, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005792&artikel=38);
-
-- 4°. die door De Nederlandsche Bank N.V. op grond van [artikel 6, derde lid, Wet toezicht kredietwezen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005792&artikel=6) is ontheven van het verbod van [artikel 6, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005792&artikel=6);
-
-- 5°. die door De Nederlandsche Bank N.V. op grond van [artikel 31, vijfde lid, van de Wet toezicht kredietwezen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005792&artikel=31) is ontheven van het verbod van [artikel 31, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005792&artikel=31);
-
-- 6°. die door De Nederlandsche Bank N.V. op grond van [artikel 38, vierde lid, van de Wet toezicht kredietwezen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005792&artikel=38) is ontheven van het verbod van [artikel 38, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005792&artikel=38).
+- a. kredietinstelling: een kredietinstelling als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1);
 
 - b. liquidatieprocedure: een collectieve procedure, het faillissement daaronder begrepen, geopend in een lidstaat, die het te gelde maken van de activa van een kredietinstelling en het op toepasselijke wijze verdelen van de opbrengst onder de schuldeisers, aandeelhouders of leden behelst, en die noodzakelijkerwijs een optreden van administratieve of rechterlijke instanties behelst, daaronder begrepen de collectieve procedure die wordt afgesloten met een gerechtelijk akkoord of een andere maatregel van dezelfde strekking;
 
@@ -4072,7 +4046,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ##### Artikel 212h
 
-1. [Artikel 2, tweede tot met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=2&z=2006-02-01&g=2006-02-01), is niet van toepassing op een in een andere lidstaat dan Nederland gevestigde kredietinstelling die daar een vergunning heeft verkregen.
+1. [Artikel 2, tweede tot met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=2&z=2007-01-01&g=2007-01-01), is niet van toepassing op een in een andere lidstaat dan Nederland gevestigde kredietinstelling die daar een vergunning heeft verkregen.
 
 2. Een in een andere lidstaat dan Nederland gevestigde kredietinstelling die daar een vergunning heeft verkregen kan in Nederland niet in staat van faillissement worden verklaard.
 
@@ -4096,33 +4070,39 @@ De Nederlandsche Bank N.V. zendt een afschrift van haar verzoekschrift aan de kr
 
 ##### Artikel 212l
 
-1. Wanneer een verzoek tot het uitspreken van de noodregeling, bedoeld in [hoofdstuk X van de Wet toezicht kredietwezen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005792&hoofdstuk=X), aanhangig is tegelijk met een verzoek tot faillietverklaring, eigen aangifte daaronder begrepen, wordt de behandeling van het verzoek tot faillietverklaring geschorst, totdat op het verzoek tot het uitspreken van de noodregeling is beschikt.
+1. Wanneer een verzoek tot het uitspreken van de noodregeling in de zin van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368), aanhangig is tegelijk met een verzoek tot faillietverklaring, eigen aangifte daaronder begrepen, wordt de behandeling van het verzoek tot faillietverklaring geschorst, totdat op het verzoek tot het uitspreken van de noodregeling is beschikt.
 
-2. Wordt een verklaring als bedoeld in [artikel 71, eerste of tweede lid, van de Wet toezicht kredietwezen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005792&artikel=71) gegeven, dan vervalt het verzoek tot faillietverklaring van rechtswege.
+2. Wordt een verklaring als bedoeld in [artikel 3:160, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:160), of [artikel 3:206, eerste of tweede lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:206) gegeven, dan vervalt het verzoek tot faillietverklaring van rechtswege.
 
 ##### Artikel 212m
 
-1. Nadat de rechtbank een verklaring als bedoeld in [artikel 71, eerste of tweede lid, van de Wet toezicht kredietwezen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005792&artikel=71), heeft gegeven dan wel verlengd, kan zij in afwijking van het bepaalde in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=1&z=2006-02-01&g=2006-02-01) en [6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=6&z=2006-02-01&g=2006-02-01), een kredietinstelling slechts in staat van faillissement verklaren, indien een naar goed koopmansgebruik opgemaakte balans van de kredietinstelling een tekort aanwijst, ongeacht of de kredietinstelling verkeert in een toestand van te hebben opgehouden te betalen.
+1. Nadat de rechtbank een noodregeling als bedoeld in [artikel 3:160 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:160) heeft uitgesproken, kan zij in afwijking van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=1&z=2007-01-01&g=2007-01-01), de Nederlandsche Bank N.V. gehoord, op verzoek van de bewindvoerders, op voordracht van de rechter-commissaris of ambtshalve, de desbetreffende kredietinstelling met zetel in Nederland in staat van faillissement verklaren indien blijkt dat deze een negatief eigen vermogen heeft en het met de verleende machtiging te bereiken doel is verwezenlijkt of niet meer kan worden verwezenlijkt of, indien geen machtiging is verleend, geen redelijk vooruitzicht meer bestaat dat het met een machtiging te bereiken doel alsnog kan worden verwezenlijkt.
 
-2. De faillietverklaring vindt plaats, De Nederlandsche Bank N.V. gehoord, op verzoek van de bewindvoerders, bedoeld in [artikel 71, zevende lid, van de Wet toezicht kredietwezen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005792&artikel=71), op verzoek van het Openbaar Ministerie of ambtshalve onder intrekking van bedoelde verklaring.
+2. De noodregeling en de machtiging houden van rechtswege op van kracht te zijn ingeval de financiële onderneming, bedoeld in het eerste lid, in staat van faillissement wordt verklaard.
 
-3. Alsdan, zomede indien de faillietverklaring wordt uitgesproken binnen vier weken na het intrekken van de verklaring, gelden de volgende bepalingen:
+3. Alsdan, zomede indien de faillietverklaring wordt uitgesproken binnen vier weken na de beëindiging van de noodregeling, gelden de volgende bepalingen:
 
-- a. het tijdstip, waarop de termijnen, bedoeld in de [artikelen 43](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=43&z=2006-02-01&g=2006-02-01) en [45](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=45&z=2006-02-01&g=2006-02-01), aanvangen, wordt berekend vanaf het geven van de verklaring, bedoeld in [artikel 71, eerste of tweede lid, van de Wet toezicht kredietwezen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005792&artikel=71);
+- a. het tijdstip waarop de termijnen, bedoeld in de [artikelen 43](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=43&z=2007-01-01&g=2007-01-01) en [45](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=45&z=2007-01-01&g=2007-01-01), aanvangen, wordt berekend vanaf het geven van de verklaring, bedoeld in [artikel 3:160, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:160), of [artikel 3:206, eerste of tweede lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:206);
 
-- b. boedelschulden, na het geven van de verklaring ontstaan, zullen ook in het faillissement als boedelschulden gelden;
+- b. boedelschulden, na het geven van de verklaring ontstaan, zullen ook in het faillissement als boedelschuld gelden;
 
-- c. het tijdstip waarop de termijnen, vermeld in de [artikelen 138, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=138), en [248, zesde lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=248) aanvangen, wordt berekend vanaf de aanvang van de bijzondere voorziening.
+- c. het tijdstip waarop de termijnen, vermeld in de [artikelen 138, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=138), en [248, zesde lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=248), aanvangen wordt berekend vanaf de aanvang van de bijzondere voorziening;
+
+- d. handelingen, ingevolge [artikel 3:175 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:175) door of namens de bewindvoerders, bedoeld in [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:175), verricht gedurende de tijd dat de noodregeling van kracht was, worden beschouwd als handelingen van de curator; en
+
+- e. de boedel is niet aansprakelijk voor verbintenissen van de kredietinstelling die in strijd met [artikel 3:175, eerste en zesde lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:175) zijn aangegaan gedurende de tijd dat de noodregeling van kracht was, dan voorzover deze daardoor is gebaat.
+
+4. Het bepaalde in de [eerste titel](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&z=2007-01-01&g=2007-01-01) en [artikel 362](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&artikel=362&z=2007-01-01&g=2007-01-01) is van overeenkomstige toepassing.
 
 ##### Artikel 212n
 
-Na de inkennisstelling, bedoeld in [artikel 212c](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=11A&artikel=212c&z=2006-02-01&g=2006-02-01), stelt De Nederlandsche Bank N.V. onverwijld de toezichthoudende autoriteiten van alle andere lidstaten in kennis van het vonnis tot faillietverklaring, alsmede van de mogelijke gevolgen daarvan in het desbetreffende geval.
+Na de inkennisstelling, bedoeld in [artikel 212c](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=11A&artikel=212c&z=2007-01-01&g=2007-01-01), stelt De Nederlandsche Bank N.V. onverwijld de toezichthoudende autoriteiten van alle andere lidstaten in kennis van het vonnis tot faillietverklaring, alsmede van de mogelijke gevolgen daarvan in het desbetreffende geval.
 
 ##### Artikel 212o
 
-1. Onverminderd [artikel 14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=14&z=2006-02-01&g=2006-02-01), plaatst de curator het uittreksel van het vonnis van faillietverklaring en, indien de verklaring als bedoeld in [artikel 71, eerste of tweede lid, van de Wet toezicht kredietwezen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005792&artikel=71) is ingetrokken, van die intrekking, in het Publicatieblad van de Europese Unie, alsmede in ten minste twee landelijke dagbladen van iedere andere lidstaat dan Nederland waar de kredietinstelling een bijkantoor heeft of waarheen zij diensten verricht.
+1. Onverminderd [artikel 14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=14&z=2007-01-01&g=2007-01-01), plaatst de curator het uittreksel van het vonnis van faillietverklaring en, indien de verklaring als bedoeld in [artikel 3:160, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:160), of [artikel 3:206, eerste of tweede lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:206) is ingetrokken, van die intrekking, in het Publicatieblad van de Europese Unie, alsmede in ten minste twee landelijke dagbladen van iedere andere lidstaat dan Nederland waar de kredietinstelling een bijkantoor heeft of waarheen zij diensten verricht.
 
-2. In aanvulling op de gegevens, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=14&z=2006-02-01&g=2006-02-01), vermeldt de curator dat het Nederlandse recht, behoudens uitzonderingen, van toepassing is.
+2. In aanvulling op de gegevens, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=14&z=2007-01-01&g=2007-01-01), vermeldt de curator dat het Nederlandse recht, behoudens uitzonderingen, van toepassing is.
 
 3. De curator kan verzoeken dat het faillissement wordt ingeschreven in een openbaar register in een andere lidstaat.
 
@@ -4132,13 +4112,13 @@ Na de inkennisstelling, bedoeld in [artikel 212c](https://wetten.overheid.nl/jci
 
 1. De curator geeft van het vonnis tot faillietverklaring onmiddellijk aan alle bekende schuldeisers schriftelijk kennis.
 
-2. De curator die op de voet van [artikel 109](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vijfde&artikel=109&z=2006-02-01&g=2006-02-01) aan alle bekende schuldeisers kennis geeft van de in dat artikel bedoelde beschikkingen, deelt daarbij tevens mede wat de gevolgen zijn van het indienen van een vordering na het verstrijken van de termijn, bedoeld in [artikel 108, eerste lid, onderdeel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vijfde&artikel=108&z=2006-02-01&g=2006-02-01), en dat schuldeisers, daaronder begrepen de schuldeisers met een voorrecht of zakelijk zekerheidsrecht, hun vorderingen bij de curator moeten indienen, met, in het voorkomende geval, de opgave dat op een voorrecht of zakelijk zekerheidsrecht aanspraak wordt gemaakt.
+2. De curator die op de voet van [artikel 109](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vijfde&artikel=109&z=2007-01-01&g=2007-01-01) aan alle bekende schuldeisers kennis geeft van de in dat artikel bedoelde beschikkingen, deelt daarbij tevens mede wat de gevolgen zijn van het indienen van een vordering na het verstrijken van de termijn, bedoeld in [artikel 108, eerste lid, onderdeel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Vijfde&artikel=108&z=2007-01-01&g=2007-01-01), en dat schuldeisers, daaronder begrepen de schuldeisers met een voorrecht of zakelijk zekerheidsrecht, hun vorderingen bij de curator moeten indienen, met, in het voorkomende geval, de opgave dat op een voorrecht of zakelijk zekerheidsrecht aanspraak wordt gemaakt.
 
 3. De curator stelt alle bekende schuldeisers regelmatig op passende wijze in kennis van in ieder geval het verloop van de procedure.
 
 ##### Artikel 212q
 
-1. De kennisgeving, bedoeld in [artikel 212p, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=11AA&paragraaf=1&artikel=212p&z=2006-02-01&g=2006-02-01), aan een bekende schuldeiser met gewone verblijfplaats of woonplaats in een lidstaat, geschiedt in het Nederlands met een formulier dat in alle officiële talen van de Europese Unie het opschrift draagt «Oproep tot indiening van opmerkingen betreffende schuldvorderingen. Termijnen».
+1. De kennisgeving, bedoeld in [artikel 212p, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=11AA&paragraaf=1&artikel=212p&z=2007-01-01&g=2007-01-01), aan een bekende schuldeiser met gewone verblijfplaats of woonplaats in een lidstaat, geschiedt in het Nederlands met een formulier dat in alle officiële talen van de Europese Unie het opschrift draagt «Oproep tot indiening van opmerkingen betreffende schuldvorderingen. Termijnen».
 
 2. Elke schuldeiser met gewone verblijfplaats of woonplaats in een lidstaat kan zijn vordering en schriftelijke opmerkingen betreffende zijn vordering indienen in een officiële taal van die lidstaat met een verklaring met als opschrift in de Nederlandse taal «Indiening van een vordering» onderscheidenlijk «Indiening van opmerkingen betreffende een vordering».
 
@@ -4146,7 +4126,7 @@ Na de inkennisstelling, bedoeld in [artikel 212c](https://wetten.overheid.nl/jci
 
 ##### Artikel 212r
 
-In afwijking van [artikel 52, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=52&z=2006-02-01&g=2006-02-01), bevrijdt voldoening na de bekendmaking van de faillietverklaring van een kredietinstelling die geen natuurlijk persoon is tegenover de boedel indien degene die haar deed, bewijst dat hij niet bekend was met de faillietverklaring.
+In afwijking van [artikel 52, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=52&z=2007-01-01&g=2007-01-01), bevrijdt voldoening na de bekendmaking van de faillietverklaring van een kredietinstelling die geen natuurlijk persoon is tegenover de boedel indien degene die haar deed, bewijst dat hij niet bekend was met de faillietverklaring.
 
 #### § 2. Bepalingen van internationaal privaatrecht
 
@@ -4190,7 +4170,7 @@ De beslissing tot opening van een liquidatieprocedure, de liquidatieprocedure ze
 
 2. Ingeval de kredietinstelling een zaak heeft verkocht, is de beslissing tot opening van een liquidatieprocedure geen grond voor ontbinding of beëindiging van de overeenkomst tot verkoop, en belet de liquidatieprocedure de koper niet de eigendom van de gekochte zaak te verkrijgen, indien de zaak zich op het tijdstip waarop de beslissing tot opening van de liquidatieprocedure rechtsgevolgen heeft, bevindt op het grondgebied van een andere lidstaat dan de lidstaat van herkomst.
 
-3. [Artikel 212u, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=11AA&paragraaf=2&artikel=212u&z=2006-02-01&g=2006-02-01), is van overeenkomstige toepassing.
+3. [Artikel 212u, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=11AA&paragraaf=2&artikel=212u&z=2007-01-01&g=2007-01-01), is van overeenkomstige toepassing.
 
 ##### Artikel 212w
 
@@ -4198,35 +4178,35 @@ Indien degene die zowel schuldeiser als schuldenaar is van de kredietinstelling 
 
 ##### Artikel 212x
 
-De [artikelen 212u tot en met 212w](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=11AA&paragraaf=2&artikel=212u&z=2006-02-01&g=2006-02-01) staan er niet aan in de weg dat een vordering wordt ingesteld tot nietigheid, vernietiging of het niet kunnen worden tegengeworpen van een rechtshandeling wegens de benadeling van het geheel van schuldeisers welke van die rechtshandeling het gevolg is.
+De [artikelen 212u tot en met 212w](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=11AA&paragraaf=2&artikel=212u&z=2007-01-01&g=2007-01-01) staan er niet aan in de weg dat een vordering wordt ingesteld tot nietigheid, vernietiging of het niet kunnen worden tegengeworpen van een rechtshandeling wegens de benadeling van het geheel van schuldeisers welke van die rechtshandeling het gevolg is.
 
 ##### Artikel 212ij
 
-In afwijking van [artikel 212t](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=11AA&paragraaf=2&artikel=212t&z=2006-02-01&g=2006-02-01) worden de gevolgen van een liquidatieprocedure voor arbeidsovereenkomsten en andere rechtsverhoudingen ter zake van het verrichten van arbeid uitsluitend beheerst door het recht van de lidstaat dat op die overeenkomst of rechtsverhouding van toepassing is.
+In afwijking van [artikel 212t](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=11AA&paragraaf=2&artikel=212t&z=2007-01-01&g=2007-01-01) worden de gevolgen van een liquidatieprocedure voor arbeidsovereenkomsten en andere rechtsverhoudingen ter zake van het verrichten van arbeid uitsluitend beheerst door het recht van de lidstaat dat op die overeenkomst of rechtsverhouding van toepassing is.
 
 ##### Artikel 212z
 
-In afwijking van [artikel 212t](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=11AA&paragraaf=2&artikel=212t&z=2006-02-01&g=2006-02-01) worden de gevolgen van een liquidatieprocedure voor een overeenkomst die het recht geeft op het genot of de verkrijging van een onroerende zaak uitsluitend beheerst door het recht van de lidstaat op het grondgebied waarvan de onroerende zaak is gelegen. Dit recht bepaalt of een zaak roerend dan wel onroerend is.
+In afwijking van [artikel 212t](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=11AA&paragraaf=2&artikel=212t&z=2007-01-01&g=2007-01-01) worden de gevolgen van een liquidatieprocedure voor een overeenkomst die het recht geeft op het genot of de verkrijging van een onroerende zaak uitsluitend beheerst door het recht van de lidstaat op het grondgebied waarvan de onroerende zaak is gelegen. Dit recht bepaalt of een zaak roerend dan wel onroerend is.
 
 ##### Artikel 212aa
 
-In afwijking van [artikel 212t](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=11AA&paragraaf=2&artikel=212t&z=2006-02-01&g=2006-02-01) worden de gevolgen van een liquidatieprocedure voor de rechten van de kredietinstelling op een registergoed beheerst door het recht van de lidstaat onder het gezag waarvan het register wordt gehouden.
+In afwijking van [artikel 212t](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=11AA&paragraaf=2&artikel=212t&z=2007-01-01&g=2007-01-01) worden de gevolgen van een liquidatieprocedure voor de rechten van de kredietinstelling op een registergoed beheerst door het recht van de lidstaat onder het gezag waarvan het register wordt gehouden.
 
 ##### Artikel 212bb
 
-In afwijking van [artikel 212t](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=11AA&paragraaf=2&artikel=212t&z=2006-02-01&g=2006-02-01) worden, onverminderd [artikel 212hh](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=11AA&paragraaf=2&artikel=212hh&z=2006-02-01&g=2006-02-01), de gevolgen van een liquidatieprocedure voor de rechten en verplichtingen van deelnemers aan een gereglementeerde markt als bedoeld in artikel 1, onder 13, van [richtlijn nr. 93/22/EEG](31993L0022) van de Raad van de Europese Gemeenschappen van 10 mei 1993 betreffende het verrichten van diensten op het gebied van beleggingen in effecten (PbEG L 141) uitsluitend beheerst door het recht dat op die markt van toepassing is.
+In afwijking van [artikel 212t](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=11AA&paragraaf=2&artikel=212t&z=2007-01-01&g=2007-01-01) worden, onverminderd [artikel 212hh](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=11AA&paragraaf=2&artikel=212hh&z=2007-01-01&g=2007-01-01), de gevolgen van een liquidatieprocedure voor de rechten en verplichtingen van deelnemers aan een gereglementeerde markt als bedoeld in artikel 1, onder 13, van [richtlijn nr. 93/22/EEG](31993L0022) van de Raad van de Europese Gemeenschappen van 10 mei 1993 betreffende het verrichten van diensten op het gebied van beleggingen in effecten (PbEG L 141) uitsluitend beheerst door het recht dat op die markt van toepassing is.
 
 ##### Artikel 212cc
 
-In afwijking van [artikel 212t](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=11AA&paragraaf=2&artikel=212t&z=2006-02-01&g=2006-02-01) wordt de rechtsgeldigheid van een rechtshandeling, onder bezwarende titel aangegaan door de kredietinstelling na het tijdstip van opening van een liquidatieprocedure, waarmee zij beschikt over een registergoed of effecten of andere waardepapieren waarvan het bestaan of de overdracht inschrijving in een wettelijk voorgeschreven register of op een wettelijk voorgeschreven rekening veronderstelt, of die zijn geplaatst in een door het recht van een lidstaat beheerst gecentraliseerd effectendepot, beheerst door het recht van de lidstaat onder het gezag waarvan het register, de rekening of het depot wordt gehouden dan wel, indien het een onroerende zaak betreft, door het recht van de lidstaat waar de onroerende zaak is gelegen.
+In afwijking van [artikel 212t](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=11AA&paragraaf=2&artikel=212t&z=2007-01-01&g=2007-01-01) wordt de rechtsgeldigheid van een rechtshandeling, onder bezwarende titel aangegaan door de kredietinstelling na het tijdstip van opening van een liquidatieprocedure, waarmee zij beschikt over een registergoed of effecten of andere waardepapieren waarvan het bestaan of de overdracht inschrijving in een wettelijk voorgeschreven register of op een wettelijk voorgeschreven rekening veronderstelt, of die zijn geplaatst in een door het recht van een lidstaat beheerst gecentraliseerd effectendepot, beheerst door het recht van de lidstaat onder het gezag waarvan het register, de rekening of het depot wordt gehouden dan wel, indien het een onroerende zaak betreft, door het recht van de lidstaat waar de onroerende zaak is gelegen.
 
 ##### Artikel 212dd
 
-In afwijking van [artikel 212t](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=11AA&paragraaf=2&artikel=212t&z=2006-02-01&g=2006-02-01) worden de gevolgen van de liquidatieprocedure voor een aanhangige rechtsvordering betreffende een goed waarover de kredietinstelling het beheer en de beschikking heeft verloren, uitsluitend beheerst door het recht van de lidstaat waar het rechtsgeding aanhangig is.
+In afwijking van [artikel 212t](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=11AA&paragraaf=2&artikel=212t&z=2007-01-01&g=2007-01-01) worden de gevolgen van de liquidatieprocedure voor een aanhangige rechtsvordering betreffende een goed waarover de kredietinstelling het beheer en de beschikking heeft verloren, uitsluitend beheerst door het recht van de lidstaat waar het rechtsgeding aanhangig is.
 
 ##### Artikel 212ee
 
-[Artikel 212t](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=11AA&paragraaf=2&artikel=212t&z=2006-02-01&g=2006-02-01) is niet van toepassing op regels betreffende de nietigheid, de vernietigbaarheid van voor het geheel van schuldeisers nadelige rechtshandelingen en evenmin op de regels die bepalen of dergelijke rechtshandelingen kunnen worden tegengeworpen, indien degene die voordeel heeft gehad bij die rechtshandeling bewijst dat:
+[Artikel 212t](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=11AA&paragraaf=2&artikel=212t&z=2007-01-01&g=2007-01-01) is niet van toepassing op regels betreffende de nietigheid, de vernietigbaarheid van voor het geheel van schuldeisers nadelige rechtshandelingen en evenmin op de regels die bepalen of dergelijke rechtshandelingen kunnen worden tegengeworpen, indien degene die voordeel heeft gehad bij die rechtshandeling bewijst dat:
 
 - a. die rechtshandeling wordt beheerst door het recht van een andere lidstaat dan de lidstaat van herkomst; en
 
@@ -4234,15 +4214,15 @@ In afwijking van [artikel 212t](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&
 
 ##### Artikel 212ff
 
-In afwijking van [artikel 212t](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=11AA&paragraaf=2&artikel=212t&z=2006-02-01&g=2006-02-01) worden de gevolgen van een liquidatieprocedure voor een overeenkomst tot verrekening als bedoeld in [artikel 212a, onderdeel m](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=11A&artikel=212a&z=2006-02-01&g=2006-02-01), uitsluitend beheerst door het recht dat van toepassing is op die overeenkomst.
+In afwijking van [artikel 212t](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=11AA&paragraaf=2&artikel=212t&z=2007-01-01&g=2007-01-01) worden de gevolgen van een liquidatieprocedure voor een overeenkomst tot verrekening als bedoeld in [artikel 212a, onderdeel m](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=11A&artikel=212a&z=2007-01-01&g=2007-01-01), uitsluitend beheerst door het recht dat van toepassing is op die overeenkomst.
 
 ##### Artikel 212gg
 
-In afwijking van [artikel 212t](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=11AA&paragraaf=2&artikel=212t&z=2006-02-01&g=2006-02-01) worden, onverminderd [artikel 212hh](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=11AA&paragraaf=2&artikel=212hh&z=2006-02-01&g=2006-02-01), de gevolgen van een liquidatieprocedure voor een overeenkomst waarbij de ene partij, de koper, zich verbindt tot een latere overdracht van een gelijke hoeveelheid activa van dezelfde soort aan de verkoper, uitsluitend beheerst door het recht van de lidstaat dat van toepassing is op die overeenkomst.
+In afwijking van [artikel 212t](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=11AA&paragraaf=2&artikel=212t&z=2007-01-01&g=2007-01-01) worden, onverminderd [artikel 212hh](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=11AA&paragraaf=2&artikel=212hh&z=2007-01-01&g=2007-01-01), de gevolgen van een liquidatieprocedure voor een overeenkomst waarbij de ene partij, de koper, zich verbindt tot een latere overdracht van een gelijke hoeveelheid activa van dezelfde soort aan de verkoper, uitsluitend beheerst door het recht van de lidstaat dat van toepassing is op die overeenkomst.
 
 ##### Artikel 212hh
 
-In afwijking van [artikel 212t](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=11AA&paragraaf=2&artikel=212t&z=2006-02-01&g=2006-02-01) worden de gevolgen van een liquidatieprocedure voor het uitoefenen van het rechten op financiële instrumenten waarvan het bestaan of de overdracht inschrijving in een register, op een rekening of in een in een lidstaat bijgehouden of gesitueerd gecentraliseerd effectendepot veronderstelt, uitsluitend beheerst door het recht van de lidstaat waar het register, de rekening of het gecentraliseerde effectendepot waar deze rechten zijn ingeschreven, wordt bijgehouden of is gesitueerd.
+In afwijking van [artikel 212t](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=11AA&paragraaf=2&artikel=212t&z=2007-01-01&g=2007-01-01) worden de gevolgen van een liquidatieprocedure voor het uitoefenen van het rechten op financiële instrumenten waarvan het bestaan of de overdracht inschrijving in een register, op een rekening of in een in een lidstaat bijgehouden of gesitueerd gecentraliseerd effectendepot veronderstelt, uitsluitend beheerst door het recht van de lidstaat waar het register, de rekening of het gecentraliseerde effectendepot waar deze rechten zijn ingeschreven, wordt bijgehouden of is gesitueerd.
 
 ##### Artikel 212ii
 
@@ -4260,7 +4240,7 @@ In afwijking van [artikel 212t](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&
 
 ##### Artikel 212kk
 
-Op verzoek van een curator uit een andere lidstaat dan Nederland worden de gegevens met betrekking tot een liquidatieprocedure, geopend in een andere lidstaat dan Nederland, door de griffier van de rechtbank te 's-Gravenhage ingeschreven in het register, bedoeld in [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=19&z=2006-02-01&g=2006-02-01).
+Op verzoek van een curator uit een andere lidstaat dan Nederland worden de gegevens met betrekking tot een liquidatieprocedure, geopend in een andere lidstaat dan Nederland, door de griffier van de rechtbank te 's-Gravenhage ingeschreven in het register, bedoeld in [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Eerste&artikel=19&z=2007-01-01&g=2007-01-01).
 
 ##### Artikel 212ll
 
@@ -4274,7 +4254,7 @@ Indien het faillissement is uitgesproken van een kredietinstelling die niet is g
 
 ##### Artikel 212nn
 
-In afwijking van [artikel 64 Wet toezicht kredietwezen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005792&artikel=64) kunnen gegevens of inlichtingen die geen betrekking hebben op derden die betrokken zijn bij pogingen de kredietinstelling in staat te stellen zijn bedrijf voort te zetten, door de curator worden opgenomen in de verslagen, bedoeld in [artikel 73a](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Derde&paragraaf=2&artikel=73a&z=2006-02-01&g=2006-02-01).
+De curator kan in de verslagen, bedoeld in [artikel 73a](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Derde&paragraaf=2&artikel=73a&z=2007-01-01&g=2007-01-01), geen gegevens of inlichtingen opnemen die betrekking hebben op derden die betrokken zijn of zijn geweest bij pogingen de kredietinstelling in staat te stellen zijn bedrijf voort te zetten.
 
 #### § 1. Definities
 
@@ -4306,7 +4286,7 @@ In afwijking van [artikel 64 Wet toezicht kredietwezen 1992](https://wetten.over
 
 ### afdeling Zevende. Het saneringsplan
 
-### afdeling Zevende. Het saneringsplan
+### afdeling Zesde. Behandeling door de rechtbank
 
 ### afdeling Negende. Beëindiging van de toepassing van de schuldsaneringsregeling
 
@@ -4332,19 +4312,19 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 3. Indien de curator de begunstiging heeft gewijzigd, vervalt deze wijziging met de beëindiging van het faillissement.
 
-4. Indien de begunstiging na de faillietverklaring onherroepelijk wordt, kan deze onherroepelijkheid niet aan de boedel worden tegengeworpen. De verzekeraar is verplicht een uitkering, waarop de begunstiging betrekking heeft, onder zich te houden. Voor zover vaststaat dat de begunstiging niet zal worden gewijzigd, blijven de eerste en de tweede volzin buiten toepassing. Ten aanzien van de begunstigde is [artikel 69](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Derde&paragraaf=2&artikel=69&z=2006-02-01&g=2006-02-01) van overeenkomstige toepassing.
+4. Indien de begunstiging na de faillietverklaring onherroepelijk wordt, kan deze onherroepelijkheid niet aan de boedel worden tegengeworpen. De verzekeraar is verplicht een uitkering, waarop de begunstiging betrekking heeft, onder zich te houden. Voor zover vaststaat dat de begunstiging niet zal worden gewijzigd, blijven de eerste en de tweede volzin buiten toepassing. Ten aanzien van de begunstigde is [artikel 69](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Derde&paragraaf=2&artikel=69&z=2007-01-01&g=2007-01-01) van overeenkomstige toepassing.
 
 5. In afwijking van het vierde lid, tweede zin, kan de verzekeraar een betaling aan de begunstigde tegenwerpen aan de boedel, voorzover de curator niet bewijst dat de verzekeraar op het tijdstip van betaling op de hoogte was van het faillissement of van een daaraan voorafgegaan beslag ten laste van de verzekeringnemer. In dat geval heeft de curator verhaal op de begunstigde.
 
 ##### Artikel 241d
 
-Van de goederen als bedoeld in [artikel 241a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=241a&z=2006-02-01&g=2006-02-01), zijn uitgezonderd de goederen die uit hoofde van een financiëlezekerheidsovereenkomst als bedoeld in [artikel 51 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=51) zijn verpand.
+Van de goederen als bedoeld in [artikel 241a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=241a&z=2007-01-01&g=2007-01-01), zijn uitgezonderd de goederen die uit hoofde van een financiëlezekerheidsovereenkomst als bedoeld in [artikel 51 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=51) zijn verpand.
 
 ##### Artikel 241e
 
-1. In afwijking van [artikel 217](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=217&z=2006-02-01&g=2006-02-01) werkt het verlenen van surseance aan een schuldenaar uit hoofde van een financiëlezekerheidsovereenkomst als bedoeld in [artikel 51 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=51) niet terug tot aan het begin van de dag waarop zij voorlopig is verleend, ten aanzien van een door de schuldenaar voor het tijdstip van het verlenen van surseance gesloten financiëlezekerheidsovereenkomst of een overdracht, vestiging van een pandrecht of een opdracht tot verrekening op grond daarvan.
+1. In afwijking van [artikel 217](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=217&z=2007-01-01&g=2007-01-01) werkt het verlenen van surseance aan een schuldenaar uit hoofde van een financiëlezekerheidsovereenkomst als bedoeld in [artikel 51 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=51) niet terug tot aan het begin van de dag waarop zij voorlopig is verleend, ten aanzien van een door de schuldenaar voor het tijdstip van het verlenen van surseance gesloten financiëlezekerheidsovereenkomst of een overdracht, vestiging van een pandrecht of een opdracht tot verrekening op grond daarvan.
 
-2. De [artikelen 217](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=217&z=2006-02-01&g=2006-02-01), [228, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=228&z=2006-02-01&g=2006-02-01), [234, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=234&z=2006-02-01&g=2006-02-01), [235, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=235&z=2006-02-01&g=2006-02-01), van deze wet, kunnen niet aan derden worden tegengeworpen ten aanzien van een door een schuldenaar na het tijdstip van het verlenen van surseance gesloten financiëlezekerheidsovereenkomst als bedoeld in [artikel 51 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=51), een overdracht of vestiging van een pandrecht op grond van een financiëlezekerheidsovereenkomst, alsmede elke rechtshandeling op grond van een financiëlezekerheidsovereenkomst vanwege verbintenissen van de schuldenaar die na het tijdstip van het verlenen van surseance zijn ontstaan, mits de betreffende rechtshandeling plaatsvindt op de dag van het verlenen van surseance en de wederpartij kan aantonen dat deze ten tijde van de rechtshandeling het verlenen van surseance niet kende of behoorde te kennen.
+2. De [artikelen 217](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=217&z=2007-01-01&g=2007-01-01), [228, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=228&z=2007-01-01&g=2007-01-01), [234, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=234&z=2007-01-01&g=2007-01-01), [235, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Eerste&artikel=235&z=2007-01-01&g=2007-01-01), van deze wet, kunnen niet aan derden worden tegengeworpen ten aanzien van een door een schuldenaar na het tijdstip van het verlenen van surseance gesloten financiëlezekerheidsovereenkomst als bedoeld in [artikel 51 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=51), een overdracht of vestiging van een pandrecht op grond van een financiëlezekerheidsovereenkomst, alsmede elke rechtshandeling op grond van een financiëlezekerheidsovereenkomst vanwege verbintenissen van de schuldenaar die na het tijdstip van het verlenen van surseance zijn ontstaan, mits de betreffende rechtshandeling plaatsvindt op de dag van het verlenen van surseance en de wederpartij kan aantonen dat deze ten tijde van de rechtshandeling het verlenen van surseance niet kende of behoorde te kennen.
 
 ### Tweede afdeling A. Bijzondere bepalingen
 
@@ -4366,7 +4346,7 @@ Van de goederen als bedoeld in [artikel 241a, eerste lid](https://wetten.overhei
 
 ### afdeling Negende. Beëindiging van de toepassing van de schuldsaneringsregeling
 
-### afdeling Tiende. Bijzondere bepalingen
+### afdeling Negende. Beëindiging van de toepassing van de schuldsaneringsregeling
 
 ### afdeling Elfde. Slotbepalingen
 
@@ -4376,13 +4356,13 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ##### Artikel 63d
 
-Van de goederen als bedoeld in [artikel 63a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=63a&z=2006-02-01&g=2006-02-01), zijn uitgezonderd de goederen die uit hoofde van een financiëlezekerheidsovereenkomst als bedoeld in [artikel 51 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=51) zijn verpand.
+Van de goederen als bedoeld in [artikel 63a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=63a&z=2007-01-01&g=2007-01-01), zijn uitgezonderd de goederen die uit hoofde van een financiëlezekerheidsovereenkomst als bedoeld in [artikel 51 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=51) zijn verpand.
 
 ##### Artikel 63e
 
-1. In afwijking van de [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=23&z=2006-02-01&g=2006-02-01) en [35](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=35&z=2006-02-01&g=2006-02-01) werkt de faillietverklaring van een schuldenaar uit hoofde van een financiëlezekerheidsovereenkomst als bedoeld in [artikel 51 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=51) niet terug tot aan het begin van de dag waarop zij wordt uitgesproken, ten aanzien van een door de schuldenaar voor het tijdstip van faillietverklaring gesloten financiëlezekerheidsovereenkomst of een overdracht, vestiging van een pandrecht of een opdracht tot verrekening op grond daarvan.
+1. In afwijking van de [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=23&z=2007-01-01&g=2007-01-01) en [35](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=35&z=2007-01-01&g=2007-01-01) werkt de faillietverklaring van een schuldenaar uit hoofde van een financiëlezekerheidsovereenkomst als bedoeld in [artikel 51 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=51) niet terug tot aan het begin van de dag waarop zij wordt uitgesproken, ten aanzien van een door de schuldenaar voor het tijdstip van faillietverklaring gesloten financiëlezekerheidsovereenkomst of een overdracht, vestiging van een pandrecht of een opdracht tot verrekening op grond daarvan.
 
-2. De [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=23&z=2006-02-01&g=2006-02-01), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=24&z=2006-02-01&g=2006-02-01), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=35&z=2006-02-01&g=2006-02-01), [53, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=53&z=2006-02-01&g=2006-02-01), [54, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=54&z=2006-02-01&g=2006-02-01), van deze wet, alsmede [artikel 72, aanhef en onder a, van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=72), kunnen niet aan derden worden tegengeworpen ten aanzien van een door een schuldenaar na het tijdstip van faillietverklaring gesloten financiëlezekerheidsovereenkomst als bedoeld in [artikel 51 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=51), een overdracht of vestiging van een pandrecht op grond van een financiëlezekerheidsovereenkomst, alsmede elke rechtshandeling op grond van een financiëlezekerheidsovereenkomst vanwege verbintenissen van de schuldenaar die na het tijdstip van faillietverklaring zijn ontstaan, mits de betreffende rechtshandeling plaatsvindt op de dag van faillietverklaring en de wederpartij kan aantonen dat deze ten tijde van de rechtshandeling de faillietverklaring niet kende of behoorde te kennen.
+2. De [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=23&z=2007-01-01&g=2007-01-01), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=24&z=2007-01-01&g=2007-01-01), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=35&z=2007-01-01&g=2007-01-01), [53, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=53&z=2007-01-01&g=2007-01-01), [54, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=Tweede&artikel=54&z=2007-01-01&g=2007-01-01), van deze wet, alsmede [artikel 72, aanhef en onder a, van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=72), kunnen niet aan derden worden tegengeworpen ten aanzien van een door een schuldenaar na het tijdstip van faillietverklaring gesloten financiëlezekerheidsovereenkomst als bedoeld in [artikel 51 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=51), een overdracht of vestiging van een pandrecht op grond van een financiëlezekerheidsovereenkomst, alsmede elke rechtshandeling op grond van een financiëlezekerheidsovereenkomst vanwege verbintenissen van de schuldenaar die na het tijdstip van faillietverklaring zijn ontstaan, mits de betreffende rechtshandeling plaatsvindt op de dag van faillietverklaring en de wederpartij kan aantonen dat deze ten tijde van de rechtshandeling de faillietverklaring niet kende of behoorde te kennen.
 
 ### afdeling Derde. Van het bestuur over de failliete boedel
 
@@ -4420,25 +4400,25 @@ Van de goederen als bedoeld in [artikel 63a, eerste lid](https://wetten.overheid
 
 ### Tweede afdeling A. Bijzondere bepalingen
 
-### Tweede afdeling B. Van de verlening van surseance van betaling aan een kredietinstelling, die ingevolge [artikel 6, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005792&artikel=6), is vrijgesteld onderscheidenlijk ontheven van [artikel 6, eerste lid, van de Wet toezicht kredietwezen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005792&artikel=6), een kredietinstelling, die ingevolge [artikel 31, vierde of vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005792&artikel=31), is vrijgesteld onderscheidenlijk ontheven van [artikel 31, eerste lid, van de Wet toezicht kredietwezen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005792&artikel=31), een kredietinstelling, die ingevolge [artikel 38, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005792&artikel=38), is vrijgesteld onderscheidenlijk ontheven van [artikel 38, eerste lid, van de Wet toezicht kredietwezen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005792&artikel=38), een financiële instelling, een effecteninstelling of een andere instelling, genoemd in [artikel 281g](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=II&afdeling=Tweede_B&artikel=281g&z=2006-02-01&g=2006-02-01)
+### Tweede afdeling A. Bijzondere bepalingen
 
 ## Titel III. Schuldsaneringsregeling natuurlijke personen
 
-### afdeling Eerste. Het uitspreken van de toepassing van de schuldsaneringsregeling
+### Tweede afdeling B. Van de verlening van surseance van betaling aan een beleggingsonderneming en een financiële instelling die een verklaring van ondertoezichtstelling heeft of een andere instelling
 
 ### afdeling Tweede. De gevolgen van de toepassing van de schuldsaneringsregeling
 
 ##### Artikel 309a
 
-Van de goederen als bedoeld in [artikel 309, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Tweede&artikel=309&z=2006-02-01&g=2006-02-01), zijn uitgezonderd de goederen die uit hoofde van een financiëlezekerheidsovereenkomst als bedoeld in [artikel 51 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=51) zijn verpand.
+Van de goederen als bedoeld in [artikel 309, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III&afdeling=Tweede&artikel=309&z=2007-01-01&g=2007-01-01), zijn uitgezonderd de goederen die uit hoofde van een financiëlezekerheidsovereenkomst als bedoeld in [artikel 51 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=51) zijn verpand.
 
-### afdeling VIJFDE. Verificatie van vorderingen, behandeling van ontwerp van akkoord en raadpleging over voortzetting van de toepassing van de schuldsaneringsregeling en het ontwerp van saneringsplan
+### afdeling Vierde. De voorzieningen na de uitspraak tot de toepassing van de schuldsaneringsregeling en de taak van de bewindvoerder
 
 #### Paragraaf 1. Verificatie van vorderingen
 
 #### Paragraaf 2. Het ontwerp van akkoord
 
-#### Paragraaf 3. Raadpleging over voortzetting van de schuldsaneringsregeling en het ontwerp van saneringsplan
+#### Paragraaf 2. Het ontwerp van akkoord
 
 ### afdeling Zesde. Behandeling door de rechtbank
 
@@ -4447,6 +4427,78 @@ Van de goederen als bedoeld in [artikel 309, eerste lid](https://wetten.overheid
 ### afdeling Negende. Beëindiging van de toepassing van de schuldsaneringsregeling
 
 ### afdeling Tiende. Bijzondere bepalingen
+
+### afdeling Tiende. Bijzondere bepalingen
+
+Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+#### § 4. Natura-uitvaartzekeraars
+
+##### Artikel 213ff
+
+Voor de toepassing van deze paragraaf wordt verstaan onder:
+
+- a. natura-uitvaartverzekeraar: de natura-uitvaartverzekeraar, bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1).
+
+- b. natura-uitvaartverzekeraar met zetel in een niet-aangewezen staat: de natura-uitvaartverzekeraar met zetel in een niet-aangewezen staat, bedoeld in [artikel 1:1 van de Wet op het financiële toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1).
+
+##### Artikel 213gg
+
+De [artikelen 213b](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=11B&paragraaf=2&artikel=213b&z=2007-01-01&g=2007-01-01), [213d](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=11B&paragraaf=2&artikel=213d&z=2007-01-01&g=2007-01-01), [213e](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=11B&paragraaf=2&artikel=213e&z=2007-01-01&g=2007-01-01), [213f](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=11B&paragraaf=2&artikel=213f&z=2007-01-01&g=2007-01-01), [213i](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=11B&paragraaf=2&artikel=213i&z=2007-01-01&g=2007-01-01) en [213k, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=11B&paragraaf=2&artikel=213k&z=2007-01-01&g=2007-01-01), zijn van overeenkomstige toepassing op de natura-uitvaartverzekeraar.
+
+##### Artikel 213hh
+
+De Nederlandsche Bank N.V. zendt een afschrift van haar verzoekschrift, bedoeld in [artikel 213b](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=11B&paragraaf=2&artikel=213b&z=2007-01-01&g=2007-01-01), aan de natura-uitvaartverzekeraar en geeft van de inhoud daarvan kennis aan:
+
+- a. indien het een natura-uitvaartverzekeraar met zetel in Nederland betreft, de toezichthoudende autoriteiten van de staten die zijn aangewezen op grond van [artikel 2:50, tweede lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:50) waar de natura-uitvaartverzekeraar een bijkantoor heeft of waarheen hij diensten verricht vanuit vestigingen in op grond van [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:50) aangewezen staten;
+
+- b. indien het een natura-uitvaartverzekeraar met zetel in een andere staat betreft, de toezichthoudende autoriteiten van andere staten die zijn aangewezen op grond van [artikel 2:50 van de Wet op het financiële toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:50) waarheen hij diensten verricht vanuit een bijkantoor in Nederland.
+
+##### Artikel 213ii
+
+1. De griffier stelt de Nederlandsche Bank N.V. onverwijld in kennis van de beslissing tot faillietverklaring.
+
+2. De Nederlandsche Bank N.V. stelt onverwijld daarna de toezichthoudende autoriteiten van de andere staten die zijn aangewezen op grond van [artikel 2:50 van de Wet op het financiële toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:50) in kennis van het vonnis tot faillietverklaring, alsmede van de mogelijke gevolgen daarvan in het desbetreffende geval.
+
+##### Artikel 213jj
+
+De Nederlandsche Bank N.V. stelt de toezichthoudende autoriteiten van de staten die zijn aangewezen op grond van [artikel 2:50 van de Wet op het financiële toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:50) die zulks verzoeken in kennis van het verloop van de procedure.
+
+##### Artikel 213kk
+
+1. In geval van faillietverklaring op grond van deze paragraaf worden de boedelschulden, al naar gelang de aard van de betrokken boedelschuld hetzij over ieder deel van de boedel omgeslagen, hetzij uitsluitend van een bepaalde bate van de boedel afgetrokken.
+
+2. Onverminderd het bepaalde in het eerste lid en behoudens vorderingen door pand en hypotheek gedekt, worden de volgende vorderingen verhaald op de boedel in de volgende volgorde:
+
+- a. de vorderingen van werknemers en gewezen werknemers alsmede de vorderingen van hun nabestaanden met betrekking tot reeds vervallen termijnen van pensioenen, voorzover de vordering niet ouder is dan een jaar;
+
+- b. de vorderingen van werknemers, niet zijnde bestuurders van de natura-uitvaartverzekeraar waarbij zij in dienst zijn, en gewezen werknemers alsmede de vorderingen van hun nabestaanden met betrekking tot in de toekomst tot uitkering komende termijnen van toegezegd pensioen;
+
+- c. de vorderingen van werknemers met betrekking tot het loon over het voorafgaande jaar en hetgeen over het lopende jaar verschuldigd is, benevens het bedrag van de verhoging van dat loon ingevolge [artikel 625 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=625) alsmede het bedrag van de uitgaven, door de werknemer voor de natura-uitvaartverzekeraar als werkgever gedaan, en de bedragen, door de natura-uitvaartverzekeraar aan de werknemer krachtens [artikel 10 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=10) in verband met de beëindiging van de arbeidsovereenkomst verschuldigd;
+
+- d. de vorderingen en rechten betreffende prestaties, die zijn ontstaan of nog zullen ontstaan uit een natura-uitvaartverzekering, gesloten vanuit een vestiging in Nederland.
+
+3. [Artikel 213m, vierde tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=I&afdeling=11B&paragraaf=2&artikel=213m&z=2007-01-01&g=2007-01-01), is van overeenkomstige toepassing.
+
+### afdeling Derde. Slotbepalingen
+
+## Titel III. Schuldsaneringsregeling natuurlijke personen
+
+### afdeling Tweede. De gevolgen van de toepassing van de schuldsaneringsregeling
+
+### afdeling Derde. Het bestuur over de boedel
+
+### afdeling VIJFDE. Verificatie van vorderingen, behandeling van ontwerp van akkoord en raadpleging over voortzetting van de toepassing van de schuldsaneringsregeling en het ontwerp van saneringsplan
+
+#### Paragraaf 1. Verificatie van vorderingen
+
+#### Paragraaf 3. Raadpleging over voortzetting van de schuldsaneringsregeling en het ontwerp van saneringsplan
+
+### afdeling Zevende. Het saneringsplan
+
+### afdeling Achtste. De vereffening van de boedel
+
+### afdeling Elfde. Slotbepalingen
 
 ### Algemene slotbepaling
 
