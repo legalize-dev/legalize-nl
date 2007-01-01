@@ -4,7 +4,7 @@ identifier: "BWBR0013029"
 country: "nl"
 rank: "amvb"
 publication_date: "2012-10-01"
-last_updated: "2005-07-01"
+last_updated: "2007-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013029"
 soort: "AMvB"
@@ -54,9 +54,9 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder
 
-- a. arbodienst: de arbodienst, bedoeld in de [Arbeidsomstandighedenwet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0010346);
+- a. arbodienst: de arbodienst, bedoeld in de [Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346);
 
-- b. deskundige persoon: een persoon als bedoeld in [artikel 14, eerste lid, van de Arbeidsomstandighedenwet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=14) die belast is met de taken, bedoeld in [artikel 14, eerste lid, onderdeel c, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=14);
+- b. deskundige persoon: een persoon als bedoeld in [artikel 14, eerste lid, van de Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=14) die belast is met de taken, bedoeld in [artikel 14, eerste lid, onderdeel c, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=14);
 
 - c. wet: de [Wet op de medische keuringen](https://wetten.overheid.nl/jci1.3:c:BWBR0008819).
 
@@ -76,7 +76,7 @@ Dit besluit is van toepassing op een keuring als bedoeld in [artikel 1, onderdee
 
 ##### Artikel 4
 
-Bij elke werving voor een functie waarvoor een keuring als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013029&paragraaf=2&artikel=3&z=2005-07-01&g=2005-07-01), zal worden verricht, wordt het verrichten van die keuring vermeld.
+Bij elke werving voor een functie waarvoor een keuring als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013029&paragraaf=2&artikel=3&z=2007-01-01&g=2007-01-01), zal worden verricht, wordt het verrichten van die keuring vermeld.
 
 ##### Artikel 5
 
