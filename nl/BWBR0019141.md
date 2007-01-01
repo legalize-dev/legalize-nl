@@ -4,7 +4,7 @@ identifier: "BWBR0019141"
 country: "nl"
 rank: "wet"
 publication_date: "2007-01-01"
-last_updated: "2006-01-01"
+last_updated: "2007-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019141"
 soort: "wet"
@@ -58,7 +58,7 @@ Wijzigt de Wet ondernemerspakket 2001.
 
 ##### Artikel IV
 
-[Artikel 13b](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=13b), [artikel 13ba](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=13ba) en [artikel 13bb van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=13bb) alsmede [artikel 3.98a van de Wet Inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.98a) blijven met betrekking tot een schuldvordering buiten toepassing voor zover met betrekking tot de met die schuldvordering corresponderende schuld reeds op de voet van [artikel 12 van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=12), zoals dat luidde voor inwerkingtreding van deze wet, een bedrag tot de winst is gerekend.
+[Artikel 13b](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=13b) en [artikel 13ba van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=13ba) alsmede [artikel 3.98a van de Wet Inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.98a) blijven met betrekking tot een schuldvordering buiten toepassing voor zover met betrekking tot de met die schuldvordering corresponderende schuld reeds op de voet van [artikel 12 van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=12), zoals dat luidde voor inwerkingtreding van deze wet, een bedrag tot de winst is gerekend.
 
 ##### Artikel V
 
