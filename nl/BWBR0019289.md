@@ -4,7 +4,7 @@ identifier: "BWBR0019289"
 country: "nl"
 rank: "amvb"
 publication_date: "2015-01-01"
-last_updated: "2006-04-01"
+last_updated: "2007-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019289"
 soort: "AMvB"
@@ -156,7 +156,7 @@ Ingetrokken worden:
 
 ##### Artikel 1.22
 
-1. De persoon die op de dag voorafgaande aan de inwerkingtreding van [artikel 1.6, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0019289&hoofdstuk=1&artikel=1.6&z=2006-04-01&g=2006-04-01), verzekerd was op grond van [artikel 5 van de Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&artikel=5), en aanspraak had op een uitkering als bedoeld in [artikel 20, eerste lid, onder b, van het Besluit zorgaanspraken AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0014149&artikel=20), behoudt aanspraak op zodanige uitkering voor de kosten van zorg waarop op die dag aanspraak bestond op grond van [artikel 6 van de Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&artikel=6), voor zover:
+1. De persoon die op de dag voorafgaande aan de inwerkingtreding van [artikel 1.6, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0019289&hoofdstuk=1&artikel=1.6&z=2007-01-01&g=2007-01-01), verzekerd was op grond van [artikel 5 van de Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&artikel=5), en aanspraak had op een uitkering als bedoeld in [artikel 20, eerste lid, onder b, van het Besluit zorgaanspraken AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0014149&artikel=20), behoudt aanspraak op zodanige uitkering voor de kosten van zorg waarop op die dag aanspraak bestond op grond van [artikel 6 van de Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&artikel=6), voor zover:
 
 - a. de verlening van de zorg op of voor die dag is begonnen, of
 
@@ -172,7 +172,7 @@ Ingetrokken worden:
 
 ##### Artikel 1.24
 
-[Artikel 6, derde lid, van het Bijdragebesluit zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0008253&artikel=6), zoals dat luidde voor de inwerkingtreding van [artikel 1.13, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0019289&hoofdstuk=1&artikel=1.13&z=2006-04-01&g=2006-04-01), blijft van toepassing voor de vaststelling van de eigen bijdragen in 2006 en 2007.
+[Artikel 6, derde lid, van het Bijdragebesluit zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0008253&artikel=6), zoals dat luidde voor de inwerkingtreding van [artikel 1.13, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0019289&hoofdstuk=1&artikel=1.13&z=2007-01-01&g=2007-01-01), blijft van toepassing voor de vaststelling van de eigen bijdragen in 2006 en 2007.
 
 ### Hoofdstuk 2. Justitie
 
@@ -402,17 +402,17 @@ Ten aanzien van aanspraken, rechten en verplichtingen welke voor het tijdstip va
 
 2. In afwijking van het eerste lid:
 
-- a. treden de [artikelen 1.7, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0019289&hoofdstuk=1&artikel=1.7&z=2006-04-01&g=2006-04-01), [1.10, onderdelen B, C, D, F, wat betreft artikel 13, tweede lid, en H, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019289&hoofdstuk=1&artikel=1.10&z=2006-04-01&g=2006-04-01), [1.13, onderdelen H, K en L](https://wetten.overheid.nl/jci1.3:c:BWBR0019289&hoofdstuk=1&artikel=1.13&z=2006-04-01&g=2006-04-01), [1.18, onderdelen A tot en met D](https://wetten.overheid.nl/jci1.3:c:BWBR0019289&hoofdstuk=1&artikel=1.18&z=2006-04-01&g=2006-04-01), en [1.20, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0019289&hoofdstuk=1&artikel=1.20&z=2006-04-01&g=2006-04-01), in werking met ingang van 1 januari 2007;
+- a. treden de [artikelen 1.7, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0019289&hoofdstuk=1&artikel=1.7&z=2007-01-01&g=2007-01-01), [1.10, onderdelen B, C, D, F, wat betreft artikel 13, tweede lid, en H, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019289&hoofdstuk=1&artikel=1.10&z=2007-01-01&g=2007-01-01), [1.13, onderdelen H, K en L](https://wetten.overheid.nl/jci1.3:c:BWBR0019289&hoofdstuk=1&artikel=1.13&z=2007-01-01&g=2007-01-01), [1.18, onderdelen A tot en met D](https://wetten.overheid.nl/jci1.3:c:BWBR0019289&hoofdstuk=1&artikel=1.18&z=2007-01-01&g=2007-01-01), en [1.20, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0019289&hoofdstuk=1&artikel=1.20&z=2007-01-01&g=2007-01-01), in werking met ingang van 1 januari 2007;
 
-- b. treedt [artikel 1.11, onderdelen A en B](https://wetten.overheid.nl/jci1.3:c:BWBR0019289&hoofdstuk=1&artikel=1.11&z=2006-04-01&g=2006-04-01), in werking op een bij koninklijk besluit vast te stellen tijdstip en werken deze onderdelen terug tot en met 1 januari 2006;
+- b. treedt [artikel 1.11, onderdelen A en B](https://wetten.overheid.nl/jci1.3:c:BWBR0019289&hoofdstuk=1&artikel=1.11&z=2007-01-01&g=2007-01-01), in werking op een bij koninklijk besluit vast te stellen tijdstip en werken deze onderdelen terug tot en met 1 januari 2006;
 
-- c. treedt [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0019289&hoofdstuk=2&artikel=2.3&z=2006-04-01&g=2006-04-01) in werking op een bij koninklijk besluit vast te stellen tijdstip en werkt het terug tot en met 1 januari 2006;
+- c. treedt [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0019289&hoofdstuk=2&artikel=2.3&z=2007-01-01&g=2007-01-01) in werking op een bij koninklijk besluit vast te stellen tijdstip en werkt het terug tot en met 1 januari 2006;
 
-- d. treden de [artikelen 1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0019289&hoofdstuk=1&artikel=1.2&z=2006-04-01&g=2006-04-01), [1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0019289&hoofdstuk=1&artikel=1.5&z=2006-04-01&g=2006-04-01), [1.6, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0019289&hoofdstuk=1&artikel=1.6&z=2006-04-01&g=2006-04-01), [1.15](https://wetten.overheid.nl/jci1.3:c:BWBR0019289&hoofdstuk=1&artikel=1.15&z=2006-04-01&g=2006-04-01), [1.16](https://wetten.overheid.nl/jci1.3:c:BWBR0019289&hoofdstuk=1&artikel=1.16&z=2006-04-01&g=2006-04-01), [2.2, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0019289&hoofdstuk=2&artikel=2.2&z=2006-04-01&g=2006-04-01), [2.7, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0019289&hoofdstuk=2&artikel=2.7&z=2006-04-01&g=2006-04-01), [6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0019289&hoofdstuk=6&artikel=6.1&z=2006-04-01&g=2006-04-01), [6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0019289&hoofdstuk=6&artikel=6.2&z=2006-04-01&g=2006-04-01), [6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0019289&hoofdstuk=6&artikel=6.4&z=2006-04-01&g=2006-04-01), [8.4](https://wetten.overheid.nl/jci1.3:c:BWBR0019289&hoofdstuk=8&artikel=8.4&z=2006-04-01&g=2006-04-01) en [8.8](https://wetten.overheid.nl/jci1.3:c:BWBR0019289&hoofdstuk=8&artikel=8.8&z=2006-04-01&g=2006-04-01) in werking op het tijdstip waarop de Wet toelating zorginstellingen in werking treedt;
+- d. treden de [artikelen 1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0019289&hoofdstuk=1&artikel=1.2&z=2007-01-01&g=2007-01-01), [1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0019289&hoofdstuk=1&artikel=1.5&z=2007-01-01&g=2007-01-01), [1.6, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0019289&hoofdstuk=1&artikel=1.6&z=2007-01-01&g=2007-01-01), [1.15](https://wetten.overheid.nl/jci1.3:c:BWBR0019289&hoofdstuk=1&artikel=1.15&z=2007-01-01&g=2007-01-01), [1.16](https://wetten.overheid.nl/jci1.3:c:BWBR0019289&hoofdstuk=1&artikel=1.16&z=2007-01-01&g=2007-01-01), [2.2, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0019289&hoofdstuk=2&artikel=2.2&z=2007-01-01&g=2007-01-01), [2.7, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0019289&hoofdstuk=2&artikel=2.7&z=2007-01-01&g=2007-01-01), [6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0019289&hoofdstuk=6&artikel=6.1&z=2007-01-01&g=2007-01-01), [6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0019289&hoofdstuk=6&artikel=6.2&z=2007-01-01&g=2007-01-01), [6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0019289&hoofdstuk=6&artikel=6.4&z=2007-01-01&g=2007-01-01), [8.4](https://wetten.overheid.nl/jci1.3:c:BWBR0019289&hoofdstuk=8&artikel=8.4&z=2007-01-01&g=2007-01-01) en [8.8](https://wetten.overheid.nl/jci1.3:c:BWBR0019289&hoofdstuk=8&artikel=8.8&z=2007-01-01&g=2007-01-01) in werking op het tijdstip waarop de Wet toelating zorginstellingen in werking treedt;
 
-- e. treden de [artikelen 6.3](https://wetten.overheid.nl/jci1.3:c:BWBR0019289&hoofdstuk=6&artikel=6.3&z=2006-04-01&g=2006-04-01) en [6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0019289&hoofdstuk=6&artikel=6.5&z=2006-04-01&g=2006-04-01) in werking op een bij koninklijk besluit vast te stellen tijdstip, met dien verstande dat zij, indien de [Wet toelating zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018906) in werking is getreden voor de datum van uitgifte van het Staatsblad waarin dat koninklijk besluit wordt geplaatst, in werking treden met ingang van de dag na de datum van uitgifte van dat Staatsblad en terugwerken tot het tijdstip waarop die wet in werking is getreden.
+- e. treden de [artikelen 6.3](https://wetten.overheid.nl/jci1.3:c:BWBR0019289&hoofdstuk=6&artikel=6.3&z=2007-01-01&g=2007-01-01) en [6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0019289&hoofdstuk=6&artikel=6.5&z=2007-01-01&g=2007-01-01) in werking op een bij koninklijk besluit vast te stellen tijdstip, met dien verstande dat zij, indien de [Wet toelating zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018906) in werking is getreden voor de datum van uitgifte van het Staatsblad waarin dat koninklijk besluit wordt geplaatst, in werking treden met ingang van de dag na de datum van uitgifte van dat Staatsblad en terugwerken tot het tijdstip waarop die wet in werking is getreden.
 
-3. [Artikel 1.17, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0019289&hoofdstuk=1&artikel=1.17&z=2006-04-01&g=2006-04-01), werkt terug tot en met 16 april 2004.
+3. [Artikel 1.17, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0019289&hoofdstuk=1&artikel=1.17&z=2007-01-01&g=2007-01-01), werkt terug tot en met 16 april 2004.
 
 ##### Artikel 9.3
 
