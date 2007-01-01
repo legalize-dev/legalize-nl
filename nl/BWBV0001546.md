@@ -4,7 +4,7 @@ identifier: "BWBV0001546"
 country: "nl"
 rank: "verdrag"
 publication_date: "2017-02-01"
-last_updated: "2006-07-01"
+last_updated: "2007-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0001546"
 soort: "verdrag"
@@ -136,9 +136,9 @@ De Voormalige Joegoslavische Republiek Macedonië verbindt zich ertoe samenwerki
 
 ##### Artikel 5
 
-1. De associatie wordt volledig verwezenlijkt in een overgangsperiode van maximaal 10 jaar die in twee fasen uiteenvalt. Deze opsplitsing in twee op elkaar volgende fasen is bedoeld om de bepalingen van de Stabilisatie- en Associatieovereenkomst geleidelijk uit te voeren en de aandacht in de eerste fase toe te spitsen op de hieronder in de [titels III](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=III&z=2006-07-01&g=2006-07-01), [V](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=V&z=2006-07-01&g=2006-07-01), [VI](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=VI&z=2006-07-01&g=2006-07-01) en VII genoemde gebieden.
+1. De associatie wordt volledig verwezenlijkt in een overgangsperiode van maximaal 10 jaar die in twee fasen uiteenvalt. Deze opsplitsing in twee op elkaar volgende fasen is bedoeld om de bepalingen van de Stabilisatie- en Associatieovereenkomst geleidelijk uit te voeren en de aandacht in de eerste fase toe te spitsen op de hieronder in de [titels III](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=III&z=2007-01-01&g=2007-01-01), [V](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=V&z=2007-01-01&g=2007-01-01), [VI](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=VI&z=2007-01-01&g=2007-01-01) en VII genoemde gebieden.
 
-2. De krachtens [artikel 108](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=X&artikel=108&z=2006-07-01&g=2006-07-01) opgerichte Stabilisatie- en Associatieraad onderzoekt op gezette tijden de toepassing van deze overeenkomst en de verwezenlijking door de Voormalige Joegoslavische Republiek Macedonië van de juridische, administratieve, institutionele en economische hervormingen in het licht van de preambule en in overeenstemming met de algemene principes van deze overeenkomst.
+2. De krachtens [artikel 108](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=X&artikel=108&z=2007-01-01&g=2007-01-01) opgerichte Stabilisatie- en Associatieraad onderzoekt op gezette tijden de toepassing van deze overeenkomst en de verwezenlijking door de Voormalige Joegoslavische Republiek Macedonië van de juridische, administratieve, institutionele en economische hervormingen in het licht van de preambule en in overeenstemming met de algemene principes van deze overeenkomst.
 
 3. Vier jaar na de inwerkingtreding van de overeenkomst zal de Stabilisatie- en Associatieraad de vooruitgang evalueren en een besluit nemen over de overgang naar en de duur van de tweede fase, en over eventueel aan te brengen wijzigingen in de inhoud van de bepalingen inzake de tweede fase. Daarbij wordt rekening gehouden met de resultaten van voornoemde toetsing.
 
@@ -180,7 +180,7 @@ De politieke dialoog kan plaatsvinden in een multilateraal kader, en als regiona
 
 ##### Artikel 10
 
-Op parlementair niveau vindt de politieke dialoog plaats in het kader van het bij [artikel 114](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=X&artikel=114&z=2006-07-01&g=2006-07-01) ingestelde Parlementair Stabilisatie- en Associatiecomité.
+Op parlementair niveau vindt de politieke dialoog plaats in het kader van het bij [artikel 114](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=X&artikel=114&z=2007-01-01&g=2007-01-01) ingestelde Parlementair Stabilisatie- en Associatiecomité.
 
 ## TITEL III. REGIONALE SAMENWERKING
 
@@ -188,7 +188,7 @@ Op parlementair niveau vindt de politieke dialoog plaats in het kader van het bi
 
 In overeenstemming met haar verbintenis op het gebied van vrede en stabiliteit en de ontwikkeling van betrekkingen van goed nabuurschap zal de Voormalige Joegoslavische Republiek Macedonië de regionale samenwerking actief bevorderen. De Gemeenschap zal via haar programma's voor technische bijstand ook projecten steunen met een regionale of grensoverschrijdende dimensie.
 
-Telkens wanneer de Voormalige Joegoslavische Republiek Macedonië van plan is de samenwerking met een van de in onderstaande artikelen 12 tot en met 14 genoemde landen te intensiveren, deelt zij dit mede aan en voert zij overleg met de Gemeenschap en haar lidstaten overeenkomstig de bepalingen van [titel X](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=X&z=2006-07-01&g=2006-07-01).
+Telkens wanneer de Voormalige Joegoslavische Republiek Macedonië van plan is de samenwerking met een van de in onderstaande artikelen 12 tot en met 14 genoemde landen te intensiveren, deelt zij dit mede aan en voert zij overleg met de Gemeenschap en haar lidstaten overeenkomstig de bepalingen van [titel X](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=X&z=2007-01-01&g=2007-01-01).
 
 ##### Artikel 12. Samenwerking met andere landen die een Stabilisatie- en Associatieraad hebben ondertekend
 
@@ -236,7 +236,7 @@ De Voormalige Joegoslavische Republiek Macedonië kan met elke kandidaat-lidstaa
 
 1. De bepalingen van dit hoofdstuk zijn van toepassing op producten van oorsprong uit de Gemeenschap of de Voormalige Joegoslavische Republiek Macedonië, bedoeld in de hoofdstukken 25 tot en met 97 van de gecombineerde nomenclatuur, met uitzondering van de in [bijlage I. § I, ii) van de Overeenkomst inzake de landbouw](https://wetten.overheid.nl/jci1.3:c:BWBV0001160&bijlage=1) (GATT 1994) genoemde producten.
 
-2. De bepalingen van de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=IV&hoofdstuk=I&artikel=17&z=2006-07-01&g=2006-07-01) en [18](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=IV&hoofdstuk=I&artikel=18&z=2006-07-01&g=2006-07-01) zijn niet van toepassing op textielproducten of staalproducten, zoals gespecificeerd in de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=IV&hoofdstuk=I&artikel=22&z=2006-07-01&g=2006-07-01) en [23](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=IV&hoofdstuk=I&artikel=23&z=2006-07-01&g=2006-07-01).
+2. De bepalingen van de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=IV&hoofdstuk=I&artikel=17&z=2007-01-01&g=2007-01-01) en [18](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=IV&hoofdstuk=I&artikel=18&z=2007-01-01&g=2007-01-01) zijn niet van toepassing op textielproducten of staalproducten, zoals gespecificeerd in de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=IV&hoofdstuk=I&artikel=22&z=2007-01-01&g=2007-01-01) en [23](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=IV&hoofdstuk=I&artikel=23&z=2007-01-01&g=2007-01-01).
 
 3. De handel tussen de partijen in producten die onder het [Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie](https://wetten.overheid.nl/jci1.3:c:BWBV0004033) vallen, geschiedt in overeenstemming met de bepalingen van dat Verdrag.
 
@@ -288,7 +288,7 @@ De Gemeenschap en de Voormalige Joegoslavische Republiek Macedonië schaffen bij
 
 ##### Artikel 21
 
-De Voormalige Joegoslavische Republiek Macedonië verklaart zich bereid haar douanerechten in het handelsverkeer met de Gemeenschap in een sneller tempo te verlagen dan het tempo waarin [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=IV&hoofdstuk=I&artikel=18&z=2006-07-01&g=2006-07-01) voorziet, indien de algemene economische situatie en de situatie in de betrokken sector van de economie zulks mogelijk maken.
+De Voormalige Joegoslavische Republiek Macedonië verklaart zich bereid haar douanerechten in het handelsverkeer met de Gemeenschap in een sneller tempo te verlagen dan het tempo waarin [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=IV&hoofdstuk=I&artikel=18&z=2007-01-01&g=2007-01-01) voorziet, indien de algemene economische situatie en de situatie in de betrokken sector van de economie zulks mogelijk maken.
 
 De Stabilisatie- en Associatieraad doet daartoe strekkende aanbevelingen.
 
@@ -364,7 +364,7 @@ Producten van oorsprong uit de voormalige Joegoslavische Republiek Macedonië va
 
 1. Vanaf de inwerkingtreding van deze overeenkomst gaat de Gemeenschap over tot de volledige afschaffing van douanerechten op vis en visserijproducten van oorsprong uit de Voormalige Joegoslavische Republiek Macedonië. Op producten vermeld in Bijlage V a) zijn de daarin opgenomen bepalingen van toepassing.
 
-2. De Voormalige Joegoslavische Republiek Macedonië gaat over tot de afschaffing van alle heffingen die een gelijke werking hebben als douanerechten en van de douanerechten van toepassing op de invoer van vis en visserijproducten van oorsprong uit de Gemeenschap met uitzondering van de producten die zijn opgenomen in Bijlage V(b) van de SAO, waarin de tariefverlagingen voor de daarin opgenomen producten worden vastgelegd.
+2. De voormalige Joegoslavische Republiek Macedonië gaat over tot de afschaffing van alle heffingen die een gelijke werking hebben als douanerechten en van de douanerechten van toepassing op de invoer van vis en visserijproducten van oorsprong uit de Gemeenschap, met uitzondering van de producten die zijn opgenomen in de bijlagen V b) en V c) van de SAO, waarin de tariefverlagingen voor de daarin opgenomen producten worden vastgelegd.
 
 ##### Artikel 29
 
@@ -374,7 +374,7 @@ Producten van oorsprong uit de voormalige Joegoslavische Republiek Macedonië va
 
 ##### Artikel 30
 
-Onverminderd de andere bepalingen van deze overeenkomst, met name die van [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=IV&hoofdstuk=III&artikel=37&z=2006-07-01&g=2006-07-01), plegen beide partijen, indien, wegens de bijzondere gevoeligheid van de markten voor landbouw- en visserijproducten, de invoer van producten van oorsprong uit een partij waarvoor de concessies uit hoofde van de [artikelen 25](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=IV&hoofdstuk=II&artikel=25&z=2006-07-01&g=2006-07-01), [27](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=IV&hoofdstuk=II&artikel=27&z=2006-07-01&g=2006-07-01) en [28](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=IV&hoofdstuk=II&artikel=28&z=2006-07-01&g=2006-07-01) zijn verleend, ernstige problemen veroorzaakt op de markt of de binnenlandse regelmechanismen van de andere partij, onverwijld overleg teneinde een passende oplossing te vinden voor het probleem. In afwachting van deze oplossing kan de betrokken partij de passende maatregelen nemen die zij noodzakelijk acht.
+Onverminderd de andere bepalingen van deze overeenkomst, met name die van [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=IV&hoofdstuk=III&artikel=37&z=2007-01-01&g=2007-01-01), plegen beide partijen, indien, wegens de bijzondere gevoeligheid van de markten voor landbouw- en visserijproducten, de invoer van producten van oorsprong uit een partij waarvoor de concessies uit hoofde van de [artikelen 25](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=IV&hoofdstuk=II&artikel=25&z=2007-01-01&g=2007-01-01), [27](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=IV&hoofdstuk=II&artikel=27&z=2007-01-01&g=2007-01-01) en [28](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=IV&hoofdstuk=II&artikel=28&z=2007-01-01&g=2007-01-01) zijn verleend, ernstige problemen veroorzaakt op de markt of de binnenlandse regelmechanismen van de andere partij, onverwijld overleg teneinde een passende oplossing te vinden voor het probleem. In afwachting van deze oplossing kan de betrokken partij de passende maatregelen nemen die zij noodzakelijk acht.
 
 ### HOOFDSTUK III. GEMEENSCHAPPELIJKE BEPALINGEN
 
@@ -404,7 +404,7 @@ De bepalingen betreffende de afschaffing van douanerechten bij invoer zijn evene
 
 1. Deze Overeenkomst vormt geen beletsel voor de handhaving of de oprichting van douane-unies, vrijhandelszones of regelingen voor grensverkeer, mits de in deze Overeenkomst neergelegde handelsregelingen daardoor niet worden gewijzigd.
 
-2. Tijdens de in de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=IV&hoofdstuk=I&artikel=17&z=2006-07-01&g=2006-07-01) en [18](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=IV&hoofdstuk=I&artikel=18&z=2006-07-01&g=2006-07-01) vermelde overgangsperioden mag deze overeenkomst geen invloed hebben op de tenuitvoerlegging van de specifieke preferentiële regelingen voor het goederenverkeer die ofwel zijn vastgelegd in grensovereenkomsten die vroeger tussen een of meer lidstaten en de Socialistische Federale Republiek Joegoslavië, opgevolgd door de Voormalige Joegoslavische Republiek Macedonië, zijn gesloten, ofwel voortvloeien uit de in [titel III](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=III&z=2006-07-01&g=2006-07-01) gespecificeerde bilaterale overeenkomsten die door de Voormalige Joegoslavische Republiek Macedonië ter bevordering van de regionale handel zijn gesloten.
+2. Tijdens de in de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=IV&hoofdstuk=I&artikel=17&z=2007-01-01&g=2007-01-01) en [18](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=IV&hoofdstuk=I&artikel=18&z=2007-01-01&g=2007-01-01) vermelde overgangsperioden mag deze overeenkomst geen invloed hebben op de tenuitvoerlegging van de specifieke preferentiële regelingen voor het goederenverkeer die ofwel zijn vastgelegd in grensovereenkomsten die vroeger tussen een of meer lidstaten en de Socialistische Federale Republiek Joegoslavië, opgevolgd door de Voormalige Joegoslavische Republiek Macedonië, zijn gesloten, ofwel voortvloeien uit de in [titel III](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=III&z=2007-01-01&g=2007-01-01) gespecificeerde bilaterale overeenkomsten die door de Voormalige Joegoslavische Republiek Macedonië ter bevordering van de regionale handel zijn gesloten.
 
 3. De partijen plegen in de Stabilisatie- en Associatieraad overleg over de in de leden 1 en 2 beschreven overeenkomsten en, desgewenst, over andere belangrijke onderwerpen in verband met hun respectieve handelspolitiek ten aanzien van derde landen. Een dergelijk overleg vindt met name plaats bij de toetreding van een derde land tot de Gemeenschap, teneinde rekening te kunnen houden met de onderlinge belangen van de Gemeenschap en de Voormalige Joegoslavische Republiek Macedonië als omschreven in deze overeenkomst.
 
@@ -472,7 +472,7 @@ Deze overeenkomst vormt geen beletsel voor verbodsbepalingen of beperkingen ten 
 
 Beide partijen komen overeen samen te werken om het risico van fraude bij de toepassing van de handelsbepalingen van deze overeenkomst te verkleinen.
 
-In afwijking van andere bepalingen van deze overeenkomst, met name de [artikelen 30](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=IV&hoofdstuk=II&artikel=30&z=2006-07-01&g=2006-07-01), [37](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=IV&hoofdstuk=III&artikel=37&z=2006-07-01&g=2006-07-01) en [88](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=VIII&artikel=88&z=2006-07-01&g=2006-07-01) en Protocol 4, geldt dat, indien een van de partijen oordeelt dat er voldoende bewijs is van fraude, zoals een significante toename van de handel in producten van de ene naar de andere partij boven het niveau dat de economische omstandigheden zoals de normale productie en exportcapaciteit weerspiegelt, of het niet verlenen van de vereiste administratieve medewerking voor de verificatie van het bewijs van oorsprong door de andere partij, de partijen onverwijld overleg voeren om een passende oplossing te vinden. In afwachting van deze oplossing kan de betrokken partij de passende maatregelen nemen die zij noodzakelijk acht. Bij de keuze van deze maatregelen wordt prioriteit gegeven aan die welke de werking van de bij deze overeenkomst vastgestelde regelingen het minst verstoren.
+In afwijking van andere bepalingen van deze overeenkomst, met name de [artikelen 30](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=IV&hoofdstuk=II&artikel=30&z=2007-01-01&g=2007-01-01), [37](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=IV&hoofdstuk=III&artikel=37&z=2007-01-01&g=2007-01-01) en [88](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=VIII&artikel=88&z=2007-01-01&g=2007-01-01) en Protocol 4, geldt dat, indien een van de partijen oordeelt dat er voldoende bewijs is van fraude, zoals een significante toename van de handel in producten van de ene naar de andere partij boven het niveau dat de economische omstandigheden zoals de normale productie en exportcapaciteit weerspiegelt, of het niet verlenen van de vereiste administratieve medewerking voor de verificatie van het bewijs van oorsprong door de andere partij, de partijen onverwijld overleg voeren om een passende oplossing te vinden. In afwachting van deze oplossing kan de betrokken partij de passende maatregelen nemen die zij noodzakelijk acht. Bij de keuze van deze maatregelen wordt prioriteit gegeven aan die welke de werking van de bij deze overeenkomst vastgestelde regelingen het minst verstoren.
 
 ##### Artikel 43
 
@@ -488,7 +488,7 @@ De toepassing van deze overeenkomst laat de toepassing van de bepalingen van het
 
 - –. is de behandeling van werknemers die de nationaliteit van de Voormalige Joegoslavische Republiek Macedonië hebben en die legaal op het grondgebied van een lidstaat zijn tewerkgesteld vrij van elke vorm van discriminatie op grond van nationaliteit wat betreft de arbeidsvoorwaarden, de beloning of ontslag in vergelijking met de nationale onderdanen;
 
-- –. hebben de legaal op het grondgebied van een lidstaat verblijvende echtgenoot en kinderen van een legaal op het grondgebied van een lidstaat tewerkgestelde werknemer, met uitzondering van seizoenwerknemers en werknemers die onder bilaterale overeenkomsten in de zin van [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=V&hoofdstuk=I&artikel=45&z=2006-07-01&g=2006-07-01) vallen, tenzij in dergelijke overeenkomsten anders is bepaald, gedurende de periode van het toegestane tewerkstellingsverblijf van die werknemer toegang tot de arbeidsmarkt van die lidstaat.
+- –. hebben de legaal op het grondgebied van een lidstaat verblijvende echtgenoot en kinderen van een legaal op het grondgebied van een lidstaat tewerkgestelde werknemer, met uitzondering van seizoenwerknemers en werknemers die onder bilaterale overeenkomsten in de zin van [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=V&hoofdstuk=I&artikel=45&z=2007-01-01&g=2007-01-01) vallen, tenzij in dergelijke overeenkomsten anders is bepaald, gedurende de periode van het toegestane tewerkstellingsverblijf van die werknemer toegang tot de arbeidsmarkt van die lidstaat.
 
 2. De Voormalige Joegoslavische Republiek Macedonië verleent, met inachtneming van de in dat land geldende voorwaarden en modaliteiten, aan werknemers die onderdaan zijn van een lidstaat en die legaal op zijn grondgebied zijn tewerkgesteld alsmede aan hun echtgenoten en kinderen die aldaar legaal verblijven de in lid 1 vermelde behandeling.
 
@@ -538,7 +538,7 @@ In de overeenkomst wordt verstaan onder:
 
 - g. „communautaire onderdaan” en „onderdaan van de Voormalige Joegoslavische Republiek Macedonië”: een natuurlijke persoon die een onderdaan is van respectievelijk een van de lidstaten of van de Voormalige Joegoslavische Republiek Macedonië;
 
-- h. wat het internationale vervoer over zee betreft, met inbegrip van het intermodale vervoer dat ten dele over zee plaatsvindt, zijn de bepalingen van dit hoofdstuk en van [hoofdstuk III](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=V&hoofdstuk=III&z=2006-07-01&g=2006-07-01) van deze titel eveneens van toepassing op buiten de Gemeenschap of de Voormalige Joegoslavische Republiek Macedonië gevestigde onderdanen van respectievelijk de Gemeenschap of de Voormalige Joegoslavische Republiek Macedonië, en op buiten de Gemeenschap of de Voormalige Joegoslavische Republiek Macedonië gevestigde scheepvaartondernemingen die worden bestuurd door onderdanen van respectievelijk een lidstaat of de Voormalige Joegoslavische Republiek Macedonië, indien hun vaartuigen respectievelijk in die lidstaat of in de Voormalige Joegoslavische Republiek Macedonië in overeenstemming met de respectieve wetgevingen zijn ingeschreven;
+- h. wat het internationale vervoer over zee betreft, met inbegrip van het intermodale vervoer dat ten dele over zee plaatsvindt, zijn de bepalingen van dit hoofdstuk en van [hoofdstuk III](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=V&hoofdstuk=III&z=2007-01-01&g=2007-01-01) van deze titel eveneens van toepassing op buiten de Gemeenschap of de Voormalige Joegoslavische Republiek Macedonië gevestigde onderdanen van respectievelijk de Gemeenschap of de Voormalige Joegoslavische Republiek Macedonië, en op buiten de Gemeenschap of de Voormalige Joegoslavische Republiek Macedonië gevestigde scheepvaartondernemingen die worden bestuurd door onderdanen van respectievelijk een lidstaat of de Voormalige Joegoslavische Republiek Macedonië, indien hun vaartuigen respectievelijk in die lidstaat of in de Voormalige Joegoslavische Republiek Macedonië in overeenstemming met de respectieve wetgevingen zijn ingeschreven;
 
 - i. „financiële diensten”: de in bijlage VI omschreven activiteiten. De Stabilisatie- en Associatieraad kan de werkingssfeer van die bijlage uitbreiden of wijzigen.
 
@@ -570,7 +570,7 @@ In de overeenkomst wordt verstaan onder:
 
 ##### Artikel 49
 
-1. Met inachtneming van het bepaalde in [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=V&hoofdstuk=II&artikel=48&z=2006-07-01&g=2006-07-01) en uitgezonderd de in bijlage VI beschreven financiële diensten kan elke partij de vestiging van en de exploitatie door vennootschappen en onderdanen op haar grondgebied regelen, voor zover deze regelingen vennootschappen en onderdanen van de andere partij niet discrimineren in vergelijking met de eigen vennootschappen en onderdanen.
+1. Met inachtneming van het bepaalde in [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=V&hoofdstuk=II&artikel=48&z=2007-01-01&g=2007-01-01) en uitgezonderd de in bijlage VI beschreven financiële diensten kan elke partij de vestiging van en de exploitatie door vennootschappen en onderdanen op haar grondgebied regelen, voor zover deze regelingen vennootschappen en onderdanen van de andere partij niet discrimineren in vergelijking met de eigen vennootschappen en onderdanen.
 
 2. Ten aanzien van financiële diensten vormt geen andere bepaling van deze overeenkomst voor een partij een beletsel om prudentiële maatregelen te treffen, voor het beschermen van investeerders, depositohouders, verzekeringsnemers of diegenen jegens wie een fiduciaire verplichting is aangegaan of om de integriteit en stabiliteit van het financiële systeem te verzekeren. Dergelijke maatregelen mogen door een partij niet worden aangewend om zich aan de uit de overeenkomst voortvloeiende verplichtingen te onttrekken.
 
@@ -584,7 +584,7 @@ In de overeenkomst wordt verstaan onder:
 
 ##### Artikel 51
 
-1. Het bepaalde in de [artikelen 48](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=V&hoofdstuk=II&artikel=48&z=2006-07-01&g=2006-07-01) en [49](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=V&hoofdstuk=II&artikel=49&z=2006-07-01&g=2006-07-01) vormt geen beletsel voor de toepassing door een partij, met betrekking tot de vestiging en activiteiten op haar grondgebied van filialen van vennootschappen van een andere partij die niet op het grondgebied van de eerste partij zijn opgericht, van bijzondere regels die op grond van juridische of technische verschillen tussen bedoelde filialen en filialen van vennootschappen die op het grondgebied van de eerste partij zijn opgericht, of, wat financiële diensten betreft, om prudentiële redenen gerechtvaardigd zijn.
+1. Het bepaalde in de [artikelen 48](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=V&hoofdstuk=II&artikel=48&z=2007-01-01&g=2007-01-01) en [49](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=V&hoofdstuk=II&artikel=49&z=2007-01-01&g=2007-01-01) vormt geen beletsel voor de toepassing door een partij, met betrekking tot de vestiging en activiteiten op haar grondgebied van filialen van vennootschappen van een andere partij die niet op het grondgebied van de eerste partij zijn opgericht, van bijzondere regels die op grond van juridische of technische verschillen tussen bedoelde filialen en filialen van vennootschappen die op het grondgebied van de eerste partij zijn opgericht, of, wat financiële diensten betreft, om prudentiële redenen gerechtvaardigd zijn.
 
 2. Het verschil in behandeling blijft beperkt tot hetgeen als gevolg van dergelijke juridische of technische verschillen strikt noodzakelijk is of, wat financiële diensten betreft, tot hetgeen om prudentiële redenen noodzakelijk is.
 
@@ -642,7 +642,7 @@ Bij het verstrijken van het vierde jaar na de datum van inwerkingtreding van dez
 
 1. De partijen verbinden zich ertoe overeenkomstig de hiernavolgende bepalingen de nodige stappen te ondernemen om geleidelijk het verrichten van diensten mogelijk te maken door vennootschappen of onderdanen van de Gemeenschap respectievelijk vennootschappen of onderdanen van de Voormalige Joegoslavische Republiek Macedonië die zijn gevestigd op het grondgebied van een andere partij dan die van de persoon voor wie de diensten worden verricht.
 
-2. Naargelang de in lid 1 bedoelde liberalisering tot stand komt, staan de partijen de tijdelijke verplaatsing toe van natuurlijke personen die de dienst verlenen of als werknemer voor de dienstverlener een belangrijke functie vervullen zoals omschreven in [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=V&hoofdstuk=II&artikel=53&z=2006-07-01&g=2006-07-01), met inbegrip van de natuurlijke personen die vertegenwoordigers zijn van een onderneming of onderdaan van de Gemeenschap of de Voormalige Joegoslavische Republiek Macedonië en tijdelijke toegang wensen te krijgen voor onderhandelingen over de verkoop van diensten of voor het aangaan van overeenkomsten over de verkoop van diensten namens de dienstverlener, voor zover deze vertegenwoordigers niet zelf betrokken zijn bij de openbare directe verkoop of bij de eigenlijke dienstverlening.
+2. Naargelang de in lid 1 bedoelde liberalisering tot stand komt, staan de partijen de tijdelijke verplaatsing toe van natuurlijke personen die de dienst verlenen of als werknemer voor de dienstverlener een belangrijke functie vervullen zoals omschreven in [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=V&hoofdstuk=II&artikel=53&z=2007-01-01&g=2007-01-01), met inbegrip van de natuurlijke personen die vertegenwoordigers zijn van een onderneming of onderdaan van de Gemeenschap of de Voormalige Joegoslavische Republiek Macedonië en tijdelijke toegang wensen te krijgen voor onderhandelingen over de verkoop van diensten of voor het aangaan van overeenkomsten over de verkoop van diensten namens de dienstverlener, voor zover deze vertegenwoordigers niet zelf betrokken zijn bij de openbare directe verkoop of bij de eigenlijke dienstverlening.
 
 3. Met ingang van de tweede fase van de overgangsperiode neemt de Stabilisatie- en Associatieraad de nodige maatregelen voor de geleidelijke tenuitvoerlegging van de bepalingen van lid 1. Hierbij wordt rekening gehouden met de vorderingen die de partijen maken bij de onderlinge aanpassing van hun wetgeving.
 
@@ -686,7 +686,7 @@ De partijen verbinden zich ertoe machtiging te verlenen, in vrije convertibele v
 
 ##### Artikel 59
 
-1. Met betrekking tot de verrichtingen op de kapitaalrekening en de financiële rekening van de betalingsbalans garanderen vanaf de datum van inwerkingtreding van de Overeenkomst zowel de lidstaten als de Voormalige Joegoslavische Republiek Macedonië het vrije verkeer van kapitaal met betrekking tot directe investeringen in ondernemingen welke in overeenstemming met de wetten van het gastland zijn opgericht, en investeringen in overeenstemming met [hoofdstuk II van titel V](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=V&hoofdstuk=II&z=2006-07-01&g=2006-07-01), alsook de liquidatie of de repatriëring van die investeringen en van alle opbrengsten daarvan.
+1. Met betrekking tot de verrichtingen op de kapitaalrekening en de financiële rekening van de betalingsbalans garanderen vanaf de datum van inwerkingtreding van de Overeenkomst zowel de lidstaten als de Voormalige Joegoslavische Republiek Macedonië het vrije verkeer van kapitaal met betrekking tot directe investeringen in ondernemingen welke in overeenstemming met de wetten van het gastland zijn opgericht, en investeringen in overeenstemming met [hoofdstuk II van titel V](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=V&hoofdstuk=II&z=2007-01-01&g=2007-01-01), alsook de liquidatie of de repatriëring van die investeringen en van alle opbrengsten daarvan.
 
 2. Met betrekking tot de verrichtingen op de kapitaalrekening van de betalingsbalans garanderen zowel de lidstaten als Slovenië het vrije verkeer van kapitaal met betrekking tot kredieten die verband houden met commerciële transacties of het verrichten van diensten waarbij een ingezetene van een der partijen betrokken is, alsmede op financiële leningen en kredieten met een looptijd van meer dan een jaar.
 
@@ -694,7 +694,7 @@ Bij aanvang van de tweede fase garanderen zij tevens het vrije verkeer van kapit
 
 3. Onverminderd lid 1 stellen de partijen geen nieuwe beperkingen in op het kapitaalverkeer en de lopende betalingen tussen ingezetenen van de Gemeenschap en van de Voormalige Joegoslavische Republiek Macedonië, en brengen zij in de bestaande regelingen geen verdere restricties aan.
 
-4. Onverminderd de bepalingen van [artikel 58](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=V&hoofdstuk=IV&artikel=58&z=2006-07-01&g=2006-07-01) en van dit artikel mogen de Gemeenschap en de Voormalige Joegoslavische Republiek Macedonië in uitzonderlijke gevallen wanneer het kapitaalverkeer tussen de Gemeenschap en de Voormalige Joegoslavische Republiek Macedonië ernstige moeilijkheden veroorzaakt of dreigt te veroorzaken voor de werking van het wisselkoersbeleid of het monetaire beleid in de Gemeenschap of de Voormalige Joegoslavische Republiek Macedonië, vrijwaringsmaatregelen nemen ten aanzien van het kapitaalverkeer tussen de Gemeenschap en de Voormalige Joegoslavische Republiek Macedonië voor een periode van ten hoogste zes maanden indien dergelijke maatregelen absoluut noodzakelijk zijn.
+4. Onverminderd de bepalingen van [artikel 58](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=V&hoofdstuk=IV&artikel=58&z=2007-01-01&g=2007-01-01) en van dit artikel mogen de Gemeenschap en de Voormalige Joegoslavische Republiek Macedonië in uitzonderlijke gevallen wanneer het kapitaalverkeer tussen de Gemeenschap en de Voormalige Joegoslavische Republiek Macedonië ernstige moeilijkheden veroorzaakt of dreigt te veroorzaken voor de werking van het wisselkoersbeleid of het monetaire beleid in de Gemeenschap of de Voormalige Joegoslavische Republiek Macedonië, vrijwaringsmaatregelen nemen ten aanzien van het kapitaalverkeer tussen de Gemeenschap en de Voormalige Joegoslavische Republiek Macedonië voor een periode van ten hoogste zes maanden indien dergelijke maatregelen absoluut noodzakelijk zijn.
 
 5. De partijen plegen overleg teneinde het kapitaalverkeer tussen de Gemeenschap en de Voormalige Joegoslavische Republiek Macedonië te vergemakkelijken met het oog op de verwezenlijking van de doelstellingen van deze overeenkomst.
 
@@ -714,7 +714,7 @@ Bij aanvang van de tweede fase garanderen zij tevens het vrije verkeer van kapit
 
 ##### Artikel 62
 
-Voor de toepassing van deze titel belet geen enkele bepaling van deze overeenkomst de partijen hun wetten en voorschriften betreffende toelating en verblijf, tewerkstelling, arbeidsvoorwaarden, de vestiging van natuurlijke personen en het verrichten van diensten toe te passen, mits zij dat niet op zodanige wijze doen dat de voor een partij uit een specifieke bepaling van de overeenkomst voortvloeiende voordelen teniet gedaan of beperkt worden. Deze bepaling doet geen afbreuk aan de toepassing van [artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=V&hoofdstuk=V&artikel=61&z=2006-07-01&g=2006-07-01).
+Voor de toepassing van deze titel belet geen enkele bepaling van deze overeenkomst de partijen hun wetten en voorschriften betreffende toelating en verblijf, tewerkstelling, arbeidsvoorwaarden, de vestiging van natuurlijke personen en het verrichten van diensten toe te passen, mits zij dat niet op zodanige wijze doen dat de voor een partij uit een specifieke bepaling van de overeenkomst voortvloeiende voordelen teniet gedaan of beperkt worden. Deze bepaling doet geen afbreuk aan de toepassing van [artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=V&hoofdstuk=V&artikel=61&z=2007-01-01&g=2007-01-01).
 
 ##### Artikel 63
 
@@ -752,11 +752,11 @@ De bepalingen van deze Overeenkomst doen geen afbreuk aan de uitvoering door elk
 
 2. Deze geleidelijke harmonisatie van de wetgeving zal in twee fasen plaatsvinden.
 
-3. Beginnend op de datum van ondertekening van de overeenkomst en met een duur die in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=I&artikel=5&z=2006-07-01&g=2006-07-01) wordt uiteengezet, heeft de aanpassing van wetgeving ook betrekking op bepaalde fundamentele elementen van het acquis betreffende de interne markt en op andere met de handel verband houdende terreinen, volgens een in coördinatie met de Commissie van de Europese Gemeenschappen op te stellen programma. De Voormalige Joegoslavische Republiek Macedonië definieert ook, in coördinatie met de Commissie van de Europese Gemeenschappen, de modaliteiten voor het toezicht op de tenuitvoerlegging van de harmonisatie van de wetgeving en de te treffen rechtshandhavingsmaatregelen, inclusief hervorming van het justitieel apparaat.
+3. Beginnend op de datum van ondertekening van de overeenkomst en met een duur die in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=I&artikel=5&z=2007-01-01&g=2007-01-01) wordt uiteengezet, heeft de aanpassing van wetgeving ook betrekking op bepaalde fundamentele elementen van het acquis betreffende de interne markt en op andere met de handel verband houdende terreinen, volgens een in coördinatie met de Commissie van de Europese Gemeenschappen op te stellen programma. De Voormalige Joegoslavische Republiek Macedonië definieert ook, in coördinatie met de Commissie van de Europese Gemeenschappen, de modaliteiten voor het toezicht op de tenuitvoerlegging van de harmonisatie van de wetgeving en de te treffen rechtshandhavingsmaatregelen, inclusief hervorming van het justitieel apparaat.
 
 Er zullen tijdslimieten worden vastgesteld voor de mededingingswetgeving, de wetgeving inzake de intellectuele eigendom, de wetgeving inzake normen en certificering, de wetgeving inzake overheidsopdrachten en de wetgeving inzake gegevensbescherming. Harmonisatie van de wetgeving in andere sectoren van de interne markt is een verplichting waaraan aan het einde van de overgangsperiode zal moeten zijn voldaan.
 
-4. Tijdens de tweede fase van de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=I&artikel=5&z=2006-07-01&g=2006-07-01) vermelde overgangsperiode heeft de aanpassing van de wetgeving ook betrekking op de elementen van het acquis die niet door het vorige lid worden gedekt.
+4. Tijdens de tweede fase van de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=I&artikel=5&z=2007-01-01&g=2007-01-01) vermelde overgangsperiode heeft de aanpassing van de wetgeving ook betrekking op de elementen van het acquis die niet door het vorige lid worden gedekt.
 
 ##### Artikel 69. Bepalingen betreffende de concurrentie en andere economische aspecten
 
@@ -774,7 +774,7 @@ Er zullen tijdslimieten worden vastgesteld voor de mededingingswetgeving, de wet
 
 - b. Elke partij garandeert met betrekking tot overheidssteun transparantie door met name ieder jaar aan de andere partij mededeling te doen van het totale bedrag en de verdeling van de verstrekte steun en door op verzoek informatie over steunprogramma's te verstrekken. Op verzoek van een van de partijen verstrekt de andere partij informatie over bepaalde afzonderlijke steunmaatregelen van de overheid. Elke partij zal erop toezien dat deze bepalingen van dit artikel binnen vijf jaar na de inwerkingtreding van deze overeenkomst worden toegepast.
 
-4. Met betrekking tot de producten vermeld in [hoofdstuk II van titel IV](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=IV&hoofdstuk=II&z=2006-07-01&g=2006-07-01):
+4. Met betrekking tot de producten vermeld in [hoofdstuk II van titel IV](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=IV&hoofdstuk=II&z=2007-01-01&g=2007-01-01):
 
 - –. is het bepaalde in lid 1, onder iii), niet van toepassing;
 
@@ -810,7 +810,7 @@ Indien zich op het gebied van intellectuele, industriële en commerciële eigend
 
 Bovenstaande bepalingen zullen ook van toepassing zijn op contracten in de nutssector zodra de Voormalige Joegoslavische Republiek Macedonië de wetgeving die de communautaire regels op dit terrein invoert, heeft vastgesteld. De Gemeenschap onderzoekt op gezette tijden of de Voormalige Joegoslavische Republiek Macedonië deze wetgeving daadwerkelijk heeft ingevoerd.
 
-De vennootschappen van de Gemeenschap die niet in de Voormalige Joegoslavische Republiek Macedonië zijn gevestigd, krijgen, uiterlijk vijf jaar na de inwerkingtreding van deze overeenkomst, toegang tot aanbestedingsprocedures in de Voormalige Joegoslavische Republiek Macedonië overeenkomstig de Wet op Aanbestedingen en krijgen daarbij een behandeling die niet minder gunstig is dan die van de vennootschappen van de Voormalige Joegoslavische Republiek Macedonië. De in de Voormalige Joegoslavische Republiek Macedonië overeenkomstig de bepalingen van [hoofdstuk 2 van titel V](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=V&hoofdstuk=II&z=2006-07-01&g=2006-07-01) gevestigde vennootschappen van de Gemeenschap krijgen vanaf de datum van inwerkingtreding van de overeenkomst toegang tot aanbestedingsprocedures en krijgen daarbij een behandeling die niet minder gunstig is dan die van vennootschappen van de Voormalige Joegoslavische Republiek Macedonië.
+De vennootschappen van de Gemeenschap die niet in de Voormalige Joegoslavische Republiek Macedonië zijn gevestigd, krijgen, uiterlijk vijf jaar na de inwerkingtreding van deze overeenkomst, toegang tot aanbestedingsprocedures in de Voormalige Joegoslavische Republiek Macedonië overeenkomstig de Wet op Aanbestedingen en krijgen daarbij een behandeling die niet minder gunstig is dan die van de vennootschappen van de Voormalige Joegoslavische Republiek Macedonië. De in de Voormalige Joegoslavische Republiek Macedonië overeenkomstig de bepalingen van [hoofdstuk 2 van titel V](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=V&hoofdstuk=II&z=2007-01-01&g=2007-01-01) gevestigde vennootschappen van de Gemeenschap krijgen vanaf de datum van inwerkingtreding van de overeenkomst toegang tot aanbestedingsprocedures en krijgen daarbij een behandeling die niet minder gunstig is dan die van vennootschappen van de Voormalige Joegoslavische Republiek Macedonië.
 
 De Stabilisatie- en Associatieraad onderzoekt op gezette tijden de mogelijkheid voor de Voormalige Joegoslavische Republiek Macedonië om alle vennootschappen van de Gemeenschap toegang te verlenen tot aanbestedingsprocedures in de Voormalige Joegoslavische Republiek Macedonië.
 
@@ -1032,7 +1032,7 @@ De samenwerking op het gebied van toerisme is gericht op het vergemakkelijken en
 
 - –. steun bij de invoering van moderne douane-informatiesystemen.
 
-3. Onverminderd de verdere bepalingen inzake samenwerking van deze Overeenkomst en in het bijzonder [artikel 76](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=VII&artikel=76&z=2006-07-01&g=2006-07-01), [77](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=VII&artikel=77&z=2006-07-01&g=2006-07-01) en [78](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=VII&artikel=78&z=2006-07-01&g=2006-07-01) vindt de wederzijdse bijstand tussen de administratieve autoriteiten op douanegebied van de partijen plaats overeenkomstig de bepalingen van Protocol 5.
+3. Onverminderd de verdere bepalingen inzake samenwerking van deze Overeenkomst en in het bijzonder [artikel 76](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=VII&artikel=76&z=2007-01-01&g=2007-01-01), [77](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=VII&artikel=77&z=2007-01-01&g=2007-01-01) en [78](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=VII&artikel=78&z=2007-01-01&g=2007-01-01) vindt de wederzijdse bijstand tussen de administratieve autoriteiten op douanegebied van de partijen plaats overeenkomstig de bepalingen van Protocol 5.
 
 ##### Artikel 89. Belastingen
 
@@ -1238,7 +1238,7 @@ Specifieke aandacht wordt besteed aan grensoverschrijdende, transnationale en in
 
 ##### Artikel 104
 
-Met het oog op de verwezenlijking van de doelstellingen van deze Overeenkomst en in overeenstemming met de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=I&artikel=3&z=2006-07-01&g=2006-07-01), [108](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=X&artikel=108&z=2006-07-01&g=2006-07-01) en [109](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=X&artikel=109&z=2006-07-01&g=2006-07-01) komt de Voormalige Joegoslavische Republiek Macedonië in aanmerking voor financiële steun van de Gemeenschap in de vorm subsidies en leningen, waaronder leningen van de Europese Investeringsbank.
+Met het oog op de verwezenlijking van de doelstellingen van deze Overeenkomst en in overeenstemming met de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=I&artikel=3&z=2007-01-01&g=2007-01-01), [108](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=X&artikel=108&z=2007-01-01&g=2007-01-01) en [109](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=X&artikel=109&z=2007-01-01&g=2007-01-01) komt de Voormalige Joegoslavische Republiek Macedonië in aanmerking voor financiële steun van de Gemeenschap in de vorm subsidies en leningen, waaronder leningen van de Europese Investeringsbank.
 
 ##### Artikel 105
 
@@ -1278,7 +1278,7 @@ Hierbij wordt een Stabilisatie- en Associatieraad opgericht, die toezicht houdt 
 
 ##### Artikel 110
 
-Om de doelstellingen van de overeenkomst te bereiken, krijgt de Stabilisatie- en Associatieraad de bevoegdheid besluiten te nemen binnen de toepassingssfeer van deze overeenkomst voor de in de overeenkomst vermelde gevallen. Zijn besluiten zijn bindend voor de partijen, die de nodige maatregelen treffen voor de uitvoering ervan. Bij het nemen van een besluit over de overgang naar de tweede fase, volgens de bepalingen van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=I&artikel=5&z=2006-07-01&g=2006-07-01), kan de Stabilisatie- en Associatieraad ook besluiten nemen over eventuele inhoudelijke veranderingen in de bepalingen die gelden voor de tweede fase.
+Om de doelstellingen van de overeenkomst te bereiken, krijgt de Stabilisatie- en Associatieraad de bevoegdheid besluiten te nemen binnen de toepassingssfeer van deze overeenkomst voor de in de overeenkomst vermelde gevallen. Zijn besluiten zijn bindend voor de partijen, die de nodige maatregelen treffen voor de uitvoering ervan. Bij het nemen van een besluit over de overgang naar de tweede fase, volgens de bepalingen van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=I&artikel=5&z=2007-01-01&g=2007-01-01), kan de Stabilisatie- en Associatieraad ook besluiten nemen over eventuele inhoudelijke veranderingen in de bepalingen die gelden voor de tweede fase.
 
 In zijn reglement van orde bepaalt de Stabilisatie- en Associatieraad de taken van het Stabilisatie- en Associatiecomité, waaronder de voorbereiding van de vergaderingen van de Stabilisatie- en Associatieraad, en stelt hij de werkwijze van dit comité vast.
 
@@ -1346,7 +1346,7 @@ Bij de keuze van de maatregelen moet voorrang worden gegeven aan die welke de go
 
 De partijen komen overeen op verzoek van elk van de partijen onmiddellijk overleg te plegen via passende kanalen om kwesties met betrekking tot de interpretatie of tenuitvoerlegging van deze Overeenkomst en andere relevante aspecten van de betrekkingen tussen de partijen te bespreken.
 
-De bepalingen van dit artikel hebben geen invloed op en gelden onverminderd de [artikelen 30](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=IV&hoofdstuk=II&artikel=30&z=2006-07-01&g=2006-07-01), [37](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=IV&hoofdstuk=III&artikel=37&z=2006-07-01&g=2006-07-01), [38](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=IV&hoofdstuk=III&artikel=38&z=2006-07-01&g=2006-07-01) en [42](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=IV&hoofdstuk=III&artikel=42&z=2006-07-01&g=2006-07-01).
+De bepalingen van dit artikel hebben geen invloed op en gelden onverminderd de [artikelen 30](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=IV&hoofdstuk=II&artikel=30&z=2007-01-01&g=2007-01-01), [37](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=IV&hoofdstuk=III&artikel=37&z=2007-01-01&g=2007-01-01), [38](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=IV&hoofdstuk=III&artikel=38&z=2007-01-01&g=2007-01-01) en [42](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=IV&hoofdstuk=III&artikel=42&z=2007-01-01&g=2007-01-01).
 
 ##### Artikel 120
 
@@ -1388,7 +1388,7 @@ Bij haar inwerkingtreding vervangt deze overeenkomst de samenwerkingsovereenkoms
 
 ##### Artikel 128. Interimovereenkomst
 
-De partijen komen overeen dat indien, in afwachting van de voltooiing van de procedures die nodig zijn voor de inwerkingtreding van deze overeenkomst, de bepalingen van bepaalde gedeelten van deze overeenkomst, met name die met betrekking tot het vrije verkeer van goederen, door middel van een interimovereenkomst tussen de Gemeenschap en de Voormalige Joegoslavische Republiek Macedonië tot uitvoering worden gebracht, in dergelijke omstandigheden voor de toepassing van [titel IV](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=IV&z=2006-07-01&g=2006-07-01), de [artikelen 69](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=VI&artikel=69&z=2006-07-01&g=2006-07-01), [70](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=VI&artikel=70&z=2006-07-01&g=2006-07-01) en [71](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=VI&artikel=71&z=2006-07-01&g=2006-07-01), van deze overeenkomst en van de Protocollen 1 tot en met 5 daarbij, onder „datum van inwerkingtreding van deze overeenkomst” wordt verstaan: de datum van inwerkingtreding van de interimovereenkomst voor wat betreft de verplichtingen die in deze artikelen en protocollen zijn opgenomen.
+De partijen komen overeen dat indien, in afwachting van de voltooiing van de procedures die nodig zijn voor de inwerkingtreding van deze overeenkomst, de bepalingen van bepaalde gedeelten van deze overeenkomst, met name die met betrekking tot het vrije verkeer van goederen, door middel van een interimovereenkomst tussen de Gemeenschap en de Voormalige Joegoslavische Republiek Macedonië tot uitvoering worden gebracht, in dergelijke omstandigheden voor de toepassing van [titel IV](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=IV&z=2007-01-01&g=2007-01-01), de [artikelen 69](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=VI&artikel=69&z=2007-01-01&g=2007-01-01), [70](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=VI&artikel=70&z=2007-01-01&g=2007-01-01) en [71](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=VI&artikel=71&z=2007-01-01&g=2007-01-01), van deze overeenkomst en van de Protocollen 1 tot en met 5 daarbij, onder „datum van inwerkingtreding van deze overeenkomst” wordt verstaan: de datum van inwerkingtreding van de interimovereenkomst voor wat betreft de verplichtingen die in deze artikelen en protocollen zijn opgenomen.
 
 ##### Artikel 1
 
@@ -1400,7 +1400,7 @@ Dit Protocol heeft betrekking op textiel en kledingproducten (hierna „textielp
 
 2. De rechten die van toepassing zijn op de onder Afdeling XI (Hoofdstuk 50 tot en met 63) van de gecombineerde nomenclatuur vallende producten van oorsprong uit de Gemeenschap, in de zin van Protocol 4 van deze Overeenkomst, die rechtstreeks in de Voormalige Joegoslavische Republiek Macedonië worden ingevoerd, vervallen op de dag van inwerkingtreding van de Overeenkomst, met uitzondering van de rechten die van toepassing zijn op de in Bijlage I bij dit Protocol bedoelde producten die op de daarin vermelde wijze geleidelijk worden verminderd.
 
-3. Onder voorbehoud van het bepaalde in dit Protocol zijn de bepalingen van de Overeenkomst, en met name de [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=IV&hoofdstuk=I&artikel=19&z=2006-07-01&g=2006-07-01) en [34 van de Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=IV&hoofdstuk=III&artikel=34&z=2006-07-01&g=2006-07-01) van toepassing op de handel in textielproducten tussen partijen.
+3. Onder voorbehoud van het bepaalde in dit Protocol zijn de bepalingen van de Overeenkomst, en met name de [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=IV&hoofdstuk=I&artikel=19&z=2007-01-01&g=2007-01-01) en [34 van de Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=IV&hoofdstuk=III&artikel=34&z=2007-01-01&g=2007-01-01) van toepassing op de handel in textielproducten tussen partijen.
 
 ##### Artikel 3
 
@@ -1434,11 +1434,11 @@ Douanerechten die bij invoer in de Voormalige Joegoslavische Republiek Macedoni�
 
 ##### Artikel 5
 
-1. In verband met het bepaalde in [artikel 69 van de overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=VI&artikel=69&z=2006-07-01&g=2006-07-01) erkennen de partijen dat het noodzakelijk en urgent is dat elke partij terstond maatregelen neemt om eventuele structurele zwakheden van haar staalsector te verhelpen ter waarborging van het algemene concurrentievermogen van haar industrie. De Voormalige Joegoslavische Republiek Macedonië stelt daarom binnen twee jaar een herstructurerings- en omschakelingsprogramma voor haar staalindustrie op om ervoor te zorgen dat deze industrie op normale marktvoorwaarden kan voortbestaan. De Gemeenschap zal de Voormalige Joegoslavische Republiek Macedonië op verzoek technische bijstand verlenen om dit doel te bereiken.
+1. In verband met het bepaalde in [artikel 69 van de overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=VI&artikel=69&z=2007-01-01&g=2007-01-01) erkennen de partijen dat het noodzakelijk en urgent is dat elke partij terstond maatregelen neemt om eventuele structurele zwakheden van haar staalsector te verhelpen ter waarborging van het algemene concurrentievermogen van haar industrie. De Voormalige Joegoslavische Republiek Macedonië stelt daarom binnen twee jaar een herstructurerings- en omschakelingsprogramma voor haar staalindustrie op om ervoor te zorgen dat deze industrie op normale marktvoorwaarden kan voortbestaan. De Gemeenschap zal de Voormalige Joegoslavische Republiek Macedonië op verzoek technische bijstand verlenen om dit doel te bereiken.
 
-2. In verband met het bepaalde in [artikel 69 van de overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=VI&artikel=69&z=2006-07-01&g=2006-07-01) worden voorts alle praktijken die strijdig zijn met dit artikel beoordeeld op grond van specifieke criteria die voortvloeien uit de toepassing van de wetgeving van de Gemeenschap inzake overheidssteun, met inbegrip van de afgeleide wetgeving, en van bijzondere voorschriften inzake het toezicht op overheidssteun die na het vervallen van het EGKS-Verdrag op de staalsector van toepassing zijn.
+2. In verband met het bepaalde in [artikel 69 van de overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=VI&artikel=69&z=2007-01-01&g=2007-01-01) worden voorts alle praktijken die strijdig zijn met dit artikel beoordeeld op grond van specifieke criteria die voortvloeien uit de toepassing van de wetgeving van de Gemeenschap inzake overheidssteun, met inbegrip van de afgeleide wetgeving, en van bijzondere voorschriften inzake het toezicht op overheidssteun die na het vervallen van het EGKS-Verdrag op de staalsector van toepassing zijn.
 
-3. Voor de toepassing van [lid 1, onder iii) van artikel 69 van de overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=VI&artikel=69&z=2006-07-01&g=2006-07-01) op staalproducten, erkent de Gemeenschap dat de Voormalige Joegoslavische Republiek Macedonië gedurende vijf jaar na de inwerkingtreding van de overeenkomst bij wijze van uitzondering overheidssteun voor herstructureringsdoeleinden kan verlenen, mits:
+3. Voor de toepassing van [lid 1, onder iii) van artikel 69 van de overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=VI&artikel=69&z=2007-01-01&g=2007-01-01) op staalproducten, erkent de Gemeenschap dat de Voormalige Joegoslavische Republiek Macedonië gedurende vijf jaar na de inwerkingtreding van de overeenkomst bij wijze van uitzondering overheidssteun voor herstructureringsdoeleinden kan verlenen, mits:
 
 - –. de steun ertoe leidt dat de begunstigde ondernemingen aan het einde van de herstructureringsperiode op normale marktvoorwaarden kan voortbestaan;
 
@@ -1450,11 +1450,11 @@ Douanerechten die bij invoer in de Voormalige Joegoslavische Republiek Macedoni�
 
 5. De Stabilisatie- en Associatieraad houdt toezicht op de naleving van het bepaalde in de leden 1 tot en met 4.
 
-6. Indien een partij van oordeel is dat een praktijk van de andere partij met dit artikel in strijd is, en indien die praktijk nadelig is of dreigt te zijn voor de belangen van de eerste partij of indien de binnenlandse industrie van die partij aanmerkelijke schade ondervindt of dreigt te ondervinden, kan deze partij de nodige maatregelen nemen na raadpleging van de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&artikel=8&z=2006-07-01&g=2006-07-01) genoemde contactgroep of dertig werkdagen nadat om deze raadpleging is verzocht.
+6. Indien een partij van oordeel is dat een praktijk van de andere partij met dit artikel in strijd is, en indien die praktijk nadelig is of dreigt te zijn voor de belangen van de eerste partij of indien de binnenlandse industrie van die partij aanmerkelijke schade ondervindt of dreigt te ondervinden, kan deze partij de nodige maatregelen nemen na raadpleging van de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&artikel=8&z=2007-01-01&g=2007-01-01) genoemde contactgroep of dertig werkdagen nadat om deze raadpleging is verzocht.
 
 ##### Artikel 6
 
-De [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=IV&hoofdstuk=I&artikel=19&z=2006-07-01&g=2006-07-01), [20](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=IV&hoofdstuk=I&artikel=20&z=2006-07-01&g=2006-07-01) en [34 van de overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=IV&hoofdstuk=III&artikel=34&z=2006-07-01&g=2006-07-01) zijn van toepassing op de handel in staalproducten tussen de partijen.
+De [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=IV&hoofdstuk=I&artikel=19&z=2007-01-01&g=2007-01-01), [20](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=IV&hoofdstuk=I&artikel=20&z=2007-01-01&g=2007-01-01) en [34 van de overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=IV&hoofdstuk=III&artikel=34&z=2007-01-01&g=2007-01-01) zijn van toepassing op de handel in staalproducten tussen de partijen.
 
 ##### Artikel 7
 
@@ -1500,167 +1500,205 @@ De Gemeenschap en de Voormalige Joegoslavische Republiek Macedonië stellen elka
 
 ##### Artikel 1. Definities
 
-Voor de toepassing van dit Protocol wordt verstaan onder:
+Voor de toepassing van dit protocol wordt verstaan onder:
 
-- a. „vervaardiging": elke soort be- of verwerking, met inbegrip van assemblage of speciale behandelingen;
+- a. „vervaardiging”: elke soort be- of verwerking, met inbegrip van assemblage of speciale behandelingen;
 
-- b. „materiaal": alle ingrediënten, grondstoffen, componenten, delen enz., die bij de vervaardiging van het product worden gebruikt;
+- b. „materiaal”: alle ingrediënten, grondstoffen, componenten, delen en dergelijke die bij de vervaardiging van het product worden gebruikt;
 
-- c. „product": het verkregen product, zelfs indien het bestemd is om later bij de vervaardiging van een ander product te worden gebruikt;
+- c. „product”: het verkregen product, ook indien dit bestemd is om later bij de vervaardiging van een ander product te worden gebruikt;
 
-- d. „goederen": zowel materialen als producten;
+- d. „goederen”: zowel materialen als producten;
 
-- e. „douanewaarde": de waarde zoals bepaald bij de Overeenkomst inzake de toepassing van artikel VII van de Algemene Overeenkomst betreffende tarieven en handel van 1994 (Overeenkomst inzake de douanewaarde van de WTO);
+- e. „douanewaarde”: de waarde zoals bepaald bij de [overeenkomst inzake de toepassing van artikel VII van de Algemene Overeenkomst betreffende tarieven en handel](https://wetten.overheid.nl/jci1.3:c:BWBV0001160&artikel=VII) van 1994 (Overeenkomst inzake de douanewaarde van de WTO);
 
-- f. „prijs af fabriek": de prijs die voor het product af fabriek is betaald aan de fabrikant in de Gemeenschap of de Voormalige Joegoslavische Republiek Macedonië in wiens bedrijf de laatste be- of verwerking is verricht, voor zover in die prijs de waarde is begrepen van alle gebruikte materialen, verminderd met alle binnenlandse belastingen die worden of kunnen worden terugbetaald wanneer het verkregen product wordt uitgevoerd;
+- f. „prijs af fabriek”: de prijs die voor het product af fabriek is betaald aan de fabrikant in de Gemeenschap of de voormalige Joegoslavische Republiek Macedonië in wiens bedrijf de laatste be- of verwerking is verricht, voor zover in die prijs de waarde is begrepen van alle gebruikte materialen, verminderd met alle binnenlandse belastingen die worden of kunnen worden terugbetaald wanneer het verkregen product wordt uitgevoerd;
 
-- g. „waarde van de materialen": de douanewaarde ten tijde van de invoer van de gebruikte materialen die niet van oorsprong zijn of, indien deze niet bekend is en niet kan worden vastgesteld, de eerste controleerbare prijs die voor de materialen in de Gemeenschap of de Voormalige Joegoslavische Republiek Macedonië is betaald;
+- g. „waarde van de materialen”: de douanewaarde ten tijde van de invoer van de gebruikte materialen die niet van oorsprong zijn of, indien deze niet bekend is en niet kan worden vastgesteld, de eerste controleerbare prijs die voor de materialen in de Gemeenschap of de voormalige Joegoslavische Republiek Macedonië is betaald;
 
-- h. „waarde van de materialen van oorsprong": de waarde van deze materialen als omschreven onder g), welke omschrijving van dienovereenkomstige toepassing is;
+- h. „waarde van de materialen van oorsprong”: de waarde van deze materialen als omschreven onder g), welke omschrijving van dienovereenkomstige toepassing is;
 
-- i. „hoofdstukken" en „posten": de hoofdstukken en posten (viercijfercodes) van de nomenclatuur die het geharmoniseerde systeem inzake de omschrijving en codering van goederen vormt, in dit Protocol „het geharmoniseerde systeem" of „GS" genoemd;
+- i. „toegevoegde waarde”: de prijs af fabriek verminderd met de douanewaarde van alle gebruikte materialen van oorsprong uit de andere in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=II&artikel=3&z=2007-01-01&g=2007-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=II&artikel=4&z=2007-01-01&g=2007-01-01) genoemde landen of, indien de douanewaarde niet bekend is of niet kan worden vastgesteld, de eerste verifieerbare prijs die in de Gemeenschap of in de voormalige Joegoslavische Republiek Macedonië voor deze materialen werd betaald;
 
-- k. „ingedeeld": de indeling van een product of materiaal onder een bepaalde post;
+- j. „hoofdstukken” en „posten”: de hoofdstukken en posten (viercijfercodes) van de nomenclatuur die het geharmoniseerde systeem inzake de omschrijving en codering van goederen vormt, in dit protocol „het geharmoniseerde systeem” of „GS” genoemd;
 
-- l. „zending": producten die gelijktijdig van een exporteur naar een geadresseerde worden verzonden of vergezeld gaan van een enkel vervoersdocument dat de verzending van de exporteur naar de geadresseerde dekt, of bij gebreke daarvan, een enkele factuur;
+- k. „ingedeeld”: de indeling van een product of materiaal onder een bepaalde post;
 
-- m. „gebieden": ook de territoriale wateren.
+- l. „zending”: producten die gelijktijdig van één exporteur naar één geadresseerde worden verzonden of vergezeld gaan van één vervoersdocument dat de verzending van de exporteur naar de geadresseerde dekt, of bij gebreke daarvan, één factuur;
 
-## TITEL II. DEFINITIE VAN HET BEGRIP "PRODUCTEN VAN OORSPRONG"
+- m. „gebieden”: ook de territoriale wateren.
+
+## TITEL II. DEFINITIE VAN HET BEGRIP „PRODUCTEN VAN OORSPRONG”
 
 ##### Artikel 2. Algemene voorwaarden
 
-1. Voor de toepassing van deze overeenkomst worden de volgende producten beschouwd van oorsprong te zijn uit de Gemeenschap:
+1. Voor de toepassing van deze overeenkomst worden de volgende producten beschouwd als van oorsprong uit de Gemeenschap:
 
-- a. geheel en al in de Gemeenschap verkregen producten in de zin van artikel 5 van dit Protocol;
+- a. geheel en al in de Gemeenschap verkregen producten in de zin van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=II&artikel=5&z=2007-01-01&g=2007-01-01);
 
-- b. in de Gemeenschap verkregen producten, waarin materialen zijn verwerkt die daar niet geheel en al zijn verkregen, mits deze materialen in de Gemeenschap een be- of verwerking hebben ondergaan die toereikend is in de zin van artikel 6 van dit Protocol.
+- b. in de Gemeenschap verkregen producten, waarin materialen zijn verwerkt die daar niet geheel en al zijn verkregen, mits deze materialen in de Gemeenschap een be- of verwerking hebben ondergaan die toereikend is in de zin van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=II&artikel=6&z=2007-01-01&g=2007-01-01);
 
-2. Voor de toepassing van deze overeenkomst worden de volgende producten beschouwd van oorsprong te zijn uit de Voormalige Joegoslavische Republiek Macedonië:
+2. Voor de toepassing van deze overeenkomst worden de volgende producten beschouwd van oorsprong te zijn uit de voormalige Joegoslavische Republiek Macedonië.
 
-- a. geheel en al in de Voormalige Joegoslavische Republiek Macedonië verkregen producten in de zin van artikel 5 van dit Protocol;
+- a. geheel en al in de voormalige Joegoslavische Republiek Macedonië verkregen producten in de zin van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=II&artikel=5&z=2007-01-01&g=2007-01-01);
 
-- b. in de Voormalige Joegoslavische Republiek Macedonië verkregen producten, waarin materialen zijn verwerkt die daar niet geheel en al zijn verkregen, mits deze materialen in de Voormalige Joegoslavische Republiek Macedonië een be- of verwerking hebben ondergaan die toereikend is in de zin van artikel 6 van dit Protocol.
+- b. in de voormalige Joegoslavische Republiek Macedonië verkregen producten, waarin materialen zijn verwerkt die daar niet geheel en al zijn verkregen, mits deze materialen in de voormalige Joegoslavische Republiek Macedonië een be- of verwerking hebben ondergaan die toereikend is in de zin van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=II&artikel=6&z=2007-01-01&g=2007-01-01).
 
-##### Artikel 3. Bilaterale cumulatie in de Gemeenschap
+##### Artikel 3. Cumulatie in de Gemeenschap
 
-Materialen van oorsprong uit de Voormalige Joegoslavische Republiek Macedonië worden beschouwd materialen van oorsprong uit de Gemeenschap te zijn indien ze in een aldaar verkregen product zijn opgenomen. Het is niet noodzakelijk dat deze materialen een toereikende be- of verwerking hebben ondergaan, mits ze een be- of verwerking hebben ondergaan die meer omvat dan de in artikel 7 genoemde be- of verwerkingen.
+1. Onverminderd [artikel 2, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=II&artikel=2&z=2007-01-01&g=2007-01-01), worden producten als van oorsprong uit de Gemeenschap beschouwd indien zij aldaar zijn verkregen door be- of verwerking van materialen van oorsprong uit de voormalige Joegoslavische Republiek Macedonië, de Gemeenschap of een ander land dat deelneemt aan het stabilisatie- en associatieproces van de Europese Unie1)Zoals vastgesteld in de conclusies van de Raad van april 1997 en in de mededeling van de Commissie van mei 1999 over het stabilisatie- en associatieproces in de landen van Zuidoost-Europa. , of door be- of verwerking van materialen van oorsprong uit Turkije waarop Besluit nr. 1/95 van de Associatieraad EG-Turkije van 22 december 1995 van toepassing is2)Besluit nr. 1/95 van de Associatieraad EG-Turkije van 22 december 1995 geldt voor producten andere dan landbouwproducten zoals omschreven in de Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Economische Gemeenschap en Turkije en andere dan kolen- en staalproducten zoals omschreven in de Overeenkomst tussen de Europese Gemeenschap voor Kolen en Staal en de Republiek Turkije betreffende de handel in producten waarop het Verdrag tot oprichting van de Europese Gemeenschap voor Kolen en Staal van toepassing is. , mits deze materialen in de Gemeenschap bewerkingen hebben ondergaan die ingrijpender zijn dan die bedoeld in artikel 7. Het is niet noodzakelijk dat deze materialen toereikende be- of verwerkingen hebben ondergaan.
 
-##### Artikel 4. Bilaterale cumulatie in de Voormalige Joegoslavische Republiek Macedonië
+2. Indien de in de Gemeenschap verrichte be- of verwerkingen niet ingrijpender zijn dan de in artikel 7 bedoelde be- of verwerkingen, wordt het verkregen product alleen als van oorsprong uit de Gemeenschap beschouwd indien de aldaar toegevoegde waarde groter is dan die van de gebruikte materialen van oorsprong uit een van de andere in lid 1 bedoelde landen. Is dit niet het geval, dan wordt het verkregen product beschouwd als van oorsprong uit het land dat de hoogste waarde vertegenwoordigt van de bij de vervaardiging in de Gemeenschap gebruikte materialen van oorsprong.
 
-Materialen van oorsprong uit de Gemeenschap worden beschouwd materialen van oorsprong uit de Voormalige Joegoslavische Republiek Macedonië te zijn indien ze in een aldaar verkregen product zijn opgenomen. Het is niet noodzakelijk dat deze materialen een toereikende be- of verwerking hebben ondergaan, mits ze een be- of verwerking hebben ondergaan die meer omvat dan de in artikel 7 genoemde be- of verwerkingen.
+3. Producten van oorsprong uit een van de in de lid 1 genoemde landen en grondgebieden die in de Gemeenschap geen enkele be- of verwerking ondergaan, behouden hun oorsprong wanneer zij naar een van deze landen worden uitgevoerd.
+
+4. De cumulatie waarin dit artikel voorziet, kan slechts worden toegepast indien:
+
+- a. tussen de landen of grondgebieden die betrokken zijn bij het verwerven van de oorsprong en het land van bestemming een preferentiële handelsovereenkomst overeenkomstig [artikel XXIV van de Algemene Overeenkomst betreffende tarieven en handel 1994](https://wetten.overheid.nl/jci1.3:c:BWBV0001160&artikel=XXIV) (GATT) van toepassing is;
+
+- b. materialen en producten de oorsprong hebben verkregen door toepassing van oorsprongsregels die gelijk zijn aan die van dit protocol, en
+
+- c. kennisgevingen zijn gepubliceerd waaruit blijkt dat is voldaan aan de vereisten voor de toepassing van cumulatie in de C-reeks van het Publicatieblad van de Europese Unie en in de voormalige Joegoslavische Republiek Macedonië volgens zijn eigen procedures.
+
+De cumulatie waarin dit artikel voorziet, is van toepassing met ingang van de datum die is aangegeven in de kennisgeving in de C-reeks van het Publicatieblad van de Europese Unie.
+
+De Gemeenschap zal de voormalige Joegoslavische Republiek Macedonië door tussenkomst van de Europese Commissie nadere gegevens verstrekken over de overeenkomsten en de daarin opgenomen oorsprongsregels, die met de andere in lid 1 genoemde landen worden toegepast.
+
+De cumulatie geldt niet voor de in bijlage V vermelde producten.
+
+##### Artikel 4. Cumulatie in de voormalige Joegoslavische Republiek Macedonië
+
+1. Onverminderd [artikel 2, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=II&artikel=2&z=2007-01-01&g=2007-01-01), worden producten als van oorsprong uit de voormalige Joegoslavische Republiek Macedonië beschouwd indien zij aldaar zijn verkregen door be- of verwerking van materialen van oorsprong uit de voormalige Joegoslavische Republiek Macedonië, de Gemeenschap of een ander land dat deelneemt aan het stabilisatie- en associatieproces van de Europese Unie1)Zoals vastgesteld in de conclusies van de Raad van april 1997 en in de mededeling van de Commissie van mei 1999 over het stabilisatie- en associatieproces in de landen van Zuidoost-Europa. , of door be- of verwerking van materialen van oorsprong uit Turkije waarop Besluit nr. 1/95 van de Associatieraad EG-Turkije van 22 december 1995 van toepassing is 2)Besluit nr. 1/95 van de Associatieraad EG-Turkije van 22 december 1995 geldt voor producten andere dan landbouwproducten zoals omschreven in de Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Economische Gemeenschap en Turkije en andere dan kolen- en staalproducten zoals omschreven in de Overeenkomst tussen de Europese Gemeenschap voor Kolen en Staal en de Republiek Turkije betreffende de handel in producten waarop het Verdrag tot oprichting van de Europese Gemeenschap voor Kolen en Staal van toepassing is. , mits deze materialen in de Gemeenschap bewerkingen hebben ondergaan die ingrijpender zijn dan die bedoeld in artikel 7. Het is niet noodzakelijk dat deze materialen toereikende be- of verwerkingen hebben ondergaan.
+
+2. Indien de in de voormalige Joegoslavische Republiek Macedonië verrichte be- of verwerkingen niet ingrijpender zijn dan de in artikel 7 bedoelde be- of verwerkingen, wordt het verkregen product alleen als van oorsprong uit de voormalige Joegoslavische Republiek Macedonië beschouwd indien de aldaar toegevoegde waarde groter is dan die van de gebruikte materialen van oorsprong uit een van de andere in lid 1 bedoelde landen en gebieden. Is dit niet het geval, dan wordt het verkregen product beschouwd als van oorsprong uit het land dat de hoogste waarde vertegenwoordigt van de bij de vervaardiging in de voormalige Joegoslavische Republiek Macedonië gebruikte materialen van oorsprong.
+
+3. Producten van oorsprong uit een van de in de lid 1 genoemde landen en grondgebieden die in de voormalige Joegoslavische Republiek Macedonië geen enkele be- of verwerking ondergaan, behouden hun oorsprong wanneer zij naar een van deze landen worden uitgevoerd.
+
+4. De cumulatie waarin dit artikel voorziet, kan slechts worden toegepast indien:
+
+- a. tussen de landen of grondgebieden die betrokken zijn bij het verwerven van de oorsprong en het land van bestemming een preferentiële handelsovereenkomst overeenkomstig [artikel XXIV van de GATT](https://wetten.overheid.nl/jci1.3:c:BWBV0001160&artikel=XXIV) van toepassing is;
+
+- b. materialen en producten de oorsprong hebben verkregen door toepassing van oorsprongsregels die gelijk zijn aan die van dit protocol, en
+
+- c. kennisgevingen zijn gepubliceerd waaruit blijkt dat is voldaan aan de vereisten voor de toepassing van cumulatie in de C-reeks van het Publicatieblad van de Europese Unie en in de voormalige Joegoslavische Republiek Macedonië volgens zijn eigen procedures.
+
+De cumulatie waarin dit artikel voorziet, is van toepassing met ingang van de datum die is aangegeven in de kennisgeving in de C-reeks van het Publicatieblad van de Europese Unie.
+
+De voormalige Joegoslavische Republiek Macedonië verstrekt de Gemeenschap door tussenkomst van de Europese Commissie nadere bijzonderheden over de overeenkomsten, zoals de datum van inwerkingtreding en de erin opgenomen oorsprongsregels, die met de andere in lid 1 genoemde landen worden toegepast.
+
+De cumulatie geldt niet voor de in bijlage V vermelde producten.
 
 ##### Artikel 5. Geheel en al verkregen producten
 
-1. Als geheel en al in de Gemeenschap of in de Voormalige Joegoslavische Republiek Macedonië verkregen worden beschouwd:
+1. Als geheel en al in de Gemeenschap of in de voormalige Joegoslavische Republiek Macedonië verkregen worden beschouwd:
 
-- a. aldaar uit de bodem of zeebodem gewonnen producten;
+- a. aldaar uit de bodem of zeebodem gewonnen minerale producten;
 
 - b. aldaar geoogste producten van het plantenrijk;
 
-- c. aldaar geboren en opgefokte levende dieren;
+- c. aldaar geboren en gehouden levende dieren;
 
-- d. producten afkomstig van aldaar opgefokte levende dieren;
+- d. producten afkomstig van aldaar gehouden levende dieren;
 
-- e. voortbrengselen van de aldaar bedreven jacht en visserij;
+- e. producten van de aldaar bedreven jacht en visserij;
 
-- f. producten van de zeevisserij en andere door hun schepen buiten de territoriale wateren van de Gemeenschap of de Voormalige Joegoslavische Republiek Macedonië uit de zee gewonnen producten;
+- f. producten van de zeevisserij en andere door hun schepen buiten de territoriale wateren van de Gemeenschap of de voormalige Joegoslavische Republiek Macedonië uit de zee gewonnen producten;
 
-- g. producten uitsluitend uit de onder f bedoelde producten aan boord van hun fabrieksschepen vervaardigd;
+- g. producten die uitsluitend uit de onder f) bedoelde producten aan boord van hun fabrieksschepen zijn vervaardigd;
 
-- h. aldaar verzamelde gebruikte artikelen die slechts voor de terugwinning van grondstoffen kunnen dienen, met inbegrip van gebruikte banden die uitsluitend geschikt zijn om van een nieuw loopvlak te worden voorzien of slechts als afval kunnen worden gebruikt;
+- h. aldaar verzamelde gebruikte artikelen die slechts voor de terugwinning van grondstoffen kunnen dienen, met inbegrip van gebruikte banden die uitsluitend geschikt zijn om van een nieuw loopvak te worden voorzien of slechts als afval kunnen worden gebruikt;
 
 - i. afval en schroot afkomstig van aldaar verrichte fabrieksbewerkingen;
 
 - j. producten, gewonnen uit de zeebodem of -ondergrond buiten de territoriale wateren, mits zij alleen het recht hebben op ontginning van deze bodem of ondergrond;
 
-- k. goederen die aldaar uitsluitend uit de onder a tot en met j bedoelde producten zijn vervaardigd.
+- k. goederen die aldaar uitsluitend uit de onder a) tot en met j) bedoelde producten zijn vervaardigd.
 
-2. De termen „hun schepen" en "hun fabrieksschepen" in lid 1, onder f en g, zijn slechts van toepassing op schepen en fabrieksschepen
+2. De termen „hun schepen” en „hun fabrieksschepen” in lid 1, onder f) en g), zijn slechts van toepassing op schepen en fabrieksschepen:
 
-- a. die in een lidstaat van de Gemeenschap of in de Voormalige Joegoslavische Republiek Macedonië zijn ingeschreven of geregistreerd;
+- a. die in een lidstaat of in de voormalige Joegoslavische Republiek Macedonië zijn ingeschreven of geregistreerd;
 
-- b. die de vlag van een lidstaat van de Gemeenschap of van de Voormalige Joegoslavische Republiek Macedonië voeren;
+- b. die de vlag van een lidstaat of van de voormalige Joegoslavische Republiek Macedonië voeren;
 
-- c. die voor ten minste 50 procent toebehoren aan onderdanen van lidstaten van de Gemeenschap of van de Voormalige Joegoslavische Republiek Macedonië of aan een onderneming die haar hoofdkantoor in een van deze staten heeft en waarvan de bedrijfsvoerder(s), de voorzitter van de raad van bestuur of van toezicht en de meerderheid van de leden van deze raden onderdanen zijn van een lidstaat van de Gemeenschap of van de Voormalige Joegoslavische Republiek Macedonië, en waarvan bovendien, in het geval van personenvennootschappen of vennootschappen met beperkte aansprakelijkheid, ten minste de helft van het kapitaal aan deze staten of aan openbare lichamen of onderdanen van deze staten toebehoort;
+- c. die voor ten minste 50% toebehoren aan onderdanen van lidstaten of onderdanen van de voormalige Joegoslavische Republiek Macedonië of aan een vennootschap die haar hoofdkantoor in een van deze staten heeft en waarvan de bedrijfsvoerder(s), de voorzitter van de raad van bestuur of van toezicht en de meerderheid van de leden van deze raden onderdaan zijn van een lidstaat of onderdaan van de voormalige Joegoslavische Republiek Macedonië en waarvan bovendien, in het geval van personenvennootschappen of vennootschappen met beperkte aansprakelijkheid, ten minste de helft van het kapitaal toebehoort aan deze staten of aan openbare lichamen of onderdanen van deze staten;
 
-- d. waarvan de kapitein en de officieren onderdanen zijn van lidstaten van de Gemeenschap of van de Voormalige Joegoslavische Republiek Macedonië; en
+- d. waarvan de kapitein en de officieren onderdanen zijn van lidstaten of van de voormalige Joegoslavische Republiek Macedonië, en
 
-- e. waarvan de bemanning voor ten minste 75 procent uit onderdanen van lidstaten van de Gemeenschap of van de Voormalige Joegoslavische Republiek Macedonië bestaat.
+- e. waarvan de bemanning voor ten minste 75 procent uit onderdanen van lidstaten of van de voormalige Joegoslavische Republiek Macedonië bestaat.
 
 ##### Artikel 6. Toereikende bewerking of verwerking
 
-1. Niet geheel en al verkregen producten worden geacht een toereikende bewerking of verwerking te hebben ondergaan in de zin van artikel 2, indien aan de voorwaarden van de lijst in Bijlage II is voldaan.
+1. Voor de toepassing van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=II&artikel=2&z=2007-01-01&g=2007-01-01) worden producten die niet geheel en al verkregen zijn, geacht een toereikende bewerking of verwerking te hebben ondergaan indien aan de voorwaarden van de lijst in bijlage II is voldaan.
 
-In deze lijst is voor alle onder de overeenkomstig vallende producten aangegeven welke be- of verwerkingen niet van oorsprong zijnde materialen moeten ondergaan om het karakter van product van oorsprong te verkrijgen en zijn slechts op deze materialen van toepassing. Dit betekent dat indien een product dat de oorsprong heeft verkregen doordat het aan de voorwaarden in die lijst voor dat product heeft voldaan, als materiaal gebruikt wordt bij de vervaardiging van een ander product, de voorwaarden die van toepassing zijn op het product waarin het wordt verwerkt daarvoor niet gelden. Er wordt dan geen rekening gehouden met de niet van oorsprong zijnde materialen die bij de vervaardiging ervan zijn gebruikt.
+De in de eerste alinea bedoelde voorwaarden geven voor alle onder de overeenkomst vallende producten aan welke be- of verwerkingen niet van oorsprong zijnde materialen moeten ondergaan om het karakter van product van oorsprong te verkrijgen, en zijn slechts op die materialen van toepassing. Dit betekent dat indien een product, dat de oorsprong heeft verkregen doordat het aan de voorwaarden in die lijst voor dat product voldoet, als materiaal wordt gebruikt bij de vervaardiging van een ander product, de voorwaarden die van toepassing zijn op het product waarin het wordt verwerkt daarvoor niet gelden. Er wordt dan geen rekening gehouden met de niet van oorsprong zijnde materialen die bij de vervaardiging ervan zijn gebruikt.
 
-2. In afwijking van lid 1 kunnen niet van oorsprong zijnde materialen die volgens de voorwaarden in de lijst bij de vervaardiging van een bepaald product niet mogen worden gebruikt, in de volgende gevallen toch worden gebruikt:
+2. In afwijking van lid 1 kunnen niet van oorsprong zijnde materialen die, volgens de voorwaarden in de lijst, bij de vervaardiging van een product niet mogen worden gebruikt, toch worden gebruikt, indien:
 
-- a. wanneer de totale waarde ervan niet hoger is dan 10 procent van de prijs af fabriek van het product;
+- a. de totale waarde ervan niet hoger is dan 10% van de prijs af fabriek van het product;
 
-- b. wanneer in de lijst een of meer percentages zijn gegeven voor de maximumwaarde van de materialen die niet van oorsprong zijn, en deze percentages door de toepassing van dit lid niet worden overschreden.
+- b. de in de lijst vermelde maximumwaarden voor niet van oorsprong zijnde materialen door de toepassing van dit lid niet worden overschreden.
 
-Dit lid is niet van toepassing op producten die zijn ingedeeld onder de hoofdstukken 50 tot en met 63 van het geharmoniseerd systeem.
+Dit lid is niet van toepassing op de producten die onder de hoofdstukken 50 tot en met 63 van het geharmoniseerde systeem zijn ingedeeld.
 
-3. De leden 1 en 2 zijn van toepassing onder voorbehoud van het bepaalde in artikel 7.
+3. De leden 1 en 2 zijn van toepassing onder voorbehoud van artikel 7.
 
 ##### Artikel 7. Ontoereikende bewerking of verwerking
 
-1. Behoudens het bepaalde in lid 2 worden de volgende be- of verwerkingen als ontoereikend beschouwd om de oorsprong te verlenen, ongeacht of aan de voorwaarden van artikel 6 is voldaan:
+1. Onverminderd lid 2 worden de volgende be- of verwerkingen als ontoereikend beschouwd om de oorsprong te verlenen, ongeacht of aan de voorwaarden van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=II&artikel=6&z=2007-01-01&g=2007-01-01) is voldaan:
 
 - a. behandelingen om de producten tijdens vervoer en opslag in goede staat te bewaren;
 
-- b. het splitsen en samenvoegen van colli;
+- b. splitsen en samenvoegen van colli;
 
-- c. het wassen, schoonmaken; het stofvrij maken, verwijderen van roest, olie, verf of dergelijke;
+- c. wassen, schoonmaken; stofvrij maken, verwijderen van roest, olie, verf of dergelijke;
 
-- d. het strijken of persen van textiel;
+- d. strijken of persen van textiel;
 
-- e. het schilderen of polijsten;
+- e. eenvoudig schilderen of polijsten;
 
-- f. het ontvliezen of doppen, het geheel of gedeeltelijk bleken, het polijsten of vlampolijsten van granen of rijstdoppen;
+- f. ontvliezen of doppen, geheel of gedeeltelijk bleken, polijsten of vlampolijsten van granen of rijstdoppen;
 
-- g. het kleuren van suiker of het vormen van suikerklonten;
+- g. kleuren van suiker of vormen van suikerklonten;
 
-- h. het pellen, ontpitten of schillen van noten, vruchten of groenten;
+- h. pellen, ontpitten of schillen van noten, vruchten of groenten;
 
-- i. het aanscherpen, vermalen of versnijden;
+- i. aanscherpen, eenvoudig vermalen of eenvoudig versnijden;
 
-- j. het zeven, sorteren, classificeren, assorteren; (daaronder begrepen het samenstellen van sets van artikelen);
+- j. zeven, sorteren, classificeren, assorteren; (daaronder begrepen het samenstellen van stellen of assortimenten van artikelen);
 
-- k. het bottelen, het verpakken in blikken, flesjes, zakken, dozen of andere omhulsels, bevestigen op kaarten of platen, en alle andere eenvoudige verrichtingen in verband met de opmaak;
+- k. eenvoudig plaatsen in flessen, flacons, blikken, zakken, kratten of dozen, bevestigen op kaarten of platen en alle andere eenvoudige handelingen in verband met de opmaak;
 
-- l. het aanbrengen of opdrukken op de producten zelf of hun verpakking van merken, etiketten, beeldmerken of andere soortgelijke onderscheidende tekens;
+- l. aanbrengen of opdrukken van merken, etiketten, beeldmerken of andere soortgelijke onderscheidingstekens op de producten zelf of op de verpakking;
 
-- m. het mengen van producten, ook van verschillende soorten;
+- m. eenvoudig mengen van producten, ook van verschillende soorten; het mengen van suiker met andere stoffen;
 
-- n. het samenvoegen van delen van artikelen tot een volledig artikel dan wel het uit elkaar nemen van artikelen in onderdelen;
+- n. eenvoudig samenvoegen van delen van artikelen tot een volledig artikel dan wel het uit elkaar nemen van artikelen in onderdelen;
 
-- o. twee of meer van de onder a tot en met n vermelde behandelingen tezamen;
+- o. twee of meer van de onder a) tot en met n) vermelde behandelingen tezamen;
 
-- p. het slachten van dieren.
+- p. slachten van dieren.
 
-2. Om te bepalen of de be- of verwerkingen die een bepaald product heeft ondergaan ontoereikend zijn in de zin van lid 1 worden alle be- of verwerkingen die dit product in de Gemeenschap of in de Voormalige Joegoslavische Republiek Macedonië heeft ondergaan tezamen genomen.
+2. Om te bepalen of de be- of verwerkingen die een bepaald product heeft ondergaan ontoereikend zijn in de zin van lid 1 worden alle be- of verwerkingen die dit product in de Gemeenschap of in de voormalige Joegoslavische Republiek Macedonië heeft ondergaan tezamen genomen.
 
 ##### Artikel 8. Determinerende eenheid
 
-1. De determinerende eenheid voor de toepassing van de bepalingen van dit Protocol is het product dat volgens de nomenclatuur van het geharmoniseerde systeem als de basiseenheid wordt beschouwd.
+1. De determinerende eenheid voor de toepassing van de bepalingen van dit protocol is het product dat volgens de nomenclatuur van het geharmoniseerde systeem als de basiseenheid wordt beschouwd.
 
-Hieruit volgt dat:
+Hieruit volgt:
 
 - a. wanneer een product, bestaande uit een groep of verzameling van artikelen, onder één enkele post van het geharmoniseerde systeem wordt ingedeeld, het geheel de in aanmerking te nemen eenheid vormt;
 
-- b. wanneer een zending uit een aantal eendere producten bestaat die onder dezelfde post van het geharmoniseerde systeem worden ingedeeld, elk product voor de toepassing van de bepalingen van dit Protocol afzonderlijk moet worden genomen.
+- b. wanneer een zending bestaat uit een aantal eendere producten die onder dezelfde post van het geharmoniseerde systeem worden ingedeeld, elk product voor de toepassing van de bepalingen van dit protocol afzonderlijk moet worden genomen.
 
 2. Wanneer volgens algemene regel 5 voor de interpretatie van het geharmoniseerde systeem de verpakking meetelt voor het vaststellen van de indeling, telt deze ook mee voor het vaststellen van de oorsprong.
 
 ##### Artikel 9. Accessoires, vervangingsonderdelen en gereedschappen
 
-Accessoires, vervangingsonderdelen en gereedschappen die samen met materieel, machines, apparaten of voertuigen worden geleverd en deel uitmaken van de normale uitrusting daarvan en in de prijs daarvan zijn begrepen of niet afzonderlijk in rekening worden gebracht, worden geacht één geheel te vormen met het materieel en de machines, apparaten of voertuigen in kwestie.
+Accessoires, vervangingsonderdelen en gereedschappen die samen met materieel, machines, apparaten of voertuigen worden geleverd en deel uitmaken van de normale uitrusting daarvan en in de prijs daarvan zijn begrepen of niet afzonderlijk in rekening worden gebracht, worden geacht één geheel te vormen met het materieel, de machines, apparaten of voertuigen in kwestie.
 
-##### Artikel 10. Stellen of assortimenten
+##### Artikel 10. Stellen en assortimenten
 
-Stellen of assortimenten in de zin van algemene regel 3 voor de interpretatie van het geharmoniseerde systeem, worden als van oorsprong beschouwd indien alle samenstellende delen van oorsprong zijn. Een stel of assortiment bestaande uit producten van oorsprong en producten die niet van oorsprong zijn, wordt evenwel als van oorsprong beschouwd indien de waarde van de producten die niet van oorsprong zijn niet meer dan 15 procent van de prijs af fabriek van het stel of assortiment bedraagt.
+Stellen of assortimenten in de zin van algemene regel 3 voor de interpretatie van het geharmoniseerde systeem, worden als van oorsprong beschouwd indien alle samenstellende delen van oorsprong zijn. Een stel of assortiment bestaande uit producten van oorsprong en producten die niet van oorsprong zijn, wordt als van oorsprong beschouwd indien de waarde van de producten die niet van oorsprong zijn niet meer dan 15% van de prijs af fabriek van het stel of assortiment bedraagt.
 
 ##### Artikel 11. Neutrale elementen
 
@@ -1670,313 +1708,251 @@ Om te bepalen of een product van oorsprong is, is het niet noodzakelijk de oorsp
 
 - b. fabrieksuitrusting;
 
-- c. machines en werktuigen.
+- c. machines en werktuigen;
+
+- d. goederen die in de uiteindelijke samenstelling van het product niet voorkomen en ook niet bedoeld waren daarin voor te komen.
 
 ## TITEL III. TERRITORIALE VOORWAARDEN
 
 ##### Artikel 12. Territorialiteitsbeginsel
 
-1. Aan de in titel II genoemde voorwaarden met betrekking tot het verkrijgen van de oorsprong moet zonder onderbreking in de Gemeenschap of in de Voormalige Joegoslavische Republiek Macedonië zijn voldaan.
+1. Aan de in titel II genoemde voorwaarden voor het verkrijgen van de oorsprong moet zonder onderbreking in de Gemeenschap of in de voormalige Joegoslavische Republiek Macedonië zijn voldaan, behoudens de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=II&artikel=3&z=2007-01-01&g=2007-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=II&artikel=4&z=2007-01-01&g=2007-01-01), en lid 3 van dit artikel.
 
-2. Producten van oorsprong die uit de Gemeenschap of deVoormalige Joegoslavische Republiek Macedonië naar een ander land worden uitgevoerd en daarna weer worden ingevoerd, kunnen niet langer als producten van oorsprong worden beschouwd, tenzij ten genoegen van de douaneautoriteiten kan worden aangetoond dat:
+2. Onverminderd de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=II&artikel=3&z=2007-01-01&g=2007-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=II&artikel=4&z=2007-01-01&g=2007-01-01) worden producten van oorsprong die uit de Gemeenschap of de voormalige Joegoslavische Republiek Macedonië naar een ander land worden uitgevoerd en vervolgens opnieuw worden ingevoerd, als niet van oorsprong beschouwd, tenzij ten genoegen van de douaneautoriteiten wordt aangetoond dat:
 
-- a. de wederingevoerde goederen dezelfde goederen zijn als de eerder uitgevoerde goederen; en
+- a. de terugkerende goederen dezelfde zijn als de eerder uitgevoerde goederen, en
 
-- b. dat zij tijdens de periode dat ze waren uitgevoerd geen andere be- of verwerkingen hebben ondergaan dan die welke noodzakelijk waren om ze in goede staat te bewaren.
+- b. de goederen tijdens de periode dat zij waren uitgevoerd geen andere be- of verwerkingen hebben ondergaan dan die welke noodzakelijk waren om ze in goede staat te bewaren.
+
+3. Een buiten de Gemeenschap of de voormalige Joegoslavische Republiek Macedonië verrichte be- of verwerking van de uit de Gemeenschap of de voormalige Joegoslavische Republiek Macedonië uitgevoerde en later wederingevoerde materialen ontneemt niet het karakter van product van oorsprong overeenkomstig titel II indien:
+
+- a. de genoemde materialen geheel en al in de Gemeenschap of de voormalige Joegoslavische Republiek Macedonië zijn verkregen dan wel, voorafgaand aan de uitvoer, aldaar een meer ingrijpende be- of verwerking dan de in artikel 7 vermelde hebben ondergaan, en
+
+- b. ten genoegen van de douaneautoriteiten kan worden aangetoond dat:
+
+- i. de wederingevoerde goederen het resultaat zijn van de be- of verwerking van de uitgevoerde materialen, en
+
+- ii. de totale buiten de Gemeenschap of de voormalige Joegoslavische Republiek Macedonië toegevoegde waarde niet meer dan 10% bedraagt van de prijs af fabriek van het als product van oorsprong aangemerkte eindproduct.
+
+4. Voor de toepassing van lid 3 is titel II betreffende het verlenen van de oorsprong niet van toepassing op buiten de Gemeenschap of de voormalige Joegoslavische Republiek Macedonië verrichte be- of verwerkingen. Wanneer evenwel, in de lijst van bijlage II, voor de vaststelling van de oorsprong van het betrokken eindproduct een regel is opgenomen die de maximumwaarde van alle gebruikte niet van oorsprong zijnde materialen vaststelt, mogen de totale waarde van de niet van oorsprong zijnde materialen die in het gebied van de betrokken partij worden verwerkt en de totale buiten de Gemeenschap of de voormalige Joegoslavische Republiek Macedonië overeenkomstig dit artikel toegevoegde waarde het vermelde percentage niet overschrijden.
+
+5. Voor de toepassing van de leden 3 en 4 wordt onder „totale toegevoegde waarde” verstaan alle buiten de Gemeenschap of de voormalige Joegoslavische Republiek Macedonië gemaakte kosten, met inbegrip van de waarde van de toegevoegde materialen.
+
+6. De leden 3 en 4 zijn niet van toepassing op producten die niet aan de voorwaarden van de lijst in bijlage II voldoen of die slechts kunnen worden aangemerkt als toereikend te zijn be- of verwerkt door toepassing van de algemene tolerantieregel van [artikel 6, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=II&artikel=6&z=2007-01-01&g=2007-01-01).
+
+7. De leden 3 en 4 zijn niet van toepassing op producten van de hoofdstukken 50 tot en met 63 van het geharmoniseerde systeem.
+
+8. Buiten de Gemeenschap of de voormalige Joegoslavische Republiek Macedonië verrichte be- of verwerkingen als bedoeld in dit artikel vinden plaats in het kader van de regeling passieve veredeling of een soortgelijke regeling.
 
 ##### Artikel 13. Rechtstreeks vervoer
 
-1. De bij deze overeenkomst vastgestelde preferentiële regeling is uitsluitend van toepassing op producten die aan de voorwaarden van dit Protocol voldoen en die rechtstreeks tussen de Gemeenschap en de Voormalige Joegoslavische Republiek Macedonië zijn vervoerd. Producten die één enkele zending vormen, kunnen via een ander grondgebied worden vervoerd, eventueel met overslag of tijdelijke opslag op dit grondgebied, voor zover ze in het land van doorvoer of opslag onder toezicht van de douane blijven en aldaar geen andere behandelingen ondergaan dan lossen en opnieuw laden of behandelingen om ze in goede staat te bewaren.
+1. De bij deze overeenkomst vastgestelde preferentiële regeling is uitsluitend van toepassing op producten die aan de voorwaarden van dit protocol voldoen en die rechtstreeks tussen de Gemeenschap en de voormalige Joegoslavische Republiek Macedonië of over het grondgebied van een in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=II&artikel=3&z=2007-01-01&g=2007-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=II&artikel=4&z=2007-01-01&g=2007-01-01) genoemd ander land of gebied zijn vervoerd. Goederen die één enkele zending vormen, kunnen via een ander grondgebied worden vervoerd, eventueel met overslag of tijdelijke opslag op dit grondgebied, voor zover ze in het land van doorvoer of opslag onder toezicht van de douane blijven en aldaar geen andere behandelingen ondergaan dan lossen en opnieuw laden of behandelingen om ze in goede staat te bewaren.
 
-Producten van oorsprong uit de Gemeenschap of de Voormalige Joegoslavische Republiek Macedonië mogen per pijpleiding via een ander grondgebied dan dat van de Gemeenschap of van de Voormalige Joegoslavische Republiek Macedonië worden vervoerd.
+Producten van oorsprong uit de Gemeenschap of de voormalige Joegoslavische Republiek Macedonië mogen per pijpleiding via een ander grondgebied dan dat van de Gemeenschap of van de voormalige Joegoslavische Republiek Macedonië worden vervoerd.
 
-2. Het bewijs dat aan de in lid 1 bedoelde voorwaarden is voldaan, wordt geleverd door overlegging van de volgende stukken aan de douaneautoriteiten van het land van invoer:
+2. Het bewijs dat aan de voorwaarden van lid 1 is voldaan, wordt geleverd door overlegging van de volgende stukken aan de douane van het land van invoer:
 
-- a. een enkel vervoerdocument dat in het land van uitvoer is opgesteld ter dekking van het vervoer door het land van doorvoer, of
+- a. een enkel vervoerdocument dat het vervoer dekt van het land van uitvoer door het land van doorvoer, of
 
-- b. een door de douaneautoriteiten van het land van doorvoer afgegeven certificaat, waarin:
+- b. een door de douaneautoriteiten van het land van doorvoer afgegeven certificaat:
 
-- i. de producten nauwkeurig zijn omschreven,
+- i. met een nauwkeurige omschrijving van de goederen;
 
-- ii. de data zijn vermeld waarop de producten gelost en opnieuw geladen zijn, in voorkomend geval onder opgave van de naam van de gebruikte schepen, of van de andere gebruikte vervoermiddelen; en
+- ii. met de data waarop de producten gelost en opnieuw geladen zijn, in voorkomend geval onder vermelding van de gebruikte schepen of andere vervoermiddelen, en
 
-- iii. een verklaring betreffende de voorwaarden waarop de producten in het land van doorvoer verbleven;
+- iii. met een verklaring betreffende de voorwaarden waarop de goederen in het land van doorvoer verbleven, of
 
-- c. hetzij, bij gebreke van bovengenoemde stukken, enig ander bewijsstuk.
+- c. bij gebreke van bovengenoemde stukken, enig ander bewijsstuk.
 
 ##### Artikel 14. Tentoonstellingen
 
-1. De overeenkomst is van toepassing bij de invoer van producten van oorsprong die naar een tentoonstelling in een ander land dan een lidstaat van de Gemeenschap of de Voormalige Joegoslavische Republiek Macedonië zijn verzonden, mits ten genoegen van de douaneautoriteiten wordt aangetoond dat:
+1. De overeenkomst is van toepassing op producten van oorsprong die naar een tentoonstelling in een ander dan de in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=II&artikel=3&z=2007-01-01&g=2007-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=II&artikel=4&z=2007-01-01&g=2007-01-01) genoemde landen zijn verzonden en die na de tentoonstelling zijn verkocht en in de Gemeenschap of in de voormalige Joegoslavische Republiek Macedonië worden ingevoerd, mits ten genoegen van de douaneautoriteiten wordt aangetoond dat:
 
-- a. een exporteur deze producten vanuit de Gemeenschap of de Voormalige Joegoslavische Republiek Macedonië naar het land van de tentoonstelling heeft verzonden en ze daar heeft tentoongesteld;
+- a. een exporteur deze producten vanuit de Gemeenschap of de voormalige Joegoslavische Republiek Macedonië naar het land van de tentoonstelling heeft verzonden en ze daar heeft tentoongesteld;
 
-- b. deze exporteur de producten heeft verkocht of op andere wijze afgestaan aan een geadresseerde in de Gemeenschap of de Voormalige Joegoslavische Republiek Macedonië;
+- b. deze exporteur de producten heeft verkocht of op andere wijze afgestaan aan een geadresseerde in de Gemeenschap of de voormalige Joegoslavische Republiek Macedonië;
 
-- c. de producten tijdens of onmiddellijk na de tentoonstelling in dezelfde staat als waarin zij naar de tentoonstelling zijn gegaan zijn verzonden; en
+- c. de producten tijdens of onmiddellijk na de tentoonstelling in dezelfde staat als waarin zij naar de tentoonstelling zijn gegaan zijn verzonden, en
 
-- d. de producten, vanaf het moment dat zij naar de tentoonstelling werden verzonden, niet voor andere doeleinden zijn gebruikt dan om op die tentoonstelling te worden vertoond.
+- d. de producten vanaf het moment dat zij naar de tentoonstelling werden verzonden, niet voor andere doeleinden zijn gebruikt dan om op die tentoonstelling te worden vertoond.
 
-2. Een bewijs van de oorsprong wordt overeenkomstig de bepalingen van titel V afgegeven of opgesteld en op de normale wijze bij de douaneautoriteiten van het land van invoer ingediend. Op dit bewijs zijn de naam en het adres van de tentoonstelling vermeld. Zo nodig kunnen aanvullende bewijsstukken worden gevraagd ten aanzien van de aard van de producten en de voorwaarden waarop zij werden tentoongesteld.
+2. Een bewijs van de oorsprong wordt overeenkomstig de bepalingen van titel V afgegeven of opgesteld en op de normale wijze bij de douane van het land van invoer ingediend. Op dit bewijs zijn de naam en het adres van de tentoonstelling vermeld. Indien nodig kunnen aanvullende bewijsstukken worden verlangd ten aanzien van de aard van de producten en de voorwaarden waarop zij waren tentoongesteld.
 
 3. Lid 1 is van toepassing op alle tentoonstellingen, beurzen of soortgelijke openbare evenementen met een commercieel, industrieel, agrarisch of ambachtelijk karakter die niet voor particuliere doeleinden in winkels of bedrijfsruimten met het oog op de verkoop van buitenlandse producten worden gehouden, en gedurende welke de producten onder douanetoezicht zijn gebleven.
 
-## TITEL IV. TERUGGAVE OF VRIJSTELLING VAN RECHTEN
+## TITEL IV. TERUGGAVE EN VRIJSTELLING VAN RECHTEN
 
-##### Artikel 15. Verbod op teruggave of vrijstelling van rechten
+##### Artikel 15. Verbod op de teruggave of vrijstelling van douanerechten
 
-1. Niet van oorsprong zijnde materialen die gebruikt zijn bij de vervaardiging van producten van oorsprong uit de Gemeenschap of de Voormalige Joegoslavische Republiek Macedonië waarvoor overeenkomstig de bepalingen van titel V een bewijs van oorsprong is afgegeven of opgesteld, komen in de Gemeenschap of in de Voormalige Joegoslavische Republiek Macedonië niet in aanmerking voor de teruggave of vrijstelling van douanerechten in welke vorm dan ook."
+1. Niet van oorsprong zijnde materialen die gebruikt zijn bij de vervaardiging van producten van oorsprong uit de Gemeenschap, de voormalige Joegoslavische Republiek Macedonië of een van de andere in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=II&artikel=3&z=2007-01-01&g=2007-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=II&artikel=4&z=2007-01-01&g=2007-01-01) genoemde landen of gebieden waarvoor overeenkomstig titel V een bewijs van oorsprong is afgegeven of opgesteld, komen in de Gemeenschap of in de voormalige Joegoslavische Republiek Macedonië niet in aanmerking voor teruggave of vrijstelling van douanerechten in welke vorm dan ook.
 
-2. Het verbod in lid 1 is van toepassing op elke regeling voor algehele of gedeeltelijke terugbetaling of vrijstelling van douanerechten of heffingen van gelijke werking die in de Gemeenschap of in de Voormalige Joegoslavische Republiek Macedonië van toepassing is op materialen die bij de vervaardiging worden gebruikt, indien een dergelijke terugbetaling of vrijstelling uitdrukkelijk of feitelijk wordt toegekend indien de producten die uit genoemde materialen zijn verkregen worden uitgevoerd, doch niet van toepassing is indien deze producten voor binnenlands gebruik zijn bestemd.
+2. Het verbod in lid 1 is van toepassing op elke regeling voor algehele gedeeltelijke terugbetaling of vrijstelling van douanerechten of heffingen van gelijke werking die in de Gemeenschap of in de voormalige Joegoslavische Republiek Macedonië van toepassing is op materialen die bij de vervaardiging worden gebruikt indien een dergelijke terugbetaling of vrijstelling uitdrukkelijk of feitelijk wordt toegekend indien de producten die uit genoemde materialen zijn verkregen, worden uitgevoerd, doch niet van toepassing is indien deze producten voor binnenlands gebruik zijn bestemd.
 
-3. De exporteur van producten die door een bewijs van oorsprong zijn gedekt, dient op verzoek van de douaneautoriteiten steeds bereid te zijn alle stukken over te leggen waaruit blijkt dat geen teruggave of vrijstelling van rechten is verkregen ten aanzien van de bij de vervaardiging van de betrokken producten gebruikte materialen die niet van oorsprong zijn en dat alle douanerechten en heffingen van gelijke werking die op deze materialen van toepassing zijn, inderdaad zijn betaald.
+3. De exporteur van producten die door een bewijs van oorsprong zijn gedekt, moet op verzoek van de douane steeds alle stukken overleggen waaruit blijkt dat geen teruggave of vrijstelling van rechten is verkregen ten aanzien van de bij de vervaardiging van de betrokken producten gebruikte, niet van oorsprong zijnde materialen en dat alle douanerechten en heffingen van gelijke werking die op deze materialen van toepassing zijn, daadwerkelijk zijn betaald.
 
-4. De leden 1, 2 en 3 zijn ook van toepassing op de verpakking in de zin van artikel 8, lid 2, op accessoires, vervangingsonderdelen en gereedschappen in de zin van artikel 9 en op artikelen die deel uitmaken van een stel of assortiment in de zin van artikel 10, wanneer dergelijke artikelen niet van oorsprong zijn.
+4. De leden 1, 2 en 3 zijn ook van toepassing op de verpakking in de zin van artikel 8, lid 2, op accessoires, vervangingsonderdelen en gereedschappen in de zin van artikel 9 en op producten die deel uitmaken van een stel of assortiment in de zin van artikel 10, wanneer dergelijke producten niet van oorsprong zijn.
 
 5. De leden 1 tot en met 4 zijn uitsluitend van toepassing op materialen van de soort waarop de overeenkomst van toepassing is. Zij doen geen afbreuk aan het systeem van restituties bij de uitvoer van landbouwproducten overeenkomstig de bepalingen van de overeenkomst.
 
-6. In afwijking van lid 1 kan de Voormalige Joegoslavische Republiek Macedonië regelingen voor de terugbetaling of vrijstelling van douanerechten of heffingen van gelijke werking toepassen die van toepassing zijn op materialen die bij de vervaardiging van oorsprongsprodukten zijn gebruikt, op voorwaarde dat:
-
-- a. een douanerecht van 5% van toepassing blijft op produkten die zijn ingedeeld onder de hoofdstukken 25 tot en met 49 en 64 tot en met 97 van het geharmoniseerd systeem, of het in de voormalige Joegoslavische Republiek Macedonië geldende lagere recht;
-
-- b. een douanerecht van 10% van toepassing blijft op produkten die zijn ingedeeld onder de hoofdstukken 50 tot en met 63 van het geharmoniseerd systeem, of het in de voormalige Joegoslavische Republiek Macedonië geldende lagere recht.
-
-Dit artikel is vanaf 1 januari 2003 van toepassing. Lid 6 is tot en met 31 december 2005 van toepassing en kan in onderling overleg worden herzien.
-
-## TITEL V. BEWIJS VAN DE OORSPRONG
+## TITEL V. BEWIJS VAN OORSPRONG
 
 ##### Artikel 16. Algemene voorwaarden
 
-1. Deze Overeenkomst is van toepassing op produkten van oorsprong uit de Gemeenschap die in de Voormalige Joegoslavische Republiek Macedonië worden ingevoerd en produkten van oorsprong uit de Voormalige Joegoslavische Republiek Macedonië die in de Gemeenschap worden ingevoerd, op vertoon van
+1. Deze overeenkomst is van toepassing op producten van oorsprong uit de Gemeenschap die in de voormalige Joegoslavische Republiek Macedonië worden ingevoerd en producten van oorsprong uit de voormalige Joegoslavische Republiek Macedonië die in de Gemeenschap worden ingevoerd, op vertoon van
 
-- a. een certificaat inzake goederenverkeer EUR.1, waarvan het model in Bijlage III is opgenomen; of
+- a. een certificaat inzake goederenverkeer EUR.1, waarvan het model in bijlage III is opgenomen, of
 
-- b. in de in artikel 21, lid 1, bedoelde gevallen, een verklaring van de exporteur, waarvan de tekst in Bijlage IV is opgenomen, op een factuur, pakbon of een ander handelsdocument en waarin de producten duidelijk genoeg zijn omschreven om geïdentificeerd te kunnen worden (hierna „factuurverklaring" genoemd).
+- b. in de in [artikel 22, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=V&artikel=22&z=2007-01-01&g=2007-01-01), bedoelde gevallen, een verklaring van de exporteur (hierna „factuurverklaring” genoemd) op een factuur, pakbon of een ander handelsdocument, waarin de producten duidelijk genoeg zijn omschreven om geïdentificeerd te kunnen worden; de tekst van deze factuurverklaring is opgenomen in bijlage IV.
 
-2. In afwijking van lid 1 vallen producten van oorsprong in de zin van dit Protocol in de in artikel 26 bedoelde gevallen onder de toepassing van deze overeenkomst zonder dat een van de hierboven genoemde documenten behoeft te worden overgelegd.
+2. In afwijking van lid 1 vallen producten van oorsprong in de zin van dit protocol in de in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=V&artikel=27&z=2007-01-01&g=2007-01-01) bedoelde gevallen onder de toepassing van de overeenkomst zonder dat een van de in lid 1 genoemde documenten behoeft te worden overgelegd.
 
 ##### Artikel 17. Procedure voor de afgifte van een certificaat inzake goederenverkeer EUR.1
 
-1. Een certificaat inzake goederenverkeer EUR.1 (hierna „EUR.1– certificaat" genoemd) wordt afgegeven door de douaneautoriteiten van het land van uitvoer op schriftelijke aanvraag van de exporteur of, onder diens verantwoordelijkheid, van zijn gemachtigde vertegenwoordiger.
+1. Een certificaat inzake goederenverkeer EUR.1 wordt afgegeven door de douane van het land van uitvoer op schriftelijke aanvraag van de exporteur of, onder diens verantwoordelijkheid, van zijn gemachtigde vertegenwoordiger.
 
-2. Te dien einde vult de exporteur of diens gemachtigde vertegenwoordiger zowel het EUR.1-certificaat als het aanvraagformulier in. Modellen van beide formulieren zijn in Bijlage III opgenomen. Deze formulieren worden ingevuld in een van de talen waarin de overeenkomst is opgesteld, overeenkomstig de bepalingen van het nationale recht van het land van uitvoer. Indien de formulieren met de hand worden ingevuld, dient dit met inkt en in blokletters te gebeuren. De producten moeten worden omschreven in het daartoe bestemde vak en er mogen geen regels worden opengelaten. Indien dit vak niet volledig is ingevuld, wordt onder de laatste regel een horizontale lijn getrokken en het niet-ingevulde gedeelte doorgekruist.
+2. Te dien einde vult de exporteur of diens gemachtigde vertegenwoordiger zowel het certificaat inzake goederenverkeer EUR.1 als het aanvraagformulier in. Modellen van beide formulieren zijn in bijlage III opgenomen. Deze formulieren worden ingevuld in een van de talen waarin deze overeenkomst is opgesteld overeenkomstig het nationale recht van het land van uitvoer. Indien de formulieren met de hand worden ingevuld, dient dit met inkt en in blokletters te gebeuren. De producten moeten worden omschreven in het daartoe bestemde vak en er mogen geen regels worden opengelaten. Indien dit vak niet volledig is ingevuld, wordt onder de laatste regel een horizontale lijn getrokken en het niet-ingevulde gedeelte doorgekruist.
 
-3. De exporteur die om de afgifte van een EUR.1-certificaat verzoekt, dient op verzoek van de douaneautoriteiten van het land van uitvoer waar dit certificaat wordt afgegeven, steeds bereid te zijn de nodige documenten te overleggen waaruit blijkt dat de betrokken producten van oorsprong zijn en dat aan alle andere voorwaarden van dit Protocol is voldaan.
+3. De exporteur die om de afgifte van een certificaat inzake goederenverkeer EUR.1 verzoekt, dient op verzoek van de douane van het land van uitvoer waar dit certificaat wordt afgegeven, steeds de nodige documenten over te leggen waaruit blijkt dat de betrokken producten van oorsprong zijn en dat aan alle andere voorwaarden van dit protocol is voldaan.
 
-4. Het EUR.1-certificaat wordt afgegeven door de douaneautoriteiten van een lidstaat van de Gemeenschap of van de Voormalige Joegoslavische Republiek Macedonië indien de uit te voeren goederen kunnen worden beschouwd als producten van oorsprong uit de Gemeenschap of uit de Voormalige Joegoslavische Republiek Macedonië en indien aan de andere voorwaarden van dit Protocol is voldaan.
+4. Een certificaat inzake goederenverkeer EUR.1 wordt afgegeven door de douaneautoriteiten van een lidstaat van de Gemeenschap of van de voormalige Joegoslavische Republiek Macedonië indien de producten kunnen worden beschouwd als producten van oorsprong uit de Gemeenschap, de voormalige Joegoslavische Republiek Macedonië of een van de andere in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=II&artikel=3&z=2007-01-01&g=2007-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=II&artikel=4&z=2007-01-01&g=2007-01-01) genoemde landen of gebieden, en aan de andere voorwaarden van dit protocol is voldaan.
 
-5. De met de afgifte van EUR.1-certificaten belaste douaneautoriteiten nemen alle nodige maatregelen om te controleren of de producten inderdaad van oorsprong zijn en of aan alle andere voorwaarden van dit Protocol is voldaan. Met het oog hierop zijn zij gerechtigd bewijsstukken op te vragen, de boeken van de exporteur in te zien en alle andere controles te verrichten die zij dienstig achten. Deze douaneautoriteiten zien er ook op toe dat de in lid 2 bedoelde formulieren correct zijn ingevuld. Zij gaan met name na of het voor de omschrijving van de goederen bestemde vak zo is ingevuld dat frauduleuze toevoegingen niet mogelijk zijn.
+5. De met de afgifte van certificaten inzake goederenverkeer EUR.1 belaste douaneautoriteiten nemen alle nodige maatregelen om te controleren of de producten daadwerkelijk van oorsprong zijn, en gaan na of aan alle andere voorwaarden van dit protocol is voldaan. Met het oog hierop zijn zij gerechtigd bewijsstukken op te vragen, de administratie van de exporteur in te zien en alle andere controles te verrichten die zij dienstig achten. Zij zien er ook op toe dat de in lid 2 bedoelde formulieren correct zijn ingevuld. Met name wordt nagegaan of het voor de omschrijving van de goederen bestemde vak zodanig is ingevuld dat frauduleuze toevoegingen niet mogelijk zijn.
 
-6. De datum van afgifte van het EUR.1-certificaat wordt vermeld in vak 11 van het certificaat.
+6. De datum van afgifte van het certificaat inzake goederenverkeer EUR.1 wordt vermeld in vak 11 van het certificaat.
 
-7. Een EUR.1-certificaat wordt door de douaneautoriteiten afgegeven en ter beschikking van de exporteur gesteld zodra de goederen werkelijk worden uitgevoerd of wanneer het zeker is dat ze zullen worden uitgevoerd.
+7. Een certificaat inzake goederenverkeer EUR.1 wordt door de douane afgegeven en ter beschikking van de exporteur gesteld zodra de goederen werkelijk worden uitgevoerd of wanneer het zeker is dat zij zullen worden uitgevoerd.
 
-##### Artikel 18. Afgifte achteraf van een EUR.1-certificaat
+##### Artikel 18. Afgifte achteraf van een certificaat inzake goederenverkeer EUR.1
 
-1. In afwijking van artikel 17, lid 7, kan een EUR.1-certificaat bij wijze van uitzondering worden afgegeven na de uitvoer van de goederen waarop het betrekking heeft, indien
+1. In afwijking van [artikel 17, lid 7](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=V&artikel=17&z=2007-01-01&g=2007-01-01), kan een certificaat inzake goederenverkeer EUR.1 bij wijze van uitzondering na de uitvoer van de goederen waarop het betrekking heeft worden afgegeven, indien
 
-- a. dit door een vergissing, onopzettelijk verzuim of bijzondere omstandigheden niet bij de uitvoer is gebeurd;
+- a. dit door een vergissing, onopzettelijk verzuim of bijzondere omstandigheden niet bij de uitvoer is gebeurd, of
 
-- b. ten genoegen van de douaneautoriteiten wordt aangetoond dat het EUR.1-certificaat wel was afgegeven, maar bij invoer om technische redenen niet is aanvaard.
+- b. ten genoegen van de douane is aangetoond dat het certificaat inzake goederenverkeer EUR.1 wel is afgegeven, maar bij invoer om technische redenen niet is aanvaard.
 
-2. Met het oog op de toepassing van lid 1 dient de exporteur in zijn aanvraag de plaats en de datum van uitvoer te vermelden van de producten waarop het EUR.1-certificaat betrekking heeft, onder opgave van de redenen van zijn aanvraag.
+2. Met het oog op de toepassing van lid 1 dient de exporteur in zijn aanvraag de plaats en de datum van uitvoer te vermelden van de producten waarop het certificaat inzake goederenverkeer EUR.1 betrekking heeft, onder opgave van de redenen van zijn aanvraag.
 
-3. De douaneautoriteiten kunnen eerst tot afgifte achteraf van een EUR.1-certificaat overgaan na te hebben vastgesteld dat de gegevens in de aanvraag van de exporteur overeenstemmen met die in het desbetreffende dossier.
+3. Vóór de douane tot afgifte achteraf van een certificaat inzake goederenverkeer EUR.1 overgaat, dient zij te hebben vastgesteld dat de gegevens in de aanvraag van de exporteur overeenstemmen met die in het desbetreffende dossier.
 
-4. Op een achteraf afgegeven EUR.1-certificaat wordt een van de volgende aantekeningen aangebracht:
+4. Op een achteraf afgegeven certificaat inzake goederenverkeer EUR.1 wordt in de Engelse taal de volgende aantekening aangebracht:
 
-„EXPEDIDO A POSTERIORI",
+„ISSUED RETROSPECTIVELY”.
 
-„VYSTAVENO DODATEČNĚ",
+5. De in lid 4 bedoelde aantekening wordt aangebracht in het vak „Opmerkingen” van het certificaat inzake goederenverkeer EUR.1.
 
-„UDSTEDT EFTERFØLGENDE",
-
-„NACHTRÄGLICH AUSGESTELLT",
-
-„VÄLJA ANTUD TAGASIULATUVALT",
-
-„ΕΚΔΟΘΕΝ ΕΚ ΤΩΝ ΥΣΤΕΡΩΝ",
-
-„ISSUED RETROSPECTIVELY",
-
-„DÉLIVRÉ A POSTERIORI",
-
-„RILASCIATO A POSTERIORI",
-
-„IZSNIEGTS RETROSPEKTĪVI",
-
-„RETROSPEKTYVUSIS IŠDAVIMAS",
-
-„KIADVA VISSZAMENŐLEGES HATÁLLYAL",
-
-„MAHRUG RETROSPETTIVAMENT",
-
-„AFGEGEVEN A POSTERIORI",
-
-„WYSTAWIONE RETROSPEKTYWNIE",
-
-„EMITIDO A POSTERIORI",
-
-„IZDANO NAKNADNO",
-
-„VYDANÉ DODATOČNE",
-
-„ANNETTU JÄLKIKÄTEEN",
-
-„UTFÄRDAT I EFTERHAND",
-
-„ДОПОЛНИТЕЛНО ИЗДАДЕНО".
-
-5. De in lid 4 bedoelde aantekening wordt aangebracht in het vak „Opmerkingen" van het EUR.1-certificaat.
-
-##### Artikel 19. Afgifte van een duplicaat van een EUR.1-certificaat
+##### Artikel 19. Afgifte van een duplicaat van een certificaat inzake goederenverkeer EUR.1
 
 1. In geval van diefstal, verlies of vernietiging van een EUR.1-certificaat, kan de exporteur de douaneautoriteiten die dit certificaat hadden afgegeven, verzoeken een duplicaat op te maken aan de hand van de uitvoerdocumenten die in hun bezit zijn.
 
-2. Op het aldus afgegeven duplicaat wordt een van de volgende aantekeningen aangebracht:
+2. Op het aldus afgegeven duplicaat wordt in de Engelse taal de volgende aantekening aangebracht:
 
-„DUPLICADO",
+„DUPLICATE”.
 
-„DUPLIKÁT",
+3. De in lid 2 bedoelde aantekening wordt aangebracht in het vak „Opmerkingen” van het duplicaat van het certificaat inzake goederenverkeer EUR.1.
 
-„DUPLIKAT",
+4. Het duplicaat, dat dezelfde datum van afgifte draagt als het oorspronkelijke certificaat inzake goederenverkeer EUR.1, geldt vanaf die datum.
 
-„DUPLIKAT",
+##### Artikel 20. Afgifte van een certificaat inzake goederenverkeer EUR.1 aan de hand van een eerder opgesteld of afgegeven bewijs van oorsprong
 
-„DUPLIKAAT",
+Voor producten van oorsprong die in de Gemeenschap of de voormalige Joegoslavische Republiek Macedonië onder toezicht van een douanekantoor zijn geplaatst, kan het oorspronkelijke bewijs van oorsprong door een of meer EUR.1- certificaten worden vervangen bij verzending van deze producten of een gedeelte daarvan naar een andere plaats in de Gemeenschap of in de voormalige Joegoslavische Republiek Macedonië. Dit certificaat wordt (deze certificaten worden) afgegeven door het douanekantoor dat op de producten toezicht houdt.
 
-„ΑΝΤΙΓΡΑΦО",
+##### Artikel 21. Gescheiden boekhouding
 
-„DUPLICATE",
+1. Wanneer het met aanzienlijke kosten of moeilijkheden gepaard gaat om afzonderlijke voorraden aan te houden van identieke en onderling verwisselbare materialen die van oorsprong en die niet van oorsprong zijn, kunnen de douaneautoriteiten, op schriftelijk verzoek van de betrokkene, toestaan dat voor het beheer van deze voorraden de methode van de gescheiden boekhouding wordt gebruikt.
 
-„DUPLICATA",
+2. Met behulp van deze gescheiden boekhouding moet het mogelijk zijn dat in een bepaalde referentieperiode eenzelfde aantal producten „van oorsprong” wordt verkregen als verkregen zou zijn indien de voorraden fysiek waren gescheiden.
 
-„DUPLICATO",
+3. De douaneautoriteiten kunnen vergunning verlenen voor het gebruik van deze methode op de door hen wenselijk geachte voorwaarden.
 
-„DUBLIKĀTS",
+4. Deze methode wordt geregistreerd en toegepast op basis van de algemene boekhoudbeginselen die van toepassing zijn in het land waar het product is vervaardigd.
 
-„DUBLIKATAS",
+5. Het bedrijf dat deze vergunning heeft verkregen, kan bewijzen van de oorsprong afgeven of aanvragen, al naar gelang van het geval, voor de hoeveelheid producten die als van oorsprong kunnen worden beschouwd. De vergunninghouder verstrekt op verzoek van de douaneautoriteiten een verklaring over de wijze waarop de hoeveelheden zijn beheerd.
 
-„MÁSODLAT",
+6. De douaneautoriteiten houden toezicht op het gebruik van de vergunning en kunnen deze steeds intrekken wanneer de vergunninghouder deze niet correct gebruikt of niet aan een van de andere in dit protocol omschreven voorwaarden voldoet.
 
-„DUPLIKAT",
+##### Artikel 22. Voorwaarden voor het opstellen van een factuurverklaring
 
-„DUPLICAAT",
+1. De in [artikel 16, lid 1, onder b)](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=V&artikel=16&z=2007-01-01&g=2007-01-01), genoemde factuurverklaring kan worden opgesteld door:
 
-„DUPLIKAT",
+- a. toegelaten exporteurs in de zin van [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=V&artikel=23&z=2007-01-01&g=2007-01-01), of
 
-„SEGUNDA VIA",
+- b. een willekeurige exporteur, voor zendingen bestaande uit een of meer colli met producten van oorsprong waarvan de totale waarde niet meer dan 6 000 EUR bedraagt.
 
-„DVOJNIK",
+2. Een factuurverklaring kan worden opgesteld indien de producten kunnen worden beschouwd als van oorsprong uit de Gemeenschap, uit de voormalige Joegoslavische Republiek Macedonië of uit een van de in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=II&artikel=3&z=2007-01-01&g=2007-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=II&artikel=4&z=2007-01-01&g=2007-01-01) genoemde landen of gebieden, en tevens aan de andere voorwaarden van dit protocol voldoen.
 
-„DUPLIKÁT",
+3. De exporteur die de factuurverklaring opstelt, moet op verzoek van de douane van het land van uitvoer steeds de nodige documenten kunnen overleggen waaruit blijkt dat de betrokken producten van oorsprong zijn en dat aan de andere voorwaarden van dit protocol is voldaan.
 
-„KAKSOISKAPPALE",
+4. Deze factuurverklaring, waarvan de tekst in bijlage IV is opgenomen, wordt door de exporteur op de factuur, de pakbon of een ander handelsdocument getypt, gestempeld of gedrukt in een van de in die bijlage opgenomen talenversies, overeenkomstig de bepalingen van het nationale recht van het land van uitvoer. De factuurverklaring kan ook met de hand, met inkt en in blokletters, worden opgesteld.
 
-„DUPLIKAT",
+5. De factuurverklaring wordt door de exporteur eigenhandig ondertekend. Een toegelaten exporteur in de zin van [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=V&artikel=23&z=2007-01-01&g=2007-01-01) behoeft deze verklaring echter niet te ondertekenen, mits hij de douane een schriftelijke verklaring doet toekomen waarin hij de volle verantwoordelijkheid op zich neemt voor alle factuurverklaringen waaruit zijn identiteit blijkt, alsof hij deze eigenhandig had ondertekend.
 
-„ДУПЛИКАТ".
+6. Een factuurverklaring kan door de exporteur worden opgesteld bij de uitvoer van de producten waarop zij betrekking heeft of later, maar moet uiterlijk twee jaar na de invoer van de producten waarop zij betrekking heeft in het land van invoer worden aangeboden.
 
-3. De in lid 2 bedoelde aantekening wordt aangebracht in het vak „Opmerkingen" van het duplicaat van het EUR.1– certificaat.
+##### Artikel 23. Toegelaten exporteurs
 
-4. Het duplicaat, dat dezelfde datum van afgifte draagt als het oorspronkelijke EUR.1-certificaat geldt vanaf die datum.
+1. De douane van het land van uitvoer kan exporteurs, hierna „toegelaten exporteurs” genoemd, die veelvuldig producten verzenden waarop deze overeenkomst van toepassing is, vergunning verlenen factuurverklaringen op te stellen, ongeacht de waarde van de betrokken producten. Om voor een dergelijke vergunning in aanmerking te komen, moet de exporteur naar het oordeel van de douane de nodige waarborgen bieden met betrekking tot de controle op de oorsprong van de producten en de naleving van alle andere voorwaarden van dit protocol.
 
-##### Artikel 20. Afgifte van een EUR.1-certificaat aan de hand van een eerder opgesteld of afgegeven bewijs van oorsprong
+2. De douaneautoriteiten kunnen het verlenen van de status van toegelaten exporteur afhankelijk stellen van door hen noodzakelijk geachte voorwaarden.
 
-Voor producten van oorsprong die in de Gemeenschap of de Voormalige Joegoslavische Republiek Macedonië onder toezicht van een douanekantoor zijn geplaatst, kan het oorspronkelijke bewijs van oorsprong door een of meer EUR.1-certificaten worden vervangen bij verzending van deze producten of een gedeelte daarvan naar een andere plaats in de Gemeenschap of in de Voormalige Joegoslavische Republiek Macedonië. Dit certificaat of deze certificaten worden afgegeven door het douanekantoor dat op de producten toezicht houdt.
+3. De douane kent de toegelaten exporteur een nummer toe, dat op de factuurverklaringen moet worden vermeld.
 
-##### Artikel 21. Voorwaarden voor het opstellen van een factuurverklaring
+4. De douane houdt toezicht op het gebruik van de vergunning door de toegelaten exporteur.
 
-1. De in artikel 16, lid 1, onder b genoemde factuurverklaring kan worden opgesteld door:
+5. De douaneautoriteiten kunnen de vergunning te allen tijde intrekken. Zij zijn verplicht dit te doen wanneer de toegelaten exporteur niet meer de in lid 1 bedoelde garanties biedt, niet meer aan de in lid 2 bedoelde voorwaarden voldoet, of de vergunning oneigenlijk gebruikt.
 
-- a. een toegelaten exporteur in de zin van artikel 22; of door
+##### Artikel 24. Geldigheid van bewijzen van oorsprong
 
-- b. een willekeurige exporteur, voor zendingen bestaande uit een of meer colli die producten van oorsprong bevatten waarvan de totale waarde niet meer dan 6000 euro bedraagt.
+1. Een bewijs van oorsprong is vier maanden geldig vanaf de datum van afgifte in het land van uitvoer. Het moet binnen deze periode worden ingediend bij de douane van het land van invoer.
 
-2. Een factuurverklaring kan worden opgesteld indien de producten als van oorsprong uit de Gemeenschap of uit de Voormalige Joegoslavische Republiek Macedonië kunnen worden beschouwd en aan de andere voorwaarden van dit Protocol voldoen.
+2. Bewijzen van oorsprong die na het verstrijken van de in lid 1 genoemde termijn bij de douane van het land van invoer worden ingediend, kunnen met het oog op de toepassing van de preferentiële behandeling worden aanvaard wanneer de verlate indiening het gevolg is van overmacht of buitengewone omstandigheden.
 
-3. De exporteur die de factuurverklaring opstelt moet op verzoek van de douaneautoriteiten van het land van uitvoer steeds bereid zijn de nodige documenten te overleggen waaruit blijkt dat de betrokken producten van oorsprong zijn en dat aan de andere voorwaarden van dit Protocol is voldaan.
+3. In andere gevallen van verlate indiening kan de douane van het land van invoer de bewijzen van oorsprong aanvaarden indien de producten vóór het verstrijken van genoemde termijn bij haar zijn aangebracht.
 
-4. Deze factuurverklaring, waarvan de tekst in Bijlage IV is opgenomen, wordt door de exporteur op de factuur, de pakbon of een ander handelsdocument getypt, gestempeld of gedrukt in een van de in die bijlage opgenomen talenversies, overeenkomstig de bepalingen van het nationale recht van het land van uitvoer. De factuurverklaring mag ook met de hand, met inkt en in blokletters, worden geschreven.
+##### Artikel 25. Overlegging van bewijzen van oorsprong
 
-5. De factuurverklaring wordt door de exporteur eigenhandig ondertekend. Een toegelaten exporteur in de zin van artikel 22 behoeft deze verklaring echter niet te ondertekenen, mits hij de douaneautoriteiten een schriftelijke verklaring doet toekomen waarin hij de volle verantwoordelijkheid op zich neemt voor alle factuurverklaringen waaruit zijn identiteit blijkt alsof hij deze eigenhandig had ondertekend.
+Bewijzen van oorsprong worden bij de douane van het land van invoer ingediend overeenkomstig de aldaar geldende procedures. Deze autoriteiten kunnen om een vertaling van dit bewijs vragen. Zij kunnen voorts eisen dat de aangifte ten invoer vergezeld gaat van een verklaring van de importeur dat de producten aan de voorwaarden voor de toepassing van de overeenkomst voldoen.
 
-6. Een factuurverklaring kan door de exporteur worden opgesteld bij de uitvoer van de producten waarop zij betrekking heeft of later, maar moet uiterlijk twee jaar na de invoer van de producten waarop ze betrekking heeft in het land van invoer worden aangeboden.
+##### Artikel 26. Invoer in deelzendingen
 
-##### Artikel 22. Toegelaten exporteur
+Wanneer, op verzoek van de importeur en op de door de douane van het land van invoer vastgestelde voorwaarden, gedemonteerde of niet-gemonteerde producten in de zin van algemene regel 2 a) voor de interpretatie van het geharmoniseerde systeem, vallende onder de afdelingen XVI en XVII of de posten 7308 en 9406 van het geharmoniseerde systeem, in deelzendingen worden ingevoerd, wordt één enkel bewijs van oorsprong bij de douane ingediend bij de invoer van de eerste deelzending.
 
-1. De douaneautoriteiten van het land van uitvoer kunnen een exporteur die veelvuldig producten verzendt waarop deze overeenkomst van toepassing is vergunning verlenen factuurverklaringen op te stellen, ongeacht de waarde van de betrokken producten. Om voor een dergelijke vergunning in aanmerking te komen, moet de exporteur naar het oordeel van de douaneautoriteiten de nodige waarborgen bieden met betrekking tot de controle op de oorsprong van de producten en de naleving van alle andere voorwaarden van dit Protocol.
+##### Artikel 27. Vrijstelling van bewijs van oorsprong
 
-2. De douaneautoriteiten kunnen het verlenen van de status van toegelaten exporteur afhankelijk stellen van de door hen noodzakelijk geachte voorwaarden.
+1. Goederen die in kleine zendingen door particulieren aan particulieren worden verzonden of die deel uitmaken van de persoonlijke bagage van reizigers worden als producten van oorsprong toegelaten zonder dat een bewijs van oorsprong behoeft te worden overgelegd, voor zover aan zulke goederen ieder handelskarakter vreemd is en verklaard wordt dat zij aan de voorwaarden voor de toepassing van dit protocol voldoen en er over de juistheid van deze verklaring geen twijfel bestaat. Voor postzendingen kan deze verklaring op het douaneaangifteformulier CN22/CN23 of op een daaraan gehecht blad worden gesteld.
 
-3. De douaneautoriteiten kennen de toegelaten exporteur een nummer toe dat in de factuurverklaringen wordt vermeld.
+2. Als invoer waaraan ieder handelskarakter vreemd is, wordt beschouwd de invoer van incidentele aard van goederen die uitsluitend bestemd zijn voor persoonlijk gebruik door de geadresseerde, de reiziger of de leden van hun gezin, mits noch de aard, noch de hoeveelheid van de goederen op commerciële doeleinden wijzen.
 
-4. De douaneautoriteiten houden toezicht op het gebruik van de vergunning door de toegelaten exporteur.
+3. Voorts mag de totale waarde van deze producten niet meer bedragen dan 500 EUR voor kleine zendingen of 1 200 EUR voor producten die deel uitmaken van de persoonlijke bagage van reizigers.
 
-5. De douaneautoriteiten kunnen de vergunning steeds intrekken. Zij zijn verplicht dit te doen wanneer de toegelaten exporteur niet langer de in lid 1 bedoelde garanties biedt, niet langer aan de in lid 2 bedoelde voorwaarden voldoet of de vergunning niet op de juiste wijze gebruikt.
+##### Artikel 28. Bewijsstukken
 
-##### Artikel 23. Geldigheid van het bewijs van de oorsprong
-
-1. Een bewijs van oorsprong is vier maanden geldig vanaf de datum van afgifte in het land van uitvoer. Het moet binnen deze periode worden ingediend bij de douaneautoriteiten van het land van invoer.
-
-2. Bewijzen van oorsprong die na het verstrijken van de in lid 1 genoemde termijn bij de douaneautoriteiten van het land van invoer worden ingediend, kunnen met het oog op de toepassing van de preferentiële behandeling worden aanvaard wanneer de verlate indiening het gevolg is van overmacht of buitengewone omstandigheden.
-
-3. In andere gevallen van verlate indiening kunnen de douaneautoriteiten van het land van invoer de bewijzen van oorsprong aanvaarden indien de producten vóór het verstrijken van genoemde termijn bij hen zijn aangebracht.
-
-##### Artikel 24. Overlegging van het bewijs van de oorsprong
-
-Bewijzen van oorsprong worden bij de douaneautoriteiten van het land van invoer ingediend overeenkomstig de aldaar geldende procedures. Deze autoriteiten kunnen een vertaling van dit certificaat verlangen. Zij kunnen voorts eisen dat de aangifte ten invoer vergezeld gaat van een verklaring van de importeur dat de producten aan de voorwaarden voor de toepassing van de overeenkomst voldoen.
-
-##### Artikel 25. Invoer in deelzendingen
-
-Wanneer, op verzoek van de importeur en op de door de douaneautoriteiten van het land van invoer vastgestelde voorwaarden, gedemonteerde of niet-gemonteerde produkten in de zin van algemene regel 2 a voor de interpretatie van het geharmoniseerd systeem, vallende onder de Afdelingen XVI en XVII of de posten 7308 en 9406 van het geharmoniseerd systeem, in deelzendingen worden ingevoerd, wordt één enkel bewijs van oorsprong bij de douaneautoriteiten ingediend bij de invoer van de eerste deelzending.
-
-##### Artikel 26. Vrijstelling van bewijs van de oorsprong
-
-1. Producten die in kleine zendingen door particulieren aan particulieren worden verzonden of die deel uitmaken van de persoonlijke bagage van reizigers worden als producten van oorsprong toegelaten zonder dat het nodig is een formeel bewijs van oorsprong over te leggen, voor zover aan zulke producten ieder handelskarakter vreemd is en verklaard wordt dat zij aan de voorwaarden voor de toepassing van dit Protocol voldoen en er over de juistheid van een dergelijke verklaring geen twijfel bestaat. Voor postzendingen kan deze verklaring op het douaneaangifteformulier CN22/CN23 of op een daaraan gehecht blad worden gesteld.
-
-2. Als invoer waaraan ieder handelskarakter vreemd is wordt beschouwd de invoer van incidentele aard van producten die uitsluitend bestemd zijn voor het persoonlijke gebruik van de geadresseerde, de reiziger of de leden van zijn gezin, voor zover noch de aard noch de hoeveelheid van de producten op commerciële doeleinden wijzen.
-
-3. Voorts mag de totale waarde van deze producten niet meer bedragen dan 500 euro voor kleine zendingen of 1 200 euro voor producten die deel uitmaken van de persoonlijke bagage van reizigers.
-
-##### Artikel 27. Bewijsstukken
-
-De in artikel 17, lid 3, en artikel 21, lid 3, bedoelde documenten aan de hand waarvan wordt aangetoond dat producten die door een EUR.1-certificaat of een factuurverklaring worden gedekt producten van oorsprong zijn uit de Gemeenschap of de Voormalige Joegoslavische Republiek Macedonië en aan de andere voorwaarden van dit Protocol voldoen, kunnen onder meer de volgende zijn:
+De in [artikel 17, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=V&artikel=17&z=2007-01-01&g=2007-01-01), en [artikel 22, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=V&artikel=22&z=2007-01-01&g=2007-01-01), bedoelde documenten aan de hand waarvan wordt aangetoond dat producten die door een certificaat inzake goederenverkeer EUR.1 of een factuurverklaring worden gedekt, producten van oorsprong zijn uit de Gemeenschap, de voormalige Joegoslavische Republiek Macedonië of een van de andere in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=II&artikel=3&z=2007-01-01&g=2007-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=II&artikel=4&z=2007-01-01&g=2007-01-01) genoemde landen of gebieden en aan de andere voorwaarden van dit protocol voldoen, kunnen onder meer de volgende zijn:
 
 - a. een rechtstreeks bewijs, bijvoorbeeld aan de hand van de boekhouding of de interne administratie van de exporteur of leverancier, van de door deze uitgevoerde be- of verwerkingen om de producten te verkrijgen;
 
-- b. in de Gemeenschap of in de Voormalige Joegoslavische Republiek Macedonië afgegeven of opgestelde, en volgens het nationale recht gebruikte documenten waaruit de oorsprong van de gebruikte materialen blijkt;
+- b. in de Gemeenschap of in de voormalige Joegoslavische Republiek Macedonië afgegeven of opgestelde, en volgens het nationale recht gebruikte documenten waaruit de oorsprong van de gebruikte materialen blijkt;
 
-- c. in de Gemeenschap of in de Voormalige Joegoslavische Republiek Macedonië afgegeven of opgestelde, en volgens het nationale recht gebruikte documenten waaruit de be- of verwerking in de Gemeenschap of in de Voormalige Joegoslavische Republiek Macedonië blijkt;
+- c. in de Gemeenschap of in de voormalige Joegoslavische Republiek Macedonië afgegeven of opgestelde, en volgens het nationale recht gebruikte documenten waaruit de be- of verwerking in de Gemeenschap of in de voormalige Joegoslavische Republiek Macedonië blijkt;
 
-- d. EUR.1-certificaten of factuurverklaringen waaruit blijkt dat de gebruikte materialen van oorsprong zijn, die overeenkomstig dit Protocol in de Gemeenschap of in de Voormalige Joegoslavische Republiek Macedonië zijn afgegeven of opgesteld.
+- d. certificaten inzake goederenverkeer EUR.1 of factuurverklaringen waaruit de oorsprong van de gebruikte materialen blijkt, die overeenkomstig dit protocol in de Gemeenschap of in de voormalige Joegoslavische Republiek Macedonië zijn afgegeven of opgesteld, of die in een van de in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=II&artikel=3&z=2007-01-01&g=2007-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=II&artikel=4&z=2007-01-01&g=2007-01-01) genoemde landen of gebieden zijn opgesteld overeenkomstig oorsprongsregels die gelijk zijn aan de oorsprongsregels van dit protocol;
 
-##### Artikel 28. Bewaring van de oorsprongsbewijzen en de andere bewijsstukken
+- e. passende bewijsstukken inzake be- of verwerking buiten de Gemeenschap of de voormalige Joegoslavische Republiek Macedonië overeenkomstig artikel 12, waaruit blijkt dat aan de eisen van dat artikel is voldaan.
 
-1. De exporteur die om de afgifte van een EUR.1-certificaat verzoekt, bewaart de in artikel 17, lid 3 bedoelde bewijsstukken van ten minste drie jaar.
+##### Artikel 29. Bewaring van bewijzen van oorsprong en andere bewijsstukken
 
-2. De exporteur die een factuurverklaring heeft opgesteld, bewaart een kopie van deze factuurverklaring en van de in artikel 21, lid 3, bedoelde documenten gedurende ten minste drie jaar.
+1. Exporteurs die om de afgifte van een certificaat inzake goederenverkeer EUR.1 verzoeken, dienen de in artikel 17, lid 3, bedoelde documenten ten minste drie jaar te bewaren.
 
-3. De douaneautoriteiten van het land van uitvoer die een EUR.1-certificaat afgeven bewaren het in artikel 17, lid 2, bedoelde aanvraagformulier ten minste drie jaar.
+2. De exporteur die een factuurverklaring heeft opgesteld, bewaart een kopie van deze factuurverklaring en van de in artikel 22, lid 3, bedoelde documenten gedurende ten minste drie jaar.
 
-4. De douaneautoriteiten van het land van invoer bewaren de EUR.1-certificaten en factuurverklaringen die bij hen werden ingediend gedurende ten minste drie jaar.
+3. De douane van het land van uitvoer die een certificaat inzake goederenverkeer EUR.1 afgeeft, bewaart het in artikel 17, lid 2, bedoelde aanvraagformulier ten minste drie jaar.
 
-##### Artikel 29. Verschillen en vormfouten
+4. De douane van het land van invoer bewaart de certificaten inzake goederenverkeer EUR.1 en factuurverklaringen die bij haar werden ingediend gedurende ten minste drie jaar.
 
-1. Worden geringe verschillen vastgesteld tussen de gegevens in het bewijs van oorsprong en de gegevens in de documenten die in verband met de formaliteiten bij invoer bij het douanekantoor worden ingediend, dan is het bewijs van oorsprong daardoor niet automatisch ongeldig, indien blijkt dat het wel degelijk met de aangebrachte producten overeenstemt.
+##### Artikel 30. Verschillen en vormfouten
 
-2. Kennelijke vormfouten zoals typefouten op het bewijs van oorsprong maken dit document niet ongeldig indien deze fouten niet van dien aard zijn dat zij twijfel doen rijzen over de juistheid van de daarin vermelde gegevens.
+1. Geringe verschillen tussen de gegevens op het bewijs van oorsprong en de gegevens op de documenten die voor het vervullen van de invoerformaliteiten bij het douanekantoor worden ingediend, maken het certificaat inzake goederenverkeer EUR.1 of de factuurverklaring niet automatisch ongeldig, indien blijkt dat het document wel degelijk met de aangebrachte goederen overeenstemt.
 
-##### Artikel 30. In euro uitgedrukte bedragen
-
-1. Voor de toepassing van artikel 21, lid 1, onder b), en artikel 26, lid 3, wordt, wanneer de producten gefactureerd zijn in een andere valuta dan de euro, de tegenwaarde in de nationale valuta van de lidstaten of van de Voormalige Joegoslavische Republiek Macedonië die overeenstemt met de in euro uitgedrukte bedragen, jaarlijks door elk van de betrokken landen vastgesteld.
-
-2. Artikel 21, lid 1, onder b, en artikel 26, lid 3, zijn van toepassing op een zending op basis van de valuta waarin de factuur luidt, overeenkomstig het bedrag dat door de Gemeenschap of de Voormalige Joegoslavische Republiek Macedonië is vastgesteld.
-
-3. De in een bepaalde nationale valuta te gebruiken bedragen zijn de tegenwaarde in die valuta van de in euro uitgedrukte bedragen op de eerste werkdag van oktober. De bedragen worden de Commissie van de Europese Gemeenschappen uiterlijk op 15 oktober medegedeeld en zijn van toepassing vanaf 1 januari van het daaropvolgende jaar. De Commissie van de Europese Gemeenschappen stelt de Voormalige Joegoslavische Republiek Macedonië in kennis van het desbetreffende bedrag.
-
-4. De Gemeenschap of de Voormalige Joegoslavische Republiek Macedonië mag het bedrag dat is verkregen door omrekening van een in euro uitgedrukt bedrag in de nationale valuta naar boven of naar beneden afronden. Het afgeronde bedrag mag niet meer dan 5 procent afwijken van het door omrekening verkregen bedrag. De voormalige Joegoslavische Republiek Macedonië kan de tegenwaarde in haar nationale valuta van een in euro uitgedrukt bedrag ongewijzigd handhaven, indien bij de omrekening van dit bedrag, ten tijde van de in lid 3 bedoelde jaarlijkse aanpassing, vóór afronding, een stijging van minder dan 15 procent van die tegenwaarde wordt verkregen. De tegenwaarde in nationale valuta kan ongewijzigd blijven, indien de omrekening tot een daling van de tegenwaarde leidt.
-
-5. De in euro uitgedrukte bedragen worden door het Stabilisatie- en Associatiecomité op verzoek van de Gemeenschap of de Voormalige Joegoslavische Republiek Macedonië herzien. Bij deze herziening onderzoekt het Comité of het wenselijk is de betreffende limieten in reële termen te handhaven. Het kan in dit verband besluiten de in euro uitgedrukte bedragen te wijzigen.
+2. Kennelijke vormfouten, zoals typefouten, op het bewijs van oorsprong leiden niet tot weigering van dit document indien deze fouten niet van dien aard zijn dat zij twijfel doen rijzen over de juistheid van de daarin vermelde gegevens.
 
 ## TITEL VI. REGELINGEN VOOR ADMINISTRATIEVE SAMENWERKING
 
@@ -1986,33 +1962,35 @@ De in artikel 17, lid 3, en artikel 21, lid 3, bedoelde documenten aan de hand w
 
 2. Met het oog op de correcte toepassing van dit Protocol verlenen de Gemeenschap en de Voormalige Joegoslavische Republiek Macedonië elkaar, via de bevoegde douane-instanties, bijstand bij de controle op de echtheid van de EUR.1-certificaten en de factuurverklaringen en de juistheid van de daarin vermelde gegevens.
 
-##### Artikel 32. Controle van de oorsprongsbewijzen
+##### Artikel 32. Wederzijdse bijstand
 
-1. De bewijzen van oorsprong worden achteraf door middel van steekproeven gecontroleerd en wanneer de douaneautoriteiten van het land van invoer redenen hebben om te twijfelen aan de echtheid van deze documenten, de oorsprong van de betrokken producten of de naleving van de andere voorwaarden van dit Protocol.
+1. De douaneautoriteiten van de lidstaten van de Gemeenschap en van de voormalige Joegoslavische Republiek Macedonië doen elkaar, via de Europese Commissie, afdrukken toekomen van de stempels die in hun douanekantoren worden gebruikt bij de afgifte van EUR.1-certificaten, alsmede de adressen van de douaneautoriteiten die belast zijn met de controle van deze certificaten en de factuurverklaringen.
 
-2. Met het oog op de toepassing van lid 1 zenden de douaneautoriteiten van het land van invoer het EUR.1-certificaat, de factuur, indien deze werd voorgelegd, de factuurverklaring of een kopie van deze documenten, terug aan de douaneautoriteiten van het land van uitvoer, eventueel onder vermelding van de redenen waarom een onderzoek wordt aangevraagd. Zij verstrekken bij deze aanvraag om controle alle documenten en gegevens die het vermoeden hebben doen rijzen dat de gegevens op het bewijs van oorsprong onjuist zijn.
+2. Met het oog op de correcte toepassing van dit protocol verlenen de Gemeenschap en de voormalige Joegoslavische Republiek Macedonië elkaar, via de bevoegde douane-instanties, bijstand bij de controle op de echtheid van de EUR.1- certificaten en de factuurverklaringen en de juistheid van de daarin vermelde gegevens.
 
-3. De controle wordt verricht door de douaneautoriteiten van het land van uitvoer. Deze zijn in dit verband gerechtigd bewijsmateriaal op te vragen, de administratie van de exporteur in te zien en elke andere controle te verrichten die zij dienstig achten.
+##### Artikel 33. Controle van bewijzen van oorsprong
 
-4. Indien de douaneautoriteiten van het land van invoer besluiten de preferentiële behandeling niet toe te kennen zolang de uitslag van de controle niet bekend is, doen zij de importeur het voorstel de producten vrij te geven onder voorbehoud van de noodzakelijk geachte conservatoire maatregelen.
+1. Bewijzen van oorsprong worden achteraf steekproefsgewijs gecontroleerd, alsmede wanneer de douaneautoriteiten van het land van invoer redenen hebben om te twijfelen aan de echtheid van deze documenten, de oorsprong van de betrokken producten of de naleving van de andere voorwaarden van dit protocol.
 
-5. De resultaten van de controle worden zo spoedig mogelijk medegedeeld aan de douaneautoriteiten die de controle hebben aangevraagd. In deze mededeling moet duidelijk worden aangegeven of de documenten al dan niet echt zijn, of de betrokken producten als producten van oorsprong uit de Gemeenschap of de Voormalige Joegoslavische Republiek Macedonië beschouwd kunnen worden en of aan de andere voorwaarden van dit Protocol is voldaan.
+2. Voor de toepassing van lid 1 zendt de douane van het land van invoer het EUR.1-certificaat en de factuur, indien deze werd voorgelegd, de factuurverklaring of een kopie van deze documenten, terug aan de douane van het land van uitvoer, eventueel onder vermelding van de redenen waarom een onderzoek wordt aangevraagd. Zij verstrekken bij deze aanvraag om controle alle documenten en gegevens die het vermoeden hebben doen rijzen dat de gegevens op het bewijs van oorsprong onjuist zijn.
 
-6. Indien bij gegronde twijfel binnen tien maanden na het verzoek om controle geen antwoord is ontvangen of indien het antwoord niet voldoende gegevens bevat om de echtheid van het betrokken document of de werkelijke oorsprong van de producten vast te stellen, kennen de aanvragende douaneautoriteiten de preferentiële behandeling niet toe, behoudens buitengewone omstandigheden.
+3. De controle wordt verricht door de douane van het land van uitvoer. Met het oog hierop zijn zij gerechtigd bewijsstukken op te vragen, de administratie van de exporteur in te zien en alle andere controles te verrichten die zij dienstig achten.
 
-##### Artikel 33. Regeling van geschillen
+4. Indien de douane van het land van invoer besluit de preferentiële behandeling niet toe te kennen zolang de uitslag van de controle niet bekend is, doet zij de importeur het voorstel de producten vrij te geven onder voorbehoud van de noodzakelijk geachte conservatoire maatregelen.
 
-Geschillen ten aanzien van de in artikel 32 bedoelde controles die niet onderling geregeld kunnen worden tussen de douaneautoriteiten die de controle hebben aangevraagd en de douaneautoriteiten die deze hebben moeten uitvoeren, en problemen in verband met de interpretatie van dit Protocol worden aan het Stabilisatie- en Associatiecomité voorgelegd. In alle gevallen is de wetgeving van het land van invoer van toepassing op de regeling van geschillen tussen een importeur en de douaneautoriteiten van het land van invoer.
+5. De resultaten van de controle worden zo spoedig mogelijk medegedeeld aan de douanedienst die de controle heeft aangevraagd. In deze mededeling moet duidelijk worden aangegeven of de documenten al dan niet echt zijn, of de betrokken producten kunnen worden beschouwd als producten van oorsprong uit de Gemeenschap of de voormalige Joegoslavische Republiek Macedonië en of aan de andere voorwaarden van dit protocol is voldaan.
 
-##### Artikel 34. Sancties
+6. Indien bij gegronde twijfel binnen tien maanden na het verzoek om controle geen antwoord is ontvangen of indien het antwoord niet voldoende gegevens bevat om de echtheid van het betrokken document of de werkelijke oorsprong van de producten vast te stellen, kent de aanvragende douanedienst de preferentiële behandeling niet toe, behoudens buitengewone omstandigheden.
 
-Tegen een ieder die een document met onjuiste gegevens opstelt of laat opstellen met het doel producten onder de preferentiële regeling te doen vallen, worden sancties getroffen.
+##### Artikel 34. Beslechting van geschillen
 
-##### Artikel 35. Vrije zones
+Geschillen ten aanzien van de in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=VI&artikel=33&z=2007-01-01&g=2007-01-01) bedoelde controles die niet onderling geregeld kunnen worden tussen de douaneautoriteiten die de controle hebben aangevraagd en de douaneautoriteiten die deze hebben moeten uitvoeren, en problemen in verband met de interpretatie van dit protocol worden aan het Stabilisatie- en associatiecomité voorgelegd.
 
-1. De Gemeenschap en de Voormalige Joegoslavische Republiek Macedonië nemen alle nodige maatregelen om te voorkomen dat producten die onder geleide van een bewijs van de oorsprong worden verhandeld en die tijdens het vervoer in een op hun grondgebied gelegen vrije zone verblijven, door andere goederen worden vervangen of andere behandelingen ondergaan dan die welke gebruikelijk zijn om ze in goede staat te bewaren.
+In alle gevallen is de wetgeving van het land van invoer van toepassing op de beslechting van geschillen tussen een importeur en de douane van het land van invoer.
 
-2. In afwijking van het bepaalde in lid 1 dienen de bevoegde douaneautoriteiten, wanneer producten van oorsprong uit de Gemeenschap of uit de Voormalige Joegoslavische Republiek Macedonië die onder dekking van een bewijs van de oorsprong in een vrije zone zijn ingevoerd een be- of verwerking ondergaan, op verzoek van de exporteur een nieuw EUR.1-certificaat af te geven mits deze be- of verwerking met de bepalingen van dit Protocol overeenstemt.
+##### Artikel 35. Sancties
+
+Sancties worden getroffen tegen eenieder die een document met onjuiste gegevens opstelt of doet opstellen met het doel producten onder de preferentiële regeling te doen vallen.
 
 ## TITEL VII. CEUTA EN MELILLA
 
@@ -2024,35 +2002,13 @@ Tegen een ieder die een document met onjuiste gegevens opstelt of laat opstellen
 
 3. Bij toepassing van lid 2 op producten van oorsprong uit Ceuta en Mellilla, is dit Protocol van overeenkomstige toepassing met inachtneming van de bijzondere voorwaarden van artikel 37.
 
-##### Artikel 37. Bijzondere voorwaarden
+##### Artikel 37. Toepassing van het protocol
 
-1. Mits zij rechtstreeks zijn vervoerd overeenkomstig het bepaalde in artikel 13, worden beschouwd als:
+1. De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=II&artikel=2&z=2007-01-01&g=2007-01-01) gebruikte term „Gemeenschap” heeft geen betrekking op Ceuta en Melilla.
 
-- 1. producten van oorsprong uit Ceuta en Melilla:
+2. Producten van oorsprong uit de voormalige Joegoslavische Republiek Macedonië die in Ceuta of Melilla worden ingevoerd vallen in elk opzicht onder dezelfde douaneregeling als de regeling die op grond van protocol 2 bij de Akte van toetreding van het Koninkrijk Spanje en de Republiek Portugal tot de Europese Gemeenschappen van toepassing is op producten van oorsprong uit het douanegebied van de Gemeenschap. De voormalige Joegoslavische Republiek Macedonië zal op onder de overeenkomst vallende producten van oorsprong uit Ceuta en Melilla dezelfde douaneregeling toepassen als op producten van oorsprong uit de Gemeenschap die uit de Gemeenschap worden ingevoerd.
 
-- a. geheel en al in Ceuta en Melilla verkregen producten;
-
-- b. in Ceuta en Melilla verkregen producten bij de vervaardiging waarvan andere dan de onder a bedoelde producten zijn gebruikt, voor zover:
-
-- i. deze producten be- of verwerkingen hebben ondergaan die toereikend zijn in de zin van artikel 6 van dit Protocol, of voor zover
-
-- ii. deze producten van oorsprong zijn uit de Voormalige Joegoslavische Republiek Macedonië of de Gemeenschap in de zin van dit Protocol en zij be- of verwerkingen hebben ondergaan die meer omvatten dan de in artikel 7, lid 1, bedoelde ontoereikende be– of verwerkingen;
-
-- 2. producten van oorsprong uit de Voormalige Joegoslavische Republiek Macedonië:
-
-- a. geheel en al in de Voormalige Joegoslavische Republiek Macedonië verkregen producten;
-
-- b. in de Voormalige Joegoslavische Republiek Macedonië verkregen producten, bij de vervaardiging waarvan andere dan de onder a bedoelde producten zijn gebruikt, voor zover:
-
-- i. deze producten een be- of verwerking hebben ondergaan die toereikend is in de zin van artikel 6 van dit Protocol, of voor zover
-
-- ii. deze producten van oorsprong zijn uit Ceuta en Melilla of de Gemeenschap in de zin van dit Protocol en zij be- of verwerkingen hebben ondergaan die meer omvatten dan de in artikel 7, lid 1, omschreven ontoereikende be- of verwerkingen.
-
-2. Ceuta en Melilla worden als één enkel grondgebied beschouwd.
-
-3. De exporteur of zijn gemachtigde vertegenwoordiger vermeldt „Voormalige Joegoslavische Republiek Macedonië" en „Ceuta en Melilla" in vak 2 van het EUR.1-certificaat of op de factuurverklaring. Voor producten van oorsprong uit Ceuta en Melilla wordt dit bovendien vermeld in vak 4 van het EUR.1-certificaat of op de factuurverklaring.
-
-4. De Spaanse douaneautoriteiten zijn belast met de toepassing van dit Protocol in Ceuta en Melilla.
+3. Bij toepassing van lid 2 op producten van oorsprong uit Ceuta en Melilla is dit protocol van overeenkomstige toepassing, met inachtneming van de bijzondere voorwaarden van [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=VII&artikel=38&z=2007-01-01&g=2007-01-01).
 
 ## TITEL VIII. SLOTBEPALINGEN
 
@@ -2267,6 +2223,336 @@ de gevolmachtigden van de Voormalige Joegoslavische Republiek Macedonië,
 anderzijds,
 
 bijeengekomen te Luxemburg op 9 april 2001 voor de ondertekening van de stabilisatie- en associatie-overeenkomst tussen de Europese Gemeenschappen en hun lidstaten, enerzijds, en de voormalige Joegoslavische Republiek Macedonië, anderzijds, hierna „de overeenkomst" genoemd, hebben de volgende teksten aangenomen:
+
+De gevolmachtigden van:
+
+Het Koninkrijk België,
+
+het Koninkrijk Denemarken,
+
+de Bondsrepubliek Duitsland,
+
+de Helleense Republiek,
+
+het Koninkrijk Spanje,
+
+de Franse Republiek,
+
+Ierland,
+
+de Italiaanse Republiek,
+
+het Groothertogdom Luxemburg,
+
+het Koninkrijk der Nederlanden,
+
+de Republiek Oostenrijk,
+
+de Portugese Republiek,
+
+de Republiek Finland,
+
+het Koninkrijk Zweden,
+
+het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland,
+
+partijen bij het Verdrag tot oprichting van de Europese Gemeenschap, het Verdrag tot oprichting van de Europese Gemeenschap voor Kolen en Staal, het Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie en het Verdrag betreffende de Europese Unie,
+
+hierna „de lidstaten" genoemd, en van
+
+de Europese Gemeenschap, de Europese Gemeenschap voor Kolen en Staal en de Europese Gemeenschap voor Atoomenergie,
+
+hierna „de Gemeenschap" genoemd,
+
+enerzijds, en
+
+de gevolmachtigden van de Voormalige Joegoslavische Republiek Macedonië,
+
+anderzijds,
+
+bijeengekomen te Luxemburg op 9 april 2001 voor de ondertekening van de stabilisatie- en associatie-overeenkomst tussen de Europese Gemeenschappen en hun lidstaten, enerzijds, en de voormalige Joegoslavische Republiek Macedonië, anderzijds, hierna „de overeenkomst" genoemd, hebben de volgende teksten aangenomen:
+
+##### Artikel 1
+
+De Voormalige Joegoslavische Republiek Macedonië mag deelnemen aan de volgende communautaire programma’s:
+
+- 1. De in de bijlage genoemde lopende communautaire programma’s, die voor de deelname van de Voormalige Joegoslavische Republiek Macedonië worden opengesteld zodra deze overeenkomst (hierna „de overeenkomst” genoemd) in werking treedt.
+
+- 2. Communautaire programma’s die na de inwerkingtreding van de overeenkomst worden ingesteld of verlengd en die een openstellingsclausule bevatten die in de deelname van de Voormalige Joegoslavische Republiek Macedonië voorziet.
+
+##### Artikel 2
+
+De Voormalige Joegoslavische Republiek Macedonië verstrekt een financiële bijdrage aan de algemene begroting van de Europese Unie in overeenstemming met de specifieke programma’s waaraan zij deelneemt.
+
+##### Artikel 3
+
+Vertegenwoordigers van de Voormalige Joegoslavische Republiek Macedonië mogen als waarnemers de vergaderingen bijwonen van de comités van beheer die belast zijn met het toezicht op de programma’s waaraan de Voormalige Joegoslavische Republiek Macedonië een financiële bijdrage levert, deze betrekking hebben op onderwerpen die de Voormalige Joegoslavische Republiek Macedonië aangaan.
+
+##### Artikel 4
+
+Ten aanzien van projecten en initiatieven die door deelnemers uit de Voormalige Joegoslavische Republiek Macedonië worden ingediend, gelden in het kader van de betrokken programma’s mogelijk dezelfde voorwaarden, regels en procedures als voor de lidstaten.
+
+##### Artikel 5
+
+De specifieke voorwaarden voor de deelname van de Voormalige Joegoslavische Republiek Macedonië aan elk afzonderlijk programma, in het bijzonder de verschuldigde financiële bijdrage, worden vastgesteld bij een overeenkomst in de vorm van een memorandum van overeenstemming tussen de Commissie, die optreedt namens de Gemeenschap, en de Voormalige Joegoslavische Republiek Macedonië.
+
+Indien de Voormalige Joegoslavische Republiek Macedonië verzoekt om externe bijstand van de Gemeenschap uit hoofde van Verordening (EG) nr. 2666/2000 van de Raad van 5 december 2000 betreffende de steun aan Albanië, Bosnië-Herzegovina, Kroatië, de Federale Republiek Joegoslavië en de Voormalige Joegoslavische Republiek Macedonië, gewijzigd bij Verordening (EG) nr. 2415/2001 van de Raad van 10 december 2001, of uit hoofde van een eventuele toekomstige soortgelijke verordening waarin in externe bijstand van de Gemeenschap voor de Voormalige Joegoslavische Republiek Macedonië wordt voorzien, worden de voorwaarden voor het gebruik door de Voormalige Joegoslavische Republiek Macedonië van de bijstand van de Gemeenschap vastgesteld in een financieringsovereenkomst.
+
+##### Artikel 6
+
+Overeenkomstig het financieel reglement van de Gemeenschap wordt in het memorandum van overeenstemming bepaald dat door of op gezag van de Europese Commissie, OLAF en de Rekenkamer van de Europese Gemeenschappen financiële controles of audits worden verricht.
+
+Er worden gedetailleerde bepalingen vastgesteld inzake financiële controle en audits, administratieve maatregelen, sancties en invordering, waarbij aan de Europese Commissie, OLAF en de Rekenkamer bevoegdheden worden toegekend die gelijkwaardig zijn met hun bevoegdheden ten aanzien van begunstigden of contractanten die in de Gemeenschap zijn gevestigd.
+
+##### Artikel 7
+
+De overeenkomst is voor onbepaalde tijd van toepassing.
+
+Iedere overeenkomstsluitende partij kan deze overeenkomst door schriftelijke kennisgeving aan de andere overeenkomstsluitende partij opzeggen. De overeenkomst verstrijkt zes maanden na de datum van die kennisgeving.
+
+##### Artikel 8
+
+Uiterlijk drie jaar na de inwerkingtreding van de overeenkomst, en vervolgens iedere drie jaar, kunnen beide overeenkomstsluitende partijen de tenuitvoerlegging van de overeenkomst evalueren aan de hand van de werkelijke deelname van de Voormalige Joegoslavische Republiek Macedonië aan een of meer communautaire programma’s.
+
+##### Artikel 9
+
+Deze overeenkomst is van toepassing op enerzijds de grondgebieden waar het [Verdrag tot oprichting van de Europese Gemeenschap](https://wetten.overheid.nl/jci1.3:c:BWBV0001506) van toepassing is, op de in dat verdrag neergelegde voorwaarden, en anderzijds het grondgebied van de Voormalige Joegoslavische Republiek Macedonië.
+
+##### Artikel 10
+
+Deze overeenkomst treedt in werking op de dag van ontvangst langs diplomatieke weg van de laatste schriftelijke kennisgeving waarbij de overeenkomstsluitende partijen elkaar in kennis stellen van de voltooiing van de voor de inwerkingtreding benodigde interne procedures.
+
+##### Artikel 11
+
+1. Deze overeenkomst is opgesteld in tweevoud in elk van de officiële talen van de overeenkomstsluitende partijen, met uitzondering van de Maltese taal.
+
+2. Zodra de instellingen van de Europese Unie verplicht zijn alle officiële besluiten in de Maltese taal in het Publicatieblad van de Europese Unie bekend te maken, wordt de overeenkomst eveneens opgesteld in tweevoud in de Maltese taal.
+
+3. Alle taalversies zijn gelijkelijk authentiek.
+
+##### Artikel 12
+
+Deze overeenkomst en de bijbehorende bijlage vormen een integrerend onderdeel van de stabilisatie- en associatieovereenkomst.
+
+GEDAAN te Brussel, 22 november 2004.
+
+##### Artikel 31. Bedragen in euro
+
+1. Voor de toepassing van [artikel 22, lid 1, onder b)](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=V&artikel=22&z=2007-01-01&g=2007-01-01), en [artikel 27, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=V&artikel=27&z=2007-01-01&g=2007-01-01), wordt, wanneer de producten gefactureerd zijn in een andere valuta dan de euro, de tegenwaarde van de in euro uitgedrukte bedragen in de nationale valuta van de lidstaten van de Gemeenschap, van de voormalige Joegoslavische Republiek Macedonië of van een van de andere landen of gebieden bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=II&artikel=3&z=2007-01-01&g=2007-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=II&artikel=4&z=2007-01-01&g=2007-01-01), jaarlijks door elk van de betrokken landen vastgesteld.
+
+2. [Artikel 22, lid 1, onder b)](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=V&artikel=22&z=2007-01-01&g=2007-01-01), en [artikel 27, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=V&artikel=27&z=2007-01-01&g=2007-01-01), zijn van toepassing op zendingen op basis van de valuta waarin de factuur is opgesteld, overeenkomstig het bedrag dat door het betrokken land is vastgesteld.
+
+3. De in een bepaalde nationale valuta te gebruiken bedragen zijn de tegenwaarde in die valuta van de in euro uitgedrukte bedragen op de eerste werkdag van oktober. De bedragen worden de Commissie van de Europese Gemeenschap uiterlijk op 15 oktober meegedeeld en zijn van toepassing vanaf 1 januari van het daaropvolgende jaar. De Commissie van de Europese Gemeenschappen stelt alle betrokken landen in kennis van de desbetreffende bedragen.
+
+4. Een land mag het bedrag dat het resultaat is van de omrekening in zijn nationale valuta van een in euro uitgedrukt bedrag naar boven of beneden afronden. Het afgeronde bedrag mag niet meer dan 5 procent afwijken van het door omrekening verkregen bedrag. Een land kan de tegenwaarde in zijn nationale valuta van een in euro uitgedrukt bedrag ongewijzigd handhaven, indien bij de omrekening van dit bedrag, ten tijde van de in lid 3 bedoelde jaarlijkse aanpassing, vóór afronding, een stijging van minder dan 15 procent van die tegenwaarde wordt verkregen. De tegenwaarde in nationale valuta kan ongewijzigd blijven, indien de omrekening tot een daling van de tegenwaarde leidt.
+
+5. De in euro uitgedrukte bedragen worden door het Stabilisatie- en associatiecomité op verzoek van de Gemeenschap of de voormalige Joegoslavische Republiek Macedonië herzien. Bij deze herziening onderzoekt het comité of het wenselijk is de betreffende limieten in reële termen te handhaven. Het kan te dien einde besluiten de in euro uitgedrukte bedragen te wijzigen.
+
+## TITEL VI. ADMINISTRATIEVE SAMENWERKING
+
+##### Artikel 36. Vrije zones
+
+1. De Gemeenschap en de voormalige Joegoslavische Republiek Macedonië nemen alle nodige maatregelen om te voorkomen dat producten die onder geleide van een bewijs van de oorsprong worden verhandeld en die tijdens het vervoer in een op hun grondgebied gelegen vrije zone verblijven, door andere goederen worden vervangen of andere behandelingen ondergaan dan die welke gebruikelijk zijn om ze in goede staat te bewaren.
+
+2. In afwijking van lid 1 dienen de bevoegde douaneautoriteiten, wanneer producten van oorsprong uit de Gemeenschap of uit de voormalige Joegoslavische Republiek Macedonië die onder dekking van een bewijs van de oorsprong in een vrije zone zijn ingevoerd een be- of verwerking ondergaan, op verzoek van de exporteur een nieuw EUR.1-certificaat af te geven mits deze be- of verwerking met de bepalingen van dit protocol overeenstemt.
+
+## TITEL VII. CEUTA EN MELILLA
+
+##### Artikel 38. Bijzondere voorwaarden
+
+1. Mits zij rechtstreeks zijn vervoerd overeenkomstig artikel 13, worden beschouwd als:
+
+- 1. producten van oorsprong uit Ceuta en Melilla:
+
+- a. geheel en al in Ceuta en Melilla verkregen producten;
+
+- b. in Ceuta en Melilla verkregen producten bij de vervaardiging waarvan andere dan de onder a) bedoelde producten zijn gebruikt, voor zover:
+
+- i. die producten be- of verwerkingen hebben ondergaan die toereikend zijn in de zin van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=II&artikel=6&z=2007-01-01&g=2007-01-01), of voor
+
+- ii. die producten van oorsprong zijn uit de voormalige Joegoslavische Republiek Macedonië of uit de Gemeenschap en be- of verwerkingen hebben ondergaan die meer omvatten dan de in artikel 7, lid 1, bedoelde be- of verwerkingen;
+
+- 2. producten van oorsprong uit de voormalige Joegoslavische Republiek Macedonië:
+
+- a. geheel en al in de voormalige Joegoslavische Republiek Macedonië verkregen producten;
+
+- b. in de voormalige Joegoslavische Republiek Macedonië verkregen producten, bij de vervaardiging waarvan andere dan de onder a) bedoelde producten zijn gebruikt, voor zover:
+
+- i. die producten be- of verwerkingen hebben ondergaan die toereikend zijn in de zin van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=II&artikel=6&z=2007-01-01&g=2007-01-01), of voor
+
+- ii. die producten van oorsprong zijn uit Ceuta en Melilla of uit de Gemeenschap en be- of verwerkingen hebben ondergaan die meer omvatten dan de in artikel 7 bedoelde be- of verwerkingen.
+
+2. Ceuta en Melilla worden als één enkel grondgebied beschouwd.
+
+3. De exporteur of zijn gemachtigde vertegenwoordiger vermeldt „voormalige Joegoslavische Republiek Macedonië” en „Ceuta en Melilla” in vak 2 van het EUR.1-certificaat of op de factuurverklaring. Voor producten van oorsprong uit Ceuta en Melilla wordt dit bovendien vermeld in vak 4 van het certificaat inzake goederenverkeer EUR.1 of op de factuurverklaring.
+
+4. De Spaanse douaneautoriteiten zijn belast met de toepassing van dit protocol in Ceuta en Melilla.
+
+## TITEL VIII. SLOTBEPALINGEN
+
+##### Artikel 39. Wijzigingen van het protocol
+
+De Stabilisatie- en associatieraad kan besluiten bepalingen van dit protocol te wijzigen.
+
+##### Artikel 1. Definities
+
+Voor de toepassing van dit protocol wordt verstaan onder:
+
+- a. „douanewetgeving”: de wettelijke en bestuursrechtelijke bepalingen die van toepassing zijn in de Europese Gemeenschap en de Voormalige Joegoslavische Republiek Macedonië betreffende de invoer, de uitvoer en de doorvoer van goederen en de plaatsing daarvan onder enige andere douaneregeling, met inbegrip van verboden, beperkingen en controlemaatregelen;
+
+- b. „verzoekende autoriteit” : een bevoegde administratieve autoriteit die hiertoe door een overeenkomstsluitende partij is aangewezen en die op grond van dit protocol een verzoek om bijstand indient;
+
+- c. „aangezochte autoriteit” : een bevoegde administratieve autoriteit die hiertoe door een overeenkomstsluitende partij is aangewezen en die op grond van dit protocol een verzoek om bijstand ontvangt;
+
+- d. „persoonsgegevens” : alle informatie betreffende een natuurlijke persoon wiens identiteit bekend is of kan worden vastgesteld;
+
+- e. „met de douanewetgeving strijdige handeling” : elke overtreding of poging tot overtreding van de douanewetgeving.
+
+##### Artikel 2. Werkingssfeer
+
+1. De overeenkomstsluitende partijen verlenen elkaar bijstand, op de onder hun bevoegdheid vallende gebieden, en op de wijze en op de voorwaarden als bij dit Protocol vastgesteld, om ervoor te zorgen dat de douanewetgeving correct wordt toegepast, in het bijzonder bij de preventie, de opsporing en het onderzoek van handelingen in strijd met deze wetgeving.
+
+2. De bijstand in douanezaken waarin dit protocol voorziet, geldt voor elke administratieve autoriteit van de overeenkomstsluitende partijen die bevoegd is voor de toepassing van dit protocol. Deze bijstand doet geen afbreuk aan de regels betreffende de wederzijdse bijstand in strafzaken en geldt niet voor informatie die is verkregen krachtens bevoegdheden die op verzoek van de rechterlijke autoriteiten worden uitgeoefend, tenzij deze autoriteiten hiermee instemmen.
+
+3. Bijstand bij de invordering van rechten, heffingen en boetes valt niet onder dit Protocol.
+
+##### Artikel 3. Bijstand op verzoek
+
+1. Op aanvraag van de verzoekende autoriteit verschaft de aangezochte autoriteit eerstgenoemde alle ter zake dienende informatie die deze nodig heeft om erop toe te zien dat de douanewetgeving correct wordt toegepast, met inbegrip van informatie betreffende voorgenomen of vastgestelde handelingen die met deze wetgeving in strijd zijn of zouden kunnen zijn.
+
+2. Op aanvraag van de verzoekende autoriteit deelt de aangezochte autoriteit haar mede:
+
+- a. of goederen die uit het gebied van een Overeenkomstsluitende Partij zijn uitgevoerd op regelmatige wijze in de andere Overeenkomstsluitende Partij zijn ingevoerd, onder vermelding, in voorkomend geval, van de douaneregeling waaronder deze goederen zijn geplaatst;
+
+- b. of goederen die in het gebied van een overeenkomstsluitende partij zijn ingevoerd op regelmatige wijze uit de andere Overeenkomstsluitende Partij zijn uitgevoerd, onder vermelding, in voorkomend geval, van de douaneregeling waaronder deze goederen zijn geplaatst.
+
+3. Op aanvraag van de verzoekende autoriteit neemt de aangezochte autoriteit, in het kader van haar wetgeving, de nodige maatregelen om ervoor te zorgen dat toezicht wordt uitgeoefend op:
+
+- a. natuurlijke personen of rechtspersonen van wie redelijkerwijze kan worden vermoed dat zij handelingen verrichten of hebben verricht die met de douanewetgeving in strijd zijn;
+
+- b. plaatsen waar goederen op zodanige wijze worden opgeslagen dat redelijkerwijze kan worden vermoed dat zij bedoeld zijn om bij handelingen in strijd met de douanewetgeving te worden gebruikt;
+
+- c. goederen die op zodanige wijze worden of kunnen worden vervoerd dat redelijkerwijze kan worden vermoed dat zij bestemd zijn om in strijd met de douanewetgeving te worden gebruikt;
+
+- d. vervoermiddelen die op zodanige wijze worden of kunnen worden gebruikt dat redelijkerwijze kan worden vermoed dat zij bestemd zijn om in strijd met de douanewetgeving te worden gebruikt.
+
+##### Artikel 4. Ongevraagde bijstand
+
+De Overeenkomstsluitende Partijen verlenen elkaar ongevraagd bijstand overeenkomstig hun wetten, voorschriften en andere rechtsinstrumenten indien zij dit noodzakelijk achten voor de juiste toepassing van de douanewetgeving, in het bijzonder indien zij informatie hebben verkregen over:
+
+- –. handelingen die met deze wetgeving in strijd zijn of lijken te zijn en die van belang kunnen zijn voor de andere Overeenkomstsluitende Partij;
+
+- –. nieuwe middelen of methoden die bij dergelijke handelingen worden gebruikt;
+
+- –. goederen die het voorwerp vormen van handelingen in strijd met de douanewetgeving;
+
+- –. natuurlijke personen of rechtspersonen van wie redelijkerwijze kan worden vermoed dat zij handelingen verrichten of hebben verricht die met de douanewetgeving in strijd zijn;
+
+- –. middelen van vervoer waarvan redelijkerwijze kan worden vermoed dat zij gebruikt zijn of kunnen worden om handelingen te verrichten die met de douanewetgeving in strijd zijn.
+
+##### Artikel 5. Afgifte van documenten/Kennisgeving van besluiten
+
+Op aanvraag van de verzoekende autoriteit neemt de aangezochte autoriteit, overeenkomstig haar wetgeving, alle maatregelen die nodig zijn voor:
+
+- –. de afgifte van documenten
+
+- –. de kennisgeving van besluiten die van de verzoekende autoriteit uitgaan en verband houden met de toepassing van dit Protocol aan een geadresseerde die op haar grondgebied verblijft of gevestigd is.
+
+Verzoeken om de afgifte van documenten of om de kennisgeving van besluiten worden schriftelijk aan de aangezochte autoriteit gericht in een officiële taal van die autoriteit of in een voor die autoriteit aanvaardbare taal.
+
+##### Artikel 6. Vorm en inhoud van verzoeken om bijstand
+
+1. Verzoeken in het kader van dit protocol worden schriftelijk gedaan en gaan vergezeld van de bescheiden die voor de behandeling ervan noodzakelijk zijn. In spoedeisende gevallen kunnen verzoeken mondeling worden gedaan, mits zij onmiddellijk schriftelijk worden bevestigd.
+
+2. De overeenkomstig lid 1 ingediende verzoeken bevatten de volgende gegevens :
+
+- a. de naam van de verzoekende autoriteit;
+
+- b. de gevraagde maatregel;
+
+- c. het voorwerp en de reden van het verzoek;
+
+- d. de desbetreffende wetten, voorschriften en andere rechtselementen;
+
+- e. zo nauwkeurige en volledig mogelijke informatie betreffende de natuurlijke personen of rechtspersonen waarop het onderzoek betrekking heeft;
+
+- f. een overzicht van de relevante feiten en van het onderzoek dat reeds is uitgevoerd.
+
+3. De verzoeken worden ingediend in een officiële taal van de aangezochte autoriteit of in een voor deze autoriteit aanvaardbare taal. Deze eis is niet van toepassing op documenten die bij het in lid 1 bedoelde verzoek zijn gevoegd.
+
+4. Indien een verzoek niet in de juiste vorm wordt gedaan, kan om correctie of aanvulling worden verzocht. Er kunnen echter reeds voorzorgsmaatregelen worden genomen.
+
+##### Artikel 7. Behandeling van verzoeken
+
+1. Om aan een verzoek om bijstand te voldoen, handelt de aangezochte autoriteit, binnen de perken van haar bevoegdheden en met de middelen waarover zij beschikt, alsof zij voor eigen rekening of in opdracht van een andere autoriteit van dezelfde Overeenkomstsluitende Partij handelt, door reeds beschikbare informatie te verstrekken en het nodige onderzoek te verrichten of te laten verrichten. Deze bepaling is eveneens van toepassing op enige instantie waaraan de aangezochte autoriteit het verzoek doorzendt indien deze autoriteit niet zelfstandig kan handelen.
+
+2. Verzoeken om bijstand worden behandeld overeenkomstig de wetten, regels, bepalingen en andere rechtsinstrumenten van de aangezochte Overeenkomstsluitende Partij.
+
+3. Daartoe gemachtigde ambtenaren van een Overeenkomstsluitende Partij kunnen met instemming van de andere Overeenkomstsluitende Partij en op de door deze gestelde voorwaarden, in de kantoren van de aangezochte autoriteit of van een andere betrokken instantie als bedoeld in lid 1, gegevens verzamelen over handelingen die met de douanewetgeving in strijd zijn of kunnen zijn en die de verzoekende autoriteit voor de toepassing van dit Protocol nodig heeft.
+
+4. Ambtenaren van een Overeenkomstsluitende Partij kunnen, met instemming van de andere Overeenkomstsluitende Partij en op de door deze gestelde voorwaarden, aanwezig zijn bij onderzoek dat op het grondgebied van laatstgenoemde wordt verricht.
+
+##### Artikel 8. Vorm waarin de informatie dient te worden verstrekt
+
+1. De aangezochte autoriteit deelt de uitslag van het ingestelde onderzoek aan de verzoekende autoriteit mede in de vorm van documenten, voor echt gewaarmerkte afschriften van documenten, rapporten en dergelijke.
+
+2. Deze informatie kan met behulp van systemen voor automatische gegevensverwerking worden verstrekt.
+
+3. De originelen van dossiers en documenten worden enkel op verzoek toegezonden wanneer gewaarmerkte afschriften ontoereikend zijn. Deze originelen worden ten spoedigste geretourneerd.
+
+##### Artikel 9. Gevallen waarin geen bijstand behoeft te worden verleend
+
+1. Bijstand kan worden geweigerd of van voorwaarden of eisen afhankelijk worden gesteld wanneer een partij van oordeel is dat bijstand op grond van dit protocol:
+
+- a. de soevereiniteit van de Voormalige Joegoslavische Republiek Macedonië of van een lidstaat waaraan op grond van dit Protocol om bijstand is gevraagd, zou kunnen aantasten;
+
+- b. de openbare orde, de veiligheid of andere wezenlijke belangen in gevaar zou kunnen brengen, in het bijzonder in de in [artikel 10, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&artikel=10&z=2007-01-01&g=2007-01-01), bedoelde gevallen;
+
+- c. de schending inhoudt van een industrieel geheim, een handelsgeheim of een beroepsgeheim.
+
+2. De aangezochte autoriteit kan de bijstand uitstellen indien deze een lopend onderzoek, een lopende strafvervolging of procedure zou verstoren. In dat geval pleegt de aangezochte autoriteit overleg met de verzoekende autoriteit om na te gaan of de bijstand kan worden verleend op door de aangezochte autoriteit te stellen voorwaarden.
+
+3. Wanneer de verzoekende autoriteit om een vorm van bijstand verzoekt die zij desgevraagd zelf niet zou kunnen verlenen, vermeldt zij dit in haar verzoek. De aangezochte autoriteit is vrij te bepalen hoe zij op een dergelijk verzoek reageert.
+
+4. Indien bijstand wordt geweigerd, dient dit besluit en de redenen ervan terstond aan de verzoekende autoriteit te worden medegedeeld.
+
+##### Artikel 10. Uitwisseling van informatie en geheimhouding
+
+1. Alle informatie die ter uitvoering van dit protocol in welke vorm dan ook wordt verstrekt, heeft een vertrouwelijk karakter. Zij valt onder de geheimhoudingsplicht en geniet de bescherming van de wetgeving ter zake van de Overeenkomstsluitende Partij die ze heeft ontvangen en van de desbetreffende bepalingen die op de instellingen van de Gemeenschap van toepassing zijn.
+
+2. Persoonsgegevens mogen uitsluitend worden doorgegeven indien de Overeenkomstsluitende Partij die deze ontvangt zich ertoe verbindt deze op een wijze te beschermen die ten minste gelijkwaardig is aan de wijze waarop de overeenkomstsluitende partij die deze gegevens verstrekt deze beschermt. Te dien einde stellen de overeenkomstsluitende partijen elkaar in kennis van hun terzake geldende voorschriften, met inbegrip van, in voorkomend geval, de rechtsvoorschriften van de lidstaten van de Gemeenschap.
+
+3. Het gebruik van op grond van dit Protocol verkregen informatie in gerechtelijke en administratieve procedures in verband met overtredingen van de douanewetgeving wordt geacht voor de doeleinden van dit Protocol te geschieden. De overeenkomstsluitende partijen kunnen derhalve in hun bewijsvoeringen, verslagen en getuigenissen en bij procedures die bij rechtbanken aanhangig worden gemaakt, gebruik maken van krachtens dit Protocol verkregen informatie en geraadpleegde documenten. De bevoegde autoriteit die de informatie heeft verstrekt of toegang heeft verschaft tot deze documenten wordt van dit gebruik in kennis gesteld.
+
+4. De verkregen informatie wordt uitsluitend voor de toepassing van dit Protocol gebruikt. Indien een van de overeenkomstsluitende partijen dergelijke informatie voor andere doeleinden wenst te gebruiken, dient zij vooraf om de schriftelijke toestemming te verzoeken van de autoriteit die de informatie heeft verstrekt. Dergelijke informatie mag uitsluitend op de door deze autoriteit vastgestelde voorwaarden worden gebruikt.
+
+##### Artikel 11. Deskundigen en getuigen
+
+Een onder een aangezochte autoriteit ressorterende ambtenaar kan worden gemachtigd, binnen de perken van de hem verleende machtiging, als getuige of deskundige op te treden in gerechtelijke of administratieve procedures die betrekking hebben op aangelegenheden waarop dit protocol van toepassing is en daarbij de voor deze procedures noodzakelijke voorwerpen, bescheiden of voor echt gewaarmerkte afschriften voor te leggen. In de convocatie dient uitdrukkelijk te worden vermeld over welke aangelegenheid en in welke functie of hoedanigheid de betrokken ambtenaar zal worden ondervraagd.
+
+##### Artikel 12. Kosten van de bijstand
+
+De Overeenkomstsluitende Partijen brengen elkaar geen kosten in rekening voor uitgaven die ter uitvoering van dit protocol zijn gemaakt, met uitzondering, in voorkomend geval, van de uitgaven voor deskundigen, getuigen, tolken en vertalers die niet in overheidsdienst zijn.
+
+##### Artikel 13. Tenuitvoerlegging
+
+1. De douaneautoriteiten van de Voormalige Joegoslavische Republiek Macedonië, enerzijds, en de bevoegde diensten van de Commissie van de Europese Gemeenschappen en, in voorkomend geval, de douaneautoriteiten van de lidstaten, anderzijds, zien toe op de tenuitvoerlegging van dit Protocol. Zij stellen alle praktische maatregelen en regelingen voor de toepassing van dit protocol vast, rekening houdend met de voorschriften op het gebied van de gegevensbescherming. Zij kunnen de bevoegde autoriteiten aanbevelingen doen over wijzigingen die naar hun oordeel in dit Protocol moeten worden aangebracht.
+
+2. De Overeenkomstsluitende Partijen raadplegen elkaar en stellen elkaar in kennis van alle uitvoeringsbepalingen die op grond van dit Protocol worden vastgesteld.
+
+##### Artikel 14. Andere overeenkomsten
+
+1. Rekening houdend met de respectieve bevoegdheden van de Europese Gemeenschap en van haar lidstaten, geldt voor de bepalingen van dit protocol dat zij:
+
+- –. geen gevolgen hebben voor de verplichtingen van de Overeenkomstsluitende Partijen op grond van andere internationale overeenkomsten of verdragen;
+
+- –. worden geacht een aanvulling te vormen op overeenkomsten betreffende wederzijdse bijstand die zijn of kunnen worden gesloten tussen afzonderlijke lidstaten en de Voormalige Joegoslavische Republiek Macedonië;
+
+- –. geen gevolgen hebben voor de communautaire bepalingen betreffende de uitwisseling, tussen de bevoegde diensten van de Commissie van de Europese Gemeenschappen en de douaneautoriteiten van de lidstaten, van gegevens die op grond van dit protocol zijn verkregen en die van belang kunnen zijn voor de Gemeenschap.
+
+2. Onverminderd lid 1 hebben de bepalingen van dit protocol voorrang op de bepalingen van bilaterale overeenkomsten betreffende wederzijdse bijstand die zijn of kunnen worden gesloten tussen afzonderlijke lidstaten en de Voormalige Joegoslavische Republiek Macedonië voorzover de bepalingen van laatstgenoemde overeenkomsten met die van dit protocol strijdig zijn.
+
+3. Ten aanzien van vraagstukken in verband met de toepassing van dit protocol plegen de Overeenkomstsluitende Partijen overleg met elkaar om deze op te lossen in het kader van het bij [artikel 114 van de Stabilisatie- en Associatieovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001546&titeldeel=X&artikel=114&z=2007-01-01&g=2007-01-01) ingestelde Stabilisatie- en Associatiecomité.
 
 De Europese Gemeenschap, hierna „de Gemeenschap” genoemd,
 
