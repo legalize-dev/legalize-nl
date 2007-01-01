@@ -4,7 +4,7 @@ identifier: "BWBR0007144"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2007-01-01"
-last_updated: "1995-05-01"
+last_updated: "2007-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007144"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ Voor de toepassing van deze regeling wordt verstaan onder:
 
 - b. **huwelijksjaren:** de jaren tot 1 mei 1995 gedurende welke de tot verevening verplichte echtgenoot gehuwd was met de tot verevening gerechtigde echtgenoot en eerstgenoemde tevens deelnemer was in de betreffende pensioenregeling;
 
-- c. **deelnemingsjaren:** de jaren tot 1 mei 1995 die ingevolge de pensioenregeling, zoals die luidde ten tijde van de deelneming, als deelnemingsjaren voor de vaststelling van het pensioen meetellen;
+- c. **tijdsevenredige aanspraak:** een overeenkomstig [artikel 8, tweede lid, van de Pensioen- en spaarfondsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002089&artikel=8), zoals dat luidde op de dag voorafgaand aan de inwerkingtreding van de [Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809), bepaalde pensioenaanspraak;
 
 - d. **tijdsevenredige pensioenaanspraak:** een overeenkomstig [artikel 8, tweede lid,van de Pensioen- en spaarfondsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002089&artikel=8) bepaalde pensioenaanspraak;
 
@@ -62,7 +62,7 @@ Indien het aantal huwelijksjaren minder bedraagt dan het aantal deelnemingsjaren
 
 ##### Artikel 4
 
-In afwijking van het bepaalde in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0007144&artikel=3&z=1995-05-01&g=1995-05-01) wordt het te verevenen pensioen in geval van een dienstjaren-eindloonregeling vastgesteld door de per 1 mei 1995 te bepalen tijdsevenredige pensioenaanspraak te vermenigvuldigen met een breuk waarvan
+In afwijking van het bepaalde in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0007144&artikel=3&z=2007-01-01&g=2007-01-01) wordt het te verevenen pensioen in geval van een dienstjaren-eindloonregeling vastgesteld door de per 1 mei 1995 te bepalen tijdsevenredige pensioenaanspraak te vermenigvuldigen met een breuk waarvan
 
 - –. de teller wordt gevormd door het aantal huwelijksjaren;
 
@@ -80,7 +80,7 @@ Indien het aantal huwelijksjaren minder bedraagt dan het aantal deelnemingsjaren
 
 1. Indien het aantal huwelijksjaren minder bedraagt dan het aantal deelnemingsjaren doch de echtgenoten op basis van [artikel 4, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006641&artikel=4) zijn overeengekomen dat een deel van het pensioen opgebouwd gedurende de deelnemingsjaren vóór de huwelijksdatum verevend zal worden, bedraagt het voor verevening in aanmerking komende pensioen de per 1 mei 1995 te bepalen tijdsevenredige pensioenaanspraak verminderd met het pensioen dat is opgebouwd gedurende de deelnemingsjaren die buiten beschouwing worden gelaten op grond van de overeenkomst tussen de echtgenoten.
 
-2. In afwijking van het bepaalde in het eerste lid, wordt het te verevenen pensioen in geval van een dienstjaren-eindloonregeling overeenkomstig het bepaalde in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0007144&artikel=4&z=1995-05-01&g=1995-05-01) van deze regeling vastgesteld waarbij het aantal huwelijksjaren in de teller wordt vermeerderd met het aantal jaren dat mede in aanmerking moet worden genomen op grond van de overeenkomst tussen de echtgenoten.
+2. In afwijking van het bepaalde in het eerste lid, wordt het te verevenen pensioen in geval van een dienstjaren-eindloonregeling overeenkomstig het bepaalde in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0007144&artikel=4&z=2007-01-01&g=2007-01-01) van deze regeling vastgesteld waarbij het aantal huwelijksjaren in de teller wordt vermeerderd met het aantal jaren dat mede in aanmerking moet worden genomen op grond van de overeenkomst tussen de echtgenoten.
 
 ##### Artikel 8
 
