@@ -4,7 +4,7 @@ identifier: "BWBR0001867"
 country: "nl"
 rank: "wet"
 publication_date: "2024-01-01"
-last_updated: "2006-03-08"
+last_updated: "2007-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0001867"
 soort: "wet"
@@ -88,9 +88,7 @@ Wanneer de noodzakelijkheid tot voorziening in een waterstaatsbelang bestaat, en
 
 ##### Artikel 5a
 
-1. Er is een commissie van advies inzake de waterstaatswetgeving die tot taak heeft de regering en de beide kamers der Staten-Generaal te adviseren over de inhoud en structuur van de wetgeving op het gebied van de waterstaatszorg.
-
-2. De Commissie bestaat uit een voorzitter en ten hoogste 6 andere leden.
+Vervallen
 
 ##### Artikel 5b
 
@@ -204,7 +202,7 @@ Vervallen
 
 ##### Artikel 12b
 
-1. De schade, welke uit de toepassing der bepalingen van [artt. 9](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&paragraaf=6&artikel=9&z=2006-03-08&g=2006-03-08), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&paragraaf=6&artikel=10&z=2006-03-08&g=2006-03-08), [art. 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&paragraaf=6&artikel=11&z=2006-03-08&g=2006-03-08), [artikel 12, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&paragraaf=6&artikel=12&z=2006-03-08&g=2006-03-08), en [art. 12**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&paragraaf=6&artikel=12a&z=2006-03-08&g=2006-03-08) voor de rechthebbenden mocht voortvloeien, wordt, voor zoover de aanspraak op schadevergoeding niet door bestaande verplichtingen wordt uitgesloten, door hen, te wier name of last het werk wordt ontworpen of uitgevoerd, vergoed.
+1. De schade, welke uit de toepassing der bepalingen van [artt. 9](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&paragraaf=6&artikel=9&z=2007-01-01&g=2007-01-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&paragraaf=6&artikel=10&z=2007-01-01&g=2007-01-01), [art. 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&paragraaf=6&artikel=11&z=2007-01-01&g=2007-01-01), [artikel 12, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&paragraaf=6&artikel=12&z=2007-01-01&g=2007-01-01), en [art. 12**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&paragraaf=6&artikel=12a&z=2007-01-01&g=2007-01-01) voor de rechthebbenden mocht voortvloeien, wordt, voor zoover de aanspraak op schadevergoeding niet door bestaande verplichtingen wordt uitgesloten, door hen, te wier name of last het werk wordt ontworpen of uitgevoerd, vergoed.
 
 2. De vordering daartoe wordt behandeld en beslist door de kantonrechter van de rechtbank van het arrondissement, waarin de zaak geheel of ten deele is gelegen, zonder hooger beroep, indien de vordering niet meer dan € 1 750 beloopt, en behoudens hooger beroep tot welke som de vordering zich mocht uitstrekken.
 
@@ -364,9 +362,9 @@ Vervallen
 
 ##### Artikel 39
 
-1. Indien Gedeputeerde Staten van de hun in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&paragraaf=12&artikel=37&z=2006-03-08&g=2006-03-08) toegekende bevoegdheid, geen gebruik maken, kan Onze voornoemde Minister, Gedeputeerde Staten gehoord, de daar bedoelde bevelen geven.
+1. Indien Gedeputeerde Staten van de hun in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&paragraaf=12&artikel=37&z=2007-01-01&g=2007-01-01) toegekende bevoegdheid, geen gebruik maken, kan Onze voornoemde Minister, Gedeputeerde Staten gehoord, de daar bedoelde bevelen geven.
 
-2. Het bepaalde in het voorgaande lid is eveneens van toepassing op het bevel bedoeld in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&paragraaf=12&artikel=38&z=2006-03-08&g=2006-03-08).
+2. Het bepaalde in het voorgaande lid is eveneens van toepassing op het bevel bedoeld in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&paragraaf=12&artikel=38&z=2007-01-01&g=2007-01-01).
 
 ##### Artikel 40
 
@@ -384,7 +382,7 @@ Vervallen
 
 ##### Artikel 42
 
-Onze Minister van Verkeer en Waterstaat is bevoegd tot toepassing van bestuursdwang ter handhaving van een door hem gegeven bevel als bedoeld in [§12](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&paragraaf=12&z=2006-03-08&g=2006-03-08).
+Onze Minister van Verkeer en Waterstaat is bevoegd tot toepassing van bestuursdwang ter handhaving van een door hem gegeven bevel als bedoeld in [§12](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&paragraaf=12&z=2007-01-01&g=2007-01-01).
 
 ##### Artikel 42a
 
@@ -392,7 +390,7 @@ Vervallen
 
 ##### Artikel 42b
 
-Onze Minister van Verkeer en Waterstaat kan, ter handhaving van een door hen gegeven bevel als bedoeld in [§12](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&paragraaf=12&z=2006-03-08&g=2006-03-08), aan gedeputeerde staten opdragen bestuursdwang toe te passen, dan wel zelf tot toepassing van bestuursdwang overgaan.
+Onze Minister van Verkeer en Waterstaat kan, ter handhaving van een door hen gegeven bevel als bedoeld in [§12](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&paragraaf=12&z=2007-01-01&g=2007-01-01), aan gedeputeerde staten opdragen bestuursdwang toe te passen, dan wel zelf tot toepassing van bestuursdwang overgaan.
 
 ##### Artikel 42c
 
@@ -500,11 +498,11 @@ Vervallen
 
 ##### Artikel 66
 
-1. Wordt een bevel, als bedoeld in de [artikelen 36](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&paragraaf=12&artikel=36&z=2006-03-08&g=2006-03-08), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&paragraaf=12&artikel=37&z=2006-03-08&g=2006-03-08) en [38](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&paragraaf=12&artikel=38&z=2006-03-08&g=2006-03-08) bij gemeenschappelijk besluit van twee of meer colleges van Gedeputeerde Staten gegeven, dan wordt bij dat besluit één van die colleges aangewezen voor de uitoefening van de bevoegdheden, bij deze wet aan of ten aanzien van Gedeputeerde Staten toegekend in verband met de tenuitvoerlegging, daaronder begrepen de bevoegdheid tot toepassing van bestuursdwang.
+1. Wordt een bevel, als bedoeld in de [artikelen 36](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&paragraaf=12&artikel=36&z=2007-01-01&g=2007-01-01), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&paragraaf=12&artikel=37&z=2007-01-01&g=2007-01-01) en [38](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&paragraaf=12&artikel=38&z=2007-01-01&g=2007-01-01) bij gemeenschappelijk besluit van twee of meer colleges van Gedeputeerde Staten gegeven, dan wordt bij dat besluit één van die colleges aangewezen voor de uitoefening van de bevoegdheden, bij deze wet aan of ten aanzien van Gedeputeerde Staten toegekend in verband met de tenuitvoerlegging, daaronder begrepen de bevoegdheid tot toepassing van bestuursdwang.
 
 2. Indien de betrokken colleges zich niet met elkander over zulk een besluit verstaan, wordt het bevel gegeven en de aanwijzing gedaan door Onze met de uitvoering van deze wet belaste Minister.
 
-3. De rechtsvordering tegen de provincie, bedoeld in [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&paragraaf=12&artikel=41&z=2006-03-08&g=2006-03-08), wordt ingesteld tegen de provincie, waarvan Gedeputeerde Staten voor de uitoefening van de in het eerste lid bedoelde bevoegdheden zijn aangewezen.
+3. De rechtsvordering tegen de provincie, bedoeld in [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&paragraaf=12&artikel=41&z=2007-01-01&g=2007-01-01), wordt ingesteld tegen de provincie, waarvan Gedeputeerde Staten voor de uitoefening van de in het eerste lid bedoelde bevoegdheden zijn aangewezen.
 
 #### § 17. Voorzieningen inzake voorbereiding op en optreden bij gevaar
 
@@ -728,7 +726,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ##### Artikel 70
 
-1. Gedeputeerde staten bezien of het op grond van [artikel 69, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&paragraaf=17&artikel=69&z=2006-03-08&g=2006-03-08), toegezonden calamiteitenplan voldoet aan de in [artikel 69, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&paragraaf=17&artikel=69&z=2006-03-08&g=2006-03-08), omschreven vereisten. Indien zij van oordeel zijn dat dit niet het geval is, kunnen zij de beheerder uitnodigen het calamiteitenplan binnen een door hen te bepalen termijn te wijzigen.
+1. Gedeputeerde staten bezien of het op grond van [artikel 69, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&paragraaf=17&artikel=69&z=2007-01-01&g=2007-01-01), toegezonden calamiteitenplan voldoet aan de in [artikel 69, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&paragraaf=17&artikel=69&z=2007-01-01&g=2007-01-01), omschreven vereisten. Indien zij van oordeel zijn dat dit niet het geval is, kunnen zij de beheerder uitnodigen het calamiteitenplan binnen een door hen te bepalen termijn te wijzigen.
 
 2. Alvorens gedeputeerde staten gebruik maken van de bevoegdheid, bedoeld in het vorige lid, plegen zij overleg met de beheerder.
 
@@ -736,7 +734,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ##### Artikel 71
 
-1. Iedere vier jaren doen gedeputeerde staten aan Onze Minister van Verkeer en Waterstaat opgave van de gehouden oefeningen, bedoeld in [artikel 68, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&paragraaf=17&artikel=68&z=2006-03-08&g=2006-03-08), alsmede van het voorhanden zijn van calamiteitenplannen, bedoeld in [artikel 69, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&paragraaf=17&artikel=69&z=2006-03-08&g=2006-03-08). Zij zenden een afschrift van deze opgave aan Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties.
+1. Iedere vier jaren doen gedeputeerde staten aan Onze Minister van Verkeer en Waterstaat opgave van de gehouden oefeningen, bedoeld in [artikel 68, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&paragraaf=17&artikel=68&z=2007-01-01&g=2007-01-01), alsmede van het voorhanden zijn van calamiteitenplannen, bedoeld in [artikel 69, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&paragraaf=17&artikel=69&z=2007-01-01&g=2007-01-01). Zij zenden een afschrift van deze opgave aan Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties.
 
 2. De in het eerste lid bedoelde toezending geschiedt voor de eerste maal binnen vier jaren na de datum van inwerkingtreding van deze wet.
 
@@ -752,9 +750,9 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ##### Artikel 73
 
-1. Indien de beheerder, niet zijnde gedeputeerde staten, toepassing heeft gegeven aan [artikel 72, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&paragraaf=17&artikel=72&z=2006-03-08&g=2006-03-08), geeft hij hiervan onverwijld kennis aan gedeputeerde staten. Gedeputeerde staten geven hiervan onverwijld kennis aan Onze Minister van Verkeer en Waterstaat met uitzondering van het geval waarin de kennisgeving van Onze Minister zelf afkomstig is.
+1. Indien de beheerder, niet zijnde gedeputeerde staten, toepassing heeft gegeven aan [artikel 72, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&paragraaf=17&artikel=72&z=2007-01-01&g=2007-01-01), geeft hij hiervan onverwijld kennis aan gedeputeerde staten. Gedeputeerde staten geven hiervan onverwijld kennis aan Onze Minister van Verkeer en Waterstaat met uitzondering van het geval waarin de kennisgeving van Onze Minister zelf afkomstig is.
 
-2. Indien gedeputeerde staten of Onze commissaris in de provincie toepassing hebben gegeven aan [artikel 72, eerste respectievelijk tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&paragraaf=17&artikel=72&z=2006-03-08&g=2006-03-08), geven zij hiervan onverwijld kennis aan Onze Minister van Verkeer en Waterstaat.
+2. Indien gedeputeerde staten of Onze commissaris in de provincie toepassing hebben gegeven aan [artikel 72, eerste respectievelijk tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&paragraaf=17&artikel=72&z=2007-01-01&g=2007-01-01), geven zij hiervan onverwijld kennis aan Onze Minister van Verkeer en Waterstaat.
 
 ##### Artikel 74
 
@@ -772,11 +770,11 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ##### Artikel 75
 
-1. Indien naar het oordeel van Onze Minister van Verkeer en Waterstaat door gedeputeerde staten of Onze commissaris in de provincie ten onrechte niet of niet voldoende gebruik gemaakt wordt van de in [artikel 74, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&paragraaf=17&artikel=74&z=2006-03-08&g=2006-03-08), bedoelde bevoegdheid, kan Onze Minister van Verkeer en Waterstaat, zo veel mogelijk na overleg met gedeputeerde staten of Onze commissaris in de provincie, een opdracht geven aan de desbetreffende beheerder.
+1. Indien naar het oordeel van Onze Minister van Verkeer en Waterstaat door gedeputeerde staten of Onze commissaris in de provincie ten onrechte niet of niet voldoende gebruik gemaakt wordt van de in [artikel 74, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&paragraaf=17&artikel=74&z=2007-01-01&g=2007-01-01), bedoelde bevoegdheid, kan Onze Minister van Verkeer en Waterstaat, zo veel mogelijk na overleg met gedeputeerde staten of Onze commissaris in de provincie, een opdracht geven aan de desbetreffende beheerder.
 
 2. Gedeputeerde staten worden zo spoedig mogelijk van het geven van de opdracht op de hoogte gesteld.
 
-3. [Artikel 74, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&paragraaf=17&artikel=74&z=2006-03-08&g=2006-03-08), zijn van overeenkomstige toepassing.
+3. [Artikel 74, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&paragraaf=17&artikel=74&z=2007-01-01&g=2007-01-01), zijn van overeenkomstige toepassing.
 
 4. Indien de in het eerste lid genoemde opdracht zijn grond vindt in aanmerkelijke verslechtering van de kwaliteit van een oppervlaktewater, wordt deze, tenzij spoedeisende omstandigheden zich daartegen verzetten, gegeven in overeenstemming met Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer.
 
@@ -784,21 +782,21 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ##### Artikel 76
 
-Indien een met toepassing van [artikel 74, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&paragraaf=17&artikel=74&z=2006-03-08&g=2006-03-08), of [75, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&paragraaf=17&artikel=75&z=2006-03-08&g=2006-03-08), gegeven opdracht met zich brengt, dat door de beheerder bepaalde maatregelen worden getroffen en blijkt dat deze door de beheerder niet of niet naar behoren geschieden, zijn gedeputeerde staten onderscheidenlijk Onze Minister van Verkeer en Waterstaat bevoegd tot het treffen van maatregelen ten laste van de beheerder.
+Indien een met toepassing van [artikel 74, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&paragraaf=17&artikel=74&z=2007-01-01&g=2007-01-01), of [75, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&paragraaf=17&artikel=75&z=2007-01-01&g=2007-01-01), gegeven opdracht met zich brengt, dat door de beheerder bepaalde maatregelen worden getroffen en blijkt dat deze door de beheerder niet of niet naar behoren geschieden, zijn gedeputeerde staten onderscheidenlijk Onze Minister van Verkeer en Waterstaat bevoegd tot het treffen van maatregelen ten laste van de beheerder.
 
 ##### Artikel 77
 
-1. Indien werkzaamheden die, al dan niet ter voldoening aan krachtens de [artikelen 74](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&paragraaf=17&artikel=74&z=2006-03-08&g=2006-03-08) of [75](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&paragraaf=17&artikel=75&z=2006-03-08&g=2006-03-08) gegeven opdracht, door een beheerder zijn uitgevoerd, uitsluitend of mede hebben gestrekt ter behartiging van de belangen van een andere beheerder, kan aan laatstgenoemde beheerder de verplichting worden opgelegd tot betaling van een bedrag, ter gehele of gedeeltelijke vergoeding van de kosten van die uitvoering, te voldoen aan de beheerder die de werkzaamheden heeft uitgevoerd.
+1. Indien werkzaamheden die, al dan niet ter voldoening aan krachtens de [artikelen 74](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&paragraaf=17&artikel=74&z=2007-01-01&g=2007-01-01) of [75](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&paragraaf=17&artikel=75&z=2007-01-01&g=2007-01-01) gegeven opdracht, door een beheerder zijn uitgevoerd, uitsluitend of mede hebben gestrekt ter behartiging van de belangen van een andere beheerder, kan aan laatstgenoemde beheerder de verplichting worden opgelegd tot betaling van een bedrag, ter gehele of gedeeltelijke vergoeding van de kosten van die uitvoering, te voldoen aan de beheerder die de werkzaamheden heeft uitgevoerd.
 
-2. Het besluit tot het opleggen van de in het vorige lid omschreven verplichting en tot het bepalen van het bedrag daarvan, wordt genomen door gedeputeerde staten. Indien het betreft de kosten van werkzaamheden ter voldoening aan een opdracht, gegeven met toepassing van [artikel 75, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&paragraaf=17&artikel=75&z=2006-03-08&g=2006-03-08), wordt het besluit genomen door Onze Minister van Verkeer en Waterstaat.
+2. Het besluit tot het opleggen van de in het vorige lid omschreven verplichting en tot het bepalen van het bedrag daarvan, wordt genomen door gedeputeerde staten. Indien het betreft de kosten van werkzaamheden ter voldoening aan een opdracht, gegeven met toepassing van [artikel 75, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&paragraaf=17&artikel=75&z=2007-01-01&g=2007-01-01), wordt het besluit genomen door Onze Minister van Verkeer en Waterstaat.
 
 ##### Artikel 78
 
-1. Aan degene die ten gevolge van het treffen van maatregelen als bedoeld in [artikel 72](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&paragraaf=17&artikel=72&z=2006-03-08&g=2006-03-08) of [76](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&paragraaf=17&artikel=76&z=2006-03-08&g=2006-03-08) schade lijdt of zal lijden, welke redelijkerwijze niet of niet geheel te zijnen laste behoort te blijven en waarvan de vergoeding niet of niet op andere wijze voldoende is verzekerd, wordt op diens verzoek door de beheerder onderscheidenlijk het bestuursorgaan die de maatregel heeft getroffen een schadevergoeding toegekend.
+1. Aan degene die ten gevolge van het treffen van maatregelen als bedoeld in [artikel 72](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&paragraaf=17&artikel=72&z=2007-01-01&g=2007-01-01) of [76](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&paragraaf=17&artikel=76&z=2007-01-01&g=2007-01-01) schade lijdt of zal lijden, welke redelijkerwijze niet of niet geheel te zijnen laste behoort te blijven en waarvan de vergoeding niet of niet op andere wijze voldoende is verzekerd, wordt op diens verzoek door de beheerder onderscheidenlijk het bestuursorgaan die de maatregel heeft getroffen een schadevergoeding toegekend.
 
 2. Deze schadevergoeding kan worden bepaald in geld of in andere vorm.
 
-3. Indien het te vergoeden nadeel voortvloeit uit het treffen van maatregelen krachtens [artikel 76](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&paragraaf=17&artikel=76&z=2006-03-08&g=2006-03-08), kan het bestuursorgaan dat de maatregelen heeft getroffen de schadevergoeding in rekening brengen bij de beheerder van de betreffende waterstaatswerken.
+3. Indien het te vergoeden nadeel voortvloeit uit het treffen van maatregelen krachtens [artikel 76](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&paragraaf=17&artikel=76&z=2007-01-01&g=2007-01-01), kan het bestuursorgaan dat de maatregelen heeft getroffen de schadevergoeding in rekening brengen bij de beheerder van de betreffende waterstaatswerken.
 
 #### Slotbepalingen
 
@@ -824,7 +822,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 #### § 13. Middelen van executie
 
-#### § 14. Verhaal der kosten bedoeld in [§§ 12](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&paragraaf=12&z=2006-03-08&g=2006-03-08) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&paragraaf=13&z=2006-03-08&g=2006-03-08)
+#### § 14. Verhaal der kosten bedoeld in [§§ 12](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&paragraaf=12&z=2007-01-01&g=2007-01-01) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&paragraaf=13&z=2007-01-01&g=2007-01-01)
 
 #### § 15. Vervallen
 
