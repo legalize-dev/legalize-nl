@@ -4,7 +4,7 @@ identifier: "BWBR0017439"
 country: "nl"
 rank: "wet"
 publication_date: "2007-01-01"
-last_updated: "2005-02-01"
+last_updated: "2007-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017439"
 soort: "wet"
@@ -61,6 +61,6 @@ Wijzigt de Wet op de vennootschapsbelasting 1969.
 
 1. Deze wet treedt in werking met ingang van de eerste dag van de derde kalendermaand na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.
 
-2. Kosten ter zake van de verwerving van een deelneming gemaakt na 13 december 2002 worden beheerst door het regime van [artikel 13 van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=13) zoals dat artikel luidt na de inwerkingtreding van deze wet.
+2. Kosten ter zake van de verwerving van een deelneming gemaakt na 13 december 2002 doch vóór de inwerkingtreding van deze wet worden beheerst door het regime van [artikel 13 van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=13) zoals [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=13) luidt na de inwerkingtreding van deze wet.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
