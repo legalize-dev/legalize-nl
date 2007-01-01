@@ -4,7 +4,7 @@ identifier: "BWBR0007159"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-01"
-last_updated: "2006-01-01"
+last_updated: "2007-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007159"
 soort: "ministeriele-regeling"
@@ -47,7 +47,7 @@ Treedt in werking op het tijdstip waarop de Wet belastingen op milieugrondslag e
 
 ##### Artikel 1
 
-1. Deze regeling geeft uitvoering aan de [artikelen 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=6), [10a, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=10a), [11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=11), [11c, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=11c), [11f, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=11f), [11i, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=11i), [11j, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=11j), [11k, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=11k), [15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=15), [18, tweede lid, onderdeel e, en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=18), [18b, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=18b), [18c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=18c), [19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=19), [26, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=26), [27, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=27), [28, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=28), [36a, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36a), [36c, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36c), [36h, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36h), [36i, twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36i), [36j, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36j), [36k, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36k), [36l, tiende en elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36l), [36m, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36m), en [36n, derde lid, van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36n) en aan de [artikelen 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=7), [7b, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=7b), [8aa, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=8aa), [8c, tweede en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=8c), [8ca, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=8ca), en [8f van het Uitvoeringsbesluit belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=8f).
+1. Deze regeling geeft uitvoering aan de [artikelen 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=6), [10a, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=10a), [11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=11), [11c, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=11c), [11f, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=11f), [11i, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=11i), [11j, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=11j), [11k, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=11k), [15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=15), [18, tweede lid, onderdeel e, en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=18), [18b, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=18b), [18c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=18c), [19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=19), [26, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=26), [27, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=27), [28, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=28), [36a, tweede, derde, en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36a), [36c, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36c), [36h, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36h), [36i, twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36i), [36j, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36j), [36k, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36k), [36l, tiende en elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36l), [36m, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36m), en [36n, derde lid, van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36n) en aan de [artikelen 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=7), [7b, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=7b), [8aa, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=8aa), [8c, tweede en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=8c), [8ca, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=8ca), en [8f van het Uitvoeringsbesluit belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=8f).
 
 2. Voor de toepassing van deze regeling wordt verstaan onder:
 
@@ -165,7 +165,7 @@ De administratie van de belastingplichtige, bedoeld in artikel 11d van de wet, i
 
 ##### Artikel 5
 
-1. Het gewicht van de in [artikel 13, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=13) bedoelde afvalstoffen wordt onder verantwoordelijkheid van de houder van een afvalverwerkingsinrichting onmiddellijk vóór dan wel aansluitend op de afgifte bepaald in kilogrammen door weging met een weegwerktuig als bedoeld in de [IJkwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009082).
+1. Het gewicht van de in [artikel 13, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=13) bedoelde afvalstoffen wordt onder verantwoordelijkheid van de houder van een afvalverwerkingsinrichting onmiddellijk vóór dan wel aansluitend op de afgifte bepaald in kilogrammen door weging met een meetinstrument dat voldoet aan de eisen die bij of krachtens de [Metrologiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0019517) worden gesteld aan een meetinstrument.
 
 2. De volumieke massa van de aangevoerde afvalstoffen wordt bepaald door het gewicht van de afvalstoffen te delen door het met het registratienummer van de container, kipwagen of het vaartuig corresponderende volume.
 
@@ -193,7 +193,7 @@ De administratie van de houder van de afvalverwerkingsinrichting is zodanig inge
 
 - b. het gewicht per partij afval;
 
-- c. de verklaring als bedoeld in [artikel 5a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007159&hoofdstuk=III&artikel=5a&z=2006-01-01&g=2006-01-01).
+- c. de verklaring als bedoeld in [artikel 5a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007159&hoofdstuk=III&artikel=5a&z=2007-01-01&g=2007-01-01).
 
 ##### Artikel 5c
 
@@ -261,9 +261,11 @@ De herleiding van feitelijke hoeveelheden halfzware olie en gasolie tot hoeveelh
 
 ##### Artikel 8aa
 
-1. Voor de toepassing van artikel 36a, eerste lid, onderdeel k, van de wet worden producten, afvalstoffen en residuen van de landbouw, met inbegrip van plantaardige en dierlijke stoffen, de bosbouw en aanverwante bedrijfstakken, alsmede industrieel en huishoudelijk afval met een aandeel onvermijdbare kunststoffen en ander materiaal van lang-cyclisch organische oorsprong van ten hoogste 3 massaprocent per partij geacht geheel biologisch afbreekbaar te zijn.
+1. Berekeningen voor de toepassing van [artikel 36a, eerste lid, onderdeel q, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36a), worden gemaakt op basis van een kalenderjaar.
 
-2. Voor de toepassing van het eerste lid wordt als partij aangemerkt de op basis van één specificatie geleverde hoeveelheid materiaal die voor controle op het aandeel onvermijdbare kunststoffen en ander materiaal van lang-cyclisch organische oorsprong door degene die het materiaal gebruikt voor de opwekking van elektriciteit gedurende een door hem vastgestelde periode als eenheid wordt aangemerkt en als zodanig identificeerbaar is.
+2. Voor de toepassing van [artikel 36a, eerste lid, onderdeel k, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36a) worden producten, afvalstoffen en residuen van de landbouw, met inbegrip van plantaardige en dierlijke stoffen, de bosbouw en aanverwante bedrijfstakken, alsmede industrieel en huishoudelijk afval met een aandeel onvermijdbare kunststoffen en ander materiaal van lang-cyclisch organische oorsprong van ten hoogste 3 massaprocent per partij geacht geheel biologisch afbreekbaar te zijn.
+
+3. Voor de toepassing van het eerste lid wordt als partij aangemerkt de op basis van één specificatie geleverde hoeveelheid materiaal die voor controle op het aandeel onvermijdbare kunststoffen en ander materiaal van lang-cyclisch organische oorsprong door degene die het materiaal gebruikt voor de opwekking van elektriciteit gedurende een door hem vastgestelde periode als eenheid wordt aangemerkt en als zodanig identificeerbaar is.
 
 ##### Artikel 8b
 
@@ -287,9 +289,9 @@ Op de administratie van de fiscaal vertegenwoordiger, bedoeld in [artikel 36e, v
 
 1.
 
-Ter zake van de uitslag en de invoer van halfzware olie, gasolie en vloeibaar gemaakt petroleumgas vindt het tarief, bedoeld in artikel 36i, derde lid, van de wet, toepassing bij wijze van teruggaaf van belasting aan de tuinbouwer die de minerale oliën gebruikt voor verwarming ter bevordering van het groeiproces van tuinbouwprodukten.
+Ter zake van de uitslag en de invoer van halfzware olie, gasolie en vloeibaar gemaakt petroleumgas vindt het tarief, bedoeld in [artikel 36i, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36i), toepassing bij wijze van teruggaaf van belasting aan de tuinbouwer die de minerale oliën gebruikt voor verwarming ter bevordering van het groeiproces van tuinbouwprodukten.
 
-2. De teruggaaf geschiedt op verzoek van de tuinbouwer en bedraagt de aan hem wegens levering van de minerale oliën in rekening gebrachte belasting.
+2. De teruggaaf geschiedt op verzoek van de tuinbouwer en bedraagt de aan hem wegens levering van minerale oliën in rekening gebrachte belasting verminderd met het bedrag dat resulteert indien de tarieven als bedoeld in [artikel 36i, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36i), in rekening worden gebracht.
 
 3. Het verzoek om teruggaaf wordt gedaan binnen dertien weken na afloop van het kalenderkwartaal waarin de minerale oliën zijn ontvangen.
 
@@ -381,7 +383,7 @@ De verklaring, bedoeld in [artikel 8b, eerste, derde en vierde lid, van het besl
 
 - e. de stand van de warmtehoeveelheidsmeter aan het begin en aan het einde van de verbruiksperiode.
 
-4. In de afrekening, bedoeld in [artikel 8c, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007159&hoofdstuk=IVa&artikel=8c&z=2006-01-01&g=2006-01-01), van het Uitvoeringsbesluit, worden vermeld de totale hoeveelheid warmte die in het blokverwarmingscomplex is verbruikt in de verbruiksperiode waarop het verzoek om teruggaaf betrekking heeft, alsmede het aandeel van de gebruiker daarin.
+4. In de afrekening, bedoeld in [artikel 8c, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007159&hoofdstuk=IVa&artikel=8c&z=2007-01-01&g=2007-01-01), van het Uitvoeringsbesluit, worden vermeld de totale hoeveelheid warmte die in het blokverwarmingscomplex is verbruikt in de verbruiksperiode waarop het verzoek om teruggaaf betrekking heeft, alsmede het aandeel van de gebruiker daarin.
 
 5. In het verzoek om teruggaaf, bedoeld in [artikel 36l, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36l), worden de volgende gegevens vermeld:
 
@@ -507,7 +509,7 @@ Vervallen
 
 - e. het netto elektrisch rendement van de installatie.
 
-2. De administratie van een installatie waarin zuivere biomassa wordt verwerkt op een wijze als bedoeld in het eerste lid dient zodanig te zijn ingericht dat daarin op overzichtelijke wijze de gegevens zijn opgenomen omtrent alle voor de toepassing van [artikel 8aa](https://wetten.overheid.nl/jci1.3:c:BWBR0007159&hoofdstuk=IVa&artikel=8aa&z=2006-01-01&g=2006-01-01) van belang zijnde bedrijfshandelingen.
+2. De administratie van een installatie waarin zuivere biomassa wordt verwerkt op een wijze als bedoeld in het eerste lid dient zodanig te zijn ingericht dat daarin op overzichtelijke wijze de gegevens zijn opgenomen omtrent alle voor de toepassing van [artikel 8aa](https://wetten.overheid.nl/jci1.3:c:BWBR0007159&hoofdstuk=IVa&artikel=8aa&z=2007-01-01&g=2007-01-01) van belang zijnde bedrijfshandelingen.
 
 3. De administratie van een installatie waarin biomassa zodanig wordt verwerkt dat daaruit stortgas, rioolwaterzuiveringsgas of biogas wordt gewonnen, dient zodanig te zijn ingericht dat daarin op overzichtelijke wijze alle gegevens zijn opgenomen welke van belang zijn voor de jaarlijkse vaststelling van de door de installatie gewonnen en aan het distributienet geleverde hoeveelheid stortgas, rioolwaterzuiveringsgas, of biogas.
 
