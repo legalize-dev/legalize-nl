@@ -4,7 +4,7 @@ identifier: "BWBR0012031"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-17"
-last_updated: "2006-10-25"
+last_updated: "2007-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012031"
 soort: "ministeriele-regeling"
@@ -59,7 +59,7 @@ Uitvoeringsregeling inkomstenbelasting 2001
 
 ##### Artikel 2. In belangrijke mate onderhouden van kinderen
 
-Een kind wordt in belangrijke mate op kosten van de ouder onderhouden indien de op de ouder drukkende bijdrage in de kosten van het onderhoud van het kind ten minste € 386 per kwartaal beloopt. De ouder wordt geacht een kind in belangrijke mate op zijn kosten te onderhouden indien hij voor het kind recht heeft op kinderbijslag ingevolge de [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368) of op een tegemoetkoming volgens een naar aard en strekking met de [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368) overeenkomende buitenlandse regeling.
+Een kind wordt in belangrijke mate op kosten van de ouder onderhouden indien de op de ouder drukkende bijdrage in de kosten van het onderhoud van het kind ten minste € 393 per kwartaal beloopt. De ouder wordt geacht een kind in belangrijke mate op zijn kosten te onderhouden indien hij voor het kind recht heeft op kinderbijslag ingevolge de [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368) of op een tegemoetkoming volgens een naar aard en strekking met de [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368) overeenkomende buitenlandse regeling.
 
 ### Hoofdstuk 2. Raamwerk (hoofdstuk 2 van de wet)
 
@@ -131,7 +131,7 @@ De rittenregistratie als bedoeld in [artikel 3.20 van de wet](https://wetten.ove
 
 1. In afwijking van [artikel 3.27, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.27) is het eerste lid van dat artikel mede van toepassing op de betaling van premies voor risicoverzekeringen voor weduwen- en wezenpensioenen, voorzover het in de premies begrepen bestanddeel voor toekomstige wijzigingen in de hoogte van lonen of prijzen niet meer bedraagt dan nodig is voor een aanpassing aan een zodanige wijziging van 4% per jaar.
 
-2. In afwijking van [artikel 3.27, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.27) is het eerste lid van dat artikel mede van toepassing op de betaling van premies of koopsommen aan een pensioenlichaam waarvan het doel en de feitelijke werkzaamheden overeenkomen met die van een pensioenfonds als bedoeld in de [Pensioen- en spaarfondsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002089) en waarvan de winst uitsluitend kan worden aangewend ten bate van de verzekerden, een ander pensioenfonds met overeenkomstige doelstelling, of een algemeen maatschappelijk belang.
+2. In afwijking van [artikel 3.27, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.27) is het eerste lid van dat artikel mede van toepassing op de betaling van premies of koopsommen aan een pensioenlichaam waarvan het doel en de feitelijke werkzaamheden overeenkomen met die van een pensioenfonds als bedoeld in de [Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809) en waarvan de winst uitsluitend kan worden aangewend ten bate van de verzekerden, een ander pensioenfonds met overeenkomstige doelstelling, of een algemeen maatschappelijk belang.
 
 3. Het eerste en tweede lid zijn slechts van toepassing voorzover de betalingen het vermogen van de onderneming onherroepelijk hebben verlaten.
 
@@ -211,7 +211,11 @@ Vervallen
 
 - g. uitkeringen als bedoeld in artikel 5 van het Besluit taakverlichting alleenstaande werkenden/AAW;
 
-- h. inkomensondersteunende uitkeringen ingevolge [artikel 108, eerste lid, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=108), die overeenkomen met bijstand ter bestrijding van bepaalde noodzakelijke kosten.
+- h. inkomensondersteunende uitkeringen ingevolge [artikel 108, eerste lid, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=108), die overeenkomen met bijstand ter bestrijding van bepaalde noodzakelijke kosten;
+
+- i. uitkeringen en verstrekkingen ingevolge de [Tijdelijke regeling verstrekkingen gerepatrieerden Libanon](https://wetten.overheid.nl/jci1.3:c:BWBR0020126);
+
+- j. uitkeringen en verstrekkingen ingevolge de [Tijdelijke regeling voortzetting verstrekkingen gerepatrieerden Libanon](https://wetten.overheid.nl/jci1.3:c:BWBR0020553).
 
 2. Als uitkeringen tot bestrijding van onderhoudskosten van thuiswonende gehandicapte kinderen, bedoeld in [artikel 3.104, onderdeel i, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.104), worden aangewezen: uitkeringen ingevolge de [Regeling tegemoetkoming onderhoudskosten thuiswonende gehandicapte kinderen 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0010997).
 
@@ -321,7 +325,13 @@ Met betrekking tot een kalenderjaar wordt als beginnende ondernemer als bedoeld 
 
 De beginnende ondernemer als bedoeld in [artikel 5.17, derde lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.17), is een rechtspersoon die ten tijde van het verstrekken van de achtergestelde lening aan hem, onderscheidenlijk het nemen van een deelneming in hem moet voldoen aan de volgende voorwaarden:
 
-- a. de rechtspersoon is een besloten vennootschap met beperkte aansprakelijkheid die niet langer dan acht jaren geleden tot stand is gekomen;
+- a. de rechtspersoon is een besloten vennootschap met beperkte aansprakelijkheid of naamloze vennootschap, die niet langer dan acht jaren geleden tot stand is gekomen, dan wel een rechtspersoon met een in aandelen verdeeld kapitaal die:
+
+- 1°. is opgericht naar het recht van de Nederlandse Antillen, Aruba, een lidstaat van de Europese Unie of een staat in de relatie waarmee een met Nederland gesloten verdrag ter voorkoming van dubbele belasting van toepassing is waarin een bepaling is opgenomen die discriminatie naar nationaliteit verbiedt voor rechtspersonen die overigens in dezelfde omstandigheden verkeren als een naar Nederlands recht opgerichte besloten vennootschap met beperkte aansprakelijkheid of naamloze vennootschap;
+
+- 2°. naar aard en inrichting vergelijkbaar is met de besloten vennootschap met beperkte aansprakelijkheid of naamloze vennootschap; en
+
+- 3°. niet langer dan acht jaren geleden tot stand is gekomen;
 
 - b. voor rekening van de rechtspersoon wordt in Nederland een onderneming gedreven van een zodanige omvang dat de bij hem in dienst zijnde personen te zamen naar verwachting daaraan jaarlijks ten minste 1225 uren besteden;
 
@@ -457,58 +467,58 @@ Ingeval een beginnende ondernemer binnen de eerste acht jaren na het verstrekken
 
 1. De extra uitgaven voor een op medisch voorschrift gehouden dieet, die meer bedragen dan het drempelbedrag, genoemd in [artikel 6.17, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.17), worden bepaald aan de hand van de navolgende tabel:
 
-| Voor het dieet bij het ziektebeeld | en de aandoening | Op welk dieet de typering van toepassing is | Bedragen de extra uitgaven |
+| Voor het dieet bij het ziektebeeld en de aandoening | Voor het dieet bij het ziektebeeld en de aandoening | Op welk dieet de typering van toepassing is | Bedragen de extra uitgaven |
 | --- | --- | --- | --- |
-| Algemene symptomen | Groei-achterstand bij kinderen | energieverrijkt in combinatie met eiwitverrijkt | € 1196 |
-|   |   | energieverrijkt | € 1196 |
-|   |   | vloeibaar energieverrijkt | € 788 |
-|   | Ondervoeding | energieverrijkt in combinatie met eiwitverrijkt | € 1195 |
-|   |   | energieverrijkt | € 1195 |
-|   |   | vloeibaar energieverrijkt | € 975 |
-|   | Decubitus | energieverrijkt in combinatie met eiwitverrijkt | € 1196 |
-| Hypertensie en hartziekten | Hypertensie | natriumbeperkt | € 266 |
-|   | Decompensatio cordis, hartfalen | natriumbeperkt | € 266 |
-|   |   | sterk natriumbeperkt | € 316 |
-| Luchtwegen | Chronische obstructieve longziekten (COPD) | energieverrijkt | € 1196 |
-| Maag-, darm- en leverziekten | Dumping syndroom | lactosebeperkt | € 466 |
-|   | Chronische pancreatitis | energieverrijkt in combinatie met eiwitverrijkt | € 1196 |
-|   | Cystic fibrosis | energieverrijkt | € 1196 |
-|   |   | energieverrijkt in combinatie met eiwitverrijkt | € 1196 |
-|   | Coeliakie en ziekte van Dühring | glutenvrij | € 1274 |
-|   |   | glutenvrij in combinatie met lactosebeperkt | € 1373 |
-|   | Short bowel | energieverrijkt | € 1196 |
-|   |   | energieverrijkt in combinatie met MCT verrijkt | € 1742 |
-|   | Leverziekte | energieverrijkt in combinatie met MCT verrijkt, tevens alcoholvrij | € 1592 |
-|   |   | energieverrijkt in combinatie met MCT verrijkt, tevens natriumbeperkt en alcoholvrij | € 1683 |
-|   | Overige | energieverrijkt in combinatie met eiwitverrijkt | € 1196 |
-|   |   | energieverrijkt in combinatie met eiwitverrijkt en lactosebeperkt | € 1291 |
-|   |   | matig vetbeperkt in combinatie met MCT of ander preparaat, tevens energieverrijkt | € 1194 |
-| Metabole ziekten | Diabetes | diabetes dieet | € 302 |
-|   |   | diabetes dieet natriumbeperkt | € 266 |
-|   | Hypercholesterolemie | verzadigd vetzurenbeperkt en cholesterolbeperkt in combinatie met visverrijkt, groentenverrijkt en fruitverrijkt | € 302 |
-|   |   | verzadigd-vetbeperkt en cholesterolbeperkt in combinatie met visverrijkt, groentenverrijkt en fruitverrijkt met plantensterolen | € 324 |
-|   |   | cholesterolverlagend en natriumbeperkt | € 266 |
-|   | Vetstofwisselingsstoornis | sterk vetbeperkt in combinatie met MCT of ander preparaat | € 1194 |
-|   | Fructose intolerantie | sterk fructosebeperkt | € 660 |
-|   | Galactosemie | galactosevrij | € 687 |
-|   | sacharase isomaltase deficiëntie | polysacharidenverrijkt meervoudig-onverzadigde vetzuren verrijkt in combinatie met sacharosebeperkt, fructosebeperkt, matig vetbeperkt, matig natriumbeperkt en calciumbeperkt | € 1516 |
-|   | Eiwitstofwisselingsstoornis (b.v. PKU en hyperlysinemie ) | natuurlijk eiwitbeperkt | € 2134 |
-| Infectieziekten | Aids | energieverrijkt in combinatie met eiwitverrijkt | € 1196 |
-| Nierziekten | Nierziekten | natriumbeperkt | € 256 |
-|   | Chronische nierinsufficiëntie met hemodialyse | eiwitaangewezen in combinatie met matig natriumbeperkt | € 256 |
-|   | Nefrotisch syndroom | natriumbeperkt | € 256 |
-| Oncologie | Oncologie | energieverrijkt in combinatie met eiwitverrijkt | € 1196 |
-| Overige | Voedselovergevoeligheid | koemelkeiwitvrij | € 524 |
-|   |   | soja-eiwitvrij | € 307 |
-|   |   | kippenei-eiwitvrij | € 328 |
-|   |   | lactosebeperkt | € 466 |
-|   |   | tarwevrij | € 1020 |
-|   |   | koemelkeiwitvrij in combinatie met kippenei-eiwitvrij | € 451 |
-|   |   | koemelkeiwitvrij in combinatie met soja-eiwitvrij | € 692 |
-|   |   | koemelkeiwitvrij in combinatie met kippenei-eiwitvrij en soja-eiwitvrij | € 1196 |
-|   |   | koemelkeiwitvrij in combinatie met kippeneieiwitvrij, soja-eiwit en tarwevrij | € 1600 |
-|   |   | koemelkeiwitvrij in combinatie met glutenvrij | € 1406 |
-|   | Brandwonden | energieverrijkt in combinatie met eiwitverrijkt | € 1196 |
+| Algemene symptomen | groei-achterstand bij kinderen | energieverrijkt in combinatie met eiwitverrijkt | € 1118 |
+|   |   | energieverrijkt | € 1118 |
+|   |   | vloeibaar energieverrijkt | € 639 |
+|   | ondervoeding | energieverrijkt in combinatie met eiwitverrijkt | € 1118 |
+|   |   | energieverrijkt | € 1118 |
+|   |   | vloeibaar energieverrijkt | € 809 |
+|   | decubitus | energieverrijkt in combinatie met eiwitverrijkt | € 1118 |
+| Hypertensie en hartziekten | hypertensie | natriumbeperkt | € 420 |
+|   | decompensatio cordis, hartfalen | natriumbeperkt | € 420 |
+|   |   | sterk natriumbeperkt | € 505 |
+| Luchtwegen | chronische obstructieve longziekten (COPD) | energieverrijkt | € 1118 |
+| Maag-, darm- en leverziekten | dumping syndroom | lactosebeperkt | € 431 |
+|   | chronische pancreatitis | energieverrijkt in combinatie met eiwitverrijkt | € 1118 |
+|   | cystic fibrosis | energieverrijkt | € 1118 |
+|   |   | energieverrijkt in combinatie met eiwitverrijkt | € 1118 |
+|   | coeliakie en ziekte van Dühring | glutenvrij | € 1222 |
+|   |   | glutenvrij in combinatie met lactosebeperkt | € 1484 |
+|   | short bowel | energieverrijkt | € 1118 |
+|   |   | energieverrijkt in combinatie met MCT verrijkt | € 1696 |
+|   | leverziekte | energieverrijkt in combinatie met MCT verrijkt, tevens alcoholvrij | € 1612 |
+|   |   | energieverrijkt in combinatie met MCT verrijkt, tevens natriumbeperkt en alcoholvrij | € 2021 |
+|   | overige | energieverrijkt in combinatie met eiwitverrijkt | € 1118 |
+|   |   | energieverrijkt in combinatie met eiwitverrijkt en lactosebeperkt | € 1361 |
+|   |   | matig vetbeperkt in combinatie met MCT of ander preparaat, tevens energieverrijkt | € 1035 |
+| Metabole ziekten | diabetes | diabetes dieet | € 288 |
+|   |   | diabetes dieet natriumbeperkt | € 420 |
+|   | hypercholesterolemie | verzadigd vetzurenbeperkt en cholesterolbeperkt in combinatie met visverrijkt, groentenverrijkt en fruitverrijkt | € 288 |
+|   |   | verzadigd-vetbeperkt en cholesterolbeperkt in combinatie met visverrijkt, groentenverrijkt en fruitverrijkt met plantensterolen | € 304 |
+|   |   | cholesterolverlagend en natriumbeperkt | € 420 |
+|   | vetstofwisselingsstoornis | sterk vetbeperkt in combinatie met MCT of ander preparaat | € 1035 |
+|   | fructose intolerantie | sterk fructosebeperkt | € 740 |
+|   | galactosemie | galactosevrij | € 657 |
+|   | sacharase isomaltase deficiëntie | polysacharidenverrijkt meervoudig-onverzadigde- vetzurenverrijkt in combinatie met sacharosebeperkt, fructosebeperkt, matig vetbeperkt, matig natriumbeperkt en calciumbeperkt | € 1746 |
+|   | eiwitstofwisselingsstoornis (b.v. PKU en hyperlysinemie) | natuurlijk eiwitbeperkt | € 2145 |
+| Infectieziekten | aids | energieverrijkt in combinatie met eiwitverrijkt | € 1118 |
+| Nierziekten | nierziekten | natriumbeperkt | € 394 |
+|   | chronische nierinsufficiëntie met hemodialyse | eiwitaangewezen in combinatie met matig natriumbeperkt | € 394 |
+|   | nefrotisch syndroom | natriumbeperkt | € 394 |
+| Oncologie | oncologie | energieverrijkt in combinatie met eiwitverrijkt | € 1118 |
+| Overige | voedselovergevoeligheid | koemelkeiwitvrij | € 535 |
+|   |   | soja-eiwitvrij | € 358 |
+|   |   | kippenei-eiwitvrij | € 360 |
+|   |   | lactosebeperkt | € 431 |
+|   |   | tarwevrij | € 1026 |
+|   |   | koemelkeiwitvrij in combinatie met kippenei-eiwitvrij | € 503 |
+|   |   | koemelkeiwitvrij in combinatie met soja-eiwitvrij | € 664 |
+|   |   | koemelkeiwitvrij in combinatie met kippenei-eiwitvrij en soja-eiwitvrij | € 1338 |
+|   |   | koemelkeiwitvrij in combinatie met kippenei-eiwitvrij, soja-eiwit en tarwe-vrij | € 1717 |
+|   |   | koemelkeiwitvrij in combinatie met glutenvrij | € 1514 |
+|   | brandwonden | energieverrijkt in combinatie met eiwitverrijkt | € 1118 |
 
 Voor overige diëten worden de extra uitgaven gesteld op nihil.
 
@@ -564,7 +574,7 @@ Voor overige diëten worden de extra uitgaven gesteld op nihil.
 
 ##### Artikel 38. Buitengewone uitgaven; uitgaven wegens ziekte, invaliditeit en bevalling; extra uitgaven voor kleding en beddengoed
 
-1. Extra uitgaven voor kleding en beddengoed worden tot een bedrag van € 310 dan wel, indien blijkt dat die uitgaven € 620 te boven gaan, tot een bedrag van € 775 aangemerkt als uitgaven ter zake van ziekte en invaliditeit indien:
+1. Extra uitgaven voor kleding en beddengoed worden tot een bedrag van € 300 dan wel, indien blijkt dat die uitgaven € 600 te boven gaan, tot een bedrag van € 750 aangemerkt als uitgaven ter zake van ziekte en invaliditeit indien:
 
 - a. uit ziekte of invaliditeit van een persoon als bedoeld in [artikel 6.16, onderdelen a en g, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.16) extra uitgaven voor kleding en beddengoed voortvloeien;
 
@@ -636,7 +646,7 @@ Aan het in [artikel 8.14, eerste lid, onderdeel b, onder 2°, van de wet](https:
 
 Voor de toepassing van de eerste volzin behoort het kind tegelijkertijd tot het huishouden van beide ouders indien het kind doorgaans tenminste drie gehele dagen per week tot het huishouden van de belastingplichtige en voor de overige tijd doorgaans tot het huishouden van de andere ouder behoort.
 
-### Hoofdstuk 9. Wijze van heffing (hoofdstuk 9 van de wet)
+### Hoofdstuk 8. Heffingskorting
 
 ##### Artikel 45. Termijn voor het doen van niet-verplichte aangifte
 
@@ -728,11 +738,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst
 
 Vóór 1 januari 2005 vastgestelde lijfrenten die niet in geldeenheden luiden:
 
-- 1. Op een lijfrente waarvan vóór 1 januari 2005 de hoogte van de termijnen in beleggingseenheden (units) met de verzekeraar is overeengekomen, blijft [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=1&artikel=2a&z=2012-01-01&g=2006-10-25) buiten toepassing en kan de lijfrente-overeenkomst worden tenuitvoergelegd zoals is overeengekomen.
+- 1. Op een lijfrente waarvan vóór 1 januari 2005 de hoogte van de termijnen in beleggingseenheden (units) met de verzekeraar is overeengekomen, blijft [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=1&artikel=2a&z=2007-01-01&g=2007-01-01) buiten toepassing en kan de lijfrente-overeenkomst worden tenuitvoergelegd zoals is overeengekomen.
 
-- 2. Indien ter zake van een lijfrente als bedoeld in het eerste lid op of na 1 januari 2005 met de verzekeraar een wijziging van methode van berekening van de termijnen in units of in euro’s wordt overeengekomen, is met ingang van de datum van die wijziging [art. 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=1&artikel=2a&z=2012-01-01&g=2006-10-25) wel van toepassing.
+- 2. Indien ter zake van een lijfrente als bedoeld in het eerste lid op of na 1 januari 2005 met de verzekeraar een wijziging van methode van berekening van de termijnen in units of in euro’s wordt overeengekomen, is met ingang van de datum van die wijziging [art. 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=1&artikel=2a&z=2007-01-01&g=2007-01-01) wel van toepassing.
 
-- 3. Indien een lijfrente als bedoeld in het eerste lid op of na 1 januari 2005 wordt omgezet in een andere lijfrente, is [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=1&artikel=2a&z=2012-01-01&g=2006-10-25) van toepassing op de laatstgenoemde lijfrente.
+- 3. Indien een lijfrente als bedoeld in het eerste lid op of na 1 januari 2005 wordt omgezet in een andere lijfrente, is [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=1&artikel=2a&z=2007-01-01&g=2007-01-01) van toepassing op de laatstgenoemde lijfrente.
 
 ### Hoofdstuk 11. Overgangs- en slotbepalingen ([hoofdstuk 11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=11))
 
@@ -740,7 +750,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst
 
 ##### Artikel 9a. Constatering van het niet afgenomen zijn van de netto-tonnage van bepaalde schepen
 
-Met betrekking tot het kalenderjaar 2006 wordt voor de toepassing van [artikel 3.22, zesde lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.22) vastgesteld dat de netto-tonnage van kwalificerende schepen in de periode 2002 tot en met 2004 ten opzichte van de periode 2001 tot en met 2003 niet is afgenomen.
+Met betrekking tot het kalenderjaar 2007 wordt voor de toepassing van [artikel 3.22, zesde lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.22) vastgesteld dat de netto-tonnage van kwalificerende schepen in de periode 2003 tot en met 2005 ten opzichte van de periode 2002 tot en met 2004 niet is afgenomen.
 
 ### Hoofdstuk 4. Heffingsgrondslag bij aanmerkelijk belang (hoofdstuk 4 van de wet)
 
@@ -775,6 +785,26 @@ Met betrekking tot het kalenderjaar 2006 wordt voor de toepassing van [artikel 3
 - d. de periode in het kalenderjaar waarin de belastingplichtige gebruik heeft gemaakt van zijn recht op ouderschapsverlof;
 
 - e. het totaal aantal uren in het kalenderjaar waarin de belastingplichtige gebruik heeft gemaakt van zijn recht op ouderschapsverlof.
+
+### Hoofdstuk 10. Overgangsrecht
+
+### Hoofdstuk 11. Overgangs- en slotbepalingen ([hoofdstuk 11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=11))
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst
+
+##### Artikel 40a. Scholingsuitgaven; afgifte EVC-verklaringen
+
+Als instanties als bedoeld in [artikel 6.27, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.27) worden aangewezen:
+
+- a. het Kwaliteitscentrum examinering beroepsonderwijs, bedoeld in [artikel 7.4.9a, tweede lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.4.9a);
+
+- b. een Visiterende en Beoordelende Instantie als bedoeld in [artikel 5a.8a van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=5a.8a);
+
+- c. een door de Minister van Onderwijs, Cultuur en Wetenschappen nader te bepalen accrediterende partij.
+
+### Hoofdstuk 7. Belastingheffing van buitenlandse belastingplichtigen ([hoofdstuk 7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=7))
+
+### Hoofdstuk 9. Wijze van heffing (hoofdstuk 9 van de wet)
 
 ### Hoofdstuk 10. Overgangsrecht
 
