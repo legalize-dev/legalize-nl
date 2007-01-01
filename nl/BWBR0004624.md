@@ -4,7 +4,7 @@ identifier: "BWBR0004624"
 country: "nl"
 rank: "amvb"
 publication_date: "2010-12-31"
-last_updated: "2004-11-01"
+last_updated: "2007-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004624"
 soort: "AMvB"
@@ -98,7 +98,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 3
 
-1. Het is verboden een luchtkussenvoertuig te gebruiken, zonder vergunning, verleend door Onze Minister. Voor het gebruik van een luchtkussenvoertuig in een gebied, aangewezen overeenkomstig [artikel 1.2, tweede lid, onder **d**, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=1.2), wordt geen vergunning verleend.
+1. Het is verboden een luchtkussenvoertuig te gebruiken, zonder vergunning, verleend door Onze Minister. Voor het gebruik van een luchtkussenvoertuig in een gebied, aangewezen overeenkomstig [artikel 1.2, tweede lid, onderdeel b, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=1.2), wordt geen vergunning verleend.
 
 2. Het verbod, gesteld in het eerste lid, geldt niet voor zover daarvan door Onze Minister ontheffing is verleend voor het gebruik van het luchtkussenvoertuig ten behoeve van een proefvaart in het kader van de bedrijfsmatige vervaardiging. Aan een ontheffing kunnen in het belang van het voorkomen of beperken van geluidhinder voorschriften worden verbonden.
 
@@ -108,7 +108,7 @@ Vervallen
 
 ##### Artikel 5
 
-Bij de aanvraag om een vergunning als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004624&paragraaf=2&artikel=3&z=2004-11-01&g=2004-11-01), dienen door de aanvrager de volgende gegevens te worden overgelegd:
+Bij de aanvraag om een vergunning als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004624&paragraaf=2&artikel=3&z=2007-01-01&g=2007-01-01), dienen door de aanvrager de volgende gegevens te worden overgelegd:
 
 - a. de vermelding van naam en adres van de aanvrager;
 
@@ -134,7 +134,7 @@ Een vergunning en een ontheffing kunnen worden gewijzigd of ingetrokken. [artike
 
 ##### Artikel 8
 
-Met betrekking tot luchtkussenvoertuigen die bij het in werking treden van dit besluit reeds vervaardigd en in Nederland aanwezig waren, dan wel die behoren tot een type dat bij het in werking treden van dit besluit reeds in Nederland in produktie was genomen, geldt [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004624&paragraaf=2&artikel=3&z=2004-11-01&g=2004-11-01) met ingang van een jaar na de datum van inwerkingtreding van dit besluit.
+Met betrekking tot luchtkussenvoertuigen die bij het in werking treden van dit besluit reeds vervaardigd en in Nederland aanwezig waren, dan wel die behoren tot een type dat bij het in werking treden van dit besluit reeds in Nederland in produktie was genomen, geldt [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004624&paragraaf=2&artikel=3&z=2007-01-01&g=2007-01-01) met ingang van een jaar na de datum van inwerkingtreding van dit besluit.
 
 ##### Artikel 9
 
