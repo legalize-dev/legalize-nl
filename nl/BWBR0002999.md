@@ -4,7 +4,7 @@ identifier: "BWBR0002999"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-01-01"
-last_updated: "2003-06-04"
+last_updated: "2007-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002999"
 soort: "AMvB"
@@ -75,5 +75,13 @@ Ons Besluit van 5 augustus 1964, **Stb.** 340, wordt ingetrokken.
 1. Dit besluit wordt aangehaald als: Vergoedingenbesluit Kamer voor de Binnenvisserij 1975.
 
 2. Dit besluit treedt in werking op de tweede dag na de datum van uitgifte van het **Staatsblad**.
+
+Lasten en bevelen dat dit besluit in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State en de Algemene Rekenkamer.
+
+##### Artikel 3a
+
+1. De vergoedingen, bedoeld in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002999&artikel=1&z=2009-01-01&g=2007-01-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0002999&artikel=2&z=2009-01-01&g=2007-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0002999&artikel=3&z=2009-01-01&g=2007-01-01), worden jaarlijks per 1 januari aangepast aan de mate waarin het prijspeil in de periode van 1 juli in het voorafgaande jaar tot en met 1 juli van het daaraan voorafgaande jaar gemiddeld is gestegen volgens de Consumentenprijsindex voor alle huishoudens zoals gepubliceerd door het Centraal Bureau voor de Statistiek. De bedragen worden afgerond op hele euro’s.
+
+2. Onze Minister van Landbouw, Natuur en Voedselkwaliteit maakt de aanpassing, bedoeld in het eerste lid, uiterlijk 1 oktober van het voorgaande jaar bekend in de Staatscourant.
 
 Lasten en bevelen dat dit besluit in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State en de Algemene Rekenkamer.
