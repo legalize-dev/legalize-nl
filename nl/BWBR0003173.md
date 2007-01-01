@@ -4,7 +4,7 @@ identifier: "BWBR0003173"
 country: "nl"
 rank: "wet"
 publication_date: "2007-11-01"
-last_updated: "2005-09-01"
+last_updated: "2007-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003173"
 soort: "wet"
@@ -72,19 +72,19 @@ Voor de toepassing van het bij en krachtens deze wet bepaalde wordt verstaan ond
 
 - 5. de uitkering uit hoofde van een wettelijke aansprakelijkheidsverzekering voor of in verband met schade aan onroerende en roerende zaken;
 
-- h. overeenkomst van levensverzekering: de overeenkomst van levensverzekering in de zin van [artikel 1, eerste lid, onderdeel **b**, van de Wet toezicht verzekeringsbedrijf 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006509&artikel=1), gesloten door ondernemingen, waarop die wet van toepassing is.
+- h. overeenkomst van levensverzekering: een overeenkomst van levensverzekering als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1), gesloten door een levensverzekeraar waarop [die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) van toepassing is;
 
-- i. **overeenkomst van schadeverzekering**: de overeenkomst van schadeverzekering in de zin van [artikel 1, eerste lid, onderdeel a, van de Wet toezicht verzekeringsbedrijf 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006509&artikel=1), gesloten door ondernemingen, waarop die wet van toepassing is;
+- i. overeenkomst van schadeverzekering: een overeenkomst van schadeverzekering als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1), gesloten door een schadeverzekeraar waarop [die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) van toepassing is;
 
-- j. **overeenkomst van natura-uitvaartverzekering**: de overeenkomst van natura-uitvaartverzekering in de zin van [artikel 1, eerste lid, onderdeel a, van de Wet toezicht natura-uitvaartverzekeringsbedrijf](https://wetten.overheid.nl/jci1.3:c:BWBR0007477&artikel=1), gesloten door ondernemingen, waarop die wet van toepassing is;
+- j. overeenkomst van natura-uitvaartverzekering: een overeenkomst van natura-uitvaartverzekering als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1), gesloten door een natura-uitvaartverzekeraar waarop [die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) van toepassing is;
 
-- k. **beheerder:** de beheerder, bedoeld in [artikel 1, onderdeel e, van de Wet toezicht beleggingsinstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0004809&artikel=1);
+- k. beheerder: een rechtspersoon die het beheer voert over een of meer beleggingsinstellingen;
 
-- l. **effectenbeurs:** een markt die aan regels is onderworpen en die bestemd is voor het bijeenbrengen van vraag en aanbod van effecten.
+- l. effectenbeurs: een gereglementeerde markt als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1) of een gereglementeerde effectenbeurs die gelegen of werkzaam is in een staat die niet een lidstaat is van de Europese Unie.
 
 ##### Artikel 2
 
-1. Onverminderd de [artikelen 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=7), en [8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=8) kunnen, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, de [artikelen 3 tot en met 32](https://wetten.overheid.nl/jci1.3:c:BWBR0003173&hoofdstuk=II&artikel=3&z=2005-09-01&g=2005-09-01) gezamenlijk of afzonderlijk in werking worden gesteld.
+1. Onverminderd de [artikelen 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=7), en [8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=8) kunnen, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, de [artikelen 3 tot en met 32](https://wetten.overheid.nl/jci1.3:c:BWBR0003173&hoofdstuk=II&artikel=3&z=2007-01-01&g=2007-01-01) gezamenlijk of afzonderlijk in werking worden gesteld.
 
 2. Wanneer het in het eerste lid bedoelde besluit is genomen, wordt onverwijld een voorstel van wet aan de Tweede Kamer gezonden omtrent het voortduren van de werking van de bij dat besluit in werking gestelde bepalingen.
 
@@ -118,7 +118,7 @@ Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden
 
 Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
 
-Onze Minister is bevoegd nadere voorschriften te geven terzake van een krachtens [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0003173&hoofdstuk=III&artikel=4&z=2005-09-01&g=2005-09-01) ingesteld bankenmoratorium.
+Onze Minister is bevoegd nadere voorschriften te geven terzake van een krachtens [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0003173&hoofdstuk=III&artikel=4&z=2007-01-01&g=2007-01-01) ingesteld bankenmoratorium.
 
 ### Hoofdstuk IV. Rentevaststelling
 
@@ -220,7 +220,7 @@ Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden
 
 Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
 
-Onze Minister is bevoegd nadere voorschriften te geven terzake van een krachtens [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0003173&hoofdstuk=IX&artikel=17&z=2005-09-01&g=2005-09-01) ingesteld verzekeringsmoratorium, met inbegrip van voorschriften inzake vergoeding van rente over bedragen, waarvan de uitkering ingevolge de bij en krachtens dit hoofdstuk vastgestelde bepalingen is opgeschort.
+Onze Minister is bevoegd nadere voorschriften te geven terzake van een krachtens [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0003173&hoofdstuk=IX&artikel=17&z=2007-01-01&g=2007-01-01) ingesteld verzekeringsmoratorium, met inbegrip van voorschriften inzake vergoeding van rente over bedragen, waarvan de uitkering ingevolge de bij en krachtens dit hoofdstuk vastgestelde bepalingen is opgeschort.
 
 ##### Artikel 18a
 
@@ -252,25 +252,25 @@ Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden
 
 Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
 
-Onze Minister is bevoegd nadere voorschriften te geven terzake van het mede-verzekeren van het oorlogsrisico in overeenkomsten van levensverzekering en terzake van de in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0003173&hoofdstuk=X&artikel=20&z=2005-09-01&g=2005-09-01) bedoelde kortingen.
+Onze Minister is bevoegd nadere voorschriften te geven terzake van het mede-verzekeren van het oorlogsrisico in overeenkomsten van levensverzekering en terzake van de in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0003173&hoofdstuk=X&artikel=20&z=2007-01-01&g=2007-01-01) bedoelde kortingen.
 
 ##### Artikel 22
 
 Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
 
-Onze Minister bepaalt het tijdstip, met ingang waarvan de krachtens [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0003173&hoofdstuk=X&artikel=20&z=2005-09-01&g=2005-09-01) vastgestelde kortingen niet meer worden toegepast ten aanzien van daarna te sluiten overeenkomsten van levensverzekering.
+Onze Minister bepaalt het tijdstip, met ingang waarvan de krachtens [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0003173&hoofdstuk=X&artikel=20&z=2007-01-01&g=2007-01-01) vastgestelde kortingen niet meer worden toegepast ten aanzien van daarna te sluiten overeenkomsten van levensverzekering.
 
 ##### Artikel 23
 
 Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
 
-Zolang de ingevolge de [artikelen 19-22](https://wetten.overheid.nl/jci1.3:c:BWBR0003173&hoofdstuk=X&artikel=19&z=2005-09-01&g=2005-09-01) gegeven voorschriften van kracht zijn, blijven de in de betrokken overeenkomsten van levensverzekering opgenomen bepalingen omtrent de dekking van het oorlogsrisico buiten toepassing.
+Zolang de ingevolge de [artikelen 19-22](https://wetten.overheid.nl/jci1.3:c:BWBR0003173&hoofdstuk=X&artikel=19&z=2007-01-01&g=2007-01-01) gegeven voorschriften van kracht zijn, blijven de in de betrokken overeenkomsten van levensverzekering opgenomen bepalingen omtrent de dekking van het oorlogsrisico buiten toepassing.
 
 ##### Artikel 24
 
 Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
 
-Het bepaalde in de [artikelen 19-23](https://wetten.overheid.nl/jci1.3:c:BWBR0003173&hoofdstuk=X&artikel=19&z=2005-09-01&g=2005-09-01) is van overeenkomstige toepassing op de aanspraken, verbonden aan de deelneming in een pensioen- of spaarfonds.
+Het bepaalde in de [artikelen 19-23](https://wetten.overheid.nl/jci1.3:c:BWBR0003173&hoofdstuk=X&artikel=19&z=2007-01-01&g=2007-01-01) is van overeenkomstige toepassing op de aanspraken, verbonden aan de deelneming in een pensioen- of spaarfonds.
 
 ### Hoofdstuk Xa. Bepalingen inzake de effectenbeurzen
 
@@ -312,7 +312,7 @@ Wanneer anderen dan Onze Minister algemene of bijzondere vergunningen verlenen o
 
 Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
 
-1. Een overeenkomstig het bepaalde bij of krachtens de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003173&hoofdstuk=II&artikel=3&z=2005-09-01&g=2005-09-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0003173&hoofdstuk=III&artikel=4&z=2005-09-01&g=2005-09-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0003173&hoofdstuk=VI&artikel=11&z=2005-09-01&g=2005-09-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0003173&hoofdstuk=IX&artikel=17&z=2005-09-01&g=2005-09-01), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0003173&hoofdstuk=X&artikel=20&z=2005-09-01&g=2005-09-01) of [25](https://wetten.overheid.nl/jci1.3:c:BWBR0003173&hoofdstuk=XI&artikel=25&z=2005-09-01&g=2005-09-01) te verlenen vergunning kan zowel een algehele als een gedeeltelijke ontheffing van de desbetreffende bepalingen inhouden.
+1. Een overeenkomstig het bepaalde bij of krachtens de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003173&hoofdstuk=II&artikel=3&z=2007-01-01&g=2007-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0003173&hoofdstuk=III&artikel=4&z=2007-01-01&g=2007-01-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0003173&hoofdstuk=VI&artikel=11&z=2007-01-01&g=2007-01-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0003173&hoofdstuk=IX&artikel=17&z=2007-01-01&g=2007-01-01), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0003173&hoofdstuk=X&artikel=20&z=2007-01-01&g=2007-01-01) of [25](https://wetten.overheid.nl/jci1.3:c:BWBR0003173&hoofdstuk=XI&artikel=25&z=2007-01-01&g=2007-01-01) te verlenen vergunning kan zowel een algehele als een gedeeltelijke ontheffing van de desbetreffende bepalingen inhouden.
 
 2. Aan een vergunning, als bedoeld in het eerste lid, kunnen voorschriften en voorwaarden worden verbonden.
 
@@ -332,7 +332,7 @@ Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden
 
 Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
 
-Aan het slot van [artikel 1, eerste lid, onder 1°, van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=1) wordt toegevoegd: de Noodwet financieel verkeer, de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003173&hoofdstuk=II&artikel=3&z=2005-09-01&g=2005-09-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0003173&hoofdstuk=III&artikel=4&z=2005-09-01&g=2005-09-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0003173&hoofdstuk=III&artikel=5&z=2005-09-01&g=2005-09-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0003173&hoofdstuk=IV&artikel=6&z=2005-09-01&g=2005-09-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0003173&hoofdstuk=VI&artikel=11&z=2005-09-01&g=2005-09-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0003173&hoofdstuk=VI&artikel=12&z=2005-09-01&g=2005-09-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0003173&hoofdstuk=IX&artikel=17&z=2005-09-01&g=2005-09-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0003173&hoofdstuk=IX&artikel=18&z=2005-09-01&g=2005-09-01), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0003173&hoofdstuk=XII&artikel=26&z=2005-09-01&g=2005-09-01) en [28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003173&hoofdstuk=XIII&artikel=28&z=2005-09-01&g=2005-09-01).
+Aan het slot van [artikel 1, eerste lid, onder 1°, van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=1) wordt toegevoegd: de Noodwet financieel verkeer, de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003173&hoofdstuk=II&artikel=3&z=2007-01-01&g=2007-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0003173&hoofdstuk=III&artikel=4&z=2007-01-01&g=2007-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0003173&hoofdstuk=III&artikel=5&z=2007-01-01&g=2007-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0003173&hoofdstuk=IV&artikel=6&z=2007-01-01&g=2007-01-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0003173&hoofdstuk=VI&artikel=11&z=2007-01-01&g=2007-01-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0003173&hoofdstuk=VI&artikel=12&z=2007-01-01&g=2007-01-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0003173&hoofdstuk=IX&artikel=17&z=2007-01-01&g=2007-01-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0003173&hoofdstuk=IX&artikel=18&z=2007-01-01&g=2007-01-01), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0003173&hoofdstuk=XII&artikel=26&z=2007-01-01&g=2007-01-01) en [28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003173&hoofdstuk=XIII&artikel=28&z=2007-01-01&g=2007-01-01).
 
 ##### Artikel 32
 
@@ -360,7 +360,7 @@ Het Besluit Bankenmoratorium 1944 (**Stb.** E28) wordt ingetrokken.
 
 ##### Artikel 37
 
-Na het in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0003173&hoofdstuk=X&artikel=23&z=2005-09-01&g=2005-09-01) bedoelde tijdvak doen Wij zo spoedig mogelijk een voorstel van wet aan de Staten-Generaal omtrent de definitieve regeling terzake van de krachtens [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0003173&hoofdstuk=X&artikel=20&z=2005-09-01&g=2005-09-01) genomen maatregelen.
+Na het in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0003173&hoofdstuk=X&artikel=23&z=2007-01-01&g=2007-01-01) bedoelde tijdvak doen Wij zo spoedig mogelijk een voorstel van wet aan de Staten-Generaal omtrent de definitieve regeling terzake van de krachtens [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0003173&hoofdstuk=X&artikel=20&z=2007-01-01&g=2007-01-01) genomen maatregelen.
 
 ##### Artikel 38
 
@@ -368,7 +368,7 @@ Deze wet kan worden aangehaald als: Noodwet financieel verkeer.
 
 ##### Artikel 39
 
-Met uitzondering van de [artikelen 3-32](https://wetten.overheid.nl/jci1.3:c:BWBR0003173&hoofdstuk=II&artikel=3&z=2005-09-01&g=2005-09-01) treedt deze wet in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad**, waarin zij is geplaatst.
+Met uitzondering van de [artikelen 3-32](https://wetten.overheid.nl/jci1.3:c:BWBR0003173&hoofdstuk=II&artikel=3&z=2007-01-01&g=2007-01-01) treedt deze wet in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad**, waarin zij is geplaatst.
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
@@ -386,13 +386,13 @@ Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden
 
 Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
 
-Onze Minister is bevoegd nadere voorschriften te geven terzake van het bepaalde in [artikel 18b](https://wetten.overheid.nl/jci1.3:c:BWBR0003173&hoofdstuk=IXA&artikel=18b&z=2005-09-01&g=2005-09-01).
+Onze Minister is bevoegd nadere voorschriften te geven terzake van het bepaalde in [artikel 18b](https://wetten.overheid.nl/jci1.3:c:BWBR0003173&hoofdstuk=IXA&artikel=18b&z=2007-01-01&g=2007-01-01).
 
 ##### Artikel 18d
 
 Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
 
-Zolang de ingevolge de [artikelen 18b](https://wetten.overheid.nl/jci1.3:c:BWBR0003173&hoofdstuk=IXA&artikel=18b&z=2005-09-01&g=2005-09-01) en [18c](https://wetten.overheid.nl/jci1.3:c:BWBR0003173&hoofdstuk=IXA&artikel=18c&z=2005-09-01&g=2005-09-01) gegeven voorschriften van kracht zijn, blijven de in de betrokken overeenkomsten van levensverzekering, overeenkomsten van schadeverzekering of overeenkomsten van natura-uitvaartverzekering opgenomen bepalingen omtrent de dekking van het terrorismerisico buiten toepassing.
+Zolang de ingevolge de [artikelen 18b](https://wetten.overheid.nl/jci1.3:c:BWBR0003173&hoofdstuk=IXA&artikel=18b&z=2007-01-01&g=2007-01-01) en [18c](https://wetten.overheid.nl/jci1.3:c:BWBR0003173&hoofdstuk=IXA&artikel=18c&z=2007-01-01&g=2007-01-01) gegeven voorschriften van kracht zijn, blijven de in de betrokken overeenkomsten van levensverzekering, overeenkomsten van schadeverzekering of overeenkomsten van natura-uitvaartverzekering opgenomen bepalingen omtrent de dekking van het terrorismerisico buiten toepassing.
 
 ### Hoofdstuk X. Dekking oorlogsrisico door levensverzekeringsondernemingen, pensioen- en spaarfondsen
 
