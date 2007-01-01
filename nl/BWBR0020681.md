@@ -4,7 +4,7 @@ identifier: "BWBR0020681"
 country: "nl"
 rank: "wet"
 publication_date: "2012-01-01"
-last_updated: "2006-12-20"
+last_updated: "2007-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020681"
 soort: "wet"
@@ -50,7 +50,7 @@ Wijzigt de Wet kinderopvang.
 
 ##### Artikel IA
 
-Indien op grond van [artikel 11 van de Wet kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=11) zoals dat artikel luidde voor de inwerkingtreding van de [Aanpassingswet Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018471), een aanvraag tot vaststelling van de tegemoetkoming van het Rijk over het tegemoetkomingsjaar 2005 wordt gedaan, wordt in afwijking van dat artikel die aanvraag als tijdig beschouwd, indien deze is gedaan vóór 1 april 2007 en de aanspraak op de tegemoetkoming uitsluitend bestaat op grond van [artikel 6, vierde lid, van de Wet kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=6) zoals dit artikellid komt te luiden nadat [artikel I, onderdeel A, onder 3 en 4](https://wetten.overheid.nl/jci1.3:c:BWBR0020681&artikel=I&z=2006-12-20&g=2006-12-20), van deze wet is getreden.
+Indien op grond van [artikel 11 van de Wet kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=11) zoals dat artikel luidde voor de inwerkingtreding van de [Aanpassingswet Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018471), een aanvraag tot vaststelling van de tegemoetkoming van het Rijk over het tegemoetkomingsjaar 2005 wordt gedaan, wordt in afwijking van dat artikel die aanvraag als tijdig beschouwd, indien deze is gedaan vóór 1 april 2007 en de aanspraak op de tegemoetkoming uitsluitend bestaat op grond van [artikel 6, vierde lid, van de Wet kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=6) zoals dit artikellid komt te luiden nadat [artikel I, onderdeel A, onder 3 en 4](https://wetten.overheid.nl/jci1.3:c:BWBR0020681&artikel=I&z=2007-01-01&g=2007-01-01), van deze wet is getreden.
 
 ##### Artikel IB
 
@@ -98,12 +98,12 @@ Wijzigt de Wijzigingswet Burgerlijk Wetboek, het Buitengewoon Besluit Arbeidsver
 
 ##### Artikel XIA
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Kaderwet SZW-subsidies.
 
 ##### Artikel XII
 
-1. Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld, met uitzondering van [artikel I, onderdelen A, onder 3 en 4, Aa, Ab](https://wetten.overheid.nl/jci1.3:c:BWBR0020681&artikel=I&z=2006-12-20&g=2006-12-20) en [artikel IA](https://wetten.overheid.nl/jci1.3:c:BWBR0020681&artikel=IA&z=2006-12-20&g=2006-12-20).
+1. Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld, met uitzondering van [artikel I, onderdelen A, onder 3 en 4, Aa, Ab](https://wetten.overheid.nl/jci1.3:c:BWBR0020681&artikel=I&z=2007-01-01&g=2007-01-01) en [artikel IA](https://wetten.overheid.nl/jci1.3:c:BWBR0020681&artikel=IA&z=2007-01-01&g=2007-01-01).
 
-2. [Artikel I, onderdeel A, onder 3 en 4, onderdeel Aa, onderdeel Ab](https://wetten.overheid.nl/jci1.3:c:BWBR0020681&artikel=I&z=2006-12-20&g=2006-12-20), en [artikel IA](https://wetten.overheid.nl/jci1.3:c:BWBR0020681&artikel=IA&z=2006-12-20&g=2006-12-20) treden in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij worden geplaatst en werken terug tot en met 1 januari 2005.
+2. [Artikel I, onderdeel A, onder 3 en 4, onderdeel Aa, onderdeel Ab](https://wetten.overheid.nl/jci1.3:c:BWBR0020681&artikel=I&z=2007-01-01&g=2007-01-01), en [artikel IA](https://wetten.overheid.nl/jci1.3:c:BWBR0020681&artikel=IA&z=2007-01-01&g=2007-01-01) treden in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij worden geplaatst en werken terug tot en met 1 januari 2005.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
