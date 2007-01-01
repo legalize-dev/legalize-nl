@@ -4,7 +4,7 @@ identifier: "BWBR0002645"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2006-01-01"
+last_updated: "2007-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002645"
 soort: "wet"
@@ -51,7 +51,7 @@ Voor het verzenden van een aanmaning tot betaling is verschuldigd € 6 bij een 
 
 ##### Artikel 3
 
-1. Voor het betekenen van een dwangbevel met bevel tot betaling is verschuldigd € 34 verhoogd met € 3 van elk geheel bedrag van € 45 waarmee de gevorderde som € 45 te boven gaat, met dien verstande dat niet meer verschuldigd is dan € 10 140.
+1. Voor het betekenen van een dwangbevel met bevel tot betaling is verschuldigd € 34 verhoogd met € 3 van elk geheel bedrag van € 45 waarmee de gevorderde som € 45 te boven gaat, met dien verstande dat niet meer verschuldigd is dan € 10 151.
 
 2. Voor het ingevolge een wettelijk voorschrift doen van een ander exploot is verschuldigd € 13.
 
@@ -105,7 +105,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ##### Artikel 8
 
-1. Bij het begin van het kalenderjaar worden het eerste en het derde bedrag, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002645&artikel=2&z=2006-01-01&g=2006-01-01), het eerste, het tweede en het vijfde bedrag, genoemd in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002645&artikel=3&z=2006-01-01&g=2006-01-01), de bedragen, genoemd in [artikel 3, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002645&artikel=3&z=2006-01-01&g=2006-01-01), en de bedragen, genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002645&artikel=4&z=2006-01-01&g=2006-01-01), bij ministeriële regeling vervangen door andere. Deze bedragen worden berekend door de te vervangen bedragen te vermenigvuldigen met de correctiefactor en vervolgens de nodig geachte afronding aan te brengen. Indien in het voorafgaande jaar een dergelijke afronding is toegepast, kan bij vervanging worden uitgegaan van het niet-afgeronde bedrag.
+1. Bij het begin van het kalenderjaar worden het eerste en het derde bedrag, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002645&artikel=2&z=2007-01-01&g=2007-01-01), het eerste, het tweede en het vijfde bedrag, genoemd in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002645&artikel=3&z=2007-01-01&g=2007-01-01), de bedragen, genoemd in [artikel 3, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002645&artikel=3&z=2007-01-01&g=2007-01-01), en de bedragen, genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002645&artikel=4&z=2007-01-01&g=2007-01-01), bij ministeriële regeling vervangen door andere. Deze bedragen worden berekend door de te vervangen bedragen te vermenigvuldigen met de correctiefactor en vervolgens de nodig geachte afronding aan te brengen. Indien in het voorafgaande jaar een dergelijke afronding is toegepast, kan bij vervanging worden uitgegaan van het niet-afgeronde bedrag.
 
 2. De correctiefactor is de verhouding van het gemiddelde van de indexcijfers van de achttiende tot en met de zevende aan het kalenderjaar voorafgaande maand, tot het gemiddelde van de indexcijfers van de dertigste tot en met de negentiende aan het kalenderjaar voorafgaande maand.
 
