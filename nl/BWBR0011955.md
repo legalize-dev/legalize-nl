@@ -4,7 +4,7 @@ identifier: "BWBR0011955"
 country: "nl"
 rank: "wet"
 publication_date: "2020-01-01"
-last_updated: "2001-01-31"
+last_updated: "2007-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011955"
 soort: "wet"
@@ -80,9 +80,9 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 1. De wetten en regelingen waaraan de militairen en hun nagelaten betrekkingen op de datum van inwerkingtreding van deze wet een aanspraak op pensioen kunnen ontlenen, worden met ingang van een bij koninklijk besluit te bepalen datum, die voor de verschillende wetten of regelingen of groepen van rechthebbenden binnen die wetten of regelingen een andere kan zijn en niet kan liggen voor de datum waarop in de vervangende aanspraken is voorzien, buiten werking gesteld of ingetrokken.
 
-2. Voor zover en zolang de aanspraken ingevolge de in het eerste lid bedoelde wetten en regelingen nog niet door de toepassing van dat lid zijn vervallen, ontleent een betrokkene geen aanspraken aan het pensioenreglement of de in [artikel 2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011955&artikel=2&z=2001-01-31&g=2001-01-31), bedoelde algemene maatregelen van bestuur.
+2. Voor zover en zolang de aanspraken ingevolge de in het eerste lid bedoelde wetten en regelingen nog niet door de toepassing van dat lid zijn vervallen, ontleent een betrokkene geen aanspraken aan het pensioenreglement of de in [artikel 2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011955&artikel=2&z=2007-01-01&g=2007-01-01), bedoelde algemene maatregelen van bestuur.
 
-3. Zodra aanspraken ingevolge de in het eerste lid bedoelde wetten en regelingen door de toepassing van dat lid zijn vervallen, zet Onze Minister deze onmiddellijk om in aanspraken of uitzichten op grond van het pensioenreglement dan wel – zo nodig in aanvullende zin – op grond van de in [artikel 2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011955&artikel=2&z=2001-01-31&g=2001-01-31), bedoelde algemene maatregelen van bestuur. De te volgen methode van omzetting garandeert individuele gelijkwaardigheid van uitzichten op pensioen en, voor het totaal van de aan dezelfde dienstverhouding te ontlenen nieuwe aanspraken, nominale gelijkheid van de op het omzettingsmoment al ingegane pensioenen. Het omzettingsproces laat de voorgeschreven periodieke betaling van de pensioenen onverlet.
+3. Zodra aanspraken ingevolge de in het eerste lid bedoelde wetten en regelingen door de toepassing van dat lid zijn vervallen, zet Onze Minister deze onmiddellijk om in aanspraken of uitzichten op grond van het pensioenreglement dan wel – zo nodig in aanvullende zin – op grond van de in [artikel 2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011955&artikel=2&z=2007-01-01&g=2007-01-01), bedoelde algemene maatregelen van bestuur. De te volgen methode van omzetting garandeert individuele gelijkwaardigheid van uitzichten op pensioen en, voor het totaal van de aan dezelfde dienstverhouding te ontlenen nieuwe aanspraken, nominale gelijkheid van de op het omzettingsmoment al ingegane pensioenen. Het omzettingsproces laat de voorgeschreven periodieke betaling van de pensioenen onverlet.
 
 4. Waar het een omzetting naar het pensioenreglement betreft, worden in elk geval de verschillen in pensioenniveau in acht genomen die krachtens de in te trekken regels tussen gehuwden en ongehuwden of daarmee gelijk te stellen rechthebbenden konden bestaan. Andere persoonlijke omstandigheden die ingevolge die vroegere regels het pensioenbedrag zouden kunnen beïnvloeden werken bij een omzetting naar het pensioenreglement door naar de situatie op een voor alle uitzichten en rechten geldende vaste peildatum. Tenzij dat uitdrukkelijk anders wordt bepaald heeft een wijziging van de laatstbedoelde omstandigheden na die peildatum geen invloed op de na omzetting gevonden nieuwe pensioenbedragen. Onze Minister legt de te hanteren werkwijze vast in een nadere regeling.
 
@@ -90,9 +90,9 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 4. Financiering/uitvoering
 
-1. De aan de uitvoering van deze wet verbonden kosten komen ten laste van Hoofdstuk X van de Rijksbegroting, wat de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011955&artikel=2&z=2001-01-31&g=2001-01-31),bedoelde pensioenaanspraken betreft, voor zoveel mogelijk in de vorm van een premie, nodig voor de instandhouding van een kapitaaldekkingsstelsel, en voor het overige als rechtstreekse begrotingslast.
+1. De aan de uitvoering van deze wet verbonden kosten komen ten laste van Hoofdstuk X van de Rijksbegroting, wat de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011955&artikel=2&z=2007-01-01&g=2007-01-01),bedoelde pensioenaanspraken betreft, voor zoveel mogelijk in de vorm van een premie, nodig voor de instandhouding van een kapitaaldekkingsstelsel, en voor het overige als rechtstreekse begrotingslast.
 
-2. De uitvoering van de pensioenaanspraken voor militairen en hun nagelaten betrekkingen, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011955&artikel=2&z=2001-01-31&g=2001-01-31), wordt ondergebracht bij het fonds. Het fonds beheert de betreffende pensioenaanspraken en uitzichten voor zoveel mogelijk naar de grondslagen van het voor de pensioenen voor het overig overheidspersoneel geldende financieringsstelsel. Onze Minister en het bestuur sluiten met het oog op die uitvoering en dat beheer een overeenkomst naar burgerlijk recht.
+2. De uitvoering van de pensioenaanspraken voor militairen en hun nagelaten betrekkingen, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011955&artikel=2&z=2007-01-01&g=2007-01-01), wordt ondergebracht bij het fonds. Het fonds beheert de betreffende pensioenaanspraken en uitzichten voor zoveel mogelijk naar de grondslagen van het voor de pensioenen voor het overig overheidspersoneel geldende financieringsstelsel. Onze Minister en het bestuur sluiten met het oog op die uitvoering en dat beheer een overeenkomst naar burgerlijk recht.
 
 3. De overeenkomst, bedoeld in het tweede lid, omvat ten minste:
 
@@ -104,21 +104,21 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 5. Eigen bijdrage
 
-De eigen bijdrage van de beroepsmilitair aan de op deze wet steunende pensioenvoorzieningen wordt, voor zover de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011955&artikel=2&z=2001-01-31&g=2001-01-31), bedoelde overeenkomst daarin niet voorziet, vastgesteld bij algemene maatregel van bestuur.
+De eigen bijdrage van de beroepsmilitair aan de op deze wet steunende pensioenvoorzieningen wordt, voor zover de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011955&artikel=2&z=2007-01-01&g=2007-01-01), bedoelde overeenkomst daarin niet voorziet, vastgesteld bij algemene maatregel van bestuur.
 
-##### Artikel 6. Pensioen- en spaarfondsenwet
+##### Artikel 6. Pensioenwet
 
-1. De [Pensioen- en spaarfondsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002089)is van toepassing op de nadere overeenkomst, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011955&artikel=2&z=2001-01-31&g=2001-01-31).
+1. De [Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809) is van toepassing op de nadere overeenkomst, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011955&artikel=2&z=2007-01-01&g=2007-01-01).
 
-2. Behoudens de [artikelen 33](https://wetten.overheid.nl/jci1.3:c:BWBR0002089&artikel=33) en [34 van de Pensioen- en spaarfondsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002089&artikel=34) is het eerste lid niet van toepassing op de pensioenvoorzieningen van
+2. Behoudens de [artikelen 93](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=93) en [216 van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=216) is het eerste lid niet van toepassing op de pensioenvoorzieningen van:
 
-- a. de militair, voor zover die zijn bepaald door pensioengeldige tijd die voorafgaat aan de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011955&artikel=3&z=2001-01-31&g=2001-01-31), bedoelde datum, en voor zover deze op grond van deze wet en binnen het raam van de overeenkomst, bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011955&artikel=4&z=2001-01-31&g=2001-01-31), op declaratiebasis worden gefinancierd;
+- a. de militair, voor zover die zijn bepaald door pensioengeldige tijd die voorafgaat aan de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011955&artikel=3&z=2007-01-01&g=2007-01-01), bedoelde datum, en voor zover deze op grond van deze wet en binnen het raam van de overeenkomst, bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011955&artikel=4&z=2007-01-01&g=2007-01-01), op declaratiebasis worden gefinancierd;
 
-- b. de nagelaten betrekkingen van de militair, die zijn afgeleid van de aanspraak dan wel het recht op ouderdomspensioen voor zover dat is opgebouwd tot aan de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011955&artikel=3&z=2001-01-31&g=2001-01-31), bedoelde datum.
+- b. de nagelaten betrekkingen van de militair, die zijn afgeleid van de aanspraak dan wel het recht op ouderdomspensioen voor zover dat is opgebouwd tot aan de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011955&artikel=3&z=2007-01-01&g=2007-01-01), bedoelde datum.
 
 ##### Artikel 7. Intrekking bestaande wetgeving
 
-1. Overeenkomstig het bepaalde in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011955&artikel=3&z=2001-01-31&g=2001-01-31), zullen, zo nodig na een voorafgaande groepsgewijze buiten werking stelling als daar bedoeld, worden ingetrokken:
+1. Overeenkomstig het bepaalde in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011955&artikel=3&z=2007-01-01&g=2007-01-01), zullen, zo nodig na een voorafgaande groepsgewijze buiten werking stelling als daar bedoeld, worden ingetrokken:
 
 - 1°. Algemene militaire pensioenwet;
 
