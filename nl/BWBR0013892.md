@@ -4,7 +4,7 @@ identifier: "BWBR0013892"
 country: "nl"
 rank: "wet"
 publication_date: "2007-01-01"
-last_updated: "2006-01-01"
+last_updated: "2007-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013892"
 soort: "wet"
@@ -71,13 +71,13 @@ Onze Minister van Volksgezondheid, Welzijn en Sport zendt in overeenstemming met
 
 ##### Artikel VII
 
-Tenzij bij algemene maatregel van bestuur anders wordt bepaald, vervallen van de [Wet bijzondere opnemingen in psychiatrische ziekenhuizen](https://wetten.overheid.nl/jci1.3:c:BWBR0005700) een jaar na het uitbrengen van het in [artikel VI](https://wetten.overheid.nl/jci1.3:c:BWBR0013892&artikel=VI&z=2006-01-01&g=2006-01-01) bedoelde verslag:
+Tenzij bij algemene maatregel van bestuur anders wordt bepaald, vervallen van de [Wet bijzondere opnemingen in psychiatrische ziekenhuizen](https://wetten.overheid.nl/jci1.3:c:BWBR0005700) een jaar na het uitbrengen van het in [artikel VI](https://wetten.overheid.nl/jci1.3:c:BWBR0013892&artikel=VI&z=2007-01-01&g=2007-01-01) bedoelde verslag:
 
 - a. [§ 1b van hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0005700&paragraaf=1b),
 
 - b. «of § 1b» in [artikel 20, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0005700&artikel=20),
 
-- c. onder invoeging van «dan wel» aan het eind van onderdeel a en onder vervanging aan het eind van onderdeel b van de komma door een punt, [artikel 40, derde lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0005700&artikel=40),
+- c. [artikel 40, derde lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0005700&artikel=40), onder invoeging van «dan wel» aan het eind van onderdeel a en onder vervanging aan het eind van onderdeel b van «, dan wel» door een punt,
 
 - d. [artikel 35a](https://wetten.overheid.nl/jci1.3:c:BWBR0005700&artikel=35a),
 
