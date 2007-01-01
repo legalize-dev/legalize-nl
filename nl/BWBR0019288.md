@@ -4,7 +4,7 @@ identifier: "BWBR0019288"
 country: "nl"
 rank: "amvb"
 publication_date: "2007-01-01"
-last_updated: "2006-01-01"
+last_updated: "2007-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019288"
 soort: "AMvB"
@@ -64,11 +64,11 @@ aangemerkt als een instelling die door de inspecteur is erkend als een instellin
 
 Dit besluit treedt in werking met ingang van 1 januari 2006, met uitzondering van:
 
-- a. [artikel I, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0019288&artikel=I&z=2006-01-01&g=2006-01-01);
+- a. [artikel I, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0019288&artikel=I&z=2007-01-01&g=2007-01-01);
 
-- b. [artikel I, onderdeel E.8](https://wetten.overheid.nl/jci1.3:c:BWBR0019288&artikel=I&z=2006-01-01&g=2006-01-01) voorzover betrekking hebbend op de tweede volzin van de **Algemene aantekening** aan het slot van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&bijlage=B); en
+- b. [artikel I, onderdeel E.8](https://wetten.overheid.nl/jci1.3:c:BWBR0019288&artikel=I&z=2007-01-01&g=2007-01-01) voorzover betrekking hebbend op de tweede volzin van de **Algemene aantekening** aan het slot van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&bijlage=B); en
 
-- c. [artikel I, onderdeel E.8](https://wetten.overheid.nl/jci1.3:c:BWBR0019288&artikel=I&z=2006-01-01&g=2006-01-01) voorzover betrekking hebbend op de uitzondering die in de nieuwe derde volzin van de **Algemene aantekening** aan het slot van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&bijlage=B) is opgenomen met betrekking tot de posten 9, 13 en 23 van onderdeel b;
+- c. [artikel I, onderdeel E.8](https://wetten.overheid.nl/jci1.3:c:BWBR0019288&artikel=I&z=2007-01-01&g=2007-01-01) voorzover betrekking hebbend op de uitzondering die in de nieuwe derde volzin van de **Algemene aantekening** aan het slot van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&bijlage=B) is opgenomen met betrekking tot de posten 9, 13 en 23 van onderdeel b;
 
 die in werking treden op een bij koninklijk besluit te bepalen tijdstip.
 
