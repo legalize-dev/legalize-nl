@@ -4,7 +4,7 @@ identifier: "BWBR0002786"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-01-01"
-last_updated: "2004-01-01"
+last_updated: "2007-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002786"
 soort: "AMvB"
@@ -64,13 +64,11 @@ Een in [artikel 5, eerste lid, onderdeel c, van de wet](https://wetten.overheid.
 
 ##### Artikel 5
 
-Een in [artikel 5, eerste lid, onderdeel e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=5) omschreven lichaam dat werkzaam is op het gebied van de landbouw is van de belasting vrijgesteld mits, zo winst wordt behaald, deze in het jaar niet meer bedraagt dan € 7 500, dan wel in het jaar en de daaraan voorafgaande vier jaren te zamen niet meer bedraagt dan € 37 500 en voorts:
+Een in [artikel 5, eerste lid, onderdeel e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=5) omschreven lichaam dat werkzaam is op het gebied van de landbouw is van de belasting vrijgesteld mits:
 
-- a. doel en feitelijke werkzaamheden bestaan in het exploiteren van bedrijfsmiddelen, het beschikbaar stellen van arbeidskrachten of het aankopen van landbouwbenodigdheden een en ander uitsluitend of nagenoeg uitsluitend ten behoeve van de aandeelhouders, leden, deelnemers of deelgerechtigden;
+- a. zo winst wordt behaald, deze in het jaar niet meer bedraagt dan € 7500, dan wel in het jaar en de daaraan voorafgaande vier jaren tezamen niet meer bedraagt dan € 37 500, en
 
-- b. doel en feitelijke werkzaamheid bestaan in het aankopen of verzamelen van eieren uitsluitend of nagenoeg uitsluitend van de pluimveehouders-aandeelhouders, -leden, -deelnemers of -deelgerechtigden; dan wel
-
-- c. doel en feitelijke werkzaamheid bestaan in het verbeteren van het landbouwpaard in Nederland en bovendien de winst, behoudens een uitkering tot ten hoogste vijf percent per jaar over het gestorte kapitaal of over de inleggelden, uitsluitend kan worden aangewend ten bate van de paardenfokkerij in Nederland of een algemeen maatschappelijk belang.
+- b. doel en feitelijke werkzaamheden bestaan in het exploiteren van bedrijfsmiddelen, het beschikbaar stellen van arbeidskrachten of het aankopen van landbouwbenodigdheden een en ander uitsluitend of nagenoeg uitsluitend ten behoeve van de aandeelhouders, leden, deelnemers of deelgerechtigden.
 
 ##### Artikel 6
 
@@ -86,7 +84,7 @@ Een in [artikel 5, eerste lid, onderdeel e, van de wet](https://wetten.overheid.
 
 ##### Artikel 7a
 
-Een lichaam dat voldoet aan de voorwaarden gesteld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002786&artikel=5&z=2004-01-01&g=2004-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0002786&artikel=6&z=2004-01-01&g=2004-01-01) of [7](https://wetten.overheid.nl/jci1.3:c:BWBR0002786&artikel=7&z=2004-01-01&g=2004-01-01) is in afwijking van de genoemde artikelen niet van de belasting vrijgesteld, indien het lichaam dit bij het indienen van de aangifte over het jaar verzoekt.
+Een lichaam dat voldoet aan de voorwaarden gesteld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002786&artikel=5&z=2007-01-01&g=2007-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0002786&artikel=6&z=2007-01-01&g=2007-01-01) of [7](https://wetten.overheid.nl/jci1.3:c:BWBR0002786&artikel=7&z=2007-01-01&g=2007-01-01) is in afwijking van de genoemde artikelen niet van de belasting vrijgesteld, indien het lichaam dit bij het indienen van de aangifte over het jaar verzoekt.
 
 ##### Artikel 7aa
 
