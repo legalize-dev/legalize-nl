@@ -4,7 +4,7 @@ identifier: "BWBR0009071"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2005-09-21"
+last_updated: "2007-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009071"
 soort: "ministeriele-regeling"
@@ -55,7 +55,7 @@ Besluit:
 
 - a. kentekens, bevattende de lettergroep AA of CDJ en vóór 1 januari 1991 opgegeven kentekens bevattende de lettergroep CD uit een samenstel van genoemde lettergroep en één groep van ten hoogste drie cijfers,
 
-- b. kentekens als bedoeld in [artikel 4, zesde lid, van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=4), uit een samenstel van twee groepen van drie letters en cijfers of een combinatie daarvan, en
+- b. kentekens als bedoeld in [artikel 4, vijfde lid, van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=4), uit een samenstel van twee groepen van drie letters en cijfers of een combinatie daarvan, en
 
 - c. kentekens als bedoeld in [artikel 4, zevende en achtste lid van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=4), uit een samenstel van twee groepen van twee cijfers en één enkele letter.
 
@@ -99,7 +99,7 @@ Besluit:
 
 - c. mag op een kentekenplichtige aanhangwagen die in gebruik is genomen voor 1 januari 1978, een kenteken zijn aangebracht op kentekenplaten in witte, onuitwisbare tekens op donkerblauwe achtergrond volgens de modellen 1.1, 2.1, 8.1, 9.1, 10.1, 11.1, 12.1 en de modellen 15.1 tot en met 17.3 van de bijlage.
 
-3. Met betrekking tot motorrijtuigen die voor 1 februari 2000 in gebruik zijn genomen mogen kentekens, niet zijnde handelaarskentekens of kentekens als bedoeld in [artikel 4, zesde lid, van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=4), in afwijking van het eerste lid zijn aangebracht op een gele achtergrond volgens de modellen 11.1, 12.1, 13.1, 14.1, en 18.1 van de bijlage en, voor zover het betreft kentekens behorende tot de lettergroep AA en CDJ alsmede vóór 1 februari 1991 opgegeven kentekens bevattende de lettergroep CD, volgens de modellen 15.1, 16.1, 17.1, 17.2 en 17.3 van de bijlage. Deze afwijkingsmogelijkheid geldt:
+3. Met betrekking tot motorrijtuigen die voor 1 februari 2000 in gebruik zijn genomen mogen kentekens, niet zijnde handelaarskentekens of kentekens als bedoeld in [artikel 4, vijfde lid, van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=4), in afwijking van het eerste lid zijn aangebracht op een gele achtergrond volgens de modellen 11.1, 12.1, 13.1, 14.1, en 18.1 van de bijlage en, voor zover het betreft kentekens behorende tot de lettergroep AA en CDJ alsmede vóór 1 februari 1991 opgegeven kentekens bevattende de lettergroep CD, volgens de modellen 15.1, 16.1, 17.1, 17.2 en 17.3 van de bijlage. Deze afwijkingsmogelijkheid geldt:
 
 - a. voor APK-plichtige motorrijtuigen: tot de aanvang van de eerste periodieke keuring na 1 juni 2000, zulks onverminderd het zesde en zevende lid;.
 
@@ -113,7 +113,7 @@ Indien van deze afwijkingsmogelijkheid gebruik wordt gemaakt mogen de modellen C
 
 - c. Op een aanhangwagen achter een motorrijtuig waarvoor een GV-kenteken is opgegeven, mag een kentekenplaat met het voor het trekkend motorrijtuig opgegeven kenteken worden gevoerd volgens de modellen 27.24A tot en met 27.25C.
 
-- d. Indien een niet-kentekenplichtige aanhangwagen wordt voortbewogen door een motorrijtuig dat moet worden voorzien van handelaarskentekenplaten, geldt deze verplichting ook voor die aanhangwagen, met dien verstande dat de kentekenplaat in afwijking van [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009071&artikel=7&z=2005-09-21&g=2005-09-21), aan de achterzijde van de aanhangwagen wordt aangebracht.
+- d. Indien een niet-kentekenplichtige aanhangwagen wordt voortbewogen door een motorrijtuig dat moet worden voorzien van handelaarskentekenplaten, geldt deze verplichting ook voor die aanhangwagen, met dien verstande dat de kentekenplaat in afwijking van [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009071&artikel=7&z=2007-01-01&g=2007-01-01), aan de achterzijde van de aanhangwagen wordt aangebracht.
 
 - e. Op een aanhangwagen mag het kenteken niet zijn aangebracht op een kentekenplaat volgens model 18.2A tot en met 18.2C van de bijlage.
 
@@ -167,7 +167,7 @@ Dit lid geldt niet voor motorrijtuigen die moeten zijn voorzien van kentekenplat
 
 1. Kentekenplaten zijn voorzien van een merk volgens model M.3 van de bijlage.
 
-2. In afwijking van het eerste lid zijn kentekenplaten voorzien van een merk overeenkomstig [artikel 5, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009071&artikel=5&z=2005-09-21&g=2005-09-21), zoals die artikelleden luidden vóór de inwerkingtreding van deze regeling, indien:
+2. In afwijking van het eerste lid zijn kentekenplaten voorzien van een merk overeenkomstig [artikel 5, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009071&artikel=5&z=2007-01-01&g=2007-01-01), zoals die artikelleden luidden vóór de inwerkingtreding van deze regeling, indien:
 
 - a. zij zijn afgegeven vóór 1 februari 2000;
 
@@ -239,10 +239,10 @@ Deze regeling wordt aangehaald als: Regeling kentekens en kentekenplaten.
 
 ## Bijlage
 
-Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat, te 's-Gravenhage.
+Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat te Den Haag en bij de Dienst Wegverkeer te Zoetermeer en Veendam.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de bijlagen, die ter inzage worden gelegd bij de bibliotheek van het Ministerie van Verkeer en Waterstaat, Plesmanweg 1, ’s-Gravenhage, de Dienst Wegverkeer, Europaweg 205, Zoetermeer en de Dienst Wegverkeer, Skager Rak 10 Veendam.
 
 ##### Artikel 8
 
-In afwijking van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009071&artikel=3&z=2005-09-21&g=2005-09-21), mogen kentekens die zijn opgegeven voor het tijdstip van inwerkingtreding van de [wet van 12 mei 2005 tot wijziging van de Wegenverkeerswet 1994 en enkele andere wetten in verband met de invoering van een kentekenregistratiesysteem voor bromfietsen alsmede vaststelling van overgangsbepalingen in verband daarmee](https://wetten.overheid.nl/jci1.3:c:BWBR0018326) (Stb. 281), zijn aangebracht op kentekenplaten volgens model 18.2 of model 27.10 van de bijlage zoals deze bijlage luidde voor die datum, voor zover blijkens het kentekenbewijs voor het voeren van deze kentekenplaten toestemming is verleend.
+In afwijking van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009071&artikel=3&z=2007-01-01&g=2007-01-01), mogen kentekens die zijn opgegeven voor het tijdstip van inwerkingtreding van de [wet van 12 mei 2005 tot wijziging van de Wegenverkeerswet 1994 en enkele andere wetten in verband met de invoering van een kentekenregistratiesysteem voor bromfietsen alsmede vaststelling van overgangsbepalingen in verband daarmee](https://wetten.overheid.nl/jci1.3:c:BWBR0018326) (Stb. 281), zijn aangebracht op kentekenplaten volgens model 18.2 of model 27.10 van de bijlage zoals deze bijlage luidde voor die datum, voor zover blijkens het kentekenbewijs voor het voeren van deze kentekenplaten toestemming is verleend.
