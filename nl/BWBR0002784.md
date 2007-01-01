@@ -4,7 +4,7 @@ identifier: "BWBR0002784"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2006-01-01"
+last_updated: "2007-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002784"
 soort: "ministeriele-regeling"
@@ -39,23 +39,23 @@ Besluit:
 
 ##### Artikel 1
 
-1. Deze regeling geeft uitvoering aan de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=9), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=13), [14a](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=14a), [14b](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=14b), [15ad](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=15ad), [15b](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=15b), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=21), [23a](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=23a) en [25a van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=25a).
+1. Deze regeling geeft uitvoering aan de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=9), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=13), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=21) en [25a van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=25a).
 
 2. Deze regeling verstaat onder de wet: de [Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672).
 
 ##### Artikel 2
 
-De ingevolge [artikel 9, eerste lid, onderdeel f, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=9) te bepalen redelijke rente voor de in [artikel 2, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0002784&artikel=2&z=2006-01-01&g=2006-01-01), bedoelde ondernemingen van publiekrechtelijke rechtspersonen bedraagt 6 percent.
+De ingevolge [artikel 9, eerste lid, onderdeel f, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=9) te bepalen redelijke rente voor de in [artikel 2, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0002784&artikel=2&z=2007-01-01&g=2007-01-01), bedoelde ondernemingen van publiekrechtelijke rechtspersonen bedraagt 5 percent.
 
 ##### Artikel 2a
 
-1. Voor de toepassing van artikel 13, tweede lid, laatste volzin, van de wet worden de werkzaamheden van een lichaam als daar bedoeld aangemerkt als actieve financieringswerkzaamheden indien aan de volgende voorwaarden is voldaan:
+1. Voor de toepassing van [artikel 13, elfde lid, laatste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=13) worden de werkzaamheden van een lichaam als daar bedoeld aangemerkt als actieve financieringswerkzaamheden indien aan de volgende voorwaarden is voldaan:
 
 - a. het lichaam houdt zich anders dan incidenteel bezig met het arrangeren en uitvoeren van financiële transacties ten behoeve van tot het concern behorende lichamen;
 
 - b. het feitelijk van derden aangetrokken vreemd vermogen bedraagt ten minste 20% van de waarde in het economische verkeer van de activa van het lichaam;
 
-- c. het lichaam voert niet langer dan 12 maanden achtereen het beheer over overtollige liquiditeiten die meer belopen dan 10% van het gestorte kapitaal van het lichaam, waarbij de overnamekas buiten beschouwing blijft;
+- c. het lichaam voert niet langer dan 12 maanden achtereen het beheer over overtollige liquiditeiten die meer belopen dan 10% van het gestorte kapitaal van het lichaam, waarbij kortlopende beleggingen welke worden aangehouden met het oog op de verwerving van deelnemingen buiten beschouwing blijven;
 
 - d. het lichaam is in zijn bestuur en de dagelijkse bedrijfsvoering, waarbij de normale bemoeienis met de bedrijfsvoering door de aandeelhouder of de concernleiding buiten beschouwing blijft, zelfstandig;
 
@@ -71,19 +71,11 @@ De ingevolge [artikel 9, eerste lid, onderdeel f, van de wet](https://wetten.ove
 
 - c. door het andere concernlichaam ter financiering van onroerende zaken hypothecaire leningen zijn aangegaan in het land waar deze zaken zijn gelegen.
 
-3. Onder overnamekas als bedoeld in het eerste lid, onderdeel c, wordt verstaan kortlopende beleggingen waarvan de belastingplichtige aan de hand van geobjectiveerde intenties aannemelijk maakt dat deze door het lichaam worden aangehouden met het oog op de verwerving van deelnemingen die passen bij de omvang en liggen in de lijn van het concern. Het bedrag van die beleggingen dient te passen bij de omvang van het concern. Aan deze laatste voorwaarde is in ieder geval voldaan indien die beleggingen niet meer bedragen dan de laagste van de volgende waarden:
-
-- a. 25% van de beurswaarde of marktwaarde van het concern dan wel, als het concern één of meer andere lichamen heeft waarin financieringsactiviteiten worden verricht, het deel van die 25% dat overeenkomt met de verhouding tussen het eigen vermogen van het lichaam en het gezamenlijke eigen vermogen van alle lichamen waarin financieringsactiviteiten worden verricht; of
-
-- b. 100% van het bedrag van de uitstaande leningen en van de waarde in het economische verkeer van de deelnemingen buiten Nederland van het lichaam alsmede voor de deelnemingen binnen Nederland van het lichaam een bedrag dat niet groter is dan 1/9 deel van de waarde in het economische verkeer van de deelnemingen buiten Nederland, één en ander onder aftrek van de schulden van het lichaam die verband houden met de hiervoor bedoelde leningen en deelnemingen.
-
-4. Voor de toepassing van het derde lid, onderdeel b, wordt als deelneming buiten Nederland mede aangemerkt een deelneming binnen Nederland voor zover de waarde daarvan is toe te rekenen aan niet in Nederland aanwezige bezittingen en wordt als deelneming binnen Nederland mede aangemerkt een deelneming buiten Nederland voor zover de waarde daarvan is toe te rekenen aan in Nederland aanwezige bezittingen.
-
-5. Voor de toepassing van dit artikel wordt als concern aangemerkt de belastingplichtige tezamen met de met hem verbonden lichamen als bedoeld in artikel 10a, vierde lid, van de wet.
+3. Voor de toepassing van dit artikel wordt als concern aangemerkt de belastingplichtige tezamen met de met hem verbonden lichamen als bedoeld in [artikel 10a, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=10).
 
 ##### Artikel 2b
 
-Voor de toepassing van artikel 15b, derde lid, van de wet wordt onder kortlopende beleggingen welke worden aangehouden ter financiering van acquisities die passend zijn bij de omvang en liggen in de lijn van het concern, verstaan een overnamekas als bedoeld in artikel 2a, derde en vierde lid, waarbij concern wordt opgevat in de zin van artikel 15b, eerste lid, onderdeel c, van de wet.
+Vervallen
 
 ##### Artikel 3
 
@@ -93,7 +85,7 @@ Voor de toepassing van artikel 15b, derde lid, van de wet wordt onder kortlopend
 
 ##### Artikel 4
 
-Artikel 23a, eerste lid, eerste volzin, van de wet is niet van toepassing in geval van afkoop van aanspraken ingevolge een pensioenregeling op de voet van artikel 32, vijfde lid, van de Pensioen- en spaarfondsenwet.
+Vervallen
 
 ##### Artikel 4a
 
@@ -121,28 +113,8 @@ Vervallen
 
 ##### Artikel 2c
 
-De rente, bedoeld in de [artikelen 14a, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=14a), [14b, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=14b) en [15ad, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=15ad), die bij het einde van de daarin bedoelde periode van acht jaren nog niet in aftrek is gekomen, wordt achtereenvolgens in mindering gebracht op en ten hoogste tot de positieve belastbare bedragen van de volgende jaren.
+Vervallen
 
 ##### Artikel 2bis
 
-1. Het tijdstip van bij de bepaling van de winst in aftrek komen van aan personeel toegekende rechten om aandelen of winstbewijzen te verwerven of een daarmee gelijk te stellen recht, als bedoeld in artikel 9, eerste lid, onderdeel h, van de wet, is:
-
-- a. bij een onvoorwaardelijke toekenning of een toekenning onder ontbindende voorwaarde, het tijdstip waarop het recht is aanvaard, inhoudelijk volledig is bepaald en de uitoefening aanstonds of na een bepaalde, vaste termijn kan geschieden;
-
-- b. bij een toekenning onder opschortende voorwaarde, het tijdstip waarop de voorwaarde is vervuld, het recht is aanvaard, inhoudelijk volledig is bepaald en de uitoefening aanstonds of na een bepaalde, vaste termijn kan geschieden.
-
-2. Voor de toepassing van artikel 9, eerste lid, onderdeel h, van de wet wordt de waarde van een ter beurze genoteerd recht om aandelen te verwerven of van een daarmee gelijk te stellen recht, gesteld op de waarde in het economische verkeer van dat recht op het tijdstip van aftrek, bedoeld in het eerste lid. Voor de toepassing van bedoeld onderdeel h wordt de waarde van een recht om winstbewijzen te verwerven of van een daarmee gelijk te stellen recht, gesteld op de waarde in het economische verkeer van dat recht op het tijdstip van aftrek, bedoeld in het eerste lid.
-
-3. Voor de toepassing van artikel 9, eerste lid, onderdeel h, van de wet wordt de waarde van een niet ter beurze genoteerd recht om aandelen te verwerven of van een daarmee gelijk te stellen recht, gesteld op de som van de intrinsieke waarde en de verwachtingswaarde van dat recht. De waarde wordt uitgedrukt in een percentage (P) van de waarde (W) in het economische verkeer van de aandelen waarop dat recht betrekking heeft op het tijdstip van aftrek, bedoeld in het eerste lid.
-
-4. Voor de toepassing van het derde lid wordt P berekend volgens de formule P = I + V doch ten minste nihil, waarin
-
-I voorstelt: {(W – U) / W} × 100, U is daarin de in de optie-overeenkomst vastgelegde uitoefenkoers;
-
-V voorstelt: (4,5 – 0,1t) × t – (0,09 – 0,002t) × I × t doch ten minste nihil, t is daarin de na het tijdstip van aftrek ter zake van de toekenning van het recht resterende looptijd van dat recht in jaren of gedeelten van jaren, doch ten hoogste 20.
-
-5. Voor de toepassing van het vierde lid worden I en V naar beneden afgerond op gehele getallen.
-
-6. Indien P op het tijdstip van aftrek niet bepaalbaar is volgens het vierde lid, wordt de waarde van het recht, bedoeld in het derde lid, gesteld op de waarde in het economische verkeer van het recht op het tijdstipvan aftrek.
-
-7. Indien de belastingplichtige aannemelijk maakt dat de volgens het derde tot en met het vijfde lid vastgestelde waarde in belangrijke mate lager is dan de werkelijke waarde in het economische verkeer van het recht op het tijdstip van aftrek, wordt de waarde gesteld op de waarde in het economische verkeer.
+Vervallen
