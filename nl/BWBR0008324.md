@@ -4,7 +4,7 @@ identifier: "BWBR0008324"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2010-01-01"
-last_updated: "2006-04-14"
+last_updated: "2007-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008324"
 soort: "ministeriele-regeling"
@@ -66,7 +66,7 @@ a. de ministers: de Minister van Binnenlandse Zaken en de Minister van Financië
 
 - d. een analyse van de ontwikkelingen in de gegevens over de fysieke, sociale en financiële structuur van de gemeente;
 
-- e. een berekening en beoordeling van de mate waarin sprake is van een aanmerkelijk en structureel tekort van de gemeente en van het in [artikel 24 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&artikel=24) juncto [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008324&paragraaf=2&artikel=4&z=2006-04-14&g=2006-04-14) van deze regeling bedoelde redelijk peil.
+- e. een berekening en beoordeling van de mate waarin sprake is van een aanmerkelijk en structureel tekort van de gemeente en van het in [artikel 24 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&artikel=24) juncto [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008324&paragraaf=2&artikel=4&z=2006-04-14&g=2007-01-01) van deze regeling bedoelde redelijk peil.
 
 2. Bij het verslag worden betrokken:
 
@@ -104,11 +104,11 @@ Het tarief, bedoeld in [artikel 24 , eerste lid onder a. van het besluit](https:
 
 ##### Artikel 6
 
-De ministers verlenen slechts een aanvullende uitkering indien de eigen inkomsten van de gemeente vanaf het jaar waarover wordt aangevraagd ten minste liggen op het in [artikel 24 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&artikel=24) juncto [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008324&paragraaf=2&artikel=4&z=2006-04-14&g=2006-04-14) van deze regeling bedoelde redelijk peil.
+De ministers verlenen slechts een aanvullende uitkering indien de eigen inkomsten van de gemeente vanaf het jaar waarover wordt aangevraagd ten minste liggen op het in [artikel 24 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&artikel=24) juncto [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008324&paragraaf=2&artikel=4&z=2006-04-14&g=2007-01-01) van deze regeling bedoelde redelijk peil.
 
 ##### Artikel 7
 
-De ministers verbinden aan een besluit tot verlening van een aanvullende uitkering aan de gemeente in ieder geval voorschriften die er toe strekken dat de eigen inkomsten van de gemeente ten minste op het in [artikel 24 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&artikel=24) juncto [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008324&paragraaf=2&artikel=4&z=2006-04-14&g=2006-04-14) van deze regeling bedoelde redelijk peil blijven.
+De ministers verbinden aan een besluit tot verlening van een aanvullende uitkering aan de gemeente in ieder geval voorschriften die er toe strekken dat de eigen inkomsten van de gemeente ten minste op het in [artikel 24 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&artikel=24) juncto [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008324&paragraaf=2&artikel=4&z=2006-04-14&g=2007-01-01) van deze regeling bedoelde redelijk peil blijven.
 
 #### Paragraaf 4. Slotbepalingen
 
