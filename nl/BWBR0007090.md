@@ -4,7 +4,7 @@ identifier: "BWBR0007090"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2005-09-01"
+last_updated: "2007-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007090"
 soort: "ministeriele-regeling"
@@ -54,7 +54,7 @@ In deze regeling wordt verstaan onder:
 
 - c. een kentekenbewijs, bevattende de enkele letter Z en twee groepen van twee cijfers (zevendaags kentekenbewijs): model 3.1;
 
-- d. een kentekenbewijs, bevattende een kenteken als bedoeld in [artikel 4, zesde lid, van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=4) (uitvoerkentekenbewijs): model 4.1;
+- d. een kentekenbewijs, bevattende een kenteken als bedoeld in [artikel 4, vijfde lid, aanhef en onder a, van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=4) (uitvoerkentekenbewijs): model 4.1;
 
 - e. een deel I van een driedelig kentekenbewijs voor een personenauto, een motorfiets, een driewielig motorrijtuig, een aanhangwagen of een bedrijfsauto dan wel een deel I van een kentekenbewijs, bevattende een handelaarskenteken of de lettergroep BN of GN en twee groepen van twee cijfers dan wel de lettergroep GV en twee groepen van twee cijfers: model 5.1;
 
@@ -72,7 +72,9 @@ In deze regeling wordt verstaan onder:
 
 - l. een deel II van een na 30 mei 2004 afgegeven tweedelig kentekenbewijs: model 17.1;
 
-- m. een deel I van een na 30 mei 2004 afgegeven kentekenbewijs, bevattende een kenteken als bedoeld in [artikel 4, zesde lid, van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=4), tevens uitvoerverklaring: model 18.1.
+- m. een deel I van een na 30 mei 2004 afgegeven kentekenbewijs, bevattende een kenteken als bedoeld in [artikel 4, vijfde lid, aanhef en onder a, van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=4), tevens uitvoerverklaring: model 18.1.
+
+- n. een kentekenbewijs, bevattende een kenteken als bedoeld in [artikel 4, vijfde lid, aanhef en onder b, van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=4) (transitokentekenbewijs): model: 19.1.
 
 2. Voorts worden de volgende, in de bijlage van dit besluit opgenomen, modellen vastgesteld:
 
@@ -304,7 +306,15 @@ Model 17.1.
 
 Model 18.1
 
-**Deel I van een na 30 mei 2004 afgegeven kentekenbewijs, bevattende een kenteken als bedoeld in artikel 4, zesde lid, van het Kentekenreglement, tevens uitvoerverklaring**
+**Deel I van een na 30 mei 2004 afgegeven kentekenbewijs, bevattende een kenteken als bedoeld in artikel 4, vijfde lid, aanhef en onder a, van het Kentekenreglement, tevens uitvoerverklaring**
+
+Model 19.1
+
+**Deel I van een kentekenbewijs, bevattende een kenteken als bedoeld in artikel 4, vijfde lid, onder b, van het Kentekenreglement (transitokentekenbewijs)**
+
+**Voorzijde (kleur: wit)**
+
+**Achterzijde (kleur: overwegend blauw)**
 
 Model A.1 Vrijwaringsbewijs, af te geven door de Dienst Wegverkeer
 
@@ -322,7 +332,7 @@ Kleur: groen
 
 Model C.1 Ontvangstbewijs dat wordt verstrekt door de Dienst Wegverkeer na een aanvraag van een kentekenbewijs of deel daarvan
 
-Vervallen
+Vervallen.
 
 Model D.1 Ingevolge artikel 39, derde lid, van het Kentekenreglement afgegeven ontvangstbewijs
 
