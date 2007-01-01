@@ -81,9 +81,3 @@ Deze regeling treedt in werking op een bij ministeriële regeling te bepalen tij
 Deze regeling wordt aangehaald als: Regeling nadere voorschriften met betrekking tot de verrekening van uitkeringskosten.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 5a. Omhangbepaling
-
-Deze regeling berust op de [artikelen 5, eerste lid, tweede lid, onder b, en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045100&artikel=5), en [20, derde lid, van het Besluit bekostiging WVO 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045100&artikel=20).
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
