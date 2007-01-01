@@ -4,7 +4,7 @@ identifier: "BWBR0012093"
 country: "nl"
 rank: "amvb"
 publication_date: "2007-01-01"
-last_updated: "2001-01-01"
+last_updated: "2007-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012093"
 soort: "AMvB"
@@ -58,7 +58,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 2. De mededeling
 
-1. De mededeling, bedoeld in [artikel 23, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&artikel=23) wordt schriftelijk gedaan uiterlijk veertien kalenderdagen na de dag waarop op grond van de regeling omtrent de betaling van bijdragen, bedoeld in [artikel 3a van de Pensioen- en spaarfondsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002089&artikel=3a), dan wel op grond van de statuten en reglementen van het bedrijfstakpensioenfonds de bijdrage behoorde te zijn voldaan.
+1. De mededeling, bedoeld in [artikel 23, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&artikel=23) wordt schriftelijk gedaan uiterlijk veertien kalenderdagen na de dag waarop op grond van de regeling omtrent de betaling van de premies, bedoeld in [artikel 26 van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=26), dan wel op grond van de statuten en reglementen van het bedrijfstakpensioenfonds de bijdrage behoorde te zijn voldaan.
 
 2. De mededeling ter zake van een bijdrage, die is vastgesteld vanwege de omstandigheid dat ten onrechte geen bijdrage is vastgesteld dan wel dat na de vaststelling van de bijdrage blijkt, dat een lagere bijdrage is vastgesteld dan is verschuldigd, wordt schriftelijk gedaan uiterlijk veertien kalenderdagen nadat die bijdrage behoorde te zijn voldaan.
 
