@@ -4,7 +4,7 @@ identifier: "BWBR0017557"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2007-01-01"
-last_updated: "2004-12-03"
+last_updated: "2007-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017557"
 soort: "ministeriele-regeling"
@@ -41,15 +41,15 @@ Wijzigt de Arbeidsomstandighedenregeling.
 
 ##### Artikel II
 
-Het tijdstip, bedoeld in [Artikel II, elfde lid, aanhef en onderdeel c, van de regeling van 25 oktober 1999 tot wijziging van de Arbeidsomstandighedenregeling in verband met de vaststelling van de Arbeidsomstandighedenwet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0010792&artikel=II) (Stcrt. 208), wordt vastgesteld op 1 januari 2004.
+Vervallen
 
 ##### Artikel III
 
-1. Deze regeling, met uitzondering van onderdeel N van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0017557&artikel=I&z=2004-12-03&g=2004-12-03) en [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0017557&artikel=II&z=2004-12-03&g=2004-12-03), treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
+1. Deze regeling, met uitzondering van onderdeel N van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0017557&artikel=I&z=2007-01-01&g=2007-01-01) en [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0017557&artikel=II&z=2007-01-01&g=2007-01-01), treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-2. Onderdeel N van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0017557&artikel=I&z=2004-12-03&g=2004-12-03) treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin deze regeling wordt geplaatst en werkt terug tot en met 1 november 2003.
+2. Onderdeel N van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0017557&artikel=I&z=2007-01-01&g=2007-01-01) treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin deze regeling wordt geplaatst en werkt terug tot en met 1 november 2003.
 
-3. [Artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0017557&artikel=II&z=2004-12-03&g=2004-12-03) treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2004.
+3. [Artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0017557&artikel=II&z=2007-01-01&g=2007-01-01) treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2004.
 
 Gelet op [artikel 1.5e, eerste lid, van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5e);
 
