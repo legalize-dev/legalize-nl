@@ -4,7 +4,7 @@ identifier: "BWBR0019237"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2006-01-01"
+last_updated: "2007-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019237"
 soort: "ministeriele-regeling"
@@ -97,7 +97,7 @@ Het verzoek, bedoeld in [artikel 8, vierde lid, van de wet](https://wetten.overh
 
 - e. de komst of het vertrek van een medebewoner.
 
-4. Indien er een voorschot zorgtoeslag is verleend, wordt als een omstandigheid als bedoel in het eerste lid tevens aangemerkt de beëindiging van de zorgverzekering of een opschorting van die verzekering als bedoeld in [artikel 24 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=24).
+4. Indien er een voorschot zorgtoeslag is verleend, wordt als een omstandigheid als bedoeld in het eerste lid tevens aangemerkt de beëindiging van de zorgverzekering of een opschorting van die verzekering als bedoeld in [artikel 24 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=24).
 
 5. Indien er een voorschot kinderopvangtoeslag is verleend, wordt als een omstandigheid als bedoeld in het eerste lid tevens aangemerkt:
 
@@ -109,9 +109,7 @@ Het verzoek, bedoeld in [artikel 8, vierde lid, van de wet](https://wetten.overh
 
 - d. een wijziging in de uurprijs;
 
-- e. een wijziging van de vrije vergoeding of verstrekking door de werkgever ter zake van kosten van kinderopvang, bedoeld in [artikel 16c van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=16c);
-
-- f. een wijziging van de tegemoetkoming van de gemeente of het Uitvoeringsinstituut werknemersverzekeringen, bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=22) onderscheidenlijk [artikel 29, van de Wet kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=29).
+- e. een wijziging van de tegemoetkoming van de gemeente of het Uitvoeringsinstituut werknemersverzekeringen, bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=22) onderscheidenlijk [artikel 29, van de Wet kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=29).
 
 ##### Artikel 6. Gegevensverkeer bij betaling op andere bankrekening
 
