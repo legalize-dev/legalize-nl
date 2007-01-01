@@ -4,7 +4,7 @@ identifier: "BWBR0005807"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-01-01"
-last_updated: "2006-10-01"
+last_updated: "2007-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005807"
 soort: "AMvB"
@@ -46,7 +46,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-1. Dit besluit geeft uitvoering aan de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=14), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=15), [15a](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=15a), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=16) en [20 van de Wet op de belasting van personenauto's en motorrijwielen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=20), artikel 66**b**, tweede lid, van de Wet op de inkomstenbelasting 1968 en [artikel 8, zesde lid, van de Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=8)
+1. Dit besluit geeft uitvoering aan de [artikelen 13a](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=13a), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=14), 14a, [15](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=15), [15a](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=15a), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=16) en [20 van de Wet op de belasting van personenauto's en motorrijwielen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=20), artikel 66b, tweede lid, van de Wet op de inkomstenbelasting 1968 en [artikel 8, zesde lid, van de Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=8)
 
 2. Dit besluit verstaat hierna onder:
 
@@ -86,7 +86,7 @@ Hebben goedgevonden en verstaan:
 
 - -. bestuurder, vennoot of aandeelhouder zijn van een onderneming, opgericht in de vorm van een vennootschap,
 
-een en ander mits de eigenaar of houder niet een werknemer is als bedoeld in [artikel 2, eerste lid, onderdeel **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0005807&artikel=2&z=2006-10-01&g=2006-10-01).
+een en ander mits de eigenaar of houder niet een werknemer is als bedoeld in [artikel 2, eerste lid, onderdeel **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0005807&artikel=2&z=2007-01-01&g=2007-01-01).
 
 2. De vrijstelling als bedoeld in het eerste lid wordt slechts verleend indien:
 
@@ -94,17 +94,17 @@ een en ander mits de eigenaar of houder niet een werknemer is als bedoeld in [ar
 
 - b. uitsluitend de afstand van de woonplaats naar de in het buitenland gelegen werkplaats en omgekeerd wordt overbrugd.
 
-3. [Artikel 2, tweede tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005807&artikel=2&z=2006-10-01&g=2006-10-01), is van overeenkomstige toepassing.
+3. [Artikel 2, tweede tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005807&artikel=2&z=2007-01-01&g=2007-01-01), is van overeenkomstige toepassing.
 
 ##### Artikel 4
 
-1. Vrijstelling van belasting wordt in andere gevallen dan bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005807&artikel=2&z=2006-10-01&g=2006-10-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0005807&artikel=3&z=2006-10-01&g=2006-10-01) verleend voor uit een ander land afkomstige personenauto’s, motorrijwielen en bestelauto’s indien ter zake van het in het vrije verkeer brengen daarvan aanspraak op vrijstelling van rechten bij invoer bestaat, of zou bestaan indien de vervoermiddelen uit een ander land dan een lid-staat van de Europese Unie in het vrije verkeer zouden zijn gebracht, onder de daarbij gestelde voorwaarden en beperkingen.
+1. Vrijstelling van belasting wordt in andere gevallen dan bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005807&artikel=2&z=2007-01-01&g=2007-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0005807&artikel=3&z=2007-01-01&g=2007-01-01) verleend voor uit een ander land afkomstige personenauto’s, motorrijwielen en bestelauto’s indien ter zake van het in het vrije verkeer brengen daarvan aanspraak op vrijstelling van rechten bij invoer bestaat, of zou bestaan indien de vervoermiddelen uit een ander land dan een lid-staat van de Europese Unie in het vrije verkeer zouden zijn gebracht, onder de daarbij gestelde voorwaarden en beperkingen.
 
 2. Indien aanspraak op vrijstelling van rechten bij invoer bestaat of zou bestaan ter zake van de wederinvoer van een personenauto, een motorrijwiel of een bestelauto, wordt de vrijstelling slechts verleend indien wordt aangetoond dat de belasting vóór de overbrenging naar het buitenland daadwerkelijk is betaald en niet ter zake van de overbrenging naar het buitenland is teruggegeven.
 
 3. Vrijstelling voor een in het buitenland aan een in Nederland wonende natuurlijke persoon of gevestigd lichaam verhuurde personenauto, motorrijwiel of bestelauto wordt slechts verleend indien de personenauto, het motorrijwiel of de bestelauto uiterlijk aan het eind van de dag volgende op die waarop het gebruik van de Nederlandse weg is aangevangen, buiten Nederland wordt gebracht, dan wel wordt ingeleverd bij een Nederlandse vestiging van de verhuurmaatschappij.
 
-4. Indien voor de in het eerste lid bedoelde personenauto’s, motorrijwielen en bestelauto’s vrijstelling van rechten bij invoer wordt gevraagd overeenkomstig de daarvoor geldende bepalingen, dient de desbetreffende aanvraag tevens het verzoek om vrijstelling van belasting te bevatten. In andere gevallen is [artikel 2, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005807&artikel=2&z=2006-10-01&g=2006-10-01), van overeenkomstige toepassing.
+4. Indien voor de in het eerste lid bedoelde personenauto’s, motorrijwielen en bestelauto’s vrijstelling van rechten bij invoer wordt gevraagd overeenkomstig de daarvoor geldende bepalingen, dient de desbetreffende aanvraag tevens het verzoek om vrijstelling van belasting te bevatten. In andere gevallen is [artikel 2, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005807&artikel=2&z=2007-01-01&g=2007-01-01), van overeenkomstige toepassing.
 
 5. In de gevallen waarin vrijstelling van belasting is verleend op de voet van het eerste lid, wordt, indien ingevolge de bepalingen op grond waarvan de vrijstelling van rechten bij invoer is verleend of zou worden verleend de rechten bij invoer verschuldigd is of zou worden, tevens de belasting verschuldigd.
 
@@ -303,5 +303,27 @@ Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in 
 - b. de bestelauto uitsluitend wordt gebruikt voor het in [artikel 15a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=15a) bedoelde vervoer, alsmede voor het persoonlijk gebruik, gebruik door inwonende gezinsleden daaronder begrepen, van de gehandicapte en, ingeval dit een ander is, van degene op wiens naam het kenteken is gesteld.
 
 3. Indien eerder voor een andere bestelauto ten behoeve van de gehandicapte teruggaaf werd verleend op de voet van [artikel 15a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=15a), wordt in het verzoek vermeld vanaf welke datum die andere bestelauto niet langer wordt gebruikt voor het in [artikel 15a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=15a) bedoelde vervoer.
+
+Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
+
+##### Artikel 1a
+
+Bij wijziging van de tenaamstelling van de bestelauto blijft [artikel 13a, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=13a) buiten toepassing indien:
+
+- a. het kenteken van een bestelauto waarvoor ingevolge [artikel 13a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=13a) vrijstelling van belasting is verleend, binnen vijf jaren na het tijdstip waarop de bestelauto is ingeschreven in het register, bedoeld in [artikel 1, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=1), op naam wordt gesteld van een ondernemer die voldoet aan de voorwaarden genoemd in [artikel 13a, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=13a), en
+
+- b. in de administratie van de ondernemer op wiens naam het kenteken daarvoor was gesteld een verklaring is opgenomen waarin deze ondernemer en de in onderdeel a bedoelde ondernemer ten aanzien van de bestelauto verklaren, dat de in onderdeel a bedoelde ondernemer voor de toepassing van [artikel 13a](https://wetten.overheid.nl/jci1.3:c:BWBR0005807&artikel=13a&z=2007-01-01&g=2007-01-01) in de plaats treedt van de ondernemer op wiens naam het kenteken daarvoor was gesteld.
+
+##### Artikel 3a
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 4a
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 4b
+
+Dit onderdeel is nog niet inwerking getreden
 
 Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
