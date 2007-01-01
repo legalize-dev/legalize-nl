@@ -4,7 +4,7 @@ identifier: "BWBR0007778"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-01"
-last_updated: "2005-10-01"
+last_updated: "2007-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007778"
 soort: "ministeriele-regeling"
@@ -45,9 +45,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-1. Het Fondsenreglement geeft, tezamen met deze regeling, uitvoering aan [richtlijn nr. 2001/34/EG](32001L0034).
-
-2. Ten behoeve van de beoordeling, bedoeld in [artikel 27, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&artikel=27) legt de Autoriteit Financiële Markten de wijzigingen van het Fondsenreglement en van het Reglement Bijzondere Noteringsvereisten Nieuwe Markt Amsterdam van Euronext Amsterdam N.V., waarvan zij op grond van [artikel 23 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&artikel=23) kennisneemt, alsmede haar bevindingen daarover, voor aan de Minister van Financiën.
+Het Fondsenreglement van Euronext Amsterdam N.V. geeft, tezamen met deze regeling, uitvoering aan [richtlijn nr. 2001/34/EG](32001L0034).
 
 ##### Artikel 3
 
@@ -67,13 +65,7 @@ De regels die de Autoriteit Financiële Markten krachtens het besluit heeft gest
 
 ##### Artikel 7
 
-1. De Autoriteit Financiële Markten wordt aangewezen als de bevoegde autoriteit, bedoeld in artikel 22, eerste lid, van de richtlijn beleggingsdiensten, met uitzondering van artikel 8, eerste lid, voor zover het kapitaaleisen betreft en artikel 8, tweede lid, van die richtlijn.
-
-2. De Nederlandsche Bank N.V. wordt aangewezen als de bevoegde autoriteit, bedoeld in:
-
-- artikel 9, eerste lid, van de richtlijn kapitaaltoereikendheid;
-
-- de artikelen 8, eerste lid, voor zover het kapitaaleisen betreft, en 8, tweede lid, van de richtlijn beleggingsdiensten.
+Vervallen
 
 ##### Artikel 8
 
@@ -81,6 +73,6 @@ Deze regeling treedt in werking met ingang van 31 december 1995.
 
 ##### Artikel 9
 
-Deze regeling wordt aangehaald als: Regeling aanwijzing bevoegde autoriteiten Wet toezicht effectenverkeer 1995.
+Deze regeling wordt aangehaald als: Regeling aanwijzing bevoegde autoriteiten toezicht effectenverkeer.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
