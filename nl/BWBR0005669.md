@@ -4,7 +4,7 @@ identifier: "BWBR0005669"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2012-11-16"
-last_updated: "2006-10-01"
+last_updated: "2007-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005669"
 soort: "ministeriele-regeling"
@@ -40,7 +40,7 @@ Besluit:
 
 ##### Artikel 1
 
-Het percentage van de heffingsrente, bedoeld in [artikel 30f, vijfde lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=30f), alsmede het percentage van de invorderingsrente, bedoeld in [artikel 29 van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=29), bedraagt voor het vierde kwartaal 2006: 4,25.
+Het percentage van de heffingsrente, bedoeld in [artikel 30f, vijfde lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=30f), alsmede het percentage van de invorderingsrente, bedoeld in [artikel 29 van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=29), bedraagt voor het eerste kwartaal 2007: 4,70.
 
 ##### Artikel 2
 
