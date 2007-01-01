@@ -4,7 +4,7 @@ identifier: "BWBR0002868"
 country: "nl"
 rank: "amvb"
 publication_date: "2017-09-23"
-last_updated: "2002-01-01"
+last_updated: "2007-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002868"
 soort: "AMvB"
@@ -50,7 +50,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-Een fonds als bedoeld in [artikel 1637**s**, tweede lid, onder **c**, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&artikel=1637s) moet een rechtspersoon met volledige rechtsbevoegdheid zijn. Indien het een fonds betreft ter behartiging van algemene belangen van bedrijfsgenoten in een bedrijfstak gezamenlijk, dienen statuten en reglementen te voldoen aan de voorschriften gesteld in [titel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002868&hoofdstuk=I&titeldeel=2&z=2002-01-01&g=2002-01-01). Betreft het een ander fonds, dan moeten de statuten en reglementen voldoen aan de voorschriften gesteld in [titel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002868&hoofdstuk=I&titeldeel=3&z=2002-01-01&g=2002-01-01).
+Een fonds als bedoeld in [artikel 1637**s**, tweede lid, onder **c**, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&artikel=1637s) moet een rechtspersoon met volledige rechtsbevoegdheid zijn. Indien het een fonds betreft ter behartiging van algemene belangen van bedrijfsgenoten in een bedrijfstak gezamenlijk, dienen statuten en reglementen te voldoen aan de voorschriften gesteld in [titel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002868&hoofdstuk=I&titeldeel=2&z=2007-01-01&g=2007-01-01). Betreft het een ander fonds, dan moeten de statuten en reglementen voldoen aan de voorschriften gesteld in [titel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002868&hoofdstuk=I&titeldeel=3&z=2007-01-01&g=2007-01-01).
 
 ## Titel 2. Fondsen ter behartiging van algemene belangen van bedrijfsgenoten in een bedrijfstak gezamenlijk
 
@@ -132,7 +132,7 @@ Het bestuur van het fonds moet ingevolge de statuten voor ten minste de helft be
 
 - c. de vaststelling en de wijze van verrekening van de kosten van het beheer.
 
-3. Uit de statuten van het fonds moet, tenzij krachtens [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002868&hoofdstuk=I&titeldeel=3&artikel=10&z=2002-01-01&g=2002-01-01) ontheffing is verleend, verder blijken, dat het vermogen van het fonds voor niet meer dan twintig ten honderd mag bestaan uit schuldvorderingen op dan wel aandelen in het vermogen van de werkgever of één van de werkgevers bij wie deelnemers in dienst zijn.
+3. Uit de statuten van het fonds moet, tenzij krachtens [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002868&hoofdstuk=I&titeldeel=3&artikel=10&z=2007-01-01&g=2007-01-01) ontheffing is verleend, verder blijken, dat het vermogen van het fonds voor niet meer dan twintig ten honderd mag bestaan uit schuldvorderingen op dan wel aandelen in het vermogen van de werkgever of één van de werkgevers bij wie deelnemers in dienst zijn.
 
 4. Onder schuldvorderingen en aandelen als bedoeld in het vorige lid, worden begrepen schuldvorderingen op een natuurlijke persoon of een rechtspersoon en aandelen in een rechtspersoon, wanneer die natuurlijke persoon of die rechtspersoon rechtstreeks of middellijk de meerderheid bezit van de aandelen in het vermogen van de werkgever of één van de werkgevers bij wie deelnemers in dienst zijn; tevens worden onder schuldvorderingen en aandelen begrepen schuldvorderingen op en aandelen in een rechtspersoon, waarvan de aandelen in meerderheid rechtstreeks of middellijk in het bezit zijn van de werkgever of van één van de werkgevers bij wie deelnemers in dienst zijn.
 
@@ -198,21 +198,21 @@ De statuten moeten bepalen dat de reglementen, alsmede de in de statuten en regl
 
 ##### Artikel 10
 
-Onze Minister van Sociale Zaken en Werkgelegenheid kan op verzoek van een fonds ontheffing verlenen van het in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002868&hoofdstuk=I&titeldeel=3&artikel=3&z=2002-01-01&g=2002-01-01) bepaalde. De ontheffing kan onder beperkingen worden verleend. Aan de ontheffing kunnen voorschriften worden verbonden; zij kan voorts worden gewijzigd en ingetrokken. De ontheffing wordt verleend voor bepaalde of onbepaalde tijd.
+Onze Minister van Sociale Zaken en Werkgelegenheid kan op verzoek van een fonds ontheffing verlenen van het in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002868&hoofdstuk=I&titeldeel=3&artikel=3&z=2007-01-01&g=2007-01-01) bepaalde. De ontheffing kan onder beperkingen worden verleend. Aan de ontheffing kunnen voorschriften worden verbonden; zij kan voorts worden gewijzigd en ingetrokken. De ontheffing wordt verleend voor bepaalde of onbepaalde tijd.
 
 ### Hoofdstuk II. Regelingen tot sparen anders dan door fondsvorming
 
 ##### Artikel 11
 
-Een regeling tot sparen als bedoeld in [artikel 1637**s**, tweede lid, onder **d**, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&artikel=1637s) moet schriftelijk worden vastgesteld en mede voldoen aan de voorschriften, gesteld in de [artikelen 12-14](https://wetten.overheid.nl/jci1.3:c:BWBR0002868&hoofdstuk=II&artikel=12&z=2002-01-01&g=2002-01-01).
+Een regeling tot sparen als bedoeld in [artikel 1637**s**, tweede lid, onder **d**, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&artikel=1637s) moet schriftelijk worden vastgesteld en mede voldoen aan de voorschriften, gesteld in de [artikelen 12-14](https://wetten.overheid.nl/jci1.3:c:BWBR0002868&hoofdstuk=II&artikel=12&z=2007-01-01&g=2007-01-01).
 
 ##### Artikel 12
 
 1. Ingevolge de regeling moet het sparen geschieden bij een in de regeling aangewezen instelling, die de spaartegoeden beheert en voor iedere deelnemer afzonderlijk administreert op een op naam van de deelnemer gestelde rekening.
 
-2. Als instelling, bedoeld in het eerste lid, kunnen worden aangewezen gemeentelijke spaarbanken, dan wel ondernemingen en instellingen welke ingevolge [artikel 13 van de Wet toezicht kredietwezen](https://wetten.overheid.nl/jci1.3:c:BWBR0005792&artikel=13) zijn geregistreerd, niet zijnde effecten-kredietinstellingen.
+2. Als instelling, bedoeld in het eerste lid, kunnen worden aangewezen gemeentelijke spaarbanken, dan wel ondernemingen en instellingen welke ingevolge [artikel 1:93 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:93) zijn geregistreerd, niet zijnde beleggingsondernemingen of kredientinstellingen in de zin van [die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368).
 
-3. De regeling mag, tenzij krachtens [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002868&hoofdstuk=II&artikel=15&z=2002-01-01&g=2002-01-01) ontheffing is verleend, geen bepalingen inhouden welke de deelnemers verplichten de te hunnen name geadministreerde tegoeden hetzij tijdens, hetzij na afloop van de spaartermijn op een bepaalde wijze te besteden. Toegelaten is de bepaling, dat tegoeden moeten worden omgezet in schuldvorderingen op of aandelen in het vermogen van de werkgever of één van de werkgevers bij wie deelnemers in dienst zijn, waarbij echter het totaal van de schuldvorderingen en aandelen ten name van iedere deelnemer niet meer mag bedragen dan twintig ten honderd van het tegoed.
+3. De regeling mag, tenzij krachtens [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002868&hoofdstuk=II&artikel=15&z=2007-01-01&g=2007-01-01) ontheffing is verleend, geen bepalingen inhouden welke de deelnemers verplichten de te hunnen name geadministreerde tegoeden hetzij tijdens, hetzij na afloop van de spaartermijn op een bepaalde wijze te besteden. Toegelaten is de bepaling, dat tegoeden moeten worden omgezet in schuldvorderingen op of aandelen in het vermogen van de werkgever of één van de werkgevers bij wie deelnemers in dienst zijn, waarbij echter het totaal van de schuldvorderingen en aandelen ten name van iedere deelnemer niet meer mag bedragen dan twintig ten honderd van het tegoed.
 
 4. Onder schuldvorderingen en aandelen als bedoeld in het derde lid worden begrepen schuldvorderingen op een natuurlijke persoon of een rechtspersoon en aandelen in een rechtspersoon, wanneer die natuurlijke persoon of die rechtspersoon rechtstreeks of middellijk de meerderheid bezit van de aandelen in het vermogen van de werkgever of één van de werkgevers bij wie deelnemers in dienst zijn; tevens worden onder schuldvorderingen en aandelen begrepen schuldvorderingen op en aandelen in een rechtspersoon, waarvan de aandelen in meerderheid rechtstreeks of middellijk in het bezit zijn van de werkgever of van een van de werkgevers bij wie deelnemers in dienst zijn.
 
@@ -234,7 +234,7 @@ Een regeling tot sparen als bedoeld in [artikel 1637**s**, tweede lid, onder **d
 
 - 3e. hij de leeftijd van 60 jaar heeft bereikt;
 
-- 4e. de werkgever bij wie de deelnemer in dienst was zijn onderneming heeft gestaakt en deze werkgever tevens degene is die krachtens een ontheffing als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002868&hoofdstuk=II&artikel=15&z=2002-01-01&g=2002-01-01) het tegoed beheert;
+- 4e. de werkgever bij wie de deelnemer in dienst was zijn onderneming heeft gestaakt en deze werkgever tevens degene is die krachtens een ontheffing als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002868&hoofdstuk=II&artikel=15&z=2007-01-01&g=2007-01-01) het tegoed beheert;
 
 - b. door zijn rechtverkrijgenden na het overlijden van de deelnemer.
 
@@ -248,13 +248,13 @@ Een regeling tot sparen als bedoeld in [artikel 1637**s**, tweede lid, onder **d
 
 ##### Artikel 15
 
-Onze Minister van Sociale Zaken en Werkgelegenheid kan op verzoek van de betrokken werkgever of werkgevers ontheffing verlenen van het in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0002868&hoofdstuk=II&artikel=12&z=2002-01-01&g=2002-01-01) bepaalde. De ontheffing kan onder beperkingen worden verleend. Aan de ontheffing kunnen voorschriften worden verbonden; zij kan voorts worden gewijzigd en ingetrokken. De ontheffing wordt verleend voor bepaalde of onbepaalde tijd.
+Onze Minister van Sociale Zaken en Werkgelegenheid kan op verzoek van de betrokken werkgever of werkgevers ontheffing verlenen van het in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0002868&hoofdstuk=II&artikel=12&z=2007-01-01&g=2007-01-01) bepaalde. De ontheffing kan onder beperkingen worden verleend. Aan de ontheffing kunnen voorschriften worden verbonden; zij kan voorts worden gewijzigd en ingetrokken. De ontheffing wordt verleend voor bepaalde of onbepaalde tijd.
 
 ### Hoofdstuk III. Overgangs- en slotbepalingen
 
 ##### Artikel 16
 
-Een bij de inwerkingtreding van dit besluit bestaand fonds als bedoeld in [artikel 1637**s**, tweede lid, onder **c**, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&artikel=1637s), dat voldoet aan de voorwaarden gesteld bij het Koninklijk besluit van 31 maart 1908, **Stb.** 94, doch niet aan [hoofdstuk I](https://wetten.overheid.nl/jci1.3:c:BWBR0002868&hoofdstuk=I&z=2002-01-01&g=2002-01-01) van dit besluit, wordt niettemin tot 1 januari 1974 geacht aan dit hoofdstuk te voldoen.
+Een bij de inwerkingtreding van dit besluit bestaand fonds als bedoeld in [artikel 1637**s**, tweede lid, onder **c**, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&artikel=1637s), dat voldoet aan de voorwaarden gesteld bij het Koninklijk besluit van 31 maart 1908, **Stb.** 94, doch niet aan [hoofdstuk I](https://wetten.overheid.nl/jci1.3:c:BWBR0002868&hoofdstuk=I&z=2007-01-01&g=2007-01-01) van dit besluit, wordt niettemin tot 1 januari 1974 geacht aan dit hoofdstuk te voldoen.
 
 ##### Artikel 17
 
