@@ -4,7 +4,7 @@ identifier: "BWBR0008328"
 country: "nl"
 rank: "wet"
 publication_date: "2007-01-01"
-last_updated: "2001-01-17"
+last_updated: "2007-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008328"
 soort: "wet"
@@ -44,6 +44,8 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is de regelgeving met b
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
+Werkt terug tot en met 1 januari 1996.
+
 ##### Artikel 1
 
 In deze wet wordt verstaan onder:
@@ -52,7 +54,7 @@ In deze wet wordt verstaan onder:
 
 - b. personeel van de Koninklijke Hofhouding: zij die door de Koning in dienst zijn genomen om bij de Koninklijke Hofhouding werkzaam te zijn, alsmede de Administrateur van het Kroondomein en het personeel, bedoeld in [artikel 5, derde lid, van de Wet financieel statuut van het Koninklijk Huis](https://wetten.overheid.nl/jci1.3:c:BWBR0002845&artikel=5);
 
-- c. PSW: de [Pensioen- en spaarfondsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002089);
+- c. vervallen;
 
 - d. Stichting: de Stichting tot verzorging van de pensioenen van het personeel van de Koninklijke Hofhouding van het Huis van Oranje-Nassau, opgericht te 's-Gravenhage bij notariële akte van 24 maart 1960;
 
@@ -66,23 +68,19 @@ In deze wet wordt verstaan onder:
 
 ##### Artikel 3
 
-1. Voor de toepassing van de PSW wordt:
+1. Voor de toepassing van de [Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809):
 
-- a. de Stichting niet beschouwd als ondernemingspensioenfonds;
+- a. wordt de Stichting niet beschouwd als een ondernemingspensioenfonds;
 
-- b. in afwijking van artikel 1, eerste lid, onderdeel **e**, van die wet, de Stichting beschouwd als werkgever;
+- b. wordt de Stichting beschouwd als werkgever;
 
-- c. de persoon voor wie de Stichting ouderdoms-, invaliditeits-, of nabestaandenpensioen verzorgt, beschouwd als een in dienst van de Stichting staande werknemer aan wie door die Stichting een toezegging omtrent pensioen is gedaan.
+- c. worden de deelnemers aan de pensioenregeling voor het personeel van de Koninklijke Hofhouding beschouwd als werknemer.
 
-2. De uitvoering van de door de Stichting gedane toezegging omtrent pensioen wordt door middel van een overeenkomst tussen de Stichting en de Stichting Pensioenfonds ABP bij laatstgenoemde stichting neergelegd, tenzij Onze Ministers van Binnenlandse Zaken en van Financiën op verzoek van de Stichting anders besluiten.
-
-3. Binnen drie maanden na het sluiten dan wel wijzigen van de overeenkomst, bedoeld in het tweede lid, zendt het bestuur van de Stichting Pensioenfonds ABP een door dat bestuur gewaarmerkt afschrift van deze stukken, respectievelijk van de wijzigingen daarin, aan de Pensioen- & Verzekeringskamer.
-
-4. De artikelen 4, vijfde lid, en 7, eerste lid, van de PSW zijn van overeenkomstige toepassing op de overeenkomst, bedoeld in het tweede lid, voor zover in die overeenkomst het pensioenreglement van de Stichting Pensioenfonds ABP of de voor de toepassing van deze artikelleden relevante delen daarvan niet van overeenkomstige toepassing zijn verklaard.
+2. De uitvoeringsovereenkomst, bedoeld in de [Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809), wordt door middel van een overeenkomst tussen de Stichting en de Stichting Pensioenfonds ABP bij laatstgenoemde stichting neergelegd, tenzij Onze Ministers van Binnenlandse Zaken en van Financiën op verzoek van de Stichting anders besluiten.
 
 ##### Artikel 4
 
-De bezittingen van de Stichting Pensioenfonds ABP zijn, tezamen met de te verwachten inkomsten, blijkens de in artikel 10, derde lid, van de PSW, bedoelde wetenschappelijke balans toereikend ter dekking van haar uit de statuten en reglementen alsmede uit de overeenkomst met de Stichting voortvloeiende pensioenverplichtingen.
+Vervallen
 
 ##### Artikel 5
 
@@ -94,7 +92,7 @@ Wijzigt de Wet financiële voorzieningen privatisering ABP.
 
 ##### Artikel 7
 
-De op 19 augustus 1960 tussen de Stichting en het Algemeen burgerlijk pensioenfonds gesloten overeenkomst, welke overeenkomst laatstelijk op 21 februari 1992 is gewijzigd en op 1 januari 1996 ingevolge [artikel 24 van de Wet Privatisering ABP](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&artikel=24) onder algemene titel is overgegaan op de Stichting Pensioenfonds ABP, wordt aangemerkt als een overeenkomst als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008328&artikel=3&z=2001-01-17&g=2001-01-17).
+De op 19 augustus 1960 tussen de Stichting en het Algemeen burgerlijk pensioenfonds gesloten overeenkomst, welke overeenkomst laatstelijk op 21 februari 1992 is gewijzigd en op 1 januari 1996 ingevolge [artikel 24 van de Wet Privatisering ABP](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&artikel=24) onder algemene titel is overgegaan op de Stichting Pensioenfonds ABP, wordt aangemerkt als een overeenkomst als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008328&artikel=3&z=2007-01-01&g=2007-01-01).
 
 ##### Artikel 8
 
