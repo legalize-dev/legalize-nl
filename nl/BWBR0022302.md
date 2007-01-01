@@ -59,9 +59,3 @@ De [regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid en de 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin deze regeling wordt geplaatst en werkt terug tot en met 1 januari 2007.
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 5
-
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin deze regeling wordt geplaatst en werkt terug tot en met 1 januari 2007.
-
-Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
