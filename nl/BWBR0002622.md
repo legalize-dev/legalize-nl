@@ -4,7 +4,7 @@ identifier: "BWBR0002622"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2016-01-01"
-last_updated: "2005-12-29"
+last_updated: "2007-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002622"
 soort: "ministeriele-regeling"
@@ -52,9 +52,9 @@ Besluit:
 
 1. Voor de toepassing van de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888), de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) en de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) wordt als werknemer beschouwd degene, die wegens werkloosheid niet werkt, doch aan wie geen uitkering wordt verleend:
 
-- a. op grond van het bepaalde in [artikel 19, eerste lid, onderdelen k en l, en derde lid van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=19) (Stb. 1986, 566);
+- a. op grond van het bepaalde in [artikel 19, eerste lid, onderdelen j en k, en derde lid van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=19) (Stb. 1986, 566);
 
-- b. op grond van het bepaalde in de [artikelen 19, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=19), [24, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=24), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=25), [26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=26), en [27 van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=27), mits de periode, waarover op grond van laatstbedoelde bepalingen geen uitkeringen wordt verleend, voorafgaand aan, dan wel een onderbreking vormt van een periode, waarover wel uitkering wordt verleend;
+- b. op grond van het bepaalde in de [artikelen 19, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=19), [24, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=24), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=25), [26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=26), en [27 van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=27), mits de periode, waarover op grond van laatstbedoelde bepalingen geen uitkeringen wordt verleend, voorafgaand aan, dan wel een onderbreking vormt van een periode, waarover wel uitkering wordt verleend;
 
 - c. over de zaterdagen en zondagen.
 
