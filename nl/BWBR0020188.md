@@ -4,7 +4,7 @@ identifier: "BWBR0020188"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2017-01-01"
-last_updated: "2006-08-23"
+last_updated: "2007-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020188"
 soort: "ministeriele-regeling"
@@ -42,7 +42,7 @@ Besluit:
 
 ##### Artikel 1. Periode eigenrisicodragen
 
-Dit onderdeel is nog niet inwerking getreden
+Ten aanzien van uitkeringen waarvan het recht is ontstaan op of na 1 januari 2007 bedraagt de periode, bedoeld in [artikel 82, eerste lid, onderdeel b, van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=82): tien jaar.
 
 ##### Artikel 2. Termijn voor overlegging van schriftelijke garantie
 
@@ -50,7 +50,7 @@ De termijn, bedoeld in [artikel 40, dertiende lid, van de Wet financiering socia
 
 ##### Artikel 3. Inwerkingtreding
 
-[Artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0020188&artikel=1&z=2006-08-23&g=2006-08-23) van deze regeling treedt in werking met ingang van 1 januari 2007 en [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0020188&artikel=2&z=2006-08-23&g=2006-08-23) van deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
+[Artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0020188&artikel=1&z=2007-01-01&g=2007-01-01) van deze regeling treedt in werking met ingang van 1 januari 2007 en [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0020188&artikel=2&z=2007-01-01&g=2007-01-01) van deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
 ##### Artikel 4. Citeertitel
 
