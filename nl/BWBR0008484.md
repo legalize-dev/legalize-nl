@@ -4,7 +4,7 @@ identifier: "BWBR0008484"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2007-01-01"
-last_updated: "2006-10-01"
+last_updated: "2007-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008484"
 soort: "ministeriele-regeling"
@@ -47,11 +47,11 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3
 
-1. Voor de toepassing van de [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) en de [Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) wordt als werknemer beschouwd de persoon, die wegens werkloosheid niet werkt, doch aan wie geen wachtgeld als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008484&artikel=2&z=2006-10-01&g=2006-10-01) wordt verleend:
+1. Voor de toepassing van de [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) en de [Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) wordt als werknemer beschouwd de persoon, die wegens werkloosheid niet werkt, doch aan wie geen wachtgeld als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008484&artikel=2&z=2007-01-01&g=2007-01-01) wordt verleend:
 
-- a. op grond van een bepaling overeenkomstig [artikel 19, eerste lid, onderdelen k en l, en derde lid van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=19);
+- a. op grond van een bepaling overeenkomstig [artikel 19, eerste lid, onderdelen j en k, en derde lid van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=19);
 
-- b. op grond van een bepaling overeenkomstig de [artikelen 19, eerste lid, onderdelen f en h](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=19), [24, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=24), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=25), en [26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=26), en [27 van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=27) en de daarop berustende bepalingen;
+- b. op grond van een bepaling overeenkomstig de [artikelen 19, eerste lid, onderdelen e en g](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=19), [24, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=24), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=25), en [26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=26), en [27 van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=27) en de daarop berustende bepalingen;
 
 - c. over de zaterdagen en zondagen.
 
@@ -59,7 +59,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 4
 
-Als werkgever van de in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008484&artikel=2&z=2006-10-01&g=2006-10-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0008484&artikel=3&z=2006-10-01&g=2006-10-01) bedoelde werknemer wordt beschouwd de instantie die de daar bedoelde bezoldiging of uitkering betaalt of zou betalen.
+Als werkgever van de in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008484&artikel=2&z=2007-01-01&g=2007-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0008484&artikel=3&z=2007-01-01&g=2007-01-01) bedoelde werknemer wordt beschouwd de instantie die de daar bedoelde bezoldiging of uitkering betaalt of zou betalen.
 
 ##### Artikel 5
 
@@ -81,4 +81,4 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 7
 
-[Artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008484&artikel=2&z=2006-10-01&g=2006-10-01), zoals dat luidde op de dag voor inwerkingtreding van artikel IX onderdeel A, van de regeling van 4 september tot wijziging van enige ministeriële regelingen in verband met de inwerkingtreding van de Wet wijziging WW-stelsel (Stcrt. 182) blijft van toepassing met betrekking tot een recht op uitkering waarvan de eerste werkloosheidsdag is gelegen voor de dag van inwerkingtreding van dat onderdeel.
+[Artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008484&artikel=2&z=2007-01-01&g=2007-01-01), zoals dat luidde op de dag voor inwerkingtreding van artikel IX onderdeel A, van de regeling van 4 september tot wijziging van enige ministeriële regelingen in verband met de inwerkingtreding van de Wet wijziging WW-stelsel (Stcrt. 182) blijft van toepassing met betrekking tot een recht op uitkering waarvan de eerste werkloosheidsdag is gelegen voor de dag van inwerkingtreding van dat onderdeel.
