@@ -4,7 +4,7 @@ identifier: "BWBV0001417"
 country: "nl"
 rank: "verdrag"
 publication_date: "2019-04-01"
-last_updated: "2006-06-15"
+last_updated: "2007-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0001417"
 soort: "verdrag"
@@ -2082,7 +2082,7 @@ Voor de toepassing van dit protocol wordt verstaan onder:
 
 ##### Artikel 3. Cumulatie in de Gemeenschap
 
-1. Onverminderd artikel 2, lid 1, worden producten als van oorsprong uit de Gemeenschap beschouwd indien zij daar zijn verkregen door be- of verwerking van materialen van oorsprong uit Bulgarije, Zwitserland (met inbegrip van Liechtenstein) (1), IJsland, Noorwegen, Roemenië, Turkije of de Gemeenschap, op voorwaarde dat deze materialen in de Gemeenschap be- of verwerkingen hebben ondergaan die meer inhouden dan die welke in artikel 7 zijn genoemd. Het is niet noodzakelijk dat deze materialen toereikende be- of verwerkingen hebben ondergaan.
+1. Onverminderd artikel 2, lid 1, worden producten als van oorsprong uit de Gemeenschap beschouwd indien zij daar zijn verkregen door be- of verwerking van materialen van oorsprong uit Zwitserland (met inbegrip van Liechtenstein) (1), IJsland, Noorwegen, Turkije of de Gemeenschap, op voorwaarde dat deze materialen in de Gemeenschap be- of verwerkingen hebben ondergaan die meer inhouden dan die welke in artikel 7 zijn genoemd. Het is niet noodzakelijk dat deze materialen toereikende be- of verwerkingen hebben ondergaan.
 
 2. Onverminderd artikel 2, lid 1, worden producten als van oorsprong uit de Gemeenschap beschouwd indien zij daar zijn verkregen door be- of verwerking van materialen van oorsprong uit de Faeröer of een land dat deelneemt aan het Euromediterrane partnerschap, dat is gebaseerd op de verklaring van Barcelona die werd vastgesteld tijdens de Euro-mediterrane Conferentie van 27 en 28 november 1995, met uitzondering van Turkije, op voorwaarde dat deze materialen in de Gemeenschap be- of verwerkingen hebben ondergaan die meer inhouden dan die welke in artikel 7 zijn genoemd. Het is niet noodzakelijk dat deze materialen toereikende be- of verwerkingen hebben ondergaan.
 
@@ -2096,11 +2096,13 @@ Voor de toepassing van dit protocol wordt verstaan onder:
 
 - b. materialen en producten de oorsprong hebben verkregen door toepassing van oorsprongsregels die gelijk zijn aan die van dit protocol; en
 
-- c. kennisgevingen zijn gepubliceerd waaruit blijkt dat is voldaan aan de vereisten voor de toepassing van cumulatie in de C-reeks van het**Publicatieblad van de Europese Unie** en in Jordanië volgens zijn eigen procedures. De cumulatie waarin dit artikel voorziet, is van toepassing met ingang van de datum die is aangegeven in de kennisgeving in de C-reeks van het**Publicatieblad van de Europese Unie**. De Gemeenschap zal Jordanië door tussenkomst van de Commissie van de Europese Gemeenschappen nadere gegevens verstrekken over de overeenkomsten, met inbegrip van de datums van inwerkingtreding, en de daarin opgenomen oorsprongsregels, die met de andere in de leden 1 en 2 genoemde landen worden toegepast.
+- c. kennisgevingen zijn gepubliceerd waaruit blijkt dat is voldaan aan de vereisten voor de toepassing van cumulatie in de C-reeks van het **Publicatieblad van de Europese Unie** en in Jordanië volgens zijn eigen procedures.
+
+De cumulatie waarin dit artikel voorziet, is van toepassing met ingang van de datum die is aangegeven in de kennisgeving in de C-reeks van het **Publicatieblad van de Europese Unie**. De Gemeenschap zal Jordanië door tussenkomst van de Commissie van de Europese Gemeenschappen nadere gegevens verstrekken over de overeenkomsten, met inbegrip van de datums van inwerkingtreding, en de daarin opgenomen oorsprongsregels, die met de andere in de leden 1 en 2 genoemde landen worden toegepast.
 
 ##### Artikel 4. Cumulatie in Jordanië
 
-1. Onverminderd artikel 2, lid 2, worden producten als van oorsprong uit Jordanië beschouwd indien zij daar zijn verkregen door be- of verwerking van materialen van oorsprong uit Bulgarije, Zwitserland (met inbegrip van Liechtenstein), IJsland, Noorwegen, Roemenië, Turkije of de Gemeenschap, op voorwaarde dat deze materialen in Jordanië be- of verwerkingen hebben ondergaan die meer inhouden dan die welke in artikel 7 zijn genoemd. Het is niet noodzakelijk dat deze materialen toereikende be- of verwerkingen hebben ondergaan.1)Het Vorstendom Liechtenstein heeft een douane-unie met Zwitserland en is partij bij de Overeenkomst betreffende de Europese Economische Ruimte., IJsland, Noorwegen, Roemenië, Turkije of de Gemeenschap, op voorwaarde dat deze materialen in Jordanië be- of verwerkingen hebben ondergaan die meer inhouden dan die welke in artikel 7 zijn genoemd. Het is niet noodzakelijk dat deze materialen toereikende be- of verwerkingen hebben ondergaan.
+1. Onverminderd artikel 2, lid 2, worden producten als van oorsprong uit Jordanië beschouwd indien zij daar zijn verkregen door be- of verwerking van materialen van oorsprong uit Zwitserland (met inbegrip van Liechtenstein)1)Het Vorstendom Liechtenstein heeft een douane-unie met Zwitserland en is partij bij de Overeenkomst betreffende de Europese Economische Ruimte., IJsland, Noorwegen, Roemenië, Turkije of de Gemeenschap, op voorwaarde dat deze materialen in Jordanië be- of verwerkingen hebben ondergaan die meer inhouden dan die welke in artikel 7 zijn genoemd. Het is niet noodzakelijk dat deze materialen toereikende be- of verwerkingen hebben ondergaan.
 
 2. Onverminderd artikel 2, lid 2, worden producten als van oorsprong uit Jordanië beschouwd indien zij daar zijn verkregen door be- of verwerking van materialen van oorsprong uit de Faeröer of een land dat deelneemt aan het Euro-mediterrane partnerschap, dat gebaseerd is op de verklaring van Barcelona die werd vastgesteld tijdens de Euro-mediterrane Conferentie van 27 en 28 november 1995, met uitzondering van Turkije, op voorwaarde dat deze materialen in Jordanië be- of verwerkingen hebben ondergaan die meer inhouden dan die welke in artikel 7 zijn genoemd. Het is niet noodzakelijk dat deze materialen toereikende be- of verwerkingen hebben ondergaan.
 
@@ -2114,7 +2116,11 @@ Voor de toepassing van dit protocol wordt verstaan onder:
 
 - b. materialen en producten de oorsprong hebben verkregen door toepassing van oorsprongsregels die gelijk zijn aan die van dit protocol; en
 
-- c. kennisgevingen zijn gepubliceerd waaruit blijkt dat is voldaan aan de vereisten voor de toepassing van cumulatie in de C-reeks van het**Publicatieblad van de Europese Unie**en in Jordanië volgens zijn eigen procedures. De cumulatie waarin dit artikel voorziet, is van toepassing met ingang van de datum die is aangegeven in de kennisgeving in de C-reeks van het**Publicatieblad van de Europese Unie**. Jordanië zal de Gemeenschap door tussenkomst van de Commissie van de Europese Gemeenschappen nadere gegevens verstrekken over de overeenkomsten, met inbegrip van de datums van inwerkingtreding, en de daarin opgenomen oorsprongsregels, die met de andere in de leden 1 en 2 genoemde landen worden toegepast.
+- c. kennisgevingen zijn gepubliceerd waaruit blijkt dat is voldaan aan de vereisten voor de toepassing van cumulatie in de C-reeks van het **Publicatieblad van de Europese Unie**en in Jordanië volgens zijn eigen procedures.
+
+De cumulatie waarin dit artikel voorziet, is van toepassing met ingang van de datum die is aangegeven in de kennisgeving in de C-reeks van het **Publicatieblad van de Europese Unie**.
+
+Jordanië zal de Gemeenschap door tussenkomst van de Commissie van de Europese Gemeenschappen nadere gegevens verstrekken over de overeenkomsten, met inbegrip van de datums van inwerkingtreding, en de daarin opgenomen oorsprongsregels, die met de andere in de leden 1 en 2 genoemde landen worden toegepast.
 
 ##### Artikel 5. Geheel en al verkregen producten
 
