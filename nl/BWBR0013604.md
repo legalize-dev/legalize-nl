@@ -4,7 +4,7 @@ identifier: "BWBR0013604"
 country: "nl"
 rank: "rijks_kb"
 publication_date: "2022-05-26"
-last_updated: "2006-05-01"
+last_updated: "2007-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013604"
 soort: "rijksKB"
@@ -56,7 +56,7 @@ In dit besluit wordt verstaan onder:
 
 - b. verzoeker: vreemdeling die op grond van de [Rijkswet op het Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003738) verzoekt om verlening van het Nederlanderschap;
 
-- c. de naturalisatietoets: de toets, genoemd in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013604&artikel=2&z=2006-05-01&g=2006-05-01).
+- c. de naturalisatietoets: de toets, genoemd in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013604&artikel=2&z=2007-01-01&g=2007-01-01).
 
 ##### Artikel 2
 
@@ -90,9 +90,13 @@ In dit besluit wordt verstaan onder:
 
 - e. met toepassing van [artikel 5, tweede lid, van de Wet inburgering nieuwkomers](https://wetten.overheid.nl/jci1.3:c:BWBR0009544&artikel=5) ten aanzien van hem is besloten het vaststellen van een inburgeringsprogramma achterwege te laten, omdat tijdens het inburgeringsonderzoek aannemelijk is geworden dat hij de kennis, het inzicht en de vaardigheden die hij door het deelnemen aan een inburgeringsprogramma zou kunnen verwerven, reeds in voldoende mate op een andere wijze heeft verworven;
 
-- f. hij een toets als bedoeld in [artikel 5, vierde lid, van de Wet inburgering nieuwkomers](https://wetten.overheid.nl/jci1.3:c:BWBR0009544&artikel=5) met goed gevolg heeft afgelegd, als gevolg waarvan hij beschikt over een besluit, inhoudende dat de vaststelling van een inburgeringsprogramma achterwege wordt gelaten; of
+- f. hij een toets als bedoeld in [artikel 5, vierde lid, van de Wet inburgering nieuwkomers](https://wetten.overheid.nl/jci1.3:c:BWBR0009544&artikel=5) met goed gevolg heeft afgelegd, als gevolg waarvan hij beschikt over een besluit, inhoudende dat de vaststelling van een inburgeringsprogramma achterwege wordt gelaten;
 
-- g. hij met toepassing van [artikel 3, derde lid, onder a, van de Wet inburgering nieuwkomers](https://wetten.overheid.nl/jci1.3:c:BWBR0009544&artikel=3) wegens psychische of lichamelijke redenen voor onbepaalde duur is ontheven van de verplichting een inburgeringsprogramma te volgen.
+- g. hij met toepassing van [artikel 3, derde lid, onder a, van de Wet inburgering nieuwkomers](https://wetten.overheid.nl/jci1.3:c:BWBR0009544&artikel=3) wegens psychische of lichamelijke redenen voor onbepaalde duur is ontheven van de verplichting een inburgeringsprogramma te volgen;
+
+- h. hij in het bezit is van het inburgeringsdiploma, bedoeld in [artikel 14, tweede lid, van de Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=14) met daarop de vermelding dat de vaardigheden in de Nederlandse taal op het niveau A2 van het Europees Raamwerk voor Moderne Vreemde Talen zijn verworven, of
+
+- i. hij in het bezit is van het document, bedoeld in [artikel 2.7, tweede lid, van het Besluit inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020674&artikel=2.7).
 
 2. Bij een certificaat als bedoeld in het eerste lid, onder d, legt de verzoeker de verklaring over van het Regionaal Opleidingencentrum op grond waarvan het certificaat is afgegeven.
 
@@ -102,7 +106,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 4
 
-De verzoeker die kan aantonen door een belemmering niet in staat te zijn een of meer van de toetsonderdelen, genoemd in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013604&artikel=2&z=2006-05-01&g=2006-05-01), en het toetsonderdeel staatsinrichting en maatschappij af te leggen, is ontheven van de verplichting om het desbetreffende toetsonderdeel af te leggen.
+De verzoeker die kan aantonen door een belemmering niet in staat te zijn een of meer van de toetsonderdelen, genoemd in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013604&artikel=2&z=2007-01-01&g=2007-01-01), en het toetsonderdeel staatsinrichting en maatschappij af te leggen, is ontheven van de verplichting om het desbetreffende toetsonderdeel af te leggen.
 
 ##### Artikel 5
 
