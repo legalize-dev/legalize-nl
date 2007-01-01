@@ -4,7 +4,7 @@ identifier: "BWBR0006641"
 country: "nl"
 rank: "wet"
 publication_date: "2021-07-10"
-last_updated: "2006-01-01"
+last_updated: "2007-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006641"
 soort: "wet"
@@ -51,7 +51,7 @@ entry_into_force: "2006-12-07"
 
 - e. werkgever: de werkgever van de tot verevening verplichte echtgenoot;
 
-- f. nabestaandenpensioen: weduwen- en weduwnaarspensioen dan wel pensioen ten behoeve van de achtergebleven geregistreerde partner, waaronder begrepen bijzonder weduwen- en weduwnaarspensioen onderscheidenlijk bijzonder pensioen ten behoeve van de achtergebleven geregistreerde partner.
+- f. partnerpensioen: weduwen- en weduwnaarspensioen dan wel pensioen ten behoeve van de achtergebleven geregistreerde partner, waaronder begrepen bijzonder weduwen- en weduwnaarspensioen onderscheidenlijk bijzonder pensioen ten behoeve van de achtergebleven geregistreerde partner.
 
 2. Voor de toepassing van het bij of krachtens deze wet bepaalde wordt mede verstaan onder
 
@@ -59,7 +59,7 @@ entry_into_force: "2006-12-07"
 
 - b. aanspraak op pensioen: uitzicht op pensioen;
 
-- c. pensioen: een herberekend invaliditeitspensioen of een uit hoofde van ziekte of gebreken ingevolge de in het vierde lid, onder **d**, genoemde wetten toegekend pensioen dat naar diensttijd is berekend, een en ander met ingang van de eerste dag van de maand waarin de leeftijd van 65 jaar is bereikt;
+- c. pensioen: een herberekend arbeidsongeschiktheidspensioen of een uit hoofde van ziekte of gebreken ingevolge de in het vierde lid, onder **d**, genoemde wetten toegekend pensioen dat naar diensttijd is berekend, een en ander met ingang van de eerste dag van de maand waarin de leeftijd van 65 jaar is bereikt;
 
 - d. huwelijkse voorwaarden: voorwaarden van een geregistreerd partnerschap;
 
@@ -73,7 +73,7 @@ entry_into_force: "2006-12-07"
 
 4. Deze wet is van toepassing op pensioen ingevolge:
 
-- a. een pensioenregeling op grond van een pensioentoezegging in de zin van [artikel 2, eerste lid, van de Pensioen- en spaarfondsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002089&artikel=2) (**Stb.** 1981, 18);
+- a. een pensioenregeling op grond van een pensioenovereenkomst als bedoeld in [artikel 1 van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=1); alsmede een pensioenovereenkomst die is gesloten met een directeur-grootaandeelhouder als bedoeld in [artikel 1 van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=1);
 
 - b. een pensioenregeling die van toepassing is op degenen, voor wie met toepassing van:
 
@@ -91,7 +91,7 @@ entry_into_force: "2006-12-07"
 
 - h. een beroepspensioenregeling als bedoeld in [artikel 1, onderdeel e, van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=1);
 
-- i. een pensioenregeling op grond van een pensioentoezegging van een natuurlijk persoon aan degene, die met hem een overeenkomst heeft tot het verrichten van huiselijke of andere persoonlijke diensten;
+- i. een pensioenregeling op grond van een pensioenovereenkomst van een natuurlijk persoon aan degene, die met hem een overeenkomst heeft tot het verrichten van huiselijke of andere persoonlijke diensten;
 
 - j. de pensioenregeling welke van toepassing is op werknemers in de sociale werkvoorziening.
 
@@ -125,7 +125,7 @@ entry_into_force: "2006-12-07"
 
 ##### Artikel 3
 
-1. Het deel bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006641&artikel=2&z=2006-01-01&g=2006-01-01), bedraagt de helft van het pensioen dat zou moeten worden uitbetaald indien:
+1. Het deel bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006641&artikel=2&z=2007-01-01&g=2007-01-01), bedraagt de helft van het pensioen dat zou moeten worden uitbetaald indien:
 
 - a. de tot verevening verplichte echtgenoot uitsluitend gedurende de deelnemingsjaren tussen de huwelijkssluiting en het tijdstip van scheiding zou hebben deelgenomen;
 
@@ -135,21 +135,21 @@ entry_into_force: "2006-12-07"
 
 2. Indien het pensioen na ingang daarvan wordt verhoogd of verlaagd, word het bedrag dat voortvloeit uit het eerste lid verhoogd of verlaagd met een evenredig deel van de verhoging of verlaging van het pensioen.
 
-3. Een pensioen wordt niet verevend, indien op het tijdstip van scheiding het deel van dat pensioen, waarop recht op uitbetaling ontstaat, het in [Artikel 32, vijfde lid, van de Pensioen- en spaarfondsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002089&artikel=32) genoemde bedrag niet te boven gaat.
+3. Een pensioen wordt niet verevend, indien op het tijdstip van scheiding het deel van dat pensioen, waarop recht op uitbetaling ontstaat, het in [artikel 66, eerste lid, van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=66) genoemde bedrag niet te boven gaat.
 
 ##### Artikel 4
 
-1. Bij huwelijkse voorwaarden of bij een bij geschrift gesloten overeenkomst met het oog op de scheiding kunnen de echtgenoten in afwijking van artikel 3, aanhef en onderdeel **a** van het eerste lid, overeenkomen het deel bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006641&artikel=2&z=2006-01-01&g=2006-01-01), te bepalen op een door hen te kiezen vast percentage dan wel de in [artikel 3, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0006641&artikel=3&z=2006-01-01&g=2006-01-01), nader bepaalde periode te wijzigen. Het bij geschrift met het oog op de scheiding door de echtgenoten overeen te komen deel kan niet worden bepaald op een percentage dat op het tijdstip van scheiding resulteert in een pensioenaanspraak gelijk aan of lager dan het in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006641&artikel=3&z=2006-01-01&g=2006-01-01), bedoelde bedrag.
+1. Bij huwelijkse voorwaarden of bij een bij geschrift gesloten overeenkomst met het oog op de scheiding kunnen de echtgenoten in afwijking van artikel 3, aanhef en onderdeel **a** van het eerste lid, overeenkomen het deel bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006641&artikel=2&z=2007-01-01&g=2007-01-01), te bepalen op een door hen te kiezen vast percentage dan wel de in [artikel 3, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0006641&artikel=3&z=2007-01-01&g=2007-01-01), nader bepaalde periode te wijzigen. Het bij geschrift met het oog op de scheiding door de echtgenoten overeen te komen deel kan niet worden bepaald op een percentage dat op het tijdstip van scheiding resulteert in een pensioenaanspraak gelijk aan of lager dan het in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006641&artikel=3&z=2007-01-01&g=2007-01-01), bedoelde bedrag.
 
 2. Mits de echtgenoten binnen twee jaar na het tijdstip van scheiding een gewaarmerkt afschrift of uittreksel van de in het eerste lid bedoelde overeenkomst aan het uitvoeringsorgaan hebben overgelegd, is het uitvoeringsorgaan gebonden aan hetgeen door de echtgenoten is overeengekomen doch slechts voor wat betreft de periode gelegen na ontvangst van het afschrift of uittreksel van de overeenkomst. Indien de echtgenoten zulks nalaten kan deze overeenkomst niet aan het uitvoeringsorgaan worden tegengeworpen, zelfs indien de overeenkomst ingeschreven was in het openbaar huwelijksgoederenregister bedoeld in artikel 116, Boek 1 van het Burgerlijk Wetboek.
 
-3. Na ontvangst van het afschrift of uittreksel van de in het eerste lid bedoelde overeenkomst verstrekt het uitvoeringsorgaan aan de tot verevening gerechtigde echtgenoot een bewijsstuk als bedoeld in het [vijfde lid van artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006641&artikel=2&z=2006-01-01&g=2006-01-01). De andere echtgenoot ontvangt daarvan een afschrift.
+3. Na ontvangst van het afschrift of uittreksel van de in het eerste lid bedoelde overeenkomst verstrekt het uitvoeringsorgaan aan de tot verevening gerechtigde echtgenoot een bewijsstuk als bedoeld in het [vijfde lid van artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006641&artikel=2&z=2007-01-01&g=2007-01-01). De andere echtgenoot ontvangt daarvan een afschrift.
 
 ##### Artikel 5
 
-1. Bij huwelijkse voorwaarden of bij een bij geschrift gesloten overeenkomst met het oog op de scheiding kunnen de echtgenoten in geval van echtscheiding dan wel beëindiging van het geregistreerd partnerschap anders dan door de dood of vermissing overeenkomen, dat artikel 2, tweede tot en met zesde lid, buiten toepassing blijft en dat de echtgenoot die anders een recht op uitbetaling van pensioen zou hebben verkregen in de plaats van dat recht en zijn aanspraak op nabestaandenpensioen jegens het uitvoeringsorgaan een eigen recht op pensioen verkrijgt. De overeenkomst is slechts geldig indien aan de overeenkomst een verklaring van het betrokken uitvoeringsorgaan is gehecht dat het instemt met bedoelde omzetting.
+1. Bij huwelijkse voorwaarden of bij een bij geschrift gesloten overeenkomst met het oog op de scheiding kunnen de echtgenoten in geval van echtscheiding dan wel beëindiging van het geregistreerd partnerschap anders dan door de dood of vermissing overeenkomen, dat [artikel 2, tweede tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006641&artikel=2&z=2007-01-01&g=2007-01-01), buiten toepassing blijft en dat de echtgenoot die anders een recht op uitbetaling van pensioen zou hebben verkregen in de plaats van dat recht en zijn aanspraak op partnerpensioen jegens het uitvoeringsorgaan een eigen recht op pensioen verkrijgt. De overeenkomst is slechts geldig indien aan de overeenkomst een verklaring van het betrokken uitvoeringsorgaan is gehecht dat het instemt met bedoelde omzetting.
 
-2. Mits de echtgenoten binnen twee jaar na het tijdstip van scheiding een gewaarmerkt afschrift of uittreksel van de in het eerste lid bedoelde overeenkomst aan het uitvoeringsorgaan hebben overgelegd, is het uitvoeringsorgaan gebonden aan hetgeen door de echtgenoten is overeengekomen doch slechts voor wat betreft de periode gelegen na ontvangst van het afschrift of uittreksel van de overeenkomst. Indien de echtgenoten zulks nalaten kan deze overeenkomst niet aan het uitvoeringsorgaan worden tegengeworpen, zelfs indien de overeenkomst ingeschreven was in het openbaar huwelijksgoederenregister bedoeld in artikel 116, Boek 1 van het Burgerlijk Wetboek.
+2. Mits de echtgenoten binnen twee jaar na het tijdstip van scheiding een gewaarmerkt afschrift of uittreksel van de in het eerste lid bedoelde overeenkomst aan het uitvoeringsorgaan hebben overgelegd, is het uitvoeringsorgaan gebonden aan hetgeen door de echtgenoten is overeengekomen doch slechts voor wat betreft de periode gelegen na ontvangst van het afschrift of uittreksel van de overeenkomst. Indien de echtgenoten zulks nalaten kan deze overeenkomst niet aan het uitvoeringsorgaan worden tegengeworpen, zelfs indien de overeenkomst ingeschreven was in het openbaar huwelijksgoederenregister bedoeld in [artikel 116, Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=116).
 
 3. Na ontvangst van het afschrift of uittreksel van de in het eerste lid bedoelde overeenkomst verstrekt het uitvoeringsorgaan aan de tot verevening gerechtigde echtgenoot een bewijsstuk van zijn eigen recht op pensioen. De andere echtgenoot ontvangt daarvan een afschrift; hij ontvangt voorts een opgave van zijn verminderd pensioen.
 
@@ -167,15 +167,15 @@ entry_into_force: "2006-12-07"
 
 3. Afkoop in de zin van de toepasselijke regeling is slechts toegestaan indien met de pensioenbelangen van de tot verevening gerechtigde echtgenoot op redelijke wijze rekening is gehouden.
 
-4. Met betrekking tot de berekening en het recht op uitbetaling van het pensioen van de tot verevening gerechtigde echtgenoot in geval van afkoop in de zin van [artikel 32a](https://wetten.overheid.nl/jci1.3:c:BWBR0002089&artikel=32a), [artikel 32b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002089&artikel=32b) en [artikel 32ba, eerste lid, van de Pensioen- en spaarfondsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002089&artikel=32ba), alsmede hetgeen daarmee overeenkomt in de overheidspensioenwetten kunnen door onze Minister van Sociale Zaken en Werkgelegenheid in overeenstemming met onze Ministers wie dat aangaat nadere regels worden gesteld.
+4. Met betrekking tot de berekening en het recht op uitbetaling van het pensioen van de tot verevening gerechtigde echtgenoot in geval van waardeoverdracht als bedoeld in [artikel 1 van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=1), alsmede hetgeen daarmee overeenkomt in de overheidspensioenwetten kunnen door onze Minister van Sociale Zaken en Werkgelegenheid in overeenstemming met onze Ministers wie dat aangaat nadere regels worden gesteld.
 
 5. Voor de toepassing van wettelijke bepalingen met betrekking tot een volmacht tot invordering van pensioen wordt het deel van het pensioen dat niet aan de tot verevening verplichte echtgenoot wordt uitbetaald geacht niet tot diens pensioen te behoren.
 
 ##### Artikel 8
 
-1. Indien een pensioen wordt verlaagd of verhoogd, uitsluitend wegens ingang op een vroeger of later tijdstip dan het op grond van de desbetreffende regeling normale tijdstip, wordt het deel, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006641&artikel=2&z=2006-01-01&g=2006-01-01), op overeenkomstige wijze verlaagd of verhoogd.
+1. Indien een pensioen wordt verlaagd of verhoogd, uitsluitend wegens ingang op een vroeger of later tijdstip dan het op grond van de desbetreffende regeling normale tijdstip, wordt het deel, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006641&artikel=2&z=2007-01-01&g=2007-01-01), op overeenkomstige wijze verlaagd of verhoogd.
 
-2. Indien een pensioen wordt verminderd wegens samenloop met één of meer andere te verevenen pensioenen wordt het deel, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006641&artikel=2&z=2006-01-01&g=2006-01-01), op overeenkomstige wijze verminderd.
+2. Indien een pensioen wordt verminderd wegens samenloop met één of meer andere te verevenen pensioenen wordt het deel, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006641&artikel=2&z=2007-01-01&g=2007-01-01), op overeenkomstige wijze verminderd.
 
 ##### Artikel 9
 
@@ -193,6 +193,18 @@ Indien de echtgenoten bij huwelijkse voorwaarden gemaakt voor de inwerkingtredin
 
 1. Deze wet is niet van toepassing op een scheiding die heeft plaatsgevonden voor de datum van inwerkingtreding van deze wet.
 
-2. Niettemin is deze wet van overeenkomstige toepassing op een scheiding die heeft plaatsgevonden vóór 27 november 1981, mits het huwelijk ten minste 18 jaren heeft geduurd en er tijdens het huwelijk minderjarige kinderen waren van de echtgenoten te zamen of van één van hen, en met dien verstande dat het deel bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006641&artikel=2&z=2006-01-01&g=2006-01-01), slechts één vierde bedraagt van het pensioen dat ingevolge [artikel 3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006641&artikel=3&z=2006-01-01&g=2006-01-01), zou moeten worden uitbetaald, en dat er geen recht op pensioenverevening is voor zover reeds aantoonbaar rekening is gehouden met de omstandigheid dat de tot verevening gerechtigde echtgenoot geen of onvoldoende pensioen had opgebouwd. Ook in geval van een geschil hieromtrent tussen de echtgenoten is het uitvoeringsorgaan gehouden tot uitbetaling ingevolge [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006641&artikel=2&z=2006-01-01&g=2006-01-01), zolang de rechter niet op verzoek van een der echtgenoten anders beslist.
+2. Niettemin is deze wet van overeenkomstige toepassing op een scheiding die heeft plaatsgevonden vóór 27 november 1981, mits het huwelijk ten minste 18 jaren heeft geduurd en er tijdens het huwelijk minderjarige kinderen waren van de echtgenoten te zamen of van één van hen, en met dien verstande dat het deel bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006641&artikel=2&z=2007-01-01&g=2007-01-01), slechts één vierde bedraagt van het pensioen dat ingevolge [artikel 3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006641&artikel=3&z=2007-01-01&g=2007-01-01), zou moeten worden uitbetaald, en dat er geen recht op pensioenverevening is voor zover reeds aantoonbaar rekening is gehouden met de omstandigheid dat de tot verevening gerechtigde echtgenoot geen of onvoldoende pensioen had opgebouwd. Ook in geval van een geschil hieromtrent tussen de echtgenoten is het uitvoeringsorgaan gehouden tot uitbetaling ingevolge [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006641&artikel=2&z=2007-01-01&g=2007-01-01), zolang de rechter niet op verzoek van een der echtgenoten anders beslist.
 
-3. Een recht op verevening ingevolge het tweede lid ontstaat slechts indien de mededeling, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006641&artikel=2&z=2006-01-01&g=2006-01-01), plaatsvindt binnen twee jaar na de inwerkingtreding van deze wet. [Artikel 2, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006641&artikel=2&z=2006-01-01&g=2006-01-01), is niet van toepassing.
+3. Een recht op verevening ingevolge het tweede lid ontstaat slechts indien de mededeling, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006641&artikel=2&z=2007-01-01&g=2007-01-01), plaatsvindt binnen twee jaar na de inwerkingtreding van deze wet. [Artikel 2, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006641&artikel=2&z=2007-01-01&g=2007-01-01), is niet van toepassing.
+
+##### Artikel 3a
+
+1. Indien het huwelijk of geregistreerd partnerschap van een directeur-grootaandeelhouder als bedoeld in [artikel 1 van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=1) eindigt door scheiding, verkrijgt zijn gewezen echtgenoot een aanspraak op partnerpensioen als de directeur-grootaandeelhouder ten behoeve van die gewezen echtgenoot zou hebben verkregen indien op het tijdstip van de scheiding de pensioenopbouw zou zijn beëindigd, anders dan door overlijden of het bereiken van de pensioengerechtigde leeftijd.
+
+2. Indien het huwelijk of geregistreerd partnerschap van een gewezen directeur-grootaandeelhouder als bedoeld in [artikel 1 van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=1) eindigt door scheiding, verkrijgt zijn gewezen echtgenoot een aanspraak op partnerpensioen als de directeur-grootaandeelhouder ten behoeve van die gewezen echtgenoot heeft verkregen bij beëindiging van de pensioenopbouw, anders dan door overlijden of het bereiken van de pensioengerechtigde leeftijd.
+
+3. Het eerste en het tweede lid vinden geen toepassing, indien de directeur-grootaandeelhouder en zijn echtgenoot bij huwelijkse voorwaarden of bij een bij geschrift gesloten overeenkomst met het oog op de scheiding anders overeenkomen.
+
+4. Het uitvoeringsorgaan verstrekt aan de gewezen echtgenoot een bewijs van diens aanspraak.
+
+5. De aanspraak op partnerpensioen ten behoeve van de echtgenoot van een directeur-grootaandeelhouder kan zonder toestemming van die echtgenoot niet bij overeenkomst tussen de directeur-grootaandeelhouder en het uitvoeringsorgaan of de werkgever worden verminderd.
