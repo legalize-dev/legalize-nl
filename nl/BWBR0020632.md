@@ -75,9 +75,3 @@ Deze regeling treedt in werking met ingang van 1 januari 2007.
 Deze regeling wordt aangehaald als: Regeling tegemoetkoming Wajongers 2007.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 1a
-
-Deze regeling berust op de [artikelen 2:52, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:52), en [3:10, derde lid, van de Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:10).
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
