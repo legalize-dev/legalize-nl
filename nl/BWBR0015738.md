@@ -4,7 +4,7 @@ identifier: "BWBR0015738"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-02"
-last_updated: "2006-12-31"
+last_updated: "2007-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0015738"
 soort: "ministeriele-regeling"
@@ -54,25 +54,21 @@ In deze regeling wordt verstaan onder:
 
 #### § 2. Verslag over de uitvoering
 
-##### Artikel 2. Verslag over de uitvoering, accountantsverklaring en oordeel raad
+##### Artikel 2. Verslag over de uitvoering en accountantsverklaring
 
-1. Het verslag over de uitvoering, de verklaring van de accountant en het oordeel van de gemeenteraad, bedoeld in [artikel 77, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=77), worden uiterlijk op 20 september van het kalenderjaar volgend op het kalenderjaar waarop zij betrekking hebben door de minister ontvangen.
+1. Als verslag over de uitvoering als bedoeld in [artikel 77, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=77) wordt aangemerkt de bijlage bij de jaarrekening met verantwoordingsinformatie over specifieke uitkeringen, bedoeld in [artikel 58a, eerste lid, van het Besluit begroting en verantwoording provincies en gemeenten](https://wetten.overheid.nl/jci1.3:c:BWBR0014606&artikel=58a) voorzover deze betrekking heeft op de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703).
 
-2. Het verslag over de uitvoering wordt ingericht overeenkomstig het als [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&bijlage=1&z=2006-12-31&g=2006-12-31) bij deze regeling opgenomen model.
-
-3. De verklaring van de accountant wordt ingericht overeenkomstig het als [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&bijlage=2&z=2006-12-31&g=2006-12-31) bij deze regeling opgenomen model. Het onderzoek dat resulteert in de verklaring wordt uitgevoerd overeenkomstig het als [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&bijlage=3&z=2006-12-31&g=2006-12-31) bij deze regeling opgenomen controle- en rapportageprotocol.
+2. Als verklaring van de accountant als bedoeld in [artikel 77, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=77) wordt aangemerkt de accountantsverklaring en het verslag van bevindingen, bedoeld in [artikel 213, derde en vierde lid, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=213).
 
 ##### Artikel 3. Geen accountantsverklaring
 
-1. De verplichting tot het overleggen van een verklaring van een accountant, bedoeld in [artikel 77, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=77), geldt niet voor het college dat voor het betreffende jaar een bedrag aan uitkeringen, bedoeld in [artikel 69, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=69), heeft ontvangen dat kleiner dan of gelijk is aan € 750.000,–.
-
-2. Het eerste lid is niet van toepassing op het college dat voor het betreffende jaar uitsluitend een bedrag aan uitkering, bedoeld in [artikel 69, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=69), heeft ontvangen en waarbij het bedrag van bedoelde uitkering groter is dan € 150.000,–.
+Vervallen
 
 ##### Artikel 4. Voorlopig verslag over de uitvoering
 
 1. Het voorlopig verslag over de uitvoering, bedoeld in [artikel 77, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=77) wordt uiterlijk op 28 februari van het kalenderjaar volgend op het kalenderjaar waarop het voorlopig verslag betrekking heeft door de minister ontvangen.
 
-2. Het voorlopig verslag wordt ingericht overeenkomstig het als [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&bijlage=4&z=2006-12-31&g=2006-12-31) bij deze regeling opgenomen model.
+2. Het voorlopig verslag wordt ingericht overeenkomstig het als bijlage bij deze regeling opgenomen model.
 
 #### § 3. Betaling
 
@@ -130,56 +126,68 @@ In deze paragraaf wordt verstaan onder:
 
 ##### Artikel 9. Reikwijdte
 
-Deze paragraaf is van toepassing op de vaststelling van de aanspraak op vakantietoeslag over een inkomen ontvangen in het kalenderjaar 2006.
+Deze paragraaf is van toepassing op de vaststelling van de aanspraak op vakantietoeslag over een inkomen ontvangen in het kalenderjaar 2007.
 
 ##### Artikel 10. In aanmerking te nemen vakantietoeslag
 
-Indien over het inkomen van de belanghebbende aanspraak op vakantietoeslag bestaat neemt het college bij de vaststelling van de hoogte van de algemene bijstand mede op grond van de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=11&z=2006-12-31&g=2006-12-31), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=12&z=2006-12-31&g=2006-12-31), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=13&z=2006-12-31&g=2006-12-31) of [14](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=14&z=2006-12-31&g=2006-12-31) berekende aanspraak op vakantietoeslag in aanmerking.
+Indien over het inkomen van de belanghebbende aanspraak op vakantietoeslag bestaat neemt het college bij de vaststelling van de hoogte van de algemene bijstand mede op grond van de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=11&z=2007-01-01&g=2007-01-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=12&z=2007-01-01&g=2007-01-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=13&z=2007-01-01&g=2007-01-01) of [14](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=14&z=2007-01-01&g=2007-01-01) berekende aanspraak op vakantietoeslag in aanmerking.
 
 ##### Artikel 11. Vakantieaanspraak voor personen jonger dan 65 jaar met inkomen uit tegenwoordige arbeid
 
 Indien de belanghebbende jonger dan 65 jaar is, het in aanmerking te nemen inkomen loon uit tegenwoordige arbeid betreft en voor de inhouding van loonheffing rekening is gehouden met de arbeidskorting en de algemene heffingskorting, wordt de aanspraak op vakantietoeslag vastgesteld aan de hand van de navolgende tabel, waarbij onder ‘ink’ het inkomen wordt verstaan.
 
-| Bij een netto inkomen per maand | Bij een netto inkomen per maand | Bij een netto inkomen per maand | Bij een netto inkomen per maand | Bij een netto inkomen per maand | Bij een netto inkomen per maand |   |   |   |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| gelijk aan of meer dan | gelijk aan of meer dan | en minder dan | en minder dan |   | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag |
-| € | 0,00 | € | 483,41 |   | 8,00% | x ink |   |   |
-| € | 483,41 | € | 552,86 |   | 7,75% | x ink | – € | 12,85 |
-| € | 552,86 | € | 1000,82 |   | 6,54% | x ink | – € | 6,13 |
-| € | 1000,82 | € | 1059,44 |   | 1,96% | x ink | + € | 39,76 |
-| € | 1059,44 | € | 1073,38 |   | 1,80% | x ink | + € | 33,88 |
-| € | 1073,38 |   |   |   | 5,75% | x ink | – € | 8,36 |
+| bij een netto inkomen per maand | bij een netto inkomen per maand | bij een netto inkomen per maand | bij een netto inkomen per maand | bij een netto inkomen per maand | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| gelijk aan of meer dan | gelijk aan of meer dan | gelijk aan of meer dan | en minder dan | en minder dan | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag |
+| € | 0,00 |   | € | 464,49 | 8,00% | x ink |   |   |   |
+| € | 464,49 |   | € | 503,90 | 5,14% | x ink |   |   |   |
+| € | 503,90 |   | € | 569,69 | 7,76% | x ink | – € | 13,20 |   |
+| € | 569,69 |   | € | 1053,08 | 6,55% | x ink | – € | 6,36 |   |
+| € | 1053,08 |   | € | 1082,41 | 3,15% | x ink | + € | 29,19 |   |
+| € | 1082,41 |   | € | 1120,59 | 2,86% | x ink | + € | 24,19 |   |
+| € | 1120,59 |   |   |   | 5,72% | x ink | – € | 7,83 |   |
 
 ##### Artikel 12. Vakantieaanspraak voor personen jonger dan 65 jaar met inkomen uit vroegere arbeid
 
 Indien de belanghebbende jonger dan 65 jaar is, het in aanmerking te nemen inkomen loon uit vroegere arbeid betreft en voor de inhouding van loonheffing rekening is gehouden met de algemene heffingskorting wordt de aanspraak op vakantietoeslag vastgesteld aan de hand van de navolgende tabel, waarbij onder ‘ink’ het inkomen wordt verstaan.
 
-| Bij een netto inkomen per maand | Bij een netto inkomen per maand | Bij een netto inkomen per maand | Bij een netto inkomen per maand | Bij een netto inkomen per maand | Bij een netto inkomen per maand |   |   |   |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| gelijk aan of meer dan | gelijk aan of meer dan | en minder dan | en minder dan |   | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag |
-| € | 0,00 | € | 455,96 |   | 8,00% | x ink |   |   |
-| € | 455,96 | € | 906,22 |   | 8,01% | x ink | – € | 13,27 |
-| € | 906,22 | € | 954,21 |   | 2,38% | x ink | + € | 37,63 |
-| € | 954,21 | € | 965,45 |   | 2,21% | x ink | + € | 31,88 |
-| € | 965,45 |   |   |   | 7,04% | x ink | – € | 14,70 |
+| bij een netto inkomen per maand | bij een netto inkomen per maand | bij een netto inkomen per maand | bij een netto inkomen per maand | bij een netto inkomen per maand | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| gelijk aan of meer dan | gelijk aan of meer dan | gelijk aan of meer dan | en minder dan | en minder dan | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag |
+| € | 0,00 |   | € | 439,94 | 8,00% | x ink |   |   |   |
+| € | 439,94 |   | € | 475,06 | 5,14% | x ink |   |   |   |
+| € | 475,06 |   | € | 947,08 | 8,01% | x ink | – € | 13,63 |   |
+| € | 947,08 |   | € | 977,33 | 3,84% | x ink | + € | 25,70 |   |
+| € | 977,33 |   | € | 1008,80 | 3,49% | x ink | + € | 20,99 |   |
+| € | 1008,80 |   |   |   | 6,98% | x ink | – € | 14,21 |   |
 
 ##### Artikel 13. Vakantieaanspraak voor personen jonger dan 65 jaar voor wie geen rekening is gehouden met de algemene heffingskorting
 
 Indien de belanghebbende jonger dan 65 jaar is en voor de inhouding van loonheffing geen rekening is gehouden met de algemene heffingskorting, wordt de aanspraak op vakantietoeslag vastgesteld aan de hand van de navolgende tabel, waarbij onder ‘ink’ het inkomen wordt verstaan.
 
-| Bij een netto inkomen per maand | Bij een netto inkomen per maand | Bij een netto inkomen per maand | Bij een netto inkomen per maand |   |   |   |   |   |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| gelijk aan of meer dan | gelijk aan of meer dan | en minder dan | en minder dan |   | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag |
-| € | 0,00 | € | 740,39 |   | 8,00% | x ink |   |   |
-| € | 740,39 | € | 788,39 |   | 2,38% | x ink | + € | 41,58 |
-| € | 788,39 | € | 799,62 |   | 2,22% | x ink | + € | 35,56 |
-| € | 799,62 |   |   |   | 7,04% | x ink | – € | 3,03 |
+| bij een netto inkomen per maand | bij een netto inkomen per maand | bij een netto inkomen per maand | bij een netto inkomen per maand | bij een netto inkomen per maand | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| gelijk aan of meer dan | gelijk aan of meer dan | gelijk aan of meer dan | en minder dan | en minder dan | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag |
+| € | 0,00 |   | € | 775,30 | 8,00% | x ink |   |   |   |
+| € | 775,30 |   | € | 806,36 | 3,84% | x ink | + € | 32,23 |   |
+| € | 806,36 |   | € | 837,32 | 3,50% | x ink | + € | 26,93 |   |
+| € | 837,32 |   |   |   | 6,98% | x ink | – € | 2,33 |   |
 
 ##### Artikel 14. Vakantieaanspraak voor personen van 65 jaar of ouder
 
-1. Indien de belanghebbende 65 jaar of ouder is en het inkomen van de belanghebbende bestaat uit een gekort ouderdomspensioen en toeslag als bedoeld in [artikel 13 van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=13) bedraagt de daarbij behorende aanspraak op vakantietoeslag 5,70% van dat inkomen.
+1. Indien de belanghebbende 65 jaar of ouder is en het inkomen van de belanghebbende bestaat uit een gekort ouderdomspensioen en toeslag als bedoeld in artikel 13 van de Algemene Ouderdomswet bedraagt de daarbij behorende de aanspraak op vakantietoeslag voor:
 
-2. Indien de belanghebbende 65 jaar of ouder is, en naast het inkomen, bedoeld in het eerste lid, een ander inkomen heeft dat recht geeft op een vakantietoeslag bedraagt de aanspraak op die vakantietoeslag 8% van dat andere inkomen.
+| a. alleenstaande | a. alleenstaande | 5,68% | x ink |   |
+| --- | --- | --- | --- | --- |
+| b. alleenstaande ouder, indien | b. alleenstaande ouder, indien |   |   |   |
+|   | – het inkomen € 887,95 of meer bedraagt | 4,90% | x ink |   |
+|   | – het inkomen lager is dan € 887,95 | 5,90% | x ink |   |
+| c. gehuwden, waarvan beide echtgenoten 65 jaar of ouder zijn | c. gehuwden, waarvan beide echtgenoten 65 jaar of ouder zijn | 5,94% | x ink |   |
+| d. gehuwden, waarvan een echtgenoot 65 jaar of ouder is en de andere echtgenoot jonger dan 65 jaar, indien | d. gehuwden, waarvan een echtgenoot 65 jaar of ouder is en de andere echtgenoot jonger dan 65 jaar, indien |   |   |   |
+|   | – het inkomen € 852,96 of meer bedraagt | 5,95% | x ink | – € 6,62 |
+|   | – het inkomen lager is dan € 852,96 | 6,21% | x ink |   |
+
+2. Indien de belanghebbende, bedoeld in het eerste lid, naast het gekorte ouderdomspensioen en toeslag, bedoeld in het eerste lid, een ander inkomen heeft dat recht geeft op vakantietoeslag bedraagt de aanspraak op die vakantietoeslag 8% van dat andere inkomen.
 
 #### § 7. Toetsingscriteria aanvullende uitkering gemeente
 
@@ -211,10 +219,6 @@ Indien de belanghebbende jonger dan 65 jaar is en voor de inhouding van loonheff
 
 7. Met betrekking tot gemeenten met 10.000 of minder inwoners kan een verzoek tot een aanvullende uitkering als bedoeld in [artikel 74, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=74), voor inwilliging in aanmerking komen, indien naar het oordeel van de toetsingscommissie de overstijging, bedoeld in artikel in [artikel 10, tweede lid, onderdeel b, van het Besluit WWB](https://wetten.overheid.nl/jci1.3:c:BWBR0015709&artikel=10), niet het gevolg is van een onrechtmatige uitvoering van de wet.
 
-8. Vervallen.
-
-9. Wijzigt deze regeling.
-
 #### § 7. Toetsingscriteria aanvullende uitkering gemeente
 
 ##### Artikel 16. Inwerkingtreding
@@ -233,9 +237,9 @@ Ligt ter inzage bij het Ministerie van Sociale Zaken en Werkgelegenheid.
 
 Ligt ter inzage bij het Ministerie van Sociale Zaken en Werkgelegenheid.
 
-## Bijlage 1
+## Bijlage. Voorlopig verslag over de uitvoering [Wet werk en bijstand 2006](https://wetten.overheid.nl/jci1.3:c:BWBR0015703)
 
-Ligt met ingang van 1 maart 2006 ter inzage bij het Ministerie van Sociale Zaken en Werkgelegenheid.
+Ligt uiterlijk 15 december 2006 ter inzage in de bibliotheek van het Ministerie van Sociale Zaken en Werkgelegenheid te ’s-Gravenhage.
 
 ## Bijlage 2
 
@@ -245,9 +249,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met ui
 
 ##### Artikel 4a. Rechtmatige wetsuitvoering
 
-1. De wet wordt in een kalenderjaar rechtmatig uitgevoerd indien het financieel beslag van de tekortkomingen niet meer bedraagt dan 1% van de som van uitgaven en ontvangsten in verband met het aanbieden van op arbeidsinschakeling gerichte voorzieningen, bedoeld in [artikel 7, eerste lid, onder a, van de wet](onbekend), en het verlenen van bijstand, bedoeld in [artikel 7, eerste lid, onder b, van de wet](onbekend).
-
-2. Indien het college de bevoegdheden en verantwoordelijkheden voor de uitvoering van de wet integraal heeft overgedragen aan een bij gemeenschappelijke regeling ingesteld openbaar lichaam, en er als gevolg hiervan sprake is van een uitvoering van een deel van de wet, wordt het in het eerste lid genoemde percentage toegepast op de som van uitgaven en ontvangsten van die deeluitvoering.
+Vervallen
 
 #### § 3. Betaling
 
@@ -269,7 +271,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met ui
 
 ##### Artikel 7a. Indexering
 
-1. Met ingang van de dag waarop de bedragen, genoemd in [artikel 2, zesde lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=2) wijzigen, worden de bedragen, genoemd in [artikel 7, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=5&artikel=7&z=2006-12-31&g=2006-12-31), herzien met het percentage van deze wijziging.
+1. Met ingang van de dag waarop de bedragen, genoemd in [artikel 2, zesde lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=2) wijzigen, worden de bedragen, genoemd in [artikel 7, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=5&artikel=7&z=2007-01-01&g=2007-01-01), herzien met het percentage van deze wijziging.
 
 2. Van de herziene bedragen, bedoeld in het eerste lid, en van de dag waarop de herziening plaatsvindt wordt door de minister mededeling gedaan in de Staatscourant.
 
@@ -280,5 +282,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met ui
 ## Bijlage 4
 
 Ligt ter inzage bij het Ministerie van Sociale Zaken en Werkgelegenheid.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de bijlagen, die met ingang van 23 oktober 2003 ter inzage worden gelegd in de bibliotheek van het Ministerie van Sociale Zaken en Werkgelegenheid te ’s-Gravenhage.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de bijlagen, die met ingang van 23 oktober 2003 ter inzage worden gelegd in de bibliotheek van het Ministerie van Sociale Zaken en Werkgelegenheid te ’s-Gravenhage.
