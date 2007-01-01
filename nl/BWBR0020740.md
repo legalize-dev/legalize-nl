@@ -482,34 +482,3 @@ Minimumgewichten overeenkomstig [artikel 5, tweede lid](https://wetten.overheid.
 | Vette nekaders | 0,3 | 0,6 |
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 1a
-
-Deze regeling berust op [artikel 3:3, onder a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&artikel=3:3), en [3:4, eerste lid, van het Algemeen douanebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&artikel=3:4).
-
-#### Paragraaf 2. Bepalingen betreffende de bijzondere restitutie voor vlees
-
-#### Paragraaf 3. Bepalingen betreffende de bijzondere restitutie voor technische delen
-
-#### Paragraaf 4. Bijzondere bepalingen betreffende de douaneformaliteiten bij uitvoer
-
-#### Paragraaf 5. Slotbepalingen
-
-## Bijlage 4
-
-| Slachtafval | Bij halve karkas/compensated quarter voorvoet/achtervoet in kg | Hele karkas voorspan/achterspan in kg |
-| --- | --- | --- |
-| Nier(en) | 0,25 | 0,5 |
-| Niervet | 1,9 | 3,8 |
-| Slotvet | 0,4 | 0,8 |
-| Lever | 4,5 | 4,5 |
-| Middenrif | 0,3 | 0,6 |
-| Longhaas | 0,6 | 0,6 |
-| Staart | 0,6 | 0,6 |
-| Ruggenmerg | 0,2 | 0,2 |
-| Teelballen | 0,3 | 0,6 |
-| Zakvet | 0,4 | 0,8 |
-| Bovenbilvet | 0,3 | 0,6 |
-| Vette nekaders | 0,3 | 0,6 |
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
