@@ -4,7 +4,7 @@ identifier: "BWBR0003302"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-07-01"
-last_updated: "2006-01-01"
+last_updated: "2007-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003302"
 soort: "ministeriele-regeling"
@@ -51,7 +51,7 @@ Het tarief voor de werkzaamheden van de Kamer voor de Binnenvisserij, zowel voor
 
 ##### Artikel 2
 
-Ten aanzien van ter goedkeuring ingediende overeenkomsten als bedoeld in artikel 36 geldt het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003302&paragraaf=1&artikel=1&z=2006-01-01&g=2006-01-01) vermelde tarief, met dien verstande, dat telkens in plaats van een huurprijs dient gelezen te worden: een prestatie.
+Ten aanzien van ter goedkeuring ingediende overeenkomsten als bedoeld in artikel 36 geldt het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003302&paragraaf=1&artikel=1&z=2006-01-01&g=2007-01-01) vermelde tarief, met dien verstande, dat telkens in plaats van een huurprijs dient gelezen te worden: een prestatie.
 
 ##### Artikel 2a
 
