@@ -4,7 +4,7 @@ identifier: "BWBR0007788"
 country: "nl"
 rank: "wet"
 publication_date: "2019-01-01"
-last_updated: "2004-10-01"
+last_updated: "2007-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007788"
 soort: "wet"
@@ -124,7 +124,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 2. Ten laste van de begroting van het fonds van enig jaar wordt het gerealiseerde nadelig saldo van het fonds van het voorafgaande jaar gebracht.
 
-3. Ten laste van het fonds kunnen in de begroting niet meer uitgaven worden geraamd dan het totaal van de geraamde ontvangsten, inclusief het gerealiseerde batig saldo van het fonds van het voorafgaande jaar, verminderd met 10 procent van de bij de ontwerp-begroting voor dat jaar geraamde ontvangsten als bedoeld in [artikel 2, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0007788&artikel=2&z=2004-10-01&g=2004-10-01).
+3. Ten laste van het fonds kunnen in de begroting niet meer uitgaven worden geraamd dan het totaal van de geraamde ontvangsten, inclusief het gerealiseerde batig saldo van het fonds van het voorafgaande jaar, verminderd met 10 procent van de bij de ontwerp-begroting voor dat jaar geraamde ontvangsten als bedoeld in [artikel 2, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0007788&artikel=2&z=2007-01-01&g=2007-01-01).
 
 4. In afwijking van [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013891&artikel=2), en [artikel 52, eerste lid, van de Comptabiliteitswet 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0013891&artikel=52) worden de begroting en de financiële verantwoording van het fonds uitsluitend op kasbasis gepresenteerd.
 
@@ -139,5 +139,17 @@ Deze wet treedt in werking met ingang van de eerste dag na de datum van uitgifte
 ##### Artikel 7
 
 Deze wet kan worden aangehaald als: Wet Fonds economische structuurversterking.
+
+Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 5a
+
+1. In afwijking van [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0007788&artikel=2&z=2007-01-01&g=2007-01-01), wordt met betrekking tot het jaar 2007 een percentage van 40,9 toegepast.
+
+2. In afwijking van [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007788&artikel=2&z=2007-01-01&g=2007-01-01), worden met betrekking tot het jaar 2007 de ontvangsten van Energie Beheer Nederland B.V. onder de ontvangsten als bedoeld in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0007788&artikel=2&z=2007-01-01&g=2007-01-01), verstaan.
+
+3. Met betrekking tot het jaar 2007 worden de ontvangsten van het fonds, bedoeld in [artikel 2, eerste lid, aanhef](https://wetten.overheid.nl/jci1.3:c:BWBR0007788&artikel=2&z=2007-01-01&g=2007-01-01), verminderd met € 1 000 000 000.
+
+4. Met betrekking tot het jaar 2009 worden de ontvangsten van het fonds, bedoeld in [artikel 2, eerste lid, aanhef](https://wetten.overheid.nl/jci1.3:c:BWBR0007788&artikel=2&z=2007-01-01&g=2007-01-01), vermeerderd met € 1 000 000 000 vermeerderd met rente.
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
