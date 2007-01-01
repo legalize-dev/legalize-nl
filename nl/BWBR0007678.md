@@ -4,7 +4,7 @@ identifier: "BWBR0007678"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2003-01-01"
+last_updated: "2007-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007678"
 soort: "wet"
@@ -56,7 +56,7 @@ Het op 9 februari 1994 te Brussel tot stand gekomen verdrag inzake de heffing va
 
 ##### Artikel 2
 
-Het gemeenschappelijke gebruiksrecht, bedoeld in het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&hoofdstuk=I&artikel=1&z=2003-01-01&g=2003-01-01) genoemde verdrag, wordt in Nederland onder de naam "belasting zware motorrijtuigen" geheven ter zake van het gebruik van de autosnelweg met een zwaar motorrijtuig.
+Het gemeenschappelijke gebruiksrecht, bedoeld in het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&hoofdstuk=I&artikel=1&z=2007-01-01&g=2007-01-01) genoemde verdrag, wordt in Nederland onder de naam "belasting zware motorrijtuigen" geheven ter zake van het gebruik van de autosnelweg met een zwaar motorrijtuig.
 
 ### Afdeling 2. Definities
 
@@ -110,7 +110,7 @@ Als houder wordt aangemerkt:
 
 ##### Artikel 7
 
-1. Indien een motorrijtuig als bedoeld in [artikel 6, onderdeel **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&hoofdstuk=III&artikel=6&z=2003-01-01&g=2003-01-01), feitelijk en niet geheel voorbijgaand ter beschikking staat van een ander dan degene op wiens naam het opgegeven kenteken is gesteld, kan de inspecteur:
+1. Indien een motorrijtuig als bedoeld in [artikel 6, onderdeel **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&hoofdstuk=III&artikel=6&z=2007-01-01&g=2007-01-01), feitelijk en niet geheel voorbijgaand ter beschikking staat van een ander dan degene op wiens naam het opgegeven kenteken is gesteld, kan de inspecteur:
 
 - a. deze op gezamenlijk verzoek aanmerken als degene die het motorrijtuig houdt;
 
@@ -200,9 +200,9 @@ Het tijdvak waarover de belasting moet worden betaald is een dag, een week, een 
 
 2. In afwijking van [artikel 19 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=19) moet de belasting worden betaald vóór de aanvang van het gebruik van de autosnelweg.
 
-3. Op bij ministeriële regeling aangewezen aangiftepunten kan door invoering van de in [artikel 3, onderdeel **e**](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&hoofdstuk=II&afdeling=2&artikel=3&z=2003-01-01&g=2003-01-01), genoemde gegevens met betrekking tot nationaliteit, tijdvak, tarief en motorrijtuig in de op deze aangiftepunten aanwezige betalingsapparatuur aangifte worden gedaan, gelijktijdig met de ingevolge het tweede lid te verrichten betaling.
+3. Op bij ministeriële regeling aangewezen aangiftepunten kan door invoering van de in [artikel 3, onderdeel **e**](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&hoofdstuk=II&afdeling=2&artikel=3&z=2007-01-01&g=2007-01-01), genoemde gegevens met betrekking tot nationaliteit, tijdvak, tarief en motorrijtuig in de op deze aangiftepunten aanwezige betalingsapparatuur aangifte worden gedaan, gelijktijdig met de ingevolge het tweede lid te verrichten betaling.
 
-4. [Hoofdstuk II van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=II) is, met uitzondering van [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&hoofdstuk=III&artikel=8&z=2003-01-01&g=2003-01-01), niet van toepassing op de in het derde lid bedoelde aangifte.
+4. [Hoofdstuk II van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=II) is, met uitzondering van [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&hoofdstuk=III&artikel=8&z=2007-01-01&g=2007-01-01), niet van toepassing op de in het derde lid bedoelde aangifte.
 
 ### Hoofdstuk V. Het certificaat
 
@@ -260,11 +260,9 @@ Het door de inspecteur afgegeven certificaat dient in het motorrijtuig aanwezig 
 
 - d. een jaar: een driehonderdvijfenzestigste deel van de voor het motorrijtuig over het tijdvak betaalde belasting.
 
-7. Bij het verzoek om teruggaaf dient per dag en per motorrijtuig waarop het verzoek betrekking heeft, een verklaring van de beheerder van de gelegen plaats van in- of uitlading van de vrachtwagen, de aanhangwagen, de oplegger met of zonder trekker, de wissellaadbak of de container van 20 voet en meer te worden verstrekt, waaruit blijkt dat is voldaan aan de in dit artikel gestelde voorwaarden.
+7. Het verzoek om teruggaaf wordt gedaan bij de inspecteur, die daarop bij voor bezwaar vatbare beschikking beslist.
 
-8. [Artikel 14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&hoofdstuk=VII&afdeling=1&artikel=14&z=2003-01-01&g=2003-01-01), is van overeenkomstige toepassing.
-
-9. Bij ministeriële regeling kunnen nadere voorwaarden en beperkingen worden gesteld ter uitvoering van de teruggaaf en met betrekking tot de administratieve vereisten waaraan voldaan moet worden om voor teruggaaf in aanmerking te komen.
+8. Bij ministeriële regeling kunnen nadere voorwaarden en beperkingen worden gesteld ter uitvoering van de teruggaaf en met betrekking tot de administratieve vereisten waaraan voldaan moet worden om voor teruggaaf in aanmerking te komen.
 
 ### Afdeling 2. Vrijstelling
 
@@ -288,7 +286,7 @@ Vrijstelling van belasting wordt, onder bij algemene maatregel van bestuur te st
 
 ##### Artikel 16
 
-Voor motorrijtuigen die in Griekenland geregistreerd staan wordt tot 1 juli 2002 een reductie van 50% toegepast op het tarief, genoemd in [artikel 10, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&hoofdstuk=IV&afdeling=2&artikel=10&z=2003-01-01&g=2003-01-01).
+Voor motorrijtuigen die in Griekenland geregistreerd staan wordt tot 1 juli 2002 een reductie van 50% toegepast op het tarief, genoemd in [artikel 10, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&hoofdstuk=IV&afdeling=2&artikel=10&z=2007-01-01&g=2007-01-01).
 
 ##### Artikel 17
 
@@ -302,17 +300,17 @@ Bij algemene maatregel van bestuur kunnen met name om redenen van verkeersveilig
 
 ##### Artikel 19
 
-De in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&hoofdstuk=VIII&artikel=18&z=2003-01-01&g=2003-01-01) bedoelde ambtenaren zijn bevoegd een motorrijtuig, alsmede het daarmee verbonden voertuig te onderwerpen aan een onderzoek en het daartoe te brengen of te doen brengen naar een nabij gelegen plaats. De bestuurder van het motorrijtuig of bij diens afwezigheid degene die het motorrijtuig houdt, is verplicht desgevorderd zijn voor het onderzoek en het vervoer noodzakelijke medewerking te verlenen en de ambtenaren met het motorrijtuig te vervoeren.
+De in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&hoofdstuk=VIII&artikel=18&z=2007-01-01&g=2007-01-01) bedoelde ambtenaren zijn bevoegd een motorrijtuig, alsmede het daarmee verbonden voertuig te onderwerpen aan een onderzoek en het daartoe te brengen of te doen brengen naar een nabij gelegen plaats. De bestuurder van het motorrijtuig of bij diens afwezigheid degene die het motorrijtuig houdt, is verplicht desgevorderd zijn voor het onderzoek en het vervoer noodzakelijke medewerking te verlenen en de ambtenaren met het motorrijtuig te vervoeren.
 
 ##### Artikel 20
 
-1. Voorzover ter zake van een motorrijtuig het gemeenschappelijke gebruiksrecht, bedoeld in het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&hoofdstuk=I&artikel=1&z=2003-01-01&g=2003-01-01) genoemde verdrag, buiten Nederland is voldaan vóór aanvang van het gebruik van de autosnelweg in Nederland, blijft de heffing in Nederland achterwege.
+1. Voorzover ter zake van een motorrijtuig het gemeenschappelijke gebruiksrecht, bedoeld in het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&hoofdstuk=I&artikel=1&z=2007-01-01&g=2007-01-01) genoemde verdrag, buiten Nederland is voldaan vóór aanvang van het gebruik van de autosnelweg in Nederland, blijft de heffing in Nederland achterwege.
 
-2. Indien het gemeenschappelijke gebruiksrecht buiten Nederland is voldaan, is daarop [artikel 14a](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&hoofdstuk=VII&afdeling=1&artikel=14a&z=2003-01-01&g=2003-01-01) van overeenkomstige toepassing. De teruggaaf wordt verleend op basis van het in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&hoofdstuk=IV&afdeling=2&artikel=10&z=2003-01-01&g=2003-01-01) bedoelde tarief, zoals dat gold voor het tijdvak waarvoor het gemeenschappelijke gebruiksrecht is voldaan.
+2. Indien het gemeenschappelijke gebruiksrecht buiten Nederland is voldaan, is daarop [artikel 14a](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&hoofdstuk=VII&afdeling=1&artikel=14a&z=2007-01-01&g=2007-01-01) van overeenkomstige toepassing. De teruggaaf wordt verleend op basis van het in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&hoofdstuk=IV&afdeling=2&artikel=10&z=2007-01-01&g=2007-01-01) bedoelde tarief, zoals dat gold voor het tijdvak waarvoor het gemeenschappelijke gebruiksrecht is voldaan.
 
-3. Op een buiten Nederland afgegeven bewijs van betaling van het gemeenschappelijke gebruiksrecht, zijn [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&hoofdstuk=V&artikel=12&z=2003-01-01&g=2003-01-01) en [artikel 18, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&hoofdstuk=VIII&artikel=18&z=2003-01-01&g=2003-01-01), van overeenkomstige toepassing.
+3. Op een buiten Nederland afgegeven bewijs van betaling van het gemeenschappelijke gebruiksrecht, zijn [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&hoofdstuk=V&artikel=12&z=2007-01-01&g=2007-01-01) en [artikel 18, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&hoofdstuk=VIII&artikel=18&z=2007-01-01&g=2007-01-01), van overeenkomstige toepassing.
 
-4. In geval de voldoening buiten Nederland door degene die het motorrijtuig feitelijk ter beschikking heeft niet kan worden aangetoond aan de hand van een betalingsbewijs als bedoeld in het tweede lid, is [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&hoofdstuk=VI&artikel=13&z=2003-01-01&g=2003-01-01), van overeenkomstige toepassing.
+4. In geval de voldoening buiten Nederland door degene die het motorrijtuig feitelijk ter beschikking heeft niet kan worden aangetoond aan de hand van een betalingsbewijs als bedoeld in het tweede lid, is [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&hoofdstuk=VI&artikel=13&z=2007-01-01&g=2007-01-01), van overeenkomstige toepassing.
 
 ##### Artikel 21
 
@@ -342,7 +340,7 @@ Bevat wijzigingen in deze regelgeving.
 
 ##### Artikel 26
 
-1. Deze wet treedt in werking met ingang van 1 december 1995, met uitzondering van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&hoofdstuk=I&artikel=1&z=2003-01-01&g=2003-01-01), dat in werking treedt met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin zij wordt geplaatst.
+1. Deze wet treedt in werking met ingang van 1 december 1995, met uitzondering van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&hoofdstuk=I&artikel=1&z=2007-01-01&g=2007-01-01), dat in werking treedt met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin zij wordt geplaatst.
 
 2. In afwijking in zoverre van het eerste lid vangt het eerste tijdvak waarover de belasting ingevolge deze wet kan worden geheven, aan met ingang van 1 januari 1996.
 
