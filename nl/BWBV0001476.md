@@ -4,7 +4,7 @@ identifier: "BWBV0001476"
 country: "nl"
 rank: "verdrag"
 publication_date: "2016-03-01"
-last_updated: "2006-02-01"
+last_updated: "2007-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0001476"
 soort: "verdrag"
@@ -147,7 +147,7 @@ De partijen bevestigen tevens hun gehechtheid aan de beginselen van behoorlijk b
 
 - i. afwijzing van de Overeenkomst in strijd met de algemene regels van het internationale recht, of
 
-- ii. schending van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=I&artikel=2&z=2006-02-01&g=2006-02-01) genoemde essentiële onderdelen van de Overeenkomst.
+- ii. schending van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=I&artikel=2&z=2007-01-01&g=2007-01-01) genoemde essentiële onderdelen van de Overeenkomst.
 
 5. De partijen komen overeen dat zij onder de in lid 1 van dit artikel genoemde passende maatregelen verstaan maatregelen die in overeenstemming met het internationale recht zijn genomen. Bij het nemen van de maatregelen dient voorrang te worden gegeven aan die maatregelen die de werking van de Overeenkomst het minst verstoren.
 
@@ -207,7 +207,7 @@ De Gemeenschap past de gecombineerde nomenclatuur toe bij de invoer van goederen
 
 ##### Artikel 8. Douanerechten van fiscale aard
 
-De bepalingen inzake de afschaffing van douanerechten bij invoer zijn ook van toepassing op douanerechten van fiscale aard, met uitzondering van niet-discriminerende accijnzen die overeenkomstig [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=III&afdeling=A&artikel=21&z=2006-02-01&g=2006-02-01) van deze Overeenkomst zowel op ingevoerde als van plaatselijk geproduceerde goederen worden geheven.
+De bepalingen inzake de afschaffing van douanerechten bij invoer zijn ook van toepassing op douanerechten van fiscale aard, met uitzondering van niet-discriminerende accijnzen die overeenkomstig [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=III&afdeling=A&artikel=21&z=2007-01-01&g=2007-01-01) van deze Overeenkomst zowel op ingevoerde als van plaatselijk geproduceerde goederen worden geheven.
 
 ##### Artikel 9. Heffingen van gelijke werking als invoerrechten
 
@@ -483,7 +483,7 @@ Voor enkele in deze bijlage vermelde producten geldt vanaf de inwerkingtreding v
 
 ##### Artikel 16. Vrijwaringsclausule landbouwproducten
 
-Onverminderd de andere bepalingen van deze Overeenkomst en met name [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=III&afdeling=A&artikel=24&z=2006-02-01&g=2006-02-01), pleegt de Samenwerkingsraad, gezien de bijzondere gevoeligheid van de landbouwmarkten, terstond overleg om een passende oplossing te vinden indien de invoer van producten van oorsprong uit een partij de markten van de andere partij ernstig verstoort of ernstig dreigt te verstoren. In afwachting van een besluit van de Samenwerkingsraad kan de getroffen partij, indien buitengewone omstandigheden een onmiddellijk handelen noodzakelijk maken, voorlopige maatregelen nemen om de verstoring te beperken of te herstellen. Bij het nemen van deze voorlopige maatregelen zal de getroffen partij de belangen van beide partijen in aanmerking nemen.
+Onverminderd de andere bepalingen van deze Overeenkomst en met name [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=III&afdeling=A&artikel=24&z=2007-01-01&g=2007-01-01), pleegt de Samenwerkingsraad, gezien de bijzondere gevoeligheid van de landbouwmarkten, terstond overleg om een passende oplossing te vinden indien de invoer van producten van oorsprong uit een partij de markten van de andere partij ernstig verstoort of ernstig dreigt te verstoren. In afwachting van een besluit van de Samenwerkingsraad kan de getroffen partij, indien buitengewone omstandigheden een onmiddellijk handelen noodzakelijk maken, voorlopige maatregelen nemen om de verstoring te beperken of te herstellen. Bij het nemen van deze voorlopige maatregelen zal de getroffen partij de belangen van beide partijen in aanmerking nemen.
 
 ##### Artikel 17. Versnelde afschaffing van de douanerechten door Zuid-Afrika
 
@@ -537,17 +537,17 @@ Uiterlijk vijf jaar na de inwerkingtreding van deze Overeenkomst zullen de Gemee
 
 ##### Artikel 24. Vrijwaringsclausule
 
-1. Wanneer een product in zulke toegenomen hoeveelheden en onder zulke omstandigheden wordt ingevoerd dat de binnenlandse producenten van soortgelijke of rechtstreeks concurrerende producten op het grondgebied van een van de Overeenkomstsluitende partijen daardoor schade lijden of dreigen te lijden, kan de Gemeenschap of Zuid-Afrika, al naar gelang van het geval, passende maatregelen nemen overeenkomstig de voorwaarden die zijn neergelegd in de [WTO-Overeenkomst inzake Vrijwaringsmaatregelen](onbekend) of de [Overeenkomst inzake de Landbouw](onbekend) die een bijlage vormen bij de [Overeenkomst van Marrakesh tot instelling van de WTO](https://wetten.overheid.nl/jci1.3:c:BWBV0001160) en overeenkomstig de in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=III&afdeling=A&artikel=26&z=2006-02-01&g=2006-02-01) omschreven procedures.
+1. Wanneer een product in zulke toegenomen hoeveelheden en onder zulke omstandigheden wordt ingevoerd dat de binnenlandse producenten van soortgelijke of rechtstreeks concurrerende producten op het grondgebied van een van de Overeenkomstsluitende partijen daardoor schade lijden of dreigen te lijden, kan de Gemeenschap of Zuid-Afrika, al naar gelang van het geval, passende maatregelen nemen overeenkomstig de voorwaarden die zijn neergelegd in de [WTO-Overeenkomst inzake Vrijwaringsmaatregelen](onbekend) of de [Overeenkomst inzake de Landbouw](onbekend) die een bijlage vormen bij de [Overeenkomst van Marrakesh tot instelling van de WTO](https://wetten.overheid.nl/jci1.3:c:BWBV0001160) en overeenkomstig de in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=III&afdeling=A&artikel=26&z=2007-01-01&g=2007-01-01) omschreven procedures.
 
-2. Wanneer een product in zulke toegenomen hoeveelheden en onder zulke omstandigheden wordt ingevoerd dat de economische situatie van de ultraperifere gebieden van de Europese Unie daardoor ernstige schade lijdt of dreigt te lijden, kan de Europese Unie, bij wijze van uitzondering en nadat andere oplossingen zijn onderzocht, speciaal voor dat gebied of die gebieden toezichts- of vrijwaringsmaatregelen nemen overeenkomstig de in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=III&afdeling=A&artikel=26&z=2006-02-01&g=2006-02-01) omschreven procedures.
+2. Wanneer een product in zulke toegenomen hoeveelheden en onder zulke omstandigheden wordt ingevoerd dat de economische situatie van de ultraperifere gebieden van de Europese Unie daardoor ernstige schade lijdt of dreigt te lijden, kan de Europese Unie, bij wijze van uitzondering en nadat andere oplossingen zijn onderzocht, speciaal voor dat gebied of die gebieden toezichts- of vrijwaringsmaatregelen nemen overeenkomstig de in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=III&afdeling=A&artikel=26&z=2007-01-01&g=2007-01-01) omschreven procedures.
 
-3. Wanneer een product in zulke hoeveelheden en onder zulke omstandigheden wordt ingevoerd dat de economische situatie van een of meer leden van de Zuidelijk-Afrikaanse Douane-unie daardoor ernstige schade lijdt of dreigt te lijden, kan Zuid-Afrika op verzoek van het betrokken land of de betrokken landen, bij wijze van uitzondering en na andere oplossingen te hebben onderzocht, toezichts- of vrijwaringsmaatregelen nemen overeenkomstig de in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=III&afdeling=A&artikel=26&z=2006-02-01&g=2006-02-01) omschreven procedures.
+3. Wanneer een product in zulke hoeveelheden en onder zulke omstandigheden wordt ingevoerd dat de economische situatie van een of meer leden van de Zuidelijk-Afrikaanse Douane-unie daardoor ernstige schade lijdt of dreigt te lijden, kan Zuid-Afrika op verzoek van het betrokken land of de betrokken landen, bij wijze van uitzondering en na andere oplossingen te hebben onderzocht, toezichts- of vrijwaringsmaatregelen nemen overeenkomstig de in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=III&afdeling=A&artikel=26&z=2007-01-01&g=2007-01-01) omschreven procedures.
 
 ##### Artikel 25. Vrijwaringsmaatregelen voor de overgangsperiode
 
-1. Onverminderd het bepaalde in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=III&afdeling=A&artikel=24&z=2006-02-01&g=2006-02-01) kunnen buitengewone maatregelen van beperkte duur die afwijken van het bepaalde in de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=II&afdeling=B&artikel=12&z=2006-02-01&g=2006-02-01) en [15](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=II&afdeling=C&artikel=15&z=2006-02-01&g=2006-02-01) door Zuid-Afrika worden genomen in de vorm van verhoging of wederinstelling van douanerechten.
+1. Onverminderd het bepaalde in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=III&afdeling=A&artikel=24&z=2007-01-01&g=2007-01-01) kunnen buitengewone maatregelen van beperkte duur die afwijken van het bepaalde in de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=II&afdeling=B&artikel=12&z=2007-01-01&g=2007-01-01) en [15](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=II&afdeling=C&artikel=15&z=2007-01-01&g=2007-01-01) door Zuid-Afrika worden genomen in de vorm van verhoging of wederinstelling van douanerechten.
 
-2. Deze maatregelen mogen echter slechts betrekking hebben op pas gevestigde industrieën of sectoren die ten gevolge van de bij de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=II&afdeling=B&artikel=12&z=2006-02-01&g=2006-02-01) en [15](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=II&afdeling=C&artikel=15&z=2006-02-01&g=2006-02-01) vastgestelde verlaging van de rechten door de toegenomen invoer uit de Gemeenschap met ernstige moeilijkheden hebben te kampen, met name wanneer deze moeilijkheden ernstige sociale problemen veroorzaken.
+2. Deze maatregelen mogen echter slechts betrekking hebben op pas gevestigde industrieën of sectoren die ten gevolge van de bij de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=II&afdeling=B&artikel=12&z=2007-01-01&g=2007-01-01) en [15](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=II&afdeling=C&artikel=15&z=2007-01-01&g=2007-01-01) vastgestelde verlaging van de rechten door de toegenomen invoer uit de Gemeenschap met ernstige moeilijkheden hebben te kampen, met name wanneer deze moeilijkheden ernstige sociale problemen veroorzaken.
 
 3. De bij deze maatregelen ingestelde douanerechten die in Zuid-Afrika van toepassing zijn op producten van oorsprong uit de Gemeenschap mogen niet hoger zijn dan het laagste van de volgende drie rechten, namelijk het basisrecht, het toepasselijke meestbegunstigingsrecht of 20% ad valorem, en moeten een preferentie-element blijven bevatten voor producten van oorsprong uit de Gemeenschap. De totale waarde van alle producten waarop deze maatregelen van toepassing zijn mag niet hoger zijn dan 10% van de waarde van de gehele invoer van industrieproducten uit de Gemeenschap in het laatste jaar waarvoor statistieken beschikbaar zijn.
 
@@ -561,9 +561,9 @@ Uiterlijk vijf jaar na de inwerkingtreding van deze Overeenkomst zullen de Gemee
 
 ##### Artikel 26. Vrijwaringsprocedures
 
-1. Wanneer de Gemeenschap of Zuid-Afrika naar aanleiding van de in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=III&afdeling=A&artikel=24&z=2006-02-01&g=2006-02-01) bedoelde problemen toezicht instelt teneinde snel gegevens te verkrijgen over de ontwikkeling van de handelsstromen, stelt deze partij de andere partij daarvan in kennis en pleegt met de andere partij overleg indien deze hierom verzoekt.
+1. Wanneer de Gemeenschap of Zuid-Afrika naar aanleiding van de in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=III&afdeling=A&artikel=24&z=2007-01-01&g=2007-01-01) bedoelde problemen toezicht instelt teneinde snel gegevens te verkrijgen over de ontwikkeling van de handelsstromen, stelt deze partij de andere partij daarvan in kennis en pleegt met de andere partij overleg indien deze hierom verzoekt.
 
-2. In de in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=III&afdeling=A&artikel=24&z=2006-02-01&g=2006-02-01) bedoelde gevallen verstrekt de Gemeenschap of Zuid-Afrika, al naar gelang van het geval, voordat de daarin bedoelde maatregelen worden genomen, of in de gevallen waarop lid 5, onder b), van toepassing is, de Samenwerkingsraad zo spoedig mogelijk alle relevante inlichtingen zodat een voor beide partijen aanvaardbare oplossing kan worden gevonden.
+2. In de in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=III&afdeling=A&artikel=24&z=2007-01-01&g=2007-01-01) bedoelde gevallen verstrekt de Gemeenschap of Zuid-Afrika, al naar gelang van het geval, voordat de daarin bedoelde maatregelen worden genomen, of in de gevallen waarop lid 5, onder b), van toepassing is, de Samenwerkingsraad zo spoedig mogelijk alle relevante inlichtingen zodat een voor beide partijen aanvaardbare oplossing kan worden gevonden.
 
 3. Bij de keuze van de te nemen maatregelen wordt voorrang gegeven aan die maatregelen die de werking van deze Overeenkomst het minst verstoren. Deze maatregelen gaan niet verder dan nodig is om een einde te maken aan ernstige schade of deze te voorkomen en om aanpassing te vergemakkelijken.
 
@@ -571,9 +571,9 @@ Uiterlijk vijf jaar na de inwerkingtreding van deze Overeenkomst zullen de Gemee
 
 5. Voor de tenuitvoerlegging van de voorgaande leden zijn de volgende bepalingen van toepassing:
 
-- a. De moeilijkheden die uit de in het [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=III&afdeling=A&artikel=24&z=2006-02-01&g=2006-02-01) bedoelde situatie kunnen voortvloeien, worden voor onderzoek aan de Samenwerkingsraad voorgelegd, die een besluit kan nemen om aan die moeilijkheden een einde te maken. Indien de Samenwerkingsraad of de partij van uitvoer geen besluit heeft genomen om aan de moeilijkheden een einde te maken of indien binnen 30 dagen na voorlegging van de kwestie geen bevredigende oplossing is gevonden, kan de partij van invoer passende maatregelen nemen om het probleem op te lossen. Deze maatregelen zijn ten hoogste drie jaar van toepassing en bevatten elementen die, uiterlijk aan het eind van de gestelde termijn, tot hun geleidelijke afschaffing leiden.
+- a. De moeilijkheden die uit de in het [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=III&afdeling=A&artikel=24&z=2007-01-01&g=2007-01-01) bedoelde situatie kunnen voortvloeien, worden voor onderzoek aan de Samenwerkingsraad voorgelegd, die een besluit kan nemen om aan die moeilijkheden een einde te maken. Indien de Samenwerkingsraad of de partij van uitvoer geen besluit heeft genomen om aan de moeilijkheden een einde te maken of indien binnen 30 dagen na voorlegging van de kwestie geen bevredigende oplossing is gevonden, kan de partij van invoer passende maatregelen nemen om het probleem op te lossen. Deze maatregelen zijn ten hoogste drie jaar van toepassing en bevatten elementen die, uiterlijk aan het eind van de gestelde termijn, tot hun geleidelijke afschaffing leiden.
 
-- b. Indien het in buitengewone omstandigheden noodzakelijk is onmiddellijk maatregelen te nemen waardoor voorafgaande kennisgeving of voorafgaand onderzoek niet mogelijk is, kan de Gemeenschap of Zuid-Afrika, al naar gelang het geval, in de in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=III&afdeling=A&artikel=24&z=2006-02-01&g=2006-02-01) vermelde omstandigheden terstond de nodige voorzorgsmaatregelen nemen, waarvan de andere partij terstond in kennis wordt gesteld.
+- b. Indien het in buitengewone omstandigheden noodzakelijk is onmiddellijk maatregelen te nemen waardoor voorafgaande kennisgeving of voorafgaand onderzoek niet mogelijk is, kan de Gemeenschap of Zuid-Afrika, al naar gelang het geval, in de in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=III&afdeling=A&artikel=24&z=2007-01-01&g=2007-01-01) vermelde omstandigheden terstond de nodige voorzorgsmaatregelen nemen, waarvan de andere partij terstond in kennis wordt gesteld.
 
 ##### Artikel 27. Uitzonderingen
 
@@ -621,13 +621,13 @@ De voor de toepassing van tariefpreferenties geldende regels van oorsprong waari
 
 2. De partijen komen overeen elkaars onderdanen en de schepen die op het grondgebied van een van de partijen zijn geregistreerd geen minder gunstige behandeling te geven dan die welke aan de meest begunstigde natie wordt toegekend op het gebied van het vervoer over zee van goederen, personen of beide, toegang tot havens, het gebruik van de infrastructuur en hulpdiensten voor de zeevaart van die havens en de daaraan verbonden kosten, douanefaciliteiten en de toewijzing van ligplaatsen en faciliteiten voor het laden en lossen, op basis van eerlijke concurrentie en op commerciële voorwaarden.
 
-3. De partijen komen overeen het vervoer over zee, met inbegrip van het intermodale vervoer, in het kader van [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=III&afdeling=B&artikel=30&z=2006-02-01&g=2006-02-01) te bezien, onverminderd de dan geldende beperkingen op grond van nationaliteit of de door een van de partijen aangegane overeenkomsten die verenigbaar zijn met de rechten en plichten van de partijen uit hoofde van de [GATS](https://wetten.overheid.nl/jci1.3:c:BWBV0001160&bijlage=1B).
+3. De partijen komen overeen het vervoer over zee, met inbegrip van het intermodale vervoer, in het kader van [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=III&afdeling=B&artikel=30&z=2007-01-01&g=2007-01-01) te bezien, onverminderd de dan geldende beperkingen op grond van nationaliteit of de door een van de partijen aangegane overeenkomsten die verenigbaar zijn met de rechten en plichten van de partijen uit hoofde van de [GATS](https://wetten.overheid.nl/jci1.3:c:BWBV0001160&bijlage=1B).
 
 ### AFDELING C. LOPENDE BETALINGEN EN KAPITAALVERKEER
 
 ##### Artikel 32. Lopende betalingen
 
-1. Onder voorbehoud van het bepaalde in [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=III&afdeling=C&artikel=34&z=2006-02-01&g=2006-02-01) staan de partijen toe dat betalingen voor lopende transacties tussen inwoners van de Gemeenschap en van Zuid-Afrika in vrij converteerbare valuta geschieden.
+1. Onder voorbehoud van het bepaalde in [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=III&afdeling=C&artikel=34&z=2007-01-01&g=2007-01-01) staan de partijen toe dat betalingen voor lopende transacties tussen inwoners van de Gemeenschap en van Zuid-Afrika in vrij converteerbare valuta geschieden.
 
 2. Zuid-Afrika kan de nodige maatregelen nemen om ervoor te zorgen dat het bepaalde in lid 1, waarbij de lopende betalingen worden geliberaliseerd, door zijn inwoners niet op zodanige wijze wordt gebruikt dat een kapitaalvlucht plaatsvindt.
 
@@ -653,13 +653,13 @@ Onverenigbaar met de goede werking van deze Overeenkomst, voorzover de handel tu
 
 ##### Artikel 36. Tenuitvoerlegging
 
-Indien een partij bij de inwerkingtreding van de Overeenkomst nog niet de nodige wettelijke en bestuursrechtelijke bepalingen heeft vastgesteld om [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=III&afdeling=D&artikel=35&z=2006-02-01&g=2006-02-01) in haar rechtsgebied ten uitvoer te kunnen leggen, zal zij dit binnen drie jaar doen.
+Indien een partij bij de inwerkingtreding van de Overeenkomst nog niet de nodige wettelijke en bestuursrechtelijke bepalingen heeft vastgesteld om [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=III&afdeling=D&artikel=35&z=2007-01-01&g=2007-01-01) in haar rechtsgebied ten uitvoer te kunnen leggen, zal zij dit binnen drie jaar doen.
 
 ##### Artikel 37. Passende maatregelen
 
-Indien de Gemeenschap of Zuid-Afrika van oordeel is dat een bepaalde praktijk op haar of zijn binnenlandse markt in strijd is met de [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=III&afdeling=D&artikel=35&z=2006-02-01&g=2006-02-01), en:
+Indien de Gemeenschap of Zuid-Afrika van oordeel is dat een bepaalde praktijk op haar of zijn binnenlandse markt in strijd is met de [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=III&afdeling=D&artikel=35&z=2007-01-01&g=2007-01-01), en:
 
-- a. deze praktijk niet op afdoende wijze kan worden tegengegaan met de in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=III&afdeling=D&artikel=35&z=2006-02-01&g=2006-02-01) bedoelde uitvoeringsbepalingen, of
+- a. deze praktijk niet op afdoende wijze kan worden tegengegaan met de in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=III&afdeling=D&artikel=35&z=2007-01-01&g=2007-01-01) bedoelde uitvoeringsbepalingen, of
 
 - b. wanneer dergelijke bepalingen ontbreken, deze praktijk de belangen van de andere partij of een binnenlandse bedrijfstak, met inbegrip van binnenlandse dienstverleners, ernstig schaadt of dreigt te schaden,
 
@@ -667,7 +667,7 @@ kan de betrokken partij overeenkomstig haar eigen wetgeving passende maatregelen
 
 ##### Artikel 38. Wederzijds respect
 
-1. De partijen komen overeen dat, wanneer de Commissie of de Zuid-Afrikaanse Mededingingsautoriteit redenen heeft om aan te nemen dat op het grondgebied van de andere autoriteit praktijken plaatsvinden die strijdig zijn met een eerlijke concurrentie in de zin van [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=III&afdeling=D&artikel=35&z=2006-02-01&g=2006-02-01) en die de wezenlijke belangen van de partijen ernstig schaden, zij de mededingingsautoriteit van de andere partij kan verzoeken passende maatregelen te nemen om aan deze praktijken een einde te maken volgens de mededingingsregels van die autoriteit.
+1. De partijen komen overeen dat, wanneer de Commissie of de Zuid-Afrikaanse Mededingingsautoriteit redenen heeft om aan te nemen dat op het grondgebied van de andere autoriteit praktijken plaatsvinden die strijdig zijn met een eerlijke concurrentie in de zin van [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=III&afdeling=D&artikel=35&z=2007-01-01&g=2007-01-01) en die de wezenlijke belangen van de partijen ernstig schaden, zij de mededingingsautoriteit van de andere partij kan verzoeken passende maatregelen te nemen om aan deze praktijken een einde te maken volgens de mededingingsregels van die autoriteit.
 
 2. Een dergelijk verzoek doet geen afbreuk aan maatregelen die op grond van de mededingingswetgeving van de verzoekende autoriteit eventueel genomen kunnen worden en aan de bevoegdheden en onafhankelijkheid van de aangezochte autoriteit.
 
@@ -699,9 +699,9 @@ De partijen wisselen gegevens uit, rekening houdend met de beperkingen uit hoofd
 
 ##### Artikel 42. Herstelmaatregelen
 
-1. Indien de Gemeenschap of Zuid-Afrika van oordeel is dat een bepaalde praktijk in strijd is met [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=III&afdeling=E&artikel=41&z=2006-02-01&g=2006-02-01) en dat de belangen van de andere partij of een binnenlandse bedrijfstak door deze praktijk ernstige schade lijden of dreigen te lijden, komen de partijen overeen, wanneer dit probleem op grond van de bestaande voorschriften en procedures niet op bevredigende wijze kan worden behandeld, overleg te plegen teneinde een voor hen beide bevredigende oplossing te vinden. Dit overleg doet geen afbreuk aan de rechten en plichten van de partijen in het kader van hun eigen wetgeving en internationale verplichtingen.
+1. Indien de Gemeenschap of Zuid-Afrika van oordeel is dat een bepaalde praktijk in strijd is met [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=III&afdeling=E&artikel=41&z=2007-01-01&g=2007-01-01) en dat de belangen van de andere partij of een binnenlandse bedrijfstak door deze praktijk ernstige schade lijden of dreigen te lijden, komen de partijen overeen, wanneer dit probleem op grond van de bestaande voorschriften en procedures niet op bevredigende wijze kan worden behandeld, overleg te plegen teneinde een voor hen beide bevredigende oplossing te vinden. Dit overleg doet geen afbreuk aan de rechten en plichten van de partijen in het kader van hun eigen wetgeving en internationale verplichtingen.
 
-2. Elke partij kan de Samenwerkingsraad, in het kader van een dergelijk overleg, vragen te onderzoeken of de beleidsdoelstellingen van een partij de in [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=III&afdeling=E&artikel=41&z=2006-02-01&g=2006-02-01) bedoelde toekenning van overheidssteun rechtvaardigen.
+2. Elke partij kan de Samenwerkingsraad, in het kader van een dergelijk overleg, vragen te onderzoeken of de beleidsdoelstellingen van een partij de in [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=III&afdeling=E&artikel=41&z=2007-01-01&g=2007-01-01) bedoelde toekenning van overheidssteun rechtvaardigen.
 
 ##### Artikel 43. Transparantie
 
@@ -709,9 +709,9 @@ Elke partij draagt zorg voor transparantie op het gebied van overheidssteun. Met
 
 ##### Artikel 44. Onderzoek
 
-1. Bij afwezigheid van regels of procedures voor de tenuitvoerlegging van [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=III&afdeling=E&artikel=41&z=2006-02-01&g=2006-02-01) zijn artikel VI en XVI van de Algemene Overeenkomst inzake Tarieven en Handel 1994 en de [WTO-Overeenkomst inzake Subsidies en Compenserende Maatregelen](onbekend) van toepassing op overheidssteun en subsidies.
+1. Bij afwezigheid van regels of procedures voor de tenuitvoerlegging van [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=III&afdeling=E&artikel=41&z=2007-01-01&g=2007-01-01) zijn artikel VI en XVI van de Algemene Overeenkomst inzake Tarieven en Handel 1994 en de [WTO-Overeenkomst inzake Subsidies en Compenserende Maatregelen](onbekend) van toepassing op overheidssteun en subsidies.
 
-2. De Samenwerkingsraad stelt regelmatig een onderzoek in naar de vorderingen die op dit gebied zijn gemaakt. Met name zal hij samenwerking en begrip blijven ontwikkelen ten aanzien van de maatregelen die elke partij neemt ten aanzien van de werking van [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=III&afdeling=E&artikel=41&z=2006-02-01&g=2006-02-01).
+2. De Samenwerkingsraad stelt regelmatig een onderzoek in naar de vorderingen die op dit gebied zijn gemaakt. Met name zal hij samenwerking en begrip blijven ontwikkelen ten aanzien van de maatregelen die elke partij neemt ten aanzien van de werking van [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=III&afdeling=E&artikel=41&z=2007-01-01&g=2007-01-01).
 
 ### AFDELING F. ANDERE MET DE HANDEL VERBAND HOUDENDE BEPALINGEN
 
@@ -773,7 +773,7 @@ De partijen werken samen op het gebied van normalisering, metrologie, certificat
 
 1. De partijen bevorderen en vergemakkelijken de samenwerking tussen hun douanediensten om te bewerkstelligen dat de bepalingen inzake de handel worden nageleefd en dat eerlijke handelspraktijken worden toegepast. Deze samenwerking leidt onder meer tot de uitwisseling van gegevens en het organiseren van opleidingsprogramma's.
 
-2. Onverminderd de andere samenwerkingsvormen waarin deze Overeenkomst voorziet, met name op grond van [artikel 90](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=VI&artikel=90&z=2006-02-01&g=2006-02-01), geven de administratieve instanties van de Overeenkomstsluitende partijen elkaar bijstand overeenkomstig de bepalingen van Protocol 2 bij deze Overeenkomst.
+2. Onverminderd de andere samenwerkingsvormen waarin deze Overeenkomst voorziet, met name op grond van [artikel 90](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=VI&artikel=90&z=2007-01-01&g=2007-01-01), geven de administratieve instanties van de Overeenkomstsluitende partijen elkaar bijstand overeenkomstig de bepalingen van Protocol 2 bij deze Overeenkomst.
 
 ##### Artikel 49. Statistieken
 
@@ -1047,7 +1047,7 @@ De voor financiële en technische bijstand in aanmerking komende samenwerkingspa
 
 ##### Artikel 68. Middelen en methodiek
 
-1. De middelen die in het kader van de in [artikel 66](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=V&afdeling=A&artikel=66&z=2006-02-01&g=2006-02-01) bedoelde samenwerking kunnen worden gebruikt, omvatten met name studies, technische bijstand, opleiding of andere dienstverlening, leveranties en werken, alsmede financiële controles en evaluatie- en controlemissies.
+1. De middelen die in het kader van de in [artikel 66](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=V&afdeling=A&artikel=66&z=2007-01-01&g=2007-01-01) bedoelde samenwerking kunnen worden gebruikt, omvatten met name studies, technische bijstand, opleiding of andere dienstverlening, leveranties en werken, alsmede financiële controles en evaluatie- en controlemissies.
 
 2. De communautaire financiering, in deviezen of plaatselijke valuta, kan naar gelang van de aard of de behoeften in het kader van de projecten, betrekking hebben op:
 
@@ -1057,7 +1057,7 @@ De voor financiële en technische bijstand in aanmerking komende samenwerkingspa
 
 - c. in bepaalde gevallen, met name wanneer een programma ten uitvoer wordt gelegd door een niet-gouvernementele partner, lopende uitgaven.
 
-3. In principe is voor elke samenwerkingsactie een bijdrage van de in [artikel 67](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=V&afdeling=A&artikel=67&z=2006-02-01&g=2006-02-01) bedoelde partners vereist. Aard en omvang van deze bijdrage worden bepaald in overeenstemming met de mogelijkheden van de betrokken partners en naar gelang van de aard van elke actie.
+3. In principe is voor elke samenwerkingsactie een bijdrage van de in [artikel 67](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=V&afdeling=A&artikel=67&z=2007-01-01&g=2007-01-01) bedoelde partners vereist. Aard en omvang van deze bijdrage worden bepaald in overeenstemming met de mogelijkheden van de betrokken partners en naar gelang van de aard van elke actie.
 
 4. Er kan worden gestreefd naar samenhang en complementariteit met de maatregelen van andere geldverschaffers, met name de lidstaten van de Europese Unie.
 
@@ -1065,13 +1065,13 @@ De voor financiële en technische bijstand in aanmerking komende samenwerkingspa
 
 ##### Artikel 69. Programmering
 
-1. De meerjarige indicatieve programmering op basis van specifieke doelstellingen gekozen in overeenstemming met de in [artikel 66](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=V&afdeling=A&artikel=66&z=2006-02-01&g=2006-02-01) aangegeven prioriteiten, waarbij voor een referentieperiode de voorwaarden worden vastgesteld met betrekking tot de opzet, de tenuitvoerlegging en de follow-up van de ontwikkelingssamenwerking en de in het kader daarvan gevoerde acties, heeft plaats in intensief overleg tussen de Gemeenschap en de regering van Zuid-Afrika en met de medewerking van de Europese Investeringsbank. De resultaten van de programmeringsgesprekken worden opgenomen in een door beide partijen ondertekend meerjarig indicatief programma.
+1. De meerjarige indicatieve programmering op basis van specifieke doelstellingen gekozen in overeenstemming met de in [artikel 66](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=V&afdeling=A&artikel=66&z=2007-01-01&g=2007-01-01) aangegeven prioriteiten, waarbij voor een referentieperiode de voorwaarden worden vastgesteld met betrekking tot de opzet, de tenuitvoerlegging en de follow-up van de ontwikkelingssamenwerking en de in het kader daarvan gevoerde acties, heeft plaats in intensief overleg tussen de Gemeenschap en de regering van Zuid-Afrika en met de medewerking van de Europese Investeringsbank. De resultaten van de programmeringsgesprekken worden opgenomen in een door beide partijen ondertekend meerjarig indicatief programma.
 
 2. Aan het meerjarig indicatief programma worden een gedetailleerde omschrijving van procedures en bepalingen betreffende de tenuitvoerlegging van en het toezicht op de ontwikkelingssamenwerking gehecht.
 
 ##### Artikel 70. Selectie, voorbereiding en beoordeling van projecten
 
-1. De verantwoordelijkheid voor het selecteren en voorbereiden van ontwikkelingsprojecten berust bij de regering van Zuid-Afrika (nationale ordonnateur als bedoeld in [artikel 80](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=V&afdeling=B&artikel=80&z=2006-02-01&g=2006-02-01)) of bij een andere in [artikel 67](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=V&afdeling=A&artikel=67&z=2006-02-01&g=2006-02-01) vermelde begunstigde instantie.
+1. De verantwoordelijkheid voor het selecteren en voorbereiden van ontwikkelingsprojecten berust bij de regering van Zuid-Afrika (nationale ordonnateur als bedoeld in [artikel 80](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=V&afdeling=B&artikel=80&z=2007-01-01&g=2007-01-01)) of bij een andere in [artikel 67](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=V&afdeling=A&artikel=67&z=2007-01-01&g=2007-01-01) vermelde begunstigde instantie.
 
 2. De voor financiering door de Gemeenschap ingediende project- of programmadossiers dienen alle voor de beoordeling ervan nodige gegevens te bevatten. Genoemde dossiers worden officieel bij het hoofd van de delegatie ingediend door de nationale ordonnateur of de andere in aanmerking komende instanties.
 
@@ -1089,7 +1089,7 @@ De voor financiële en technische bijstand in aanmerking komende samenwerkingspa
 
 - a. ofwel een financieringsovereenkomst opgesteld tussen de Commissie namens de Gemeenschap enerzijds en de nationale ordonnateur namens de regering van Zuid-Afrika of de begunstigde instantie anderzijds,
 
-- b. of een contract opgemaakt met internationale organisaties of rechtspersonen, natuurlijke personen of een andere in [artikel 67](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=V&afdeling=A&artikel=67&z=2006-02-01&g=2006-02-01) omschreven instantie verantwoordelijk voor de uitvoering van het project of programma.
+- b. of een contract opgemaakt met internationale organisaties of rechtspersonen, natuurlijke personen of een andere in [artikel 67](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=V&afdeling=A&artikel=67&z=2007-01-01&g=2007-01-01) omschreven instantie verantwoordelijk voor de uitvoering van het project of programma.
 
 2. Alle financieringsovereenkomsten of contracten voorzien in controles ter plaatse door de Commissie en de Europese Rekenkamer.
 
@@ -1241,7 +1241,7 @@ Om de doelstellingen van deze Overeenkomst te bereiken, ontvangt Zuid-Afrika fin
 
 De financiële bijstand in de vorm van schenkingen wordt gedekt door:
 
-- a. een in het kader van de Gemeenschapsbegroting in het leven geroepen speciale financiële faciliteit ter ondersteuning van de ontwikkelingssamenwerkingsactiviteiten genoemd in de [artikelen 65](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=V&afdeling=A&artikel=65&z=2006-02-01&g=2006-02-01) en [66](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=V&afdeling=A&artikel=66&z=2006-02-01&g=2006-02-01);
+- a. een in het kader van de Gemeenschapsbegroting in het leven geroepen speciale financiële faciliteit ter ondersteuning van de ontwikkelingssamenwerkingsactiviteiten genoemd in de [artikelen 65](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=V&afdeling=A&artikel=65&z=2007-01-01&g=2007-01-01) en [66](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=V&afdeling=A&artikel=66&z=2007-01-01&g=2007-01-01);
 
 - b. financiële middelen uit andere posten van de begroting van de Gemeenschap voor onder het toepassingsgebied van deze begrotingslijnen vallende ontwikkelings- en internationale samenwerkingsactiviteiten. Voor de indiening en goedkeuring van aanvragen, de uitvoering en de controle en evaluatie geldt de procedure overeenkomstig de algemene voorwaarden voor de desbetreffende begrotingslijn.
 
@@ -1327,7 +1327,7 @@ De partijen zullen deze Overeenkomst binnen vijf jaar na haar vankrachtwording o
 
 8. De Samenwerkingsraad stelt de arbitrageprocedure vast.
 
-9. Bij geschillen in het kader van de [Titels II](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=II&z=2006-02-01&g=2006-02-01) en [III](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=III&z=2006-02-01&g=2006-02-01) van deze Overeenkomst zijn de volgende procedures van toepassing:
+9. Bij geschillen in het kader van de [Titels II](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=II&z=2007-01-01&g=2007-01-01) en [III](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=III&z=2007-01-01&g=2007-01-01) van deze Overeenkomst zijn de volgende procedures van toepassing:
 
 - a. De aanstelling van een tweede arbiter moet binnen dertig dagen geschieden.
 
@@ -1339,7 +1339,7 @@ De partijen zullen deze Overeenkomst binnen vijf jaar na haar vankrachtwording o
 
 - e. Indien het redelijkerwijs niet mogelijk is onmiddellijk aan de bevindingen en besluiten van de Samenwerkingsraad of de arbiters te voldoen, wordt daartoe aan de betrokken partij een redelijke termijn verleend. Deze redelijke termijn mag niet langer zijn dan vijftien maanden vanaf het tijdstip van de voorlegging van de bevindingen en besluiten aan de partijen. Bedoelde termijn kan evenwel met wederzijdse instemming van de partijen, afhankelijk van de bijzondere omstandigheden, worden verkort of verlengd.
 
-10. Onverminderd hun recht een beroep te doen op de geschillenbeslechtingsprocedures van de WTO streven de Europese Gemeenschap en Zuid-Afrika ernaar geschillen met betrekking tot specifieke verplichtingen voortvloeiende uit de [Titels II](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=II&z=2006-02-01&g=2006-02-01) en [III](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=III&z=2006-02-01&g=2006-02-01) van deze Overeenkomst te beslechten door een beroep te doen op de specifieke geschillenbeslechtingsbepalingen van deze Overeenkomst. In het kader van krachtens deze Overeenkomst vastgestelde arbitrageprocedures zullen geen kwesties betreffende de WTO-rechten en -plichten van elke partij aan de orde worden gesteld, tenzij de partijen overeenkomen dergelijke kwesties aan arbitrage te onderwerpen.
+10. Onverminderd hun recht een beroep te doen op de geschillenbeslechtingsprocedures van de WTO streven de Europese Gemeenschap en Zuid-Afrika ernaar geschillen met betrekking tot specifieke verplichtingen voortvloeiende uit de [Titels II](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=II&z=2007-01-01&g=2007-01-01) en [III](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=III&z=2007-01-01&g=2007-01-01) van deze Overeenkomst te beslechten door een beroep te doen op de specifieke geschillenbeslechtingsbepalingen van deze Overeenkomst. In het kader van krachtens deze Overeenkomst vastgestelde arbitrageprocedures zullen geen kwesties betreffende de WTO-rechten en -plichten van elke partij aan de orde worden gesteld, tenzij de partijen overeenkomen dergelijke kwesties aan arbitrage te onderwerpen.
 
 ##### Artikel 105. Clausule betreffende bilaterale overeenkomsten
 
@@ -1357,7 +1357,7 @@ De protocollen en bijlagen vormen een integrerend deel van de Overeenkomst.
 
 ##### Artikel 108. Talen en aantal originelen
 
-Deze overeenkomst is opgesteld in twee exemplaren in de Deense, de Duitse, de Engelse, de Estse, de Finse, de Franse, de Griekse, de Hongaarse, de Italiaanse, de Letse, de Litouwse, de Maltese, de Nederlandse, de Poolse, de Portugese, de Sloveense, de Slowaakse, de Spaanse, de Tsjechische en de Zweedse taal en in de officiële talen van Zuid-Afrika andere dan het Engels, namelijk het Sepedi, het Sesotho, het Setswana, het siSwati, het Tshivenda, het Xitsonga, het Afrikaans, het isiNdebele, het isiXhosa en het isiZulu, zijnde alle teksten gelijkelijk authentiek.
+Deze overeenkomst is in twee exemplaren opgesteld in de Bulgaarse, de Deense, de Duitse, de Engelse, de Estse, de Finse, de Franse, de Griekse, de Hongaarse, de Italiaanse, de Letse, de Litouwse, de Maltese, de Nederlandse, de Poolse, de Portugese, de Roemeense, de Sloveense, de Slowaakse, de Spaanse, de Tsjechische en de Zweedse taal en in de officiële talen van Zuid-Afrika andere dan het Engels, namelijk het Sepedi, het Sesotho, het Setswana, het siSwati, het Tshivenda, het Xitsonga, het Afrikaans, het isiNdebele, het isiXhosa en het isiZulu, waarbij al deze teksten gelijkelijk authentiek zijn.
 
 ##### Artikel 109. Inwerkingtreding
 
@@ -1405,21 +1405,21 @@ Voor de toepassing van dit Protocol wordt verstaan onder:
 
 1. Voor de toepassing van deze Overeenkomst worden de volgende producten beschouwd van oorsprong te zijn uit de Gemeenschap:
 
-- a. geheel en al in de Gemeenschap verkregen producten in de zin van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=II&artikel=4&z=2006-02-01&g=2006-02-01) van dit Protocol;
+- a. geheel en al in de Gemeenschap verkregen producten in de zin van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=II&artikel=4&z=2007-01-01&g=2007-01-01) van dit Protocol;
 
-- b. in de Gemeenschap verkregen producten, waarin materialen zijn verwerkt die daar niet geheel en al zijn verkregen, mits deze materialen in de Gemeenschap een be- of verwerking hebben ondergaan die toereikend is in de zin van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=II&artikel=5&z=2006-02-01&g=2006-02-01) van dit Protocol.
+- b. in de Gemeenschap verkregen producten, waarin materialen zijn verwerkt die daar niet geheel en al zijn verkregen, mits deze materialen in de Gemeenschap een be- of verwerking hebben ondergaan die toereikend is in de zin van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=II&artikel=5&z=2007-01-01&g=2007-01-01) van dit Protocol.
 
 2. Voor de toepassing van deze Overeenkomst worden de volgende producten beschouwd van oorsprong te zijn uit Zuid-Afrika:
 
-- a. geheel en al in Zuid-Afrika verkregen producten, in de zin van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=II&artikel=4&z=2006-02-01&g=2006-02-01) van dit Protocol;
+- a. geheel en al in Zuid-Afrika verkregen producten, in de zin van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=II&artikel=4&z=2007-01-01&g=2007-01-01) van dit Protocol;
 
-- b. in Zuid-Afrika verkregen producten, waarin materialen zijn verwerkt die daar niet geheel en al zijn verkregen, mits deze materialen in Zuid-Afrika een be- of verwerking hebben ondergaan die toereikend is in de zin van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=II&artikel=5&z=2006-02-01&g=2006-02-01) van dit Protocol.
+- b. in Zuid-Afrika verkregen producten, waarin materialen zijn verwerkt die daar niet geheel en al zijn verkregen, mits deze materialen in Zuid-Afrika een be- of verwerking hebben ondergaan die toereikend is in de zin van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=II&artikel=5&z=2007-01-01&g=2007-01-01) van dit Protocol.
 
 ##### Artikel 3. Cumulatie van de oorsprong
 
-1. Materialen van oorsprong uit de Gemeenschap worden beschouwd materialen van oorsprong uit Zuid-Afrika te zijn indien ze in een aldaar verkregen product zijn opgenomen. Het is niet noodzakelijk dat deze materialen een toereikende be- of verwerking hebben ondergaan, mits ze evenwel een be- of verwerking hebben ondergaan die meer omvat dan de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=II&artikel=6&z=2006-02-01&g=2006-02-01) van dit Protocol genoemde be- of verwerkingen.
+1. Materialen van oorsprong uit de Gemeenschap worden beschouwd materialen van oorsprong uit Zuid-Afrika te zijn indien ze in een aldaar verkregen product zijn opgenomen. Het is niet noodzakelijk dat deze materialen een toereikende be- of verwerking hebben ondergaan, mits ze evenwel een be- of verwerking hebben ondergaan die meer omvat dan de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=II&artikel=6&z=2007-01-01&g=2007-01-01) van dit Protocol genoemde be- of verwerkingen.
 
-2. Materialen van oorsprong uit Zuid-Afrika worden beschouwd materialen van oorsprong uit de Gemeenschap te zijn wanneer ze in een aldaar verkregen product zijn opgenomen. Het is niet noodzakelijk dat deze materialen een toereikende be- of verwerking hebben ondergaan, mits ze evenwel een be- of verwerking hebben ondergaan die meer omvat dan de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=II&artikel=6&z=2006-02-01&g=2006-02-01) van dit Protocol genoemde be- of verwerkingen.
+2. Materialen van oorsprong uit Zuid-Afrika worden beschouwd materialen van oorsprong uit de Gemeenschap te zijn wanneer ze in een aldaar verkregen product zijn opgenomen. Het is niet noodzakelijk dat deze materialen een toereikende be- of verwerking hebben ondergaan, mits ze evenwel een be- of verwerking hebben ondergaan die meer omvat dan de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=II&artikel=6&z=2007-01-01&g=2007-01-01) van dit Protocol genoemde be- of verwerkingen.
 
 3. Onder voorbehoud van het bepaalde in de leden 5 en 6 worden materialen van oorsprong uit een ACS-land beschouwd van oorsprong uit de Gemeenschap of Zuid-Afrika te zijn indien zij in een aldaar verkregen product zijn opgenomen. Het is niet noodzakelijk dat deze materialen een toereikende be- of verwerking hebben ondergaan.
 
@@ -1475,7 +1475,7 @@ Bij de inwerkingtreding van de tariefconcessies voor visserijproducten wordt lid
 
 ##### Artikel 5. Toereikende bewerking of verwerking
 
-1. Niet geheel en al verkregen producten worden geacht een toereikende bewerking of verwerking te hebben ondergaan in de zin van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=II&artikel=2&z=2006-02-01&g=2006-02-01), indien aan de voorwaarden van de lijst in bijlage II is voldaan.
+1. Niet geheel en al verkregen producten worden geacht een toereikende bewerking of verwerking te hebben ondergaan in de zin van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=II&artikel=2&z=2007-01-01&g=2007-01-01), indien aan de voorwaarden van de lijst in bijlage II is voldaan.
 
 In deze lijst is voor alle onder deze Overeenkomst vallende producten aangegeven welke be- of verwerkingen niet van oorsprong zijnde materialen moeten ondergaan om het karakter van product van oorsprong te verkrijgen en zijn slechts op deze materialen van toepassing. Dit betekent dat indien een product dat de oorsprong heeft verkregen doordat het aan de voorwaarden in die lijst voor dat product heeft voldaan, als materiaal gebruikt wordt bij de vervaardiging van een ander product, de voorwaarden die van toepassing zijn op het product waarin het wordt verwerkt daarvoor niet gelden. Er wordt dan geen rekening gehouden met de niet van oorsprong zijnde materialen die bij de vervaardiging ervan kunnen zijn gebruikt.
 
@@ -1487,11 +1487,11 @@ In deze lijst is voor alle onder deze Overeenkomst vallende producten aangegeven
 
 Dit lid is niet van toepassing op de producten die onder de hoofdstukken 50 tot en met 63 van het geharmoniseerd systeem zijn ingedeeld.
 
-3. De leden 1 en 2 zijn van toepassing onder voorbehoud van het bepaalde in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=II&artikel=6&z=2006-02-01&g=2006-02-01).
+3. De leden 1 en 2 zijn van toepassing onder voorbehoud van het bepaalde in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=II&artikel=6&z=2007-01-01&g=2007-01-01).
 
 ##### Artikel 6. Ontoereikende bewerking of verwerking
 
-1. Behoudens het bepaalde in lid 2 worden de volgende be- of verwerkingen als ontoereikend beschouwd om de oorsprong te verlenen, ongeacht of aan de voorwaarden van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=II&artikel=5&z=2006-02-01&g=2006-02-01) is voldaan:
+1. Behoudens het bepaalde in lid 2 worden de volgende be- of verwerkingen als ontoereikend beschouwd om de oorsprong te verlenen, ongeacht of aan de voorwaarden van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=II&artikel=5&z=2007-01-01&g=2007-01-01) is voldaan:
 
 - a. behandelingen om de producten tijdens vervoer en opslag in goede staat te bewaren (luchten, uitspreiden, drogen, koelen, in water zetten waaraan zout, zwaveldioxide of andere producten zijn toegevoegd, verwijderen van beschadigde gedeelten en soortgelijke behandelingen);
 
@@ -1551,9 +1551,9 @@ Om te bepalen of een product van oorsprong is, is het niet noodzakelijk de oorsp
 
 ##### Artikel 11. Territorialiteitsbeginsel
 
-1. Behoudens het bepaalde in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=II&artikel=3&z=2006-02-01&g=2006-02-01), moet aan de in titel II genoemde voorwaarden met betrekking tot het verkrijgen van de oorsprong zonder onderbreking in de Gemeenschap of in Zuid-Afrika zijn voldaan.
+1. Behoudens het bepaalde in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=II&artikel=3&z=2007-01-01&g=2007-01-01), moet aan de in titel II genoemde voorwaarden met betrekking tot het verkrijgen van de oorsprong zonder onderbreking in de Gemeenschap of in Zuid-Afrika zijn voldaan.
 
-2. Producten van oorsprong die uit de Gemeenschap of Zuid-Afrika naar een ander land worden uitgevoerd en daarna weer worden ingevoerd, worden, behoudens het bepaalde in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=II&artikel=3&z=2006-02-01&g=2006-02-01), niet langer als producten van oorsprong beschouwd, tenzij ten genoegen van de douaneautoriteiten kan worden aangetoond dat:
+2. Producten van oorsprong die uit de Gemeenschap of Zuid-Afrika naar een ander land worden uitgevoerd en daarna weer worden ingevoerd, worden, behoudens het bepaalde in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=II&artikel=3&z=2007-01-01&g=2007-01-01), niet langer als producten van oorsprong beschouwd, tenzij ten genoegen van de douaneautoriteiten kan worden aangetoond dat:
 
 - a. de wederingevoerde goederen dezelfde goederen zijn als de eerder uitgevoerde goederen; en
 
@@ -1561,7 +1561,7 @@ Om te bepalen of een product van oorsprong is, is het niet noodzakelijk de oorsp
 
 ##### Artikel 12. Rechtstreeks vervoer
 
-1. De bij deze Overeenkomst vastgestelde preferentiële regeling is uitsluitend van toepassing op producten die aan de voorwaarden van dit Protocol voldoen en die rechtstreeks tussen de Gemeenschap en Zuid-Afrika, of via het grondgebied van de andere in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=II&artikel=3&z=2006-02-01&g=2006-02-01) bedoelde landen zijn vervoerd. Producten die één enkele zending vormen, kunnen via een ander grondgebied worden vervoerd, eventueel met overslag of tijdelijke opslag op dit grondgebied, voorzover ze in het land van doorvoer of opslag onder toezicht van de douane blijven en aldaar geen andere behandelingen ondergaan dan lossen en opnieuw laden of behandelingen om ze in goede staat te bewaren.
+1. De bij deze Overeenkomst vastgestelde preferentiële regeling is uitsluitend van toepassing op producten die aan de voorwaarden van dit Protocol voldoen en die rechtstreeks tussen de Gemeenschap en Zuid-Afrika, of via het grondgebied van de andere in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=II&artikel=3&z=2007-01-01&g=2007-01-01) bedoelde landen zijn vervoerd. Producten die één enkele zending vormen, kunnen via een ander grondgebied worden vervoerd, eventueel met overslag of tijdelijke opslag op dit grondgebied, voorzover ze in het land van doorvoer of opslag onder toezicht van de douane blijven en aldaar geen andere behandelingen ondergaan dan lossen en opnieuw laden of behandelingen om ze in goede staat te bewaren.
 
 Het vervoer per pijpleiding van producten van oorsprong mag via een ander grondgebied dan dat van de Gemeenschap of van Zuid-Afrika geschieden.
 
@@ -1581,7 +1581,7 @@ Het vervoer per pijpleiding van producten van oorsprong mag via een ander grondg
 
 ##### Artikel 13. Tentoonstellingen
 
-1. De Overeenkomst is van toepassing op producten van oorsprong die naar een tentoonstelling in een ander dan een van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=II&artikel=3&z=2006-02-01&g=2006-02-01) bedoeld landen zijn verzonden en die na de tentoonstelling in de Gemeenschap of in Zuid-Afrika worden ingevoerd, mits ten genoegen van de douaneautoriteiten wordt aangetoond dat:
+1. De Overeenkomst is van toepassing op producten van oorsprong die naar een tentoonstelling in een ander dan een van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=II&artikel=3&z=2007-01-01&g=2007-01-01) bedoeld landen zijn verzonden en die na de tentoonstelling in de Gemeenschap of in Zuid-Afrika worden ingevoerd, mits ten genoegen van de douaneautoriteiten wordt aangetoond dat:
 
 - a. een exporteur deze producten vanuit de Gemeenschap of Zuid-Afrika naar het land van de tentoonstelling heeft verzonden en deze daar heeft tentoongesteld;
 
@@ -1603,9 +1603,9 @@ Het vervoer per pijpleiding van producten van oorsprong mag via een ander grondg
 
 - a. een certificaat inzake goederenverkeer EUR.1, waarvan het model in bijlage III is opgenomen; of
 
-- b. in de in [artikel 19, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=IV&artikel=19&z=2006-02-01&g=2006-02-01), bedoelde gevallen, een verklaring van de exporteur, waarvan de tekst in bijlage IV is opgenomen, op een factuur, pakbon of een ander handelsdocument en waarin de producten duidelijk genoeg zijn omschreven om geïdentificeerd te kunnen worden (hierna „factuurverklaring” genoemd).
+- b. in de in [artikel 19, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=IV&artikel=19&z=2007-01-01&g=2007-01-01), bedoelde gevallen, een verklaring van de exporteur, waarvan de tekst in bijlage IV is opgenomen, op een factuur, pakbon of een ander handelsdocument en waarin de producten duidelijk genoeg zijn omschreven om geïdentificeerd te kunnen worden (hierna „factuurverklaring” genoemd).
 
-2. In afwijking van lid 1 vallen producten van oorsprong in de zin van dit Protocol in de in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=IV&artikel=24&z=2006-02-01&g=2006-02-01) bedoelde gevallen onder de toepassing van deze Overeenkomst zonder dat een van de hierboven genoemde documenten behoeft te worden overgelegd.
+2. In afwijking van lid 1 vallen producten van oorsprong in de zin van dit Protocol in de in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=IV&artikel=24&z=2007-01-01&g=2007-01-01) bedoelde gevallen onder de toepassing van deze Overeenkomst zonder dat een van de hierboven genoemde documenten behoeft te worden overgelegd.
 
 ##### Artikel 15. Procedure voor de afgifte van een certificaat inzake goederenverkeer EUR.1
 
@@ -1615,7 +1615,7 @@ Het vervoer per pijpleiding van producten van oorsprong mag via een ander grondg
 
 3. De exporteur die om de afgifte van een EUR.1-certificaat verzoekt, dient op verzoek van de douaneautoriteiten van het land van uitvoer waar dit certificaat wordt afgegeven, steeds bereid te zijn de nodige documenten te overleggen waaruit blijkt dat de betrokken producten van oorsprong zijn en dat aan de andere voorwaarden van dit Protocol is voldaan.
 
-4. Het EUR.1-certificaat wordt afgegeven door de douaneautoriteiten van een lidstaat van de Europese Gemeenschap of van Zuid-Afrika indien de uit te voeren goederen kunnen worden beschouwd als producten van oorsprong uit de Gemeenschap, uit Zuid-Afrika of uit een van de andere in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=II&artikel=3&z=2006-02-01&g=2006-02-01) bedoelde landen en indien aan de andere voorwaarden van dit Protocol is voldaan.
+4. Het EUR.1-certificaat wordt afgegeven door de douaneautoriteiten van een lidstaat van de Europese Gemeenschap of van Zuid-Afrika indien de uit te voeren goederen kunnen worden beschouwd als producten van oorsprong uit de Gemeenschap, uit Zuid-Afrika of uit een van de andere in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=II&artikel=3&z=2007-01-01&g=2007-01-01) bedoelde landen en indien aan de andere voorwaarden van dit Protocol is voldaan.
 
 5. De met de afgifte van EUR.1-certificaten belaste douaneautoriteiten nemen alle nodige maatregelen om te controleren of de producten inderdaad van oorsprong zijn en of aan alle andere voorwaarden van dit Protocol is voldaan. Met het oog hierop zijn zij gerechtigd bewijsstukken op te vragen, de boekhouding van de exporteur in te zien en alle andere controles te verrichten die zij dienstig achten. Deze douaneautoriteiten zien er ook op toe dat de in lid 2 bedoelde formulieren correct zijn ingevuld. Zij gaan met name na of het voor de omschrijving van de goederen bestemde vak zo is ingevuld dat frauduleuze toevoegingen niet mogelijk zijn.
 
@@ -1635,47 +1635,49 @@ Het vervoer per pijpleiding van producten van oorsprong mag via een ander grondg
 
 3. De douaneautoriteiten kunnen eerst tot afgifte achteraf van een EUR.1-certificaat overgaan na te hebben vastgesteld dat de gegevens in de aanvraag van de exporteur overeenstemmen met die in het desbetreffende dossier.
 
-4. Op een achteraf afgegeven EUR.1-certificaat wordt een van de volgende aantekeningen aangebracht:
+4. Op achteraf afgegeven certificaten inzake goederenverkeer EUR.1 moet een van de volgende vermeldingen worden aangebracht:
 
-**ES** „EXPEDIDO A POSTERIORI"
+ES „EXPEDIDO A POSTERIORI”
 
-**CS** „VYSTAVENO DODATEČNĚ"
+CS „VYSTAVENO DODATEČNĚ”
 
-**DA** „UDSTEDT EFTERFØLGENDE"
+DA „UDSTEDT EFTERFØLGENDE”
 
-**DE** „NACHTRÄGLICH AUSGESTELLT"
+DE „NACHTRÄGLICH AUSGESTELLT”
 
-**ET** „TAGANTJÄRELE VÄLJA ANTUD"
+ET „TAGANTJÄRELE VÄLJA ANTUD”
 
-**EL** „ΕΚΔΟΘΕΝ ΕΚ ΤΩΝ ΥΣΤΕΡΩΝ"
+EL „ΕΚ∆ΟΘΕΝ ΕΚ ΤΩΝ ΥΣΤΕΡΩΝ”
 
-**EN** „ISSUED RETROSPECTIVELY"
+EN „ISSUED RETROSPECTIVELY”
 
-**FR** „DÉLIVRÉ A POSTERIORI"
+FR „DÉLIVRÉ A POSTERIORI”
 
-**IT** „RILASCIATO A POSTERIORI"
+IT „RILASCIATO A POSTERIORI”
 
-**LV** „IZSNIEGTS RETROSPEKTIVI"
+LV „IZSNIEGTS RETROSPEKTĪVI”
 
-**LT** „RETROSPEKTYVUSIS IŠDAVIMAS"
+LT „RETROSPEKTYVUSIS IŠDAVIMAS”
 
-**HU** „KIADVA VISSZAMENÕLEGES HATÁLLYAL"
+HU „KIADVA VISSZAMENŐLEGES HATÁLLYAL”
 
-**MT**„MAHRUG RETROSPETTIVAMENT"
+MT „MAĦRUĠ RETROSPETTIVAMENT”
 
-**NL** „AFGEGEVEN A POSTERIORI"
+NL „AFGEGEVEN A POSTERIORI”
 
-**PL** „WYSTAWIONE RETROSPEKTYWNIE"
+PL „WYSTAWIONE RETROSPEKTYWNIE”
 
-**PT** „EMITIDO A POSTERIORI"
+PT „EMITIDO A POSTERIORI”
 
-**SL** „IZDANO NAKNADNO"
+RO „EMIS A POSTERIORI”
 
-**SK** „VYDANÉ DODATOČNE"
+SL „IZDANO NAKNADNO”
 
-**FI** „ANNETTU JÄLKIKÄTEEN"
+SK „VYDANÉ DODATOČNE”
 
-**SV** „UTFÄRDAT I EFTERHAND"
+FI „ANNETTU JÄLKIKÄTEEN”
+
+SV „UTFÄRDAT I EFTERHAND”;”
 
 5. De in lid 4 bedoelde aantekening wordt aangebracht in het vak „Opmerkingen" van het EUR.1-certificaat.
 
@@ -1683,47 +1685,49 @@ Het vervoer per pijpleiding van producten van oorsprong mag via een ander grondg
 
 1. In geval van diefstal, verlies of vernietiging van een EUR.1-certificaat, kan de exporteur de douaneautoriteiten die dit certificaat hadden afgegeven, verzoeken een duplicaat op te maken aan de hand van de uitvoerdocumenten die in hun bezit zijn.
 
-2. Op het aldus afgegeven duplicaat wordt een van de volgende aantekeningen aangebracht:
+2. Op het aldus afgegeven certificaat wordt een van de volgende vermeldingen aangebracht:
 
-**ES** „DUPLICADO"
+ES „DUPLICADO”
 
-**CS** „DUPLIKÁT"
+CS „DUPLIKÁT”
 
-**DA** „DUPLIKAT"
+DA „DUPLIKAT”
 
-**DE** „DUPLIKAT"
+DE „DUPLIKAT”
 
-**ET** „DUPLIKAAT"
+ET „DUPLIKAAT”
 
-**EL** „ΑΝΤΙΓΡΑΦΩ"
+EL „ΑΝΤΙΓΡΑΦΟ”
 
-**EN** „DUPLICATE"
+EN „DUPLICATE”
 
-**FR** „DUPLICATA"
+FR „DUPLICATA”
 
-**IT** „DUPLICATO"
+IT „DUPLICATO”
 
-**LV** „DUBLIKATS"
+LV „DUBLIKĀTS”
 
-**LT** „DUBLIKATAS"
+LT „DUBLIKATAS”
 
-**HU** „MÁSODLAT"
+HU „MÁSODLAT”
 
-**MT** „DUPLIKAT"
+MT „DUPLIKAT”
 
-**NL** „DUPLICAAT"
+NL „DUPLICAAT”
 
-**PL** „DUPLIKAT"
+PL „DUPLIKAT”
 
-**PT** „SEGUNDA VIA"
+PT „SEGUNDA VIA”
 
-**SL** „DVOJNIK"
+RO „DUPLICAT”
 
-**SK** „DUPLIKÁT"
+SL „DVOJNIK”
 
-**FI** „KAKSOISKAPPALE"
+SK „DUPLIKÁT”
 
-**SV** „DUPLIKAT"";
+FI „KAKSOISKAPPALE”
+
+SV „DUPLIKAT”;”
 
 3. De in lid 2 bedoelde aantekening wordt aangebracht in het vak „Opmerkingen" van het duplicaat van het EUR.1-certificaat.
 
@@ -1737,7 +1741,7 @@ Voor producten van oorsprong die in de Gemeenschap of Zuid-Afrika onder toezicht
 
 1. De in artikel 14, lid 1, onder b), genoemde factuurverklaring kan worden opgesteld door:
 
-- a. een toegelaten exporteur in de zin van [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=IV&artikel=20&z=2006-02-01&g=2006-02-01);
+- a. een toegelaten exporteur in de zin van [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=IV&artikel=20&z=2007-01-01&g=2007-01-01);
 
 - b. elke andere exporteur, voor zendingen bestaande uit een of meer colli die producten van oorsprong bevatten waarvan de totale waarde niet meer dan 6000 euro bedraagt.
 
@@ -1747,7 +1751,7 @@ Voor producten van oorsprong die in de Gemeenschap of Zuid-Afrika onder toezicht
 
 4. Deze factuurverklaring, waarvan de tekst in bijlage IV is opgenomen, wordt door de exporteur op de factuur, de pakbon of een ander handelsdocument getypt, gestempeld of gedrukt in een van de in die bijlage opgenomen taalversies, overeenkomstig de bepalingen van het nationale recht van het land van uitvoer. Indien de factuurverklaring met de hand wordt opgesteld, geschiedt dit met inkt en in blokletters.
 
-5. De factuurverklaring wordt door de exporteur eigenhandig ondertekend. Een toegelaten exporteur in de zin van [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=IV&artikel=20&z=2006-02-01&g=2006-02-01) behoeft deze verklaring echter niet te ondertekenen, mits hij de douaneautoriteiten een schriftelijke verklaring doet toekomen waarin hij de volle verantwoordelijkheid op zich neemt voor alle factuurverklaringen waaruit zijn identiteit blijkt alsof hij deze eigenhandig had ondertekend.
+5. De factuurverklaring wordt door de exporteur eigenhandig ondertekend. Een toegelaten exporteur in de zin van [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=IV&artikel=20&z=2007-01-01&g=2007-01-01) behoeft deze verklaring echter niet te ondertekenen, mits hij de douaneautoriteiten een schriftelijke verklaring doet toekomen waarin hij de volle verantwoordelijkheid op zich neemt voor alle factuurverklaringen waaruit zijn identiteit blijkt alsof hij deze eigenhandig had ondertekend.
 
 6. Een factuurverklaring kan door de exporteur worden opgesteld bij de uitvoer van de producten waarop zij betrekking heeft of later, maar moet uiterlijk twee jaar na de invoer van de producten waarop ze betrekking heeft in het land van invoer worden aangeboden.
 
@@ -1797,31 +1801,31 @@ Wanneer, op verzoek van de importeur en op de door de douaneautoriteiten van het
 
 4. Zuid-Afrika verzoekt de bevoegde autoriteiten in de SACU de leveranciersverklaringen door middel van steekproeven te1)[Red: In het orgineel staat hier „de".]controleren en wanneer zij redenen hebben om te twijfelen aan de echtheid of juistheid van de verstrekte gegevens.
 
-5. Zuid-Afrika treft de nodige administratieve regelingen met de bevoegde autoriteiten in de SACU om te waarborgen dat het bepaalde in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=II&artikel=4&z=2006-02-01&g=2006-02-01) volledig wordt nageleefd.
+5. Zuid-Afrika treft de nodige administratieve regelingen met de bevoegde autoriteiten in de SACU om te waarborgen dat het bepaalde in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=II&artikel=4&z=2007-01-01&g=2007-01-01) volledig wordt nageleefd.
 
 ##### Artikel 26. Bewijsstukken
 
-De in [artikel 15, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=IV&artikel=15&z=2006-02-01&g=2006-02-01), en [artikel 19, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=IV&artikel=19&z=2006-02-01&g=2006-02-01), bedoelde documenten aan de hand waarvan wordt aangetoond dat producten die door een EUR.1-certificaat of een factuurverklaring worden gedekt producten van oorsprong zijn uit de Gemeenschap, uit Zuid-Afrika of uit een van de andere in lid 3 bedoelde landen en aan de andere voorwaarden van dit Protocol voldoen, kunnen onder meer de volgende zijn:
+De in [artikel 15, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=IV&artikel=15&z=2007-01-01&g=2007-01-01), en [artikel 19, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=IV&artikel=19&z=2007-01-01&g=2007-01-01), bedoelde documenten aan de hand waarvan wordt aangetoond dat producten die door een EUR.1-certificaat of een factuurverklaring worden gedekt producten van oorsprong zijn uit de Gemeenschap, uit Zuid-Afrika of uit een van de andere in lid 3 bedoelde landen en aan de andere voorwaarden van dit Protocol voldoen, kunnen onder meer de volgende zijn:
 
 - a. een rechtstreeks bewijs van de be- of verwerkingen die de exporteur of leverancier heeft verricht om de betrokken producten te verkrijgen, bij voorbeeld aan de hand van diens boekhouding of interne administratie;
 
-- b. documenten waaruit de oorsprong van de gebruikte materialen blijkt en die in de Gemeenschap, in Zuid-Afrika of in een van de andere in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=II&artikel=3&z=2006-02-01&g=2006-02-01) bedoelde landen zijn afgegeven of opgesteld en daar volgens het nationale recht worden gebruikt;
+- b. documenten waaruit de oorsprong van de gebruikte materialen blijkt en die in de Gemeenschap, in Zuid-Afrika of in een van de andere in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=II&artikel=3&z=2007-01-01&g=2007-01-01) bedoelde landen zijn afgegeven of opgesteld en daar volgens het nationale recht worden gebruikt;
 
 - c. documenten waaruit de be- of verwerking van materialen in de Gemeenschap of in Zuid-Afrika blijkt en die in de Gemeenschap of in Zuid-Afrika zijn afgegeven of opgesteld en daar volgens het nationale recht worden gebruikt;
 
-- d. EUR.1-certificaten of factuurverklaringen waaruit de oorsprong van de gebruikte materialen blijkt en die overeenkomstig dit Protocol in de Gemeenschap of in Zuid-Afrika zijn afgegeven of opgesteld, of die overeenkomstig [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=II&artikel=3&z=2006-02-01&g=2006-02-01) in een van de andere in dat artikel bedoelde landen zijn afgegeven of opgesteld;
+- d. EUR.1-certificaten of factuurverklaringen waaruit de oorsprong van de gebruikte materialen blijkt en die overeenkomstig dit Protocol in de Gemeenschap of in Zuid-Afrika zijn afgegeven of opgesteld, of die overeenkomstig [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=II&artikel=3&z=2007-01-01&g=2007-01-01) in een van de andere in dat artikel bedoelde landen zijn afgegeven of opgesteld;
 
-- e. leveranciersverklaringen waaruit de be- of verwerkingen blijken die de gebruikte materialen in de SACU hebben ondergaan overeenkomstig [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=II&artikel=3&z=2006-02-01&g=2006-02-01).
+- e. leveranciersverklaringen waaruit de be- of verwerkingen blijken die de gebruikte materialen in de SACU hebben ondergaan overeenkomstig [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=II&artikel=3&z=2007-01-01&g=2007-01-01).
 
 ##### Artikel 27. Bewaring van oorsprongsbewijzen, leveranciersverklaringen en andere bewijsstukken
 
-1. De exporteur die om de afgifte van een EUR.1-certificaat verzoekt, bewaart de in [artikel 15, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=IV&artikel=15&z=2006-02-01&g=2006-02-01), bedoelde bewijsstukken gedurende ten minste drie jaar.
+1. De exporteur die om de afgifte van een EUR.1-certificaat verzoekt, bewaart de in [artikel 15, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=IV&artikel=15&z=2007-01-01&g=2007-01-01), bedoelde bewijsstukken gedurende ten minste drie jaar.
 
-2. De exporteur die een factuurverklaring heeft opgesteld, bewaart een kopie van deze factuurverklaring en van de in [artikel 19, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=IV&artikel=19&z=2006-02-01&g=2006-02-01), bedoelde documenten gedurende ten minste drie jaar.
+2. De exporteur die een factuurverklaring heeft opgesteld, bewaart een kopie van deze factuurverklaring en van de in [artikel 19, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=IV&artikel=19&z=2007-01-01&g=2007-01-01), bedoelde documenten gedurende ten minste drie jaar.
 
 3. De leverancier die een leveranciersverklaring opstelt bewaart kopieën van zijn verklaring en van de factuur, de pakbon of het andere handelsdocument waaraan zijn verklaring was gehecht en alle andere documenten waaruit blijkt dat de verstrekte gegevens juist zijn gedurende ten minste drie jaar.
 
-4. De douaneautoriteiten van het land van uitvoer die een EUR.1-certificaat afgeven bewaren het in [artikel 15, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=IV&artikel=15&z=2006-02-01&g=2006-02-01), bedoelde aanvraagformulier gedurende ten minste drie jaar.
+4. De douaneautoriteiten van het land van uitvoer die een EUR.1-certificaat afgeven bewaren het in [artikel 15, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=IV&artikel=15&z=2007-01-01&g=2007-01-01), bedoelde aanvraagformulier gedurende ten minste drie jaar.
 
 5. De douaneautoriteiten van het land van invoer bewaren de EUR.1-certificaten en factuurverklaringen die bij hen werden ingediend gedurende ten minste drie jaar.
 
@@ -1865,7 +1869,7 @@ De in [artikel 15, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeld
 
 ##### Artikel 32. Regeling van geschillen
 
-1. Geschillen ten aanzien van de in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=V&artikel=31&z=2006-02-01&g=2006-02-01) bedoelde controles die niet onderling geregeld kunnen worden tussen de douaneautoriteiten die de controle hebben aangevraagd en de douaneautoriteiten die deze hebben moeten uitvoeren, en problemen in verband met de interpretatie van dit Protocol, worden aan de Samenwerkingsraad voorgelegd.
+1. Geschillen ten aanzien van de in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=V&artikel=31&z=2007-01-01&g=2007-01-01) bedoelde controles die niet onderling geregeld kunnen worden tussen de douaneautoriteiten die de controle hebben aangevraagd en de douaneautoriteiten die deze hebben moeten uitvoeren, en problemen in verband met de interpretatie van dit Protocol, worden aan de Samenwerkingsraad voorgelegd.
 
 2. In alle gevallen is de wetgeving van het land van invoer van toepassing op de regeling van geschillen tussen een importeur en de douaneautoriteiten van het land van invoer.
 
@@ -1887,11 +1891,11 @@ Tegen eenieder die een document met onjuiste gegevens opstelt of laat opstellen 
 
 2. Producten van oorsprong uit Zuid-Afrika die in Ceuta of Melilla worden ingevoerd vallen in elk opzicht onder dezelfde douaneregeling als de regeling die op grond van [Protocol 2 bij de Akte van Toetreding van het Koninkrijk Spanje en de Republiek Portugal tot de Europese Gemeenschappen](onbekend) van toepassing is op producten van oorsprong uit het douanegebied van de Gemeenschap. Zuid-Afrika past op onder de Overeenkomst vallende producten van oorsprong uit Ceuta en Melilla dezelfde regeling toe als op producten van oorsprong uit de Gemeenschap die uit de Gemeenschap worden ingevoerd.
 
-3. Bij toepassing van lid 2 op producten van oorsprong uit Ceuta en Melilla, is dit Protocol van overeenkomstige toepassing met inachtneming van de bijzondere voorwaarden van [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=VI&artikel=36&z=2006-02-01&g=2006-02-01).
+3. Bij toepassing van lid 2 op producten van oorsprong uit Ceuta en Melilla, is dit Protocol van overeenkomstige toepassing met inachtneming van de bijzondere voorwaarden van [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=VI&artikel=36&z=2007-01-01&g=2007-01-01).
 
 ##### Artikel 36. Bijzondere voorwaarden
 
-1. Mits zij rechtstreeks zijn vervoerd overeenkomstig het bepaalde in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=III&artikel=12&z=2006-02-01&g=2006-02-01), worden beschouwd als:
+1. Mits zij rechtstreeks zijn vervoerd overeenkomstig het bepaalde in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=III&artikel=12&z=2007-01-01&g=2007-01-01), worden beschouwd als:
 
 - 1). producten van oorsprong uit Ceuta en Melilla:
 
@@ -1899,9 +1903,9 @@ Tegen eenieder die een document met onjuiste gegevens opstelt of laat opstellen 
 
 - b. in Ceuta en Melilla verkregen producten bij de vervaardiging waarvan andere dan de onder a bedoelde producten zijn gebruikt, voorzover:
 
-- i. deze producten be- of verwerkingen hebben ondergaan die toereikend zijn in de zin van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=II&artikel=5&z=2006-02-01&g=2006-02-01) van dit Protocol, of voorzover
+- i. deze producten be- of verwerkingen hebben ondergaan die toereikend zijn in de zin van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=II&artikel=5&z=2007-01-01&g=2007-01-01) van dit Protocol, of voorzover
 
-- ii. deze producten van oorsprong zijn uit Zuid-Afrika of de Gemeenschap in de zin van dit Protocol en zij be- of verwerkingen hebben ondergaan die meer omvatten dan de in [artikel 6, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=II&artikel=6&z=2006-02-01&g=2006-02-01), bedoelde ontoereikende be- of verwerkingen;
+- ii. deze producten van oorsprong zijn uit Zuid-Afrika of de Gemeenschap in de zin van dit Protocol en zij be- of verwerkingen hebben ondergaan die meer omvatten dan de in [artikel 6, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=II&artikel=6&z=2007-01-01&g=2007-01-01), bedoelde ontoereikende be- of verwerkingen;
 
 - 2). producten van oorsprong uit Zuid-Afrika:
 
@@ -1909,9 +1913,9 @@ Tegen eenieder die een document met onjuiste gegevens opstelt of laat opstellen 
 
 - b. in Zuid-Afrika verkregen producten, bij de vervaardiging waarvan andere dan de onder a) bedoelde producten zijn gebruikt, voorzover:
 
-- i. deze producten een be- of verwerking hebben ondergaan die toereikend is in de zin van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=II&artikel=5&z=2006-02-01&g=2006-02-01) van dit Protocol, of voorzover
+- i. deze producten een be- of verwerking hebben ondergaan die toereikend is in de zin van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=II&artikel=5&z=2007-01-01&g=2007-01-01) van dit Protocol, of voorzover
 
-- ii. deze producten van oorsprong zijn uit Ceuta en Melilla of de Gemeenschap in de zin van dit Protocol en zij be- of verwerkingen hebben ondergaan die meer omvatten dan de in [artikel 6, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=II&artikel=6&z=2006-02-01&g=2006-02-01), omschreven ontoereikende be- of verwerkingen.
+- ii. deze producten van oorsprong zijn uit Ceuta en Melilla of de Gemeenschap in de zin van dit Protocol en zij be- of verwerkingen hebben ondergaan die meer omvatten dan de in [artikel 6, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=II&artikel=6&z=2007-01-01&g=2007-01-01), omschreven ontoereikende be- of verwerkingen.
 
 2. Ceuta en Melilla worden als één enkel grondgebied beschouwd.
 
@@ -2047,7 +2051,7 @@ De verzoeken om afgifte van documenten en om kennisgeving van besluiten moeten s
 
 - a. afbreuk kan doen aan de soevereiniteit van Zuid-Afrika of van een lidstaat die op grond van dit protocol om bijstand is verzocht; of
 
-- b. de openbare orde, de staatsveiligheid of andere wezenlijke belangen in gevaar kan brengen, met name in de gevallen bedoeld in [artikel 10, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&artikel=10&z=2006-02-01&g=2006-02-01); of
+- b. de openbare orde, de staatsveiligheid of andere wezenlijke belangen in gevaar kan brengen, met name in de gevallen bedoeld in [artikel 10, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&artikel=10&z=2007-01-01&g=2007-01-01); of
 
 - c. de schending inhoudt van een industrieel, een handels- of een beroepsgeheim.
 
@@ -2093,6 +2097,6 @@ De Overeenkomstsluitende Partijen eisen van elkaar geen terugbetaling voor uitga
 
 2. Niettegenstaande de bepalingen van lid 1 hebben de bepalingen van dit protocol voorrang op de bepalingen van bilaterale overeenkomsten betreffende wederzijdse bijstand die zijn of kunnen worden gesloten tussen afzonderlijke lidstaten en Zuid-Afrika voorzover de bepalingen van laatstgenoemde overeenkomsten onverenigbaar zijn met die van dit protocol.
 
-3. Ten aanzien van vraagstukken in verband met de toepassing van dit protocol plegen de Overeenkomstsluitende Partijen overleg met elkaar om deze op te lossen in het kader van het krachtens [artikel 97](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=VIII&artikel=97&z=2006-02-01&g=2006-02-01) van de overeenkomst opgerichte Samenwerkingsraad.
+3. Ten aanzien van vraagstukken in verband met de toepassing van dit protocol plegen de Overeenkomstsluitende Partijen overleg met elkaar om deze op te lossen in het kader van het krachtens [artikel 97](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=VIII&artikel=97&z=2007-01-01&g=2007-01-01) van de overeenkomst opgerichte Samenwerkingsraad.
 
 GEDAAN te Pretoria de elfde oktober negentienhonderd negenennegentig.
