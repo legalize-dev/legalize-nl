@@ -4,7 +4,7 @@ identifier: "BWBR0007195"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-01"
-last_updated: "2004-10-15"
+last_updated: "2007-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007195"
 soort: "ministeriele-regeling"
@@ -321,13 +321,13 @@ Indien een kind van 15 jaar tijdens een schoolweek niet-industriële arbeid van 
 
 ##### Artikel 10:1
 
-Indien een kind van 13 of 14 jaar in een schoolweek arbeid verricht, waarop de [artikelen 4:1](https://wetten.overheid.nl/jci1.3:c:BWBR0007195&paragraaf=4&artikel=4:1&z=2004-10-15&g=2004-10-15) en [6:1](https://wetten.overheid.nl/jci1.3:c:BWBR0007195&paragraaf=6&artikel=6:1&z=2004-10-15&g=2004-10-15) van toepassing zijn, geldt elk van die regels op de onderscheiden categorieën van arbeid, met dien verstande dat hij niet langer arbeid verricht dan 12 uren per week, waarvan ten hoogste 2 uren per dag op dagen dat onderwijs wordt gevolgd en ten hoogste 6 uren per dag op andere dagen.
+Indien een kind van 13 of 14 jaar in een schoolweek arbeid verricht, waarop de [artikelen 4:1](https://wetten.overheid.nl/jci1.3:c:BWBR0007195&paragraaf=4&artikel=4:1&z=2007-01-01&g=2007-01-01) en [6:1](https://wetten.overheid.nl/jci1.3:c:BWBR0007195&paragraaf=6&artikel=6:1&z=2007-01-01&g=2007-01-01) van toepassing zijn, geldt elk van die regels op de onderscheiden categorieën van arbeid, met dien verstande dat hij niet langer arbeid verricht dan 12 uren per week, waarvan ten hoogste 2 uren per dag op dagen dat onderwijs wordt gevolgd en ten hoogste 6 uren per dag op andere dagen.
 
 #### Kind van 15 jaar
 
 ##### Artikel 10:2
 
-Indien een kind van 15 jaar in een schoolweek arbeid verricht, waarop de [artikelen 4:2](https://wetten.overheid.nl/jci1.3:c:BWBR0007195&paragraaf=4&artikel=4:2&z=2004-10-15&g=2004-10-15), [6:2](https://wetten.overheid.nl/jci1.3:c:BWBR0007195&paragraaf=6&artikel=6:2&z=2004-10-15&g=2004-10-15) en [9:1](https://wetten.overheid.nl/jci1.3:c:BWBR0007195&paragraaf=9&artikel=9:1&z=2004-10-15&g=2004-10-15) van toepassing zijn, geldt elk van die regels op de onderscheiden categorieën van arbeid, met dien verstande dat hij niet langer arbeid verricht dan 12 uren per week, waarvan ten hoogste 2 uren per dag op dagen dat onderwijs wordt gevolgd en ten hoogste 8 uren per dag op andere dagen.
+Indien een kind van 15 jaar in een schoolweek arbeid verricht, waarop de [artikelen 4:2](https://wetten.overheid.nl/jci1.3:c:BWBR0007195&paragraaf=4&artikel=4:2&z=2007-01-01&g=2007-01-01), [6:2](https://wetten.overheid.nl/jci1.3:c:BWBR0007195&paragraaf=6&artikel=6:2&z=2007-01-01&g=2007-01-01) en [9:1](https://wetten.overheid.nl/jci1.3:c:BWBR0007195&paragraaf=9&artikel=9:1&z=2007-01-01&g=2007-01-01) van toepassing zijn, geldt elk van die regels op de onderscheiden categorieën van arbeid, met dien verstande dat hij niet langer arbeid verricht dan 12 uren per week, waarvan ten hoogste 2 uren per dag op dagen dat onderwijs wordt gevolgd en ten hoogste 8 uren per dag op andere dagen.
 
 #### § 11. Samenloop tijdens een vakantieweek
 
@@ -335,19 +335,19 @@ Indien een kind van 15 jaar in een schoolweek arbeid verricht, waarop de [artike
 
 ##### Artikel 11:1
 
-Indien een kind van 13 of 14 jaar in een vakantieweek arbeid verricht, waarop de [artikelen 5:1](https://wetten.overheid.nl/jci1.3:c:BWBR0007195&paragraaf=5&artikel=5:1&z=2004-10-15&g=2004-10-15) en [7:1](https://wetten.overheid.nl/jci1.3:c:BWBR0007195&paragraaf=7&artikel=7:1&z=2004-10-15&g=2004-10-15) van toepassing zijn, geldt elk van die regels op de onderscheiden categorieën van arbeid, met dien verstande dat hij niet langer arbeid verricht dan 35 uren per week, waarvan ten hoogste 7 uren per dag.
+Indien een kind van 13 of 14 jaar in een vakantieweek arbeid verricht, waarop de [artikelen 5:1](https://wetten.overheid.nl/jci1.3:c:BWBR0007195&paragraaf=5&artikel=5:1&z=2007-01-01&g=2007-01-01) en [7:1](https://wetten.overheid.nl/jci1.3:c:BWBR0007195&paragraaf=7&artikel=7:1&z=2007-01-01&g=2007-01-01) van toepassing zijn, geldt elk van die regels op de onderscheiden categorieën van arbeid, met dien verstande dat hij niet langer arbeid verricht dan 35 uren per week, waarvan ten hoogste 7 uren per dag.
 
 #### Kind van 15 jaar
 
 ##### Artikel 11:2
 
-Indien een kind van 15 jaar in een vakantieweek arbeid verricht, waarop de [artikelen 5:2](https://wetten.overheid.nl/jci1.3:c:BWBR0007195&paragraaf=5&artikel=5:2&z=2004-10-15&g=2004-10-15), [7:2](https://wetten.overheid.nl/jci1.3:c:BWBR0007195&paragraaf=7&artikel=7:2&z=2004-10-15&g=2004-10-15) en [9:1](https://wetten.overheid.nl/jci1.3:c:BWBR0007195&paragraaf=9&artikel=9:1&z=2004-10-15&g=2004-10-15) van toepassing zijn, geldt elk van die regels op de onderscheiden categorieën van arbeid, met dien verstande dat hij niet langer arbeid verricht dan 40 uren per week, waarvan ten hoogste 8 uren per dag.
+Indien een kind van 15 jaar in een vakantieweek arbeid verricht, waarop de [artikelen 5:2](https://wetten.overheid.nl/jci1.3:c:BWBR0007195&paragraaf=5&artikel=5:2&z=2007-01-01&g=2007-01-01), [7:2](https://wetten.overheid.nl/jci1.3:c:BWBR0007195&paragraaf=7&artikel=7:2&z=2007-01-01&g=2007-01-01) en [9:1](https://wetten.overheid.nl/jci1.3:c:BWBR0007195&paragraaf=9&artikel=9:1&z=2007-01-01&g=2007-01-01) van toepassing zijn, geldt elk van die regels op de onderscheiden categorieën van arbeid, met dien verstande dat hij niet langer arbeid verricht dan 40 uren per week, waarvan ten hoogste 8 uren per dag.
 
 #### § 12. Arbeidsverbod
 
 ##### Artikel 12:1
 
-Een kind van 12 jaar of ouder mag geen arbeid verrichten waaraan voor jeugdige werknemers in de zin van de [Arbeidsomstandighedenwet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0010346) op grond van het [Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498) bijzondere vereisten zijn gesteld.
+Een kind van 12 jaar of ouder mag geen arbeid verrichten waaraan voor jeugdige werknemers in de zin van de [Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346) op grond van het [Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498) bijzondere vereisten zijn gesteld.
 
 #### § 13. Slotbepalingen
 
