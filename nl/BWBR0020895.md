@@ -245,39 +245,3 @@ Deze regeling treedt in werking met ingang van 1 januari 2007.
 Deze regeling wordt aangehaald als Regeling verplichtstelling beroepspensioenregeling.
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 9a. Elektronische verzending
-
-1. Indien de aanvraag, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0020895&paragraaf=1&artikel=1&z=2013-01-01&g=2013-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0020895&paragraaf=1&artikel=3&z=2013-01-01&g=2013-01-01) of [5](https://wetten.overheid.nl/jci1.3:c:BWBR0020895&paragraaf=1&artikel=5&z=2013-01-01&g=2013-01-01), elektronisch wordt verzonden, wordt daarbij gebruik gemaakt van de door de Minister van Sociale Zaken en Werkgelegenheid ter beschikking gestelde elektronische formulieren en de door hem erkende elektronische handtekening.
-
-2. Bij elektronische verzending van de aanvraag als bedoeld in het eerste lid is [artikel 1, onderdelen d en f](https://wetten.overheid.nl/jci1.3:c:BWBR0020895&paragraaf=1&artikel=1&z=2013-01-01&g=2013-01-01), [artikel 3, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0020895&paragraaf=1&artikel=3&z=2013-01-01&g=2013-01-01), of [artikel 5, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0020895&paragraaf=1&artikel=5&z=2013-01-01&g=2013-01-01), niet van toepassing
-
-3. De Minister van Sociale Zaken en Werkgelegenheid zorgt voor de voor elektronische aanvragen noodzakelijke elektronische infrastructuur met behulp waarvan die aanvragen betrouwbaar en vertrouwelijk kunnen worden verzonden.
-
-#### Paragraaf 2. Gemoedsbezwaren
-
-## Bijlage
-
-Ligt ter inzage bij de directie Uitvoeringstaken Arbeidsvoorwaardenwetgeving (UAW) van het Ministerie van Sociale Zaken en Werkgelegenheid en is gepubliceerd op szw.cao.nl.
-
-Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel a1. Elektronische aanvraag en communicatie
-
-Tenzij naar het oordeel van de minister sprake is van omstandigheden die zich daartegen verzetten, geschieden uitsluitend langs elektronische weg de aanvragen en de daaropvolgende communicatie:
-
-- a. van de verplichtstelling, bedoeld in [artikel 5, eerste lid, van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=5);
-
-- b. tot wijziging van de verplichtstelling, bedoeld in [artikel 9, eerste lid, van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=9);
-
-- c. tot intrekking van de verplichtstelling, bedoeld in [artikel 13, eerste en tweede lid, van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=13);
-
-- d. tot ontheffing van de verplichtstelling, bedoeld in [artikel 18, eerste lid, van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=18).
-
-#### Paragraaf 2. Gemoedsbezwaren
-
-## Bijlage
-
-Vervallen
-
-Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
