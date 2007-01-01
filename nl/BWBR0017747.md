@@ -4,7 +4,7 @@ identifier: "BWBR0017747"
 country: "nl"
 rank: "wet"
 publication_date: "2008-01-01"
-last_updated: "2006-01-01"
+last_updated: "2007-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017747"
 soort: "wet"
@@ -168,7 +168,7 @@ Bij regeling van Onze Minister en Onze Ministers van Financiën en van Volksgezo
 
 ##### Artikel 50. Tijdelijke handhaving informatieverplichtingen en administraties
 
-1. Indien blijkt dat niet of niet ten volle kan worden voldaan aan de administratieve verplichtingen op grond van [artikel 59 van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=59) in verbinding met de [Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471) en de [Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320), dan wel dat de polisadministratie, bedoeld in [artikel 33 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=33), of de verzekerdenadministratie, bedoeld in [artikel 35 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=35), nog niet volledig kan functioneren, kan bij regeling van Onze Minister, in overeenstemming met Onze Minister van Financiën en Onze Minister van Volksgezondheid, Welzijn en Sport, worden bepaald dat, in afwijking van het bij koninklijk besluit op grond van [artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0017747&hoofdstuk=4&artikel=52&z=2006-01-01&g=2006-01-01) bepaalde, tot uiterlijk 1 januari 2008 één of meer van de volgende voorschriften en de daarop berustende bepalingen, zoals deze luidden op de dag voorafgaande aan de bij koninklijk besluit op grond van [artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0017747&hoofdstuk=4&artikel=52&z=2006-01-01&g=2006-01-01) voor de desbetreffende bepalingen vastgestelde datum, hun gelding na die datum behouden:
+1. Indien blijkt dat niet of niet ten volle kan worden voldaan aan de administratieve verplichtingen op grond van [artikel 59 van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=59) in verbinding met de [Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471) en de [Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320), dan wel dat de polisadministratie, bedoeld in [artikel 33 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=33), of de verzekerdenadministratie, bedoeld in [artikel 35 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=35), nog niet volledig kan functioneren, kan bij regeling van Onze Minister, in overeenstemming met Onze Minister van Financiën en Onze Minister van Volksgezondheid, Welzijn en Sport, worden bepaald dat, in afwijking van het bij koninklijk besluit op grond van [artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0017747&hoofdstuk=4&artikel=52&z=2007-01-01&g=2007-01-01) bepaalde, tot uiterlijk 1 januari 2008 één of meer van de volgende voorschriften en de daarop berustende bepalingen, zoals deze luidden op de dag voorafgaande aan de bij koninklijk besluit op grond van [artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0017747&hoofdstuk=4&artikel=52&z=2007-01-01&g=2007-01-01) voor de desbetreffende bepalingen vastgestelde datum, hun gelding na die datum behouden:
 
 - a. [artikel 10, tweede lid, van de Coördinatiewet Sociale Verzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002126&artikel=10);
 
@@ -214,13 +214,13 @@ De Sociale verzekeringsbank hevelt het bedrag van de uitkering ingevolge de [Alg
 
 ##### Artikel 48b. Verdrag met het Koninkrijk België
 
-Zolang in artikel 27 van het op 5 juni 2001 te Luxemburg tot stand gekomen Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk België tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen en naar het vermogen, met Protocollen (Trb. 2001, 136), melding wordt gemaakt van de [Wet financiering volksverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0004538), wordt de premie voor de volksverzekeringen voor de toepassing van dat artikel geacht te zijn geheven krachtens de [Wet financiering volksverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0004538), zoals deze wet luidde op de dag voor inwerkingtreding van [artikel 48, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017747&hoofdstuk=4&artikel=48&z=2006-01-01&g=2006-01-01), van deze wet.
+Zolang in artikel 27 van het op 5 juni 2001 te Luxemburg tot stand gekomen Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk België tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen en naar het vermogen, met Protocollen (Trb. 2001, 136), melding wordt gemaakt van de [Wet financiering volksverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0004538), wordt de premie voor de volksverzekeringen voor de toepassing van dat artikel geacht te zijn geheven krachtens de [Wet financiering volksverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0004538), zoals deze wet luidde op de dag voor inwerkingtreding van [artikel 48, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017747&hoofdstuk=4&artikel=48&z=2007-01-01&g=2007-01-01), van deze wet.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
 ##### Artikel 1. Algemene begrippen
 
-In de [hoofdstukken 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017747&hoofdstuk=3&z=2006-01-01&g=2006-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0017747&hoofdstuk=4&z=2006-01-01&g=2006-01-01) van deze wet en de daarop berustende bepalingen wordt verstaan onder:
+In de [hoofdstukken 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017747&hoofdstuk=3&z=2007-01-01&g=2007-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0017747&hoofdstuk=4&z=2007-01-01&g=2007-01-01) van deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - a. Onze Minister: Onze Minister van Sociale Zaken en Werkgelegenheid;
 
@@ -378,15 +378,15 @@ Wijzigt de Uitkeringswet financiële compensatie langdurige militaire dienst.
 
 ##### Artikel 45. Bezwaarschriftenprocedures
 
-1. Het UWV, onderscheidenlijk de SVB, onderscheidenlijk het College zorgverzekeringen is bevoegd te beslissen op een bezwaarschrift dat voor de datum van inwerkingtreding van de desbetreffende bepalingen van deze wet is ingediend tegen een beschikking als bedoeld in [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0017747&hoofdstuk=3&artikel=44&z=2006-01-01&g=2006-01-01) en waarop op die datum nog niet is beslist, met toepassing van het recht zoals dit voor die datum gold.
+1. Het UWV, onderscheidenlijk de SVB, onderscheidenlijk het College zorgverzekeringen is bevoegd te beslissen op een bezwaarschrift dat voor de datum van inwerkingtreding van de desbetreffende bepalingen van deze wet is ingediend tegen een beschikking als bedoeld in [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0017747&hoofdstuk=3&artikel=44&z=2007-01-01&g=2007-01-01) en waarop op die datum nog niet is beslist, met toepassing van het recht zoals dit voor die datum gold.
 
-2. In afwijking van het eerste lid is de inspecteur bevoegd te beslissen op een bezwaarschrift dat na de datum van inwerkingtreding van de desbetreffende bepalingen van deze wet wordt ingediend en dat betrekking heeft op een beschikking van het UWV als bedoeld in [artikel 44, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017747&hoofdstuk=3&artikel=44&z=2006-01-01&g=2006-01-01). Op een bezwaarschrift als bedoeld in dit lid wordt beslist met toepassing van het recht zoals dit geldt met ingang van de datum van inwerkingtreding van de desbetreffende bepalingen van deze wet.
+2. In afwijking van het eerste lid is de inspecteur bevoegd te beslissen op een bezwaarschrift dat na de datum van inwerkingtreding van de desbetreffende bepalingen van deze wet wordt ingediend en dat betrekking heeft op een beschikking van het UWV als bedoeld in [artikel 44, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017747&hoofdstuk=3&artikel=44&z=2007-01-01&g=2007-01-01). Op een bezwaarschrift als bedoeld in dit lid wordt beslist met toepassing van het recht zoals dit geldt met ingang van de datum van inwerkingtreding van de desbetreffende bepalingen van deze wet.
 
 ##### Artikel 46. Beroep, hoger beroep en partijvervanging
 
 1. Op beroep tegen een uitspraak op een bezwaarschrift van het UWV, de SVB of het College zorgverzekeringen waarop op de datum van inwerkingtreding van de desbetreffende bepalingen van deze wet nog geen uitspraak is gedaan, wordt beslist door de rechter waarbij het beroep aanhangig is. Ten aanzien van dit beroep, alsmede ten aanzien van hoger beroep tegen een uitspraak van de rechtbank met toepassing van dit lid, blijft het recht zoals dit gold voor de datum van inwerkingtreding van de desbetreffende bepalingen van deze wet van toepassing.
 
-2. Op het beroep dat na de datum van inwerkingtreding van de desbetreffende bepalingen van deze wet wordt ingediend tegen een uitspraak op een bezwaarschrift van het UWV inzake een beschikking als bedoeld in [artikel 44, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017747&hoofdstuk=3&artikel=44&z=2006-01-01&g=2006-01-01), is het recht zoals dit na die datum geldt van toepassing. De vorige zin is tevens van toepassing ten aanzien van hoger beroep tegen een uitspraak van de rechtbank met toepassing van dit lid.
+2. Op het beroep dat na de datum van inwerkingtreding van de desbetreffende bepalingen van deze wet wordt ingediend tegen een uitspraak op een bezwaarschrift van het UWV inzake een beschikking als bedoeld in [artikel 44, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017747&hoofdstuk=3&artikel=44&z=2007-01-01&g=2007-01-01), is het recht zoals dit na die datum geldt van toepassing. De vorige zin is tevens van toepassing ten aanzien van hoger beroep tegen een uitspraak van de rechtbank met toepassing van dit lid.
 
 3. In bestuursrechtelijke gedingen als bedoeld in het tweede lid treedt de inspecteur als partij in de plaats van het UWV.
 
@@ -394,7 +394,7 @@ Wijzigt de Uitkeringswet financiële compensatie langdurige militaire dienst.
 
 1. Op een voor de datum van inwerkingtreding van de desbetreffende bepalingen van deze wet bij het UWV, onderscheidenlijk de SVB, onderscheidenlijk het College zorgverzekeringen ingediende aanvraag tot het geven van een beschikking op grond van een wettelijke bepaling die door de inwerkingtreding van de desbetreffende bepalingen van de [Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745) en van deze wet komt te vervallen en die betrekking heeft of mede betrekking heeft op een periode, gelegen na de datum van inwerkingtreding van de desbetreffende bepalingen van deze wet, wordt na die datum door het UWV, onderscheidenlijk de SVB, onderscheidenlijk het College zorgverzekeringen beslist met toepassing van het recht zoals dit voor die datum gold.
 
-2. De [artikelen 44](https://wetten.overheid.nl/jci1.3:c:BWBR0017747&hoofdstuk=3&artikel=44&z=2006-01-01&g=2006-01-01), [45, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017747&hoofdstuk=3&artikel=45&z=2006-01-01&g=2006-01-01), en [46, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017747&hoofdstuk=3&artikel=46&z=2006-01-01&g=2006-01-01), zijn van overeenkomstige toepassing op een beschikking als bedoeld in het eerste lid.
+2. De [artikelen 44](https://wetten.overheid.nl/jci1.3:c:BWBR0017747&hoofdstuk=3&artikel=44&z=2007-01-01&g=2007-01-01), [45, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017747&hoofdstuk=3&artikel=45&z=2007-01-01&g=2007-01-01), en [46, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017747&hoofdstuk=3&artikel=46&z=2007-01-01&g=2007-01-01), zijn van overeenkomstige toepassing op een beschikking als bedoeld in het eerste lid.
 
 ### Hoofdstuk 4. Overige en slotbepalingen
 
