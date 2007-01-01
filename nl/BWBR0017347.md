@@ -4,7 +4,7 @@ identifier: "BWBR0017347"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-01-01"
-last_updated: "2005-01-01"
+last_updated: "2007-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017347"
 soort: "AMvB"
@@ -61,7 +61,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 2
 
-Als bestuursorganen of diensten die zijn belast met de opsporing van strafbare feiten of met het toezicht op financiële instellingen als bedoeld in [artikel 3, tweede lid, onder f, van de wet](onbekend), worden aangewezen:
+Als bestuursorganen of diensten die zijn belast met de opsporing van strafbare feiten of met het toezicht op financiële instellingen als bedoeld in [artikel 3, tweede lid, onder f, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015049&artikel=3), worden aangewezen:
 
 - a. de Algemene Inspectiedienst van het Ministerie van Landbouw, Natuur en Voedselkwaliteit;
 
@@ -85,15 +85,13 @@ Als bestuursorganen of diensten die zijn belast met de opsporing van strafbare f
 
 - k. het openbaar ministerie;
 
-- l. de Pensioen- & Verzekeringskamer;
+- l. de politie;
 
-- m. de politie;
+- m. Regionale Interdisciplinaire Fraudeteams;
 
-- n. Regionale Interdisciplinaire Fraudeteams;
+- n. de rijksbelastingdienst en
 
-- o. de rijksbelastingdienst en
-
-- p. de Sociale Inlichtingen- en Opsporingsdienst van het Ministerie van Sociale Zaken en Werkgelegenheid.
+- o. de Sociale Inlichtingen- en Opsporingsdienst van het Ministerie van Sociale Zaken en Werkgelegenheid.
 
 #### Paragraaf 3. De inhoud van de registratie
 
@@ -193,13 +191,13 @@ Over de personen, bedoeld in [artikel 4, eerste lid, van de wet](onbekend), kunn
 
 ##### Artikel 6
 
-Aan de volgende instanties of personen worden als vaste gebruikers als bedoeld in [artikel 5, tweede lid, van de wet](onbekend), desgevraagd in individuele gevallen persoonsgegevens uit de registratie verstrekt:
+Aan de volgende instanties of personen worden als vaste gebruikers als bedoeld in [artikel 5, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015049&artikel=5), desgevraagd in individuele gevallen persoonsgegevens uit de registratie verstrekt:
 
 - a. de Algemene Inlichtingen- en Veiligheidsdienst, voor zover dat noodzakelijk is voor de uitvoering van de taken, bedoeld in [artikel 6 van de Wet op de inlichtingen- en veiligheidsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0004244&artikel=6);
 
 - b. het openbaar ministerie, de politie, de Koninklijke Marechaussee, de Algemene Inspectiedienst van het Ministerie van Landbouw, Natuur en Voedselkwaliteit, de Belastingdienst FIOD-ECD, de Belastingdienst Douane, de Dienst Nationale Recherche, de Inlichtingen- en Opsporingsdienst van het Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, Interregionale Fraudeteams, de Milieudienst Rijnmond, Regionaal Interdisciplinaire Fraudeteams, de rijksbelastingdienst, de Sociale Inlichtingen- en Opsporingsdienst van het Ministerie van Sociale Zaken en Werkgelegenheid en het Uitvoeringsinstituut werknemersverzekeringen, voor zover dat noodzakelijk is voor de opsporing of de vervolging van strafbare feiten;
 
-- c. de Autoriteit Financiële Markten, De Nederlandsche Bank N.V., de Nederlandse mededingingsautoriteit en de Pensioen- & Verzekeringskamer voor zover dat noodzakelijk is voor de uitoefening van het toezicht op financiële instellingen of op de naleving van de [Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691);
+- c. de Autoriteit Financiële Markten, De Nederlandsche Bank N.V. en de Nederlandse Mededingingsautoriteit voor zover dat noodzakelijk is voor de uitoefening van het toezicht op financiële ondernemingen of op de naleving van de [Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691);
 
 - d. de faillissementscuratoren en de rechters-commissarissen in faillissementen, voor zover dat noodzakelijk is voor het beheer en de vereffening van een failliete boedel alsmede voor de uitoefening van het toezicht hierop;
 
