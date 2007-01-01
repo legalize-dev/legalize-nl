@@ -4,7 +4,7 @@ identifier: "BWBR0015828"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-02-07"
-last_updated: "2004-01-01"
+last_updated: "2007-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0015828"
 soort: "ministeriele-regeling"
@@ -58,7 +58,7 @@ In deze regeling wordt verstaan onder:
 
 - 2°. het hoofd van de diensteenheid als bedoeld in artikel 6 van de Regeling bevoegdhedentoedeling burgerlijke ambtenaren defensie,
 
-- d. **bedrijfshulpverlener**: een ambtenaar of militair die naast zijn normale werkzaamheden op grond van [artikel 15 van de Arbeidsomstandighedenwet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=15) door de commandant is aangewezen als:
+- d. **bedrijfshulpverlener**: een ambtenaar of militair die naast zijn normale werkzaamheden op grond van [artikel 15 van de Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=15) door de commandant is aangewezen als:
 
 - 1°. algemeen bedrijfshulpverlener;
 
@@ -102,9 +102,9 @@ Alle bedragen genoemd in deze regeling zijn onderworpen aan de verschuldigde loo
 
 ##### Artikel 3. Toelage bedrijfshulpverlening en functietoeslag
 
-1. Aan de militair of ambtenaar die in de periode waarvoor hij als bedrijfshulpverlener was aangewezen, aan ten minste 80% van de geplande bedrijfshulpverleningslessen en -oefeningen heeft deelgenomen, wordt door de commandant eenmaal per kalenderjaar een toelage bedrijfshulpverlening zoals bepaald in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0015828&artikel=4&z=2004-01-01&g=2004-01-01) toegekend.
+1. Aan de militair of ambtenaar die in de periode waarvoor hij als bedrijfshulpverlener was aangewezen, aan ten minste 80% van de geplande bedrijfshulpverleningslessen en -oefeningen heeft deelgenomen, wordt door de commandant eenmaal per kalenderjaar een toelage bedrijfshulpverlening zoals bepaald in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0015828&artikel=4&z=2007-01-01&g=2007-01-01) toegekend.
 
-2. Indien aan de bedrijfshulpverlener met specialisatie, de ploegleider en het hoofd bedrijfshulpverlening de toelage bedrijfshulpverlening, bedoeld in het eerste lid, is toegekend, wordt hen door de commandant tevens eenmaal per kalenderjaar een functietoeslag zoals bepaald in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0015828&artikel=5&z=2004-01-01&g=2004-01-01) toegekend.
+2. Indien aan de bedrijfshulpverlener met specialisatie, de ploegleider en het hoofd bedrijfshulpverlening de toelage bedrijfshulpverlening, bedoeld in het eerste lid, is toegekend, wordt hen door de commandant tevens eenmaal per kalenderjaar een functietoeslag zoals bepaald in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0015828&artikel=5&z=2007-01-01&g=2007-01-01) toegekend.
 
 3. De toekenning van de toelage bedrijfshulpverlening en de functietoeslag geschiedt jaarlijks in de maand december met betrekking tot het lopende kalenderjaar, tenzij de periode waarvoor de militair of ambtenaar als bedrijfshulpverlener was aangewezen eerder eindigt.
 
@@ -172,11 +172,11 @@ Aan de bedrijfshulpverlener en de EHBO-er die gedurende een bepaald aantal achte
 
 3. Deze gratificatie bedraagt € 230 netto.
 
-4. In afwijking van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0015828&artikel=2&z=2004-01-01&g=2004-01-01) komen de verschuldigde loonheffing en inhoudingen over deze gratificatie voor rekening van Defensie.
+4. In afwijking van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0015828&artikel=2&z=2007-01-01&g=2007-01-01) komen de verschuldigde loonheffing en inhoudingen over deze gratificatie voor rekening van Defensie.
 
 ##### Artikel 9. Overgangsbepaling EHBO-toelage
 
-Voor de ambtenaar waaraan een toelage bedrijfshulpverlening dan wel een toelage eerste medische bijstand als bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0015828&artikel=3&z=2004-01-01&g=2004-01-01) of [6](https://wetten.overheid.nl/jci1.3:c:BWBR0015828&artikel=6&z=2004-01-01&g=2004-01-01) is toegekend, vervalt de aanspraak op een EHBO-toelage op basis van [artikel 13, derde lid, van de Overgangsregeling BBRA 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003631&artikel=13).
+Voor de ambtenaar waaraan een toelage bedrijfshulpverlening dan wel een toelage eerste medische bijstand als bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0015828&artikel=3&z=2007-01-01&g=2007-01-01) of [6](https://wetten.overheid.nl/jci1.3:c:BWBR0015828&artikel=6&z=2007-01-01&g=2007-01-01) is toegekend, vervalt de aanspraak op een EHBO-toelage op basis van [artikel 13, derde lid, van de Overgangsregeling BBRA 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003631&artikel=13).
 
 ##### Artikel 10. Intrekking
 
