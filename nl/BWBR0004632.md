@@ -4,7 +4,7 @@ identifier: "BWBR0004632"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-08-01"
-last_updated: "2004-02-04"
+last_updated: "2007-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004632"
 soort: "AMvB"
@@ -70,7 +70,7 @@ Burgemeester en wethouders ontlenen aan de gemeentelijke basisadministratie pers
 
 ##### Artikel D 1a
 
-1. Ten aanzien van personen die werkelijke woonplaats in de gemeente hebben, niet zijnde personen als bedoeld in [artikel D 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=D&artikel=D_1&z=2004-02-04&g=2004-02-04), en die als kiesgerechtigd in de gemeentelijke administratie worden opgenomen, registreren burgemeester en wethouders de volgende gegevens:
+1. Ten aanzien van personen die werkelijke woonplaats in de gemeente hebben, niet zijnde personen als bedoeld in [artikel D 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=D&artikel=D_1&z=2007-01-01&g=2007-01-01), en die als kiesgerechtigd in de gemeentelijke administratie worden opgenomen, registreren burgemeester en wethouders de volgende gegevens:
 
 - a. de geslachtsnaam;
 
@@ -128,7 +128,7 @@ Het in [artikel D 3a, eerste lid, van de Kieswet](https://wetten.overheid.nl/jci
 
 ##### Artikel G 1
 
-1. De waarborgsommen, bedoeld in het tweede lid van de [artikelen G 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=G_1), [G 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=G_2) en [G 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=G_3), alsmede de waarborgsom, bedoeld in het derde lid van [artikel Q 6](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=Q_6) juncto het tweede lid van [artikel G 1 van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=G_1), dienen te worden overgemaakt op de daartoe bestemde rekening van onderscheidenlijk Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties, de gemeente waar het centraal stembureau voor de verkiezingen van de leden van provinciale staten is gevestigd, of de gemeente, bij een ingevolge [artikel 52 van de Wet toezicht kredietwezen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005792&artikel=52) (**Stb.** 1992, 722) geregistreerde kredietinstelling, onder vermelding van de woorden "waarborgsom registratie".
+1. De waarborgsommen, bedoeld in het tweede lid van de [artikelen G 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=G_1), [G 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=G_2) en [G 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=G_3), alsmede de waarborgsom, bedoeld in het derde lid van [artikel Q 6](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=Q_6) juncto het tweede lid van [artikel G 1 van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=G_1), dienen te worden overgemaakt op de daartoe bestemde rekening van onderscheidenlijk Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties, de gemeente waar het centraal stembureau voor de verkiezingen van de leden van provinciale staten is gevestigd, of de gemeente, bij een financiële onderneming die ingevolge de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) in Nederland het bedrijf van kredietinstelling mag uitoefenen, onder vermelding van de woorden "waarborgsom registratie".
 
 2. De voorzitter van het centraal stembureau deelt het orgaan waaraan de waarborgsommen zijn betaald, zo spoedig mogelijk na de openbaarmaking van de kandidatenlijsten mee welke waarborgsommen ingevolge het tweede lid van [artikel G 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=G_1), [G 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=G_2) of [G 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=G_3), dan wel ingevolge het derde lid van [artikel Q 6](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=Q_6) juncto het tweede lid van [artikel G 1 van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=G_1) moeten worden terugbetaald. Dit orgaan gaat vervolgens zo spoedig mogelijk over tot terugbetaling van die waarborgsommen. Over de terug te betalen waarborgsommen wordt geen rente vergoed.
 
@@ -152,7 +152,7 @@ De formulieren voor de kandidatenlijsten, bedoeld in [artikel H 1, tweede lid, v
 
 ##### Artikel H 3
 
-1. De waarborgsommen, bedoeld in de [artikelen H 12](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=H_12), [H 13](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=H_13) en [H 14 van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=H_14), dienen uiterlijk op de veertiende dag voor de kandidaatstelling te zijn ontvangen op de daartoe bestemde rekening van onderscheidenlijk Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties, de gemeente waar het centraal stembureau voor de verkiezingen van de leden van provinciale staten is gevestigd of de gemeente, bij een ingevolge [artikel 52 van de Wet toezicht kredietwezen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005792&artikel=52) geregistreerde kredietinstelling, onder vermelding van de woorden "waarborgsom kandidaatstelling".
+1. De waarborgsommen, bedoeld in de [artikelen H 12](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=H_12), [H 13](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=H_13) en [H 14 van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=H_14), dienen uiterlijk op de veertiende dag voor de kandidaatstelling te zijn ontvangen op de daartoe bestemde rekening van onderscheidenlijk Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties, de gemeente waar het centraal stembureau voor de verkiezingen van de leden van provinciale staten is gevestigd of de gemeente, bij een een financiële onderneming die ingevolge de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) in Nederland het bedrijf van kredietinstelling mag uitoefenen, onder vermelding van de woorden "waarborgsom kandidaatstelling".
 
 2. De voorzitter van het centraal stembureau deelt het orgaan waaraan de waarborgsommen zijn betaald, zo spoedig mogelijk na de openbaarmaking van de uitslag van de verkiezing mee welke waarborgsommen ingevolge het [vierde of vijfde lid van artikel H 12](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=H_12), [H 13](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=H_13) of [H 14 van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=H_14) moeten worden terugbetaald. Dit orgaan gaat vervolgens zo spoedig mogelijk over tot terugbetaling van die waarborgsommen. Over de terug te geven waarborgsommen wordt geen rente vergoed.
 
@@ -220,7 +220,7 @@ Nadat de laatste tot de stemming toegelaten kiezer heeft gestemd, wordt de sleuf
 
 ##### Artikel J 9
 
-Indien met toepassing van [artikel J 6 van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=J_6) tegelijk met de stemming in het stemlokaal een of meer andere stemmingen plaatsvinden, gelden de [artikelen J 10 tot en met J 12**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=J&paragraaf=2&artikel=J_10&z=2004-02-04&g=2004-02-04).
+Indien met toepassing van [artikel J 6 van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=J_6) tegelijk met de stemming in het stemlokaal een of meer andere stemmingen plaatsvinden, gelden de [artikelen J 10 tot en met J 12**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=J&paragraaf=2&artikel=J_10&z=2007-01-01&g=2007-01-01).
 
 ##### Artikel J 10
 
@@ -262,7 +262,7 @@ Indien zowel voor de stemming ingevolge de [Kieswet](https://wetten.overheid.nl/
 
 ##### Artikel J 12a
 
-Indien zowel voor de stemming ingevolge de [Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627) als voor een of meer andere stemmingen stemmachines worden gebruikt, kan de burgemeester besluiten dat de stemmachines tevens voor een of meer van deze andere stemmingen worden gebruikt, mits Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties daarvoor ingevolge [artikel J 14a](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=J&paragraaf=3&artikel=J_14a&z=2004-02-04&g=2004-02-04) goedkeuring heeft verleend.
+Indien zowel voor de stemming ingevolge de [Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627) als voor een of meer andere stemmingen stemmachines worden gebruikt, kan de burgemeester besluiten dat de stemmachines tevens voor een of meer van deze andere stemmingen worden gebruikt, mits Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties daarvoor ingevolge [artikel J 14a](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=J&paragraaf=3&artikel=J_14a&z=2007-01-01&g=2007-01-01) goedkeuring heeft verleend.
 
 #### § 3. Het stemmen door middel van elektronische stemmachines
 
@@ -274,7 +274,7 @@ De bepalingen van dit besluit die betrekking hebben op het gebruik van stembilje
 
 1. Een elektronische stemmachine mag slechts bij de verkiezingen worden gebruikt, indien zij zonder enige afwijking behoort tot een door Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties goedgekeurd merk en type.
 
-2. De goedkeuring wordt verleend indien de stemmachine voldoet aan de eisen die gesteld worden in [artikel J 33, tweede lid, van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=J_33), [artikel J 14**b**](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=J&paragraaf=3&artikel=J_14b&z=2004-02-04&g=2004-02-04) en de Ministeriële regeling, bedoeld in het vierde lid, en is voorzien van een deugdelijke gebruiksaanwijzing voor de kiezer.
+2. De goedkeuring wordt verleend indien de stemmachine voldoet aan de eisen die gesteld worden in [artikel J 33, tweede lid, van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=J_33), [artikel J 14**b**](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=J&paragraaf=3&artikel=J_14b&z=2007-01-01&g=2007-01-01) en de Ministeriële regeling, bedoeld in het vierde lid, en is voorzien van een deugdelijke gebruiksaanwijzing voor de kiezer.
 
 3. Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties is bevoegd een verleende goedkeuring in te trekken.
 
@@ -294,7 +294,7 @@ De bepalingen van dit besluit die betrekking hebben op het gebruik van stembilje
 
 2. Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties kan voorwaarden verbinden aan de goedkeuring.
 
-3. [Artikel J 14, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=J&paragraaf=3&artikel=J_14&z=2004-02-04&g=2004-02-04), is van overeenkomstige toepassing.
+3. [Artikel J 14, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=J&paragraaf=3&artikel=J_14&z=2007-01-01&g=2007-01-01), is van overeenkomstige toepassing.
 
 ##### Artikel J 14b
 
@@ -314,7 +314,7 @@ de kiezer kiest eerst een kandidatenlijst uit een op het stempaneel getoond over
 
 1. Op de bij de stemming te gebruiken stemmachine zijn vermeld de lijsten van de kandidaten over wie de stemming moet geschieden, zoals deze ter kennis van de kiezers worden gebracht.
 
-2. Indien op een stemmachine wordt gestemd overeenkomstig de wijze, bedoeld in [artikel J 14 b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=J&paragraaf=3&artikel=J_14b&z=2004-02-04&g=2004-02-04), worden de lijsten van kandidaten over wie de stemming moet geschieden bevestigd boven het stempaneel. Op het stempaneel worden vermeld de nummers van de lijsten en, voorzover deze boven de lijst zijn geplaatst, de aanduidingen van politieke groeperingen. Daaronder wordt vermeld een overzicht van nummers, beginnend bij nummer 1 tot en met het nummer dat gelijk is aan het nummer van de laatste kandidaat op de kandidatenlijst met de meeste kandidaten.
+2. Indien op een stemmachine wordt gestemd overeenkomstig de wijze, bedoeld in [artikel J 14 b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=J&paragraaf=3&artikel=J_14b&z=2007-01-01&g=2007-01-01), worden de lijsten van kandidaten over wie de stemming moet geschieden bevestigd boven het stempaneel. Op het stempaneel worden vermeld de nummers van de lijsten en, voorzover deze boven de lijst zijn geplaatst, de aanduidingen van politieke groeperingen. Daaronder wordt vermeld een overzicht van nummers, beginnend bij nummer 1 tot en met het nummer dat gelijk is aan het nummer van de laatste kandidaat op de kandidatenlijst met de meeste kandidaten.
 
 3. Bij Ministeriële regeling worden modellen vastgesteld voor de wijzen waarop de kandidatenlijsten op de stemmachine mogen worden vermeld.
 
@@ -336,9 +336,9 @@ In elk stemlokaal bevindt zich een zodanig aantal stemmachines dat een goede voo
 
 1. In of bij elk stemlokaal is instructiemateriaal aanwezig ter voorlichting van de kiezer over het gebruik van de stemmachine. Op het instructiemateriaal mogen geen op de stemmachine vermelde aanduidingen van politieke groeperingen of namen van kandidaten zijn aangegeven.
 
-2. Bij elke stemmachine is de gebruiksaanwijzing, bedoeld in [artikel J 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=J&paragraaf=3&artikel=J_14&z=2004-02-04&g=2004-02-04), aangebracht.
+2. Bij elke stemmachine is de gebruiksaanwijzing, bedoeld in [artikel J 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=J&paragraaf=3&artikel=J_14&z=2007-01-01&g=2007-01-01), aangebracht.
 
-3. Bij elke stemmachine waarop de kiezer een stem uitbrengt op de wijze, bedoeld in [artikel J 14**b**, eerste lid, onder **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=J&paragraaf=3&artikel=J_14b&z=2004-02-04&g=2004-02-04), wordt goed zichtbaar voor de kiezer een overzicht bevestigd van alle lijsten van kandidaten over wie de stemming moet geschieden.
+3. Bij elke stemmachine waarop de kiezer een stem uitbrengt op de wijze, bedoeld in [artikel J 14**b**, eerste lid, onder **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=J&paragraaf=3&artikel=J_14b&z=2007-01-01&g=2007-01-01), wordt goed zichtbaar voor de kiezer een overzicht bevestigd van alle lijsten van kandidaten over wie de stemming moet geschieden.
 
 ##### Artikel J 19
 
@@ -350,7 +350,7 @@ Op de dag van de stemming gaat het stembureau tijdig voor de aanvang van de stem
 
 ##### Artikel J 20a
 
-Indien gebruik wordt gemaakt van een stemmachine die door het stembureau voor elke kiezer wordt vrijgegeven, zijn de [artikelen J 21 tot en met J 23](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=J&paragraaf=3&artikel=J_21&z=2004-02-04&g=2004-02-04) van toepassing.
+Indien gebruik wordt gemaakt van een stemmachine die door het stembureau voor elke kiezer wordt vrijgegeven, zijn de [artikelen J 21 tot en met J 23](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=J&paragraaf=3&artikel=J_21&z=2007-01-01&g=2007-01-01) van toepassing.
 
 ##### Artikel J 21
 
@@ -370,7 +370,7 @@ Indien een kiezer de stemmachine op een bepaalde kandidaat instelt doch zich ver
 
 ##### Artikel J 23a
 
-Indien gebruik wordt gemaakt van een stemmachine waarbij de vrijgave geschiedt door de kiezer met behulp van een vrijgavekaart, zijn de [artikelen J 23**b** tot en met J 23**e**](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=J&paragraaf=3&artikel=J_23b&z=2004-02-04&g=2004-02-04)van toepassing.
+Indien gebruik wordt gemaakt van een stemmachine waarbij de vrijgave geschiedt door de kiezer met behulp van een vrijgavekaart, zijn de [artikelen J 23**b** tot en met J 23**e**](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=J&paragraaf=3&artikel=J_23b&z=2007-01-01&g=2007-01-01)van toepassing.
 
 ##### Artikel J 23b
 
@@ -394,7 +394,7 @@ Indien bij het uitbrengen van de stem blijkt dat de vrijgavekaart geen toegang g
 
 ##### Artikel J 24
 
-Indien een stemmachine tijdens de stemming wegens beschadiging of storing door een andere wordt vervangen, draagt de voorzitter van het stembureau er zorg voor dat de te vervangen stemmachine wordt geblokkeerd voor het uitbrengen van stemmen. Op de vervangende machine is [artikel J 20](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=J&paragraaf=3&artikel=J_20&z=2004-02-04&g=2004-02-04) van overeenkomstige toepassing.
+Indien een stemmachine tijdens de stemming wegens beschadiging of storing door een andere wordt vervangen, draagt de voorzitter van het stembureau er zorg voor dat de te vervangen stemmachine wordt geblokkeerd voor het uitbrengen van stemmen. Op de vervangende machine is [artikel J 20](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=J&paragraaf=3&artikel=J_20&z=2007-01-01&g=2007-01-01) van overeenkomstige toepassing.
 
 ##### Artikel J 25
 
@@ -432,7 +432,7 @@ Nadat de laatste tot de stemming toegelaten kiezer heeft gestemd, draagt de voor
 
 ##### Artikel J 28
 
-Indien de stemopneming is geschorst voordat de stembus zou worden geopend of, indien een stemmachine wordt gebezigd, voordat de voorzitter de handelingen zou verrichten die nodig zijn om een afdruk van de uitkomsten van de stemming te verkrijgen, is [artikel J 27, tweede lid en derde lid, aanhef en onder **a** tot en met **f**](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=J&paragraaf=4&artikel=J_27&z=2004-02-04&g=2004-02-04), van overeenkomstige toepassing.
+Indien de stemopneming is geschorst voordat de stembus zou worden geopend of, indien een stemmachine wordt gebezigd, voordat de voorzitter de handelingen zou verrichten die nodig zijn om een afdruk van de uitkomsten van de stemming te verkrijgen, is [artikel J 27, tweede lid en derde lid, aanhef en onder **a** tot en met **f**](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=J&paragraaf=4&artikel=J_27&z=2007-01-01&g=2007-01-01), van overeenkomstige toepassing.
 
 ##### Artikel J 29
 
@@ -450,13 +450,13 @@ Onmiddellijk na de ondertekening van het proces-verbaal wordt dit met de stembus
 
 ##### Artikel J 32
 
-De burgemeester stelt tijdig voor de aanvang van de hervatte zitting de hem ingevolge [artikel J 31](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=J&paragraaf=4&artikel=J_31&z=2004-02-04&g=2004-02-04) overgegeven stembus dan wel stemmachine, verzegelde pakken en verzegelde enveloppe ter beschikking van het stembureau.
+De burgemeester stelt tijdig voor de aanvang van de hervatte zitting de hem ingevolge [artikel J 31](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=J&paragraaf=4&artikel=J_31&z=2007-01-01&g=2007-01-01) overgegeven stembus dan wel stemmachine, verzegelde pakken en verzegelde enveloppe ter beschikking van het stembureau.
 
 ##### Artikel J 33
 
-1. In geval van een schorsing als bedoeld in [artikel J 27](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=J&paragraaf=4&artikel=J_27&z=2004-02-04&g=2004-02-04) opent het stembureau tijdig voor de aanvang van de hervatte stemming de verzegelde pakken en de verzegelde enveloppe en stelt het het aantal biljetten opnieuw vast. Voor deze stemming wordt een andere stembus gebezigd.
+1. In geval van een schorsing als bedoeld in [artikel J 27](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=J&paragraaf=4&artikel=J_27&z=2007-01-01&g=2007-01-01) opent het stembureau tijdig voor de aanvang van de hervatte stemming de verzegelde pakken en de verzegelde enveloppe en stelt het het aantal biljetten opnieuw vast. Voor deze stemming wordt een andere stembus gebezigd.
 
-2. Indien bij de geschorste stemming een stemmachine is gebruikt, wordt voor de hervatte stemming dezelfde machine gebezigd. Is de schorsing het gevolg geweest van een beschadiging van of storing in de stemmachine, dan behoeft bij de hervatte stemming niet dezelfde machine te worden gebezigd. Wordt in dat geval de stemming met een andere stemmachine hervat, dan is [artikel J 20](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=J&paragraaf=3&artikel=J_20&z=2004-02-04&g=2004-02-04) van overeenkomstige toepassing.
+2. Indien bij de geschorste stemming een stemmachine is gebruikt, wordt voor de hervatte stemming dezelfde machine gebezigd. Is de schorsing het gevolg geweest van een beschadiging van of storing in de stemmachine, dan behoeft bij de hervatte stemming niet dezelfde machine te worden gebezigd. Wordt in dat geval de stemming met een andere stemmachine hervat, dan is [artikel J 20](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=J&paragraaf=3&artikel=J_20&z=2007-01-01&g=2007-01-01) van overeenkomstige toepassing.
 
 3. De hervatte stemming duurt tot eenentwintig uur.
 
@@ -464,13 +464,13 @@ De burgemeester stelt tijdig voor de aanvang van de hervatte zitting de hem inge
 
 ##### Artikel J 34
 
-In geval van een schorsing als bedoeld in [artikel J 28](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=J&paragraaf=4&artikel=J_28&z=2004-02-04&g=2004-02-04) opent het stembureau na de aanvang van de hervatte zitting de verzegelde pakken en verzegelde enveloppe en begint het opnieuw met de stemopneming.
+In geval van een schorsing als bedoeld in [artikel J 28](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=J&paragraaf=4&artikel=J_28&z=2007-01-01&g=2007-01-01) opent het stembureau na de aanvang van de hervatte zitting de verzegelde pakken en verzegelde enveloppe en begint het opnieuw met de stemopneming.
 
 ##### Artikel J 35
 
-1. In geval van een schorsing als bedoeld in [artikel J 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=J&paragraaf=4&artikel=J_29&z=2004-02-04&g=2004-02-04), opent het stembureau na de aanvang van de hervatte zitting de verzegelde enveloppe en de stembus en zet het de stemopneming voort.
+1. In geval van een schorsing als bedoeld in [artikel J 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=J&paragraaf=4&artikel=J_29&z=2007-01-01&g=2007-01-01), opent het stembureau na de aanvang van de hervatte zitting de verzegelde enveloppe en de stembus en zet het de stemopneming voort.
 
-2. In geval van een schorsing als bedoeld in [artikel J 29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=J&paragraaf=4&artikel=J_29&z=2004-02-04&g=2004-02-04), opent het stembureau na de hervatting van de zitting de verzegelde enveloppe, stelt het de stemmachine in bedrijf en zet het de stemopneming voort.
+2. In geval van een schorsing als bedoeld in [artikel J 29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=J&paragraaf=4&artikel=J_29&z=2007-01-01&g=2007-01-01), opent het stembureau na de hervatting van de zitting de verzegelde enveloppe, stelt het de stemmachine in bedrijf en zet het de stemopneming voort.
 
 #### § 5. Waarnemers bij de verkiezingen
 
@@ -480,11 +480,11 @@ In geval van een schorsing als bedoeld in [artikel J 28](https://wetten.overheid
 
 2. Een aankondiging als bedoeld in het eerste lid bevat ten minste de volgende informatie:
 
-- a. de termijn, bedoeld in [artikel J 37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=J&paragraaf=5&artikel=J_37&z=2004-02-04&g=2004-02-04), voor het aanmelden van personen, en de verdere procedure die gevolgd moet worden om personen in aanmerking te laten komen als waarnemer;
+- a. de termijn, bedoeld in [artikel J 37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=J&paragraaf=5&artikel=J_37&z=2007-01-01&g=2007-01-01), voor het aanmelden van personen, en de verdere procedure die gevolgd moet worden om personen in aanmerking te laten komen als waarnemer;
 
-- b. de bij de aanmelding te vermelden gegevens, genoemd in [artikel J 37, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=J&paragraaf=5&artikel=J_37&z=2004-02-04&g=2004-02-04);
+- b. de bij de aanmelding te vermelden gegevens, genoemd in [artikel J 37, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=J&paragraaf=5&artikel=J_37&z=2007-01-01&g=2007-01-01);
 
-- c. de verplichting, bedoeld in [artikel J 37, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=J&paragraaf=5&artikel=J_37&z=2004-02-04&g=2004-02-04), tot overlegging van een afschrift van een geldig paspoort.
+- c. de verplichting, bedoeld in [artikel J 37, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=J&paragraaf=5&artikel=J_37&z=2007-01-01&g=2007-01-01), tot overlegging van een afschrift van een geldig paspoort.
 
 ##### Artikel J 37
 
@@ -526,7 +526,7 @@ De stukken, bedoeld in [artikel M 6, eerste lid, van de Kieswet](https://wetten.
 
 ##### Artikel M 2
 
-Indien burgemeester en wethouders van 's-Gravenhage gebruik hebben gemaakt van hun bevoegdheid, bedoeld in [artikel M 9, tweede lid, van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=M_9), gelden ten aanzien van de extra zittingen van de briefstembureaus voorafgaande aan de dag van de stemming de [artikelen M 3 tot en met M 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=M&artikel=M_3&z=2004-02-04&g=2004-02-04).
+Indien burgemeester en wethouders van 's-Gravenhage gebruik hebben gemaakt van hun bevoegdheid, bedoeld in [artikel M 9, tweede lid, van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=M_9), gelden ten aanzien van de extra zittingen van de briefstembureaus voorafgaande aan de dag van de stemming de [artikelen M 3 tot en met M 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=M&artikel=M_3&z=2007-01-01&g=2007-01-01).
 
 ##### Artikel M 3
 
@@ -568,7 +568,7 @@ Ten minste twee weken vóór de eerste zitting brengen burgemeester en wethouder
 
 ##### Artikel M 7
 
-1. De burgemeester van 's-Gravenhage of een door deze aan te wijzen ambtenaar stelt tijdig voor de aanvang van de stemopneming bedoeld in [artikel N 16a, eerste lid, van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=N_16a) de aan hem ingevolge [artikel M 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=M&artikel=M_6&z=2004-02-04&g=2004-02-04), overgedragen stembussen, verzegelde enveloppen en verzoekschriften waarvan de handtekening nog niet vergeleken is, ter beschikking aan de voorzitter van het briefstembureau.
+1. De burgemeester van 's-Gravenhage of een door deze aan te wijzen ambtenaar stelt tijdig voor de aanvang van de stemopneming bedoeld in [artikel N 16a, eerste lid, van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=N_16a) de aan hem ingevolge [artikel M 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=M&artikel=M_6&z=2007-01-01&g=2007-01-01), overgedragen stembussen, verzegelde enveloppen en verzoekschriften waarvan de handtekening nog niet vergeleken is, ter beschikking aan de voorzitter van het briefstembureau.
 
 2. Tijdig voor de aanvang van de stemopneming opent het stembureau de verzegelde enveloppen, waarna het vervolgens de stembussen opent.
 
@@ -600,7 +600,7 @@ Indien bij de stemming een stemmachine is gebezigd, gelden bij de stemopneming d
 
 ##### Artikel N 4
 
-1. Onmiddellijk na de in [artikel N 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=N&paragraaf=1&artikel=N_3&z=2004-02-04&g=2004-02-04) voorgeschreven handelingen, verricht de voorzitter de handelingen die nodig zijn om van de stemmachine een afdruk van de in het tweede lid bedoelde gegevens te verkrijgen.
+1. Onmiddellijk na de in [artikel N 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=N&paragraaf=1&artikel=N_3&z=2007-01-01&g=2007-01-01) voorgeschreven handelingen, verricht de voorzitter de handelingen die nodig zijn om van de stemmachine een afdruk van de in het tweede lid bedoelde gegevens te verkrijgen.
 
 2. Het stembureau stelt vast;
 
@@ -618,7 +618,7 @@ Indien bij de stemming een stemmachine is gebezigd, gelden bij de stemopneming d
 
 ##### Artikel N 5
 
-1. Nadat alle werkzaamheden, in [artikel N 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=N&paragraaf=1&artikel=N_3&z=2004-02-04&g=2004-02-04) vermeld, zijn beëindigd, wordt onmiddellijk proces-verbaal opgemaakt van de stemming en van de stemopneming. Alle ingebrachte bezwaren worden in het proces-verbaal vermeld. De in [artikel N 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=N&paragraaf=1&artikel=N_4&z=2004-02-04&g=2004-02-04), bedoelde afdruk wordt aan het proces-verbaal gehecht en maakt daarvan onderdeel uit. Indien in een stemlokaal meer dan één stemmachine wordt gebruikt, wordt van elke stemmachine een afdruk aan het proces-verbaal gehecht.
+1. Nadat alle werkzaamheden, in [artikel N 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=N&paragraaf=1&artikel=N_3&z=2007-01-01&g=2007-01-01) vermeld, zijn beëindigd, wordt onmiddellijk proces-verbaal opgemaakt van de stemming en van de stemopneming. Alle ingebrachte bezwaren worden in het proces-verbaal vermeld. De in [artikel N 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=N&paragraaf=1&artikel=N_4&z=2007-01-01&g=2007-01-01), bedoelde afdruk wordt aan het proces-verbaal gehecht en maakt daarvan onderdeel uit. Indien in een stemlokaal meer dan één stemmachine wordt gebruikt, wordt van elke stemmachine een afdruk aan het proces-verbaal gehecht.
 
 2. Het proces-verbaal wordt door alle aanwezige leden van het stembureau getekend.
 
@@ -626,7 +626,7 @@ Indien bij de stemming een stemmachine is gebezigd, gelden bij de stemopneming d
 
 ##### Artikel N 6
 
-1. Het proces-verbaal wordt met de verzegelde pakken, bedoeld in [artikel N 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=N&paragraaf=1&artikel=N_3&z=2004-02-04&g=2004-02-04) en het verzegelde pak, bedoeld in [artikel N 4, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=N&paragraaf=1&artikel=N_4&z=2004-02-04&g=2004-02-04), door de voorzitter of een door hem aan te wijzen ander lid van het stembureau naar de burgemeester of een door deze aan te wijzen ambtenaar overgebracht.
+1. Het proces-verbaal wordt met de verzegelde pakken, bedoeld in [artikel N 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=N&paragraaf=1&artikel=N_3&z=2007-01-01&g=2007-01-01) en het verzegelde pak, bedoeld in [artikel N 4, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=N&paragraaf=1&artikel=N_4&z=2007-01-01&g=2007-01-01), door de voorzitter of een door hem aan te wijzen ander lid van het stembureau naar de burgemeester of een door deze aan te wijzen ambtenaar overgebracht.
 
 2. Nadat het centraal stembureau de uitslag van de verkiezingen heeft vastgesteld, worden de stemmen gewist van het geheugen van de stemmachine waarop de stemmen zijn vastgelegd.
 
@@ -636,13 +636,13 @@ Vervallen
 
 ##### Artikel N 8
 
-De burgemeester is bevoegd de verzegelde pakken met de in [artikel N 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=N&paragraaf=1&artikel=N_3&z=2004-02-04&g=2004-02-04) bedoelde bescheiden te openen en, nadat onherroepelijk is beslist over de toelating van de gekozen leden tot het vertegenwoordigend orgaan, deze pakken ten dienste van een onderzoek naar enig strafbaar feit aan de officier van justitie over te dragen.
+De burgemeester is bevoegd de verzegelde pakken met de in [artikel N 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=N&paragraaf=1&artikel=N_3&z=2007-01-01&g=2007-01-01) bedoelde bescheiden te openen en, nadat onherroepelijk is beslist over de toelating van de gekozen leden tot het vertegenwoordigend orgaan, deze pakken ten dienste van een onderzoek naar enig strafbaar feit aan de officier van justitie over te dragen.
 
 #### § 2. Regeling van de schorsing en hervatting van de stemopneming.
 
 ##### Artikel N 9
 
-Indien met toepassing van [artikel N 16a van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=N_16a) de briefstembureaus te 's-Gravenhage op de dag van stemming aanvangen met de stemopneming, gelden ten aanzien van de schorsing en hervatting hiervan de[artikelen N 10 tot en met N 13](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=N&paragraaf=2&artikel=N_10&z=2004-02-04&g=2004-02-04).
+Indien met toepassing van [artikel N 16a van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=N_16a) de briefstembureaus te 's-Gravenhage op de dag van stemming aanvangen met de stemopneming, gelden ten aanzien van de schorsing en hervatting hiervan de[artikelen N 10 tot en met N 13](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=N&paragraaf=2&artikel=N_10&z=2007-01-01&g=2007-01-01).
 
 ##### Artikel N 10
 
@@ -656,7 +656,7 @@ Onmiddellijk na de ondertekening van het proces-verbaal, wordt dit tezamen met d
 
 ##### Artikel N 12
 
-Zodra de handelingen, bedoeld in de [artikelen M 10](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=M_10) en [M 11 van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=M_11), ten aanzien van alle tijdig binnengekomen retourenveloppen zijn beëindigd, stelt de burgemeester de hem ingevolge [artikel M 6](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=M&artikel=M_6&z=2004-02-04&g=2004-02-04) overhandigde verzegelde pakken en processen-verbaal van de extra zittingen en het hem ingevolge [artikel N 11](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=N&paragraaf=2&artikel=N_11&z=2004-02-04&g=2004-02-04) overhandigde proces-verbaal van de stemopneming en de verzegelde pakken met stembiljetten ter beschikking van het stembureau.
+Zodra de handelingen, bedoeld in de [artikelen M 10](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=M_10) en [M 11 van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=M_11), ten aanzien van alle tijdig binnengekomen retourenveloppen zijn beëindigd, stelt de burgemeester de hem ingevolge [artikel M 6](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=M&artikel=M_6&z=2007-01-01&g=2007-01-01) overhandigde verzegelde pakken en processen-verbaal van de extra zittingen en het hem ingevolge [artikel N 11](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=N&paragraaf=2&artikel=N_11&z=2007-01-01&g=2007-01-01) overhandigde proces-verbaal van de stemopneming en de verzegelde pakken met stembiljetten ter beschikking van het stembureau.
 
 ##### Artikel N 13
 
@@ -700,7 +700,7 @@ Achter de voorletters of, indien vermeld, de roepnaam, mag ter aanduiding van he
 
 ##### Artikel Y 1
 
-Ten aanzien van de verkiezing van de leden van het Europese Parlement zijn, voor zover deze afdeling niet anders bepaalt, de bij [afdeling II](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&z=2004-02-04&g=2004-02-04) van dit besluit gestelde bepalingen inzake de verkiezing van de leden van de Tweede Kamer van overeenkomstige toepassing.
+Ten aanzien van de verkiezing van de leden van het Europese Parlement zijn, voor zover deze afdeling niet anders bepaalt, de bij [afdeling II](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&z=2007-01-01&g=2007-01-01) van dit besluit gestelde bepalingen inzake de verkiezing van de leden van de Tweede Kamer van overeenkomstige toepassing.
 
 ##### Artikel Y 1a
 
@@ -708,7 +708,7 @@ De formulieren voor het verzoek, bedoeld in [artikel Y 32, eerste lid, van de Ki
 
 ##### Artikel Y 2
 
-De formulieren voor de kandidatenlijsten en de verklaringen, bedoeld in [artikel H 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=H&artikel=H_1&z=2004-02-04&g=2004-02-04), zijn gedurende drie weken vóór en op de dag van de kandidaatstelling mede verkrijgbaar bij het centraal stembureau voor de verkiezing van de leden van het Europese Parlement.
+De formulieren voor de kandidatenlijsten en de verklaringen, bedoeld in [artikel H 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=H&artikel=H_1&z=2007-01-01&g=2007-01-01), zijn gedurende drie weken vóór en op de dag van de kandidaatstelling mede verkrijgbaar bij het centraal stembureau voor de verkiezing van de leden van het Europese Parlement.
 
 ##### Artikel Y 3
 
@@ -726,7 +726,7 @@ De formulieren voor de verklaring, bedoeld in [artikel Y 19, eerste lid, van de 
 
 ##### Artikel Y 6
 
-[Artikel N 4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=H&artikel=H_1&z=2004-02-04&g=2004-02-04), blijft buiten toepassing.
+[Artikel N 4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=H&artikel=H_1&z=2007-01-01&g=2007-01-01), blijft buiten toepassing.
 
 ### Afdeling V. Slot- en overgangsbepalingen
 
