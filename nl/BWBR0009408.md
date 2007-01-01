@@ -4,7 +4,7 @@ identifier: "BWBR0009408"
 country: "nl"
 rank: "wet"
 publication_date: "2025-01-01"
-last_updated: "2006-03-01"
+last_updated: "2007-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009408"
 soort: "wet"
@@ -61,11 +61,11 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - f. degene die het wetenschappelijk onderzoek verricht: een persoon, bedrijf, instelling of organisatie die de verantwoordelijkheid op zich neemt voor het starten, het beheer of de financiering van het wetenschappelijk onderzoek;
 
-- g. degene die het wetenschappelijk onderzoek uitvoert: een arts of een in [artikel 3, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=2&artikel=3&z=2006-03-01&g=2006-03-01), bedoelde persoon, die verantwoordelijk is voor de uitvoering van het wetenschappelijk onderzoek op een bepaalde locatie. Indien de feitelijke uitvoering geschiedt door een werknemer of een andere hulppersoon, wordt degene die van deze persoon gebruik maakt aangemerkt als degene die het onderzoek uitvoert;
+- g. degene die het wetenschappelijk onderzoek uitvoert: een arts of een in [artikel 3, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=2&artikel=3&z=2007-01-01&g=2007-01-01), bedoelde persoon, die verantwoordelijk is voor de uitvoering van het wetenschappelijk onderzoek op een bepaalde locatie. Indien de feitelijke uitvoering geschiedt door een werknemer of een andere hulppersoon, wordt degene die van deze persoon gebruik maakt aangemerkt als degene die het onderzoek uitvoert;
 
-- h. commissie: een krachtens [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=6&artikel=16&z=2006-03-01&g=2006-03-01) erkende commissie;
+- h. commissie: een krachtens [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=6&artikel=16&z=2007-01-01&g=2007-01-01) erkende commissie;
 
-- i. centrale commissie: de commissie bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=6&artikel=14&z=2006-03-01&g=2006-03-01);
+- i. centrale commissie: de commissie bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=6&artikel=14&z=2007-01-01&g=2007-01-01);
 
 - j. College: het College ter beoordeling van geneesmiddelen, genoemd in [artikel 29, eerste lid, van de Wet op de Geneesmiddelenvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0002290&artikel=29);
 
@@ -93,7 +93,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 2. Het onderwerpen van personen aan handelingen en het opleggen aan personen van een bepaalde gedragswijze uitsluitend ten behoeve van de hulpverlening aan hen is onder het eerste lid, onder b, niet begrepen.
 
-3. Deze wet is niet van toepassing op wetenschappelijk onderzoek voor het verrichten waarvan een vergunning is vereist op grond van de [Wet op het bevolkingsonderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005699) en, met uitzondering van de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=3&artikel=7&z=2006-03-01&g=2006-03-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=4&artikel=9&z=2006-03-01&g=2006-03-01) en de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=4&artikel=8&z=2006-03-01&g=2006-03-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=5&artikel=11&z=2006-03-01&g=2006-03-01) en [33](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=8&artikel=33&z=2006-03-01&g=2006-03-01), voor zover deze betrekking hebben op [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=3&artikel=7&z=2006-03-01&g=2006-03-01), op wetenschappelijk onderzoek waarvan het onderzoeksprotocol ingevolge de [Embryowet](https://wetten.overheid.nl/jci1.3:c:BWBR0013797) een positief oordeel heeft gekregen van de centrale commissie, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=6&artikel=14&z=2006-03-01&g=2006-03-01).
+3. Deze wet is niet van toepassing op wetenschappelijk onderzoek voor het verrichten waarvan een vergunning is vereist op grond van de [Wet op het bevolkingsonderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005699) en, met uitzondering van de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=3&artikel=7&z=2007-01-01&g=2007-01-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=4&artikel=9&z=2007-01-01&g=2007-01-01) en de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=4&artikel=8&z=2007-01-01&g=2007-01-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=5&artikel=11&z=2007-01-01&g=2007-01-01) en [33](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=8&artikel=33&z=2007-01-01&g=2007-01-01), voor zover deze betrekking hebben op [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=3&artikel=7&z=2007-01-01&g=2007-01-01), op wetenschappelijk onderzoek waarvan het onderzoeksprotocol ingevolge de [Embryowet](https://wetten.overheid.nl/jci1.3:c:BWBR0013797) een positief oordeel heeft gekregen van de centrale commissie, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=6&artikel=14&z=2007-01-01&g=2007-01-01).
 
 ##### Artikel 2
 
@@ -107,19 +107,19 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - 1°. een beslissing op een administratief beroep;
 
-- 2°. een wetenschappelijk onderzoek als bedoeld in de [tweede volzin van artikel 4 , eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=2&artikel=4&z=2006-03-01&g=2006-03-01), dat niet aan de betrokken proefpersoon ten goede kan komen en waarbij diens toestand opzettelijk wordt gewijzigd;
+- 2°. een wetenschappelijk onderzoek als bedoeld in de [tweede volzin van artikel 4 , eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=2&artikel=4&z=2007-01-01&g=2007-01-01), dat niet aan de betrokken proefpersoon ten goede kan komen en waarbij diens toestand opzettelijk wordt gewijzigd;
 
-- 3°. een wetenschappelijk onderzoek waarvan de beoordeling ingevolge [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=6&artikel=19&z=2006-03-01&g=2006-03-01) bij de centrale commissie berust;
+- 3°. een wetenschappelijk onderzoek waarvan de beoordeling ingevolge [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=6&artikel=19&z=2007-01-01&g=2007-01-01) bij de centrale commissie berust;
 
 - 4°. overige bij algemene maatregel van bestuur aangewezen vormen van wetenschappelijk onderzoek waarvan beoordeling door de centrale commissie gewenst is gelet op de aan het onderzoek verbonden maatschappelijke, ethische of juridische aspecten.
 
-3. De beoordeling door de onderscheiden commissies geschiedt op de grondslag van de [paragrafen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=2&z=2006-03-01&g=2006-03-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=3&z=2006-03-01&g=2006-03-01) en voor zover het wetenschappelijk onderzoek met geneesmiddelen betreft, [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=5a&z=2006-03-01&g=2006-03-01).
+3. De beoordeling door de onderscheiden commissies geschiedt op de grondslag van de [paragrafen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=2&z=2007-01-01&g=2007-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=3&z=2007-01-01&g=2007-01-01) en voor zover het wetenschappelijk onderzoek met geneesmiddelen betreft, [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=5a&z=2007-01-01&g=2007-01-01).
 
 #### Paragraaf 2. Regels voor wetenschappelijk onderzoek met proefpersonen
 
 ##### Artikel 3
 
-De ingevolge [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=1&artikel=2&z=2006-03-01&g=2006-03-01), bevoegde commissie kan slechts een positief oordeel over een onderzoeksprotocol geven, indien:
+De ingevolge [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=1&artikel=2&z=2007-01-01&g=2007-01-01), bevoegde commissie kan slechts een positief oordeel over een onderzoeksprotocol geven, indien:
 
 - a. redelijkerwijs aannemelijk is dat het wetenschappelijk onderzoek tot de vaststelling van nieuwe inzichten op het gebied van de medische wetenschap zal leiden;
 
@@ -229,7 +229,7 @@ Degene die het wetenschappelijk onderzoek verricht, draagt er zorg voor dat de p
 
 ##### Artikel 11
 
-Degene die het wetenschappelijk onderzoek uitvoert, draagt er zorg voor dat de proefpersoon tijdig wordt ingelicht over het bepaalde in de [artikel 6, zesde lid, tweede volzin, en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=2&artikel=6&z=2006-03-01&g=2006-03-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=3&artikel=7&z=2006-03-01&g=2006-03-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=4&artikel=9&z=2006-03-01&g=2006-03-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=5&artikel=10&z=2006-03-01&g=2006-03-01) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=5&artikel=12&z=2006-03-01&g=2006-03-01) en over het verloop van het onderzoek. De verstrekte inlichtingen worden desgevraagd aangevuld. Gelijke verplichting geldt ten opzichte van de andere personen van wie op grond van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=2&artikel=6&z=2006-03-01&g=2006-03-01) de toestemming is vereist.
+Degene die het wetenschappelijk onderzoek uitvoert, draagt er zorg voor dat de proefpersoon tijdig wordt ingelicht over het bepaalde in de [artikelen 6, zesde lid, tweede volzin, en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=2&artikel=6&z=2007-01-01&g=2007-01-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=3&artikel=7&z=2007-01-01&g=2007-01-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=4&artikel=9&z=2007-01-01&g=2007-01-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=5&artikel=10&z=2007-01-01&g=2007-01-01) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=5&artikel=12&z=2007-01-01&g=2007-01-01) en over het verloop van het onderzoek. De verstrekte inlichtingen worden desgevraagd aangevuld. Gelijke verplichting geldt ten opzichte van de andere personen van wie op grond van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=2&artikel=6&z=2007-01-01&g=2007-01-01) de toestemming is vereist.
 
 ##### Artikel 12
 
@@ -341,17 +341,17 @@ De centrale commissie houdt toezicht op de werkzaamheden van de commissies. Zij 
 
 1. De centrale commissie trekt een aan een commissie verleende erkenning in indien:
 
-- a. de commissie niet langer voldoet aan een van de in [artikel 16, tweede lid, onder a tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=6&artikel=16&z=2006-03-01&g=2006-03-01), met het oog op erkenning gestelde voorwaarden;
+- a. de commissie niet langer voldoet aan een van de in [artikel 16, tweede lid, onder a tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=6&artikel=16&z=2007-01-01&g=2007-01-01), met het oog op erkenning gestelde voorwaarden;
 
 - b. de commissie de verplichtingen die voor haar voortvloeien uit deze wet, onvoldoende nakomt;
 
 - c. door een wijziging van het reglement van de commissie een goede uitoefening van de werkzaamheden waarmee zij ingevolge deze wet is belast, redelijkerwijs niet langer is verzekerd.
 
-2. De centrale commissie kan voorts een erkenning intrekken indien door de commissie in de laatste twee kalenderjaren een kleiner aantal onderzoeksprotocollen is beoordeeld dan het aantal, bedoeld in [artikel 16, tweede lid, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=6&artikel=16&z=2006-03-01&g=2006-03-01).
+2. De centrale commissie kan voorts een erkenning intrekken indien door de commissie in de laatste twee kalenderjaren een kleiner aantal onderzoeksprotocollen is beoordeeld dan het aantal, bedoeld in [artikel 16, tweede lid, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=6&artikel=16&z=2007-01-01&g=2007-01-01).
 
 3. Een beslissing tot intrekking van een erkenning wordt niet genomen dan nadat de commissie door de centrale commissie is gehoord.
 
-4. Van de intrekking wordt schriftelijk mededeling gedaan aan de commissie. [Artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=6&artikel=17&z=2006-03-01&g=2006-03-01), is van overeenkomstige toepassing.
+4. Van de intrekking wordt schriftelijk mededeling gedaan aan de commissie. [Artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=6&artikel=17&z=2007-01-01&g=2007-01-01), is van overeenkomstige toepassing.
 
 ##### Artikel 26
 
@@ -405,9 +405,9 @@ Onze Minister kan, in overeenstemming met Onze Minister van Defensie, de artikel
 
 ##### Artikel 33
 
-1. Met gevangenisstraf van ten hoogste een jaar of geldboete van de vierde categorie wordt gestraft degene die al dan niet opzettelijk handelt in strijd met een verbod, vervat in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=2&artikel=6&z=2006-03-01&g=2006-03-01).
+1. Met gevangenisstraf van ten hoogste een jaar of geldboete van de vierde categorie wordt gestraft degene die al dan niet opzettelijk handelt in strijd met een verbod, vervat in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=2&artikel=6&z=2007-01-01&g=2007-01-01).
 
-2. Met hechtenis van ten hoogste zes maanden of geldboete van de vierde categorie wordt gestraft degene die handelt in strijd met de verplichting zorg te dragen voor de nakoming van[artikel 2, eerste lid of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=1&artikel=2&z=2006-03-01&g=2006-03-01), of [7](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=3&artikel=7&z=2006-03-01&g=2006-03-01) dan wel in strijd met een verplichting, vervat in de [paragrafen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=5&z=2006-03-01&g=2006-03-01) en [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=5a&z=2006-03-01&g=2006-03-01) of in strijd met een gedragslijn bedoeld in [artikel 13n](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=5a&artikel=13n&z=2006-03-01&g=2006-03-01). Met dezelfde straf wordt gestraft degene die handelt in strijd met een verbod, vervat in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=2&artikel=4&z=2006-03-01&g=2006-03-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=2&artikel=5&z=2006-03-01&g=2006-03-01) en [13c](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=5a&artikel=13c&z=2006-03-01&g=2006-03-01) en degene die wetenschappelijk onderzoek uitvoert zonder een protocol waarover een positief oordeel is verkregen, dan wel in strijd daarmee.
+2. Met hechtenis van ten hoogste zes maanden of geldboete van de vierde categorie wordt gestraft degene die handelt in strijd met de verplichting zorg te dragen voor de nakoming van[artikel 2, eerste lid of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=1&artikel=2&z=2007-01-01&g=2007-01-01), of [7](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=3&artikel=7&z=2007-01-01&g=2007-01-01) dan wel in strijd met een verplichting, vervat in de [paragrafen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=5&z=2007-01-01&g=2007-01-01) en [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=5a&z=2007-01-01&g=2007-01-01) of in strijd met een gedragslijn bedoeld in [artikel 13n](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=5a&artikel=13n&z=2007-01-01&g=2007-01-01). Met dezelfde straf wordt gestraft degene die handelt in strijd met een verbod, vervat in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=2&artikel=4&z=2007-01-01&g=2007-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=2&artikel=5&z=2007-01-01&g=2007-01-01) en [13c](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=5a&artikel=13c&z=2007-01-01&g=2007-01-01) en degene die wetenschappelijk onderzoek uitvoert zonder een protocol waarover een positief oordeel is verkregen, dan wel in strijd daarmee.
 
 3. De in het eerste lid strafbaar gestelde feiten zijn misdrijven; de in het tweede lid strafbaar gestelde feiten zijn overtredingen.
 
@@ -451,7 +451,7 @@ Wetenschappelijk onderzoek, met inbegrip van gespreid uitgevoerd wetenschappelij
 
 2. Behoudens ingeval van dreigend gevaar, stelt de commissie, alvorens het positieve oordeel op te schorten of in te trekken, degene die het wetenschappelijk onderzoek verricht of degene die het wetenschappelijk onderzoek uitvoert, in de gelegenheid binnen één week zijn zienswijze naar voren te brengen.
 
-3. Indien een commissie besluit een door haar gegeven positief oordeel over een onderzoeksprotocol inzake wetenschappelijk onderzoek met geneesmiddelen op te schorten of in te trekken, stelt zij de centrale commissie of Onze Minister, ingeval [artikel 13i, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=5a&artikel=13i&z=2006-03-01&g=2006-03-01), van toepassing is, en het College hiervan op de hoogte, onder opgaaf van redenen.
+3. Indien een commissie besluit een door haar gegeven positief oordeel over een onderzoeksprotocol inzake wetenschappelijk onderzoek met geneesmiddelen op te schorten of in te trekken, stelt zij de centrale commissie of Onze Minister, ingeval [artikel 13i, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=5a&artikel=13i&z=2007-01-01&g=2007-01-01), van toepassing is, en het College hiervan op de hoogte, onder opgaaf van redenen.
 
 4. Het College stelt onder opgaaf van redenen het Europese Bureau voor de geneesmiddelenbeoordeling en de Europese Commissie onmiddellijk op de hoogte van de opschorting of intrekking van een gegeven positief oordeel over een onderzoeksprotocol inzake een wetenschappelijk onderzoek met geneesmiddelen.
 
@@ -463,7 +463,7 @@ Wetenschappelijk onderzoek, met inbegrip van gespreid uitgevoerd wetenschappelij
 
 ##### Artikel 13a
 
-Op wetenschappelijk onderzoek met geneesmiddelen is naast het bepaalde in de [paragrafen 1 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=1&z=2006-03-01&g=2006-03-01) het bepaalde in deze paragraaf van toepassing.
+Op wetenschappelijk onderzoek met geneesmiddelen is naast het bepaalde in de [paragrafen 1 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=1&z=2007-01-01&g=2007-01-01) het bepaalde in deze paragraaf van toepassing.
 
 ##### Artikel 13b
 
@@ -477,7 +477,7 @@ Het is verboden in het kader van gentherapie wetenschappelijk onderzoek met gene
 
 ##### Artikel 13d
 
-Onverminderd het bepaalde in[paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=2&z=2006-03-01&g=2006-03-01) kan de ingevolge [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=1&artikel=2&z=2006-03-01&g=2006-03-01), bevoegde commissie slechts een positief oordeel geven over een onderzoeksprotocol dat betrekking heeft op wetenschappelijk onderzoek met geneesmiddelen indien:
+Onverminderd het bepaalde in[paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=2&z=2007-01-01&g=2007-01-01) kan de ingevolge [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=1&artikel=2&z=2007-01-01&g=2007-01-01), bevoegde commissie slechts een positief oordeel geven over een onderzoeksprotocol dat betrekking heeft op wetenschappelijk onderzoek met geneesmiddelen indien:
 
 - a. degene die het wetenschappelijk onderzoek verricht of zijn wettelijk vertegenwoordiger op het grondgebied van de Europese Gemeenschap gevestigd is;
 
@@ -487,27 +487,27 @@ Onverminderd het bepaalde in[paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BW
 
 ##### Artikel 13e
 
-Onverminderd het bepaalde in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=2&z=2006-03-01&g=2006-03-01) mag wetenschappelijk onderzoek met geneesmiddelen bij minderjarige proefpersonen slechts worden verricht indien:
+Onverminderd het bepaalde in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=2&z=2007-01-01&g=2007-01-01) mag wetenschappelijk onderzoek met geneesmiddelen bij minderjarige proefpersonen slechts worden verricht indien:
 
 - a. het onderzoek van essentieel belang is om de resultaten te kunnen bevestigen van wetenschappelijk onderzoek met geneesmiddelen met personen die wel hun toestemming volgens deze wet kunnen geven of van andere onderzoeksmethoden en het onderzoek enig direct voordeel inhoudt voor de betrokken groep van patiënten;
 
 - b. de desbetreffende door het Europese Bureau voor de geneesmiddelenbeoordeling vastgestelde wetenschappelijke richtsnoeren in acht worden genomen;
 
-- c. het risico, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=2&artikel=4&z=2006-03-01&g=2006-03-01), en de belastingsgraad specifiek worden gedefinieerd en permanent worden gecontroleerd;
+- c. het risico, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=2&artikel=4&z=2007-01-01&g=2007-01-01), en de belastingsgraad specifiek worden gedefinieerd en permanent worden gecontroleerd;
 
-- d. de ingevolge [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=1&artikel=2&z=2006-03-01&g=2006-03-01), bevoegde commissie beschikt over expertise op het gebied van kindergeneeskunde of pediatrisch advies heeft ingewonnen inzake de klinische, ethische en psychosociale aspecten van het onderzoek;
+- d. de ingevolge [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=1&artikel=2&z=2007-01-01&g=2007-01-01), bevoegde commissie beschikt over expertise op het gebied van kindergeneeskunde of pediatrisch advies heeft ingewonnen inzake de klinische, ethische en psychosociale aspecten van het onderzoek;
 
 - e. de belangen van de patiënt altijd prevaleren boven die van de wetenschap en de samenleving.
 
 ##### Artikel 13f
 
-Onverminderd het bepaalde in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=2&z=2006-03-01&g=2006-03-01) mag wetenschappelijk onderzoek met geneesmiddelen bij meerderjarige proefpersonen die niet in staat zijn tot een redelijke waardering van hun belangen ter zake, slechts worden uitgevoerd indien:
+Onverminderd het bepaalde in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=2&z=2007-01-01&g=2007-01-01) mag wetenschappelijk onderzoek met geneesmiddelen bij meerderjarige proefpersonen die niet in staat zijn tot een redelijke waardering van hun belangen ter zake, slechts worden uitgevoerd indien:
 
 - a. het onderzoek van essentieel belang is om de resultaten te kunnen bevestigen van wetenschappelijk onderzoek met geneesmiddelen bij personen die wel volgens deze wet hun toestemming kunnen geven, of van andere onderzoeksmethoden, en het direct gerelateerd is aan een klinische toestand die levensbedreigend is of de gezondheid ondermijnt, en waarin de proefpersoon verkeert;
 
-- b. het risico, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=2&artikel=4&z=2006-03-01&g=2006-03-01), en de belastingsgraad specifiek worden gedefinieerd en permanent worden gecontroleerd;
+- b. het risico, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=2&artikel=4&z=2007-01-01&g=2007-01-01), en de belastingsgraad specifiek worden gedefinieerd en permanent worden gecontroleerd;
 
-- c. de ingevolge [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=1&artikel=2&z=2006-03-01&g=2006-03-01), bevoegde commissie beschikt over expertise op het gebied van de desbetreffende ziekte en de betrokken populatie of advies heeft ingewonnen inzake de klinische, ethische en psychosociale aspecten van de desbetreffende ziekte en populatie;
+- c. de ingevolge [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=1&artikel=2&z=2007-01-01&g=2007-01-01), bevoegde commissie beschikt over expertise op het gebied van de desbetreffende ziekte en de betrokken populatie of advies heeft ingewonnen inzake de klinische, ethische en psychosociale aspecten van de desbetreffende ziekte en populatie;
 
 - d. de belangen van de patiënt altijd prevaleren boven die van de wetenschap en de samenleving;
 
@@ -515,9 +515,9 @@ Onverminderd het bepaalde in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:B
 
 ##### Artikel 13g
 
-1. De ingevolge [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=1&artikel=2&z=2006-03-01&g=2006-03-01), bevoegde commissie geeft haar oordeel mede gelet op het onderzoekersdossier en beslist op een aanvraag tot het verkrijgen van een positief oordeel over een onderzoeksprotocol met betrekking tot wetenschappelijk onderzoek met geneesmiddelen binnen zestig dagen na ontvangst van de aanvraag.
+1. De ingevolge [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=1&artikel=2&z=2007-01-01&g=2007-01-01), bevoegde commissie geeft haar oordeel mede gelet op het onderzoekersdossier en beslist op een aanvraag tot het verkrijgen van een positief oordeel over een onderzoeksprotocol met betrekking tot wetenschappelijk onderzoek met geneesmiddelen binnen zestig dagen na ontvangst van de aanvraag.
 
-2. Gedurende de termijn waarbinnen de aanvraag wordt behandeld kan de ingevolge [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=1&artikel=2&z=2006-03-01&g=2006-03-01), bevoegde commissie eenmaal nadere informatie vragen als aanvulling op de door de aanvrager reeds verstrekte informatie.
+2. Gedurende de termijn waarbinnen de aanvraag wordt behandeld kan de ingevolge [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=1&artikel=2&z=2007-01-01&g=2007-01-01), bevoegde commissie eenmaal nadere informatie vragen als aanvulling op de door de aanvrager reeds verstrekte informatie.
 
 3. De in het eerste lid genoemde termijn kan bij wetenschappelijk onderzoek met geneesmiddelen voor gentherapie en somatische celtherapie en alle geneesmiddelen die genetisch gemodificeerde organismen bevatten, met ten hoogste dertig dagen worden verlengd.
 
@@ -525,7 +525,7 @@ Onverminderd het bepaalde in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:B
 
 ##### Artikel 13h
 
-1. Een aanvraag om een oordeel van een daartoe ingevolge [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=1&artikel=2&z=2006-03-01&g=2006-03-01), bevoegde commissie over een wetenschappelijk onderzoek met geneesmiddelen moet voldoen aan bij ministeriële regeling gestelde regels. Deze regels betreffen de vorm van het verzoek en de bescheiden die daarbij moeten worden overgelegd, met name ten aanzien van de informatie die aan proefpersonen wordt verstrekt, en de adequate waarborgen ter bescherming van persoonlijke gegevens.
+1. Een aanvraag om een oordeel van een daartoe ingevolge [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=1&artikel=2&z=2007-01-01&g=2007-01-01), bevoegde commissie over een wetenschappelijk onderzoek met geneesmiddelen moet voldoen aan bij ministeriële regeling gestelde regels. Deze regels betreffen de vorm van het verzoek en de bescheiden die daarbij moeten worden overgelegd, met name ten aanzien van de informatie die aan proefpersonen wordt verstrekt, en de adequate waarborgen ter bescherming van persoonlijke gegevens.
 
 2. Indien de in het eerste lid bedoelde aanvraag betrekking heeft op wetenschappelijk onderzoek met geregistreerde geneesmiddelen, behoeft bij de aanvraag slechts de samenvatting van de productinformatie zoals die bij de registratie is vastgesteld te worden verstrekt. Indien sprake is van een ten opzichte van de registratie afwijkende toedieningsvorm, indicatie, patiëntengroep of dosering wordt de samenvatting van de productinformatie aangevuld met de voor het desbetreffende onderzoek relevante aanvullende informatie.
 
@@ -539,7 +539,7 @@ Onverminderd het bepaalde in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:B
 
 4. Heeft de in het tweede lid bedoelde kennisgeving betrekking op wetenschappelijk onderzoek met geneesmiddelen voor gentherapie, somatische celtherapie, xenogene celtherapie of geneesmiddelen die genetisch gemodificeerde organismen bevatten, dan mag de uitvoering van het onderzoek slechts aanvangen indien de centrale commissie dan wel Onze Minister, indien het vijfde lid van toepassing is, uitdrukkelijk schriftelijk heeft verklaard geen bezwaar tegen het onderzoek te hebben. In dat geval kan de in het derde lid bedoelde termijn worden verlengd met ten hoogste dertig dagen, met dien verstande dat op grond van deze wet geen termijn geldt voor het kenbaar maken van gemotiveerde bezwaren tegen onderzoek met geneesmiddelen voor xenogene celtherapie.
 
-5. In afwijking van het eerste en tweede lid wordt, indien de beoordeling van het onderzoeksprotocol ingevolge [artikel 2, tweede lid, onder b, 2°, 3° of 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=1&artikel=2&z=2006-03-01&g=2006-03-01) plaatsvindt door de centrale commissie, de in het tweede lid bedoelde kennisgeving gedaan bij Onze Minister en beslist deze ter zake met overeenkomstige toepassing van dit artikel.
+5. In afwijking van het eerste en tweede lid wordt, indien de beoordeling van het onderzoeksprotocol ingevolge [artikel 2, tweede lid, onder b, 2°, 3° of 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=1&artikel=2&z=2007-01-01&g=2007-01-01) plaatsvindt door de centrale commissie, de in het tweede lid bedoelde kennisgeving gedaan bij Onze Minister en beslist deze ter zake met overeenkomstige toepassing van dit artikel.
 
 6. Bij ministeriële regeling worden regels vastgesteld betreffende de vorm en de inhoud van de in het tweede lid bedoelde kennisgeving, de hierbij in te dienen bewijsstukken, de vorm en inhoud van een voorstel tot substantiële wijzigingen die in het protocol worden aangebracht en de verklaring dat het onderzoek is beëindigd.
 
@@ -547,9 +547,9 @@ Onverminderd het bepaalde in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:B
 
 ##### Artikel 13j
 
-1. De centrale commissie of Onze Minister, ingeval het [vijfde lid van artikel 13i](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=5a&artikel=13i&z=2006-03-01&g=2006-03-01) van toepassing is, maakt slechts gemotiveerd bezwaar indien in de Europese databank reeds bijwerkingen van het geneesmiddel voor onderzoek zijn opgenomen, die leiden tot onaanvaardbare risico’s voor de proefpersoon.
+1. De centrale commissie of Onze Minister, ingeval het [vijfde lid van artikel 13i](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=5a&artikel=13i&z=2007-01-01&g=2007-01-01) van toepassing is, maakt slechts gemotiveerd bezwaar indien in de Europese databank reeds bijwerkingen van het geneesmiddel voor onderzoek zijn opgenomen, die leiden tot onaanvaardbare risico’s voor de proefpersoon.
 
-2. De Inspectie voor de Gezondheidszorg controleert op verzoek van de centrale commissie of van Onze Minister, ingeval het [vijfde lid van artikel 13i](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=5a&artikel=13i&z=2006-03-01&g=2006-03-01) van toepassing is, of het wetenschappelijk onderzoek met geneesmiddelen naar verwachting kan plaats vinden overeenkomstig deze wet. Het bepaalde in [artikel 5:12](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:12), [5:13](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:13) en [5:15 tot en met 5:20 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:15) is van overeenkomstige toepassing.
+2. De Inspectie voor de Gezondheidszorg controleert op verzoek van de centrale commissie of van Onze Minister, ingeval het [vijfde lid van artikel 13i](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=5a&artikel=13i&z=2007-01-01&g=2007-01-01) van toepassing is, of het wetenschappelijk onderzoek met geneesmiddelen naar verwachting kan plaats vinden overeenkomstig deze wet. Het bepaalde in [artikel 5:12](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:12), [5:13](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:13) en [5:15 tot en met 5:20 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:15) is van overeenkomstige toepassing.
 
 ##### Artikel 13k
 
@@ -557,37 +557,37 @@ Onverminderd het bepaalde in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:B
 
 2. Indien de wijziging substantieel is en effect kan hebben op de veiligheid van proefpersonen of kan leiden tot een andere interpretatie van de wetenschappelijke documenten die het verloop van het onderzoek onderbouwen of indien de wijziging anderszins significant is, mag degene die het onderzoek verricht het protocol slechts wijzigen indien:
 
-- a. hij de ingevolge [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=1&artikel=2&z=2006-03-01&g=2006-03-01), bevoegde commissie, de in [artikel 13i, eerste of vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=5a&artikel=13i&z=2006-03-01&g=2006-03-01), bedoelde instantie en in voorkomend geval de bevoegde instantie van een andere lidstaat, die als laatste haar oordeel heeft gegeven, in kennis stelt van de redenen en de inhoud van de voorgenomen wijziging;
+- a. hij de ingevolge [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=1&artikel=2&z=2007-01-01&g=2007-01-01), bevoegde commissie, de in [artikel 13i, eerste of vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=5a&artikel=13i&z=2007-01-01&g=2007-01-01), bedoelde instantie en in voorkomend geval de bevoegde instantie van een andere lidstaat, die als laatste haar oordeel heeft gegeven, in kennis stelt van de redenen en de inhoud van de voorgenomen wijziging;
 
-- b. de ingevolge [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=1&artikel=2&z=2006-03-01&g=2006-03-01), bevoegde commissie een positief oordeel uitspreekt over het voorstel tot wijziging van het protocol en
+- b. de ingevolge [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=1&artikel=2&z=2007-01-01&g=2007-01-01), bevoegde commissie een positief oordeel uitspreekt over het voorstel tot wijziging van het protocol en
 
-- c. de in [artikel 13i, eerste of vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=5a&artikel=13i&z=2006-03-01&g=2006-03-01), bedoelde instantie geen gemotiveerde bezwaren tegen de voorgestelde wijziging van het protocol heeft ingebracht.
+- c. de in [artikel 13i, eerste of vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=5a&artikel=13i&z=2007-01-01&g=2007-01-01), bedoelde instantie geen gemotiveerde bezwaren tegen de voorgestelde wijziging van het protocol heeft ingebracht.
 
-3. Ingeval de in [artikel 13i, eerste of vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=5a&artikel=13i&z=2006-03-01&g=2006-03-01), bedoelde instantie of de bevoegde instanties van andere lidstaten gemotiveerde bezwaren tegen de wijziging van het protocol hebben ingebracht, kan het onderzoek slechts doorgang vinden indien degene die het wetenschappelijk onderzoek verricht, de voorgenomen wijziging van het protocol aanpast aan de gemaakte bezwaren.
+3. Ingeval de in [artikel 13i, eerste of vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=5a&artikel=13i&z=2007-01-01&g=2007-01-01), bedoelde instantie of de bevoegde instanties van andere lidstaten gemotiveerde bezwaren tegen de wijziging van het protocol hebben ingebracht, kan het onderzoek slechts doorgang vinden indien degene die het wetenschappelijk onderzoek verricht, de voorgenomen wijziging van het protocol aanpast aan de gemaakte bezwaren.
 
-4. De ingevolge [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=1&artikel=2&z=2006-03-01&g=2006-03-01), bevoegde commissie beoordeelt de wijziging van het protocol binnen een termijn van vijfendertig dagen na ontvangst van het voorstel tot wijziging van het protocol.
+4. De ingevolge [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=1&artikel=2&z=2007-01-01&g=2007-01-01), bevoegde commissie beoordeelt de wijziging van het protocol binnen een termijn van vijfendertig dagen na ontvangst van het voorstel tot wijziging van het protocol.
 
-5. De in [artikel 13i, eerste of vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=5a&artikel=13i&z=2006-03-01&g=2006-03-01), bedoelde instantie maakt uiterlijk binnen vijfendertig dagen na ontvangst van het voorstel tot wijziging van het protocol daartegen gemotiveerde bezwaren.
+5. De in [artikel 13i, eerste of vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=5a&artikel=13i&z=2007-01-01&g=2007-01-01), bedoelde instantie maakt uiterlijk binnen vijfendertig dagen na ontvangst van het voorstel tot wijziging van het protocol daartegen gemotiveerde bezwaren.
 
 ##### Artikel 13l
 
-1. Degene die het onderzoek verricht stelt de ingevolge [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=1&artikel=2&z=2006-03-01&g=2006-03-01), bevoegde commissie, de in [artikel 13i, eerste of vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=5a&artikel=13i&z=2006-03-01&g=2006-03-01), bedoelde instantie en in voorkomend geval de bevoegde instantie van een andere lidstaat binnen negentig dagen na het einde van een wetenschappelijk onderzoek met geneesmiddelen ervan op de hoogte dat het onderzoek beëindigd is.
+1. Degene die het onderzoek verricht stelt de ingevolge [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=1&artikel=2&z=2007-01-01&g=2007-01-01), bevoegde commissie, de in [artikel 13i, eerste of vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=5a&artikel=13i&z=2007-01-01&g=2007-01-01), bedoelde instantie en in voorkomend geval de bevoegde instantie van een andere lidstaat binnen negentig dagen na het einde van een wetenschappelijk onderzoek met geneesmiddelen ervan op de hoogte dat het onderzoek beëindigd is.
 
-2. Wanneer het onderzoek voortijdig moet worden stopgezet, stelt degene die het onderzoek verricht de ingevolge [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=1&artikel=2&z=2006-03-01&g=2006-03-01), bevoegde commissie, de in [artikel 13i, eerste of vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=5a&artikel=13i&z=2006-03-01&g=2006-03-01), bedoelde instantie en in voorkomend geval de bevoegde instantie van een andere lidstaat binnen vijftien dagen na de stopzetting onder opgaaf van redenen op de hoogte.
+2. Wanneer het onderzoek voortijdig moet worden stopgezet, stelt degene die het onderzoek verricht de ingevolge [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=1&artikel=2&z=2007-01-01&g=2007-01-01), bevoegde commissie, de in [artikel 13i, eerste of vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=5a&artikel=13i&z=2007-01-01&g=2007-01-01), bedoelde instantie en in voorkomend geval de bevoegde instantie van een andere lidstaat binnen vijftien dagen na de stopzetting onder opgaaf van redenen op de hoogte.
 
 ##### Artikel 13m
 
-1. De in [artikel 13i, eerste lid en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=5a&artikel=13i&z=2006-03-01&g=2006-03-01), bedoelde instantie stelt de bij of krachtens algemene maatregel van bestuur aangewezen gegevens betreffende wetenschappelijk onderzoek met geneesmiddelen, dat plaatsvindt in Nederland, ter beschikking van het College.
+1. De in [artikel 13i, eerste lid en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=5a&artikel=13i&z=2007-01-01&g=2007-01-01), bedoelde instantie stelt de bij of krachtens algemene maatregel van bestuur aangewezen gegevens betreffende wetenschappelijk onderzoek met geneesmiddelen, dat plaatsvindt in Nederland, ter beschikking van het College.
 
-2. Het College draagt zorg voor de invoering van deze gegevens in een Europese databank die uitsluitend toegankelijk is voor het College, de centrale commissie of Onze Minister, ingeval het [vijfde lid van artikel 13i](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=5a&artikel=13i&z=2006-03-01&g=2006-03-01) van toepassing is, de Inspectie voor de Gezondheidszorg, de bevoegde instanties van andere lidstaten, het Europees Bureau voor de geneesmiddelenbeoordeling en voor de Europese Commissie. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot de vertrouwelijkheid van de in de Europese databank opgenomen gegevens.
+2. Het College draagt zorg voor de invoering van deze gegevens in een Europese databank die uitsluitend toegankelijk is voor het College, de centrale commissie of Onze Minister, ingeval het [vijfde lid van artikel 13i](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=5a&artikel=13i&z=2007-01-01&g=2007-01-01) van toepassing is, de Inspectie voor de Gezondheidszorg, de bevoegde instanties van andere lidstaten, het Europees Bureau voor de geneesmiddelenbeoordeling en voor de Europese Commissie. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot de vertrouwelijkheid van de in de Europese databank opgenomen gegevens.
 
-3. Op een met redenen omkleed verzoek van een andere lidstaat, het Europees Bureau voor geneesmiddelenbeoordeling of de Europese Commissie verstrekt de in [artikel 13i, eerste lid en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=5a&artikel=13i&z=2006-03-01&g=2006-03-01), bedoelde instantie alle aanvullende inlichtingen betreffende een wetenschappelijk onderzoek met geneesmiddelen, die nog niet in de Europese databank zijn opgenomen.
+3. Op een met redenen omkleed verzoek van een andere lidstaat, het Europees Bureau voor geneesmiddelenbeoordeling of de Europese Commissie verstrekt de in [artikel 13i, eerste lid en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=5a&artikel=13i&z=2007-01-01&g=2007-01-01), bedoelde instantie alle aanvullende inlichtingen betreffende een wetenschappelijk onderzoek met geneesmiddelen, die nog niet in de Europese databank zijn opgenomen.
 
 4. Bij ministeriële regeling kunnen nadere regels worden gesteld aangaande de methoden van elektronische gegevensuitwisseling.
 
 ##### Artikel 13n
 
-Indien de centrale commissie of Onze Minister, ingeval [artikel 13i, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=5a&artikel=13i&z=2006-03-01&g=2006-03-01) van toepassing is, objectieve redenen heeft om aan te nemen dat degene die het wetenschappelijk onderzoek met geneesmiddelen verricht of uitvoert of enige andere bij de proef betrokken persoon zijn verplichtingen niet langer nakomt, stelt de centrale commissie of Onze Minister deze daarvan onmiddellijk op de hoogte en geeft daarbij te kennen welke gedragslijn genoemde persoon moet volgen om de genoemde situatie te corrigeren. De centrale commissie of Onze Minister, ingeval [artikel 13i, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=5a&artikel=13i&z=2006-03-01&g=2006-03-01), van toepassing is, stelt onmiddellijk de ingevolge [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=1&artikel=2&z=2006-03-01&g=2006-03-01), bevoegde commissie die als laatste haar oordeel heeft gegeven over het betreffende wetenschappelijke onderzoek met geneesmiddelen, de bevoegde instanties van andere lidstaten en de Europese Commissie van genoemde gedragslijn op de hoogte.
+Indien de centrale commissie of Onze Minister, ingeval [artikel 13i, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=5a&artikel=13i&z=2007-01-01&g=2007-01-01) van toepassing is, objectieve redenen heeft om aan te nemen dat degene die het wetenschappelijk onderzoek met geneesmiddelen verricht of uitvoert of enige andere bij de proef betrokken persoon zijn verplichtingen niet langer nakomt, stelt de centrale commissie of Onze Minister deze daarvan onmiddellijk op de hoogte en geeft daarbij te kennen welke gedragslijn genoemde persoon moet volgen om de genoemde situatie te corrigeren. De centrale commissie of Onze Minister, ingeval [artikel 13i, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=5a&artikel=13i&z=2007-01-01&g=2007-01-01), van toepassing is, stelt onmiddellijk de ingevolge [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=1&artikel=2&z=2007-01-01&g=2007-01-01), bevoegde commissie die als laatste haar oordeel heeft gegeven over het betreffende wetenschappelijke onderzoek met geneesmiddelen, de bevoegde instanties van andere lidstaten en de Europese Commissie van genoemde gedragslijn op de hoogte.
 
 ##### Artikel 13o
 
@@ -595,15 +595,15 @@ Indien de centrale commissie of Onze Minister, ingeval [artikel 13i, vijfde lid]
 
 2. Ongewenste voorvallen of abnormale laboratoriumwaarden die volgens het protocol voor de veiligheidsbeoordeling van cruciaal belang zijn, worden binnen de in het protocol vermelde termijn aan degene die het wetenschappelijk onderzoek verricht, gerapporteerd.
 
-3. Degene die het wetenschappelijk onderzoek uitvoert, verstrekt aan degene die het wetenschappelijk onderzoek verricht, en aan de ingevolge [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=1&artikel=2&z=2006-03-01&g=2006-03-01), bevoegde commissie die als laatste haar oordeel heeft gegeven, alle gevraagde aanvullende informatie over gerapporteerde sterfgevallen.
+3. Degene die het wetenschappelijk onderzoek uitvoert, verstrekt aan degene die het wetenschappelijk onderzoek verricht, en aan de ingevolge [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=1&artikel=2&z=2007-01-01&g=2007-01-01), bevoegde commissie die als laatste haar oordeel heeft gegeven, alle gevraagde aanvullende informatie over gerapporteerde sterfgevallen.
 
-4. Degene die het wetenschappelijk onderzoek verricht, houdt gedetailleerde registers bij van alle ongewenste voorvallen die hem door degene die het wetenschappelijk onderzoek uitvoert, worden gerapporteerd. Deze informatie wordt op verzoek overgedragen aan de Inspectie voor de Gezondheidszorg en de centrale commissie of Onze Minister indien [artikel 13i, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=5a&artikel=13i&z=2006-03-01&g=2006-03-01), van toepassing is en de bevoegde instanties van de lidstaten op het grondgebied waarvan het wetenschappelijk onderzoek wordt verricht.
+4. Degene die het wetenschappelijk onderzoek verricht, houdt gedetailleerde registers bij van alle ongewenste voorvallen die hem door degene die het wetenschappelijk onderzoek uitvoert, worden gerapporteerd. Deze informatie wordt op verzoek overgedragen aan de Inspectie voor de Gezondheidszorg en de centrale commissie of Onze Minister indien [artikel 13i, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=5a&artikel=13i&z=2007-01-01&g=2007-01-01), van toepassing is en de bevoegde instanties van de lidstaten op het grondgebied waarvan het wetenschappelijk onderzoek wordt verricht.
 
 ##### Artikel 13p
 
-1. Degene die wetenschappelijk onderzoek met geneesmiddelen verricht, draagt er zorg voor dat alle relevante informatie over vermoedens van onverwachte ernstige bijwerkingen van geneesmiddelen voor onderzoek die tot de dood van een proefpersoon hebben geleid of kunnen leiden, wordt geregistreerd en zo spoedig mogelijk doch uiterlijk binnen zeven dagen nadat hij daarvan kennis heeft genomen, wordt gerapporteerd aan het College, de centrale commissie, de betrokken bevoegde instanties van andere lidstaten en de ingevolge [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=1&artikel=2&z=2006-03-01&g=2006-03-01), bevoegde commissie en dat relevante informatie over de nasleep daarvan binnen nog eens acht dagen wordt medegedeeld aan genoemde instanties.
+1. Degene die wetenschappelijk onderzoek met geneesmiddelen verricht, draagt er zorg voor dat alle relevante informatie over vermoedens van onverwachte ernstige bijwerkingen van geneesmiddelen voor onderzoek die tot de dood van een proefpersoon hebben geleid of kunnen leiden, wordt geregistreerd en zo spoedig mogelijk doch uiterlijk binnen zeven dagen nadat hij daarvan kennis heeft genomen, wordt gerapporteerd aan het College, de centrale commissie, de betrokken bevoegde instanties van andere lidstaten en de ingevolge [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=1&artikel=2&z=2007-01-01&g=2007-01-01), bevoegde commissie en dat relevante informatie over de nasleep daarvan binnen nog eens acht dagen wordt medegedeeld aan genoemde instanties.
 
-2. Alle vermoedens van andere dan in het eerste lid genoemde onverwachte ernstige bijwerkingen van geneesmiddelen voor onderzoek worden zo spoedig mogelijk doch uiterlijk binnen vijftien dagen nadat degene die het onderzoek verricht, er kennis van heeft genomen, gerapporteerd aan het College, de centrale commissie, de betrokken bevoegde instanties van andere lidstaten en de ingevolge [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=1&artikel=2&z=2006-03-01&g=2006-03-01), bevoegde commissie.
+2. Alle vermoedens van andere dan in het eerste lid genoemde onverwachte ernstige bijwerkingen van geneesmiddelen voor onderzoek worden zo spoedig mogelijk doch uiterlijk binnen vijftien dagen nadat degene die het onderzoek verricht, er kennis van heeft genomen, gerapporteerd aan het College, de centrale commissie, de betrokken bevoegde instanties van andere lidstaten en de ingevolge [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=1&artikel=2&z=2007-01-01&g=2007-01-01), bevoegde commissie.
 
 3. Degene die het wetenschappelijk onderzoek verricht, informeert alle anderen die het onderzoek uitvoeren.
 
@@ -613,17 +613,17 @@ Indien de centrale commissie of Onze Minister, ingeval [artikel 13i, vijfde lid]
 
 - a. het College;
 
-- b. de centrale commissie of Onze Minister indien [artikel 13i, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=5a&artikel=13i&z=2006-03-01&g=2006-03-01), van toepassing is;
+- b. de centrale commissie of Onze Minister indien [artikel 13i, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=5a&artikel=13i&z=2007-01-01&g=2007-01-01), van toepassing is;
 
 - c. de bevoegde instanties van de andere lidstaten op het grondgebied waarvan het wetenschappelijk onderzoek met geneesmiddelen wordt uitgevoerd;
 
-- d. de ingevolge [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=1&artikel=2&z=2006-03-01&g=2006-03-01), bevoegde commissie.
+- d. de ingevolge [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=1&artikel=2&z=2007-01-01&g=2007-01-01), bevoegde commissie.
 
-2. Het College draagt zorg voor invoering van alle gemelde vermoedens van onverwachte ernstige bijwerkingen van een geneesmiddel voor onderzoek in de Europese databank, als bedoeld in [artikel 13m, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=5a&artikel=13m&z=2006-03-01&g=2006-03-01).
+2. Het College draagt zorg voor invoering van alle gemelde vermoedens van onverwachte ernstige bijwerkingen van een geneesmiddel voor onderzoek in de Europese databank, als bedoeld in [artikel 13m, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=5a&artikel=13m&z=2007-01-01&g=2007-01-01).
 
 ##### Artikel 13r
 
-Bij ministeriële regeling kunnen eisen worden gesteld aan de rapportage bedoeld in de [artikelen 13o](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=5a&artikel=13o&z=2006-03-01&g=2006-03-01), [13p](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=5a&artikel=13p&z=2006-03-01&g=2006-03-01) en [13q](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=5a&artikel=13q&z=2006-03-01&g=2006-03-01).
+Bij ministeriële regeling kunnen eisen worden gesteld aan de rapportage bedoeld in de [artikelen 13o](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=5a&artikel=13o&z=2007-01-01&g=2007-01-01), [13p](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=5a&artikel=13p&z=2007-01-01&g=2007-01-01) en [13q](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=5a&artikel=13q&z=2007-01-01&g=2007-01-01).
 
 #### Paragraaf 7. Verdere bepalingen
 
