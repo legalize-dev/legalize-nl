@@ -4,7 +4,7 @@ identifier: "BWBR0002014"
 country: "nl"
 rank: "kb"
 publication_date: "2020-01-01"
-last_updated: "2002-01-01"
+last_updated: "2007-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002014"
 soort: "KB"
@@ -62,7 +62,7 @@ In dit besluit wordt verstaan onder:
 
 - 1°. de werkgever, bedoeld in [artikel 610, eerste lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=610);
 
-- 2°. de natuurlijke of rechtspersoon, voor wie [de onder **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0002014&titeldeel=Eerste&artikel=1&z=2002-01-01&g=2002-01-01) sub 2°. genoemde arbeid wordt verricht;
+- 2°. de natuurlijke of rechtspersoon, voor wie [de onder **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0002014&titeldeel=Eerste&artikel=1&z=2007-01-01&g=2007-01-01) sub 2°. genoemde arbeid wordt verricht;
 
 - d. arbeidsverhouding: de rechtsbetrekking tussen werkgever en werknemer;
 
@@ -82,9 +82,11 @@ In dit besluit wordt verstaan onder:
 
 - c. personen, die een geestelijk ambt bekleden;
 
-- d. werknemers die doorgaans op minder dan drie dagen per week uitsluitend of hoofdzakelijk huishoudelijke of persoonlijke diensten in de huishouding van een natuurlijk persoon verrichten.
+- d. de werknemer die doorgaans op minder dan vier dagen per week uitsluitend of nagenoeg uitsluitend diensten verricht ten behoeve van het huishouden van de natuurlijke persoon tot wie hij in dienstbetrekking staat;
 
-2. Onze Minister kan voorts bepalen, dat dit besluit of sommige artikelen van dit besluit niet van toepassing zijn op de arbeidsverhouding van door hem aangewezen werknemers of groepen van werknemers.
+2. Voor de toepassing van het eerste lid, onderdeel d, wordt onder het verrichten van diensten ten behoeve van een huishouden mede verstaan het verlenen van zorg aan de leden van dat huishouden.
+
+3. Onze Minister kan voorts bepalen, dat dit besluit of sommige artikelen van dit besluit niet van toepassing zijn op de arbeidsverhouding van door hem aangewezen werknemers of groepen van werknemers.
 
 ##### Artikel 3
 
@@ -142,15 +144,15 @@ Vervallen
 
 - b. ten aanzien van die werknemers, wier week- of maandloon op een vast bedrag is vastgesteld en niet daaronder daalt bij de werktijdverkorting;
 
-- c. voor de tijd, gedurende welke een door Onze Minister goedgekeurde wachtgeldregeling, als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002014&titeldeel=Tweede&artikel=10&z=2002-01-01&g=2002-01-01), van kracht is, ten aanzien van de onder die wachtgeldregeling vallende werknemers.
+- c. voor de tijd, gedurende welke een door Onze Minister goedgekeurde wachtgeldregeling, als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002014&titeldeel=Tweede&artikel=10&z=2007-01-01&g=2007-01-01), van kracht is, ten aanzien van de onder die wachtgeldregeling vallende werknemers.
 
 3. Van het bepaalde in het eerste lid kan voorts door of vanwege Onze Minister voor bepaalde werknemers of groepen van werknemers voorwaardelijk of onvoorwaardelijk ontheffing worden verleend.
 
 ##### Artikel 9
 
-1. Een opzegging zonder de op grond van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002014&titeldeel=Tweede&artikel=6&z=2002-01-01&g=2002-01-01) vereiste toestemming is vernietigbaar.
+1. Een opzegging zonder de op grond van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002014&titeldeel=Tweede&artikel=6&z=2007-01-01&g=2007-01-01) vereiste toestemming is vernietigbaar.
 
-2. Handelingen in strijd met [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002014&titeldeel=Tweede&artikel=8&z=2002-01-01&g=2002-01-01), zijn vernietigbaar.
+2. Handelingen in strijd met [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002014&titeldeel=Tweede&artikel=8&z=2007-01-01&g=2007-01-01), zijn vernietigbaar.
 
 3. De werknemer kan gedurende zes maanden een beroep op deze vernietigingsgrond doen.
 
