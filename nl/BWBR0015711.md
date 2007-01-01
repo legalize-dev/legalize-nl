@@ -4,7 +4,7 @@ identifier: "BWBR0015711"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2006-06-21"
+last_updated: "2007-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0015711"
 soort: "AMvB"
@@ -66,9 +66,9 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - d. boekjaar: de periode van 12 maanden waarover de administratie van de zelfstandige wordt gevoerd;
 
-- e. netto inkomen: het over het boekjaar verworven inkomen, bedoeld in [hoofdstuk 3, paragraaf 3.4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&paragraaf=3.4), met toepassing van [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=II&paragraaf=2&artikel=6&z=2006-06-21&g=2006-06-21);
+- e. netto inkomen: het over het boekjaar verworven inkomen, bedoeld in [hoofdstuk 3, paragraaf 3.4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&paragraaf=3.4), met toepassing van [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=II&paragraaf=2&artikel=6&z=2007-01-01&g=2007-01-01);
 
-- f. bruto inkomen: het over het boekjaar verworven inkomen, bedoeld in [hoofdstuk 3, paragraaf 3.4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&paragraaf=3.4), zonder toepassing van [artikel 31, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=31) en [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=II&paragraaf=2&artikel=6&z=2006-06-21&g=2006-06-21);
+- f. bruto inkomen: het over het boekjaar verworven inkomen, bedoeld in [hoofdstuk 3, paragraaf 3.4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&paragraaf=3.4), zonder toepassing van [artikel 31, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=31) en [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=II&paragraaf=2&artikel=6&z=2007-01-01&g=2007-01-01);
 
 - g. jaarnorm: de tot een bedrag per boekjaar omgerekende som van de bijstandsnorm, bedoeld in [hoofdstuk 3, paragraaf 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&paragraaf=3.2) en [3.3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&paragraaf=3.3), verhoogd met de vergoeding, bedoeld in [artikel 46 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=46) en de verleende bijzondere bijstand;
 
@@ -76,7 +76,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - i. eigen vermogen: het verschil tussen het totaal vermogen en de aanwezige schulden;
 
-- j. bank: kredietinstelling die is ingeschreven in de afdelingen I, onderafdeling 1, 2, 3, 5 of 6 of afdeling III van het register, bedoeld in [artikel 52, eerste lid, van de Wet toezicht kredietwezen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005792&artikel=52);
+- j. bank: bank als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1);
 
 - k. ondernemer in de binnenvaart: de zelfstandige die arbeid verricht door:
 
@@ -112,17 +112,17 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 3. Bedrag om niet
 
-1. Bijstand in de vorm van een bedrag om niet als bedoeld in de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=II&paragraaf=4&artikel=12&z=2006-06-21&g=2006-06-21), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=III&paragraaf=1&artikel=19&z=2006-06-21&g=2006-06-21), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=III&paragraaf=1&artikel=21&z=2006-06-21&g=2006-06-21) en [22](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=III&paragraaf=1&artikel=22&z=2006-06-21&g=2006-06-21):
+1. Bijstand in de vorm van een bedrag om niet als bedoeld in de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=II&paragraaf=4&artikel=12&z=2007-01-01&g=2007-01-01), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=III&paragraaf=1&artikel=19&z=2007-01-01&g=2007-01-01), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=III&paragraaf=1&artikel=21&z=2007-01-01&g=2007-01-01) en [22](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=III&paragraaf=1&artikel=22&z=2007-01-01&g=2007-01-01):
 
-- a. wordt niet verleend indien het eigen vermogen meer bedraagt dan € 156 240,00 per 25 januari 2006 en terugwerkend tot 1 januari 2006: € 162.641,00;
+- a. wordt niet verleend indien het eigen vermogen meer bedraagt dan € 156 240,00 per 1 januari 2007: € 164.677,00;
 
-- b. wordt, indien het eigen vermogen meer bedraagt dan € 37 177,00 per 25 januari 2006 en terugwerkend tot 1 januari 2006: € 38.701,00, doch minder dan € 156 240,00 per 25 januari 2006 en terugwerkend tot 1 januari 2006: € 162.641,00 slechts verleend indien dit eigen vermogen niet meer bedraagt dan 30 procent van het totaal vermogen.
+- b. wordt, indien het eigen vermogen meer bedraagt dan € 37 177,00 per 1 januari 2007: € 39.186,00, doch minder dan € 156 240,00 per 1 januari 2007: € 164.677,00 slechts verleend indien dit eigen vermogen niet meer bedraagt dan 30 procent van het totaal vermogen.
 
-2. In afwijking van het eerste lid wordt aan de zelfstandige als bedoeld in [artikel 2, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=II&paragraaf=1&artikel=2&z=2006-06-21&g=2006-06-21), bijstand in de vorm van een bedrag om niet als bedoeld in de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=II&paragraaf=4&artikel=12&z=2006-06-21&g=2006-06-21) en [26](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=III&paragraaf=3&artikel=26&z=2006-06-21&g=2006-06-21) niet verleend, indien het eigen vermogen meer bedraagt dan € 109 368,00 per 25 januari 2006 en terugwerkend tot 1 januari 2006: € 113.849,00.
+2. In afwijking van het eerste lid wordt aan de zelfstandige als bedoeld in [artikel 2, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=II&paragraaf=1&artikel=2&z=2007-01-01&g=2007-01-01), bijstand in de vorm van een bedrag om niet als bedoeld in de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=II&paragraaf=4&artikel=12&z=2007-01-01&g=2007-01-01) en [26](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=III&paragraaf=3&artikel=26&z=2007-01-01&g=2007-01-01) niet verleend, indien het eigen vermogen meer bedraagt dan € 109 368,00 per 1 januari 2007: € 115.275,00.
 
 ##### Artikel 4. Forfaitair bedrag
 
-De bijstand die wordt verleend in de vorm van een bedrag om niet met toepassing van de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=II&paragraaf=4&artikel=12&z=2006-06-21&g=2006-06-21), [21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=III&paragraaf=1&artikel=21&z=2006-06-21&g=2006-06-21), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=III&paragraaf=1&artikel=22&z=2006-06-21&g=2006-06-21) en [26](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=III&paragraaf=3&artikel=26&z=2006-06-21&g=2006-06-21) wordt verhoogd met een forfaitair bedrag dat overeenkomt met de loonbelasting en de premies volksverzekeringen en de vergoeding, bedoeld in [artikel 19, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=19).
+De bijstand die wordt verleend in de vorm van een bedrag om niet met toepassing van de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=II&paragraaf=4&artikel=12&z=2007-01-01&g=2007-01-01), [21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=III&paragraaf=1&artikel=21&z=2007-01-01&g=2007-01-01), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=III&paragraaf=1&artikel=22&z=2007-01-01&g=2007-01-01) en [26](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=III&paragraaf=3&artikel=26&z=2007-01-01&g=2007-01-01) wordt verhoogd met een forfaitair bedrag dat overeenkomt met de loonbelasting en de premies volksverzekeringen en de vergoeding, bedoeld in [artikel 19, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=19).
 
 ##### Artikel 5. Boekjaar
 
@@ -134,7 +134,7 @@ De algemene bijstand wordt per boekjaar vastgesteld.
 
 1. In afwijking van [artikel 32, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=32) wordt bij de bijstandsverlening aan een zelfstandige rekening gehouden met het inkomen over een boekjaar. Een teruggave van inkomstenbelasting en premies volksverzekeringen wordt bij een zelfstandige niet als inkomen aangemerkt.
 
-2. Bij de bijstandsverlening aan een zelfstandige worden de verschuldigde inkomstenbelasting en premies volksverzekeringen over inkomen waarover geen loonbelasting is geheven gesteld op 20 procent per 25 januari 2006 en terugwerkend tot 1 januari 2006: 19 procent van dat inkomen.
+2. Bij de bijstandsverlening aan een zelfstandige worden de verschuldigde inkomstenbelasting en premies volksverzekeringen over inkomen waarover geen loonbelasting is geheven gesteld op 20 procent per 1 januari 2007: 18 procent van dat inkomen.
 
 #### § 3. Vermogen
 
@@ -186,11 +186,11 @@ Algemene bijstand kan naar de regels van dit besluit worden verleend in de vorm 
 
 1. Algemene bijstand heeft voorlopig de vorm van een renteloze geldlening die in maandelijkse termijnen wordt uitbetaald.
 
-2. Zodra het inkomen bekend is over het boekjaar waarin de in het eerste lid bedoelde bijstand is verleend, wordt de hoogte van deze bijstand definitief vastgesteld en vindt, voor zover het vermogen van de zelfstandige de van toepassing zijnde grens van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=II&paragraaf=1&artikel=3&z=2006-06-21&g=2006-06-21) niet te boven gaat, tot die hoogte omzetting plaats in een bedrag om niet.
+2. Zodra het inkomen bekend is over het boekjaar waarin de in het eerste lid bedoelde bijstand is verleend, wordt de hoogte van deze bijstand definitief vastgesteld en vindt, voor zover het vermogen van de zelfstandige de van toepassing zijnde grens van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=II&paragraaf=1&artikel=3&z=2007-01-01&g=2007-01-01) niet te boven gaat, tot die hoogte omzetting plaats in een bedrag om niet.
 
 ##### Artikel 12. Definitieve vaststelling netto inkomen
 
-1. Het college neemt een nadere beslissing met betrekking tot de verleende bijstand, bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=II&paragraaf=4&artikel=11&z=2006-06-21&g=2006-06-21), nadat het college het netto inkomen uit bedrijf of zelfstandig beroep definitief heeft vastgesteld.
+1. Het college neemt een nadere beslissing met betrekking tot de verleende bijstand, bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=II&paragraaf=4&artikel=11&z=2007-01-01&g=2007-01-01), nadat het college het netto inkomen uit bedrijf of zelfstandig beroep definitief heeft vastgesteld.
 
 2. Indien de verleende bijstand, vermeerderd met het in het desbetreffende boekjaar behaalde netto inkomen:
 
@@ -202,7 +202,7 @@ Algemene bijstand kan naar de regels van dit besluit worden verleend in de vorm 
 
 ##### Artikel 13. Handhaving van renteloze lening
 
-In afwijking van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=II&paragraaf=4&artikel=12&z=2006-06-21&g=2006-06-21) wordt, voor zover het eigen vermogen de van toepassing zijnde vermogensgrens, genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=II&paragraaf=1&artikel=3&z=2006-06-21&g=2006-06-21) overschrijdt, de renteloze geldlening gehandhaafd na afloop van het tijdvak waarin bijstand is verleend. Met ingang van het jaar volgend op het laatste jaar van de bijstandsverlening wordt hierop een jaarlijkse aflossing van ten minste 10 procent voldaan. Voor zover de zelfstandige, naar het oordeel van het college, een deel van de verschuldigde aflossing niet kan voldoen, wordt uitstel van betaling verleend.
+In afwijking van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=II&paragraaf=4&artikel=12&z=2007-01-01&g=2007-01-01) wordt, voor zover het eigen vermogen de van toepassing zijnde vermogensgrens, genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=II&paragraaf=1&artikel=3&z=2007-01-01&g=2007-01-01) overschrijdt, de renteloze geldlening gehandhaafd na afloop van het tijdvak waarin bijstand is verleend. Met ingang van het jaar volgend op het laatste jaar van de bijstandsverlening wordt hierop een jaarlijkse aflossing van ten minste 10 procent voldaan. Voor zover de zelfstandige, naar het oordeel van het college, een deel van de verschuldigde aflossing niet kan voldoen, wordt uitstel van betaling verleend.
 
 #### § 5. Bijstand ter voorziening in de behoefte aan bedrijfskapitaal
 
@@ -230,13 +230,13 @@ Bijstand in de vorm van borgtocht ter voorziening in de behoefte aan bedrijfskap
 
 - c. de borgtocht kan alleen worden aangegaan met een bank;
 
-- d. het bedrag dat de zelfstandige na uitwinning verschuldigd is, wordt aangemerkt als een lening, waarop de [artikelen 40 tot en met 43](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=V&paragraaf=2&artikel=40&z=2006-06-21&g=2006-06-21) van toepassing zijn;
+- d. het bedrag dat de zelfstandige na uitwinning verschuldigd is, wordt aangemerkt als een lening, waarop de [artikelen 40 tot en met 43](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=V&paragraaf=2&artikel=40&z=2007-01-01&g=2007-01-01) van toepassing zijn;
 
 - e. uitwinning door de bank kan slechts plaatsvinden na toestemming van het college.
 
 ##### Artikel 17. Aflossing schuld
 
-Het college kan bijstand verlenen aan de zelfstandige ter gedeeltelijke of volledige betaling van een bedrijfsschuld, mits de bijstand wordt verleend op grond van [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=II&paragraaf=1&artikel=2&z=2006-06-21&g=2006-06-21).
+Het college kan bijstand verlenen aan de zelfstandige ter gedeeltelijke of volledige betaling van een bedrijfsschuld, mits de bijstand wordt verleend op grond van [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=II&paragraaf=1&artikel=2&z=2007-01-01&g=2007-01-01).
 
 ### Hoofdstuk III. Nadere bepalingen voor groepen zelfstandigen
 
@@ -244,43 +244,43 @@ Het college kan bijstand verlenen aan de zelfstandige ter gedeeltelijke of volle
 
 ##### Artikel 18. Duur algemene bijstand gevestigde zelfstandigen
 
-Aan een zelfstandige als bedoeld in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=II&paragraaf=1&artikel=2&z=2006-06-21&g=2006-06-21), wordt gedurende ten hoogste 12 maanden algemene bijstand verleend. Verlenging van deze termijn met ten hoogste 24 maanden is mogelijk indien de oorzaak van de behoefte aan bijstand is gelegen in externe omstandigheden van tijdelijke aard.
+Aan een zelfstandige als bedoeld in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=II&paragraaf=1&artikel=2&z=2007-01-01&g=2007-01-01), wordt gedurende ten hoogste 12 maanden algemene bijstand verleend. Verlenging van deze termijn met ten hoogste 24 maanden is mogelijk indien de oorzaak van de behoefte aan bijstand is gelegen in externe omstandigheden van tijdelijke aard.
 
 ##### Artikel 19. Verlening van bedrag om niet
 
-In afwijking van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=II&paragraaf=4&artikel=11&z=2006-06-21&g=2006-06-21) wordt aan een zelfstandige als bedoeld in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=II&paragraaf=1&artikel=2&z=2006-06-21&g=2006-06-21), algemene bijstand verleend als een bedrag om niet indien:
+In afwijking van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=II&paragraaf=4&artikel=11&z=2007-01-01&g=2007-01-01) wordt aan een zelfstandige als bedoeld in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=II&paragraaf=1&artikel=2&z=2007-01-01&g=2007-01-01), algemene bijstand verleend als een bedrag om niet indien:
 
 - a. de uitkeringsduur ten hoogste zes maanden is;
 
 - b. de inkomensvorming in het betreffende bedrijf of zelfstandig beroep regelmatig over het jaar verloopt en het inkomen duurzaam lager is dan de som van de bijstandsnorm, bedoeld in [hoofdstuk 3, paragraaf 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&paragraaf=3.2) en [3.3, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&paragraaf=3.3), en de verleende bijzondere bijstand; en
 
-- c. het vermogen van de zelfstandige, het bedrag, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=II&paragraaf=1&artikel=3&z=2006-06-21&g=2006-06-21), niet te boven gaat.
+- c. het vermogen van de zelfstandige, het bedrag, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=II&paragraaf=1&artikel=3&z=2007-01-01&g=2007-01-01), niet te boven gaat.
 
 ##### Artikel 20. Bedrijfskapitaal gevestigde zelfstandige
 
-1. Aan een zelfstandige als bedoeld in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=II&paragraaf=1&artikel=2&z=2006-06-21&g=2006-06-21), kan ter voorziening in de behoefte aan bedrijfskapitaal bijstand in de vorm van een rentedragende geldlening of borgtocht worden verleend tot een bedrag van ten hoogste € 162 344,00 per 25 januari 2006 en terugwerkend tot 1 januari 2006: € 168.995,00. Dit bedrag geldt per bedrijf of zelfstandig beroep.
+1. Aan een zelfstandige als bedoeld in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=II&paragraaf=1&artikel=2&z=2007-01-01&g=2007-01-01), kan ter voorziening in de behoefte aan bedrijfskapitaal bijstand in de vorm van een rentedragende geldlening of borgtocht worden verleend tot een bedrag van ten hoogste € 162 344,00 per 1 januari 2007: € 171.111,00. Dit bedrag geldt per bedrijf of zelfstandig beroep.
 
-2. Indien aan een zelfstandige, als bedoeld in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=II&paragraaf=1&artikel=2&z=2006-06-21&g=2006-06-21), bijstand wordt verleend zowel ter voorziening in de behoefte aan bedrijfskapitaal als ter voorziening in de algemeen noodzakelijke kosten van het bestaan wordt de bijstand verleend met toepassing van het eerste lid.
+2. Indien aan een zelfstandige, als bedoeld in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=II&paragraaf=1&artikel=2&z=2007-01-01&g=2007-01-01), bijstand wordt verleend zowel ter voorziening in de behoefte aan bedrijfskapitaal als ter voorziening in de algemeen noodzakelijke kosten van het bestaan wordt de bijstand verleend met toepassing van het eerste lid.
 
 ##### Artikel 21. Omzetting in bedrag om niet bij geldlening en borgtocht
 
-1. De op grond van de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=II&paragraaf=5&artikel=15&z=2006-06-21&g=2006-06-21) en [20](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=III&paragraaf=1&artikel=20&z=2006-06-21&g=2006-06-21) verleende bijstand wordt ambtshalve geheel of gedeeltelijk omgezet in een bedrag om niet, indien het netto inkomen in het boekjaar van de aanvraag dan wel in het daaraan voorafgaande jaar lager is dan de jaarnorm. Het bedrag om niet bedraagt het verschil tussen de jaarnorm en het netto inkomen doch ten hoogste het verschil tussen het eigen vermogen en de toepasselijke vermogensgrens bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=II&paragraaf=1&artikel=3&z=2006-06-21&g=2006-06-21). De zelfstandige bepaalt het boekjaar waarover de bijstand wordt omgezet in een bedrag om niet.
+1. De op grond van de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=II&paragraaf=5&artikel=15&z=2007-01-01&g=2007-01-01) en [20](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=III&paragraaf=1&artikel=20&z=2007-01-01&g=2007-01-01) verleende bijstand wordt ambtshalve geheel of gedeeltelijk omgezet in een bedrag om niet, indien het netto inkomen in het boekjaar van de aanvraag dan wel in het daaraan voorafgaande jaar lager is dan de jaarnorm. Het bedrag om niet bedraagt het verschil tussen de jaarnorm en het netto inkomen doch ten hoogste het verschil tussen het eigen vermogen en de toepasselijke vermogensgrens bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=II&paragraaf=1&artikel=3&z=2007-01-01&g=2007-01-01). De zelfstandige bepaalt het boekjaar waarover de bijstand wordt omgezet in een bedrag om niet.
 
-2. De op grond van de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=II&paragraaf=5&artikel=15&z=2006-06-21&g=2006-06-21) en [20](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=III&paragraaf=1&artikel=20&z=2006-06-21&g=2006-06-21) verschuldigde rente wordt ambtshalve kwijtgescholden en reeds betaalde rente terugbetaald, indien het netto inkomen in een of beide boekjaren volgend op het boekjaar van de aanvraag, lager is dan de jaarnorm. Het bedrag is ten hoogste de voor dat boekjaar geldende renteverplichting op grond van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=II&paragraaf=5&artikel=15&z=2006-06-21&g=2006-06-21), doch niet meer dan het verschil tussen de jaarnorm en het netto inkomen in het boekjaar.
+2. De op grond van de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=II&paragraaf=5&artikel=15&z=2007-01-01&g=2007-01-01) en [20](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=III&paragraaf=1&artikel=20&z=2007-01-01&g=2007-01-01) verschuldigde rente wordt ambtshalve kwijtgescholden en reeds betaalde rente terugbetaald, indien het netto inkomen in een of beide boekjaren volgend op het boekjaar van de aanvraag, lager is dan de jaarnorm. Het bedrag is ten hoogste de voor dat boekjaar geldende renteverplichting op grond van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=II&paragraaf=5&artikel=15&z=2007-01-01&g=2007-01-01), doch niet meer dan het verschil tussen de jaarnorm en het netto inkomen in het boekjaar.
 
-3. Indien de bijstand is verleend in de vorm van borgtocht op grond van de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=II&paragraaf=5&artikel=16&z=2006-06-21&g=2006-06-21) en [20](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=III&paragraaf=1&artikel=20&z=2006-06-21&g=2006-06-21), zijn het eerste en tweede lid van overeenkomstige toepassing op de door de bank verstrekte lening. De aldus berekende bedragen worden verstrekt als een bedrag om niet. Aan deze bijstand wordt de voorwaarde verbonden dat het wordt aangewend ter aflossing of tot rentebetaling op de door de bank verstrekte lening.
+3. Indien de bijstand is verleend in de vorm van borgtocht op grond van de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=II&paragraaf=5&artikel=16&z=2007-01-01&g=2007-01-01) en [20](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=III&paragraaf=1&artikel=20&z=2007-01-01&g=2007-01-01), zijn het eerste en tweede lid van overeenkomstige toepassing op de door de bank verstrekte lening. De aldus berekende bedragen worden verstrekt als een bedrag om niet. Aan deze bijstand wordt de voorwaarde verbonden dat het wordt aangewend ter aflossing of tot rentebetaling op de door de bank verstrekte lening.
 
-4. Het bedrag van de op grond van het eerste lid in een bedrag om niet omgezette bijstand, of het bedrag van de op grond van het tweede lid kwijtgescholden of terugbetaalde rente dan wel het op grond van het derde lid berekende bedrag om niet, kan tezamen met de over hetzelfde boekjaar verleende bijstand ingevolge [hoofdstuk II, paragraaf 4](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=II&paragraaf=4&z=2006-06-21&g=2006-06-21), niet meer bedragen dan de jaarnorm.
+4. Het bedrag van de op grond van het eerste lid in een bedrag om niet omgezette bijstand, of het bedrag van de op grond van het tweede lid kwijtgescholden of terugbetaalde rente dan wel het op grond van het derde lid berekende bedrag om niet, kan tezamen met de over hetzelfde boekjaar verleende bijstand ingevolge [hoofdstuk II, paragraaf 4](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=II&paragraaf=4&z=2007-01-01&g=2007-01-01), niet meer bedragen dan de jaarnorm.
 
 ##### Artikel 22. Bedrijfskapitaal om niet gevestigde zelfstandige
 
-Bijstand in de behoefte aan bedrijfskapitaal kan aan een zelfstandige als bedoeld in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=II&paragraaf=1&artikel=2&z=2006-06-21&g=2006-06-21), worden verleend in de vorm van een bedrag om niet tot ten hoogste € 8 117,00 per 25 januari 2006 en terugwerkend tot 1 januari 2006: € 8.450,00, indien het inkomen van de zelfstandige duurzaam lager is dan de som van de bijstandsnorm, bedoeld in [hoofdstuk 3, paragraaf 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&paragraaf=3.2) en [3.3, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&paragraaf=3.3), en de verleende bijzondere bijstand en diens vermogen de grens genoemd in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=II&paragraaf=1&artikel=3&z=2006-06-21&g=2006-06-21), niet te boven gaat. Deze bijstand gaat niet samen met bijstand als bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=III&paragraaf=1&artikel=20&z=2006-06-21&g=2006-06-21).
+Bijstand in de behoefte aan bedrijfskapitaal kan aan een zelfstandige als bedoeld in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=II&paragraaf=1&artikel=2&z=2007-01-01&g=2007-01-01), worden verleend in de vorm van een bedrag om niet tot ten hoogste € 8 117,00 per 1 januari 2007: € 8.556,00, indien het inkomen van de zelfstandige duurzaam lager is dan de som van de bijstandsnorm, bedoeld in [hoofdstuk 3, paragraaf 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&paragraaf=3.2) en [3.3, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&paragraaf=3.3), en de verleende bijzondere bijstand en diens vermogen de grens genoemd in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=II&paragraaf=1&artikel=3&z=2007-01-01&g=2007-01-01), niet te boven gaat. Deze bijstand gaat niet samen met bijstand als bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=III&paragraaf=1&artikel=20&z=2007-01-01&g=2007-01-01).
 
 #### § 2. Beginnende zelfstandigen
 
 ##### Artikel 23. Duur algemene bijstand beginnende zelfstandige
 
-1. Aan de persoon, bedoeld in [artikel 2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=II&paragraaf=1&artikel=2&z=2006-06-21&g=2006-06-21), wordt na de beëindiging van de uitkering uit hoofde van werkloosheid gedurende ten hoogste 36 maanden algemene bijstand verleend. Verlenging van deze termijn is mogelijk indien de zelfstandige om redenen van medische of sociale aard niet volledig beschikbaar is voor de uitoefening van het bedrijf of zelfstandig beroep.
+1. Aan de persoon, bedoeld in [artikel 2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=II&paragraaf=1&artikel=2&z=2007-01-01&g=2007-01-01), wordt na de beëindiging van de uitkering uit hoofde van werkloosheid gedurende ten hoogste 36 maanden algemene bijstand verleend. Verlenging van deze termijn is mogelijk indien de zelfstandige om redenen van medische of sociale aard niet volledig beschikbaar is voor de uitoefening van het bedrijf of zelfstandig beroep.
 
 2. Toekenning van algemene bijstand als bedoeld in het eerste lid wordt beëindigd zodra het bedrijf of zelfstandig beroep niet meer levensvatbaar is.
 
@@ -292,35 +292,35 @@ Bijstand in de behoefte aan bedrijfskapitaal kan aan een zelfstandige als bedoel
 
 ##### Artikel 24. Bedrijfskapitaal beginnende zelfstandige
 
-Aan een zelfstandige als bedoeld in [artikel 2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=II&paragraaf=1&artikel=2&z=2006-06-21&g=2006-06-21), kan ter voorziening in de behoefte aan bedrijfskapitaal uitsluitend bijstand in de vorm van een rentedragende geldlening of borgtocht worden verleend tot een bedrag van ten hoogste € 29 889,00 per 25 januari 2006 en terugwerkend tot 1 januari 2006: € 31.113,00. Dit bedrag geldt per bedrijf of zelfstandig beroep.
+Aan een zelfstandige als bedoeld in [artikel 2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=II&paragraaf=1&artikel=2&z=2007-01-01&g=2007-01-01), kan ter voorziening in de behoefte aan bedrijfskapitaal uitsluitend bijstand in de vorm van een rentedragende geldlening of borgtocht worden verleend tot een bedrag van ten hoogste € 29 889,00 per 1 januari 2007: € 31.502,00. Dit bedrag geldt per bedrijf of zelfstandig beroep.
 
 #### § 3. Oudere zelfstandigen
 
 ##### Artikel 25. Duur algemene bijstand en inkomenseis oudere zelfstandige
 
-Aan een zelfstandige als bedoeld in [artikel 2, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=II&paragraaf=1&artikel=2&z=2006-06-21&g=2006-06-21), wordt algemene bijstand verleend voor de duur dat hij uit het bedrijf of zelfstandig beroep naar verwachting een bruto inkomen zal behalen dat gemiddeld minstens € 6 447,00 per 25 januari 2006 en terugwerkend tot 1 januari 2006: € 6.712,00 per boekjaar bedraagt.
+Aan een zelfstandige als bedoeld in [artikel 2, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=II&paragraaf=1&artikel=2&z=2007-01-01&g=2007-01-01), wordt algemene bijstand verleend voor de duur dat hij uit het bedrijf of zelfstandig beroep naar verwachting een bruto inkomen zal behalen dat gemiddeld minstens € 6 447,00 per 1 januari 2007: € 6.796,00 per boekjaar bedraagt.
 
 ##### Artikel 26. Bedrijfskapitaal oudere zelfstandige
 
-Bijstand ter voorziening in de behoefte aan bedrijfskapitaal wordt aan de zelfstandige, bedoeld in [artikel 2, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=II&paragraaf=1&artikel=2&z=2006-06-21&g=2006-06-21), slechts verleend tot ten hoogste € 8 117,00 per 25 januari 2006 en terugwerkend tot 1 januari 2006: € 8.450,00. Deze bijstand wordt verstrekt in de vorm van een bedrag om niet of, voor zover het eigen vermogen meer bedraagt dan het bedrag, genoemd in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=II&paragraaf=1&artikel=3&z=2006-06-21&g=2006-06-21), in de vorm van een renteloze lening. [Artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=II&paragraaf=4&artikel=13&z=2006-06-21&g=2006-06-21) is van overeenkomstige toepassing.
+Bijstand ter voorziening in de behoefte aan bedrijfskapitaal wordt aan de zelfstandige, bedoeld in [artikel 2, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=II&paragraaf=1&artikel=2&z=2007-01-01&g=2007-01-01), slechts verleend tot ten hoogste € 8 117,00 per 1 januari 2007: € 8.556,00. Deze bijstand wordt verstrekt in de vorm van een bedrag om niet of, voor zover het eigen vermogen meer bedraagt dan het bedrag, genoemd in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=II&paragraaf=1&artikel=3&z=2007-01-01&g=2007-01-01), in de vorm van een renteloze lening. [Artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=II&paragraaf=4&artikel=13&z=2007-01-01&g=2007-01-01) is van overeenkomstige toepassing.
 
 #### § 4. Beëindigende zelfstandigen
 
 ##### Artikel 27. Duur algemene bijstand beëindigende zelfstandige
 
-Aan een zelfstandige als bedoeld in [artikel 2, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=II&paragraaf=1&artikel=2&z=2006-06-21&g=2006-06-21), wordt algemene bijstand verleend gedurende ten hoogste 12 maanden. Verlenging van deze termijn met ten hoogste 12 maanden is op verzoek van de zelfstandige mogelijk voor zover de beëindiging naar het oordeel van het college een langere termijn noodzakelijk maakt.
+Aan een zelfstandige als bedoeld in [artikel 2, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=II&paragraaf=1&artikel=2&z=2007-01-01&g=2007-01-01), wordt algemene bijstand verleend gedurende ten hoogste 12 maanden. Verlenging van deze termijn met ten hoogste 12 maanden is op verzoek van de zelfstandige mogelijk voor zover de beëindiging naar het oordeel van het college een langere termijn noodzakelijk maakt.
 
 #### § 5. Arbeidsongeschikte zelfstandigen
 
 ##### Artikel 28. Duur algemene bijstand arbeidsongeschikte zelfstandige
 
-Aan een zelfstandige als bedoeld in [artikel 2, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=II&paragraaf=1&artikel=2&z=2006-06-21&g=2006-06-21), wordt algemene bijstand verleend tot het tijdstip waarop een beslissing ingevolge de Wet arbeidsongeschiktheidsverzekering zelfstandigen is genomen.
+Aan een zelfstandige als bedoeld in [artikel 2, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=II&paragraaf=1&artikel=2&z=2007-01-01&g=2007-01-01), wordt algemene bijstand verleend tot het tijdstip waarop een beslissing ingevolge de Wet arbeidsongeschiktheidsverzekering zelfstandigen is genomen.
 
 #### § 6. Voorziening in met voorbereiding van bedrijf of zelfstandig beroep samenhangende kosten
 
 ##### Artikel 29. Voorbereidingskosten
 
-1. Aan een persoon als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=II&paragraaf=1&artikel=2&z=2006-06-21&g=2006-06-21), kan bijstand worden verleend in de met de voorbereiding samenhangende kosten, bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=II&paragraaf=1&artikel=2&z=2006-06-21&g=2006-06-21), tot een bedrag van ten hoogste € 2 469,00 per 25 januari 2006 en terugwerkend tot 1 januari 2006: € 2.570,00.
+1. Aan een persoon als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=II&paragraaf=1&artikel=2&z=2007-01-01&g=2007-01-01), kan bijstand worden verleend in de met de voorbereiding samenhangende kosten, bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=II&paragraaf=1&artikel=2&z=2007-01-01&g=2007-01-01), tot een bedrag van ten hoogste € 2 469,00 per 1 januari 2007: € 2.603,00.
 
 2. Deze bijstand heeft voorlopig de vorm van een renteloze geldlening.
 
@@ -346,21 +346,21 @@ Aan een zelfstandige als bedoeld in [artikel 2, eerste lid, onderdeel e](https:/
 
 ##### Artikel 31. Vennoten en leden
 
-Op de bijstandsverlening, bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=III&paragraaf=7&artikel=30&z=2006-06-21&g=2006-06-21), is [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=III&paragraaf=1&artikel=21&z=2006-06-21&g=2006-06-21) op ieder van de vennoten of leden van overeenkomstige toepassing, mits de zelfstandige is aan te merken als een persoon als bedoeld in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=II&paragraaf=1&artikel=2&z=2006-06-21&g=2006-06-21).
+Op de bijstandsverlening, bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=III&paragraaf=7&artikel=30&z=2007-01-01&g=2007-01-01), is [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=III&paragraaf=1&artikel=21&z=2007-01-01&g=2007-01-01) op ieder van de vennoten of leden van overeenkomstige toepassing, mits de zelfstandige is aan te merken als een persoon als bedoeld in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=II&paragraaf=1&artikel=2&z=2007-01-01&g=2007-01-01).
 
 ##### Artikel 32. Vermogensgrenzen bij samenwerkingsverbanden
 
-Indien bijstand wordt verleend aan een zelfstandige die zijn bedrijf of zelfstandig beroep uitoefent in een samenwerkingsverband of in de vorm van een rechtspersoon, gelden de bedragen van de vermogensgrenzen, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=II&paragraaf=1&artikel=3&z=2006-06-21&g=2006-06-21), voor ieder van de vennoten of leden afzonderlijk.
+Indien bijstand wordt verleend aan een zelfstandige die zijn bedrijf of zelfstandig beroep uitoefent in een samenwerkingsverband of in de vorm van een rechtspersoon, gelden de bedragen van de vermogensgrenzen, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=II&paragraaf=1&artikel=3&z=2007-01-01&g=2007-01-01), voor ieder van de vennoten of leden afzonderlijk.
 
 ##### Artikel 33. Besloten vennootschap of coöperatieve vereniging
 
-Ten aanzien van de zelfstandige die het bedrijf of zelfstandig beroep uitoefent in de vorm van een besloten vennootschap of een coöperatieve vereniging met wettelijke aansprakelijkheid, wordt onder netto inkomen als bedoeld in [artikel 1, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=I&artikel=1&z=2006-06-21&g=2006-06-21), mede verstaan de naar evenredigheid van het aantal zelfstandigen in een boekjaar omgerekende netto winst van deze rechtspersoon verminderd met de hierover verschuldigde vennootschapsbelasting.
+Ten aanzien van de zelfstandige die het bedrijf of zelfstandig beroep uitoefent in de vorm van een besloten vennootschap of een coöperatieve vereniging met wettelijke aansprakelijkheid, wordt onder netto inkomen als bedoeld in [artikel 1, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=I&artikel=1&z=2007-01-01&g=2007-01-01), mede verstaan de naar evenredigheid van het aantal zelfstandigen in een boekjaar omgerekende netto winst van deze rechtspersoon verminderd met de hierover verschuldigde vennootschapsbelasting.
 
 #### § 8. Zelfstandigen in het buitenland
 
 ##### Artikel 34. Zelfstandigen in het buitenland
 
-De bijstand die met toepassing van [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=IV&artikel=37&z=2006-06-21&g=2006-06-21) wordt verleend heeft voorlopig de vorm van een renteloze geldlening. Het bepaalde bij en krachtens [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=II&paragraaf=4&artikel=11&z=2006-06-21&g=2006-06-21), is op deze geldlening van overeenkomstige toepassing.
+De bijstand die met toepassing van [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=IV&artikel=37&z=2007-01-01&g=2007-01-01) wordt verleend heeft voorlopig de vorm van een renteloze geldlening. Het bepaalde bij en krachtens [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=II&paragraaf=4&artikel=11&z=2007-01-01&g=2007-01-01), is op deze geldlening van overeenkomstige toepassing.
 
 ### Hoofdstuk IV. De aanvraag
 
@@ -402,7 +402,7 @@ De bijstand aan een ondernemer in de binnenvaart wordt verleend, indien hij verb
 
 1. Bij zeer dringende redenen van tijdelijke aard kan aan de zelfstandige, die als ingezetene in de basisadministratie persoonsgegevens van een gemeente is ingeschreven en die zich uit hoofde van zijn bedrijf of beroep tijdelijk in het buitenland bevindt, door Onze Minister bijstand worden verleend volgens door hem te stellen regels.
 
-2. [Hoofdstuk 6, paragraaf 6.5, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&paragraaf=6.5), en [hoofdstuk VI](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=VI&z=2006-06-21&g=2006-06-21) zijn van toepassing op terugvordering en verhaal van kosten van bijstand die door Onze Minister is verleend, met dien verstande dat het Rijk in plaats van de gemeente treedt.
+2. [Hoofdstuk 6, paragraaf 6.5, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&paragraaf=6.5), en [hoofdstuk VI](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=VI&z=2007-01-01&g=2007-01-01) zijn van toepassing op terugvordering en verhaal van kosten van bijstand die door Onze Minister is verleend, met dien verstande dat het Rijk in plaats van de gemeente treedt.
 
 ### Hoofdstuk V. Verplichtingen
 
@@ -414,7 +414,7 @@ De bijstand aan een ondernemer in de binnenvaart wordt verleend, indien hij verb
 
 2. De zelfstandige aan wie bijstand wordt verleend is verplicht naar behoren een administratie te voeren. De zelfstandige legt deze binnen 6 maanden na afloop van het boekjaar op de volgende wijze over aan het college:
 
-- a. uit eigener beweging over ieder boekjaar waarover uitkering is verleend als bedoeld in [hoofdstuk II, § 4](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=II&paragraaf=4&z=2006-06-21&g=2006-06-21), of aanspraak kan worden gemaakt op bijstand als bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=III&paragraaf=1&artikel=21&z=2006-06-21&g=2006-06-21); of
+- a. uit eigener beweging over ieder boekjaar waarover uitkering is verleend als bedoeld in [hoofdstuk II, § 4](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=II&paragraaf=4&z=2007-01-01&g=2007-01-01), of aanspraak kan worden gemaakt op bijstand als bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=III&paragraaf=1&artikel=21&z=2007-01-01&g=2007-01-01); of
 
 - b. op verzoek van het college.
 
@@ -426,15 +426,15 @@ De bijstand aan een ondernemer in de binnenvaart wordt verleend, indien hij verb
 
 1. Het college legt in de beschikking waarin de bijstand wordt toegekend in elk geval vast:
 
-- a. indien de bijstand wordt verstrekt in de vorm van een rentedragende geldlening op grond van de [artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=III&paragraaf=1&artikel=20&z=2006-06-21&g=2006-06-21) of [24](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=III&paragraaf=2&artikel=24&z=2006-06-21&g=2006-06-21):
+- a. indien de bijstand wordt verstrekt in de vorm van een rentedragende geldlening op grond van de [artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=III&paragraaf=1&artikel=20&z=2007-01-01&g=2007-01-01) of [24](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=III&paragraaf=2&artikel=24&z=2007-01-01&g=2007-01-01):
 
 - 1°. de bestemming van de geldlening;
 
 - 2°. de verplichtingen tot betaling van rente en aflossing alsmede de betalingstermijnen;
 
-- 3°. dat het bedrag van de lening, behoudens in de gevallen waarin [artikel 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=III&paragraaf=1&artikel=21&z=2006-06-21&g=2006-06-21), van toepassing is en met inachtneming van [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=V&paragraaf=2&artikel=41&z=2006-06-21&g=2006-06-21), terstond opeisbaar is bij het niet nakomen van de verplichtingen tot betaling van rente en aflossing;
+- 3°. dat het bedrag van de lening, behoudens in de gevallen waarin [artikel 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=III&paragraaf=1&artikel=21&z=2007-01-01&g=2007-01-01), van toepassing is en met inachtneming van [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=V&paragraaf=2&artikel=41&z=2007-01-01&g=2007-01-01), terstond opeisbaar is bij het niet nakomen van de verplichtingen tot betaling van rente en aflossing;
 
-- b. indien de bijstand wordt verstrekt in de vorm van borgtocht op grond van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=II&paragraaf=5&artikel=16&z=2006-06-21&g=2006-06-21), dat aan de verplichtingen opgenomen in de leningsovereenkomst met de bank dient te worden voldaan.
+- b. indien de bijstand wordt verstrekt in de vorm van borgtocht op grond van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=II&paragraaf=5&artikel=16&z=2007-01-01&g=2007-01-01), dat aan de verplichtingen opgenomen in de leningsovereenkomst met de bank dient te worden voldaan.
 
 2. In de beschikking tot toekenning van de bijstand wordt voorts opgenomen dat het bedrag van de lening terstond opeisbaar is:
 
@@ -454,7 +454,7 @@ De zelfstandige die niet aan de rente- en aflossingsverplichtingen voldoet, word
 
 1. De zelfstandige die geheel of gedeeltelijk niet in staat is aan de rente- en aflossingsverplichtingen te voldoen, kan een met redenen omkleed verzoek om uitstel of verlaging van betaling bij het college indienen.
 
-2. Indien de zelfstandige tijdelijk niet in staat is aan de verplichtingen te voldoen en bijstand om niet ingevolge [artikel 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=III&paragraaf=1&artikel=21&z=2006-06-21&g=2006-06-21), niet mogelijk of ontoereikend is, kan het college, afhankelijk van de financiële omstandigheden van betrokkene:
+2. Indien de zelfstandige tijdelijk niet in staat is aan de verplichtingen te voldoen en bijstand om niet ingevolge [artikel 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=III&paragraaf=1&artikel=21&z=2007-01-01&g=2007-01-01), niet mogelijk of ontoereikend is, kan het college, afhankelijk van de financiële omstandigheden van betrokkene:
 
 - a. tijdelijk het bedrag van de aflossing verlagen;
 
@@ -478,7 +478,7 @@ Indien op grond van dit besluit een lening is verstrekt werkt het college mee aa
 
 ##### Artikel 43. Beëindiging bedrijf of zelfstandig beroep
 
-1. Bij beëindiging van het bedrijf of zelfstandig beroep wordt de lening, behoudens in het geval [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=V&paragraaf=2&artikel=42&z=2006-06-21&g=2006-06-21) toepassing vindt, volledig terugbetaald. Gestelde zekerheden worden volledig uitgewonnen. In afwijking daarvan blijft, op verzoek van de betrokkene en voor zover mogelijk, een lening onder hypothecair verband, verbonden aan de eigen woning met bijbehorend erf, gehandhaafd of wordt deze tot de onbelaste waarde van deze woning gevestigd. De [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0017838&artikel=12), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0017838&artikel=13), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0017838&artikel=14) en [15 van het Uitvoeringsbesluit WWIK](https://wetten.overheid.nl/jci1.3:c:BWBR0017838&artikel=15), zijn van overeenkomstige toepassing, met dien verstande dat de aflossing aanvangt op het moment van beëindiging van de bijstandsverlening. Geen aflossing wordt gevergd indien de belanghebbende een uitkering op grond van de [Wet werk en inkomen kunstenaars](https://wetten.overheid.nl/jci1.3:c:BWBR0017837) ontvangt.
+1. Bij beëindiging van het bedrijf of zelfstandig beroep wordt de lening, behoudens in het geval [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=V&paragraaf=2&artikel=42&z=2007-01-01&g=2007-01-01) toepassing vindt, volledig terugbetaald. Gestelde zekerheden worden volledig uitgewonnen. In afwijking daarvan blijft, op verzoek van de betrokkene en voor zover mogelijk, een lening onder hypothecair verband, verbonden aan de eigen woning met bijbehorend erf, gehandhaafd of wordt deze tot de onbelaste waarde van deze woning gevestigd. De [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0017838&artikel=12), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0017838&artikel=13), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0017838&artikel=14) en [15 van het Uitvoeringsbesluit WWIK](https://wetten.overheid.nl/jci1.3:c:BWBR0017838&artikel=15), zijn van overeenkomstige toepassing, met dien verstande dat de aflossing aanvangt op het moment van beëindiging van de bijstandsverlening. Geen aflossing wordt gevergd indien de belanghebbende een uitkering op grond van de [Wet werk en inkomen kunstenaars](https://wetten.overheid.nl/jci1.3:c:BWBR0017837) ontvangt.
 
 2. Indien na beëindiging van het bedrijf of zelfstandig beroep een deel van de lening resteert en deze niet met toepassing van het vorige lid onder hypothecair verband is verleend, wordt het resterende deel van de lening vanaf de beëindiging renteloos. Gedurende de periode van vijf jaar na beëindiging van het bedrijf of zelfstandig beroep dient 50 procent van het netto inkomen boven de bijstandsnorm, bedoeld in [hoofdstuk 3, paragrafen 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&paragraaf=3.2) en [3.3, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&paragraaf=3.3), besteed te worden voor aflossing van deze lening.
 
@@ -486,7 +486,7 @@ Indien op grond van dit besluit een lening is verstrekt werkt het college mee aa
 
 ##### Artikel 44. Terugvordering
 
-1. In afwijking van [hoofdstuk 6, paragraaf 6.4, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&paragraaf=6.4), worden kosten van bijstand door de gemeente teruggevorderd in de gevallen en naar de regels aangegeven in [artikel 12, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=II&paragraaf=4&artikel=12&z=2006-06-21&g=2006-06-21), en de [hoofdstukken V](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=V&z=2006-06-21&g=2006-06-21) en [VI](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=VI&z=2006-06-21&g=2006-06-21).
+1. In afwijking van [hoofdstuk 6, paragraaf 6.4, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&paragraaf=6.4), worden kosten van bijstand door de gemeente teruggevorderd in de gevallen en naar de regels aangegeven in [artikel 12, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=II&paragraaf=4&artikel=12&z=2007-01-01&g=2007-01-01), en de [hoofdstukken V](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=V&z=2007-01-01&g=2007-01-01) en [VI](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=VI&z=2007-01-01&g=2007-01-01).
 
 2. Indien daarvoor dringende redenen aanwezig zijn kan het college besluiten geheel of gedeeltelijk van terugvordering af te zien.
 
@@ -508,7 +508,7 @@ Kosten van bijstand worden van de zelfstandige teruggevorderd voor zover:
 
 ##### Artikel 47. Terugvordering van bijstand in de vorm van een geldlening
 
-Kosten van bijstand verleend in de vorm van een geldlening, anders dan bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=II&paragraaf=1&artikel=2&z=2006-06-21&g=2006-06-21), worden van de zelfstandige teruggevorderd, indien hij hieruit voortvloeiende verplichtingen niet of niet behoorlijk nakomt.
+Kosten van bijstand verleend in de vorm van een geldlening, anders dan bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=II&paragraaf=1&artikel=2&z=2007-01-01&g=2007-01-01), worden van de zelfstandige teruggevorderd, indien hij hieruit voortvloeiende verplichtingen niet of niet behoorlijk nakomt.
 
 ### Hoofdstuk VII. Financiering
 
@@ -516,7 +516,7 @@ Kosten van bijstand verleend in de vorm van een geldlening, anders dan bedoeld i
 
 1. Onze Minister vergoedt, ten laste van 's Rijks kas, 75% van de in een kalenderjaar ten laste van de gemeente gebleven kosten van:
 
-- a. algemene bijstand aan zelfstandigen en de belanghebbende bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=II&paragraaf=1&artikel=2&z=2006-06-21&g=2006-06-21), waaronder begrepen de loonbelasting, premies volksverzekeringen en daarnaast de vergoeding, bedoeld in [artikel 46 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=46), die daarover verschuldigd zijn, voorzover de algemene bijstand niet bij wijze van voorschot op grond van [artikel 52 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=52) is verleend;
+- a. algemene bijstand aan zelfstandigen en de belanghebbende bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=II&paragraaf=1&artikel=2&z=2007-01-01&g=2007-01-01), waaronder begrepen de loonbelasting, premies volksverzekeringen en daarnaast de vergoeding, bedoeld in [artikel 46 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=46), die daarover verschuldigd zijn, voorzover de algemene bijstand niet bij wijze van voorschot op grond van [artikel 52 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=52) is verleend;
 
 - b. bijstand ter voorziening in de behoefte aan bedrijfskapitaal;
 
@@ -528,55 +528,55 @@ Kosten van bijstand verleend in de vorm van een geldlening, anders dan bedoeld i
 
 ##### Artikel 49. Voorschot op de vergoeding
 
-1. Bij ministeriële regeling worden regels gesteld met betrekking tot het verlenen van voorschotten op de vergoeding, bedoeld in [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=VII&artikel=48&z=2006-06-21&g=2006-06-21).
+1. Bij ministeriële regeling worden regels gesteld met betrekking tot het verlenen van voorschotten op de vergoeding, bedoeld in [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=VII&artikel=48&z=2007-01-01&g=2007-01-01).
 
 2. Indien de uitvoering van dit besluit ernstige tekortkomingen vertoont, kan Onze Minister besluiten de voorschotten lager vast te stellen dan uit de op grond van het eerste lid gestelde regels voortvloeit.
 
 ##### Artikel 50. Uitkering ten laste gebleven kosten
 
-1. Voor de ten laste van de gemeente gebleven kosten, bedoeld in [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=VII&artikel=48&z=2006-06-21&g=2006-06-21), die op grond van het eerste lid van dat artikel niet voor vergoeding in aanmerking komen, verstrekt Onze Minister jaarlijks ten laste van 's Rijks kas aan de gemeente een uitkering, met dien verstande dat geen uitkering wordt verstrekt voor op grond van [artikel 52 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=52) verleende algemene bijstand. De uitkering wordt ten minste drie maanden voorafgaande aan het kalenderjaar waarop zij betrekking heeft door Onze Minister vastgesteld.
+1. Voor de ten laste van de gemeente gebleven kosten, bedoeld in [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=VII&artikel=48&z=2007-01-01&g=2007-01-01), die op grond van het eerste lid van dat artikel niet voor vergoeding in aanmerking komen, verstrekt Onze Minister jaarlijks ten laste van 's Rijks kas aan de gemeente een uitkering, met dien verstande dat geen uitkering wordt verstrekt voor op grond van [artikel 52 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=52) verleende algemene bijstand. De uitkering wordt ten minste drie maanden voorafgaande aan het kalenderjaar waarop zij betrekking heeft door Onze Minister vastgesteld.
 
 2. Het bedrag van de uitkering wordt volgens bij ministeriële regeling te stellen regels berekend aan de hand van het voor ieder jaar bij wet vast te stellen totale bedrag dat beschikbaar is voor de uitkeringen, bedoeld in het eerste lid. Bij deze ministeriële regeling kunnen regels worden gesteld omtrent het verzamelen van gegevens noodzakelijk voor de berekening van het bedrag van de uitkering.
 
 ##### Artikel 51. Verhoging uitkering
 
-1. Het totale bedrag, bedoeld in [artikel 50, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=VII&artikel=50&z=2006-06-21&g=2006-06-21), kan in het jaar waarop het bedrag betrekking heeft en in het daaropvolgende jaar bij wet worden verhoogd indien de ontwikkeling van de uitkeringslasten daartoe aanleiding geeft.
+1. Het totale bedrag, bedoeld in [artikel 50, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=VII&artikel=50&z=2007-01-01&g=2007-01-01), kan in het jaar waarop het bedrag betrekking heeft en in het daaropvolgende jaar bij wet worden verhoogd indien de ontwikkeling van de uitkeringslasten daartoe aanleiding geeft.
 
-2. Indien het totale bedrag wordt herzien, wordt het bedrag waarmee de uitkering, bedoeld in [artikel 50, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=VII&artikel=50&z=2006-06-21&g=2006-06-21), wordt verhoogd binnen een periode van vier weken na de herziening door Onze Minister vastgesteld.
+2. Indien het totale bedrag wordt herzien, wordt het bedrag waarmee de uitkering, bedoeld in [artikel 50, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=VII&artikel=50&z=2007-01-01&g=2007-01-01), wordt verhoogd binnen een periode van vier weken na de herziening door Onze Minister vastgesteld.
 
-3. Indien toepassing is gegeven aan het tweede lid, wordt voor de toepassing van [artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=VII&artikel=52&z=2006-06-21&g=2006-06-21) onder het bedrag van de uitkering verstaan: het bedrag van de uitkering inclusief de verhoging, bedoeld in het tweede lid.
+3. Indien toepassing is gegeven aan het tweede lid, wordt voor de toepassing van [artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=VII&artikel=52&z=2007-01-01&g=2007-01-01) onder het bedrag van de uitkering verstaan: het bedrag van de uitkering inclusief de verhoging, bedoeld in het tweede lid.
 
 ##### Artikel 52. Uitkeringstekort
 
-1. Indien bij de vaststelling van de ten laste van de gemeente gebleven kosten, bedoeld in artikel 54, blijkt, dat de ten laste van de gemeente gebleven kosten, bedoeld in [artikel 50, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=VII&artikel=50&z=2006-06-21&g=2006-06-21), in een kalenderjaar meer bedragen dan 115% van het bedrag van de uitkering, bedoeld in [artikel 50](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=VII&artikel=50&z=2006-06-21&g=2006-06-21), wordt door Onze Minister ten laste van 's Rijks kas aan de gemeente een aanvullende uitkering toegekend.
+1. Indien bij de vaststelling van de ten laste van de gemeente gebleven kosten, bedoeld in artikel 54, blijkt, dat de ten laste van de gemeente gebleven kosten, bedoeld in [artikel 50, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=VII&artikel=50&z=2007-01-01&g=2007-01-01), in een kalenderjaar meer bedragen dan 115% van het bedrag van de uitkering, bedoeld in [artikel 50](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=VII&artikel=50&z=2007-01-01&g=2007-01-01), wordt door Onze Minister ten laste van 's Rijks kas aan de gemeente een aanvullende uitkering toegekend.
 
-2. De hoogte van de aanvullende uitkering is gelijk aan het verschil tussen het bedrag van de ten laste van de gemeente gebleven kosten, bedoeld in [artikel 50, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=VII&artikel=50&z=2006-06-21&g=2006-06-21), en 115% van het bedrag van de uitkering.
+2. De hoogte van de aanvullende uitkering is gelijk aan het verschil tussen het bedrag van de ten laste van de gemeente gebleven kosten, bedoeld in [artikel 50, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=VII&artikel=50&z=2007-01-01&g=2007-01-01), en 115% van het bedrag van de uitkering.
 
 ##### Artikel 53. Betaling uitkering, verhoging en aanvullende uitkering
 
 Onze Minister stelt regels inzake de betaling van:
 
-- a. de uitkering, bedoeld in [artikel 50, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=VII&artikel=50&z=2006-06-21&g=2006-06-21);
+- a. de uitkering, bedoeld in [artikel 50, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=VII&artikel=50&z=2007-01-01&g=2007-01-01);
 
-- b. het bedrag waarmee de uitkering op grond van [artikel 51](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=VII&artikel=51&z=2006-06-21&g=2006-06-21) wordt verhoogd;
+- b. het bedrag waarmee de uitkering op grond van [artikel 51](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=VII&artikel=51&z=2007-01-01&g=2007-01-01) wordt verhoogd;
 
-- c. de aanvullende uitkering, bedoeld in [artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=VII&artikel=52&z=2006-06-21&g=2006-06-21).
+- c. de aanvullende uitkering, bedoeld in [artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=VII&artikel=52&z=2007-01-01&g=2007-01-01).
 
 ##### Artikel 54. Vaststelling
 
-1. Onze Minister stelt de ten laste van de gemeente gebleven kosten, bedoeld in de [artikelen 48](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=VII&artikel=48&z=2006-06-21&g=2006-06-21) en [50](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=VII&artikel=50&z=2006-06-21&g=2006-06-21), de vergoeding, bedoeld in [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=VII&artikel=48&z=2006-06-21&g=2006-06-21), en de aanvullende uitkering, bedoeld in [artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=VII&artikel=52&z=2006-06-21&g=2006-06-21), vast, binnen een jaar na ontvangst van het verslag en daarop betrekking hebbende verklaring, bedoeld in [artikel 54 van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&artikel=54) en [artikel 54 van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0004163&artikel=54).
+1. Onze Minister stelt de ten laste van de gemeente gebleven kosten, bedoeld in de [artikelen 48](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=VII&artikel=48&z=2007-01-01&g=2007-01-01) en [50](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=VII&artikel=50&z=2007-01-01&g=2007-01-01), de vergoeding, bedoeld in [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=VII&artikel=48&z=2007-01-01&g=2007-01-01), en de aanvullende uitkering, bedoeld in [artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=VII&artikel=52&z=2007-01-01&g=2007-01-01), vast binnen een jaar na ontvangst van de verantwoordingsinformatie, bedoeld in [artikel 58a van het Besluit begroting en verantwoording provincies en gemeenten](https://wetten.overheid.nl/jci1.3:c:BWBR0014606&artikel=58a).
 
-2. Indien het verslag niet is ontvangen binnen 18 maanden na het kalenderjaar waarop het betrekking heeft of niet is voorzien van een daarop betrekking hebbende verklaring worden de ten laste van de gemeente gebleven kosten ambtshalve vastgesteld.
+2. Indien de verantwoordingsinformatie, bedoeld in het eerste lid, niet binnen achttien maanden na het kalenderjaar waarop het betrekking heeft is ontvangen door Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties worden de ten laste van de gemeente gebleven kosten ambtshalve door Onze Minister vastgesteld.
 
 ##### Artikel 55. Niet in aanmerking te nemen kosten
 
-1. De volgens opgave van het college ten laste gebleven kosten worden bij de vaststelling, bedoeld in [artikel 54, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=VII&artikel=54&z=2006-06-21&g=2006-06-21), buiten aanmerking gelaten indien:
+1. De volgens opgave van het college ten laste gebleven kosten worden bij de vaststelling, bedoeld in [artikel 54, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=VII&artikel=54&z=2007-01-01&g=2007-01-01), buiten aanmerking gelaten indien:
 
-- a. het bijstand betreft die is verleend in strijd met de bij of krachtens de wet of dit besluit gestelde regels, of die niet of niet volledig overeenkomstig [hoofdstuk VI](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=VI&z=2006-06-21&g=2006-06-21) is of wordt teruggevorderd;
+- a. het bijstand betreft die is verleend in strijd met de bij of krachtens de wet of dit besluit gestelde regels, of die niet of niet volledig overeenkomstig [hoofdstuk VI](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=VI&z=2007-01-01&g=2007-01-01) is of wordt teruggevorderd;
 
 - b. niet is voldaan aan [artikel 14a tot en met 14f van de Algemene bijstandswet](https://wetten.overheid.nl/jci1.3:c:BWBR0007333&artikel=14a) of [artikel 18, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=18), voor een bedrag gelijk aan het bedrag waarmee de kosten zouden zijn verlaagd indien het college op een juiste wijze toepassing zou hebben gegeven aan dit artikel.
 
-2. Indien als gevolg van het niet hebben voldaan door het college aan de bij of krachtens de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=17), [41, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=41), [43](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=43) en [44 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=44) of [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=IV&artikel=35&z=2006-06-21&g=2006-06-21) gestelde regels, niet kan worden vastgesteld of en voor welk bedrag de ten laste van de gemeenten gebleven kosten buiten aanmerking moeten worden gelaten, wordt volgens door Onze Minister te stellen regels hiervoor een bedrag vastgesteld.
+2. Indien als gevolg van het niet hebben voldaan door het college aan de bij of krachtens de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=17), [41, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=41), [43](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=43) en [44 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=44) of [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=IV&artikel=35&z=2007-01-01&g=2007-01-01) gestelde regels, niet kan worden vastgesteld of en voor welk bedrag de ten laste van de gemeenten gebleven kosten buiten aanmerking moeten worden gelaten, wordt volgens door Onze Minister te stellen regels hiervoor een bedrag vastgesteld.
 
 3. Het eerste en tweede lid zijn niet van toepassing voorzover naar het oordeel van Onze Minister:
 
@@ -588,33 +588,33 @@ Onze Minister stelt regels inzake de betaling van:
 
 1. Onze Minister vergoedt ten laste van 's Rijks kas:
 
-- a. aan gemeenten, bedoeld in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=IV&artikel=36&z=2006-06-21&g=2006-06-21), een bij ministeriële regeling te bepalen bedrag per besluit op een aanvraag van ondernemers in de binnenvaart om verlening van algemene bijstand en bijstand ter voorziening in de behoefte aan bedrijfskapitaal;
+- a. aan gemeenten, bedoeld in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=IV&artikel=36&z=2007-01-01&g=2007-01-01), een bij ministeriële regeling te bepalen bedrag per besluit op een aanvraag van ondernemers in de binnenvaart om verlening van algemene bijstand en bijstand ter voorziening in de behoefte aan bedrijfskapitaal;
 
-- b. 90% van de kosten van aan derden opgedragen onderzoek inzake verlening van algemene bijstand en bijstand ter voorziening in de behoefte aan bedrijfskapitaal aan zelfstandigen als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=II&paragraaf=1&artikel=2&z=2006-06-21&g=2006-06-21), voor zover de kosten een bij ministeriële regeling te bepalen bedrag niet overschrijden;
+- b. 90% van de kosten van aan derden opgedragen onderzoek inzake verlening van algemene bijstand en bijstand ter voorziening in de behoefte aan bedrijfskapitaal aan zelfstandigen als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=II&paragraaf=1&artikel=2&z=2007-01-01&g=2007-01-01), voor zover de kosten een bij ministeriële regeling te bepalen bedrag niet overschrijden;
 
-- c. 90% van de kosten van aan derden opgedragen begeleiding van personen aan wie algemene bijstand wordt verstrekt als bedoeld in de [artikelen 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=II&paragraaf=1&artikel=2&z=2006-06-21&g=2006-06-21), en [23](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=III&paragraaf=2&artikel=23&z=2006-06-21&g=2006-06-21), voor zover de kosten een bij ministeriële regeling te bepalen bedrag niet overschrijden.
+- c. 90% van de kosten van aan derden opgedragen begeleiding van personen aan wie algemene bijstand wordt verstrekt als bedoeld in de [artikelen 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=II&paragraaf=1&artikel=2&z=2007-01-01&g=2007-01-01), en [23](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=III&paragraaf=2&artikel=23&z=2007-01-01&g=2007-01-01), voor zover de kosten een bij ministeriële regeling te bepalen bedrag niet overschrijden.
 
-2. In afwijking van het eerste lid, onderdelen b en c, is de vergoeding 100%, indien het onderzoek of de begeleiding betrekking heeft op ondernemers in de binnenvaart als bedoeld in [artikel 1, onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=I&artikel=1&z=2006-06-21&g=2006-06-21).
+2. In afwijking van het eerste lid, onderdelen b en c, is de vergoeding 100%, indien het onderzoek of de begeleiding betrekking heeft op ondernemers in de binnenvaart als bedoeld in [artikel 1, onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=I&artikel=1&z=2007-01-01&g=2007-01-01).
 
 3. Onder onderzoek, bedoeld in het eerste en tweede lid, wordt verstaan, een bedrijfseconomisch of bedrijfstechnisch onderzoek, waaronder begrepen de taxatie van vermogensbestanddelen, afgerond met een schriftelijke rapportage, voorzover dit onderzoek noodzakelijk is voor de uitvoering van dit besluit.
 
-4. Onder begeleiding, als bedoeld in het eerste en tweede lid, wordt verstaan de individuele, planmatige en activerende ondersteuning van personen als bedoeld in [artikel 2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=II&paragraaf=1&artikel=2&z=2006-06-21&g=2006-06-21), en in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=II&paragraaf=1&artikel=2&z=2006-06-21&g=2006-06-21), gericht op het verkrijgen van een levensvatbaar bedrijf of zelfstandig beroep.
+4. Onder begeleiding, als bedoeld in het eerste en tweede lid, wordt verstaan de individuele, planmatige en activerende ondersteuning van personen als bedoeld in [artikel 2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=II&paragraaf=1&artikel=2&z=2007-01-01&g=2007-01-01), en in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=II&paragraaf=1&artikel=2&z=2007-01-01&g=2007-01-01), gericht op het verkrijgen van een levensvatbaar bedrijf of zelfstandig beroep.
 
 ##### Artikel 57. Voorschot op de vergoeding
 
-1. Onze Minister stelt regels met betrekking tot het verlenen van voorschotten op de vergoeding, bedoeld in [artikel 56](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=VII&artikel=56&z=2006-06-21&g=2006-06-21).
+1. Onze Minister stelt regels met betrekking tot het verlenen van voorschotten op de vergoeding, bedoeld in [artikel 56](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=VII&artikel=56&z=2007-01-01&g=2007-01-01).
 
 2. Indien de uitvoering van dit besluit door het college ernstige tekortkomingen vertoont, kan Onze Minister besluiten de voorschotten lager vast te stellen dan uit de op grond van het eerste lid gestelde regels voortvloeit.
 
 ##### Artikel 58. Vaststelling
 
-1. Onze Minister stelt de vergoeding, bedoeld in [artikel 56](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=VII&artikel=56&z=2006-06-21&g=2006-06-21), vast binnen een jaar na ontvangst van het verslag en daarop betrekking hebbende verklaring, bedoeld in [artikel 54 van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&artikel=54) en [artikel 54 van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0004163&artikel=54).
+1. Onze Minister stelt de vergoeding, bedoeld in [artikel 56](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=VII&artikel=56&z=2007-01-01&g=2007-01-01), vast binnen één jaar na ontvangst van de verantwoordingsinformatie, bedoeld in [artikel 58a van het Besluit begroting en verantwoording provincies en gemeenten](https://wetten.overheid.nl/jci1.3:c:BWBR0014606&artikel=58a).
 
-2. Indien het verslag niet is ontvangen binnen 18 maanden na het kalenderjaar waarop het betrekking heeft of niet is voorzien van een daarop betrekking hebbende verklaring wordt de vergoeding ambtshalve vastgesteld.
+2. Indien de verantwoordingsinformatie, bedoeld in het eerste lid, niet binnen achttien maanden na het kalenderjaar waarop het betrekking heeft is ontvangen door Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties wordt de vergoeding ambtshalve door Onze Minister vastgesteld.
 
 ##### Artikel 59. Niet voor vergoeding in aanmerking komende kosten
 
-De kosten, bedoeld in [artikel 56, eerste lid, onder b, en c, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=VII&artikel=56&z=2006-06-21&g=2006-06-21), worden niet vergoed:
+De kosten, bedoeld in [artikel 56, eerste lid, onder b, en c, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=VII&artikel=56&z=2007-01-01&g=2007-01-01), worden niet vergoed:
 
 - a. indien het onderzoek of de begeleiding is opgedragen aan een deskundige derde die onder verantwoordelijkheid van het college werkzaam is;
 
@@ -624,11 +624,11 @@ De kosten, bedoeld in [artikel 56, eerste lid, onder b, en c, en tweede lid](htt
 
 ##### Artikel 60. Indexering bedragen en herziening percentages
 
-1. Onze Minister herziet, met ingang van 1 januari van elk kalenderjaar, met de procentuele stijging van het prijsindexcijfer voor de gezinsconsumptie de bedragen, genoemd in de[artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=II&paragraaf=1&artikel=3&z=2006-06-21&g=2006-06-21), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=III&paragraaf=1&artikel=20&z=2006-06-21&g=2006-06-21), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=III&paragraaf=1&artikel=22&z=2006-06-21&g=2006-06-21), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=III&paragraaf=2&artikel=24&z=2006-06-21&g=2006-06-21), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=III&paragraaf=3&artikel=25&z=2006-06-21&g=2006-06-21), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=III&paragraaf=3&artikel=26&z=2006-06-21&g=2006-06-21) en [29](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=III&paragraaf=6&artikel=29&z=2006-06-21&g=2006-06-21).
+1. Onze Minister herziet, met ingang van 1 januari van elk kalenderjaar, met de procentuele stijging van het prijsindexcijfer voor de gezinsconsumptie de bedragen, genoemd in de[artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=II&paragraaf=1&artikel=3&z=2007-01-01&g=2007-01-01), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=III&paragraaf=1&artikel=20&z=2007-01-01&g=2007-01-01), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=III&paragraaf=1&artikel=22&z=2007-01-01&g=2007-01-01), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=III&paragraaf=2&artikel=24&z=2007-01-01&g=2007-01-01), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=III&paragraaf=3&artikel=25&z=2007-01-01&g=2007-01-01), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=III&paragraaf=3&artikel=26&z=2007-01-01&g=2007-01-01) en [29](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=III&paragraaf=6&artikel=29&z=2007-01-01&g=2007-01-01).
 
-2. Onze Minister herziet het rentepercentage, genoemd in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=II&paragraaf=5&artikel=15&z=2006-06-21&g=2006-06-21), voor zover de rente die banken in rekening brengen bij het verstrekken van leningen aan bedrijven, daartoe aanleiding geeft.
+2. Onze Minister herziet het rentepercentage, genoemd in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=II&paragraaf=5&artikel=15&z=2007-01-01&g=2007-01-01), voor zover de rente die banken in rekening brengen bij het verstrekken van leningen aan bedrijven, daartoe aanleiding geeft.
 
-3. Onze Minister stelt het in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=II&paragraaf=2&artikel=6&z=2006-06-21&g=2006-06-21), genoemde percentage zodanig vast dat dit gelijk is aan het gemiddeld bedrag dat voor personen jonger dan 65 jaar over de algemene bijstand verschuldigd is aan loonbelasting en premies volksverzekeringen, uitgedrukt als een percentage van de algemene bijstand verhoogd met deze loonbelasting en premies.
+3. Onze Minister stelt het in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&hoofdstuk=II&paragraaf=2&artikel=6&z=2007-01-01&g=2007-01-01), genoemde percentage zodanig vast dat dit gelijk is aan het gemiddeld bedrag dat voor personen jonger dan 65 jaar over de algemene bijstand verschuldigd is aan loonbelasting en premies volksverzekeringen, uitgedrukt als een percentage van de algemene bijstand verhoogd met deze loonbelasting en premies.
 
 ##### Artikel 61. Inwerkingtreding
 
