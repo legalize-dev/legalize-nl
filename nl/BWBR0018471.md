@@ -4,7 +4,7 @@ identifier: "BWBR0018471"
 country: "nl"
 rank: "wet"
 publication_date: "2015-01-01"
-last_updated: "2006-01-01"
+last_updated: "2007-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018471"
 soort: "wet"
@@ -65,7 +65,7 @@ Wijzigt de Wet tegemoetkoming onderwijsbijdrage en schoolkosten.
 
 ##### Artikel V. De [Wet tegemoetkoming onderwijsbijdrage en schoolkosten](https://wetten.overheid.nl/jci1.3:c:BWBR0012438)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet tegemoetkoming onderwijsbijdrage en schoolkosten.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
@@ -85,7 +85,7 @@ Wijzigt de Wet studiefinanciering 2000.
 
 ##### Artikel II. De [Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet studiefinanciering 2000.
 
 ##### Artikel VI. De [Wet tegemoetkoming onderwijsbijdrage en schoolkosten](https://wetten.overheid.nl/jci1.3:c:BWBR0012438)
 
@@ -155,17 +155,17 @@ Wijzigt de Wet op de loonbelasting 1964.
 
 ##### Artikel III
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Algemene wet inkomensafhankelijke regelingen.
 
 ##### Artikel IV. Inwerkingtreding
 
-1. Deze wet treedt in werking op 1 september 2005 en geldt wat betreft de wijzigingen ingevolge [hoofdstuk 1, afdeling A](https://wetten.overheid.nl/jci1.3:c:BWBR0018471&hoofdstuk=1&afdeling=A&z=2006-01-01&g=2006-01-01), [afdeling B](https://wetten.overheid.nl/jci1.3:c:BWBR0018471&hoofdstuk=1&afdeling=B&z=2006-01-01&g=2006-01-01), [afdeling C, artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0018471&hoofdstuk=1&afdeling=C&artikel=I&z=2006-01-01&g=2006-01-01) en [artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBR0018471&hoofdstuk=1&afdeling=C&artikel=IV&z=2006-01-01&g=2006-01-01), en [afdeling D](https://wetten.overheid.nl/jci1.3:c:BWBR0018471&hoofdstuk=1&afdeling=D&z=2006-01-01&g=2006-01-01), en [hoofdstuk 2, artikel I, vierde tot en met elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018471&hoofdstuk=2&artikel=I&z=2006-01-01&g=2006-01-01), en [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0018471&hoofdstuk=2&artikel=II&z=2006-01-01&g=2006-01-01), voor berekeningsjaren als bedoeld in de [Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472), die aanvangen op of na 1 januari 2006.
+1. Deze wet treedt in werking op 1 september 2005 en geldt wat betreft de wijzigingen ingevolge [hoofdstuk 1, afdeling A](https://wetten.overheid.nl/jci1.3:c:BWBR0018471&hoofdstuk=1&afdeling=A&z=2007-01-01&g=2007-01-01), [afdeling B](https://wetten.overheid.nl/jci1.3:c:BWBR0018471&hoofdstuk=1&afdeling=B&z=2007-01-01&g=2007-01-01), [afdeling C, artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0018471&hoofdstuk=1&afdeling=C&artikel=I&z=2007-01-01&g=2007-01-01) en [artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBR0018471&hoofdstuk=1&afdeling=C&artikel=IV&z=2007-01-01&g=2007-01-01), en [afdeling D](https://wetten.overheid.nl/jci1.3:c:BWBR0018471&hoofdstuk=1&afdeling=D&z=2007-01-01&g=2007-01-01), en [hoofdstuk 2, artikel I, vierde tot en met elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018471&hoofdstuk=2&artikel=I&z=2007-01-01&g=2007-01-01), en [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0018471&hoofdstuk=2&artikel=II&z=2007-01-01&g=2007-01-01), voor berekeningsjaren als bedoeld in de [Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472), die aanvangen op of na 1 januari 2006.
 
-2. In afwijking van het eerste lid treedt [artikel I, eerste tot en met derde lid, van hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0018471&hoofdstuk=2&artikel=I&z=2006-01-01&g=2006-01-01) in werking met ingang van 1 juli 2005.
+2. In afwijking van het eerste lid treedt [artikel I, eerste tot en met derde lid, van hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0018471&hoofdstuk=2&artikel=I&z=2007-01-01&g=2007-01-01) in werking met ingang van 1 juli 2005.
 
-3. In afwijking van het eerste lid treden de [artikelen II](https://wetten.overheid.nl/jci1.3:c:BWBR0018471&hoofdstuk=2&artikel=I&z=2006-01-01&g=2006-01-01) en [V van afdeling C van hoofdstuk 1](https://wetten.overheid.nl/jci1.3:c:BWBR0018471&hoofdstuk=1&afdeling=C&artikel=V&z=2006-01-01&g=2006-01-01) en [artikel III van hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0018471&hoofdstuk=2&artikel=III&z=2006-01-01&g=2006-01-01) in werking met ingang van 1 januari 2007.
+3. In afwijking van het eerste lid treden de [artikelen II](https://wetten.overheid.nl/jci1.3:c:BWBR0018471&hoofdstuk=2&artikel=I&z=2007-01-01&g=2007-01-01) en [V van afdeling C van hoofdstuk 1](https://wetten.overheid.nl/jci1.3:c:BWBR0018471&hoofdstuk=1&afdeling=C&artikel=V&z=2007-01-01&g=2007-01-01) en [artikel III van hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0018471&hoofdstuk=2&artikel=III&z=2007-01-01&g=2007-01-01) in werking met ingang van 1 januari 2007.
 
-4. In afwijking van het eerste lid treden de [artikelen III](https://wetten.overheid.nl/jci1.3:c:BWBR0018471&hoofdstuk=1&afdeling=C&artikel=III&z=2006-01-01&g=2006-01-01) en [VI van afdeling C van hoofdstuk 1](https://wetten.overheid.nl/jci1.3:c:BWBR0018471&hoofdstuk=1&afdeling=C&artikel=VI&z=2006-01-01&g=2006-01-01) in werking met ingang van 1 januari 2008.
+4. In afwijking van het eerste lid treden de [artikelen III](https://wetten.overheid.nl/jci1.3:c:BWBR0018471&hoofdstuk=1&afdeling=C&artikel=III&z=2007-01-01&g=2007-01-01) en [VI van afdeling C van hoofdstuk 1](https://wetten.overheid.nl/jci1.3:c:BWBR0018471&hoofdstuk=1&afdeling=C&artikel=VI&z=2007-01-01&g=2007-01-01) in werking met ingang van 1 januari 2008.
 
 ##### Artikel V. Citeertitel
 
