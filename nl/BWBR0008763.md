@@ -4,7 +4,7 @@ identifier: "BWBR0008763"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2006-01-01"
+last_updated: "2007-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008763"
 soort: "AMvB"
@@ -210,9 +210,9 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 - a. de verzorgingsbehoefte blijkt uit een verklaring van een indicatieorgaan als bedoeld in [artikel 9a van de Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&artikel=9a);
 
-- b. het voordeel uit sparen en beleggen als bedoeld in [artikel 5.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.2) over het berekeningsjaar van de in het eerste lid bedoelde buiten beschouwing te laten persoon, niet meer bedraagt dan € 3498 en
+- b. het voordeel uit sparen en beleggen als bedoeld in [artikel 5.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.2) over het berekeningsjaar van de in het eerste lid bedoelde buiten beschouwing te laten persoon, niet meer bedraagt dan € 3498 Per 1 januari 2007: € 3 550.en
 
-- c. het gezamenlijke toetsingsinkomen van de huurder, diens partner en de medebewoners, met inbegrip van de in het eerste lid bedoelde buiten beschouwing te laten persoon, niet meer bedraagt dan € 38.375.
+- c. het gezamenlijke toetsingsinkomen van de huurder, diens partner en de medebewoners, met inbegrip van de in het eerste lid bedoelde buiten beschouwing te laten persoon, niet meer bedraagt dan € 38.375Per 1 januari 2007: € 38 950..
 
 3. Voor de toepassing van het eerste lid wordt geen rekening gehouden met de verzorgingsbehoefte van een minderjarige eerstegraads bloed- of aanverwant in de neergaande lijn.
 
@@ -222,7 +222,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 1. Op verzoek blijven bij de toepassing van [artikel 7, eerste en tweede lid, van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=7) voor zover het betreft het toekennen van een huurtoeslag, de navolgende bestanddelen van het toetsingsinkomen buiten beschouwing:
 
-- a. afkoopsommen van ouderdoms- of nabestaandenpensioen die in het berekeningsjaar niet meer bedragen dan het bedrag dat is opgenomen in [artikel 32, vijfde lid, van de Pensioen- en spaarfondsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002089&artikel=32);
+- a. afkoopsommen van ouderdoms- of nabestaandenpensioen die in het berekeningsjaar niet meer bedragen dan het bedrag dat is opgenomen in [artikel 66, eerste lid, van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=66) en [artikel 78, eerste lid, van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=78);
 
 - b. nabetalingen van inkomsten als bedoeld in [afdeling 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&afdeling=3.3) en [3.5 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&afdeling=3.5);
 
@@ -238,9 +238,9 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 2c
 
-1. Een verzoek als bedoeld in de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008763&hoofdstuk=2&artikel=2&z=2006-01-01&g=2006-01-01), [2a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008763&hoofdstuk=2&artikel=2a&z=2006-01-01&g=2006-01-01), en [2b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008763&hoofdstuk=2&artikel=2b&z=2006-01-01&g=2006-01-01), kan worden gedaan tot het tijdstip dat de toekenning van de huurtoeslag over het desbetreffende berekeningsjaar onherroepelijk is geworden.
+1. Een verzoek als bedoeld in de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008763&hoofdstuk=2&artikel=2&z=2007-01-01&g=2007-01-01), [2a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008763&hoofdstuk=2&artikel=2a&z=2007-01-01&g=2007-01-01), en [2b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008763&hoofdstuk=2&artikel=2b&z=2007-01-01&g=2007-01-01), kan worden gedaan tot het tijdstip dat de toekenning van de huurtoeslag over het desbetreffende berekeningsjaar onherroepelijk is geworden.
 
-2. Een verzoek als bedoeld in de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008763&hoofdstuk=2&artikel=2&z=2006-01-01&g=2006-01-01), [2a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008763&hoofdstuk=2&artikel=2a&z=2006-01-01&g=2006-01-01), en [2b, eerste lid, onderdelen c en e](https://wetten.overheid.nl/jci1.3:c:BWBR0008763&hoofdstuk=2&artikel=2b&z=2006-01-01&g=2006-01-01), wordt geacht mede te zijn gedaan voor op het berekeningsjaar volgende berekeningsjaren.
+2. Een verzoek als bedoeld in de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008763&hoofdstuk=2&artikel=2&z=2007-01-01&g=2007-01-01), [2a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008763&hoofdstuk=2&artikel=2a&z=2007-01-01&g=2007-01-01), en [2b, eerste lid, onderdelen c en e](https://wetten.overheid.nl/jci1.3:c:BWBR0008763&hoofdstuk=2&artikel=2b&z=2007-01-01&g=2007-01-01), wordt geacht mede te zijn gedaan voor op het berekeningsjaar volgende berekeningsjaren.
 
 ### Hoofdstuk 3. Onzelfstandige woonruimte
 
