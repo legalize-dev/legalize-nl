@@ -4,7 +4,7 @@ identifier: "BWBR0020616"
 country: "nl"
 rank: "wet"
 publication_date: "2019-07-21"
-last_updated: "2006-01-01"
+last_updated: "2007-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020616"
 soort: "wet"
@@ -41,19 +41,19 @@ entry_into_force: "2007-01-01"
 
 ### Afdeling 1. Inleidende bepalingen
 
-### Afdeling 2. Algemene bepalingen
+### Afdeling 1. Inleidende bepalingen
 
 ### Afdeling 3. [Wet financiële dienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0018329)
 
 #### § 3.1. Vergunningen
 
-#### § 3.2. Ontheffingen
+#### § 2.1. Toezichtkosten
 
 #### § 3.3. Verbod
 
 #### § 3.4. Notificatie
 
-#### § 3.5. Overig
+#### § 2.2. Register
 
 ##### Artikel 31
 
@@ -67,7 +67,7 @@ entry_into_force: "2007-01-01"
 
 ##### Artikel 32
 
-Dit onderdeel is nog niet inwerking getreden
+[Artikel 4:30a, eerste lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:30a) is niet van toepassing op aanbieders van beleggingsobjecten, voorzover zij overeenkomsten inzake beleggingsobjecten die voor 1 januari 2006 zijn aangegaan, beheren of uitvoeren of daarbij assisteren.
 
 ### Afdeling 4. [Wet toezicht beleggingsinstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0004809)
 
@@ -1230,121 +1230,5 @@ De [Wet van 6 december 1999, houdende bepalingen ter vrijwaring van kredietinste
 ##### Artikel 180
 
 Deze wet wordt aangehaald als: Invoerings- en aanpassingswet Wet op het financieel toezicht.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 16a
-
-Op een op of na 1 januari 2007 plaatsgevonden faillietverklaring van een kredietinstelling of verzekeraar of gedaan verzoek of voordracht daartoe en op de gevolgen van een op of na die datum uitgesproken faillissement van een kredietinstelling of verzekeraar ten aanzien waarvan onderscheidenlijk van wie voorafgaand aan de inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) een noodregeling is uitgesproken op grond van [artikel 71 van de Wet toezicht kredietwezen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005792&artikel=71), [artikel 66 van de Wet toezicht natura-uitvaartverzekeringsbedrijf](https://wetten.overheid.nl/jci1.3:c:BWBR0007477&artikel=66) onderscheidenlijk [artikel 156 Wet toezicht verzekeringsbedrijf 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006509&artikel=156), is de [Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860) van toepassing zoals die luidt op het moment van het verzoek of de voordracht.
-
-#### § 2.6. Toetsing van betrouwbaarheid en deskundigheid
-
-#### § 2.7. Beleggerscompensatie- en depositogarantiestelsel
-
-#### § 2.8. Bevoegde rechter
-
-#### § 2.9. Voorschriften en beperkingen
-
-### Afdeling 3. [Wet financiële dienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0018329)
-
-#### § 3.1. Vergunningen
-
-#### § 3.2. Ontheffingen
-
-#### § 3.3. Verbod
-
-#### § 3.4. Notificatie
-
-#### § 3.5. Overig
-
-### Afdeling 4. [Wet toezicht beleggingsinstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0004809)
-
-#### § 4.1. Vergunningen
-
-#### § 4.2. Ontheffingen
-
-#### § 4.3. Verklaring van geen bezwaar
-
-#### § 4.4. Notificatie
-
-#### § 4.5. Overig
-
-### Afdeling 5. [Wet toezicht effectenverkeer 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007657)
-
-#### § 5.1. Vergunningen
-
-#### § 5.2. Ontheffingen
-
-#### § 5.3. Verklaring van geen bezwaar
-
-#### § 5.4. Notificatie
-
-#### § 5.5. Goedkeuring prospectus
-
-#### § 5.6. Erkenning van een markt in financiële instrumenten
-
-#### § 5.7. Overig
-
-### Afdeling 6. [Wet toezicht kredietwezen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005792)
-
-#### § 6.1. Vergunningen
-
-#### § 6.2. Vrijstellingen
-
-#### § 6.3. Ontheffingen
-
-#### § 6.4. Notificatie
-
-#### § 6.5. Verklaring van geen bezwaar
-
-#### § 6.6. Overig
-
-### Afdeling 7. [Wet toezicht natura-uitvaartverzekeringsbedrijf](https://wetten.overheid.nl/jci1.3:c:BWBR0007477)
-
-#### § 7.1. Vergunning
-
-#### § 7.2. Ontheffingen
-
-#### § 7.3. Verklaring van geen bezwaar
-
-#### § 7.4. Notificatie
-
-#### § 7.5. Overig
-
-### Afdeling 8. [Wet toezicht verzekeringsbedrijf 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006509)
-
-#### § 8.1. Vergunning
-
-#### § 8.2. Ontheffingen
-
-#### § 8.3. Verklaring van geen bezwaar
-
-#### § 8.4. Notificatie
-
-#### § 8.5. Overig
-
-### Afdeling 9. Clearinginstellingen
-
-### Afdeling 10. Waarborg- en garantiefondsen
-
-### Hoofdstuk 2. Wijziging van andere wetten
-
-#### § 1. Ministerie van Binnenlandse Zaken en Koninkrijksrelaties
-
-#### § 2. Ministerie van Buitenlandse Zaken
-
-#### § 3. Ministerie van Economische Zaken
-
-#### § 4. Ministerie van Financiën
-
-#### § 5. Ministerie van Justitie
-
-#### § 6. Ministerie van Landbouw, Natuur en Voedselkwaliteit
-
-#### § 7. Ministerie van Sociale Zaken en Werkgelegenheid
-
-#### § 8. Ministerie van Volksgezondheid, Welzijn en Sport
-
-### Hoofdstuk 3. Slotbepalingen
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
