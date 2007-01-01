@@ -4,7 +4,7 @@ identifier: "BWBR0018707"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-02-13"
-last_updated: "2006-01-01"
+last_updated: "2007-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018707"
 soort: "AMvB"
@@ -76,12 +76,18 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 1a. Informatieverstrekking aan de Belastingdienst/Toeslagen
 
-Aan de Belastingdienst/Toeslagen worden desgevraagd, zo mogelijk langs elektronische weg, gegevens verstrekt die van belang kunnen zijn voor de uitvoering van de wet. De volgende gegevens worden daarbij verstrekt onder vermelding van het sociaal-fiscaalnummer van degene op wie de gegevens betrekking hebben:
+Aan de Belastingdienst/Toeslagen worden desgevraagd door de hierna aangewezen natuurlijke personen, rechtspersonen en instellingen de volgende gegevens verstrekt die van belang kunnen zijn voor de uitvoering van de wet:
 
 - a. voor zover het de toekenning van huurtoeslagen betreft: door de verhuurder, gegevens inzake het huurcontract, waaronder in elk geval begrepen de huurprijs van de woning;
 
 - b. voor zover het de toekenning van kinderopvangtoeslagen betreft: door het kindercentrum, het gastouderbureau of de gastouder, gegevens inzake het kinderopvangcontract, waaronder in elk geval begrepen de uurprijs voor de kinderopvang en het aantal kinderen en uren waarvoor kinderopvang wordt genoten;
 
 - c. voor zover het de toekenning van zorgtoeslagen betreft: door de zorgverzekeraar, bedoeld in [artikel 1, onderdeel b, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=1), gegevens inzake de zorgverzekering.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 1b. Gebruik sociaal-fiscaalnummer bij informatieverstrekking aan de Belastingdienst/Toeslagen
+
+De verstrekking van gegevens en inlichtingen ingevolge [artikel 38, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=38) aan de Belastingdienst/Toeslagen vindt plaats onder vermelding van het sociaal-fiscaalnummer van degene op wie de gegevens betrekking hebben en geschiedt zo mogelijk langs elektronische weg.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
