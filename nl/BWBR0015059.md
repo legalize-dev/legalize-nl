@@ -4,7 +4,7 @@ identifier: "BWBR0015059"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-01-01"
-last_updated: "2006-01-01"
+last_updated: "2007-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0015059"
 soort: "ministeriele-regeling"
@@ -71,7 +71,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 4. Betaling aan de Minister van Binnenlandse Zaken en Koninkrijksrelaties door de individuele waterschappen
 
-De individuele waterschappen betalen aan de Minister van Binnenlandse Zaken en Koninkrijksrelaties uiterlijk op 1 april van het kalenderjaar het op de voet van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0015059&hoofdstuk=2&artikel=3&z=2006-01-01&g=2006-01-01) door hem vastgestelde individuele aandeel van het waterschap in de kosten van de waardering, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015059&hoofdstuk=1&artikel=2&z=2006-01-01&g=2006-01-01), van het besluit.
+De individuele waterschappen betalen aan de Minister van Binnenlandse Zaken en Koninkrijksrelaties uiterlijk op 1 april van het kalenderjaar het op de voet van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0015059&hoofdstuk=2&artikel=3&z=2007-01-01&g=2007-01-01) door hem vastgestelde individuele aandeel van het waterschap in de kosten van de waardering, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015059&hoofdstuk=1&artikel=2&z=2007-01-01&g=2007-01-01), van het besluit.
 
 ### Hoofdstuk 3. Verdeling vergoeding Rijk en waterschappen over de individuele gemeenten
 
@@ -83,13 +83,13 @@ De individuele waterschappen betalen aan de Minister van Binnenlandse Zaken en K
 
 - b. het na de vermindering ingevolge onderdeel a overblijvende bedrag wordt over de individuele gemeenten verdeeld, waarbij de hoogte van de vergoeding voor elke individuele gemeente door de Minister van Binnenlandse Zaken en Koninkrijksrelaties als volgt wordt vastgesteld:
 
-- 1°. een basisbedrag van € 10 523 voor elke gemeente, dat ingevolge het derde lid nog kan worden verlaagd of verhoogd;
+- 1°. een basisbedrag van € 10 733 voor elke gemeente, dat ingevolge het derde lid nog kan worden verlaagd of verhoogd;
 
 - 2°. een variabele vergoeding per object die als volgt wordt berekend: waarbij T voorstelt: de gezamenlijke vergoeding van het Rijk en de waterschappen voor de kosten van waardering, verminderd met de vergoeding voor de Vereniging van Nederlandse Gemeenten; Gt voorstelt: het totaal aantal gemeenten bij het begin van het kalenderjaar; Wt voorstelt: het totaal aantal woningen in alle gemeenten tezamen; Nt voorstelt: het totaal aantal niet-woningen in alle gemeenten tezamen; At voorstelt: het totaal aantal adressen in het buitengebied van alle gemeenten tezamen; Wg voorstelt: het totaal aantal woningen in de individuele gemeente; Ng voorstelt: het totaal aantal niet-woningen in de individuele gemeente; Ag voorstelt: het totaal aantal adressen in het buitengebied in de individuele gemeente. Als peildatum voor het totaal aantal woningen, niet-woningen en adressen wordt genomen 1 januari van het voorafgaande kalenderjaar.
 
 |   | (Wg + 2 x Ng + Ag) |
 | --- | --- |
-| (T - Gt x € 10 523) | x ----------------------------------- |
+| (T - Gt x € 10 733) | x ----------------------------------- |
 |   | (Wt + 2 x Nt + At) |
 
 2. Nadat de gezamenlijke vergoeding van het Rijk en de waterschappen op de voet van het eerste lid is verdeeld, vindt er een berekening plaats om te bepalen in welke mate het in het eerste lid, onderdeel b, onder 1°, bedoelde basisbedrag moet worden verhoogd of verlaagd. Voor deze berekening wordt een gemiddelde vergoeding per object berekend volgens de formules:
@@ -113,7 +113,7 @@ A voorstelt: het volgens het eerste lid, onderdeel b, onder 1° en 2°, berekend
 
 ##### Artikel 6. Betaling
 
-1. De Minister van Binnenlandse Zaken en Koninkrijksrelaties verricht uiterlijk op 1 mei van het kalenderjaar de uitbetaling aan elke individuele gemeente van de op de voet van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0015059&hoofdstuk=3&artikel=5&z=2006-01-01&g=2006-01-01) berekende vergoeding voor die gemeente.
+1. De Minister van Binnenlandse Zaken en Koninkrijksrelaties verricht uiterlijk op 1 mei van het kalenderjaar de uitbetaling aan elke individuele gemeente van de op de voet van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0015059&hoofdstuk=3&artikel=5&z=2007-01-01&g=2007-01-01) berekende vergoeding voor die gemeente.
 
 2. Indien een afnemer binnen een termijn van acht weken na de aanvang van het kalenderjaar niet of niet volledig beschikt over een gegevensbestand met verwerkbare gegevens van een gemeente naar de stand van 1 januari van dat kalenderjaar, vindt in afwijking van het eerste lid voor of op 1 mei van dat jaar geen volledige betaling plaats aan die gemeente indien deze afnemer de Minister van Binnenlandse Zaken en Koninkrijksrelaties binnen vier weken direct volgend op genoemde termijn van acht weken schriftelijk verzoekt, met afschrift van dit verzoek aan de Waarderingskamer en de gemeente, om de uitbetaling aan die gemeente gefaseerd te laten plaatsvinden. Bij dit verzoek geeft de desbetreffende afnemer aan hoe hoog het percentage van verwerkbare gegevens is van het gegevensbestand waarover hij beschikt.
 
