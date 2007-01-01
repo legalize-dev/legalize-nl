@@ -4,7 +4,7 @@ identifier: "BWBR0020537"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-11-25"
-last_updated: "2001-06-02"
+last_updated: "2007-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020537"
 soort: "ministeriele-regeling"
@@ -38,7 +38,7 @@ entry_into_force: "2025-11-25"
 
 ### Hoofdstuk 1. Inleidende bepalingen
 
-### Hoofdstuk 2. Effectief kredietvergoedingspercentage
+### Hoofdstuk 1. Inleidende bepalingen
 
 #### § 2.1. Algemene bepalingen
 
@@ -46,11 +46,33 @@ entry_into_force: "2025-11-25"
 
 ##### Artikel 4
 
-Dit onderdeel is nog niet inwerking getreden
+1. Voor overeenkomsten inzake consumptief krediet waarbij de betalingstermijn en het termijnbedrag gedurende de looptijd gelijk blijven, wordt het effectief kredietvergoedingspercentage berekend als volgt:
+
+waarbij de waarde van **im** wordt berekend met de volgende formule:
+
+In deze formules is:
+
+p: het effectief kredietvergoedingspercentage op jaarbasis;
+
+im: het honderdste deel van het kredietvergoedingspercentage per betalingstermijn;
+
+m: het aantal betalingstermijnen per jaar;
+
+K: de kredietsom;
+
+T: het termijnbedrag; en
+
+n: de looptijd, uitgedrukt in het aantal betalingstermijnen.
+
+2. Voor overeenkomsten inzake consumptief krediet, niet zijnde doorlopend krediet, wordt bij de berekening van het effectief kredietvergoedingspercentage het eerste lid toegepast. Bij die berekening wordt ervan uitgegaan dat de eerste betalingstermijn, of het eerste of het laatste termijnbedrag, gelijk zijn aan de overige betalingstermijnen, onderscheidenlijk termijnbedragen, indien:
+
+- a. de eerste betalingstermijn afwijkt van de overige betalingstermijnen, voor zover deze afwijking tot gevolg heeft dat het eerste of het laatste termijnbedrag afwijkt van de overige termijnbedragen, terwijl de overige betalingstermijnen en termijnbedragen gedurende de looptijd gelijk blijven; of
+
+- b. slechts het eerste of het laatste termijnbedrag afwijkt van de overige termijnbedragen, indien deze afwijking een gevolg is van afrondingen.
 
 ##### Artikel 5
 
-Voor overeenkomsten inzake consumptief krediet waarbij gedurende de looptijd de betalingstermijn wel, doch het termijnbedrag niet gelijk blijft, en waarop [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=2&paragraaf=2.2&artikel=4&z=2011-10-01&g=2001-06-02), niet van toepassing is, wordt het effectief kredietvergoedingspercentage berekend als volgt:
+Voor overeenkomsten inzake consumptief krediet waarbij gedurende de looptijd de betalingstermijn wel, doch het termijnbedrag niet gelijk blijft, en waarop [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=2&paragraaf=2.2&artikel=4&z=2007-01-01&g=2007-01-01), niet van toepassing is, wordt het effectief kredietvergoedingspercentage berekend als volgt:
 
 waarbij de waarde van **im** wordt berekend met de volgende formule:
 
@@ -72,11 +94,55 @@ Tt: het termijnbedrag met volgnummer t.
 
 ##### Artikel 6
 
-Dit onderdeel is nog niet inwerking getreden
+Voor overeenkomsten inzake consumptief krediet waarbij de betalingstermijn gedurende de looptijd niet gelijk blijft en waarop [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=2&paragraaf=2.2&artikel=4&z=2007-01-01&g=2007-01-01), niet van toepassing is, wordt het effectief kredietvergoedingspercentage berekend als volgt:
+
+waarbij de waarde van **i** wordt berekend met de volgende formule:
+
+In deze formules is:
+
+p: het effectief kredietvergoedingspercentage;
+
+i: het honderdste deel van het effectief kredietvergoedingspercentage;
+
+K: de kredietsom;
+
+k: het volgnummer van een termijnbedrag;
+
+n: het totale aantal termijnbedragen;
+
+Tk: het termijnbedrag met volgnummer k; en
+
+tk: het tijdvak dat ligt tussen het tijdstip waarop de kredietsom ter beschikking wordt gesteld en het tijdstip waarop het termijnbedrag met volgnummer k moet worden voldaan, uitgedrukt in jaren.
 
 ##### Artikel 7
 
-Dit onderdeel is nog niet inwerking getreden
+In afwijking van de [artikelen 4 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=2&paragraaf=2.2&artikel=4&z=2007-01-01&g=2007-01-01) wordt bij overeenkomsten inzake consumptief krediet waarbij de kredietsom in bij het aangaan van de overeenkomst vastgestelde tranches ter beschikking wordt gesteld op bij het aangaan van de overeenkomst overeengekomen tijdstippen het effectief kredietvergoedingspercentage berekend als volgt:
+
+waarbij de waarde van **i** wordt berekend met de volgende formule:
+
+In deze formules is:
+
+p: het effectief kredietvergoedingspercentage;
+
+i: het honderdste deel van het effectief kredietvergoedingspercentage;
+
+S1: het bedrag van de eerste tranche van de kredietsom;
+
+u: het volgnummer van een tranche;
+
+v: het totale aantal tranches;
+
+Su: het bedrag van de tranche met volgnummer u;
+
+Xu: het tijdvak dat ligt tussen het tijdstip waarop de overeenkomst inzake krediet is aangegaan en het tijdstip waarop de tranche met volgnummer u ter beschikking wordt gesteld, uitgedrukt in jaren;
+
+k: het volgnummer van een termijnbedrag;
+
+n: het totale aantal termijnbedragen;
+
+Tk: het termijnbedrag met volgnummer k; en
+
+tk: het tijdvak dat ligt tussen het tijdstip waarop de kredietsom ter beschikking wordt gesteld en het tijdstip waarop het termijnbedrag met volgnummer k moet worden voldaan, uitgedrukt in jaren.
 
 #### § 2.3. Berekening effectief kredietvergoedingspercentage voor hypothecair krediet
 
@@ -90,15 +156,15 @@ Dit onderdeel is nog niet inwerking getreden
 
 ### Hoofdstuk 7. Model volmacht en ondervolmacht
 
-### Hoofdstuk 8. Houder van een gereglementeerde markt
+### Hoofdstuk 3. Inrichting begroting toezichthouder
 
 ### Hoofdstuk 9. Uitbreiding termijn vergunningverlening
 
-### Hoofdstuk 10. Wijziging [Tijdelijke vrijstellingsregeling openbare biedingen](https://wetten.overheid.nl/jci1.3:c:BWBR0019870)
+### Hoofdstuk 4. Lichte ontheffingen
 
 ### Hoofdstuk 11. Wijziging [Regeling aanwijzing bevoegde autoriteiten Wet toezicht effectenverkeer 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007778)
 
-### Hoofdstuk 12. Slotbepalingen
+### Hoofdstuk 5. Vertrouwenscommissie opvangregeling leven
 
 ## Bijlage A. behorend bij [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=7&artikel=16&z=2011-10-01&g=2001-06-02)
 
@@ -391,378 +457,6 @@ Deze ondervolmacht houdt, behoudens via een ondervolmacht opgemaakt overeenkomst
 Deze ondervolmacht kan zowel door de verzekeraar als door de gevolmachtigde te allen tijde worden ingetrokken.
 
 Het ophouden van kracht te zijn van de volmacht van de gevolmachtigde tast de kracht van de ondervolmacht niet aan.
-
-### **Paragraaf IV**
-
-### **Toepasselijk recht**
-
-Op deze ondervolmacht is Nederlands recht van toepassing.
-
-…..3Handtekening van de machtigende verzekeraar en van de ondervolmacht verlenende gevolmachtigde agent, met vermelding van datum van ondertekening.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 20a
-
-1. Een bank die een aanvraag doet, toont aan de Nederlandsche Bank aan dat de uit te geven obligaties zijn aan te merken als gedekte obligaties door middel van het overleggen van:
-
-- a. een juridische opinie van een juridisch adviseur waaruit de Nederlandsche Bank kan concluderen dat ten aanzien van de obligaties wordt voldaan aan onderdeel c van de definitie van gedekte obligatie in het [Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420);
-
-- b. de schriftelijke bescheiden met betrekking tot de uitgifte van de obligaties waarop de juridische opinie, bedoeld in onderdeel a, is gebaseerd;
-
-- c. overige relevante bescheiden met betrekking tot de uitgifte; en
-
-- d. een schriftelijke verklaring van de natuurlijke personen die het beleid van de bank bepalen, inhoudende dat de obligaties voldoen aan de definitie van gedekte obligaties in [artikel 1 van het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=1) en dat de uitgevende bank voldoet aan het bepaalde in [artikel 124c van het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=124c).
-
-2. Uit de in het eerste lid bedoelde gegevens en bescheiden blijkt dat:
-
-- a. de obligaties op het tijdstip van de aanvraag een kredietbeoordeling hebben van een ingevolge [artikel 88 van het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=88) erkend kredietbeoordelingsbureau, welke kredietbeoordeling is ondergebracht in de kredietbeoordelingscategorie 1 van de kwaliteitsbeoordelingsschaal in paragraaf 6.4 van bijlage VI van de herziene richtlijn banken, onder de toepassing van het bepaalde in Deel 3, paragraaf 2, punten 8 en 9 van die bijlage, en dat de kredietbeoordeling en de door het kredietbeoordelingsbureau aan de kredietbeoordeling verbonden voorwaarden met betrekking tot de activa en de uitgevende bank naar het oordeel van de Nederlandsche Bank adequaat zijn;
-
-- b. de totale nominale waarde van de uitgegeven of de nog uit te geven gedekte obligaties in een gezonde verhouding staat tot de voor dekking van deze obligaties in aanmerking komende activa. De Nederlandsche Bank stelt na overleg met de uitgevende bank vast of de verhouding tussen de totale nominale waarde van deze obligaties ten opzichte van het geconsolideerde balanstotaal van de uitgevende bank als gezonde verhouding kan worden beschouwd;
-
-- c. de uitgevende bank heeft voorzien in solide, doeltreffende strategieën en procedures aan de hand waarvan zij gedurende de looptijd van de obligaties voortdurend nagaat of, en er zorg voor draagt dat, er voldoende activa zijn overgegaan naar de rechtspersoon, bedoeld in onderdeel c, onder 1°, van de definitie van gedekte obligaties in [artikel 1 van het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=1), rekening houdend met de aard en samenstelling van de activa, de overwaarden, in aanmerking te nemen risico’s en stresstesten.
-
-##### Artikel 20b
-
-1. Een uitgevende bank gaat slechts over tot verdere uitgifte in het kader van een aanbiedingsprogramma van gedekte obligaties die zijn geregistreerd overeenkomstig [artikel 124b van het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=124b) als zij heeft geconstateerd dat wordt voldaan aan de voor registratie gestelde voorschriften.
-
-2. Indien de totale nominale waarde van de gedekte obligaties uitstijgt boven de verhouding, bedoeld in [artikel 20a, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=9a&artikel=20a&z=2008-07-01&g=2008-07-01), ten opzichte van het geconsolideerde balanstotaal van de uitgevende bank, toont de uitgevende bank voordat verdere uitgifte plaatsvindt aan de Nederlandsche Bank aan dat sprake blijft van een gezonde verhouding als bedoeld in dat onderdeel.
-
-##### Artikel 20c
-
-1. Een bank die gedekte obligaties heeft uitgegeven die overeenkomstig [artikel 124b, eerste lid, van het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=124b) zijn geregistreerd:
-
-- a. toont ten minste een maal per kwartaal aan de Nederlandsche Bank aan dat de gedekte obligaties voldoen aan de voor registratie gestelde voorwaarden, door aan de Nederlandsche Bank rapportages over de activa te verstrekken en toe te lichten, en
-
-- b. toont ten minste jaarlijks aan de Nederlandsche Bank aan dat de bank voldoet aan het bepaalde in [artikel 20a, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=9a&artikel=20a&z=2008-07-01&g=2008-07-01).
-
-2. De uitgevende bank verstrekt aan de Nederlandsche Bank binnen zes maanden na afloop van het boekjaar de jaarrekening en het jaarverslag van de rechtspersoon waarnaar de activa overeenkomstig het [Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420) zijn overgegaan. De documenten zijn opgemaakt in overeenstemming met Titel 2 van Boek 9 van het Burgerlijk Wetboek, de internationale jaarrekeningstandaarden, dan wel volgens het recht van de staat waar de rechtspersoon haar zetel heeft. Indien de rechtspersoon haar zetel in Nederland heeft, vermeldt zij daarbij of de jaarrekening al dan niet is vastgesteld en goedgekeurd in overeenstemming met haar statuten of oprichtingsakte.
-
-3. De uitgevende bank doet onverwijld mededeling aan de Nederlandsche Bank indien gedurende de looptijd van de gedekte obligaties:
-
-- a. wijzigingen optreden ten opzichte van de gegevens en bescheiden waarop de juridische opinie bedoeld in [artikel 20a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=9a&artikel=20a&z=2008-07-01&g=2008-07-01), was gebaseerd of ten opzichte van de schriftelijke bescheiden, bedoeld in [artikel 20a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=9a&artikel=20a&z=2008-07-01&g=2008-07-01), die tot gevolg hebben dat de uitstaande gedekte obligaties niet meer voldoen of zullen voldoen aan de voor registratie gestelde voorschriften, of
-
-- b. significante wijzigingen worden aangebracht in een aanbiedingsprogramma of in de voorwaarden met betrekking tot de gedekte obligaties.
-
-### Hoofdstuk 11. Wijziging [Regeling aanwijzing bevoegde autoriteiten Wet toezicht effectenverkeer 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007778)
-
-### Hoofdstuk 12. Slotbepalingen
-
-## Bijlage A. behorend bij [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=7&artikel=16&z=2008-07-01&g=2008-07-01)
-
-Waar in deze volmacht wordt gesproken van verzekeringen, verzekerden of verzekeraar wordt daaronder ook verstaan herverzekeringen, herverzekerden of herverzekeraar.
-
-### **Ondervolmacht**
-
-### **Paragraaf III**
-
-## Bijlage B. behorend bij [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=7&artikel=17&z=2008-07-01&g=2008-07-01)
-
-### **Ondervolmacht**
-
-als bedoeld in [artikel 4:79, eerste lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:79).
-
-De gevolmachtigde …1Achter ‘De gevolmachtigde’ wordt de naam en, indien van toepassing, de handelsnaam van de gevolmachtigde agent ingevuld die hierbij door de verzekeraar wordt gemachtigd om ondervolmacht te verlenen.
-
-### **Paragraaf I**
-
-Om in Nederland, in naam van de bovenvermelde verzekeraar – binnen de perken van diens statuten – verzekeringen te accepteren van risico s, zowel binnen als buiten Nederland, en in het algemeen al datgene te verrichten wat de uitoefening van het verzekeringsbedrijf in Nederland als vertegenwoordiger van een in Nederland of in het buitenland gevestigde verzekeraar meebrengt en met betrekking daartoe alle rechten van de bovenvermelde verzekeraar uit te oefenen en alle verplichtingen na te komen, omvat deze ondervolmacht onder meer:
-
-Waar in deze ondervolmacht wordt gesproken van verzekeringen, verzekerden of verzekeraar worden daaronder ook verstaan herverzekeringen, herverzekerden of herverzekeraar.
-
-### **Verlenen van ondervolmacht door de ondergevolmachtigde**
-
-### **Paragraaf IV**
-
-### **Toepasselijk recht**
-
-Op deze ondervolmacht is Nederlands recht van toepassing.
-
-…..3Handtekening van de machtigende verzekeraar en van de ondervolmacht verlenende gevolmachtigde agent, met vermelding van datum van ondertekening.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 10a
-
-Het minimumbedrag aan solvabiliteitsmarge van verzekeraars als bedoeld in [artikel 68, eerste lid, van het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=68), wordt bepaald op drie achtste van het overeenkomstig [artikel 64c](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=64c) of [artikel 67 van genoemd besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=67) berekende bedrag, voor het gedeelte dat betrekking heeft op herverzekering van ziektekostenverzekeringen onderscheidenlijk op ziektekostenverzekeringen.
-
-### Hoofdstuk 5. Vertrouwenscommissie opvangregeling leven
-
-### Hoofdstuk 7. Model volmacht en ondervolmacht
-
-### Hoofdstuk 12. Slotbepalingen
-
-## Bijlage A. behorend bij [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=7&artikel=16&z=2010-01-01&g=2010-01-01)
-
-### **Volmacht**
-
-als bedoeld in [artikel 4:79, eerste lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:79).
-
-De ondergetekende1Achter ‘De ondergetekende’ wordt de naam en, indien van toepassing, de handelsnaam van de verzekeraar ingevuld. … verklaart hierbij volmacht te verlenen aan ….
-
-### **Paragraaf I**
-
-Om in Nederland, in naam van de ondergetekende – binnen de perken van haar/zijn statuten – verzekeringen te accepteren van risico’s, zowel binnen als buiten Nederland, en in het algemeen al datgene te verrichten wat de uitoefening van het verzekeringsbedrijf in Nederland als vertegenwoordiger van een in Nederland of in het buitenland gevestigde verzekeraar meebrengt en in dat verband alle rechten van de ondergetekende uit te oefenen en alle verplichtingen na te komen, omvat deze volmacht onder meer:
-
-### **Paragraaf II**
-
-Deze volmacht houdt, behoudens via een ondervolmacht opgemaakt overeenkomstig [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&bijlage=B&z=2010-01-01&g=2010-01-01) bij de Uitvoeringsregeling Wft, niet in de bevoegdheid van de gevolmachtigde om aan derden ondervolmacht te verlenen.
-
-### **Paragraaf III**
-
-### **Toepasselijk recht**
-
-## Bijlage B. behorend bij [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=7&artikel=17&z=2010-01-01&g=2010-01-01)
-
-verklaart hierbij ondervolmacht te verlenen aan ….
-
-### **Bevoegdheden**
-
-waarbij alle desbetreffende handelingen en verbintenissen van de genoemde ondergevolmachtigde voor de bovenvermelde verzekeraar zullen gelden, geheel als waren zij door haar verricht of aangegaan.
-
-### **Paragraaf II**
-
-Deze ondervolmacht houdt, behoudens via een ondervolmacht opgemaakt overeenkomstig bijlage B bij de Uitvoeringsregeling Wft, niet in de bevoegdheid van de ondergevolmachtigde om aan derden ondervolmacht te verlenen.
-
-### **Paragraaf III**
-
-### **Einde ondervolmacht**
-
-Deze ondervolmacht kan zowel door de verzekeraar als door de gevolmachtigde te allen tijde worden ingetrokken.
-
-Het ophouden van kracht te zijn van de volmacht van de gevolmachtigde tast de kracht van de ondervolmacht niet aan.
-
-### **Paragraaf IV**
-
-### **Toepasselijk recht**
-
-Op deze ondervolmacht is Nederlands recht van toepassing.
-
-…..3Handtekening van de machtigende verzekeraar en van de ondervolmacht verlenende gevolmachtigde agent, met vermelding van datum van ondertekening.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-### Hoofdstuk 6. Dekking beroepsaansprakelijkheidsverzekering en vergelijkbare voorziening
-
-### Hoofdstuk 7. Model volmacht en ondervolmacht
-
-### Hoofdstuk 8. Houder van een gereglementeerde markt
-
-### Hoofdstuk 9. Uitbreiding termijn vergunningverlening
-
-### Hoofdstuk 9a. Bepalingen ter uitvoering van [artikel 124b, eerste lid, van het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=124b)
-
-### Hoofdstuk 10. Wijziging [Tijdelijke vrijstellingsregeling openbare biedingen](https://wetten.overheid.nl/jci1.3:c:BWBR0019870)
-
-### Hoofdstuk 11. Wijziging [Regeling aanwijzing bevoegde autoriteiten Wet toezicht effectenverkeer 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007778)
-
-### Hoofdstuk 12. Slotbepalingen
-
-## Bijlage A. behorend bij [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=7&artikel=16&z=2011-10-01&g=2011-10-01)
-
-als bedoeld in [artikel 4:79, eerste lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:79).
-
-## Bijlage B. behorend bij [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=7&artikel=17&z=2011-10-01&g=2011-10-01)
-
-### **Ondervolmacht**
-
-### **Paragraaf I**
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-### Hoofdstuk 2a. Door de toezichthouder te publiceren informatie
-
-##### Artikel 20d
-
-1. Bij de toepassing van [artikel 40f, eerste en tweede lid, van het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=40f), is de waarde van de dekkingsactiva die behoren tot de soorten die een bank die geregistreerde gedekte obligaties uitgeeft, heeft opgegeven als primair gehanteerde dekkingsactiva, overeenkomstig [artikel 40e, eerste lid, onderdeel b, van het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=40e), het nominale bedrag.
-
-2. Op de waarde van de dekkingsactiva, [bedoeld in artikel 40f van het Besluit prudentiële regels Wft, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=40f), worden in mindering gebracht:
-
-- a. de dekkingsactiva ten aanzien waarvan zich wanbetaling met betrekking tot een specifieke debiteur wordt geacht te hebben voorgedaan als bedoeld in artikel 178 van de verordening kapitaalvereisten;
-
-- b. dekkingsactiva bestaande uit een vordering ten aanzien waarvan een ander tegenover de rechtspersoon die rechthebbende is van de dekkingsactiva gerechtigd is tot een deel van de inkomsten uit die vordering, naar rato van de gerechtigheid van die ander in die vordering; en
-
-- c. blootstellingen als bedoeld in artikel 129, eerste lid, onderdeel c en derde alinea, van de verordening kapitaalvereisten, voor zover het blootstellingen betreft met betrekking tot de bank die geregistreerde gedekte obligaties uitgeeft, of met betrekking tot rechtspersonen die tot dezelfde groep behoren.
-
-3. Bij de toepassing van de [artikelen 40f, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=40f), en [40g, eerste lid, van het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=40g), is de waarde van de in die artikelen bedoelde dekkingsactiva respectievelijk liquide activa de marktwaarde volgens een internationaal geaccepteerde boekhoudstandaard. In afwijking van de vorige volzin, is de waarde van dekkingsactiva respectievelijk liquide activa die bestaan uit giraal geld de nominale waarde.
-
-4. Op de dekkingsactiva, bedoeld in [artikel 40f, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=40f), zijn de artikelen 208 en 229, eerste lid, van de verordening kapitaalvereisten van toepassing, voor zover het dekkingsactiva betreft als bedoeld in artikel 129, eerste lid, onderdelen d, onder i, e, en f, van de verordening kapitaalvereisten.
-
-5. Het onderpand van dekkingsactiva die bestaan uit leningen of woonkredieten als bedoeld in artikel 129, eerste lid, onderdelen d, onder i, e, en f, van de verordening kapitaalvereisten, wordt ten minste jaarlijks geherwaardeerd. De Nederlandsche Bank kan vereisen dat de herwaardering bedoeld in de vorige volzin vaker plaatsvindt.
-
-##### Artikel 20e
-
-1. Als liquide activa als bedoeld in [artikel 40g van het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=40g) worden aangemerkt:
-
-- a. blootstellingen als bedoeld in artikel 129, eerste lid, onderdeel a, van de verordening kapitaalvereisten;
-
-- b. blootstellingen als bedoeld in artikel 129, eerste lid, onderdeel b, van de verordening kapitaalvereisten;
-
-- c. blootstellingen als bedoeld in artikel 129, eerste lid, onderdeel c, van de verordening kapitaalvereisten; en
-
-- d. blootstellingen ten aanzien waarvan de Nederlandsche Bank ontheffing heeft verleend, bedoeld in de derde alinea van artikel 129, eerste lid, van de verordening kapitaalvereisten.
-
-2. In aanvulling op [artikel 40g, eerste lid, onderdelen a en b, van het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=40g), draagt een bank die geregistreerde gedekte obligaties uitgeeft, er zorg voor dat de rechtspersoon die rechthebbende is van de dekkingsactiva, voldoende liquide activa aanhoudt of door middel van dekkingsactiva genereert, om te kunnen voldoen aan betalingsverplichtingen voor de volgende zes maanden jegens derden die, indien die bank in de toestand komt te verkeren dat zij het beheer van de dekkingsactiva niet langer zelf kan voeren, ten opzichte van de verplichting tot het voldoen van hoofdsom en rente aan de houders van de geregistreerde gedekte obligaties, gelijke of hoger gerangschikte vorderingen hebben jegens de rechtspersoon die rechthebbende is van de dekkingsactiva.
-
-##### Artikel 20f
-
-1. Een bank die een geregistreerde gedekte obligatie uitgeeft, draagt er zorg voor dat voorafgaand aan de eerste uitgifte onder een categorie geregistreerde gedekte obligaties een overeenkomst wordt aangegaan met een externe accountant voor controle van de dekkingsactiva.
-
-2. De externe accountant voor controle van de dekkingsactiva, bedoeld in het eerste lid, heeft ten minste de volgende contractuele verplichtingen:
-
-- a. ten minste jaarlijks controleren of de bank, bedoeld in het eerste lid, op correcte wijze heeft berekend dat zij voldoet aan [artikel 40f, eerste en tweede lid, van het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=40f); en
-
-- b. ten minste jaarlijks controleren of de bank, bedoeld in het eerste lid, op correcte wijze heeft berekend dat zij voldoet aan [artikel 40g, eerste lid, van het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=40g).
-
-3. De overeenkomst met de accountant voor de controles, bedoeld in het tweede lid, bevat waarborgen dat deze controles gehandhaafd blijven nadat de bank, bedoeld in het eerste lid, in de toestand komt te verkeren dat zij het beheer van de dekkingsactiva niet langer zelf kan voeren.
-
-4. Een bank die een geregistreerde gedekte obligatie uitgeeft, draagt er zorg voor dat, zolang die bank niet in de toestand komt te verkeren dat zij het beheer van de dekkingsactiva niet langer zelf kan voeren, een externe accountant ten minste jaarlijks steekproefsgewijs de dossiers die betrekking hebben op de dekkingsactiva controleert.
-
-##### Artikel 20g
-
-1. Een bank die een geregistreerde gedekte obligatie uitgeeft, voert regelmatig stresstesten uit om vast te stellen of in situaties van financiële stress sprake blijft van een gezonde verhouding tussen de totale uitstaande geregistreerde gedekte obligaties van die bank en de totale geconsolideerde balans van die bank, bedoeld in [artikel 40i, eerste en tweede lid, van het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=40i).
-
-2. De in het eerste lid genoemde stresstesten hebben minimaal betrekking op:
-
-- a. het kredietrisico;
-
-- b. het renterisico;
-
-- c. het valutarisico;
-
-- d. het liquiditeitsrisico; en
-
-- e. andere risico’s die de Nederlandsche Bank relevant acht.
-
-3. Bij het uitvoeren van de in het eerste lid genoemde stresstesten wordt rekening gehouden met relevante risico-mitigerende factoren, zoals derivatencontracten en andere contracten ten behoeve van risicomitigatie.
-
-##### Artikel 20h
-
-1. Een bank die een geregistreerde gedekte obligatie uitgeeft:
-
-- a. toont ten minste één maal per kwartaal aan de Nederlandsche Bank aan dat de geregistreerde gedekte obligatie voldoet aan de [artikelen 40e, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=40e), [40f](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=40f) en [40g van het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=40g), door aan de Nederlandsche Bank rapportages te verstrekken over de dekkingsactiva en de daar tegenoverstaande verplichtingen en deze toe te lichten;
-
-- b. toont ten minste jaarlijks aan de Nederlandsche Bank aan dat de bank voldoet aan [artikel 40h](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=40h); en
-
-- c. verstrekt ten minste jaarlijks aan de Nederlandsche Bank de informatie die de Nederlandsche Bank nodig heeft om haar bevoegdheid ingevolge [artikel 40i](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=40i) uit te oefenen.
-
-2. Een bank die een geregistreerde gedekte obligatie uitgeeft, verstrekt aan de Nederlandsche Bank binnen zes maanden na afloop van het boekjaar de jaarrekening en het jaarverslag van de rechtspersoon die rechthebbende is van de dekkingsactiva. De bank vermeldt daarbij of de jaarrekening al dan niet is vastgesteld en goedgekeurd in overeenstemming met de statuten of oprichtingsakte van die rechtspersoon.
-
-3. Een bank die een geregistreerde gedekte obligatie uitgeeft, en die gedurende de looptijd van de geregistreerde gedekte obligatie voornemens is significante wijzigingen aan te brengen in de voorwaarden die van toepassing zijn op die geregistreerde gedekte obligatie, doet daarvan voorafgaand aan het doorvoeren daarvan mededeling aan de Nederlandsche Bank.
-
-4. Een bank die een geregistreerde gedekte obligatie uitgeeft, verstrekt aan de Nederlandsche Bank alle relevante gegevens en bescheiden met betrekking tot de geregistreerde gedekte obligatie die de Nederlandsche Bank nodig acht in het belang van het uitoefenen van toezicht daarop, zo vaak als de Nederlandsche Bank dit nodig acht.
-
-##### Artikel 20i
-
-1. Een bank die een geregistreerde gedekte obligatie uitgeeft, verschaft per categorie minimaal elk kwartaal ten minste de volgende gegevens aan de houders van die geregistreerde gedekte obligaties:
-
-- a. informatie over de krediet-, markt-, valuta-, rente- en liquiditeitsrisico’s verbonden aan de dekkingsactiva en de geregistreerde gedekte obligaties;
-
-- b. de totale nominale waarde van de uitstaande geregistreerde gedekte obligaties;
-
-- c. de totale waarde en samenstelling van de dekkingsactiva en de geografische verdeling van de dekkingsactiva;
-
-- d. de verhouding tussen de totale waarde van de dekkingsactiva volgens [artikel 40f, eerste lid, van het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=40f) en de totale nominale waarde van de uitstaande geregistreerde gedekte obligaties;
-
-- e. de verhouding tussen waarde die dekkingsactiva dienen te hebben op grond van de toepasselijke voorwaarden en de totale nominale waarde van de uitstaande geregistreerde gedekte obligaties;
-
-- f. de totale waarde en de samenstelling van de liquide activa en de verhouding daarvan tot de betalingsverplichtingen als bedoeld in [artikel 40g eerste lid, onderdelen a tot en met c, van het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=40g);
-
-- g. de looptijdstructuur van de dekkingsactiva en de uitstaande geregistreerde gedekte obligaties;
-
-- h. het percentage dekkingsactiva met meer dan negentig achterstallige dagen; en
-
-- i. informatie over de wederpartijen van de rechtspersoon die rechthebbende is van de dekkingsactiva.
-
-2. De in het eerste lid genoemde informatie is voldoende gedetailleerd om de houders van de geregistreerde gedekte obligaties in staat te stellen om een adequate risicoanalyse uit te voeren.
-
-### Hoofdstuk 11. Wijziging [Regeling aanwijzing bevoegde autoriteiten Wet toezicht effectenverkeer 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007778)
-
-### Hoofdstuk 12. Slotbepalingen
-
-## Bijlage A. behorend bij [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=7&artikel=16&z=2015-01-01&g=2015-01-01)
-
-## Bijlage B. behorend bij [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=7&artikel=17&z=2015-01-01&g=2015-01-01)
-
-Om in Nederland, in naam van de bovenvermelde verzekeraar – binnen de perken van diens statuten – verzekeringen te accepteren van risico s, zowel binnen als buiten Nederland, en in het algemeen al datgene te verrichten wat de uitoefening van het verzekeringsbedrijf in Nederland als vertegenwoordiger van een in Nederland of in het buitenland gevestigde verzekeraar meebrengt en met betrekking daartoe alle rechten van de bovenvermelde verzekeraar uit te oefenen en alle verplichtingen na te komen, omvat deze ondervolmacht onder meer:
-
-### **Paragraaf IV**
-
-### **Toepasselijk recht**
-
-Op deze ondervolmacht is Nederlands recht van toepassing.
-
-…..3Handtekening van de machtigende verzekeraar en van de ondervolmacht verlenende gevolmachtigde agent, met vermelding van datum van ondertekening.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 20j
-
-Een kredietunie met zetel in Nederland heeft een maximaal bedrag aan aangetrokken opvorderbare gelden van € 100.000.000 en een maximaal aantal leden van 25.000.
-
-### Hoofdstuk 12. Slotbepalingen
-
-## Bijlage A. behorend bij [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=7&artikel=16&z=2016-01-01&g=2016-01-01)
-
-De ondergetekende1Achter ‘De ondergetekende’ wordt de naam en, indien van toepassing, de handelsnaam van de verzekeraar ingevuld. … verklaart hierbij volmacht te verlenen aan ….
-
-### **Paragraaf III**
-
-## Bijlage B. behorend bij [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=7&artikel=17&z=2016-01-01&g=2016-01-01)
-
-### **Paragraaf III**
-
-### **Einde ondervolmacht**
-
-Deze ondervolmacht kan zowel door de verzekeraar als door de gevolmachtigde te allen tijde worden ingetrokken.
-
-Het ophouden van kracht te zijn van de volmacht van de gevolmachtigde tast de kracht van de ondervolmacht niet aan.
-
-### **Paragraaf IV**
-
-### **Toepasselijk recht**
-
-Op deze ondervolmacht is Nederlands recht van toepassing.
-
-…..3Handtekening van de machtigende verzekeraar en van de ondervolmacht verlenende gevolmachtigde agent, met vermelding van datum van ondertekening.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 14a
-
-De dekking van de beroepsaansprakelijkheidsverzekering of de daarmee vergelijkbare voorziening, bedoeld in [artikel 4:74b, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:74b), bedraagt ten minste € 460.000 per schadegeval en ten minste € 750.000 per jaar voor alle schadegevallen gezamenlijk.
-
-### Hoofdstuk 7. Model volmacht en ondervolmacht
-
-### Hoofdstuk 9a. Geregistreerde gedekte obligaties
-
-### Hoofdstuk 9b. Kredietunies
-
-### Hoofdstuk 10. Wijziging [Tijdelijke vrijstellingsregeling openbare biedingen](https://wetten.overheid.nl/jci1.3:c:BWBR0019870)
-
-### Hoofdstuk 11. Wijziging [Regeling aanwijzing bevoegde autoriteiten Wet toezicht effectenverkeer 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007778)
-
-### Hoofdstuk 12. Slotbepalingen
-
-## Bijlage A. behorend bij [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=7&artikel=16&z=2016-10-01&g=2016-10-01)
-
-## Bijlage B. behorend bij [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=7&artikel=17&z=2016-10-01&g=2016-10-01)
-
-### **Toepasselijk recht**
-
-…..3Handtekening van de machtigende verzekeraar en van de ondervolmacht verlenende gevolmachtigde agent, met vermelding van datum van ondertekening.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 1a
-
-[Artikel 115a van het Besluit Gedragstoezicht financiële ondernemingen Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=115a) is tevens van toepassing op het in Nederland aanbieden van krediet, niet zijnde hypothecair krediet, aan consumenten door een financiële onderneming vanuit een vestiging in een andere lidstaat dat kan worden aangemerkt als de verlening van diensten van de informatiemaatschappij als bedoeld in artikel 2 van [Richtlijn 2000/31/EG](32000L0031) van het Europees parlement en de Raad van 8 juni 2000 betreffende bepaalde juridische aspecten van de diensten van de informatiemaatschappij, met name de elektronische handel, in de interne markt (PbEG 2000, L 178).
-
-### Hoofdstuk 2. Hypothecair krediet
-
-### Hoofdstuk 12. Slotbepalingen
-
-## Bijlage B. behorend bij [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=7&artikel=17&z=2020-01-01&g=2020-01-01)
 
 ### **Paragraaf IV**
 
