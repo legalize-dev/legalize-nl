@@ -4,7 +4,7 @@ identifier: "BWBR0020645"
 country: "nl"
 rank: "wet"
 publication_date: "2019-01-01"
-last_updated: "2006-12-31"
+last_updated: "2007-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020645"
 soort: "wet"
@@ -46,23 +46,23 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel I
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet inkomstenbelasting 2001.
 
 ##### Artikel II
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de vennootschapsbelasting 1969.
 
 ##### Artikel III
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de dividendbelasting 1965.
 
 ##### Artikel IIIa
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Algemene wet inzake rijksbelastingen.
 
 ##### Artikel IIIb
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op belastingen van rechtsverkeer.
 
 ##### Artikel IV
 
@@ -70,58 +70,92 @@ Wijzigt het Belastingplan 2005.
 
 ##### Artikel V
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wijzigingswet Wet op de vennootschapsbelasting 1969 (invoering aftrekverbod aankoopkosten van een deelneming).
 
 ##### Artikel VI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wijzigingswet van enkele belastingwetten (herziening behandeling omzetting en kwijtschelding van afgewaardeerde vorderingen en aanpassing regeling voor afwaarderingsverliezen van deelnemingen).
 
 ##### Artikel VII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wijzigingswet van enkele belastingwetten (implementatie van Richtlijn 2003/123/EG).
 
 ##### Artikel VIII
 
-Dit onderdeel is nog niet inwerking getreden
+1. De wijzigingen ingevolge deze wet in de termijn van de voorwaartse verliesverrekening in de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) vinden toepassing met betrekking tot verliezen die worden verrekend met inkomens genoten na 31 december 2006.
+
+2. In afwijking van het eerste lid kunnen ondernemingsverliezen geleden in het kalenderjaar 2002 of eerder nog voorwaarts worden verrekend tot en met het kalenderjaar 2011.
+
+3. In afwijking van het eerste lid kunnen verliezen uit aanmerkelijk belang geleden in het kalenderjaar 2002 of eerder nog voorwaarts worden verrekend tot en met het kalenderjaar 2011.
+
+4. In afwijking van het eerste lid kan een belastingkorting voor verlies uit aanmerkelijk belang geleden in het kalenderjaar 2002 of eerder nog tot en met het kalenderjaar 2011 in mindering worden gebracht op het belastbare inkomen uit werk en woning.
+
+5. De wijzigingen ingevolge deze wet in de termijn van de voorwaartse verliesverrekening in de [Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672) vinden toepassing met betrekking tot verliezen die worden verrekend met belastbare winsten, onderscheidenlijk Nederlandse inkomens genoten in boekjaren die aanvangen na 31 december 2006.
+
+6. In afwijking van het vijfde lid kunnen verliezen geleden in het jaar 2002 of eerder nog voorwaarts worden verrekend tot en met boekjaren die aanvangen in het kalenderjaar 2011.
 
 ##### Artikel VIIIa
 
-Dit onderdeel is nog niet inwerking getreden
+[Artikel 9, eerste lid, onderdeel h, en derde lid, van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=9) en de daarop berustende bepalingen, zoals [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=9) en die bepalingen luidden op 31 december 2006, blijven tot en met 31 december 2009 van toepassing met betrekking tot vóór 24 mei 2006 aan personeel toegekende rechten om aandelen of winstbewijzen te verwerven en daarmee gelijk te stellen rechten.
 
 ##### Artikel VIIIb
 
-Dit onderdeel is nog niet inwerking getreden
+De wijziging ingevolge [artikel II, onderdeel J](https://wetten.overheid.nl/jci1.3:c:BWBR0020645&artikel=II&z=2007-01-01&g=2007-01-01), van [artikel 10d, zevende lid, van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=10d) vindt geen toepassing op schulden voortvloeiend uit een overeenkomst welke vergelijkbaar is met een overeenkomst van geldlening, die is aangegaan vóór 1 januari 2007.
 
 ##### Artikel VIIIc
 
-Dit onderdeel is nog niet inwerking getreden
+De rente, bedoeld in de [artikelen 14a, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=14a), [14b, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=14b), en [15ad, eerste lid, van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=15ad) zoals die leden luidden op 31 december 2006, welke bij het begin van het eerste boekjaar dat aanvangt op of na 1 januari 2007 nog niet op de winst in aftrek is gekomen, wordt verrekend met het belastbare bedrag van dat jaar en, voor zover nog niet verrekend, met het belastbare bedrag van een volgend jaar.
 
 ##### Artikel VIIId
 
-Dit onderdeel is nog niet inwerking getreden
+Ingeval de belastingplichtige een belang bezit dat geen deelneming is maar waarop tot en met 31 december 2006 bij hem de deelnemingsvrijstelling van [artikel 13 van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=13), zoals [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=13) toen luidde, wel van toepassing was omdat dat bezit ingevolge [artikel 13, derde lid, laatste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=13), met een deelneming werd gelijkgesteld, wordt tot 1 januari 2010 dat belang gelijkgesteld met een deelneming als waarvan sprake is in [artikel 13, tweede lid, van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=13) zoals [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=13) luidt met ingang van 1 januari 2007.
 
 ##### Artikel IX
 
-Dit onderdeel is nog niet inwerking getreden
+De vennootschapsbelasting over een boekjaar dat voor 1 januari 2007 aanvangt en op of na die datum eindigt, wordt, in afwijking in zoverre van [artikel 22 van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=22), berekend volgens de formule:
+
+belasting = (X/B x To) + (Y/B x Tn), waarin:
+
+- X voorstelt: het aantal voor 1 januari 2007 vallende dagen van het boekjaar;
+
+- Y voorstelt: het aantal na 31 december 2006 vallende dagen van het boekjaar;
+
+- B voorstelt: het totale aantal dagen van het boekjaar;
+
+- To voorstelt: de verschuldigde belasting over het belastbare bedrag of het belastbare Nederlandse bedrag op basis van het tarief van de vennootschapsbelasting zoals dat tarief luidt op 31 december 2006;
+
+- Tn voorstelt: de verschuldigde belasting over het belastbare bedrag of het belastbare Nederlandse bedrag op basis van het tarief van de vennootschapsbelasting zoals dat tarief luidt met ingang van 1 januari 2007.
 
 ##### Artikel X
 
-Dit onderdeel is nog niet inwerking getreden
+[Artikel 12b van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=12b) is slechts van toepassing op immateriële activa voor zover deze na 31 december 2006 tot de bedrijfsmiddelen van de belastingplichtige gaan behoren.
 
 ##### Artikel XI
 
-Dit onderdeel is nog niet inwerking getreden
+Onze Minister van Financiën zendt in het jaar 2010 aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten in de praktijk van [artikel 12b van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=12b).
 
 ##### Artikel XII
 
-Dit onderdeel is nog niet inwerking getreden
+Ingeval ten aanzien van een belastingplichtige voor de inwerkingtreding van deze wet een beschikking is vastgesteld krachtens [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=14), [artikel 14a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=14a), of [artikel 14b, derde lid, van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=14b), zoals die artikelen luidden op 31 december 2006, worden de in die beschikking gestelde voorwaarden voor zover die betrekking hebben op de wettelijke termijnen voor verliesverrekening geacht te zijn vervangen door de wettelijke termijnen voor verliesverrekening zoals die gelden na inwerkingtreding van deze wet.
 
 ##### Artikel XIII
 
-Dit onderdeel is nog niet inwerking getreden
+1. Deze wet treedt in werking met ingang van 1 januari 2007.
+
+2. In afwijking van het eerste lid treedt [artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBR0020645&artikel=IV&z=2007-01-01&g=2007-01-01) in werking met ingang van 31 december 2006.
+
+3. De wijzigingen met betrekking tot de vennootschapsbelasting, uitgezonderd [artikel II, onderdeel M](https://wetten.overheid.nl/jci1.3:c:BWBR0020645&artikel=II&z=2007-01-01&g=2007-01-01), voor zover dat betrekking heeft op de in te voegen [artikelen 12b](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=12b) en [12c van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=12c), vinden voor het eerst toepassing met betrekking tot boekjaren die aanvangen op of na 1 januari 2007.
+
+4. In afwijking van het eerste lid treedt [artikel II, onderdeel M](https://wetten.overheid.nl/jci1.3:c:BWBR0020645&artikel=II&z=2007-01-01&g=2007-01-01), voor zover dat betrekking heeft op het in te voegen [artikel 12b van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=12b), in werking op een bij koninklijk besluit te bepalen tijdstip waarbij dat tijdstip terugwerkende kracht kan hebben en vindt voor het eerst toepassing met betrekking tot boekjaren die aanvangen op of na dat tijdstip van inwerkingtreding.
+
+5. In afwijking van het eerste lid treedt [artikel II, onderdeel M](https://wetten.overheid.nl/jci1.3:c:BWBR0020645&artikel=II&z=2007-01-01&g=2007-01-01), voor zover dat betrekking heeft op het in te voegen [artikel 12c van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=12c), in werking op een bij koninklijk besluit te bepalen tijdstip waarbij dat tijdstip terugwerkende kracht kan hebben en vindt voor het eerst toepassing met betrekking tot boekjaren die aanvangen op of na dat tijdstip van inwerkingtreding.
+
+6. In afwijking van het eerste lid treden [artikel I, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0020645&artikel=I&z=2007-01-01&g=2007-01-01), wat betreft het [achtste lid van artikel 3.30a van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.30a), en onderdelen Da en Ea, in werking op een bij koninklijk besluit te bepalen tijdstip waarbij dat tijdstip terugwerkende kracht kan hebben.
+
+7. De wijzigingen ingevolge [artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0020645&artikel=III&z=2007-01-01&g=2007-01-01) vinden toepassing op de opbrengst van de in [artikel 1 van de Wet op de dividendbelasting 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=1) bedoelde aandelen, winstbewijzen en geldleningen, die op of na 1 januari 2007 ter beschikking is gesteld.
 
 ##### Artikel XIV
 
-Dit onderdeel is nog niet inwerking getreden
+Deze wet wordt aangehaald als: Wet werken aan winst.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
