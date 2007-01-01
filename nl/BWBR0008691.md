@@ -4,7 +4,7 @@ identifier: "BWBR0008691"
 country: "nl"
 rank: "wet"
 publication_date: "2025-09-01"
-last_updated: "2006-10-01"
+last_updated: "2007-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008691"
 soort: "wet"
@@ -52,7 +52,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - a. Onze Minister: Onze Minister van Economische Zaken;
 
-- b. mededingingsautoriteit: de Nederlandse Mededingingsautoriteit, genoemd in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=2&paragraaf=1&artikel=2&z=2006-10-01&g=2006-10-01);
+- b. mededingingsautoriteit: de Nederlandse Mededingingsautoriteit, genoemd in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=2&paragraaf=1&artikel=2&z=2007-01-01&g=2007-01-01);
 
 - c. raad: de raad van bestuur van de mededingingsautoriteit;
 
@@ -130,7 +130,7 @@ De raad is belast met taken ter uitvoering van deze wet, alsmede ter uitvoering 
 
 ##### Artikel 7
 
-1. [Artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=3&paragraaf=1&artikel=6&z=2006-10-01&g=2006-10-01), geldt niet voor overeenkomsten, besluiten en onderling afgestemde feitelijke gedragingen als bedoeld in dat artikel indien:
+1. [Artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=3&paragraaf=1&artikel=6&z=2007-01-01&g=2007-01-01), geldt niet voor overeenkomsten, besluiten en onderling afgestemde feitelijke gedragingen als bedoeld in dat artikel indien:
 
 - a. bij de desbetreffende overeenkomst of onderling afgestemde feitelijke gedraging niet meer dan acht ondernemingen betrokken zijn, dan wel bij de desbetreffende ondernemersvereniging niet meer dan acht ondernemingen betrokken zijn, en
 
@@ -142,21 +142,21 @@ De raad is belast met taken ter uitvoering van deze wet, alsmede ter uitvoering 
 
 2. In geval van afzonderlijke overeenkomsten tussen een onderneming of een ondernemersvereniging en twee of meer andere ondernemingen, die dezelfde strekking hebben, worden voor de toepassing van het eerste lid die overeenkomsten tezamen beschouwd als één overeenkomst.
 
-3. Bij algemene maatregel van bestuur kan worden bepaald, zo nodig onder voorschriften en beperkingen, dat [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=3&paragraaf=1&artikel=6&z=2006-10-01&g=2006-10-01), niet van toepassing is op in die maatregel omschreven categorieën van overeenkomsten, besluiten of gedragingen als bedoeld in dat artikel, die in het algemeen vanuit een oogpunt van mededinging van duidelijk ondergeschikte betekenis zijn.
+3. Bij algemene maatregel van bestuur kan worden bepaald, zo nodig onder voorschriften en beperkingen, dat [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=3&paragraaf=1&artikel=6&z=2007-01-01&g=2007-01-01), niet van toepassing is op in die maatregel omschreven categorieën van overeenkomsten, besluiten of gedragingen als bedoeld in dat artikel, die in het algemeen vanuit een oogpunt van mededinging van duidelijk ondergeschikte betekenis zijn.
 
 4. Het in het eerste lid, onder **a**, genoemde aantal en de in het eerste lid, onder **b**, genoemde bedragen kunnen bij algemene maatregel van bestuur worden gewijzigd.
 
 ##### Artikel 8
 
-1. De berekening van de omzet, bedoeld in [artikel 7, eerste lid, onder **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=3&paragraaf=1&artikel=7&z=2006-10-01&g=2006-10-01), geschiedt op de voet van het bepaalde in [artikel 377, zesde lid, van boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=377) voor de netto-omzet.
+1. De berekening van de omzet, bedoeld in [artikel 7, eerste lid, onder **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=3&paragraaf=1&artikel=7&z=2007-01-01&g=2007-01-01), geschiedt op de voet van het bepaalde in [artikel 377, zesde lid, van boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=377) voor de netto-omzet.
 
 2. Indien een onderneming behoort tot een groep als bedoeld in [artikel 24**b** van boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=24b) worden voor de berekening van de omzet van die onderneming de omzetten van alle tot die groep behorende ondernemingen opgeteld. Bij deze berekening worden transacties tussen de tot die groep behorende ondernemingen buiten beschouwing gelaten.
 
-3. Voor de berekening van de gezamenlijke omzet van de betrokken ondernemingen, bedoeld in [artikel 7, eerste lid, onder **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=3&paragraaf=1&artikel=7&z=2006-10-01&g=2006-10-01), worden de transacties tussen die ondernemingen buiten beschouwing gelaten.
+3. Voor de berekening van de gezamenlijke omzet van de betrokken ondernemingen, bedoeld in [artikel 7, eerste lid, onder **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=3&paragraaf=1&artikel=7&z=2007-01-01&g=2007-01-01), worden de transacties tussen die ondernemingen buiten beschouwing gelaten.
 
 ##### Artikel 9
 
-1. De raad kan op een overeenkomst tussen ondernemingen, een besluit van een ondernemersvereniging of een onderling afgestemde feitelijke gedraging van ondernemingen waarop krachtens [artikel 7, eerste of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=3&paragraaf=1&artikel=7&z=2006-10-01&g=2006-10-01), [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=3&paragraaf=1&artikel=6&z=2006-10-01&g=2006-10-01), niet van toepassing is, bij beschikking alsnog [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=3&paragraaf=1&artikel=6&z=2006-10-01&g=2006-10-01), van toepassing verklaren, indien die overeenkomst, dat besluit of die gedraging gezien de marktverhoudingen op de relevante markt in aanzienlijke mate afbreuk doet aan de mededinging.
+1. De raad kan op een overeenkomst tussen ondernemingen, een besluit van een ondernemersvereniging of een onderling afgestemde feitelijke gedraging van ondernemingen waarop krachtens [artikel 7, eerste of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=3&paragraaf=1&artikel=7&z=2007-01-01&g=2007-01-01), [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=3&paragraaf=1&artikel=6&z=2007-01-01&g=2007-01-01), niet van toepassing is, bij beschikking alsnog [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=3&paragraaf=1&artikel=6&z=2007-01-01&g=2007-01-01), van toepassing verklaren, indien die overeenkomst, dat besluit of die gedraging gezien de marktverhoudingen op de relevante markt in aanzienlijke mate afbreuk doet aan de mededinging.
 
 2. Op de voorbereiding van de beschikking is [afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) van toepassing.
 
@@ -164,25 +164,25 @@ De raad is belast met taken ter uitvoering van deze wet, alsmede ter uitvoering 
 
 ##### Artikel 10
 
-[Artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=3&paragraaf=1&artikel=6&z=2006-10-01&g=2006-10-01) geldt niet voor overeenkomsten, besluiten en gedragingen als bedoeld in dat artikel die rechtstreeks verbonden zijn aan een concentratie als bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5&paragraaf=1&artikel=27&z=2006-10-01&g=2006-10-01), en noodzakelijk zijn voor de verwezenlijking van de desbetreffende concentratie.
+[Artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=3&paragraaf=1&artikel=6&z=2007-01-01&g=2007-01-01) geldt niet voor overeenkomsten, besluiten en gedragingen als bedoeld in dat artikel die rechtstreeks verbonden zijn aan een concentratie als bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5&paragraaf=1&artikel=27&z=2007-01-01&g=2007-01-01), en noodzakelijk zijn voor de verwezenlijking van de desbetreffende concentratie.
 
 #### § 3. Informatievoorziening, sturing en toezicht
 
 ##### Artikel 11
 
-Voor overeenkomsten, besluiten en gedragingen als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=3&paragraaf=1&artikel=6&z=2006-10-01&g=2006-10-01), waarbij ten minste een onderneming of ondernemersvereniging betrokken is die bij wettelijk voorschrift of door een bestuursorgaan is belast met het beheer van diensten van algemeen economisch belang, geldt [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=3&paragraaf=1&artikel=6&z=2006-10-01&g=2006-10-01), voor zover de toepassing van dat artikel de vervulling van de aan die onderneming of ondernemersvereniging toevertrouwde bijzondere taak niet verhindert.
+Voor overeenkomsten, besluiten en gedragingen als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=3&paragraaf=1&artikel=6&z=2007-01-01&g=2007-01-01), waarbij ten minste een onderneming of ondernemersvereniging betrokken is die bij wettelijk voorschrift of door een bestuursorgaan is belast met het beheer van diensten van algemeen economisch belang, geldt [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=3&paragraaf=1&artikel=6&z=2007-01-01&g=2007-01-01), voor zover de toepassing van dat artikel de vervulling van de aan die onderneming of ondernemersvereniging toevertrouwde bijzondere taak niet verhindert.
 
 #### § 3. Vrijstellingen
 
 ##### Artikel 12
 
-[Artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=3&paragraaf=1&artikel=6&z=2006-10-01&g=2006-10-01), geldt niet voor overeenkomsten tussen ondernemingen, besluiten van ondernemersverenigingen en onderling afgestemde feitelijke gedragingen van ondernemingen waarvoor krachtens een verordening van de Raad van de Europese Unie of een verordening van de Commissie van de Europese Gemeenschappen artikel 81, eerste lid, van het Verdrag buiten toepassing is verklaard.
+[Artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=3&paragraaf=1&artikel=6&z=2007-01-01&g=2007-01-01), geldt niet voor overeenkomsten tussen ondernemingen, besluiten van ondernemersverenigingen en onderling afgestemde feitelijke gedragingen van ondernemingen waarvoor krachtens een verordening van de Raad van de Europese Unie of een verordening van de Commissie van de Europese Gemeenschappen artikel 81, eerste lid, van het Verdrag buiten toepassing is verklaard.
 
 ##### Artikel 13
 
-1. [Artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=3&paragraaf=1&artikel=6&z=2006-10-01&g=2006-10-01), geldt niet voor overeenkomsten tussen ondernemingen, besluiten van ondernemersverenigingen en onderling afgestemde feitelijke gedragingen van ondernemingen die de handel tussen de lid-staten van de Europese Gemeenschappen niet ongunstig kunnen beïnvloeden of waardoor de mededinging binnen de gemeenschappelijke markt niet wordt verhinderd, beperkt of vervalst doch die, indien dat wel het geval zou zijn, zouden zijn vrijgesteld krachtens een verordening als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=3&paragraaf=3&artikel=12&z=2006-10-01&g=2006-10-01).
+1. [Artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=3&paragraaf=1&artikel=6&z=2007-01-01&g=2007-01-01), geldt niet voor overeenkomsten tussen ondernemingen, besluiten van ondernemersverenigingen en onderling afgestemde feitelijke gedragingen van ondernemingen die de handel tussen de lid-staten van de Europese Gemeenschappen niet ongunstig kunnen beïnvloeden of waardoor de mededinging binnen de gemeenschappelijke markt niet wordt verhinderd, beperkt of vervalst doch die, indien dat wel het geval zou zijn, zouden zijn vrijgesteld krachtens een verordening als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=3&paragraaf=3&artikel=12&z=2007-01-01&g=2007-01-01).
 
-2. De raad kan op een overeenkomst tussen ondernemingen, een besluit van een ondernemersvereniging of een onderling afgestemde feitelijke gedraging van ondernemingen waarop krachtens het eerste lid [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=3&paragraaf=1&artikel=6&z=2006-10-01&g=2006-10-01), niet van toepassing is, bij beschikking alsnog [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=3&paragraaf=1&artikel=6&z=2006-10-01&g=2006-10-01), van toepassing verklaren, indien zich omstandigheden voordoen als die welke krachtens de desbetreffende verordening kunnen leiden tot de buitentoepassingverklaring van die verordening.
+2. De raad kan op een overeenkomst tussen ondernemingen, een besluit van een ondernemersvereniging of een onderling afgestemde feitelijke gedraging van ondernemingen waarop krachtens het eerste lid [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=3&paragraaf=1&artikel=6&z=2007-01-01&g=2007-01-01), niet van toepassing is, bij beschikking alsnog [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=3&paragraaf=1&artikel=6&z=2007-01-01&g=2007-01-01), van toepassing verklaren, indien zich omstandigheden voordoen als die welke krachtens de desbetreffende verordening kunnen leiden tot de buitentoepassingverklaring van die verordening.
 
 3. Op de voorbereiding van de beschikking is [afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) van toepassing.
 
@@ -190,17 +190,17 @@ Voor overeenkomsten, besluiten en gedragingen als bedoeld in [artikel 6, eerste 
 
 ##### Artikel 14
 
-[Artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=3&paragraaf=1&artikel=6&z=2006-10-01&g=2006-10-01), geldt niet voor overeenkomsten tussen ondernemingen, besluiten van ondernemersverenigingen en onderling afgestemde feitelijke gedragingen van ondernemingen waarvoor een op grond van artikel 81, derde lid, van het Verdrag verleende ontheffing geldt.
+[Artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=3&paragraaf=1&artikel=6&z=2007-01-01&g=2007-01-01), geldt niet voor overeenkomsten tussen ondernemingen, besluiten van ondernemersverenigingen en onderling afgestemde feitelijke gedragingen van ondernemingen waarvoor een op grond van artikel 81, derde lid, van het Verdrag verleende ontheffing geldt.
 
 ##### Artikel 15
 
-1. Bij algemene maatregel van bestuur kan worden bepaald, zo nodig onder voorschriften en beperkingen, dat [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=3&paragraaf=1&artikel=6&z=2006-10-01&g=2006-10-01), niet geldt voor in die maatregel omschreven categorieën van overeenkomsten, besluiten en gedragingen als bedoeld in dat artikel, die bijdragen tot verbetering van de produktie of van de distributie of tot bevordering van de technische of economische vooruitgang, mits een billijk aandeel in de daaruit voortvloeiende voordelen de gebruikers ten goede komt, en zonder nochtans aan de betrokken ondernemingen
+1. Bij algemene maatregel van bestuur kan worden bepaald, zo nodig onder voorschriften en beperkingen, dat [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=3&paragraaf=1&artikel=6&z=2007-01-01&g=2007-01-01), niet geldt voor in die maatregel omschreven categorieën van overeenkomsten, besluiten en gedragingen als bedoeld in dat artikel, die bijdragen tot verbetering van de produktie of van de distributie of tot bevordering van de technische of economische vooruitgang, mits een billijk aandeel in de daaruit voortvloeiende voordelen de gebruikers ten goede komt, en zonder nochtans aan de betrokken ondernemingen
 
 - a. beperkingen op te leggen die voor het bereiken van deze doelstellingen niet onmisbaar zijn, of
 
 - b. de mogelijkheid te geven, voor een wezenlijk deel van de betrokken goederen en diensten de mededinging uit te schakelen.
 
-2. In een algemene maatregel van bestuur als bedoeld in het eerste lid kan worden bepaald dat de raad op een overeenkomst, besluit of gedraging waarvoor krachtens die maatregel [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=3&paragraaf=1&artikel=6&z=2006-10-01&g=2006-10-01), niet geldt, bij beschikking alsnog [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=3&paragraaf=1&artikel=6&z=2006-10-01&g=2006-10-01), van toepassing kan verklaren, indien wordt voldaan aan de in die algemene maatregel van bestuur genoemde vereisten.
+2. In een algemene maatregel van bestuur als bedoeld in het eerste lid kan worden bepaald dat de raad op een overeenkomst, besluit of gedraging waarvoor krachtens die maatregel [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=3&paragraaf=1&artikel=6&z=2007-01-01&g=2007-01-01), niet geldt, bij beschikking alsnog [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=3&paragraaf=1&artikel=6&z=2007-01-01&g=2007-01-01), van toepassing kan verklaren, indien wordt voldaan aan de in die algemene maatregel van bestuur genoemde vereisten.
 
 3. Op de voorbereiding van de beschikking is [afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) van toepassing.
 
@@ -248,13 +248,13 @@ Vervallen
 
 1. Het is ondernemingen verboden misbruik te maken van een economische machtspositie.
 
-2. Het tot stand brengen van een concentratie als omschreven in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5&paragraaf=1&artikel=27&z=2006-10-01&g=2006-10-01) wordt niet aangemerkt als het misbruik maken van een economische machtspositie.
+2. Het tot stand brengen van een concentratie als omschreven in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5&paragraaf=1&artikel=27&z=2007-01-01&g=2007-01-01) wordt niet aangemerkt als het misbruik maken van een economische machtspositie.
 
 #### § 3. Vrijstellingen
 
 ##### Artikel 25
 
-1. Voor zover de toepassing van [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=4&paragraaf=1&artikel=24&z=2006-10-01&g=2006-10-01), de vervulling van bij wettelijk voorschrift of door een bestuursorgaan aan een onderneming opgedragen beheer van een dienst van algemeen economisch belang verhindert, kan de raad op aanvraag verklaren dat [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=4&paragraaf=1&artikel=24&z=2006-10-01&g=2006-10-01), niet van toepassing is op een daarbij aangewezen gedraging.
+1. Voor zover de toepassing van [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=4&paragraaf=1&artikel=24&z=2007-01-01&g=2007-01-01), de vervulling van bij wettelijk voorschrift of door een bestuursorgaan aan een onderneming opgedragen beheer van een dienst van algemeen economisch belang verhindert, kan de raad op aanvraag verklaren dat [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=4&paragraaf=1&artikel=24&z=2007-01-01&g=2007-01-01), niet van toepassing is op een daarbij aangewezen gedraging.
 
 2. Een beschikking als bedoeld in het eerste lid kan onder beperkingen worden gegeven; aan een beschikking kunnen voorschriften worden verbonden.
 
@@ -292,11 +292,11 @@ In dit hoofdstuk wordt verstaan onder:
 
 ##### Artikel 25c
 
-[Artikel 25b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=4a&artikel=25b&z=2006-10-01&g=2006-10-01), is niet van toepassing op activiteiten die onder de toepassing vallen van specifieke door de Europese Gemeenschap vastgestelde bepalingen inzake een gescheiden administratie, andere dan die van de richtlijn.
+[Artikel 25b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=4a&artikel=25b&z=2007-01-01&g=2007-01-01), is niet van toepassing op activiteiten die onder de toepassing vallen van specifieke door de Europese Gemeenschap vastgestelde bepalingen inzake een gescheiden administratie, andere dan die van de richtlijn.
 
 ##### Artikel 25d
 
-1. [Artikel 25b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=4a&artikel=25b&z=2006-10-01&g=2006-10-01), is voorts niet van toepassing op:
+1. [Artikel 25b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=4a&artikel=25b&z=2007-01-01&g=2007-01-01), is voorts niet van toepassing op:
 
 - a. ondernemingen die diensten verrichten welke de handel tussen lidstaten niet op merkbare wijze ongunstig kunnen beïnvloeden;
 
@@ -310,7 +310,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 ##### Artikel 25e
 
-Indien de Commissie van de Europese Gemeenschappen verzoekt om terbeschikkingstelling van gegevens als bedoeld in [artikel 25b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=4a&artikel=25b&z=2006-10-01&g=2006-10-01), verstrekt de onderneming die dit aangaat, de raad op diens verzoek binnen de door hem gestelde termijn de desbetreffende gegevens. De raad doet de gegevens toekomen aan de Commissie van de Europese Gemeenschappen.
+Indien de Commissie van de Europese Gemeenschappen verzoekt om terbeschikkingstelling van gegevens als bedoeld in [artikel 25b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=4a&artikel=25b&z=2007-01-01&g=2007-01-01), verstrekt de onderneming die dit aangaat, de raad op diens verzoek binnen de door hem gestelde termijn de desbetreffende gegevens. De raad doet de gegevens toekomen aan de Commissie van de Europese Gemeenschappen.
 
 ##### Artikel 25f
 
@@ -340,33 +340,23 @@ Onder een concentratie wordt verstaan:
 
 ##### Artikel 28
 
-1. In afwijking van [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5&paragraaf=1&artikel=27&z=2006-10-01&g=2006-10-01) wordt niet als concentratie beschouwd:
+1. In afwijking van [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5&paragraaf=1&artikel=27&z=2007-01-01&g=2007-01-01) wordt niet als concentratie beschouwd:
 
-- a. het door kredietinstellingen of andere financiële instellingen als bedoeld in [artikel 1, eerste lid, onderdelen **a** en c, van de Wet toezicht kredietwezen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005792&artikel=1), verzekeraars als bedoeld in [artikel 1, onderdeel h, van de Wet toezicht verzekeringsbedrijf 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006509&artikel=1) of verzekeraars als bedoeld in [artikel 1, onderdeel c, van de Wet toezicht natura-uitvaartverzekeringsbedrijf](https://wetten.overheid.nl/jci1.3:c:BWBR0007477&artikel=1), tot wier normale werkzaamheden de verhandeling van effecten voor eigen rekening of voor rekening van derden behoort, tijdelijk houden van deelnemingen die zij in een onderneming hebben verworven ten einde deze deelnemingen weer te verkopen, mits zij de aan deze deelnemingen verbonden stemrechten niet uitoefenen om het marktgedrag van deze onderneming te bepalen, of zij deze stemrechten slechts uitoefenen om de verkoop van deze deelnemingen voor te bereiden, en deze verkoop plaatsvindt binnen een jaar na de verwerving;
+- a. het door kredietinstellingen, financiële instellingen of verzekeraars als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1), tot wier normale werkzaamheden de verhandeling van effecten voor eigen rekening of voor rekening van derden behoort, tijdelijk houden van deelnemingen die zij in een onderneming hebben verworven ten einde deze deelnemingen weer te verkopen, mits zij de aan deze deelnemingen verbonden stemrechten niet uitoefenen om het marktgedrag van deze onderneming te bepalen, of zij deze stemrechten slechts uitoefenen om de verkoop van deze deelnemingen voor te bereiden, en deze verkoop plaatsvindt binnen een jaar na de verwerving;
 
-- b. het verkrijgen van zeggenschap door
+- b. het verkrijgen van zeggenschap door:
 
 - 1°. curatoren als bedoeld in [artikel 68, eerste lid, van de Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=68);
 
 - 2°. bewindvoerders als bedoeld in [artikel 215, tweede lid, van de Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=215);
 
-- 3°. personen als bedoeld in [artikel 28, derde lid, onderdeel **a**, van de Wet toezicht kredietwezen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005792&artikel=28);
+- 3°. personen als bedoeld in [1:76, eerste lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:76);
 
-- 4°. bewindvoerders als bedoeld in [artikel 71, zevende lid, van de Wet toezicht kredietwezen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005792&artikel=71);
+- 4°. bewindvoerders als bedoeld in [3:162, vierde lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:162);
 
-- 5°. personen als bedoeld in [artikel 54, derde lid, onderdeel **a**, van de Wet toezicht verzekeringsbedrijf 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006509&artikel=54);
+- 5°. personen als bedoeld in [artikel 3:175, negende lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:175);
 
-- 6°. bewindvoerders als bedoeld in [artikel 161, eerste lid, van de Wet toezicht verzekeringsbedrijf 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006509&artikel=161);
-
-- 7°. personen als bedoeld in [artikel 161, negende lid, van de Wet toezicht verzekeringsbedrijf 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006509&artikel=161);
-
-- 8°. personen als bedoeld in [artikel 27, derde lid, onderdeel **a**, van de Wet toezicht natura-uitvaartverzekeringsbedrijf](https://wetten.overheid.nl/jci1.3:c:BWBR0007477&artikel=27);
-
-- 9°. bewindvoerders als bedoeld in [artikel 70, eerste lid, van de Wet toezicht natura-uitvaartverzekeringsbedrijf](https://wetten.overheid.nl/jci1.3:c:BWBR0007477&artikel=70);
-
-- 10°. personen als bedoeld in [artikel 70, negende lid, van de Wet toezicht natura-uitvaartverzekeringsbedrijf](https://wetten.overheid.nl/jci1.3:c:BWBR0007477&artikel=70);
-
-- c. het verwerven van participaties in het kapitaal als bedoeld in [artikel 27, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5&paragraaf=1&artikel=27&z=2006-10-01&g=2006-10-01), door participatiemaatschappijen mits de aan de deelname verbonden stemrechten slechts worden uitgeoefend om de volle waarde van deze beleggingen veilig te stellen.
+- c. het verwerven van participaties in het kapitaal als bedoeld in [artikel 27, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5&paragraaf=1&artikel=27&z=2007-01-01&g=2007-01-01), door participatiemaatschappijen mits de aan de deelname verbonden stemrechten slechts worden uitgeoefend om de volle waarde van deze beleggingen veilig te stellen.
 
 2. De in het eerste lid, onder a, genoemde termijn kan op verzoek door de raad worden verlengd wanneer de desbetreffende instellingen of verzekeraars aantonen dat de verkoop binnen de gestelde termijn redelijkerwijs niet mogelijk was.
 
@@ -382,11 +372,11 @@ Onder een concentratie wordt verstaan:
 
 ##### Artikel 30
 
-1. De berekening van de omzet, bedoeld in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5&paragraaf=2&artikel=29&z=2006-10-01&g=2006-10-01), geschiedt op de voet van het bepaalde in [artikel 377, zesde lid, van boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=377) voor de netto-omzet.
+1. De berekening van de omzet, bedoeld in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5&paragraaf=2&artikel=29&z=2007-01-01&g=2007-01-01), geschiedt op de voet van het bepaalde in [artikel 377, zesde lid, van boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=377) voor de netto-omzet.
 
-2. Wanneer de concentratie tot stand wordt gebracht door middel van de verwerving van de zeggenschap over delen van een of meer ondernemingen, welke delen al dan niet eigen rechtspersoonlijkheid bezitten, wordt bij de berekening van de omzet, bedoeld in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5&paragraaf=2&artikel=29&z=2006-10-01&g=2006-10-01), ten aanzien van de vervreemder of de vervreemders uitsluitend rekening gehouden met de omzet van de te vervreemden delen die voorwerp zijn van de transactie.
+2. Wanneer de concentratie tot stand wordt gebracht door middel van de verwerving van de zeggenschap over delen van een of meer ondernemingen, welke delen al dan niet eigen rechtspersoonlijkheid bezitten, wordt bij de berekening van de omzet, bedoeld in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5&paragraaf=2&artikel=29&z=2007-01-01&g=2007-01-01), ten aanzien van de vervreemder of de vervreemders uitsluitend rekening gehouden met de omzet van de te vervreemden delen die voorwerp zijn van de transactie.
 
-3. Onverminderd het bepaalde in het tweede lid worden voor de berekening van de omzet van een betrokken onderneming als bedoeld in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5&paragraaf=2&artikel=29&z=2006-10-01&g=2006-10-01), de omzetten van de volgende ondernemingen opgeteld:
+3. Onverminderd het bepaalde in het tweede lid worden voor de berekening van de omzet van een betrokken onderneming als bedoeld in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5&paragraaf=2&artikel=29&z=2007-01-01&g=2007-01-01), de omzetten van de volgende ondernemingen opgeteld:
 
 - a. de betrokken onderneming;
 
@@ -406,19 +396,19 @@ Onder een concentratie wordt verstaan:
 
 - e. ondernemingen waarbij ten minste twee ondernemingen als bedoeld in de onderdelen **a** tot en met **d** gezamenlijk over de in onderdeel **b** genoemde rechten of bevoegdheden beschikken.
 
-4. Indien bij de concentratie betrokken ondernemingen gezamenlijk beschikken over de in het derde lid, onderdeel **b**, genoemde rechten of bevoegdheden, wordt voor de berekening van de omzet van de betrokken ondernemingen als bedoeld in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5&paragraaf=2&artikel=29&z=2006-10-01&g=2006-10-01):
+4. Indien bij de concentratie betrokken ondernemingen gezamenlijk beschikken over de in het derde lid, onderdeel **b**, genoemde rechten of bevoegdheden, wordt voor de berekening van de omzet van de betrokken ondernemingen als bedoeld in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5&paragraaf=2&artikel=29&z=2007-01-01&g=2007-01-01):
 
 - a. geen rekening gehouden met de omzet, die het resultaat is van de verkoop van produkten en het leveren van diensten tussen de gemeenschappelijke onderneming en elk van de betrokken ondernemingen of van enige andere met de betrokken onderneming verbonden onderneming als bedoeld in het derde lid, onderdelen **b** tot en met **e**;
 
 - b. rekening gehouden met de omzet die het resultaat is van de verkoop van produkten en het verlenen van diensten tussen de gemeenschappelijke onderneming en derde ondernemingen. Deze omzet wordt aan de ondernemingen toegerekend in verhouding tot hun deelnemingen in de gemeenschappelijke onderneming.
 
-5. Voor de berekening van de gezamenlijke omzet van de betrokken ondernemingen, bedoeld in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5&paragraaf=2&artikel=29&z=2006-10-01&g=2006-10-01), worden transacties tussen de in het derde lid bedoelde ondernemingen buiten beschouwing gelaten.
+5. Voor de berekening van de gezamenlijke omzet van de betrokken ondernemingen, bedoeld in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5&paragraaf=2&artikel=29&z=2007-01-01&g=2007-01-01), worden transacties tussen de in het derde lid bedoelde ondernemingen buiten beschouwing gelaten.
 
 ##### Artikel 31
 
-1. Voor de toepassing van [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5&paragraaf=2&artikel=29&z=2006-10-01&g=2006-10-01), wordt ten aanzien van kredietinstellingen en financiële instellingen in de zin van de [Wet toezicht kredietwezen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005792) de omzet vervangen door een tiende deel van de vaste en vlottende activa, bedoeld in [artikel 364, tweede en derde lid, van boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=364) aan het slot van het voorafgaande boekjaar, waarvan voor ten minste € 22 690 000 materiële vaste activa in Nederland.
+1. Voor de toepassing van [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5&paragraaf=2&artikel=29&z=2007-01-01&g=2007-01-01), wordt ten aanzien van kredietinstellingen en financiële instellingen als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1) de omzet vervangen door een tiende deel van de vaste en vlottende activa, bedoeld in [artikel 364, tweede en derde lid, van boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=364) aan het slot van het voorafgaande boekjaar, waarvan voor ten minste € 22 690 000 materiële vaste activa in Nederland.
 
-2. Voor verzekeraars in de zin van de [Wet toezicht verzekeringsbedrijf 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006509) of de [Wet toezicht natura-uitvaartverzekeringsbedrijf](https://wetten.overheid.nl/jci1.3:c:BWBR0007477) wordt voor de toepassing van [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5&paragraaf=2&artikel=29&z=2006-10-01&g=2006-10-01), de omzet vervangen door de waarde van de bruto geboekte premies in het voorafgaande boekjaar, waarvan voor ten minste € 4 540 000 ontvangen van Nederlandse ingezetenen.
+2. Voor verzekeraars in de zin van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) wordt voor de toepassing van [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5&paragraaf=2&artikel=29&z=2007-01-01&g=2007-01-01), de omzet vervangen door de waarde van de bruto geboekte premies in het voorafgaande boekjaar, waarvan voor ten minste € 4 540 000 ontvangen van Nederlandse ingezetenen.
 
 ##### Artikel 32
 
@@ -442,7 +432,7 @@ Het is verboden een concentratie tot stand te brengen voordat het voornemen daar
 
 3. Door een onderneming bij de melding verstrekte gegevens die door die onderneming als vertrouwelijk zijn aangemerkt, worden niet eerder openbaar gemaakt dan nadat een week is verstreken na de bekendmaking van de daartoe strekkende beschikking van de raad.
 
-4. Indien met betrekking tot de in het derde lid bedoelde beschikking van de raad een verzoek om een voorlopige voorziening als bedoeld in [artikel 8:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:81) is gedaan, wordt de termijn, genoemd in de [artikelen 34](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5&paragraaf=3&artikel=34&z=2006-10-01&g=2006-10-01) en [37, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5&paragraaf=3&artikel=37&z=2006-10-01&g=2006-10-01), opgeschort tot de dag waarop de schriftelijke uitspraak van de voorzieningenrechter van de rechtbank, bedoeld in [artikel 93, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=12&artikel=93&z=2006-10-01&g=2006-10-01), is bekendgemaakt.
+4. Indien met betrekking tot de in het derde lid bedoelde beschikking van de raad een verzoek om een voorlopige voorziening als bedoeld in [artikel 8:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:81) is gedaan, wordt de termijn, genoemd in de [artikelen 34](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5&paragraaf=3&artikel=34&z=2007-01-01&g=2007-01-01) en [37, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5&paragraaf=3&artikel=37&z=2007-01-01&g=2007-01-01), opgeschort tot de dag waarop de schriftelijke uitspraak van de voorzieningenrechter van de rechtbank, bedoeld in [artikel 93, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=12&artikel=93&z=2007-01-01&g=2007-01-01), is bekendgemaakt.
 
 ##### Artikel 36
 
@@ -456,19 +446,19 @@ Van een ontvangen melding wordt door de raad zo spoedig mogelijk mededeling geda
 
 3. Indien niet binnen vier weken toepassing is gegeven aan het eerste lid is voor de concentratie geen vergunning vereist. De in de vorige volzin bedoelde termijn vangt aan met ingang van de eerstvolgende dag na ontvangst van de melding die niet een zaterdag, zondag of algemeen erkende feestdag is in de zin van de [Algemene termijnenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002448).
 
-4. Door de mededeling van de raad dat voor een concentratie geen vergunning is vereist, houdt het in [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5&paragraaf=3&artikel=34&z=2006-10-01&g=2006-10-01) vervatte verbod met betrekking tot die concentratie op te gelden.
+4. Door de mededeling van de raad dat voor een concentratie geen vergunning is vereist, houdt het in [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5&paragraaf=3&artikel=34&z=2007-01-01&g=2007-01-01) vervatte verbod met betrekking tot die concentratie op te gelden.
 
 5. Van een mededeling van de raad als bedoeld in het eerste lid wordt mededeling gedaan in de **Staatscourant**.
 
 ##### Artikel 38
 
-De in de [artikelen 34](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5&paragraaf=3&artikel=34&z=2006-10-01&g=2006-10-01) en [37, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5&paragraaf=3&artikel=37&z=2006-10-01&g=2006-10-01), genoemde termijn van vier weken wordt opgeschort met ingang van de dag waarop de raad op grond van [artikel 35, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5&paragraaf=3&artikel=35&z=2006-10-01&g=2006-10-01), aanvulling van de melding verlangt tot de dag waarop die aanvulling is gegeven.
+De in de [artikelen 34](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5&paragraaf=3&artikel=34&z=2007-01-01&g=2007-01-01) en [37, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5&paragraaf=3&artikel=37&z=2007-01-01&g=2007-01-01), genoemde termijn van vier weken wordt opgeschort met ingang van de dag waarop de raad op grond van [artikel 35, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5&paragraaf=3&artikel=35&z=2007-01-01&g=2007-01-01), aanvulling van de melding verlangt tot de dag waarop die aanvulling is gegeven.
 
 ##### Artikel 39
 
-1. [Artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5&paragraaf=3&artikel=34&z=2006-10-01&g=2006-10-01) geldt niet in geval van een openbaar overname of ruilaanbod gericht op het verkrijgen van een deelname in het kapitaal van een onderneming, mits daarvan onverwijld aan de raad melding wordt gedaan, en de verkrijger de aan de deelname in het kapitaal verbonden stemrechten niet uitoefent.
+1. [Artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5&paragraaf=3&artikel=34&z=2007-01-01&g=2007-01-01) geldt niet in geval van een openbaar overname of ruilaanbod gericht op het verkrijgen van een deelname in het kapitaal van een onderneming, mits daarvan onverwijld aan de raad melding wordt gedaan, en de verkrijger de aan de deelname in het kapitaal verbonden stemrechten niet uitoefent.
 
-2. Indien de raad ter zake van een melding als bedoeld in het eerste lid mededeelt dat op grond van [artikel 37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5&paragraaf=3&artikel=37&z=2006-10-01&g=2006-10-01), een vergunning is vereist, dient de concentratie:
+2. Indien de raad ter zake van een melding als bedoeld in het eerste lid mededeelt dat op grond van [artikel 37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5&paragraaf=3&artikel=37&z=2007-01-01&g=2007-01-01), een vergunning is vereist, dient de concentratie:
 
 - a. indien niet binnen vier weken na die mededeling een vergunning is aangevraagd, dan wel de aanvraag om een vergunning wordt ingetrokken of de vergunning wordt geweigerd, binnen dertien weken ongedaan te worden gemaakt;
 
@@ -478,11 +468,11 @@ De in de [artikelen 34](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstu
 
 ##### Artikel 40
 
-1. De raad kan om gewichtige redenen op verzoek van degene die een melding heeft gedaan, ontheffing verlenen van het in [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5&paragraaf=3&artikel=34&z=2006-10-01&g=2006-10-01) gestelde verbod.
+1. De raad kan om gewichtige redenen op verzoek van degene die een melding heeft gedaan, ontheffing verlenen van het in [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5&paragraaf=3&artikel=34&z=2007-01-01&g=2007-01-01) gestelde verbod.
 
 2. Een ontheffing kan onder beperkingen worden verleend; aan een ontheffing kunnen voorschriften worden verbonden.
 
-3. Indien de raad na het verlenen van een ontheffing als bedoeld in het eerste lid ter zake van de betrokken melding mededeelt dat op grond van [artikel 37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5&paragraaf=3&artikel=37&z=2006-10-01&g=2006-10-01), een vergunning is vereist, en de concentratie tot stand is gebracht voor de mededeling daarvan, dient de concentratie:
+3. Indien de raad na het verlenen van een ontheffing als bedoeld in het eerste lid ter zake van de betrokken melding mededeelt dat op grond van [artikel 37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5&paragraaf=3&artikel=37&z=2007-01-01&g=2007-01-01), een vergunning is vereist, en de concentratie tot stand is gebracht voor de mededeling daarvan, dient de concentratie:
 
 - a. indien niet binnen vier weken na die mededeling een vergunning is aangevraagd, dan wel de aanvraag om een vergunning wordt ingetrokken of de vergunning wordt geweigerd, binnen dertien weken ongedaan te worden gemaakt;
 
@@ -492,7 +482,7 @@ De in de [artikelen 34](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstu
 
 ##### Artikel 41
 
-1. Het is verboden zonder vergunning een concentratie tot stand te brengen, waarop een mededeling op grond van [artikel 37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5&paragraaf=3&artikel=37&z=2006-10-01&g=2006-10-01), dat een vergunning is vereist, betrekking heeft.
+1. Het is verboden zonder vergunning een concentratie tot stand te brengen, waarop een mededeling op grond van [artikel 37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5&paragraaf=3&artikel=37&z=2007-01-01&g=2007-01-01), dat een vergunning is vereist, betrekking heeft.
 
 2. Een vergunning wordt geweigerd, indien als gevolg van de voorgenomen concentratie een economische machtspositie zal ontstaan of worden versterkt die tot gevolg heeft dat een daadwerkelijke mededinging op de Nederlandse markt of een deel daarvan op significante wijze wordt belemmerd.
 
@@ -508,7 +498,7 @@ De in de [artikelen 34](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstu
 
 3. Door een onderneming bij de aanvraag verstrekte gegevens die door die onderneming als vertrouwelijk zijn aangemerkt, worden niet eerder openbaar gemaakt dan nadat een week is verstreken na de bekendmaking van de daartoe strekkende beschikking van de raad.
 
-4. Indien met betrekking tot de in het derde lid bedoelde beschikking van de raad een verzoek om een voorlopige voorziening als bedoeld in [artikel 8:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:81) is gedaan, wordt de termijn, genoemd in [artikel 44, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5&paragraaf=4&artikel=44&z=2006-10-01&g=2006-10-01), opgeschort tot de dag waarop de schriftelijke uitspraak van de voorzieningenrechter van de rechtbank, bedoeld in [artikel 93, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=12&artikel=93&z=2006-10-01&g=2006-10-01), is bekendgemaakt.
+4. Indien met betrekking tot de in het derde lid bedoelde beschikking van de raad een verzoek om een voorlopige voorziening als bedoeld in [artikel 8:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:81) is gedaan, wordt de termijn, genoemd in [artikel 44, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5&paragraaf=4&artikel=44&z=2007-01-01&g=2007-01-01), opgeschort tot de dag waarop de schriftelijke uitspraak van de voorzieningenrechter van de rechtbank, bedoeld in [artikel 93, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=12&artikel=93&z=2007-01-01&g=2007-01-01), is bekendgemaakt.
 
 5. Van een ontvangen aanvraag wordt door de raad zo spoedig mogelijk mededeling gedaan in de **Staatscourant**.
 
@@ -532,7 +522,7 @@ De raad kan een vergunning intrekken indien de verstrekte gegevens zodanig onjui
 
 ##### Artikel 46
 
-1. De raad kan om gewichtige redenen op verzoek van degene die een vergunning heeft aangevraagd, ontheffing verlenen van het in [artikel 41, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5&paragraaf=4&artikel=41&z=2006-10-01&g=2006-10-01), gestelde verbod tot op die aanvraag onherroepelijk is beslist.
+1. De raad kan om gewichtige redenen op verzoek van degene die een vergunning heeft aangevraagd, ontheffing verlenen van het in [artikel 41, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5&paragraaf=4&artikel=41&z=2007-01-01&g=2007-01-01), gestelde verbod tot op die aanvraag onherroepelijk is beslist.
 
 2. Een ontheffing kan onder beperkingen worden verleend; aan een ontheffing kunnen voorschriften worden verbonden.
 
@@ -556,7 +546,7 @@ Bij algemene maatregel van bestuur kan worden bepaald welke gegevens bij een tot
 
 1. Onze Minister geeft zijn beschikking op een aanvraag, in overeenstemming met het gevoelen van de ministerraad, binnen acht weken na ontvangst van die aanvraag.
 
-2. [Artikel 44, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5&paragraaf=4&artikel=44&z=2006-10-01&g=2006-10-01), is van overeenkomstige toepassing.
+2. [Artikel 44, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5&paragraaf=4&artikel=44&z=2007-01-01&g=2007-01-01), is van overeenkomstige toepassing.
 
 ### Hoofdstuk 6. Toezicht en onderzoek
 
@@ -566,7 +556,7 @@ Bij algemene maatregel van bestuur kan worden bepaald welke gegevens bij een tot
 
 1. Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn belast de bij besluit van de raad aangewezen ambtenaren van de mededingingsautoriteit.
 
-2. De krachtens het eerste lid aangewezen ambtenaren beschikken met het oog op de toepassing van de bevoegdheid van de raad, bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=3&paragraaf=1&artikel=9&z=2006-10-01&g=2006-10-01), [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=3&paragraaf=3&artikel=13&z=2006-10-01&g=2006-10-01), [artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=3&paragraaf=3&artikel=15&z=2006-10-01&g=2006-10-01), en [artikel 89a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=10&artikel=89a&z=2006-10-01&g=2006-10-01), over de bevoegdheden, die hun zijn toegekend ter uitoefening van het toezicht.
+2. De krachtens het eerste lid aangewezen ambtenaren beschikken met het oog op de toepassing van de bevoegdheid van de raad, bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=3&paragraaf=1&artikel=9&z=2007-01-01&g=2007-01-01), [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=3&paragraaf=3&artikel=13&z=2007-01-01&g=2007-01-01), [artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=3&paragraaf=3&artikel=15&z=2007-01-01&g=2007-01-01), en [artikel 89a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=10&artikel=89a&z=2007-01-01&g=2007-01-01), over de bevoegdheden, die hun zijn toegekend ter uitoefening van het toezicht.
 
 3. Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de **Staatscourant**.
 
@@ -578,21 +568,21 @@ Bij algemene maatregel van bestuur kan worden bepaald welke gegevens bij een tot
 
 ##### Artikel 52
 
-1. Met het onderzoek zijn belast de krachtens [artikel 50, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=6&paragraaf=1&artikel=50&z=2006-10-01&g=2006-10-01), aangewezen ambtenaren.
+1. Met het onderzoek zijn belast de krachtens [artikel 50, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=6&paragraaf=1&artikel=50&z=2007-01-01&g=2007-01-01), aangewezen ambtenaren.
 
-2. Ten dienste van het onderzoek beschikken zij over de bevoegdheden die hun in deze paragraaf worden toegekend, alsmede, met inachtneming van de daaraan in deze paragraaf gestelde beperkingen, over de bevoegdheden die hun zijn toegekend ter uitoefening van het toezicht, bedoeld in [artikel 50, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=6&paragraaf=1&artikel=50&z=2006-10-01&g=2006-10-01).
+2. Ten dienste van het onderzoek beschikken zij over de bevoegdheden die hun in deze paragraaf worden toegekend, alsmede, met inachtneming van de daaraan in deze paragraaf gestelde beperkingen, over de bevoegdheden die hun zijn toegekend ter uitoefening van het toezicht, bedoeld in [artikel 50, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=6&paragraaf=1&artikel=50&z=2007-01-01&g=2007-01-01).
 
 ##### Artikel 53
 
-Indien de in [artikel 52, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=6&paragraaf=2&artikel=52&z=2006-10-01&g=2006-10-01), bedoelde ambtenaren een redelijk vermoeden hebben dat een bepaalde onderneming of ondernemersvereniging een overtreding heeft begaan, is er geen verplichting aan de zijde van die onderneming of ondernemersvereniging ter zake een verklaring af te leggen. De betrokkenen worden hiervan in kennis gesteld voordat hun mondeling ter zake om informatie wordt gevraagd.
+Indien de in [artikel 52, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=6&paragraaf=2&artikel=52&z=2007-01-01&g=2007-01-01), bedoelde ambtenaren een redelijk vermoeden hebben dat een bepaalde onderneming of ondernemersvereniging een overtreding heeft begaan, is er geen verplichting aan de zijde van die onderneming of ondernemersvereniging ter zake een verklaring af te leggen. De betrokkenen worden hiervan in kennis gesteld voordat hun mondeling ter zake om informatie wordt gevraagd.
 
 ##### Artikel 54
 
-De in [artikel 52, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=6&paragraaf=2&artikel=52&z=2006-10-01&g=2006-10-01), bedoelde ambtenaren zijn bevoegd om bedrijfsruimten en voorwerpen te verzegelen gedurende de tijd gelegen tussen 18.00 en 8.00 uur, voor zover dat voor de uitoefening van de in [artikel 5:17 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:17) bedoelde bevoegdheden redelijkerwijs noodzakelijk is.
+De in [artikel 52, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=6&paragraaf=2&artikel=52&z=2007-01-01&g=2007-01-01), bedoelde ambtenaren zijn bevoegd om bedrijfsruimten en voorwerpen te verzegelen gedurende de tijd gelegen tussen 18.00 en 8.00 uur, voor zover dat voor de uitoefening van de in [artikel 5:17 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:17) bedoelde bevoegdheden redelijkerwijs noodzakelijk is.
 
 ##### Artikel 55
 
-De in [artikel 52, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=6&paragraaf=2&artikel=52&z=2006-10-01&g=2006-10-01), bedoelde ambtenaren oefenen de hun in [artikel 5:17 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:17) toegekende bevoegdheid zo nodig uit met behulp van de sterke arm.
+De in [artikel 52, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=6&paragraaf=2&artikel=52&z=2007-01-01&g=2007-01-01), bedoelde ambtenaren oefenen de hun in [artikel 5:17 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:17) toegekende bevoegdheid zo nodig uit met behulp van de sterke arm.
 
 ### Hoofdstuk 7. Overtredingen verbod van mededingingsafspraken en verbod van misbruik van een economische machtspositie
 
@@ -600,7 +590,7 @@ De in [artikel 52, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&h
 
 ##### Artikel 56
 
-1. Ingeval van overtreding van [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=3&paragraaf=1&artikel=6&z=2006-10-01&g=2006-10-01), of van [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=4&paragraaf=1&artikel=24&z=2006-10-01&g=2006-10-01), kan de raad de natuurlijke persoon of rechtspersoon aan wie de overtreding kan worden toegerekend:
+1. Ingeval van overtreding van [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=3&paragraaf=1&artikel=6&z=2007-01-01&g=2007-01-01), of van [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=4&paragraaf=1&artikel=24&z=2007-01-01&g=2007-01-01), kan de raad de natuurlijke persoon of rechtspersoon aan wie de overtreding kan worden toegerekend:
 
 - a. een boete opleggen;
 
@@ -614,7 +604,7 @@ De in [artikel 52, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&h
 
 ##### Artikel 57
 
-1. De in [artikel 56, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=7&paragraaf=1&artikel=56&z=2006-10-01&g=2006-10-01), bedoelde boete bedraagt ten hoogste € 450 000, of, indien dat meer is, 10% van de omzet van de onderneming dan wel, indien de overtreding door een ondernemersvereniging is begaan, van de gezamenlijke omzet van de daarvan deel uitmakende ondernemingen, in het boekjaar voorafgaande aan de beschikking.
+1. De in [artikel 56, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=7&paragraaf=1&artikel=56&z=2007-01-01&g=2007-01-01), bedoelde boete bedraagt ten hoogste € 450 000, of, indien dat meer is, 10% van de omzet van de onderneming dan wel, indien de overtreding door een ondernemersvereniging is begaan, van de gezamenlijke omzet van de daarvan deel uitmakende ondernemingen, in het boekjaar voorafgaande aan de beschikking.
 
 2. Bij de vaststelling van de hoogte van de boete houdt de raad in ieder geval rekening met de ernst en de duur van de overtreding.
 
@@ -622,7 +612,7 @@ De in [artikel 52, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&h
 
 ##### Artikel 58
 
-1. Een last onder dwangsom als bedoeld in [artikel 56, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=7&paragraaf=1&artikel=56&z=2006-10-01&g=2006-10-01), strekt ertoe de overtreding ongedaan te maken of verdere overtreding dan wel herhaling van de overtreding te voorkomen. Aan een last kunnen voorschriften worden verbonden inzake het verstrekken van gegevens aan de raad.
+1. Een last onder dwangsom als bedoeld in [artikel 56, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=7&paragraaf=1&artikel=56&z=2007-01-01&g=2007-01-01), strekt ertoe de overtreding ongedaan te maken of verdere overtreding dan wel herhaling van de overtreding te voorkomen. Aan een last kunnen voorschriften worden verbonden inzake het verstrekken van gegevens aan de raad.
 
 2. Een last geldt voor een door de raad te bepalen termijn van ten hoogste twee jaren.
 
@@ -632,7 +622,7 @@ De in [artikel 52, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&h
 
 ##### Artikel 59
 
-1. Indien de raad na afloop van het onderzoek een redelijk vermoeden heeft dat een overtreding als bedoeld in [artikel 56, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=7&paragraaf=1&artikel=56&z=2006-10-01&g=2006-10-01), is begaan en dat daarvoor een boete of een last onder dwangsom dient te worden opgelegd, doet hij een rapport opmaken.
+1. Indien de raad na afloop van het onderzoek een redelijk vermoeden heeft dat een overtreding als bedoeld in [artikel 56, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=7&paragraaf=1&artikel=56&z=2007-01-01&g=2007-01-01), is begaan en dat daarvoor een boete of een last onder dwangsom dient te worden opgelegd, doet hij een rapport opmaken.
 
 2. In het rapport worden in ieder geval vermeld:
 
@@ -652,13 +642,13 @@ De in [artikel 52, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&h
 
 ##### Artikel 60
 
-1. In afwijking van [afdeling 4.1.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.1.2) worden de belanghebbenden schriftelijk opgeroepen om naar keuze schriftelijk of mondeling hun zienswijze naar voren te brengen omtrent het in [artikel 59, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=7&paragraaf=2&artikel=59&z=2006-10-01&g=2006-10-01), bedoelde rapport.
+1. In afwijking van [afdeling 4.1.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.1.2) worden de belanghebbenden schriftelijk opgeroepen om naar keuze schriftelijk of mondeling hun zienswijze naar voren te brengen omtrent het in [artikel 59, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=7&paragraaf=2&artikel=59&z=2007-01-01&g=2007-01-01), bedoelde rapport.
 
 2. Het rapport en alle verder op de zaak betrekking hebbende stukken worden gedurende een periode van ten minste vier weken voor belanghebbenden ter inzage gelegd. Bij de in het eerste lid bedoelde oproeping wordt vermeld waar en wanneer de stukken ter inzage zullen liggen.
 
 3. De [artikelen 3:11, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:11), en [3:16, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:16) zijn van toepassing.
 
-4. Indien een onderneming of ondernemersvereniging als bedoeld in [artikel 59, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=7&paragraaf=2&artikel=59&z=2006-10-01&g=2006-10-01), haar zienswijze mondeling naar voren brengt, draagt de raad er op verzoek van degene die de Nederlandse taal onvoldoende begrijpt, zorg voor dat een tolk wordt benoemd die de betrokkene bij het horen kan bijstaan, tenzij redelijkerwijs kan worden aangenomen dat daaraan geen behoefte bestaat.
+4. Indien een onderneming of ondernemersvereniging als bedoeld in [artikel 59, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=7&paragraaf=2&artikel=59&z=2007-01-01&g=2007-01-01), haar zienswijze mondeling naar voren brengt, draagt de raad er op verzoek van degene die de Nederlandse taal onvoldoende begrijpt, zorg voor dat een tolk wordt benoemd die de betrokkene bij het horen kan bijstaan, tenzij redelijkerwijs kan worden aangenomen dat daaraan geen behoefte bestaat.
 
 ##### Artikel 61
 
@@ -674,29 +664,29 @@ De in [artikel 52, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&h
 
 2. In de beschikking waarbij een boete of een last onder dwangsom wordt opgelegd, worden in ieder geval vermeld:
 
-- a. indien een boete wordt opgelegd: de te betalen geldsom, alsmede een toelichting op de hoogte daarvan, met inachtneming van [artikel 57, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=7&paragraaf=1&artikel=57&z=2006-10-01&g=2006-10-01);
+- a. indien een boete wordt opgelegd: de te betalen geldsom, alsmede een toelichting op de hoogte daarvan, met inachtneming van [artikel 57, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=7&paragraaf=1&artikel=57&z=2007-01-01&g=2007-01-01);
 
 - b. indien een last wordt opgelegd: de inhoud van de last en de termijn waarvoor deze geldt;
 
 - c. de overtreding ter zake waarvan de boete of last wordt opgelegd, alsmede het overtreden wettelijk voorschrift;
 
-- d. de in [artikel 59, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=7&paragraaf=2&artikel=59&z=2006-10-01&g=2006-10-01), bedoelde gegevens.
+- d. de in [artikel 59, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=7&paragraaf=2&artikel=59&z=2007-01-01&g=2007-01-01), bedoelde gegevens.
 
 3. Op verzoek van degene tot wie de beschikking is gericht, die de beschikking wegens zijn gebrekkige kennis van de Nederlandse taal onvoldoende begrijpt, draagt de raad er zoveel mogelijk zorg voor dat de in die beschikking vermelde informatie aan hem wordt meegedeeld in een voor hem begrijpelijke taal.
 
 ##### Artikel 63
 
-1. De werking van een beschikking als bedoeld in [artikel 62, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=7&paragraaf=3&artikel=62&z=2006-10-01&g=2006-10-01), wordt opgeschort totdat de beroepstermijn is verstreken of, indien beroep is ingesteld, op het beroep is beslist.
+1. De werking van een beschikking als bedoeld in [artikel 62, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=7&paragraaf=3&artikel=62&z=2007-01-01&g=2007-01-01), wordt opgeschort totdat de beroepstermijn is verstreken of, indien beroep is ingesteld, op het beroep is beslist.
 
 2. Het eerste lid geldt niet voor zover in de beschikking een last onder dwangsom is opgelegd, en de raad zulks in de beschikking uitdrukkelijk heeft bepaald.
 
 ##### Artikel 64
 
-De bevoegdheid tot het opleggen van een boete of een last onder dwangsom als bedoeld in [artikel 56, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=7&paragraaf=1&artikel=56&z=2006-10-01&g=2006-10-01), vervalt vijf jaren nadat de overtreding is begaan.
+De bevoegdheid tot het opleggen van een boete of een last onder dwangsom als bedoeld in [artikel 56, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=7&paragraaf=1&artikel=56&z=2007-01-01&g=2007-01-01), vervalt vijf jaren nadat de overtreding is begaan.
 
 ##### Artikel 65
 
-1. Een beschikking als bedoeld in [artikel 62, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=7&paragraaf=3&artikel=62&z=2006-10-01&g=2006-10-01), wordt, nadat zij is bekendgemaakt, ter inzage gelegd bij de mededingingsautoriteit.
+1. Een beschikking als bedoeld in [artikel 62, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=7&paragraaf=3&artikel=62&z=2007-01-01&g=2007-01-01), wordt, nadat zij is bekendgemaakt, ter inzage gelegd bij de mededingingsautoriteit.
 
 2. Van de beschikking wordt mededeling gedaan in de **Staatscourant**. Gegevens die ingevolge [artikel 10 van de Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252&artikel=10) niet voor verstrekking in aanmerking komen, worden niet ter inzage gelegd.
 
@@ -720,7 +710,7 @@ De bevoegdheid tot het opleggen van een boete of een last onder dwangsom als bed
 
 ##### Artikel 68
 
-1. Bij gebreke van betaling binnen de in [artikel 67, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=7&paragraaf=5&artikel=67&z=2006-10-01&g=2006-10-01), bedoelde termijn van twee weken kan de raad de verschuldigde boete, verhoogd met de krachtens [artikel 67, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=7&paragraaf=5&artikel=67&z=2006-10-01&g=2006-10-01), verschuldigde rente en de op de aanmaning en invordering betrekking hebbende kosten, invorderen bij dwangbevel.
+1. Bij gebreke van betaling binnen de in [artikel 67, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=7&paragraaf=5&artikel=67&z=2007-01-01&g=2007-01-01), bedoelde termijn van twee weken kan de raad de verschuldigde boete, verhoogd met de krachtens [artikel 67, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=7&paragraaf=5&artikel=67&z=2007-01-01&g=2007-01-01), verschuldigde rente en de op de aanmaning en invordering betrekking hebbende kosten, invorderen bij dwangbevel.
 
 2. Het dwangbevel wordt op kosten van degene die de boete is verschuldigd bij deurwaardersexploit betekend en levert een executoriale titel op in de zin van het [Tweede Boek van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827).
 
@@ -734,19 +724,19 @@ De bevoegdheid tot het opleggen van een boete of een last onder dwangsom als bed
 
 ##### Artikel 69
 
-1. De raad kan degene die jegens de in [artikel 50, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=6&paragraaf=1&artikel=50&z=2006-10-01&g=2006-10-01), [artikel 52, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=6&paragraaf=2&artikel=52&z=2006-10-01&g=2006-10-01), of [artikel 89g, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=10&artikel=89g&z=2006-10-01&g=2006-10-01), bedoelde ambtenaren in strijd handelt met [artikel 5:20, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20), een boete opleggen van ten hoogste € 450 000,- of, indien het een onderneming of een ondernemersvereniging betreft en indien dat meer is, van ten hoogste 1% van de omzet van de onderneming, onderscheidenlijk van de gezamenlijke omzet van de ondernemingen die van de vereniging deel uitmaken, in het boekjaar voorafgaande aan de beschikking.
+1. De raad kan degene die jegens de in [artikel 50, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=6&paragraaf=1&artikel=50&z=2007-01-01&g=2007-01-01), [artikel 52, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=6&paragraaf=2&artikel=52&z=2007-01-01&g=2007-01-01), of [artikel 89g, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=10&artikel=89g&z=2007-01-01&g=2007-01-01), bedoelde ambtenaren in strijd handelt met [artikel 5:20, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20), een boete opleggen van ten hoogste € 450 000,- of, indien het een onderneming of een ondernemersvereniging betreft en indien dat meer is, van ten hoogste 1% van de omzet van de onderneming, onderscheidenlijk van de gezamenlijke omzet van de ondernemingen die van de vereniging deel uitmaken, in het boekjaar voorafgaande aan de beschikking.
 
 2. De raad legt geen boete op indien de belanghebbende aannemelijk maakt dat hem van de overtreding geen verwijt kan worden gemaakt.
 
 3. [Artikel 184 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=184) is niet van toepassing op de in het eerste lid bedoelde overtreding.
 
-4. [Artikel 57, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=7&paragraaf=1&artikel=57&z=2006-10-01&g=2006-10-01), is van toepassing.
+4. [Artikel 57, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=7&paragraaf=1&artikel=57&z=2007-01-01&g=2007-01-01), is van toepassing.
 
 ##### Artikel 70
 
-1. Ingeval de in [artikel 69, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=8&paragraaf=1&artikel=69&z=2006-10-01&g=2006-10-01), bedoelde overtreding een weigering inhoudt medewerking te verlenen aan de toepassing van [artikel 5:17, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:17) kan de raad een last onder dwangsom opleggen om inzage te verlenen in in die last aangegeven zakelijke gegevens en bescheiden.
+1. Ingeval de in [artikel 69, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=8&paragraaf=1&artikel=69&z=2007-01-01&g=2007-01-01), bedoelde overtreding een weigering inhoudt medewerking te verlenen aan de toepassing van [artikel 5:17, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:17) kan de raad een last onder dwangsom opleggen om inzage te verlenen in in die last aangegeven zakelijke gegevens en bescheiden.
 
-2. Een boete als bedoeld in [artikel 69, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=8&paragraaf=1&artikel=69&z=2006-10-01&g=2006-10-01), en een last als bedoeld in het eerste lid van dit artikel, kunnen te zamen worden opgelegd.
+2. Een boete als bedoeld in [artikel 69, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=8&paragraaf=1&artikel=69&z=2007-01-01&g=2007-01-01), en een last als bedoeld in het eerste lid van dit artikel, kunnen te zamen worden opgelegd.
 
 3. De [artikelen 5:32, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:32), [5:33](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:33), [5:34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:34), en [5:35 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:35) zijn van toepassing op de in het eerste lid bedoelde last.
 
@@ -754,7 +744,7 @@ De bevoegdheid tot het opleggen van een boete of een last onder dwangsom als bed
 
 ##### Artikel 70a
 
-1. De raad kan ingeval van overtreding van [artikel 25b, eerste, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=4a&artikel=25b&z=2006-10-01&g=2006-10-01), of van [artikel 25e, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=4a&artikel=25e&z=2006-10-01&g=2006-10-01), de natuurlijke persoon of rechtspersoon aan wie de overtreding kan worden toegerekend:
+1. De raad kan ingeval van overtreding van [artikel 25b, eerste, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=4a&artikel=25b&z=2007-01-01&g=2007-01-01), of van [artikel 25e, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=4a&artikel=25e&z=2007-01-01&g=2007-01-01), de natuurlijke persoon of rechtspersoon aan wie de overtreding kan worden toegerekend:
 
 - a. een boete opleggen van ten hoogste € 22 500;
 
@@ -770,29 +760,29 @@ De bevoegdheid tot het opleggen van een boete of een last onder dwangsom als bed
 
 ##### Artikel 71
 
-Indien op grond van [artikel 40, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5&paragraaf=3&artikel=40&z=2006-10-01&g=2006-10-01), of van [artikel 46, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5&paragraaf=4&artikel=46&z=2006-10-01&g=2006-10-01), aan een ontheffing als in het desbetreffende artikel bedoeld verbonden voorschriften niet worden nageleefd, kan de raad de natuurlijke persoon of rechtspersoon, aan wie die overtreding kan worden toegerekend, een boete opleggen van ten hoogste € 4 500.
+Indien op grond van [artikel 40, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5&paragraaf=3&artikel=40&z=2007-01-01&g=2007-01-01), of van [artikel 46, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5&paragraaf=4&artikel=46&z=2007-01-01&g=2007-01-01), aan een ontheffing als in het desbetreffende artikel bedoeld verbonden voorschriften niet worden nageleefd, kan de raad de natuurlijke persoon of rechtspersoon, aan wie die overtreding kan worden toegerekend, een boete opleggen van ten hoogste € 4 500.
 
 ##### Artikel 72
 
-De raad kan degene, die in strijd handelt met [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5&paragraaf=4&artikel=43&z=2006-10-01&g=2006-10-01), een boete opleggen van ten hoogste € 4 500.
+De raad kan degene, die in strijd handelt met [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5&paragraaf=4&artikel=43&z=2007-01-01&g=2007-01-01), een boete opleggen van ten hoogste € 4 500.
 
 ##### Artikel 73
 
-De raad kan degene die onjuiste of onvolledige gegevens verstrekt bij een melding van een concentratie op grond van [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5&paragraaf=3&artikel=34&z=2006-10-01&g=2006-10-01) of bij een aanvraag om een vergunning voor het tot stand brengen van een concentratie als bedoeld in [artikel 41, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5&paragraaf=4&artikel=41&z=2006-10-01&g=2006-10-01), een boete opleggen van ten hoogste € 22 500.
+De raad kan degene die onjuiste of onvolledige gegevens verstrekt bij een melding van een concentratie op grond van [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5&paragraaf=3&artikel=34&z=2007-01-01&g=2007-01-01) of bij een aanvraag om een vergunning voor het tot stand brengen van een concentratie als bedoeld in [artikel 41, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5&paragraaf=4&artikel=41&z=2007-01-01&g=2007-01-01), een boete opleggen van ten hoogste € 22 500.
 
 ##### Artikel 74
 
 1. De raad kan ingeval van overtreding van:
 
-- 1°. [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5&paragraaf=3&artikel=34&z=2006-10-01&g=2006-10-01),
+- 1°. [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5&paragraaf=3&artikel=34&z=2007-01-01&g=2007-01-01),
 
-- 2°. [artikel 39, tweede lid, onder **a** of **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5&paragraaf=3&artikel=39&z=2006-10-01&g=2006-10-01),
+- 2°. [artikel 39, tweede lid, onder **a** of **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5&paragraaf=3&artikel=39&z=2007-01-01&g=2007-01-01),
 
-- 3°. [artikel 40, derde lid, onder **a** of **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5&paragraaf=3&artikel=40&z=2006-10-01&g=2006-10-01),
+- 3°. [artikel 40, derde lid, onder **a** of **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5&paragraaf=3&artikel=40&z=2007-01-01&g=2007-01-01),
 
-- 4°. [artikel 41, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5&paragraaf=4&artikel=41&z=2006-10-01&g=2006-10-01),
+- 4°. [artikel 41, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5&paragraaf=4&artikel=41&z=2007-01-01&g=2007-01-01),
 
-- 5°. [artikel 46, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5&paragraaf=4&artikel=46&z=2006-10-01&g=2006-10-01), de natuurlijke persoon of rechtspersoon, aan wie de overtreding kan worden toegerekend,
+- 5°. [artikel 46, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5&paragraaf=4&artikel=46&z=2007-01-01&g=2007-01-01), de natuurlijke persoon of rechtspersoon, aan wie de overtreding kan worden toegerekend,
 
 - a. een boete opleggen van ten hoogste € 22 500;
 
@@ -804,7 +794,7 @@ De raad kan degene die onjuiste of onvolledige gegevens verstrekt bij een meldin
 
 ##### Artikel 75
 
-1. Indien op grond van [artikel 41, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5&paragraaf=4&artikel=41&z=2006-10-01&g=2006-10-01), aan een vergunning verbonden voorschriften niet worden nageleefd, kan de raad de natuurlijke persoon of rechtspersoon, aan wie deze overtreding kan worden toegerekend,
+1. Indien op grond van [artikel 41, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5&paragraaf=4&artikel=41&z=2007-01-01&g=2007-01-01), aan een vergunning verbonden voorschriften niet worden nageleefd, kan de raad de natuurlijke persoon of rechtspersoon, aan wie deze overtreding kan worden toegerekend,
 
 - a. een boete opleggen van ten hoogste € 22 500;
 
@@ -816,13 +806,13 @@ De raad kan degene die onjuiste of onvolledige gegevens verstrekt bij een meldin
 
 ##### Artikel 76
 
-Een boete op grond van [artikel 71](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=8&paragraaf=2&artikel=71&z=2006-10-01&g=2006-10-01), [72](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=8&paragraaf=2&artikel=72&z=2006-10-01&g=2006-10-01), [73](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=8&paragraaf=2&artikel=73&z=2006-10-01&g=2006-10-01), [74, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=8&paragraaf=2&artikel=74&z=2006-10-01&g=2006-10-01), of [75, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=8&paragraaf=2&artikel=75&z=2006-10-01&g=2006-10-01), wordt niet opgelegd indien de belanghebbende aannemelijk maakt dat hem van de overtreding geen verwijt kan worden gemaakt.
+Een boete op grond van [artikel 71](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=8&paragraaf=2&artikel=71&z=2007-01-01&g=2007-01-01), [72](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=8&paragraaf=2&artikel=72&z=2007-01-01&g=2007-01-01), [73](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=8&paragraaf=2&artikel=73&z=2007-01-01&g=2007-01-01), [74, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=8&paragraaf=2&artikel=74&z=2007-01-01&g=2007-01-01), of [75, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=8&paragraaf=2&artikel=75&z=2007-01-01&g=2007-01-01), wordt niet opgelegd indien de belanghebbende aannemelijk maakt dat hem van de overtreding geen verwijt kan worden gemaakt.
 
 #### § 4. Wijziging of intrekking van de last onder dwangsom
 
 ##### Artikel 77
 
-1. Indien een ambtenaar als bedoeld in [artikel 52, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=6&paragraaf=2&artikel=52&z=2006-10-01&g=2006-10-01), vaststelt dat een overtreding als bedoeld in [artikel 69, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=8&paragraaf=1&artikel=69&z=2006-10-01&g=2006-10-01), [70a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=8&paragraaf=1a&artikel=70a&z=2006-10-01&g=2006-10-01), [71](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=8&paragraaf=2&artikel=71&z=2006-10-01&g=2006-10-01), [72](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=8&paragraaf=2&artikel=72&z=2006-10-01&g=2006-10-01), [73](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=8&paragraaf=2&artikel=73&z=2006-10-01&g=2006-10-01), [74, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=8&paragraaf=2&artikel=74&z=2006-10-01&g=2006-10-01), of [75, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=8&paragraaf=2&artikel=75&z=2006-10-01&g=2006-10-01), is begaan, maakt hij daarvan een rapport op.
+1. Indien een ambtenaar als bedoeld in [artikel 52, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=6&paragraaf=2&artikel=52&z=2007-01-01&g=2007-01-01), vaststelt dat een overtreding als bedoeld in [artikel 69, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=8&paragraaf=1&artikel=69&z=2007-01-01&g=2007-01-01), [70a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=8&paragraaf=1a&artikel=70a&z=2007-01-01&g=2007-01-01), [71](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=8&paragraaf=2&artikel=71&z=2007-01-01&g=2007-01-01), [72](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=8&paragraaf=2&artikel=72&z=2007-01-01&g=2007-01-01), [73](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=8&paragraaf=2&artikel=73&z=2007-01-01&g=2007-01-01), [74, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=8&paragraaf=2&artikel=74&z=2007-01-01&g=2007-01-01), of [75, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=8&paragraaf=2&artikel=75&z=2007-01-01&g=2007-01-01), is begaan, maakt hij daarvan een rapport op.
 
 2. In het rapport worden in ieder geval vermeld:
 
@@ -842,7 +832,7 @@ Een boete op grond van [artikel 71](https://wetten.overheid.nl/jci1.3:c:BWBR0008
 
 ##### Artikel 78
 
-1. In afwijking van [afdeling 4.1.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.1.2) worden de belanghebbenden schriftelijk opgeroepen om naar keuze schriftelijk of mondeling hun zienswijze naar voren te brengen omtrent het in [artikel 77, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=8&paragraaf=3&artikel=77&z=2006-10-01&g=2006-10-01), bedoelde rapport.
+1. In afwijking van [afdeling 4.1.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.1.2) worden de belanghebbenden schriftelijk opgeroepen om naar keuze schriftelijk of mondeling hun zienswijze naar voren te brengen omtrent het in [artikel 77, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=8&paragraaf=3&artikel=77&z=2007-01-01&g=2007-01-01), bedoelde rapport.
 
 2. Indien de raad voornemens is een last onder dwangsom op te leggen, stelt hij belanghebbenden tevens in de gelegenheid schriftelijk of mondeling hun zienswijze kenbaar te maken over de voorgenomen last.
 
@@ -850,7 +840,7 @@ Een boete op grond van [artikel 71](https://wetten.overheid.nl/jci1.3:c:BWBR0008
 
 ##### Artikel 79
 
-1. Een boete als bedoeld in de [artikelen 69, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=8&paragraaf=1&artikel=69&z=2006-10-01&g=2006-10-01), [70a, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=8&paragraaf=1a&artikel=70a&z=2006-10-01&g=2006-10-01), [71](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=8&paragraaf=2&artikel=71&z=2006-10-01&g=2006-10-01), [72](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=8&paragraaf=2&artikel=72&z=2006-10-01&g=2006-10-01), [73](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=8&paragraaf=2&artikel=73&z=2006-10-01&g=2006-10-01), [74, eerste lid, onder **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=8&paragraaf=2&artikel=74&z=2006-10-01&g=2006-10-01), en [75, eerste lid, onder **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=8&paragraaf=2&artikel=75&z=2006-10-01&g=2006-10-01), en een last als bedoeld in de [artikelen 70, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=8&paragraaf=1&artikel=70&z=2006-10-01&g=2006-10-01), [70a, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=8&paragraaf=1a&artikel=70a&z=2006-10-01&g=2006-10-01), [artikel 74, eerste lid, onder **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=8&paragraaf=2&artikel=74&z=2006-10-01&g=2006-10-01), en [artikel 75, eerste lid, onder **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=8&paragraaf=2&artikel=75&z=2006-10-01&g=2006-10-01), wordt opgelegd bij beschikking van de raad.
+1. Een boete als bedoeld in de [artikelen 69, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=8&paragraaf=1&artikel=69&z=2007-01-01&g=2007-01-01), [70a, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=8&paragraaf=1a&artikel=70a&z=2007-01-01&g=2007-01-01), [71](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=8&paragraaf=2&artikel=71&z=2007-01-01&g=2007-01-01), [72](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=8&paragraaf=2&artikel=72&z=2007-01-01&g=2007-01-01), [73](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=8&paragraaf=2&artikel=73&z=2007-01-01&g=2007-01-01), [74, eerste lid, onder **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=8&paragraaf=2&artikel=74&z=2007-01-01&g=2007-01-01), en [75, eerste lid, onder **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=8&paragraaf=2&artikel=75&z=2007-01-01&g=2007-01-01), en een last als bedoeld in de [artikelen 70, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=8&paragraaf=1&artikel=70&z=2007-01-01&g=2007-01-01), [70a, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=8&paragraaf=1a&artikel=70a&z=2007-01-01&g=2007-01-01), [artikel 74, eerste lid, onder **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=8&paragraaf=2&artikel=74&z=2007-01-01&g=2007-01-01), en [artikel 75, eerste lid, onder **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=8&paragraaf=2&artikel=75&z=2007-01-01&g=2007-01-01), wordt opgelegd bij beschikking van de raad.
 
 2. In de beschikking worden in ieder geval vermeld:
 
@@ -858,35 +848,35 @@ Een boete op grond van [artikel 71](https://wetten.overheid.nl/jci1.3:c:BWBR0008
 
 - b. indien een last wordt opgelegd: de inhoud van de last en de termijn waarvoor deze geldt;
 
-- c. de in [artikel 77, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=8&paragraaf=3&artikel=77&z=2006-10-01&g=2006-10-01), bedoelde gegevens.
+- c. de in [artikel 77, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=8&paragraaf=3&artikel=77&z=2007-01-01&g=2007-01-01), bedoelde gegevens.
 
 3. Op verzoek van degene tot wie de beschikking is gericht, die de beschikking wegens zijn gebrekkige kennis van de Nederlandse taal onvoldoende begrijpt, draagt de raad er zoveel mogelijk zorg voor dat de in die beschikking vermelde informatie aan de betrokkene wordt meegedeeld in een voor hem begrijpelijke taal.
 
-4. De beschikking dient te worden gegeven binnen dertien weken nadat een rapport als bedoeld in [artikel 77, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=8&paragraaf=3&artikel=77&z=2006-10-01&g=2006-10-01), is opgemaakt.
+4. De beschikking dient te worden gegeven binnen dertien weken nadat een rapport als bedoeld in [artikel 77, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=8&paragraaf=3&artikel=77&z=2007-01-01&g=2007-01-01), is opgemaakt.
 
 ##### Artikel 80
 
-1. De werking van een beschikking als bedoeld in [artikel 79, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=8&paragraaf=3&artikel=79&z=2006-10-01&g=2006-10-01), wordt opgeschort totdat de beroepstermijn is verstreken of, indien beroep is ingesteld, op het beroep is beslist.
+1. De werking van een beschikking als bedoeld in [artikel 79, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=8&paragraaf=3&artikel=79&z=2007-01-01&g=2007-01-01), wordt opgeschort totdat de beroepstermijn is verstreken of, indien beroep is ingesteld, op het beroep is beslist.
 
 2. Het eerste lid geldt niet voorzover in de beschikking een last onder dwangsom is opgelegd, en de raad zulks in de beschikking uitdrukkelijk heeft bepaald.
 
 ##### Artikel 81
 
-De [artikelen 67](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=7&paragraaf=5&artikel=67&z=2006-10-01&g=2006-10-01) en [68](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=7&paragraaf=5&artikel=68&z=2006-10-01&g=2006-10-01) zijn van toepassing op de in de [artikelen 69, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=8&paragraaf=1&artikel=69&z=2006-10-01&g=2006-10-01), [70a, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=8&paragraaf=1a&artikel=70a&z=2006-10-01&g=2006-10-01), [71](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=8&paragraaf=2&artikel=71&z=2006-10-01&g=2006-10-01), [72](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=8&paragraaf=2&artikel=72&z=2006-10-01&g=2006-10-01), [73](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=8&paragraaf=2&artikel=73&z=2006-10-01&g=2006-10-01), [74, eerste lid, onder **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=8&paragraaf=2&artikel=74&z=2006-10-01&g=2006-10-01), en [75, eerste lid, onder **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=8&paragraaf=2&artikel=75&z=2006-10-01&g=2006-10-01), bedoelde boete.
+De [artikelen 67](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=7&paragraaf=5&artikel=67&z=2007-01-01&g=2007-01-01) en [68](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=7&paragraaf=5&artikel=68&z=2007-01-01&g=2007-01-01) zijn van toepassing op de in de [artikelen 69, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=8&paragraaf=1&artikel=69&z=2007-01-01&g=2007-01-01), [70a, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=8&paragraaf=1a&artikel=70a&z=2007-01-01&g=2007-01-01), [71](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=8&paragraaf=2&artikel=71&z=2007-01-01&g=2007-01-01), [72](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=8&paragraaf=2&artikel=72&z=2007-01-01&g=2007-01-01), [73](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=8&paragraaf=2&artikel=73&z=2007-01-01&g=2007-01-01), [74, eerste lid, onder **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=8&paragraaf=2&artikel=74&z=2007-01-01&g=2007-01-01), en [75, eerste lid, onder **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=8&paragraaf=2&artikel=75&z=2007-01-01&g=2007-01-01), bedoelde boete.
 
 ##### Artikel 82
 
-De bevoegdheid tot het opleggen van een boete als bedoeld in de [artikelen 69, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=8&paragraaf=1&artikel=69&z=2006-10-01&g=2006-10-01), [71](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=8&paragraaf=2&artikel=71&z=2006-10-01&g=2006-10-01), [72](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=8&paragraaf=2&artikel=72&z=2006-10-01&g=2006-10-01), [73](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=8&paragraaf=2&artikel=73&z=2006-10-01&g=2006-10-01), [74, eerste lid, onder **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=8&paragraaf=2&artikel=74&z=2006-10-01&g=2006-10-01), en [75, eerste lid, onder **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=8&paragraaf=2&artikel=75&z=2006-10-01&g=2006-10-01), vervalt twee jaren nadat de overtreding is begaan.
+De bevoegdheid tot het opleggen van een boete als bedoeld in de [artikelen 69, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=8&paragraaf=1&artikel=69&z=2007-01-01&g=2007-01-01), [71](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=8&paragraaf=2&artikel=71&z=2007-01-01&g=2007-01-01), [72](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=8&paragraaf=2&artikel=72&z=2007-01-01&g=2007-01-01), [73](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=8&paragraaf=2&artikel=73&z=2007-01-01&g=2007-01-01), [74, eerste lid, onder **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=8&paragraaf=2&artikel=74&z=2007-01-01&g=2007-01-01), en [75, eerste lid, onder **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=8&paragraaf=2&artikel=75&z=2007-01-01&g=2007-01-01), vervalt twee jaren nadat de overtreding is begaan.
 
 ##### Artikel 82a
 
-De bevoegdheid tot het opleggen van een boete of een last onder dwangsom als bedoeld in [artikel 70a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=8&paragraaf=1a&artikel=70a&z=2006-10-01&g=2006-10-01), vervalt vijf jaren nadat de overtreding is begaan.
+De bevoegdheid tot het opleggen van een boete of een last onder dwangsom als bedoeld in [artikel 70a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=8&paragraaf=1a&artikel=70a&z=2007-01-01&g=2007-01-01), vervalt vijf jaren nadat de overtreding is begaan.
 
 ### Hoofdstuk 9. Voorlopige last onder dwangsom
 
 ##### Artikel 83
 
-1. De raad kan een voorlopige last onder dwangsom opleggen, indien naar zijn voorlopig oordeel aannemelijk is dat [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=3&paragraaf=1&artikel=6&z=2006-10-01&g=2006-10-01), of [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=4&paragraaf=1&artikel=24&z=2006-10-01&g=2006-10-01), is overtreden, en onverwijlde spoed, gelet op de belangen van de door de overtreding getroffen ondernemingen of het belang van instandhouding van een daadwerkelijke mededinging, dat vereist.
+1. De raad kan een voorlopige last onder dwangsom opleggen, indien naar zijn voorlopig oordeel aannemelijk is dat [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=3&paragraaf=1&artikel=6&z=2007-01-01&g=2007-01-01), of [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=4&paragraaf=1&artikel=24&z=2007-01-01&g=2007-01-01), is overtreden, en onverwijlde spoed, gelet op de belangen van de door de overtreding getroffen ondernemingen of het belang van instandhouding van een daadwerkelijke mededinging, dat vereist.
 
 2. Een voorlopige last verplicht de natuurlijke persoon of rechtspersoon, aan wie de overtreding voorshands kan worden toegerekend, tot het verrichten of nalaten van in die last omschreven feitelijke gedragingen of rechtshandelingen.
 
@@ -906,19 +896,19 @@ De bevoegdheid tot het opleggen van een boete of een last onder dwangsom als bed
 
 3. De voorlopige last vervalt in ieder geval:
 
-- a. indien niet binnen zes maanden nadat de beschikking is gegeven een rapport als bedoeld in [artikel 59, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=7&paragraaf=2&artikel=59&z=2006-10-01&g=2006-10-01), is opgemaakt, op het tijdstip waarop die zes maanden zijn verstreken;
+- a. indien niet binnen zes maanden nadat de beschikking is gegeven een rapport als bedoeld in [artikel 59, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=7&paragraaf=2&artikel=59&z=2007-01-01&g=2007-01-01), is opgemaakt, op het tijdstip waarop die zes maanden zijn verstreken;
 
-- b. indien binnen de onder **a** bedoelde termijn het daar bedoelde rapport is opgemaakt, zodra een beschikking als bedoeld in [artikel 62, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=7&paragraaf=3&artikel=62&z=2006-10-01&g=2006-10-01), is gegeven.
+- b. indien binnen de onder **a** bedoelde termijn het daar bedoelde rapport is opgemaakt, zodra een beschikking als bedoeld in [artikel 62, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=7&paragraaf=3&artikel=62&z=2007-01-01&g=2007-01-01), is gegeven.
 
 ##### Artikel 86
 
-Op een beschikking omtrent een voorlopige last is [artikel 65](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=7&paragraaf=3&artikel=65&z=2006-10-01&g=2006-10-01) van overeenkomstige toepassing.
+Op een beschikking omtrent een voorlopige last is [artikel 65](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=7&paragraaf=3&artikel=65&z=2007-01-01&g=2007-01-01) van overeenkomstige toepassing.
 
 ##### Artikel 87
 
 1. De raad kan een voorlopige last opheffen of wijzigen.
 
-2. De [artikelen 84](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=9&artikel=84&z=2006-10-01&g=2006-10-01), [85](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=9&artikel=85&z=2006-10-01&g=2006-10-01) en [86](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=9&artikel=86&z=2006-10-01&g=2006-10-01) zijn van overeenkomstige toepassing.
+2. De [artikelen 84](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=9&artikel=84&z=2007-01-01&g=2007-01-01), [85](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=9&artikel=85&z=2007-01-01&g=2007-01-01) en [86](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=9&artikel=86&z=2007-01-01&g=2007-01-01) zijn van overeenkomstige toepassing.
 
 ### Hoofdstuk 10. Toepassing van de EG-mededingingsregels
 
@@ -928,7 +918,7 @@ De raad wordt aangemerkt als de mededingingsautoriteit voor Nederland in de zin 
 
 ##### Artikel 89
 
-Ter zake van de uitoefening van de in [artikel 88](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=10&artikel=88&z=2006-10-01&g=2006-10-01) bedoelde bevoegdheden zijn de [hoofdstukken 6](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=6&z=2006-10-01&g=2006-10-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=7&z=2006-10-01&g=2006-10-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=9&z=2006-10-01&g=2006-10-01) van overeenkomstige toepassing.
+Ter zake van de uitoefening van de in [artikel 88](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=10&artikel=88&z=2007-01-01&g=2007-01-01) bedoelde bevoegdheden zijn de [hoofdstukken 6](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=6&z=2007-01-01&g=2007-01-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=7&z=2007-01-01&g=2007-01-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=9&z=2007-01-01&g=2007-01-01) van overeenkomstige toepassing.
 
 ### Hoofdstuk 11. Gebruik van gegevens
 
@@ -938,7 +928,7 @@ Gegevens of inlichtingen omtrent een onderneming, welke in verband met enige wer
 
 ##### Artikel 91
 
-In afwijking van [artikel 90](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=11&artikel=90&z=2006-10-01&g=2006-10-01) is de raad bevoegd gegevens of inlichtingen, verkregen bij de uitoefening van de hem in deze wet opgedragen taken, te verstrekken aan:
+In afwijking van [artikel 90](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=11&artikel=90&z=2007-01-01&g=2007-01-01) is de raad bevoegd gegevens of inlichtingen, verkregen bij de uitoefening van de hem in deze wet opgedragen taken, te verstrekken aan:
 
 - 1°. een buitenlandse instelling, die op grond van nationale wettelijke regels is belast met de toepassing van mededingingsregels, voor zover die gegevens of inlichtingen van betekenis zijn of kunnen zijn voor de uitoefening van de taak van die instelling en de verstrekking ervan naar het oordeel van de raad in het belang is van de Nederlandse economie,
 
@@ -954,7 +944,7 @@ mits
 
 ##### Artikel 92
 
-1. Over een bezwaar tegen een beschikking als bedoeld in [artikel 62, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=7&paragraaf=3&artikel=62&z=2006-10-01&g=2006-10-01), adviseert een commissie als bedoeld in [artikel 7:13 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:13).
+1. Over een bezwaar tegen een beschikking als bedoeld in [artikel 62, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=7&paragraaf=3&artikel=62&z=2007-01-01&g=2007-01-01), adviseert een commissie als bedoeld in [artikel 7:13 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:13).
 
 2. De leden van de in het eerste lid bedoelde adviescommissie zijn niet werkzaam bij het Ministerie van Economische Zaken of bij de mededingingsautoriteit. Een lid van de raad kan evenmin deel uitmaken van een dergelijke adviescommissie.
 
@@ -962,7 +952,7 @@ mits
 
 1. In afwijking van [artikel 8:7 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:7) is voor beroepen tegen besluiten op grond van deze wet de rechtbank te Rotterdam bevoegd.
 
-2. Ten aanzien van besluiten als bedoeld in de [artikelen 37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5&paragraaf=3&artikel=37&z=2006-10-01&g=2006-10-01), en [44, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5&paragraaf=4&artikel=44&z=2006-10-01&g=2006-10-01), blijft [artikel 7:1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:1) buiten toepassing.
+2. Ten aanzien van besluiten als bedoeld in de [artikelen 37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5&paragraaf=3&artikel=37&z=2007-01-01&g=2007-01-01), en [44, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5&paragraaf=4&artikel=44&z=2007-01-01&g=2007-01-01), blijft [artikel 7:1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:1) buiten toepassing.
 
 ### Hoofdstuk 13. Wijzigingen in andere wetten
 
@@ -994,9 +984,9 @@ Wijzigt de Wet op de Raad van State.
 
 ##### Artikel 100
 
-1. Voor de toepassing van [verordening (EEG) nr. 4064/89](onbekend) van de Raad van de Europese Gemeenschappen van 21 december 1989 betreffende de controle op concentraties van ondernemingen (PbEG 1990, L 257) ingevolge artikel 26, tweede lid, van [verordening 139/2004](onbekend), is [artikel 88](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=10&artikel=88&z=2006-10-01&g=2006-10-01) van overeenkomstige toepassing.
+1. Voor de toepassing van [verordening (EEG) nr. 4064/89](onbekend) van de Raad van de Europese Gemeenschappen van 21 december 1989 betreffende de controle op concentraties van ondernemingen (PbEG 1990, L 257) ingevolge artikel 26, tweede lid, van [verordening 139/2004](onbekend), is [artikel 88](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=10&artikel=88&z=2007-01-01&g=2007-01-01) van overeenkomstige toepassing.
 
-2. Voor de toepassing van artikel 12, eerste lid, of artikel 13, vijfde en zesde lid, van [verordening (EEG) nr. 4064/89](onbekend) van de Raad van de Europese Gemeenschappen van 21 december 1989 betreffende de controle op concentraties van ondernemingen (PbEG 1990, L 257) ingevolge artikel 26, tweede lid, van [verordening 139/2004](onbekend), zijn onderscheidenlijk [artikel 89g](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=10&artikel=89g&z=2006-10-01&g=2006-10-01) of de [artikelen 89b](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=10&artikel=89b&z=2006-10-01&g=2006-10-01), [89c](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=10&artikel=89c&z=2006-10-01&g=2006-10-01), [89e](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=10&artikel=89e&z=2006-10-01&g=2006-10-01) en [89f](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=10&artikel=89f&z=2006-10-01&g=2006-10-01) van overeenkomstige toepassing.
+2. Voor de toepassing van artikel 12, eerste lid, of artikel 13, vijfde en zesde lid, van [verordening (EEG) nr. 4064/89](onbekend) van de Raad van de Europese Gemeenschappen van 21 december 1989 betreffende de controle op concentraties van ondernemingen (PbEG 1990, L 257) ingevolge artikel 26, tweede lid, van [verordening 139/2004](onbekend), zijn onderscheidenlijk [artikel 89g](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=10&artikel=89g&z=2007-01-01&g=2007-01-01) of de [artikelen 89b](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=10&artikel=89b&z=2007-01-01&g=2007-01-01), [89c](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=10&artikel=89c&z=2007-01-01&g=2007-01-01), [89e](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=10&artikel=89e&z=2007-01-01&g=2007-01-01) en [89f](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=10&artikel=89f&z=2007-01-01&g=2007-01-01) van overeenkomstige toepassing.
 
 ##### Artikel 101
 
@@ -1012,21 +1002,21 @@ Vervallen
 
 ##### Artikel 104
 
-1. Een op grond van artikel 24, eerste lid, onder **b**, van de Wet economische mededinging genomen beschikking wordt vanaf het tijdstip van inwerkingtreding van [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=4&paragraaf=1&artikel=24&z=2006-10-01&g=2006-10-01) aangemerkt als een last als bedoeld in [artikel 56, eerste lid, onder **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=7&paragraaf=1&artikel=56&z=2006-10-01&g=2006-10-01), met dien verstande dat [artikel 58, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=7&paragraaf=1&artikel=58&z=2006-10-01&g=2006-10-01), niet van toepassing is. De directeur-generaal beslist binnen zes weken na het genoemde tijdstip omtrent de dwangsom die aan die last wordt verbonden.
+1. Een op grond van artikel 24, eerste lid, onder **b**, van de Wet economische mededinging genomen beschikking wordt vanaf het tijdstip van inwerkingtreding van [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=4&paragraaf=1&artikel=24&z=2007-01-01&g=2007-01-01) aangemerkt als een last als bedoeld in [artikel 56, eerste lid, onder **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=7&paragraaf=1&artikel=56&z=2007-01-01&g=2007-01-01), met dien verstande dat [artikel 58, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=7&paragraaf=1&artikel=58&z=2007-01-01&g=2007-01-01), niet van toepassing is. De directeur-generaal beslist binnen zes weken na het genoemde tijdstip omtrent de dwangsom die aan die last wordt verbonden.
 
-2. Een op grond van artikel 27, eerste lid, van de Wet economische mededinging genomen beschikking wordt vanaf het tijdstip van inwerkingtreding van [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=4&paragraaf=1&artikel=24&z=2006-10-01&g=2006-10-01) aangemerkt als een voorlopige last als bedoeld in [artikel 83, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=9&artikel=83&z=2006-10-01&g=2006-10-01), met dien verstande dat die last, in afwijking van de in [artikel 85, derde lid, onderdeel **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=9&artikel=85&z=2006-10-01&g=2006-10-01), genoemde termijn, vervalt indien niet binnen drie maanden na het genoemde tijdstip een rapport als bedoeld in [artikel 59, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=7&paragraaf=2&artikel=59&z=2006-10-01&g=2006-10-01), is opgemaakt ter zake van overtreding van [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=4&paragraaf=1&artikel=24&z=2006-10-01&g=2006-10-01), op het tijdstip waarop die drie maanden zijn verstreken. De directeur-generaal beslist binnen vier weken na het tijdstip van inwerkingtreding van [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=4&paragraaf=1&artikel=24&z=2006-10-01&g=2006-10-01) omtrent de dwangsom die aan die voorlopige last wordt verbonden.
+2. Een op grond van artikel 27, eerste lid, van de Wet economische mededinging genomen beschikking wordt vanaf het tijdstip van inwerkingtreding van [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=4&paragraaf=1&artikel=24&z=2007-01-01&g=2007-01-01) aangemerkt als een voorlopige last als bedoeld in [artikel 83, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=9&artikel=83&z=2007-01-01&g=2007-01-01), met dien verstande dat die last, in afwijking van de in [artikel 85, derde lid, onderdeel **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=9&artikel=85&z=2007-01-01&g=2007-01-01), genoemde termijn, vervalt indien niet binnen drie maanden na het genoemde tijdstip een rapport als bedoeld in [artikel 59, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=7&paragraaf=2&artikel=59&z=2007-01-01&g=2007-01-01), is opgemaakt ter zake van overtreding van [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=4&paragraaf=1&artikel=24&z=2007-01-01&g=2007-01-01), op het tijdstip waarop die drie maanden zijn verstreken. De directeur-generaal beslist binnen vier weken na het tijdstip van inwerkingtreding van [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=4&paragraaf=1&artikel=24&z=2007-01-01&g=2007-01-01) omtrent de dwangsom die aan die voorlopige last wordt verbonden.
 
 ##### Artikel 105
 
-1. Indien op het tijdstip van inwerkingtreding van [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=4&paragraaf=1&artikel=24&z=2006-10-01&g=2006-10-01) ter zake van een beschikking, genomen op grond van artikel 24, eerste lid, onder **b**, of artikel 27, eerste lid, van de Wet economische mededinging, de in [artikel 6:7 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:7) genoemde termijn voor het indienen van een bezwaarschrift nog niet is verstreken en voorts nog geen bezwaar is gemaakt, geldt voor de toepassing van [artikel 6:7](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:7) het tijdstip van inwerkingtreding van [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=4&paragraaf=1&artikel=24&z=2006-10-01&g=2006-10-01) als tijdstip van bekendmaking van de beschikking. Het bezwaarschrift wordt ingediend bij de directeur-generaal en behandeld met toepassing van het recht zoals het geldt na het genoemde tijdstip.
+1. Indien op het tijdstip van inwerkingtreding van [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=4&paragraaf=1&artikel=24&z=2007-01-01&g=2007-01-01) ter zake van een beschikking, genomen op grond van artikel 24, eerste lid, onder **b**, of artikel 27, eerste lid, van de Wet economische mededinging, de in [artikel 6:7 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:7) genoemde termijn voor het indienen van een bezwaarschrift nog niet is verstreken en voorts nog geen bezwaar is gemaakt, geldt voor de toepassing van [artikel 6:7](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:7) het tijdstip van inwerkingtreding van [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=4&paragraaf=1&artikel=24&z=2007-01-01&g=2007-01-01) als tijdstip van bekendmaking van de beschikking. Het bezwaarschrift wordt ingediend bij de directeur-generaal en behandeld met toepassing van het recht zoals het geldt na het genoemde tijdstip.
 
-2. Ten aanzien van de behandeling van bezwaar of beroep dat voor het tijdstip van inwerkingtreding van [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=4&paragraaf=1&artikel=24&z=2006-10-01&g=2006-10-01) is gemaakt onderscheidenlijk ingesteld met betrekking tot een beschikking, genomen op grond van artikel 24, eerste lid, onder **b**, of artikel 27, eerste lid, van de Wet economische mededinging, blijft het recht zoals het gold voor dat tijdstip van toepassing.
+2. Ten aanzien van de behandeling van bezwaar of beroep dat voor het tijdstip van inwerkingtreding van [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=4&paragraaf=1&artikel=24&z=2007-01-01&g=2007-01-01) is gemaakt onderscheidenlijk ingesteld met betrekking tot een beschikking, genomen op grond van artikel 24, eerste lid, onder **b**, of artikel 27, eerste lid, van de Wet economische mededinging, blijft het recht zoals het gold voor dat tijdstip van toepassing.
 
-3. Ten aanzien van het instellen van beroep tegen een op grond van het tweede lid gegeven beschikking op bezwaar en ten aanzien van de behandeling van het beroep, blijft het recht zoals het gold voor het tijdstip van inwerkingtreding van [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=4&paragraaf=1&artikel=24&z=2006-10-01&g=2006-10-01) van toepassing.
+3. Ten aanzien van het instellen van beroep tegen een op grond van het tweede lid gegeven beschikking op bezwaar en ten aanzien van de behandeling van het beroep, blijft het recht zoals het gold voor het tijdstip van inwerkingtreding van [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=4&paragraaf=1&artikel=24&z=2007-01-01&g=2007-01-01) van toepassing.
 
 ##### Artikel 106
 
-De straffen en maatregelen, gesteld op overtredingen van voorschriften gesteld bij of krachtens de Wet economische mededinging, die een economisch delict opleveren en die zijn begaan voor het tijdstip waarop [artikel 94](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=13&artikel=94&z=2006-10-01&g=2006-10-01) in werking treedt, blijven van toepassing.
+De straffen en maatregelen, gesteld op overtredingen van voorschriften gesteld bij of krachtens de Wet economische mededinging, die een economisch delict opleveren en die zijn begaan voor het tijdstip waarop [artikel 94](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=13&artikel=94&z=2007-01-01&g=2007-01-01) in werking treedt, blijven van toepassing.
 
 ### Hoofdstuk 15. Slotbepalingen
 
@@ -1036,7 +1026,7 @@ De straffen en maatregelen, gesteld op overtredingen van voorschriften gesteld b
 
 2. Vervallen.
 
-3. [Artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5&paragraaf=2&artikel=32&z=2006-10-01&g=2006-10-01) vervalt twee jaar na het tijdstip van inwerkingtreding.
+3. [Artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5&paragraaf=2&artikel=32&z=2007-01-01&g=2007-01-01) vervalt twee jaar na het tijdstip van inwerkingtreding.
 
 ##### Artikel 108
 
@@ -1054,7 +1044,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 89a
 
-1. De raad oefent de krachtens [artikel 29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5&paragraaf=2&artikel=29&z=2006-10-01&g=2006-10-01), van [verordening 1/2003](onbekend) bestaande bevoegdheid uit tot het buiten toepassing verklaren van een groepsvrijstelling.
+1. De raad oefent de krachtens [artikel 29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5&paragraaf=2&artikel=29&z=2007-01-01&g=2007-01-01), van [verordening 1/2003](onbekend) bestaande bevoegdheid uit tot het buiten toepassing verklaren van een groepsvrijstelling.
 
 2. Op de voorbereiding van de beschikking is [afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) van toepassing.
 
@@ -1062,7 +1052,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 89b
 
-1. Met het verlenen van bijstand bij een inspectie op grond van een mededingingsverordening door de Commissie van de Europese Gemeenschappen, zijn belast de krachtens [artikel 50, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=6&paragraaf=1&artikel=50&z=2006-10-01&g=2006-10-01), aangewezen ambtenaren.
+1. Met het verlenen van bijstand bij een inspectie op grond van een mededingingsverordening door de Commissie van de Europese Gemeenschappen, zijn belast de krachtens [artikel 50, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=6&paragraaf=1&artikel=50&z=2007-01-01&g=2007-01-01), aangewezen ambtenaren.
 
 2. [Artikel 5:12 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:12) is van overeenkomstige toepassing.
 
@@ -1088,7 +1078,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 89e
 
-1. Een machtiging als bedoeld in [artikel 89c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=10&artikel=89c&z=2006-10-01&g=2006-10-01), of [artikel 89d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=10&artikel=89d&z=2006-10-01&g=2006-10-01), is met redenen omkleed en ondertekend en vermeldt:
+1. Een machtiging als bedoeld in [artikel 89c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=10&artikel=89c&z=2007-01-01&g=2007-01-01), of [artikel 89d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=10&artikel=89d&z=2007-01-01&g=2007-01-01), is met redenen omkleed en ondertekend en vermeldt:
 
 - a. de naam van de rechter-commissaris die de machtiging heeft gegeven;
 
@@ -1132,9 +1122,9 @@ Uitreiking of toezending geschiedt in dat geval, zodra het belang van dit doel h
 
 ##### Artikel 89g
 
-1. Met het verrichten van een inspectie op grond van een mededingingsverordening door de mededingingsautoriteit op verzoek van de Commissie van de Europese Gemeenschappen, zijn belast de krachtens [artikel 50, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=6&paragraaf=1&artikel=50&z=2006-10-01&g=2006-10-01), aangewezen ambtenaren.
+1. Met het verrichten van een inspectie op grond van een mededingingsverordening door de mededingingsautoriteit op verzoek van de Commissie van de Europese Gemeenschappen, zijn belast de krachtens [artikel 50, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=6&paragraaf=1&artikel=50&z=2007-01-01&g=2007-01-01), aangewezen ambtenaren.
 
-2. De aangewezen ambtenaren beschikken voor het verrichten van de inspectie over de bevoegdheden die hun ingevolge [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=6&z=2006-10-01&g=2006-10-01) zijn toegekend ter uitoefening van toezicht en onderzoek.
+2. De aangewezen ambtenaren beschikken voor het verrichten van de inspectie over de bevoegdheden die hun ingevolge [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=6&z=2007-01-01&g=2007-01-01) zijn toegekend ter uitoefening van toezicht en onderzoek.
 
 ##### Artikel 89h
 
@@ -1186,7 +1176,7 @@ Onze Minister stelt de bezoldiging en de overige regels ten aanzien van de recht
 
 ##### Artikel 5a
 
-1. Onze Minister stelt ten behoeve van de uitvoering van de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=2&paragraaf=2&artikel=5&z=2006-10-01&g=2006-10-01) bedoelde taken personeel ter beschikking van de raad.
+1. Onze Minister stelt ten behoeve van de uitvoering van de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=2&paragraaf=2&artikel=5&z=2007-01-01&g=2007-01-01) bedoelde taken personeel ter beschikking van de raad.
 
 2. Het personeel staat onder gezag van de raad en legt over werkzaamheden uitsluitend aan hem verantwoording af.
 
@@ -1222,7 +1212,7 @@ Onze Minister stelt de bezoldiging en de overige regels ten aanzien van de recht
 
 1. Onze Minister kan beleidsregels vaststellen met betrekking tot de uitoefening van de aan de raad toegekende bevoegdheden.
 
-2. Beleidsregels met betrekking tot de uitoefening van de in deze wet aan de raad toegekende bevoegdheden kunnen betrekking hebben of mede betrekking hebben op de wijze waarop de raad bij toepassing van [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=3&paragraaf=1&artikel=6&z=2006-10-01&g=2006-10-01), andere belangen dan economische belangen in zijn afweging moet betrekken.
+2. Beleidsregels met betrekking tot de uitoefening van de in deze wet aan de raad toegekende bevoegdheden kunnen betrekking hebben of mede betrekking hebben op de wijze waarop de raad bij toepassing van [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=3&paragraaf=1&artikel=6&z=2007-01-01&g=2007-01-01), andere belangen dan economische belangen in zijn afweging moet betrekken.
 
 3. De bekendmaking van de beleidsregels geschiedt door plaatsing in de Staatscourant.
 
@@ -1238,13 +1228,13 @@ Onze Minister stelt de bezoldiging en de overige regels ten aanzien van de recht
 
 2. De voorzieningen worden, spoedeisende gevallen uitgezonderd, niet eerder getroffen dan nadat de raad in de gelegenheid is gesteld om binnen een door Onze Minister te stellen termijn alsnog zijn taak naar behoren uit te voeren.
 
-3. Indien de in het eerste lid bedoelde taakverwaarlozing betrekking heeft op werkzaamheden ten behoeve van de uitvoering van een andere wet als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=2&paragraaf=2&artikel=5&z=2006-10-01&g=2006-10-01), treft Onze Minister de voorzieningen na overleg met Onze andere Minister wie het aangaat.
+3. Indien de in het eerste lid bedoelde taakverwaarlozing betrekking heeft op werkzaamheden ten behoeve van de uitvoering van een andere wet als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=2&paragraaf=2&artikel=5&z=2007-01-01&g=2007-01-01), treft Onze Minister de voorzieningen na overleg met Onze andere Minister wie het aangaat.
 
 4. Onze Minister stelt de beide kamers der Staten-Generaal onverwijld in kennis van door hem getroffen voorzieningen als bedoeld in het eerste lid.
 
 ##### Artikel 5g
 
-1. De raad stelt jaarlijks voor 1 juli een jaarverslag op. Het jaarverslag heeft betrekking op de uitvoering van deze wet en op de uitvoering van andere wetten als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=2&paragraaf=2&artikel=5&z=2006-10-01&g=2006-10-01) voor zover in die wet niet is voorzien in een afzonderlijke verplichting tot het opstellen van een verslag.
+1. De raad stelt jaarlijks voor 1 juli een jaarverslag op. Het jaarverslag heeft betrekking op de uitvoering van deze wet en op de uitvoering van andere wetten als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=2&paragraaf=2&artikel=5&z=2007-01-01&g=2007-01-01) voor zover in die wet niet is voorzien in een afzonderlijke verplichting tot het opstellen van een verslag.
 
 2. Het verslag wordt gezonden aan Onze Minister en in voorkomend geval mede aan Onze andere Minister wie het aangaat en wordt algemeen verkrijgbaar gesteld.
 
@@ -1254,7 +1244,7 @@ Onze Minister stelt de bezoldiging en de overige regels ten aanzien van de recht
 
 1. Onze Minister zendt elke vijf jaar aan de Staten-Generaal een verslag over de doeltreffendheid en doelmatigheid van het functioneren van de raad.
 
-2. Voor zover het verslag betrekking heeft op de werkzaamheden ten behoeve van de uitvoering van een andere wet als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=2&paragraaf=2&artikel=5&z=2006-10-01&g=2006-10-01), stelt Onze Minister het verslag op na overleg met Onze andere Minister wie het aangaat.
+2. Voor zover het verslag betrekking heeft op de werkzaamheden ten behoeve van de uitvoering van een andere wet als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=2&paragraaf=2&artikel=5&z=2007-01-01&g=2007-01-01), stelt Onze Minister het verslag op na overleg met Onze andere Minister wie het aangaat.
 
 ##### Artikel 5i
 
@@ -1304,7 +1294,7 @@ De raad kan uitvoeringsregels vaststellen ter uitvoering van de aan hem opgedrag
 
 ##### Artikel 54a
 
-De werkzaamheden in verband met de uitvoering van de [artikelen 60](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=7&paragraaf=2&artikel=60&z=2006-10-01&g=2006-10-01), [61](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=7&paragraaf=2&artikel=61&z=2006-10-01&g=2006-10-01), [62](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=7&paragraaf=3&artikel=62&z=2006-10-01&g=2006-10-01), [78](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=8&paragraaf=3&artikel=78&z=2006-10-01&g=2006-10-01) en [79](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=8&paragraaf=3&artikel=79&z=2006-10-01&g=2006-10-01) worden verricht door personen die niet betrokken zijn geweest bij de opstelling van het in [artikel 59, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=7&paragraaf=2&artikel=59&z=2006-10-01&g=2006-10-01), onderscheidenlijk [77, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=8&paragraaf=3&artikel=77&z=2006-10-01&g=2006-10-01), bedoelde rapport en het daaraan voorafgaande onderzoek.
+De werkzaamheden in verband met de uitvoering van de [artikelen 60](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=7&paragraaf=2&artikel=60&z=2007-01-01&g=2007-01-01), [61](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=7&paragraaf=2&artikel=61&z=2007-01-01&g=2007-01-01), [62](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=7&paragraaf=3&artikel=62&z=2007-01-01&g=2007-01-01), [78](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=8&paragraaf=3&artikel=78&z=2007-01-01&g=2007-01-01) en [79](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=8&paragraaf=3&artikel=79&z=2007-01-01&g=2007-01-01) worden verricht door personen die niet betrokken zijn geweest bij de opstelling van het in [artikel 59, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=7&paragraaf=2&artikel=59&z=2007-01-01&g=2007-01-01), onderscheidenlijk [77, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=8&paragraaf=3&artikel=77&z=2007-01-01&g=2007-01-01), bedoelde rapport en het daaraan voorafgaande onderzoek.
 
 ### Hoofdstuk 7. Overtredingen verbod van mededingingsafspraken en verbod van misbruik van een economische machtspositie
 
@@ -1334,9 +1324,9 @@ De werkzaamheden in verband met de uitvoering van de [artikelen 60](https://wett
 
 ##### Artikel 93a
 
-1. Overeenkomstig bij of krachtens algemene maatregel van bestuur te stellen regels is een vergoeding verschuldigd voor het geven van een beschikking als bedoeld in de [artikelen 25](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=4&paragraaf=2&artikel=25&z=2006-10-01&g=2006-10-01), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5&paragraaf=3&artikel=37&z=2006-10-01&g=2006-10-01), [40](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5&paragraaf=3&artikel=40&z=2006-10-01&g=2006-10-01), [44](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5&paragraaf=4&artikel=44&z=2006-10-01&g=2006-10-01), [46](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5&paragraaf=4&artikel=46&z=2006-10-01&g=2006-10-01) en [47](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5&paragraaf=4&artikel=47&z=2006-10-01&g=2006-10-01) voor ten hoogste de kosten die gemoeid zijn met het geven van die beschikkingen.
+1. Overeenkomstig bij of krachtens algemene maatregel van bestuur te stellen regels is een vergoeding verschuldigd voor het geven van een beschikking als bedoeld in de [artikelen 25](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=4&paragraaf=2&artikel=25&z=2007-01-01&g=2007-01-01), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5&paragraaf=3&artikel=37&z=2007-01-01&g=2007-01-01), [40](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5&paragraaf=3&artikel=40&z=2007-01-01&g=2007-01-01), [44](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5&paragraaf=4&artikel=44&z=2007-01-01&g=2007-01-01), [46](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5&paragraaf=4&artikel=46&z=2007-01-01&g=2007-01-01) en [47](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5&paragraaf=4&artikel=47&z=2007-01-01&g=2007-01-01) voor ten hoogste de kosten die gemoeid zijn met het geven van die beschikkingen.
 
-2. Een vergoeding als bedoeld in het eerste lid is verschuldigd door de aanvrager, dan wel, indien sprake is van een beschikking op grond van de [artikelen 37](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5&paragraaf=3&artikel=37&z=2006-10-01&g=2006-10-01) of [40](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5&paragraaf=3&artikel=40&z=2006-10-01&g=2006-10-01), door degene die de melding heeft gedaan.
+2. Een vergoeding als bedoeld in het eerste lid is verschuldigd door de aanvrager, dan wel, indien sprake is van een beschikking op grond van de [artikelen 37](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5&paragraaf=3&artikel=37&z=2007-01-01&g=2007-01-01) of [40](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5&paragraaf=3&artikel=40&z=2007-01-01&g=2007-01-01), door degene die de melding heeft gedaan.
 
 3. Indien een ingevolge het eerste lid verschuldigd bedrag niet is betaald binnen de termijn, gesteld bij algemene maatregel van bestuur, wordt het desbetreffende bedrag vermeerderd met de wettelijke rente, te rekenen vanaf de dag waarop die termijn is verstreken.
 
@@ -1344,9 +1334,9 @@ De werkzaamheden in verband met de uitvoering van de [artikelen 60](https://wett
 
 ##### Artikel 93b
 
-1. Bij gebreke van betaling binnen de in [artikel 93a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=12a&artikel=93a&z=2006-10-01&g=2006-10-01), gestelde termijn kan het verschuldigde bedrag, verhoogd met de wettelijke rente en de op de aanmaning betrekking hebbende kosten, worden ingevorderd bij dwangbevel.
+1. Bij gebreke van betaling binnen de in [artikel 93a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=12a&artikel=93a&z=2007-01-01&g=2007-01-01), gestelde termijn kan het verschuldigde bedrag, verhoogd met de wettelijke rente en de op de aanmaning betrekking hebbende kosten, worden ingevorderd bij dwangbevel.
 
-2. [Artikel 68, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=7&paragraaf=5&artikel=68&z=2006-10-01&g=2006-10-01), is van toepassing.
+2. [Artikel 68, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=7&paragraaf=5&artikel=68&z=2007-01-01&g=2007-01-01), is van toepassing.
 
 ### Hoofdstuk 13. Wijzigingen in andere wetten
 
