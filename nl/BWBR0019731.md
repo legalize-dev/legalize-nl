@@ -4,7 +4,7 @@ identifier: "BWBR0019731"
 country: "nl"
 rank: "amvb"
 publication_date: "2015-11-01"
-last_updated: "2006-12-31"
+last_updated: "2007-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019731"
 soort: "AMvB"
@@ -48,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-1. In het jaarverslag van een vennootschap, waarvan aandelen of met medewerking van de vennootschap uitgegeven certificaten van aandelen zijn toegelaten tot de handel op een op grond van [artikel 22 van de Wet toezicht effectenverkeer 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&artikel=22) erkende effectenbeurs of op een in een andere lidstaat van de Europese Unie gevestigde gereglementeerde markt als bedoeld in artikel 1, onder 13, van [richtlijn nr. 93/22/EEG](31993L0022) van de raad van de Europese Gemeenschappen van 10 mei 1993 betreffende het verrichten van diensten op het gebied van beleggingen in effecten (PbEG L 141) , wordt mededeling gedaan omtrent:
+1. In het jaarverslag van een vennootschap, waarvan aandelen of met medewerking van de vennootschap uitgegeven certificaten van aandelen zijn toegelaten tot de handel op een op grond van [artikel 5:26 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:26) erkende effectenbeurs of op een in een andere lidstaat van de Europese Unie gevestigde gereglementeerde markt als bedoeld in artikel 1, onder 13, van [richtlijn nr. 93/22/EEG](31993L0022) van de raad van de Europese Gemeenschappen van 10 mei 1993 betreffende het verrichten van diensten op het gebied van beleggingen in effecten (PbEG L 141) , wordt mededeling gedaan omtrent:
 
 - a. de kapitaalstructuur van de vennootschap, het bestaan van verschillende soorten aandelen en de daaraan verbonden rechten en plichten en het percentage van het geplaatste kapitaal dat door elke soort wordt vertegenwoordigd;
 
@@ -68,13 +68,13 @@ Hebben goedgevonden en verstaan:
 
 - i. de bevoegdheden van het bestuur, in het bijzonder tot de uitgifte van aandelen van de vennootschap en de verkrijging van eigen aandelen door de vennootschap;
 
-- j. belangrijke overeenkomsten waarbij de vennootschap partij is en die tot stand komen, worden gewijzigd of ontbonden onder de voorwaarde van een wijziging van zeggenschap over de vennootschap nadat een openbaar bod in de zin van [artikel 6a](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&artikel=6a) of artikel 6e van de Wet toezicht effectenverkeer 1995 is uitgebracht, alsmede de gevolgen van die overeenkomsten, tenzij de overeenkomsten of gevolgen zodanig van aard zijn dat de vennootschap door de mededeling ernstig wordt geschaad;
+- j. belangrijke overeenkomsten waarbij de vennootschap partij is en die tot stand komen, worden gewijzigd of ontbonden onder de voorwaarde van een wijziging van zeggenschap over de vennootschap nadat een openbaar bod in de zin van [artikel 5:70 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:70) is uitgebracht, alsmede de gevolgen van die overeenkomsten, tenzij de overeenkomsten of gevolgen zodanig van aard zijn dat de vennootschap door de mededeling ernstig wordt geschaad;
 
-- k. elke overeenkomst van de vennootschap met een bestuurder of werknemer die voorziet in een uitkering bij beëindiging van het dienstverband naar aanleiding van een openbaar bod in de zin van [artikel 6a](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&artikel=6a) of artikel 6e van de Wet toezicht effectenverkeer 1995.
+- k. elke overeenkomst van de vennootschap met een bestuurder of werknemer die voorziet in een uitkering bij beëindiging van het dienstverband naar aanleiding van een openbaar bod in de zin van [artikel 5:70 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:70).
 
 2. Een toelichtend verslag omtrent de mededelingen bedoeld in het eerste lid wordt opgenomen in het jaarverslag.
 
-3. Het eerste lid is niet van toepassing op een vennootschap in de zin van [artikel 1, onderdeel a, van de Wet toezicht beleggingstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0004809&artikel=1), waarvan de rechten van deelneming, op verzoek van de deelnemers, ten laste van de activa van deze beleggingsmaatschappij direct of indirect worden ingekocht of terugbetaald.
+3. Het eerste lid is niet van toepassing op een beleggingsmaatschappij in de zin van [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1), waarvan de rechten van deelneming, op verzoek van de deelnemers, ten laste van de activa van deze beleggingsmaatschappij direct of indirect worden ingekocht of terugbetaald.
 
 ##### Artikel 2
 
