@@ -4,7 +4,7 @@ identifier: "BWBR0020000"
 country: "nl"
 rank: "wet"
 publication_date: "2007-01-01"
-last_updated: "2006-10-01"
+last_updated: "2007-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020000"
 soort: "wet"
@@ -49,7 +49,7 @@ Wijzigt de Wet op de orgaandonatie.
 
 ##### Artikel II
 
-Onze minister draagt ervoor zorg dat binnen drie jaar na het tijdstip waarop krachtens een algemene maatregel van bestuur, bedoeld in [artikel 10, vijfde lid, van de Wet op de orgaandonatie](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&artikel=10), voor het eerst donorformulieren worden toegezonden aan nieuw ingeschrevenen, aan iedere ingezetene als bedoeld in de [Wet gemeentelijke basisadministratie persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0006723) die op genoemd tijdstip reeds de leeftijd van achttien jaar heeft bereikt en aan wie nog geen donorformulier is toegezonden, alsnog een donorformulier wordt toegezonden.
+Onze minister draagt ervoor zorg dat binnen drie jaar na het tijdstip waarop krachtens een algemene maatregel van bestuur, bedoeld in [artikel 10, vierde lid, van de Wet op de orgaandonatie](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&artikel=10), voor het eerst donorformulieren worden toegezonden aan nieuw ingeschrevenen, aan iedere ingezetene als bedoeld in de [Wet gemeentelijke basisadministratie persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0006723) die op genoemd tijdstip reeds de leeftijd van achttien jaar heeft bereikt en aan wie nog geen donorformulier is toegezonden, alsnog een donorformulier wordt toegezonden.
 
 ##### Artikel III
 
