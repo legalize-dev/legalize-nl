@@ -4,7 +4,7 @@ identifier: "BWBR0023289"
 country: "nl"
 rank: "wet"
 publication_date: "2013-01-01"
-last_updated: "2006-10-01"
+last_updated: "2007-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023289"
 soort: "wet"
@@ -47,7 +47,7 @@ Wijzigt de Algemene wet bestuursrecht.
 
 ##### Artikel III
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Algemene Wet Bijzondere Ziektekosten.
 
 ##### Artikel IV
 
@@ -55,7 +55,7 @@ Wijzigt de Beroepswet.
 
 ##### Artikel V
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Infectieziektenwet.
 
 ##### Artikel VI
 
@@ -63,55 +63,55 @@ Wijzigt de Invoerings- en aanpassingswet Zorgverzekeringswet.
 
 ##### Artikel VII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Invoeringswet Wet financiering sociale verzekeringen.
 
 ##### Artikel VIII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Verzamelwet sociale verzekeringen 2006 (Stb. 2005/708).
 
 ##### Artikel IX
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Warenwet.
 
 ##### Artikel X
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet financiering sociale verzekeringen.
 
 ##### Artikel XI
 
-Dit onderdeel is nog niet inwerking getreden
+De Wet herziening overeenkomstenstelsel zorg wordt ingetrokken.
 
 ##### Artikel XII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers.
 
 ##### Artikel XIII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet inzake bloedvoorziening.
 
 ##### Artikel XIV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet kinderopvang.
 
 ##### Artikel XV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet klachtrecht cliënten zorgsector.
 
 ##### Artikel XVI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet marktordening gezondheidszorg.
 
 ##### Artikel XVII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet medisch-wetenschappelijk onderzoek met mensen.
 
 ##### Artikel XVIII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de orgaandonatie.
 
 ##### Artikel XIX
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet structuur uitvoeringsorganisatie werk en inkomen.
 
 ##### Artikel XX
 
@@ -119,15 +119,23 @@ Wijzigt de Wet toelating zorginstellingen.
 
 ##### Artikel XXI
 
-Dit onderdeel is nog niet inwerking getreden
+Ingetrokken worden:
+
+- a. de [Wet van 2 februari 1995 tot wijziging van de Wet op de jeugdhulpverlening en enige andere wetten](https://wetten.overheid.nl/jci1.3:c:BWBR0007228) (Stb. 225);
+
+- b. de [Wet van 29 mei 1997 tot wijziging van de Wet op de jeugdhulpverlening in verband met medezeggenschap](https://wetten.overheid.nl/jci1.3:c:BWBR0008704) (Stb. 272);
+
+- c. de [Wet van 29 mei 1997 tot wijziging van de Wet op de jeugdhulpverlening in verband met het klachtrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0008705) (Stb. 273);
+
+- d. de [Wet van 26 september 2002 tot wijziging van de Wet op de jeugdhulpverlening in verband met de advies- en meldpunten kindermishandeling](https://wetten.overheid.nl/jci1.3:c:BWBR0014071) (Stb. 515).
 
 ##### Artikel XXII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wijzigingswet Wet bijzondere opnemingen in psychiatrische ziekenhuizen (voorwaardelijke machtiging en observatiemachtiging).
 
 ##### Artikel XXIII
 
-Dit onderdeel is nog niet inwerking getreden
+De [Wet van 14 november 2002 tot wijziging van de Ziekenfondswet in verband met het opheffen van de afzonderlijke kas van het Algemeen Ziekenfonds voor Zeelieden (opheffing kas zeelieden)](https://wetten.overheid.nl/jci1.3:c:BWBR0014281) (Stb. 583) wordt ingetrokken.
 
 ##### Artikel XXV
 
@@ -143,16 +151,30 @@ Wijzigt de Wet voorzieningen gehandicapten.
 
 ##### Artikel XXVIII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet maatschappelijke ondersteuning.
 
 ##### Artikel XXIX
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Opiumwet.
 
 ##### Artikel XXX
 
-Dit onderdeel is nog niet inwerking getreden
+1. De artikelen van deze wet, met uitzondering van artikel XXIV, dat in werking treedt met ingang van 1 januari 2009, treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
+
+2. De [artikelen I](https://wetten.overheid.nl/jci1.3:c:BWBR0023289&artikel=I&z=2007-01-01&g=2007-01-01), [II](https://wetten.overheid.nl/jci1.3:c:BWBR0023289&artikel=II&z=2007-01-01&g=2007-01-01), [IV](https://wetten.overheid.nl/jci1.3:c:BWBR0023289&artikel=IV&z=2007-01-01&g=2007-01-01), [VI, onderdelen A tot en met E en G](https://wetten.overheid.nl/jci1.3:c:BWBR0023289&artikel=VI&z=2007-01-01&g=2007-01-01), [XX, onderdelen C, D, E, en F](https://wetten.overheid.nl/jci1.3:c:BWBR0023289&artikel=XX&z=2007-01-01&g=2007-01-01), [XXVI, onderdelen D, J en O](https://wetten.overheid.nl/jci1.3:c:BWBR0023289&artikel=XXVI&z=2007-01-01&g=2007-01-01), en [XXVII](https://wetten.overheid.nl/jci1.3:c:BWBR0023289&artikel=XXVII&z=2007-01-01&g=2007-01-01) werken terug tot en met 1 januari 2006.
+
+3. [Artikel XXV](https://wetten.overheid.nl/jci1.3:c:BWBR0023289&artikel=XXV&z=2007-01-01&g=2007-01-01) werkt terug tot het tijdstip van inwerkingtreding van de [Wet van 23 juni 2006 tot wijziging van de Wet op de orgaandonatie (evaluatie)](https://wetten.overheid.nl/jci1.3:c:BWBR0020000) (Stb. 311).
+
+4. Indien deze wet niet eerder in werking treedt dan 1 januari 2007, werkt [Artikel XXVIII](https://wetten.overheid.nl/jci1.3:c:BWBR0023289&artikel=XXVIII&z=2007-01-01&g=2007-01-01) terug tot dit tijdstip.
 
 ##### Artikel XXXI
 
-Dit onderdeel is nog niet inwerking getreden
+Deze wet wordt aangehaald als: Reparatiewet VWS 2006.
+
+Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
+
+Alzo Wij in overweging genomen hebben, dat het wenselijk is in diverse wetten op of in verband met het terrein van Volksgezondheid, Welzijn en Sport wetstechnische gebreken te herstellen en andere wijzigingen van ondergeschikte aard aan te brengen;
+
+Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
