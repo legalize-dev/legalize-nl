@@ -4,7 +4,7 @@ identifier: "BWBR0017843"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-02-03"
-last_updated: "2005-09-01"
+last_updated: "2007-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017843"
 soort: "AMvB"
@@ -48,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-Dit besluit is van toepassing op een naamloze vennootschap waarvan aandelen of certificaten van aandelen zijn toegelaten tot de officiële notering van een gereglementeerde effectenbeurs in de zin van [artikel 1, onderdeel e, van de Wet toezicht effectenverkeer 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&artikel=1), die onder toezicht staat van de overheid of van een door de overheid erkende autoriteit of instelling, met uitzondering van de beleggingsmaatschappij, bedoeld in [artikel 1, onderdeel a, van de Wet toezicht beleggingsinstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0004809&artikel=1), die geen beheerder is als bedoeld in [artikel 1, onderdeel e, van de die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004809&artikel=1).
+Dit besluit is van toepassing op een naamloze vennootschap waarvan aandelen of certificaten van aandelen zijn toegelaten tot de officiële notering aan een markt in financiële instrumenten als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1), met uitzondering van een beleggingsmaatschappij, bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1) die geen beheerder is als bedoeld in [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1).
 
 ##### Artikel 2
 
@@ -56,7 +56,7 @@ Als gedragscode bedoeld in [artikel 391 lid 4 van boek 2 van het Burgerlijk Wetb
 
 ##### Artikel 3
 
-De naamloze vennootschap doet in het jaarverslag mededeling over de naleving van de principes en best practice bepalingen van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017843&artikel=2&z=2005-09-01&g=2005-09-01) aangewezen gedragscode die zijn gericht tot het bestuur of de raad van commissarissen van de vennootschap. Indien de vennootschap die principes of best practice bepalingen niet heeft nageleefd of niet voornemens is deze in het lopende en daaropvolgende boekjaar na te leven, doet zij daarvan in het jaarverslag gemotiveerd opgave.
+De naamloze vennootschap doet in het jaarverslag mededeling over de naleving van de principes en best practice bepalingen van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017843&artikel=2&z=2007-01-01&g=2007-01-01) aangewezen gedragscode die zijn gericht tot het bestuur of de raad van commissarissen van de vennootschap. Indien de vennootschap die principes of best practice bepalingen niet heeft nageleefd of niet voornemens is deze in het lopende en daaropvolgende boekjaar na te leven, doet zij daarvan in het jaarverslag gemotiveerd opgave.
 
 ##### Artikel 4
 
