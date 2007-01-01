@@ -4,7 +4,7 @@ identifier: "BWBR0007143"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2007-01-01"
-last_updated: "1995-05-01"
+last_updated: "2007-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007143"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ Voor de toepassing van deze regeling wordt verstaan onder:
 
 - b. **pensioen zoals dat op de datum van ontvangst van de mededeling is bereikt:** voor deelnemers: de tijdsevenredige pensioenaanspraak per de datum van ontvangst van de mededeling, voor gewezen deelnemers: het ingegane pensioen of de ten tijde van beëindiging van het deelnemerschap vastgestelde pensioenaanspraak vermeerderd met de eventueel daarna toegepaste verhogingen;
 
-- c. **tijdsevenredige aanspraak: een overeenkomstig** [artikel 8, tweede lid van de Pensioen- en spaarfondsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002089&artikel=8) bepaalde pensioenaanspraak.
+- c. **tijdsevenredige aanspraak:** een overeenkomstig [artikel 8, tweede lid, van de Pensioen- en spaarfondsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002089&artikel=8), zoals dat luidde op de dag voorafgaand aan de inwerkingtreding van de Pensioenwet, bepaalde pensioenaanspraak.
 
 ##### Artikel 2
 
