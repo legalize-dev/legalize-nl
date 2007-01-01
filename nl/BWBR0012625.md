@@ -4,7 +4,7 @@ identifier: "BWBR0012625"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2013-01-01"
-last_updated: "2004-09-10"
+last_updated: "2007-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012625"
 soort: "ministeriele-regeling"
@@ -66,15 +66,15 @@ Besluit:
 
 2. Een geneeskundig onderzoek kan achterwege worden gelaten, indien:
 
-- a. aan de aanvrager eerder een gehandicaptenparkeerkaart is verstrekt en de keurende instantie van oordeel is dat de aanvrager nog steeds voldoet aan de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012625&paragraaf=1&artikel=1&z=2004-09-10&g=2004-09-10) omschreven criteria;
+- a. aan de aanvrager eerder een gehandicaptenparkeerkaart is verstrekt en de keurende instantie van oordeel is dat de aanvrager nog steeds voldoet aan de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012625&paragraaf=1&artikel=1&z=2007-01-01&g=2007-01-01) omschreven criteria;
 
 - b. op grond van [artikel 49, derde lid, van het BABW](https://wetten.overheid.nl/jci1.3:c:BWBR0004826&artikel=49) een gehandicaptenparkeerkaart wordt verstrekt in verband met een kortstondig verblijf.
 
-3. Een geneeskundig onderzoek wordt achterwege gelaten indien een gehandicaptenparkeerkaart is aangevraagd door het bestuur van een instelling als bedoeld in [artikel 1, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0012625&paragraaf=1&artikel=1&z=2004-09-10&g=2004-09-10).
+3. Een geneeskundig onderzoek wordt achterwege gelaten indien een gehandicaptenparkeerkaart is aangevraagd door het bestuur van een instelling als bedoeld in [artikel 1, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0012625&paragraaf=1&artikel=1&z=2007-01-01&g=2007-01-01).
 
 ##### Artikel 3
 
-1. Ingeval de gehandicaptenparkeerkaart wordt afgegeven door het gemeentelijk gezag, bedoeld in [artikel 49 van het BABW](https://wetten.overheid.nl/jci1.3:c:BWBR0004826&artikel=49), wordt het geneeskundig onderzoek verricht door de Gemeentelijke Gezondheidsdienst dan wel - bij externe advisering - door een vanwege het gemeentelijk gezag aangewezen deskundige als bedoeld in [artikel 7 van de Wet voorzieningen gehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0006169&artikel=7).
+1. Ingeval de gehandicaptenparkeerkaart wordt afgegeven door het gemeentelijk gezag, bedoeld in [artikel 49 van het BABW](https://wetten.overheid.nl/jci1.3:c:BWBR0004826&artikel=49), wordt het geneeskundig onderzoek verricht door de Gemeentelijke Gezondheidsdienst dan wel - bij externe advisering - door een vanwege het gemeentelijk gezag aangewezen deskundige.
 
 2. Ingeval de gehandicaptenparkeerkaart wordt afgegeven door de Minister van Verkeer en Waterstaat, wordt het onderzoek verricht door een door de Minister van Verkeer en Waterstaat aan te wijzen arts, die niet de behandelend arts van de aanvrager is.
 
