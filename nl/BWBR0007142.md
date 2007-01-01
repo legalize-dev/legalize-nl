@@ -4,7 +4,7 @@ identifier: "BWBR0007142"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2008-01-01"
-last_updated: "2005-01-01"
+last_updated: "2007-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007142"
 soort: "ministeriele-regeling"
@@ -39,7 +39,7 @@ Besluit:
 
 ##### Artikel 1
 
-Deze regeling geeft uitvoering aan [artikel 18, derde lid, van de Wet waardering onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=18).
+Deze regeling geeft uitvoering aan [artikel 18, vierde lid, van de Wet waardering onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=18).
 
 ##### Artikel 2
 
