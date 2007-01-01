@@ -4,7 +4,7 @@ identifier: "BWBR0009896"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-05-01"
-last_updated: "2006-12-31"
+last_updated: "2007-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009896"
 soort: "AMvB"
@@ -54,11 +54,9 @@ Als bestuursorgaan als bedoeld in [artikel 1a, eerste lid, onderdeel e, van de W
 
 - a. de Nederlandse Omroep Stichting, genoemd in [artikel 16 van de Mediawet](https://wetten.overheid.nl/jci1.3:c:BWBR0004149&artikel=16), voor zover belast met andere werkzaamheden dan welke voortvloeien uit onderscheidenlijk verband houden met de coördinatie van de programma's van de instellingen die zendtijd hebben gekregen voor landelijke omroep, onderscheidenlijk met het indelen van de zendtijd van de instellingen die zendtijd hebben verkregen voor de landelijke omroep;
 
-- b. De Nederlandsche Bank N.V., voor zover belast met de werkzaamheden die voortvloeien uit dan wel verband houden met haar taken op grond van de [artikelen 2, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009508&artikel=2), en [3 van de Bankwet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009508&artikel=3), en haar taken en bevoegdheden ingevolge [artikel 4, eerste lid, van de Bankwet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009508&artikel=4);
+- b. De Nederlandse Bank N.V., voor zover belast met de werkzaamheden die voortvloeien uit dan wel verband houden met haar taken op grond van de [artikelen 2, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009508&artikel=2), en [3 van de Bankwet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009508&artikel=3), en haar taken en bevoegdheden ingevolge [artikel 4, eerste lid, van de Bankwet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009508&artikel=4), de [Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809), de [Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831), de [Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388) en de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368);
 
-- c. de Pensioen- & Verzekeringskamer, voor zover belast met werkzaamheden die voortvloeien uit dan wel verband houden met haar taken en bevoegdheden ingevolge de [Wet toezicht verzekeringsbedrijf 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006509), de [Wet toezicht natura-uitvaartverzekeringsbedrijf](https://wetten.overheid.nl/jci1.3:c:BWBR0007477), de [Pensioen- en Spaarfondsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0006670), de [Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012092), de [Wet betreffende verplichte deelneming in een beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0002830) en de [Wet tot invoering van een leeftijdsgrens voor het notarisambt en oprichting van een notarieel pensioenfonds](https://wetten.overheid.nl/jci1.3:c:BWBR0002143);
-
-- d. de Stichting Autoriteit Financiële Markten, voor zover belast met werkzaamheden die voortvloeien uit dan wel verband houden met haar taken en bevoegdheden ingevolge de [Wet toezicht beleggingsinstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0004809), de [Wet toezicht effectenverkeer 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007657), de [Wet toezicht financiële verslaggeving](https://wetten.overheid.nl/jci1.3:c:BWBR0020369), de [Wet toezicht kredietwezen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005792), de [Wet toezicht natura-uitvaartverzekeringsbedrijf](https://wetten.overheid.nl/jci1.3:c:BWBR0007477), de [Wet toezicht verzekeringsbedrijf 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006509), de [Wet financiële dienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0018329) en de [Wet toezicht accountantsorganisaties](https://wetten.overheid.nl/jci1.3:c:BWBR0019468).
+- c. de Stichting Autoriteit Financiële Markten, voor zover belast met werkzaamheden die voortvloeien uit dan wel verband houden met haar taken en bevoegdheden ingevolge de [Wet toezicht financiële verslaggeving](https://wetten.overheid.nl/jci1.3:c:BWBR0020369) en de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) en de [Wet toezicht accountantsorganisaties](https://wetten.overheid.nl/jci1.3:c:BWBR0019468).
 
 ##### Artikel 2
 
