@@ -4,7 +4,7 @@ identifier: "BWBR0009576"
 country: "nl"
 rank: "amvb"
 publication_date: "2015-01-01"
-last_updated: "2005-01-01"
+last_updated: "2007-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009576"
 soort: "AMvB"
@@ -48,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-1. Voor de toepassing van de [Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](https://wetten.overheid.nl/jci1.3:c:BWBR0004044), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0004163), de [Wet voorzieningen gehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0006169) en de [Wet werk en inkomen kunstenaars](https://wetten.overheid.nl/jci1.3:c:BWBR0017837) wordt met een Nederlander gelijkgesteld de vreemdeling die, na rechtmatig in Nederland verblijf te hebben gehouden in de zin van [artikel 8, onder a tot en met e, of l, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8):
+1. Voor de toepassing van de [Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](https://wetten.overheid.nl/jci1.3:c:BWBR0004044), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0004163) en de [Wet werk en inkomen kunstenaars](https://wetten.overheid.nl/jci1.3:c:BWBR0017837) wordt met een Nederlander gelijkgesteld de vreemdeling die, na rechtmatig in Nederland verblijf te hebben gehouden in de zin van [artikel 8, onder a tot en met e, of l, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8):
 
 - a. voor de beëindiging van dit verblijf een aanvraag heeft ingediend om voortgezette toelating, of
 
@@ -66,7 +66,7 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
 ##### Artikel 3
 
-Dit besluit wordt aangehaald als: Besluit gelijkstelling vreemdelingen WWB, IOAW, IOAZ, WVG en WWIK.
+Dit besluit wordt aangehaald als: Besluit gelijkstelling vreemdelingen WWB, IOAW, IOAZ en WWIK.
 
 Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
