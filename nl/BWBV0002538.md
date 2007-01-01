@@ -4,7 +4,7 @@ identifier: "BWBV0002538"
 country: "nl"
 rank: "verdrag"
 publication_date: "2024-01-01"
-last_updated: "2002-01-01"
+last_updated: "2007-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0002538"
 soort: "verdrag"
@@ -95,7 +95,7 @@ De bijlage bij dit Verdrag maakt daarvan onafscheidelijk deel uit en elk verwijz
 
 ##### Artikel 3. Verplichtingen van de Verdragsluitende Partijen
 
-1. Behoudens de uitzonderingen, genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0002538&artikel=4&z=2002-01-01&g=2002-01-01):
+1. Behoudens de uitzonderingen, genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0002538&artikel=4&z=2007-01-01&g=2007-01-01):
 
 - a. verbindt elke Verdragsluitende Partij zich om, onder voorbehoud van het bepaalde in letter c van dit lid, vanaf de datum waarop dit Verdrag met betrekking tot deze Partij in werking treedt, haar tariefnomenclatuur en haar statistieknomenclaturen in overeenstemming te doen zijn met het geharmoniseerde systeem. Zij verbindt zich aldus om, met betrekking tot haar tariefnomenclatuur en haar statistieknomenclaturen:
 
@@ -125,7 +125,7 @@ De bijlage bij dit Verdrag maakt daarvan onafscheidelijk deel uit en elk verwijz
 
 5. Elk ontwikkelingsland dat het geharmoniseerde systeem overeenkomstig het bepaalde in dit artikel gedeeltelijk wenst toe te passen, kan, wanneer het Verdragsluitende Partij wordt, de Secretaris-Generaal mededelen dat het zich formeel verbindt het volledige geharmoniseerde systeem met zes-cijfercode toe te passen binnen drie jaar, te rekenen van de datum waarop dit Verdrag met betrekking tot dat land in werking treedt.
 
-6. Elk ontwikkelingsland dat Verdragsluitende Partij is en het geharmoniseerde systeem overeenkomstig het bepaalde in dit artikel gedeeltelijk toepast, wordt van zijn verplichtingen die voortvloeien uit [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0002538&artikel=3&z=2002-01-01&g=2002-01-01) ontheven met betrekking tot de onderverdelingen die het niet toepast.
+6. Elk ontwikkelingsland dat Verdragsluitende Partij is en het geharmoniseerde systeem overeenkomstig het bepaalde in dit artikel gedeeltelijk toepast, wordt van zijn verplichtingen die voortvloeien uit [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0002538&artikel=3&z=2007-01-01&g=2007-01-01) ontheven met betrekking tot de onderverdelingen die het niet toepast.
 
 ##### Artikel 5. Technische bijstand voor ontwikkelingslanden
 
@@ -139,7 +139,7 @@ De ontwikkelde landen die Verdragsluitende Partij zijn, verschaffen ontwikkeling
 
 3. Zijn vergaderingen worden door de Secretaris-Generaal bijeengeroepen en, tenzij de Verdragsluitende Partijen anderszins beslissen, ten zetel van de Raad gehouden.
 
-4. In het Comité voor het Geharmoniseerde Systeem heeft elke Verdragsluitende Partij recht op één stem; indien echter een douane- of economische unie en één of meer Lid-Staten daarvan Verdragsluitende Partij zijn, brengen deze Verdragsluitende Partijen, met betrekking tot de toepassing van dit Verdrag en onverminderd het bepaalde in een eventueel later te sluiten verdrag, samen slechts één stem uit. Indien alle Lid-Staten van een douane- of economische unie die krachtens het bepaalde in [artikel 11, letter b](https://wetten.overheid.nl/jci1.3:c:BWBV0002538&artikel=11&z=2002-01-01&g=2002-01-01), daarvoor in aanmerking komt, Verdragsluitende Partij worden, brengen deze eveneens samen slechts één stem uit.
+4. In het Comité voor het Geharmoniseerde Systeem heeft elke Verdragsluitende Partij recht op één stem; indien echter een douane- of economische unie en één of meer Lid-Staten daarvan Verdragsluitende Partij zijn, brengen deze Verdragsluitende Partijen, met betrekking tot de toepassing van dit Verdrag en onverminderd het bepaalde in een eventueel later te sluiten verdrag, samen slechts één stem uit. Indien alle Lid-Staten van een douane- of economische unie die krachtens het bepaalde in [artikel 11, letter b](https://wetten.overheid.nl/jci1.3:c:BWBV0002538&artikel=11&z=2007-01-01&g=2007-01-01), daarvoor in aanmerking komt, Verdragsluitende Partij worden, brengen deze eveneens samen slechts één stem uit.
 
 5. Het Comité voor het Geharmoniseerde Systeem kiest zijn Voorzitter en één of meer Vice-Voorzitters.
 
@@ -147,11 +147,11 @@ De ontwikkelde landen die Verdragsluitende Partij zijn, verschaffen ontwikkeling
 
 7. Het Comité nodigt indien het zulks nuttig acht intergouvernementele of andere internationale organisaties uit om als waarnemer aan zijn werkzaamheden deel te nemen.
 
-8. Het Comité stelt naar behoefte subcomités of werkgroepen in en houdt daarbij in het bijzonder rekening met het bepaalde in [artikel 7, eerste lid, letter a](https://wetten.overheid.nl/jci1.3:c:BWBV0002538&artikel=7&z=2002-01-01&g=2002-01-01), en het stelt het lidmaatschap, het stemrecht en het huishoudelijk reglement van deze subcomités of werkgroepen vast.
+8. Het Comité stelt naar behoefte subcomités of werkgroepen in en houdt daarbij in het bijzonder rekening met het bepaalde in [artikel 7, eerste lid, letter a](https://wetten.overheid.nl/jci1.3:c:BWBV0002538&artikel=7&z=2007-01-01&g=2007-01-01), en het stelt het lidmaatschap, het stemrecht en het huishoudelijk reglement van deze subcomités of werkgroepen vast.
 
 ##### Artikel 7. Functies van het Comité
 
-1. Met inachtneming van het bepaalde in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0002538&artikel=8&z=2002-01-01&g=2002-01-01) vervult het Comité voor het Geharmoniseerde Systeem de volgende functies:
+1. Met inachtneming van het bepaalde in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0002538&artikel=8&z=2007-01-01&g=2007-01-01) vervult het Comité voor het Geharmoniseerde Systeem de volgende functies:
 
 - a. het doen van voorstellen tot wenselijk geachte wijzigingen van dit Verdrag, daarbij in het bijzonder rekening houdend met de behoeften van de gebruikers, en met de ontwikkeling van de technologie of met de wijzigingen in de structuur van de internationale handel;
 
@@ -171,9 +171,9 @@ De ontwikkelde landen die Verdragsluitende Partij zijn, verschaffen ontwikkeling
 
 ##### Artikel 8. Functie van de Raad
 
-1. De Raad onderzoekt de voorstellen tot wijziging van dit Verdrag die door het Comité voor het Geharmoniseerde Systeem worden gedaan, en beveelt deze wijzigingen aan de Verdragsluitende Partijen aan overeenkomstig de procedure van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0002538&artikel=16&z=2002-01-01&g=2002-01-01), tenzij een Lid van de Raad dat Partij bij dit Verdrag is, verzoekt de voorstellen of een deel daarvan aan het Comité terug te zenden voor een nieuw onderzoek.
+1. De Raad onderzoekt de voorstellen tot wijziging van dit Verdrag die door het Comité voor het Geharmoniseerde Systeem worden gedaan, en beveelt deze wijzigingen aan de Verdragsluitende Partijen aan overeenkomstig de procedure van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0002538&artikel=16&z=2007-01-01&g=2007-01-01), tenzij een Lid van de Raad dat Partij bij dit Verdrag is, verzoekt de voorstellen of een deel daarvan aan het Comité terug te zenden voor een nieuw onderzoek.
 
-2. De toelichtingen, de indelingsadviezen, de andere adviezen omtrent de interpretatie van het geharmoniseerde systeem en de aanbevelingen ter verzekering van de uniformiteit in de interpretatie en de toepassing van het geharmoniseerde systeem, opgesteld tijdens een zitting van het Comité voor het Geharmoniseerde Systeem overeenkomstig het bepaalde in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0002538&artikel=7&z=2002-01-01&g=2002-01-01), worden geacht door de Raad te zijn goedgekeurd indien geen der Partijen bij dit Verdrag vóór het einde van de tweede maand, volgend op die waarin deze zitting werd gesloten, de Secretaris-Generaal heeft medegedeeld dat zij verzoekt de zaak aan de Raad voor te leggen.
+2. De toelichtingen, de indelingsadviezen, de andere adviezen omtrent de interpretatie van het geharmoniseerde systeem en de aanbevelingen ter verzekering van de uniformiteit in de interpretatie en de toepassing van het geharmoniseerde systeem, opgesteld tijdens een zitting van het Comité voor het Geharmoniseerde Systeem overeenkomstig het bepaalde in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0002538&artikel=7&z=2007-01-01&g=2007-01-01), worden geacht door de Raad te zijn goedgekeurd indien geen der Partijen bij dit Verdrag vóór het einde van de tweede maand, volgend op die waarin deze zitting werd gesloten, de Secretaris-Generaal heeft medegedeeld dat zij verzoekt de zaak aan de Raad voor te leggen.
 
 3. Indien een zaak ingevolge het bepaalde in het tweede lid van dit artikel aan de Raad wordt voorgelegd, keurt de Raad deze toelichtingen, indelingsadviezen, andere adviezen of aanbevelingen goed, tenzij een Lid van de Raad dat Partij is bij dit Verdrag, verzoekt deze in hun geheel of ten dele aan het Comité terug te zenden voor een nieuw onderzoek.
 
@@ -211,13 +211,13 @@ Partij bij dit Verdrag kunnen worden:
 
 - c. toe te treden nadat het Verdrag heeft opgehouden open te staan voor ondertekening.
 
-2. Dit Verdrag staat tot en met 31 december 1986 ten zetel van de Raad te Brussel open voor ondertekening door de Staten en douane- of economische unies, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0002538&artikel=11&z=2002-01-01&g=2002-01-01). Na deze datum zal het open staan voor toetreding.
+2. Dit Verdrag staat tot en met 31 december 1986 ten zetel van de Raad te Brussel open voor ondertekening door de Staten en douane- of economische unies, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0002538&artikel=11&z=2007-01-01&g=2007-01-01). Na deze datum zal het open staan voor toetreding.
 
 3. De akten van bekrachtiging of toetreding worden nedergelegd bij de Secretaris-Generaal.
 
 ##### Artikel 13. Inwerkingtreding
 
-1. Dit Verdrag treedt in werking op de eerstkomende eerste januari die verschijnt ten minste drie maanden na de datum waarop ten minste zeventien Staten of douane-unies of economische unies, zoals bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0002538&artikel=11&z=2002-01-01&g=2002-01-01) hierboven, het hebben ondertekend zonder voorbehoud van bekrachtiging of hun akten van bekrachtiging of toetreding hebben nedergelegd, maar niet vóór 1 januari 1988.
+1. Dit Verdrag treedt in werking op de eerstkomende eerste januari die verschijnt ten minste drie maanden na de datum waarop ten minste zeventien Staten of douane-unies of economische unies, zoals bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0002538&artikel=11&z=2007-01-01&g=2007-01-01) hierboven, het hebben ondertekend zonder voorbehoud van bekrachtiging of hun akten van bekrachtiging of toetreding hebben nedergelegd, maar niet vóór 1 januari 1988.
 
 2. Voor elke Staat of douane- of economische unie die dit Verdrag ondertekent zonder voorbehoud van bekrachtiging, het bekrachtigt of ertoe toetreedt nadat het in het eerste lid van dit artikel aangegeven minimumaantal is bereikt, treedt dit Verdrag in werking op de eerste januari die valt in een tijdvak van ten minste twaalf en ten hoogste vierentwintig maanden, volgende op de datum waarop deze Staat of douane- of economische unie het Verdrag heeft ondertekend zonder voorbehoud van bekrachtiging of zijn of haar akte van bekrachtiging of toetreding heeft nedergelegd, tenzij deze een eerdere datum heeft opgegeven. De datum van inwerkingtreding ingevolge het bepaalde in dit lid mag echter niet eerder vallen dan de in het eerste lid van dit artikel bedoelde datum.
 
@@ -225,7 +225,7 @@ Partij bij dit Verdrag kunnen worden:
 
 1. Elke Staat kan, hetzij op het tijdstip dat deze Partij bij dit Verdrag wordt, hetzij later, door middel van een aan de Secretaris-Generaal gerichte kennisgeving verklaren dat dit Verdrag mede van toepassing zal zijn op alle of op bepaalde gebieden voor welker internationale betrekkingen hij verantwoordelijk is en die in zijn kennisgeving zijn genoemd. Deze kennisgeving wordt van kracht op de eerste januari die valt in een tijdvak van ten minste twaalf en ten hoogste vierentwintig maanden, volgende op de datum van ontvangst daarvan door de Secretaris-Generaal, tenzij een eerdere datum in de kennisgeving is opgegeven. Dit Verdrag kan echter niet van toepassing worden op deze gebieden, voordat het voor de betrokken Staat in werking is getreden.
 
-2. Dit Verdrag houdt op van toepassing te zijn op een bepaald gebied op de datum waarop de Verdragsluitende Partij ophoudt verantwoordelijk te zijn voor de internationale betrekkingen van dat gebied, of op een eerdere aan de Secretaris-Generaal overeenkomstig de procedure van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0002538&artikel=15&z=2002-01-01&g=2002-01-01) medegedeelde datum.
+2. Dit Verdrag houdt op van toepassing te zijn op een bepaald gebied op de datum waarop de Verdragsluitende Partij ophoudt verantwoordelijk te zijn voor de internationale betrekkingen van dat gebied, of op een eerdere aan de Secretaris-Generaal overeenkomstig de procedure van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0002538&artikel=15&z=2007-01-01&g=2007-01-01) medegedeelde datum.
 
 ##### Artikel 15. Opzegging
 
@@ -245,19 +245,19 @@ Dit Verdrag wordt voor onbepaalde tijd gesloten. Elke Verdragsluitende Partij ka
 
 - b. indien de kennisgeving van de aanbevolen wijziging wordt gedaan op of na 1 april, de eerste januari van het derde jaar dat volgt op de datum van deze kennisgeving.
 
-5. Op de in het vierde lid van dit artikel genoemde datum dienen de statistieknomenclaturen van elke Verdragsluitende Partij en haar tariefnomenclatuur of, in het geval zoals bedoeld bij [artikel 3, eerste lid, letter c](https://wetten.overheid.nl/jci1.3:c:BWBV0002538&artikel=3&z=2002-01-01&g=2002-01-01), haar geïntegreerde nomenclatuur in overeenstemming te zijn gebracht met het gewijzigde geharmoniseerde systeem.
+5. Op de in het vierde lid van dit artikel genoemde datum dienen de statistieknomenclaturen van elke Verdragsluitende Partij en haar tariefnomenclatuur of, in het geval zoals bedoeld bij [artikel 3, eerste lid, letter c](https://wetten.overheid.nl/jci1.3:c:BWBV0002538&artikel=3&z=2007-01-01&g=2007-01-01), haar geïntegreerde nomenclatuur in overeenstemming te zijn gebracht met het gewijzigde geharmoniseerde systeem.
 
 Elke Staat of douane- of economische unie die dit Verdrag ondertekent zonder voorbehoud van bekrachtiging, het bekrachtigt of ertoe toetreedt, wordt geacht de wijzigingen daarop te hebben aanvaard die op de datum waarop die Staat of unie Verdragsluitende Partij wordt, in werking zijn getreden of ingevolge het bepaalde in het derde lid van dit artikel zijn aanvaard.
 
 ##### Artikel 17. Rechten van de Verdragsluitende Partijen met betrekking tot het geharmoniseerde systeem
 
-Inzake aangelegenheden betreffende het geharmoniseerde systeem verlenen [artikel 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0002538&artikel=6&z=2002-01-01&g=2002-01-01), [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0002538&artikel=8&z=2002-01-01&g=2002-01-01) en [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0002538&artikel=16&z=2002-01-01&g=2002-01-01), rechten aan een Verdragsluitende Partij:
+Inzake aangelegenheden betreffende het geharmoniseerde systeem verlenen [artikel 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0002538&artikel=6&z=2007-01-01&g=2007-01-01), [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0002538&artikel=8&z=2007-01-01&g=2007-01-01) en [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0002538&artikel=16&z=2007-01-01&g=2007-01-01), rechten aan een Verdragsluitende Partij:
 
 - a. met betrekking tot alle delen van het geharmoniseerde systeem die zij overeenkomstig de bepalingen van dit Verdrag toepast; of
 
-- b. tot de datum waarop dit Verdrag overeenkomstig het bepaalde in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0002538&artikel=13&z=2002-01-01&g=2002-01-01) voor deze Verdragsluitende Partij in werking treedt, met betrekking tot alle delen van het geharmoniseerde systeem die zij krachtens de bepalingen van dit Verdrag op deze datum verplicht is toe te passen; of
+- b. tot de datum waarop dit Verdrag overeenkomstig het bepaalde in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0002538&artikel=13&z=2007-01-01&g=2007-01-01) voor deze Verdragsluitende Partij in werking treedt, met betrekking tot alle delen van het geharmoniseerde systeem die zij krachtens de bepalingen van dit Verdrag op deze datum verplicht is toe te passen; of
 
-- c. met betrekking tot alle delen van het geharmoniseerde systeem, mits zij zich er formeel toe heeft verbonden het volledige geharmoniseerde systeem met zes-cijfercode toe te passen binnen het in [artikel 4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0002538&artikel=4&z=2002-01-01&g=2002-01-01), bedoelde tijdvak van drie jaar, totdat dit tijdvak is verstreken.
+- c. met betrekking tot alle delen van het geharmoniseerde systeem, mits zij zich er formeel toe heeft verbonden het volledige geharmoniseerde systeem met zes-cijfercode toe te passen binnen het in [artikel 4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0002538&artikel=4&z=2007-01-01&g=2007-01-01), bedoelde tijdvak van drie jaar, totdat dit tijdvak is verstreken.
 
 ##### Artikel 18. Voorbehoud
 
@@ -267,21 +267,21 @@ Ten aanzien van dit Verdrag is geen enkel voorbehoud toegestaan.
 
 De Secretaris-Generaal stelt de Verdragsluitende Partijen, de overige ondertekenende Staten, de Lid-Staten van de Raad die geen Partij bij dit Verdrag zijn en de Secretaris-Generaal van de Verenigde Naties in kennis van:
 
-- a. kennisgevingen overeenkomstig [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0002538&artikel=4&z=2002-01-01&g=2002-01-01);
+- a. kennisgevingen overeenkomstig [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0002538&artikel=4&z=2007-01-01&g=2007-01-01);
 
-- b. ondertekeningen, bekrachtigingen en toetredingen, zoals bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0002538&artikel=12&z=2002-01-01&g=2002-01-01);
+- b. ondertekeningen, bekrachtigingen en toetredingen, zoals bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0002538&artikel=12&z=2007-01-01&g=2007-01-01);
 
-- c. de datum waarop het Verdrag overeenkomstig [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0002538&artikel=13&z=2002-01-01&g=2002-01-01) in werking treedt;
+- c. de datum waarop het Verdrag overeenkomstig [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0002538&artikel=13&z=2007-01-01&g=2007-01-01) in werking treedt;
 
-- d. kennisgevingen overeenkomstig [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0002538&artikel=14&z=2002-01-01&g=2002-01-01);
+- d. kennisgevingen overeenkomstig [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0002538&artikel=14&z=2007-01-01&g=2007-01-01);
 
-- e. opzeggingen overeenkomstig [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0002538&artikel=15&z=2002-01-01&g=2002-01-01);
+- e. opzeggingen overeenkomstig [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0002538&artikel=15&z=2007-01-01&g=2007-01-01);
 
-- f. wijzigingen van dit Verdrag aanbevolen overeenkomstig [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0002538&artikel=16&z=2002-01-01&g=2002-01-01);
+- f. wijzigingen van dit Verdrag aanbevolen overeenkomstig [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0002538&artikel=16&z=2007-01-01&g=2007-01-01);
 
-- g. bezwaren met betrekking tot overeenkomstig [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0002538&artikel=16&z=2002-01-01&g=2002-01-01) aanbevolen wijzigingen, alsmede de eventuele intrekking daarvan;
+- g. bezwaren met betrekking tot overeenkomstig [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0002538&artikel=16&z=2007-01-01&g=2007-01-01) aanbevolen wijzigingen, alsmede de eventuele intrekking daarvan;
 
-- h. wijzigingen aanvaard overeenkomstig [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0002538&artikel=16&z=2002-01-01&g=2002-01-01), alsmede de datum waarop deze in werking treden.
+- h. wijzigingen aanvaard overeenkomstig [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0002538&artikel=16&z=2007-01-01&g=2007-01-01), alsmede de datum waarop deze in werking treden.
 
 ##### Artikel 20. Registratie bij de Verenigde Naties
 
