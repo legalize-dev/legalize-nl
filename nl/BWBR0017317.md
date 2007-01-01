@@ -4,7 +4,7 @@ identifier: "BWBR0017317"
 country: "nl"
 rank: "wet"
 publication_date: "2007-01-01"
-last_updated: "2004-10-30"
+last_updated: "2007-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017317"
 soort: "wet"
@@ -42,6 +42,8 @@ Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 Alzo Wij in overweging genomen hebben, dat het in verband met de hervorming van het toezicht op de financiële marktsector wenselijk is dat De Nederlandsche Bank N.V. en de Stichting Pensioen- & Verzekeringskamer fuseren tot: De Nederlandsche Bank N.V.;
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
+
+De datum van inwerkingtreding is vastgesteld onder toepassing van artikel 16 van de Tijdelijke referendumwet.
 
 ##### Artikel 1
 
@@ -81,19 +83,15 @@ De Nederlandsche Bank N.V. oefent alle taken en bevoegdheden uit die bij of krac
 
 ##### Artikel 6
 
-De Nederlandsche Bank N.V. zendt jaarlijks voor 1 november een begroting voor het volgende jaar voor haar werkzaamheden uit hoofde van de [Wet toezicht verzekeringsbedrijf 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006509), de [Pensioen- en spaarfondsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002089), de [Wet toezicht natura-uitvaartverzekeringsbedrijf](https://wetten.overheid.nl/jci1.3:c:BWBR0007477), de [Wet betreffende verplichte deelneming in een beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0002830), de [Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012092), de [Wet tot invoering van een leeftijdsgrens voor het notarisambt en oprichting van een notarieel pensioenfonds](https://wetten.overheid.nl/jci1.3:c:BWBR0002143), de [Wet op de toegang tot ziektekostenverzekeringen 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009750) en de [Wet privatisering FVP](https://wetten.overheid.nl/jci1.3:c:BWBR0009756) aan Onze Minister en Onze Minister van Sociale Zaken en Werkgelegenheid. De begroting behoeft de instemming van Onze Minister en Onze Minister van Sociale Zaken en Werkgelegenheid.
+Vervallen
 
 ##### Artikel 7
 
-1. De Nederlandsche Bank N.V. legt jaarlijks aan Onze Minister en Onze Minister van Sociale Zaken en Werkgelegenheid voor 1 mei een financiële verantwoording over, die vergezeld gaat van een verklaring omtrent de getrouwheid en de rechtmatigheid, afgegeven door een accountant als bedoeld in [artikel 393 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393). De verantwoording behoeft de instemming van Onze Minister en Onze Minister van Sociale Zaken en Werkgelegenheid.
-
-2. De Nederlandsche Bank N.V. stelt de in het eerste lid bedoelde stukken algemeen verkrijgbaar.
-
-3. Onze Minister kan in overeenstemming met de Minister van Sociale Zaken en Werkgelegenheid regels stellen voor de inrichting van de begroting, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017317&artikel=6&z=2004-10-30&g=2004-10-30), en de financiële verantwoording.
+Vervallen
 
 ##### Artikel 8
 
-Onze Minister en Onze Minister van Sociale Zaken en Werkgelegenheid zenden in 2006 en vervolgens telkens na vijf jaar aan de Staten-Generaal een gezamenlijk verslag over de doeltreffendheid en doelmatigheid van het functioneren van de De Nederlandsche Bank N.V. ten aanzien van haar werkzaamheden uit hoofde van de [Wet toezicht verzekeringsbedrijf 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006509), de [Pensioen- en spaarfondsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002089), de [Wet toezicht natura-uitvaartverzekeringsbedrijf](https://wetten.overheid.nl/jci1.3:c:BWBR0007477), de [Wet betreffende verplichte deelneming in een beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0002830), de [Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012092), de [Wet tot invoering van een leeftijdsgrens voor het notarisambt en oprichting van een notarieel pensioenfonds](https://wetten.overheid.nl/jci1.3:c:BWBR0002143), de [Wet op de toegang tot ziektekostenverzekeringen 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009750) en de [Wet privatisering FVP](https://wetten.overheid.nl/jci1.3:c:BWBR0009756).
+Vervallen
 
 ##### Artikel 9
 
