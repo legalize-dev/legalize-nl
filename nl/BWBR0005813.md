@@ -4,7 +4,7 @@ identifier: "BWBR0005813"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2005-07-01"
+last_updated: "2007-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005813"
 soort: "ministeriele-regeling"
@@ -41,7 +41,7 @@ Besluit:
 
 ##### Artikel 1
 
-1. Deze regeling geeft uitvoering aan [artikel 3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=3), [4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=4), [6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=6), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=8), [9b, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=9b), [10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=10), [15a, elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=15a), [15b, tiende en veertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=15b),[17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=17), en [34 van de Wet op de belasting van personenauto's en motorrijwielen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=34).
+1. Deze regeling geeft uitvoering aan [artikel 3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=3), [4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=4), [6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=6), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=8), [9b, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=9b), [10, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=10), [13a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=13a), [15a, twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=15a), ,[17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=17), en [34 van de Wet op de belasting van personenauto's en motorrijwielen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=34).
 
 2. Deze regeling verstaat onder:
 
@@ -171,27 +171,19 @@ Met betrekking tot naheffingsaanslagen in de bijzondere verbruiksbelasting van p
 
 ##### Artikel 8b
 
-Bij wijziging van de tenaamstelling van een bestelauto blijven in afwijking van [artikel 15b, negende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=15b), het [zesde, zevende en achtste lid van dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=15b) buiten toepassing zonder dat degene op wiens naam het kenteken wordt gesteld (de koper) en degene op wiens naam het kenteken daarvoor was gesteld (de verkoper) daartoe een gezamenlijk verzoek hebben gedaan, indien:
-
-- a. de koper een natuurlijk persoon of rechtspersoon is waaraan een erkenning is verleend als bedoeld in [hoofdstuk IV, paragraaf 5, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&paragraaf=5);
-
-- b. de koper de bestelauto in zijn bedrijfsvoorraad registreert;
-
-- c. de verkoper het door de koper afgegeven vrijwaringbewijs van de bestelauto in zijn administratie bewaart; en
-
-- d. in de administratie van de verkoper een verklaring is opgenomen waarin de koper en de verkoper ten aanzien van de bestelauto zijn overeengekomen dat de koper voor de toepassing van [artikel 15b, negende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=15b) in de plaats treedt van de verkoper.
+Vervallen
 
 ##### Artikel 8c
 
-1. De in [artikel 15b, tiende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=15b) bedoelde periode van terbeschikkingstelling van een bestelauto bedraagt vier weken, verminderd met voorafgaande aansluitende periodes van terbeschikkingstelling van enige bestelauto door de ondernemer aan dezelfde persoon.
+1. De in [artikel 13a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=13a) bedoelde periode van terbeschikkingstelling van een bestelauto bedraagt vier weken, verminderd met voorafgaande aansluitende periodes van terbeschikkingstelling van enige bestelauto door de ondernemer aan dezelfde persoon.
 
-2. Indien een ondernemer een bestelauto waarvoor op de voet van [artikel 15b, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=15b) teruggaaf van belasting is verleend ter beschikking stelt aan een derde, neemt hij in zijn administratie de volgende gegevens en bescheiden op:
+2. Indien een ondernemer een bestelauto waarvoor op de voet van [artikel 13a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=13a) vrijstelling van belasting is verleend ter beschikking stelt aan een derde, neemt hij in zijn administratie de volgende gegevens en bescheiden op:
 
 - a. de naam, het adres en een kopie van het legitimatiebewijs van degene aan wie de bestelauto ter beschikking wordt gesteld; en
 
 - b. een kopie van het contract tussen de ondernemer en degene aan wie de bestelauto ter beschikking wordt gesteld, waaruit het kenteken van de bestelauto en de periode van terbeschikkingstelling blijkt.
 
-3. Ingeval de in het tweede lid bedoelde ondernemer de bestelauto langer dan de in het eerste lid bedoelde periode ter beschikking stelt aan een derde die voldoet aan het gestelde in [artikel 15b, tiende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=15b), verstrekt degene aan wie de bestelauto ter beschikking wordt gesteld aan de ondernemer een verklaring:
+3. Ingeval de in het tweede lid bedoelde ondernemer de bestelauto langer dan de in het eerste lid bedoelde periode ter beschikking stelt aan een derde die voldoet aan het gestelde in [artikel 13a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=13a), verstrekt degene aan wie de bestelauto ter beschikking wordt gesteld aan de ondernemer een verklaring:
 
 - a. dat hij ondernemer is als bedoeld in [artikel 7 van de Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=7);
 
@@ -208,3 +200,9 @@ Bij wijziging van de tenaamstelling van een bestelauto blijven in afwijking van 
 - b. de in het derde lid bedoelde verklaring van degene aan wie de bestelauto ter beschikking wordt gesteld.
 
 5. Indien de in het derde lid bedoelde verklaring niet langer juist is, brengt degene aan wie de bestelauto ter beschikking wordt gesteld onmiddellijk de ondernemer die de bestelauto aan hem ter beschikking stelt daarvan op de hoogte, onder intrekking van de eerder afgegeven verklaring.
+
+##### Artikel 8e
+
+1. Onder een niet-opvouwbare rolstoel wordt voor de toepassing van [artikel 15a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=15a) mede verstaan een ander in verband met de handicap noodzakelijk hulpmiddel van een dusdanige omvang of een dusdanig gewicht, dat de gehandicapte, rekening houdend met zijn specifieke handicap, voor zijn vervoer is aangewezen op het gebruik van een bestelauto.
+
+2. Onder een bestelauto, ingericht voor het vervoer als bedoeld in [artikel 15a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=15a), wordt verstaan een bestelauto die voorzieningen bevat ten behoeve van het vervoer van een niet-opvouwbare rolstoel of het vervoer van een ander hulpmiddel als bedoeld in het eerste lid en het gelijktijdige vervoer van de gehandicapte, zoals voorzieningen voor het met of vanuit een rolstoel of een ander hulpmiddel kunnen plaatsnemen in en verlaten van de bestelauto, voor het vastzetten van een rolstoel of een ander hulpmiddel in de cabine op de plaats van een zitplaats, en voor het vastzetten van een rolstoel of een ander hulpmiddel zonder passagier in de laadruimte.
