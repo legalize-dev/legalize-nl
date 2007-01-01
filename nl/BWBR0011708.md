@@ -4,7 +4,7 @@ identifier: "BWBR0011708"
 country: "nl"
 rank: "amvb"
 publication_date: "2018-11-14"
-last_updated: "2005-12-29"
+last_updated: "2007-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011708"
 soort: "AMvB"
@@ -94,9 +94,9 @@ In dit besluit wordt verstaan onder:
 
 - t. werkgever: de werkgever in de zin van de [ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888);
 
-- u. arbodienst: een arbodienst als bedoeld in de [Arbeidsomstandighedenwet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0010346);
+- u. arbodienst: een arbodienst als bedoeld in de [Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346);
 
-- v. deskundige persoon: een deskundige persoon als bedoeld in [artikel 14, eerste lid, van de Arbeidsomstandighedenwet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=14) die belast is met de taken, bedoeld in [artikel 14, eerste lid, onderdeel b, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=14).
+- v. deskundige persoon: een deskundige persoon als bedoeld in [artikel 14, eerste lid, van de Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=14) die belast is met de taken, bedoeld in [artikel 14, eerste lid, onderdeel b, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=14).
 
 ##### Artikel 2. Berekening van de boete
 
@@ -108,9 +108,9 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 3. Afstemming
 
-1. Indien de ernst van de gedraging, de mate waarin de belanghebbende de gedraging verweten kan worden of de omstandigheden waarin hij verkeert daartoe aanleiding geven, wordt de boete, die is berekend met toepassing van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0011708&artikel=2&z=2005-12-29&g=2005-12-29), verhoogd of verlaagd. Van het opleggen van een boete wordt in elk geval afgezien, indien elke vorm van verwijtbaarheid ontbreekt.
+1. Indien de ernst van de gedraging, de mate waarin de belanghebbende de gedraging verweten kan worden of de omstandigheden waarin hij verkeert daartoe aanleiding geven, wordt de boete, die is berekend met toepassing van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0011708&artikel=2&z=2007-01-01&g=2007-01-01), verhoogd of verlaagd. Van het opleggen van een boete wordt in elk geval afgezien, indien elke vorm van verwijtbaarheid ontbreekt.
 
-2. Indien de ernst van de gedraging, de mate waarin de werkgever de gedraging verweten kan worden of de omstandigheden waarin de werkgever verkeert daartoe aanleiding geven, wordt de werkgeversboete ZW/WAO, bedoeld in de [artikelen 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0011708&artikel=2a&z=2005-12-29&g=2005-12-29), [2b, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0011708&artikel=2b&z=2005-12-29&g=2005-12-29), of [2c van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011708&artikel=2c&z=2005-12-29&g=2005-12-29), verhoogd of verlaagd en wordt de werkgeversboete ZW/WAO, bedoeld in [artikel 2b, eerste lid, onderdelen c en d, en tweede lid, van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011708&artikel=2b&z=2005-12-29&g=2005-12-29) verlaagd. Van het opleggen van een werkgeversboete ZW/WAO wordt in elk geval afgezien, indien elke vorm van verwijtbaarheid ontbreekt.
+2. Indien de ernst van de gedraging, de mate waarin de werkgever de gedraging verweten kan worden of de omstandigheden waarin de werkgever verkeert daartoe aanleiding geven, wordt de werkgeversboete ZW/WAO, bedoeld in de [artikelen 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0011708&artikel=2a&z=2007-01-01&g=2007-01-01), [2b, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0011708&artikel=2b&z=2007-01-01&g=2007-01-01), of [2c van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011708&artikel=2c&z=2007-01-01&g=2007-01-01), verhoogd of verlaagd en wordt de werkgeversboete ZW/WAO, bedoeld in [artikel 2b, eerste lid, onderdelen c en d, en tweede lid, van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011708&artikel=2b&z=2007-01-01&g=2007-01-01) verlaagd. Van het opleggen van een werkgeversboete ZW/WAO wordt in elk geval afgezien, indien elke vorm van verwijtbaarheid ontbreekt.
 
 ##### Artikel 4. Intrekking van een besluit en vervallen van artikelen
 
@@ -126,7 +126,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 6. Overgangsbepaling in verband met het intrekken van de [Wet REA](https://wetten.overheid.nl/jci1.3:c:BWBR0009565)
 
-[Artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0011708&artikel=1&z=2005-12-29&g=2005-12-29), zoals dat luidde op de dag voorafgaand aan de dag waarop op grond van [artikel 2.10 van de Wet Invoering en financiering Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019058&artikel=2.10) de [Wet REA](https://wetten.overheid.nl/jci1.3:c:BWBR0009565) werd ingetrokken, blijft van toepassing op boeten, verplichtingen, subsidies en voorzieningen die tot de dag dat de [Wet REA](https://wetten.overheid.nl/jci1.3:c:BWBR0009565) werd ingetrokken, onderscheidenlijk zijn opgelegd, golden of zijn toegekend.
+[Artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0011708&artikel=1&z=2007-01-01&g=2007-01-01), zoals dat luidde op de dag voorafgaand aan de dag waarop op grond van [artikel 2.10 van de Wet Invoering en financiering Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019058&artikel=2.10) de [Wet REA](https://wetten.overheid.nl/jci1.3:c:BWBR0009565) werd ingetrokken, blijft van toepassing op boeten, verplichtingen, subsidies en voorzieningen die tot de dag dat de [Wet REA](https://wetten.overheid.nl/jci1.3:c:BWBR0009565) werd ingetrokken, onderscheidenlijk zijn opgelegd, golden of zijn toegekend.
 
 ##### Artikel 7. Inwerkingtreding van dit besluit.
 
