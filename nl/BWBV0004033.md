@@ -4,7 +4,7 @@ identifier: "BWBV0004033"
 country: "nl"
 rank: "verdrag"
 publication_date: "2013-07-01"
-last_updated: "2005-01-01"
+last_updated: "2007-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0004033"
 soort: "verdrag"
@@ -1022,7 +1022,7 @@ Ieder nieuw akkoord dat uit deze onderhandelingen voortvloeit behoeft de toestem
 
 De Vergadering, bestaande uit vertegenwoordigers van de volkeren van de Staten die in de Gemeenschap zijn verenigd, oefent de haar door dit Verdrag verleende bevoegdheden om te beraadslagen en te besluiten, alsmede om toezicht uit te oefenen, uit.
 
-Het aantal leden van het Europees Parlement bedraagt niet meer dan zevenhonderdtweeëndertig.
+Het aantal leden van het Europees Parlement bedraagt niet meer dan 736.
 
 ##### Artikel 107 A
 
@@ -1062,32 +1062,34 @@ Op verzoek van het Europees Parlement kan de ombudsman door het Hof van Justitie
 
 2. Het aantal in elke lidstaat gekozen vertegenwoordigers is als volgt vastgesteld:
 
-| België | 24 |
+| België | 22 |
 | --- | --- |
-| Tsjechië | 24 |
-| Denemarken | 14 |
+| Bulgarije | 17 |
+| Tsjechië | 22 |
+| Denemarken | 13 |
 | Duitsland | 99 |
 | Estland | 6 |
-| Griekenland | 24 |
-| Spanje | 54 |
-| Frankrijk | 78 |
-| Ierland | 13 |
-| Italië | 78 |
+| Griekenland | 22 |
+| Spanje | 50 |
+| Frankrijk | 72 |
+| Ierland | 12 |
+| Italië | 72 |
 | Cyprus | 6 |
-| Letland | 9 |
-| Litouwen | 13 |
+| Letland | 8 |
+| Litouwen | 12 |
 | Luxemburg | 6 |
-| Hongarije | 24 |
+| Hongarije | 22 |
 | Malta | 5 |
-| Nederland | 27 |
-| Oostenrijk | 18 |
-| Polen | 54 |
-| Portugal | 24 |
+| Nederland | 25 |
+| Oostenrijk | 17 |
+| Polen | 50 |
+| Portugal | 22 |
+| Roemenië | 33 |
 | Slovenië | 7 |
-| Slowakije | 14 |
-| Finland | 14 |
-| Zweden | 19 |
-| Verenigd Koninkrijk | 78 |
+| Slowakije | 13 |
+| Finland | 13 |
+| Zweden | 18 |
+| Verenigd Koninkrijk | 72. |
 
 3. De vertegenwoordigers worden gekozen voor een periode van vijf jaar.
 
@@ -1157,28 +1159,40 @@ De Raad wordt door zijn Voorzitter, op diens initiatief, op initiatief van één
 
 1. Voor zover in dit Verdrag niet anders is bepaald, neemt de Raad zijn besluiten met volstrekte meerderheid van stemmen van zijn leden.
 
-2. Voor de besluiten van de Raad waarvoor een gekwalificeerde meerderheid vereist is, worden de stemmen der leden als volgt gewogen:
+2. Voor de besluiten van de Raad waarvoor een gekwalificeerde meerderheid is vereist, worden de stemmen der leden als volgt gewogen:
 
 | België | 12 |
 | --- | --- |
+| Bulgarije | 10 |
+| Tsjechië | 12 |
 | Denemarken | 7 |
 | Duitsland | 29 |
+| Estland | 4 |
 | Griekenland | 12 |
 | Spanje | 27 |
 | Frankrijk | 29 |
 | Ierland | 7 |
 | Italië | 29 |
+| Cyprus | 4 |
+| Letland | 4 |
+| Litouwen | 7 |
 | Luxemburg | 4 |
+| Hongarije | 12 |
+| Malta | 3 |
 | Nederland | 13 |
 | Oostenrijk | 10 |
+| Polen | 27 |
 | Portugal | 12 |
+| Roemenië | 14 |
+| Slovenië | 4 |
+| Slowakije | 7 |
 | Finland | 7 |
 | Zweden | 10 |
 | Verenigd Koninkrijk | 29 |
 
-De besluiten komen tot stand wanneer zij ten minste honderdnegenenzestig stemmen hebben verkregen en de meerderheid van de leden voorstemt, ingeval zij krachtens dit Verdrag moeten worden genomen op voorstel van de Commissie.
+De besluiten van de Raad komen tot stand wanneer zij ten minste 255 stemmen hebben verkregen en de meerderheid van de leden voorstemt, ingeval zij krachtens dit Verdrag moeten worden genomen op voorstel van de Commissie.
 
-In de overige gevallen komen de besluiten tot stand wanneer zij ten minste honderdnegenenzestig stemmen hebben verkregen, en ten minste twee derden van de leden voorstemmen.
+In de overige gevallen komen de besluiten tot stand wanneer zij ten minste 255 stemmen hebben verkregen en ten minste twee derden van de leden voorstemmen.
 
 3. Onthouding van stemming door aanwezige of vertegenwoordigde leden vormt geen beletsel voor het aannemen der besluiten van de Raad waarvoor eenparigheid van stemmen is vereist.
 
@@ -1302,7 +1316,7 @@ Vervallen
 
 Het Comité moet worden geraadpleegd in de door dit Verdrag bepaalde gevallen. Het kan worden geraadpleegd in alle gevallen waarin de Commissie dit gewenst acht.
 
-2. Het comité bestaat uit negenendertig leden, benoemd door de Raad na raadpleging van de Commissie.
+2. Het Comité bestaat uit eenenveertig leden, benoemd door de Raad na raadpleging van de Commissie.
 
 De leden van het Comité worden in hun persoonlijke hoedanigheid benoemd voor de tijd van vijf jaar. Zij zijn herbenoembaar. Zij mogen niet gebonden zijn door enig imperatief mandaat.
 
@@ -1630,12 +1644,11 @@ Het Comité bestaat uit vertegenwoordigers van de verschillende economische en s
 
 ##### Artikel 166
 
-Het aantal leden van het Economisch en Sociaal Comité bedraagt niet meer dan driehonderdvijftig.
-
 Het aantal leden van het Comité is als volgt vastgesteld:
 
 | België | 12 |
 | --- | --- |
+| Bulgarije | 12 |
 | Tsjechië | 12 |
 | Denemarken | 9 |
 | Duitsland | 24 |
@@ -1655,15 +1668,12 @@ Het aantal leden van het Comité is als volgt vastgesteld:
 | Oostenrijk | 12 |
 | Polen | 21 |
 | Portugal | 12 |
+| Roemenië | 15 |
 | Slovenië | 7 |
 | Slowakije | 9 |
 | Finland | 9 |
 | Zweden | 12 |
 | Verenigd Koninkrijk | 24 |
-
-De leden van het Comité mogen niet gebonden zijn door enig imperatief mandaat. Zij oefenen hun ambt volkomen onafhankelijk uit in het algemeen belang van de Gemeenschap.
-
-De Raad stelt met gekwalificeerde stemmen de vergoedingen van de leden van het Comité vast.
 
 ##### Artikel 167
 
@@ -2183,7 +2193,7 @@ Dit Verdrag treedt in werking op de eerste dag van de maand die volgt op het ned
 
 Dit Verdrag, opgesteld in één exemplaar, in de Duitse, de Franse, de Italiaanse en de Nederlandse taal, zijnde de vier teksten gelijkelijk authentiek, zal worden nedergelegd in het archief van de Regering van de Italiaanse Republiek, die een voor eensluidend gewaarmerkt afschrift daarvan toezendt aan de Regeringen der andere ondertekenende Staten.
 
-Krachtens de Toetredingsverdragen zijn de teksten van dit Verdrag in de Deense, de Engelse, de Finse, de Griekse, de Ierse, de Portugese, de Spaanse en de Zweedse taal eveneens gelijkelijk authentiek.
+Krachtens de Toetredingsverdragen zijn de teksten van dit Verdrag in de Bulgaarse, de Tsjechische, de Deense, de Engelse, de Estse, de Finse, de Griekse, de Hongaarse, de Ierse, de Letse, de Litouwse, de Maltese, de Poolse, de Portugese, de Roemeense, de Slowaakse, de Sloveense, de Spaanse en de Zweedse taal eveneens gelijkelijk authentiek.
 
 TEN BLIJKE WAARVAN de ondergetekende gevolmachtigden hun handtekening onder dit Verdrag hebben gesteld.
 
