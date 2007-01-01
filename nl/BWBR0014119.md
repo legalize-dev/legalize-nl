@@ -4,7 +4,7 @@ identifier: "BWBR0014119"
 country: "nl"
 rank: "amvb"
 publication_date: "2017-07-01"
-last_updated: "2006-01-01"
+last_updated: "2007-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014119"
 soort: "AMvB"
@@ -60,17 +60,17 @@ In dit besluit wordt verstaan onder:
 
 - 3°. bijlage I bij [Verordening (EG) nr. 881/2002](32002R0881) van de Raad van de Europese Unie van 27 mei 2002 tot vaststelling van bepaalde specifieke beperkingen tegen sommige personen en entiteiten die banden hebben met Usama bin Laden, het Al-Qa'ida-netwerk en de Taliban, en tot intrekking van [Verordening (EG) nr. 467/2001](32001R0467) van de Raad tot instelling van een verbod op de uitvoer van bepaalde goederen en diensten naar Afghanistan, tot versterking van het verbod op vluchten en verlenging van de bevriezing van tegoeden en andere financiële middelen ten aanzien van de Taliban van Afghanistan (PbEG L 139);
 
-- c. Financiële instelling:
+- c. Financiële onderneming:
 
-- 1°. een kredietinstelling als bedoeld in [artikel 1, eerste lid, onderdeel a, van de Wet toezicht kredietwezen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005792&artikel=1);
+- 1°. een kredietinstelling als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1);
 
-- 2°. een verzekeraar als bedoeld in [artikel 1, eerste lid, onderdeel g, van de Wet toezicht verzekeringsbedrijf 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006509&artikel=1), behoudens voor zover [artikel 13 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006509&artikel=13) van toepassing is;
+- 2°. een verzekeraar als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1);
 
-- 3°. een beleggingsinstelling als bedoeld in [artikel 1, onderdeel c, van de Wet toezicht beleggingsinstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0004809&artikel=1);
+- 3°. een beleggingsinstelling als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1);
 
-- 4°. een effecteninstelling als bedoeld in [artikel 1, onderdeel d, van de Wet toezicht effectenverkeer 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&artikel=1);
+- 4°. een beleggingsonderneming als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1);
 
-- 5°. een bemiddelaar in verzekeringen, als bedoeld in [artikel 1 van de Wet financiële dienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0018329&artikel=1);
+- 5°. een bemiddelaar als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1), die bemiddelt in verzekeringen;
 
 - 6°. een natuurlijke persoon, rechtspersoon of vennootschap die beroeps- of bedrijfsmatig ten behoeve van of op verzoek van een ander munten of bankbiljetten wisselt, munten of bankbiljetten uitbetaald, tegen inlevering van een of meer cheques of munten of bankbiljetten uitbetaald op vertoon van een creditcard;
 
@@ -78,7 +78,7 @@ In dit besluit wordt verstaan onder:
 
 - 8°. een instelling als bedoeld in [artikel 1 van de Wet inzake de geldtransactiekantoren, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0013816&artikel=1).
 
-- d. Financiële dienst: het door een financiële instelling in of vanuit Nederland:
+- d. Financiële dienst: het door een financiële onderneming in of vanuit Nederland:
 
 - 1°. in bewaring nemen van effecten, bankbiljetten, munten, muntbiljetten, edele metalen en andere waarden;
 
@@ -90,7 +90,7 @@ In dit besluit wordt verstaan onder:
 
 - 5°. verlenen van een dienst als bedoeld in [artikel 1, eerste lid, onderdeel c, van de Wet inzake de geldtransactiekantoren](https://wetten.overheid.nl/jci1.3:c:BWBR0013816&artikel=1);
 
-- 6°. sluiten van een levensverzekeringsovereenkomst als bedoeld in [artikel 1, eerste lid, onderdeel b, van de Wet toezicht verzekeringsbedrijf 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006509&artikel=1) tegen een premie als bedoeld in [artikel 1, eerste lid, onderdeel r, van de Wet toezicht verzekeringsbedrijf 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006509&artikel=1), alsmede het daarbij verlenen van bemiddeling;
+- 6°. sluiten van een overeenkomst van levensverzekering als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1) tegen een premie als bedoeld in [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1), alsmede het daarbij bemiddelen als bedoeld in [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1);
 
 - 7°. doen van een uitkering uit hoofde van een levensverzekeringsovereenkomst als bedoeld onder 6°;
 
@@ -102,7 +102,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 2
 
-De financiële instelling doet van elk verzoek om een financiële dienst te verrichten waarbij als wederpartij optreedt, dan wel op andere wijze betrokken is, een natuurlijke persoon, rechtspersoon, groep of entiteit die is vermeld op de lijst, melding aan het meldpunt.
+Een financiële onderneming doet van elk verzoek om een financiële dienst te verrichten waarbij als wederpartij optreedt, dan wel op andere wijze betrokken is, een natuurlijke persoon, rechtspersoon, groep of entiteit die is vermeld op de lijst, melding aan het meldpunt.
 
 ##### Artikel 3
 
@@ -118,13 +118,13 @@ De melding bevat, voor zover mogelijk, de volgende gegevens:
 
 ##### Artikel 4
 
-1. Het meldpunt is bevoegd bij degene die een melding heeft gedaan, alsmede bij degene die bij een financiële dienst als bedoeld in [artikel 1, onderdeel d, onder 8°](https://wetten.overheid.nl/jci1.3:c:BWBR0014119&artikel=1&z=2006-01-01&g=2006-01-01), bij een transactie is betrokken waarover het meldpunt gegevens heeft verzameld, nadere gegevens of inlichtingen te vragen, teneinde te kunnen beoordelen of verzamelde gegevens dienen te worden verstrekt op grond van zijn taak bedoeld in [artikel 3, onderdeel b, van de Wet melding ongebruikelijke transacties](https://wetten.overheid.nl/jci1.3:c:BWBR0006331&artikel=3).
+1. Het meldpunt is bevoegd bij degene die een melding heeft gedaan, alsmede bij degene die bij een financiële dienst als bedoeld in [artikel 1, onderdeel d, onder 8°](https://wetten.overheid.nl/jci1.3:c:BWBR0014119&artikel=1&z=2007-01-01&g=2007-01-01), bij een transactie is betrokken waarover het meldpunt gegevens heeft verzameld, nadere gegevens of inlichtingen te vragen, teneinde te kunnen beoordelen of verzamelde gegevens dienen te worden verstrekt op grond van zijn taak bedoeld in [artikel 3, onderdeel b, van de Wet melding ongebruikelijke transacties](https://wetten.overheid.nl/jci1.3:c:BWBR0006331&artikel=3).
 
 2. Degene aan wie overeenkomstig het eerste lid deze gegevens of inlichtingen zijn gevraagd, is verplicht deze aan het meldpunt schriftelijk, alsmede in spoedeisende gevallen mondeling, te verstrekken binnen de door het meldpunt gestelde termijn.
 
 ##### Artikel 5
 
-Degene die ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014119&artikel=2&z=2006-01-01&g=2006-01-01) een melding doet, is verplicht tot geheimhouding daarvan, onverminderd het bepaalde in [artikel 10 van de Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296&artikel=10), behoudens voor zover uit de doelstelling van dit besluit de noodzaak tot bekendmaking voortvloeit.
+Degene die ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014119&artikel=2&z=2007-01-01&g=2007-01-01) een melding doet, is verplicht tot geheimhouding daarvan, onverminderd het bepaalde in [artikel 10 van de Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296&artikel=10), behoudens voor zover uit de doelstelling van dit besluit de noodzaak tot bekendmaking voortvloeit.
 
 ##### Artikel 6
 
