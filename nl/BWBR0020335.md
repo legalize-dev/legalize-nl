@@ -4,7 +4,7 @@ identifier: "BWBR0020335"
 country: "nl"
 rank: "zbo"
 publication_date: "2007-01-01"
-last_updated: "2006-10-01"
+last_updated: "2007-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020335"
 soort: "zbo"
@@ -99,23 +99,29 @@ Als voorbeeld kan gedacht worden aan een verhuizing die de voortzetting van de d
 
 ### Paragraaf 5. Einde dienstbetrekking tijdens loonsanctie
 
-Deze paragraaf is nog niet in werking getreden.
+Benadeling door nodeloze vervroeging van het intreden van werkloosheid kan ook intreden doordat de werknemer akkoord gaat met een beëindiging van de dienstbetrekking van zijn werkgever, terwijl deze door UWV een loonsanctie heeft opgelegd gekregen. UWV kan de werkgever op grond van [artikel 25 Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=25) (WIA) verplichten het loon tijdens ziekte langer dan twee jaar door te betalen wanneer de werkgever in die twee jaar onvoldoende re-integratie-inspanningen heeft verricht. Wanneer de werkgever in die verlengde periode de dienstbetrekking beëindigt, vervalt de verplichting tot doorbetaling van loon. In deze situatie wordt van de werknemer verwacht dat hij protesteert tegen deze beëindiging.
 
 ### Paragraaf 6. Verwijtbaar gedrag niet in overwegende mate aan de werknemer te wijten
 
-[Artikel 27, eerste lid, WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=27), bepaalt dat een lagere maatregel wordt opgelegd indien het niet nakomen van de verplichting als bedoeld in [artikel 24, eerste lid, onder a en onder b, ten derde, WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=24), de werknemer niet in overwegende mate kan worden verweten.
+‘In afwijking van het zesde en het zevende lid is er sprake is van benadeling als bedoeld in het vijfde lid indien de werknemer tijdens het verlengde tijdvak, bedoel in [artikel 25, negende lid, van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=25), zonder deugdelijke grond heeft nagelaten verweer te voeren tegen of heeft ingestemd met een beëindiging van de dienstbetrekking.’
 
-Als aan de werkloosheid een dringende reden als bedoeld in [artikel 7:678 Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=678) (BW) ten grondslag ligt, kan de mate waarin de werknemer het gedrag wordt verweten aanleiding zijn om de maatregel te beperken tot een verlaging van de uitkering tot 35% gedurende (maximaal) 26 weken.
+Het UWV zal voor het verlengde tijdvak, als bedoeld in [artikel 25, negende lid, Wet WIA,](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=25) (het tijdvak waarvoor de loonsanctie is opgelegd) een maatregel opleggen die in beginsel bestaat uit een tijdelijke gehele weigering van uitkering.
 
 Wanneer de werkloosheid veroorzaakt wordt doordat de werknemer de werkzaamheden en/of de dienstbetrekking heeft beëindigd dan wel de werkgever daartoe heeft verzocht, worden de volgende weegfactoren toegepast:
 
 ### Paragraaf 7. Duur van de maatregel bij niet-verwijtbare eindiging van de dienstbetrekking binnen 3 maanden na een verwijtbare eindiging
 
-De hoofdregel is dat bij verwijtbare werkloosheid door UWV een blijvend gehele weigering wordt opgelegd of een verlaging van de uitkering tot 35% gedurende (maximaal) 26 weken (bij verminderde verwijtbaarheid). Op deze hoofdregel wordt één uitzondering gemaakt. Die uitzondering geldt voor situaties waarin weliswaar sprake is van verwijtbare werkloosheid, maar tevens vaststaat dat het dienstbetrekking binnen drie maanden niet verwijtbaar zou zijn geëindigd. In dat geval wordt door UWV een maatregel wegens benadeling opgelegd voor de duur van de periode dat de werknemer nog in dienst had kunnen zijn.
+Als aan de werkloosheid een dringende reden als bedoeld in [artikel 7:678 Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=678) (BW) ten grondslag ligt, kan de mate waarin de werknemer het gedrag wordt verweten aanleiding zijn om de maatregel te beperken tot een verlaging van de uitkering tot 35% gedurende (maximaal) 26 weken.
 
 ### Toelichting op de beleidsregels toepassing [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=24) en [27 WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=27)
 
-### Paragraaf 1. Eindiging van de dienstbetrekking op initiatief werkgever of werknemer en beoordeling arbeidsrechtelijke dringende reden
+### Paragraaf 7. Duur van de maatregel bij niet-verwijtbare eindiging van de dienstbetrekking binnen 3 maanden na een verwijtbare eindiging
+
+De hoofdregel is dat bij verwijtbare werkloosheid door UWV een blijvend gehele weigering wordt opgelegd of een verlaging van de uitkering tot 35% gedurende (maximaal) 26 weken (bij verminderde verwijtbaarheid). Op deze hoofdregel wordt één uitzondering gemaakt. Die uitzondering geldt voor situaties waarin weliswaar sprake is van verwijtbare werkloosheid, maar tevens vaststaat dat het dienstbetrekking binnen drie maanden niet verwijtbaar zou zijn geëindigd. In dat geval wordt door UWV een maatregel wegens benadeling opgelegd voor de duur van de periode dat de werknemer nog in dienst had kunnen zijn.
+
+Elke andere situatie waarbij het einde van de dienstbetrekking op initiatief van de werkgever tot stand is gekomen, ook al is dat bijvoorbeeld in strijd met een opzegverbod, leidt niet tot verwijtbare werkloosheid en evenmin tot een overtreding vanwege het door eigen toedoen geen passende arbeid behouden of tot een benadelingshandeling. Daarop geldt één uitzondering, namelijk de situatie waarbij de werknemer instemt met een beëindiging van zijn dienstbetrekking als de werkgever door UWV een loonsanctie is opgelegd. Zie in dit verband verder de toelichting op paragraaf 5.
+
+Er is overigens wel sprake van een benadelingshandeling, als de dienstbetrekking onnodig vroeg tot een einde komt. In paragraaf 4 wordt nader op deze situatie ingezoomd.
 
 UWV zal bij elk einde van een dienstbetrekking vaststellen of het initiatief tot die beëindiging van de werkgever of van de werknemer is gekomen. Als dat initiatief bij de werkgever ligt, wordt alleen onderzocht of er een arbeidsrechtelijke dringende reden voor de werkgever aanwezig was om werknemer te ontslaan. Als wordt vastgesteld dat hiervan sprake was, en de werknemer terzake een verwijt kan worden gemaakt, is er sprake van verwijtbare werkloosheid in de zin van [artikel 24, lid 2, onder a, WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=24).
 
@@ -125,7 +131,7 @@ Er is overigens wel sprake van een benadelingshandeling, als de dienstbetrekking
 
 Als na onderzoek door UWV onduidelijk blijft of werkgever dan wel werknemer het initiatief heeft genomen, dan gaat UWV er vanuit dat het initiatief aan de kant van de werkgever ligt. Beoordeling of sprake is van verwijtbare werkloosheid vindt dan plaats op grond van [artikel 24, tweede lid, onder a, WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=24).
 
-Als het initiatief tot beëindiging van de dienstbetrekking van de werknemer komt, moet onderzocht worden of voortzetting van de dienstbetrekking van de werknemer te vergen was geweest. Deze beoordeling wijkt niet af van die vóór 1 oktober 2006.
+### Paragraaf 2. Einde dienstbetrekking om bedrijfseconomische reden altijd op initiatief werkgever
 
 Het is mogelijk dat uit het onderzoek naar een beëindiging van de dienstbetrekking door de werknemer blijkt dat er sprake is van een arbeidsrechtelijke dringende reden. Te denken valt aan de situatie waarin de werknemer enkel ontslag heeft genomen om te voorkomen dat de werkgever tot ontslag op staande voet zou zijn overgegaan. In dat geval acht UWV [artikel 24, tweede lid, onder a, WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=24), van toepassing.
 
@@ -137,49 +143,83 @@ Met paragraaf 2 van het besluit wordt aangegeven dat de werknemer bij een einde 
 
 Onder het begrip ‘dienstbetrekking’ wordt in dit beleidsbesluit zowel de privaatrechtelijke als de publiekrechtelijke dienstbetrekking verstaan. Paragraaf 2 heeft ook betrekking op de situatie waarbij een ambtenaar instemt met een beëindiging door het bevoegde gezag van de aanstelling als ambtenaar. Onder een beëindiging wegens bedrijfseconomische redenen van publiekrechtelijke dienstbetrekking verstaat UWV wat in het ambtenarenrecht daaronder wordt verstaan. In het ambtenarenrecht worden voor een beëindiging wegens bedrijfseconomische redenen begrippen gebruikt als reorganisaties, privatiseringen, overplaatsingen, decentralisaties, intrekken van formatieplaatsen, afsplitsingen, enzovoorts.
 
-### Paragraaf 3. Door eigen toedoen geen passende arbeid behouden
+Dit ligt ook voor de hand omdat het om vergelijkbare gevallen gaat, terwijl niet gesproken kan worden van verwijtbaar werkloos worden, bijvoorbeeld omdat de dienstbetrekking niet eindigt.
 
 In paragraaf 3 wordt ingegaan op [artikel 24, lid 7, WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=24). [Artikel 24, lid 7, WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=24) bepaalt dat de met ingang van 1 oktober 2006 geldende bepalingen over verwijtbare werkloosheid tevens van toepassing zijn op [artikel 24, lid 1, onder b, ten derde, WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=24) (door eigen toedoen geen passende arbeid behouden). Dit betekent dat situaties die vanaf 1 oktober 2006 niet langer onder de omschrijving van verwijtbare werkloosheid vallen, niet via ‘benadelingshandeling’ alsnog tot het opleggen van een maatregel kunnen leiden. Anders zou de nieuwe wetgeving zijn doel voorbijschieten.
 
 In de jurisprudentie die over het door eigen toedoen geen passende arbeid behouden is ontwikkeld, is in grote lijnen dezelfde invulling gegeven als aan de verplichting voor de werknemer om te voorkomen dat hij verwijtbaar werkloos wordt.
 
-Dit ligt ook voor de hand omdat het om vergelijkbare gevallen gaat, terwijl niet gesproken kan worden van verwijtbaar werkloos worden, bijvoorbeeld omdat de dienstbetrekking niet eindigt.
+### Paragraaf 4. Benadeling door nodeloze vervroeging van het intreden van werkloosheid
 
 Onder het begrip ‘niet behouden van passende arbeid’ wordt bijvoorbeeld verstaan: de situatie dat er geen verlenging van een arbeidsovereenkomst plaatsvindt doordat de werknemer een aanbod van de werkgever afslaat. Ook kan gedacht worden aan de volgende omstandigheden:
 
 UWV zal in de situatie waarin sprake is van ‘door eigen toedoen geen passende arbeid behouden’ aan de criteria van [artikel 24, lid 2, onder a of b, WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=24), toetsen. Het voorgaande betekent ook dat het UWV beoordeelt of aan de aanvaarding van de verlenging van een tijdelijk contract zodanige bezwaren kleven dat die aanvaarding van de werknemer niet kan worden gevraagd. Er wordt niet door het UWV beoordeeld of de werknemer had moeten protesteren tegen het einde van de dienstbetrekking. De eventuele maatregel die door het UWV wordt opgelegd kent als basis een overtreding van [artikel 24, lid 1, onder b, ten derde, WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=24). Om die reden zal UWV bij de toepassing van [artikel 24, eerste lid, onderdeel b, ten derde, WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=24), dezelfde maatstaf voor de gedraging van de werknemer aanleggen als bij de verwijtbaarheidstoets.
 
-### Paragraaf 4. Benadeling door nodeloze vervroeging van het intreden van werkloosheid
+In de Memorie van Antwoord (Eerste Kamer, 30370, C, pagina 21) wordt nog ingegaan op de schadevergoeding wegens een te korte opzegtermijn. Opgemerkt wordt dat de voorgestelde wijziging als oogmerk heeft om het afzien van een verweer tegen het ontslag als zodanig niet langer aan te merken is als een overtreding van de verplichtingen op grond van de WW. Dit laat onverlet dat andere handelingen waardoor de WW-fondsen worden benadeeld, als benadelingshandeling kunnen worden aangemerkt. Dat kan onder meer het geval zijn als de werknemer door zijn handelen een nodeloze vervroeging van de werkloosheidsdatum bewerkstelligt, bijvoorbeeld door af te zien van een schadevergoeding wegens een te korte opzegtermijn.
 
-In paragraaf 4 is toegelicht in welke gevallen het instemmen met het einde van de dienstbetrekking tot een benadelingshandeling kan leiden. UWV volgt hierin de lijn die in de parlementaire stukken is uitgezet. In de Memorie van Toelichting (Tweede Kamer, 30370 nr. 3, artikelsgewijze toelichting) wordt hierover het volgende opgemerkt:
+### Paragraaf 5. Einde dienstbetrekking tijdens loonsanctie
 
 ‘Van de werknemer wordt wel verwacht dat hij – indien nodig in rechte – vordert dat bij de beëindiging van zijn dienstbetrekking rekening wordt gehouden met de termijn die bij regelmatige opzegging van de arbeidsovereenkomst door de werkgever rechtens zou gelden. Dit behoeft geen expliciete regeling, maar vloeit voort uit de zinsnede ‘het instemmen... met de beëindiging van de dienstbetrekking’. De niet-verwijtbaarheid heeft dus uitsluitend betrekking op de beëindiging als zodanig, en niet op de daaraan verbonden voorwaarden. De werknemer moet dus wel in het verweer komen tegen een te vroege opzegging door de werkgever en ook bij een beëindiging met wederzijds goedvinden voorkomen dat hij de WW-fondsen benadeelt.’
 
 In de Memorie van Antwoord (Eerste Kamer, 30370, C, pagina 21) wordt nog ingegaan op de schadevergoeding wegens een te korte opzegtermijn. Opgemerkt wordt dat de voorgestelde wijziging als oogmerk heeft om het afzien van een verweer tegen het ontslag als zodanig niet langer aan te merken is als een overtreding van de verplichtingen op grond van de WW. Dit laat onverlet dat andere handelingen waardoor de WW-fondsen worden benadeeld, als benadelingshandeling kunnen worden aangemerkt. Dat kan onder meer het geval zijn als de werknemer door zijn handelen een nodeloze vervroeging van de werkloosheidsdatum bewerkstelligt, bijvoorbeeld door af te zien van een schadevergoeding wegens een te korte opzegtermijn.
 
-### Paragraaf 5. Einde dienstbetrekking tijdens loonsanctie
+Voor het tijdvak genoemd in [artikel 25, negende lid, Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=25), (tijdvak dat de werkgever een loonsanctie door het UWV heeft opgelegd gekregen), geeft de werknemer loonaanspraken prijs. Tijdens het restant van het tijdvak van 52 weken waarover UWV de werkgever een loonsanctie heeft opgelegd, wordt de werknemer door UWV in beginsel een maatregel opgelegd op grond van [artikel 7, lid 1, onderdeel b, Maatregelenbesluit UWV](https://wetten.overheid.nl/jci1.3:c:BWBR0017084&artikel=7). Deze maatregel houdt in dat de WW-uitkering tijdelijk geheel wordt geweigerd voor de duur dat de werknemer aanspraak op loon zou hebben doen gelden, dan wel de dienstbetrekking zou hebben kunnen voortduren.
 
-In paragraaf 5 wordt een bijzondere vorm behandeld waarin het instemmen met het einde van de dienstbetrekking tot een benadelingshandeling leidt. Op het uitgangspunt dat de werknemer niet hoeft te protesteren tegen het door de werkgever geïnitieerde ontslag bestaat één uitzondering, namelijk de situatie dat de werknemer akkoord gaat met de beëindiging van de dienstbetrekking tijdens de periode dat zijn werkgever door UWV op grond van [artikel 25, lid 9, WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=25), een loonsanctie is opgelegd.
+### Paragraaf 6. Verwijtbaar gedrag niet in overwegende mate aan werknemer te wijten
 
 UWV kan de werkgever verplichten het loon tijdens ziekte langer dan twee jaar door te betalen als de werkgever in die twee jaar onvoldoende re-integratie-inspanningen heeft verricht. Wanneer de werkgever in die verlengde periode de werknemer ontslaat, vervalt die verplichting tot doorbetaling van loon. In de [ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) is geregeld dat de werknemer in die situatie geen recht op ZW-uitkering heeft, omdat een recht op ZW-uitkering het effect van de loonsanctie teniet zou doen. In die situatie zou de werknemer zich beschikbaar kunnen stellen voor passend werk, niet zijnde het werk waarvoor hij arbeidsongeschikt is. Daarmee kan de werknemer voldoen aan alle voorwaarden voor het recht op WW-uitkering. In [artikel 24, lid 10, WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=24), dat per 1 januari 2007 in werking treedt, is daarom bepaald dat de werknemer in die situatie een benadelingshandeling pleegt, wanneer hij in deze situatie zonder deugdelijke grond niet protesteert tegen de beëindiging van de dienstbetrekking.
 
 Voor het tijdvak genoemd in [artikel 25, negende lid, Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=25), (tijdvak dat de werkgever een loonsanctie door het UWV heeft opgelegd gekregen), geeft de werknemer loonaanspraken prijs. Tijdens het restant van het tijdvak van 52 weken waarover UWV de werkgever een loonsanctie heeft opgelegd, wordt de werknemer door UWV in beginsel een maatregel opgelegd op grond van [artikel 7, lid 1, onderdeel b, Maatregelenbesluit UWV](https://wetten.overheid.nl/jci1.3:c:BWBR0017084&artikel=7). Deze maatregel houdt in dat de WW-uitkering tijdelijk geheel wordt geweigerd voor de duur dat de werknemer aanspraak op loon zou hebben doen gelden, dan wel de dienstbetrekking zou hebben kunnen voortduren.
 
-### Paragraaf 6. Verwijtbaar gedrag niet in overwegende mate aan werknemer te wijten
+De werknemer is verwijtbaar werkloos geworden, indien hij zich verwijtbaar zodanig heeft gedragen dat hij redelijkerwijs heeft moeten begrijpen, dat dit gedrag de beëindiging van zijn dienstbetrekking tot gevolg zou kunnen hebben.
 
 Ten aanzien van paragraaf 6 kan de volgende toelichting worden gegeven.
 
 In Tica-mededeling 96.87b werd een afbakening gegeven voor maatregelen bij verwijtbare werkloosheid. Ten aanzien van het bepaalde in [artikel 24, lid 2, onder a, WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=24) (de zogenaamde a-grond) werden daarin twee weegfactoren genoemd: de mate van voorzienbaarheid en de mate waarin het gedrag de werknemer viel aan te rekenen. Deze afbakening berustte op de formulering van [artikel 24, lid 2, onder a, WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=24) zoals die tot 1 oktober 2006 luidde:
 
-De werknemer is verwijtbaar werkloos geworden, indien hij zich verwijtbaar zodanig heeft gedragen dat hij redelijkerwijs heeft moeten begrijpen, dat dit gedrag de beëindiging van zijn dienstbetrekking tot gevolg zou kunnen hebben.
+### Paragraaf 7. Duur maatregel bij niet-verwijtbare eindiging dienstbetrekking binnen 3 maanden na verwijtbare eindiging
 
 Het element ‘dat hij redelijkerwijs heeft moeten begrijpen dat dit gedrag de beëindiging van zijn dienstbetrekking tot gevolg zou kunnen hebben’ is op en na 1 oktober 2006 niet meer in de wet opgenomen. Om die reden is de weegfactor ‘de mate van voorzienbaarheid’ niet langer een reden om de op te leggen maatregel te matigen.
 
 Bij de vaststelling dat er sprake is van verwijtbare werkloosheid dan wel de situatie waarin door eigen toedoen geen passende arbeid behouden is, dient in beginsel te worden uitgegaan van de maatregel: blijvend gehele weigering van de uitkering. In een individueel geval kan op basis van de weegfactor ‘de mate waarin het gedrag de werknemer viel aan te rekenen’ een zodanige maatregel worden opgelegd, dat de uitkering slechts 35% in plaats van 70 of 75% van het dagloon bedraagt gedurende maximaal 26 weken.
 
-### Paragraaf 7. Duur maatregel bij niet-verwijtbare eindiging dienstbetrekking binnen 3 maanden na verwijtbare eindiging
+Naar aanleiding van een uitspraak van de Centrale Raad van Beroep van 13 september 2000 (RSV 2001/5) legt UWV in die specifieke situatie een maatregel op, die er uit bestaat de WW-uitkering wordt geweigerd voor de duur van de periode dat de werknemer nog in dienst had kunnen zijn.
 
 Ten slotte wordt in paragraaf 7 de situatie behandeld van een niet-verwijtbare eindiging van de dienstbetrekking binnen drie maanden na een verwijtbare eindiging.
+
+Dit besluit wordt met de toelichting en de bijlage in de Staatscourant geplaatst.
+
+[Artikel 24, lid 10, WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=24) luidt daarom als volgt:
+
+### Paragraaf 6. Verwijtbaar gedrag niet in overwegende mate aan de werknemer te wijten
+
+[Artikel 27, eerste lid, WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=27), bepaalt dat een lagere maatregel wordt opgelegd indien het niet nakomen van de verplichting als bedoeld in [artikel 24, eerste lid, onder a en onder b, ten derde, WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=24), de werknemer niet in overwegende mate kan worden verweten.
+
+Wanneer de werkloosheid veroorzaakt wordt doordat de werknemer de werkzaamheden en/of de dienstbetrekking heeft beëindigd dan wel de werkgever daartoe heeft verzocht, worden de volgende weegfactoren toegepast:
+
+### Toelichting op de beleidsregels toepassing [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=24) en [27 WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=27)
+
+### Paragraaf 1. Eindiging van de dienstbetrekking op initiatief werkgever of werknemer en beoordeling arbeidsrechtelijke dringende reden
+
+Als het initiatief tot beëindiging van de dienstbetrekking van de werknemer komt, moet onderzocht worden of voortzetting van de dienstbetrekking van de werknemer te vergen was geweest. Deze beoordeling wijkt niet af van die vóór 1 oktober 2006.
+
+### Paragraaf 3. Door eigen toedoen geen passende arbeid behouden
+
+Dit ligt ook voor de hand omdat het om vergelijkbare gevallen gaat, terwijl niet gesproken kan worden van verwijtbaar werkloos worden, bijvoorbeeld omdat de dienstbetrekking niet eindigt.
+
+### Paragraaf 4. Benadeling door nodeloze vervroeging van het intreden van werkloosheid
+
+In paragraaf 4 is toegelicht in welke gevallen het instemmen met het einde van de dienstbetrekking tot een benadelingshandeling kan leiden. UWV volgt hierin de lijn die in de parlementaire stukken is uitgezet. In de Memorie van Toelichting (Tweede Kamer, 30370 nr. 3, artikelsgewijze toelichting) wordt hierover het volgende opgemerkt:
+
+### Paragraaf 5. Einde dienstbetrekking tijdens loonsanctie
+
+In paragraaf 5 wordt een bijzondere vorm behandeld waarin het instemmen met het einde van de dienstbetrekking tot een benadelingshandeling leidt. Op het uitgangspunt dat de werknemer niet hoeft te protesteren tegen het door de werkgever geïnitieerde ontslag bestaat één uitzondering, namelijk de situatie dat de werknemer akkoord gaat met de beëindiging van de dienstbetrekking tijdens de periode dat zijn werkgever door UWV op grond van [artikel 25, lid 9, WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=25), een loonsanctie is opgelegd.
+
+### Paragraaf 6. Verwijtbaar gedrag niet in overwegende mate aan werknemer te wijten
+
+De werknemer is verwijtbaar werkloos geworden, indien hij zich verwijtbaar zodanig heeft gedragen dat hij redelijkerwijs heeft moeten begrijpen, dat dit gedrag de beëindiging van zijn dienstbetrekking tot gevolg zou kunnen hebben.
+
+### Paragraaf 7. Duur maatregel bij niet-verwijtbare eindiging dienstbetrekking binnen 3 maanden na verwijtbare eindiging
 
 Bij verwijtbare werkloosheid wordt doorgaans een blijvend gehele weigering van de WW-uitkering toegepast, dan wel in geval van verminderde verwijtbaarheid een maatregel opgelegd die er uit bestaat dat gedurende een periode van (maximaal) 26 weken het uitkeringspercentage verlaagd wordt van 70 of 75% naar 35%.
 
