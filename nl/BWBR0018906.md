@@ -4,7 +4,7 @@ identifier: "BWBR0018906"
 country: "nl"
 rank: "wet"
 publication_date: "2022-01-01"
-last_updated: "2006-10-01"
+last_updated: "2007-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018906"
 soort: "wet"
@@ -51,21 +51,21 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - a. Onze Minister: Onze Minister van Volksgezondheid, Welzijn en Sport;
 
-- b. College bouw: het College bouw zorginstellingen, genoemd in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=VI&paragraaf=1&artikel=19&z=2006-10-01&g=2006-10-01);
+- b. College bouw: het College bouw zorginstellingen, genoemd in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=VI&paragraaf=1&artikel=19&z=2007-01-01&g=2007-01-01);
 
-- c. College sanering: het College sanering zorginstellingen, genoemd in [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=VI&paragraaf=2&artikel=32&z=2006-10-01&g=2006-10-01);
+- c. College sanering: het College sanering zorginstellingen, genoemd in [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=VI&paragraaf=2&artikel=32&z=2007-01-01&g=2007-01-01);
 
 - d. College zorgverzekeringen: het College voor zorgverzekeringen, genoemd in [artikel 58, eerste lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=58);
 
 - e. Algemeen Fonds Bijzondere Ziektekosten: het fonds, genoemd in [artikel 89 van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=89);
 
-- f. instelling: een organisatorisch verband dat een toelating heeft als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=III&artikel=5&z=2006-10-01&g=2006-10-01);
+- f. instelling: een organisatorisch verband dat een toelating heeft als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=III&artikel=5&z=2007-01-01&g=2007-01-01);
 
 - g. exploitatie van een instelling: het in bedrijf hebben van een instelling.
 
 2. Bij algemene maatregel van bestuur kan met betrekking tot daarbij aan te wijzen categorieën van instellingen worden bepaald dat delen van deze wet op die instellingen of een deel daarvan niet van toepassing zijn.
 
-3. Bij algemene maatregel van bestuur kan met betrekking tot daarbij aan te wijzen categorieën van instellingen worden bepaald dat zij, al dan niet onder voorwaarden of beperkingen, voor de toepassing van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=III&artikel=5&z=2006-10-01&g=2006-10-01), worden aangemerkt als in het bezit van een toelating.
+3. Bij algemene maatregel van bestuur kan met betrekking tot daarbij aan te wijzen categorieën van instellingen worden bepaald dat zij, al dan niet onder voorwaarden of beperkingen, voor de toepassing van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=III&artikel=5&z=2007-01-01&g=2007-01-01), worden aangemerkt als in het bezit van een toelating.
 
 ##### Artikel 2
 
@@ -81,13 +81,13 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 3
 
-1. Onze Minister maakt, gelet op de ontwikkelingen in de gezondheidszorg, ten minste eenmaal in de vier jaar zijn visie op een kwalitatief goed, doelmatig, evenwichtig en voor eenieder toegankelijk stelsel van gezondheidszorg bekend. In deze visie is tevens opgenomen hoe de bereikbaarheid van de acute zorg, daaronder begrepen de daaraan verbonden basiszorg, en van andere vormen van zorg ten aanzien waarvan aan de bereikbaarheid een bijzonder belang wordt gehecht, is gewaarborgd. Deze visie bevat tevens het financieel kader dat beschikbaar is voor de kosten voortvloeiend uit toelatingen die Onze Minister verleent met toepassing van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=III&artikel=7&z=2006-10-01&g=2006-10-01).
+1. Onze Minister maakt, gelet op de ontwikkelingen in de gezondheidszorg, ten minste eenmaal in de vier jaar zijn visie op een kwalitatief goed, doelmatig, evenwichtig en voor eenieder toegankelijk stelsel van gezondheidszorg bekend. In deze visie is tevens opgenomen hoe de bereikbaarheid van de acute zorg, daaronder begrepen de daaraan verbonden basiszorg, en van andere vormen van zorg ten aanzien waarvan aan de bereikbaarheid een bijzonder belang wordt gehecht, is gewaarborgd. Deze visie bevat tevens het financieel kader dat beschikbaar is voor de kosten voortvloeiend uit toelatingen die Onze Minister verleent met toepassing van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=III&artikel=7&z=2007-01-01&g=2007-01-01).
 
 2. Onze Minister zendt een afschrift van zijn visie aan beide kamers der Staten-Generaal en aan het College bouw.
 
 ##### Artikel 4
 
-Onze Minister stelt, gezien zijn visie, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=II&artikel=3&z=2006-10-01&g=2006-10-01), beleidsregels vast omtrent de beoordeling van aanvragen om toelating als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=III&artikel=5&z=2006-10-01&g=2006-10-01). Deze beleidsregels bevatten in ieder geval criteria omtrent de spreiding van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=II&artikel=3&z=2006-10-01&g=2006-10-01) bedoelde vormen van zorg ten aanzien waarvan aan de bereikbaarheid een bijzonder belang wordt gehecht. In de beleidsregels stelt Onze Minister voorts criteria vast voor het bepalen van de prioriteit van aanvragen om een toelating waarop Onze Minister beslist met toepassing van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=III&artikel=7&z=2006-10-01&g=2006-10-01); deze criteria hebben in ieder geval betrekking op de bouwkundige en functionele staat van de instellingen.
+Onze Minister stelt, gezien zijn visie, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=II&artikel=3&z=2007-01-01&g=2007-01-01), beleidsregels vast omtrent de beoordeling van aanvragen om toelating als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=III&artikel=5&z=2007-01-01&g=2007-01-01). Deze beleidsregels bevatten in ieder geval criteria omtrent de spreiding van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=II&artikel=3&z=2007-01-01&g=2007-01-01) bedoelde vormen van zorg ten aanzien waarvan aan de bereikbaarheid een bijzonder belang wordt gehecht. In de beleidsregels stelt Onze Minister voorts criteria vast voor het bepalen van de prioriteit van aanvragen om een toelating waarop Onze Minister beslist met toepassing van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=III&artikel=7&z=2007-01-01&g=2007-01-01); deze criteria hebben in ieder geval betrekking op de bouwkundige en functionele staat van de instellingen.
 
 ### Hoofdstuk III. Toelating en bouwprocedure
 
@@ -105,19 +105,19 @@ Bij algemene maatregel van bestuur wordt vastgesteld:
 
 - b. welke gegevens bij de aanvraag worden overgelegd;
 
-- c. met betrekking tot aanvragen waarop Onze Minister beslist met toepassing van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=III&artikel=7&z=2006-10-01&g=2006-10-01): de termijn na de aanvang van een periode van telkens twee jaar, waarbinnen aanvragen in behandeling worden genomen met het oog op het toepassen van de beleidsregels, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=II&artikel=4&z=2006-10-01&g=2006-10-01). De eerste periode van twee jaar vangt aan op het tijdstip van inwerkingtreding van deze wet dan wel, indien dat tijdstip niet 1 januari van enig jaar is, op 1 januari van het jaar, volgend op dat waarin deze wet in werking treedt.
+- c. met betrekking tot aanvragen waarop Onze Minister beslist met toepassing van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=III&artikel=7&z=2007-01-01&g=2007-01-01): de termijn na de aanvang van een periode van telkens twee jaar, waarbinnen aanvragen in behandeling worden genomen met het oog op het toepassen van de beleidsregels, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=II&artikel=4&z=2007-01-01&g=2007-01-01). De eerste periode van twee jaar vangt aan op het tijdstip van inwerkingtreding van deze wet dan wel, indien dat tijdstip niet 1 januari van enig jaar is, op 1 januari van het jaar, volgend op dat waarin deze wet in werking treedt.
 
 ##### Artikel 7
 
-1. Indien een organisatorisch verband, behorende tot een bij algemene maatregel van bestuur aangewezen categorie, een toelating vraagt voor het verlenen van zorg ten behoeve waarvan een bij die maatregel aangewezen vorm van bouw plaatsvindt, beslist Onze Minister vóór het eind van de tweejaarlijkse periode, bedoeld in [artikel 6, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=III&artikel=6&z=2006-10-01&g=2006-10-01), waarin de aanvraag in behandeling is genomen. Onze Minister stelt de zorgverzekeraars in de zin van [artikel 1, onderdeel b, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=1) gezamenlijk in de gelegenheid hun zienswijze kenbaar te maken.
+1. Indien een organisatorisch verband, behorende tot een bij algemene maatregel van bestuur aangewezen categorie, een toelating vraagt voor het verlenen van zorg ten behoeve waarvan een bij die maatregel aangewezen vorm van bouw plaatsvindt, beslist Onze Minister vóór het eind van de tweejaarlijkse periode, bedoeld in [artikel 6, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=III&artikel=6&z=2007-01-01&g=2007-01-01), waarin de aanvraag in behandeling is genomen. Onze Minister stelt de zorgverzekeraars in de zin van [artikel 1, onderdeel b, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=1) gezamenlijk in de gelegenheid hun zienswijze kenbaar te maken.
 
-2. Onze Minister wint over een aanvraag om een toelating als bedoeld in het eerste lid het advies in van het College bouw. Het College bouw beziet de aanvraag onder meer in het licht van de eisen, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=III&artikel=10&z=2006-10-01&g=2006-10-01).
+2. Onze Minister wint over een aanvraag om een toelating als bedoeld in het eerste lid het advies in van het College bouw. Het College bouw beziet de aanvraag onder meer in het licht van de eisen, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=III&artikel=10&z=2007-01-01&g=2007-01-01).
 
 3. Onze Minister verleent een toelating indien:
 
-- a. de exploitatie past in de beleidsregels, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=II&artikel=4&z=2006-10-01&g=2006-10-01);
+- a. de exploitatie past in de beleidsregels, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=II&artikel=4&z=2007-01-01&g=2007-01-01);
 
-- b. na toepassing van de beleidsregels, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=II&artikel=4&z=2006-10-01&g=2006-10-01), het verlenen van een toelating niet zou leiden tot overschrijding van het financieel kader dat blijkens [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=II&artikel=3&z=2006-10-01&g=2006-10-01), daarvoor beschikbaar is; en
+- b. na toepassing van de beleidsregels, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=II&artikel=4&z=2007-01-01&g=2007-01-01), het verlenen van een toelating niet zou leiden tot overschrijding van het financieel kader dat blijkens [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=II&artikel=3&z=2007-01-01&g=2007-01-01), daarvoor beschikbaar is; en
 
 - c. het organisatorisch verband voldoet aan bij algemene maatregel van bestuur te stellen eisen omtrent de bestuursstructuur, alsmede omtrent waarborgen voor een ordelijke en controleerbare bedrijfsvoering.
 
@@ -125,13 +125,13 @@ Bij algemene maatregel van bestuur wordt vastgesteld:
 
 ##### Artikel 8
 
-Indien het verlenen van een toelating niet mogelijk is op grond van [artikel 7, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=III&artikel=7&z=2006-10-01&g=2006-10-01), houdt Onze Minister op verzoek van de aanvrager van de toelating de beslissing op diens aanvraag aan tot de eerstvolgende keer dat op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=III&artikel=7&z=2006-10-01&g=2006-10-01) over aanvragen moet worden beslist.
+Indien het verlenen van een toelating niet mogelijk is op grond van [artikel 7, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=III&artikel=7&z=2007-01-01&g=2007-01-01), houdt Onze Minister op verzoek van de aanvrager van de toelating de beslissing op diens aanvraag aan tot de eerstvolgende keer dat op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=III&artikel=7&z=2007-01-01&g=2007-01-01) over aanvragen moet worden beslist.
 
 ##### Artikel 9
 
-1. Onze Minister verleent een toelating waarop hij niet beslist met toepassing van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=III&artikel=7&z=2006-10-01&g=2006-10-01), indien:
+1. Onze Minister verleent een toelating waarop hij niet beslist met toepassing van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=III&artikel=7&z=2007-01-01&g=2007-01-01), indien:
 
-- a. de exploitatie past in de beleidsregels, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=II&artikel=4&z=2006-10-01&g=2006-10-01);
+- a. de exploitatie past in de beleidsregels, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=II&artikel=4&z=2007-01-01&g=2007-01-01);
 
 - b. het organisatorisch verband voldoet aan bij algemene maatregel van bestuur te stellen eisen omtrent de bestuursstructuur, alsmede omtrent waarborgen voor een ordelijke en controleerbare bedrijfsvoering.
 
@@ -151,11 +151,11 @@ Indien het verlenen van een toelating niet mogelijk is op grond van [artikel 7, 
 
 ##### Artikel 11
 
-1. Voor bouw waarvoor Onze Minister met toepassing van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=III&artikel=7&z=2006-10-01&g=2006-10-01) toelating heeft verleend, is een vergunning vereist van het College bouw.
+1. Voor bouw waarvoor Onze Minister met toepassing van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=III&artikel=7&z=2007-01-01&g=2007-01-01) toelating heeft verleend, is een vergunning vereist van het College bouw.
 
 2. Het College bouw verleent de vergunning voor zover de beoogde bouw:
 
-- a. overeenkomt met hetgeen waarvoor de toelating, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=III&artikel=7&z=2006-10-01&g=2006-10-01), is verleend; en
+- a. overeenkomt met hetgeen waarvoor de toelating, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=III&artikel=7&z=2007-01-01&g=2007-01-01), is verleend; en
 
 - b. voldoet aan de prestatie-eisen.
 
@@ -165,19 +165,19 @@ Indien het verlenen van een toelating niet mogelijk is op grond van [artikel 7, 
 
 ##### Artikel 12
 
-In de beslissing tot toelating met toepassing van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=III&artikel=7&z=2006-10-01&g=2006-10-01) of in de vergunning op grond van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=III&artikel=11&z=2006-10-01&g=2006-10-01) kan Onze Minister onderscheidenlijk het College bouw opnemen dat voor de eindverantwoording van bouw goedkeuring is vereist van het College bouw. Het College bouw toetst daarbij aan hetgeen waarvoor het vergunning heeft verleend dan wel, indien een vergunning niet was vereist, aan hetgeen waarvoor Onze Minister een toelating heeft verleend. Het College bouw zendt afschrift van zijn beschikkingen aan Onze Minister en van zijn beschikkingen die betrekking hebben op academische ziekenhuizen als bedoeld in [artikel 1.13 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.13), een afschrift aan Onze Minister van Onderwijs, Cultuur en Wetenschap.
+In de beslissing tot toelating met toepassing van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=III&artikel=7&z=2007-01-01&g=2007-01-01) of in de vergunning op grond van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=III&artikel=11&z=2007-01-01&g=2007-01-01) kan Onze Minister onderscheidenlijk het College bouw opnemen dat voor de eindverantwoording van bouw goedkeuring is vereist van het College bouw. Het College bouw toetst daarbij aan hetgeen waarvoor het vergunning heeft verleend dan wel, indien een vergunning niet was vereist, aan hetgeen waarvoor Onze Minister een toelating heeft verleend. Het College bouw zendt afschrift van zijn beschikkingen aan Onze Minister en van zijn beschikkingen die betrekking hebben op academische ziekenhuizen als bedoeld in [artikel 1.13 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.13), een afschrift aan Onze Minister van Onderwijs, Cultuur en Wetenschap.
 
 ### Hoofdstuk IV. Exploitatie
 
 ##### Artikel 13
 
-1. Een instelling voldoet, voorzover van toepassing, aan de eisen, bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=III&artikel=5&z=2006-10-01&g=2006-10-01), en in [artikel 7, derde lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=III&artikel=7&z=2006-10-01&g=2006-10-01), onderscheidenlijk [artikel 9, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=III&artikel=9&z=2006-10-01&g=2006-10-01). Onze Minister kan aan een toelating andere voorschriften verbinden. De voorschriften kunnen worden gewijzigd of ingetrokken en nieuwe voorschriften kunnen worden gesteld.
+1. Een instelling voldoet, voorzover van toepassing, aan de eisen, bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=III&artikel=5&z=2007-01-01&g=2007-01-01), en in [artikel 7, derde lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=III&artikel=7&z=2007-01-01&g=2007-01-01), onderscheidenlijk [artikel 9, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=III&artikel=9&z=2007-01-01&g=2007-01-01). Onze Minister kan aan een toelating andere voorschriften verbinden. De voorschriften kunnen worden gewijzigd of ingetrokken en nieuwe voorschriften kunnen worden gesteld.
 
 2. Onze Minister kan de toelating intrekken indien niet wordt voldaan aan de voorschriften, gesteld bij of krachtens het eerste lid.
 
 ##### Artikel 14
 
-1. Onze Minister kan op grond van de beleidsregels, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=II&artikel=4&z=2006-10-01&g=2006-10-01):
+1. Onze Minister kan op grond van de beleidsregels, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=II&artikel=4&z=2007-01-01&g=2007-01-01):
 
 - a. een toelating onder beperkingen verlenen;
 
@@ -205,11 +205,11 @@ Het bestuur van een instelling, behorende tot een bij algemene maatregel van bes
 
 1. Het bestuur van een instelling wendt zich tot het College sanering binnen zes weken na bekendmaking van een beslissing tot:
 
-- a. beperking of intrekking van een toelating op grond van [artikel 14, eerste lid, onder b of d](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=IV&artikel=14&z=2006-10-01&g=2006-10-01);
+- a. beperking of intrekking van een toelating op grond van [artikel 14, eerste lid, onder b of d](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=IV&artikel=14&z=2007-01-01&g=2007-01-01);
 
 - b. beëindiging van de uitvoering van bijzondere medische verrichtingen of beëindiging van het gebruik van apparatuur op grond van [artikel 6, vijfde lid, van de Wet op bijzondere medische verrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0008974&artikel=6).
 
-2. Het College sanering stelt de financiële gevolgen van sanering vast ter zake van een beslissing als bedoeld in het eerste lid, alsmede ter uitvoering van een beslissing als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=V&artikel=18&z=2006-10-01&g=2006-10-01).
+2. Het College sanering stelt de financiële gevolgen van sanering vast ter zake van een beslissing als bedoeld in het eerste lid, alsmede ter uitvoering van een beslissing als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=V&artikel=18&z=2007-01-01&g=2007-01-01).
 
 3. De in het tweede lid bedoelde vaststelling kan inhouden dat het College sanering subsidie verstrekt ter voorziening in de financiële gevolgen van de sanering.
 
@@ -299,33 +299,79 @@ Het bestuur van een instelling, behorende tot een bij algemene maatregel van bes
 
 ##### Artikel 23
 
-Het College bouw zendt jaarlijks voor 1 oktober aan Onze Minister een werkprogramma voor het volgende kalenderjaar. Het werkprogramma behoeft de instemming van Onze Minister. Onze Minister zendt het werkprogramma aan beide kamers der Staten-Generaal. Het College stelt het werkprogramma algemeen verkrijgbaar.
+1. Het College bouw zendt jaarlijks voor 1 oktober aan Onze Minister een jaarplan voor het volgende kalenderjaar.
+
+2. Het jaarplan omvat:
+
+- a. een werkprogramma met een beschrijving van de activiteiten die het College bouw voornemens is ter uitvoering van zijn taken te verrichten,
+
+- b. een begroting van de beheerskosten voor de uitvoering van de voorgenomen activiteiten, en
+
+- c. een meerjarenraming voor de vier kalenderjaren volgend op het begrotingsjaar.
 
 ##### Artikel 24
 
-Het College bouw zendt jaarlijks voor 1 oktober aan Onze Minister een begroting van zijn beheerskosten voor het volgende kalenderjaar, alsmede een meerjarenraming. De begroting en de meerjarenraming behoeven de instemming van Onze Minister.
+1. Onze Minister stelt jaarlijks voor 1 december het budget voor de beheerskosten van het College bouw voor het volgende kalenderjaar vast.
+
+2. Onze Minister kan besluiten het budget voor de beheerskosten van het College bouw te wijzigen.
+
+3. Indien gedurende het jaar aanmerkelijke verschillen ontstaan of dreigen te ontstaan tussen de werkelijke en de begrote baten en lasten, doet het College bouw daarvan onverwijld mededeling aan Onze Minister, onder vermelding van de oorzaak van de verschillen.
+
+4. Het College bouw gaat met betrekking tot de beheerskosten geen verplichtingen aan en doet geen uitgaven die leiden tot overschrijding van het vastgestelde budget voor de beheerskosten.
+
+5. Indien het budget voor de beheerskosten niet is vastgesteld voor 1 januari van het kalenderjaar waarop de begroting betrekking heeft, is het College bouw bevoegd, teneinde zijn activiteiten gaande te houden, te beschikken over ten hoogste een derde gedeelte van het budget dat laatstelijk voor hem voor een geheel jaar is vastgesteld.
+
+6. Onze Minister kan besluiten dat het College bouw in een geval als bedoeld in het vijfde lid, kan beschikken over meer dan een derde gedeelte van het budget dat laatstelijk voor hem voor een geheel jaar is vastgesteld.
+
+7. Het door Onze Minister vastgestelde budget voor de beheerskosten van het College bouw wordt gedekt uit 's Rijks kas.
 
 ##### Artikel 25
 
-1. Het College bouw stelt jaarlijks een verslag op van de werkzaamheden, het gevoerde beleid in het algemeen en de doelmatigheid en doeltreffendheid van zijn werkwijze in het bijzonder, alsmede gegevens omtrent de uitvoering van het werkprogramma in het afgelopen kalenderjaar.
+1. Het College bouw zendt jaarlijks voor 15 maart aan Onze Minister een jaarverantwoording over het afgelopen kalenderjaar, alsmede het verslag van bevindingen, bedoeld in het zesde lid.
 
-2. Het College bouw zendt het verslag voor 1 juli van het jaar volgend op het verslagjaar aan Onze Minister.
+2. De jaarverantwoording omvat:
 
-3. Onze Minister zendt het verslag aan beide kamers der Staten-Generaal. Het College bouw stelt het verslag algemeen verkrijgbaar.
+- a. een jaarrekening, en
+
+- b. een jaarverslag omtrent het door het College bouw gevoerde beleid, de doeltreffendheid van dat beleid, de bedrijfsvoering en de uitvoering van het werkprogramma in het afgelopen kalenderjaar.
+
+3. Het College bouw legt in zijn jaarrekening, die zoveel mogelijk met overeenkomstige toepassing van [titel 9 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9) wordt ingericht, rekening en verantwoording af over zijn beheerskosten en over de rechtmatigheid en doelmatigheid van het beheer in het afgelopen kalenderjaar.
+
+4. De jaarrekening gaat vergezeld van een verklaring omtrent de getrouwheid, afgegeven door een accountant als bedoeld in [artikel 393 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393), die bereid is Onze Minister desgevraagd inzicht te geven in zijn controlewerkzaamheden.
+
+5. De verklaring heeft mede betrekking op de rechtmatige verkrijging en besteding van de middelen door het College bouw.
+
+6. De accountant voegt bij de verklaring een verslag van zijn bevindingen over de vraag of het beheer en de organisatie voldoen aan eisen van rechtmatigheid, ordelijkheid, controleerbaarheid en doelmatigheid.
 
 ##### Artikel 26
 
-1. Het College bouw brengt jaarlijks voor 1 juli aan Onze Minister een financieel verslag over zijn beheerskosten over het afgelopen kalenderjaar uit, dat vergezeld gaat van een verklaring omtrent de getrouwheid en de rechtmatigheid van de ontvangsten en de uitgaven, afgegeven door een accountant als bedoeld in [artikel 393 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393), alsmede van een rapport van de accountant over de ordelijkheid en controleerbaarheid van het gevoerde financiële beheer.
+1. De onderdelen «werkprogramma» en «begroting» van het jaarplan, bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=VI&paragraaf=1&artikel=23&z=2007-01-01&g=2007-01-01), en het onderdeel «jaarrekening» van de jaarverantwoording, bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=VI&paragraaf=1&artikel=25&z=2007-01-01&g=2007-01-01), behoeven de goedkeuring van Onze Minister.
 
-2. Het financieel verslag behoeft de instemming van Onze Minister. Onze Minister zendt het financieel verslag aan beide kamers der Staten-Generaal. Het College bouw stelt het financieel verslag algemeen verkrijgbaar.
+2. Het eerste lid geldt niet voor wijzigingen in een goedgekeurde begroting, mits:
+
+- a. de totale omvang van de begroting geen wijziging ondergaat, en
+
+- b. de wijziging per groep van kostensoorten en baten, gerekend over het desbetreffende begrotingsjaar, een bedrag van 5 procent van het in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=VI&paragraaf=1&artikel=24&z=2007-01-01&g=2007-01-01) bedoelde budget niet te boven gaat.
+
+3. Bij ministeriële regeling kunnen regels worden gesteld over de inhoud en de inrichting van:
+
+- a. het jaarplan, bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=VI&paragraaf=1&artikel=23&z=2007-01-01&g=2007-01-01);
+
+- b. de jaarverantwoording, bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=VI&paragraaf=1&artikel=25&z=2007-01-01&g=2007-01-01);
+
+- c. de verklaring, bedoeld in [artikel 25, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=VI&paragraaf=1&artikel=25&z=2007-01-01&g=2007-01-01), en het verslag van bevindingen, bedoeld in [artikel 25, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=VI&paragraaf=1&artikel=25&z=2007-01-01&g=2007-01-01), alsmede het aan die verklaring en dat verslag ten grondslag liggende onderzoek.
+
+4. Bij ministeriële regeling worden regels gesteld over de wijze waarop en de voorwaarden waaronder het budget, bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=VI&paragraaf=1&artikel=24&z=2007-01-01&g=2007-01-01), wordt vastgesteld.
 
 ##### Artikel 27
 
-Bij ministeriële regeling kunnen regels worden gesteld over de inrichting van de begroting, het financieel verslag en aandachtspunten voor de accountantscontrole.
+1. Na de goedkeuring, bedoeld in [artikel 26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=VI&paragraaf=1&artikel=26&z=2007-01-01&g=2007-01-01), stelt het College bouw het jaarplan en de jaarverantwoording algemeen verkrijgbaar.
+
+2. Onze Minister brengt zijn oordeel over het functioneren van het College bouw ter kennis van beide Kamers der Staten-Generaal.
 
 ##### Artikel 28
 
-De beheerskosten van het College bouw worden tot ten hoogste het in de begroting aangegeven bedrag gedekt uit ’s Rijks kas. Op grond van de begroting worden maandelijks voorschotten verleend.
+Vervallen
 
 ##### Artikel 29
 
@@ -345,7 +391,7 @@ Onze Minister kan beleidsregels vaststellen met betrekking tot de werkwijze en d
 
 - b. geeft aan Onze Minister inlichtingen met betrekking tot de bouwkundige en functionele staat van de instellingen;
 
-- c. geeft aan Onze Minister desgevraagd advies over beslissingen op aanvragen om toelating als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=III&artikel=7&z=2006-10-01&g=2006-10-01);
+- c. geeft aan Onze Minister desgevraagd advies over beslissingen op aanvragen om toelating als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=III&artikel=7&z=2007-01-01&g=2007-01-01);
 
 - d. geeft voorlichting omtrent het beleid op het terrein van de bouw van instellingen.
 
@@ -359,7 +405,7 @@ Onze Minister kan beleidsregels vaststellen met betrekking tot de werkwijze en d
 
 2. Het College sanering is belast met de taken die hem bij of krachtens de wet zijn opgedragen.
 
-3. De [artikelen 19, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=VI&paragraaf=1&artikel=19&z=2006-10-01&g=2006-10-01), en [20 tot en met 30](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=VI&paragraaf=1&artikel=20&z=2006-10-01&g=2006-10-01) zijn ten aanzien van het College sanering van overeenkomstige toepassing.
+3. De [artikelen 19, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=VI&paragraaf=1&artikel=19&z=2007-01-01&g=2007-01-01), en [20 tot en met 30](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=VI&paragraaf=1&artikel=20&z=2007-01-01&g=2007-01-01) zijn ten aanzien van het College sanering van overeenkomstige toepassing.
 
 #### Paragraaf 3. Inlichtingen
 
@@ -379,13 +425,13 @@ Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn 
 
 ##### Artikel 36
 
-De in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=VII&artikel=35&z=2006-10-01&g=2006-10-01) bedoelde personen beschikken niet over de bevoegdheden, genoemd in de [artikelen 5:18](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:18) en [5:19 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:19).
+De in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=VII&artikel=35&z=2007-01-01&g=2007-01-01) bedoelde personen beschikken niet over de bevoegdheden, genoemd in de [artikelen 5:18](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:18) en [5:19 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:19).
 
 ### Hoofdstuk VIII. Sancties
 
 ##### Artikel 37
 
-Onze Minister is bevoegd tot toepassing van bestuursdwang ter handhaving van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=III&artikel=5&z=2006-10-01&g=2006-10-01), van de bij of krachtens [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=IV&artikel=13&z=2006-10-01&g=2006-10-01) aan een toelating verbonden voorschriften, alsmede van de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=IV&artikel=15&z=2006-10-01&g=2006-10-01) en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=IV&artikel=16&z=2006-10-01&g=2006-10-01). Het College bouw is bevoegd tot toepassing van bestuursdwang ter handhaving van het bepaalde bij of krachtens de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=III&artikel=11&z=2006-10-01&g=2006-10-01) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=III&artikel=12&z=2006-10-01&g=2006-10-01). Het College sanering is bevoegd tot toepassing van bestuursdwang ter handhaving van het bepaalde bij of krachtens de [artikelen 17, eerste en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=V&artikel=17&z=2006-10-01&g=2006-10-01), en [18, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=V&artikel=18&z=2006-10-01&g=2006-10-01).
+Onze Minister is bevoegd tot toepassing van bestuursdwang ter handhaving van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=III&artikel=5&z=2007-01-01&g=2007-01-01), van de bij of krachtens [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=IV&artikel=13&z=2007-01-01&g=2007-01-01) aan een toelating verbonden voorschriften, alsmede van de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=IV&artikel=15&z=2007-01-01&g=2007-01-01) en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=IV&artikel=16&z=2007-01-01&g=2007-01-01). Het College bouw is bevoegd tot toepassing van bestuursdwang ter handhaving van het bepaalde bij of krachtens de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=III&artikel=11&z=2007-01-01&g=2007-01-01) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=III&artikel=12&z=2007-01-01&g=2007-01-01). Het College sanering is bevoegd tot toepassing van bestuursdwang ter handhaving van het bepaalde bij of krachtens de [artikelen 17, eerste en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=V&artikel=17&z=2007-01-01&g=2007-01-01), en [18, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=V&artikel=18&z=2007-01-01&g=2007-01-01).
 
 ### Hoofdstuk IX. Rechtsbescherming
 
@@ -405,9 +451,9 @@ Wijzigt de Algemene Wet Bijzondere Ziektekosten.
 
 ##### Artikel 41
 
-1. Een toelating, verleend krachtens [artikel 8a van de Ziekenfondswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002460&artikel=8a) of [artikel 8 van de Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&artikel=8), zoals die artikelen luidden tot het tijdstip van inwerkingtreding van deze wet, wordt gelijkgesteld met een toelating als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=III&artikel=5&z=2006-10-01&g=2006-10-01).
+1. Een toelating, verleend krachtens [artikel 8a van de Ziekenfondswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002460&artikel=8a) of [artikel 8 van de Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&artikel=8), zoals die artikelen luidden tot het tijdstip van inwerkingtreding van deze wet, wordt gelijkgesteld met een toelating als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=III&artikel=5&z=2007-01-01&g=2007-01-01).
 
-2. Een aanvraag om een toelating, waarop op het tijdstip van inwerkingtreding van deze wet nog niet is beslist, wordt gelijkgesteld met een aanvraag om een toelating als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=III&artikel=5&z=2006-10-01&g=2006-10-01).
+2. Een aanvraag om een toelating, waarop op het tijdstip van inwerkingtreding van deze wet nog niet is beslist, wordt gelijkgesteld met een aanvraag om een toelating als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=III&artikel=5&z=2007-01-01&g=2007-01-01).
 
 ##### Artikel 42
 
@@ -415,23 +461,23 @@ De [Wet ziekenhuisvoorzieningen](https://wetten.overheid.nl/jci1.3:c:BWBR0002753
 
 ##### Artikel 43
 
-Een vergunning, verleend op grond van [artikel 6 van de Wet ziekenhuisvoorzieningen](https://wetten.overheid.nl/jci1.3:c:BWBR0002753&artikel=6), zoals die wet luidde tot het tijdstip van inwerkingtreding van deze wet, wordt gelijkgesteld met een toelating als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=III&artikel=5&z=2006-10-01&g=2006-10-01). De aan de vergunning verbonden voorschriften en beperkingen gelden als voorschriften en beperkingen op grond van de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=IV&artikel=13&z=2006-10-01&g=2006-10-01) onderscheidenlijk [14](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=IV&artikel=14&z=2006-10-01&g=2006-10-01).
+Een vergunning, verleend op grond van [artikel 6 van de Wet ziekenhuisvoorzieningen](https://wetten.overheid.nl/jci1.3:c:BWBR0002753&artikel=6), zoals die wet luidde tot het tijdstip van inwerkingtreding van deze wet, wordt gelijkgesteld met een toelating als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=III&artikel=5&z=2007-01-01&g=2007-01-01). De aan de vergunning verbonden voorschriften en beperkingen gelden als voorschriften en beperkingen op grond van de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=IV&artikel=13&z=2007-01-01&g=2007-01-01) onderscheidenlijk [14](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=IV&artikel=14&z=2007-01-01&g=2007-01-01).
 
 ##### Artikel 44
 
-Het voorschrift, opgenomen in [artikel 13, eerste lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=IV&artikel=13&z=2006-10-01&g=2006-10-01), geldt ten aanzien van instellingen die worden geëxploiteerd op het tijdstip van inwerkingtreding van [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=IV&artikel=13&z=2006-10-01&g=2006-10-01), eerst een jaar na dat tijdstip.
+Het voorschrift, opgenomen in [artikel 13, eerste lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=IV&artikel=13&z=2007-01-01&g=2007-01-01), geldt ten aanzien van instellingen die worden geëxploiteerd op het tijdstip van inwerkingtreding van [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=IV&artikel=13&z=2007-01-01&g=2007-01-01), eerst een jaar na dat tijdstip.
 
 ##### Artikel 45
 
-1. Bouw waarvoor vóór het tijdstip van inwerkingtreding van deze wet een verklaring is afgegeven als bedoeld in [artikel 7 van de Wet ziekenhuisvoorzieningen](https://wetten.overheid.nl/jci1.3:c:BWBR0002753&artikel=7), zoals die wet luidde tot bedoeld tijdstip, bij welke verklaring op grond van [artikel 10, vijfde lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002753&artikel=10) is bepaald dat een aanvraag om goedkeuring van stukken als bedoeld in [artikel 7, eerste lid, onder b of c, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002753&artikel=7) of om een vergunning als bedoeld in [artikel 6 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002753&artikel=6), binnen een daarbij aangegeven termijn niet in behandeling wordt genomen, welke termijn op bovenbedoeld tijdstip nog niet is verstreken, wordt gelijkgesteld met bouw waarvoor een aanvraag om een toelating als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=III&artikel=5&z=2006-10-01&g=2006-10-01), van deze wet is ingediend. Het bepaalde krachtens [artikel 7, derde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=III&artikel=7&z=2006-10-01&g=2006-10-01), is op die aanvraag niet van toepassing.
+1. Bouw waarvoor vóór het tijdstip van inwerkingtreding van deze wet een verklaring is afgegeven als bedoeld in [artikel 7 van de Wet ziekenhuisvoorzieningen](https://wetten.overheid.nl/jci1.3:c:BWBR0002753&artikel=7), zoals die wet luidde tot bedoeld tijdstip, bij welke verklaring op grond van [artikel 10, vijfde lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002753&artikel=10) is bepaald dat een aanvraag om goedkeuring van stukken als bedoeld in [artikel 7, eerste lid, onder b of c, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002753&artikel=7) of om een vergunning als bedoeld in [artikel 6 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002753&artikel=6), binnen een daarbij aangegeven termijn niet in behandeling wordt genomen, welke termijn op bovenbedoeld tijdstip nog niet is verstreken, wordt gelijkgesteld met bouw waarvoor een aanvraag om een toelating als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=III&artikel=5&z=2007-01-01&g=2007-01-01), van deze wet is ingediend. Het bepaalde krachtens [artikel 7, derde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=III&artikel=7&z=2007-01-01&g=2007-01-01), is op die aanvraag niet van toepassing.
 
-2. Een verklaring ter zake van bouw als bedoeld in [artikel 7 van de Wet ziekenhuisvoorzieningen](https://wetten.overheid.nl/jci1.3:c:BWBR0002753&artikel=7), zoals die wet luidde tot het tijdstip van inwerkingtreding van deze wet, waarbij niet een bepaling is opgenomen als bedoeld in het eerste lid of waarbij de daarbedoelde termijn reeds is verstreken, en die nog niet is gevolgd door een vergunning als bedoeld in [artikel 6 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002753&artikel=6), wordt gelijkgesteld met een toelating als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=III&artikel=5&z=2006-10-01&g=2006-10-01), van deze wet. De [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=III&artikel=11&z=2006-10-01&g=2006-10-01) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=III&artikel=12&z=2006-10-01&g=2006-10-01) zijn van overeenkomstige toepassing.
+2. Een verklaring ter zake van bouw als bedoeld in [artikel 7 van de Wet ziekenhuisvoorzieningen](https://wetten.overheid.nl/jci1.3:c:BWBR0002753&artikel=7), zoals die wet luidde tot het tijdstip van inwerkingtreding van deze wet, waarbij niet een bepaling is opgenomen als bedoeld in het eerste lid of waarbij de daarbedoelde termijn reeds is verstreken, en die nog niet is gevolgd door een vergunning als bedoeld in [artikel 6 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002753&artikel=6), wordt gelijkgesteld met een toelating als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=III&artikel=5&z=2007-01-01&g=2007-01-01), van deze wet. De [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=III&artikel=11&z=2007-01-01&g=2007-01-01) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=III&artikel=12&z=2007-01-01&g=2007-01-01) zijn van overeenkomstige toepassing.
 
-3. Een aanvraag om een verklaring, waarop op het tijdstip van inwerkingtreding van deze wet nog niet is beslist, wordt gelijkgesteld met een aanvraag om een toelating als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=III&artikel=5&z=2006-10-01&g=2006-10-01).
+3. Een aanvraag om een verklaring, waarop op het tijdstip van inwerkingtreding van deze wet nog niet is beslist, wordt gelijkgesteld met een aanvraag om een toelating als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=III&artikel=5&z=2007-01-01&g=2007-01-01).
 
 ##### Artikel 46
 
-Na de inwerkingtreding van deze wet berusten de regels, vastgesteld krachtens de [artikelen 2a, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002753&artikel=2a), [18b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002753&artikel=18b), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0002753&artikel=22) en [23 van de Wet ziekenhuisvoorzieningen](https://wetten.overheid.nl/jci1.3:c:BWBR0002753&artikel=23), zoals [die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002753) tot die inwerkingtreding luidde, achtereenvolgens op de [artikelen 20, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=VI&paragraaf=1&artikel=20&z=2006-10-01&g=2006-10-01), [17, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=V&artikel=17&z=2006-10-01&g=2006-10-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=IV&artikel=16&z=2006-10-01&g=2006-10-01) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=IV&artikel=15&z=2006-10-01&g=2006-10-01) van deze wet.
+Na de inwerkingtreding van deze wet berusten de regels, vastgesteld krachtens de [artikelen 2a, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002753&artikel=2a), [18b, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002753&artikel=18b), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0002753&artikel=22) en [23 van de Wet ziekenhuisvoorzieningen](https://wetten.overheid.nl/jci1.3:c:BWBR0002753&artikel=23), zoals [die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002753) tot die inwerkingtreding luidde, achtereenvolgens op de [artikelen 20, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=VI&paragraaf=1&artikel=20&z=2007-01-01&g=2007-01-01), [17, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=V&artikel=17&z=2007-01-01&g=2007-01-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=IV&artikel=16&z=2007-01-01&g=2007-01-01) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=IV&artikel=15&z=2007-01-01&g=2007-01-01) van deze wet.
 
 ##### Artikel 47
 
@@ -475,7 +521,7 @@ Wijzigt de Ambtenarenwet.
 
 ##### Artikel 56
 
-Wijzigt de Wet geneeskundige hulpverlening bij rampen.
+Vervallen
 
 ##### Artikel 57
 
@@ -503,7 +549,7 @@ Wijzigt de Wet op de economische delicten.
 
 ##### Artikel 63
 
-De vaststelling van de algemene maatregelen van bestuur, bedoeld in [artikel 1, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=I&artikel=1&z=2006-10-01&g=2006-10-01), de visie en het daarin opgenomen financieel kader, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=II&artikel=3&z=2006-10-01&g=2006-10-01), het geven van beschikkingen door Onze Minister als bedoeld in de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=III&artikel=7&z=2006-10-01&g=2006-10-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=IV&artikel=13&z=2006-10-01&g=2006-10-01) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=IV&artikel=14&z=2006-10-01&g=2006-10-01), alsmede de goedkeuring van de prestatie-eisen, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=III&artikel=10&z=2006-10-01&g=2006-10-01), een en ander voor zover zij betrekking hebben op academische ziekenhuizen als bedoeld in [artikel 1.13 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.13), vinden plaats in overeenstemming met Onze Minister van Onderwijs, Cultuur en Wetenschappen.
+De vaststelling van de algemene maatregelen van bestuur, bedoeld in [artikel 1, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=I&artikel=1&z=2007-01-01&g=2007-01-01), de visie en het daarin opgenomen financieel kader, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=II&artikel=3&z=2007-01-01&g=2007-01-01), het geven van beschikkingen door Onze Minister als bedoeld in de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=III&artikel=7&z=2007-01-01&g=2007-01-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=IV&artikel=13&z=2007-01-01&g=2007-01-01) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=IV&artikel=14&z=2007-01-01&g=2007-01-01), alsmede de goedkeuring van de prestatie-eisen, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=III&artikel=10&z=2007-01-01&g=2007-01-01), een en ander voor zover zij betrekking hebben op academische ziekenhuizen als bedoeld in [artikel 1.13 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.13), vinden plaats in overeenstemming met Onze Minister van Onderwijs, Cultuur en Wetenschappen.
 
 ##### Artikel 64
 
