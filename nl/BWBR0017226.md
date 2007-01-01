@@ -4,7 +4,7 @@ identifier: "BWBR0017226"
 country: "nl"
 rank: "amvb"
 publication_date: "2007-01-01"
-last_updated: "2004-10-15"
+last_updated: "2007-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017226"
 soort: "AMvB"
@@ -55,9 +55,7 @@ Als personen of instanties als bedoeld in [artikel 39, eerste lid, van de Wet op
 
 - c. de Stichting Autoriteit Financiële Markten;
 
-- d. de Pensioen- & Verzekeringskamer;
-
-- e. de burgemeesters, voor zover het betreft hun taak bedoeld in [artikel 172, eerste lid, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=172) alsmede voor zover het betreft hun taak betreffende het adviseren omtrent voorstellen voor het verlenen van een koninklijke onderscheiding.
+- d. de burgemeesters, voor zover het betreft hun taak bedoeld in [artikel 172, eerste lid, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=172) alsmede voor zover het betreft hun taak betreffende het adviseren omtrent voorstellen voor het verlenen van een koninklijke onderscheiding.
 
 ##### Artikel 2
 
