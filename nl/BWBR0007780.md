@@ -4,7 +4,7 @@ identifier: "BWBR0007780"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-01"
-last_updated: "2006-07-15"
+last_updated: "2007-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007780"
 soort: "ministeriele-regeling"
@@ -72,7 +72,7 @@ Vervallen
 
 2. Met betrekking tot de werknemer wiens loon mede omvat de waarde van regelmatig bij de betaling van het loon verstrekte vakantiebonnen, vakantietoeslagbonnen of van daarmee overeenkomende aanspraken, worden de op grond van het eerste lid bepaalde tijdvakbedragen van de afdrachtvermindering onderwijs vermenigvuldigd:
 
-- a. ingeval op jaarbasis aanspraken worden verleend voor 20 of meer vakantiedagen: met de factor 260:230;
+- a. ingeval op jaarbasis aanspraken worden verleend voor 20 of meer vakantiedagen: met de factor 260:229;
 
 - b. ingeval op jaarbasis aanspraken worden verleend voor 19 of minder vakantiedagen: met defactor 260 : 245.
 
@@ -104,15 +104,15 @@ Ingeval de vermindering op de voet van [artikel 6, derde lid, van de wet](https:
 
 | Indien hij de leeftijd heeft bereikt van | Doch niet de leeftijd van |   |
 | --- | --- | --- |
-| 15 jaren | 16 jaren: | € 4.880 |
-| 16 jaren | 17 jaren: | € 5.611 |
-| 17 jaren | 18 jaren: | € 6.425 |
-| 18 jaren | 19 jaren: | € 7.401 |
-| 19 jaren | 20 jaren: | € 8.539 |
-| 20 jaren | 21 jaren: | € 10.003 |
-| 21 jaren | 22 jaren: | € 11.792 |
-| 22 jaren | 23 jaren: | € 13.825 |
-| 23 jaren |   | € 16.257 |
+| 15 jaren | 16 jaren: | € 4.988 |
+| 16 jaren | 17 jaren: | € 5.736 |
+| 17 jaren | 18 jaren: | € 6.567 |
+| 18 jaren | 19 jaren: | € 7.564 |
+| 19 jaren | 20 jaren: | € 8.728 |
+| 20 jaren | 21 jaren: | € 10.224 |
+| 21 jaren | 22 jaren: | € 12.053 |
+| 22 jaren | 23 jaren: | € 14.131 |
+| 23 jaren |   | € 16.625 |
 
 2. Ingeval het eerste lid toepassing vindt administreert de inhoudingsplichtige per werknemer en per tijdvak waarover de vermindering wordt toegepast de in het eerste lid, tweede volzin, bedoelde verhouding.
 
@@ -260,7 +260,7 @@ Als bedrijfssectoren, bedoeld in artikel 14, eerste lid, onderdeel d, van de wet
 
 ##### Artikel 11d
 
-Zolang de inhoudingsplichtige nog niet beschikt over een door alle betrokken partijen getekende overeenkomst als bedoeld in [artikel 14, eerste lid, onderdelen a en f, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=14) bewaart hij, in afwijking van [artikel 14, zesde en achtste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=14) bij de loonadministratie een verklaring van het Regionaal Opleidingscentrum waaruit blijkt dat de desbetreffende leerling de beroepsgerichte leerweg of basisberoepsgerichte leerweg volgt.
+Zolang de inhoudingsplichtige nog niet beschikt over een door alle betrokken partijen getekende overeenkomst als bedoeld in [artikel 14, eerste lid, onderdelen a, f en g, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=14) bewaart hij, in afwijking van [artikel 14, zesde en achtste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=14) bij de loonadministratie een verklaring van het Regionaal Opleidingscentrum waaruit blijkt dat de desbetreffende leerling de beroepsgerichte, de basisberoepsgerichte of de beroepsopleidende leerweg volgt.
 
 ##### Artikel 12
 
@@ -436,7 +436,7 @@ Vervallen
 
 Vervallen
 
-### Hoofdstuk VIII. Overgangs- en slotbepalingen
+### Hoofdstuk VIIA. Arbo-afdrachtvermindering
 
 ##### Artikel 26
 
@@ -465,3 +465,25 @@ Voor de toepassing van de afdrachtvermindering zeevaart wordt een schip dat in d
 ##### Artikel 26b
 
 Met betrekking tot het op 31 december 2004 nog niet verrekende gedeelte van de arbo-afdrachtvermindering blijft artikel 1b, zoals dat luidde op 31 december 2004, ook na die datum nog van toepassing.
+
+##### Artikel 12bb
+
+Als instanties als bedoeld in [artikel 14, eerste lid, onderdeel h, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=14) worden aangewezen:
+
+- a. het Kwaliteitscentrum examinering beroepsonderwijs, bedoeld in [artikel 7.4.9a, tweede lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.4.9a);
+
+- b. een Visiterende en Beoordelende Instantie als bedoeld in [artikel 5a.8a van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=5a.8a);
+
+- c. een door de Minister van Onderwijs, Cultuur en Wetenschappen nader te bepalen accrediterende partij.
+
+### Hoofdstuk IVA. Afdrachtvermindering scholing
+
+### Hoofdstuk V. Afdrachtvermindering kinderopvang
+
+### Hoofdstuk VA. Afdrachtvermindering betaald ouderschapsverlof
+
+### Hoofdstuk VI. Afdrachtvermindering zeevaart
+
+### Hoofdstuk VII. S&O-afdrachtvermindering
+
+### Hoofdstuk VIII. Overgangs- en slotbepalingen
