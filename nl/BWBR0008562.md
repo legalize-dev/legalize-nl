@@ -4,7 +4,7 @@ identifier: "BWBR0008562"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-08-01"
-last_updated: "2002-01-01"
+last_updated: "2007-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008562"
 soort: "AMvB"
@@ -56,7 +56,7 @@ b. vwo: voorbereidend wetenschappelijk onderwijs als bedoeld in [artikel 7 van d
 
 c. mavo: middelbaar algemeen voortgezet onderwijs als bedoeld in [artikel 9 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=9);
 
-d. avo: hoger algemeen voortgezet onderwijs als bedoeld in [artikel 8 van de wet of mavo](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=8);
+d. avo: hoger algemeen voortgezet onderwijs als bedoeld in [artikel 8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=8) of mavo;
 
 e. vbo: voorbereidend beroepsonderwijs als bedoeld in [artikel 10a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=10);
 
@@ -68,15 +68,13 @@ h. gemengde leerweg: de leerjaren 3 en 4 van de gemengde leerweg als bedoeld in 
 
 i. vwo/avo/vbo: een scholengemeenschap die ten minste bestaat uit een school voor vbo en een school voor vwo of een school voor avo;
 
-j. bruto vloeroppervlakte: de bruto vloeroppervlakte van alle ruimten die een school of instelling ter beschikking heeft, bepaald overeenkomstig NEN 2580: Oppervlakten en inhouden van gebouwen – Termen, definities en bepalingsmethoden, uitgegeven door het Nederlands Normalisatie-Instituut, zoals deze luidden op 6 januari 1998.
+j. bruto vloeroppervlakte: de bruto vloeroppervlakte van alle ruimten die een school of instelling ter beschikking heeft, bepaald overeenkomstig NEN 2580 1997/A1:2001 – Oppervlakten en inhouden van gebouwen; Termen, definities en bepalingsmethoden, uitgegeven door het Nederlands Normalisatie-Instituut, zoals deze luidden op 27 mei 2002.
 
 #### Paragraaf 2. Drempelbedrag
 
 ##### Artikel 2. Vaststelling drempelbedrag
 
-1. Het drempelbedrag per school voor vwo, voor avo en voor vbo, bedoeld in [artikel 76**c**, eerste lid, onderdeel **b**, onder 2, van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=76c) bedraagt per gemeente per jaar de uitkomst van de vermenigvuldiging van f 600,- maal het aantal leerlingen dat in de desbetreffende gemeente is ingeschreven aan de desbetreffende school op 1 oktober van het kalenderjaar voorafgaand aan het kalenderjaar waarin de opneming van herstel van constructiefouten dan wel aanpassingen aan de binnenzijde van het gebouw op het programma huisvestingsvoorzieningen, bedoeld in [artikel 76**f** van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=76f), wordt gewenst.
-
-2. In afwijking van het eerste lid wordt voor scholen voor vwo, avo en vbo waarvan het aantal leerlingen is gedaald onder de norm genoemd in [artikel 107 van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=107) bij de berekening van het in het eerste lid bedoelde drempelbedrag de norm in plaats van het in het eerste lid bedoelde aantal leerlingen gehanteerd. De eerste volzin is niet van toepassing op die scholen ten aanzien waarvan Onze Minister van Onderwijs, Cultuur en Wetenschappen dan wel Onze Minister van Landbouw, Natuurbeheer en Visserij toepassing geeft aan [artikel 108, vierde lid, van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=108).
+Vervallen
 
 #### Paragraaf 3. Bruto vloeroppervlakte
 
@@ -86,7 +84,7 @@ j. bruto vloeroppervlakte: de bruto vloeroppervlakte van alle ruimten die een sc
 
 2. De bruto vloeroppervlakte per gelijktijdig aanwezige leerling die een speciale school voor basisonderwijs tenminste dient te bevatten, bedraagt 6,6 m2. Tevens geldt per school en per nevenvestiging een vaste voet van ten minste 90 m2.
 
-3. Indien aan een speciale school voor basisonderwijs een schoolsoort voor het speciaal of het voortgezet speciaal onderwijs is verbonden, is de schoolsoort met het grootste aantal leerlingen bepalend voor de vaste voet van de school, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008562&paragraaf=3&artikel=4&z=2002-01-01&g=2002-01-01).
+3. Indien aan een speciale school voor basisonderwijs een schoolsoort voor het speciaal of het voortgezet speciaal onderwijs is verbonden, is de schoolsoort met het grootste aantal leerlingen bepalend voor de vaste voet van de school, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008562&paragraaf=3&artikel=4&z=2007-01-01&g=2007-01-01).
 
 ##### Artikel 4. Bruto vloeroppervlakte (voortgezet) speciaal onderwijs
 
@@ -102,10 +100,10 @@ j. bruto vloeroppervlakte: de bruto vloeroppervlakte van alle ruimten die een sc
 | d. visueel gehandicapte kinderen | 240 | 8,1 | 275 | 11,7 |
 | e. lichamelijk gehandicapte kinderen | 180 | 11,3 | 270 | 14,4 |
 | f. langdurig zieke kinderen | 130 | 7,8 | 165 | 11,7 |
-| g. moeilijk lerende kinderen | _ | _ | 200 | 7,2 |
+| g.vervallen |   |   |   |   |
 | h. zeer moeilijk lerende kinderen | 100 | 8,1 | 140 | 7,7 |
 | i. zeer moeilijk opvoedbare kinderen | 100 | 8,0 | 180 | 11,7 |
-| j. kinderen met leer- en opvoedingsmoeilijkheden | _ | _ | 160 | 6,8 |
+| j.vervallen |   |   |   |   |
 | k. kinderen in scholen verbonden aan pedologische instituten | 100 | 9,5 | 140 | 11,3 |
 | l. meervoudig gehandicapte kinderen, waaronder meervoudig gehandicapte, visueel gehandicapte kinderen | 200 | 15,8 | 220 | 15,3 |
 
@@ -131,15 +129,29 @@ j. bruto vloeroppervlakte: de bruto vloeroppervlakte van alle ruimten die een sc
 | f. vbo-nautisch | leerjaar 1 t/m 4 | 14,8 |
 | g. vbo-landbouw en natuurlijke omgeving | leerjaar 3 en 4 | 7,0 |
 | h. overige vbo-afdelingen | leerjaar 3 en 4 | 13,0 |
-| i. praktijkonderwijs | alle leerjaren | 7,0 |
+| i. praktijkonderwijs | alle leerjaren | 10,5 |
 | toeslag leerwegondersteunend onderwijs | leerjaar 1 en 2 | 0,7 |
 | toeslag leerwegondersteunend onderwijs | leerjaar 3 en 4 | 1,2 |
 
-2. Per school en per nevenvestiging die voldoet aan de voorwaarden voor het verkrijgen van aanvullende personele bekostiging die zijn gesteld in onderdeel II.2 van de bijlage behorende bij de Regeling samenvoeging van scholen in het VO 1996, geldt tevens een vaste voet van tenminste 890 m2.
+2. Er geldt tevens een vaste voet:
 
-##### Artikel 6. Verticale scholengemeenschappen
+- a. van 890 m2 per scholengemeenschap;
 
-Voor scholen voor vwo, avo en vbo die op 31 december 1996 deel uitmaken van een scholengemeenschap met een regionaal opleidingencentrum dan wel voor scholen voor vbo die deel uitmaken van een agrarisch opleidingencentrum als bedoeld in de [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625) is dit besluit niet van toepassing.
+- b. van 890 m2 per school, niet zijnde een school voor praktijkonderwijs, die geen deel uitmaakt van een scholengemeenschap;
+
+- c. van 260 m2 per school voor praktijkonderwijs die geen deel uitmaakt van een scholengemeenschap;
+
+- d. van 470 m2 per nevenvestiging die voldoet aan de voorwaarden voor het verkrijgen van aanvullende personele bekostiging die zijn gesteld in de [bijlage behorende bij de Regeling aanvullende bekostiging bij nevenvestigingen met spreidingsnoodzaak in het voortgezet onderwijs](onbekend).
+
+##### Artikel 6. Beperking reikwijdte besluit
+
+Dit besluit is niet van toepassing op:
+
+- a. scholen voor voortgezet onderwijs die deel uitmaken van een scholengemeenschap met een regionaal opleidingencentrum als bedoeld in de [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625),
+
+- b. scholen voor mavo die deel uitmaken van een scholengemeenschap met een agrarisch opleidingscentrum als bedoeld in de [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625), en
+
+- c. vbo dat wordt verzorgd in een agrarisch opleidingscentrum als bedoeld in de [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625).
 
 ##### Artikel 7. Inwerkingtreding
 
