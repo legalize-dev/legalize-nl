@@ -4,7 +4,7 @@ identifier: "BWBR0007677"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-01-01"
-last_updated: "2006-07-09"
+last_updated: "2007-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007677"
 soort: "ministeriele-regeling"
@@ -41,7 +41,7 @@ Besluit:
 
 ##### Artikel 1
 
-Deze regeling geeft uitvoering aan de [artikelen 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&artikel=11), [artikel 14a, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&artikel=14a), en [artikel 18 van de Wet belasting zware motorrijtuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&artikel=18).
+Deze regeling geeft uitvoering aan de [artikelen 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&artikel=11), [artikel 14a, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&artikel=14a), en [artikel 18 van de Wet belasting zware motorrijtuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&artikel=18).
 
 ##### Artikel 2
 
@@ -69,7 +69,7 @@ Als aangiftepunten bedoeld in artikel 11, derde lid, van de wet worden aangeweze
 
 - f. voor zover in het gecombineerd vervoer een traject over zee of over binnenwater is opgenomen: de afstand tussen de in onderdeel d bedoelde plaatsen en de in onderdeel e bedoelde locaties.
 
-3. De verklaring, bedoeld in artikel 14a, zevende lid, van de wet, bevat de volgende gegevens:
+3. De teruggaaf wordt slechts verleend, indien in de administratie van degene die het verzoek om teruggaaf doet, zich per dag en per motorrijtuig waarop het verzoek betrekking heeft een verklaring bevindt van de beheerder van de plaats van in- of uitlading, waaruit blijkt dat is voldaan aan de in [artikel 14a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&artikel=14a) bedoelde voorwaarden. De verklaring bevat de volgende gegevens:
 
 - a. de naam, de locatie en het registratienummer van het station van inlading of het station van uitlading;
 
@@ -300,7 +300,7 @@ Deze regeling wordt aangehaald als: Uitvoeringsregeling belasting zware motorrij
 | DOUANE VEENDAM | SPOORHAVEN- WEG 19 | 9645 LZ | VEENDAM |
 | DOUANE VENLO/TEAM 5 | EUROPAWEG 4 | 5916 RP | VENLO |
 
-## Bijlage II,. houdende aanwijzing van de stations van inlading en de stations van uitlading, bedoeld in [artikel 3a, eerste lid, van de Uitvoeringsregeling belasting zware motorrijtuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0007677&artikel=3a&z=2006-07-09&g=2006-07-09)
+## Bijlage II,. houdende aanwijzing van de stations van inlading en de stations van uitlading, bedoeld in [artikel 3a, eerste lid, van de Uitvoeringsregeling belasting zware motorrijtuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0007677&artikel=3a&z=2007-01-01&g=2007-01-01)
 
 Amsterdam Westpoint, Cacaoweg 20, 1047 BM Amsterdam
 
