@@ -161,13 +161,3 @@ De artikelen van dit besluit treden in werking op een bij koninklijk besluit te 
 Dit besluit wordt aangehaald als: Besluit implementatie kapitaalakkoord Bazel 2.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel VIIa
-
-1. Het minimumbedrag aan toetsingsvermogen van een bank of beleggingsonderneming die het bedrag van de naar risico gewogen activa en posten buiten de balanstelling berekent volgens een interne modellenmethode is tot en met het boekjaar 2011 ten minste gelijk aan 80 procent van het minimumbedrag aan toetsingsvermogen zoals berekend ingevolge de [artikelen 60 tot en met 62 van het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=60) zoals deze luidden voor 1 januari 2007.
-
-2. Het minimumbedrag aan toetsingsvermogen van een bank of beleggingsonderneming die het solvabiliteitsvereiste ter dekking van het operationeel risico berekent ingevolge [artikel 78 van het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=78) is tot en met het boekjaar 2011 ten minste gelijk aan 80 procent van het minimumbedrag aan toetsingsvermogen zoals berekend ingevolge de [artikelen 60 tot en met 62 van het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=60) zoals deze luidden voor 1 januari 2007.
-
-3. Een bank of beleggingsonderneming die op of na 1 januari 2010 aanvangt met het berekenen van het minimumbedrag aan toetsingsvermogen overeenkomstig de in het eerste of tweede lid genoemde berekeningsmethode, houdt tot en met het boekjaar 2011 een minimumbedrag aan toetsingsvermogen aan dat ten minste gelijk is aan 80 procent van het minimumbedrag aan toetsingsvermogen berekend overeenkomstig de berekeningsmethode die voorafgaand aan de toepassing van de in het eerste of tweede lid genoemde berekeningsmethode werd gehanteerd.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende toelichting in het Staatsblad zal worden geplaatst.
