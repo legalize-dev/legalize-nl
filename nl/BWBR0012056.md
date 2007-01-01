@@ -4,7 +4,7 @@ identifier: "BWBR0012056"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-01"
-last_updated: "2003-01-01"
+last_updated: "2007-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012056"
 soort: "ministeriele-regeling"
@@ -50,13 +50,13 @@ Besluit:
 
 ##### Artikel 2
 
-1. De aanmelding, bedoeld in artikel 3.42a, zevende lid, van de wet, van de aangegane verplichtingen of de gemaakte voortbrengingskosten ter zake van een bedrijfsmiddel als bedoeld in de [bijlage 1 van de Aanwijzingsregeling milieu-investeringsaftrek 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014488&bijlage=1) moet binnen een termijn van drie maanden plaats vinden. Deze termijn vangt aan:
+1. De aanmelding, bedoeld in [artikel 3.42a, zevende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42a), van de aangegane verplichtingen of de gemaakte voortbrengingskosten ter zake van een bedrijfsmiddel als bedoeld in de [bijlage 1 van de Aanwijzingsregeling willekeurige afschrijving milieu-investeringen en milieu-investeringsaftrek 2007](onbekend) moet binnen een termijn van drie maanden plaats vinden. Deze termijn vangt aan:
 
 - a. met betrekking tot verplichtingen: bij het aangaan van de verplichting;
 
 - b. met betrekking tot voortbrengingskosten: bij de aanvang van het kalenderkwartaal volgend op dat waarin de kosten zijn gemaakt of, ingeval het bedrijfsmiddel ter zake waarvan de voortbrengingskosten zijn gemaakt in het kalenderkwartaal in gebruik is genomen, bij ingebruikneming van het bedrijfsmiddel.
 
-2. Ingeval artikel 3.52, eerste lid, onderdeel b, van de wet toepassing vindt, vangt met betrekking tot voortbrengingskosten de termijn aan bij de inwerkingtreding van de ministeriële regeling indien dat leidt tot een aanmelding op een eerder tijdstip dan op grond van het eerste lid.
+2. Ingeval [artikel 3.52, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.52) toepassing vindt, vangt met betrekking tot voortbrengingskosten de termijn aan bij de inwerkingtreding van de ministeriële regeling indien dat leidt tot een aanmelding op een eerder tijdstip dan op grond van het eerste lid.
 
 ##### Artikel 3
 
