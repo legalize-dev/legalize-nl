@@ -4,7 +4,7 @@ identifier: "BWBR0003812"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2007-01-01"
-last_updated: "2005-12-29"
+last_updated: "2007-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003812"
 soort: "ministeriele-regeling"
@@ -44,35 +44,35 @@ Organen als bedoeld in [artikel 50, zesde lid, van de Wet op de arbeidsongeschik
 
 ##### Artikel 2
 
-Voor een vergunning als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003812&artikel=1&z=2005-12-29&g=2005-12-29) kunnen slechts in aanmerking komen:
+Voor een vergunning als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003812&artikel=1&z=2007-01-01&g=2007-01-01) kunnen slechts in aanmerking komen:
 
 - a. publiekrechtelijke lichamen:
 
 - b. krachtens de wet in het leven geroepen fondsen;
 
-- c. bedrijfs- en ondernemingspensioenfonds- en spaarfondsenwet.
+- c. bedrijfstak- en ondernemingspensioenfondsen als bedoeld in [artikel 1 van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=1);
 
 - d. instellingen, welke de pensioenbetaling verzorgen voor een of meer lichamen of fondsen, bedoeld onder a tot en met c.
 
 ##### Artikel 3
 
-1. Een vergunning als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003812&artikel=1&z=2005-12-29&g=2005-12-29), gaat in op een door het Uitvoeringsinstituut werknemersverzekeringen te bepalen datum.
+1. Een vergunning als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003812&artikel=1&z=2007-01-01&g=2007-01-01), gaat in op een door het Uitvoeringsinstituut werknemersverzekeringen te bepalen datum.
 
-2. Een vergunning als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003812&artikel=1&z=2005-12-29&g=2005-12-29), kan door het Uitvoeringsinstituut werknemersverzekeringen worden geweigerd of ingetrokken, indien verlening dan wel handhaving van zodanige vergunning de administratie van het Uitvoeringsinstituut werknemersverzekeringen naar verhouding te veel zou verzwaren of de uitbetaling van de uitkeringen niet voldoende is gewaarborgd.
+2. Een vergunning als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003812&artikel=1&z=2007-01-01&g=2007-01-01), kan door het Uitvoeringsinstituut werknemersverzekeringen worden geweigerd of ingetrokken, indien verlening dan wel handhaving van zodanige vergunning de administratie van het Uitvoeringsinstituut werknemersverzekeringen naar verhouding te veel zou verzwaren of de uitbetaling van de uitkeringen niet voldoende is gewaarborgd.
 
 ##### Artikel 4
 
-1. Het Uitvoeringsinstituut werknemersverzekeringen kan aan het orgaan, waaraan een vergunning als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003812&artikel=1&z=2005-12-29&g=2005-12-29), is verleend, aanwijzingen en voorschriften geven ten aanzien van de uitbetaling van de uitkeringen, waarop die vergunning betrekking heeft.
+1. Het Uitvoeringsinstituut werknemersverzekeringen kan aan het orgaan, waaraan een vergunning als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003812&artikel=1&z=2007-01-01&g=2007-01-01), is verleend, aanwijzingen en voorschriften geven ten aanzien van de uitbetaling van de uitkeringen, waarop die vergunning betrekking heeft.
 
-2. Indien een vergunning als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003812&artikel=1&z=2005-12-29&g=2005-12-29) is verleend, geschiedt de afrekening van de uitbetaalde uitkeringen volgens door het Uitvoeringsinstituut werknemersverzekeringen te stellen regelen.
+2. Indien een vergunning als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003812&artikel=1&z=2007-01-01&g=2007-01-01) is verleend, geschiedt de afrekening van de uitbetaalde uitkeringen volgens door het Uitvoeringsinstituut werknemersverzekeringen te stellen regelen.
 
 ##### Artikel 5
 
-Het bevoegde uitvoeringsorgaan deelt aan de degene, die gerechtigd is tot een of meer uitkeringen, genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003812&artikel=1&z=2005-12-29&g=2005-12-29), of, indien hij een wettelijke vertegenwoordiger heeft, aan deze, mede, door welk orgaan die uitkering of die uitkeringen zal onderscheidenlijk zullen worden uitbetaald
+Het bevoegde uitvoeringsorgaan deelt aan de degene, die gerechtigd is tot een of meer uitkeringen, genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003812&artikel=1&z=2007-01-01&g=2007-01-01), of, indien hij een wettelijke vertegenwoordiger heeft, aan deze, mede, door welk orgaan die uitkering of die uitkeringen zal onderscheidenlijk zullen worden uitbetaald
 
 ##### Artikel 6
 
-Een vergunning als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003812&artikel=1&z=2005-12-29&g=2005-12-29) heeft geen betrekking op uitkeringen als bedoeld in de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), die op grond van [artikel 54 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=54) worden uitbetaald en heeft ook geen betrekking op uitkeringen als bedoeld in de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) die met toepassing van artikel 8.2.5 van die wet worden uitbetaald.
+Een vergunning als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003812&artikel=1&z=2007-01-01&g=2007-01-01) heeft geen betrekking op uitkeringen als bedoeld in de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), die op grond van [artikel 54 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=54) worden uitbetaald en heeft ook geen betrekking op uitkeringen als bedoeld in de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) die met toepassing van [artikel 71 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=71) worden uitbetaald.
 
 ##### Artikel 7
 
