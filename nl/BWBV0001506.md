@@ -4,7 +4,7 @@ identifier: "BWBV0001506"
 country: "nl"
 rank: "verdrag"
 publication_date: "2013-07-01"
-last_updated: "2004-05-01"
+last_updated: "2007-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0001506"
 soort: "verdrag"
@@ -574,7 +574,7 @@ De bepalingen van de artikelen 45 tot en met 48 zijn van toepassing op het onder
 
 1. Het bepaalde in artikel 56 doet geen afbreuk aan de toepassing op derde landen van beperkingen die op 31 december 1993 bestaan uit hoofde van nationaal of Gemeenschapsrecht inzake het kapitaalverkeer naar of uit derde landen in verband met directe investeringen met inbegrip van investeringen in onroerende goederen -, vestiging, het verrichten van financiële diensten of de toelating van waardepapieren tot de kapitaalmarkten.
 
-Voor beperkingen uit hoofde van nationaal recht in Estland en Hongarije geldt als datum 31 december 1999.
+Voor beperkingen uit hoofde van nationaal recht in Bulgarije, Estland en Hongarije geldt als datum 31 december 1999.
 
 2. Hoewel de Raad tracht de doelstelling van een niet aan beperkingen onderworpen vrij kapitaalverkeer tussen lidstaten en derde landen zoveel mogelijk te bereiken, kan hij, onverminderd het bepaalde in de overige hoofdstukken van dit Verdrag, op voorstel van de Commissie met gekwalificeerde meerderheid van stemmen maatregelen nemen betreffende het kapitaalverkeer naar of uit derde landen in verband met directe investeringen met inbegrip van investeringen in onroerende goederen -, vestiging, het verrichten van financiële diensten of de toelating van waardepapieren tot de kapitaalmarkten.
 
@@ -2204,7 +2204,7 @@ Het bepaalde in de artikelen 182 tot en met 187 is op Groenland van toepassing b
 
 Het Europees Parlement, bestaande uit vertegenwoordigers van de volkeren van de staten die in de Gemeenschap zijn verenigd, oefent de door dit Verdrag aan deze instelling verleende bevoegdheden uit.
 
-Het aantal leden van het Europees Parlement bedraagt niet meer dan 732.
+Het aantal leden van het Europees Parlement bedraagt niet meer dan 736.
 
 ##### Artikel 190
 
@@ -2212,32 +2212,34 @@ Het aantal leden van het Europees Parlement bedraagt niet meer dan 732.
 
 2. Het aantal in elke lidstaat gekozen vertegenwoordigers is als volgt vastgesteld:
 
-| België | 24 |
+| België | 22 |
 | --- | --- |
-| Tsjechië | 24 |
-| Denemarken | 14 |
+| Bulgarije | 17 |
+| Tsjechië | 22 |
+| Denemarken | 13 |
 | Duitsland | 99 |
 | Estland | 6 |
-| Griekenland | 24 |
-| Spanje | 54 |
-| Frankrijk | 78 |
-| Ierland | 13 |
-| Italië | 78 |
+| Griekenland | 22 |
+| Spanje | 50 |
+| Frankrijk | 72 |
+| Ierland | 12 |
+| Italië | 72 |
 | Cyprus | 6 |
-| Letland | 9 |
-| Litouwen | 13 |
+| Letland | 8 |
+| Litouwen | 12 |
 | Luxemburg | 6 |
-| Hongarije | 24 |
+| Hongarije | 22 |
 | Malta | 5 |
-| Nederland | 27 |
-| Oostenrijk | 18 |
-| Polen | 54 |
-| Portugal | 24 |
+| Nederland | 25 |
+| Oostenrijk | 17 |
+| Polen | 50 |
+| Portugal | 22 |
+| Roemenië | 33 |
 | Slovenië | 7 |
-| Slowakije | 14 |
-| Finland | 14 |
-| Zweden | 19 |
-| Verenigd Koninkrijk | 78 |
+| Slowakije | 13 |
+| Finland | 13 |
+| Zweden | 18 |
+| Verenigd Koninkrijk | 72 |
 
 In geval van wijzigingen in dit lid dient het in elke lidstaat gekozen aantal vertegenwoordigers een passende vertegenwoordiging van de volkeren van de in de Gemeenschap verenigde staten te waarborgen.
 
@@ -2357,6 +2359,7 @@ De Raad wordt door zijn voorzitter, op diens initiatief, op initiatief van één
 
 | België | 12 |
 | --- | --- |
+| Bulgarije | 10 |
 | Tsjechië | 12 |
 | Denemarken | 7 |
 | Duitsland | 29 |
@@ -2376,15 +2379,16 @@ De Raad wordt door zijn voorzitter, op diens initiatief, op initiatief van één
 | Oostenrijk | 10 |
 | Polen | 27 |
 | Portugal | 12 |
+| Roemenië | 14 |
 | Slovenië | 4 |
 | Slowakije | 7 |
 | Finland | 7 |
 | Zweden | 10 |
 | Verenigd Koninkrijk | 29 |
 
-De besluiten van de Raad komen tot stand wanneer zij ten minste 232 stemmen hebben verkregen en de meerderheid van de leden voorstemt, ingeval zij krachtens dit Verdrag moeten worden genomen op voorstel van de Commissie.
+De besluiten van de Raad komen tot stand wanneer zij ten minste 255 stemmen hebben verkregen en de meerderheid van de leden voorstemt, ingeval zij krachtens dit Verdrag moeten worden genomen op voorstel van de Commissie.
 
-In de overige gevallen komen de besluiten tot stand wanneer zij ten minste 232 stemmen hebben verkregen en ten minste twee derden van de leden voorstemmen.
+In de overige gevallen komen de besluiten tot stand wanneer zij ten minste 255 stemmen hebben verkregen en ten minste twee derden van de leden voorstemmen.
 
 3. Onthouding van stemming door aanwezige of vertegenwoordigde leden vormt geen beletsel voor het aannemen der besluiten van de Raad waarvoor eenparigheid van stemmen is vereist.
 
@@ -2906,6 +2910,7 @@ Het aantal leden van het Comité is als volgt vastgesteld:
 
 | België | 12 |
 | --- | --- |
+| Bulgarije | 12 |
 | Tsjechië | 12 |
 | Denemarken | 9 |
 | Duitsland | 24 |
@@ -2925,6 +2930,7 @@ Het aantal leden van het Comité is als volgt vastgesteld:
 | Oostenrijk | 12 |
 | Polen | 21 |
 | Portugal | 12 |
+| Roemenië | 15 |
 | Slovenië | 7 |
 | Slowakije | 9 |
 | Finland | 9 |
@@ -2979,10 +2985,11 @@ Er wordt een comité met een adviestaak ingesteld, hierna „Comité van de Regi
 
 Het aantal leden van het Comité van de Regio's bedraagt ten hoogste 350.
 
-Het aantal leden is als volgt vastgesteld:
+Het aantal leden van het Comité is als volgt vastgesteld:
 
 | België | 12 |
 | --- | --- |
+| Bulgarije | 12 |
 | Tsjechië | 12 |
 | Denemarken | 9 |
 | Duitsland | 24 |
@@ -3002,6 +3009,7 @@ Het aantal leden is als volgt vastgesteld:
 | Oostenrijk | 12 |
 | Polen | 21 |
 | Portugal | 12 |
+| Roemenië | 15 |
 | Slovenië | 7 |
 | Slowakije | 9 |
 | Finland | 9 |
@@ -3322,7 +3330,7 @@ In afwijking van de procedure bepaald in de artikelen 226 en 227, kan de Commiss
 
 ##### Artikel 299
 
-1. Dit verdrag is van toepassing op het Koninkrijk België, de Tsjechische Republiek, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, de Republiek Estland, de Helleense Republiek, het Koninkrijk Spanje, de Franse Republiek, Ierland, de Italiaanse Republiek, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, het Groothertogdom Luxemburg, de Republiek Hongarije, de Republiek Malta, het Koninkrijk der Nederlanden, de Republiek Oostenrijk, de Republiek Polen, de Portugese Republiek, de Republiek Slovenië, de Slowaakse Republiek, de Republiek Finland, het Koninkrijk Zweden en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland.
+1. Dit verdrag is van toepassing op het Koninkrijk België, de Republiek Bulgarije, de Tsjechische Republiek, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, de Republiek Estland, de Helleense Republiek, het Koninkrijk Spanje, de Franse Republiek, Ierland, de Italiaanse Republiek, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, het Groothertogdom Luxemburg, de Republiek Hongarije, de Republiek Malta, het Koninkrijk der Nederlanden, de Republiek Oostenrijk, de Republiek Polen, de Portugese Republiek, Roemenië, de Republiek Slovenië, de Slowaakse Republiek, de Republiek Finland, het Koninkrijk Zweden en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland.
 
 2. De bepalingen van dit Verdrag zijn van toepassing op de Franse overzeese departementen, de Azoren, Madeira en de Canarische Eilanden.
 
@@ -3454,7 +3462,7 @@ Dit Verdrag treedt in werking op de eerste dag van de maand die volgt op het ned
 
 Dit Verdrag, opgesteld in één exemplaar, in de Duitse, de Franse, de Italiaanse en de Nederlandse taal, zijnde de vier teksten gelijkelijk authentiek, zal worden nedergelegd in het archief van de regering van de Italiaanse Republiek die een voor eensluidend gewaarmerkt afschrift daarvan toezendt aan de regeringen der andere ondertekenende staten.
 
-Krachtens de Toetredingsverdragen zijn de teksten van dit Verdrag in de Deense, de Engelse, de Finse, de Griekse, de Ierse, de Portugese, de Spaanse en de Zweedse taal eveneens gelijkelijk authentiek.
+Krachtens de Toetredingsverdragen zijn de teksten van dit Verdrag in de Bulgaarse, de Tsjechische, de Deense, de Engelse, de Estse, de Finse, de Griekse, de Hongaarse, de Ierse, de Letse, de Litouwse, de Maltese, de Poolse, de Portugese, de Roemeense, de Slowaakse, de Sloveense, de Spaanse en de Zweedse taal eveneens gelijkelijk authentiek.
 
 TEN BLIJKE WAARVAN de ondergetekende gevolmachtigden hun handtekening onder dit Verdrag hebben gesteld.
 
