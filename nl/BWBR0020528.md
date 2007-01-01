@@ -79,9 +79,3 @@ Dit besluit wordt aangehaald als: Besluit aangewezen staten Wft.
 Dit besluit treedt in werking met ingang van 1 januari 2007.
 
 Dit besluit zal met toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 1a
-
-Dit onderdeel is nog niet inwerking getreden
-
-Dit besluit zal met toelichting in de Staatscourant worden geplaatst.
