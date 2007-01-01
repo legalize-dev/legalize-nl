@@ -4,7 +4,7 @@ identifier: "BWBR0017623"
 country: "nl"
 rank: "amvb"
 publication_date: "2019-06-16"
-last_updated: "2005-01-01"
+last_updated: "2007-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017623"
 soort: "AMvB"
@@ -71,7 +71,7 @@ Een spoorwegonderneming bezit een goede naam als bedoeld in [artikel 28, eerste 
 
 - 1°. het bepaalde bij of krachtens [artikel 4:3](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=4:3), [5:15, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:15), of [8:3 van de Arbeidstijdenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=8:3), of [artikel 3.2:1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&artikel=3.2:1), of [3.2:2, derde lid, van het Arbeidstijdenbesluit vervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&artikel=3.2:2),
 
-- 2°. [artikel 32 van de Arbeidsomstandighedenwet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=32),
+- 2°. [artikel 32 van de Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=32),
 
 - 3°. de [artikelen 9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007632&artikel=9), [11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007632&artikel=11), [14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007632&artikel=14), [17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007632&artikel=17), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0007632&artikel=32), [44, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007632&artikel=44), [45 tot en met 47](https://wetten.overheid.nl/jci1.3:c:BWBR0007632&artikel=45), [48, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007632&artikel=48), [50](https://wetten.overheid.nl/jci1.3:c:BWBR0007632&artikel=50) of [51 van de Douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0007632&artikel=51),
 
@@ -81,11 +81,11 @@ Een spoorwegonderneming bezit een goede naam als bedoeld in [artikel 28, eerste 
 
 ##### Artikel 4
 
-1. Op een bestuurder van een spoorwegonderneming is [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017623&hoofdstuk=2&paragraaf=2&artikel=3&z=2005-01-01&g=2005-01-01) van overeenkomstige toepassing.
+1. Op een bestuurder van een spoorwegonderneming is [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017623&hoofdstuk=2&paragraaf=2&artikel=3&z=2007-01-01&g=2007-01-01) van overeenkomstige toepassing.
 
 2. Indien natuurlijke personen dan wel rechtspersonen gezamenlijk als spoorwegonderneming optreden, voldoet ieder van de natuurlijke personen en ieder van de bestuurders van de rechtspersonen aan het vereiste van goede naam.
 
-3. Indien de permanente en daadwerkelijke leiding door een ander dan de natuurlijke persoon als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017623&hoofdstuk=2&paragraaf=1&artikel=2&z=2005-01-01&g=2005-01-01), dan wel door een ander dan de in het eerste lid genoemde bestuurder wordt verricht, is [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017623&hoofdstuk=2&paragraaf=2&artikel=3&z=2005-01-01&g=2005-01-01) op die ander van overeenkomstige toepassing.
+3. Indien de permanente en daadwerkelijke leiding door een ander dan de natuurlijke persoon als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017623&hoofdstuk=2&paragraaf=1&artikel=2&z=2007-01-01&g=2007-01-01), dan wel door een ander dan de in het eerste lid genoemde bestuurder wordt verricht, is [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017623&hoofdstuk=2&paragraaf=2&artikel=3&z=2007-01-01&g=2007-01-01) op die ander van overeenkomstige toepassing.
 
 #### § 3. Financiële draagkracht
 
@@ -135,7 +135,7 @@ Voor beroepsbekwaamheid als bedoeld in [artikel 28, eerste lid, van de wet](http
 
 3. Een spoorwegonderneming die louter activiteiten uitoefent als bedoeld in het tweede lid voldoet aan de uit [artikel 55 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=55) voortvloeiende verzekeringsplicht indien zij de uit de wettelijke aansprakelijkheid voortvloeiende financiële risico’s heeft gedekt door middel van een verzekering die Nederland als dekkingsgebied heeft en een dekkingsbedrag heeft van minimaal € 2.500.000 per gebeurtenis.
 
-4. [Artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017623&hoofdstuk=2&paragraaf=5&artikel=7&z=2005-01-01&g=2005-01-01), is van overeenkomstige toepassing.
+4. [Artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017623&hoofdstuk=2&paragraaf=5&artikel=7&z=2007-01-01&g=2007-01-01), is van overeenkomstige toepassing.
 
 #### § 7. Aanvraag
 
@@ -183,7 +183,7 @@ Een aanvraag tot verlening van een bedrijfsvergunning bevat met het oog op het v
 
 ##### Artikel 13
 
-Onverminderd [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0017623&hoofdstuk=2&paragraaf=8&artikel=12&z=2005-01-01&g=2005-01-01), legt de spoorwegonderneming elke vijf jaar, gerekend vanaf de dag waarop de bedrijfsvergunning in werking is getreden, aan Onze Minister over:
+Onverminderd [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0017623&hoofdstuk=2&paragraaf=8&artikel=12&z=2007-01-01&g=2007-01-01), legt de spoorwegonderneming elke vijf jaar, gerekend vanaf de dag waarop de bedrijfsvergunning in werking is getreden, aan Onze Minister over:
 
 - a. een verklaring omtrent het gedrag als bedoeld in [artikel 28 van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=28),
 
@@ -191,7 +191,7 @@ Onverminderd [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0017623&hoofds
 
 - c. een bewijs van dekking van de uit wettelijke aansprakelijkheid voortvloeiende financiële risico’s, en
 
-- d. een verklaring dat zij voldoet aan het vereiste van beroepsbekwaamheid, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017623&hoofdstuk=2&paragraaf=4&artikel=6&z=2005-01-01&g=2005-01-01).
+- d. een verklaring dat zij voldoet aan het vereiste van beroepsbekwaamheid, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017623&hoofdstuk=2&paragraaf=4&artikel=6&z=2007-01-01&g=2007-01-01).
 
 #### § 10. Overig
 
