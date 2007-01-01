@@ -4,7 +4,7 @@ identifier: "BWBR0007886"
 country: "nl"
 rank: "wet"
 publication_date: "2015-01-01"
-last_updated: "2003-12-01"
+last_updated: "2007-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007886"
 soort: "wet"
@@ -59,17 +59,15 @@ Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan ond
 
 ##### Artikel 2
 
-1. In overeenstemming met Onze Minister van Economische Zaken kan Onze Minister subsidies in de vorm van een garanties verlenen in verband met door een kredietinstelling aan ondernemers te verstrekken financiële middelen.
-
-2. Een kredietinstelling, bedoeld in het eerste lid, dient te beschikken over een vergunning als bedoeld in [artikel 6 van de Wet toezicht kredietwezen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005792&artikel=6) en overigens te voldoen aan nader door Onze Minister te stellen regels.
+In overeenstemming met Onze Minister van Economische Zaken kan Onze Minister subsidies in de vorm van garanties verlenen in verband met aan ondernemers te verstrekken financiële middelen door financiële ondernemingen met zetel in Nederland die een vergunning hebben voor het uitoefenen van het bedrijf van bank ingevolge de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) en die voldoen aan nader door Onze Minister te stellen regels.
 
 ##### Artikel 3
 
-1. In overeenstemming met Onze Minister van Economische Zaken kan Onze Minister verzekeringen of garanties in herverzekering nemen die een verzekeraar met ondernemers heeft afgesloten onderscheidenlijk aan deze ondernemers heeft afgegeven ter dekking van aan het handels- en dienstenverkeer met landen buiten Nederland verbonden risico's.
+1. In overeenstemming met Onze Minister van Economische Zaken kan Onze Minister verzekeringen of garanties in herverzekering nemen die een financiële onderneming die ingevolge de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) in Nederland het bedrijf van schadeverzekeraar of levensverzekeraar mag uitoefenen met ondernemers heeft afgesloten onderscheidenlijk aan deze ondernemers heeft afgegeven ter dekking van aan het handels- en dienstenverkeer met landen buiten Nederland verbonden risico's.
 
-2. In overeenstemming met Onze Minister van Economische Zaken kan Onze Minister verzekeringen in herverzekering nemen die een verzekeraar heeft afgesloten ter dekking van niet-commerciële risico's verbonden aan investeringen in door Onze Minister, in overeenstemming met Onze Minister van Economische Zaken en Onze Minister van Buitenlandse Zaken, aangewezen landen.
+2. In overeenstemming met Onze Minister van Economische Zaken kan Onze Minister verzekeringen in herverzekering nemen die een financiële onderneming die ingevolge de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) in Nederland het bedrijf van schadeverzekeraar of levensverzekeraar mag uitoefenen heeft afgesloten ter dekking van niet-commerciële risico's verbonden aan investeringen in door Onze Minister, in overeenstemming met Onze Minister van Economische Zaken en Onze Minister van Buitenlandse Zaken, aangewezen landen.
 
-3. Een verzekeraar als bedoeld in het eerste en tweede lid, beschikt over een vergunning als bedoeld in [artikel 24 van de Wet toezicht verzekeringsbedrijf 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006509&artikel=24) en voldoet overigens aan nader door Onze Minister in overeenstemming met Onze Minister van Economische Zaken te stellen regels. Een verzekeraar als bedoeld in [artikel 20, aanhef en onder c, van de Wet toezicht verzekeringsbedrijf 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006509&artikel=20) wordt gelijkgesteld aan een verzekeraar die beschikt over een vergunning als bedoeld in [artikel 24 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006509&artikel=24).
+3. De financiële onderneming, bedoeld in het eerste en tweede lid, voldoet aan nader door Onze Minister in overeenstemming met Onze Minister van Economische Zaken te stellen regels. Een financiële onderneming als bedoeld in [artikel 1:10, aanhef en onder b, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:10) wordt gelijkgesteld aan de financiële onderneming, bedoeld in de vorige volzin.
 
 ##### Artikel 4
 
@@ -89,7 +87,7 @@ Onze Minister kan aan een naamloze of besloten vennootschap waarvan de Staat in 
 
 ##### Artikel 6
 
-Onze Minister stelt jaarlijks in overeenstemming met Onze Minister van Economische Zaken de bedragen vast tot welke ten hoogste verplichtingen kunnen worden aangegaan op grond van het bepaalde in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0007886&artikel=2&z=2003-12-01&g=2003-12-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0007886&artikel=3&z=2003-12-01&g=2003-12-01) en maakt deze bedragen bekend in de **Nederlandsche Staatscourant**.
+Onze Minister stelt jaarlijks in overeenstemming met Onze Minister van Economische Zaken de bedragen vast tot welke ten hoogste verplichtingen kunnen worden aangegaan op grond van het bepaalde in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0007886&artikel=2&z=2007-01-01&g=2007-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0007886&artikel=3&z=2007-01-01&g=2007-01-01) en maakt deze bedragen bekend in de **Nederlandsche Staatscourant**.
 
 ##### Artikel 7
 
