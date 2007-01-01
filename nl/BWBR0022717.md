@@ -1,0 +1,553 @@
+---
+title: "Besluit van 1 oktober 2007, houdende uitvoering van titel 7.5 (Pacht) van het Burgerlijk Wetboek, de Uitvoeringswet grondkamers en de Wet op de rechterlijke organisatie (Uitvoeringsbesluit pacht)"
+identifier: "BWBR0022717"
+country: "nl"
+rank: "amvb"
+publication_date: "2025-01-01"
+last_updated: "2007-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0022717"
+soort: "AMvB"
+stam_id: "9251313"
+version_id: "14838802"
+internal_id: "C20190651"
+label_id: "9230594"
+dtd_version: "2.0"
+original_entry_into_force: "2007-10-31"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0022717/2025-01-01/0"
+intitule_bron: "Stb.2007-394"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2007-10-01"
+intitule_published: "2007-10-30"
+intitule_in_force: "2007-10-30"
+intitule_status: "goed"
+original_publication: "Stb.2007-394"
+original_signed_date: "2007-10-01"
+original_published_date: "2007-10-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2007-394"
+entry_into_force_date: "2007-10-31"
+jci_1_3: "jci1.3:c:BWBR0022717&z=2025-01-01&g=2025-01-01"
+jci_1_0: "1.0:c:BWBR0022717&g=2025-01-01"
+citeertitel_status: "officieel"
+short_title: "Uitvoeringsbesluit pacht"
+signed_date: "2007-10-01"
+entry_into_force: "2007-10-31"
+---
+# Besluit van 1 oktober 2007, houdende uitvoering van titel 7.5 (Pacht) van het Burgerlijk Wetboek, de Uitvoeringswet grondkamers en de Wet op de rechterlijke organisatie (Uitvoeringsbesluit pacht)
+
+### Hoofdstuk 1. Uitvoering van [artikel 393, derde lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=393)
+
+### Hoofdstuk 2. Uitvoering van de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0021912&artikel=1), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0021912&artikel=9), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0021912&artikel=15), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0021912&artikel=16), [42](https://wetten.overheid.nl/jci1.3:c:BWBR0021912&artikel=42) en [44, eerste lid, van de Uitvoeringswet grondkamers](https://wetten.overheid.nl/jci1.3:c:BWBR0021912&artikel=44)
+
+#### Paragraaf 1. Rechtsgebied grondkamers
+
+#### Paragraaf 2. Tarieven grondkamers en Centrale Grondkamer
+
+#### Paragraaf 3. Reglement voor de grondkamers en de Centrale Grondkamer
+
+#### Paragraaf 4. Vergoedingen voor de grondkamers en de Centrale Grondkamer
+
+##### Artikel 44
+
+1. Voor het deelnemen aan een zitting en het bijwonen van een vergadering van de grondkamer wordt aan de plaatsvervangende voorzitter, de leden, de plaatsvervangende leden en de plaatsvervangende secretaris een vergoeding toegekend van € 90,76 per dag.
+
+2. De in het vorige lid bedoelde vergoedingen worden evenwel niet toegekend, indien de daar genoemde personen bij het Rijk of als rechterlijk ambtenaar een bezoldigd ambt bekleden, voor zover Onze Minister van Landbouw, Natuur en Voedselkwaliteit niet anders bepaalt.
+
+3. Aan een plaatsvervangende voorzitter die wegens afwezigheid, belet of ontstentenis van de voorzitter diens werkzaamheden volledig waarneemt, kan, indien hij niet bij het Rijk of als rechterlijk ambtenaar een bezoldigd ambt bekleedt, door Onze Minister van Landbouw, Natuur en Voedselkwaliteit tot wederopzegging een bezoldiging worden toegekend overeenkomstig de voor de voorzitter vastgestelde bezoldiging.
+
+4. Het derde lid is van overeenkomstige toepassing ten aanzien van een plaatsvervangend secretaris.
+
+##### Artikel 45
+
+1. Voor het deelnemen aan een zitting en het bijwonen van een vergadering van de Centrale Grondkamer wordt aan de leden en de plaatsvervangende leden een vergoeding toegekend van € 140,67 per dag.
+
+2. Voor het deelnemen aan een zitting en het bijwonen van een vergadering van de Centrale Grondkamer wordt aan de plaatsvervangende griffier een vergoeding toegekend van € 90,76 per dag.
+
+3. De in de vorige leden bedoelde vergoedingen worden evenwel niet toegekend indien de aldaar genoemde personen bij het Rijk of als rechterlijk ambtenaar een bezoldigd ambt bekleden, voor zover Onze Minister van Landbouw, Natuur en Voedselkwaliteit niet anders bepaalt.
+
+4. Aan een plaatsvervangende griffier die wegens afwezigheid, belet of ontstentenis van de griffier diens werkzaamheden volledig waarneemt, kan, indien hij niet bij het Rijk of als rechterlijk ambtenaar een bezoldigd ambt bekleedt, door Onze Minister van Landbouw, Natuur en Voedselkwaliteit tot wederopzegging toe een bezoldiging worden toegekend overeenkomstig de voor de griffier vastgestelde bezoldiging.
+
+##### Artikel 46
+
+1. Voor het deelnemen aan een bezichtiging ter plaatse wordt aan de leden en de plaatsvervangende leden van de grondkamer een vergoeding van € 27,23 per uur toegekend.
+
+2. Voor het deelnemen aan een bezichtiging ter plaatse wordt een vergoeding van € 29,50 per uur toegekend aan de leden en de plaatsvervangende leden van de Centrale Grondkamer, behalve als zij als rechterlijk ambtenaar een bezoldigd ambt bekleden.
+
+3. Bij de berekening van het totale aantal uren waarover een vergoeding volgens de voorgaande leden wordt toegekend, vindt afronding naar boven plaats tot een half uur.
+
+##### Artikel 47
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 48
+
+De leden en plaatsvervangende leden van de Centrale Grondkamer die als rechterlijk ambtenaar een bezoldigd ambt bekleden en de in de [artikelen 44](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=2&paragraaf=4&artikel=44&z=2009-01-01&g=2007-01-01) en [45](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=2&paragraaf=4&artikel=45&z=2009-01-01&g=2007-01-01) genoemde personen genieten in verband met de in de vorige artikelen genoemde werkzaamheden een vergoeding voor reis- en verblijfkosten overeenkomstig het bepaalde bij en krachtens het [Reisbesluit binnenland](https://wetten.overheid.nl/jci1.3:c:BWBR0005889).
+
+##### Artikel 49
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 49a
+
+1. De vergoedingen, bedoeld in de artikelen de [artikelen 44, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=2&paragraaf=4&artikel=44&z=2009-01-01&g=2007-01-01), [45, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=2&paragraaf=4&artikel=45&z=2009-01-01&g=2007-01-01), en [46, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=2&paragraaf=4&artikel=46&z=2009-01-01&g=2007-01-01), worden jaarlijks per 1 januari aangepast aan de mate waarin het prijspeil in de periode van 1 juli in het voorafgaande jaar tot en met 1 juli van het daaraan voorafgaande jaar gemiddeld is gestegen volgens de Consumentenprijsindex voor alle huishoudens zoals gepubliceerd door het Centraal Bureau voor de Statistiek. De bedragen worden afgerond op hele euro’s.
+
+2. Onze Minister van Landbouw, Natuur en Voedselkwaliteit maakt de aanpassing, bedoeld in het eerste lid, uiterlijk 1 oktober van het voorgaande jaar bekend in de Staatscourant.
+
+### Hoofdstuk 3. Uitvoering van de [artikelen 48b, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=48b), en [69a van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=69a)
+
+### Hoofdstuk 4. Aanpassing algemene maatregelen van bestuur
+
+### Hoofdstuk 5. Slotartikelen
+
+### Hoofdstuk 3. Uitvoering van de [artikelen 48b, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=48b), en [69a van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=69a)
+
+### Hoofdstuk 4. Aanpassing algemene maatregelen van bestuur
+
+##### Artikel 57
+
+Wijzigt het Besluit herverkaveling.
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 58
+
+Wijzigt het Besluit grondbankstelsel.
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 59
+
+Wijzigt Besluit uitvoering artikel 15, tweede lid, Vorderingswet 1962.
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 60
+
+Wijzigt de Schadeloosstellingsregeling Luchtvaartwet.
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 61
+
+Wijzigt het Pachtprijzenbesluit 2007.
+
+### Hoofdstuk 5. Slotartikelen
+
+### Hoofdstuk 5. Slotartikelen
+
+Op de voordracht van Onze Minister van Landbouw, Natuur en Voedselkwaliteit van 12 juli 2007, nr. TRCJZ/2007/2246, Directie Juridische Zaken, gedaan mede namens Onze Minister van Justitie;
+
+Gelet op de [artikelen 327, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=327), en [393, derde lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=393), op [artikel 60, derde lid, van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=60), op de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0021912&artikel=1), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0021912&artikel=9), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0021912&artikel=15), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0021912&artikel=16), [42](https://wetten.overheid.nl/jci1.3:c:BWBR0021912&artikel=42) en [44, eerste lid, van de Uitvoeringswet grondkamers](https://wetten.overheid.nl/jci1.3:c:BWBR0021912&artikel=44), op [artikel 15, tweede lid, van de Vorderingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002393&artikel=15), op [artikel 57, eerste lid, van de Wet agrarisch grondverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&artikel=57), op [artikel 63 van de Wet inrichting landelijk gebied](https://wetten.overheid.nl/jci1.3:c:BWBR0020748&artikel=63), alsmede op de [artikelen 48b, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=48b), en [69a van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=69a);
+
+De Raad van State gehoord (advies van 9 augustus 2007, no. W11.07.0259/IV);
+
+Gezien het nader rapport van Onze Minister van Landbouw, Natuur en Voedselkwaliteit van 25 september 2007 nr. TRCJZ/2007/2930, Directie Juridische Zaken, uitgebracht mede namens Onze Minister van Justitie;
+
+Hebben goedgevonden en verstaan:
+
+##### Artikel 1
+
+In dit hoofdstuk wordt verstaan onder:
+
+- a. verplichting: verplichting als bedoeld in [artikel 389, tweede lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=389);
+
+- b. hoogst toelaatbare vergoeding: hoogst toelaatbare vergoeding als bedoeld in [artikel 393, derde lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=393).
+
+##### Artikel 2
+
+De hoogst toelaatbare vergoeding is die welke de grondkamer voor elk geval afzonderlijk vaststelt met inachtneming van dit hoofdstuk.
+
+##### Artikel 3
+
+De hoogst toelaatbare vergoeding voor een verplichting als bedoeld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=1&artikel=4&z=2007-10-31&g=2007-10-31), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=1&artikel=5&z=2007-10-31&g=2007-10-31) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=1&artikel=6&z=2007-10-31&g=2007-10-31) is de uitkomst van de vermenigvuldiging van de in de onderscheiden artikelen bij die verplichting aangegeven factor, met de voor elk geval afzonderlijk van toepassing zijnde hoogst toelaatbare pachtprijs van het land zonder woningen of andere opstallen, vastgesteld volgens het [Pachtprijzenbesluit 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022448).
+
+##### Artikel 4
+
+De factor, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=1&artikel=3&z=2007-10-31&g=2007-10-31), bedraagt voor de navolgende in een pachtovereenkomst op te nemen verplichtingen ter zake van een beperking van de mestgift:
+
+| (Mestgift) Bemestingsniveau (per ha/jaar) | Factor |
+| --- | --- |
+| maximaal 200 kg N (stikstof) | 0,26 |
+| maximaal 100 kg N (stikstof) | 0,42 |
+| maximaal 50 kg N (stikstof) | 0,51 |
+| 0 kg N (stikstof) | 0,62 |
+| 0 kg NPK (stikstof, fosfor, kalium) | 0,73 |
+
+##### Artikel 5
+
+De factor, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=1&artikel=3&z=2007-10-31&g=2007-10-31), bedraagt voor de navolgende in een pachtovereenkomst op te nemen verplichtingen ter zake van het uitstellen van de eerste maai- en weidedatum:
+
+| Eerste maai- en weidedatum | Factor |
+| --- | --- |
+| Niet eerder dan 15 juni | 0,23 |
+| Niet eerder dan 30 juni | 0,30 |
+| Niet eerder dan 15 juli | 0,40 |
+
+##### Artikel 6
+
+Voor één of meer overige in een pachtovereenkomst op te nemen verplichtingen waarin niet is voorzien in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=1&artikel=4&z=2007-10-31&g=2007-10-31) of [5](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=1&artikel=5&z=2007-10-31&g=2007-10-31) bedraagt de factor, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=1&artikel=3&z=2007-10-31&g=2007-10-31), in totaal 0,23.
+
+##### Artikel 7
+
+In geval van opname in een pachtovereenkomst van meerdere verplichtingen als bedoeld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=1&artikel=4&z=2007-10-31&g=2007-10-31), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=1&artikel=5&z=2007-10-31&g=2007-10-31) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=1&artikel=6&z=2007-10-31&g=2007-10-31), geldt de hoogste van de in die artikelen bij deze verplichtingen aangegeven factoren als de factor, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=1&artikel=3&z=2007-10-31&g=2007-10-31).
+
+#### Paragraaf 1. Rechtsgebied grondkamers
+
+##### Artikel 8
+
+Er is een grondkamer Noord, een grondkamer Oost, een grondkamer Zuid, een grondkamer Zuidwest en een grondkamer Noordwest.
+
+##### Artikel 9
+
+1. Het rechtsgebied van de grondkamer Noord strekt zich uit over het grondgebied van de provincies Groningen, Friesland en Drenthe.
+
+2. Het rechtsgebied van de grondkamer Oost strekt zich uit over het grondgebied van de provincies Overijssel en Gelderland.
+
+3. Het rechtsgebied van de grondkamer Zuid strekt zich uit over het grondgebied van de provincies Noord-Brabant en Limburg.
+
+4. Het rechtsgebied van de grondkamer Zuidwest strekt zich uit over het grondgebied van de provincies Zuid-Holland en Zeeland.
+
+5. Het rechtsgebied van de grondkamer Noordwest strekt zich uit over het grondgebied van de provincies Noord-Holland, Utrecht en Flevoland.
+
+##### Artikel 10
+
+De grondkamers hebben als standplaats Deventer.
+
+##### Artikel 11
+
+1. Voor de benoeming van een lid of plaatsvervangend lid van de grondkamers maken gedeputeerde staten van de binnen het rechtsgebied van de grondkamer gelegen provincies gezamenlijk de aanbeveling, bedoeld in [artikel 3, derde lid, van de Uitvoeringswet grondkamers](https://wetten.overheid.nl/jci1.3:c:BWBR0021912&artikel=3), op.
+
+2. Indien gedeputeerde staten van de binnen het rechtsgebied van de grondkamer gelegen provincies niet tot een gezamenlijke aanbeveling kunnen komen, maken zij elk een afzonderlijke aanbeveling op.
+
+#### Paragraaf 2. Tarieven grondkamers en Centrale Grondkamer
+
+##### Artikel 12
+
+1. Voor de behandeling van een verzoek tot:
+
+- a. goedkeuring van een pachtovereenkomst of ontwerp-pachtovereenkomst,
+
+- b. goedkeuring van een overeenkomst tot wijziging van een pachtovereenkomst, waarbij de tegenprestatie wordt gewijzigd, of een ontwerp van zodanige overeenkomst, of
+
+- c. herziening van de tegenprestatie,
+
+wordt een recht geheven van 5% van de jaarlijkse door de grondkamer goedgekeurde, gewijzigde of herziene tegenprestatie, met een minimum van € 45,38 en een maximum van € 408,40.
+
+2. Onder «tegenprestatie» wordt in het eerste lid verstaan de tegenprestatie, bedoeld in [artikel 333 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=333).
+
+##### Artikel 13
+
+Indien binnen twee maanden nadat een ontwerp-pachtovereenkomst of een ontwerp-overeenkomst tot wijziging van een pachtovereenkomst is goedgekeurd een overeenkomst wordt ingezonden, die gelijk is aan de reeds goedgekeurde ontwerp-overeenkomst, wordt voor de behandeling van een verzoek tot goedkeuring daarvan een recht geheven van € 45,38.
+
+##### Artikel 14
+
+In geval van toetsing van een pachtovereenkomst of van een overeenkomst tot wijziging van een pachtovereenkomst op grond van [artikel 317, vierde lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=317), is [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=2&paragraaf=2&artikel=12&z=2007-10-31&g=2007-10-31) van overeenkomstige toepassing, met dien verstande, dat het recht verschuldigd is door degene, die de schriftelijke vastlegging, bedoeld in [artikel 317, tweede lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=317), heeft gevorderd.
+
+##### Artikel 15
+
+Voor de behandeling van een verzoek als bedoeld in [artikel 379, eerste lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=379) wordt een recht geheven van 0,5% van de getaxeerde waarde met een minimum van € 113,45.
+
+##### Artikel 16
+
+Voor de behandeling van een aanvraag voor een machtiging als bedoeld in de [artikelen 348, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=348), en [354, derde lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=354), van verzoeken als bedoeld in de [artikelen 380, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=380), en [381, tweede lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=381), alsmede van een verzoek tot goedkeuring als bedoeld in [artikel 404 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=404) wordt een recht geheven van € 68,07.
+
+##### Artikel 17
+
+Voor de behandeling van een verzoek tot goedkeuring van een overeenkomst tot beëindiging van een pachtovereenkomst als bedoeld in [artikel 323 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=323) wordt een recht geheven van € 45,38.
+
+##### Artikel 18
+
+Voor de behandeling van niet in deze paragraaf genoemde verzoeken wordt een recht geheven van € 45,38.
+
+##### Artikel 19
+
+Worden met betrekking tot dezelfde pachtovereenkomst verscheidene verzoeken gelijktijdig bij de grondkamer ingediend, dan wordt van de rechten, die bij afzonderlijke behandeling voor elk van deze verzoeken zouden worden geheven, slechts het hoogste geheven.
+
+##### Artikel 20
+
+1. Voor het instellen van beroep bij de Centrale Grondkamer wordt een recht geheven van € 56,72.
+
+2. Voor het instellen van beroep bij de Centrale Grondkamer op grond van [artikel 40 van de Uitvoeringswet grondkamers](https://wetten.overheid.nl/jci1.3:c:BWBR0021912&artikel=40) wordt geen recht geheven.
+
+##### Artikel 21
+
+Afschriften van ter goedkeuring ingediende overeenkomsten en van beschikkingen die niet reeds ambtshalve aan partijen zijn toegezonden, worden door de grondkamer of de Centrale Grondkamer verstrekt tegen betaling van € 0,91 per bladzijde en van portokosten.
+
+#### Paragraaf 3. Reglement voor de grondkamers en de Centrale Grondkamer
+
+##### Artikel 22
+
+De voorzitters, de plaatsvervangende voorzitters, de leden, de plaatsvervangende leden, de secretarissen en de plaatsvervangende secretarissen van de grondkamers alsmede de griffier en de plaatsvervangende griffiers van de Centrale Grondkamer zullen, elk naar de wijze van zijn godsdienstige gezindheid, alvorens in dienst te treden de eed of belofte afleggen:
+
+«Ik zweer/beloof dat ik trouw zal zijn aan de Koning en dat ik de [Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840) en alle overige wetten van ons land zal eerbiedigen;
+
+Ik zweer/verklaar dat ik noch direct, noch indirect in welke vorm dan ook valse informatie heb verstrekt in verband met het verkrijgen van mijn aanstelling;
+
+Ik zweer/verklaar dat ik tot het verkrijgen van mijn aanstelling aan niemand iets heb geschonken of beloofd en dat ik dit ook niet zal gaan doen;
+
+Ik zweer/verklaar dat ik tot het verkrijgen van mijn aanstelling van niemand giften heb aanvaard en aan niemand beloften heb gedaan en dat ik dit ook niet zal gaan doen;
+
+Ik zweer/beloof dat ik plichtsgetrouw en nauwgezet de mij opgedragen taken zal vervullen en zaken die mij uit hoofde van mijn functie vertrouwelijk ter kennis komen of waarvan ik het vertrouwelijke karakter moet inzien, geheim zal houden voor anderen dan die personen aan wie ik ambtshalve tot mededeling verplicht ben;
+
+Ik zweer/beloof dat ik mij zal gedragen zoals een goed ambtenaar betaamt, dat ik zorgvuldig, onkreukbaar en betrouwbaar zal zijn en dat ik niets zal doen dat het aanzien van het ambt zal schaden.
+
+Zo waarlijk helpe mij God Almachtig!/Dat verklaar en beloof ik!».
+
+##### Artikel 23
+
+1. De eed of belofte zal worden afgelegd door:
+
+- a. de voorzitters, de plaatsvervangende voorzitters, de leden, de plaatsvervangende leden, de secretarissen en de plaatsvervangende secretarissen van de grondkamers ten overstaan van de president van de rechtbank Zwolle-Lelystad;
+
+- b. de griffier en de plaatsvervangende griffiers van de Centrale Grondkamer ten overstaan van de president van het gerechtshof te Arnhem.
+
+2. Van het afleggen van de eed of belofte in de genoemde colleges wordt een akte opgemaakt.
+
+##### Artikel 24
+
+1. Bij het gerechtshof te Arnhem en bij iedere rechtbank houdt de griffier een register bij, waarin deze de koninklijke besluiten inschrijft, die de benoeming van de in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=2&paragraaf=3&artikel=22&z=2007-10-31&g=2007-10-31) bedoelde ambtenaren bevatten, die voor zijn college tot het afleggen van de eed of belofte zijn toegelaten, met daarbij de akten van de door hen afgelegde eden en beloften.
+
+2. Iedere ambtenaar, bedoeld in het eerste lid, ontvangt kosteloos een uittreksel uit het register, die de akte van de door hem afgelegde eed of belofte bevat.
+
+##### Artikel 25
+
+1. De rang van benoeming van de leden, onderscheidenlijk van de plaatsvervangende leden van dezelfde grondkamer of van de Centrale Grondkamer wordt geregeld naar de dag, waarop het besluit van hun eerste benoeming door Ons is getekend.
+
+2. De rang van benoeming van verschillende op eenzelfde dag benoemde leden of plaatsvervangende leden wordt, indien hun benoeming bij hetzelfde besluit plaatsvindt, bepaald door de volgorde van hun namen in het besluit, en, indien zij bij verschillende besluiten benoemd zijn, door de volgorde van deze besluiten.
+
+3. Bij iedere grondkamer wordt door de secretaris een lijst gehouden, waarop de namen van de leden en de plaatsvervangende leden van de grondkamer worden geplaatst met vermelding van ieders rang van benoeming.
+
+##### Artikel 26
+
+1. De secretaris van de grondkamer staat de voorzitter en de leden van de grondkamers en hun plaatsvervangers bij in de gevallen, waarin dat is vereist.
+
+2. De griffier van de Centrale Grondkamer staat de leden en de plaatsvervangende leden van dat college bij in de gevallen, waarin dat is vereist.
+
+3. Buiten de werkzaamheden van de secretaris van de grondkamer en de griffier van de Centrale Grondkamer bij de wet opgedragen, zijn zij belast met het beheer van het secretariaat onderscheidenlijk van de griffie en met het bewaren van de minuten, registers, stukken, wetten, besluiten en boekwerken van het college, waarbij zij zijn aangesteld.
+
+##### Artikel 27
+
+De voorzitter en de leden van de grondkamer en hun plaatsvervangers alsmede de leden en de plaatsvervangende leden van de Centrale Grondkamer ontvangen van de secretaris onderscheidenlijk de griffier de nodige kennisgeving van de zittingen en andere bijeenkomsten, waarbij zij tegenwoordig moeten zijn.
+
+##### Artikel 28
+
+1. Elke kennisgeving en elke toezending van stukken geschiedt door de secretaris van de grondkamer en door de griffier van de Centrale Grondkamer bij gewone brief.
+
+2. In afwijking van het bepaalde in het eerste lid, geschiedt de verzending van beschikkingen van de grondkamer aan degenen die daarvan op grond van [artikel 36, eerste lid, van de Uitvoeringswet grondkamers](https://wetten.overheid.nl/jci1.3:c:BWBR0021912&artikel=36) beroep kunnen instellen bij aangetekende brief.
+
+##### Artikel 29
+
+Het secretariaat van de grondkamer en de griffie van de Centrale Grondkamer zijn gedurende ten minste zes uren per dag geopend.
+
+##### Artikel 30
+
+1. De secretaris van de grondkamer en de griffier van de Centrale Grondkamer houden een nauwkeurige administratie bij van hetgeen door hen is ontvangen en uitgegeven.
+
+2. Onze Minister van Landbouw, Natuur en Voedselkwaliteit is bevoegd de zorg voor deze administratie en het geldelijk beheer over te dragen aan een ambtenaar werkzaam bij het secretariaat of de griffie, die in dat geval tot comptabele wordt benoemd.
+
+##### Artikel 31
+
+1. De dagen waarop de zittingen worden gehouden en de tijdstippen waarop de zittingen aanvangen worden door de grondkamer vastgesteld bij een reglement. Dit reglement wordt bekendgemaakt in de Staatscourant.
+
+2. De Centrale Grondkamer houdt zitting op door haar te bepalen plaats en uur op de eerste en derde maandag van elke maand en verder zo dikwijls daaraan behoefte bestaat.
+
+##### Artikel 32
+
+1. De voorzitter van de grondkamer en de voorzitter van de Centrale Grondkamer stellen vast welke zaken op de zitting zullen worden behandeld alsmede haar volgorde. Zij doen de oproepingen ter zitting ten minste vijf dagen tevoren uitgaan.
+
+2. De secretaris van de grondkamer en de griffier van de Centrale Grondkamer brengen de zaken op een rol.
+
+##### Artikel 33
+
+1. Bloed- of aanverwanten tot en met de derde graad mogen niet als voorzitter, lid of secretaris van een grondkamer deelnemen aan de behandeling van dezelfde zaak.
+
+2. Het eerste lid is van overeenkomstige toepassing ten aanzien van voorzitter, leden en griffier van de Centrale Grondkamer.
+
+##### Artikel 34
+
+Ieder lid of plaatsvervangend lid van een grondkamer of van de Centrale Grondkamer, die weet, dat er enige reden van wraking tegen hem bestaat, is gehouden deze aan het college waarin hij zitting heeft op te geven.
+
+##### Artikel 35
+
+De twee leden, bedoeld in [artikel 8 van de Uitvoeringswet grondkamers](https://wetten.overheid.nl/jci1.3:c:BWBR0021912&artikel=8), worden door de voorzitter van de grondkamer aangewezen.
+
+##### Artikel 36
+
+1. Aan de tafel van de grondkamer nemen slechts plaats de voorzitter, de twee leden, bedoeld in [artikel 8 van de Uitvoeringswet grondkamers](https://wetten.overheid.nl/jci1.3:c:BWBR0021912&artikel=8), en de secretaris.
+
+2. Aan de tafel van de Centrale Grondkamer nemen slechts plaats de voorzitter, de overige twee tot de rechterlijke macht behorende leden, de twee deskundige leden en de griffier.
+
+##### Artikel 37
+
+De zittingen van de grondkamers en van de Centrale Grondkamer zijn openbaar.
+
+##### Artikel 38
+
+1. De voorzitter van de grondkamer en de voorzitter van de Centrale Grondkamer hebben de leiding ter zitting en geven de nodige bevelen ter handhaving van de orde.
+
+2. Zij verlenen het woord, geven partijen gelegenheid hun standpunt toe te lichten en vragen de nodige inlichtingen.
+
+##### Artikel 39
+
+De grondkamers en de Centrale Grondkamer kunnen de persoonlijke verschijning van partijen gelasten.
+
+##### Artikel 40
+
+1. De leden van de grondkamer en van de Centrale Grondkamer hebben het recht, met verlof van de voorzitter, vragen te stellen.
+
+2. Partijen kunnen de voorzitter verzoeken de door hen opgegeven vragen te stellen.
+
+##### Artikel 41
+
+De voorzitter, de leden en de secretaris van de grondkamer alsmede de voorzitter, de leden en de griffier van de Centrale Grondkamer zullen zich ter zitting onthouden van uitingen, waarin zij van hun persoonlijke gevoelen ten opzichte van de aanhangige zaak of van het standpunt van één der partijen doen blijken.
+
+##### Artikel 42
+
+1. De grondkamer en de Centrale Grondkamer zullen tijdens de zitting geen beslissing nemen.
+
+2. De voorzitter is bevoegd de zitting te schorsen, indien dit ter beraadslaging of om enige andere reden nodig is.
+
+##### Artikel 43
+
+1. In alle zaken doen de voorzitter van de grondkamer en de voorzitter van de Centrale Grondkamer hoofdelijk omvraag. Zij vragen hierbij het advies van een jonger benoemd lid voor dat van een ouder. Zijzelf brengen het laatst hun advies uit.
+
+2. Een afwezig lid kan zijn advies noch door een van zijn medeleden doen voordragen, noch zijn advies schriftelijk indienen.
+
+3. Wanneer er meer dan twee verschillende gevoelens zijn uitgebracht, zal het besluit worden opgemaakt op de wijze, die het meest overeenkomt met het gevoelen der meerderheid.
+
+#### Paragraaf 4. Vergoedingen voor de grondkamers en de Centrale Grondkamer
+
+### Hoofdstuk 3. Uitvoering van de [artikelen 48b, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=48b), en [69a van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=69a)
+
+#### Paragraaf 1. Eed en belofte deskundige leden van de pachtkamers
+
+##### Artikel 50
+
+1. De deskundige leden van de pachtkamers van de rechtbanken, bedoeld in [artikel 48, derde lid, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=48), en hun plaatsvervangers en de deskundige leden van de pachtkamer van het gerechtshof, bedoeld in [artikel 69, tweede lid, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=69), en hun plaatsvervangers leggen alvorens zij met hun werkzaamheden aanvangen de eed of belofte af ten overstaan van het gerecht waarbij zij zijn benoemd.
+
+2. De eed of belofte wordt afgenomen op requisitoir van het openbaar ministerie.
+
+3. Het formulier, bedoeld in [artikel 48a, vijfde lid, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=48a), wordt ondertekend door degene die de eed of belofte aflegt en tevens door degene ten overstaan van wie de eed of belofte wordt afgelegd.
+
+##### Artikel 51
+
+1. Het bestuur van het gerecht waarbij de personen, bedoeld in [artikel 50, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=3&paragraaf=1&artikel=50&z=2007-10-31&g=2007-10-31), zijn benoemd, houdt een register bij waarin de koninklijke besluiten betreffende de benoeming van deze personen en de ondertekende formulieren, bedoeld in [artikel 50, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=3&paragraaf=1&artikel=50&z=2007-10-31&g=2007-10-31), worden bewaard.
+
+2. Een uittreksel uit dat register, inclusief het ondertekende formulier, bedoeld in [artikel 50, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=3&paragraaf=1&artikel=50&z=2007-10-31&g=2007-10-31), wordt aan de personen, bedoeld in [artikel 50, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=3&paragraaf=1&artikel=50&z=2007-10-31&g=2007-10-31), uitgereikt.
+
+##### Artikel 52
+
+De installatie van de personen, bedoeld in [artikel 50, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=3&paragraaf=1&artikel=50&z=2007-10-31&g=2007-10-31), geschiedt door middel van het op de terechtzitting voorlezen van het formulier, bedoeld in [artikel 48a, vijfde lid, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=48a).
+
+#### Paragraaf 2. Vergoedingen deskundige leden van de pachtkamers
+
+##### Artikel 53
+
+Aan de deskundige leden van de pachtkamers van de rechtbanken, bedoeld in [artikel 48, derde lid, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=48), en hun plaatsvervangers wordt een vergoeding toegekend overeenkomstig de regels die gelden voor de rechters-plaatsvervangers.
+
+##### Artikel 54
+
+Aan de deskundige leden van de pachtkamer van het gerechtshof, bedoeld in [artikel 69, tweede lid, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=69), en hun plaatsvervangers wordt een vergoeding toegekend overeenkomstig de regels die gelden voor de raadsheren-plaatsvervangers.
+
+##### Artikel 55
+
+1. Voor een plaatselijke bezichtiging, waaraan wordt deelgenomen krachtens opdracht van de pachtkamer, wordt aan de deskundige leden van de pachtkamers van de rechtbanken, bedoeld in [artikel 48, derde lid, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=48), en hun plaatsvervangers, een vergoeding toegekend van € 20,45 per uur en aan de deskundige leden van de pachtkamer van het gerechtshof, bedoeld in [artikel 69, tweede lid, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=69), en hun plaatsvervangers een vergoeding van € 22,73 per uur.
+
+2. Bij de berekening van deze vergoeding wordt de tijdsduur van de reis mede in aanmerking genomen.
+
+3. Bij de berekening van het totale aantal uren waarover een vergoeding volgens de voorgaande leden wordt toegekend, vindt afronding naar boven plaats tot een half uur.
+
+##### Artikel 56
+
+1. De deskundige leden van de pachtkamers van de rechtbanken, bedoeld in [artikel 48, derde lid, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=48), en hun plaatsvervangers en de deskundige leden van de pachtkamer van het gerechtshof, bedoeld in [artikel 69, tweede lid, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=69), en hun plaatsvervangers genieten, zowel voor het bijwonen van de bijeenkomsten van de pachtkamer, als voor het volbrengen van verrichtingen, welke hen, ook buiten eigenlijk rechtsgeding door de pachtkamer worden opgedragen, reis- en verblijfkosten overeenkomstig het bepaalde bij en krachtens het [Reisbesluit binnenland](https://wetten.overheid.nl/jci1.3:c:BWBR0005889).
+
+2. Reis- en verblijfkosten als bedoeld in het vorige lid worden ook genoten in de gevallen, dat een titularis wordt beëdigd of geïnstalleerd.
+
+### Hoofdstuk 4. Aanpassing algemene maatregelen van bestuur
+
+### Hoofdstuk 5. Slotartikelen
+
+##### Artikel 62
+
+Ingetrokken worden:
+
+- a. het [Besluit aanwijzing rechtsgebied grondkamers](https://wetten.overheid.nl/jci1.3:c:BWBR0008908);
+
+- b. het [Besluit van 19 mei 1962, houdende vaststelling van de vergoedingen voor de leden enz. van de Grondkamers en de Centrale Grondkamer](https://wetten.overheid.nl/jci1.3:c:BWBR0002369);
+
+- c. het [Besluit van 14 februari 1963, tot vaststelling van een algemene maatregel van bestuur ter uitvoering van de artikelen 124 en 125, vijfde lid, van de Pachtwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002400);
+
+- d. het [Besluit van 21 oktober 1985, tot vaststelling van een algemene maatregel van bestuur ter uitvoering van artikel 112 van de Pachtwet](https://wetten.overheid.nl/jci1.3:c:BWBR0003863);
+
+- e. het [Besluit van 16 december 1992, houdende nadere regelen ten aanzien van de hoogst toelaatbare vergoeding als bedoeld in artikel 4a, derde lid, en de aanwijzing van een instantie als bedoeld in artikel 5, tiende lid, van de Pachtwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005770);
+
+- f. het [Reglement voor de grondkamers en de Centrale Grondkamer](https://wetten.overheid.nl/jci1.3:c:BWBR0002280);
+
+- g. het [Reglement voor de pachtkamers](https://wetten.overheid.nl/jci1.3:c:BWBR0002281);
+
+- h. het [Tariefbesluit Pachtwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007560).
+
+##### Artikel 63
+
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst, met dien verstande dat [artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=4&artikel=61&z=2007-10-31&g=2007-10-31) terugwerkt tot en met 1 september 2007.
+
+##### Artikel 64
+
+Dit besluit wordt aangehaald als: Uitvoeringsbesluit pacht.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+### Hoofdstuk 3. Uitvoering van de [artikelen 48b, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=48b), en [69a van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=69a)
+
+#### Paragraaf 1. Eed en belofte deskundige leden van de pachtkamers
+
+#### Paragraaf 2. Vergoedingen deskundige leden van de pachtkamers
+
+### Hoofdstuk 4. Aanpassing algemene maatregelen van bestuur
+
+### Hoofdstuk 5. Slotartikelen
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 21a
+
+1. De rechten, bedoeld in de [artikelen 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=2&paragraaf=2&artikel=12&z=2009-01-01&g=2009-01-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=2&paragraaf=2&artikel=13&z=2009-01-01&g=2009-01-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=2&paragraaf=2&artikel=14&z=2009-01-01&g=2009-01-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=2&paragraaf=2&artikel=15&z=2009-01-01&g=2009-01-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=2&paragraaf=2&artikel=16&z=2009-01-01&g=2009-01-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=2&paragraaf=2&artikel=17&z=2009-01-01&g=2009-01-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=2&paragraaf=2&artikel=18&z=2009-01-01&g=2009-01-01) en [20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=2&paragraaf=2&artikel=20&z=2009-01-01&g=2009-01-01), worden jaarlijks per 1 januari aangepast aan de mate waarin het prijspeil in de periode van 1 juli in het voorafgaande jaar tot en met 1 juli van het daaraan voorafgaande jaar gemiddeld is gestegen volgens de Consumentenprijsindex voor alle huishoudens zoals gepubliceerd door het Centraal Bureau voor de Statistiek. De bedragen worden afgerond op hele euro’s.
+
+2. Onze Minister van Landbouw, Natuur en Voedselkwaliteit maakt de aanpassing, bedoeld in het eerste lid, uiterlijk 1 oktober van het voorgaande jaar bekend in de Staatscourant.
+
+#### Paragraaf 3. Reglement voor de grondkamers en de Centrale Grondkamer
+
+#### Paragraaf 4. Vergoedingen voor de grondkamers en de Centrale Grondkamer
+
+### Hoofdstuk 3. Uitvoering van de [artikelen 48b, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=48b), en [69a van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=69a)
+
+#### Paragraaf 1. Eed en belofte deskundige leden van de pachtkamers
+
+#### Paragraaf 2. Vergoedingen deskundige leden van de pachtkamers
+
+### Hoofdstuk 4. Aanpassing algemene maatregelen van bestuur
+
+### Hoofdstuk 5. Slotartikelen
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 17a
+
+Indien een verzoek tot goedkeuring van een overeenkomst als bedoeld in [artikel 397, eerste lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=397), langs elektronische weg op de door de grondkamers aangegeven wijze wordt ingediend, wordt een recht geheven van € 100,–.
+
+#### Paragraaf 3. Reglement voor de grondkamers en de Centrale Grondkamer
+
+#### Paragraaf 4. Vergoedingen voor de grondkamers en de Centrale Grondkamer
+
+### Hoofdstuk 3. Uitvoering van de [artikelen 48b, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=48b), en [69a van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=69a)
+
+#### Paragraaf 1. Eed en belofte deskundige leden van de pachtkamers
+
+#### Paragraaf 2. Vergoedingen deskundige leden van de pachtkamers
+
+### Hoofdstuk 4. Aanpassing algemene maatregelen van bestuur
+
+### Hoofdstuk 5. Slotartikelen
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
