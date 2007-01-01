@@ -4,7 +4,7 @@ identifier: "BWBR0016980"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2012-01-01"
-last_updated: "2004-07-17"
+last_updated: "2007-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016980"
 soort: "ministeriele-regeling"
@@ -75,7 +75,7 @@ Besluit:
 
 2. Bij het berekenen van de vermindering ter voorkoming van dubbele belasting over een jaar wordt eerst de met betrekking tot de netto-inkomsten van de fiscale eenheid vanwege een Mogendheid geheven belasting in aanmerking genomen en vervolgens de naar dat jaar voortgewentelde belasting van vóór het voegingstijdstip die vanwege een Mogendheid van een maatschappij is geheven.
 
-3. Indien de netto-inkomsten van de fiscale eenheid positief zijn, maar de netto-inkomsten van één of meer maatschappijen negatief zijn, wordt het bedrag van de negatieve netto-inkomsten voor de toepassing van [artikel 44, tweede lid, van het Besluit fiscale eenheid 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014483&artikel=44) in mindering gebracht op het bedrag van de positieve netto-inkomsten van de andere maatschappijen in de volgorde van toenemende grootte van die positieve netto-inkomsten. Daarbij is [artikel 2, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016980&artikel=2&z=2004-07-17&g=2004-07-17), van overeenkomstige toepassing.
+3. Indien de netto-inkomsten van de fiscale eenheid positief zijn, maar de netto-inkomsten van één of meer maatschappijen negatief zijn, wordt het bedrag van de negatieve netto-inkomsten voor de toepassing van [artikel 44, tweede lid, van het Besluit fiscale eenheid 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014483&artikel=44) in mindering gebracht op het bedrag van de positieve netto-inkomsten van de andere maatschappijen in de volgorde van toenemende grootte van die positieve netto-inkomsten. Daarbij is [artikel 2, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016980&artikel=2&z=2004-07-17&g=2007-01-01), van overeenkomstige toepassing.
 
 4. Indien de netto-inkomsten van de fiscale eenheid negatief zijn, wordt geen voortgewentelde belasting van vóór het voegingstijdstip die vanwege een Mogendheid van een maatschappij is geheven, in aanmerking genomen.
 
@@ -103,7 +103,7 @@ Besluit:
 
 2. Indien de verschuldigde vennootschapsbelasting in een jaar onvoldoende is om de gehele aanspraak ter zake van passieve winst uit buitenlandse onderneming in aanmerking te nemen, wordt eerst de aanspraak van de fiscale eenheid en vervolgens de naar dat jaar voortgewentelde aanspraak van een maatschappij van vóór het voegingstijdstip ter zake van passieve winst uit buitenlandse onderneming in aanmerking genomen.
 
-3. [Artikel 2, derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016980&artikel=2&z=2004-07-17&g=2004-07-17), en [artikel 3, derde tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016980&artikel=3&z=2004-07-17&g=2004-07-17), zijn van overeenkomstige toepassing.
+3. [Artikel 2, derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016980&artikel=2&z=2004-07-17&g=2007-01-01), en [artikel 3, derde tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016980&artikel=3&z=2004-07-17&g=2007-01-01), zijn van overeenkomstige toepassing.
 
 4. Voor de toepassing van deze bepaling wordt onder passieve winst uit buitenlandse onderneming verstaan de winst behaald met een onderneming waarvoor op de voet van [artikel 39, tweede lid, van het Besluit voorkoming dubbele belasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&artikel=39) een vermindering ter voorkoming van dubbele belasting wordt verleend.
 
@@ -118,3 +118,7 @@ Besluit:
 ##### Artikel 6
 
 Deze regeling wordt aangehaald als: Uitvoeringsregeling fiscale eenheid en voorkoming dubbele belasting 2003.
+
+##### Artikel 4a. Volgorde vermindering van voordelen uit laagbelaste beleggingsdeelnemingen en deelnemingsverrekening
+
+Voor de berekening van het in aanmerking te nemen bedrag van deelnemingsverrekening, bedoeld in artikel [48b van het Besluit fiscale eenheid 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014483&artikel=48b), is [artikel 3, tweede tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016980&artikel=3&z=2008-01-01&g=2007-01-01), van overeenkomstige toepassing.
