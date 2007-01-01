@@ -4,7 +4,7 @@ identifier: "BWBR0007369"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2007-01-01"
-last_updated: "1995-05-01"
+last_updated: "2007-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007369"
 soort: "ministeriele-regeling"
@@ -61,7 +61,7 @@ In deze regeling wordt verstaan onder:
 
 - g. pensioen op het tijdstip van scheiding:
 
-- –. voor deelnemers: de tijdsevenredige pensioenaanspraak per de datum van scheiding welke wordt vastgesteld overeenkomstig het bepaalde in [artikel 8, tweede lid, van de Pensioen- en spaarfondsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002089&artikel=8),
+- –. voor deelnemers: de aanspraak per de datum van scheiding welke wordt vastgesteld overeenkomstig [artikel 55 van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=55),
 
 - –. voor gewezen deelnemers: het ingegane pensioen of de ten tijde van beëindiging van het deelnemerschap vastgestelde pensioenaanspraak vermeerderd met de eventueel daarna toegepaste verhogingen voorzover toe te rekenen aan de huwelijksperiode;
 
@@ -87,11 +87,11 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 4
 
-1. Bij waarde-overdracht is het overdragende uitvoeringsorgaan verplicht aan het overnemende uitvoeringsorgaan, naast de gegevens die op grond van [artikel 4 van het Besluit reken- en procedureregels recht op waarde-overdracht](https://wetten.overheid.nl/jci1.3:c:BWBR0006867&artikel=4) moeten worden verstrekt, tevens mede te delen de datum van aanvang van het deelnemerschap in de regeling, die door het overdragende uitvoeringsorgaan wordt uitgevoerd, alsmede in geval van een eerdere niet aansluitende waarde-overdracht de datum van eerdere beëindiging van het deelnemerschap in de pensioenregeling van het overdragende uitvoeringsorgaan. Het overnemende uitvoeringsorgaan legt deze gegevens in zijn administratie vast.
+1. Bij waarde-overdracht is het overdragende uitvoeringsorgaan verplicht aan het overnemende uitvoeringsorgaan, naast de gegevens die op grond van [artikel 18 van het Besluit uitvoering Pensioenwet en Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&artikel=18) moeten worden verstrekt, tevens mede te delen de datum van aanvang van het deelnemerschap in de regeling, die door het overdragende uitvoeringsorgaan wordt uitgevoerd, alsmede in geval van een eerdere niet aansluitende waarde-overdracht de datum van eerdere beëindiging van het deelnemerschap in de pensioenregeling van het overdragende uitvoeringsorgaan. Het overnemende uitvoeringsorgaan legt deze gegevens in zijn administratie vast.
 
-2. Indien de datum van waarde-overdracht is gelegen vóór 1 mei 1995 en de datum van aanvang van het deelnemerschap in de regeling van het overdragende uitvoeringsorgaan niet bekend is bij het overnemende uitvoeringsorgaan, wordt voor de vaststelling van deze datum uitgegaan van [artikel 8 van de regels als bedoeld in artikel 10 van de wet, betreffende pensioenberekening over deelnemingsjaren voor 1 mei 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007144&artikel=8) (regeling van 23 december 1994, nr. SZ/SV/P/94/5170, Stcrt. 252)
+2. Indien de datum van waarde-overdracht is gelegen vóór 1 mei 1995 en de datum van aanvang van het deelnemerschap in de regeling van het overdragende uitvoeringsorgaan niet bekend is bij het overnemende uitvoeringsorgaan, wordt voor de vaststelling van deze datum uitgegaan van artikel 23 van de regels als bedoeld in artikel 10 van de wet, betreffende pensioenberekening over deelnemingsjaren voor 1 mei 1995 ([regeling van 23 december 1994, nr. SZ/SV/P/94/5170](onbekend), Stcrt. 252)
 
-3. Indien de datum van beëindiging van het deelnemerschap in de pensioenregeling van het overdragende uitvoeringsorgaan niet bekend is bij het overnemende uitvoeringsorgaan en dit gegeven niet kan worden verkregen door het overnemende uitvoeringsorgaan overeenkomstig [artikel 8 van de in het tweede lid genoemde regels](https://wetten.overheid.nl/jci1.3:c:BWBR0007144&artikel=8), wordt uitgegaan van de datum van opneming in de pensioenregeling van het overnemende uitvoeringsorgaan.
+3. Indien de datum van beëindiging van het deelnemerschap in de pensioenregeling van het overdragende uitvoeringsorgaan niet bekend is bij het overnemende uitvoeringsorgaan en dit gegeven niet kan worden verkregen door het overnemende uitvoeringsorgaan overeenkomstig artikel 23 van de in het tweede lid genoemde regels, wordt uitgegaan van de datum van opneming in de pensioenregeling van het overnemende uitvoeringsorgaan.
 
 ##### Artikel 5
 
