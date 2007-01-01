@@ -4,7 +4,7 @@ identifier: "BWBR0015042"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2007-01-01"
-last_updated: "2004-05-28"
+last_updated: "2007-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0015042"
 soort: "ministeriele-regeling"
@@ -66,7 +66,7 @@ In deze regeling wordt verstaan onder:
 
 - 2e ten aanzien van de burgerlijke ambtenaar: het hoofd van de diensteenheid, opgenomen in bijlage 3 van de Regeling bevoegdhedentoedeling burgerlijke ambtenaren defensie;
 
-- e. **ARBO-dienst:** een onafhankelijke voor het betreffende beleidsterrein verantwoordelijke ARBO-dienst als bedoeld in de [Arbeidsomstandighedenwet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0010346);
+- e. **ARBO-dienst:** een onafhankelijke voor het betreffende beleidsterrein verantwoordelijke ARBO-dienst als bedoeld in de [Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346);
 
 - f. **bedrijfsarts:** een arts werkzaam bij de ARBO-dienst en als zodanig belast met de bedrijfsgeneeskundige begeleiding van defensiepersoneel;
 
@@ -80,7 +80,7 @@ In deze regeling wordt verstaan onder:
 
 - k. **herstelmelding:** de mededeling aan de directe chef van de werknemer waarmee deze te kennen geeft dat hij zich herstelt acht en in staat meent te zijn zijn arbeid weer te verrichten;
 
-- l. **verzuimbegeleiding:** de begeleiding van de werknemer die door ziekte niet in staat is zijn arbeid te verrichten, zoals genoemd in de Arbo-wet 1998.
+- l. **verzuimbegeleiding:** de begeleiding van de werknemer die door ziekte niet in staat is zijn arbeid te verrichten, zoals genoemd in de [Arbo-wet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0010346).
 
 ##### Artikel 2. Verplichtingen van de werknemer
 
