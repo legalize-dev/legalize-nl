@@ -4,7 +4,7 @@ identifier: "BWBR0017228"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-06-01"
-last_updated: "2005-01-01"
+last_updated: "2007-01-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017228"
 soort: "ministeriele-regeling"
@@ -77,7 +77,7 @@ De havenbeheerder meldt onverwijld aan de inspecteur-generaal, op diens verzoek 
 
 - a. de aanmelding van de door de inspecteur-generaal aangegeven schepen;
 
-- b. de in [artikel 3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017228&paragraaf=3&artikel=3&z=2005-01-01&g=2005-01-01), vermelde gegevens.
+- b. de in [artikel 3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017228&paragraaf=3&artikel=3&z=2007-01-02&g=2007-01-02), vermelde gegevens.
 
 #### § 4. Rapportageverplichtingen
 
@@ -131,7 +131,11 @@ Vervallen
 
 ##### Artikel 10
 
-De havenbeheerders van de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0017228&bijlage=I&z=2005-01-01&g=2005-01-01) aangewezen havens dragen zorg voor toereikende havenontvangstvoorzieningen voor het in ontvangst nemen van de in die [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0017228&bijlage=I&z=2005-01-01&g=2005-01-01) aangewezen categorieën scheepsafval, overige schadelijke stoffen of restanten van schadelijke stoffen.
+De havenbeheerders van de in bijlage I aangewezen havens dragen zorg voor toereikende havenontvangstvoorzieningen voor het in ontvangst nemen van de in die bijlage aangewezen:
+
+- a. categorieën scheepsafval, overige schadelijke stoffen of restanten van schadelijke stoffen als bedoeld in [artikel 6, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=6);
+
+- b. stoffen en uitrusting die deze stoffen bevat als bedoeld in [artikel 6, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=6).
 
 #### § 9. Aanwijzing rechtspersoon visserijsector
 
@@ -143,7 +147,7 @@ Als rechtspersoon, bedoeld in [artikel 9, tweede lid, van het Besluit havenontva
 
 ##### Artikel 12
 
-Een melding als bedoeld in [artikel 8, eerste lid, van het Besluit havenontvangstvoorzieningen](https://wetten.overheid.nl/jci1.3:c:BWBR0017136&artikel=8) wordt gedaan met behulp van het model, opgenomen in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0017228&bijlage=II&z=2005-01-01&g=2005-01-01) bij deze regeling.
+Een melding als bedoeld in [artikel 8, eerste lid, van het Besluit havenontvangstvoorzieningen](https://wetten.overheid.nl/jci1.3:c:BWBR0017136&artikel=8) wordt gedaan met behulp van het model, opgenomen in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0017228&bijlage=II&z=2007-01-02&g=2007-01-02) bij deze regeling.
 
 #### § 11. Wijziging en intrekking van andere regelingen
 
@@ -159,9 +163,9 @@ De circulaire van de Minister van Verkeer en Waterstaat inzake melding door de s
 
 ##### Artikel 15
 
-1. In afwijking van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017228&paragraaf=4&artikel=5&z=2005-01-01&g=2005-01-01) meldt de houder van de havenontvangstvoorziening de op het bij inwerkingtreding van deze regeling lopende kwartaal betrekking hebbende gegevens als bedoeld in dat artikel gelijktijdig met de op het eerstvolgende kwartaal betrekking hebbende gegevens.
+1. In afwijking van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017228&paragraaf=4&artikel=5&z=2007-01-02&g=2007-01-02) meldt de houder van de havenontvangstvoorziening de op het bij inwerkingtreding van deze regeling lopende kwartaal betrekking hebbende gegevens als bedoeld in dat artikel gelijktijdig met de op het eerstvolgende kwartaal betrekking hebbende gegevens.
 
-2. In afwijking van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017228&paragraaf=4&artikel=6&z=2005-01-01&g=2005-01-01) worden de op het kalenderjaar 2004 betrekking hebbende gegevens als bedoeld in dat artikel uiterlijk 1 maart 2006 aan de inspecteur-generaal gemeld.
+2. In afwijking van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017228&paragraaf=4&artikel=6&z=2007-01-02&g=2007-01-02) worden de op het kalenderjaar 2004 betrekking hebbende gegevens als bedoeld in dat artikel uiterlijk 1 maart 2006 aan de inspecteur-generaal gemeld.
 
 ##### Artikel 16
 
@@ -171,39 +175,39 @@ Deze regeling treedt in werking op het tijdstip waarop de wet van 6 juli 2004 to
 
 Deze regeling wordt aangehaald als: Regeling havenontvangstvoorzieningen.
 
-## Bijlage I
+## Bijlage. behorende bij [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0017228&paragraaf=8&artikel=10&z=2007-01-02&g=2007-01-02) van de Regeling havenontvangstvoorzieningen
 
-| Haven | Toereikende havenontvangstvoorzieningen voor: | Toereikende havenontvangstvoorzieningen voor: | Toereikende havenontvangstvoorzieningen voor: |
-| --- | --- | --- | --- |
-|   |   |   |   |
-|   | Olierestanten en oliehoudende mengsels1Olie en oliehoudende mengsels als bedoeld in artikel 1, eerste lid, onder a en b, van het Besluit voorkoming olieverontreiniging door schepen. Sanitair afval2Sanitair afval als bedoeld in artikel 1 van het Besluit sanitair afval zeeschepen. | Restanten van schadelijke stoffen3Schadelijke vloeistoffen, aangewezen krachtens artikel 1, eerste lid, onder f, van het Besluit voorkoming verontreiniging door met schepen in bulk vervoerde schadelijke stoffen. | Vuilnis4Vuilnis als bedoeld in artikel 1, onder a, van het Besluit voorkoming verontreiniging door vuilnis van schepen. |
-| Amsterdam | X | X | X |
-| Beverwijk | X |   | X |
-| Breskens | X |   | X |
-| Bruinisse | X |   | X |
-| Colijnsplaat | X |   | X |
-| Delfzijl | X | X | X |
-| Den Helder | X |   | X |
-| Den Oever | X |   | X |
-| Dordrecht | X | X | X |
-| Eemshaven | X |   | X |
-| Harlingen | X |   | X |
-| Lauwersoog | X |   | X |
-| Maassluis | X |   | X |
-| Moerdijk | X | X | X |
-| Oudeschild | X |   | X |
-| Rotterdam | X | X | X |
-| Scheveningen | X |   | X |
-| Schiedam | X |   | X |
-| Stellendam | X |   | X |
-| Terneuzen | X | X | X |
-| Urk | X |   | X |
-| Vlaardingen | X | X | X |
-| Vlissingen | X | X | X |
-| Velsen/IJmuiden | X |   | X |
-| Yerseke | X |   | X |
-| Zaandam | X |   | X |
-| Zierikzee | X |   | X |
+| Haven | Toereikende havenontvangstvoorzieningen voor: | Toereikende havenontvangstvoorzieningen voor: | Toereikende havenontvangstvoorzieningen voor: | Toereikende havenontvangstvoorzieningen voor: |
+| --- | --- | --- | --- | --- |
+|   |   |   |   |   |
+|   | Olierestanten en oliehoudende mengsels1Olie en oliehoudende mengsels als bedoeld in voorschrift 1 van Bijlage I van het Verdrag. Sanitair afval2Sanitair afval als bedoeld in voorschrift 1 van Bijlage IV van het Verdrag. | Restanten van schadelijke stoffen3Schadelijke vloeistoffen als bedoeld in voorschrift 1 van Bijlage II van het Verdrag. | Vuilnis4Vuilnis als bedoeld in voorschrift 1 van Bijlage V ven het Verdrag. | Stoffen die de ozonlaag aantasten en uitrusting die deze stoffen bevat5Stoffen die de ozonlaag aantasten als bedoeld in voorschrift 2 van Bijlage VI van het Verdrag. |
+| Amsterdam | X | X | X | X |
+| Beverwijk | X |   | X |   |
+| Breskens | X |   | X |   |
+| Bruinisse | X |   | X |   |
+| Colijnsplaat | X |   | X |   |
+| Delfzijl | X | X | X |   |
+| Den Helder | X |   | X | X |
+| Den Oever | X |   | X |   |
+| Dordrecht | X | X | X |   |
+| Eemshaven | X |   | X |   |
+| Harlingen | X |   | X |   |
+| Lauwersoog | X |   | X |   |
+| Maassluis | X |   | X |   |
+| Moerdijk | X | X | X |   |
+| Oudeschild | X |   | X |   |
+| Rotterdam | X | X | X | X |
+| Scheveningen | X |   | X |   |
+| Schiedam | X |   | X |   |
+| Stellendam | X |   | X |   |
+| Terneuzen | X | X | X |   |
+| Urk | X |   | X |   |
+| Vlaardingen | X | X | X |   |
+| Vlissingen | X | X | X |   |
+| Velsen/IJmuiden | X |   | X |   |
+| Yerseke | X |   | X |   |
+| Zaandam | X |   | X |   |
+| Zierikzee | X |   | X |   |
 
 ## Bijlage II
 
