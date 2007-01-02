@@ -4,7 +4,7 @@ identifier: "BWBR0017136"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-06-01"
-last_updated: "2005-07-01"
+last_updated: "2007-01-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017136"
 soort: "AMvB"
@@ -56,7 +56,11 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder wet: [Wet
 
 ##### Artikel 2
 
-Bij regeling van Onze Minister worden de havens aangewezen waarvan de havenbeheerders zorgdragen voor toereikende havenontvangstvoorzieningen die geschikt zijn voor het in ontvangst nemen van scheepsafval en bij die aanwijzing te bepalen overige schadelijke stoffen of restanten van schadelijke stoffen.
+Bij regeling van Onze Minister worden de havens aangewezen waarvan de havenbeheerders zorgdragen voor:
+
+- a. toereikende havenontvangstvoorzieningen die geschikt zijn voor het in ontvangst nemen van scheepsafval en bij die aanwijzing te bepalen overige schadelijke stoffen of restanten van schadelijke stoffen;
+
+- b. toereikende havenontvangstvoorzieningen die, overeenkomstig de behoeften van schepen die van die havens gebruik maken, geschikt zijn voor het in ontvangst nemen van bij die aanwijzing te bepalen stoffen of uitrusting die deze stoffen bevat als bedoeld in [artikel 6, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=6).
 
 #### § 3. Havenafvalplannen
 
