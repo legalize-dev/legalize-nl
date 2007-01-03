@@ -4,7 +4,7 @@ identifier: "BWBR0002690"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-07-01"
-last_updated: "2002-01-01"
+last_updated: "2007-01-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002690"
 soort: "AMvB"
@@ -56,7 +56,11 @@ Onze voornoemde Minister is belast met de voorbereidende behandeling van het ver
 
 ##### Artikel 3
 
-1. Het in [artikel 7, vijfde lid, van Boek 1 van het Burgerlijk Wetboek](onbekend) bedoelde recht bedraagt € 226,89 met dien verstande dat, indien het verzoek tot wijziging van de geslachtsnaam meer dan één persoon betreft, het bedrag slechts eenmaal is verschuldigd.
+1. Het in [artikel 7, vijfde lid, van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=7) bedoelde recht bedraagt € 390, met dien verstande dat het bedrag slechts eenmaal is verschuldigd, indien het verzoek tot wijziging van de geslachtsnaam betrekking heeft op:
+
+- a. een meerderjarige en diens minderjarige kind of kinderen over wie deze het gezag uitoefent of
+
+- b. minderjarigen die tot hetzelfde gezin behoren.
 
 2. Onze Minister van Justitie kan bijzondere gevallen gehele of gedeeltelijke ontheffing van de betaling van het verschuldigde bedrag verlenen.
 
@@ -72,7 +76,7 @@ Vervallen
 
 ##### Artikel 6
 
-Ten aanzien van de echtgenoot en de kinderen van de regerende Koning, ten aanzien van de echtgenoten van die kinderen, alsmede ten aanzien van andere personen, indien zij de Kroon van de regerende Koning kunnen beërven, en hun echtgenoten, zullen ingeval van naamswijziging de [artikelen 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002690&artikel=1&z=2002-01-01&g=2002-01-01), tot en met [4](https://wetten.overheid.nl/jci1.3:c:BWBR0002690&artikel=4&z=2002-01-01&g=2002-01-01) van dit besluit niet van toepassing zijn.
+Ten aanzien van de echtgenoot en de kinderen van de regerende Koning, ten aanzien van de echtgenoten van die kinderen, alsmede ten aanzien van andere personen, indien zij de Kroon van de regerende Koning kunnen beërven, en hun echtgenoten, zullen ingeval van naamswijziging de [artikelen 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002690&artikel=1&z=2007-01-03&g=2007-01-03), tot en met [4](https://wetten.overheid.nl/jci1.3:c:BWBR0002690&artikel=4&z=2007-01-03&g=2007-01-03) van dit besluit niet van toepassing zijn.
 
 ##### Artikel 7
 
