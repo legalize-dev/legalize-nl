@@ -135,17 +135,3 @@ Tot het samenwerkingsgebied, behorend bij centrumkorps Rotterdam-Rijnmond, behor
 Tot het samenwerkingsgebied, behorend bij centrumkorps Brabant Zuidoost, behoren de volgende politieregio’s:
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 10a
-
-Deze regeling berust op de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=5), [30, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=30), en [57 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=57).
-
-## Bijlage
-
-### **Indeling samenwerkingsgebieden en aanwijzing centrumkorpsen (behorende bij artikel 2 van deze regeling)**
-
-Tot het samenwerkingsgebied, behorend bij centrumkorps Brabant Zuidoost, behoren de volgende politieregio’s:
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
