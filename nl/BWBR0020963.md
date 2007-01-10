@@ -4,7 +4,7 @@ identifier: "BWBR0020963"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2007-01-10"
-last_updated: "2007-01-01"
+last_updated: "2007-01-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020963"
 soort: "ministeriele-regeling"
@@ -54,11 +54,11 @@ Wijzigt het Vaststellingsbesluit beleidsregels subsidiëring Subsidieregeling Mi
 
 ##### Artikel III
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Besluit vaststelling Subsidieplafond ORET 2007.
 
 ##### Artikel IV
 
-Dit onderdeel is nog niet inwerking getreden
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst en werkt wat betreft de [artikelen I](https://wetten.overheid.nl/jci1.3:c:BWBR0020963&artikel=I&z=2007-01-10&g=2007-01-10) en [II](https://wetten.overheid.nl/jci1.3:c:BWBR0020963&artikel=II&z=2007-01-10&g=2007-01-10) terug tot en met 1 januari 2007.
 
 Gelet op [artikel 6 van het Subsidiebesluit Ministerie van Buitenlandse Zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0018039&artikel=6), de [artikelen 7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&artikel=7.2). en [7.3, onder h, van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&artikel=7.3) en de [artikelen 10:3](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:3) en [10:4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:4);
 
