@@ -1,0 +1,148 @@
+---
+title: "Besluit van het bestuur van het Productschap Tuinbouw van 27 juni 2006, houdende de vaststelling van een heffing ten behoeve van de teelt van vollegrondsgroenten voor het jaar 2007 (Verordening PT bijzondere heffing vollegrondsgroenten 2007)"
+identifier: "BWBR0021052"
+country: "nl"
+rank: "pbo"
+publication_date: "2007-01-14"
+last_updated: "2007-01-14"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0021052"
+soort: "pbo"
+stam_id: "8875493"
+version_id: "14096272"
+internal_id: "C19194401"
+label_id: "8854874"
+dtd_version: "2.0"
+original_entry_into_force: "2007-01-14"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0021052/2007-01-14/0"
+intitule_bron: "Vbbo.2007-4"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-07-06"
+intitule_published: "2007-01-12"
+intitule_in_force: "2007-01-12"
+intitule_status: "goed"
+original_publication: "Vbbo.2007-4"
+original_signed_date: "2006-07-06"
+original_published_date: "2007-01-12"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2007-01-14"
+jci_1_3: "jci1.3:c:BWBR0021052&z=2007-01-14&g=2007-01-14"
+jci_1_0: "1.0:c:BWBR0021052&g=2007-01-14"
+citeertitel_status: "officieel"
+short_title: "Verordening PT bijzondere heffing vollegrondsgroenten 2007"
+signed_date: "2006-07-06"
+entry_into_force: "2007-01-14"
+---
+# Besluit van het bestuur van het Productschap Tuinbouw van 27 juni 2006, houdende de vaststelling van een heffing ten behoeve van de teelt van vollegrondsgroenten voor het jaar 2007 (Verordening PT bijzondere heffing vollegrondsgroenten 2007)
+
+Gelet op de [artikelen 95](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=95), [100](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=100) en [126 van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126), en
+
+Gelet op de [artikelen 12 tot en met 14 van het Instellingsbesluit Productschap Tuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=12);
+
+Gehoord de Commissie voor groenten en fruit, d.d. 20 juni 2006;
+
+Besluit:
+
+#### § 1. Begripsbepalingen
+
+##### Artikel 1
+
+1. In deze verordening worden overgenomen de begripsbepalingen van de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=1) en [2 van het Instellingsbesluit Productschap Tuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=2).
+
+2. In deze verordening worden overgenomen de begripsbepalingen van [artikel 1:1](https://wetten.overheid.nl/jci1.3:c:BWBR0016684&artikel=1:1) en [artikel 3:1](https://wetten.overheid.nl/jci1.3:c:BWBR0016684&artikel=3:1), en de werkwijze zoals beschreven in [hoofdstuk 3 van de Verordening PT algemene bepalingen 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0016684&hoofdstuk=3).
+
+3. In deze verordening en de daarop berustende bepalingen wordt verstaan onder:
+
+| a. | het braakland: | de gronden die in enig oogstjaar tot en met april van het daarop volgend oogstjaar niet worden beteeld; |
+| --- | --- | --- |
+| b. | de cultuurgrond: | beteelde grond, braakland, de oppervlakte van de grond die gemoeid is met het gebruik van elk ander groeimedium met behulp waarvan de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0021052&paragraaf=3&artikel=4&z=2007-01-14&g=2007-01-14) genoemde gewassen of producten kunnen worden geteeld, of ten tijde van het tijdvak als bedoeld in de Regeling Landbouwtelling, nog niet beteelde grond waarbij een teelt voor eind augustus wordt ingezet; |
+| c. | de teelt onder glas: | iedere andere teelt dan die in de open grond; |
+| d. | de gemeten maat: | de oppervlakte beteelbare grond, inclusief paden en voren die voor de teelt noodzakelijk zijn; |
+| e. | de contractteelt: | de teelt van gewassen of producten ingevolge een overeenkomst. |
+
+#### § 2. Heffingsplicht
+
+##### Artikel 2
+
+1. De ondernemer die in het jaar 2007 een onderneming drijft waarin vollegrondsgroenten, waaronder begrepen aardbeien, witlofwortel en witloftrek, worden geteeld is aan het productschap een heffing verschuldigd. Het areaal uitgangsmateriaal voor vollegrondsgroenten waarvan het uitgangsmateriaal in het handelsverkeer wordt gebracht en onder keuring van de NAK Tuinbouw valt, is van deze heffing uitgezonderd
+
+2. De berekening van de heffing als bedoeld in het eerste lid, vindt plaats op basis van de door de ondernemer aan het productschap verstrekte gegevens.
+
+3. De heffing als bedoeld in het eerste lid, is aan het productschap verschuldigd over het kalenderjaar 2007, ten behoeve van afzetbevordering. onderzoek en milieuprojecten.
+
+4. De heffing als bedoeld in het eerste lid, wordt opgelegd bij wege van een aanslag, met inachtneming van het in de volgende artikelen bepaalde.
+
+#### § 3. Grondslag en hoogte
+
+##### Artikel 3
+
+De heffing die is verschuldigd wordt opgelegd naar de grondslag grondgebruik, daaronder begrepen de witloftrek, een en ander overeenkomstig de volgende artikelen.
+
+##### Artikel 4
+
+1. De heffing naar de grondslag grondgebruik wordt berekend naar de oppervlakte van de bij onderneming behorende cultuurgrond en bedraagt ten hoogste voor:
+
+| Groep 1: | cultuurgrond, in gebruik voor de teelt in de open grond van groen te oogsten erwten, stamsperziebonen, snijbonen en tuinbonen: | € | 40,00 per ha; |
+| --- | --- | --- | --- |
+| Groep 2: | cultuurgrond, in gebruik voor de teelt in de open grond van was-, bospeen, en winterpeen: | € | 40,00 per ha; |
+| Groep 3: | cultuurgrond, in gebruik voor de teelt in de open grond van herfst-, vroege-, en bewaarkool: | € | 80,00 per ha; |
+| Groep 4: | cultuurgrond, in gebruik voor de teelt in de open grond van spinazie, kroten, knolselderij, en schorseneren: | € | 40,00 per ha; |
+| Groep 5: | cultuurgrond, in gebruik voor de teelt in de open grond van spruitkool: | € | 80,00 per ha; |
+| Groep 6: | cultuurgrond, in gebruik voor de teelt in de open grond van broccoli: | € | 80,00 per ha; |
+| Groep 7: | cultuurgrond, in gebruik voor de teelt in de open grond van bloemkool: | € | 80,00 per ha; |
+| Groep 8: | cultuurgrond, in gebruik voor de teelt in de open grond van prei: | € | 70,00 per ha; |
+| Groep 9: | cultuurgrond, in gebruik voor de teelt in de open grond van witlofwortel: | € | 40,00 per ha; |
+| Groep 10: | cultuurgrond, in gebruik voor de teelt in de open grond van sla: | € | 100,00 per ha; |
+| Groep 11: | cultuurgrond, in gebruik voor de teelt in de open grond van asperges: | € | 150,00 per ha; |
+| Groep 12: | cultuurgrond, in gebruik voor de teelt in de open grond van aardbeien: | € | 120,00 per ha; |
+| Groep 13: | cultuurgrond, in gebruik voor de teelt onder glas van aardbeien: | € | 11,00 per are; teeltoppervlak; |
+| Groep 14: | cultuurgrond, bedoeld voor de witloftrek: | € | 3,00 per m2 teeltoppervlak; |
+| Groep 15: | cultuurgrond in gebruik voor de teelt in de open grond van andere dan in de groepen 1 tot en met 14 genoemd: | € | 120,00 per ha. |
+
+2. De hoogte van de heffing als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0021052&paragraaf=3&artikel=3&z=2007-01-14&g=2007-01-14) en [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021052&paragraaf=3&artikel=4&z=2007-01-14&g=2007-01-14), wordt door middel van een besluit van het bestuur vastgesteld.
+
+##### Artikel 5
+
+1. Voor de toepassing van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0021052&paragraaf=3&artikel=4&z=2007-01-14&g=2007-01-14), wordt onder de bij de onderneming behorende cultuurgrond mede verstaan cultuurgrond die:
+
+- a. zaai- of pootklaar is gehuurd;
+
+- b. als overig los land is gehuurd;
+
+- c. in gebruik is ontvangen, of
+
+- d. door de ondernemer wordt beteeld voor contractteelt.
+
+2. Voor de toepassing van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0021052&paragraaf=3&artikel=4&z=2007-01-14&g=2007-01-14), wordt cultuurgrond gerekend naar de gemeten maat.
+
+3. Voor de toepassing van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0021052&paragraaf=3&artikel=4&z=2007-01-14&g=2007-01-14), worden met betrekking tot de groepen 1 tot en met 13 en 15, gedeelten van een hectare belast in evenredigheid met de voor die groepen bedoelde bedragen. Gedeelten van een hectare worden naar beneden afgerond tot een veelvoud van aren.
+
+#### § 4. Oplegging en inning
+
+##### Artikel 6
+
+1. De oplegging van de krachtens deze verordening verschuldigde heffing vindt plaats na afloop van het jaar waarover de heffing verschuldigd is en geschiedt door middel van toezending of uitreiking aan de heffingsplichtige van een heffingsnota.
+
+2. In afwijking van het eerste lid kan de heffingsplichtige een voorlopige heffing worden opgelegd tot het bedrag waarop de heffing vermoedelijk zal worden vastgesteld. De voorlopige heffing wordt verrekend met de krachtens deze verordening verschuldigde heffing.
+
+##### Artikel 7
+
+Indien uit de ter beschikking gekomen gegevens blijkt dat de verstrekking van de gegevens of een raming als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0021052&paragraaf=4&artikel=6&z=2007-01-14&g=2007-01-14), niet in overeenstemming is met de werkelijkheid, kan een opgelegde heffing aan de hand van deze gegevens worden herzien en opnieuw worden opgelegd.
+
+##### Artikel 8
+
+1. De gegevens verkregen uit hoofde van het bepaalde in deze verordening dienen in handen van de voorzitter of door deze aan te wijzen personen van het secretariaat van het productschap te worden gesteld.
+
+2. Deze gegevens mogen slechts worden gebezigd voor de vervulling van de taak van het productschap.
+
+#### § 5. Slotbepalingen
+
+##### Artikel 9
+
+Deze verordening treedt in werking met ingang van de tweede dag na de datum van publicatie in het Verordeningenblad Bedrijfsorganisatie waarin zij wordt geplaatst.
+
+##### Artikel 10
+
+Deze verordening wordt aangehaald als: Verordening PT bijzondere heffing vollegrondsgroenten 2007.
+
+Deze verordening en de toelichting worden gepubliceerd in het Verordeningenblad Bedrijfsorganisatie.
