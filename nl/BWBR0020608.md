@@ -197,9 +197,3 @@ Dit onderdeel is nog niet inwerking getreden
 2. [Artikel I, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0020608&artikel=I&z=2007-01-16&g=2007-01-16), treedt in werking met ingang van 1 januari 2008.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel IVa
-
-Waar in de [artikelen V tot en met VII](https://wetten.overheid.nl/jci1.3:c:BWBR0020608&artikel=V&z=2026-01-01&g=2026-01-01) wordt verwezen naar artikelen van de [Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755) of de [Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440), wordt verwezen naar deze artikelen zoals deze luidden onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van de [Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714).
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
