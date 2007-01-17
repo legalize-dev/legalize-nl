@@ -4,7 +4,7 @@ identifier: "BWBV0004942"
 country: "nl"
 rank: "verdrag"
 publication_date: "2007-01-17"
-last_updated: "1970-10-27"
+last_updated: "2007-01-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0004942"
 soort: "verdrag"
@@ -170,43 +170,27 @@ De in artikel 10 vermelde verstrekkingen moeten in een door verzekering gedekt g
 
 ##### Artikel 13
 
-Elk Lid, te wiens aanzien dit Deel van het Verdrag van kracht is, moet overeenkomstig de navolgende bepalingen van dit Deel aan de beschermde personen de uitkering van ziekengeld waarborgen.
+Vervallen
 
 ##### Artikel 14
 
-Het door verzekering gedekte geval moet omvatten ongeschiktheid tot werken, welke voortspruit uit een ziektetoestand en welke derving van inkomsten uit arbeid met zich brengt, zoals nader geregeld bij de nationale wetgeving.
+Vervallen
 
 ##### Artikel 15
 
-Tot de beschermde personen moeten worden gerekend:
-
-- a). voorgeschreven groepen van loontrekkenden, welke in totaal ten minste 50 procent uitmaken van de gezamenlijke loontrekkenden; of
-
-- b). voorgeschreven groepen van de werkende bevolking, welke in totaal ten minste 20 procent uitmaken van de gezamenlijke inwoners; of
-
-- c). alle inwoners, wier inkomsten tijdens het door verzekering gedekte geval grenzen, voorgeschreven overeenkomstig de bepalingen van artikel 67, niet overschrijden; of
-
-- d). wanneer een verklaring is afgelegd op grond van artikel 3, voorgeschreven groepen van loontrekkenden, welke in totaal ten minste 50 procent uitmaken van de gezamenlijke loontrekkenden in industriële ondernemingen, waarin ten minste 20 personen werkzaam zijn.
+Vervallen
 
 ##### Artikel 16
 
-1. Wanneer groepen van loontrekkenden of groepen van de werkende bevolking beschermd worden zal de uitkering bestaan in een periodieke betaling, berekend overeenkomstig de bepalingen hetzij van artikel 65, hetzij van artikel 66.
-
-2. Wanneer alle inwoners, wier inkomsten tijdens het door verzekering gedekte geval voorgeschreven grenzen niet overschrijden, beschermd zijn, zal de uitkering bestaan in een periodieke betaling, berekend overeenkomstig de bepalingen van artikel 67.
+Vervallen
 
 ##### Artikel 17
 
-De in artikel 16 vermelde uitkering moet in het door verzekering gedekte geval ten minste worden gewaarborgd aan de beschermde personen, die een wachttijd hebben vervuld, welke noodzakelijk kan worden geacht om misbruiken te voorkomen.
+Vervallen
 
 ##### Artikel 18
 
-1. De in artikel 16 vermelde uitkering moet gedurende de gehele duur van het door verzekering gedekte geval worden verleend, met dien verstande, dat de duur van de uitkering kan worden beperkt tot 26 weken per ziektegeval, met de mogelijkheid om de uitkering niet te verstrekken gedurende de eerste drie dagen van inkomstenderving.
-
-2. Wanneer een verklaring is afgelegd op grond van artikel 3 kan de duur van de uitkering worden beperkt:
-
-- a). hetzij tot een zodanig tijdvak, dat het totale aantal dagen, waarover in de loop van een jaar uitkering van ziekengeld wordt verstrekt, niet minder bedraagt dan tien maal het gemiddelde aantal beschermde personen gedurende dat jaar;
-
-- b). hetzij tot 13 weken per ziektegeval met de mogelijkheid de uitkering niet te verstrekken gedurende de eerste drie dagen van inkomstenderving.
+Vervallen
 
 ## DEEL IV. Uitkering bij werkloosheid
 
