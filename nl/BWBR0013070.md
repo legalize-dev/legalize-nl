@@ -4,7 +4,7 @@ identifier: "BWBR0013070"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2017-01-01"
-last_updated: "2002-01-01"
+last_updated: "2007-01-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013070"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ Besluit:
 
 ##### Artikel 2
 
-De Koninklijke Nederlandse Munt NV wordt voor een periode van drie jaar aangewezen als Nationaal Analysecentrum voor Munten, en tevens als de instantie, bedoeld in [artikel 8, tweede lid, van de Muntwet 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0013064&artikel=8).
+De Koninklijke Nederlandse Munt NV wordt aangewezen als Nationaal Analysecentrum voor Munten, en tevens als de instantie, bedoeld in [artikel 8, tweede lid, van de Muntwet 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0013064&artikel=8).
 
 ##### Artikel 3
 
