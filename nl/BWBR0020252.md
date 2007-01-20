@@ -4,7 +4,7 @@ identifier: "BWBR0020252"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2006-11-17"
+last_updated: "2007-01-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020252"
 soort: "AMvB"
@@ -53,21 +53,21 @@ Treedt in werking op het tijdstip waarop de Wijzigingswet Wet uitkeringen burger
 
 De toeslag, bedoeld in de [artikelen 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003664&artikel=20), en [21, eerste lid, van de Wet uitkeringen burger-oorlogsslachtoffers 1940–1945](https://wetten.overheid.nl/jci1.3:c:BWBR0003664&artikel=21) en de [artikelen 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&artikel=14), en [15, eerste lid, van de Wet uitkeringen vervolgingsslachtoffers 1940–1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&artikel=15), wordt vastgesteld op:
 
-- a. € 114 per maand voor de ongehuwde gerechtigde jonger dan 65 jaar;
+- a. € 114per 20 januari 2007 en terugwerkend tot 1 januari 2007: € 118,94 per maand voor de ongehuwde gerechtigde jonger dan 65 jaar;
 
-- b. € 114 per maand voor de gehuwde gerechtigde jonger dan 65 jaar, indien de premie van verzekering tegen ziektekosten van de echtgenoot niet te zijnen laste komt;
+- b. € 114per 20 januari 2007 en terugwerkend tot 1 januari 2007: € 118,94 per maand voor de gehuwde gerechtigde jonger dan 65 jaar, indien de premie van verzekering tegen ziektekosten van de echtgenoot niet te zijnen laste komt;
 
-- c. € 184 per maand voor de gehuwde gerechtigde jonger dan 65 jaar, indien de premie van verzekering tegen ziektekosten van de echtgenoot te zijnen laste komt;
+- c. € 184per 20 januari 2007 en terugwerkend tot 1 januari 2007: € 191,97 per maand voor de gehuwde gerechtigde jonger dan 65 jaar, indien de premie van verzekering tegen ziektekosten van de echtgenoot te zijnen laste komt;
 
-- d. € 118 per maand voor de ongehuwde gerechtigde van 65 jaar of ouder;
+- d. € 118per 20 januari 2007 en terugwerkend tot 1 januari 2007: € 123,11 per maand voor de ongehuwde gerechtigde van 65 jaar of ouder;
 
-- e. € 118 per maand voor de gehuwde gerechtigde van 65 jaar of ouder, indien de premie van verzekering tegen ziektekosten van de echtgenoot niet te zijnen laste komt;
+- e. € 118per 20 januari 2007 en terugwerkend tot 1 januari 2007: € 123,11 per maand voor de gehuwde gerechtigde van 65 jaar of ouder, indien de premie van verzekering tegen ziektekosten van de echtgenoot niet te zijnen laste komt;
 
-- f. € 236 per maand voor de gehuwde gerechtigde van 65 jaar of ouder, indien de premie van verzekering tegen ziektekosten van de echtgenoot te zijnen laste komt.
+- f. € 236per 20 januari 2007 en terugwerkend tot 1 januari 2007: € 246,22 per maand voor de gehuwde gerechtigde van 65 jaar of ouder, indien de premie van verzekering tegen ziektekosten van de echtgenoot te zijnen laste komt.
 
 ##### Artikel 2
 
-Het bedrag, bedoeld in de [artikelen 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003664&artikel=20), en [21, tweede lid, van de Wet uitkeringen burger-oorlogsslachtoffers 1940–1945](https://wetten.overheid.nl/jci1.3:c:BWBR0003664&artikel=21) en de [artikelen 14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&artikel=14), en [15, tweede lid, van de Wet uitkeringen vervolgingsslachtoffers 1940–1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&artikel=15), wordt vastgesteld op € 186,50 per verzekerde per maand.
+Het bedrag, bedoeld in de [artikelen 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003664&artikel=20), en [21, tweede lid, van de Wet uitkeringen burger-oorlogsslachtoffers 1940–1945](https://wetten.overheid.nl/jci1.3:c:BWBR0003664&artikel=21) en de [artikelen 14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&artikel=14), en [15, tweede lid, van de Wet uitkeringen vervolgingsslachtoffers 1940–1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&artikel=15), wordt vastgesteld op € 186,50per 20 januari 2007 en terugwerkend tot 1 januari 2007: € 194,58 per verzekerde per maand.
 
 ##### Artikel 3
 
