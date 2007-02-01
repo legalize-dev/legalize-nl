@@ -381,39 +381,3 @@ Deze wet treedt in werking met ingang van de eerste dag van de derde kalendermaa
 Deze wet wordt aangehaald als: Kaderwet zelfstandige bestuursorganen.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 21a
-
-1. Onze Minister voor Wonen en Rijksdienst kan, op verzoek van een zelfstandig bestuursorgaan dat geen onderdeel uitmaakt van de staat en in overeenstemming met Onze Ministers wie het aangaat, bepalen dat het zelfstandig bestuursorgaan gebruik maakt van een voorziening die in stand wordt gehouden door een ander bestuursorgaan van de centrale overheid en die wordt ingezet ten behoeve van de uitvoering van de taak van een of meer bestuursorganen van de centrale overheid. Onder voorziening wordt verstaan een samenhangende verzameling van processen op het terrein van bedrijfsvoering; deze processen, waaronder automatisering en bestuurlijke informatievoorziening, huisvesting en personeelsbeheer, bepalen niet inhoudelijk de uitkomsten van het primaire proces van de gebruikende organisatie.
-
-2. Indien een zelfstandig bestuursorgaan dat geen onderdeel uitmaakt van de staat taken strikt regelgebonden uitvoert in een groot aantal individuele gevallen kan Onze Minister voor Wonen en Rijksdienst, in overeenstemming met Onze Ministers wie het aangaat, zonder een daartoe strekkend verzoek van het zelfstandig bestuursorgaan bepalen dat het gebruik maakt van een voorziening als bedoeld in het eerste lid.
-
-3. Een besluit als bedoeld in het eerste of tweede lid wordt slechts genomen als daarmee naar het oordeel van de bij het besluit betrokken ministers de doelmatigheid en de doeltreffendheid van de uitvoering van de taak van het zelfstandig bestuursorgaan worden bevorderd.
-
-4. Bij regeling van Onze Minister voor Wonen en Rijksdienst, in overeenstemming met Onze Ministers wie het aangaat, kunnen regels worden gesteld omtrent de wijze waarop het zelfstandig bestuursorgaan van de voorziening gebruik maakt.
-
-5. Dit artikel is niet van toepassing op een zelfstandig bestuursorgaan als bedoeld in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&hoofdstuk=4&afdeling=3&artikel=38&z=2015-01-01&g=2015-01-01).
-
-##### Artikel 21b
-
-1. Een zelfstandig bestuursorgaan dat op grond van [artikel 21a](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&hoofdstuk=3&artikel=21a&z=2015-01-01&g=2015-01-01) gebruik maakt van een voorziening draagt bij in de kosten in verband met de instandhouding van de voorziening.
-
-2. De bijdrage komt ten laste van de rechtspersoon waartoe het zelfstandig bestuursorgaan behoort. De bijdrage komt ten goede aan de rechtspersoon waartoe het bestuursorgaan behoort dat de voorziening in stand houdt.
-
-3. Bij algemene maatregel van bestuur wordt de grondslag van de bijdrage, bedoeld in het eerste lid, bepaald.
-
-4. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld omtrent de vaststelling en de betaling van de bijdrage. Daarbij kan worden bepaald dat het in rekening te brengen bedrag op nul wordt vastgesteld, voor zover een voorziening is getroffen in de rijksbegroting die in de plaats treedt van de bijdrage van het zelfstandig bestuursorgaan.
-
-### Hoofdstuk 4. Bepalingen betreffende financieel toezicht
-
-### Afdeling 1. Begroting publiekrechtelijke zelfstandige bestuursorganen
-
-### Afdeling 2. Beheer en verantwoording bij publiekrechtelijke zelfstandige bestuursorganen, die geen onderdeel zijn van de Staat
-
-### Afdeling 3. Beheer en verantwoording bij privaatrechtelijke zelfstandige bestuursorganen
-
-### Hoofdstuk 5. Overige bepalingen
-
-### Hoofdstuk 6. Overgangs- en slotbepalingen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
