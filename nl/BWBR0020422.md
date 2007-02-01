@@ -313,11 +313,3 @@ De artikelen van dit besluit treden in werking op een bij koninklijk besluit te 
 Dit besluit wordt aangehaald als: Meeteenhedenbesluit 2006.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 20a
-
-Dit besluit, met uitzondering van de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0020422&paragraaf=2&artikel=9&z=2010-10-10&g=2010-10-10), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0020422&paragraaf=2&artikel=10&z=2010-10-10&g=2010-10-10) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0020422&paragraaf=2&artikel=11&z=2010-10-10&g=2010-10-10) alsmede [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0020422&paragraaf=3&z=2010-10-10&g=2010-10-10), is mede van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba en berust voor de toepassing in die openbare lichamen op [artikel 2 van de IJkwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028247&artikel=2).
-
-#### § 4. Slotbepalingen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
