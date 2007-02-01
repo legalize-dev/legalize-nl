@@ -4,7 +4,7 @@ identifier: "BWBR0017613"
 country: "nl"
 rank: "rijkswet"
 publication_date: "2022-05-01"
-last_updated: "2006-02-01"
+last_updated: "2007-02-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017613"
 soort: "rijkswet"
@@ -52,11 +52,11 @@ Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen 
 
 - b. Onze Minister van Justitie: Onze Minister van Justitie van Nederland, tenzij anders wordt bepaald;
 
-- c. de raad: de Onderzoeksraad voor veiligheid, genoemd in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=1&artikel=2&z=2006-02-01&g=2006-02-01);
+- c. de raad: de Onderzoeksraad voor veiligheid, genoemd in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=1&artikel=2&z=2007-02-01&g=2007-02-01);
 
-- d. de leden van de raad: zowel de leden van de raad, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=2&artikel=6&z=2006-02-01&g=2006-02-01), als de buitengewone leden van de raad, bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=2&artikel=6&z=2006-02-01&g=2006-02-01);
+- d. de leden van de raad: zowel de leden van de raad, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=2&artikel=6&z=2007-02-01&g=2007-02-01), als de buitengewone leden van de raad, bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=2&artikel=6&z=2007-02-01&g=2007-02-01);
 
-- e. het bureau: het bureau, bedoeld in [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=3&artikel=11&z=2006-02-01&g=2006-02-01);
+- e. het bureau: het bureau, bedoeld in [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=3&artikel=11&z=2007-02-01&g=2007-02-01);
 
 - f. voorval: gebeurtenis die de dood of letsel van een persoon dan wel schade aan een zaak of het milieu veroorzaakt, alsmede een gebeurtenis die gevaar voor een dergelijk gevolg in het leven heeft geroepen;
 
@@ -170,13 +170,13 @@ De raad heeft, met het uitsluitende doel toekomstige voorvallen te voorkomen of 
 
 3. De raad doet aan zijn beraadslagingen ten aanzien van individuele of categorieën voorvallen daarvoor in aanmerking komende buitengewone leden deelnemen.
 
-4. Aan de beraadslagingen van de raad nemen buitengewone leden niet deel voor de toepassing van de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=2&artikel=7&z=2006-02-01&g=2006-02-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=4&artikel=16&z=2006-02-01&g=2006-02-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=4&artikel=17&z=2006-02-01&g=2006-02-01), [20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=5&artikel=20&z=2006-02-01&g=2006-02-01), [23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=5&artikel=23&z=2006-02-01&g=2006-02-01), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=5&artikel=25&z=2006-02-01&g=2006-02-01), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=5&artikel=26&z=2006-02-01&g=2006-02-01), [65](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=5&paragraaf=2&artikel=65&z=2006-02-01&g=2006-02-01) en [71](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=5&paragraaf=6&artikel=71&z=2006-02-01&g=2006-02-01).
+4. Aan de beraadslagingen van de raad nemen buitengewone leden niet deel voor de toepassing van de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=2&artikel=7&z=2007-02-01&g=2007-02-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=4&artikel=16&z=2007-02-01&g=2007-02-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=4&artikel=17&z=2007-02-01&g=2007-02-01), [20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=5&artikel=20&z=2007-02-01&g=2007-02-01), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=5&artikel=25&z=2007-02-01&g=2007-02-01), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=5&artikel=26&z=2007-02-01&g=2007-02-01), [65](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=5&paragraaf=2&artikel=65&z=2007-02-01&g=2007-02-01) en [71](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=5&paragraaf=6&artikel=71&z=2007-02-01&g=2007-02-01).
 
 ##### Artikel 7
 
-1. De leden van de raad, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=2&artikel=6&z=2006-02-01&g=2006-02-01), worden bij koninklijk besluit benoemd, geschorst en ontslagen, de raad gehoord.
+1. In afwijking van [artikel 12, eerste lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=12) worden de leden van de raad, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=2&artikel=6&z=2007-02-01&g=2007-02-01), bij koninklijk besluit benoemd, geschorst en ontslagen, de raad gehoord.
 
-2. De leden van de raad, bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=2&artikel=6&z=2006-02-01&g=2006-02-01),worden bij koninklijk besluit op voordracht van Onze Minister, gedaan in overeenstemming met Onze Minister in Nederland wie het mede aangaat, benoemd, geschorst en ontslagen, de raad gehoord.
+2. In afwijking van [artikel 12, eerste lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=12) worden de leden van de raad, bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=2&artikel=6&z=2007-02-01&g=2007-02-01), bij koninklijk besluit op voordracht van Onze Minister, gedaan in overeenstemming met Onze Minister in Nederland wie het mede aangaat, benoemd, geschorst en ontslagen, de raad gehoord.
 
 3. De keuze van de leden van de raad geschiedt op zodanige wijze dat alle relevante deskundigheid in de raad aanwezig is. In de raad is in ieder geval deskundigheid aanwezig op het terrein van defensie en transport. Bij algemene maatregel van rijksbestuur kunnen terzake nadere regels worden gesteld.
 
@@ -192,25 +192,21 @@ De raad heeft, met het uitsluitende doel toekomstige voorvallen te voorkomen of 
 
 ##### Artikel 8
 
-1. Een van de leden van de raad, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=2&artikel=6&z=2006-02-01&g=2006-02-01), wordt bij koninklijk besluit benoemd tot voorzitter van de raad.
+1. Een van de leden van de raad, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=2&artikel=6&z=2007-02-01&g=2007-02-01), wordt bij koninklijk besluit benoemd tot voorzitter van de raad.
 
-2. Een van de leden van de raad, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=2&artikel=6&z=2006-02-01&g=2006-02-01), wordt bij koninklijk besluit benoemd tot plaatsvervangend voorzitter van de raad.
+2. Een van de leden van de raad, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=2&artikel=6&z=2007-02-01&g=2007-02-01), wordt bij koninklijk besluit benoemd tot plaatsvervangend voorzitter van de raad.
 
 ##### Artikel 9
 
-Bij of krachtens algemene maatregel van rijksbestuur worden regels gesteld omtrent:
-
-- a. de wijze van beëdiging van de leden van de raad;
-
-- b. de vergoeding, waaronder de vergoeding van reis- en verblijfkosten, van de leden van de raad.
+Bij of krachtens algemene maatregel van rijksbestuur worden regels gesteld omtrent de wijze van beëdiging van de leden van de raad.
 
 ##### Artikel 10
 
 1. De raad kan commissies instellen.
 
-2. Een commissie bestaat uit een of meer leden van de raad als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=2&artikel=6&z=2006-02-01&g=2006-02-01), en een of meer leden als bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=2&artikel=6&z=2006-02-01&g=2006-02-01).
+2. Een commissie bestaat uit een of meer leden van de raad als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=2&artikel=6&z=2007-02-01&g=2007-02-01), en een of meer leden als bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=2&artikel=6&z=2007-02-01&g=2007-02-01).
 
-3. De raad wijst een van de leden van de raad, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=2&artikel=6&z=2006-02-01&g=2006-02-01), aan als voorzitter van de commissie.
+3. De raad wijst een van de leden van de raad, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=2&artikel=6&z=2007-02-01&g=2007-02-01), aan als voorzitter van de commissie.
 
 4. De raad kan een commissie de bevoegdheid verlenen namens hem beslissingen te nemen.
 
@@ -226,7 +222,7 @@ Bij of krachtens algemene maatregel van rijksbestuur worden regels gesteld omtre
 
 4. De keuze van de medewerkers van het bureau geschiedt op zodanige wijze dat alle relevante deskundigheid in het bureau aanwezig is. De functie van medewerker van het bureau, waaronder begrepen die van algemeen secretaris, wordt aangewezen als een vertrouwensfunctie als bedoeld in [artikel 1, eerste lid, onderdeel a, van de Wet veiligheidsonderzoeken](https://wetten.overheid.nl/jci1.3:c:BWBR0008277&artikel=1).
 
-5. Tot de medewerkers van het bureau behoren door Onze Minister van Defensie in overeenstemming met de voorzitter van de raad aldaar met behoud van hun rechtspositie geplaatste militairen, die worden ingezet bij het onderzoek van voorvallen als bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=1&artikel=4&z=2006-02-01&g=2006-02-01). Zij kunnen door de raad ook voor andere onderzoekstaken worden ingezet.
+5. Tot de medewerkers van het bureau behoren door Onze Minister van Defensie in overeenstemming met de voorzitter van de raad aldaar met behoud van hun rechtspositie geplaatste militairen, die worden ingezet bij het onderzoek van voorvallen als bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=1&artikel=4&z=2007-02-01&g=2007-02-01). Zij kunnen door de raad ook voor andere onderzoekstaken worden ingezet.
 
 ##### Artikel 12
 
@@ -234,7 +230,7 @@ De algemeen secretaris noch een van de medewerkers van het bureau is lid van de 
 
 ##### Artikel 13
 
-1. Op de rechtspositie van de secretaris en de medewerkers van het bureau, genoemd in [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=3&artikel=11&z=2006-02-01&g=2006-02-01), zijn de regels die gelden voor ambtenaren die zijn aangesteld bij ministeries van toepassing, met dien verstande dat waar in deze regels een bevoegdheid is toegekend aan een andere minister dan Onze Minister, deze bevoegdheid wordt uitgeoefend door de raad.
+1. Op de rechtspositie van de secretaris en de medewerkers van het bureau, genoemd in [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=3&artikel=11&z=2007-02-01&g=2007-02-01), zijn de regels die gelden voor ambtenaren die zijn aangesteld bij ministeries van toepassing, met dien verstande dat waar in deze regels een bevoegdheid is toegekend aan een andere minister dan Onze Minister, deze bevoegdheid wordt uitgeoefend door de raad.
 
 2. Bij algemene maatregel van bestuur kan worden afgeweken van de in het eerste lid bedoelde regels.
 
@@ -242,7 +238,7 @@ De algemeen secretaris noch een van de medewerkers van het bureau is lid van de 
 
 1. Onze Minister wie het aangaat, kan op verzoek van de raad een of meer onder hem ressorterende deskundigen aanwijzen, die met inachtneming van de door of namens de raad gegeven aanwijzingen de raad tijdens het verrichten van een nader aangeduid onderzoek bijstaan.
 
-2. Voor het onderzoek van een voorval als bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=1&artikel=4&z=2006-02-01&g=2006-02-01), wordt slechts bijstand verleend door deskundigen, aangewezen op grond van het eerste lid, aan wie op grond van de [Wet veiligheidsonderzoeken](https://wetten.overheid.nl/jci1.3:c:BWBR0008277) een verklaring is afgegeven dat uit het oogpunt van de veiligheid van de staat of andere gewichtige belangen van de staat geen bezwaar bestaat tegen vervulling van een vertrouwensfunctie, behoudens in gevallen waarin door Onze Minister van Defensie anders wordt beslist.
+2. Voor het onderzoek van een voorval als bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=1&artikel=4&z=2007-02-01&g=2007-02-01), wordt slechts bijstand verleend door deskundigen, aangewezen op grond van het eerste lid, aan wie op grond van de [Wet veiligheidsonderzoeken](https://wetten.overheid.nl/jci1.3:c:BWBR0008277) een verklaring is afgegeven dat uit het oogpunt van de veiligheid van de staat of andere gewichtige belangen van de staat geen bezwaar bestaat tegen vervulling van een vertrouwensfunctie, behoudens in gevallen waarin door Onze Minister van Defensie anders wordt beslist.
 
 3. Onze Minister onderscheidenlijk Onze Minister van Justitie kan ten aanzien van een ander voorval dan in het tweede lid bedoeld bepalen dat voor het onderzoek daarvan slechts bijstand wordt verleend door deskundigen, aangewezen op grond van het eerste lid, aan wie een verklaring als bedoeld in het tweede lid is afgegeven.
 
@@ -264,11 +260,9 @@ De algemeen secretaris noch een van de medewerkers van het bureau is lid van de 
 
 - c. een voorval betreft waarbij hij op enigerlei wijze betrokken is geweest.
 
-3. De leden van de raad maken andere functies dan hun lidmaatschap van de raad openbaar door het ter inzage leggen van een opgave van deze andere functies bij de raad en bij Onze Minister.
-
 ##### Artikel 16
 
-1. Een medewerker van het bureau alsmede een op grond van [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=3&artikel=14&z=2006-02-01&g=2006-02-01), aangewezen deskundige meldt onverwijld aan de voorzitter van de raad dat het onderzoek:
+1. Een medewerker van het bureau alsmede een op grond van [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=3&artikel=14&z=2007-02-01&g=2007-02-01), aangewezen deskundige meldt onverwijld aan de voorzitter van de raad dat het onderzoek:
 
 - a. hemzelf of een van zijn bloed- of aanverwanten tot en met de vierde graad aangaat;
 
@@ -280,13 +274,11 @@ De raad beslist of hij zich om deze reden van deelneming aan het onderzoek moet 
 
 2. Voor de toepassing van het eerste lid wordt de algemeen secretaris aangemerkt als medewerker van het bureau.
 
-3. Indien de raad op grond van het eerste lid daarom verzoekt, vervangt Onze Minister wie het aangaat, in het desbetreffende onderzoek een of meer deskundigen, aangewezen op grond van [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=3&artikel=14&z=2006-02-01&g=2006-02-01).
+3. Indien de raad op grond van het eerste lid daarom verzoekt, vervangt Onze Minister wie het aangaat, in het desbetreffende onderzoek een of meer deskundigen, aangewezen op grond van [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=3&artikel=14&z=2007-02-01&g=2007-02-01).
 
 ##### Artikel 17
 
-1. De raad stelt, binnen een half jaar na zijn instelling, onder goedkeuring van Onze Minister, een bestuursreglement vast.
-
-2. De goedkeuring kan worden onthouden op de grond dat het bestuursreglement naar het oordeel van Onze Minister een goede taakuitoefening door de raad kan belemmeren.
+De raad stelt, binnen een half jaar na zijn instelling, een bestuursreglement vast.
 
 #### § 5. Beheer
 
@@ -304,41 +296,13 @@ De rechtspersoon Onderzoeksraad voor veiligheid wordt in en buiten rechte verteg
 
 1. De raad stelt vóór 1 november een begroting vast voor het volgende boekjaar alsmede een financieel meerjarenbeleidsplan.
 
-2. De begroting omvat een raming van de baten en lasten, een raming van de voorgenomen investeringsuitgaven en een raming van de inkomsten en uitgaven.
-
-3. De begrotingsposten worden ieder afzonderlijk van een toelichting voorzien.
-
-4. Uit de toelichting blijkt steeds welke begrotingsposten betrekking hebben op de uitoefening van de aan de raad opgedragen taken dan wel op andere activiteiten.
-
-5. Tenzij de activiteiten waarop de begroting betrekking heeft, nog niet eerder werden verricht, omvat de begroting een vergelijking met de begroting van het lopende jaar en de laatst goedgekeurde jaarrekening.
-
-6. Het besluit tot vaststelling van de begroting en het financieel meerjarenbeleidsplan behoeven de goedkeuring van Onze Minister.
-
-7. De goedkeuring kan worden onthouden wegens strijd met het recht of het algemeen belang.
-
-##### Artikel 21
-
-Indien gedurende het jaar aanmerkelijke verschillen ontstaan of dreigen te ontstaan tussen de werkelijke en de begrote baten en lasten dan wel inkomsten en uitgaven, doet de raad daarvan onverwijld mededeling aan Onze Minister onder vermelding van de oorzaak van de verschillen.
-
-##### Artikel 22
-
-1. De raad vormt een egalisatiereserve.
-
-2. Bij ministeriële regeling wordt de maximale omvang van de egalisatiereserve vastgesteld.
-
-3. Het verschil tussen de gerealiseerde baten van de raad en de gerealiseerde lasten van de activiteiten komt ten gunste onderscheidenlijk ten laste van de egalisatiereserve.
-
-4. De van de egalisatiereserve genoten rente wordt aan de egalisatiereserve toegevoegd.
-
-##### Artikel 23
-
-1. De raad dient jaarlijks voor 1 juli bij Onze Minister een jaarrekening in.
-
-2. Het besluit tot vaststelling van de jaarrekening behoeft de goedkeuring van Onze Minister.
+2. De begroting en het financieel meerjarenbeleidsplan behoeven de goedkeuring van Onze Minister.
 
 3. De goedkeuring kan worden onthouden wegens strijd met het recht of het algemeen belang.
 
-##### Artikel 24
+4. Bij ministeriële regeling wordt de maximale omvang van de egalisatiereserve vastgesteld.
+
+##### Artikel 21
 
 1. De jaarrekening, waarin rekening en verantwoording wordt afgelegd van het financieel beheer en van de geleverde prestaties over het verstreken boekjaar, wordt ingericht zoveel mogelijk met overeenkomstige toepassing van het gestelde in [titel 9 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9).
 
@@ -350,6 +314,18 @@ Indien gedurende het jaar aanmerkelijke verschillen ontstaan of dreigen te ontst
 
 5. De raad stelt de jaarrekening en de verklaring, bedoeld in het tweede lid, algemeen verkrijgbaar.
 
+##### Artikel 22
+
+Vervallen
+
+##### Artikel 23
+
+Vervallen
+
+##### Artikel 24
+
+Vervallen
+
 ##### Artikel 25
 
 1. De raad stelt jaarlijks vóór 1 juli een verslag op van de werkzaamheden, het in het afgelopen kalenderjaar gevoerde beleid in het algemeen en de doelmatigheid en doeltreffendheid van zijn werkzaamheden en werkwijze in het bijzonder.
@@ -360,7 +336,7 @@ Indien gedurende het jaar aanmerkelijke verschillen ontstaan of dreigen te ontst
 
 ##### Artikel 26
 
-1. De raad verstrekt desgevraagd Onze Minister alle voor de uitoefening van diens taak benodigde inlichtingen. Onze Minister kan inzage vorderen van alle zakelijke gegevens en bescheiden, voor zover dat voor de vervulling van zijn taak redelijkerwijs nodig is. Het bepaalde in de vorige twee zinnen heeft geen betrekking op inlichtingen, zakelijke gegevens en bescheiden met betrekking tot de inhoud en aanpak van concrete onderzoeken van de raad.
+1. In afwijking van [artikel 20, eerste lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=20), kan de raad weigeren Onze Minister inlichtingen te verstrekken of inzage te geven in zakelijke gegevens en bescheiden, met betrekking tot de inhoud en de aanpak van lopende onderzoeken van de raad.
 
 2. Onze Minister verstrekt de raad de inlichtingen die deze voor zijn taakuitoefening in het algemeen nodig heeft.
 
@@ -406,7 +382,7 @@ Bij ministeriële regeling worden regels gesteld over het melden door Nederland 
 
 ##### Artikel 32
 
-Het ten aanzien van de onderzoekers gestelde bij of krachtens de [artikelen 33 tot en met 40](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=5&paragraaf=1&artikel=33&z=2006-02-01&g=2006-02-01) en [artikel 69, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=5&paragraaf=5&artikel=69&z=2006-02-01&g=2006-02-01), geldt voor de leden van de raad, de medewerkers van het bureau, voor zover als onderzoeker bij hun aanstelling aangewezen, en op grond van [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=3&artikel=14&z=2006-02-01&g=2006-02-01), aangewezen deskundigen.
+Het ten aanzien van de onderzoekers gestelde bij of krachtens de [artikelen 33 tot en met 40](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=5&paragraaf=1&artikel=33&z=2007-02-01&g=2007-02-01) en [artikel 69, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=5&paragraaf=5&artikel=69&z=2007-02-01&g=2007-02-01), geldt voor de leden van de raad, de medewerkers van het bureau, voor zover als onderzoeker bij hun aanstelling aangewezen, en op grond van [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=3&artikel=14&z=2007-02-01&g=2007-02-01), aangewezen deskundigen.
 
 ##### Artikel 33
 
@@ -460,7 +436,7 @@ Een onderzoeker is bevoegd inlichtingen te vorderen.
 
 1. Een ieder is verplicht aan een onderzoeker binnen de door hem gestelde redelijke termijn alle medewerking te verlenen die deze redelijkerwijs kan vorderen bij de uitoefening van zijn bevoegdheden.
 
-2. Onze Minister, Onze Minister van Defensie en Onze Minister van Justitie kunnen bij het verlenen van medewerking door henzelf of door onder hen ressorterende personen aangeven dat daarbij aangeduide informatie vertrouwelijk aan de raad wordt verstrekt. Het vertrouwelijk verstrekken van informatie aan de raad geschiedt met overeenkomstige toepassing van [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=5&paragraaf=2&artikel=57&z=2006-02-01&g=2006-02-01). De vertrouwelijk verstrekte informatie wordt niet openbaar gemaakt.
+2. Onze Minister, Onze Minister van Defensie en Onze Minister van Justitie kunnen bij het verlenen van medewerking door henzelf of door onder hen ressorterende personen aangeven dat daarbij aangeduide informatie vertrouwelijk aan de raad wordt verstrekt. Het vertrouwelijk verstrekken van informatie aan de raad geschiedt met overeenkomstige toepassing van [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=5&paragraaf=2&artikel=57&z=2007-02-01&g=2007-02-01). De vertrouwelijk verstrekte informatie wordt niet openbaar gemaakt.
 
 3. Zij die uit hoofde van ambt, beroep of wettelijk voorschrift verplicht zijn tot geheimhouding, kunnen het verlenen van medewerking weigeren, voorzover dit uit hun geheimhoudingsplicht voortvloeit. Degenen voor wie een wettelijk voorschrift geldt dat verplicht tot geheimhouding behoudens voorzover enig ander wettelijk voorschrift tot bekendmaking of medewerking verplicht, kunnen eveneens hun medewerking weigeren indien daarvoor gewichtige redenen zijn.
 
@@ -468,7 +444,7 @@ Een onderzoeker is bevoegd inlichtingen te vorderen.
 
 ##### Artikel 41
 
-1. De raad beslist of een onderzoek wordt ingesteld, onverminderd het bepaalde op grond van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=1&artikel=5&z=2006-02-01&g=2006-02-01).
+1. De raad beslist of een onderzoek wordt ingesteld, onverminderd het bepaalde op grond van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=1&artikel=5&z=2007-02-01&g=2007-02-01).
 
 2. De voorzitter van de raad kan beslissen dat, vooruitlopend op de beslissing van de raad, bedoeld in het eerste lid, reeds voorlopig een onderzoek wordt ingesteld. De voorzitter van de raad kan aan een ander lid van de raad of de algemeen secretaris de bevoegdheid verlenen om namens hem deze beslissing te nemen.
 
@@ -490,7 +466,7 @@ De raad onthoudt zich van onderzoek indien Onze Minister dit bepaalt om overwege
 
 1. Onze Minister wie het aangaat in Nederland, de commissaris van de Koning of de burgemeester kan een schriftelijk verzoek tot het instellen van een onderzoek indienen bij de raad.
 
-2. De raad beslist op het verzoek zo spoedig mogelijk doch uiterlijk binnen vier weken na ontvangst en stelt de indiener van het verzoek van zijn beslissing in kennis. De raad kan deze termijn eenmaal met vier weken verlengen. Van de verlenging brengt de raad de indiener van het verzoek op de hoogte. [Artikel 41, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=5&paragraaf=2&artikel=41&z=2006-02-01&g=2006-02-01), is niet van toepassing.
+2. De raad beslist op het verzoek zo spoedig mogelijk doch uiterlijk binnen vier weken na ontvangst en stelt de indiener van het verzoek van zijn beslissing in kennis. De raad kan deze termijn eenmaal met vier weken verlengen. Van de verlenging brengt de raad de indiener van het verzoek op de hoogte. [Artikel 41, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=5&paragraaf=2&artikel=41&z=2007-02-01&g=2007-02-01), is niet van toepassing.
 
 3. Indien de raad negatief beslist op een verzoek wordt deze beslissing met redenen omkleed.
 
@@ -540,9 +516,9 @@ De raad is bevoegd ten behoeve van het onderzoek naar een voorval met een luchtv
 
 - a. de natuurlijke personen, rechtspersonen of bestuursorganen waarvan het handelen of nalaten blijkens het voorlopig oordeel van de raad heeft bijgedragen tot het ontstaan van het voorval, of de nabestaanden van een natuurlijke persoon als hiervoor bedoeld;
 
-- b. de in [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=5&paragraaf=2&artikel=45&z=2006-02-01&g=2006-02-01) bedoelde vertegenwoordigers die aan het onderzoek deelnemen;
+- b. de in [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=5&paragraaf=2&artikel=45&z=2007-02-01&g=2007-02-01) bedoelde vertegenwoordigers die aan het onderzoek deelnemen;
 
-- c. Onze Minister van Defensie, indien het een onderzoek betreft van een voorval als bedoeld in [artikel 4, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=1&artikel=4&z=2006-02-01&g=2006-02-01);
+- c. Onze Minister van Defensie, indien het een onderzoek betreft van een voorval als bedoeld in [artikel 4, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=1&artikel=4&z=2007-02-01&g=2007-02-01);
 
 - d. Onze Minister onderscheidenlijk Onze Minister van Justitie, na een daartoe strekkend verzoek.
 
@@ -550,7 +526,7 @@ De raad is bevoegd ten behoeve van het onderzoek naar een voorval met een luchtv
 
 ##### Artikel 49
 
-Indien de raad beslist tot het houden van een zitting, kan hij bepalen dat degenen die zijn bedoeld in [artikel 48, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=5&paragraaf=2&artikel=48&z=2006-02-01&g=2006-02-01), op het voorval betrekking hebbende stukken kunnen inzien indien dat naar zijn oordeel uit een oogpunt van waarheidsvinding noodzakelijk is. Degenen die stukken inzien zijn, anders dan in contacten ter voorbereiding van de behandeling ter zitting, tot geheimhouding verplicht.
+Indien de raad beslist tot het houden van een zitting, kan hij bepalen dat degenen die zijn bedoeld in [artikel 48, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=5&paragraaf=2&artikel=48&z=2007-02-01&g=2007-02-01), op het voorval betrekking hebbende stukken kunnen inzien indien dat naar zijn oordeel uit een oogpunt van waarheidsvinding noodzakelijk is. Degenen die stukken inzien zijn, anders dan in contacten ter voorbereiding van de behandeling ter zitting, tot geheimhouding verplicht.
 
 ##### Artikel 50
 
@@ -572,7 +548,7 @@ Indien de raad beslist tot het houden van een zitting, kan hij bepalen dat degen
 
 5. De voorzitter van de raad kan de officier van justitie bij de arrondissementsrechtbank binnen welker rechtsgebied de raad zitting houdt, verzoeken de getuige of deskundige bij niet verschijnen ter zitting van de raad te dagvaarden en daarbij te voegen een bevel tot medebrenging.
 
-6. De natuurlijke personen, bedoeld in [artikel 48, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=5&paragraaf=2&artikel=48&z=2006-02-01&g=2006-02-01), alsmede vertegenwoordigers van de daar bedoelde rechtspersonen of bestuursorganen, hebben het recht op hun verzoek als getuigen ter zitting te worden gehoord indien zij niet door de raad zijn opgeroepen.
+6. De natuurlijke personen, bedoeld in [artikel 48, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=5&paragraaf=2&artikel=48&z=2007-02-01&g=2007-02-01), alsmede vertegenwoordigers van de daar bedoelde rechtspersonen of bestuursorganen, hebben het recht op hun verzoek als getuigen ter zitting te worden gehoord indien zij niet door de raad zijn opgeroepen.
 
 ##### Artikel 52
 
@@ -604,7 +580,7 @@ Bij of krachtens algemene maatregel van rijksbestuur worden nadere regels gestel
 
 - c. indien daartoe aanleiding bestaat, de constatering van structurele veiligheidstekorten en daaraan verbonden aanbevelingen.
 
-3. In het rapport worden gegevens, ontleend aan documenten en andere gegevensdragers als bedoeld in [artikel 69, eerste lid, onderdeel a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=5&paragraaf=5&artikel=69&z=2006-02-01&g=2006-02-01), slechts opgenomen voor zover zij wezenlijk zijn voor de analyse van de toedracht van het voorval of de onderbouwing van de conclusies. Het rapport vermeldt niet de naam, het adres of identificatiegegevens van gelijksoortige aard ten aanzien van de personen die betrokken zijn bij een ongeval of incident.
+3. In het rapport worden gegevens, ontleend aan documenten en andere gegevensdragers als bedoeld in [artikel 69, eerste lid, onderdeel a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=5&paragraaf=5&artikel=69&z=2007-02-01&g=2007-02-01), slechts opgenomen voor zover zij wezenlijk zijn voor de analyse van de toedracht van het voorval of de onderbouwing van de conclusies. Het rapport vermeldt niet de naam, het adres of identificatiegegevens van gelijksoortige aard ten aanzien van de personen die betrokken zijn bij een ongeval of incident.
 
 4. De raad kan een rapport in twee gedeelten uitbrengen indien hij een onderzoek instelt naar zowel een voorval als het omgaan met de gevolgen daarvan. Indien het rapport in twee gedeelten wordt uitgebracht, gelden de voorschriften met betrekking tot het rapport voor elk van beide gedeelten.
 
@@ -612,7 +588,7 @@ Bij of krachtens algemene maatregel van rijksbestuur worden nadere regels gestel
 
 ##### Artikel 56
 
-1. De raad zendt het rapport in concept aan degenen die zijn bedoeld in [artikel 48, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=5&paragraaf=2&artikel=48&z=2006-02-01&g=2006-02-01). Deze kunnen schriftelijk commentaar leveren gedurende een termijn van vier weken, die aanvangt met ingang van de dag na die waarop hetconcept van het rapport is verzonden. Zij zijn tot geheimhouding van hetconcept van het rapport verplicht. De raad kan het gedeelte van het rapport, bedoeld in [artikel 55, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=5&paragraaf=2&artikel=55&z=2006-02-01&g=2006-02-01), buiten de toezending van het concept laten.
+1. De raad zendt het rapport in concept aan degenen die zijn bedoeld in [artikel 48, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=5&paragraaf=2&artikel=48&z=2007-02-01&g=2007-02-01). Deze kunnen schriftelijk commentaar leveren gedurende een termijn van vier weken, die aanvangt met ingang van de dag na die waarop hetconcept van het rapport is verzonden. Zij zijn tot geheimhouding van hetconcept van het rapport verplicht. De raad kan het gedeelte van het rapport, bedoeld in [artikel 55, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=5&paragraaf=2&artikel=55&z=2007-02-01&g=2007-02-01), buiten de toezending van het concept laten.
 
 2. Bij of krachtens algemene maatregel van rijksbestuur worden regels gesteld over het toezenden van het rapport in concept aan andere staten onderscheidenlijk de Nederlandse Antillen en Aruba voor commentaar en over de voor het geven van commentaar te stellen termijn.
 
@@ -672,7 +648,7 @@ Bij of krachtens algemene maatregel van rijksbestuur worden nadere regels gestel
 
 1. De raad maakt het rapport openbaar.
 
-2. De raad zendt het rapport in elk geval aan Onze Minister wie het aangaat, en de natuurlijke persoon, de betrokken onderneming, de betrokken nationale luchtvaartautoriteit, de rechtspersoon of het bestuursorgaan waartoe een aanbeveling zich richt. De raad zendt het rapport in elk geval tevens in afschrift aan Onze Minister, een betrokken bestuursorgaan en degenen die zijn bedoeld in [artikel 48, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=5&paragraaf=2&artikel=48&z=2006-02-01&g=2006-02-01).
+2. De raad zendt het rapport in elk geval aan Onze Minister wie het aangaat, en de natuurlijke persoon, de betrokken onderneming, de betrokken nationale luchtvaartautoriteit, de rechtspersoon of het bestuursorgaan waartoe een aanbeveling zich richt. De raad zendt het rapport in elk geval tevens in afschrift aan Onze Minister, een betrokken bestuursorgaan en degenen die zijn bedoeld in [artikel 48, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=5&paragraaf=2&artikel=48&z=2007-02-01&g=2007-02-01).
 
 3. Bij of krachtens algemene maatregel van bestuur worden regels gesteld over het in daarbij aangewezen gevallen toezenden van het rapport aan een buitenlandse staat, de Commissie van de Europese Gemeenschappen dan wel een internationale organisatie.
 
@@ -682,7 +658,7 @@ Bij of krachtens algemene maatregel van rijksbestuur worden nadere regels gestel
 
 ##### Artikel 60
 
-1. Indien als gevolg van toepassing van [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=5&paragraaf=2&artikel=57&z=2006-02-01&g=2006-02-01), bepaalde informatie niet in het rapport kan worden opgenomen die naar het oordeel van de raad wezenlijk is voor de analyse van de toedracht van het voorval of de onderbouwing van de conclusies, kan de raad beslissen de informatie en de daarop gebaseerde conclusies en aanbevelingen te zenden aan de natuurlijke persoon, de rechtspersoon of het bestuursorgaan waartoe de aanbeveling zich richt en bij wie respectievelijk waarbij de informatie reeds bekend is.
+1. Indien als gevolg van toepassing van [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=5&paragraaf=2&artikel=57&z=2007-02-01&g=2007-02-01), bepaalde informatie niet in het rapport kan worden opgenomen die naar het oordeel van de raad wezenlijk is voor de analyse van de toedracht van het voorval of de onderbouwing van de conclusies, kan de raad beslissen de informatie en de daarop gebaseerde conclusies en aanbevelingen te zenden aan de natuurlijke persoon, de rechtspersoon of het bestuursorgaan waartoe de aanbeveling zich richt en bij wie respectievelijk waarbij de informatie reeds bekend is.
 
 2. In het geval, bedoeld in het eerste lid, kan de raad afzien van het uitbrengen van een openbaar rapport.
 
@@ -694,7 +670,7 @@ Een conclusie of aanbeveling behelst niet een vermoeden van schuld aan of aanspr
 
 ##### Artikel 62
 
-1. De raad kan beslissen het onderzoek tussentijds te beëindigen, indien het onderzoek naar zijn oordeel geen zinvolle aanbevelingen zal opleveren, onverminderd het bepaalde op grond van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=1&artikel=5&z=2006-02-01&g=2006-02-01).
+1. De raad kan beslissen het onderzoek tussentijds te beëindigen, indien het onderzoek naar zijn oordeel geen zinvolle aanbevelingen zal opleveren, onverminderd het bepaalde op grond van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=1&artikel=5&z=2007-02-01&g=2007-02-01).
 
 2. Indien de raad toepassing geeft aan het eerste lid stelt hij Onze Minister wie het aangaat, alsmede in voorkomende gevallen het bestuur van een provincie of gemeente daarvan in kennis.
 
@@ -718,7 +694,7 @@ De raad stelt met betrekking tot de door hem te hanteren onderzoeksmethoden een 
 
 Indien de politie in Nederland, de Nederlandse Antillen of Aruba een onderzoek instelt naar de identiteit van de slachtoffers van een voorval, worden de resultaten van dit onderzoek desgevraagd aan de raad ter beschikking gesteld.
 
-#### § 4. Verhouding tot onderzoek met oog op opleggen van sancties
+#### § 3. Identificatie
 
 ##### Artikel 67
 
@@ -756,7 +732,7 @@ Bij of krachtens algemene maatregel van rijksbestuur of algemene maatregel van b
 
 - f. door de raad opgestelde documenten.
 
-2. Ten behoeve van een strafrechtelijk of tuchtrechtelijk onderzoek of een procedure tot oplegging van een disciplinaire maatregel, een bestuurlijke sanctie of een bestuurlijke maatregel kunnen gegevensdragers als bedoeld in het eerste lid, onderdelen a, b, c, d en f, met uitzondering van het in [artikel 55, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=5&paragraaf=2&artikel=55&z=2006-02-01&g=2006-02-01), bedoelde rapport, niet ter inzage worden gevorderd of in beslag worden genomen. Op verzoek kunnen verklaringen als bedoeld in het eerste lid onderdeel a echter ter inzage worden gegeven, indien degene die de verklaring heeft afgelegd, daarvoor uitdrukkelijk toestemming heeft gegeven en kan informatie als bedoeld in onderdeel c ter beschikking worden gesteld, indien degene wie de informatie betreft, daarvoor uitdrukkelijk toestemming heeft gegeven.
+2. Ten behoeve van een strafrechtelijk of tuchtrechtelijk onderzoek of een procedure tot oplegging van een disciplinaire maatregel, een bestuurlijke sanctie of een bestuurlijke maatregel kunnen gegevensdragers als bedoeld in het eerste lid, onderdelen a, b, c, d en f, met uitzondering van het in [artikel 55, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=5&paragraaf=2&artikel=55&z=2007-02-01&g=2007-02-01), bedoelde rapport, niet ter inzage worden gevorderd of in beslag worden genomen. Op verzoek kunnen verklaringen als bedoeld in het eerste lid onderdeel a echter ter inzage worden gegeven, indien degene die de verklaring heeft afgelegd, daarvoor uitdrukkelijk toestemming heeft gegeven en kan informatie als bedoeld in onderdeel c ter beschikking worden gesteld, indien degene wie de informatie betreft, daarvoor uitdrukkelijk toestemming heeft gegeven.
 
 3. In afwijking van het eerste en tweede lid kunnen gegevensdragers als bedoeld in het eerste lid, onderdelen b en d, als bewijs worden gebruikt en ter inzage worden gevorderd of in beslag worden genomen, indien het een strafrechtelijk onderzoek betreft naar een gijzeling, moord, doodslag of een strafbaar feit met het oogmerk om de bevolking of een deel der bevolking van een land vrees aan te jagen, dan wel een overheid of internationale organisatie te dwingen iets te doen, niet te doen of te dulden, dan wel de fundamentele politieke, constitutionele, economische of sociale structuren van een land of een internationale organisatie ernstig te destabiliseren of te vernietigen.
 
@@ -766,13 +742,13 @@ Bij of krachtens algemene maatregel van rijksbestuur of algemene maatregel van b
 
 ##### Artikel 70
 
-De raad, de medewerkers van het bureau, de algemeen secretaris en de overige onderzoekers doen geen aangifte van strafbare feiten waarvan ze bij de uitoefening van hun functie bij de raad kennis hebben gekregen, bij een opsporingsambtenaar, met uitzondering van de gevallen bedoeld in de [artikelen 160](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=160) en [162 van het Nederlandse Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=162), meineed, de bij [artikel 81](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=8&artikel=81&z=2006-02-01&g=2006-02-01) strafbaar gestelde feiten, alsmede de feiten strafbaar gesteld in de [artikelen 179 tot en met 182](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=179) en [184 van het Nederlandse Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=184), de artikelen 185 tot en met 188 en 190 van het Wetboek van Strafrecht van de Nederlandse Antillen en de artikelen 185 tot en met 188 en 190 van het Wetboek van Strafrecht van Aruba, voor zover deze feiten betrekking hebben op [artikel 40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=5&paragraaf=1&artikel=40&z=2006-02-01&g=2006-02-01).
+De raad, de medewerkers van het bureau, de algemeen secretaris en de overige onderzoekers doen geen aangifte van strafbare feiten waarvan ze bij de uitoefening van hun functie bij de raad kennis hebben gekregen, bij een opsporingsambtenaar, met uitzondering van de gevallen bedoeld in de [artikelen 160](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=160) en [162 van het Nederlandse Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=162), meineed, de bij [artikel 81](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=8&artikel=81&z=2007-02-01&g=2007-02-01) strafbaar gestelde feiten, alsmede de feiten strafbaar gesteld in de [artikelen 179 tot en met 182](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=179) en [184 van het Nederlandse Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=184), de artikelen 185 tot en met 188 en 190 van het Wetboek van Strafrecht van de Nederlandse Antillen en de artikelen 185 tot en met 188 en 190 van het Wetboek van Strafrecht van Aruba, voor zover deze feiten betrekking hebben op [artikel 40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=5&paragraaf=1&artikel=40&z=2007-02-01&g=2007-02-01).
 
 #### § 6. Geheimhouding
 
 ##### Artikel 71
 
-De raad draagt op de voet van de ter zake voor de Rijksdienst geldende voorschriften zorg voor de nodige technische en organisatorische voorzieningen ter beveiliging van zijn gegevens tegen verlies of aantasting en tegen onbevoegde kennisneming, wijziging en verstrekking van die gegevens.
+Vervallen
 
 ##### Artikel 72
 
@@ -826,15 +802,15 @@ Indien Nederland aanbevelingen of andere voorstellen voor preventieve maatregele
 
 ##### Artikel 81
 
-1. Degene die handelt in strijd met het bepaalde op grond van [artikelen 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=3&artikel=28&z=2006-02-01&g=2006-02-01), of [31, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=4&artikel=31&z=2006-02-01&g=2006-02-01), of in strijd met [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=5&paragraaf=2&artikel=49&z=2006-02-01&g=2006-02-01), [51, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=5&paragraaf=2&artikel=51&z=2006-02-01&g=2006-02-01), [72](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=5&paragraaf=6&artikel=72&z=2006-02-01&g=2006-02-01) of [74, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=6&artikel=74&z=2006-02-01&g=2006-02-01), wordt gestraft met een geldboete van de tweede categorie, bedoeld in [artikel 23 van het Nederlandse Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23), dan wel, indien de geldboete wordt opgelegd door de strafrechter in de Nederlandse Antillen of Aruba, een geldboete van ten hoogste ANG 7.400,– onderscheidenlijk AWG 7.400,–.
+1. Degene die handelt in strijd met het bepaalde op grond van [artikelen 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=3&artikel=28&z=2007-02-01&g=2007-02-01), of [31, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=4&artikel=31&z=2007-02-01&g=2007-02-01), of in strijd met [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=5&paragraaf=2&artikel=49&z=2007-02-01&g=2007-02-01), [51, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=5&paragraaf=2&artikel=51&z=2007-02-01&g=2007-02-01), [72](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=5&paragraaf=6&artikel=72&z=2007-02-01&g=2007-02-01) of [74, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=6&artikel=74&z=2007-02-01&g=2007-02-01), wordt gestraft met een geldboete van de tweede categorie, bedoeld in [artikel 23 van het Nederlandse Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23), dan wel, indien de geldboete wordt opgelegd door de strafrechter in de Nederlandse Antillen of Aruba, een geldboete van ten hoogste ANG 7.400,– onderscheidenlijk AWG 7.400,–.
 
 2. De krachtens het eerste lid strafbaar gestelde feiten zijn overtredingen.
 
 ##### Artikel 82
 
-1. Met de opsporing van de bij [artikel 81](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=8&artikel=81&z=2006-02-01&g=2006-02-01) strafbaar gestelde feiten, alsmede de feiten strafbaar gesteld in de [artikelen 179 tot en met 182](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=179) en [184 van het Nederlandse Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=184), voor zover deze feiten betrekking hebben op [artikel 40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=5&paragraaf=1&artikel=40&z=2006-02-01&g=2006-02-01), zijn, onverminderd de ambtenaren, bedoeld in [artikel 141 van het Nederlandse Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141), belast de door Onze Minister en Onze Minister van Justitie aangewezen ambtenaren.
+1. Met de opsporing van de bij [artikel 81](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=8&artikel=81&z=2007-02-01&g=2007-02-01) strafbaar gestelde feiten, alsmede de feiten strafbaar gesteld in de [artikelen 179 tot en met 182](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=179) en [184 van het Nederlandse Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=184), voor zover deze feiten betrekking hebben op [artikel 40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=5&paragraaf=1&artikel=40&z=2007-02-01&g=2007-02-01), zijn, onverminderd de ambtenaren, bedoeld in [artikel 141 van het Nederlandse Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141), belast de door Onze Minister en Onze Minister van Justitie aangewezen ambtenaren.
 
-2. Met de opsporing van de bij [artikel 81](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=8&artikel=81&z=2006-02-01&g=2006-02-01) strafbaar gestelde feiten, alsmede de feiten strafbaar gesteld in de artikelen 185 tot en met 188 en 190 van het Wetboek van Strafrecht van de Nederlandse Antillen en de artikelen 185 tot en met 188 en 190 van het Wetboek van Strafrecht van Aruba, voor zover deze feiten betrekking hebben op [artikel 40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=5&paragraaf=1&artikel=40&z=2006-02-01&g=2006-02-01), zijn tevens respectievelijk belast de daartoe door de overheid in de Nederlandse Antillen en door de overheid in Aruba aangewezen personen.
+2. Met de opsporing van de bij [artikel 81](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=8&artikel=81&z=2007-02-01&g=2007-02-01) strafbaar gestelde feiten, alsmede de feiten strafbaar gesteld in de artikelen 185 tot en met 188 en 190 van het Wetboek van Strafrecht van de Nederlandse Antillen en de artikelen 185 tot en met 188 en 190 van het Wetboek van Strafrecht van Aruba, voor zover deze feiten betrekking hebben op [artikel 40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=5&paragraaf=1&artikel=40&z=2007-02-01&g=2007-02-01), zijn tevens respectievelijk belast de daartoe door de overheid in de Nederlandse Antillen en door de overheid in Aruba aangewezen personen.
 
 3. Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de Staatscourant.
 
@@ -842,21 +818,21 @@ Indien Nederland aanbevelingen of andere voorstellen voor preventieve maatregele
 
 ##### Artikel 83
 
-1. Onze Minister zendt binnen drie jaar na de inwerkingtreding van deze rijkswet en vervolgens telkens na vijf jaar aan de Staten-Generaal, de Staten van de Nederlandse Antillen en de Staten van Aruba een verslag over de doeltreffendheid en doelmatigheid van het functioneren van de raad.
+1. In afwijking van [artikel 39, eerste lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=39), zendt Onze Minister binnen drie jaar na de inwerkingtreding van deze rijkswet en vervolgens telkens na vijf jaar aan de Staten-Generaal, de Staten van de Nederlandse Antillen en de Staten van Aruba een verslag over de doeltreffendheid en doelmatigheid van het functioneren van de raad.
 
-2. Bij de ministeriële regeling, bedoeld in [artikel 26, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=5&artikel=26&z=2006-02-01&g=2006-02-01), worden voorschriften gesteld omtrent de totstandkoming van het verslag en de betrokkenheid van de raad daarbij.
+2. Bij de ministeriële regeling, bedoeld in [artikel 26, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=5&artikel=26&z=2007-02-01&g=2007-02-01), worden voorschriften gesteld omtrent de totstandkoming van het verslag en de betrokkenheid van de raad daarbij.
 
-### Hoofdstuk 10. Taakverwaarlozing
+### Hoofdstuk 9. Evaluatie
 
 ##### Artikel 84
 
-1. Indien naar het oordeel van Onze Minister en Onze Minister wie het mede aangaat, de raad ernstig in gebreke blijft in de uitoefening van zijn taak wat de onderzoeken, bedoeld in het bepaalde op grond van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=1&artikel=5&z=2006-02-01&g=2006-02-01), betreft, kunnen Onze Minister en Onze Minister wie het mede aangaat, de noodzakelijke voorzieningen treffen. In dat geval zijn op de door Onze Minister en Onze Minister wie het mede aangaat,aan te wijzen personen de [artikelen 32 tot en met 40](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=5&paragraaf=1&artikel=32&z=2006-02-01&g=2006-02-01), [69](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=5&paragraaf=5&artikel=69&z=2006-02-01&g=2006-02-01) en [70](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=5&paragraaf=5&artikel=70&z=2006-02-01&g=2006-02-01) van overeenkomstige toepassing. Onderzoeken worden verricht met inachtneming van de [artikelen 44 tot en met 65](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=5&paragraaf=2&artikel=44&z=2006-02-01&g=2006-02-01). Voorts zijn de [artikelen 31](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=4&artikel=31&z=2006-02-01&g=2006-02-01), [73](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=6&artikel=73&z=2006-02-01&g=2006-02-01) en [74](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=6&artikel=74&z=2006-02-01&g=2006-02-01) van overeenkomstige toepassing.
+1. In afwijking van [artikel 23, eerste lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=23), kunnen Onze Minister en Onze Minister wie het mede aangaat de noodzakelijke voorzieningen treffen indien naar het oordeel van Onze Minister en Onze Minister wie het mede aangaat, de raad ernstig in gebreke blijft in de uitoefening van zijn taak wat de onderzoeken, bedoeld in het bepaalde op grond van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=1&artikel=5&z=2007-02-01&g=2007-02-01), betreft. In dat geval zijn op de door Onze Minister en Onze Minister wie het mede aangaat, aan te wijzen personen de [artikelen 32 tot en met 40](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=5&paragraaf=1&artikel=32&z=2007-02-01&g=2007-02-01), [69](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=5&paragraaf=5&artikel=69&z=2007-02-01&g=2007-02-01) en [70](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=5&paragraaf=5&artikel=70&z=2007-02-01&g=2007-02-01) van overeenkomstige toepassing. Onderzoeken worden verricht met inachtneming van de [artikelen 44 tot en met 65](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=5&paragraaf=2&artikel=44&z=2007-02-01&g=2007-02-01). Voorts zijn de [artikelen 73](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=6&artikel=73&z=2007-02-01&g=2007-02-01) en [74](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=6&artikel=74&z=2007-02-01&g=2007-02-01) van overeenkomstige toepassing.
 
-2. De voorzieningen worden, spoedeisende gevallen uitgezonderd, niet eerder getroffen dan nadat de raad in de gelegenheid is gesteld om binnen een door Onze Minister in overeenstemming met Onze Minister wie het mede aangaat, te stellen termijn alsnog zijn taak naar behoren uit te voeren.
+2. In afwijking van [artikel 23, tweede lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=23), wordt de termijn waarbinnen de raad in de gelegenheid wordt gesteld alsnog zijn taak naar behoren uit te voeren, gesteld door Onze Minister in overeenstemming met Onze Minister wie het mede aangaat.
 
-3. Onze Minister en Onze Minister wie het aangaat, stellen de raad, de beide Kamers der Staten-Generaal, de Staten van de Nederlandse Antillen en de Staten van Aruba onverwijld in kennis van door hen getroffen voorzieningen als bedoeld in het eerste lid.
+3. In afwijking van [artikel 23, derde lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=23), stellen Onze Minister en Onze Minister wie het mede aangaat tevens de raad en de Staten van de Nederlandse Antillen en de Staten van Aruba onverwijld in kennis van door hen getroffen voorzieningen als bedoeld in het eerste lid.
 
-### Hoofdstuk 11. Overgangs- en slotbepalingen
+### Hoofdstuk 10. Taakverwaarlozing
 
 ##### Artikel 85
 
@@ -866,9 +842,9 @@ Indien Nederland aanbevelingen of andere voorstellen voor preventieve maatregele
 
 ##### Artikel 86
 
-1. In afwijking van [artikel 7, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=2&artikel=7&z=2006-02-01&g=2006-02-01), geschiedt de benoeming van de leden van de raad, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=2&artikel=6&z=2006-02-01&g=2006-02-01), en de leden van de raad, bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=2&artikel=6&z=2006-02-01&g=2006-02-01), voor de eerste maal zonder dat de raad wordt gehoord.
+1. In afwijking van [artikel 7, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=2&artikel=7&z=2007-02-01&g=2007-02-01), geschiedt de benoeming van de leden van de raad, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=2&artikel=6&z=2007-02-01&g=2007-02-01), en de leden van de raad, bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=2&artikel=6&z=2007-02-01&g=2007-02-01), voor de eerste maal zonder dat de raad wordt gehoord.
 
-2. In afwijking van [artikel 7, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=2&artikel=7&z=2006-02-01&g=2006-02-01), worden twee leden van de raad als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=2&artikel=6&z=2006-02-01&g=2006-02-01), waaronder de voorzitter, de eerste maal voor een periode van 2 jaar benoemd.
+2. In afwijking van [artikel 7, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=2&artikel=7&z=2007-02-01&g=2007-02-01), worden twee leden van de raad als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=2&artikel=6&z=2007-02-01&g=2007-02-01), waaronder de voorzitter, de eerste maal voor een periode van 2 jaar benoemd.
 
 ##### Artikel 87
 
@@ -878,11 +854,11 @@ Indien Nederland aanbevelingen of andere voorstellen voor preventieve maatregele
 
 ##### Artikel 88
 
-1. Met ingang van de datum van inwerkingtreding van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=1&artikel=2&z=2006-02-01&g=2006-02-01) zijn de personeelsleden van de Raad voor de Transportveiligheid, van wie naam en functie zijn vermeld op een door het bestuur van de Raad voor de Transportveiligheid vastgestelde lijst, van rechtswege ontslagen en aangesteld als ambtenaar in dienst van de rechtspersoon Onderzoeksraad voor veiligheid.
+1. Met ingang van de datum van inwerkingtreding van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=1&artikel=2&z=2007-02-01&g=2007-02-01) zijn de personeelsleden van de Raad voor de Transportveiligheid, van wie naam en functie zijn vermeld op een door het bestuur van de Raad voor de Transportveiligheid vastgestelde lijst, van rechtswege ontslagen en aangesteld als ambtenaar in dienst van de rechtspersoon Onderzoeksraad voor veiligheid.
 
 2. De overgang van de in het eerste lid bedoelde personeelsleden vindt plaats met een rechtspositie die als geheel ten minste gelijkwaardig is aan die welke voor elk van hen gold bij de Raad voor de Transportveiligheid.
 
-3. De personen die op het tijdstip van inwerkingtreding van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=1&artikel=2&z=2006-02-01&g=2006-02-01) krachtens een arbeidsovereenkomst naar burgerlijk recht behoren tot het personeel van de Raad voor de Transportveiligheid, waarvan naam en functie zijn vermeld op een door de Raad voor de Transportveiligheid vastgestelde lijst, zijn met ingang van dat tijdstip van rechtswege ontslagen en aangesteld in dienst van de rechtspersoon Onderzoeksraad voor veiligheid met een rechtspositie die in totaliteit ten minste gelijkwaardig is aan die welke voor elk van hen gold bij de Raad voor de Transportveiligheid.
+3. De personen die op het tijdstip van inwerkingtreding van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=1&artikel=2&z=2007-02-01&g=2007-02-01) krachtens een arbeidsovereenkomst naar burgerlijk recht behoren tot het personeel van de Raad voor de Transportveiligheid, waarvan naam en functie zijn vermeld op een door de Raad voor de Transportveiligheid vastgestelde lijst, zijn met ingang van dat tijdstip van rechtswege ontslagen en aangesteld in dienst van de rechtspersoon Onderzoeksraad voor veiligheid met een rechtspositie die in totaliteit ten minste gelijkwaardig is aan die welke voor elk van hen gold bij de Raad voor de Transportveiligheid.
 
 ##### Artikel 89
 
@@ -898,7 +874,7 @@ Archiefbescheiden van de Raad voor de Transportveiligheid worden overgedragen aa
 
 ##### Artikel 91
 
-De [Marinescheepsongevallenwet 1935](https://wetten.overheid.nl/jci1.3:c:BWBR0001940) (Stb. 531) wordt ingetrokken. De bepalingen van die wet blijven voor de duur van het onderzoek van kracht ten aanzien van onderzoeken naar ongevallen en incidenten met militaire schepen als bedoeld in [artikel 93](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=11&artikel=93&z=2006-02-01&g=2006-02-01).
+De [Marinescheepsongevallenwet 1935](https://wetten.overheid.nl/jci1.3:c:BWBR0001940) (Stb. 531) wordt ingetrokken. De bepalingen van die wet blijven voor de duur van het onderzoek van kracht ten aanzien van onderzoeken naar ongevallen en incidenten met militaire schepen als bedoeld in [artikel 93](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=11&artikel=93&z=2007-02-01&g=2007-02-01).
 
 ##### Artikel 92
 
@@ -906,7 +882,7 @@ Archiefbescheiden van de Nederlandse Marineraad betreffende zaken die zijn afged
 
 ##### Artikel 93
 
-Onderzoeken naar ongevallen of incidenten met Nederlandse oorlogsvaartuigen als bedoeld in de [Marinescheepsongevallenwet 1935](https://wetten.overheid.nl/jci1.3:c:BWBR0001940) (Stb. 531) of militaire luchtvaartuigen, die zijn gestart voor de datum van inwerkingtreding van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=1&artikel=2&z=2006-02-01&g=2006-02-01), worden afgehandeld overeenkomstig de voor die datum op die onderzoeken toepasselijke regelgeving.
+Onderzoeken naar ongevallen of incidenten met Nederlandse oorlogsvaartuigen als bedoeld in de [Marinescheepsongevallenwet 1935](https://wetten.overheid.nl/jci1.3:c:BWBR0001940) (Stb. 531) of militaire luchtvaartuigen, die zijn gestart voor de datum van inwerkingtreding van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=1&artikel=2&z=2007-02-01&g=2007-02-01), worden afgehandeld overeenkomstig de voor die datum op die onderzoeken toepasselijke regelgeving.
 
 ##### Artikel 94
 
@@ -926,10 +902,52 @@ Wijzigt deze wet.
 
 1. Deze rijkswet treedt in werking op een bij koninklijk besluit te bepalen tijdstip. Bij koninklijk besluit kan worden bepaald dat deze rijkswet op een later tijdstip in werking treedt ten aanzien van het onderzoek naar ongevallen en incidenten met een zeeschip dat niet in gebruik is bij Onze Minister van Defensie of een buitenlandse krijgsmacht.
 
-2. Indien het bij koninklijke boodschap van 4 april 2003 ingediende voorstel van wet tot wijziging van de Wet milieubeheer, de Wet openbaarheid van bestuur en enige andere wetten ([Wet uitvoering Verdrag van Aarhus](https://wetten.overheid.nl/jci1.3:c:BWBR0017266), Kamerstukken II, 2002–2003, 28 835, nrs. 1 en 2), nadat het tot wet is verheven, op een later tijdstip in werking treedt dan deze rijkswet, treedt, in afwijking van het eerste lid, [artikel 57, derde tot en met het negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=5&paragraaf=2&artikel=57&z=2006-02-01&g=2006-02-01), in werking op hetzelfde tijdstip als dat waarop die wet in werking treedt.
+2. Indien het bij koninklijke boodschap van 4 april 2003 ingediende voorstel van wet tot wijziging van de Wet milieubeheer, de Wet openbaarheid van bestuur en enige andere wetten ([Wet uitvoering Verdrag van Aarhus](https://wetten.overheid.nl/jci1.3:c:BWBR0017266), Kamerstukken II, 2002–2003, 28 835, nrs. 1 en 2), nadat het tot wet is verheven, op een later tijdstip in werking treedt dan deze rijkswet, treedt, in afwijking van het eerste lid, [artikel 57, derde tot en met het negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=5&paragraaf=2&artikel=57&z=2007-02-01&g=2007-02-01), in werking op hetzelfde tijdstip als dat waarop die wet in werking treedt.
 
 ##### Artikel 98
 
 Deze rijkswet wordt aangehaald als: Rijkswet Onderzoeksraad voor veiligheid.
+
+Lasten en bevelen dat deze in het Staatsblad, in het Publicatieblad van de Nederlandse Antillen en in het Afkondigingsblad van Aruba zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 5a
+
+Voor zover daarvan niet uitdrukkelijk wordt afgeweken, wordt de [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495) ten aanzien van de raad in acht genomen. Op als zelfstandig bestuursorgaan aan te merken functionarissen van de raad is de [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495) niet van toepassing.
+
+#### § 2. Inrichting en samenstelling
+
+#### § 3. Het bureau
+
+#### § 4. Werkwijze
+
+##### Artikel 17a
+
+[Artikel 21 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=21) is niet van toepassing.
+
+#### § 5. Beheer
+
+### Hoofdstuk 3. Melding
+
+### Hoofdstuk 4. Informatiemateriaal
+
+### Hoofdstuk 5. Het onderzoek
+
+#### § 1. Bevoegdheden van de onderzoekers
+
+#### § 2. Het onderzoek
+
+#### § 4. Verhouding tot onderzoek met oog op opleggen van sancties
+
+#### § 5. Verhouding tot andere procedures
+
+#### § 6. Geheimhouding
+
+### Hoofdstuk 6. Vervolg op aanbevelingen
+
+### Hoofdstuk 7. Onderzoek door een ander land
+
+### Hoofdstuk 8. Straf- en opsporingsbepalingen
+
+### Hoofdstuk 11. Overgangs- en slotbepalingen
 
 Lasten en bevelen dat deze in het Staatsblad, in het Publicatieblad van de Nederlandse Antillen en in het Afkondigingsblad van Aruba zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat aan de nauwkeurige uitvoering de hand zullen houden.
