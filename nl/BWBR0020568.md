@@ -4,7 +4,7 @@ identifier: "BWBR0020568"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2010-01-01"
-last_updated: "2006-11-29"
+last_updated: "2007-02-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020568"
 soort: "ministeriele-regeling"
@@ -42,7 +42,19 @@ Besluit:
 
 ##### Artikel 1
 
-Dit onderdeel is nog niet inwerking getreden
+[Artikel 22, eerste lid, van de Metrologiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&artikel=22) geldt niet;
+
+- a. voor zover in een geschrift enig ander geschrift letterlijk wordt aangehaald;
+
+- b. in het internationale goederen- of dienstenverkeer, voor zover het gebruik van de betrokken meeteenheid of benaming is toegelaten in het land waarmee dat verkeer plaatsvindt;
+
+- c. voor zover het betreft andere meeteenheden dan in het Meeteenhedenbesluit 2006 genoemde meeteenheden, indien:
+
+- 1°. die andere meeteenheden naast de in het Meeteenhedenbesluit 2006 genoemde meeteenheden met betrekking tot dezelfde grootheden worden gebruikt,
+
+- 2°. de aanduidingen in die andere meeteenheden bestaan uit tekens die ten hoogste even groot zijn als die waaruit de aanduidingen van de in het Meeteenhedenbesluit 2006 genoemde meeteenheden bestaan en
+
+- 3°. de aanduidingen in die andere meeteenheden ten gevolge van hun plaats, uitvoering of wijze van weergave worden overheerst door de aanduidingen van de in het Meeteenhedenbesluit 2006 genoemde meeteenheden.
 
 ##### Artikel 2
 
@@ -54,7 +66,7 @@ Automatische weeginstrumenten voor het sorteren van eieren zijn vrijgesteld van 
 
 ##### Artikel 4
 
-1. Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst, met uitzondering van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0020568&artikel=1&z=2006-11-29&g=2006-11-29) dat in werking treedt op het tijdstip waarop [artikel 22 van de Metrologiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&artikel=22) in werking treedt.
+1. Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst, met uitzondering van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0020568&artikel=1&z=2007-02-01&g=2007-02-01) dat in werking treedt op het tijdstip waarop [artikel 22 van de Metrologiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&artikel=22) in werking treedt.
 
 2. Wijzigt deze regeling.
 
