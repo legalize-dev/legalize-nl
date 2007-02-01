@@ -4,7 +4,7 @@ identifier: "BWBV0001829"
 country: "nl"
 rank: "verdrag"
 publication_date: "2026-01-01"
-last_updated: "2005-10-19"
+last_updated: "2007-02-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0001829"
 soort: "verdrag"
@@ -137,15 +137,15 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 - 16. Dopingcontrole „buiten wedstrijdverband’’ elke dopingcontrole die niet binnen wedstrijdverband plaatsvindt.
 
-- 17. „Lijst van verboden stoffen en methoden’’ de lijst vervat in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0001829&bijlage=I&z=2005-10-19&g=2005-10-19) bij dit Verdrag waarin de verboden stoffen en verboden methoden vermeld staan.
+- 17. „Lijst van verboden stoffen en methoden’’ de lijst vervat in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0001829&bijlage=I&z=2007-02-01&g=2007-02-01) bij dit Verdrag waarin de verboden stoffen en verboden methoden vermeld staan.
 
-- 18. „Verboden methode’’ elke methode die als zodanig omschreven staat in de Lijst van verboden stoffen en methoden vervat in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0001829&bijlage=I&z=2005-10-19&g=2005-10-19) bij dit Verdrag.
+- 18. „Verboden methode’’ elke methode die als zodanig omschreven staat in de Lijst van verboden stoffen en methoden vervat in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0001829&bijlage=I&z=2007-02-01&g=2007-02-01) bij dit Verdrag.
 
-- 19. „Verboden stof’’ elke stof die als zodanig omschreven staat in de Lijst van verboden stoffen en methoden vervat in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0001829&bijlage=I&z=2005-10-19&g=2005-10-19) bij dit Verdrag.
+- 19. „Verboden stof’’ elke stof die als zodanig omschreven staat in de Lijst van verboden stoffen en methoden vervat in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0001829&bijlage=I&z=2007-02-01&g=2007-02-01) bij dit Verdrag.
 
 - 20. „Sportorganisatie’’ elke organisatie die de eindverantwoordelijkheid draagt voor een evenement met een of meer sporten.
 
-- 21. „Normen voor het verlenen van dispensatie voor therapeutisch gebruik’’ de normen vervat in [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBV0001829&bijlage=II&z=2005-10-19&g=2005-10-19) bij dit Verdrag.
+- 21. „Normen voor het verlenen van dispensatie voor therapeutisch gebruik’’ de normen vervat in [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBV0001829&bijlage=II&z=2007-02-01&g=2007-02-01) bij dit Verdrag.
 
 - 22. „Controle’’ de onderdelen van het dopingcontroleproces inhoudende het plannen van de controles, het verzamelen en hanteren van monsters en het verzenden van monsters naar het laboratorium.
 
@@ -167,7 +167,7 @@ Ter verwezenlijking van het doel van het Verdrag verplichten de Staten die Parti
 
 ##### Artikel 4. Verhouding van het Verdrag tot de Code
 
-1. Teneinde de implementatie van de bestrijding van doping in de sport op nationaal en internationaal niveau te coördineren verplichten de Staten die Partij zijn zich de beginselen van de Code te eerbiedigen, als basis voor de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001829&deel=I&artikel=5&z=2005-10-19&g=2005-10-19) van dit Verdrag vervatte maatregelen. Niets in dit Verdrag belet de Staten die Partij zijn andere maatregelen te nemen ter aanvulling van de Code.
+1. Teneinde de implementatie van de bestrijding van doping in de sport op nationaal en internationaal niveau te coördineren verplichten de Staten die Partij zijn zich de beginselen van de Code te eerbiedigen, als basis voor de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001829&deel=I&artikel=5&z=2007-02-01&g=2007-02-01) van dit Verdrag vervatte maatregelen. Niets in dit Verdrag belet de Staten die Partij zijn andere maatregelen te nemen ter aanvulling van de Code.
 
 2. De Code en de meest recente versie van de Aanhangsels 2 en 3 worden ter informatie verstrekt en vormen geen integrerend onderdeel van dit Verdrag. Uit de Bijlagen als zodanig vloeien voor de Staten die Partij zijn geen bindende verplichtingen voort uit hoofde van het internationaal recht.
 
@@ -313,7 +313,7 @@ De Staten die Partij zijn, bevorderen en ondersteunen, binnen hun mogelijkheden,
 
 ##### Artikel 22. Sportorganisaties en permanente voorlichting en training op het gebied van dopingbestrijding
 
-De Staten die Partij zijn, moedigen sportorganisaties en antidopingorganisaties aan permanente voorlichtings- en trainingsprogramma’s te implementeren voor alle sporters en begeleiders van sporters inzake de in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0001829&deel=IV&artikel=19&z=2005-10-19&g=2005-10-19) genoemde gebieden.
+De Staten die Partij zijn, moedigen sportorganisaties en antidopingorganisaties aan permanente voorlichtings- en trainingsprogramma’s te implementeren voor alle sporters en begeleiders van sporters inzake de in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0001829&deel=IV&artikel=19&z=2007-02-01&g=2007-02-01) genoemde gebieden.
 
 ##### Artikel 23. Samenwerking bij voorlichting en training
 
@@ -333,7 +333,7 @@ De Staten die Partij zijn, verplichten zich, binnen hun mogelijkheden, onderzoek
 
 ##### Artikel 25. De aard van onderzoek ten behoeve van dopingbestrijding
 
-Bij het bevorderen van onderzoek ten behoeve van dopingbestrijding, als vervat in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBV0001829&deel=V&artikel=24&z=2005-10-19&g=2005-10-19), waarborgen de Staten die Partij zijn dat dergelijk onderzoek:
+Bij het bevorderen van onderzoek ten behoeve van dopingbestrijding, als vervat in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBV0001829&deel=V&artikel=24&z=2007-02-01&g=2007-02-01), waarborgen de Staten die Partij zijn dat dergelijk onderzoek:
 
 - a. voldoet aan internationaal erkende ethische praktijken;
 
@@ -377,15 +377,15 @@ Het Mondiaal Antidopingagentschap wordt uitgenodigd als adviesorgaan van de Conf
 
 - b. bespreken van de relatie met het Modiaal Antidopingagentschap en bestuderen van de mechanismen van de financiering van de jaarlijkse basisbegroting van het Agentschap. Staten die geen Partij zijn, kunnen worden uitgenodigd aan de bespreking deel te nemen;
 
-- c. aannemen van een plan voor de toepassing van de middelen van het Vrijwillig Fonds, in overeenstemming met [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0001829&deel=III&artikel=18&z=2005-10-19&g=2005-10-19);
+- c. aannemen van een plan voor de toepassing van de middelen van het Vrijwillig Fonds, in overeenstemming met [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0001829&deel=III&artikel=18&z=2007-02-01&g=2007-02-01);
 
-- d. onderzoeken van de door de Staten die Partij zijn in overeenstemming met [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBV0001829&deel=VI&artikel=31&z=2005-10-19&g=2005-10-19) ingediende verslagen;
+- d. onderzoeken van de door de Staten die Partij zijn in overeenstemming met [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBV0001829&deel=VI&artikel=31&z=2007-02-01&g=2007-02-01) ingediende verslagen;
 
-- e. toetsen, op permanente basis, van het toezicht op de naleving van dit Verdrag in antwoord op de ontwikkeling van systemen voor dopingbestrijding, in overeenstemming met [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBV0001829&deel=VI&artikel=31&z=2005-10-19&g=2005-10-19). Elk toezichtsmechanisme dat of elke toezichtsmaatregel die buiten het kader van artikel 31 valt, wordt gefinancierd door het ingevolge [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBV0001829&deel=III&artikel=17&z=2005-10-19&g=2005-10-19) ingestelde Vrijwillig Fonds;
+- e. toetsen, op permanente basis, van het toezicht op de naleving van dit Verdrag in antwoord op de ontwikkeling van systemen voor dopingbestrijding, in overeenstemming met [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBV0001829&deel=VI&artikel=31&z=2007-02-01&g=2007-02-01). Elk toezichtsmechanisme dat of elke toezichtsmaatregel die buiten het kader van artikel 31 valt, wordt gefinancierd door het ingevolge [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBV0001829&deel=III&artikel=17&z=2007-02-01&g=2007-02-01) ingestelde Vrijwillig Fonds;
 
 - f. onderzoeken van ontwerpwijzigingen van dit Verdrag in verband met de aanname daarvan;
 
-- g. onderzoeken ter goedkeuring, in overeenstemming met [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBV0001829&deel=VI&artikel=34&z=2005-10-19&g=2005-10-19) van het Verdrag, van wijzigingen van de Lijst van verboden middelen en methoden en van de Normen voor het verlenen van dispensatie voor therapeutisch gebruik aangenomen door het Mondiaal Antidopingagentschap;
+- g. onderzoeken ter goedkeuring, in overeenstemming met [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBV0001829&deel=VI&artikel=34&z=2007-02-01&g=2007-02-01) van het Verdrag, van wijzigingen van de Lijst van verboden middelen en methoden en van de Normen voor het verlenen van dispensatie voor therapeutisch gebruik aangenomen door het Mondiaal Antidopingagentschap;
 
 - h. omschrijven en implementeren van de samenwerking tussen de Staten die Partij zijn en het Mondiaal Antidopingagentschap in het kader van dit Verdrag;
 
@@ -403,7 +403,7 @@ De Staten die Partij zijn, zenden de Conferentie van Partijen elke twee jaar via
 
 2. Op verzoek van de Conferentie van Partijen maakt de Directeur-Generaal van UNESCO in zo ruim mogelijke mate gebruik van de diensten van het Mondiaal Antidopingagentschap op de door de Conferentie van Partijen overeengekomen voorwaarden.
 
-3. Kosten die verband houden met het functioneren van het Verdrag worden gefinancierd uit de reguliere begroting van UNESCO uit bestaande middelen op een passend niveau, uit het ingevolge [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBV0001829&deel=III&artikel=17&z=2005-10-19&g=2005-10-19) ingestelde Vrijwillig Fonds of uit een passende combinatie daarvan, zoals elke twee jaar wordt vastgesteld. Financiering van het Secretariaat uit de reguliere begroting dient zo beperkt mogelijk te blijven, ervan uitgaande dat het Verdrag ook door vrijwillige financiering ondersteund dient te worden.
+3. Kosten die verband houden met het functioneren van het Verdrag worden gefinancierd uit de reguliere begroting van UNESCO uit bestaande middelen op een passend niveau, uit het ingevolge [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBV0001829&deel=III&artikel=17&z=2007-02-01&g=2007-02-01) ingestelde Vrijwillig Fonds of uit een passende combinatie daarvan, zoals elke twee jaar wordt vastgesteld. Financiering van het Secretariaat uit de reguliere begroting dient zo beperkt mogelijk te blijven, ervan uitgaande dat het Verdrag ook door vrijwillige financiering ondersteund dient te worden.
 
 4. Het Secretariaat stelt de documentatie van de Conferentie van Partijen op, alsmede de ontwerpagenda van haar bijeenkomsten, en waarborgt de implementatie van de beslissingen ervan.
 
@@ -471,15 +471,15 @@ De Directeur-Generaal van UNESCO is de Depositaris van dit Verdrag en de wijzigi
 
 - a. de nederlegging van elke akte van bekrachtiging, aanvaarding, goedkeuring of toetreding;
 
-- b. de datum van inwerkingtreding van dit Verdrag overeenkomstig [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBV0001829&deel=VII&artikel=37&z=2005-10-19&g=2005-10-19);
+- b. de datum van inwerkingtreding van dit Verdrag overeenkomstig [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBV0001829&deel=VII&artikel=37&z=2007-02-01&g=2007-02-01);
 
-- c. elk verslag opgesteld uit hoofde van de bepalingen van [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBV0001829&deel=VI&artikel=31&z=2005-10-19&g=2005-10-19);
+- c. elk verslag opgesteld uit hoofde van de bepalingen van [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBV0001829&deel=VI&artikel=31&z=2007-02-01&g=2007-02-01);
 
-- d. elke wijziging van het Verdrag of van de Bijlagen aangenomen in overeenstemming met de bovenstaande [artikelen 33](https://wetten.overheid.nl/jci1.3:c:BWBV0001829&deel=VI&artikel=33&z=2005-10-19&g=2005-10-19) en [34](https://wetten.overheid.nl/jci1.3:c:BWBV0001829&deel=VI&artikel=34&z=2005-10-19&g=2005-10-19) en de datum waarop de wijziging van kracht wordt;
+- d. elke wijziging van het Verdrag of van de Bijlagen aangenomen in overeenstemming met de bovenstaande [artikelen 33](https://wetten.overheid.nl/jci1.3:c:BWBV0001829&deel=VI&artikel=33&z=2007-02-01&g=2007-02-01) en [34](https://wetten.overheid.nl/jci1.3:c:BWBV0001829&deel=VI&artikel=34&z=2007-02-01&g=2007-02-01) en de datum waarop de wijziging van kracht wordt;
 
-- e. elke uit hoofde van de bepalingen van [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBV0001829&deel=VII&artikel=38&z=2005-10-19&g=2005-10-19) gedane verklaring of kennisgeving;
+- e. elke uit hoofde van de bepalingen van [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBV0001829&deel=VII&artikel=38&z=2007-02-01&g=2007-02-01) gedane verklaring of kennisgeving;
 
-- f. elke uit hoofde van de bepalingen van [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBV0001829&deel=VII&artikel=39&z=2005-10-19&g=2005-10-19) gedane kennisgeving en de datum waarop de opzegging van kracht wordt;
+- f. elke uit hoofde van de bepalingen van [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBV0001829&deel=VII&artikel=39&z=2007-02-01&g=2007-02-01) gedane kennisgeving en de datum waarop de opzegging van kracht wordt;
 
 - g. elke andere akte, kennisgeving of mededeling met betrekking tot dit Verdrag.
 
