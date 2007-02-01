@@ -4,7 +4,7 @@ identifier: "BWBR0020830"
 country: "nl"
 rank: "wet"
 publication_date: "2008-12-31"
-last_updated: "2007-01-01"
+last_updated: "2007-02-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020830"
 soort: "wet"
@@ -80,7 +80,7 @@ Wijzigt de Wet belastingen op milieugrondslag.
 
 ##### Artikel X
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de belasting van personenauto’s en motorrijwielen 1992.
 
 ##### Artikel XI
 
@@ -136,7 +136,7 @@ De op het kalenderjaar 2006 betrekking hebbende verhoging van de afdrachtvermind
 
 ##### Artikel XXIIa
 
-De aanvang van het gebruik van de weg in Nederland in de zin van [artikel 1 van de Wet op de belasting van personenauto’s en motorrijwielen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=1) is voor een in een andere lidstaat van de Europese Unie geregistreerd motorrijtuig, dat op het moment van inwerkingtreding van [artikel X](https://wetten.overheid.nl/jci1.3:c:BWBR0020830&artikel=X&z=2007-01-01&g=2007-01-01) vanuit die andere lidstaat feitelijk ter beschikking is gesteld van een in Nederland wonende natuurlijke persoon of gevestigd lichaam terwijl voor dat motorrijtuig de belasting niet is geheven, gelegen op de eerste dag na 31 januari 2007 waarop met dat motorrijtuig gebruik wordt gemaakt van de weg in Nederland als bedoeld in genoemd [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=1).
+De aanvang van het gebruik van de weg in Nederland in de zin van [artikel 1 van de Wet op de belasting van personenauto’s en motorrijwielen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=1) is voor een in een andere lidstaat van de Europese Unie geregistreerd motorrijtuig, dat op het moment van inwerkingtreding van [artikel X](https://wetten.overheid.nl/jci1.3:c:BWBR0020830&artikel=X&z=2007-02-01&g=2007-02-01) vanuit die andere lidstaat feitelijk ter beschikking is gesteld van een in Nederland wonende natuurlijke persoon of gevestigd lichaam terwijl voor dat motorrijtuig de belasting niet is geheven, gelegen op de eerste dag na 31 januari 2007 waarop met dat motorrijtuig gebruik wordt gemaakt van de weg in Nederland als bedoeld in genoemd [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=1).
 
 ##### Artikel XXIII
 
@@ -170,25 +170,25 @@ Ingeval de samenloop van wetten die in 2006 in het Staatsblad zijn of worden gep
 
 ##### Artikel XXVII
 
-1. Deze wet treedt in werking met ingang van 1 januari 2007, met dien verstande dat [artikel I, onderdelen A, Ca, O, en P](https://wetten.overheid.nl/jci1.3:c:BWBR0020830&artikel=I&z=2007-01-01&g=2007-01-01), en [artikel IV, onderdelen H, I, en J](https://wetten.overheid.nl/jci1.3:c:BWBR0020830&artikel=IV&z=2007-01-01&g=2007-01-01), eerst toepassing vinden nadat [artikel 10.1 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) bij het begin van het kalenderjaar 2007 is toegepast.
+1. Deze wet treedt in werking met ingang van 1 januari 2007, met dien verstande dat [artikel I, onderdelen A, Ca, O, en P](https://wetten.overheid.nl/jci1.3:c:BWBR0020830&artikel=I&z=2007-02-01&g=2007-02-01), en [artikel IV, onderdelen H, I, en J](https://wetten.overheid.nl/jci1.3:c:BWBR0020830&artikel=IV&z=2007-02-01&g=2007-02-01), eerst toepassing vinden nadat [artikel 10.1 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) bij het begin van het kalenderjaar 2007 is toegepast.
 
-2. Het ingevolge [artikel I, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0020830&artikel=I&z=2007-01-01&g=2007-01-01), ingevoegde [artikel 3.78a van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.78a) vindt voor het eerst toepassing met betrekking tot de belastingplichtige die na 31 december 2006 ondernemer wordt.
+2. Het ingevolge [artikel I, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0020830&artikel=I&z=2007-02-01&g=2007-02-01), ingevoegde [artikel 3.78a van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.78a) vindt voor het eerst toepassing met betrekking tot de belastingplichtige die na 31 december 2006 ondernemer wordt.
 
-3. [Artikel V](https://wetten.overheid.nl/jci1.3:c:BWBR0020830&artikel=V&z=2007-01-01&g=2007-01-01) vindt eerst toepassing nadat [artikel 35a van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=35a) bij het begin van het kalenderjaar 2007 is toegepast. Het ingevolge [artikel V](https://wetten.overheid.nl/jci1.3:c:BWBR0020830&artikel=V&z=2007-01-01&g=2007-01-01) gewijzigde [artikel 32 van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=32) vindt voor het eerst toepassing met betrekking tot belastbare feiten in de zin van de [Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226) die zich hebben voorgedaan op of na 1 januari 2007.
+3. [Artikel V](https://wetten.overheid.nl/jci1.3:c:BWBR0020830&artikel=V&z=2007-02-01&g=2007-02-01) vindt eerst toepassing nadat [artikel 35a van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=35a) bij het begin van het kalenderjaar 2007 is toegepast. Het ingevolge [artikel V](https://wetten.overheid.nl/jci1.3:c:BWBR0020830&artikel=V&z=2007-02-01&g=2007-02-01) gewijzigde [artikel 32 van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=32) vindt voor het eerst toepassing met betrekking tot belastbare feiten in de zin van de [Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226) die zich hebben voorgedaan op of na 1 januari 2007.
 
-4. In afwijking van het eerste lid werken de [artikelen I, onderdeel F en onderdeel G, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020830&artikel=I&z=2007-01-01&g=2007-01-01), [VI, onderdelen A, C, E en J](https://wetten.overheid.nl/jci1.3:c:BWBR0020830&artikel=VI&z=2007-01-01&g=2007-01-01), en [VII](https://wetten.overheid.nl/jci1.3:c:BWBR0020830&artikel=VII&z=2007-01-01&g=2007-01-01) terug tot en met 1 januari 2006.
+4. In afwijking van het eerste lid werken de [artikelen I, onderdeel F en onderdeel G, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020830&artikel=I&z=2007-02-01&g=2007-02-01), [VI, onderdelen A, C, E en J](https://wetten.overheid.nl/jci1.3:c:BWBR0020830&artikel=VI&z=2007-02-01&g=2007-02-01), en [VII](https://wetten.overheid.nl/jci1.3:c:BWBR0020830&artikel=VII&z=2007-02-01&g=2007-02-01) terug tot en met 1 januari 2006.
 
-5. In afwijking van het eerste lid werken de [artikelen I, onderdeel K](https://wetten.overheid.nl/jci1.3:c:BWBR0020830&artikel=I&z=2007-01-01&g=2007-01-01), en [III](https://wetten.overheid.nl/jci1.3:c:BWBR0020830&artikel=III&z=2007-01-01&g=2007-01-01) terug tot en met 9 mei 2006.
+5. In afwijking van het eerste lid werken de [artikelen I, onderdeel K](https://wetten.overheid.nl/jci1.3:c:BWBR0020830&artikel=I&z=2007-02-01&g=2007-02-01), en [III](https://wetten.overheid.nl/jci1.3:c:BWBR0020830&artikel=III&z=2007-02-01&g=2007-02-01) terug tot en met 9 mei 2006.
 
-6. In afwijking van het eerste lid treden de [artikelen X](https://wetten.overheid.nl/jci1.3:c:BWBR0020830&artikel=X&z=2007-01-01&g=2007-01-01) en [XI, onderdelen E en G](https://wetten.overheid.nl/jci1.3:c:BWBR0020830&artikel=XI&z=2007-01-01&g=2007-01-01), in werking met ingang van 1 februari 2007.
+6. In afwijking van het eerste lid treden de [artikelen X](https://wetten.overheid.nl/jci1.3:c:BWBR0020830&artikel=X&z=2007-02-01&g=2007-02-01) en [XI, onderdelen E en G](https://wetten.overheid.nl/jci1.3:c:BWBR0020830&artikel=XI&z=2007-02-01&g=2007-02-01), in werking met ingang van 1 februari 2007.
 
-7. In afwijking van het eerste lid treden de [artikelen XI, onderdelen B, C en D](https://wetten.overheid.nl/jci1.3:c:BWBR0020830&artikel=XI&z=2007-01-01&g=2007-01-01), en [XII](https://wetten.overheid.nl/jci1.3:c:BWBR0020830&artikel=XII&z=2007-01-01&g=2007-01-01) in werking met ingang van 1 april 2007.
+7. In afwijking van het eerste lid treden de [artikelen XI, onderdelen B, C en D](https://wetten.overheid.nl/jci1.3:c:BWBR0020830&artikel=XI&z=2007-02-01&g=2007-02-01), en [XII](https://wetten.overheid.nl/jci1.3:c:BWBR0020830&artikel=XII&z=2007-02-01&g=2007-02-01) in werking met ingang van 1 april 2007.
 
-8. In afwijking van het eerste lid treedt [artikel I, onderdelen I, J en R](https://wetten.overheid.nl/jci1.3:c:BWBR0020830&artikel=I&z=2007-01-01&g=2007-01-01), in werking op het hetzelfde tijdstip als waarop de artikelen IV en VI van het bij koninklijke boodschap van 25 november 2005 ingediende voorstel van wet tot wijziging van onder meer de Wet op het hoger onderwijs en wetenschappelijk onderzoek en de Wet studiefinanciering 2000 in verband met onder meer invoering van leerrechten in het hoger onderwijs, herziening van de collegegeldsystematiek, invoering van het collegegeldkrediet en invoering van een nieuw aflossingssysteem (financiering in het hoger onderwijs), Kamerstukken II 2005/06, 30 387.
+8. In afwijking van het eerste lid treedt [artikel I, onderdelen I, J en R](https://wetten.overheid.nl/jci1.3:c:BWBR0020830&artikel=I&z=2007-02-01&g=2007-02-01), in werking op het hetzelfde tijdstip als waarop de artikelen IV en VI van het bij koninklijke boodschap van 25 november 2005 ingediende voorstel van wet tot wijziging van onder meer de Wet op het hoger onderwijs en wetenschappelijk onderzoek en de Wet studiefinanciering 2000 in verband met onder meer invoering van leerrechten in het hoger onderwijs, herziening van de collegegeldsystematiek, invoering van het collegegeldkrediet en invoering van een nieuw aflossingssysteem (financiering in het hoger onderwijs), Kamerstukken II 2005/06, 30 387.
 
-9. In afwijking van het eerste lid vindt [artikel IVa](https://wetten.overheid.nl/jci1.3:c:BWBR0020830&artikel=IVa&z=2007-01-01&g=2007-01-01) eerst toepassing nadat het bij koninklijke boodschap van 24 mei 2006 ingediende voorstel van wet tot wijziging van belastingwetten ter realisering van de doelstelling uit de nota «Werken aan winst» (Wet werken aan winst), Kamerstukken II 2005/06, 30 572, in werking is getreden.
+9. In afwijking van het eerste lid vindt [artikel IVa](https://wetten.overheid.nl/jci1.3:c:BWBR0020830&artikel=IVa&z=2007-02-01&g=2007-02-01) eerst toepassing nadat het bij koninklijke boodschap van 24 mei 2006 ingediende voorstel van wet tot wijziging van belastingwetten ter realisering van de doelstelling uit de nota «Werken aan winst» (Wet werken aan winst), Kamerstukken II 2005/06, 30 572, in werking is getreden.
 
-10. In afwijking van het eerste lid treden [artikel I, onderdelen Da en Db](https://wetten.overheid.nl/jci1.3:c:BWBR0020830&artikel=I&z=2007-01-01&g=2007-01-01), en [artikel IV, onderdeel Ca](https://wetten.overheid.nl/jci1.3:c:BWBR0020830&artikel=IV&z=2007-01-01&g=2007-01-01), in werking met ingang van 1 januari 2008.
+10. In afwijking van het eerste lid treden [artikel I, onderdelen Da en Db](https://wetten.overheid.nl/jci1.3:c:BWBR0020830&artikel=I&z=2007-02-01&g=2007-02-01), en [artikel IV, onderdeel Ca](https://wetten.overheid.nl/jci1.3:c:BWBR0020830&artikel=IV&z=2007-02-01&g=2007-02-01), in werking met ingang van 1 januari 2008.
 
 ##### Artikel XXVIII
 
