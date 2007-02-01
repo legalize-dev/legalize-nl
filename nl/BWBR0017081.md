@@ -4,7 +4,7 @@ identifier: "BWBR0017081"
 country: "nl"
 rank: "amvb"
 publication_date: "2021-09-18"
-last_updated: "2004-09-01"
+last_updated: "2007-02-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017081"
 soort: "AMvB"
@@ -55,7 +55,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 2
 
-De volgende gegevens worden aangewezen als gegevens in de zin van [artikel 126n, eerste lid, tweede volzin](onbekend), en [artikel 126u, eerste lid, tweede volzin, van het Wetboek van Strafvordering](onbekend):
+De volgende gegevens worden aangewezen als gegevens in de zin van [artikel 126n, eerste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126n), [artikel 126u, eerste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126u), en [artikel 126zh, eerste lid, tweede volzin, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126zh):
 
 - a. de naam, het adres en de woonplaats van de gebruiker;
 
