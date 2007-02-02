@@ -4,7 +4,7 @@ identifier: "BWBR0007094"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2014-12-12"
-last_updated: "1999-05-14"
+last_updated: "2007-02-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007094"
 soort: "ministeriele-regeling"
@@ -83,7 +83,7 @@ Een kabelvlieger of kleine kabelballon wordt niet gebruikt:
 
 ##### Artikel 4. Speelgoedballons
 
-1. Indien 1000 speelgoedballons, of meer, nagenoeg gelijktijdig worden opgelaten is daarop [artikel 3, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007094&artikel=3&z=1999-05-14&g=1999-05-14) van toepassing.
+1. Indien 1000 speelgoedballons, of meer, nagenoeg gelijktijdig worden opgelaten is daarop [artikel 3, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007094&artikel=3&z=2007-02-02&g=2007-02-02) van toepassing.
 
 2. Bij een oplating, zoals bedoeld in het eerste lid worden geen metalen voorwerpen meegevoerd.
 
@@ -102,3 +102,7 @@ Deze regeling treedt in werking met ingang van 1 januari 1995.
 Deze regeling wordt aangehaald als: Regeling kabelvliegers en kleine ballons.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 8
+
+Deze regeling berust op [artikel 1a, derde lid, van het Luchtverkeersreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=1a).
