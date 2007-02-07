@@ -4,7 +4,7 @@ identifier: "BWBR0010770"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-09-04"
-last_updated: "2006-08-01"
+last_updated: "2007-02-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010770"
 soort: "ministeriele-regeling"
@@ -45,7 +45,7 @@ Besluiten:
 
 1. In deze regeling wordt verstaan onder:
 
-a) het politiekorps: het regionale politiekorps, dan wel het Korps landelijke politiediensten; b) de minister: de Minister van Binnenlandse Zaken en Koninkrijksrelaties; c) het politiedatacommunicatiesysteem (PODACS): het geheel van verbindingen, knooppunten en netwerkaansluitingen tot en met de koppelvlakken dat bestemd is voor de geautomatiseerde uitwisseling van gegevens door middel van draadgebonden telecommunicatievoorzieningen tussen uitsluitend: i) politiekorpsen onderling; ii) politiekorpsen en organisaties en instanties, genoemd in de bij deze regeling behorende bijlage; d) de PODACS-beheerder: de directeur van de Organisatie Informatie- en communicatietechnologie OOV (ITO); e) het koppelvlak: de interface op een PODACS netwerkaansluiting waarop: i) een politiekorps; ii) ii) een organisatie of instantie, genoemd in de bij deze regeling behorende bijlage; haar netwerkapparatuur aansluit. f) PODACS componenten: apparatuur, programmatuur of verbindingen van het PODACS. g) een politielocatie: een ruimte permanent of tijdelijk ingericht ten behoeve van de uitvoering van werkzaamheden van een politiekorps waarbinnen technische en organisatorische voorzieningen zijn getroffen teneinde het uitsluitende gebruik van de ruimte door ambtenaren van een politiekorps zeker te stellen; h) een gemeenschappelijke locatie: een ruimte ingericht ten behoeve van permanente, periodieke of tijdelijke samenwerking tussen het politiekorps en andere organisaties betrokken bij de handhaving van de openbare orde en veiligheid waarbinnen technische en organisatorische voorzieningen zijn getroffen teneinde het uitsluitende gebruik van de ruimte door dit samenwerkingsverband zeker te stellen. i) een overige locatie: een ruimte, niet zijnde een politielocatie of gemeenschappelijke locatie. j) een kiesverbinding: een op initiatief van een partij per communicatiesessie gedefinieerde, tijdelijke verbinding tussen twee partijen.
+a) het politiekorps: het regionale politiekorps, dan wel het Korps landelijke politiediensten; b) de minister: de Minister van Binnenlandse Zaken en Koninkrijksrelaties; c) het politiedatacommunicatiesysteem (PODACS): het geheel van verbindingen, knooppunten en netwerkaansluitingen tot en met de koppelvlakken dat bestemd is voor de geautomatiseerde uitwisseling van gegevens door middel van draadgebonden telecommunicatievoorzieningen tussen uitsluitend: i) politiekorpsen onderling; ii) politiekorpsen en organisaties en instanties, genoemd in de bij deze regeling behorende bijlage; d) de PODACS-beheerder: de directeur van de publiekrechtelijke rechtspersoon Politie Nederland; e) het koppelvlak: de interface op een PODACS netwerkaansluiting waarop: i) een politiekorps; ii) een organisatie of instantie, genoemd in de bij deze regeling behorende bijlage; haar netwerkapparatuur aansluit. f) PODACS componenten: apparatuur, programmatuur of verbindingen van het PODACS. g) een politielocatie: een ruimte permanent of tijdelijk ingericht ten behoeve van de uitvoering van werkzaamheden van een politiekorps waarbinnen technische en organisatorische voorzieningen zijn getroffen teneinde het uitsluitende gebruik van de ruimte door ambtenaren van een politiekorps zeker te stellen; h) een gemeenschappelijke locatie: een ruimte ingericht ten behoeve van permanente, periodieke of tijdelijke samenwerking tussen het politiekorps en andere organisaties betrokken bij de handhaving van de openbare orde en veiligheid waarbinnen technische en organisatorische voorzieningen zijn getroffen teneinde het uitsluitende gebruik van de ruimte door dit samenwerkingsverband zeker te stellen. i) een overige locatie: een ruimte, niet zijnde een politielocatie of gemeenschappelijke locatie. j) een kiesverbinding: een op initiatief van een partij per communicatiesessie gedefinieerde, tijdelijke verbinding tussen twee partijen.
 
 2. In deze regeling wordt mede verstaan onder korpsbeheerder: de minister voor zover het betreft het Korps landelijke politiediensten.
 
@@ -65,7 +65,7 @@ a) het politiekorps: het regionale politiekorps, dan wel het Korps landelijke po
 
 ##### Artikel 3
 
-In afwijking van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010770&paragraaf=2&artikel=2&z=2004-01-24&g=2006-08-01), voor zover het betreft de Koninklijke Marechaussee, en in afwijking van [artikel 2, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0010770&paragraaf=2&artikel=2&z=2004-01-24&g=2006-08-01), voor zover het betreft de regionale en gemeentelijke brandweerkorpsen en de ambulancediensten waaraan krachtens de [Wet Ambulancevervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0002757) vergunning is verleend, mogen verbindingen van het regionale datacommunicatienetwerk van een politiekorps met datacommunicatienetwerken van de Koninklijke Marechaussee en de regionale en gemeentelijke brandweerkorpsen en de ambulancediensten buiten het PODACS worden gerealiseerd onder de voorwaarden dat:
+In afwijking van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010770&paragraaf=2&artikel=2&z=2007-02-07&g=2007-02-07), voor zover het betreft de Koninklijke Marechaussee, en in afwijking van [artikel 2, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0010770&paragraaf=2&artikel=2&z=2007-02-07&g=2007-02-07), voor zover het betreft de regionale en gemeentelijke brandweerkorpsen en de ambulancediensten waaraan krachtens de [Wet Ambulancevervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0002757) vergunning is verleend, mogen verbindingen van het regionale datacommunicatienetwerk van een politiekorps met datacommunicatienetwerken van de Koninklijke Marechaussee en de regionale en gemeentelijke brandweerkorpsen en de ambulancediensten buiten het PODACS worden gerealiseerd onder de voorwaarden dat:
 
 - a). deze verbindingen uitsluitend ten behoeve van noodzakelijke integratie en coördinatie van werkzaamheden van het politiekorps met werkzaamheden van de in de aanhef van dit artikel genoemde organisaties worden gerealiseerd;
 
@@ -75,7 +75,7 @@ In afwijking van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWB
 
 ##### Artikel 4
 
-Ten behoeve van de geautomatiseerde uitwisseling van gegevens, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010770&paragraaf=2&artikel=2&z=2004-01-24&g=2006-08-01), beschikt elk politiekorps over minimaal twee koppelvlakken op het PODACS.
+Ten behoeve van de geautomatiseerde uitwisseling van gegevens, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010770&paragraaf=2&artikel=2&z=2007-02-07&g=2007-02-07), beschikt elk politiekorps over minimaal twee koppelvlakken op het PODACS.
 
 ##### Artikel 5
 
@@ -93,7 +93,7 @@ De korpsbeheerder draagt ervoor zorg dat het datacommunicatienetwerk van het pol
 
 ##### Artikel 7
 
-1. In afwijking van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0010770&paragraaf=3&artikel=6&z=2004-01-24&g=2006-08-01) van deze regeling kan de korpsbeheerder bepalen dat het datacommunicatienetwerk van een politiekorps dat gekoppeld is aan het PODACS voorziet in verbindingen met:
+1. In afwijking van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0010770&paragraaf=3&artikel=6&z=2007-02-07&g=2007-02-07) van deze regeling kan de korpsbeheerder bepalen dat het datacommunicatienetwerk van een politiekorps dat gekoppeld is aan het PODACS voorziet in verbindingen met:
 
 - a). gemeenschappelijke locaties of;
 
@@ -121,7 +121,7 @@ De korpsbeheerder draagt ervoor zorg dat het datacommunicatienetwerk van het pol
 
 ##### Artikel 8
 
-1. Indien bij verbindingen, als bedoeld in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0010770&paragraaf=3&artikel=6&z=2004-01-24&g=2006-08-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0010770&paragraaf=3&artikel=7&z=2004-01-24&g=2006-08-01), gebruik wordt gemaakt van kiesverbindingen worden er voorzieningen getroffen ter beveiliging van deze netwerktoegang tot het datacommunicatienetwerk van het politiekorps dat is gekoppeld aan het PODACS.
+1. Indien bij verbindingen, als bedoeld in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0010770&paragraaf=3&artikel=6&z=2007-02-07&g=2007-02-07) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0010770&paragraaf=3&artikel=7&z=2007-02-07&g=2007-02-07), gebruik wordt gemaakt van kiesverbindingen worden er voorzieningen getroffen ter beveiliging van deze netwerktoegang tot het datacommunicatienetwerk van het politiekorps dat is gekoppeld aan het PODACS.
 
 2. Deze voorzieningen houden ten minste in:
 
@@ -135,7 +135,7 @@ De korpsbeheerder draagt ervoor zorg dat het datacommunicatienetwerk van het pol
 
 ##### Artikel 9
 
-1. De juiste werking van op basis van de [artikelen 2, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0010770&paragraaf=2&artikel=2&z=2004-01-24&g=2006-08-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0010770&paragraaf=2&artikel=3&z=2004-01-24&g=2006-08-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0010770&paragraaf=3&artikel=7&z=2004-01-24&g=2006-08-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0010770&paragraaf=3&artikel=8&z=2004-01-24&g=2006-08-01), te treffen voorzieningen wordt periodiek door het politiekorps gecontroleerd.
+1. De juiste werking van op basis van de [artikelen 2, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0010770&paragraaf=2&artikel=2&z=2007-02-07&g=2007-02-07), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0010770&paragraaf=2&artikel=3&z=2007-02-07&g=2007-02-07), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0010770&paragraaf=3&artikel=7&z=2007-02-07&g=2007-02-07) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0010770&paragraaf=3&artikel=8&z=2007-02-07&g=2007-02-07), te treffen voorzieningen wordt periodiek door het politiekorps gecontroleerd.
 
 2. Over de in het eerste lid bedoelde controle wordt aan de korpsbeheerder verslag uitgebracht.
 
@@ -157,7 +157,7 @@ Indien de korpsbeheerder niet of niet volledig toepassing geeft aan deze regelin
 
 1. De korpsbeheerders geven binnen één jaar na inwerkingtreding van deze regeling uitvoering aan deze regeling.
 
-2. Ter uitvoering van [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010770&paragraaf=2&artikel=2&z=2004-01-24&g=2006-08-01), zal door middel van een inventarisatie onder de politiekorpsen worden bepaald:
+2. Ter uitvoering van [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010770&paragraaf=2&artikel=2&z=2007-02-07&g=2007-02-07), zal door middel van een inventarisatie onder de politiekorpsen worden bepaald:
 
 - a). over welke koppelingen de politiekorpsen reeds beschikken;
 
@@ -179,7 +179,7 @@ Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van 
 
 Deze regeling wordt aangehaald als: PODACS-regeling.
 
-## Bijlage. behorend bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010770&paragraaf=2&artikel=2&z=2004-01-24&g=2006-08-01)
+## Bijlage. behorend bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010770&paragraaf=2&artikel=2&z=2007-02-07&g=2007-02-07)
 
 De politiekorpsen maken, bij de geautomatiseerde uitwisseling van gegevens door middel van draadgebonden telecommunicatie-voorzieningen, met de in deze bijlage opgenomen organisaties en instanties uitsluitend gebruik van het PODACS.
 
@@ -193,7 +193,7 @@ De politiekorpsen maken, bij de geautomatiseerde uitwisseling van gegevens door 
 
 - 5. Interpol;
 
-- 6. de Organisatie Informatie- en communicatietechnologie OOV (ITO);
+- 6. de publiekrechtelijke rechtspersoon Politie Nederland;
 
 - 7. het Ministerie van Justitie: het bestuursdepartement, de daaronder ressorterende diensten en instanties zoals:
 
@@ -213,7 +213,7 @@ De politiekorpsen maken, bij de geautomatiseerde uitwisseling van gegevens door 
 
 - 9. Nationaal Coördinatiecentrum (NCC);
 
-- 10. Nederlands Politie Instituut;
+- 10. vervallen;
 
 - 11. Politie Adviescentrum In Pact;
 
