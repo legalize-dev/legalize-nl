@@ -4,7 +4,7 @@ identifier: "BWBR0016699"
 country: "nl"
 rank: "amvb"
 publication_date: "2013-04-01"
-last_updated: "2005-07-29"
+last_updated: "2007-02-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016699"
 soort: "AMvB"
@@ -71,13 +71,11 @@ Een aanbieder van een systeem voor voorwaardelijke toegang biedt slechts een sys
 
 onder de voorwaarde dat de verwerking in hetzelfde product geen afbreuk doet aan de veiligheid van de transacties van de aanbieder van systemen voor voorwaardelijke toegang.
 
-#### Paragraaf 2. Vertrouwelijkheid van informatie bij interoperabiliteit en toegang
+#### Paragraaf 2. Nadere regels ter uitvoering van [hoofdstuk 6a van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a)
 
 ##### Artikel 5
 
-1. Voor zover [artikel 6.1, tweede lid, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=6.1) hierin niet reeds voorziet mogen aanbieders van elektronische communicatienetwerken of aanbieders van elektronische communicatiediensten informatie die voor of tijdens onderhandelingen over interoperabiliteitovereenkomsten of toegangsovereenkomsten aan hen is verstrekt, alsmede informatie die bij de uitvoering van de overeenkomst is of kan worden verkregen uitsluitend gebruiken voor het doel waarvoor deze informatie is verstrekt, respectievelijk uitsluitend gebruiken voor de uitvoering van de overeenkomst. De verkregen of opgeslagen informatie wordt vertrouwelijk behandeld en wordt niet doorgegeven aan enige andere partij die door die informatie concurrentievoordeel zouden kunnen behalen.
-
-2. Het verbod op doorgifte van verkregen en opgeslagen informatie, bedoeld in het eerste lid, heeft in het bijzonder betrekking op de doorgifte van deze informatie door betrokken aanbieders aan andere afdelingen, dochterondernemingen of partners.
+Vervallen
 
 ##### Artikel 6
 
