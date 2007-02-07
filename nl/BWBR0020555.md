@@ -4,7 +4,7 @@ identifier: "BWBR0020555"
 country: "nl"
 rank: "wet"
 publication_date: "2007-02-07"
-last_updated: "2006-12-13"
+last_updated: "2007-02-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020555"
 soort: "wet"
@@ -138,7 +138,7 @@ Na inwerkingtreding van deze wet berust:
 
 - b. het [Besluit alternatieve verdeling nummers](https://wetten.overheid.nl/jci1.3:c:BWBR0014124) op [artikel 4.2, tiende lid, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=4.2).
 
-- c. dit onderdeel is nog niet in werking getreden.
+- c. het [Besluit elektronische handtekening](https://wetten.overheid.nl/jci1.3:c:BWBR0015047) mede op de [artikelen 18.17](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=18.17) en [18.17a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=18.17a), in plaats van [artikel 18.17, eerste en vijfde lid, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=18.17).
 
 ##### Artikel XXV
 
@@ -146,11 +146,11 @@ De [wet van 17 december 2003 tot wijziging van de Telecommunicatiewet en de Wet 
 
 ##### Artikel XXVI
 
-1. Met uitzondering van [artikel XXIV, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0020555&artikel=XXIV&z=2006-12-13&g=2006-12-13), treden de artikelen van deze wet in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
+1. Met uitzondering van [artikel XXIV, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0020555&artikel=XXIV&z=2007-02-07&g=2007-02-07), treden de artikelen van deze wet in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-2. [Artikel XXIV, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020555&artikel=XXIV&z=2006-12-13&g=2006-12-13), treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst en werkt terug tot en met 27 juli 2001.
+2. [Artikel XXIV, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020555&artikel=XXIV&z=2007-02-07&g=2007-02-07), treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst en werkt terug tot en met 27 juli 2001.
 
-3. [Artikel XXIV, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0020555&artikel=XXIV&z=2006-12-13&g=2006-12-13), treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst en werkt terug tot en met 19 mei 2004.
+3. [Artikel XXIV, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0020555&artikel=XXIV&z=2007-02-07&g=2007-02-07), treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst en werkt terug tot en met 19 mei 2004.
 
 ##### Artikel XXVII
 
