@@ -4,7 +4,7 @@ identifier: "BWBR0006518"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-04-01"
-last_updated: "2006-12-22"
+last_updated: "2007-02-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006518"
 soort: "AMvB"
@@ -56,7 +56,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - d. Het LSOP: het Landelijk selectie- en opleidingsinstituut politie, bedoeld in [artikel 2 van het LSOP-wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006942&artikel=2);
 
-- e. ITO: de Organisatie Informatie- en communicatietechnologie OOV;
+- e. voorziening tot samenwerking: een publiekrechtelijke rechtspersoon als bedoeld in [artikel 47a, eerste lid, van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=47a);
 
 - f. ambtenaar: de ambtenaar, bedoeld in [artikel 1, onderdeel h, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1);
 
@@ -64,35 +64,37 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - 1°. de korpsbeheerder, voor zover het betreft de ambtenaar die werkzaam is bij een regionaal politiekorps.
 
-- 2°. Onze Minister, voor zover het betreft de ambtenaar die werkzaam is bij het Korps landelijke politiediensten of bij ITO;
+- 2°. Onze Minister, voor zover het betreft de ambtenaar die werkzaam is bij het Korps landelijke politiediensten;
 
 - 3°. Onze Minister van Justitie, voor zover het betreft de bijzondere ambtenaar van politie;
 
-- 4°. de bestuursraad van het LSOP, voor zover het betreft het LSOP.
+- 4°. de bestuursraad van het LSOP, voor zover het betreft het LSOP;
+
+- 5°. het algemeen bestuur van een voorziening tot samenwerking, voor zover het betreft de ambtenaren aangesteld bij de desbetreffende voorziening tot samenwerking;
 
 - h. korpschef: de korpschef, bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=24) onderscheidenlijk [artikel 38 van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=38);
 
 - i. Centrale: een centrale van overheidspersoneel als bedoeld in [artikel 1 van de Regeling overleg Raad voor het Overheidspersoneelsbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0008494&artikel=1);
 
-- j. Commissie: de Commissie voor georganiseerd overleg in politie-ambtenarenzaken, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=1&artikel=2&z=2006-12-22&g=2006-12-22);
+- j. Commissie: de Commissie voor georganiseerd overleg in politie-ambtenarenzaken, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=1&artikel=2&z=2007-02-09&g=2007-02-09);
 
-- k. Regionale Commissie: de Regionale Commissie voor georganiseerd overleg in politie-ambtenarenzaken in het regionaal politiekorps, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=2&artikel=12&z=2006-12-22&g=2006-12-22);
+- k. Regionale Commissie: de Regionale Commissie voor georganiseerd overleg in politie-ambtenarenzaken in het regionaal politiekorps, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=2&artikel=12&z=2007-02-09&g=2007-02-09);
 
-- l. Commissie Korps landelijke politiediensten: de Commissie voor georganiseerd overleg in politie-ambtenarenzaken in het Korps landelijke politiediensten, bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=3&artikel=21&z=2006-12-22&g=2006-12-22).
+- l. Commissie Korps landelijke politiediensten: de Commissie voor georganiseerd overleg in politie-ambtenarenzaken in het Korps landelijke politiediensten, bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=3&artikel=21&z=2007-02-09&g=2007-02-09).
 
-- m. Commissie bijzondere ambtenaren van politie: de Commissie voor georganiseerd overleg in politie-ambtenarenzaken ten behoeve van de bijzondere ambtenaren van politie, bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=4&artikel=22&z=2006-12-22&g=2006-12-22);
+- m. Commissie bijzondere ambtenaren van politie: de Commissie voor georganiseerd overleg in politie-ambtenarenzaken ten behoeve van de bijzondere ambtenaren van politie, bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=4&artikel=22&z=2007-02-09&g=2007-02-09);
 
-- n. Commissie LSOP: de Commissie voor georganiseerd overleg in politie-ambtenarenzaken ten behoeve van de ambtenaren van het LSOP, bedoeld in [artikel 22**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=4A&artikel=22a&z=2006-12-22&g=2006-12-22);
+- n. Commissie LSOP: de Commissie voor georganiseerd overleg in politie-ambtenarenzaken ten behoeve van de ambtenaren van het LSOP, bedoeld in [artikel 22a](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=4A&artikel=22a&z=2007-02-09&g=2007-02-09);
 
-- o. Commissie ITO: de Commissie voor georganiseerd overleg in politie-ambtenarenzaken ten behoeve van de ambtenaren van ITO, bedoeld in [artikel 22b](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=4B&artikel=22b&z=2006-12-22&g=2006-12-22).
+- o. Commissie voorziening tot samenwerking: de Commissie voor georganiseerd overleg in politieambtenarenzaken ten behoeve van de ambtenaren werkzaam bij een voorziening tot samenwerking, bedoeld in [artikel 22b](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=4B&artikel=22b&z=2007-02-09&g=2007-02-09);
 
-- o. Pensioenreglement: het Pensioenreglement van de Stichting Pensioenfonds ABP;
+- p. Pensioenreglement: het Pensioenreglement van de Stichting Pensioenfonds ABP;
 
-- p. Stichting Pensioenfonds ABP: de Stichting Pensioenfonds ABP, bedoeld in [artikel 6 van de Wet privatisering ABP](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&artikel=6);
+- q. Stichting Pensioenfonds ABP: de Stichting Pensioenfonds ABP, bedoeld in [artikel 6 van de Wet privatisering ABP](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&artikel=6);
 
-- q. AFUP-opbouwreglement: het reglement bedoeld in artikel 2.4b, tweede lid, van het pensioenreglement;
+- r. AFUP-opbouwreglement: het reglement bedoeld in artikel 2.4b, tweede lid, van het pensioenreglement;
 
-- r. AFUP: de in het AFUP-opbouwreglement neergelegde regeling.
+- s. AFUP: de in het AFUP-opbouwreglement neergelegde regeling.
 
 ### Hoofdstuk II. Het overleg met verenigingen van ambtenaren
 
@@ -132,7 +134,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 1. Er is een sectorale commissie Politie.
 
-2. De sectorale commissie Politie bestaat uit vier leden namens de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=1&artikel=2&z=2006-12-22&g=2006-12-22), bedoelde Commissie en vier leden namens Onze Minister.
+2. De sectorale commissie Politie bestaat uit vier leden namens de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=1&artikel=2&z=2007-02-09&g=2007-02-09), bedoelde Commissie en vier leden namens Onze Minister.
 
 3. De sectorale commissie heeft tot taak:
 
@@ -156,7 +158,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 5. Het secretariaat van het overleg wordt gevoerd door een door Onze Minister benoemde secretaris of daartoe aangewezen functionaris, die onder leiding van de voorzitter ter beschikking staat van deze, van de in het derde lid bedoelde functionarissen en van de leden van de Commissie. De benoeming van de secretaris of de aanwijzing van een functionaris daartoe geschiedt, de Commissie gehoord.
 
-6. Bij de behandeling van bepaalde aangelegenheden kan op uitnodiging of met toestemming van de voorzitter ook door anderen dan degenen die daartoe ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=1&artikel=2&z=2006-12-22&g=2006-12-22) gerechtigd zijn, aan het overleg worden deelgenomen.
+6. Bij de behandeling van bepaalde aangelegenheden kan op uitnodiging of met toestemming van de voorzitter ook door anderen dan degenen die daartoe ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=1&artikel=2&z=2007-02-09&g=2007-02-09) gerechtigd zijn, aan het overleg worden deelgenomen.
 
 7. De leden van de Commissie kunnen zich na overleg met de voorzitter ter vergadering voor de behandeling van een bepaald onderwerp door deskundigen laten bijstaan.
 
@@ -166,7 +168,7 @@ De verenigingen van ambtenaren die vertegenwoordigd zijn in de Commissie, doen a
 
 ##### Artikel 6
 
-1. De in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=1&artikel=3&z=2006-12-22&g=2006-12-22), bedoelde aangelegenheden worden door de voorzitter op de agenda van het overleg met de Commissie geplaatst.
+1. De in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=1&artikel=3&z=2007-02-09&g=2007-02-09), bedoelde aangelegenheden worden door de voorzitter op de agenda van het overleg met de Commissie geplaatst.
 
 2. Elke tot de Commissie toegelaten vereniging van ambtenaren is bevoegd aan de voorzitter van het overleg met de Commissie bepaalde tot de competentie van de Commissie behorende onderwerpen ter plaatsing op de agenda op te geven.
 
@@ -186,7 +188,7 @@ Onze Minister verleent zijn bemiddeling om aan de Commissie een lokaliteit in ee
 
 1. Indien het wenselijk blijkt voorbereidende besprekingen te voeren of in de Commissie genomen besluiten uit te werken, geschiedt dit door werkgroepen, bestaande uit vertegenwoordigers van de Commissie en door Onze Minister daartoe aangewezen functionarissen.
 
-2. [Artikel 4, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=1&artikel=4&z=2006-12-22&g=2006-12-22), is van overeenkomstige toepassing.
+2. [Artikel 4, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=1&artikel=4&z=2007-02-09&g=2007-02-09), is van overeenkomstige toepassing.
 
 ##### Artikel 10
 
@@ -216,7 +218,7 @@ Bovendien kan op verzoek van de leden van de Commissie of van de voorzitter van 
 
 2. De Regionale Commissie bestaat uit vertegenwoordigers van:
 
-- a. de verenigingen van ambtenaren, bedoeld in [artikel 2, tweede lid, onder a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=1&artikel=2&z=2006-12-22&g=2006-12-22);
+- a. de verenigingen van ambtenaren, bedoeld in [artikel 2, tweede lid, onder a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=1&artikel=2&z=2007-02-09&g=2007-02-09);
 
 - b. andere door de korpsbeheerder tot het overleg toegelaten verenigingen van ambtenaren die eveneens representatief zijn, onder meer gelet op het aantal ambtenaren dat zij vertegenwoordigen en welke aangesloten zijn bij een Centrale en tegen wier toelating het algemeen belang zich niet verzet.
 
@@ -230,7 +232,7 @@ Bovendien kan op verzoek van de leden van de Commissie of van de voorzitter van 
 
 ##### Artikel 13
 
-1. Over aangelegenheden van algemeen belang voor de rechtstoestand van de ambtenaar, met inbegrip van de algemene regels volgens welke het personeelsbeleid zal worden gevoerd, die uitsluitend het regionaal politiekorps betreffen en bovendien niet ontleend zijn aan noch vergelijkbaar zijn met een aangelegenheid als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=1&artikel=3&z=2006-12-22&g=2006-12-22), wordt niet beslist dan nadat daarover door of namens de korpsbeheerder overleg is gepleegd met de Regionale Commissie.
+1. Over aangelegenheden van algemeen belang voor de rechtstoestand van de ambtenaar, met inbegrip van de algemene regels volgens welke het personeelsbeleid zal worden gevoerd, die uitsluitend het regionaal politiekorps betreffen en bovendien niet ontleend zijn aan noch vergelijkbaar zijn met een aangelegenheid als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=1&artikel=3&z=2007-02-09&g=2007-02-09), wordt niet beslist dan nadat daarover door of namens de korpsbeheerder overleg is gepleegd met de Regionale Commissie.
 
 2. Het eerste lid blijft buiten toepassing:
 
@@ -240,7 +242,7 @@ Bovendien kan op verzoek van de leden van de Commissie of van de voorzitter van 
 
 3. Het in het tweede lid, onder **b**, bedoelde overleg met de Commissie vindt eerst plaats nadat zij het standpunt van de Regionale Commissie ter zake in afschrift heeft ontvangen.
 
-4. Een voorstel strekkende tot invoering of wijziging van een regeling met rechten of verplichtingen van individuele ambtenaren, die een uitwerking is van een voorstel waarover in het in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=1&artikel=2&z=2006-12-22&g=2006-12-22), bedoelde overleg overeenstemming is bereikt, wordt slechts ten uitvoer gebracht indien daarover overeenstemming bestaat met de Regionale Commissie.
+4. Een voorstel strekkende tot invoering of wijziging van een regeling met rechten of verplichtingen van individuele ambtenaren, die een uitwerking is van een voorstel waarover in het in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=1&artikel=2&z=2007-02-09&g=2007-02-09), bedoelde overleg overeenstemming is bereikt, wordt slechts ten uitvoer gebracht indien daarover overeenstemming bestaat met de Regionale Commissie.
 
 ##### Artikel 14
 
@@ -252,7 +254,7 @@ Bovendien kan op verzoek van de leden van de Commissie of van de voorzitter van 
 
 4. Het secretariaat van het overleg wordt gevoerd door een door de korpsbeheerder benoemde secretaris of daartoe aangewezen functionaris, die onder leiding van de voorzitter ter beschikking staat van deze, van de in het derde lid bedoelde functionarissen en van de leden van de Regionale Commissie. De benoeming van de secretaris of de aanwijzing van een functionaris daartoe geschiedt, de Regionale Commissie gehoord.
 
-5. Bij de behandeling van bepaalde aangelegenheden kan op uitnodiging of met toestemming van de voorzitter ook door anderen dan degenen die daartoe ingevolge [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=2&artikel=12&z=2006-12-22&g=2006-12-22) gerechtigd zijn, aan het overleg worden deelgenomen.
+5. Bij de behandeling van bepaalde aangelegenheden kan op uitnodiging of met toestemming van de voorzitter ook door anderen dan degenen die daartoe ingevolge [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=2&artikel=12&z=2007-02-09&g=2007-02-09) gerechtigd zijn, aan het overleg worden deelgenomen.
 
 6. De leden van de Regionale Commissie kunnen zich na overleg met de voorzitter ter vergadering voor de behandeling van een bepaald onderwerp door deskundigen laten bijstaan.
 
@@ -262,7 +264,7 @@ De verenigingen van ambtenaren die vertegenwoordigd zijn in de Regionale Commiss
 
 ##### Artikel 16
 
-1. De in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=2&artikel=13&z=2006-12-22&g=2006-12-22), bedoelde aangelegenheden worden door de voorzitter op de agenda van het overleg met de Regionale Commissie geplaatst.
+1. De in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=2&artikel=13&z=2007-02-09&g=2007-02-09), bedoelde aangelegenheden worden door de voorzitter op de agenda van het overleg met de Regionale Commissie geplaatst.
 
 2. Elke tot de Regionale Commissie toegelaten vereniging van ambtenaren is bevoegd aan de voorzitter van het overleg met de Regionale Commissie bepaalde tot de competentie van de Regionale Commissie behorende onderwerpen ter plaatsing op de agenda op te geven.
 
@@ -280,13 +282,13 @@ De verenigingen van ambtenaren die vertegenwoordigd zijn in de Regionale Commiss
 
 1. Indien het wenselijk blijkt voorbereidende besprekingen te voeren of in de Regionale Commissie genomen besluiten uit te werken, geschiedt dit door werkgroepen, bestaande uit vertegenwoordigers van de Regionale Commissie en door de korpsbeheerder daartoe aangewezen functionarissen.
 
-2. [Artikel 14, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=2&artikel=14&z=2006-12-22&g=2006-12-22), is van overeenkomstige toepassing.
+2. [Artikel 14, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=2&artikel=14&z=2007-02-09&g=2007-02-09), is van overeenkomstige toepassing.
 
 ##### Artikel 19
 
 1. Het standpunt van de Regionale Commissie wordt bepaald bij eenvoudige meerderheid van stemmen. Elke vereniging van ambtenaren brengt één stem uit. Indien de stemmen binnen de Regionale Commissie staken, beslist de voorzitter van het overleg met die Regionale Commissie of het voorstel ten uitvoer worden gebracht.
 
-2. Het standpunt van de Regionale Commissie over in het overleg besproken aangelegenheden wordt schriftelijk aan de korpsbeheerder en aan de voorzitter van het overleg, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=1&artikel=2&z=2006-12-22&g=2006-12-22), meegedeeld. De Regionale Commissie geeft desverlangd een samenvatting van de aan het standpunt ten grondslag liggende argumenten.
+2. Het standpunt van de Regionale Commissie over in het overleg besproken aangelegenheden wordt schriftelijk aan de korpsbeheerder en aan de voorzitter van het overleg, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=1&artikel=2&z=2007-02-09&g=2007-02-09), meegedeeld. De Regionale Commissie geeft desverlangd een samenvatting van de aan het standpunt ten grondslag liggende argumenten.
 
 3. Indien in de Regionale Commissie een minderheidsstandpunt blijkt te bestaan, wordt daarvan desverlangd in de in het tweede lid bedoelde geschriften melding gemaakt.
 
@@ -306,7 +308,7 @@ De verenigingen van ambtenaren die vertegenwoordigd zijn in de Regionale Commiss
 
 1. Er is een Commissie Korps landelijke politiediensten.
 
-2. Over aangelegenheden van algemeen belang voor de rechtstoestand van de ambtenaar, met inbegrip van de algemene regels volgens welke het personeelsbeleid zal worden gevoerd, die uitsluitend het Korps landelijke politiediensten betreffen en bovendien niet ontleend zijn aan noch vergelijkbaar zijn met een aangelegenheid als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=1&artikel=3&z=2006-12-22&g=2006-12-22), wordt niet beslist dan nadat daarover door of namens Onze Minister overleg is gepleegd met de Commissie Korps landelijke politiediensten.
+2. Over aangelegenheden van algemeen belang voor de rechtstoestand van de ambtenaar, met inbegrip van de algemene regels volgens welke het personeelsbeleid zal worden gevoerd, die uitsluitend het Korps landelijke politiediensten betreffen en bovendien niet ontleend zijn aan noch vergelijkbaar zijn met een aangelegenheid als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=1&artikel=3&z=2007-02-09&g=2007-02-09), wordt niet beslist dan nadat daarover door of namens Onze Minister overleg is gepleegd met de Commissie Korps landelijke politiediensten.
 
 3. Het tweede lid blijft buiten toepassing:
 
@@ -316,9 +318,9 @@ De verenigingen van ambtenaren die vertegenwoordigd zijn in de Regionale Commiss
 
 4. Het in het derde lid, onder **b**, bedoelde overleg met de Commissie vindt eerst plaats nadat zij het standpunt van de Commissie Korps landelijke politiediensten terzake in afschrift heeft ontvangen.
 
-5. Een voorstel strekkende tot invoering of wijziging van een regeling met rechten of verplichtingen van individuele ambtenaren, die een uitwerking is van een voorstel waarover in het in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=1&artikel=2&z=2006-12-22&g=2006-12-22), bedoelde overleg overeenstemming is bereikt, wordt slechts ten uitvoer gebracht indien daarover overeenstemming bestaat met de Commissie Korps landelijke politiediensten.
+5. Een voorstel strekkende tot invoering of wijziging van een regeling met rechten of verplichtingen van individuele ambtenaren, die een uitwerking is van een voorstel waarover in het in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=1&artikel=2&z=2007-02-09&g=2007-02-09), bedoelde overleg overeenstemming is bereikt, wordt slechts ten uitvoer gebracht indien daarover overeenstemming bestaat met de Commissie Korps landelijke politiediensten.
 
-6. Het overleg met de Commissie Korps landelijke politiediensten vindt plaats overeenkomstig de [artikelen 12 tot en met 20](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=2&artikel=12&z=2006-12-22&g=2006-12-22), met dien verstande dat:
+6. Het overleg met de Commissie Korps landelijke politiediensten vindt plaats overeenkomstig de [artikelen 12 tot en met 20](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=2&artikel=12&z=2007-02-09&g=2007-02-09), met dien verstande dat:
 
 - a. voor de toepassing van deze afdeling wordt verstaan onder:
 
@@ -336,7 +338,7 @@ De verenigingen van ambtenaren die vertegenwoordigd zijn in de Regionale Commiss
 
 1. Er is een Commissie bijzondere ambtenaren van politie.
 
-2. Over aangelegenheden van algemeen belang voor de rechtstoestand van de ambtenaar, met inbegrip van de algemene regels volgens welke het personeelsbeleid zal worden gevoerd, die uitsluitend de bijzondere ambtenaren van politie betreffen en bovendien niet ontleend zijn aan noch vergelijkbaar zijn met een aangelegenheid als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=1&artikel=3&z=2006-12-22&g=2006-12-22), wordt niet beslist dan nadat daarover door of namens Onze Minister van Justitie overleg is gepleegd met de Commissie bijzondere ambtenaren van politie.
+2. Over aangelegenheden van algemeen belang voor de rechtstoestand van de ambtenaar, met inbegrip van de algemene regels volgens welke het personeelsbeleid zal worden gevoerd, die uitsluitend de bijzondere ambtenaren van politie betreffen en bovendien niet ontleend zijn aan noch vergelijkbaar zijn met een aangelegenheid als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=1&artikel=3&z=2007-02-09&g=2007-02-09), wordt niet beslist dan nadat daarover door of namens Onze Minister van Justitie overleg is gepleegd met de Commissie bijzondere ambtenaren van politie.
 
 3. Het tweede lid blijft buiten toepassing:
 
@@ -346,9 +348,9 @@ De verenigingen van ambtenaren die vertegenwoordigd zijn in de Regionale Commiss
 
 4. Het in het derde lid, onder **b**, bedoelde overleg met de Commissie vindt eerst plaats nadat zij het standpunt van de Commissie bijzondere ambtenaren van politie terzake in afschrift heeft ontvangen.
 
-5. Een voorstel strekkende tot invoering of wijziging van een regeling met rechten of verplichtingen van individuele ambtenaren, die een uitwerking is van een voorstel waarover in het in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=1&artikel=2&z=2006-12-22&g=2006-12-22), bedoelde overleg overeenstemming is bereikt, wordt slechts ten uitvoer gebracht indien daarover overeenstemming bestaat met de Commissie bijzondere ambtenaren van politie.
+5. Een voorstel strekkende tot invoering of wijziging van een regeling met rechten of verplichtingen van individuele ambtenaren, die een uitwerking is van een voorstel waarover in het in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=1&artikel=2&z=2007-02-09&g=2007-02-09), bedoelde overleg overeenstemming is bereikt, wordt slechts ten uitvoer gebracht indien daarover overeenstemming bestaat met de Commissie bijzondere ambtenaren van politie.
 
-6. Het overleg met de Commissie bijzondere ambtenaren van politie vindt plaats overeenkomstig de [artikelen 12 tot en met 20](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=2&artikel=12&z=2006-12-22&g=2006-12-22), met dien verstande dat:
+6. Het overleg met de Commissie bijzondere ambtenaren van politie vindt plaats overeenkomstig de [artikelen 12 tot en met 20](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=2&artikel=12&z=2007-02-09&g=2007-02-09), met dien verstande dat:
 
 - a. voor de toepassing van deze afdeling wordt verstaan onder:
 
@@ -366,7 +368,7 @@ De verenigingen van ambtenaren die vertegenwoordigd zijn in de Regionale Commiss
 
 1. Er is een Commissie LSOP.
 
-2. Over aangelegenheden van algemeen belang voor de rechtstoestand van de ambtenaar, met inbegrip van de algemene regels volgens welke het personeelsbeleid zal worden gevoerd, die uitsluitend de ambtenaren van het LSOP betreffen en bovendien niet ontleend zijn aan noch vergelijkbaar zijn met een aangelegenheid als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=1&artikel=3&z=2006-12-22&g=2006-12-22), wordt niet beslist dan nadat daarover door of namens de bestuursraad van het LSOP overleg is gepleegd met de Commissie LSOP.
+2. Over aangelegenheden van algemeen belang voor de rechtstoestand van de ambtenaar, met inbegrip van de algemene regels volgens welke het personeelsbeleid zal worden gevoerd, die uitsluitend de ambtenaren van het LSOP betreffen en bovendien niet ontleend zijn aan noch vergelijkbaar zijn met een aangelegenheid als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=1&artikel=3&z=2007-02-09&g=2007-02-09), wordt niet beslist dan nadat daarover door of namens de bestuursraad van het LSOP overleg is gepleegd met de Commissie LSOP.
 
 3. Het tweede lid blijft buiten toepassing:
 
@@ -376,9 +378,9 @@ De verenigingen van ambtenaren die vertegenwoordigd zijn in de Regionale Commiss
 
 4. Het in het derde lid, onder **b**, bedoelde overleg met de Commissie vindt eerst plaats nadat zij het standpunt van de Commissie LSOP terzake in afschrift heeft ontvangen.
 
-5. Een voorstel strekkende tot invoering of wijziging van een regeling met rechten of verplichtingen van individuele ambtenaren, die een uitwerking is van een voorstel waarover in het in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=1&artikel=2&z=2006-12-22&g=2006-12-22), bedoelde overleg overeenstemming is bereikt, wordt slechts ten uitvoer gebracht indien daarover overeenstemming bestaat met de Commissie LSOP.
+5. Een voorstel strekkende tot invoering of wijziging van een regeling met rechten of verplichtingen van individuele ambtenaren, die een uitwerking is van een voorstel waarover in het in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=1&artikel=2&z=2007-02-09&g=2007-02-09), bedoelde overleg overeenstemming is bereikt, wordt slechts ten uitvoer gebracht indien daarover overeenstemming bestaat met de Commissie LSOP.
 
-6. Het overleg met de Commissie LSOP vindt plaats overeenkomstig de [artikelen 12 tot en met 20](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=2&artikel=12&z=2006-12-22&g=2006-12-22), met dien verstande dat:
+6. Het overleg met de Commissie LSOP vindt plaats overeenkomstig de [artikelen 12 tot en met 20](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=2&artikel=12&z=2007-02-09&g=2007-02-09), met dien verstande dat:
 
 - a. voor de toepassing van deze afdeling wordt verstaan onder:
 
@@ -390,35 +392,35 @@ De verenigingen van ambtenaren die vertegenwoordigd zijn in de Regionale Commiss
 
 - b. de bestuursraad van het LSOP de voorzitter en de plaatsvervangend voorzitter van het overleg met de Commissie LSOP aanwijst.
 
-### Afdeling 4B. Het overleg met de Commissie ITO
+### Afdeling 4B. Het overleg met de Commissie voorziening tot samenwerking
 
 ##### Artikel 22b
 
-1. Er is een Commissie ITO.
+1. Er is een Commissie voorziening tot samenwerking voor elke voorziening tot samenwerking.
 
-2. Over aangelegenheden van algemeen belang voor de rechtstoestand van de ambtenaar, met inbegrip van de algemene regels volgens welke het personeelsbeleid zal worden gevoerd, die uitsluitend de ambtenaren van ITO betreffen en bovendien niet ontleend zijn aan noch vergelijkbaar zijn met een aangelegenheid als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=1&artikel=3&z=2006-12-22&g=2006-12-22), wordt niet beslist dan nadat daarover door of namens Onze Minister overleg is gepleegd met de Commissie ITO.
+2. Over aangelegenheden van algemeen belang voor de rechtstoestand van de ambtenaar, met inbegrip van de algemene regels volgens welke het personeelsbeleid zal worden gevoerd, die uitsluitend de ambtenaren van een voorziening tot samenwerking betreffen en bovendien niet ontleend zijn aan noch vergelijkbaar zijn met een aangelegenheid als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=1&artikel=3&z=2007-02-09&g=2007-02-09), wordt niet beslist dan nadat daarover door of namens het algemeen bestuur van een voorziening tot samenwerking overleg is gepleegd met de desbetreffende Commissie voorziening tot samenwerking.
 
 3. Het tweede lid blijft buiten toepassing:
 
 - a. met betrekking tot bij of krachtens de wet gegeven regels over aangelegenheden waarover overleg is gepleegd met de Commissie indien die regels onverkort van toepassing zijn op de ambtenaar;
 
-- b. indien Onze Minister overleg met de Commissie wenselijk acht of de voorzitter van het overleg met de Commissie ITO dan wel één van de leden van de Commissie ITO aan Onze Minister kenbaar maakt dat overleg te wensen.
+- b. indien het algemeen bestuur van een voorziening tot samenwerking overleg met de Commissie wenselijk acht of de voorzitter van het overleg met de desbetreffende Commissie voorziening tot samenwerking dan wel één van de leden van de desbetreffende Commissie voorziening tot samenwerking aan het algemeen bestuur van een voorziening tot samenwerking kenbaar maakt dat overleg te wensen.
 
-4. Het in het derde lid, onder b, bedoelde overleg met de Commissie vindt eerst plaats nadat zij het standpunt van de Commissie ITO terzake in afschrift heeft ontvangen.
+4. Het in het derde lid, onder b, bedoelde overleg met de Commissie vindt eerst plaats nadat zij het standpunt van de desbetreffende Commissie voorziening tot samenwerking terzake in afschrift heeft ontvangen.
 
-5. Een voorstel strekkende tot invoering of wijziging van een regeling met rechten of verplichtingen van individuele ambtenaren, die een uitwerking is van een voorstel waarover in het in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=1&artikel=2&z=2006-12-22&g=2006-12-22), bedoelde overleg overeenstemming is bereikt, wordt slechts ten uitvoer gebracht indien daarover overeenstemming bestaat met de Commissie ITO.
+5. Een voorstel strekkende tot invoering of wijziging van een regeling met rechten of verplichtingen van individuele ambtenaren, die een uitwerking is van een voorstel waarover in het in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=1&artikel=2&z=2007-02-09&g=2007-02-09), bedoelde overleg overeenstemming is bereikt, wordt slechts ten uitvoer gebracht indien daarover overeenstemming bestaat met de desbetreffende Commissie voorziening tot samenwerking.
 
-6. Het overleg met de Commissie ITO vindt plaats overeenkomstig de [artikelen 12 tot en met 20](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=2&artikel=12&z=2006-12-22&g=2006-12-22), met dien verstande dat:
+6. Het overleg met de desbetreffende Commissie voorziening tot samenwerking vindt plaats overeenkomstig de [artikelen 12 tot en met 20](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=2&artikel=12&z=2007-02-09&g=2007-02-09), met dien verstande dat:
 
 - a. voor de toepassing van deze afdeling wordt verstaan onder:
 
-- 1e. regionaal politiekorps: ITO;
+- 1e. regionaal politiekorps: een voorziening tot samenwerking;
 
-- 2e. Regionale Commissie: de Commissie ITO;
+- 2e. Regionale Commissie: de desbetreffende Commissie voorziening tot samenwerking;
 
-- 3e. korpsbeheerder: Onze Minister;
+- 3e. korpsbeheerder: het algemeen bestuur van een voorziening tot samenwerking;
 
-- b. Onze Minister de voorzitter en de plaatsvervangend voorzitter van het overleg met de Commissie ITO aanwijst.
+- b. het algemeen bestuur van een voorziening tot samenwerking de voorzitter en de plaatsvervangend voorzitter van het overleg met de desbetreffende Commissie voorziening tot samenwerking aanwijst.
 
 ### Afdeling 5. Advies en arbitrage
 
@@ -432,17 +434,17 @@ Voor de toepassing van deze afdeling wordt verstaan onder:
 
 ##### Artikel 24
 
-1. Deze afdeling is van toepassing op geschillen inzake aangelegenheden als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=1&artikel=3&z=2006-12-22&g=2006-12-22).
+1. Deze afdeling is van toepassing op geschillen inzake aangelegenheden als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=1&artikel=3&z=2007-02-09&g=2007-02-09).
 
-2. Deze afdeling is van overeenkomstige toepassing op geschillen inzake aangelegenheden als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=2&artikel=13&z=2006-12-22&g=2006-12-22), met dien verstande dat onder Commissie wordt verstaan: de Regionale Commissie.
+2. Deze afdeling is van overeenkomstige toepassing op geschillen inzake aangelegenheden als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=2&artikel=13&z=2007-02-09&g=2007-02-09), met dien verstande dat onder Commissie wordt verstaan: de Regionale Commissie.
 
-3. Deze afdeling is van overeenkomstige toepassing op geschillen inzake aangelegenheden als bedoeld in [artikel 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=3&artikel=21&z=2006-12-22&g=2006-12-22), met dien verstande dat onder Commissie wordt verstaan: de Commissie Korps landelijke politiediensten.
+3. Deze afdeling is van overeenkomstige toepassing op geschillen inzake aangelegenheden als bedoeld in [artikel 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=3&artikel=21&z=2007-02-09&g=2007-02-09), met dien verstande dat onder Commissie wordt verstaan: de Commissie Korps landelijke politiediensten.
 
-4. Deze afdeling is van overeenkomstige toepassing op geschillen inzake aangelegenheden als bedoeld in [artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=4&artikel=22&z=2006-12-22&g=2006-12-22), met dien verstande dat onder Commissie wordt verstaan: de Commissie bijzondere ambtenaren van politie.
+4. Deze afdeling is van overeenkomstige toepassing op geschillen inzake aangelegenheden als bedoeld in [artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=4&artikel=22&z=2007-02-09&g=2007-02-09), met dien verstande dat onder Commissie wordt verstaan: de Commissie bijzondere ambtenaren van politie.
 
-5. Deze afdeling is van overeenkomstige toepassing op geschillen inzake aangelegenheden als bedoeld in [artikel 22**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=4A&artikel=22a&z=2006-12-22&g=2006-12-22), met dien verstande dat onder de Commissie wordt verstaan: de Commissie LSOP.
+5. Deze afdeling is van overeenkomstige toepassing op geschillen inzake aangelegenheden als bedoeld in [artikel 22**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=4A&artikel=22a&z=2007-02-09&g=2007-02-09), met dien verstande dat onder de Commissie wordt verstaan: de Commissie LSOP.
 
-6. Deze afdeling is van overeenkomstige toepassing op geschillen inzake aangelegenheden als bedoeld in [artikel 22b](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=4B&artikel=22b&z=2006-12-22&g=2006-12-22), met dien verstande dat onder de Commissie wordt verstaan: de Commissie ITO.
+6. Deze afdeling is van overeenkomstige toepassing op geschillen inzake aangelegenheden als bedoeld in [artikel 22b](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=4B&artikel=22b&z=2007-02-09&g=2007-02-09), met dien verstande dat onder de de Commissie wordt verstaan: de desbetreffende Commissie voorziening tot samenwerking.
 
 ##### Artikel 25
 
@@ -450,7 +452,7 @@ Indien de voorzitter dan wel één of meer van de tot de Commissie toegelaten ve
 
 ##### Artikel 26
 
-1. Binnen vijf dagen na de kennisgeving, bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=5&artikel=25&z=2006-12-22&g=2006-12-22), schrijft de voorzitter een overlegvergadering uit. De vergadering moet worden gehouden binnen zeven dagen nadat deze is uitgeschreven.
+1. Binnen vijf dagen na de kennisgeving, bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=5&artikel=25&z=2007-02-09&g=2007-02-09), schrijft de voorzitter een overlegvergadering uit. De vergadering moet worden gehouden binnen zeven dagen nadat deze is uitgeschreven.
 
 2. Tenzij door de voorzitter en de Commissie wordt besloten het overleg voort te zetten dan wel te beëindigen wordt in de vergadering nagegaan of overeenstemming bestaat over de vraag wat het onderwerp en de inhoud van het geschil is en of een oplossing van dat geschil zal worden gezocht door middel van voortzetting van het overleg nadat het advies is ingewonnen van de Advies- en Arbitragecommissie, dan wel door middel van onderwerping van het geschil aan een arbitrale uitspraak van de Advies- en Arbitragecommissie.
 
@@ -460,7 +462,7 @@ Indien de voorzitter dan wel één of meer van de tot de Commissie toegelaten ve
 
 ##### Artikel 27
 
-1. Binnen drie dagen na de vergadering, bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=5&artikel=26&z=2006-12-22&g=2006-12-22), wordt het verzoek om advies ter kennis gebracht van de voorzitter van de Advies- en Arbitragecommissie. Het verzoek wordt ondertekend door de deelnemers aan het overleg die zich voor inwinning van advies hebben uitgesproken en bevat tenminste het onderwerp en de inhoud van het geschil. Indien in de vergadering, bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=5&artikel=26&z=2006-12-22&g=2006-12-22), geen overeenstemming is bereikt tussen alle deelnemers aan het overleg over de vraag wat het onderwerp en de inhoud van het geschil is, brengen de overige deelnemers aan het overleg hun visie op het onderwerp en de inhoud van het geschil eveneens binnen drie dagen na eerdergenoemde vergadering ter kennis van de voorzitter van de Advies- en Arbitragecommissie.
+1. Binnen drie dagen na de vergadering, bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=5&artikel=26&z=2007-02-09&g=2007-02-09), wordt het verzoek om advies ter kennis gebracht van de voorzitter van de Advies- en Arbitragecommissie. Het verzoek wordt ondertekend door de deelnemers aan het overleg die zich voor inwinning van advies hebben uitgesproken en bevat tenminste het onderwerp en de inhoud van het geschil. Indien in de vergadering, bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=5&artikel=26&z=2007-02-09&g=2007-02-09), geen overeenstemming is bereikt tussen alle deelnemers aan het overleg over de vraag wat het onderwerp en de inhoud van het geschil is, brengen de overige deelnemers aan het overleg hun visie op het onderwerp en de inhoud van het geschil eveneens binnen drie dagen na eerdergenoemde vergadering ter kennis van de voorzitter van de Advies- en Arbitragecommissie.
 
 2. Het eerste lid, eerste volzin, is van overeenkomstige toepassing ten aanzien van het onderwerpen van het geschil aan een arbitrale uitspraak. Het verzoek daartoe wordt ondertekend door alle deelnemers aan het overleg en dient ten minste te bevatten:
 
@@ -470,7 +472,7 @@ Indien de voorzitter dan wel één of meer van de tot de Commissie toegelaten ve
 
 ##### Artikel 28
 
-1. Met betrekking tot de samenstelling van de Advies- en Arbitragecommissie is [artikel 110**h**, eerste lid, van het ARAR](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=110h), van toepassing met dien verstande dat deze commissie voor de behandeling van een geschil, bedoeld in [artikel 26, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=5&artikel=26&z=2006-12-22&g=2006-12-22), wordt uitgebreid met twee bijzondere leden.
+1. Met betrekking tot de samenstelling van de Advies- en Arbitragecommissie is [artikel 110h, eerste lid, van het ARAR](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=110h), van toepassing met dien verstande dat deze commissie voor de behandeling van een geschil, bedoeld in [artikel 26, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=5&artikel=26&z=2007-02-09&g=2007-02-09), wordt uitgebreid met twee bijzondere leden.
 
 2. De bijzondere leden, bedoeld in het eerste lid, worden door Onze Minister benoemd voor een tijdvak van zes jaren.
 
@@ -478,9 +480,9 @@ Indien de voorzitter dan wel één of meer van de tot de Commissie toegelaten ve
 
 4. Niet benoembaar tot bijzonder lid zijn:
 
-- a. personen die ingevolge [artikel 110**g**, vierde lid, van het ARAR](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=110g) zijn uitgesloten van het lidmaatschap of van het plaatsvervangend lidmaatschap;
+- a. personen die ingevolge [artikel 110g, vierde lid, van het ARAR](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=110g) zijn uitgesloten van het lidmaatschap of van het plaatsvervangend lidmaatschap;
 
-- b. personen die lid of plaatsvervangend lid zijn van de Commissie, van een Regionale Commissie, de Commissie Korps landelijke politiediensten, de Commissie bijzondere ambtenaren van politie, de Commissie LSOP of de Commissie ITO dan wel van wie dit lidmaatschap of plaatsvervangend lidmaatschap nog niet langer dan twee jaar is beëindigd.
+- b. personen die lid of plaatsvervangend lid zijn van de Commissie, van een Regionale Commissie, de Commissie Korps landelijke politiediensten, de Commissie bijzondere ambtenaren van politie, de Commissie LSOP of de de desbetreffende Commissie voorziening tot samenwerking dan wel van wie dit lidmaatschap of plaatsvervangend lidmaatschap nog niet langer dan twee jaar is beëindigd.
 
 5. Overeenkomstig de aan de leden en de plaatsvervangende leden te verlenen vergoedingen worden aan de bijzondere leden uit 's Rijks kas vergoedingen voor reis- en verblijfkosten verleend volgens de regelen welke voor de vergoeding voor reis- en verblijfkosten wegens reizen voor 's Rijks dienst gelden.
 
@@ -490,7 +492,7 @@ Indien de voorzitter dan wel één of meer van de tot de Commissie toegelaten ve
 
 ##### Artikel 29
 
-Voor zover de samenstelling van de Advies- en Arbitragecommissie overeenkomstig [artikel 28, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=5&artikel=28&z=2006-12-22&g=2006-12-22), daartoe aanleiding geeft stelt zij nadere regels vast met betrekking tot haar werkwijze.
+Voor zover de samenstelling van de Advies- en Arbitragecommissie overeenkomstig [artikel 28, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=5&artikel=28&z=2007-02-09&g=2007-02-09), daartoe aanleiding geeft stelt zij nadere regels vast met betrekking tot haar werkwijze.
 
 ##### Artikel 30
 
@@ -506,7 +508,7 @@ Voor zover de samenstelling van de Advies- en Arbitragecommissie overeenkomstig 
 
 3. Het advies of de uitspraak wordt gedagtekend en door ieder der optredende leden en bijzondere leden van de Advies- en Arbitragecommissie ondertekend.
 
-4. De voorzitter draagt er zorg voor dat het advies of de uitspraak binnen vier weken, nadat de kennisgeving, bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=5&artikel=27&z=2006-12-22&g=2006-12-22), is ontvangen, aan de deelnemers aan het overleg ter kennis wordt gebracht.
+4. De voorzitter draagt er zorg voor dat het advies of de uitspraak binnen vier weken, nadat de kennisgeving, bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=5&artikel=27&z=2007-02-09&g=2007-02-09), is ontvangen, aan de deelnemers aan het overleg ter kennis wordt gebracht.
 
 ##### Artikel 31
 
@@ -654,9 +656,9 @@ Vervallen
 
 ##### Artikel 63
 
-1. Onze Minister kan, in overeenstemming met de Commissie, besluiten het overleg met de Regionale Commissies, de Commissie Korps landelijke politiediensten, de Commissie bijzondere ambtenaren van politie, de Commissie LSOP en de Commissie ITO, bedoeld in respectievelijk de [afdelingen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=2&z=2006-12-22&g=2006-12-22), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=3&z=2006-12-22&g=2006-12-22), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=4&z=2006-12-22&g=2006-12-22), [4A](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=4A&z=2006-12-22&g=2006-12-22) en [4 B van hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=4B&z=2006-12-22&g=2006-12-22), op te schorten.
+1. Onze Minister kan, in overeenstemming met de Commissie, besluiten het overleg met de Regionale Commissies, de Commissie Korps landelijke politiediensten, de Commissie bijzondere ambtenaren van politie, de Commissie LSOP en de Commissie ITO, bedoeld in respectievelijk de [afdelingen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=2&z=2007-02-09&g=2007-02-09), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=3&z=2007-02-09&g=2007-02-09), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=4&z=2007-02-09&g=2007-02-09), [4A](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=4A&z=2007-02-09&g=2007-02-09) en [4 B van hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=4B&z=2007-02-09&g=2007-02-09), op te schorten.
 
-2. Onze Minister kan, in overeenstemming met de Commissie, bij het besluit om het overleg op te schorten tevens bepalen dat over de in voormelde afdelingen bedoelde aangelegenheden van algemeen belang voor de rechtstoestand van de ambtenaar, overlegd zal worden, overeenkomstig het bepaalde in [afdeling 1](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=1&z=2006-12-22&g=2006-12-22), met voormelde Commissie.
+2. Onze Minister kan, in overeenstemming met de Commissie, bij het besluit om het overleg op te schorten tevens bepalen dat over de in voormelde afdelingen bedoelde aangelegenheden van algemeen belang voor de rechtstoestand van de ambtenaar, overlegd zal worden, overeenkomstig het bepaalde in [afdeling 1](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=1&z=2007-02-09&g=2007-02-09), met voormelde Commissie.
 
 ##### Artikel 64
 
