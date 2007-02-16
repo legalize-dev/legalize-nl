@@ -4,7 +4,7 @@ identifier: "BWBR0020818"
 country: "nl"
 rank: "amvb"
 publication_date: "2007-02-16"
-last_updated: "2007-01-01"
+last_updated: "2007-02-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020818"
 soort: "AMvB"
@@ -62,8 +62,8 @@ De [artikelen 17, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014483&art
 
 1. Dit besluit treedt in werking met ingang van de dag die is gelegen acht weken na de datum van uitgifte van het Staatsblad waarin het is geplaatst en werkt terug tot en met 1 januari 2007.
 
-2. In afwijking van het eerste lid treedt [artikel I, onderdelen C en D](https://wetten.overheid.nl/jci1.3:c:BWBR0020818&artikel=I&z=2007-02-16&g=2007-01-01), in werking op een bij koninklijk besluit te bepalen tijdstip waarbij dat tijdstip terugwerkende kracht kan hebben en vindt voor het eerst toepassing met betrekking tot boekjaren die aanvangen op of na dat tijdstip van inwerkingtreding.
+2. In afwijking van het eerste lid treedt [artikel I, onderdelen C en D](https://wetten.overheid.nl/jci1.3:c:BWBR0020818&artikel=I&z=2007-02-16&g=2007-02-16), in werking op een bij koninklijk besluit te bepalen tijdstip waarbij dat tijdstip terugwerkende kracht kan hebben en vindt voor het eerst toepassing met betrekking tot boekjaren die aanvangen op of na dat tijdstip van inwerkingtreding.
 
-3. In afwijking van het eerste lid, is het in [artikel I, onderdeel G](https://wetten.overheid.nl/jci1.3:c:BWBR0020818&artikel=I&z=2007-02-16&g=2007-01-01), opgenomen [artikel 18a, vierde lid, onderdeel c, van het Besluit fiscale eenheid 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014483&artikel=18a) slechts van toepassing indien de in [artikel 318, eerste lid, van Boek 2 BW](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=318) (voor de fusie) onderscheidenlijk [artikel 334n, eerste lid, van Boek 2 BW](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=334n) (voor de splitsing) bedoelde notariële akte is verleden op of na de dag waarop dit besluit in werking treedt.
+3. In afwijking van het eerste lid, is het in [artikel I, onderdeel G](https://wetten.overheid.nl/jci1.3:c:BWBR0020818&artikel=I&z=2007-02-16&g=2007-02-16), opgenomen [artikel 18a, vierde lid, onderdeel c, van het Besluit fiscale eenheid 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014483&artikel=18a) slechts van toepassing indien de in [artikel 318, eerste lid, van Boek 2 BW](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=318) (voor de fusie) onderscheidenlijk [artikel 334n, eerste lid, van Boek 2 BW](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=334n) (voor de splitsing) bedoelde notariële akte is verleden op of na de dag waarop dit besluit in werking treedt.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
