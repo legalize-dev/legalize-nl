@@ -4,7 +4,7 @@ identifier: "BWBR0012454"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2007-02-17"
-last_updated: "2001-05-23"
+last_updated: "2007-02-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012454"
 soort: "ministeriele-regeling"
@@ -82,9 +82,9 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 6. Vereisten ten aanzien van in te dienen stukken
 
-1. De uitvoerder verstrekt bij de aanvraag om subsidieverlening een programma een meerjarenactiviteitenplan en een daarbij aansluitende meerjarenraming. Beide stukken zien op de gehele looptijd van het programma tenzij het programma is opgebouwd uit fases of onderdelen. In dat geval dient de uitvoerder een meerjarenactiviteitenplan met bijbehorende meerjarenraming in per fase of onderdeel tenzij de minister hiertoe anders besluit.
+1. De uitvoerder verstrekt bij de aanvraag om subsidieverlening voor een programma een meerjarenactiviteitenplan en een daarbij aansluitende meerjarenraming. Beide stukken zien op de gehele looptijd van het programma tenzij het programma is opgebouwd uit fases of onderdelen. In dat geval dient de uitvoerder een meerjarenactiviteitenplan met bijbehorende meerjarenraming in per fase of onderdeel tenzij de minister hiertoe anders besluit.
 
-2. De uitvoerder dient voor de aanvang van elk programmajaar een voor dat jaar geldend activiteitenplan en een bijbehorende begroting in.
+2. De uitvoerder dient gedurende het tijdvak van het programma voor de aanvang van elk programmajaar een voor dat jaar geldend activiteitenplan in met bijbehorende begroting, tenzij daaraan naar het oordeel van de Minister geen behoefte bestaat.
 
 ##### Artikel 7. Het meerjarenactiviteitenplan en het activiteitenplan
 
@@ -126,7 +126,7 @@ Subsidie wordt verleend voor de duur van een programma. In afwijking van de vori
 
 ##### Artikel 12. Begrotingsvoorbehoud
 
-In het geval van het niet vervullen van de voorwaarde, bedoeld in [artikel 4:34, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:34), worden de op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012454&paragraaf=1&artikel=2&z=2001-05-23&g=2001-05-23) verleende subsidiebedragen verlaagd tot het bedrag van de subsidie dat na de vaststelling of goedkeuring van de begroting ter beschikking staat, een en ander voorzover van toepassing naar rato van het aantal uitvoerders en van de hoogte van de verleende subsidiebedragen.
+In het geval van het niet vervullen van de voorwaarde, bedoeld in [artikel 4:34, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:34), worden de op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012454&paragraaf=1&artikel=2&z=2007-02-17&g=2007-02-17) verleende subsidiebedragen verlaagd tot het bedrag van de subsidie dat na de vaststelling of goedkeuring van de begroting ter beschikking staat, een en ander voorzover van toepassing naar rato van het aantal uitvoerders en van de hoogte van de verleende subsidiebedragen.
 
 #### Paragraaf 4. Verplichtingen van de uitvoerder
 
