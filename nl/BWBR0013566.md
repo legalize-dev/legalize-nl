@@ -4,7 +4,7 @@ identifier: "BWBR0013566"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2009-07-01"
-last_updated: "2002-05-24"
+last_updated: "2007-02-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013566"
 soort: "ministeriele-regeling"
@@ -66,7 +66,7 @@ Bij de subsidieverlening maakt de minister het maximaal beschikbare subsidiebedr
 
 ##### Artikel 6. Begrotingsvoorbehoud
 
-In het geval van het niet vervullen van de voorwaarde, bedoeld in [artikel 4:34, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:34), worden de op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013566&paragraaf=1&artikel=2&z=2002-05-24&g=2002-05-24) verleende subsidiebedragen verlaagd tot het bedrag van de subsidie dat na de vaststelling of goedkeuring van de begroting ter beschikking staat, een en ander voor zover van toepassing naar rato van het aantal subsidieontvangers en van de hoogte van de verleende subsidiebedragen.
+In het geval van het niet vervullen van de voorwaarde, bedoeld in [artikel 4:34, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:34), worden de op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013566&paragraaf=1&artikel=2&z=2007-02-17&g=2007-02-17) verleende subsidiebedragen verlaagd tot het bedrag van de subsidie dat na de vaststelling of goedkeuring van de begroting ter beschikking staat, een en ander voor zover van toepassing naar rato van het aantal subsidieontvangers en van de hoogte van de verleende subsidiebedragen.
 
 #### Paragraaf 2. Subsidieaanvraag
 
@@ -76,7 +76,7 @@ De subsidie wordt op aanvraag verleend.
 
 ##### Artikel 8. Vereisten ten aanzien van in te dienen stukken
 
-1. De subsidieaanvraag omvat:
+1. De subsidieaanvraag omvat, tenzij aan één of meer van de navolgende stukken naar het oordeel van de Minister geen behoefte bestaat:
 
 - a. een activiteitenplan;
 
@@ -138,15 +138,15 @@ De subsidieaanvraag wordt in ieder geval 13 weken voor aanvang van het boekjaar 
 
 ##### Artikel 14. Subsidieverlening
 
-1. De minister besluit tot subsidieverlening aan een, voor exploitatiesubsidie in aanmerking komende, instelling op voorwaarde van instemming met het door de subsidieaanvrager ingediende stukken zoals vermeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013566&paragraaf=2&artikel=8&z=2002-05-24&g=2002-05-24).
+1. De minister besluit tot subsidieverlening aan een, voor exploitatiesubsidie in aanmerking komende, instelling op voorwaarde van instemming met het door de subsidieaanvrager ingediende stukken zoals vermeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013566&paragraaf=2&artikel=8&z=2007-02-17&g=2007-02-17).
 
-2. Voor zover een subsidieplafond als bedoeld in [artikel 4 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013566&paragraaf=1&artikel=4&z=2002-05-24&g=2002-05-24) niet is bereikt, besluit de minister tot subsidieverlening in de volgorde van ontvangst van de aanvragen.
+2. Voor zover een subsidieplafond als bedoeld in [artikel 4 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013566&paragraaf=1&artikel=4&z=2007-02-17&g=2007-02-17) niet is bereikt, besluit de minister tot subsidieverlening in de volgorde van ontvangst van de aanvragen.
 
 ##### Artikel 15. Weigeringsgronden
 
 Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:35) en [artikel 9 van de Wet overige OCenW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=9) kan de subsidie in ieder geval worden geweigerd in de volgende gevallen:
 
-- a. de subsidie past niet binnen de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013566&paragraaf=1&artikel=2&z=2002-05-24&g=2002-05-24) genoemde overwegingen,
+- a. de subsidie past niet binnen de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013566&paragraaf=1&artikel=2&z=2007-02-17&g=2007-02-17) genoemde overwegingen,
 
 - b. binnen het onderzoek- en wetenschapsterrein is al een instelling actief waarvan de minister van oordeel is dat de financiering tot de taakuitoefening van deze instelling behoort, en
 
@@ -184,7 +184,7 @@ De subsidie wordt verleend voor één of meer boekjaren.
 
 ##### Artikel 20. Informatieplicht
 
-1. Bij meerjarige boekjaren dient de subsidieontvanger gedurende het tijdvak van de subsidieverlening jaarlijks voor een door de minister te bepalen tijdstip een activiteitenplan in met bijbehorende begroting, tenzij de minister hiertoe anders bepaalt.
+1. Indien de subsidie voor twee of meer boekjaren wordt verleend dient de subsidieontvanger gedurende het tijdvak van de subsidieverlening jaarlijks voor een door de minister te bepalen tijdstip een activiteitenplan in met bijbehorende begroting, tenzij de minister hiertoe anders bepaalt.
 
 2. Bij de subsidieverlening kan de minister verplichtingen opleggen tot het indienen van voortgangs- en eindrapportages. De betaalbaarstelling van de voorschotten kan hiervan afhankelijk worden gesteld. Op basis van de voortgangs- of eindrapportage kan de minister besluiten tot intrekking of wijziging van de subsidieverlening of tot terugvordering van de verleende voorschotten.
 
@@ -232,7 +232,7 @@ De minister kan voorwaarden stellen voor het aangaan van overeenkomsten en het v
 
 ##### Artikel 27. Aanvraag tot subsidievaststelling
 
-Na afloop van ieder boekjaar dient de subsidieontvanger een aanvraag tot vaststelling van de subsidie in. In het geval aan de subsidie ontvanger de bevoegdheid tot het nemen van besluiten met betrekking tot de subsidiëring is gedelegeerd, dan wordt het programma, bedoeld als in [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013566&paragraaf=3&artikel=18&z=2002-05-24&g=2002-05-24), eerst geacht af te zijn gerond nadat de subsidieontvanger alle subsidies heeft vastgesteld.
+Na afloop van ieder boekjaar dient de subsidieontvanger een aanvraag tot vaststelling van de subsidie in. In het geval aan de subsidie ontvanger de bevoegdheid tot het nemen van besluiten met betrekking tot de subsidiëring is gedelegeerd, dan wordt het programma, bedoeld als in [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013566&paragraaf=3&artikel=18&z=2007-02-17&g=2007-02-17), eerst geacht af te zijn gerond nadat de subsidieontvanger alle subsidies heeft vastgesteld.
 
 ##### Artikel 28. Termijn voor indiening aanvraag tot subsidievaststelling
 
@@ -266,7 +266,7 @@ Bij de subsidieverlening stelt de minister een termijn vast waarbinnen de aanvra
 
 ##### Artikel 32. Voorschotten
 
-1. Bij de subsidieverlening wordt een bevoorschottingsritme vastgesteld. De minister bepaalt de hoogte van het voorschot mede op basis van de stukken, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013566&paragraaf=2&artikel=8&z=2002-05-24&g=2002-05-24).
+1. Bij de subsidieverlening wordt een bevoorschottingsritme vastgesteld. De minister bepaalt de hoogte van het voorschot mede op basis van de stukken, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013566&paragraaf=2&artikel=8&z=2007-02-17&g=2007-02-17).
 
 2. Indien de begroting, het activiteitenplan of enige andere in deze regeling voor exploitatiesubsidie genoemde vereiste stukken niet of niet tijdig worden ingediend dan behoudt de minister zich het recht voor de bevoorschotting op te schorten of stop te zetten.
 
