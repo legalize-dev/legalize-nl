@@ -4,7 +4,7 @@ identifier: "BWBR0019837"
 country: "nl"
 rank: "pbo"
 publication_date: "2010-12-26"
-last_updated: "2006-09-17"
+last_updated: "2007-02-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019837"
 soort: "pbo"
@@ -78,7 +78,7 @@ entry_into_force: "2006-09-17"
 
 ##### Artikel 3
 
-1. Ter uitvoering van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019837&paragraaf=2&artikel=2&z=2006-09-17&g=2006-09-17) doen de koper en verkoper bij het productschap aangifte van de door hen gekochte, respectievelijk verkochte bloembollen-plantgoed.
+1. Ter uitvoering van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019837&paragraaf=2&artikel=2&z=2007-02-18&g=2007-02-18) doen de koper en verkoper bij het productschap aangifte van de door hen gekochte, respectievelijk verkochte bloembollen-plantgoed.
 
 2. De opgave als bedoeld in het eerste lid, wordt gedaan op een door het productschap te verstrekken aangifteformulier, met inachtneming van de daarop gestelde vragen en gegeven aanwijzingen.
 
@@ -96,7 +96,7 @@ entry_into_force: "2006-09-17"
 
 1. Degene die bloembollen-plantgoed verkoopt of heeft verkocht door tussenkomst van een veiling, is aan het productschap een heffing verschuldigd over ieder transactie.
 
-2. De heffing als bedoeld in het eerste lid, bedraagt: 2,1% van het factuurbedrag.
+2. De heffing als bedoeld in het eerste lid, bedraagt: 1,6% van het factuurbedrag.
 
 3. De in het eerste lid bedoelde heffing wordt door de verkoper betaald aan de desbetreffende veiling, die – voor het productschap – het heffingsbedrag inhoudt op de aan de verkoper toekomende koopsom. De aldus geïncasseerde heffing wordt rechtstreeks aan het productschap overgemaakt. Door deze betaling voldoet de verkoper aan de heffingsplicht als bedoeld in het eerste lid.
 
@@ -106,7 +106,7 @@ entry_into_force: "2006-09-17"
 
 1. Degene die bloembollen-plantgoed koopt of heeft gekocht door tussenkomst van een veiling is aan het productschap een heffing verschuldigd over iedere transactie.
 
-2. De heffing als bedoeld in het eerste lid, bedraagt: 2,1% van het factuurbedrag.
+2. De heffing als bedoeld in het eerste lid, bedraagt: 1,0% van het factuurbedrag.
 
 3. De in het eerste lid bedoelde heffing wordt door de koper betaald aan de desbetreffende veiling, die – voor het productschap – het heffingsbedrag inhoudt.
 
@@ -116,13 +116,13 @@ De aldus geïncasseerde heffing wordt rechtstreeks aan het productschap overgema
 
 ##### Artikel 7
 
-Degene die zonder tussenkomst van een veiling bloembollen-plantgoed verkoopt is verplicht 2,1% van het factuurbedrag van de door hem aldus verkochte bollen aan de desbetreffende kopers door te berekenen.
+Degene die zonder tussenkomst van een veiling bloembollen-plantgoed verkoopt is verplicht 1,0% van het factuurbedrag van de door hem aldus verkochte bollen aan de desbetreffende kopers door te berekenen.
 
 ##### Artikel 8
 
 1. Degene die zonder tussenkomst van een veiling bloembollen-plantgoed koopt van een teler is aan het productschap een heffing verschuldigd over iedere transactie.
 
-2. De heffing als bedoeld in het eerste lid, bedraagt: 2,1% van het factuurbedrag.
+2. De heffing als bedoeld in het eerste lid, bedraagt: 1,0% van het factuurbedrag.
 
 3. De in het eerste lid bedoelde heffing dient door de koper te worden betaald aan de desbetreffende teler, die daartoe namens het productschap het betrokken heffingsbedrag in rekening brengt bij de koper en de aldus geïncasseerde heffing, aan het productschap afdraagt.
 
@@ -134,9 +134,9 @@ Degene die zonder tussenkomst van een veiling bloembollen-plantgoed verkoopt is 
 
 1. Degene die zonder tussenkomst van een veiling bloembollen-plantgoed verkoopt is aan het productschap een heffing verschuldigd over iedere transactie.
 
-2. De heffing als bedoeld in het eerste lid, bedraagt: 2,1% van het factuurbedrag.
+2. De heffing als bedoeld in het eerste lid, bedraagt: 1,6% van het factuurbedrag.
 
-3. De in het eerste lid bedoelde heffing dient door de verkoper te worden afgedragen aan het productschap tezamen met de bij de koper geïncasseerde heffing volgens [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019837&paragraaf=3&artikel=8&z=2006-09-17&g=2006-09-17).
+3. De in het eerste lid bedoelde heffing dient door de verkoper te worden afgedragen aan het productschap tezamen met de bij de koper geïncasseerde heffing volgens [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019837&paragraaf=3&artikel=8&z=2007-02-18&g=2007-02-18).
 
 4. Door deze betaling voldoet de verkoper aan de heffingsplicht als bedoeld in het eerste. Het derde lid laat onverlet de bevoegdheid van het productschap om in voorkomende gevallen zelf tot oplegging en invordering van het ingevolge het eerste lid verschuldigde heffing over te gaan.
 
@@ -146,7 +146,7 @@ Degene die zonder tussenkomst van een veiling bloembollen-plantgoed verkoopt is 
 
 1. Degene die bloembollen-plantgoed afkomstig uit eigen kraam aanwendt voor de teelt van bolbloemen is over die bloembollen-plantgoed aan het productschap een heffing verschuldigd.
 
-2. De heffing als bedoeld in het eerste lid bedraagt: 2,1%, van de verkoopwaarde van de desbetreffende bloembollen.
+2. De heffing als bedoeld in het eerste lid bedraagt: 1,6%, van de verkoopwaarde van de desbetreffende bloembollen.
 
 3. De verkoopwaarde van de bloembollen-plantgoed wordt vastgesteld op basis van de gemiddelde verkoopprijzen in het betreffende oogstjaar.
 
@@ -166,7 +166,7 @@ kan restitutie van de betaalde vakheffing ontvangen van het productschap.
 
 ##### Artikel 12
 
-1. Ingeval van verkoop van groen te velde verhandelde bollen van tulpen of narcissen, anders dan de in [artikel 1, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0019837&paragraaf=1&artikel=1&z=2006-09-17&g=2006-09-17), bedoelde partijen, wordt de hefíing berekend voor zover het betreft:
+1. Ingeval van verkoop van groen te velde verhandelde bollen van tulpen of narcissen, anders dan de in [artikel 1, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0019837&paragraaf=1&artikel=1&z=2007-02-18&g=2007-02-18), bedoelde partijen, wordt de hefíing berekend voor zover het betreft:
 
 - a. tulpen over de helft, en
 
@@ -214,7 +214,7 @@ Besluit:
 
 ##### Artikel 13
 
-1. In die gevallen dat de heffing niet is voldaan op de wijze als bedoeld in de [artikelen 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019837&paragraaf=3&artikel=5&z=2006-09-17&g=2006-09-17), [6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019837&paragraaf=3&artikel=6&z=2006-09-17&g=2006-09-17), [8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019837&paragraaf=3&artikel=8&z=2006-09-17&g=2006-09-17), en [9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019837&paragraaf=3&artikel=9&z=2006-09-17&g=2006-09-17), vindt de oplegging van de krachtens deze verordening verschuldigde heffing plaats na afloop van het jaar waarover de heffing verschuldigd is en geschiedt deze door toezending of uitreiking aan de heffingsplichtige van een heffingsnota.
+1. In die gevallen dat de heffing niet is voldaan op de wijze als bedoeld in de [artikelen 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019837&paragraaf=3&artikel=5&z=2007-02-18&g=2007-02-18), [6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019837&paragraaf=3&artikel=6&z=2007-02-18&g=2007-02-18), [8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019837&paragraaf=3&artikel=8&z=2007-02-18&g=2007-02-18), en [9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019837&paragraaf=3&artikel=9&z=2007-02-18&g=2007-02-18), vindt de oplegging van de krachtens deze verordening verschuldigde heffing plaats na afloop van het jaar waarover de heffing verschuldigd is en geschiedt deze door toezending of uitreiking aan de heffingsplichtige van een heffingsnota.
 
 2. In afwijking van het eerste lid kan de heffingsplichtige een voorlopige heffing worden opgelegd tot het bedrag waarop de heffing vermoedelijk zal worden vastgesteld. De voorlopige heffing wordt verrekend met de krachtens deze verordening verschuldigde heffing.
 
@@ -224,7 +224,7 @@ Indien uit de ter beschikking gekomen gegevens blijkt dat de verstrekking van de
 
 ##### Artikel 15
 
-Een koper en verkoper van bloembollen wordt geacht, indien hij bloembollen door tussenkomst van een veiling verhandelt, aan zijn verplichtingen als bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019837&paragraaf=2&artikel=2&z=2006-09-17&g=2006-09-17) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0019837&paragraaf=2&artikel=3&z=2006-09-17&g=2006-09-17) ten aanzien van de op vorenbedoelde wijze verhandelde producten te hebben voldaan, indien hij de desbetreffende veiling heeft gemachtigd namens hem aan het productschap de door hem verschuldigde heffing te voldoen en de verschuldigde heffing door het productschap is ontvangen.
+Een koper en verkoper van bloembollen wordt geacht, indien hij bloembollen door tussenkomst van een veiling verhandelt, aan zijn verplichtingen als bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019837&paragraaf=2&artikel=2&z=2007-02-18&g=2007-02-18) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0019837&paragraaf=2&artikel=3&z=2007-02-18&g=2007-02-18) ten aanzien van de op vorenbedoelde wijze verhandelde producten te hebben voldaan, indien hij de desbetreffende veiling heeft gemachtigd namens hem aan het productschap de door hem verschuldigde heffing te voldoen en de verschuldigde heffing door het productschap is ontvangen.
 
 ##### Artikel 16
 
