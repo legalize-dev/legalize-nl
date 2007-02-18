@@ -4,7 +4,7 @@ identifier: "BWBR0018616"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2012-01-01"
-last_updated: "2005-07-31"
+last_updated: "2007-02-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018616"
 soort: "ministeriele-regeling"
@@ -77,7 +77,7 @@ Indien meer dan één huurrecht wordt geveild worden de huurrechten elk afzonder
 
 2. De veilingmeester leidt de veiling en draagt zorg voor een goed verloop van de veiling.
 
-3. De veilingmeester beschikt, onverminderd de bevoegdheden genoemd in de [paragrafen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0018616&paragraaf=3&z=2005-07-31&g=2005-07-31) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0018616&paragraaf=4&z=2005-07-31&g=2005-07-31), over de bevoegdheden die noodzakelijk zijn voor een goede uitvoering van zijn taak.
+3. De veilingmeester beschikt, onverminderd de bevoegdheden genoemd in de [paragrafen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0018616&paragraaf=3&z=2007-02-18&g=2007-02-18) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0018616&paragraaf=4&z=2007-02-18&g=2007-02-18), over de bevoegdheden die noodzakelijk zijn voor een goede uitvoering van zijn taak.
 
 4. De veilingmeester handelt bij de uitoefening van zijn taak in overeenstemming met aanwijzingen van de directeur Domeinen.
 
@@ -85,7 +85,7 @@ Indien meer dan één huurrecht wordt geveild worden de huurrechten elk afzonder
 
 1. De directeur Domeinen wijst een notaris aan.
 
-2. De notaris beschikt over de bevoegdheden genoemd in [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0018616&paragraaf=3&z=2005-07-31&g=2005-07-31) en ziet toe op een ordelijk verloop van de veiling.
+2. De notaris beschikt over de bevoegdheden genoemd in [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0018616&paragraaf=3&z=2007-02-18&g=2007-02-18) en ziet toe op een ordelijk verloop van de veiling.
 
 ##### Artikel 6. Communicatie met de veilingmeester
 
@@ -119,7 +119,7 @@ De veilingmeester stelt steeds voorafgaand aan iedere veiling van een huurrecht 
 
 - a. welk huurrecht wordt geveild;
 
-- b. vanaf welk tijdstip de biedkaarten als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0018616&paragraaf=3&artikel=10&z=2005-07-31&g=2005-07-31) kunnen worden ingeleverd;
+- b. vanaf welk tijdstip de biedkaarten als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0018616&paragraaf=3&artikel=10&z=2007-02-18&g=2007-02-18) kunnen worden ingeleverd;
 
 - c. op welk tijdstip de biedkaarten uiterlijk moeten zijn ingeleverd.
 
@@ -139,7 +139,7 @@ Een bod wordt uitgebracht door middel van een ingevulde biedkaart die:
 
 - a. is ondertekend door een deelnemer die gerechtigd is een bod uit te brengen dan wel is ondertekend door degene die gerechtigd is om namens de deelnemer handelingen te verrichten in de veilingprocedure;
 
-- b. niet eerder dan het in [artikel 9, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0018616&paragraaf=3&artikel=9&z=2005-07-31&g=2005-07-31) en niet later dan het in [artikel 9, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0018616&paragraaf=3&artikel=9&z=2005-07-31&g=2005-07-31) bedoelde tijdstip in de veilingzaal in een gesloten envelop aan de notaris wordt aangeboden;
+- b. niet eerder dan het in [artikel 9, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0018616&paragraaf=3&artikel=9&z=2007-02-18&g=2007-02-18) en niet later dan het in [artikel 9, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0018616&paragraaf=3&artikel=9&z=2007-02-18&g=2007-02-18) bedoelde tijdstip in de veilingzaal in een gesloten envelop aan de notaris wordt aangeboden;
 
 - c. wordt ingeleverd door een deelnemer die gerechtigd is een bod uit te brengen dan wel wordt ingeleverd door degene die gerechtigd is om namens de deelnemer handelingen te verrichten in de veilingprocedure.
 
@@ -151,13 +151,13 @@ Het bod van de deelnemer is onvoorwaardelijk en onherroepelijk.
 
 1. De notaris beslist omtrent de geldigheid van een uitgebracht bod.
 
-2. Een bod is ongeldig indien dit niet voldoet aan het bepaalde in [artikel 10, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018616&paragraaf=3&artikel=10&z=2005-07-31&g=2005-07-31), of [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0018616&paragraaf=3&artikel=11&z=2005-07-31&g=2005-07-31).
+2. Een bod is ongeldig indien dit niet voldoet aan het bepaalde in [artikel 10, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018616&paragraaf=3&artikel=10&z=2007-02-18&g=2007-02-18), of [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0018616&paragraaf=3&artikel=11&z=2007-02-18&g=2007-02-18).
 
 ##### Artikel 14. Ongeldig bod
 
-1. De deelnemer die een ongeldig bod als bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018616&paragraaf=3&artikel=13&z=2005-07-31&g=2005-07-31), heeft uitgebracht, wordt hiervan afzonderlijk door de notaris op de hoogte gesteld.
+1. De deelnemer die een ongeldig bod als bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018616&paragraaf=3&artikel=13&z=2007-02-18&g=2007-02-18), heeft uitgebracht, wordt hiervan afzonderlijk door de notaris op de hoogte gesteld.
 
-2. Indien een deelnemer op grond van de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0018616&paragraaf=4&artikel=17&z=2005-07-31&g=2005-07-31) of [18](https://wetten.overheid.nl/jci1.3:c:BWBR0018616&paragraaf=4&artikel=18&z=2005-07-31&g=2005-07-31) van verdere deelname van de veiling is uitgesloten, deelt de notaris aan alle deelnemers de identiteit van de uitgesloten deelnemer mee.
+2. Indien een deelnemer op grond van de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0018616&paragraaf=4&artikel=17&z=2007-02-18&g=2007-02-18) of [18](https://wetten.overheid.nl/jci1.3:c:BWBR0018616&paragraaf=4&artikel=18&z=2007-02-18&g=2007-02-18) van verdere deelname van de veiling is uitgesloten, deelt de notaris aan alle deelnemers de identiteit van de uitgesloten deelnemer mee.
 
 ##### Artikel 15. Gevolgen twee of meer deelnemers met hoogste bod
 
@@ -169,7 +169,7 @@ Indien twee of meer deelnemers hetzelfde hoogste bedrag voor een huurrecht hebbe
 
 2. De veilingmeester maakt, door tussenkomst van de notaris, zo spoedig mogelijk en in ieder geval voor de aanvang van de volgende veiling van een huurrecht aan de deelnemers bekend de hoogte van dit bod alsmede door welke deelnemer dit bod is uitgebracht of dat geen of geen geldig bod is uitgebracht.
 
-3. In het geval dat het topdeel als bedoeld in [artikel 24, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0018616&paragraaf=5&artikel=24&z=2005-07-31&g=2005-07-31), van toepassing is, wordt tevens het op één na hoogste bod bekend gemaakt.
+3. In het geval dat het topdeel als bedoeld in [artikel 24, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0018616&paragraaf=5&artikel=24&z=2007-02-18&g=2007-02-18), van toepassing is, wordt tevens het op één na hoogste bod bekend gemaakt.
 
 4. Als er geen of geen geldig bod is uitgebracht kan de directeur Domeinen – na overleg met de deelnemer wiens huurrecht wordt geveild – besluiten dat het huurrecht opnieuw wordt geveild.
 
@@ -183,9 +183,9 @@ Indien twee of meer deelnemers hetzelfde hoogste bedrag voor een huurrecht hebbe
 
 2. Onder de in het vorige lid genoemde afspraken of gedragingen vallen in ieder geval:
 
-- a. het aan deelnemers bekendmaken van vertrouwelijke informatie als bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0018616&paragraaf=4&artikel=19&z=2005-07-31&g=2005-07-31);
+- a. het aan deelnemers bekendmaken van vertrouwelijke informatie als bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0018616&paragraaf=4&artikel=19&z=2007-02-18&g=2007-02-18);
 
-- b. gedragingen als bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0018616&paragraaf=4&artikel=20&z=2005-07-31&g=2005-07-31);
+- b. gedragingen als bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0018616&paragraaf=4&artikel=20&z=2007-02-18&g=2007-02-18);
 
 - c. het afstemmen van het gedrag voorafgaand aan of gedurende de veilingprocedure met één of meer deelnemers.
 
@@ -205,13 +205,13 @@ Een deelnemer, inbegrepen diegenen die een deelnemer ten behoeve van de veiling 
 
 ##### Artikel 20
 
-Een deelnemer is verplicht zich te onthouden van gedragingen die zijn gericht op het direct of indirect verkrijgen van de in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0018616&paragraaf=4&artikel=19&z=2005-07-31&g=2005-07-31) bedoelde informatie van andere deelnemers.
+Een deelnemer is verplicht zich te onthouden van gedragingen die zijn gericht op het direct of indirect verkrijgen van de in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0018616&paragraaf=4&artikel=19&z=2007-02-18&g=2007-02-18) bedoelde informatie van andere deelnemers.
 
 ##### Artikel 21. Gevolgen voor bod bij uitsluiting
 
-1. Een bod van een deelnemer die op grond van de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0018616&paragraaf=4&artikel=17&z=2005-07-31&g=2005-07-31) of [18](https://wetten.overheid.nl/jci1.3:c:BWBR0018616&paragraaf=4&artikel=18&z=2005-07-31&g=2005-07-31) van verdere deelname aan de veiling is uitgesloten is ongeldig, ook indien een bod is uitgebracht voor de uitsluiting.
+1. Een bod van een deelnemer die op grond van de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0018616&paragraaf=4&artikel=17&z=2007-02-18&g=2007-02-18) of [18](https://wetten.overheid.nl/jci1.3:c:BWBR0018616&paragraaf=4&artikel=18&z=2007-02-18&g=2007-02-18) van verdere deelname aan de veiling is uitgesloten is ongeldig, ook indien een bod is uitgebracht voor de uitsluiting.
 
-2. Indien een deelnemer het hoogste bod op een huurrecht heeft uitgebracht en vervolgens wordt uitgesloten van de veiling, stelt de veilingmeester opnieuw vast welke deelnemer het hoogste bod op dat huurrecht heeft uitgebracht. Deze deelnemer krijgt het huurrecht aangeboden. Als deze deelnemer dit aanbod niet aanvaardt, wordt het huurrecht, met inachtneming van [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0018616&paragraaf=3&z=2005-07-31&g=2005-07-31), opnieuw geveild.
+2. Indien een deelnemer het hoogste bod op een huurrecht heeft uitgebracht en vervolgens wordt uitgesloten van de veiling, stelt de veilingmeester opnieuw vast welke deelnemer het hoogste bod op dat huurrecht heeft uitgebracht. Deze deelnemer krijgt het huurrecht aangeboden. Als deze deelnemer dit aanbod niet aanvaardt, wordt het huurrecht, met inachtneming van [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0018616&paragraaf=3&z=2007-02-18&g=2007-02-18), opnieuw geveild.
 
 ##### Artikel 22. Noodrem
 
@@ -237,9 +237,9 @@ De veilingmeester heeft te allen tijde de bevoegdheid om de veiling stil te legg
 
 ##### Artikel 24. Topdeel/Voorkomen onevenredige bevoordeling zittende partij
 
-1. In geval de deelnemer wiens huurrecht wordt geveild het hoogste bod heeft uitgebracht op dit huurrecht, is deze, in plaats van het hoogste bod het verschil tussen dit bod en het op één na hoogste bod verschuldigd, met dien verstande dat deze deelnemer nimmer meer verschuldigd is dan 15 procent van zijn bod. Het door hem verschuldigde bedrag moet binnen 14 kalenderdagen volgend op de dag van de veiling worden betaald op het in [artikel 23, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0018616&paragraaf=5&artikel=23&z=2005-07-31&g=2005-07-31) genoemde bankrekeningnummer.
+1. In geval de deelnemer wiens huurrecht wordt geveild het hoogste bod heeft uitgebracht op dit huurrecht, is deze, in plaats van het hoogste bod het verschil tussen dit bod en het op één na hoogste bod verschuldigd, met dien verstande dat deze deelnemer nimmer meer verschuldigd is dan 30 procent van zijn bod. Het door hem verschuldigde bedrag moet binnen 14 kalenderdagen volgend op de dag van de veiling worden betaald op het in [artikel 23, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0018616&paragraaf=5&artikel=23&z=2007-02-18&g=2007-02-18) genoemde bankrekeningnummer.
 
-2. In geval de deelnemer wiens huurrecht wordt geveild als enige een geldig bod heeft uitgebracht, is deze, in afwijking van het eerste lid en in afwijking van [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0018616&paragraaf=5&artikel=23&z=2005-07-31&g=2005-07-31), geen bedrag verschuldigd.
+2. In geval de deelnemer wiens huurrecht wordt geveild als enige een geldig bod heeft uitgebracht, is deze, in afwijking van het eerste lid en in afwijking van [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0018616&paragraaf=5&artikel=23&z=2007-02-18&g=2007-02-18), geen bedrag verschuldigd.
 
 #### § 6. Gevolgen niet gestand doen van een bod
 
@@ -247,7 +247,7 @@ De veilingmeester heeft te allen tijde de bevoegdheid om de veiling stil te legg
 
 1. Indien een deelnemer die het hoogste bod op een huurrecht heeft uitgebracht, zijn betalingsverplichting niet, niet geheel of niet tijdig is nagekomen, maakt de directeur Domeinen, behoudens bijzondere omstandigheden, binnen drie weken na de dag van de veiling bekend dat het desbetreffende huurrecht opnieuw wordt geveild.
 
-2. Een deelnemer die op grond van de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0018616&paragraaf=4&artikel=17&z=2005-07-31&g=2005-07-31) of [18](https://wetten.overheid.nl/jci1.3:c:BWBR0018616&paragraaf=4&artikel=18&z=2005-07-31&g=2005-07-31) van verdere deelname aan de veiling is uitgesloten en de deelnemer, bedoeld in het eerste lid, zijn uitgesloten van deelname aan de veiling waarbij een of meer huurrechten opnieuw worden geveild.
+2. Een deelnemer die op grond van de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0018616&paragraaf=4&artikel=17&z=2007-02-18&g=2007-02-18) of [18](https://wetten.overheid.nl/jci1.3:c:BWBR0018616&paragraaf=4&artikel=18&z=2007-02-18&g=2007-02-18) van verdere deelname aan de veiling is uitgesloten en de deelnemer, bedoeld in het eerste lid, zijn uitgesloten van deelname aan de veiling waarbij een of meer huurrechten opnieuw worden geveild.
 
 3. Met inachtneming van het eerste en tweede lid, zijn slechts de deelnemers die bij de aanvang van de veiling gerechtigd waren een bod uit te brengen, gerechtigd om deel te nemen aan de veiling als bedoeld in het eerste lid.
 
