@@ -4,7 +4,7 @@ identifier: "BWBR0020702"
 country: "nl"
 rank: "amvb"
 publication_date: "2007-02-21"
-last_updated: "2006-08-01"
+last_updated: "2007-02-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020702"
 soort: "AMvB"
@@ -60,6 +60,6 @@ De aanspraak op bekostiging op grond van [artikel B 16e](https://wetten.overheid
 
 ##### Artikel IV
 
-Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip, waarbij tevens kan worden bepaald dat [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0020702&artikel=I&z=2007-02-21&g=2006-08-01) en [artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0020702&artikel=III&z=2007-02-21&g=2006-08-01) terugwerken tot en met 1 augustus 2006.
+Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip, waarbij tevens kan worden bepaald dat [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0020702&artikel=I&z=2007-02-21&g=2007-02-21) en [artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0020702&artikel=III&z=2007-02-21&g=2007-02-21) terugwerken tot en met 1 augustus 2006.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
