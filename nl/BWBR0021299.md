@@ -4,7 +4,7 @@ identifier: "BWBR0021299"
 country: "nl"
 rank: "zbo"
 publication_date: "2007-02-23"
-last_updated: "2007-01-01"
+last_updated: "2007-02-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0021299"
 soort: "zbo"
@@ -55,7 +55,7 @@ In dit besluit wordt verstaan onder:
 
 1. Aan Loyalis wordt mandaat, volmacht en machtiging verleend om met betrekking tot werknemers en gewezen werknemers van de Dienst ter uitvoering en op grond van de Regelingen besluiten te nemen alsmede om privaatrechtelijke rechtshandelingen en andere handelingen dan een besluit of privaatrechtelijke rechtshandeling te verrichten, die het bestuur bij of krachtens de Regelingen bevoegd is te nemen.
 
-2. Het mandaat, de volmacht en de machtiging worden verleend met inachtneming van de [artikelen 3 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0021299&artikel=3&z=2007-02-23&g=2007-01-01).
+2. Het mandaat, de volmacht en de machtiging worden verleend met inachtneming van de [artikelen 3 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0021299&artikel=3&z=2007-02-23&g=2007-02-23).
 
 ##### Artikel 3
 
@@ -77,9 +77,9 @@ Loyalis is niet bevoegd om verzoeken in het kader van de [Wet openbaarheid van b
 
 ##### Artikel 7
 
-1. Loyalis rapporteert ieder kwartaal aan het bestuur over de uitvoering van zijn bevoegdheden als omschreven in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0021299&artikel=2&z=2007-02-23&g=2007-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0021299&artikel=3&z=2007-02-23&g=2007-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0021299&artikel=4&z=2007-02-23&g=2007-01-01).
+1. Loyalis rapporteert ieder kwartaal aan het bestuur over de uitvoering van zijn bevoegdheden als omschreven in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0021299&artikel=2&z=2007-02-23&g=2007-02-23), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0021299&artikel=3&z=2007-02-23&g=2007-02-23) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0021299&artikel=4&z=2007-02-23&g=2007-02-23).
 
-2. Ingeval op grond van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0021299&artikel=3&z=2007-02-23&g=2007-01-01) wordt beslist op een bezwaarschrift waarbij een kennelijk aanmerkelijk financieel of rechtspositioneel belang in het geding is, dan wel een beslissing kan leiden tot precedentwerking, vindt in afwijking van het eerste lid onverwijld rapportage plaats.
+2. Ingeval op grond van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0021299&artikel=3&z=2007-02-23&g=2007-02-23) wordt beslist op een bezwaarschrift waarbij een kennelijk aanmerkelijk financieel of rechtspositioneel belang in het geding is, dan wel een beslissing kan leiden tot precedentwerking, vindt in afwijking van het eerste lid onverwijld rapportage plaats.
 
 ##### Artikel 8
 
