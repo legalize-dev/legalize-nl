@@ -4,7 +4,7 @@ identifier: "BWBR0017759"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2017-01-01"
-last_updated: "2005-07-01"
+last_updated: "2007-02-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017759"
 soort: "ministeriele-regeling"
@@ -90,7 +90,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 2a
 
-Voor de toepassing van [afdeling 2 van Hoofdstuk IA van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&afdeling=2) worden met een lidstaat gelijkgesteld:
+1. Voor de toepassing van [afdeling 2 van Hoofdstuk IA van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&afdeling=2) worden met een lidstaat gelijkgesteld:
 
 - a. Aruba;
 
@@ -105,6 +105,14 @@ Voor de toepassing van [afdeling 2 van Hoofdstuk IA van de wet](https://wetten.o
 - f. Montserrat;
 
 - g. de Nederlandse Antillen.
+
+2. Voor de toepassing van [artikel 4b, tweede lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&artikel=4b) wordt voorts met een lidstaat gelijkgesteld:
+
+- a. de Turks- en Caicoseilanden;
+
+- b. de Kaaimaneilanden;
+
+- c. Anguilla.
 
 ### Hoofdstuk 2. Bijstand bij heffing
 
