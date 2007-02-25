@@ -4,7 +4,7 @@ identifier: "BWBR0012031"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-17"
-last_updated: "2007-01-01"
+last_updated: "2007-02-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012031"
 soort: "ministeriele-regeling"
@@ -205,7 +205,7 @@ Vervallen
 
 - d. uitkeringen en verstrekkingen ingevolge de [Regeling opvang asielzoekers](https://wetten.overheid.nl/jci1.3:c:BWBR0005366);
 
-- e. uitkeringen en verstrekkingen ingevolge de [Regelingen verstrekkingen asielzoekers en andere categorieën vreemdelingen 1997](https://wetten.overheid.nl/jci1.3:c:BWBR0009205);
+- e. uitkeringen en verstrekkingen ingevolge de [Regeling verstrekkingen asielzoekers en andere categorieën vreemdelingen 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0017959);
 
 - f. uitkeringen en verstrekkingen ingevolge de Wet gemeentelijke zorg voor houders van een voorwaardelijke vergunning tot verblijf;
 
@@ -287,15 +287,15 @@ De ingevolge [artikel 4.14, achtste lid, onderdeel a, van de wet](https://wetten
 
 ##### Artikel 28. Maatschappelijke beleggingen; vrijstelling groene beleggingen
 
-1. Als kredietinstelling als bedoeld in [artikel 5.14, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.14)wordt aangewezen de kredietinstelling die is ingeschreven in het register, bedoeld in [artikel 52 van de Wet toezicht kredietwezen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005792&artikel=52)die op verzoek van de instelling door de inspecteur, onder door hem te stellen voorwaarden, als zodanig is aangemerkt.
+1. Als bank als bedoeld in [artikel 5.14, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.14) wordt aangewezen de bank die is ingeschreven in het register, bedoeld in [artikel 1:107 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:107) die op verzoek van de instelling door de inspecteur, onder door hem te stellen voorwaarden, als zodanig is aangemerkt.
 
-2. Als beleggingsinstelling als bedoeld in [artikel 5.14, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.14)wordt aangewezen de beleggingsinstelling die is ingeschreven in het register, bedoeld in [artikel 18 van de Wet toezicht beleggingsinstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0004809&artikel=18) die op verzoek van de instelling door de inspecteur, onder door hem te stellen voorwaarden, als zodanig is aangemerkt.
+2. Als beleggingsinstelling als bedoeld in [artikel 5.14, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.14)wordt aangewezen de beleggingsinstelling die is ingeschreven in het register, bedoeld in [artikel 1:107 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:107) die op verzoek van de instelling door de inspecteur, onder door hem te stellen voorwaarden, als zodanig is aangemerkt.
 
-3. Een bestaande kredietinstelling of beleggingsinstelling kan slechts worden aangewezen indien op het tijdstip van inwerkingtreding van de aanwijzing in de kredietinstelling onderscheidenlijk de beleggingsinstelling geen zuivere winst aanwezig is.
+3. Een bestaande bank of beleggingsinstelling kan slechts worden aangewezen indien op het tijdstip van inwerkingtreding van de aanwijzing in de bank onderscheidenlijk de beleggingsinstelling geen zuivere winst aanwezig is.
 
-4. Indien de aangewezen kredietinstelling of beleggingsinstelling niet langer voldoet aan de omschrijving, bedoeld in [artikel 5.14, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.14), of aan de in het eerste lid onderscheidenlijk tweede lid bedoelde voorwaarden, doet de kredietinstelling onderscheidenlijk de beleggingsinstelling daarvan onverwijld schriftelijk mededeling aan de inspecteur.
+4. Indien de aangewezen bank of beleggingsinstelling niet langer voldoet aan de omschrijving, bedoeld in [artikel 5.14, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.14), of aan de in het eerste lid onderscheidenlijk tweede lid bedoelde voorwaarden, doet de bank onderscheidenlijk de beleggingsinstelling daarvan onverwijld schriftelijk mededeling aan de inspecteur.
 
-5. De aanwijzing wordt door de inspecteur ingetrokken indien de kredietinstelling of beleggingsinstelling daarom verzoekt dan wel indien de kredietinstelling of beleggingsinstelling niet langer voldoet aan de omschrijving, bedoeld in [artikel 5.14, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.14), of aan de in het eerste lid onderscheidenlijk tweede lid bedoelde voorwaarden. Indien de kredietinstelling of beleggingsinstelling de in het vierde lid bedoelde mededeling onverwijld heeft gedaan en aannemelijk maakt dat het niet voldoen aan de omschrijving of de voorwaarden van tijdelijke aard is, een incidenteel karakter heeft en niet in strijd is met doel en strekking van de regeling ziet de inspecteur af van intrekking van de aanwijzing.
+5. De aanwijzing wordt door de inspecteur ingetrokken indien de bank of beleggingsinstelling daarom verzoekt dan wel indien de bank of beleggingsinstelling niet langer voldoet aan de omschrijving, bedoeld in [artikel 5.14, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.14), of aan de in het eerste lid onderscheidenlijk tweede lid bedoelde voorwaarden. Indien de bank of beleggingsinstelling de in het vierde lid bedoelde mededeling onverwijld heeft gedaan en aannemelijk maakt dat het niet voldoen aan de omschrijving of de voorwaarden van tijdelijke aard is, een incidenteel karakter heeft en niet in strijd is met doel en strekking van de regeling ziet de inspecteur af van intrekking van de aanwijzing.
 
 6. De aanwijzing, de intrekking van de aanwijzing alsmede de afwijzing van een verzoek om aanwijzing geschieden bij voor bezwaar vatbare beschikking.
 
@@ -303,15 +303,15 @@ De ingevolge [artikel 4.14, achtste lid, onderdeel a, van de wet](https://wetten
 
 ##### Artikel 29. Maatschappelijke beleggingen; vrijstelling sociaal-ethische beleggingen
 
-1. Als kredietinstelling als bedoeld in [artikel 5.15, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.15)wordt aangewezen de kredietinstelling die is ingeschreven in het register, bedoeld in [artikel 52 van de Wet toezicht kredietwezen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005792&artikel=52) die op verzoek van de instelling door de inspecteur, onder door hem te stellen voorwaarden, als zodanig is aangemerkt.
+1. Als bank als bedoeld in [artikel 5.15, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.15) wordt aangewezen de bank die is ingeschreven in het register, bedoeld in [artikel 1:107 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:107) die op verzoek van de instelling door de inspecteur, onder door hem te stellen voorwaarden, als zodanig is aangemerkt.
 
-2. Als beleggingsinstelling als bedoeld in [artikel 5.15, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.15) wordt aangewezen de beleggingsinstelling die is ingeschreven in het register, bedoeld in [artikel 18 van de Wet toezicht beleggingsinstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0004809&artikel=18) die op verzoek van de instelling door de inspecteur, onder door hem te stellen voorwaarden, als zodanig is aangemerkt.
+2. Als beleggingsinstelling als bedoeld in [artikel 5.15, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.15) wordt aangewezen de beleggingsinstelling die is ingeschreven in het register, bedoeld in artikel 1:107 van de Wet op het financieel toezicht die op verzoek van de instelling door de inspecteur, onder door hem te stellen voorwaarden, als zodanig is aangemerkt.
 
-3. Een bestaande kredietinstelling of beleggingsinstelling kan slechts worden aangewezen indien op het tijdstip van inwerkingtreding van de aanwijzing in de kredietinstelling onderscheidenlijk de beleggingsinstelling geen zuivere winst aanwezig is.
+3. Een bestaande bank of beleggingsinstelling kan slechts worden aangewezen indien op het tijdstip van inwerkingtreding van de aanwijzing in de bank onderscheidenlijk de beleggingsinstelling geen zuivere winst aanwezig is.
 
-4. Indien de aangewezen kredietinstelling of beleggingsinstelling niet langer voldoet aan de omschrijving, bedoeld in [artikel 5.15, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.15), of aan de in het eerste lid onderscheidenlijk tweede lid bedoelde voorwaarden, doet de kredietinstelling onderscheidenlijk de beleggingsinstelling daarvan onverwijld schriftelijk mededeling aan de inspecteur.
+4. Indien de aangewezen bank of beleggingsinstelling niet langer voldoet aan de omschrijving, bedoeld in [artikel 5.15, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.15), of aan de in het eerste lid onderscheidenlijk tweede lid bedoelde voorwaarden, doet de bank onderscheidenlijk de beleggingsinstelling daarvan onverwijld schriftelijk mededeling aan de inspecteur.
 
-5. De aanwijzing wordt door de inspecteur ingetrokken indien de kredietinstelling of beleggingsinstelling daarom verzoekt dan wel indien de kredietinstelling of beleggingsinstelling niet langer voldoet aan de omschrijving, bedoeld in [artikel 5.15, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.15), of aan de in het eerste lid onderscheidenlijk tweede lid bedoelde voorwaarden. Indien de kredietinstelling of beleggingsinstelling de in het vierde lid bedoelde mededeling onverwijld heeft gedaan en aannemelijk maakt dat het niet voldoen aan de omschrijving of de voorwaarden van tijdelijke aard is, een incidenteel karakter heeft en niet in strijd is met doel en strekking van de regeling ziet de inspecteur af van intrekking van de aanwijzing.
+5. De aanwijzing wordt door de inspecteur ingetrokken indien de bank of beleggingsinstelling daarom verzoekt dan wel indien de bank of beleggingsinstelling niet langer voldoet aan de omschrijving, bedoeld in [artikel 5.15, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.15), of aan de in het eerste lid onderscheidenlijk tweede lid bedoelde voorwaarden. Indien de bank of beleggingsinstelling de in het vierde lid bedoelde mededeling onverwijld heeft gedaan en aannemelijk maakt dat het niet voldoen aan de omschrijving of de voorwaarden van tijdelijke aard is, een incidenteel karakter heeft en niet in strijd is met doel en strekking van de regeling ziet de inspecteur af van intrekking van de aanwijzing.
 
 6. De aanwijzing, de intrekking van de aanwijzing alsmede de afwijzing van een verzoek om aanwijzing geschieden bij voor bezwaar vatbare beschikking.
 
@@ -401,15 +401,15 @@ Onder een geregistreerde, achtergestelde geldlening als bedoeld in [artikel 5.17
 
 ##### Artikel 33a. Beleggingen in durfkapitaal; vrijstelling culturele beleggingen
 
-1. Als kredietinstelling als bedoeld in [artikel 5.18a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.18a) wordt aangewezen de kredietinstelling die is ingeschreven in het register, bedoeld in [artikel 52 van de Wet toezicht kredietwezen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005792&artikel=52), en op verzoek van de instelling door de inspecteur, onder door hem te stellen voorwaarden, als zodanig is aangemerkt.
+1. Als bank als bedoeld in [artikel 5.18a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.18a) wordt aangewezen de bank die is ingeschreven in het register, bedoeld in [artikel 1:107 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:107), en op verzoek van de instelling door de inspecteur, onder door hem te stellen voorwaarden, als zodanig is aangemerkt.
 
-2. Als beleggingsinstelling als bedoeld in [artikel 5.18a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.18a) wordt aangewezen de beleggingsinstelling die is ingeschreven in het register, bedoeld in [artikel 18 van de Wet toezicht beleggingsinstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0004809&artikel=18), en op verzoek van de instelling door de inspecteur, onder door hem te stellen voorwaarden, als zodanig is aangemerkt.
+2. Als beleggingsinstelling als bedoeld in [artikel 5.18a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.18a) wordt aangewezen de beleggingsinstelling die is ingeschreven in het register, bedoeld in [artikel 1:107 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:107), en op verzoek van de instelling door de inspecteur, onder door hem te stellen voorwaarden, als zodanig is aangemerkt.
 
-3. Een bestaande kredietinstelling of beleggingsinstelling kan slechts worden aangewezen indien op het tijdstip van inwerkingtreding van de aanwijzing in de kredietinstelling onderscheidenlijk beleggingsinstelling geen zuivere winst aanwezig is.
+3. Een bestaande bank of beleggingsinstelling kan slechts worden aangewezen indien op het tijdstip van inwerkingtreding van de aanwijzing in de bank onderscheidenlijk beleggingsinstelling geen zuivere winst aanwezig is.
 
-4. Indien de aangewezen kredietinstelling of beleggingsinstelling niet langer voldoet aan de omschrijving, bedoeld in [artikel 5.18a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.18a), of aan de in het eerste lid onderscheidenlijk tweede lid bedoelde voorwaarden, doet de kredietinstelling onderscheidenlijk de beleggingsinstelling daarvan onverwijld schriftelijk mededeling aan de inspecteur.
+4. Indien de aangewezen bank of beleggingsinstelling niet langer voldoet aan de omschrijving, bedoeld in [artikel 5.18a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.18a), of aan de in het eerste lid onderscheidenlijk tweede lid bedoelde voorwaarden, doet de bank onderscheidenlijk de beleggingsinstelling daarvan onverwijld schriftelijk mededeling aan de inspecteur.
 
-5. De aanwijzing wordt door de inspecteur ingetrokken indien de kredietinstelling of beleggingsinstelling daarom verzoekt dan wel indien de kredietinstelling of beleggingsinstelling niet langer voldoet aan de omschrijving, bedoeld in [artikel 5.18a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.18a) of aan de in het eerste lid onderscheidenlijk tweede lid bedoelde voorwaarden. Indien de kredietinstelling of beleggingsinstelling de in het vierde lid bedoelde mededeling onverwijld heeft gedaan en aannemelijk maakt dat het niet voldoen aan de omschrijving of de voorwaarden van tijdelijke aard is, een incidenteel karakter heeft en niet in strijd is met doel en strekking van de regeling ziet de inspecteur af van intrekking van de aanwijzing.
+5. De aanwijzing wordt door de inspecteur ingetrokken indien de bank of beleggingsinstelling daarom verzoekt dan wel indien de bank of beleggingsinstelling niet langer voldoet aan de omschrijving, bedoeld in [artikel 5.18a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.18a) of aan de in het eerste lid onderscheidenlijk tweede lid bedoelde voorwaarden. Indien de bank of beleggingsinstelling de in het vierde lid bedoelde mededeling onverwijld heeft gedaan en aannemelijk maakt dat het niet voldoen aan de omschrijving of de voorwaarden van tijdelijke aard is, een incidenteel karakter heeft en niet in strijd is met doel en strekking van de regeling ziet de inspecteur af van intrekking van de aanwijzing.
 
 6. De aanwijzing, de intrekking van de aanwijzing alsmede de afwijzing van een verzoek om aanwijzing geschieden bij voor bezwaar vatbare beschikking.
 
@@ -666,7 +666,7 @@ Voor de toepassing van de eerste volzin behoort het kind tegelijkertijd tot het 
 
 - b. recht zou hebben gehad op de gecombineerde heffingskorting als bedoeld in [hoofdstuk 8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=8) indien beloningen die hij heeft genoten krachtens regelen als bedoeld in [hoofdstuk VII van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VII) niet zouden zijn vrijgesteld van de heffing van inkomstenbelasting of premie voor de volksverzekeringen als bedoeld in de [Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745).
 
-### Hoofdstuk 10. Overgangs- en slotbepalingen (hoofdstuk 11 van de wet)
+### Hoofdstuk 8. Heffingskorting
 
 ##### Artikel 46. Guldensbedragen
 
@@ -738,11 +738,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst
 
 Vóór 1 januari 2005 vastgestelde lijfrenten die niet in geldeenheden luiden:
 
-- 1. Op een lijfrente waarvan vóór 1 januari 2005 de hoogte van de termijnen in beleggingseenheden (units) met de verzekeraar is overeengekomen, blijft [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=1&artikel=2a&z=2007-01-01&g=2007-01-01) buiten toepassing en kan de lijfrente-overeenkomst worden tenuitvoergelegd zoals is overeengekomen.
+- 1. Op een lijfrente waarvan vóór 1 januari 2005 de hoogte van de termijnen in beleggingseenheden (units) met de verzekeraar is overeengekomen, blijft [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=1&artikel=2a&z=2012-01-01&g=2007-02-25) buiten toepassing en kan de lijfrente-overeenkomst worden tenuitvoergelegd zoals is overeengekomen.
 
-- 2. Indien ter zake van een lijfrente als bedoeld in het eerste lid op of na 1 januari 2005 met de verzekeraar een wijziging van methode van berekening van de termijnen in units of in euro’s wordt overeengekomen, is met ingang van de datum van die wijziging [art. 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=1&artikel=2a&z=2007-01-01&g=2007-01-01) wel van toepassing.
+- 2. Indien ter zake van een lijfrente als bedoeld in het eerste lid op of na 1 januari 2005 met de verzekeraar een wijziging van methode van berekening van de termijnen in units of in euro’s wordt overeengekomen, is met ingang van de datum van die wijziging [art. 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=1&artikel=2a&z=2012-01-01&g=2007-02-25) wel van toepassing.
 
-- 3. Indien een lijfrente als bedoeld in het eerste lid op of na 1 januari 2005 wordt omgezet in een andere lijfrente, is [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=1&artikel=2a&z=2007-01-01&g=2007-01-01) van toepassing op de laatstgenoemde lijfrente.
+- 3. Indien een lijfrente als bedoeld in het eerste lid op of na 1 januari 2005 wordt omgezet in een andere lijfrente, is [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=1&artikel=2a&z=2012-01-01&g=2007-02-25) van toepassing op de laatstgenoemde lijfrente.
 
 ### Hoofdstuk 11. Overgangs- en slotbepalingen ([hoofdstuk 11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=11))
 
@@ -760,7 +760,7 @@ Met betrekking tot het kalenderjaar 2007 wordt voor de toepassing van [artikel 3
 
 ### Hoofdstuk 7. Belastingheffing van buitenlandse belastingplichtigen ([hoofdstuk 7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=7))
 
-### Hoofdstuk 8. Heffingskorting
+### Hoofdstuk 7. Belastingheffing van buitenlandse belastingplichtigen ([hoofdstuk 7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=7))
 
 ##### Artikel 44c. Bedrag ouderschapsverlofkorting
 
@@ -805,6 +805,24 @@ Als instanties als bedoeld in [artikel 6.27, tweede lid, van de wet](https://wet
 ### Hoofdstuk 7. Belastingheffing van buitenlandse belastingplichtigen ([hoofdstuk 7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=7))
 
 ### Hoofdstuk 9. Wijze van heffing (hoofdstuk 9 van de wet)
+
+### Hoofdstuk 9. Wijze van heffing (hoofdstuk 9 van de wet)
+
+### Hoofdstuk 11. Overgangs- en slotbepalingen ([hoofdstuk 11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=11))
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst
+
+##### Artikel 41a. Aan te merken instellingen voor aftrekbare giften
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 41b. Plafond vermogen van een aangemerkte instelling
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 41c. Bij één beschikking meer instellingen aanmerken
+
+Dit onderdeel is nog niet inwerking getreden
 
 ### Hoofdstuk 10. Overgangsrecht
 
