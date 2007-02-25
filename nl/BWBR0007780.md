@@ -4,7 +4,7 @@ identifier: "BWBR0007780"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-01"
-last_updated: "2007-01-01"
+last_updated: "2007-02-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007780"
 soort: "ministeriele-regeling"
@@ -260,7 +260,7 @@ Als bedrijfssectoren, bedoeld in artikel 14, eerste lid, onderdeel d, van de wet
 
 ##### Artikel 11d
 
-Zolang de inhoudingsplichtige nog niet beschikt over een door alle betrokken partijen getekende overeenkomst als bedoeld in [artikel 14, eerste lid, onderdelen a, f en g, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=14) bewaart hij, in afwijking van [artikel 14, zesde en achtste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=14) bij de loonadministratie een verklaring van het Regionaal Opleidingscentrum waaruit blijkt dat de desbetreffende leerling de beroepsgerichte, de basisberoepsgerichte of de beroepsopleidende leerweg volgt.
+Zolang de inhoudingsplichtige nog niet beschikt over een door alle betrokken partijen getekende overeenkomst als bedoeld in [artikel 14, eerste lid, onderdelen a, f en g, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=14) bewaart hij, in afwijking van [artikel 14, zesde en achtste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=14) bij de loonadministratie een verklaring van het Regionaal Opleidingscentrum waaruit blijkt dat de desbetreffende leerling de beroepsbegeleidende, de basisberoepsgerichte of de beroepsopleidende leerweg volgt.
 
 ##### Artikel 12
 
