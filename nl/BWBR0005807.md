@@ -4,7 +4,7 @@ identifier: "BWBR0005807"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-01-01"
-last_updated: "2007-02-01"
+last_updated: "2007-03-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005807"
 soort: "AMvB"
@@ -60,9 +60,9 @@ Hebben goedgevonden en verstaan:
 
 1. Vrijstelling van belasting wordt verleend voor personenauto’s, motorrijwielen en bestelauto’s die zijn geregistreerd in het buitenland en door een in dat land gevestigde werkgever ter beschikking zijn gesteld aan een als werknemer bij hem in dienst zijnde in Nederland wonende persoon, indien:
 
-- a. de personenauto, het motorrijwiel of de bestelauto hoofdzakelijk is bestemd voor de uitoefening van de werkzaamheden van de werknemer buiten Nederland, alsmede voor persoonlijk gebruik, gebruik door inwonende gezinsleden daaronder begrepen;
+- a. met het motorrijtuig in Nederland uitsluitend gebruik wordt gemaakt van de weg door de werknemer of zijn inwonende gezinsleden;
 
-- b. de werkgever blijkens een schriftelijke verklaring heeft toegestaan dat de personenauto, het motorrijwiel of de bestelauto mede voor persoonlijk gebruik wordt aangewend; en
+- b. de werkgever blijkens een schriftelijke verklaring te kennen heeft gegeven dat het motorrijtuig aan belanghebbende ter beschikking is gesteld en hoofdzakelijk is bestemd voor de uitvoering van de werkzaamheden buiten Nederland; en
 
 - c. de werknemer als gevolg van de arbeidsverhouding tussen hem en zijn werkgever in beginsel geen invloed kan uitoefenen op de beslissing in welk land de personenauto, het motorrijwiel of de bestelauto wordt geregistreerd.
 
@@ -70,7 +70,7 @@ Hebben goedgevonden en verstaan:
 
 3. Het verzoek wordt bij de inspecteur ingediend voor de aanvang van het gebruik van de weg in Nederland met de personenauto, het motorrijwiel of de bestelauto.
 
-4. Indien de in het eerste lid bedoelde omstandigheden zich niet langer voordoen, trekt de inspecteur de vrijstelling in.
+4. Indien de in het eerste lid bedoelde omstandigheden zich niet langer voordoen, trekt de inspecteur de vrijstelling in bij voor bezwaar vatbare beschikking.
 
 5. Degene aan wie de vrijstelling is verleend stelt de inspecteur ervan in kennis indien de in het eerste lid bedoelde omstandigheden zich niet langer voordoen.
 
@@ -86,23 +86,23 @@ Hebben goedgevonden en verstaan:
 
 - -. bestuurder, vennoot of aandeelhouder zijn van een onderneming, opgericht in de vorm van een vennootschap,
 
-een en ander mits de eigenaar of houder niet een werknemer is als bedoeld in [artikel 2, eerste lid, onderdeel **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0005807&artikel=2&z=2007-02-01&g=2007-02-01).
+een en ander mits de eigenaar of houder niet een werknemer is als bedoeld in [artikel 2, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0005807&artikel=2&z=2007-03-01&g=2007-03-01).
 
-2. De vrijstelling als bedoeld in het eerste lid wordt slechts verleend indien:
+2. De vrijstelling wordt slechts verleend indien:
 
-- a. de personenauto, het motorrijwiel of de bestelauto uitsluitend wordt gebruikt door de eigenaar of houder zelf; en
+- a. met het motorrijtuig in Nederland uitsluitend gebruik wordt gemaakt van de weg door de in het eerste lid bedoelde Nederlands ingezetene of zijn inwonende gezinsleden; en
 
-- b. uitsluitend de afstand van de woonplaats naar de in het buitenland gelegen werkplaats en omgekeerd wordt overbrugd.
+- b. het motorrijtuig blijkens een kilometerregistratie voor ten minste 50% zakelijk buiten Nederland wordt gebruikt; het zakelijk gebruik buiten Nederland wordt per kalenderjaar bepaald, waarbij de afstand die wordt overbrugd van de woonplaats naar de in het buitenland gelegen werkplaats en omgekeerd buiten beschouwing blijft.
 
-3. [Artikel 2, tweede tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005807&artikel=2&z=2007-02-01&g=2007-02-01), is van overeenkomstige toepassing.
+3. [Artikel 2, tweede tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005807&artikel=2&z=2007-03-01&g=2007-03-01), is van overeenkomstige toepassing.
 
 ##### Artikel 4
 
-1. Vrijstelling van belasting wordt in andere gevallen dan bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005807&artikel=2&z=2007-02-01&g=2007-02-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0005807&artikel=3&z=2007-02-01&g=2007-02-01) en [3a](https://wetten.overheid.nl/jci1.3:c:BWBR0005807&artikel=3a&z=2007-02-01&g=2007-02-01) verleend voor uit een ander land afkomstige personenauto’s, motorrijwielen en bestelauto’s indien ter zake van het in het vrije verkeer brengen daarvan aanspraak op vrijstelling van rechten bij invoer bestaat, of zou bestaan indien de vervoermiddelen uit een ander land dan een lid-staat van de Europese Unie in het vrije verkeer zouden zijn gebracht, onder de daarbij gestelde voorwaarden en beperkingen.
+1. Vrijstelling van belasting wordt in andere gevallen dan bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005807&artikel=2&z=2007-03-01&g=2007-03-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0005807&artikel=3&z=2007-03-01&g=2007-03-01) en [3a](https://wetten.overheid.nl/jci1.3:c:BWBR0005807&artikel=3a&z=2007-03-01&g=2007-03-01) verleend voor uit een ander land afkomstige personenauto’s, motorrijwielen en bestelauto’s indien ter zake van het in het vrije verkeer brengen daarvan aanspraak op vrijstelling van rechten bij invoer bestaat, of zou bestaan indien de vervoermiddelen uit een ander land dan een lid-staat van de Europese Unie in het vrije verkeer zouden zijn gebracht, onder de daarbij gestelde voorwaarden en beperkingen.
 
 2. Indien aanspraak op vrijstelling van rechten bij invoer bestaat of zou bestaan ter zake van de wederinvoer van een personenauto, een motorrijwiel of een bestelauto, wordt de vrijstelling slechts verleend indien wordt aangetoond dat de belasting vóór de overbrenging naar het buitenland daadwerkelijk is betaald en niet ter zake van de overbrenging naar het buitenland is teruggegeven.
 
-3. Indien voor de in het eerste lid bedoelde personenauto’s, motorrijwielen en bestelauto’s vrijstelling van rechten bij invoer wordt gevraagd overeenkomstig de daarvoor geldende bepalingen, dient de desbetreffende aanvraag tevens het verzoek om vrijstelling van belasting te bevatten. In andere gevallen is [artikel 2, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005807&artikel=2&z=2007-02-01&g=2007-02-01), van overeenkomstige toepassing.
+3. Indien voor de in het eerste lid bedoelde personenauto’s, motorrijwielen en bestelauto’s vrijstelling van rechten bij invoer wordt gevraagd overeenkomstig de daarvoor geldende bepalingen, dient de desbetreffende aanvraag tevens het verzoek om vrijstelling van belasting te bevatten. In andere gevallen is [artikel 2, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005807&artikel=2&z=2007-03-01&g=2007-03-01), van overeenkomstige toepassing.
 
 4. In de gevallen waarin vrijstelling van belasting is verleend op de voet van het eerste lid, wordt, indien ingevolge de bepalingen op grond waarvan de vrijstelling van rechten bij invoer is verleend of zou worden verleend de rechten bij invoer verschuldigd is of zou worden, tevens de belasting verschuldigd.
 
@@ -310,7 +310,7 @@ Bij wijziging van de tenaamstelling van de bestelauto blijft [artikel 13a, derde
 
 - a. het kenteken van een bestelauto waarvoor ingevolge [artikel 13a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=13a) vrijstelling van belasting is verleend, binnen vijf jaren na het tijdstip waarop de bestelauto is ingeschreven in het register, bedoeld in [artikel 1, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=1), op naam wordt gesteld van een ondernemer die voldoet aan de voorwaarden genoemd in [artikel 13a, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=13a), en
 
-- b. in de administratie van de ondernemer op wiens naam het kenteken daarvoor was gesteld een verklaring is opgenomen waarin deze ondernemer en de in onderdeel a bedoelde ondernemer ten aanzien van de bestelauto verklaren, dat de in onderdeel a bedoelde ondernemer voor de toepassing van [artikel 13a](https://wetten.overheid.nl/jci1.3:c:BWBR0005807&artikel=13a&z=2007-02-01&g=2007-02-01) in de plaats treedt van de ondernemer op wiens naam het kenteken daarvoor was gesteld.
+- b. in de administratie van de ondernemer op wiens naam het kenteken daarvoor was gesteld een verklaring is opgenomen waarin deze ondernemer en de in onderdeel a bedoelde ondernemer ten aanzien van de bestelauto verklaren, dat de in onderdeel a bedoelde ondernemer voor de toepassing van [artikel 13a](https://wetten.overheid.nl/jci1.3:c:BWBR0005807&artikel=13a&z=2007-03-01&g=2007-03-01) in de plaats treedt van de ondernemer op wiens naam het kenteken daarvoor was gesteld.
 
 ##### Artikel 3a
 
@@ -340,7 +340,7 @@ Bij wijziging van de tenaamstelling van de bestelauto blijft [artikel 13a, derde
 
 1. De in artikel 14a, eerste lid, van de wet bedoelde teruggaaf wordt slechts verleend indien:
 
-- a. het motorrijtuig buiten Nederland wordt gebracht en op het moment van de beëindiging van de tenaamstelling van het kenteken in het register, bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005807&artikel=1&z=2007-02-01&g=2007-02-01), blijkens dit register niet wordt aangemerkt als motorrijtuig bestemd voor sloop of motorrijtuig dat wacht op keuring;
+- a. het motorrijtuig buiten Nederland wordt gebracht en op het moment van de beëindiging van de tenaamstelling van het kenteken in het register, bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005807&artikel=1&z=2007-03-01&g=2007-03-01), blijkens dit register niet wordt aangemerkt als motorrijtuig bestemd voor sloop of motorrijtuig dat wacht op keuring;
 
 - b. het verzoek om teruggaaf wordt gedaan binnen dertien weken na beëindiging van de tenaamstelling van het kenteken in het register, bedoeld in [artikel 1, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=1); en
 
@@ -360,6 +360,6 @@ Bij wijziging van de tenaamstelling van de bestelauto blijft [artikel 13a, derde
 
 - c. bij het verzoek bescheiden worden overgelegd waaruit blijkt dat het motorrijtuig is geregistreerd in een andere lidstaat van de Europese Unie of een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, alsmede bescheiden waaruit blijkt vanaf welk tijdstip het motorrijtuig niet langer in Nederland feitelijk ter beschikking staat van de in Nederland wonende natuurlijke persoon of gevestigd lichaam.
 
-2. [Artikel 4a, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005807&artikel=4a&z=2007-02-01&g=2007-02-01), is van overeenkomstige toepassing.
+2. [Artikel 4a, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005807&artikel=4a&z=2007-03-01&g=2007-03-01), is van overeenkomstige toepassing.
 
 Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
