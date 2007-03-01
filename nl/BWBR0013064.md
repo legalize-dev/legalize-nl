@@ -4,7 +4,7 @@ identifier: "BWBR0013064"
 country: "nl"
 rank: "wet"
 publication_date: "2023-07-01"
-last_updated: "2002-01-01"
+last_updated: "2007-03-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013064"
 soort: "wet"
@@ -60,7 +60,11 @@ De munten die door de Staat der Nederlanden worden uitgegeven zijn Nederlandse e
 
 ##### Artikel 3
 
-De bestanddelen van de beeldenaars van de nationale zijde van de Nederlandse euromunten worden bij koninklijk besluit vastgesteld. Deze munten dragen in ieder geval op de nationale zijde de beeltenis en de naam van de Koning met de woorden: Koning (Koningin) der Nederlanden.
+1. De bestanddelen van de beeldenaars van de nationale zijde van de Nederlandse euromunten worden bij koninklijk besluit vastgesteld.
+
+2. De in het eerste lid bedoelde munten dragen in ieder geval de beeltenis en de naam van de Koning (Koningin) en de woorden: Koning (Koningin) der Nederlanden.
+
+3. In het kader van een Europees herdenkingsthema kan ten aanzien van de Nederlandse euromunten van twee euro worden afgeweken van het tweede lid.
 
 ##### Artikel 4
 
@@ -90,7 +94,7 @@ De bestanddelen van de beeldenaars van de nationale zijde van de Nederlandse eur
 
 ##### Artikel 6
 
-1. De munten, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013064&artikel=2&z=2002-01-01&g=2002-01-01), worden uitsluitend in opdracht van de Staat der Nederlanden vervaardigd en uitsluitend door de Staat der Nederlanden uitgegeven.
+1. De munten, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013064&artikel=2&z=2007-03-01&g=2007-03-01), worden uitsluitend in opdracht van de Staat der Nederlanden vervaardigd en uitsluitend door de Staat der Nederlanden uitgegeven.
 
 2. De in het eerste lid bedoelde opdracht wordt verleend onder het beding dat de naar het oordeel van Onze minister in verband met het vervaardigen van munten noodzakelijke veiligheidsmaatregelen in acht worden genomen.
 
@@ -98,13 +102,13 @@ De bestanddelen van de beeldenaars van de nationale zijde van de Nederlandse eur
 
 ##### Artikel 7
 
-Bij ministeriële regeling worden de buitenomloopstelling en de inwisseling van buitenomloopgestelde bijzondere munten, als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0013064&artikel=4&z=2002-01-01&g=2002-01-01), geregeld.
+Bij ministeriële regeling worden de buitenomloopstelling en de inwisseling van buitenomloopgestelde bijzondere munten, als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0013064&artikel=4&z=2007-03-01&g=2007-03-01), geregeld.
 
 ##### Artikel 8
 
 1. Niemand is gehouden valse of vervalste munten aan te nemen.
 
-2. Euromunten en de munten, bedoeld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0013064&artikel=4&z=2002-01-01&g=2002-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0013064&artikel=5&z=2002-01-01&g=2002-01-01) die vermoed worden vals of vervalst te zijn, kunnen aan een door Onze minister aan te wijzen instantie ter beoordeling worden voorgelegd.
+2. Euromunten en de munten, bedoeld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0013064&artikel=4&z=2007-03-01&g=2007-03-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0013064&artikel=5&z=2007-03-01&g=2007-03-01) die vermoed worden vals of vervalst te zijn, kunnen aan een door Onze minister aan te wijzen instantie ter beoordeling worden voorgelegd.
 
 3. Indien de munten naar het oordeel van de in het tweede lid bedoelde instantie vals of vervalst zijn, worden ze doorgesneden teruggegeven of wordt de stoffelijke waarde vergoed. Indien de munten naar het oordeel van de in het tweede lid bedoelde instantie niet vals of vervalst zijn, worden de munten teruggegeven in de staat waarin ze zijn ontvangen of wordt de nominale waarde vergoed.
 
