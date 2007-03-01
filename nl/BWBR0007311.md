@@ -4,7 +4,7 @@ identifier: "BWBR0007311"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2007-02-01"
+last_updated: "2007-03-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007311"
 soort: "AMvB"
@@ -180,7 +180,7 @@ Tenzij in de beschikking anders is bepaald, werkt deze terug tot op het tijdstip
 
 2. De toepassing van [artikel 50, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=50), van de wet vindt plaats op verzoek.
 
-3. [Artikel 6, tweede lid, en vierde tot en met tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=III&artikel=6&z=2007-02-01&g=2007-02-01), is van overeenkomstige toepassing.
+3. [Artikel 6, tweede lid, en vierde tot en met tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=III&artikel=6&z=2007-03-01&g=2007-03-01), is van overeenkomstige toepassing.
 
 ### Hoofdstuk IIIA. Bedrijfsvoertuigenpark
 
@@ -372,9 +372,9 @@ Vrijstelling van belasting voor motorrijtuigen die buiten Nederland zijn geregis
 
 Vrijstelling van belasting voor motorrijtuigen die zijn geregistreerd in het buitenland en door een aldaar gevestigde werkgever ter beschikking zijn gesteld aan een als werknemer bij hem in dienst zijnde in Nederland wonende persoon, wordt verleend indien:
 
-- a. het motorrijtuig hoofdzakelijk is bestemd voor de uitoefening van de werkzaamheden van de werknemer buiten Nederland, alsmede voor persoonlijk gebruik, gebruik door inwonende gezinsleden daaronder begrepen;
+- a. met het motorrijtuig in Nederland uitsluitend gebruik wordt gemaakt van de weg door de werknemer of zijn inwonende gezinsleden;
 
-- b. de werkgever blijkens een schriftelijke verklaring heeft toegestaan dat het motorrijtuig mede voor persoonlijk gebruik wordt aangewend; en
+- b. de werkgever blijkens een schriftelijke verklaring te kennen heeft gegeven dat het motorrijtuig door hem aan belanghebbende ter beschikking is gesteld en hoofdzakelijk is bestemd voor de uitvoering van de werkzaamheden buiten Nederland; en
 
 - c. de werknemer als gevolg van de arbeidsverhouding tussen hem en zijn werkgever in beginsel geen invloed kan uitoefenen op de beslissing in welk land het motorrijtuig wordt geregistreerd.
 
@@ -382,17 +382,17 @@ Vrijstelling van belasting voor motorrijtuigen die zijn geregistreerd in het bui
 
 Vrijstelling van belasting voor motorrijtuigen die zijn geregistreerd in het buitenland en die worden gebruikt door Nederlands ingezetenen die elders dan in Nederland hoofd zijn van een eenmansbedrijf, lid zijn van een maatschap, of bestuurder, vennoot of aandeelhouder zijn van een onderneming, opgericht in de vorm van een vennootschap, wordt verleend indien:
 
-- a. het motorrijtuig uitsluitend wordt gebruikt door de houder;
+- a. met het motorrijtuig in Nederland uitsluitend gebruik wordt gemaakt van de weg door de Nederlands ingezetene of zijn inwonende gezinsleden; en
 
-- b. uitsluitend de afstand van de woonplaats naar de in het buitenland gelegen werkplaats en omgekeerd wordt overbrugd; en
+- b. het motorrijtuig blijkens een kilometerregistratie voor ten minste 50% zakelijk buiten Nederland wordt gebruikt; het zakelijk gebruik buiten Nederland wordt per kalenderjaar bepaald, waarbij de afstand die wordt overbrugd van de woonplaats naar de in het buitenland gelegen werkplaats en omgekeerd buiten beschouwing blijft; en
 
-- c. de houder niet een werknemer is als bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=25&z=2007-02-01&g=2007-02-01).
+- c. de houder niet een werknemer is als bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=25&z=2007-03-01&g=2007-03-01).
 
 ##### Artikel 27
 
-1. De vrijstellingen, bedoeld in de [artikelen 8 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=8&z=2007-02-01&g=2007-02-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=13&z=2007-02-01&g=2007-02-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=14&z=2007-02-01&g=2007-02-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=17&z=2007-02-01&g=2007-02-01), [19 tot en met 21](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=19&z=2007-02-01&g=2007-02-01), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=23&z=2007-02-01&g=2007-02-01), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=25&z=2007-02-01&g=2007-02-01) en [26](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=26&z=2007-02-01&g=2007-02-01), worden op verzoek verleend. De vrijstelling, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=12&z=2007-02-01&g=2007-02-01), wordt voor vrachtauto’s en autobussen op verzoek verleend.
+1. De vrijstellingen, bedoeld in de [artikelen 8 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=8&z=2007-03-01&g=2007-03-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=13&z=2007-03-01&g=2007-03-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=14&z=2007-03-01&g=2007-03-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=17&z=2007-03-01&g=2007-03-01), [19 tot en met 21](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=19&z=2007-03-01&g=2007-03-01), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=23&z=2007-03-01&g=2007-03-01), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=25&z=2007-03-01&g=2007-03-01) en [26](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=26&z=2007-03-01&g=2007-03-01), worden op verzoek verleend. De vrijstelling, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=12&z=2007-03-01&g=2007-03-01), wordt voor vrachtauto’s en autobussen op verzoek verleend.
 
-2. Ingeval voor een motorrijtuig een verzoek wordt ingediend om vrijstelling van de belasting van personenauto’s en motorrijwielen ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005807&artikel=2) of [artikel 3 van het Uitvoeringsbesluit belasting van personenauto’s en motorrijwielen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005807&artikel=3), geldt dit verzoek mede als verzoek om toepassing van de vrijstelling ingevolge [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=25&z=2007-02-01&g=2007-02-01) onderscheidenlijk [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=26&z=2007-02-01&g=2007-02-01) van dit besluit.
+2. Ingeval voor een motorrijtuig een verzoek wordt ingediend om vrijstelling van de belasting van personenauto’s en motorrijwielen ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005807&artikel=2) of [artikel 3 van het Uitvoeringsbesluit belasting van personenauto’s en motorrijwielen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005807&artikel=3), geldt dit verzoek mede als verzoek om toepassing van de vrijstelling ingevolge [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=25&z=2007-03-01&g=2007-03-01) onderscheidenlijk [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=26&z=2007-03-01&g=2007-03-01) van dit besluit.
 
 3. Het verzoek wordt bij de inspecteur ingediend vóór de aanvang van het tijdvak, onderscheidenlijk van het gebruik van de weg in Nederland met het motorrijtuig.
 
@@ -428,17 +428,17 @@ Vrijstelling van belasting voor motorrijtuigen waarvan de houder niet in Nederla
 
 ##### Artikel 30
 
-1. Voor motorrijtuigen waarvoor tot 1 april 1995 een vrijstelling van belasting gold op grond van [artikel 9 van de Wet op de motorrijtuigenbelasting 1966](https://wetten.overheid.nl/jci1.3:c:BWBR0002534&artikel=9), en waarvoor op grond van de artikelen 71 tot en met 73 van de wet aanspraak op een vrijstelling kan worden gemaakt, geldt in afwijking van [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=27&z=2007-02-01&g=2007-02-01) dat:
+1. Voor motorrijtuigen waarvoor tot 1 april 1995 een vrijstelling van belasting gold op grond van [artikel 9 van de Wet op de motorrijtuigenbelasting 1966](https://wetten.overheid.nl/jci1.3:c:BWBR0002534&artikel=9), en waarvoor op grond van de artikelen 71 tot en met 73 van de wet aanspraak op een vrijstelling kan worden gemaakt, geldt in afwijking van [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=27&z=2007-03-01&g=2007-03-01) dat:
 
 - a. indien de vrijstelling onder de voorwaarde van een vergunning van de inspecteur is verleend, het verzoek om vrijstelling wordt ingediend vóór de datum waarop de vergunning afloopt, dan wel, indien de vergunning voor onbepaalde tijd is afgegeven, vóór 1 juli 1995;
 
-- b. indien de vrijstelling niet onder de voorwaarde van een vergunning is verleend, de verklaringen, bedoeld in [artikel 27, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=27&z=2007-02-01&g=2007-02-01), worden overgelegd vóór 1 juli 1995.
+- b. indien de vrijstelling niet onder de voorwaarde van een vergunning is verleend, de verklaringen, bedoeld in [artikel 27, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=27&z=2007-03-01&g=2007-03-01), worden overgelegd vóór 1 juli 1995.
 
 2. In de in het eerste lid genoemde gevallen wordt de vrijstelling geacht te zijn verleend op grond van de wet tot de in het eerste lid genoemde tijdstippen.
 
 ##### Artikel 31
 
-1. Het Uitvoeringsbesluit motorrijtuigenbelasting 1966 wordt ingetrokken, met dien verstande dat het van toepassing blijft voor de gevallen bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=V&artikel=30&z=2007-02-01&g=2007-02-01).
+1. Het Uitvoeringsbesluit motorrijtuigenbelasting 1966 wordt ingetrokken, met dien verstande dat het van toepassing blijft voor de gevallen bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=V&artikel=30&z=2007-03-01&g=2007-03-01).
 
 2. Het Besluit tot vrijstelling van motorrijtuigenbelasting voor buitenlanders wordt ingetrokken.
 
