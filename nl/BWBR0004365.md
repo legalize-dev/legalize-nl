@@ -4,7 +4,7 @@ identifier: "BWBR0004365"
 country: "nl"
 rank: "wet"
 publication_date: "2022-01-01"
-last_updated: "2006-02-01"
+last_updated: "2007-03-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004365"
 soort: "wet"
@@ -55,11 +55,11 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - 1°. registerloods;
 
-- 2°. degene die voldoet aan de eisen met betrekking tot de vakbekwaamheid en geschiktheid vastgesteld krachtens [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=II&paragraaf=3&artikel=5&z=2006-02-01&g=2006-02-01);
+- 2°. degene die voldoet aan de eisen met betrekking tot de vakbekwaamheid en geschiktheid vastgesteld krachtens [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=II&paragraaf=3&artikel=5&z=2007-03-01&g=2007-03-01);
 
-- c. corporatie: de Nederlandse loodsencorporatie, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=III&paragraaf=1&artikel=6&z=2006-02-01&g=2006-02-01);
+- c. corporatie: de Nederlandse loodsencorporatie, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=III&paragraaf=1&artikel=6&z=2007-03-01&g=2007-03-01);
 
-- d. register: het loodsenregister, bedoeld in [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=V&artikel=21&z=2006-02-01&g=2006-02-01);
+- d. register: het loodsenregister, bedoeld in [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=V&artikel=21&z=2007-03-01&g=2007-03-01);
 
 - e. registerloods: degene die is ingeschreven in het register;
 
@@ -83,7 +83,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 3
 
-De loods is, voor zover hij handelt in de uitoefening van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=II&paragraaf=1&artikel=2&z=2006-02-01&g=2006-02-01) genoemde taken en bevoegdheden, slechts aansprakelijk voor schade door hem veroorzaakt door opzet of grove schuld.
+De loods is, voor zover hij handelt in de uitoefening van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=II&paragraaf=1&artikel=2&z=2007-03-01&g=2007-03-01) genoemde taken en bevoegdheden, slechts aansprakelijk voor schade door hem veroorzaakt door opzet of grove schuld.
 
 #### § 2. Registerloodsen
 
@@ -105,7 +105,7 @@ De loods is, voor zover hij handelt in de uitoefening van de in [artikel 2](http
 
 ##### Artikel 5
 
-1. Onverminderd het in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=II&paragraaf=2&artikel=4&z=2006-02-01&g=2006-02-01) bepaalde kunnen bij of krachtens algemene maatregel van bestuur eisen worden gesteld met betrekking tot de vakbekwaamheid en geschiktheid voor het loodsen van schepen op bij algemene maatregel van bestuur aan te wijzen wateren.
+1. Onverminderd het in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=II&paragraaf=2&artikel=4&z=2007-03-01&g=2007-03-01) bepaalde kunnen bij of krachtens algemene maatregel van bestuur eisen worden gesteld met betrekking tot de vakbekwaamheid en geschiktheid voor het loodsen van schepen op bij algemene maatregel van bestuur aan te wijzen wateren.
 
 2. Degene die heeft aangetoond, te voldoen aan de eisen als bedoeld in het eerste lid, ontvangt daarvan een verklaring volgens een door Onze Minister vast te stellen model. Bij of krachtens de in het eerste lid bedoelde algemene maatregel van bestuur wordt bepaald in welke gevallen de verklaring kan worden ingetrokken.
 
@@ -143,7 +143,7 @@ De voorzitter vertegenwoordigt de corporatie in en buiten rechte.
 
 - 1°. het verzorgen van de algemene opleiding tot registerloods;
 
-- 2°. het verzorgen van de algemene opleiding tot het beroep van registerloods van degene die daartoe op grond van de Algemene wet erkenning EG-hoger-onderwijsdiploma’s in aanmerking komt, en van degene die daartoe op grond van de [Algemene wet erkenning EG-beroepsopleidingen](https://wetten.overheid.nl/jci1.3:c:BWBR0006781) in aanmerking komt, voor zover dit betreft het gedeelte van de opleiding dat betrokkene dient te volgen nadat hij heeft aangetoond te voldoen aan de eisen voor toelating als adspirant-registerloods, zoals vastgesteld krachtens [artikel 19, eerste lid, onderdeel **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=IV&artikel=19&z=2006-02-01&g=2006-02-01);
+- 2°. het verzorgen van de algemene opleiding tot het beroep van registerloods van degene die daartoe op grond van de Algemene wet erkenning EG-hoger-onderwijsdiploma’s in aanmerking komt, en van degene die daartoe op grond van de [Algemene wet erkenning EG-beroepsopleidingen](https://wetten.overheid.nl/jci1.3:c:BWBR0006781) in aanmerking komt, voor zover dit betreft het gedeelte van de opleiding dat betrokkene dient te volgen nadat hij heeft aangetoond te voldoen aan de eisen voor toelating als adspirant-registerloods, zoals vastgesteld krachtens [artikel 19, eerste lid, onderdeel **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=IV&artikel=19&z=2007-03-01&g=2007-03-01);
 
 - 3°. het bevorderen van een behoorlijke beroepsuitoefening;
 
@@ -207,7 +207,7 @@ De voorzitter van een regionale corporatie vertegenwoordigt de regionale corpora
 
 - 2°. het verzorgen van de lokale opleiding en de stage van adspirant-registerloodsen;
 
-- 3°. het verzorgen van de lokale opleiding van degene die een van de algemene opleidingen, bedoeld in [artikel 9, eerste lid, onderdeel a, 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=III&paragraaf=1&artikel=9&z=2006-02-01&g=2006-02-01), met goed gevolg heeft afgesloten;
+- 3°. het verzorgen van de lokale opleiding van degene die een van de algemene opleidingen, bedoeld in [artikel 9, eerste lid, onderdeel a, 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=III&paragraaf=1&artikel=9&z=2007-03-01&g=2007-03-01), met goed gevolg heeft afgesloten;
 
 - 4°. het bevorderen van een behoorlijke beroepsuitoefening;
 
@@ -217,7 +217,7 @@ De voorzitter van een regionale corporatie vertegenwoordigt de regionale corpora
 
 - c. het voorbereiden van ledenvergaderingen.
 
-2. De taken genoemd in het eerste lid, onderdeel a, 3° en 4°, worden uitsluitend verricht voor zover daarin niet is voorzien krachtens [artikel 9, eerste lid, onderdeel a, 2° of 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=III&paragraaf=1&artikel=9&z=2006-02-01&g=2006-02-01).
+2. De taken genoemd in het eerste lid, onderdeel a, 3° en 4°, worden uitsluitend verricht voor zover daarin niet is voorzien krachtens [artikel 9, eerste lid, onderdeel a, 2° of 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=III&paragraaf=1&artikel=9&z=2007-03-01&g=2007-03-01).
 
 3. Voor de deelname aan de opleiding, bedoeld in het eerste lid, onderdeel a, 3°, is een vergoeding verschuldigd aan het bestuur van de regionale corporatie, volgens een bij ministeriële regeling vast te stellen tarief.
 
@@ -241,13 +241,13 @@ De voorzitter van een regionale corporatie vertegenwoordigt de regionale corpora
 
 ##### Artikel 15
 
-1. De ledenvergadering van de corporatie stelt de verordeningen, bedoeld in de [artikelen 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=II&paragraaf=2&artikel=4&z=2006-02-01&g=2006-02-01), [19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=IV&artikel=19&z=2006-02-01&g=2006-02-01), en [26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=VI&artikel=26&z=2006-02-01&g=2006-02-01), vast, alsmede andere verordeningen, waaronder die in het belang van:
+1. De ledenvergadering van de corporatie stelt de verordeningen, bedoeld in de [artikelen 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=II&paragraaf=2&artikel=4&z=2007-03-01&g=2007-03-01), [19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=IV&artikel=19&z=2007-03-01&g=2007-03-01), en [26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=VI&artikel=26&z=2007-03-01&g=2007-03-01), vast, alsmede andere verordeningen, waaronder die in het belang van:
 
 - a. een goede beroepsuitoefening;
 
 - b. een doelmatige dienstverlening, waarbij ten minste dient te worden voorzien in:
 
-- 1°. de verplichting van de registerloods zijn diensten tijdig aan te bieden en te verlenen voor schepen als bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=II&paragraaf=2&artikel=4&z=2006-02-01&g=2006-02-01); en
+- 1°. de verplichting van de registerloods zijn diensten tijdig aan te bieden en te verlenen voor schepen als bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=II&paragraaf=2&artikel=4&z=2007-03-01&g=2007-03-01); en
 
 - 2°. de verplichting van de registerloodsen om in onderling verband zorg te dragen voor het vervoer ten behoeve van hun beroepsuitoefening en de verdere organisatie van de dienstverlening;
 
@@ -269,7 +269,7 @@ De voorzitter van een regionale corporatie vertegenwoordigt de regionale corpora
 
 5. De verordeningen treden, tenzij zij anders bepalen, in werking met ingang van de tweede dag na die van de bekendmaking.
 
-6. Het vierde en vijfde lid zijn eveneens van toepassing op de nadere voorschriften, bedoeld in [artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=III&paragraaf=4&artikel=15&z=2006-02-01&g=2006-02-01).
+6. Het vierde en vijfde lid zijn eveneens van toepassing op de nadere voorschriften, bedoeld in [artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=III&paragraaf=4&artikel=15&z=2007-03-01&g=2007-03-01).
 
 ##### Artikel 17
 
@@ -281,7 +281,7 @@ De voorzitter van een regionale corporatie vertegenwoordigt de regionale corpora
 
 1. Besluiten van de algemene raad of van de ledenvergadering van de corporatie kunnen op de voordracht van Onze Minister bij koninklijk besluit worden vernietigd.
 
-2. Ingeval van vernietiging geschiedt deze binnen zes maanden na de in [artikel 16, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=III&paragraaf=4&artikel=16&z=2006-02-01&g=2006-02-01), bedoelde ter kennis brenging of, wanneer het een ander besluit betreft, binnen zes maanden nadat het besluit ter kennis van Onze Minister is gekomen.
+2. Ingeval van vernietiging geschiedt deze binnen zes maanden na de in [artikel 16, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=III&paragraaf=4&artikel=16&z=2007-03-01&g=2007-03-01), bedoelde ter kennis brenging of, wanneer het een ander besluit betreft, binnen zes maanden nadat het besluit ter kennis van Onze Minister is gekomen.
 
 ### Hoofdstuk IV. Adspirant-registerloodsen
 
@@ -299,7 +299,7 @@ De voorzitter van een regionale corporatie vertegenwoordigt de regionale corpora
 
 ##### Artikel 20
 
-1. Na afloop van de algemene opleiding tot registerloods als bedoeld in [artikel 9, eerste lid, onderdeel **a**, 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=III&paragraaf=1&artikel=9&z=2006-02-01&g=2006-02-01), en na afloop van de lokale opleiding en stage als bedoeld in [artikel 13, eerste lid, onderdeel **a,** 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=III&paragraaf=2&artikel=13&z=2006-02-01&g=2006-02-01), vindt een examen plaats.
+1. Na afloop van de algemene opleiding tot registerloods als bedoeld in [artikel 9, eerste lid, onderdeel **a**, 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=III&paragraaf=1&artikel=9&z=2007-03-01&g=2007-03-01), en na afloop van de lokale opleiding en stage als bedoeld in [artikel 13, eerste lid, onderdeel **a,** 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=III&paragraaf=2&artikel=13&z=2007-03-01&g=2007-03-01), vindt een examen plaats.
 
 2. De inhoud van de examens, het toezicht daarop door gecommitteerden die daartoe door Onze Minister zijn aangewezen en al het overige betreffende de examens wordt vastgesteld bij of krachtens algemene maatregel van bestuur.
 
@@ -311,7 +311,7 @@ De voorzitter van een regionale corporatie vertegenwoordigt de regionale corpora
 
 2. Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de inrichting van het register, de wijze van inschrijving en van doorhaling, het geven van afschriften uit het register en de tarieven daarvoor.
 
-3. In het register wordt degene die voldoet aan [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=V&artikel=22&z=2006-02-01&g=2006-02-01), op zijn aanvraag ingeschreven als registerloods. Bij een inschrijving worden in het register vermeld de naam, voornamen, geboortedatum, geboorteplaats en woonplaats van de aanvrager, alsmede de loodsplichtige scheepvaartwegen en de categorieën van schepen waarvoor hij bevoegd is en tot welke regionale corporatie hij behoort.
+3. In het register wordt degene die voldoet aan [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=V&artikel=22&z=2007-03-01&g=2007-03-01), op zijn aanvraag ingeschreven als registerloods. Bij een inschrijving worden in het register vermeld de naam, voornamen, geboortedatum, geboorteplaats en woonplaats van de aanvrager, alsmede de loodsplichtige scheepvaartwegen en de categorieën van schepen waarvoor hij bevoegd is en tot welke regionale corporatie hij behoort.
 
 4. Indien een registerloods in meer dan een regio bevoegd is, bepaalt de algemene raad, gehoord de besturen van de betreffende regionale corporaties en de betrokken registerloods, ten aanzien van welke regionale corporatie de inschrijving zal plaatsvinden.
 
@@ -319,9 +319,9 @@ De voorzitter van een regionale corporatie vertegenwoordigt de regionale corpora
 
 ##### Artikel 22
 
-1. Degene die met goed gevolg de examens, bedoeld in [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=IV&artikel=20&z=2006-02-01&g=2006-02-01), heeft afgelegd, of beschikt over een ten aanzien van het beroep van registerloods afgegeven EG-verklaring als bedoeld in de Algemene wet erkenning EG-hoger-onderwijsdiploma's, dan wel in de [Algemene wet erkenning EG-beroepsopleidingen](https://wetten.overheid.nl/jci1.3:c:BWBR0006781)" wordt op zijn aanvraag in het register ingeschreven, indien hij:
+1. Degene die met goed gevolg de examens, bedoeld in [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=IV&artikel=20&z=2007-03-01&g=2007-03-01), heeft afgelegd, of beschikt over een ten aanzien van het beroep van registerloods afgegeven EG-verklaring als bedoeld in de Algemene wet erkenning EG-hoger-onderwijsdiploma's, dan wel in de [Algemene wet erkenning EG-beroepsopleidingen](https://wetten.overheid.nl/jci1.3:c:BWBR0006781)" wordt op zijn aanvraag in het register ingeschreven, indien hij:
 
-- a. beschikt over de geneeskundige verklaringen, bedoeld in [artikel 24, eerste lid, onderdeel **e**](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=V&artikel=24&z=2006-02-01&g=2006-02-01), en
+- a. beschikt over de geneeskundige verklaringen, bedoeld in [artikel 24, eerste lid, onderdeel **e**](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=V&artikel=24&z=2007-03-01&g=2007-03-01), en
 
 - b. beschikt over een verklaring van toelating, afgegeven door het bestuur van de desbetreffende regionale corporatie.
 
@@ -333,9 +333,9 @@ De voorzitter van een regionale corporatie vertegenwoordigt de regionale corpora
 
 1. De inschrijving in het register wordt geweigerd, indien:
 
-- a. de aanvrager niet de bewijsstukken van het voldoen aan [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=V&artikel=22&z=2006-02-01&g=2006-02-01), binnen dertien weken nadat het laatste bewijsstuk is uitgegeven, heeft overgelegd of, na het verstrijken van deze termijn, niet tevens een aanvullende verklaring van toelating, afgegeven door het bestuur van de betreffende regionale corporatie, heeft overgelegd; of
+- a. de aanvrager niet de bewijsstukken van het voldoen aan [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=V&artikel=22&z=2007-03-01&g=2007-03-01), binnen dertien weken nadat het laatste bewijsstuk is uitgegeven, heeft overgelegd of, na het verstrijken van deze termijn, niet tevens een aanvullende verklaring van toelating, afgegeven door het bestuur van de betreffende regionale corporatie, heeft overgelegd; of
 
-- b. ten aanzien van de aanvrager ingevolge [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=VII&paragraaf=1&artikel=28&z=2006-02-01&g=2006-02-01), of [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=VIII&artikel=48&z=2006-02-01&g=2006-02-01), de bevoegdheid als registerloods is geschorst of vervallen verklaard.
+- b. ten aanzien van de aanvrager ingevolge [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=VII&paragraaf=1&artikel=28&z=2007-03-01&g=2007-03-01), of [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=VIII&artikel=48&z=2007-03-01&g=2007-03-01), de bevoegdheid als registerloods is geschorst of vervallen verklaard.
 
 2. De algemene raad doet van een beschikking tot weigering van de inschrijving in het register mededeling door toezending van een afschrift daarvan aan het bestuur van de regionale corporatie.
 
@@ -347,7 +347,7 @@ De voorzitter van een regionale corporatie vertegenwoordigt de regionale corpora
 
 - b. op schriftelijk verzoek van de ingeschrevene;
 
-- c. indien ten aanzien van de ingeschrevene verval van de bevoegdheid, bedoeld in [artikel 28, eerste lid, onderdeel **d,**](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=VII&paragraaf=1&artikel=28&z=2006-02-01&g=2006-02-01) of [artikel 48, eerste lid, onderdeel **b,** of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=VIII&artikel=48&z=2006-02-01&g=2006-02-01), voor tenuitvoerlegging vatbaar is geworden;
+- c. indien ten aanzien van de ingeschrevene verval van de bevoegdheid, bedoeld in [artikel 28, eerste lid, onderdeel **d,**](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=VII&paragraaf=1&artikel=28&z=2007-03-01&g=2007-03-01) of [artikel 48, eerste lid, onderdeel **b,** of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=VIII&artikel=48&z=2007-03-01&g=2007-03-01), voor tenuitvoerlegging vatbaar is geworden;
 
 - d. bij het bereiken van de leeftijd van vijfenzestig jaren of van een bij verordening vastgestelde lagere leeftijd;
 
@@ -359,7 +359,7 @@ De voorzitter van een regionale corporatie vertegenwoordigt de regionale corpora
 
 - h. indien de reden voor weigering van de inschrijving eerst na de inschrijving is gebleken.
 
-2. Bij doorhaling is [artikel 23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=V&artikel=23&z=2006-02-01&g=2006-02-01), van overeenkomstige toepassing.
+2. Bij doorhaling is [artikel 23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=V&artikel=23&z=2007-03-01&g=2007-03-01), van overeenkomstige toepassing.
 
 3. Doorhaling van de inschrijving brengt mee verlies van de betrekkingen waarbij de hoedanigheid van lid van de corporatie of van de regionale corporatie, ingevolge het bij of krachtens deze wet bepaalde, vereiste voor benoembaarheid of verkiesbaarheid is.
 
@@ -369,7 +369,7 @@ De voorzitter van een regionale corporatie vertegenwoordigt de regionale corpora
 
 ##### Artikel 25
 
-Degene die in het register ingeschreven is geweest, wordt, indien de vorige inschrijving is doorgehaald op de grond, bedoeld in [artikel 24, eerste lid, onderdeel **e**](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=V&artikel=24&z=2006-02-01&g=2006-02-01), op zijn verzoek opnieuw in het register ingeschreven als bij de aanvraag daarvoor het bewijs wordt overgelegd dat deze grond heeft opgehouden te bestaan.
+Degene die in het register ingeschreven is geweest, wordt, indien de vorige inschrijving is doorgehaald op de grond, bedoeld in [artikel 24, eerste lid, onderdeel **e**](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=V&artikel=24&z=2007-03-01&g=2007-03-01), op zijn verzoek opnieuw in het register ingeschreven als bij de aanvraag daarvoor het bewijs wordt overgelegd dat deze grond heeft opgehouden te bestaan.
 
 ### Hoofdstuk VI. Financiën
 
@@ -391,15 +391,15 @@ Degene die in het register ingeschreven is geweest, wordt, indien de vorige insc
 
 - c. een waarborg voor het kunnen verzorgen van de taken van de algemene raad en de besturen van de regionale corporaties.
 
-3. In afwijking van [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=III&paragraaf=4&artikel=15&z=2006-02-01&g=2006-02-01), wordt de verordening, bedoeld in het eerste lid, voor de eerste keer vastgesteld door de algemene raad.
+3. In afwijking van [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=III&paragraaf=4&artikel=15&z=2007-03-01&g=2007-03-01), wordt de verordening, bedoeld in het eerste lid, voor de eerste keer vastgesteld door de algemene raad.
 
-4. [Artikel 16, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=III&paragraaf=4&artikel=16&z=2006-02-01&g=2006-02-01), is op de vaststelling, bedoeld in het derde lid, niet van toepassing.
+4. [Artikel 16, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=III&paragraaf=4&artikel=16&z=2007-03-01&g=2007-03-01), is op de vaststelling, bedoeld in het derde lid, niet van toepassing.
 
-5. Onder functioneel leeftijdspensioen, bedoeld in het tweede lid, onderdeel **a**, wordt verstaan de vergoeding op grond van het doorhalen van de inschrijving in het register ten gevolge van het bereiken van de bij of krachtens [artikel 24, eerste lid, onderdeel **d**](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=V&artikel=24&z=2006-02-01&g=2006-02-01), vastgestelde leeftijd, alsmede bij het bereiken van die leeftijd na een voorafgegane doorhaling krachtens [artikel 24, eerste lid, onderdeel **e**](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=V&artikel=24&z=2006-02-01&g=2006-02-01).
+5. Onder functioneel leeftijdspensioen, bedoeld in het tweede lid, onderdeel **a**, wordt verstaan de vergoeding op grond van het doorhalen van de inschrijving in het register ten gevolge van het bereiken van de bij of krachtens [artikel 24, eerste lid, onderdeel **d**](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=V&artikel=24&z=2007-03-01&g=2007-03-01), vastgestelde leeftijd, alsmede bij het bereiken van die leeftijd na een voorafgegane doorhaling krachtens [artikel 24, eerste lid, onderdeel **e**](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=V&artikel=24&z=2007-03-01&g=2007-03-01).
 
 ##### Artikel 27
 
-Vaststelling van een verordening tot wijziging van de verordening, bedoeld in [artikel 26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=VI&artikel=26&z=2006-02-01&g=2006-02-01), voor zover deze betrekking heeft op een wijziging van de bedragen of de maatstaven voor de vaststelling daarvan, vindt slechts plaats door een besluit van de ledenvergadering met een meerderheid van twee derden van de in die ledenvergadering uitgebrachte geldige stemmen.
+Vaststelling van een verordening tot wijziging van de verordening, bedoeld in [artikel 26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=VI&artikel=26&z=2007-03-01&g=2007-03-01), voor zover deze betrekking heeft op een wijziging van de bedragen of de maatstaven voor de vaststelling daarvan, vindt slechts plaats door een besluit van de ledenvergadering met een meerderheid van twee derden van de in die ledenvergadering uitgebrachte geldige stemmen.
 
 ### Hoofdstuk VII. Tuchtrechtspraak
 
@@ -407,7 +407,7 @@ Vaststelling van een verordening tot wijziging van de verordening, bedoeld in [a
 
 ##### Artikel 28
 
-1. De registerloods is onderworpen aan tuchtrechtspraak ter zake van enige overtreding van een verordening of van de krachtens een verordening gegeven nadere voorschriften, als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=III&paragraaf=4&artikel=15&z=2006-02-01&g=2006-02-01). Voor een dergelijke overtreding kan een van de volgende maatregelen worden opgelegd:
+1. De registerloods is onderworpen aan tuchtrechtspraak ter zake van enige overtreding van een verordening of van de krachtens een verordening gegeven nadere voorschriften, als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=III&paragraaf=4&artikel=15&z=2007-03-01&g=2007-03-01). Voor een dergelijke overtreding kan een van de volgende maatregelen worden opgelegd:
 
 - a. berisping;
 
@@ -439,13 +439,9 @@ Vaststelling van een verordening tot wijziging van de verordening, bedoeld in [a
 
 1. Er is een tuchtcollege loodsen dat is gevestigd te 's-Gravenhage.
 
-2. Het tuchtcollege loodsen is belast met de behandeling van zaken als bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=VII&paragraaf=1&artikel=28&z=2006-02-01&g=2006-02-01).
+2. Het tuchtcollege loodsen is belast met de behandeling van zaken als bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=VII&paragraaf=1&artikel=28&z=2007-03-01&g=2007-03-01).
 
-3. Het tuchtcollege loodsen bestaat uit een voorzitter en vier registerloodsen. Tot voorzitter kan worden benoemd degene:
-
-- a. aan wie op grond van het afsluitend examen van een opleiding in het wetenschappelijk onderwijs door een universiteit dan wel de Open Universiteit, waarop de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682) betrekking heeft, de graad Bachelor op het gebied van het recht en tevens de graad Master op het gebied van het recht is verleend, of
-
-- b. die op grond van het afsluitend examen van een opleiding op het gebied van het recht aan een universiteit dan wel de Open Universiteit, waarop de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682) betrekking heeft, het recht heeft verkregen om de titel meester te voeren.
+3. Het tuchtcollege loodsen bestaat uit een voorzitter en vier registerloodsen.
 
 Bij algemene maatregel van bestuur kunnen graden, verleend door een universiteit, de Open Universiteit of een hogeschool als bedoeld in de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682), of daaraan gelijkwaardige getuigschriften worden aangewezen die voor de toepasselijkheid van onderdeel a gelijk worden gesteld aan de in dat onderdeel bedoelde graad Bachelor op het gebied van het recht.
 
@@ -465,8 +461,6 @@ Bij algemene maatregel van bestuur kunnen graden, verleend door een universiteit
 
 Zij worden door Onze Minister en Onze Minister van Justitie benoemd, geschorst en ontslagen.
 
-Bij algemene maatregel van bestuur kunnen graden, verleend door een universiteit, de Open Universiteit of een hogeschool als bedoeld in de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682), of daaraan gelijkwaardige getuigschriften worden aangewezen die voor de toepasselijkheid van onderdeel a gelijk worden gesteld aan de in dat onderdeel bedoelde graad Bachelor op het gebied van het recht.
-
 5. De voorzitter en de secretaris, alsmede hun plaatsvervangers, worden in ieder geval ontslagen met ingang van de maand volgend op die waarin zij de leeftijd van zeventig jaar hebben bereikt.
 
 ##### Artikel 31
@@ -485,9 +479,9 @@ Het in de [artikelen 46c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 ##### Artikel 33
 
-1. De voorzitter is bevoegd ambtshalve aan de leden en hun plaatsvervangers, die de waardigheid van hun ambt, hun ambtsbezigheden of ambtsplichten verwaarlozen of die zich schuldig maken aan overtreding van [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=VII&paragraaf=2&artikel=34&z=2006-02-01&g=2006-02-01), de nodige waarschuwing te doen, na hen in de gelegenheid te hebben gesteld om te worden gehoord.
+1. De voorzitter is bevoegd ambtshalve aan de leden en hun plaatsvervangers, die de waardigheid van hun ambt, hun ambtsbezigheden of ambtsplichten verwaarlozen of die zich schuldig maken aan overtreding van [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=VII&paragraaf=2&artikel=34&z=2007-03-01&g=2007-03-01), de nodige waarschuwing te doen, na hen in de gelegenheid te hebben gesteld om te worden gehoord.
 
-2. De voorzitter van het College als bedoeld krachtens [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=VII&paragraaf=3&artikel=44&z=2006-02-01&g=2006-02-01), heeft gelijke bevoegdheid ten aanzien van de voorzitter van het tuchtcollege loodsen en diens plaatsvervangers.
+2. De voorzitter van het College als bedoeld krachtens [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=VII&paragraaf=3&artikel=44&z=2007-03-01&g=2007-03-01), heeft gelijke bevoegdheid ten aanzien van de voorzitter van het tuchtcollege loodsen en diens plaatsvervangers.
 
 ##### Artikel 34
 
@@ -507,15 +501,15 @@ De voorzitter, de overige leden en de secretaris, alsmede hun plaatsvervangers, 
 
 ##### Artikel 36
 
-Het tuchtcollege loodsen houdt zitting in de samenstelling als genoemd in [artikel 29, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=VII&paragraaf=2&artikel=29&z=2006-02-01&g=2006-02-01).
+Het tuchtcollege loodsen houdt zitting in de samenstelling als genoemd in [artikel 29, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=VII&paragraaf=2&artikel=29&z=2007-03-01&g=2007-03-01).
 
 ##### Artikel 37
 
-1. Een zaak betreffende een onderwerp als bedoeld in [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=VII&paragraaf=1&artikel=28&z=2006-02-01&g=2006-02-01), wordt bij het tuchtcollege loodsen aanhangig gemaakt door een schriftelijke klacht van de algemene raad, het bestuur van een regionale corporatie of van degene die rechtstreeks in zijn belang is getroffen.
+1. Een zaak betreffende een onderwerp als bedoeld in [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=VII&paragraaf=1&artikel=28&z=2007-03-01&g=2007-03-01), wordt bij het tuchtcollege loodsen aanhangig gemaakt door een schriftelijke klacht van de algemene raad, het bestuur van een regionale corporatie of van degene die rechtstreeks in zijn belang is getroffen.
 
 2. Zodra een klacht is ingekomen stelt de voorzitter een voorlopig onderzoek in. De organen van de corporatie of een regionale corporatie verlenen daarbij desgevraagd medewerking.
 
-3. Blijkt dat de klacht is ingediend door iemand die daartoe niet ingevolge het eerste lid bevoegd is, dan verklaart de voorzitter van het tuchtcollege loodsen de klager zonder nader onderzoek bij met reden omklede beslissing schriftelijk niet ontvankelijk. Blijkt dat de klacht kennelijk ongegrond is in die zin, dat de feiten waarop zij berust niet tot toepassing van [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=VII&paragraaf=1&artikel=28&z=2006-02-01&g=2006-02-01), kunnen leiden, dan kan de voorzitter van het tuchtcollege loodsen zonder verder onderzoek de klacht bij met reden omklede beslissing schriftelijk afwijzen. Blijkt dat het tuchtcollege loodsen onbevoegd is, dan wijst de voorzitter van het tuchtcollege loodsen de klacht bij met reden omklede beslissing schriftelijk af.
+3. Blijkt dat de klacht is ingediend door iemand die daartoe niet ingevolge het eerste lid bevoegd is, dan verklaart de voorzitter van het tuchtcollege loodsen de klager zonder nader onderzoek bij met reden omklede beslissing schriftelijk niet ontvankelijk. Blijkt dat de klacht kennelijk ongegrond is in die zin, dat de feiten waarop zij berust niet tot toepassing van [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=VII&paragraaf=1&artikel=28&z=2007-03-01&g=2007-03-01), kunnen leiden, dan kan de voorzitter van het tuchtcollege loodsen zonder verder onderzoek de klacht bij met reden omklede beslissing schriftelijk afwijzen. Blijkt dat het tuchtcollege loodsen onbevoegd is, dan wijst de voorzitter van het tuchtcollege loodsen de klacht bij met reden omklede beslissing schriftelijk af.
 
 4. Intrekken van de klacht, nadat deze is ingekomen, of staking van de werkzaamheden door de persoon over wie geklaagd is, heeft op de verdere behandeling geen invloed, wanneer naar het oordeel van het tuchtcollege loodsen het algemeen belang dat vermoedelijk is geschonden vordert dat de behandeling wordt voortgezet of wanneer degene over wie geklaagd is, schriftelijk heeft verklaard voortzetting van de behandeling van de klacht te verlangen.
 
@@ -527,7 +521,7 @@ Het tuchtcollege loodsen houdt zitting in de samenstelling als genoemd in [artik
 
 ##### Artikel 39
 
-1. De behandeling van een zaak, betreffende een onderwerp als bedoeld in [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=VII&paragraaf=1&artikel=28&z=2006-02-01&g=2006-02-01), door het tuchtcollege loodsen geschiedt in een openbare zitting, tenzij het tuchtcollege loodsen om gewichtige redenen beveelt dat de behandeling van de zaak geheel of gedeeltelijk met gesloten deuren zal plaatsvinden. Het bevel daartoe houdt de overwegingen in waarop het steunt.
+1. De behandeling van een zaak, betreffende een onderwerp als bedoeld in [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=VII&paragraaf=1&artikel=28&z=2007-03-01&g=2007-03-01), door het tuchtcollege loodsen geschiedt in een openbare zitting, tenzij het tuchtcollege loodsen om gewichtige redenen beveelt dat de behandeling van de zaak geheel of gedeeltelijk met gesloten deuren zal plaatsvinden. Het bevel daartoe houdt de overwegingen in waarop het steunt.
 
 2. De voorzitter is belast met de handhaving van de orde ter zitting en kan daartoe de nodige maatregelen treffen.
 
@@ -537,7 +531,7 @@ Het tuchtcollege loodsen houdt zitting in de samenstelling als genoemd in [artik
 
 ##### Artikel 40
 
-1. Behoudens in de gevallen, als bedoeld in [artikel 37, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=VII&paragraaf=3&artikel=37&z=2006-02-01&g=2006-02-01), neemt het tuchtcollege loodsen geen beslissing aangaande een ingediende klacht dan na verhoor, althans behoorlijke oproeping van de persoon over wie geklaagd is en van de klager.
+1. Behoudens in de gevallen, als bedoeld in [artikel 37, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=VII&paragraaf=3&artikel=37&z=2007-03-01&g=2007-03-01), neemt het tuchtcollege loodsen geen beslissing aangaande een ingediende klacht dan na verhoor, althans behoorlijke oproeping van de persoon over wie geklaagd is en van de klager.
 
 2. De persoon over wie geklaagd is kan, tenzij het tuchtcollege loodsen beveelt dat hij in persoon zal verschijnen, zich ter terechtzitting doen vertegenwoordigen door een advocaat of een daartoe schriftelijk gemachtigd persoon. Hij kan zich door een raadsman doen bijstaan.
 
@@ -595,9 +589,9 @@ De [artikelen 1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0016341&ar
 
 Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld inzake:
 
-- a. de tenuitvoerlegging van de maatregelen, vermeld in [artikel 28, eerste lid, onderdelen **a, c** en **d**](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=VII&paragraaf=1&artikel=28&z=2006-02-01&g=2006-02-01);
+- a. de tenuitvoerlegging van de maatregelen, vermeld in [artikel 28, eerste lid, onderdelen **a, c** en **d**](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=VII&paragraaf=1&artikel=28&z=2007-03-01&g=2007-03-01);
 
-- b. de klachten, als bedoeld in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=VII&paragraaf=3&artikel=37&z=2006-02-01&g=2006-02-01);
+- b. de klachten, als bedoeld in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=VII&paragraaf=3&artikel=37&z=2007-03-01&g=2007-03-01);
 
 - c. de rechtsgang, welke waarborgen geven voor een deugdelijke berechting.
 
@@ -605,23 +599,23 @@ Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld inzake:
 
 ##### Artikel 46
 
-1. Onze Minister is bevoegd tot toepassing van bestuursdwang ter handhaving van het bepaalde bij of krachtens [artikel 9, eerste lid, onder a, 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=III&paragraaf=1&artikel=9&z=2006-02-01&g=2006-02-01), [artikel 13, eerste lid, onder a, 1° en 2°, en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=III&paragraaf=2&artikel=13&z=2006-02-01&g=2006-02-01), [artikel 15, eerste lid, onder b, 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=III&paragraaf=4&artikel=15&z=2006-02-01&g=2006-02-01), [artikel 21, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=V&artikel=21&z=2006-02-01&g=2006-02-01), en [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=VI&artikel=26&z=2006-02-01&g=2006-02-01). Van het besluit wordt mededeling gedaan aan de corporatie onderscheidenlijk de regionale corporatie.
+1. Onze Minister is bevoegd tot toepassing van bestuursdwang ter handhaving van het bepaalde bij of krachtens [artikel 9, eerste lid, onder a, 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=III&paragraaf=1&artikel=9&z=2007-03-01&g=2007-03-01), [artikel 13, eerste lid, onder a, 1° en 2°, en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=III&paragraaf=2&artikel=13&z=2007-03-01&g=2007-03-01), [artikel 15, eerste lid, onder b, 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=III&paragraaf=4&artikel=15&z=2007-03-01&g=2007-03-01), [artikel 21, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=V&artikel=21&z=2007-03-01&g=2007-03-01), en [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=VI&artikel=26&z=2007-03-01&g=2007-03-01). Van het besluit wordt mededeling gedaan aan de corporatie onderscheidenlijk de regionale corporatie.
 
 2. Van de krachtens het eerste lid genomen maatregelen wordt binnen tweemaal vierentwintig uur een schriftelijk verslag opgemaakt dat onverwijld in afschrift wordt gezonden aan de belanghebbenden alsmede aan de algemene raad onderscheidenlijk het bestuur van de regionale corporatie.
 
 ##### Artikel 47
 
-1. Overtreding van de bepalingen, gesteld krachtens [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=II&paragraaf=1&artikel=2&z=2006-02-01&g=2006-02-01), voor zover daarbij uitdrukkelijk als strafbaar feit aangewezen, of overtreding van [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=II&paragraaf=2&artikel=4&z=2006-02-01&g=2006-02-01), wordt gestraft met hechtenis van ten hoogste twee maanden of geldboete van de derde categorie.
+1. Overtreding van de bepalingen, gesteld krachtens [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=II&paragraaf=1&artikel=2&z=2007-03-01&g=2007-03-01), voor zover daarbij uitdrukkelijk als strafbaar feit aangewezen, of overtreding van [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=II&paragraaf=2&artikel=4&z=2007-03-01&g=2007-03-01), wordt gestraft met hechtenis van ten hoogste twee maanden of geldboete van de derde categorie.
 
 2. De in het eerste lid strafbaar gestelde feiten zijn overtredingen.
 
 ##### Artikel 48
 
-1. Bij veroordeling wegens een overtreding genoemd in [artikel 47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=VIII&artikel=47&z=2006-02-01&g=2006-02-01), kan het vonnis tevens inhouden:
+1. Bij veroordeling wegens een overtreding genoemd in [artikel 47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=VIII&artikel=47&z=2007-03-01&g=2007-03-01), kan het vonnis tevens inhouden:
 
-- a. schorsing of beperking van de bevoegdheid als registerloods onderscheidenlijk schorsing of beperking van de krachtens [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=II&paragraaf=3&artikel=5&z=2006-02-01&g=2006-02-01) verkregen bevoegdheid, voor de duur van ten hoogste een jaar;
+- a. schorsing of beperking van de bevoegdheid als registerloods onderscheidenlijk schorsing of beperking van de krachtens [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=II&paragraaf=3&artikel=5&z=2007-03-01&g=2007-03-01) verkregen bevoegdheid, voor de duur van ten hoogste een jaar;
 
-- b. verval of beperking van de bevoegdheid als registerloods onderscheidenlijk verval of beperking van de krachtens [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=II&paragraaf=3&artikel=5&z=2006-02-01&g=2006-02-01) verkregen bevoegdheid.
+- b. verval of beperking van de bevoegdheid als registerloods onderscheidenlijk verval of beperking van de krachtens [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=II&paragraaf=3&artikel=5&z=2007-03-01&g=2007-03-01) verkregen bevoegdheid.
 
 2. Het in het eerste lid gestelde geldt ook bij veroordeling van de loods wegens een overtreding, genoemd in de [Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364), indien de loods die overtreding heeft begaan bij de uitoefening van zijn beroep.
 
@@ -637,7 +631,7 @@ Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld inzake:
 
 ##### Artikel 49a
 
-1. Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn belast de ambtenaren, aangewezen bij het besluit, bedoeld in [artikel 49, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=VIII&artikel=49&z=2006-02-01&g=2006-02-01).
+1. Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn belast de ambtenaren, aangewezen bij het besluit, bedoeld in [artikel 49, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=VIII&artikel=49&z=2007-03-01&g=2007-03-01).
 
 2. De toezichthouders beschikken niet over de bevoegdheden, genoemd in de [artikelen 5:18](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:18) en [5:19 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:19).
 
@@ -645,7 +639,7 @@ Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld inzake:
 
 ##### Artikel 50
 
-1. Onverminderd de [artikelen 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=7), en [8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=8) kan, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, [artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=IX&artikel=52&z=2006-02-01&g=2006-02-01) in werking worden gesteld.
+1. Onverminderd de [artikelen 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=7), en [8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=8) kan, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, [artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=IX&artikel=52&z=2007-03-01&g=2007-03-01) in werking worden gesteld.
 
 2. Wanneer het in het eerste lid bedoelde besluit is genomen, wordt onverwijld een voorstel van wet aan de Tweede Kamer gezonden omtrent het voortduren van de werking van de bij dat besluit in werking gestelde bepaling.
 
@@ -665,23 +659,23 @@ Vervallen
 
 Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
 
-1. Onze Minister is bevoegd aanwijzingen te geven aan de registerloodsen met betrekking tot de beschikbaarheid voor het verrichten van de in [artikel 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=II&paragraaf=1&artikel=2&z=2006-02-01&g=2006-02-01), bedoelde diensten en het verrichten van die diensten alsmede aan de organen van de corporatie en de regionale corporaties met betrekking tot het verzorgen van de hun bij of krachtens deze wet opgedragen taken ten aanzien van de door de registerloodsen te verlenen diensten.
+1. Onze Minister is bevoegd aanwijzingen te geven aan de registerloodsen met betrekking tot de beschikbaarheid voor het verrichten van de in [artikel 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=II&paragraaf=1&artikel=2&z=2007-03-01&g=2007-03-01), bedoelde diensten en het verrichten van die diensten alsmede aan de organen van de corporatie en de regionale corporaties met betrekking tot het verzorgen van de hun bij of krachtens deze wet opgedragen taken ten aanzien van de door de registerloodsen te verlenen diensten.
 
-2. De bepalingen gesteld krachtens [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=II&paragraaf=1&artikel=2&z=2006-02-01&g=2006-02-01), en de bepalingen gesteld bij of krachtens verordeningen als bedoeld in [artikel 15, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=III&paragraaf=4&artikel=15&z=2006-02-01&g=2006-02-01), vinden geen toepassing, voor zover zij onverenigbaar zijn met krachtens het eerste lid gegeven aanwijzingen.
+2. De bepalingen gesteld krachtens [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=II&paragraaf=1&artikel=2&z=2007-03-01&g=2007-03-01), en de bepalingen gesteld bij of krachtens verordeningen als bedoeld in [artikel 15, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=III&paragraaf=4&artikel=15&z=2007-03-01&g=2007-03-01), vinden geen toepassing, voor zover zij onverenigbaar zijn met krachtens het eerste lid gegeven aanwijzingen.
 
 ##### Artikel 53
 
-Het bij of krachtens de [Oorlogswet voor Nederland](https://wetten.overheid.nl/jci1.3:c:BWBR0007983) aangewezen militair gezag is bevoegd om indien de beperkte of de algemene noodtoestand is afgekondigd, in afwijking van de bepalingen gesteld bij of krachtens deze wet, regels te stellen met betrekking tot de beschikbaarheid van registerloodsen voor het verrichten van diensten als bedoeld in [artikel 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=II&paragraaf=1&artikel=2&z=2006-02-01&g=2006-02-01), en het door registerloodsen verrichten van die diensten, alsmede met betrekking tot het door de organen van de corporatie en de regionale corporaties verzorgen van de hun bij of krachtens deze wet opgedragen taken ten aanzien van de door de registerloodsen te verlenen diensten, voor zover zulks met het oog op de uitvoering van de militaire taak ter handhaving van de uitwendige of inwendige veiligheid noodzakelijk is.
+Het bij of krachtens de [Oorlogswet voor Nederland](https://wetten.overheid.nl/jci1.3:c:BWBR0007983) aangewezen militair gezag is bevoegd om indien de beperkte of de algemene noodtoestand is afgekondigd, in afwijking van de bepalingen gesteld bij of krachtens deze wet, regels te stellen met betrekking tot de beschikbaarheid van registerloodsen voor het verrichten van diensten als bedoeld in [artikel 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=II&paragraaf=1&artikel=2&z=2007-03-01&g=2007-03-01), en het door registerloodsen verrichten van die diensten, alsmede met betrekking tot het door de organen van de corporatie en de regionale corporaties verzorgen van de hun bij of krachtens deze wet opgedragen taken ten aanzien van de door de registerloodsen te verlenen diensten, voor zover zulks met het oog op de uitvoering van de militaire taak ter handhaving van de uitwendige of inwendige veiligheid noodzakelijk is.
 
 ##### Artikel 54
 
-1. Een registerloods die als gevolg van een aanwijzing als bedoeld in [artikel 52, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=IX&artikel=52&z=2006-02-01&g=2006-02-01), wordt beperkt in zijn mogelijkheden tot het verrichten van diensten als bedoeld in [artikel 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=II&paragraaf=1&artikel=2&z=2006-02-01&g=2006-02-01), en daardoor onevenredig financieel nadeel ondervindt, wordt door Onze Minister een naar billijkheid te bepalen vergoeding toegekend, die wordt berekend volgens bij algemene maatregel van bestuur te stellen regels.
+1. Een registerloods die als gevolg van een aanwijzing als bedoeld in [artikel 52, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=IX&artikel=52&z=2007-03-01&g=2007-03-01), wordt beperkt in zijn mogelijkheden tot het verrichten van diensten als bedoeld in [artikel 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=II&paragraaf=1&artikel=2&z=2007-03-01&g=2007-03-01), en daardoor onevenredig financieel nadeel ondervindt, wordt door Onze Minister een naar billijkheid te bepalen vergoeding toegekend, die wordt berekend volgens bij algemene maatregel van bestuur te stellen regels.
 
-2. Ingeval [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=IX&artikel=53&z=2006-02-01&g=2006-02-01) toepassing vindt, kan aan de corporatie een vergoeding worden toegekend die wordt berekend volgens bij algemene maatregel van bestuur te stellen regels. Deze regels kunnen afwijken van het bepaalde bij of krachtens [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=VI&artikel=26&z=2006-02-01&g=2006-02-01).
+2. Ingeval [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=IX&artikel=53&z=2007-03-01&g=2007-03-01) toepassing vindt, kan aan de corporatie een vergoeding worden toegekend die wordt berekend volgens bij algemene maatregel van bestuur te stellen regels. Deze regels kunnen afwijken van het bepaalde bij of krachtens [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=VI&artikel=26&z=2007-03-01&g=2007-03-01).
 
 ##### Artikel 55
 
-1. Overtreding van de krachtens [artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=IX&artikel=52&z=2006-02-01&g=2006-02-01) gegeven aanwijzingen en van het bepaalde bij of krachtens de op grond van [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=IX&artikel=53&z=2006-02-01&g=2006-02-01) gestelde regels wordt gestraft met hechtenis van ten hoogste twee maanden of geldboete van de derde categorie.
+1. Overtreding van de krachtens [artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=IX&artikel=52&z=2007-03-01&g=2007-03-01) gegeven aanwijzingen en van het bepaalde bij of krachtens de op grond van [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=IX&artikel=53&z=2007-03-01&g=2007-03-01) gestelde regels wordt gestraft met hechtenis van ten hoogste twee maanden of geldboete van de derde categorie.
 
 2. De in het eerste lid strafbaar gestelde feiten zijn overtredingen.
 
@@ -689,13 +683,13 @@ Het bij of krachtens de [Oorlogswet voor Nederland](https://wetten.overheid.nl/j
 
 ##### Artikel 56
 
-1. Het stellen van regels krachtens de [artikelen 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=II&paragraaf=1&artikel=2&z=2006-02-01&g=2006-02-01), [5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=II&paragraaf=3&artikel=5&z=2006-02-01&g=2006-02-01), [19, eerste lid, onderdeel **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=IV&artikel=19&z=2006-02-01&g=2006-02-01), en [20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=IV&artikel=20&z=2006-02-01&g=2006-02-01), kan dienen ter uitvoering van een verdrag of van een besluit van een volkenrechtelijke organisatie.
+1. Het stellen van regels krachtens de [artikelen 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=II&paragraaf=1&artikel=2&z=2007-03-01&g=2007-03-01), [5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=II&paragraaf=3&artikel=5&z=2007-03-01&g=2007-03-01), [19, eerste lid, onderdeel **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=IV&artikel=19&z=2007-03-01&g=2007-03-01), en [20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=IV&artikel=20&z=2007-03-01&g=2007-03-01), kan dienen ter uitvoering van een verdrag of van een besluit van een volkenrechtelijke organisatie.
 
 2. Daarbij wordt afgeweken van het bepaalde in deze wet, voor zover de bepalingen van een verdrag of een besluit van een volkenrechtelijke organisatie daartoe nopen.
 
 ##### Artikel 57
 
-1. De verordeningsbevoegdheid van andere openbare lichamen dan genoemd in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=III&paragraaf=1&artikel=6&z=2006-02-01&g=2006-02-01), blijft ten aanzien van het onderwerp waarin bij of krachtens deze wet is voorzien, gehandhaafd.
+1. De verordeningsbevoegdheid van andere openbare lichamen dan genoemd in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=III&paragraaf=1&artikel=6&z=2007-03-01&g=2007-03-01), blijft ten aanzien van het onderwerp waarin bij of krachtens deze wet is voorzien, gehandhaafd.
 
 2. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gegeven met betrekking tot de financiële gevolgen van een verordening als bedoeld in het eerste lid.
 
@@ -709,7 +703,7 @@ Vervallen
 
 ##### Artikel 59
 
-De algemene raad en het bestuur van een regionale corporatie, alsmede degene op wie een verplichting rust als bedoeld in [artikel 46, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=VIII&artikel=46&z=2006-02-01&g=2006-02-01), zijn verplicht Onze Minister de inlichtingen te verstrekken die hij nodig acht om te kunnen beoordelen of aanleiding bestaat tot toepassing van [artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=VIII&artikel=46&z=2006-02-01&g=2006-02-01).
+De algemene raad en het bestuur van een regionale corporatie, alsmede degene op wie een verplichting rust als bedoeld in [artikel 46, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=VIII&artikel=46&z=2007-03-01&g=2007-03-01), zijn verplicht Onze Minister de inlichtingen te verstrekken die hij nodig acht om te kunnen beoordelen of aanleiding bestaat tot toepassing van [artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=VIII&artikel=46&z=2007-03-01&g=2007-03-01).
 
 ##### Artikel 60
 
@@ -727,23 +721,23 @@ Vervallen
 
 ##### Artikel 62
 
-In de [artikelen 63](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=III&artikel=63&z=2006-02-01&g=2006-02-01), [65](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=III&artikel=65&z=2006-02-01&g=2006-02-01), [67](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=III&artikel=67&z=2006-02-01&g=2006-02-01) en [68](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=III&artikel=68&z=2006-02-01&g=2006-02-01), wordt onder overgangsdatum verstaan:
+In de [artikelen 63](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=III&artikel=63&z=2007-03-01&g=2007-03-01), [65](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=III&artikel=65&z=2007-03-01&g=2007-03-01), [67](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=III&artikel=67&z=2007-03-01&g=2007-03-01) en [68](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=III&artikel=68&z=2007-03-01&g=2007-03-01), wordt onder overgangsdatum verstaan:
 
-- a. voor degenen, bedoeld in [artikel 63, eerste lid, onderdeel **a,** en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=III&artikel=63&z=2006-02-01&g=2006-02-01): de datum waarop artikel 3, van de Loodswet 1957 wordt ingetrokken;
+- a. voor degenen, bedoeld in [artikel 63, eerste lid, onderdeel **a,** en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=III&artikel=63&z=2007-03-01&g=2007-03-01): de datum waarop artikel 3, van de Loodswet 1957 wordt ingetrokken;
 
-- b. voor degenen, bedoeld in [artikel 63, eerste lid, onderdeel **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=III&artikel=63&z=2006-02-01&g=2006-02-01): de datum waarop artikel 2, derde lid, van de Loodswet 1957 wordt ingetrokken;
+- b. voor degenen, bedoeld in [artikel 63, eerste lid, onderdeel **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=III&artikel=63&z=2007-03-01&g=2007-03-01): de datum waarop artikel 2, derde lid, van de Loodswet 1957 wordt ingetrokken;
 
-- c. voor degenen, bedoeld in [artikel 63, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=III&artikel=63&z=2006-02-01&g=2006-02-01): de datum waarop artikel 9, onderdeel **a,** van de Loodswet 1957 wordt ingetrokken.
+- c. voor degenen, bedoeld in [artikel 63, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=III&artikel=63&z=2007-03-01&g=2007-03-01): de datum waarop artikel 9, onderdeel **a,** van de Loodswet 1957 wordt ingetrokken.
 
 ##### Artikel 63
 
-1. Op hun verzoek worden in het register ingeschreven degenen die, zonder te voldoen aan het bepaalde krachtens [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=V&artikel=22&z=2006-02-01&g=2006-02-01), op de dag voorafgaande aan de overgangsdatum:
+1. Op hun verzoek worden in het register ingeschreven degenen die, zonder te voldoen aan het bepaalde krachtens [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=V&artikel=22&z=2007-03-01&g=2007-03-01), op de dag voorafgaande aan de overgangsdatum:
 
 - a. hetzij loods zijn als bedoeld in artikel 3 van de Loodswet 1957;
 
 - b. hetzij gemeentelijke havenloods zijn als bedoeld in artikel 2, derde lid, van de Loodswet 1957.
 
-2. Op hun verzoek worden degenen die op de dag voorafgaande aan de overgangsdatum adspirant-loods zijn als bedoeld in artikel 6 van het Algemeen Loodsreglement (**Stb.** 1932, 433), of als zodanig zijn aangesteld, aangemerkt als adspirant-loods als bedoeld in [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=IV&artikel=19&z=2006-02-01&g=2006-02-01). Zij hebben het recht op een leerovereenkomst als bedoeld in [artikel 19, eerste lid,onderdeel **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=IV&artikel=19&z=2006-02-01&g=2006-02-01), met een bij of krachtens algemene maatregel van bestuur aan te wijzen regionale corporatie, ingaande op de overgangsdatum.
+2. Op hun verzoek worden degenen die op de dag voorafgaande aan de overgangsdatum adspirant-loods zijn als bedoeld in artikel 6 van het Algemeen Loodsreglement (**Stb.** 1932, 433), of als zodanig zijn aangesteld, aangemerkt als adspirant-loods als bedoeld in [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=IV&artikel=19&z=2007-03-01&g=2007-03-01). Zij hebben het recht op een leerovereenkomst als bedoeld in [artikel 19, eerste lid,onderdeel **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=IV&artikel=19&z=2007-03-01&g=2007-03-01), met een bij of krachtens algemene maatregel van bestuur aan te wijzen regionale corporatie, ingaande op de overgangsdatum.
 
 3. Degenen die op de dag voorafgaande aan de overgangsdatum behoren tot het personeel van de loodsdienst als bedoeld in artikel 4 van het Algemeen Loodsreglement, en op wie het eerste of tweede lid niet van toepassing is, hebben het recht om in dienst te treden bij een door Onze Minister aan te wijzen rechtspersoon op een arbeidsovereenkomst naar burgerlijk recht, ingaande op de overgangsdatum. Dit geldt eveneens voor het personeel in dienst van het Ministerie van Verkeer en Waterstaat onderscheidenlijk van een gemeente die een functie vervullen ten behoeve van de uitoefening van de loodsdienst en waarvan de functie als zodanig is aangewezen door Onze Minister. Voor het personeel in dienst van een gemeente vindt die aanwijzing plaats in overeenstemming met het bestuur van die gemeente. Aanwijzing van de rechtspersoon vindt plaats in overeenstemming met het bestuur van die rechtspersoon.
 
@@ -759,11 +753,11 @@ In de [artikelen 63](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=III
 
 ##### Artikel 64
 
-Degenen die krachtens [artikel 63, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=III&artikel=63&z=2006-02-01&g=2006-02-01), worden ingeschreven in het loodsenregister, degenen die een leerovereenkomst als bedoeld in [artikel 63, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=III&artikel=63&z=2006-02-01&g=2006-02-01), hebben gesloten, en degenen die een arbeidsovereenkomst als bedoeld in [artikel 63, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=III&artikel=63&z=2006-02-01&g=2006-02-01), hebben gesloten, zijn met ingang van de datum van die inschrijving onderscheidenlijk van ingang van die overeenkomst van rechtswege eervol ontslagen uit het dienstverband met het Rijk onderscheidenlijk uit het dienstverband met de betreffende gemeente.
+Degenen die krachtens [artikel 63, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=III&artikel=63&z=2007-03-01&g=2007-03-01), worden ingeschreven in het loodsenregister, degenen die een leerovereenkomst als bedoeld in [artikel 63, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=III&artikel=63&z=2007-03-01&g=2007-03-01), hebben gesloten, en degenen die een arbeidsovereenkomst als bedoeld in [artikel 63, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=III&artikel=63&z=2007-03-01&g=2007-03-01), hebben gesloten, zijn met ingang van de datum van die inschrijving onderscheidenlijk van ingang van die overeenkomst van rechtswege eervol ontslagen uit het dienstverband met het Rijk onderscheidenlijk uit het dienstverband met de betreffende gemeente.
 
 ##### Artikel 65
 
-1. Met ingang van de overgangsdatum verkrijgen de in [artikel 64](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=III&artikel=64&z=2006-02-01&g=2006-02-01) bedoelde personen aanspraken jegens een bij verordening aan te wijzen pensioenfonds onderscheidenlijk een door het bestuur van de rechtspersoon als bedoeld in [artikel 63, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=III&artikel=63&z=2006-02-01&g=2006-02-01), aan te wijzen fonds als bedoeld in [artikel 1 van de Pensioen- en Spaarfondsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002089&artikel=1) (**Stb.** 1981, 18), welke gelijkwaardig zijn aan die welke deze personen op de overgangsdatum krachtens de [Algemene burgerlijke pensioenwet](onbekend) (**Stb.** 1986, 540) hebben jegens het Algemeen burgerlijk pensioenfonds, en neemt het hiervoor bedoelde fonds de daarmee verband houdende verplichtingen op zich.
+1. Met ingang van de overgangsdatum verkrijgen de in [artikel 64](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=III&artikel=64&z=2007-03-01&g=2007-03-01) bedoelde personen aanspraken jegens een bij verordening aan te wijzen pensioenfonds onderscheidenlijk een door het bestuur van de rechtspersoon als bedoeld in [artikel 63, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=III&artikel=63&z=2007-03-01&g=2007-03-01), aan te wijzen fonds als bedoeld in [artikel 1 van de Pensioen- en Spaarfondsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002089&artikel=1) (**Stb.** 1981, 18), welke gelijkwaardig zijn aan die welke deze personen op de overgangsdatum krachtens de [Algemene burgerlijke pensioenwet](onbekend) (**Stb.** 1986, 540) hebben jegens het Algemeen burgerlijk pensioenfonds, en neemt het hiervoor bedoelde fonds de daarmee verband houdende verplichtingen op zich.
 
 2. Bij toepassing van het eerste lid vervallen de aanspraken van de in dat lid bedoelde personen krachtens de Algemene burgerlijke pensioenwet en de daaruit voortvloeiende verplichtingen van het Algemeen burgerlijk pensioenfonds jegens die personen op de overgangsdatum.
 
@@ -773,17 +767,17 @@ Degenen die krachtens [artikel 63, eerste lid](https://wetten.overheid.nl/jci1.3
 
 ##### Artikel 66
 
-1. Indien de vaststelling van het bedrag, bedoeld in [artikel 65, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=III&artikel=65&z=2006-02-01&g=2006-02-01), niet plaatsvindt in overeenstemming met de krachtens het eerste lid van dat artikel aangewezen pensioenfondsen, kunnen bij algemene maatregel van bestuur regels worden gesteld betreffende het ondervangen van nadeel in de opbouw van pensioen, dat voor personen als bedoeld in [artikel 63](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=III&artikel=63&z=2006-02-01&g=2006-02-01), mogelijkerwijs ontstaat als gevolg van het in [artikel 64](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=III&artikel=64&z=2006-02-01&g=2006-02-01) bedoelde ontslag.
+1. Indien de vaststelling van het bedrag, bedoeld in [artikel 65, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=III&artikel=65&z=2007-03-01&g=2007-03-01), niet plaatsvindt in overeenstemming met de krachtens het eerste lid van dat artikel aangewezen pensioenfondsen, kunnen bij algemene maatregel van bestuur regels worden gesteld betreffende het ondervangen van nadeel in de opbouw van pensioen, dat voor personen als bedoeld in [artikel 63](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=III&artikel=63&z=2007-03-01&g=2007-03-01), mogelijkerwijs ontstaat als gevolg van het in [artikel 64](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=III&artikel=64&z=2007-03-01&g=2007-03-01) bedoelde ontslag.
 
-2. Degene bij wie het pensioen van een persoon als bedoeld in [artikel 63](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=III&artikel=63&z=2006-02-01&g=2006-02-01), is verzekerd, alsmede de rechtspersoon als bedoeld in [artikel 63, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=III&artikel=63&z=2006-02-01&g=2006-02-01), zijn verplicht desgevraagd aan Onze Minister binnen een door deze te stellen termijn de gegevens te verschaffen waarvan kennisneming naar het oordeel van Onze Minister nodig is in verband met het voorbereiden of uitvoeren van de algemene maatregel van bestuur, bedoeld in het eerste lid.
+2. Degene bij wie het pensioen van een persoon als bedoeld in [artikel 63](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=III&artikel=63&z=2007-03-01&g=2007-03-01), is verzekerd, alsmede de rechtspersoon als bedoeld in [artikel 63, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=III&artikel=63&z=2007-03-01&g=2007-03-01), zijn verplicht desgevraagd aan Onze Minister binnen een door deze te stellen termijn de gegevens te verschaffen waarvan kennisneming naar het oordeel van Onze Minister nodig is in verband met het voorbereiden of uitvoeren van de algemene maatregel van bestuur, bedoeld in het eerste lid.
 
 3. Bij algemene maatregel van bestuur kunnen regels worden gesteld omtrent de vergoeding van kosten, verbonden aan het verschaffen van gegevens als bedoeld in het tweede lid.
 
 ##### Artikel 67
 
-1. Onze Minister kan verordeningen als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=III&paragraaf=4&artikel=15&z=2006-02-01&g=2006-02-01), voor de eerste maal als ministeriële regeling vaststellen, voor zover deze, naar het oordeel van Onze Minister, op de overgangsdatum, bedoeld in [artikel 62, onderdeel **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=III&artikel=62&z=2006-02-01&g=2006-02-01), in werking dienen te treden. Zij blijven, behoudens eerdere intrekking door Onze Minister, van kracht totdat zij bij verordening zijn ingetrokken en vervangen.
+1. Onze Minister kan verordeningen als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=III&paragraaf=4&artikel=15&z=2007-03-01&g=2007-03-01), voor de eerste maal als ministeriële regeling vaststellen, voor zover deze, naar het oordeel van Onze Minister, op de overgangsdatum, bedoeld in [artikel 62, onderdeel **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=III&artikel=62&z=2007-03-01&g=2007-03-01), in werking dienen te treden. Zij blijven, behoudens eerdere intrekking door Onze Minister, van kracht totdat zij bij verordening zijn ingetrokken en vervangen.
 
-2. Onze Minister benoemt, in overeenstemming met de meerderheid van de personen als bedoeld in [artikel 63, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=III&artikel=63&z=2006-02-01&g=2006-02-01), voor de eerste maal de voorzitter van de corporatie. Dit geldt overeenkomstig voor het bestuur van een regionale corporatie. Deze benoemingen gelden voor ten hoogste negentig dagen. Binnen die termijn geven de ledenvergadering van de corporatie onderscheidenlijk de ledenvergadering van een regionale corporatie uitvoering aan [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=III&paragraaf=1&artikel=8&z=2006-02-01&g=2006-02-01), onderscheidenlijk [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=III&paragraaf=2&artikel=12&z=2006-02-01&g=2006-02-01).
+2. Onze Minister benoemt, in overeenstemming met de meerderheid van de personen als bedoeld in [artikel 63, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=III&artikel=63&z=2007-03-01&g=2007-03-01), voor de eerste maal de voorzitter van de corporatie. Dit geldt overeenkomstig voor het bestuur van een regionale corporatie. Deze benoemingen gelden voor ten hoogste negentig dagen. Binnen die termijn geven de ledenvergadering van de corporatie onderscheidenlijk de ledenvergadering van een regionale corporatie uitvoering aan [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=III&paragraaf=1&artikel=8&z=2007-03-01&g=2007-03-01), onderscheidenlijk [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=III&paragraaf=2&artikel=12&z=2007-03-01&g=2007-03-01).
 
 3. Overdracht van de eigendom van de roerende en onroerende goederen van het Rijk die worden gebruikt ten behoeve van de uitoefening van de loodsdienst, vindt van rechtswege plaats. Onze Minister en Onze Minister van Financiën wijzen deze goederen aan.
 
@@ -797,9 +791,9 @@ Degenen die krachtens [artikel 63, eerste lid](https://wetten.overheid.nl/jci1.3
 
 ##### Artikel 68
 
-1. De rechtspersoon die is aangewezen krachtens [artikel 63, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=III&artikel=63&z=2006-02-01&g=2006-02-01), is gehouden het geheel van de taken van het personeel als bedoeld in [artikel 63, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=III&artikel=63&z=2006-02-01&g=2006-02-01), voor zover die tot de overgangsdatum door Onze Minister onderscheidenlijk de gemeente in eigen beheer zijn verzorgd, gedurende een termijn van ten minste vijf jaren na de overgangsdatum eveneens in eigen beheer te verzorgen. De corporatie is, behoudens bij toepassing van het tweede lid, gehouden om bij of krachtens de verordening als bedoeld in [artikel 15, eerste lid, onderdeel **b**, 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=III&paragraaf=4&artikel=15&z=2006-02-01&g=2006-02-01), hiermee rekening te houden.
+1. De rechtspersoon die is aangewezen krachtens [artikel 63, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=III&artikel=63&z=2007-03-01&g=2007-03-01), is gehouden het geheel van de taken van het personeel als bedoeld in [artikel 63, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=III&artikel=63&z=2007-03-01&g=2007-03-01), voor zover die tot de overgangsdatum door Onze Minister onderscheidenlijk de gemeente in eigen beheer zijn verzorgd, gedurende een termijn van ten minste vijf jaren na de overgangsdatum eveneens in eigen beheer te verzorgen. De corporatie is, behoudens bij toepassing van het tweede lid, gehouden om bij of krachtens de verordening als bedoeld in [artikel 15, eerste lid, onderdeel **b**, 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=I&hoofdstuk=III&paragraaf=4&artikel=15&z=2007-03-01&g=2007-03-01), hiermee rekening te houden.
 
-2. Onze Minister kan het bestuur van de rechtspersoon als bedoeld in het eerste lid, in overeenstemming met Onze Minister van Binnenlandse Zaken, ontheffing verlenen van het eerste lid, indien dat bestuur voldoende garanties heeft verkregen voor het behoud van de werkgelegenheid van het betrokken personeel als bedoeld in [artikel 63, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=III&artikel=63&z=2006-02-01&g=2006-02-01), tot afloop van de in het eerste lid genoemde termijn.
+2. Onze Minister kan het bestuur van de rechtspersoon als bedoeld in het eerste lid, in overeenstemming met Onze Minister van Binnenlandse Zaken, ontheffing verlenen van het eerste lid, indien dat bestuur voldoende garanties heeft verkregen voor het behoud van de werkgelegenheid van het betrokken personeel als bedoeld in [artikel 63, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=III&artikel=63&z=2007-03-01&g=2007-03-01), tot afloop van de in het eerste lid genoemde termijn.
 
 ## Artikel IV
 
