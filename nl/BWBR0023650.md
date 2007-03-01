@@ -4,7 +4,7 @@ identifier: "BWBR0023650"
 country: "nl"
 rank: "wet"
 publication_date: "2008-03-26"
-last_updated: "2006-02-01"
+last_updated: "2007-03-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023650"
 soort: "wet"
@@ -40,7 +40,7 @@ entry_into_force: "2008-03-26"
 
 ##### Artikel I
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Advocatenwet.
 
 ##### Artikel II
 
@@ -140,7 +140,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXVI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet rechtspositie rechterlijke ambtenaren.
 
 ##### Artikel XXVII
 
@@ -180,7 +180,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXXVI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op het notarisambt.
 
 ##### Artikel XXXVII
 
@@ -229,11 +229,3 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel XLV
 
 Dit onderdeel is nog niet inwerking getreden
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is in diverse wetsbepalingen op het terrein van het ministerie van Justitie wijzigingen van wetstechnische of anderszins ondergeschikte aard aan te brengen in verband met geconstateerde wetstechnische gebreken en leemten;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
