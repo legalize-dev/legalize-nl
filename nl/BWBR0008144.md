@@ -4,7 +4,7 @@ identifier: "BWBR0008144"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2006-06-30"
+last_updated: "2007-03-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008144"
 soort: "ministeriele-regeling"
@@ -73,7 +73,7 @@ Aan de dienst worden de volgende taken opgedragen:
 
 - k. het ter uitvoering van [richtlijn nr. 2000/30/EG](32000L0030) verrichten van het controle-onderdeel inspectie van de uitlaatemissie van de technische controle langs de weg van bedrijfsvoertuigen, het verzamelen van gegevens omtrent ernstige gebreken aan bedrijfsvoertuigen die in de andere lidstaten van de Europese Unie tot het verkeer zijn toegelaten en het verstrekken van deze gegevens aan de bevoegde instanties van de betrokken lidstaten;
 
-- l. het instandhouden en beheren van een het systeem voor de centrale landelijke registratie van gestolen fietsen;
+- l. het instandhouden en beheren van een systeem voor de centrale landelijke registratie van fietsen en het verstrekken van het gegeven of een fiets als gestolen gesignaleerd is;
 
 - m. het verzenden van brieven naar houders van een kentekenbewijs ten behoeve van de attendering op de in [artikel 72 van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=72) opgenomen verplichting;
 
@@ -83,13 +83,19 @@ Aan de dienst worden de volgende taken opgedragen:
 
 - p. het verrichten van testen en keuringen van emissieverminderende voertuigonderdelen of voertuigonderdelen ter vermindering van de geluidbelasting, voor zover deze testen en keuringen niet worden voorgeschreven voor de toelating of het gebruik van deze voertuigonderdelen in Nederland;
 
-- q. het toezien op de uitvoering van de overeenkomsten door middel waarvan een natuurlijke persoon of rechtspersoon is aangemerkt als gekwalificeerd voor het verrichten van de inbouw van emissieverminderende voertuigonderdelen en het opnemen van de in dit kader noodzakelijke gegevens in het kentekenregister.
+- q. het toezien op de uitvoering van de overeenkomsten door middel waarvan een natuurlijke persoon of rechtspersoon is aangemerkt als gekwalificeerd voor het verrichten van de inbouw van emissieverminderende voertuigonderdelen en het opnemen van de in dit kader noodzakelijke gegevens in het kentekenregister;
+
+- r. Het verzenden van brieven naar houders van een kentekenbewijs in het kader van een terugroepactie als bedoeld in [artikel 1, derde lid, onderdeel e, van de Regeling gegevensverstrekking Kentekenregister](https://wetten.overheid.nl/jci1.3:c:BWBR0008131&artikel=1) tegen een door de Dienst Wegverkeer vastgesteld tarief:
+
+- 1°. op uitdrukkelijk verzoek van de fabrikant of importeur van motorrijtuigen of aanhangwagens of van onderdelen en uitrustingstukken van deze motorrijtuigen, of
+
+- 2°. ingeval van door de Dienst Wegverkeer geconstateerd misbruik door de in onderdeel 1 bedoelde partijen of een door hen ingeschakelde derde van de in het kader van een eerdere terugroepactie verstrekte gegevens.
 
 ##### Artikel 3. Voorwaarden
 
-1. De dienst mag voor de in [artikel 2, onder a tot en met d, j, p en q](https://wetten.overheid.nl/jci1.3:c:BWBR0008144&artikel=2&z=2006-06-30&g=2006-06-30), bedoelde activiteiten prijzen in rekening brengen.
+1. De dienst mag voor de in [artikel 2, onder a tot en met d, j, p en q](https://wetten.overheid.nl/jci1.3:c:BWBR0008144&artikel=2&z=2007-03-01&g=2007-03-01), bedoelde activiteiten prijzen in rekening brengen.
 
-2. De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008144&artikel=2&z=2006-06-30&g=2006-06-30) bedoelde activiteiten en de hiervoor door de dienst in rekening te brengen prijzen dienen te voldoen aan de volgende voorwaarden:
+2. De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008144&artikel=2&z=2007-03-01&g=2007-03-01) bedoelde activiteiten en de hiervoor door de dienst in rekening te brengen prijzen dienen te voldoen aan de volgende voorwaarden:
 
 - a. de exploitatie mag niet ten koste gaan van de in artikel 4b, eerste en tweede lid, onderdeel a, bedoelde taken;
 
