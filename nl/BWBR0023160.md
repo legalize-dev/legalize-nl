@@ -4,7 +4,7 @@ identifier: "BWBR0023160"
 country: "nl"
 rank: "amvb"
 publication_date: "2009-04-01"
-last_updated: "2007-01-01"
+last_updated: "2007-03-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023160"
 soort: "AMvB"
@@ -48,13 +48,9 @@ entry_into_force: "2007-12-29"
 
 Wijzigt het Besluit personenchauffeurs defensie.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel 5
 
 Wijzigt het Inkomstenbesluit burgerlijke ambtenaren defensie.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 6
 
