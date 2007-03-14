@@ -4,7 +4,7 @@ identifier: "BWBR0013617"
 country: "nl"
 rank: "wet"
 publication_date: "2007-03-14"
-last_updated: "2006-07-14"
+last_updated: "2007-03-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013617"
 soort: "wet"
@@ -51,7 +51,7 @@ Wijzigt de Wet rijonderricht motorrijtuigen 1993.
 
 ##### Artikel IV
 
-Artikel 110, eerste lid, van de Wegenverkeerswet 1994, zoals dat artikel luidde vóór het tijdstip van inwerkingtreding van [artikel I, onderdeel S](https://wetten.overheid.nl/jci1.3:c:BWBR0013617&artikel=I&z=2006-07-14&g=2006-07-14), van deze wet, blijft van kracht ten aanzien van bestuurders van motorrijtuigen, al dan niet met aanhangwagen, die zijn ingericht voor het vervoer van meer dan acht personen, de bestuurder daaronder niet begrepen, die op dat tijdstip de leeftijd van achttien doch nog niet die van eenentwintig jaren hebben bereikt, voor zover
+Artikel 110, eerste lid, van de Wegenverkeerswet 1994, zoals dat artikel luidde vóór het tijdstip van inwerkingtreding van [artikel I, onderdeel S](https://wetten.overheid.nl/jci1.3:c:BWBR0013617&artikel=I&z=2007-03-14&g=2007-03-14), van deze wet, blijft van kracht ten aanzien van bestuurders van motorrijtuigen, al dan niet met aanhangwagen, die zijn ingericht voor het vervoer van meer dan acht personen, de bestuurder daaronder niet begrepen, die op dat tijdstip de leeftijd van achttien doch nog niet die van eenentwintig jaren hebben bereikt, voor zover
 
 - a. aan hen reeds vóór dat tijdstip een rijbewijs voor het besturen van de betrokken motorrijtuigen is afgegeven;
 
@@ -59,11 +59,11 @@ Artikel 110, eerste lid, van de Wegenverkeerswet 1994, zoals dat artikel luidde 
 
 ##### Artikel V
 
-Artikel 110b, eerste lid, onderdeel b, zoals dat artikel luidde vóór het tijdstip van inwerkingtreding van [artikel I, onderdeel T](https://wetten.overheid.nl/jci1.3:c:BWBR0013617&artikel=I&z=2006-07-14&g=2006-07-14), van deze wet, blijft van kracht ten aanzien van bestuurders van motorrijtuigen, al dan niet met aanhangwagen, die zijn ingericht voor het vervoer van meer dan acht personen, de bestuurder daaronder niet begrepen, die op dat tijdstip de leeftijd van achttien doch nog niet die van eenentwintig jaren hebben bereikt, voor zover de aanvraag voor het door of vanwege de overheid ingestelde onderzoek naar de rijvaardigheid en geschiktheid tot het besturen van de betrokken motorrijtuigen vóór dat tijdstip is ingediend.
+Artikel 110b, eerste lid, onderdeel b, zoals dat artikel luidde vóór het tijdstip van inwerkingtreding van [artikel I, onderdeel T](https://wetten.overheid.nl/jci1.3:c:BWBR0013617&artikel=I&z=2007-03-14&g=2007-03-14), van deze wet, blijft van kracht ten aanzien van bestuurders van motorrijtuigen, al dan niet met aanhangwagen, die zijn ingericht voor het vervoer van meer dan acht personen, de bestuurder daaronder niet begrepen, die op dat tijdstip de leeftijd van achttien doch nog niet die van eenentwintig jaren hebben bereikt, voor zover de aanvraag voor het door of vanwege de overheid ingestelde onderzoek naar de rijvaardigheid en geschiktheid tot het besturen van de betrokken motorrijtuigen vóór dat tijdstip is ingediend.
 
 ##### Artikel VI
 
-Artikel 111, eerste lid, aanhef en onderdeel a, zoals dat artikel luidde vóór het tijdstip van inwerkingtreding van [artikel I, onderdeel U](https://wetten.overheid.nl/jci1.3:c:BWBR0013617&artikel=I&z=2006-07-14&g=2006-07-14), van deze wet, blijft van kracht ten aanzien van:
+Artikel 111, eerste lid, aanhef en onderdeel a, zoals dat artikel luidde vóór het tijdstip van inwerkingtreding van [artikel I, onderdeel U](https://wetten.overheid.nl/jci1.3:c:BWBR0013617&artikel=I&z=2007-03-14&g=2007-03-14), van deze wet, blijft van kracht ten aanzien van:
 
 - a. vóór dat tijdstip ingediende aanvragen van rijbewijzen voor het besturen van motorrijtuigen, al dan niet met aanhangwagen, ingericht voor het vervoer van meer dan acht personen, de bestuurder daaronder niet begrepen, die op dat tijdstip nog niet tot afgifte van een rijbewijs hebben geleid;
 
