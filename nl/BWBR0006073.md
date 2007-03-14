@@ -4,7 +4,7 @@ identifier: "BWBR0006073"
 country: "nl"
 rank: "wet"
 publication_date: "2021-04-24"
-last_updated: "2006-10-01"
+last_updated: "2007-03-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006073"
 soort: "wet"
@@ -56,9 +56,9 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - d. rijbewijs: hetgeen daaronder wordt verstaan in de [Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622);
 
-- e. bijscholing: onderricht, gericht op de bevordering van de rijvaardigheid of geschiktheid van rijbewijshouders in het kader van een door Onze Minister krachtens de [Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622) aan betrokkenen opgelegde verplichting zich te onderwerpen aan educatieve maatregelen;
+- e. bijscholing: onderricht, gericht op de bevordering van de rijvaardigheid of geschiktheid van rijbewijshouders in het kader van een door het CBR krachtens de [Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622) aan betrokkenen opgelegde verplichting zich te onderwerpen aan educatieve maatregelen;
 
-- f. instituut: instituut, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=II&artikel=2&z=2006-10-01&g=2006-10-01);
+- f. instituut: instituut, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=II&artikel=2&z=2007-03-14&g=2007-03-14);
 
 - g. toets: proef ter beoordeling van de vereiste mate van bekwaamheid van rijinstructeurs;
 
@@ -114,7 +114,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 1. Het instituut houdt een register betreffende de afgifte en de ongeldigverklaring van certificaten.
 
-2. In het kader van het register verwerkt het instituut gegevens betreffende de afgifte en de ongeldigverklaring van certificaten alsmede gegevens omtrent de door het instituut verrichte taken, bedoeld in [artikel 2, eerste lid, onderdelen a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=II&artikel=2&z=2006-10-01&g=2006-10-01), voor zover die gegevens noodzakelijk zijn voor een goede uitvoering van deze wet of de daarop berustende bepalingen.
+2. In het kader van het register verwerkt het instituut gegevens betreffende de afgifte en de ongeldigverklaring van certificaten alsmede gegevens omtrent de door het instituut verrichte taken, bedoeld in [artikel 2, eerste lid, onderdelen a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=II&artikel=2&z=2007-03-14&g=2007-03-14), voor zover die gegevens noodzakelijk zijn voor een goede uitvoering van deze wet of de daarop berustende bepalingen.
 
 ##### Artikel 5
 
@@ -132,7 +132,7 @@ de gegevens verstrekt die zij voor de uitvoering van hun taak behoeven.
 
 ##### Artikel 6
 
-Indien het instituut is of wordt ontbonden dan wel indien zich andere omstandigheden voordoen ten gevolge waarvan het instituut naar het oordeel van Onze Minister niet in staat is de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=II&artikel=2&z=2006-10-01&g=2006-10-01), genoemde werkzaamheden te verrichten, draagt Onze Minister er zorg voor dat deze werkzaamheden naar behoren worden uitgevoerd.
+Indien het instituut is of wordt ontbonden dan wel indien zich andere omstandigheden voordoen ten gevolge waarvan het instituut naar het oordeel van Onze Minister niet in staat is de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=II&artikel=2&z=2007-03-14&g=2007-03-14), genoemde werkzaamheden te verrichten, draagt Onze Minister er zorg voor dat deze werkzaamheden naar behoren worden uitgevoerd.
 
 ### Hoofdstuk III. Rijonderricht
 
@@ -152,13 +152,13 @@ Indien het instituut is of wordt ontbonden dan wel indien zich andere omstandigh
 
 ##### Artikel 8
 
-1. [Artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=III&paragraaf=1&artikel=7&z=2006-10-01&g=2006-10-01) is niet van toepassing op militaire rijinstructeurs en politierijinstructeurs voor zover zij werkzaam zijn binnen hun dienstverband en zij in het bezit zijn van een door Onze Minister aangewezen diploma.
+1. [Artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=III&paragraaf=1&artikel=7&z=2007-03-14&g=2007-03-14) is niet van toepassing op militaire rijinstructeurs en politierijinstructeurs voor zover zij werkzaam zijn binnen hun dienstverband en zij in het bezit zijn van een door Onze Minister aangewezen diploma.
 
-2. Bij of krachtens algemene maatregel van bestuur kan onder daarbij te stellen voorwaarden worden bepaald dat in bepaalde uitzonderingsgevallen, welke verband houden met het verkrijgen van de bekwaamheid tot het geven van rijonderricht, tijdelijk wordt of kan worden afgeweken van het bepaalde in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=III&paragraaf=1&artikel=7&z=2006-10-01&g=2006-10-01). Een beschikking waarbij toepassing wordt gegeven aan de eerste volzin, wordt tegen betaling van het daarvoor door Onze Minister vastgestelde tarief gegeven door het instituut.
+2. Bij of krachtens algemene maatregel van bestuur kan onder daarbij te stellen voorwaarden worden bepaald dat in bepaalde uitzonderingsgevallen, welke verband houden met het verkrijgen van de bekwaamheid tot het geven van rijonderricht, tijdelijk wordt of kan worden afgeweken van het bepaalde in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=III&paragraaf=1&artikel=7&z=2007-03-14&g=2007-03-14). Een beschikking waarbij toepassing wordt gegeven aan de eerste volzin, wordt tegen betaling van het daarvoor door Onze Minister vastgestelde tarief gegeven door het instituut.
 
 ##### Artikel 8a
 
-1. Onverminderd de [artikelen 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=7), en [8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=8) kan, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, [artikel 8**b**](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=III&paragraaf=1&artikel=8b&z=2006-10-01&g=2006-10-01) in werking worden gesteld.
+1. Onverminderd de [artikelen 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=7), en [8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=8) kan, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, [artikel 8**b**](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=III&paragraaf=1&artikel=8b&z=2007-03-14&g=2007-03-14) in werking worden gesteld.
 
 2. Wanneer het in het eerste lid bedoelde besluit is genomen, wordt onverwijld een voorstel van wet aan de Tweede Kamer gezonden omtrent het voortduren van de werking van de bij dat besluit in werking gestelde bepaling.
 
@@ -232,21 +232,21 @@ Dit onderdeel is nog niet inwerking getreden
 
 1. Een certificaat is geldig voor de duur van vijf achtereenvolgende jaren.
 
-2. Indien een certificaat wordt afgegeven binnen zes maanden vóór het tijdstip waarop de geldigheidsduur van een eerder aan betrokkene afgegeven certificaat verstrijkt dan wel de aanvrager zijn bevoegdheid tot het geven van rijonderricht ontleent aan een ontheffing als bedoeld in [artikel 24a](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=VIA&artikel=24a&z=2006-10-01&g=2006-10-01) gaat de geldigheidsduur van het certificaat in met ingang van de datum waarop de geldigheidsduur van het eerder aan betrokkene afgegeven certificaat verstrijkt.
+2. Indien een certificaat wordt afgegeven binnen zes maanden vóór het tijdstip waarop de geldigheidsduur van een eerder aan betrokkene afgegeven certificaat verstrijkt dan wel de aanvrager zijn bevoegdheid tot het geven van rijonderricht ontleent aan een ontheffing als bedoeld in [artikel 24a](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=VIA&artikel=24a&z=2007-03-14&g=2007-03-14) gaat de geldigheidsduur van het certificaat in met ingang van de datum waarop de geldigheidsduur van het eerder aan betrokkene afgegeven certificaat verstrijkt.
 
 3. In afwijking van het eerste lid is een certificaat, afgegeven aan degene die naar verwachting op medische gronden slechts gedurende een beperkte termijn zal voldoen aan de bij algemene maatregel van bestuur vastgestelde eisen van bekwaamheid tot het geven van rijonderricht, geldig vanaf de dag van afgifte tot de dag waarop de termijn waarvoor de houder naar verwachting voldoende bekwaam zal zijn voor het geven van rijonderricht, verstrijkt.
 
 ##### Artikel 14
 
-Onverminderd het bepaalde in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=III&paragraaf=3&artikel=13&z=2006-10-01&g=2006-10-01) verliest een certificaat zijn geldigheid door:
+Onverminderd het bepaalde in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=III&paragraaf=3&artikel=13&z=2007-03-14&g=2007-03-14) verliest een certificaat zijn geldigheid door:
 
-- a. afgifte van een nieuw certificaat met uitzondering van de afgifte, bedoeld in het [tweede lid van artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=III&paragraaf=3&artikel=13&z=2006-10-01&g=2006-10-01),
+- a. afgifte van een nieuw certificaat met uitzondering van de afgifte, bedoeld in het [tweede lid van artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=III&paragraaf=3&artikel=13&z=2007-03-14&g=2007-03-14),
 
 - b. afgifte van een vervangend certificaat,
 
 - c. het onbevoegd aanbrengen van wijzigingen in het certificaat, of
 
-- d. ongeldigverklaring, als bedoeld in de[artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=III&paragraaf=3&artikel=15&z=2006-10-01&g=2006-10-01), [22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=V&artikel=22&z=2006-10-01&g=2006-10-01), en [23, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=V&artikel=23&z=2006-10-01&g=2006-10-01).
+- d. ongeldigverklaring, als bedoeld in de[artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=III&paragraaf=3&artikel=15&z=2007-03-14&g=2007-03-14), [22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=V&artikel=22&z=2007-03-14&g=2007-03-14), en [23, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=V&artikel=23&z=2007-03-14&g=2007-03-14).
 
 ##### Artikel 15
 
@@ -280,7 +280,7 @@ Onverminderd het bepaalde in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BW
 
 2. Een certificaat voor het geven van bijscholing wordt slechts afgegeven aan degene die:
 
-- a. een geldig certificaat als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=III&paragraaf=1&artikel=7&z=2006-10-01&g=2006-10-01), bezit, dan wel een geldig diploma bezit van een bij algemene maatregel van bestuur aangegeven hoofdopleiding, die naar gelang van de te geven bijscholing kan verschillen,
+- a. een geldig certificaat als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=III&paragraaf=1&artikel=7&z=2007-03-14&g=2007-03-14), bezit, dan wel een geldig diploma bezit van een bij algemene maatregel van bestuur aangegeven hoofdopleiding, die naar gelang van de te geven bijscholing kan verschillen,
 
 - b. een bij algemene maatregel van bestuur aangegeven aantal jaren beroepservaring heeft die direct verband houdt met het in onderdeel **a** bedoelde certificaat of diploma, en
 
@@ -292,11 +292,11 @@ Vervallen
 
 ##### Artikel 19
 
-Ten aanzien van certificaten ten behoeve van het geven van bijscholing zijn de[artikelen 10-12](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=III&paragraaf=2&artikel=10&z=2006-10-01&g=2006-10-01) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=III&paragraaf=3&artikel=14&z=2006-10-01&g=2006-10-01) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=III&paragraaf=3&artikel=15&z=2006-10-01&g=2006-10-01) van overeenkomstige toepassing.
+Ten aanzien van certificaten ten behoeve van het geven van bijscholing zijn de[artikelen 10-12](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=III&paragraaf=2&artikel=10&z=2007-03-14&g=2007-03-14) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=III&paragraaf=3&artikel=14&z=2007-03-14&g=2007-03-14) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=III&paragraaf=3&artikel=15&z=2007-03-14&g=2007-03-14) van overeenkomstige toepassing.
 
 ##### Artikel 20
 
-Een certificaat voor het geven van bijscholing verliest zijn geldigheid met ingang van de datum waarop het in [artikel 17, tweede lid, onderdeel **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=IV&artikel=17&z=2006-10-01&g=2006-10-01), bedoelde certificaat of diploma zijn geldigheid verliest.
+Een certificaat voor het geven van bijscholing verliest zijn geldigheid met ingang van de datum waarop het in [artikel 17, tweede lid, onderdeel **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=IV&artikel=17&z=2007-03-14&g=2007-03-14), bedoelde certificaat of diploma zijn geldigheid verliest.
 
 ### Hoofdstuk V. Maatregelen vakbekwaamheid
 
@@ -314,9 +314,9 @@ Een certificaat voor het geven van bijscholing verliest zijn geldigheid met inga
 
 ##### Artikel 22
 
-1. Degene die zich ingevolge het in [artikel 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=V&artikel=21&z=2006-10-01&g=2006-10-01), bedoelde besluit dient te onderwerpen aan een onderzoek is, behoudens bij of krachtens algemene maatregel van bestuur vastgestelde uitzonderingen, verplicht de daartoe vereiste medewerking te verlenen. Gelijke verplichting bestaat voor degene die ingevolge [artikel 21, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=V&artikel=21&z=2006-10-01&g=2006-10-01), een toets dient af te leggen.
+1. Degene die zich ingevolge het in [artikel 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=V&artikel=21&z=2007-03-14&g=2007-03-14), bedoelde besluit dient te onderwerpen aan een onderzoek is, behoudens bij of krachtens algemene maatregel van bestuur vastgestelde uitzonderingen, verplicht de daartoe vereiste medewerking te verlenen. Gelijke verplichting bestaat voor degene die ingevolge [artikel 21, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=V&artikel=21&z=2007-03-14&g=2007-03-14), een toets dient af te leggen.
 
-2. Bij gebreke van de in het eerste lid bedoelde medewerking alsmede bij gebreke van een positief toetsresultaat binnen de krachtens [artikel 21, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=V&artikel=21&z=2006-10-01&g=2006-10-01), vastgestelde termijn besluit Onze Minister onverwijld tot ongeldigverklaring van het certificaat van de houder. Onze Minister bepaalt daarbij op welk deel van de geldigheidsduur alsmede op welke in het certificaat aangeduide categorie of categorieën van motorrijtuigen de ongeldigverklaring betrekking heeft.
+2. Bij gebreke van de in het eerste lid bedoelde medewerking alsmede bij gebreke van een positief toetsresultaat binnen de krachtens [artikel 21, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=V&artikel=21&z=2007-03-14&g=2007-03-14), vastgestelde termijn besluit Onze Minister onverwijld tot ongeldigverklaring van het certificaat van de houder. Onze Minister bepaalt daarbij op welk deel van de geldigheidsduur alsmede op welke in het certificaat aangeduide categorie of categorieën van motorrijtuigen de ongeldigverklaring betrekking heeft.
 
 3. Onze Minister deelt het besluit mede aan het instituut en aan de in [artikel 141 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141) bedoelde ambtenaren.
 
@@ -326,15 +326,15 @@ Een certificaat voor het geven van bijscholing verliest zijn geldigheid met inga
 
 ##### Artikel 23
 
-1. Het onderzoek vindt zo spoedig mogelijk doch uiterlijk binnen vier weken na de datum van bekendmaking van het in [artikel 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=V&artikel=21&z=2006-10-01&g=2006-10-01), bedoelde besluit plaats.
+1. Het onderzoek vindt zo spoedig mogelijk doch uiterlijk binnen vier weken na de datum van bekendmaking van het in [artikel 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=V&artikel=21&z=2007-03-14&g=2007-03-14), bedoelde besluit plaats.
 
 2. De deskundige deelt de uitslag van het onderzoek zo spoedig mogelijk, doch uiterlijk binnen twee weken nadat het onderzoek is voltooid, schriftelijk mede aan Onze Minister, alsmede aan betrokkene.
 
 3. Onze Minister besluit zo spoedig mogelijk, doch uiterlijk binnen twee weken na ontvangst van de uitslag van het onderzoek, of hij het certificaat op grond van de uitslag al dan niet ongeldig verklaart.
 
-4. Indien Onze Minister het certificaat niet ongeldig verklaart, kan hij betrokkene overeenkomstig bij algemene maatregel van bestuur vastgestelde regels de verplichting opleggen tot het afleggen van een toets bij het instituut binnen een door hem vastgestelde termijn. De aan het afleggen van een toets verbonden kosten komen ten laste van betrokkene. [Artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=V&artikel=22&z=2006-10-01&g=2006-10-01) is van overeenkomstige toepassing.
+4. Indien Onze Minister het certificaat niet ongeldig verklaart, kan hij betrokkene overeenkomstig bij algemene maatregel van bestuur vastgestelde regels de verplichting opleggen tot het afleggen van een toets bij het instituut binnen een door hem vastgestelde termijn. De aan het afleggen van een toets verbonden kosten komen ten laste van betrokkene. [Artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=V&artikel=22&z=2007-03-14&g=2007-03-14) is van overeenkomstige toepassing.
 
-5. Voor zover het besluit bedoeld in het derde lid, inhoudt dat het certificaat ongeldig wordt verklaard, wordt daarbij bepaald op welk deel van de geldigheidsduur alsmede op welke in het certificaat aangeduide categorie of categorieën van motorrijtuigen de ongeldigverklaring betrekking heeft. [Artikel 22, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=V&artikel=22&z=2006-10-01&g=2006-10-01), is van toepassing.
+5. Voor zover het besluit bedoeld in het derde lid, inhoudt dat het certificaat ongeldig wordt verklaard, wordt daarbij bepaald op welk deel van de geldigheidsduur alsmede op welke in het certificaat aangeduide categorie of categorieën van motorrijtuigen de ongeldigverklaring betrekking heeft. [Artikel 22, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=V&artikel=22&z=2007-03-14&g=2007-03-14), is van toepassing.
 
 ### Hoofdstuk VI. Toezicht en opsporing
 
@@ -348,7 +348,7 @@ Een certificaat voor het geven van bijscholing verliest zijn geldigheid met inga
 
 ##### Artikel 25
 
-1. Overtreding van de[artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=III&paragraaf=1&artikel=7&z=2006-10-01&g=2006-10-01), [15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=III&paragraaf=3&artikel=15&z=2006-10-01&g=2006-10-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=IV&artikel=16&z=2006-10-01&g=2006-10-01), [22, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=V&artikel=22&z=2006-10-01&g=2006-10-01), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=VI&artikel=24&z=2006-10-01&g=2006-10-01) en [28, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=VII&artikel=28&z=2006-10-01&g=2006-10-01), wordt gestraft met hechtenis van ten hoogste twee maanden of geldboete van de derde categorie.
+1. Overtreding van de[artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=III&paragraaf=1&artikel=7&z=2007-03-14&g=2007-03-14), [15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=III&paragraaf=3&artikel=15&z=2007-03-14&g=2007-03-14), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=IV&artikel=16&z=2007-03-14&g=2007-03-14), [22, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=V&artikel=22&z=2007-03-14&g=2007-03-14), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=VI&artikel=24&z=2007-03-14&g=2007-03-14) en [28, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=VII&artikel=28&z=2007-03-14&g=2007-03-14), wordt gestraft met hechtenis van ten hoogste twee maanden of geldboete van de derde categorie.
 
 2. Overtreding van het bepaalde bij of krachtens algemene maatregel van bestuur wordt, voor zover die overtreding bij die algemene maatregel van bestuur uitdrukkelijk als strafbaar feit is aangemerkt, gestraft met hechtenis van ten hoogste twee maanden of geldboete van de derde categorie.
 
@@ -356,11 +356,11 @@ Een certificaat voor het geven van bijscholing verliest zijn geldigheid met inga
 
 ##### Artikel 26
 
-Bij veroordeling wegens overtreding van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=III&paragraaf=1&artikel=7&z=2006-10-01&g=2006-10-01) of van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=IV&artikel=16&z=2006-10-01&g=2006-10-01) kan de rechter de openbaarmaking van zijn uitspraak gelasten.
+Bij veroordeling wegens overtreding van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=III&paragraaf=1&artikel=7&z=2007-03-14&g=2007-03-14) of van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=IV&artikel=16&z=2007-03-14&g=2007-03-14) kan de rechter de openbaarmaking van zijn uitspraak gelasten.
 
 ##### Artikel 27
 
-1. Instructeursbewijzen, afgegeven krachtens artikel 3 van de Wet rijonderricht motorrijtuigen (**Stb.** 1974, 346), aan houders die op de datum van inwerkingtreding van deze wet de leeftijd van 50 jaren hebben bereikt, behouden hun geldigheid na de datum van inwerkingtreding van deze wet totdat voor het instructeursbewijs overeenkomstig het bepaalde in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=VII&artikel=30&z=2006-10-01&g=2006-10-01) een certificaat is afgegeven.
+1. Instructeursbewijzen, afgegeven krachtens artikel 3 van de Wet rijonderricht motorrijtuigen (**Stb.** 1974, 346), aan houders die op de datum van inwerkingtreding van deze wet de leeftijd van 50 jaren hebben bereikt, behouden hun geldigheid na de datum van inwerkingtreding van deze wet totdat voor het instructeursbewijs overeenkomstig het bepaalde in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=VII&artikel=30&z=2007-03-14&g=2007-03-14) een certificaat is afgegeven.
 
 2. Instructeursbewijzen, afgegeven krachtens artikel 3 van de Wet rijonderricht motorrijtuigen, aan houders die op de datum van inwerkingtreding van deze wet de leeftijd van 50 jaren nog niet hebben bereikt, behouden afhankelijk van de datum van afgifte hun geldigheid tot ten minste twee jaar en ten hoogste vijf jaar na de datum van inwerkingtreding van deze wet. Onze Minister stelt hieromtrent nadere regels vast.
 
@@ -374,15 +374,15 @@ Bij veroordeling wegens overtreding van [artikel 7](https://wetten.overheid.nl/j
 
 2. Indien rijonderricht wordt gegeven in een motorrijtuig, is de rijinstructeur verplicht dit motorrijtuig op eerste vordering van de in [artikel 141 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141) bedoelde ambtenaren te doen stilhouden en het hem afgegeven instructeursbewijs dan wel bewijs van ontheffing aan die ambtenaren behoorlijk ter inzage af te geven.
 
-3. Indien bij de in [artikel 141 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141) bedoelde ambtenaren een ernstig vermoeden bestaat dat de houder van een instructeursbewijs als bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=VII&artikel=27&z=2006-10-01&g=2006-10-01) kennelijk niet voldoet aan de bij algemene maatregel van bestuur vastgestelde eisen van bekwaamheid, doen zij daarvan zo spoedig mogelijk schriftelijk mededeling aan Onze Minister onder vermelding van de feiten en omstandigheden die aan het vermoeden ten grondslag liggen. De [artikelen 21, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=V&artikel=21&z=2006-10-01&g=2006-10-01), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=V&artikel=22&z=2006-10-01&g=2006-10-01) en [23](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=V&artikel=23&z=2006-10-01&g=2006-10-01) zijn van overeenkomstige toepassing.
+3. Indien bij de in [artikel 141 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141) bedoelde ambtenaren een ernstig vermoeden bestaat dat de houder van een instructeursbewijs als bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=VII&artikel=27&z=2007-03-14&g=2007-03-14) kennelijk niet voldoet aan de bij algemene maatregel van bestuur vastgestelde eisen van bekwaamheid, doen zij daarvan zo spoedig mogelijk schriftelijk mededeling aan Onze Minister onder vermelding van de feiten en omstandigheden die aan het vermoeden ten grondslag liggen. De [artikelen 21, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=V&artikel=21&z=2007-03-14&g=2007-03-14), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=V&artikel=22&z=2007-03-14&g=2007-03-14) en [23](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=V&artikel=23&z=2007-03-14&g=2007-03-14) zijn van overeenkomstige toepassing.
 
 ##### Artikel 29
 
-De houder van een instructeursbewijs als bedoeld in [artikel 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=VII&artikel=27&z=2006-10-01&g=2006-10-01), die rijonderricht geeft, is gehouden om in de periode die aanvangt twee jaar en eindigt vijf jaar na de datum van inwerkingtreding van deze wet, een toets af te leggen waaruit blijkt dat hij voldoet aan de in [artikel 9, tweede lid, onderdeel **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=III&paragraaf=2&artikel=9&z=2006-10-01&g=2006-10-01), bedoelde eisen in verband met het behoud van de vereiste mate van bekwaamheid. Onze Minister stelt regels vast met betrekking tot het tijdstip waarop deze gehoudenheid aanvangt.
+De houder van een instructeursbewijs als bedoeld in [artikel 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=VII&artikel=27&z=2007-03-14&g=2007-03-14), die rijonderricht geeft, is gehouden om in de periode die aanvangt twee jaar en eindigt vijf jaar na de datum van inwerkingtreding van deze wet, een toets af te leggen waaruit blijkt dat hij voldoet aan de in [artikel 9, tweede lid, onderdeel **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=III&paragraaf=2&artikel=9&z=2007-03-14&g=2007-03-14), bedoelde eisen in verband met het behoud van de vereiste mate van bekwaamheid. Onze Minister stelt regels vast met betrekking tot het tijdstip waarop deze gehoudenheid aanvangt.
 
 ##### Artikel 30
 
-1. Het instituut geeft met inachtneming van het tweede en derde lid en van het bepaalde krachtens het vijfde lid aan de houder van een instructeursbewijs, bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=VII&artikel=27&z=2006-10-01&g=2006-10-01), op diens verzoek een certificaat voor het geven van rijonderricht af, dat dezelfde bevoegdheden inhoudt als vermeld op het instructeursbewijs.
+1. Het instituut geeft met inachtneming van het tweede en derde lid en van het bepaalde krachtens het vijfde lid aan de houder van een instructeursbewijs, bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=VII&artikel=27&z=2007-03-14&g=2007-03-14), op diens verzoek een certificaat voor het geven van rijonderricht af, dat dezelfde bevoegdheden inhoudt als vermeld op het instructeursbewijs.
 
 2. De afgifte van het certificaat geschiedt:
 
@@ -392,13 +392,13 @@ De houder van een instructeursbewijs als bedoeld in [artikel 27, eerste lid](htt
 
 3. Afgifte van het certificaat geschiedt slechts tegen inlevering van het instructeursbewijs.
 
-4. De houder van een ontheffing, bedoeld in [artikel 27, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=VII&artikel=27&z=2006-10-01&g=2006-10-01), kan bij het instituut een certificaat verkrijgen dat dezelfde bevoegdheden inhoudt als vermeld op het bewijs van ontheffing mits hij een door het instituut afgenomen toets met goed gevolg heeft afgelegd. Afgifte geschiedt slechts tegen inlevering van het bewijs van ontheffing.
+4. De houder van een ontheffing, bedoeld in [artikel 27, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=VII&artikel=27&z=2007-03-14&g=2007-03-14), kan bij het instituut een certificaat verkrijgen dat dezelfde bevoegdheden inhoudt als vermeld op het bewijs van ontheffing mits hij een door het instituut afgenomen toets met goed gevolg heeft afgelegd. Afgifte geschiedt slechts tegen inlevering van het bewijs van ontheffing.
 
 5. Onze Minister stelt regels vast omtrent de wijze van omwisselen, bedoeld in het eerste en vierde lid.
 
 ##### Artikel 30a
 
-Degenen die op het tijdstip van inwerkingtreding van [hoofdstuk IV](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=IV&z=2006-10-01&g=2006-10-01) van deze wet werkzaam zijn als docent cursusleider in het kader van een alcohol-verkeerscursus, zoals deze wordt gegeven door consultatiebureaus voor alcohol en drugs, en die niet voldoen aan de bij en krachtens [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=IV&artikel=17&z=2006-10-01&g=2006-10-01), gestelde eisen, wordt afgifte van een certificaat als bedoeld in dat artikel deswege niet geweigerd.
+Degenen die op het tijdstip van inwerkingtreding van [hoofdstuk IV](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=IV&z=2007-03-14&g=2007-03-14) van deze wet werkzaam zijn als docent cursusleider in het kader van een alcohol-verkeerscursus, zoals deze wordt gegeven door consultatiebureaus voor alcohol en drugs, en die niet voldoen aan de bij en krachtens [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=IV&artikel=17&z=2007-03-14&g=2007-03-14), gestelde eisen, wordt afgifte van een certificaat als bedoeld in dat artikel deswege niet geweigerd.
 
 ##### Artikel 30b
 
@@ -420,19 +420,19 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 24a
 
-1. Het instituut kan onder daarbij te stellen voorwaarden ontheffing verlenen van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=III&paragraaf=1&artikel=7&z=2006-10-01&g=2006-10-01) indien:
+1. Het instituut kan onder daarbij te stellen voorwaarden ontheffing verlenen van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=III&paragraaf=1&artikel=7&z=2007-03-14&g=2007-03-14) indien:
 
 - a. degene die door omstandigheden die hem redelijkerwijs niet kunnen worden verweten, een door het instituut afgenomen toets niet met goed gevolg heeft afgelegd en waarbij het niet mogelijk is binnen de resterende geldigheidsduur van het eerder aan hem afgegeven certificaat, nogmaals een toets af te leggen;
 
-- b. in andere gevallen indien toepassing van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=III&paragraaf=1&artikel=7&z=2006-10-01&g=2006-10-01), gelet op het door die bepaling beschermde belang, zal leiden tot een onbillijkheid van overwegende aard.
+- b. in andere gevallen indien toepassing van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=III&paragraaf=1&artikel=7&z=2007-03-14&g=2007-03-14), gelet op het door die bepaling beschermde belang, zal leiden tot een onbillijkheid van overwegende aard.
 
 2. De ontheffing wordt verleend voor de duur van maximaal zes maanden en kan slechts eenmaal worden verlengd met maximaal zes maanden.
 
 3. Indien de ontheffing op medische gronden wordt verzocht, gaat het verzoek vergezeld van een medische verklaring.
 
-4. De ontheffing verliest haar geldigheid en dient bij het instituut te worden ingeleverd, zodra de houder van de ontheffing voldoet aan de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=III&paragraaf=1&artikel=7&z=2006-10-01&g=2006-10-01) gestelde eisen.
+4. De ontheffing verliest haar geldigheid en dient bij het instituut te worden ingeleverd, zodra de houder van de ontheffing voldoet aan de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=III&paragraaf=1&artikel=7&z=2007-03-14&g=2007-03-14) gestelde eisen.
 
-5. Ter uitvoering van het derde lid worden persoonsgegevens betreffende de gezondheid als bedoeld in [artikel 16 van de Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=IV&artikel=16&z=2006-10-01&g=2006-10-01) verwerkt. De verwerking van deze gegevens vindt plaats teneinde te kunnen beoordelen of de aanvrager in aanmerking komt voor een ontheffing als bedoeld in het eerste lid. Het instituut is verantwoordelijk voor deze verwerking.
+5. Ter uitvoering van het derde lid worden persoonsgegevens betreffende de gezondheid als bedoeld in [artikel 16 van de Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=IV&artikel=16&z=2007-03-14&g=2007-03-14) verwerkt. De verwerking van deze gegevens vindt plaats teneinde te kunnen beoordelen of de aanvrager in aanmerking komt voor een ontheffing als bedoeld in het eerste lid. Het instituut is verantwoordelijk voor deze verwerking.
 
 ### Hoofdstuk VII. Straf-, overgangs- en slotbepalingen
 
