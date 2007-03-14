@@ -4,7 +4,7 @@ identifier: "BWBR0015738"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-02"
-last_updated: "2007-01-01"
+last_updated: "2007-03-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0015738"
 soort: "ministeriele-regeling"
@@ -108,7 +108,9 @@ Niet tot de middelen, bedoeld in [artikel 31 van de wet](https://wetten.overheid
 
 - h. een kostenvergoeding voor het verrichten van vrijwilligerswerk van ten hoogste € 95,– per maand met een maximum van € 764,– per jaar, dan wel een kostenvergoeding voor het verrichten van vrijwilligerswerk in het kader van een voorziening gericht op arbeidsinschakeling als bedoeld in[artikel 7, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=7) van ten hoogste € 150,– per maand met een maximum van € 1500,– per jaar;
 
-- i. de eenmalige tegemoetkoming, bedoeld in [artikel 2 van de Tijdelijke regeling eenmalige tegemoetkoming pensioenverevening](https://wetten.overheid.nl/jci1.3:c:BWBR0020647&artikel=2).
+- i. de eenmalige tegemoetkoming, bedoeld in [artikel 2 van de Tijdelijke regeling eenmalige tegemoetkoming pensioenverevening](https://wetten.overheid.nl/jci1.3:c:BWBR0020647&artikel=2);
+
+- j. de uitkering, bedoeld in artikel 3 van de Vaststellingsovereenkomst houdende een regeling voor een collectieve partiële afwikkeling van schade die mogelijk verband houdt met DES-gebruik tijdens zwangerschap, die is gehecht aan de beschikking van het Gerechtshof Amsterdam van 1 juni 2006, R05/1743 (LJN: AX6440) en bij die beschikking op grond van [artikel 907, eerste lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=907) verbindend is verklaard voor de in artikel 1 van die overeenkomst bedoelde personen.
 
 #### § 6. Vakantietoeslag
 
@@ -130,7 +132,7 @@ Deze paragraaf is van toepassing op de vaststelling van de aanspraak op vakantie
 
 ##### Artikel 10. In aanmerking te nemen vakantietoeslag
 
-Indien over het inkomen van de belanghebbende aanspraak op vakantietoeslag bestaat neemt het college bij de vaststelling van de hoogte van de algemene bijstand mede op grond van de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=11&z=2007-01-01&g=2007-01-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=12&z=2007-01-01&g=2007-01-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=13&z=2007-01-01&g=2007-01-01) of [14](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=14&z=2007-01-01&g=2007-01-01) berekende aanspraak op vakantietoeslag in aanmerking.
+Indien over het inkomen van de belanghebbende aanspraak op vakantietoeslag bestaat neemt het college bij de vaststelling van de hoogte van de algemene bijstand mede op grond van de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=11&z=2007-03-14&g=2007-03-14), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=12&z=2007-03-14&g=2007-03-14), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=13&z=2007-03-14&g=2007-03-14) of [14](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=14&z=2007-03-14&g=2007-03-14) berekende aanspraak op vakantietoeslag in aanmerking.
 
 ##### Artikel 11. Vakantieaanspraak voor personen jonger dan 65 jaar met inkomen uit tegenwoordige arbeid
 
@@ -271,7 +273,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met ui
 
 ##### Artikel 7a. Indexering
 
-1. Met ingang van de dag waarop de bedragen, genoemd in [artikel 2, zesde lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=2) wijzigen, worden de bedragen, genoemd in [artikel 7, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=5&artikel=7&z=2007-01-01&g=2007-01-01), herzien met het percentage van deze wijziging.
+1. Met ingang van de dag waarop de bedragen, genoemd in [artikel 2, zesde lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=2) wijzigen, worden de bedragen, genoemd in [artikel 7, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=5&artikel=7&z=2007-03-14&g=2007-03-14), herzien met het percentage van deze wijziging.
 
 2. Van de herziene bedragen, bedoeld in het eerste lid, en van de dag waarop de herziening plaatsvindt wordt door de minister mededeling gedaan in de Staatscourant.
 
