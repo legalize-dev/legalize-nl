@@ -4,7 +4,7 @@ identifier: "BWBR0013753"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2006-04-14"
+last_updated: "2007-03-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013753"
 soort: "AMvB"
@@ -150,13 +150,11 @@ l = looptijd in maanden;
 
 m = jaarkilometrage.
 
-5. De bij de aanschaf van de dienstauto verleende korting bedraagt niet meer dan 15% van de consumentenprijs.
-
-6. De dienstauto wordt slechts in gebruik genomen nadat is vastgesteld dat aan de voorschriften van het tweede tot en met vijfde lid is voldaan, tenzij redenen van veiligheid tot afwijking van deze voorschriften noodzaken.
+5. De dienstauto wordt slechts in gebruik genomen nadat is vastgesteld dat aan de voorschriften van het tweede tot en met vierde lid is voldaan, tenzij redenen van veiligheid tot afwijking van deze voorschriften noodzaken.
 
 ##### Artikel 8
 
-Ministers en staatssecretarissen ontvangen een maandelijkse vergoeding voor de door hen verschuldigde inkomstenbelasting over het gebruik van de dienstauto. De vergoeding wordt berekend aan de hand van de formule
+Ministers en staatssecretarissen ontvangen een maandelijkse vergoeding voor de door hen verschuldigde loonbelasting over het gebruik van de dienstauto. De vergoeding wordt berekend aan de hand van de formule
 
 CAT x P/100 x T/100 x 100/(100-T)
 
@@ -170,9 +168,9 @@ M = het bedrag van de vergoeding;
 
 CAT = de catalogusprijs van de dienstauto, met inbegrip van BTW en BPM;
 
-P = het percentage genoemd in artikel 3.145, eerste lid, van de Wet inkomstenbelasting 2001.
+P = het percentage genoemd in [artikel 13bis, eerste lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=13bis).
 
-T = het hoogste van de in de tarieftabel van [artikel 2.10 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.10) opgenomen percentages.
+T = het hoogste van de in de tarieftabel van [artikel 20a, eerste lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=20a) opgenomen percentages.
 
 ##### Artikel 9
 
