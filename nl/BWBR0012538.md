@@ -4,7 +4,7 @@ identifier: "BWBR0012538"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2007-02-25"
+last_updated: "2007-03-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012538"
 soort: "ministeriele-regeling"
@@ -64,7 +64,7 @@ In deze regeling wordt verstaan onder:
 
 1. Voor het uitvoeren van een IFR-vlucht in het vluchtinformatiegebied Amsterdam is een luchtvaartuig uitgerust met:
 
-- a. een VHF-zend/ontvanginstallatie met kanaalafstanden van 8,33 kHz of 25 kHz, waarmee een voortdurende tweezijdige radioverbinding kan worden onderhouden met de betrokken luchtverkeersdiensten op de daartoe bestemde frequenties zoals gepubliceerd in de luchtvaartgids, en met kanaalafstanden van 8,33 kHz indien IFR-vluchten boven vliegniveau 245 worden uitgevoerd;
+- a. een VHF-zend/ontvanginstallatie met kanaalafstanden van 8,33 kHz of 25 kHz, waarmee een voortdurende tweezijdige radioverbinding kan worden onderhouden met de betrokken luchtverkeersdiensten op de daartoe bestemde frequenties zoals gepubliceerd in de luchtvaartgids, en met kanaalafstanden van 8,33 kHz indien IFR-vluchten boven vliegniveau 195 worden uitgevoerd;
 
 - b. een installatie die het mogelijk maakt een VOR te gebruiken, van welke installatie voor het uitvoeren van vluchten op vliegniveau 100 en hoger een dubbele uitvoering nodig is;
 
@@ -180,19 +180,19 @@ Voor het uitvoeren van een IFR-vlucht in het vluchtinformatiegebied Amsterdam wo
 
 ##### Artikel 11
 
-1. Onverminderd [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012538&artikel=12&z=2007-02-25&g=2007-02-25), moeten met ingang van 1 januari 2005 vliegtuigen in de categorie ‘International Commercial Air Transport’, die lange afstandvluchten uitvoeren boven water, uitgerust zijn met ten minste twee ELT’s waarvan één ELT die automatisch geactiveerd wordt.
+1. Onverminderd [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012538&artikel=12&z=2007-03-15&g=2007-03-15), moeten met ingang van 1 januari 2005 vliegtuigen in de categorie ‘International Commercial Air Transport’, die lange afstandvluchten uitvoeren boven water, uitgerust zijn met ten minste twee ELT’s waarvan één ELT die automatisch geactiveerd wordt.
 
-2. Onverminderd [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012538&artikel=12&z=2007-02-25&g=2007-02-25), moeten met ingang van 1 januari 2005 vliegtuigen in de categorie ‘International Commercial Air Transport’ die vluchten uitvoeren boven door de Minister aangewezen gebieden over land uitgerust zijn met ten minste één ELT die automatisch geactiveerd wordt.
+2. Onverminderd [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012538&artikel=12&z=2007-03-15&g=2007-03-15), moeten met ingang van 1 januari 2005 vliegtuigen in de categorie ‘International Commercial Air Transport’ die vluchten uitvoeren boven door de Minister aangewezen gebieden over land uitgerust zijn met ten minste één ELT die automatisch geactiveerd wordt.
 
-3. Onverminderd [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012538&artikel=12&z=2007-02-25&g=2007-02-25), moeten met ingang van 1 januari 2005 vliegtuigen in de categorie ‘International General Aviation’ die lange afstand vluchten uitvoeren boven water of vluchten uitvoeren boven door de Minister aangewezen gebieden over land, uitgerust zijn met ten minste één ELT die automatisch geactiveerd wordt.
+3. Onverminderd [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012538&artikel=12&z=2007-03-15&g=2007-03-15), moeten met ingang van 1 januari 2005 vliegtuigen in de categorie ‘International General Aviation’ die lange afstand vluchten uitvoeren boven water of vluchten uitvoeren boven door de Minister aangewezen gebieden over land, uitgerust zijn met ten minste één ELT die automatisch geactiveerd wordt.
 
-4. Onverminderd [artikel 12, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012538&artikel=12&z=2007-02-25&g=2007-02-25), moeten met ingang van 1 januari 2005 prestatie klasse 1 en 2 helikopters in de categorie ‘International Commercial Air Transport’ die vluchten uitvoeren boven water en op een afstand van meer dan 10 minuten op normale kruissnelheid vliegen vanaf land en prestatie klasse 3 helikopters die vluchten boven water uitvoeren buiten autorotatie of noodlandingsafstand van land, uitgerust zijn met ten minste één ELT die automatisch geactiveerd wordt en ten minste één overlevings-ELT die met de hand geactiveerd wordt in een reddingsvlot.
+4. Onverminderd [artikel 12, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012538&artikel=12&z=2007-03-15&g=2007-03-15), moeten met ingang van 1 januari 2005 prestatie klasse 1 en 2 helikopters in de categorie ‘International Commercial Air Transport’ die vluchten uitvoeren boven water en op een afstand van meer dan 10 minuten op normale kruissnelheid vliegen vanaf land en prestatie klasse 3 helikopters die vluchten boven water uitvoeren buiten autorotatie of noodlandingsafstand van land, uitgerust zijn met ten minste één ELT die automatisch geactiveerd wordt en ten minste één overlevings-ELT die met de hand geactiveerd wordt in een reddingsvlot.
 
-5. Onverminderd [artikel 12, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012538&artikel=12&z=2007-02-25&g=2007-02-25), moeten met ingang van 1 januari 2005 helikopters in de categorie ‘International Commercial Air Transport’ die vluchten uitvoeren boven door de Minister aangewezen gebieden boven land uitgerust zijn met ten minste één ELT die automatisch geactiveerd wordt.
+5. Onverminderd [artikel 12, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012538&artikel=12&z=2007-03-15&g=2007-03-15), moeten met ingang van 1 januari 2005 helikopters in de categorie ‘International Commercial Air Transport’ die vluchten uitvoeren boven door de Minister aangewezen gebieden boven land uitgerust zijn met ten minste één ELT die automatisch geactiveerd wordt.
 
-6. Onverminderd [artikel 12, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012538&artikel=12&z=2007-02-25&g=2007-02-25), moeten met ingang van 1 januari 2005 prestatie klasse 1 en 2 helikopters in de categorie ‘International General Aviation’ die vluchten uitvoeren boven water en prestatie klasse 3 helikopters in dezelfde categorie, die vluchten boven water uitvoeren buiten autorotatie of noodlandings afstand van land uitgerust zijn met ten minste één ELT die automatisch geactiveerd wordt en ten minste één overlevings-ELT die met de hand geactiveerd wordt in een reddingsvlot.
+6. Onverminderd [artikel 12, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012538&artikel=12&z=2007-03-15&g=2007-03-15), moeten met ingang van 1 januari 2005 prestatie klasse 1 en 2 helikopters in de categorie ‘International General Aviation’ die vluchten uitvoeren boven water en prestatie klasse 3 helikopters in dezelfde categorie, die vluchten boven water uitvoeren buiten autorotatie of noodlandings afstand van land uitgerust zijn met ten minste één ELT die automatisch geactiveerd wordt en ten minste één overlevings-ELT die met de hand geactiveerd wordt in een reddingsvlot.
 
-7. Onverminderd [artikel 12, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012538&artikel=12&z=2007-02-25&g=2007-02-25), moeten met ingang van 1 januari 2005 helikopters in de categorie ‘International General Aviation’, die vluchten uitvoeren boven door de Minister aangewezen gebieden boven land uitgerust zijn met ten minste één ELT die automatisch geactiveerd wordt.
+7. Onverminderd [artikel 12, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012538&artikel=12&z=2007-03-15&g=2007-03-15), moeten met ingang van 1 januari 2005 helikopters in de categorie ‘International General Aviation’, die vluchten uitvoeren boven door de Minister aangewezen gebieden boven land uitgerust zijn met ten minste één ELT die automatisch geactiveerd wordt.
 
 8. De Minister kan na 1 januari 2005 ten behoeve van vliegtuigen of helikopters waarvan het bewijs van luchtwaardigheid vóór 1 januari 2002 is afgegeven, éénmalig ontheffing verlenen tot de eerstvolgende groot onderhoudsbeurt, maar niet later dan tot 1 januari 2008.
 
@@ -230,7 +230,7 @@ Voor het uitvoeren van een IFR-vlucht in het vluchtinformatiegebied Amsterdam wo
 
 ##### Artikel 14
 
-Handelen in strijd met de [artikelen 2 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0012538&artikel=2&z=2007-02-25&g=2007-02-25) van deze regeling is een strafbaar feit.
+Handelen in strijd met de [artikelen 2 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0012538&artikel=2&z=2007-03-15&g=2007-03-15) van deze regeling is een strafbaar feit.
 
 #### Slotartikelen
 
