@@ -4,7 +4,7 @@ identifier: "BWBR0012681"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-08"
-last_updated: "2006-05-26"
+last_updated: "2007-03-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012681"
 soort: "ministeriele-regeling"
@@ -82,7 +82,11 @@ Als gespen behorende bij de Herinneringsmedaille Vredesoperaties worden ingestel
 
 - r. voor deelname aan de multinationale vredesmacht International Security Assistance Force in Afghanistan, voor zover deze deelname heeft plaatsgevonden op het grondgebied en in het luchtruim van de Republiek Afghanistan, alsmede op en vanaf de luchthaven Termez in Oezbekistan: ISAF;
 
-- s. voor deelname aan de multinationale operatie Enduring Freedom, voor zover deze deelname heeft plaatsgehad in het zeegebied van de Rode Zee, de Arabische Zee, de Golf van Aden, de Golf van Oman en de Perzische Golf, alsmede op het grondgebied en in het luchtruim van het Arabisch Schiereiland en van de republieken Oezbekistan, Kirgizië en Afghanistan: ENDURING FREEDOM;
+- s. voor deelname aan:
+
+- 1°. de multinationale operatie Enduring Freedom, voor zover deze deelname heeft plaatsgehad in het zeegebied van de Rode Zee, de Arabische Zee, de Golf van Aden, de Golf van Oman en de Perzische Golf, alsmede op het grondgebied en in het luchtruim van het Arabisch Schiereiland en van de republieken Oezbekistan, Kirgizië en Afghanistan;
+
+- 2°. de multinationale vredesmacht Combined Joint Task Force Horn of Africa, voor zover deze deelname heeft plaatsgehad op het grondgebied van Djibouti: ENDURING FREEDOM;
 
 - t. voor deelname aan de NAVO-operatie `Amber Fox', voor zover deze deelname heeft plaatsgehad op het grondgebied van de Republiek Macedonië: AMBER FOX;
 
@@ -102,7 +106,7 @@ Als gespen behorende bij de Herinneringsmedaille Vredesoperaties worden ingestel
 
 - bb. voor deelname aan de EUFOR-operatie, voor zover deze deelname heeft plaatsgehad op het grondgebied van voormalig Joegoslavië, in het luchtruim daarboven voor zover gestationeerd op het vorengenoemde grondgebied en in de aangrenzende wateren van de Adriatische Zee: EUFOR;
 
-- cc. Voor deelname aan operaties van de Verenigde Naties:
+- cc. voor deelname aan operaties van de Verenigde Naties:
 
 - 1°. de Opération des Nations Unies au Burundi ‘ONUB’ , voor zover deze deelname heeft plaatsgehad op het grondgebied van en in het luchtruim boven de republiek Burundi;
 
@@ -112,7 +116,9 @@ Als gespen behorende bij de Herinneringsmedaille Vredesoperaties worden ingestel
 
 - 4°. de Mission de l'Organisation des Nations Unies en République démocratique du Congo ‘MONUC’, voor zover deze deelname heeft plaatsgehad op het grondgebied van en in het luchtruim boven de volksrepubliek Congo;
 
-- 5°. de United Nations Mission in Sudan ‘UNMIS’, voor zover deze deelname heeft plaatsgehad op het grondgebied van en in het luchtruim boven de republiek Soedan: VN OPERATIES;
+- 5°. de United Nations Mission in Sudan ‘UNMIS’, voor zover deze deelname heeft plaatsgehad op het grondgebied van en in het luchtruim boven de republiek Soedan;
+
+- 6°. de United Nations Interim Force in Lebanon, voor zover deze deelname heeft plaatsgehad op het grondgebied van Libanon, in het luchtruim daarboven en in de aangrenzende wateren van de Middellandse Zee: VN OPERATIES;
 
 - dd. voor deelname aan operaties van de Noord Atlantische Verdrags Organisatie:
 
@@ -128,7 +134,9 @@ Als gespen behorende bij de Herinneringsmedaille Vredesoperaties worden ingestel
 
 - 3°. de Border Assistance Mission, ‘EUBAM’, voor zover deelname heeft plaatsgehad op Israëlisch-Palestijns grondgebied en luchtruim daarboven vanaf februari 2006;
 
-- 4°. de EU Security missie ‘EUSEC’ en de EU Security-Financial missie ‘EUSEC-FIN’, voor zover deze deelname heeft plaatsgehad op het grondgebied van en in het luchtruim boven de Democratische Republiek Congo vanaf mei 2006: EU OPERATIES;
+- 4°. de EU Security missie ‘EUSEC’ en de EU Security-Financial missie ‘EUSEC-FIN’, voor zover deze deelname heeft plaatsgehad op het grondgebied van en in het luchtruim boven de Democratische Republiek Congo vanaf mei 2006;
+
+- 5°. de EUFOR DRC missie, voor zover deze deelname heeft plaatsgehad op het grondgebied van en in het luchtruim boven de Democratische Republiek Congo en de Republiek Gabon vanaf mei 2006: EU OPERATIES;
 
 - ff. voor deelname aan operaties van de Organisatie voor Veiligheid en Samenwerking in Europa:
 
