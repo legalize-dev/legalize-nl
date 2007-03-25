@@ -81,17 +81,3 @@ Deze regeling wordt aangehaald als: Sanctieregeling Libanon en Syrië 2007.
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 3a
-
-De bevoegde autoriteit, bedoeld in artikel 3 van Verordening (EU) nr. 1412/2006 is, wat betreft de technische bijstand, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0021556&artikel=3&z=2010-09-15&g=2010-09-15), de Minister van Economische Zaken en wat betreft de financiering en de financiële bijstand, bedoeld in artikel 3, de Minister van Financiën.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 2a
-
-1. Het is verboden te handelen in strijd met artikel 2, eerste en tweede lid, artikel 8, eerste lid, en artikel 9 van Verordening (EU) nr. 2021/1275 van de Raad van de Europese Unie van 30 juli 2021 betreffende beperkende maatregelen in het licht van de situatie in Libanon (PbEU 2021, LI 277).
-
-2. Het verbod te handelen in strijd met artikel 2, eerste lid en tweede lid, van Verordening (EU) nr. 2021/1275, geldt niet in gevallen waarin artikel 3, eerste lid, artikel 4, eerste lid, artikel 5, eerste lid, artikel 6, eerste lid, of artikel 7 van [Verordening (EU) nr. 2021/1275](33175R2021) van toepassing is.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
