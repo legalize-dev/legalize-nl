@@ -4,7 +4,7 @@ identifier: "BWBV0001343"
 country: "nl"
 rank: "verdrag"
 publication_date: "2010-01-01"
-last_updated: "1999-07-01"
+last_updated: "2007-03-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0001343"
 soort: "verdrag"
@@ -93,23 +93,25 @@ Zonder onderworpen te zijn aan financiële controles, voorschriften, verplichtin
 
 ##### Artikel 7. Binnenkomst, verblijf en vertrek
 
-Indien nodig vergemakkelijken de lidstaten de binnenkomst, het verblijf en het vertrek voor dienstdoeleinden van de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0001343&artikel=8&z=1999-07-01&g=1999-07-01) genoemde personen. Dit laat de mogelijkheid onverlet om te verlangen dat redelijk bewijs wordt geleverd waaruit blijkt dat de personen die zich op de in dit artikel bedoelde behandeling beroepen, onder de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0001343&artikel=8&z=1999-07-01&g=1999-07-01) genoemde categorieën vallen.
+Indien nodig vergemakkelijken de lidstaten de binnenkomst, het verblijf en het vertrek voor dienstdoeleinden van de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0001343&artikel=8&z=2007-03-29&g=2007-03-29) genoemde personen. Dit laat de mogelijkheid onverlet om te verlangen dat redelijk bewijs wordt geleverd waaruit blijkt dat de personen die zich op de in dit artikel bedoelde behandeling beroepen, onder de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0001343&artikel=8&z=2007-03-29&g=2007-03-29) genoemde categorieën vallen.
 
 ##### Artikel 8. Voorrechten en immuniteiten van de leden van de organen van Europol en de personeelsleden van Europol
 
 1. De leden van de organen van Europol en de personeelsleden van Europol genieten de volgende immuniteiten:
 
-- a). onverminderd artikel 32 en, voor zover van toepassing, artikel 40, lid 3, van de overeenkomst, zijn zij vrijgesteld van iedere vorm van rechtsvervolging voor hetgeen zij in de uitoefening van hun officiële taken hebben gezegd, geschreven of gedaan, en blijven zij daarvan vrijgesteld wanneer zij niet langer lid van een orgaan van Europol of personeelslid van Europol zijn;
+- a). onverminderd [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&artikel=32) en, voor zover van toepassing, [artikel 40, lid 3, van de overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&artikel=40), zijn zij vrijgesteld van iedere vorm van rechtsvervolging voor hetgeen zij in de uitoefening van hun officiële taken hebben gezegd, geschreven of gedaan, en blijven zij daarvan vrijgesteld wanneer zij niet langer lid van een orgaan van Europol of personeelslid van Europol zijn;
 
 - b). al hun officiële papieren, documenten en ander officieel materiaal zijn onschendbaar.
 
-2. De personeelsleden van Europol waarvan de salarissen en emolumenten onderworpen zijn aan een belasting ten bate van Europol als bepaald in artikel 10, zijn vrijgesteld van inkomstenbelasting op de door Europol betaalde salarissen en emolumenten. Deze salarissen en emolumenten mogen evenwel in aanmerking worden genomen bij de vaststelling van de belasting op inkomsten uit andere bronnen. Dit lid is niet van toepassing op pensioenen en annuïteiten die worden uitgekeerd aan voormalige personeelsleden van Europol en te hunnen laste komende personen.
+2. De personeelsleden van Europol waarvan de salarissen en emolumenten onderworpen zijn aan een belasting ten bate van Europol als bepaald in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0001343&artikel=10&z=2007-03-29&g=2007-03-29), zijn vrijgesteld van inkomstenbelasting op de door Europol betaalde salarissen en emolumenten. Deze salarissen en emolumenten mogen evenwel in aanmerking worden genomen bij de vaststelling van de belasting op inkomsten uit andere bronnen. Dit lid is niet van toepassing op pensioenen en annuïteiten die worden uitgekeerd aan voormalige personeelsleden van Europol en te hunnen laste komende personen.
 
 3. Artikel 14 van het Protocol betreffende de voorrechten en immuniteiten van de Europese Gemeenschappen is van toepassing op de personeelsleden van Europol.
 
+4. Overeenkomstig [artikel 17, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001343&artikel=17&z=2007-03-29&g=2007-03-29), geldt de immuniteit overeenkomstig lid 1, onder a), niet voor handelingen die ambtshalve worden verricht bij de uitoefening van de in [artikel 3 bis van de overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&artikel=3_bis) bedoelde taken die betrekking hebben op de deelname van Europol-functionarissen aan gemeenschappelijke onderzoeksteams.
+
 ##### Artikel 9. Uitzonderingen op immuniteiten
 
-De immuniteit die aan de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0001343&artikel=8&z=1999-07-01&g=1999-07-01) genoemde personen wordt verleend, strekt zich niet uit tot civiele vorderingen van derden wegens schade, lichamelijk letsel of overlijden ten gevolge van verkeersongelukken die door deze personen zijn veroorzaakt.
+De immuniteit die aan de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0001343&artikel=8&z=2007-03-29&g=2007-03-29) genoemde personen wordt verleend, strekt zich niet uit tot civiele vorderingen van derden wegens schade, lichamelijk letsel of overlijden ten gevolge van verkeersongelukken die door deze personen zijn veroorzaakt.
 
 ##### Artikel 10. Belastingen
 
@@ -129,15 +131,15 @@ Indien de directeur van Europol daarom verzoekt, nemen de lidstaten in overeenst
 
 2. De directeur is gehouden de immuniteit van Europol en van de personeelsleden van Europol op te heffen, in de gevallen waarin deze de rechtsgang zou belemmeren en opgeheven kan worden zonder dat de belangen van Europol worden geschaad. Ten aanzien van de directeur, de financieel controleur en de leden van het financieel comité heeft de Raad van Bestuur een soortgelijke verplichting. Ten aanzien van de leden van de Raad van Bestuur hebben de respectieve lidstaten de bevoegdheid om de immuniteiten op te heffen.
 
-3. Wanneer de immuniteit van Europol als bedoeld in [artikel 2, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001343&artikel=2&z=1999-07-01&g=1999-07-01), is opgeheven, vinden door de justitiële autoriteiten van de lidstaten bevolen huiszoekingen en beslagleggingen plaats in aanwezigheid van de directeur of van een door hem gemachtigd persoon, overeenkomstig de bij of krachtens de overeenkomst vastgestelde geheimhoudingsregels.
+3. Wanneer de immuniteit van Europol als bedoeld in [artikel 2, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001343&artikel=2&z=2007-03-29&g=2007-03-29), is opgeheven, vinden door de justitiële autoriteiten van de lidstaten bevolen huiszoekingen en beslagleggingen plaats in aanwezigheid van de directeur of van een door hem gemachtigd persoon, overeenkomstig de bij of krachtens de overeenkomst vastgestelde geheimhoudingsregels.
 
 4. Europol werkt te allen tijde met de betrokken autoriteiten van de lidstaten samen om een goede rechtsbedeling te vergemakkelijken en voorkomt dat de bij dit protocol verleende voorrechten en immuniteiten worden misbruikt.
 
-5. Wanneer een bevoegde autoriteit of een justitieel orgaan van een lidstaat van mening is dat sprake is van misbruik van een bij dit protocol verleend voorrecht of verleende immuniteit, pleegt het orgaan dat uit hoofde van lid 2 voor de opheffing van de immuniteit bevoegd is, op verzoek overleg met de betrokken autoriteiten om vast te stellen of bedoeld misbruik heeft plaatsgevonden. Indien dat overleg niet tot een voor beide zijden bevredigend resultaat leidt, wordt de kwestie overeenkomstig de in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0001343&artikel=13&z=1999-07-01&g=1999-07-01) vastgestelde procedure opgelost.
+5. Wanneer een bevoegde autoriteit of een justitieel orgaan van een lidstaat van mening is dat sprake is van misbruik van een bij dit protocol verleend voorrecht of verleende immuniteit, pleegt het orgaan dat uit hoofde van lid 2 voor de opheffing van de immuniteit bevoegd is, op verzoek overleg met de betrokken autoriteiten om vast te stellen of bedoeld misbruik heeft plaatsgevonden. Indien dat overleg niet tot een voor beide zijden bevredigend resultaat leidt, wordt de kwestie overeenkomstig de in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0001343&artikel=13&z=2007-03-29&g=2007-03-29) vastgestelde procedure opgelost.
 
 ##### Artikel 13. Regeling van geschillen
 
-1. Geschillen over de weigering de immuniteit van Europol of van een persoon die uit hoofde van zijn officiële functie immuniteit geniet als omschreven in [artikel 8, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001343&artikel=8&z=1999-07-01&g=1999-07-01), moeten, met het oog op een oplossing, in de Raad worden besproken volgens de procedure van [titel VI van het Verdrag betreffende de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001507&titeldeel=IV).
+1. Geschillen over de weigering de immuniteit van Europol of van een persoon die uit hoofde van zijn officiële functie immuniteit geniet als omschreven in [artikel 8, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001343&artikel=8&z=2007-03-29&g=2007-03-29), moeten, met het oog op een oplossing, in de Raad worden besproken volgens de procedure van [titel VI van het Verdrag betreffende de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001507&titeldeel=IV).
 
 2. Indien geen oplossing is gevonden, neemt de Raad met eenparigheid van stemmen een besluit over de wijze waarop het geschil zal worden geregeld.
 
@@ -167,7 +169,7 @@ Ten aanzien van dit protocol zijn geen voorbehouden toegelaten.
 
 1. Binnen twee jaar na de inwerkingtreding van dit protocol wordt het geëvalueerd onder toezicht van de Raad van Bestuur.
 
-2. De immuniteit overeenkomstig [artikel 8, lid 1, onder a](https://wetten.overheid.nl/jci1.3:c:BWBV0001343&artikel=8&z=1999-07-01&g=1999-07-01), geldt alleen voor handelingen die ambtshalve worden verricht bij de uitoefening van taken ingevolge [artikel 3 van de Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&artikel=3) in de op 26 juli 1995 ondertekende versie. Alvorens de taken ingevolge [artikel 3 van de Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&artikel=3) worden gewijzigd of aangevuld, vindt een evaluatie overeenkomstig de eerste alinea plaats, met name van [artikel 8, lid 1, onder a](https://wetten.overheid.nl/jci1.3:c:BWBV0001343&artikel=8&z=1999-07-01&g=1999-07-01) en [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0001343&artikel=13&z=1999-07-01&g=1999-07-01).
+2. De immuniteit overeenkomstig [artikel 8, lid 1, onder a](https://wetten.overheid.nl/jci1.3:c:BWBV0001343&artikel=8&z=2007-03-29&g=2007-03-29), geldt alleen voor handelingen die ambtshalve worden verricht bij de uitoefening van taken ingevolge [artikel 3 van de Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&artikel=3) in de op 26 juli 1995 ondertekende versie. Alvorens de taken ingevolge [artikel 3 van de Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&artikel=3) worden gewijzigd of aangevuld, vindt een evaluatie overeenkomstig de eerste alinea plaats, met name van [artikel 8, lid 1, onder a](https://wetten.overheid.nl/jci1.3:c:BWBV0001343&artikel=8&z=2007-03-29&g=2007-03-29) en [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0001343&artikel=13&z=2007-03-29&g=2007-03-29).
 
 ##### Artikel 18. Wijzigingen
 
@@ -175,7 +177,7 @@ Ten aanzien van dit protocol zijn geen voorbehouden toegelaten.
 
 2. Wijzigingen worden met eenparigheid van stemmen vastgesteld door de Raad, die de lidstaten aanbeveelt deze overeenkomstig hun onderscheiden grondwettelijke bepalingen aan te nemen.
 
-3. De aldus vastgestelde wijzigingen treden in werking overeenkomstig de bepalingen van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0001343&artikel=15&z=1999-07-01&g=1999-07-01).
+3. De aldus vastgestelde wijzigingen treden in werking overeenkomstig de bepalingen van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0001343&artikel=15&z=2007-03-29&g=2007-03-29).
 
 4. De Secretaris-Generaal van de Raad van de Europese Unie stelt alle lidstaten in kennis van de datum van inwerkingtreding van de wijzigingen.
 
