@@ -4,7 +4,7 @@ identifier: "BWBR0018381"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2007-03-30"
-last_updated: "2005-06-15"
+last_updated: "2007-03-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018381"
 soort: "ministeriele-regeling"
@@ -45,7 +45,7 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a. provinciaal programma: een programma als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0018381&paragraaf=3&artikel=3&z=2005-06-15&g=2005-06-15) van een provincie, dat wordt uitgevoerd door een provincie en de betrokken gemeenten;
+- a. provinciaal programma: een programma als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0018381&paragraaf=3&artikel=3&z=2007-03-30&g=2007-03-30) van een provincie, dat wordt uitgevoerd door een provincie en de betrokken gemeenten;
 
 - b. externe veiligheidsbeleid: het beleid gericht op de verbetering van de veiligheid buiten inrichtingen waar gevaarlijke stoffen aanwezig zijn en buiten transportroutes en buisleidingen waarover of waardoor gevaarlijke stoffen worden vervoerd, voorzover die veiligheid kan worden beïnvloed door een ongeval waarbij gevaarlijke stoffen zijn betrokken, alsmede verbetering van de veiligheid buiten luchthaventerreinen;
 
@@ -105,9 +105,9 @@ In deze regeling wordt verstaan onder:
 
 Een provincie komt in aanmerking voor subsidie voor de uitvoeringskosten van projecten en activiteiten gericht op de versterking van de uitvoering van het externe veiligheidsbeleid, onder de volgende voorwaarden:
 
-- a. de aanvraag tot subsidieverlening gaat vergezeld van een door gedeputeerde staten vastgesteld provinciaal programma ter bereiking van het doel, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018381&paragraaf=2&artikel=2&z=2005-06-15&g=2005-06-15), waarin in elk geval de volgende onderdelen zijn uitgewerkt:
+- a. de aanvraag tot subsidieverlening gaat vergezeld van een door gedeputeerde staten vastgesteld provinciaal programma ter bereiking van het doel, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018381&paragraaf=2&artikel=2&z=2007-03-30&g=2007-03-30), waarin in elk geval de volgende onderdelen zijn uitgewerkt:
 
-- 1°. de verplichtingen waartoe de gemeenten en de provincie zich verbinden overeenkomstig [artikel 3, eerste lid, onderdelen a tot en met i](https://wetten.overheid.nl/jci1.3:c:BWBR0018381&paragraaf=3&artikel=3&z=2005-06-15&g=2005-06-15);
+- 1°. de verplichtingen waartoe de gemeenten en de provincie zich verbinden overeenkomstig [artikel 3, eerste lid, onderdelen a tot en met i](https://wetten.overheid.nl/jci1.3:c:BWBR0018381&paragraaf=3&artikel=3&z=2007-03-30&g=2007-03-30);
 
 - 2°. de duur van uitvoering van het provinciaal programma, en
 
@@ -173,13 +173,13 @@ De volgende kosten komen niet in aanmerking voor subsidie:
 
 - a. de kosten gemaakt voor 1 januari 2006 en voor het indienen van de aanvraag tot subsidieverlening, met uitzondering van de kosten verbonden aan het opstellen van het provinciaal programma, en
 
-- b. de kosten gemaakt na 31 december 2010, met uitzondering van de kosten gemaakt na 31 december 2010 voorzover die kosten betrekking hebben op het opstellen van het eindverslag, alsmede de daartoe noodzakelijke accountantsverklaring.
+- b. de kosten gemaakt na 31 december 2010, met uitzondering van de kosten gemaakt na 31 december 2010 voorzover die kosten betrekking hebben op het opstellen van het eindverslag.
 
 #### § 8. Hoogte van de subsidie
 
 ##### Artikel 8
 
-Het subsidieplafond bedraagt voor subsidies als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0018381&paragraaf=6&artikel=6&z=2005-06-15&g=2005-06-15) voor de jaren 2006 tot en met 2010 per provincie per jaar, afgerond naar duizenden euro’s:
+Het subsidieplafond bedraagt voor subsidies als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0018381&paragraaf=6&artikel=6&z=2007-03-30&g=2007-03-30) voor de jaren 2006 tot en met 2010 per provincie per jaar, afgerond naar duizenden euro’s:
 
 | **Provincie** | **Totaal** |
 | --- | --- |
@@ -200,11 +200,9 @@ Het subsidieplafond bedraagt voor subsidies als bedoeld in [artikel 6](https://w
 
 ##### Artikel 9
 
-1. De minister kan op aanvraag elk kwartaal van de jaren 2006 tot en met 2010 een voorschot verstrekken van telkens 25% van de bedragen, genoemd in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0018381&paragraaf=8&artikel=8&z=2005-06-15&g=2005-06-15).
+1. De minister kan op aanvraag elk kwartaal van de jaren 2006 tot en met 2010 een voorschot verstrekken van telkens 25% van de bedragen, genoemd in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0018381&paragraaf=8&artikel=8&z=2007-03-30&g=2007-03-30).
 
-2. De provincies besteden de voorschotten voor ten minste 75% in het kalenderjaar waarvoor zij worden verstrekt.
-
-3. Het niet bestede deel van de voorschotten wordt geheel besteed in het daaropvolgende kalenderjaar.
+2. Bij de vaststelling van een voorschot wordt rekening gehouden met reeds verstrekte voorschotten, gedane uitgaven en de liquiditeitsprognose voor het betreffende kwartaal.
 
 #### § 10. Verplichtingen van de subsidie-ontvanger
 
@@ -214,17 +212,15 @@ De subsidie-ontvanger is verplicht:
 
 - a. het provinciaal programma waarvoor subsidie is verleend, uit te voeren voor 31 december 2010;
 
-- b. het geactualiseerde overzicht van projecten en activiteiten in te dienen, waarvoor subsidie is verleend als bedoeld in [artikel 13, eerste lid, van het Besluit milieusubsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0010065&artikel=13).
+- b. het geactualiseerde overzicht van projecten en activiteiten in te dienen, waarvoor subsidie is verleend als bedoeld in [artikel 13, eerste lid, van het Besluit milieusubsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0010065&artikel=13);
 
 - c. over de jaren 2006 en 2007 tweemaal per jaar een voortgangsverslag in te dienen, uiterlijk 1 september van het desbetreffende programmajaar het halfjaarverslag en uiterlijk 1 maart van het daaropvolgende jaar het jaarverslag;
 
-- d. in de jaren 2008, 2009 en 2010 eenmaal per jaar een jaarverslag in te dienen, uiterlijk 1 maart van het daaropvolgende jaar.
+- d. in de jaren 2008, 2009 en 2010 eenmaal per jaar een jaarverslag in te dienen, uiterlijk 1 maart van het daaropvolgende jaar;
 
-- e. het jaarverslag uiterlijk 1 juni van het daaropvolgende jaar te voorzien van een accountantsverklaring, en
+- e. het eindverslag in te dienen omtrent het verloop, de uitvoering en de resultaten van het provinciaal programma, bedoeld in [artikel 14, tweede lid, onderdeel a, van het Besluit milieusubsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0010065&artikel=14), en
 
-- f. het eindverslag in te dienen omtrent het verloop, de uitvoering en de resultaten van het provinciaal programma, bedoeld in [artikel 14, tweede lid, onderdeel a, van het Besluit milieusubsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0010065&artikel=14), en
-
-- g. het eindverslag, bedoeld in [onderdeel f, in afwijking van artikel 14, eerste lid, onderdeel a, van het Besluit milieusubsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0010065&artikel=14) binnen zes maanden na uitvoering van het provinciaal programma aan de minister te verstrekken.
+- f. het eindverslag, bedoeld in [onderdeel f, in afwijking van artikel 14, eerste lid, onderdeel a, van het Besluit milieusubsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0010065&artikel=14) binnen zes maanden na uitvoering van het provinciaal programma aan de minister te verstrekken.
 
 #### § 11. Aanvraag tot subsidieverlening en subsidievaststelling
 
