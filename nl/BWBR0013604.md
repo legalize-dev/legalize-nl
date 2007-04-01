@@ -4,7 +4,7 @@ identifier: "BWBR0013604"
 country: "nl"
 rank: "rijks_kb"
 publication_date: "2022-05-26"
-last_updated: "2007-01-01"
+last_updated: "2007-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013604"
 soort: "rijksKB"
@@ -56,7 +56,7 @@ In dit besluit wordt verstaan onder:
 
 - b. verzoeker: vreemdeling die op grond van de [Rijkswet op het Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003738) verzoekt om verlening van het Nederlanderschap;
 
-- c. de naturalisatietoets: de toets, genoemd in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013604&artikel=2&z=2007-01-01&g=2007-01-01).
+- c. de naturalisatietoets: de toets, genoemd in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013604&artikel=2&z=2007-04-01&g=2007-04-01).
 
 ##### Artikel 2
 
@@ -70,9 +70,11 @@ In dit besluit wordt verstaan onder:
 
 - b. luistervaardigheid;
 
-- c. schrijfvaardigheid; en
+- c. schrijfvaardigheid;
 
-- d. leesvaardigheid.
+- d. leesvaardigheid; en
+
+- e. in Nederland: gespreksvaardigheid.
 
 4. Onze Minister wijst de ambtenaren, autoriteiten of instellingen aan die de naturalisatietoets afnemen. Indien de plaatselijke omstandigheden daartoe aanleiding geven, kan Onze Minister in overeenstemming met de Minister die het aangaat de beoordeling of de verzoeker beschikt over de mate van kennis van de taal alsmede van de staatsinrichting en maatschappij, bedoeld in het eerste lid, opdragen aan de autoriteit of ambtenaar die het verzoek om verlening van het Nederlanderschap in ontvangst neemt.
 
@@ -86,7 +88,11 @@ In dit besluit wordt verstaan onder:
 
 - c. hij in het bezit is van een diploma staatsexamen Nederlands als Tweede taal, programma I dan wel programma II als bedoeld in [artikel 7.3.1 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.3.1);
 
-- d. hij in het bezit is van een certificaat als bedoeld in [artikel 13, tweede lid, van de Wet inburgering nieuwkomers](https://wetten.overheid.nl/jci1.3:c:BWBR0009544&artikel=13), met daarop de aantekening dat is behaald het niveau van [artikel 11, eerste lid, onder a of b, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009544&artikel=11);
+- d. hij in het bezit is van een certificaat als bedoeld in [artikel 13, tweede lid, van de Wet inburgering nieuwkomers](https://wetten.overheid.nl/jci1.3:c:BWBR0009544&artikel=13), indien uit de vermelding daarop blijkt dat tenminste de volgende niveaus zijn behaald:
+
+- 1°. voor de onderdelen «Luisteren», «Spreken» en «Lezen» en «Schrijven» van de eindtermen Referentiekader Nederlands als Tweede Taal: niveau 2:
+
+- 2°. voor het onderdeel «Maatschappij Oriëntatie»: het niveau van [artikel 11, eerste lid, onderdeel b, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009544&artikel=11);
 
 - e. met toepassing van [artikel 5, tweede lid, van de Wet inburgering nieuwkomers](https://wetten.overheid.nl/jci1.3:c:BWBR0009544&artikel=5) ten aanzien van hem is besloten het vaststellen van een inburgeringsprogramma achterwege te laten, omdat tijdens het inburgeringsonderzoek aannemelijk is geworden dat hij de kennis, het inzicht en de vaardigheden die hij door het deelnemen aan een inburgeringsprogramma zou kunnen verwerven, reeds in voldoende mate op een andere wijze heeft verworven;
 
@@ -94,25 +100,37 @@ In dit besluit wordt verstaan onder:
 
 - g. hij met toepassing van [artikel 3, derde lid, onder a, van de Wet inburgering nieuwkomers](https://wetten.overheid.nl/jci1.3:c:BWBR0009544&artikel=3) wegens psychische of lichamelijke redenen voor onbepaalde duur is ontheven van de verplichting een inburgeringsprogramma te volgen;
 
-- h. hij in het bezit is van het inburgeringsdiploma, bedoeld in [artikel 14, tweede lid, van de Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=14) met daarop de vermelding dat de vaardigheden in de Nederlandse taal op het niveau A2 van het Europees Raamwerk voor Moderne Vreemde Talen zijn verworven, of
+- h. hij in het bezit is van het inburgeringsdiploma, bedoeld in [artikel 14, tweede lid, van de Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=14) met daarop de vermelding dat de vaardigheden in de Nederlandse taal op het niveau A2 van het Europees Raamwerk voor Moderne Vreemde Talen zijn verworven,
 
-- i. hij in het bezit is van het document, bedoeld in [artikel 2.7, tweede lid, van het Besluit inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020674&artikel=2.7).
+- i. hij in het bezit is van het document, bedoeld in [artikel 2.7, tweede lid, van het Besluit inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020674&artikel=2.7);
+
+- j. hij ten minste acht jaren tijdens de leerplichtige leeftijd in Nederland heeft verbleven als bedoeld in [artikel 5, eerste lid, onderdeel b, van de Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=5);
+
+- k. hij in het bezit is van een met een van de in onderdeel b genoemde diploma’s of getuigschriften vergelijkbaar diploma of een ander document, behaald in het Nederlandstalig onderwijs in België, mits een voldoende is behaald voor het vak Nederlandse taal;
+
+- l. hij in het bezit is van een met een van de in onderdeel b genoemde diploma’s of getuigschriften vergelijkbaar diploma of een ander document, behaald in het Nederlandstalig onderwijs in Suriname, mits een voldoende is behaald voor het vak Nederlands;
+
+- m. hij in het bezit is van het diploma van het Europees baccalaureaat van de Europese school (Trb. 1957, 246), voorzover dat baccalaureaat het vak Nederlands als eerste of tweede taal omvat en voor dat vak een voldoende is behaald; of
+
+- n. hij in het bezit is van het getuigschrift Internationaal Baccalaureate Middle Years Certificate, International General Certificate of Secondary Education of Internationaal Baccalaureaat, indien daartoe een cursus Engels-Nederlandstalig onderwijs of een cursus Internationaal Baccalaureaat met daarin het vak Nederlands is gevolgd en voor dat vak een voldoende is behaald.
 
 2. Bij een certificaat als bedoeld in het eerste lid, onder d, legt de verzoeker de verklaring over van het Regionaal Opleidingencentrum op grond waarvan het certificaat is afgegeven.
 
-3. Van het afleggen van de toets van de kennis van de taal is vrijgesteld de verzoeker die aantoont dat hij in het bezit is van een certificaat als bedoeld in de [Regeling certificaat inburgering oudkomers](https://wetten.overheid.nl/jci1.3:c:BWBR0018730), met daarop de aantekening dat voor de onderdelen Lezen, Spreken, Schrijven en Luisteren is behaald tenminste het niveau 2 van het referentiekader NT2.
-
-4. Bij het certificaat bedoeld in het vorige lid legt de verzoeker de hem door het college van burgemeester en wethouders afgegeven, gewaarmerkte kopie over van de verklaring van de onderwijsinstelling waar de NT2-profieltoets is afgelegd.
+3. Bij ministeriële regeling kan worden voorzien in gedeeltelijke vrijstelling van de naturalisatietoets op grond van andere diploma’s, certificaten of documenten dan genoemd in het eerste en het tweede lid.
 
 ##### Artikel 4
 
-De verzoeker die kan aantonen door een belemmering niet in staat te zijn een of meer van de toetsonderdelen, genoemd in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013604&artikel=2&z=2007-01-01&g=2007-01-01), en het toetsonderdeel staatsinrichting en maatschappij af te leggen, is ontheven van de verplichting om het desbetreffende toetsonderdeel af te leggen.
+1. Het verzoek wordt niet afgewezen om de reden dat de naturalisatietoets niet is behaald, indien ten genoegen van Onze Minister is aangetoond dat:
+
+- a. de verzoeker door een psychische of lichamelijke belemmering, dan wel een verstandelijke handicap, niet binnen vijf jaar in staat is de naturalisatietoets te behalen; of
+
+- b. het op grond van door de verzoeker geleverde inspanningen voor hem redelijkerwijs niet mogelijk is de naturalisatietoets te behalen.
 
 ##### Artikel 5
 
-1. Indien de verzoeker de naturalisatietoets met goed gevolg heeft afgelegd, wordt hem een certificaat uitgereikt. Op het certificaat worden de onderdelen vermeld, die door de verzoeker met goed gevolg zijn afgelegd. Bij ministeriële regeling wordt voor het certificaat een model vastgesteld.
+1. Indien de verzoeker de naturalisatietoets met goed gevolg heeft afgelegd, wordt hem in Nederland uitgereikt het inburgeringsdiploma, bedoeld in [artikel 14, tweede lid, van de Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=14) met daarop de vermelding dat de vaardigheden in de Nederlandse taal op het niveau A2 van het Europees Raamwerk voor Moderne Vreemde Talen zijn verworven, en op de Nederlandse Antillen en Aruba een certificaat. Op het certificaat worden de onderdelen vermeld, die door de verzoeker met goed gevolg zijn afgelegd. Bij ministeriële regeling wordt voor het certificaat een model vastgesteld.
 
-2. Het certificaat met de aantekening dat de verzoeker beschikt over de vereiste kennis van de Nederlandse taal wordt in het kader van zijn verzoek om naturalisatie in het gehele Koninkrijk erkend.
+2. Het in het eerste lid bedoelde inburgeringsdiploma alsmede het certificaat met de aantekening dat de verzoeker beschikt over de vereiste kennis van de Nederlandse taal worden in het kader van een verzoek om naturalisatie in het gehele Koninkrijk erkend.
 
 3. Het certificaat met de aantekening dat de verzoeker beschikt over de vereiste kennis van de Engelse of Papiamentse taal wordt in het kader van zijn verzoek om naturalisatie alleen erkend op de eilanden waar die taal naast het Nederlands gangbaar is.
 
