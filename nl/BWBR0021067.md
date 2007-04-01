@@ -177,13 +177,3 @@ Dit reglement treedt in werking op 1 april 2007.
 Dit reglement wordt aangehaald als: Examenreglement naturalisatietoets buitenland.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-### **Artikel 1. Algemeen**
-
-Dit reglement treedt in werking op 1 april 2007.
-
-### **Artikel 8**
-
-Dit reglement wordt aangehaald als: Examenreglement naturalisatietoets buitenland.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
