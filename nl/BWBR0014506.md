@@ -4,7 +4,7 @@ identifier: "BWBR0014506"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2007-01-01"
+last_updated: "2007-04-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014506"
 soort: "ministeriele-regeling"
@@ -92,13 +92,13 @@ Deze regeling berust op de [artikelen 2, derde lid, onderdeel b, en vierde lid](
 
 1. De Belastingdienst staat onder leiding van de directeur-generaal Belastingdienst, bijgestaan door een managementteam (het managementteam Belastingdienst).
 
-2. De organisatieonderdelen, genoemd in [artikel 3, eerste lid, onderdelen a tot en met d en f](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=1&artikel=3&z=2007-01-01&g=2007-01-01), staan elk onder leiding van een managementteam met een voorzitter.
+2. De organisatieonderdelen, genoemd in [artikel 3, eerste lid, onderdelen a tot en met d en f](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=1&artikel=3&z=2007-04-11&g=2007-04-11), staan elk onder leiding van een managementteam met een voorzitter.
 
 ### Hoofdstuk 2. Aanwijzing van functionarissen
 
 ##### Artikel 5
 
-1. De voorzitters van de managementteams van de in [artikel 3, eerste lid, onderdelen a, b en c.1](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=1&artikel=3&z=2007-01-01&g=2007-01-01), genoemde organisatieonderdelen zijn inspecteur en ontvanger als bedoeld in [artikel 2, derde lid, onderdeel b, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=2) en in [artikel 2, eerste lid, onderdeel i, van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=2).
+1. De voorzitters van de managementteams van de in [artikel 3, eerste lid, onderdelen a, b en c.1](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=1&artikel=3&z=2007-04-11&g=2007-04-11), genoemde organisatieonderdelen zijn inspecteur en ontvanger als bedoeld in [artikel 2, derde lid, onderdeel b, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=2) en in [artikel 2, eerste lid, onderdeel i, van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=2).
 
 2. De directeur-generaal Belastingdienst is inspecteur en ontvanger als bedoeld in [artikel 2, derde lid, onderdeel b, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=2) en in [artikel 2, eerste lid, onderdeel i, van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=2) voorzover het de belastingaangelegenheden betreft die verband houden met het Koninklijk Huis.
 
@@ -110,17 +110,17 @@ Deze regeling berust op de [artikelen 2, derde lid, onderdeel b, en vierde lid](
 
 ##### Artikel 7
 
-De voorzitters van de managementteams van de in [artikel 3, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=1&artikel=3&z=2007-01-01&g=2007-01-01), genoemde organisatieonderdelen zijn gezamenlijk directeur als bedoeld in [artikel 2, derde lid, onderdeel b, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=2) en in [artikel 2, eerste lid, onderdeel i, van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=2).
+De voorzitters van de managementteams van de in [artikel 3, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=1&artikel=3&z=2007-04-11&g=2007-04-11), genoemde organisatieonderdelen zijn gezamenlijk directeur als bedoeld in [artikel 2, derde lid, onderdeel b, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=2) en in [artikel 2, eerste lid, onderdeel i, van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=2).
 
 ##### Artikel 8
 
-De voorzitters van de managementteams van de in [artikel 3, eerste lid, onderdelen a, b, c.1 en c.2](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=1&artikel=3&z=2007-01-01&g=2007-01-01), genoemde organisatieonderdelen oefenen het bestuur van 's Rijks belastingen uit. De voorzitters kunnen ambtenaren aanwijzen die namens hen de bevoegdheden van het bestuur van 's Rijks belastingen uitoefenen.
+De voorzitters van de managementteams van de in [artikel 3, eerste lid, onderdelen a, b, c.1 en c.2](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=1&artikel=3&z=2007-04-11&g=2007-04-11), genoemde organisatieonderdelen oefenen het bestuur van 's Rijks belastingen uit. De voorzitters kunnen ambtenaren aanwijzen die namens hen de bevoegdheden van het bestuur van 's Rijks belastingen uitoefenen.
 
 ##### Artikel 9
 
-1. De voorzitters van de managementteams van de in [artikel 3, eerste lid, onderdelen a, b en c.1](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=1&artikel=3&z=2007-01-01&g=2007-01-01), genoemde organisatieonderdelen zijn ambtenaar als bedoeld in [artikel 84 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=84) (contactambtenaar).
+1. De voorzitters van de managementteams van de in [artikel 3, eerste lid, onderdelen a, b en c.1](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=1&artikel=3&z=2007-04-11&g=2007-04-11), genoemde organisatieonderdelen zijn ambtenaar als bedoeld in [artikel 84 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=84) (contactambtenaar).
 
-2. De voorzitters van de managementteams van de in [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=1&artikel=3&z=2007-01-01&g=2007-01-01), genoemde organisatieonderdelen zijn inspecteur bevoegd tot het geven van een machtiging, als bedoeld in [artikel 2 van de Algemene wet op het binnentreden](https://wetten.overheid.nl/jci1.3:c:BWBR0006763&artikel=2), voor het binnentreden in een woning die zich bevindt in of op een uit zee binnenkomend of ter zee uitgaand vervoermiddel.
+2. De voorzitters van de managementteams van de in [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=1&artikel=3&z=2007-04-11&g=2007-04-11), genoemde organisatieonderdelen zijn inspecteur bevoegd tot het geven van een machtiging, als bedoeld in [artikel 2 van de Algemene wet op het binnentreden](https://wetten.overheid.nl/jci1.3:c:BWBR0006763&artikel=2), voor het binnentreden in een woning die zich bevindt in of op een uit zee binnenkomend of ter zee uitgaand vervoermiddel.
 
 ##### Artikel 10
 
@@ -130,25 +130,25 @@ De verplichtingen die ingevolge de [artikelen 47](https://wetten.overheid.nl/jci
 
 ##### Artikel 11
 
-1. De woonplaats van een natuurlijk persoon dan wel de vestigingsplaats van een lichaam of een entiteit bepaalt, met inachtneming van de indeling opgenomen in de bijlage bij deze regeling en in samenhang met de taakverdeling, omschreven in [artikel 3, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=1&artikel=3&z=2007-01-01&g=2007-01-01), onder welke inspecteur of ontvanger de natuurlijk persoon, het lichaam of de entiteit ressorteert, tenzij in dit hoofdstuk dan wel op grond van het vierde lid anders is bepaald.
+1. De woonplaats van een natuurlijk persoon dan wel de vestigingsplaats van een lichaam of een entiteit bepaalt, met inachtneming van de indeling opgenomen in de bijlage bij deze regeling en in samenhang met de taakverdeling, omschreven in [artikel 3, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=1&artikel=3&z=2007-04-11&g=2007-04-11), onder welke inspecteur of ontvanger de natuurlijk persoon, het lichaam of de entiteit ressorteert, tenzij in dit hoofdstuk dan wel op grond van het vierde lid anders is bepaald.
 
-2. Voor het verrichten van rechtshandelingen op grond van wettelijke bepalingen in de zin van [artikel 2, tweede lid, onderdeel a, van de Douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0007632&artikel=2) met betrekking tot goederen die zich onder douanetoezicht bevinden of onder douanetoezicht geplaatst moeten worden, bepaalt de plaats waar de goederen zich bevinden, met inachtneming van de indeling opgenomen in de bijlage bij deze regeling en in samenhang met de taakverdeling, omschreven in [artikel 3, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=1&artikel=3&z=2007-01-01&g=2007-01-01), onder welke inspecteur een belanghebbende ressorteert, tenzij in dit hoofdstuk of op grond van het vierde lid anders is bepaald dan wel door de inspecteur is toegestaan dat het eerste lid van toepassing is.
+2. Voor het verrichten van rechtshandelingen op grond van wettelijke bepalingen in de zin van [artikel 2, tweede lid, onderdeel a, van de Douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0007632&artikel=2) met betrekking tot goederen die zich onder douanetoezicht bevinden of onder douanetoezicht geplaatst moeten worden, bepaalt de plaats waar de goederen zich bevinden, met inachtneming van de indeling opgenomen in de bijlage bij deze regeling en in samenhang met de taakverdeling, omschreven in [artikel 3, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=1&artikel=3&z=2007-04-11&g=2007-04-11), onder welke inspecteur een belanghebbende ressorteert, tenzij in dit hoofdstuk of op grond van het vierde lid anders is bepaald dan wel door de inspecteur is toegestaan dat het eerste lid van toepassing is.
 
-3. De voorzitter van een managementteam van een in [artikel 3, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=1&artikel=3&z=2007-01-01&g=2007-01-01), genoemd organisatieonderdeel kan voor de toepassing van deze regeling namens de directeur, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=2&artikel=7&z=2007-01-01&g=2007-01-01), bepalen dat een natuurlijk persoon of een lichaam al dan niet tezamen met één of meer daarmee direct of indirect in bestuurlijk, financieel, administratief of maatschappelijk opzicht verbonden natuurlijke personen of lichamen als een entiteit wordt beschouwd.
+3. De voorzitter van een managementteam van een in [artikel 3, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=1&artikel=3&z=2007-04-11&g=2007-04-11), genoemd organisatieonderdeel kan voor de toepassing van deze regeling namens de directeur, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=2&artikel=7&z=2007-04-11&g=2007-04-11), bepalen dat een natuurlijk persoon of een lichaam al dan niet tezamen met één of meer daarmee direct of indirect in bestuurlijk, financieel, administratief of maatschappelijk opzicht verbonden natuurlijke personen of lichamen als een entiteit wordt beschouwd.
 
-4. De voorzitter van een managementteam als bedoeld in [artikel 3, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=1&artikel=3&z=2007-01-01&g=2007-01-01), kan in daartoe aanleiding gevende gevallen namens de directeur, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=2&artikel=7&z=2007-01-01&g=2007-01-01), van het bepaalde in dit hoofdstuk afwijken.
+4. De voorzitter van een managementteam als bedoeld in [artikel 3, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=1&artikel=3&z=2007-04-11&g=2007-04-11), kan in daartoe aanleiding gevende gevallen namens de directeur, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=2&artikel=7&z=2007-04-11&g=2007-04-11), van het bepaalde in dit hoofdstuk afwijken.
 
 5. De woonplaats van een natuurlijk persoon en de vestigingsplaats van een lichaam of een entiteit worden naar de omstandigheden beoordeeld.
 
 ##### Artikel 12
 
-1. Met betrekking tot de heffing en invordering van rijksbelastingen, andere dan bedoeld in [artikel 3, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=1&artikel=3&z=2007-01-01&g=2007-01-01), ten aanzien van een niet tot een entiteit behorend natuurlijk persoon of lichaam die of dat buiten Nederland woont of is gevestigd, ressorteert de natuurlijk persoon of het lichaam onder de voorzitter van het managementteam van de Belastingdienst/Limburg.
+1. Met betrekking tot de heffing en invordering van rijksbelastingen, andere dan bedoeld in [artikel 3, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=1&artikel=3&z=2007-04-11&g=2007-04-11), ten aanzien van een niet tot een entiteit behorend natuurlijk persoon of lichaam die of dat buiten Nederland woont of is gevestigd, ressorteert de natuurlijk persoon of het lichaam onder de voorzitter van het managementteam van de Belastingdienst/Limburg.
 
 2. Met betrekking tot de teruggave van dividendbelasting, ingehouden op dividenden uitgekeerd aan een inwoner van Aruba of de Nederlandse Antillen of aan een inwoner van landen waarmee Nederland een belastingverdrag heeft gesloten, ressorteert de natuurlijk persoon of het lichaam onder de voorzitter van het managementteam van de Belastingdienst/Limburg.
 
 ##### Artikel 13
 
-1. Met betrekking tot de heffing en invordering van rijksbelastingen, andere dan bedoeld in [artikel 3, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=1&artikel=3&z=2007-01-01&g=2007-01-01), ressorteert de natuurlijk persoon, het lichaam of de entiteit die:
+1. Met betrekking tot de heffing en invordering van rijksbelastingen, andere dan bedoeld in [artikel 3, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=1&artikel=3&z=2007-04-11&g=2007-04-11), ressorteert de natuurlijk persoon, het lichaam of de entiteit die:
 
 - 1°. als hoofdactiviteit het bank- en effectenbedrijf of het bedrijf van verzekeringsmaatschappij uitoefent, onder de voorzitter van het managementteam van de Belastingdienst/Amsterdam;
 
@@ -166,7 +166,7 @@ De verplichtingen die ingevolge de [artikelen 47](https://wetten.overheid.nl/jci
 
 ##### Artikel 14
 
-1. Met betrekking tot de heffing en invordering van het recht van successie en het recht van schenking bepaalt de woonplaats of de vestigingsplaats van de erflater onderscheidenlijk de schenker, met inachtneming van de indeling opgenomen in de bijlage bij deze regeling en in samenhang met de taakverdeling, omschreven in [artikel 3, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=1&artikel=3&z=2007-01-01&g=2007-01-01), onder welke inspecteur of ontvanger de natuurlijk persoon of het lichaam ressorteert.
+1. Met betrekking tot de heffing en invordering van het recht van successie en het recht van schenking bepaalt de woonplaats of de vestigingsplaats van de erflater onderscheidenlijk de schenker, met inachtneming van de indeling opgenomen in de bijlage bij deze regeling en in samenhang met de taakverdeling, omschreven in [artikel 3, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=1&artikel=3&z=2007-04-11&g=2007-04-11), onder welke inspecteur of ontvanger de natuurlijk persoon of het lichaam ressorteert.
 
 2. Met betrekking tot de heffing en invordering van het recht van successie ressorteert de natuurlijk persoon of het lichaam, indien de erflater ten tijde van zijn overlijden geen woonplaats binnen Nederland had, onder de voorzitter van het managementteam van de Belastingdienst/Limburg.
 
@@ -174,13 +174,11 @@ De verplichtingen die ingevolge de [artikelen 47](https://wetten.overheid.nl/jci
 
 4. Met betrekking tot de heffing en invordering van het recht van overgang ressorteert de natuurlijk persoon of het lichaam onder de voorzitter van het managementteam van de Belastingdienst/Limburg.
 
-5. Voor een verzoek van een instelling ter beoordeling of zij in aanmerking zou komen voor de vrijstelling van [artikel 32, eerste lid, ten derde](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=32), of [artikel 33, eerste lid, ten vierde, van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=33), ressorteert de verzoeker onder de voorzitter van het managementteam van de Belastingdienst/Oost-Brabant.
-
 ##### Artikel 15
 
-1. Met betrekking tot de heffing en invordering van de overdrachtsbelasting bepaalt de woonplaats of de vestigingsplaats van de verkrijger, met inachtneming van de indeling opgenomen in de bijlage bij deze regeling en in samenhang met de taakverdeling, omschreven in [artikel 3, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=1&artikel=3&z=2007-01-01&g=2007-01-01), onder welke inspecteur of ontvanger de natuurlijk persoon of het lichaam ressorteert.
+1. Met betrekking tot de heffing en invordering van de overdrachtsbelasting bepaalt de woonplaats of de vestigingsplaats van de verkrijger, met inachtneming van de indeling opgenomen in de bijlage bij deze regeling en in samenhang met de taakverdeling, omschreven in [artikel 3, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=1&artikel=3&z=2007-04-11&g=2007-04-11), onder welke inspecteur of ontvanger de natuurlijk persoon of het lichaam ressorteert.
 
-2. Indien een aangifte overdrachtsbelasting wordt gedaan door middel van een akte, bepaalt de woonplaats of vestigingsplaats van de notaris, in afwijking van het eerste lid en met inachtneming van de indeling opgenomen in de bijlage bij deze regeling en in samenhang met de taakverdeling, omschreven in [artikel 3, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=1&artikel=3&z=2007-01-01&g=2007-01-01), onder welke ontvanger de notaris ressorteert.
+2. Indien een aangifte overdrachtsbelasting wordt gedaan door middel van een akte, bepaalt de woonplaats of vestigingsplaats van de notaris, in afwijking van het eerste lid en met inachtneming van de indeling opgenomen in de bijlage bij deze regeling en in samenhang met de taakverdeling, omschreven in [artikel 3, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=1&artikel=3&z=2007-04-11&g=2007-04-11), onder welke ontvanger de notaris ressorteert.
 
 3. Met betrekking tot de heffing en invordering van de kapitaalsbelasting ressorteert het lichaam, indien het lichaam geen vestigingsplaats heeft binnen Nederland, onder de voorzitter van het managementteam van de Belastingdienst/Limburg.
 
@@ -196,7 +194,7 @@ De verplichtingen die ingevolge de [artikelen 47](https://wetten.overheid.nl/jci
 
 ##### Artikel 17
 
-Met betrekking tot de heffing en invordering van de motorrijtuigenbelasting en de belasting zware motorrijtuigen alsmede de uitvoering van [artikel 35a van de Wet op de belasting van personenauto's en motorrijwielen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=35a), zoals dit luidde op 31 december 2002, ressorteert de natuurlijk persoon, het lichaam of de entiteit onder de voorzitter van het managementteam van de B/CA dan wel wat betreft de invordering van de motorrijtuigenbelasting en de belasting zware motorrijtuigen onder een voorzitter van een managementteam van een van de in [artikel 3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=1&artikel=3&z=2007-01-01&g=2007-01-01), genoemde organisatieonderdelen met inachtneming van [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=3&artikel=11&z=2007-01-01&g=2007-01-01).
+Met betrekking tot de heffing en invordering van de motorrijtuigenbelasting en de belasting zware motorrijtuigen alsmede de uitvoering van [artikel 35a van de Wet op de belasting van personenauto's en motorrijwielen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=35a), zoals dit luidde op 31 december 2002, ressorteert de natuurlijk persoon, het lichaam of de entiteit onder de voorzitter van het managementteam van de B/CA dan wel wat betreft de invordering van de motorrijtuigenbelasting en de belasting zware motorrijtuigen onder een voorzitter van een managementteam van een van de in [artikel 3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=1&artikel=3&z=2007-04-11&g=2007-04-11), genoemde organisatieonderdelen met inachtneming van [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=3&artikel=11&z=2007-04-11&g=2007-04-11).
 
 ##### Artikel 18
 
@@ -280,7 +278,7 @@ Met betrekking tot de uitvoering van [artikel 53, tweede en derde lid, van de Al
 
 - e. de Amerikaanse Militaire Begraafplaats te Margraten.
 
-3. De volgende instellingen ressorteren voor de heffing en invordering van omzetbelasting en van de in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=1&artikel=3&z=2007-01-01&g=2007-01-01), bedoelde rijksbelastingen onder de voorzitter van het managementteam van de Belastingdienst/Haaglanden:
+3. De volgende instellingen ressorteren voor de heffing en invordering van omzetbelasting en van de in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=1&artikel=3&z=2007-04-11&g=2007-04-11), bedoelde rijksbelastingen onder de voorzitter van het managementteam van de Belastingdienst/Haaglanden:
 
 - a. internationale organisaties en NAVO-onderdelen gevestigd, dan wel gelegerd in andere lidstaten van de Europese Unie, alsmede de daaraan verbonden personeelsleden;
 
@@ -294,7 +292,7 @@ Met betrekking tot de uitvoering van de Landinrichtingswet, de Reconstructiewet 
 
 ##### Artikel 22
 
-Met betrekking tot de heffing en invordering van rijksbelastingen, andere dan bedoeld in [artikel 3, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=1&artikel=3&z=2007-01-01&g=2007-01-01), ten aanzien van een natuurlijk persoon waarop artikel 27 van het Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk België tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen en naar het vermogen van toepassing is en een tot een entiteit behorende natuurlijk persoon voor de toepassing van genoemd artikel, ressorteert de natuurlijk persoon onder de voorzitter van het managementteam van de Belastingdienst/Zuidwest.
+Met betrekking tot de heffing en invordering van rijksbelastingen, andere dan bedoeld in [artikel 3, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=1&artikel=3&z=2007-04-11&g=2007-04-11), ten aanzien van een natuurlijk persoon waarop artikel 27 van het Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk België tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen en naar het vermogen van toepassing is en een tot een entiteit behorende natuurlijk persoon voor de toepassing van genoemd artikel, ressorteert de natuurlijk persoon onder de voorzitter van het managementteam van de Belastingdienst/Zuidwest.
 
 ##### Artikel 23
 
@@ -306,7 +304,7 @@ Met betrekking tot de heffing en invordering van rijksbelastingen, andere dan be
 
 ##### Artikel 24
 
-Het op aangifte voldoen van de belasting van personenauto's en motorrijtuigen alsmede, in voorkomend geval, van de omzetbelasting als bedoeld in [artikel 17h, tweede lid, van de Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=17h) kan geschieden bij iedere voorzitter van het managementteam van de in [artikel 3, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=1&artikel=3&z=2007-01-01&g=2007-01-01), genoemde organisatieonderdelen.
+Het op aangifte voldoen van de belasting van personenauto's en motorrijtuigen alsmede, in voorkomend geval, van de omzetbelasting als bedoeld in [artikel 17h, tweede lid, van de Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=17h) kan geschieden bij iedere voorzitter van het managementteam van de in [artikel 3, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=1&artikel=3&z=2007-04-11&g=2007-04-11), genoemde organisatieonderdelen.
 
 ##### Artikel 25
 
@@ -847,7 +845,7 @@ Deze regeling zal met de toelichting en de bijlage in de Staatscourant worden ge
 
 ##### Artikel 9a
 
-De ambtenaren van de in [artikel 3, eerste lid, onderdelen a, c.1, c.2 en d](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=1&artikel=3&z=2007-01-01&g=2007-01-01), genoemde organisatieonderdelen zijn voor de toepassing van [artikel 94 van de Wet op het notarisambt inspecteur](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=94) als bedoeld in [artikel 2, derde lid, onderdeel b, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=2).
+De ambtenaren van de in [artikel 3, eerste lid, onderdelen a, c.1, c.2 en d](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=1&artikel=3&z=2007-04-11&g=2007-04-11), genoemde organisatieonderdelen zijn voor de toepassing van [artikel 94 van de Wet op het notarisambt inspecteur](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=94) als bedoeld in [artikel 2, derde lid, onderdeel b, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=2).
 
 ### Hoofdstuk 3. Ressortering onder functionarissen
 
@@ -1348,9 +1346,9 @@ Deze regeling zal met de toelichting en de bijlage in de Staatscourant worden ge
 
 ##### Artikel 5a
 
-1. De voorzitters van de managementteams van de in [artikel 3, eerste lid, onderdelen a, b en c.1](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=1&artikel=3&z=2007-01-01&g=2007-01-01), genoemde organisatieonderdelen zijn inspecteur als bedoeld in [artikel 1, onderdeel t, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=1) en [artikel 1, onderdeel g, van de Invoeringswet Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017747&artikel=1).
+1. De voorzitters van de managementteams van de in [artikel 3, eerste lid, onderdelen a, b en c.1](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=1&artikel=3&z=2007-04-11&g=2007-04-11), genoemde organisatieonderdelen zijn inspecteur als bedoeld in [artikel 1, onderdeel t, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=1) en [artikel 1, onderdeel g, van de Invoeringswet Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017747&artikel=1).
 
-2. De voorzitters van de managementteams van de in [artikel 3, eerste lid, onderdelen a, b, c.1 en f](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=1&artikel=3&z=2007-01-01&g=2007-01-01), genoemde organisatieonderdelen zijn inspecteur en ontvanger als bedoeld in [artikel 2, zevende lid, van het Tijdelijk besluit tegemoetkoming buitengewone uitgaven](https://wetten.overheid.nl/jci1.3:c:BWBR0016555&artikel=2).
+2. De voorzitters van de managementteams van de in [artikel 3, eerste lid, onderdelen a, b, c.1 en f](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=1&artikel=3&z=2007-04-11&g=2007-04-11), genoemde organisatieonderdelen zijn inspecteur en ontvanger als bedoeld in [artikel 2, zevende lid, van het Tijdelijk besluit tegemoetkoming buitengewone uitgaven](https://wetten.overheid.nl/jci1.3:c:BWBR0016555&artikel=2).
 
 ### Hoofdstuk 3. Ressortering onder functionarissen
 
@@ -1842,7 +1840,495 @@ Deze regeling zal met de toelichting en de bijlage in de Staatscourant worden ge
 
 ##### Artikel 11a
 
-Met betrekking tot de heffing en invordering van rijksbelastingen, andere dan bedoeld in [artikel 3, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=1&artikel=3&z=2007-01-01&g=2007-01-01), ten aanzien van Ministers en staatssecretarissen, ressorteren deze personen onder de voorzitter van het managementteam van de Belastingdienst/Haaglanden. Deze bepaling geldt vanaf het belastingjaar waarin deze bewindslieden zijn benoemd tot en met het belastingjaar waarin zij zijn ontslagen.
+Met betrekking tot de heffing en invordering van rijksbelastingen, andere dan bedoeld in [artikel 3, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=1&artikel=3&z=2007-04-11&g=2007-04-11), ten aanzien van Ministers en staatssecretarissen, ressorteren deze personen onder de voorzitter van het managementteam van de Belastingdienst/Haaglanden. Deze bepaling geldt vanaf het belastingjaar waarin deze bewindslieden zijn benoemd tot en met het belastingjaar waarin zij zijn ontslagen.
+
+### Hoofdstuk 4. Slotbepalingen
+
+## Bijlage. bij Uitvoeringsregeling Belastingdienst 2003
+
+| **Gemeente** | **Belastingregio** | **Douaneregio** |
+| --- | --- | --- |
+| Aa en Hunze | Noord | Noord |
+| Aalburg | Zuidwest | Zuid |
+| Aalsmeer | Holland Midden | West |
+| Aalten | Oost | Noord |
+| Abcoude | Holland Midden | Noord |
+| Achtkarspelen | Noord | Noord |
+| Alblasserdam | Rijnmond | Zuid |
+| Albrandswaard | Rijnmond | Rotterdam |
+| Alkemade | Holland Midden | West |
+| Alkmaar | Holland Noord | West |
+| Almelo | Oost | Noord |
+| Almere | Randmeren | Noord |
+| Alphen aan den Rijn | Haaglanden | West |
+| Ambt Montfoort | Limburg | Zuid |
+| Alphen-Chaam | Zuidwest | Zuid |
+| Ameland | Noord | Noord |
+| Amersfoort | Utrecht-Gooi | Noord |
+| Amstelveen | Holland Midden | West |
+| Amsterdam | Amsterdam | West |
+| Andijk | Holland Noord | West |
+| Anna Paulowna | Holland Noord | West |
+| Apeldoorn | Randmeren | Noord |
+| Appingedam | Noord | Noord |
+| Arcen en Velden | Limburg | Zuid |
+| Arnhem | Rivierenland | Noord |
+| Assen | Noord | Noord |
+| Asten | Oost-Brabant | Zuid |
+|   |   |   |
+| Baarle-Nassau | Zuidwest | Zuid |
+| Baarn | Utrecht-Gooi | Noord |
+| Barendrecht | Rijnmond | Rotterdam |
+| Barneveld | Randmeren | Noord |
+| Bedum | Noord | Noord |
+| Beek | Limburg | Zuid |
+| Beemster | Holland Noord | West |
+| Beesel | Limburg | Zuid |
+| Bellingwedde | Noord | Noord |
+| Bennebroek | Holland Midden | West |
+| Bergambacht | Haaglanden | Noord |
+| Bergeijk | Oost-Brabant | Zuid |
+| Bergen (L) | Limburg | Zuid |
+| Bergen (N-H) | Holland Noord | West |
+| Bergen op Zoom | Zuidwest | Zuid |
+| Bergschenhoek | Haaglanden | West |
+| Berkel en Rodenrijs | Haaglanden | West |
+| Berkelland | Oost | Noord |
+| Bernheze | Oost-Brabant | Zuid |
+| Bernisse | Rijnmond | Rotterdam |
+| Best | Oost-Brabant | Zuid |
+| Beuningen | Rivierenland | Noord |
+| Beverwijk | Holland Noord | West |
+| Binnenmaas | Rijnmond | Rotterdam |
+| Bladel | Oost-Brabant | Zuid |
+| Blaricum | Utrecht-Gooi | Noord |
+| Bleiswijk | Haaglanden | West |
+| Bloemendaal | Holland Midden | West |
+| Boarnsterhim | Noord | Noord |
+| Bodegraven | Haaglanden | Noord |
+| Boekel | Oost-Brabant | Zuid |
+| Bolsward | Noord | Noord |
+| Borger-Odoorn | Noord | Noord |
+| Borne | Oost | Noord |
+| Borsele | Zuidwest | Zuid |
+| Boskoop | Haaglanden | Noord |
+| Boxmeer | Oost-Brabant | Zuid |
+| Boxtel | Oost-Brabant | Zuid |
+| Breda | Zuidwest | Zuid |
+| Breukelen | Utrecht-Gooi | Noord |
+| Brielle | Rijnmond | Rotterdam |
+| Bronckhorst | Oost | Noord |
+| Brummen | Rivierenland | Noord |
+| Brunssum | Limburg | Zuid |
+| Bunnik | Utrecht-Gooi | Noord |
+| Bunschoten | Utrecht-Gooi | Noord |
+| Buren | Rivierenland | Noord |
+| Bussum | Utrecht-Gooi | Noord |
+|   |   |   |
+| Capelle aan de IJssel | Rijnmond | Rotterdam |
+| Castricum | Holland Noord | West |
+| Coevorden | Noord | Noord |
+| Cranendonck | Oost-Brabant | Zuid |
+| Cromstrijen | Rijnmond | Rotterdam |
+| Cuijk | Oost-Brabant | Zuid |
+| Culemborg | Rivierenland | Noord |
+|   |   |   |
+| Dalfsen | Randmeren | Noord |
+| Dantumadeel | Noord | Noord |
+| De Bilt | Utrecht-Gooi | Noord |
+| De Marne | Noord | Noord |
+| De Ronde Venen | Holland Midden | Noord |
+| De Wolden | Noord | Noord |
+| Delft | Haaglanden | West |
+| Delfzijl | Noord | Noord |
+| Den Haag | Haaglanden | West |
+| Den Helder | Holland Noord | West |
+| Deurne | Oost-Brabant | Zuid |
+| Deventer | Oost | Noord |
+| Diemen | Amsterdam | West |
+| Dinkelland | Oost | Noord |
+| Dirksland | Zuidwest | Zuid |
+| Doesburg | Oost | Noord |
+| Doetinchem | Oost | Noord |
+| Dongen | Zuidwest | Zuid |
+| Dongeradeel | Noord | Noord |
+| Dordrecht | Rijnmond | Zuid |
+| Drechterland | Holland Noord | West |
+| Drimmelen | Zuidwest | Zuid |
+| Dronten | Randmeren | Noord |
+| Druten | Rivierenland | Noord |
+| Duiven | Rivierenland | Noord |
+|   |   |   |
+| Echt-Susteren | Limburg | Zuid |
+| Edam-Volendam | Holland Noord | West |
+| Ede | Randmeren | Noord |
+| Eemnes | Utrecht-Gooi | Noord |
+| Eemsmond | Noord | Noord |
+| Eersel | Oost-Brabant | Zuid |
+| Eijsden | Limburg | Zuid |
+| Eindhoven | Oost-Brabant | Zuid |
+| Elburg | Randmeren | Noord |
+| Emmen | Noord | Noord |
+| Enkhuizen | Holland Noord | West |
+| Enschede | Oost | Noord |
+| Epe | Randmeren | Noord |
+| Ermelo | Randmeren | Noord |
+| Etten-Leur | Zuidwest | Zuid |
+|   |   |   |
+| Ferwerderadiel | Noord | Noord |
+| Franekeradeel | Noord | Noord |
+|   |   |   |
+| Gaasterlân-Sleat | Noord | Noord |
+| Geertruidenberg | Zuidwest | Zuid |
+| Geldermalsen | Rivierenland | Noord |
+| Geldrop-Mierlo | Oost-Brabant | Zuid |
+| Gemert-Bakel | Oost-Brabant | Zuid |
+| Gennep | Limburg | Zuid |
+| Giessenlanden | Rivierenland | Zuid |
+| Gilze en Rijen | Zuidwest | Zuid |
+| Goedereede | Zuidwest | Zuid |
+| Goes | Zuidwest | Zuid |
+| Goirle | Oost-Brabant | Zuid |
+| Gorinchem | Rivierenland | Noord |
+| Gouda | Haaglanden | Noord |
+| Graafstroom | Rijnmond | Zuid |
+| Graft-de Rijp | Holland Noord | West |
+| Grave | Oost-Brabant | Zuid |
+| 's-Gravendeel | Rijnmond | Rotterdam |
+| Groenlo | Oost | Noord |
+| Groesbeek | Rivierenland | Noord |
+| Groningen | Noord | Noord |
+| Grootegast | Noord | Noord |
+| Gulpen-Wittem | Limburg | Zuid |
+|   |   |   |
+| Haaksbergen | Oost | Noord |
+| Haaren | Oost-Brabant | Zuid |
+| Haarlem | Holland Midden | West |
+| Haarlemmerliede en Spaarnwoude | Holland Midden | West |
+| Haarlemmermeer | Holland Midden | West |
+| Haelen | Limburg | Zuid |
+| Halderberge | Zuidwest | Zuid |
+| Hardenberg | Oost | Noord |
+| Harderwijk | Randmeren | Noord |
+| Hardinxveld-Giessendam | Rijnmond | Zuid |
+| Haren | Noord | Noord |
+| Harenkarspel | Holland Noord | West |
+| Harlingen | Noord | Noord |
+| Hattem | Randmeren | Noord |
+| Heel | Limburg | Zuid |
+| Heemskerk | Holland Noord | West |
+| Heemstede | Holland Midden | West |
+| Heerde | Randmeren | Noord |
+| Heerenveen | Noord | Noord |
+| Heerhugowaard | Holland Noord | West |
+| Heerlen | Limburg | Zuid |
+| Heeze-Leende | Oost-Brabant | Zuid |
+| Heiloo | Holland Noord | West |
+| Helden | Limburg | Zuid |
+| Hellendoorn | Oost | Noord |
+| Hellevoetsluis | Rijnmond | Rotterdam |
+| Helmond | Oost-Brabant | Zuid |
+| Hendrik Ido Ambacht | Rijnmond | Rotterdam |
+| Hengelo (O) | Oost | Noord |
+| 's-Hertogenbosch | Oost-Brabant | Zuid |
+| Het Bildt | Noord | Noord |
+| Heumen | Rivierenland | Noord |
+| Heusden | Oost-Brabant | Zuid |
+| Heythuysen | Limburg | Zuid |
+| Hillegom | Holland Midden | West |
+| Hilvarenbeek | Oost-Brabant | Zuid |
+| Hilversum | Utrecht-Gooi | Noord |
+| Hof van Twente | Oost | Noord |
+| Hoogeveen | Noord | Noord |
+| Hoogezand-Sappemeer | Noord | Noord |
+| Hoorn | Holland Noord | West |
+| Horst aan de Maas | Limburg | Zuid |
+| Houten | Utrecht-Gooi | Noord |
+| Huizen | Utrecht-Gooi | Noord |
+| Hulst | Zuidwest | Zuid |
+| Hunsel | Limburg | Zuid |
+|   |   |   |
+| IJsselstein | Utrecht-Gooi | Noord |
+|   |   |   |
+| Jacobswoude | Holland Midden | West |
+|   |   |   |
+| Kampen | Randmeren | Noord |
+| Kapelle | Zuidwest | Zuid |
+| Katwijk | Holland Midden | West |
+| Kerkrade | Limburg | Zuid |
+| Kessel | Limburg | Zuid |
+| Kollumerland en Nieuwkruisland | Noord | Noord |
+| Korendijk | Rijnmond | Rotterdam |
+| Krimpen aan de IJssel | Rijnmond | Rotterdam |
+|   |   |   |
+| Laarbeek | Oost-Brabant | Zuid |
+| Landerd | Oost-Brabant | Zuid |
+| Landgraaf | Limburg | Zuid |
+| Landsmeer | Holland Noord | West |
+| Langedijk | Holland Noord | West |
+| Laren | Utrecht-Gooi | Noord |
+| Leek | Noord | Noord |
+| Leerdam | Rivierenland | Noord |
+| Leeuwarden | Noord | Noord |
+| Leeuwarderadeel | Noord | Noord |
+| Leiden | Holland Midden | West |
+| Leiderdorp | Holland Midden | West |
+| Leidschendam-Voorburg | Haaglanden | West |
+| Lelystad | Randmeren | Noord |
+| Lemsterland | Noord | Noord |
+| Leusden | Utrecht-Gooi | Noord |
+| Liesveld | Rijnmond | Zuid |
+| Lingewaal | Rivierenland | Noord |
+| Lingewaard | Rivierenland | Noord |
+| Lisse | Holland Midden | West |
+| Lith | Oost-Brabant | Zuid |
+| Littenseradiel | Noord | Noord |
+| Lochem | Oost | Noord |
+| Loenen | Utrecht-Gooi | Noord |
+| Loon op Zand | Oost-Brabant | Zuid |
+| Lopik | Utrecht-Gooi | Noord |
+| Loppersum | Noord | Noord |
+| Losser | Oost | Noord |
+|   |   |   |
+| Maarssen | Utrecht-Gooi | Noord |
+| Maasbracht | Limburg | Zuid |
+| Maasbree | Limburg | Zuid |
+| Maasdonk | Oost-Brabant | Zuid |
+| Maasdriel | Rivierenland | Noord |
+| Maassluis | Rijnmond | Rotterdam |
+| Maastricht | Limburg | Zuid |
+| Margraten | Limburg | Zuid |
+| Marum | Noord | Noord |
+| Medemblik | Holland Noord | West |
+| Meerlo-Wanssum | Limburg | Zuid |
+| Meerssen | Limburg | Zuid |
+| Menaldumadeel | Noord | Noord |
+| Menterwolde | Noord | Noord |
+| Meppel | Noord | Noord |
+| Meijel | Limburg | Zuid |
+| Middelburg | Zuidwest | Zuid |
+| Middelharnis | Zuidwest | Zuid |
+| Midden-Delfland | Haaglanden | West |
+| Midden-Drenthe | Noord | Noord |
+| Mill en Sint Hubert | Oost-Brabant | Zuid |
+| Millingen aan de Rijn | Rivierenland | Noord |
+| Moerdijk | Zuidwest | Zuid |
+| Montferland | Oost | Noord |
+| Montfoort | Utrecht-Gooi | Noord |
+| Mook en Middelaar | Limburg | Zuid |
+| Moordrecht | Haaglanden | Noord |
+| Muiden | Utrecht-Gooi | Noord |
+| Naarden | Utrecht-Gooi | Noord |
+| Neder-Betuwe | Rivierenland | Noord |
+| Nederlek | Haaglanden | Rotterdam |
+| Nederweert | Limburg | Zuid |
+| Neerijnen | Rivierenland | Noord |
+| Niedorp | Holland Noord | West |
+| Nieuw-Lekkerland | Rijnmond | Zuid |
+| Nieuwegein | Utrecht-Gooi | Noord |
+| Nieuwerkerk aan den IJssel | Haaglanden | Rotterdam |
+| Nieuwkoop | Holland Midden West | Holland Midden West |
+| Nijefurd | Noord | Noord |
+| Nijkerk | Randmeren | Noord |
+| Nijmegen | Rivierenland | Noord |
+| Noord-Beveland | Zuidwest | Zuid |
+| Noordenveld | Noord | Noord |
+| Noorder-Koggenland | Holland Noord | West |
+| Noordoostpolder | Randmeren | Noord |
+| Noordwijk | Holland Midden | West |
+| Noordwijkerhout | Holland Midden | West |
+| Nuenen, Gerwen en Nederwetten | Oost-Brabant | Zuid |
+| Nunspeet | Randmeren | Noord |
+| Nuth | Limburg | Zuid |
+| Obdam | Holland Noord | West |
+| Oegstgeest | Holland Midden | West |
+| Oirschot | Oost-Brabant | Zuid |
+| Oisterwijk | Oost-Brabant | Zuid |
+| Oldebroek | Randmeren | Noord |
+| Oldenzaal | Oost | Noord |
+| Olst-Wijhe | Oost | Noord |
+| Ommen | Randmeren | Noord |
+| Onderbanken | Limburg | Zuid |
+| Oosterhout | Zuidwest | Zuid |
+| Oostflakkee | Zuidwest | Zuid |
+| Ooststellingwerf | Noord | Noord |
+| Oostzaan | Holland Noord | West |
+| Opmeer | Holland Noord | West |
+| Opsterland | Noord | Noord |
+| Oss | Oost-Brabant | Zuid |
+| Oud-Beijerland | Rijnmond | Rotterdam |
+| Oude IJsselstreek | Oost | Noord |
+| Ouder-Amstel | Holland Midden | West |
+| Ouderkerk | Haaglanden | Rotterdam |
+| Oudewater | Utrecht-Gooi | Noord |
+| Overbetuwe | Rivierenland | Noord |
+| Papendrecht | Rijnmond | Zuid |
+| Pekela | Noord | Noord |
+| Purmerend | Holland Noord | West |
+| Putten | Randmeren | Noord |
+| Pijnacker-Nootdorp | Haaglanden | West |
+|   |   |   |
+| Raalte | Randmeren | Noord |
+| Reeuwijk | Haaglanden | Noord |
+| Reiderland | Noord | Noord |
+| Reimerswaal | Zuidwest | Zuid |
+| Renkum | Rivierenland | Noord |
+| Renswoude | Utrecht-Gooi | Noord |
+| Reusel-de Mierden | Oost-Brabant | Zuid |
+| Rheden | Rivierenland | Noord |
+| Rhenen | Utrecht-Gooi | Noord |
+| Ridderkerk | Rijnmond | Rotterdam |
+| Rijnwaarden | Rivierenland | Noord |
+| Rijnwoude | Haaglanden | West |
+| Rijssen-Holten | Oost | Noord |
+| Rijswijk | Haaglanden | West |
+| Roerdalen | Limburg | Zuid |
+| Roermond | Limburg | Zuid |
+| Roggel en Neer | Limburg | Zuid |
+| Roosendaal | Zuidwest | Zuid |
+| Rotterdam (m.u.v. Rotterdam-airport) | Rijnmond | Rotterdam |
+| Rotterdam (alleen Rotterdam-airport) | Rijnmond | West |
+| Rozenburg | Rijnmond | Rotterdam |
+| Rozendaal | Rivierenland | Noord |
+| Rucphen | Zuidwest | Zuid |
+| Schagen | Holland Noord | West |
+| Scheemda | Noord | Noord |
+| Schermer | Holland Noord | West |
+| Scherpenzeel | Randmeren | Noord |
+| Schiedam | Rijnmond | Rotterdam |
+| Schiermonnikoog | Noord | Noord |
+| Schijndel | Oost-Brabant | Zuid |
+| Schinnen | Limburg | Zuid |
+| Schoonhoven | Haaglanden | Noord |
+| Schouwen-Duiveland | Zuidwest | Zuid |
+| Sevenum | Limburg | Zuid |
+| Simpelveld | Limburg | Zuid |
+| Sint-Anthonis | Oost-Brabant | Zuid |
+| Sint-Michielsgestel | Oost-Brabant | Zuid |
+| Sint-Oedenrode | Oost-Brabant | Zuid |
+| Sittard-Geleen | Limburg | Zuid |
+| Skarsterlân | Noord | Noord |
+| Sliedrecht | Rijnmond | Zuid |
+| Slochteren | Noord | Noord |
+| Sluis | Zuidwest | Zuid |
+| Smallingerland | Noord | Noord |
+| Sneek | Noord | Noord |
+| Soest | Utrecht-Gooi | Noord |
+| Someren | Oost-Brabant | Zuid |
+| Son en Breugel | Oost-Brabant | Zuid |
+| Spijkenisse | Rijnmond | Rotterdam |
+| Stadskanaal | Noord | Noord |
+| Staphorst | Randmeren | Noord |
+| Stede Broec | Holland Noord | West |
+| Steenbergen | Zuidwest | Zuid |
+| Steenwijkerland | Randmeren | Noord |
+| Stein | Limburg | Zuid |
+| Strijen | Rijnmond | Rotterdam |
+| Swalmen | Limburg | Zuid |
+|   |   |   |
+| Ten Boer | Noord | Noord |
+| Terneuzen | Zuidwest | Zuid |
+| Terschelling | Noord | Noord |
+| Teylingen | Holland Midden | West |
+| Texel | Holland Noord | West |
+| Tholen | Zuidwest | Zuid |
+| Thorn | Limburg | Zuid |
+| Tiel | Rivierenland | Noord |
+| Tilburg | Oost-Brabant | Zuid |
+| Tubbergen | Oost | Noord |
+| Twenterand | Oost | Noord |
+| Tynaarlo | Noord | Noord |
+| Tytsjerksteradiel | Noord | Noord |
+|   |   |   |
+| Ubbergen | Rivierenland | Noord |
+| Uden | Oost-Brabant | Zuid |
+| Uitgeest | Holland Noord | West |
+| Uithoorn | Holland Midden | West |
+| Urk | Randmeren | Noord |
+| Utrecht | Utrecht-Gooi | Noord |
+| Utrechtse Heuvelrug | Utrecht-Gooi | Noord |
+|   |   |   |
+| Vaals | Limburg | Zuid |
+| Valkenburg aan de Geul | Limburg | Zuid |
+| Valkenswaard | Oost-Brabant | Zuid |
+| Veendam | Noord | Noord |
+| Veenendaal | Utrecht-Gooi | Noord |
+| Veere | Zuidwest | Zuid |
+| Veghel | Oost-Brabant | Zuid |
+| Veldhoven | Oost-Brabant | Zuid |
+| Velsen | Holland Midden | West |
+| Venlo | Limburg | Zuid |
+| Venray | Limburg | Zuid |
+| Vianen | Utrecht-Gooi | Noord |
+| Vlaardingen | Rijnmond | Rotterdam |
+| Vlagtwedde | Noord | Noord |
+| Vlieland | Noord | Noord |
+| Vlissingen | Zuidwest | Zuid |
+| Vlist | Haaglanden | Noord |
+| Voerendaal | Limburg | Zuid |
+| Voorschoten | Holland Midden | West |
+| Voorst | Randmeren | Noord |
+| Vught | Oost-Brabant | Zuid |
+|   |   |   |
+| Waalre | Oost-Brabant | Zuid |
+| Waalwijk | Oost-Brabant | Zuid |
+| Waddinxveen | Haaglanden | Noord |
+| Wageningen | Randmeren | Noord |
+| Wassenaar | Haaglanden | West |
+| Waterland | Holland Noord | West |
+| Weert | Limburg | Zuid |
+| Weesp | Utrecht-Gooi | Noord |
+| Werkendam | Zuidwest | Zuid |
+| Wervershoof | Holland Noord | West |
+| West Maas en Waal | Rivierenland | Noord |
+| Wester-Koggenland | Holland Noord | West |
+| Westerveld | Noord | Noord |
+| Westervoort | Rivierenland | Noord |
+| Westland | Haaglanden | West |
+| Weststellingwerf | Noord | Noord |
+| Westvoorne | Rijnmond | Rotterdam |
+| Wierden | Oost | Noord |
+| Wieringen | Holland Noord | West |
+| Wieringermeer | Holland Noord | West |
+| Wijchen | Rivierenland | Noord |
+| Wijdemeren | Utrecht-Gooi | Noord |
+| Wijk bij Duurstede | Utrecht-Gooi | Noord |
+| Winschoten | Noord | Noord |
+| Winsum | Noord | Noord |
+| Winterswijk | Oost | Noord |
+| Woensdrecht | Zuidwest | Zuid |
+| Woerden | Utrecht-Gooi | Noord |
+| Wognum | Holland Noord | West |
+| Wormerland | Holland Noord | West |
+| Woudenberg | Utrecht-Gooi | Noord |
+| Woudrichem | Zuidwest | Zuid |
+| Wûnseradiel | Noord | Noord |
+| Wymbritseradiel | Noord | Noord |
+|   |   |   |
+| Zaanstad | Holland Noord | West |
+| Zaltbommel | Rivierenland | Noord |
+| Zandvoort | Holland Midden | West |
+| Zederik | Rivierenland | Noord |
+| Zeevang | Holland Noord | West |
+| Zeewolde | Randmeren | Noord |
+| Zeist | Utrecht-Gooi | Noord |
+| Zevenaar | Rivierenland | Noord |
+| Zevenhuizen-Moerkapelle | Haaglanden | West |
+| Zoetermeer | Haaglanden | West |
+| Zoeterwoude | Holland Midden | West |
+| Zuidhorn | Noord | Noord |
+| Zundert | Zuidwest | Zuid |
+| Zutphen | Oost | Noord |
+| Zwartewaterland | Randmeren | Noord |
+| Zwijndrecht | Rijnmond | Rotterdam |
+| Zwolle | Randmeren | Noord |
+| Zijpe | Holland Noord | West |
+
+Deze regeling zal met de toelichting en de bijlage in de Staatscourant worden geplaatst.
+
+##### Artikel 13a
+
+Voor een verzoek om te worden aangemerkt als een instelling als bedoeld in [artikel 6.33, eerste lid, onderdeel b, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.33), en voor het niet meer aanmerken als een zodanige instelling ressorteert de instelling onder de voorzitter van het managementteam van de Belastingdienst/Oost Brabant.
 
 ### Hoofdstuk 4. Slotbepalingen
 
