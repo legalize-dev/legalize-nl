@@ -4,7 +4,7 @@ identifier: "BWBR0022636"
 country: "nl"
 rank: "wet"
 publication_date: "2009-11-01"
-last_updated: "2006-07-01"
+last_updated: "2007-04-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022636"
 soort: "wet"
@@ -122,7 +122,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XIIIa
 
-De ingevolge [artikel IA, onderdelen A en B](https://wetten.overheid.nl/jci1.3:c:BWBR0022636&artikel=Ia&z=2008-01-01&g=2006-07-01), gewijzigde artikelen van de [Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226) vinden voor het eerst toepassing met betrekking tot belastbare feiten in de zin van de [Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226) die zich hebben voorgedaan op of na 1 januari 2006.
+De ingevolge [artikel IA, onderdelen A en B](https://wetten.overheid.nl/jci1.3:c:BWBR0022636&artikel=Ia&z=2008-01-01&g=2007-04-11), gewijzigde artikelen van de [Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226) vinden voor het eerst toepassing met betrekking tot belastbare feiten in de zin van de [Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226) die zich hebben voorgedaan op of na 1 januari 2006.
 
 ##### Artikel XIIIb
 
