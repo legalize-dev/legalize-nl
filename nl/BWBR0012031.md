@@ -4,7 +4,7 @@ identifier: "BWBR0012031"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-17"
-last_updated: "2007-02-25"
+last_updated: "2007-04-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012031"
 soort: "ministeriele-regeling"
@@ -47,7 +47,7 @@ Uitvoeringsregeling inkomstenbelasting 2001
 
 ##### Artikel 1. Reikwijdte en definitie
 
-1. Deze regeling geeft uitvoering aan de [artikelen 1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=1.5), [1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=1.7), [2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.2), [2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.5), [2.14](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.14), [3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.10), [3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.13), [3.16](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.16), [3.17](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.17), [3.20](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.20), [3.22](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.22), [3.27](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.27), [3.63](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.63), [3.83](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.83), [3.87](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.87), [3.104](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.104), [3.119a](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.119a), [3.138](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.138), [3.152](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.152), [3.154](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.154), [4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.7), [4.14](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.14), [4.51](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.51), [5.14](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.14), [5.15](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.15), [5.17](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.17), [5.18](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.18), [6.8](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.8), [6.14](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.14), [6.15](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.15), [6.17](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.17), [6.23](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.23), [6.26](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.26), [6.31](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.31), [7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=7.2), [8.14](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=8.14), [8.14b](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=8.14b), [9.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=9.2) en [9.4 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=9.4).
+1. Deze regeling geeft uitvoering aan de [artikelen 1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=1.5), [1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=1.7), [2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.2), [2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.5), [2.14](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.14), [3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.10), [3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.13), [3.16](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.16), [3.17](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.17), [3.20](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.20), [3.22](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.22), [3.27](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.27), [3.63](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.63), [3.83](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.83), [3.87](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.87), [3.104](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.104), [3.119a](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.119a), [3.138](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.138), [3.152](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.152), [3.154](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.154), [4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.7), [4.14](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.14), [4.51](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.51), [5.14](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.14), [5.15](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.15), [5.17](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.17), [5.18](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.18), [6.8](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.8), [6.14](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.14), [6.15](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.15), [6.17](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.17), [6.23](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.23), [6.26](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.26), [6.31](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.31), [6.33](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.33), [7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=7.2), [8.14](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=8.14), [8.14b](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=8.14b), [9.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=9.2) en [9.4 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=9.4).
 
 2. Deze regeling verstaat onder:
 
@@ -738,11 +738,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst
 
 Vóór 1 januari 2005 vastgestelde lijfrenten die niet in geldeenheden luiden:
 
-- 1. Op een lijfrente waarvan vóór 1 januari 2005 de hoogte van de termijnen in beleggingseenheden (units) met de verzekeraar is overeengekomen, blijft [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=1&artikel=2a&z=2012-01-01&g=2007-02-25) buiten toepassing en kan de lijfrente-overeenkomst worden tenuitvoergelegd zoals is overeengekomen.
+- 1. Op een lijfrente waarvan vóór 1 januari 2005 de hoogte van de termijnen in beleggingseenheden (units) met de verzekeraar is overeengekomen, blijft [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=1&artikel=2a&z=2012-01-01&g=2007-04-11) buiten toepassing en kan de lijfrente-overeenkomst worden tenuitvoergelegd zoals is overeengekomen.
 
-- 2. Indien ter zake van een lijfrente als bedoeld in het eerste lid op of na 1 januari 2005 met de verzekeraar een wijziging van methode van berekening van de termijnen in units of in euro’s wordt overeengekomen, is met ingang van de datum van die wijziging [art. 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=1&artikel=2a&z=2012-01-01&g=2007-02-25) wel van toepassing.
+- 2. Indien ter zake van een lijfrente als bedoeld in het eerste lid op of na 1 januari 2005 met de verzekeraar een wijziging van methode van berekening van de termijnen in units of in euro’s wordt overeengekomen, is met ingang van de datum van die wijziging [art. 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=1&artikel=2a&z=2012-01-01&g=2007-04-11) wel van toepassing.
 
-- 3. Indien een lijfrente als bedoeld in het eerste lid op of na 1 januari 2005 wordt omgezet in een andere lijfrente, is [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=1&artikel=2a&z=2012-01-01&g=2007-02-25) van toepassing op de laatstgenoemde lijfrente.
+- 3. Indien een lijfrente als bedoeld in het eerste lid op of na 1 januari 2005 wordt omgezet in een andere lijfrente, is [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=1&artikel=2a&z=2012-01-01&g=2007-04-11) van toepassing op de laatstgenoemde lijfrente.
 
 ### Hoofdstuk 11. Overgangs- en slotbepalingen ([hoofdstuk 11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=11))
 
@@ -814,15 +814,59 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst
 
 ##### Artikel 41a. Aan te merken instellingen voor aftrekbare giften
 
-Dit onderdeel is nog niet inwerking getreden
+1. Een kerkelijke, levensbeschouwelijke, charitatieve, culturele, wetenschappelijke of algemeen nut beogende instelling wordt door de inspecteur aangemerkt als een instelling als bedoeld in [artikel 6.33, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.33), indien en zolang:
+
+- a. uit de regelgeving van de instelling en de feitelijke werkzaamheid blijkt dat de instelling geen winstoogmerk heeft;
+
+- b. uit de regelgeving van de instelling en de feitelijke werkzaamheid blijkt dat de instelling het algemeen belang dient;
+
+- c. uit de regelgeving van de instelling en de feiten blijkt dat een natuurlijk persoon noch een rechtspersoon over het vermogen van de instelling kan beschikken als ware het zijn eigen vermogen; de inspecteur kan, zonodig onder door hem te stellen voorwaarden, toestaan dat een steunstichting en de instelling of instellingen welke door deze stichting worden ondersteund, over en weer kunnen beschikken over elkaars vermogen als ware het eigen vermogen;
+
+- d. de instelling niet meer vermogen aanhoudt dan is aangegeven in [artikel 41b](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=6&artikel=41b&z=2012-01-01&g=2007-04-11);
+
+- e. de leden van het orgaan van de instelling dat het beleid bepaalt, ter zake van de door hen voor de instelling verrichte werkzaamheden geen andere beloning ontvangen dan een vergoeding voor gemaakte onkosten en een niet bovenmatig vacatiegeld;
+
+- f. de instelling beschikt over een actueel beleidsplan dat inzicht geeft in de door de instelling te verrichten werkzaamheden, de wijze van werving van gelden, het beheer van het vermogen van de instelling en de besteding daarvan;
+
+- g. de kosten van werving van gelden en de beheerkosten van de instelling in redelijke verhouding staan tot de bestedingen ten behoeve van het doel van de instelling;
+
+- h. uit de regelgeving van de instelling blijkt dat bij opheffing van de instelling een batig liquidatiesaldo moet worden besteed ten behoeve van een instelling als bedoeld in [artikel 6.33, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.33), dan wel op enigerlei andere wijze waarmee het algemeen belang wordt gediend, en
+
+- i. de administratie van de instelling zodanig is ingericht dat daaruit duidelijk blijkt:
+
+- 1°. de aard en omvang van de aan de afzonderlijke leden van het orgaan van de instelling dat het beleid bepaalt, toekomende onkostenvergoedingen en vacatiegelden;
+
+- 2°. de aard en omvang van de kosten die door de instelling zijn gemaakt ten behoeve van de werving van gelden en het beheer van de instelling, alsmede de aard en omvang van de andere uitgaven van de instelling;
+
+- 3°. de aard en omvang van de inkomsten van de instelling;
+
+- 4°. de aard en omvang van het vermogen van de instelling.
+
+2. Het tijdstip van aanmerken van een instelling als een instelling als bedoeld in [artikel 6.33, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.33) kan zijn gelegen voor de dagtekening van de beschikking van dat aanmerken.
+
+3. De inspecteur maakt het aanmerken van een instelling als een instelling als bedoeld in [artikel 6.33, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.33) op een daartoe geschikte wijze publiek bekend. Het niet meer als zodanig aanmerken wordt ook op een daartoe geschikte wijze publiek bekend gemaakt.
 
 ##### Artikel 41b. Plafond vermogen van een aangemerkte instelling
 
-Dit onderdeel is nog niet inwerking getreden
+1. Een instelling als bedoeld in [artikel 6.33, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.33) houdt niet meer vermogen aan dan redelijkerwijs nodig is voor de continuïteit van de voorziene werkzaamheden ten behoeve van de doelstelling van de instelling.
+
+2. Onder vermogen dat nodig is voor de continuïteit van de voorziene werkzaamheden als bedoeld in het eerste lid wordt begrepen:
+
+- 1°. vermogen of bestanddelen daarvan welke krachtens uiterste wilsbeschikking of schenking door de instelling zijn verkregen, al dan niet in reële termen in stand te houden, voor zover die instandhouding voortvloeit uit de aan die uiterste wilsbeschikking of schenking verbonden voorwaarden;
+
+- 2°. vermogensbestanddelen aan te houden voor zover de instandhouding daarvan voortvloeit uit de doelstelling van de instelling;
+
+- 3°. activa aan te houden en vermogen voor de voorziene aanschaf van die activa op te bouwen, voor zover een instelling die activa ten behoeve van de doelstelling van de instelling redelijkerwijs nodig heeft.
+
+3. Een instelling als bedoeld in [artikel 6.33, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.33) vermeldt in haar financiële administratie het doel waarvoor het vermogen wordt aangehouden, alsmede een motivering voor de omvang van dat vermogen.
 
 ##### Artikel 41c. Bij één beschikking meer instellingen aanmerken
 
-Dit onderdeel is nog niet inwerking getreden
+1. Bij een verzoek een categorie instellingen dan wel een groep van met elkaar verbonden instellingen bij één voor bezwaar vatbare beschikking aan te merken als instellingen als bedoeld in [artikel 6.33, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.33) (gemeenschappelijke aanwijzing), wordt in het verzoek aangegeven op welke instellingen het verzoek betrekking heeft.
+
+2. Een instelling waarop een verzoek voor een gemeenschappelijke aanwijzing betrekking heeft doch die niet voldoet aan de voorwaarden voor aanmerking als een instelling als bedoeld in [artikel 6.33, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.33), wordt niet in de gemeenschappelijke aanwijzing opgenomen.
+
+3. Een beschikking inzake een gemeenschappelijk aanwijzing kan ten aanzien van ieder van de aldus aangemerkte instellingen afzonderlijk worden ingetrokken, met ingang van het tijdstip waarop die instelling niet meer voldoet aan de voorwaarden voor aanmerking als een instelling als bedoeld in [artikel 6.33, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.33).
 
 ### Hoofdstuk 10. Overgangsrecht
 
