@@ -4,7 +4,7 @@ identifier: "BWBR0018273"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2009-12-17"
-last_updated: "2006-01-01"
+last_updated: "2007-04-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018273"
 soort: "ministeriele-regeling"
@@ -72,7 +72,7 @@ UTA: algemeen verkeersleidingsgebied (Upper Control Area).
 
 ##### Artikel 2
 
-Als gebied, waar aan het luchtverkeer, met uitzondering van OAT, luchtverkeersdienstverlening wordt gegeven door Brussel ACC volgens de regels behorende bij luchtverkeersdienstverleningsklasse C wordt aangewezen het gebied als aangegeven in de bij deze regeling behorende [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0018273&bijlage=A&z=2006-01-01&g=2006-01-01), en deel uitmakend van het Amsterdam UTA, met een ondergrens van FL 195 en een bovengrens van FL 245, voor zover lateraal begrensd door:
+Als gebied, waar aan het luchtverkeer, met uitzondering van OAT, luchtverkeersdienstverlening wordt gegeven door Brussel ACC volgens de regels behorende bij luchtverkeersdienstverleningsklasse C wordt aangewezen het gebied als aangegeven in de bij deze regeling behorende [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0018273&bijlage=A&z=2006-01-01&g=2007-04-12), en deel uitmakend van het Amsterdam UTA, met een ondergrens van FL 195 en een bovengrens van FL 245, voor zover lateraal begrensd door:
 
 - –. de noordgrens: een lijn tussen de posities: 51°15’21” NB 005°33’24” OL, en 51°14’46” NB 006°04’54” OL,
 
@@ -80,7 +80,7 @@ Als gebied, waar aan het luchtverkeer, met uitzondering van OAT, luchtverkeersdi
 
 ##### Artikel 3
 
-Als gebied, waar aan het luchtverkeer luchtverkeersdienstverlening wordt gegeven door TCC/RP Semmerzake volgens de regels behorende bij luchtverkeersdienstverleningsklasse C wordt aangewezen het gebied als aangegeven in de bij deze regeling behorende [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0018273&bijlage=B&z=2006-01-01&g=2006-01-01), en deel uitmakend van het Amsterdam UTA, met een ondergrens van FL 195 en een bovengrens van FL 245, voor zover lateraal begrensd door:
+Als gebied, waar aan het luchtverkeer luchtverkeersdienstverlening wordt gegeven door TCC/RP Semmerzake volgens de regels behorende bij luchtverkeersdienstverleningsklasse C wordt aangewezen het gebied als aangegeven in de bij deze regeling behorende [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0018273&bijlage=B&z=2006-01-01&g=2007-04-12), en deel uitmakend van het Amsterdam UTA, met een ondergrens van FL 195 en een bovengrens van FL 245, voor zover lateraal begrensd door:
 
 - –. de noordgrens: een lijn tussen de posities: 51°15’21” NB 005°33’24” OL, 51°14’46” NB 006°04’54” OL,
 
@@ -92,7 +92,7 @@ Als gebied, waar aan het luchtverkeer luchtverkeersdienstverlening wordt gegeven
 
 ##### Artikel 4
 
-1. Als gebied, waar aan het luchtverkeer OAT luchtverkeersdienstverlening wordt gegeven door TCC/RP Semmerzake volgens de regels behorende bij luchtverkeersdienstverleningsklasse B vanaf FL 095 tot FL 195 en volgens de regels behorende bij luchtverkeersdienstverleningsklasse C van FL 195 tot FL 660, wordt aangewezen het gebied als aangegeven in de bij deze regeling behorende [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0018273&bijlage=C&z=2006-01-01&g=2006-01-01), en deel uitmakend van de Nieuw-Milligen TMA-D en de Amsterdam UTA, voor zover lateraal begrensd door:
+1. Als gebied, waar aan het luchtverkeer OAT luchtverkeersdienstverlening wordt gegeven door TCC/RP Semmerzake volgens de regels behorende bij luchtverkeersdienstverleningsklasse B vanaf FL 095 tot FL 195 en volgens de regels behorende bij luchtverkeersdienstverleningsklasse C van FL 195 tot FL 660, wordt aangewezen het gebied als aangegeven in de bij deze regeling behorende [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0018273&bijlage=C&z=2006-01-01&g=2007-04-12), en deel uitmakend van de Nieuw-Milligen TMA-D en de Amsterdam UTA, voor zover lateraal begrensd door:
 
 - –. de noordgrens: een lijn tussen de posities: 51°26’37” NB 005°04’54” OL, en 51°16’40” NB 005°27’00” OL,
 
@@ -102,7 +102,7 @@ Als gebied, waar aan het luchtverkeer luchtverkeersdienstverlening wordt gegeven
 
 ##### Artikel 5
 
-Als gebied, waar aan het luchtverkeer, met uitzondering van OAT, luchtverkeersdienstverlening wordt gegeven door Brussel ACC volgens de regels behorende bij luchtverkeersdienstverleningsklasse B wordt aangewezen het gebied als aangegeven in de bij deze regeling behorende [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0018273&bijlage=D&z=2006-01-01&g=2006-01-01), en deel uitmakend van de Maastricht TMA-1 en Maastricht TMA-2 met uitzondering van de in de bij deze regeling behorende [bijlagen H](https://wetten.overheid.nl/jci1.3:c:BWBR0018273&bijlage=H&z=2006-01-01&g=2006-01-01) en [I](https://wetten.overheid.nl/jci1.3:c:BWBR0018273&bijlage=I&z=2006-01-01&g=2006-01-01) aangegeven gebieden Romin Area, Worms North Area en Worms South Area, met een ondergrens vanaf FL 095 en een bovengrens tot FL 195, voor zover lateraal begrensd door:
+Als gebied, waar aan het luchtverkeer, met uitzondering van OAT, luchtverkeersdienstverlening wordt gegeven door Brussel ACC volgens de regels behorende bij luchtverkeersdienstverleningsklasse B wordt aangewezen het gebied als aangegeven in de bij deze regeling behorende [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0018273&bijlage=D&z=2006-01-01&g=2007-04-12), en deel uitmakend van de Maastricht TMA-1 en Maastricht TMA-2 met uitzondering van de in de bij deze regeling behorende [bijlagen H](https://wetten.overheid.nl/jci1.3:c:BWBR0018273&bijlage=H&z=2006-01-01&g=2007-04-12) en [I](https://wetten.overheid.nl/jci1.3:c:BWBR0018273&bijlage=I&z=2006-01-01&g=2007-04-12) aangegeven gebieden Romin Area, Worms North Area en Worms South Area, met een ondergrens vanaf FL 095 en een bovengrens tot FL 195, voor zover lateraal begrensd door:
 
 - –. de noordgrens: een lijn tussen de posities: 51°11’00” NB 005°46’06” OL, 51°11’00” NB 005°58’25” OL, 51°14’55” NB 005°57’08” OL, en 51°14’46” NB 006°04’54” OL,
 
@@ -110,7 +110,7 @@ Als gebied, waar aan het luchtverkeer, met uitzondering van OAT, luchtverkeersdi
 
 ##### Artikel 6
 
-1. Als gebied, waar aan het luchtverkeer, voor zover het gaat om naderend en vertrekkend verkeer naar en van het luchtvaartterrein Kleine Brogel, luchtverkeersdienstverlening wordt gegeven door Kleine Brogel APP volgens de regels behorende bij luchtverkeersdienstverleningsklasse E, wordt aangewezen het gebied weergegeven als Kleine Brogel Vectoring Area (KBVA) in de bij deze regeling behorende [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0018273&bijlage=E&z=2006-01-01&g=2006-01-01) en deel uitmakend van de Nieuw-Milligen TMA-D, met een ondergrens vanaf 457,5 m (1500 ft) AMSL en een bovengrens tot en met 1067,5 m (3500 ft) AMSL, voor zover lateraal begrensd door:
+1. Als gebied, waar aan het luchtverkeer, voor zover het gaat om naderend en vertrekkend verkeer naar en van het luchtvaartterrein Kleine Brogel, luchtverkeersdienstverlening wordt gegeven door Kleine Brogel APP volgens de regels behorende bij luchtverkeersdienstverleningsklasse E, wordt aangewezen het gebied weergegeven als Kleine Brogel Vectoring Area (KBVA) in de bij deze regeling behorende [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0018273&bijlage=E&z=2006-01-01&g=2007-04-12) en deel uitmakend van de Nieuw-Milligen TMA-D, met een ondergrens vanaf 457,5 m (1500 ft) AMSL en een bovengrens tot en met 1067,5 m (3500 ft) AMSL, voor zover lateraal begrensd door:
 
 - –. de noordgrens: een lijn tussen de posities: 51°15’21” NB 005°33’24” OL, en 51°15’04” NB 005°50’00” OL,
 
@@ -122,7 +122,7 @@ Als gebied, waar aan het luchtverkeer, met uitzondering van OAT, luchtverkeersdi
 
 ##### Artikel 7
 
-1. Als gebied, waar aan het luchtverkeer luchtverkeersdienstverlening wordt gegeven door de plaatselijke luchtverkeersleiding van Kleine Brogel volgens de regels behorende bij de luchtverkeersdienstverleningsklasse C, wordt aangewezen het gebied behorende bij de Kleine Brogel CTR, als aangegeven in de bij deze regeling behorende [bijlage F](https://wetten.overheid.nl/jci1.3:c:BWBR0018273&bijlage=F&z=2006-01-01&g=2006-01-01) en deel uitmakend van het vluchtinformatiegebied Amsterdam, met als ondergrens de grond en een bovengrens tot 915 m (3000 ft) AMSL, voor zover lateraal begrensd door:
+1. Als gebied, waar aan het luchtverkeer luchtverkeersdienstverlening wordt gegeven door de plaatselijke luchtverkeersleiding van Kleine Brogel volgens de regels behorende bij de luchtverkeersdienstverleningsklasse C, wordt aangewezen het gebied behorende bij de Kleine Brogel CTR, als aangegeven in de bij deze regeling behorende [bijlage F](https://wetten.overheid.nl/jci1.3:c:BWBR0018273&bijlage=F&z=2006-01-01&g=2007-04-12) en deel uitmakend van het vluchtinformatiegebied Amsterdam, met als ondergrens de grond en een bovengrens tot 915 m (3000 ft) AMSL, voor zover lateraal begrensd door:
 
 - –. de noordgrens: een cirkel van 5 NM rond de positie: 51°14’21” NB 005°36’50” OL,
 
@@ -134,7 +134,7 @@ Als gebied, waar aan het luchtverkeer, met uitzondering van OAT, luchtverkeersdi
 
 ##### Artikel 8
 
-1. Als gebied, waar aan het luchtverkeer luchtverkeersdienstverlening wordt gegeven door de plaatselijke luchtverkeersleiding van Niederrhein volgens de regels behorende bij de luchtverkeersdienstverleningsklasse C, wordt aangewezen het gebied behorend tot de Niederrhein CTR, als aangegeven in de bij deze regeling behorende [bijlage G](https://wetten.overheid.nl/jci1.3:c:BWBR0018273&bijlage=G&z=2006-01-01&g=2006-01-01) en deel uitmakend van het vluchtinformatiegebied Amsterdam, met als ondergrens de grond of het water en een bovengrens tot 915 m (3000 ft) AMSL, voor zover lateraal begrensd door:
+1. Als gebied, waar aan het luchtverkeer luchtverkeersdienstverlening wordt gegeven door de plaatselijke luchtverkeersleiding van Niederrhein volgens de regels behorende bij de luchtverkeersdienstverleningsklasse C, wordt aangewezen het gebied behorend tot de Niederrhein CTR, als aangegeven in de bij deze regeling behorende [bijlage G](https://wetten.overheid.nl/jci1.3:c:BWBR0018273&bijlage=G&z=2006-01-01&g=2007-04-12) en deel uitmakend van het vluchtinformatiegebied Amsterdam, met als ondergrens de grond of het water en een bovengrens tot 915 m (3000 ft) AMSL, voor zover lateraal begrensd door:
 
 - –. de noordgrens: een lijn tussen de posities: 51°39’31” NB 005°55’21” OL, en 51°39’05” NB 006°07’00” OL,
 
@@ -150,7 +150,7 @@ Als gebied, waar aan het luchtverkeer, met uitzondering van OAT, luchtverkeersdi
 
 ##### Artikel 9
 
-Als gebied, waar aan het luchtverkeer, met uitzondering van OAT, luchtverkeersdienstverlening wordt gegeven door Langen ACC vanaf 457,5 m (1500 ft) AMSL tot FL 095 volgens de regels behorende bij luchtverkeersdienstverleningsklasse E, en van FL 095 tot FL 195 volgens de regels behorende bij luchtverkeersdienstverleningsklasse B, wordt aangewezen het gebied weergegeven als Romin Area in de bij deze regeling behorende [bijlage H](https://wetten.overheid.nl/jci1.3:c:BWBR0018273&bijlage=H&z=2006-01-01&g=2006-01-01) en deel uitmakend van Maastricht TMA-1, voor zover lateraal begrensd door:
+Als gebied, waar aan het luchtverkeer, met uitzondering van OAT, luchtverkeersdienstverlening wordt gegeven door Langen ACC vanaf 457,5 m (1500 ft) AMSL tot FL 095 volgens de regels behorende bij luchtverkeersdienstverleningsklasse E, en van FL 095 tot FL 195 volgens de regels behorende bij luchtverkeersdienstverleningsklasse B, wordt aangewezen het gebied weergegeven als Romin Area in de bij deze regeling behorende [bijlage H](https://wetten.overheid.nl/jci1.3:c:BWBR0018273&bijlage=H&z=2006-01-01&g=2007-04-12) en deel uitmakend van Maastricht TMA-1, voor zover lateraal begrensd door:
 
 - –. de noordgrens: een lijn tussen de posities: 51°14’55” NB 005°57’08” OL, en 51°14’46” NB 006°04’54” OL,
 
@@ -158,7 +158,7 @@ Als gebied, waar aan het luchtverkeer, met uitzondering van OAT, luchtverkeersdi
 
 ##### Artikel 10
 
-Als gebied, waar aan het luchtverkeer luchtverkeersdienstverlening wordt gegeven door Langen ACC vanaf 915 m (3000 ft) AMSL tot FL 095 volgens de regels behorende bij luchtverkeersdienstverleningsklasse E, en aan al het luchtverkeer van FL 095 tot FL 195 volgens de regels behorende bij luchtverkeersdienstverleningsklasse B, wordt aangewezen het gebied weergegeven als Worms North Area in de bij deze regeling behorende [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0018273&bijlage=I&z=2006-01-01&g=2006-01-01) en deel uitmakend van Maastricht TMA-1, voor zover lateraal begrensd door:
+Als gebied, waar aan het luchtverkeer luchtverkeersdienstverlening wordt gegeven door Langen ACC vanaf 915 m (3000 ft) AMSL tot FL 095 volgens de regels behorende bij luchtverkeersdienstverleningsklasse E, en aan al het luchtverkeer van FL 095 tot FL 195 volgens de regels behorende bij luchtverkeersdienstverleningsklasse B, wordt aangewezen het gebied weergegeven als Worms North Area in de bij deze regeling behorende [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0018273&bijlage=I&z=2006-01-01&g=2007-04-12) en deel uitmakend van Maastricht TMA-1, voor zover lateraal begrensd door:
 
 - –. de noord- en oostgrens: de grenzen van het vluchtinformatiegebied Amsterdam,
 
@@ -168,7 +168,7 @@ Als gebied, waar aan het luchtverkeer luchtverkeersdienstverlening wordt gegeven
 
 ##### Artikel 11
 
-Als gebied, waar aan het luchtverkeer luchtverkeersdienstverlening wordt gegeven door Langen ACC vanaf 610 m (2000 ft) AMSL tot FL 095 volgens de regels behorende bij luchtverkeersdienstverleningsklasse E, en aan al het luchtverkeer van FL 095 tot FL 195 volgens de regels behorende bij luchtverkeersdienstverleningsklasse B, wordt aangewezen het gebied weergegeven als Worms South Area in de bij deze regeling behorende [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0018273&bijlage=I&z=2006-01-01&g=2006-01-01) en deel uitmakend van Maastricht TMA-2, voor zover lateraal begrensd door:
+Als gebied, waar aan het luchtverkeer luchtverkeersdienstverlening wordt gegeven door Langen ACC vanaf 610 m (2000 ft) AMSL tot FL 095 volgens de regels behorende bij luchtverkeersdienstverleningsklasse E, en aan al het luchtverkeer van FL 095 tot FL 195 volgens de regels behorende bij luchtverkeersdienstverleningsklasse B, wordt aangewezen het gebied weergegeven als Worms South Area in de bij deze regeling behorende [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0018273&bijlage=I&z=2006-01-01&g=2007-04-12) en deel uitmakend van Maastricht TMA-2, voor zover lateraal begrensd door:
 
 - –. de noordgrens: een lijn tussen de posities: 50°54’42” NB 006°03’43” OL, en 50°54’42” NB 006°05’04” OL,
 
@@ -190,7 +190,7 @@ Als gebied, waar aan het luchtverkeer luchtverkeersdienstverlening wordt gegeven
 
 ##### Artikel 13
 
-Als gebied waar aan het luchtverkeer, met uitzondering van OAT, luchtverkeersdienstverlening wordt gegeven door het Londen ACC volgens de regels behorende bij de luchtverkeersdienstverleningsklasse C, wordt aangewezen het gebied weergegeven als Refso A Area in de bij deze regeling behorende [bijlage J](https://wetten.overheid.nl/jci1.3:c:BWBR0018273&bijlage=J&z=2006-01-01&g=2006-01-01), en deel uitmakend van de Amsterdam UTA, met een ondergrens van FL 235 en een bovengrens van FL 660, voor zover lateraal begrensd door:
+Als gebied waar aan het luchtverkeer, met uitzondering van OAT, luchtverkeersdienstverlening wordt gegeven door het Londen ACC volgens de regels behorende bij de luchtverkeersdienstverleningsklasse C, wordt aangewezen het gebied weergegeven als Refso A Area in de bij deze regeling behorende [bijlage J](https://wetten.overheid.nl/jci1.3:c:BWBR0018273&bijlage=J&z=2006-01-01&g=2007-04-12), en deel uitmakend van de Amsterdam UTA, met een ondergrens van FL 235 en een bovengrens van FL 660, voor zover lateraal begrensd door:
 
 - –. de noordgrens: een lijn tussen de posities: 51°57’02” NB 002°21’23” OL, en 51°57’56” NB 003°10’19” OL,
 
@@ -202,7 +202,7 @@ Als gebied waar aan het luchtverkeer, met uitzondering van OAT, luchtverkeersdie
 
 ##### Artikel 14
 
-1. Als gebied waar aan het luchtverkeer, met uitzondering van OAT, luchtverkeersdienstverlening wordt gegeven door het Londen ACC volgens de regels behorende bij luchtverkeersdienstverleningsklasse C, wordt aangewezen het gebied weergegeven als Refso B Area in de bij deze regeling behorende [bijlage K](https://wetten.overheid.nl/jci1.3:c:BWBR0018273&bijlage=K&z=2006-01-01&g=2006-01-01), en deel uitmakend van de Amsterdam UTA, met een ondergrens van FL 215 en een bovengrens van FL 235, voor zover lateraal begrensd door:
+1. Als gebied waar aan het luchtverkeer, met uitzondering van OAT, luchtverkeersdienstverlening wordt gegeven door het Londen ACC volgens de regels behorende bij luchtverkeersdienstverleningsklasse C, wordt aangewezen het gebied weergegeven als Refso B Area in de bij deze regeling behorende [bijlage K](https://wetten.overheid.nl/jci1.3:c:BWBR0018273&bijlage=K&z=2006-01-01&g=2007-04-12), en deel uitmakend van de Amsterdam UTA, met een ondergrens van FL 215 en een bovengrens van FL 235, voor zover lateraal begrensd door:
 
 - –. de noordgrens: een lijn tussen de posities: 51º 57’ 02” NB 002º 21’ 23” OL, en 51º 57’ 25” NB 002º 40’ 01” OL,
 
@@ -222,7 +222,7 @@ Vervallen
 
 ##### Artikel 16
 
-Als gebied waar aan het luchtverkeer, met uitzondering van OAT, luchtverkeersdienstverlening wordt gegeven door het Londen ACC volgens de regels behorende bij luchtverkeersdienstverleningsklasse C, wordt aangewezen het gebied weergegeven als Saski B Area in de bij deze regeling behorende [bijlage M](https://wetten.overheid.nl/jci1.3:c:BWBR0018273&bijlage=M&z=2006-01-01&g=2006-01-01), en deel uitmakend van de Amsterdam UTA, met een ondergrens van FL 215 en een bovengrens van FL 660, voor zover lateraal begrensd door:
+Als gebied waar aan het luchtverkeer, met uitzondering van OAT, luchtverkeersdienstverlening wordt gegeven door het Londen ACC volgens de regels behorende bij luchtverkeersdienstverleningsklasse C, wordt aangewezen het gebied weergegeven als Saski B Area in de bij deze regeling behorende [bijlage M](https://wetten.overheid.nl/jci1.3:c:BWBR0018273&bijlage=M&z=2006-01-01&g=2007-04-12), en deel uitmakend van de Amsterdam UTA, met een ondergrens van FL 215 en een bovengrens van FL 660, voor zover lateraal begrensd door:
 
 - –. de noordgrens: een lijn tussen de posities: 51°42’45” NB 002°10’01” OL, en 51°38’13” NB 002°30’00” OL,
 
@@ -234,7 +234,7 @@ Als gebied waar aan het luchtverkeer, met uitzondering van OAT, luchtverkeersdie
 
 ##### Artikel 17
 
-Als gebied waar aan het luchtverkeer, met uitzondering van OAT boven FL 195, luchtverkeersdienstverlening wordt gegeven door het Londen TCC volgens de regels behorende bij luchtverkeersdienstverleningsklasse A tussen FL 055 en FL 195 en volgens de regels behorende bij luchtverkeersdienstverleningsklasse C tussen FL 195 en FL 215, wordt aangewezen het gebied weergegeven als Saski C Area in de bij deze regeling behorende [bijlage N](https://wetten.overheid.nl/jci1.3:c:BWBR0018273&bijlage=N&z=2006-01-01&g=2006-01-01), en deel uitmakend van de Amsterdam UTA, met een ondergrens van FL 055 en een bovengrens van FL 215, voor zover lateraal begrensd door:
+Als gebied waar aan het luchtverkeer, met uitzondering van OAT boven FL 195, luchtverkeersdienstverlening wordt gegeven door het Londen TCC volgens de regels behorende bij luchtverkeersdienstverleningsklasse A tussen FL 055 en FL 195 en volgens de regels behorende bij luchtverkeersdienstverleningsklasse C tussen FL 195 en FL 215, wordt aangewezen het gebied weergegeven als Saski C Area in de bij deze regeling behorende [bijlage N](https://wetten.overheid.nl/jci1.3:c:BWBR0018273&bijlage=N&z=2006-01-01&g=2007-04-12), en deel uitmakend van de Amsterdam UTA, met een ondergrens van FL 055 en een bovengrens van FL 215, voor zover lateraal begrensd door:
 
 - –. de noordgrens: een lijn tussen de posities: 51°42’45” NB 002°10’01” OL, en 51°38’13” NB 002°30’00” OL,
 
@@ -246,7 +246,7 @@ Als gebied waar aan het luchtverkeer, met uitzondering van OAT boven FL 195, luc
 
 ##### Artikel 18
 
-Als gebied, waar aan het luchtverkeer luchtverkeersdienstverlening wordt gegeven door Brussel ACC volgens de regels behorende bij luchtverkeersdienstverleningsklasse B wordt aangewezen het gebied weergegeven als L179 Area in de bij deze regeling behorende [bijlage O](https://wetten.overheid.nl/jci1.3:c:BWBR0018273&bijlage=O&z=2006-01-01&g=2006-01-01), en deel uitmakend van de Nieuw-Milligen TMA D, met een ondergrens van FL 095 en een bovengrens tot FL 195, voor zover lateraal begrensd door:
+Als gebied, waar aan het luchtverkeer luchtverkeersdienstverlening wordt gegeven door Brussel ACC volgens de regels behorende bij luchtverkeersdienstverleningsklasse B wordt aangewezen het gebied weergegeven als L179 Area in de bij deze regeling behorende [bijlage O](https://wetten.overheid.nl/jci1.3:c:BWBR0018273&bijlage=O&z=2006-01-01&g=2007-04-12), en deel uitmakend van de Nieuw-Milligen TMA D, met een ondergrens van FL 095 en een bovengrens tot FL 195, voor zover lateraal begrensd door:
 
 - –. de noordgrens: een lijn tussen de posities: 51°15’21” NB 005°33’24” OL, en 51°14’55” NB 005°57’08” OL,
 
@@ -258,7 +258,7 @@ Als gebied, waar aan het luchtverkeer luchtverkeersdienstverlening wordt gegeven
 
 ##### Artikel 19
 
-1. Als gebied, waar aan het luchtverkeer luchtverkeersdienstverlening wordt gegeven door Langen ACC volgens de regels behorende bij luchtverkeersdienstverleningsklasse B wordt aangewezen de luchtverkeersweg L179 tussen de meldingspunten Dibir en Romin, in de bij deze regeling behorende [bijlage P](https://wetten.overheid.nl/jci1.3:c:BWBR0018273&bijlage=P&z=2006-01-01&g=2006-01-01), en deel uitmakend van het vluchtinformatiegebied Amsterdam.
+1. Als gebied, waar aan het luchtverkeer luchtverkeersdienstverlening wordt gegeven door Langen ACC volgens de regels behorende bij luchtverkeersdienstverleningsklasse B wordt aangewezen de luchtverkeersweg L179 tussen de meldingspunten Dibir en Romin, in de bij deze regeling behorende [bijlage P](https://wetten.overheid.nl/jci1.3:c:BWBR0018273&bijlage=P&z=2006-01-01&g=2007-04-12), en deel uitmakend van het vluchtinformatiegebied Amsterdam.
 
 2. Langen ACC geeft luchtverkeersdienstverlening, indien een verzoek daartoe is gedaan bij het MilATCC Nieuw-Milligen.
 
@@ -278,27 +278,27 @@ Deze regeling treedt in werking met ingang van 12 mei 2005.
 
 Deze regeling wordt aangehaald als: Regeling aanwijzing gebieden voor luchtverkeersdienstverlening door buitenlandse instanties 2005.
 
-## Bijlage A. behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0018273&artikel=2&z=2006-01-01&g=2006-01-01) van de Regeling aanwijzing gebieden voor luchtverkeersdienstverlening door buitenlandse instanties
+## Bijlage A. behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0018273&artikel=2&z=2006-01-01&g=2007-04-12) van de Regeling aanwijzing gebieden voor luchtverkeersdienstverlening door buitenlandse instanties
 
-## Bijlage B. behorende bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0018273&artikel=3&z=2006-01-01&g=2006-01-01) van de Regeling aanwijzing gebieden voor luchtverkeersdienstverlening door buitenlandse instanties
+## Bijlage B. behorende bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0018273&artikel=3&z=2006-01-01&g=2007-04-12) van de Regeling aanwijzing gebieden voor luchtverkeersdienstverlening door buitenlandse instanties
 
-## Bijlage C. behorende bij [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018273&artikel=4&z=2006-01-01&g=2006-01-01) van de Regeling aanwijzing gebieden voor luchtverkeersdienstverlening door buitenlandse instanties
+## Bijlage C. behorende bij [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018273&artikel=4&z=2006-01-01&g=2007-04-12) van de Regeling aanwijzing gebieden voor luchtverkeersdienstverlening door buitenlandse instanties
 
-## Bijlage D. behorende bij [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0018273&artikel=5&z=2006-01-01&g=2006-01-01) van de Regeling aanwijzing gebieden voor luchtverkeersdienstverlening door buitenlandse instanties
+## Bijlage D. behorende bij [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0018273&artikel=5&z=2006-01-01&g=2007-04-12) van de Regeling aanwijzing gebieden voor luchtverkeersdienstverlening door buitenlandse instanties
 
-## Bijlage E. , behorende bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0018273&artikel=6&z=2006-01-01&g=2006-01-01) van de Regeling aanwijzing gebieden voor luchtverkeersdienstverlening door buitenlandse instanties
+## Bijlage E. , behorende bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0018273&artikel=6&z=2006-01-01&g=2007-04-12) van de Regeling aanwijzing gebieden voor luchtverkeersdienstverlening door buitenlandse instanties
 
-## Bijlage F. behorende bij [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0018273&artikel=7&z=2006-01-01&g=2006-01-01) van de Regeling aanwijzing gebieden voor luchtverkeersdienstverlening door buitenlandse instanties
+## Bijlage F. behorende bij [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0018273&artikel=7&z=2006-01-01&g=2007-04-12) van de Regeling aanwijzing gebieden voor luchtverkeersdienstverlening door buitenlandse instanties
 
-## Bijlage G. behorende bij [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0018273&artikel=8&z=2006-01-01&g=2006-01-01) van de Regeling aanwijzing gebieden voor luchtverkeersdienstverlening door buitenlandse instanties
+## Bijlage G. behorende bij [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0018273&artikel=8&z=2006-01-01&g=2007-04-12) van de Regeling aanwijzing gebieden voor luchtverkeersdienstverlening door buitenlandse instanties
 
-## Bijlage H. , behorende bij [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0018273&artikel=9&z=2006-01-01&g=2006-01-01) van de Regeling aanwijzing gebieden voor luchtverkeersdienstverlening door buitenlandse instanties
+## Bijlage H. , behorende bij [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0018273&artikel=9&z=2006-01-01&g=2007-04-12) van de Regeling aanwijzing gebieden voor luchtverkeersdienstverlening door buitenlandse instanties
 
-## Bijlage I. , behorende bij [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0018273&artikel=10&z=2006-01-01&g=2006-01-01) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0018273&artikel=11&z=2006-01-01&g=2006-01-01) van de Regeling aanwijzing gebieden voor luchtverkeersdienstverlening door buitenlandse instanties
+## Bijlage I. , behorende bij [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0018273&artikel=10&z=2006-01-01&g=2007-04-12) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0018273&artikel=11&z=2006-01-01&g=2007-04-12) van de Regeling aanwijzing gebieden voor luchtverkeersdienstverlening door buitenlandse instanties
 
-## Bijlage J. , behorende bij [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0018273&artikel=13&z=2006-01-01&g=2006-01-01) van de Regeling aanwijzing gebieden voor luchtverkeersdienstverlening door buitenlandse instanties
+## Bijlage J. , behorende bij [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0018273&artikel=13&z=2006-01-01&g=2007-04-12) van de Regeling aanwijzing gebieden voor luchtverkeersdienstverlening door buitenlandse instanties
 
-## Bijlage K. , behorende bij [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0018273&artikel=14&z=2006-01-01&g=2006-01-01) van de Regeling aanwijzing gebieden voor luchtverkeersdienstverlening door buitenlandse instanties
+## Bijlage K. , behorende bij [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0018273&artikel=14&z=2006-01-01&g=2007-04-12) van de Regeling aanwijzing gebieden voor luchtverkeersdienstverlening door buitenlandse instanties
 
 Refso B area
 
@@ -306,12 +306,12 @@ Refso B area
 
 Vervallen
 
-## Bijlage M. behorende bij [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0018273&artikel=16&z=2006-01-01&g=2006-01-01) van de Regeling aanwijzing gebieden voor luchtverkeersdienstverlening door buitenlandse instanties
+## Bijlage M. behorende bij [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0018273&artikel=16&z=2006-01-01&g=2007-04-12) van de Regeling aanwijzing gebieden voor luchtverkeersdienstverlening door buitenlandse instanties
 
-## Bijlage N. behorende bij [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0018273&artikel=17&z=2006-01-01&g=2006-01-01) van de Regeling aanwijzing gebieden voor luchtverkeersdienstverlening door buitenlandse instanties
+## Bijlage N. behorende bij [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0018273&artikel=17&z=2006-01-01&g=2007-04-12) van de Regeling aanwijzing gebieden voor luchtverkeersdienstverlening door buitenlandse instanties
 
-## Bijlage O. behorende bij [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0018273&artikel=18&z=2006-01-01&g=2006-01-01) van de Regeling aanwijzing gebieden voor luchtverkeersdienstverlening door buitenlandse instanties
+## Bijlage O. behorende bij [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0018273&artikel=18&z=2006-01-01&g=2007-04-12) van de Regeling aanwijzing gebieden voor luchtverkeersdienstverlening door buitenlandse instanties
 
-## Bijlage P. behorende bij [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0018273&artikel=19&z=2006-01-01&g=2006-01-01) van de Regeling aanwijzing gebieden voor luchtverkeersdienstverlening door buitenlandse instanties
+## Bijlage P. behorende bij [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0018273&artikel=19&z=2006-01-01&g=2007-04-12) van de Regeling aanwijzing gebieden voor luchtverkeersdienstverlening door buitenlandse instanties
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
