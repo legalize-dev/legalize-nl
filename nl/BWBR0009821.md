@@ -4,7 +4,7 @@ identifier: "BWBR0009821"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2002-05-08"
+last_updated: "2007-04-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009821"
 soort: "ministeriele-regeling"
@@ -59,7 +59,7 @@ Deze regeling is niet van toepassing op:
 
 1. De houder van PCB’s of gebruikte PCB’s verwijdert deze vóór 1 januari 2000.
 
-2. De houder van PCB’s-bevattende apparaten, reinigt deze overeenkomstig [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0009821&paragraaf=2&artikel=2.2&z=2002-05-08&g=2002-05-08) of verwijdert deze vóór 1 januari 2000.
+2. De houder van PCB’s-bevattende apparaten, reinigt deze overeenkomstig [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0009821&paragraaf=2&artikel=2.2&z=2007-04-13&g=2007-04-13) of verwijdert deze vóór 1 januari 2000.
 
 ##### Artikel 2.2
 
@@ -69,7 +69,7 @@ Deze regeling is niet van toepassing op:
 
 - b. de vervangende vloeistof, die geen PCB’s bevat, minder risico’s voor het milieu oplevert.
 
-2. Na reiniging van een transformator wordt op die transformator de aanduiding aangebracht als aangegeven in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0009821&bijlage=I&z=2002-05-08&g=2002-05-08).
+2. Na reiniging van een transformator wordt op die transformator de aanduiding aangebracht als aangegeven in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0009821&bijlage=I&z=2007-04-13&g=2007-04-13).
 
 #### § 3. Scheiden van PCB's of bijvullen met PCB's
 
@@ -87,11 +87,11 @@ Deze regeling is niet van toepassing op:
 
 2. De houder van een apparaat als bedoeld in het eerste lid, stelt de inspecteur in kennis van reinigings- of verwijderingshandelingen ten aanzien van het PCB’s-bevattende apparaat.
 
-3. Elk apparaat dat overeenkomstig het eerste lid is aangemeld, alsmede de deur van de ruimte waarin het apparaat zich bevindt, is voorzien van de aanduiding, bedoeld in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0009821&bijlage=II&z=2002-05-08&g=2002-05-08); deze aanduiding wordt verwijderd zodra het apparaat is verwijderd en wordt vervangen door de aanduiding als aangegeven in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0009821&bijlage=I&z=2002-05-08&g=2002-05-08) zodra het apparaat is gereinigd.
+3. Elk apparaat dat overeenkomstig het eerste lid is aangemeld, alsmede de deur van de ruimte waarin het apparaat zich bevindt, is voorzien van de aanduiding, bedoeld in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0009821&bijlage=II&z=2007-04-13&g=2007-04-13); deze aanduiding wordt verwijderd zodra het apparaat is verwijderd en wordt vervangen door de aanduiding als aangegeven in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0009821&bijlage=I&z=2007-04-13&g=2007-04-13) zodra het apparaat is gereinigd.
 
-4. Indien het een apparaat betreft, waarvan mag worden aangenomen dat de daarin aanwezige vloeistoffen tussen 50 en 0,5 mg/kg PCB’s bevatten, bepaald volgens EN 12766-1: uitgave 2000, mag, in afwijking van het eerste lid, het apparaat worden aangemeld zonder het verstrekken van de gegevens, bedoeld in het zesde lid, onder 3° en 4°; het apparaat is in dat geval voorzien van de aanduiding, genoemd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0009821&bijlage=III&z=2002-05-08&g=2002-05-08).
+4. Indien het een apparaat betreft, waarvan mag worden aangenomen dat de daarin aanwezige vloeistoffen tussen 50 en 0,5 mg/kg PCB’s bevatten, bepaald volgens EN 12766-1: uitgave 2000, mag, in afwijking van het eerste lid, het apparaat worden aangemeld zonder het verstrekken van de gegevens, bedoeld in het zesde lid, onder 3° en 4°; het apparaat is in dat geval voorzien van de aanduiding, genoemd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0009821&bijlage=III&z=2007-04-13&g=2007-04-13).
 
-5. Op de reiniging van een apparaat als bedoeld in het vierde lid, is [artikel 2.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009821&paragraaf=2&artikel=2.2&z=2002-05-08&g=2002-05-08), van overeenkomstige toepassing.
+5. Op de reiniging van een apparaat als bedoeld in het vierde lid, is [artikel 2.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009821&paragraaf=2&artikel=2.2&z=2007-04-13&g=2007-04-13), van overeenkomstige toepassing.
 
 6. De melding, bedoeld in het eerste en tweede lid, bevat in elk geval de volgende gegevens:
 
@@ -121,7 +121,7 @@ Degene die bedrijfsmatig PCB’s verwijdert of laat verwijderen, houdt een voor 
 
 ##### Artikel 6.1
 
-Uiterlijk 12 maanden na inwerkingtreding van deze regeling is uitvoering gegeven aan [artikel 4.1, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009821&paragraaf=4&artikel=4.1&z=2002-05-08&g=2002-05-08).
+Uiterlijk 12 maanden na inwerkingtreding van deze regeling is uitvoering gegeven aan [artikel 4.1, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009821&paragraaf=4&artikel=4.1&z=2007-04-13&g=2007-04-13).
 
 ##### Artikel 6.2
 
