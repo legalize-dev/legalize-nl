@@ -4,7 +4,7 @@ identifier: "BWBV0001323"
 country: "nl"
 rank: "verdrag"
 publication_date: "2010-01-01"
-last_updated: "2007-03-29"
+last_updated: "2007-04-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0001323"
 soort: "verdrag"
@@ -65,17 +65,13 @@ Hebben overeenstemming bereikt omtrent de volgende bepalingen:
 
 ##### Artikel 2. Doelstelling
 
-1. Europol heeft ten doel, in het kader van de samenwerking tussen de Lid-Staten overeenkomstig artikel K.1, punt 9, van het Verdrag betreffende de Europese Unie, door de in deze Overeenkomst genoemde maatregelen het optreden van en de samenwerking tussen de bevoegde instanties van de Lid-Staten met betrekking tot het voorkomen en bestrijden van terrorisme, de illegale handel in verdovende middelen en andere ernstige vormen van internationale criminaliteit, doeltreffender te maken voor zover er concrete aanwijzingen zijn voor het bestaan van een criminele structuur of organisatie en twee of meer Lid-Staten betrokken zijn bij de genoemde vormen van criminaliteit op een wijze die, gelet op de omvang, de ernst en de gevolgen van de strafbare feiten, een gemeenschappelijk optreden van de Lid-Staten noodzakelijk maakt.
+1. Europol heeft ten doel, in het kader van de politiële samenwerking tussen de lidstaten overeenkomstig het Verdrag betreffende de Europese Unie, door de in deze overeenkomst genoemde maatregelen het optreden van en de samenwerking tussen de bevoegde instanties van de lidstaten met betrekking tot het voorkomen en bestrijden van ernstige internationale criminaliteit doeltreffender te maken voorzover er concrete aanwijzingen of redelijke vermoedens zijn omtrent het bestaan van een criminele structuur of organisatie en er twee of meer lidstaten betrokken zijn op een wijze die, gelet op de omvang, de ernst en de gevolgen van de strafbare feiten, een gemeenschappelijk optreden van de lidstaten noodzakelijk maakt. In deze overeenkomst worden als ernstige internationale criminaliteit beschouwd strafbare feiten die zijn of wellicht zullen worden gepleegd in het kader van terroristische activiteiten die gericht zijn tegen het leven, de lichamelijke integriteit en de persoonlijke vrijheid of eigendom, illegale handel in verdovende middelen, illegale witwasgedragingen, illegale handel in nucleaire en radioactieve stoffen, illegale immigratie, mensenhandel, handel in gestolen voertuigen en de in de bijlage opgesomde criminaliteitsvormen of specifieke uitingsvormen daarvan.
 
-2. Om het in lid 1 genoemde doel geleidelijk te verwezenlijken houdt Europol zich vooreerst bezig met de voorkoming en bestrijding van illegale handel in verdovende middelen, illegale witwasgedragingen, handel in nucleaire en radioactieve stoffen, alsmede van illegale immigratie, mensenhandel en handel in gestolen voertuigen.
+2. Op voorstel van de raad van bestuur legt de Raad met eenparigheid van stemmen de prioriteiten vast die Europol dient te volgen bij de bestrijding en voorkoming van de vormen van ernstige internationale criminaliteit die onder zijn mandaat vallen.
 
-Tevens behandelt Europol, uiterlijk twee jaar na de inwerkingtreding van deze Overeenkomst, strafbare feiten die zijn gepleegd of wellicht zullen worden gepleegd in het kader van terroristische activiteiten die gericht zijn tegen het leven, de lichamelijke integriteit en de persoonlijke vrijheid, alsmede tegen goederen. De Raad kan, volgens de procedure van Titel VI van het Verdrag betreffende de Europese Unie, met eenparigheid van stemmen besluiten om Europol vóór het verstrijken van de termijn met de behandeling van deze terroristische activiteiten te belasten.
+3. De bevoegdheid van Europol met betrekking tot een vorm van criminaliteit of met betrekking tot specifieke aspecten van een vorm van criminaliteit omvat daarmee samenhangende strafbare feiten. Zij omvat echter geen gronddelicten van illegale witwasgedragingen ten aanzien van welke vormen van criminaliteit Europol krachtens lid 1 geen bevoegdheden heeft.
 
-De Raad kan volgens de procedure van Titel VI van het Verdrag betreffende de Europese Unie met eenparigheid van stemmen Europol opdragen zich ook te belasten met andere in de bijlage bij deze Overeenkomst vermelde vormen van criminaliteit of specifieke uitingsvormen daarvan. Alvorens een besluit te nemen, geeft de Raad aan de Raad van Bestuur opdracht zijn besluit voor te bereiden en met name de gevolgen daarvan voor de begroting en het personeel van Europol uiteen te zetten.
-
-3. De bevoegdheid van Europol met betrekking tot een vorm van criminaliteit of met betrekking tot specifieke aspecten van een vorm van criminaliteit omvat de daarmee samenhangende strafbare feiten. Zij omvat echter geen gronddelicten van illegale witwasgedragingen ten aanzien van welke vormen van criminaliteit Europol krachtens lid 2 geen bevoegdheid heeft.
-
-Als samenhangend worden beschouwd en als zodanig overeenkomstig de nadere bepalingen van de artikelen 8 en 10 in aanmerking genomen:
+Als samenhangend worden beschouwd en als zodanig overeenkomstig de nadere bepalingen van de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=II&artikel=8&z=2007-04-18&g=2007-04-18) en [10](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=III&artikel=10&z=2007-04-18&g=2007-04-18) in aanmerking genomen:
 
 - –. strafbare feiten die zijn gepleegd om zich de middelen te verschaffen om daden te plegen die onder de werkingssfeer van Europol vallen;
 
@@ -83,29 +79,29 @@ Als samenhangend worden beschouwd en als zodanig overeenkomstig de nadere bepali
 
 - –. strafbare feiten die zijn gepleegd om ervoor te zorgen dat daden die onder de werkingssfeer van Europol vallen, ongestraft blijven.
 
-4. Bevoegde autoriteiten in de zin van deze Overeenkomst zijn alle in de Lid-Staten bestaande overheidsinstanties die krachtens het nationaal recht bevoegd zijn op het gebied van het voorkomen en bestrijden van strafbare feiten.
-
-5. Onder illegale handel in verdovende middelen als bedoeld in de leden 1 en 2 wordt verstaan de in artikel 3, lid 1, van het Verdrag van de Verenigde Naties van 20 december 1988 tegen de sluikhandel in verdovende middelen en psychotrope stoffen en de bepalingen ter wijziging of aanvulling van dit Verdrag genoemde strafbare feiten.
+4. Bevoegde autoriteiten in de zin van deze overeenkomst zijn alle in de lidstaten bestaande overheidsinstanties die krachtens het nationale recht bevoegd zijn op het gebied van het voorkomen en bestrijden van strafbare feiten.
 
 ##### Artikel 3. Taken
 
-1. Europol heeft binnen het kader van zijn in artikel 2, lid 1, omschreven doelstelling primair de volgende taken:
+1. Europol heeft binnen het kader van zijn in [artikel 2, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=I&artikel=2&z=2007-04-18&g=2007-04-18), omschreven doelstelling primair de volgende taken:
 
 - 1). de uitwisseling van informatie tussen de Lid-Staten te vergemakkelijken;
 
 - 2). informatie en inlichtingen te verzamelen, te compileren en te analyseren;
 
-- 3). de bevoegde autoriteiten van de Lid-Staten, via de nationale eenheden als omschreven in artikel 4, onverwijld te voorzien van informatie die voor hen van belang is, en hen onmiddellijk informatie te geven over de verbanden tussen strafbare feiten die aan het licht zijn gekomen;
+- 3). de bevoegde autoriteiten van de Lid-Staten, via de nationale eenheden als omschreven in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=I&artikel=4&z=2007-04-18&g=2007-04-18), onverwijld te voorzien van informatie die voor hen van belang is, en hen onmiddellijk informatie te geven over de verbanden tussen strafbare feiten die aan het licht zijn gekomen;
 
 - 4). het opsporingsonderzoek in de Lid-Staten te ondersteunen door de nationale eenheden alle relevante informatie te verstrekken;
 
-- 5). geautomatiseerde gegevensbestanden bij te houden waarin gegevens als bedoeld in de artikelen 8, 10 en 11 zijn opgeslagen;
+- 5). geautomatiseerde gegevensbestanden bij te houden waarin gegevens als bedoeld in de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=II&artikel=8&z=2007-04-18&g=2007-04-18), [10](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=III&artikel=10&z=2007-04-18&g=2007-04-18) en [11](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=III&artikel=11&z=2007-04-18&g=2007-04-18) zijn opgeslagen;
 
-- 6). ter ondersteuning deel uit te maken van gemeenschappelijke onderzoeksteams overeenkomstig artikel 3 bis;
+- 6). ter ondersteuning deel uit te maken van gemeenschappelijke onderzoeksteams overeenkomstig
 
-- 7). de bevoegde autoriteiten van de betrokken lidstaten te verzoeken in specifieke gevallen onderzoek uit te voeren of te coördineren overeenkomstig artikel 3 ter.
+- [artikel 3 bis](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=I&artikel=3_bis&z=2007-04-18&g=2007-04-18);
 
-2. Ten einde via de nationale eenheden de samenwerking tussen en de doeltreffendheid van de bevoegde autoriteiten van de Lid-Staten in het kader van de in artikel 2, lid 1, omschreven doelstelling te verbeteren, vervult Europol voorts nog de volgende taken:
+- 7). de bevoegde autoriteiten van de betrokken lidstaten te verzoeken in specifieke gevallen onderzoek uit te voeren of te coördineren overeenkomstig [artikel 3 ter](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=I&artikel=3_ter&z=2007-04-18&g=2007-04-18).
+
+2. Ten einde via de nationale eenheden de samenwerking tussen en de doeltreffendheid van de bevoegde autoriteiten van de Lid-Staten in het kader van de in [artikel 2, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=I&artikel=2&z=2007-04-18&g=2007-04-18), omschreven doelstelling te verbeteren, vervult Europol voorts nog de volgende taken:
 
 - 1). de vakkennis die in het kader van de onderzoeksactiviteiten van de bevoegde autoriteiten van de Lid-Staten wordt gebruikt, te vergroten en ten behoeve van opsporingsonderzoekers van advies te dienen;
 
@@ -113,21 +109,25 @@ Als samenhangend worden beschouwd en als zodanig overeenkomstig de nadere bepali
 
 - 3). algemene verslagen over de verrichte werkzaamheden op te stellen.
 
-3. Europol kan voorts in het kader van zijn in artikel 2, lid 1, omschreven doelstelling, afhankelijk van de personele en budgettaire mogelijkheden en binnen de door de Raad van Bestuur bepaalde grenzen, de Lid-Staten met raad en onderzoek bijstaan op de volgende gebieden:
+3. Europol kan voorts in het kader van zijn in [artikel 2, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=I&artikel=2&z=2007-04-18&g=2007-04-18), omschreven doelstelling, afhankelijk van de personele en budgettaire mogelijkheden en binnen de door de raad van bestuur bepaalde grenzen, de lidstaten met raad en onderzoek bijstaan op de volgende gebieden:
 
 - 1). opleiding van de leden van hun bevoegde autoriteiten,
 
-- 2). organisatie en uitrusting van deze autoriteiten,
+- 2). organisatie en uitrusting van deze autoriteiten door het leveren van technische ondersteuning tussen de lidstaten te vergemakkelijken,
 
 - 3). methoden van misdaadpreventie,
 
 - 4). methoden van criminalistiek en forensische technologie en methoden van opsporingsonderzoek.
 
+4. Onverminderd het Verdrag van Genève van 20 april 1929 ter bestrijding van de valsemunterij en het bijbehorende protocol, fungeert Europol in zijn contacten met derde staten en organisaties tevens als aanspreekpunt van de Europese Unie voor de bestrijding van vervalsing van de euro.
+
 ##### Artikel 4. Nationale eenheden
 
 1. Door elke Lid-Staat wordt een nationale eenheid opgericht of aangewezen, die belast is met de in dit artikel opgesomde taken.
 
-2. De nationale eenheid vormt het enige contact tussen Europol en de bevoegde nationale autoriteiten. De betrekkingen tussen de nationale eenheid en de bevoegde autoriteiten worden beheerst door het nationale recht, en met name de grondwettelijke bepalingen ervan.
+2. De nationale eenheid vormt het enige contact tussen Europol en de bevoegde nationale autoriteiten. De lidstaten kunnen evenwel rechtstreeks contact tussen hun aangewezen bevoegde autoriteiten en Europol toestaan, zulks onder de door de betrokken lidstaat bepaalde voorwaarden, daaronder begrepen voorafgaande betrokkenheid van de nationale eenheid.
+
+Tegelijkertijd ontvangt de nationale eenheid van Europol alle informatie die tijdens het rechtstreeks contact tussen Europol en de aangewezen bevoegde autoriteiten wordt uitgewisseld. De betrekkingen tussen de nationale eenheid en de bevoegde autoriteiten worden beheerst door het nationale recht, met name de grondwettelijke bepalingen.
 
 3. De Lid-Staten treffen alle nodige maatregelen om ervoor te zorgen dat hun nationale eenheid haar taken kan uitvoeren en in het bijzonder om de toegang van deze eenheid tot de betrokken nationale gegevens te verzekeren.
 
@@ -147,7 +147,7 @@ Als samenhangend worden beschouwd en als zodanig overeenkomstig de nadere bepali
 
 - 7). zorg te dragen voor de rechtmatigheid van elke uitwisseling van informatie met Europol.
 
-5. Onverminderd de uitoefening van de in artikel K.2, lid 2, van het Verdrag betreffende de Europese Unie genoemde verantwoordelijkheden van de Lid-Staten is een nationale eenheid in afzonderlijke gevallen niet verplicht de in lid 4, punten 1, 2 en 6, alsmede de in de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=II&artikel=8&z=2007-03-29&g=2007-03-29) en [10](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=III&artikel=10&z=2007-03-29&g=2007-03-29) bedoelde informatie en inlichtingen te verstrekken indien:
+5. Onverminderd de uitoefening van de verantwoordelijkheden van de lidstaten met betrekking tot de handhaving van de openbare orde en de interne veiligheid is een nationale eenheid in afzonderlijke gevallen niet verplicht de in lid 4, punten 1, 2 en 6, alsmede de in de artikelen 8 en 10 bedoelde informatie en inlichtingen te verstrekken indien:
 
 - 1). wezenlijke nationale veiligheidsbelangen daardoor worden geschaad, of
 
@@ -157,7 +157,7 @@ Als samenhangend worden beschouwd en als zodanig overeenkomstig de nadere bepali
 
 6. De kosten die de nationale eenheid maakt voor communicatie met Europol zijn nationale kosten en worden, met uitzondering van de verbindingskosten, niet aan Europol doorberekend.
 
-7. Indien nodig komen de hoofden en de nationale eenheden bijeen om Europol van advies te dienen.
+7. De hoofden van de nationale eenheden komen regelmatig bijeen om Europol uit eigen beweging of op verzoek van advies te dienen.
 
 ##### Artikel 5. Verbindingsofficieren
 
@@ -165,7 +165,7 @@ Als samenhangend worden beschouwd en als zodanig overeenkomstig de nadere bepali
 
 2. De verbindingsofficieren worden door hun nationale eenheid gemachtigd om, overeenkomstig het nationale recht van de Lid-Staat en met inachtneming van de op Europol van toepassing zijnde voorschriften, binnen Europol de belangen van de nationale eenheid te vertegenwoordigen.
 
-3. Onverminderd [artikel 4, leden 4 en 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=I&artikel=4&z=2007-03-29&g=2007-03-29), ondersteunen de verbindingsofficieren in het kader van de in [artikel 2, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=I&artikel=2&z=2007-03-29&g=2007-03-29), omschreven doelstelling de uitwisseling van informatie tussen hun nationale eenheid en Europol, met name door:
+3. Onverminderd [artikel 4, leden 4 en 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=I&artikel=4&z=2007-04-18&g=2007-04-18), ondersteunen de verbindingsofficieren in het kader van de in [artikel 2, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=I&artikel=2&z=2007-04-18&g=2007-04-18), omschreven doelstelling de uitwisseling van informatie tussen hun nationale eenheid en Europol, met name door:
 
 - 1). informatie van hun nationale eenheid aan Europol door te geven,
 
@@ -173,15 +173,15 @@ Als samenhangend worden beschouwd en als zodanig overeenkomstig de nadere bepali
 
 - 3). met de Europol-ambtenaren samen te werken door middel van het doorgeven van informatie en het geven van advies bij de analyse van de informatie die de afvaardigende Lid-Staat aangaat.
 
-4. De verbindingsofficieren ondersteunen overeenkomstig hun nationale recht in het kader van de in [artikel 2, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=I&artikel=2&z=2007-03-29&g=2007-03-29), omschreven doelstelling voorts de uitwisseling van informatie, afkomstig van de nationale eenheden, alsmede de coördinatie van de daaruit voortvloeiende maatregelen.
+4. De verbindingsofficieren ondersteunen overeenkomstig hun nationale recht in het kader van de in [artikel 2, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=I&artikel=2&z=2007-04-18&g=2007-04-18), omschreven doelstelling voorts de uitwisseling van informatie, afkomstig van de nationale eenheden, alsmede de coördinatie van de daaruit voortvloeiende maatregelen.
 
 5. Voor zover dit voor de taakvervulling ingevolge lid 3 nodig is, hebben de verbindingsofficieren toegang tot de diverse bestanden, overeenkomstig de specifieke bepalingen in de desbetreffende artikelen.
 
-6. [Artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=IV&artikel=25&z=2007-03-29&g=2007-03-29) is van overeenkomstige toepassing op de werkzaamheden van de verbindingsofficieren.
+6. [Artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=IV&artikel=25&z=2007-04-18&g=2007-04-18) is van overeenkomstige toepassing op de werkzaamheden van de verbindingsofficieren.
 
 7. Onverminderd de andere bepalingen van deze Overeenkomst worden de rechten en verplichtingen van de verbindingsofficieren jegens Europol met eenparigheid van stemmen door de Raad van Bestuur vastgesteld.
 
-8. De verbindingsofficieren genieten overeenkomstig [artikel 41, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=VI&artikel=41&z=2007-03-29&g=2007-03-29), de voorrechten en immuniteiten die nodig zijn voor hun taakvervulling.
+8. De verbindingsofficieren genieten overeenkomstig [artikel 41, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=VI&artikel=41&z=2007-04-18&g=2007-04-18), de voorrechten en immuniteiten die nodig zijn voor hun taakvervulling.
 
 9. Europol stelt de Lid-Staten voor de werkzaamheden van hun verbindingsofficieren de nodige werkruimten in het Europol-gebouw vrij van kosten ter beschikking. Alle overige kosten die verband houden met het afvaardigen van de verbindingsofficieren zijn voor rekening van de afvaardigende Lid-Staat. Hetzelfde geldt voor de kosten voor de uitrusting van de verbindingsofficieren, voor zover de Raad van Bestuur in speciale gevallen niet met eenparigheid van stemmen andersluidende regelingen aanbeveelt in het kader van de opstelling van de Europol-begroting.
 
@@ -189,11 +189,11 @@ Als samenhangend worden beschouwd en als zodanig overeenkomstig de nadere bepali
 
 1. Europol beheert geautomatiseerde gegevensbestanden, die uit de volgende bestanddelen bestaan:
 
-- 1). het in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=II&artikel=7&z=2007-03-29&g=2007-03-29) bedoelde informatiesysteem met een beperkte, nauwkeurig vastgelegde inhoud waarmee snel kan worden nagegaan welke gegevens bij de Lid-Staten en Europol voorhanden zijn,
+- 1). het in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=II&artikel=7&z=2007-04-18&g=2007-04-18) bedoelde informatiesysteem met een beperkte, nauwkeurig vastgelegde inhoud waarmee snel kan worden nagegaan welke gegevens bij de Lid-Staten en Europol voorhanden zijn,
 
-- 2). de in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=III&artikel=10&z=2007-03-29&g=2007-03-29) bedoelde werkbestanden met uitgebreide informatie, die zijn aangelegd voor een variabele tijd met het oog op analyse en
+- 2). de in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=III&artikel=10&z=2007-04-18&g=2007-04-18) bedoelde werkbestanden met uitgebreide informatie, die zijn aangelegd voor een variabele tijd met het oog op analyse en
 
-- 3). een indexsysteem dat uitsluitend elementen uit de onder 2) bedoelde bestanden bevat, overeenkomstig het bepaalde in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=III&artikel=11&z=2007-03-29&g=2007-03-29).
+- 3). een indexsysteem dat uitsluitend elementen uit de onder 2) bedoelde bestanden bevat, overeenkomstig het bepaalde in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=III&artikel=11&z=2007-04-18&g=2007-04-18).
 
 2. De door Europol beheerde geautomatiseerde gegevensbestanden mogen onder geen beding worden verbonden met andere systemen voor geautomatiseerde gegevensverwerking, met uitzondering van het systeem voor geautomatiseerde gegevensverwerking van de nationale eenheden.
 
@@ -203,23 +203,23 @@ Als samenhangend worden beschouwd en als zodanig overeenkomstig de nadere bepali
 
 1. Om zijn taken te vervullen, wordt door Europol een geautomatiseerd informatiesysteem aangelegd en beheerd, waarin de Lid-Staten, vertegenwoordigd door de nationale eenheden en de verbindingsofficieren, met inachtneming van hun nationale procedures, rechtstreeks gegevens invoeren, en Europol de door derde Staten en instanties verstrekte gegevens alsmede de uit analyses voortvloeiende gegevens invoert. Het informatiesysteem kan rechtstreeks worden geraadpleegd door de nationale eenheden, de verbindingsofficieren, de directeur, de adjunct-directeuren en de daartoe gemachtigde personeelsleden van Europol.
 
-De directe toegang van de nationale eenheden tot het informatiesysteem wordt voor de in [artikel 8, lid 1, punt 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=II&artikel=8&z=2007-03-29&g=2007-03-29), vermelde categorie van personen beperkt tot de in [artikel 8, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=II&artikel=8&z=2007-03-29&g=2007-03-29), bedoelde persoonsgegevens. Op verzoek krijgen de nationale eenheden via de verbindingsofficieren toegang tot alle gegevens indien dat voor een bepaald onderzoek noodzakelijk is.
+De directe toegang van de nationale eenheden tot het informatiesysteem wordt voor de in [artikel 8, lid 1, punt 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=II&artikel=8&z=2007-04-18&g=2007-04-18), vermelde categorie van personen beperkt tot de in [artikel 8, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=II&artikel=8&z=2007-04-18&g=2007-04-18), bedoelde persoonsgegevens. Op verzoek krijgen de nationale eenheden via de verbindingsofficieren toegang tot alle gegevens indien dat voor een bepaald onderzoek noodzakelijk is.
 
 2. Europol
 
 - 1). heeft tot taak de naleving van de bepalingen inzake samenwerking en het beheer van het informatiesysteem te verzekeren, en
 
-- 2). is verantwoordelijk voor de goede werking van het informatiesysteem in technisch en operationeel opzicht. Europol treft met name alle nodige maatregelen om te garanderen dat de in de [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=IV&artikel=21&z=2007-03-29&g=2007-03-29) en [25](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=IV&artikel=25&z=2007-03-29&g=2007-03-29) genoemde maatregelen met betrekking tot het informatiesysteem in overeenstemming met de regels worden uitgevoerd.
+- 2). is verantwoordelijk voor de goede werking van het informatiesysteem in technisch en operationeel opzicht. Europol treft met name alle nodige maatregelen om te garanderen dat de in de [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=IV&artikel=21&z=2007-04-18&g=2007-04-18) en [25](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=IV&artikel=25&z=2007-04-18&g=2007-04-18) genoemde maatregelen met betrekking tot het informatiesysteem in overeenstemming met de regels worden uitgevoerd.
 
-3. In de Lid-Staten is de nationale eenheid verantwoordelijk voor de communicatie met het informatiesysteem. De eenheid is met name bevoegd met betrekking tot de veiligheidsmaatregelen als bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=IV&artikel=25&z=2007-03-29&g=2007-03-29) ten aanzien van de op het grondgebied van de betrokken Lid-Staat gebruikte gegevensverwerkingsapparatuur, met betrekking tot de controle uit hoofde van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=IV&artikel=21&z=2007-03-29&g=2007-03-29) en – voor zover dit op grond van de wettelijke en bestuursrechtelijke bepalingen en procedures van deze Lid-Staat noodzakelijk is – anderszins met betrekking tot de goede uitvoering van deze Overeenkomst.
+3. In de Lid-Staten is de nationale eenheid verantwoordelijk voor de communicatie met het informatiesysteem. De eenheid is met name bevoegd met betrekking tot de veiligheidsmaatregelen als bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=IV&artikel=25&z=2007-04-18&g=2007-04-18) ten aanzien van de op het grondgebied van de betrokken Lid-Staat gebruikte gegevensverwerkingsapparatuur, met betrekking tot de controle uit hoofde van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=IV&artikel=21&z=2007-04-18&g=2007-04-18) en – voor zover dit op grond van de wettelijke en bestuursrechtelijke bepalingen en procedures van deze Lid-Staat noodzakelijk is – anderszins met betrekking tot de goede uitvoering van deze Overeenkomst.
 
 ##### Artikel 8. Inhoud van het informatiesysteem
 
-1. In het informatiesysteem mogen uitsluitend worden opgeslagen, gewijzigd en gebruikt de voor de taakvervulling van Europol benodigde gegevens, met uitzondering van de gegevens betreffende samenhangende strafbare feiten overeenkomstig [artikel 2, lid 3, tweede alinea](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=I&artikel=2&z=2007-03-29&g=2007-03-29), met betrekking tot:
+1. In het informatiesysteem mogen uitsluitend worden opgeslagen, gewijzigd en gebruikt de voor de taakvervulling van Europol benodigde gegevens, met uitzondering van de gegevens betreffende samenhangende strafbare feiten overeenkomstig [artikel 2, lid 3, tweede alinea](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=I&artikel=2&z=2007-04-18&g=2007-04-18), met betrekking tot:
 
-- 1). personen die, gelet op het nationale recht van de betrokken Lid-Staat, verdacht worden van het plegen van of deelnemen aan een strafbaar feit ten aanzien waarvan Europol ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=I&artikel=2&z=2007-03-29&g=2007-03-29) bevoegd is, of die veroordeeld zijn voor een dergelijk strafbaar feit,
+- 1). personen die, gelet op het nationale recht van de betrokken Lid-Staat, verdacht worden van het plegen van of deelnemen aan een strafbaar feit ten aanzien waarvan Europol ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=I&artikel=2&z=2007-04-18&g=2007-04-18) bevoegd is, of die veroordeeld zijn voor een dergelijk strafbaar feit,
 
-- 2). personen ten aanzien van wie bepaalde ernstige feiten gelet op het nationale recht het vermoeden rechtvaardigen dat zij een strafbaar feit zullen begaan ten aanzien waarvan Europol ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=I&artikel=2&z=2007-03-29&g=2007-03-29) bevoegd is.
+- 2). personen ten aanzien van wie bepaalde ernstige feiten gelet op het nationale recht het vermoeden rechtvaardigen dat zij een strafbaar feit zullen begaan ten aanzien waarvan Europol ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=I&artikel=2&z=2007-04-18&g=2007-04-18) bevoegd is.
 
 2. De gegevens over de in lid 1 bedoelde personen mogen slechts betrekking hebben op:
 
@@ -243,31 +243,35 @@ De directe toegang van de nationale eenheden tot het informatiesysteem wordt voo
 
 - 4). de verdenking deel uit te maken van een misdaadorganisatie,
 
-- 5). veroordelingen, voor zover deze betrekking hebben op strafbare feiten ten aanzien waarvan Europol ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=I&artikel=2&z=2007-03-29&g=2007-03-29) bevoegd is.
+- 5). veroordelingen, voor zover deze betrekking hebben op strafbare feiten ten aanzien waarvan Europol ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=I&artikel=2&z=2007-04-18&g=2007-04-18) bevoegd is.
 
 Deze gegevens mogen ook worden ingevoerd wanneer er nog geen verband met een bepaalde persoon wordt gelegd. Indien Europol de gegevens zelf invoert, voegt het aan het dossiernummer een extra aantekening toe om aan te geven of de gegevens door derden zijn verstrekt dan wel het resultaat zijn van een eigen analyse.
 
 4. De door de nationale eenheden en door Europol verkregen aanvullende informatie over de in lid 1 bedoelde personen kan op verzoek worden verstrekt aan elke nationale eenheid en aan Europol. Wat de nationale eenheden betreft, geschiedt dit met inachtneming van hun nationale recht.
 
-Indien deze aanvullende informatie betrekking heeft op een of meer samenhangende strafbare feiten in de zin van [artikel 2, lid 3, tweede alinea](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=I&artikel=2&z=2007-03-29&g=2007-03-29), worden de in het informatiesysteem opgeslagen gegevens voorzien van een aantekening om het bestaan van samenhangende strafbare feiten te signaleren, opdat de nationale eenheden en Europol de informatie over de daarmee samenhangende strafbare feiten kunnen uitwisselen.
+Indien deze aanvullende informatie betrekking heeft op een of meer samenhangende strafbare feiten in de zin van [artikel 2, lid 3, tweede alinea](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=I&artikel=2&z=2007-04-18&g=2007-04-18), worden de in het informatiesysteem opgeslagen gegevens voorzien van een aantekening om het bestaan van samenhangende strafbare feiten te signaleren, opdat de nationale eenheden en Europol de informatie over de daarmee samenhangende strafbare feiten kunnen uitwisselen.
 
 5. Wanneer een procedure tegen de betrokkene definitief wordt beëindigd of wanneer de betrokkene wordt vrijgesproken, dienen alle gegevens die op deze beslissing betrekking hadden, te worden verwijderd.
 
 ##### Artikel 9. Recht van toegang tot het informatiesysteem
 
-1. Alleen de nationale eenheden, de verbindingsofficieren, de directeur, de adjunct-directeuren en de daartoe gemachtigde personeelsleden van Europol hebben het recht om rechtstreeks gegevens in het informatiesysteem in te voeren en daaruit op te vragen. Het opvragen van gegevens is toegestaan voor zover dit noodzakelijk is voor de vervulling van een bepaalde taak en vindt plaats in overeenstemming met de wettelijke en bestuursrechtelijke bepalingen en procedures van de opvragende eenheid, voor zover deze Overeenkomst geen stringentere bepalingen bevat.
+1. De nationale eenheden, de verbindingsofficieren, de directeur, de adjunct-directeuren en de daartoe gemachtigde personeelsleden van Europol hebben het recht om rechtstreeks gegevens in het informatiesysteem in te voeren en daaruit op te vragen. Het opvragen van gegevens is toegestaan voor zover dit noodzakelijk is voor de vervulling van een bepaalde taak en vindt plaats in overeenstemming met de wettelijke en bestuursrechtelijke bepalingen en procedures van de opvragende eenheid, voor zover deze Overeenkomst geen stringentere bepalingen bevat.
 
-2. Alleen de eenheid die de gegevens heeft ingevoerd, is bevoegd deze te wijzigen, te verbeteren of te verwijderen. Indien een eenheid aanwijzingen heeft dat de in artikel 8, lid 2, bedoelde gegevens onjuist zijn of indien zij deze gegevens wil aanvullen, deelt zij dit onverwijld mee aan de invoerende eenheid, die de plicht heeft om deze mededeling onmiddellijk te toetsen en om de gegevens indien nodig onmiddellijk te wijzigen, aan te vullen, te verbeteren of te verwijderen. Indien in artikel 8, lid 3, bedoelde gegevens over personen zijn opgeslagen, kan elke eenheid nadere gegevens als bedoeld in artikel 8, lid 3, bij wijze van aanvulling invoeren. Indien deze gegevens elkaar duidelijk tegenspreken, plegen de betrokken eenheden overleg. Indien een eenheid voornemens is de door haar ingevoerde persoonsgegevens als bedoeld in artikel 8, lid 2, volledig te verwijderen en indien er door andere eenheden met betrekking tot deze persoon gegevens als bedoeld in artikel 8, lid 3, zijn ingevoerd, gaan de wettelijke aansprakelijkheid voor de gegevensbescherming als bedoeld in artikel 15, lid 1, en het recht om gegevens te wijzigen, aan te vullen, te verbeteren en te verwijderen als bedoeld in artikel 8, lid 2, over op de eenheid die als eerstvolgende gegevens over deze persoon als bedoeld in artikel 8, lid 3, heeft ingevoerd. De eenheid die gegevens wil verwijderen, stelt de eenheid die de wettelijke aansprakelijkheid voor de gegevensbescherming overneemt, daarvan in kennis.
+2. Alleen de eenheid die de gegevens heeft ingevoerd, is bevoegd deze te wijzigen, te verbeteren of te verwijderen. Indien een eenheid aanwijzingen heeft dat de in [artikel 8, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=II&artikel=8&z=2007-04-18&g=2007-04-18), bedoelde gegevens onjuist zijn of indien zij deze gegevens wil aanvullen, deelt zij dit onverwijld mee aan de invoerende eenheid, die de plicht heeft om deze mededeling onmiddellijk te toetsen en om de gegevens indien nodig onmiddellijk te wijzigen, aan te vullen, te verbeteren of te verwijderen. Indien in [artikel 8, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=II&artikel=8&z=2007-04-18&g=2007-04-18), bedoelde gegevens over personen zijn opgeslagen, kan elke eenheid nadere gegevens als bedoeld in [artikel 8, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=II&artikel=8&z=2007-04-18&g=2007-04-18), bij wijze van aanvulling invoeren. Indien deze gegevens elkaar duidelijk tegenspreken, plegen de betrokken eenheden overleg. Indien een eenheid voornemens is de door haar ingevoerde persoonsgegevens als bedoeld in [artikel 8, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=II&artikel=8&z=2007-04-18&g=2007-04-18), volledig te verwijderen en indien er door andere eenheden met betrekking tot deze persoon gegevens als bedoeld in [artikel 8, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=II&artikel=8&z=2007-04-18&g=2007-04-18), zijn ingevoerd, gaan de wettelijke aansprakelijkheid voor de gegevensbescherming als bedoeld in [artikel 15, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=IV&artikel=15&z=2007-04-18&g=2007-04-18), en het recht om gegevens te wijzigen, aan te vullen, te verbeteren en te verwijderen als bedoeld in [artikel 8, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=II&artikel=8&z=2007-04-18&g=2007-04-18), over op de eenheid die als eerstvolgende gegevens over deze persoon als bedoeld in [artikel 8, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=II&artikel=8&z=2007-04-18&g=2007-04-18), heeft ingevoerd. De eenheid die gegevens wil verwijderen, stelt de eenheid die de wettelijke aansprakelijkheid voor de gegevensbescherming overneemt, daarvan in kennis.
 
 3. De verantwoordelijkheid voor de rechtmatigheid van het opvragen uit en het invoeren en wijzigen van gegevens in het informatiesysteem ligt bij de eenheid die de gegevens opvraagt, invoert of wijzigt; er moet kunnen worden vastgesteld welke eenheid deze handeling verricht. De uitwisseling van informatie tussen de nationale eenheden en de bevoegde autoriteiten van de Lid-Staten vindt plaats overeenkomstig het nationale recht.
+
+4. Naast de in lid 1 bedoelde eenheden en personen kunnen ook de daartoe door de lidstaten aangewezen bevoegde autoriteiten het informatiesysteem van Europol raadplegen. Het resultaat van de raadpleging zal evenwel alleen aangeven of de verzochte gegevens voorhanden zijn in het informatiesysteem van Europol. Nadere informatie kan dan worden verkregen door tussenkomst van de nationale Europol-eenheid.
+
+Informatie over de aangewezen bevoegde autoriteiten, met inbegrip van latere wijzigingen, wordt toegezonden aan het secretariaat-generaal van de Raad, dat de informatie bekendmaakt in het Publicatieblad van de Europese Unie.
 
 ## Titel III. Werkbestanden voor analyse
 
 ##### Artikel 10. Verzameling, verwerking en gebruik van persoonsgegevens
 
-1. Voor zover dit noodzakelijk is voor de verwezenlijking van de in artikel 2, lid 1, omschreven doelstelling, kan Europol, naast niet-persoonsgebonden gegevens, in andere bestanden gegevens opslaan, wijzigen en gebruiken in verband met strafbare feiten ten aanzien waarvan Europol ingevolge artikel 2, lid 2, bevoegd is, met inbegrip van de gegevens betreffende de in artikel 2, lid 3, tweede alinea, bedoelde samenhangende strafbare feiten ten behoeve van specifieke analysewerkzaamheden, welke gegevens betrekking hebben op:
+1. Voorzover dit noodzakelijk is voor de verwezenlijking van de in [artikel 2, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=I&artikel=2&z=2007-04-18&g=2007-04-18), omschreven doelstelling, kan Europol, naast niet-persoonsgebonden gegevens, in andere bestanden gegevens opslaan, wijzigen en gebruiken in verband met strafbare feiten ten aanzien waarvan Europol bevoegd is, met inbegrip van gegevens betreffende de in [artikel 2, lid 3, tweede alinea](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=I&artikel=2&z=2007-04-18&g=2007-04-18), bedoelde samenhangende strafbare feiten ten behoeve van specifieke analysewerkzaamheden, welke gegevens betrekking hebben op:
 
-- 1). personen als bedoeld in artikel 8, lid 1;
+- 1). personen als bedoeld in [artikel 8, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=II&artikel=8&z=2007-04-18&g=2007-04-18);
 
 - 2). personen die wellicht als getuige moeten optreden bij onderzoeken naar de betrokken strafbare feiten of bij daaropvolgende strafvervolgingen;
 
@@ -279,19 +283,21 @@ Indien deze aanvullende informatie betrekking heeft op een of meer samenhangende
 
 Het verzamelen, de opslag en de verwerking van de gegevens als bedoeld in artikel 6, eerste zin, van het Verdrag van de Raad van Europa van 28 januari 1981 tot bescherming van personen met betrekking tot de geautomatiseerde verwerking van persoonsgegevens is slechts toegestaan voor zover dit absoluut noodzakelijk is voor het met het betrokken bestand beoogde doel en voor zover deze gegevens een aanvulling vormen op andere in hetzelfde bestand opgeslagen persoonsgegevens. Het is verboden om in strijd met bovengenoemde voorwaarden een specifieke categorie personen te selecteren uitsluitend aan de hand van de gegevens als bedoeld in artikel 6, eerste zin, van het Verdrag van de Raad van Europa van 28 januari 1981.
 
-De Raad stelt met eenparigheid van stemmen volgens de procedure van titel VI van het Verdrag betreffende de Europese Unie de door de Raad van Bestuur voorbereide regels voor het gebruik van de bestanden vast waarin met name de aanwijzingen met betrekking tot de in dit artikel bedoelde persoonsgegevens, alsmede de voorschriften inzake de beveiliging van deze gegevens en de interne controle op het gebruik ervan, nader worden omschreven.
+De Raad stelt met eenparigheid van stemmen de door de Raad van Bestuur voorbereide regels voor het gebruik van de bestanden vast waarin met name de aanwijzingen met betrekking tot de in dit artikel bedoelde persoonsgegevens, alsmede de voorschriften inzake de beveiliging van deze gegevens en de interne controle op het gebruik ervan, nader worden omschreven.
 
-2. Deze bestanden worden aangelegd voor analysedoeleinden omschreven als het compileren, verwerken of gebruiken van gegevens ter ondersteuning van het strafrechtelijk onderzoek. Voor elk analyseproject wordt een analysegroep ingesteld waarin de volgende deelnemers overeenkomstig de in artikel 3, lid 1 en 2, en in artikel 5, lid 3, omschreven taken en opdrachten nauw met elkaar samenwerken:
+2. Deze bestanden worden aangelegd voor analysedoeleinden omschreven als het compileren, verwerken of gebruiken van gegevens ter ondersteuning van het strafrechtelijk onderzoek. Voor elk analyseproject wordt een analysegroep ingesteld waarin de volgende deelnemers overeenkomstig de in [artikel 3, lid 1 en 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=I&artikel=3&z=2007-04-18&g=2007-04-18), en in [artikel 5, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=I&artikel=5&z=2007-04-18&g=2007-04-18), omschreven taken en opdrachten nauw met elkaar samenwerken:
 
-- 1). de door de directie van Europol aangewezen analisten en andere personeelsleden van Europol; uitsluitend de analisten zijn gemachtigd in het betrokken bestand gegevens in te voeren en op te zoeken;
+- 1). de door de directie van Europol aangewezen analisten en andere personeelsleden van Europol;
 
 - 2). de verbindingsofficieren of de deskundigen van de Lid-Staten die de informatie hebben verstrekt of die als partij bij de analyse betrokken zijn in de zin van lid 6.
 
-3. Op verzoek van Europol of uit eigen beweging verstrekken de nationale eenheden, onverminderd artikel 4, lid 5, alle informatie aan Europol die noodzakelijk is voor de vervulling van zijn taken als omschreven in artikel 3, lid 1, onder 2). De Lid-Staten verstrekken deze gegevens slechts wanneer zij ook volgens het desbetreffende nationale recht verwerkt mogen worden met het oog op het voorkomen, bestrijden of analyseren van strafbare feiten.
+Uitsluitend de analisten zijn gemachtigd gegevens in te voeren in het betrokken bestand en deze te wijzigen; alle deelnemers zijn bevoegd gegevens op te zoeken in het bestand.
+
+3. Op verzoek van Europol of uit eigen beweging verstrekken de nationale eenheden, onverminderd [artikel 4, lid 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=I&artikel=4&z=2007-04-18&g=2007-04-18), alle informatie aan Europol die noodzakelijk is voor de vervulling van zijn taken als omschreven in [artikel 3, lid 1, onder 2)](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=I&artikel=3&z=2007-04-18&g=2007-04-18). De Lid-Staten verstrekken deze gegevens slechts wanneer zij ook volgens het desbetreffende nationale recht verwerkt mogen worden met het oog op het voorkomen, bestrijden of analyseren van strafbare feiten.
 
 Afhankelijk van de mate van gevoeligheid kunnen de van de nationale eenheden afkomstige gegevens rechtstreeks en met alle passende middelen, al dan niet via de betrokken verbindingsofficieren, aan de analysegroepen worden verstrekt.
 
-4. Indien het gerechtvaardigd blijkt dat Europol, behalve de in lid 3 bedoelde informatie, nadere inlichtingen nodig heeft voor zijn taakvervulling ingevolge artikel 3, lid 1, onder 2), kan Europol:
+4. Indien het gerechtvaardigd blijkt dat Europol, behalve de in lid 3 bedoelde informatie, nadere inlichtingen nodig heeft voor zijn taakvervulling ingevolge [artikel 3, lid 1, onder 2)](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=I&artikel=3&z=2007-04-18&g=2007-04-18), kan Europol:
 
 - 1). de Europese Gemeenschappen en de publiekrechtelijke instellingen die op grond van de Gemeenschapsverdragen zijn opgericht,
 
@@ -307,9 +313,9 @@ Afhankelijk van de mate van gevoeligheid kunnen de van de nationale eenheden afk
 
 - 7). de Internationale Criminele Politie-Organisatie,
 
-verzoeken om deze informatie met alle passende middelen te verstrekken. Europol kan eveneens, onder dezelfde voorwaarden en met dezelfde middelen, gegevens ontvangen die deze instanties uit eigen beweging verstrekken. De Raad stelt hiervoor volgens de procedure van Titel VI van het Verdrag betreffende de Europese Unie, na advies van de Raad van Bestuur, met eenparigheid van stemmen de door Europol op dit gebied te volgen regels vast.
+verzoeken om deze informatie met alle passende middelen te verstrekken. Europol kan eveneens, onder dezelfde voorwaarden en met dezelfde middelen, gegevens ontvangen die deze instanties uit eigen beweging verstrekken. De Raad stelt hiervoor, na advies van de Raad van Bestuur, met eenparigheid van stemmen de door Europol op dit gebied te volgen regels vast.
 
-5. Indien Europol in het kader van andere overeenkomsten het recht heeft verkregen om andere informatiesystemen geautomatiseerd te raadplegen, kan Europol op deze wijze persoonsgegevens opzoeken indien dat noodzakelijk is voor zijn taakvervulling ingevolge artikel 3, lid 1, onder 2).
+5. Indien Europol in het kader van rechtsinstrumenten van de Europese Unie of internationale rechtsinstrumenten het recht heeft verkregen om andere informatiesystemen geautomatiseerd te raadplegen, kan Europol op deze wijze persoonsgegevens opzoeken indien dat noodzakelijk is voor zijn taakvervulling ingevolge [artikel 3, lid 1, punt 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=I&artikel=3&z=2007-04-18&g=2007-04-18). Voor het gebruik van die gegevens door Europol gelden de toepasselijke bepalingen van de betreffende rechtsinstrumenten van de Europese Unie of van de betreffende internationale rechtsinstrumenten.
 
 6. Indien het om een algemene strategische analyse gaat, delen alle Lid-Staten via verbindingsofficieren of deskundigen volledig in het resultaat van de werkzaamheden, in het bijzonder door toezending van de door Europol opgestelde verslagen.
 
@@ -331,13 +337,25 @@ Indien de analysegroep daartegen bezwaar maakt, wordt deze inschakeling van rech
 
 - 3). indien nog steeds geen overeenstemming is bereikt, beleggen de vertegenwoordigers van de betrokken partijen in de Raad van Bestuur van Europol binnen acht dagen een vergadering. Indien de Lid-Staat bij zijn standpunt blijft dat hij ervan kennis moet nemen, wordt met algemene stemmen besloten of hij als volwaardig deelnemer bij de analyse ingeschakeld wordt.
 
-8. De Lid-Staat die informatie verstrekt aan Europol, kan als enige oordelen over de mate van en de verandering in de gevoeligheid van die informatie. Over elke verstrekking en elk operationeel gebruik van analysegegevens vindt tussen de deelnemers aan de analyse overleg plaats. Elke Lid-Staat die als deelnemer wordt ingeschakeld bij een analyse die al gaande is, mag de gegevens met name niet verspreiden of gebruiken zonder voorafgaande toestemming van de Lid-Staten die reeds daarbij betrokken waren.
+8. De Lid-Staat die informatie verstrekt aan Europol, kan als enige oordelen over de mate van en de verandering in de gevoeligheid van die informatie. Over elke verspreiding en elk operationeel gebruik van verstrekte gegevens wordt een besluit genomen door de lidstaat die de gegevens aan Europol heeft verstrekt. Indien niet kan worden vastgesteld welke lidstaat de gegevens aan Europol heeft verstrekt, wordt een besluit over de verspreiding en het operationeel gebruik van de gegevens door de deelnemers aan de analyse genomen. Een lidstaat of deskundige die als deelnemer wordt ingeschakeld bij een analyse die al gaande is, mag de gegevens met name niet verspreiden of gebruiken zonder voorafgaande toestemming van de lidstaten die reeds daarbij betrokken waren.
+
+9. Europol kan deskundigen van derde staten of instanties in de zin van lid 4 verzoeken deel te nemen aan de werkzaamheden van een analysegroep, indien:
+
+- 1. er tussen Europol en de derde staat of instantie een overeenkomst is gesloten die passende bepalingen bevat voor de uitwisseling van informatie, met inbegrip van de doorgifte van persoonsgegevens, en voor de vertrouwelijkheid van de uitgewisselde informatie;
+
+- 2. de deelname van de deskundigen van de derde staat of instantie in het belang van de lidstaten is;
+
+- 3. de derde staat of instantie rechtstreeks belang heeft bij de analysewerkzaamheden, en
+
+- 4. alle deelnemers in de zin van lid 2 instemmen met de medewerking van de deskundigen van een derde staat of instantie aan de werkzaamheden van de analysegroep.
+
+Voor de medewerking van deskundigen van derde staten of instanties aan de werkzaamheden van een analysegroep wordt een regeling gesloten tussen Europol en de derde staat of instantie. De regels waaraan dergelijke regelingen moeten voldoen, worden met een meerderheid van tweederde van de stemmen vastgesteld door de raad van bestuur. De regelingen tussen Europol en derde staten of instanties worden toegezonden aan het in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=IV&artikel=24&z=2007-04-18&g=2007-04-18) bedoelde gemeenschappelijk controleorgaan dat de opmerkingen die het noodzakelijk acht onder de aandacht kan brengen van de raad van bestuur.
 
 ##### Artikel 11. Indexsysteem
 
-1. Europol legt van de overeenkomstig [artikel 10, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=III&artikel=10&z=2007-03-29&g=2007-03-29), in bestanden opgeslagen gegevens een indexsysteem aan.
+1. Europol legt van de overeenkomstig [artikel 10, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=III&artikel=10&z=2007-04-18&g=2007-04-18), in bestanden opgeslagen gegevens een indexsysteem aan.
 
-2. De directeur, de adjunct-directeuren en de gemachtigde personeelsleden van Europol alsmede de verbindingsofficieren zijn bevoegd het indexsysteem te raadplegen. Uit het indexsysteem moet de raadplegende verbindingsofficier, aan de hand van de geraadpleegde gegevens, duidelijk kunnen opmaken of in de in [artikel 6, lid 1, punt 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=I&artikel=6&z=2007-03-29&g=2007-03-29), en [artikel 10, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=III&artikel=10&z=2007-03-29&g=2007-03-29), bedoelde bestanden gegevens zijn opgeslagen die van belang zijn voor de Lid-Staat die hem heeft afgevaardigd.
+2. De directeur, de adjunct-directeuren en de gemachtigde personeelsleden van Europol alsmede de verbindingsofficieren zijn bevoegd het indexsysteem te raadplegen. Uit het indexsysteem moet de raadplegende verbindingsofficier, aan de hand van de geraadpleegde gegevens, duidelijk kunnen opmaken of in de in [artikel 6, lid 1, punt 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=I&artikel=6&z=2007-04-18&g=2007-04-18), en [artikel 10, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=III&artikel=10&z=2007-04-18&g=2007-04-18), bedoelde bestanden gegevens zijn opgeslagen die van belang zijn voor de Lid-Staat die hem heeft afgevaardigd.
 
 De toegang tot het indexsysteem is zodanig geregeld dat de verbindingsofficieren kunnen vaststellen of bepaalde gegevens al dan niet opgeslagen zijn; er mogen geen verbanden gelegd of conclusies getrokken kunnen worden met betrekking tot de inhoud van de bestanden.
 
@@ -345,35 +363,39 @@ De toegang tot het indexsysteem is zodanig geregeld dat de verbindingsofficieren
 
 ##### Artikel 12. Bestandsreglement
 
-1. Voor elk bij Europol voor zijn taakvervulling overeenkomstig artikel 10 bijgehouden geautomatiseerd bestand met persoonsgegevens dient Europol in een door de Raad van Bestuur goedgekeurd reglement vast te leggen:
+1. Voor elk bij Europol voor zijn taakvervulling overeenkomstig [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=III&artikel=10&z=2007-04-18&g=2007-04-18) bijgehouden geautomatiseerd bestand met persoonsgegevens legt Europol in een reglement vast:
 
-- 1). de omschrijving van het bestand,
+- 1. de omschrijving van het bestand,
 
-- 2). het doel van het bestand,
+- 2. het doel van het bestand,
 
-- 3). categorieën personen over wie gegevens worden opgeslagen,
+- 3. categorieën personen over wie gegevens worden opgeslagen,
 
-- 4). de aard van de op te slagen gegevens en eventueel de absoluut noodzakelijke gegevens als bedoeld in artikel 6, eerste zin, van het Verdrag van de Raad van Europa van 28 januari 1981,
+- 4. de aard van de gegevens die moeten worden opgeslagen en eventueel de absoluut noodzakelijke gegevens als bedoeld in artikel 6, eerste zin, van het Verdrag van de Raad van Europa van 28 januari 1981,
 
-- 5). de aard van de persoonsgegevens die ertoe dienen om het bestand toegankelijk te maken,
+- 5. de aard van de persoonsgegevens die ertoe dienen om het bestand toegankelijk te maken voor de exploitatie van het bestand,
 
-- 6). het aanleveren of invoeren van de voor opslag bestemde gegevens,
+- 6. het aanleveren of invoeren van de voor opslag bestemde gegevens,
 
-- 7). de voorwaarden waaronder de in het bestand opgeslagen persoonsgegevens mogen worden verstrekt, aan welke ontvangers en volgens welke procedure,
+- 7. de voorwaarden waaronder de in het bestand opgeslagen persoonsgegevens mogen worden verstrekt, aan welke ontvangers en volgens welke procedure,
 
-- 8). de controletermijnen en de duur van de opslag,
+- 8. de controletermijnen en de duur van de opslag,
 
-- 9). de vastlegging van de verstrekking.
+- 9. de vastlegging van de verstrekking.
 
-Het in artikel 24 bedoelde gemeenschappelijk controle-orgaan wordt door de directeur van Europol onmiddellijk op de hoogte gebracht van het ontwerp-reglement voor een dergelijk bestand en ontvangt het dossier, opdat het de opmerkingen die het noodzakelijk acht onder de aandacht van de Raad van Bestuur kan brengen.
+2. De raad van bestuur en het in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=IV&artikel=24&z=2007-04-18&g=2007-04-18) bedoelde gemeenschappelijk controleorgaan worden door de directeur van Europol onmiddellijk op de hoogte gebracht van het bestandsreglement en ontvangen het dossier.
 
-2. Wanneer het, in spoedeisende gevallen, niet mogelijk is de in lid 1 bedoelde toestemming van de Raad van Bestuur te verkrijgen, kan de Directeur, uit eigen beweging of op verzoek van de betrokken Lid-Staten, in een met redenen omkleed besluit opdracht geven een bestand aan te leggen. Hij stelt de leden van de Raad van Bestuur hiervan onmiddellijk in kennis. De procedure van lid 1 dient dan onmiddellijk in gang te worden gezet en zo spoedig mogelijk te worden voltooid.
+Het gemeenschappelijk controleorgaan kan de opmerkingen die het noodzakelijk acht onder de aandacht van de raad van bestuur brengen. De directeur van Europol kan het gemeenschappelijk controleorgaan verzoeken dat binnen een bepaalde termijn te doen.
+
+3. De raad van bestuur kan de directeur van Europol te allen tijde opdragen een reglement te wijzigen of een bestand te sluiten. De raad van bestuur besluit vanaf welke datum die wijziging of sluiting werking heeft.
+
+4. Het gegevensbestand mag niet langer dan drie jaar worden bewaard. Voordat deze termijn verstrijkt, beoordeelt Europol of het bestand voor verdere bewaring in aanmerking komt. Indien het absoluut noodzakelijk is vanwege het doel van het bestand, kan de directeur van Europol opdracht geven het bestand voor nog eens drie jaar te bewaren. In deze gevallen is de in de eerste drie leden aangegeven procedure van toepassing.
 
 ## Titel IV. Gemeenschappelijke voorwaarden voor informatieverwerking
 
 ##### Artikel 13. Mededelingsplicht
 
-Europol doet de nationale eenheden, en, indien zij daarom verzoeken, hun verbindingsofficieren, onverwijld mededeling van op hun Lid-Staat betrekking hebbende informatie en van de vaststelling van verbanden tussen strafbare feiten ten aanzien waarvan Europol ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=I&artikel=2&z=2007-03-29&g=2007-03-29) bevoegd is. Informatie en inlichtingen over andere ernstige strafbare feiten waarvan Europol bij zijn taakvervulling kennis neemt, mogen eveneens worden verstrekt.
+Europol doet de nationale eenheden, en, indien zij daarom verzoeken, hun verbindingsofficieren, onverwijld mededeling van op hun Lid-Staat betrekking hebbende informatie en van de vaststelling van verbanden tussen strafbare feiten ten aanzien waarvan Europol ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=I&artikel=2&z=2007-04-18&g=2007-04-18) bevoegd is. Informatie en inlichtingen over andere ernstige strafbare feiten waarvan Europol bij zijn taakvervulling kennis neemt, mogen eveneens worden verstrekt.
 
 ##### Artikel 14. Niveau van gegevensbescherming
 
@@ -393,13 +415,17 @@ Europol neemt deze beginselen eveneens in acht voor niet-geautomatiseerde gegeve
 
 - 2). bij Europol wat betreft de gegevens die door derden aan Europol zijn verstrekt of die het resultaat zijn van de analysewerkzaamheden van Europol.
 
-2. Daarnaast is Europol, tenzij anders bepaald in deze Overeenkomst, verantwoordelijk voor alle door Europol ontvangen en verwerkte gegevens, ongeacht of deze zich in het in artikel 8 bedoelde informatiesysteem, in de in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=III&artikel=10&z=2007-03-29&g=2007-03-29) bedoelde werkbestanden, in het in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=III&artikel=11&z=2007-03-29&g=2007-03-29) bedoelde indexsysteem of in de in [artikel 14, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=IV&artikel=14&z=2007-03-29&g=2007-03-29), bedoelde handmatige bestanden bevinden.
+2. Daarnaast is Europol, tenzij anders bepaald in deze Overeenkomst, verantwoordelijk voor alle door Europol ontvangen en verwerkte gegevens, ongeacht of deze zich in het in artikel 8 bedoelde informatiesysteem, in de in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=III&artikel=10&z=2007-04-18&g=2007-04-18) bedoelde werkbestanden, in het in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=III&artikel=11&z=2007-04-18&g=2007-04-18) bedoelde indexsysteem of in de in [artikel 14, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=IV&artikel=14&z=2007-04-18&g=2007-04-18), bedoelde handmatige bestanden bevinden.
 
 3. Europol slaat de gegevens zodanig op dat kan worden vastgesteld welke Lid-Staat of welke derde Staat of instantie de gegevens heeft verstrekt, dan wel of zij het resultaat zijn van de analysewerkzaamheden van Europol.
 
-##### Artikel 16. Vastlegging van de verstrekking
+##### Artikel 16. Controle van de opvragingen
 
-Europol legt gemiddeld ten minste elke tiende opvraging van persoonsgegevens vast – en elke opvraging van persoonsgegevens in het kader van het informatiesysteem als bedoeld in artikel 7 – om na te gaan of deze toelaatbaar is. De vastgelegde gegevens mogen alleen voor dit doel door Europol en de in de artikelen 23 en 24 vermelde controle-organen worden gebruikt en moeten na zes maanden worden verwijderd, tenzij zij in het kader van een lopende controle vereist blijven. Nadere regels worden door de Raad van Bestuur vastgesteld, na raadpleging van het gemeenschappelijk controle-orgaan.
+Europol stelt passende controlemechanismen vast om de wettigheid van de opvragingen uit de in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=I&artikel=6&z=2007-04-18&g=2007-04-18) en [6 bis](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=I&artikel=6_bis&z=2007-04-18&g=2007-04-18) bedoelde geautomatiseerde gegevensbestanden te kunnen toetsen.
+
+De aldus verzamelde gegevens mogen alleen voor dit doel door Europol en de in de [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=IV&artikel=23&z=2007-04-18&g=2007-04-18) en
+
+[24](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=IV&artikel=24&z=2007-04-18&g=2007-04-18) vermelde controleorganen worden gebruikt en moeten na zes maanden worden verwijderd, tenzij zij in het kader van een lopende controle vereist blijven. Nadere regels voor dergelijke controlemechanismen worden door de raad van bestuur vastgesteld, na raadpleging van het gemeenschappelijk controleorgaan.
 
 ##### Artikel 17. Regeling van het gebruik van de gegevens
 
@@ -407,25 +433,25 @@ Europol legt gemiddeld ten minste elke tiende opvraging van persoonsgegevens vas
 
 Het gebruik van de in de eerste alinea bedoelde gegevens geschiedt met inachtneming van het recht van de Lid-Staat waaronder de diensten die de gegevens gebruiken, ressorteren.
 
-Europol kan de in lid 1 bedoelde gegevens alleen maar gebruiken met het oog op de vervulling van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=I&artikel=3&z=2007-03-29&g=2007-03-29) genoemde taken.
+Europol kan de in lid 1 bedoelde gegevens alleen maar gebruiken met het oog op de vervulling van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=I&artikel=3&z=2007-04-18&g=2007-04-18) genoemde taken.
 
-2. Indien de verstrekkende Lid-Staat of de verstrekkende derde Staat of instantie als bedoeld in [artikel 10, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=III&artikel=10&z=2007-03-29&g=2007-03-29), voor afzonderlijke gegevens beperkingen voor het gebruik ervan meedeelt die voor deze gegevens in de betrokken Lid-Staat of derde Staat of instantie gelden, dienen deze beperkingen ook door de gebruiker te worden nageleefd, behalve in het bijzondere geval waarin het nationale recht voorschrijft dat van deze gebruiksbeperkingen moet worden afgeweken ten behoeve van de gerechtelijke autoriteiten, de wetgevende instanties of elke andere onafhankelijke bij de wet opgerichte instantie die belast is met het toezicht op de bevoegde nationale autoriteiten als bedoeld in [artikel 2, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=I&artikel=2&z=2007-03-29&g=2007-03-29). In dat geval mogen de gegevens slechts worden gebruikt na voorafgaande raadpleging van de verstrekkende Staat, met wiens belangen en standpunten zoveel mogelijk rekening moet worden gehouden.
+2. Indien de verstrekkende Lid-Staat of de verstrekkende derde Staat of instantie als bedoeld in [artikel 10, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=III&artikel=10&z=2007-04-18&g=2007-04-18), voor afzonderlijke gegevens beperkingen voor het gebruik ervan meedeelt die voor deze gegevens in de betrokken Lid-Staat of derde Staat of instantie gelden, dienen deze beperkingen ook door de gebruiker te worden nageleefd, behalve in het bijzondere geval waarin het nationale recht voorschrijft dat van deze gebruiksbeperkingen moet worden afgeweken ten behoeve van de gerechtelijke autoriteiten, de wetgevende instanties of elke andere onafhankelijke bij de wet opgerichte instantie die belast is met het toezicht op de bevoegde nationale autoriteiten als bedoeld in [artikel 2, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=I&artikel=2&z=2007-04-18&g=2007-04-18). In dat geval mogen de gegevens slechts worden gebruikt na voorafgaande raadpleging van de verstrekkende Staat, met wiens belangen en standpunten zoveel mogelijk rekening moet worden gehouden.
 
-3. De gegevens kunnen slechts voor andere doeleinden of door andere dan de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=I&artikel=2&z=2007-03-29&g=2007-03-29) van deze overeenkomst bedoelde autoriteiten worden gebruikt na voorafgaande toestemming van de Lid-Staat die de gegevens heeft verstrekt en voor zover het nationale recht van deze Lid-Staat dat toelaat.
+3. De gegevens kunnen slechts voor andere doeleinden of door andere dan de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=I&artikel=2&z=2007-04-18&g=2007-04-18) van deze overeenkomst bedoelde autoriteiten worden gebruikt na voorafgaande toestemming van de Lid-Staat die de gegevens heeft verstrekt en voor zover het nationale recht van deze Lid-Staat dat toelaat.
 
 ##### Artikel 18. Verstrekking van gegevens aan derde staten en instanties
 
-1. Door Europol opgeslagen persoonsgegevens kunnen onder de voorwaarden van lid 4 aan derde Staten en instanties als bedoeld in artikel 10, lid 4, worden verstrekt indien:
+1. Door Europol opgeslagen persoonsgegevens kunnen onder de voorwaarden van lid 4 aan derde Staten en instanties als bedoeld in [artikel 10, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=III&artikel=10&z=2007-04-18&g=2007-04-18), worden verstrekt indien:
 
-- 1). dit in individuele gevallen nodig is voor het voorkomen of bestrijden van strafbare feiten ten aanzien waarvan Europol ingevolge artikel 2 bevoegd is,
+- 1). dit in individuele gevallen nodig is voor het voorkomen of bestrijden van strafbare feiten ten aanzien waarvan Europol ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=I&artikel=2&z=2007-04-18&g=2007-04-18) bevoegd is,
 
 - 2). in die Staat of bij die instantie een passend niveau van gegevensbescherming is gewaarborgd,
 
-- 3). dit volgens de algemene regels in de zin van lid 2 toegestaan is.
+- 3). dit volgens de algemene regels in de zin van lid 2 toegestaan is; in uitzonderlijke gevallen kunnen die regels voorzien in een afwijking van punt 2, wanneer de directeur van Europol doorgifte van de gegevens als absoluut noodzakelijk beschouwt om de wezenlijke belangen van de betrokken lidstaten binnen het kader van de doelstelling van Europol te waarborgen of ter voorkoming van een onmiddellijke criminele dreiging. De directeur van Europol onderzoekt in alle gevallen het gegevensbeschermingsniveau in de betrokken staat of instantie om een afweging te maken van dit niveau en de bovenbedoelde belangen.
 
-2. De Raad stelt, volgens de procedure van Titel VI van het Verdrag betreffende de Europese Unie en met inachtneming van de in lid 3 genoemde omstandigheden, met eenparigheid van stemmen algemene regels vast voor de verstrekking van persoonsgegevens door Europol aan derde Staten en instanties als bedoeld in artikel 10, lid 4. De Raad van Bestuur bereidt het besluit van de Raad voor en raadpleegt het in artikel 24 bedoelde gemeenschappelijk controle-orgaan.
+2. De Raad stelt, met inachtneming van de in lid 3 genoemde omstandigheden, met eenparigheid van stemmen algemene regels vast voor de verstrekking van persoonsgegevens door Europol aan derde Staten en instanties als bedoeld in [artikel 10, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=III&artikel=10&z=2007-04-18&g=2007-04-18). De Raad van Bestuur bereidt het besluit van de Raad voor en raadpleegt het in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=IV&artikel=24&z=2007-04-18&g=2007-04-18) bedoelde gemeenschappelijk controle-orgaan.
 
-3. De passende gegevensbescherming die geboden wordt door de derde Staten en instanties als bedoeld in artikel 10, lid 4, wordt beoordeeld met inachtneming van alle omstandigheden die bij de verstrekking van persoonsgegevens een rol spelen; in het bijzonder wordt acht geslagen op:
+3. De passende gegevensbescherming die geboden wordt door de derde Staten en instanties als bedoeld in [artikel 10, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=III&artikel=10&z=2007-04-18&g=2007-04-18), wordt beoordeeld met inachtneming van alle omstandigheden die bij de verstrekking van persoonsgegevens een rol spelen; in het bijzonder wordt acht geslagen op:
 
 - 1). de aard van de gegevens,
 
@@ -433,7 +459,7 @@ Europol kan de in lid 1 bedoelde gegevens alleen maar gebruiken met het oog op d
 
 - 3). de duur van de beoogde verwerking, alsook
 
-- 4). de voor de derde Staten en instanties als bedoeld in artikel 10, lid 4, geldende algemene of bijzondere voorschriften.
+- 4). de voor de derde Staten en instanties als bedoeld in [artikel 10, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=III&artikel=10&z=2007-04-18&g=2007-04-18), geldende algemene of bijzondere voorschriften.
 
 4. Indien de gegevens door een Lid-Staat aan Europol zijn verstrekt, mag Europol deze slechts met toestemming van die Lid-Staat aan derde Staten of instanties verstrekken. De Lid-Staat kan daartoe een voorafgaande, al dan niet algemene, toestemming geven, die te allen tijde kan worden ingetrokken.
 
@@ -467,11 +493,11 @@ en het belang van de bij de mededeling van de informatie betrokken persoon derha
 
 4. Het recht op kennisneming wordt overeenkomstig lid 3 uitgeoefend volgens onderstaande procedures:
 
-- 1). gegevens die zijn opgeslagen in het in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=II&artikel=8&z=2007-03-29&g=2007-03-29) omschreven informatiesysteem, mogen slechts ter kennisneming worden medegedeeld nadat de Lid-Staat die de gegevens heeft ingevoerd en de Lid-Staten die rechtstreeks bij de mededeling van deze gegevens zijn betrokken, eerst hun standpunt kenbaar hebben kunnen maken, dat in het uiterste geval een weigering tot mededeling kan inhouden. Door de Lid-Staat die de gegevens heeft ingevoerd wordt gemeld welke gegevens mogen worden meegedeeld en op welke wijze dat dient te geschieden;
+- 1). gegevens die zijn opgeslagen in het in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=II&artikel=8&z=2007-04-18&g=2007-04-18) omschreven informatiesysteem, mogen slechts ter kennisneming worden medegedeeld nadat de Lid-Staat die de gegevens heeft ingevoerd en de Lid-Staten die rechtstreeks bij de mededeling van deze gegevens zijn betrokken, eerst hun standpunt kenbaar hebben kunnen maken, dat in het uiterste geval een weigering tot mededeling kan inhouden. Door de Lid-Staat die de gegevens heeft ingevoerd wordt gemeld welke gegevens mogen worden meegedeeld en op welke wijze dat dient te geschieden;
 
 - 2). met betrekking tot gegevens die door Europol in het informatiesysteem zijn opgeslagen, moeten de rechtstreeks betrokken Lid-Staten eerst een standpunt hebben kunnen innemen, dat in het uiterste geval een weigering tot mededeling kan inhouden;
 
-- 3). met betrekking tot gegevens die zijn opgeslagen in de werkbestanden voor analysedoeleinden als omschreven in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=III&artikel=10&z=2007-03-29&g=2007-03-29), geldt dat deze slechts mogen worden meegedeeld als daarover een consensus bestaat tussen Europol en de Lid-Staten die aan de analyse deelnemen in de zin van [artikel 10, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=III&artikel=10&z=2007-03-29&g=2007-03-29), en de rechtstreeks bij deze mededeling betrokken Lid-Staat of Lid-Staten.
+- 3). met betrekking tot gegevens die zijn opgeslagen in de werkbestanden voor analysedoeleinden als omschreven in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=III&artikel=10&z=2007-04-18&g=2007-04-18), geldt dat deze slechts mogen worden meegedeeld als daarover een consensus bestaat tussen Europol en de Lid-Staten die aan de analyse deelnemen in de zin van [artikel 10, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=III&artikel=10&z=2007-04-18&g=2007-04-18), en de rechtstreeks bij deze mededeling betrokken Lid-Staat of Lid-Staten.
 
 Indien een of meer Lid-Staten of Europol zich hebben verzet tegen de mededeling betreffende de gegevens, stelt Europol de verzoeker ervan in kennis dat het de nodige controles heeft verricht, zonder aanwijzingen te geven waaruit de betrokkene kan opmaken of hij al dan niet bekend is.
 
@@ -481,7 +507,7 @@ Indien het van toepassing zijnde nationale recht niet in de mededeling betreffen
 
 6. In zijn antwoord op een verzoek om controle of kennisneming van gegevens laat Europol de verzoeker weten dat hij, indien hij niet tevreden is met de beslissing, beroep kan instellen bij het gemeenschappelijke controle-orgaan. De verzoeker kan zich ook tot het gemeenschappelijke controle-orgaan wenden indien binnen de in dit artikel gestelde termijn geen antwoord is gegeven op zijn verzoek.
 
-7. Indien de verzoeker beroep instelt bij het in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=IV&artikel=24&z=2007-03-29&g=2007-03-29) bedoelde gemeenschappelijke controle-orgaan, wordt dit beroep door dit orgaan behandeld.
+7. Indien de verzoeker beroep instelt bij het in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=IV&artikel=24&z=2007-04-18&g=2007-04-18) bedoelde gemeenschappelijke controle-orgaan, wordt dit beroep door dit orgaan behandeld.
 
 Indien het beroep betrekking heeft op de mededeling betreffende de gegevens die door een Lid-Staat in het informatiesysteem zijn ingevoerd, neemt het gemeenschappelijke controle-orgaan een beslissing overeenkomstig het nationale recht van de Lid-Staat bij wie het verzoek werd ingediend. Het gemeenschappelijke controle-orgaan raadpleegt eerst het nationale controle-orgaan of de bevoegde rechterlijke instantie van de Lid-Staat van wie het gegeven afkomstig is. Dit orgaan of deze instantie verricht de nodige controles om in het bijzonder na te gaan of de beslissing tot weigering overeenkomstig de bepalingen van de leden 3 en 4, eerste alinea, van dit artikel is genomen. In dat geval wordt de beslissing, die in het uiterste geval een weigering tot mededeling kan inhouden, genomen door het gemeenschappelijke controle-orgaan in nauw overleg met het nationale controle-orgaan of de bevoegde rechterlijke instantie.
 
@@ -511,7 +537,7 @@ Europol laat de verzoeker weten dat de hem betreffende gegevens zijn verbeterd o
 
 2. Bij de toetsing kunnen de in de derde en de vierde zin van lid 1 bedoelde instanties besluiten de opslag van de gegevens te verlengen tot de volgende toetsing indien het opslaan voor de taakvervulling van Europol nodig blijft. Blijft een besluit over verdere opslag uit, dan worden de gegevens automatisch verwijderd.
 
-3. Het opslaan van de in artikel 10, lid 1, eerste alinea, punt 1, bedoelde persoonsgegevens mag in totaal niet langer dan drie jaar duren. Deze termijn begint telkens opnieuw op de dag dat een feit plaatsvindt dat aanleiding geeft tot het opslaan van gegevens over de betrokkene. Jaarlijks wordt getoetst of verdere opslag nodig is; deze toetsing moet schriftelijk worden vastgelegd.
+3. Jaarlijks wordt getoetst of verdere opslag van de in [artikel 10, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=III&artikel=10&z=2007-04-18&g=2007-04-18), bedoelde persoonsgegevens nodig is; deze toetsing wordt schriftelijk vastgelegd. De opslag van deze gegevens in een gegevensbestand zoals bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=III&artikel=12&z=2007-04-18&g=2007-04-18) mag de bestaansduur van het bestand niet overschrijden.
 
 4. Wanneer een Lid-Staat uit zijn nationale bestanden gegevens verwijdert die aan Europol zijn verstrekt en die in de overige bestanden van Europol opgeslagen zijn, deelt hij dit aan Europol mee. In dit geval verwijdert Europol de gegevens, tenzij Europol verder belang hecht aan deze gegevens op grond van uitvoeriger informatie over de betrokkene dan de verstrekkende Lid-Staat bezit. Europol stelt de betrokken Lid-Staat in kennis van de voortgezette opslag van deze gegevens.
 
@@ -525,7 +551,9 @@ Een dossier mag niet worden vernietigd indien er redenen zijn om aan te nemen da
 
 2. Indien blijkt dat gegevens in dossiers van Europol onjuistheden bevatten, dient Europol deze gegevens te verbeteren.
 
-3. Elke bij een dossier van Europol betrokken persoon kan jegens Europol een recht op verbetering, vernietiging van het dossier of het opnemen van een aantekening uitoefenen. Artikel 20, lid 4, en artikel 24, lid 2 en lid 7, zijn van toepassing.
+3. Elke bij een dossier van Europol betrokken persoon kan jegens Europol een recht op verbetering, vernietiging van het dossier of het opnemen van een aantekening uitoefenen. [Artikel 20, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=IV&artikel=20&z=2007-04-18&g=2007-04-18), en [artikel 24, lid 2 en lid 7](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=IV&artikel=24&z=2007-04-18&g=2007-04-18), zijn van toepassing.
+
+4. De beginselen die in deze titel met betrekking tot informatieverwerking zijn neergelegd, zijn van toepassing op gegevens in dossiers.
 
 ##### Artikel 23. Nationaal controle-orgaan
 
@@ -533,7 +561,7 @@ Een dossier mag niet worden vernietigd indien er redenen zijn om aan te nemen da
 
 De nationale controle-organen hebben voor de uitoefening van hun toezicht toegang tot de kantoren en dossiers van de respectieve verbindingsofficieren bij Europol.
 
-Voorts zien de nationale controle-organen, overeenkomstig de geldende nationale procedures, toe op de werkzaamheden van de nationale eenheden ingevolge [artikel 4, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=I&artikel=4&z=2007-03-29&g=2007-03-29), en die van de verbindingsofficieren ingevolge [artikel 5, lid 3, punten 1, 2 en 3, en leden 4 en 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=I&artikel=5&z=2007-03-29&g=2007-03-29), in zoverre deze werkzaamheden de bescherming van persoonsgegevens betreffen.
+Voorts zien de nationale controle-organen, overeenkomstig de geldende nationale procedures, toe op de werkzaamheden van de nationale eenheden ingevolge [artikel 4, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=I&artikel=4&z=2007-04-18&g=2007-04-18), en die van de verbindingsofficieren ingevolge [artikel 5, lid 3, punten 1, 2 en 3, en leden 4 en 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=I&artikel=5&z=2007-04-18&g=2007-04-18), in zoverre deze werkzaamheden de bescherming van persoonsgegevens betreffen.
 
 2. Een ieder heeft het recht het nationale controle-orgaan te verzoeken om te toetsen of het invoeren, het verstrekken op welke wijze ook van zijn persoonsgegevens aan Europol alsmede het opvragen van gegevens door de betrokken Lid-Staat, rechtmatig zijn.
 
@@ -553,7 +581,7 @@ Bij de uitoefening van hun bevoegdheden ontvangen de leden van het gemeenschappe
 
 - 2). het verlenen van permanente toegang tot alle dienstruimten, en
 
-- 3). het uitvoeren van de beslissingen van de gemeenschappelijke controle-autoriteit op overeenkomstig het bepaalde in artikel 19, lid 7, en artikel 20, lid 4, ingestelde beroepen.
+- 3). het uitvoeren van de beslissingen van de gemeenschappelijke controle-autoriteit op overeenkomstig het bepaalde in [artikel 19, lid 7](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=IV&artikel=19&z=2007-04-18&g=2007-04-18), en [artikel 20, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=IV&artikel=20&z=2007-04-18&g=2007-04-18), ingestelde beroepen.
 
 3. Het gemeenschappelijk controle-orgaan is tevens bevoegd om een onderzoek in te stellen naar toepassings- of interpretatiekwesties in verband met de werkzaamheden van Europol op het gebied van het verwerken en gebruiken van persoonsgegevens, naar kwesties in verband met het door de nationale controle-organen van de Lid-Staten onafhankelijk uitgevoerde toezicht of met de uitoefening van het recht op kennisneming, alsook om geharmoniseerde voorstellen uit te werken om voor de bestaande problemen een gemeenschappelijke oplossing te vinden.
 
@@ -561,11 +589,11 @@ Bij de uitoefening van hun bevoegdheden ontvangen de leden van het gemeenschappe
 
 5. Indien het gemeenschappelijk controle-orgaan vaststelt dat bij de opslag, het verwerken of het gebruik van persoonsgegevens inbreuken op de bepalingen van deze Overeenkomst zijn gemaakt, richt het de opmerkingen die het nodig acht aan de directeur van Europol en sommeert het de directeur om binnen een door het controle-orgaan te bepalen termijn op deze opmerkingen te antwoorden. De directeur houdt de Raad van Bestuur van de procedure op de hoogte. In geval van moeilijkheden legt het gemeenschappelijk controle-orgaan de zaak voor aan de Raad van Bestuur.
 
-6. Het gemeenschappelijk controle-orgaan doet regelmatig verslag van zijn werkzaamheden. Deze verslagen worden volgens de procedure van Titel VI van het Verdrag betreffende de Europese Unie aan de Raad toegezonden; de Raad van Bestuur krijgt van tevoren de gelegenheid een advies te formuleren, dat aan het verslag wordt toegevoegd.
+6. Het gemeenschappelijk controle-orgaan doet regelmatig verslag van zijn werkzaamheden. Deze verslagen worden aan het Europees Parlement en de Raad toegezonden; de Raad van Bestuur krijgt van tevoren de gelegenheid een advies te formuleren, dat aan het verslag wordt toegevoegd.
 
 Het gemeenschappelijk controle-orgaan besluit of het verslag van zijn werkzaamheden al dan niet openbaar wordt gemaakt en neemt in voorkomend geval een besluit over de wijze van openbaarmaking.
 
-7. Het gemeenschappelijk controle-orgaan stelt met eenparigheid van stemmen zijn reglement van orde vast. Dit reglement van orde moet door de Raad met eenparigheid van stemmen worden goedgekeurd. Binnen het gemeenschappelijk controle-orgaan wordt een comité ingesteld dat bestaat uit één lid per delegatie en waarin elk lid over één stem beschikt. Dit comité heeft tot taak met alle passende middelen, de beroepen te behandelen bedoeld in artikel 19, lid 7, en artikel 20, lid 4. Indien zij daarom verzoeken worden de partijen, desgewenst bijgestaan door hun raadsman, gehoord door dit comité. De in dit kader genomen beslissingen zijn voor alle betrokken partijen definitief.
+7. Het gemeenschappelijk controle-orgaan stelt met eenparigheid van stemmen zijn reglement van orde vast. Dit reglement van orde moet door de Raad met eenparigheid van stemmen worden goedgekeurd. Binnen het gemeenschappelijk controle-orgaan wordt een comité ingesteld dat bestaat uit één lid per delegatie en waarin elk lid over één stem beschikt. Dit comité heeft tot taak met alle passende middelen, de beroepen te behandelen bedoeld in [artikel 19, lid 7](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=IV&artikel=19&z=2007-04-18&g=2007-04-18), en [artikel 20, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=IV&artikel=20&z=2007-04-18&g=2007-04-18). Indien zij daarom verzoeken worden de partijen, desgewenst bijgestaan door hun raadsman, gehoord door dit comité. De in dit kader genomen beslissingen zijn voor alle betrokken partijen definitief.
 
 8. Het gemeenschappelijk controle-orgaan kan daarenboven een of meer commissies oprichten.
 
@@ -607,7 +635,7 @@ Het gemeenschappelijk controle-orgaan besluit of het verslag van zijn werkzaamhe
 
 2. In elk der Lid-Staten heeft Europol de ruimste handelingsbevoegdheid welke naar nationaal recht aan rechtspersonen wordt toegekend. Europol kan met name roerende en onroerende zaken verkrijgen en vervreemden en in rechte optreden.
 
-3. Europol is bevoegd om met het Koninkrijk der Nederlanden een zetelovereenkomst, en, met de derde Staten en instanties in de zin van artikel 10, lid 4, de op grond van artikel 18, lid 6, benodigde overeenkomsten ter bescherming van geheime informatie, alsmede andere regelingen te sluiten, in het kader van de regels die door de Raad met eenparigheid van stemmen worden vastgesteld op basis van deze Overeenkomst en van Titel VI van het Verdrag betreffende de Europese Unie.
+3. Europol is bevoegd om met het Koninkrijk der Nederlanden een zetelovereenkomst, en, met de derde Staten en instanties in de zin van [artikel 10, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=III&artikel=10&z=2007-04-18&g=2007-04-18), de op grond van [artikel 18, lid 6](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=IV&artikel=18&z=2007-04-18&g=2007-04-18), benodigde overeenkomsten ter bescherming van geheime informatie, alsmede andere regelingen te sluiten, in het kader van de regels die door de Raad met eenparigheid van stemmen worden vastgesteld op basis van deze Overeenkomst.
 
 ##### Artikel 27. Organen van Europol
 
@@ -625,53 +653,59 @@ De organen van Europol zijn:
 
 1. Europol heeft een Raad van Bestuur. De Raad van Bestuur:
 
-- 1). werkt mee aan de verruiming van de doelstelling van Europol (artikel 2, lid 2),
+- 1). werkt mee aan de vaststelling van de prioriteiten van Europol met betrekking tot het bestrijden en voorkomen van de vormen van ernstige internationale criminaliteit die onder zijn mandaat vallen ([artikel 2, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=I&artikel=2&z=2007-04-18&g=2007-04-18)),
 
-- 1 bis). stelt met een meerderheid van twee derde van de stemmen van zijn leden regels vast voor de administratieve uitvoering van de deelname van Europol-functionarissen aan gemeenschappelijke onderzoeksteams (artikel 3 bis, lid 2),
+- 1 bis). stelt met een meerderheid van twee derde van de stemmen van zijn leden regels vast voor de administratieve uitvoering van de deelname van Europol-functionarissen aan gemeenschappelijke onderzoeksteams ([artikel 3 bis, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=I&artikel=3_bis&z=2007-04-18&g=2007-04-18)),
 
-- 2). stelt met eenparigheid van stemmen de rechten en plichten van de verbindingsofficieren jegens Europol vast (artikel 5),
+- 2). stelt met eenparigheid van stemmen de rechten en plichten van de verbindingsofficieren jegens Europol vast ([artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=I&artikel=5&z=2007-04-18&g=2007-04-18)),
 
-- 3). beslist met eenparigheid van stemmen hoeveel verbindingsofficieren de Lid-Staten naar Europol mogen afvaardigen (artikel 5),
+- 3). beslist met eenparigheid van stemmen hoeveel verbindingsofficieren de Lid-Staten naar Europol mogen afvaardigen ([artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=I&artikel=5&z=2007-04-18&g=2007-04-18)),
 
-- 4). bereidt de regels voor het gebruik van de bestanden voor (artikel 10),
+- 3 bis). werkt mee aan de vaststelling van de voorwaarden in verband met de verwerking van gegevens teneinde na te gaan of deze relevant zijn voor de taken van Europol en of zij in de geautomatiseerde gegevensbestanden kunnen worden opgenomen ([artikel 6 bis](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=I&artikel=6_bis&z=2007-04-18&g=2007-04-18)),
 
-- 5). werkt mee aan het vaststellen van de regels voor de betrekkingen tussen Europol en de derde Staten en instanties als bedoeld in artikel 10, lid 4 (artikelen 10, 18, 42),
+- 4). bereidt de regels voor het gebruik van de bestanden voor ([artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=III&artikel=10&z=2007-04-18&g=2007-04-18)),
 
-- 6). stelt met eenparigheid van stemmen de voorschriften vast betreffende het aanleggen van het indexsysteem (artikel 11),
+- 4 bis). stelt met een meerderheid van tweederde van de stemmen de regels vast waaraan de regelingen voor de medewerking van deskundigen van derde staten of instanties aan de werkzaamheden van een analysegroep moeten beantwoorden ([artikel 10, lid 9](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=III&artikel=10&z=2007-04-18&g=2007-04-18)),
 
-- 7). keurt met een meerderheid van twee derden van de stemmen bestandsreglementen goed (artikel 12),
+- 5). werkt mee aan het vaststellen van de regels voor de betrekkingen tussen Europol en de derde Staten en instanties als bedoeld in [artikel 10, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=III&artikel=10&z=2007-04-18&g=2007-04-18) ([artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=III&artikel=10&z=2007-04-18&g=2007-04-18), [18](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=IV&artikel=18&z=2007-04-18&g=2007-04-18), [42](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=VII&artikel=42&z=2007-04-18&g=2007-04-18)),
 
-- 8). kan adviezen formuleren over de opmerkingen en verslagen van het gemeenschappelijk controle-orgaan (artikel 24),
+- 6). stelt met eenparigheid van stemmen de voorschriften vast betreffende het aanleggen van het indexsysteem ([artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=III&artikel=11&z=2007-04-18&g=2007-04-18)),
 
-- 9). onderzoekt de problemen die hem door het gemeenschappelijk controle-orgaan worden voorgelegd (artikel 24, lid 5),
+- 7). kan de directeur van Europol opdragen een reglement te wijzigen of een bestand te sluiten ([artikel 12, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=III&artikel=12&z=2007-04-18&g=2007-04-18)),
 
-- 10). regelt de bijzonderheden van de procedure voor de controle op de rechtmatigheid van de verzoeken in het kader van het informatiesysteem (artikel 16),
+- 8). kan adviezen formuleren over de opmerkingen en verslagen van het gemeenschappelijk controle-orgaan ([artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=IV&artikel=24&z=2007-04-18&g=2007-04-18)),
 
-- 11). werkt mee aan de benoeming en het ontslag van de directeur en de adjunct-directeuren (artikel 29),
+- 9). onderzoekt de problemen die hem door het gemeenschappelijk controle-orgaan worden voorgelegd ([artikel 24, lid 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=IV&artikel=24&z=2007-04-18&g=2007-04-18)),
 
-- 12). houdt toezicht op de ambtsuitoefening van de directeur (artikelen 7, 29),
+- 10). regelt de bijzonderheden van de procedure voor de controle op de rechtmatigheid van de verzoeken in het kader van het informatiesysteem ([artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=IV&artikel=16&z=2007-04-18&g=2007-04-18)),
 
-- 13). werkt mee aan de vaststelling van het personeelsstatuut (artikel 30),
+- 11). werkt mee aan de benoeming en het ontslag van de directeur en de adjunct-directeuren ([artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=V&artikel=29&z=2007-04-18&g=2007-04-18)),
 
-- 14). werkt mee aan het opstellen van de overeenkomst ter bescherming van geheime informatie en aan het vaststellen van bepalingen inzake de bescherming van geheime informatie (artikelen 18, 31),
+- 12). houdt toezicht op de ambtsuitoefening van de directeur ([artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=II&artikel=7&z=2007-04-18&g=2007-04-18), [29](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=V&artikel=29&z=2007-04-18&g=2007-04-18)),
 
-- 15). werkt mee aan de opstelling van de begroting, inclusief een lijst van het aantal formatieplaatsen, de controle van de rekeningen en de kwijting van de directeur (artikelen 35, 36),
+- 13). werkt mee aan de vaststelling van het personeelsstatuut ([artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=V&artikel=30&z=2007-04-18&g=2007-04-18)),
 
-- 16). keurt met eenparigheid van stemmen de financiële vijfjarenraming goed (artikel 35),
+- 14). werkt mee aan het opstellen van de overeenkomst ter bescherming van geheime informatie en aan het vaststellen van bepalingen inzake de bescherming van geheime informatie ([artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=IV&artikel=18&z=2007-04-18&g=2007-04-18), [31](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=V&artikel=31&z=2007-04-18&g=2007-04-18)),
 
-- 17). benoemt met eenparigheid van stemmen de financieel controleur en houdt toezicht op diens ambtsuitoefening (artikel 35),
+- 14 bis). stelt met een meerderheid van tweederde van de stemmen de regels vast voor de toegang tot documenten van Europol ([artikel 32 bis](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=V&artikel=32_bis&z=2007-04-18&g=2007-04-18)),
 
-- 18). werkt mee aan de vaststelling van het financieel reglement (artikel 35),
+- 15). werkt mee aan de opstelling van de begroting, inclusief een lijst van het aantal formatieplaatsen, de controle van de rekeningen en de kwijting van de directeur ([artikelen 35](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=V&artikel=35&z=2007-04-18&g=2007-04-18), [36](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=V&artikel=36&z=2007-04-18&g=2007-04-18)),
 
-- 19). keurt met eenparigheid van stemmen de sluiting van de zetelovereenkomst goed (artikel 37),
+- 16). keurt met eenparigheid van stemmen de financiële vijfjarenraming goed ([artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=V&artikel=35&z=2007-04-18&g=2007-04-18)),
+
+- 17). benoemt met eenparigheid van stemmen de financieel controleur en houdt toezicht op diens ambtsuitoefening ([artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=V&artikel=35&z=2007-04-18&g=2007-04-18)),
+
+- 18). werkt mee aan de vaststelling van het financieel reglement ([artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=V&artikel=35&z=2007-04-18&g=2007-04-18)),
+
+- 19). keurt met eenparigheid van stemmen de sluiting van de zetelovereenkomst goed ([artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=V&artikel=37&z=2007-04-18&g=2007-04-18)),
 
 - 20). neemt met eenparigheid van stemmen de regels voor machtiging van personeelsleden van Europol aan,
 
-- 21). doet met een tweederde meerderheid uitspraak in geschillen tussen een Lid-Staat en Europol of tussen Lid-Staten over de schadevergoedingen uit hoofde van de aansprakelijkheid voor onrechtmatige of onjuiste verwerking van gegevens (artikel 38),
+- 21). doet met een tweederde meerderheid uitspraak in geschillen tussen een Lid-Staat en Europol of tussen Lid-Staten over de schadevergoedingen uit hoofde van de aansprakelijkheid voor onrechtmatige of onjuiste verwerking van gegevens ([artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=VI&artikel=38&z=2007-04-18&g=2007-04-18)),
 
-- 21 bis). doet met een tweederde meerderheid uitspraak in geschillen tussen een lidstaat en Europol betreffende de aansprakelijkheid in verband met de deelname van Europol aan gemeenschappelijke onderzoeksteams (artikel 39 bis),
+- 21 bis). doet met een tweederde meerderheid uitspraak in geschillen tussen een lidstaat en Europol betreffende de aansprakelijkheid in verband met de deelname van Europol aan gemeenschappelijke onderzoeksteams ([artikel 39 bis](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=VI&artikel=39_bis&z=2007-04-18&g=2007-04-18)),
 
-- 22). werkt mee aan de eventuele wijziging van de Overeenkomst (artikel 43),
+- 22). werkt mee aan de eventuele wijziging van de overeenkomst of de bijlage daarbij ([artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=VII&artikel=43&z=2007-04-18&g=2007-04-18)),
 
 - 23). is verantwoordelijk voor de uitvoering van andere taken die de Raad hem opdraagt, met name in het kader van de bepalingen ter uitvoering van deze Overeenkomst.
 
@@ -691,17 +725,17 @@ De organen van Europol zijn:
 
 9. De Raad van Bestuur komt ten minste tweemaal per jaar bijeen.
 
-10. De Raad van Bestuur neemt elk jaar met eenparigheid van stemmen:
+10. Rekening houdend met de door de Raad overeenkomstig [artikel 2, lid 1 bis](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=I&artikel=2&z=2007-04-18&g=2007-04-18), vastgestelde prioriteiten en de in [artikel 29, lid 3, punt 6](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=V&artikel=29&z=2007-04-18&g=2007-04-18), bedoelde verstrekking van recente informatie door de directeur van Europol, neemt de raad van bestuur elk jaar met eenparigheid van stemmen:
 
-- 1). een algemeen verslag over de activiteiten van Europol in het voorgaande jaar aan,
+- 1. een algemeen verslag over de activiteiten van Europol in het voorgaande jaar aan;
 
-- 2). een verslag over de voorgenomen activiteiten van Europol aan, waarin rekening wordt gehouden met de operationele behoeften van de Lid-Staten en de gevolgen voor de begroting en de personeelsformatie van Europol.
+- 2. een verslag over de voorgenomen activiteiten van Europol aan, waarin rekening wordt gehouden met de operationele behoeften van de lidstaten en de gevolgen voor de begroting en de personeelsformatie van Europol.
 
-Deze verslagen worden volgens de procedure van Titel VI van het Verdrag betreffende de Europese Unie aan de Raad voorgelegd.
+Deze verslagen worden ter kennisgeving en goedkeuring voorgelegd aan de Raad. Tevens worden deze verslagen door de Raad ter informatie aan het Europees Parlement toegezonden.
 
 ##### Artikel 29. Directeur
 
-1. Met de leiding van Europol is een directeur belast, die op advies van de Raad van Bestuur voor een termijn van vier jaar met eenparigheid van stemmen door de Raad wordt benoemd volgens de procedure van Titel VI van het Verdrag betreffende de Europese Unie; hij kan éénmaal voor een termijn van vier jaar worden herbenoemd.
+1. Met de leiding van Europol is een directeur belast, die op advies van de Raad van Bestuur voor een termijn van vier jaar met eenparigheid van stemmen door de Raad wordt benoemd; hij kan éénmaal voor een termijn van vier jaar worden herbenoemd.
 
 2. De directeur wordt bijgestaan door adjunct-directeuren, wier aantal door de Raad wordt bepaald en die volgens de procedure van lid 1 voor een termijn van vier jaar worden benoemd. Zij kunnen éénmaal voor een termijn van vier jaar worden herbenoemd. Hun taak wordt nader vastgesteld door de directeur.
 
@@ -717,27 +751,29 @@ Deze verslagen worden volgens de procedure van Titel VI van het Verdrag betreffe
 
 - 5). het opstellen van de ontwerpen voor de begroting, de personeelsformatie en de financiële raming voor de volgende vijf jaar, alsmede voor de uitvoering van de begroting van Europol,
 
-- 6). alle andere hem bij de Overeenkomst of door de Raad van Bestuur opgedragen taken.
+- 6). het op gezette tijden verstrekken van recente informatie aan de raad van bestuur over de uitvoering van de in [artikel 2, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=I&artikel=2&z=2007-04-18&g=2007-04-18), bedoelde prioriteiten,
+
+- 7). alle andere hem bij de overeenkomst of door de raad van bestuur opgedragen taken.
 
 4. De directeur legt aan de Raad van Bestuur rekenschap af over zijn taakuitoefening. Hij woont de vergaderingen van de Raad van Bestuur bij.
 
 5. De directeur vertegenwoordigt Europol in en buiten rechte.
 
-6. Bij een volgens de procedure van Titel VI van het Verdrag betreffende de Europese Unie vast te stellen besluit van de Raad, dat met een meerderheid van twee derden van de stemmen van de Lid-Staten moet worden genomen, kunnen de directeur en de adjunct-directeuren op advies van de Raad van Bestuur van hun functie worden ontheven.
+6. Bij een besluit van de Raad, dat met een meerderheid van twee derden van de stemmen van de Lid-Staten moet worden genomen, kunnen de directeur en de adjunct-directeuren op advies van de Raad van Bestuur van hun functie worden ontheven.
 
 7. In afwijking van de leden 1 en 2 bedraagt de eerste ambtstermijn na de inwerkingtreding van de Overeenkomst voor de directeur vijf jaar, voor zijn eerste adjunct vier jaar en voor zijn tweede adjunct drie jaar.
 
 ##### Artikel 30. Personeel
 
-1. De directeur, de adjunct-directeuren en de personeelsleden van Europol dienen bij het uitoefenen van hun werkzaamheden de doelstelling en taken van Europol voor ogen te houden en mogen geen aanwijzingen vragen of aanvaarden van enige regering of van enig gezag, enige organisatie of persoon buiten Europol, behoudens andersluidende bepalingen in deze Overeenkomst; Titel VI van het Verdrag betreffende de Europese Unie blijft onverlet.
+1. De directeur, de adjunct-directeuren en de personeelsleden van Europol dienen bij het uitoefenen van hun werkzaamheden de doelstelling en taken van Europol voor ogen te houden en mogen geen aanwijzingen vragen of aanvaarden van enige regering of van enig gezag, enige organisatie of persoon buiten Europol, behoudens andersluidende bepalingen in deze Overeenkomst; het Verdrag betreffende de Europese Unie blijft onverlet.
 
 2. De directeur is de meerdere van de adjunct-directeuren en van de personeelsleden van Europol. Hij benoemt en ontslaat de personeelsleden. Bij de selectie van personeelsleden dient hij, behalve met de persoonlijke geschiktheid en de beroepsbekwaamheid van de gegadigden, rekening te houden met een deelname in gepaste mate van onderdanen van alle Lid-Staten en van alle officiële talen van de Europese Unie.
 
-3. De bijzonderheden worden geregeld in een statuut voor het personeel, dat volgens de procedure van Titel VI van het Verdrag betreffende de Europese Unie, na advies van de Raad van Bestuur, met eenparigheid van stemmen door de Raad wordt aangenomen.
+3. De bijzonderheden worden geregeld in een statuut voor het personeel dat, na advies van de Raad van Bestuur, met eenparigheid van stemmen door de Raad wordt aangenomen.
 
 ##### Artikel 31. Geheimhouding
 
-1. Europol en de Lid-Staten dragen er door middel van passende maatregelen zorg voor dat informatie waarvoor geheimhouding nodig is en die op grond van deze Overeenkomst ingewonnen of met Europol uitgewisseld is, beschermd wordt. Hiertoe stelt de Raad met eenparigheid van stemmen een passende regeling ter bescherming van geheime informatie vast nadat deze door de Raad van Bestuur is voorbereid en volgens de procedure van Titel VI van het Verdrag betreffende de Europese Unie aan de Raad is voorgelegd.
+1. Europol en de Lid-Staten dragen er door middel van passende maatregelen zorg voor dat informatie waarvoor geheimhouding nodig is en die op grond van deze Overeenkomst ingewonnen of met Europol uitgewisseld is, beschermd wordt. Hiertoe stelt de Raad met eenparigheid van stemmen een passende regeling ter bescherming van geheime informatie vast nadat deze door de Raad van Bestuur is voorbereid en aan de Raad is voorgelegd.
 
 2. Wanneer personen door Europol belast worden met activiteiten die een veiligheidsrisico inhouden, verplichten de Lid-Staten zich ertoe op verzoek van de directeur van Europol hun eigen onderdanen in overeenstemming met hun nationale bepalingen aan een veiligheidsonderzoek te onderwerpen en elkaar daarbij te ondersteunen. De overeenkomstig de nationale bepalingen bevoegde autoriteit stelt Europol slechts op de hoogte van het resultaat van het veiligheidsonderzoek, dat voor Europol bindend is.
 
@@ -773,15 +809,15 @@ In voorkomend geval stelt elke Lid-Staat uiterlijk op de datum van inwerkingtred
 
 ##### Artikel 34. Informatie aan het Europees Parlement
 
-1. De Voorzitter van de Raad zendt het Europees Parlement jaarlijks een bijzonder verslag over de werkzaamheden van Europol. Bij een eventuele wijziging van deze Overeenkomst wordt het Europees Parlement geraadpleegd.
+1. De Raad raadpleegt het Europees Parlement volgens de in het Verdrag betreffende de Europese Unie vastgelegde procedure over elk initiatief van een lidstaat of voorstel van de Commissie in verband met het vaststellen van de maatregelen bedoeld in [artikel 10, leden 1 en 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=III&artikel=10&z=2007-04-18&g=2007-04-18), [artikel 18, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=IV&artikel=18&z=2007-04-18&g=2007-04-18), [artikel 24, lid 7](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=IV&artikel=24&z=2007-04-18&g=2007-04-18), [artikel 26, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=V&artikel=26&z=2007-04-18&g=2007-04-18), [artikel 30, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=V&artikel=30&z=2007-04-18&g=2007-04-18), [artikel 31, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=V&artikel=31&z=2007-04-18&g=2007-04-18), en [artikel 42, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=VII&artikel=42&z=2007-04-18&g=2007-04-18), of bij een eventuele wijziging van deze overeenkomst of de bijlage daarbij.
 
-2. Ten aanzien van het Europees Parlement houdt het Voorzitterschap van de Raad of de door het Voorzitterschap aangewezen vertegenwoordiger rekening met de zwijg- en geheimhoudingsplicht.
+2. Het voorzitterschap van de Raad of zijn vertegenwoordiger kan verschijnen voor het Europees Parlement teneinde algemene vraagstukken te bespreken die verband houden met Europol. Het voorzitterschap van de Raad of zijn vertegenwoordiger kan worden bijgestaan door de directeur van Europol. Ten aanzien van het Europees Parlement houdt het voorzitterschap van de Raad of zijn vertegenwoordiger rekening met de zwijg- en geheimhoudingsplicht.
 
-3. De verplichtingen van dit artikel gelden onverminderd de rechten van de nationale parlementen, artikel K.6 van het Verdrag betreffende de Europese Unie en de algemene beginselen die uit hoofde van Titel VI van het Verdrag betreffende de Europese Unie op de betrekkingen met het Europees Parlement van toepassing zijn.
+3. De verplichtingen van dit artikel gelden onverminderd de rechten van de nationale parlementen en de algemene beginselen die uit hoofde van het Verdrag betreffende de Europese Unie op de betrekkingen met het Europees Parlement van toepassing zijn.
 
 ##### Artikel 35. Begroting
 
-1. Alle ontvangsten en uitgaven van Europol, met inbegrip van de kosten van het gemeenschappelijk controle-orgaan en van zijn overeenkomstig artikel 24 opgericht secretariaat, worden voor elk begrotingsjaar geraamd en opgenomen in de begroting; bij de begroting wordt een lijst van het aantal formatieplaatsen gevoegd. Het begrotingsjaar begint op 1 januari en sluit op 31 december.
+1. Alle ontvangsten en uitgaven van Europol, met inbegrip van de kosten van het gemeenschappelijk controle-orgaan en van zijn overeenkomstig [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=IV&artikel=24&z=2007-04-18&g=2007-04-18) opgericht secretariaat, worden voor elk begrotingsjaar geraamd en opgenomen in de begroting; bij de begroting wordt een lijst van het aantal formatieplaatsen gevoegd. Het begrotingsjaar begint op 1 januari en sluit op 31 december.
 
 Op de begroting moeten de ontvangsten en uitgaven in evenwicht zijn.
 
@@ -791,9 +827,9 @@ Samen met de begroting wordt een financiële raming voor de volgende vijf jaar o
 
 3. De directeur stelt uiterlijk op 31 maart van ieder jaar de ontwerp-begroting en de ontwerp-lijst van het aantal formatieplaatsen voor het volgende begrotingsjaar op, en legt die na controle door het begrotingscomité van Europol aan de Raad van Bestuur voor, samen met het ontwerp van de financiële raming voor de volgende vijf jaar.
 
-4. De Raad van Bestuur stelt de financiële raming voor de volgende vijf jaar vast. Het besluit van de Raad van Bestuur wordt genomen met eenparigheid van stemmen.
+4. De Raad van Bestuur stelt de financiële raming voor de volgende vijf jaar vast. Het besluit van de Raad van Bestuur wordt genomen met eenparigheid van stemmen. De financiële raming voor de volgende vijf jaar wordt aan de Raad toegezonden. Tevens zendt de Raad de raming ter kennisgeving aan het Europees Parlement toe.
 
-5. De Raad stelt volgens de procedure van Titel VI van het Verdrag betreffende de Europese Unie de begroting van Europol, na advies van de Raad van Bestuur, uiterlijk vast op 30 juni van het aan het begrotingsjaar voorafgaande jaar. Het besluit van de Raad wordt genomen met eenparigheid van stemmen. Dezelfde procedure wordt gevolgd ten aanzien van gewijzigde en aanvullende begrotingen. De goedkeuring van de begroting door de Raad houdt voor elke Lid-Staat de verplichting in om zijn financiële bijdragen binnen de aangegeven termijn ter beschikking te stellen.
+5. De Raad stelt de begroting van Europol, na advies van de Raad van Bestuur, uiterlijk vast op 30 juni van het aan het begrotingsjaar voorafgaande jaar. Het besluit van de Raad wordt genomen met eenparigheid van stemmen. Dezelfde procedure wordt gevolgd ten aanzien van gewijzigde en aanvullende begrotingen. De goedkeuring van de begroting door de Raad houdt voor elke Lid-Staat de verplichting in om zijn financiële bijdragen binnen de aangegeven termijn ter beschikking te stellen.
 
 6. De directeur voert de begroting uit overeenkomstig het in lid 9 bedoelde financieel reglement.
 
@@ -801,7 +837,7 @@ Samen met de begroting wordt een financiële raming voor de volgende vijf jaar o
 
 8. Het begrotingscomité bestaat uit één met begrotingszaken vertrouwde vertegenwoordiger per Lid-Staat. Het comité bereidt de besprekingen over financiële en begrotingsaangelegenheden voor.
 
-9. De Raad stelt volgens de procedure van Titel VI van het Verdrag betreffende de Europese Unie met eenparigheid van stemmen het financieel reglement vast, waarin met name de wijze van opstellen, wijzigen en uitvoeren van de begroting, de controle op de uitvoering van de begroting, alsmede de wijze van betaling van de financiële bijdragen van de Lid-Staten worden bepaald.
+9. De Raad stelt met eenparigheid van stemmen het financieel reglement vast, waarin met name de wijze van opstellen, wijzigen en uitvoeren van de begroting, de controle op de uitvoering van de begroting, alsmede de wijze van betaling van de financiële bijdragen van de Lid-Staten worden bepaald.
 
 ##### Artikel 36. Controle van de rekeningen
 
@@ -819,7 +855,7 @@ vastgesteld.
 
 De eventuele kosten van de financiële controle komen ten laste van de in artikel 35 bedoelde begroting.
 
-3. Elk jaar legt het gemeenschappelijk controlecomité volgens de procedure van Titel VI van het Verdrag betreffende de Europese Unie aan de Raad een controleverslag voor over het afgelopen boekjaar, nadat de directeur en de financiële controleur daarover advies hebben kunnen uitbrengen, en nadat de Raad van Bestuur daaraan een bespreking heeft gewijd.
+3. Elk jaar legt het gemeenschappelijk controlecomité aan de Raad een controleverslag voor over het afgelopen boekjaar, nadat de directeur en de financiële controleur daarover advies hebben kunnen uitbrengen, en nadat de Raad van Bestuur daaraan een bespreking heeft gewijd.
 
 4. De directeur verstrekt de leden van het gemeenschappelijk controlecomité alle inlichtingen en bijstand die voor de vervulling van hun taak vereist zijn.
 
@@ -845,15 +881,15 @@ De bepalingen betreffende de huisvesting van Europol in het land van de zetel en
 
 1. De contractuele aansprakelijkheid van Europol wordt beheerst door het recht dat van toepassing is op het betrokken contract.
 
-2 In het kader van zijn niet-contractuele aansprakelijkheid is Europol, los van enige aansprakelijkheid overeenkomstig artikel 38, verplicht de door zijn organen, adjunct-directeuren of personeelsleden bij de uitoefening van hun functie veroorzaakte schade te vergoeden in de mate waarin bovengenoemden daarvoor verantwoordelijk zijn. Deze bepaling sluit het op de nationale wetgeving van de Lid-Staten gebaseerde recht op andere schadeloosstelling niet uit.
+2. In het kader van zijn niet-contractuele aansprakelijkheid is Europol, los van enige aansprakelijkheid overeenkomstig [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=VI&artikel=38&z=2007-04-18&g=2007-04-18), verplicht de door zijn organen, adjunct-directeuren of personeelsleden bij de uitoefening van hun functie veroorzaakte schade te vergoeden in de mate waarin bovengenoemden daarvoor verantwoordelijk zijn. Deze bepaling sluit het op de nationale wetgeving van de Lid-Staten gebaseerde recht op andere schadeloosstelling niet uit.
 
 3. De betrokkene kan ten aanzien van Europol eisen dat bepaalde handelingen worden stopgezet of ongedaan gemaakt.
 
-4. De desbetreffende bepalingen van het Verdrag van Brussel van 27 september 1968 inzake de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken, zoals later aangepast bij toetredingsverdragen, zijn van toepassing om uit te maken welke nationale rechter bevoegd is om kennis te nemen van geschillen omtrent de in dit artikel bedoelde aansprakelijkheid van Europol.
+4. De desbetreffende bepalingen van [Verordening (EG) nr. 44/2001](32001R0044) van de Raad van 22 december 2000 betreffende de rechterlijke bevoegdheid, de erkenning en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken, zijn van toepassing om uit te maken welke nationale rechter bevoegd is om kennis te nemen van geschillen omtrent de in dit artikel bedoelde aansprakelijkheid van Europol.
 
 ##### Artikel 40. Regeling van geschillen
 
-1. Geschillen tussen de Lid-Staten over de uitlegging of de toepassing van deze Overeenkomst moeten, met het oog op een oplossing, in een eerste fase in de Raad worden besproken volgens de procedure van Titel VI van het Verdrag betreffende de Europese Unie.
+1. Geschillen tussen de Lid-Staten over de uitlegging of de toepassing van deze Overeenkomst moeten, met het oog op een oplossing, in een eerste fase in de Raad worden besproken.
 
 2. Indien binnen zes maanden geen oplossing is gevonden, gaan de Lid-Staten die partij zijn bij het geschil in onderlinge overeenstemming een verbintenis aan betreffende de wijze waarop het geschil zal worden geregeld.
 
@@ -865,23 +901,25 @@ De bepalingen betreffende de huisvesting van Europol in het land van de zetel en
 
 2. Het Koninkrijk der Nederlanden en de andere Lid-Staten stellen op gelijke wijze de voorrechten en immuniteiten vast die nodig zijn voor een goede taakvervulling van de door de andere Lid-Staten afgevaardigde verbindingsofficieren, alsmede voor de leden van hun familie, in de Staat waar Europol gevestigd is.
 
-3. Het in lid 1 bedoelde Protocol wordt door de Raad met eenparigheid van stemmen volgens de procedure van Titel VI van het Verdrag betreffende de Europese Unie vastgesteld en door de Lid-Staten overeenkomstig hun onderscheiden grondwettelijke bepalingen aangenomen.
+3. Het in lid 1 bedoelde Protocol wordt door de Raad met eenparigheid van stemmen vastgesteld en door de Lid-Staten overeenkomstig hun onderscheiden grondwettelijke bepalingen aangenomen.
 
 ## Titel VII. SLOTBEPALINGEN
 
 ##### Artikel 42. Betrekkingen met derde Staten en instanties
 
-1. Indien dit voor de vervulling van de in artikel 3 omschreven taken dienstig is, vestigt en onderhoudt Europol met derde instanties als bedoeld in artikel 10, lid 4, punten 1 tot en met 3, samenwerkingsverbanden. De Raad van Bestuur stelt hiervoor met eenparigheid van stemmen een regeling op. Artikel 10, leden 4 en 5, en artikel 18, lid 2, blijven onverlet; persoonsgegevens kunnen uitsluitend met inachtneming van de Titels II tot en met IV van deze Overeenkomst worden uitgewisseld.
+1. Indien dit voor de vervulling van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=I&artikel=3&z=2007-04-18&g=2007-04-18) omschreven taken dienstig is, vestigt en onderhoudt Europol met derde instanties als bedoeld in [artikel 10, lid 4, punten 1 tot en met 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=III&artikel=10&z=2007-04-18&g=2007-04-18), samenwerkingsverbanden. De Raad van Bestuur stelt hiervoor met eenparigheid van stemmen een regeling op. [Artikel 10, leden 4 en 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=III&artikel=10&z=2007-04-18&g=2007-04-18), en [artikel 18, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=IV&artikel=18&z=2007-04-18&g=2007-04-18), blijven onverlet; persoonsgegevens kunnen uitsluitend met inachtneming van de [Titels II tot en met IV](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=II&z=2007-04-18&g=2007-04-18) van deze Overeenkomst worden uitgewisseld.
 
-2. Indien dit voor de vervulling van de in artikel 3 omschreven taken nodig is, kan Europol voorts betrekkingen aangaan en onderhouden met derde Staten en instanties als bedoeld in artikel 10, lid 4, punten 4, 5, 6 en 7. Voor de in de eerste zin genoemde betrekkingen stelt de Raad, na advies van de Raad van Bestuur, volgens de procedure van Titel VI van het Verdrag betreffende de Europese Unie met eenparigheid van stemmen een regeling op. Lid 1, derde zin, is van overeenkomstige toepassing.
+2. Indien dit voor de vervulling van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=I&artikel=3&z=2007-04-18&g=2007-04-18) omschreven taken nodig is, kan Europol voorts betrekkingen aangaan en onderhouden met derde Staten en instanties als bedoeld in artikel [10, lid 4, punten 4, 5, 6 en 7](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=III&artikel=10&z=2007-04-18&g=2007-04-18). Voor de in de eerste zin genoemde betrekkingen stelt de Raad, na advies van de Raad van Bestuur, met eenparigheid van stemmen een regeling op. Lid 1, derde zin, is van overeenkomstige toepassing.
+
+3. Voor zover dat nodig is met het oog op zijn taken en doelstellingen, alsmede rekening houdend met de noodzaak dubbel werk te vermijden, stelt Europol een blijvende nauwe samenwerking met Eurojust in. De wezenlijke elementen van deze samenwerking worden in detail geregeld in een overeenkomst die wordt vastgesteld in overeenstemming met deze overeenkomst en de maatregelen ter uitvoering ervan.
 
 ##### Artikel 43. Wijziging van de Overeenkomst
 
-1. De Raad neemt volgens de procedure van Titel VI van het Verdrag betreffende de Europese Unie op initiatief van een Lid-Staat – de Raad van Bestuur gehoord – in het kader van artikel K.1, punt 9, van het Verdrag betreffende de Europese Unie, met eenparigheid van stemmen een besluit over wijzigingen in deze Overeenkomst, waarvan hij de aanneming door de Lid-Staten overeenkomstig hun onderscheiden grondwettelijke bepalingen aanbeveelt.
+1. De Raad neemt op initiatief van een Lid-Staat – de Raad van Bestuur gehoord – in het kader van het Verdrag betreffende de Europese Unie, met eenparigheid van stemmen een besluit over wijzigingen in deze Overeenkomst, waarvan hij de aanneming door de Lid-Staten overeenkomstig hun onderscheiden grondwettelijke bepalingen aanbeveelt.
 
-2. De wijzigingen treden overeenkomstig artikel 45, lid 2, van deze Overeenkomst in werking.
+2. De wijzigingen treden overeenkomstig [artikel 45, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=VII&artikel=45&z=2007-04-18&g=2007-04-18), van deze Overeenkomst in werking.
 
-3. De Raad kan evenwel met eenparigheid van stemmen besluiten om op voorstel van een Lid-Staat en na onderzoek door de Raad van Bestuur, volgens de procedure van Titel VI van het Verdrag betreffende de Europese Unie, de omschrijvingen van de in de bijlage genoemde vormen van criminaliteit te verrijken, te wijzigen of aan te vullen. Hij kan ook besluiten voor deze vormen van criminaliteit nieuwe omschrijvingen op te nemen.
+3. De Raad kan evenwel met eenparigheid van stemmen besluiten, nadat de raad van bestuur de zaak besproken heeft, de bijlage bij deze overeenkomst te wijzigen door andere vormen van ernstige internationale criminaliteit toe te voegen of de reeds opgenomen omschrijvingen te wijzigen.
 
 4. De Secretaris-Generaal van de Raad van de Europese Unie stelt alle Lid-Staten in kennis van het tijdstip waarop de wijzigingen in werking treden.
 
@@ -897,7 +935,7 @@ Ten aanzien van deze Overeenkomst zijn geen voorbehouden toegelaten.
 
 3. Deze Overeenkomst treedt in werking op de eerste dag van de maand die volgt op een periode van drie maanden na de in lid 2 beoogde kennisgeving door de Staat die op de datum van aanneming door de Raad van de akte tot vaststelling van deze Overeenkomst lid is van de Europese Unie en die als laatste deze formaliteit vervult.
 
-4. Onverminderd lid 2 vangt Europol niet eerder met zijn in deze Overeenkomst vastgelegde werkzaamheden aan dan na de inwerkingtreding van het laatste van de besluiten als bedoeld in [artikel 5, lid 7](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=I&artikel=5&z=2007-03-29&g=2007-03-29), [artikel 10, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=III&artikel=10&z=2007-03-29&g=2007-03-29), [artikel 24, lid 7](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=IV&artikel=24&z=2007-03-29&g=2007-03-29), [artikel 30, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=V&artikel=30&z=2007-03-29&g=2007-03-29), [artikel 31, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=V&artikel=31&z=2007-03-29&g=2007-03-29), [artikel 35, lid 9](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=V&artikel=35&z=2007-03-29&g=2007-03-29), [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=V&artikel=37&z=2007-03-29&g=2007-03-29) en [artikel 41, leden 1 en 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=VI&artikel=41&z=2007-03-29&g=2007-03-29).
+4. Onverminderd lid 2 vangt Europol niet eerder met zijn in deze Overeenkomst vastgelegde werkzaamheden aan dan na de inwerkingtreding van het laatste van de besluiten als bedoeld in [artikel 5, lid 7](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=I&artikel=5&z=2007-04-18&g=2007-04-18), [artikel 10, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=III&artikel=10&z=2007-04-18&g=2007-04-18), [artikel 24, lid 7](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=IV&artikel=24&z=2007-04-18&g=2007-04-18), [artikel 30, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=V&artikel=30&z=2007-04-18&g=2007-04-18), [artikel 31, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=V&artikel=31&z=2007-04-18&g=2007-04-18), [artikel 35, lid 9](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=V&artikel=35&z=2007-04-18&g=2007-04-18), [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=V&artikel=37&z=2007-04-18&g=2007-04-18) en [artikel 41, leden 1 en 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=VI&artikel=41&z=2007-04-18&g=2007-04-18).
 
 5. Met de aanvang van de werkzaamheden van Europol eindigen de activiteiten van de Europol-Drugseenheid overeenkomstig het gemeenschappelijk optreden van de Raad van 10 maart 1995 betreffende de Europol-Drugseenheid. Tegelijkertijd wordt Europol eigenaar van de uitrusting die uit de gemeenschappelijke begroting van de Europol-Drugseenheid is gefinancierd, door de Europol-Drugseenheid is ontwikkeld of vervaardigd dan wel haar door het land van de zetel voor blijvend kosteloos gebruik ter beschikking is gesteld, alsmede van alle archieven en zelfstandig beheerde gegevensbestanden.
 
@@ -925,13 +963,13 @@ GEDAAN te Brussel, de zesentwintigste juli negentienhonderd vijfennegentig, in �
 
 ##### Artikel 3 bis. Deelname aan gemeenschappelijke onderzoeksteams
 
-1. Europol-functionarissen kunnen ter ondersteuning deel uitmaken van gemeenschappelijke onderzoeksteams, met inbegrip van teams die zijn opgezet overeenkomstig artikel 1 van het kaderbesluit van 13 juni 2002 inzake gemeenschappelijke onderzoeksteamsPB L 162 van 20.6.2002, blz. 1. of overeenkomstig artikel 13 van de Overeenkomst van 29 mei 2000 betreffende de wederzijdse rechtshulp in strafzaken tussen de lidstaten van de Europese Unie, voorzover deze teams strafbare feiten onderzoeken waarvoor Europol uit hoofde van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=I&artikel=2&z=2007-03-29&g=2007-03-29) bevoegd is. Europol-functionarissen kunnen, binnen de grenzen van de wet van de lidstaat waar het onderzoeksteam optreedt en conform het in lid 2 bedoelde akkoord, deelnemen aan alle acties en informatie uitwisselen met alle leden van het gemeenschappelijk onderzoeksteam, overeenkomstig lid 3. Zij nemen echter niet deel aan de uitvoering van dwangmaatregelen.PB L 162 van 20.6.2002, blz. 1. of overeenkomstig artikel 13 van de Overeenkomst van 29 mei 2000 betreffende de wederzijdse rechtshulp in strafzaken tussen de lidstaten van de Europese Unie, voorzover deze teams strafbare feiten onderzoeken waarvoor Europol uit hoofde van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=I&artikel=2&z=2007-03-29&g=2007-03-29) bevoegd is. Europol-functionarissen kunnen, binnen de grenzen van de wet van de lidstaat waar het onderzoeksteam optreedt en conform het in lid 2 bedoelde akkoord, deelnemen aan alle acties en informatie uitwisselen met alle leden van het gemeenschappelijk onderzoeksteam, overeenkomstig lid 3. Zij nemen echter niet deel aan de uitvoering van dwangmaatregelen.
+1. Europol-functionarissen kunnen ter ondersteuning deel uitmaken van gemeenschappelijke onderzoeksteams, met inbegrip van teams die zijn opgezet overeenkomstig artikel 1 van het kaderbesluit van 13 juni 2002 inzake gemeenschappelijke onderzoeksteamsPB L 162 van 20.6.2002, blz. 1. of overeenkomstig artikel 13 van de Overeenkomst van 29 mei 2000 betreffende de wederzijdse rechtshulp in strafzaken tussen de lidstaten van de Europese Unie, voorzover deze teams strafbare feiten onderzoeken waarvoor Europol uit hoofde van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=I&artikel=2&z=2007-04-18&g=2007-04-18) bevoegd is. Europol-functionarissen kunnen, binnen de grenzen van de wet van de lidstaat waar het onderzoeksteam optreedt en conform het in lid 2 bedoelde akkoord, deelnemen aan alle acties en informatie uitwisselen met alle leden van het gemeenschappelijk onderzoeksteam, overeenkomstig lid 3. Zij nemen echter niet deel aan de uitvoering van dwangmaatregelen.PB L 162 van 20.6.2002, blz. 1. of overeenkomstig artikel 13 van de Overeenkomst van 29 mei 2000 betreffende de wederzijdse rechtshulp in strafzaken tussen de lidstaten van de Europese Unie, voorzover deze teams strafbare feiten onderzoeken waarvoor Europol uit hoofde van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=I&artikel=2&z=2007-04-18&g=2007-04-18) bevoegd is. Europol-functionarissen kunnen, binnen de grenzen van de wet van de lidstaat waar het onderzoeksteam optreedt en conform het in lid 2 bedoelde akkoord, deelnemen aan alle acties en informatie uitwisselen met alle leden van het gemeenschappelijk onderzoeksteam, overeenkomstig lid 3. Zij nemen echter niet deel aan de uitvoering van dwangmaatregelen.
 
 2. De administratieve uitvoering van de deelname van Europol-functionarissen aan een gemeenschappelijk onderzoeksteam wordt vastgelegd in een akkoord tussen de directeur van Europol en de bevoegde autoriteiten van de lidstaten die aan het gemeenschappelijk onderzoeksteam deelnemen, in overleg met de nationale eenheden. De regels waaraan akkoorden moeten voldoen, worden vastgesteld door de raad van bestuur van Europol, die met een meerderheid van twee derde van de stemmen van zijn leden besluit.
 
 3. De Europol-functionarissen verrichten hun taken onder het gezag van de leider van het team, onder de in het in lid 2 bedoelde akkoord gestelde voorwaarden.
 
-4. In overeenstemming met het in de leden 2 en 3 bedoelde akkoord kunnen Europol-functionarissen rechtstreeks in verbinding staan met de leden van het gemeenschappelijk onderzoeksteam en, in overeenstemming met deze overeenkomst, aan de teamleden en de gedetacheerde teamleden informatie verstrekken uit een van de bestanddelen van de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=I&artikel=6&z=2007-03-29&g=2007-03-29) bedoelde geautomatiseerde gegevensbestanden. In geval van een rechtstreekse verbinding worden de nationale eenheden van de lidstaten die aan het team deelnemen alsook de lidstaten die de informatie verstrekt hebben, hiervan terzelfder tijd door Europol in kennis gesteld.
+4. In overeenstemming met het in de leden 2 en 3 bedoelde akkoord kunnen Europol-functionarissen rechtstreeks in verbinding staan met de leden van het gemeenschappelijk onderzoeksteam en, in overeenstemming met deze overeenkomst, aan de teamleden en de gedetacheerde teamleden informatie verstrekken uit een van de bestanddelen van de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=I&artikel=6&z=2007-04-18&g=2007-04-18) bedoelde geautomatiseerde gegevensbestanden. In geval van een rechtstreekse verbinding worden de nationale eenheden van de lidstaten die aan het team deelnemen alsook de lidstaten die de informatie verstrekt hebben, hiervan terzelfder tijd door Europol in kennis gesteld.
 
 5. Informatie die door een Europol-functionaris als deelnemer aan een gemeenschappelijk onderzoeksteam is verkregen, kan met instemming en onder de verantwoordelijkheid van de lidstaat die de informatie heeft verstrekt onder de in deze overeenkomst vastgestelde voorwaarden in ieder bestanddeel van het geautomatiseerde gegevensbestand worden opgenomen.
 
@@ -963,9 +1001,35 @@ GEDAAN te Brussel, de zesentwintigste juli negentienhonderd vijfennegentig, in �
 
 ##### Artikel 39 bis. Aansprakelijkheid in verband met de deelname van Europol aan gemeenschappelijke onderzoeksteams
 
-1. De lidstaat op het grondgebied waarvan overeenkomstig [artikel 3 bis](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=I&artikel=3_bis&z=2007-03-29&g=2007-03-29) optredende Europol-functionarissen schade veroorzaken tijdens hun deelname aan operationele handelingen vergoedt die schade op dezelfde wijze als schade die door zijn eigen functionarissen is toegebracht.
+1. De lidstaat op het grondgebied waarvan overeenkomstig [artikel 3 bis](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=I&artikel=3_bis&z=2007-04-18&g=2007-04-18) optredende Europol-functionarissen schade veroorzaken tijdens hun deelname aan operationele handelingen vergoedt die schade op dezelfde wijze als schade die door zijn eigen functionarissen is toegebracht.
 
 2. Tenzij de betrokken lidstaat instemt met een andere regeling, betaalt Europol het volledige bedrag terug dat die lidstaat op grond van de in lid 1 bedoelde schade aan de slachtoffers of hun rechtverkrijgenden heeft uitgekeerd. Geschillen tussen die lidstaat en Europol over het principe of het bedrag van de terugbetaling worden voorgelegd aan de raad van bestuur, die met een tweederde meerderheid uitspraak doet.
+
+## Titel VII. SLOTBEPALINGEN
+
+TEN BLIJKE WAARVAN de ondergetekende gevolmachtigden hun handtekening onder deze Overeenkomst hebben gesteld.
+
+GEDAAN te Brussel, de zesentwintigste juli negentienhonderd vijfennegentig, in één exemplaar, in de Deense, de Duitse, de Engelse, de Finse, de Franse, de Griekse, de Ierse, de Italiaanse, de Nederlandse, de Portugese, de Spaanse en de Zweedse taal, zijnde alle teksten gelijkelijk authentiek, dat wordt neergelegd in het archief van het Secretariaat-Generaal van de Raad van de Europese Unie.
+
+##### Artikel 6 bis. Informatieverwerking door Europol
+
+Ten behoeve van de uitvoering van zijn taken kan Europol tevens gegevens verwerken om na te gaan of bepaalde gegevens relevant zijn voor zijn taken en of deze later in de geautomatiseerde gegevensbestanden bedoeld in [artikel 6, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=I&artikel=6&z=2007-04-18&g=2007-04-18), kunnen worden opgenomen.
+
+De overeenkomstsluitende partijen, in het kader van de Raad bijeen, stellen met inachtneming van de beginselen waarnaar verwezen wordt in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=IV&artikel=14&z=2007-04-18&g=2007-04-18) en met een tweederde meerderheid van de stemmen de voorwaarden vast voor de verwerking van die gegevens, met name op het vlak van de toegang tot en het gebruik ervan, alsmede de termijnen voor het opslaan en verwijderen van die gegevens, welke niet meer dan zes maanden mogen bedragen. De raad van bestuur bereidt het besluit van de overeenkomstsluitende partijen voor en raadpleegt het in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&titeldeel=IV&artikel=24&z=2007-04-18&g=2007-04-18) bedoelde gemeenschappelijk controleorgaan.";
+
+## Titel II. Informatiesysteem
+
+## Titel III. Werkbestanden voor analyse
+
+## Titel IV. Gemeenschappelijke voorwaarden voor informatieverwerking
+
+## Titel V. RECHTSPOSITIE, ORGANISATIE EN FINANCIËLE BEPALINGEN
+
+##### Artikel 32 bis. Recht van toegang tot documenten van Europol
+
+Op voorstel van de directeur van Europol stelt de raad van bestuur met een meerderheid van tweederde van de stemmen regels vast voor de toegang tot documenten van Europol voor iedere burger van de Unie en iedere natuurlijke of rechtspersoon met verblijfplaats of statutaire zetel in een lidstaat, rekening houdend met de beginselen en beperkingen die zijn neergelegd in de op grond van [artikel 255 van het Verdrag tot oprichting van de Europese Gemeenschap](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=255) vastgestelde verordening van het Europees Parlement en de Raad inzake de toegang van het publiek tot documenten van het Europees Parlement, de Raad en de Commissie.
+
+## Titel VI. AANSPRAKELIJKHEID EN RECHTSBESCHERMING
 
 ## Titel VII. SLOTBEPALINGEN
 
