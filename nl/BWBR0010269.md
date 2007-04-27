@@ -4,7 +4,7 @@ identifier: "BWBR0010269"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-02-07"
-last_updated: "2007-03-01"
+last_updated: "2007-04-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010269"
 soort: "ministeriele-regeling"
@@ -37,7 +37,7 @@ entry_into_force: "2007-02-22"
 
 Handelende in overeenstemming met de Staatssecretaris van Landbouw, Natuurbeheer en Visserij;
 
-Gelet op: artikel 2 van [verordening (EEG) nr. 737/90](31990R0737) van de Raad van de Europese Unie van 22 maart 1990 betreffende de voorwaarden voor de invoer van landbouwproducten van oorsprong uit derde landen ingevolge het ongeluk in de kerncentrale van Tsjernobyl (PbEG L 82), artikel 2, tweede lid, van [verordening (EG) nr. 194/97](31997R0194) van de Commissie van 31 januari 1997 tot vaststelling van maximumgehalten aan bepaalde verontreinigingen in levensmiddelen (PbEG L 31), [richtlijn nr. 98/53/EG](31998L0053) van de Commissie van 16 juli 1998 tot vaststelling van bemonsteringswijzen en analysemethoden voor de officiële controle op de maximumgehalten aan bepaalde verontreinigingen in levensmiddelen (PbEG L 201), [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010269&artikel=12&z=2007-03-01&g=2007-03-01), en 13, van het [Warenwetbesluit Bereiding en behandeling van levensmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0005758), alsmede [artikel 1 van het Residubesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002449&artikel=1);
+Gelet op: artikel 2 van [verordening (EEG) nr. 737/90](31990R0737) van de Raad van de Europese Unie van 22 maart 1990 betreffende de voorwaarden voor de invoer van landbouwproducten van oorsprong uit derde landen ingevolge het ongeluk in de kerncentrale van Tsjernobyl (PbEG L 82), artikel 2, tweede lid, van [verordening (EG) nr. 194/97](31997R0194) van de Commissie van 31 januari 1997 tot vaststelling van maximumgehalten aan bepaalde verontreinigingen in levensmiddelen (PbEG L 31), [richtlijn nr. 98/53/EG](31998L0053) van de Commissie van 16 juli 1998 tot vaststelling van bemonsteringswijzen en analysemethoden voor de officiële controle op de maximumgehalten aan bepaalde verontreinigingen in levensmiddelen (PbEG L 201), [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010269&artikel=12&z=2007-04-27&g=2007-04-27), en 13, van het [Warenwetbesluit Bereiding en behandeling van levensmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0005758), alsmede [artikel 1 van het Residubesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002449&artikel=1);
 
 Besluit:
 
@@ -126,11 +126,11 @@ Vervallen
 
 ##### Artikel 13
 
-1. Deze regeling treedt in werking met ingang van 1 februari 1999, met uitzondering van [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010269&artikel=10&z=2007-03-01&g=2007-03-01), dat in werking treedt met ingang van 30 december 2000.
+1. Deze regeling treedt in werking met ingang van 1 februari 1999, met uitzondering van [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010269&artikel=10&z=2007-04-27&g=2007-04-27), dat in werking treedt met ingang van 30 december 2000.
 
-2. Een wijziging van [richtlijn 2004/16/EG](32004L0016) gaat voor de toepassing van [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010269&artikel=10&z=2007-03-01&g=2007-03-01), gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
+2. Een wijziging van [richtlijn 2004/16/EG](32004L0016) gaat voor de toepassing van [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010269&artikel=10&z=2007-04-27&g=2007-04-27), gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
 
-3. Een wijziging van [richtlijn 2005/10/EG](32005L0010) gaat voor de toepassing van [artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010269&artikel=10&z=2007-03-01&g=2007-03-01), gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
+3. Een wijziging van [richtlijn 2005/10/EG](32005L0010) gaat voor de toepassing van [artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010269&artikel=10&z=2007-04-27&g=2007-04-27), gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
 
 ##### Artikel 14
 
@@ -156,7 +156,7 @@ De hoeveelheid benzo(a)pyreen is ten hoogste:
 
 ##### Artikel 1a
 
-Het is verboden te handelen in strijd met de artikelen 1, eerste lid, 3, en 5, van verordening (EG) 1881/2006.
+Vervallen
 
 ## Bijlage II
 
