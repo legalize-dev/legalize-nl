@@ -4,7 +4,7 @@ identifier: "BWBR0021840"
 country: "nl"
 rank: "pbo"
 publication_date: "2007-04-29"
-last_updated: "2007-03-01"
+last_updated: "2007-04-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0021840"
 soort: "pbo"
@@ -38,8 +38,6 @@ entry_into_force: "2007-04-29"
 Gelet op de [artikelen 95](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=95) en [126, eerste en vierde lid, van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126) en de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0016234&artikel=8) en [19 van het Instellingsbesluit akkerbouwproductschappen](https://wetten.overheid.nl/jci1.3:c:BWBR0016234&artikel=19);
 
 Besluit:
-
-Werkt terug met uitzondering van de toepassing van de Verordening GZP algemene bepalingen 2003.
 
 Werkt terug met uitzondering van de toepassing van de Verordening GZP algemene bepalingen 2003.
 
@@ -92,13 +90,13 @@ en overigens
 
 ##### Artikel 3
 
-De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0021840&paragraaf=2&artikel=2&z=2007-04-29&g=2007-03-01) bedoelde heffing is bestemd voor het Fonds zaaizaad van voedergewassen 2003.
+De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0021840&paragraaf=2&artikel=2&z=2007-04-29&g=2007-04-29) bedoelde heffing is bestemd voor het Fonds zaaizaad van voedergewassen 2003.
 
 #### § 3. Ambtshalve heffing
 
 ##### Artikel 4
 
-1. Indien de ondernemer de gegevens, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0021840&paragraaf=2&artikel=2&z=2007-04-29&g=2007-03-01) niet, niet tijdig of naar het oordeel van de secretaris niet volledig heeft verstrekt, is de secretaris bevoegd namens het bestuur de verschuldigde heffing voor het betreffende jaar ambtshalve bij aanslag vast te stellen.
+1. Indien de ondernemer de gegevens, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0021840&paragraaf=2&artikel=2&z=2007-04-29&g=2007-04-29) niet, niet tijdig of naar het oordeel van de secretaris niet volledig heeft verstrekt, is de secretaris bevoegd namens het bestuur de verschuldigde heffing voor het betreffende jaar ambtshalve bij aanslag vast te stellen.
 
 2. Indien de heffingsplichtige binnen 21 dagen na ontvangst van de heffingsaanslag bedoeld in het eerste lid, alsnog de gevraagde gegevens verstrekt wordt de aanvankelijk vastgestelde heffing ingetrokken en een nieuwe heffing vastgesteld op basis van de door hem verstrekte gegevens.
 
@@ -118,7 +116,7 @@ Het productschap kan besluiten nota’s van minder dan € 50,– samen te voege
 
 ##### Artikel 7
 
-Aan de ondernemer die niet of niet geheel binnen de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0021840&paragraaf=4&artikel=5&z=2007-04-29&g=2007-03-01) gestelde termijn heeft betaald, kan door het productschap de wettelijke interest over het niet betaalde bedrag in rekening worden gebracht, te berekenen vanaf de dag waarop de betaling uiterlijk dient te zijn verricht ingevolge de aanmaning bedoeld in [artikel 127, tweede lid, van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=127).
+Aan de ondernemer die niet of niet geheel binnen de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0021840&paragraaf=4&artikel=5&z=2007-04-29&g=2007-04-29) gestelde termijn heeft betaald, kan door het productschap de wettelijke interest over het niet betaalde bedrag in rekening worden gebracht, te berekenen vanaf de dag waarop de betaling uiterlijk dient te zijn verricht ingevolge de aanmaning bedoeld in [artikel 127, tweede lid, van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=127).
 
 #### § 5. Slotbepalingen
 
