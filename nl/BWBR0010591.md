@@ -4,7 +4,7 @@ identifier: "BWBR0010591"
 country: "nl"
 rank: "wet"
 publication_date: "2025-11-21"
-last_updated: "2004-09-01"
+last_updated: "2007-05-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010591"
 soort: "wet"
@@ -64,6 +64,8 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - 3. Op computerprogramma's die worden gebruikt bij de productie of de werking van met elektronische middelen toegankelijke databanken zijn de desbetreffende bepalingen in de [Auteurswet 1912](https://wetten.overheid.nl/jci1.3:c:BWBR0001886) van toepassing.
 
+Behoudens bewijs van het tegendeel wordt voor de producent van een databank gehouden degene die in de databank als zodanig is aangeduid, of bij gebreke van een dergelijke aanduiding, degene die bij de openbaarmaking van de databank als producent daarvan is bekend gemaakt door degene die haar openbaar maakt.
+
 - 1. De producent van een databank heeft het uitsluitende recht om toestemming te verlenen voor de volgende handelingen:
 
 - a. het opvragen of hergebruiken van het geheel of een in kwalitatief of kwantitatief opzicht substantieel deel van de inhoud van de databank;
@@ -75,6 +77,10 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 - 3. Indien een exemplaar van een databank door of met toestemming van de producent of zijn rechtverkrijgende voor de eerste maal in het verkeer is gebracht door eigendomsoverdracht in een van de lidstaten van de Europese Unie of in een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte van 2 mei 1992, vormt anderszins in het verkeer brengen in die staten van dat exemplaar geen inbreuk op het in het eerste lid bedoelde recht.
 
 - 4. Het in het eerste lid bedoelde recht gaat over bij erfopvolging en is vatbaar voor gehele of gedeeltelijke overdracht. De levering vereist voor gehele of gedeeltelijke overdracht geschiedt door een daartoe bestemde akte.
+
+- 5. De rechter kan op vordering van de producent, tussenpersonen wier diensten door derden worden gebruikt om inbreuk op het in het eerste lid bedoelde recht van de producent te maken, bevelen de diensten die gebruikt worden om die inbreuk te maken, te staken.
+
+- 6. De voorzieningenrechter kan op vordering van de producent tijdelijke voortzetting van de vermeende inbreuk op het in het eerste lid bedoelde recht toestaan onder de voorwaarde dat zekerheid wordt gesteld voor vergoeding van de door de producent geleden schade. Onder dezelfde voorwaarden kan de rechter voortzetting van de dienstverlening door de tussenpersoon als bedoeld in het vijfde lid toestaan.
 
 - 1. De producent van een databank welke op enigerlei wijze aan het publiek ter beschikking is gesteld mag de rechtmatige gebruiker van die databank niet verhinderen in kwalitatief of kwantitatief opzicht niet-substantiële delen van de inhoud ervan op te vragen of te hergebruiken. Voorzover de rechtmatige gebruiker toestemming heeft om slechts een deel van de databank op te vragen of te hergebruiken, geldt de eerste zin slechts voor dat deel.
 
@@ -104,13 +110,25 @@ De rechtmatige gebruiker van een databank die op enigerlei wijze aan het publiek
 
 Degene die opzettelijk en zonder daartoe gerechtigd te zijn elektronische informatie betreffende het beheer van rechten verwijdert of wijzigt, of databanken waaruit op ongeoorloofde wijze dergelijke informatie is verwijderd of waarin op ongeoorloofde wijze dergelijke informatie is gewijzigd, verspreidt, ter verspreiding invoert, uitzendt of anderszins openbaar maakt, en weet of redelijkerwijs behoort te weten dat hij zodoende aanzet tot inbreuk op het databankenrecht, dan wel een dergelijke inbreuk mogelijk maakt, vergemakkelijkt of verbergt, handelt onrechtmatig.
 
-- 1. Inbreuk op het in artikel 5a, eerste en tweede lid, of artikel 5b bepaalde, geeft de bevoegdheid inrichtingen, producten en onderdelen als bedoeld in artikel 5a of databanken als bedoeld in artikel 5b als zijn eigendom op te eisen dan wel daarvan de vernietiging of onbruikbaarmaking te vorderen. Gelijke bevoegdheid bestaat ten aanzien van roerende zaken die geen registergoederen zijn en die rechtstreeks hebben gediend tot de vervaardiging van de inrichtingen, producten en onderdelen, bedoeld in de eerste zin.
+- 1. Inbreuk op het recht genoemd in artikel 2 en inbreuk op het in artikel 5a, eerste en tweede lid, of artikel 5b bepaalde, geeft de bevoegdheid het geheel of een deel van de inhoud van de databank als bedoeld in artikel 2 en inrichtingen, producten en onderdelen als bedoeld in artikel 5a of databanken als bedoeld in artikel 5b als zijn eigendom op te eisen dan wel onttrekking aan het handelsverkeer, vernietiging of onbruikbaarmaking daarvan te vorderen. Gelijke bevoegdheid bestaat ten aanzien van roerende zaken die geen registergoederen zijn en die rechtstreeks hebben gediend tot de vervaardiging van de inrichtingen, producten en onderdelen, bedoeld in de eerste zin.
 
 - 2. De bepalingen van het [Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827) betreffende beslag en executie tot afgifte van roerende zaken die geen registergoederen zijn, zijn van toepassing. Bij samenloop met een ander beslag gaat degene die beslag heeft gelegd krachtens dit artikel voor.
 
-- 3. De rechter kan gelasten dat de afgifte niet plaatsvindt dan tegen een door hem vast te stellen door de eiser te betalen vergoeding.
+- 3. De maatregelen bedoeld in het eerste lid worden op kosten van de gedaagde uitgevoerd, tenzij bijzondere redenen dit beletten.
 
 - 4. Tenzij anders is overeengekomen, heeft de licentienemer het recht de uit het eerste lid voortvloeiende bevoegdheden uit te oefenen, voor zover deze strekken tot bescherming van de rechten waarvan de uitoefening hem is toegestaan.
+
+- 5. De rechter kan op vordering van de producent degene die inbreuk op diens recht heeft gemaakt, bevelen al hetgeen hem bekend is omtrent de herkomst en distributiekanalen van de databanken en delen van databanken die inbreuk maken, aan de gerechtigde mee te delen en alle daarop betrekking hebbende gegevens aan deze te verstrekken. Onder dezelfde voorwaarden kan dit bevel worden gegeven aan een derde die op commerciële schaal inbreukmakende databanken of delen van databanken in zijn bezit heeft of gebruikt, die op commerciële schaal diensten verleent die bij de inbreuk worden gebruikt, of die door een van deze derden is aangewezen als zijnde betrokken bij de productie, fabricage of distributie van deze databanken of delen van databanken of bij het verlenen van deze diensten. Deze derde kan zich verschonen van het verstrekken van informatie die bewijs zou vormen van deelname aan een inbreuk op een recht van intellectuele eigendom door hem zelf of door de andere in [artikel 165, derde lid, Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=165) bedoelde personen.
+
+- 6. Bij de beoordeling van de maatregelen die de producent of diens licentienemer kan vorderen ingevolge de bevoegdheden, genoemd in het eerste lid, houdt de rechter rekening met de noodzakelijke evenredigheid tussen de ernst van de inbreuk en de gevorderde maatregelen en met de belangen van derden.
+
+- 1. Naast schadevergoeding kan de producent van de databank of zijn rechtverkrijgende vorderen dat degene die inbreuk op het databankrecht heeft gemaakt, wordt veroordeeld de door deze ten gevolge van de inbreuk genoten winst af te dragen en dienaangaande rekening en verantwoording af te leggen.
+
+- 2. In passende gevallen kan de rechter de schadevergoeding vaststellen als een forfaitair bedrag.
+
+- 3. De producent of diens rechtverkrijgende kan de in het eerste lid bedoelde vorderingen of een van deze ook namens of mede namens een licentienemer instellen, onverminderd de bevoegdheid van deze laatste in een al of niet namens hem of mede namens hem door de producent of diens rechtverkrijgende ingesteld geding tussen te komen om rechtstreeks de door hem geleden schade vergoed te krijgen of om zich een evenredig deel van de door de gedaagde af te dragen winst te doen toewijzen. De in het eerste lid bedoelde vorderingen of een van deze kan een licentienemer slechts instellen als hij bevoegdheid daartoe van de producent of diens rechtverkrijgende heeft bedongen.
+
+De rechter kan op vordering van de producent of zijn rechtverkrijgende gelasten dat op kosten van degene die inbreuk op diens recht heeft gemaakt passende maatregelen worden getroffen tot verspreiding van informatie over de uitspraak.
 
 - 1. Het recht, bedoeld in artikel 2, eerste lid, ontstaat op het tijdstip waarop de productie van de databank is voltooid. Het vervalt door verloop van vijftien jaar na 1 januari van het jaar volgend op het tijdstip van voltooiing.
 
@@ -142,7 +160,7 @@ Wijzigt de Auteurswet 1912.
 
 - 2. Het recht, bedoeld in artikel 2, eerste lid, vervalt in dat geval op 1 januari 2014.
 
-B. [Artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0010591&artikel=II&z=2004-09-01&g=2004-09-01) is ook van toepassing op verzamelingen als bedoeld in [artikel 10, derde lid, van de Auteurswet 1912](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=10) die vóór 1 januari 1998 gemaakt zijn, met dien verstande dat aan vóór die datum verrichte handelingen en verkregen rechten geen afbreuk wordt gedaan.
+B. [Artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0010591&artikel=II&z=2007-05-01&g=2007-05-01) is ook van toepassing op verzamelingen als bedoeld in [artikel 10, derde lid, van de Auteurswet 1912](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=10) die vóór 1 januari 1998 gemaakt zijn, met dien verstande dat aan vóór die datum verrichte handelingen en verkregen rechten geen afbreuk wordt gedaan.
 
 C. Op verzamelingen als bedoeld in [artikel 10, derde lid, van de Auteurswet 1912](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=10) die op 27 maart 1996 behoorden tot de in [artikel 10, eerste lid, onder 1°, van de Auteurswet 1912](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=10) genoemde geschriften blijven de bepalingen in [hoofdstuk III van de Auteurswet 1912](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=III) over de duur van het auteursrecht van toepassing.
 
