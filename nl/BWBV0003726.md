@@ -4,7 +4,7 @@ identifier: "BWBV0003726"
 country: "nl"
 rank: "verdrag"
 publication_date: "2007-05-01"
-last_updated: "2005-12-09"
+last_updated: "2007-05-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0003726"
 soort: "verdrag"
@@ -96,9 +96,11 @@ Het Instituut is gevestigd te Florence.
 
 ##### Artikel 2
 
-1. Het Instituut heeft tot taak om middels activiteiten op het gebied van het hoger onderwijs en het onderzoek bij te dragen tot de uitbouw van het culturele en wetenschappelijke erfdeel van Europa, in zijn eenheid en zijn verscheidenheid. De werkzaamheden hebben tevens betrekking op de grote stromingen en de instellingen die kenmerkend zijn voor de geschiedenis en de ontwikkeling van Europa. Bij deze werkzaamheden wordt rekening gehouden met de banden met de beschavingen buiten Europa.
+1. Het Instituut heeft tot taak om middels activiteiten op het gebied van het hoger onderwijs en het onderzoek bij te dragen tot de uitbouw van het culturele en wetenschappelijke erfdeel van Europa, in zijn eenheid en zijn verscheidenheid. De werkzaamheden hebben tevens betrekking op de grote stromingen en de instellingen die kenmerkend zijn voor de geschiedenis en de ontwikkeling van Europa. Bij deze werkzaamheden wordt rekening gehouden met de culturele en taalkundige pluriformiteit van Europa en met de banden met de beschavingen buiten Europa.
 
 Deze taak wordt verricht door middel van onderwijs en onderzoek op het hoogste universitaire niveau.
+
+In het kader van het algemeen programma van zijn wetenschappelijke werkzaamheden zet het Instituut interdisciplinaire onderzoekprogramma’s op over de belangrijkste problemen waarmee de hedendaagse Europese samenleving wordt geconfronteerd, inzonderheid de problemen die verband houden met de opbouw van Europa.
 
 2. Het Instituut moet tevens een ontmoetingsplaats zijn voor de uitwisseling van ideeën en ervaringen over onderwerpen die vallen onder de studierichtingen, die tot het studie- en onderzoekterrein van het Instituut behoren.
 
@@ -174,33 +176,18 @@ De Raad van Bestuur neemt, onder de in de leden 5 en 6 vastgestelde voorwaarden,
 
 - c). de goedkeuring, op voorstel van de Academische Raad, van de hoofdlijnen van het onderwijs;
 
-- d). de vaststelling van zijn reglement van orde.
+- d). de instelling van een Raad voor Onderzoek, waarvan hij, na raadpleging van de Academische Raad, de structuur en de bevoegdheden vaststelt;
 
-7. De stemmen met betrekking tot besluiten waarvoor een gekwalificeerde meerderheid van stemmen vereist is, worden als volgt gewogen:
+- e). de oprichting en de afschaffing van interdisciplinaire centra binnen het Instituut, na raadpleging van de Academische Raad en de Raad voor Onderzoek;
 
-| België | 5 |
+- f). de vaststelling van zijn reglement van orde.
+
+7. De stemmen met betrekking tot besluiten waarvoor een gekwalificeerde meerderheid van stemmen is vereist, worden als volgt gewogen:
+
+| België Denemarken Duitsland Griekenland Spanje Frankrijk Ierland Italië Luxemburg Nederland Portugal Verenigd Koninkrijk | 5 3 10 5 8 10 3 10 2 5 5 10 |
 | --- | --- |
-| Denemarken | 3 |
-| Frankrijk | 10 |
-| Duitsland | 10 |
-| Griekenland | 5 |
-| Spanje | 8 |
-| Ierland | 3 |
-| Italië | 10 |
-| Luxemburg | 2 |
-| Nederland | 5 |
-| Oostenrijk | 4 |
-| Polen | 8 |
-| Portugal | 5 |
-| Finland | 3 |
-| Zweden | 4 |
-| Verenigd Koninkrijk | 10 |
-| Cyprus | 2 |
-| de Slowaakse Republiek | 5 |
-| Slovenië | 3 |
-| Estland | 3 |
 
-De besluiten komen tot stand wanneer zij ten minste zevenenzeventig stemmen hebben verkregen, waarbij ten minste veertien Regeringen voor stemmen.
+De besluiten komen tot stand wanneer zij ten minste vierenvijftig stemmen hebben verkregen, waarbij ten minste 8 Regeringen voor stemmen.
 
 8. Onthouding van stemming vormt geen beletsel voor het aannemen der besluiten van de Raad van Bestuur, waarvoor eenparigheid van stemmen is vereist.
 
@@ -212,13 +199,15 @@ De besluiten komen tot stand wanneer zij ten minste zevenenzeventig stemmen hebb
 
 Hij stelt het ontwerp van jaarlijkse begroting en het ontwerp van driejaarlijkse financiële ramingen op en legt deze ontwerpen, na raadpleging van de Academische Raad, aan de Raad van Bestuur voor.
 
-Hij benoemt de afdelingshoofden en de leden van het docenten-corps, aangewezen door de Academische Raad in overeenstemming met artikel 9, lid 5 sub d).
+Hij benoemt de afdelingshoofden, de directeuren van de interdisciplinaire centra en de andere leden van het docentencorps, aangewezen in overeenstemming met artikel 9, lid 5, onder e., en artikel 9, lid 2.
 
 Hij benoemt het administratieve personeel van het Instituut.
 
-3. De President van het Instituut wordt door de Raad van Bestuur gekozen uit een voordracht van drie namen, die door de Academische Raad wordt opgesteld.
+3. De President van het Instituut wordt na raadpleging van de Academische Raad gekozen door de Raad van Bestuur. De wijze waarop de samenwerking tussen de Raad van Bestuur en de Academische Raad bij de totstandkoming van dit besluit verloopt, wordt door de Raad van Bestuur na raadpleging van de Academische Raad met eenparigheid van stemmen bepaald.
 
-Hij wordt benoemd voor drie jaar. Zijn ambtstermijn kan éénmaal worden verlengd.
+De President wordt benoemd voor vijf jaar. Zijn ambtstermijn kan voor een periode van ten hoogste drie jaar worden verlengd bij besluit van de Raad van Bestuur na raadpleging van de Academische Raad genomen met eenparigheid van stemmen.
+
+In de in artikel 6, lid 5, onder a., bedoelde voorschriften worden de voorwaarden vastgesteld waaronder hij, op eigen initiatief of op initiatief van het Instituut, van zijn ambt kan worden ontheven.
 
 ##### Artikel 8
 
@@ -234,49 +223,61 @@ Hij wordt benoemd voor drie jaar. Zijn ambtstermijn kan éénmaal worden verleng
 
 De Raad wordt voorgezeten door de President van het Instituut.
 
-2. Lid van de Academische Raad zijn:
+2. Een Uitvoerend Comité, dat wordt voorgezeten door de President van het Instituut, dat wordt bijgestaan door de Algemeen Secretaris, en dat bestaat uit de President, de afdelingshoofden, de directeurs van de in artikel 11, lid 3, bedoelde centra en een vertegenwoordiger van de wetenschappelijke onderzoekers, staat de President op diens verzoek bij in de vervulling van de opdrachten van het Instituut.
 
-- a). de President van het Instituut;
+Het Uitvoerend Comité bereidt de werkzaamheden van de Academische Raad voor. Het wijst de leden van het docentencorps aan, met uitzondering van die bedoeld in lid 5, onder e. Het stelt de lijst op van de leden van de toelatingscommissie en van de eindexamencommissie.
 
-- b). de Algemeen Secretaris van het Instituut, die zonder stemrecht aan de werkzaamheden deelneemt;
+Het vervult de bijzondere taken die door de Academische Raad aan het Comité worden opgedragen.
 
-- c). de afdelingshoofden;
+Het brengt regelmatig verslag uit aan de Academische Raad en de Raad van Bestuur over de wijze waarop het zijn opdrachten heeft uitgevoerd.
 
-- d). alle of een aantal van de aan het Instituut verbonden hoogleraren;
+3. Lid van de Academische Raad zijn:
 
-- e). vertegenwoordigers van de andere leden van het docentencorps;
+- a. de President van het Instituut;
 
-- f). vertegenwoordigers van de wetenschappelijke onderzoekers.
+- b. de Algemeen Secretaris van het Instituut, die zonder stemrecht aan de werkzaamheden deelneemt;
 
-3. De Raad van Bestuur kan, onder de door hem vast te stellen voorwaarden, op grond van hun bekwaamheid aangewezen persoonlijkheden uit de verschillende categorieën van het economische, sociale en culturele leven, die onderdanen van de Overeenkomstsluitende Staten zijn, uitnodigen deel te nemen aan de werkzaamheden van de Academische Raad.
+- c. de afdelingshoofden;
 
-4. In de voorschriften vermeld in artikel 6, lid 5 sub a), worden:
+- d. de directeuren van de interdisciplinaire centra;
 
-- a). het aantal leden van de Academische Raad die de in lid 2, sub d), e), f), genoemde categorieën vertegenwoordigen, alsmede de wijze van hun benoeming en de duur van hun mandaat;
+- e. alle of een aantal van de aan het Instituut verbonden hoogleraren;
 
-- b). de voorschriften inzake meerderheid die in de Academische Raad gelden,
+- f. alle of een aantal van de aan het Instituut verbonden hoofddocenten;
 
-vastgesteld.
+- g. vertegenwoordigers van de andere leden van het docentencorps;
+
+- h. vertegenwoordigers van de wetenschappelijke onderzoekers;
+
+- i. vertegenwoordigers van de leden van andere categorieën die in het kader van het Instituut deelnemen aan de vervulling van zijn opdrachten.
+
+De Raad van Bestuur kan, onder de door hem vast te stellen voorwaarden, op grond van hun bekwaamheid aangewezen personaliteiten uit de verschillende categorieën van het economische, sociale en culturele leven, die onderdaan van een Overeenkomstsluitende Staat zijn, uitnodigen deel te nemen aan de werkzaamheden van de Academische Raad.
+
+4. In de voorschriften vermeld in artikel 6, lid 5, sub a, worden vastgesteld:
+
+- a. het aantal leden van de Academische Raad die de in lid 3, onder e, f, g, h en i, genoemde categorieën vertegenwoordigen, alsmede de wijze van hun benoeming en de duur van hun mandaat;
+
+- b. de voorschriften inzake meerderheid die in de Academische Raad van toepassing zijn;
+
+- c. de regels voor de werkwijze van het Uitvoerend Comité.
 
 5. De Academische Raad:
 
-- a). stelt de studie- en onderzoekprogramma's op;
+- a. keurt de studieprogramma’s van de afdelingen en, na raadpleging van de Raad voor Onderzoek, de onderzoekprogramma's van de afdelingen goed;
 
-- b). werkt mee aan de opstelling van het ontwerp van jaarlijkse begroting alsook van het ontwerp van driejaarlijkse financiële ramingen;
+- b. keurt, na raadpleging van de Raad voor Onderzoek, de onderzoekprogramma's van de interdisciplinaire centra goed;
 
-- c). stelt die uitvoeringsmaatregelen op het gebied van onderzoek en onderwijs vast, die niet onder de bevoegdheid van de andere organen van het Instituut ressorteren;
+- c. werkt mee aan de opstelling van het ontwerp van jaarlijkse begroting, alsook van het ontwerp van driejaarlijkse financiële ramingen;
 
-- d). wijst de afdelingshoofden, de hoogleraren en de andere docenten die deel zullen uitmaken van het docentencorps van het Instituut, aan in een zitting waaraan alleen die docenten deelnemen wier hoedanigheid ten minste gelijk is aan die der betrokken personen;
+- d. stelt die uitvoeringsmaatregelen op het gebied van onderzoek en onderwijs vast, die niet onder de bevoegdheid van de andere organen van het Instituut ressorteren;
 
-- e). stelt de voorwaarden vast waarop de in artikel 14 vermelde titels en getuigschriften worden verleend;
+- e. wijst de afdelingshoofden, de directeuren van de interdisciplinaire centra, de hoogleraren en de hoofddocenten die voltijds deel zullen uitmaken van het docentencorps van het Instituut, aan in een zitting waaraan alleen die docenten deelnemen wier hoedanigheid ten minste gelijk is aan die der betrokken personen;
 
-- f). stelt de lijst op van de leden van de toelatingscommissie en van de eindexamencommissie;
+- f. stelt de voorwaarden vast waarop de in artikel 14 vermelde titels en getuigschriften worden verleend;
 
-- g). onderzoekt het ontwerp-verslag over de werkzaamheden, dat door de President van het Instituut wordt opgesteld en aan de Raad van Bestuur wordt voorgelegd.
+- g. onderzoekt het ontwerp-verslag over de werkzaamheden, dat door de President van het Instituut wordt opgesteld en aan de Raad van Bestuur wordt voorgelegd.
 
 6. De Academische Raad kan het initiatief nemen om aan de Raad van Bestuur voorstellen te doen over de aangelegenheden die onder de bevoegdheid van de Raad van Bestuur ressorteren.
-
-7. Een Bureau van de Academische Raad, dat wordt voorgezeten door de President van het Instituut, dat wordt bijgestaan door de Algemeen Secretaris, en dat bestaat uit de President en de afdelingshoofden, vervult de bijzondere taken die het door de Academische Raad worden opgedragen. Het Bureau is de Raad rekenschap verschuldigd over de wijze waarop het deze taken heeft vervuld.
 
 ### HOOFDSTUK III. Academische structuur
 
@@ -284,7 +285,7 @@ vastgesteld.
 
 ##### Artikel 10
 
-Het Instituut is georganiseerd in afdelingen die de basiseenheden voor onderzoek en onderwijs zijn en waarbinnen werkcolleges georganiseerd worden.
+Het Instituut is georganiseerd in afdelingen die de basiseenheden voor onderzoek en onderwijs zijn.
 
 ##### Artikel 11
 
@@ -300,7 +301,9 @@ Het Instituut is georganiseerd in afdelingen die de basiseenheden voor onderzoek
 
 De Raad van Bestuur kan, na raadpleging van de Academische Raad en met inachtneming van de opgedane ervaring, met eenparigheid van stemmen, deze indeling wijzigen of nieuwe afdelingen oprichten. De Academische Raad kan daartoe aanbevelingen doen.
 
-2. Binnen de grenzen van de voor haar in de begroting uitgetrokken middelen alsmede van de voor 1)[Red: Lees: door.]de Academische Raad vastgestelde programma's, beschikt de afdeling over een hoge mate van zelfstandigheid bij de uitvoering van de haar opgedragen studie- en onderzoekswerkzaamheden en wordt haar het voor haar werking benodigde personeel toegewezen.
+2. Binnen de grenzen van de voor haar in de begroting uitgetrokken middelen alsmede van de voor 1)[Red: Lees: door.]de Academische Raad vastgestelde programma’s, beschikt de afdeling over een hoge mate van zelfstandigheid bij de uitvoering van de haar opgedragen studie- en onderzoekswerkzaamheden en wordt haar het voor haar werking benodigde personeel toegewezen.
+
+3. Het Instituut kan, rekening houdend met de bij het Instituut opgerichte afdelingen, een of meer centra voor interdisciplinaire studie en onderzoek omvatten. De oprichting of afschaffing van deze centra alsmede hun opdracht, bijzondere structuur en de algemene werkingsvoorwaarden worden vastgesteld bij besluit van de Raad van Bestuur genomen met gekwalificeerde meerderheid van stemmen na raadpleging van de Academische Raad en de Raad voor Onderzoek.
 
 ##### Artikel 12
 
@@ -308,9 +311,9 @@ De Raad van Bestuur kan, na raadpleging van de Academische Raad en met inachtnem
 
 De organisatie van de verschillende werkcolleges en onderzoekteams valt onder de verantwoordelijkheid van de afdelingshoofden. De werkzaamheden zijn het resultaat van actieve samenwerking tussen docenten en wetenschappelijke onderzoekers, die de werkmethoden en de ontwikkeling ervan gezamenlijk bepalen.
 
-2. De onderzoekswerkzaamheden in de werkcolleges en onderzoekteams moeten worden bepaald binnen de grenzen van de in artikel 9, lid 5, bedoelde studie- en onderzoekprogramma's en met inachtneming van de specifieke taak van het Instituut.
+2. De onderzoekswerkzaamheden in de werkcolleges en onderzoekteams moeten worden bepaald binnen de grenzen van de in artikel 9, lid 5, bedoelde studie- en onderzoekprogramma’s en met inachtneming van de specifieke taak van het Instituut.
 
-De onderwerpen voor in de werkcolleges en onderzoekteams te verrichten werkzaamheden worden door de afdelingshoofden ter kennis van de Academische Raad gebracht en wel nadat overleg heeft plaatsgevonden met de hoogleraren en de assistenten.
+De onderwerpen voor in de werkcolleges en onderzoekteams te verrichten werkzaamheden worden door de afdelingshoofden ter kennis van de Academische Raad gebracht en wel nadat overleg heeft plaatsgevonden met de hoogleraren en de hoofddocenten.
 
 3. Het Instituut kan stages en colloquia organiseren, waaraan personen kunnen deelnemen die reeds beroepservaring hebben opgedaan in de studierichtingen die tot het studie- en onderzoekterrein van het Instituut behoren.
 
@@ -324,17 +327,19 @@ De wijze van uitvoering van deze bepaling wordt vastgesteld in de vestigingsover
 
 ##### Artikel 14
 
-1. In de studierichtingen die tot zijn studie- en onderzoekterrein behoren, is het Instituut gemachtigd om de titel van doctor van het Europees Universitair Instituut te verlenen aan wetenschappelijke onderzoekers die ten minste twee jaar studie aan het Instituut hebben volbracht en een oorspronkelijk werkstuk van hoge kwaliteit hebben voorgelegd, dat door het Instituut is aanvaard en dat overeenkomstig de uitvoeringsbepalingen van lid 3 moet worden gepubliceerd.
+1. In de studierichtingen die tot zijn studie- en onderzoekterrein behoren, is het Instituut gemachtigd om de titel van doctor van het Europees Universitair Instituut te verlenen aan wetenschappelijke onderzoekers die ten minste twee jaar studie aan het Instituut hebben volbracht en een oorspronkelijk werkstuk van hoge kwaliteit hebben voorgelegd, dat door het Instituut is aanvaard en dat overeenkomstig de uitvoeringsbepalingen van lid 4 moet worden gepubliceerd.
 
-2. Het Instituut is gemachtigd om aan wetenschappelijke onderzoekers een getuigschrift van regelmatige aanwezigheid te verlenen.
+2. Het Instituut is tevens gemachtigd een titel van een niveau beneden dat van doctor te verlenen aan wetenschappelijke onderzoekers die ten minste één jaar studie aan het Instituut hebben volbracht en hebben voldaan aan de bijzondere voorwaarden die overeenkomstig lid 4 voor deze titel zijn vastgesteld.
 
-3. De voorwaarden voor het verlenen van de titel en het getuigschrift als bedoeld in dit artikel, worden vastgesteld door de Academische Raad; voor deze voorwaarden is de goedkeuring vereist van de Raad van Bestuur.
+3. Onderzoekers aan wie bij het verlaten van het Instituut geen van de in de leden 1 en 2 bedoelde titels is verleend, ontvangen desgewenst van het Instituut een getuigschrift betreffende de studie- en onderzoekwerkzaamheden die zij aan het Instituut hebben verricht.
+
+4. De voorwaarden voor het verlenen van de titels en het getuigschrift als bedoeld in dit artikel, worden vastgesteld door de Academische Raad; voor deze voorwaarden is de goedkeuring vereist van de Raad van Bestuur.
 
 ## B. Docentencorps en wetenschappelijke onderzoekers
 
 ##### Artikel 15
 
-1. Het docentencorps bestaat uit afdelingshoofden, hoogleraren, assistenten en overige docenten.
+1. Het docentencorps bestaat uit de afdelingshoofden, directeuren van interdisciplinaire centra, hoogleraren, hoofddocenten en overige docenten.
 
 2. De leden van het docentencorps worden gekozen uit persoonlijkheden die onderdaan zijn van de Overeenkomstsluitende Staten en wier bekwaamheden aan de werkzaamheden van het Instituut een hoge waarde kunnen verlenen. Voorts kan het Instituut een beroep doen op de medewerking van onderdanen van andere Staten.
 
@@ -428,7 +433,7 @@ De Overeenkomstsluitende Staten storten iedere maand bij wijze van voorschot en 
 
 ##### Artikel 23
 
-1. De Raad van Bestuur benoemt twee controleurs van verschillende nationaliteit voor een periode van drie jaar. Het mandaat van deze controleurs kan worden verlengd.
+1. De Raad van Bestuur benoemt twee controleurs van verschillende nationaliteit voor een periode van vier jaar. Het mandaat van deze controleurs kan niet worden verlengd.
 
 De controle, die aan de hand van bescheiden en zo nodig ter plaatse geschiedt, heeft ten doel de wettigheid en de regelmatigheid van de ontvangsten en uitgaven na te gaan en vast te stellen of een goed financieel beheer werd gevoerd.
 
