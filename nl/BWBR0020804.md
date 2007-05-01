@@ -4,7 +4,7 @@ identifier: "BWBR0020804"
 country: "nl"
 rank: "wet"
 publication_date: "2008-01-01"
-last_updated: "2007-01-01"
+last_updated: "2007-05-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020804"
 soort: "wet"
@@ -103,11 +103,11 @@ Wijzigt de Ziektewet.
 
 ##### Artikel XVII. Verruiming grondslag [Regeling aanwijzing ontwikkelingsorganisaties BEU](https://wetten.overheid.nl/jci1.3:c:BWBR0014127)
 
-Na de inwerkingtreding van [artikel III, onderdeel G](https://wetten.overheid.nl/jci1.3:c:BWBR0020804&hoofdstuk=1&artikel=III&z=2007-01-01&g=2007-01-01), [artikel X, onderdeel K](https://wetten.overheid.nl/jci1.3:c:BWBR0020804&hoofdstuk=1&artikel=X&z=2007-01-01&g=2007-01-01), [artikel XII, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0020804&hoofdstuk=1&artikel=XII&z=2007-01-01&g=2007-01-01) en [artikel XIV, onderdeel G](https://wetten.overheid.nl/jci1.3:c:BWBR0020804&hoofdstuk=1&artikel=XIV&z=2007-01-01&g=2007-01-01) van deze wet berust de [Regeling aanwijzing ontwikkelingsorganisaties BEU](https://wetten.overheid.nl/jci1.3:c:BWBR0014127) mede op [artikel 53, eerste lid, onderdeel b, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=53), [artikel 18, tweede lid, onderdeel b, van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=18), [artikel 64, tweede lid, onderdeel b, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=64) en [artikel 81, tweede lid, onderdeel b, van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=81).
+Na de inwerkingtreding van [artikel III, onderdeel G](https://wetten.overheid.nl/jci1.3:c:BWBR0020804&hoofdstuk=1&artikel=III&z=2007-05-01&g=2007-05-01), [artikel X, onderdeel K](https://wetten.overheid.nl/jci1.3:c:BWBR0020804&hoofdstuk=1&artikel=X&z=2007-05-01&g=2007-05-01), [artikel XII, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0020804&hoofdstuk=1&artikel=XII&z=2007-05-01&g=2007-05-01) en [artikel XIV, onderdeel G](https://wetten.overheid.nl/jci1.3:c:BWBR0020804&hoofdstuk=1&artikel=XIV&z=2007-05-01&g=2007-05-01) van deze wet berust de [Regeling aanwijzing ontwikkelingsorganisaties BEU](https://wetten.overheid.nl/jci1.3:c:BWBR0014127) mede op [artikel 53, eerste lid, onderdeel b, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=53), [artikel 18, tweede lid, onderdeel b, van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=18), [artikel 64, tweede lid, onderdeel b, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=64) en [artikel 81, tweede lid, onderdeel b, van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=81).
 
 ##### Artikel XVIII. Wijziging grondslag [Besluit werkzaamheden, administratieve voorschriften en kosten eigenrisicodragen ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0014926)
 
-Na de inwerkingtreding van [artikel XIV, onderdeel F](https://wetten.overheid.nl/jci1.3:c:BWBR0020804&hoofdstuk=1&artikel=XIV&z=2007-01-01&g=2007-01-01), van deze wet berust het [Besluit werkzaamheden, administratieve voorschriften en kosten eigenrisicodragen ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0014926) op [artikel 63a, zevende lid, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=63a).
+Na de inwerkingtreding van [artikel XIV, onderdeel F](https://wetten.overheid.nl/jci1.3:c:BWBR0020804&hoofdstuk=1&artikel=XIV&z=2007-05-01&g=2007-05-01), van deze wet berust het [Besluit werkzaamheden, administratieve voorschriften en kosten eigenrisicodragen ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0014926) op [artikel 63a, zevende lid, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=63a).
 
 ##### Artikel XVIIIa. Wijziging van de [Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472)
 
