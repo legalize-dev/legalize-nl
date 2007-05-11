@@ -4,7 +4,7 @@ identifier: "BWBR0003372"
 country: "nl"
 rank: "wet"
 publication_date: "2022-07-01"
-last_updated: "2006-01-01"
+last_updated: "2007-05-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003372"
 soort: "wet"
@@ -43,7 +43,7 @@ entry_into_force: "2012-02-11"
 
 Deze wet verstaat onder:
 
-- a. ombudsman: de Nationale ombudsman, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=II&artikel=2&z=2006-01-01&g=2006-01-01);
+- a. ombudsman: de Nationale ombudsman, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=II&artikel=2&z=2007-05-11&g=2007-05-11);
 
 - b. ambtenaar: een ambtenaar, een gewezen ambtenaar, een persoon met wie door een bestuursorgaan een arbeidsovereenkomst is gesloten naar burgerlijk recht, ook na beëindiging van de arbeidsovereenkomst, een dienstplichtig militair, ook na het einde van de dienstplicht, alsmede andere personen werkzaam onder de verantwoordelijkheid van het bestuursorgaan, ook na het beëindigen van de werkzaamheden.
 
@@ -71,11 +71,11 @@ Deze wet verstaat onder:
 
 1. Indien de ombudsman een besluit als bedoeld in [artikel 79q, tweede of derde lid, van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=79q), [artikel 81p, tweede of derde lid, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=81p), [artikel 51b, tweede of derde lid, van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=51b) of [artikel 10, vierde lid, van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=10) heeft ontvangen, bevestigt hij onverwijld de ontvangst daarvan.
 
-2. De ombudsman registreert de provincies, gemeenten, waterschappen en gemeenschappelijke regelingen met een eigen voorziening als bedoeld in [artikel 1a, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=I&artikel=1a&z=2006-01-01&g=2006-01-01). Hij maakt deze registratie openbaar.
+2. De ombudsman registreert de provincies, gemeenten, waterschappen en gemeenschappelijke regelingen met een eigen voorziening als bedoeld in [artikel 1a, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=I&artikel=1a&z=2007-05-11&g=2007-05-11). Hij maakt deze registratie openbaar.
 
 ##### Artikel 1c
 
-1. Provincies, gemeenten, waterschappen en gemeenschappelijke regelingen als bedoeld in [artikel 1a, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=I&artikel=1a&z=2006-01-01&g=2006-01-01), zijn een vergoeding verschuldigd ter dekking van de kosten die zijn verbonden aan de behandeling van verzoekschriften ten aanzien van hun bestuursorganen door de ombudsman. Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties stelt de vergoeding vast.
+1. Provincies, gemeenten, waterschappen en gemeenschappelijke regelingen als bedoeld in [artikel 1a, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=I&artikel=1a&z=2007-05-11&g=2007-05-11), zijn een vergoeding verschuldigd ter dekking van de kosten die zijn verbonden aan de behandeling van verzoekschriften ten aanzien van hun bestuursorganen door de ombudsman. Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties stelt de vergoeding vast.
 
 2. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld omtrent:
 
@@ -97,11 +97,11 @@ Deze wet verstaat onder:
 
 4. Indien de Tweede Kamer voornemens is de ombudsman opnieuw te benoemen, kan zij bepalen dat het tweede lid, tweede volzin, buiten toepassing blijft.
 
-5. Indien blijkt dat de Tweede Kamer niet tijdig tot de benoeming van een nieuwe ombudsman zal kunnen komen, voorziet de Tweede Kamer zo spoedig mogelijk in de waarneming van het ambt van ombudsman. [Artikel 10, vijfde tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=II&artikel=10&z=2006-01-01&g=2006-01-01), is van overeenkomstige toepassing.
+5. Indien blijkt dat de Tweede Kamer niet tijdig tot de benoeming van een nieuwe ombudsman zal kunnen komen, voorziet de Tweede Kamer zo spoedig mogelijk in de waarneming van het ambt van ombudsman. [Artikel 10, vijfde tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=II&artikel=10&z=2007-05-11&g=2007-05-11), is van overeenkomstige toepassing.
 
 ##### Artikel 3
 
-1. De Tweede Kamer ontslaat de ombudsman met ingang van de eerstvolgende maand na die waarin hij de vijfenzestigjarige leeftijd bereikt.
+1. De Tweede Kamer ontslaat de ombudsman met ingang van de eerstvolgende maand na die waarin hij de zeventigjarige leeftijd bereikt.
 
 2. De Tweede Kamer ontslaat de ombudsman voorts:
 
@@ -129,7 +129,7 @@ Deze wet verstaat onder:
 
 - c. hij onder curatele is gesteld, in staat van faillissement is verklaard, ten aanzien van hem de schuldsaneringsregeling natuurlijke personen van toepassing is verklaard, hij surseance van betaling heeft verkregen of wegens schulden is gegijzeld ingevolge een nog niet onherroepelijk geworden rechterlijke uitspraak.
 
-2. De Tweede Kamer kan de ombudsman op non-activiteit stellen, indien tegen hem een gerechtelijk vooronderzoek ter zake van misdrijf wordt ingesteld of indien er een ander ernstig vermoeden is voor het bestaan van feiten of omstandigheden die tot ontslag, anders dan op gronden vermeld in [artikel 3, tweede lid onder **b,**](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=II&artikel=3&z=2006-01-01&g=2006-01-01) zouden kunnen leiden.
+2. De Tweede Kamer kan de ombudsman op non-activiteit stellen, indien tegen hem een gerechtelijk vooronderzoek ter zake van misdrijf wordt ingesteld of indien er een ander ernstig vermoeden is voor het bestaan van feiten of omstandigheden die tot ontslag, anders dan op gronden vermeld in [artikel 3, tweede lid onder **b,**](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=II&artikel=3&z=2007-05-11&g=2007-05-11) zouden kunnen leiden.
 
 3. In het geval, bedoeld in het tweede lid, eindigt de non-activiteit na drie maanden. De Tweede Kamer kan de maatregel echter telkens voor ten hoogste drie maanden verlengen.
 
@@ -179,11 +179,11 @@ Alvorens zijn ambt te aanvaarden legt de ombudsman in de handen van de Voorzitte
 
 3. Indien de Tweede Kamer voornemens is een substituut-ombudsman opnieuw te benoemen, kan zij bepalen dat het eerste lid, tweede volzin, buiten toepassing blijft.
 
-4. De[artikelen 3 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=II&artikel=3&z=2006-01-01&g=2006-01-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=III&artikel=15&z=2006-01-01&g=2006-01-01), en de [artikelen 9:21](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:21) en [9:30 tot en met 9:34 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:30), zijn van overeenkomstig toepassing op een substituut-ombudsman.
+4. De[artikelen 3 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=II&artikel=3&z=2007-05-11&g=2007-05-11), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=III&artikel=15&z=2007-05-11&g=2007-05-11), en de [artikelen 9:21](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:21) en [9:30 tot en met 9:34 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:30), zijn van overeenkomstig toepassing op een substituut-ombudsman.
 
 5. De ombudsman regelt de werkzaamheden van een substituut-ombudsman.
 
-6. De ombudsman kan bepalen dat de bevoegdheden, bedoeld in de [artikelen 16, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=III&artikel=16&z=2006-01-01&g=2006-01-01), en de [artikelen 9:27](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:27), [9:35](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:35) en [9:36 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:36), tevens worden uitgeoefend door een substituut-ombudsman. De ombudsman kan voor de uitoefening van die bevoegdheden richtlijnen vaststellen.
+6. De ombudsman kan bepalen dat de bevoegdheden, bedoeld in de [artikelen 16, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=III&artikel=16&z=2007-05-11&g=2007-05-11), en de [artikelen 9:27](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:27), [9:35](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:35) en [9:36 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:36), tevens worden uitgeoefend door een substituut-ombudsman. De ombudsman kan voor de uitoefening van die bevoegdheden richtlijnen vaststellen.
 
 ##### Artikel 10
 
@@ -191,15 +191,15 @@ Alvorens zijn ambt te aanvaarden legt de ombudsman in de handen van de Voorzitte
 
 2. Indien geen substituut-ombudsman aanwezig of beschikbaar is, voorziet de Tweede Kamer zo spoedig mogelijk in de vervanging van de ombudsman. In dat geval eindigt de vervanging wanneer de ombudsman weer in staat is zijn ambt te vervullen of, indien de ombudsman op non-activiteit is gesteld, op het tijdstip dat de non-activiteit eindigt.
 
-3. Indien de ombudsman overlijdt of ingevolge [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=II&artikel=3&z=2006-01-01&g=2006-01-01) wordt ontslagen, voorziet de Tweede Kamer zo spoedig mogelijk in de waarneming van het ambt van ombudsman door een substituut-ombudsman.
+3. Indien de ombudsman overlijdt of ingevolge [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=II&artikel=3&z=2007-05-11&g=2007-05-11) wordt ontslagen, voorziet de Tweede Kamer zo spoedig mogelijk in de waarneming van het ambt van ombudsman door een substituut-ombudsman.
 
 4. Indien geen substituut-ombudsman aanwezig of beschikbaar is, voorziet de Tweede Kamer zo spoedig mogelijk in de waarneming van het ambt van ombudsman.
 
 5. De waarneming eindigt van rechtswege op het tijdstip waarop een nieuwe ombudsman in functie is getreden.
 
-6. Op degene die krachtens het tweede of het vierde lid de ombudsman vervangt of het ambt van ombudsman waarneemt, zijn de[artikelen 2, tweede lid, tweede volzin, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=II&artikel=2&z=2006-01-01&g=2006-01-01), [3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=II&artikel=3&z=2006-01-01&g=2006-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=II&artikel=6&z=2006-01-01&g=2006-01-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=II&artikel=9&z=2006-01-01&g=2006-01-01) van deze wet niet van toepassing.
+6. Op degene die krachtens het tweede of het vierde lid de ombudsman vervangt of het ambt van ombudsman waarneemt, zijn de[artikelen 2, tweede lid, tweede volzin, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=II&artikel=2&z=2007-05-11&g=2007-05-11), [3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=II&artikel=3&z=2007-05-11&g=2007-05-11), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=II&artikel=6&z=2007-05-11&g=2007-05-11) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=II&artikel=9&z=2007-05-11&g=2007-05-11) van deze wet niet van toepassing.
 
-7. Indien de in het zesde lid bedoelde vervanger respectievelijk waarnemer een betrekking of lidmaatschap als bedoeld in [artikel 5, eerste lid, onderdelen **b** en **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=II&artikel=5&z=2006-01-01&g=2006-01-01), bekleedt of gaat bekleden, is hij voor de duur van de vervanging respectievelijk de waarneming in die betrekking of dat lidmaatschap van rechtswege op non-activiteit gesteld.
+7. Indien de in het zesde lid bedoelde vervanger respectievelijk waarnemer een betrekking of lidmaatschap als bedoeld in [artikel 5, eerste lid, onderdelen **b** en **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=II&artikel=5&z=2007-05-11&g=2007-05-11), bekleedt of gaat bekleden, is hij voor de duur van de vervanging respectievelijk de waarneming in die betrekking of dat lidmaatschap van rechtswege op non-activiteit gesteld.
 
 ##### Artikel 11
 
@@ -229,7 +229,7 @@ De ombudsman kan bevelen dat personen die, hoewel wettelijk opgeroepen, niet zij
 
 ##### Artikel 16
 
-1. De ombudsman zendt jaarlijks een verslag van zijn werkzaamheden aan de beide Kamers der Staten-Generaal en aan Onze Ministers, alsmede aan de vertegenwoordigende organen van provincies, gemeenten en waterschappen en aan de algemene besturen van gemeenschappelijke regelingen als bedoeld in [artikel 1a, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=I&artikel=1a&z=2006-01-01&g=2006-01-01), voorzover de ombudsman ten aanzien van hun bestuursorganen verzoekschriften heeft behandeld. [Artikel 10 van de Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252&artikel=10) is van overeenkomstige toepassing met dien verstande dat de ombudsman bij het verslag gegevens kan voegen, slechts ter vertrouwelijke kennisneming door de leden van de Staten-Generaal en Onze Ministers.
+1. De ombudsman zendt jaarlijks een verslag van zijn werkzaamheden aan de beide Kamers der Staten-Generaal en aan Onze Ministers, alsmede aan de vertegenwoordigende organen van provincies, gemeenten en waterschappen en aan de algemene besturen van gemeenschappelijke regelingen als bedoeld in [artikel 1a, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=I&artikel=1a&z=2007-05-11&g=2007-05-11), voorzover de ombudsman ten aanzien van hun bestuursorganen verzoekschriften heeft behandeld. [Artikel 10 van de Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252&artikel=10) is van overeenkomstige toepassing met dien verstande dat de ombudsman bij het verslag gegevens kan voegen, slechts ter vertrouwelijke kennisneming door de leden van de Staten-Generaal en Onze Ministers.
 
 2. De ombudsman draagt er zorg voor dat het verslag openbaar wordt gemaakt en algemeen verkrijgbaar wordt gesteld.
 
@@ -241,11 +241,11 @@ De voordrachten voor ter uitvoering van deze wet te nemen koninklijke besluiten 
 
 ##### Artikel 18
 
-Indien provincies, gemeenten, waterschappen of gemeenschappelijke regelingen een eigen voorziening voor de behandeling van verzoekschriften hebben ingesteld als bedoeld in [artikel 1a, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=I&artikel=1a&z=2006-01-01&g=2006-01-01), blijft de ombudsman bevoegd verzoekschriften ten aanzien van hun bestuursorganen te behandelen die voor de ingangsdatum van de eigen voorziening door hem zijn ontvangen.
+Indien provincies, gemeenten, waterschappen of gemeenschappelijke regelingen een eigen voorziening voor de behandeling van verzoekschriften hebben ingesteld als bedoeld in [artikel 1a, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=I&artikel=1a&z=2007-05-11&g=2007-05-11), blijft de ombudsman bevoegd verzoekschriften ten aanzien van hun bestuursorganen te behandelen die voor de ingangsdatum van de eigen voorziening door hem zijn ontvangen.
 
 ##### Artikel 19
 
-Tot een jaar na inwerkingtreding van een besluit als bedoeld in [artikel 1a, eerste lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=I&artikel=1a&z=2006-01-01&g=2006-01-01), kan met betrekking tot een gedraging van het desbetreffende bestuursorgaan die heeft plaatsgevonden voordat het desbetreffende bestuursorgaan is uitgezonderd, een verzoekschrift bij de ombudsman worden ingediend.
+Tot een jaar na inwerkingtreding van een besluit als bedoeld in [artikel 1a, eerste lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=I&artikel=1a&z=2007-05-11&g=2007-05-11), kan met betrekking tot een gedraging van het desbetreffende bestuursorgaan die heeft plaatsgevonden voordat het desbetreffende bestuursorgaan is uitgezonderd, een verzoekschrift bij de ombudsman worden ingediend.
 
 ##### Artikel 20
 
