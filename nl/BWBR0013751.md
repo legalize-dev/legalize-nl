@@ -4,7 +4,7 @@ identifier: "BWBR0013751"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2007-05-11"
-last_updated: "2002-07-01"
+last_updated: "2007-05-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013751"
 soort: "ministeriele-regeling"
@@ -49,7 +49,9 @@ Deze regeling is niet van toepassing op de zeer beperkt beveiligde penitentiaire
 
 ##### Artikel 3
 
-1. Een geestelijk verzorger kan slechts anders dan bij wijze van ambtelijke aanstelling aan de inrichting worden verbonden indien hij:
+1. Een geestelijk verzorger kan slechts anders dan bij wijze van ambtelijke aanstelling aan de inrichting worden verbonden indien er een antecedentenonderzoek heeft plaatsgevonden op grond waarvan is vastgesteld dat hiertegen geen bezwaar is. Het antecedentenonderzoek wordt gedaan door het Bureau Integriteit en Veiligheid op verzoek van de portefeuillehouder overige stromingen.
+
+2. Een geestelijk verzorger kan slechts anders dan bij wijze van ambtelijke aanstelling aan de inrichting worden verbonden indien hij:
 
 - a. in het bezit is van een geldige verblijfs- en werkvergunning;
 
@@ -57,27 +59,29 @@ Deze regeling is niet van toepassing op de zeer beperkt beveiligde penitentiaire
 
 - c. een verklaring omtrent gedrag overlegt;
 
-- d. de Nederlandse taal machtig is in woord; bij twijfel wordt op verzoek van de Dienst Justitiële Inrichtingen een toets in de Nederlandse taal afgelegd.
+- d. de Nederlandse taal machtig is in woord; bij twijfel kan de Dienst Geestelijke Verzorging eisen dat een toets in de Nederlandse taal wordt afgelegd;
 
-2. Indien niet aan het gestelde in het eerste lid, onder b, kan worden voldaan, maar er wel een buitenlands diploma op het terrein van de theologie is behaald vindt er een onderzoek plaats naar de waarde van dit diploma. Indien er geen diploma kan worden overgelegd moet de geestelijk verzorger zijn voorgedragen door een overkoepelend orgaan van zijn gezindte of levensovertuiging.
+- e. op grond van de [Wet inburgering nieuwkomers](https://wetten.overheid.nl/jci1.3:c:BWBR0009544) een inburgeringsprogramma heeft gevolgd.
+
+3. Indien niet aan het gestelde in het tweede lid, onder b, kan worden voldaan, maar er wel een buitenlands diploma op het terrein van de theologie van de desbetreffende gezindte is behaald, vindt er een onderzoek plaats naar de waarde van dit diploma. De geestelijk verzorger kan slechts aan de inrichting worden verbonden indien zijn diploma minimaal op Hbo-niveau wordt gewaardeerd. Deze waardering geschiedt op een door de Dienst Geestelijke Verzorging voorgeschreven wijze.
+
+4. De portefeuillehouder overige stromingen kan van de eis in het derde lid gesteld ontheffing verlenen.
+
+5. Voor de Boeddhistische gezindte kan, indien geen diploma van de desbetreffende gezindte kan worden overgelegd, de geestelijk verzorger worden voorgedragen door de Boeddhistische Unie Nederland als overkoepelend orgaan van zijn gezindte of levensovertuiging.
 
 ##### Artikel 4
 
-1. De directeur van een inrichting kan op verzoek van een justitiabele een geestelijk verzorger inschakelen.
-
-2. De directeur pleegt over een aan hem gedaan verzoek overleg met een aan de inrichting verbonden geestelijk verzorger. Deze geestelijk verzorger kan de directeur adviseren over zowel het verzoek zelf, als over de geestelijk verzorger van wie een bezoek wordt gevraagd.
-
-3. De directeur betrekt de geestelijk verzorgers zoveel mogelijk vanuit de regio waarin de inrichting is gelegen.
+Het hoofd van de Dienst Geestelijke Verzorging werft geestelijke verzorgers na overleg met de portefeuillehouder overige stromingen en in samenwerking met de organisaties van de verschillende gezindten. De directeur van de inrichting wordt schriftelijk op de hoogte gesteld van het besluit dat er een kandidaat is gekozen en hoeveel uur hij aan de inrichting wordt verbonden.
 
 ##### Artikel 5. Toestemming hoofd Dienst Justitiële Inrichtingen
 
-Alvorens de directeur een geestelijk verzorger, anders dan bij wijze van ambtelijke aanstelling aan zijn inrichting verbindt, vraagt hij hiervoor toestemming aan het hoofd van de Dienst Justitiële Inrichtingen.
+Vervallen
 
 ##### Artikel 6
 
-1. De uurvergoeding van de geestelijk verzorger bedraagt een door het hoofd van de Dienst Justitiële Inrichtingen bij besluit vast te stellen bedrag dat kan verschillen afhankelijk van de opleiding van de geestelijk verzorger.
+1. De uurvergoeding van de geestelijk verzorger bedraagt een door het hoofd van de Dienst Justitiële Inrichtingen bij besluit vast te stellen bedrag dat verschilt afhankelijk van de opleiding van de geestelijk verzorger.
 
-2. Door de geestelijk verzorgers worden de uurvergoedingen en reiskostenvergoedingen met gebruikmaking van het in de bijlage opgenomen declaratieformulier gedeclareerd bij de Dienst Uitvoering Beheer en Advisering van de Dienst Justitiële Inrichtingen.
+2. Door de geestelijk verzorgers worden de uurvergoedingen en reiskostenvergoedingen met gebruikmaking van het in de bijlage opgenomen declaratieformulier gedeclareerd bij het Shared Service Center van de Dienst Justitiële Inrichtingen.
 
 ##### Artikel 7
 
@@ -85,7 +89,7 @@ Deze regeling is niet van toepassing op geestelijk verzorgers met een ambtelijke
 
 ##### Artikel 8
 
-De directeur draagt zorg dat het aantal gevallen waarin een geestelijk verzorger is ingeschakeld alsmede de duur ervan wordt geregistreerd.
+De directeur draagt zorg dat het aantal gevallen waarin een geestelijk verzorger is ingeschakeld alsmede de duur ervan wordt geregistreerd en draagt zorg voor een prestatieverklaring.
 
 ##### Artikel 9
 
@@ -97,6 +101,6 @@ Deze regeling treedt in werking met ingang van 1 juli 2002 en werkt terug tot 1 
 
 ##### Artikel 11
 
-Deze regeling wordt aangehaald als: Regeling functie-eisen en vergoeding geestelijk verzorgers `niet-klassieke' denominaties.
+Deze regeling wordt aangehaald als: Regeling functie-eisen en vergoeding geestelijk verzorgers overige stromingen.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
