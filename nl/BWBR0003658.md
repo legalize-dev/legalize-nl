@@ -4,7 +4,7 @@ identifier: "BWBR0003658"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2016-07-20"
-last_updated: "2007-03-21"
+last_updated: "2007-05-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003658"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ Besluiten:
 
 De uit een oogpunt van volksgezondheid en goed landbouwkundig gebruik toelaatbare hoeveelheid van bestrijdingsmiddelen, bestanddelen daarvan of omzettingsproducten, aanwezig op of in:
 
-- a. onbewerkte of bewerkte eet- of drinkwaren, met uitzondering van: voor zover de producten uit de genoemde productgroepen onder 1 en 2 niet met name in [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0003658&bijlage=II&z=2007-03-21&g=2007-03-21) zijn genoemd, in welk geval het residugehalte niet hoger mag zijn dan in de desbetreffende bijlage met inachtneming van de daarbij gestelde aanwijzingen is aangegeven;
+- a. onbewerkte of bewerkte eet- of drinkwaren, met uitzondering van: voor zover de producten uit de genoemde productgroepen onder 1 en 2 niet met name in [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0003658&bijlage=II&z=2007-05-11&g=2007-05-11) zijn genoemd, in welk geval het residugehalte niet hoger mag zijn dan in de desbetreffende bijlage met inachtneming van de daarbij gestelde aanwijzingen is aangegeven;
 
 - 1. specerijen, bedoeld in het [Warenwetbesluit Specerijen en kruiden](https://wetten.overheid.nl/jci1.3:c:BWBR0009540);
 
@@ -56,13 +56,13 @@ De uit een oogpunt van volksgezondheid en goed landbouwkundig gebruik toelaatbar
 
 - 4. de waren, bedoeld in de [Warenwetregeling Babyvoeding](https://wetten.overheid.nl/jci1.3:c:BWBR0008503);
 
-- b. bewerkte eet- of drinkwaren, waarvoor in [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0003658&bijlage=II&z=2007-03-21&g=2007-03-21) geen afzonderlijk toegelaten gehalte is aangegeven, mag niet hoger zijn dan het in de voor onbewerkte eet- of drinkwaren vastgestelde gehalte, waarbij rekening gehouden wordt met de concentratie- of verdunningsfactor;
+- b. bewerkte eet- of drinkwaren, waarvoor in [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0003658&bijlage=II&z=2007-05-11&g=2007-05-11) geen afzonderlijk toegelaten gehalte is aangegeven, mag niet hoger zijn dan het in de voor onbewerkte eet- of drinkwaren vastgestelde gehalte, waarbij rekening gehouden wordt met de concentratie- of verdunningsfactor;
 
-- c. samengestelde eet- of drinkwaren mag niet hoger zijn dan het volgens [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0003658&bijlage=II&z=2007-03-21&g=2007-03-21), toegelaten gehalte van de afzonderlijke onbewerkte eet- of drinkwaren in het mengsel, waarbij rekening gehouden wordt met de relatieve concentraties van deze eet- of drinkwaren in het mengsel en met het gestelde onder b.
+- c. samengestelde eet- of drinkwaren mag niet hoger zijn dan het volgens [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0003658&bijlage=II&z=2007-05-11&g=2007-05-11), toegelaten gehalte van de afzonderlijke onbewerkte eet- of drinkwaren in het mengsel, waarbij rekening gehouden wordt met de relatieve concentraties van deze eet- of drinkwaren in het mengsel en met het gestelde onder b.
 
 ##### Artikel 2
 
-Bij de vaststelling van het ingevolge [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0003658&bijlage=II&z=2007-03-21&g=2007-03-21) toegelaten maximumgehalte dienen de bepalingen in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0003658&bijlage=I&z=2007-03-21&g=2007-03-21) in acht te worden genomen.
+Bij de vaststelling van het ingevolge [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0003658&bijlage=II&z=2007-05-11&g=2007-05-11) toegelaten maximumgehalte dienen de bepalingen in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0003658&bijlage=I&z=2007-05-11&g=2007-05-11) in acht te worden genomen.
 
 ##### Artikel 3
 
@@ -535,7 +535,7 @@ Deze regeling wordt aangehaald als: [Regeling residuen van bestrijdingsmiddelen]
 
 - 4. De in bijlage II gebezigde groepsaanduidingen van eet- en drinkwaren omvatten ten minste de hieronder in kolom II genoemde afzonderlijke producten.
 
-- 5. Voor de toepassing van [artikel 1, onder b van de Regeling residuen van bestrijdingsmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0003658&artikel=1&z=2007-03-21&g=2007-03-21) geldt dat voor de omrekening van het vochtgehalte van bewerkte producten naar dat in het onbewerkte product dient gebruik te worden gemaakt van de tabel gegeven in Section 201 in de Pesticide Analytical Manual, deel 1, uitgegeven door de Food and Drug Administration (United States of America).
+- 5. Voor de toepassing van [artikel 1, onder b van de Regeling residuen van bestrijdingsmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0003658&artikel=1&z=2007-05-11&g=2007-05-11) geldt dat voor de omrekening van het vochtgehalte van bewerkte producten naar dat in het onbewerkte product dient gebruik te worden gemaakt van de tabel gegeven in Section 201 in de Pesticide Analytical Manual, deel 1, uitgegeven door de Food and Drug Administration (United States of America).
 
 - 6. Bij verpakte bewerkte producten is het toegelaten maximum gehalte van toepassing op de totale inhoud, omgerekend op het verse product.
 
@@ -1418,19 +1418,33 @@ Door vernummering vervallen.
 |   |   |   | overige visserijproducten | 0,02 |   |   |
 |   |   |   | overige | 0,05 | 2) Het maximaal aanvaardbare residugehalte in vlees en bereidingen van vlees wordt uitgedrukt in mg/kg vet. Bedraagt het vetgehalte echter 10 gewichtsprocenten of minder, dan wordt het residu gerelateerd aan het totale gewicht van het uitgebeende product. Het maximaal toegelaten residu bedraagt dan 1/10 van de aan het vetgehalte gerelateerde waarde, maar 0,01 mg/kg. |   |
 |   |   |   |   |   |   |   |
-| captan | geen | captan | pitvruchten | 3 | 21) som van captan en folpet |   |
-|   |   |   | steenvruchten | 2 | 21) som van captan en folpet |   |
-|   |   |   | wijndruiven | 10 | 21) som van captan en folpet |   |
-|   |   |   | overige besvruchten en | 3 | 21) som van captan en folpet |   |
-|   |   |   | klein fruit |   |   |   |
-|   |   |   | tomaten | 3 | 21) som van captan en folpet |   |
-|   |   |   | sla | 2 | 21) som van captan en folpet |   |
-|   |   |   | andijvie | 2 | 21) som van captan en folpet |   |
-|   |   |   | witlof | 2 | 21) som van captan en folpet |   |
-|   |   |   | prei | 2 | 21) som van captan en folpet |   |
-|   |   |   | peulgroenten (met peul) | 2 | 21) som van captan en folpet |   |
-|   |   |   | rozijnen | 5 |   |   |
-|   |   |   | overige | 0,1* |   |   |
+| captan | geen | captan | amandelen | 0,3 |   | 57 |
+|   |   |   | pitvruchten | 3 | 21) som van captan en folpet |   |
+|   |   |   | abrikozen | 3 |   | 57 |
+|   |   |   | kersen | 5 |   | 57 |
+|   |   |   | pruimen | 1 |   | 57 |
+|   |   |   | aardbeien (andere dan bosaardbeien) | 3 | 21) som van captan en folpet | 57 |
+|   |   |   | bramen | 3 | 21) som van captan en folpet |   |
+|   |   |   | frambozen | 3 | 21) som van captan en folpet |   |
+|   |   |   | aalbessen (rood, zwart en wit) | 3 | 21) som van captan en folpet |   |
+|   |   |   | kruisbessen (Cynorrhodom) | 3 | 21) som van captan en folpet |   |
+|   |   |   | mango’s | 2 |   | 57 |
+|   |   |   | wortelen | 0,1 |   | 57 |
+|   |   |   | knolselderij | 0,1 |   | 57 |
+|   |   |   | tomaten | 2 | 21) som van captan en folpet | 57 |
+|   |   |   | pepers (paprika’s) | 0,1 |   | 57 |
+|   |   |   | meloenen | 0,1 |   | 57 |
+|   |   |   | andijvie | 2 |   | 57 |
+|   |   |   | spinazie | 0,1 |   | 57 |
+|   |   |   | peterselie | 0,1 |   | 57 |
+|   |   |   | bonen (met peul) | 2 | 21) som van captan en folpet |   |
+|   |   |   | bonen (zonder peul) | 2 | 21) som van captan en folpet | 57 |
+|   |   |   | bleekselderij | 0,1 |   | 57 |
+|   |   |   | prei | 2 |   | 57 |
+|   |   |   | aardappelen | 0,05 |   | 57 |
+|   |   |   | thee | 0,05* |   | 57 |
+|   |   |   | hop | 0,05* |   | 57 |
+|   |   |   | overige plantaardige producten | 0,02* |   | 57, 59 |
 |   |   |   |   |   |   |   |
 | carbaryl | geen | carbaryl | olijven (tafelolijven) | 5 |   |   |
 |   |   |   | olijven (voor olie-extractie) | 5 |   |   |
@@ -2174,15 +2188,9 @@ Door vernummering vervallen.
 |   |   |   |   |   |   |   |
 | dichloorpropeen | geen | som van E- en Z-dichloorpropeen | alle | 0,05* |   |   |
 |   |   |   |   |   |   |   |
-| dichloorvos | geen | dichloorvos | fruit | 0,1 |   |   |
-|   |   |   | groenten | 0,1 |   |   |
-|   |   |   | peulvruchten | 0,1 |   |   |
-|   |   |   | pinda's | 2 |   |   |
-|   |   |   | thee | 0,1* |   |   |
-|   |   |   | granen | 2 |   |   |
-|   |   |   | volkorenmeel | 0,5 |   |   |
-|   |   |   | vlees | 0,05 |   |   |
-|   |   |   | overige | 0,02* |   |   |
+| dichloorvos | geen | dichloorvos | thee | 0,02* |   | 57 |
+|   |   |   | hop | 0,02* |   | 57 |
+|   |   |   | overige plantaardige producten | 0,01* |   | 57, 60 |
 |   |   |   |   |   |   |   |
 | dichloran | geen | dichloran | abrikozen | 10 |   |   |
 |   |   |   | kersen | 15 |   |   |
@@ -2535,14 +2543,12 @@ Door vernummering vervallen.
 |   |   |   | granen | 0,05 |   |   |
 |   |   |   | overige | 0,02* |   |   |
 |   |   |   |   |   |   |   |
-| ethion | geen | ethion | citrusvruchten | 2 |   |   |
-|   |   |   | pitvruchten | 0,5 |   |   |
-|   |   |   | steenvruchten | 0,5 |   |   |
-|   |   |   | tafel- en wijndruiven | 0,5 |   |   |
-|   |   |   | overig fruit | 0,1 |   |   |
-|   |   |   | groenten | 0,1 |   |   |
+| ethion | geen | ethion | peterselie | 2 |   | 57 |
+|   |   |   | bleekselderij | 0,1 |   | 57 |
+|   |   |   | oliehoudende zaden | 0,02* |   |   |
 |   |   |   | thee | 3 |   |   |
-|   |   |   | overige | 0,02* |   |   |
+|   |   |   | hop | 0,02* |   |   |
+|   |   |   | overige plantaardige producten | 0,01* |   | 57, 61 |
 |   |   |   |   |   |   |   |
 | ethirimol | geen | ethirimol | pitvruchten | 0,1 | 15) afkomstig van gebruik van bupirimaat. |   |
 |   |   |   | aardbeien (andere dan bosaardbeien) | 0,1 | 15) afkomstig van gebruik van bupirimaat. |   |
@@ -2897,17 +2903,25 @@ Door vernummering vervallen.
 | fluvalinaat | geen | fluvalinaat | alle | 0,05* |   |   |
 |   |   |   |   |   |   |   |
 | folpet | geen | folpet | pitvruchten | 3 | 21) som van captan en folpet |   |
-|   |   |   | steenvruchten | 2 | 21) som van captan en folpet |   |
-|   |   |   | wijndruiven | 10 | 21) som van captan en folpet |   |
-|   |   |   | overige besvruchten en | 3 | 21) som van captan en folpet |   |
-|   |   |   | klein fruit |   |   |   |
-|   |   |   | tomaten | 3 | 21) som van captan en folpet |   |
+|   |   |   | kersen | 2 |   | 57 |
+|   |   |   | wijndruiven | 5 |   | 57 |
+|   |   |   | aardbeien (andere dan bosaardbeien) | 3 | 21) som van captan en folpet | 57 |
+|   |   |   | bramen | 3 | 21) som van captan en folpet |   |
+|   |   |   | frambozen | 3 | 21) som van captan en folpet |   |
+|   |   |   | aalbessen (rood, zwart en wit) | 3 | 21) som van captan en folpet |   |
+|   |   |   | kruisbessen Cynorrhodom) | 3 | 21) som van captan en folpet |   |
+|   |   |   | uien | 0,1 |   | 57 |
+|   |   |   | tomaten | 2 | 21) som van captan en folpet | 57 |
+|   |   |   | Cucurbitaceae (met niet-eetbare schil) | 1 |   | 57 |
+|   |   |   | koolrabi | 0,05 |   | 57 |
 |   |   |   | sla | 2 | 21) som van captan en folpet |   |
-|   |   |   | andijvie | 2 | 21) som van captan en folpet |   |
-|   |   |   | witlof | 2 | 21) som van captan en folpet |   |
-|   |   |   | prei | 2 | 21) som van captan en folpet |   |
-|   |   |   | peulgroenten (met peul) | 2 | 21) som van captan en folpet |   |
-|   |   |   | overige | 0,1* |   |   |
+|   |   |   | bonen (met peul) | 2 | 21) som van captan en folpet |   |
+|   |   |   | bonen (zonder peul) | 2 | 21) som van captan en folpet |   |
+|   |   |   | aardappelen | 0,1 |   | 57 |
+|   |   |   | thee | 0,05* |   | 57 |
+|   |   |   | hop | 150 |   | 57 |
+|   |   |   | tarwe en gerst | 2 |   | 57 |
+|   |   |   | overige plantaardige producten | 0,02* |   | 57, 62 |
 |   |   |   |   |   |   |   |
 | fonofos | geen | fonofos | uien | 0,3 |   |   |
 |   |   |   | overige | 0,05* |   |   |
@@ -4636,11 +4650,21 @@ Motief:
 
 - 56. Correctie.
 
+- 57. Aanpassing aan richtlijn 2006/92/EG van 9 november 2006 (PbEU L 311).
+
 - 58. Aanpassing aan richtlijn 2007/7/EG van 14 februari 2007 (PbEU L 43).
+
+- 59. De maximumgehalten voor perziken, nectarines en soortgelijke kruisingen daaronder begrepen, besvruchten en klein fruit (behalve aardbeien, bramen, frambozen, aalbessen en kruisbessen), sla, witlof, erwten (met peul) en rozijnen zijn verlaagd tot de ondergrens van de analytische bepaling en opgenomen in overige plantaardige producten.
+
+- 60. De maximumgehalten voor fruit, groenten, peulvruchten, pinda’s, granen en volkorenmeel zijn verlaagd tot de ondergrens van de analytische bepaling en opgenomen in overige plantaardige producten.
+
+- 61. De maximumgehalten voor citrusvruchten, pitvruchten, steenvruchten, tafel- en wijndruiven, overig fruit en groenten (behalve peterselie en bleekselderij) zijn verlaagd tot de ondergrens van de analytische bepaling en opgenomen in overige plantaardige producten.
+
+- 62. De maximumgehalten voor steenvruchten (behalve kersen), besvruchten en klein fruit (behalve wijndruiven, aardbeien, bramen, frambozen, aalbessen en kruisbessen), andijvie, witlof, prei en erwten (met peul) zijn verlaagd tot de ondergrens van de analytische bepaling en opgenomen in overige plantaardige producten.
 
 ##### Artikel 1a
 
-In afwijking van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003658&artikel=1&z=2007-03-21&g=2007-03-21) is een hoeveelheid van bestrijdingsmiddelen, bestanddelen daarvan of omzettingsproducten, aanwezig op of in een eetwaar op basis van een landbouwproduct, eveneens aanvaardbaar uit oogpunt van volksgezondheid en goed landbouwkundig gebruik, voor zover:
+In afwijking van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003658&artikel=1&z=2007-05-11&g=2007-05-11) is een hoeveelheid van bestrijdingsmiddelen, bestanddelen daarvan of omzettingsproducten, aanwezig op of in een eetwaar op basis van een landbouwproduct, eveneens aanvaardbaar uit oogpunt van volksgezondheid en goed landbouwkundig gebruik, voor zover:
 
 - a. het desbetreffende landbouwproduct in de handel is gebracht in een lidstaat van de Europese Unie die voor dat landbouwproduct een voorlopig maximum residugehalte heeft vastgesteld en die lidstaat dat voorlopig maximum heeft medegedeeld aan de Commissie van de Europese Unie overeenkomstig artikel 4, eerste lid, onder f, van richtlijn nr. 91/414/EEG van de Raad van de Europese Gemeenschappen van 15 juli 1991 betreffende het op de markt brengen van gewasbeschermingsmiddelen (PbEG L 414); en
 
