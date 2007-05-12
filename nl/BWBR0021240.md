@@ -4,7 +4,7 @@ identifier: "BWBR0021240"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-03-07"
-last_updated: "2005-09-04"
+last_updated: "2007-05-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0021240"
 soort: "ministeriele-regeling"
@@ -45,29 +45,31 @@ Besluit:
 
 1. In deze regeling wordt verstaan onder:
 
-- a. **FNPT:** hetgeen daaronder in de [Regeling kwalificatie STD’s](https://wetten.overheid.nl/jci1.3:c:BWBR0010764) wordt verstaan;
+- **BITD:** een basis-instrumentvliegtrainingshulpmiddel (Basic Instrument Training Devices) als bedoeld in JAR-STD 4A;
 
-- b. gasballon: vrije ballon die zijn opwaartse draagkracht verkrijgt door het inbrengen, in de ballon, van een gas dat lichter is dan lucht;
+- **FNPT:** hetgeen daaronder in de [Regeling kwalificatie STD’s](https://wetten.overheid.nl/jci1.3:c:BWBR0010764) wordt verstaan;
 
-- c. **gekwalificeerde opleidingsinstelling:** gekwalificeerde opleidingsinstelling als bedoeld in de [Regeling opleidingsinstellingen voor luchtvarenden 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012923);
+- **gasballon**: vrije ballon die zijn opwaartse draagkracht verkrijgt door het inbrengen, in de ballon, van een gas dat lichter is dan lucht;
 
-- d. **geregistreerde opleidingsinstelling:** geregistreerde opleidingsinstelling als bedoeld in de [Regeling opleidingsinstellingen voor luchtvarenden 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012923);
+- **gekwalificeerde opleidingsinstelling:** gekwalificeerde opleidingsinstelling als bedoeld in de [Regeling opleidingsinstellingen voor luchtvarenden 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012923);
 
-- e. **heteluchtballon**: vrije ballon die zijn opwaartse draagkracht verkrijgt door het verwarmen van de lucht in de ballon;
+- **geregistreerde opleidingsinstelling:** geregistreerde opleidingsinstelling als bedoeld in de [Regeling opleidingsinstellingen voor luchtvarenden 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012923);
 
-- f. **ICAO-eisen**: de eisen zoals opgenomen in Annex 1, Personnel Licensing, bij het op 7 december 1944 te Chicago tot stand gekomen verdrag inzake de internationale burgerluchtvaart (Trb. 1973, 109);
+- **heteluchtballon**: vrije ballon die zijn opwaartse draagkracht verkrijgt door het verwarmen van de lucht in de ballon;
 
-- g. **ICAO-staat**: een staat, die het onder d genoemde verdrag heeft bekrachtigd, niet zijnde Nederland;
+- **ICAO-eisen**: de eisen zoals opgenomen in Annex 1, Personnel Licensing, bij het op 7 december 1944 te Chicago tot stand gekomen verdrag inzake de internationale burgerluchtvaart (Trb. 1973, 109);
 
-- h. **minister:** Minister van Verkeer en Waterstaat;
+- **ICAO-staat**: een staat, die het onder d genoemde verdrag heeft bekrachtigd, niet zijnde Nederland;
 
-- i. **MP typebevoegdverklaring:** bevoegdverklaring voor een type luchtvaartuig, multi-pilot (Multi Pilot type rating);
+- **minister:** Minister van Verkeer en Waterstaat;
 
-- j. **SP-ME klassebevoegdverklaring:** bevoegdverklaring voor de klasse luchtvaartuig, single pilot, meermoto-rig (Single Pilot Multi Engine class rating);
+- **MP typebevoegdverklaring:** bevoegdverklaring voor een type luchtvaartuig, multi-pilot (Multi Pilot type rating);
 
-- k. **SP-SE klassebevoegdverklaring:** bevoegdverklaring voor de klasse luchtvaartuig, single pilot, eenmotorig (Single Pilot Single Engine class rating);
+- **SP-ME klassebevoegdverklaring:** bevoegdverklaring voor de klasse luchtvaartuig, single pilot, meermoto-rig (Single Pilot Multi Engine class rating);
 
-- l. **SP typebevoegdverklaring:** bevoegdverklaring voor een type luchtvaartuig, single pilot (Single Pilot type rating).
+- **SP-SE klassebevoegdverklaring:** bevoegdverklaring voor de klasse luchtvaartuig, single pilot, eenmotorig (Single Pilot Single Engine class rating);
+
+- **SP typebevoegdverklaring:** bevoegdverklaring voor een type luchtvaartuig, single pilot (Single Pilot type rating).
 
 2. In deze regeling wordt met de volgende toevoegingen bedoeld:
 
@@ -83,7 +85,7 @@ Besluit:
 
 ##### Artikel 2
 
-1. De [artikelen 4 van het Besluit bewijzen van bevoegdheid voor de luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=4) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0021240&hoofdstuk=3&artikel=7&z=2005-09-04&g=2005-09-04) van deze regeling zijn van overeenkomstige toepassing op de verlenging van bevoegdverklaringen.
+1. De [artikelen 4 van het Besluit bewijzen van bevoegdheid voor de luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=4) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0021240&hoofdstuk=3&artikel=7&z=2007-05-12&g=2007-05-12) van deze regeling zijn van overeenkomstige toepassing op de verlenging van bevoegdverklaringen.
 
 2. Bij de aanvraag tot verlenging of hernieuwde afgifte na verlopen van een bevoegdverklaring is [artikel 8, tweede lid, Besluit bewijzen van bevoegdheid voor de luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=8) van overeenkomstige toepassing.
 
@@ -105,15 +107,19 @@ Vervallen
 
 ##### Artikel 4
 
-1. De vastgestelde bijzondere type- en klassebevoegdverklaringen voor vliegers in de categorieën vliegtuigen en helikopters, voor ballonvaarders en voor boordwerktuigkundigen zijn opgenomen in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0021240&bijlage=5&z=2005-09-04&g=2005-09-04) bij deze regeling.
+1. De vastgestelde bijzondere klassebevoegdverklaringen voor vliegers in de categorieën vliegtuigen zijn opgenomen in JAR-FCL 1.215(b).
 
-2. Voor houders van een CPL(H) die de geïntegreerde opleiding, bedoeld in [artikel 9, onderdeel a1](https://wetten.overheid.nl/jci1.3:c:BWBR0021240&hoofdstuk=4&paragraaf=1&artikel=9&z=2005-09-04&g=2005-09-04), hebben gevolgd en tegelijkertijd met de afgifte van het CPL(H) in aanmerking komen voor een eerste MP typebevoegdverklaring, worden, als zij minder dan 70 uur ervaring hebben als eerste bestuurder van helikopters, de bevoegdheden die behoren bij de MP typebevoegdverklaring beperkt tot die van tweede bestuurder.
+2. De vastgestelde bijzondere typebevoegdverklaringen voor vliegers in de categorieën vliegtuigen en helikopters en voor boordwerktuigkundigen zijn opgenomen in JAR-FCL 1.220(c), JAR-FCL 2.220(c), respectievelijk JAR-FCL 4.220(c).
 
-3. De beperking, bedoeld in het tweede lid, wordt opgeheven indien de houder van de MP typebevoegdverklaring voldoet aan de volgende eisen:
+3. De vastgestelde bijzondere klassebevoegdverklaringen voor ballonvaarders en de vastgestelde bijzondere type- en klassebevoegdheidsverklaringen voor RPL zijn opgenomen in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0021240&bijlage=5&z=2007-05-12&g=2007-05-12) bij deze regeling.
+
+4. Voor houders van een CPL(H) die de geïntegreerde opleiding, bedoeld in [artikel 9, onderdeel a1](https://wetten.overheid.nl/jci1.3:c:BWBR0021240&hoofdstuk=4&paragraaf=1&artikel=9&z=2007-05-12&g=2007-05-12), hebben gevolgd en tegelijkertijd met de afgifte van het CPL(H) in aanmerking komen voor een eerste MP typebevoegdverklaring, worden, als zij minder dan 70 uur ervaring hebben als eerste bestuurder van helikopters, de bevoegdheden die behoren bij de MP typebevoegdverklaring beperkt tot die van tweede bestuurder.
+
+5. De beperking, bedoeld in het vierde lid, wordt opgeheven indien de houder van de MP typebevoegdverklaring voldoet aan de volgende eisen:
 
 - a. tenminste 70 uur ervaring opbouwen als eerste bestuurder, of eerste bestuurder onder supervisie, van helikopters, en
 
-- b. de eisen, bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0021240&bijlage=2&z=2005-09-04&g=2005-09-04) bij deze regeling, als eerste bestuurder.
+- b. de eisen, bedoeld in JAR-FCL 2.262(b), als eerste bestuurder.
 
 ##### Artikel 5
 
@@ -121,7 +127,7 @@ Vervallen
 
 ##### Artikel 6
 
-1. Een bijzondere type- of klassebevoegdverklaring wordt afgegeven onder de beperking dat de houder van de bevoegdverklaring die op een andere variant binnen die bevoegdverklaring, bedoeld in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0021240&bijlage=5&z=2005-09-04&g=2005-09-04) bij deze regeling, gaat vliegen, voor zover vereist op grond van JAR-FCL 1.235(c), JAR-FCL 2.235 (c), respectievelijk JAR-FCL 4.235(c), een familiarisatie- of verschillencursus doet, die voldoet aan de eisen, bedoeld in JAR-OPS 1.950 en 1.980(b), respec-tievelijk JAR-OPS 3.950 en 3.980(b), opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0021240&bijlage=1&z=2005-09-04&g=2005-09-04) bij deze regeling.
+1. Een bijzondere type- of klassebevoegdverklaring als bedoeld in [artikel 4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021240&hoofdstuk=3&artikel=4&z=2007-05-12&g=2007-05-12), wordt afgegeven onder de beperking dat de houder van de bevoegdverklaring die op een andere variant binnen die bevoegdverklaring, gaat vliegen, voor zover vereist op grond van JAR-FCL 1.235(c), JAR-FCL 2.235 (c), respectievelijk JAR-FCL 4.235(c), een familiarisatie- of verschillencursus doet, die voldoet aan de eisen, bedoeld in JAR-OPS 1.950 en 1.980(b), respec-tievelijk JAR-OPS 3.950 en 3.980(b), opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0021240&bijlage=1&z=2007-05-12&g=2007-05-12) bij deze regeling.
 
 2. De familiarisatie- of verschillencursus, bedoeld in het eerste lid, wordt afgetekend in het logboek van de houder van de bevoegdverklaring door een daartoe bevoegde CRI, TRI, SFI of FI.
 
@@ -147,17 +153,17 @@ Vervallen
 
 1. De eisen voor afgifte van een ATPL(A), respectievelijk ATPL(H), zijn:
 
-- a. opleiding: met goed gevolg bij een gekwalificeerde opleidingsinstelling
+- a. opleiding: de eisen, bedoeld in JAR-FCL 1.285(a), respectievelijk JAR-FCL 2.285(a);
 
 - 1°. een ATP(A), respectievelijk ATP(H), geïntegreerde vliegopleiding binnen 12 tot 36 maanden, of
 
 - 2°. een ATPL(A), respectievelijk ATPL(H), modulaire theorieopleiding binnen 18 maanden hebben afgerond;
 
-- b. kennis: de eisen, bedoeld in JAR-FCL 1.285(b), respectievelijk 2.285(b);
+- b. kennis: de eisen, bedoeld in JAR-FCL 1.285(b), respectievelijk JAR-FCL 2.285(b;
 
-- c. bedrevenheid: de eisen, bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0021240&bijlage=2&z=2005-09-04&g=2005-09-04) bij deze regeling, met betrekking tot een MP type bevoegdverklaring;
+- c. bedrevenheid: de eisen, bedoeld in JAR-FCL 1.295, respectievelijk JAR-FCL 2.295;
 
-- d. ervaring: de eisen, bedoeld in JAR-FCL 1.280, respectievelijk 2.280, met dien verstande dat de wijze van toezicht van de gezagvoerder op de tweede bestuurder, bedoeld in JAR-FCL 1.280(a)(2), respectievelijk 2.280(a)(2), instemming van de Minister behoeft;
+- d. ervaring: de eisen, bedoeld in JAR-FCL 1.280, respectievelijk JAR-FCL 2.280, met dien verstande dat de wijze van toezicht van de gezagvoerder op de tweede bestuurder, bedoeld in JAR-FCL 1.280(a)(2), respectievelijk JAR-FCL 2.280(a)(2), instemming van de Minister behoeft;
 
 - e. de eisen voor afgifte van een MP typebevoegdverklaring, en
 
@@ -181,7 +187,7 @@ Vervallen
 
 De eisen voor afgifte van een CPL(A), respectievelijk CPL(H), zijn:
 
-- a. opleiding: met goed gevolg bij een gekwalificeerde opleidingsinstelling:
+- a. opleiding: de eisen, bedoeld in JAR-FCL 1.165, respectievelijk JAR-FCL 2.165;
 
 - 1°. een ATP(A), respectievelijk ATP(H), geïntegreerde vliegopleiding binnen 12 tot 36 maanden,
 
@@ -191,11 +197,11 @@ De eisen voor afgifte van een CPL(A), respectievelijk CPL(H), zijn:
 
 - 4°. een CPL(A), respectievelijk CPL(H), modulaire vliegopleiding waarvan het theoriegedeelte binnen 18 maanden en het praktijkgedeelte binnen 36 maanden vanaf de datum waarop de kandidaat is geslaagd voor het theoriegedeelte, is afgerond;
 
-- b. kennis: de eisen, bedoeld in JAR FCL 1.160(b) en (c), respectievelijk 2.160(b) en (c);
+- b. kennis: de eisen, bedoeld in JAR FCL 1.160(b) en (c), respectievelijk JAR-FCL 2.160(b) en (c);
 
-- c. bedrevenheid: de eisen, bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0021240&bijlage=2&z=2005-09-04&g=2005-09-04) bij deze regeling;
+- c. bedrevenheid: de eisen, bedoeld in JAR-FCL 1.170, respectievelijk JAR-FCL 2.170;
 
-- d. ervaring: de eisen, bedoeld in JAR-FCL 1.155, respectievelijk 2.155, en
+- d. ervaring: de eisen, bedoeld in JAR-FCL 1.155, respectievelijk JAR-FCL 2.155, en
 
 - e. de eisen voor afgifte van een type- of klassebevoegdverklaring, respectievelijk een typebevoegdverklaring.
 
@@ -203,13 +209,13 @@ De eisen voor afgifte van een CPL(A), respectievelijk CPL(H), zijn:
 
 1. De eisen voor afgifte van een PPL(A), respectievelijk PPL(H), zijn:
 
-- a. opleiding: met goed gevolg bij een geregistreerde of gekwalificeerde opleidingsinstelling een PPL(A), respectievelijk een PPL(H), vliegopleiding hebben gevolgd waarvan het gehele theorie-examen binnen 12 maanden is afgerond en het praktijkgedeelte is afgerond binnen 24 maanden vanaf de datum waarop de kandidaat is geslaagd voor het theoriegedeelte;
+- a. opleiding: de eisen, bedoeld in JAR-FCL 1.125, respectievelijk JAR-FCL 2.125;
 
-- b. kennis: de eisen, bedoeld in JAR-FCL 1.125(a), 1.130 en appendix 1 bij JAR-FCL 1.125, respectievelijk 2.125(a), 2.130 en appendix 1 bij JAR-FCL 2.125;
+- b. kennis: de eisen bedoeld in JAR-FCL 1.125(a), JAR-FCL 1.130 en bijlage 1 bij JAR-FCL 1.125, respectievelijk JAR-FCL 2.125(a), JAR-FCL 2.130 en bijlage 1 bij JAR-FCL 2.125;
 
-- c. bedrevenheid: de eisen, bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0021240&bijlage=2&z=2005-09-04&g=2005-09-04) bij deze regeling;
+- c. bedrevenheid: de eisen, bedoeld in JAR-FCL 1.135, respectievelijk JAR-FCL 2.135;
 
-- d. ervaring: de eisen, bedoeld in JAR-FCL 1.120, respectievelijk 2.120, en
+- d. ervaring: de eisen, bedoeld in JAR-FCL 1.120, respectievelijk JAR-FCL 2.120, en
 
 - e. de eisen voor afgifte van een type- of klassebevoegdverklaring, respectievelijk een typebevoegdverklaring.
 
@@ -221,7 +227,7 @@ De eisen voor afgifte van een CPL(A), respectievelijk CPL(H), zijn:
 
 - c. binnen 24 maanden voordat aan de bedrevenheidseisen, bedoeld in het eerste lid, onderdeel c, is voldaan met goed gevolg binnen de termijn van 12 maanden, bedoeld in [artikel 5, tweede lid, onderdeel d, Examenreglement voor luchtvarenden 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012924&artikel=5), de PPL(A) respectievelijk PPL(H) theorievakken Luchtvaartvoorschriften en Menselijke prestaties en beperkingen heeft afgelegd.
 
-3. In afwijking van het eerste lid, onder b, dienen houders van een CPL(FB) voor afgifte van een PPL(A) dan wel PPL(H) te voldoen aan de volgende kenniseisen, bedoeld in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0021240&bijlage=7&z=2005-09-04&g=2005-09-04) behorende bij deze regeling:
+3. In afwijking van het eerste lid, onder b, dienen houders van een CPL(FB) voor afgifte van een PPL(A) dan wel PPL(H) te voldoen aan de volgende kenniseisen, bedoeld in JAR-FCL 1.130 danwel JAR-FCL 2.130:
 
 - a. algemene kennis van het luchtvaartuig;
 
@@ -239,9 +245,9 @@ De eisen voor afgifte van een RPL(A), respectievelijk RPL(H), zijn:
 
 - a. opleiding: met goed gevolg bij een geregistreerde of gekwalificeerde opleidingsinstelling een RPL(A) vliegopleiding, respectievelijk een RPL(H) vliegopleiding, hebben doorlopen, waarbij het gehele theorie-examen binnen 12 maanden is afgerond en het praktijkexamen is afgerond binnen 36 maanden vanaf de datum waarop de aanvrager is geslaagd voor het theoriegedeelte;
 
-- b. kennis: de eisen, bedoeld in JAR-FCL 1.125(a), 1.130 en appendix 1 bij JAR-FCL 1.125, respectievelijk 2.125(a), 2.130 en appendix 1 bij JAR-FCL 2.125;
+- b. kennis: de eisen bedoeld in JAR-FCL 1.125(a), JAR-FCL 1.130 en bijlage 1 bij JAR-FCL 1.125, respectievelijk JAR-FCL 2.125(a), JAR-FCL 2.130 en bijlage 1 bij JAR-FCL 2.125;
 
-- c. bedrevenheid: de eisen, bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0021240&bijlage=2&z=2005-09-04&g=2005-09-04) bij deze regeling, aangetoond in een luchtvaartuig van de gewenste klasse, respectievelijk het gewenste type;
+- c. bedrevenheid: de eisen, bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0021240&bijlage=2&z=2007-05-12&g=2007-05-12) bij deze regeling, aangetoond in een luchtvaartuig van de gewenste klasse, respectievelijk het gewenste type;
 
 - d. ervaring: ten minste 30 vlieguren tijdens de opleiding, waarbij voor de houder van een bewijs van bevoegdheid de totale vliegtijd in de hoedanigheid van gezagvoerder van een willekeurig ander luchtvaartuig mag worden meegeteld, met uitzondering van de solouren in het opleidingsprogramma, en
 
@@ -259,11 +265,11 @@ Vervallen
 
 1. De eisen voor afgifte van een CFEL(A) zijn:
 
-- a. opleiding: met goed gevolg bij een gekwalificeerde opleidingsinstelling de opleiding voor de typebevoegdverklaring hebben doorlopen;
+- a. opleiding: de eisen, bedoeld in JAR-FCL 4.16;
 
 - b. kennis: de eisen, bedoeld in JAR-FCL 4.160;
 
-- c. bedrevenheid: de eisen, bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0021240&bijlage=2&z=2005-09-04&g=2005-09-04) bij JAR-FCL 4.240;
+- c. bedrevenheid: de eisen, bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0021240&bijlage=2&z=2007-05-12&g=2007-05-12) bij JAR-FCL 4.240;
 
 - d. ervaring: de eisen, bedoeld in JAR-FCL 4.165.
 
@@ -277,7 +283,7 @@ Vervallen
 
 ##### Artikel 15. IR opleidingseisen
 
-1. De aanvrager van een IR(A), respectievelijk een IR(H), heeft voldaan aan de toelatingseisen voor de opleiding, bedoeld in JAR-FCL 1.200, respectievelijk 2.200.
+1. De aanvrager van een IR(A), respectievelijk een IR(H), heeft voldaan aan de toelatingseisen voor de opleiding, bedoeld in JAR-FCL 1.200, respectievelijk JAR-FCL 2.200.
 
 2. De aanvrager van een IR(A) heeft bij een gekwalificeerde opleidingsinstelling met goed gevolg doorlopen:
 
@@ -291,11 +297,11 @@ Vervallen
 
 De eisen voor afgifte van een IR(A), respectievelijk IR(H), zijn:
 
-- a. kennis: de eisen, bedoeld in JAR-FCL 1.195(b), respectievelijk 2.195(b);
+- a. kennis: de eisen, bedoeld in JAR-FCL 1.195(b), respectievelijk JAR-FCL 2.195(b);
 
-- b. bedrevenheid: de ter zake van IR(A), respectievelijk IR(H), gestelde eisen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0021240&bijlage=2&z=2005-09-04&g=2005-09-04) bij deze regeling; en
+- b. bedrevenheid: de eisen, bedoeld in JAR-FCL 1.210, respectievelijk JAR-FCL 2.210; en.
 
-- c. ervaring: de eisen, bedoeld in JAR-FCL 1.190, respectievelijk 2.190.
+- c. ervaring: de eisen, bedoeld in JAR-FCL 1.190, respectievelijk JAR-FCL 2.190.
 
 ##### Artikel 17. CSR
 
@@ -313,35 +319,35 @@ De eisen voor afgifte van een RT zijn:
 
 - a. met goed gevolg doorlopen van een opleiding voor RT bij een daartoe geregistreerde of gekwalificeerde opleidingsinstelling;
 
-- b. kennis: de eisen gesteld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0021240&bijlage=3&z=2005-09-04&g=2005-09-04) bij deze regeling, en
+- b. kennis: de eisen gesteld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0021240&bijlage=3&z=2007-05-12&g=2007-05-12) bij deze regeling, en
 
 - c. bedrevenheid:
 
-- 1°. voor RT met de beperking VFR-only, de eisen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0021240&bijlage=3&z=2005-09-04&g=2005-09-04) bij deze regeling;
+- 1°. voor RT met de beperking VFR-only, de eisen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0021240&bijlage=3&z=2007-05-12&g=2007-05-12) bij deze regeling;
 
-- 2°. voor RT zonder beperking, de eisen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0021240&bijlage=3&z=2005-09-04&g=2005-09-04) bij deze regeling.
+- 2°. voor RT zonder beperking, de eisen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0021240&bijlage=3&z=2007-05-12&g=2007-05-12) bij deze regeling.
 
 ##### Artikel 19. Instructeursbevoegdverklaringen (A)/(H)/(E) opleidingseisen
 
-1. De aanvrager van een FI(A), respectievelijk FI(H), heeft voldaan aan de toelatingseisen voor de betreffende opleiding, bedoeld in JAR-FCL 1.335, respectievelijk 2.335.
+1. De aanvrager van een FI(A), respectievelijk FI(H), heeft voldaan aan de toelatingseisen voor de betreffende opleiding, bedoeld in JAR-FCL 1.335, respectievelijk JAR-FCL 2.335.
 
 2. De aanvrager van een FI heeft met goed gevolg een opleiding doorlopen bij een gekwalificeerde opleidingsinstelling.
 
 3. De aanvrager van een TRI, CRI(A), IRI of SFI heeft met goed gevolg een opleiding doorlopen die voldoet aan de volgende eisen:
 
-- a. voor TRI(A), respectievelijk TRI(H), respectievelijk TRI(E): de eisen bedoeld in JAR-FCL 1.365(a)(1) en 1.365(b)(2), 2.365(a) en 2.365(f)(2), respectievelijk 4.365(a)(1) en 4.365(b)(2);
+a. voor TRI(A), respectievelijk TRI(H), respectievelijk TRI(E): de eisen, bedoeld in JAR-FCL 1.365(a)(1) en JAR-FCL 1.365(b)(2), JAR-FCL 2.365(a) en JAR-FCL 2.365(f)(2), respectievelijk JAR-FCL 4.365(a)(1) en JAR-FCL 4.365(b)(2);
 
-- b. voor CRI(A) voor ME bevoegdverklaringen: de eisen bedoeld in JAR-FCL 1.380(a)(3), en voor SE bevoegdverklaringen: de eisen bedoeld in JAR-FCL 1.380(b)(3);
+b. voor CRI(A) voor ME bevoegdverklaringen: de eisen, bedoeld in JAR-FCL 1.380(a)(3), en voor SE bevoegdverklaringen: de eisen, bedoeld in JAR-FCL 1.380(b)(3);
 
-- c. voor IRI(A), respectievelijk IRI(H): de eisen bedoeld in JAR-FCL 1.395(b), respectievelijk 2.395(b);
+c. voor IRI(A), respectievelijk IRI(H): de eisen, bedoeld in JAR-FCL 1.395(b), respectievelijk JAR-FCL 2.395(b);
 
-- d. voor SFI(A), SFI(H), respectievelijk SFI(E): de eisen bedoeld in JAR-FCL 1.410(a)(2) en (4) en 1.410(b)(1), 2.410(a)(2) en (4) en 2.410(b)(1), respectievelijk 4.410(a)(2) en (4) en 4.410(b)(1).
+d. voor SFI(A), SFI(H), respectievelijk SFI(E): de eisen, bedoeld in JAR-FCL 1.410(a)(2) en (4) en JAR-FCL 1.410(b)(1), JAR-FCL 2.410(a)(2) en (4) en JAR-FCL 2.410(b)(1), respectievelijk JAR-FCL 4.410(a)(2) en (4) en JAR-FCL 4.410(b)(1).
 
 4. De aanvrager van een RFI(A), respectievelijk RFI(H), heeft voor toelating tot de opleiding voor RFI(A), respectievelijk RFI(H), aan de opleidingsinstelling aangetoond:
 
 - a. houder te zijn van een geldig vliegbewijs RPL(A), respectievelijk RPL(H), met RT;
 
-- b. te beschikken over kennis op CPL(A), respectievelijk CPL(H), niveau van de onderwerpen omschreven in [bijlage 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0021240&bijlage=4a&z=2005-09-04&g=2005-09-04), respectievelijk [bijlage 4b](https://wetten.overheid.nl/jci1.3:c:BWBR0021240&bijlage=4b&z=2005-09-04&g=2005-09-04), bij deze regeling door met goed gevolg een theorie toelatingsexamen af te leggen;
+- b. te beschikken over kennis op CPL(A), respectievelijk CPL(H), niveau van de onderwerpen omschreven in [bijlage 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0021240&bijlage=4a&z=2007-05-12&g=2007-05-12), respectievelijk [bijlage 4b](https://wetten.overheid.nl/jci1.3:c:BWBR0021240&bijlage=4b&z=2007-05-12&g=2007-05-12), bij deze regeling door met goed gevolg een theorie toelatingsexamen af te leggen;
 
 - c. te beschikken over praktische vaardigheden door met goed gevolg in de periode van zes maanden voorafgaand aan de start van de opleiding bij een RFI(A), respectievelijk RFI(H), een praktijk toelatingsexamen af te leggen, dat is gebaseerd op de eisen voor verlenging van een RPL(A), respectievelijk RPL(H), en
 
@@ -353,61 +359,61 @@ De eisen voor afgifte van een RT zijn:
 
 - a. algemeen:
 
-- 1°. voor FI(A), TRI(A), CRI(A) en IRI(A), respectievelijk TRI(E): de eisen, bedoeld in JAR-FCL 1.310, respectievelijk 4.310;
+- 1°. voor FI(A), TRI(A), CRI(A) en IRI(A), respectievelijk TRI(E): de eisen, bedoeld in JAR-FCL 1.310, respectievelijk JAR-FCL 4.310;
 
 - 2°. voor FI(H), TRI(H), IRI(H) en RFI(H): de eisen bedoeld in JAR-FCL 2.310;
 
-- 3°. voor SFI(A), SFI(H), respectievelijk SFI(E): de eis, bedoeld in JAR-FCL 1.410(a)(1), 2.410(a)(1), respectievelijk 4.410(a)(1);
+- 3°. Voor SFI(A), SFI(H), respectievelijk SFI(E): de eis, bedoeld in JAR-FCL 1.410(a)(1), JAR-FCL 2.410(a)(1), respectievelijk JAR-FCL 4.410(a)(1);
 
 - 4°. voor RFI(A), respectievelijk RFI(H): de aanvrager is houder van het bewijs van bevoegdheid, bevoegdverklaring of kwalificatie waarvoor onderricht wordt gegeven, heeft als gezagvoerder van een vliegtuig van de betreffende klasse, respectievelijk helikopter van het betreffende type, ten minste 50 uur ervaring en is bevoegd als gezagvoerder van het luchtvaartuig op te treden tijdens het onderricht;
 
 - b. kennis:
 
-- 1°. voor FI(A), respectievelijk FI(H): de eisen, bedoeld in JAR-FCL 1.340, respectievelijk 2.340;
+- 1°. voor FI(A), respectievelijk FI(H): de eisen, bedoeld in JAR-FCL 1.340, respectievelijk JAR-FCL 2.340;
 
-- 2°. voor TRI(A), TRI(H), respectievelijk TRI(E): de eisen, bedoeld in JAR-FCL 1.365, 2.365, respectievelijk 4.365;
+- 2°. voor TRI(A), TRI(H), respectievelijk TRI(E): de eisen, bedoeld in JAR-FCL 1.365, JAR-FCL 2.365 respectievelijk JAR-FCL 4.365;
 
-- 3°. voor CRI(A): de eisen bedoeld in JAR-FCL 1.380;
+- 3°. voor CRI(A): de eisen, bedoeld in JAR-FCL 1.380;
 
-- 4°. voor IRI(A), respectievelijk IRI(H): de eisen bedoeld in JAR-FCL 1.395, respectievelijk 2.395;
+- 4°. voor IRI(A), respectievelijk IRI(H): de eisen, bedoeld in JAR-FCL 1.395, respectievelijk JAR-FCL 2.395;
 
-- 5°. voor SFI(A), SFI(H), respectievelijk SFI(E): de eisen bedoeld in JAR-FCL 1.410, 2.410, respectievelijk 4.410;
+- 5°. voor SFI(A), SFI(H), respectievelijk SFI(E): de eisen, bedoeld in JAR-FCL 1.410, JAR-FCL 2.410, respectievelijk JAR-FCL 4.410;
 
-- 6°. voor RFI: een volledig afgeronde theorie-opleiding voor RFI voor de desbetreffende categorie bij een geregistreerde of gekwalificeerde opleidingsinstelling voor RFI;
+- 6°. voor RFI: een volledig afgeronde theorie-opleiding voor RFI voor de desbetreffende categorie bij een geregistreerde of gekwalificeerde opleidingsinstelling RFI;
 
 - c. bedrevenheid:
 
-- 1°. voor FI(A), respectievelijk FI(H): de eisen, bedoeld in JAR-FCL 1.345 en appendix 2 bij JAR-FCL 1.345, respectievelijk 2.345 en appendix 2 bij JAR-FCL 2.345;
+- 1°. voor FI(A), respectievelijk FI(H): de eisen, bedoeld in JAR-FCL 1.345, respectievelijk JAR-FCL 2.345;
 
-- 2°. voor CRI(A): de eisen, bedoeld in JAR-FCL 1.380(a)(4) en 1.380(b)(4);
+- 2°. voor CRI(A): de eisen, bedoeld in JAR-FCL 1.380(a)(4) en JAR-FCL 1.380(b)(4);
 
-- 3°. voor IRI(A), respectievelijk IRI(H): de eisen, bedoeld in JAR-FCL 1.395(c), respectievelijk 2.395(c);
+- 3°. voor IRI(A), respectievelijk IRI(H): de eisen, bedoeld in JAR-FCL 1.395(c), respectievelijk JAR-FCL 2.395(c);
 
-- 4°. voor SFI(A), SFI(H), respectievelijk SFI(E): de eisen, bedoeld in JAR-FCL 1.410(a)(6), 2.410(a)(6), respectievelijk 4.410(a)(6);
+- 4°. voor SFI(A), SFI(H), respectievelijk SFI(E): de eisen, bedoeld in JAR-FCL 1.410(a)(6), JAR-FCL 2.410(a)(6), respectievelijk JAR-FCL 4.410(a)(6);
 
-- 5°. voor RFI(A), respectievelijk RFI(H): het praktijkexamen, dat voldoet aan de eisen gesteld in appendix 2 bij JAR-FCL 1.345, respectievelijk 2.345, komt bovenop het voorgeschreven minimum aantal opleidingsuren. Tijdens het praktijkexamen toont de aanvrager aan in staat te zijn een leerlingvlieger op te leiden voor een RPL, inclusief voor- en nabespreking van de vliegles en theorie, en
+- 5°. Voor RFI(A), respectievelijk RFI(H): het praktijkexamen, dat voldoet aan de eisen gesteld in JAR-FCL 1.345, respectievelijk JAR-FCL 2.345, komt bovenop het voorgeschreven minimum aantal opleidingsuren. Tijdens het praktijkexamen toont de aanvrager aan in staat te zijn een leerlingvlieger op te leiden voor een RPL, inclusief voor- en nabespreking van de vliegles en theorie, en
 
 - d. ervaring:
 
-- 1°. voor TRI(A), TRI(H), respectievelijk TRI(E): de eisen, bedoeld in JAR-FCL 1.365(a)(2)(3) en (4), 2.365(b)(c)(d)en (e), respectievelijk 4.365(a)(2)(3) en (4);
+- 1°. voor TRI(A), TRI(H), respectievelijk TRI(E): de eisen, bedoeld in JAR-FCL 1.365(a)(2)(3) en (4), JAR-FCL 2.365(b)(c)(d)en (e), respectievelijk JAR-FCL 4.365(a)(2)(3) en (4);
 
-- 2°. voor CRI(A): de eisen, bedoeld in JAR-FCL 1.380 (a)(1-3) en 1.380(b)(1-3);
+- 2°. voor CRI(A): de eisen, bedoeld in JAR-FCL 1.380 (a)(1-3) en JAR-FCL 1.380(b)(1-3);
 
 - 3°. voor IRI(A), respectievelijk IRI(H): de eisen, bedoeld in JAR-FCL 1.395(a), respectievelijk 2.395(a);
 
-- 4°. voor SFI(A), SFI(H) respectievelijk SFI(E): de eisen, bedoeld in JAR-FCL 1.410 (a)(3) en (a)(7), 2.410 (a)(3) en (a)(7) respectievelijk 4.410 (a)(3) en (a)(7);
+- 4°. voor SFI(A), SFI(H) respectievelijk SFI(E): de eisen, bedoeld in JAR-FCL 1.410 (a)(3) en (a)(7), JAR-FCL 2.410 (a)(3) en (a)(7) respectievelijk JAR-FCL 4.410 (a)(3) en (a)(7);
 
 - 5°. voor opheffing van de beperking, om geen verantwoordelijkheid te mogen dragen voor eerste solovluchten of eerste solo navigatievluchten, voor RFI(A), respectievelijk RFI(H): 100 uur vlieginstructie en ten minste 25 solovluchten beoordelen en een aanbeveling van de houder van een RFI(A), respectievelijk RFI(H), die als mentor optreedt;
 
-- 6°. voor uitbreiding van de bevoegdheid van RFI(A), respectievelijk RFI(H), naar een andere klasse, respectievelijk naar een ander type, binnen de categorie: 50 vlieguren op een vliegtuig van de betreffende klasse, respectievelijk 15 vlieguren op een helikopter van het betreffende type, binnen 12 maanden voorafgaand aan de uitbreiding.
+- 6°. voor uitbreiding van de bevoegdheid van RFI(A), respectievelijk RFI(H), naar een andere klasse, respectievelijk naar een ander type, binnen de categorie: 50 vlieguren op een vliegtuig en praktijkexamen van de betreffende klasse, respectievelijk 15 vlieguren op een helikopter van het betreffende type, binnen 12 maanden voorafgaand aan de uitbreiding.
 
-2. Voor uitbreiding van de bevoegdheden van de houder van een FI(A), respectievelijk FI(H), voldoet de houder aan de eisen gesteld in JAR-FCL 1.325(a) dan wel 1.330, respectievelijk 2.325(a) dan wel 2.330.
+2. Voor uitbreiding van de bevoegdheden van de houder van een FI(A), respectievelijk FI(H), voldoet de houder aan de eisen gesteld in JAR-FCL 1.325(a) dan wel JAR-FCL 1.330, respectievelijk JAR-FCL 2.325(a) dan wel JAR-FCL 2.330.
 
-3. Voor uitbreiding van de bevoegdheden naar andere klassen of typen vliegtuigen van respectievelijk een TRI(A), een CRI(A) of een SFI(A) voldoet de houder aan de eisen gesteld in respectievelijk JAR-FCL 1.365(b), 1.380(c) of 1.410(b).
+3. Voor uitbreiding van de bevoegdheden naar andere klassen of typen vliegtuigen van respectievelijk een TRI(A), een CRI(A) of een SFI(A) voldoet de houder aan de eisen gesteld in respectievelijk JAR-FCL 1.365(b), JAR-FCL 1.380(c) of JAR-FCL 1.410(b).
 
-4. Voor uitbreiding van de bevoegdheden naar andere typen helikopters van respectievelijk een TRI(H) of een SFI(H) voldoet de houder aan de eisen gesteld in respectievelijk JAR-FCL 2.365(f) of 2.410(b).
+4. Voor uitbreiding van de bevoegdheden naar andere typen helikopters van respectievelijk een TRI(H) of een SFI(H) voldoet de houder aan de eisen gesteld in respectievelijk JAR-FCL 2.365(f) of JAR-FCL 2.410(b).
 
-5. Voor uitbreiding van de bevoegdheden van respectievelijk een TRI(E) of een SFI(E) naar andere typen voldoet de houder aan de eisen gesteld in respectievelijk JAR-FCL 4.365(b) of 4.410(b).
+5. Voor uitbreiding van de bevoegdheden van respectievelijk een TRI(E) of een SFI(E) naar andere typen voldoet de houder aan de eisen gesteld in respectievelijk JAR-FCL 4.365(b) of JAR-FCL 4.410(b).
 
 ##### Artikel 21. FI(FB)
 
@@ -421,19 +427,17 @@ De eisen voor afgifte van een RT zijn:
 
 - d. drie uren instructie hebben gegeven onder toezicht van een FI(FB).
 
-2. De in het eerste lid, onder c en d, bedoelde eisen gelden niet voor zover de bevoegdverklaring FI(FB) wordt aangevraagd voor 1 oktober 2005.
+2. De FI(FB) is beperkt tot de klasse van vrije ballonnen voor welke aan de houder ervan een klassebevoegdverklaring is afgegeven, onverminderd het bepaalde in [artikel 28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021240&hoofdstuk=4&paragraaf=3&artikel=28&z=2007-05-12&g=2007-05-12).
 
-3. De FI(FB) is beperkt tot de klasse van vrije ballonnen voor welke aan de houder ervan een klassebevoegdverklaring is afgegeven, onverminderd het bepaalde in [artikel 28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021240&hoofdstuk=4&paragraaf=3&artikel=28&z=2005-09-04&g=2005-09-04).
-
-4. De minister kan houders van een FI(FB) aanwijzen die bevoegd zijn om klassebevoegdverklaringen van derden te verlengen dan wel te hernieuwen door daarvan namens de minister aantekening te maken op het document, waarop bewijzen van bevoegdheid en bevoegdverklaringen worden weergegeven.
+3. De minister kan houders van een FI(FB) aanwijzen die bevoegd zijn om klassebevoegdverklaringen van derden te verlengen dan wel te hernieuwen door daarvan namens de minister aantekening te maken op het document, waarop bewijzen van bevoegdheid en bevoegdverklaringen worden weergegeven.
 
 ##### Artikel 22. Night qualification
 
 De eisen voor afgifte van een night qualification zijn:
 
-- a. voor PPL(A), respectievelijk PPL(H): de eisen, bedoeld in JAR-FCL 1.125(c), respectievelijk 2.125(c);
+- a. voor PPL(A), respectievelijk PPL(H): de eisen, bedoeld in JAR-FCL 1.125(c), respectievelijk JAR-FCL 2.125(c);
 
-- b. voor CPL(A), respectievelijk CPL(H): de eisen, bedoeld in JAR-FCL 1.165(b), respectievelijk 2.165(b);
+- b. voor CPL(A), respectievelijk CPL(H): de eisen, bedoeld in JAR-FCL 1.165(b), respectievelijk JAR-FCL 2.165(b);
 
 - c. voor CPL(FB): ten minste twee vluchten van tenminste twee uur bij nacht hebben uitgevoerd met een FI(FB).
 
@@ -441,23 +445,23 @@ De eisen voor afgifte van een night qualification zijn:
 
 ##### Artikel 23. Bijzondere bevoegdverklaringen (A)/(H)/(E) toelatingseisen opleiding
 
-1. De aanvrager van een MP typebevoegdverklaring in een bewijs van bevoegdheid voor vliegtuigen, voor helikopters, respectievelijk in een CFEL, heeft voldaan aan de toelatingseisen voor de opleiding, bedoeld in JAR-FCL 1.250, 2.250, respectievelijk 4.250.
+1. De aanvrager van een MP typebevoegdverklaring in een bewijs van bevoegdheid voor vliegtuigen, voor helikopters, respectievelijk in een CFEL, heeft voldaan aan de toelatingseisen voor de opleiding, bedoeld in JAR-FCL 1.250, JAR-FCL 2.250, respectievelijk JAR-FCL 4.250.
 
-2. De aanvrager van een eerste High Performance (HPA) typebevoegdverklaring in de categorie vliegtuigen, bedoeld in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0021240&bijlage=5&z=2005-09-04&g=2005-09-04) bij deze regeling, heeft voor aanvang van het opleidingstraject voldaan aan de volgende toelatingseisen:
+2. De aanvrager van een eerste High Performance (HPA) typebevoegdverklaring in de categorie vliegtuigen, bedoeld in JAR-FCL 1.221, heeft voor aanvang van het opleidingstraject voldaan aan de volgende toelatingseisen:
 
 - a. tenminste 200 uur vliegervaring,
 
-- b. de eisen, bedoeld in [artikel 25, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0021240&hoofdstuk=4&paragraaf=3&artikel=25&z=2005-09-04&g=2005-09-04), subonderdeel 2° voor een SP-ME typebevoegdverklaring respectievelijk onder c, subonderdeel 3° voor een SP-ME klassebevoegdverklaring, en
+- b. de eisen, bedoeld in [artikel 25, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0021240&hoofdstuk=4&paragraaf=3&artikel=25&z=2007-05-12&g=2007-05-12), subonderdeel 2° voor een SP-ME typebevoegdverklaring respectievelijk onder c, subonderdeel 3° voor een SP-ME klassebevoegdverklaring, en
 
 - c. de eisen, bedoeld in JAR-FCL 1.251.
 
-3. De aanvrager van een eerste SP-ME typebevoegdverklaring in de categorie helikopters, zoals bedoeld in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0021240&bijlage=5&z=2005-09-04&g=2005-09-04) bij deze regeling, heeft voor aanvang van het opleidingstraject voldaan aan de volgende toelatingseisen:
+3. De aanvrager van een eerste SP-ME typebevoegdverklaring in de categorie helikopters, zoals bedoeld in JAR-FCL 2.220, heeft voor aanvang van het opleidingstraject voldaan aan de volgende toelatingseisen:
 
 - a. tenminste 70 uur vliegervaring als eerste bestuurder van helikopters, en
 
 - b. met goed gevolg bij een gekwalificeerde opleidingsinstelling een opleiding voor een eerste ME typebevoegdverklaring in de categorie helikopters hebben gevolgd; of
 
-- c. voldaan hebben aan de theorie-eisen voor een CPL(H), bedoeld in [artikel 9, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0021240&hoofdstuk=4&paragraaf=1&artikel=9&z=2005-09-04&g=2005-09-04).
+- c. voldaan hebben aan de theorie-eisen voor een CPL(H), bedoeld in [artikel 9, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0021240&hoofdstuk=4&paragraaf=1&artikel=9&z=2007-05-12&g=2007-05-12).
 
 ##### Artikel 24. Bijzondere bevoegdverklaringen (A)/(H)/(E) opleidingseisen
 
@@ -475,9 +479,9 @@ De eisen voor afgifte van een night qualification zijn:
 
 - a. kennis:
 
-- 1°. voor MP(A), MP(H), respectievelijk MP(E) typebevoegdverklaring: de eisen, bedoeld in JAR-FCL 1.261(a) en (d), 2.261(a) en (d), respectievelijk 4.261(a) en (d),
+- 1°. voor MP(A), MP(H), respectievelijk MP(E) typebevoegdverklaring: de eisen, bedoeld in JAR-FCL 1.261(a) en (d), 2.261(a) en (d), respectievelijk JAR-FCL 4.261(a) en (d),
 
-- 2°. voor SP(A), respectievelijk SP(H), typebevoegdverklaring: de eisen, bedoeld in JAR-FCL 1.261(a), respectievelijk 2.261(a),
+- 2°. voor SP(A), respectievelijk SP(H), typebevoegdverklaring: de eisen, bedoeld in JAR-FCL 1.261(a), respectievelijk JAR-FCL 2.261(a),
 
 - 3°. voor SP-ME klassebevoegdverklaring: de eisen, bedoeld in JAR-FCL 1.261(a),
 
@@ -485,31 +489,31 @@ De eisen voor afgifte van een night qualification zijn:
 
 - b. bedrevenheid:
 
-- 1°. voor MP(A), MP(H), respectievelijk MP(E) typebevoegdverklaring: de eisen, bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0021240&bijlage=2&z=2005-09-04&g=2005-09-04) bij deze regeling, binnen zes maanden na de eerste van de maand, volgend op de maand waarin de opleiding, bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0021240&hoofdstuk=4&paragraaf=3&artikel=24&z=2005-09-04&g=2005-09-04), met goed gevolg is afgerond;
+- 1°. voor MP(A), MP(H), respectievelijk MP(E) typebevoegdverklaring: de eisen, bedoeld in JAR-FCL 1.240(b)(1), JAR-FCL 2.240(b)(1), respectievelijk JAR-FCL 4.240(b),
 
-- 2°. voor SP(A) type- en klassebevoegdverklaringen, respectievelijk SP(H) typebevoegdverklaringen: de eisen, bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0021240&bijlage=2&z=2005-09-04&g=2005-09-04) bij deze regeling, binnen zes maanden na de eerste van de maand, volgend op de maand waarin de opleiding, bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0021240&hoofdstuk=4&paragraaf=3&artikel=24&z=2005-09-04&g=2005-09-04), met goed gevolg is afgerond.
+- 2°. voor SP(A) type- en klassebevoegdverklaringen, respectievelijk SP(H) typebevoegdverklaringen: de eisen, bedoeld JAR-FCL 1.240(b)(2), respectievelijk JAR-FCL 2.240(b)(2),
 
 - c. ervaring:
 
-- 1°. voor MP(A), MP(H), respectievelijk MP(E) typebevoegdverklaring: de eisen, bedoeld in JAR-FCL 1.261, 2.261, respectievelijk 4.261 en 4.262,
+- 1°. voor MP(A), MP(H), respectievelijk MP(E) typebevoegdverklaring: de eisen, bedoeld in JAR-FCL 1.261, JAR-FCL 2.261, respectievelijk JAR-FCL 4.261 en JAR-FCL 4.262,
 
-- 2°. voor SP-ME(A) typebevoegdverklaring, respectievelijk SP-ME(H) typebevoegdverklaring: de eisen, bedoeld in JAR-FCL 1.255, respectievelijk 2.255;
+- 2°. voor SP-ME(A) typebevoegdverklaring, respectievelijk SP-ME(H) typebevoegdverklaring: de eisen, bedoeld in JAR-FCL 1.255, respectievelijk JAR-FCL 2.255;
 
 - 3°. voor SP-ME(A) klassebevoegdverklaring: de eisen, bedoeld in JAR-FCL 1.260.
 
-2. De eisen, bedoeld in het eerste lid, onderdelen a en c en in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0021240&hoofdstuk=4&paragraaf=3&artikel=24&z=2005-09-04&g=2005-09-04), voor de afgifte van een multi-pilot typebevoegdverklaring voor vliegers in de categorie vliegtuigen of helikopters, respectievelijk voor een typebevoegdverklaring voor boordwerktuigkundigen, gelden niet voor de houder van een in een ICAO-staat volgens de ICAO-eisen afgegeven geldige bevoegdverklaring voor een gelijk type als waarvoor de typebevoegdverklaring wordt aangevraagd, die:
+2. De eisen, bedoeld in het eerste lid, onderdelen a en c en in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0021240&hoofdstuk=4&paragraaf=3&artikel=24&z=2007-05-12&g=2007-05-12), voor de afgifte van een multi-pilot typebevoegdverklaring voor vliegers in de categorie vliegtuigen of helikopters, respectievelijk voor een typebevoegdverklaring voor boordwerktuigkundigen, gelden niet voor de houder van een in een ICAO-staat volgens de ICAO-eisen afgegeven geldige bevoegdverklaring voor een gelijk type als waarvoor de typebevoegdverklaring wordt aangevraagd, die:
 
 - a. ten minste 500 uur vliegervaring heeft op het desbetreffende type, en
 
 - b. in de drie maanden voorafgaand aan de maand van aanvraag van de typebevoegdverklaring op een luchtvaartuig van het desbetreffende type heeft gevlogen.
 
-3. De eisen, bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0021240&hoofdstuk=4&paragraaf=3&artikel=24&z=2005-09-04&g=2005-09-04) en in het eerste lid van dit artikel, onderdeel a, voor de afgifte van een single-pilot typebevoegdverklaring voor vliegers in de categorie vliegtuigen of helikopters gelden niet voor de houder van een in een ICAO-staat volgens de ICAO-eisen afgegeven geldige bevoegdverklaring voor het gelijke type als dat waarvoor de single-pilot typebevoegdverklaring wordt aangevraagd, die:
+3. De eisen, bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0021240&hoofdstuk=4&paragraaf=3&artikel=24&z=2007-05-12&g=2007-05-12) en in het eerste lid van dit artikel, onderdeel a, voor de afgifte van een single-pilot typebevoegdverklaring voor vliegers in de categorie vliegtuigen of helikopters gelden niet voor de houder van een in een ICAO-staat volgens de ICAO-eisen afgegeven geldige bevoegdverklaring voor het gelijke type als dat waarvoor de single-pilot typebevoegdverklaring wordt aangevraagd, die:
 
 - a. ten minste 500 uur vliegervaring bezit op het betreffende type, en
 
 - b. feitelijk in de drie maanden voorafgaand aan de maand van aanvraag van de betreffende typebevoegdverklaring op een luchtvaartuig van het betreffende type heeft gevlogen.
 
-4. De eisen, bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0021240&hoofdstuk=4&paragraaf=3&artikel=24&z=2005-09-04&g=2005-09-04) en in het eerste lid van dit artikel, onderdeel a, voor de afgifte van een klassebevoegdverklaring gelden niet voor de houder van een in een ICAO-staat volgens de ICAO-eisen afgegeven geldige bevoegdverklaring voor de gelijke klasse als die waar-voor de klassebevoegdverklaring wordt aangevraagd, die:
+4. De eisen, bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0021240&hoofdstuk=4&paragraaf=3&artikel=24&z=2007-05-12&g=2007-05-12) en in het eerste lid van dit artikel, onderdeel a, voor de afgifte van een klassebevoegdverklaring gelden niet voor de houder van een in een ICAO-staat volgens de ICAO-eisen afgegeven geldige bevoegdverklaring voor de gelijke klasse als die waar-voor de klassebevoegdverklaring wordt aangevraagd, die:
 
 - a. ten minste 100 uur vliegervaring bezit op de betreffende klasse, en
 
@@ -521,7 +525,7 @@ De eisen voor afgifte van een klassebevoegdverklaring in een RPL(A), respectieve
 
 - a. de opleiding voor de betreffende klasse, respectievelijk het betreffende type, met dien verstande dat degene die al in het bezit is van een klassebevoegdverklaring, respectievelijk type-bevoegdverklaring, ten minste de in het opleidingsprogramma beschreven solo-ervaring moet opdoen, en
 
-- b. bedrevenheidseisen voor SP(A) klassebevoegdverklaring, respectievelijk SP(H) typebevoegdverklaring, bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0021240&bijlage=2&z=2005-09-04&g=2005-09-04) bij deze regeling, waarbij het examen wordt afgelegd op een luchtvaartuig van de klasse, respectievelijk het type, waarvoor de bevoegdverklaring wordt aangevraagd.
+- b. bedrevenheidseisen voor SP(A) klassebevoegdverklaring, respectievelijk SP(H) typebevoegdverklaring, bedoeld in JAR-FCL 1.240(b)(2), respectievelijk JAR-FCL 2.240(b)(2), waarbij het examen wordt afgelegd op een luchtvaartuig van de klasse, respectievelijk het type, waarvoor de bevoegdverklaring wordt aangevraagd.
 
 ##### Artikel 27. Bijzondere bevoegdverklaringen in RPL(G)
 
@@ -539,7 +543,7 @@ Vervallen
 
 - 2°. tenminste vijf vluchten met een gezamenlijke vluchttijd van tenminste vijf uren hebben uitgevoerd op een heteluchtballon van de klasse B, met een FI(FB);
 
-- 3°. een verklaring van de instructeur, bedoeld onder 2°, dat voldaan wordt aan de bedrevenheideisen, bedoeld in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0021240&bijlage=7&z=2005-09-04&g=2005-09-04) bij deze regeling;
+- 3°. een verklaring van de instructeur, bedoeld onder 2°, dat voldaan wordt aan de bedrevenheideisen, bedoeld in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0021240&bijlage=7&z=2007-05-12&g=2007-05-12) bij deze regeling;
 
 - c. voor de klassebevoegdverklaring heteluchtballon(C):
 
@@ -547,7 +551,7 @@ Vervallen
 
 - 2°. tenminste vijf vluchten met een gezamenlijke vluchttijd van tenminste vijf uren hebben uitgevoerd op een heteluchtballon van de klasse C, met een FI(FB);
 
-- 3°. een verklaring van de instructeur, bedoeld onder 2°, dat voldaan wordt aan de bedrevenheideisen, bedoel in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0021240&bijlage=7&z=2005-09-04&g=2005-09-04) bij deze regeling;
+- 3°. een verklaring van de instructeur, bedoeld onder 2°, dat voldaan wordt aan de bedrevenheideisen, bedoel in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0021240&bijlage=7&z=2007-05-12&g=2007-05-12) bij deze regeling;
 
 - d. voor de klassebevoegdverklaring heteluchtballon(D):
 
@@ -555,7 +559,7 @@ Vervallen
 
 - 2°. tenminste vijf vluchten met een gezamenlijke vluchttijd van tenminste vijf uren hebben uitgevoerd op een heteluchtballon van de klasse D, met een FI(FB);
 
-- 3°. een verklaring van de instructeur, bedoeld onder 2°, dat voldaan wordt aan de bedrevenheideisen, bedoeld in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0021240&bijlage=7&z=2005-09-04&g=2005-09-04) bij deze regeling;
+- 3°. een verklaring van de instructeur, bedoeld onder 2°, dat voldaan wordt aan de bedrevenheideisen, bedoeld in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0021240&bijlage=7&z=2007-05-12&g=2007-05-12) bij deze regeling;
 
 - e. voor de klassebevoegdverklaring gasballon: de eisen bedoeld onder a.
 
@@ -567,17 +571,17 @@ Vervallen
 
 ##### Artikel 29. IR verlenging
 
-1. Een IR(A), respectievelijk IR(H), wordt slechts verlengd indien de aanvrager binnen drie maanden voor afloop van de geldigheidsduur voldoet aan de eisen, bedoeld in JAR-FCL 1.185(a) en (b), respectievelijk 2.185(a) en (b).
+1. Een IR(A), respectievelijk IR(H), wordt slechts verlengd indien de aanvrager binnen drie maanden voor afloop van de geldigheidsduur voldoet aan de eisen, bedoeld in JAR-FCL 1.185(a) en (b), respectievelijk JAR-FCL 2.185 (a) en (b ).
 
-2. De houder van zowel een geldige bevoegdverklaring IR-ME als een geldige bevoegdverklaring IR-SE voor de categorie vliegtuigen kan de proeve van bekwaamheid voor de verlenging van de bevoegdverklaring IR-SE, bedoeld in het eerste lid, vervangen door een proeve van bekwaamheid voor de bevoegdverklaring IR-ME, bedoeld in het eerste lid, onder de voorwaarde dat hij als hij in het bezit is van een geldige bevoegdverklaring SE-P, deze laatstelijk heeft verlengd door middel van hetzij een proeve van bekwaamheid op een SE-P vliegtuig, zoals bedoeld in [artikel 37, eerste lid, onderdeel d onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0021240&hoofdstuk=5&paragraaf=2&artikel=37&z=2005-09-04&g=2005-09-04), hetzij door middel van een trainingsvlucht op een SE-P vliegtuig, zoals bedoeld in [artikel 37, eerste lid, onderdeel d onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0021240&hoofdstuk=5&paragraaf=2&artikel=37&z=2005-09-04&g=2005-09-04).
+2. De houder van zowel een geldige bevoegdverklaring IR-ME als een geldige bevoegdverklaring IR-SE voor de categorie vliegtuigen kan de proeve van bekwaamheid voor de verlenging van de bevoegdverklaring IR-SE, bedoeld in het eerste lid, vervangen door een proeve van bekwaamheid voor de bevoegdverklaring IR-ME, bedoeld in het eerste lid, onder de voorwaarde dat hij als hij in het bezit is van een geldige bevoegdverklaring SE-P, deze laatstelijk heeft verlengd door middel van een proeve van bekwaamheid op een SE-P vliegtuig, als bedoeld in [artikel 37, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0021240&hoofdstuk=5&paragraaf=2&artikel=37&z=2007-05-12&g=2007-05-12).
 
 ##### Artikel 30. IR hernieuwde afgifte
 
 De eisen voor hernieuwde afgifte na verlopen van een IR(A), respectievelijk IR(H), zijn:
 
-- a. indien de geldigheid van de bevoegdverklaring ten hoogste 84 maanden is verlopen, de eisen, bedoeld in JAR-FCL 1.185(d), respectievelijk 2.185(d); of
+- a. indien de geldigheid van de bevoegdheidverklaring ten hoogste 84 maanden is verlopen, de eisen als bedoeld in JAR-FCL 1.185(a) en (b), respectievelijk JAR-FCL 2.185(d); of
 
-- b. indien de geldigheid langer dan 84 maanden is verlopen, de eisen, bedoeld onder a, alsmede de eisen bedoeld in JAR-FCL 1.185 (e) respectievelijk 2.185 (d).
+- b. indien de geldigheid langer dan 84 maanden is verlopen, de eisen, bedoeld onder a, alsmede de eisen bedoeld in JAR-FCL 1.185(c), respectievelijk JAR-FCL 2.185(d).
 
 ##### Artikel 31. CSR verlenging
 
@@ -585,25 +589,25 @@ De eisen voor verlenging van een CSR zijn:
 
 - a. ervaring: in de 24 maanden voorafgaande aan de verlenging gedurende ten minste 12 uren de bevoegdheden van CSR hebben uitgeoefend, en
 
-- b. bedrevenheid: hebben voldaan aan de eisen, bedoeld in [artikel 17, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0021240&hoofdstuk=4&paragraaf=2&artikel=17&z=2005-09-04&g=2005-09-04).
+- b. bedrevenheid: hebben voldaan aan de eisen, bedoeld in [artikel 17, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0021240&hoofdstuk=4&paragraaf=2&artikel=17&z=2007-05-12&g=2007-05-12).
 
 ##### Artikel 32. CSR hernieuwde afgifte
 
-Een CSR wordt slechts hernieuwd afgegeven na verlopen indien de aanvrager voldoet aan de eisen, bedoeld in [artikel 17, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0021240&hoofdstuk=4&paragraaf=2&artikel=17&z=2005-09-04&g=2005-09-04), alsmede [artikel 31, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0021240&hoofdstuk=5&paragraaf=1&artikel=31&z=2005-09-04&g=2005-09-04).
+Een CSR wordt slechts hernieuwd afgegeven na verlopen indien de aanvrager voldoet aan de eisen, bedoeld in [artikel 17, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0021240&hoofdstuk=4&paragraaf=2&artikel=17&z=2007-05-12&g=2007-05-12), alsmede [artikel 31, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0021240&hoofdstuk=5&paragraaf=1&artikel=31&z=2007-05-12&g=2007-05-12).
 
 ##### Artikel 33. Instructeursbevoegdverklaringen (A)/(H)/(E) verlenging
 
 De eisen voor verlenging van een instructeursbevoegdverklaring in de categorie vliegtuigen, respectievelijk helikopters, zijn:
 
-- a. voor FI(A) respectievelijk FI(H): de eisen, bedoeld in JAR-FCL 1.355 (a) en (b), respectievelijk 2.355 (a) en (b);
+- a. voor FI(A) respectievelijk FI(H): de eisen, bedoeld in JAR-FCL 1.355 (a) en (b), respectievelijk JAR-FCL 2.355 (a) en (b);
 
-- b. voor TRI(A), TRI(H), respectievelijk TRI(E): de eisen bedoeld in JAR-FCL 1.370(a), 2.370(a), respectievelijk 4.370(a);
+- b. voor TRI(A), TRI(H), respectievelijk TRI(E): de eisen bedoeld in JAR-FCL 1.370(a), JAR-FCL 2.370(a), respectievelijk JAR-FCL 4.370(a);
 
 - c. voor CRI(A): de eisen, bedoeld in JAR-FCL 1.385(a);
 
-- d. voor IRI(A), respectievelijk IRI(H): de eisen, bedoeld in JAR-FCL 1.400(a), respectievelijk 2.400(a);
+- d. voor IRI(A), respectievelijk IRI(H): de eisen, bedoeld in JAR-FCL 1.400(a), respectievelijk JAR-FCL 2.400(a);
 
-- e. voor SFI(A), SFI(H), respectievelijk SFI(E): de eisen, bedoeld in JAR-FCL 1.415(a), 2.415(a), respectievelijk 4.415(a);
+- e. voor SFI(A), SFI(H), respectievelijk SFI(E): de eisen, bedoeld in JAR-FCL 1.415(a), JAR-FCL 2.415(a), respectievelijk JAR-FCL 4.415(a);
 
 - f. voor RFI(A) en RFI(H): de aanvrager voldoet aan ten minste twee van de volgende drie eisen:
 
@@ -613,25 +617,29 @@ De eisen voor verlenging van een instructeursbevoegdverklaring in de categorie v
 
 - 3°. met goed resultaat een proeve van bekwaamheid afleggen op een luchtvaartuig van de betreffende klasse of type, afgenomen door een RFIE, in de 12 maanden voor afloop van de geldigheidsduur van de bevoegdverklaring;
 
-- g. voor MCCI(A): de eisen, bedoeld in JAR-FCL 1.418(a).
+- g. voor MCCI(A): de eisen, bedoeld in JAR-FCL 1.418(a);
+
+- h. voor STI(A); de eisen, bedoeld in JAR-FCL 1.419(c).
 
 ##### Artikel 34. Instructeursbevoegdverklaringen (A)/(H)/(E) hernieuwde afgifte
 
 De eisen voor hernieuwde afgifte na verlopen van een instructeursbe-voegdverklaring in de categorie vlieg-tuigen, respectievelijk helikopters, zijn:
 
-- a. Voor FI(A) respectievelijk FI(H): de eisen, bedoeld in JAR-FCL 1.355 (c), respectievelijk 2.355 (c);
+- a. Voor FI(A) respectievelijk FI(H): de eisen, bedoeld in JAR-FCL 1.355 (c), respectievelijk JAR-FCL 2.355 (c);
 
-- b. voor TRI(A), TRI(H), respectievelijk TRI(E): de eisen, bedoeld in JAR-FCL 1.370(b), 2.370(b), respectievelijk 4.370(b);
+- b. voor TRI(A), TRI(H), respectievelijk TRI(E): de eisen, bedoeld in JAR-FCL 1.370(b), JAR-FCL 2.370(b), respectievelijk JAR-FCL 4.370(b));
 
 - c. voor CRI(A): de eisen, bedoeld in JAR-FCL 1.385(b), met dien verstande dat de herhalingstraining, bedoeld in dat artikel, instemming van de minister behoeft;
 
-- d. voor IRI(A), respectievelijk IRI(H): de eisen, bedoeld in JAR-FCL 1.400(b), respectievelijk 2.400(b);
+- d. voor IRI(A), respectievelijk IRI(H): de eisen, bedoeld in JAR-FCL 1.400(b), respectievelijk JAR-FCL 2.400(b);
 
-- e. voor SFI(A), SFI(H), respectievelijk SFI(E): de eisen, bedoeld in JAR-FCL 1.415(b), 2.415(b), respectievelijk 4.415(b);
+- e. voor SFI(A), SFI(H), respectievelijk SFI(E): de eisen, bedoeld in JAR-FCL 1.415(b), JAR-FCL 2.415(b), respectievelijk JAR-FCL 4.415(b);
 
-- f. voor RFI(A) en RFI(H): de eisen, bedoeld in [artikel 33, onderdeel f, onder 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0021240&hoofdstuk=5&paragraaf=1&artikel=33&z=2005-09-04&g=2005-09-04), met dien verstande dat aan deze eisen is voldaan in de 12 maanden voorafgaand aan hernieuwde afgifte na verlopen van de bevoegdverklaring;
+- f. voor RFI(A) en RFI(H): de eisen, bedoeld in [artikel 33, onderdeel f, onder 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0021240&hoofdstuk=5&paragraaf=1&artikel=33&z=2007-05-12&g=2007-05-12), met dien verstande dat aan deze eisen is voldaan in de 12 maanden voorafgaand aan hernieuwde afgifte na verlopen van de bevoegdverklaring;
 
-- g. voor MCCI(A): de eisen, bedoeld in JAR-FCL 1.418(b).
+- g. voor MCCI(A): de eisen, bedoeld in JAR-FCL 1.418(b);
+
+- h. voor STI(A); de eisen, bedoeld in JAR-FCL 1.419(d).
 
 ##### Artikel 35. FI(FB) verlenging
 
@@ -647,7 +655,7 @@ De eisen voor hernieuwde afgifte na verlopen van een instructeursbe-voegdverklar
 
 ##### Artikel 36
 
-Voor de hernieuwde afgifte van een verlopen bevoegdverklaring FI(FB), moet binnen de laatste 12 maanden voor de hernieuwde afgifte zijn voldaan aan de eisen, genoemd in [artikel 35, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0021240&hoofdstuk=5&paragraaf=1&artikel=35&z=2005-09-04&g=2005-09-04).
+Voor de hernieuwde afgifte van een verlopen bevoegdverklaring FI(FB), moet binnen de laatste 12 maanden voor de hernieuwde afgifte zijn voldaan aan de eisen, genoemd in [artikel 35, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0021240&hoofdstuk=5&paragraaf=1&artikel=35&z=2007-05-12&g=2007-05-12).
 
 #### § 2. Bijzondere bevoegdverklaringen
 
@@ -655,19 +663,19 @@ Voor de hernieuwde afgifte van een verlopen bevoegdverklaring FI(FB), moet binne
 
 De eisen voor verlenging van een type- of klassebevoegdverklaring in een ATPL, CPL, PPL of CFEL zijn:
 
-- a. voor MP(A), MP(H), respectievelijk MP(E), typebevoegdverklaring: de eisen, bedoeld in JAR-FCL 1.245(b), 2.245(b), respectievelijk 4.245(b) en voor zover van toepassing [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0021240&bijlage=2&z=2005-09-04&g=2005-09-04) bij deze regeling;
+- a. voor MP(A), MP(H), respectievelijk MP(E), typebevoegdverklaring: de eisen, bedoeld in JAR-FCL 1.245(b), 2.245(b), respectievelijk 4.245(b) en voor zover van toepassing JAR-FCL 1.240(b)(1), JAR-FCL 2.240(b)(1), respectievelijk JAR-FCL 4.240(b);
 
-- b. voor SP(A), respectievelijk SP(H), typebevoegdverklaring: de eisen, bedoeld in JAR-FCL 1.245(b), respectievelijk 2.245(b), en voor zover van toepassing [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0021240&bijlage=2&z=2005-09-04&g=2005-09-04) bij deze regeling;
+- b. voor SP(A), respectievelijk SP(H), typebevoegdverklaring: de eisen, bedoeld in JAR-FCL 1.245(b), respectievelijk 2.245(b), en voor zover van toepassing JAR-FCL 1.240(b)(2), respectievelijk JAR-FCL 2.240(b)(2);
 
-- c. voor SP-ME(A) klassebevoegdverklaring: de eisen, bedoeld in JAR-FCL 1.245(b) en voor zover van toepassing [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0021240&bijlage=2&z=2005-09-04&g=2005-09-04) bij deze regeling;
+- c. voor SP-ME(A) klassebevoegdverklaring: de eisen, bedoeld in JAR-FCL 1.245(b) en voor zover van toepassing JAR-FCL 1.240(b)(2), respectievelijk JAR-FCL 2.240(b)(2);
 
-- d. voor SP-SE klassebevoegdverklaring en TMG: de eisen bedoeld in JAR-FCL 1.245 (c) en voor zover van toepassing [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0021240&bijlage=2&z=2005-09-04&g=2005-09-04) bij deze regeling.
+- d. voor SP-SE klassebevoegdverklaring en TMG: de eisen bedoeld in JAR-FCL 1.245 (c) en voor zover van toepassing JAR-FCL 1.240(b)(2), respectievelijk JAR-FCL 2.240(b)(2).
 
 ##### Artikel 38. Bijzondere bevoegdverklaringen (A)/(H)/(E) hernieuwde afgifte
 
 1. De eisen voor hernieuwde afgifte na verlopen van een SP-SE klassebevoegdverklaring in een ATPL, CPL of PPL zijn de eisen, bedoeld in JAR-FCL 1.245(f)(2).
 
-2. De eisen voor hernieuwde afgifte na verlopen van de overige type- of klassebevoegdverklaringen in een ATPL, CPL of PPL voor vliegtuigen, helikopters, respectievelijk in een CFEL, zijn tot 36 maanden na de vervaldatum de eisen, bedoeld in JAR-FCL 1.245(f)(1), 2.245(e) respectievelijk 4.245(e).
+2. De eisen voor hernieuwde afgifte na verlopen van de overige type- of klassebevoegdverklaringen in een ATPL, CPL of PPL voor vliegtuigen, helikopters, respectievelijk in een CFEL, zijn tot 36 maanden na de vervaldatum de eisen, bedoeld in JAR-FCL 1.245(f)(1), JAR-FCL 2.245(e), respectievelijk JAR-FCL 4.245(e).
 
 ##### Artikel 39. Bijzondere bevoegdverklaringen in RPL(A)/(H) verlenging
 
@@ -687,17 +695,17 @@ De eisen voor verlenging van een type- of klassebevoegdverklaring in een ATPL, C
 
 ##### Artikel 40. Bijzondere bevoegdverklaringen in RPL(A)/(H) hernieuwde afgifte
 
-Een type of klassebevoegdverklaring in een RPL(A) of RPL(H) wordt slechts hernieuwd afgegeven na verlopen indien de aanvrager voldoet aan de eisen bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0021240&hoofdstuk=4&paragraaf=3&artikel=26&z=2005-09-04&g=2005-09-04).
+Een type of klassebevoegdverklaring in een RPL(A) of RPL(H) wordt slechts hernieuwd afgegeven na verlopen indien de aanvrager voldoet aan de eisen bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0021240&hoofdstuk=4&paragraaf=3&artikel=26&z=2007-05-12&g=2007-05-12).
 
 ##### Artikel 41. Klassebevoegdverklaring CPL(FB) verlenging
 
-1. De eisen voor verlenging van een klassebevoegdverklaring als bedoeld in [artikel 28, eerste lid, onderdelen b tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0021240&hoofdstuk=4&paragraaf=3&artikel=28&z=2005-09-04&g=2005-09-04) zijn:
+1. De eisen voor verlenging van een klassebevoegdverklaring als bedoeld in [artikel 28, eerste lid, onderdelen b tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0021240&hoofdstuk=4&paragraaf=3&artikel=28&z=2007-05-12&g=2007-05-12) zijn:
 
-- a. gedurende de geldigheidsduur, bedoeld in [artikel 7, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0021240&hoofdstuk=3&artikel=7&z=2005-09-04&g=2005-09-04), tenminste 12 vluchten als gezagvoerder hebben uitgevoerd waarbij de totale vluchttijd tenminste 12 uren bedraagt;
+- a. gedurende de geldigheidsduur, bedoeld in [artikel 7, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0021240&hoofdstuk=3&artikel=7&z=2007-05-12&g=2007-05-12), tenminste 12 vluchten als gezagvoerder hebben uitgevoerd waarbij de totale vluchttijd tenminste 12 uren bedraagt;
 
 - b. in de 12 maanden voorafgaande aan de dag waarop de geldigheidsduur van de klassebevoegdverklaring verstrijkt tenminste zes vluchten met een gezamenlijke vluchttijd van zes uren hebben uitgevoerd op een vrije ballon van de klasse waarvoor de bevoegdverklaring is verleend, waarvan één vlucht van tenminste één uur met een FI(FB);
 
-- c. een verklaring van de instructeur, bedoeld onder b, dat voldaan wordt aan de bedrevenheidseisen, bedoel in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0021240&bijlage=7&z=2005-09-04&g=2005-09-04) behorende bij deze regeling;
+- c. een verklaring van de instructeur, bedoeld onder b, dat voldaan wordt aan de bedrevenheidseisen, bedoel in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0021240&bijlage=7&z=2007-05-12&g=2007-05-12) behorende bij deze regeling;
 
 - d. in de 24 maanden voorafgaande aan de dag waarop de verlenging wordt aangevraagd twee door de minister goedgekeurde cursussen hebben gevolgd die betrekking hebben op de volgende kenniseisen, bedoeld in bijlage 7 behorende bij deze regeling:
 
@@ -715,17 +723,17 @@ Een type of klassebevoegdverklaring in een RPL(A) of RPL(H) wordt slechts hernie
 
 met dien verstande, dat telkens binnen een termijn van zes jaren een cursus met betrekking tot elk der kenniseisen moet zijn gevolgd.
 
-2. De eisen voor verlenging van een klassebevoegdverklaring als bedoeld in [artikel 28, eerste lid, onder a en e](https://wetten.overheid.nl/jci1.3:c:BWBR0021240&hoofdstuk=4&paragraaf=3&artikel=28&z=2005-09-04&g=2005-09-04), zijn gelijk aan die genoemd in het eerste lid, onder a, c en d, met dien verstande dat van de 12 vluchten, bedoeld in het eerste lid onder a, één vlucht van tenminste één uur moet zijn uitgevoerd onder toezicht van een FI(FB).
+2. De eisen voor verlenging van een klassebevoegdverklaring als bedoeld in [artikel 28, eerste lid, onder a en e](https://wetten.overheid.nl/jci1.3:c:BWBR0021240&hoofdstuk=4&paragraaf=3&artikel=28&z=2007-05-12&g=2007-05-12), zijn gelijk aan die genoemd in het eerste lid, onder a, c en d, met dien verstande dat van de 12 vluchten, bedoeld in het eerste lid onder a, één vlucht van tenminste één uur moet zijn uitgevoerd onder toezicht van een FI(FB).
 
-3. Indien de houder van een klassebevoegdverklaring als bedoeld in [artikel 28, eerste lid, onder b tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0021240&hoofdstuk=4&paragraaf=3&artikel=28&z=2005-09-04&g=2005-09-04), gedurende de geldigheidsduur, bedoeld in [artikel 7, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0021240&hoofdstuk=3&artikel=7&z=2005-09-04&g=2005-09-04), niet heeft voldaan aan de in het eerste lid, onder b, bedoelde eis kan aan hem een bevoegdverklaring voor een vrije ballon in een lagere klasse worden afgegeven.
+3. Indien de houder van een klassebevoegdverklaring als bedoeld in [artikel 28, eerste lid, onder b tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0021240&hoofdstuk=4&paragraaf=3&artikel=28&z=2007-05-12&g=2007-05-12), gedurende de geldigheidsduur, bedoeld in [artikel 7, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0021240&hoofdstuk=3&artikel=7&z=2007-05-12&g=2007-05-12), niet heeft voldaan aan de in het eerste lid, onder b, bedoelde eis kan aan hem een bevoegdverklaring voor een vrije ballon in een lagere klasse worden afgegeven.
 
 ##### Artikel 42. Klassebevoegdverklaring CPL(FB) verlenging
 
 De eisen voor hernieuwde afgifte na het verlopen van een bijzondere klassebevoegdverklaring in een CPL(FB) zijn:
 
-- a. tot 12 maanden na de dag waarop de geldigheidsduur van de klassebevoegdverklaring is verstreken: de eisen, bedoeld in [artikel 41, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021240&hoofdstuk=5&paragraaf=2&artikel=41&z=2005-09-04&g=2005-09-04), of
+- a. tot 12 maanden na de dag waarop de geldigheidsduur van de klassebevoegdverklaring is verstreken: de eisen, bedoeld in [artikel 41, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021240&hoofdstuk=5&paragraaf=2&artikel=41&z=2007-05-12&g=2007-05-12), of
 
-- b. tot 36 maanden na de dag waarop de geldigheidsduur van de klassebevoegdverklaring is verstreken: de eis, bedoeld in [artikel 9a, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0021240&hoofdstuk=4&paragraaf=1&artikel=9a&z=2005-09-04&g=2005-09-04).
+- b. tot 36 maanden na de dag waarop de geldigheidsduur van de klassebevoegdverklaring is verstreken: de eis, bedoeld in [artikel 9a, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0021240&hoofdstuk=4&paragraaf=1&artikel=9a&z=2007-05-12&g=2007-05-12).
 
 ### Hoofdstuk 6. Overgangs- en slotbepalingen
 
@@ -765,9 +773,13 @@ Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat.
 
 Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat.
 
-## Bijlage 2
+## Bijlage 1
 
 Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat.
+
+## Bijlage 2
+
+Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat en bij de Inspectie Verkeer en Waterstaat te Hoofddorp.
 
 ## Bijlage 3
 
@@ -783,13 +795,9 @@ Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat.
 
 ## Bijlage 5
 
-Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat.
+Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat en bij de Inspectie Verkeer en Waterstaat te Hoofddorp.
 
 ## Bijlage 6
-
-Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat.
-
-## Bijlage 7
 
 Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat.
 
@@ -801,11 +809,11 @@ De eisen voor de afgifte van een CPL(FB) zijn:
 
 - a. kennis en bedrevenheid algemeen: met goed gevolg de theorie- en praktijkexamens voor een CPL(FB) hebben behaald, waarbij het gehele theorie-examen binnen 18 maanden is afgerond en het praktijkexamen is afgerond binnen 36 maanden vanaf de datum waarop de aanvrager is geslaagd voor het theorie-examen;
 
-- b. kennis: de theoretische vakken, bedoeld in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0021240&bijlage=7&z=2005-09-04&g=2005-09-04) bij deze regeling;
+- b. kennis: de theoretische vakken, bedoeld in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0021240&bijlage=7&z=2007-05-12&g=2007-05-12) bij deze regeling;
 
-- c. bedrevenheid: de kandidaat bezit voldoende bedrevenheid op de onderdelen, bedoeld in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0021240&bijlage=7&z=2005-09-04&g=2005-09-04) bij deze regeling, hetgeen wordt aangetoond tijdens een examen, dat mag worden afgenomen wanneer de kandidaat voldoet aan de desbetreffende eisen inzake kennis en ervaring;
+- c. bedrevenheid: de kandidaat bezit voldoende bedrevenheid op de onderdelen, bedoeld in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0021240&bijlage=7&z=2007-05-12&g=2007-05-12) bij deze regeling, hetgeen wordt aangetoond tijdens een examen, dat mag worden afgenomen wanneer de kandidaat voldoet aan de desbetreffende eisen inzake kennis en ervaring;
 
-- d. ervaring: de eisen, bedoeld in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0021240&bijlage=7&z=2005-09-04&g=2005-09-04) bij deze regeling;
+- d. ervaring: de eisen, bedoeld in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0021240&bijlage=7&z=2007-05-12&g=2007-05-12) bij deze regeling;
 
 - e. de eisen voor afgifte van een bijzondere klassebevoegdverklaring heteluchtballonnen of gasballonnen; en
 
@@ -829,6 +837,10 @@ De eisen voor de afgifte van een CPL(FB) zijn:
 
 ### Hoofdstuk 6. Overgangs- en slotbepalingen
 
+## Bijlage 7
+
+Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat.
+
 ## Bijlage 7a
 
 Vervallen
@@ -836,6 +848,22 @@ Vervallen
 ## Bijlage 7b
 
 Vervallen
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de bijlagen, die ter inzage worden gelegd bij het Ministerie van Verkeer en Waterstaat.
+
+##### Artikel 20b. STI(A)
+
+Voor afgifte van de synthetische traininginstructeurbevoegdverklaring (STI) voldoet de aanvrager aan de eisen, bedoeld in JAR-FCL 1.419(b).
+
+#### § 3. Bijzondere bevoegdverklaringen onder te verdelen naar type, klasse en werkzaamheden
+
+### Hoofdstuk 5. Verlenging en hernieuwde afgifte na verlopen van bevoegdverklaringen
+
+#### § 1. Algemene bevoegdverklaringen
+
+#### § 2. Bijzondere bevoegdverklaringen
+
+### Hoofdstuk 6. Overgangs- en slotbepalingen
 
 ## Bijlage 8
 
