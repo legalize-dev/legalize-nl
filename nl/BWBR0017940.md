@@ -4,7 +4,7 @@ identifier: "BWBR0017940"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-11-09"
-last_updated: "2005-02-01"
+last_updated: "2007-05-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017940"
 soort: "ministeriele-regeling"
@@ -108,13 +108,17 @@ In deze regeling wordt verstaan onder:
 
 - m. staat van registratie: staat waar een luchtvaartuig is geregistreerd;
 
-- n. exploitant van een luchtvaartuig: iedere natuurlijk persoon, iedere rechtspersoon met of zonder winstoogmerk of ieder overheidslichaam met of zonder rechtspersoonlijkheid dat een of meer luchtvaartuigen exploiteert of voornemens is te exploiteren.
+- n. exploitant van een luchtvaartuig: iedere natuurlijk persoon, iedere rechtspersoon met of zonder winstoogmerk of ieder overheidslichaam met of zonder rechtspersoonlijkheid dat een of meer luchtvaartuigen exploiteert of voornemens is te exploiteren;
+
+- o. richtlijn 2004/49/EG: richtlijn nr. 2004/49/EG van het Europees Parlement en de Raad van 29 april 2004 inzake de veiligheid op de communautaire spoorwegen en tot wijziging van richtlijn 95/18/EG van de Raad betreffende de verlening van vergunningen aan spoorwegondernemingen, en van richtlijn 2001/14/EG van de Raad inzake de toewijzing van spoorweginfrastructuurcapaciteit en de heffing van rechten voor het gebruik van spoorweginfrastructuur alsmede inzake veiligheidscertificering (‘Spoorwegveiligheidsrichtlijn’) (PbEG L 220);
+
+- p. spoorweg: het spoorwegsysteem als bedoeld in richtlijn nr. 2004/49/EG voor zover dit systeem is aangewezen in het [Besluit aanwijzing hoofdspoorwegen](https://wetten.overheid.nl/jci1.3:c:BWBR0017794).
 
 #### § 2. Toepasselijkheid
 
 ##### Artikel 2
 
-1. De [artikelen 5 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0017940&paragraaf=5&artikel=5&z=2005-02-01&g=2005-02-01) en [15 tot en met 17](https://wetten.overheid.nl/jci1.3:c:BWBR0017940&paragraaf=9&artikel=15&z=2005-02-01&g=2005-02-01) zijn niet van toepassing op voorvallen waarbij geen andere zaak of persoon is betrokken dan een zaak of persoon in gebruik bij onderscheidenlijk in de uitoefening van een functie ten behoeve van:
+1. De [artikelen 5 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0017940&paragraaf=5&artikel=5&z=2007-05-16&g=2007-05-16) en [15 tot en met 17](https://wetten.overheid.nl/jci1.3:c:BWBR0017940&paragraaf=9&artikel=15&z=2007-05-16&g=2007-05-16) zijn niet van toepassing op voorvallen waarbij geen andere zaak of persoon is betrokken dan een zaak of persoon in gebruik bij onderscheidenlijk in de uitoefening van een functie ten behoeve van:
 
 - a. de Minister van Defensie,
 
@@ -122,7 +126,7 @@ In deze regeling wordt verstaan onder:
 
 - c. een organisatie waarvan het beheer is opgedragen aan de Minister van Defensie.
 
-2. Indien bij een voorval als bedoeld in het eerste lid tevens een andere zaak of persoon is betrokken dan in dat lid bedoeld, zijn de [artikelen 5 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0017940&paragraaf=5&artikel=5&z=2005-02-01&g=2005-02-01) en [15 tot en met 17](https://wetten.overheid.nl/jci1.3:c:BWBR0017940&paragraaf=9&artikel=15&z=2005-02-01&g=2005-02-01) slechts van toepassing voor zover het die andere zaak of persoon betreft.
+2. Indien bij een voorval als bedoeld in het eerste lid tevens een andere zaak of persoon is betrokken dan in dat lid bedoeld, zijn de [artikelen 5 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0017940&paragraaf=5&artikel=5&z=2007-05-16&g=2007-05-16) en [15 tot en met 17](https://wetten.overheid.nl/jci1.3:c:BWBR0017940&paragraaf=9&artikel=15&z=2007-05-16&g=2007-05-16) slechts van toepassing voor zover het die andere zaak of persoon betreft.
 
 #### § 3. Staten met een aanmerkelijk belang
 
@@ -260,7 +264,7 @@ In geval van een scheepvaartongeval of een ernstig scheepvaartincident met een z
 
 - d. de internationale burgerluchtvaartorganisatie indien het om een luchtvaartuig gaat met een startmassa van meer dan 2250 kg.
 
-2. [Artikel 5, derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017940&paragraaf=5&artikel=5&z=2005-02-01&g=2005-02-01), is van overeenkomstige toepassing.
+2. [Artikel 5, derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017940&paragraaf=5&artikel=5&z=2007-05-16&g=2007-05-16), is van overeenkomstige toepassing.
 
 ##### Artikel 8
 
@@ -431,5 +435,35 @@ Deze regeling treedt in werking op het krachtens [artikel 97, eerste lid, eerste
 ##### Artikel 22
 
 Deze regeling wordt aangehaald als: Regeling Onderzoeksraad voor veiligheid.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 8a
+
+1. Indien de raad een onderzoek instelt naar een voorval in verband met een spoorweg zendt de raad zo spoedig mogelijk een melding ter zake aan het Europees Spoorwegbureau, genoemd in artikel 1, van verordening (EG) nr. 881/2004 van het Europees Parlement en de Raad van de Europese Unie van 29 april 2004 tot oprichting van een Europees Spoorwegbureau (‘Spoorwegbureauverordening’) (PbEG L 164).
+
+2. De melding bevat de datum, de tijd, en de plaats van het voorval, alsmede het type voorval en de gevolgen ervan in termen van doden, gewonden en materiële schade.
+
+#### § 7. Vertegenwoordiger ander land
+
+#### § 8. Rechten andere staat
+
+#### § 9. Rapport
+
+##### Artikel 17a
+
+1. In geval van een onderzoek naar een voorval in verband met een spoorweg wordt het rapport zo veel mogelijk vastgesteld conform het model in bijlage V bij richtlijn 2004/49/EG.
+
+2. Een rapport als bedoeld in het eerste lid, wordt toegezonden aan het aan het Europees Spoorwegbureau, genoemd in artikel 1, van verordening (EG) nr. 881/2004 van het Europees Parlement en de Raad van de Europese Unie van 29 april 2004 tot oprichting van een Europees Spoorwegbureau (‘Spoorwegbureauverordening’)(PbEG L 164).
+
+3. Het voor de veiligheid op het spoor aangewezen orgaan van de Europese Unie, bedoeld in het tweede lid, wordt jaarlijks tevens een exemplaar van het jaarverslag toegezonden.
+
+##### Artikel 17b
+
+Een wijziging van bijlage V bij richtlijn 2004/49/EG gaat voor de toepassing van [artikel 17a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017940&paragraaf=9&artikel=17a&z=2007-05-16&g=2007-05-16), gelden met ingang van de waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven
+
+#### § 10. Vergoedingen
+
+#### § 11. Overgangs- en slotbepalingen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
