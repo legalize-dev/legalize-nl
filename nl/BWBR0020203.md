@@ -4,7 +4,7 @@ identifier: "BWBR0020203"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2007-05-16"
-last_updated: "2006-09-08"
+last_updated: "2007-05-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020203"
 soort: "ministeriele-regeling"
@@ -69,7 +69,7 @@ De commissie heeft tot taak:
 
 ##### Artikel 5
 
-1. De commissie bestaat uit: mr. dr. M. Oosting (voorzitter), J.G.M. Alders, drs. L.A.M. van Halder, mr. A.W. Kist, drs. Y.C.Th.J. Kortmann en drs. K. van der Steenhoven.
+1. De commissie bestaat uit: mr. dr. M. Oosting (voorzitter), J.G.M. Alders, drs. H. Schartman, mr. A.W. Kist, drs. Y.C.Th.J. Kortmann en drs. K. van der Steenhoven.
 
 2. Het secretariaat van de commissie wordt gevormd door ambtenaren van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.
 
