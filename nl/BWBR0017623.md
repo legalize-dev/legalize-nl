@@ -4,7 +4,7 @@ identifier: "BWBR0017623"
 country: "nl"
 rank: "amvb"
 publication_date: "2019-06-16"
-last_updated: "2007-04-01"
+last_updated: "2007-05-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017623"
 soort: "AMvB"
@@ -49,7 +49,13 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-In dit besluit en de daarop berustende bepalingen wordt verstaan onder wet: [Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007).
+In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
+
+- a. richtlijn 2004/49/EG: richtlijn nr. 2004/49/EG van het Europees Parlement en de Raad van de Europese Unie van 29 april 2004 inzake veiligheid op de communautaire spoorwegen en tot wijziging van richtlijn 95/18/EG van de Raad betreffende de verlening van vergunningen aan spoorwegondernemingen, en van Richtlijn 2001/14/EG van de Raad inzake de toewijzing van spoorweginfrastructuurcapaciteit en de heffing van rechten voor het gebruik van spoorweginfrastructuur alsmede inzake veiligheidscertificering (Spoorwegveiligheidsrichtlijn) (PbEG L 164);
+
+- b. veiligheidszorgsysteem: veiligheidszorgsysteem als bedoeld in [artikel 32, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=32);
+
+- c. wet: [Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007).
 
 ### Hoofdstuk 2. Bedrijfsvergunning
 
@@ -81,11 +87,11 @@ Een spoorwegonderneming bezit een goede naam als bedoeld in [artikel 28, eerste 
 
 ##### Artikel 4
 
-1. Op een bestuurder van een spoorwegonderneming is [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017623&hoofdstuk=2&paragraaf=2&artikel=3&z=2007-04-01&g=2007-04-01) van overeenkomstige toepassing.
+1. Op een bestuurder van een spoorwegonderneming is [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017623&hoofdstuk=2&paragraaf=2&artikel=3&z=2007-05-16&g=2007-05-16) van overeenkomstige toepassing.
 
 2. Indien natuurlijke personen dan wel rechtspersonen gezamenlijk als spoorwegonderneming optreden, voldoet ieder van de natuurlijke personen en ieder van de bestuurders van de rechtspersonen aan het vereiste van goede naam.
 
-3. Indien de permanente en daadwerkelijke leiding door een ander dan de natuurlijke persoon als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017623&hoofdstuk=2&paragraaf=1&artikel=2&z=2007-04-01&g=2007-04-01), dan wel door een ander dan de in het eerste lid genoemde bestuurder wordt verricht, is [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017623&hoofdstuk=2&paragraaf=2&artikel=3&z=2007-04-01&g=2007-04-01) op die ander van overeenkomstige toepassing.
+3. Indien de permanente en daadwerkelijke leiding door een ander dan de natuurlijke persoon als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017623&hoofdstuk=2&paragraaf=1&artikel=2&z=2007-05-16&g=2007-05-16), dan wel door een ander dan de in het eerste lid genoemde bestuurder wordt verricht, is [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017623&hoofdstuk=2&paragraaf=2&artikel=3&z=2007-05-16&g=2007-05-16) op die ander van overeenkomstige toepassing.
 
 #### § 3. Financiële draagkracht
 
@@ -101,11 +107,7 @@ Voor financiële draagkracht als bedoeld in [artikel 28, eerste lid, van de wet]
 
 ##### Artikel 6
 
-Voor beroepsbekwaamheid als bedoeld in [artikel 28, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=28) is vereist dat:
-
-- a. de spoorwegonderneming door de bestuurlijke organisatie, personele bezetting en materiële uitrusting een veilige en betrouwbare deelname aan het spoorverkeer waarborgt, en
-
-- b. de spoorwegonderneming inzicht heeft in de aard en de eigenschappen van het spoorverkeer en de beheersing van de veilige deelname aan dat verkeer.
+Aan het vereiste van beroepsbekwaamheid, bedoeld in [artikel 28, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=28) is voldaan als de spoorwegonderneming beschikt of zal beschikken over een bestuurlijke organisatie die de nodige kennis en ervaring bezit om de operationele controle en het toezicht op de in de vergunning omschreven activiteiten op veilige en betrouwbare wijze te kunnen uitoefenen.
 
 #### § 5. Verzekeringsplicht
 
@@ -135,7 +137,7 @@ Voor beroepsbekwaamheid als bedoeld in [artikel 28, eerste lid, van de wet](http
 
 3. Een spoorwegonderneming die louter activiteiten uitoefent als bedoeld in het tweede lid voldoet aan de uit [artikel 55 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=55) voortvloeiende verzekeringsplicht indien zij de uit de wettelijke aansprakelijkheid voortvloeiende financiële risico’s heeft gedekt door middel van een verzekering die Nederland als dekkingsgebied heeft en een dekkingsbedrag heeft van minimaal € 2.500.000 per gebeurtenis.
 
-4. [Artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017623&hoofdstuk=2&paragraaf=5&artikel=7&z=2007-04-01&g=2007-04-01), is van overeenkomstige toepassing.
+4. [Artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017623&hoofdstuk=2&paragraaf=5&artikel=7&z=2007-05-16&g=2007-05-16), is van overeenkomstige toepassing.
 
 #### § 7. Aanvraag
 
@@ -183,7 +185,7 @@ Een aanvraag tot verlening van een bedrijfsvergunning bevat met het oog op het v
 
 ##### Artikel 13
 
-Onverminderd [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0017623&hoofdstuk=2&paragraaf=8&artikel=12&z=2007-04-01&g=2007-04-01), legt de spoorwegonderneming elke vijf jaar, gerekend vanaf de dag waarop de bedrijfsvergunning in werking is getreden, aan Onze Minister over:
+Onverminderd [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0017623&hoofdstuk=2&paragraaf=8&artikel=12&z=2007-05-16&g=2007-05-16), legt de spoorwegonderneming elke vijf jaar, gerekend vanaf de dag waarop de bedrijfsvergunning in werking is getreden, aan Onze Minister over:
 
 - a. een verklaring omtrent het gedrag als bedoeld in [artikel 28 van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=28),
 
@@ -191,7 +193,7 @@ Onverminderd [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0017623&hoofds
 
 - c. een bewijs van dekking van de uit wettelijke aansprakelijkheid voortvloeiende financiële risico’s, en
 
-- d. een verklaring dat zij voldoet aan het vereiste van beroepsbekwaamheid, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017623&hoofdstuk=2&paragraaf=4&artikel=6&z=2007-04-01&g=2007-04-01).
+- d. een verklaring dat zij voldoet aan het vereiste van beroepsbekwaamheid, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017623&hoofdstuk=2&paragraaf=4&artikel=6&z=2007-05-16&g=2007-05-16).
 
 #### § 10. Overig
 
@@ -203,13 +205,21 @@ Bij ministeriële regeling kunnen nadere regels worden gesteld ten aanzien van d
 
 ##### Artikel 15
 
-Aan het veiligheidsattest wordt het voorschrift verbonden dat de attesthouder een functionaris aanstelt die zorg draagt voor de implementatie, toepassing en instandhouding van een veiligheidszorgsysteem als bedoeld in [artikel 32, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=32).
+Vervallen
 
 ##### Artikel 16
 
-1. Aan het veiligheidsattest wordt het voorschrift verbonden dat de spoorwegonderneming een gedocumenteerde beschrijving van het veiligheidszorgsysteem maakt. Hierin worden de bedrijfsvoering en alle daartoe behorende processen en procedures beschreven.
+1. Een aanvraag voor een veiligheidsattest bevat ten minste de bij regeling van Onze Minister bepaalde gegevens en bescheiden.
 
-2. Aan het veiligheidsattest wordt het voorschrift verbonden dat de spoorwegonderneming zorgdraagt voor actualisering van de gedocumenteerde beschrijving van het veiligheidszorgsysteem zodra zich relevante wijzigingen voordoen in de bedrijfsvoering en daartoe behorende processen en procedures.
+2. Een adequaat veiligheidszorgsysteem als bedoeld in [artikel 32, eerste onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=32), bevat tenminste de bij regeling van Onze Minister met inachtneming van bijlage III van richtlijn 2004/49/EG vastgestelde bedrijfsprocessen.
+
+3. Een veiligheidszorgsysteem waarvoor door een daartoe bevoegde instantie in een andere lidstaat van de Europese Unie een certificering als bedoeld in artikel 10, tweede lid, onderdeel a, van richtlijn 2004/49/EG is afgegeven, geldt voor de verlening van het veiligheidsattest als adequaat veiligheidszorgsysteem als bedoeld in [artikel 32, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=32).
+
+4. Het veiligheidsattest bevat:
+
+- a. de constatering dat de spoorwegonderneming beschikt over een adequaat veiligheidszorgsysteem als bedoeld in [artikel 32, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=32), en
+
+- b. de constatering dat de spoorwegonderneming door toepassing van haar veiligheidszorgsysteem veilig gebruik kan maken van de spoorweg en daarbij kan voldoen aan de bij of krachtens [hoofdstuk 3, paragraaf 3, van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&paragraaf=3) gestelde voorschriften.
 
 ##### Artikel 17
 
@@ -217,15 +227,17 @@ Onze Minister kan een proefattest als bedoeld in [artikel 34 van de wet](https:/
 
 ##### Artikel 18
 
-Bij ministeriële regeling kunnen regels worden gesteld ten aanzien van:
+Bij ministeriële regeling kunnen nadere regels worden gesteld ten aanzien van:
 
-- a. de verlening, weigering, wijziging, schorsing of intrekking van het veiligheidsattest en het proefattest;
+- a. de wijziging of schorsing van het veiligheidsattest, en
 
-- b. het veiligheidszorgsysteem.
+- b. de verlening, weigering, wijziging, schorsing of intrekking van het proefattest.
 
 ##### Artikel 19
 
-Aan het veiligheidsattest wordt het voorschrift verbonden dat de spoorwegonderneming een jaarverslag opstelt met betrekking tot de spoorwegveiligheid en dat na afloop van ieder kalenderjaar telkens voor 30 juni aan Onze Minister zendt. Het jaarverslag bevat in elk geval een evaluatie van de werking van het veiligheidszorgsysteem en een overzicht van naar aanleiding van de evaluatie in het veiligheidszorgsysteem aan te brengen verbeteringen.
+1. De houder van een veiligheidsattest ten aanzien waarvan [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017623&hoofdstuk=3&artikel=16&z=2007-05-16&g=2007-05-16), geen toepassing heeft gevonden, stelt over ieder kalenderjaar een jaarverslag op met betrekking tot de spoorwegveiligheid en zendt dat in het daaropvolgende jaar telkens voor 30 juni aan Onze Minister.
+
+2. Het jaarverslag bevat in elk geval de in artikel 9, vierde lid, onderdeel a tot en met d, van richtlijn 2004/49/EG bedoelde informatie.
 
 ### Hoofdstuk 4. Overgangs- en slotbepalingen
 
@@ -240,5 +252,33 @@ De artikelen van dit besluit treden in werking op een bij koninklijk besluit te 
 ##### Artikel 22
 
 Dit besluit wordt aangehaald als: Besluit bedrijfsvergunning en veiligheidsattest hoofdspoorwegen.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 16a
+
+1. De houder van een veiligheidsattest ten aanzien waarvan [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017623&hoofdstuk=3&artikel=16&z=2007-05-16&g=2007-05-16), geen toepassing heeft gevonden:
+
+- a. draagt er zorg voor dat het veiligheidszorgsysteem blijft voldoen aan [artikel 33, tweede en derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=33) en [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017623&hoofdstuk=3&artikel=16&z=2007-05-16&g=2007-05-16);
+
+- b. maakt binnen een jaar na de afgifte daarvan gebruik van de hoofdspoorweginfrastructuur, en
+
+- c. maakt aan Onze Minister zo spoedig mogelijk melding van wijzigingen ten aanzien waarvan redelijkerwijs moet worden aangenomen dat zij gevolgen hebben voor het afgegeven veiligheidsattest of voor de daaraan verbonden beperkingen en voorschriften.
+
+2. De houder van een veiligheidsattest ten aanzien waarvan [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017623&hoofdstuk=3&artikel=16&z=2007-05-16&g=2007-05-16), toepassing heeft gevonden:
+
+- a. blijft beschikken over een geldige certificering als bedoeld in artikel 10, tweede lid, onderdeel a, van richtlijn 2004/49/EG, en
+
+- b. maakt binnen een jaar na de afgifte daarvan gebruik van hoofdspoorweginfrastructuur.
+
+##### Artikel 17a
+
+Onze Minister gebruikt zijn bevoegdheid tot intrekking van het veiligheidsattest als bedoeld in [artikel 33, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=33), indien de houder van het attest niet meer voldoet aan de in [artikel 16a, eerste lid, onderdelen a en b en tweede lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0017623&hoofdstuk=3&artikel=16a&z=2007-05-16&g=2007-05-16), gestelde eisen.
+
+##### Artikel 19a
+
+Een wijziging van artikel 9, vierde lid, en van bijlage III van richtlijn 2004/49/EG gaat voor de toepassing van [artikel 19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017623&hoofdstuk=3&artikel=19&z=2007-05-16&g=2007-05-16), onderscheidenlijk van [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017623&hoofdstuk=3&artikel=16&z=2007-05-16&g=2007-05-16), gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
+
+### Hoofdstuk 4. Overgangs- en slotbepalingen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
