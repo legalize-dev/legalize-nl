@@ -4,7 +4,7 @@ identifier: "BWBR0010198"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-03"
-last_updated: "2007-04-07"
+last_updated: "2007-05-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010198"
 soort: "ministeriele-regeling"
@@ -49,19 +49,19 @@ In dit besluit wordt verstaan onder:
 
 2. De lengte van een geografisch nummer bedraagt tien cijfers.
 
-3. De lengte van een niet-geografisch nummer kan varieren en is aangegeven in de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=1&z=2007-04-07&g=2007-04-07), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=3&z=2007-04-07&g=2007-04-07) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=4&z=2007-04-07&g=2007-04-07), genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&artikel=3&z=2007-04-07&g=2007-04-07).
+3. De lengte van een niet-geografisch nummer kan varieren en is aangegeven in de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=1&z=2007-05-17&g=2007-05-17), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=3&z=2007-05-17&g=2007-05-17) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=4&z=2007-05-17&g=2007-05-17), genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&artikel=3&z=2007-05-17&g=2007-05-17).
 
 ##### Artikel 3
 
 In de bij dit besluit behorende:
 
-- a. [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=1&z=2007-04-07&g=2007-04-07) worden de bestemmingen vastgesteld voor nummers voor telefoon- en ISDN-diensten;
+- a. [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=1&z=2007-05-17&g=2007-05-17) worden de bestemmingen vastgesteld voor nummers voor telefoon- en ISDN-diensten;
 
-- b. [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=2&z=2007-04-07&g=2007-04-07) worden de netnummergebieden, genoemd in bijlage 1, vastgesteld;
+- b. [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=2&z=2007-05-17&g=2007-05-17) worden de netnummergebieden, genoemd in bijlage 1, vastgesteld;
 
-- c. [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=3&z=2007-04-07&g=2007-04-07) wordt de verbijzondering naar nummerlengte van de nummerreeksen 0800, 0900, 0906, 0909 en 140X vastgesteld;
+- c. [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=3&z=2007-05-17&g=2007-05-17) wordt de verbijzondering naar nummerlengte van de nummerreeksen 0800, 0900, 0906, 0909 en 140X vastgesteld;
 
-- d. [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=4&z=2007-04-07&g=2007-04-07) worden de maximale interconnectie afgiftetarieven vastgesteld.
+- d. [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=4&z=2007-05-17&g=2007-05-17) worden de maximale interconnectie afgiftetarieven vastgesteld.
 
 ##### Artikel 4
 
@@ -83,7 +83,7 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 
 1. Dit besluit wordt aangehaald als: Nummerplan telefoon- en ISDN-diensten.
 
-2. [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=2&z=2007-04-07&g=2007-04-07) van dit besluit ligt ter inzage bij het college, Zurichtoren, 3e verdieping, Muzenstraat 41, 2511 WB te Den Haag.
+2. [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=2&z=2007-05-17&g=2007-05-17) van dit besluit ligt ter inzage bij het college, Zurichtoren, 3e verdieping, Muzenstraat 41, 2511 WB te Den Haag.
 
 ## Bijlage 1. als bedoeld in artikel 3, onder a, van het Nummerplan telefoon- en ISDN-diensten
 
@@ -908,7 +908,7 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 |   | 8 | Gebruik wordt uitgefaseerd |   |   |
 |   | 9 | Gebruik wordt uitgefaseerd |   |   |
 
-## Bijlage 1. , behorend bij [artikel 3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&artikel=3&z=2007-04-07&g=2007-04-07), van het Nummerplan telefoon- en ISDN-diensten
+## Bijlage 1. , behorend bij [artikel 3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&artikel=3&z=2007-05-17&g=2007-05-17), van het Nummerplan telefoon- en ISDN-diensten
 
 | Beschikbaar voor toekenning of reservering | Niet beschikbaar voor toekenning of reservering | Bestemming van de nummers (geografisch en niet-geografisch) | Lengte van de nummers | Nummers van uitzonderlijke economische waarden |
 | --- | --- | --- | --- | --- |
@@ -1262,7 +1262,7 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 |   | 115 | Geharmoniseerde Europese korte nummers |   |   |
 |   | 116 | Geharmoniseerde Europese korte nummers |   |   |
 |   | 117 | Geharmoniseerde Europese korte nummers |   |   |
-| 118 |   | Automatische boodschap die de beller op commercieel neutrale en non-discriminatoire wijze informeert over de vervanging van 118 door 18xy nummers. | 3 | Nee |
+|   | 118 |   |   |   |
 |   | 119 | Geharmoniseerde Europese korte nummers |   |   |
 |   |   |   |   |   |
 | 12... | 12... | Geharmoniseerde nummers voor diensten die de eigen openbare telefoondienst ondersteunen en voor toegang tot netwerklokale faciliteiten voor gebruikers van een netwerk |   |   |
@@ -1316,7 +1316,7 @@ Dit besluit zal met de daarbij behorende bijlagen en de toelichting in de Staats
 
 In dit besluit wordt onder de openbare telefoondienst mede verstaan: een elektronische communicatiedienst die voor het publiek beschikbaar is voor alleen uitgaande gesprekken, onderscheidenlijk alleen inkomende gesprekken, en waarbij sprake is van een directe overdracht en routering van signalen.
 
-## Bijlage 3. als bedoeld in [artikel 3, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&artikel=3&z=2007-04-07&g=2007-04-07), van het Nummerplan telefoon- en ISDN-diensten
+## Bijlage 3. als bedoeld in [artikel 3, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&artikel=3&z=2007-05-17&g=2007-05-17), van het Nummerplan telefoon- en ISDN-diensten
 
 |   | **0** | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -1387,11 +1387,11 @@ Dit besluit zal met de daarbij behorende bijlagen en de toelichting in de Staats
 
 Tenzij in de bij een nummer behorende bestemming uitdrukkelijk anders is bepaald, wordt een in dit nummerplan opgenomen nummer niet gebruikt om tegen betaling andere diensten dan elektronische communicatiediensten te leveren indien de betaling van die diensten is opgenomen in de door de aanbieder van de elektronische communicatiedienst opgemaakte rekening.
 
-## Bijlage 4. als bedoeld in [artikel 3, onder d, van het Nummerplan telefoon- en ISDN-diensten](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&artikel=3&z=2007-04-07&g=2007-04-07)
+## Bijlage 4. als bedoeld in [artikel 3, onder d, van het Nummerplan telefoon- en ISDN-diensten](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&artikel=3&z=2007-05-17&g=2007-05-17)
 
 | Nummers | Maximaal interconnectie afgifte starttarief, in eurocent, exclusief BTW | Maximaal interconnectie afgiftetarief per minuut, in eurocent, exclusief BTW |
 | --- | --- | --- |
 | Nummers met geografische bestemming waarbij de dienst niet wordt geboden op een vaste locatie via een netwerkaansluitpunt dat zich in het bij het nummer behorende netnummergebied bevindt | 0,9 eurocent | 1,1 eurocent |
 | 085 | 0,9 eurocent | 1,1 eurocent |
 
-Dit besluit zal met de daarbij behorende bijlagen en de toelichting in de Staatscourant worden geplaatst, met uitzondering van [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=2&z=2007-04-07&g=2007-04-07) die ter inzage ligt bij het college, Babylon kantorencomplex B, 3e verdieping, 2595 AA te Den Haag.
+Dit besluit zal met de daarbij behorende bijlagen en de toelichting in de Staatscourant worden geplaatst, met uitzondering van [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=2&z=2007-05-17&g=2007-05-17) die ter inzage ligt bij het college, Babylon kantorencomplex B, 3e verdieping, 2595 AA te Den Haag.
