@@ -1,0 +1,52 @@
+---
+title: "Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Landbouwkwaliteit en voedselveiligheid vanaf 1945 (Minister van Volksgezondheid, Welzijn en Sport)"
+identifier: "BWBR0021849"
+country: "nl"
+rank: "archiefselectielijst"
+publication_date: "2007-05-23"
+last_updated: "2007-05-23"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0021849"
+soort: "ministeriele-regeling-archiefselectielijst"
+stam_id: "9075783"
+version_id: "14481452"
+internal_id: "C25324321"
+label_id: "9054714"
+dtd_version: "2.0"
+original_entry_into_force: "2007-05-23"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0021849/2007-05-23/0"
+intitule_bron: "Stcrt.2007-95"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-10-18"
+intitule_published: "2007-05-21"
+intitule_in_force: "2007-05-21"
+intitule_status: "goed"
+original_publication: "Stcrt.2007-95"
+original_signed_date: "2006-10-18"
+original_published_date: "2007-05-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2007-95-p8-SC78310"
+entry_into_force_date: "2007-05-23"
+jci_1_3: "jci1.3:c:BWBR0021849&z=2007-05-23&g=2007-05-23"
+jci_1_0: "1.0:c:BWBR0021849&g=2007-05-23"
+citeertitel_status: "redactioneel"
+signed_date: "2006-10-18"
+entry_into_force: "2007-05-23"
+---
+# Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Landbouwkwaliteit en voedselveiligheid vanaf 1945 (Minister van Volksgezondheid, Welzijn en Sport)
+
+Gelet op [artikel 5, tweede lid, onder b, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=5);
+
+De Raad voor Cultuur gehoord (advies van de Raad voor Cultuur van 4 april 2006, arc-2006.02834/2);
+
+Besluiten:
+
+##### Artikel 1
+
+De bij dit besluit gevoegde ‘[selectielijst voor de neerslag van de handelingen van de Minister van Volksgezondheid, Welzijn en Sport de onder hem ressorterende actoren op het beleidsterrein Landbouwkwaliteit en voedselveiligheid en kwaliteit van het uitgangsmateriaal en biotechnologie over de periode vanaf 1945](onbekend)’ en de daarbij behorende toelichting worden vastgesteld.
+
+##### Artikel 2
+
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
+
+De Minister van Onderwijs, Cultuur en Wetenschap is belast met de uitvoering van dit besluit dat met de daarbij behorende [selectielijst](onbekend) en toelichting in de Staatscourant zal worden geplaatst.
