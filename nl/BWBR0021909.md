@@ -4,7 +4,7 @@ identifier: "BWBR0021909"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2007-05-24"
-last_updated: "2007-01-02"
+last_updated: "2007-05-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0021909"
 soort: "ministeriele-regeling"
@@ -60,7 +60,7 @@ Deze beleidsregel verstaat onder:
 
 ##### Artikel 3
 
-1. Aan de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0021909&artikel=1&z=2007-05-24&g=2007-01-02) bedoelde instellingen wordt een structureel kortingsbedrag van € 145,5 mln. opgelegd.
+1. Aan de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0021909&artikel=1&z=2007-05-24&g=2007-05-24) bedoelde instellingen wordt een structureel kortingsbedrag van € 145,5 mln. opgelegd.
 
 2. Voor de verdeling van het bedrag van € 145,5 mln. over de sector algemene ziekenhuizen, epilepsie-inrichtingen en instellingen voor revalidatie respectievelijk de sector academische ziekenhuizen wordt zoveel mogelijk aangesloten bij de verdelingsgrondslag die is gebruikt ten behoeve van de verdeling van de oorspronkelijke macrokorting uit hoofde van het prestatiecontract ziekenhuizen respectievelijk convenant UMC’s, eerder opgelegd met mijn aanwijzing aan het College tarieven gezondheidszorg van 12 april 2005, kenmerk MC/MO-2576252.
 
@@ -68,7 +68,7 @@ Deze beleidsregel verstaat onder:
 
 ##### Artikel 4
 
-Voor de verdeling van het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0021909&artikel=3&z=2007-05-24&g=2007-01-02) vermelde kortingsbedrag over de individuele instellingen binnen de sector algemene ziekenhuizen, epilepsie-inrichtingen en instellingen voor revalidatie respectievelijk binnen de sector academische ziekenhuizen en de wijze waarop dit in de budgetten wordt verwerkt, wordt zoveel als mogelijk aangesloten bij de volgende uitgangspunten en uitvoering:
+Voor de verdeling van het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0021909&artikel=3&z=2007-05-24&g=2007-05-24) vermelde kortingsbedrag over de individuele instellingen binnen de sector algemene ziekenhuizen, epilepsie-inrichtingen en instellingen voor revalidatie respectievelijk binnen de sector academische ziekenhuizen en de wijze waarop dit in de budgetten wordt verwerkt, wordt zoveel als mogelijk aangesloten bij de volgende uitgangspunten en uitvoering:
 
 - 1. Bij de algemene ziekenhuizen, epilepsie-inrichtingen en instellingen voor revalidatie wordt als verdeelsleutel gehanteerd het aandeel van de individuele instelling in het macrobudget op een door de NZa nader vast te stellen peildatum, geschoond voor kapitaallasten en loonkosten medisch specialisten/agio’s.
 
