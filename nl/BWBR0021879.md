@@ -4,7 +4,7 @@ identifier: "BWBR0021879"
 country: "nl"
 rank: "zbo"
 publication_date: "2007-05-25"
-last_updated: "2006-01-01"
+last_updated: "2007-05-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0021879"
 soort: "zbo"
@@ -97,7 +97,7 @@ Het UWV geeft van de op de aanvraag genomen beslissing schriftelijk kennis aan d
 
 1. De premie is per kalendermaand bij vooruitbetaling verschuldigd door degene die op eigen verzoek tot de vrijwillige verzekering is toegelaten, en wordt door of namens de verzekerde voldaan op de door het UWV aangegeven wijze.
 
-2. Het UWV deelt bij zijn beslissing, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0021879&hoofdstuk=III&artikel=5&z=2007-05-25&g=2006-01-01) mede welke premie de aanvrager verschuldigd is en binnen welke termijnen en op welke wijze de betaling dient te geschieden.
+2. Het UWV deelt bij zijn beslissing, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0021879&hoofdstuk=III&artikel=5&z=2007-05-25&g=2007-05-25) mede welke premie de aanvrager verschuldigd is en binnen welke termijnen en op welke wijze de betaling dient te geschieden.
 
 3. Indien het premiepercentage wijziging ondergaat deelt het UWV zo spoedig mogelijk het gewijzigde premiebedrag aan de verzekerde mede.
 
@@ -127,7 +127,7 @@ Het UWV geeft van de op de aanvraag genomen beslissing schriftelijk kennis aan d
 
 - a. dagloon krachtens de verplichte verzekering: het dagloon bepaald op grond van [artikel 13 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=13);
 
-- b. dagloon krachtens de vrijwillige verzekering: het dagloon bepaald met inachtneming van [artikel 21 eerste lid van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=21) en [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0021879&hoofdstuk=IV&artikel=7&z=2007-05-25&g=2006-01-01) van dit besluit.
+- b. dagloon krachtens de vrijwillige verzekering: het dagloon bepaald met inachtneming van [artikel 21 eerste lid van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=21) en [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0021879&hoofdstuk=IV&artikel=7&z=2007-05-25&g=2007-05-25) van dit besluit.
 
 ##### Artikel 11
 
