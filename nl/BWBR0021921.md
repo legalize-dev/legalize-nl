@@ -165,39 +165,3 @@ EN 14781:2005 ‘Racefietsen – Veiligheidseisen en beproevingsmethoden’
 EN 14872:2006 ‘Fietsen – Toebehoren voor fietsen – Bagagedragers’.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-EN 14781:2005 ‘Racefietsen – Veiligheidseisen en beproevingsmethoden’
-
-EN 14872:2006 ‘Fietsen – Toebehoren voor fietsen – Bagagedragers’
-
-EN 16156:2010 ‘Sigaretten – Vaststellen van het ontstekend vermogen – Veiligheidseis’
-
-EN ISO 12863:2010 ‘Standaardbeproevingsmethode voor bepaling van het ontstekend vermogen van sigaretten’
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-EN 60065:2002/A12:2011 Audio-, video- en soortgelijke elektronische toestellen – Veiligheidseisen
-
-EN 60950-1:2006/A12:2011 Apparatuur voor informatietechniek – Veiligheid – Deel 1: Algemene eisen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-EN 15649-5:2009 – Opblaasbare vrijetijdsartikelen voor gebruik op en in het water – Deel 5: Aanvullende bijzondere veiligheidseisen en beproevingsmethoden voor klasse C toestellen
-
-EN 15649-6:2009 – Opblaasbare vrijetijdsartikelen voor gebruik op en in het water – Deel 6: Aanvullende bijzondere veiligheidseisen en beproevingsmethoden voor klasse D toestellen
-
-EN 15649-7:2009 – Opblaasbare vrijetijdsartikelen voor gebruik op en in het water – Deel 7: Aanvullende bijzondere veiligheidseisen en beproevingsmethoden voor klasse E toestellen.
-
-EN 16156:2010 ‘Sigaretten – Vaststellen van het ontstekend vermogen – Veiligheidseis’
-
-EN ISO 12863:2010 ‘Standaardbeproevingsmethode voor bepaling van het ontstekend vermogen van sigaretten’
-
-EN 60065:2002/A12:2011 Audio-, video- en soortgelijke elektronische toestellen – Veiligheidseisen
-
-EN 60950-1:2006/A12:2011 Apparatuur voor informatietechniek – Veiligheid – Deel 1: Algemene eisen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
