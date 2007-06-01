@@ -4,7 +4,7 @@ identifier: "BWBR0014682"
 country: "nl"
 rank: "wet"
 publication_date: "2022-01-01"
-last_updated: "2004-07-01"
+last_updated: "2007-06-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014682"
 soort: "wet"
@@ -52,23 +52,41 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - a. Onze Minister: Onze Minister van Volksgezondheid, Welzijn en Sport;
 
-- b. lichaamsmateriaal: bestanddelen van het menselijk lichaam of van een embryo, geslachtscellen, foetaal weefsel in de zin van de [Wet foetaal weefsel](https://wetten.overheid.nl/jci1.3:c:BWBR0012983) , alsmede uit bestanddelen van het menselijk lichaam of van een embryo dan wel uit foetaal weefsel in kweek gebrachte cellen, bestemd voor gebruik bij een geneeskundige behandeling;
+- b. lichaamsmateriaal: weefsel, cellen, bestanddelen van een embryo, foetaal weefsel in de zin van de [Wet foetaal weefsel](https://wetten.overheid.nl/jci1.3:c:BWBR0012983), alsmede uit weefsel of cellen of uit bestanddelen van een embryo dan wel uit foetaal weefsel in kweek gebrachte cellen, bestemd voor toepassing op de mens;
 
-- c. bewerkt lichaamsmateriaal: lichaamsmateriaal dat een bewerking heeft ondergaan, anders dan uitsluitend gericht op het bewaren van het materiaal;
+- c. weefsel: alle delen van het menselijk lichaam die uit cellen bestaan;
 
-- d. orgaanbank: een instelling die een erkenning van Onze Minister heeft op grond van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&hoofdstuk=III&artikel=9&z=2004-07-01&g=2004-07-01);
+- d. cellen: afzonderlijke cellen van menselijke oorsprong of een verzameling cellen van menselijke oorsprong die niet door bindweefsel met elkaar verbonden zijn;
 
-- e. orgaancentrum: een instelling als bedoeld in [artikel 24 van de Wet op de orgaandonatie](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&artikel=24).
+- e. verkrijgen: een proces waardoor lichaamsmateriaal beschikbaar komt;
 
-2. Onze Minister kan het begrip bewerkt lichaamsmateriaal nader omschrijven.
+- f. bewerken: alle handelingen die worden verricht bij het prepareren, manipuleren, preserveren en verpakken van lichaamsmateriaal;
+
+- g. preserveren: het gebruik van chemische stoffen, wijzigingen in de omgevingscondities of andere middelen tijdens de bewerking, bedoeld om biologische of fysieke achteruitgang van het lichaamsmateriaal te voorkomen of te vertragen;
+
+- h. bewaren: het onder gepaste gecontroleerde omstandigheden handhaven van lichaamsmateriaal tot de distributie ervan;
+
+- i. distribueren: het transport en de aflevering van lichaamsmateriaal;
+
+- j. toepassing op de mens: het gebruik van lichaamsmateriaal op of in een menselijke ontvanger, alsook toepassingen buiten het lichaam;
+
+- k. weefselinstelling: een weefselbank, een ziekenhuisafdeling of een andere instantie waar werkzaamheden met betrekking tot het bewerken, preserveren, bewaren of distribueren van lichaamsmateriaal worden uitgevoerd;
+
+- l. orgaanbank: een weefselinstelling die erkend is voor het in ontvangst nemen van lichaamsmateriaal na het verkrijgen daarvan;
+
+- m. orgaancentrum: een instelling als bedoeld in [artikel 24 van de Wet op de orgaandonatie](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&artikel=24);
+
+- n. richtlijn: richtlijn 2004/23/EG van het Europees Parlement en de Raad van 31 maart 2004 tot vaststelling van kwaliteits- en veiligheidsnormen voor het doneren, verkrijgen, testen, bewerken, bewaren en distribueren van menselijke weefsels en cellen (PbEU L 102).
+
+2. Een wijziging van de richtlijn gaat voor de toepassing van het bepaalde bij of krachtens de Wet veiligheid en kwaliteit lichaamsmateriaal gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven. Bij vervanging of wijziging van de richtlijn kan het eerste lid, onderdeel n, en kunnen de artikelen uit de richtlijn waarnaar in de bepalingen van de Wet veiligheid en kwaliteit lichaamsmateriaal wordt verwezen, bij regeling van Onze Minister worden gewijzigd.
 
 ##### Artikel 2
 
-Deze wet is niet van toepassing op bloed, afgenomen in het kader van de [Wet inzake bloedvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0009079), en op lichaamsmateriaal voor zover daarop de [Wet op de Geneesmiddelenvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0002290) of de [Wet op de medische hulpmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002697) van toepassing is.
+Deze wet is niet van toepassing op lichaamsmateriaal dat in een en dezelfde operatie wordt weggenomen en teruggeplaatst bij dezelfde persoon, bloed, afgenomen in het kader van de [Wet inzake bloedvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0009079), en op lichaamsmateriaal voor zover daarop de [Wet op de Geneesmiddelenvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0002290) of de [Wet op de medische hulpmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002697) van toepassing is.
 
 ##### Artikel 3
 
-Het is verboden bestanddelen van het menselijk lichaam of van een embryo, geslachtscellen, foetaal weefsel in de zin van de [Wet foetaal weefsel](https://wetten.overheid.nl/jci1.3:c:BWBR0012983), alsmede uit bestanddelen van het menselijk lichaam of van een embryo dan wel uit foetaal weefsel in kweek gebrachte cellen, die bij het ter beschikking komen bestemd waren voor een ander doel dan gebruik bij een geneeskundige behandeling, alsnog bij zo'n behandeling te gebruiken.
+Het is verboden weefsels, cellen, bestanddelen van een embryo, foetale weefsels in de zin van de [Wet foetaal weefsel](https://wetten.overheid.nl/jci1.3:c:BWBR0012983), alsmede uit weefsel of cellen of uit bestanddelen van een embryo dan wel uit foetaal weefsel in kweek gebrachte cellen, die bij het verkrijgen uitsluitend bestemd waren voor een ander doel dan toepassing op de mens, alsnog voor die toepassing te gebruiken.
 
 ### Hoofdstuk II. Behandeling van lichaamsmateriaal
 
@@ -82,15 +100,15 @@ Het is verboden bestanddelen van het menselijk lichaam of van een embryo, geslac
 
 - b. lichaamsmateriaal dat wordt weggenomen en teruggeplaatst bij dezelfde persoon in het kader van één geneeskundige behandeling;
 
-- c. uit bestanddelen van het menselijk lichaam of van een embryo dan wel uit foetaal weefsel in kweek gebrachte cellen;
+- c. uit weefsel of cellen of uit bestanddelen van een embryo dan wel uit foetaal weefsel in kweek gebrachte cellen;
 
-- d. geslachtscellen ten behoeve van in-vitrofertilisatie.
+- d. geslachtscellen ten behoeve van in-vitrofertilisatie of inseminatie, behoudens in geval van kunstmatige donorbevruchting als bedoeld in [artikel 1, onder c, van de Wet donorgegevens kunstmatige bevruchting](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&artikel=1).
 
-3. Bij de aanbieding wordt in voorkomende gevallen melding gemaakt van andere doeleinden waarvoor tevens toestemming tot het gebruiken van het lichaamsmateriaal is verleend, dan geneeskundige behandeling.
+3. Bij de aanbieding wordt in voorkomende gevallen melding gemaakt van andere doeleinden waarvoor tevens toestemming tot het gebruiken van het lichaamsmateriaal is verleend, dan toepassing op de mens.
 
 ##### Artikel 5
 
-Een orgaanbank bewaart lichaamsmateriaal waarvan op grond van [artikel 18, tweede lid, van de Wet op de orgaandonatie](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&artikel=18) is bepaald dat het voor implantatie beschikbaar moet blijven, totdat het orgaancentrum met toepassing van die wet heeft aangewezen wie voor implantatie van dat lichaamsmateriaal in aanmerking komt, of totdat het orgaancentrum heeft bepaald dat het niet langer beschikbaar moet blijven.
+Een orgaanbank bewaart lichaamsmateriaal waarvan op grond van [artikel 18, tweede lid, van de Wet op de orgaandonatie](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&artikel=18) is bepaald dat het voor implantatie beschikbaar moet blijven, ten minste totdat het orgaancentrum met toepassing van die wet heeft aangewezen wie voor implantatie van dat lichaamsmateriaal in aanmerking komt, of totdat het orgaancentrum heeft bepaald dat het niet langer beschikbaar moet blijven.
 
 ##### Artikel 6
 
@@ -98,43 +116,51 @@ Vervallen
 
 ##### Artikel 7
 
-1. Het invoeren van onbewerkt lichaamsmateriaal is slechts toegestaan aan orgaanbanken.
+1. Het vanuit een andere lidstaat van de Europese Unie op Nederlands grondgebied brengen van lichaamsmateriaal dat geen andere bewerking heeft ondergaan dan gericht op de bewaring ervan, is slechts toegestaan aan weefselinstellingen die daarvoor door Onze Minister zijn aangewezen.
 
-2. Het eerste lid geldt niet met betrekking tot:
+2. Het in- of uitvoeren van lichaamsmateriaal of daaruit bereide producten uit onderscheidenlijk naar andere staten dan lidstaten van de Europese Unie is slechts toegestaan aan weefselinstellingen die daarvoor door Onze Minister zijn aangewezen.
+
+3. Het eerste en tweede lid gelden niet met betrekking tot:
 
 - a. bloed;
 
-- b. onbewerkt lichaamsmateriaal waarvoor overeenkomstig de [Wet op de orgaandonatie](https://wetten.overheid.nl/jci1.3:c:BWBR0008066) een toewijzing heeft plaatsgevonden.
+- b. lichaamsmateriaal dat geen andere bewerking heeft ondergaan dan gericht op de bewaring ervan waarvoor overeenkomstig de [Wet op de orgaandonatie](https://wetten.overheid.nl/jci1.3:c:BWBR0008066) een toewijzing heeft plaatsgevonden.
 
-3. De orgaanbank die onbewerkt lichaamsmateriaal invoert met het oog op implantatie in de zin van de [Wet op de orgaandonatie](https://wetten.overheid.nl/jci1.3:c:BWBR0008066), doet daarvan melding aan het orgaancentrum.
+4. Een ieder die lichaamsmateriaal op Nederlands grondgebied brengt met het oog op implantatie in de zin van de [Wet op de orgaandonatie](https://wetten.overheid.nl/jci1.3:c:BWBR0008066), doet daarvan melding aan het orgaancentrum.
 
 ##### Artikel 8
 
-1. Bij of krachtens algemene maatregel van bestuur worden eisen gesteld waaraan orgaancentra en orgaanbanken met het oog op de veiligheid en kwaliteit van lichaamsmateriaal bij het vervoeren, bewaren, bewerken, overdragen en invoeren van lichaamsmateriaal moeten voldoen.
+1. Bij of krachtens algemene maatregel van bestuur worden eisen gesteld waaraan orgaancentra en weefselinstellingen met het oog op de veiligheid en kwaliteit van lichaamsmateriaal moeten voldoen in verband met het verkrijgen, bewerken, preserveren, bewaren, distribueren of op Nederlands grondgebied brengen van lichaamsmateriaal of daaruit bereide producten.
 
-2. Bij of krachtens algemene maatregel van bestuur kunnen met het oog op de veiligheid en kwaliteit van lichaamsmateriaal voorts eisen worden gesteld waaraan bij het wegnemen, vervoeren, bewaren, bewerken of overdragen van lichaamsmateriaal, anders dan door orgaancentra en orgaanbanken, moet worden voldaan.
+2. Bij of krachtens algemene maatregel van bestuur kunnen met het oog op de veiligheid en kwaliteit van lichaamsmateriaal voorts eisen worden gesteld waaraan in verband met het verkrijgen, testen en gebruiken door anderen dan weefselinstellingen moet worden voldaan.
 
-3. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld omtrent het aantekening houden en melden van bijwerkingen van lichaamsmateriaal dat is gebruikt bij een geneeskundige behandeling.
+3. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld omtrent het aantekening houden en melden van bijwerkingen van lichaamsmateriaal dat is toegepast op de mens.
 
 4. De voordracht voor een krachtens dit artikel vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.
 
-### Hoofdstuk III. Erkenning orgaanbanken en aanwijzing keuringsinstellingen
+### Hoofdstuk III. Erkenning en vergunning
 
 ##### Artikel 9
 
-1. Een erkenning voor het vervoeren, bewaren, bewerken, overdragen en invoeren van lichaamsmateriaal kan uitsluitend worden verleend aan een rechtspersoon die geen orgaancentrum is en waarvan het doel voorzover de functie van orgaanbank betreft, blijkens de statuten niet is het doen van uitkeringen aan oprichters of aan hen die deel uitmaken van haar organen noch ook aan anderen.
+1. Het is verboden zonder erkenning van Onze Minister lichaamsmateriaal in ontvangst te nemen na het verkrijgen, of het te bewerken, te preserveren, te bewaren of te distribueren.
 
-2. Een erkenning wordt geweigerd indien:
+2. Een erkenning kan worden verleend voor een of meer van de in het eerste lid genoemde handelingen en voor een of meer soorten van lichaamsmateriaal.
 
-- a. niet wordt of naar redelijke verwachting zal worden voldaan aan het bij of krachtens deze wet bepaalde;
+3. Een erkenning kan uitsluitend worden verleend aan een rechtspersoon die geen orgaancentrum is en, indien het een orgaanbank betreft, waarvan het doel blijkens de statuten niet is het doen van uitkeringen aan oprichters of aan hen die deel uitmaken van haar organen noch ook aan anderen. Een erkenning voor het in ontvangst nemen van lichaamsmateriaal met het oog op implantatie in de zin van de [Wet op de orgaandonatie](https://wetten.overheid.nl/jci1.3:c:BWBR0008066) wordt geweigerd indien een doelmatige voorziening in de behoefte aan lichaamsmateriaal niet is gebaat bij verlening van de erkenning dan wel een doelmatige samenwerking met andere orgaanbanken en met orgaancentra niet is verzekerd.
 
-- b. een doelmatige voorziening in de behoefte aan lichaamsmateriaal niet is gebaat bij verlening van de erkenning dan wel een doelmatige samenwerking met andere orgaanbanken en met orgaancentra niet is verzekerd.
+4. Ter uitvoering van artikel 28, onder a, van de richtlijn worden bij regeling van Onze Minister voorschriften vastgesteld waaraan een instelling moet voldoen om voor erkenning in aanmerking te komen.
+
+5. Het eerste lid geldt niet met betrekking tot lichaamsmateriaal waarvoor overeenkomstig de [Wet op de orgaandonatie](https://wetten.overheid.nl/jci1.3:c:BWBR0008066) een toewijzing heeft plaatsgevonden en dat naar zijn aard niet geschikt is om te worden aangeboden aan een orgaanbank.
 
 ##### Artikel 10
 
 1. Een erkenning kan onder beperkingen worden verleend. Aan een erkenning kunnen voorschriften worden verbonden.
 
-2. Een beperking of voorschrift kan worden gewijzigd of ingetrokken. Ook na het verlenen van de erkenning kunnen daaraan beperkingen worden gesteld of voorschriften worden verbonden.
+2. Tot de voorschriften behoren in ieder geval voorschriften inzake de preparatietechnieken voor weefsels en cellen ter uitvoering van artikel 28, onder g, van de richtlijn.
+
+3. Een beperking of voorschrift kan worden gewijzigd of ingetrokken. Ook na het verlenen van de erkenning kunnen daaraan beperkingen worden gesteld of voorschriften worden verbonden.
+
+4. Een weefselinstelling mag haar werkzaamheden niet ingrijpend wijzigen zonder voorafgaande schriftelijke toestemming van Onze Minister.
 
 ##### Artikel 11
 
@@ -142,7 +168,11 @@ Een erkenning kan worden ingetrokken indien niet meer wordt voldaan aan het bepa
 
 ##### Artikel 12
 
-Dit onderdeel is nog niet inwerking getreden
+1. Het is verboden voor donoren vereiste tests van lichaamsmateriaal te verrichten zonder vergunning van Onze Minister.
+
+2. Onze Minister verleent slechts een vergunning aan een laboratorium dat aannemelijk heeft gemaakt dat het de in artikel 28, onder e, van de richtlijn bedoelde tests op verantwoorde wijze kan verrichten.
+
+3. De [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&hoofdstuk=III&artikel=10&z=2007-06-01&g=2007-06-01) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&hoofdstuk=III&artikel=11&z=2007-06-01&g=2007-06-01) zijn van overeenkomstige toepassing.
 
 ##### Artikel 13
 
@@ -176,17 +206,17 @@ Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn 
 
 ##### Artikel 20
 
-Onverminderd de voorgaande bepalingen is het degene die lichaamsmateriaal ter aflevering voorhanden heeft, waarvan hij weet of redelijkerwijs moet vermoeden dat de geschiktheid voor gebruik bij een geneeskundige behandeling geheel of in ernstige mate ontbreekt, verboden dat lichaamsmateriaal af te leveren.
+Onverminderd de voorgaande bepalingen is het degene die lichaamsmateriaal ter aflevering voorhanden heeft, waarvan hij weet of redelijkerwijs moet vermoeden dat de geschiktheid voor toepassing op de mens geheel of in ernstige mate ontbreekt, verboden dat lichaamsmateriaal af te leveren.
 
 ##### Artikel 21
 
-Wijzigt de Wet op de economische delicten.
+Vervallen
 
 ### Hoofdstuk V. Overgangs- en slotbepalingen
 
 ##### Artikel 22
 
-Wijzigt de Wet op de orgaandonatie.
+Vervallen
 
 ##### Artikel 23
 
