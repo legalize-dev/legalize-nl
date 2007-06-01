@@ -210,19 +210,3 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 Deze wet wordt aangehaald als: Wet op de bijzondere opsporingsdiensten.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 6a
-
-De opsporingsambtenaar is bevoegd tot het vorderen van inzage in een identiteitsbewijs als bedoeld in [artikel 1 van de Wet op de identificatieplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0006297&artikel=1) van personen, voor zover dat redelijkerwijs noodzakelijk is voor de uitoefening van zijn taak.
-
-### Hoofdstuk III. Toezicht op de bijzondere opsporingsdiensten en opsporingsambtenaren
-
-### Hoofdstuk IV. Organisatie en beleid
-
-### Hoofdstuk V. Samenwerking met de politie en andere diensten
-
-### Hoofdstuk VI. Behandeling van klachten
-
-### Hoofdstuk VII. Slotbepalingen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
