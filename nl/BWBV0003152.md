@@ -4,7 +4,7 @@ identifier: "BWBV0003152"
 country: "nl"
 rank: "verdrag"
 publication_date: "2007-06-01"
-last_updated: "1947-10-11"
+last_updated: "2007-06-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0003152"
 soort: "verdrag"
@@ -94,17 +94,17 @@ De Organisatie stelt zich ten doel:
 
 Overeenkomstig de in dit Verdrag omschreven procedure kan Lid worden van de Organisatie:
 
-- a. Elke Staat, vertegenwoordigd op de Conferentie van directeuren van de Internationale Meteorologische Organisatie, bijeengekomen te Washington D.C. op 22 september 1947, als vermeld in de hierbij gevoegde [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003152&bijlage=I&z=1947-10-11&g=1947-10-11), die dit Verdrag ondertekent en bekrachtigt overeenkomstig [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBV0003152&deel=XIX&artikel=32&z=1947-10-11&g=1947-10-11), of die daartoe toetreedt overeenkomstig [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBV0003152&deel=XIX&artikel=33&z=1947-10-11&g=1947-10-11);
+- a. Elke Staat, vertegenwoordigd op de Conferentie van directeuren van de Internationale Meteorologische Organisatie, bijeengekomen te Washington D.C. op 22 september 1947, als vermeld in de hierbij gevoegde [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003152&bijlage=I&z=2007-06-01&g=2007-06-01), die dit Verdrag ondertekent en bekrachtigt overeenkomstig [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBV0003152&deel=XIX&artikel=32&z=2007-06-01&g=2007-06-01), of die daartoe toetreedt overeenkomstig [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBV0003152&deel=XIX&artikel=33&z=2007-06-01&g=2007-06-01);
 
-- b. Elk Lid van de Verenigde Naties dat over een meteorologische dienst beschikt en dat overeenkomstig [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBV0003152&deel=XIX&artikel=33&z=1947-10-11&g=1947-10-11) tot dit Verdrag toetreedt;
+- b. Elk Lid van de Verenigde Naties dat over een meteorologische dienst beschikt en dat overeenkomstig [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBV0003152&deel=XIX&artikel=33&z=2007-06-01&g=2007-06-01) tot dit Verdrag toetreedt;
 
-- c. Elke Staat die volledig verantwoordelijk is voor het beleid inzake zijn internationale betrekkingen, die over een meteorologische dienst beschikt en die niet vermeld is in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003152&bijlage=I&z=1947-10-11&g=1947-10-11) van dit Verdrag, en geen Lid is van de Verenigde Naties, nadat een verzoek tot lidmaatschap is ingediend bij het Secretariaat van de Organisatie, waarover door tweederde van de Leden van de Organisatie gunstig is beslist, als bedoeld in de paragrafen a, b en c van dit artikel, door toetreding tot dit Verdrag overeenkomstig [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBV0003152&deel=XIX&artikel=33&z=1947-10-11&g=1947-10-11);
+- c. Elke Staat die volledig verantwoordelijk is voor het beleid inzake zijn internationale betrekkingen, die over een meteorologische dienst beschikt en die niet vermeld is in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003152&bijlage=I&z=2007-06-01&g=2007-06-01) van dit Verdrag, en geen Lid is van de Verenigde Naties, nadat een verzoek tot lidmaatschap is ingediend bij het Secretariaat van de Organisatie, waarover door tweederde van de Leden van de Organisatie gunstig is beslist, als bedoeld in de paragrafen a, b en c van dit artikel, door toetreding tot dit Verdrag overeenkomstig [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBV0003152&deel=XIX&artikel=33&z=2007-06-01&g=2007-06-01);
 
-- d. Elk gebied dat of elke groep van gebieden die zijn eigen meteorologische dienst onderhoudt, vermeld in de hierbij gevoegde [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBV0003152&bijlage=II&z=1947-10-11&g=1947-10-11), wanneer dit Verdrag namens hem wordt toegepast overeenkomstig [paragraaf a van artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBV0003152&deel=XIX&artikel=34&z=1947-10-11&g=1947-10-11) door de Staat of Staten verantwoordelijk voor zijn buitenlandse betrekkingen en die vertegenwoordigd was/waren op de Conferentie van directeuren van de Internationale Meteorologische Organisatie bijeengeroepen te Washington D.C., op 22 september 1947, als vermeld in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003152&bijlage=I&z=1947-10-11&g=1947-10-11) van dit Verdrag;
+- d. Elk gebied dat of elke groep van gebieden die zijn eigen meteorologische dienst onderhoudt, vermeld in de hierbij gevoegde [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBV0003152&bijlage=II&z=2007-06-01&g=2007-06-01), wanneer dit Verdrag namens hem wordt toegepast overeenkomstig [paragraaf a van artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBV0003152&deel=XIX&artikel=34&z=2007-06-01&g=2007-06-01) door de Staat of Staten verantwoordelijk voor zijn buitenlandse betrekkingen en die vertegenwoordigd was/waren op de Conferentie van directeuren van de Internationale Meteorologische Organisatie bijeengeroepen te Washington D.C., op 22 september 1947, als vermeld in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003152&bijlage=I&z=2007-06-01&g=2007-06-01) van dit Verdrag;
 
-- e. Elk gebied dat of elke groep van gebieden die, niet vermeld in [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBV0003152&bijlage=II&z=1947-10-11&g=1947-10-11) van dit Verdrag, zijn eigen meteorologische dienst onderhoudt, maar niet verantwoordelijk is voor het beleid inzake zijn internationale betrekkingen, ten aanzien waarvan dit Verdrag van toepassing is overeenkomstig [paragraaf b van artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBV0003152&deel=XIX&artikel=34&z=1947-10-11&g=1947-10-11), mits het verzoek tot lidmaatschap wordt ingediend door het Lid dat verantwoordelijk is voor zijn internationale betrekkingen en over dat verzoek gunstig wordt beslist door tweederde van de Leden van de Organisatie, als bedoeld in de paragrafen a, b en c van dit artikel;
+- e. Elk gebied dat of elke groep van gebieden die, niet vermeld in [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBV0003152&bijlage=II&z=2007-06-01&g=2007-06-01) van dit Verdrag, zijn eigen meteorologische dienst onderhoudt, maar niet verantwoordelijk is voor het beleid inzake zijn internationale betrekkingen, ten aanzien waarvan dit Verdrag van toepassing is overeenkomstig [paragraaf b van artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBV0003152&deel=XIX&artikel=34&z=2007-06-01&g=2007-06-01), mits het verzoek tot lidmaatschap wordt ingediend door het Lid dat verantwoordelijk is voor zijn internationale betrekkingen en over dat verzoek gunstig wordt beslist door tweederde van de Leden van de Organisatie, als bedoeld in de paragrafen a, b en c van dit artikel;
 
-- f. Elk trustgebied dat of elke groep van trustgebieden die zijn eigen meteorologische dienst onderhoudt en beheerd wordt door de Verenigde Naties, en waarop de Verenigde Naties dit Verdrag overeenkomstig [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBV0003152&deel=XIX&artikel=34&z=1947-10-11&g=1947-10-11) toepassen.
+- f. Elk trustgebied dat of elke groep van trustgebieden die zijn eigen meteorologische dienst onderhoudt en beheerd wordt door de Verenigde Naties, en waarop de Verenigde Naties dit Verdrag overeenkomstig [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBV0003152&deel=XIX&artikel=34&z=2007-06-01&g=2007-06-01) toepassen.
 
 Elk verzoek tot lidmaatschap van de Organisatie vermeldt overeenkomstig welke paragraaf van dit artikel het lidmaatschap wordt gevraagd.
 
@@ -134,13 +134,13 @@ De Leden van de Organisatie beslissen over de werkzaamheden en de belangen van d
 
 - b. Met uitzondering van aangelegenheden die in het Verdrag zijn voorbehouden aan beslissingen door het Congres, kunnen Leden evenwel ook schriftelijk beslissingen nemen indien tussen de zittingen van het Congres spoedeisende maatregelen noodzakelijk zijn. Een dergelijke stemming geschiedt nadat de Secretaris-Generaal een verzoek daartoe van een meerderheid van de Leden van de Organisatie ontvangen heeft of indien daartoe besloten wordt door de Uitvoerende Raad.
 
-Schriftelijke stemmingen vinden plaats in overeenstemming met de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBV0003152&deel=VI&artikel=11&z=1947-10-11&g=1947-10-11) en [12](https://wetten.overheid.nl/jci1.3:c:BWBV0003152&deel=VI&artikel=12&z=1947-10-11&g=1947-10-11) van het Verdrag en met het Algemeen Reglement (hierna te noemen „het Reglement”).
+Schriftelijke stemmingen vinden plaats in overeenstemming met de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBV0003152&deel=VI&artikel=11&z=2007-06-01&g=2007-06-01) en [12](https://wetten.overheid.nl/jci1.3:c:BWBV0003152&deel=VI&artikel=12&z=2007-06-01&g=2007-06-01) van het Verdrag en met het Algemeen Reglement (hierna te noemen „het Reglement”).
 
 ## DEEL V. FUNCTIONARISSEN VAN DE ORGANISATIE EN LEDEN VAN DE UITVOERENDE RAAD
 
 ##### Artikel 6
 
-a. De verkiesbaarheid tot de functies van Voorzitter en Vice-voorzitter van de Organisatie, van Voorzitter en Vice-voorzitter van de regionale verbanden en voor lidmaatschap van de Uitvoerende Raad, met inachtneming van [artikel 13, c, onder ii](https://wetten.overheid.nl/jci1.3:c:BWBV0003152&deel=VII&artikel=13&z=1947-10-11&g=1947-10-11), van het Verdrag, moet beperkt worden tot personen die door de Leden van de Organisatie voor de toepassing van dit Verdrag zijn benoemd als directeuren van hun meteorologische of hydrometeorologische diensten, zoals voorzien in het Reglement;
+a. De verkiesbaarheid tot de functies van Voorzitter en Vice-voorzitter van de Organisatie, van Voorzitter en Vice-voorzitter van de regionale verbanden en voor lidmaatschap van de Uitvoerende Raad, met inachtneming van [artikel 13, c, onder ii](https://wetten.overheid.nl/jci1.3:c:BWBV0003152&deel=VII&artikel=13&z=2007-06-01&g=2007-06-01), van het Verdrag, moet beperkt worden tot personen die door de Leden van de Organisatie voor de toepassing van dit Verdrag zijn benoemd als directeuren van hun meteorologische of hydrometeorologische diensten, zoals voorzien in het Reglement;
 
 b. Bij de vervulling van hun taak treden de functionarissen van de Organisatie en de leden van de Uitvoerende Raad op als vertegenwoordiger van de Organisatie en niet als vertegenwoordiger van bepaalde Leden daarvan.
 
@@ -158,7 +158,7 @@ c. Teneinde de ruimst mogelijke technische vertegenwoordiging te verzekeren, kan
 
 Naast de functies vervat in de overige artikelen van het Verdrag zijn de primaire functies van het Congres:
 
-- a. het vaststellen van het algemene beleid ten behoeve van het vervullen van de doelstellingen van de Organisatie zoals vervat in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003152&deel=II&artikel=2&z=1947-10-11&g=1947-10-11);
+- a. het vaststellen van het algemene beleid ten behoeve van het vervullen van de doelstellingen van de Organisatie zoals vervat in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003152&deel=II&artikel=2&z=2007-06-01&g=2007-06-01);
 
 - b. het doen van aanbevelingen aan de Leden ter zake van aangelegenheden die vallen binnen de doelstellingen van de Organisatie;
 
@@ -168,9 +168,9 @@ Naast de functies vervat in de overige artikelen van het Verdrag zijn de primair
 
 - e. het bestuderen van de verslagen en werkzaamheden van de Uitvoerende Raad en het in verband daarmee nemen van passende maatregelen;
 
-- f. het instellen van regionale verbanden in overeenstemming met de bepalingen van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0003152&deel=VIII&artikel=18&z=1947-10-11&g=1947-10-11); het bepalen van hun geografische grenzen, het coördineren van hun werkzaamheden en het overwegen van hun aanbevelingen;
+- f. het instellen van regionale verbanden in overeenstemming met de bepalingen van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0003152&deel=VIII&artikel=18&z=2007-06-01&g=2007-06-01); het bepalen van hun geografische grenzen, het coördineren van hun werkzaamheden en het overwegen van hun aanbevelingen;
 
-- g. het instellen van technische commissies in overeenstemming met de bepalingen van [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0003152&deel=IX&artikel=19&z=1947-10-11&g=1947-10-11); het bepalen van hun bevoegdheden, het coördineren van hun werkzaamheden en het overwegen van hun aanbevelingen;
+- g. het instellen van technische commissies in overeenstemming met de bepalingen van [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0003152&deel=IX&artikel=19&z=2007-06-01&g=2007-06-01); het bepalen van hun bevoegdheden, het coördineren van hun werkzaamheden en het overwegen van hun aanbevelingen;
 
 - h. het instellen van aanvullende organen die het nodig mocht achten;
 
@@ -206,11 +206,11 @@ a. Elk Lid heeft één stem tijdens een Congres. Alleen Leden van de Organisatie
 
 - 4. het kiezen van de Voorzitter en de Vice-voorzitters van de Organisatie en de leden van de Uitvoerende Raad, niet zijnde de voorzitters van de regionale verbanden.
 
-b. Beslissingen worden genomen met een tweederde meerderheid van de vóór en tegen uitgebrachte stemmen, behoudens bij verkiezingen van personen om in de Organisatie een functie te bekleden, die met gewone meerderheid van de uitgebrachte stemmen plaatshebben. De bepalingen van deze paragraaf zijn echter niet van toepassing op beslissingen, genomen ingevolge de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003152&deel=III&artikel=3&z=1947-10-11&g=1947-10-11), [10 paragraaf c](https://wetten.overheid.nl/jci1.3:c:BWBV0003152&deel=VI&artikel=10&z=1947-10-11&g=1947-10-11), [25](https://wetten.overheid.nl/jci1.3:c:BWBV0003152&deel=XII&artikel=25&z=1947-10-11&g=1947-10-11), [26](https://wetten.overheid.nl/jci1.3:c:BWBV0003152&deel=XIII&artikel=26&z=1947-10-11&g=1947-10-11) en [28](https://wetten.overheid.nl/jci1.3:c:BWBV0003152&deel=XV&artikel=28&z=1947-10-11&g=1947-10-11) van het Verdrag.
+b. Beslissingen worden genomen met een tweederde meerderheid van de vóór en tegen uitgebrachte stemmen, behoudens bij verkiezingen van personen om in de Organisatie een functie te bekleden, die met gewone meerderheid van de uitgebrachte stemmen plaatshebben. De bepalingen van deze paragraaf zijn echter niet van toepassing op beslissingen, genomen ingevolge de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003152&deel=III&artikel=3&z=2007-06-01&g=2007-06-01), [10 paragraaf c](https://wetten.overheid.nl/jci1.3:c:BWBV0003152&deel=VI&artikel=10&z=2007-06-01&g=2007-06-01), [25](https://wetten.overheid.nl/jci1.3:c:BWBV0003152&deel=XII&artikel=25&z=2007-06-01&g=2007-06-01), [26](https://wetten.overheid.nl/jci1.3:c:BWBV0003152&deel=XIII&artikel=26&z=2007-06-01&g=2007-06-01) en [28](https://wetten.overheid.nl/jci1.3:c:BWBV0003152&deel=XV&artikel=28&z=2007-06-01&g=2007-06-01) van het Verdrag.
 
 ##### Artikel 12. Quorum
 
-De aanwezigheid van een meerderheid van vertegenwoordigers van de Leden zal vereist zijn om een quorum te vormen voor vergaderingen van het Congres. Voor die vergaderingen van het Congres, waarin beslissingen worden genomen over de onderwerpen genoemd in [paragraaf a van artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0003152&deel=VI&artikel=11&z=1947-10-11&g=1947-10-11), is een meerderheid van Leden die Staten zijn vereist om een quorum te vormen.
+De aanwezigheid van een meerderheid van vertegenwoordigers van de Leden zal vereist zijn om een quorum te vormen voor vergaderingen van het Congres. Voor die vergaderingen van het Congres, waarin beslissingen worden genomen over de onderwerpen genoemd in [paragraaf a van artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0003152&deel=VI&artikel=11&z=2007-06-01&g=2007-06-01), is een meerderheid van Leden die Staten zijn vereist om een quorum te vormen.
 
 ## DEEL VII. DE UITVOERENDE RAAD
 
@@ -248,7 +248,7 @@ Naast de functies vervat in de overige artikelen van het Verdrag zijn de primair
 
 - g. het rapporteren over zijn werkzaamheden bij elke zitting van het Congres;
 
-- h. het beheren van de financiën van de Organisatie in overeenstemming met de bepalingen van [Deel XI](https://wetten.overheid.nl/jci1.3:c:BWBV0003152&deel=XI&z=1947-10-11&g=1947-10-11) van het Verdrag.
+- h. het beheren van de financiën van de Organisatie in overeenstemming met de bepalingen van [Deel XI](https://wetten.overheid.nl/jci1.3:c:BWBV0003152&deel=XI&z=2007-06-01&g=2007-06-01) van het Verdrag.
 
 De Uitvoerende Raad kan ook andere functies verrichten die hem worden opgedragen door het Congres of door de Leden gezamenlijk.
 
@@ -262,7 +262,7 @@ b. Buitengewone vergaderingen van de Uitvoerende Raad worden bijeengeroepen volg
 
 a. Beslissingen van de Uitvoerende Raad worden genomen bij tweederde meerderheid van de voor en tegen uitgebrachte stemmen. Elk lid van de Uitvoerende Raad heeft slechts één stem, ook indien hij lid mocht zijn in meer dan één hoedanigheid.
 
-b. In de periode gelegen tussen de vergaderingen kan de Uitvoerende Raad schriftelijk stemmen. Deze stemmingen vinden plaats in overeenstemming met [artikel 16, paragraaf a](https://wetten.overheid.nl/jci1.3:c:BWBV0003152&deel=VII&artikel=16&z=1947-10-11&g=1947-10-11), en [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBV0003152&deel=VII&artikel=17&z=1947-10-11&g=1947-10-11) van het Verdrag.
+b. In de periode gelegen tussen de vergaderingen kan de Uitvoerende Raad schriftelijk stemmen. Deze stemmingen vinden plaats in overeenstemming met [artikel 16, paragraaf a](https://wetten.overheid.nl/jci1.3:c:BWBV0003152&deel=VII&artikel=16&z=2007-06-01&g=2007-06-01), en [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBV0003152&deel=VII&artikel=17&z=2007-06-01&g=2007-06-01) van het Verdrag.
 
 ##### Artikel 17. Quorum
 
@@ -368,7 +368,7 @@ c. Op het grondgebied van elk Lid dat Staat is en dat is toegetreden tot het [Ve
 
 a. De tekst van elke voorgestelde wijziging van dit Verdrag wordt door de Secretaris-Generaal tenminste zes maanden voordat deze door het Congres zal worden behandeld toegezonden aan de Leden van de Organisatie.
 
-b. Wijzigingen van dit Verdrag die nieuwe verplichtingen voor de Leden met zich meebrengen dienen te worden goedgekeurd door het Congres in overeenstemming met de bepalingen van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0003152&deel=VI&artikel=11&z=1947-10-11&g=1947-10-11) van dit Verdrag met een tweederde meerderheid van het aantal stemmen en worden na aanvaarding door tweederde van de Leden die Staten zijn van kracht voor de Leden die de wijziging aanvaarden en daarna voor elk ander Lid zodra het de wijziging heeft aanvaard. Deze wijzigingen worden van kracht voor elk Lid dat niet verantwoordelijk is voor zijn eigen internationale betrekkingen na aanvaarding namens dit Lid door het Lid dat verantwoordelijk is voor de behartiging van zijn internationale betrekkingen.
+b. Wijzigingen van dit Verdrag die nieuwe verplichtingen voor de Leden met zich meebrengen dienen te worden goedgekeurd door het Congres in overeenstemming met de bepalingen van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0003152&deel=VI&artikel=11&z=2007-06-01&g=2007-06-01) van dit Verdrag met een tweederde meerderheid van het aantal stemmen en worden na aanvaarding door tweederde van de Leden die Staten zijn van kracht voor de Leden die de wijziging aanvaarden en daarna voor elk ander Lid zodra het de wijziging heeft aanvaard. Deze wijzigingen worden van kracht voor elk Lid dat niet verantwoordelijk is voor zijn eigen internationale betrekkingen na aanvaarding namens dit Lid door het Lid dat verantwoordelijk is voor de behartiging van zijn internationale betrekkingen.
 
 c. Andere wijzigingen worden van kracht na te zijn goedgekeurd door tweederde van de Leden die Staten zijn.
 
@@ -400,11 +400,11 @@ Dit Verdrag wordt bekrachtigd door de ondertekenende Staten en de akten van bekr
 
 ##### Artikel 33
 
-Met inachtneming van de bepalingen van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003152&deel=III&artikel=3&z=1947-10-11&g=1947-10-11) van dit Verdrag geschiedt toetreding door de nederlegging van een akte van toetreding bij de Regering van de Verenigde Staten van Amerika, die elk Lid van de Organisatie daarvan in kennis stelt.
+Met inachtneming van de bepalingen van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003152&deel=III&artikel=3&z=2007-06-01&g=2007-06-01) van dit Verdrag geschiedt toetreding door de nederlegging van een akte van toetreding bij de Regering van de Verenigde Staten van Amerika, die elk Lid van de Organisatie daarvan in kennis stelt.
 
 ##### Artikel 34
 
-Met inachtneming van de bepalingen van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003152&deel=III&artikel=3&z=1947-10-11&g=1947-10-11) van dit Verdrag:
+Met inachtneming van de bepalingen van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003152&deel=III&artikel=3&z=2007-06-01&g=2007-06-01) van dit Verdrag:
 
 - a. Kan elke Verdragsluitende Staat verklaren dat zijn bekrachtiging of toetreding tot dit Verdrag mede geldt voor een gebied of groep van gebieden voor de internationale betrekkingen waarvan hij verantwoordelijk is.
 
