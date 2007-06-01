@@ -4,7 +4,7 @@ identifier: "BWBR0004914"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-01-01"
-last_updated: "1996-07-17"
+last_updated: "2007-06-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004914"
 soort: "AMvB"
@@ -46,69 +46,121 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-Dit besluit verstaat onder:
+1. In dit besluit wordt verstaan onder:
 
-- a. landgoed: landgoed in de zin van [artikel 1, eerste lid, onderdeel **a**, van de Natuurschoonwet 1928](https://wetten.overheid.nl/jci1.3:c:BWBR0001939&artikel=1);
+- a. landgoed: landgoed als bedoeld in [artikel 1, eerste lid, onderdeel a, van de Natuurschoonwet 1928](https://wetten.overheid.nl/jci1.3:c:BWBR0001939&artikel=1);
 
-- b. houtopstanden: bossen of andere houtopstanden, mits zij zijn aangeslagen en er na de aanplant tenminste twee jaren zijn verlopen, met dien verstande dat kweekgoed, kerstboomteelten, laagstamboomgaarden en snijgrienden niet worden gerekend tot houtopstanden;
+- b. houtopstanden: houtopstanden niet zijnde kweekgoed, kerstboomteelten, laagstamboomgaarden of snijgrienden;
 
-- c. buitenplaats: een in oorsprong versterkt huis, een kasteel, buitenhuis of landhuis, eventueel met bijgebouwen en omgeven door een tuin of een park;
+- c. buitenplaats: onroerende zaak met daarop gelegen een in oorsprong versterkt huis, een kasteel, een buitenhuis of een landhuis, eventueel met bijgebouwen, met een architectonisch daarmee verbonden historische tuin of historisch park van ten minste één hectare waarvan de aanleg dateert van vóór 1850 en herkenbaar aanwezig is, indien dit complex, dan wel ten minste één van de onderdelen daarvan, een beschermd monument is dat is ingeschreven in een register als bedoeld in [artikel 6, eerste lid, van de Monumentenwet 1988](https://wetten.overheid.nl/jci1.3:c:BWBR0004471&artikel=6);
 
-- d. historische tuin of historisch park: tuin of park waarvan de eerste aanleg dateert van vóór 1850 en welke aanleg nog herkenbaar aanwezig is;
+- d. natuurterreinen:
 
-- e. natuurterreinen: heidevelden, hoogveenterreinen, zandverstuivingen, duinterreinen, kwelders, schorren, gorzen, slikken, riet- en ruigtlanden, laagveenmoerassen, voor zover het geen landbouwgrond is.
+- 1°. heidevelden, hoogvenen, laagveenmoerassen, zandverstuivingen, duinterreinen, kwelders, slufters, schorren, gorzen, slikken, groene stranden, rietlanden, ruigten, struwelen, moerassen, vennen, poelen, beken, kleine rivieren, wielen, afgesloten rivierlopen, kreken, bronnen en sprengen, voor zover deze gronden niet in gebruik zijn als landbouwgrond;
+
+- 2°. kalkgraslanden, bloemrijke graslanden van het heuvelland, van het zand- en het veengebied, of van het rivieren- en zeekleigebied, natte schraalgraslanden, dotterbloemgraslanden van beekdalen, of van veen- en kleigebieden, natte matig voedselrijke graslanden, droge schraalgraslanden van de hogere gronden, droge kalkarme duingraslanden, droge kalkrijke duingraslanden en binnendijkse zilte graslanden, voor zover deze gronden slechts in gebruik zijn voor begrazing of als hooiland en begroeid zijn met voor deze graslanden kenmerkende vegetatietypen;
+
+- e. Onze Ministers: Onze Ministers van Landbouw, Natuur en Voedselkwaliteit en van Financiën;
+
+- f. economische eigendom: economische eigendom als bedoeld in [artikel 1, eerste lid, onderdeel c, van de Natuurschoonwet 1928](https://wetten.overheid.nl/jci1.3:c:BWBR0001939&artikel=1).
+
+2. In dit besluit wordt onder natuurterreinen mede verstaan landbouwgrond die voldoet aan elk van de volgende voorwaarden:
+
+- a. de desbetreffende landbouwgrond wordt ingericht of anderszins genoegzaam geschikt gemaakt voor de ontwikkeling tot natuurterrein;
+
+- b. die ontwikkeling tot natuurterrein geschiedt overeenkomstig een door Onze Ministers goedgekeurd natuurinrichtingsplan, waarin tevens de tijdsduur is bepaald waarbinnen die ontwikkeling in hoofdzaak zal worden voltooid;
+
+- c. elk gebruik van de grond dat de ontwikkeling tot natuurterrein kan belemmeren, is blijkens een schriftelijke verklaring gestaakt.
 
 ##### Artikel 2
 
 1. Om als een landgoed te kunnen worden aangemerkt, dient een onroerende zaak te voldoen aan de volgende voorwaarden:
 
-- a. de oppervlakte van de onroerende zaak bedraagt tenminste 5 hectare;
+- a. de oppervlakte van de onroerende zaak bedraagt ten minste 5 hectare;
 
-- b. de onroerende zaak vormt een aaneengesloten gebied;
+- b. terreinen en wateren behorende tot de onroerende zaak vormen een aaneengesloten gebied;
 
-- c. tenminste 30 percent van de oppervlakte van de onroerende zaak is bezet met houtopstanden en
+- c. de oppervlakte van de onroerende zaak is voor ten minste 30 percent bezet met houtopstanden of natuurterreinen en
 
 - d. het soort gebruik dat van de onroerende zaak wordt gemaakt, maakt geen inbreuk op het natuurschoon.
 
-2. Voorzover de niet met houtopstanden bezette terreinen, de opstallen en de wateren, alsmede het soort gebruik dat daarvan en van de met houtopstanden bezette terreinen wordt gemaakt, inbreuk maken op het natuurschoon, worden die terreinen, die opstallen en die wateren voor de toepassing van dit besluit niet gerekend deel uit te maken van de als landgoed aangemerkte onroerende zaak.
+2. Voor zover tot de onroerende zaak behorende terreinen, opstallen of wateren, of het soort gebruik dat daarvan wordt gemaakt, inbreuk maken op het natuurschoon, worden die terreinen, die opstallen en die wateren niet gerekend tot de als landgoed aan te merken onroerende zaak.
 
-3. Een onroerende zaak wordt eveneens als een aaneengesloten gebied als bedoeld in het eerste lid, onderdeel **b**, aangemerkt, indien de samenstellende delen van die onroerende zaak gescheiden worden door een weg, dijk, spoorweg of waterloop die elk naar aard, verschijningsvorm of het gebruik dat daarvan wordt gemaakt, geen inbreuk maakt op het natuurschoon van de onroerende zaak.
+3. De terreinen en wateren behorende tot een onroerende zaak worden mede als een aaneengesloten gebied aangemerkt, indien:
+
+- a. de terreinen en wateren gescheiden worden door:
+
+- 1°. onverharde wegen,
+
+- 2°. verharde wegen niet breder dan vijf meter,
+
+- 3°. waterlopen niet breder dan 25 meter, of
+
+- 4°. niet-geëlektrificeerde enkelsporen; of
+
+- b. de terreinen en wateren gescheiden worden door een weg, dijk, spoorweg of waterloop, voor zover er een landschappelijke of functionele samenhang is tussen de terreinen en deze samenhang herkenbaar aanwezig is, of voor zover er een nauwe historische band bestaat tussen de terreinen.
 
 4. Voor de toepassing van het eerste lid, onderdeel **c**, worden tot de met houtopstanden bezette oppervlakte van de onroerende zaak mede gerekend kapvlakten, waarop een herplantplicht rust ingevolge de [Boswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002357) en welke niet groter zijn dan 15 percent van de oppervlakte van de met houtopstanden bezette terreinen tot ten hoogste 5 hectare, met dien verstande dat een kapvlakte van 0,5 hectare of minder wordt aangemerkt als een met houtopstanden bezet terrein.
 
 ##### Artikel 3
 
-1. In afwijking van [artikel 2, eerste lid, onderdelen **a** en **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0004914&artikel=2&z=1996-07-17&g=1996-07-17), kan een onroerende zaak met een oppervlakte van minder dan 5 hectare als een landgoed worden aangemerkt, indien op die onroerende zaak een buitenplaats is gelegen met een architectonisch daarmee verbonden historische tuin of historisch park van tenminste 1 hectare en voorts op die onroerende zaak een beschermd monument is gelegen dat is ingeschreven in een register als bedoeld in [artikel 6, eerste lid, van de Monumentenwet 1988](https://wetten.overheid.nl/jci1.3:c:BWBR0004471&artikel=6) (**Stb.** 638).
+1. [Artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004914&artikel=2&z=2007-06-01&g=2007-06-01), is niet van toepassing op een buitenplaats of een deel daarvan.
 
-2. In afwijking van het bepaalde in [artikel 2, eerste lid, onderdeel **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0004914&artikel=2&z=1996-07-17&g=1996-07-17), kan een onroerende zaak waarvan de oppervlakte voor tenminste 20 percent met houtopstanden is bezet als landgoed worden aangemerkt, indien de oppervlakte voorts voor tenminste 50 percent bestaat uit natuurterreinen.
+2. [Artikel 2, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0004914&artikel=2&z=2007-06-01&g=2007-06-01), is niet van toepassing op een buitenplaats met een oppervlakte van minder dan vijf hectare of een deel daarvan.
 
-3. In afwijking van [artikel 2, eerste lid, onderdeel **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0004914&artikel=2&z=1996-07-17&g=1996-07-17), en in afwijking van [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004914&artikel=3&z=1996-07-17&g=1996-07-17), kan voorts een onroerende zaak, waarvan nog niet ten minste 30 percent, onderscheidenlijk ten minste 20 percent van de oppervlakte met houtopstanden is bezet, als landgoed worden aangemerkt, indien blijkens een beplantingsplan als bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004914&artikel=7&z=1996-07-17&g=1996-07-17), en blijkens een begin van de feitelijke uitvoering daarvan, het voornemen bestaat om de onroerende zaak in voldoende mate met houtopstanden te bezetten, mits de onroerende zaak naar het oordeel van Onze Ministers van Landbouw, Natuurbeheer en Visserij en van Financiën na afloop van de in [artikel 3**a**, eerste lid, van de Natuurschoonwet 1928](https://wetten.overheid.nl/jci1.3:c:BWBR0001939&artikel=3a) genoemde termijn aan alle voorwaarden voor aanmerking als landgoed zal voldoen.
+3. [Artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004914&artikel=2&z=2007-06-01&g=2007-06-01), is niet van toepassing op een onroerende zaak met een oppervlakte van minder dan vijf hectare doch groter dan één hectare, indien:
+
+- a. de onroerende zaak grenst aan een onroerende zaak die als landgoed is aangemerkt en de oppervlakte van beide onroerende zaken gezamenlijk ten minste vijf hectare bedraagt, of de onroerende zaak met één aangrenzende nog niet als landgoed aangemerkte onroerende zaak, gezamenlijk een oppervlakte van ten minste vijf hectare heeft; en
+
+- b. tussen beide onroerende zaken een nauwe historische band bestaat.
+
+4. [Artikel 2, eerste lid, onderdelen a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0004914&artikel=2&z=2007-06-01&g=2007-06-01), is niet van toepassing op een onroerende zaak met een oppervlakte van ten hoogste één hectare, indien:
+
+- a. op de onroerende zaak een opstal is gelegen die vóór 1 januari 1940 is gebouwd en die na deze datum uiterlijk zijn karakter heeft behouden;
+
+- b. de onroerende zaak grenst aan een onroerende zaak die als landgoed is aangemerkt en de oppervlakte van beide onroerende zaken gezamenlijk ten minste vijf hectare bedraagt; en
+
+- c. een nauwe historische band bestaat tussen de opstal, bedoeld in onderdeel a, en de onroerende zaak die als landgoed is aangemerkt, bedoeld in onderdeel b.
+
+5. Opstallen, gelegen op onroerende zaken met een oppervlakte van minder dan vijf hectare die met toepassing van het derde of vierde lid als landgoed kunnen worden aangemerkt, maken slechts deel uit van het landgoed voor zover het betreft:
+
+- a. beschermde monumenten die zijn ingeschreven in een register als bedoeld in [artikel 6, eerste lid, van de Monumentenwet 1988](https://wetten.overheid.nl/jci1.3:c:BWBR0004471&artikel=6);
+
+- b. opstallen voor het technisch beheer van het landgoed, ongeschikt voor verblijf, met een oppervlakte van ten hoogste 20 m2 en een nokhoogte van ten hoogste 3 meter; of,
+
+- c. opstallen die vóór 1 januari 1940 zijn gebouwd en die na deze datum uiterlijk hun karakter hebben behouden, voor zover een nauwe historische band bestaat tussen de opstal en het landgoed.
+
+6. In afwijking van [artikel 2, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0004914&artikel=2&z=2007-06-01&g=2007-06-01), kan een onroerende zaak, die nog niet voor ten minste 30 percent van de oppervlakte bestaat uit houtopstanden of natuurterreinen, als landgoed worden aangemerkt, indien, blijkens een beplantingsplan en blijkens het begin van de feitelijke uitvoering daarvan, het voornemen bestaat om de onroerende zaak in voldoende mate met houtopstanden te bezetten, mits de onroerende zaak naar het oordeel van Onze Ministers na afloop van de in [artikel 3a, eerste lid, van de Natuurschoonwet 1928](https://wetten.overheid.nl/jci1.3:c:BWBR0001939&artikel=3a) genoemde termijn aan alle voorwaarden voor aanmerking als landgoed zal voldoen.
+
+7. Het in het vierde lid, onderdeel a, het vijfde lid, onderdeel c, en [artikel 5, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0004914&artikel=5&z=2007-06-01&g=2007-06-01), genoemde jaartal wordt telkens na het verstrijken van een periode van tien jaren na inwerkingtreding van dit lid met tien jaren verhoogd.
 
 ##### Artikel 4
 
-Als inbreuk makend op het natuurschoon, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004914&artikel=2&z=1996-07-17&g=1996-07-17), wordt in ieder geval beschouwd de omstandigheid dat terreinen die op de onroerende zaak zijn gelegen, zijn ingericht of worden gebruikt:
+Als inbreuk makend op het natuurschoon, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004914&artikel=2&z=2007-06-01&g=2007-06-01), wordt in ieder geval beschouwd de omstandigheid dat terreinen die tot de onroerende zaak behoren, zijn ingericht of worden gebruikt:
 
 - a. voor industriële doeleinden;
 
-- b. voor mijnbouw;
+- b. voor intensieve veehouderij;
 
-- c. voor glastuinbouw;
+- c. voor winning van bodemmaterialen of mijnbouw;
 
-- d. als stortplaats voor afval;
+- d. voor glastuinbouw;
 
-- e. als opslagplaats voor andere materialen dan die afkomstig uit of bestemd voor de land- en bosbouw op de onroerende zaak;
+- e. als stortplaats voor afval;
 
-- f. voor auto- of motorsport;
+- f. als opslagplaats voor andere materialen dan die afkomstig uit of bestemd voor de land- en bosbouw op de onroerende zaak;
 
-- g. voor intensieve dag- of verblijfsrecreatie anders dan terreinen die zijn ingericht met inachtneming van het bepaalde in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004914&artikel=6&z=1996-07-17&g=1996-07-17).
+- g. voor auto- of motorsport;
+
+- h. voor intensieve dag- of verblijfsrecreatie anders dan terreinen die zijn ingericht met inachtneming van het bepaalde in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004914&artikel=6&z=2007-06-01&g=2007-06-01).
 
 ##### Artikel 5
 
-Onverminderd het bepaalde in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004914&artikel=4&z=1996-07-17&g=1996-07-17) wordt als inbreuk makend op het natuurschoon, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004914&artikel=2&z=1996-07-17&g=1996-07-17), in ieder geval niet beschouwd de omstandigheid dat op de onroerende zaak:
+1. Onverminderd het bepaalde in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004914&artikel=4&z=2007-06-01&g=2007-06-01) wordt als inbreuk makend op het natuurschoon, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004914&artikel=2&z=2007-06-01&g=2007-06-01), in ieder geval niet beschouwd de omstandigheid dat op de onroerende zaak:
 
 - a. parken of tuinen zijn gelegen, die behoren bij een buitenplaats;
 
-- b. landschappelijk aangelegde parken of landschapsstructuren die vanouds behoren bij een buitenplaats zijn gelegen, waarvan de eerste aanleg dateert van vóór 1850, welke nog herkenbaar aanwezig is, en voorts op die onroerende zaak een beschermd monument dat is ingeschreven in een register als bedoeld in [artikel 6, eerste lid, van de Monumentenwet 1988](https://wetten.overheid.nl/jci1.3:c:BWBR0004471&artikel=6) is gelegen;
+- b. landschappelijk aangelegde parken of landschapsstructuren die vanouds behoren bij een buitenplaats zijn gelegen, waarvan de aanleg dateert van vóór 1850 en herkenbaar aanwezig is, en voorts op die onroerende zaak een beschermd monument dat is ingeschreven in een register als bedoeld in [artikel 6, eerste lid, van de Monumentenwet 1988](https://wetten.overheid.nl/jci1.3:c:BWBR0004471&artikel=6) is gelegen;
 
 - c. terreinen zijn gelegen, die vanouds het vrije uitzicht mogelijk maken op of vanuit een op die onroerende zaak gelegen opstal daterend van vóór 1850, voor zover die terreinen aan weerszijden worden begrensd door houtopstanden;
 
@@ -120,21 +172,23 @@ Onverminderd het bepaalde in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWB
 
 - g. terreinen zijn gelegen, die worden gebruikt voor de landbouw voor zover elk van die terreinen:
 
-- 1°. een oppervlakte van 5 hectare niet te boven gaat, of, zo dit meer is, die oppervlakte niet meer bedraagt dan 5 percent van de oppervlakte van de onroerende zaak tot een maximale oppervlakte van 20 hectare, en de omtrek van dat terrein voor tenminste 75 percent is omgeven door houtopstanden, dan wel de omtrek van dat terrein voor tenminste 50 percent is omgeven door een nagenoeg aaneengesloten houtopstand en voorts visueel van de aangrenzende terreinen is gescheiden door een of meer bomen die bepalend zijn voor het landschap;
+- 1°. een oppervlakte van 5 hectare niet te boven gaat, of, zo dit meer is, die oppervlakte niet meer bedraagt dan 5 percent van de oppervlakte van de onroerende zaak tot een maximale oppervlakte van 20 hectare, en de omtrek van dat terrein voor ten minste 75 percent is omgeven door houtopstanden, dan wel de omtrek van dat terrein voor ten minste 50 percent is omgeven door een nagenoeg aaneengesloten houtopstand en voorts visueel van de aangrenzende terreinen is gescheiden door een of meer bomen die bepalend zijn voor het landschap;
 
 - 2°. tezamen met een of meer aangrenzende, niet door houtopstanden gescheiden, voor de landbouw gebruikte terreinen een oppervlakte van 20 hectare niet te boven gaat en de gezamenlijke omtrek van die terreinen voor 100 percent is omgeven door houtopstanden;
 
 - h. parkeerterreinen van beperkte omvang zijn gelegen, voor zover deze zijn bestemd voor gebruik door de eigenaar, door de gebruiker of door de bezoekers van de onroerende zaak.
 
+2. Onder in het eerste lid, onderdeel g, bedoelde houtopstanden worden mede begrepen houtopstanden die niet zijn gelegen op de onroerende zaak zelf maar daaraan direct grenzen.
+
 ##### Artikel 6
 
-1. als inbreuk makend op het natuurschoon, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004914&artikel=2&z=1996-07-17&g=1996-07-17), wordt niet beschouwd de omstandigheid dat op de onroerende zaak een of meer kampeerterreinen zijn gelegen, mits:
+1. Als inbreuk makend op het natuurschoon, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004914&artikel=2&z=2007-06-01&g=2007-06-01), wordt niet beschouwd de omstandigheid dat op de onroerende zaak een of meer kampeerterreinen zijn gelegen, mits:
 
-- a. op een onroerende zaak met een oppervlakte van tenminste 25 hectare niet meer dan één kampeerterrein is gelegen;
+- a. op een onroerende zaak met een oppervlakte van ten minste 25 hectare niet meer dan één kampeerterrein is gelegen;
 
-- b. op een onroerende zaak met een oppervlakte van tenminste 100 hectare niet meer dan twee kampeerterreinen zijn gelegen;
+- b. op een onroerende zaak met een oppervlakte van ten minste 100 hectare niet meer dan twee kampeerterreinen zijn gelegen;
 
-- c. op een onroerende zaak met een oppervlakte van tenminste 250 hectare niet meer dan drie kampeerterreinen zijn gelegen.
+- c. op een onroerende zaak met een oppervlakte van ten minste 250 hectare niet meer dan drie kampeerterreinen zijn gelegen.
 
 2. Voor de toepassing van het eerste lid wordt onder kampeerterrein verstaan een terrein dat is ingericht of kennelijk duurzaam wordt gebruikt voor het kamperen en:
 
@@ -150,36 +204,64 @@ Onverminderd het bepaalde in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWB
 
 ##### Artikel 7
 
-1. Bij een verzoek aan Onze Ministers van Landbouw, Natuurbeheer en Visserij en van Financiën om een onroerende zaak aan te merken als een landgoed moeten worden overgelegd:
+1. Een verzoek aan Onze Ministers om een onroerende zaak aan te merken als een landgoed wordt ingediend met gebruikmaking van een daartoe bestemd formulier en bevat ten minste:
 
-- a. uittreksels uit de kadastrale legger en uit de kadastrale plans die op de onroerende zaak betrekking hebben;
+- a. een overzicht van de als landgoed aan te merken kadastrale percelen, waarbij per perceel de (geschatte) oppervlakte wordt vermeld;
 
-- b. een beschrijving, overeenkomstig een door die ministers vast te stellen model, van:
+- b. een beschrijving van:
 
-- 1°. de vanuit een oogpunt van natuurschoon kenmerkende structuren en elementen van de onroerende zaak;
+- 1°. de vanuit het oogpunt van natuurschoon kenmerkende structuren en elementen van de onroerende zaak;
 
-- 2°. de hoedanigheid van de terreinen, de opstallen en het soort gebruik dat van die terreinen en van die opstallen wordt gemaakt;
+- 2°. de hoedanigheid van de terreinen, de opstallen en het soort gebruik dat van die terreinen en van die opstallen wordt gemaakt; en
 
-- c. een beschrijving van de historische ontwikkeling van de onroerende zaak;
+- 3°. de historische ontwikkeling van de onroerende zaak.
 
-- d. een topografische kaart (schaal 1 : 10.000) van de onroerende zaak, waarop de in onderdeel **b**, onder 1°, bedoelde structuren en elementen zijn aangegeven.
+2. Bij het verzoek worden in ieder geval overgelegd:
 
-2. Bij een verzoek om een onroerende zaak als landgoed aan te merken met toepassing van [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004914&artikel=3&z=1996-07-17&g=1996-07-17), dient tevens te worden overgelegd:
+- a. actuele uittreksels uit de kadastrale registratie en uit de kadastrale kaarten die op de onroerende zaak betrekking hebben;
 
-- a. een beplantingsplan, waarvan het model door Onze Ministers van Landbouw, Natuurbeheer en Visserij en van Financiën wordt vastgesteld en
+- b. kleurenfoto’s van de opstallen;
 
-- b. een duidelijke kaart of plattegrond, waarop de tot de onroerende zaak behorende percelen die geheel of gedeeltelijk met houtopstanden bezet zullen worden zijn aangegeven, onder vermelding van de kadastrale perceelsnummers.
+- c. een topografische kaart van de onroerende zaak, waarop de in het eerste lid, onderdeel b, onder 1° en 2°, bedoelde gegevens zijn aangegeven;
 
-3. Indien met betrekking tot een onroerende zaak regelen inzake openstelling voor het publiek ter goedkeuring aan Onze Ministers van Landbouw, Natuurbeheer en Visserij en van Financiën worden voorgelegd, dienen op een afzonderlijke topografische kaart (schaal 1 : 10.000) de wegen en paden die voor het publiek toegankelijk zijn, te worden aangegeven.
+- d. voor zover het betreft een aanvraag ten aanzien van een onroerende zaak als bedoeld in [artikel 3, eerste, tweede of vijfde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004914&artikel=3&z=2007-06-01&g=2007-06-01), een afschrift van de beschikking waarbij de onroerende zaak is aangewezen als beschermd monument.
+
+- e. in geval een verzoek wordt gedaan om de onroerende zaak aan te merken als een landgoed met toepassing van [artikel 3, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004914&artikel=3&z=2007-06-01&g=2007-06-01), bewijsstukken waaruit de nauwe historische band als bedoeld in deze artikelleden en, indien van toepassing, [artikel 3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004914&artikel=3&z=2007-06-01&g=2007-06-01), blijkt;
+
+3. In geval tot de onroerende zaak landbouwgrond als bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004914&artikel=1&z=2007-06-01&g=2007-06-01), behoort, worden tevens bewijsstukken overgelegd waaruit blijkt dat voldaan is aan de voorwaarden, genoemd in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004914&artikel=1&z=2007-06-01&g=2007-06-01)
+
+4. Een verzoek om een onroerende zaak als landgoed aan te merken met toepassing van [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004914&artikel=3&z=2007-06-01&g=2007-06-01), wordt ingediend tezamen met het verzoek van de eigenaar van de in dat lid bedoelde nog niet als landgoed aangemerkte aangrenzende onroerende zaak om die zaak als landgoed aan te merken. Bij de verzoeken wordt tevens een gezamenlijke verklaring van de eigenaren van de onroerende zaken gevoegd, waarin zij om toepassing van [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004914&artikel=3&z=2007-06-01&g=2007-06-01), verzoeken. Indien beide onroerende zaken ieder een oppervlakte van minder dan 5 hectare hebben en één van de gezamenlijk ingediende verzoeken wordt afgewezen, wordt ook het andere verzoek afgewezen.
+
+5. Bij een verzoek om een onroerende zaak als landgoed aan te merken met toepassing van [artikel 3, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004914&artikel=3&z=2007-06-01&g=2007-06-01), worden tevens overgelegd:
+
+- a. een beplantingsplan, waarvan het model door Onze Ministers wordt vastgesteld; en
+
+- b. een duidelijke kaart of plattegrond, waarop de tot de onroerende zaak behorende percelen die geheel of gedeeltelijk met houtopstanden bezet zullen worden, zijn aangegeven, onder vermelding van de kadastrale nummers.
+
+6. Indien met betrekking tot een onroerende zaak regelen als bedoeld [artikel 7, eerste lid, van de Natuurschoonwet 1928](https://wetten.overheid.nl/jci1.3:c:BWBR0001939&artikel=7) inzake openstelling voor het publiek ter goedkeuring aan Onze Ministers worden voorgelegd, worden bij het verzoek tot goedkeuring op een afzonderlijke topografische kaart de wegen en paden die voor het publiek toegankelijk zijn, alsmede de plaatsaanduiding van de toegangsborden, aangegeven.
+
+7. De topografische kaart, bedoeld in het tweede lid, onderdeel c, onderscheidenlijk het zesde lid, heeft een schaal van 1 : 10.000, met dien verstande dat voor een onroerende zaak kleiner dan vijf hectare de schaal 1 : 2500 bedraagt.
+
+8. Bij regeling van Onze Ministers kan worden afgeweken van het eerste en tweede lid ten aanzien van bij die regeling aangewezen categorieën van verzoeken.
 
 ##### Artikel 8
 
-Vervallen
+De voorwaarden, bedoeld in [artikel 220d, eerste lid, onderdeel d, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=220d), zijn:
+
+- a. ten minste 30 percent van de oppervlakte van het landgoed is bezet met houtopstanden; of
+
+- b. de oppervlakte van het landgoed is voor ten minste 20 percent met houtopstanden bezet waarbij de oppervlakte voorts voor ten minste 50 percent bestaat uit natuurterreinen.
 
 ##### Artikel 9
 
 1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin het wordt geplaatst.
 
 2. Dit besluit kan worden aangehaald als: Rangschikkingsbesluit Natuurschoonwet 1928.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
+
+##### Artikel 3a
+
+De hoofdgerechtigde van een onroerende zaak die de onroerende zaak heeft bezwaard met het beperkt recht van erfpacht zonder de economische eigendom over te dragen wordt aangemerkt als de eigenaar van die onroerende zaak, indien die onroerende zaak een oppervlakte heeft van minder dan vijf hectaren.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
