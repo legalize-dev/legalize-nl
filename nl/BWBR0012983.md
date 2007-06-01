@@ -4,7 +4,7 @@ identifier: "BWBR0012983"
 country: "nl"
 rank: "wet"
 publication_date: "2024-07-01"
-last_updated: "2002-09-01"
+last_updated: "2007-06-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012983"
 soort: "wet"
@@ -80,7 +80,11 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 2. Het geven van de inlichtingen en het vragen van de toestemming geschiedt door de zorg van de behandelend arts en niet voordat vaststaat dat het foetaal weefsel ter beschikking zal komen. De behandelend arts, die niet bij de uitvoering van het beoogde gebruik van het foetaal weefsel mag zijn betrokken, draagt er tevens zorg voor dat de inlichtingen worden verstrekt op een wijze die waarborgt dat de vrouw in vrijheid kan beslissen.
 
-3. De inlichtingen worden op een zodanige wijze verstrekt dat redelijkerwijs zeker is dat degenen wier toestemming is vereist, deze naar haar inhoud hebben begrepen. In het geval, bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012983&artikel=3&z=2002-09-01&g=2002-09-01), wordt de vrouw ingelicht op een wijze die past bij haar bevattingsvermogen.
+3. De inlichtingen worden op een zodanige wijze verstrekt dat redelijkerwijs zeker is dat degenen wier toestemming is vereist, deze naar haar inhoud hebben begrepen. In het geval, bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012983&artikel=3&z=2007-06-01&g=2007-06-01), wordt de vrouw ingelicht op een wijze die past bij haar bevattingsvermogen.
+
+4. De inlichtingen omvatten in ieder geval de informatie, bedoeld in de bijlage bij richtlijn 2004/23/EG van het Europees Parlement en de Raad van 31 maart 2004 tot vaststelling van kwaliteits- en veiligheidsnormen voor het doneren, verkrijgen, testen, bewerken, bewaren en distribueren van menselijke weefsels en cellen (PbEU L 102).
+
+5. Een wijziging van de in het vierde lid genoemde richtlijn gaat voor de toepassing van dit artikel gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
 
 ##### Artikel 5
 
@@ -88,7 +92,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 2. De vrouw, dan wel degene die in haar plaats toestemming heeft gegeven, kan de toestemming te allen tijde, zonder opgaaf van redenen, intrekken met dien verstande dat de intrekking geen gevolgen heeft voor zover het foetaal weefsel reeds is gebruikt. Het eerste lid is van overeenkomstige toepassing.
 
-3. Is de toestemming geweigerd, dan wordt het desbetreffende foetaal weefsel niet langer bewaard. Hetzelfde geldt indien de toestemming wordt ingetrokken, bezwaar is gemaakt of een verzoek is gedaan als bedoeld in de tweede volzin van [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012983&artikel=3&z=2002-09-01&g=2002-09-01), tenzij het foetaal weefsel niet meer kan worden herleid tot degene die het ter beschikking heeft gesteld.
+3. Is de toestemming geweigerd, dan wordt het desbetreffende foetaal weefsel niet langer bewaard. Hetzelfde geldt indien de toestemming wordt ingetrokken, bezwaar is gemaakt of een verzoek is gedaan als bedoeld in de tweede volzin van [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012983&artikel=3&z=2007-06-01&g=2007-06-01), tenzij het foetaal weefsel niet meer kan worden herleid tot degene die het ter beschikking heeft gesteld.
 
 ##### Artikel 6
 
@@ -106,7 +110,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 7
 
-1. Foetaal weefsel wordt, tenzij dat in verband met de aard van het voorgenomen gebruik noodzakelijk is, niet zodanig bewaard dat het herleid kan worden tot de vrouw of haar echtgenoot, geregistreerde partner of andere levensgezel. Indien de echtgenoot, geregistreerde partner of andere levensgezel niet in de gelegenheid is gesteld gebruik te maken van de in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012983&artikel=3&z=2002-09-01&g=2002-09-01), bedoelde bevoegdheid, wordt het foetaal weefsel zodanig bewaard dat het niet tot de vrouw of haar echtgenoot, geregistreerde partner of andere levensgezel herleidbaar is. Blijkt dat degene van wie de zaadcellen afkomstig zijn, een ander is dan de echtgenoot, geregistreerde partner of andere levensgezel van de vrouw, dan wordt het foetaal weefsel op zijn verzoek zodanig bewaard dat het niet tot hem herleidbaar is.
+1. Foetaal weefsel wordt, tenzij dat in verband met de aard van het voorgenomen gebruik noodzakelijk is, niet zodanig bewaard dat het herleid kan worden tot de vrouw of haar echtgenoot, geregistreerde partner of andere levensgezel. Indien de echtgenoot, geregistreerde partner of andere levensgezel niet in de gelegenheid is gesteld gebruik te maken van de in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012983&artikel=3&z=2007-06-01&g=2007-06-01), bedoelde bevoegdheid, wordt het foetaal weefsel zodanig bewaard dat het niet tot de vrouw of haar echtgenoot, geregistreerde partner of andere levensgezel herleidbaar is. Blijkt dat degene van wie de zaadcellen afkomstig zijn, een ander is dan de echtgenoot, geregistreerde partner of andere levensgezel van de vrouw, dan wordt het foetaal weefsel op zijn verzoek zodanig bewaard dat het niet tot hem herleidbaar is.
 
 2. Een instelling of persoon die in de uitoefening van een geneeskundig beroep of bedrijf foetaal weefsel voorhanden heeft, stelt een reglement vast betreffende de wijze waarop en de termijn gedurende welke foetaal weefsel wordt bewaard.
 
@@ -134,9 +138,9 @@ Het is verboden met het oog op het voorgenomen gebruik van foetaal weefsel besta
 
 ##### Artikel 13
 
-1. Met gevangenisstraf van ten hoogste een jaar of geldboete van de vierde categorie wordt gestraft degene die opzettelijk in strijd handelt met het bepaalde bij of krachtens de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012983&artikel=2&z=2002-09-01&g=2002-09-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0012983&artikel=3&z=2002-09-01&g=2002-09-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0012983&artikel=4&z=2002-09-01&g=2002-09-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0012983&artikel=6&z=2002-09-01&g=2002-09-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0012983&artikel=9&z=2002-09-01&g=2002-09-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0012983&artikel=10&z=2002-09-01&g=2002-09-01) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0012983&artikel=12&z=2002-09-01&g=2002-09-01).
+1. Met gevangenisstraf van ten hoogste een jaar of geldboete van de vierde categorie wordt gestraft degene die opzettelijk in strijd handelt met het bepaalde bij of krachtens de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012983&artikel=2&z=2007-06-01&g=2007-06-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0012983&artikel=3&z=2007-06-01&g=2007-06-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0012983&artikel=4&z=2007-06-01&g=2007-06-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0012983&artikel=6&z=2007-06-01&g=2007-06-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0012983&artikel=9&z=2007-06-01&g=2007-06-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0012983&artikel=10&z=2007-06-01&g=2007-06-01) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0012983&artikel=12&z=2007-06-01&g=2007-06-01).
 
-2. Met hechtenis van ten hoogste zes maanden of geldboete van de vierde categorie wordt gestraft degene die handelt in strijd met het bepaalde bij of krachtens de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012983&artikel=5&z=2002-09-01&g=2002-09-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0012983&artikel=6&z=2002-09-01&g=2002-09-01) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0012983&artikel=11&z=2002-09-01&g=2002-09-01).
+2. Met hechtenis van ten hoogste zes maanden of geldboete van de vierde categorie wordt gestraft degene die handelt in strijd met het bepaalde bij of krachtens de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012983&artikel=5&z=2007-06-01&g=2007-06-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0012983&artikel=6&z=2007-06-01&g=2007-06-01) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0012983&artikel=11&z=2007-06-01&g=2007-06-01).
 
 3. De in het eerste lid strafbaar gestelde feiten zijn misdrijven; de in het tweede lid strafbaar gestelde feiten zijn overtredingen.
 
