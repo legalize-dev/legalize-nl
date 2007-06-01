@@ -143,9 +143,3 @@ Deze regeling treedt in werking met ingang van 1 juni 2007.
 Deze regeling wordt aangehaald als: Warenwetregeling tatoeëren en piercen.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 4a
-
-In de vergunning worden de materialen vermeld, waarvoor de vergunning wordt verleend.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
