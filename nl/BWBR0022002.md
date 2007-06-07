@@ -4,7 +4,7 @@ identifier: "BWBR0022002"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2007-06-07"
-last_updated: "2007-03-01"
+last_updated: "2007-06-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022002"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ In dit besluit wordt verstaan onder:
 
 - b. evaluatie: evaluatie van de [Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007) en de [Concessiewet personenvervoer per trein](https://wetten.overheid.nl/jci1.3:c:BWBR0015008);
 
-- c. commissie: de commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022002&artikel=2&z=2007-06-07&g=2007-03-01).
+- c. commissie: de commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022002&artikel=2&z=2007-06-07&g=2007-06-07).
 
 ##### Artikel 2
 
