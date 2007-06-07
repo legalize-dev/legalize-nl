@@ -1,0 +1,52 @@
+---
+title: "Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Gezondheid en Welzijn van Dieren vanaf 1945 (Minister van Sociale Zaken en Werkgelegenheid)"
+identifier: "BWBR0022015"
+country: "nl"
+rank: "archiefselectielijst"
+publication_date: "2007-06-07"
+last_updated: "2007-06-07"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0022015"
+soort: "ministeriele-regeling-archiefselectielijst"
+stam_id: "9106833"
+version_id: "14545982"
+internal_id: "C25327051"
+label_id: "9085694"
+dtd_version: "2.0"
+original_entry_into_force: "2007-06-07"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0022015/2007-06-07/0"
+intitule_bron: "Stcrt.2007-105"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2007-05-08"
+intitule_published: "2007-06-05"
+intitule_in_force: "2007-06-05"
+intitule_status: "goed"
+original_publication: "Stcrt.2007-105"
+original_signed_date: "2007-05-08"
+original_published_date: "2007-06-05"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2007-105-p9-SC80631"
+entry_into_force_date: "2007-06-07"
+jci_1_3: "jci1.3:c:BWBR0022015&z=2007-06-07&g=2007-06-07"
+jci_1_0: "1.0:c:BWBR0022015&g=2007-06-07"
+citeertitel_status: "redactioneel"
+signed_date: "2007-05-08"
+entry_into_force: "2007-06-07"
+---
+# Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Gezondheid en Welzijn van Dieren vanaf 1945 (Minister van Sociale Zaken en Werkgelegenheid)
+
+Gelet op [artikel 5, tweede lid, onder b, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=5);
+
+De Raad voor Cultuur gehoord (advies van de Raad voor Cultuur van 23 april 2007, arc-2007.03707/6);
+
+Besluiten:
+
+##### Artikel 1
+
+De bij dit besluit gevoegde ‘[selectielijst voor de neerslag van de handelingen van de Minister van Sociale Zaken en Werkgelegenheid en de onder hem ressorterende actoren op het beleidsterrein Gezondheid en Welzijn van Dieren over de periode vanaf 1945](onbekend)’ en de daarbij behorende toelichting worden vastgesteld.
+
+##### Artikel 2
+
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
+
+De Minister van Onderwijs, Cultuur en Wetenschap is belast met de uitvoering van dit besluit dat met de daarbij behorende [selectielijst](onbekend) en toelichting in de Staatscourant zal worden geplaatst.
