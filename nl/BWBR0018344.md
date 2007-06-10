@@ -4,7 +4,7 @@ identifier: "BWBR0018344"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2007-06-10"
-last_updated: "2005-03-23"
+last_updated: "2007-06-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018344"
 soort: "ministeriele-regeling"
@@ -40,7 +40,7 @@ Besluiten:
 
 ##### Artikel 1
 
-1. Van [artikel 2.5:4, vierde lid, van het Arbeidstijdenbesluit vervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&artikel=2.5:4) zijn vrijgesteld:
+1. Van [artikel 2.5:4, tweede lid, van het Arbeidstijdenbesluit vervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&artikel=2.5:4) zijn vrijgesteld:
 
 - a. het vervoer van levende dieren;
 
@@ -51,8 +51,6 @@ Besluiten:
 - d. collectief binnenlands vervoer van bloembollen, bloemen, planten en boomkwekerijproducten.
 
 2. Het eerste lid is uitsluitend van toepassing voorzover daarover in collectief overleg overeenstemming is bereikt.
-
-3. Voor vervoer waarop [verordening (EEG) nr. 3820/85](31985R3820) van toepassing is, bedraagt de arbeidstijd in geval van arbeid tussen 00.00 en 04.00 uur niet meer dan 10 uren in elke periode van 24 uren.
 
 ##### Artikel 2
 
