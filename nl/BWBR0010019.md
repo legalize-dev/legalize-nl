@@ -4,7 +4,7 @@ identifier: "BWBR0010019"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2007-06-10"
-last_updated: "2006-07-09"
+last_updated: "2007-06-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010019"
 soort: "ministeriele-regeling"
@@ -40,23 +40,23 @@ Besluiten:
 
 ##### Artikel 1
 
-1. De werkgever zendt een door hem ondertekend dienstrooster, betrekking hebbende op alle werknemers, voorzover betrokken bij het vervoer, bedoeld in [artikel 2.4:3, eerste lid, van het Arbeidstijdenbesluit vervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&artikel=2.4:3), ten minste veertien dagen voor de dag waarop het in werking treedt aan de Inspectie Verkeer en Waterstaat.
-
-2. Het eerste lid is van overeenkomstige toepassing in geval van tussentijdse vervanging of wijziging van het dienst-rooster.
+Vervallen
 
 ##### Artikel 2
 
-De werkgever zorgt ervoor dat in elke stalling waarbij de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010019&artikel=1&z=2006-07-09&g=2006-07-09) bedoelde werknemers zijn ingedeeld een afschrift van het dienstrooster dan wel van de vervanging of de wijziging daarvan, vanaf de dag vóór de inwerkingtreding en gedurende de gehele periode van geldigheid, is opgehangen op een zodanige wijze dat daarvan door hen gemakkelijk kennis kan worden genomen.
+De werkgever zorgt ervoor dat in elke stalling waarbij de werknemers, voorzover betrokken bij het vervoer, bedoeld in [artikel 2.4:3, eerste lid, van het Arbeidstijdenbesluit vervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&artikel=2.4:3) zijn ingedeeld een afschrift van het dienstrooster dan wel van de vervanging of de wijziging daarvan, vanaf de dag vóór de inwerkingtreding en gedurende de gehele periode van geldigheid, is opgehangen op een zodanige wijze dat daarvan door hen gemakkelijk kennis kan worden genomen.
 
 ##### Artikel 3
 
-Indien enige taak van een werknemer als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010019&artikel=1&z=2006-07-09&g=2006-07-09) niet uit het dienstrooster blijkt, zorgt de werkgever ervoor dat tijdig voor de aanvang van die taak naast het dienstrooster een gewaarmerkte mededeling wordt opgehangen waarin de taak en de naam van de betrokken werknemer vermeld staan.
+Indien enige taak van een werknemer als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010019&artikel=2&z=2007-06-10&g=2007-06-10) niet uit het dienstrooster blijkt, zorgt de werkgever ervoor dat tijdig voor de aanvang van die taak naast het dienstrooster een gewaarmerkte mededeling wordt opgehangen waarin de taak en de naam van de betrokken werknemer vermeld staan.
 
 ##### Artikel 4
 
-1. De werkgever leeft de voorschriften na, gegeven in artikel 14, tweede, derde, vierde en zesde lid van [verordening (EEG) nr. 3820/85](31985R3820).
+1. De werkgever leeft de voorschriften na, gegeven in artikel 16, tweede en derde lid, van verordening (EG) nr. 561/2006 met dien verstande dat het dienstrooster naast de gegevens, bedoeld in artikel 16, derde lid, onder a, van die verordening, ook de gegevens van de lopende dag bevat.
 
-2. De werkgever zorgt ervoor dat de werknemer het voorschrift naleeft, gegeven in artikel 14, vijfde lid van [verordening (EEG) nr. 3820/85](31985R3820).
+2. De werkgever zorgt ervoor dat de werknemer het voorschrift naleeft, gegeven in artikel 16, tweede lid, tweede volzin, van verordening (EG) nr. 561/2006.
+
+3. In geval van afwijkingen van de verschillende rijperioden, andere werkzaamheden, onderbrekingen en beschikbaarheid, zorgt de werkgever ervoor dat de bestuurder deze op het dienstrooster aantekent aan het begin en aan het einde van iedere lijn, iedere pauze en bij wisseling van de bestuurder.
 
 ##### Artikel 5
 
