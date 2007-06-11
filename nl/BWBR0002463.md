@@ -4,7 +4,7 @@ identifier: "BWBR0002463"
 country: "nl"
 rank: "amvb"
 publication_date: "2023-12-23"
-last_updated: "2002-01-01"
+last_updated: "2007-06-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002463"
 soort: "AMvB"
@@ -54,17 +54,21 @@ Voor de toepassing van dit besluit wordt verstaan onder:
 
 ##### Artikel 2
 
-1. De som, waarvoor de verzekering van aansprakelijkheid, bedoeld in [artikel 3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&artikel=3), voor een motorrijtuig ten minste moet zijn gesloten bedraagt € 907 560 per gebeurtenis.
+1. De som waarvoor de verzekering van aansprakelijkheid, bedoeld in [artikel 3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&artikel=3), voor een motorrijtuig ten minste moet zijn gesloten, bedraagt:
 
-2. In afwijking van het bepaalde in het eerste lid moet voor een motorrijtuig, dat is ingericht tot het vervoer van meer dan acht personen, de bestuurder daaronder niet begrepen, de verzekerde som per gebeurtenis ten minste evenzovele malen € 136 134 bedragen als het aantal personen bedraagt, tot welker vervoer het motorrijtuig is ingericht, de bestuurder daaronder niet begrepen, tot ten hoogste € 2 722 681 voor één gebeurtenis.
+- a. voor schade aan personen € 5.000.000 per gebeurtenis;
+
+- b. voor schade aan zaken € 1.000.000 per gebeurtenis.
+
+2. In afwijking van het eerste lid, aanhef en onder a, bedraagt voor een motorrijtuig dat is ingericht tot het vervoer van meer dan acht personen, de bestuurder daaronder niet begrepen, de verzekerde som ten minste € 10.000.000 per gebeurtenis.
 
 ##### Artikel 2a
 
-De som, waarvoor de verzekering van aansprakelijkheid, bedoeld in [artikel 3a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&artikel=3a), voor een motorrijtuig ten minste moet zijn gesloten, bedraagt € 6 806 703 per gebeurtenis.
+De som, waarvoor de verzekering van aansprakelijkheid, bedoeld in [artikel 3a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&artikel=3a), voor een motorrijtuig ten minste moet zijn gesloten, bedraagt € 10.000.000 per gebeurtenis.
 
 ##### Artikel 3
 
-Bovendien moet voor een motorrijtuig, dat wordt gebezigd voor vervoer krachtens een geldige vergunning als bedoeld in [artikel 4 van de Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=4), de verzekerde som voor schade, toegebracht aan goederen, welke toebehoren aan de met dat motorrijtuig krachtens die vergunning vervoerde personen, ten minste € 13 600 per gebeurtenis bedragen.
+Bovendien moet voor een motorrijtuig, dat wordt gebezigd voor vervoer krachtens een geldige vergunning als bedoeld in [artikel 4 van de Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=4), de verzekerde som voor schade aan zaken, welke toebehoren aan de met dat motorrijtuig krachtens die vergunning vervoerde personen, ten minste € 40.000 per gebeurtenis bedragen.
 
 ##### Artikel 4
 
