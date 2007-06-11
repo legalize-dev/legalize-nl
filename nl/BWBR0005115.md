@@ -4,7 +4,7 @@ identifier: "BWBR0005115"
 country: "nl"
 rank: "amvb"
 publication_date: "2007-06-11"
-last_updated: "2002-01-01"
+last_updated: "2007-06-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005115"
 soort: "AMvB"
@@ -44,7 +44,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-Het bedrag bedoeld in [artikel 26, vierde lid, van de Wet aansprakelijkheidsverzekering Motorrijtuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&artikel=26) (**Stb.** 1984, 269) wordt vastgesteld op € 136.
+Het bedrag bedoeld in [artikel 26, vierde lid, van de Wet aansprakelijkheidsverzekering Motorrijtuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&artikel=26) (Stb. 1984, 269) wordt vastgesteld op € 250.
 
 ##### Artikel 2
 
