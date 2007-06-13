@@ -4,7 +4,7 @@ identifier: "BWBR0018259"
 country: "nl"
 rank: "wet"
 publication_date: "2023-09-01"
-last_updated: "2005-12-30"
+last_updated: "2007-06-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018259"
 soort: "wet"
@@ -65,7 +65,7 @@ In deze wet wordt verstaan onder:
 
 - f. voltijdse, duale of deeltijdse opleiding: een opleiding die onderscheidenlijk voltijds, duaal of deeltijds is ingericht;
 
-- g. experimenteel programma: een programma binnen een bacheloropleiding als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0018259&paragraaf=1&artikel=5&z=2005-12-30&g=2005-12-30);
+- g. experimenteel programma: een programma binnen een bacheloropleiding als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0018259&paragraaf=1&artikel=5&z=2007-06-13&g=2007-06-13);
 
 - h. studiejaar: het tijdvak dat aanvangt op 1 september en eindigt op 31 augustus van het daaropvolgende jaar;
 
@@ -81,7 +81,7 @@ Met het oog op het verkrijgen van een duidelijker inzicht in de effecten van sel
 
 ##### Artikel 4. Werkingsduur en reikwijdte van de wet
 
-1. Deze wet heeft betrekking op de studiejaren 2005–2006 en 2006–2007.
+1. Deze wet heeft betrekking op het studiejaar 2005–2006 en de volgende studiejaren.
 
 2. Deze wet heeft geen betrekking op:
 
@@ -131,11 +131,11 @@ Met het oog op het verkrijgen van een duidelijker inzicht in de effecten van sel
 
 1. Onze Minister kan op aanvraag van het instellingsbestuur in afwijking van [artikel 7.30b, eerste lid, vierde volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.30b) besluiten dat ten aanzien van een door hem aangewezen masteropleiding, bedoeld in [artikel 7.30b, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.30b) de toelatingseisen voor die masteropleiding tevens betrekking kunnen hebben op andere aspecten.
 
-2. [Artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018259&paragraaf=2&artikel=7&z=2005-12-30&g=2005-12-30), is van toepassing.
+2. [Artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018259&paragraaf=2&artikel=7&z=2007-06-13&g=2007-06-13), is van toepassing.
 
 3. Het instellingsbestuur stelt de aanvullende toelatingseisen vast.
 
-4. [Artikel 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018259&paragraaf=2&artikel=6&z=2005-12-30&g=2005-12-30), is van overeenkomstige toepassing.
+4. [Artikel 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018259&paragraaf=2&artikel=6&z=2007-06-13&g=2007-06-13), is van overeenkomstige toepassing.
 
 5. De aanvullende toelatingseisen worden opgenomen in de onderwijs- en examenregeling.
 
@@ -143,11 +143,11 @@ Met het oog op het verkrijgen van een duidelijker inzicht in de effecten van sel
 
 1. Onze Minister kan op aanvraag van het instellingsbestuur in afwijking van [artikel 7.43, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.43) besluiten dat ten aanzien van een door hem aangewezen voltijdse opleiding of een door hem aangewezen experimenteel programma binnen die opleiding het instellingsbestuur een collegegeld vaststelt van ten hoogste vijf keer het collegegeld, bedoeld in [artikel 7.43, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.43).
 
-2. [Artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018259&paragraaf=2&artikel=7&z=2005-12-30&g=2005-12-30), is van toepassing.
+2. [Artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018259&paragraaf=2&artikel=7&z=2007-06-13&g=2007-06-13), is van toepassing.
 
 ##### Artikel 10. Lening aan studenten i.v.m. collegegeldverhoging
 
-1. Bij ministeriële regeling worden voorschriften vastgesteld over de beschikbaarstelling van een lening van rijkswege aan studenten in de kosten van het collegegeld, verschuldigd voor de inschrijving voor een opleiding als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0018259&paragraaf=2&artikel=9&z=2005-12-30&g=2005-12-30), in voorkomende gevallen in verband met het deelnemen aan een experimenteel programma. In de lening is het bedrag van het collegegeld, bedoeld in [artikel 7.43, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.43), niet begrepen.
+1. Bij ministeriële regeling worden voorschriften vastgesteld over de beschikbaarstelling van een lening van rijkswege aan studenten in de kosten van het collegegeld, verschuldigd voor de inschrijving voor een opleiding als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0018259&paragraaf=2&artikel=9&z=2007-06-13&g=2007-06-13), in voorkomende gevallen in verband met het deelnemen aan een experimenteel programma. In de lening is het bedrag van het collegegeld, bedoeld in [artikel 7.43, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.43), niet begrepen.
 
 2. De lening is rentedragend. Met betrekking tot het rentepercentage is [artikel 6.3, eerste lid, van de Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=6.3) van toepassing.
 
@@ -165,37 +165,37 @@ Met het oog op het verkrijgen van een duidelijker inzicht in de effecten van sel
 
 5. Dit artikel is niet van toepassing op opleidingen, verbonden aan instellingen, bedoeld in [artikel 6.9 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=6.9).
 
-#### Paragraaf 3. Procedure aanwijzing van opleidingen
+#### Paragraaf 3. Procedure aanwijzing van opleidingen; verlenging aanwijzing van opleidingen
 
 ##### Artikel 11. Aanvraag door het instellingsbestuur
 
-1. Het instellingsbestuur dient een aanvraag voor een experiment als bedoeld in de [artikelen 6 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0018259&paragraaf=2&artikel=6&z=2005-12-30&g=2005-12-30) bij Onze Minister in voor een bij ministeriële regeling vast te stellen tijdstip. Een aanvraag kan op de studiejaren 2005–2006 en 2006–2007 betrekking hebben.
+1. Het instellingsbestuur dient een aanvraag voor een experiment als bedoeld in de [artikelen 6 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0018259&paragraaf=2&artikel=6&z=2007-06-13&g=2007-06-13) bij Onze Minister in voor een bij ministeriële regeling vast te stellen tijdstip. Een aanvraag kan op de studiejaren 2005–2006 en 2006–2007 betrekking hebben.
 
-2. Voor zover het betreft een experiment als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0018259&paragraaf=2&artikel=6&z=2005-12-30&g=2005-12-30), toont het instellingsbestuur in de aanvraag aan dat de vervangende vooropleidingseisen ten minste gelijkwaardig zijn aan de vooropleidingseisen, gesteld in [artikel 7.24, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.24).
+2. Voor zover het betreft een experiment als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0018259&paragraaf=2&artikel=6&z=2007-06-13&g=2007-06-13), toont het instellingsbestuur in de aanvraag aan dat de vervangende vooropleidingseisen ten minste gelijkwaardig zijn aan de vooropleidingseisen, gesteld in [artikel 7.24, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.24).
 
-3. Voor zover het betreft een experiment als bedoeld in de [artikelen 7 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0018259&paragraaf=2&artikel=7&z=2005-12-30&g=2005-12-30), toont het instellingsbestuur in de aanvraag aan dat het een opleiding of een experimenteel programma met evidente meerwaarde betreft of het experiment kan bijdragen aan de verdere ontwikkeling van evidente meerwaarde binnen die opleiding of een experimenteel programma.
+3. Voor zover het betreft een experiment als bedoeld in de [artikelen 7 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0018259&paragraaf=2&artikel=7&z=2007-06-13&g=2007-06-13), toont het instellingsbestuur in de aanvraag aan dat het een opleiding of een experimenteel programma met evidente meerwaarde betreft of het experiment kan bijdragen aan de verdere ontwikkeling van evidente meerwaarde binnen die opleiding of een experimenteel programma.
 
 ##### Artikel 12. Besluitvorming opleidingen op het gebied van landbouw; tijdstip besluitvorming studiejaar 2005–2006
 
-1. Voorzover het betreft opleidingen op het gebied van landbouw en natuurlijke omgeving, neemt Onze Minister een besluit als bedoeld in de [artikelen 6 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0018259&paragraaf=2&artikel=6&z=2005-12-30&g=2005-12-30) in overeenstemming met Onze Minister van Landbouw, Natuur en Voedselkwaliteit.
+1. Voorzover het betreft opleidingen op het gebied van landbouw en natuurlijke omgeving, neemt Onze Minister een besluit als bedoeld in de [artikelen 6 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0018259&paragraaf=2&artikel=6&z=2007-06-13&g=2007-06-13) in overeenstemming met Onze Minister van Landbouw, Natuur en Voedselkwaliteit.
 
-2. Onze Minister neemt een besluit als bedoeld in de [artikelen 6 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0018259&paragraaf=2&artikel=6&z=2005-12-30&g=2005-12-30) ten behoeve van het studiejaar 2005–2006 voor een bij ministeriële regeling vast te stellen tijdstip.
+2. Onze Minister neemt een besluit als bedoeld in de [artikelen 6 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0018259&paragraaf=2&artikel=6&z=2007-06-13&g=2007-06-13) ten behoeve van het studiejaar 2005–2006 voor een bij ministeriële regeling vast te stellen tijdstip.
 
 #### Paragraaf 4. Overige bepalingen
 
-##### Artikel 13. Rechtsgevolg besluit op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0018259&paragraaf=2&artikel=7&z=2005-12-30&g=2005-12-30)
+##### Artikel 13. Rechtsgevolg besluit op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0018259&paragraaf=2&artikel=7&z=2007-06-13&g=2007-06-13)
 
-Indien een besluit als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0018259&paragraaf=2&artikel=7&z=2005-12-30&g=2005-12-30) betrekking heeft op een bacheloropleiding waarvoor een toelatingsbeperking als bedoeld in de [artikelen 7.53](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.53), [7.55](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.55) en [7.56 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.56) van kracht is, blijft [paragraaf 4a van titel 3 van hoofdstuk 7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&paragraaf=4a) buiten toepassing.
+Indien een besluit als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0018259&paragraaf=2&artikel=7&z=2007-06-13&g=2007-06-13) betrekking heeft op een bacheloropleiding waarvoor een toelatingsbeperking als bedoeld in de [artikelen 7.53](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.53), [7.55](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.55) en [7.56 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.56) van kracht is, blijft [paragraaf 4a van titel 3 van hoofdstuk 7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&paragraaf=4a) buiten toepassing. Voor de toepassing van dit artikel wordt onder een besluit als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0018259&paragraaf=2&artikel=7&z=2007-06-13&g=2007-06-13) tevens begrepen een verlenging op grond van [artikel 12a](https://wetten.overheid.nl/jci1.3:c:BWBR0018259&paragraaf=3&artikel=12a&z=2007-06-13&g=2007-06-13) van een aanwijzing.
 
 ##### Artikel 14. Uitbreiding rechtsmacht colleges van beroep voor de examens
 
-1. Een college van beroep voor de examens als bedoeld in [artikel 7.60 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.60) oordeelt tevens over het beroep tegen beslissingen van het instellingsbestuur als bedoeld in de [artikelen 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018259&paragraaf=2&artikel=6&z=2005-12-30&g=2005-12-30), [7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018259&paragraaf=2&artikel=7&z=2005-12-30&g=2005-12-30), en [8, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018259&paragraaf=2&artikel=8&z=2005-12-30&g=2005-12-30).
+1. Een college van beroep voor de examens als bedoeld in [artikel 7.60 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.60) oordeelt tevens over het beroep tegen beslissingen van het instellingsbestuur als bedoeld in de [artikelen 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018259&paragraaf=2&artikel=6&z=2007-06-13&g=2007-06-13), [7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018259&paragraaf=2&artikel=7&z=2007-06-13&g=2007-06-13), en [8, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018259&paragraaf=2&artikel=8&z=2007-06-13&g=2007-06-13).
 
 2. De [artikelen 7.61, tweede tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.61), en [7.63 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.63) zijn van toepassing op het beroep, bedoeld in het eerste lid.
 
 ##### Artikel 15. Medezeggenschap
 
-1. De [artikelen 9.34, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=9.34), en [10.22, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=10.22) zijn van overeenkomstige toepassing op het onderdeel van de onderwijs- en examenregeling, bedoeld in de [artikelen 6, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018259&paragraaf=2&artikel=6&z=2005-12-30&g=2005-12-30), [7, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018259&paragraaf=2&artikel=7&z=2005-12-30&g=2005-12-30), en [8, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018259&paragraaf=2&artikel=8&z=2005-12-30&g=2005-12-30).
+1. De [artikelen 9.34, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=9.34), en [10.22, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=10.22) zijn van overeenkomstige toepassing op het onderdeel van de onderwijs- en examenregeling, bedoeld in de [artikelen 6, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018259&paragraaf=2&artikel=6&z=2007-06-13&g=2007-06-13), [7, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018259&paragraaf=2&artikel=7&z=2007-06-13&g=2007-06-13), en [8, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018259&paragraaf=2&artikel=8&z=2007-06-13&g=2007-06-13).
 
 2. De [artikelen 9.43](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=9.43) en [10.30 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=10.30) zijn van overeenkomstige toepassing.
 
@@ -217,26 +217,42 @@ Dit onderdeel is nog niet inwerking getreden
 
 2. Studenten die op 31 augustus 2005 of op 31 augustus 2006 zijn ingeschreven voor een voltijdse opleiding ten aanzien waarvan met ingang van 1 september 2005 onderscheidenlijk met ingang van 1 september 2006 een experiment op het terrein van collegegeldverhoging aanvangt, zijn het collegegeld, bedoeld in [artikel 7.43 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.43), verschuldigd.
 
+3. Het eerste lid is van overeenkomstige toepassing op studenten die op 31 augustus 2007 of op 31 augustus van een van de volgende kalenderjaren zijn ingeschreven voor een opleiding als bedoeld in het eerste of tweede lid.
+
 ##### Artikel 19. Overgangsbepaling terugbetaling collegegeld
 
 Op aanvragen als bedoeld in [artikel 7.49a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.49a), zoals dat artikel luidde voor het tijdstip van intrekking van deze wet, en de afhandeling daarvan, alsmede op beroepen tegen een beslissing op een zodanige aanvraag, blijven de op de dag voor het tijdstip van intrekking van deze wet geldende voorschriften van deze wet en van de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682) van toepassing.
 
 ##### Artikel 20. Evaluatie
 
-Onze Minister zendt in overeenstemming met Onze Minister van Landbouw, Natuur en Voedselkwaliteit voor 1 juni 2007 aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
+Onze Minister zendt in overeenstemming met Onze Minister van Landbouw, Natuur en Voedselkwaliteit voor 1 juni 2008 aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
 
 ##### Artikel 21. Inwerkingtreding
 
-1. Deze wet treedt met uitzondering van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0018259&paragraaf=5&artikel=17&z=2005-12-30&g=2005-12-30) in werking met ingang van 1 mei 2005.
+1. Deze wet treedt met uitzondering van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0018259&paragraaf=5&artikel=17&z=2007-06-13&g=2007-06-13) in werking met ingang van 1 mei 2005.
 
-2. [Artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0018259&paragraaf=5&artikel=17&z=2005-12-30&g=2005-12-30) treedt in werking met ingang van 1 september 2007.
+2. [Artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0018259&paragraaf=5&artikel=17&z=2007-06-13&g=2007-06-13) treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
 ##### Artikel 22. Expiratie
 
-Deze wet wordt met uitzondering van de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBR0018259&paragraaf=6&artikel=18&z=2005-12-30&g=2005-12-30) en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0018259&paragraaf=6&artikel=19&z=2005-12-30&g=2005-12-30) ingetrokken met ingang van 2 september 2007.
+Deze wet wordt met uitzondering van de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBR0018259&paragraaf=6&artikel=18&z=2007-06-13&g=2007-06-13) en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0018259&paragraaf=6&artikel=19&z=2007-06-13&g=2007-06-13) ingetrokken op een bij koninklijk besluit te bepalen tijdstip.
 
 ##### Artikel 23. Citeertitel
 
 Deze wet wordt aangehaald als: Experimentenwet vooropleidingseisen, selectie en collegegeldheffing.
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 12a. Verlenging aanwijzing van opleidingen
+
+1. Een aanwijzing als bedoeld in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0018259&paragraaf=2&artikel=6&z=2007-06-13&g=2007-06-13), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0018259&paragraaf=2&artikel=7&z=2007-06-13&g=2007-06-13), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0018259&paragraaf=2&artikel=8&z=2007-06-13&g=2007-06-13) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0018259&paragraaf=2&artikel=9&z=2007-06-13&g=2007-06-13) die betrekking heeft op de studiejaren 2005–2006 en 2006–2007 dan wel op het studiejaar 2006–2007, wordt verlengd voor het studiejaar 2007–2008, tenzij het instellingsbestuur Onze Minister voor 1 september 2007 meedeelt dat verlenging van de aanwijzing niet nodig is.
+
+2. Onze Minister kan op aanvraag van het instellingsbestuur besluiten een op grond van het eerste lid verlengde aanwijzing voor een of meer studiejaren te verlengen.
+
+#### Paragraaf 4. Overige bepalingen
+
+#### Paragraaf 5. Wijzigingen van de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682)
+
+#### Paragraaf 6. Slot- en overgangsbepalingen
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
