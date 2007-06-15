@@ -4,7 +4,7 @@ identifier: "BWBR0009675"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2006-04-05"
+last_updated: "2007-06-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009675"
 soort: "AMvB"
@@ -82,21 +82,17 @@ Hebben goedgevonden en verstaan:
 
 - m. **%:** massaprocent;
 
-- n. **richtlijn 97/4/EG:** [richtlijn nr. 97/4/EG](31997L0004) van het Europees Parlement en de Raad van de Europese Unie van 27 januari 1997 (PbEG L 43) houdende wijziging van [richtlijn 79/112/EEG](31979L0112) betreffende de onderlinge aanpassing van de wetgevingen der lid-staten inzake etikettering en presentatie van levensmiddelen alsmede inzake de daarvoor gemaakte reclame;
+- n. **wildezwijnenvlees**: spiervlees afkomstig van varkens die niet in gevangenschap zijn gekweekt, niet in gevangenschap zijn gehouden en niet in gevangenschap zijn geslacht;
 
-- o. **richtlijn 94/65/EG:** [richtlijn nr. 94/65/EG](31994L0065) van de Raad van de Europese Unie van 14 december 1994 tot vaststelling van voorschriften voor de productie en het in de handel brengen van gehakt vlees en vleesbereidingen (PbEG L 368);
+- o. **verordening (EG) 1760/2000**: [verordening (EG) nr. 1760/2000](32000R1760) van het Europees Parlement en de Raad van de Europese Unie van 17 juli 2000 (PbEG L 204) tot vaststelling van een identificatie- en registratieregeling voor runderen en inzake de etikettering van rundvlees en rundvleesproducten en tot intrekking van [verordening (EG) nr. 820/97](31997R0820) van de Raad van de Europese Unie;
 
-- p. **wildezwijnenvlees**: spiervlees afkomstig van varkens die niet in gevangenschap zijn gekweekt, niet in gevangenschap zijn gehouden en niet in gevangenschap zijn geslacht;
-
-- q. **verordening (EG) 1760/2000**: [verordening (EG) nr. 1760/2000](32000R1760) van het Europees Parlement en de Raad van de Europese Unie van 17 juli 2000 (PbEG L 204) tot vaststelling van een identificatie- en registratieregeling voor runderen en inzake de etikettering van rundvlees en rundvleesproducten en tot intrekking van [verordening (EG) nr. 820/97](31997R0820) van de Raad van de Europese Unie;
-
-- r. **verordening (EG) 1825/2000**: [verordening (EG) nr. 1825/2000](32000R1825) van de Commissie van de Europese Gemeenschappen van 25 augustus 2000 tot vaststelling van de uitvoeringsbepalingen van [verordening (EG) nr. 1760/2000](32000R1760) van het Europees Parlement en de Raad van de Europese Unie met betrekking tot de etikettering van rundvlees en van rundvleesproducten (PbEG L 216).
+- p. **verordening (EG) 1825/2000**: [verordening (EG) nr. 1825/2000](32000R1825) van de Commissie van de Europese Gemeenschappen van 25 augustus 2000 tot vaststelling van de uitvoeringsbepalingen van [verordening (EG) nr. 1760/2000](32000R1760) van het Europees Parlement en de Raad van de Europese Unie met betrekking tot de etikettering van rundvlees en van rundvleesproducten (PbEG L 216).
 
 2. De darm of het darmvervangend omhulsel van in dit besluit bedoelde waren is geen verpakking in de zin van [artikel 1, eerste lid, onder b, van het Warenwetbesluit Etikettering van levensmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0005310&artikel=1).
 
 3. Voor vlees, gehakt en vleesproducten wordt een startercultuur aangemerkt als technisch hulpmiddel, bedoeld in [artikel 1, zevende lid, van het Warenwetbesluit Etikettering van levensmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0005310&artikel=1).
 
-4. [Artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009675&paragraaf=2b&artikel=4&z=2006-04-05&g=2006-04-05) en de [artikelen 6 tot en met 12](https://wetten.overheid.nl/jci1.3:c:BWBR0009675&paragraaf=3&artikel=6&z=2006-04-05&g=2006-04-05) zijn niet van toepassing op een eetwaar die met een in dit besluit bedoelde aanduiding rechtmatig in het verkeer is gebracht in een andere lid-staat van de Europese Unie of in een andere staat die partij is bij de overeenkomst inzake de Europese Economische Ruimte, voor zover die aanduiding vergezeld gaat van beschrijvende vermeldingen die dicht bij die aanduiding staan, zodat de koper in staat is de aldus geëtiketteerde waar te onderscheiden van in Nederland in het verkeer gebrachte eetwaren waarvoor die aanduiding uitsluitend gebezigd mag worden.
+4. [Artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009675&paragraaf=2b&artikel=4&z=2007-06-15&g=2007-06-15) en de [artikelen 6 tot en met 12](https://wetten.overheid.nl/jci1.3:c:BWBR0009675&paragraaf=3&artikel=6&z=2007-06-15&g=2007-06-15) zijn niet van toepassing op een eetwaar die met een in dit besluit bedoelde aanduiding rechtmatig in het verkeer is gebracht in een andere lid-staat van de Europese Unie of in een andere staat die partij is bij de overeenkomst inzake de Europese Economische Ruimte, voor zover die aanduiding vergezeld gaat van beschrijvende vermeldingen die dicht bij die aanduiding staan, zodat de koper in staat is de aldus geëtiketteerde waar te onderscheiden van in Nederland in het verkeer gebrachte eetwaren waarvoor die aanduiding uitsluitend gebezigd mag worden.
 
 ##### Artikel 2
 
@@ -110,7 +106,7 @@ Hebben goedgevonden en verstaan:
 
 5. Het is verboden met gebruikmaking van de bij dit besluit aangegeven aanduidingen andere waren te verhandelen dan die waaraan die aanduidingen bij dit besluit zijn voorbehouden.
 
-6. Het is verboden vlees, gehakt of vleesproducten te verhandelen anders dan met inachtneming van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0009675&paragraaf=4&artikel=12&z=2006-04-05&g=2006-04-05).
+6. Het is verboden vlees, gehakt of vleesproducten te verhandelen anders dan met inachtneming van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0009675&paragraaf=4&artikel=12&z=2007-06-15&g=2007-06-15).
 
 7. Het is verboden te handelen in strijd met artikel 11, eerste streepje, artikel 13, eerste, tweede en vijfde lid, artikel 14, of artikel 15, van [verordening (EG) 1760/2000](32000R1760), of met artikel 1, artikel 2, tweede lid, artikel 7, eerste en vierde lid, van [verordening (EG) 1825/2000](32000R1825).
 
@@ -156,7 +152,7 @@ Trichinella is niet aantoonbaar in 10,0 gram wildezwijnenvlees..“..” moet zi
 
 ##### Artikel 4
 
-1. Het zetmeelgehalte van een op de voet van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0009675&paragraaf=3&artikel=6&z=2006-04-05&g=2006-04-05), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0009675&paragraaf=3&artikel=7&z=2006-04-05&g=2006-04-05), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0009675&paragraaf=3&artikel=8&z=2006-04-05&g=2006-04-05),[9](https://wetten.overheid.nl/jci1.3:c:BWBR0009675&paragraaf=3&artikel=9&z=2006-04-05&g=2006-04-05) of [10](https://wetten.overheid.nl/jci1.3:c:BWBR0009675&paragraaf=3&artikel=10&z=2006-04-05&g=2006-04-05) aangeduide, gepaneerde waar bedraagt ten hoogste 6%.
+1. Het zetmeelgehalte van een op de voet van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0009675&paragraaf=3&artikel=6&z=2007-06-15&g=2007-06-15), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0009675&paragraaf=3&artikel=7&z=2007-06-15&g=2007-06-15), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0009675&paragraaf=3&artikel=8&z=2007-06-15&g=2007-06-15),[9](https://wetten.overheid.nl/jci1.3:c:BWBR0009675&paragraaf=3&artikel=9&z=2007-06-15&g=2007-06-15) of [10](https://wetten.overheid.nl/jci1.3:c:BWBR0009675&paragraaf=3&artikel=10&z=2007-06-15&g=2007-06-15) aangeduide, gepaneerde waar bedraagt ten hoogste 6%.
 
 2. Het eerste lid is niet van toepassing op:
 
@@ -190,7 +186,7 @@ De aanduiding **vlees** mag uitsluitend worden gebezigd voor vlees, niet zijnde 
 
 ##### Artikel 7
 
-De aanduiding **gehakt** mag uitsluitend worden gebezigd voor gehakt met een vetgehalte van ten hoogste 35%, voor zover die aanduiding vergezeld gaat van:
+De aanduiding **gehakt** mag uitsluitend worden gebezigd voor gehakt met een vetgehalte van ten hoogste 25%, voor zover die aanduiding vergezeld gaat van:
 
 - –. de naam van het soort slachtdier; of
 
@@ -218,9 +214,9 @@ Vervallen
 
 De vermelding **mager** of **magere** mag worden gebezigd bij:
 
-- a. vlees en vleesproducten, uitsluitend voorzover het vetgehalte van de waar ten hoogste 20% bedraagt;
+- a. vlees en vleesproducten, uitsluitend voor zover het vetgehalte van de waar ten hoogste 20% bedraagt;
 
-- b. gehakt van mager vlees, uitsluitend voorzover het vetgehalte van de waar ten hoogste 7% bedraagt.
+- b. gehakt, uitsluitend voor zover het vetgehalte van de waar ten hoogste 15% bedraagt.
 
 #### § 5:. slotbepalingen
 
@@ -238,7 +234,7 @@ De autoriteit, bedoeld in artikel 20 van [verordening (EG) 1760/2000](32000R1760
 
 1. Dit besluit treedt in werking met ingang van 1 juli 1998, met dien verstande dat voorverpakte eetwaren die zijn aangeduid op de voet van artikel 6, tweede lid, van het Vlees- en vleeswarenbesluit (Warenwet) 1987 zoals dat luidde onmiddellijk vóór 1 juli 1998, nog verhandeld mogen worden tot 14 februari 2000.
 
-2. [Artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0009675&paragraaf=3&artikel=11&z=2006-04-05&g=2006-04-05) is niet van toepassing voor zover overeenkomstig een ter uitvoering van [richtlijn 97/4/EG](31997L0004) in het [Warenwetbesluit Etikettering van levensmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0005310) getroffen maatregel een kwantitatieve vermelding van ingrediënten wordt gebezigd, en vervalt met ingang van 14 februari 2000.
+2. [Artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0009675&paragraaf=3&artikel=11&z=2007-06-15&g=2007-06-15) is niet van toepassing voor zover overeenkomstig een ter uitvoering van [richtlijn 97/4/EG](31997L0004) in het [Warenwetbesluit Etikettering van levensmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0005310) getroffen maatregel een kwantitatieve vermelding van ingrediënten wordt gebezigd, en vervalt met ingang van 14 februari 2000.
 
 ##### Artikel 16
 
