@@ -4,7 +4,7 @@ identifier: "BWBR0018549"
 country: "nl"
 rank: "archiefselectielijst"
 publication_date: "2007-06-16"
-last_updated: "2005-12-18"
+last_updated: "2007-06-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018549"
 soort: "ministeriele-regeling-archiefselectielijst"
@@ -3411,13 +3411,7 @@ Product: Processtukken, verzoek om advies en advies van de landsadvocaat
 
 Waardering: V 20 jaar
 
-Handeling: Het behandelen van aangelegenheden met beroep op grond van de Wet Openbaarheid van Bestuur (WOB)
-
-Periode: 1945–
-
-Product: Advies
-
-Waardering: V 10 jaar
+vervallen;
 
 Handeling: Het juridisch behandelen van schadeclaims
 
@@ -3973,13 +3967,13 @@ Grondslag: Regeling Werking RIB, 28 maart 1949, Stcrt. 1949/64, art. 5.3, Regeli
 
 Waardering: B (5)
 
-### E. Overige actoren
+Periode: 1945–1990
 
 Handeling: Het mede-beslechten/adviseren van de Minister-president inzake het beslechten van geschillen tussen vakministers over de interdepartementale taakverdeling
 
 Periode: 1973–
 
-Bron: Regeringsverklaring van 28 mei 1973 (Handelingen II, 1972–1973, 15 061)
+### E. Overige actoren
 
 Opmerking: Belangrijke geschillen beslecht de minister-president in overleg, overige geschillen na overleg met de vice-minister-president
 
@@ -4258,5 +4252,17 @@ Grondslag: Kaderwet adviescolleges, 3 juli 1996, Stb. 1996/378, art. 28.2
 Opmerking: Op verzoek van de vakminister, maar tenminste eens in de vier jaar
 
 Waardering: B (2)
+
+Grondslag: Kaderwet adviescolleges, 3 juli 1996, Stb. 1996/378, art. 28.2
+
+Opmerking: Op verzoek van de vakminister, maar tenminste eens in de vier jaar
+
+Waardering: B (2)
+
+De Minister van Onderwijs, Cultuur en Wetenschap is belast met de uitvoering van dit besluit dat met de daarbij behorende selectielijst en toelichting in de Staatscourant zal worden geplaatst.
+
+### E. Overige actoren
+
+Bron: Regeringsverklaring van 28 mei 1973 (Handelingen II, 1972–1973, 15 061)
 
 De Minister van Onderwijs, Cultuur en Wetenschap is belast met de uitvoering van dit besluit dat met de daarbij behorende selectielijst en toelichting in de Staatscourant zal worden geplaatst.
