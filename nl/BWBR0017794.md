@@ -4,7 +4,7 @@ identifier: "BWBR0017794"
 country: "nl"
 rank: "kb"
 publication_date: "2020-10-15"
-last_updated: "2006-10-13"
+last_updated: "2007-06-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017794"
 soort: "KB"
@@ -43,7 +43,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-Als hoofdspoorweg worden aangewezen de spoorwegen, genoemd in de bij dit besluit behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017794&bijlage=1&z=2006-10-13&g=2006-10-13).
+Als hoofdspoorweg worden aangewezen de spoorwegen, genoemd in de bij dit besluit behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017794&bijlage=1&z=2007-06-16&g=2007-06-16).
 
 ##### Artikel 2
 
@@ -63,13 +63,13 @@ De Concessie uitoefening dienst havenspoorweg Rotterdam Linker Maasoever 1979 wo
 
 ##### Artikel 4
 
-Dit besluit treedt in werking met ingang van 31 december 2004, met uitzondering van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017794&artikel=2&z=2006-10-13&g=2006-10-13) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0017794&artikel=3&z=2006-10-13&g=2006-10-13), die in werking treden met ingang van het tijdstip waarop de [artikelen 16 tot en met 25 van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=16) in werking treden.
+Dit besluit treedt in werking met ingang van 31 december 2004, met uitzondering van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017794&artikel=2&z=2007-06-16&g=2007-06-16) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0017794&artikel=3&z=2007-06-16&g=2007-06-16), die in werking treden met ingang van het tijdstip waarop de [artikelen 16 tot en met 25 van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=16) in werking treden.
 
 ##### Artikel 5
 
 Dit besluit wordt aangehaald als: Besluit aanwijzing hoofdspoorwegen.
 
-## Bijlage 1. behorend bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017794&artikel=1&z=2006-10-13&g=2006-10-13), van het Besluit aanwijzing hoofdspoorwegen
+## Bijlage 1. behorend bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017794&artikel=1&z=2007-06-16&g=2007-06-16), van het Besluit aanwijzing hoofdspoorwegen
 
 In deze bijlage wordt verstaan onder:
 
@@ -185,7 +185,9 @@ De volgende spoorwegen, daarbij inbegrepen de niet genoemde verbindingsbogen die
 
 - 15. Maasvlakte – Kijfhoek;
 
-- 16. Barendrecht – Belgische grens, inclusief de daarbij horende aansluitingen.
+- 16. Barendrecht – Belgische grens, inclusief de daarbij horende aansluitingen;
+
+- 17. Kijfhoek – Zevenaar.
 
 ## Bijlage 2. behorend bij artikel 1, onder b, van het Besluit aanwijzing hoofdspoorwegen
 
