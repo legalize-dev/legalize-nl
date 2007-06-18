@@ -125,21 +125,3 @@ Niet opgenomen.
 ## Bijlage 2
 
 Niet opgenomen.
-
-### Beperking buitengewoon verlof
-
-Sinds 16 november 2001 is het buitengewoon verlof bij wet geregeld in de [Wet Arbeid en Zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008). De toen geldende bepalingen in het [Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950) zijn waar nodig in overeenstemming met deze wet gebracht. Verschillen die in het kader van het arbeidsvoorwaardenoverleg tot stand waren gekomen en voor de ambtenaar gunstiger waren dan het wettelijke minimum, zijn daarbij gehandhaafd. Deze verschillen hadden betrekking op de duur van het verlof, de mate van behoud van bezoldiging of op de omstandigheid waarvoor het verlof werd verleend.
-
-### Overige afspraken
-
-De ambtenaar kan afzien van één van de aanspraken (bronnen), zoals genoemd in de [IKAP-regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0015799). In 2007 kan nog worden afgezien van aanspraken in de maanden juni tot en met december, ook voor uitgaven die de ambtenaar in de periode januari 2007 tot en met mei 2007 in dit verband gedaan heeft.
-
-### IV. Slotopmerkingen
-
-Zodra de formalisering van de overeengekomen maatregelen tot stand is gekomen, zal ik u daarover informeren. Vooruitlopend daarop verzoek ik u om zo nodig vast uitvoering te geven aan de in deze circulaire genoemde maatregelen.
-
-Over de verschillende onderwerpen in deze circulaire of uit het akkoord kunt u nadere inlichtingen verkrijgen bij onderstaande personen:
-
-## Bijlage 1
-
-## Bijlage 2
