@@ -1,0 +1,52 @@
+---
+title: "Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Infectieziektebestrijding en preventieve gezondheidszorg vanaf 1945 (Minister van Onderwijs, Cultuur en Wetenschap)"
+identifier: "BWBR0022073"
+country: "nl"
+rank: "archiefselectielijst"
+publication_date: "2007-06-20"
+last_updated: "2007-06-20"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0022073"
+soort: "ministeriele-regeling-archiefselectielijst"
+stam_id: "9116943"
+version_id: "14567132"
+internal_id: "C25323271"
+label_id: "9095804"
+dtd_version: "2.0"
+original_entry_into_force: "2007-06-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0022073/2007-06-20/0"
+intitule_bron: "Stcrt.2007-114"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2007-05-08"
+intitule_published: "2007-06-18"
+intitule_in_force: "2007-06-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2007-114"
+original_signed_date: "2007-05-08"
+original_published_date: "2007-06-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2007-114-p13-SC80774"
+entry_into_force_date: "2007-06-20"
+jci_1_3: "jci1.3:c:BWBR0022073&z=2007-06-20&g=2007-06-20"
+jci_1_0: "1.0:c:BWBR0022073&g=2007-06-20"
+citeertitel_status: "redactioneel"
+signed_date: "2007-05-08"
+entry_into_force: "2007-06-20"
+---
+# Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Infectieziektebestrijding en preventieve gezondheidszorg vanaf 1945 (Minister van Onderwijs, Cultuur en Wetenschap)
+
+Gelet op [artikel 5, tweede lid, onder b, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=5);
+
+De Raad voor Cultuur gehoord (advies van de Raad voor Cultuur van 23 april 2007, arc-2007.03707/12);
+
+Besluit:
+
+##### Artikel 1
+
+De bij dit besluit gevoegde ‘[selectielijst voor de neerslag van de handelingen van de Minister van Onderwijs, Cultuur en Wetenschap en de onder hem ressorterende actoren op het beleidsterrein Infectieziektebestrijding en preventieve gezondheidszorg over de periode vanaf 1945](onbekend)’ en de daarbij behorende toelichting worden vastgesteld.
+
+##### Artikel 2
+
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
+
+De Minister van Onderwijs, Cultuur en Wetenschap is belast met de uitvoering van dit besluit dat met de daarbij behorende [selectielijst](onbekend) en toelichting in de Staatscourant zal worden geplaatst.
