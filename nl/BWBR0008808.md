@@ -4,7 +4,7 @@ identifier: "BWBR0008808"
 country: "nl"
 rank: "wet"
 publication_date: "2019-01-01"
-last_updated: "1997-07-23"
+last_updated: "2007-06-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008808"
 soort: "wet"
@@ -44,6 +44,8 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is een aantal vaste col
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
+Werkt terug tot en met 1 januari 1997.
+
 ##### Artikel 1
 
 1. Er is een Commissie vennootschapsrecht.
@@ -62,13 +64,11 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 3
 
-1. Er is een Commissie auteursrecht.
+1. Er is een commissie auteursrecht.
 
-2. De commissie bestaat uit ten minste zes en ten hoogste tien leden.
+2. De commissie bestaat, met inbegrip van de voorzitter, uit ten minste zes en ten hoogste tien leden.
 
-3. De commissie heeft tot taak de regering en de beide kamers der Staten-Generaal te adviseren over wetgeving op het terrein van het auteursrecht en de naburige rechten.
-
-4. De commissie houdt op te bestaan met ingang van 1 april 1999.
+3. De commissie heeft tot taak de regering en de beide Kamers der Staten-Generaal te adviseren over wetgeving op het terrein van het auteursrecht en de naburige rechten.
 
 ##### Artikel 4
 
