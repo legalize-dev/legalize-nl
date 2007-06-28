@@ -4,7 +4,7 @@ identifier: "BWBR0020573"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2007-12-23"
-last_updated: "2007-01-01"
+last_updated: "2007-06-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020573"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ Wijzigt de Regeling maximumtarief en bekendmaking tarieven taxivervoer.
 
 ##### Artikel II
 
-Onverminderd [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0020573&artikel=I&z=2007-01-01&g=2007-01-01) is het een vervoerder tot en met 30 juni 2007 toegestaan taxivervoer aan te bieden volgens de [Regeling maximumtarief en bekendmaking tarieven taxivervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0010998), zoals die luidde voor de inwerkingtreding van deze regeling.
+Onverminderd [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0020573&artikel=I&z=2007-06-28&g=2007-06-28) is het een vervoerder tot en met 31 oktober 2007 toegestaan taxivervoer aan te bieden volgens de [Regeling maximumtarief en bekendmaking tarieven taxivervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0010998), zoals die luidde voor de inwerkingtreding van deze regeling.
 
 ##### Artikel III
 
