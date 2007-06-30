@@ -4,7 +4,7 @@ identifier: "BWBR0019228"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-05-01"
-last_updated: "2006-01-01"
+last_updated: "2007-06-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019228"
 soort: "ministeriele-regeling"
@@ -80,7 +80,9 @@ In deze regeling wordt verstaan onder:
 
 - d. controleurs van hetzij de AID, hetzij het COKZ, hetzij het CPE, bij gemengde bedrijven;
 
-- e. ambtenaren van de rijksbelastingdienst, bevoegd inzake douane, bij het vanuit derde landen binnen Nederlands grondgebied brengen van eet- en drinkwaren.
+- e. ambtenaren van de rijksbelastingdienst, bevoegd inzake douane, bij het vanuit derde landen binnen Nederlands grondgebied brengen van eet- en drinkwaren;
+
+- f. inspectieambtenaren van het Staatstoezicht op de Mijnen, bij uitsluitend mijnbouwinstallaties.
 
 3. De inspecteur-generaal van de VWA stelt na overleg met de directeuren van de AID, het COKZ en het CPE, de taakverdeling vast voor het toezicht op gemengde bedrijven, bedoeld in het tweede lid, onder d.
 
