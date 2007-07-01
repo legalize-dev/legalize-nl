@@ -4,7 +4,7 @@ identifier: "BWBR0027703"
 country: "nl"
 rank: "zbo"
 publication_date: "2025-07-01"
-last_updated: "2006-11-24"
+last_updated: "2007-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027703"
 soort: "zbo"
@@ -103,7 +103,7 @@ Vervallen
 
 ##### Artikel 8
 
-1. Indien een stuk ter inschrijving wordt aangeboden en niet vereist is dat tevens een afschrift van dit stuk wordt aangeboden, maakt de Dienst een afschrift van dit stuk, dat voldoet aan de [artikelen 11c van de Kadasterregeling 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&artikel=11c) en [2, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0027703&hoofdstuk=2&artikel=2&z=2006-11-24&g=2006-11-24).
+1. Indien een stuk ter inschrijving wordt aangeboden en niet vereist is dat tevens een afschrift van dit stuk wordt aangeboden, maakt de Dienst een afschrift van dit stuk, dat voldoet aan de [artikelen 11c van de Kadasterregeling 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&artikel=11c) en [2, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0027703&hoofdstuk=2&artikel=2&z=2007-07-01&g=2007-07-01).
 
 2. De bewaarder verklaart de inhoud van het formulier overeenkomstig het origineel, welke verklaring door hem wordt ondertekend.
 
@@ -131,7 +131,7 @@ Vervallen
 
 4. Indien een ingeschreven stuk een wijziging of aanvulling van de in het derde lid bedoelde gegevens betreft, worden de in de registratie voor schepen vermelde gegevens met het ingeschreven stuk in overeenstemming gebracht.
 
-5. De in het eerste lid, juncto de [artikelen 39, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&artikel=39), en [41 van de Kadasterregeling 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&artikel=41) bedoelde aanduidingen van de aard van de ingeschreven stukken luiden bovendien als volgt:
+5. De in het eerste lid, juncto de [artikelen 39, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&artikel=39), en [41 van de Kadasterregeling 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&artikel=41) bedoelde aanduidingen van de aard van de ingeschreven stukken luiden bovendien als volgt:
 
 | **Aard ingeschreven stuk** | **Aanduiding** |
 | --- | --- |
@@ -268,9 +268,9 @@ alsmede
 
 3. Een uittreksel inzake een niet-actuele toestand wordt zoveel mogelijk verstrekt in de vorm van een mechanische reproductie van het desbetreffende stuk.
 
-4. Een bewijs van doorhaling van de teboekstelling van een schip heeft de vorm van het model dat als [bijlage 32](https://wetten.overheid.nl/jci1.3:c:BWBR0027703&bijlage=32&z=2006-11-24&g=2006-11-24) bij deze regeling is gevoegd.
+4. Een bewijs van doorhaling van de teboekstelling van een schip heeft de vorm van het model dat als [bijlage 32](https://wetten.overheid.nl/jci1.3:c:BWBR0027703&bijlage=32&z=2007-07-01&g=2007-07-01) bij deze regeling is gevoegd.
 
-5. De in [artikel 101, eerste lid, van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=101) bedoelde verklaring heeft de vorm van het model dat als [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027703&bijlage=4&z=2006-11-24&g=2006-11-24) bij deze regeling is gevoegd.
+5. De in [artikel 101, eerste lid, van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=101) bedoelde verklaring heeft de vorm van het model dat als [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027703&bijlage=4&z=2007-07-01&g=2007-07-01) bij deze regeling is gevoegd.
 
 6. De in [artikel 101, eerste lid, van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=101) bedoelde afschriften worden verstrekt in de vorm van mechanische reproducties van die bescheiden.
 
@@ -306,7 +306,7 @@ De raadpleging van de kadastrale registratie voor schepen geschiedt door het ver
 
 ##### Artikel 25
 
-De in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&artikel=36) juncto [artikel 35, eerste lid, van de M.t.s.](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&artikel=35) bedoelde aangifte heeft de vorm van het model dat als [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0027703&bijlage=9&z=2006-11-24&g=2006-11-24) bij deze regeling is gevoegd.
+De in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&artikel=36) juncto [artikel 35, eerste lid, van de M.t.s.](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&artikel=35) bedoelde aangifte heeft de vorm van het model dat als [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0027703&bijlage=9&z=2007-07-01&g=2007-07-01) bij deze regeling is gevoegd.
 
 ##### Artikel 26
 
@@ -326,7 +326,7 @@ Omtrent de wijze waarop de in [artikel 116 van de wet](https://wetten.overheid.n
 
 2. Deze regeling wordt aangehaald als: Regeling teboekgestelde schepen 1994, dan wel als: R.t.s. 1994.
 
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0027703&bijlage=1&z=2006-11-24&g=2006-11-24).
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0027703&bijlage=1&z=2007-07-01&g=2007-07-01).
 
 ## Bijlage 1
 
