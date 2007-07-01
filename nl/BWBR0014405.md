@@ -4,7 +4,7 @@ identifier: "BWBR0014405"
 country: "nl"
 rank: "amvb"
 publication_date: "2023-01-01"
-last_updated: "2007-01-01"
+last_updated: "2007-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014405"
 soort: "AMvB"
@@ -62,11 +62,11 @@ Treedt in werking op het tijdstip waarop de opiumwetswijziging (Stb. 2002/520) i
 
 - d. opiumwetmiddel: een middel waarop [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=2) of [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3) van toepassing is;
 
-- e. recept: een schriftelijke aanwijzing als bedoeld in [artikel 1, eerste lid, onder l, van de Wet op de Geneesmiddelenvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0002290&artikel=1) of [artikel 1 van de Diergeneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0003818&artikel=1);
+- e. recept: een document als bedoeld in [artikel 1, eerste lid, onder pp, van de Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=1) of [artikel 1, eerste lid, van de Diergeneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0003818&artikel=1);
 
-- f. apotheekhoudend arts: een arts die op grond van [artikel 6 van de Wet op de Geneesmiddelenvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0002290&artikel=6) bevoegd is tot uitoefening van de artsenijbereidkunst;
+- f. gevestigde apotheker: een apotheker als bedoeld in [artikel 1, onder c, van het Besluit Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021672&artikel=1);
 
-- g. gevestigde apotheker: een apotheker die is ingeschreven in het register van gevestigde apothekers, bedoeld in [artikel 14 van de Wet op de Geneesmiddelenvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0002290&artikel=14).
+- g. apotheekhoudende arts: een huisarts als bedoeld in [artikel 1, onder d, van het Besluit Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021672&artikel=1).
 
 2. De hoeveelheid middelen, bedoeld in [artikel 11, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=11), betreft 500 gram hennep, 200 hennepplanten of 500 eenheden van een ander middel als bedoeld in de bij de [wet behorende lijst II](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=II).
 
@@ -76,7 +76,7 @@ Treedt in werking op het tijdstip waarop de opiumwetswijziging (Stb. 2002/520) i
 
 1. Het is verboden andere opiumwetmiddelen dan die, bedoeld in de bijlage bij dit besluit, voor te schrijven op recept, tenzij die worden voorgeschreven ten behoeve van proefpersonen in het kader van een onderzoek in de zin van de [Wet medisch-wetenschappelijk onderzoek met mensen](https://wetten.overheid.nl/jci1.3:c:BWBR0009408) dan wel ten behoeve van dieren in het kader van een onderzoek in de zin van de [Wet op de dierproeven](https://wetten.overheid.nl/jci1.3:c:BWBR0003081).
 
-2. Andere opiumwetmiddelen dan die, bedoeld in de bijlage bij dit besluit, worden slechts aangewend of toegediend in een instelling als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0014405&hoofdstuk=6&artikel=16&z=2007-01-01&g=2007-01-01), of in de praktijk van degene die zodanig middel voorschrijft, in het kader van een onderzoek als bedoeld in het eerste lid, met dien verstande dat zodanige middelen in het kader van een onderzoek in de zin van de [Wet op de dierproeven](https://wetten.overheid.nl/jci1.3:c:BWBR0003081) uitsluitend worden toegediend of aangewend door de vergunninghouder in de zin van die [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003081).
+2. Andere opiumwetmiddelen dan die, bedoeld in de bijlage bij dit besluit, worden slechts aangewend of toegediend in een instelling als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0014405&hoofdstuk=6&artikel=16&z=2007-07-01&g=2007-07-01), of in de praktijk van degene die zodanig middel voorschrijft, in het kader van een onderzoek als bedoeld in het eerste lid, met dien verstande dat zodanige middelen in het kader van een onderzoek in de zin van de [Wet op de dierproeven](https://wetten.overheid.nl/jci1.3:c:BWBR0003081) uitsluitend worden toegediend of aangewend door de vergunninghouder in de zin van die [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003081).
 
 ##### Artikel 3
 
@@ -102,19 +102,19 @@ Treedt in werking op het tijdstip waarop de opiumwetswijziging (Stb. 2002/520) i
 
 ##### Artikel 4
 
-1. Apothekers leveren opiumwetmiddelen uitsluitend af op een recept als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014405&hoofdstuk=2&artikel=3&z=2007-01-01&g=2007-01-01), of op een bestelling die voldoet aan het bij en krachtens [artikel 4, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=4) bepaalde.
+1. Apothekers leveren opiumwetmiddelen uitsluitend af op een recept als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014405&hoofdstuk=2&artikel=3&z=2007-07-01&g=2007-07-01), of op een bestelling die voldoet aan het bij en krachtens [artikel 4, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=4) bepaalde.
 
 2. Het eerste lid is niet van toepassing in de gevallen waarin de aflevering geen uitstel gedoogt en door de apotheker redelijkerwijs mag worden aangenomen dat gevaar voor misbruik niet bestaat.
 
-3. Apotheekhoudende artsen leveren opiumwetmiddelen ten behoeve van de tot hun geneeskundige praktijk behorende personen slechts af op een recept als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014405&hoofdstuk=2&artikel=3&z=2007-01-01&g=2007-01-01).
+3. Apotheekhoudende artsen leveren opiumwetmiddelen ten behoeve van de tot hun geneeskundige praktijk behorende personen slechts af op een recept als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014405&hoofdstuk=2&artikel=3&z=2007-07-01&g=2007-07-01).
 
 ##### Artikel 5
 
-1. Gevestigde apothekers en apotheekhoudende artsen bewaren de recepten waarop een opiumwetmiddel is afgeleverd gedurende ten minste zes jaren gescheiden van de andere recepten in de apotheek, gerangschikt achtereenvolgens op naam van degene die het heeft voorgeschreven, op naam van de substantie en op datum van aflevering. Ingeval het een preparaat betreft dat meer dan één substantie bevat, worden evenveel kopieën van het recept gemaakt als er substanties zijn.
+1. Gevestigde apothekers en apotheekhoudende artsen bewaren de recepten waarop een opiumwetmiddel is afgeleverd gescheiden van de andere recepten in de apotheek, gerangschikt achtereenvolgens op naam van degene die het heeft voorgeschreven, op naam van de substantie en op datum van aflevering. Ingeval het een preparaat betreft dat meer dan één substantie bevat, worden evenveel kopieën van het recept gemaakt als er substanties zijn.
 
 2. De in het eerste lid bedoelde recepten worden gedurende de in dat lid genoemde periode door gevestigde apothekers en apotheekhoudende artsen ter beschikking van de regionale inspecteur gehouden.
 
-3. Gevestigde apothekers verzenden kopieën van recepten als bedoeld in het eerste lid, die betrekking hebben op gevallen waarin een opiumwetmiddel in enig kwartaal is afgeleverd aan degene die het heeft voorgeschreven of aan een instelling als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0014405&hoofdstuk=6&artikel=16&z=2007-01-01&g=2007-01-01), op de eerste dag van het eerstvolgende kwartaal aan de regionale inspecteur.
+3. Gevestigde apothekers verzenden kopieën van recepten als bedoeld in het eerste lid, die betrekking hebben op gevallen waarin een opiumwetmiddel in enig kwartaal is afgeleverd aan degene die het heeft voorgeschreven of aan een instelling als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0014405&hoofdstuk=6&artikel=16&z=2007-07-01&g=2007-07-01), op de eerste dag van het eerstvolgende kwartaal aan de regionale inspecteur.
 
 ##### Artikel 6
 
@@ -148,7 +148,7 @@ Treedt in werking op het tijdstip waarop de opiumwetswijziging (Stb. 2002/520) i
 
 ##### Artikel 8
 
-1. De [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014405&hoofdstuk=2&artikel=3&z=2007-01-01&g=2007-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0014405&hoofdstuk=3&artikel=4&z=2007-01-01&g=2007-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0014405&hoofdstuk=3&artikel=5&z=2007-01-01&g=2007-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0014405&hoofdstuk=3&artikel=6&z=2007-01-01&g=2007-01-01), en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0014405&hoofdstuk=3&artikel=7&z=2007-01-01&g=2007-01-01) zijn niet van toepassing ten aanzien van preparaten die geen andere substanties bevatten dan die, bedoeld in de bij de wet behorende [Lijst II](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=II), met uitzondering van de substanties:
+1. De [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014405&hoofdstuk=2&artikel=3&z=2007-07-01&g=2007-07-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0014405&hoofdstuk=3&artikel=4&z=2007-07-01&g=2007-07-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0014405&hoofdstuk=3&artikel=5&z=2007-07-01&g=2007-07-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0014405&hoofdstuk=3&artikel=6&z=2007-07-01&g=2007-07-01), en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0014405&hoofdstuk=3&artikel=7&z=2007-07-01&g=2007-07-01) zijn niet van toepassing ten aanzien van preparaten die geen andere substanties bevatten dan die, bedoeld in de bij de wet behorende [Lijst II](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=II), met uitzondering van de substanties:
 
 amobarbital,
 
@@ -236,7 +236,7 @@ Het verbod, gesteld in de [artikelen 2, aanhef en onder A](https://wetten.overhe
 
 ##### Artikel 15
 
-Het verbod, gesteld in de [artikelen 2, aanhef en onder A](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=2), en [3, aanhef en onder A, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3), alsmede het verbod op het aanwezig hebben, vervoeren, verkopen, afleveren en verstrekken, gesteld in de [artikelen 2, aanhef en onder B en C](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=2), en [3, aanhef en onder B en C, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3), gelden niet indien het een homeopathisch farmaceutisch product betreft in de zin van het [Besluit homeopathische farmaceutische producten](https://wetten.overheid.nl/jci1.3:c:BWBR0005371) dat een opiumwetmiddel bevat waarop de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941) betrekking heeft, de farmaceutische vorm van dat product geen hogere concentratie van het middel heeft dan éénmiljoenste deel van de oertinctuur en in de verpakking waarin het product in de handel wordt gebracht niet meer dan 1 microgram van het middel aanwezig is.
+Het verbod, gesteld in de [artikelen 2, aanhef en onder A](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=2), en [3, aanhef en onder A, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3), alsmede het verbod op het aanwezig hebben, vervoeren, verkopen, afleveren en verstrekken, gesteld in de [artikelen 2, aanhef en onder B en C](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=2), en [3, aanhef en onder B en C, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3), gelden niet indien het een homeopathisch geneesmiddel betreft als bedoeld in [artikel 1, eerste lid, onder f, van de Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=1) dat een opiumwetmiddel bevat waarop de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941) betrekking heeft, de farmaceutische vorm van dat product geen hogere concentratie van het middel heeft dan éénmiljoenste deel van de oertinctuur en in de verpakking waarin het product in de handel wordt gebracht niet meer dan 1 microgram van het middel aanwezig is.
 
 ### Hoofdstuk 6. Aangewezen instellingen
 
