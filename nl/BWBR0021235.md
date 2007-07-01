@@ -87,9 +87,3 @@ Wijzigt het Rechtspositiebesluit WPO/WEC.
 Dit besluit treedt in werking op het tijdstip waarop de Wet van 14 december 2005 tot wijziging van onder meer de Wet op het voortgezet onderwijs in verband met verdere decentralisatie van de arbeidsvoorwaarden (Stb. 2006, 19) in werking treedt.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel VIIa. Omhangbepaling
-
-Dit besluit berust op [artikel X van de Wet tot wijziging van enige wetten in verband met de normalisering van de rechtspositie van ambtenaren in het onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0042739&artikel=X).
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
