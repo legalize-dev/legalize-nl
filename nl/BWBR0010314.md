@@ -4,7 +4,7 @@ identifier: "BWBR0010314"
 country: "nl"
 rank: "amvb"
 publication_date: "2021-05-26"
-last_updated: "2006-02-01"
+last_updated: "2007-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010314"
 soort: "AMvB"
@@ -54,7 +54,7 @@ Als wetenschappelijk onderzoek waarvan het onderzoekprotocol een positief oordee
 
 - b. wetenschappelijk onderzoek waarbij levende bestanddelen van een dier of van een foetus of embryo van een dier, dan wel een menselijk bestanddeel dat daarmee doelgericht in aanraking is gebracht, worden in- of aangebracht in of aan het lichaam van een mens;
 
-- c. wetenschappelijk onderzoek waarbij middelen waarop [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=2), of [artikel 3, eerste lid, van de Opiumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3) van toepassing is, in farmaceutische vorm worden voorgeschreven aan personen die aan die middelen zijn verslaafd, in het kader van de behandeling van de verslaving aan die middelen;
+- c. wetenschappelijk onderzoek waarbij middelen waarop [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=2) of [artikel 3 van de Opiumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3) van toepassing is, in farmaceutische vorm worden voorgeschreven aan personen die aan die middelen zijn verslaafd, in het kader van de behandeling van de verslaving aan die middelen;
 
 - d. wetenschappelijk onderzoek met geslachtscellen;
 
