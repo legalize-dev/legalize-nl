@@ -4,7 +4,7 @@ identifier: "BWBR0014814"
 country: "nl"
 rank: "amvb"
 publication_date: "2014-12-13"
-last_updated: "2005-11-30"
+last_updated: "2007-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014814"
 soort: "AMvB"
@@ -68,7 +68,7 @@ Hebben goedgevonden en verstaan:
 
 - c. **richtlijn 2002/46/EG**: [richtlijn nr. 2002/46/EG](32002L0046) van het Europees Parlement en de Raad van de Europese Unie van 10 juni 2002 betreffende de onderlinge aanpassing van de wetgevingen der lidstaten inzake voedingssupplementen (PbEG L 183);
 
-2. Dit besluit is niet van toepassing op geneesmiddelen, bedoeld in [artikel 1, eerste lid, onder e, van de Wet op de Geneesmiddelenvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0002290&artikel=1).
+2. Dit besluit is niet van toepassing op geneesmiddelen als bedoeld in [artikel 1, eerste lid, onder b, van de Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=1).
 
 ##### Artikel 2
 
@@ -124,7 +124,7 @@ De aanduiding **voedingssupplement** mag uitsluitend en moet worden gebezigd voo
 
 - e. een waarschuwing dat voedingssupplementen buiten bereik van jonge kinderen moeten worden bewaard.
 
-2. Bij de vaststelling van de aanbevolen dagelijkse portie wordt rekening gehouden met de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0014814&paragraaf=2&artikel=4&z=2005-11-30&g=2005-11-30) bedoelde hoeveelheden.
+2. Bij de vaststelling van de aanbevolen dagelijkse portie wordt rekening gehouden met de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0014814&paragraaf=2&artikel=4&z=2007-07-01&g=2007-07-01) bedoelde hoeveelheden.
 
 3. Bij voedingssupplementen worden geen vermeldingen gebezigd die beweren of suggereren dat een evenwichtige en gevarieerde voeding in het algemeen geen passende hoeveelheden aan microvoedingsstoffen kan bieden.
 
@@ -154,9 +154,9 @@ Wijzigt Warenwetbesluit bestuurlijke boeten.
 
 1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
 
-2. In afwijking van het eerste lid treden [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014814&paragraaf=1&artikel=2&z=2005-11-30&g=2005-11-30) en [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0014814&paragraaf=4&artikel=8&z=2005-11-30&g=2005-11-30) in werking met ingang van 1 augustus 2005.
+2. In afwijking van het eerste lid treden [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014814&paragraaf=1&artikel=2&z=2007-07-01&g=2007-07-01) en [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0014814&paragraaf=4&artikel=8&z=2007-07-01&g=2007-07-01) in werking met ingang van 1 augustus 2005.
 
-3. [Artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014814&paragraaf=2&artikel=3&z=2005-11-30&g=2005-11-30), vervalt met ingang van 31 december 2009.
+3. [Artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014814&paragraaf=2&artikel=3&z=2007-07-01&g=2007-07-01), vervalt met ingang van 31 december 2009.
 
 ##### Artikel 10
 
