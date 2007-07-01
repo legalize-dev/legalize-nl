@@ -4,7 +4,7 @@ identifier: "BWBR0009669"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-07-01"
-last_updated: "2000-02-14"
+last_updated: "2007-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009669"
 soort: "AMvB"
@@ -72,7 +72,7 @@ Hebben goedgevonden en verstaan:
 
 - g. **%**: massaprocent.
 
-2. De [artikelen 7 tot en met 16](https://wetten.overheid.nl/jci1.3:c:BWBR0009669&paragraaf=3&artikel=7&z=2000-02-14&g=2000-02-14) zijn niet van toepassing op een eetwaar die met een in dit besluit bedoelde aanduiding rechtmatig in het verkeer is gebracht in een andere lid-staat van de Europese Unie of in een andere staat die partij is bij de overeenkomst inzake de Europese Economische Ruimte, voor zover die aanduiding vergezeld gaat van beschrijvende vermeldingen die dicht bij die aanduiding staan, zodat de koper in staat is de aldus geëtiketteerde waar te onderscheiden van in Nederland in het verkeer gebrachte waren waarvoor die aanduiding uitsluitend gebezigd mag worden.
+2. De [artikelen 7 tot en met 16](https://wetten.overheid.nl/jci1.3:c:BWBR0009669&paragraaf=3&artikel=7&z=2007-07-01&g=2007-07-01) zijn niet van toepassing op een eetwaar die met een in dit besluit bedoelde aanduiding rechtmatig in het verkeer is gebracht in een andere lid-staat van de Europese Unie of in een andere staat die partij is bij de overeenkomst inzake de Europese Economische Ruimte, voor zover die aanduiding vergezeld gaat van beschrijvende vermeldingen die dicht bij die aanduiding staan, zodat de koper in staat is de aldus geëtiketteerde waar te onderscheiden van in Nederland in het verkeer gebrachte waren waarvoor die aanduiding uitsluitend gebezigd mag worden.
 
 ##### Artikel 2
 
@@ -80,7 +80,7 @@ Hebben goedgevonden en verstaan:
 
 2. Het is verboden met gebruikmaking van de bij dit besluit aangegeven aanduidingen andere waren te verhandelen dan die waaraan die aanduidingen bij dit besluit zijn voorbehouden.
 
-3. Het is verboden de bij dit besluit bedoelde waren te verhandelen anders dan met inachtneming van [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009669&paragraaf=4&artikel=17&z=2000-02-14&g=2000-02-14).
+3. Het is verboden de bij dit besluit bedoelde waren te verhandelen anders dan met inachtneming van [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009669&paragraaf=4&artikel=17&z=2007-07-01&g=2007-07-01).
 
 #### § 2:. bereiding en samenstelling
 
@@ -193,21 +193,11 @@ Het woord **volkoren** mag onderdeel uitmaken van de aanduiding van een in dit b
 
 ##### Artikel 17
 
-1. De vermelding **ongezouten** of **zoutarm** mag voor een in dit besluit bedoelde waar uitsluitend worden gebezigd, indien bij de bereiding van die waar geen keukenzout of andere ingrediënten die het natuurlijk gehalte aan natrium, kalium, ammonium of chloride verhogen, zijn toegevoegd, met dien verstande dat de waar per 100 gram ten hoogste mag bevatten:
-
-- –. 20 mg natrium;
-
-- –. 600 mg kalium;
-
-- –. 20 mg ammonium; en,
-
-- –. 70 mg chloride.
-
-2. Het [Warenwetbesluit Produkten voor bijzondere voeding](https://wetten.overheid.nl/jci1.3:c:BWBR0005489) is niet van toepassing op een waar die voorzien is van een in het eerste lid bedoelde vermelding, tenzij tevens de vermelding **voor natriumarm dieet** wordt gebezigd.
+Vervallen
 
 ##### Artikel 18
 
-In afwijking van[artikel 5, eerste lid, onder c, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005310&artikel=5), en [artikel 25, eerste lid, van het Warenwetbesluit Etikettering van levensmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0005310&artikel=25) hoeft geen vermelding van de netto-hoeveelheid te worden gebezigd bij de verhandeling van brood dat is aangeduid op de voet van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0009669&paragraaf=3&artikel=14&z=2000-02-14&g=2000-02-14) of [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0009669&paragraaf=3&artikel=15&z=2000-02-14&g=2000-02-14).
+In afwijking van[artikel 5, eerste lid, onder c, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005310&artikel=5), en [artikel 25, eerste lid, van het Warenwetbesluit Etikettering van levensmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0005310&artikel=25) hoeft geen vermelding van de netto-hoeveelheid te worden gebezigd bij de verhandeling van brood dat is aangeduid op de voet van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0009669&paragraaf=3&artikel=14&z=2007-07-01&g=2007-07-01) of [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0009669&paragraaf=3&artikel=15&z=2007-07-01&g=2007-07-01).
 
 #### § 5:. slotbepalingen
 
