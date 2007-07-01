@@ -4,7 +4,7 @@ identifier: "BWBR0020850"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2007-07-01"
-last_updated: "2006-12-30"
+last_updated: "2007-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020850"
 soort: "ministeriele-regeling"
@@ -39,36 +39,30 @@ Gelet op [artikel 1, tweede lid, van het Vacatiegeldenbesluit 1988](https://wett
 
 ##### Artikel 1
 
-Er is een Commissie besluitvorming stemmachines, hierna te noemen: de commissie.
+Vervallen
 
 ##### Artikel 2
 
-De commissie heeft tot taak in kaart te brengen op welke wijze de besluitvorming met betrekking tot de goedkeuring van stemmachines in het verleden tot 22 november 2006, heeft plaatsgevonden en welke lessen daaruit voor het ministerie te trekken zijn.
+Vervallen
 
 ##### Artikel 3
 
-De commissie bestaat uit de volgende leden:
-
-- a. de heer drs L.M.L.H.A. Hermans;
-
-- b. de heer prof. dr. M.J.W. van Twist.
+Vervallen
 
 ##### Artikel 4
 
-1. De commissie brengt haar rapport uit voor 2 april 2007 aan de Minister voor Bestuurlijke Vernieuwing en Koninkrijksrelaties.
-
-2. Na het uitbrengen van haar rapport is de commissie opgeheven.
+Vervallen
 
 ##### Artikel 5
 
-De archiefbescheiden van de commissie worden na haar opheffing of, zo de omstandigheden daartoe eerder aanleiding geven, zoveel eerder, overgebracht naar het archief van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.
+Vervallen
 
 ##### Artikel 6
 
-De leden van de commissie ontvangen een vacatiegeld van € 200 per vergadering.
+Vervallen
 
 ##### Artikel 7
 
-Dit besluit treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin het wordt geplaatst en vervalt met ingang van 1 juli 2007.
+Vervallen
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
