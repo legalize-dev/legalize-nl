@@ -4,7 +4,7 @@ identifier: "BWBR0007867"
 country: "nl"
 rank: "wet"
 publication_date: "2020-03-19"
-last_updated: "2004-05-01"
+last_updated: "2007-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007867"
 soort: "wet"
@@ -49,23 +49,17 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - a. Onze Minister: Onze Minister van Volksgezondheid, Welzijn en Sport;
 
-- b. geneesmiddel: een farmaceutisch specialité of farmaceutisch preparaat in de zin van artikel 1, eerste lid, onder **h**, onderscheidenlijk **i**, van de [Wet op de Geneesmiddelenvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0002290);
+- b. geneesmiddel: een geneesmiddel als bedoeld in [artikel 1, eerste lid, onder b, van de Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=1) waarvoor een handelsvergunning of een parallelhandelsvergunning geldt die is verleend krachtens de [Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505) dan wel krachtens de verordening, bedoeld in [artikel 1, eerste lid, onder fff, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=1), of Verordening (EEG) nr. 2309/93 van de Raad van de Europese Gemeenschappen van 22 juli 1993 tot vaststelling van communautaire procedures voor het verlenen van vergunningen voor en het toezicht op geneesmiddelen voor menselijk en diergeneeskundig gebruik en tot oprichting van een Europees Bureau voor de geneesmiddelenbeoordeling (PbEG L 214);
 
 - c. vergelijkbaar geneesmiddel: een geneesmiddel met dezelfde werkzame bestanddelen, van dezelfde of nagenoeg dezelfde sterkte en in dezelfde farmaceutische vorm als een ander geneesmiddel;
 
-- d. Europese registratieverordening: [Verordening (EEG) nr. 2309/93](31993R2309) van de Raad van de Europese Gemeenschappen van 22 juli 1993 tot vaststelling van communautaire procedures voor het verlenen van vergunningen voor en het toezicht op geneesmiddelen voor menselijk en diergeneeskundig gebruik en tot oprichting van een Europees bureau voor de geneesmiddelenbeoordeling (**PbEG** L 214);
-
-- e. geregistreerd geneesmiddel: een geneesmiddel dat is ingeschreven in het register, bedoeld in [artikel 3 van de Wet op de Geneesmiddelenvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0002290&artikel=3), of voor het in de handel brengen waarvan de Gemeenschap ingevolge de Europese registratieverordening een vergunning heeft afgegeven;
-
-- f. registratie: een inschrijving in het register, bedoeld in [artikel 3, eerste lid, van de Wet op de Geneesmiddelenvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0002290&artikel=3) dan wel een vergunning voor het in de handel brengen van een geneesmiddel, door de Gemeenschap afgegeven ingevolge de Europese registratieverordening;
-
-- g. maximumprijs: de maximumprijs voor een geneesmiddel, vastgesteld krachtens [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0007867&artikel=2&z=2004-05-01&g=2004-05-01).
+- d. maximumprijs: de maximumprijs voor een geneesmiddel, vastgesteld krachtens [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0007867&artikel=2&z=2007-07-01&g=2007-07-01).
 
 2. Bij algemene maatregel van bestuur kan worden bepaald dat farmaceutische vormen in daarbij aangegeven gevallen voor de toepassing van deze wet worden aangemerkt als dezelfde farmaceutische vorm.
 
 ##### Artikel 2
 
-1. Bij ministeriële regeling kan voor een geregistreerd geneesmiddel, waarvan de beschikbaarheid voor een ieder naar het oordeel van Onze Minister door de overheid dient te worden gewaarborgd, een maximumprijs worden vastgesteld. De maximumprijs wordt uitgedrukt in een bedrag per daarbij aan te geven hoeveelheid. Op de voorbereiding van de regeling is [Afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) van toepassing. Het ontwerp van de regeling wordt ten minste vier weken voor de vaststelling overgelegd aan de beide kamers der Staten-Generaal.
+1. Bij ministeriële regeling kan voor een geneesmiddel, waarvan de beschikbaarheid voor een ieder naar het oordeel van Onze Minister door de overheid dient te worden gewaarborgd, een maximumprijs worden vastgesteld. De maximumprijs wordt uitgedrukt in een bedrag per daarbij aan te geven hoeveelheid. Op de voorbereiding van de regeling is [Afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) van toepassing. Het ontwerp van de regeling wordt ten minste vier weken voor de vaststelling overgelegd aan de beide kamers der Staten-Generaal.
 
 2. Voor de vaststelling van een maximumprijs voor een geneesmiddel wordt op basis van bij ministeriële regeling aan te wijzen algemeen aanvaarde prijslijsten voor België, voor de Bondsrepubliek Duitsland, voor Frankrijk en voor het Verenigd Koninkrijk, per land in de daar geldende valuta het rekenkundig gemiddelde vastgesteld van de prijzen van vergelijkbare geneesmiddelen die in die prijslijsten zijn vermeld voor het leveren aan personen, rechtspersonen daaronder begrepen, die bevoegd zijn tot het afleveren van geneesmiddelen aan particuliere gebruikers. Indien in een prijslijst niet de prijzen zijn vermeld voor het leveren aan personen die bevoegd zijn tot het afleveren van geneesmiddelen aan particuliere gebruikers, worden de vermelde prijzen tot zodanige prijzen omgerekend met overeenkomstige toepassing van de hiervoor in dat land geldende regels. Indien voor een geneesmiddel de prijs van meer dan één verpakkingsgrootte is vermeld, wordt slechts in aanmerking genomen de prijs van de verpakking met de laagste prijs per eenheid produkt. Een vermelde prijs wordt voor zover nodig herleid tot een prijs voor de hoeveelheid die zal worden gehanteerd in de in het eerste lid bedoelde regeling.
 
@@ -81,9 +75,9 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 3
 
-1. Ten minste tweemaal per jaar onderzoekt Onze Minister of er aanleiding is de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007867&artikel=2&z=2004-05-01&g=2004-05-01), bedoelde regeling te wijzigen. Zonodig past Onze Minister de regeling binnen 90 dagen na het begin van dit onderzoek aan.
+1. Ten minste tweemaal per jaar onderzoekt Onze Minister of er aanleiding is de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007867&artikel=2&z=2007-07-01&g=2007-07-01), bedoelde regeling te wijzigen. Zonodig past Onze Minister de regeling binnen 90 dagen na het begin van dit onderzoek aan.
 
-2. Voorts kan Onze Minister op verzoek van degene die het geneesmiddel te koop aanbiedt, verkoopt of krachtens verkoop levert aan een persoon, een rechtspersoon daaronder begrepen, die ingevolge de [Wet op de Geneesmiddelenvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0002290) bevoegd is tot het afleveren van geneesmiddelen aan particuliere gebruikers, in bijzondere gevallen besluiten de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007867&artikel=2&z=2004-05-01&g=2004-05-01), bedoelde regeling vastgelegde maximumprijs te wijzigen. De laatste twee volzinnen van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007867&artikel=2&z=2004-05-01&g=2004-05-01), zijn niet van toepassing op een wijziging van de in de ministeriële regeling vastgelegde maximumprijs op grond van dit lid.
+2. Voorts kan Onze Minister op verzoek van degene die het geneesmiddel te koop aanbiedt, verkoopt of krachtens verkoop levert aan een persoon, een rechtspersoon daaronder begrepen, die ingevolge de [Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505) bevoegd is tot het afleveren van geneesmiddelen aan particuliere gebruikers, in bijzondere gevallen besluiten de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007867&artikel=2&z=2007-07-01&g=2007-07-01), bedoelde regeling vastgelegde maximumprijs te wijzigen. De laatste twee volzinnen van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007867&artikel=2&z=2007-07-01&g=2007-07-01), zijn niet van toepassing op een wijziging van de in de ministeriële regeling vastgelegde maximumprijs op grond van dit lid.
 
 3. De aanvraag tot wijziging van de vastgelegde maximumprijs is met redenen omkleed.
 
@@ -95,11 +89,11 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 4
 
-Het is verboden een geneesmiddel tegen een hogere prijs dan de maximumprijs te koop aan te bieden, te verkopen of krachtens verkoop te leveren dan wel een hogere prijs dan de maximumprijs in rekening te brengen aan een persoon, een rechtspersoon daaronder begrepen, die ingevolge de [Wet op de Geneesmiddelenvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0002290) bevoegd is tot het afleveren van geneesmiddelen aan particuliere gebruikers.
+Het is verboden een geneesmiddel tegen een hogere prijs dan de maximumprijs te koop aan te bieden, te verkopen of krachtens verkoop te leveren dan wel een hogere prijs dan de maximumprijs in rekening te brengen aan een persoon, een rechtspersoon daaronder begrepen, die ingevolge de [Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505) bevoegd is tot het afleveren van geneesmiddelen aan particuliere gebruikers.
 
 ##### Artikel 5
 
-1. Een ieder die een geneesmiddel te koop aanbiedt, verkoopt of krachtens verkoop levert aan een persoon, een rechtspersoon daaronder begrepen, die ingevolge de [Wet op de Geneesmiddelenvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0002290) bevoegd is tot het afleveren van geneesmiddelen aan particuliere gebruikers, is verplicht een administratie te voeren, waaruit per transactie blijkt aan wie en tegen welke prijs hij het desbetreffende geneesmiddel heeft verkocht, alsmede de verpakkingsgrootte.
+1. Een ieder die een geneesmiddel te koop aanbiedt, verkoopt of krachtens verkoop levert aan een persoon, een rechtspersoon daaronder begrepen, die ingevolge de [Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505) bevoegd is tot het afleveren van geneesmiddelen aan particuliere gebruikers, is verplicht een administratie te voeren, waaruit per transactie blijkt aan wie en tegen welke prijs hij het desbetreffende geneesmiddel heeft verkocht, alsmede de verpakkingsgrootte.
 
 2. De administratie, bedoeld in het eerste lid, wordt gedurende ten minste drie kalenderjaren na het jaar waarop zij betrekking heeft, bewaard. Indien terzake van een transactie waarop de administratie betrekking heeft, een boete is opgelegd, wordt de administratie bewaard totdat de beschikking tot oplegging van de boete onherroepelijk is geworden.
 
@@ -127,7 +121,7 @@ Vervallen
 
 ##### Artikel 11
 
-1. Onze Minister kan bij beschikking aan degene die handelt in strijd met [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0007867&artikel=4&z=2004-05-01&g=2004-05-01) of 5, ter zake van die overtreding een bestuurlijke boete opleggen van ten hoogste € 45 000.
+1. Onze Minister kan bij beschikking aan degene die handelt in strijd met [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0007867&artikel=4&z=2007-07-01&g=2007-07-01) of 5, ter zake van die overtreding een bestuurlijke boete opleggen van ten hoogste € 45 000.
 
 2. De hoogte van de boete wordt afgestemd op de ernst van de overtreding en de omstandigheden waarin de betrokkene verkeert. Onze Minister legt geen boete op, indien de betrokkene aannemelijk maakt dat hem van de overtreding geen verwijt kan worden gemaakt.
 
@@ -145,7 +139,7 @@ Vervallen
 
 ##### Artikel 12
 
-Indien Onze Minister of een ambtenaar als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007867&artikel=6&z=2004-05-01&g=2004-05-01), jegens betrokkene een handeling verricht, waaraan deze in redelijkheid de gevolgtrekking kan verbinden dat aan hem wegens een bepaald feit een boete zal worden opgelegd, is de betrokkene niet langer verplicht ter zake van dat feit enige verklaring af te leggen. De betrokkene wordt hiervan in kennis gesteld voordat hem mondeling terzake om informatie wordt gevraagd.
+Indien Onze Minister of een ambtenaar als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007867&artikel=6&z=2007-07-01&g=2007-07-01), jegens betrokkene een handeling verricht, waaraan deze in redelijkheid de gevolgtrekking kan verbinden dat aan hem wegens een bepaald feit een boete zal worden opgelegd, is de betrokkene niet langer verplicht ter zake van dat feit enige verklaring af te leggen. De betrokkene wordt hiervan in kennis gesteld voordat hem mondeling terzake om informatie wordt gevraagd.
 
 ##### Artikel 13
 
@@ -163,7 +157,7 @@ Indien Onze Minister of een ambtenaar als bedoeld in [artikel 6, eerste lid](htt
 
 1. De werking van de beschikking waarbij een boete wordt opgelegd, wordt opgeschort totdat de bezwaartermijn is verstreken of, indien bezwaar is gemaakt, op het bezwaar is beslist.
 
-2. Indien de boete niet is betaald binnen de overeenkomstig [artikel 11, derde lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0007867&artikel=11&z=2004-05-01&g=2004-05-01), bepaalde termijn, wordt de betrokkene schriftelijk bevolen binnen twee weken alsnog het bedrag van de boete, verhoogd met de kosten van de aanmaning, te betalen.
+2. Indien de boete niet is betaald binnen de overeenkomstig [artikel 11, derde lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0007867&artikel=11&z=2007-07-01&g=2007-07-01), bepaalde termijn, wordt de betrokkene schriftelijk bevolen binnen twee weken alsnog het bedrag van de boete, verhoogd met de kosten van de aanmaning, te betalen.
 
 3. Bij gebreke van betaling kan Onze Minister de boete, verhoogd met de op de aanmaning en invordering betrekking hebbende kosten, bij dwangbevel invorderen.
 
@@ -179,17 +173,17 @@ Vervallen
 
 ##### Artikel 17
 
-1. In afwijking van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0007867&artikel=8&z=2004-05-01&g=2004-05-01) : 2 van de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) is beroep mogelijk tegen een besluit tot vaststelling van een maximumprijs.
+1. In afwijking van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0007867&artikel=8&z=2007-07-01&g=2007-07-01) : 2 van de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) is beroep mogelijk tegen een besluit tot vaststelling van een maximumprijs.
 
-2. In afwijking van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0007867&artikel=8&z=2004-05-01&g=2004-05-01) : 7 van de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) is voor beroep tegen besluiten op grond van deze wet de rechtbank te 's-Gravenhage bevoegd.
+2. In afwijking van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0007867&artikel=8&z=2007-07-01&g=2007-07-01) : 7 van de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) is voor beroep tegen besluiten op grond van deze wet de rechtbank te 's-Gravenhage bevoegd.
 
 ##### Artikel 18
 
-Onze Minister zendt binnen achttien maanden nadat voor het eerst een regeling als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007867&artikel=2&z=2004-05-01&g=2004-05-01), is vastgesteld, aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
+Onze Minister zendt binnen achttien maanden nadat voor het eerst een regeling als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007867&artikel=2&z=2007-07-01&g=2007-07-01), is vastgesteld, aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
 
 ##### Artikel 19
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip. Zij vervalt met ingang van de eerste dag van het vijfde kalenderjaar na dat waarin voor het laatst een regeling ingevolge [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007867&artikel=2&z=2004-05-01&g=2004-05-01), heeft gegolden.
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip. Zij vervalt met ingang van de eerste dag van het vijfde kalenderjaar na dat waarin voor het laatst een regeling ingevolge [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007867&artikel=2&z=2007-07-01&g=2007-07-01), heeft gegolden.
 
 ##### Artikel 20
 
