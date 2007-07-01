@@ -4,7 +4,7 @@ identifier: "BWBR0002638"
 country: "nl"
 rank: "wet"
 publication_date: "2026-02-04"
-last_updated: "2007-05-04"
+last_updated: "2007-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002638"
 soort: "wet"
@@ -90,9 +90,9 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 1. Voor de toepassing van het bij of krachtens deze wet bepaalde wordt onder werkgever verstaan de persoon, tot wie een werknemer in dienstbetrekking staat.
 
-2. In het geval, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=I&artikel=2&z=2007-05-04&g=2007-05-04), wordt onder werkgever verstaan de persoon, met wie de overeenkomst tot het verlenen van bemiddeling is gesloten.
+2. In het geval, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=I&artikel=2&z=2007-07-01&g=2007-07-01), wordt onder werkgever verstaan de persoon, met wie de overeenkomst tot het verlenen van bemiddeling is gesloten.
 
-3. Ingeval toepassing wordt gegeven aan [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=I&artikel=3&z=2007-05-04&g=2007-05-04), wordt tevens bij of krachtens algemene maatregel van bestuur bepaald wie in de daarbij betrokken gevallen onder werkgever wordt verstaan.
+3. Ingeval toepassing wordt gegeven aan [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=I&artikel=3&z=2007-07-01&g=2007-07-01), wordt tevens bij of krachtens algemene maatregel van bestuur bepaald wie in de daarbij betrokken gevallen onder werkgever wordt verstaan.
 
 ##### Artikel 6
 
@@ -128,7 +128,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 1. Uit de overeenkomst, waarop een dienstbetrekking berust, heeft de werknemer, die de leeftijd van 23 jaar doch niet die van 65 jaar heeft bereikt, voor de arbeid door hem in dien dienstbetrekking verricht, jegens de werkgever aanspraak op een loon ten minste tot het bedrag, bij of krachtens de volgende artikelen onder de benaming minimumloon vastgesteld.
 
-2. Indien daartoe naar Ons oordeel aanleiding bestaat op grond van de ontwikkeling in collectieve arbeidsovereenkomsten ter zake van de leeftijd waarop aanspraak op een loon tenminste tot de in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=II&artikel=8&z=2007-05-04&g=2007-05-04), genoemde bedragen ontstaat, kan bij algemene maatregel van bestuur worden bepaald, dat werknemers beneden de leeftijd van 23 jaar, die de leeftijd van 22 jaar dan wel die de leeftijd van 21 jaar hebben bereikt, eveneens de in het eerste lid bedoelde aanspraak hebben.
+2. Indien daartoe naar Ons oordeel aanleiding bestaat op grond van de ontwikkeling in collectieve arbeidsovereenkomsten ter zake van de leeftijd waarop aanspraak op een loon tenminste tot de in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=II&artikel=8&z=2007-07-01&g=2007-07-01), genoemde bedragen ontstaat, kan bij algemene maatregel van bestuur worden bepaald, dat werknemers beneden de leeftijd van 23 jaar, die de leeftijd van 22 jaar dan wel die de leeftijd van 21 jaar hebben bereikt, eveneens de in het eerste lid bedoelde aanspraak hebben.
 
 3. Bij algemene maatregel van bestuur kan worden bepaald, dat werknemers - dan wel dat werknemers, behorende tot een bij de maatregel aangewezen categorie - beneden de leeftijd van 23 jaar of, zo toepassing is gegeven aan het tweede lid, beneden de krachtens dat lid bepaalde leeftijd, die een bij de maatregel aangewezen lagere leeftijd hebben bereikt, eveneens de in het eerste lid bedoelde aanspraak hebben.
 
@@ -140,15 +140,15 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 1. Het minimumloon bedraagt over elke uitbetalingstermijn van:
 
-- a. een maand of een veelvoud van een maand: € 1264,80 Per 01-01-2007: € 1300,80, onderscheidenlijk een gelijk veelvoud hiervan;
+- a. een maand of een veelvoud van een maand: € 1264,80 Per 01-07-2007: € 1317, onderscheidenlijk een gelijk veelvoud hiervan;
 
-- b. een week of een veelvoud van een week: € 291,90 Per 01-01-2007: € 300,20, onderscheidenlijk een gelijk veelvoud hiervan;
+- b. een week of een veelvoud van een week: € 291,90 Per 01-07-2007: € 303,90, onderscheidenlijk een gelijk veelvoud hiervan;
 
-- c. een andere tijdsduur: € 58,38 Per 01-01-2007: € 60,04 vermenigvuldigd met het aantal van de in die termijn begrepen werkdagen. Onder werkdag wordt verstaan een dag, waarop de werknemer arbeid heeft verricht of waarover hij recht op loon heeft als bedoeld in [artikel 7, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=II&artikel=7&z=2007-05-04&g=2007-05-04).
+- c. een andere tijdsduur: € 58,38 Per 01-07-2007: € 60,78 vermenigvuldigd met het aantal van de in die termijn begrepen werkdagen. Onder werkdag wordt verstaan een dag, waarop de werknemer arbeid heeft verricht of waarover hij recht op loon heeft als bedoeld in [artikel 7, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=II&artikel=7&z=2007-07-01&g=2007-07-01).
 
-2. Waar in deze wet wordt verwezen naar de in het vorige lid genoemde bedragen, worden als zodanig, indien toepassing is gegeven aan [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=II&artikel=14&z=2007-05-04&g=2007-05-04), de daarbij laatstelijk in hun plaats gestelde bedragen aangemerkt.
+2. Waar in deze wet wordt verwezen naar de in het vorige lid genoemde bedragen, worden als zodanig, indien toepassing is gegeven aan [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=II&artikel=14&z=2007-07-01&g=2007-07-01), de daarbij laatstelijk in hun plaats gestelde bedragen aangemerkt.
 
-3. In afwijking van het eerste lid bedraagt het minimumloon voor werknemers aan wie de in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=II&artikel=7&z=2007-05-04&g=2007-05-04), bedoelde aanspraak is toegekend bij een algemene maatregel van bestuur als bedoeld in het derde lid van dat artikel, een bij die maatregel vast te stellen percentage van de in het eerste lid van het onderhavige artikel genoemde bedragen. Dit percentage kan voor naar leeftijd en tak van bedrijf of beroep te onderscheiden categorieën van deze werknemers verschillend zijn.
+3. In afwijking van het eerste lid bedraagt het minimumloon voor werknemers aan wie de in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=II&artikel=7&z=2007-07-01&g=2007-07-01), bedoelde aanspraak is toegekend bij een algemene maatregel van bestuur als bedoeld in het derde lid van dat artikel, een bij die maatregel vast te stellen percentage van de in het eerste lid van het onderhavige artikel genoemde bedragen. Dit percentage kan voor naar leeftijd en tak van bedrijf of beroep te onderscheiden categorieën van deze werknemers verschillend zijn.
 
 ##### Artikel 9
 
@@ -156,7 +156,7 @@ De uitbetaling van het loon aan werknemers, wier dienstbetrekking niet op een ar
 
 ##### Artikel 10
 
-1. Onze Minister kan op verzoek van een werkgever of van een rechtspersoonlijkheid bezittende organisatie van werkgevers of werknemers het minimumloon van tot een door hem aangewezen categorie behorende werknemers in een onderneming dan wel een tak van bedrijf of beroep voor een door hem te bepalen termijn op lagere dan de krachtens [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=II&artikel=8&z=2007-05-04&g=2007-05-04) geldende bedragen vaststellen, indien naar zijn oordeel het voortbestaan van of de omvang der bedrijvigheid in die onderneming dan wel die tak van bedrijf of beroep ernstig wordt bedreigd. Aan deze vaststelling kunnen voorwaarden worden verbonden. Op een verzoek wordt niet beslist, zolang niet is gebleken, dat de verzoeker met de naar het oordeel van Onze Minister representatieve organisaties van werknemers onderscheidenlijk werkgevers ter zake overleg heeft gepleegd.
+1. Onze Minister kan op verzoek van een werkgever of van een rechtspersoonlijkheid bezittende organisatie van werkgevers of werknemers het minimumloon van tot een door hem aangewezen categorie behorende werknemers in een onderneming dan wel een tak van bedrijf of beroep voor een door hem te bepalen termijn op lagere dan de krachtens [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=II&artikel=8&z=2007-07-01&g=2007-07-01) geldende bedragen vaststellen, indien naar zijn oordeel het voortbestaan van of de omvang der bedrijvigheid in die onderneming dan wel die tak van bedrijf of beroep ernstig wordt bedreigd. Aan deze vaststelling kunnen voorwaarden worden verbonden. Op een verzoek wordt niet beslist, zolang niet is gebleken, dat de verzoeker met de naar het oordeel van Onze Minister representatieve organisaties van werknemers onderscheidenlijk werkgevers ter zake overleg heeft gepleegd.
 
 2. Onze Minister kan een besluit van de in het eerste lid bedoelde strekking ten aanzien van tot door hem aangewezen categorieën behorende werknemers, die uitsluitend of in hoofdzaak huishoudelijke of persoonlijke diensten verrichten in de huishouding van natuurlijke personen, ook ambtshalve nemen.
 
@@ -164,11 +164,11 @@ De uitbetaling van het loon aan werknemers, wier dienstbetrekking niet op een ar
 
 ##### Artikel 11
 
-Indien bij publiekrechtelijke regeling of collectieve arbeidsovereenkomst een periode van afrekening, welke meerdere uitbetalingstermijnen omvat, is vastgesteld, wordt zodanige periode van afrekening voor de toepassing van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=II&artikel=8&z=2007-05-04&g=2007-05-04) als uitbetalingstermijn beschouwd. Een periode van afrekening kan ten hoogste twaalf maanden omvatten.
+Indien bij publiekrechtelijke regeling of collectieve arbeidsovereenkomst een periode van afrekening, welke meerdere uitbetalingstermijnen omvat, is vastgesteld, wordt zodanige periode van afrekening voor de toepassing van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=II&artikel=8&z=2007-07-01&g=2007-07-01) als uitbetalingstermijn beschouwd. Een periode van afrekening kan ten hoogste twaalf maanden omvatten.
 
 ##### Artikel 12
 
-1. Indien werkgever en werknemer een arbeidsduur zijn overeengekomen, welke korter is dan de normale arbeidsduur, wordt het bedrag, dat krachtens de[artikelen 8-11](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=II&artikel=8&z=2007-05-04&g=2007-05-04) voor de werknemer als minimumloon geldt, naar evenredigheid verminderd.
+1. Indien werkgever en werknemer een arbeidsduur zijn overeengekomen, welke korter is dan de normale arbeidsduur, wordt het bedrag, dat krachtens de[artikelen 8-11](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=II&artikel=8&z=2007-07-01&g=2007-07-01) voor de werknemer als minimumloon geldt, naar evenredigheid verminderd.
 
 2. Onder normale arbeidsduur wordt verstaan de arbeidsduur die in overeenkomstige arbeidsverhoudingen in de regel geacht wordt een volledige dienstbetrekking te vormen.
 
@@ -182,21 +182,21 @@ Vervallen
 
 ##### Artikel 14
 
-1. Het bedrag, genoemd in [artikel 8, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=II&artikel=8&z=2007-05-04&g=2007-05-04), wordt telkens met ingang van 1 januari door Onze Minister herzien overeenkomstig:
+1. Het bedrag, genoemd in [artikel 8, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=II&artikel=8&z=2007-07-01&g=2007-07-01), wordt telkens met ingang van 1 januari door Onze Minister herzien overeenkomstig:
 
 - a. de helft van de ontwikkeling van de contractlonen zoals deze voor het betrokken jaar, blijkens bekendmaking in de Macro-Economische Verkenningen in het voorafgaande jaar, is geraamd; en
 
 - b. het verschil tussen de ontwikkeling van de contractlonen zoals deze voor het voorafgaande jaar, blijkens bekendmaking in het Centraal Economisch Plan in dat jaar, was geraamd en de ontwikkeling van de contractlonen zoals deze voor het voorafgaande jaar, blijkens bekendmaking in de Macro-Economische Verkenningen in dat jaar, nader is geraamd.
 
-2. Het bedrag, genoemd in [artikel 8, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=II&artikel=8&z=2007-05-04&g=2007-05-04), wordt telkens met ingang van 1 juli door Onze Minister opnieuw herzien overeenkomstig het verschil tussen de helft van de ontwikkeling van de contractlonen zoals deze voor het betrokken jaar, blijkens bekendmaking in de Macro-Economische Verkenningen in het voorafgaande jaar, was geraamd en de ontwikkeling van de contractlonen zoals deze voor het betrokken jaar, blijkens bekendmaking in het Centraal Economisch Plan in dat jaar, nader is geraamd.
+2. Het bedrag, genoemd in [artikel 8, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=II&artikel=8&z=2007-07-01&g=2007-07-01), wordt telkens met ingang van 1 juli door Onze Minister opnieuw herzien overeenkomstig het verschil tussen de helft van de ontwikkeling van de contractlonen zoals deze voor het betrokken jaar, blijkens bekendmaking in de Macro-Economische Verkenningen in het voorafgaande jaar, was geraamd en de ontwikkeling van de contractlonen zoals deze voor het betrokken jaar, blijkens bekendmaking in het Centraal Economisch Plan in dat jaar, nader is geraamd.
 
 3. Voor de toepassing van het eerste en tweede lid wordt onder ontwikkeling van de contractlonen verstaan: het gemiddelde van de procentuele ontwikkeling van de contractlonen in marktsector, gepremieerde en gesubsidieerde sector, en bij de overheid, zoals deze door het Centraal Planbureau wordt bekend gemaakt.
 
-4. Indien de toepassing van het eerste, dan wel het tweede lid zou leiden tot verlaging van het bedrag, genoemd in [artikel 8, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=II&artikel=8&z=2007-05-04&g=2007-05-04), wordt dat bedrag ongewijzigd vastgesteld. Voor zover hierdoor geen toepassing wordt gegeven aan het eerste, dan wel het tweede lid wordt het daarmee gemoeide percentage bij de eerstvolgende herziening en voor zover nodig tevens bij de daarop volgende herzieningen, alsnog in aanmerking genomen.
+4. Indien de toepassing van het eerste, dan wel het tweede lid zou leiden tot verlaging van het bedrag, genoemd in [artikel 8, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=II&artikel=8&z=2007-07-01&g=2007-07-01), wordt dat bedrag ongewijzigd vastgesteld. Voor zover hierdoor geen toepassing wordt gegeven aan het eerste, dan wel het tweede lid wordt het daarmee gemoeide percentage bij de eerstvolgende herziening en voor zover nodig tevens bij de daarop volgende herzieningen, alsnog in aanmerking genomen.
 
-5. Het bedrag, genoemd in [artikel 8, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=II&artikel=8&z=2007-05-04&g=2007-05-04), kan met ingang van 1 januari en van 1 juli bij algemene maatregel van bestuur in afwijking van het eerste tot en met het vierde lid worden vastgesteld, naar gelang sprake is van een bovenmatige loonontwikkeling zodanig dat hiervan schade voor de werkgelegenheid kan worden verwacht dan wel van een zodanige volume-ontwikkeling in de sociale zekerheidsregelingen dat daardoor een betekenende premie- of belastingdrukverhoging noodzakelijk is.
+5. Het bedrag, genoemd in [artikel 8, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=II&artikel=8&z=2007-07-01&g=2007-07-01), kan met ingang van 1 januari en van 1 juli bij algemene maatregel van bestuur in afwijking van het eerste tot en met het vierde lid worden vastgesteld, naar gelang sprake is van een bovenmatige loonontwikkeling zodanig dat hiervan schade voor de werkgelegenheid kan worden verwacht dan wel van een zodanige volume-ontwikkeling in de sociale zekerheidsregelingen dat daardoor een betekenende premie- of belastingdrukverhoging noodzakelijk is.
 
-6. Indien per 1 januari toepassing is gegeven aan het vijde lid, blijft per 1 juli van hetzelfde jaar de toepassing van het tweede lid achterwege. Indien echter inmiddels gebleken is dat de grond voor de toepassing van het vijfde lid niet langer aanwezig is, wordt het bedrag, genoemd in [artikel 8, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=II&artikel=8&z=2007-05-04&g=2007-05-04), met ingang van 1 juli van hetzelfde jaar alsnog door Onze Minister herzien overeenkomstig het verschil tussen de ontwikkeling van de contractlonen zoals deze voor het betrokken jaar, blijkens bekendmaking in het Centraal Economisch Plan in dat jaar, is geraamd en de herziening die per 1 januari heeft plaatsgevonden.
+6. Indien per 1 januari toepassing is gegeven aan het vijde lid, blijft per 1 juli van hetzelfde jaar de toepassing van het tweede lid achterwege. Indien echter inmiddels gebleken is dat de grond voor de toepassing van het vijfde lid niet langer aanwezig is, wordt het bedrag, genoemd in [artikel 8, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=II&artikel=8&z=2007-07-01&g=2007-07-01), met ingang van 1 juli van hetzelfde jaar alsnog door Onze Minister herzien overeenkomstig het verschil tussen de ontwikkeling van de contractlonen zoals deze voor het betrokken jaar, blijkens bekendmaking in het Centraal Economisch Plan in dat jaar, is geraamd en de herziening die per 1 januari heeft plaatsgevonden.
 
 7. Indien per 1 juli toepassing wordt gegeven aan het vijfde lid dan wel het zesde lid, eerste volzin, toepassing heeft gevonden, blijft per 1 januari van het eerstvolgende jaar de toepassing van het eerste lid, onder b, achterwege.
 
@@ -204,17 +204,17 @@ Vervallen
 
 9. Het overeenkomstig het eerste tot en met het vierde en het zesde lid herziene bedrag wordt afgerond op het dichtstbijzijnde veelvoud van € 0,60. Indien het restbedrag € 0,30 bedraagt, geschiedt de afronding naar boven.
 
-10. Bij een herziening overeenkomstig het eerste tot en met het zesde lid worden tevens de bedragen, genoemd in [artikel 8, eerste lid, onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=II&artikel=8&z=2007-05-04&g=2007-05-04), herzien en wel in dier voege, dat het onder b genoemde bedrag wordt gesteld op 3/13 en het onder c genoemde bedrag op 3/65 van het herziene bedrag.
+10. Bij een herziening overeenkomstig het eerste tot en met het zesde lid worden tevens de bedragen, genoemd in [artikel 8, eerste lid, onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=II&artikel=8&z=2007-07-01&g=2007-07-01), herzien en wel in dier voege, dat het onder b genoemde bedrag wordt gesteld op 3/13 en het onder c genoemde bedrag op 3/65 van het herziene bedrag.
 
-11. De overeenkomstig het eerste tot en met het zesde en het tiende lid herziene bedragen treden in de plaats van de bedragen, genoemd in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=II&artikel=8&z=2007-05-04&g=2007-05-04), met dien verstande dat de afronding, bedoeld in het negende lid, bij de eerstvolgende herziening buiten beschouwing blijft.
+11. De overeenkomstig het eerste tot en met het zesde en het tiende lid herziene bedragen treden in de plaats van de bedragen, genoemd in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=II&artikel=8&z=2007-07-01&g=2007-07-01), met dien verstande dat de afronding, bedoeld in het negende lid, bij de eerstvolgende herziening buiten beschouwing blijft.
 
-12. Indien te voorzien valt dat een algemene maatregel van bestuur als bedoeld in het vijfde lid niet tijdig voor 1 januari respectievelijk 1 juli tot stand zal kunnen komen, kan Onze Minister bepalen dat de laatstelijk vastgestelde bedragen, genoemd in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=II&artikel=8&z=2007-05-04&g=2007-05-04), nog gedurende een bij zijn besluit vast te stellen periode van ten hoogste drie maanden van kracht blijven en kan een algemene maatregel van bestuur in aansluiting op die periode worden vastgesteld.
+12. Indien te voorzien valt dat een algemene maatregel van bestuur als bedoeld in het vijfde lid niet tijdig voor 1 januari respectievelijk 1 juli tot stand zal kunnen komen, kan Onze Minister bepalen dat de laatstelijk vastgestelde bedragen, genoemd in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=II&artikel=8&z=2007-07-01&g=2007-07-01), nog gedurende een bij zijn besluit vast te stellen periode van ten hoogste drie maanden van kracht blijven en kan een algemene maatregel van bestuur in aansluiting op die periode worden vastgesteld.
 
-13. Onze Minister gaat telkens na verloop van een termijn van ten hoogste vier jaar, voor het eerst uiterlijk in 1994, na of er omstandigheden aanwezig zijn die een bijzondere wijziging wenselijk maken van de bedragen, genoemd in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=II&artikel=8&z=2007-05-04&g=2007-05-04). Bij algemene maatregel van bestuur kunnen vervolgens bedragen worden vastgesteld die in de plaats treden van de bedragen, genoemd in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=II&artikel=8&z=2007-05-04&g=2007-05-04). Het achtste lid is van overeenkomstige toepassing.
+13. Onze Minister gaat telkens na verloop van een termijn van ten hoogste vier jaar, voor het eerst uiterlijk in 1994, na of er omstandigheden aanwezig zijn die een bijzondere wijziging wenselijk maken van de bedragen, genoemd in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=II&artikel=8&z=2007-07-01&g=2007-07-01). Bij algemene maatregel van bestuur kunnen vervolgens bedragen worden vastgesteld die in de plaats treden van de bedragen, genoemd in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=II&artikel=8&z=2007-07-01&g=2007-07-01). Het achtste lid is van overeenkomstige toepassing.
 
-14. Het bedrag, genoemd in [artikel 8, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=II&artikel=8&z=2007-05-04&g=2007-05-04), wordt bij algemene maatregel van bestuur verlaagd in de mate waarin en met ingang van het tijdstip waarop de minimumvakantiebijslag met toepassing van [artikel 15, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=III&artikel=15&z=2007-05-04&g=2007-05-04), wordt verhoogd. Het negende, tiende en elfde lid zijn van overeenkomstige toepassing. Wanneer een verlaging op grond van dit lid samenvalt met een bijzondere wijziging op grond van het dertiende lid, worden de in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=II&artikel=8&z=2007-05-04&g=2007-05-04), genoemde bedragen in één algemene maatregel van bestuur opnieuw vastgesteld en is tevens het achtste lid van overeenkomstige toepassing.
+14. Het bedrag, genoemd in [artikel 8, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=II&artikel=8&z=2007-07-01&g=2007-07-01), wordt bij algemene maatregel van bestuur verlaagd in de mate waarin en met ingang van het tijdstip waarop de minimumvakantiebijslag met toepassing van [artikel 15, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=III&artikel=15&z=2007-07-01&g=2007-07-01), wordt verhoogd. Het negende, tiende en elfde lid zijn van overeenkomstige toepassing. Wanneer een verlaging op grond van dit lid samenvalt met een bijzondere wijziging op grond van het dertiende lid, worden de in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=II&artikel=8&z=2007-07-01&g=2007-07-01), genoemde bedragen in één algemene maatregel van bestuur opnieuw vastgesteld en is tevens het achtste lid van overeenkomstige toepassing.
 
-15. Wanneer een bijzondere wijziging of een verlaging op grond van het dertiende en veertiende lid samenvalt met een toepassing van het eerste tot en met het zesde en het tiende lid, worden de in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=II&artikel=8&z=2007-05-04&g=2007-05-04), genoemde bedragen in één algemene maatregel van bestuur opnieuw vastgesteld, met dien verstande dat in dat geval voor de toepassing van het eerste tot en met het zesde en het tiende lid wordt uitgegaan van de op grond van het dertiende en veertiende lid herziene bedragen.
+15. Wanneer een bijzondere wijziging of een verlaging op grond van het dertiende en veertiende lid samenvalt met een toepassing van het eerste tot en met het zesde en het tiende lid, worden de in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=II&artikel=8&z=2007-07-01&g=2007-07-01), genoemde bedragen in één algemene maatregel van bestuur opnieuw vastgesteld, met dien verstande dat in dat geval voor de toepassing van het eerste tot en met het zesde en het tiende lid wordt uitgegaan van de op grond van het dertiende en veertiende lid herziene bedragen.
 
 ### Hoofdstuk III. Minimumvakantiebijslag
 
@@ -222,25 +222,25 @@ Vervallen
 
 1. Uit de overeenkomst, waarop een dienstbetrekking berust, heeft de werknemer jegens de werkgever aanspraak op een vakantiebijslag ten minste tot een bedrag van 8% van zijn ten laste van de werkgever komende loon, alsmede van de uitkeringen waarop hij tijdens de dienstbetrekking krachtens de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888), [hoofdstuk 3, afdeling 2, paragraaf 1, van de Wet arbeid en zorg](onbekend) en de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) aanspraak heeft, met dien verstande, dat het bedrag waarmede de som van dit loon en deze uitkeringen het drievoud van het minimumloon overschrijdt buiten beschouwing blijft.
 
-2. De in het eerste lid bedoelde som wordt geacht het drievoud van het minimumloon te overschrijden indien deze over de uitbetalingstermijn, liggende in het tijdvak waarover de aanspraak op vakantiebijslag bestaat, gemiddeld meer bedraagt dan het drievoud van het in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=II&artikel=8&z=2007-05-04&g=2007-05-04) genoemde bedrag van het minimumloon.
+2. De in het eerste lid bedoelde som wordt geacht het drievoud van het minimumloon te overschrijden indien deze over de uitbetalingstermijn, liggende in het tijdvak waarover de aanspraak op vakantiebijslag bestaat, gemiddeld meer bedraagt dan het drievoud van het in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=II&artikel=8&z=2007-07-01&g=2007-07-01) genoemde bedrag van het minimumloon.
 
 3. Beloningen die de werknemer voor arbeid, door hem in de dienstbetrekking verricht, van derden ontvangt, worden, voor zover zij deel uitmaken van de arbeidsvoorwaarden, voor de toepassing van de voorgaande leden geacht ten laste van de werkgever komend loon te zijn.
 
-4. Gelijktijdig met de toepassing van [artikel 14, dertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=II&artikel=14&z=2007-05-04&g=2007-05-04), gaat Onze Minister na of de ontwikkeling van het niveau van de in collectieve arbeidsovereenkomsten overeengekomen vakantiebijslag een verhoging van de minimumvakantiebijslag wenselijk maakt. Bij algemene maatregel van bestuur kan vervolgens het percentage, genoemd in het eerste lid, en dienovereenkomstig het percentage, genoemd in [artikel 16, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=III&artikel=16&z=2007-05-04&g=2007-05-04), worden verhoogd; daarbij kan tevens een minimum-bedrag worden vastgesteld voor de aanspraak van de werknemer jegens zijn werkgever ingevolge het eerste lid.
+4. Gelijktijdig met de toepassing van [artikel 14, dertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=II&artikel=14&z=2007-07-01&g=2007-07-01), gaat Onze Minister na of de ontwikkeling van het niveau van de in collectieve arbeidsovereenkomsten overeengekomen vakantiebijslag een verhoging van de minimumvakantiebijslag wenselijk maakt. Bij algemene maatregel van bestuur kan vervolgens het percentage, genoemd in het eerste lid, en dienovereenkomstig het percentage, genoemd in [artikel 16, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=III&artikel=16&z=2007-07-01&g=2007-07-01), worden verhoogd; daarbij kan tevens een minimum-bedrag worden vastgesteld voor de aanspraak van de werknemer jegens zijn werkgever ingevolge het eerste lid.
 
 ##### Artikel 16
 
-1. Behoudens het bij het tweede, derde en vierde lid bepaalde kan bij publiekrechtelijke regeling of collectieve arbeidsovereenkomst worden bepaald, dat de werknemer geen aanspraak heeft op vakantiebijslag dan wel aanspraak heeft op een lager bedrag aan vakantiebijslag dan uit [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=III&artikel=15&z=2007-05-04&g=2007-05-04) voortvloeit.
+1. Behoudens het bij het tweede, derde en vierde lid bepaalde kan bij publiekrechtelijke regeling of collectieve arbeidsovereenkomst worden bepaald, dat de werknemer geen aanspraak heeft op vakantiebijslag dan wel aanspraak heeft op een lager bedrag aan vakantiebijslag dan uit [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=III&artikel=15&z=2007-07-01&g=2007-07-01) voortvloeit.
 
 2. Indien de som van het loon, waarop de werknemer op 1 juni van enig jaar over het daaraan voorafgaande tijdvak van een jaar aanspraak heeft verworven, en de vakantiebijslag, voor zover de werknemer daarop over dat tijdvak aanspraak heeft verworven, minder bedraagt dan 108% van het bedrag, waarop de werknemer over dat tijdvak als minimumloon aanspraak heeft verworven, heeft de werknemer over dat tijdvak bovendien aanspraak op een bedrag aan vakantiebijslag ter grootte van het bedrag waarmee genoemde 108% eerdergenoemde som te boven gaat.
 
 3. Voor zover de werknemer over een tijdvak als bedoeld in het tweede lid aanspraak op uitkeringen krachtens de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888), [hoofdstuk 3, afdeling 2, paragraaf 1, van de Wet arbeid en zorg](onbekend) en de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) tijdens dienstbetrekking heeft verworven, heeft de werknemer over deze uitkeringen jegens de werkgever aanspraak op een zodanig bedrag aan vakantiebijslag, dat dit bedrag vermeerderd met die uitkeringen ten minste 108% bedraagt van het bedrag waarop de werknemer over dit tijdvak aan uitkeringen krachtens de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888), [hoofdstuk 3, afdeling 2, paragraaf 1, van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&paragraaf=1) en de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) berekend over het minimumloon, aanspraak heeft of zou hebben verworven.
 
-4. Ingeval toepassing is gegeven aan [artikel 15, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=III&artikel=15&z=2007-05-04&g=2007-05-04), heeft de werknemer over een tijdvak als bedoeld in het tweede lid tenminste aanspraak op een zodanig bedrag aan vakantiebijslag dat dit bedrag vermeerderd met het loon, respectievelijk de uitkeringen krachtens de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888), [hoofdstuk 3, afdeling 2, paragraaf 1, van de Wet arbeid en zorg](onbekend) en de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), waarop de werknemer over dat tijdvak aanspraak heeft verworven, niet lager is dan de som van het krachtens [artikel 15, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=III&artikel=15&z=2007-05-04&g=2007-05-04), vastgestelde minimumbedrag en het minimumloon, respectievelijk de uitkeringen krachtens de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888), [hoofdstuk 3, afdeling 2, paragraaf 1, van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&paragraaf=1) en de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) berekend over het minimumloon, waarop de werknemer over dat tijdvak aanspraak heeft of zou hebben verworven.
+4. Ingeval toepassing is gegeven aan [artikel 15, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=III&artikel=15&z=2007-07-01&g=2007-07-01), heeft de werknemer over een tijdvak als bedoeld in het tweede lid tenminste aanspraak op een zodanig bedrag aan vakantiebijslag dat dit bedrag vermeerderd met het loon, respectievelijk de uitkeringen krachtens de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888), [hoofdstuk 3, afdeling 2, paragraaf 1, van de Wet arbeid en zorg](onbekend) en de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), waarop de werknemer over dat tijdvak aanspraak heeft verworven, niet lager is dan de som van het krachtens [artikel 15, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=III&artikel=15&z=2007-07-01&g=2007-07-01), vastgestelde minimumbedrag en het minimumloon, respectievelijk de uitkeringen krachtens de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888), [hoofdstuk 3, afdeling 2, paragraaf 1, van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&paragraaf=1) en de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) berekend over het minimumloon, waarop de werknemer over dat tijdvak aanspraak heeft of zou hebben verworven.
 
-5. Ingeval het door de werkgever en werknemer overeengekomen loon het drievoud van het minimumloon overschrijdt, kan ook bij schriftelijke overeenkomst worden bepaald, dat de werknemer geen aanspraak heeft op vakantiebijslag dan wel aanspraak heeft op een lager bedrag aan vakantiebijslag. [Artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=III&artikel=15&z=2007-05-04&g=2007-05-04), is van overeenkomstige toepassing.
+5. Ingeval het door de werkgever en werknemer overeengekomen loon het drievoud van het minimumloon overschrijdt, kan ook bij schriftelijke overeenkomst worden bepaald, dat de werknemer geen aanspraak heeft op vakantiebijslag dan wel aanspraak heeft op een lager bedrag aan vakantiebijslag. [Artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=III&artikel=15&z=2007-07-01&g=2007-07-01), is van overeenkomstige toepassing.
 
-6. Ingeval de werkgever die jegens zijn werknemers verplicht is tot toepassing van een publiekrechtelijke regeling of collectieve arbeidsovereenkomst, dan wel algemeen verbindend verklaarde bepalingen van een collectieve arbeidsovereenkomst, waarbij op grond van het eerste lid is afgeweken van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=III&artikel=15&z=2007-05-04&g=2007-05-04), tevens werknemers in dienst heeft jegens wie die verplichting niet bestaat, kan ten aanzien van laatstbedoelde werknemers bij schriftelijke overeenkomst op overeenkomstige wijze van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=III&artikel=15&z=2007-05-04&g=2007-05-04) worden afgeweken.
+6. Ingeval de werkgever die jegens zijn werknemers verplicht is tot toepassing van een publiekrechtelijke regeling of collectieve arbeidsovereenkomst, dan wel algemeen verbindend verklaarde bepalingen van een collectieve arbeidsovereenkomst, waarbij op grond van het eerste lid is afgeweken van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=III&artikel=15&z=2007-07-01&g=2007-07-01), tevens werknemers in dienst heeft jegens wie die verplichting niet bestaat, kan ten aanzien van laatstbedoelde werknemers bij schriftelijke overeenkomst op overeenkomstige wijze van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=III&artikel=15&z=2007-07-01&g=2007-07-01) worden afgeweken.
 
 7. Indien de werknemer ingevolge enige wettelijke bepaling uit de overeenkomst, waarop de dienstbetrekking berust, recht heeft op loon over een periode, waarin hij geen arbeid verricht, worden de uitkeringen krachtens de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888), [hoofdstuk 3, afdeling 2, paragraaf 1, van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&paragraaf=1) en de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), waarmede het loon ingevolge die bepaling wordt verminderd, voor de toepassing van dit artikel geacht ten laste van de werkgever komend loon te zijn.
 
@@ -254,7 +254,7 @@ Vervallen
 
 ##### Artikel 18
 
-1. Indien hierin bij publiekrechtelijke regeling of collectieve arbeidsovereenkomst is voorzien, kan de werkgever aan zijn verplichtingen tegenover de werknemer betreffende de vakantiebijslag voldoen hetzij door aan de werknemer vakantiebonnen over te dragen ten laste van een fonds, hetzij door betaling van de vakantiebijslag aan een fonds ten laste waarvan de werknemer de aanspraak op vakantiebijslag verwerft, mits het bedrag, waarop de werknemer door deze overdracht onderscheidenlijk deze betaling, op dat fonds aanspraak verwerft, niet lager ligt dan het bedrag, waarop de werknemer krachtens de[artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=III&artikel=15&z=2007-05-04&g=2007-05-04) en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=III&artikel=16&z=2007-05-04&g=2007-05-04) aanspraak heeft.
+1. Indien hierin bij publiekrechtelijke regeling of collectieve arbeidsovereenkomst is voorzien, kan de werkgever aan zijn verplichtingen tegenover de werknemer betreffende de vakantiebijslag voldoen hetzij door aan de werknemer vakantiebonnen over te dragen ten laste van een fonds, hetzij door betaling van de vakantiebijslag aan een fonds ten laste waarvan de werknemer de aanspraak op vakantiebijslag verwerft, mits het bedrag, waarop de werknemer door deze overdracht onderscheidenlijk deze betaling, op dat fonds aanspraak verwerft, niet lager ligt dan het bedrag, waarop de werknemer krachtens de[artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=III&artikel=15&z=2007-07-01&g=2007-07-01) en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=III&artikel=16&z=2007-07-01&g=2007-07-01) aanspraak heeft.
 
 2. Een fonds als bedoeld in het eerste lid dient te zijn ingericht overeenkomstig de voorwaarden, gesteld krachtens [artikel 631, derde lid onder **c**, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=631).
 
@@ -266,7 +266,7 @@ Met het toezicht op de naleving van deze wet en daarop berustende bepalingen zij
 
 ##### Artikel 18b
 
-1. Als beboetbaar feit wordt aangemerkt het door een werkgever niet of onvoldoende nakomen van de op hem op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=II&artikel=7&z=2007-05-04&g=2007-05-04) rustende verplichting aangaande het voldoen van hetgeen in [hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=II&z=2007-05-04&g=2007-05-04) is aangeduid als minimumloon alsmede het door de werkgever niet of onvoldoende nakomen van de op hem op grond van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=III&artikel=15&z=2007-05-04&g=2007-05-04) rustende verplichting.
+1. Als beboetbaar feit wordt aangemerkt het door een werkgever niet of onvoldoende nakomen van de op hem op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=II&artikel=7&z=2007-07-01&g=2007-07-01) rustende verplichting aangaande het voldoen van hetgeen in [hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=II&z=2007-07-01&g=2007-07-01) is aangeduid als minimumloon alsmede het door de werkgever niet of onvoldoende nakomen van de op hem op grond van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=III&artikel=15&z=2007-07-01&g=2007-07-01) rustende verplichting.
 
 2. Als beboetbaar feit wordt tevens aangemerkt het door de werkgever niet of onvoldoende kunnen overleggen van enige schriftelijke bescheiden waaruit de aard van de arbeidsrelatie, het door hem betaalde loon of de door hem betaalde vakantiebijslag of het aantal gewerkte uren blijkt van een in zijn onderneming, bedrijf of inrichting aangetroffen persoon.
 
@@ -292,7 +292,7 @@ Bedingen, die strijdig zijn met het bij of krachtens deze wet bepaalde, zijn nie
 
 ##### Artikel 20
 
-Ieder vorderingsrecht tot betaling van vakantiebijslag als bedoeld in [Hoofdstuk III](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=III&z=2007-05-04&g=2007-05-04) verjaart na verloop van twee jaren na het tijdstip, waarop de uitbetaling had moeten geschieden.
+Ieder vorderingsrecht tot betaling van vakantiebijslag als bedoeld in [Hoofdstuk III](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=III&z=2007-07-01&g=2007-07-01) verjaart na verloop van twee jaren na het tijdstip, waarop de uitbetaling had moeten geschieden.
 
 ##### Artikel 21
 
@@ -318,7 +318,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ##### Artikel 23a
 
-[Artikel 6, eerste lid, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=I&artikel=6&z=2007-05-04&g=2007-05-04), zoals dat onderdeel luidde op 31 december 2002, blijft tot en met het kalenderjaar 2007 van toepassing op na 31 december 2002 toegekende spaarpremies of voorlopig bijgeschreven spaarpremies ter zake van voor 1 januari 2003 ingehouden besparingen op de voet van een premiespaarregeling als bedoeld in [artikel 31a van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=31a), zoals dat artikel luidde op 31 december 2002.
+[Artikel 6, eerste lid, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=I&artikel=6&z=2007-07-01&g=2007-07-01), zoals dat onderdeel luidde op 31 december 2002, blijft tot en met het kalenderjaar 2007 van toepassing op na 31 december 2002 toegekende spaarpremies of voorlopig bijgeschreven spaarpremies ter zake van voor 1 januari 2003 ingehouden besparingen op de voet van een premiespaarregeling als bedoeld in [artikel 31a van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=31a), zoals dat artikel luidde op 31 december 2002.
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
@@ -328,7 +328,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ##### Artikel 18d
 
-1. Indien een daartoe aangewezen ambtenaar als bedoeld in [artikel 18a](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=IV&paragraaf=1&artikel=18a&z=2007-05-04&g=2007-05-04) vaststelt dat een beboetbaar feit is begaan, maakt hij daarvan een rapport op.
+1. Indien een daartoe aangewezen ambtenaar als bedoeld in [artikel 18a](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=IV&paragraaf=1&artikel=18a&z=2007-07-01&g=2007-07-01) vaststelt dat een beboetbaar feit is begaan, maakt hij daarvan een rapport op.
 
 2. Het rapport is gedagtekend en vermeldt in ieder geval:
 
@@ -342,7 +342,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 3. Indien een ambtenaar als bedoeld in het eerste lid jegens de bij het beboetbare feit betrokken persoon een handeling verricht waaraan deze in redelijkheid de gevolgtrekking kan verbinden dat jegens hem wegens het begaan van een beboetbaar feit een rapport als bedoeld in het eerste lid zal worden opgemaakt, is die persoon niet langer verplicht terzake enige verklaring af te leggen. De in de eerste zin bedoelde persoon wordt hiervan in kennis gesteld alvorens hem mondeling om informatie wordt gevraagd.
 
-4. Het rapport wordt toegezonden aan de op grond van [artikel 18e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=IV&paragraaf=2&artikel=18e&z=2007-05-04&g=2007-05-04), aangewezen ambtenaar.
+4. Het rapport wordt toegezonden aan de op grond van [artikel 18e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=IV&paragraaf=2&artikel=18e&z=2007-07-01&g=2007-07-01), aangewezen ambtenaar.
 
 5. Gelijktijdig met de toezending, bedoeld in het vierde lid, wordt het rapport in afschrift toegezonden of uitgereikt aan de persoon of personen, bedoeld in het tweede lid, onderdeel d.
 
@@ -360,17 +360,17 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ##### Artikel 18f
 
-1. Indien de op grond van [artikel 18e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=IV&paragraaf=2&artikel=18e&z=2007-05-04&g=2007-05-04), aangewezen ambtenaar voornemens is om de natuurlijke persoon of rechtspersoon door wie een beboetbaar feit is begaan een boete op te leggen, wordt deze hiervan in kennis gesteld onder vermelding van de gronden waarop het voornemen berust.
+1. Indien de op grond van [artikel 18e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=IV&paragraaf=2&artikel=18e&z=2007-07-01&g=2007-07-01), aangewezen ambtenaar voornemens is om de natuurlijke persoon of rechtspersoon door wie een beboetbaar feit is begaan een boete op te leggen, wordt deze hiervan in kennis gesteld onder vermelding van de gronden waarop het voornemen berust.
 
-2. In afwijking van [afdeling 4.1.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.1.2) stelt de op grond van [artikel 18e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=IV&paragraaf=2&artikel=18e&z=2007-05-04&g=2007-05-04), aangewezen ambtenaar binnen een door hem te bepalen termijn de persoon, bedoeld in het eerste lid, in de gelegenheid om naar keuze schriftelijk of mondeling zijn zienswijze naar voren te brengen alvorens de boete wordt opgelegd.
+2. In afwijking van [afdeling 4.1.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.1.2) stelt de op grond van [artikel 18e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=IV&paragraaf=2&artikel=18e&z=2007-07-01&g=2007-07-01), aangewezen ambtenaar binnen een door hem te bepalen termijn de persoon, bedoeld in het eerste lid, in de gelegenheid om naar keuze schriftelijk of mondeling zijn zienswijze naar voren te brengen alvorens de boete wordt opgelegd.
 
-3. Indien de persoon, bedoeld in het tweede lid, zijn zienswijze mondeling naar voren brengt en hij de Nederlandse taal onvoldoende begrijpt, zorgt de op grond van [artikel 18e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=IV&paragraaf=2&artikel=18e&z=2007-05-04&g=2007-05-04), aangewezen ambtenaar, op diens verzoek ervoor dat een tolk wordt benoemd die hem kan bijstaan, tenzij redelijkerwijs kan worden aangenomen dat daaraan geen behoefte bestaat.
+3. Indien de persoon, bedoeld in het tweede lid, zijn zienswijze mondeling naar voren brengt en hij de Nederlandse taal onvoldoende begrijpt, zorgt de op grond van [artikel 18e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=IV&paragraaf=2&artikel=18e&z=2007-07-01&g=2007-07-01), aangewezen ambtenaar, op diens verzoek ervoor dat een tolk wordt benoemd die hem kan bijstaan, tenzij redelijkerwijs kan worden aangenomen dat daaraan geen behoefte bestaat.
 
 ##### Artikel 18g
 
 1. De boete, die ten hoogste voor een beboetbaar feit kan worden opgelegd, is gelijk aan de geldsom van ten hoogste € 6 700,–, behoudens het tweede lid.
 
-2. De op grond van [artikel 18e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=IV&paragraaf=2&artikel=18e&z=2007-05-04&g=2007-05-04), aangewezen ambtenaar verhoogt de op te leggen boete met 50%, indien op de dag van het constateren van het beboetbare feit nog geen 24 maanden zijn verstreken nadat een eerder beboetbaar feit bestaande uit het niet naleven van eenzelfde wettelijke verplichting is geconstateerd en de boete wegens het eerdere beboetbare feit onherroepelijk is geworden.
+2. De op grond van [artikel 18e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=IV&paragraaf=2&artikel=18e&z=2007-07-01&g=2007-07-01), aangewezen ambtenaar verhoogt de op te leggen boete met 50%, indien op de dag van het constateren van het beboetbare feit nog geen 24 maanden zijn verstreken nadat een eerder beboetbaar feit bestaande uit het niet naleven van eenzelfde wettelijke verplichting is geconstateerd en de boete wegens het eerdere beboetbare feit onherroepelijk is geworden.
 
 3. Onze Minister stelt beleidsregels vast waarin onder meer de boetebedragen voor ieder beboetbaar feit worden vastgesteld.
 
@@ -378,7 +378,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ##### Artikel 18h
 
-1. Een boete wordt opgelegd bij beschikking van de op grond van [artikel 18e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=IV&paragraaf=2&artikel=18e&z=2007-05-04&g=2007-05-04), aangewezen ambtenaar.
+1. Een boete wordt opgelegd bij beschikking van de op grond van [artikel 18e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=IV&paragraaf=2&artikel=18e&z=2007-07-01&g=2007-07-01), aangewezen ambtenaar.
 
 2. In de beschikking wordt in ieder geval vermeld:
 
@@ -392,7 +392,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 - e. de termijn waarbinnen de boete moet worden betaald.
 
-3. De beschikking wordt gegeven binnen 13 weken na dagtekening van het rapport, bedoeld in [artikel 18d](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=IV&paragraaf=2&artikel=18d&z=2007-05-04&g=2007-05-04).
+3. De beschikking wordt gegeven binnen 13 weken na dagtekening van het rapport, bedoeld in [artikel 18d](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=IV&paragraaf=2&artikel=18d&z=2007-07-01&g=2007-07-01).
 
 4. Op verzoek van de in het tweede lid, onderdelen c en d, bedoelde persoon die de inhoud van de beschikking wegens zijn gebrekkige kennis van de Nederlandse taal onvoldoende begrijpt, zorgt de ambtenaar, bedoeld in het eerste lid, er zoveel mogelijk voor dat de in die beschikking vermelde informatie aan hem wordt medegedeeld in een voor hem begrijpelijke taal.
 
@@ -404,27 +404,27 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ##### Artikel 18j
 
-1. De boete wordt betaald binnen 6 weken nadat de beschikking, bedoeld in [artikel 18h](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=IV&paragraaf=2&artikel=18h&z=2007-05-04&g=2007-05-04), is bekendgemaakt.
+1. De boete wordt betaald binnen 6 weken nadat de beschikking, bedoeld in [artikel 18h](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=IV&paragraaf=2&artikel=18h&z=2007-07-01&g=2007-07-01), is bekendgemaakt.
 
-2. Degene aan wie een boete is opgelegd, verstrekt desgevraagd aan de daartoe op grond van [artikel 18e eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=IV&paragraaf=2&artikel=18e&z=2007-05-04&g=2007-05-04), aangewezen ambtenaar de inlichtingen die redelijkerwijs voor de tenuitvoerlegging van de boete nodig zijn.
+2. Degene aan wie een boete is opgelegd, verstrekt desgevraagd aan de daartoe op grond van [artikel 18e eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=IV&paragraaf=2&artikel=18e&z=2007-07-01&g=2007-07-01), aangewezen ambtenaar de inlichtingen die redelijkerwijs voor de tenuitvoerlegging van de boete nodig zijn.
 
 3. Bij overlijden van degene aan wie een boete is opgelegd, vervalt de opgelegde boete voor zover de geldsom nog niet is geïnd.
 
 ##### Artikel 18k
 
-1. Bij gebreke van betaling maant de op grond van [artikel 18e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=IV&paragraaf=2&artikel=18e&z=2007-05-04&g=2007-05-04), aangewezen ambtenaar degene aan wie de boete is opgelegd schriftelijk aan binnen een termijn van 2 weken alsnog aan zijn verplichtingen te voldoen. De verschuldigde boete wordt verhoogd met de kosten die op de aanmaning betrekking hebben.
+1. Bij gebreke van betaling maant de op grond van [artikel 18e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=IV&paragraaf=2&artikel=18e&z=2007-07-01&g=2007-07-01), aangewezen ambtenaar degene aan wie de boete is opgelegd schriftelijk aan binnen een termijn van 2 weken alsnog aan zijn verplichtingen te voldoen. De verschuldigde boete wordt verhoogd met de kosten die op de aanmaning betrekking hebben.
 
-2. De aanmaning bevat de aanzegging, dat de boete, voor zover deze binnen de in de aanmaning gestelde termijn niet wordt voldaan, wordt ingevorderd overeenkomstig [artikel 18l](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=IV&paragraaf=2&artikel=18l&z=2007-05-04&g=2007-05-04).
+2. De aanmaning bevat de aanzegging, dat de boete, voor zover deze binnen de in de aanmaning gestelde termijn niet wordt voldaan, wordt ingevorderd overeenkomstig [artikel 18l](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=IV&paragraaf=2&artikel=18l&z=2007-07-01&g=2007-07-01).
 
 ##### Artikel 18l
 
-1. Bij gebreke van betaling vordert de op grond van [artikel 18e](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=IV&paragraaf=2&artikel=18e&z=2007-05-04&g=2007-05-04), eerste lid, aangewezen ambtenaar van degene aan wie de boete is opgelegd de verschuldigde boete, verhoogd met de op de aanmaning en invordering betrekking hebbende kosten, bij dwangbevel in.
+1. Bij gebreke van betaling vordert de op grond van [artikel 18e](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=IV&paragraaf=2&artikel=18e&z=2007-07-01&g=2007-07-01), eerste lid, aangewezen ambtenaar van degene aan wie de boete is opgelegd de verschuldigde boete, verhoogd met de op de aanmaning en invordering betrekking hebbende kosten, bij dwangbevel in.
 
 2. Het dwangbevel wordt op kosten van de degene aan wie de boete is opgelegd bij deurwaardersexploot betekend en levert een executoriale titel op in de zin van [Boek 2 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede).
 
 3. Gedurende 6 weken na de dag van betekening van het dwangbevel staat verzet tegen het dwangbevel open door dagvaarding van de Staat.
 
-4. Het verzet kan niet worden gegrond op de stelling dat de beschikking, bedoeld in [artikel 18h](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=IV&paragraaf=2&artikel=18h&z=2007-05-04&g=2007-05-04), niet is ontvangen of dat de bij die beschikking opgelegde boete ten onrechte of op een te hoge geldsom is vastgesteld.
+4. Het verzet kan niet worden gegrond op de stelling dat de beschikking, bedoeld in [artikel 18h](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=IV&paragraaf=2&artikel=18h&z=2007-07-01&g=2007-07-01), niet is ontvangen of dat de bij die beschikking opgelegde boete ten onrechte of op een te hoge geldsom is vastgesteld.
 
 5. Het verzet schorst de tenuitvoerlegging niet, tenzij de voorzieningenrechter desgevraagd anders beslist.
 
@@ -436,7 +436,7 @@ Indien een boete ten onrechte is opgelegd, wordt de betaalde geldsom, vermeerder
 
 ##### Artikel 18n
 
-1. Een daartoe door Onze Minister aangewezen onder hem ressorterende ambtenaar kan een werkgever die de op hem op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=II&artikel=7&z=2007-05-04&g=2007-05-04) rustende verplichting aangaande het voldoen van hetgeen in [hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=II&z=2007-05-04&g=2007-05-04) is aangeduid als minimumloon niet of onvoldoende nakomt alsmede een werkgever de op hem op grond van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=III&artikel=15&z=2007-05-04&g=2007-05-04) rustende verplichting niet of onvoldoende nakomt een last onder dwangsom opleggen.
+1. Een daartoe door Onze Minister aangewezen onder hem ressorterende ambtenaar kan een werkgever die de op hem op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=II&artikel=7&z=2007-07-01&g=2007-07-01) rustende verplichting aangaande het voldoen van hetgeen in [hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=II&z=2007-07-01&g=2007-07-01) is aangeduid als minimumloon niet of onvoldoende nakomt alsmede een werkgever de op hem op grond van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=III&artikel=15&z=2007-07-01&g=2007-07-01) rustende verplichting niet of onvoldoende nakomt een last onder dwangsom opleggen.
 
 2. Een bestuurlijke boete en een last onder dwangsom kunnen tezamen worden opgelegd.
 
