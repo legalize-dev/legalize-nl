@@ -4,7 +4,7 @@ identifier: "BWBR0008927"
 country: "nl"
 rank: "amvb"
 publication_date: "2023-01-01"
-last_updated: "1997-12-01"
+last_updated: "2007-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008927"
 soort: "AMvB"
@@ -54,9 +54,9 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder:
 
-- a. geneesmiddel: geneesmiddel als bedoeld in [artikel 1, eerste lid, onder **e**, van de Wet op de Geneesmiddelenvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0002290&artikel=1);
+- a. geneesmiddel: een geneesmiddel als bedoeld in [artikel 1, eerste lid, onder b, van de Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=1);
 
-- b. medisch hulpmiddel: medisch hulpmiddel als bedoeld in [artikel 1, eerste lid, onder **a**, van de Wet op de medische hulpmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002697&artikel=1).
+- b. medisch hulpmiddel: medisch hulpmiddel als bedoeld in [artikel 1, eerste lid, onder a, van de Wet op de medische hulpmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002697&artikel=1).
 
 #### § 2. Titel
 
@@ -68,7 +68,7 @@ Het recht tot het voeren van de titel van apothekersassistent is voorbehouden aa
 
 ##### Artikel 3
 
-Tot het gebied van deskundigheid van de apothekersassistent wordt gerekend het, onder toezicht van een apotheker of van een apotheekhoudende arts, uitoefenen van de artsenijbereidkunst, omvattende zowel het bereiden en afleveren van geneesmiddelen als het beheren daarvan, het afleveren en beheren van medische hulpmiddelen, alsmede het geven van farmaceutische adviezen.
+Tot het gebied van deskundigheid van de apothekersassistent wordt gerekend het, onder toezicht van een apotheker of van een apotheekhoudende huisarts, bereiden, ter hand stellen en beheren van geneesmiddelen, het afleveren en beheren van medische hulpmiddelen, alsmede het geven van farmaceutische adviezen.
 
 #### § 4. Slotbepalingen
 
