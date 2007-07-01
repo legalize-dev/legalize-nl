@@ -4,7 +4,7 @@ identifier: "BWBR0008763"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2007-01-01"
+last_updated: "2007-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008763"
 soort: "AMvB"
@@ -230,7 +230,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 - d. afkoopsommen op grond van de [Liquidatiewet ongevallenwetten](https://wetten.overheid.nl/jci1.3:c:BWBR0002553);
 
-- e. verhogingen op grond van [artikel 10 van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=10), [artikel 9 van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=9) of [artikel 22 van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=22) voorzover het bedrag van de verhoging niet hoger is dan het in [artikel 6.24, tweede lid, onderdeel a, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.24) genoemde drempelbedrag voor buitengewone uitgaven vóór toepassing van de in die bepaling genoemde correcties op dat bedrag.
+- e. verhogingen op grond van [artikel 10 van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=10), [artikel 9 van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=9) of [artikel 22 van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=22) voorzover het bedrag van de verhoging niet hoger is dan het in [artikel 6.24, tweede lid, onderdeel a, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.24) genoemde drempelbedrag voor buitengewone uitgaven.
 
 2. Indien sprake is van een nabetaling die over de berekeningsjaren waarop deze nabetaling betrekking heeft gemiddeld meer dan € 2300 per jaar bedraagt, vindt het eerste lid, onderdeel b, uitsluitend toepassing indien over de berekeningsjaren waarop de nabetaling betrekking heeft minder huurtoeslag zou worden genoten dan indien de betrokken inkomsten niet als nabetaling zouden zijn uitbetaald.
 
@@ -238,9 +238,9 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 2c
 
-1. Een verzoek als bedoeld in de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008763&hoofdstuk=2&artikel=2&z=2007-01-01&g=2007-01-01), [2a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008763&hoofdstuk=2&artikel=2a&z=2007-01-01&g=2007-01-01), en [2b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008763&hoofdstuk=2&artikel=2b&z=2007-01-01&g=2007-01-01), kan worden gedaan tot het tijdstip dat de toekenning van de huurtoeslag over het desbetreffende berekeningsjaar onherroepelijk is geworden.
+1. Een verzoek als bedoeld in de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008763&hoofdstuk=2&artikel=2&z=2007-07-01&g=2007-07-01), [2a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008763&hoofdstuk=2&artikel=2a&z=2007-07-01&g=2007-07-01), en [2b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008763&hoofdstuk=2&artikel=2b&z=2007-07-01&g=2007-07-01), kan worden gedaan tot het tijdstip dat de toekenning van de huurtoeslag over het desbetreffende berekeningsjaar onherroepelijk is geworden.
 
-2. Een verzoek als bedoeld in de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008763&hoofdstuk=2&artikel=2&z=2007-01-01&g=2007-01-01), [2a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008763&hoofdstuk=2&artikel=2a&z=2007-01-01&g=2007-01-01), en [2b, eerste lid, onderdelen c en e](https://wetten.overheid.nl/jci1.3:c:BWBR0008763&hoofdstuk=2&artikel=2b&z=2007-01-01&g=2007-01-01), wordt geacht mede te zijn gedaan voor op het berekeningsjaar volgende berekeningsjaren.
+2. Een verzoek als bedoeld in de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008763&hoofdstuk=2&artikel=2&z=2007-07-01&g=2007-07-01), [2a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008763&hoofdstuk=2&artikel=2a&z=2007-07-01&g=2007-07-01), en [2b, eerste lid, onderdelen c en e](https://wetten.overheid.nl/jci1.3:c:BWBR0008763&hoofdstuk=2&artikel=2b&z=2007-07-01&g=2007-07-01), wordt geacht mede te zijn gedaan voor op het berekeningsjaar volgende berekeningsjaren.
 
 ### Hoofdstuk 3. Onzelfstandige woonruimte
 
