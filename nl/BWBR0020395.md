@@ -4,7 +4,7 @@ identifier: "BWBR0020395"
 country: "nl"
 rank: "wet"
 publication_date: "2007-07-01"
-last_updated: "2007-03-01"
+last_updated: "2007-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020395"
 soort: "wet"
@@ -57,7 +57,7 @@ Wijzigt de Wet overdracht en tenuitvoerlegging strafvonnissen.
 
 ##### Artikel IV
 
-[Artikel I, onderdelen C tot en met DD, met uitzondering van onderdeel V](https://wetten.overheid.nl/jci1.3:c:BWBR0020395&artikel=I&z=2007-03-01&g=2007-03-01), is niet van toepassing in zaken waarin in eerste aanleg vonnis is gewezen vóór het tijdstip van inwerkingtreding van deze wet. [Artikel I, onderdeel V](https://wetten.overheid.nl/jci1.3:c:BWBR0020395&artikel=I&z=2007-03-01&g=2007-03-01), is niet van toepassing in zaken waarin in hoger beroep arrest is gewezen vóór het tijdstip van inwerkingtreding van deze wet.
+[Artikel I, onderdelen C tot en met DD, met uitzondering van onderdeel V](https://wetten.overheid.nl/jci1.3:c:BWBR0020395&artikel=I&z=2007-07-01&g=2007-07-01), is niet van toepassing in zaken waarin in eerste aanleg vonnis is gewezen vóór het tijdstip van inwerkingtreding van deze wet. [Artikel I, onderdeel V](https://wetten.overheid.nl/jci1.3:c:BWBR0020395&artikel=I&z=2007-07-01&g=2007-07-01), is niet van toepassing in zaken waarin in hoger beroep arrest is gewezen vóór het tijdstip van inwerkingtreding van deze wet.
 
 ##### Artikel V
 
