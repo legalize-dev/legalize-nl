@@ -4,7 +4,7 @@ identifier: "BWBR0008895"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "1997-12-01"
+last_updated: "2007-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008895"
 soort: "AMvB"
@@ -56,13 +56,13 @@ In dit besluit wordt verstaan onder:
 
 - a. wet: de [Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251);
 
-- b. geneesmiddel: een geneesmiddel als bedoeld in [artikel 1, eerste lid, onder **e**, van de Wet op de Geneesmiddelenvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0002290&artikel=1);
+- a. geneesmiddel: een geneesmiddel als bedoeld in [artikel 1, eerste lid, onder b, van de Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=1);
 
-- c. medisch hulpmiddel: medisch hulpmiddel als bedoeld in [artikel 1, eerste lid, onder **a**, van de Wet op de medische hulpmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002697&artikel=1).
+- c. medisch hulpmiddel: medisch hulpmiddel als bedoeld in [artikel 1, eerste lid, onder a, van de Wet op de medische hulpmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002697&artikel=1).
 
 ##### Artikel 2
 
-Om in het krachtens [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008895&paragraaf=2&artikel=3&z=1997-12-01&g=1997-12-01) van de wet ingestelde register van apothekers te kunnen worden ingeschreven, is vereist het bezit van een door een universiteit als bedoeld in [hoofdstuk 7 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7) uitgereikt getuigschrift waaruit blijkt dat de betrokkene met goed gevolg het examen heeft afgelegd ter afsluiting van een opleiding tot apotheker die voldoet aan [de artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008895&paragraaf=2&artikel=3&z=1997-12-01&g=1997-12-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0008895&paragraaf=2&artikel=4&z=1997-12-01&g=1997-12-01) van dit besluit.
+Om in het krachtens [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008895&paragraaf=2&artikel=3&z=2007-07-01&g=2007-07-01) van de wet ingestelde register van apothekers te kunnen worden ingeschreven, is vereist het bezit van een door een universiteit als bedoeld in [hoofdstuk 7 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7) uitgereikt getuigschrift waaruit blijkt dat de betrokkene met goed gevolg het examen heeft afgelegd ter afsluiting van een opleiding tot apotheker die voldoet aan [de artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008895&paragraaf=2&artikel=3&z=2007-07-01&g=2007-07-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0008895&paragraaf=2&artikel=4&z=2007-07-01&g=2007-07-01) van dit besluit.
 
 #### § 2. Opleidingseisen
 
