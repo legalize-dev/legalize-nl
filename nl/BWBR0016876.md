@@ -364,7 +364,3 @@ Deze wet treedt in werking op een bij wet te bepalen tijdstip.
 Deze wet wordt aangehaald als: Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-#### § 3. Overgangsrecht en slotbepalingen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
