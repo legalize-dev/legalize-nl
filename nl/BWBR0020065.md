@@ -4,7 +4,7 @@ identifier: "BWBR0020065"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2007-07-01"
-last_updated: "2006-07-01"
+last_updated: "2007-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020065"
 soort: "ministeriele-regeling"
@@ -42,7 +42,9 @@ Besluit:
 
 ##### Artikel 1. Afwijking vaststelling datum genoemd in het [Besluit eenmalige herbeoordelingen arbeidsongeschiktheidswetten](https://wetten.overheid.nl/jci1.3:c:BWBR0017207)
 
-In afwijking van [artikel 1, eerste lid, onderdeel b, van het Besluit eenmalige herbeoordelingen arbeidsongeschiktheidswetten](https://wetten.overheid.nl/jci1.3:c:BWBR0017207&artikel=1) wordt de aanvangsdatum van de in dat onderdeel genoemde periode vastgesteld op: 1 juli 2006.
+1. In afwijking van [artikel 1, eerste lid, onderdeel b, van het Besluit eenmalige herbeoordelingen arbeidsongeschiktheidswetten](https://wetten.overheid.nl/jci1.3:c:BWBR0017207&artikel=1) wordt de aanvangsdatum van de in dat onderdeel genoemde periode vastgesteld op 1 juli 2006 en wordt de einddatum van de in dat onderdeel genoemde periode vastgesteld op 1 juli 2009.
+
+2. In afwijking van [artikel 1, eerste lid, onderdeel a, van het Besluit eenmalige herbeoordelingen arbeidsongeschiktheidswetten](https://wetten.overheid.nl/jci1.3:c:BWBR0017207&artikel=1) wordt de einddatum van de in dat onderdeel genoemde periode vastgesteld op 1 juli 2009.
 
 ##### Artikel 2. Inwerkingtreding
 
