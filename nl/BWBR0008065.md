@@ -4,7 +4,7 @@ identifier: "BWBR0008065"
 country: "nl"
 rank: "amvb"
 publication_date: "2014-11-14"
-last_updated: "2007-05-30"
+last_updated: "2007-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008065"
 soort: "AMvB"
@@ -72,7 +72,9 @@ Hebben goedgevonden en verstaan:
 
 - e. **aanbevolen dagelijkse hoeveelheid**: de hoeveelheid micro-voedingsstof die per dag geconsumeerd moet worden om een gezonde voorziening van het menselijk organisme met die stof te verzekeren;
 
-- f. **redelijk geachte dagconsumptie**: de totale hoeveelheid van een eet- of drinkwaar die doorgaans op een dag geconsumeerd wordt.
+- f. **redelijk geachte dagconsumptie**: de totale hoeveelheid van een eet- of drinkwaar die doorgaans op een dag geconsumeerd wordt;
+
+- g. **verordening (EG) 1925/2006**: verordening (EG) nr. 1925/2006 van het Europees Parlement en de Raad van de Europese Unie van 20 december 2006 betreffende de toevoeging van vitaminen en mineralen en bepaalde andere stoffen aan levensmiddelen (PbEU L 404).
 
 2. Dit besluit is niet van toepassing op eet- of drinkwaren waaraan uitsluitend uit technologische overwegingen één of meer micro-voedingsstoffen zijn toegevoegd.
 
@@ -80,9 +82,7 @@ Hebben goedgevonden en verstaan:
 
 1. Het is verboden verrijkte eet- of drinkwaren te bereiden of te verhandelen, die niet voldoen aan de eisen, bij dit besluit gesteld met betrekking tot hun samenstelling.
 
-2. Het is verboden verrijkte eet- of drinkwaren te verhandelen anders dan met inachtneming van de voorschriften, bij dit besluit gesteld met betrekking tot hun aanduiding.
-
-3. Het is verboden verrijkte eet- of drinkwaren te verhandelen anders dan met inachtneming van de voorschriften bij dit besluit gesteld met betrekking tot het bezigen van vermeldingen of voorstellingen betreffende de aard, samenstelling en eigenschappen van de waar, en de uitwerking die de waar bij gebruik kan hebben op de gezondheid van de mens.
+2. Het is verboden te handelen in strijd met de bij of krachtens de artikelen 3, eerste lid, 4, 5, 6, eerste en zesde lid, 7, eerste, tweede, derde en zesde lid, en 8, tweede lid, onder a, en zesde lid, van verordening (EG) 1925/2006 gestelde voorschriften.
 
 ##### Artikel 3
 
@@ -92,7 +92,7 @@ In verrijkte eet- of drinkwaren zijn geen micro-voedingsstoffen aanwezig in hoev
 
 ##### Artikel 4
 
-Bij de bereiding van een verrijkte eet- of drinkwaar wordt geen gebruik gemaakt van andere dan de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008065&bijlage=1&z=2007-05-30&g=2007-05-30) genoemde micro-voedingsstoffen.
+In afwijking van artikel 3, eerste lid, van verordening (EG) 1925/2006 mag bij de bereiding van een verrijkte eet- of drinkwaar tevens gebruik worden gemaakt van de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008065&bijlage=1&z=2007-07-01&g=2007-07-01) genoemde micro-voedingsstoffen.
 
 ##### Artikel 5
 
@@ -104,21 +104,17 @@ Aan de in de bijlage, bij [verordening (EG) nr. 2991/94](31994R2991) van de Raad
 
 ##### Artikel 6
 
-1. De in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008065&bijlage=2&z=2007-05-30&g=2007-05-30) genoemde vitamines en de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008065&bijlage=3&z=2007-05-30&g=2007-05-30) genoemde mineralen worden slechts in zodanige hoeveelheden toegevoegd aan een verrijkte eet- of drinkwaar, dat het totaal aanwezige gehalte in een redelijk geachte dagconsumptie van die waar ten minste 15% en ten hoogste 100% van de in die bijlage vermelde aanbevolen dagelijkse hoeveelheid bedraagt.
+1. De in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008065&bijlage=2&z=2007-07-01&g=2007-07-01) genoemde vitamines en de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008065&bijlage=3&z=2007-07-01&g=2007-07-01) genoemde mineralen worden slechts in zodanige hoeveelheden toegevoegd aan een verrijkte eet- of drinkwaar, dat het totaal aanwezige gehalte in een redelijk geachte dagconsumptie van die waar ten minste 15% en ten hoogste 100% van de in die bijlage vermelde aanbevolen dagelijkse hoeveelheid bedraagt.
 
 2. De in het eerste lid bedoelde hoeveelheden zijn niet van toepassing voor zover het een substitutie-produkt of een gerestaureerde eet- of drinkwaar betreft.
 
 ##### Artikel 7
 
-Ten aanzien van een verrijkte eet- of drinkwaar vindt voedingswaarde-etikettering plaats zoals bedoeld in [artikel 3, eerste lid, van het Warenwetbesluit Voedingswaarde-informatie levensmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0006135&artikel=3). Bij deze voedingswaarde-etikettering wordt tevens een vermelding gebezigd van het gehalte van alle toegevoegde micro-voedingsstoffen, voor zover het geen substitutie-produkt of een gerestaureerde eet- of drinkwaar betreft.
+Vervallen
 
 ##### Artikel 8
 
-1. In de aanduiding van een verrijkte eet- of drinkwaar, niet zijnde een substitutie-produkt of een gerestaureerde eet- of drinkwaar, blijkt de verrijking uitsluitend door de opname van het zinsdeel «met toegevoegde voedingsstoffen (vitamines en mineralen)» dan wel van een gelijkwaardige zinsnede in een andere voor de consument begrijpelijke taal. Deze zinsnede wordt opgenomen indien ten aanzien van de waar een bewering inzake de voedingswaarde wordt gebezigd zoals bedoeld in [artikel 1, eerste lid, onder f, van het Warenwetbesluit Voedingswaardeinformatie levensmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0006135&artikel=1).
-
-2. In de aanduiding van een gerestaureerde eet- of drinkwaar of een substitutie-produkt blijkt de toevoeging van micro-voedingsstoffen uitsluitend door de opname van het zinsdeel «met toegevoegde voedingsstoffen (vitamines en mineralen) tot het oorspronkelijke gehalte», of voor zover het een substitutie-produkt betreft van het zinsdeel «met toegevoegde voedingsstoffen (vitamines en mineralen) tot het gehalte in het te vervangen produkt» dan wel van gelijkwaardige zinsnedes in een andere voor de consument begrijpelijke taal.
-
-3. Ten aanzien van een verrijkte eet- of drinkwaar wordt geen vermelding gebezigd waaruit zou kunnen worden afgeleid dat een evenwichtige voeding op basis van niet-verrijkte eet- of drinkwaren niet alle micro-voedingsstoffen in de juiste hoeveelheid kan verschaffen.
+Vervallen
 
 ##### Artikel 9
 
@@ -136,8 +132,6 @@ In de navolgende eet- en drinkwaren mogen jodiumverbindingen aanwezig zijn, met 
 
 - c. in vleesproducten, bedoeld in het [Warenwetbesluit Vlees, gehakt en vleesproducten](https://wetten.overheid.nl/jci1.3:c:BWBR0009675), uitsluitend door de toevoeging aan die waren van gejodeerd nitrietpekelzout met een gehalte van ten minste 20 en ten hoogste 30 mg jodium in de vorm van uitsluitend jodaat per kg nitrietpekelzout.
 
-[Artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008065&paragraaf=2&artikel=8&z=2007-05-30&g=2007-05-30), is op deze waren niet van toepassing.
-
 #### § 3:. slotbepalingen
 
 ##### Artikel 10
@@ -152,7 +146,7 @@ Wijzigt het Warenwetbesluit Produkten voor bijzondere voeding.
 
 1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin het wordt geplaatst.
 
-2. In afwijking van het eerste lid treden, voor wat betreft de toevoeging van mineralen, de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0008065&paragraaf=2&artikel=6&z=2007-05-30&g=2007-05-30), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0008065&paragraaf=2&artikel=7&z=2007-05-30&g=2007-05-30), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0008065&paragraaf=2&artikel=8&z=2007-05-30&g=2007-05-30) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0008065&paragraaf=2&artikel=9&z=2007-05-30&g=2007-05-30) in werking vierentwintig maanden na het in dat lid bedoelde tijdstip.
+2. In afwijking van het eerste lid treden, voor wat betreft de toevoeging van mineralen, de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0008065&paragraaf=2&artikel=6&z=2007-07-01&g=2007-07-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0008065&paragraaf=2&artikel=7&z=2007-07-01&g=2007-07-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0008065&paragraaf=2&artikel=8&z=2007-07-01&g=2007-07-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0008065&paragraaf=2&artikel=9&z=2007-07-01&g=2007-07-01) in werking vierentwintig maanden na het in dat lid bedoelde tijdstip.
 
 ##### Artikel 13
 
@@ -186,6 +180,73 @@ De in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008065&pa
 ## Bijlage 3. Deze bijlage behoort bij artikel 6, eerste lid.
 
 De in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008065&paragraaf=2&artikel=6&z=2007-05-30&g=2007-05-30), bedoelde mineralen en hun aanbevolen dagelijkse hoeveelheid zijn de navolgende:
+
+| Calcium | (mg) | 800 |
+| --- | --- | --- |
+| Magnesium | (mg) | 300 |
+| IJzer | (mg) | 14 |
+| Mangaan | (mg) | 5 |
+| Fosfor | (mg) | 800 |
+| Chroom | (mcg) | 125 |
+| Molybdeen | (mcg) | 160 |
+| Natrium | (mg) | 2000 |
+| Kalium | (mg) | 3100 |
+| Chloride | (mg) | 2000 |
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
+
+##### Artikel 3a
+
+Onze Minister kan nadere regels stellen inzake de toevoeging van vitaminen, mineralen en bepaalde andere stoffen aan levensmiddelen, voor zover die noodzakelijk zijn voor de goede uitvoering van de bij of krachtens verordening (EG) 1925/2006 gestelde voorschriften.
+
+#### § 2:. toevoegen van micro-voedingsstoffen aan levensmiddelen
+
+#### § 2a. specifieke toevoegingen
+
+#### § 3:. slotbepalingen
+
+## Bijlage 1. Deze bijlage behoort bij [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008065&paragraaf=2&artikel=4&z=2007-07-01&g=2007-07-01)
+
+De in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008065&paragraaf=2&artikel=4&z=2007-07-01&g=2007-07-01) bedoelde micro-voedingsstoffen zijn de navolgende:
+
+| **1. Vitamines** |   |   |
+| --- | --- | --- |
+| **Vitamine** |   | **Toegelaten verbindingen** |
+| Vitamine A |   | caroteenmengels met pro-vitamine A activiteit |
+|   |   |   |
+| **2. Mineralen** |   |   |
+| **Mineralen** |   | **Toegelaten zouten** |
+| Seleen (Se) |   | selenomethionine |
+|   |   | selenocysteïne |
+|   |   | selenocystine |
+| Natrium (Na) |   | natriumchloride |
+| Fosfor (P) |   | fosforzuur |
+|   |   | fosfaten, pyrofosfaten en orthofosforzuurverbindingen genoemd bij de overige voedingsstoffen |
+| Chroom (Cr) |   | chromium (III) citraat |
+|   |   | chromium (III) gluconaat |
+|   |   | chromium (III) picolinaat |
+| Molybdeen (Mo) |   | kalium molybdaat (VI). |
+
+## Bijlage 2. Deze bijlage behoort bij artikel 6, eerste lid.
+
+De in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008065&paragraaf=2&artikel=6&z=2007-07-01&g=2007-07-01), bedoelde vitamines en hun aanbevolen dagelijkse hoeveelheid zijn de navolgende:
+
+| Vitamine A | (RE) | 800 |
+| --- | --- | --- |
+| Vitamine B1 | (mg) | 1,4 |
+| Vitamine B2 | (mg) | 1,6 |
+| Niacine | (mg) | 18 |
+| Vitamine B6 | (mg) | 2 |
+| Pantotheenzuur | (mg) | 6 |
+| Vitamine B12 | (mcg) | 1 |
+| Biotine | (mg) | 0,15 |
+| Vitamine C | (mg) | 60 |
+| Vitamine E | (mg) | 10 |
+| Vitamine K | (mcg) | 80 |
+
+## Bijlage 3. Deze bijlage behoort bij artikel 6, eerste lid.
+
+De in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008065&paragraaf=2&artikel=6&z=2007-07-01&g=2007-07-01), bedoelde mineralen en hun aanbevolen dagelijkse hoeveelheid zijn de navolgende:
 
 | Calcium | (mg) | 800 |
 | --- | --- | --- |
