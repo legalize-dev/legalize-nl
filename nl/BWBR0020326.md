@@ -4,7 +4,7 @@ identifier: "BWBR0020326"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-01-01"
-last_updated: "2006-10-01"
+last_updated: "2007-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020326"
 soort: "AMvB"
@@ -64,7 +64,7 @@ Als zorg in de zin van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078)
 
 1. De [artikelen 50 tot en met 56 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=50) zijn niet van toepassing op:
 
-- a. farmaceutische hulp, anders dan de aflevering van geneesmiddelen ten aanzien waarvan aan [artikel 4, derde lid, van de Wet op de Geneesmiddelenvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0002290&artikel=4) toepassing is gegeven of waarop de Wet inzake bloedtransfusie van toepassing is;
+- a. farmaceutische hulp, anders dan de terhandstelling van UR-geneesmiddelen als bedoeld in [artikel 1, eerste lid, onder s, van de Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=1) of waarop de Wet inzake bloedtransfusie van toepassing is;
 
 - b. zorg waarvoor door het College voor zorgverzekeringen op grond van een regeling als bedoeld in [artikel 44 van de Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&artikel=44) of [artikel 68 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=68) subsidie wordt verleend;
 
