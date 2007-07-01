@@ -4,7 +4,7 @@ identifier: "BWBR0008776"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-07-01"
-last_updated: "2006-09-01"
+last_updated: "2007-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008776"
 soort: "AMvB"
@@ -274,7 +274,7 @@ Alvorens de test uit te voeren gelden de volgende voorwaarden:
 
 ### 3.4. Transcranieel Doppleronderzoek (TCD)
 
-Het vervaardigen van een EEG dient te geschieden door, of onder toezicht van een KNF-arts of (kinder)neuroloog met specifieke expertise. Speciaal opgeleide laboranten mogen de test uitvoeren, maar bedoelde arts dient ter plekke aanwezig te zijn voor de eindbeoordeling van het onderzoek.
+Het vervaardigen van een TCD dient te geschieden door, of onder toezicht van een KNF-arts of (kinder)neuroloog met specifieke expertise. Speciaal opgeleide laboranten mogen de test uitvoeren, maar bedoelde arts dient ter plekke aanwezig te zijn voor de eindbeoordeling van het onderzoek.
 
 Men kan volstaan met onderzoek van de intracraniële vaten (TCD). Onderzoek van de extracraniële vaten is niet nodig. De test heeft een positieve respons als deze wijst op afwezigheid van hersendoorbloeding.
 
