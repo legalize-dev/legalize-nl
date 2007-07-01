@@ -4,7 +4,7 @@ identifier: "BWBR0003030"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-05-27"
-last_updated: "1999-06-01"
+last_updated: "2007-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003030"
 soort: "AMvB"
@@ -68,19 +68,19 @@ De griffier van het gerechtshof houdt een lijst waarop de namen van de raden en 
 
 ##### Artikel 4
 
-1. Alvorens in bediening te treden, leggen de raden en plaatsvervangende raden de eed (belofte) af in handen van de Hoge Raad volgens het formulier vastgesteld bij [artikel 5, eerste lid, der Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=5), met dien verstande dat in de laatste zin daarvan het woord "rechterlijke" achterwege blijft.
+1. De in [artikel 67, vijfde lid, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=67), bedoelde eed of belofte wordt overeenkomstig het formulier, genoemd in [artikel 1g, zesde lid, van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=1g), afgenomen op requisitoir van het openbaar ministerie.
 
-2. Van het afleggen van de eed (belofte) wordt een akte opgemaakt.
-
-3. De eed (belofte) wordt afgenomen op requisitoir van het openbaar ministerie, op een dag, voor de behandeling van strafzaken bestemd.
+2. Het formulier wordt ondertekend door degene die de eed of belofte aflegt en tevens door degene ten overstaan van wie de eed of belofte wordt afgelegd.
 
 ##### Artikel 5
 
-De griffier van de Hoge Raad houdt een register, waarin hij de Koninklijke besluiten tot benoeming van de raden en plaatsvervangende raden in de bijzondere kamer inschrijft, benevens de akten van de door hen afgelegde eden (beloften).
+1. Het bestuur van het gerechtshof houdt een register bij, waarin de koninklijke besluiten betreffende de benoeming van de daar beëdigde raden en plaatsvervangende raden en de formulieren betreffende de afgelegde eed of belofte worden bewaard.
+
+2. Een uittreksel uit dat register, inclusief het formulier betreffende de eed of belofte, wordt aan de raden en plaatsvervangende raden uitgereikt.
 
 ##### Artikel 6
 
-De installatie van de raden en plaatsvervangende raden in de bijzondere kamer geschiedt door voorlezing der akte van de afgelegde eed (belofte) op de terechtzitting van het gerechtshof door de griffier of degene die diens functie waarneemt.
+De installatie van de raden en plaatsvervangende raden in de bijzondere kamer geschiedt door middel van het op de terechtzitting voorlezen van het formulier, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0003030&artikel=4&z=2007-07-01&g=2007-07-01).
 
 ##### Artikel 7
 
@@ -120,13 +120,13 @@ Aan de raden en de plaatsvervangende raden wordt een vergoeding toegekend met ov
 
 1. Aan het Ministerie van Justitie worden maandelijks ingezonden:
 
-- a. de declaraties wegens vergoedingen, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0003030&artikel=13&z=1999-06-01&g=1999-06-01);
+- a. de declaraties wegens vergoedingen, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0003030&artikel=13&z=2007-07-01&g=2007-07-01);
 
-- b. de declaraties wegens reis- en verblijfkosten, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0003030&artikel=14&z=1999-06-01&g=1999-06-01).
+- b. de declaraties wegens reis- en verblijfkosten, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0003030&artikel=14&z=2007-07-01&g=2007-07-01).
 
 2. De in het eerste lid onder **a** genoemde declaraties vermelden de dagen waarop de bijeenkomsten zijn bijgewoond en bevatten een verklaring van de voorzitter der bijzondere kamer dat de declarant de opgegeven bijeenkomsten heeft bijgewoond.
 
-3. De in het eerste lid onder **b** genoemde declaraties worden voorzien van een verklaring van de voorzitter van de bijzondere kamer, dat de gemaakte reizen noodzakelijk waren voor het bijwonen van bijeenkomsten van de bijzondere kamer, voor het volbrengen van de door haar opgedragen verrichtingen of voor de installatie van de declarant, dan wel, in geval van beëdiging, van een verklaring van de president van de Hoge Raad, dat de reis noodzakelijk was in verband met de eedsaflegging.
+3. De in het eerste lid onder **b** genoemde declaraties worden voorzien van een verklaring van de voorzitter van de bijzondere kamer, dat de gemaakte reizen noodzakelijk waren voor het bijwonen van bijeenkomsten van de bijzondere kamer, voor het volbrengen van de door haar opgedragen verrichtingen of voor de installatie van de declarant, dan wel, dan wel voor het afleggen van de eed of belofte.
 
 ##### Artikel 16
 
