@@ -4,7 +4,7 @@ identifier: "BWBR0012110"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-02-05"
-last_updated: "2001-01-12"
+last_updated: "2007-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012110"
 soort: "ministeriele-regeling"
@@ -51,13 +51,11 @@ In deze instructie wordt verstaan onder:
 
 - b. **eenheid:** een eenheid bij de Landelijke Bijzondere Bijstandsverlening van de Dienst Justitiële Inrichtingen;
 
-- c. **inrichtingspersoneel:** personeelsleden of medewerkers die in dienst zijn van een inrichting voor verpleging van ter beschikking gestelden;
+- c. **geweld:** elke dwangmatige kracht van meer dan geringe betekenis uitgeoefend op personen of zaken;
 
-- d. **geweld:** elke dwangmatige kracht van meer dan geringe betekenis uitgeoefend op personen of zaken;
+- d. **aanwenden van geweld:** het gebruiken van geweld of het dreigen met geweld, waaronder niet wordt begrepen het uit voorzorg ter hand nemen van een vuurwapen;
 
-- e. **aanwenden van geweld:** het gebruiken van geweld of het dreigen met geweld, waaronder niet wordt begrepen het uit voorzorg ter hand nemen van een vuurwapen;
-
-- f. **geweldsmiddel:**
+- e. **geweldsmiddel:**
 
 - 1°. de semi-automatische uitvoering van de Heckler en Koch MP5, type A2 en type A3, kaliber 9 millimeter maal 19 millimeter;
 
@@ -67,7 +65,7 @@ In deze instructie wordt verstaan onder:
 
 - 4°. CS-traangasgranaten of traangasverspreidende middelen van een door de Minister van Justitie goedgekeurd merk en type.
 
-- g. **vrijheidsbeperkende middelen:**
+- f. **vrijheidsbeperkende middelen:**
 
 - 1°. handboeien van een door de Minister van Justitie goedgekeurd merk en type;
 
@@ -75,15 +73,15 @@ In deze instructie wordt verstaan onder:
 
 - 3°. middelen als bedoeld in de [bijlage bij de Regeling toepassing mechanische middelen verpleegden](onbekend).
 
-- h. **het gebruik van een vuurwapen:** het trekken, het richten, het gericht houden en het daadwerkelijk gebruik van een vuurwapen.
+- g. **het gebruik van een vuurwapen:** het trekken, het richten, het gericht houden en het daadwerkelijk gebruik van een vuurwapen.
 
-#### § 2. Gebruik geweld en aanwenden van vrijheidsbenemende middelen
+#### § 2. Gebruik geweld en aanwenden van vrijheidsbeperkend middelen
 
 ##### Artikel 2
 
-Het hoofd van de inrichting voor verpleging van ter beschikking gestelden draagt er zorg voor dat de personeelsleden of medewerkers over voldoende vaardigheden beschikken met betrekking tot het gebruik van geweld en het aanwenden van vrijheidsbenemende middelen.
+Het hoofd van de inrichting voor verpleging van ter beschikking gestelden draagt er zorg voor dat de personeelsleden of medewerkers over voldoende vaardigheden beschikken met betrekking tot het gebruik van geweld en het aanwenden van vrijheidsbeperkende middelen.
 
-#### § 3. Gebruik geweldsmiddelen
+#### § 2a. Gebruik van geweld ter voorkoming van onttrekking aan het toezicht tijdens begeleid verlof
 
 ##### Artikel 3
 
@@ -143,7 +141,7 @@ Een personeelslid of medewerker mag in verband met zijn eigen veiligheid of die 
 
 ##### Artikel 9
 
-Het is inrichtingspersoneel niet toegestaan geweldsmiddelen aan te wenden.
+Vervallen
 
 #### § 6. Protocollering en meldplicht
 
@@ -151,21 +149,23 @@ Het is inrichtingspersoneel niet toegestaan geweldsmiddelen aan te wenden.
 
 1. Het hoofd van de inrichting voor verpleging van ter beschikking gestelden maakt op basis van deze regeling een voor zijn inrichting geldende dienstinstructie voor personeelsleden of medewerkers.
 
-2. Het hoofd van de inrichting voor verpleging van ter beschikking gestelden geeft daarin aan onder welke omstandigheden personeelsleden of medewerkers bevoegd zijn, binnen en buiten de inrichting voor verpleging van ter beschikking gestelden, jegens een verpleegde geweld te gebruiken dan wel vrijheidsbeperkende middelen aan te wenden.
+2. Het hoofd van de inrichting voor verpleging van ter beschikking gestelden geeft daarin aan onder welke omstandigheden personeelsleden of medewerkers bevoegd zijn, binnen en buiten de inrichting voor verpleging van ter beschikking gestelden, daaronder begrepen tijdens verlof als bedoeld in [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012110&paragraaf=2a&artikel=2a&z=2007-07-01&g=2007-07-01) jegens een verpleegde geweld te gebruiken dan wel vrijheidsbeperkende middelen aan te wenden.
+
+3. Het hoofd van de inrichting voor verpleging van ter beschikking gestelden zendt binnen drie maanden na inwerkingtreding van deze regeling een afschrift van de voor zijn inrichting geldende dienstinstructie aan de Minister van Justitie.
 
 ##### Artikel 11
 
 1. Het personeelslid of de medewerker die geweld heeft gebruikt of vrijheidsbeperkende middelen heeft aangewend, meldt dit onverwijld schriftelijk aan het hoofd van de inrichting voor verpleging van ter beschikking gestelden. De schriftelijke melding dient duidelijkheid te verschaffen over de redenen die tot het aanwenden van geweld hebben geleid, de daaruit voortvloeiende gevolgen en over degene op wiens last dit aanwenden van geweld heeft plaatsgevonden.
 
-2. Indien de aanwending van het geweld bij een verpleegde heeft geleid tot lichamelijk letsel van meer dan geringe betekenis en in alle gevallen waarin van een vuurwapen, een wapenstok of CS-traangasgranaten of traangasverspreidende middelen gebruik is gemaakt, dient deze melding tevens ter kennis te worden gebracht van het hoofd van de Dienst Justitiële Inrichtingen. Het hoofd van de inrichting voor verpleging van ter beschikking gestelden dient in een dergelijk geval tevens zo spoedig mogelijk schriftelijk advies in te winnen bij een arts.
+2. Indien de aanwending van het geweld bij een verpleegde heeft geleid tot lichamelijk letsel van meer dan geringe betekenis en in alle gevallen waarin van een vuurwapen, een wapenstok of CS-traangasgranaten of traangasverspreidende middelen gebruik is gemaakt, dient deze melding tevens ter kennis te worden gebracht van de Minister van Justitie. Het hoofd van de inrichting voor verpleging van ter beschikking gestelden dient in een dergelijk geval tevens zo spoedig mogelijk schriftelijk advies in te winnen bij een arts.
 
 3. De melding, bedoeld in het eerste en tweede lid, geschiedt in de vorm van een rapport indien:
 
 - a. de gevolgen van het aangewende geweld daartoe, naar het oordeel van de meerdere, aanleiding geven, of
 
-- b. gebruik is gemaakt van enig geweldsmiddel en lichamelijk letsel dan wel de dood veroorzaakt is.
+- b. gebruik is gemaakt van enig geweldsmiddel of vrijheidsbeperkend middel en lichamelijk letsel dan wel de dood veroorzaakt is.
 
-#### § 7. Slotbepalingen
+#### § 6. Protocollering en meldplicht
 
 ##### Artikel 12
 
@@ -174,3 +174,35 @@ Deze instructie treedt in werking met ingang van de tweede dag na dagtekening va
 ##### Artikel 13
 
 Deze instructie wordt aangehaald als: Geweldsinstructie inrichtingen voor verpleging van ter beschikking gestelden.
+
+##### Artikel 2a
+
+1. Indien een ter beschikking gestelde of anderszins verpleegde zich tijdens begeleid verlof dreigt te onttrekken aan het op hem uitgeoefende toezicht, trachten de personeelsleden of medewerkers die het toezicht op de ter beschikking gestelde of anderszins verpleegde uitoefenen, hem daarvan te weerhouden.
+
+2. Personeelsleden of medewerkers, die tot taak hebben het verlof te begeleiden, kunnen geweld gebruiken, indien noodzakelijk om onttrekking van de ter beschikking gestelde of anderszins verpleegde aan het op hem uitgeoefende toezicht te voorkomen.
+
+3. Personeelsleden of medewerkers, die tot taak hebben het verlof te beveiligen gebruiken geweld, indien noodzakelijk om onttrekking van de ter beschikking gestelde of anderszins verpleegde aan het op hem uitgeoefende toezicht te voorkomen.
+
+4. Personeelsleden of medewerkers die het toezicht op een ter beschikking gestelde of anderszins verpleegde uitoefenen tijdens begeleid verlof, hebben de beschikking over adequate communicatiemiddelen om een onttrekking onmiddellijk te melden aan de politie en het hoofd van de inrichting voor verpleging van ter beschikking gestelden.
+
+5. De personeelsleden of medewerkers zullen in geval van een onttrekking tijdens begeleid verlof, trachten de vluchtroute of de verblijfplaats van de ter beschikking gestelde of anderszins verpleegde vast te stellen en die melden aan de politie en het hoofd van de inrichting voor verpleging van ter beschikking gestelden.
+
+#### § 3. Gebruik geweldsmiddelen
+
+##### Artikel 7a
+
+1. Het hoofd van de inrichting kan met voorafgaande machtiging van de Minister van Justitie besluiten om proeven te houden met andere middelen, dan genoemd in [artikel 1, onder e en f,](https://wetten.overheid.nl/jci1.3:c:BWBR0012110&paragraaf=1&artikel=1&z=2007-07-01&g=2007-07-01) met het doel onttrekkingen aan het toezicht als bedoeld in [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012110&paragraaf=2a&artikel=2a&z=2007-07-01&g=2007-07-01) te voorkomen.
+
+2. Een ander middel, als bedoeld in het eerste lid, moet ten minste voldoen aan de eisen, die gesteld worden aan een mechanisch middel in de [Regeling toepassing mechanische middelen verpleegden](https://wetten.overheid.nl/jci1.3:c:BWBR0011109).
+
+3. Het andere middel wordt gebruikt overeenkomstig het in deze regeling bepaalde.
+
+4. Een proef, als bedoeld in het eerste lid, heeft een maximale duur van één jaar.
+
+5. Iedere proef wordt geëvalueerd.
+
+#### § 4. De eenheid
+
+#### § 5. Het inrichtingspersoneel
+
+#### § 7. Slotbepalingen
