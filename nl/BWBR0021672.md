@@ -183,11 +183,3 @@ Indien het bij koninklijke boodschap van 8 december 2003 ingediende voorstel van
 Dit besluit wordt aangehaald als: Besluit Geneesmiddelenwet.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 13a
-
-1. In dit artikel wordt verstaan onder transparantieregister: het register, gehouden door de Stichting Transparantieregister Zorg, ter bevordering van de transparantie inzake financiële betrekkingen tussen enerzijds artsen, apothekers, tandartsen, verloskundigen of verpleegkundigen als bedoeld in [artikel 36, veertiende lid, onder d, van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=36), en anderzijds ondernemers als bedoeld in [artikel 82, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=82).
-
-2. De ondernemers, bedoeld in [artikel 82, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=82), zijn gehouden bij de gegevens inzake de in het eerste lid bedoelde financiële betrekkingen die zij ten behoeve van de vermelding in het transparantieregister aan de rechtspersoon verstrekken, het nummer, bedoeld in artikel [3, tweede lid, van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3), te vermelden van degene op wie de gegevens betrekking hebben.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
