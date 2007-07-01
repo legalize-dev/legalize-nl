@@ -4,7 +4,7 @@ identifier: "BWBR0019970"
 country: "nl"
 rank: "wet"
 publication_date: "2007-07-01"
-last_updated: "2006-08-02"
+last_updated: "2007-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019970"
 soort: "wet"
@@ -54,7 +54,7 @@ Wijzigt het Wetboek van Burgerlijke Rechtsvordering.
 
 ##### Artikel III
 
-[Artikel I, onderdeel D en E](https://wetten.overheid.nl/jci1.3:c:BWBR0019970&artikel=I&z=2006-08-02&g=2006-08-02), treden in werking op een bij koninklijk besluit te bepalen tijdstip. De overige onderdelen van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0019970&artikel=I&z=2006-08-02&g=2006-08-02) en de [artikelen II](https://wetten.overheid.nl/jci1.3:c:BWBR0019970&artikel=II&z=2006-08-02&g=2006-08-02) en [IIa](https://wetten.overheid.nl/jci1.3:c:BWBR0019970&artikel=IIa&z=2006-08-02&g=2006-08-02) treden in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst, met dien verstande dat [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0019970&artikel=II&z=2006-08-02&g=2006-08-02), alsmede de [onderdelen A, C, F en G van artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0019970&artikel=I&z=2006-08-02&g=2006-08-02) terugwerken tot en met 1 januari 2005 en [onderdeel B van dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0019970&artikel=I&z=2006-08-02&g=2006-08-02) tot 1 januari 2006.
+[Artikel I, onderdeel D en E](https://wetten.overheid.nl/jci1.3:c:BWBR0019970&artikel=I&z=2007-07-01&g=2007-07-01), treden in werking op een bij koninklijk besluit te bepalen tijdstip. De overige onderdelen van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0019970&artikel=I&z=2007-07-01&g=2007-07-01) en de [artikelen II](https://wetten.overheid.nl/jci1.3:c:BWBR0019970&artikel=II&z=2007-07-01&g=2007-07-01) en [IIa](https://wetten.overheid.nl/jci1.3:c:BWBR0019970&artikel=IIa&z=2007-07-01&g=2007-07-01) treden in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst, met dien verstande dat [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0019970&artikel=II&z=2007-07-01&g=2007-07-01), alsmede de [onderdelen A, C, F en G van artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0019970&artikel=I&z=2007-07-01&g=2007-07-01) terugwerken tot en met 1 januari 2005 en [onderdeel B van dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0019970&artikel=I&z=2007-07-01&g=2007-07-01) tot 1 januari 2006.
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
