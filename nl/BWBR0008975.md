@@ -4,7 +4,7 @@ identifier: "BWBR0008975"
 country: "nl"
 rank: "amvb"
 publication_date: "2023-01-01"
-last_updated: "2006-05-24"
+last_updated: "2007-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008975"
 soort: "AMvB"
@@ -70,17 +70,17 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 2
 
-Het recht tot het voeren van de titel van diëtist is voorbehouden aan degene aan wie een getuigschrift is uitgereikt waaruit blijkt dat betrokkene met goed gevolg het afsluitende examen heeft afgelegd van een opleiding voor voeding en diëtetiek die is opgenomen in het Centraal register opleidingen hoger onderwijs en die voldoet aan het in [de artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=II&paragraaf=2&artikel=3&z=2006-05-24&g=2006-05-24) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=II&paragraaf=2&artikel=4&z=2006-05-24&g=2006-05-24) gestelde.
+Het recht tot het voeren van de titel van diëtist is voorbehouden aan degene aan wie een getuigschrift is uitgereikt waaruit blijkt dat betrokkene met goed gevolg het afsluitende examen heeft afgelegd van een opleiding voor voeding en diëtetiek die is opgenomen in het Centraal register opleidingen hoger onderwijs en die voldoet aan het in [de artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=II&paragraaf=2&artikel=3&z=2007-07-01&g=2007-07-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=II&paragraaf=2&artikel=4&z=2007-07-01&g=2007-07-01) gestelde.
 
 #### § 2. Opleiding
 
 ##### Artikel 3
 
-Een opleiding als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=II&paragraaf=1&artikel=2&z=2006-05-24&g=2006-05-24) omvat ten minste de volgende onderdelen:
+Een opleiding als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=II&paragraaf=1&artikel=2&z=2007-07-01&g=2007-07-01) omvat ten minste de volgende onderdelen:
 
 - a. het centrale vakgebied diëtetiek en voedingswetenschappen, omvattende ten minste:
 
-- 1°. onderzoeken en behandelen van de patiënt in het kader van het gebied van deskundigheid zoals omschreven in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=II&paragraaf=3&artikel=5&z=2006-05-24&g=2006-05-24);
+- 1°. onderzoeken en behandelen van de patiënt in het kader van het gebied van deskundigheid zoals omschreven in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=II&paragraaf=3&artikel=5&z=2007-07-01&g=2007-07-01);
 
 - 2°. diëet- en voedingsleer;
 
@@ -100,7 +100,7 @@ Een opleiding als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWB
 
 ##### Artikel 4
 
-1. De in [artikel 3, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=II&paragraaf=2&artikel=3&z=2006-05-24&g=2006-05-24), bedoelde beroepsvoorbereidende periode omvat het in het werkveld toepassen van tijdens de studie verworven kennis, inzicht en vaardigheden met betrekking tot het gebied van deskundigheid zoals omschreven in [artikel 5, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=II&paragraaf=3&artikel=5&z=2006-05-24&g=2006-05-24).
+1. De in [artikel 3, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=II&paragraaf=2&artikel=3&z=2007-07-01&g=2007-07-01), bedoelde beroepsvoorbereidende periode omvat het in het werkveld toepassen van tijdens de studie verworven kennis, inzicht en vaardigheden met betrekking tot het gebied van deskundigheid zoals omschreven in [artikel 5, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=II&paragraaf=3&artikel=5&z=2007-07-01&g=2007-07-01).
 
 2. De beroepsvoorbereidende periode vindt plaats onder begeleiding van een daartoe door de instelling aangewezen docent en wordt doorgebracht onder toezicht van een diëtist.
 
@@ -128,17 +128,17 @@ Een opleiding als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWB
 
 ##### Artikel 6
 
-Het recht tot het voeren van de titel van ergotherapeut is voorbehouden aan degene aan wie een getuigschrift is uitgereikt waaruit blijkt dat betrokkene met goed gevolg het afsluitende examen heeft afgelegd van een opleiding voor ergotherapie die is opgenomen in het Centraal register opleidingen hoger onderwijs en die voldoet aan het in [de artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=III&paragraaf=2&artikel=7&z=2006-05-24&g=2006-05-24) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=III&paragraaf=2&artikel=8&z=2006-05-24&g=2006-05-24) gestelde.
+Het recht tot het voeren van de titel van ergotherapeut is voorbehouden aan degene aan wie een getuigschrift is uitgereikt waaruit blijkt dat betrokkene met goed gevolg het afsluitende examen heeft afgelegd van een opleiding voor ergotherapie die is opgenomen in het Centraal register opleidingen hoger onderwijs en die voldoet aan het in [de artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=III&paragraaf=2&artikel=7&z=2007-07-01&g=2007-07-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=III&paragraaf=2&artikel=8&z=2007-07-01&g=2007-07-01) gestelde.
 
 #### § 2. Opleiding
 
 ##### Artikel 7
 
-Een opleiding als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=III&paragraaf=1&artikel=6&z=2006-05-24&g=2006-05-24) omvat ten minste de volgende onderdelen:
+Een opleiding als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=III&paragraaf=1&artikel=6&z=2007-07-01&g=2007-07-01) omvat ten minste de volgende onderdelen:
 
 - a. het centrale vakgebied ergotherapie, omvattende ten minste:
 
-- 1°. onderzoeken en behandelen van de patiënt in het kader van het gebied van deskundigheid zoals omschreven in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=III&paragraaf=3&artikel=9&z=2006-05-24&g=2006-05-24);
+- 1°. onderzoeken en behandelen van de patiënt in het kader van het gebied van deskundigheid zoals omschreven in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=III&paragraaf=3&artikel=9&z=2007-07-01&g=2007-07-01);
 
 - 2°. theorie en praktijk van de ergotherapie;
 
@@ -156,7 +156,7 @@ Een opleiding als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWB
 
 ##### Artikel 8
 
-1. De in [artikel 7, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=III&paragraaf=2&artikel=7&z=2006-05-24&g=2006-05-24), bedoelde beroepsvoorbereidende periode omvat het in het werkveld toepassen van tijdens de studie verworven kennis, inzicht en vaardigheden met betrekking tot het gebied van deskundigheid van de ergotherapeut zoals omschreven in [artikel 9, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=III&paragraaf=3&artikel=9&z=2006-05-24&g=2006-05-24).
+1. De in [artikel 7, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=III&paragraaf=2&artikel=7&z=2007-07-01&g=2007-07-01), bedoelde beroepsvoorbereidende periode omvat het in het werkveld toepassen van tijdens de studie verworven kennis, inzicht en vaardigheden met betrekking tot het gebied van deskundigheid van de ergotherapeut zoals omschreven in [artikel 9, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=III&paragraaf=3&artikel=9&z=2007-07-01&g=2007-07-01).
 
 2. De beroepsvoorbereidende periode vindt plaats onder begeleiding van een daartoe door de instelling aangewezen docent en wordt doorgebracht onder toezicht van een ergotherapeut.
 
@@ -186,17 +186,17 @@ Een opleiding als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWB
 
 ##### Artikel 10
 
-Het recht tot het voeren van de titel van logopedist is voorbehouden aan degene aan wie een getuigschrift is uitgereikt waaruit blijkt dat betrokkene met goed gevolg het afsluitende examen heeft afgelegd van een opleiding voor logopedie die is opgenomen in het Centraal register opleidingen hoger onderwijs en die voldoet aan het in [de artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=IV&paragraaf=2&artikel=11&z=2006-05-24&g=2006-05-24) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=IV&paragraaf=2&artikel=12&z=2006-05-24&g=2006-05-24) gestelde.
+Het recht tot het voeren van de titel van logopedist is voorbehouden aan degene aan wie een getuigschrift is uitgereikt waaruit blijkt dat betrokkene met goed gevolg het afsluitende examen heeft afgelegd van een opleiding voor logopedie die is opgenomen in het Centraal register opleidingen hoger onderwijs en die voldoet aan het in [de artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=IV&paragraaf=2&artikel=11&z=2007-07-01&g=2007-07-01) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=IV&paragraaf=2&artikel=12&z=2007-07-01&g=2007-07-01) gestelde.
 
 #### § 2. Opleiding
 
 ##### Artikel 11
 
-Een opleiding als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=IV&paragraaf=1&artikel=10&z=2006-05-24&g=2006-05-24) omvat ten minste de volgende onderdelen:
+Een opleiding als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=IV&paragraaf=1&artikel=10&z=2007-07-01&g=2007-07-01) omvat ten minste de volgende onderdelen:
 
 - a. het centrale vakgebied logopedie, omvattende ten minste:
 
-- 1°. onderzoeken en behandelen van de patiënt in het kader van het gebied van deskundigheid zoals omschreven in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=IV&paragraaf=3&artikel=13&z=2006-05-24&g=2006-05-24);
+- 1°. onderzoeken en behandelen van de patiënt in het kader van het gebied van deskundigheid zoals omschreven in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=IV&paragraaf=3&artikel=13&z=2007-07-01&g=2007-07-01);
 
 - 2°. theorie, waaronder de normale ontwikkeling van en stoornissen in stem, taal, spraak, gehoor en primaire mond- en keelfuncties;
 
@@ -212,7 +212,7 @@ Een opleiding als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BW
 
 ##### Artikel 12
 
-1. De in [artikel 11, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=IV&paragraaf=2&artikel=11&z=2006-05-24&g=2006-05-24), bedoelde beroepsvoorbereidende periode omvat het in het werkveld toepassen van tijdens de studie verworven kennis, inzicht en vaardigheden met betrekking tot het gebied van deskundigheid van de logopedist zoals omschreven in [artikel 13, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=IV&paragraaf=3&artikel=13&z=2006-05-24&g=2006-05-24).
+1. De in [artikel 11, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=IV&paragraaf=2&artikel=11&z=2007-07-01&g=2007-07-01), bedoelde beroepsvoorbereidende periode omvat het in het werkveld toepassen van tijdens de studie verworven kennis, inzicht en vaardigheden met betrekking tot het gebied van deskundigheid van de logopedist zoals omschreven in [artikel 13, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=IV&paragraaf=3&artikel=13&z=2007-07-01&g=2007-07-01).
 
 2. De beroepsvoorbereidende periode vindt plaats onder begeleiding van een daartoe door de instelling aangewezen docent en wordt doorgebracht onder toezicht van een logopedist.
 
@@ -248,19 +248,19 @@ Een opleiding als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BW
 
 2. De verwijzing, bedoeld in het eerste lid, onder **a**, geschiedt schriftelijk, is gedateerd en ondertekend door de betrokken arts of tandarts en bevat ten minste de door deze, voor het door de logopedist onderzoeken en behandelen van de patiënt, relevant geachte diagnostische gegevens.
 
-### Hoofdstuk V
+### Hoofdstuk V. Mondhygiënist
 
 #### § 1. Titel
 
 ##### Artikel 14
 
-Het recht tot het voeren van de titel van mondhygiënist is voorbehouden aan degene aan wie een getuigschrift is uitgereikt waaruit blijkt dat betrokkene met goed gevolg het afsluitende examen heeft afgelegd van een opleiding voor mondzorgkunde die is opgenomen in het Centraal register opleidingen hoger onderwijs en die voldoet aan de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=V&paragraaf=2&artikel=15&z=2006-05-24&g=2006-05-24) en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=V&paragraaf=2&artikel=16&z=2006-05-24&g=2006-05-24).
+Het recht tot het voeren van de titel van mondhygiënist is voorbehouden aan degene aan wie een getuigschrift is uitgereikt waaruit blijkt dat betrokkene met goed gevolg het afsluitende examen heeft afgelegd van een opleiding voor mondzorgkunde die is opgenomen in het Centraal register opleidingen hoger onderwijs en die voldoet aan de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=V&paragraaf=2&artikel=15&z=2007-07-01&g=2007-07-01) en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=V&paragraaf=2&artikel=16&z=2007-07-01&g=2007-07-01).
 
 #### § 2. Opleiding
 
 ##### Artikel 15
 
-1. De opleiding, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=V&paragraaf=1&artikel=14&z=2006-05-24&g=2006-05-24), omvat zowel theoretisch als praktisch onderwijs, dat gericht is op het verwerven van kennis van en inzicht en vaardigheid in de volgende aspecten van de mondzorgkundige beroepsuitoefening in het kader van het gebied van deskundigheid, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=V&paragraaf=3&artikel=17&z=2006-05-24&g=2006-05-24):
+1. De opleiding, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=V&paragraaf=1&artikel=14&z=2007-07-01&g=2007-07-01), omvat zowel theoretisch als praktisch onderwijs, dat gericht is op het verwerven van kennis van en inzicht en vaardigheid in de volgende aspecten van de mondzorgkundige beroepsuitoefening in het kader van het gebied van deskundigheid, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=V&paragraaf=3&artikel=17&z=2007-07-01&g=2007-07-01):
 
 - a. professionele mondzorgkundige vorming;
 
@@ -274,7 +274,7 @@ Het recht tot het voeren van de titel van mondhygiënist is voorbehouden aan deg
 
 - f. praktijkvoering.
 
-2. Het praktische onderwijs omvat in ieder geval stage in het werkveld inzake het toepassen van tijdens de studie verworven kennis, inzicht en vaardigheden met betrekking tot het gebied van deskundigheid, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=V&paragraaf=3&artikel=17&z=2006-05-24&g=2006-05-24), onder toezicht van een tandarts of mondhygiënist.
+2. Het praktische onderwijs omvat in ieder geval stage in het werkveld inzake het toepassen van tijdens de studie verworven kennis, inzicht en vaardigheden met betrekking tot het gebied van deskundigheid, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=V&paragraaf=3&artikel=17&z=2007-07-01&g=2007-07-01), onder toezicht van een tandarts of mondhygiënist.
 
 ##### Artikel 16
 
@@ -370,17 +370,17 @@ Tot het gebied van deskundigheid van de mondhygiënist wordt gerekend:
 
 ##### Artikel 18
 
-Het recht tot het voeren van de titel van oefentherapeut is voorbehouden aan degene aan wie een getuigschrift is uitgereikt waaruit blijkt dat betrokkene met goed gevolg het afsluitende examen heeft afgelegd van een opleiding voor oefentherapie-Cesar onderscheidenlijk voor oefentherapie-Mensendieck die is opgenomen in het Centraal register opleidingen hoger onderwijs en die voldoet aan het in [de artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=VI&paragraaf=2&artikel=19&z=2006-05-24&g=2006-05-24) en [20](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=VI&paragraaf=2&artikel=20&z=2006-05-24&g=2006-05-24) gestelde.
+Het recht tot het voeren van de titel van oefentherapeut is voorbehouden aan degene aan wie een getuigschrift is uitgereikt waaruit blijkt dat betrokkene met goed gevolg het afsluitende examen heeft afgelegd van een opleiding voor oefentherapie-Cesar onderscheidenlijk voor oefentherapie-Mensendieck die is opgenomen in het Centraal register opleidingen hoger onderwijs en die voldoet aan het in [de artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=VI&paragraaf=2&artikel=19&z=2007-07-01&g=2007-07-01) en [20](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=VI&paragraaf=2&artikel=20&z=2007-07-01&g=2007-07-01) gestelde.
 
 #### § 2. Opleiding
 
 ##### Artikel 19
 
-Een opleiding als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=VI&paragraaf=1&artikel=18&z=2006-05-24&g=2006-05-24) omvat ten minste de volgende onderdelen:
+Een opleiding als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=VI&paragraaf=1&artikel=18&z=2007-07-01&g=2007-07-01) omvat ten minste de volgende onderdelen:
 
 - a. het centrale vakgebied oefentherapie-Cesar dan wel oefentherapie-Mensendieck, omvattende ten minste:
 
-- 1°. onderzoeken en behandelen van de patiënt in het kader van het gebied van deskundigheid zoals omschreven in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=VI&paragraaf=3&artikel=21&z=2006-05-24&g=2006-05-24);
+- 1°. onderzoeken en behandelen van de patiënt in het kader van het gebied van deskundigheid zoals omschreven in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=VI&paragraaf=3&artikel=21&z=2007-07-01&g=2007-07-01);
 
 - 2°. theorie en praktijk van de oefentherapie-Cesar dan wel de oefentherapie-Mensendieck;
 
@@ -396,7 +396,7 @@ Een opleiding als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BW
 
 ##### Artikel 20
 
-1. De in [artikel 19, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=VI&paragraaf=2&artikel=19&z=2006-05-24&g=2006-05-24), bedoelde beroepsvoorbereidende periode omvat het in het werkveld toepassen van tijdens de studie verworven kennis, inzicht en vaardigheden met betrekking tot het gebied van deskundigheid van de oefentherapeut zoals omschreven in [artikel 21, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=VI&paragraaf=3&artikel=21&z=2006-05-24&g=2006-05-24).
+1. De in [artikel 19, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=VI&paragraaf=2&artikel=19&z=2007-07-01&g=2007-07-01), bedoelde beroepsvoorbereidende periode omvat het in het werkveld toepassen van tijdens de studie verworven kennis, inzicht en vaardigheden met betrekking tot het gebied van deskundigheid van de oefentherapeut zoals omschreven in [artikel 21, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=VI&paragraaf=3&artikel=21&z=2007-07-01&g=2007-07-01).
 
 2. De beroepsvoorbereidende periode vindt plaats onder begeleiding van een daartoe door de instelling aangewezen docent en wordt doorgebracht onder toezicht van een oefentherapeut.
 
@@ -424,15 +424,15 @@ Een opleiding als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BW
 
 ##### Artikel 22
 
-Het recht tot het voeren van de titel van orthoptist is voorbehouden aan degene aan wie een getuigschrift is uitgereikt waaruit blijkt dat betrokkene met goed gevolg het afsluitende examen heeft afgelegd van een opleiding voor orthoptie die is opgenomen in het Centraal register opleidingen hoger onderwijs en die voldoet aan het in [de artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=VII&paragraaf=2&artikel=23&z=2006-05-24&g=2006-05-24) en [24](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=VII&paragraaf=2&artikel=24&z=2006-05-24&g=2006-05-24) gestelde.
+Het recht tot het voeren van de titel van orthoptist is voorbehouden aan degene aan wie een getuigschrift is uitgereikt waaruit blijkt dat betrokkene met goed gevolg het afsluitende examen heeft afgelegd van een opleiding voor orthoptie die is opgenomen in het Centraal register opleidingen hoger onderwijs en die voldoet aan het in [de artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=VII&paragraaf=2&artikel=23&z=2007-07-01&g=2007-07-01) en [24](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=VII&paragraaf=2&artikel=24&z=2007-07-01&g=2007-07-01) gestelde.
 
 #### § 2. Opleiding
 
 ##### Artikel 23
 
-Een opleiding als bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=VII&paragraaf=1&artikel=22&z=2006-05-24&g=2006-05-24) omvat ten minste de volgende onderdelen:
+Een opleiding als bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=VII&paragraaf=1&artikel=22&z=2007-07-01&g=2007-07-01) omvat ten minste de volgende onderdelen:
 
-- a. het centrale vakgebied orthoptie, omvattende ten minste onderzoeken en behandelen van de patiënt in het kader van het gebied van deskundigheid zoals omschreven in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=VII&paragraaf=3&artikel=25&z=2006-05-24&g=2006-05-24), alsmede theorie en praktijk van de orthoptie;
+- a. het centrale vakgebied orthoptie, omvattende ten minste onderzoeken en behandelen van de patiënt in het kader van het gebied van deskundigheid zoals omschreven in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=VII&paragraaf=3&artikel=25&z=2007-07-01&g=2007-07-01), alsmede theorie en praktijk van de orthoptie;
 
 - b. de beroepsvoorbereidende periode in het werkveld;
 
@@ -444,7 +444,7 @@ Een opleiding als bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BW
 
 ##### Artikel 24
 
-1. De in [artikel 23, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=VII&paragraaf=2&artikel=23&z=2006-05-24&g=2006-05-24), bedoelde beroepsvoorbereidende periode omvat het in het werkveld toepassen van tijdens de studie verworven kennis, inzicht en vaardigheden met betrekking tot het gebied van deskundigheid zoals omschreven in [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=VII&paragraaf=3&artikel=25&z=2006-05-24&g=2006-05-24).
+1. De in [artikel 23, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=VII&paragraaf=2&artikel=23&z=2007-07-01&g=2007-07-01), bedoelde beroepsvoorbereidende periode omvat het in het werkveld toepassen van tijdens de studie verworven kennis, inzicht en vaardigheden met betrekking tot het gebied van deskundigheid zoals omschreven in [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=VII&paragraaf=3&artikel=25&z=2007-07-01&g=2007-07-01).
 
 2. De beroepsvoorbereidende periode vindt plaats onder begeleiding van een daartoe door de instelling aangewezen docent en wordt doorgebracht onder toezicht van een orthoptist.
 
@@ -478,17 +478,17 @@ Een opleiding als bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BW
 
 ##### Artikel 26
 
-Het recht tot het voeren van de titel van podotherapeut is voorbehouden aan degene aan wie een getuigschrift is uitgereikt waaruit blijkt dat betrokkene met goed gevolg het afsluitende examen heeft afgelegd van een opleiding voor podotherapie die is opgenomen in het Centraal register opleidingen hoger onderwijs en die voldoet aan het in [de artikelen 27](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=VIII&paragraaf=2&artikel=27&z=2006-05-24&g=2006-05-24) en [28](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=VIII&paragraaf=2&artikel=28&z=2006-05-24&g=2006-05-24) gestelde.
+Het recht tot het voeren van de titel van podotherapeut is voorbehouden aan degene aan wie een getuigschrift is uitgereikt waaruit blijkt dat betrokkene met goed gevolg het afsluitende examen heeft afgelegd van een opleiding voor podotherapie die is opgenomen in het Centraal register opleidingen hoger onderwijs en die voldoet aan het in [de artikelen 27](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=VIII&paragraaf=2&artikel=27&z=2007-07-01&g=2007-07-01) en [28](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=VIII&paragraaf=2&artikel=28&z=2007-07-01&g=2007-07-01) gestelde.
 
 #### § 2. Opleiding
 
 ##### Artikel 27
 
-Een opleiding als bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=VIII&paragraaf=1&artikel=26&z=2006-05-24&g=2006-05-24) omvat ten minste de volgende onderdelen:
+Een opleiding als bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=VIII&paragraaf=1&artikel=26&z=2007-07-01&g=2007-07-01) omvat ten minste de volgende onderdelen:
 
 - a. het centrale vakgebied podotherapie, omvattende ten minste:
 
-- 1°. onderzoeken en behandelen van de patiënt in het kader van het gebied van deskundigheid zoals omschreven in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=VIII&paragraaf=3&artikel=29&z=2006-05-24&g=2006-05-24);
+- 1°. onderzoeken en behandelen van de patiënt in het kader van het gebied van deskundigheid zoals omschreven in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=VIII&paragraaf=3&artikel=29&z=2007-07-01&g=2007-07-01);
 
 - 2°. theorie en praktijk van de podotherapie;
 
@@ -506,9 +506,9 @@ Een opleiding als bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BW
 
 ##### Artikel 28
 
-1. De in [artikel 27, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=VIII&paragraaf=2&artikel=27&z=2006-05-24&g=2006-05-24), bedoelde beroepsvoorbereidende periode omvat het in het werkveld toepassen van tijdens de studie verworven kennis, inzicht en vaardigheden met betrekking tot het gebied van deskundigheid van de podotherapeut zoals omschreven in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=VIII&paragraaf=3&artikel=29&z=2006-05-24&g=2006-05-24).
+1. De in [artikel 27, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=VIII&paragraaf=2&artikel=27&z=2007-07-01&g=2007-07-01), bedoelde beroepsvoorbereidende periode omvat het in het werkveld toepassen van tijdens de studie verworven kennis, inzicht en vaardigheden met betrekking tot het gebied van deskundigheid van de podotherapeut zoals omschreven in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=VIII&paragraaf=3&artikel=29&z=2007-07-01&g=2007-07-01).
 
-2. De in [artikel 27, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=VIII&paragraaf=2&artikel=27&z=2006-05-24&g=2006-05-24), bedoelde klinische patiëntenbehandeling is een aan de instelling gebonden onderwijsactiviteit, waarbij studenten oefenen op patiënten of proefpersonen.
+2. De in [artikel 27, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=VIII&paragraaf=2&artikel=27&z=2007-07-01&g=2007-07-01), bedoelde klinische patiëntenbehandeling is een aan de instelling gebonden onderwijsactiviteit, waarbij studenten oefenen op patiënten of proefpersonen.
 
 3. De beroepsvoorbereidende periode en de klinische patiëntenbehandeling vinden plaats onder begeleiding van een daartoe door de instelling aangewezen docent en worden doorgebracht onder toezicht van een podotherapeut.
 
