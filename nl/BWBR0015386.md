@@ -4,7 +4,7 @@ identifier: "BWBR0015386"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2006-07-01"
+last_updated: "2007-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0015386"
 soort: "ministeriele-regeling"
@@ -62,25 +62,25 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-De maximale huurprijsgrenzen voor woonruimten welke een zelfstandige woning vormen als bedoeld in [artikel 1, tweede lid, van het Besluit huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&artikel=1) zijn voor het tijdvak 1 juli 2006 tot en met 30 juni 2007 de bedragen, genoemd in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=I&z=2006-07-01&g=2006-07-01).
+De maximale huurprijsgrenzen voor woonruimten welke een zelfstandige woning vormen als bedoeld in [artikel 1, tweede lid, van het Besluit huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&artikel=1) zijn voor het tijdvak 1 juli 2007 tot en met 30 juni 2008 de bedragen, genoemd in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=I&z=2007-07-01&g=2007-07-01).
 
 ##### Artikel 3
 
-De maximale huurprijsgrenzen voor woonruimten welke niet een zelfstandige woning vormen als bedoeld in [artikel 1, derde lid, van het Besluit huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&artikel=1) zijn voor het tijdvak 1 juli 2006 tot en met 30 juni 2007 de bedragen, genoemd in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=II&z=2006-07-01&g=2006-07-01).
+De maximale huurprijsgrenzen voor woonruimten welke niet een zelfstandige woning vormen als bedoeld in [artikel 1, derde lid, van het Besluit huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&artikel=1) zijn voor het tijdvak 1 juli 2007 tot en met 30 juni 2008 de bedragen, genoemd in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=II&z=2007-07-01&g=2007-07-01).
 
 ##### Artikel 4
 
-De maximale huurprijsgrenzen voor woonwagens als bedoeld in [artikel 7:235 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=235) zijn voor het tijdvak 1 juli 2006 tot en met 30 juni 2007 de bedragen, genoemd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=III&z=2006-07-01&g=2006-07-01).
+De maximale huurprijsgrenzen voor woonwagens als bedoeld in [artikel 7:235 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=235) zijn voor het tijdvak 1 juli 2007 tot en met 30 juni 2008 de bedragen, genoemd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=III&z=2007-07-01&g=2007-07-01).
 
 ##### Artikel 5
 
-De maximale huurprijsgrenzen voor standplaatsen als bedoeld in [artikel 7:236 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=236) zijn voor het tijdvak 1 juli 2006 tot en met 30 juni 2007 de bedragen, genoemd in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=IV&z=2006-07-01&g=2006-07-01).
+De maximale huurprijsgrenzen voor standplaatsen als bedoeld in [artikel 7:236 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=236) zijn voor het tijdvak 1 juli 2007 tot en met 30 juni 2008 de bedragen, genoemd in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=IV&z=2007-07-01&g=2007-07-01).
 
 #### § 3. Maximale huurverhogingspercentages
 
 ##### Artikel 6
 
-1. De huurcommissie beoordeelt de redelijkheid van de huurprijs van woonruimte dan wel een daarin voorgestelde wijziging met inachtneming van de in de [bijlagen V](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=V&z=2006-07-01&g=2006-07-01) en [VI van deze regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=VI&z=2006-07-01&g=2006-07-01) vervatte schema’s.
+1. De huurcommissie beoordeelt de redelijkheid van de huurprijs van woonruimte dan wel een daarin voorgestelde wijziging met inachtneming van de in de [bijlagen V](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=V&z=2007-07-01&g=2007-07-01) en [VI van deze regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=VI&z=2007-07-01&g=2007-07-01) vervatte schema’s.
 
 2. Het eerste lid is niet van toepassing op woonruimte die bestaat uit of deel uitmaakt van een beschermd monument als bedoeld in [artikel 1, onder d, van de Monumentenwet 1988](https://wetten.overheid.nl/jci1.3:c:BWBR0004471&artikel=1) en op woonruimte die behoort tot een beschermd stads- en dorpsgezicht als bedoeld in [artikel 1, onder g, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004471&artikel=1), in dit geval voor zover vanwege het behoren tot een beschermd stads- en dorpsgezicht door de verhuurder noodzakelijkerwijs aan deze woonruimte gelden zijn besteed.
 
@@ -110,21 +110,21 @@ De leden en de plaatsvervangende leden van een huurcommissie genieten vergoeding
 
 ##### Artikel 10
 
-1. Een verzoek om een uitspraak als bedoeld in [artikel 7: 254](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=254) of [7: 257, tweede lid, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=257) wordt ingediend op een formulier overeenkomstig [bijlage VII](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=VII&z=2006-07-01&g=2006-07-01) bij deze regeling.
+1. Een verzoek om een uitspraak als bedoeld in [artikel 7: 254](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=254) of [7: 257, tweede lid, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=257) wordt ingediend op een formulier overeenkomstig [bijlage VII](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=VII&z=2007-07-01&g=2007-07-01) bij deze regeling.
 
-2. Een verzoek om een uitspraak als bedoeld in [artikel 7: 260, eerste lid van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=260), wordt ingediend op een formulier overeenkomstig [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=VIII&z=2006-07-01&g=2006-07-01) bij deze regeling.
+2. Een verzoek om een uitspraak als bedoeld in [artikel 7: 260, eerste lid van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=260), wordt ingediend op een formulier overeenkomstig [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=VIII&z=2007-07-01&g=2007-07-01) bij deze regeling.
 
-3. Een verzoek om een uitspraak als bedoeld in [artikel 7: 261, derde lid, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=261) wordt ingediend op een formulier overeenkomstig [bijlage IX](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=IX&z=2006-07-01&g=2006-07-01) bij deze regeling
+3. Een verzoek om een uitspraak als bedoeld in [artikel 7: 261, derde lid, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=261) wordt ingediend op een formulier overeenkomstig [bijlage IX](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=IX&z=2007-07-01&g=2007-07-01) bij deze regeling
 
-4. Een verzoek om een uitspraak als bedoeld in [artikel 7: 249](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=249) of [7: 258 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=258) wordt ingediend op een formulier overeenkomstig [bijlage X](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=X&z=2006-07-01&g=2006-07-01) bij deze regeling.
+4. Een verzoek om een uitspraak als bedoeld in [artikel 7: 249](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=249) of [7: 258 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=258) wordt ingediend op een formulier overeenkomstig [bijlage X](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=X&z=2007-07-01&g=2007-07-01) bij deze regeling.
 
-5. Een verzoek om een uitspraak als bedoeld in [artikel 7: 253, eerste of vijfde lid, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=253) of [artikel 12, vijfde lid, van de Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=12) wordt ingediend op een formulier overeenkomstig [bijlage XI](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=XI&z=2006-07-01&g=2006-07-01) bij deze regeling.
+5. Een verzoek om een uitspraak als bedoeld in [artikel 7: 253, eerste of vijfde lid, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=253) of [artikel 12, vijfde lid, van de Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=12) wordt ingediend op een formulier overeenkomstig [bijlage XI](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=XI&z=2007-07-01&g=2007-07-01) bij deze regeling.
 
-6. Een verzoek om een uitspraak als bedoeld in [artikel 7: 253, tweede lid, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=253) wordt ingediend op een formulier overeenkomstig [bijlage XII](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=XII&z=2006-07-01&g=2006-07-01) bij deze regeling.
+6. Een verzoek om een uitspraak als bedoeld in [artikel 7: 253, tweede lid, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=253) wordt ingediend op een formulier overeenkomstig [bijlage XII](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=XII&z=2007-07-01&g=2007-07-01) bij deze regeling.
 
-7. Een verzoek om een uitspraak als bedoeld in [artikel 7: 255, tweede lid, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=255) wordt ingediend op een formulier overeenkomstig [bijlage XIII](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=XIII&z=2006-07-01&g=2006-07-01) bij deze regeling.
+7. Een verzoek om een uitspraak als bedoeld in [artikel 7: 255, tweede lid, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=255) wordt ingediend op een formulier overeenkomstig [bijlage XIII](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=XIII&z=2007-07-01&g=2007-07-01) bij deze regeling.
 
-8. Voor het doen van een voorstel tot verlaging van de huurprijs als bedoeld in [artikel 7: 252, derde lid, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=252) wordt gebruik gemaakt van een formulier overeenkomstig [bijlage XIV](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=XIV&z=2006-07-01&g=2006-07-01) bij deze regeling, vergezeld van een formulier overeenkomstig [bijlage XVa](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=XVa&z=2006-07-01&g=2006-07-01), [XVb](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=XVb&z=2006-07-01&g=2006-07-01) of [XVc](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=XVc&z=2006-07-01&g=2006-07-01) bij deze regeling.
+8. Voor het doen van een voorstel tot verlaging van de huurprijs als bedoeld in [artikel 7: 252, derde lid, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=252) wordt gebruik gemaakt van een formulier overeenkomstig [bijlage XIV](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=XIV&z=2007-07-01&g=2007-07-01) bij deze regeling, vergezeld van een formulier overeenkomstig [bijlage XVa](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=XVa&z=2007-07-01&g=2007-07-01), [XVb](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=XVb&z=2007-07-01&g=2007-07-01) of [XVc](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=XVc&z=2007-07-01&g=2007-07-01) bij deze regeling.
 
 #### § 7. Vrijstelling leges
 
@@ -140,7 +140,7 @@ De leden en de plaatsvervangende leden van een huurcommissie genieten vergoeding
 
 ##### Artikel 12
 
-Vrijstelling kan slechts worden verleend, indien voldaan is aan het bepaalde in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&paragraaf=7&artikel=11&z=2006-07-01&g=2006-07-01).
+Vrijstelling kan slechts worden verleend, indien voldaan is aan het bepaalde in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&paragraaf=7&artikel=11&z=2007-07-01&g=2007-07-01).
 
 #### § 8. Gebreken aan de woning
 
@@ -156,9 +156,9 @@ Vrijstelling kan slechts worden verleend, indien voldaan is aan het bepaalde in 
 
 ##### Artikel 14
 
-1. Indien een huurcommissie een besluit als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&paragraaf=8&artikel=13&z=2006-07-01&g=2006-07-01), heeft genomen, zendt zij een afschrift daarvan alsmede van de desbetreffende uitspraak naar de overige huurcommissies, uitgezonderd de huurcommissies die in de vergadering waarin het desbetreffende besluit is genomen over het aan dat besluit ten grondslag liggende voorstel hebben beslist.
+1. Indien een huurcommissie een besluit als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&paragraaf=8&artikel=13&z=2007-07-01&g=2007-07-01), heeft genomen, zendt zij een afschrift daarvan alsmede van de desbetreffende uitspraak naar de overige huurcommissies, uitgezonderd de huurcommissies die in de vergadering waarin het desbetreffende besluit is genomen over het aan dat besluit ten grondslag liggende voorstel hebben beslist.
 
-2. De huurcommissie aan wie een afschrift van een besluit als bedoeld in het eerste lid is gezonden, kan een overeenkomstig besluit nemen. [Artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&paragraaf=8&artikel=13&z=2006-07-01&g=2006-07-01) is met betrekking tot de totstandkoming van een zodanig besluit en de aanpassing van het gebrekenboek van overeenkomstige toepassing.
+2. De huurcommissie aan wie een afschrift van een besluit als bedoeld in het eerste lid is gezonden, kan een overeenkomstig besluit nemen. [Artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&paragraaf=8&artikel=13&z=2007-07-01&g=2007-07-01) is met betrekking tot de totstandkoming van een zodanig besluit en de aanpassing van het gebrekenboek van overeenkomstige toepassing.
 
 #### § 9. Slotbepalingen
 
@@ -178,1461 +178,341 @@ Deze regeling wordt aangehaald als: Uitvoeringsregeling huurprijzen woonruimte.
 
 ## Bijlage I
 
-| Punten | Bedrag |
-| --- | --- |
-| 40 | 166,13 |
-| 41 | 170,28 |
-| 42 | 174,44 |
-| 43 | 178,59 |
-| 44 | 182,73 |
-| 45 | 186,89 |
-| 46 | 191,05 |
-| 47 | 195,20 |
-| 48 | 199,36 |
-| 49 | 203,51 |
-| 50 | 207,66 |
-| 51 | 211,80 |
-| 52 | 215,96 |
-| 53 | 220,11 |
-| 54 | 224,27 |
-| 55 | 228,42 |
-| 56 | 232,58 |
-| 57 | 236,72 |
-| 58 | 240,88 |
-| 59 | 245,03 |
-| 60 | 249,19 |
-| 61 | 253,34 |
-| 62 | 257,49 |
-| 63 | 261,64 |
-| 64 | 265,79 |
-| 65 | 269,95 |
-| 66 | 274,11 |
-| 67 | 278,26 |
-| 68 | 282,40 |
-| 69 | 286,56 |
-| 70 | 290,70 |
-| 71 | 294,86 |
-| 72 | 299,02 |
-| 73 | 303,17 |
-| 74 | 307,32 |
-| 75 | 311,48 |
-| 76 | 315,62 |
-| 77 | 319,78 |
-| 78 | 323,94 |
-| 79 | 328,09 |
-| 80 | 332,24 |
-| 81 | 336,79 |
-| 82 | 341,35 |
-| 83 | 345,92 |
-| 84 | 350,47 |
-| 85 | 355,03 |
-| 86 | 359,59 |
-| 87 | 364,15 |
-| 88 | 368,71 |
-| 89 | 373,27 |
-| 90 | 377,83 |
-| 91 | 382,39 |
-| 92 | 386,95 |
-| 93 | 391,51 |
-| 94 | 396,06 |
-| 95 | 400,63 |
-| 96 | 405,19 |
-| 97 | 409,74 |
-| 98 | 414,30 |
-| 99 | 418,87 |
-| 100 | 423,42 |
-| 101 | 427,98 |
-| 102 | 432,54 |
-| 103 | 437,10 |
-| 104 | 441,66 |
-| 105 | 446,22 |
-| 106 | 450,78 |
-| 107 | 455,34 |
-| 108 | 459,90 |
-| 109 | 464,46 |
-| 110 | 469,01 |
-| 111 | 473,58 |
-| 112 | 478,14 |
-| 113 | 482,69 |
-| 114 | 487,26 |
-| 115 | 491,82 |
-| 116 | 496,37 |
-| 117 | 500,93 |
-| 118 | 505,49 |
-| 119 | 510,05 |
-| 120 | 514,61 |
-| 121 | 519,17 |
-| 122 | 523,73 |
-| 123 | 528,28 |
-| 124 | 532,85 |
-| 125 | 537,41 |
-| 126 | 541,96 |
-| 127 | 546,53 |
-| 128 | 551,09 |
-| 129 | 555,64 |
-| 130 | 560,21 |
-| 131 | 564,76 |
-| 132 | 569,32 |
-| 133 | 573,89 |
-| 134 | 578,44 |
-| 135 | 583,00 |
-| 136 | 587,55 |
-| 137 | 592,12 |
-| 138 | 596,67 |
-| 139 | 601,23 |
-| 140 | 605,79 |
-| 141 | 610,36 |
-| 142 | 614,90 |
-| 143 | 619,48 |
-| 144 | 624,03 |
-| 145 | 628,59 |
-| 146 | 633,15 |
-| 147 | 637,71 |
-| 148 | 642,26 |
-| 149 | 646,84 |
-| 150 | 651,38 |
-| 151 | 655,95 |
-| 152 | 660,50 |
-| 153 | 665,07 |
-| 154 | 669,62 |
-| 155 | 674,18 |
-| 156 | 678,74 |
-| 157 | 683,31 |
-| 158 | 687,85 |
-| 159 | 692,43 |
-| 160 | 696,97 |
-| 161 | 701,54 |
-| 162 | 706,10 |
-| 163 | 710,65 |
-| 164 | 715,21 |
-| 165 | 719,78 |
-| 166 | 724,33 |
-| 167 | 728,90 |
-| 168 | 733,45 |
-| 169 | 738,02 |
-| 170 | 742,57 |
-| 171 | 747,14 |
-| 172 | 751,69 |
-| 173 | 756,26 |
-| 174 | 760,8 |
-| 175 | 765,38 |
-| 176 | 769,92 |
-| 177 | 774,49 |
-| 178 | 779,05 |
-| 179 | 783,61 |
-| 180 | 788,16 |
-| 181 | 792,74 |
-| 182 | 797,28 |
-| 183 | 801,85 |
-| 184 | 806,40 |
-| 185 | 810,97 |
-| 186 | 815,52 |
-| 187 | 820,09 |
-| 188 | 824,64 |
-| 189 | 829,20 |
-| 190 | 833,76 |
-| 191 | 838,32 |
-| 192 | 842,87 |
-| 193 | 847,43 |
-| 194 | 852,00 |
-| 195 | 856,55 |
-| 196 | 861,11 |
-| 197 | 865,67 |
-| 198 | 870,23 |
-| 199 | 874,79 |
-| 200 | 879,35 |
-| 201 | 883,91 |
-| 202 | 888,47 |
-| 203 | 893,03 |
-| 204 | 897,59 |
-| 205 | 902,14 |
-| 206 | 906,71 |
-| 207 | 911,27 |
-| 208 | 915,82 |
-| 209 | 920,39 |
-| 210 | 924,95 |
-| 211 | 929,50 |
-| 212 | 934,06 |
-| 213 | 938,62 |
-| 214 | 943,18 |
-| 215 | 947,74 |
-| 216 | 952,30 |
-| 217 | 956,86 |
-| 218 | 961,41 |
-| 219 | 965,98 |
-| 220 | 970,54 |
-| 221 | 975,09 |
-| 222 | 979,66 |
-| 223 | 984,22 |
-| 224 | 988,77 |
-| 225 | 993,34 |
-| 226 | 997,89 |
-| 227 | 1002,45 |
-| 228 | 1007,02 |
-| 229 | 1011,57 |
-| 230 | 1016,13 |
-| 231 | 1020,69 |
-| 232 | 1025,25 |
-| 233 | 1029,81 |
-| 234 | 1034,36 |
-| 235 | 1038,93 |
-| 236 | 1043,49 |
-| 237 | 1048,04 |
-| 238 | 1052,61 |
-| 239 | 1057,17 |
-| 240 | 1061,72 |
-| 241 | 1066,29 |
-| 242 | 1070,84 |
-| 243 | 1075,40 |
-| 244 | 1079,97 |
-| 245 | 1084,52 |
-| 246 | 1089,08 |
-| 247 | 1093,63 |
-| 248 | 1098,20 |
-| 249 | 1102,75 |
-| 250 | 1107,31 |
+| punten | bedrag | punten | bedrag | punten | bedrag | punten | bedrag | punten | bedrag |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 40 | 167,96 | 82 | 345,11 | 124 | 538,72 | 166 | 732,30 | 208 | 925,90 |
+| 41 | 172,16 | 83 | 349,73 | 125 | 543,33 | 167 | 736,92 | 209 | 930,52 |
+| 42 | 176,36 | 84 | 354,33 | 126 | 547,93 | 168 | 741,52 | 210 | 935,13 |
+| 43 | 180,56 | 85 | 358,94 | 127 | 552,55 | 169 | 746,14 | 211 | 939,73 |
+| 44 | 184,74 | 86 | 363,55 | 128 | 557,16 | 170 | 750,74 | 212 | 944,34 |
+| 45 | 188,95 | 87 | 368,16 | 129 | 561,76 | 171 | 755,36 | 213 | 948,95 |
+| 46 | 193,16 | 88 | 372,77 | 130 | 566,38 | 172 | 759,96 | 214 | 953,56 |
+| 47 | 197,35 | 89 | 377,38 | 131 | 570,98 | 173 | 764,58 | 215 | 958,17 |
+| 48 | 201,56 | 90 | 381,99 | 132 | 575,59 | 174 | 769,17 | 216 | 962,78 |
+| 49 | 205,75 | 91 | 386,60 | 133 | 580,21 | 175 | 773,80 | 217 | 967,39 |
+| 50 | 209,95 | 92 | 391,21 | 134 | 584,81 | 176 | 778,39 | 218 | 971,99 |
+| 51 | 214,13 | 93 | 395,82 | 135 | 589,42 | 177 | 783,01 | 219 | 976,61 |
+| 52 | 218,34 | 94 | 400,42 | 136 | 594,02 | 178 | 787,62 | 220 | 981,22 |
+| 53 | 222,54 | 95 | 405,04 | 137 | 598,64 | 179 | 792,23 | 221 | 985,82 |
+| 54 | 226,74 | 96 | 409,65 | 138 | 603,24 | 180 | 796,83 | 222 | 990,44 |
+| 55 | 230,94 | 97 | 414,25 | 139 | 607,85 | 181 | 801,46 | 223 | 995,05 |
+| 56 | 235,14 | 98 | 418,86 | 140 | 612,46 | 182 | 806,05 | 224 | 999,65 |
+| 57 | 239,33 | 99 | 423,48 | 141 | 617,08 | 183 | 810,67 | 225 | 1004,27 |
+| 58 | 243,53 | 100 | 428,08 | 142 | 621,67 | 184 | 815,27 | 226 | 1008,87 |
+| 59 | 247,73 | 101 | 432,69 | 143 | 626,30 | 185 | 819,89 | 227 | 1013,48 |
+| 60 | 251,94 | 102 | 437,30 | 144 | 630,90 | 186 | 824,49 | 228 | 1018,10 |
+| 61 | 256,13 | 103 | 441,91 | 145 | 635,51 | 187 | 829,11 | 229 | 1022,70 |
+| 62 | 260,33 | 104 | 446,52 | 146 | 640,12 | 188 | 833,72 | 230 | 1027,31 |
+| 63 | 264,52 | 105 | 451,13 | 147 | 644,73 | 189 | 838,33 | 231 | 1031,92 |
+| 64 | 268,72 | 106 | 455,74 | 148 | 649,33 | 190 | 842,94 | 232 | 1036,53 |
+| 65 | 272,92 | 107 | 460,35 | 149 | 653,96 | 191 | 847,55 | 233 | 1041,14 |
+| 66 | 277,13 | 108 | 464,96 | 150 | 658,55 | 192 | 852,15 | 234 | 1045,74 |
+| 67 | 281,32 | 109 | 469,57 | 151 | 663,17 | 193 | 856,76 | 235 | 1050,36 |
+| 68 | 285,51 | 110 | 474,17 | 152 | 667,77 | 194 | 861,38 | 236 | 1054,97 |
+| 69 | 289,72 | 111 | 478,79 | 153 | 672,39 | 195 | 865,98 | 237 | 1059,57 |
+| 70 | 293,90 | 112 | 483,40 | 154 | 676,99 | 196 | 870,59 | 238 | 1064,19 |
+| 71 | 298,11 | 113 | 488,00 | 155 | 681,60 | 197 | 875,20 | 239 | 1068,80 |
+| 72 | 302,31 | 114 | 492,62 | 156 | 686,21 | 198 | 879,81 | 240 | 1073,40 |
+| 73 | 306,51 | 115 | 497,23 | 157 | 690,83 | 199 | 884,42 | 241 | 1078,02 |
+| 74 | 310,70 | 116 | 501,83 | 158 | 695,42 | 200 | 889,03 | 242 | 1082,62 |
+| 75 | 314,91 | 117 | 506,44 | 159 | 700,05 | 201 | 893,64 | 243 | 1087,23 |
+| 76 | 319,10 | 118 | 511,05 | 160 | 704,64 | 202 | 898,25 | 244 | 1091,85 |
+| 77 | 323,30 | 119 | 515,66 | 161 | 709,26 | 203 | 902,86 | 245 | 1096,45 |
+| 78 | 327,51 | 120 | 520,27 | 162 | 713,87 | 204 | 907,47 | 246 | 1101,06 |
+| 79 | 331,70 | 121 | 524,88 | 163 | 718,47 | 205 | 912,07 | 247 | 1105,66 |
+| 80 | 335,90 | 122 | 529,50 | 164 | 723,08 | 206 | 916,69 | 248 | 1110,28 |
+| 81 | 340,50 | 123 | 534,10 | 165 | 727,70 | 207 | 921,30 | 249 | 1114,88 |
+|   |   |   |   |   |   |   |   | 250 | 1119,49 |
 
 ## Bijlage II
 
-| Punten | Bedrag |
-| --- | --- |
-| 1 | 1,75 |
-| 2 | 3,48 |
-| 3 | 5,22 |
-| 4 | 6,96 |
-| 5 | 8,70 |
-| 6 | 10,44 |
-| 7 | 12,17 |
-| 8 | 13,91 |
-| 9 | 15,65 |
-| 10 | 17,38 |
-| 11 | 19,10 |
-| 12 | 20,84 |
-| 13 | 22,58 |
-| 14 | 24,31 |
-| 15 | 26,06 |
-| 16 | 27,78 |
-| 17 | 29,52 |
-| 18 | 31,26 |
-| 19 | 33,00 |
-| 20 | 34,72 |
-| 21 | 36,46 |
-| 22 | 38,19 |
-| 23 | 39,93 |
-| 24 | 41,66 |
-| 25 | 43,40 |
-| 26 | 45,14 |
-| 27 | 46,88 |
-| 28 | 48,61 |
-| 29 | 50,35 |
-| 30 | 52,07 |
-| 31 | 53,81 |
-| 32 | 55,55 |
-| 33 | 57,27 |
-| 34 | 59,01 |
-| 35 | 60,75 |
-| 36 | 62,49 |
-| 37 | 64,22 |
-| 38 | 65,96 |
-| 39 | 67,70 |
-| 40 | 69,43 |
-| 41 | 71,17 |
-| 42 | 72,89 |
-| 43 | 74,63 |
-| 44 | 76,36 |
-| 45 | 78,10 |
-| 46 | 79,83 |
-| 47 | 81,58 |
-| 48 | 83,32 |
-| 49 | 85,06 |
-| 50 | 86,78 |
-| 51 | 88,52 |
-| 52 | 90,26 |
-| 53 | 92,00 |
-| 54 | 93,73 |
-| 55 | 95,47 |
-| 56 | 97,19 |
-| 57 | 98,93 |
-| 58 | 100,67 |
-| 59 | 102,40 |
-| 60 | 104,13 |
-| 61 | 105,87 |
-| 62 | 107,61 |
-| 63 | 109,34 |
-| 64 | 111,08 |
-| 65 | 112,82 |
-| 66 | 114,56 |
-| 67 | 116,28 |
-| 68 | 118,02 |
-| 69 | 119,76 |
-| 70 | 121,48 |
-| 71 | 123,22 |
-| 72 | 124,95 |
-| 73 | 126,69 |
-| 74 | 128,43 |
-| 75 | 130,17 |
-| 76 | 131,90 |
-| 77 | 133,64 |
-| 78 | 135,37 |
-| 79 | 137,11 |
-| 80 | 138,83 |
-| 81 | 140,57 |
-| 82 | 142,31 |
-| 83 | 144,04 |
-| 84 | 145,78 |
-| 85 | 147,51 |
-| 86 | 149,25 |
-| 87 | 150,99 |
-| 88 | 152,73 |
-| 89 | 154,45 |
-| 90 | 156,19 |
-| 91 | 157,93 |
-| 92 | 159,67 |
-| 93 | 161,40 |
-| 94 | 163,14 |
-| 95 | 164,88 |
-| 96 | 166,62 |
-| 97 | 168,34 |
-| 98 | 170,08 |
-| 99 | 171,82 |
-| 100 | 173,56 |
-| 101 | 175,28 |
-| 102 | 177,01 |
-| 103 | 178,75 |
-| 104 | 180,49 |
-| 105 | 182,23 |
-| 106 | 183,96 |
-| 107 | 185,70 |
-| 108 | 187,44 |
-| 109 | 189,17 |
-| 110 | 190,91 |
-| 111 | 192,63 |
-| 112 | 194,36 |
-| 113 | 196,10 |
-| 114 | 197,84 |
-| 115 | 199,57 |
-| 116 | 201,31 |
-| 117 | 203,05 |
-| 118 | 204,79 |
-| 119 | 206,52 |
-| 120 | 208,26 |
-| 121 | 209,99 |
-| 122 | 211,73 |
-| 123 | 213,44 |
-| 124 | 215,19 |
-| 125 | 216,92 |
-| 126 | 218,66 |
-| 127 | 220,40 |
-| 128 | 222,13 |
-| 129 | 223,87 |
-| 130 | 225,61 |
-| 131 | 227,34 |
-| 132 | 229,07 |
-| 133 | 230,82 |
-| 134 | 232,55 |
-| 135 | 234,28 |
-| 136 | 236,02 |
-| 137 | 237,75 |
-| 138 | 239,50 |
-| 139 | 241,23 |
-| 140 | 242,97 |
-| 141 | 244,69 |
-| 142 | 246,43 |
-| 143 | 248,17 |
-| 144 | 249,91 |
-| 145 | 251,63 |
-| 146 | 253,37 |
-| 147 | 255,11 |
-| 148 | 256,85 |
-| 149 | 258,57 |
-| 150 | 260,32 |
-| 151 | 262,04 |
-| 152 | 263,78 |
-| 153 | 265,51 |
-| 154 | 267,25 |
-| 155 | 268,99 |
-| 156 | 270,73 |
-| 157 | 272,46 |
-| 158 | 274,19 |
-| 159 | 275,93 |
-| 160 | 277,67 |
-| 161 | 279,40 |
-| 162 | 281,13 |
-| 163 | 282,86 |
-| 164 | 284,61 |
-| 165 | 286,34 |
-| 166 | 288,07 |
-| 167 | 289,81 |
-| 168 | 291,54 |
-| 169 | 293,28 |
-| 170 | 295,02 |
-| 171 | 296,74 |
-| 172 | 298,48 |
-| 173 | 300,22 |
-| 174 | 301,96 |
-| 175 | 303,68 |
-| 176 | 305,44 |
-| 177 | 307,17 |
-| 178 | 308,91 |
-| 179 | 310,63 |
-| 180 | 312,37 |
-| 181 | 313,27 |
-| 182 | 314,17 |
-| 183 | 315,07 |
-| 184 | 315,97 |
-| 185 | 316,87 |
-| 186 | 317,77 |
-| 187 | 318,65 |
-| 188 | 319,57 |
-| 189 | 320,45 |
-| 190 | 321,36 |
-| 191 | 322,25 |
-| 192 | 323,16 |
-| 193 | 324,04 |
-| 194 | 324,95 |
-| 195 | 325,85 |
-| 196 | 326,75 |
-| 197 | 327,65 |
-| 198 | 328,55 |
-| 199 | 329,45 |
-| 200 | 330,35 |
-| 201 | 331,25 |
-| 202 | 332,15 |
-| 203 | 333,05 |
-| 204 | 333,93 |
-| 205 | 334,84 |
-| 206 | 335,73 |
-| 207 | 336,64 |
-| 208 | 337,54 |
-| 209 | 338,44 |
-| 210 | 339,33 |
-| 211 | 340,23 |
-| 212 | 341,13 |
-| 213 | 342,03 |
-| 214 | 342,93 |
-| 215 | 343,82 |
-| 216 | 344,72 |
-| 217 | 345,62 |
-| 218 | 346,52 |
-| 219 | 347,43 |
-| 220 | 348,33 |
-| 221 | 349,22 |
-| 222 | 350,12 |
-| 223 | 351,02 |
-| 224 | 351,92 |
-| 225 | 352,81 |
-| 226 | 353,72 |
-| 227 | 354,61 |
-| 228 | 355,51 |
-| 229 | 356,41 |
-| 230 | 357,32 |
-| 231 | 358,20 |
-| 232 | 359,12 |
-| 233 | 360,00 |
-| 234 | 360,91 |
-| 235 | 361,79 |
-| 236 | 362,71 |
-| 237 | 363,59 |
-| 238 | 364,50 |
-| 239 | 365,39 |
-| 240 | 366,29 |
-| 241 | 367,20 |
-| 242 | 368,10 |
-| 243 | 369,00 |
-| 244 | 369,90 |
-| 245 | 370,80 |
-| 246 | 371,69 |
-| 247 | 372,59 |
-| 248 | 373,49 |
-| 249 | 374,39 |
-| 250 | 375,29 |
-| 251 | 376,18 |
-| 252 | 377,09 |
-| 253 | 377,97 |
-| 254 | 378,89 |
-| 255 | 379,77 |
-| 256 | 380,68 |
-| 257 | 381,56 |
-| 258 | 382,48 |
-| 259 | 383,36 |
-| 260 | 384,28 |
-| 261 | 385,16 |
-| 262 | 386,08 |
-| 263 | 386,96 |
-| 264 | 387,88 |
-| 265 | 388,77 |
-| 266 | 389,67 |
-| 267 | 390,57 |
-| 268 | 391,47 |
-| 269 | 392,36 |
-| 270 | 393,26 |
-| 271 | 394,16 |
-| 272 | 395,05 |
-| 273 | 395,96 |
-| 274 | 396,85 |
-| 275 | 397,75 |
-| 276 | 398,66 |
-| 277 | 399,55 |
-| 278 | 400,45 |
-| 279 | 401,35 |
-| 280 | 402,25 |
-| 281 | 403,14 |
-| 282 | 404,04 |
-| 283 | 404,95 |
-| 284 | 405,85 |
-| 285 | 406,75 |
-| 286 | 407,65 |
-| 287 | 408,54 |
-| 288 | 409,44 |
-| 289 | 410,34 |
-| 290 | 411,24 |
-| 291 | 412,13 |
-| 292 | 413,03 |
-| 293 | 413,93 |
-| 294 | 414,83 |
-| 295 | 415,73 |
-| 296 | 416,63 |
-| 297 | 417,52 |
-| 298 | 418,43 |
-| 299 | 419,32 |
-| 300 | 420,23 |
-| 301 | 421,12 |
-| 302 | 422,03 |
-| 303 | 422,91 |
-| 304 | 423,82 |
-| 305 | 424,72 |
-| 306 | 425,62 |
-| 307 | 426,52 |
-| 308 | 427,42 |
-| 309 | 428,31 |
-| 310 | 429,21 |
-| 311 | 430,12 |
-| 312 | 431,01 |
-| 313 | 431,91 |
-| 314 | 432,81 |
-| 315 | 433,71 |
-| 316 | 434,60 |
-| 317 | 435,51 |
-| 318 | 436,40 |
-| 319 | 437,29 |
-| 320 | 438,20 |
-| 321 | 439,09 |
-| 322 | 440,00 |
-| 323 | 440,88 |
-| 324 | 441,81 |
-| 325 | 442,69 |
-| 326 | 443,60 |
-| 327 | 444,49 |
-| 328 | 445,40 |
-| 329 | 446,28 |
-| 330 | 447,20 |
-| 331 | 448,08 |
-| 332 | 448,99 |
-| 333 | 449,88 |
-| 334 | 450,79 |
-| 335 | 451,68 |
-| 336 | 452,58 |
-| 337 | 453,48 |
-| 338 | 454,37 |
-| 339 | 455,27 |
-| 340 | 456,17 |
-| 341 | 457,07 |
-| 342 | 457,97 |
-| 343 | 458,87 |
-| 344 | 459,77 |
-| 345 | 460,67 |
-| 346 | 461,58 |
-| 347 | 462,47 |
-| 348 | 463,38 |
-| 349 | 464,27 |
-| 350 | 465,17 |
-| 351 | 466,05 |
-| 352 | 466,97 |
-| 353 | 467,85 |
-| 354 | 468,76 |
-| 355 | 469,65 |
-| 356 | 470,56 |
-| 357 | 471,45 |
-| 358 | 472,36 |
-| 359 | 473,25 |
-| 360 | 474,15 |
-| 361 | 475,04 |
-| 362 | 475,95 |
-| 363 | 476,84 |
-| 364 | 477,74 |
-| 365 | 478,64 |
-| 366 | 479,55 |
-| 367 | 480,44 |
-| 368 | 481,35 |
-| 369 | 482,25 |
-| 370 | 483,14 |
-| 371 | 484,05 |
-| 372 | 484,94 |
-| 373 | 485,84 |
-| 374 | 486,74 |
-| 375 | 487,64 |
-| 376 | 488,53 |
-| 377 | 489,44 |
-| 378 | 490,33 |
-| 379 | 491,24 |
-| 380 | 492,12 |
-| 381 | 493,04 |
-| 382 | 493,92 |
-| 383 | 494,84 |
-| 384 | 495,72 |
-| 385 | 496,62 |
-| 386 | 497,51 |
-| 387 | 498,43 |
-| 388 | 499,32 |
-| 389 | 500,23 |
-| 390 | 501,13 |
-| 391 | 502,02 |
-| 392 | 502,92 |
-| 393 | 503,82 |
-| 394 | 504,72 |
-| 395 | 505,61 |
-| 396 | 506,51 |
-| 397 | 507,41 |
-| 398 | 508,31 |
-| 399 | 509,21 |
-| 400 | 510,11 |
-| 401 | 511,00 |
-| 402 | 511,89 |
-| 403 | 512,81 |
-| 404 | 513,69 |
-| 405 | 514,60 |
-| 406 | 515,49 |
-| 407 | 516,40 |
-| 408 | 517,29 |
-| 409 | 518,21 |
-| 410 | 519,09 |
-| 411 | 520,00 |
-| 412 | 520,89 |
-| 413 | 521,80 |
-| 414 | 522,69 |
-| 415 | 523,60 |
-| 416 | 524,49 |
-| 417 | 525,38 |
-| 418 | 526,29 |
-| 419 | 527,18 |
-| 420 | 528,08 |
-| 421 | 528,97 |
-| 422 | 529,88 |
-| 423 | 530,77 |
-| 424 | 531,68 |
-| 425 | 532,58 |
-| 426 | 533,47 |
-| 427 | 534,37 |
-| 428 | 535,27 |
-| 429 | 536,18 |
-| 430 | 537,08 |
-| 431 | 537,97 |
-| 432 | 538,87 |
-| 433 | 539,77 |
-| 434 | 540,66 |
-| 435 | 541,57 |
-| 436 | 542,46 |
-| 437 | 543,36 |
-| 438 | 544,26 |
-| 439 | 545,16 |
-| 440 | 546,06 |
-| 441 | 546,96 |
-| 442 | 547,85 |
-| 443 | 548,75 |
-| 444 | 549,65 |
-| 445 | 550,55 |
-| 446 | 551,45 |
-| 447 | 552,36 |
-| 448 | 553,24 |
-| 449 | 554,16 |
-| 450 | 555,05 |
-| 451 | 555,95 |
-| 452 | 556,84 |
-| 453 | 557,75 |
-| 454 | 558,64 |
-| 455 | 559,54 |
-| 456 | 560,44 |
-| 457 | 561,34 |
-| 458 | 562,23 |
-| 459 | 563,14 |
-| 460 | 564,04 |
-| 461 | 564,93 |
-| 462 | 565,83 |
-| 463 | 566,73 |
-| 464 | 567,63 |
-| 465 | 568,53 |
-| 466 | 569,43 |
-| 467 | 570,32 |
-| 468 | 571,21 |
-| 469 | 572,12 |
-| 470 | 573,02 |
-| 471 | 573,94 |
-| 472 | 574,81 |
-| 473 | 575,73 |
-| 474 | 576,61 |
-| 475 | 577,53 |
-| 476 | 578,41 |
-| 477 | 579,32 |
-| 478 | 580,20 |
-| 479 | 581,12 |
-| 480 | 582,00 |
-| 481 | 582,92 |
-| 482 | 583,81 |
-| 483 | 584,70 |
-| 484 | 585,60 |
-| 485 | 586,50 |
-| 486 | 587,40 |
-| 487 | 588,30 |
-| 488 | 589,20 |
-| 489 | 590,09 |
-| 490 | 590,99 |
-| 491 | 591,90 |
-| 492 | 592,80 |
-| 493 | 593,69 |
-| 494 | 594,60 |
-| 495 | 595,50 |
-| 496 | 596,39 |
-| 497 | 597,30 |
-| 498 | 598,19 |
-| 499 | 599,09 |
-| 500 | 599,98 |
-| 501 | 600,89 |
-| 502 | 601,77 |
-| 503 | 602,68 |
-| 504 | 603,57 |
-| 505 | 604,48 |
-| 506 | 605,38 |
-| 507 | 606,28 |
-| 508 | 607,17 |
-| 509 | 608,07 |
-| 510 | 608,97 |
-| 511 | 609,87 |
-| 512 | 610,77 |
-| 513 | 611,68 |
-| 514 | 612,57 |
-| 515 | 613,46 |
-| 516 | 614,37 |
-| 517 | 615,27 |
-| 518 | 616,16 |
-| 519 | 617,06 |
-| 520 | 617,96 |
-| 521 | 618,86 |
-| 522 | 619,76 |
-| 523 | 620,66 |
-| 524 | 621,55 |
-| 525 | 622,45 |
-| 526 | 623,35 |
-| 527 | 624,25 |
-| 528 | 625,16 |
-| 529 | 626,05 |
-| 530 | 626,95 |
-| 531 | 627,84 |
-| 532 | 628,74 |
-| 533 | 629,65 |
-| 534 | 630,54 |
-| 535 | 631,45 |
-| 536 | 632,34 |
-| 537 | 633,24 |
-| 538 | 634,14 |
-| 539 | 635,05 |
-| 540 | 635,93 |
-| 541 | 636,85 |
-| 542 | 637,73 |
-| 543 | 638,64 |
-| 544 | 639,53 |
-| 545 | 640,44 |
-| 546 | 641,32 |
-| 547 | 642,23 |
-| 548 | 643,12 |
-| 549 | 644,02 |
-| 550 | 644,91 |
-| 551 | 645,82 |
-| 552 | 646,72 |
-| 553 | 647,61 |
-| 554 | 648,53 |
-| 555 | 649,42 |
-| 556 | 650,32 |
-| 557 | 651,22 |
-| 558 | 652,12 |
-| 559 | 653,01 |
-| 560 | 653,91 |
-| 561 | 654,81 |
-| 562 | 655,71 |
-| 563 | 656,62 |
-| 564 | 657,51 |
-| 565 | 658,41 |
-| 566 | 659,29 |
-| 567 | 660,21 |
-| 568 | 661,09 |
-| 569 | 662,01 |
-| 570 | 662,89 |
-| 571 | 663,80 |
-| 572 | 664,68 |
-| 573 | 665,60 |
-| 574 | 666,49 |
-| 575 | 667,41 |
-| 576 | 668,31 |
-| 577 | 669,20 |
-| 578 | 670,10 |
-| 579 | 671,00 |
-| 580 | 671,90 |
-| 581 | 672,78 |
-| 582 | 673,69 |
-| 583 | 674,58 |
-| 584 | 675,49 |
-| 585 | 676,39 |
-| 586 | 677,29 |
-| 587 | 678,18 |
-| 588 | 679,08 |
-| 589 | 679,98 |
-| 590 | 680,88 |
-| 591 | 681,77 |
-| 592 | 682,68 |
-| 593 | 683,57 |
-| 594 | 684,47 |
-| 595 | 685,38 |
-| 596 | 686,29 |
-| 597 | 687,17 |
-| 598 | 688,08 |
-| 599 | 688,97 |
-| 600 | 689,87 |
-| 601 | 690,76 |
-| 602 | 691,67 |
-| 603 | 692,56 |
-| 604 | 693,47 |
-| 605 | 694,36 |
-| 606 | 695,26 |
-| 607 | 696,15 |
-| 608 | 697,06 |
-| 609 | 697,96 |
-| 610 | 698,86 |
-| 611 | 699,76 |
-| 612 | 700,65 |
-| 613 | 701,55 |
-| 614 | 702,45 |
-| 615 | 703,34 |
-| 616 | 704,26 |
-| 617 | 705,14 |
-| 618 | 706,05 |
-| 619 | 706,94 |
-| 620 | 707,86 |
-| 621 | 708,74 |
-| 622 | 709,65 |
-| 623 | 710,53 |
-| 624 | 711,45 |
-| 625 | 712,33 |
-| 626 | 713,25 |
-| 627 | 714,13 |
-| 628 | 715,04 |
-| 629 | 715,92 |
-| 630 | 716,84 |
-| 631 | 717,73 |
-| 632 | 718,62 |
-| 633 | 719,53 |
-| 634 | 720,42 |
-| 635 | 721,32 |
-| 636 | 722,22 |
-| 637 | 723,13 |
-| 638 | 724,02 |
-| 639 | 724,93 |
-| 640 | 725,82 |
-| 641 | 726,72 |
-| 642 | 727,63 |
-| 643 | 728,52 |
-| 644 | 729,42 |
-| 645 | 730,32 |
-| 646 | 731,22 |
-| 647 | 732,10 |
-| 648 | 733,01 |
-| 649 | 733,90 |
-| 650 | 734,81 |
-| 651 | 735,70 |
-| 652 | 736,61 |
-| 653 | 737,49 |
-| 654 | 738,40 |
-| 655 | 739,30 |
-| 656 | 740,20 |
-| 657 | 741,10 |
-| 658 | 742,00 |
-| 659 | 742,90 |
-| 660 | 743,80 |
-| 661 | 744,70 |
-| 662 | 745,60 |
-| 663 | 746,49 |
-| 664 | 747,38 |
-| 665 | 748,29 |
-| 666 | 749,19 |
-| 667 | 750,09 |
-| 668 | 750,99 |
-| 669 | 751,88 |
-| 670 | 752,78 |
-| 671 | 753,68 |
-| 672 | 754,58 |
-| 673 | 755,47 |
-| 674 | 756,38 |
-| 675 | 757,27 |
-| 676 | 758,17 |
-| 677 | 759,08 |
-| 678 | 759,97 |
-| 679 | 760,87 |
-| 680 | 761,78 |
-| 681 | 762,67 |
-| 682 | 763,57 |
-| 683 | 764,47 |
-| 684 | 765,37 |
-| 685 | 766,26 |
-| 686 | 767,17 |
-| 687 | 768,06 |
-| 688 | 768,97 |
-| 689 | 769,85 |
-| 690 | 770,77 |
-| 691 | 771,65 |
-| 692 | 772,57 |
-| 693 | 773,45 |
-| 694 | 774,36 |
-| 695 | 775,24 |
-| 696 | 776,15 |
-| 697 | 777,04 |
-| 698 | 777,95 |
-| 699 | 778,83 |
-| 700 | 779,75 |
-| 701 | 780,65 |
-| 702 | 781,55 |
-| 703 | 782,45 |
-| 704 | 783,34 |
-| 705 | 784,24 |
-| 706 | 785,14 |
-| 707 | 786,04 |
-| 708 | 786,94 |
-| 709 | 787,84 |
-| 710 | 788,73 |
-| 711 | 789,63 |
-| 712 | 790,54 |
-| 713 | 791,42 |
-| 714 | 792,34 |
-| 715 | 793,22 |
-| 716 | 794,13 |
-| 717 | 795,01 |
-| 718 | 795,93 |
-| 719 | 796,81 |
-| 720 | 797,72 |
-| 721 | 798,62 |
-| 722 | 799,53 |
-| 723 | 800,42 |
-| 724 | 801,33 |
-| 725 | 802,22 |
-| 726 | 803,12 |
-| 727 | 804,02 |
-| 728 | 804,92 |
-| 729 | 805,81 |
-| 730 | 806,70 |
-| 731 | 807,61 |
-| 732 | 808,50 |
-| 733 | 809,41 |
-| 734 | 810,31 |
-| 735 | 811,20 |
-| 736 | 812,10 |
-| 737 | 813,00 |
-| 738 | 813,90 |
-| 739 | 814,79 |
-| 740 | 815,70 |
-| 741 | 816,60 |
-| 742 | 817,50 |
-| 743 | 818,40 |
-| 744 | 819,30 |
-| 745 | 820,18 |
-| 746 | 821,09 |
-| 747 | 821,99 |
-| 748 | 822,89 |
-| 749 | 823,79 |
-| 750 | 824,69 |
-| >750 | * maximale huurprijsgrens behorende bij meer dan 750 Punten is het Bedrag dat wordt verkregen door € 0,90 (dat Bedrag komt overeen met het verschil tussen de Bedragen, genoemd bij 750 en 749 Punten) te vermenigvuldigen met het aantal Punten van de woonruimte verminderd met 750, en bij de verkregen uitkomst € 824,69 (dat Bedrag komt overeen met het Bedrag genoemd bij 750 Punten) op te tellen. |
+| punten | bedrag | punten | bedrag | punten | bedrag | punten | bedrag | punten | bedrag |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 1,77 | 54 | 94,77 | 107 | 187,75 | 160 | 280,73 | 213 | 345,80 |
+| 2 | 3,52 | 55 | 96,52 | 108 | 189,51 | 161 | 282,48 | 214 | 346,71 |
+| 3 | 5,28 | 56 | 98,26 | 109 | 191,25 | 162 | 284,23 | 215 | 347,61 |
+| 4 | 7,04 | 57 | 100,02 | 110 | 193,01 | 163 | 285,98 | 216 | 348,52 |
+| 5 | 8,80 | 58 | 101,78 | 111 | 194,75 | 164 | 287,74 | 217 | 349,43 |
+| 6 | 10,56 | 59 | 103,53 | 112 | 196,50 | 165 | 289,49 | 218 | 350,34 |
+| 7 | 12,31 | 60 | 105,28 | 113 | 198,26 | 166 | 291,24 | 219 | 351,26 |
+| 8 | 14,07 | 61 | 107,04 | 114 | 200,02 | 167 | 293,00 | 220 | 352,17 |
+| 9 | 15,83 | 62 | 108,80 | 115 | 201,77 | 168 | 294,75 | 221 | 353,07 |
+| 10 | 17,58 | 63 | 110,55 | 116 | 203,53 | 169 | 296,51 | 222 | 353,98 |
+| 11 | 19,31 | 64 | 112,31 | 117 | 205,29 | 170 | 298,27 | 223 | 354,89 |
+| 12 | 21,07 | 65 | 114,07 | 118 | 207,05 | 171 | 300,01 | 224 | 355,80 |
+| 13 | 22,83 | 66 | 115,82 | 119 | 208,80 | 172 | 301,77 | 225 | 356,69 |
+| 14 | 24,58 | 67 | 117,56 | 120 | 210,55 | 173 | 303,53 | 226 | 357,61 |
+| 15 | 26,35 | 68 | 119,32 | 121 | 212,30 | 174 | 305,29 | 227 | 358,51 |
+| 16 | 28,09 | 69 | 121,08 | 122 | 214,06 | 175 | 307,02 | 228 | 359,42 |
+| 17 | 29,85 | 70 | 122,82 | 123 | 215,79 | 176 | 308,80 | 229 | 360,33 |
+| 18 | 31,61 | 71 | 124,58 | 124 | 217,56 | 177 | 310,55 | 230 | 361,25 |
+| 19 | 33,37 | 72 | 126,33 | 125 | 219,31 | 178 | 312,31 | 231 | 362,14 |
+| 20 | 35,11 | 73 | 128,09 | 126 | 221,07 | 179 | 314,05 | 232 | 363,07 |
+| 21 | 36,87 | 74 | 129,85 | 127 | 222,83 | 180 | 315,81 | 233 | 363,96 |
+| 22 | 38,61 | 75 | 131,61 | 128 | 224,58 | 181 | 316,72 | 234 | 364,88 |
+| 23 | 40,37 | 76 | 133,35 | 129 | 226,34 | 182 | 317,63 | 235 | 365,77 |
+| 24 | 42,12 | 77 | 135,11 | 130 | 228,10 | 183 | 318,54 | 236 | 366,70 |
+| 25 | 43,88 | 78 | 136,86 | 131 | 229,84 | 184 | 319,45 | 237 | 367,59 |
+| 26 | 45,64 | 79 | 138,62 | 132 | 231,59 | 185 | 320,36 | 238 | 368,51 |
+| 27 | 47,40 | 80 | 140,36 | 133 | 233,36 | 186 | 321,27 | 239 | 369,41 |
+| 28 | 49,15 | 81 | 142,12 | 134 | 235,11 | 187 | 322,16 | 240 | 370,32 |
+| 29 | 50,91 | 82 | 143,88 | 135 | 236,86 | 188 | 323,09 | 241 | 371,24 |
+| 30 | 52,65 | 83 | 145,63 | 136 | 238,62 | 189 | 323,98 | 242 | 372,15 |
+| 31 | 54,41 | 84 | 147,39 | 137 | 240,37 | 190 | 324,90 | 243 | 373,06 |
+| 32 | 56,17 | 85 | 149,14 | 138 | 242,14 | 191 | 325,80 | 244 | 373,97 |
+| 33 | 57,90 | 86 | 150,90 | 139 | 243,89 | 192 | 326,72 | 245 | 374,88 |
+| 34 | 59,66 | 87 | 152,65 | 140 | 245,65 | 193 | 327,61 | 246 | 375,78 |
+| 35 | 61,42 | 88 | 154,41 | 141 | 247,39 | 194 | 328,53 | 247 | 376,69 |
+| 36 | 63,18 | 89 | 156,15 | 142 | 249,14 | 195 | 329,44 | 248 | 377,60 |
+| 37 | 64,93 | 90 | 157,91 | 143 | 250,90 | 196 | 330,35 | 249 | 378,51 |
+| 38 | 66,69 | 91 | 159,67 | 144 | 252,66 | 197 | 331,26 | 250 | 379,42 |
+| 39 | 68,45 | 92 | 161,43 | 145 | 254,40 | 198 | 332,17 | 251 | 380,32 |
+| 40 | 70,20 | 93 | 163,18 | 146 | 256,16 | 199 | 333,08 | 252 | 381,24 |
+| 41 | 71,96 | 94 | 164,94 | 147 | 257,92 | 200 | 333,99 | 253 | 382,13 |
+| 42 | 73,70 | 95 | 166,70 | 148 | 259,68 | 201 | 334,90 | 254 | 383,06 |
+| 43 | 75,45 | 96 | 168,46 | 149 | 261,42 | 202 | 335,81 | 255 | 383,95 |
+| 44 | 77,20 | 97 | 170,20 | 150 | 263,19 | 203 | 336,72 | 256 | 384,87 |
+| 45 | 78,96 | 98 | 171,95 | 151 | 264,93 | 204 | 337,61 | 257 | 385,76 |
+| 46 | 80,71 | 99 | 173,71 | 152 | 266,69 | 205 | 338,53 | 258 | 386,69 |
+| 47 | 82,48 | 100 | 175,47 | 153 | 268,43 | 206 | 339,43 | 259 | 387,58 |
+| 48 | 84,24 | 101 | 177,21 | 154 | 270,19 | 207 | 340,35 | 260 | 388,51 |
+| 49 | 86,00 | 102 | 178,96 | 155 | 271,95 | 208 | 341,26 | 261 | 389,40 |
+| 50 | 87,74 | 103 | 180,72 | 156 | 273,71 | 209 | 342,17 | 262 | 390,33 |
+| 51 | 89,50 | 104 | 182,48 | 157 | 275,46 | 210 | 343,07 | 263 | 391,22 |
+| 52 | 91,26 | 105 | 184,24 | 158 | 277,21 | 211 | 343,98 | 264 | 392,15 |
+| 53 | 93,02 | 106 | 185,99 | 159 | 278,97 | 212 | 344,89 | 265 | 393,05 |
+|   |   |   |   |   |   |   |   |   |   |
+| 266 | 393,96 | 319 | 442,10 | 372 | 490,28 | 425 | 538,44 | 478 | 586,59 |
+| 267 | 394,87 | 320 | 443,02 | 373 | 491,19 | 426 | 539,34 | 479 | 587,52 |
+| 268 | 395,78 | 321 | 443,92 | 374 | 492,10 | 427 | 540,25 | 480 | 588,41 |
+| 269 | 396,68 | 322 | 444,84 | 375 | 493,01 | 428 | 541,16 | 481 | 589,34 |
+| 270 | 397,59 | 323 | 445,73 | 376 | 493,91 | 429 | 542,08 | 482 | 590,24 |
+| 271 | 398,50 | 324 | 446,67 | 377 | 494,83 | 430 | 542,99 | 483 | 591,14 |
+| 272 | 399,40 | 325 | 447,56 | 378 | 495,73 | 431 | 543,89 | 484 | 592,05 |
+| 273 | 400,32 | 326 | 448,48 | 379 | 496,65 | 432 | 544,80 | 485 | 592,96 |
+| 274 | 401,22 | 327 | 449,38 | 380 | 497,54 | 433 | 545,71 | 486 | 593,87 |
+| 275 | 402,13 | 328 | 450,30 | 381 | 498,47 | 434 | 546,61 | 487 | 594,78 |
+| 276 | 403,05 | 329 | 451,19 | 382 | 499,36 | 435 | 547,53 | 488 | 595,69 |
+| 277 | 403,95 | 330 | 452,12 | 383 | 500,29 | 436 | 548,43 | 489 | 596,58 |
+| 278 | 404,86 | 331 | 453,01 | 384 | 501,18 | 437 | 549,34 | 490 | 597,49 |
+| 279 | 405,77 | 332 | 453,93 | 385 | 502,09 | 438 | 550,25 | 491 | 598,41 |
+| 280 | 406,68 | 333 | 454,83 | 386 | 502,99 | 439 | 551,16 | 492 | 599,32 |
+| 281 | 407,58 | 334 | 455,75 | 387 | 503,92 | 440 | 552,07 | 493 | 600,22 |
+| 282 | 408,49 | 335 | 456,65 | 388 | 504,82 | 441 | 552,98 | 494 | 601,14 |
+| 283 | 409,41 | 336 | 457,56 | 389 | 505,74 | 442 | 553,88 | 495 | 602,05 |
+| 284 | 410,32 | 337 | 458,47 | 390 | 506,65 | 443 | 554,79 | 496 | 602,95 |
+| 285 | 411,23 | 338 | 459,37 | 391 | 507,55 | 444 | 555,70 | 497 | 603,87 |
+| 286 | 412,14 | 339 | 460,28 | 392 | 508,46 | 445 | 556,61 | 498 | 604,77 |
+| 287 | 413,04 | 340 | 461,19 | 393 | 509,37 | 446 | 557,52 | 499 | 605,68 |
+| 288 | 413,95 | 341 | 462,10 | 394 | 510,28 | 447 | 558,44 | 500 | 606,58 |
+| 289 | 414,86 | 342 | 463,01 | 395 | 511,18 | 448 | 559,33 | 501 | 607,50 |
+| 290 | 415,77 | 343 | 463,92 | 396 | 512,09 | 449 | 560,26 | 502 | 608,39 |
+| 291 | 416,67 | 344 | 464,83 | 397 | 513,00 | 450 | 561,16 | 503 | 609,31 |
+| 292 | 417,58 | 345 | 465,74 | 398 | 513,91 | 451 | 562,07 | 504 | 610,21 |
+| 293 | 418,49 | 346 | 466,66 | 399 | 514,82 | 452 | 562,97 | 505 | 611,13 |
+| 294 | 419,40 | 347 | 467,56 | 400 | 515,73 | 453 | 563,89 | 506 | 612,04 |
+| 295 | 420,31 | 348 | 468,48 | 401 | 516,63 | 454 | 564,79 | 507 | 612,95 |
+| 296 | 421,22 | 349 | 469,38 | 402 | 517,52 | 455 | 565,70 | 508 | 613,85 |
+| 297 | 422,12 | 350 | 470,29 | 403 | 518,45 | 456 | 566,61 | 509 | 614,76 |
+| 298 | 423,04 | 351 | 471,18 | 404 | 519,34 | 457 | 567,52 | 510 | 615,67 |
+| 299 | 423,94 | 352 | 472,11 | 405 | 520,26 | 458 | 568,42 | 511 | 616,58 |
+| 300 | 424,86 | 353 | 473,00 | 406 | 521,16 | 459 | 569,34 | 512 | 617,49 |
+| 301 | 425,76 | 354 | 473,92 | 407 | 522,08 | 460 | 570,25 | 513 | 618,41 |
+| 302 | 426,68 | 355 | 474,82 | 408 | 522,98 | 461 | 571,15 | 514 | 619,31 |
+| 303 | 427,57 | 356 | 475,74 | 409 | 523,91 | 462 | 572,06 | 515 | 620,21 |
+| 304 | 428,49 | 357 | 476,64 | 410 | 524,80 | 463 | 572,97 | 516 | 621,13 |
+| 305 | 429,40 | 358 | 477,56 | 411 | 525,72 | 464 | 573,88 | 517 | 622,04 |
+| 306 | 430,31 | 359 | 478,46 | 412 | 526,62 | 465 | 574,79 | 518 | 622,94 |
+| 307 | 431,22 | 360 | 479,37 | 413 | 527,54 | 466 | 575,70 | 519 | 623,85 |
+| 308 | 432,13 | 361 | 480,27 | 414 | 528,44 | 467 | 576,60 | 520 | 624,76 |
+| 309 | 433,03 | 362 | 481,19 | 415 | 529,36 | 468 | 577,50 | 521 | 625,67 |
+| 310 | 433,94 | 363 | 482,09 | 416 | 530,26 | 469 | 578,42 | 522 | 626,58 |
+| 311 | 434,86 | 364 | 483,00 | 417 | 531,16 | 470 | 579,33 | 523 | 627,49 |
+| 312 | 435,76 | 365 | 483,91 | 418 | 532,08 | 471 | 580,26 | 524 | 628,39 |
+| 313 | 436,67 | 366 | 484,83 | 419 | 532,98 | 472 | 581,14 | 525 | 629,30 |
+| 314 | 437,57 | 367 | 485,73 | 420 | 533,89 | 473 | 582,07 | 526 | 630,21 |
+| 315 | 438,48 | 368 | 486,65 | 421 | 534,79 | 474 | 582,96 | 527 | 631,12 |
+| 316 | 439,38 | 369 | 487,56 | 422 | 535,71 | 475 | 583,89 | 528 | 632,04 |
+| 317 | 440,30 | 370 | 488,46 | 423 | 536,61 | 476 | 584,78 | 529 | 632,94 |
+| 318 | 441,20 | 371 | 489,38 | 424 | 537,53 | 477 | 585,70 | 530 | 633,85 |
+|   |   |   |   |   |   |   |   |   |   |
+| 531 | 634,75 | 584 | 682,92 | 637 | 731,09 | 690 | 779,25 | 743 | 827,41 |
+| 532 | 635,66 | 585 | 683,83 | 638 | 731,99 | 691 | 780,14 | 744 | 828,32 |
+| 533 | 636,58 | 586 | 684,74 | 639 | 732,91 | 692 | 781,07 | 745 | 829,21 |
+| 534 | 637,48 | 587 | 685,64 | 640 | 733,81 | 693 | 781,96 | 746 | 830,13 |
+| 535 | 638,40 | 588 | 686,55 | 641 | 734,72 | 694 | 782,88 | 747 | 831,04 |
+| 536 | 639,30 | 589 | 687,46 | 642 | 735,64 | 695 | 783,77 | 748 | 831,95 |
+| 537 | 640,21 | 590 | 688,37 | 643 | 736,54 | 696 | 784,69 | 749 | 832,86 |
+| 538 | 641,12 | 591 | 689,27 | 644 | 737,45 | 697 | 785,59 | 750 | 833,77 |
+| 539 | 642,04 | 592 | 690,19 | 645 | 738,36 | 698 | 786,51 | >750 | * |
+| 540 | 642,93 | 593 | 691,09 | 646 | 739,27 | 699 | 787,40 |   |   |
+| 541 | 643,86 | 594 | 692,00 | 647 | 740,16 | 700 | 788,33 |   |   |
+| 542 | 644,75 | 595 | 692,92 | 648 | 741,08 | 701 | 789,24 |   |   |
+| 543 | 645,67 | 596 | 693,84 | 649 | 741,98 | 702 | 790,15 |   |   |
+| 544 | 646,57 | 597 | 694,73 | 650 | 742,90 | 703 | 791,06 |   |   |
+| 545 | 647,49 | 598 | 695,65 | 651 | 743,80 | 704 | 791,96 |   |   |
+| 546 | 648,38 | 599 | 696,55 | 652 | 744,72 | 705 | 792,87 |   |   |
+| 547 | 649,30 | 600 | 697,46 | 653 | 745,61 | 706 | 793,78 |   |   |
+| 548 | 650,20 | 601 | 698,36 | 654 | 746,53 | 707 | 794,69 |   |   |
+| 549 | 651,11 | 602 | 699,28 | 655 | 747,44 | 708 | 795,60 |   |   |
+| 550 | 652,01 | 603 | 700,18 | 656 | 748,35 | 709 | 796,51 |   |   |
+| 551 | 652,93 | 604 | 701,10 | 657 | 749,26 | 710 | 797,41 |   |   |
+| 552 | 653,84 | 605 | 702,00 | 658 | 750,17 | 711 | 798,32 |   |   |
+| 553 | 654,74 | 606 | 702,91 | 659 | 751,08 | 712 | 799,24 |   |   |
+| 554 | 655,67 | 607 | 703,81 | 660 | 751,99 | 713 | 800,13 |   |   |
+| 555 | 656,57 | 608 | 704,73 | 661 | 752,90 | 714 | 801,06 |   |   |
+| 556 | 657,48 | 609 | 705,64 | 662 | 753,81 | 715 | 801,95 |   |   |
+| 557 | 658,39 | 610 | 706,55 | 663 | 754,71 | 716 | 802,87 |   |   |
+| 558 | 659,30 | 611 | 707,46 | 664 | 755,61 | 717 | 803,76 |   |   |
+| 559 | 660,20 | 612 | 708,36 | 665 | 756,53 | 718 | 804,69 |   |   |
+| 560 | 661,11 | 613 | 709,27 | 666 | 757,44 | 719 | 805,58 |   |   |
+| 561 | 662,02 | 614 | 710,18 | 667 | 758,34 | 720 | 806,50 |   |   |
+| 562 | 662,93 | 615 | 711,08 | 668 | 759,25 | 721 | 807,41 |   |   |
+| 563 | 663,85 | 616 | 712,01 | 669 | 760,15 | 722 | 808,33 |   |   |
+| 564 | 664,75 | 617 | 712,90 | 670 | 761,06 | 723 | 809,23 |   |   |
+| 565 | 665,66 | 618 | 713,82 | 671 | 761,97 | 724 | 810,15 |   |   |
+| 566 | 666,55 | 619 | 714,72 | 672 | 762,88 | 725 | 811,05 |   |   |
+| 567 | 667,48 | 620 | 715,65 | 673 | 763,78 | 726 | 811,96 |   |   |
+| 568 | 668,37 | 621 | 716,54 | 674 | 764,70 | 727 | 812,87 |   |   |
+| 569 | 669,30 | 622 | 717,46 | 675 | 765,60 | 728 | 813,78 |   |   |
+| 570 | 670,19 | 623 | 718,35 | 676 | 766,51 | 729 | 814,68 |   |   |
+| 571 | 671,11 | 624 | 719,28 | 677 | 767,43 | 730 | 815,58 |   |   |
+| 572 | 672,00 | 625 | 720,17 | 678 | 768,33 | 731 | 816,50 |   |   |
+| 573 | 672,93 | 626 | 721,10 | 679 | 769,24 | 732 | 817,40 |   |   |
+| 574 | 673,83 | 627 | 721,99 | 680 | 770,16 | 733 | 818,32 |   |   |
+| 575 | 674,76 | 628 | 722,91 | 681 | 771,06 | 734 | 819,23 |   |   |
+| 576 | 675,67 | 629 | 723,80 | 682 | 771,97 | 735 | 820,13 |   |   |
+| 577 | 676,57 | 630 | 724,73 | 683 | 772,88 | 736 | 821,04 |   |   |
+| 578 | 677,48 | 631 | 725,63 | 684 | 773,79 | 737 | 821,95 |   |   |
+| 579 | 678,39 | 632 | 726,53 | 685 | 774,69 | 738 | 822,86 |   |   |
+| 580 | 679,29 | 633 | 727,45 | 686 | 775,61 | 739 | 823,76 |   |   |
+| 581 | 680,18 | 634 | 728,35 | 687 | 776,51 | 740 | 824,68 |   |   |
+| 582 | 681,10 | 635 | 729,26 | 688 | 777,43 | 741 | 825,59 |   |   |
+| 583 | 682,00 | 636 | 730,17 | 689 | 778,32 | 742 | 826,50 |   |   |
+
+* De maximale huurprijsgrens behorende bij meer dan 750 punten is het bedrag dat wordt verkregen door € 0,91 (dat bedrag komt overeen met het verschil tussen de bedragen, genoemd bij 750 en 749 punten) te vermenigvuldigen met het aantal punten van de woonruimte, verminderd met 750, en bij de verkregen uitkomst € 833,77 (dat bedrag komt overeen met het bedrag genoemd bij 750 punten) op te tellen.
 
 ## Bijlage III
 
-| Punten | Bedrag |
-| --- | --- |
-| 40 | 176,90 |
-| 41 | 181,32 |
-| 42 | 185,75 |
-| 43 | 190,17 |
-| 44 | 194,59 |
-| 45 | 199,01 |
-| 46 | 203,43 |
-| 47 | 207,86 |
-| 48 | 212,28 |
-| 49 | 216,70 |
-| 50 | 221,12 |
-| 51 | 225,54 |
-| 52 | 229,98 |
-| 53 | 234,39 |
-| 54 | 238,82 |
-| 55 | 243,23 |
-| 56 | 247,65 |
-| 57 | 252,08 |
-| 58 | 256,50 |
-| 59 | 260,93 |
-| 60 | 265,35 |
-| 61 | 269,76 |
-| 62 | 274,19 |
-| 63 | 278,61 |
-| 64 | 283,02 |
-| 65 | 287,46 |
-| 66 | 291,88 |
-| 67 | 296,31 |
-| 68 | 300,72 |
-| 69 | 305,14 |
-| 70 | 309,56 |
-| 71 | 313,98 |
-| 72 | 318,42 |
-| 73 | 322,84 |
-| 74 | 327,25 |
-| 75 | 331,68 |
-| 76 | 336,09 |
-| 77 | 340,52 |
-| 78 | 344,95 |
-| 79 | 349,36 |
-| 80 | 353,79 |
-| 81 | 358,26 |
-| 82 | 363,44 |
-| 83 | 368,28 |
-| 84 | 373,10 |
-| 85 | 377,93 |
-| 86 | 382,76 |
-| 87 | 387,58 |
-| 88 | 392,41 |
-| 89 | 397,24 |
-| 90 | 402,07 |
-| 91 | 406,91 |
-| 92 | 411,73 |
-| 93 | 416,56 |
-| 94 | 421,39 |
-| 95 | 426,21 |
-| 96 | 431,05 |
-| 97 | 435,88 |
-| 98 | 440,70 |
-| 99 | 445,53 |
-| 100 | 450,35 |
-| 101 | 455,18 |
-| 102 | 460,02 |
-| 103 | 464,84 |
-| 104 | 469,67 |
-| 105 | 474,51 |
-| 106 | 479,33 |
-| 107 | 484,16 |
-| 108 | 488,99 |
-| 109 | 493,82 |
-| 110 | 498,65 |
-| 111 | 503,47 |
-| 112 | 508,30 |
-| 113 | 513,14 |
-| 114 | 517,95 |
-| 115 | 522,79 |
-| 116 | 527,62 |
-| 117 | 532,44 |
-| 118 | 537,27 |
-| 119 | 542,10 |
-| 120 | 546,93 |
-| 121 | 551,77 |
-| 122 | 556,59 |
-| 123 | 561,42 |
-| 124 | 566,25 |
-| 125 | 571,07 |
-| 126 | 575,91 |
-| 127 | 580,72 |
-| 128 | 585,56 |
-| 129 | 590,39 |
-| 130 | 595,21 |
-| 131 | 600,04 |
-| 132 | 604,87 |
-| 133 | 609,70 |
-| 134 | 614,54 |
-| 135 | 619,37 |
-| 136 | 624,19 |
-| 137 | 629,02 |
-| 138 | 633,84 |
-| 139 | 638,68 |
-| 140 | 643,51 |
-| 141 | 648,33 |
-| 142 | 653,16 |
-| 143 | 657,99 |
-| 144 | 662,81 |
-| 145 | 667,65 |
-| 146 | 672,46 |
-| 147 | 677,31 |
-| 148 | 682,14 |
-| 149 | 686,96 |
-| 150 | 691,79 |
-| 151 | 696,62 |
-| 152 | 701,45 |
-| 153 | 706,28 |
-| 154 | 711,11 |
-| 155 | 715,93 |
-| 156 | 720,76 |
-| 157 | 725,58 |
-| 158 | 730,42 |
-| 159 | 735,24 |
-| 160 | 740,07 |
-| 161 | 744,91 |
-| 162 | 749,74 |
-| 163 | 754,56 |
-| 164 | 759,40 |
-| 165 | 764,22 |
-| 166 | 769,05 |
-| 167 | 773,88 |
-| 168 | 778,70 |
-| 169 | 783,53 |
-| 170 | 788,36 |
-| 171 | 793,19 |
-| 172 | 798,02 |
-| 173 | 802,84 |
-| 174 | 807,67 |
-| 175 | 812,51 |
-| 176 | 817,33 |
-| 177 | 822,17 |
-| 178 | 827,00 |
-| 179 | 831,82 |
-| 180 | 836,65 |
-| 181 | 841,48 |
-| 182 | 846,30 |
-| 183 | 851,13 |
-| 184 | 855,96 |
-| 185 | 860,79 |
-| 186 | 865,62 |
-| 187 | 870,44 |
-| 188 | 875,29 |
-| 189 | 880,11 |
-| 190 | 884,94 |
-| 191 | 889,77 |
-| 192 | 894,59 |
-| 193 | 899,42 |
-| 194 | 904,25 |
-| 195 | 909,07 |
-| 196 | 913,91 |
-| 197 | 918,74 |
-| 198 | 923,56 |
-| 199 | 928,39 |
-| 200 | 933,21 |
-| 201 | 938,05 |
-| 202 | 942,87 |
-| 203 | 947,71 |
-| 204 | 952,54 |
-| 205 | 957,37 |
-| 206 | 962,19 |
-| 207 | 967,03 |
-| 208 | 971,85 |
-| 209 | 976,68 |
-| 210 | 981,51 |
-| 211 | 986,33 |
-| 212 | 991,16 |
-| 213 | 995,99 |
-| 214 | 1000,82 |
-| 215 | 1005,65 |
-| 216 | 1010,49 |
-| 217 | 1015,31 |
-| 218 | 1020,14 |
-| 219 | 1024,96 |
-| 220 | 1029,80 |
-| 221 | 1034,62 |
-| 222 | 1039,45 |
-| 223 | 1044,28 |
-| 224 | 1049,11 |
-| 225 | 1053,93 |
-| 226 | 1058,76 |
-| 227 | 1063,59 |
-| 228 | 1068,42 |
-| 229 | 1073,25 |
-| 230 | 1078,07 |
-| 231 | 1082,91 |
-| 232 | 1087,74 |
-| 233 | 1092,57 |
-| 234 | 1097,39 |
-| 235 | 1102,23 |
-| 236 | 1107,05 |
-| 237 | 1111,88 |
-| 238 | 1116,70 |
-| 239 | 1121,54 |
-| 240 | 1126,37 |
-| 241 | 1131,19 |
-| 242 | 1136,02 |
-| 243 | 1140,85 |
-| 244 | 1145,67 |
-| 245 | 1150,51 |
-| 246 | 1155,34 |
-| 247 | 1160,17 |
-| 248 | 1165,00 |
-| 249 | 1169,82 |
-| 250 | 1174,65 |
+| punten | bedrag | punten | bedrag | punten | bedrag | punten | bedrag | punten | bedrag |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 40 | 178,85 | 82 | 367,44 | 124 | 572,48 | 166 | 777,51 | 208 | 982,54 |
+| 41 | 183,32 | 83 | 372,34 | 125 | 577,36 | 167 | 782,40 | 209 | 987,43 |
+| 42 | 187,80 | 84 | 377,21 | 126 | 582,25 | 168 | 787,27 | 210 | 992,31 |
+| 43 | 192,27 | 85 | 382,09 | 127 | 587,11 | 169 | 792,15 | 211 | 997,18 |
+| 44 | 196,73 | 86 | 386,97 | 128 | 592,01 | 170 | 797,04 | 212 | 1002,07 |
+| 45 | 201,20 | 87 | 391,85 | 129 | 596,89 | 171 | 801,92 | 213 | 1006,95 |
+| 46 | 205,67 | 88 | 396,73 | 130 | 601,76 | 172 | 806,80 | 214 | 1011,83 |
+| 47 | 210,15 | 89 | 401,61 | 131 | 606,64 | 173 | 811,68 | 215 | 1016,72 |
+| 48 | 214,62 | 90 | 406,50 | 132 | 611,53 | 174 | 816,56 | 216 | 1021,61 |
+| 49 | 219,09 | 91 | 411,39 | 133 | 616,41 | 175 | 821,45 | 217 | 1026,48 |
+| 50 | 223,56 | 92 | 416,26 | 134 | 621,30 | 176 | 826,32 | 218 | 1031,37 |
+| 51 | 228,02 | 93 | 421,15 | 135 | 626,19 | 177 | 831,22 | 219 | 1036,24 |
+| 52 | 232,51 | 94 | 426,03 | 136 | 631,06 | 178 | 836,10 | 220 | 1041,13 |
+| 53 | 236,97 | 95 | 430,90 | 137 | 635,94 | 179 | 840,97 | 221 | 1046,00 |
+| 54 | 241,45 | 96 | 435,80 | 138 | 640,82 | 180 | 845,86 | 222 | 1050,89 |
+| 55 | 245,91 | 97 | 440,68 | 139 | 645,71 | 181 | 850,74 | 223 | 1055,77 |
+| 56 | 250,38 | 98 | 445,55 | 140 | 650,59 | 182 | 855,61 | 224 | 1060,65 |
+| 57 | 254,86 | 99 | 450,43 | 141 | 655,47 | 183 | 860,50 | 225 | 1065,53 |
+| 58 | 259,33 | 100 | 455,31 | 142 | 660,35 | 184 | 865,38 | 226 | 1070,41 |
+| 59 | 263,80 | 101 | 460,19 | 143 | 665,23 | 185 | 870,26 | 227 | 1075,29 |
+| 60 | 268,27 | 102 | 465,08 | 144 | 670,10 | 186 | 875,15 | 228 | 1080,18 |
+| 61 | 272,73 | 103 | 469,96 | 145 | 675,00 | 187 | 880,02 | 229 | 1085,06 |
+| 62 | 277,21 | 104 | 474,84 | 146 | 679,86 | 188 | 884,92 | 230 | 1089,93 |
+| 63 | 281,68 | 105 | 479,73 | 147 | 684,76 | 189 | 889,80 | 231 | 1094,83 |
+| 64 | 286,14 | 106 | 484,61 | 148 | 689,65 | 190 | 894,68 | 232 | 1099,71 |
+| 65 | 290,63 | 107 | 489,49 | 149 | 694,52 | 191 | 899,56 | 233 | 1104,59 |
+| 66 | 295,09 | 108 | 494,37 | 150 | 699,40 | 192 | 904,43 | 234 | 1109,47 |
+| 67 | 299,57 | 109 | 499,26 | 151 | 704,29 | 193 | 909,32 | 235 | 1114,36 |
+| 68 | 304,03 | 110 | 504,14 | 152 | 709,17 | 194 | 914,20 | 236 | 1119,23 |
+| 69 | 308,50 | 111 | 509,01 | 153 | 714,05 | 195 | 919,07 | 237 | 1124,11 |
+| 70 | 312,97 | 112 | 513,90 | 154 | 718,94 | 196 | 923,97 | 238 | 1128,99 |
+| 71 | 317,44 | 113 | 518,79 | 155 | 723,81 | 197 | 928,85 | 239 | 1133,88 |
+| 72 | 321,93 | 114 | 523,65 | 156 | 728,69 | 198 | 933,72 | 240 | 1138,76 |
+| 73 | 326,40 | 115 | 528,54 | 157 | 733,57 | 199 | 938,61 | 241 | 1143,64 |
+| 74 | 330,85 | 116 | 533,43 | 158 | 738,46 | 200 | 943,48 | 242 | 1148,52 |
+| 75 | 335,33 | 117 | 538,30 | 159 | 743,33 | 201 | 948,37 | 243 | 1153,40 |
+| 76 | 339,79 | 118 | 543,18 | 160 | 748,21 | 202 | 953,25 | 244 | 1158,28 |
+| 77 | 344,27 | 119 | 548,07 | 161 | 753,11 | 203 | 958,14 | 245 | 1163,17 |
+| 78 | 348,75 | 120 | 552,95 | 162 | 757,99 | 204 | 963,02 | 246 | 1168,05 |
+| 79 | 353,21 | 121 | 557,84 | 163 | 762,86 | 205 | 967,91 | 247 | 1172,94 |
+| 80 | 357,69 | 122 | 562,72 | 164 | 767,76 | 206 | 972,78 | 248 | 1177,82 |
+| 81 | 362,20 | 123 | 567,60 | 165 | 772,63 | 207 | 977,67 | 249 | 1182,69 |
+|   |   |   |   |   |   |   |   | 250 | 1187,58 |
 
 ## Bijlage IV
 
-| Punten | Bedrag |
-| --- | --- |
-| 1 | 4,16 |
-| 2 | 8,32 |
-| 3 | 12,47 |
-| 4 | 16,63 |
-| 5 | 20,78 |
-| 6 | 24,93 |
-| 7 | 29,08 |
-| 8 | 33,24 |
-| 9 | 37,39 |
-| 10 | 41,55 |
-| 11 | 45,70 |
-| 12 | 49,86 |
-| 13 | 54,00 |
-| 14 | 58,16 |
-| 15 | 62,31 |
-| 16 | 66,46 |
-| 17 | 70,61 |
-| 18 | 74,77 |
-| 19 | 78,91 |
-| 20 | 83,07 |
-| 21 | 87,22 |
-| 22 | 91,38 |
-| 23 | 95,53 |
-| 24 | 99,69 |
-| 25 | 103,83 |
-| 26 | 107,99 |
-| 27 | 112,14 |
-| 28 | 116,30 |
-| 29 | 120,45 |
-| 30 | 124,61 |
-| 31 | 128,76 |
-| 32 | 132,90 |
-| 33 | 137,05 |
-| 34 | 141,21 |
-| 35 | 145,36 |
-| 36 | 149,52 |
-| 37 | 153,67 |
-| 38 | 157,81 |
-| 39 | 161,97 |
-| 40 | 166,13 |
-| 41 | 170,28 |
-| 42 | 174,44 |
-| 43 | 178,59 |
-| 44 | 182,73 |
-| 45 | 186,89 |
-| 46 | 191,05 |
-| 47 | 195,20 |
-| 48 | 199,36 |
-| 49 | 203,51 |
-| 50 | 207,66 |
-| 51 | 211,80 |
-| 52 | 215,96 |
-| 53 | 220,11 |
-| 54 | 224,27 |
-| 55 | 228,42 |
-| 56 | 232,57 |
-| 57 | 236,72 |
-| 58 | 240,88 |
-| 59 | 245,03 |
-| 60 | 249,19 |
-| 61 | 253,34 |
-| 62 | 257,49 |
-| 63 | 261,64 |
-| 64 | 265,79 |
-| 65 | 269,95 |
-| 66 | 274,11 |
-| 67 | 278,26 |
-| 68 | 282,40 |
-| 69 | 286,56 |
-| 70 | 290,70 |
-| 71 | 294,86 |
-| 72 | 299,02 |
-| 73 | 303,17 |
-| 74 | 307,32 |
-| 75 | 311,48 |
-| 76 | 315,62 |
-| 77 | 319,78 |
-| 78 | 323,94 |
-| 79 | 328,09 |
-| 80 | 332,24 |
-| 81 | 336,79 |
-| 82 | 341,35 |
-| 83 | 345,92 |
-| 84 | 350,47 |
-| 85 | 355,03 |
-| 86 | 359,59 |
-| 87 | 364,15 |
-| 88 | 368,71 |
-| 89 | 373,27 |
-| 90 | 377,83 |
-| 91 | 382,39 |
-| 92 | 386,95 |
-| 93 | 391,51 |
-| 94 | 396,06 |
-| 95 | 400,63 |
-| 96 | 405,19 |
-| 97 | 409,74 |
-| 98 | 414,30 |
-| 99 | 418,87 |
-| 100 | 423,42 |
-| 101 | 427,98 |
-| 102 | 432,54 |
-| 103 | 437,10 |
-| 104 | 441,66 |
-| 105 | 446,22 |
-| 106 | 450,78 |
-| 107 | 455,34 |
-| 108 | 459,90 |
-| 109 | 464,46 |
-| 110 | 469,01 |
-| 111 | 473,58 |
-| 112 | 478,14 |
-| 113 | 482,69 |
-| 114 | 487,26 |
-| 115 | 491,82 |
-| 116 | 496,37 |
-| 117 | 500,93 |
-| 118 | 505,49 |
-| 119 | 510,05 |
-| 120 | 514,61 |
-| 121 | 519,17 |
-| 122 | 523,73 |
-| 123 | 528,28 |
-| 124 | 532,85 |
-| 125 | 537,41 |
-| 126 | 541,96 |
-| 127 | 546,53 |
-| 128 | 551,09 |
-| 129 | 555,64 |
-| 130 | 560,21 |
-| 131 | 564,76 |
-| 132 | 569,32 |
-| 133 | 573,89 |
-| 134 | 578,44 |
-| 135 | 583,00 |
-| 136 | 587,55 |
-| 137 | 592,12 |
-| 138 | 596,67 |
-| 139 | 601,23 |
-| 140 | 605,79 |
-| 141 | 610,36 |
-| 142 | 614,90 |
-| 143 | 619,48 |
-| 144 | 624,03 |
-| 145 | 628,59 |
-| 146 | 633,15 |
-| 147 | 637,71 |
-| 148 | 642,26 |
-| 149 | 646,84 |
-| 150 | 651,38 |
-| 151 | 655,95 |
-| 152 | 660,50 |
-| 153 | 665,07 |
-| 154 | 669,62 |
-| 155 | 674,18 |
-| 156 | 678,74 |
-| 157 | 683,31 |
-| 158 | 687,85 |
-| 159 | 692,43 |
-| 160 | 696,97 |
-| 161 | 701,54 |
-| 162 | 706,10 |
-| 163 | 710,65 |
-| 164 | 715,21 |
-| 165 | 719,78 |
-| 166 | 724,33 |
-| 167 | 728,90 |
-| 168 | 733,45 |
-| 169 | 738,02 |
-| 170 | 742,57 |
-| 171 | 747,14 |
-| 172 | 751,69 |
-| 173 | 756,26 |
-| 174 | 760,80 |
-| 175 | 765,38 |
-| 176 | 769,92 |
-| 177 | 774,49 |
-| 178 | 779,05 |
-| 179 | 783,61 |
-| 180 | 788,16 |
-| 181 | 792,74 |
-| 182 | 797,28 |
-| 183 | 801,85 |
-| 184 | 806,40 |
-| 185 | 810,97 |
-| 186 | 815,52 |
-| 187 | 820,09 |
-| 188 | 824,64 |
-| 189 | 829,20 |
-| 190 | 833,76 |
-| 191 | 838,32 |
-| 192 | 842,87 |
-| 193 | 847,43 |
-| 194 | 852,00 |
-| 195 | 856,55 |
-| 196 | 861,11 |
-| 197 | 865,67 |
-| 198 | 870,23 |
-| 199 | 874,79 |
-| 200 | 879,35 |
-| 201 | 883,91 |
-| 202 | 888,47 |
-| 203 | 893,03 |
-| 204 | 897,59 |
-| 205 | 902,14 |
-| 206 | 906,71 |
-| 207 | 911,27 |
-| 208 | 915,82 |
-| 209 | 920,39 |
-| 210 | 924,95 |
-| 211 | 929,50 |
-| 212 | 934,06 |
-| 213 | 938,62 |
-| 214 | 943,18 |
-| 215 | 947,74 |
-| 216 | 952,30 |
-| 217 | 956,86 |
-| 218 | 961,41 |
-| 219 | 965,98 |
-| 220 | 970,54 |
-| 221 | 975,09 |
-| 222 | 979,66 |
-| 223 | 984,22 |
-| 224 | 988,77 |
-| 225 | 993,34 |
-| 226 | 997,89 |
-| 227 | 1002,45 |
-| 228 | 1007,02 |
-| 229 | 1011,57 |
-| 230 | 1016,13 |
-| 231 | 1020,69 |
-| 232 | 1025,25 |
-| 233 | 1029,81 |
-| 234 | 1034,36 |
-| 235 | 1038,93 |
-| 236 | 1043,49 |
-| 237 | 1048,04 |
-| 238 | 1052,61 |
-| 239 | 1057,17 |
-| 240 | 1061,72 |
-| 241 | 1066,29 |
-| 242 | 1070,84 |
-| 243 | 1075,40 |
-| 244 | 1079,97 |
-| 245 | 1084,52 |
-| 246 | 1089,08 |
-| 247 | 1093,63 |
-| 248 | 1098,20 |
-| 249 | 1102,75 |
-| 250 | 1107,31 |
-| >250 | * maximale huurprijsgrens behorende bij meer dan 250 Punten is het Bedrag dat wordt verkregen door € 4,56 (dat Bedrag komt overeen met het verschil tussen de Bedragen, genoemd bij 250 en 249 Punten) te vermenigvuldigen met het aantal Punten van de woonruimte verminderd met 250, en bij de verkregen uitkomst € 1107,31 (dat Bedrag komt overeen met het Bedrag genoemd bij 250 Punten) op te tellen. |
+| punten | bedrag | punten | bedrag | punten | bedrag | punten | bedrag | punten | bedrag |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 4,21 | 54 | 226,74 | 107 | 460,35 | 160 | 704,64 | 213 | 948,95 |
+| 2 | 8,42 | 55 | 230,94 | 108 | 464,96 | 161 | 709,26 | 214 | 953,56 |
+| 3 | 12,61 | 56 | 235,13 | 109 | 469,57 | 162 | 713,87 | 215 | 958,17 |
+| 4 | 16,82 | 57 | 239,33 | 110 | 474,17 | 163 | 718,47 | 216 | 962,78 |
+| 5 | 21,01 | 58 | 243,53 | 111 | 478,79 | 164 | 723,08 | 217 | 967,39 |
+| 6 | 25,21 | 59 | 247,73 | 112 | 483,40 | 165 | 727,70 | 218 | 971,99 |
+| 7 | 29,40 | 60 | 251,94 | 113 | 488,00 | 166 | 732,30 | 219 | 976,61 |
+| 8 | 33,61 | 61 | 256,13 | 114 | 492,62 | 167 | 736,92 | 220 | 981,22 |
+| 9 | 37,81 | 62 | 260,33 | 115 | 497,23 | 168 | 741,52 | 221 | 985,82 |
+| 10 | 42,01 | 63 | 264,52 | 116 | 501,83 | 169 | 746,14 | 222 | 990,44 |
+| 11 | 46,21 | 64 | 268,72 | 117 | 506,44 | 170 | 750,74 | 223 | 995,05 |
+| 12 | 50,41 | 65 | 272,92 | 118 | 511,05 | 171 | 755,36 | 224 | 999,65 |
+| 13 | 54,60 | 66 | 277,13 | 119 | 515,66 | 172 | 759,96 | 225 | 1004,27 |
+| 14 | 58,80 | 67 | 281,32 | 120 | 520,27 | 173 | 764,58 | 226 | 1008,87 |
+| 15 | 63,00 | 68 | 285,51 | 121 | 524,88 | 174 | 769,17 | 227 | 1013,48 |
+| 16 | 67,20 | 69 | 289,72 | 122 | 529,50 | 175 | 773,80 | 228 | 1018,10 |
+| 17 | 71,39 | 70 | 293,90 | 123 | 534,10 | 176 | 778,39 | 229 | 1022,70 |
+| 18 | 75,60 | 71 | 298,11 | 124 | 538,72 | 177 | 783,01 | 230 | 1027,31 |
+| 19 | 79,78 | 72 | 302,31 | 125 | 543,33 | 178 | 787,62 | 231 | 1031,92 |
+| 20 | 83,99 | 73 | 306,51 | 126 | 547,93 | 179 | 792,23 | 232 | 1036,53 |
+| 21 | 88,18 | 74 | 310,70 | 127 | 552,55 | 180 | 796,83 | 233 | 1041,14 |
+| 22 | 92,39 | 75 | 314,91 | 128 | 557,16 | 181 | 801,46 | 234 | 1045,74 |
+| 23 | 96,58 | 76 | 319,10 | 129 | 561,76 | 182 | 806,05 | 235 | 1050,36 |
+| 24 | 100,79 | 77 | 323,30 | 130 | 566,38 | 183 | 810,67 | 236 | 1054,97 |
+| 25 | 104,98 | 78 | 327,51 | 131 | 570,98 | 184 | 815,27 | 237 | 1059,57 |
+| 26 | 109,18 | 79 | 331,70 | 132 | 575,59 | 185 | 819,89 | 238 | 1064,19 |
+| 27 | 113,38 | 80 | 335,90 | 133 | 580,21 | 186 | 824,49 | 239 | 1068,80 |
+| 28 | 117,58 | 81 | 340,50 | 134 | 584,81 | 187 | 829,11 | 240 | 1073,40 |
+| 29 | 121,78 | 82 | 345,11 | 135 | 589,42 | 188 | 833,72 | 241 | 1078,02 |
+| 30 | 125,98 | 83 | 349,73 | 136 | 594,02 | 189 | 838,33 | 242 | 1082,62 |
+| 31 | 130,18 | 84 | 354,33 | 137 | 598,64 | 190 | 842,94 | 243 | 1087,23 |
+| 32 | 134,37 | 85 | 358,94 | 138 | 603,24 | 191 | 847,55 | 244 | 1091,85 |
+| 33 | 138,56 | 86 | 363,55 | 139 | 607,85 | 192 | 852,15 | 245 | 1096,45 |
+| 34 | 142,77 | 87 | 368,16 | 140 | 612,46 | 193 | 856,76 | 246 | 1101,06 |
+| 35 | 146,96 | 88 | 372,77 | 141 | 617,08 | 194 | 861,38 | 247 | 1105,66 |
+| 36 | 151,17 | 89 | 377,38 | 142 | 621,67 | 195 | 865,98 | 248 | 1110,28 |
+| 37 | 155,36 | 90 | 381,99 | 143 | 626,30 | 196 | 870,59 | 249 | 1114,88 |
+| 38 | 159,55 | 91 | 386,60 | 144 | 630,90 | 197 | 875,20 | 250 | 1119,49 |
+| 39 | 163,76 | 92 | 391,21 | 145 | 635,51 | 198 | 879,81 | >250 | * |
+| 40 | 167,96 | 93 | 395,82 | 146 | 640,12 | 199 | 884,42 |   |   |
+| 41 | 172,16 | 94 | 400,42 | 147 | 644,73 | 200 | 889,03 |   |   |
+| 42 | 176,36 | 95 | 405,04 | 148 | 649,33 | 201 | 893,64 |   |   |
+| 43 | 180,56 | 96 | 409,65 | 149 | 653,96 | 202 | 898,25 |   |   |
+| 44 | 184,74 | 97 | 414,25 | 150 | 658,55 | 203 | 902,86 |   |   |
+| 45 | 188,95 | 98 | 418,86 | 151 | 663,17 | 204 | 907,47 |   |   |
+| 46 | 193,16 | 99 | 423,48 | 152 | 667,77 | 205 | 912,07 |   |   |
+| 47 | 197,35 | 100 | 428,08 | 153 | 672,39 | 206 | 916,69 |   |   |
+| 48 | 201,56 | 101 | 432,69 | 154 | 676,99 | 207 | 921,30 |   |   |
+| 49 | 205,75 | 102 | 437,30 | 155 | 681,60 | 208 | 925,90 |   |   |
+| 50 | 209,95 | 103 | 441,91 | 156 | 686,21 | 209 | 930,52 |   |   |
+| 51 | 214,13 | 104 | 446,52 | 157 | 690,83 | 210 | 935,13 |   |   |
+| 52 | 218,34 | 105 | 451,13 | 158 | 695,42 | 211 | 939,73 |   |   |
+| 53 | 222,54 | 106 | 455,74 | 159 | 700,05 | 212 | 944,34 |   |   |
+
+* De maximale huurprijsgrens behorende bij meer dan 250 punten is het bedrag dat wordt verkregen door € 4,61 (dat bedrag komt overeen met het verschil tussen de bedragen, genoemd bij 250 en 249 punten) te vermenigvuldigen met het aantal punten van de woonruimte, verminderd met 250, en bij de verkregen uitkomst € 1119,49 (dat bedrag komt overeen met het bedrag genoemd bij 250 punten) op te tellen.
 
 ## Bijlage V
 
-Schema van redelijke huuraanpassingen per 1 juli 2006 voor woonruimte bij overgang van reguliere huurprijs naar reguliere huurprijs
+Schema van redelijke huuraanpassingen per 1 juli 2007 voor woonruimte bij overgang van reguliere huurprijs naar reguliere huurprijs
 
 | Geldende huurprijs (in bedragen per maand) | Geldende huurprijs (in bedragen per maand) | Huuraanpassing | Huuraanpassing |
 | --- | --- | --- | --- |
 | I | hoger dan de maximale huurprijsgrens 1De maximale huurprijsgrenzen, bedoeld in artikel 12, eerste lid, van het Besluit huurprijzen woonruimte, zoals deze gelden op de dag dat dit schema in werking treedt. | I | huurverlaging2Bij woonruimte welke een zelfstandige woning vormt, met een puntentotaal van meer dan 250 en een geldende huurprijs hoger dan de maximale huurprijsgrens bij een puntentotaal van 250, kan een huurprijsverlaging plaatsvinden, indien het huurpeil van vergelijkbare woonruimte daartoe aanleiding geeft. De huurprijs van deze woonruimte kan niet worden verlaagd tot minder dan de maximale huurprijsgrens behorende bij woonruimte met een puntentotaal van 250, behoudens toepassing van artikel 6, eerste lid, van het Besluit huurprijzen woonruimte. tot de maximale huurprijsgrens1De maximale huurprijsgrenzen, bedoeld in artikel 12, eerste lid, van het Besluit huurprijzen woonruimte, zoals deze gelden op de dag dat dit schema in werking treedt. |
 |   |   |   |   |
-| II | niet hoger dan de maximale huurprijsgrens1De maximale huurprijsgrenzen, bedoeld in artikel 12, eerste lid, van het Besluit huurprijzen woonruimte, zoals deze gelden op de dag dat dit schema in werking treedt. | II | huurverhoging van maximaal het inflatiepercentage3Onder inflatiepercentage wordt verstaan het inflatiepercentage, bedoeld in artikel 1, eerste lid, van het Besluit huurprijzen woonruimte., vermeerderd met 1,5 procentpunt voorzover de maximale huurprijsgrens1De maximale huurprijsgrenzen, bedoeld in artikel 12, eerste lid, van het Besluit huurprijzen woonruimte, zoals deze gelden op de dag dat dit schema in werking treedt. niet wordt overschreden4Voor zelfstandige woningen met een huurprijs op 30 juni 2006 die lager is dan € 200 per maand èn lager is dan 50% van de maximale huurprijsgrens op 30 juni 2006 geldt een huurverhoging van maximaal € 25 per maand. |
+| II | niet hoger dan de maximale huurprijsgrens1De maximale huurprijsgrenzen, bedoeld in artikel 12, eerste lid, van het Besluit huurprijzen woonruimte, zoals deze gelden op de dag dat dit schema in werking treedt. | II | huurverhoging van maximaal het inflatiepercentage3Onder inflatiepercentage wordt verstaan het inflatiepercentage, bedoeld in artikel 1, eerste lid, van het Besluit huurprijzen woonruimte., voorzover de maximale huurprijsgrens1De maximale huurprijsgrenzen, bedoeld in artikel 12, eerste lid, van het Besluit huurprijzen woonruimte, zoals deze gelden op de dag dat dit schema in werking treedt. niet wordt overschreden |
 
 ## Bijlage VI
 
-Schema van redelijke huuraanpassingen per 1 juli 2006 voor woonruimte bij overgang van reguliere huurprijs naar huurvastprijs, van huurvastprijs naar reguliere huurprijs en van huurvastprijs naar nieuwe huurvastprijs
+Schema van redelijke huuraanpassingen per 1 juli 2007 voor woonruimte bij overgang van reguliere huurprijs naar huurvastprijs, van huurvastprijs naar reguliere huurprijs en van huurvastprijs naar nieuwe huurvastprijs
 
 | Geldende huurprijs (in bedragen per maand) | Geldende huurprijs (in bedragen per maand) | Huuraanpassing | Huuraanpassing |
 | --- | --- | --- | --- |
@@ -1640,9 +520,9 @@ Schema van redelijke huuraanpassingen per 1 juli 2006 voor woonruimte bij overga
 |   |   |   |   |
 | II | niet hoger dan de maximale huurprijsgrens1De maximale huurprijsgrenzen, bedoeld in artikel 12, eerste lid, van het Besluit huurprijzen woonruimte, zoals deze gelden op de dag dat dit schema in werking treedt., bij overgang van de overeengekomen reguliere huurprijs4Onder reguliere huurprijs wordt verstaan de huurprijs die jaarlijks kan worden verhoogd. of huurvastprijs3Onder huurvastprijs wordt verstaan de voor de gehele huurvastperiode geldende (bevroren) huurprijs. naar een (nieuwe) huurvastprijs3Onder huurvastprijs wordt verstaan de voor de gehele huurvastperiode geldende (bevroren) huurprijs. | II | ieder percentage, voorzover de maximale huurprijsgrens1De maximale huurprijsgrenzen, bedoeld in artikel 12, eerste lid, van het Besluit huurprijzen woonruimte, zoals deze gelden op de dag dat dit schema in werking treedt. niet wordt overschreden |
 |   |   |   |   |
-| III | niet hoger dan de maximale huurprijsgrens1De maximale huurprijsgrenzen, bedoeld in artikel 12, eerste lid, van het Besluit huurprijzen woonruimte, zoals deze gelden op de dag dat dit schema in werking treedt., bij overgang van de huurvastprijs3Onder huurvastprijs wordt verstaan de voor de gehele huurvastperiode geldende (bevroren) huurprijs. naar een nieuwe reguliere huurprijs4Onder reguliere huurprijs wordt verstaan de huurprijs die jaarlijks kan worden verhoogd., voorzover bij de aanvang van de oude huurvastprijs3Onder huurvastprijs wordt verstaan de voor de gehele huurvastperiode geldende (bevroren) huurprijs. wèl een alternatieve reguliere huurprijs4Onder reguliere huurprijs wordt verstaan de huurprijs die jaarlijks kan worden verhoogd. bekend was | III | huurverhoging van maximaal de uitkomst van de gecumuleerde vermenigvuldiging van alle in de periode dat de huurvastprijs3Onder huurvastprijs wordt verstaan de voor de gehele huurvastperiode geldende (bevroren) huurprijs. in rekening is gebracht, per 1 juli verwachte huurprijsontwikkelingen als bedoeld in artikel 27, eerste lid, aanhef, van de Wet op de huurtoeslag, en de alternatieve reguliere huurprijs4Onder reguliere huurprijs wordt verstaan de huurprijs die jaarlijks kan worden verhoogd., voorzover de maximale huurprijsgrens1De maximale huurprijsgrenzen, bedoeld in artikel 12, eerste lid, van het Besluit huurprijzen woonruimte, zoals deze gelden op de dag dat dit schema in werking treedt. niet wordt overschreden5Indien de huurvastperiode eindigde op 30 juni van enig jaar dient, in afwijking van het schema, in de gecumuleerde vermenigvuldiging tevens de huurprijsontwikkeling te worden betrokken die wordt verwacht voor het tijdvak van 1 juli tot en met 30 juni daaropvolgend. Indien de huurvastperiode is begonnen op 1 juli van enig jaar dient, in afwijking van het schema, in de gecumuleerde vermenigvuldiging niet de huurprijsontwikkeling te worden betrokken die werd verwacht voor het tijdvak van die 1 juli-datum tot en met de 30 juni-datum daaropvolgend. |
+| III | niet hoger dan de maximale huurprijsgrens1De maximale huurprijsgrenzen, bedoeld in artikel 12, eerste lid, van het Besluit huurprijzen woonruimte, zoals deze gelden op de dag dat dit schema in werking treedt., bij overgang van de huurvastprijs3Onder huurvastprijs wordt verstaan de voor de gehele huurvastperiode geldende (bevroren) huurprijs. naar een nieuwe reguliere huurprijs4Onder reguliere huurprijs wordt verstaan de huurprijs die jaarlijks kan worden verhoogd., voorzover bij de aanvang van de oude huurvastprijs3Onder huurvastprijs wordt verstaan de voor de gehele huurvastperiode geldende (bevroren) huurprijs. wèl een alternatieve reguliere huurprijs4Onder reguliere huurprijs wordt verstaan de huurprijs die jaarlijks kan worden verhoogd. bekend was | III | huurverhoging van maximaal de uitkomst van de gecumuleerde vermenigvuldiging van alle in de periode dat de huurvastprijs3Onder huurvastprijs wordt verstaan de voor de gehele huurvastperiode geldende (bevroren) huurprijs. in rekening is gebracht, per 1 juli verwachte huurprijsontwikkelingen als bedoeld in [artikel 27, eerste lid, aanhef, van de Wet op de huurtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&artikel=27), en de alternatieve reguliere huurprijs4Onder reguliere huurprijs wordt verstaan de huurprijs die jaarlijks kan worden verhoogd., voorzover de maximale huurprijsgrens1De maximale huurprijsgrenzen, bedoeld in artikel 12, eerste lid, van het Besluit huurprijzen woonruimte, zoals deze gelden op de dag dat dit schema in werking treedt. niet wordt overschreden5Indien de huurvastperiode eindigde op 30 juni van enig jaar dient, in afwijking van het schema, in de gecumuleerde vermenigvuldiging tevens de huurprijsontwikkeling te worden betrokken die wordt verwacht voor het tijdvak van 1 juli tot en met 30 juni daaropvolgend. Indien de huurvastperiode is begonnen op 1 juli van enig jaar dient, in afwijking van het schema, in de gecumuleerde vermenigvuldiging niet de huurprijsontwikkeling te worden betrokken die werd verwacht voor het tijdvak van die 1 juli-datum tot en met de 30 juni-datum daaropvolgend. |
 |   |   |   |   |
-| IV | niet hoger dan de maximale huurprijsgrens1De maximale huurprijsgrenzen, bedoeld in artikel 12, eerste lid, van het Besluit huurprijzen woonruimte, zoals deze gelden op de dag dat dit schema in werking treedt., bij overgang van de huurvastprijs3Onder huurvastprijs wordt verstaan de voor de gehele huurvastperiode geldende (bevroren) huurprijs. naar een nieuwe reguliere huurprijs4Onder reguliere huurprijs wordt verstaan de huurprijs die jaarlijks kan worden verhoogd., voorzover bij de aanvang van de huurvastprijs3Onder huurvastprijs wordt verstaan de voor de gehele huurvastperiode geldende (bevroren) huurprijs. géén alternatieve reguliere huurprijs4Onder reguliere huurprijs wordt verstaan de huurprijs die jaarlijks kan worden verhoogd. bekend was | IV | huurverhoging van maximaal de uitkomst van de gecumuleerde vermenigvuldiging van alle in de periode dat de huurvastprijs3Onder huurvastprijs wordt verstaan de voor de gehele huurvastperiode geldende (bevroren) huurprijs. in rekening is gebracht, per 1 juli verwachte huurprijsontwikkelingen als bedoeld in artikel 27, eerste lid, aanhef, van de Wet op de huurtoeslag, gedeeld door 2, voor zover de maximale huurprijsgrens1De maximale huurprijsgrenzen, bedoeld in artikel 12, eerste lid, van het Besluit huurprijzen woonruimte, zoals deze gelden op de dag dat dit schema in werking treedt. niet wordt overschreden5Indien de huurvastperiode eindigde op 30 juni van enig jaar dient, in afwijking van het schema, in de gecumuleerde vermenigvuldiging tevens de huurprijsontwikkeling te worden betrokken die wordt verwacht voor het tijdvak van 1 juli tot en met 30 juni daaropvolgend. Indien de huurvastperiode is begonnen op 1 juli van enig jaar dient, in afwijking van het schema, in de gecumuleerde vermenigvuldiging niet de huurprijsontwikkeling te worden betrokken die werd verwacht voor het tijdvak van die 1 juli-datum tot en met de 30 juni-datum daaropvolgend. |
+| IV | niet hoger dan de maximale huurprijsgrens1De maximale huurprijsgrenzen, bedoeld in artikel 12, eerste lid, van het Besluit huurprijzen woonruimte, zoals deze gelden op de dag dat dit schema in werking treedt., bij overgang van de huurvastprijs3Onder huurvastprijs wordt verstaan de voor de gehele huurvastperiode geldende (bevroren) huurprijs. naar een nieuwe reguliere huurprijs4Onder reguliere huurprijs wordt verstaan de huurprijs die jaarlijks kan worden verhoogd., voorzover bij de aanvang van de huurvastprijs3Onder huurvastprijs wordt verstaan de voor de gehele huurvastperiode geldende (bevroren) huurprijs. géén alternatieve reguliere huurprijs4Onder reguliere huurprijs wordt verstaan de huurprijs die jaarlijks kan worden verhoogd. bekend was | IV | huurverhoging van maximaal de uitkomst van de gecumuleerde vermenigvuldiging van alle in de periode dat de huurvastprijs3Onder huurvastprijs wordt verstaan de voor de gehele huurvastperiode geldende (bevroren) huurprijs. in rekening is gebracht, per 1 juli verwachte huurprijsontwikkelingen als bedoeld in [artikel 27, eerste lid, aanhef, van de Wet op de huurtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&artikel=27), gedeeld door 2, voor zover de maximale huurprijsgrens1De maximale huurprijsgrenzen, bedoeld in artikel 12, eerste lid, van het Besluit huurprijzen woonruimte, zoals deze gelden op de dag dat dit schema in werking treedt. niet wordt overschreden5Indien de huurvastperiode eindigde op 30 juni van enig jaar dient, in afwijking van het schema, in de gecumuleerde vermenigvuldiging tevens de huurprijsontwikkeling te worden betrokken die wordt verwacht voor het tijdvak van 1 juli tot en met 30 juni daaropvolgend. Indien de huurvastperiode is begonnen op 1 juli van enig jaar dient, in afwijking van het schema, in de gecumuleerde vermenigvuldiging niet de huurprijsontwikkeling te worden betrokken die werd verwacht voor het tijdvak van die 1 juli-datum tot en met de 30 juni-datum daaropvolgend. |
 
 ## Bijlage VII
 
