@@ -4,7 +4,7 @@ identifier: "BWBR0002741"
 country: "nl"
 rank: "amvb"
 publication_date: "2010-12-31"
-last_updated: "2004-11-01"
+last_updated: "2007-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002741"
 soort: "AMvB"
@@ -76,7 +76,7 @@ De in de modellen opgenomen bladwijzer mag met andere dan de in het model vermel
 
 ##### Artikel 6
 
-Het dagboek voor zeevissers- en kustvissersschepen mag worden gecombineerd met het radiotelefonie-dagboek als bedoeld in [artikel 161, vijfde lid, van het Schepenbesluit 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&artikel=161), waarbij het bepaalde in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002741&artikel=3&z=2004-11-01&g=2004-11-01), van overeenkomstige toepassing is.
+Het dagboek voor zeevissers- en kustvissersschepen mag worden gecombineerd met het radiotelefonie-dagboek als bedoeld in [artikel 161, vijfde lid, van het Schepenbesluit 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&artikel=161), waarbij het bepaalde in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002741&artikel=3&z=2007-07-01&g=2007-07-01), van overeenkomstige toepassing is.
 
 ##### Artikel 7
 
@@ -132,23 +132,21 @@ art. 43, vierde lid, [Schepelingenbesluit](https://wetten.overheid.nl/jci1.3:c:B
 
 art. 66, derde lid, [Schepelingenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0001985) (inspecties van verblijven);
 
-art. 12, eerste lid, [Wet op de Geneesmiddelenvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0002290) (overtreding van bepalingen dezer wet).
-
 De bladwijzer moet omtrent de aldaar aangewezen onderwerpen onmiddellijk en volledig worden bijgehouden.
+
+De bladwijzer mag met andere onderwerpen worden aangevuld.
 
 De bladwijzer mag met andere onderwerpen worden aangevuld.
 
 ### Bladwijzer
 
-∗ Datum van laatste aantekening uit vorig dagboek.
-
 Diepgang en stand der uitwateringsmerken ten opzichte van de waterlijn
 
 De gemiddelde diepgang bij aflading tot het middelpunt van de ring van het uitwateringsmerk bedraagt ...... cm.
 
-### Internationaal
+De gemiddelde diepgang bij aflading tot het middelpunt van de ring van het uitwateringsmerk bedraagt ...... cm.
 
-Uittreksel van het Certificaat van Uitwatering no. ..... Nationaal
+### Internationaal
 
 **nieuw schip** Vrijboord toegekend als bestaand schip
 
@@ -172,19 +170,19 @@ De Hoogte van de deklast mag:...................................................
 
 gemeten van ..........................................................................................................................................
 
+gemeten van ..........................................................................................................................................
+
 ### Bootoefeningen
 
-**Varende in** ...... **van** ......
-
 ∗ zon, maan of ster.
+
+**naar ...... dag, ...... 19 ......**
 
 **naar ...... dag, ...... 19 ......**
 
 ## Bijlage II
 
 ### Dagboek
-
-Over de periode van ........................................................ t/m ...............................................................
 
 van het zeevissersvaartuig
 
@@ -226,17 +224,17 @@ De bladwijzer moet omtrent de aldaar aangewezen onderwerpen onmiddellijk en voll
 
 De bladwijzer mag met andere onderwerpen worden aangevuld.
 
+De bladwijzer mag met andere onderwerpen worden aangevuld.
+
 ### Bladwijzer
 
-* Datum van laatste aantekening uit vorig dagboek.
+* Deze ruimte kan worden ingericht voor het vermelden van decca-waarnemingen.
 
 * Deze ruimte kan worden ingericht voor het vermelden van decca-waarnemingen.
 
 ## Bijlage III
 
 ### Machine-dagboek
-
-Over de periode van ................................................... t/m ......................................................
 
 van het zeeschip
 
@@ -263,6 +261,40 @@ art. 160 [Schepenbesluit 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002501) 
 De bladwijzer moet omtrent de aldaar aangewezen onderwerpen onmiddellijk en volledig worden bijgehouden.
 
 De bladwijzer mag met andere onderwerpen worden aangevuld.
+
+De bladwijzer mag met andere onderwerpen worden aangevuld.
+
+### Bladwijzer
+
+Onze Ministers van Verkeer en Waterstaat en van Justitie zijn belast met de uitvoering van dit besluit, hetwelk in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State.
+
+### Bladwijzer
+
+* Datum van laatste aantekening uit vorig dagboek.
+
+### Internationaal
+
+Uittreksel van het Certificaat van Uitwatering no. ..... Nationaal
+
+### Bootoefeningen
+
+**Varende in** ...... **van** ......
+
+## Bijlage II
+
+### Dagboek
+
+Over de periode van ........................................................ t/m ...............................................................
+
+### Bladwijzer
+
+* Datum van laatste aantekening uit vorig dagboek.
+
+## Bijlage III
+
+### Machine-dagboek
+
+Over de periode van ................................................... t/m ......................................................
 
 ### Bladwijzer
 
