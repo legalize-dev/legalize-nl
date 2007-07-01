@@ -4,7 +4,7 @@ identifier: "BWBR0007763"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2007-01-01"
+last_updated: "2007-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007763"
 soort: "ministeriele-regeling"
@@ -41,11 +41,11 @@ Besluit:
 
 ##### Artikel 1
 
-- A. De grondslag voor de gewezen zelfstandige en de echtgenoot wordt vastgesteld op: € 1.396,74;
+- A. De grondslag voor de gewezen zelfstandige en de echtgenoot wordt vastgesteld op: € 1.409,42;
 
-- B. De grondslag voor de alleenstaande gewezen zelfstandige met een of meer kinderen wordt vastgesteld op: € 1.282,72;
+- B. De grondslag voor de alleenstaande gewezen zelfstandige met een of meer kinderen wordt vastgesteld op: € 1.294,43;
 
-- C. De grondslag voor de alleenstaande gewezen zelfstandige zonder kinderen wordt vastgesteld op: € 1.083,13.
+- C. De grondslag voor de alleenstaande gewezen zelfstandige zonder kinderen wordt vastgesteld op: € 1.092,92.
 
 ##### Artikel 2
 
