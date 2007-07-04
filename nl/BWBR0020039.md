@@ -4,7 +4,7 @@ identifier: "BWBR0020039"
 country: "nl"
 rank: "amvb"
 publication_date: "2007-07-04"
-last_updated: "2006-08-16"
+last_updated: "2007-07-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020039"
 soort: "AMvB"
@@ -104,9 +104,9 @@ van de in het derde lid bedoelde grondslag.
 
 - b. indien een tegemoetkoming is ontvangen over een aaneengesloten tijdvak van twaalf maanden dat eindigt in 2005 alsmede een tegemoetkoming over het resterende deel van het jaar 2005: een bedrag berekend aan de hand van de formule (X : 12) x Y, waarbij X het totale bedrag van de tegemoetkoming over het aaneengesloten tijdvak van twaalf maanden bedraagt en Y het aantal maanden van het jaar 2005 waarop deze tegemoetkoming betrekking heeft. Hierbij wordt het totale bedrag van de tegemoetkoming over het resterende deel van het jaar 2005 opgeteld,
 
-- c. indien een ambtenaar of gewezen ambtenaar dan wel de nabestaanden van de ambtenaar of gewezen ambtenaar in 2005 rechthebbende is respectievelijk zijn geworden en als gevolg daarvan over een deel van het kalenderjaar 2005 een tegemoetkoming heeft respectievelijk hebben ontvangen: het bedrag van die tegemoetkoming.
+- c. indien een ambtenaar, gewezen ambtenaar dan wel de nabestaanden van de ambtenaar of gewezen ambtenaar in 2005 rechthebbende is respectievelijk zijn geworden en als gevolg daarvan over een deel van het kalenderjaar 2005 een tegemoetkoming heeft respectievelijk hebben ontvangen: een bedrag berekend aan de hand van de formule (A : M) x 12, waarbij A het bedrag van de aanspraak over 2005 is en M het aantal maanden dat belanghebbende rechthebbende was.
 
-4. Dit artikel is niet van toepassing ten aanzien van een belanghebbende als bedoeld in [artikel 3, eerste lid, onderdelen b tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0020039&hoofdstuk=3&artikel=3&z=2006-08-16&g=2006-08-16), alsmede ten aanzien van de gewezen burgerambtenaar die een uitkering ontvangt op grond van [artikel 114, eerste lid, van het Burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=114).
+4. Dit artikel is niet van toepassing ten aanzien van een belanghebbende als bedoeld in [artikel 3, eerste lid, onderdelen b tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0020039&hoofdstuk=3&artikel=3&z=2007-07-04&g=2007-07-04), alsmede ten aanzien van de gewezen burgerambtenaar die een uitkering ontvangt op grond van [artikel 114, eerste lid, van het Burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=114).
 
 ### Hoofdstuk 3. Vaststelling van aanspraken op vergoeding van de inkomensafhankelijke bijdrage voor gewezen defensiepersoneel
 
@@ -158,7 +158,7 @@ Wijzigt het Inkomstenbesluit militairen.
 
 ##### Artikel 8
 
-In afwijking van [artikel 6, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0020039&hoofdstuk=4&artikel=6&z=2006-08-16&g=2006-08-16), is het percentage in [artikel 6 van het Inkomstenbesluit militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&artikel=6) voor de periode 1 januari 2004 tot en met 31 december 2004 bepaald op 0,8%.
+In afwijking van [artikel 6, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0020039&hoofdstuk=4&artikel=6&z=2007-07-04&g=2007-07-04), is het percentage in [artikel 6 van het Inkomstenbesluit militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&artikel=6) voor de periode 1 januari 2004 tot en met 31 december 2004 bepaald op 0,8%.
 
 ##### Artikel 9
 
