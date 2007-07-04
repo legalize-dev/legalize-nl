@@ -4,7 +4,7 @@ identifier: "BWBR0007816"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-01-17"
-last_updated: "2007-03-01"
+last_updated: "2007-07-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007816"
 soort: "AMvB"
@@ -82,11 +82,11 @@ Hebben goedgevonden en verstaan:
 
 - i. gezin en gezinsleden: de echtgenote van de militair en de kinderen, stief- en pleegkinderen van de militair of van zijn echtgenote;
 
-- j. salaris: het bedrag dat met inachtneming van de bepalingen van dit besluit voor de militair is vastgesteld op grond van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=2&artikel=5&z=2007-01-01&g=2007-03-01);
+- j. salaris: het bedrag dat met inachtneming van de bepalingen van dit besluit voor de militair is vastgesteld op grond van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=2&artikel=5&z=2007-07-04&g=2007-07-04);
 
 - k. salarisschaal: een reeks van salarissen, behorende bij een bepaalde rang;
 
-- l. bezoldiging: het salaris, in voorkomend geval vermeerderd met de overbruggingstoelage, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=2&artikel=9&z=2007-01-01&g=2007-03-01), en de garantietoelage minimumloon, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=2&artikel=10&z=2007-01-01&g=2007-03-01);
+- l. bezoldiging: het salaris, in voorkomend geval vermeerderd met de overbruggingstoelage, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=2&artikel=9&z=2007-07-04&g=2007-07-04), en de garantietoelage minimumloon, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=2&artikel=10&z=2007-07-04&g=2007-07-04);
 
 - m. inkomsten: alle bedragen waarop de militair aanspraak kan maken bij of krachtens dit besluit;
 
@@ -142,7 +142,7 @@ Voor de berekening van het pensioen gevend inkomen worden aanspraken op grond va
 
 ##### Artikel 4. Vaststelling salarisschalen
 
-De salarisschalen voor militairen zijn opgenomen in de bij dit besluit behorende [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&bijlage=A&z=2007-01-01&g=2007-03-01) of [B](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&bijlage=B&z=2007-01-01&g=2007-03-01), die blijkens het opschrift betrekking heeft op het krijgsmachtdeel waartoe de militair behoort.
+De salarisschalen voor militairen zijn opgenomen in de bij dit besluit behorende [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&bijlage=A&z=2007-07-04&g=2007-07-04) of [B](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&bijlage=B&z=2007-07-04&g=2007-07-04), die blijkens het opschrift betrekking heeft op het krijgsmachtdeel waartoe de militair behoort.
 
 ##### Artikel 5. Salaris
 
@@ -158,19 +158,19 @@ De salarisschalen voor militairen zijn opgenomen in de bij dit besluit behorende
 
 ##### Artikel 5a. Vaste vergoeding extra beslaglegging
 
-1. Ter zake van extra beslaglegging ontvangt de militair een maandelijkse toelage, bestaande uit een percentage van de voor hem geldende bezoldiging per maand, bedoeld in [artikel 1, eerste lid, onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=1&artikel=1&z=2007-01-01&g=2007-03-01).
+1. Ter zake van extra beslaglegging ontvangt de militair een maandelijkse toelage, bestaande uit een percentage van de voor hem geldende bezoldiging per maand, bedoeld in [artikel 1, eerste lid, onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=1&artikel=1&z=2007-07-04&g=2007-07-04).
 
 2. In afwijking van het eerste lid wordt voor de militair die aanspraak heeft op een afwijkende bezoldiging de toelage verminderd overeenkomstig de mate waarin die bezoldiging afwijkt van de bezoldiging bedoeld in het eerste lid.
 
-3. Het percentage bedoeld in het eerste lid, wordt bepaald aan de hand van de bezoldiging als bedoeld in [artikel 1, eerste lid, onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=1&artikel=1&z=2007-01-01&g=2007-03-01), voor de betrokken maand, volgens onderstaande tabel:
+3. Het percentage bedoeld in het eerste lid, wordt bepaald aan de hand van de bezoldiging als bedoeld in [artikel 1, eerste lid, onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=1&artikel=1&z=2007-07-04&g=2007-07-04), voor de betrokken maand, volgens onderstaande tabel:
 
-| Bezoldiging | Percentage |
+| bezoldiging | percentage |
 | --- | --- |
-| t/m € 2623,46 | 9,3% |
-| van € 2623,47 t/m € 2999,12 | 8,8% |
-| van € 2999,13 t/m € 3515,42 | 7,7% |
-| van € 3515,43 t/m € 5834,96 | 6,3% |
-| vanaf € 5834,97 | 4,6% |
+| t/m € 2687,88 | 9,3% |
+| van € 2687,89 t/m € 3072,76 | 8,8% |
+| van € 3072,77 t/m € 3601,74 | 7,7% |
+| van € 3601.75 t/m € 5978,24 | 6,3% |
+| vanaf € 5978,25 | 4,6% |
 
 4. Onder een afwijkende bezoldiging bedoeld in het tweede lid wordt verstaan de bezoldiging in geval van:
 
@@ -186,7 +186,7 @@ De salarisschalen voor militairen zijn opgenomen in de bij dit besluit behorende
 
 - f. wachtgeld als bedoeld in het Tijdelijk besluit uitstroom bevorderende maatregel Defensie.
 
-5. Bij het vaststellen van de toelage, genoemd in het eerste lid, is [artikel 3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=1&artikel=3&z=2007-01-01&g=2007-03-01), van overeenkomstige toepassing.
+5. Bij het vaststellen van de toelage, genoemd in het eerste lid, is [artikel 3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=1&artikel=3&z=2007-07-04&g=2007-07-04), van overeenkomstige toepassing.
 
 ##### Artikel 7. Salarisnummer bij aanstelling, verhoging salarisnummer
 
@@ -210,11 +210,11 @@ De salarisschalen voor militairen zijn opgenomen in de bij dit besluit behorende
 
 3. Indien de in het tweede lid bedoelde militair tijdelijk is bevorderd en de rang herkrijgt die hij had voordat hij tijdelijk werd bevorderd, vervalt de in het vorige lid bedoelde verhoging van het salarisnummer.
 
-4. Het salarisnummer van de korporaal van de Koninklijke Landmacht of van de Koninklijke Luchtmacht, die wordt bevorderd tot korporaal der eerste klasse, wordt met één verhoogd. Deze verhoging is niet van invloed op de datum van de jaarlijkse verhoging van het salarisnummer, bedoeld in [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=2&artikel=7&z=2007-01-01&g=2007-03-01).
+4. Het salarisnummer van de korporaal van de Koninklijke Landmacht of van de Koninklijke Luchtmacht, die wordt bevorderd tot korporaal der eerste klasse, wordt met één verhoogd. Deze verhoging is niet van invloed op de datum van de jaarlijkse verhoging van het salarisnummer, bedoeld in [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=2&artikel=7&z=2007-07-04&g=2007-07-04).
 
 ##### Artikel 8a. Overgangsbepaling 1 juni 2001
 
-1. Voor de militair, die op 31 mei 2001 aanspraak maakt op salaris, wordt op 1 juni 2001 zijn tot die tijd geldende diensttijd omgezet in een salarisnummer aan de hand van de salarisschalen van [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&bijlage=A&z=2007-01-01&g=2007-03-01) en [B](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&bijlage=B&z=2007-01-01&g=2007-03-01) en met inachtneming van het volgende:
+1. Voor de militair, die op 31 mei 2001 aanspraak maakt op salaris, wordt op 1 juni 2001 zijn tot die tijd geldende diensttijd omgezet in een salarisnummer aan de hand van de salarisschalen van [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&bijlage=A&z=2007-07-04&g=2007-07-04) en [B](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&bijlage=B&z=2007-07-04&g=2007-07-04) en met inachtneming van het volgende:
 
 - a. Het salarisnummer wordt toegekend zodanig, dat het salaris op 1 juni 2001 gelijk is aan het salaris dat voor hem op die datum zou hebben gegolden bij toepassing van dit besluit zoals dat luidde op 31 mei 2001;
 
@@ -222,7 +222,7 @@ De salarisschalen voor militairen zijn opgenomen in de bij dit besluit behorende
 
 - c. Voor de militair, die één of meer jaren diensttijd had boven de diensttijd behorende bij het maximum salaris in de salarisschaal, wordt het salarisnummer hoger vastgesteld overeenkomstig dat aantal jaren diensttijd.
 
-2. In afwijking van [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=2&artikel=7&z=2007-01-01&g=2007-03-01), wordt voor de militair, die op 31 mei 2001 aanspraak maakt op salaris, de datum van de eerstvolgende verhoging van het salarisnummer na 1 juni 2001 als volgt vastgesteld:
+2. In afwijking van [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=2&artikel=7&z=2007-07-04&g=2007-07-04), wordt voor de militair, die op 31 mei 2001 aanspraak maakt op salaris, de datum van de eerstvolgende verhoging van het salarisnummer na 1 juni 2001 als volgt vastgesteld:
 
 - a. voor de militair, bedoeld in het eerste lid, onder b: één jaar na de toekenning van het salarisnummer;
 
@@ -318,23 +318,23 @@ De militair wiens salaris - in voorkomend geval verhoogd met een overbruggingsto
 
 - f. de toelage woninghuur Koninklijke marechaussee;
 
-- g. het emolument van kleermakers, schoenmakers en barbiers der zeemacht, bedoeld in [artikel 23a, eerste lid, onderdeel l](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=4a&artikel=23a&z=2007-01-01&g=2007-03-01).
+- g. het emolument van kleermakers, schoenmakers en barbiers der zeemacht, bedoeld in [artikel 23a, eerste lid, onderdeel l](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=4a&artikel=23a&z=2007-07-04&g=2007-07-04);
 
 - h. de toelage Huis van Hare Majesteit de Koningin.
 
 2. Het minimumbedrag per maand van de vakantie-uitkering is voor de militair:
 
-- a. met salarisnummer 0: € 95,98;
+- a. met salarisnummer 0: € 98,34;
 
-- b. met salarisnummer 1: € 109,70;
+- b. met salarisnummer 1: € 112,39;
 
-- c. met salarisnummer 2: € 123,41;
+- c. met salarisnummer 2: € 126,44;
 
-- d. met salarisnummer 3 of hoger: € 137,12.
+- d. met salarisnummer 3 of hoger: € 140,49.
 
-3. Ten aanzien van de militair op wie [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=4&artikel=17&z=2007-01-01&g=2007-03-01), van toepassing is, wordt voor de toepassing van dit artikel uitgegaan van de inkomsten waarop die militair aanspraak zou hebben, indien de verhindering tot dienstverrichting niet was ingetreden.
+3. Ten aanzien van de militair op wie [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=4&artikel=17&z=2007-07-04&g=2007-07-04), van toepassing is, wordt voor de toepassing van dit artikel uitgegaan van de inkomsten waarop die militair aanspraak zou hebben, indien de verhindering tot dienstverrichting niet was ingetreden.
 
-4. Indien de militair - anders dan op grond van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=4&artikel=17&z=2007-01-01&g=2007-03-01) - aanspraak heeft op een gedeelte van de voor hem geldende inkomsten, wordt het in het tweede lid bedoelde bedrag naar evenredigheid verminderd.
+4. Indien de militair - anders dan op grond van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=4&artikel=17&z=2007-07-04&g=2007-07-04) - aanspraak heeft op een gedeelte van de voor hem geldende inkomsten, wordt het in het tweede lid bedoelde bedrag naar evenredigheid verminderd.
 
 ##### Artikel 15. Eindejaarsuitkering
 
@@ -390,11 +390,11 @@ Vervallen
 
 7. In bijzondere gevallen kan het hoofd defensieonderdeel in de situaties, genoemd in het vijfde en zesde lid, bepalen dat de niet genoten inkomsten geheel of gedeeltelijk aan anderen dan aan de militair worden betaald. Na verrekening met deze aan anderen dan aan de militair betaalde inkomsten, worden de eventueel resterende, niet betaalde inkomsten alsnog aan de militair betaald, indien een door hem aangevraagd hernieuwd onderzoek als bedoeld in [artikel 102 van het Algemeen militair ambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=102) in zijn voordeel is beslist.
 
-8. Het vijfde tot en met zevende lid is niet van toepassing indien sprake is van samenloop, bedoeld in [artikel 17a](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=4&artikel=17a&z=2007-01-01&g=2007-03-01), met een uitkering op grond van en werknemersverzekering of de [Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008).
+8. Het vijfde tot en met zevende lid is niet van toepassing indien sprake is van samenloop, bedoeld in [artikel 17a](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=4&artikel=17a&z=2007-07-04&g=2007-07-04), met een uitkering op grond van en werknemersverzekering of de [Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008).
 
 ##### Artikel 17a. Samenloop tijdens ziekte van inkomsten en uitkering op grond van een werknemersverzekering, de [Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008) of een bovenwettelijke regeling
 
-1. Indien de militair, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=4&artikel=17&z=2007-01-01&g=2007-03-01), ter zake van de betrekking waaruit het recht op doorbetaling van bezoldiging voortvloeit, recht heeft op een of meerdere uitkeringen op grond van een werknemersverzekering, de [Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008) of een bovenwettelijke WW-uitkering, wordt het bedrag van die uitkering(en) in mindering gebracht op het bedrag waarop hij ingevolge [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=4&artikel=17&z=2007-01-01&g=2007-03-01) recht heeft.
+1. Indien de militair, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=4&artikel=17&z=2007-07-04&g=2007-07-04), ter zake van de betrekking waaruit het recht op doorbetaling van bezoldiging voortvloeit, recht heeft op een of meerdere uitkeringen op grond van een werknemersverzekering, de [Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008) of een bovenwettelijke WW-uitkering, wordt het bedrag van die uitkering(en) in mindering gebracht op het bedrag waarop hij ingevolge [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=4&artikel=17&z=2007-07-04&g=2007-07-04) recht heeft.
 
 2. Indien als gevolg van handelingen of het nalaten van handelingen door de militair de uitkering ingevolge een werknemersverzekering, de [Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008), dan wel de bovenwettelijke WW-uitkering een vermindering ondergaat, dan wel de aanspraak daarop geheel of gedeeltelijk niet wordt toegekend, wordt die uitkering voor de toepassing van het eerste lid steeds aangemerkt als een uitkering die onverminderd is genoten. Indien het een uitkering betreft op grond van de [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) die in het geheel niet wordt toegekend, wordt voor de toepassing van dit artikel rekening gehouden met de uitkering op grond van de [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) zoals die zou zijn toegekend bij een arbeidsongeschiktheid van 80% of meer.
 
@@ -428,7 +428,7 @@ De militair die zich in krijgsgevangenschap bevindt of door een vreemde mogendhe
 
 ##### Artikel 22. Vermissing
 
-1. Indien de militair wordt vermist en gegronde redenen bestaan om aan te nemen dat hij zich aan zijn dienstverplichtingen onttrekt, dan wel zich in krijgsgevangenschap bevindt of door een vreemde mogendheid is geïnterneerd, is [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=4&artikel=18&z=2007-01-01&g=2007-03-01), onderscheidenlijk [21](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=4&artikel=21&z=2007-01-01&g=2007-03-01) van overeenkomstige toepassing.
+1. Indien de militair wordt vermist en gegronde redenen bestaan om aan te nemen dat hij zich aan zijn dienstverplichtingen onttrekt, dan wel zich in krijgsgevangenschap bevindt of door een vreemde mogendheid is geïnterneerd, is [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=4&artikel=18&z=2007-07-04&g=2007-07-04), onderscheidenlijk [21](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=4&artikel=21&z=2007-07-04&g=2007-07-04) van overeenkomstige toepassing.
 
 2. Indien de militair wordt vermist en het eerste lid niet van toepassing is, wordt de militair geacht te zijn overleden op de dag waarop hij wordt vermist.
 
@@ -436,7 +436,7 @@ De militair die zich in krijgsgevangenschap bevindt of door een vreemde mogendhe
 
 - a. een eventueel aan de gezinsleden van de militair toegekend tijdelijk pensioen;
 
-- b. een eventueel aan nabestaanden van de militair toegekende uitkering op grond van [artikel 16, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=3&artikel=16&z=2007-01-01&g=2007-03-01);
+- b. een eventueel aan nabestaanden van de militair toegekende uitkering op grond van [artikel 16, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=3&artikel=16&z=2007-07-04&g=2007-07-04);
 
 - c. eventuele andere inkomsten of baten die door de militair of zijn gezinsleden tijdens de duur van de vermissing van de militair in verband daarmede zijn genoten.
 
@@ -444,7 +444,7 @@ De militair die zich in krijgsgevangenschap bevindt of door een vreemde mogendhe
 
 1. Onverminderd het tweede lid kan het hoofd defensieonderdeel het bedrag aan inkomsten waarop de militair over enig tijdvak aanspraak heeft, verminderen met het gehele of gedeeltelijke bedrag van de geldelijke inkomsten waarop die militair over hetzelfde tijdvak aanspraak heeft uit of in verband met arbeid of bedrijf anders dan als militair. Dit geldt uitsluitend, indien laatstbedoelde geldelijke inkomsten zijn verkregen uit of in verband met werkzaamheden, verricht gedurende de voor de militair geldende werktijd, bedoeld in [artikel 54a, onder d, van het Algemeen militair ambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=54a). De vermindering bedraagt ten hoogste het bedrag van de inkomsten als militair.
 
-2. Indien de militair, bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=4&artikel=17&z=2007-01-01&g=2007-03-01), tijdens verhindering tot dienstverrichting in het belang van zijn genezing door de militair geneeskundige dienst wenselijk geachte arbeid voor zichzelf of voor derden verricht, worden - in afwijking van het eerste lid - de geldelijke inkomsten uit die arbeid slechts op zijn inkomsten als militair in mindering gebracht, voor zover de inkomsten uit die arbeid 20 procent van zijn inkomsten als militair te boven gaan.
+2. Indien de militair, bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=4&artikel=17&z=2007-07-04&g=2007-07-04), tijdens verhindering tot dienstverrichting in het belang van zijn genezing door de militair geneeskundige dienst wenselijk geachte arbeid voor zichzelf of voor derden verricht, worden - in afwijking van het eerste lid - de geldelijke inkomsten uit die arbeid slechts op zijn inkomsten als militair in mindering gebracht, voor zover de inkomsten uit die arbeid 20 procent van zijn inkomsten als militair te boven gaan.
 
 3. Indien de militair reeds vóór het tijdstip waarop hij de in het eerste lid bedoelde werkzaamheden heeft aangevangen, naast zijn inkomsten als militair tevens inkomsten uit of in verband met arbeid of bedrijf genoot, worden die inkomsten niet in aanmerking genomen bij de toepassing van het eerste lid. Dit is uitsluitend het geval, indien hij aannemelijk kan maken dat die inkomsten niet het gevolg zijn van verhoogde werkzaamheden of van andere oorzaken die verband houden met de werkzaamheden, bedoeld in het eerste lid.
 
@@ -464,7 +464,7 @@ Vervallen
 
 ##### Artikel 24a. Overgangsbepaling overbruggingstoelage
 
-De militair die op 31 mei 2001 aanspraak had op een overbruggingstoelage op grond van [artikel 9, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=2&artikel=9&z=2007-01-01&g=2007-03-01), volgens de bepalingen van dit besluit zoals deze luidden op 31 mei 2001, behoudt zijn aanspraak op de overbruggingstoelage volgens de bepalingen van dit besluit zoals deze luidden op voornoemde datum.
+De militair die op 31 mei 2001 aanspraak had op een overbruggingstoelage op grond van [artikel 9, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=2&artikel=9&z=2007-07-04&g=2007-07-04), volgens de bepalingen van dit besluit zoals deze luidden op 31 mei 2001, behoudt zijn aanspraak op de overbruggingstoelage volgens de bepalingen van dit besluit zoals deze luidden op voornoemde datum.
 
 ##### Artikel 25. Vakantie-uitkering
 
@@ -472,7 +472,7 @@ Bij de vaststelling van de grondslag voor de vakantie-uitkering wordt in voorkom
 
 ##### Artikel 25a. Mandaatverlening
 
-Van de bevoegdheid tot het vaststellen van ministeriële regelingen als bedoeld in [artikel 16, eerste lid, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=3&artikel=16&z=2007-01-01&g=2007-03-01), kan mandaat worden verleend aan de hoofddirecteur personeel van het Ministerie van Defensie.
+Van de bevoegdheid tot het vaststellen van ministeriële regelingen als bedoeld in [artikel 16, eerste lid, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=3&artikel=16&z=2007-07-04&g=2007-07-04), kan mandaat worden verleend aan de hoofddirecteur personeel van het Ministerie van Defensie.
 
 ##### Artikel 29. Inwerkingtreding
 
@@ -572,11 +572,35 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 - m. het emolument huisvesting Koninklijke marechaussee;
 
-- n. de vaste vergoeding voor extra beslaglegging van de militair die voor onbepaalde tijd is aangesteld, voor zover hij deze na 31 december 2001 heeft genoten, met uitzondering van de militair bedoeld in [artikel 39a, onderdelen a onder 1, b onder 1, c en e onder 1 van het AMAR](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=39a).
+- n. de vaste vergoeding voor extra beslaglegging van de militair die voor onbepaalde tijd is aangesteld, voor zover hij deze na 31 december 2001 heeft genoten, met uitzondering van de militair bedoeld in het vierde lid.
 
 2. Het eerste lid is van overeenkomstige toepassing voor de gewezen militair die een uitkering ingevolge de [Uitkeringswet gewezen militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0002540) geniet en voor wie de ontslagleeftijd met ingang van 1 januari 2006 bij of krachtens [artikel 12 van de Militaire Ambtenarenwet 1931](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12) is gewijzigd.
 
 3. Het eerste lid is van overeenkomstige toepassing voor de gewezen militair die een ontslaguitkering, waaronder tevens te begrijpen een uitkering ingevolge de [Uitkeringswet gewezen militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0002540), geniet in de zin van de bij of krachtens de [Kaderwet militaire pensioenen](onbekend) vastgestelde regels, met dien verstande dat onderdeel n van het eerste lid niet als inkomensbestanddeel bij de berekening van de pensioengrondslag wordt meegenomen.
+
+4. Met de uitzondering genoemd in het eerste lid, onderdeel n, wordt bedoeld:
+
+- a. de militair van de zeemacht zonder rang, of die een rang bekleedt lager dan luitenant ter zee der derde klasse die in het jaar 2002, 2003, 2004 of 2005 de leeftijd van vijftig jaar heeft bereikt;
+
+- b. de militair van de zeemacht, die de rang bekleedt van luitenant ter zee der derde klasse, luitenant ter zee der tweede klasse of luitenant ter zee der tweede klasse oudste categorie, die in het jaar 2002, 2003, 2004 of 2005 de leeftijd van tweeënvijftig jaar heeft bereikt;
+
+- c. de militair van de zeemacht die de rang bekleedt van luitenant ter zee der eerste klasse, of een hogere rang, die:
+
+- 1°. van 1 januari 2002 tot en met 30 juni 2002 de leeftijd van drieënvijftig jaar en zes maanden heeft bereikt;
+
+- 2°. van 1 juli 2002 tot en met 30 juni 2003 de leeftijd van drieënvijftig jaar en negen maanden heeft bereikt;
+
+- 3°. van 1 juli 2003 tot en met 30 juni 2005 de leeftijd van vierenvijftig jaar heeft bereikt;
+
+- 4°. van 1 juli 2005 tot en met 30 juni 2006 de leeftijd van vierenvijftig jaar en drie maanden heeft bereikt;
+
+- 5°. van 1 juli 2006 tot en met 30 juni 2007 de leeftijd van vierenvijftig jaar en zes maanden bereikt;
+
+- 6°. van 1 juli 2007 tot en met 30 juni 2008 de leeftijd van vierenvijftig jaar en negen maanden bereikt;
+
+- 7°. van 1 juli 2008 tot en met 31 december 2008 de leeftijd van vijfenvijftig jaar bereikt;
+
+- d. de overige militairen die in het jaar 2002, 2003, 2004 en 2005 de leeftijd van vijfenvijftig jaar hebben bereikt.
 
 ##### Artikel 23b. Eigen bijdrage en tijdelijke aanvullende eigen bijdrage
 
@@ -588,7 +612,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 23c. Pseudo-pensioenpremie VEB
 
-1. Op de inkomsten van de militair bedoeld in [artikel 39a, onder a ten 1°, b ten 1°, c en e ten 1° van het AMAR](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=39a) wordt een pseudo-pensioenpremievergoeding voor extra beslaglegging ingehouden, overeenkomstig de pensioenbijdrage die verhaald zou zijn indien op basis van [artikel 23a, onderdeel n](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=4a&artikel=23a&z=2007-01-01&g=2007-03-01), de vaste vergoeding voor extra beslaglegging voor zover hij deze na 31 december 2001 heeft genoten, tot zijn pensioengrondslag zou behoren.
+1. Op de inkomsten van de militair bedoeld in [artikel 23a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=4a&artikel=23a&z=2007-07-04&g=2007-07-04), wordt een pseudo-pensioenpremievergoeding voor extra beslaglegging ingehouden, overeenkomstig de pensioenbijdrage die verhaald zou zijn indien op basis van [artikel 23a, onderdeel n](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=4a&artikel=23a&z=2007-07-04&g=2007-07-04), de vaste vergoeding voor extra beslaglegging voor zover hij deze na 31 december 2001 heeft genoten, tot zijn pensioengrondslag zou behoren.
 
 2. De pseudo-pensioenpremievergoeding voor extra beslaglegging wordt op de datum dat hij met leeftijdsontslag gaat gerestitueerd aan de militair, uitgezonderd de militair bedoeld in het derde en vierde lid.
 
@@ -600,17 +624,17 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 23d. Pseudo-pensioenpremietoelage officieren-medisch specialist
 
-1. Over de toelage bedoeld in [artikel 23a, eerste lid, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=4a&artikel=23a&z=2007-01-01&g=2007-03-01), wordt, zolang niet is uitgesloten dat aan de in dat onderdeel bedoelde voorwaarde zal worden voldaan, een pseudo-pensioenpremie ingehouden, overeenkomstig de pensioenbijdrage die verhaald zou zijn, indien die toelage tot zijn pensioengrondslag zou behoren.
+1. Over de toelage bedoeld in [artikel 23a, eerste lid, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=4a&artikel=23a&z=2007-07-04&g=2007-07-04), wordt, zolang niet is uitgesloten dat aan de in dat onderdeel bedoelde voorwaarde zal worden voldaan, een pseudo-pensioenpremie ingehouden, overeenkomstig de pensioenbijdrage die verhaald zou zijn, indien die toelage tot zijn pensioengrondslag zou behoren.
 
-2. De in het eerste lid bedoelde pseudo-pensioenpremie is verschuldigd, totdat blijkt dat aan de in [artikel 23a, eerste lid, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=4a&artikel=23a&z=2007-01-01&g=2007-03-01), bedoelde voorwaarde is voldaan.
+2. De in het eerste lid bedoelde pseudo-pensioenpremie is verschuldigd, totdat blijkt dat aan de in [artikel 23a, eerste lid, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=4a&artikel=23a&z=2007-07-04&g=2007-07-04), bedoelde voorwaarde is voldaan.
 
-3. De in het eerste lid bedoelde pseudo-pensioenpremie over de toelage wordt aan de militair gerestitueerd, zodra die toelage niet meer wordt genoten en is uitgesloten dat aan de in [artikel 23a, eerste lid, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=4a&artikel=23a&z=2007-01-01&g=2007-03-01), bedoelde voorwaarde zal worden voldaan.
+3. De in het eerste lid bedoelde pseudo-pensioenpremie over de toelage wordt aan de militair gerestitueerd, zodra die toelage niet meer wordt genoten en is uitgesloten dat aan de in [artikel 23a, eerste lid, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=4a&artikel=23a&z=2007-07-04&g=2007-07-04), bedoelde voorwaarde zal worden voldaan.
 
-4. Het derde lid is van overeenkomstige toepassing indien de militair komt te overlijden en niet aan de in [artikel 23a, eerste lid, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=4a&artikel=23a&z=2007-01-01&g=2007-03-01), bedoelde voorwaarde is voldaan.
+4. Het derde lid is van overeenkomstige toepassing indien de militair komt te overlijden en niet aan de in [artikel 23a, eerste lid, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=4a&artikel=23a&z=2007-07-04&g=2007-07-04), bedoelde voorwaarde is voldaan.
 
-5. Ter voldoening aan de in [artikel 23a, eerste lid, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=4a&artikel=23a&z=2007-01-01&g=2007-03-01), bedoelde voorwaarde, wordt voor de militair die vóór 1 juni 2006 met leeftijdsontslag gaat mede onder de toelage officieren-medisch specialist begrepen: de bijzondere tegemoetkoming, toegekend aan de officieren-medisch specialist op grond van [artikel 115 van het Algemeen Militair Ambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=115).
+5. Ter voldoening aan de in [artikel 23a, eerste lid, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=4a&artikel=23a&z=2007-07-04&g=2007-07-04), bedoelde voorwaarde, wordt voor de militair die vóór 1 juni 2006 met leeftijdsontslag gaat mede onder de toelage officieren-medisch specialist begrepen: de bijzondere tegemoetkoming, toegekend aan de officieren-medisch specialist op grond van [artikel 115 van het Algemeen Militair Ambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=115).
 
-6. Indien de in het vijfde lid bedoelde militair op de ontslagdatum ten minste twee jaar ouder is dan de op die datum voor hem geldende ontslagleeftijd, bedoeld in [artikel 39a van het Algemeen Militair Ambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=39a), wordt de toelage aangemerkt als toelage die aan de in [artikel 23a, eerste lid, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=4a&artikel=23a&z=2007-01-01&g=2007-03-01), bedoelde voorwaarde voldoet.
+6. Indien de in het vijfde lid bedoelde militair op de ontslagdatum ten minste twee jaar ouder is dan de op die datum voor hem geldende ontslagleeftijd, bedoeld in [artikel 39a van het Algemeen Militair Ambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=39a), wordt de toelage aangemerkt als toelage die aan de in [artikel 23a, eerste lid, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=4a&artikel=23a&z=2007-07-04&g=2007-07-04), bedoelde voorwaarde voldoet.
 
 ### Hoofdstuk 5. Overgangs- en slotbepalingen
 
@@ -618,49 +642,49 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ### Salarisschalen voor de militairen van de Koninklijke marine met ingang van 1 november 2002 (maandbedragen in euro's)
 
-## Bijlage A. (IBM, [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=2&artikel=4&z=2007-01-01&g=2007-03-01)) Salarisschalen voor de militairen van de Koninklijke Marine met ingang van 1 januari 2006 (maandbedragen in euro's)
+## Bijlage A. (IBM, [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=2&artikel=4&z=2007-07-04&g=2007-07-04)) Salarisschalen voor de militairen van de Koninklijke marine met ingang van 1 januari 2007 (maandbedragen in euro's)
 
-| salarisnr. | matr3 | matr2 | matr1 | kpl | sgt | smjr | aoo | ltz3 | ltz2 | ltz2oc | ltz1 | kltz | ktz | cdr | sbn | vadm | ltadm |
+| salarisnr. | matr3 | matr2 | matr1 | kpl | sgt | smjr | aoo | ltz3 | ltz2 | ltz2oc | ltz1 | kltz | ktz | cdr | sbn | vadm | ltadm vadm |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 0 | 830,60 | 865,52 | 1193,05 | 1220,89 | 1258,64 |   |   |   |   |   |   |   |   |   |   |   |   |
-| 1 | 932,07 | 971,70 | 1363,41 | 1395,02 | 1438,44 |   |   |   |   |   |   |   |   |   |   |   |   |
-| 2 | 1046,27 | 1090,16 | 1533,78 | 1569,64 | 1618,25 |   |   |   |   |   |   |   |   |   |   |   |   |
-| 3 | 1173,22 | 1222,77 | 1704,14 | 1743,79 | 1798,06 | 1876,87 | 1948,61 |   |   |   |   |   |   |   |   |   |   |
-| 4 | 1268,55 | 1326,12 | 1765,49 | 1786,26 | 1839,12 | 1912,74 | 1984,00 |   |   |   |   |   |   |   |   |   |   |
-| 5 | 1457,80 | 1499,79 | 1797,12 | 1830,15 | 1876,87 | 1950,97 | 2019,40 |   |   |   |   |   |   |   |   |   |   |
-| 6 | 1474,31 | 1522,45 | 1832,03 | 1862,24 | 1912,74 | 1986,83 | 2028,36 | 2074,13 | 2169,47 |   |   |   |   |   |   |   |   |
-| 7 | 1491,78 | 1546,04 | 1858,47 | 1894,81 | 1950,97 | 2022,23 | 2064,22 | 2174,19 | 2269,52 |   |   |   |   |   |   |   |   |
-| 8 | 1509,24 | 1569,64 | 1883,95 | 1925,96 | 1986,83 | 2054,32 | 2101,51 | 2274,71 | 2369,10 |   |   |   |   |   |   |   |   |
-| 9 | 1526,70 | 1592,77 | 1909,43 | 1958,99 | 2022,23 | 2089,71 | 2138,79 | 2347,38 | 2451,69 |   |   |   |   |   |   |   |   |
-| 10 | 1544,16 | 1616,84 | 1935,87 | 1989,19 | 2054,32 | 2126,52 | 2175,13 | 2426,20 | 2529,08 |   |   |   |   |   |   |   |   |
-| 11 | 1561,62 | 1640,90 | 1962,76 | 2019,40 | 2089,71 | 2164,28 | 2213,36 | 2506,43 | 2602,23 |   |   |   |   |   |   |   |   |
-| 12 | ,, | ,, | ,, | 2051,48 | 2126,52 | 2197,31 | 2250,64 | 2575,33 | 2679,15 |   |   |   |   |   |   |   |   |
-| 13 | ,, | ,, | ,, | 2081,68 | 2164,28 | 2229,87 | 2288,86 | 2651,31 | 2749,47 | 2919,36 |   |   |   |   |   |   |   |
-| 14 | ,, | ,, | ,, | 2114,73 | 2197,31 | 2250,64 | 2326,63 | 2723,04 | 2813,66 | 2987,80 |   |   |   |   |   |   |   |
-| 15 | ,, | ,, | ,, | 2146,82 | 2229,87 | 2287,93 | 2364,85 | 2786,75 | 2882,09 | 3059,06 |   |   |   |   |   |   |   |
-| 16 | ,, | ,, | ,, | 2177,97 | 2265,74 | 2324,73 | 2406,38 | ,, | 2936,36 | 3108,61 |   |   |   |   |   |   |   |
-| 17 | ,, | ,, | 2004,77 | 2213,36 | 2300,67 | 2362,02 | 2447,91 | ,, | 2988,27 | 3153,91 |   |   |   |   |   |   |   |
-| 18 | ,, | ,, | ,, | ,, | 2335,11 | 2403,08 | 2488,97 | ,, | 3042,54 | 3198,75 | 3386,10 |   |   |   |   |   |   |
-| 19 | ,, | ,, | 2046,29 | ,, | 2371,46 | 2446,02 | 2524,36 | ,, | 3090,68 | 3248,30 | 3494,65 |   |   |   |   |   |   |
-| 20 | ,, | ,, | ,, | ,, | 2411,09 | 2484,25 | 2559,28 | ,, | 3166,66 | 3294,09 | 3601,31 | 3701,83 |   |   |   |   |   |
-| 21 | ,, | ,, | 2088,77 | ,, | 2446,02 | 2521,05 | 2597,51 | ,, | 3234,15 | 3364,87 | 3704,19 | 3831,61 |   |   |   |   |   |
-| 22 | ,, | ,, | ,, | ,, | 2484,25 | 2557,39 | 2634,79 | ,, | 3306,83 | 3443,21 | 3807,54 | 3930,72 |   |   |   |   |   |
-| 23 | ,, | ,, | ,, | ,, | 2521,05 | 2595,62 | 2672,55 | ,, | ,, | 3518,25 | 3906,18 | 4035,96 |   |   |   |   |   |
-| 24 | ,, | ,, | ,, | ,, | ,, | 2634,32 | 2708,89 | ,, | ,, | 3592,35 | 4010,47 | 4139,31 |   |   |   |   |   |
-| 25 | ,, | ,, | ,, | ,, | ,, | 2672,55 | 2742,86 | ,, | ,, | ,, | 4112,88 | 4238,88 |   |   |   |   |   |
-| 26 | ,, | ,, | ,, | ,, | ,, | 2709,83 | 2794,78 | ,, | ,, | ,, | 4211,04 | 4342,24 |   |   |   |   |   |
-| 27 | ,, | ,, | ,, | ,, | ,, | 2744,76 | 2847,63 | ,, | ,, | ,, | 4299,30 | 4445,13 |   |   |   |   |   |
-| 28 | ,, | ,, | ,, | ,, | ,, | ,, | 2901,90 | ,, | ,, | ,, | 4387,54 | 4548,47 | 4644,74 |   |   |   |   |
-| 29 | ,, | ,, | 2131,72 | ,, | ,, | ,, | 2956,65 | ,, | ,, | ,, | 4475,33 | 4650,41 | 4895,82 |   |   |   |   |
-| 30 | ,, | ,, | ,, | ,, | ,, | ,, | 3010,92 | ,, | ,, | ,, | 4562,16 | 4753,29 | 5012,38 |   |   |   |   |
-| 31 | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | 4603,22 | 4856,18 | 5129,43 |   |   |   |   |
-| 32 | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | 4643,81 | 4931,68 | 5238,91 |   |   |   |   |
-| 33 | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | 4756,60 | 5025,60 | 5410,69 | 5597,58 | 6427,71 |   |   |
-| 34 | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | 5116,69 | 5584,84 | 5870,83 | 6606,10 |   |   |
-| 35 | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | 5242,68 | 5819,38 | 6258,75 | 6925,59 |   |   |
-| 36 | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | 5435,24 | 6061,96 | 6449,88 | 7251,70 |   |   |
-| 37 | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | 6310,67 | 6806,20 | 7584,41 |   |   |
-| 38 | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | 6562,68 | 7172,41 | 7926,56 | 8457,10 | 9014,91 |
+| 0 | 850,99 | 886,77 | 1222,35 | 1250,87 | 1289,55 |   |   |   |   |   |   |   |   |   |   |   |   |
+| 1 | 954,96 | 995,56 | 1396,88 | 1429,27 | 1473,77 |   |   |   |   |   |   |   |   |   |   |   |   |
+| 2 | 1071,96 | 1116,93 | 1571,44 | 1608,18 | 1657,98 |   |   |   |   |   |   |   |   |   |   |   |   |
+| 3 | 1202,03 | 1252,79 | 1745,98 | 1786,61 | 1842,21 | 1922,96 | 1996,46 |   |   |   |   |   |   |   |   |   |   |
+| 4 | 1299,70 | 1358,68 | 1808,84 | 1830,12 | 1884,28 | 1959,71 | 2032,72 |   |   |   |   |   |   |   |   |   |   |
+| 5 | 1493,59 | 1536,62 | 1841,25 | 1875,09 | 1922,96 | 1998,87 | 2068,99 |   |   |   |   |   |   |   |   |   |   |
+| 6 | 1510,51 | 1559,83 | 1877,01 | 1907,97 | 1959,71 | 2035,62 | 2078,16 | 2125,06 | 2222,74 |   |   |   |   |   |   |   |   |
+| 7 | 1528,41 | 1584,00 | 1904,11 | 1941,34 | 1998,87 | 2071,89 | 2114,90 | 2227,58 | 2325,25 |   |   |   |   |   |   |   |   |
+| 8 | 1546,30 | 1608,18 | 1930,21 | 1973,25 | 2035,62 | 2104,76 | 2153,11 | 2330,56 | 2427,27 |   |   |   |   |   |   |   |   |
+| 9 | 1564,19 | 1631,88 | 1956,32 | 2007,10 | 2071,89 | 2141,02 | 2191,30 | 2405,02 | 2511,89 |   |   |   |   |   |   |   |   |
+| 10 | 1582,08 | 1656,54 | 1983,41 | 2038,03 | 2104,76 | 2178,73 | 2228,54 | 2485,78 | 2591,18 |   |   |   |   |   |   |   |   |
+| 11 | 1599,97 | 1681,19 | 2010,95 | 2068,99 | 2141,02 | 2217,42 | 2267,71 | 2567,97 | 2666,13 |   |   |   |   |   |   |   |   |
+| 12 | ,, | ,, | ,, | 2101,85 | 2178,73 | 2251,26 | 2305,90 | 2638,57 | 2744,94 |   |   |   |   |   |   |   |   |
+| 13 | ,, | ,, | ,, | 2132,80 | 2217,42 | 2284,63 | 2345,06 | 2716,41 | 2816,99 | 2991,05 |   |   |   |   |   |   |   |
+| 14 | ,, | ,, | ,, | 2166,65 | 2251,26 | 2305,90 | 2383,76 | 2789,91 | 2882,75 | 3061,16 |   |   |   |   |   |   |   |
+| 15 | ,, | ,, | ,, | 2199,54 | 2284,63 | 2344,11 | 2422,92 | 2855,18 | 2952,86 | 3134,18 |   |   |   |   |   |   |   |
+| 16 | ,, | ,, | ,, | 2231,45 | 2321,38 | 2381,81 | 2465,47 | ,, | 3008,46 | 3184,94 |   |   |   |   |   |   |   |
+| 17 | ,, | ,, | 2053,99 | 2267,71 | 2357,16 | 2420,02 | 2508,01 | ,, | 3061,65 | 3231,36 |   |   |   |   |   |   |   |
+| 18 | ,, | ,, | ,, | ,, | 2392,45 | 2462,09 | 2550,09 | ,, | 3117,25 | 3277,29 | 3469,24 |   |   |   |   |   |   |
+| 19 | ,, | ,, | 2096,54 | ,, | 2429,69 | 2506,08 | 2586,35 | ,, | 3166,57 | 3328,06 | 3580,46 |   |   |   |   |   |   |
+| 20 | ,, | ,, | ,, | ,, | 2470,29 | 2545,25 | 2622,12 | ,, | 3244,42 | 3374,98 | 3689,74 | 3792,73 |   |   |   |   |   |
+| 21 | ,, | ,, | 2140,06 | ,, | 2506,08 | 2582,95 | 2661,30 | ,, | 3313,56 | 3447,50 | 3795,14 | 3925,70 |   |   |   |   |   |
+| 22 | ,, | ,, | ,, | ,, | 2545,25 | 2620,18 | 2699,49 | ,, | 3388,03 | 3527,76 | 3901,04 | 4027,24 |   |   |   |   |   |
+| 23 | ,, | ,, | ,, | ,, | 2582,95 | 2659,35 | 2738,18 | ,, | ,, | 3604,64 | 4002,10 | 4135,06 |   |   |   |   |   |
+| 24 | ,, | ,, | ,, | ,, | ,, | 2699,00 | 2775,41 | ,, | ,, | 3680,56 | 4108,95 | 4240,95 |   |   |   |   |   |
+| 25 | ,, | ,, | ,, | ,, | ,, | 2738,18 | 2810,21 | ,, | ,, | ,, | 4213,87 | 4342,97 |   |   |   |   |   |
+| 26 | ,, | ,, | ,, | ,, | ,, | 2776,37 | 2863,41 | ,, | ,, | ,, | 4314,44 | 4448,86 |   |   |   |   |   |
+| 27 | ,, | ,, | ,, | ,, | ,, | 2812,15 | 2917,56 | ,, | ,, | ,, | 4404,86 | 4554,28 |   |   |   |   |   |
+| 28 | ,, | ,, | ,, | ,, | ,, | ,, | 2973,15 | ,, | ,, | ,, | 4495,28 | 4660,16 | 4758,79 |   |   |   |   |
+| 29 | ,, | ,, | 2184,07 | ,, | ,, | ,, | 3029,25 | ,, | ,, | ,, | 4585,22 | 4764,60 | 5016,04 |   |   |   |   |
+| 30 | ,, | ,, | ,, | ,, | ,, | ,, | 3084,85 | ,, | ,, | ,, | 4674,19 | 4870,00 | 5135,46 |   |   |   |   |
+| 31 | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | 4716,25 | 4975,43 | 5255,39 |   |   |   |   |
+| 32 | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | 4757,84 | 5052,78 | 5367,56 |   |   |   |   |
+| 33 | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | 4873,39 | 5149,00 | 5543,54 | 5735,03 | 6585,54 |   |   |
+| 34 | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | 5242,33 | 5721,98 | 6014,99 | 6768,31 |   |   |
+| 35 | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | 5371,42 | 5962,28 | 6412,43 | 7095,65 |   |   |
+| 36 | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | 5568,71 | 6210,81 | 6608,26 | 7429,77 |   |   |
+| 37 | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | 6465,62 | 6973,33 | 7770,65 |   |   |
+| 38 | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | 6723,83 | 7348,53 | 8121,19 | 8457,10 | 9014,91 |
 
 ### Salarisschalen voor de militairen van de Koninklijke marine met ingang van 1 november 2002 (maandbedragen in euro's)
 
@@ -686,49 +710,49 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ** generaal-majoor met de functie van commandant van het wapen der Koninklijke marechaussee.
 
-## Bijlage B. (IBM, [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=2&artikel=4&z=2007-01-01&g=2007-03-01)) Salarisschalen voor de militairen van de Koninklijke Landmacht, de Koninklijke Luchtmacht en de Koninklijke Marechaussee met ingang van 1 januari 2006 (maandbedragen in euro's)
+## Bijlage B. (IBM, [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=2&artikel=4&z=2007-07-04&g=2007-07-04)) Salarisschalen voor de militairen van de Koninklijke landmacht, de Koninklijke luchtmacht en de Koninklijke marechaussee met ingang van 1 januari 2007 (maandbedragen in euro's)
 
-| salarisnr. | sld3 mar4 | sld2 mar3 | sld1 | mar2 | kpl/kpl1 mar1 | sgt | sgt1 | sm | aoo | tlnt | elnt | kap | maj | lkol | kol | bgen | genm | lgen | gen |
+| salarisnr. | sld3 mar4 | sld2 mar3 | sld1 | mar2 | kpl/kpl1 mar1 | sgt | sgt1 | sm | aoo | tlnt | elnt | kap | maj | lkol | kol | bgen | genm | lgen genm | gen lgen |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 0 | 830,60 | 865,52 | 1060,43 | 1060,43 | 1122,72 | 1187,38 |   | 1234,57 | 1281,77 |   |   |   |   |   |   |   |   |   |   |
-| 1 | 932,07 | 971,70 | 1211,92 | 1211,92 | 1283,18 | 1356,80 |   | 1410,60 | 1464,87 |   |   |   |   |   |   |   |   |   |   |
-| 2 | 1046,27 | 1090,16 | 1362,94 | 1362,94 | 1443,63 | 1526,70 |   | 1587,10 | 1647,98 |   |   |   |   |   |   |   |   |   |   |
-| 3 | 1173,22 | 1222,77 | 1514,43 | 1514,43 | 1604,10 | 1696,13 | 1719,72 | 1763,61 | 1831,10 |   |   |   |   |   |   |   |   |   |   |
-| 4 | 1268,55 | 1326,12 | 1553,13 | 1553,13 | 1651,76 | 1750,39 | 1775,40 | 1831,10 | 1904,72 |   |   |   |   |   |   |   |   |   |   |
-| 5 | 1457,80 | 1499,79 | 1593,24 | 1593,24 | 1680,55 | 1804,67 | 1831,10 | 1876,87 | 1934,92 |   |   |   |   |   |   |   |   |   |   |
-| 6 | 1474,31 | 1522,45 | 1635,71 | 1635,71 | 1708,87 | 1832,03 | 1876,87 | 1934,92 | 1962,76 | 2037,80 | 2105,76 |   |   |   |   |   |   |   |   |
-| 7 | 1491,78 | 1546,04 | 1667,81 | 1667,81 | 1735,76 | 1858,47 | 1904,72 | 1962,76 | 1992,96 | 2141,62 | 2210,53 |   |   |   |   |   |   |   |   |
-| 8 | 1509,24 | 1569,64 | 1699,90 | 1699,90 | 1764,55 | 1885,36 | 1934,92 | 1992,96 | 2022,23 | 2243,09 | 2316,71 |   |   |   |   |   |   |   |   |
-| 9 | 1526,70 | 1592,77 | 1730,57 | 1730,57 | 1790,51 | 1911,79 | 1962,76 | 2022,23 | 2114,73 | 2316,71 | 2389,86 |   |   |   |   |   |   |   |   |
-| 10 | 1544,16 | 1616,84 | 1762,66 | 1762,66 | 1820,71 | 1939,16 | 1992,96 | 2053,38 | 2146,82 | 2389,86 | 2472,44 |   |   |   |   |   |   |   |   |
-| 11 | 1561,62 | 1640,90 | 1792,40 | 1792,40 | 1847,61 | 1964,65 | 2022,23 | 2082,63 | 2177,97 | 2472,44 | 2545,13 |   |   |   |   |   |   |   |   |
-| 12 | ,, | ,, | 1826,38 | 1826,38 | 1873,09 | 1989,19 | 2053,38 | 2114,73 | 2213,36 | 2545,13 | 2618,27 |   |   |   |   |   |   |   |   |
-| 13 | ,, | ,, | 1855,63 | 1855,63 | 1899,05 | 2019,40 | 2082,63 | 2146,82 | 2247,81 | 2618,27 | 2692,84 | 2847,17 |   |   |   |   |   |   |   |
-| 14 | ,, | ,, | ,, | ,, | 1924,54 | 2051,48 | 2114,73 | 2177,97 | 2283,67 | 2692,84 | 2760,33 | 2908,04 |   |   |   |   |   |   |   |
-| 15 | ,, | ,, | ,, | ,, | 1950,97 | 2081,68 | 2146,82 | 2213,36 | 2319,54 | 2760,33 | 2821,21 | 2969,87 |   |   |   |   |   |   |   |
-| 16 | ,, | ,, | ,, | ,, | ,, | 2114,73 | 2177,97 | 2247,81 | 2355,41 | ,, | 2886,80 | 3033,58 |   |   |   |   |   |   |   |
-| 17 | ,, | ,, | ,, | ,, | ,, | 2146,82 | 2213,36 | 2283,67 | 2391,75 | ,, | 2950,51 | 3093,04 |   |   |   |   |   |   |   |
-| 18 | ,, | ,, | ,, | ,, | ,, | 2177,97 | 2247,81 | 2319,54 | 2437,52 | ,, | 3016,11 | 3151,55 |   |   |   |   |   |   |   |
-| 19 | ,, | ,, | ,, | ,, | ,, | 2213,36 | 2283,67 | 2355,41 | 2473,39 | ,, | 3078,88 | 3208,19 | 3389,41 |   |   |   |   |   |   |
-| 20 | ,, | ,, | ,, | ,, | ,, | ,, | 2319,54 | 2391,75 | 2511,62 | ,, | 3136,93 | 3264,82 | 3497,01 | 3637,65 |   |   |   |   |   |
-| 21 | ,, | ,, | ,, | ,, | 1992,96 | ,, | 2355,41 | 2437,52 | 2543,72 | ,, | 3186,96 | 3327,12 | 3602,73 | 3739,11 |   |   |   |   |   |
-| 22 | ,, | ,, | ,, | ,, | ,, | ,, | 2391,75 | 2473,39 | 2578,16 | ,, | 3248,30 | 3388,47 | 3705,14 | 3842,47 |   |   |   |   |   |
-| 23 | ,, | ,, | ,, | ,, | 2034,50 | ,, | ,, | 2511,62 | 2614,03 | ,, | ,, | 3455,95 | 3808,96 | 3941,57 |   |   |   |   |   |
-| 24 | ,, | ,, | ,, | ,, | ,, | ,, | ,, | 2543,72 | 2652,25 | ,, | ,, | 3520,14 | 3909,01 | 4046,82 |   |   |   |   |   |
-| 25 | ,, | ,, | ,, | ,, | 2076,97 | ,, | ,, | 2578,16 | 2687,65 | ,, | ,, | ,, | 4014,72 | 4150,16 |   |   |   |   |   |
-| 26 | ,, | ,, | ,, | ,, | ,, | ,, | ,, | 2614,03 | 2744,76 | ,, | ,, | ,, | 4118,55 | 4249,74 |   |   |   |   |   |
-| 27 | ,, | ,, | ,, | ,, | ,, | ,, | ,, | 2652,25 | 2798,56 | ,, | ,, | ,, | 4218,59 | 4353,10 |   |   |   |   |   |
-| 28 | ,, | ,, | ,, | ,, | ,, | ,, | ,, | 2687,65 | 2852,82 | ,, | ,, | ,, | 4322,90 | 4455,97 | 4570,65 |   |   |   |   |
-| 29 | ,, | ,, | ,, | ,, | 2119,92 | ,, | ,, | ,, | 2908,98 | ,, | ,, | ,, | 4404,54 | 4575,84 | 4839,66 |   |   |   |   |
-| 30 | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | 2964,20 | ,, | ,, | ,, | 4549,90 | 4697,13 | 4971,32 |   |   |   |   |
-| 31 | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | 4603,22 | 4817,95 | 5102,52 |   |   |   |   |
-| 32 | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | 4643,81 | 4931,68 | 5238,91 |   |   |   |   |
-| 33 | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | 4756,60 | 5025,60 | 5410,69 | 5597,58 | 6427,71 |   |   |
-| 34 | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | 5116,69 | 5584,84 | 5870,83 | 6606,10 |   |   |
-| 35 | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | 5242,68 | 5819,38 | 6258,75 | 6925,59 |   |   |
-| 36 | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | 5435,24 | 6061,96 | 6449,88 | 7251,70 |   |   |
-| 37 | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | 6310,67 | 6806,20 | 7584,41 |   |   |
-| 38 | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | 6562,68 | 7172,41 | 7926,56 | 8457,10 | 9014,91 |
+| 0 | 850,99 | 886,77 | 1086,47 | 1086,47 | 1150,29 | 1216,53 |   | 1264,88 | 1313,24 |   |   |   |   |   |   |   |   |   |   |
+| 1 | 954,96 | 995,56 | 1241,68 | 1241,68 | 1314,69 | 1390,12 |   | 1445,23 | 1500,84 |   |   |   |   |   |   |   |   |   |   |
+| 2 | 1071,96 | 1116,93 | 1396,40 | 1396,40 | 1479,08 | 1564,19 |   | 1626,08 | 1688,45 |   |   |   |   |   |   |   |   |   |   |
+| 3 | 1202,03 | 1252,79 | 1551,62 | 1551,62 | 1643,49 | 1737,77 | 1761,94 | 1806,92 | 1876,06 |   |   |   |   |   |   |   |   |   |   |
+| 4 | 1299,70 | 1358,68 | 1591,27 | 1591,27 | 1692,32 | 1793,37 | 1819,00 | 1876,06 | 1951,49 |   |   |   |   |   |   |   |   |   |   |
+| 5 | 1493,59 | 1536,62 | 1632,36 | 1632,36 | 1721,81 | 1848,98 | 1876,06 | 1922,96 | 1982,43 |   |   |   |   |   |   |   |   |   |   |
+| 6 | 1510,51 | 1559,83 | 1675,88 | 1675,88 | 1750,84 | 1877,01 | 1922,96 | 1982,43 | 2010,95 | 2087,84 | 2157,47 |   |   |   |   |   |   |   |   |
+| 7 | 1528,41 | 1584,00 | 1708,76 | 1708,76 | 1778,38 | 1904,11 | 1951,49 | 2010,95 | 2041,90 | 2194,21 | 2264,81 |   |   |   |   |   |   |   |   |
+| 8 | 1546,30 | 1608,18 | 1741,64 | 1741,64 | 1807,88 | 1931,66 | 1982,43 | 2041,90 | 2071,89 | 2298,17 | 2373,60 |   |   |   |   |   |   |   |   |
+| 9 | 1564,19 | 1631,88 | 1773,06 | 1773,06 | 1834,47 | 1958,73 | 2010,95 | 2071,89 | 2166,65 | 2373,60 | 2448,55 |   |   |   |   |   |   |   |   |
+| 10 | 1582,08 | 1656,54 | 1805,94 | 1805,94 | 1865,42 | 1986,77 | 2041,90 | 2103,80 | 2199,54 | 2448,55 | 2533,15 |   |   |   |   |   |   |   |   |
+| 11 | 1599,97 | 1681,19 | 1836,41 | 1836,41 | 1892,98 | 2012,89 | 2071,89 | 2133,77 | 2231,45 | 2533,15 | 2607,62 |   |   |   |   |   |   |   |   |
+| 12 | ,, | ,, | 1871,23 | 1871,23 | 1919,09 | 2038,03 | 2103,80 | 2166,65 | 2267,71 | 2607,62 | 2682,56 |   |   |   |   |   |   |   |   |
+| 13 | ,, | ,, | 1901,19 | 1901,19 | 1945,68 | 2068,99 | 2133,77 | 2199,54 | 2303,00 | 2682,56 | 2758,96 | 2917,08 |   |   |   |   |   |   |   |
+| 14 | ,, | ,, | ,, | ,, | 1971,80 | 2101,85 | 2166,65 | 2231,45 | 2339,74 | 2758,96 | 2828,11 | 2979,45 |   |   |   |   |   |   |   |
+| 15 | ,, | ,, | ,, | ,, | 1998,87 | 2132,80 | 2199,54 | 2267,71 | 2376,50 | 2828,11 | 2890,49 | 3042,80 |   |   |   |   |   |   |   |
+| 16 | ,, | ,, | ,, | ,, | ,, | 2166,65 | 2231,45 | 2303,00 | 2413,25 | ,, | 2957,69 | 3108,07 |   |   |   |   |   |   |   |
+| 17 | ,, | ,, | ,, | ,, | ,, | 2199,54 | 2267,71 | 2339,74 | 2450,48 | ,, | 3022,96 | 3168,99 |   |   |   |   |   |   |   |
+| 18 | ,, | ,, | ,, | ,, | ,, | 2231,45 | 2303,00 | 2376,50 | 2497,38 | ,, | 3090,17 | 3228,93 |   |   |   |   |   |   |   |
+| 19 | ,, | ,, | ,, | ,, | ,, | 2267,71 | 2339,74 | 2413,25 | 2534,12 | ,, | 3154,49 | 3286,97 | 3472,64 |   |   |   |   |   |   |
+| 20 | ,, | ,, | ,, | ,, | ,, | ,, | 2376,50 | 2450,48 | 2573,30 | ,, | 3213,96 | 3344,99 | 3582,88 | 3726,97 |   |   |   |   |   |
+| 21 | ,, | ,, | ,, | ,, | 2041,90 | ,, | 2413,25 | 2497,38 | 2606,18 | ,, | 3265,21 | 3408,82 | 3691,20 | 3830,92 |   |   |   |   |   |
+| 22 | ,, | ,, | ,, | ,, | ,, | ,, | 2450,48 | 2534,12 | 2641,47 | ,, | 3328,06 | 3471,68 | 3796,12 | 3936,82 |   |   |   |   |   |
+| 23 | ,, | ,, | ,, | ,, | 2084,46 | ,, | ,, | 2573,30 | 2678,22 | ,, | ,, | 3540,81 | 3902,49 | 4038,35 |   |   |   |   |   |
+| 24 | ,, | ,, | ,, | ,, | ,, | ,, | ,, | 2606,18 | 2717,38 | ,, | ,, | 3606,57 | 4005,00 | 4146,19 |   |   |   |   |   |
+| 25 | ,, | ,, | ,, | ,, | 2127,97 | ,, | ,, | 2641,47 | 2753,65 | ,, | ,, | ,, | 4113,30 | 4252,06 |   |   |   |   |   |
+| 26 | ,, | ,, | ,, | ,, | ,, | ,, | ,, | 2678,22 | 2812,15 | ,, | ,, | ,, | 4219,68 | 4354,09 |   |   |   |   |   |
+| 27 | ,, | ,, | ,, | ,, | ,, | ,, | ,, | 2717,38 | 2867,28 | ,, | ,, | ,, | 4322,18 | 4459,99 |   |   |   |   |   |
+| 28 | ,, | ,, | ,, | ,, | ,, | ,, | ,, | 2753,65 | 2922,87 | ,, | ,, | ,, | 4429,05 | 4565,39 | 4682,88 |   |   |   |   |
+| 29 | ,, | ,, | ,, | ,, | 2171,98 | ,, | ,, | ,, | 2980,41 | ,, | ,, | ,, | 4512,69 | 4688,20 | 4958,50 |   |   |   |   |
+| 30 | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | 3036,98 | ,, | ,, | ,, | 4661,63 | 4812,47 | 5093,39 |   |   |   |   |
+| 31 | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | 4716,25 | 4936,25 | 5227,82 |   |   |   |   |
+| 32 | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | 4757,84 | 5052,78 | 5367,56 |   |   |   |   |
+| 33 | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | 4873,39 | 5149,00 | 5543,54 | 5735,03 | 6585,54 |   |   |
+| 34 | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | 5242,33 | 5721,98 | 6014,99 | 6768,31 |   |   |
+| 35 | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | 5371,42 | 5962,28 | 6412,43 | 7095,65 |   |   |
+| 36 | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | 5568,71 | 6210,81 | 6608,26 | 7429,77 |   |   |
+| 37 | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | 6465,62 | 6973,33 | 7770,65 |   |   |
+| 38 | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | ,, | 6723,83 | 7348,53 | 8121,19 | 8457,10 | 9014,91 |
 
 ### Maandbedragen met ingang van 1 november 2002 (in euro's)
 
@@ -768,7 +792,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 6. Bijzondere bepalingen militairen met de rang van kapitein ter zee/kolonel of hoger
 
-1. De bevoegdheid tot het toekennen van aanspraken op grond van de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=2&artikel=7&z=2007-01-01&g=2007-03-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=2&artikel=8&z=2007-01-01&g=2007-03-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=3&artikel=12&z=2007-01-01&g=2007-03-01), [12a](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=3&artikel=12a&z=2007-01-01&g=2007-03-01) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=3&artikel=13&z=2007-01-01&g=2007-03-01) aan militairen met de rang van kapitein ter zee/kolonel en hoger berust bij de Secretaris-Generaal.
+1. De bevoegdheid tot het toekennen van aanspraken op grond van de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=2&artikel=7&z=2007-07-04&g=2007-07-04), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=2&artikel=8&z=2007-07-04&g=2007-07-04), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=3&artikel=12&z=2007-07-04&g=2007-07-04), [12a](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=3&artikel=12a&z=2007-07-04&g=2007-07-04) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&hoofdstuk=3&artikel=13&z=2007-07-04&g=2007-07-04) aan militairen met de rang van kapitein ter zee/kolonel en hoger berust bij de Secretaris-Generaal.
 
 2. De militair respectievelijk de gewezen militair met de rang van vice-admiraal, luitenant-generaal, luitenant-admiraal of generaal heeft aanspraak op een eindejaarsuitkering ten bedrage van 1,6% van de door hem genoten bezoldiging respectievelijk de door hem genoten uitkering op grond van de [Uitkeringswet gewezen militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0002540) of het door hem genoten wachtgeld of uitkering als bedoeld in [artikel 18, zesde lid, van het Besluit bovenwettelijke uitkeringen bij werkloosheid voor de sector Defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0010510&artikel=18) na toepassing van de bij of krachtens die wet respectievelijk die regeling geldende vermindering wegens inkomsten uit of in verband met arbeid of bedrijf.
 
