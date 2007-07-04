@@ -4,7 +4,7 @@ identifier: "BWBV0001368"
 country: "nl"
 rank: "verdrag"
 publication_date: "2007-07-04"
-last_updated: "2004-12-01"
+last_updated: "2007-07-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0001368"
 soort: "verdrag"
@@ -54,7 +54,7 @@ Zijn het volgende overeengekomen:
 
 ##### Artikel 1
 
-De Verdragsluitende Partijen stellen Voorschriften vast voor periodieke technische keuringen van motorvoertuigen die op hun grondgebied zijn geregistreerd of in gebruik worden genomen en erkennen de overeenkomstig deze Voorschriften uitgevoerde keuringen wederzijds. De Voorschriften worden vastgesteld door tussenkomst van een Commissie van beheer bestaande uit alle Verdragsluitende Partijen in overeenstemming met het in Aanhangsel 1 opgenomen Voorschrift van orde en ingevolge de hiernavolgende leden en artikelen.
+De Verdragsluitende Partijen stellen Voorschriften vast voor periodieke technische keuringen van motorvoertuigen die op hun grondgebied zijn geregistreerd en erkennen de overeenkomstig deze Voorschriften uitgevoerde keuringen wederzijds. De Voorschriften worden vastgesteld door tussenkomst van een Commissie van beheer bestaande uit alle Verdragsluitende Partijen in overeenstemming met het in Aanhangsel 1 opgenomen Voorschrift van orde en ingevolge de hiernavolgende leden en artikelen.
 
 Voor de toepassing van dit Verdrag:
 
@@ -64,7 +64,7 @@ wordt onder de term „technische keuring" verstaan de keuring van alle uitrusti
 
 ##### Artikel 2
 
-1. Nadat een Voorschrift is opgesteld in overeenstemming met de in Aanhangsel 1 opgenomen procedure, wordt de tekst hiervan door de Commissie van beheer medegedeeld aan de Secretaris-Generaal van de Verenigde Naties, hierna te noemen „Secretaris-Generaal". De Secretaris-Generaal stelt zo spoedig mogelijk daarna de Verdragsluitende Partijen van dit Voorschrift in kennis.
+1. Nadat een Voorschrift is opgesteld in overeenstemming met de in Aanhangsel 1 opgenomen procedure, wordt de tekst hiervan door de Commissie van beheer medegedeeld aan de Secretaris-Generaal van de Verenigde Naties, hierna te noemen „Secretaris-Generaal”. De Secretaris-Generaal stelt zo spoedig mogelijk daarna de Verdragsluitende Partijen van dit Voorschrift in kennis.
 
 Het Voorschrift wordt geacht te zijn aangenomen, tenzij binnen een termijn van zes maanden na kennisgeving door de Secretaris-Generaal meer dan een derde van de Verdragsluitende Partijen die op het tijdstip van de kennisgeving Verdragsluitende Partij waren, de Secretaris-Generaal hebben medegedeeld dat zij het met het Voorschrift niet eens zijn.
 
@@ -76,9 +76,11 @@ Het Voorschrift omvat:
 
 - c. de testmethoden door middel waarvan dient te worden aangetoond dat de prestaties voldoen aan de voorschriften;
 
-- d. de voorwaarden voor toekenning van keuringscertificaten en de wederzijdse erkenning daarvan;
+- d. de voorwaarden voor toekenning van keuringscertificaten;
 
-- e. de datum of data waarop het Voorschrift in werking treedt. Het Voorschrift kan, waar nodig, verwijzen naar de door de bevoegde autoriteiten erkende testcentra waar de keuringen van motorvoertuigen kunnen plaatsvinden.
+- e. de datum of data waarop het Voorschrift in werking treedt.
+
+Het Voorschrift kan, waar nodig, verwijzen naar de door de bevoegde autoriteiten erkende testcentra waar de keuringen van motorvoertuigen kunnen plaatsvinden.
 
 2. Wanneer een Voorschrift is aangenomen, stelt de Secretaris-Generaal alle Verdragsluitende Partijen zo spoedig mogelijk hiervan in kennis, waarbij hij aangeeft welke Verdragsluitende Partijen bezwaar hebben gemaakt en ten aanzien van welke Verdragsluitende Partijen het Voorschrift niet in werking treedt.
 
@@ -90,7 +92,7 @@ Het Voorschrift omvat:
 
 6. Elke Verdragsluitende Partij die een Voorschrift niet toepast, kan te allen tijde de Secretaris-Generaal ervan in kennis stellen dat zij dit Voorschrift voortaan wenst toe te passen; het Voorschrift treedt ten aanzien van deze Partij in werking op de zestigste dag na deze kennisgeving. De Secretaris-Generaal geeft aan alle Verdragsluitende Partijen kennis van iedere inwerkingtreding van een Voorschrift ten aanzien van een nieuwe Verdragsluitende Partij, welke zich voordoet ingevolge dit lid.
 
-7. De Verdragsluitende Partijen ten aanzien van wie een Voorschrift van kracht is, worden in dit Verdrag verder genoemd „Verdragsluitende Partijen die een Voorschrift toepassen".
+7. De Verdragsluitende Partijen ten aanzien van wie een Voorschrift van kracht is, worden in dit Verdrag verder genoemd „Verdragsluitende Partijen die een Voorschrift toepassen”.
 
 8. De Voorschriften gehecht aan dit Verdrag als Aanhangsels vormen een integrerend deel daarvan.
 
@@ -190,7 +192,7 @@ Behalve van de in de artikelen 2, 3 en 5 van dit Verdrag bedoelde kennisgeving g
 
 ##### Artikel 12
 
-Organen of instellingen die door een Verdragsluitende Partij worden aangewezen en onder direct toezicht staan van die Verdragsluitende Partij, kunnen in overeenstemming met dit Verdrag namens een andere Verdragsluitende Partij periodieke technische keuringen uitvoeren, mits zowel de Verdragsluitende Partij waar het voertuig geregistreerd is en de Verdragsluitende Partij waar de keuring dient plaats te vinden daarmee akkoord gaan.
+Organen of instellingen die door een Verdragsluitende Partij worden aangewezen, kunnen in overeenstemming met dit Verdrag namens een andere Verdragsluitende Partij periodieke technische keuringen uitvoeren, mits zowel de Verdragsluitende Partij waar het voertuig geregistreerd is als de Verdragsluitende Partij waar de keuring dient plaats te vinden daarmee akkoord gaan. Het op grond van artikel 12 afgegeven certificaat dient een duidelijke verwijzing te bevatten naar het akkoord tussen de betrokken Verdragsluitende Partijen.
 
 ##### Artikel 13
 
@@ -234,7 +236,7 @@ De rubrieken van het certificaat worden ingevuld in de officiële taal van de Ve
 
 ##### 4
 
-De periodieke keuringsverslagen die worden gebruikt door de Verdragsluitende Partijen bij het Verdrag, kunnen als alternatieve versie dienen. Een model hiervan wordt ter informatie van de Verdragsluitende Partijen gezonden aan de Secretaris-Generaal van de Verenigde Naties.
+De verslagen van periodieke technische keuringen, die worden gebruikt in de landen van de Verdragsluitende Partijen bij het Verdrag, kunnen als alternatieve versie dienen. Een model hiervan wordt ter informatie van de Verdragsluitende Partijen gezonden aan de Secretaris-Generaal van de Verenigde Naties.
 
 ##### 5
 
