@@ -4,7 +4,7 @@ identifier: "BWBR0004529"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2007-07-06"
-last_updated: "2006-07-01"
+last_updated: "2007-07-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004529"
 soort: "ministeriele-regeling"
@@ -79,13 +79,13 @@ Besluit:
 
 ##### Artikel 3
 
-1. Onverminderd het bepaalde in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004529&paragraaf=1&artikel=1&z=2006-07-01&g=2006-07-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0004529&paragraaf=1&artikel=2&z=2006-07-01&g=2006-07-01), is ten behoeve van de controle op de gezamenlijke radioactiviteit van cesium 134 en 137 van groenten en fruit het bepaalde in de volgende leden van toepassing.
+1. Onverminderd het bepaalde in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004529&paragraaf=1&artikel=1&z=2007-07-06&g=2007-07-06) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0004529&paragraaf=1&artikel=2&z=2007-07-06&g=2007-07-06), is ten behoeve van de controle op de gezamenlijke radioactiviteit van cesium 134 en 137 van groenten en fruit het bepaalde in de volgende leden van toepassing.
 
 2. Van elke te onderzoeken partij moet een apart monster genomen worden.
 
 3. Bij het nemen van het monster moeten voorzorgsmaatregelen genomen worden om elke verandering te vermijden die de gezamenlijke radioactiviteit kan beïnvloeden, die een ongunstige invloed kan hebben op de analyse of die tot gevolg kan hebben dat het monster niet meer representatief is.
 
-4. Ten behoeve van het samenstellen van een monster worden, zoveel mogelijk op verschillende plaatsen, grepen uit de te bemonsteren partij genomen. Indien van deze werkwijze wordt afgeweken, moet zulks vermeld worden in de in [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004529&paragraaf=1&artikel=2&z=2006-07-01&g=2006-07-01), bedoelde aantekening. Volledige of grotendeels bedorven produkten mogen niet voor bemonstering worden gebruikt.
+4. Ten behoeve van het samenstellen van een monster worden, zoveel mogelijk op verschillende plaatsen, grepen uit de te bemonsteren partij genomen. Indien van deze werkwijze wordt afgeweken, moet zulks vermeld worden in de in [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004529&paragraaf=1&artikel=2&z=2007-07-06&g=2007-07-06), bedoelde aantekening. Volledige of grotendeels bedorven produkten mogen niet voor bemonstering worden gebruikt.
 
 5. Het minimum aantal te nemen grepen wordt in onderstaande tabel 1 aangegeven. De grepen moeten zoveel mogelijk van gelijke grootte zijn.
 
@@ -125,19 +125,13 @@ Vervallen
 
 ##### Artikel 5
 
-In afwijking van het bepaalde in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004529&paragraaf=1&artikel=1&z=2006-07-01&g=2006-07-01), is ten behoeve van het chemisch onderzoek van verduurzaamde gedehydrateerde melkprodukten, het bepaalde in de bijlage bij de Eerste Richtlijn van de Commissie van de Europese Gemeenschappen tot vaststelling van communautaire methoden voor chemisch onderzoek met het oog op de controle op verduurzaamde melkprodukten (87/524/EEG) (PbEG L 306) van toepassing.
+In afwijking van het bepaalde in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004529&paragraaf=1&artikel=1&z=2007-07-06&g=2007-07-06), is ten behoeve van het chemisch onderzoek van verduurzaamde gedehydrateerde melkprodukten, het bepaalde in de bijlage bij de Eerste Richtlijn van de Commissie van de Europese Gemeenschappen tot vaststelling van communautaire methoden voor chemisch onderzoek met het oog op de controle op verduurzaamde melkprodukten (87/524/EEG) (PbEG L 306) van toepassing.
 
-#### Paragraaf 5. Monsterneming ten behoeve van de controle van het nitraatgehalte van groenten
+#### Paragraaf 4. Monsterneming ten behoeve van de controle van de temperatuur van diepgevroren levensmiddelen
 
 ##### Artikel 5a
 
-1. In afwijking van het bepaalde in artikel I, en onverminderd het bepaalde in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004529&paragraaf=1&artikel=2&z=2006-07-01&g=2006-07-01), is ten behoeve van de controle op het nitraatgehalte van groenten het bepaalde in de volgende leden van toepassing.
-
-2. Ten behoeve van het samenstellen van een monster worden, zo veel mogelijk op verschillende plaatsen, ten minste 10 grepen uit de te bemonsteren partij groenten genomen. Indien de partij bestaat uit verpakte consumenten-eenheden worden, zo veel mogelijk op verschillende plaatsen, ten minste 10 eenheden genomen. Uit ieder van de eenheden wordt vervolgens een greep genomen. De grepen moeten zo veel mogelijk van gelijke grootte zijn.
-
-3. Een verzamelmonster wordt verkregen door samenvoeging van de grepen.
-
-4. Het gewicht van het verzamelmonster mag niet worden verminderd.
+Vervallen
 
 #### Paragraaf 6. Monsterneming ten behoeve van de controle van de temperatuur van diepgevroren levensmiddelen
 
@@ -147,7 +141,7 @@ In deze paragraaf wordt verstaan onder:
 
 ##### Artikel 5c
 
-1. In afwijking van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004529&paragraaf=1&artikel=1&z=2006-07-01&g=2006-07-01) en onverminderd [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004529&paragraaf=1&artikel=2&z=2006-07-01&g=2006-07-01), zijn ten behoeve van de officiële controle van de temperatuur van diepgevroren levensmiddelen de volgende leden van toepassing.
+1. In afwijking van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004529&paragraaf=1&artikel=1&z=2007-07-06&g=2007-07-06) en onverminderd [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004529&paragraaf=1&artikel=2&z=2007-07-06&g=2007-07-06), zijn ten behoeve van de officiële controle van de temperatuur van diepgevroren levensmiddelen de volgende leden van toepassing.
 
 2. De aard en de hoeveelheid van de te controleren verpakkingen worden zodanig gekozen dat hun temperatuur representatief is voor de warmste punten in de geïnspecteerde partij.
 
@@ -171,7 +165,7 @@ In deze paragraaf wordt verstaan onder:
 
 ##### Artikel 5d
 
-Onverminderd [artikel 5c](https://wetten.overheid.nl/jci1.3:c:BWBR0004529&paragraaf=6&artikel=5c&z=2006-07-01&g=2006-07-01) mogen voor de daar bedoelde controle ook andere wetenschappelijk-adequate methoden worden gebruikt, onder de voorwaarde dat het vrije verkeer van diepgevroren levensmiddelen, waarvan aan de hand van de [Warenwetregeling Diepgevroren levensmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0005825) is aangetoond dat zij aan de desbetreffende voorschriften voldoen, hierdoor niet wordt belemmerd.
+Onverminderd [artikel 5c](https://wetten.overheid.nl/jci1.3:c:BWBR0004529&paragraaf=4&artikel=5c&z=2007-07-06&g=2007-07-06) mogen voor de daar bedoelde controle ook andere wetenschappelijk-adequate methoden worden gebruikt, onder de voorwaarde dat het vrije verkeer van diepgevroren levensmiddelen, waarvan aan de hand van de [Warenwetregeling Diepgevroren levensmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0005825) is aangetoond dat zij aan de desbetreffende voorschriften voldoen, hierdoor niet wordt belemmerd.
 
 #### § 7. Monsterneming voor de chemische analyse van caseïne en caseïnaten
 
@@ -189,9 +183,9 @@ Vervallen
 
 ##### Artikel 5g
 
-De bemonstering en de bereiding van de monsters voor de officiële controle op de maximumgehalten aan lood, cadmium, kwik en 3-MCPD in eet- en drinkwaren geschiedt met inachtneming van [richtlijn nr. 2002/22/EG](32002L0022) van de Commissie van de Europese Gemeenschappen van 8 maart 2001 tot vaststelling van bemonsteringswijzen en analysemethoden voor de officiële controle op de maximumgehalten aan lood, cadmium, kwik en 3-MCPD in levensmiddelen (PbEG L 77).
+Vervallen
 
-#### § 10. Monsterneming voor de officiële controle op de gehalten aan ochratoxine A
+#### Paragraaf 7. Slotbepalingen
 
 ##### Artikel 5h
 
@@ -207,7 +201,7 @@ De bemonstering van producten van plantaardige en van dierlijke oorsprong met he
 
 ##### Artikel 5j
 
-De bemonstering voor de officiële controle op de maximumgehalten dioxinen en furanen en de gehaltebepaling voor dioxineachtige PCB’s eet- en drinkwaren geschiedt met inachtneming van bijlage I van [richtlijn nr. 2002/69/EG](32002L0069) van de Commissie van de Europese Gemeenschappen van 26 juli 2002 tot vaststelling van bemonsteringswijzen en analysemethoden voor de officiële controle dioxinen en de gehaltebepaling van dioxineachtige PCB’s in levensmiddelen (PbEG L 209).
+Vervallen
 
 #### § 13. Slotbepalingen
 
@@ -215,9 +209,9 @@ De bemonstering voor de officiële controle op de maximumgehalten dioxinen en fu
 
 1. Deze regeling kan worden aangehaald als Warenwetregeling Monsterneming.
 
-2. Het bepaalde in de [artikelen 1 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004529&paragraaf=1&artikel=1&z=2006-07-01&g=2006-07-01) treedt in werking met ingang van de dag na bekendmaking van deze regeling, en werkt terug tot en met 30 juli 1988.
+2. Het bepaalde in de [artikelen 1 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004529&paragraaf=1&artikel=1&z=2007-07-06&g=2007-07-06) treedt in werking met ingang van de dag na bekendmaking van deze regeling, en werkt terug tot en met 30 juli 1988.
 
-3. Het bepaalde in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004529&paragraaf=4&artikel=5&z=2006-07-01&g=2006-07-01) treedt in werking met ingang van de dag volgende op die van de bekendmaking van deze regeling.
+3. Het bepaalde in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004529&paragraaf=3&artikel=5&z=2007-07-06&g=2007-07-06) treedt in werking met ingang van de dag volgende op die van de bekendmaking van deze regeling.
 
 4. Een wijziging van:
 
@@ -225,25 +219,17 @@ De bemonstering voor de officiële controle op de maximumgehalten dioxinen en fu
 
 - b. [richtlijn nr. 86/424/EEG](31986L0424) van de Commissie van de Europese Gemeenschappen van 15 juli 1986 tot vaststelling van de bemonsteringsmethoden voor chemische analyse van caseïne en caseïnaten (PbEG L 243);
 
-- c. [richtlijn nr. 2001/22/EG](32001L0022) van de Commissie van de Europese Gemeenschappen van 8 maart 2001 tot vaststelling van bemonsteringswijzen en analysemethoden voor de officiële controle op de maximumgehalten aan lood, cadmium, kwik en 3-MCPD in levensmiddelen (PbEG L 77);
+- c. [richtlijn nr. 2002/63/EG](32002L0063) van de Commissie van de Europese Gemeenschappen van 11 juli 2002 (PbEG L 187) houdende vaststelling van communautaire bemonsteringsmethoden voor de officiële controle op residuen van bestrijdingsmiddelen in en op producten van plantaardige en van dierlijke oorsprong en tot intrekking van [richtlijn 79/700/EG](31979L0700);
 
-- d. [richtlijn nr. 2002/63/EG](32002L0063) van de Commissie van de Europese Gemeenschappen van 11 juli 2002 (PbEG L 187) houdende vaststelling van communautaire bemonsteringsmethoden voor de officiële controle op residuen van bestrijdingsmiddelen in en op producten van plantaardige en van dierlijke oorsprong en tot intrekking van [richtlijn 79/700/EG](31979L0700);
-
-- e. [richtlijn nr. 2002/69/EG](32002L0069) van de Commissie van de Europese Gemeenschappen van 26 juli 2002 tot vaststelling van bemonsteringswijzen en analysemethoden voor de officiële controle op dioxinen en de gehaltebepaling van dioxineachtige PCB’s in levensmiddelen (PbEG L 209);
-
-- f. [richtlijn nr. 2004/16/EG](32004L0016) van de Commissie van de Europese Gemeenschappen van 12 februari 2004 tot vaststelling van bemonsteringswijzen en analysemethoden voor de officiële controle op het tingehalte in levensmiddelen (PbEU L 77);
-
-- g. [richtlijn nr. 2005/10/EG](32005L0010) van de Commissie van de Europese Gemeenschappen van 4 februari 2005 tot vaststelling van bemonsteringswijzen en analysemethoden voor de officiële controle op de gehalten aan benzo(a)pyreen in levensmiddelen (PbEU L 34);
-
-gaat voor de toepassing van de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004529&paragraaf=4&artikel=5&z=2006-07-01&g=2006-07-01), [5e](https://wetten.overheid.nl/jci1.3:c:BWBR0004529&paragraaf=7&artikel=5e&z=2006-07-01&g=2006-07-01), [5g](https://wetten.overheid.nl/jci1.3:c:BWBR0004529&paragraaf=9&artikel=5g&z=2006-07-01&g=2006-07-01), [5i](https://wetten.overheid.nl/jci1.3:c:BWBR0004529&paragraaf=11&artikel=5i&z=2006-07-01&g=2006-07-01), [5j](https://wetten.overheid.nl/jci1.3:c:BWBR0004529&paragraaf=12&artikel=5j&z=2006-07-01&g=2006-07-01), [5l](https://wetten.overheid.nl/jci1.3:c:BWBR0004529&paragraaf=14&artikel=5l&z=2006-07-01&g=2006-07-01) onderscheidenlijk [5m](https://wetten.overheid.nl/jci1.3:c:BWBR0004529&paragraaf=15&artikel=5m&z=2006-07-01&g=2006-07-01) gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
+gaat voor de toepassing van deze regeling gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
 
 ##### Artikel 1a
 
 Bij monsterneming van een eet- of drinkwaar deelt de controleambtenaar de belanghebbende mede dat hij, voor zover dat technisch uitvoerbaar is, recht heeft op een tweede monster als bedoeld in [artikel 5:18, derde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:18), dan wel in [artikel 21, derde lid, van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=21).
 
-#### § 2. Monsterneming ten behoeve van controle op de radioactiviteit van groenten en fruit
+#### Paragraaf 2. Monsterneming ten behoeve van controle op de radioactiviteit van groenten en fruit
 
-#### Paragraaf 3. Monsterneming ten behoeve van de controle op conserveermiddelen op citrusvruchten
+#### Paragraaf 3. Monsterneming ten behoeve van de controle op verduurzaamde gedehydrateede melkprodukten
 
 #### Paragraaf 4. Monsterneming ten behoeve van de controle op verduurzaamde gedehydrateede melkprodukten
 
@@ -251,7 +237,7 @@ Bij monsterneming van een eet- of drinkwaar deelt de controleambtenaar de belang
 
 #### Paragraaf 6. Monsterneming ten behoeve van de controle van de temperatuur van diepgevroren levensmiddelen
 
-#### § 7. Monsterneming voor de chemische analyse van caseïne en caseïnaten
+#### Paragraaf 6. Monsterneming voor de officiële controle op residuen van bestrijdingsmiddelen in en op producten van plantaardige en van dierlijke oorsprong
 
 #### Par. 8:. Monsterneming voor de officiële controle op aflatoxinen in levensmiddelen
 
@@ -273,13 +259,13 @@ Vervallen
 
 ##### Artikel 5l
 
-De bemonstering en de bereiding van de monsters voor de officiële controle op het tingehalte in eet- en drinkwaren in blik geschiedt met inachtneming van [richtlijn nr. 2004/16/EG](32004L0016) van de Commissie van de Europese Gemeenschappen van 12 februari 2004 tot vaststelling van bemonsteringswijzen en analysemethoden voor de officiële controle op het tingehalte in levensmiddelen in blik (PbEU L 42).
+Vervallen
 
 #### § 15. Monsterneming voor de officiële controle op de gehalten aan benzo(a)pyreen in levensmiddelen
 
 ##### Artikel 5m
 
-De bemonstering en de bereiding van de monsters voor de officiële controle op het gehalte aan benzo(a)pyreen in eet- en drinkwaren geschiedt met inachtneming van [richtlijn nr. 2005/10/EG](32005L0010) van de Commissie van de Europese Gemeenschappen van 4 februari 2005 tot vaststelling van bemonsteringswijzen en analysemethoden voor de officiële controle op de gehalten aan benzo(a)pyreen in levensmiddelen (PbEU L 34).
+Vervallen
 
 #### § 16. Monsterneming voor de officiële controle op de gehalten aan Fusarium-toxinen in levensmiddelen
 
@@ -288,3 +274,5 @@ De bemonstering en de bereiding van de monsters voor de officiële controle op h
 Vervallen
 
 #### § 17. Slotbepalingen
+
+#### Paragraaf 5. Monsterneming voor de chemische analyse van caseïne en caseïnaten
