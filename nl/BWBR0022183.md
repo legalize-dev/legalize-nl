@@ -103,39 +103,3 @@ Het elektronisch indienen van subsidieaanvragen geschiedt op de volgende wijze:
 Deze beleidsregel treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
 Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.
-
-#### § 2. De aanvraagprocedure met authenticatie door middel van een certificaat
-
-##### Artikel 6a
-
-1. Deze paragraaf is van toepassing op het elektronisch indienen van een aanvraag met betrekking tot subsidieverstrekking met authenticatie door middel van DigiD of DigiD voor bedrijven.
-
-2. Het elektronisch indienen van een aanvraag met betrekking tot subsidieverstrekking overeenkomstig deze paragraaf is mogelijk indien de subsidieregeling daartoe is opengesteld via de website.
-
-##### Artikel 6b
-
-Om toegang te krijgen tot de aanvraagapplicatie is een DigiD-inlogcode vereist.
-
-##### Artikel 6c
-
-Het elektronisch indienen van aanvragen met betrekking tot subsidieverstrekking geschiedt op de volgende wijze:
-
-- a. de indiener selecteert de subsidieregeling waarvoor hij elektronisch een aanvraag wil indienen;
-
-- b. de indiener verkrijgt toegang tot de aanvraagapplicatie door in te loggen met de DigiD-inlogcode;
-
-- c. de indiener start een nieuwe aanvraag;
-
-- d. de indiener vult de aanvraag in, controleert deze en dient de aanvraag in.
-
-##### Artikel 6d
-
-Indien een aanvraag met betrekking tot subsidieverstrekking wordt ingediend overeenkomstig deze paragraaf geldt het invoeren van de DigiD-inlogcode als elektronische handtekening.
-
-#### § 4. Slotbepalingen
-
-##### Artikel 6e
-
-De beleidsregel wordt aangehaald als: Beleidsregel elektronische aanvraagprocedure voor subsidies via SenterNovem.
-
-Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.
