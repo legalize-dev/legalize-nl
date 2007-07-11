@@ -4,7 +4,7 @@ identifier: "BWBR0005904"
 country: "nl"
 rank: "wet"
 publication_date: "2016-07-01"
-last_updated: "2006-03-08"
+last_updated: "2007-07-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005904"
 soort: "wet"
@@ -52,15 +52,15 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - c. Specifieke uitkeringen: subsidies aan provincies of aan gemeenten waarvan de bestedingsrichting vooraf is aangegeven of die worden verstrekt voor de bestrijding van de kosten van bepaalde taken of activiteiten, alsmede subsidies aan particulieren waarvan de verstrekking afhankelijk is van de verstrekking van subsidie door provincies of gemeenten aan de betrokken particulieren.
 
-- d. fonds: een privaatrechtelijke rechtspersoon die is opgericht op grond van de machtiging van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&hoofdstuk=IV&artikel=9&z=2006-03-08&g=2006-03-08);
+- d. fonds: een privaatrechtelijke rechtspersoon die is opgericht op grond van de machtiging van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&hoofdstuk=IV&artikel=9&z=2007-07-11&g=2007-07-11);
 
 - e. openbare bibliotheek: een voor ieder bestemde en toegankelijke bibliotheek die in overwegende mate door het Rijk, een provincie of een gemeente wordt bekostigd dan wel in stand wordt gehouden;
 
 - f. provinciale bibliotheekcentrale: een voorziening van bibliotheekwerk, bekostigd of in stand gehouden door een of meer provincies en werkzaam ten behoeve van openbare bibliotheken in die provincie of provincies;
 
-- g. de Raad: de Raad voor cultuur, bedoeld in [artikel 2**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&hoofdstuk=IA&artikel=2a&z=2006-03-08&g=2006-03-08).
+- g. de Raad: de Raad voor cultuur, bedoeld in [artikel 2**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&hoofdstuk=IA&artikel=2a&z=2007-07-11&g=2007-07-11).
 
-2. De[artikelen 4 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&hoofdstuk=III&artikel=4&z=2006-03-08&g=2006-03-08) zijn niet van toepassing op het verstrekken van subsidies ten behoeve van cultuuruitingen voorzover daarvoor bij of krachtens een andere wet regels zijn gesteld.
+2. De[artikelen 4 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&hoofdstuk=III&artikel=4&z=2007-07-11&g=2007-07-11) zijn niet van toepassing op het verstrekken van subsidies ten behoeve van cultuuruitingen voorzover daarvoor bij of krachtens een andere wet regels zijn gesteld.
 
 ##### Artikel 2
 
@@ -76,23 +76,21 @@ Onze Minister is belast met het scheppen van voorwaarden voor het in stand houde
 
 ##### Artikel 2b
 
-Bij de benoeming van de leden van de Raad wordt rekening gehouden met de aandachtsgebieden, bedoeld in [artikel 2d](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&hoofdstuk=IA&artikel=2d&z=2006-03-08&g=2006-03-08).
+Vervallen
 
 ##### Artikel 2c
 
 1. Onder de Raad ressorteren drie commissies ter voorbereiding van de adviezen die Onze Minister vraagt ingevolge de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376), de [Monumentenwet 1988](https://wetten.overheid.nl/jci1.3:c:BWBR0004471) onderscheidenlijk de [Wet tot behoud van cultuurbezit](https://wetten.overheid.nl/jci1.3:c:BWBR0003659).
 
-2. Indien voor de voorbereiding van een advies als bedoeld in het eerste lid een specifieke deskundigheid is vereist die niet in voldoende mate in de Raad aanwezig is, kunnen in afwijking van [artikel 16 van de Kaderwet adviescolleges](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&artikel=16) in de commissies, bedoeld in het eerste lid, ten hoogste vijf andere personen dan leden van de Raad worden benoemd.
+2. De commissies, bedoeld in het eerste lid, kunnen in afwijking van [artikel 16 van de Kaderwet adviescolleges](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&artikel=16) geheel of gedeeltelijk bestaan uit andere personen dan leden van de Raad.
 
-3. Ter voorbereiding van andere adviezen dan bedoeld in het eerste lid, kan de Raad tijdelijke commissies instellen die in afwijking van [artikel 16 van de Kaderwet adviescolleges](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&artikel=16) gedeeltelijk kunnen bestaan uit andere personen dan leden van de Raad. Het aantal andere personen, bedoeld in de eerste volzin, bedraagt ten hoogste zeven.
+3. Ter voorbereiding van andere adviezen dan bedoeld in het eerste lid, kan de Raad tijdelijke commissies instellen die in afwijking van [artikel 16 van de Kaderwet adviescolleges](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&artikel=16) geheel of gedeeltelijk kunnen bestaan uit andere personen dan leden van de Raad.
 
 4. Op de in het tweede en derde lid bedoelde commissieleden zijn de [artikelen 11 tot en met 14 van de Kaderwet adviescolleges](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&artikel=11) van overeenkomstige toepassing, met dien verstande dat deze leden door Onze Minister worden benoemd, geschorst en ontslagen.
 
 ##### Artikel 2d
 
-1. De Raad stelt bij reglement van orde de aandachtsgebieden van het terrein van de cultuur vast die in de inrichting van de Raad herkenbaar aanwezig dienen te zijn.
-
-2. Onze Minister kan de Raad een aanwijzing ter zake van de vaststelling van de aandachtsgebieden geven.
+Vervallen
 
 ##### Artikel 2e
 
@@ -126,19 +124,13 @@ Vervallen
 
 Vervallen
 
-### Hoofdstuk II. Cultuurnota
+### Hoofdstuk II. Wijziging hoofdlijnen cultuurbeleid
 
 ##### Artikel 3
 
-1. Onze Minister legt eenmaal per vier jaar aan beide Kamers der Staten-Generaal een cultuurnota over.
+1. Onze Minister bericht ten minste een keer in de vier jaar beide kamers der Staten-Generaal over de hoofdlijnen van het cultuurbeleid.
 
-2. De cultuurnota bevat in ieder geval een verslag van de uitvoering van zijn taken, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&hoofdstuk=I&artikel=2&z=2006-03-08&g=2006-03-08), en van belangrijke ontwikkelingen die daarop van invloed zijn geweest. Het verslag gaat vergezeld van een globaal overzicht van de ten behoeve van het cultuurbeleid bestede en aangewezen rijksbegrotingsmiddelen gedurende de verslagperiode.
-
-3. De cultuurnota bevat tevens een beschrijving van de hoofdlijnen van het cultuurbeleid van het Rijk in de daarop volgende periode van vier jaren alsmede van de te verwachten belangrijke ontwikkelingen die van invloed zijn op het culturele leven in Nederland; over de financiële en bestuurlijke gevolgen daarvan voor provincies en gemeenten pleegt Onze Minister tijdig overleg met Onze Ministers van Binnenlandse Zaken en van Financiën, bij welk overleg aandacht besteed wordt aan de criteria, bedoeld in [artikel 16, tweede lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=16).
-
-4. De cultuurnota kan vergezeld gaan van een of meer sectornota's waarin per deelterrein van de cultuur de hoofdlijnen van het cultuurbeleid, bedoeld in het derde lid, worden uitgewerkt.
-
-5. Bij tussentijdse wijziging van hoofdlijnen van het cultuurbeleid, bedoeld in het derde lid, doet Onze Minister daarvan mededeling aan beide kamers der Staten-Generaal.
+2. Bij wijziging van hoofdlijnen van het cultuurbeleid doet Onze Minister daarvan telkens mededeling aan beide kamers der Staten-Generaal.
 
 ### Hoofdstuk III. Subsidies ten behoeve van cultuuruitingen
 
@@ -170,7 +162,7 @@ Onze Minister kan op aanvraag ten behoeve van cultuuruitingen specifieke uitkeri
 
 ##### Artikel 7
 
-Onze Minister kan ten behoeve van cultuuruitingen andere specifieke uitkeringen dan die bedoeld in de[artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&hoofdstuk=III&artikel=5&z=2006-03-08&g=2006-03-08) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&hoofdstuk=III&artikel=6&z=2006-03-08&g=2006-03-08), verstrekken van tenminste € 4 500.
+Onze Minister kan ten behoeve van cultuuruitingen andere specifieke uitkeringen dan die bedoeld in de[artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&hoofdstuk=III&artikel=5&z=2007-07-11&g=2007-07-11) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&hoofdstuk=III&artikel=6&z=2007-07-11&g=2007-07-11), verstrekken van tenminste € 4 500.
 
 ##### Artikel 8
 
@@ -196,7 +188,7 @@ Onze Minister kan ten behoeve van cultuuruitingen andere specifieke uitkeringen 
 
 3. Indien bij of krachtens een algemene maatregel van bestuur, bedoeld in het eerste lid, wordt voorzien in een subsidieplafond, worden daarbij regels gesteld omtrent de wijze van verdeling.
 
-4. Onverminderd [artikel 5, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&hoofdstuk=III&artikel=5&z=2006-03-08&g=2006-03-08), kan bij een maatregel als bedoeld in het eerste lid worden bepaald dat een subsidie kan worden verstrekt voor perioden van ten hoogste vier jaren, doch uitsluitend binnen de perioden waarvoor een cultuurnota geldt.
+4. Onverminderd de [artikelen 4a tot en met 4c](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&hoofdstuk=III&artikel=4a&z=2007-07-11&g=2007-07-11) en [5, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&hoofdstuk=III&artikel=5&z=2007-07-11&g=2007-07-11), kan bij een maatregel als bedoeld in het eerste lid worden bepaald dat een subsidie kan worden verstrekt voor perioden van ten hoogste vier jaren.
 
 5. Onze Minister kan bij het verstrekken van een subsidie de ontvanger daarvan verplichtingen opleggen met inachtneming van het bepaalde bij of krachtens de maatregel, bedoeld in het eerste lid.
 
@@ -236,13 +228,13 @@ Onze Minister kan ten behoeve van cultuuruitingen andere specifieke uitkeringen 
 
 ##### Artikel 11
 
-Het bestuur van een fonds verstrekt subsidies als bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&hoofdstuk=IV&artikel=9&z=2006-03-08&g=2006-03-08), bij beschikking.
+Het bestuur van een fonds verstrekt subsidies als bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&hoofdstuk=IV&artikel=9&z=2007-07-11&g=2007-07-11), bij beschikking.
 
 ### Hoofdstuk IVA. Bibliotheekwerk
 
 ##### Artikel 11a
 
-Voor het uitlenen van gedrukte werken in openbare bibliotheken aan personen beneden de leeftijd van achttien jaren wordt slechts een contributie of andere geldelijke bijdrage geheven, indien gedeputeerde staten of het college van burgemeester en wethouders, dat de openbare bibliotheek bekostigt of in stand houdt daartoe hebben onderscheidenlijk heeft besloten. De contributie of andere geldelijke bijdrage bedraagt ten hoogste de helft van de contributie of andere geldelijke bijdrage die wordt geheven van personen die achttien jaren of ouder zijn.
+Voor het uitlenen van gedrukte werken in openbare bibliotheken aan personen beneden de leeftijd van achttien jaren wordt slechts een contributie of andere geldelijke bijdrage geheven, indien het college van gedeputeerde staten of het college van burgemeester en wethouders dat de openbare bibliotheek bekostigt of in stand houdt daartoe heeft besloten. De contributie of andere geldelijke bijdrage bedraagt ten hoogste de helft van de contributie of andere geldelijke bijdrage die wordt geheven van personen die achttien jaren of ouder zijn.
 
 ##### Artikel 11b
 
@@ -282,21 +274,21 @@ Voor het uitlenen van gedrukte werken in openbare bibliotheken aan personen bene
 
 - d. de diensten die de provinciale bibliotheekcentrale zal verrichten voor openbare bibliotheken die door gemeenten worden bekostigd of in stand gehouden.
 
-### Hoofdstuk V. Overgangsbepalingen
+### Hoofdstuk IVA. Bibliotheekwerk
 
 ##### Artikel 12
 
-1. De fondsen opgericht door Onze Minister op grond van een machtiging krachtens de Fondsenwet scheppende kunsten (**Stb.** 1981, 355), gelden als fondsen, opgericht op grond van de machtiging van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&hoofdstuk=IV&artikel=9&z=2006-03-08&g=2006-03-08) van deze wet.
+1. De fondsen opgericht door Onze Minister op grond van een machtiging krachtens de Fondsenwet scheppende kunsten (**Stb.** 1981, 355), gelden als fondsen, opgericht op grond van de machtiging van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&hoofdstuk=IV&artikel=9&z=2007-07-11&g=2007-07-11) van deze wet.
 
-2. De Stichting Fonds voor de letteren, opgericht bij akte van 28 juli 1965, en de Stichting Productiefonds voor Nederlandse Films, opgericht bij akte van 8 november 1956, gelden als fondsen, opgericht op grond van de machtiging van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&hoofdstuk=IV&artikel=9&z=2006-03-08&g=2006-03-08) van deze wet.
+2. De Stichting Fonds voor de letteren, opgericht bij akte van 28 juli 1965, en de Stichting Productiefonds voor Nederlandse Films, opgericht bij akte van 8 november 1956, gelden als fondsen, opgericht op grond van de machtiging van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&hoofdstuk=IV&artikel=9&z=2007-07-11&g=2007-07-11) van deze wet.
 
-3. De besturen van de fondsen, bedoeld in het eerste en tweede lid, dragen er zorg voor dat de statuten en reglementen als bedoeld in [artikel 10, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&hoofdstuk=IV&artikel=10&z=2006-03-08&g=2006-03-08), binnen een jaar na inwerkingtreding van deze wet voldoen aan het bepaalde in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&hoofdstuk=IV&artikel=10&z=2006-03-08&g=2006-03-08).
+3. De besturen van de fondsen, bedoeld in het eerste en tweede lid, dragen er zorg voor dat de statuten en reglementen als bedoeld in [artikel 10, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&hoofdstuk=IV&artikel=10&z=2007-07-11&g=2007-07-11), binnen een jaar na inwerkingtreding van deze wet voldoen aan het bepaalde in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&hoofdstuk=IV&artikel=10&z=2007-07-11&g=2007-07-11).
 
 ##### Artikel 13
 
-Tot het moment van inwerkingtreding van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&hoofdstuk=III&artikel=8&z=2006-03-08&g=2006-03-08) kan Onze Minister regels stellen met betrekking tot het verstrekken van subsidies en specifieke uitkeringen.
+Tot het moment van inwerkingtreding van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&hoofdstuk=III&artikel=8&z=2007-07-11&g=2007-07-11) kan Onze Minister regels stellen met betrekking tot het verstrekken van subsidies en specifieke uitkeringen.
 
-### Hoofdstuk VI. Slotbepalingen
+### Hoofdstuk V. Overgangsbepalingen
 
 ##### Artikel 14
 
@@ -304,7 +296,7 @@ De Fondsenwet scheppende kunsten (**Stb.** 1981, 355) wordt ingetrokken.
 
 ##### Artikel 15
 
-De[artikelen 5 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&hoofdstuk=III&artikel=5&z=2006-03-08&g=2006-03-08) zijn niet van toepassing op specifieke uitkeringen aan particulieren te behoeve van bepaalde taken of activiteiten waarvoor voor minder dan 25 procent subsidie wordt verstrekt door provincies of gemeenten.
+De[artikelen 5 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&hoofdstuk=III&artikel=5&z=2007-07-11&g=2007-07-11) zijn niet van toepassing op specifieke uitkeringen aan particulieren te behoeve van bepaalde taken of activiteiten waarvoor voor minder dan 25 procent subsidie wordt verstrekt door provincies of gemeenten.
 
 ##### Artikel 16
 
@@ -312,10 +304,58 @@ Bevat wijzigingen in andere regelgeving.
 
 ##### Artikel 17
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip. Bij koninklijk besluit kan een ander tijdstip worden vastgesteld, waarop [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&hoofdstuk=III&artikel=8&z=2006-03-08&g=2006-03-08) in werking treedt.
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip. Bij koninklijk besluit kan een ander tijdstip worden vastgesteld, waarop [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&hoofdstuk=III&artikel=8&z=2007-07-11&g=2007-07-11) in werking treedt.
 
 ##### Artikel 18
 
 Deze wet kan worden aangehaald als Wet op het specifiek cultuurbeleid.
+
+Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 4a
+
+1. Onze Minister stelt bij ministeriële regeling eenmaal per vier jaar regels vast voor de verstrekking van subsidies in de op die periode volgende periode van vier kalenderjaren.
+
+2. De ministeriële regeling bevat in ieder geval:
+
+- a. een omschrijving van de activiteiten die voor subsidie in aanmerking komen;
+
+- b. de criteria die bij de subsidieverlening voor de onder a bedoelde activiteiten gehanteerd worden, en
+
+- c. het financieel kader waarbinnen de subsidieverstrekking geschiedt.
+
+3. De ministeriële regeling heeft betrekking op activiteiten die voor vier jaar voor subsidieverstrekking in aanmerking komen.
+
+4. In afwijking van het derde lid kan Onze Minister in bijzondere gevallen subsidie verstrekken voor minder dan vier jaar.
+
+##### Artikel 4b
+
+1. Onze Minister kan instellingen of groepen van instellingen aanwijzen ten behoeve waarvan hij telkens voor een periode van vier kalenderjaren een subsidie verstrekt.
+
+2. De criteria op grond waarvan Onze Minister beoordeelt of een instelling of een groep van instellingen wordt aangewezen, zijn:
+
+- a. de onderlinge samenhang binnen een groep van instellingen;
+
+- b. de continuïteit van de activiteiten van een instelling of een groep van instellingen, of
+
+- c. het specifieke belang van de activiteiten van een te subsidiëren instelling of een groep van instellingen voor de cultuur in Nederland.
+
+3. Een aanwijzing of de intrekking van een aanwijzing wordt bekend gemaakt in de Staatscourant.
+
+4. Onze Minister kan een aanwijzing intrekken:
+
+- a. indien een instelling of groep van instellingen niet meer voldoet aan een of meer van de in het tweede lid bedoelde criteria, of
+
+- b. om bijzondere redenen.
+
+##### Artikel 4c
+
+1. Onze Minister verstrekt aan een fonds telkens voor een periode van vier kalenderjaren een subsidie.
+
+2. In afwijking van het eerste lid kan Onze Minister voor minder dan vier kalenderjaren subsidie verstrekken, indien zich omstandigheden voordoen die daartoe aanleiding geven.
+
+### Hoofdstuk IV. Fondsen
+
+### Hoofdstuk VI. Slotbepalingen
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
