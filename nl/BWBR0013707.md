@@ -4,7 +4,7 @@ identifier: "BWBR0013707"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-01-01"
-last_updated: "2007-06-29"
+last_updated: "2007-07-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013707"
 soort: "AMvB"
@@ -90,7 +90,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 2
 
-1. De [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=2&artikel=3&z=2007-06-29&g=2007-06-29), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=2&artikel=4&z=2007-06-29&g=2007-06-29), [8, onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=3&artikel=8&z=2007-06-29&g=2007-06-29), [9 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=4&artikel=9&z=2007-06-29&g=2007-06-29) en [15, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=6&artikel=15&z=2007-06-29&g=2007-06-29), zijn niet van toepassing op voertuigen als bedoeld in [artikel 1, onder a, onderdeel 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=1&artikel=1&z=2007-06-29&g=2007-06-29).
+1. De [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=2&artikel=3&z=2007-07-12&g=2007-07-12), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=2&artikel=4&z=2007-07-12&g=2007-07-12), [8, onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=3&artikel=8&z=2007-07-12&g=2007-07-12), [9 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=4&artikel=9&z=2007-07-12&g=2007-07-12) en [15, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=6&artikel=15&z=2007-07-12&g=2007-07-12), zijn niet van toepassing op voertuigen als bedoeld in [artikel 1, onder a, onderdeel 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=1&artikel=1&z=2007-07-12&g=2007-07-12).
 
 2. Dit besluit is niet van toepassing op producten voorzover daaromtrent regels zijn gesteld in het [Besluit beheer elektrische en elektronische apparatuur](https://wetten.overheid.nl/jci1.3:c:BWBR0016990), de Regeling beheer elektrische en elektronische apparatuur dan wel bij of krachtens het [Besluit beheer batterijen](https://wetten.overheid.nl/jci1.3:c:BWBR0007227).
 
@@ -128,11 +128,11 @@ De producent neemt maatregelen ter bevordering van preventie die erop gericht zi
 
 Bij de afvalstoffenverordening, bedoeld in [artikel 10.23, eerste lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.23), wordt bepaald dat een autowrak, zijnde een huishoudelijke afvalstof, slechts mag worden afgegeven aan:
 
-- a. degene die een inrichting drijft als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=3&artikel=5&z=2007-06-29&g=2007-06-29), niet zijnde een inrichting die uitsluitend vanwege de aanwezigheid van een shredderinstallatie als een zodanige inrichting is aan te merken;
+- a. degene die een inrichting drijft als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=3&artikel=5&z=2007-07-12&g=2007-07-12), niet zijnde een inrichting die uitsluitend vanwege de aanwezigheid van een shredderinstallatie als een zodanige inrichting is aan te merken;
 
 - b. degene die een inrichting drijft als bedoeld in [artikel 2, eerste lid, van het Besluit inrichtingen voor motorvoertuigen milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0011409&artikel=2), of
 
-- c. degene die in een ander land dan Nederland is gevestigd en die overeenkomstig de EEG-verordening overbrenging van afvalstoffen en [titel 10.7 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&titeldeel=10.7) het autowrak naar dat land brengt.
+- c. degene die in een ander land dan Nederland is gevestigd en die overeenkomstig de EG-verordening overbrenging van afvalstoffen en [titel 10.7 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&titeldeel=10.7) het autowrak naar dat land brengt.
 
 ##### Artikel 7
 
@@ -174,11 +174,11 @@ De producent of importeur draagt er zorg voor dat van de voertuigen die onder zi
 
 ##### Artikel 11
 
-1. De producent of importeur draagt er zorg voor dat binnen zes maanden nadat voertuigen van een nieuw type onder zijn verantwoordelijkheid in Nederland voor het eerst aan een ander ter beschikking zijn gesteld, aan een ieder die een inrichting drijft als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=3&artikel=5&z=2007-06-29&g=2007-06-29), informatie wordt verstrekt omtrent demontage van die voertuigen, voorzover die informatie nodig is om de doelstellingen, bedoeld in [artikel 9,](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=4&artikel=9&z=2007-06-29&g=2007-06-29) te realiseren.
+1. De producent of importeur draagt er zorg voor dat binnen zes maanden nadat voertuigen van een nieuw type onder zijn verantwoordelijkheid in Nederland voor het eerst aan een ander ter beschikking zijn gesteld, aan een ieder die een inrichting drijft als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=3&artikel=5&z=2007-07-12&g=2007-07-12), informatie wordt verstrekt omtrent demontage van die voertuigen, voorzover die informatie nodig is om de doelstellingen, bedoeld in [artikel 9,](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=4&artikel=9&z=2007-07-12&g=2007-07-12) te realiseren.
 
 2. De informatie, bedoeld in het eerste lid, omvat gegevens met betrekking tot de verschillende materialen en onderdelen van het voertuigtype en de plaats van de daarin aanwezige gevaarlijke stoffen.
 
-3. De leverancier van onderdelen die aan de producent of importeur ter beschikking zijn gesteld, draagt er zorg voor dat desgevraagd aan een persoon die een inrichting drijft als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=3&artikel=5&z=2007-06-29&g=2007-06-29), informatie wordt verstrekt omtrent demontage, opslag of het testen van die onderdelen met het oog op hergebruik als product, uitgezonderd informatie waarvan de geheimhouding met het oog op de bescherming van bedrijfsgeheimen gerechtvaardigd is.
+3. De leverancier van onderdelen die aan de producent of importeur ter beschikking zijn gesteld, draagt er zorg voor dat desgevraagd aan een persoon die een inrichting drijft als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=3&artikel=5&z=2007-07-12&g=2007-07-12), informatie wordt verstrekt omtrent demontage, opslag of het testen van die onderdelen met het oog op hergebruik als product, uitgezonderd informatie waarvan de geheimhouding met het oog op de bescherming van bedrijfsgeheimen gerechtvaardigd is.
 
 4. Informatie als bedoeld in het eerste tot en met derde lid wordt verstrekt in de vorm van handboeken of in elektronische vorm.
 
@@ -186,7 +186,7 @@ De producent of importeur draagt er zorg voor dat van de voertuigen die onder zi
 
 ##### Artikel 12
 
-1. De producent of importeur doet binnen dertien weken nadat dit besluit op hem van toepassing is geworden, aan Onze Minister mededeling over de wijze waarop uitvoering zal worden geven aan de verplichtingen, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=2&artikel=3&z=2007-06-29&g=2007-06-29), [8 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=3&artikel=8&z=2007-06-29&g=2007-06-29) en [15, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=6&artikel=15&z=2007-06-29&g=2007-06-29), voorzover die artikelen op hem van toepassing zijn.
+1. De producent of importeur doet binnen dertien weken nadat dit besluit op hem van toepassing is geworden, aan Onze Minister mededeling over de wijze waarop uitvoering zal worden geven aan de verplichtingen, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=2&artikel=3&z=2007-07-12&g=2007-07-12), [8 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=3&artikel=8&z=2007-07-12&g=2007-07-12) en [15, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=6&artikel=15&z=2007-07-12&g=2007-07-12), voorzover die artikelen op hem van toepassing zijn.
 
 2. De mededeling bevat in ieder geval:
 
@@ -214,7 +214,7 @@ De producent of importeur draagt er zorg voor dat van de voertuigen die onder zi
 
 ##### Artikel 13
 
-1. De mededeling, bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=6&artikel=12&z=2007-06-29&g=2007-06-29), behoeft de instemming van Onze Minister.
+1. De mededeling, bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=6&artikel=12&z=2007-07-12&g=2007-07-12), behoeft de instemming van Onze Minister.
 
 2. De instemming, bedoeld in het eerste lid, geldt voor een daarbij vast te stellen tijdvak van ten hoogste vijf jaar.
 
@@ -222,15 +222,15 @@ De producent of importeur draagt er zorg voor dat van de voertuigen die onder zi
 
 4. Onze Minister kan de voorschriften of beperkingen, bedoeld in het derde lid, ambtshalve of op een daartoe strekkend verzoek wijzigen of intrekken.
 
-5. De producent of importeur doet uiterlijk 13 weken voor het verstrijken van het tijdvak waarvoor de instemming geldt opnieuw een mededeling als bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=6&artikel=12&z=2007-06-29&g=2007-06-29).
+5. De producent of importeur doet uiterlijk 13 weken voor het verstrijken van het tijdvak waarvoor de instemming geldt opnieuw een mededeling als bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=6&artikel=12&z=2007-07-12&g=2007-07-12).
 
 ##### Artikel 14
 
-De producent of importeur voert de verplichtingen, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=2&artikel=3&z=2007-06-29&g=2007-06-29), [8 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=3&artikel=8&z=2007-06-29&g=2007-06-29) en [15, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=6&artikel=15&z=2007-06-29&g=2007-06-29), uit overeenkomstig de mededeling, zoals Onze Minister daarmee heeft ingestemd.
+De producent of importeur voert de verplichtingen, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=2&artikel=3&z=2007-07-12&g=2007-07-12), [8 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=3&artikel=8&z=2007-07-12&g=2007-07-12) en [15, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=6&artikel=15&z=2007-07-12&g=2007-07-12), uit overeenkomstig de mededeling, zoals Onze Minister daarmee heeft ingestemd.
 
 ##### Artikel 15
 
-1. De producent of importeur zendt voor 1 augustus 2003 en vervolgens elk jaar voor 1 augustus aan Onze Minister een verslag over de uitvoering van de verplichtingen, bedoeld in het vierde lid en de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=2&artikel=3&z=2007-06-29&g=2007-06-29), [8 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=3&artikel=8&z=2007-06-29&g=2007-06-29), in het voorafgaande kalenderjaar, voorzover hij in dat jaar als producent of importeur werkzaam was.
+1. De producent of importeur zendt voor 1 augustus 2003 en vervolgens elk jaar voor 1 augustus aan Onze Minister een verslag over de uitvoering van de verplichtingen, bedoeld in het vierde lid en de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=2&artikel=3&z=2007-07-12&g=2007-07-12), [8 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=3&artikel=8&z=2007-07-12&g=2007-07-12), in het voorafgaande kalenderjaar, voorzover hij in dat jaar als producent of importeur werkzaam was.
 
 2. Het verslag bevat in ieder geval gegevens omtrent:
 
@@ -248,7 +248,7 @@ De producent of importeur voert de verplichtingen, bedoeld in de [artikelen 3](h
 
 ##### Artikel 16
 
-De producenten of importeurs kunnen gezamenlijk een mededeling als bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=6&artikel=12&z=2007-06-29&g=2007-06-29), doen of een verslag als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=6&artikel=15&z=2007-06-29&g=2007-06-29), toezenden.
+De producenten of importeurs kunnen gezamenlijk een mededeling als bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=6&artikel=12&z=2007-07-12&g=2007-07-12), doen of een verslag als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=6&artikel=15&z=2007-07-12&g=2007-07-12), toezenden.
 
 #### § 7. Slotbepalingen
 
@@ -256,9 +256,9 @@ De producenten of importeurs kunnen gezamenlijk een mededeling als bedoeld in [a
 
 1. Een wijziging van de autowrakkenrichtlijn gaat voor de toepassing van dit besluit gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
 
-2. Een wijziging van de richtlijn, genoemd in [artikel 1, onder j](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=1&artikel=1&z=2007-06-29&g=2007-06-29), gaat voor de toepassing van dit besluit gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
+2. Een wijziging van de richtlijn, genoemd in [artikel 1, onder j](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=1&artikel=1&z=2007-07-12&g=2007-07-12), gaat voor de toepassing van dit besluit gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
 
-3. Een wijziging van de richtlijn, genoemd in [artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=4&artikel=9&z=2007-06-29&g=2007-06-29), gaat voor de toepassing van dit besluit gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
+3. Een wijziging van de richtlijn, genoemd in [artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=4&artikel=9&z=2007-07-12&g=2007-07-12), gaat voor de toepassing van dit besluit gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
 
 ##### Artikel 18
 
@@ -282,7 +282,7 @@ Wijzigt het Besluit stortplaatsen en stortverboden afvalstoffen.
 
 ##### Artikel 23
 
-In afwijking van [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=6&artikel=15&z=2007-06-29&g=2007-06-29), heeft een verslag over de uitvoering van de verplichtingen, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=2&artikel=3&z=2007-06-29&g=2007-06-29), [8 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=3&artikel=8&z=2007-06-29&g=2007-06-29) en [15, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=6&artikel=15&z=2007-06-29&g=2007-06-29), geen betrekking op het tijdvak vanaf 1 januari 2002 tot het tijdstip van inwerkingtreding van dit besluit.
+In afwijking van [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=6&artikel=15&z=2007-07-12&g=2007-07-12), heeft een verslag over de uitvoering van de verplichtingen, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=2&artikel=3&z=2007-07-12&g=2007-07-12), [8 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=3&artikel=8&z=2007-07-12&g=2007-07-12) en [15, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=6&artikel=15&z=2007-07-12&g=2007-07-12), geen betrekking op het tijdvak vanaf 1 januari 2002 tot het tijdstip van inwerkingtreding van dit besluit.
 
 ##### Artikel 24
 
@@ -378,7 +378,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 #### § 7. Slotbepalingen
 
-## Bijlage. behorend bij [artikel 5, eerste lid, van het Besluit beheer autowrakken](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=3&artikel=5&z=2007-06-29&g=2007-06-29)
+## Bijlage. behorend bij [artikel 5, eerste lid, van het Besluit beheer autowrakken](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=3&artikel=5&z=2007-07-12&g=2007-07-12)
 
 Voorschriften die opgenomen worden in vergunningen voor inrichtingen voor het opslaan, bewerken, verwerken, vernietigen of overslaan van autowrakken
 
