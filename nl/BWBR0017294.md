@@ -4,7 +4,7 @@ identifier: "BWBR0017294"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-07-01"
-last_updated: "2005-01-01"
+last_updated: "2007-07-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017294"
 soort: "AMvB"
@@ -38,7 +38,7 @@ entry_into_force: "2024-01-01"
 
 Op de voordracht van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 16 april 2004, nr. MJZ2004039319, Centrale Directie Juridische Zaken, Afdeling Wetgeving;
 
-Gelet op de [artikelen 10.41 tot en met 10.43](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.41) en [10.44, derde lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.44), [artikel 21.8 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=21.8) voorzover het betreft de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&paragraaf=4&artikel=8&z=2005-01-01&g=2005-01-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&paragraaf=4&artikel=9&z=2005-01-01&g=2005-01-01) en [10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&paragraaf=5&artikel=10&z=2005-01-01&g=2005-01-01), en [artikel 24 van de Wet milieugevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0003892&artikel=24) voorzover het betreft [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&paragraaf=3&artikel=7&z=2005-01-01&g=2005-01-01);
+Gelet op de [artikelen 10.41 tot en met 10.43](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.41) en [10.44, derde lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.44), [artikel 21.8 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=21.8) voorzover het betreft de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&paragraaf=4&artikel=8&z=2007-07-12&g=2007-07-12), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&paragraaf=4&artikel=9&z=2007-07-12&g=2007-07-12) en [10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&paragraaf=5&artikel=10&z=2007-07-12&g=2007-07-12), en [artikel 24 van de Wet milieugevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0003892&artikel=24) voorzover het betreft [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&paragraaf=3&artikel=7&z=2007-07-12&g=2007-07-12);
 
 De Raad van State gehoord (advies van 28 juni 2004, nr W08.04.0159/V);
 
@@ -56,7 +56,7 @@ In dit besluit wordt verstaan onder:
 
 - b. afvalstoffenlijst: afvalstoffenlijst als bedoeld in [artikel 1, eerste lid, van de Regeling Europese afvalstoffenlijst](https://wetten.overheid.nl/jci1.3:c:BWBR0013546&artikel=1);
 
-- c. afvalstroomnummer: afvalstroomnummer als bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&paragraaf=4&artikel=9&z=2005-01-01&g=2005-01-01);
+- c. afvalstroomnummer: afvalstroomnummer als bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&paragraaf=4&artikel=9&z=2007-07-12&g=2007-07-12);
 
 - d. meldingsinstantie: instantie als bedoeld in de [artikelen 10.38, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.38), en [10.40, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.40);
 
@@ -82,7 +82,7 @@ In dit besluit wordt verstaan onder:
 
 - 1°. afvalstoffen die binnen een inrichting als bedoeld in het tweede lid, aanhef en onder a, zijn ontstaan en binnen die inrichting nuttig worden toegepast of worden verwijderd;
 
-- 2°. afvalstoffen door een persoon die buiten Nederland is gevestigd en ten aanzien waarvan een kennisgeving op grond van de EEG-verordening overbrenging van afvalstoffen is gedaan;
+- 2°. afvalstoffen door een persoon die buiten Nederland is gevestigd en ten aanzien waarvan een kennisgeving op grond van de EG-verordening overbrenging van afvalstoffen is gedaan;
 
 - 3°. onbeheerd aangetroffen bedrijfsafvalstoffen of gevaarlijke afvalstoffen, die door of vanwege een bestuursorgaan worden opgeruimd;
 
@@ -122,7 +122,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 4
 
-In de categorieën van gevallen waarin de ingevolge [artikel 10.40, eerste lid, aanhef en onder b of c, voorzover het betreft de gebruikelijke benaming, en d tot en met f, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.40) en [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&paragraaf=2&artikel=3&z=2005-01-01&g=2005-01-01) te melden gegevens reeds aan de meldingsinstantie zijn gemeld en deze gegevens niet zijn gewijzigd, wordt, zolang het voor de ontvangst van de afvalstoffen verstrekte afvalstroomnummer niet is vervallen, aan [artikel 10.40, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.40) uitvoering gegeven door het melden van het afvalstroomnummer, het aantal afgiften en de totale hoeveelheid afvalstoffen die met het afvalstroomnummer in de voorafgaande maand in ontvangst zijn genomen.
+In de categorieën van gevallen waarin de ingevolge [artikel 10.40, eerste lid, aanhef en onder b of c, voorzover het betreft de gebruikelijke benaming, en d tot en met f, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.40) en [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&paragraaf=2&artikel=3&z=2007-07-12&g=2007-07-12) te melden gegevens reeds aan de meldingsinstantie zijn gemeld en deze gegevens niet zijn gewijzigd, wordt, zolang het voor de ontvangst van de afvalstoffen verstrekte afvalstroomnummer niet is vervallen, aan [artikel 10.40, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.40) uitvoering gegeven door het melden van het afvalstroomnummer, het aantal afgiften en de totale hoeveelheid afvalstoffen die met het afvalstroomnummer in de voorafgaande maand in ontvangst zijn genomen.
 
 #### § 3. De afgiftemelding
 
@@ -130,7 +130,7 @@ In de categorieën van gevallen waarin de ingevolge [artikel 10.40, eerste lid, 
 
 1. De in [artikel 10.38, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.38) gestelde verplichting geldt niet voor andere dan de ingevolge het tweede lid aangewezen categorieën van gevallen.
 
-2. Als categorieën van gevallen waarin de in [artikel 10.38, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.38) gestelde verplichting geldt, worden aangewezen de categorieën van gevallen waarin de afgifte geschiedt door een persoon als bedoeld in [artikel 2, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&paragraaf=2&artikel=2&z=2005-01-01&g=2005-01-01), aan een persoon als bedoeld in [artikel 10.37, tweede lid, onder a of b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.37), niet zijnde een persoon als bedoeld in [artikel 2, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&paragraaf=2&artikel=2&z=2005-01-01&g=2005-01-01).
+2. Als categorieën van gevallen waarin de in [artikel 10.38, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.38) gestelde verplichting geldt, worden aangewezen de categorieën van gevallen waarin de afgifte geschiedt door een persoon als bedoeld in [artikel 2, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&paragraaf=2&artikel=2&z=2007-07-12&g=2007-07-12), aan een persoon als bedoeld in [artikel 10.37, tweede lid, onder a of b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.37), niet zijnde een persoon als bedoeld in [artikel 2, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&paragraaf=2&artikel=2&z=2007-07-12&g=2007-07-12).
 
 ##### Artikel 6
 
@@ -140,13 +140,13 @@ In de categorieën van gevallen waarin de ingevolge [artikel 10.40, eerste lid, 
 
 3. Degene die een melding als bedoeld in [artikel 10.38, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.38) doet, meldt daarbij tevens de van toepassing zijnde code van de afvalstoffenlijst.
 
-4. [Artikel 3, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&paragraaf=2&artikel=3&z=2005-01-01&g=2005-01-01), is van overeenkomstige toepassing.
+4. [Artikel 3, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&paragraaf=2&artikel=3&z=2007-07-12&g=2007-07-12), is van overeenkomstige toepassing.
 
 ##### Artikel 7
 
-1. [Artikel 10.38, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.38) is van overeenkomstige toepassing in de categorieën van gevallen waarin een persoon als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&paragraaf=2&artikel=2&z=2005-01-01&g=2005-01-01), onder a, zich van stoffen, preparaten of andere producten, niet zijnde bedrijfsafvalstoffen of gevaarlijke afvalstoffen, ontdoet door afgifte aan een persoon als bedoeld in [artikel 10.37, tweede lid, onder a of b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.37), niet zijnde een persoon als bedoeld in [artikel 2, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&paragraaf=2&artikel=2&z=2005-01-01&g=2005-01-01).
+1. [Artikel 10.38, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.38) is van overeenkomstige toepassing in de categorieën van gevallen waarin een persoon als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&paragraaf=2&artikel=2&z=2007-07-12&g=2007-07-12), onder a, zich van stoffen, preparaten of andere producten, niet zijnde bedrijfsafvalstoffen of gevaarlijke afvalstoffen, ontdoet door afgifte aan een persoon als bedoeld in [artikel 10.37, tweede lid, onder a of b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.37), niet zijnde een persoon als bedoeld in [artikel 2, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&paragraaf=2&artikel=2&z=2007-07-12&g=2007-07-12).
 
-2. In de categorieën van gevallen, bedoeld in het eerste lid, zijn de [artikelen 3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&paragraaf=2&artikel=3&z=2005-01-01&g=2005-01-01), en [6, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&paragraaf=3&artikel=6&z=2005-01-01&g=2005-01-01), van overeenkomstige toepassing.
+2. In de categorieën van gevallen, bedoeld in het eerste lid, zijn de [artikelen 3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&paragraaf=2&artikel=3&z=2007-07-12&g=2007-07-12), en [6, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&paragraaf=3&artikel=6&z=2007-07-12&g=2007-07-12), van overeenkomstige toepassing.
 
 #### § 4. Het afvalstroomnummer
 
@@ -158,7 +158,7 @@ In de categorieën van gevallen waarin de ingevolge [artikel 10.40, eerste lid, 
 
 - b. in andere gevallen: aan degene die zich van de afvalstoffen ontdoet.
 
-2. De in het eerste lid gestelde verplichting geldt niet voor een in de aanhef van dat lid bedoelde persoon, in de categorieën van gevallen waarin het de afgifte van door route-inzameling verkregen bedrijfsafvalstoffen of gevaarlijke afvalstoffen die behoren tot een in de bijlage bij dit besluit aangegeven categorie, of de afgifte van door inzameling verkregen afvalstoffen als bedoeld in [artikel 3, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&paragraaf=2&artikel=3&z=2005-01-01&g=2005-01-01), betreft en hij voorafgaand aan de route-inzameling onderscheidenlijk de inzameling een afvalstroomnummer aan degene die zodanige afvalstoffen inzamelt, heeft verstrekt.
+2. De in het eerste lid gestelde verplichting geldt niet voor een in de aanhef van dat lid bedoelde persoon, in de categorieën van gevallen waarin het de afgifte van door route-inzameling verkregen bedrijfsafvalstoffen of gevaarlijke afvalstoffen die behoren tot een in de bijlage bij dit besluit aangegeven categorie, of de afgifte van door inzameling verkregen afvalstoffen als bedoeld in [artikel 3, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&paragraaf=2&artikel=3&z=2007-07-12&g=2007-07-12), betreft en hij voorafgaand aan de route-inzameling onderscheidenlijk de inzameling een afvalstroomnummer aan degene die zodanige afvalstoffen inzamelt, heeft verstrekt.
 
 3. Degene die door een inzameling als bedoeld in het tweede lid bedrijfsafvalstoffen of gevaarlijke afvalstoffen in ontvangst neemt en aan wie met toepassing van het tweede lid een afvalstroomnummer is verstrekt, deelt dat afvalstroomnummer mede aan degene die zich van de afvalstoffen ontdoet.
 
@@ -178,7 +178,7 @@ In de categorieën van gevallen waarin de ingevolge [artikel 10.40, eerste lid, 
 
 ##### Artikel 10
 
-1. De in [artikel 10.39, eerste lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.39) gestelde verplichting geldt niet voor de categorieën van gevallen waarin de afgifte betrekking heeft op bedrijfsafvalstoffen of gevaarlijke afvalstoffen als bedoeld in [artikel 2, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&paragraaf=2&artikel=2&z=2005-01-01&g=2005-01-01).
+1. De in [artikel 10.39, eerste lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.39) gestelde verplichting geldt niet voor de categorieën van gevallen waarin de afgifte betrekking heeft op bedrijfsafvalstoffen of gevaarlijke afvalstoffen als bedoeld in [artikel 2, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&paragraaf=2&artikel=2&z=2007-07-12&g=2007-07-12).
 
 2. Degene die een omschrijving als bedoeld in [artikel 10.39, eerste lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.39) verstrekt, vermeldt daarbij de van toepassing zijnde code van de afvalstoffenlijst.
 
@@ -192,7 +192,7 @@ In de categorieën van gevallen waarin de ingevolge [artikel 10.40, eerste lid, 
 
 1. De in de [artikelen 10.39, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.39), en [10.44, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.44) gestelde verplichtingen gelden niet voor het vervoer van:
 
-- a. bedrijfsafvalstoffen of gevaarlijke afvalstoffen, waarop de EEG-verordening overbrenging van afvalstoffen van toepassing is, dat vergezeld gaat van een begeleidend document als bedoeld in die verordening;
+- a. bedrijfsafvalstoffen of gevaarlijke afvalstoffen, waarop de EG-verordening overbrenging van afvalstoffen van toepassing is, dat vergezeld gaat van de begeleidende documenten, bedoeld in die verordening;
 
 - b. bedrijfsafvalstoffen in een motorrijtuig van de rijbewijscategorie B;
 
@@ -200,7 +200,7 @@ In de categorieën van gevallen waarin de ingevolge [artikel 10.40, eerste lid, 
 
 - d. gevaarlijke afvalstoffen in een hoeveelheid van niet meer dan 50 kilogram.
 
-2. De in [artikel 10.39, eerste lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.39) gestelde verplichting geldt evenmin in de categorieën van gevallen waarin afvalstoffen worden afgegeven aan een persoon die de afvalstoffen door route-inzameling verkrijgt of door inzameling verkrijgt ingeval de afvalstoffen behoren tot een krachtens [artikel 3, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&paragraaf=2&artikel=3&z=2005-01-01&g=2005-01-01), aangewezen categorie, en het op de afvalstoffen betrekking hebbende afvalstroomnummer met toepassing van [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&paragraaf=4&artikel=8&z=2005-01-01&g=2005-01-01), aan hem is verstrekt.
+2. De in [artikel 10.39, eerste lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.39) gestelde verplichting geldt evenmin in de categorieën van gevallen waarin afvalstoffen worden afgegeven aan een persoon die de afvalstoffen door route-inzameling verkrijgt of door inzameling verkrijgt ingeval de afvalstoffen behoren tot een krachtens [artikel 3, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&paragraaf=2&artikel=3&z=2007-07-12&g=2007-07-12), aangewezen categorie, en het op de afvalstoffen betrekking hebbende afvalstroomnummer met toepassing van [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&paragraaf=4&artikel=8&z=2007-07-12&g=2007-07-12), aan hem is verstrekt.
 
 ##### Artikel 12
 
@@ -214,7 +214,7 @@ In de categorieën van gevallen waarin de ingevolge [artikel 10.40, eerste lid, 
 
 ##### Artikel 13
 
-Indien een melding als bedoeld in [artikel 10.38, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.38), of [10.40, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.40) betrekking heeft op een afgifte die heeft plaatsgevonden op of na de inwerkingtreding van dit besluit en vóór de eerste dag van de maand volgende op die inwerkingtreding, geschiedt, in afwijking van [artikel 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&paragraaf=3&artikel=6&z=2005-01-01&g=2005-01-01), dan wel [artikel 3, vijfde lid, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&paragraaf=2&artikel=3&z=2005-01-01&g=2005-01-01), die melding uiterlijk tien weken na de datum van inwerkingtreding van dit besluit.
+Indien een melding als bedoeld in [artikel 10.38, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.38), of [10.40, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.40) betrekking heeft op een afgifte die heeft plaatsgevonden op of na de inwerkingtreding van dit besluit en vóór de eerste dag van de maand volgende op die inwerkingtreding, geschiedt, in afwijking van [artikel 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&paragraaf=3&artikel=6&z=2007-07-12&g=2007-07-12), dan wel [artikel 3, vijfde lid, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&paragraaf=2&artikel=3&z=2007-07-12&g=2007-07-12), die melding uiterlijk tien weken na de datum van inwerkingtreding van dit besluit.
 
 ##### Artikel 14
 
@@ -224,9 +224,9 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
 Dit besluit wordt aangehaald als: Besluit melden bedrijfsafvalstoffen en gevaarlijke afvalstoffen.
 
-## Bijlage. behorend bij [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&paragraaf=4&artikel=8&z=2005-01-01&g=2005-01-01)
+## Bijlage. behorend bij [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&paragraaf=4&artikel=8&z=2007-07-12&g=2007-07-12)
 
-Categorieën van gevaarlijke afvalstoffen als bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&paragraaf=4&artikel=8&z=2005-01-01&g=2005-01-01):
+Categorieën van gevaarlijke afvalstoffen als bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&paragraaf=4&artikel=8&z=2007-07-12&g=2007-07-12):
 
 - a. scheepsafvalstoffen als bedoeld in [artikel 1, eerste lid, onder d, van het Besluit inzamelen afvalstoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0016530&artikel=1);
 
