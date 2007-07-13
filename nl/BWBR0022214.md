@@ -4,7 +4,7 @@ identifier: "BWBR0022214"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2007-07-13"
-last_updated: "2007-03-19"
+last_updated: "2007-07-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022214"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ In dit besluit wordt verstaan onder:
 
 - a. de Minister: de Minister van Volksgezondheid, Welzijn en Sport;
 
-- b. de Raad: de Raad van advies, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022214&artikel=2&z=2007-07-13&g=2007-03-19).
+- b. de Raad: de Raad van advies, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022214&artikel=2&z=2007-07-13&g=2007-07-13).
 
 ##### Artikel 2
 
