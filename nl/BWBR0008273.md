@@ -4,7 +4,7 @@ identifier: "BWBR0008273"
 country: "nl"
 rank: "kb"
 publication_date: "2007-07-13"
-last_updated: "2001-12-12"
+last_updated: "2007-07-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008273"
 soort: "KB"
@@ -48,7 +48,9 @@ Als instellingen voor ontvangst van in bezit genomen splijtstoffen en ertsen als
 
 - a. de Nuclear Research and consultancy Group v.o.f. te Petten;
 
-- b. de Centrale Organisatie Voor Radioactief Afval N.V. te Borsele.
+- b. het Rijksinstituut voor Volksgezondheid en Milieuhygiëne te Bilthoven;
+
+- c. de Centrale Organisatie Voor Radioactief Afval N.V. te Borsele.
 
 ##### Artikel 2
 
