@@ -4,7 +4,7 @@ identifier: "BWBR0008499"
 country: "nl"
 rank: "amvb"
 publication_date: "2007-07-18"
-last_updated: "2005-01-01"
+last_updated: "2007-07-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008499"
 soort: "AMvB"
@@ -54,7 +54,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 2
 
-Indien een op de voet van [hoofdstuk IV van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV) vastgestelde waarde met een waardepeildatum van vóór 1 januari 2003 onherroepelijk is komen vast te staan doch binnen vijf jaren na het nemen van de beschikking terzake blijkt dat deze waarde tot een te hoog bedrag is vastgesteld, vermindert de in [artikel 1, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=1) bedoelde gemeenteambtenaar, ingeval de waarde had behoren te zijn vastgesteld op een bedrag dat ten minste 20 percent, met een minimum van € 4538, lager is dan de te hoog vastgestelde waarde, zo spoedig mogelijk bij beschikking de te hoog vastgestelde waarde.
+Indien een op de voet van [hoofdstuk IV van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV) vastgestelde waarde onherroepelijk is komen vast te staan doch binnen vijf jaren na het nemen van de beschikking terzake blijkt dat deze waarde tot een te hoog bedrag is vastgesteld, vermindert de in [artikel 1, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=1) bedoelde gemeenteambtenaar, ingeval de waarde had behoren te zijn vastgesteld op een bedrag dat ten minste 20 percent, met een minimum van € 5000, lager is dan de te hoog vastgestelde waarde, zo spoedig mogelijk bij beschikking de te hoog vastgestelde waarde.
 
 ##### Artikel 3
 
