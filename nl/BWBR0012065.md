@@ -4,7 +4,7 @@ identifier: "BWBR0012065"
 country: "nl"
 rank: "amvb"
 publication_date: "2007-07-18"
-last_updated: "2003-01-01"
+last_updated: "2007-07-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012065"
 soort: "AMvB"
@@ -80,13 +80,13 @@ Wijzigt het Uitvoeringsbesluit Invorderingswet 1990.
 
 ##### Artikel I
 
-1. Voor de toepassing van [artikel 3.127, tweede lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.127), juncto de in [Hoofdstuk 2, artikel I, onderdeel Ra, van de Invoeringswet Wet inkomstenbelasting 2001](74599) opgenomen overgangsregeling voor de inhaal van pensioentekorten, worden de in de kalenderjaren 1994 tot en met 2000 niet aangewende bedragen berekend en in aanmerking genomen als volgt:
+1. Voor de toepassing van [artikel 3.127, tweede lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.127), juncto de in [Hoofdstuk 2, artikel I, onderdeel Ra, van de Invoeringswet Wet inkomstenbelasting 2001](onbekend) opgenomen overgangsregeling voor de inhaal van pensioentekorten, worden de in de kalenderjaren 1994 tot en met 2000 niet aangewende bedragen berekend en in aanmerking genomen als volgt:
 
 - a. berekend overeenkomstig de in [artikel 3.127, eerste tot en met vierde lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.127) voor het kalenderjaar 2001 geldende grondslagen en bedragen, met dien verstande dat als bedragen, genoemd in [artikel 3.127, tweede lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.127), in aanmerking worden genomen de bedragen die gelden in het kalenderjaar waarin de niet aangewende bedragen aan premies voor lijfrenten zijn betaald of verrekend;
 
 - b. berekend op basis van het persoonlijke inkomen, zoals dat op grond van artikel 5, tweede lid, van de Wet op de inkomstenbelasting 1964, zoals dat in die jaren luidde, is vastgesteld; en
 
-- c. verminderd met de in de desbetreffende kalenderjaren gerealiseerde opbouw van pensioenaanspraken en dotaties aan de oudedagsreserve, waarbij de vermindering in verband met de opbouw van pensioenaanspraken wordt berekend op basis van de in [artikel 7 van het Uitvoeringsbesluit inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&artikel=7) opgenomen uitgangspunten.
+- c. verminderd met de in de desbetreffende kalenderjaren gerealiseerde opbouw van pensioenaanspraken en dotaties aan de oudedagsreserve, waarbij de vermindering in verband met de opbouw van pensioenaanspraken wordt berekend op basis van de in [artikel 15 van het Uitvoeringsbesluit inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&artikel=15) opgenomen uitgangspunten.
 
 Op het aldus berekende bedrag aan ruimte worden vervolgens voor de berekening van de met ingang van het kalenderjaar 2001 alsnog in aanmerking te nemen bedragen, de ingevolge artikel 45a van de Wet op de inkomstenbelasting 1964, zoals dat in die jaren luidde, in aanmerking genomen premies voor lijfrenten in mindering gebracht.
 
@@ -132,6 +132,6 @@ Wijzigt het Uitvoeringsbesluit inkomstenbelasting 2001.
 
 1. Dit besluit treedt in werking met ingang van 1 januari 2001.
 
-2. [Artikel V van hoofdstuk 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012065&hoofdstuk=1&artikel=V&z=2003-01-01&g=2003-01-01) vindt voor het eerst toepassing voor boekjaren die aanvangen op of na 1 januari 2001.
+2. [Artikel V van hoofdstuk 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012065&hoofdstuk=1&artikel=V&z=2007-07-18&g=2007-07-18) vindt voor het eerst toepassing voor boekjaren die aanvangen op of na 1 januari 2001.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
