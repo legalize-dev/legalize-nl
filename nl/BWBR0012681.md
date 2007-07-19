@@ -4,7 +4,7 @@ identifier: "BWBR0012681"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-08"
-last_updated: "2007-03-18"
+last_updated: "2007-07-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012681"
 soort: "ministeriele-regeling"
@@ -118,13 +118,17 @@ Als gespen behorende bij de Herinneringsmedaille Vredesoperaties worden ingestel
 
 - 5°. de United Nations Mission in Sudan ‘UNMIS’, voor zover deze deelname heeft plaatsgehad op het grondgebied van en in het luchtruim boven de republiek Soedan;
 
-- 6°. de United Nations Interim Force in Lebanon, voor zover deze deelname heeft plaatsgehad op het grondgebied van Libanon, in het luchtruim daarboven en in de aangrenzende wateren van de Middellandse Zee: VN OPERATIES;
+- 6°. de United Nations Interim Force in Lebanon, voor zover deze deelname heeft plaatsgehad op het grondgebied van Libanon, in het luchtruim daarboven en in de aangrenzende wateren van de Middellandse Zee;
+
+- 7°. de missie ten behoeve van het Bureau Intégré des Nations Unies au Burundi ‘BINUB’, voor zover deze deelname heeft plaatsgehad op het grondgebied van en in het luchtruim boven de republiek Burundi: VN OPERATIES;
 
 - dd. voor deelname aan operaties van de Noord Atlantische Verdrags Organisatie:
 
 - 1°. de NATO Training Implementation Mission-Iraq ‘NTIM-I’, voor zover deze deelname heeft plaatsgehad op het grondgebied van en in het luchtruim boven Irak;
 
-- 2°. de NATO Training Mission-Iraq ‘NTM-I’, voor zover deze deelname heeft plaatsgehad op het grondgebied van en in het luchtruim boven Irak: NAVO OPERATIES;
+- 2°. de NATO Training Mission-Iraq ‘NTM-I’, voor zover deze deelname heeft plaatsgehad op het grondgebied van en in het luchtruim boven Irak;
+
+- 3°. de operatie Active Endeavour, voor zover deze deelname heeft plaatsgehad in het zeegebied van de Middellandse Zee: NAVO OPERATIES;
 
 - ee. voor deelname aan operaties van de Europese Unie:
 
