@@ -4,7 +4,7 @@ identifier: "BWBR0019584"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2013-12-15"
-last_updated: "2006-11-12"
+last_updated: "2007-07-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019584"
 soort: "ministeriele-regeling"
@@ -118,7 +118,7 @@ De minister kan op aanvraag een eenmalige specifieke uitkering ten behoeve van e
 
 2. De aanvraag voor een uitkering wordt aan de minister gericht en ingediend bij het Directoraat Generaal Personenvervoer.
 
-3. De aanvraag bevat ten minste een volledig ingevuld aanvraagformulier, zoals opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019584&bijlage=1&z=2006-11-12&g=2006-11-12) van deze regeling en is ondertekend door het bestuur van de gemeente.
+3. De aanvraag bevat ten minste een volledig ingevuld aanvraagformulier, zoals opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019584&bijlage=1&z=2007-07-20&g=2007-07-20) van deze regeling en is ondertekend door het bestuur van de gemeente.
 
 4. De minister kan bepalen dat er in aanvulling op de in het derde lid bedoelde gegevens, andere voor de beoordeling van de aanvraag noodzakelijke gegevens worden overgelegd.
 
@@ -142,7 +142,7 @@ De minister kan op aanvraag een eenmalige specifieke uitkering ten behoeve van e
 
 ##### Artikel 7. Procedure
 
-1. Na het verstrijken van de periode van indiening, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0019584&artikel=5&z=2006-11-12&g=2006-11-12), worden de aanvragen in rangorde geplaatst. Daarbij worden de aanvragen beoordeeld naar de mate waarin de voorgestelde projecten voldoen aan de volgende criteria:
+1. Na het verstrijken van de periode van indiening, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0019584&artikel=5&z=2007-07-20&g=2007-07-20), worden de aanvragen in rangorde geplaatst. Daarbij worden de aanvragen beoordeeld naar de mate waarin de voorgestelde projecten voldoen aan de volgende criteria:
 
 - a. de bijdrage aan stedelijke bereikbaarheid;
 
@@ -152,7 +152,7 @@ De minister kan op aanvraag een eenmalige specifieke uitkering ten behoeve van e
 
 - d. de bijdrage aan het spoorgebruik.
 
-2. De criteria bedoeld in het eerste lid, zijn nader uitgewerkt in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019584&bijlage=2&z=2006-11-12&g=2006-11-12) bij deze regeling.
+2. De criteria bedoeld in het eerste lid, zijn nader uitgewerkt in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019584&bijlage=2&z=2007-07-20&g=2007-07-20) bij deze regeling.
 
 3. Om in de rangorde te kunnen worden opgenomen dient het project in ieder geval een bijdrage te leveren aan de stedelijke bereikbaarheid en een bijdrage aan een van de andere criteria bedoeld in het eerste lid.
 
@@ -170,7 +170,7 @@ De minister kan op aanvraag een eenmalige specifieke uitkering ten behoeve van e
 
 2. De uitkering wordt toegekend onder de voorwaarde dat voor het deel van de uitkering dat ten laste van een nog niet vastgestelde begroting komt, voldoende gelden ter beschikking worden gesteld.
 
-3. De verstrekte uitkering wordt jaarlijks geïndexeerd overeenkomstig [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019584&artikel=3&z=2006-11-12&g=2006-11-12).
+3. De verstrekte uitkering wordt jaarlijks geïndexeerd overeenkomstig [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019584&artikel=3&z=2007-07-20&g=2007-07-20).
 
 ##### Artikel 9. Verplichtingen bij verstrekken van de uitkering
 
@@ -218,17 +218,17 @@ De minister kan bij de verstrekking van de uitkering verplichtingen opleggen met
 
 1. [Artikel 4:57 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:57) is van overeenkomstige toepassing.
 
-2. Bij vaststelling van de uitkering wordt bepaald dat over onverschuldigd betaalde uitkeringsbedragen de rente verschuldigd is welke, ingevolge [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019584&artikel=11&z=2006-11-12&g=2006-11-12), door de Minister van Financiën aan de uitkeringsontvanger is vergoed, vanaf het moment van betaling van het voorschot.
+2. Bij vaststelling van de uitkering wordt bepaald dat over onverschuldigd betaalde uitkeringsbedragen de rente verschuldigd is welke, ingevolge [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019584&artikel=11&z=2007-07-20&g=2007-07-20), door de Minister van Financiën aan de uitkeringsontvanger is vergoed, vanaf het moment van betaling van het voorschot.
 
 ##### Artikel 15. Duur regeling
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en vervalt met ingang van 1 augustus 2007, met dien verstande dat zij van toepassing blijft op uitkeringen die voor die datum zijn verstrekt.
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
 ##### Artikel 16. Titel regeling
 
 Deze regeling wordt aangehaald als: Regeling eenmalige uitkering spoorse doorsnijdingen.
 
-## Bijlage 1. als bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019584&artikel=5&z=2006-11-12&g=2006-11-12), van de Regeling eenmalige uitkering spoorse doorsnijdingen
+## Bijlage 1. als bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019584&artikel=5&z=2007-07-20&g=2007-07-20), van de Regeling eenmalige uitkering spoorse doorsnijdingen
 
 ## Bijlage 2. als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019584&artikel=7&z=2006-02-23&g=2006-02-23)
 
@@ -348,7 +348,7 @@ Wat is het effect van de maatregelen op de kosten van beheer en instandhouding v
 
 Opmerking: Indien het niet mogelijk is deze gegevens voor 1 juni 2006 te leveren, zullen deze op verzoek van de minister ten behoeve van de beoordeling door ProRail worden bepaald.
 
-## Bijlage 2. als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019584&artikel=7&z=2006-11-12&g=2006-11-12)
+## Bijlage 2. als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019584&artikel=7&z=2007-07-20&g=2007-07-20)
 
 ### **A. Stedelijke bereikbaarheid**
 
