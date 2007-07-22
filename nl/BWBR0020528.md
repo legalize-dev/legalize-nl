@@ -4,7 +4,7 @@ identifier: "BWBR0020528"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-04-01"
-last_updated: "2007-01-01"
+last_updated: "2007-07-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020528"
 soort: "ministeriele-regeling"
@@ -58,9 +58,11 @@ Als staat in de zin van [artikel 2:66, eerste lid, van de Wet op het financieel 
 
 - c. Jersey;
 
-- d. Luxemburg; en
+- d. Luxemburg;
 
-- e. de Verenigde Staten van Amerika, voorzover het betreft het toezicht op belegginginstellingen die bij de Securities and Exchange Commission zijn geregistreerd.
+- e. Malta; en
+
+- f. de Verenigde Staten van Amerika, voorzover het betreft het toezicht op belegginginstellingen die bij de Securities and Exchange Commission zijn geregistreerd.
 
 ##### Artikel 3
 
