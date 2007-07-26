@@ -4,7 +4,7 @@ identifier: "BWBR0022302"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2008-03-01"
-last_updated: "2007-01-01"
+last_updated: "2007-07-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022302"
 soort: "ministeriele-regeling"
@@ -44,11 +44,11 @@ De ambtenaren van de Inspectie Verkeer en Waterstaat, bedoeld in [artikel 10, vi
 
 ##### Artikel 2
 
-1. Jaarlijks rapporteert de Inspectie Verkeer en Waterstaat voor 1 april schriftelijk aan de Minister van Sociale Zaken en Werkgelegenheid over de werkzaamheden die in het voorafgaande kalenderjaar in het kader van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022302&artikel=1&z=2007-07-26&g=2007-01-01) genoemde aanwijzing zijn verricht.
+1. Jaarlijks rapporteert de Inspectie Verkeer en Waterstaat voor 1 april schriftelijk aan de Minister van Sociale Zaken en Werkgelegenheid over de werkzaamheden die in het voorafgaande kalenderjaar in het kader van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022302&artikel=1&z=2007-07-26&g=2007-07-26) genoemde aanwijzing zijn verricht.
 
 2. De rapportage gaat vergezeld van een advies over de te nemen maatregelen.
 
-3. Op verzoek van de Minister van Sociale Zaken en Werkgelegenheid verstrekt de Inspectie Verkeer en Waterstaat alle door deze gevraagde gegevens en inlichtingen met betrekking tot het bepaalde in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022302&artikel=1&z=2007-07-26&g=2007-01-01).
+3. Op verzoek van de Minister van Sociale Zaken en Werkgelegenheid verstrekt de Inspectie Verkeer en Waterstaat alle door deze gevraagde gegevens en inlichtingen met betrekking tot het bepaalde in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022302&artikel=1&z=2007-07-26&g=2007-07-26).
 
 ##### Artikel 3
 
