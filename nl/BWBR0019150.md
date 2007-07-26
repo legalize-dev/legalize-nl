@@ -4,7 +4,7 @@ identifier: "BWBR0019150"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2007-07-01"
+last_updated: "2007-07-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019150"
 soort: "ministeriele-regeling"
@@ -234,13 +234,13 @@ De sector uitzendbedrijven wordt ingedeeld in de volgende sectoronderdelen, bedo
 
 ##### Artikel 3.8. Vaststelling WW-deel van het sectorpremiepercentage
 
-1. Het op grond van [artikel 2.2, eerste lid, van het Besluit Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=2.2) vastgestelde deel van het sectorpremiepercentage ter dekking van de werkloosheidslasten voor de sector uitzendbedrijven, wordt verschillend vastgesteld voor de sectoronderdelen, genoemd in [artikel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.6&z=2007-01-01&g=2007-07-01).
+1. Het op grond van [artikel 2.2, eerste lid, van het Besluit Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=2.2) vastgestelde deel van het sectorpremiepercentage ter dekking van de werkloosheidslasten voor de sector uitzendbedrijven, wordt verschillend vastgesteld voor de sectoronderdelen, genoemd in [artikel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.6&z=2007-07-26&g=2007-07-26).
 
 2. Per sectoronderdeel wordt het gewogen gemiddelde vastgesteld van het percentage, bedoeld in het eerste lid.
 
 ##### Artikel 3.9. Vaststelling ZW-deel van het wachtgeldpremiepercentage
 
-1. Het op grond van [artikel 2.2, tweede lid, van het Besluit Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=2.2) vastgestelde opslagpercentage ter dekking van de ziekengeldlasten voor de sector uitzendbedrijven, wordt verschillend vastgesteld voor de subpremiegroepen, genoemd in [artikel 3.6, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.6&z=2007-01-01&g=2007-07-01).
+1. Het op grond van [artikel 2.2, tweede lid, van het Besluit Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=2.2) vastgestelde opslagpercentage ter dekking van de ziekengeldlasten voor de sector uitzendbedrijven, wordt verschillend vastgesteld voor de subpremiegroepen, genoemd in [artikel 3.6, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.6&z=2007-07-26&g=2007-07-26).
 
 2. Per sectoronderdeel wordt een gewogen gemiddelde vastgesteld van het percentage, bedoeld in het eerste lid.
 
@@ -252,11 +252,11 @@ De sector grafische industrie wordt ingedeeld in de volgende sectoronderdelen, b
 
 - a. de grafische industrie exclusief het fotografisch bedrijf, bedoeld in onderdeel b;
 
-- b. het fotografisch bedrijf, al of niet verbonden met een detailhandel in fotoartikelen, bedoeld in sector 9, onderdeel 5, zoals opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&bijlage=1&z=2007-01-01&g=2007-07-01) bij deze regeling.
+- b. het fotografisch bedrijf, al of niet verbonden met een detailhandel in fotoartikelen, bedoeld in sector 9, onderdeel 5, zoals opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&bijlage=1&z=2007-07-26&g=2007-07-26) bij deze regeling.
 
 ##### Artikel 3.11. Vaststelling WW-deel en ZW-deel van het sectorpremiepercentage
 
-1. Het op grond van [artikel 2.2, eerste lid, van het Besluit Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=2.2) vastgestelde deel van het sectorpremiepercentage ter dekking van de werkloosheidslasten en het op grond van [artikel 2.2, tweede lid, van het Besluit Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=2.2) vastgestelde opslagpercentage ter dekking van de ziekengeldlasten voor de sector grafische industrie, worden verschillend vastgesteld voor de sectoronderdelen, genoemd in [artikel 3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3.10&z=2007-01-01&g=2007-07-01).
+1. Het op grond van [artikel 2.2, eerste lid, van het Besluit Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=2.2) vastgestelde deel van het sectorpremiepercentage ter dekking van de werkloosheidslasten en het op grond van [artikel 2.2, tweede lid, van het Besluit Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=2.2) vastgestelde opslagpercentage ter dekking van de ziekengeldlasten voor de sector grafische industrie, worden verschillend vastgesteld voor de sectoronderdelen, genoemd in [artikel 3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3.10&z=2007-07-26&g=2007-07-26).
 
 2. Het deel van het sectorpremiepercentage ter dekking van de werkloosheidslasten wordt per sectoronderdeel berekend aan de hand van het gemiddelde risico per sectoronderdeel over de laatste vier jaar.
 
@@ -288,9 +288,21 @@ De sector grafische industrie wordt ingedeeld in de volgende sectoronderdelen, b
 
 - a. de werknemer die bij het begin van het kalenderkwartaal recht heeft op een gift, een voorwaardelijke gift of een prestatiebeurs op grond van de [Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453) of de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682);
 
-- b. de werknemer die bij het begin van het kalenderkwartaal recht heeft op een tegemoetkoming in de studiekosten op grond van hoofdstuk III van de Wet tegemoetkoming studiekosten.
+- b. de werknemer die bij het begin van het kalenderkwartaal recht heeft op een tegemoetkoming op grond van [hoofdstuk 4 van de Wet tegemoetkoming onderwijsbijdrage en schoolkosten](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=4);
 
-3. Voor de toepassing van het eerste lid, onderdeel a, bewaart de werkgever de bijlage scholieren en studenten bij de loonbelastingverklaring bij de loonadministratie.
+- c. de werknemer voor wie bij het begin van het kalenderkwartaal recht bestaat op kinderbijslag op grond van de [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368);
+
+- d. de werknemer die bij het begin van het kalenderkwartaal staat ingeschreven bij een onderwijsinstelling waar hij een voltijdse opleiding volgt en die inwoner is van een lidstaat van de Europese Unie, van een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte of van Zwitserland.
+
+3. Voor de toepassing van het eerste lid, onderdeel a, bewaart de werkgever bij zijn loonadministratie een schriftelijke door de werknemer gedagtekende en ondertekende verklaring dat ten zijnen aanzien het kalenderkwartaal als loontijdvak kan worden aangemerkt alsmede:
+
+- a. ingeval het tweede lid, onderdeel a van toepassing is, het correspondentienummer;
+
+- b. ingeval het tweede lid, onderdeel b van toepassing is, het onderwijsnummer;
+
+- c. ingeval het tweede lid, onderdeel c van toepassing is, het registratienummer;
+
+- d. ingeval het tweede lid, onderdeel d van toepassing is, een kopie van een internationale studentenkaart als bedoeld in [artikel 64, tweede lid, onderdeel d, van de Uitvoeringsregeling loonbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012059&artikel=64).
 
 4. Voor de toepassing van het eerste lid, onderdeel b, bewaart de werkgever een afschrift van de in dat onderdeel genoemde overeenkomst bij de loonadministratie.
 
@@ -332,7 +344,7 @@ In deze afdeling wordt verstaan onder eigenrisicodrager: de werkgever aan wie op
 
 ##### Artikel 3.18
 
-In afwijking van [artikel 3.17](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=3&afdeling=4&artikel=3.17&z=2007-01-01&g=2007-07-01) is de eigenrisicodrager in het jaar 2006 bevoegd, met toepassing van [artikel 34, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=34), en [artikel 122b van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=122b) de door hem verschuldigde basispremie WGA, bedoeld in [artikel 122b van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=122b), tot ten hoogste de helft op een werknemer te verhalen.
+In afwijking van [artikel 3.17](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=3&afdeling=4&artikel=3.17&z=2007-07-26&g=2007-07-26) is de eigenrisicodrager in het jaar 2006 bevoegd, met toepassing van [artikel 34, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=34), en [artikel 122b van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=122b) de door hem verschuldigde basispremie WGA, bedoeld in [artikel 122b van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=122b), tot ten hoogste de helft op een werknemer te verhalen.
 
 ### Afdeling 5. Premievrijstellingen en premiekorting
 
@@ -392,11 +404,11 @@ In afwijking van [artikel 3.17](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&
 
 1. Wanneer het verzoek een rechtspersoon betreft, wordt de verklaring ingediend bij de SVB door het op grond van een wettelijk voorschrift of statuten van die rechtspersoon daartoe bevoegde orgaan.
 
-2. Onverminderd [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=4&artikel=4.2&z=2007-01-01&g=2007-07-01) houdt de verklaring, bedoeld in het eerste lid, tevens in, dat de natuurlijke personen, die behoren tot het orgaan, dat op grond van een wettelijk voorschrift of de statuten bevoegd is te besluiten de ontheffing aan te vragen, in meerderheid overwegende gemoedsbezwaren hebben.
+2. Onverminderd [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=4&artikel=4.2&z=2007-07-26&g=2007-07-26) houdt de verklaring, bedoeld in het eerste lid, tevens in, dat de natuurlijke personen, die behoren tot het orgaan, dat op grond van een wettelijk voorschrift of de statuten bevoegd is te besluiten de ontheffing aan te vragen, in meerderheid overwegende gemoedsbezwaren hebben.
 
 3. Bij het verzoek, bedoeld in het eerste lid, worden gevoegd:
 
-- a. een afschrift van de aan elk van de tot de in het tweede lid bedoelde meerderheid behorende natuurlijke personen verleende ontheffing, bedoeld in [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=4&artikel=4.1&z=2007-01-01&g=2007-07-01);
+- a. een afschrift van de aan elk van de tot de in het tweede lid bedoelde meerderheid behorende natuurlijke personen verleende ontheffing, bedoeld in [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=4&artikel=4.1&z=2007-07-26&g=2007-07-26);
 
 - b. een gewaarmerkt afschrift van de statuten van de rechtspersoon, en
 
@@ -432,7 +444,7 @@ Degene, die is ontheven van zijn verplichtingen als werkgever, is verplicht te z
 
 - b. indien naar het oordeel van de SVB de gemoedsbezwaren, op grond waarvan de ontheffing is verleend, niet langer geacht kunnen worden te bestaan.
 
-2. De ontheffing kan worden ingetrokken, indien verplichtingen, die nog op de degene aan wie ontheffing is verleend rusten ingevolge de in [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=4&artikel=4.1&z=2007-01-01&g=2007-07-01) genoemde wetten, of die hem bij deze regeling zijn opgelegd, niet door hem worden nageleefd.
+2. De ontheffing kan worden ingetrokken, indien verplichtingen, die nog op de degene aan wie ontheffing is verleend rusten ingevolge de in [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=4&artikel=4.1&z=2007-07-26&g=2007-07-26) genoemde wetten, of die hem bij deze regeling zijn opgelegd, niet door hem worden nageleefd.
 
 3. De SVB kan bij de intrekking tevens bepalen, dat een verzoek om ontheffing gedaan binnen twee jaren na de dagtekening van de intrekking, enkel op die grond niet-ontvankelijk kan worden verklaard.
 
@@ -442,7 +454,7 @@ Degene, die is ontheven van zijn verplichtingen als werkgever, is verplicht te z
 
 6. Ten aanzien van de werknemer, die niet aan de loonbelasting is onderworpen, wordt eenzelfde mededeling als bedoeld in het vorige lid gedaan aan diens werkgever.
 
-7. [Artikel 4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=4&artikel=4.9&z=2007-01-01&g=2007-07-01) vindt overeenkomstige toepassing ten aanzien van de mededeling van de intrekking van de ontheffing.
+7. [Artikel 4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=4&artikel=4.9&z=2007-07-26&g=2007-07-26) vindt overeenkomstige toepassing ten aanzien van de mededeling van de intrekking van de ontheffing.
 
 8. Onverminderd het overigens in dit artikel bepaalde vervalt de ontheffing, die is verleend aan een rechtspersoon, na verloop van vijf jaar na de datum van ingang van de ontheffing. Met ingang van de datum, waarop een ontheffing is vervallen, kan een nieuwe ontheffing worden verleend.
 
@@ -594,13 +606,13 @@ Het bedrijfs- en beroepsleven wordt ingedeeld in de volgende genummerde sectoren
 
 - 69. Telecommunicatie
 
-##### Artikel 5.2. Werkzaamheden in [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&bijlage=1&z=2007-01-01&g=2007-07-01)
+##### Artikel 5.2. Werkzaamheden in [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&bijlage=1&z=2007-07-26&g=2007-07-26)
 
-Tot elke sector van het bedrijfs- en beroepsleven worden gerekend de werkzaamheden, verricht in de takken van bedrijf of beroep of gedeelten daarvan, welke in de bij deze regeling behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&bijlage=1&z=2007-01-01&g=2007-07-01) zijn vermeld. Werkzaamheden die een overheidswerkgever als werkgever doet verrichten, worden gerekend tot een van de sectoren 61 tot en met 66.
+Tot elke sector van het bedrijfs- en beroepsleven worden gerekend de werkzaamheden, verricht in de takken van bedrijf of beroep of gedeelten daarvan, welke in de bij deze regeling behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&bijlage=1&z=2007-07-26&g=2007-07-26) zijn vermeld. Werkzaamheden die een overheidswerkgever als werkgever doet verrichten, worden gerekend tot een van de sectoren 61 tot en met 66.
 
-##### Artikel 5.3. Werkzaamheden niet in [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&bijlage=1&z=2007-01-01&g=2007-07-01)
+##### Artikel 5.3. Werkzaamheden niet in [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&bijlage=1&z=2007-07-26&g=2007-07-26)
 
-Werkzaamheden, verricht in takken van bedrijf en beroep, welke niet in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&bijlage=1&z=2007-01-01&g=2007-07-01) bij deze regeling zijn vermeld, worden geacht te behoren tot een sector van het bedrijfs- en beroepsleven, waartoe takken van bedrijf en beroep behoren, waarin werkzaamheden worden verricht, welke naar de aard het meest met de eerstbedoelde werkzaamheden overeenkomen.
+Werkzaamheden, verricht in takken van bedrijf en beroep, welke niet in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&bijlage=1&z=2007-07-26&g=2007-07-26) bij deze regeling zijn vermeld, worden geacht te behoren tot een sector van het bedrijfs- en beroepsleven, waartoe takken van bedrijf en beroep behoren, waarin werkzaamheden worden verricht, welke naar de aard het meest met de eerstbedoelde werkzaamheden overeenkomen.
 
 ##### Artikel 5.4. Concernregelen en aansluiting van nevenbedrijven en neveninstellingen
 
@@ -632,7 +644,7 @@ Werkzaamheden, verricht in takken van bedrijf en beroep, welke niet in [bijlage 
 
 ##### Artikel 5.7. Generaalpardonregeling
 
-1. Een werkgever als bedoeld in [artikel 5.6](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=1&paragraaf=1&artikel=5.6&z=2007-01-01&g=2007-07-01) of de ondernemingsraad die aan de onderneming van die werkgever is verbonden, kan aan de inspecteur verzoeken te beslissen dat die werkgever is aangesloten bij die sector waarbij hij op grond van [artikel 5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=1&paragraaf=1&artikel=5.5&z=2007-01-01&g=2007-07-01) en zonder het bepaalde in [artikel 5.6](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=1&paragraaf=1&artikel=5.6&z=2007-01-01&g=2007-07-01) zou zijn aangesloten.
+1. Een werkgever als bedoeld in [artikel 5.6](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=1&paragraaf=1&artikel=5.6&z=2007-07-26&g=2007-07-26) of de ondernemingsraad die aan de onderneming van die werkgever is verbonden, kan aan de inspecteur verzoeken te beslissen dat die werkgever is aangesloten bij die sector waarbij hij op grond van [artikel 5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=1&paragraaf=1&artikel=5.5&z=2007-07-26&g=2007-07-26) en zonder het bepaalde in [artikel 5.6](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=1&paragraaf=1&artikel=5.6&z=2007-07-26&g=2007-07-26) zou zijn aangesloten.
 
 2. Een verzoek als bedoeld in het eerste lid, wordt ingewilligd indien tussen de werkgever en de aan zijn onderneming verbonden ondernemingsraad daarover overeenstemming bestaat.
 
@@ -662,17 +674,17 @@ Werkzaamheden, verricht in takken van bedrijf en beroep, welke niet in [bijlage 
 
 ##### Artikel 5.10. Informatieverplichting SVB
 
-Binnen twee maanden na afloop van enig kalenderjaar verstrekt de SVB aan het UWV een lijst met namen van de werknemers, bedoeld in [artikel 5.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=1&paragraaf=2&artikel=5.9&z=2007-01-01&g=2007-07-01), alsmede een overzicht van de aan hen in dat jaar verstrekte remigratiebijdragen.
+Binnen twee maanden na afloop van enig kalenderjaar verstrekt de SVB aan het UWV een lijst met namen van de werknemers, bedoeld in [artikel 5.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=1&paragraaf=2&artikel=5.9&z=2007-07-26&g=2007-07-26), alsmede een overzicht van de aan hen in dat jaar verstrekte remigratiebijdragen.
 
 ##### Artikel 5.11. Betalingsverplichting UWV
 
-Binnen zes maanden na afloop van het kalenderjaar, bedoeld in [artikel 5.10](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=1&paragraaf=2&artikel=5.10&z=2007-01-01&g=2007-07-01), betaalt het UWV de vergoeding, bedoeld in [artikel 5.9](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=1&paragraaf=2&artikel=5.9&z=2007-01-01&g=2007-07-01), onder overlegging van een lijst met namen van de personen op wie de vergoeding betrekking heeft.
+Binnen zes maanden na afloop van het kalenderjaar, bedoeld in [artikel 5.10](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=1&paragraaf=2&artikel=5.10&z=2007-07-26&g=2007-07-26), betaalt het UWV de vergoeding, bedoeld in [artikel 5.9](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=1&paragraaf=2&artikel=5.9&z=2007-07-26&g=2007-07-26), onder overlegging van een lijst met namen van de personen op wie de vergoeding betrekking heeft.
 
 #### § 3. Reserve-vorming
 
 ##### Artikel 5.12. Begripsbepalingen
 
-1. In [artikel 5.13](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=1&paragraaf=3&artikel=5.13&z=2007-01-01&g=2007-07-01) wordt verstaan onder:
+1. In [artikel 5.13](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=1&paragraaf=3&artikel=5.13&z=2007-07-26&g=2007-07-26) wordt verstaan onder:
 
 - a. de verzekerde loonsom: het totaalbedrag van het loon, bedoeld in [artikel 26 van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=26), waarover het UWV in een kalenderjaar de premies ten gunste van het Algemeen Werkloosheidsfonds zou ontvangen, indien [artikel 17, tweede lid, van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=17) buiten toepassing zou blijven;
 
@@ -680,7 +692,7 @@ Binnen zes maanden na afloop van het kalenderjaar, bedoeld in [artikel 5.10](htt
 
 - c. de drempelwaarde: 0,2 procentpunt.
 
-2. In [artikel 5.14](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=1&paragraaf=3&artikel=5.14&z=2007-01-01&g=2007-07-01) wordt verstaan onder:
+2. In [artikel 5.14](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=1&paragraaf=3&artikel=5.14&z=2007-07-26&g=2007-07-26) wordt verstaan onder:
 
 - a. de verzekerde loonsom: het totaalbedrag van het loon, bedoeld in [artikel 26 van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=26), waarover het UWV in een kalenderjaar de premies ten gunste van een sectorfonds ontvangt, met uitzondering van het loon, waarop [artikel 28, tweede lid, van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=28) van toepassing is;
 
@@ -690,7 +702,7 @@ Binnen zes maanden na afloop van het kalenderjaar, bedoeld in [artikel 5.10](htt
 
 - d. de drempelwaarde: tot 1996 0,2 procentpunt, daarna 0,4 procentpunt.
 
-3. In de [artikelen 5.13](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=1&paragraaf=3&artikel=5.13&z=2007-01-01&g=2007-07-01) en[5.14](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=1&paragraaf=3&artikel=5.14&z=2007-01-01&g=2007-07-01) wordt verstaan onder:
+3. In de [artikelen 5.13](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=1&paragraaf=3&artikel=5.13&z=2007-07-26&g=2007-07-26) en[5.14](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=1&paragraaf=3&artikel=5.14&z=2007-07-26&g=2007-07-26) wordt verstaan onder:
 
 - a. het lastenpercentage: het percentage van de verzekerde loonsom in een kalenderjaar waarin de werkloosheidslasten van dat kalenderjaar tot uitdrukking komen;
 
@@ -710,9 +722,9 @@ Binnen zes maanden na afloop van het kalenderjaar, bedoeld in [artikel 5.10](htt
 
 3. Het UWV wijst, met inachtneming van het vierde lid, de sectorfondsen aan waarvoor een reserve voor de werkloosheidslasten wordt gevormd en instandgehouden.
 
-4. Een reserve voor de werkloosheidslasten wordt niet gevormd en instandgehouden als niet wordt voldaan aan de voorwaarden als bedoeld in [artikel 5.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=1&paragraaf=3&artikel=5.13&z=2007-01-01&g=2007-07-01), onder toepassing van [artikel 5.12, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=1&paragraaf=3&artikel=5.12&z=2007-01-01&g=2007-07-01).
+4. Een reserve voor de werkloosheidslasten wordt niet gevormd en instandgehouden als niet wordt voldaan aan de voorwaarden als bedoeld in [artikel 5.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=1&paragraaf=3&artikel=5.13&z=2007-07-26&g=2007-07-26), onder toepassing van [artikel 5.12, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=1&paragraaf=3&artikel=5.12&z=2007-07-26&g=2007-07-26).
 
-5. [Artikel 5.13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=1&paragraaf=3&artikel=5.13&z=2007-01-01&g=2007-07-01), is van overeenkomstige toepassing op de omvang van de reserve voor de werkloosheidslasten, onder toepassing van [artikel 5.12, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=1&paragraaf=3&artikel=5.12&z=2007-01-01&g=2007-07-01).
+5. [Artikel 5.13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=1&paragraaf=3&artikel=5.13&z=2007-07-26&g=2007-07-26), is van overeenkomstige toepassing op de omvang van de reserve voor de werkloosheidslasten, onder toepassing van [artikel 5.12, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=1&paragraaf=3&artikel=5.12&z=2007-07-26&g=2007-07-26).
 
 6. Bij de toepassing van het vierde lid wordt de wijziging van het lastenpercentage van de werkloosheidslasten in 1996 op nihil gesteld en worden de lastenpercentages in 1998 herberekend met een correctiefactor die door het UWV per sector is vastgesteld.
 
@@ -720,7 +732,7 @@ Binnen zes maanden na afloop van het kalenderjaar, bedoeld in [artikel 5.10](htt
 
 ##### Artikel 5.15. Begripsbepalingen
 
-In deze afdeling en [afdeling 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&z=2007-01-01&g=2007-07-01) wordt verstaan onder:
+In deze afdeling en [afdeling 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&z=2007-07-26&g=2007-07-26) wordt verstaan onder:
 
 - a. een rekening-courant: een rekening in de centrale administratie van ’s Rijks schatkist bij het ministerie van Financiën op naam van een rekening-couranthouder, waarop dagelijks het geldelijk tegoed (positief of negatief) wordt bijgehouden van de betrokken rekening-couranthouder bij het Rijk en de mutaties in het tegoed;
 
@@ -752,7 +764,7 @@ In de centrale administratie van 's Rijks schatkist worden de volgende rekeninge
 
 - b. de afdrachten van de door de rijksbelastingdienst geïnde premies aan de rekening-couranthouders ten behoeve van de desbetreffende fondsen;
 
-- c. de creditrente, bedoeld in [artikel 5.18, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=2&artikel=5.18&z=2007-01-01&g=2007-07-01);
+- c. de creditrente, bedoeld in [artikel 5.18, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=2&artikel=5.18&z=2007-07-26&g=2007-07-26);
 
 - d. de bijschrijvingen op het tegoed van ’s Rijks schatkist bij een bankinstelling door de rekening-couranthouders.
 
@@ -762,7 +774,7 @@ In de centrale administratie van 's Rijks schatkist worden de volgende rekeninge
 
 - b. de eventuele terugbetalingen aan de rijksbelastingdienst samenhangende met de afdrachten, bedoeld in het eerste lid, onderdeel b;
 
-- c. de debetrente, bedoeld in [artikel 5.18, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=2&artikel=5.18&z=2007-01-01&g=2007-07-01);
+- c. de debetrente, bedoeld in [artikel 5.18, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=2&artikel=5.18&z=2007-07-26&g=2007-07-26);
 
 - d. de afschrijvingen van het tegoed van ’s Rijks schatkist bij een bankinstelling door de rekening-couranthouders.
 
@@ -814,7 +826,7 @@ De rekening-couranthouder is bevoegd een bedrag van ten hoogste € 2,5 miljoen 
 
 ##### Artikel 5.22. Rapportageverplichting rijksbelastingdienst
 
-1. De rijksbelastingdienst rapporteert uiterlijk de tiende werkdag na afloop van de maand over de opbrengsten, bedoeld in de [artikelen 5.20](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=2&artikel=5.20&z=2007-01-01&g=2007-07-01) en [5.21](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=2&artikel=5.21&z=2007-01-01&g=2007-07-01) aan de Minister van Financiën en de SVB, het UWV en het College zorgverzekeringen.
+1. De rijksbelastingdienst rapporteert uiterlijk de tiende werkdag na afloop van de maand over de opbrengsten, bedoeld in de [artikelen 5.20](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=2&artikel=5.20&z=2007-07-26&g=2007-07-26) en [5.21](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=2&artikel=5.21&z=2007-07-26&g=2007-07-26) aan de Minister van Financiën en de SVB, het UWV en het College zorgverzekeringen.
 
 2. In afwijking van het eerste lid vindt de rapportage over de laatste maand van het kalenderjaar uiterlijk de vijftiende werkdag na afloop van het kalenderjaar plaats.
 
@@ -854,13 +866,13 @@ In deze afdeling wordt verstaan onder:
 
 ##### Artikel 5.25. Afdracht
 
-1. Met als valutadag de eerste dag van elke maand stort de Minister van Sociale Zaken en Werkgelegenheid het bedrag van de geraamde uitgaven met betrekking tot het Algemeen Kinderbijslagfonds in die maand op de rekening-courant, bedoeld in [artikel 5.16, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=2&artikel=5.16&z=2007-01-01&g=2007-07-01). De Minister van Sociale Zaken en Werkgelegenheid kan, na overleg met de SVB, van het geraamde bedrag afwijken.
+1. Met als valutadag de eerste dag van elke maand stort de Minister van Sociale Zaken en Werkgelegenheid het bedrag van de geraamde uitgaven met betrekking tot het Algemeen Kinderbijslagfonds in die maand op de rekening-courant, bedoeld in [artikel 5.16, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=2&artikel=5.16&z=2007-07-26&g=2007-07-26). De Minister van Sociale Zaken en Werkgelegenheid kan, na overleg met de SVB, van het geraamde bedrag afwijken.
 
 2. Met als valutadag de eerste dag van elk kwartaal verrekent de Minister van Sociale Zaken en Werkgelegenheid het verschil tussen de gerealiseerde uitgaven en de geraamde uitgaven over het kwartaal gelegen twee kwartalen voor dat kwartaal met het bedrag, bedoeld in het eerste lid.
 
 ##### Artikel 5.26. Specificatie raming
 
-1. In de raming, bedoeld in [artikel 5.24, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=2&artikel=5.24&z=2007-01-01&g=2007-07-01), wordt afzonderlijk vermeld:
+1. In de raming, bedoeld in [artikel 5.24, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=2&artikel=5.24&z=2007-07-26&g=2007-07-26), wordt afzonderlijk vermeld:
 
 - a. het totaalbedrag aan geraamde kinderbijslagen; en
 
@@ -870,7 +882,7 @@ In deze afdeling wordt verstaan onder:
 
 ##### Artikel 5.27. Specificatie opgave gerealiseerde uitgaven
 
-1. In de opgave van de gerealiseerde uitgaven, bedoeld in [artikel 5.24, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=2&artikel=5.24&z=2007-01-01&g=2007-07-01), wordt afzonderlijk vermeld:
+1. In de opgave van de gerealiseerde uitgaven, bedoeld in [artikel 5.24, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=2&artikel=5.24&z=2007-07-26&g=2007-07-26), wordt afzonderlijk vermeld:
 
 - a. het totaalbedrag aan uitbetaalde kinderbijslagen; en
 
@@ -904,13 +916,13 @@ De Minister van Sociale Zaken en Werkgelegenheid stelt jaarlijks voor 31 oktober
 
 ##### Artikel 5.31. Afdracht
 
-1. Met als valutadag de elfde dag van elke maand stort de Minister van Sociale Zaken en Werkgelegenheid het bedrag van de geraamde uitgaven van het Toeslagenfonds, onderscheidenlijk het Wajong-fonds, in die maand op een rekening-courant als bedoeld in [artikel 5.16, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=2&artikel=5.16&z=2007-01-01&g=2007-07-01). De Minister kan, na overleg met het UWV, van het geraamde bedrag afwijken.
+1. Met als valutadag de elfde dag van elke maand stort de Minister van Sociale Zaken en Werkgelegenheid het bedrag van de geraamde uitgaven van het Toeslagenfonds, onderscheidenlijk het Wajong-fonds, in die maand op een rekening-courant als bedoeld in [artikel 5.16, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=2&artikel=5.16&z=2007-07-26&g=2007-07-26). De Minister kan, na overleg met het UWV, van het geraamde bedrag afwijken.
 
 2. Met als valutadag de elfde dag van elke maand verrekent de Minister het verschil tussen de gerealiseerde uitgaven en de geraamde uitgaven in de maand gelegen twee maanden voor de maand, bedoeld in het eerste lid, met het bedrag, bedoeld in het eerste lid.
 
 ##### Artikel 5.32. Specificatie raming
 
-1. In de raming, bedoeld in [artikel 5.30, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=3&artikel=5.30&z=2007-01-01&g=2007-07-01), worden, overeenkomstig de bij deze regeling behorende [bijlagen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&bijlage=2&z=2007-01-01&g=2007-07-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&bijlage=3&z=2007-01-01&g=2007-07-01), afzonderlijk per wet vermeld:
+1. In de raming, bedoeld in [artikel 5.30, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=3&artikel=5.30&z=2007-07-26&g=2007-07-26), worden, overeenkomstig de bij deze regeling behorende [bijlagen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&bijlage=2&z=2007-07-26&g=2007-07-26) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&bijlage=3&z=2007-07-26&g=2007-07-26), afzonderlijk per wet vermeld:
 
 - a. de totaalbedragen aan geraamde toeslagen op grond van de [TW](https://wetten.overheid.nl/jci1.3:c:BWBR0004043) en uitkeringen op grond van de [Tijdelijke wet BIA](https://wetten.overheid.nl/jci1.3:c:BWBR0007891) en de [Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657), inclusief de op grond van enige wet over de toeslagen en uitkeringen door het UWV verschuldigde premies, die niet op deze toeslagen en uitkeringen in mindering kunnen worden gebracht, de uitgaven en ontvangsten die betrekking hebben op overige posten, en
 
@@ -922,7 +934,7 @@ De Minister van Sociale Zaken en Werkgelegenheid stelt jaarlijks voor 31 oktober
 
 ##### Artikel 5.33. Specificatie opgave gerealiseerde uitgaven
 
-1. In de opgave van de gerealiseerde uitgaven, bedoeld in [artikel 5.30, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=3&artikel=5.30&z=2007-01-01&g=2007-07-01), worden overeenkomstig de bij deze regeling behorende [bijlagen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&bijlage=4&z=2007-01-01&g=2007-07-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&bijlage=5&z=2007-01-01&g=2007-07-01), afzonderlijk per wet vermeld:
+1. In de opgave van de gerealiseerde uitgaven, bedoeld in [artikel 5.30, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=3&artikel=5.30&z=2007-07-26&g=2007-07-26), worden overeenkomstig de bij deze regeling behorende [bijlagen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&bijlage=4&z=2007-07-26&g=2007-07-26) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&bijlage=5&z=2007-07-26&g=2007-07-26), afzonderlijk per wet vermeld:
 
 - a. de totaalbedragen aan uitbetaalde toeslagen op grond van de [TW](https://wetten.overheid.nl/jci1.3:c:BWBR0004043) en uitkeringen op grond van de [Tijdelijke wet BIA](https://wetten.overheid.nl/jci1.3:c:BWBR0007891) en de [Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657), inclusief de op grond van enige wet over de toeslagen en uitkeringen door het UWV verschuldigde premies, die niet op deze toeslagen en uitkeringen in mindering kunnen worden gebracht, de uitgaven en ontvangsten die betrekking hebben op overige posten, en
 
@@ -942,7 +954,7 @@ De Minister van Sociale Zaken en Werkgelegenheid stelt jaarlijks voor 31 oktober
 
 ##### Artikel 5.35. Vaststelling Rijksbijdrage
 
-De Minister van Sociale Zaken en Werkgelegenheid stelt jaarlijks voor 31 oktober de omvang van de middelen tot dekking van de uitgaven ten laste van het Toeslagenfonds, onderscheidenlijk het Wajong-fonds, over het afgelopen kalenderjaar vast, gespecificeerd overeenkomstig [artikel 5.33](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=3&artikel=5.33&z=2007-01-01&g=2007-07-01).
+De Minister van Sociale Zaken en Werkgelegenheid stelt jaarlijks voor 31 oktober de omvang van de middelen tot dekking van de uitgaven ten laste van het Toeslagenfonds, onderscheidenlijk het Wajong-fonds, over het afgelopen kalenderjaar vast, gespecificeerd overeenkomstig [artikel 5.33](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=3&artikel=5.33&z=2007-07-26&g=2007-07-26).
 
 #### § 4. Arbeidsongeschiktheidsfonds
 
@@ -952,7 +964,7 @@ Jaarlijks maakt de Minister van Sociale Zaken en Werkgelegenheid voor het volgen
 
 ##### Artikel 5.37. Afdracht
 
-Met als valutadag de eerste dag van elk kwartaal stort de Minister van Sociale Zaken en Werkgelegenheid 25% van het op grond van [artikel 5.36](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=4&artikel=5.36&z=2007-01-01&g=2007-07-01) geraamde bedrag, op een rekening-courant als bedoeld in [artikel 5.16, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=2&artikel=5.16&z=2007-01-01&g=2007-07-01). De Minister van Sociale Zaken en Werkgelegenheid kan, na overleg met het UWV, van het geraamde bedrag afwijken.
+Met als valutadag de eerste dag van elk kwartaal stort de Minister van Sociale Zaken en Werkgelegenheid 25% van het op grond van [artikel 5.36](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=4&artikel=5.36&z=2007-07-26&g=2007-07-26) geraamde bedrag, op een rekening-courant als bedoeld in [artikel 5.16, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=2&artikel=5.16&z=2007-07-26&g=2007-07-26). De Minister van Sociale Zaken en Werkgelegenheid kan, na overleg met het UWV, van het geraamde bedrag afwijken.
 
 ##### Artikel 5.38. Afrekening
 
@@ -996,7 +1008,7 @@ Arbeidsongeschiktheidsfonds.
 
 ##### Artikel 6.2. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 1 januari 2006 waarbij [onderdeel 19 van bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&bijlage=1&z=2007-01-01&g=2007-07-01) bij deze regeling terug werkt tot en met 1 januari 2005.
+Deze regeling treedt in werking met ingang van 1 januari 2006 waarbij [onderdeel 19 van bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&bijlage=1&z=2007-07-26&g=2007-07-26) bij deze regeling terug werkt tot en met 1 januari 2005.
 
 ##### Artikel 6.3. Citeertitel
 
@@ -1239,9 +1251,9 @@ Instellingen of diensten die zich bezighouden met de feitelijke uitvoering van:
 |   |   |   |   |
 | *** Conform [artikel 5.32, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=3&artikel=5.32&z=2006-10-01&g=2006-10-01). | *** Conform [artikel 5.32, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=3&artikel=5.32&z=2006-10-01&g=2006-10-01). | *** Conform [artikel 5.32, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=3&artikel=5.32&z=2006-10-01&g=2006-10-01). | *** Conform [artikel 5.32, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=3&artikel=5.32&z=2006-10-01&g=2006-10-01). |
 
-## Bijlage 2. , behorend bij [artikel 5.32](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=3&artikel=5.32&z=2007-01-01&g=2007-07-01)
+## Bijlage 2. , behorend bij [artikel 5.32](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=3&artikel=5.32&z=2007-07-26&g=2007-07-26)
 
-| Raming uitgaven [TW](https://wetten.overheid.nl/jci1.3:c:BWBR0004043)/[Bia](https://wetten.overheid.nl/jci1.3:c:BWBR0007891) als bedoeld in [artikel 5.30, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=3&artikel=5.30&z=2007-01-01&g=2007-07-01) van de Regeling Wfsv | Raming uitgaven [TW](https://wetten.overheid.nl/jci1.3:c:BWBR0004043)/[Bia](https://wetten.overheid.nl/jci1.3:c:BWBR0007891) als bedoeld in [artikel 5.30, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=3&artikel=5.30&z=2007-01-01&g=2007-07-01) van de Regeling Wfsv | Raming uitgaven [TW](https://wetten.overheid.nl/jci1.3:c:BWBR0004043)/[Bia](https://wetten.overheid.nl/jci1.3:c:BWBR0007891) als bedoeld in [artikel 5.30, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=3&artikel=5.30&z=2007-01-01&g=2007-07-01) van de Regeling Wfsv |   |
+| Raming uitgaven [TW](https://wetten.overheid.nl/jci1.3:c:BWBR0004043)/[Bia](https://wetten.overheid.nl/jci1.3:c:BWBR0007891) als bedoeld in [artikel 5.30, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=3&artikel=5.30&z=2007-07-26&g=2007-07-26) van de Regeling Wfsv | Raming uitgaven [TW](https://wetten.overheid.nl/jci1.3:c:BWBR0004043)/[Bia](https://wetten.overheid.nl/jci1.3:c:BWBR0007891) als bedoeld in [artikel 5.30, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=3&artikel=5.30&z=2007-07-26&g=2007-07-26) van de Regeling Wfsv | Raming uitgaven [TW](https://wetten.overheid.nl/jci1.3:c:BWBR0004043)/[Bia](https://wetten.overheid.nl/jci1.3:c:BWBR0007891) als bedoeld in [artikel 5.30, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=3&artikel=5.30&z=2007-07-26&g=2007-07-26) van de Regeling Wfsv |   |
 | --- | --- | --- | --- |
 |   |   |   |   |
 | jaar | ………….. |   |   |
@@ -1255,7 +1267,7 @@ Instellingen of diensten die zich bezighouden met de feitelijke uitvoering van:
 |   |   |   |   |
 | Totaal generaal | Totaal generaal |   |   |
 |   |   |   |   |
-| * Conform [artikel 5.32, eerste lid, onderdeel a, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=3&artikel=5.32&z=2007-01-01&g=2007-07-01). | * Conform [artikel 5.32, eerste lid, onderdeel a, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=3&artikel=5.32&z=2007-01-01&g=2007-07-01). | * Conform [artikel 5.32, eerste lid, onderdeel a, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=3&artikel=5.32&z=2007-01-01&g=2007-07-01). |   |
+| * Conform [artikel 5.32, eerste lid, onderdeel a, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=3&artikel=5.32&z=2007-07-26&g=2007-07-26). | * Conform [artikel 5.32, eerste lid, onderdeel a, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=3&artikel=5.32&z=2007-07-26&g=2007-07-26). | * Conform [artikel 5.32, eerste lid, onderdeel a, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=3&artikel=5.32&z=2007-07-26&g=2007-07-26). |   |
 | Voor wat betreft de loonheffing: Het geraamde bedrag dat in deze periode naar verwachting wordt afgedragen is hier relevant. | Voor wat betreft de loonheffing: Het geraamde bedrag dat in deze periode naar verwachting wordt afgedragen is hier relevant. | Voor wat betreft de loonheffing: Het geraamde bedrag dat in deze periode naar verwachting wordt afgedragen is hier relevant. |   |
 
 Deze regeling zal met de toelichting en de bijlagen in de Staatscourant worden geplaatst.
@@ -1352,9 +1364,9 @@ ten behoeve van deze werkzaamheden.
 
 ### **69. Telecommunicatie, omvattende:**
 
-## Bijlage 3. , behorend bij [artikel 5.32](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=3&artikel=5.32&z=2007-01-01&g=2007-07-01)
+## Bijlage 3. , behorend bij [artikel 5.32](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=3&artikel=5.32&z=2007-07-26&g=2007-07-26)
 
-| Raming uitgaven [Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657) als bedoeld in [art 5.30, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=3&artikel=5.30&z=2007-01-01&g=2007-07-01) van de Regeling Wfsv | Raming uitgaven [Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657) als bedoeld in [art 5.30, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=3&artikel=5.30&z=2007-01-01&g=2007-07-01) van de Regeling Wfsv | Raming uitgaven [Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657) als bedoeld in [art 5.30, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=3&artikel=5.30&z=2007-01-01&g=2007-07-01) van de Regeling Wfsv | Raming uitgaven [Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657) als bedoeld in [art 5.30, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=3&artikel=5.30&z=2007-01-01&g=2007-07-01) van de Regeling Wfsv |
+| Raming uitgaven [Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657) als bedoeld in [art 5.30, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=3&artikel=5.30&z=2007-07-26&g=2007-07-26) van de Regeling Wfsv | Raming uitgaven [Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657) als bedoeld in [art 5.30, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=3&artikel=5.30&z=2007-07-26&g=2007-07-26) van de Regeling Wfsv | Raming uitgaven [Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657) als bedoeld in [art 5.30, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=3&artikel=5.30&z=2007-07-26&g=2007-07-26) van de Regeling Wfsv | Raming uitgaven [Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657) als bedoeld in [art 5.30, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=3&artikel=5.30&z=2007-07-26&g=2007-07-26) van de Regeling Wfsv |
 | --- | --- | --- | --- |
 |   |   |   |   |
 | jaar | ………….. |   |   |
@@ -1374,12 +1386,12 @@ ten behoeve van deze werkzaamheden.
 |   |   |   |   |
 | Totaal generaal | Totaal generaal |   |   |
 |   |   |   |   |
-| * Conform [artikel 5.32, eerste lid, onderdeel a, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=3&artikel=5.32&z=2007-01-01&g=2007-07-01). | * Conform [artikel 5.32, eerste lid, onderdeel a, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=3&artikel=5.32&z=2007-01-01&g=2007-07-01). | * Conform [artikel 5.32, eerste lid, onderdeel a, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=3&artikel=5.32&z=2007-01-01&g=2007-07-01). | * Conform [artikel 5.32, eerste lid, onderdeel a, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=3&artikel=5.32&z=2007-01-01&g=2007-07-01). |
+| * Conform [artikel 5.32, eerste lid, onderdeel a, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=3&artikel=5.32&z=2007-07-26&g=2007-07-26). | * Conform [artikel 5.32, eerste lid, onderdeel a, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=3&artikel=5.32&z=2007-07-26&g=2007-07-26). | * Conform [artikel 5.32, eerste lid, onderdeel a, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=3&artikel=5.32&z=2007-07-26&g=2007-07-26). | * Conform [artikel 5.32, eerste lid, onderdeel a, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=3&artikel=5.32&z=2007-07-26&g=2007-07-26). |
 | Voor wat betreft de loonheffing: Het geraamde bedrag dat in deze periode naar verwachting wordt afgedragen is hier relevant. | Voor wat betreft de loonheffing: Het geraamde bedrag dat in deze periode naar verwachting wordt afgedragen is hier relevant. | Voor wat betreft de loonheffing: Het geraamde bedrag dat in deze periode naar verwachting wordt afgedragen is hier relevant. | Voor wat betreft de loonheffing: Het geraamde bedrag dat in deze periode naar verwachting wordt afgedragen is hier relevant. |
 |   |   |   |   |
-| ** Betreft geraamde uitgaven op grond van [artikel 2.8 van de Wet Invoering en financiering Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019058&artikel=2.8) ten laste van het Wajong-fonds ([artikel 5.32, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=3&artikel=5.32&z=2007-01-01&g=2007-07-01)). | ** Betreft geraamde uitgaven op grond van [artikel 2.8 van de Wet Invoering en financiering Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019058&artikel=2.8) ten laste van het Wajong-fonds ([artikel 5.32, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=3&artikel=5.32&z=2007-01-01&g=2007-07-01)). | ** Betreft geraamde uitgaven op grond van [artikel 2.8 van de Wet Invoering en financiering Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019058&artikel=2.8) ten laste van het Wajong-fonds ([artikel 5.32, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=3&artikel=5.32&z=2007-01-01&g=2007-07-01)). | ** Betreft geraamde uitgaven op grond van [artikel 2.8 van de Wet Invoering en financiering Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019058&artikel=2.8) ten laste van het Wajong-fonds ([artikel 5.32, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=3&artikel=5.32&z=2007-01-01&g=2007-07-01)). |
+| ** Betreft geraamde uitgaven op grond van [artikel 2.8 van de Wet Invoering en financiering Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019058&artikel=2.8) ten laste van het Wajong-fonds ([artikel 5.32, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=3&artikel=5.32&z=2007-07-26&g=2007-07-26)). | ** Betreft geraamde uitgaven op grond van [artikel 2.8 van de Wet Invoering en financiering Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019058&artikel=2.8) ten laste van het Wajong-fonds ([artikel 5.32, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=3&artikel=5.32&z=2007-07-26&g=2007-07-26)). | ** Betreft geraamde uitgaven op grond van [artikel 2.8 van de Wet Invoering en financiering Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019058&artikel=2.8) ten laste van het Wajong-fonds ([artikel 5.32, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=3&artikel=5.32&z=2007-07-26&g=2007-07-26)). | ** Betreft geraamde uitgaven op grond van [artikel 2.8 van de Wet Invoering en financiering Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019058&artikel=2.8) ten laste van het Wajong-fonds ([artikel 5.32, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=3&artikel=5.32&z=2007-07-26&g=2007-07-26)). |
 |   |   |   |   |
-| *** Conform [artikel 5.32, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=3&artikel=5.32&z=2007-01-01&g=2007-07-01). | *** Conform [artikel 5.32, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=3&artikel=5.32&z=2007-01-01&g=2007-07-01). | *** Conform [artikel 5.32, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=3&artikel=5.32&z=2007-01-01&g=2007-07-01). | *** Conform [artikel 5.32, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=3&artikel=5.32&z=2007-01-01&g=2007-07-01). |
+| *** Conform [artikel 5.32, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=3&artikel=5.32&z=2007-07-26&g=2007-07-26). | *** Conform [artikel 5.32, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=3&artikel=5.32&z=2007-07-26&g=2007-07-26). | *** Conform [artikel 5.32, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=3&artikel=5.32&z=2007-07-26&g=2007-07-26). | *** Conform [artikel 5.32, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=3&artikel=5.32&z=2007-07-26&g=2007-07-26). |
 
 Deze regeling zal met de toelichting en de bijlagen in de Staatscourant worden geplaatst.
 
@@ -1427,7 +1439,7 @@ Deze regeling zal met de toelichting en de bijlagen in de Staatscourant worden g
 
 ### Hoofdstuk 6. Slotbepalingen
 
-## Bijlage 1. , behorend bij [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=1&paragraaf=1&artikel=5.1&z=2007-01-01&g=2007-07-01)
+## Bijlage 1. , behorend bij [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=1&paragraaf=1&artikel=5.1&z=2007-07-26&g=2007-07-26)
 
 De baggerbedrijven, inclusief de rijswerkersbedrijven en de zand- en grindwinning.
 
@@ -1451,9 +1463,9 @@ ten behoeve van deze werkzaamheden.
 
 ### **69. Telecommunicatie, omvattende:**
 
-## Bijlage 4. , behorend bij [artikel 5.33](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=3&artikel=5.33&z=2007-01-01&g=2007-07-01)
+## Bijlage 4. , behorend bij [artikel 5.33](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=3&artikel=5.33&z=2007-07-26&g=2007-07-26)
 
-| Uitgaven [TW](https://wetten.overheid.nl/jci1.3:c:BWBR0004043)/[Bia](https://wetten.overheid.nl/jci1.3:c:BWBR0007891) als bedoeld in [artikel 5.30, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=3&artikel=5.30&z=2007-01-01&g=2007-07-01), van de Regeling Wfsv | Uitgaven [TW](https://wetten.overheid.nl/jci1.3:c:BWBR0004043)/[Bia](https://wetten.overheid.nl/jci1.3:c:BWBR0007891) als bedoeld in [artikel 5.30, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=3&artikel=5.30&z=2007-01-01&g=2007-07-01), van de Regeling Wfsv | Uitgaven [TW](https://wetten.overheid.nl/jci1.3:c:BWBR0004043)/[Bia](https://wetten.overheid.nl/jci1.3:c:BWBR0007891) als bedoeld in [artikel 5.30, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=3&artikel=5.30&z=2007-01-01&g=2007-07-01), van de Regeling Wfsv |
+| Uitgaven [TW](https://wetten.overheid.nl/jci1.3:c:BWBR0004043)/[Bia](https://wetten.overheid.nl/jci1.3:c:BWBR0007891) als bedoeld in [artikel 5.30, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=3&artikel=5.30&z=2007-07-26&g=2007-07-26), van de Regeling Wfsv | Uitgaven [TW](https://wetten.overheid.nl/jci1.3:c:BWBR0004043)/[Bia](https://wetten.overheid.nl/jci1.3:c:BWBR0007891) als bedoeld in [artikel 5.30, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=3&artikel=5.30&z=2007-07-26&g=2007-07-26), van de Regeling Wfsv | Uitgaven [TW](https://wetten.overheid.nl/jci1.3:c:BWBR0004043)/[Bia](https://wetten.overheid.nl/jci1.3:c:BWBR0007891) als bedoeld in [artikel 5.30, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=3&artikel=5.30&z=2007-07-26&g=2007-07-26), van de Regeling Wfsv |
 | --- | --- | --- |
 |   |   |   |
 | jaar | ………….. |   |
@@ -1467,12 +1479,12 @@ ten behoeve van deze werkzaamheden.
 |   |   |   |
 | Totaal generaal | Totaal generaal |   |
 |   |   |   |
-| * Conform [artikel 5.33, eerste lid, onderdeel a, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=3&artikel=5.33&z=2007-01-01&g=2007-07-01). | * Conform [artikel 5.33, eerste lid, onderdeel a, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=3&artikel=5.33&z=2007-01-01&g=2007-07-01). | * Conform [artikel 5.33, eerste lid, onderdeel a, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=3&artikel=5.33&z=2007-01-01&g=2007-07-01). |
+| * Conform [artikel 5.33, eerste lid, onderdeel a, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=3&artikel=5.33&z=2007-07-26&g=2007-07-26). | * Conform [artikel 5.33, eerste lid, onderdeel a, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=3&artikel=5.33&z=2007-07-26&g=2007-07-26). | * Conform [artikel 5.33, eerste lid, onderdeel a, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=3&artikel=5.33&z=2007-07-26&g=2007-07-26). |
 | Voor wat betreft de loonheffing: Het bedrag dat in deze periode feitelijk is afgedragen is hier relevant. | Voor wat betreft de loonheffing: Het bedrag dat in deze periode feitelijk is afgedragen is hier relevant. | Voor wat betreft de loonheffing: Het bedrag dat in deze periode feitelijk is afgedragen is hier relevant. |
 
-## Bijlage 5. , behorend bij [artikel 5.33](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=3&artikel=5.33&z=2007-01-01&g=2007-07-01)
+## Bijlage 5. , behorend bij [artikel 5.33](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=3&artikel=5.33&z=2007-07-26&g=2007-07-26)
 
-| Uitgaven [Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657) als bedoeld in [artikel 5.30, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=3&artikel=5.30&z=2007-01-01&g=2007-07-01), van de Regeling Wfsv | Uitgaven [Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657) als bedoeld in [artikel 5.30, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=3&artikel=5.30&z=2007-01-01&g=2007-07-01), van de Regeling Wfsv | Uitgaven [Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657) als bedoeld in [artikel 5.30, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=3&artikel=5.30&z=2007-01-01&g=2007-07-01), van de Regeling Wfsv | Uitgaven [Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657) als bedoeld in [artikel 5.30, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=3&artikel=5.30&z=2007-01-01&g=2007-07-01), van de Regeling Wfsv |
+| Uitgaven [Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657) als bedoeld in [artikel 5.30, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=3&artikel=5.30&z=2007-07-26&g=2007-07-26), van de Regeling Wfsv | Uitgaven [Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657) als bedoeld in [artikel 5.30, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=3&artikel=5.30&z=2007-07-26&g=2007-07-26), van de Regeling Wfsv | Uitgaven [Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657) als bedoeld in [artikel 5.30, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=3&artikel=5.30&z=2007-07-26&g=2007-07-26), van de Regeling Wfsv | Uitgaven [Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657) als bedoeld in [artikel 5.30, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=3&artikel=5.30&z=2007-07-26&g=2007-07-26), van de Regeling Wfsv |
 | --- | --- | --- | --- |
 |   |   |   |   |
 | jaar | ………….. |   |   |
@@ -1492,11 +1504,11 @@ ten behoeve van deze werkzaamheden.
 |   |   |   |   |
 | Totaal generaal | Totaal generaal |   |   |
 |   |   |   |   |
-| * Conform [artikel 5.33, eerste lid, onderdeel a, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=3&artikel=5.33&z=2007-01-01&g=2007-07-01). | * Conform [artikel 5.33, eerste lid, onderdeel a, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=3&artikel=5.33&z=2007-01-01&g=2007-07-01). | * Conform [artikel 5.33, eerste lid, onderdeel a, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=3&artikel=5.33&z=2007-01-01&g=2007-07-01). | * Conform [artikel 5.33, eerste lid, onderdeel a, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=3&artikel=5.33&z=2007-01-01&g=2007-07-01). |
+| * Conform [artikel 5.33, eerste lid, onderdeel a, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=3&artikel=5.33&z=2007-07-26&g=2007-07-26). | * Conform [artikel 5.33, eerste lid, onderdeel a, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=3&artikel=5.33&z=2007-07-26&g=2007-07-26). | * Conform [artikel 5.33, eerste lid, onderdeel a, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=3&artikel=5.33&z=2007-07-26&g=2007-07-26). | * Conform [artikel 5.33, eerste lid, onderdeel a, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=3&artikel=5.33&z=2007-07-26&g=2007-07-26). |
 | Voor wat betreft de loonheffing: Het bedrag dat in deze periode feitelijk is afgedragen is hier relevant. | Voor wat betreft de loonheffing: Het bedrag dat in deze periode feitelijk is afgedragen is hier relevant. | Voor wat betreft de loonheffing: Het bedrag dat in deze periode feitelijk is afgedragen is hier relevant. | Voor wat betreft de loonheffing: Het bedrag dat in deze periode feitelijk is afgedragen is hier relevant. |
 |   |   |   |   |
-| ** Betreft gerealiseerde lasten op grond van [artikel 2.8 van de Wet Invoering en financiering Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019058&artikel=2.8) ([artikel 5.33, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=3&artikel=5.33&z=2007-01-01&g=2007-07-01)). | ** Betreft gerealiseerde lasten op grond van [artikel 2.8 van de Wet Invoering en financiering Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019058&artikel=2.8) ([artikel 5.33, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=3&artikel=5.33&z=2007-01-01&g=2007-07-01)). | ** Betreft gerealiseerde lasten op grond van [artikel 2.8 van de Wet Invoering en financiering Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019058&artikel=2.8) ([artikel 5.33, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=3&artikel=5.33&z=2007-01-01&g=2007-07-01)). | ** Betreft gerealiseerde lasten op grond van [artikel 2.8 van de Wet Invoering en financiering Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019058&artikel=2.8) ([artikel 5.33, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=3&artikel=5.33&z=2007-01-01&g=2007-07-01)). |
+| ** Betreft gerealiseerde lasten op grond van [artikel 2.8 van de Wet Invoering en financiering Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019058&artikel=2.8) ([artikel 5.33, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=3&artikel=5.33&z=2007-07-26&g=2007-07-26)). | ** Betreft gerealiseerde lasten op grond van [artikel 2.8 van de Wet Invoering en financiering Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019058&artikel=2.8) ([artikel 5.33, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=3&artikel=5.33&z=2007-07-26&g=2007-07-26)). | ** Betreft gerealiseerde lasten op grond van [artikel 2.8 van de Wet Invoering en financiering Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019058&artikel=2.8) ([artikel 5.33, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=3&artikel=5.33&z=2007-07-26&g=2007-07-26)). | ** Betreft gerealiseerde lasten op grond van [artikel 2.8 van de Wet Invoering en financiering Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019058&artikel=2.8) ([artikel 5.33, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=3&artikel=5.33&z=2007-07-26&g=2007-07-26)). |
 |   |   |   |   |
-| *** Conform [artikel 5.33, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=3&artikel=5.33&z=2007-01-01&g=2007-07-01). | *** Conform [artikel 5.33, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=3&artikel=5.33&z=2007-01-01&g=2007-07-01). | *** Conform [artikel 5.33, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=3&artikel=5.33&z=2007-01-01&g=2007-07-01). | *** Conform [artikel 5.33, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=3&artikel=5.33&z=2007-01-01&g=2007-07-01). |
+| *** Conform [artikel 5.33, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=3&artikel=5.33&z=2007-07-26&g=2007-07-26). | *** Conform [artikel 5.33, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=3&artikel=5.33&z=2007-07-26&g=2007-07-26). | *** Conform [artikel 5.33, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=3&artikel=5.33&z=2007-07-26&g=2007-07-26). | *** Conform [artikel 5.33, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=3&artikel=5.33&z=2007-07-26&g=2007-07-26). |
 
 Deze regeling zal met de toelichting en de bijlagen in de Staatscourant worden geplaatst.
