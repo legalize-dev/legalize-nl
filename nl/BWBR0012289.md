@@ -4,7 +4,7 @@ identifier: "BWBR0012289"
 country: "nl"
 rank: "circulaire"
 publication_date: "2026-04-03"
-last_updated: "2007-07-29"
+last_updated: "2007-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012289"
 soort: "circulaire"
@@ -8495,7 +8495,7 @@ Op grond van het NAVO-statusverdrag en het daarbij behorende Hoofdkwartieren Pro
 
 ### 3.4.1.3. Gezinsleden
 
-De gezinsleden van de militairen van de Joint Force Command- headquarters te Brunssum, komen op grond van [artikel 14 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14) juncto [artikel 3.4, derde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.4) in aanmerking voor een verblijfsvergunning regulier voor bepaalde tijd, voor verblijf als gezinslid van een militair die behoort tot een hier te lande gevestigd internationaal militair hoofdkwartier en die geprivilegieerd is.
+De gezinsleden van de militairen van de Joint Force Command- headquarters te Brunssum, komen op grond van [artikel 14 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14) juncto [artikel 3.4, derde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.4) in aanmerking voor een verblijfsvergunning regulier voor bepaalde tijd, voor verblijf als gezinslid van een militair die behoort tot een hier te lande gevestigd internationaal militair hoofdkwartier en die geprivilegieerd is. Voor wat betreft de invulling van het begrip gezinsleden wordt aangesloten naar [artikel 3.40, tweede lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.40).
 
 Aan de kinderen en meerderjarige gezinsleden (zie [artikel 3.40, tweede lid, onder b en c, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.40)) wordt een verblijfsvergunning voor bepaalde tijd (zie [artikel 14 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14)) verleend met de beperking ‘verblijf bij …’, met de arbeidsmarktaantekening: ‘andere arbeid alleen toegestaan indien werkgever beschikt over TWV.’
 
