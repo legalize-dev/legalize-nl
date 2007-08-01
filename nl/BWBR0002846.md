@@ -4,7 +4,7 @@ identifier: "BWBR0002846"
 country: "nl"
 rank: "amvb"
 publication_date: "2023-12-23"
-last_updated: "2006-04-26"
+last_updated: "2007-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002846"
 soort: "AMvB"
@@ -114,9 +114,9 @@ Ter uitvoering van [artikel 2, achtste lid, van de wet](https://wetten.overheid.
 
 ##### Artikel 3
 
-1. Van de toepassing van artikel 2, achtste lid, der wet zijn uitgezonderd de motorrijtuigen die gewoonlijk zijn gestald in een der bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002846&artikel=2&z=2006-04-26&g=2006-04-26) aangewezen landen en ten aanzien waarvan in dat land overeenkomstig artikel 4 van de richtlijn van de bepalingen van artikel 3 van die richtlijn is afgeweken, voor zover ten aanzien van de in artikel 4, onder **a,** van die richtlijn bedoelde motorrijtuigen niet het Bureau, als bedoeld in artikel 2, zesde lid der wet is aangewezen als de met de schadeloosstelling van benadeelden belaste instantie.
+1. Van de toepassing van artikel 2, achtste lid, der wet zijn uitgezonderd de motorrijtuigen die gewoonlijk zijn gestald in een der bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002846&artikel=2&z=2006-04-26&g=2007-08-01) aangewezen landen en ten aanzien waarvan in dat land overeenkomstig artikel 4 van de richtlijn van de bepalingen van artikel 3 van die richtlijn is afgeweken, voor zover ten aanzien van de in artikel 4, onder **a,** van die richtlijn bedoelde motorrijtuigen niet het Bureau, als bedoeld in artikel 2, zesde lid der wet is aangewezen als de met de schadeloosstelling van benadeelden belaste instantie.
 
-2. Van de toepassing van artikel 2, achtste lid, der wet zijn eveneens uitgezonderd de motorrijtuigen die gewoonlijk zijn gestald in een der bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002846&artikel=2&z=2006-04-26&g=2006-04-26) aangewezen landen en ten aanzien waarvan niet voldaan is aan de voorwaarde genoemd in artikel 7, tweede lid, van de richtlijn.
+2. Van de toepassing van artikel 2, achtste lid, der wet zijn eveneens uitgezonderd de motorrijtuigen die gewoonlijk zijn gestald in een der bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002846&artikel=2&z=2006-04-26&g=2007-08-01) aangewezen landen en ten aanzien waarvan niet voldaan is aan de voorwaarde genoemd in artikel 7, tweede lid, van de richtlijn.
 
 ##### Artikel 4
 
@@ -124,6 +124,6 @@ Ons besluit van 17 januari 1967 (**Stb.** 18) wordt ingetrokken.
 
 ##### Artikel 5
 
-De onderscheidene bepalingen van dit besluit treden in werking met ingang van door Ons te bepalen tijdstippen, welke ook voor wat de aanwijzing van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002846&artikel=1&z=2006-04-26&g=2006-04-26) genoemde landen verschillend kunnen zijn.
+De onderscheidene bepalingen van dit besluit treden in werking met ingang van door Ons te bepalen tijdstippen, welke ook voor wat de aanwijzing van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002846&artikel=1&z=2006-04-26&g=2007-08-01) genoemde landen verschillend kunnen zijn.
 
 Onze Minister van Justitie is belast met de uitvoering van dit besluit, hetwelk in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State.
