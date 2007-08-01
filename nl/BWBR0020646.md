@@ -4,7 +4,7 @@ identifier: "BWBR0020646"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2013-01-01"
-last_updated: "2007-01-01"
+last_updated: "2007-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020646"
 soort: "ministeriele-regeling"
@@ -128,13 +128,13 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 5
 
-1. Indien de inburgeraar het aanbod, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0020646&hoofdstuk=2&artikel=4&z=2007-01-01&g=2007-01-01), aanvaardt, sluit het college of het bestuur een overeenkomst met de inburgeraar. De overeenkomst wordt door partijen niet later ondertekend dan 31 december 2007.
+1. Indien de inburgeraar het aanbod, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0020646&hoofdstuk=2&artikel=4&z=2007-01-01&g=2007-08-01), aanvaardt, sluit het college of het bestuur een overeenkomst met de inburgeraar. De overeenkomst wordt door partijen niet later ondertekend dan 31 december 2007.
 
 2. De overeenkomst bevat ten minste een omschrijving van:
 
 - a. de inburgeringsvoorziening, dan wel de gecombineerde inburgeringsvoorziening;
 
-- b. de rechten en verplichtingen van de inburgeraar, bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020646&hoofdstuk=2&artikel=4&z=2007-01-01&g=2007-01-01);
+- b. de rechten en verplichtingen van de inburgeraar, bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020646&hoofdstuk=2&artikel=4&z=2007-01-01&g=2007-08-01);
 
 - c. de gevolgen van niet-nakoming van de overeenkomst.
 
@@ -166,7 +166,7 @@ In deze regeling wordt verstaan onder:
 
 1. De inburgeraar die op 1 januari 2007 deelneemt aan een opleiding educatie als bedoeld in [artikel 7.3.1, eerste lid, onderdeel d, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.3.1), blijft toegelaten tot deze opleiding.
 
-2. Het college of het bestuur kan de opleidingen educatie, bedoeld in het eerste lid, gedurende het jaar 2007 bekostigen uit de financiële bijdrage, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0020646&hoofdstuk=1&artikel=2&z=2007-01-01&g=2007-01-01).
+2. Het college of het bestuur kan de opleidingen educatie, bedoeld in het eerste lid, gedurende het jaar 2007 bekostigen uit de financiële bijdrage, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0020646&hoofdstuk=1&artikel=2&z=2007-01-01&g=2007-08-01).
 
 ### Hoofdstuk 3. Verstrekking prestatiegegevens, vaststelling financiële bijdrage
 
@@ -188,7 +188,7 @@ In deze regeling wordt verstaan onder:
 
 - g. het aantal in onderdeel c bedoelde inburgeraars dat uiterlijk 31 december 2009 heeft deelgenomen aan het aanvullend praktijkdeel, bedoeld in artikel 3.8 van het besluit.
 
-2. Indien het college of het bestuur toepassing geeft aan [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020646&hoofdstuk=2&artikel=8&z=2007-01-01&g=2007-01-01), doet het college of het bestuur tevens een opgave van het daarmee gemoeide bedrag, alsmede het aantal opleidingen educatie, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020646&hoofdstuk=2&artikel=8&z=2007-01-01&g=2007-01-01).
+2. Indien het college of het bestuur toepassing geeft aan [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020646&hoofdstuk=2&artikel=8&z=2007-01-01&g=2007-08-01), doet het college of het bestuur tevens een opgave van het daarmee gemoeide bedrag, alsmede het aantal opleidingen educatie, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020646&hoofdstuk=2&artikel=8&z=2007-01-01&g=2007-08-01).
 
 3. Het college of het bestuur verstrekt de gegevens en de opgave, bedoeld in het eerste en tweede lid, tezamen met de jaarrekening, bedoeld in [artikel 186 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=186), welke betrekking heeft op het jaar 2009. De jaarrekening is voorzien van de accountantsverklaring, bedoeld in [artikel 213, derde lid, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=213).
 
