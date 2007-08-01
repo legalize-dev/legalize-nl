@@ -4,7 +4,7 @@ identifier: "BWBV0001070"
 country: "nl"
 rank: "verdrag"
 publication_date: "2025-02-19"
-last_updated: "2004-05-01"
+last_updated: "2007-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0001070"
 soort: "verdrag"
@@ -35,101 +35,105 @@ entry_into_force: "1994-01-01"
 ---
 # Overeenkomst betreffende de Europese Economische Ruimte
 
-DE EUROPESE GEMEENSCHAP,
+de Europese Gemeenschap,
 
-HET KONINKRIJK BELGIË,
+het Koninkrijk België,
 
-DE TSJECHISCHE REPUBLIEK,
+de Republiek Bulgarije,
 
-HET KONINKRIJK DENEMARKEN,
+de Tsjechische Republiek,
 
-DE BONDSREPUBLIEK DUITSLAND,
+het Koninkrijk Denemarken,
 
-DE REPUBLIEK ESTLAND,
+de Bondsrepubliek Duitsland,
 
-DE HELLEENSE REPUBLIEK,
+de Republiek Estland,
 
-HET KONINKRIJK SPANJE,
+Ierland,
 
-DE FRANSE REPUBLIEK,
+de Helleense Republiek,
 
-IERLAND,
+het Koninkrijk Spanje,
 
-DE ITALIAANSE REPUBLIEK,
+de Franse Republiek,
 
-DE REPUBLIEK CYPRUS,
+de Italiaanse Republiek,
 
-DE REPUBLIEK LETLAND,
+de Republiek Cyprus,
 
-DE REPUBLIEK LITOUWEN,
+de Republiek Letland,
 
-HET GROOTHERTOGDOM LUXEMBURG,
+de Republiek Litouwen,
 
-DE REPUBLIEK HONGARIJE,
+het Groothertogdom Luxemburg,
 
-DE REPUBLIEK MALTA,
+de Republiek Hongarije,
 
-HET KONINKRIJK DER NEDERLANDEN,
+Malta,
 
-DE REPUBLIEK OOSTENRIJK,
+het Koninkrijk der Nederlanden,
 
-DE REPUBLIEK POLEN,
+de Republiek Oostenrijk,
 
-DE PORTUGESE REPUBLIEK,
+de Republiek Polen,
 
-DE REPUBLIEK SLOVENIË,
+de Portugese Republiek,
 
-DE SLOWAAKSE REPUBLIEK,
+Roemenië,
 
-DE REPUBLIEK FINLAND,
+de Republiek Slovenië,
 
-HET KONINKRIJK ZWEDEN,
+de Slowaakse Republiek,
 
-HET VERENIGD KONINKRIJK VAN GROOT-BRITTANNIË EN NOORD-IERLAND
+de Republiek Finland,
 
-EN
+het Koninkrijk Zweden,
 
-DE REPUBLIEK IJSLAND,
+het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland,
 
-HET VORSTENDOM LIECHTENSTEIN,
+en
 
-HET KONINKRIJK NOORWEGEN,
+IJsland,
 
-hierna de OVEREENKOMSTSLUITENDE PARTIJEN te noemen ;
+het Vorstendom Liechtenstein,
 
-OVERTUIGD van de bijdrage die een Europese Economische Ruimte zal leveren aan de totstandbrenging van een Europa gebaseerd op vrede, democratie en mensenrechten ;
+het Koninkrijk Noorwegen,
+
+hierna de OVEREENKOMSTSLUITENDE PARTIJEN te noemen;
+
+OVERTUIGD van de bijdrage die een Europese Economische Ruimte zal leveren aan de totstandbrenging van een Europa gebaseerd op vrede, democratie en mensenrechten;
 
 OPNIEUW BEVESTIGEND de hoge prioriteit die wordt toegekend aan de bevoorrechte relatie tussen de Europese Gemeenschap, haar Lid-Staten en de EVA-Staten gebaseerd op nabuurschap, traditionele gemeenschappelijke waarden en een Europese identiteit;
 
-VASTBESLOTEN op basis van de beginselen van de markteconomie bij te dragen aan de mondiale vrijmaking van de handel en internationale samenwerking op handelsgebied, met name in overeenstemming met de bepalingen van de Algemene Overeenkomst betreffende Tarieven en Handel en de Overeenkomst betreffende de Organisatie voor Economische Samenwerking en Ontwikkeling ;
+VASTBESLOTEN op basis van de beginselen van de markteconomie bij te dragen aan de mondiale vrijmaking van de handel en internationale samenwerking op handelsgebied, met name in overeenstemming met de bepalingen van de [Algemene Overeenkomst betreffende Tarieven en Handel](onbekend) en de [Overeenkomst betreffende de Organisatie voor Economische Samenwerking en Ontwikkeling](https://wetten.overheid.nl/jci1.3:c:BWBV0005057);
 
-OVERWEGENDE het oogmerk een dynamische en homogene Europese Economische Ruimte tot stand te brengen, gebaseerd op gemeenschappelijke regels en gelijke mededingingsvoorwaarden, en voorzien van een passend uitvoeringsmechanisme, mede op gerechtelijk niveau, een en ander op basis van gelijkheid en wederkerigheid en van een algeheel evenwicht wat betreft de voordelen en de rechten en plichten voor de overeenkomstsluitende partijen ;
+OVERWEGENDE het oogmerk een dynamische en homogene Europese Economische Ruimte tot stand te brengen, gebaseerd op gemeenschappelijke regels en gelijke mededingingsvoorwaarden, en voorzien van een passend uitvoeringsmechanisme, mede op gerechtelijk niveau, een en ander op basis van gelijkheid en wederkerigheid en van een algeheel evenwicht wat betreft de voordelen en de rechten en plichten voor de overeenkomstsluitende partijen;
 
-VASTBESLOTEN te voorzien in een zo volledig mogelijke verwezenlijking van het vrije verkeer van goederen, personen, diensten en kapitaal in de gehele Europese Economische Ruimte, alsmede in een sterkere en ruimere samenwerking op het gebied van begeleidende en horizontale beleidsmaatregelen :
+VASTBESLOTEN te voorzien in een zo volledig mogelijke verwezenlijking van het vrije verkeer van goederen, personen, diensten en kapitaal in de gehele Europese Economische Ruimte, alsmede in een sterkere en ruimere samenwerking op het gebied van begeleidende en horizontale beleidsmaatregelen;
 
-STREVENDE naar een harmonische ontwikkeling van de Europese Economische Ruimte en overtuigd van de noodzaak via de uitvoering van deze Overeenkomst bij te dragen aan vermindering van de economische en sociale regionale verschillen ;
+STREVENDE naar een harmonische ontwikkeling van de Europese Economische Ruimte en overtuigd van de noodzaak via de uitvoering van deze Overeenkomst bij te dragen aan vermindering van de economische en sociale regionale verschillen;
 
-VERLANGENDE bij te dragen aan de versterking van de samenwerking tussen de leden van het Europese Parlement en de parlementen van de EVA-Staten alsmede tussen de sociale partners in de Europese Gemeenschap en de EVA-Staten ;
+VERLANGENDE bij te dragen aan de versterking van de samenwerking tussen de leden van het Europese Parlement en de parlementen van de EVA-Staten alsmede tussen de sociale partners in de Europese Gemeenschap en de EVA-Staten;
 
-OVERTUIGD van de belangrijke rol die personen in de Europese Economische Ruimte via de uitoefening van de door deze Overeenkomst aan hen toegekende rechten en via een verdediging daarvan in rechte zullen spelen :
+OVERTUIGD van de belangrijke rol die personen in de Europese Economische Ruimte via de uitoefening van de door deze Overeenkomst aan hen toegekende rechten en via een verdediging daarvan in rechte zullen spelen;
 
-VASTBESLOTEN de kwaliteit van het milieu te behouden, te beschermen en te verbeteren en zorg te dragen voor een behoedzaam en rationeel gebruik van de natuurlijke hulpbronnen, met name op basis van het beginsel van duurzame ontwikkeling en preventief handelen ;
+VASTBESLOTEN de kwaliteit van het milieu te behouden, te beschermen en te verbeteren en zorg te dragen voor een behoedzaam en rationeel gebruik van de natuurlijke hulpbronnen, met name op basis van het beginsel van duurzame ontwikkeling en preventief handelen;
 
-VASTBESLOTEN bij de verdere uitwerking van regels uit te gaan van een hoog beschermingsniveau wat betreft de gezondheid, de veiligheid en het milieu ;
+VASTBESLOTEN bij de verdere uitwerking van regels uit te gaan van een hoog beschermingsniveau wat betreft de gezondheid, de veiligheid en het milieu;
 
-WIJZENDE op het belang van de ontwikkeling van de sociale dimensie, inclusief de gelijke behandeling van mannen en vrouwen, in de Europese Economische Ruimte en wensende de economische en sociale vooruitgang te verzekeren en de voorwaarden voor volledige werkgelegenheid, een hogere levensstandaard en betere arbeidsvoorwaarden binnen de Europese Economische Ruimte te verbeteren ;
+WIJZENDE op het belang van de ontwikkeling van de sociale dimensie, inclusief de gelijke behandeling van mannen en vrouwen, in de Europese Economische Ruimte en wensende de economische en sociale vooruitgang te verzekeren en de voorwaarden voor volledige werkgelegenheid, een hogere levensstandaard en betere arbeidsvoorwaarden binnen de Europese Economische Ruimte te verbeteren;
 
-VASTBESLOTEN de belangen van de consumenten te bevorderen en hun positie op de markt te versterken, waarbij een hoog beschermingsniveau wordt nagestreefd ;
+VASTBESLOTEN de belangen van de consumenten te bevorderen en hun positie op de markt te versterken, waarbij een hoog beschermingsniveau wordt nagestreefd;
 
-VERLANGENDE de gemeenschappelijke doelstellingen van versterking van de wetenschappelijke en technologische basis van de Europese industrie en verbetering van haar internationale concurrentiepositie te verwezenlijken ;
+VERLANGENDE de gemeenschappelijke doelstellingen van versterking van de wetenschappelijke en technologische basis van de Europese industrie en verbetering van haar internationale concurrentiepositie te verwezenlijken;
 
-OVERWEGENDE dat de sluiting van deze Overeenkomst op generlei wijze afbreuk doet aan de mogelijkheid van een EVA-Staat toe te treden tot de Europese Gemeenschappen ;
+OVERWEGENDE dat de sluiting van deze Overeenkomst op generlei wijze afbreuk doet aan de mogelijkheid van een EVA-Staat toe te treden tot de Europese Gemeenschappen;
 
-OVERWEGENDE dat de overeenkomstsluitende partijen, met volledige eerbiediging van de onafhankelijkheid van de rechterlijke instanties, streven naar een uniforme uitlegging en toepassing van deze Overeenkomst en van die bepalingen van de communautaire wetgeving die in hoofdzaak in deze Overeenkomst zijn overgenomen, en te komen tot een gelijke behandeling van personen en ondernemingen wat betreft de vier vrijheden en de mededingingsvoorwaarden ;
+OVERWEGENDE dat de overeenkomstsluitende partijen, met volledige eerbiediging van de onafhankelijkheid van de rechterlijke instanties, streven naar een uniforme uitlegging en toepassing van deze Overeenkomst en van die bepalingen van de communautaire wetgeving die in hoofdzaak in deze Overeenkomst zijn overgenomen, en te komen tot een gelijke behandeling van personen en ondernemingen wat betreft de vier vrijheden en de mededingingsvoorwaarden;
 
 OVERWEGENDE dat deze Overeenkomst geen beperkingen stelt aan de besluitvormingsautonomie van de overeenkomstsluitende partijen noch aan hun bevoegdheid tot het sluiten van verdragen, behoudens het bepaalde in deze Overeenkomst en de door het volkenrecht gestelde beperkingen.
 
-HEBBEN BESLOTEN de volgende Overeenkomst te sluiten :
+HEBBEN BESLOTEN de volgende Overeenkomst te sluiten:
 
 ## DEEL I. DOELSTELLINGEN EN BEGINSELEN
 
@@ -155,13 +159,17 @@ HEBBEN BESLOTEN de volgende Overeenkomst te sluiten :
 
 In deze Overeenkomst wordt verstaan onder :
 
-- a). "Overeenkomst" : de hoofdovereenkomst met de daarbij behorende protocollen en bijlagen alsmede de daarin genoemde besluiten ;
+- a). “Overeenkomst” : de hoofdovereenkomst met de daarbij behorende protocollen en bijlagen alsmede de daarin genoemde besluiten;
 
-- b). „EVA-Staten": de Republiek IJsland, het Vorstendom Liechtenstein en het Koninkrijk Noorwegen.
+- b). „EVA-Staten”: IJsland, het Vorstendom Liechtenstein en het Koninkrijk Noorwegen.
 
-- c). "overeenkomstsluitende partijen" : wat de Gemeenschap en de Lid-Staten van de EG betreft, de Gemeenschap en de Lid-Staten van de EG, of de Gemeenschap, of de Lid-Staten van de EG. De per geval aan deze term te hechten betekenis moet worden afgeleid uit de betrokken bepalingen van deze Overeenkomst en de onderscheiden bevoegdheden van de Gemeenschap en de Lid-Staten van de EG zoals deze voortvloeien uit het Verdrag tot oprichting van de Europese Economische Gemeenschap.
+- c). “overeenkomstsluitende partijen”: wat de Gemeenschap en de Lid-Staten van de EG betreft, de Gemeenschap en de Lid-Staten van de EG, of de Gemeenschap, of de Lid-Staten van de EG. De per geval aan deze term te hechten betekenis moet worden afgeleid uit de betrokken bepalingen van deze Overeenkomst en de onderscheiden bevoegdheden van de Gemeenschap en de Lid-Staten van de EG zoals deze voortvloeien uit het Verdrag tot oprichting van de Europese Economische Gemeenschap.
 
-- d). Toetredingsakte van 16 april 2003: de akte betreffende de toetredingsvoorwaarden voor de Tsjechische Republiek, de Republiek Estland, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, de Republiek Hongarije, de Republiek Malta, de Republiek Polen, de Republiek Slovenië en de Slowaakse Republiek en de aanpassingen van de Verdragen waarop de Europese Unie is gegrond, goedgekeurd te Athene op 16 april 2003.
+- d). [Toetredingsakte van 16 april 2003](onbekend): de akte betreffende de toetredingsvoorwaarden voor de Tsjechische Republiek, de Republiek Estland, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, de Republiek Hongarije, de Republiek Malta, de Republiek Polen, de Republiek Slovenië en de Slowaakse Republiek en de aanpassingen van de Verdragen waarop de Europese Unie is gegrond, goedgekeurd te Athene op 16 april 2003.
+
+- e). [Toetredingsakte van 25 april 2005](onbekend): de Akte betreffende de toetredingsvoorwaarden voor de Republiek Bulgarije en Roemenië en de aanpassing van de Verdragen waarop de Europese Unie is gegrond, goedgekeurd te Luxemburg op 25 april 2005.
+
+- f). [Toetredingsprotocol van 25 april 2005](onbekend): het Protocol betreffende de voorwaarden en de nadere regels voor de toelating van de Republiek Bulgarije en Roemenië tot de Europese Unie, goedgekeurd te Luxemburg op 25 april 2005.
 
 ##### Artikel 3
 
@@ -1137,7 +1145,7 @@ De EVA-Staten stellen een financieel mechanisme in om in het kader van de EER en
 
 ##### Artikel 117
 
-Protocol 38 en Protocol 38bis bevatten bepalingen betreffende het financieel mechanisme.
+Protocol 38, Protocol 38 bis en het addendum bij Protocol 38 bis bevatten bepalingen betreffende het financieel mechanisme.
 
 ## DEEL IX. ALGEMENE EN SLOTBEPALINGEN
 
@@ -1189,13 +1197,13 @@ Deze Overeenkomst laat de regeling van het eigendomsrecht van de overeenkomstslu
 
 ##### Artikel 126
 
-1. De Overeenkomst is van toepassing op de gebieden waar het Verdrag tot oprichting van de Europese Economische Gemeenschap van toepassing is en onder de in dat Verdrag neergelegde voorwaarden en op de grondgebieden van de Republiek IJsland, het Vorstendom Liechtenstein en het Koninkrijk Noorwegen.
+1. De Overeenkomst is van toepassing op de gebieden waar het Verdrag tot oprichting van de Europese Economische Gemeenschap van toepassing is en onder de in dat Verdrag neergelegde voorwaarden en op de grondgebieden van IJsland, het Vorstendom Liechtenstein en het Koninkrijk Noorwegen.
 
-2. In afwijking van lid 1 is deze Overeenkomst niet van toepassing op de Ålandeilanden. De regering van Finland kan evenwel door een verklaring die bij de bekrachtiging van deze Overeenkomst wordt neergelegd bij de depositaris, die een voor eensluidend gewaarmerkt afschrift daarvan toezendt aan de overeenkomstsluitende partijen, ervan kennis geven dat de Overeenkomst op die eilanden van toepassing is onder dezelfde voorwaarden als waaronder zij voor andere delen van Finland geldt, behoudens de volgende bepalingen :
+2. In afwijking van lid 1 is deze Overeenkomst niet van toepassing op de Ålandeilanden. De regering van Finland kan evenwel door een verklaring die bij de bekrachtiging van deze Overeenkomst wordt neergelegd bij de depositaris, die een voor eensluidend gewaarmerkt afschrift daarvan toezendt aan de overeenkomstsluitende partijen, ervan kennis geven dat de Overeenkomst op die eilanden van toepassing is onder dezelfde voorwaarden als waaronder zij voor andere delen van Finland geldt, behoudens de volgende bepalingen:
 
-- a). De bepalingen van deze Overeenkomst vormen geen beletsel voor de toepassing te allen tijde op de Ålandeilanden van de geldende voorschriften inzake :
+- a). De bepalingen van deze Overeenkomst vormen geen beletsel voor de toepassing te allen tijde op de Ålandeilanden van de geldende voorschriften inzake:
 
-- i). beperkingen op het recht voor natuurlijke personen die niet in het bezit zijn van het regionale burgerschap van Åland, en voor rechtspersonen, om op de Ålandeilanden onroerend goed aan te kopen en te bezitten zonder toestemming van de bevoegde autoriteiten van de eilanden ;
+- i). beperkingen op het recht voor natuurlijke personen die niet in het bezit zijn van het regionale burgerschap van Åland, en voor rechtspersonen, om op de Ålandeilanden onroerend goed aan te kopen en te bezitten zonder toestemming van de bevoegde autoriteiten van de eilanden;
 
 - ii). beperkingen op het recht van vestiging en het recht diensten te verrichten van natuurlijke personen die niet in het bezit zijn van het regionale burgerschap van Åland of van een rechtspersoon, zonder toestemming van de bevoegde autoriteiten van de eilanden.
 
@@ -1219,9 +1227,9 @@ Onmiddellijk na de kennisgeving van de voorgenomen opzegging, roepen de overige 
 
 1. Deze Overeenkomst wordt opgesteld in één exemplaar, in de Deense, de Duitse, de Engelse, de Finse, de Franse, de Griekse, de Italiaanse, de IJslandse, de Nederlandse, de Noorse, de Portugese, de Spaanse en de Zweedse taal. zijnde elk van deze teksten gelijkelijk authentiek.
 
-Naar aanleiding van de uitbreiding van de Europese Economische Ruimte zijn eveneens de versies van deze Overeenkomst in de Tsjechische, de Estlandse, de Hongaarse, de Letlandse, de Litouwse, de Maltese, de Poolse, de Sloveense en de Slowaakse taal gelijkelijk authentiek.
+Naar aanleiding van de uitbreidingen van de Europese Economische Ruimte zijn eveneens de versies van deze overeenkomst in de Bulgaarse, de Estse, de Hongaarse, de Letse, de Litouwse, de Maltese, de Poolse, de Roemeense, de Sloveense, de Slowaakse en de Tsjechische taal gelijkelijk authentiek.
 
-De teksten van de in de bijlagen genoemde besluiten zijn gelijkelijk authentiek in de Tsjechische, de Deense, de Nederlandse, de Engelse, de Estlandse, de Finse, de Franse, de Duitse, de Griekse, de Hongaarse, de Italiaanse, de Letlandse, de Litouwse, de Maltese, de Poolse, de Portugese, de Sloveense, de Slowaakse, de Spaanse en de Zweedse taal, zoals zij in het Publicatieblad van de Europese Unie zijn verschenen, en worden met het oog op hun echtverklaring in de IJslandse en Noorse taal opgemaakt, en in het EER-supplement bij het Publicatieblad van de Europese Unie bekendgemaakt.
+De teksten van de in de bijlagen genoemde besluiten zijn gelijkelijk authentiek in de Bulgaarse, de Deense, de Duitse, de Engelse, de Estse, de Finse, de Franse, de Griekse, de Hongaarse, de Italiaanse, de Letse, de Litouwse, de Maltese, de Nederlandse, de Poolse, de Portugese, de Sloveense, de Slowaakse, de Spaanse, de Tsjechische en de Zweedse taal, zoals zij in het **Publicatieblad van de Europese Unie** zijn verschenen, en worden met het oog op hun echtverklaring in de IJslandse en Noorse taal opgemaakt en in het EER-supplement bij het **Publicatieblad van de Europese Unie** bekendgemaakt.
 
 2. Deze Overeenkomst zal door de overeenkomstsluitende partijen worden bekrachtigd of goedgekeurd overeenkomstig hun onderscheidene grondwettelijke bepalingen.
 
