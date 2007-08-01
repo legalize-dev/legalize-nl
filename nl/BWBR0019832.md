@@ -4,7 +4,7 @@ identifier: "BWBR0019832"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2007-09-05"
-last_updated: "2006-05-14"
+last_updated: "2007-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019832"
 soort: "ministeriele-regeling"
@@ -86,7 +86,7 @@ Het Nationaal Archief richt de bedrijfsvoering met inachtneming van deze regelin
 
 ##### Artikel 5
 
-Het Nationaal Archief kan marktactiviteiten verrichten, voorzover deze activiteiten onlosmakelijk verbonden zijn met het uitvoeren van de taken, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0019832&artikel=4&z=2006-05-14&g=2006-05-14). Het betreft de volgende activiteiten:
+Het Nationaal Archief kan marktactiviteiten verrichten, voorzover deze activiteiten onlosmakelijk verbonden zijn met het uitvoeren van de taken, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0019832&artikel=4&z=2006-05-14&g=2007-08-01). Het betreft de volgende activiteiten:
 
 - a. het verhuren van depotruimte aan derden, met gebruikmaking van restcapaciteit,
 
@@ -153,5 +153,11 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 ##### Artikel 15
 
 Dit besluit wordt aangehaald als: Statuut agentschap Nationaal Archief.
+
+Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 2a
+
+Het agentschap Nationaal Archief kent een algemene rijksarchivaris en een directeur.
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
