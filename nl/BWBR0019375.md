@@ -4,7 +4,7 @@ identifier: "BWBR0019375"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2006-01-21"
+last_updated: "2007-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019375"
 soort: "ministeriele-regeling"
@@ -175,7 +175,7 @@ windshear waarschuwingen: waarschuwing voor opgetreden of verwachte sterke verti
 
 ##### Artikel 3. Luchtvaartmeteorologische inlichtingen beschikbaar voor het vluchtinformatiegebied Amsterdam en het continentaal plat
 
-1. Het KNMI stelt voor de taakuitvoering van de onder [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019375&artikel=2&z=2006-01-21&g=2006-01-21), genoemde gebruikers in het vluchtinformatiegebied Amsterdam en het continentaal plat de volgende luchtvaartmeteorologische inlichtingen beschikbaar:
+1. Het KNMI stelt voor de taakuitvoering van de onder [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019375&artikel=2&z=2006-01-21&g=2007-08-01), genoemde gebruikers in het vluchtinformatiegebied Amsterdam en het continentaal plat de volgende luchtvaartmeteorologische inlichtingen beschikbaar:
 
 - a. SIGMET;
 
@@ -209,13 +209,13 @@ windshear waarschuwingen: waarschuwing voor opgetreden of verwachte sterke verti
 
 1. Het KNMI stelt tijdens de reguliere openstellingsuren van luchthavens en luchtvaartterreinen, gepubliceerd in de luchtvaartgids, de volgende luchtvaartmeteorologische inlichtingen beschikbaar:
 
-- a. voor de taakuitvoering van de onder [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019375&artikel=2&z=2006-01-21&g=2006-01-21), genoemde gebruikers:
+- a. voor de taakuitvoering van de onder [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019375&artikel=2&z=2006-01-21&g=2007-08-01), genoemde gebruikers:
 
 - 1°. aerodrome Warning,
 
 - 2°. windshear waarschuwingen;
 
-- b. voor de taakuitvoering van de onder [artikel 2, eerste lid, onderdelen a tot en met i](https://wetten.overheid.nl/jci1.3:c:BWBR0019375&artikel=2&z=2006-01-21&g=2006-01-21), genoemde gebruikers:
+- b. voor de taakuitvoering van de onder [artikel 2, eerste lid, onderdelen a tot en met i](https://wetten.overheid.nl/jci1.3:c:BWBR0019375&artikel=2&z=2006-01-21&g=2007-08-01), genoemde gebruikers:
 
 - 1°. TAF lang, uitgezonderd luchtvaartterrein Eelde,
 
@@ -227,7 +227,7 @@ windshear waarschuwingen: waarschuwing voor opgetreden of verwachte sterke verti
 
 - 5°. take-off forecast, indien daarom wordt verzocht;
 
-- c. voor de taakuitvoering van de onder [artikel 2, eerste lid, onderdelen f tot en met k](https://wetten.overheid.nl/jci1.3:c:BWBR0019375&artikel=2&z=2006-01-21&g=2006-01-21), genoemde gebruikers:
+- c. voor de taakuitvoering van de onder [artikel 2, eerste lid, onderdelen f tot en met k](https://wetten.overheid.nl/jci1.3:c:BWBR0019375&artikel=2&z=2006-01-21&g=2007-08-01), genoemde gebruikers:
 
 - 1°. MET REPORT en SPECIAL voor de instrumentlandingsbanen,
 
@@ -241,11 +241,11 @@ windshear waarschuwingen: waarschuwing voor opgetreden of verwachte sterke verti
 
 - 6°. Runway Visual Range informatie voor het begin en het eind deel van de instrument landingsbaan ingeval van een categorie 1 of 2 instrumentlandingsbaan of voor het begin, midden en het eind deel van de instrumentlandingsbaan ingeval van een categorie 3 instrumentlandingsbaan;
 
-- d. voor de taakuitvoering van de onder [artikel 2, eerste lid, onderdeel b, en onderdelen f tot en met k](https://wetten.overheid.nl/jci1.3:c:BWBR0019375&artikel=2&z=2006-01-21&g=2006-01-21), genoemde gebruikers en alleen voor de luchthaven Schiphol, advisering door middel van het weersafhankelijk beschikbaar stellen van specifieke informatie door een meteorologisch adviseur.
+- d. voor de taakuitvoering van de onder [artikel 2, eerste lid, onderdeel b, en onderdelen f tot en met k](https://wetten.overheid.nl/jci1.3:c:BWBR0019375&artikel=2&z=2006-01-21&g=2007-08-01), genoemde gebruikers en alleen voor de luchthaven Schiphol, advisering door middel van het weersafhankelijk beschikbaar stellen van specifieke informatie door een meteorologisch adviseur.
 
 2. Het KNMI stelt buiten de reguliere openstellingsuren van luchthavens en luchtvaartterreinen, gepubliceerd in de luchtvaartgids, de volgende luchtvaartmeteorologische inlichtingen beschikbaar:
 
-- a. voor de taakuitvoering van de onder [artikel 2, eerste lid, onderdelen a tot en met i](https://wetten.overheid.nl/jci1.3:c:BWBR0019375&artikel=2&z=2006-01-21&g=2006-01-21), genoemde gebruikers:
+- a. voor de taakuitvoering van de onder [artikel 2, eerste lid, onderdelen a tot en met i](https://wetten.overheid.nl/jci1.3:c:BWBR0019375&artikel=2&z=2006-01-21&g=2007-08-01), genoemde gebruikers:
 
 - 1°. TAF lang, uitgezonderd luchtvaartterrein Eelde,
 
@@ -253,7 +253,7 @@ windshear waarschuwingen: waarschuwing voor opgetreden of verwachte sterke verti
 
 - 3°. AUTO METAR/AUTO SPECI,
 
-- b. voor de taakuitvoering van de onder [artikel 2, eerste lid, onderdelen f tot en met k](https://wetten.overheid.nl/jci1.3:c:BWBR0019375&artikel=2&z=2006-01-21&g=2006-01-21), genoemde gebruikers:
+- b. voor de taakuitvoering van de onder [artikel 2, eerste lid, onderdelen f tot en met k](https://wetten.overheid.nl/jci1.3:c:BWBR0019375&artikel=2&z=2006-01-21&g=2007-08-01), genoemde gebruikers:
 
 - 1°. windinformatie, representatief voor de landingsplek op de instrumentlandingsbaan,
 
@@ -265,7 +265,7 @@ windshear waarschuwingen: waarschuwing voor opgetreden of verwachte sterke verti
 
 ##### Artikel 5. Luchtvaartmeteorologische inlichtingen beschikbaar op luchtvaartterreinen in gebruik voor internationaal privé- en zakenluchtverkeer
 
-De exploitant stelt tijdens de reguliere openstellingsuren van het luchtvaartterrein, indien buiten de daglichtperiode luchtverkeersklasse F van toepassing is, de volgende luchtvaartmeteorologische inlichtingen beschikbaar voor de taakuitvoering van de onder [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019375&artikel=2&z=2006-01-21&g=2006-01-21), genoemde gebruikers:
+De exploitant stelt tijdens de reguliere openstellingsuren van het luchtvaartterrein, indien buiten de daglichtperiode luchtverkeersklasse F van toepassing is, de volgende luchtvaartmeteorologische inlichtingen beschikbaar voor de taakuitvoering van de onder [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019375&artikel=2&z=2006-01-21&g=2007-08-01), genoemde gebruikers:
 
 - a. de actuele windrichting en snelheid op de grond, inclusief belangrijke wisselingen, representatief voor de in gebruik zijnde baan;
 
@@ -281,15 +281,15 @@ De exploitant stelt tijdens de reguliere openstellingsuren van het luchtvaartter
 
 ##### Artikel 6. Luchtvaartmeteorologische inlichtingen beschikbaar op helikopterdekken op de Noordzee en het continentaal plat
 
-1. De vergunninghouder van de aangewezen mijnbouwinstallatie stelt ingevolge [artikel 4.4.7, derde lid, van de Mijnbouwregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&artikel=4.4.7) de meteorologische parameters beschikbaar aan het KNMI. Het KNMI stelt op basis hiervan AUTO METAR/AUTO SPECI beschikbaar ten behoeve van de taakuitvoering van de onder [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019375&artikel=2&z=2006-01-21&g=2006-01-21), genoemde gebruikers.
+1. De vergunninghouder van de aangewezen mijnbouwinstallatie stelt ingevolge [artikel 4.4.7, derde lid, van de Mijnbouwregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&artikel=4.4.7) de meteorologische parameters beschikbaar aan het KNMI. Het KNMI stelt op basis hiervan AUTO METAR/AUTO SPECI beschikbaar ten behoeve van de taakuitvoering van de onder [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019375&artikel=2&z=2006-01-21&g=2007-08-01), genoemde gebruikers.
 
-2. Het KNMI stelt in de periode van 07.00 uur tot 21.00 uur plaatselijke tijd, voor vijf gebieden op de Noordzee gelegen in het gebied ten noorden van 53 graden noorderbreedte en binnen de gebieden, beschreven in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=4) en [artikel 9 van de Regeling luchtverkeersdienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=9), luchtvaartmeteorologische inlichtingen beschikbaar in de vorm van NAF aan de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019375&artikel=2&z=2006-01-21&g=2006-01-21), genoemde gebruikers.
+2. Het KNMI stelt in de periode van 07.00 uur tot 21.00 uur plaatselijke tijd, voor vijf gebieden op de Noordzee gelegen in het gebied ten noorden van 53 graden noorderbreedte en binnen de gebieden, beschreven in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=4) en [artikel 9 van de Regeling luchtverkeersdienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=9), luchtvaartmeteorologische inlichtingen beschikbaar in de vorm van NAF aan de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019375&artikel=2&z=2006-01-21&g=2007-08-01), genoemde gebruikers.
 
 3. Luchtvaartmeteorologische inlichtingen beschikbaar gemaakt als bedoeld onder het eerste en tweede lid, hebben een bewaartermijn van minimaal 100 dagen.
 
 ##### Artikel 7. Luchtvaartmeteorologische inlichtingen beschikbaar op militaire luchtvaartterreinen met burgermedegebruik
 
-1. Voor de taakuitvoering van de onder [artikel 2, eerste lid, onderdelen a tot en met i](https://wetten.overheid.nl/jci1.3:c:BWBR0019375&artikel=2&z=2006-01-21&g=2006-01-21), genoemde gebruikers worden de volgende specifieke luchtvaartmeteorologische inlichtingen tijdens de reguliere openstellingsuren van het luchtvaartterrein, gepubliceerd in de militaire luchtvaartgids, door Defensie beschikbaar gemaakt:
+1. Voor de taakuitvoering van de onder [artikel 2, eerste lid, onderdelen a tot en met i](https://wetten.overheid.nl/jci1.3:c:BWBR0019375&artikel=2&z=2006-01-21&g=2007-08-01), genoemde gebruikers worden de volgende specifieke luchtvaartmeteorologische inlichtingen tijdens de reguliere openstellingsuren van het luchtvaartterrein, gepubliceerd in de militaire luchtvaartgids, door Defensie beschikbaar gemaakt:
 
 - a. TAF kort;
 
@@ -303,7 +303,7 @@ De exploitant stelt tijdens de reguliere openstellingsuren van het luchtvaartter
 
 ##### Artikel 8. Verstrekking van luchtvaartmeteorologische inlichtingen ten behoeve van de voorbereiding van een vlucht
 
-Voor de voorbereiding van een vlucht door de onder [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019375&artikel=2&z=2006-01-21&g=2006-01-21), genoemde gebruikers worden luchtvaartmeteorologische inlichtingen als bedoeld onder [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019375&artikel=2&z=2006-01-21&g=2006-01-21), verstrekt door middel van:
+Voor de voorbereiding van een vlucht door de onder [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019375&artikel=2&z=2006-01-21&g=2007-08-01), genoemde gebruikers worden luchtvaartmeteorologische inlichtingen als bedoeld onder [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019375&artikel=2&z=2006-01-21&g=2007-08-01), verstrekt door middel van:
 
 - a. self-briefing systemen op de luchthaven Schiphol en de luchtvaartterreinen Maastricht, Eelde, Rotterdam en het burgergedeelte van het militair luchtvaartterrein Eindhoven;
 
@@ -315,17 +315,17 @@ Voor de voorbereiding van een vlucht door de onder [artikel 2, eerste lid](https
 
 ##### Artikel 9. Verstrekking van luchtvaartmeteorologische inlichtingen ten behoeve van vluchtuitvoering, luchthavenoperaties en luchtverkeersdienstverlening
 
-1. Het KNMI verstrekt ten behoeve van de taakuitvoering van de onder [artikel 2, eerste lid, onderdelen b, j en k](https://wetten.overheid.nl/jci1.3:c:BWBR0019375&artikel=2&z=2006-01-21&g=2006-01-21), genoemde gebruikers luchtvaartmeteorologische inlichtingen door middel van:
+1. Het KNMI verstrekt ten behoeve van de taakuitvoering van de onder [artikel 2, eerste lid, onderdelen b, j en k](https://wetten.overheid.nl/jci1.3:c:BWBR0019375&artikel=2&z=2006-01-21&g=2007-08-01), genoemde gebruikers luchtvaartmeteorologische inlichtingen door middel van:
 
-- a. directe toegang tot meteorologische informatie als bedoeld onder [artikel 4, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0019375&artikel=4&z=2006-01-21&g=2006-01-21), door toegang te verlenen tot een gegevensdrager aanwezig op de luchthaven of het luchtvaartterrein;
+- a. directe toegang tot meteorologische informatie als bedoeld onder [artikel 4, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0019375&artikel=4&z=2006-01-21&g=2007-08-01), door toegang te verlenen tot een gegevensdrager aanwezig op de luchthaven of het luchtvaartterrein;
 
-- b. directe toegang tot meteorologische informatie als bedoeld onder [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019375&artikel=3&z=2006-01-21&g=2006-01-21) door toegang te verlenen tot een centrale gegevensdrager.
+- b. directe toegang tot meteorologische informatie als bedoeld onder [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019375&artikel=3&z=2006-01-21&g=2007-08-01) door toegang te verlenen tot een centrale gegevensdrager.
 
 2. Het KNMI kan voorwaarden verbinden aan de toegang tot de gegevensdragers als bedoeld in het eerste lid om zorg te dragen voor een veilige en efficiënte verstrekking van luchtvaartmeteorologische inlichtingen.
 
 ##### Artikel 10. Verstrekking van luchtvaartmeteorologische inlichtingen ten behoeve van het onderzoek van ongevallen en incidenten
 
-Voor de taakuitvoering van de onder [artikel 2, eerste lid, onderdelen f tot en met i](https://wetten.overheid.nl/jci1.3:c:BWBR0019375&artikel=2&z=2006-01-21&g=2006-01-21), genoemde gebruikers worden luchtvaartmeteorologische inlichtingen verstrekt door middel van:
+Voor de taakuitvoering van de onder [artikel 2, eerste lid, onderdelen f tot en met i](https://wetten.overheid.nl/jci1.3:c:BWBR0019375&artikel=2&z=2006-01-21&g=2007-08-01), genoemde gebruikers worden luchtvaartmeteorologische inlichtingen verstrekt door middel van:
 
 - a. rapporten, op verzoek opgesteld, met als doel een meteorologische reconstructie mogelijk te maken;
 
@@ -333,7 +333,7 @@ Voor de taakuitvoering van de onder [artikel 2, eerste lid, onderdelen f tot en 
 
 ##### Artikel 11. Luchtvaartmeteorologische inlichtingen aan buitenlandse organisaties
 
-In overeenstemming met de normen van de Internationale Burger Luchtvaart Organisatie en bilaterale overeenkomsten worden luchtvaartmeteorologische inlichtingen als genoemd in [artikel 3, eerste lid, onderdelen a, b, d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0019375&artikel=3&z=2006-01-21&g=2006-01-21), [artikel 4, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0019375&artikel=4&z=2006-01-21&g=2006-01-21) en [artikel 4, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0019375&artikel=4&z=2006-01-21&g=2006-01-21), beschikbaar gemaakt aan buitenlandse organisaties.
+In overeenstemming met de normen van de Internationale Burger Luchtvaart Organisatie en bilaterale overeenkomsten worden luchtvaartmeteorologische inlichtingen als genoemd in [artikel 3, eerste lid, onderdelen a, b, d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0019375&artikel=3&z=2006-01-21&g=2007-08-01), [artikel 4, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0019375&artikel=4&z=2006-01-21&g=2007-08-01) en [artikel 4, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0019375&artikel=4&z=2006-01-21&g=2007-08-01), beschikbaar gemaakt aan buitenlandse organisaties.
 
 ##### Artikel 12
 
