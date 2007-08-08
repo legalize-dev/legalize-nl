@@ -4,7 +4,7 @@ identifier: "BWBR0022361"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2007-08-08"
-last_updated: "2007-07-12"
+last_updated: "2007-08-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022361"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ entry_into_force: "2007-08-08"
 
 ##### Artikel II
 
-Dit onderdeel is nog niet inwerking getreden
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. [Artikel I, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022361&artikel=I&z=2007-08-08&g=2007-08-08), werkt terug tot en met 12 juli 2007.
 
 Gelet op [verordening (EG) nr. 1013/2006](32006R1013) van het Europees Parlement en de Raad van de Europese Unie van 14 juni 2006 betreffende de overbrenging van afvalstoffen (PbEU L 190) en [artikel 10.56, eerste en tweede lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.56);
 
