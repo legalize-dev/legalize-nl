@@ -4,7 +4,7 @@ identifier: "BWBR0008162"
 country: "nl"
 rank: "amvb"
 publication_date: "2007-08-17"
-last_updated: "2002-04-10"
+last_updated: "2007-08-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008162"
 soort: "AMvB"
@@ -48,6 +48,8 @@ Gezien het nader rapport van de Staatssecretaris van Binnenlandse Zaken, mw. A. 
 
 Hebben goedgevonden en verstaan:
 
+Werkt terug tot en met 1 januari 1994.
+
 ##### Artikel 1
 
 De middelen in het Provinciefonds inzake Rivierdijkversterkingen en Onderhoud hoofdwaterkeringen worden vanaf het uitkeringsjaar 1994 verdeeld zoals aangegeven in de bijlage bij dit besluit.
@@ -60,22 +62,22 @@ Dit besluit treedt in werking met ingang van de eerste dag na de datum van uitgi
 
 Dit besluit wordt aangehaald als: Besluit rivierdijkversterking/ hoofdwaterkeringen Provinciefonds.
 
-## Bijlage
+## Bijlage. als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008162&artikel=1&z=2007-08-17&g=2007-08-17) van het Besluit rivierdijkversterking / hoofdwaterkeringen Provinciefonds
 
-|   | 1999 | 2000 en 2001 in fls | 2002–2004 in € | 2005 ev in € |
-| --- | --- | --- | --- | --- |
-| Groningen | 1 093 453 | 1 093 453 | 496 188 | 496 185 |
-| Friesland | 1 644 677 | 1 659 727 | 753 152 | 753 147 |
-| Drenthe | 0 | 0 | 0 | 0 |
-| Overijssel | 31 693 117 | 33 268 747 | 15 096 714 | 10 766 641 |
-| Gelderland | 40 625 209 | 43 840 099 | 19 893 789 | 19 353 600 |
-| Utrecht | 1 918 750 | 2 061 900 | 935 650 | 935 645 |
-| Noord-Holland | 3 250 611 | 3 255 721 | 1 477 383 | 1 472 518 |
-| Zuid-Holland | 32 981 247 | 34 268 407 | 15 550 341 | 9 745 751 |
-| Zeeland | 4 050 943 | 4 050 943 | 1 838 240 | 1 838 228 |
-| Noord-Brabant | 12 585 379 | 13 344 389 | 6 055 426 | 4 891 173 |
-| Limburg | 0 | 0 | 0 | 0 |
-| Flevoland | 1 756 614 | 1 756 614 | 797 117 | 797 112 |
-| Totaal | 131 600 000 | 138 600 000 | 62 894 000 | 51 050 000 |
+|   | 2005 | 2006 en volgende jaren |
+| --- | --- | --- |
+| Groningen | 0 | 0 |
+| Fryslân | 87 807 | 0 |
+| Drenthe | 0 | 0 |
+| Overijssel | 10 554 176 | 1 361 341 |
+| Gelderland | 18 756 883 | 38 499 251 |
+| Utrecht | 835 191 | 0 |
+| Noord-Holland | 29 814 | 0 |
+| Zuid-Holland | 7 509 778 | 0 |
+| Zeeland | 0 | 0 |
+| Noord-Brabant | 4 428 351 | 2 341 408 |
+| Limburg | 0 | 0 |
+| Flevoland | 0 | 0 |
+| Totaal | 42 202 000 | 42 202 000 |
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
