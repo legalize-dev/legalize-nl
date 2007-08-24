@@ -4,7 +4,7 @@ identifier: "BWBR0021917"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2017-05-01"
-last_updated: "2007-07-19"
+last_updated: "2007-08-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0021917"
 soort: "ministeriele-regeling"
@@ -56,7 +56,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-1. Aan de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0021917&bijlage=1&z=2007-07-19&g=2007-07-19) bij deze regeling genoemde functionarissen of instanties wordt mandaat verleend om:
+1. Aan de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0021917&bijlage=1&z=2007-08-24&g=2007-08-24) bij deze regeling genoemde functionarissen of instanties wordt mandaat verleend om:
 
 - a. besluiten te nemen op aanvragen van vergunningen als bedoeld in [artikel 3, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0021605&artikel=3);
 
@@ -64,7 +64,7 @@ In deze regeling wordt verstaan onder:
 
 - c. de hoogte vast te stellen van de retributie.
 
-2. Aan de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0021917&bijlage=1&z=2007-07-19&g=2007-07-19) bij deze regeling genoemde functionarissen of instanties wordt volmacht verleend om de retributies te innen, die zijn vastgesteld op basis van het eerste lid, onderdeel c.
+2. Aan de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0021917&bijlage=1&z=2007-08-24&g=2007-08-24) bij deze regeling genoemde functionarissen of instanties wordt volmacht verleend om de retributies te innen, die zijn vastgesteld op basis van het eerste lid, onderdeel c.
 
 3. De functionarissen en instanties bedoeld in onderscheidenlijk het eerste en het tweede lid, zijn bevoegd aan één of meerdere onder hen ressorterende functionarissen ondermandaat of ondervolmacht te verlenen tot het geheel of gedeeltelijk uitoefenen van de op grond van deze regeling toegekende bevoegdheden.
 
@@ -78,7 +78,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 4
 
-1. De in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021917&artikel=2&z=2007-07-19&g=2007-07-19), bedoelde besluiten worden als volgt ondertekend:
+1. De in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021917&artikel=2&z=2007-08-24&g=2007-08-24), bedoelde besluiten worden als volgt ondertekend:
 
 De Minister van Volksgezondheid, Welzijn en Sport,
 
@@ -86,7 +86,7 @@ namens deze:
 
 (gevolgd door handtekening en naam van de gemandateerde)
 
-2. De in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021917&artikel=2&z=2007-07-19&g=2007-07-19), bedoelde besluiten worden als volgt ondertekend:
+2. De in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021917&artikel=2&z=2007-08-24&g=2007-08-24), bedoelde besluiten worden als volgt ondertekend:
 
 De Minister van Volksgezondheid, Welzijn en Sport,
 
@@ -134,5 +134,8 @@ Deze regeling wordt aangehaald als: Regeling mandaat- en volmachtverlening aan d
 | GGD Regio Twente | bestuurscommissie Openbare Gezondheidszorg |
 | Hulpverleningsdienst Kennemerland | dagelijks bestuur |
 | GGD Brabant-Zuidoost | dagelijks bestuur |
+| GG&GD Utrecht | directeur |
+| Gemeente Den Haag, Dienst Onderwijs, Cultuur en Welzijn | college B&W |
+| GGD Fryslân | algemeen bestuur Hulpverleningsdienst Fryslân |
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
