@@ -367,19 +367,3 @@ Aangewezen per 1 september 2007
 2. Het secretariaat van het overlegorgaan berust bij de provincie Overijssel.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022396&bijlage=1&z=2007-09-01&g=2007-09-01) die ter inzage wordt gelegd bij het Ministerie van Landbouw, Natuur en Voedselkwaliteit, Bezuidenhoutseweg 73 in ’s-Gravenhage.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022396&bijlage=1&z=2009-01-01&g=2009-01-01) die ter inzage wordt gelegd bij het Ministerie van Landbouw, Natuur en Voedselkwaliteit, Bezuidenhoutseweg 73 in ’s-Gravenhage.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van bijlage 1 die ter inzage wordt gelegd bij het Ministerie van Landbouw, Natuur en Voedselkwaliteit, Bezuidenhoutseweg 73 in ’s-Gravenhage.
-
-##### Artikel 1a
-
-Dit besluit berust op [artikel 2.44, derde lid, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.44).
-
-#### § 2. Het overlegorgaan
-
-#### § 3. Nationaal park in oprichting
-
-#### § 4. Slotbepalingen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van bijlage 1 die ter inzage wordt gelegd bij het Ministerie van Landbouw, Natuur en Voedselkwaliteit, Bezuidenhoutseweg 73 in ’s-Gravenhage.
