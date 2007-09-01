@@ -4,7 +4,7 @@ identifier: "BWBR0023160"
 country: "nl"
 rank: "amvb"
 publication_date: "2009-04-01"
-last_updated: "2007-03-01"
+last_updated: "2007-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023160"
 soort: "AMvB"
@@ -62,16 +62,28 @@ Wijzigt het Inkomstenbesluit militairen.
 
 ### Hoofdstuk 7. Wijzigingen met ingang van 1 januari 2008 alsmede wijzigingen in verband met de invoering van het flexibel personeelssysteem
 
+### Hoofdstuk 6. Wijzigingen met ingang van 1 oktober 2007
+
+### Hoofdstuk 7. Wijzigingen met ingang van 1 januari 2008 alsmede wijzigingen in verband met de invoering van het flexibel personeelssysteem
+
 ### Hoofdstuk 8. Wijzigingen met ingang van 1 juli 2008
 
 ### Hoofdstuk 9. Wijzigingen in verband met de arbeidsvoorwaardenovereenkomst bij de sector rijk
 
-### Hoofdstuk 10. Doorwerking salarisaanpassing in de ontslaguitkeringen van gewezen ambtenaren
-
-### Hoofdstuk 10. Doorwerking salarisaanpassing in de ontslaguitkeringen van gewezen ambtenaren
-
 ##### Artikel 22
 
 Wijzigt het Inkomstenbesluit militairen.
+
+### Hoofdstuk 11. Slotbepalingen
+
+##### Artikel 7
+
+Wijzigt het Inkomstenbesluit burgerlijke ambtenaren defensie.
+
+##### Artikel 8
+
+Wijzigt het Inkomstenbesluit militairen.
+
+### Hoofdstuk 10. Doorwerking salarisaanpassing in de ontslaguitkeringen van gewezen ambtenaren
 
 ### Hoofdstuk 11. Slotbepalingen
