@@ -452,31 +452,3 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 Deze wet wordt aangehaald als: Uitvoeringswet grondkamers.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 1a
-
-Op de grondkamers is de [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495) van toepassing, met uitzondering van de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=12), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=14), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=21) en [22](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=22).
-
-### Hoofdstuk 2. Verzoeken aan de grondkamer
-
-#### Paragraaf 1. De indiening
-
-#### Paragraaf 2. Het onderzoek
-
-#### Paragraaf 3. De behandeling
-
-#### Paragraaf 4. De behandeling in hoger beroep
-
-### Hoofdstuk 3. Competentiegeschillen
-
-### Hoofdstuk 4. Algemene bepalingen
-
-### Hoofdstuk 5. Bijzondere processuele bepaling
-
-### Hoofdstuk 6. [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537)
-
-### Hoofdstuk 7. Aanpassing wetgeving
-
-### Hoofdstuk 8. Slotartikelen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
