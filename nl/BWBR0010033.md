@@ -4,7 +4,7 @@ identifier: "BWBR0010033"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-05-08"
-last_updated: "2004-05-19"
+last_updated: "2007-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010033"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 2
 
-1. Met het toezicht op de naleving van de bepalingen, bedoeld in [artikel 15.1, eerste lid, onder a, c, e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=15.1), en [artikel 15.1, eerste lid, onder h](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=15.1) voorzover het betreft de [artikelen 18.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=18.4), [20.2](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=20.2), voorzover het bevoegdheden betreft van de Minister van Economische Zaken, en [20.14 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=20.14), zijn belast de ambtenaren van de Handhavingsdistricten en de afdeling Toegepast Spectrum Onderzoek van het agentschap Telecom van het Ministerie van Economische Zaken met uitzondering van de hoofden van de districten, het hoofd van de afdeling Toegepast Spectrum Onderzoek en de bedrijfsvoeringsmedewerkers.
+1. Met het toezicht op de naleving van de bepalingen, bedoeld in [artikel 15.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=15.1), zijn, voor zover het de bevoegdheden betreft van de Minister van Economische Zaken, belast de ambtenaren met de functiebenamingen inspecteur, medewerker handhaving en senior medewerker handhaving van de afdeling Toezicht van Agentschap Telecom van het ministerie van Economische Zaken.
 
 2. Met het toezicht op de bepalingen, bedoeld in [artikel 15.1, eerste lid, onder d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=15.1), zijn belast de ambtenaren van de directie markt en ordening, die behoren tot het cluster communicatieregelgeving van het directoraat-generaal Telecommunicatie en Post met uitzondering van de secretariaatsmedewerkers.
 
