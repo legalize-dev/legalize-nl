@@ -4,7 +4,7 @@ identifier: "BWBR0022717"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-01-01"
-last_updated: "2007-01-01"
+last_updated: "2007-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022717"
 soort: "AMvB"
@@ -82,7 +82,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 48
 
-De leden en plaatsvervangende leden van de Centrale Grondkamer die als rechterlijk ambtenaar een bezoldigd ambt bekleden en de in de [artikelen 44](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=2&paragraaf=4&artikel=44&z=2009-01-01&g=2007-01-01) en [45](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=2&paragraaf=4&artikel=45&z=2009-01-01&g=2007-01-01) genoemde personen genieten in verband met de in de vorige artikelen genoemde werkzaamheden een vergoeding voor reis- en verblijfkosten overeenkomstig het bepaalde bij en krachtens het [Reisbesluit binnenland](https://wetten.overheid.nl/jci1.3:c:BWBR0005889).
+De leden en plaatsvervangende leden van de Centrale Grondkamer die als rechterlijk ambtenaar een bezoldigd ambt bekleden en de in de [artikelen 44](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=2&paragraaf=4&artikel=44&z=2009-01-01&g=2007-09-01) en [45](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=2&paragraaf=4&artikel=45&z=2009-01-01&g=2007-09-01) genoemde personen genieten in verband met de in de vorige artikelen genoemde werkzaamheden een vergoeding voor reis- en verblijfkosten overeenkomstig het bepaalde bij en krachtens het [Reisbesluit binnenland](https://wetten.overheid.nl/jci1.3:c:BWBR0005889).
 
 ##### Artikel 49
 
@@ -90,12 +90,48 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 49a
 
-1. De vergoedingen, bedoeld in de artikelen de [artikelen 44, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=2&paragraaf=4&artikel=44&z=2009-01-01&g=2007-01-01), [45, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=2&paragraaf=4&artikel=45&z=2009-01-01&g=2007-01-01), en [46, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=2&paragraaf=4&artikel=46&z=2009-01-01&g=2007-01-01), worden jaarlijks per 1 januari aangepast aan de mate waarin het prijspeil in de periode van 1 juli in het voorafgaande jaar tot en met 1 juli van het daaraan voorafgaande jaar gemiddeld is gestegen volgens de Consumentenprijsindex voor alle huishoudens zoals gepubliceerd door het Centraal Bureau voor de Statistiek. De bedragen worden afgerond op hele euro’s.
+1. De vergoedingen, bedoeld in de artikelen de [artikelen 44, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=2&paragraaf=4&artikel=44&z=2009-01-01&g=2007-09-01), [45, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=2&paragraaf=4&artikel=45&z=2009-01-01&g=2007-09-01), en [46, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=2&paragraaf=4&artikel=46&z=2009-01-01&g=2007-09-01), worden jaarlijks per 1 januari aangepast aan de mate waarin het prijspeil in de periode van 1 juli in het voorafgaande jaar tot en met 1 juli van het daaraan voorafgaande jaar gemiddeld is gestegen volgens de Consumentenprijsindex voor alle huishoudens zoals gepubliceerd door het Centraal Bureau voor de Statistiek. De bedragen worden afgerond op hele euro’s.
 
 2. Onze Minister van Landbouw, Natuur en Voedselkwaliteit maakt de aanpassing, bedoeld in het eerste lid, uiterlijk 1 oktober van het voorgaande jaar bekend in de Staatscourant.
 
 ### Hoofdstuk 3. Uitvoering van de [artikelen 48b, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=48b), en [69a van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=69a)
 
 ### Hoofdstuk 4. Aanpassing algemene maatregelen van bestuur
+
+### Hoofdstuk 5. Slotartikelen
+
+### Hoofdstuk 3. Uitvoering van de [artikelen 48b, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=48b), en [69a van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=69a)
+
+### Hoofdstuk 4. Aanpassing algemene maatregelen van bestuur
+
+##### Artikel 57
+
+Wijzigt het Besluit herverkaveling.
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 58
+
+Wijzigt het Besluit grondbankstelsel.
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 59
+
+Wijzigt Besluit uitvoering artikel 15, tweede lid, Vorderingswet 1962.
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 60
+
+Wijzigt de Schadeloosstellingsregeling Luchtvaartwet.
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 61
+
+Wijzigt het Pachtprijzenbesluit 2007.
+
+### Hoofdstuk 5. Slotartikelen
 
 ### Hoofdstuk 5. Slotartikelen
