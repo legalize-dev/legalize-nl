@@ -4,7 +4,7 @@ identifier: "BWBR0011595"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2007-08-01"
+last_updated: "2007-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011595"
 soort: "ministeriele-regeling"
@@ -51,11 +51,15 @@ Gegevens die nodig zijn voor de toekenning van studiefinanciering, worden door d
 
 ##### Artikel 2.2. De studentenchipkaart
 
-In afwijking van [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=2&artikel=2.1&z=2007-08-01&g=2007-08-01) kan een studerende die in het bezit is van een studentenchipkaart gegevens betreffende de einddatum van zijn aanspraak op studiefinanciering of de wijziging van zijn woonplaats, aan de IB-Groep doorgeven via de aan hem verstrekte studentenchipkaart.
+Vervallen
 
 ##### Artikel 2.3. Aanvraagprocedure
 
-In de aanvraag om toekenning van studiefinanciering worden de basisbeurs, de aanvullende beurs, de basislening of de aanvullende lening aangevraagd. De aanvrager doet daarbij opgave van het sociaal-fiscaal nummer waaronder hijzelf is geregistreerd bij de rijksbelastingdienst.
+1. In de aanvraag om toekenning van studiefinanciering worden de basisbeurs, de aanvullende beurs, de basislening, de aanvullende lening of het collegegeldkrediet aangevraagd.
+
+2. De aanvrager doet bij de aanvraag als bedoeld in het eerste lid opgave van het sociaal-fiscaal nummer waaronder hijzelf is geregistreerd bij de rijksbelastingdienst.
+
+3. Indien de aanvrager het collegegeldkrediet aanvraagt, voegt hij bij de aanvraag een bewijs van het door hem verschuldigde collegegeld voor de opleiding waarvoor hij studiefinanciering aanvraagt indien het bedrag dat hij per maand aanvraagt hoger ligt dan eentwaalfde deel van het bedrag, genoemd in [artikel 7.43, eerste lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.43).
 
 ##### Artikel 2.4. Volledige opleiding buiten Nederland: aanvraag OV-studenten-kaart
 
@@ -63,7 +67,7 @@ De studerende, bedoeld in [artikel 3.25 van de wet](https://wetten.overheid.nl/j
 
 ##### Artikel 2.5. Deel opleiding buiten Nederland: aanvraag voorziening in geld
 
-1. De studerende, bedoeld in [artikel 4.12](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=4&artikel=4.12&z=2007-08-01&g=2007-08-01), die een reisvoorziening in geld wenst te ontvangen, dient daartoe een aanvraag in bij de IB-Groep.
+1. De studerende, bedoeld in [artikel 4.12](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=4&artikel=4.12&z=2007-09-01&g=2007-09-01), die een reisvoorziening in geld wenst te ontvangen, dient daartoe een aanvraag in bij de IB-Groep.
 
 2. Op het aanvraagformulier wordt door de onderwijsinstelling waar de studerende blijft ingeschreven, verklaard:
 
@@ -79,11 +83,11 @@ De studerende, bedoeld in [artikel 3.25 van de wet](https://wetten.overheid.nl/j
 
 ##### Artikel 3.1. Lening na Bachelor of Master-opleiding voor hoger onderwijs in EER-landen
 
-Voor een lening gedurende ten hoogste 36 maanden als bedoeld in [artikel 2.12 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=2.12) kan een student in aanmerking komen die onderwijs volgt aan iedere opleiding voor hoger onderwijs in een staat buiten Nederland die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, indien voor die opleiding van overheidswege in de desbetreffende staat een tegemoetkoming in studiekosten of levensonderhoud wordt verstrekt.
+Vervallen
 
 ##### Artikel 3.2. Studiefinanciering volledige opleiding in het buitenland: geharmoniseerde opleidingen
 
-Voor studiefinanciering kan een student als bedoeld in [artikel 2.14 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=2.14) in aanmerking komen die onderwijs volgt aan een in de bijlage genoemde opleiding.
+Vervallen
 
 ### Hoofdstuk 4. Reisvoorziening
 
@@ -123,7 +127,7 @@ Indien een studerende de gemaakte kaartkeuze herziet, is hij daarvoor aan de IB-
 
 ##### Artikel 4.8. OV-studentenkaart is strikt persoonlijk
 
-De studerende die in het bezit is van een kaart als bedoeld in [artikel 4.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=4&artikel=4.5&z=2007-08-01&g=2007-08-01), heeft uitsluitend voor zichzelf recht op kosteloos openbaar vervoer of korting op de vervoerprijs.
+De studerende die in het bezit is van een kaart als bedoeld in [artikel 4.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=4&artikel=4.5&z=2007-09-01&g=2007-09-01), heeft uitsluitend voor zichzelf recht op kosteloos openbaar vervoer of korting op de vervoerprijs.
 
 ##### Artikel 4.9. Eigendom van de OV-studentenkaart
 
@@ -151,7 +155,7 @@ De kaart die aan een studerende is verstrekt, blijft eigendom van de IB-Groep. D
 
 ##### Artikel 4.12. Voorziening in geld
 
-1. In afwijking van [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=4&artikel=4.1&z=2007-08-01&g=2007-08-01) kan de studerende die een opleiding in Nederland volgt en gedurende die opleiding een onderdeel daarvan buiten Nederland gaat volgen, over die periode in het buitenland op aanvraag in plaats van een OV-studentenkaart in aanmerking komen voor een voorziening in geld.
+1. In afwijking van [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=4&artikel=4.1&z=2007-09-01&g=2007-09-01) kan de studerende die een opleiding in Nederland volgt en gedurende die opleiding een onderdeel daarvan buiten Nederland gaat volgen, over die periode in het buitenland op aanvraag in plaats van een OV-studentenkaart in aanmerking komen voor een voorziening in geld.
 
 2. De studerende komt in aanmerking voor een voorziening in geld als bedoeld in het eerste lid, indien:
 
@@ -161,7 +165,7 @@ De kaart die aan een studerende is verstrekt, blijft eigendom van de IB-Groep. D
 
 3. De voorziening in geld, bedoeld in het eerste lid, is gelijk aan het bedrag, bedoeld in [5.3, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=5.3).
 
-4. Toekenning van de reisvoorziening in geld vindt plaats per kalendermaand voor de periode waarin de studerende voor de betreffende opleiding in het buitenland studeert. Na deze periode wordt dezelfde OV-studentenkaart ter beschikking gesteld zonder dat deze kaart opnieuw behoeft te worden aangevraagd. Indien de studerende eerder dan aangegeven terugkeert in Nederland, kan opnieuw een OV-studentenkaart worden aangevraagd met inachtneming van de aanvraagtermijn van [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=2&artikel=2.4&z=2007-08-01&g=2007-08-01).
+4. Toekenning van de reisvoorziening in geld vindt plaats per kalendermaand voor de periode waarin de studerende voor de betreffende opleiding in het buitenland studeert. Na deze periode wordt dezelfde OV-studentenkaart ter beschikking gesteld zonder dat deze kaart opnieuw behoeft te worden aangevraagd. Indien de studerende eerder dan aangegeven terugkeert in Nederland, kan opnieuw een OV-studentenkaart worden aangevraagd met inachtneming van de aanvraagtermijn van [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=2&artikel=2.4&z=2007-09-01&g=2007-09-01).
 
 ### Hoofdstuk 5. Terugbetaling studieschuld
 
@@ -189,7 +193,7 @@ De kaart die aan een studerende is verstrekt, blijft eigendom van de IB-Groep. D
 
 5. Indien er niet langer betalingen op grond van de wet zijn, wordt het bedrag aan studiefinanciering dat te veel is uitbetaald voor zover dat bedrag nog niet is verrekend, op eerste vordering binnen 30 dagen geheel terugbetaald.
 
-6. In afwijking van het vijfde lid wordt het de debiteur toegestaan, indien hij daartoe een aanvraag indient, het in het vijfde lid bedoelde bedrag in ten hoogste 24 maandelijkse termijnen terug te betalen, waarbij geen termijn, met uitzondering van de laatste termijn, kleiner zal zijn dan het bedrag, bedoeld in het derde lid, dan wel het op grond van [artikel 6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=6&artikel=6.2&z=2007-08-01&g=2007-08-01) aangepaste bedrag. De in de vorige volzin bedoelde betaling van de maandelijkse termijn door de debiteur geschiedt door middel van automatische incasso.
+6. In afwijking van het vijfde lid wordt het de debiteur toegestaan, indien hij daartoe een aanvraag indient, het in het vijfde lid bedoelde bedrag in ten hoogste 24 maandelijkse termijnen terug te betalen, waarbij geen termijn, met uitzondering van de laatste termijn, kleiner zal zijn dan het bedrag, bedoeld in het derde lid, dan wel het op grond van [artikel 6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=6&artikel=6.2&z=2007-09-01&g=2007-09-01) aangepaste bedrag. De in de vorige volzin bedoelde betaling van de maandelijkse termijn door de debiteur geschiedt door middel van automatische incasso.
 
 7. Over het in het vijfde lid bedoelde bedrag, dat in maandelijkse termijnen wordt terugbetaald, is rente verschuldigd. Als rentepercentage wordt het percentage van de wettelijke rente gehanteerd. Deze rente wordt berekend per dag op basis van samengestelde interest en is verschuldigd over het bedrag van iedere terugbetaling afzonderlijk, met dien verstande dat ingeval de terugbetaling niet op de vervaldatum is ontvangen de op voet van deze bepaling berekende rente wordt bijgeschreven bij het verschuldigde bedrag, onverminderd het bepaalde in het negende lid.
 
@@ -199,27 +203,27 @@ De kaart die aan een studerende is verstrekt, blijft eigendom van de IB-Groep. D
 
 ##### Artikel 6.2. Aanpassing
 
-Aanpassing van het bedrag genoemd in [artikel 6.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=6&artikel=6.1&z=2007-08-01&g=2007-08-01), geschiedt met de procentuele wijziging, bedoeld in [artikel 17, tweede lid, van het Besluit studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&artikel=17).
+Aanpassing van het bedrag genoemd in [artikel 6.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=6&artikel=6.1&z=2007-09-01&g=2007-09-01), geschiedt met de procentuele wijziging, bedoeld in [artikel 17, tweede lid, van het Besluit studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&artikel=17).
 
 ### Hoofdstuk 7. Overgangsbepalingen
 
-##### Artikel 7.1. Afwijking van [artikel 4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=4&artikel=4.7&z=2007-08-01&g=2007-08-01)
+##### Artikel 7.1. Afwijking van [artikel 4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=4&artikel=4.7&z=2007-09-01&g=2007-09-01)
 
 Wijzigt de [Regeling studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011595).
 
-##### Artikel 7.2. Afwijking van [artikel 4.10](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=4&artikel=4.10&z=2007-08-01&g=2007-08-01)
+##### Artikel 7.2. Afwijking van [artikel 4.10](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=4&artikel=4.10&z=2007-09-01&g=2007-09-01)
 
 Wijzigt de [Regeling studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011595).
 
-##### Artikel 7.3. Afwijking van [artikel 4.11](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=4&artikel=4.11&z=2007-08-01&g=2007-08-01)
+##### Artikel 7.3. Afwijking van [artikel 4.11](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=4&artikel=4.11&z=2007-09-01&g=2007-09-01)
 
 Wijzigt de [Regeling studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011595).
 
-##### Artikel 7.4. Afwijking van [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=5&artikel=5.1&z=2007-08-01&g=2007-08-01)
+##### Artikel 7.4. Afwijking van [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=5&artikel=5.1&z=2007-09-01&g=2007-09-01)
 
 Wijzigt de [Regeling studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011595).
 
-##### Artikel 7.5. Afwijking van de [artikelen 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=6&artikel=6.1&z=2007-08-01&g=2007-08-01) en [6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=6&artikel=6.2&z=2007-08-01&g=2007-08-01)
+##### Artikel 7.5. Afwijking van de [artikelen 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=6&artikel=6.1&z=2007-09-01&g=2007-09-01) en [6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=6&artikel=6.2&z=2007-09-01&g=2007-09-01)
 
 Wijzigt de [Regeling studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011595).
 
@@ -263,9 +267,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met u
 
 ##### Artikel 3.4. Beroepsonderwijs in het buitenland: opleiding niveau 1 of 2 dan wel niveau 3 of 4
 
-1. Een opleiding als bedoeld in [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=3&artikel=3.3&z=2007-08-01&g=2007-08-01) die vergelijkbaar is met een opleiding niveau 1 of 2 wordt voor de toepassing van de wet aangemerkt als een opleiding niveau 1 of 2.
-
-2. Een opleiding als bedoeld in [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=3&artikel=3.3&z=2007-08-01&g=2007-08-01) die vergelijkbaar is met een opleiding niveau 3 of 4 wordt voor de toepassing van de wet aangemerkt als een opleiding niveau 3 of 4.
+Vervallen
 
 ### Hoofdstuk 4. Reisvoorziening
 
