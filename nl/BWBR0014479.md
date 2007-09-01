@@ -4,7 +4,7 @@ identifier: "BWBR0014479"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2006-07-20"
+last_updated: "2007-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014479"
 soort: "ministeriele-regeling"
@@ -55,7 +55,7 @@ Als ambtenaren belast met het toezicht op de naleving met betrekking tot herkenn
 
 ##### Artikel 4
 
-Als ambtenaren belast met het toezicht op de naleving met betrekking tot communicatieapparatuur zoals bedoeld in artikel 52, tweede lid, van het Mijnbouwbesluit worden mede aangewezen de toezichthouders van de hoofdafdeling Handhaving van het Agentschap Telecom van het Ministerie van Economische Zaken.
+Als ambtenaren belast met het toezicht op de naleving met betrekking tot communicatieapparatuur zoals bedoeld in [artikel 52, tweede lid, van het Mijnbouwbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=52) worden mede aangewezen de toezichthouders van de afdeling Toezicht van het Agentschap Telecom van het Ministerie van Economische Zaken.
 
 ##### Artikel 5
 
