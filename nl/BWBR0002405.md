@@ -4,7 +4,7 @@ identifier: "BWBR0002405"
 country: "nl"
 rank: "amvb"
 publication_date: "2009-07-01"
-last_updated: "1994-01-01"
+last_updated: "2007-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002405"
 soort: "AMvB"
@@ -72,7 +72,7 @@ Rechthebbenden op de schadeloosstelling zijn de eigenaar, de zakelijk gerechtigd
 
 1. De tengevolge van het gebruik ontstane buitengewone waardevermindering van een goed wordt vergoed.
 
-2. De overeenkomstig [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002405&artikel=4&z=1994-01-01&g=1994-01-01) vastgestelde schadeloosstelling wordt, in gevallen waarin vergoeding voor buitengewone waardevermindering wordt gegeven, doorbetaald over de termijn, welke redelijkerwijs nodig is voor het herstel van de buitengewone waardevermindering, voorzover dit herstel plaatsvindt en dientengevolge het gebruik van het goed geheel of grotendeels onmogelijk is.
+2. De overeenkomstig [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002405&artikel=4&z=1994-01-01&g=2007-09-01) vastgestelde schadeloosstelling wordt, in gevallen waarin vergoeding voor buitengewone waardevermindering wordt gegeven, doorbetaald over de termijn, welke redelijkerwijs nodig is voor het herstel van de buitengewone waardevermindering, voorzover dit herstel plaatsvindt en dientengevolge het gebruik van het goed geheel of grotendeels onmogelijk is.
 
 3. Het bedrag dat voor buitengewone waardevermindering wordt vastgesteld zal nimmer mogen overschrijden de vervangingswaarde van het goed op het tijdstip waarop het gebruik wordt beëindigd.
 
@@ -80,7 +80,7 @@ Rechthebbenden op de schadeloosstelling zijn de eigenaar, de zakelijk gerechtigd
 
 ##### Artikel 6
 
-Bij de vaststelling van de schadeloosstelling overeenkomstig [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002405&artikel=4&z=1994-01-01&g=1994-01-01) wordt rekening gehouden met aan het goed, tijdens het gebruik, aangebrachte verbeteringen waarmede de rechthebbende op de schadeloosstelling is gebaat.
+Bij de vaststelling van de schadeloosstelling overeenkomstig [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002405&artikel=4&z=1994-01-01&g=2007-09-01) wordt rekening gehouden met aan het goed, tijdens het gebruik, aangebrachte verbeteringen waarmede de rechthebbende op de schadeloosstelling is gebaat.
 
 ##### Artikel 7
 
@@ -88,7 +88,7 @@ De kosten, welke de rechthebbende op de schadeloosstelling heeft moeten maken al
 
 ##### Artikel 8
 
-1. Indien een goed tengevolge van het gebruik verloren gaat, wordt de schadeloosstelling vastgesteld op het bedrag van de gebruiksvergoeding tot op het tijdstip van het verloren gaan, berekend overeenkomstig [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002405&artikel=4&z=1994-01-01&g=1994-01-01), vermeerderd met de vervangingswaarde van het goed op het genoemde tijdstip. De berekening van de vervangingswaarde geschiedt met overeenkomstige toepassing van [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002405&artikel=5&z=1994-01-01&g=1994-01-01).
+1. Indien een goed tengevolge van het gebruik verloren gaat, wordt de schadeloosstelling vastgesteld op het bedrag van de gebruiksvergoeding tot op het tijdstip van het verloren gaan, berekend overeenkomstig [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002405&artikel=4&z=1994-01-01&g=2007-09-01), vermeerderd met de vervangingswaarde van het goed op het genoemde tijdstip. De berekening van de vervangingswaarde geschiedt met overeenkomstige toepassing van [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002405&artikel=5&z=1994-01-01&g=2007-09-01).
 
 2. Indien een goed tijdens het gebruik door brand verloren gaat, wordt - voorzover niet uit andere hoofde aanspraken op de vergoeding van de geleden schade geldend kunnen worden gemaakt - de in het eerste lid bedoelde schadeloosstelling verleend.
 
@@ -110,13 +110,13 @@ Bij de vaststelling van de schadeloosstelling worden de van overheidswege gegeve
 
 ##### Artikel 11
 
-Onze met de vaststelling van de schadeloosstelling belaste Minister is bevoegd in bijzondere gevallen van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002405&artikel=4&z=1994-01-01&g=1994-01-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0002405&artikel=9&z=1994-01-01&g=1994-01-01) af te wijken, indien blijkt dat de toepassing van die bepalingen tot uitkomsten leidt, welke aanzienlijk verschillen van het bedrag der werkelijk geleden schade. Alsdan wordt de schadeloosstelling vastgesteld op het geldelijk nadeel hetwelk is ontstaan als rechtstreeks en redelijkerwijs niet te vermijden gevolg van de maatregel.
+Onze met de vaststelling van de schadeloosstelling belaste Minister is bevoegd in bijzondere gevallen van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002405&artikel=4&z=1994-01-01&g=2007-09-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0002405&artikel=9&z=1994-01-01&g=2007-09-01) af te wijken, indien blijkt dat de toepassing van die bepalingen tot uitkomsten leidt, welke aanzienlijk verschillen van het bedrag der werkelijk geleden schade. Alsdan wordt de schadeloosstelling vastgesteld op het geldelijk nadeel hetwelk is ontstaan als rechtstreeks en redelijkerwijs niet te vermijden gevolg van de maatregel.
 
 ##### Artikel 12
 
 1. De vaststelling en uitkering van de schadeloosstelling geschiedt door Onze Minister van Defensie.
 
-2. Zo mogelijk binnen zes maanden na het nemen van een maatregel - voor wat betreft de schadeloosstelling bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002405&artikel=5&z=1994-01-01&g=1994-01-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0002405&artikel=7&z=1994-01-01&g=1994-01-01): zo mogelijk binnen zes maanden na het einde van het gebruik - legt hij de schadeloosstelling vast in een beschikking.
+2. Zo mogelijk binnen zes maanden na het nemen van een maatregel - voor wat betreft de schadeloosstelling bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002405&artikel=5&z=1994-01-01&g=2007-09-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0002405&artikel=7&z=1994-01-01&g=2007-09-01): zo mogelijk binnen zes maanden na het einde van het gebruik - legt hij de schadeloosstelling vast in een beschikking.
 
 3. Bij overschrijding van de termijn genoemd in het tweede lid, alsmede - indien de schadeloosstelling na bezwaar of beroep wordt vastgesteld op een hoger bedrag dan bij de beschikking in eerste aanleg - vanaf de dag der indiening van het bezwaarschrift, heeft de rechthebbende op de schadeloosstelling recht op een gebruikelijke rentevergoeding over het bedrag der schadeloosstelling.
 
