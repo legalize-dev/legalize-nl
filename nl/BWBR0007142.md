@@ -4,7 +4,7 @@ identifier: "BWBR0007142"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2008-01-01"
-last_updated: "2007-01-01"
+last_updated: "2007-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007142"
 soort: "ministeriele-regeling"
@@ -61,7 +61,7 @@ Deze regeling geeft uitvoering aan [artikel 18, vierde lid, van de Wet waarderin
 
 - h. werken die zijn bestemd voor de zuivering van riool- en ander afvalwater en die worden beheerd door organen, instellingen of diensten van publiekrechtelijke rechtspersonen, met uitzondering van de delen van zodanige werken die dienen als woning.
 
-2. Voor de toepassing van het eerste lid, onderdeel a, wordt onder landbouw verstaan landbouw in de zin van [artikel 1, eerste lid, onderdeel b, van de Pachtwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002269&artikel=1).
+2. Voor de toepassing van het eerste lid, onderdeel a, wordt onder landbouw verstaan landbouw in de zin van [artikel 312 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=312).
 
 ##### Artikel 3
 
