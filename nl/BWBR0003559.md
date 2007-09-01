@@ -4,7 +4,7 @@ identifier: "BWBR0003559"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2007-10-21"
-last_updated: "2001-01-01"
+last_updated: "2007-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003559"
 soort: "ministeriele-regeling"
@@ -153,7 +153,7 @@ Ten behoeve van het bedrijf mag gedurende een tijdvak van drie jaren onmiddellij
 
 ##### Artikel 8
 
-De bedrijfsoppervlakte mag gedurende een tijdvak van vijf jaren onmiddellijk voorafgaande aan het tijdstip van indiening van de aanvrage niet zijn verkleind, tenzij verkleining heeft plaatsgevonden door onteigening, minnelijke verkoop ter voorkoming van onteigening, een rechterlijke uitspraak ingevolge artikel 41 of 51 van de Pachtwet (Stb. 1958, 37), een verdeling als bedoeld in artikel 3:178 van het Burgerlijk Wetboek, dan wel onderbedeling in het kader van landinrichting als gevolg van toepassing van de artikelen 139 tot en met 144 van de Landinrichtingswet, in het kader van de reconstructie als gevolg van toepassing van artikel 15 van de Reconstructiewet Midden-Delfland of in het kader van de herinrichting als gevolg van toepassing van artikel 55 van de Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën.
+De bedrijfsoppervlakte mag gedurende een tijdvak van vijf jaren onmiddellijk voorafgaande aan het tijdstip van indiening van de aanvrage niet zijn verkleind, tenzij verkleining heeft plaatsgevonden door onteigening, minnelijke verkoop ter voorkoming van onteigening, een rechterlijke uitspraak ingevolge [artikel 370, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=370), of [377 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=377), een verdeling als bedoeld in [artikel 3:178 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=178), dan wel onderbedeling in het kader van landinrichting als gevolg van toepassing van de [artikelen 139 tot en met 144 van de Landinrichtingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0003793&artikel=139), in het kader van de reconstructie als gevolg van toepassing van [artikel 15 van de Reconstructiewet Midden-Delfland](https://wetten.overheid.nl/jci1.3:c:BWBR0003094&artikel=15) of in het kader van de herinrichting als gevolg van toepassing van [artikel 55 van de Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën](https://wetten.overheid.nl/jci1.3:c:BWBR0003143&artikel=55).
 
 ##### Artikel 9
 
