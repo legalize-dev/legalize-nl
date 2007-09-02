@@ -4,7 +4,7 @@ identifier: "BWBR0022465"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-01"
-last_updated: "2007-09-01"
+last_updated: "2007-09-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022465"
 soort: "ministeriele-regeling"
@@ -48,9 +48,9 @@ Besluit:
 
 Met betrekking tot pachtovereenkomsten voor land zonder woningen of andere opstallen:
 
-- a. is de hoogst toelaatbare pachtprijs per jaar per hectare, bedoeld in [artikel 2, eerste lid, van het Pachtprijzenbesluit 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022448&artikel=2), voor pachtovereenkomsten die worden aangegaan op of na 1 september 2007, voor de onderscheiden pachtprijsgebieden de prijs die is vermeld in [bijlage 1, onder A](https://wetten.overheid.nl/jci1.3:c:BWBR0022465&bijlage=1&z=2007-09-01&g=2007-09-01);
+- a. is de hoogst toelaatbare pachtprijs per jaar per hectare, bedoeld in [artikel 2, eerste lid, van het Pachtprijzenbesluit 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022448&artikel=2), voor pachtovereenkomsten die worden aangegaan op of na 1 september 2007, voor de onderscheiden pachtprijsgebieden de prijs die is vermeld in [bijlage 1, onder A](https://wetten.overheid.nl/jci1.3:c:BWBR0022465&bijlage=1&z=2007-09-01&g=2007-09-02);
 
-- b. is het percentage, bedoeld in [artikel 2, tweede lid, van het Pachtprijzenbesluit 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022448&artikel=2), waarmee de tussen partijen op grond van een voor 1 september 2007 aangegane pachtovereenkomst geldende pachtprijs wordt gewijzigd, voor de onderscheiden pachtprijsgebieden het percentage dat is vermeld in [bijlage 1, onder B](https://wetten.overheid.nl/jci1.3:c:BWBR0022465&bijlage=1&z=2007-09-01&g=2007-09-01).
+- b. is het percentage, bedoeld in [artikel 2, tweede lid, van het Pachtprijzenbesluit 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022448&artikel=2), waarmee de tussen partijen op grond van een voor 1 september 2007 aangegane pachtovereenkomst geldende pachtprijs wordt gewijzigd, voor de onderscheiden pachtprijsgebieden het percentage dat is vermeld in [bijlage 1, onder B](https://wetten.overheid.nl/jci1.3:c:BWBR0022465&bijlage=1&z=2007-09-01&g=2007-09-02).
 
 ##### Artikel 2
 
@@ -64,11 +64,11 @@ Met betrekking tot pachtovereenkomsten voor tuinland:
 
 Met betrekking tot pachtovereenkomsten voor een tot een boerderij of tuinderij behorende woning of woongedeelte en voor een tot de boerderij behorende arbeiders- of dienstwoning:
 
-- a. is de hoogst toelaatbare pachtprijs per maand, bedoeld in [artikel 14, eerste lid, van het Pachtprijzenbesluit 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022448&artikel=14), de, gegeven het aantal punten waarop de woning of het woongedeelte is gewaardeerd, toepasselijke prijs die is vermeld in [bijlage 2, onder A](https://wetten.overheid.nl/jci1.3:c:BWBR0022465&bijlage=2&z=2007-09-01&g=2007-09-01);
+- a. is de hoogst toelaatbare pachtprijs per maand, bedoeld in [artikel 14, eerste lid, van het Pachtprijzenbesluit 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022448&artikel=14), de, gegeven het aantal punten waarop de woning of het woongedeelte is gewaardeerd, toepasselijke prijs die is vermeld in [bijlage 2, onder A](https://wetten.overheid.nl/jci1.3:c:BWBR0022465&bijlage=2&z=2007-09-01&g=2007-09-02);
 
-- b. is het puntenstelsel, bedoeld in [artikel 14, tweede lid, van het Pachtprijzenbesluit 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022448&artikel=14), aan de hand waarvan de hoogst toelaatbare pachtprijs als bedoeld in het eerste lid wordt vastgesteld, het puntenstelsel dat is vermeld als [bijlage 2, onder B](https://wetten.overheid.nl/jci1.3:c:BWBR0022465&bijlage=2&z=2007-09-01&g=2007-09-01);
+- b. is het puntenstelsel, bedoeld in [artikel 14, tweede lid, van het Pachtprijzenbesluit 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022448&artikel=14), aan de hand waarvan de hoogst toelaatbare pachtprijs als bedoeld in het eerste lid wordt vastgesteld, het puntenstelsel dat is vermeld als [bijlage 2, onder B](https://wetten.overheid.nl/jci1.3:c:BWBR0022465&bijlage=2&z=2007-09-01&g=2007-09-02);
 
-- c. komt het percentage, bedoeld in [artikel 15, eerste lid, van het Pachtprijzenbesluit 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022448&artikel=15), waarmee de tussen partijen op grond van een voor 1 september 2007 aangegane pachtovereenkomst geldende pachtprijs wordt gewijzigd voor elk puntentotaal overeen met het percentage waarmee de hoogst toelaatbare pachtprijs van een puntentotaal dat gold op grond van het [Pachtnormenbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007614) is gewijzigd ten opzichte van de hoogst toelaatbare pachtprijs voor hetzelfde puntentotaal dat is vermeld in [bijlage 2, onder A](https://wetten.overheid.nl/jci1.3:c:BWBR0022465&bijlage=2&z=2007-09-01&g=2007-09-01).
+- c. komt het percentage, bedoeld in [artikel 15, eerste lid, van het Pachtprijzenbesluit 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022448&artikel=15), waarmee de tussen partijen op grond van een voor 1 september 2007 aangegane pachtovereenkomst geldende pachtprijs wordt gewijzigd voor elk puntentotaal overeen met het percentage waarmee de hoogst toelaatbare pachtprijs van een puntentotaal dat gold op grond van het [Pachtnormenbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007614) is gewijzigd ten opzichte van de hoogst toelaatbare pachtprijs voor hetzelfde puntentotaal dat is vermeld in [bijlage 2, onder A](https://wetten.overheid.nl/jci1.3:c:BWBR0022465&bijlage=2&z=2007-09-01&g=2007-09-02).
 
 ##### Artikel 4
 
@@ -102,7 +102,7 @@ Deze regeling treedt in werking op 1 september 2007.
 
 Deze regeling wordt aangehaald als: Regeling pachtprijzen.
 
-## Bijlage 1. , behorend bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022465&hoofdstuk=1&artikel=1&z=2007-09-01&g=2007-09-01)
+## Bijlage 1. , behorend bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022465&hoofdstuk=1&artikel=1&z=2007-09-01&g=2007-09-02)
 
 Hoogst toelaatbare pachtprijs voor land zonder woningen of andere opstallen
 
@@ -110,7 +110,7 @@ Hoogst toelaatbare pachtprijs voor land zonder woningen of andere opstallen
 
 ### **B. Percentage waarmee de tussen partijen op grond van een voor 1 september 2007 aangegane pachtovereenkomst geldende pachtprijs wordt gewijzigd**
 
-## Bijlage 2. , behorend bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0022465&hoofdstuk=1&artikel=3&z=2007-09-01&g=2007-09-01)
+## Bijlage 2. , behorend bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0022465&hoofdstuk=1&artikel=3&z=2007-09-01&g=2007-09-02)
 
 Hoogst toelaatbare pachtprijzen voor agrarische woningen
 
