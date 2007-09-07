@@ -4,7 +4,7 @@ identifier: "BWBR0022470"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2010-03-04"
-last_updated: "2007-06-07"
+last_updated: "2007-09-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022470"
 soort: "ministeriele-regeling"
@@ -54,21 +54,21 @@ De algemeen directeur van SenterNovem wordt gemandateerd tot:
 
 De algemeen directeur van SenterNovem wordt gemachtigd tot:
 
-- a. het verrichten van alle benodigde werkzaamheden ter voorbereiding van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022470&artikel=1&z=2007-09-07&g=2007-06-07) bedoelde besluiten;
+- a. het verrichten van alle benodigde werkzaamheden ter voorbereiding van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022470&artikel=1&z=2007-09-07&g=2007-09-07) bedoelde besluiten;
 
-- b. het voeren van beroepsprocedures over besluiten als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022470&artikel=1&z=2007-09-07&g=2007-06-07).
+- b. het voeren van beroepsprocedures over besluiten als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022470&artikel=1&z=2007-09-07&g=2007-09-07).
 
 ##### Artikel 3
 
 De algemeen directeur van SenterNovem kan met betrekking tot:
 
-- a. zijn bevoegdheden, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022470&artikel=1&z=2007-09-07&g=2007-06-07), ondermandaat verlenen; en
+- a. zijn bevoegdheden, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022470&artikel=1&z=2007-09-07&g=2007-09-07), ondermandaat verlenen; en
 
-- b. voor de werkzaamheden, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022470&artikel=2&z=2007-09-07&g=2007-06-07), machtiging verlenen, aan één of meer onder hem ressorterende functionarissen.
+- b. voor de werkzaamheden, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022470&artikel=2&z=2007-09-07&g=2007-09-07), machtiging verlenen, aan één of meer onder hem ressorterende functionarissen.
 
 ##### Artikel 4
 
-Indien uitvoering wordt gegeven aan de [artikelen 1 tot en met 3](https://wetten.overheid.nl/jci1.3:c:BWBR0022470&artikel=1&z=2007-09-07&g=2007-06-07) luidt de ondertekening:
+Indien uitvoering wordt gegeven aan de [artikelen 1 tot en met 3](https://wetten.overheid.nl/jci1.3:c:BWBR0022470&artikel=1&z=2007-09-07&g=2007-09-07) luidt de ondertekening:
 
 De Staatssecretaris van Financiën,
 
