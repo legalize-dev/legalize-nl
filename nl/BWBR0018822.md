@@ -4,7 +4,7 @@ identifier: "BWBR0018822"
 country: "nl"
 rank: "amvb"
 publication_date: "2009-11-15"
-last_updated: "2005-12-27"
+last_updated: "2007-09-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018822"
 soort: "AMvB"
@@ -52,9 +52,9 @@ Hebben goedgevonden en verstaan:
 
 1. In dit besluit wordt verstaan onder:
 
-- a. rechtstreekse regio: regio genoemd in [bijlage 2, tabel A, kolom 1](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&bijlage=2&z=2005-12-27&g=2005-12-27) ;
+- a. rechtstreekse regio: regio genoemd in [bijlage 2, tabel A, kolom 1](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&bijlage=2&z=2007-09-12&g=2007-09-12) ;
 
-- b. niet-rechtstreekse regio: regio genoemd in [bijlage 2, tabel B, kolom 2](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&bijlage=2&z=2005-12-27&g=2005-12-27);
+- b. niet-rechtstreekse regio: regio genoemd in [bijlage 2, tabel B, kolom 2](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&bijlage=2&z=2007-09-12&g=2007-09-12);
 
 - c. tijdvak: periode die begint op 1 januari 2005 en eindigt op 31 december 2009;
 
@@ -66,13 +66,13 @@ Hebben goedgevonden en verstaan:
 
 - g. drempelpercentage: percentage van de toevoegingen aan de woningvoorraad in enig kalenderjaar, dat wordt gebruikt voor de berekening van het drempelaantal;
 
-- h. drempelaantal: het gedeelte van het aantal door eigenbouw aan de woningvoorraad toegevoegde woningen waarvoor geen subsidie als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&hoofdstuk=4&artikel=6&z=2005-12-27&g=2005-12-27), of [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&hoofdstuk=6&artikel=15&z=2005-12-27&g=2005-12-27), wordt verleend;
+- h. drempelaantal: het gedeelte van het aantal door eigenbouw aan de woningvoorraad toegevoegde woningen waarvoor geen subsidie als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&hoofdstuk=4&artikel=6&z=2007-09-12&g=2007-09-12), of [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&hoofdstuk=6&artikel=15&z=2007-09-12&g=2007-09-12), wordt verleend;
 
 - i. subsidieplafond: het bedrag dat gedurende een bepaalde periode ten hoogste beschikbaar is voor de verstrekking van subsidies krachtens dit besluit;
 
-- j. centrumgemeente: als zodanig in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&bijlage=1&z=2005-12-27&g=2005-12-27) bij dit besluit aangemerkte gemeente;
+- j. centrumgemeente: als zodanig in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&bijlage=1&z=2007-09-12&g=2007-09-12) bij dit besluit aangemerkte gemeente;
 
-- k. ontvanger: rechtstreekse regio of provincie waaraan subsidie als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&hoofdstuk=1&artikel=2&z=2005-12-27&g=2005-12-27), is verleend;
+- k. ontvanger: rechtstreekse regio of provincie waaraan subsidie als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&hoofdstuk=1&artikel=2&z=2007-09-12&g=2007-09-12), is verleend;
 
 - l. woningtekort: het in procenten uitgedrukte tekort aan woningen;
 
@@ -88,11 +88,11 @@ Hebben goedgevonden en verstaan:
 
 - b. het realiseren van eigenbouw.
 
-2. Een provincie besteedt de haar ingevolge het eerste lid verleende subsidie uitsluitend aan het verlenen van subsidie aan de in die provincie gelegen niet-rechtstreekse regio’s, of aan de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&bijlage=1&z=2005-12-27&g=2005-12-27) bij dit besluit onder die regio’s genoemde gemeenten, en verleent die subsidie slechts ten behoeve van de doeleinden, genoemd in het eerste lid, onder a en b.
+2. Een provincie besteedt de haar ingevolge het eerste lid verleende subsidie uitsluitend aan het verlenen van subsidie aan de in die provincie gelegen niet-rechtstreekse regio’s, of aan de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&bijlage=1&z=2007-09-12&g=2007-09-12) bij dit besluit onder die regio’s genoemde gemeenten, en verleent die subsidie slechts ten behoeve van de doeleinden, genoemd in het eerste lid, onder a en b.
 
-3. Een regio besteedt de haar ingevolge het eerste of tweede lid verleende subsidie uitsluitend aan het verlenen van subsidie aan de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&bijlage=1&z=2005-12-27&g=2005-12-27) bij dit besluit onder die regio genoemde gemeenten, en verleent die subsidie slechts ten behoeve van de doeleinden, genoemd in het eerste lid, onder a en b.
+3. Een regio besteedt de haar ingevolge het eerste of tweede lid verleende subsidie uitsluitend aan het verlenen van subsidie aan de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&bijlage=1&z=2007-09-12&g=2007-09-12) bij dit besluit onder die regio genoemde gemeenten, en verleent die subsidie slechts ten behoeve van de doeleinden, genoemd in het eerste lid, onder a en b.
 
-4. De [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&bijlage=1&z=2005-12-27&g=2005-12-27) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&bijlage=2&z=2005-12-27&g=2005-12-27) bij dit besluit, alsmede het in [bijlage 4, onder 3, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&bijlage=4&z=2005-12-27&g=2005-12-27), bij dit besluit, genoemde percentage, kunnen bij ministeriële regeling worden gewijzigd.
+4. De [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&bijlage=1&z=2007-09-12&g=2007-09-12) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&bijlage=2&z=2007-09-12&g=2007-09-12) bij dit besluit kunnen bij ministeriële regeling worden gewijzigd.
 
 5. Onze Minister berekent, uitgaande van de bestuurlijke indeling per 1 januari 2004, op basis van PRIMOS 2003, per rechtstreekse regio en provincie, alsmede voor de rechtstreekse regio’s en provincies gezamenlijk, het aantal in het tijdvak aan de woningvoorraad toe te voegen woningen dat nodig is om het op voet van PRIMOS 2003 berekende woningtekort per 1 januari 2010 te verminderen tot een woningtekort dat ligt op een door Onze Minister per rechtstreekse regio en provincie, alsmede voor de rechtstreekse regio’s en provincies gezamenlijk, te bepalen niveau.
 
@@ -116,7 +116,7 @@ Een convenant woningbouwafspraken vermeldt in elk geval:
 
 - g. het subsidiebedrag dat het Rijk beschikbaar heeft voor de afgesproken toevoegingen aan de woningvoorraad gedurende het tijdvak, en
 
-- h. het per 1 januari 2010 na te streven woningtekort, bedoeld in [artikel 2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&hoofdstuk=1&artikel=2&z=2005-12-27&g=2005-12-27).
+- h. het per 1 januari 2010 na te streven woningtekort, bedoeld in [artikel 2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&hoofdstuk=1&artikel=2&z=2007-09-12&g=2007-09-12).
 
 ##### Artikel 4
 
@@ -146,15 +146,15 @@ Een convenant woningbouwafspraken vermeldt in elk geval:
 
 2. Het plafond voor de subsidies ten behoeve van het realiseren van eigenbouw gedurende de jaren 2005 tot en met 2010 bedraagt € 42,5 miljoen.
 
-3. Het plafond voor de subsidies ten behoeve van toevoegingen aan de woningvoorraad per rechtstreekse regio gedurende het tijdvak, is het bedrag, genoemd in [bijlage 2, tabel A, kolom 2](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&bijlage=2&z=2005-12-27&g=2005-12-27), bij dit besluit.
+3. Het plafond voor de subsidies ten behoeve van toevoegingen aan de woningvoorraad per rechtstreekse regio gedurende het tijdvak, is het bedrag, genoemd in [bijlage 2, tabel A, kolom 2](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&bijlage=2&z=2007-09-12&g=2007-09-12), bij dit besluit.
 
-4. Het plafond voor de subsidies ten behoeve van toevoegingen aan de woningvoorraad per provincie gedurende het tijdvak, is het bedrag, genoemd in [bijlage 2, tabel B, kolom 3](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&bijlage=2&z=2005-12-27&g=2005-12-27), bij dit besluit.
+4. Het plafond voor de subsidies ten behoeve van toevoegingen aan de woningvoorraad per provincie gedurende het tijdvak, is het bedrag, genoemd in [bijlage 2, tabel B, kolom 3](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&bijlage=2&z=2007-09-12&g=2007-09-12), bij dit besluit.
 
 ### Hoofdstuk 4. De subsidie ten behoeve van het realiseren van eigenbouw
 
 ##### Artikel 6
 
-1. Na afloop van elk kalenderjaar van het tijdvak waarin het aantal woningen dat op het grondgebied van een ontvanger door eigenbouw is toegevoegd aan de woningvoorraad hoger is dan het drempelaantal, verleent Onze Minister een subsidie van € 1.600,– vermenigvuldigd met het aantal door eigenbouw aan de woningvoorraad toegevoegde woningen dat uitstijgt boven het drempelaantal, zolang en voorzover de beschikbare middelen, bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&hoofdstuk=3&artikel=5&z=2005-12-27&g=2005-12-27), dat toelaten.
+1. Na afloop van elk kalenderjaar van het tijdvak waarin het aantal woningen dat op het grondgebied van een ontvanger door eigenbouw is toegevoegd aan de woningvoorraad hoger is dan het drempelaantal, verleent Onze Minister een subsidie van € 1.600,– vermenigvuldigd met het aantal door eigenbouw aan de woningvoorraad toegevoegde woningen dat uitstijgt boven het drempelaantal, zolang en voorzover de beschikbare middelen, bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&hoofdstuk=3&artikel=5&z=2007-09-12&g=2007-09-12), dat toelaten.
 
 2. De subsidies, bedoeld in het eerste lid, worden verleend in volgorde van de datum van gereedmelding van het betreffende kalenderjaar, welke datum wordt ontleend aan de door het Centraal bureau voor de statistiek terzake opgestelde woningstatistieken.
 
@@ -164,7 +164,7 @@ Een convenant woningbouwafspraken vermeldt in elk geval:
 
 ##### Artikel 7
 
-1. De subsidie ten behoeve van het realiseren van eigenbouw over het tijdvak wordt vastgesteld binnen zes maanden na ontvangst van het eindrapport, bedoeld in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&hoofdstuk=7&artikel=16&z=2005-12-27&g=2005-12-27), en de accountantsverklaring, bedoeld in het [derde lid van dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&hoofdstuk=7&artikel=16&z=2005-12-27&g=2005-12-27).
+1. De subsidie ten behoeve van het realiseren van eigenbouw over het tijdvak wordt vastgesteld binnen zes maanden na ontvangst van de verantwoordingsinformatie, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&hoofdstuk=7&artikel=16&z=2007-09-12&g=2007-09-12).
 
 2. Het bedrag van de subsidie over het tijdvak wordt vastgesteld op het bedrag van de som van de per kalenderjaar verleende subsidies met betrekking tot het tijdvak.
 
@@ -190,31 +190,31 @@ Een convenant woningbouwafspraken vermeldt in elk geval:
 
 1. Onze Minister verleent en betaalt bij wijze van voorschot in elk kalenderjaar van het tijdvak binnen twee maanden na de bekendmaking van de door het Centraal bureau voor de statistiek opgestelde woningstatistieken over het voorgaande kalenderjaar, aan de rechtstreekse regio’s en de provincies subsidie ten behoeve van toevoegingen aan de woningvoorraad. Onze Minister kan in 2005 afwijken van de termijn, genoemd in de eerste volzin.
 
-2. De subsidie en het voorschot, bedoeld in het eerste lid, bedraagt het bedrag per woning, vermenigvuldigd met 65% van het aantal voor dat kalenderjaar in het betreffende convenant woningbouwafspraken genoemde aantal aan de woningvoorraad toe te voegen woningen exclusief de woningen, bedoeld in [artikel 3, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&hoofdstuk=2&artikel=3&z=2005-12-27&g=2005-12-27).
+2. De subsidie en het voorschot, bedoeld in het eerste lid, bedraagt het bedrag per woning, vermenigvuldigd met 65% van het aantal voor dat kalenderjaar in het betreffende convenant woningbouwafspraken genoemde aantal aan de woningvoorraad toe te voegen woningen exclusief de woningen, bedoeld in [artikel 3, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&hoofdstuk=2&artikel=3&z=2007-09-12&g=2007-09-12).
 
-3. Het bedrag per woning, bedoeld in het tweede lid, wordt berekend door het in [bijlage 2, tabel A, kolom 2, en tabel B, kolom 3](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&bijlage=2&z=2005-12-27&g=2005-12-27), bij die rechtstreekse regio of provincie genoemde subsidieplafond te delen door het in die [bijlage, tabel A, kolom 3 en tabel B, kolom 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&bijlage=2&z=2005-12-27&g=2005-12-27), bij die rechtstreekse regio of provincie genoemde aantal toevoegingen aan de woningvoorraad.
+3. Het bedrag per woning, bedoeld in het tweede lid, wordt berekend door het in [bijlage 2, tabel A, kolom 2, en tabel B, kolom 3](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&bijlage=2&z=2007-09-12&g=2007-09-12), bij die rechtstreekse regio of provincie genoemde subsidieplafond te delen door het in die [bijlage, tabel A, kolom 3 en tabel B, kolom 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&bijlage=2&z=2007-09-12&g=2007-09-12), bij die rechtstreekse regio of provincie genoemde aantal toevoegingen aan de woningvoorraad.
 
-4. De subsidies, bedoeld in dit artikel, worden slechts verleend voorzover de beschikbare middelen, bedoeld in [artikel 5, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&hoofdstuk=3&artikel=5&z=2005-12-27&g=2005-12-27), dat toelaten.
+4. De subsidies, bedoeld in dit artikel, worden slechts verleend voorzover de beschikbare middelen, bedoeld in [artikel 5, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&hoofdstuk=3&artikel=5&z=2007-09-12&g=2007-09-12), dat toelaten.
 
 ##### Artikel 9
 
-1. Indien door een ontvanger in enig kalenderjaar van het tijdvak minder woningen aan de woningvoorraad zijn toegevoegd dan 65% van het voor dat kalenderjaar in het convenant woningbouwafspraken genoemde aantal aan de woningvoorraad toe te voegen woningen exclusief de woningen, bedoeld in [artikel 3, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&hoofdstuk=2&artikel=3&z=2005-12-27&g=2005-12-27), bericht die ontvanger zo spoedig mogelijk schriftelijk aan Onze Minister het aantal in dat kalenderjaar aan de woningvoorraad toegevoegde woningen, vergezeld van de redenen die hebben geleid tot de opgetreden achterstand.
+1. Indien door een ontvanger in enig kalenderjaar van het tijdvak minder woningen aan de woningvoorraad zijn toegevoegd dan 65% van het voor dat kalenderjaar in het convenant woningbouwafspraken genoemde aantal aan de woningvoorraad toe te voegen woningen exclusief de woningen, bedoeld in [artikel 3, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&hoofdstuk=2&artikel=3&z=2007-09-12&g=2007-09-12), bericht die ontvanger zo spoedig mogelijk schriftelijk aan Onze Minister het aantal in dat kalenderjaar aan de woningvoorraad toegevoegde woningen, vergezeld van de redenen die hebben geleid tot de opgetreden achterstand.
 
-2. Onze Minister kan, indien blijkens de woningstatistieken, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&hoofdstuk=5&artikel=8&z=2005-12-27&g=2005-12-27), in enig kalenderjaar van het tijdvak minder woningen zijn toegevoegd dan de in het eerste lid bedoelde 65%, in afwijking van [artikel 8, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&hoofdstuk=5&artikel=8&z=2005-12-27&g=2005-12-27), voor het daarop volgende kalenderjaar de verlening van de subsidie geheel of gedeeltelijk weigeren.
+2. Onze Minister kan, indien blijkens de woningstatistieken, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&hoofdstuk=5&artikel=8&z=2007-09-12&g=2007-09-12), in enig kalenderjaar van het tijdvak minder woningen zijn toegevoegd dan de in het eerste lid bedoelde 65%, in afwijking van [artikel 8, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&hoofdstuk=5&artikel=8&z=2007-09-12&g=2007-09-12), voor het daarop volgende kalenderjaar de verlening van de subsidie geheel of gedeeltelijk weigeren.
 
 ##### Artikel 10
 
-1. Onze Minister verleent en betaalt bij wijze van voorschot na afloop van elk kalenderjaar van het tijdvak binnen twee maanden na de bekendmaking van de door het Centraal bureau voor de statistiek opgestelde woningstatistieken over dat kalenderjaar, subsidie ten behoeve van toevoegingen aan de woningvoorraad, indien blijkens die woningstatistieken door een ontvanger in dat kalenderjaar meer woningen aan de woningvoorraad zijn toegevoegd dan 65% van het voor dat kalenderjaar in het convenant woningbouwafspraken genoemde aantal aan de woningvoorraad toe te voegen woningen exclusief de woningen, bedoeld in [artikel 3, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&hoofdstuk=2&artikel=3&z=2005-12-27&g=2005-12-27).
+1. Onze Minister verleent en betaalt bij wijze van voorschot na afloop van elk kalenderjaar van het tijdvak binnen twee maanden na de bekendmaking van de door het Centraal bureau voor de statistiek opgestelde woningstatistieken over dat kalenderjaar, subsidie ten behoeve van toevoegingen aan de woningvoorraad, indien blijkens die woningstatistieken door een ontvanger in dat kalenderjaar meer woningen aan de woningvoorraad zijn toegevoegd dan 65% van het voor dat kalenderjaar in het convenant woningbouwafspraken genoemde aantal aan de woningvoorraad toe te voegen woningen exclusief de woningen, bedoeld in [artikel 3, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&hoofdstuk=2&artikel=3&z=2007-09-12&g=2007-09-12).
 
-2. De subsidie en het voorschot, bedoeld in het eerste lid, bedraagt het bedrag per woning, berekend overeenkomstig [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&hoofdstuk=5&artikel=8&z=2005-12-27&g=2005-12-27), vermenigvuldigd met het aantal woningen boven het aantal van 65% van het voor dat voorafgaande kalenderjaar in het convenant woningbouwafspraken genoemde aantal aan de woningvoorraad toe te voegen woningen exclusief de woningen, bedoeld in [artikel 3, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&hoofdstuk=2&artikel=3&z=2005-12-27&g=2005-12-27).
+2. De subsidie en het voorschot, bedoeld in het eerste lid, bedraagt het bedrag per woning, berekend overeenkomstig [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&hoofdstuk=5&artikel=8&z=2007-09-12&g=2007-09-12), vermenigvuldigd met het aantal woningen boven het aantal van 65% van het voor dat voorafgaande kalenderjaar in het convenant woningbouwafspraken genoemde aantal aan de woningvoorraad toe te voegen woningen exclusief de woningen, bedoeld in [artikel 3, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&hoofdstuk=2&artikel=3&z=2007-09-12&g=2007-09-12).
 
-3. Indien het aantal toevoegingen aan de woningvoorraad, bedoeld in het eerste lid, meer bedraagt dan 100% van het voor dat kalenderjaar in het convenant woningbouwafspraken genoemde aantal aan de woningvoorraad toe te voegen woningen exclusief de woningen, bedoeld in [artikel 3, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&hoofdstuk=2&artikel=3&z=2005-12-27&g=2005-12-27), wordt voor dat meerdere boven 100% slechts een voorschot uitbetaald voorzover de rijksbegroting dat toelaat na betaling van de voorschotten, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&hoofdstuk=5&artikel=8&z=2005-12-27&g=2005-12-27), en [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&hoofdstuk=5&artikel=10&z=2005-12-27&g=2005-12-27), voorzover de voorschotten, bedoeld in laatstgenoemd artikellid het meerdere betreffen tussen de 65% en 100% van het voor dat kalenderjaar in het convenant woningbouwafspraken genoemde aantal aan de woningvoorraad toe te voegen woningen exclusief de woningen, bedoeld in [artikel 3, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&hoofdstuk=2&artikel=3&z=2005-12-27&g=2005-12-27).
+3. Indien het aantal toevoegingen aan de woningvoorraad, bedoeld in het eerste lid, meer bedraagt dan 100% van het voor dat kalenderjaar in het convenant woningbouwafspraken genoemde aantal aan de woningvoorraad toe te voegen woningen exclusief de woningen, bedoeld in [artikel 3, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&hoofdstuk=2&artikel=3&z=2007-09-12&g=2007-09-12), wordt voor dat meerdere boven 100% slechts een voorschot uitbetaald voorzover de rijksbegroting dat toelaat na betaling van de voorschotten, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&hoofdstuk=5&artikel=8&z=2007-09-12&g=2007-09-12), en [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&hoofdstuk=5&artikel=10&z=2007-09-12&g=2007-09-12), voorzover de voorschotten, bedoeld in laatstgenoemd artikellid het meerdere betreffen tussen de 65% en 100% van het voor dat kalenderjaar in het convenant woningbouwafspraken genoemde aantal aan de woningvoorraad toe te voegen woningen exclusief de woningen, bedoeld in [artikel 3, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&hoofdstuk=2&artikel=3&z=2007-09-12&g=2007-09-12).
 
-4. De subsidies, bedoeld in dit artikel, worden slechts verleend voorzover de beschikbare middelen, bedoeld in [artikel 5, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&hoofdstuk=3&artikel=5&z=2005-12-27&g=2005-12-27), dat toelaten.
+4. De subsidies, bedoeld in dit artikel, worden slechts verleend voorzover de beschikbare middelen, bedoeld in [artikel 5, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&hoofdstuk=3&artikel=5&z=2007-09-12&g=2007-09-12), dat toelaten.
 
 ##### Artikel 11
 
-Onze Minister kan afwijken van de termijnen met betrekking tot de betaling van de voorschotten, bedoeld in de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&hoofdstuk=5&artikel=8&z=2005-12-27&g=2005-12-27) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&hoofdstuk=5&artikel=10&z=2005-12-27&g=2005-12-27), indien rijksbudgettaire omstandigheden daartoe aanleiding geven.
+Onze Minister kan afwijken van de termijnen met betrekking tot de betaling van de voorschotten, bedoeld in de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&hoofdstuk=5&artikel=8&z=2007-09-12&g=2007-09-12) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&hoofdstuk=5&artikel=10&z=2007-09-12&g=2007-09-12), indien rijksbudgettaire omstandigheden daartoe aanleiding geven.
 
 ##### Artikel 12
 
@@ -224,9 +224,9 @@ Onze Minister kan afwijken van de termijnen met betrekking tot de betaling van d
 
 ##### Artikel 13
 
-1. De subsidie ten behoeve van toevoegingen aan de woningvoorraad over het tijdvak wordt vastgesteld binnen zes maanden na ontvangst van het eindrapport, bedoeld in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&hoofdstuk=7&artikel=16&z=2005-12-27&g=2005-12-27), en de accountantsverklaring, bedoeld in het derde lid van dat artikel.
+1. De subsidie ten behoeve van toevoegingen aan de woningvoorraad over het tijdvak wordt vastgesteld binnen zes maanden na ontvangst van de verantwoordingsinformatie, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&hoofdstuk=7&artikel=16&z=2007-09-12&g=2007-09-12).
 
-2. Het bedrag van de subsidie over het tijdvak wordt vastgesteld op het bedrag per woning berekend overeenkomstig [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&hoofdstuk=5&artikel=8&z=2005-12-27&g=2005-12-27), vermenigvuldigd met het blijkens het eindrapport in het tijdvak gerealiseerde aantal toevoegingen aan de woningvoorraad.
+2. Het bedrag van de subsidie over het tijdvak wordt vastgesteld op het bedrag per woning berekend overeenkomstig [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&hoofdstuk=5&artikel=8&z=2007-09-12&g=2007-09-12), vermenigvuldigd met het blijkens het eindrapport in het tijdvak gerealiseerde aantal toevoegingen aan de woningvoorraad.
 
 3. In afwijking van het tweede lid kan de subsidie lager worden vastgesteld indien:
 
@@ -248,27 +248,27 @@ Onze Minister kan afwijken van de termijnen met betrekking tot de betaling van d
 
 ##### Artikel 14
 
-1. Na ontvangst van het eindrapport, bedoeld in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&hoofdstuk=7&artikel=16&z=2005-12-27&g=2005-12-27), van een rechtstreekse regio of provincie, stelt Onze Minister met betrekking tot die regio of provincie vast in hoeverre het aantal toevoegingen aan de woningvoorraad in het tijdvak is achtergebleven bij de aantallen die voor die regio of provincie zijn opgenomen in [bijlage 2, tabel A, kolom 3](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&bijlage=2&z=2005-12-27&g=2005-12-27), respectievelijk [tabel B, kolom 4 van die bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&bijlage=2&z=2005-12-27&g=2005-12-27).
+1. Na ontvangst van de verantwoordingsinformatie, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&hoofdstuk=7&artikel=16&z=2007-09-12&g=2007-09-12) van een rechtstreekse regio of provincie, stelt Onze Minister met betrekking tot die regio of provincie vast in hoeverre het aantal toevoegingen aan de woningvoorraad in het tijdvak is achtergebleven bij de aantallen die voor die regio of provincie zijn opgenomen in [bijlage 2, tabel A, kolom 3](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&bijlage=2&z=2007-09-12&g=2007-09-12), respectievelijk [tabel B, kolom 4 van die bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&bijlage=2&z=2007-09-12&g=2007-09-12).
 
-2. Indien in de rechtstreekse en niet-rechtstreekse regio’s gezamenlijk sprake is van een zodanig aantal toevoegingen aan de woningvoorraad in het tijdvak dat het op voet van PRIMOS 2003 voor die regio’s gezamenlijk berekende woningtekort per 1 januari 2010, gecorrigeerd voor de toevoegingen in het tijdvak in die regio’s, ten hoogste 2% bedraagt, en indien in een zodanige regio op 1 januari 2010 sprake is van een zodanig aantal toevoegingen aan de woningvoorraad in het tijdvak dat het op voet van PRIMOS 2003 voor die regio berekende woningtekort per 1 januari 2010, gecorrigeerd voor de toevoegingen in het tijdvak in die regio, minder dan een half procentpunt hoger is dan het woningtekort, bedoeld in [artikel 3, onder h](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&hoofdstuk=2&artikel=3&z=2005-12-27&g=2005-12-27), kan Onze Minister die regio of de provincie waarin die regio is gelegen, subsidie verlenen voor toevoegingen aan de woningvoorraad in 2010 voor ten hoogste het aantal toevoegingen aan de woningvoorraad dat nodig is om het woningtekort te brengen op het woningtekort, bedoeld in [artikel 3, onder h](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&hoofdstuk=2&artikel=3&z=2005-12-27&g=2005-12-27), en uitsluitend voorzover:
-
-- a. het daarbij gaat om toevoegingen aan de woningvoorraad in 2010, en
-
-- b. de beschikbare middelen, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&hoofdstuk=3&artikel=5&z=2005-12-27&g=2005-12-27), dat toelaten.
-
-3. Indien in een rechtstreekse of niet-rechtstreekse regio sprake is van een zodanig aantal toevoegingen aan de woningvoorraad in het tijdvak dat het op voet van PRIMOS 2003 voor die regio berekende woningtekort per 1 januari 2010, gecorrigeerd voor de toevoegingen in het tijdvak in die regio, een half procentpunt of meer, maar minder dan een heel procentpunt, hoger is dan het woningtekort, bedoeld in [artikel 3, onder h](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&hoofdstuk=2&artikel=3&z=2005-12-27&g=2005-12-27), gaat Onze Minister in overleg met de bij het betreffende convenant woningbouwafspraken betrokken partijen na wat de oorzaken zijn die tot een zodanig lage woningproductie in het tijdvak hebben geleid dat een dergelijk woningtekort heeft kunnen ontstaan, en wat de vooruitzichten zijn voor de woningproductie in het jaar 2010 in die regio. Afhankelijk van in ieder geval de aard van die oorzaken en van die vooruitzichten, neemt Onze Minister een beslissing over het al dan niet verlenen van subsidie ten behoeve van toevoegingen aan de woningvoorraad in 2010. Indien een subsidie als bedoeld in de tweede volzin wordt verleend, wordt die subsidie verleend voor ten hoogste het aantal toevoegingen aan de woningvoorraad dat nodig is om het woningtekort te brengen op het woningtekort, bedoeld in [artikel 3, onder h](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&hoofdstuk=2&artikel=3&z=2005-12-27&g=2005-12-27), en uitsluitend voorzover:
+2. Indien in de rechtstreekse en niet-rechtstreekse regio’s gezamenlijk sprake is van een zodanig aantal toevoegingen aan de woningvoorraad in het tijdvak dat het op voet van PRIMOS 2003 voor die regio’s gezamenlijk berekende woningtekort per 1 januari 2010, gecorrigeerd voor de toevoegingen in het tijdvak in die regio’s, ten hoogste 2% bedraagt, en indien in een zodanige regio op 1 januari 2010 sprake is van een zodanig aantal toevoegingen aan de woningvoorraad in het tijdvak dat het op voet van PRIMOS 2003 voor die regio berekende woningtekort per 1 januari 2010, gecorrigeerd voor de toevoegingen in het tijdvak in die regio, minder dan een half procentpunt hoger is dan het woningtekort, bedoeld in [artikel 3, onder h](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&hoofdstuk=2&artikel=3&z=2007-09-12&g=2007-09-12), kan Onze Minister die regio of de provincie waarin die regio is gelegen, subsidie verlenen voor toevoegingen aan de woningvoorraad in 2010 voor ten hoogste het aantal toevoegingen aan de woningvoorraad dat nodig is om het woningtekort te brengen op het woningtekort, bedoeld in [artikel 3, onder h](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&hoofdstuk=2&artikel=3&z=2007-09-12&g=2007-09-12), en uitsluitend voorzover:
 
 - a. het daarbij gaat om toevoegingen aan de woningvoorraad in 2010, en
 
-- b. de beschikbare middelen, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&hoofdstuk=3&artikel=5&z=2005-12-27&g=2005-12-27), dat toelaten.
+- b. de beschikbare middelen, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&hoofdstuk=3&artikel=5&z=2007-09-12&g=2007-09-12), dat toelaten.
 
-4. Indien in een rechtstreekse of niet-rechtstreekse regio sprake is van een zodanig aantal toevoegingen aan de woningvoorraad in het tijdvak dat het op voet van PRIMOS 2003 voor die regio berekende woningtekort per 1 januari 2010, gecorrigeerd voor de toevoegingen in het tijdvak in die regio, een heel procentpunt of meer hoger is dan het woningtekort, bedoeld in [artikel 3, onder h](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&hoofdstuk=2&artikel=3&z=2005-12-27&g=2005-12-27), wordt geen subsidie ten behoeve van toevoegingen aan de woningvoorraad in 2010 verleend.
+3. Indien in een rechtstreekse of niet-rechtstreekse regio sprake is van een zodanig aantal toevoegingen aan de woningvoorraad in het tijdvak dat het op voet van PRIMOS 2003 voor die regio berekende woningtekort per 1 januari 2010, gecorrigeerd voor de toevoegingen in het tijdvak in die regio, een half procentpunt of meer, maar minder dan een heel procentpunt, hoger is dan het woningtekort, bedoeld in [artikel 3, onder h](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&hoofdstuk=2&artikel=3&z=2007-09-12&g=2007-09-12), gaat Onze Minister in overleg met de bij het betreffende convenant woningbouwafspraken betrokken partijen na wat de oorzaken zijn die tot een zodanig lage woningproductie in het tijdvak hebben geleid dat een dergelijk woningtekort heeft kunnen ontstaan, en wat de vooruitzichten zijn voor de woningproductie in het jaar 2010 in die regio. Afhankelijk van in ieder geval de aard van die oorzaken en van die vooruitzichten, neemt Onze Minister een beslissing over het al dan niet verlenen van subsidie ten behoeve van toevoegingen aan de woningvoorraad in 2010. Indien een subsidie als bedoeld in de tweede volzin wordt verleend, wordt die subsidie verleend voor ten hoogste het aantal toevoegingen aan de woningvoorraad dat nodig is om het woningtekort te brengen op het woningtekort, bedoeld in [artikel 3, onder h](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&hoofdstuk=2&artikel=3&z=2007-09-12&g=2007-09-12), en uitsluitend voorzover:
 
-5. Op verleende subsidies ten behoeve van toevoegingen aan de woningvoorraad in 2010 vindt geen bevoorschotting plaats, anders dan reeds verleende voorschotten op subsidies voor toevoegingen aan de woningvoorraad gedurende het tijdvak die niet zijn gerealiseerd en die op basis van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&hoofdstuk=7&artikel=18&z=2005-12-27&g=2005-12-27) voor terugvordering in aanmerking komen.
+- a. het daarbij gaat om toevoegingen aan de woningvoorraad in 2010, en
 
-6. De subsidie ten behoeve van toevoegingen aan de woningvoorraad in 2010 wordt vastgesteld binnen zes maanden na ontvangst van het aanvullend eindrapport, bedoeld in [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&hoofdstuk=7&artikel=16&z=2005-12-27&g=2005-12-27), en de accountantsverklaring, bedoeld in het [derde lid van dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&hoofdstuk=7&artikel=16&z=2005-12-27&g=2005-12-27).
+- b. de beschikbare middelen, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&hoofdstuk=3&artikel=5&z=2007-09-12&g=2007-09-12), dat toelaten.
 
-7. Het bedrag van de subsidie wordt vastgesteld op het bedrag per woning, berekend overeenkomstig [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&hoofdstuk=5&artikel=8&z=2005-12-27&g=2005-12-27), vermenigvuldigd met het blijkens het aanvullend eindrapport, bedoeld in [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&hoofdstuk=7&artikel=16&z=2005-12-27&g=2005-12-27), in 2010 gerealiseerde aantal toevoegingen aan de woningvoorraad,tot ten hoogste het bedrag van de verleende subsidie.
+4. Indien in een rechtstreekse of niet-rechtstreekse regio sprake is van een zodanig aantal toevoegingen aan de woningvoorraad in het tijdvak dat het op voet van PRIMOS 2003 voor die regio berekende woningtekort per 1 januari 2010, gecorrigeerd voor de toevoegingen in het tijdvak in die regio, een heel procentpunt of meer hoger is dan het woningtekort, bedoeld in [artikel 3, onder h](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&hoofdstuk=2&artikel=3&z=2007-09-12&g=2007-09-12), wordt geen subsidie ten behoeve van toevoegingen aan de woningvoorraad in 2010 verleend.
+
+5. Op verleende subsidies ten behoeve van toevoegingen aan de woningvoorraad in 2010 vindt geen bevoorschotting plaats, anders dan reeds verleende voorschotten op subsidies voor toevoegingen aan de woningvoorraad gedurende het tijdvak die niet zijn gerealiseerd en die op basis van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&hoofdstuk=7&artikel=18&z=2007-09-12&g=2007-09-12) voor terugvordering in aanmerking komen.
+
+6. De subsidie ten behoeve van toevoegingen aan de woningvoorraad in 2010 wordt vastgesteld binnen zes maanden na het verstrekken van de verantwoordingsinformatie bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&hoofdstuk=7&artikel=16&z=2007-09-12&g=2007-09-12).
+
+7. Het bedrag van de subsidie wordt vastgesteld op het bedrag per woning, berekend overeenkomstig [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&hoofdstuk=5&artikel=8&z=2007-09-12&g=2007-09-12), vermenigvuldigd met het blijkens de verantwoordingsinformatie, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&hoofdstuk=7&artikel=16&z=2007-09-12&g=2007-09-12), in 2010 gerealiseerde aantal toevoegingen aan de woningvoorraad,tot ten hoogste het bedrag van de verleende subsidie.
 
 8. In afwijking van het zevende lid kan de subsidie lager worden vastgesteld indien:
 
@@ -282,7 +282,7 @@ Onze Minister kan afwijken van de termijnen met betrekking tot de betaling van d
 
 ##### Artikel 15
 
-1. Indien op voet van [artikel 14, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&hoofdstuk=6&artikel=14&z=2005-12-27&g=2005-12-27), door Onze Minister ruimte is gegeven voor toevoegingen aan de woningvoorraad in 2010, verleent Onze Minister voor die toevoegingen subsidie voor het realiseren van eigenbouw in 2010, voorzover de beschikbare middelen, bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&hoofdstuk=3&artikel=5&z=2005-12-27&g=2005-12-27), dat toelaten.
+1. Indien op voet van [artikel 14, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&hoofdstuk=6&artikel=14&z=2007-09-12&g=2007-09-12), door Onze Minister ruimte is gegeven voor toevoegingen aan de woningvoorraad in 2010, verleent Onze Minister voor die toevoegingen subsidie voor het realiseren van eigenbouw in 2010, voorzover de beschikbare middelen, bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&hoofdstuk=3&artikel=5&z=2007-09-12&g=2007-09-12), dat toelaten.
 
 2. De subsidie bedraagt € 1.600,– vermenigvuldigd met het aantal door eigenbouw aan de woningvoorraad toegevoegde woningen dat uitstijgt boven het drempelaantal.
 
@@ -290,7 +290,7 @@ Onze Minister kan afwijken van de termijnen met betrekking tot de betaling van d
 
 4. De datum van gereedmelding, bedoeld in het derde lid, wordt ontleend aan de door het Centraal bureau voor de statistiek terzake opgestelde woningstatistieken.
 
-5. De subsidie over het tijdvak wordt verleend en vastgesteld binnen zes maanden na ontvangst van het aanvullend eindrapport, bedoeld in [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&hoofdstuk=7&artikel=16&z=2005-12-27&g=2005-12-27), en de accountantsverklaring, bedoeld in het [derde lid van dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&hoofdstuk=7&artikel=16&z=2005-12-27&g=2005-12-27).
+5. De subsidie over het tijdvak wordt verleend en vastgesteld binnen zes maanden na ontvangst van het aanvullend eindrapport, bedoeld in [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&hoofdstuk=7&artikel=16&z=2007-09-12&g=2007-09-12), en de accountantsverklaring, bedoeld in het [derde lid van dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&hoofdstuk=7&artikel=16&z=2007-09-12&g=2007-09-12).
 
 6. In afwijking van het tweede lid kan de subsidie lager worden vastgesteld indien:
 
@@ -306,25 +306,15 @@ Onze Minister kan afwijken van de termijnen met betrekking tot de betaling van d
 
 ##### Artikel 16
 
-1. Een ontvanger dient uiterlijk voor 15 juli 2010 een eindrapport in over:
-
-- a. het aantal toevoegingen aan de woningvoorraad op zijn grondgebied gedurende het tijdvak, alsmede over de besteding van de aan hem daarvoor verleende subsidie, en
-
-- b. de in het tijdvak gerealiseerde aantallen eigenbouw.
-
-2. Met betrekking tot de toevoegingen aan de woningvoorraad in 2010, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&hoofdstuk=6&artikel=14&z=2005-12-27&g=2005-12-27), en het realiseren van eigenbouw in 2010, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&hoofdstuk=6&artikel=15&z=2005-12-27&g=2005-12-27), dient de ontvanger voor 15 juli 2011 een aanvullend eindrapport in.
-
-3. Het eindrapport en het aanvullend eindrapport worden ingericht overeenkomstig [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&bijlage=3&z=2005-12-27&g=2005-12-27) bij dit besluit en gaan vergezeld van een accountantsverklaring die is opgesteld met inachtneming van het in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&bijlage=4&z=2005-12-27&g=2005-12-27) bij dit besluit opgenomen accountantsprotocol.
+Een ontvanger verstrekt jaarlijks voor 15 juli verantwoordingsinformatie aan Onze Minister op de wijze, bedoeld in [artikel 27 van het Besluit financiële verhouding 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&artikel=27).
 
 ##### Artikel 17
 
-1. Indien de in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&hoofdstuk=7&artikel=16&z=2005-12-27&g=2005-12-27), bedoelde termijn voor indiening van het eindrapport is verstreken zonder dat een eindrapport overeenkomstig [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&bijlage=3&z=2005-12-27&g=2005-12-27) bij dit besluit en een accountantsverklaring als bedoeld in [artikel 16, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&hoofdstuk=7&artikel=16&z=2005-12-27&g=2005-12-27), is ingediend, kan Onze Minister, in afwijking van [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&hoofdstuk=4&artikel=7&z=2005-12-27&g=2005-12-27), de verlening van de subsidie ten behoeve van het realiseren van eigenbouw intrekken of die subsidie lager vaststellen dan het bedrag bedoeld in dat artikellid.
+1. Indien de in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&hoofdstuk=7&artikel=16&z=2007-09-12&g=2007-09-12) bedoelde termijn voor indiening van de verantwoordingsinformatie is verstreken zonder dat de verantwoordingsinformatie door de ontvanger is verstrekt, kan Onze Minister, in afwijking van [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&hoofdstuk=4&artikel=7&z=2007-09-12&g=2007-09-12), de verlening van de subsidie ten behoeve van het realiseren van eigenbouw intrekken of die subsidie lager vaststellen dan het bedrag bedoeld in dat artikellid.
 
-2. Indien de in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&hoofdstuk=7&artikel=16&z=2005-12-27&g=2005-12-27), bedoelde termijn voor indiening van het eindrapport is verstreken zonder dat een eindrapport overeenkomstig [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&bijlage=3&z=2005-12-27&g=2005-12-27) bij dit besluit en een accountantsverklaring als bedoeld in [artikel 16, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&hoofdstuk=7&artikel=16&z=2005-12-27&g=2005-12-27), is ingediend, kan Onze Minister, in afwijking van [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&hoofdstuk=5&artikel=13&z=2005-12-27&g=2005-12-27), de verlening van de subsidie ten behoeve van toevoegingen aan de woningvoorraad intrekken of die subsidie ambtshalve vaststellen.
+2. Indien de in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&hoofdstuk=7&artikel=16&z=2007-09-12&g=2007-09-12) bedoelde termijn voor indiening van de verantwoordingsinformatie is verstreken zonder dat de verantwoordingsinformatie door de ontvanger is verstrekt, kan Onze Minister, in afwijking van [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&hoofdstuk=5&artikel=13&z=2007-09-12&g=2007-09-12), en [artikel 14, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&hoofdstuk=6&artikel=14&z=2007-09-12&g=2007-09-12), de verlening van de subsidie ten behoeve van de toevoegingen aan de woningvoorraad intrekken of die subsidie ambtshalve vaststellen.
 
-3. Indien de in [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&hoofdstuk=7&artikel=16&z=2005-12-27&g=2005-12-27), bedoelde termijn voor indiening van het aanvullend eindrapport is verstreken zonder dat een aanvullend eindrapport overeenkomstig [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&bijlage=3&z=2005-12-27&g=2005-12-27) bij dit besluit en een accountantsverklaring als bedoeld in [artikel 16, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&hoofdstuk=7&artikel=16&z=2005-12-27&g=2005-12-27), is ingediend, kan Onze Minister, in afwijking van [artikel 14, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&hoofdstuk=6&artikel=14&z=2005-12-27&g=2005-12-27), de verlening van de subsidie ten behoeve van toevoegingen aan de woningvoorraad in 2010 intrekken of die subsidie ambtshalve vaststellen.
-
-4. Onze Minister gaat niet over tot intrekking, lagere vaststelling of ambtshalve vaststelling van een subsidie op voet van dit besluit, dan nadat de ontvanger in de gelegenheid is gesteld het eindrapport, dan wel het aanvullend eindrapport, in te dienen binnen een door Onze Minister te bepalen termijn.
+3. Onze Minister gaat niet over tot intrekking, lagere vaststelling of ambtshalve vaststelling van een subsidie op voet van dit besluit, dan nadat de ontvanger in de gelegenheid is gesteld de verantwoordingsinformatie te verstrekken binnen een door Onze Minister te bepalen termijn.
 
 ##### Artikel 18
 
@@ -334,7 +324,7 @@ Onverschuldigd betaalde subsidiebedragen en voorschotten kunnen worden teruggevo
 
 ##### Artikel 19
 
-Een vóór de datum van inwerkingtreding van dit besluit tussen Onze Minister en een rechtstreekse regio of een provincie gesloten overeenkomst met betrekking tot de bouw van woningen in het tijdvak, staat gelijk aan een convenant woningbouwafspraken als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&hoofdstuk=1&artikel=2&z=2005-12-27&g=2005-12-27), indien die overeenkomst in elk geval datgene omvat wat een convenant woningbouwafspraken ingevolge [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&hoofdstuk=2&artikel=3&z=2005-12-27&g=2005-12-27) omvat.
+Een vóór de datum van inwerkingtreding van dit besluit tussen Onze Minister en een rechtstreekse regio of een provincie gesloten overeenkomst met betrekking tot de bouw van woningen in het tijdvak, staat gelijk aan een convenant woningbouwafspraken als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&hoofdstuk=1&artikel=2&z=2007-09-12&g=2007-09-12), indien die overeenkomst in elk geval datgene omvat wat een convenant woningbouwafspraken ingevolge [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&hoofdstuk=2&artikel=3&z=2007-09-12&g=2007-09-12) omvat.
 
 ##### Artikel 20
 
@@ -346,7 +336,7 @@ Een vóór de datum van inwerkingtreding van dit besluit tussen Onze Minister en
 
 ##### Artikel 21
 
-Dit besluit treedt in werking met ingang van de dag die twee maanden ligt na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt, met uitzondering van [artikel 20, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&hoofdstuk=8&artikel=20&z=2005-12-27&g=2005-12-27), terug tot en met 1 januari 2005.
+Dit besluit treedt in werking met ingang van de dag die twee maanden ligt na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt, met uitzondering van [artikel 20, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018822&hoofdstuk=8&artikel=20&z=2007-09-12&g=2007-09-12), terug tot en met 1 januari 2005.
 
 ##### Artikel 22
 
@@ -498,6 +488,8 @@ Almere, **Lelystad**.
 
 ## Bijlage 3. bij het besluit locatiegebonden subsidies 2005
 
+Vervallen
+
 ### Model eindrapport/aanvullend eindrapport
 
 Te verstrekken gegevens:
@@ -527,5 +519,15 @@ Deze verklaring wordt afgegeven aan de hiervoor genoemde ontvanger ten behoeve v
 (plaatsnaam, datum)
 
 (naam accountant en ondertekening)
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+## Bijlage 4. bij het besluit locatiegebonden subsidies 2005
+
+Vervallen
+
+## Bijlage 5. bij het besluit locatiegebonden subsidies 2005
+
+Vervallen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
