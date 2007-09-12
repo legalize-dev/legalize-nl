@@ -4,7 +4,7 @@ identifier: "BWBR0015524"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-04-17"
-last_updated: "2007-01-01"
+last_updated: "2007-09-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0015524"
 soort: "AMvB"
@@ -76,9 +76,9 @@ Naast de kwantitatieve fouten en onzekerheden in de controle houdt de accountant
 
 ##### Artikel 4. (Accountantsverklaring)
 
-1. Voor de formulering van de goedkeurende accountantsverklaring hanteert de accountant het model van [bijlage 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0015524&bijlage=1a&z=2007-01-01&g=2007-01-01) voor de provincie onderscheidenlijk [bijlage 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0015524&bijlage=1b&z=2007-01-01&g=2007-01-01) voor de gemeente.
+1. Voor de formulering van de goedkeurende accountantsverklaring hanteert de accountant het model van [bijlage 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0015524&bijlage=1a&z=2007-09-12&g=2007-09-12) voor de provincie onderscheidenlijk [bijlage 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0015524&bijlage=1b&z=2007-09-12&g=2007-09-12) voor de gemeente.
 
-2. Voor de strekking van de accountantsverklaring hanteert de accountant de uitgangspunten en de tabel, zoals opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0015524&bijlage=2&z=2007-01-01&g=2007-01-01).
+2. Voor de strekking van de accountantsverklaring hanteert de accountant de uitgangspunten en de tabel, zoals opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0015524&bijlage=2&z=2007-09-12&g=2007-09-12).
 
 ##### Artikel 5. (Verslag van bevindingen)
 
@@ -94,7 +94,7 @@ Naast de kwantitatieve fouten en onzekerheden in de controle houdt de accountant
 
 - b. 10% indien de lasten groter dan € 100.000 en kleiner dan of gelijk aan € 1.000.000 zijn;
 
-- c. € 1.00.000 indien de lasten groter dan € 1.000.000 zijn.
+- c. € 100.000 indien de lasten groter dan € 1.000.000 zijn.
 
 ##### Artikel 6. (Intrekken [Besluit accountantscontrole gemeenten](https://wetten.overheid.nl/jci1.3:c:BWBR0013016))
 
@@ -214,6 +214,6 @@ Als één der of beide goedkeuringstolerantie(s) worden overschreden zal geen go
 
 ### soort verklaring
 
-Zoals in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0015524&artikel=3&z=2007-01-01&g=2007-01-01) aangegeven kan de accountant, op grond van zijn deskundigheid, ook besluiten dat er kwalitatieve gebreken zijn van dusdanige aard, dat de goedkeuring wordt onthouden.
+Zoals in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0015524&artikel=3&z=2007-09-12&g=2007-09-12) aangegeven kan de accountant, op grond van zijn deskundigheid, ook besluiten dat er kwalitatieve gebreken zijn van dusdanige aard, dat de goedkeuring wordt onthouden.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
