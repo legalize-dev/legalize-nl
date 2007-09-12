@@ -4,7 +4,7 @@ identifier: "BWBR0017584"
 country: "nl"
 rank: "amvb"
 publication_date: "2012-12-07"
-last_updated: "2004-12-15"
+last_updated: "2007-09-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017584"
 soort: "AMvB"
@@ -195,11 +195,7 @@ Onze Minister kan afwijzend beschikken op een aanvraag voor een voorschot, indie
 
 ##### Artikel 14
 
-1. De subsidie-ontvanger dient zijn aanvraag om subsidievaststelling in binnen dertien weken na het tijdstip waarop het project ingevolge [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017584&paragraaf=3&artikel=9&z=2004-12-15&g=2004-12-15), moet zijn voltooid.
-
-2. De aanvraag wordt ingediend met gebruikmaking van het origineel van een ondertekend formulier, dat bij ministeriële regeling wordt vastgesteld.
-
-3. De aanvraag gaat vergezeld van een accountantsverklaring en een eindverslag omtrent de uitvoering en de resultaten van het project, overeenkomstig hetgeen in het formulier is vermeld.
+De subsidie-ontvanger vraagt een subsidievaststelling aan door verantwoordingsinformatie aan Onze Minister te verstrekken, op de wijze, bedoeld in [artikel 27 van het Besluit financiële verhouding 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&artikel=27).
 
 ##### Artikel 15
 
