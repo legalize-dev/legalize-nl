@@ -4,7 +4,7 @@ identifier: "BWBR0022500"
 country: "nl"
 rank: "kb"
 publication_date: "2007-09-14"
-last_updated: "2007-07-01"
+last_updated: "2007-09-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022500"
 soort: "KB"
@@ -48,7 +48,7 @@ Aan de voorzitter van de Commissie van Overleg Sectorraden wordt in plaats van v
 
 ##### Artikel 2
 
-Indien de voorzitter, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022500&artikel=1&z=2007-09-14&g=2007-07-01), niet gedurende 1 jaar de functie van voorzitter bekleedt, wordt de beloning, genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022500&artikel=1&z=2007-09-14&g=2007-07-01), naar evenredigheid vastgesteld.
+Indien de voorzitter, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022500&artikel=1&z=2007-09-14&g=2007-09-14), niet gedurende 1 jaar de functie van voorzitter bekleedt, wordt de beloning, genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022500&artikel=1&z=2007-09-14&g=2007-09-14), naar evenredigheid vastgesteld.
 
 ##### Artikel 3
 
