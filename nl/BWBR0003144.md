@@ -4,7 +4,7 @@ identifier: "BWBR0003144"
 country: "nl"
 rank: "amvb"
 publication_date: "2015-01-01"
-last_updated: "2004-11-01"
+last_updated: "2007-09-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003144"
 soort: "AMvB"
@@ -46,7 +46,7 @@ Hebben goedgevonden en verstaan:
 
 1. In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-vissersvaartuig: vaartuig dat gebruikt wordt voor de bedrijfsmatige uitoefening van de visserij dat:
+vissersvaartuig: vaartuig als bedoeld in artikel 3, onderdeel c, van Verordening (EG) nr. 2371/2002 van de Raad van de Europese Unie van 20 december 2002 inzake de instandhouding en de duurzame exploitatie van de visbestanden in het kader van het gemeenschappelijk visserijbeleid (PbEG L 358) dat:
 
 - a. overeenkomstig [artikel 1, tweede lid, van de Uitvoeringswet Visserijverdrag 1967](https://wetten.overheid.nl/jci1.3:c:BWBR0002897&artikel=1) als Nederlands geldt en
 
@@ -56,15 +56,11 @@ wet: [Visserijwet 1963](https://wetten.overheid.nl/jci1.3:c:BWBR0002416);
 
 ondernemer: degene te wiens naam het vissersvaartuig in het visserijregister, bedoeld in het [Besluit registratie vissersvaartuigen 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009353) is geregistreerd;
 
-motorvermogen: maximaal continue vermogen zonder aftrek van door de motor aangedreven hulpmachines, uitgedrukt in kW, dat de hoofdmotor of hoofdmotoren zonder overbelasting gedurende onbeperkte tijdsduur kan onderscheidenlijk kunnen leveren, hetwelk is vastgelegd in een door de fabrikant ten behoeve van de hoofdmotor of hoofdmotoren afgegeven:
-
-- a. afnameprotocol, dat door de divisie Scheepvaart van de Inspectie Verkeer en Waterstaat of door een bij besluit van de Staatssecretaris van Verkeer en Waterstaat van 12 september 1972 (**Stb.** 512) aangewezen particulier onderzoekingsbureau is medeondertekend, of
-
-- b. verklaring inzake het maximaal continue-vermogen voor zover het in onderdeel **a** genoemde afnameprotocol alleen het afgestelde motorvermogen vermeldt;
+motorvermogen: maximaal continue-vermogen zonder aftrek van door de motor aangedreven hulpmachines, uitgedrukt in kW, dat de hoofdmotor of hoofdmotoren zonder overbelasting kan respectievelijk, kunnen leveren, en dat mechanisch, elektrisch, hydraulisch of anderszins kan worden aangewend voor de voortstuwing van het vaartuig, zoals is vastgesteld door de Inspectie Verkeer en Waterstaat ingevolge het [Vissersvaartuigenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0004607) of het [Vissersvaartuigenbesluit 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0013342), of in voorkomend geval blijkt uit een verklaring inzake het maximaal continue-vermogen, opgesteld door de fabrikant of de leverancier;
 
 boomkor: vistuig dat bestaat uit één net dat is bevestigd aan en in horizontale richting wordt opengehouden door een constructie bestaande uit een boom die ten minste aan elk der uiteinden voorzien is van een slede of een slof, dan wel een soortgelijke constructie waarmee een net in horizontale richting wordt opengehouden;
 
-maaswijdte: lengte van de zonder bijzondere krachtsinspanning tussen haar eindknopen gestrekte maas, nat gemeten, met dien verstande, dat bij meerwandige netten deze meting wordt toegepast op de boezemmaas, gemeten overeenkomstig het bepaalde in de [Verordening (EEG) nr. 2108/84](31984R2108) (**PbEG** L 194/22);
+maaswijdte: lengte van de zonder bijzondere krachtsinspanning tussen haar eindknopen gestrekte maas, nat gemeten, met dien verstande, dat bij meerwandige netten deze meting wordt toegepast op de boezemmaas, gemeten overeenkomstig het bepaalde in Verordening (EG) nr. 129/2003 van de Commissie van 24 januari 2003 houdende uitvoeringsbepalingen inzake de bepaling van de maaswijdte en de twijndikte van visnetten (PbEG L 22);
 
 tonnage: tonnage gemeten overeenkomstig het bepaalde bij en krachtens de [Meetbrievenwet 1981](https://wetten.overheid.nl/jci1.3:c:BWBR0003378) (**Stb.** 122);
 
@@ -96,7 +92,7 @@ Tenzij anders is bepaald is dit besluit van toepassing op de visserij in de wate
 
 ##### Artikel 4
 
-1. De in [artikel 3, eerste lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003144&artikel=3&z=2004-11-01&g=2004-11-01), bedoelde regelen kunnen betrekking hebben op:
+1. De in [artikel 3, eerste lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003144&artikel=3&z=2007-09-14&g=2007-09-14), bedoelde regelen kunnen betrekking hebben op:
 
 - a. het instellen van gesloten gebieden;
 
@@ -116,21 +112,21 @@ Tenzij anders is bepaald is dit besluit van toepassing op de visserij in de wate
 
 - i. het uitzaaien of uitzetten van schelpdieren van de krachtens [artikel 1, tweede lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&artikel=1) aangewezen soorten.
 
-2. Indien de in [artikel 3, eerste lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003144&artikel=3&z=2004-11-01&g=2004-11-01), bedoelde regelen een verbod tot het verrichten van bepaalde handelingen inhouden, kan worden bepaald, dat het verbod niet geldt voor degene, die voorzien is van een vergunning van Onze Minister.
+2. Indien de in [artikel 3, eerste lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003144&artikel=3&z=2007-09-14&g=2007-09-14), bedoelde regelen een verbod tot het verrichten van bepaalde handelingen inhouden, kan worden bepaald, dat het verbod niet geldt voor degene, die voorzien is van een vergunning van Onze Minister.
 
 3. Aan een vergunning, als bedoeld in het vorige lid, kunnen voorschriften worden verbonden. Zij kan onder beperkingen worden verleend. Zij kan worden ingetrokken.
 
-4. Tenzij het algemeen belang zich naar zijn oordeel daartegen verzet, stelt Onze Minister een regeling als bedoeld in [artikel 3, eerste lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003144&artikel=3&z=2004-11-01&g=2004-11-01), niet vast dan nadat hij met de daarbij in belangrijke mate betrokken produkt- en bedrijfschappen zomede de naar zijn oordeel daarvoor in aanmerking komende organisaties van sportvissers overleg heeft gepleegd.
+4. Tenzij het algemeen belang zich naar zijn oordeel daartegen verzet, stelt Onze Minister een regeling als bedoeld in [artikel 3, eerste lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003144&artikel=3&z=2007-09-14&g=2007-09-14), niet vast dan nadat hij met de daarbij in belangrijke mate betrokken produkt- en bedrijfschappen zomede de naar zijn oordeel daarvoor in aanmerking komende organisaties van sportvissers overleg heeft gepleegd.
 
 ##### Artikel 5
 
-1. Degenen die vis van een aanvoerder betrekken en zij, die hun bemiddeling verlenen bij het veilen van vis, zijn verplicht een administratie te voeren en aan de Directeur van de Visserijen periodiek opgave te doen van de hoeveelheden vis behorende tot door Onze Minister aan te wijzen vissoorten door hen van een aanvoerder betrokken onderscheidenlijk aan hen ter veiling aangeboden.
+1. Degenen die vis van een aanvoerder betrekken en zij, die hun bemiddeling verlenen bij het veilen van vis, zijn verplicht een administratie te voeren en aan Onze Minister periodiek opgave te doen van de hoeveelheden vis behorende tot door Onze Minister aan te wijzen vissoorten door hen van een aanvoerder betrokken onderscheidenlijk aan hen ter veiling aangeboden.
 
 2. Onze Minister stelt regelen ten aanzien van de eisen, waaraan de in het eerste lid bedoelde administratie dient te voldoen en ten aanzien van de wijze waarop de aldaar bedoelde opgave dient te geschieden.
 
 ##### Artikel 6
 
-Tot uitvoering van het bepaalde krachtens dit besluit kan Onze Minister de medewerking van het Produktschap voor Vis en Visprodukten vorderen. De te vorderen medewerking kan betrekking hebben op door het Produktschap bij verordening nader te stellen regelen.
+Tot uitvoering van het bepaalde krachtens dit besluit kan Onze Minister de medewerking van het Productschap Vis vorderen. De te vorderen medewerking kan betrekking hebben op door het Productschap bij verordening nader te stellen regelen.
 
 ##### Artikel 6a
 
@@ -146,7 +142,7 @@ Tot uitvoering van het bepaalde krachtens dit besluit kan Onze Minister de medew
 
 - 2°. de aanbouw, herkenbaar als behorend tot een bepaald vissersvaartuig vóór 25 september 1987 is aangevangen en voor deze datum is aangevangen met de samenbouw die ten minste 50.000 kg moet omvatten of één percent van de geschatte massa van al het bouwmateriaal, welke van deze twee waarden de laagste is,
 
-- c. een vissersvaartuig dat behoort tot het segment pelagische trawlers, bedoeld in de bijlage bij Beschikking 98/121/EG van de Commissie van 16 december 1997 houdende goedkeuring van het meerjarig oriëntatieprogramma voor de vissersvloot van Nederland voor de periode van 1 januari 1997 tot en met 31 december 2001 (PbEG L 39).
+- c. een vissersvaartuig met een brutotonnage van meer dan 1.200 BT waarmee de pelagische visserij wordt uitgeoefend.
 
 3. Onze Minister kan nadere regelen stellen voor een goede werking van het bepaalde in het eerste en tweede lid.
 
@@ -156,7 +152,7 @@ Tot uitvoering van het bepaalde krachtens dit besluit kan Onze Minister de medew
 
 - a. het in de licentie vermelde motorvermogen hoger is dan 1471 kW en de licentie voor dat gedeelte niet meer geldig is op grond van artikel 7**a**, aanhef en onderdeel **b**, van de Beschikking visserijlicentie (**Stcrt.** 1984, 253), voor zover dat gedeelte vóór 25 februari 1987 door aankoop is verkregen, ten hoogste tot het aankoopbedrag daarvan;
 
-- b. de ondernemer als rechtstreeks gevolg van het verbod van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003144&artikel=3&z=2004-11-01&g=2004-11-01) een met een scheepswerf aangegane investeringsverplichting voor de bouw van een vissersvaartuig met een motorvermogen van meer dan 1471 kW, en waarvan:
+- b. de ondernemer als rechtstreeks gevolg van het verbod van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003144&artikel=3&z=2007-09-14&g=2007-09-14) een met een scheepswerf aangegane investeringsverplichting voor de bouw van een vissersvaartuig met een motorvermogen van meer dan 1471 kW, en waarvan:
 
 - 1°. de kiel op 25 september 1987 nog niet is gelegd of
 
