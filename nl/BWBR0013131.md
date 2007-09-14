@@ -4,7 +4,7 @@ identifier: "BWBR0013131"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-10-01"
-last_updated: "2004-08-20"
+last_updated: "2007-09-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013131"
 soort: "AMvB"
@@ -90,7 +90,7 @@ Voor de toepasselijkheid van het bij en krachtens de [Wet rechtspositie rechterl
 
 4. In afwijking van het tweede lid worden de in de op de [Ambtenarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947) berustende bepalingen aan Onze Minister toegekende bevoegdheden tot het stellen van regels, de daarin aan Onze Minister toegekende bevoegdheden tot het verlenen van mandaat van een bevoegdheid tot het stellen van regels met een sterk technisch karakter, de daarin aan Onze Minister toegekende bevoegdheden tot het doen van een voordracht voor een regeling, alsmede de in de [artikelen 113 tot en met 117 van het Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=113) aan Onze Minister toegekende bevoegdheden, ten aanzien van de directeuren bedrijfsvoering uitgeoefend door de Raad voor de rechtspraak.
 
-5. Het eerste, tweede en vierde lid zijn van overeenkomstige toepassing op de uitoefening van de bevoegdheden in de ingevolge [artikel 1, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013131&artikel=1&z=2004-08-20&g=2004-08-20), overeenkomstig toepasselijke bepalingen van het [Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630).
+5. Het eerste, tweede en vierde lid zijn van overeenkomstige toepassing op de uitoefening van de bevoegdheden in de ingevolge [artikel 1, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013131&artikel=1&z=2007-09-14&g=2007-09-14), overeenkomstig toepasselijke bepalingen van het [Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630).
 
 6. [Artikel 98, eerste lid, onderdeel g, van het Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=98) is niet van toepassing op de niet-rechterlijke leden van de Raad voor de rechtspraak en de directeuren bedrijfsvoering bij de gerechten.
 
@@ -132,10 +132,30 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 9a
 
-In afwijking van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0013131&artikel=9&z=2004-08-20&g=2004-08-20) hebben de in dat artikel bedoelde personen in geval van ongeschiktheid tot het verrichten van arbeid wegens ziekte, geen aanspraak op een onkostenvergoeding en een representatievergoeding na ommekomst van het kalenderjaar waarin de ongeschiktheid is aangevangen en het kalenderjaar daaropvolgend.
+In afwijking van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0013131&artikel=9&z=2007-09-14&g=2007-09-14) hebben de in dat artikel bedoelde personen in geval van ongeschiktheid tot het verrichten van arbeid wegens ziekte, geen aanspraak op een onkostenvergoeding en een representatievergoeding na ommekomst van het kalenderjaar waarin de ongeschiktheid is aangevangen en het kalenderjaar daaropvolgend.
 
 ##### Artikel 9b
 
 Bij regeling van Onze Minister kunnen de in dit besluit genoemde vergoedingen worden aangepast door middel van toepassing van het geldende prijsindexcijfer, waarbij de bedragen worden afgerond naar de eerstvolgende euro.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 9c
+
+1. Te rekenen vanaf de datum waarop de benoeming van de directeur bedrijfsvoering, die op basis van het [Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950) in vaste dienst is aangesteld, op grond van het verstrijken van de benoemingsduur van zes jaar en het achterwege blijven van een herbenoeming, is geëindigd, worden door het bestuur van het gerecht waarbij hij benoemd was als directeur bedrijfsvoering, gedurende een periode van achttien maanden inspanningen verricht om te komen tot plaatsing van hem in een andere passende functie.
+
+2. De directeur bedrijfsvoering, bedoeld in het eerste lid, blijft gedurende de periode dat hij nog niet is geplaatst in een andere passende functie in het genot van het bij zijn benoeming als directeur bedrijfsvoering behorende salaris.
+
+3. Onverminderd het eerste lid is de directeur bedrijfsvoering, bedoeld in het eerste lid, verplicht al het mogelijke te doen om een passende functie te vinden. Hij is bovendien verplicht een hem aangeboden passende functie te aanvaarden. Indien nog geen passende functie is gevonden, kunnen aan hem door het bestuur van het gerecht, bedoeld in het eerste lid, tijdelijk andere werkzaamheden worden opgedragen. Hij is verplicht deze werkzaamheden te verrichten.
+
+4. Aan de directeur bedrijfsvoering, bedoeld in het eerste lid, kan bij koninklijk besluit op voordracht van Onze Minister ontslag worden verleend indien hij heeft geweigerd te voldoen aan een in het derde lid bedoelde verplichting. Ontslag als bedoeld in de eerste volzin wordt verleend met inachtneming van een opzeggingstermijn van drie maanden. [Artikel 16, vijfde lid, tweede volzin, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=16) is van toepassing.
+
+5. Het bestuur van het gerecht, bedoeld in het eerste lid, kan de directeur bedrijfsvoering, bedoeld in het eerste lid, een vergoeding toekennen ter grootte van maximaal drie maandsalarissen, indien aan hem binnen de in het eerste lid bedoelde periode van achttien maanden op zijn verzoek ontslag wordt verleend.
+
+6. Aan de directeur bedrijfsvoering, bedoeld in het eerste lid, wordt bij koninklijk besluit op voordracht van Onze Minister ontslag verleend, indien hij niet binnen de in het eerste lid bedoelde termijn van achttien maanden is geplaatst in een nieuwe functie. [Artikel 16, vijfde lid, tweede volzin, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=16) is van toepassing.
+
+7. In geval van ontslag als bedoeld in het zesde lid wordt aan de directeur bedrijfsvoering een uitkering ten laste van het bestuur van het gerecht, bedoeld in het eerste lid, toegekend. Deze uitkering bedraagt 110% van het voor hem geldende totaal van uitkeringen berekend op basis van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) en het [Besluit bovenwettelijke uitkeringen bij werkloosheid voor de sector Rijk](https://wetten.overheid.nl/jci1.3:c:BWBR0008114), als ware als gevolg van het ontslag geen sprake van verwijtbare werkloosheid als bedoeld in [artikel 24 van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=24). Op deze uitkering zijn de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) en het [Besluit bovenwettelijke uitkeringen bij werkloosheid voor de sector Rijk](https://wetten.overheid.nl/jci1.3:c:BWBR0008114) van overeenkomstige toepassing. Indien de directeur bedrijfsvoering tevens recht heeft op een uitkering krachtens de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) of het [Besluit bovenwettelijke uitkeringen bij werkloosheid voor de sector Rijk](https://wetten.overheid.nl/jci1.3:c:BWBR0008114), wordt de in de eerste volzin bedoelde uitkering met die uitkering verminderd.
+
+8. Onder passende functie wordt in dit artikel verstaan: een functie ten aanzien waarvan de directeur bedrijfsvoering beschikt over de voor het naar behoren vervullen hiervan noodzakelijk geachte kennis en kunde dan wel waarvoor hij binnen redelijke termijn om-, her- of bijgeschoold kan worden, en die hem in verband met zijn persoonlijkheid, zijn omstandigheden en de voor hem bestaande vooruitzichten redelijkerwijs kan worden opgedragen.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
