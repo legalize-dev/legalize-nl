@@ -4,7 +4,7 @@ identifier: "BWBR0009027"
 country: "nl"
 rank: "amvb"
 publication_date: "2019-07-01"
-last_updated: "2003-09-26"
+last_updated: "2007-09-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009027"
 soort: "AMvB"
@@ -194,7 +194,7 @@ Hebben goedgevonden en verstaan:
 
 - b. voor het vissen met de peur, de ankerkuil, het aalkistje, het aalhoekwant, de aaldogger en het kruisnet;
 
-- c. voor zover het betreft het te water hebben van de in [artikel 2, onderdelen d tot en met i en m](https://wetten.overheid.nl/jci1.3:c:BWBR0009027&artikel=2&z=2003-09-26&g=2003-09-26) genoemde vistuigen;
+- c. voor zover het betreft het te water hebben van de in [artikel 2, onderdelen d tot en met i en m](https://wetten.overheid.nl/jci1.3:c:BWBR0009027&artikel=2&z=2007-09-14&g=2007-09-14) genoemde vistuigen;
 
 - d. voor het vissen met de aalzegen in andere wateren dan het IJsselmeer.
 
@@ -244,7 +244,7 @@ Hebben goedgevonden en verstaan:
 
 1. Het is verboden op of in de nabijheid van enig binnenwater een of meer vistuigen voorhanden te hebben indien:
 
-- a. het gebruik daarvan in het betrokken water ingevolge het bepaalde in de [artikelen 2 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0009027&artikel=2&z=2003-09-26&g=2003-09-26) verboden is;
+- a. het gebruik daarvan in het betrokken water ingevolge het bepaalde in de [artikelen 2 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0009027&artikel=2&z=2007-09-14&g=2007-09-14) verboden is;
 
 - b. men niet bevoegd is daarmee te vissen;
 
@@ -291,5 +291,11 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 ##### Artikel 10a
 
 Dit onderdeel is nog niet inwerking getreden
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 10b
+
+In het belang van de visserij is Onze Minister bevoegd regelen te stellen ter uitvoering van op grond van internationale overeenkomsten of van besluiten van volkenrechtelijke organisaties opgelegde verplichtingen of verleende bevoegdheden.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
