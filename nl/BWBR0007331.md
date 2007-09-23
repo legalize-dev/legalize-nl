@@ -4,7 +4,7 @@ identifier: "BWBR0007331"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-01"
-last_updated: "2005-04-09"
+last_updated: "2007-09-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007331"
 soort: "ministeriele-regeling"
@@ -84,7 +84,7 @@ Besluit:
 
 - 6. het gebied binnen een afstand van 250 m van het eiland Pampus;
 
-- 7. het gebied binnen een afstand van 250 m van het proefeiland c.q. het eiland IJburg;
+- 7. het gebied binnen een afstand van 250 m uit de oever van ieder eiland dat deel uitmaakt van de woonwijk IJburg van de gemeente Amsterdam;
 
 - 8. het gebied ten noordoosten van de aanvullende markering aangebracht in het vaarwater ten westen van de autosnelweg A10.
 
@@ -498,4 +498,4 @@ Deze regeling zal in de Staatscourant worden geplaatst.
 
 - d. de Noord.
 
-2. Op de Nieuwe Maas van km 989.000 tot km 991.700 en op de Noord is [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007331&artikel=1&z=2005-04-09&g=2005-04-09), van overeenkomstige toepassing.
+2. Op de Nieuwe Maas van km 989.000 tot km 991.700 en op de Noord is [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007331&artikel=1&z=2007-09-23&g=2007-09-23), van overeenkomstige toepassing.
