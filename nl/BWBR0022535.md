@@ -309,29 +309,3 @@ Wijzigt het Besluit glastuinbouw, het Besluit verhandeling teeltmateriaal, het B
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 7a
-
-1. Marktdeelnemers als bedoeld in Bijlage XI bis punt IV, onderdeel 1 van verordening (EG) 1234/2007 voldoen aan artikel 113 ter en Bijlage XI bis, punten II, III, IV, VI en VIII van verordening (EG) 1234/2007 en de artikelen 3, 4 en 5 van verordening (EG) 566/2008.
-
-2. Marktdeelnemers die vlees van runderen die niet ouder zijn dan twaalf maanden in niet-voorverpakte vorm in de detailhandel aanbieden aan de eindverbruiker vermelden bij de aanduiding van het vlees de slachtleeftijd van de dieren overeenkomstig Bijlage XI bis, punt IV, eerste lid, onderdeel a, van verordening (EG) 1234/2007 en bezigen de verkoopbenaming overeenkomstig Bijlage XI bis, punt III, tweede lid, van verordening (EG) 1234/2007.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 18a
-
-Het recht zoals dat gold voor 1 juli 2012 blijft van toepassing op:
-
-- a. bezwaar- en beroepsprocedures naar aanleiding van besluiten genomen voor 1 juli 2012 op grond van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=13&z=2012-07-01&g=2012-07-01) zoals dat artikel luidde voor die datum of genomen op grond van onderdeel b of c van dit artikel;
-
-- b. de oplegging en inning van tarieven naar aanleiding van handelingen verricht voor 1 juli 2012 op grond van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=13&z=2012-07-01&g=2012-07-01) zoals dat artikel luidde voor die datum, en
-
-- c. de toepassing van tuchtrecht naar aanleiding van toezicht uitgevoerd voor 1 juli 2012 op grond van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=13&z=2012-07-01&g=2012-07-01) zoals dat artikel luidde voor die datum.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 18
-
-Vervallen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
