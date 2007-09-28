@@ -4,7 +4,7 @@ identifier: "BWBR0019210"
 country: "nl"
 rank: "amvb"
 publication_date: "2015-01-01"
-last_updated: "2006-02-01"
+last_updated: "2007-09-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019210"
 soort: "AMvB"
@@ -70,7 +70,7 @@ Hebben goedgevonden en verstaan:
 
 - i. fruitgewassen: gewassen, alsmede hybriden daarvan, die zijn opgenomen in bijlage II van [richtlijn nr. 92/34/EEG](31992L0034) van de Raad van de Europese Gemeenschappen van 28 april 1992 betreffende het in de handel brengen van teeltmateriaal van fruitgewassen, alsmede van fruitgewassen die voor de fruitteelt worden gebruikt (PbEG L 157);
 
-- j. siergewassen: gewassen waarvan teeltmateriaal, bedoeld in artikel 2, eerste lid, van [richtlijn nr. 98/56/EG](31998L0056) van de Raad van de Europese Unie van 20 juli 1998 betreffende het in de handel brengen van teeltmateriaal van siergewassen (PbEG L 226), wordt voortgebracht, met uitzondering van bloembollen, bedoeld in [artikel 1, onder c, van het Landbouwkwaliteitsbesluit bloembollen en snijbloemen](https://wetten.overheid.nl/jci1.3:c:BWBR0003358&artikel=1);
+- j. siergewassen: gewassen waarvan teeltmateriaal, bedoeld in artikel 2, eerste lid, van [richtlijn nr. 98/56/EG](31998L0056) van de Raad van de Europese Unie van 20 juli 1998 betreffende het in de handel brengen van teeltmateriaal van siergewassen (PbEG L 226), wordt voortgebracht, met uitzondering van bloembollen, bedoeld in [artikel 1, onder t, van het Landbouwkwaliteitsbesluit 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=1);
 
 - k. groenteplanten: teeltmateriaal van gewassen, alsmede hybriden daarvan, die zijn opgenomen in bijlage II van [richtlijn nr. 92/33/EEG](31992L0033) van de Raad van de Europese Gemeenschappen van 28 april 1992 betreffende het in de handel brengen van teeltmateriaal en plantgoed van groentegewassen, met uitzondering van zaad (PbEG L 157);
 
@@ -104,7 +104,7 @@ Het in de handel brengen van teeltmateriaal van landbouwgewassen, tuinbouwgewass
 
 ##### Artikel 4
 
-1. De in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019210&paragraaf=3&artikel=3&z=2006-02-01&g=2006-02-01) bedoelde regels inzake de verhandeling van teeltmateriaal kunnen onder meer betrekking hebben op:
+1. De in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019210&paragraaf=3&artikel=3&z=2007-09-28&g=2007-09-28) bedoelde regels inzake de verhandeling van teeltmateriaal kunnen onder meer betrekking hebben op:
 
 - a. de voorwaarde dat slechts de bij deze regels aan te wijzen categorieën van teeltmateriaal in de handel worden gebracht;
 
@@ -136,7 +136,7 @@ Het in de handel brengen van teeltmateriaal van landbouwgewassen, tuinbouwgewass
 
 ##### Artikel 5
 
-1. De in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019210&paragraaf=3&artikel=3&z=2006-02-01&g=2006-02-01) bedoelde regels inzake de kwaliteit van het teeltmateriaal kunnen onder meer betrekking hebben op:
+1. De in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019210&paragraaf=3&artikel=3&z=2007-09-28&g=2007-09-28) bedoelde regels inzake de kwaliteit van het teeltmateriaal kunnen onder meer betrekking hebben op:
 
 - a. de rasechtheid, de gezondheid, de groeikracht, het vochtgehalte, de afmetingen en de zuiverheid van het teeltmateriaal;
 
