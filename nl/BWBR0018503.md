@@ -4,7 +4,7 @@ identifier: "BWBR0018503"
 country: "nl"
 rank: "pbo"
 publication_date: "2007-09-30"
-last_updated: "2005-10-02"
+last_updated: "2007-09-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018503"
 soort: "pbo"
@@ -55,7 +55,7 @@ Besluit:
 
 | a. het braakland | : | de gronden die in enig oogstjaar tot en met april van het daarop volgend oogstjaar niet worden beteeld, alsmede niet beteelde gronden, waarop in juli of augustus in enig oogstjaar aardbeien zullen worden geplant en waarvan in het daaropvolgende jaar zal worden geoogst; |
 | --- | --- | --- |
-| b. de cultuurgrond | : | beteelde grond, braakland, de oppervlakte van de grond die gemoeid is met het gebruik van elk ander groeimedium met behulp waarvan de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018503&paragraaf=3&artikel=4&z=2005-10-02&g=2005-10-02) genoemde gewassen of producten kunnen worden geteeld, of ten tijde van het tijdvak als bedoeld in de Regeling Landbouwtelling, nog niet beteelde grond waarbij een teelt voor eind augustus wordt ingezet; |
+| b. de cultuurgrond | : | beteelde grond, braakland, de oppervlakte van de grond die gemoeid is met het gebruik van elk ander groeimedium met behulp waarvan de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018503&paragraaf=3&artikel=4&z=2007-09-30&g=2007-09-30) genoemde gewassen of producten kunnen worden geteeld, of ten tijde van het tijdvak als bedoeld in de Regeling Landbouwtelling, nog niet beteelde grond waarbij een teelt voor eind augustus wordt ingezet; |
 | c. de teelt onder glas | : | iedere andere teelt dan die in de open grond; |
 | d. de gemeten maat | : | de oppervlakte beteelbare grond, inclusief paden en voren die voor de teelt noodzakelijk zijn; |
 | e. de contractteelt | : | de teelt van gewassen of producten ingevolge een overeenkomst. |
@@ -80,22 +80,23 @@ De heffing die is verschuldigd wordt opgelegd naar de grondslag grondgebruik, ee
 
 ##### Artikel 4
 
-1. De heffing naar de grondslag grondgebruik wordt berekend naar de oppervlakte van de bij tuinbouwonderneming behorende cultuurgrond en bedraagt ten hoogste voor:
+1. De heffing naar de grondslag grondgebruik wordt berekend naar de oppervlakte van de bij de onderneming behorende cultuurgrond en bedraagt ten hoogste voor:
 
-| a. groep 32: cultuurgrond in gebruik voor de teelt in de open grond van appelen: | € 90,75 per ha; |
-| --- | --- |
-| b. groep 33: cultuurgrond in gebruik voor de teelt in de open grond van peren: | € 140,67 per ha; |
-| c. groep 34: cultuurgrond in gebruik voor de teelt in de open grond van klein fruit: | € 453,78 per ha; |
-| d. groep 35: cultuurgrond in gebruik voor de teelt in de open grond van overige pit- en steenvruchten: | € 226,89 per ha; |
-| e. groep 36: cultuurgrond in gebruik voor de teelt in de open grond van akkerbouwmatig geteeld fruit: | € 45,37 per ha; |
-| f. groep 60: cultuurgrond in gebruik voor de teelt onder glas van fruit: | € 11,34 per are, en |
-| g. groep 75: cultuurgrond in gebruik voor de teelt van champignons: | € 2,72 per m |
+| a. | groep 32 | cultturgrond in gebruik voor de teelt in de open grond van appelen: | € 90,75 per ha |
+| --- | --- | --- | --- |
+| b. | groep 33 | cultuurgrond in gebruik voor de teelt in de open grond van peren: | € 140,67 per ha |
+| c. | groep 34 | cultuurgrond in gebruik voor de teelt in de open grond van klein fruit | € 453,78 per ha |
+| d. | Groep 34a | cultuurgrond in gebruik voor de teelt in open grond van blauwe bessen | € 310,01 per ha |
+| e. | groep 35 | cultuurgrond in gebruik voor de teelt in de open grond van overige pit- en steenvruchten: | € 226,89 per ha |
+| f. | groep 36 | cultuurgrond in gebruik voor de teelt in de open grond van zwarte bessen en zure kersen: | € 45,37 per ha |
+| g. | groep 60 | cultuurgrond in gebruik voor de teelt onder glas van fruit | € 11,34 per are |
+| h. | groep 75 | Teeltbakken beschikbaar voor de teelt van champignons: | € 2,72 per m2 |
 
-2. De hoogte van de heffing als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0018503&paragraaf=3&artikel=3&z=2005-10-02&g=2005-10-02) en [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018503&paragraaf=3&artikel=4&z=2005-10-02&g=2005-10-02), wordt door middel van een besluit van het bestuur vastgesteld.
+2. De hoogte van de heffing als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0018503&paragraaf=3&artikel=3&z=2007-09-30&g=2007-09-30) en [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018503&paragraaf=3&artikel=4&z=2007-09-30&g=2007-09-30), wordt door middel van een besluit van het bestuur vastgesteld.
 
 ##### Artikel 5
 
-1. Voor de toepassing van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018503&paragraaf=3&artikel=4&z=2005-10-02&g=2005-10-02), wordt onder de bij de landbouwonderneming behorende cultuurgrond mede verstaan cultuurgrond die:
+1. Voor de toepassing van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018503&paragraaf=3&artikel=4&z=2007-09-30&g=2007-09-30), wordt onder de bij de landbouwonderneming behorende cultuurgrond mede verstaan cultuurgrond die:
 
 - a. zaai- of pootklaar is gehuurd;
 
@@ -105,11 +106,11 @@ De heffing die is verschuldigd wordt opgelegd naar de grondslag grondgebruik, ee
 
 - d. door de ondernemer wordt beteeld voor contractteelt.
 
-2. Voor de toepassing van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018503&paragraaf=3&artikel=4&z=2005-10-02&g=2005-10-02), wordt cultuurgrond gerekend naar de gemeten maat.
+2. Voor de toepassing van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018503&paragraaf=3&artikel=4&z=2007-09-30&g=2007-09-30), wordt cultuurgrond gerekend naar de gemeten maat.
 
-3. Voor de toepassing van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018503&paragraaf=3&artikel=4&z=2005-10-02&g=2005-10-02), worden met betrekking tot de groepen 32 tot en met 36 gedeelten van een hectare belast in evenredigheid met de voor die groepen bedoelde bedragen. Gedeelten van een hectare worden naar beneden afgerond tot een veelvoud van aren.
+3. Voor de toepassing van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018503&paragraaf=3&artikel=4&z=2007-09-30&g=2007-09-30), worden met betrekking tot de groepen 32 tot en met 36 gedeelten van een hectare belast in evenredigheid met de voor die groepen bedoelde bedragen. Gedeelten van een hectare worden naar beneden afgerond tot een veelvoud van aren.
 
-4. Voor de toepassing van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018503&paragraaf=3&artikel=4&z=2005-10-02&g=2005-10-02), worden met betrekking tot groep 60 gedeelten van een are belast in evenredigheid met de voor die groep bedoelde bedragen.
+4. Voor de toepassing van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018503&paragraaf=3&artikel=4&z=2007-09-30&g=2007-09-30), worden met betrekking tot groep 60 gedeelten van een are belast in evenredigheid met de voor die groep bedoelde bedragen.
 
 #### § 4. Oplegging en inning
 
@@ -121,7 +122,7 @@ De heffing die is verschuldigd wordt opgelegd naar de grondslag grondgebruik, ee
 
 ##### Artikel 7
 
-Indien uit de ter beschikking gekomen gegevens blijkt dat de verstrekking van de gegevens of een raming als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0018503&paragraaf=4&artikel=6&z=2005-10-02&g=2005-10-02), niet in overeenstemming is met de werkelijkheid, kan een opgelegde heffing aan de hand van deze gegevens worden herzien en opnieuw worden opgelegd.
+Indien uit de ter beschikking gekomen gegevens blijkt dat de verstrekking van de gegevens of een raming als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0018503&paragraaf=4&artikel=6&z=2007-09-30&g=2007-09-30), niet in overeenstemming is met de werkelijkheid, kan een opgelegde heffing aan de hand van deze gegevens worden herzien en opnieuw worden opgelegd.
 
 ##### Artikel 8
 
