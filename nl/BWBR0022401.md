@@ -4,7 +4,7 @@ identifier: "BWBR0022401"
 country: "nl"
 rank: "wet"
 publication_date: "2007-10-01"
-last_updated: "2007-08-29"
+last_updated: "2007-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022401"
 soort: "wet"
@@ -49,30 +49,30 @@ Wijzigt de Mededingingswet.
 
 ##### Artikel II
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Spoorwegwet.
 
 ##### Artikel III
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Telecommunicatiewet.
 
 ##### Artikel IIIa
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Algemene wet bestuursrecht.
 
 ##### Artikel IV
 
-Dit onderdeel is nog niet inwerking getreden
+De werking van een beschikking als bedoeld in de [artikelen 62, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=62) en [79, eerste lid, van de Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=79) blijft, voorzover bij die beschikking een last onder dwangsom is opgelegd voor het tijdstip van inwerkingtreding van deze wet, opgeschort totdat de beroepstermijn is verstreken, of indien beroep is ingesteld, op het beroep is beslist, tenzij de directeur-generaal of de raad van de Nederlandse mededingingsautoriteit op grond van de [artikelen 63, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=63) of [80, tweede lid, van de Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=80) zoals deze artikelen luidden voor het tijdstip van inwerkingtreding van deze wet, uitdrukkelijk heeft bepaald dat de werking van een beschikking tot oplegging van een dwangsom niet is opgeschort.
 
 ##### Artikel V
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt deze wet.
 
 ##### Artikel VI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Mededingingswet.
 
 ##### Artikel VII
 
-Dit onderdeel is nog niet inwerking getreden
+De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
