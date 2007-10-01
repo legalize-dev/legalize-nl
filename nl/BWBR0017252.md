@@ -4,7 +4,7 @@ identifier: "BWBR0017252"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-01"
-last_updated: "2006-02-25"
+last_updated: "2007-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017252"
 soort: "ministeriele-regeling"
@@ -52,7 +52,7 @@ In deze regeling wordt verstaan onder:
 
 - b. college: college van burgemeester en wethouders;
 
-- c. minister: de Minister van Sociale Zaken en Werkgelegenheid;
+- c. Minister: de Minister van Onderwijs, Cultuur en Wetenschap;
 
 - d. vraagouder: ouder die kinderopvang vraagt die geboden wordt door een gastouder;
 
@@ -70,7 +70,7 @@ Het bedrag, bedoeld in de [artikelen 24, eerste, tweede en derde lid](https://we
 
 ##### Artikel 4. Voorkoming samenloop toeslag
 
-Indien de ouder of zijn partner gedurende een berekeningsjaar een persoon is als bedoeld in [artikel 6, eerste lid, onder c, e of f, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=6), terwijl de ander een persoon is als bedoeld in [artikel 6, eerste lid, onder h of i van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=6), wordt het bedrag, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=2&artikel=3&z=2006-02-25&g=2006-02-25), uitsluitend uitbetaald aan de ouder die een persoon is als bedoeld in [artikel 6, eerste lid, onder h of i, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=6).
+Indien de ouder of zijn partner gedurende een berekeningsjaar een persoon is als bedoeld in [artikel 6, eerste lid, onder c, e of f, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=6), terwijl de ander een persoon is als bedoeld in [artikel 6, eerste lid, onder h of i van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=6), wordt het bedrag, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=2&artikel=3&z=2007-10-01&g=2007-10-01), uitsluitend uitbetaald aan de ouder die een persoon is als bedoeld in [artikel 6, eerste lid, onder h of i, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=6).
 
 #### Paragraaf 3. Melding en gemeentelijk register
 
@@ -104,7 +104,7 @@ Indien de ouder of zijn partner gedurende een berekeningsjaar een persoon is als
 
 ##### Artikel 7. Uittreksels en inlichtingen
 
-1. Het college verstrekt aan een ieder op aanvraag uittreksels uit het register en inlichtingen over in het register opgenomen gegevens. Een uittreksel bevat een verklaring dat op het tijdstip waarop het uittreksel wordt verstrekt een kindercentrum of gastouderbureau is ingeschreven in het register dan wel dat een kindercentrum of gastouderbureau, tot het tijdstip van verwijdering, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=3&artikel=9&z=2006-02-25&g=2006-02-25), in het register was opgenomen.
+1. Het college verstrekt aan een ieder op aanvraag uittreksels uit het register en inlichtingen over in het register opgenomen gegevens. Een uittreksel bevat een verklaring dat op het tijdstip waarop het uittreksel wordt verstrekt een kindercentrum of gastouderbureau is ingeschreven in het register dan wel dat een kindercentrum of gastouderbureau, tot het tijdstip van verwijdering, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=3&artikel=9&z=2007-10-01&g=2007-10-01), in het register was opgenomen.
 
 2. Uittreksels uit het register en inlichtingen over in het register opgenomen gegevens worden tegen betaling van de werkelijke kosten verkrijgbaar gesteld.
 
@@ -144,7 +144,7 @@ Binnen acht weken na een melding als bedoeld in [artikel 45, eerste lid, van de 
 
 - a. een overzicht van alle bij dat kindercentrum werkzame beroepskrachten, vermeldende in ieder geval naam, geboortedatum, en de behaalde diploma’s en getuigschriften,
 
-- b. afschriften van alle afgegeven verklaringen omtrent het gedrag, volgens de [Wet justitiële gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194) dan wel volgens de [Wet op de justitiële documentatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002195) en op de verklaringen omtrent het gedrag van bij het kindercentrum werkzame personen,
+- b. afschriften van alle afgegeven verklaringen omtrent het gedrag, volgens de [Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194) dan wel volgens de [Wet op de justitiële documentatie en op de verklaringen omtrent het gedrag](https://wetten.overheid.nl/jci1.3:c:BWBR0002195) van bij het kindercentrum werkzame personen,
 
 - c. een afschrift van de risico-inventarisatie, bedoeld in [artikel 51 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=51),
 
@@ -160,7 +160,7 @@ Binnen acht weken na een melding als bedoeld in [artikel 45, eerste lid, van de 
 
 - a. een overzicht van alle bij dat gastouderbureau aangesloten gastouders, vermeldende in ieder geval naam en adres, postcode, woonplaats, telefoonnummer,
 
-- b. afschriften van afgegeven verklaringen omtrent het gedrag, volgens de [Wet justitiële gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194) dan wel volgens de [Wet op de justitiële documentatie en op de verklaringen omtrent het gedrag](https://wetten.overheid.nl/jci1.3:c:BWBR0002195) van bij het gastouderbureau aangesloten gastouders,
+- b. afschriften van afgegeven verklaringen omtrent het gedrag, volgens de [Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194) dan wel volgens de [Wet op de justitiële documentatie en op de verklaringen omtrent het gedrag](https://wetten.overheid.nl/jci1.3:c:BWBR0002195) van bij het gastouderbureau aangesloten gastouders,
 
 - c. afschriften van alle met vraagouders overeengekomen schriftelijke overeenkomsten, vermeldende per overeenkomst: de voor de gastouderopvang te betalen prijs per uur en, indien van toepassing, de bemiddelingskosten, naam, geboortedatum, adres, postcode en woonplaats van het kind, het aantal uren gastouderopvang per kind per jaar, evenals de duur van de overeenkomst, en,
 
@@ -196,7 +196,7 @@ Binnen acht weken na een melding als bedoeld in [artikel 45, eerste lid, van de 
 
 ##### Artikel 13. Aanvraag van buitenlandse kinderopvang ten behoeve van opneming in centraal register
 
-1. Bij een aanvraag als bedoeld in [artikel 48, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=48), vermeldt een ouder die voornemens is gebruik te maken van kinderopvang in België, Duitsland, Zwitserland (kanton Genève en kanton Zürich), de Verenigde Staten van Amerika (stad New York) of Oostenrijk (stad Wenen) aan de minister de volgende gegevens:
+1. Bij een aanvraag als bedoeld in [artikel 48, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=48), vermeldt een ouder die voornemens is gebruik te maken van kinderopvang buiten Nederland, aan de Minister de volgende gegevens:
 
 - a. een opgave van de soort kinderopvangvoorziening,
 
@@ -204,41 +204,27 @@ Binnen acht weken na een melding als bedoeld in [artikel 45, eerste lid, van de 
 
 - c. de naam, het adres, de plaats van vestiging en het telefoonnummer van de houder.
 
-2. De ouder, bedoeld in het eerste lid, voegt bij de aanvaag tevens een bewijsstuk, waaruit blijkt dat de kwaliteit van de betreffende kinderopvangvoorziening voldoet aan de geldende regels en voorwaarden in België, Duitsland, Zwitserland (kanton Genève en kanton Zürich), de Verenigde Staten van Amerika (stad New York) of Oostenrijk (stad Wenen).
+2. De ouder, bedoeld in het eerste lid, voegt bij de aanvraag tevens een bewijsstuk waaruit blijkt dat de kwaliteit van de betreffende kinderopvangvoorziening voldoet aan de geldende regels en voorwaarden in het betreffende land.
 
 ##### Artikel 14. Kinderopvang in België
 
-1. Tot een kinderopvangvoorziening als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2006-02-25&g=2006-02-25), in België (Vlaanderen en Brussel) wordt gerekend:
-
-- a. een erkend kinderdagverblijf,
-
-- b. een erkend initiatief voor buitenschoolse opvang,
-
-- c. een particuliere opvanginstelling met attest van toezicht, evenals
-
-- d. een opvanggezin, aangesloten bij een erkende dienst voor opvanggezinnen.
-
-2. Tot een bewijsstuk als bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2006-02-25&g=2006-02-25), wordt gerekend een geldige erkenning of attest van toezicht verleend door Kind en Gezin.
-
-3. Tot een kinderopvangvoorziening als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2006-02-25&g=2006-02-25), in België (Wallonië en Brussel) wordt gerekend, alle door de Office de la Naissance de l’Enfance (O.N.E.), erkende vormen van kinderopvang en gastouderopvang, mits de gastouder is aangesloten bij een ‘service d’accueillant(e) d’enfants conventioné(e)s’.
-
-4. Tot een bewijsstuk als bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2006-02-25&g=2006-02-25), wordt gerekend een geldige erkenning verleend door l’Office de la Naissance de l’Enfance (O.N.E.).
+Vervallen
 
 ##### Artikel 15. Kinderopvang in Duitsland
 
-1. Tot een kinderopvangvoorziening als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2006-02-25&g=2006-02-25), in Duitsland wordt gerekend een kindercentrum, waarbij de houder beschikt over een geldige exploitatievergunning.
+1. Tot een kinderopvangvoorziening als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2007-10-01&g=2007-10-01), in Duitsland wordt gerekend een kindercentrum, waarbij de houder beschikt over een geldige exploitatievergunning.
 
-2. Tot een bewijsstuk als bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2006-02-25&g=2006-02-25), wordt gerekend een geldige exploitatievergunning verleend door het Jugendamt.
+2. Tot een bewijsstuk als bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2007-10-01&g=2007-10-01), wordt gerekend een geldige exploitatievergunning verleend door het Jugendamt.
 
 ##### Artikel 16. Wijzigingen in centraal register
 
-De minister kan wijzigingen in het centrale register, bedoeld in [artikel 48 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=48), aanbrengen, indien is gebleken dat de ten aanzien van een kinderopvangvoorziening opgenomen gegevens, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2006-02-25&g=2006-02-25), niet overeenstemmen met de werkelijke situatie.
+De minister kan wijzigingen in het centrale register, bedoeld in [artikel 48 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=48), aanbrengen, indien is gebleken dat de ten aanzien van een kinderopvangvoorziening opgenomen gegevens, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2007-10-01&g=2007-10-01), niet overeenstemmen met de werkelijke situatie.
 
 #### Paragraaf 8. Overgangs- en slotbepalingen
 
 ##### Artikel 17. Overgangsbepaling met betrekking tot gemeentelijk verslag
 
-De verplichting van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=6&artikel=12&z=2006-02-25&g=2006-02-25) geldt voor het eerst over het kalenderjaar volgend op het kalenderjaar waarop dat artikel in werking is getreden.
+De verplichting van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=6&artikel=12&z=2007-10-01&g=2007-10-01) geldt voor het eerst over het kalenderjaar volgend op het kalenderjaar waarop dat artikel in werking is getreden.
 
 ##### Artikel 18. Tijdstip van inwerkingtreding
 
@@ -258,25 +244,25 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 15a. Kinderopvang in Zwitserland, kanton Genève en kanton Zürich
 
-1. Tot een kinderopvangvoorziening als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2006-02-25&g=2006-02-25), in Zwitserland, kanton Genève, wordt gerekend een erkende gastouder (‘maman de jour’).
+1. Tot een kinderopvangvoorziening als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2007-10-01&g=2007-10-01), in Zwitserland, kanton Genève, wordt gerekend een erkende gastouder (‘maman de jour’).
 
-2. Tot een bewijsstuk als bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2006-02-25&g=2006-02-25), wordt gerekend een geldige erkenning van de Republique et canton de Genève, verleend door het Département de l’instruction publique, office de la jeunesse.
+2. Tot een bewijsstuk als bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2007-10-01&g=2007-10-01), wordt gerekend een geldige erkenning van de Republique et canton de Genève, verleend door het Département de l’instruction publique, office de la jeunesse.
 
-3. Tot een kinderopvangvoorziening als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2006-02-25&g=2006-02-25), in Zwitserland, kanton Zürich, wordt gerekend een erkend kindercentrum.
+3. Tot een kinderopvangvoorziening als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2007-10-01&g=2007-10-01), in Zwitserland, kanton Zürich, wordt gerekend een erkend kindercentrum.
 
-4. Tot een bewijsstuk als bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2006-02-25&g=2006-02-25), wordt gerekend een geldige erkenning van de overheid, daartoe gerechtigd op grond van de ‘Richtlinien über die Bewilligung von Kinderkrippen’.
+4. Tot een bewijsstuk als bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2007-10-01&g=2007-10-01), wordt gerekend een geldige erkenning van de overheid, daartoe gerechtigd op grond van de ‘Richtlinien über die Bewilligung von Kinderkrippen’.
 
 ##### Artikel 15b. Kinderopvang in de Verenigde Staten, stad New York
 
-1. Tot een kinderopvangvoorziening als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2006-02-25&g=2006-02-25), in de Verenigde Staten van Amerika, stad New York, wordt gerekend een erkend kindercentrum.
+1. Tot een kinderopvangvoorziening als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2007-10-01&g=2007-10-01), in de Verenigde Staten van Amerika, stad New York, wordt gerekend een erkend kindercentrum.
 
-2. Tot een bewijsstuk als bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2006-02-25&g=2006-02-25), wordt gerekend een geldige erkenning verleend door de City of New York.
+2. Tot een bewijsstuk als bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2007-10-01&g=2007-10-01), wordt gerekend een geldige erkenning verleend door de City of New York.
 
 ##### Artikel 15c. Kinderopvang in Oostenrijk, stad Wenen
 
-1. Tot een kinderopvangvoorziening als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2006-02-25&g=2006-02-25), in Oostenrijk, stad Wenen, wordt gerekend een erkend kindercentrum.
+1. Tot een kinderopvangvoorziening als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2007-10-01&g=2007-10-01), in Oostenrijk, stad Wenen, wordt gerekend een erkend kindercentrum.
 
-2. Tot een bewijsstuk als bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2006-02-25&g=2006-02-25), wordt gerekend:
+2. Tot een bewijsstuk als bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2007-10-01&g=2007-10-01), wordt gerekend:
 
 - a. een geldige erkenning verleend door de gemeente Wenen op grond van het Wiener Tagesbetreuungsgesetz en de Wiener Tagesbetreuungsverordnung, of
 
@@ -292,60 +278,112 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 15d. Kinderopvang in het Verenigd Koninkrijk/Engeland
 
-1. Tot een kinderopvangvoorziening als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2006-02-25&g=2006-02-25), in het Verenigd Koninkrijk wordt gerekend:
+1. Tot een kinderopvangvoorziening als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2007-10-01&g=2007-10-01), in het Verenigd Koninkrijk wordt gerekend:
 
 - a. een erkend kindercentrum: full day care, crèches, out of school care;
 
 - b. geregistreerde gastouders (registered childminders).
 
-2. Tot een bewijsstuk als bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2006-02-25&g=2006-02-25), wordt gerekend een document van registratie en inspectie verleend door Ofsted (Office for Standards in Education).
+2. Tot een bewijsstuk als bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2007-10-01&g=2007-10-01), wordt gerekend een document van registratie en inspectie verleend door Ofsted (Office for Standards in Education).
 
 ##### Artikel 15e. Kinderopvang in het Verenigd Koninkrijk/Schotland
 
-1. Tot een kinderopvangvoorziening als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2006-02-25&g=2006-02-25), in Schotland wordt gerekend een erkend kindercentrum (full day care).
+1. Tot een kinderopvangvoorziening als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2007-10-01&g=2007-10-01), in Schotland wordt gerekend een erkend kindercentrum (full day care).
 
-2. Tot een bewijsstuk als bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2006-02-25&g=2006-02-25), wordt gerekend een geldige erkenning verleend door de Scottish Commission for the Regulation of Care.
+2. Tot een bewijsstuk als bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2007-10-01&g=2007-10-01), wordt gerekend een geldige erkenning verleend door de Scottish Commission for the Regulation of Care.
 
 ##### Artikel 15f. Kinderopvang in het Verenigd Koninkrijk/Noord Ierland
 
-1. Tot een kinderopvangvoorziening als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2006-02-25&g=2006-02-25), in Noord Ierland wordt gerekend een erkend kindercentrum (full day care).
+1. Tot een kinderopvangvoorziening als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2007-10-01&g=2007-10-01), in Noord Ierland wordt gerekend een erkend kindercentrum (full day care).
 
-2. Tot een bewijsstuk als bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2006-02-25&g=2006-02-25), wordt gerekend een geldig Certificate of Registration.
+2. Tot een bewijsstuk als bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2007-10-01&g=2007-10-01), wordt gerekend een geldig Certificate of Registration.
 
 ##### Artikel 15g. Kinderopvang in Ierland
 
-1. Tot een kinderopvangvoorziening als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2006-02-25&g=2006-02-25), in Ierland wordt gerekend een erkend kindercentrum (full day care).
+1. Tot een kinderopvangvoorziening als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2007-10-01&g=2007-10-01), in Ierland wordt gerekend een erkend kindercentrum (full day care).
 
-2. Tot een bewijsstuk als bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2006-02-25&g=2006-02-25), wordt gerekend een registratie door de Health Services Executive.
+2. Tot een bewijsstuk als bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2007-10-01&g=2007-10-01), wordt gerekend een registratie door de Health Services Executive.
 
 ##### Artikel 15h. Kinderopvang in Frankrijk/stad Parijs
 
-1. Tot een kinderopvangvoorziening als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2006-02-25&g=2006-02-25), in Frankrijk, stad Parijs, wordt gerekend een erkend kindercentrum (etablissement d’accueil d’enfants).
+1. Tot een kinderopvangvoorziening als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2007-10-01&g=2007-10-01), in Frankrijk, stad Parijs, wordt gerekend een erkend kindercentrum (etablissement d’accueil d’enfants).
 
-2. Tot een bewijsstuk als bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2006-02-25&g=2006-02-25), wordt gerekend een registratie door L’action sociale, de l’enfance et de la santé.
+2. Tot een bewijsstuk als bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2007-10-01&g=2007-10-01), wordt gerekend een registratie door L’action sociale, de l’enfance et de la santé.
 
 ##### Artikel 15i. Kinderopvang in Spanje/Catalonië
 
-1. Tot een kinderopvangvoorziening als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2006-02-25&g=2006-02-25), in Spanje/Catalonië wordt gerekend een erkend kindercentrum.
+1. Tot een kinderopvangvoorziening als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2007-10-01&g=2007-10-01), in Spanje/Catalonië wordt gerekend een erkend kindercentrum.
 
-2. Tot een bewijsstuk als bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2006-02-25&g=2006-02-25), wordt gerekend een erkenning door de regionale overheid.
+2. Tot een bewijsstuk als bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2007-10-01&g=2007-10-01), wordt gerekend een erkenning door de regionale overheid.
 
 ##### Artikel 15j. Kinderopvang in Portugal
 
-1. Tot een kinderopvangvoorziening als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2006-02-25&g=2006-02-25), in Portugal wordt gerekend een erkend kindercentrum (crèche, educação pre-escolar).
+1. Tot een kinderopvangvoorziening als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2007-10-01&g=2007-10-01), in Portugal wordt gerekend een erkend kindercentrum (crèche, educação pre-escolar).
 
-2. Tot een bewijsstuk als bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2006-02-25&g=2006-02-25), wordt gerekend een vergunning verstrekt door de Centro Regional de Segurança Social.
+2. Tot een bewijsstuk als bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2007-10-01&g=2007-10-01), wordt gerekend een vergunning verstrekt door de Centro Regional de Segurança Social.
 
 ##### Artikel 15k. Kinderopvang verbonden aan internationale scholen
 
-1. Tot een kinderopvangvoorziening als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2006-02-25&g=2006-02-25), verbonden aan internationale scholen wordt gerekend een door Council of International Schools erkend kindercentrum.
+1. Tot een kinderopvangvoorziening als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2007-10-01&g=2007-10-01), verbonden aan internationale scholen wordt gerekend een door Council of International Schools erkend kindercentrum.
 
-2. Tot een bewijsstuk als bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2006-02-25&g=2006-02-25), wordt gerekend een bewijs van accreditatie afgegeven door Council of International Schools.
+2. Tot een bewijsstuk als bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2007-10-01&g=2007-10-01), wordt gerekend een bewijs van accreditatie afgegeven door Council of International Schools.
+
+#### Paragraaf 7a. Aanwijzing van gelijkgestelde buitenlandse kinderopvangvoorzieningen
+
+## Bijlage
+
+Ligt ter inzage bij het Ministerie van Sociale Zaken en Werkgelegenheid te Den Haag.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 16a. Kinderopvang in België (Vlaanderen en Brussel)
+
+Als buiten Nederland gevestigde kindercentra of gastouderbureaus die worden gelijkgesteld met geregistreerde kindercentra of gastouderbureaus als bedoeld in [artikel 48a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=48a) worden aangewezen in België (Vlaanderen en Brussel):
+
+- a. kinderdagverblijven,
+
+- b. minicrèches,
+
+- c. initiatieven voor buitenschoolse opvang, en
+
+- d. opvanggezinnen, aangesloten bij een dienst voor opvanggezinnen,
+
+die in het bezit zijn van een geldige erkenning of geldig attest van toezicht verleend door Kind & Gezin.
+
+##### Artikel 16b. Kinderopvang in België (Wallonië en Brussel)
+
+Als buiten Nederland gevestigde kindercentra of gastouderbureaus die worden gelijkgesteld met geregistreerde kindercentra of gastouderbureaus als bedoeld in [artikel 48a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=48a) worden aangewezen in België (Wallonië en Brussel):
+
+- a. crèches,
+
+- b. pregardiennats,
+
+- c. maisons communales d’accueil de l’enfance;
+
+- d. crèches parentale;
+
+- e. services d’accueillant(e)s d’enfants conventionné(e).
+
+die in het bezit zijn van een geldige erkenning (attestation de qualité) verleend door l’Office de la Naissance et de l’Enfance (ONE).
+
+##### Artikel 16c. Kinderopvang in Duitsland (Nordrhein-Westfalen)
+
+Als buiten Nederland gevestigde kindercentra of gastouderbureaus die worden gelijkgesteld met geregistreerde kindercentra of gastouderbureaus als bedoeld in [artikel 48a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=48a) worden aangewezen in Duitsland (Nordrhein-Westfalen):
+
+- a. Krippen;
+
+- b. Kindergärten;
+
+- c. Horte;
+
+- d. Kindertagespflegen,
+
+die in het bezit zijn van een geldige exploitatievergunning (Betriebserlaubnis), verleend door het Landesjugendamt.
 
 #### Paragraaf 8. Overgangs- en slotbepalingen
 
 ## Bijlage
 
-Ligt ter inzage bij het Ministerie van Sociale Zaken en Werkgelegenheid te Den Haag.
+Ligt ter inzage bij het Ministerie van Onderwijs, Cultuur en Wetenschap.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
