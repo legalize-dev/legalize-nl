@@ -4,7 +4,7 @@ identifier: "BWBR0013707"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-01-01"
-last_updated: "2007-07-12"
+last_updated: "2007-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013707"
 soort: "AMvB"
@@ -72,7 +72,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - 2°. vermindering van de schadelijkheid voor het milieu van autowrakken en van de daarin aanwezige materialen en onderdelen;
 
-- f. verwerking: nuttige toepassing of verwijdering van autowrakken of van de daarin aanwezige materialen of onderdelen;
+- f. verwerking: activiteiten na de afgifte van een autowrak aan een inrichting voor de verwijdering van gevaarlijke afvalstoffen, demontage, versnijding, shredding, nuttige toepassing of voorbewerking voor de verwijdering van shredderafval, en elke andere handeling voor de nuttige toepassing of verwijdering van autowrakken en onderdelen daarvan;
 
 - g. hergebruiken als product: opnieuw gebruiken van onderdelen van autowrakken voor hetzelfde doel als waarvoor ze zijn ontworpen;
 
@@ -90,7 +90,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 2
 
-1. De [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=2&artikel=3&z=2007-07-12&g=2007-07-12), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=2&artikel=4&z=2007-07-12&g=2007-07-12), [8, onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=3&artikel=8&z=2007-07-12&g=2007-07-12), [9 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=4&artikel=9&z=2007-07-12&g=2007-07-12) en [15, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=6&artikel=15&z=2007-07-12&g=2007-07-12), zijn niet van toepassing op voertuigen als bedoeld in [artikel 1, onder a, onderdeel 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=1&artikel=1&z=2007-07-12&g=2007-07-12).
+1. De [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=2&artikel=3&z=2007-10-01&g=2007-10-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=2&artikel=4&z=2007-10-01&g=2007-10-01), [8, onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=3&artikel=8&z=2007-10-01&g=2007-10-01), [9 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=4&artikel=9&z=2007-10-01&g=2007-10-01) en [15, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=6&artikel=15&z=2007-10-01&g=2007-10-01), zijn niet van toepassing op voertuigen als bedoeld in [artikel 1, onder a, onderdeel 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=1&artikel=1&z=2007-10-01&g=2007-10-01).
 
 2. Dit besluit is niet van toepassing op producten voorzover daaromtrent regels zijn gesteld in het [Besluit beheer elektrische en elektronische apparatuur](https://wetten.overheid.nl/jci1.3:c:BWBR0016990), de Regeling beheer elektrische en elektronische apparatuur dan wel bij of krachtens het [Besluit beheer batterijen](https://wetten.overheid.nl/jci1.3:c:BWBR0007227).
 
@@ -110,15 +110,23 @@ De producent neemt maatregelen ter bevordering van preventie die erop gericht zi
 
 1. Het is verboden materialen en onderdelen van voertuigen, die lood, kwik, cadmium of zeswaardig chroom bevatten, na 1 juli 2003 in Nederland voor het eerst aan een ander ter beschikking te stellen.
 
-2. Het verbod, bedoeld in het eerste lid, geldt niet voor materialen en onderdelen die bij ministeriële regeling krachtens [artikel 10.15, vijfde lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.15) ter uitvoering van artikel 4, tweede lid, van de autowrakkenrichtlijn zijn aangewezen indien met betrekking tot de stoffen, bedoeld in het eerste lid, voorzover die in die materialen en onderdelen aanwezig zijn, aan de bij die regeling gestelde eisen is voldaan.
+2. Het verbod, bedoeld in het eerste lid, geldt niet voor materialen en onderdelen als bedoeld in bijlage II bij de autowrakkenrichtlijn indien aan de in die bijlage gestelde voorwaarden is voldaan.
 
 #### § 3. Afgifte, inname en verwerking
 
 ##### Artikel 5
 
-1. Het bevoegd gezag verbindt de in de bijlagebij dit besluit gestelde voorschriften aan een vergunning voor een inrichting voor het opslaan van vijf of meer autowrakken en aan een vergunning voor een inrichting voor het bewerken, verwerken, vernietigen of overslaan van autowrakken.
+1. Het bevoegd gezag verbindt de in de bijlage bij dit besluit gestelde voorschriften aan een vergunning voor een inrichting voor het opslaan van vijf of meer autowrakken en aan een vergunning voor een inrichting voor het bewerken, verwerken, vernietigen of overslaan van autowrakken.
 
-2. Het bevoegd gezag kan nadere eisen stellen ten aanzien van de in de bijlage bij dit besluit gestelde voorschriften.
+2. Het bevoegd gezag kan nadere eisen stellen ten aanzien van:
+
+- a. het aantal banden dat binnen de inrichting mag worden opgeslagen, bedoeld in voorschrift 2, tweede volzin, van onderdeel D van de bijlage bij dit besluit;
+
+- b. de wijze van opslag van afgetapte vloeistoffen of vloeistof bevattende gedemonteerde onderdelen, bedoeld in de voorschriften 3 en 4 van onderdeel A van de bijlage bij dit besluit en van afgetapte of gedemonteerde stoffen, preparaten of andere producten, bedoeld in de voorschriften 1, 2 en 3 van onderdeel D van de bijlage bij dit besluit;
+
+- c. de stapelhoogte voor autowrakken, bedoeld in voorschrift 1 van onderdeel E van de bijlage bij dit besluit;
+
+- d. het ter beschikking stellen van autowrakken aan een instelling voor oefen- en opleidingsdoeleinden, bedoeld in voorschrift 3 van onderdeel E van de bijlage bij dit besluit.
 
 3. Het bevoegd gezag kan nadere eisen als bedoeld in het tweede lid wijzigen in het belang van de bescherming van het milieu, of wijzigen of intrekken indien het belang van de bescherming van het milieu zich daartegen niet verzet.
 
@@ -128,7 +136,7 @@ De producent neemt maatregelen ter bevordering van preventie die erop gericht zi
 
 Bij de afvalstoffenverordening, bedoeld in [artikel 10.23, eerste lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.23), wordt bepaald dat een autowrak, zijnde een huishoudelijke afvalstof, slechts mag worden afgegeven aan:
 
-- a. degene die een inrichting drijft als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=3&artikel=5&z=2007-07-12&g=2007-07-12), niet zijnde een inrichting die uitsluitend vanwege de aanwezigheid van een shredderinstallatie als een zodanige inrichting is aan te merken;
+- a. degene die een inrichting drijft als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=3&artikel=5&z=2007-10-01&g=2007-10-01), niet zijnde een inrichting die uitsluitend vanwege de aanwezigheid van een shredderinstallatie als een zodanige inrichting is aan te merken;
 
 - b. degene die een inrichting drijft als bedoeld in [artikel 2, eerste lid, van het Besluit inrichtingen voor motorvoertuigen milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0011409&artikel=2), of
 
@@ -170,15 +178,17 @@ De producent of importeur draagt er zorg voor dat:
 
 ##### Artikel 10
 
-De producent of importeur draagt er zorg voor dat van de voertuigen die onder zijn verantwoordelijkheid in Nederland aan een ander ter beschikking worden gesteld, de materialen en onderdelen die bij ministeriële regeling krachtens [artikel 10.16, derde lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.16) ter uitvoering van de door de Commissie van de Europese Gemeenschappen op grond van artikel 8, tweede lid, van de autowrakkenrichtlijn gestelde regels zijn aangewezen, worden voorzien van een bij die regeling aangegeven aanduiding.
+1. De producent of importeur draagt er zorg voor dat van de voertuigen die onder zijn verantwoordelijkheid in Nederland aan een ander ter beschikking worden gesteld, de materialen of onderdelen worden voorzien van een aanduiding die in overeenstemming is met de onderdeel- en materiaalcoderingsnormen die door de Commissie van de Europese Gemeenschappen overeenkomstig [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=3&artikel=8&z=2007-10-01&g=2007-10-01) van de autowrakkenrichtlijn zijn vastgesteld.
+
+2. De bij de beschikking, bedoeld in het eerste lid, vastgestelde normering gaat voor de toepassing van dit besluit gelden met ingang van het tijdstip dat door Onze Minister in de Staatscourant wordt bekendgemaakt.
 
 ##### Artikel 11
 
-1. De producent of importeur draagt er zorg voor dat binnen zes maanden nadat voertuigen van een nieuw type onder zijn verantwoordelijkheid in Nederland voor het eerst aan een ander ter beschikking zijn gesteld, aan een ieder die een inrichting drijft als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=3&artikel=5&z=2007-07-12&g=2007-07-12), informatie wordt verstrekt omtrent demontage van die voertuigen, voorzover die informatie nodig is om de doelstellingen, bedoeld in [artikel 9,](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=4&artikel=9&z=2007-07-12&g=2007-07-12) te realiseren.
+1. De producent of importeur draagt er zorg voor dat binnen zes maanden nadat voertuigen van een nieuw type onder zijn verantwoordelijkheid in Nederland voor het eerst aan een ander ter beschikking zijn gesteld, aan een ieder die een inrichting drijft als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=3&artikel=5&z=2007-10-01&g=2007-10-01), informatie wordt verstrekt omtrent demontage van die voertuigen, voorzover die informatie nodig is om de doelstellingen, bedoeld in [artikel 9,](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=4&artikel=9&z=2007-10-01&g=2007-10-01) te realiseren.
 
 2. De informatie, bedoeld in het eerste lid, omvat gegevens met betrekking tot de verschillende materialen en onderdelen van het voertuigtype en de plaats van de daarin aanwezige gevaarlijke stoffen.
 
-3. De leverancier van onderdelen die aan de producent of importeur ter beschikking zijn gesteld, draagt er zorg voor dat desgevraagd aan een persoon die een inrichting drijft als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=3&artikel=5&z=2007-07-12&g=2007-07-12), informatie wordt verstrekt omtrent demontage, opslag of het testen van die onderdelen met het oog op hergebruik als product, uitgezonderd informatie waarvan de geheimhouding met het oog op de bescherming van bedrijfsgeheimen gerechtvaardigd is.
+3. De leverancier van onderdelen die aan de producent of importeur ter beschikking zijn gesteld, draagt er zorg voor dat desgevraagd aan een persoon die een inrichting drijft als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=3&artikel=5&z=2007-10-01&g=2007-10-01), informatie wordt verstrekt omtrent demontage, opslag of het testen van die onderdelen met het oog op hergebruik als product, uitgezonderd informatie waarvan de geheimhouding met het oog op de bescherming van bedrijfsgeheimen gerechtvaardigd is.
 
 4. Informatie als bedoeld in het eerste tot en met derde lid wordt verstrekt in de vorm van handboeken of in elektronische vorm.
 
@@ -186,7 +196,7 @@ De producent of importeur draagt er zorg voor dat van de voertuigen die onder zi
 
 ##### Artikel 12
 
-1. De producent of importeur doet binnen dertien weken nadat dit besluit op hem van toepassing is geworden, aan Onze Minister mededeling over de wijze waarop uitvoering zal worden geven aan de verplichtingen, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=2&artikel=3&z=2007-07-12&g=2007-07-12), [8 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=3&artikel=8&z=2007-07-12&g=2007-07-12) en [15, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=6&artikel=15&z=2007-07-12&g=2007-07-12), voorzover die artikelen op hem van toepassing zijn.
+1. De producent of importeur doet binnen dertien weken nadat dit besluit op hem van toepassing is geworden, aan Onze Minister mededeling over de wijze waarop uitvoering zal worden geven aan de verplichtingen, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=2&artikel=3&z=2007-10-01&g=2007-10-01), [8 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=3&artikel=8&z=2007-10-01&g=2007-10-01) en [15, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=6&artikel=15&z=2007-10-01&g=2007-10-01), voorzover die artikelen op hem van toepassing zijn.
 
 2. De mededeling bevat in ieder geval:
 
@@ -214,7 +224,7 @@ De producent of importeur draagt er zorg voor dat van de voertuigen die onder zi
 
 ##### Artikel 13
 
-1. De mededeling, bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=6&artikel=12&z=2007-07-12&g=2007-07-12), behoeft de instemming van Onze Minister.
+1. De mededeling, bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=6&artikel=12&z=2007-10-01&g=2007-10-01), behoeft de instemming van Onze Minister.
 
 2. De instemming, bedoeld in het eerste lid, geldt voor een daarbij vast te stellen tijdvak van ten hoogste vijf jaar.
 
@@ -222,15 +232,15 @@ De producent of importeur draagt er zorg voor dat van de voertuigen die onder zi
 
 4. Onze Minister kan de voorschriften of beperkingen, bedoeld in het derde lid, ambtshalve of op een daartoe strekkend verzoek wijzigen of intrekken.
 
-5. De producent of importeur doet uiterlijk 13 weken voor het verstrijken van het tijdvak waarvoor de instemming geldt opnieuw een mededeling als bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=6&artikel=12&z=2007-07-12&g=2007-07-12).
+5. De producent of importeur doet uiterlijk 13 weken voor het verstrijken van het tijdvak waarvoor de instemming geldt opnieuw een mededeling als bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=6&artikel=12&z=2007-10-01&g=2007-10-01).
 
 ##### Artikel 14
 
-De producent of importeur voert de verplichtingen, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=2&artikel=3&z=2007-07-12&g=2007-07-12), [8 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=3&artikel=8&z=2007-07-12&g=2007-07-12) en [15, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=6&artikel=15&z=2007-07-12&g=2007-07-12), uit overeenkomstig de mededeling, zoals Onze Minister daarmee heeft ingestemd.
+De producent of importeur voert de verplichtingen, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=2&artikel=3&z=2007-10-01&g=2007-10-01), [8 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=3&artikel=8&z=2007-10-01&g=2007-10-01) en [15, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=6&artikel=15&z=2007-10-01&g=2007-10-01), uit overeenkomstig de mededeling, zoals Onze Minister daarmee heeft ingestemd.
 
 ##### Artikel 15
 
-1. De producent of importeur zendt voor 1 augustus 2003 en vervolgens elk jaar voor 1 augustus aan Onze Minister een verslag over de uitvoering van de verplichtingen, bedoeld in het vierde lid en de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=2&artikel=3&z=2007-07-12&g=2007-07-12), [8 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=3&artikel=8&z=2007-07-12&g=2007-07-12), in het voorafgaande kalenderjaar, voorzover hij in dat jaar als producent of importeur werkzaam was.
+1. De producent of importeur zendt voor 1 augustus 2003 en vervolgens elk jaar voor 1 augustus aan Onze Minister een verslag over de uitvoering van de verplichtingen, bedoeld in het vierde lid en de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=2&artikel=3&z=2007-10-01&g=2007-10-01), [8 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=3&artikel=8&z=2007-10-01&g=2007-10-01), in het voorafgaande kalenderjaar, voorzover hij in dat jaar als producent of importeur werkzaam was.
 
 2. Het verslag bevat in ieder geval gegevens omtrent:
 
@@ -248,17 +258,17 @@ De producent of importeur voert de verplichtingen, bedoeld in de [artikelen 3](h
 
 ##### Artikel 16
 
-De producenten of importeurs kunnen gezamenlijk een mededeling als bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=6&artikel=12&z=2007-07-12&g=2007-07-12), doen of een verslag als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=6&artikel=15&z=2007-07-12&g=2007-07-12), toezenden.
+De producenten of importeurs kunnen gezamenlijk een mededeling als bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=6&artikel=12&z=2007-10-01&g=2007-10-01), doen of een verslag als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=6&artikel=15&z=2007-10-01&g=2007-10-01), toezenden.
 
 #### § 7. Slotbepalingen
 
 ##### Artikel 17
 
-1. Een wijziging van de autowrakkenrichtlijn gaat voor de toepassing van dit besluit gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
+1. Een wijziging van de autowrakkenrichtlijn gaat voor de toepassing van dit besluit gelden met ingang van de dag waarop aan de betrokken wijziging uitvoering moet zijn gegeven, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.
 
-2. Een wijziging van de richtlijn, genoemd in [artikel 1, onder j](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=1&artikel=1&z=2007-07-12&g=2007-07-12), gaat voor de toepassing van dit besluit gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
+2. Een wijziging van de richtlijn, genoemd in [artikel 1, onder j](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=1&artikel=1&z=2007-10-01&g=2007-10-01), gaat voor de toepassing van dit besluit gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
 
-3. Een wijziging van de richtlijn, genoemd in [artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=4&artikel=9&z=2007-07-12&g=2007-07-12), gaat voor de toepassing van dit besluit gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
+3. Een wijziging van de richtlijn, genoemd in [artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=4&artikel=9&z=2007-10-01&g=2007-10-01), gaat voor de toepassing van dit besluit gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
 
 ##### Artikel 18
 
@@ -282,7 +292,7 @@ Wijzigt het Besluit stortplaatsen en stortverboden afvalstoffen.
 
 ##### Artikel 23
 
-In afwijking van [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=6&artikel=15&z=2007-07-12&g=2007-07-12), heeft een verslag over de uitvoering van de verplichtingen, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=2&artikel=3&z=2007-07-12&g=2007-07-12), [8 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=3&artikel=8&z=2007-07-12&g=2007-07-12) en [15, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=6&artikel=15&z=2007-07-12&g=2007-07-12), geen betrekking op het tijdvak vanaf 1 januari 2002 tot het tijdstip van inwerkingtreding van dit besluit.
+In afwijking van [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=6&artikel=15&z=2007-10-01&g=2007-10-01), heeft een verslag over de uitvoering van de verplichtingen, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=2&artikel=3&z=2007-10-01&g=2007-10-01), [8 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=3&artikel=8&z=2007-10-01&g=2007-10-01) en [15, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=6&artikel=15&z=2007-10-01&g=2007-10-01), geen betrekking op het tijdvak vanaf 1 januari 2002 tot het tijdstip van inwerkingtreding van dit besluit.
 
 ##### Artikel 24
 
@@ -304,6 +314,8 @@ In onderdeel A wordt onder «vloeistoffen» verstaan vloeistoffen die de bodem k
 
 1. Op de plaatsen in een inrichting waar handelingen plaatsvinden met vloeistoffen of vloeistof bevattende onderdelen is een vloeistofdichte vloer of voorziening aangebracht die bestand is tegen inwerking van de desbetreffende vloeistoffen en tegen krachten die op de desbetreffende vloer of voorziening worden uitgeoefend. Dit geldt in ieder geval voor de gedeelten van een inrichting die bestemd zijn voor:
 
+De activiteiten, bedoeld in de onderdelen a en b, vinden op of boven een vloeistofdichte vloer plaats.
+
 2. Het aftappen van vloeistoffen en het demonteren van vloeistof bevattende onderdelen, alsmede het opslaan van afgetapte vloeistoffen en gedemonteerde vloeistof bevattende onderdelen geschiedt onder een overkapping of een gelijkwaardige voorziening die de vloeistofdichte vloer of voorziening afdoende tegen het inregenen beschermt.
 
 3. Vloeistoffen worden opgeslagen in gesloten vloeistofdichte verpakkingen of opslagmiddelen die bestand zijn tegen de desbetreffende vloeistoffen. Deze verpakkingen of opslagmiddelen worden opgesteld in een vloeistofdichte lekbak met voldoende opvangcapaciteit.
@@ -314,15 +326,15 @@ In onderdeel A wordt onder «vloeistoffen» verstaan vloeistoffen die de bodem k
 
 6. Vloeistoffen die uit autowrakken of vloeistof bevattende onderdelen daarvan lekken, worden terstond opgevangen en opgeslagen in een opslagmiddel als bedoeld in voorschrift A.3. Daartoe zijn voldoende opvangvoorzieningen aanwezig.
 
-7. Gemorste of gelekte vloeistoffen worden terstond opgeruimd. Daartoe zijn op de plaatsen in een inrichting waar zodanige vloeistoffen vrijkomen of worden opgeslagen voldoende absorptiemiddelen aanwezig.
-
 ### B. Opslag en overslag van autowrakken vóór bewerking
 
-1. Autowrakken die nog niet zijn ontdaan van de in voorschrift C.1 genoemde stoffen, preparaten of andere producten worden direct bij binnenkomst in een inrichting en in afwachting van de verdere bewerking op een specifiek daarvoor aangewezen gedeelte van de inrichting opgeslagen en worden niet gestapeld.
+8. De op de vloeistofdichte vloer of voorziening gelekte of gemorste vloeistoffen, alsmede bedrijfsafvalwater en regenwater dat met de vloeistofdichte vloer of voorziening in aanraking is gekomen, worden op milieuverantwoorde wijze afgevoerd.
 
 1. Autowrakken die nog niet zijn ontdaan van de in voorschrift C.1 genoemde stoffen, preparaten of andere producten worden direct bij binnenkomst in een inrichting en in afwachting van de verdere bewerking op een specifiek daarvoor aangewezen gedeelte van de inrichting opgeslagen en worden niet gestapeld.
 
 ### C. Bewerking van autowrakken
+
+2. Een autowrak mag vóór bewerking uitsluitend worden overgedragen aan een inrichting voor het opslaan van vijf of meer autowrakken of aan een inrichting voor het bewerken, verwerken, vernietigen of overslaan van autowrakken, niet zijnde een inrichting die uitsluitend vanwege de aanwezigheid van een shredderinstallatie als een zodanige inrichting is aan te merken, indien de in de voorschriften C.1 en C.6 bedoelde stoffen, preparaten of andere producten nog niet zijn afgetapt of gedemonteerd.
 
 1. Zo spoedig mogelijk, doch uiterlijk binnen 10 werkdagen, na de ontvangst van het autowrak worden de volgende stoffen, preparaten of andere producten, indien aanwezig, uit het autowrak afgetapt of gedemonteerd en vervolgens opgeslagen:
 
@@ -336,39 +348,37 @@ In onderdeel A wordt onder «vloeistoffen» verstaan vloeistoffen die de bodem k
 
 5. Het aftappen van airconditioningvloeistof geschiedt overeenkomstig de voorschriften die terzake zijn opgenomen in [paragraaf 6 van de bij de Regeling lekdichtheidsvoorschriften koelinstallaties 1997 behorende bijlage](onbekend).
 
-6. Autowrakken worden binnen de inrichting ontdaan van de volgende stoffen, preparaten of andere producten:
-
 ### D. Opslag en afvoer van afgetapte of gedemonteerde stoffen, preparaten of andere producten
 
-1. Afgetapte of gedemonteerde stoffen, preparaten of andere producten, als bedoeld in voorschrift C.1, worden voorzover dat nodig is voor product- of materiaalhergebruik of nuttige toepassing afzonderlijk bewaard.
+7. Het is niet toegestaan een autowrak op een zodanige wijze te pletten, te knippen of anderszins mechanisch te verkleinen dat de identiteit en de inhoud daarvan niet meer herkenbaar zijn.
 
 1. Afgetapte of gedemonteerde stoffen, preparaten of andere producten, als bedoeld in voorschrift C.1, worden voorzover dat nodig is voor product- of materiaalhergebruik of nuttige toepassing afzonderlijk bewaard.
 
-2. Afgetapte of gedemonteerde stoffen, preparaten of andere producten, als bedoeld in voorschrift C.6, worden op een tegen het inregenen beschermde plaats in daartoe geschikte opslagmiddelen, zoals stellingen, containers of zakken, opgeslagen, en op een zodanige wijze dat de mogelijkheden voor product- en materiaalhergebruik en nuttige toepassing niet worden geschaad. Banden worden zodanig opgeslagen dat de gevaren voor en als gevolg van brand worden geminimaliseerd.
+1. Afgetapte of gedemonteerde stoffen, preparaten of andere producten, als bedoeld in voorschrift C.1, worden voorzover dat nodig is voor product- of materiaalhergebruik of nuttige toepassing afzonderlijk bewaard.
 
-3. Niet voor producthergebruik geschikte stoffen, preparaten of andere producten, waarvoor wel een mogelijkheid van materiaalhergebruik of nuttige toepassing bestaat, worden gescheiden gehouden en gescheiden afgevoerd naar een inrichting met een milieuhygiënisch verantwoorde en doelmatige verwerkingsmogelijkheid.
+2. Afgetapte of gedemonteerde stoffen, preparaten of andere producten als bedoeld in voorschrift C.6 worden op een zodanige wijze opgeslagen dat de mogelijkheden voor product- en materiaalhergebruik en nuttige toepassing niet worden geschaad. Banden worden zodanig opgeslagen dat de gevaren voor en als gevolg van brand worden geminimaliseerd.
 
 ### E. Opslag en afvoer van autowrakken na bewerking
 
-1. Autowrakken die nog niet zijn ontdaan van alle stoffen, preparaten of andere producten, als bedoeld in voorschrift C.6 worden maximaal twee hoog, met een maximale hoogte van 4,5 meter, gestapeld op een daartoe aangewezen gedeelte van de inrichting, dan wel worden op een zodanige wijze in stellingen gestapeld dat deze gemakkelijk kunnen worden geïnspecteerd en gedemonteerd.
+4. Volle opslagvoorzieningen worden zo spoedig mogelijk afgevoerd en vervangen door lege opslagvoorzieningen.
 
 1. Autowrakken die nog niet zijn ontdaan van alle stoffen, preparaten of andere producten, als bedoeld in voorschrift C.6 worden maximaal twee hoog, met een maximale hoogte van 4,5 meter, gestapeld op een daartoe aangewezen gedeelte van de inrichting, dan wel worden op een zodanige wijze in stellingen gestapeld dat deze gemakkelijk kunnen worden geïnspecteerd en gedemonteerd.
 
 ### F. Verwerking of vernietiging van autowrakken in shredderinstallaties
 
-Bij de verwerking of vernietiging van autowrakken in een shredderinstallatie worden autowrakken gescheiden in direct als materiaal her te gebruiken metaalschroot en shredderafvalstoffen. Met ingang van 1 januari 2007 worden shredderafvalstoffen afkomstig van autowrakken, indien technologieën voor de nuttige toepassing van shredderafvalstoffen beschikbaar zijn, afgevoerd ten behoeve van nuttige toepassing.
+2. Autowrakken waarvan alle in onderdeel C bedoelde stoffen, preparaten of andere producten zijn afgetapt of gedemonteerd, worden afgevoerd naar een inrichting waarin zich een shredderinstallatie bevindt waarin autowrakken worden verwerkt of vernietigd overeenkomstig voorschrift F.
 
 ### G. Certificaat van vernietiging voor autowakken met een buitenlands kenteken
 
 1. Bij de ontvangst van een autowrak met een kenteken dat verstrekt is door een in een andere lidstaat van de Europese Unie daartoe aangewezen instantie, wordt desgevraagd aan degene die zich van dat autowrak ontdoet een certificaat van vernietiging als bedoeld in artikel 5, derde lid, van de autowrakkenrichtlijn afgegeven, waarin in ieder geval de volgende gegevens zijn opgenomen:
 
-1. Bij de ontvangst van een autowrak met een kenteken dat verstrekt is door een in een andere lidstaat van de Europese Unie daartoe aangewezen instantie, wordt desgevraagd aan degene die zich van dat autowrak ontdoet een certificaat van vernietiging als bedoeld in artikel 5, derde lid, van de autowrakkenrichtlijn afgegeven, waarin in ieder geval de volgende gegevens zijn opgenomen:
+Bij de verwerking of vernietiging van autowrakken in een shredderinstallatie worden autowrakken gescheiden in direct als materiaal her te gebruiken metaalschroot en shredderafvalstoffen. Met ingang van 1 januari 2007 worden shredderafvalstoffen afkomstig van autowrakken, indien technologieën voor de nuttige toepassing van shredderafvalstoffen beschikbaar zijn, afgevoerd ten behoeve van nuttige toepassing.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
 ##### Artikel 8a
 
-Dit onderdeel is nog niet inwerking getreden
+Onze Minister bevordert dat degenen die een inrichting drijven waar verwerkingshandelingen worden verricht, een gecertificeerd milieubeheerssysteem invoeren.
 
 #### § 4. Hergebruik en nuttige toepassing
 
@@ -378,35 +388,51 @@ Dit onderdeel is nog niet inwerking getreden
 
 #### § 7. Slotbepalingen
 
-## Bijlage. behorend bij [artikel 5, eerste lid, van het Besluit beheer autowrakken](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=3&artikel=5&z=2007-07-12&g=2007-07-12)
+## Bijlage. behorend bij [artikel 5, eerste lid, van het Besluit beheer autowrakken](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=3&artikel=5&z=2007-10-01&g=2007-10-01)
 
 Voorschriften die opgenomen worden in vergunningen voor inrichtingen voor het opslaan, bewerken, verwerken, vernietigen of overslaan van autowrakken
 
 ### A. Bodembeschermende voorzieningen en maatregelen
 
-8. De op de vloeistofdichte vloer of voorziening gelekte of gemorste vloeistoffen, alsmede bedrijfsafvalwater en regenwater dat met de vloeistofdichte vloer of voorziening in aanraking is gekomen, worden op milieuverantwoorde wijze afgevoerd.
+7. Gemorste of gelekte vloeistoffen worden terstond opgeruimd. Daartoe zijn op de plaatsen in een inrichting waar zodanige vloeistoffen vrijkomen of worden opgeslagen voldoende absorptiemiddelen aanwezig.
 
 ### B. Opslag en overslag van autowrakken vóór bewerking
 
-2. Een autowrak mag vóór bewerking uitsluitend worden overgedragen aan een inrichting voor het opslaan van vijf of meer autowrakken of aan een inrichting voor het bewerken, verwerken, vernietigen of overslaan van autowrakken, niet zijnde een inrichting die uitsluitend vanwege de aanwezigheid van een shredderinstallatie als een zodanige inrichting is aan te merken, indien de in de voorschriften C.1 en C.6 bedoelde stoffen, preparaten of andere producten nog niet zijn afgetapt of gedemonteerd.
+1. Autowrakken die nog niet zijn ontdaan van de in voorschrift C.1 genoemde stoffen, preparaten of andere producten worden direct bij binnenkomst in een inrichting en in afwachting van de verdere bewerking op een specifiek daarvoor aangewezen gedeelte van de inrichting opgeslagen en worden niet gestapeld.
 
 ### C. Bewerking van autowrakken
 
-7. Het is niet toegestaan een autowrak op een zodanige wijze te pletten, te knippen of anderszins mechanisch te verkleinen dat de identiteit en de inhoud daarvan niet meer herkenbaar zijn.
+6. Autowrakken worden binnen de inrichting ontdaan van de volgende stoffen, preparaten of andere producten:
 
 ### D. Opslag en afvoer van afgetapte of gedemonteerde stoffen, preparaten of andere producten
 
-4. Volle opslagvoorzieningen worden zo spoedig mogelijk afgevoerd en vervangen door lege opslagvoorzieningen.
+3. Niet voor producthergebruik geschikte stoffen, preparaten of andere producten, waarvoor wel een mogelijkheid van materiaalhergebruik of nuttige toepassing bestaat, worden gescheiden gehouden en gescheiden afgevoerd naar een inrichting met een milieuhygiënisch verantwoorde en doelmatige verwerkingsmogelijkheid.
 
 ### E. Opslag en afvoer van autowrakken na bewerking
 
-2. Autowrakken waarvan alle in voorschrift C.6 bedoelde stoffen, preparaten of andere producten zijn afgetapt of gedemonteerd, worden afgevoerd naar een inrichting waarin zich een shredderinstallatie bevindt waarin autowrakken worden verwerkt of vernietigd overeenkomstig voorschrift F.
+1. Autowrakken die nog niet zijn ontdaan van alle stoffen, preparaten of andere producten, als bedoeld in voorschrift C.6 worden maximaal twee hoog, met een maximale hoogte van 4,5 meter, gestapeld op een daartoe aangewezen gedeelte van de inrichting, dan wel worden op een zodanige wijze in stellingen gestapeld dat deze gemakkelijk kunnen worden geïnspecteerd en gedemonteerd.
 
 ### F. Verwerking of vernietiging van autowrakken in shredderinstallaties
 
-Bij de verwerking of vernietiging van autowrakken in een shredderinstallatie worden autowrakken gescheiden in direct als materiaal her te gebruiken metaalschroot en shredderafvalstoffen. Met ingang van 1 januari 2007 worden shredderafvalstoffen afkomstig van autowrakken, indien technologieën voor de nuttige toepassing van shredderafvalstoffen beschikbaar zijn, afgevoerd ten behoeve van nuttige toepassing.
+3. Autowrakken die zijn ontdaan van de in voorschrift C.1 genoemde stoffen, preparaten en andere producten, kunnen ter beschikking worden gesteld aan een instelling voor oefen- en opleidingsdoeleinden.
+
+### F. Verwerking of vernietiging van autowrakken in shredderinstallaties
+
+2. Bij het certificaat van vernietiging wordt het bij het autowrak behorende kentekenbewijs gevoegd. Indien het bij het autowrak behorende kentekenbewijs niet aanwezig is, wordt dat tevens op het certificaat van vernietiging aangegeven.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+### B. Opslag en overslag van autowrakken vóór bewerking
+
+### C. Bewerking van autowrakken
+
+### D. Opslag en afvoer van afgetapte of gedemonteerde stoffen, preparaten of andere producten
+
+### E. Opslag en afvoer van autowrakken na bewerking
 
 ### G. Certificaat van vernietiging voor autowakken met een buitenlands kenteken
+
+1. Bij de ontvangst van een autowrak met een kenteken dat verstrekt is door een in een andere lidstaat van de Europese Unie daartoe aangewezen instantie, wordt desgevraagd aan degene die zich van dat autowrak ontdoet een certificaat van vernietiging als bedoeld in artikel 5, derde lid, van de autowrakkenrichtlijn afgegeven, waarin in ieder geval de volgende gegevens zijn opgenomen:
 
 2. Bij het certificaat van vernietiging wordt het bij het autowrak behorende kentekenbewijs gevoegd. Indien het bij het autowrak behorende kentekenbewijs niet aanwezig is, wordt dat tevens op het certificaat van vernietiging aangegeven.
 
