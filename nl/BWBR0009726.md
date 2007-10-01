@@ -4,7 +4,7 @@ identifier: "BWBR0009726"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-04-17"
-last_updated: "2007-01-01"
+last_updated: "2007-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009726"
 soort: "ministeriele-regeling"
@@ -62,7 +62,9 @@ In deze regeling wordt verstaan onder:
 
 - h. verzorger: een persoon, niet zijnde de ouder, die de minderjarige verzorgt en opvoedt als behoort deze tot het gezin;
 
-- i. wettelijke vertegenwoordiger: de persoon die het gezag over de minderjarige heeft.
+- i. wettelijke vertegenwoordiger: de persoon die het gezag over de minderjarige heeft;
+
+- j. instelling voor vrouwenopvang: instelling voor het tijdelijk bieden van onderdak en begeleiding aan personen die, al dan niet gedwongen, de thuissituatie hebben verlaten in verband met problemen van relationele aard of geweld, gefinancierd door één van de 35 centrumgemeenten voor de vrouwenopvang.
 
 ##### Artikel 2
 
@@ -70,7 +72,7 @@ In deze regeling wordt verstaan onder:
 
 - a. de vreemdeling die rechtmatig verblijf heeft als bedoeld in [artikel 8, onder k van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8), of in aansluiting daarop op grond van [artikel f of h van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) en ten aanzien van wie door de korpschef of de Immigratie- en Naturalisatiedienst aan het orgaan een schriftelijke verklaring als bedoeld in het tweede lid is afgegeven, vanaf het tijdstip waarop de verklaring is afgegeven tot het moment waarop het rechtmatig verblijf op grond van [artikel 8, onder k, f of h van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) is geëindigd.
 
-- b. een hier te lande blijvende vreemdeling die in verband met de aangifte van overtreding van [artikel 250a van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=250a) rechtmatig verblijf heeft op grond van [artikel 8, onder f of h van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) en ten aanzien van wie door de korpschef of de Immigratie- en Naturalisatiedienst aan het orgaan een schriftelijke verklaring als bedoeld in het tweede lid is afgegeven, vanaf het tijdstip waarop de verklaring tot het moment waarop het rechtmatig verblijf op grond van [artikel 8, onder f of h van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) is geëindigd.
+- b. een hier te lande blijvende vreemdeling die in verband met de aangifte van overtreding van [artikel 273f van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=273f) rechtmatig verblijf heeft op grond van [artikel 8, onder f of h van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) en ten aanzien van wie door de korpschef of de Immigratie- en Naturalisatiedienst aan het orgaan een schriftelijke verklaring als bedoeld in het tweede lid is afgegeven, vanaf het tijdstip waarop de verklaring tot het moment waarop het rechtmatig verblijf op grond van [artikel 8, onder f of h van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) is geëindigd.
 
 - c. een hier te lande verblijvende vreemdeling, anders dan de vreemdeling die op grond van de [Regeling verstrekkingen asielzoekers en andere categorieën vreemdelingen 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0017959) of de [Regeling opvang asielzoekers](https://wetten.overheid.nl/jci1.3:c:BWBR0005366) voor opvang in aanmerking komt, die in het kader van gezinshereniging of gezinsvorming een aanvraag heeft ingediend tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in [artikel 14 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14) en ten aanzien van wie door de korpschef of de Immigratie- en Naturalisatiedienst aan het orgaan een schriftelijke verklaring als bedoeld in het tweede lid is afgegeven, vanaf het tijdstip waarop de aanvraag tot het verlenen van de verblijfsvergunning, blijkens de verklaring is ingediend, tot het moment waarop het rechtmatig verblijf op grond van [artikel 8, onder f of h van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) is geëindigd.
 
@@ -84,13 +86,15 @@ In deze regeling wordt verstaan onder:
 
 - 4º. aan wie niet met toepassing van de [Regeling opvang asielzoekers](https://wetten.overheid.nl/jci1.3:c:BWBR0005366) of de [Regeling verstrekkingen asielzoekers en andere categorieën vreemdelingen 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0017959), opvang wordt geboden, en wiens recht op bijstand op grond van de [Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703) als gevolg van de [Koppelingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0009511) is beëindigd, vanaf het moment waarop het recht op bijstand op grond van de [Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703) als gevolg van de [Koppelingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0009511) is beëindigd, gedurende de termijn waarin blijkens de schriftelijke verklaring van de korpschef of de Immigratie- en Naturalisatiedienst aan het orgaan, niet onherroepelijk op de onder 2° van dit onderdeel bedoelde aanvraag is beslist.
 
-- e. een samen met tenminste één ouder of verzorger hier te lande verblijvende minderjarige vreemdeling, niet zijnde een vreemdeling als bedoeld in onderdeel c, die geen aanspraak heeft op verstrekkingen op grond van enig ander wettelijk voorschrift en die blijkens een schriftelijke verklaring van de Immigratie- en Naturalisatiedienst aan het orgaan rechtmatig verblijf heeft als bedoeld in [artikel 8, onder f, g, of h, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8), vanaf het moment dat het rechtmatig verblijf, bedoeld in [artikel 8, onder f, g, of h, van de Vreemdelingenwet 2000,](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) is verkregen tot het moment waarop dit rechtmatig verblijf is geëindigd.
+- e. een samen met tenminste één ouder of verzorger hier te lande verblijvende minderjarige vreemdeling, niet zijnde een vreemdeling als bedoeld in onderdeel c, die geen aanspraak heeft op verstrekkingen op grond van enig ander wettelijk voorschrift en die blijkens een schriftelijke verklaring van de Immigratie- en Naturalisatiedienst aan het orgaan rechtmatig verblijf heeft als bedoeld in [artikel 8, onder f, g, of h, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8), vanaf het moment dat het rechtmatig verblijf, bedoeld in [artikel 8, onder f, g, of h, van de Vreemdelingenwet 2000,](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) is verkregen tot het moment waarop dit rechtmatig verblijf is geëindigd;
+
+- f. een hier te lande in een instelling voor vrouwenopvang verblijvende vreemdeling die in verband met de aanvraag tot het verlenen van een verblijfsvergunning op grond van eergerelateerd geweld rechtmatig verblijf heeft op grond van [artikel 8, onder f, g of h, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) en ten aanzien van wie door de Immigratie- en Naturalisatiedienst aan het orgaan een schriftelijke verklaring als bedoeld in het tweede lid is overlegd, vanaf het tijdstip waarop de schriftelijke verklaring is afgegeven tot het moment waarop het rechtmatig verblijf op grond van [artikel 8, onder f, g of h, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) is geëindigd.
 
 2. De schriftelijke verklaring, bedoeld in het eerste lid, houdt in dat de vreemdeling behoort tot één van de in het eerste lid bedoelde categorieën vreemdelingen.
 
 ##### Artikel 2a
 
-De regeling is uitsluitend van toepassing op de in [artikel 2, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0009726&artikel=2&z=2007-01-01&g=2007-01-01), bedoelde vreemdeling:
+De regeling is uitsluitend van toepassing op de in [artikel 2, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0009726&artikel=2&z=2007-10-01&g=2007-10-01), bedoelde vreemdeling:
 
 - a. die voldoet aan de vereisten voor het bezit van een geldige machtiging tot voorlopig verblijf en
 
@@ -98,39 +102,39 @@ De regeling is uitsluitend van toepassing op de in [artikel 2, eerste lid, onder
 
 ##### Artikel 3
 
-1. Het voorzien in de noodzakelijke bestaansvoorwaarden voor vreemdelingen als bedoeld in [artikel 2, eerste lid, onderdeel a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0009726&artikel=2&z=2007-01-01&g=2007-01-01), houdt in het voorzien in de volgende verstrekkingen:
+1. Het voorzien in de noodzakelijke bestaansvoorwaarden voor vreemdelingen als bedoeld in [artikel 2, eerste lid, onderdelen a tot en met d en f](https://wetten.overheid.nl/jci1.3:c:BWBR0009726&artikel=2&z=2007-10-01&g=2007-10-01), houdt in het voorzien in de volgende verstrekkingen:
 
 - a. een financiële toelage;
 
 - b. de dekking van de kosten van medische verstrekkingen overeenkomstig een daartoe door het orgaan te treffen ziektekostenregeling.
 
-2. Het voorzien in de noodzakelijke bestaansvoorwaarden voor vreemdelingen als bedoeld in [artikel 2, eerste lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0009726&artikel=2&z=2007-01-01&g=2007-01-01), houdt in het verstrekken van een financiële toelage.
+2. Het voorzien in de noodzakelijke bestaansvoorwaarden voor vreemdelingen als bedoeld in [artikel 2, eerste lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0009726&artikel=2&z=2007-10-01&g=2007-10-01), houdt in het verstrekken van een financiële toelage.
 
-3. De in [artikel 2, eerste lid, onderdeel a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0009726&artikel=2&z=2007-01-01&g=2007-01-01), bedoelde categorieën vreemdelingen wordt geen onderdak in een opvangcentrum als bedoeld in [artikel 3, eerste lid, onderdeel a, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&artikel=3), geboden.
+3. De in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009726&artikel=2&z=2007-10-01&g=2007-10-01), bedoelde categorieën vreemdelingen wordt geen onderdak in een opvangcentrum als bedoeld in [artikel 3, eerste lid, onderdeel a, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&artikel=3), geboden.
 
 ##### Artikel 4
 
 In het kader van deze regeling worden de volgende categorieën vreemdelingen onderscheiden:
 
-- a. de vreemdeling, bedoeld in [artikel 2, eerste lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0009726&artikel=2&z=2007-01-01&g=2007-01-01);
+- a. de vreemdeling, bedoeld in [artikel 2, eerste lid, onderdeel a, b, d of f](https://wetten.overheid.nl/jci1.3:c:BWBR0009726&artikel=2&z=2007-10-01&g=2007-10-01);
 
-- b. de vreemdeling, bedoeld in [artikel 2, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0009726&artikel=2&z=2007-01-01&g=2007-01-01), die een aanvraag tot het verlenen van een verblijfsvergunning heeft ingediend met het oog op gezinshereniging of -vorming met een in Nederland verblijvende echtgenoot tot wiens huishouden geen kinderen behoren;
+- b. de vreemdeling, bedoeld in [artikel 2, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0009726&artikel=2&z=2007-10-01&g=2007-10-01), die een aanvraag tot het verlenen van een verblijfsvergunning heeft ingediend met het oog op gezinshereniging of -vorming met een in Nederland verblijvende echtgenoot tot wiens huishouden geen kinderen behoren;
 
-- c. de vreemdeling, bedoeld in [artikel 2, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0009726&artikel=2&z=2007-01-01&g=2007-01-01), die een aanvraag tot het verlenen van een verblijfsvergunning heeft ingediend met het oog op gezinshereniging of -vorming met een in Nederland verblijvende echtgenoot tot wiens huishouden reeds één of meer kinderen behoren;
+- c. de vreemdeling, bedoeld in [artikel 2, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0009726&artikel=2&z=2007-10-01&g=2007-10-01), die een aanvraag tot het verlenen van een verblijfsvergunning heeft ingediend met het oog op gezinshereniging of -vorming met een in Nederland verblijvende echtgenoot tot wiens huishouden reeds één of meer kinderen behoren;
 
-- d. de vreemdeling, bedoeld in [artikel 2, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0009726&artikel=2&z=2007-01-01&g=2007-01-01), die voor zichzelf en één of meer kinderen een aanvraag tot het verlenen van een verblijfsvergunning heeft ingediend met het oog op gezinshereniging of -vorming met een in Nederland verblijvende echtgenoot tot wiens huishouden geen kinderen behoren;
+- d. de vreemdeling, bedoeld in [artikel 2, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0009726&artikel=2&z=2007-10-01&g=2007-10-01), die voor zichzelf en één of meer kinderen een aanvraag tot het verlenen van een verblijfsvergunning heeft ingediend met het oog op gezinshereniging of -vorming met een in Nederland verblijvende echtgenoot tot wiens huishouden geen kinderen behoren;
 
-- e. de vreemdeling, bedoeld in [artikel 2, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0009726&artikel=2&z=2007-01-01&g=2007-01-01), die voor zichzelf en één of meer kinderen een aanvraag tot het verlenen van een verblijfsvergunning heeft ingediend met het oog op gezinshereniging of -vorming met een in Nederland verblijvende echtgenoot tot wiens huishouden reeds één of meer kinderen behoren;
+- e. de vreemdeling, bedoeld in [artikel 2, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0009726&artikel=2&z=2007-10-01&g=2007-10-01), die voor zichzelf en één of meer kinderen een aanvraag tot het verlenen van een verblijfsvergunning heeft ingediend met het oog op gezinshereniging of -vorming met een in Nederland verblijvende echtgenoot tot wiens huishouden reeds één of meer kinderen behoren;
 
-- f. de vreemdeling, bedoeld in [artikel 2, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0009726&artikel=2&z=2007-01-01&g=2007-01-01), jonger dan 18 jaar, die een aanvraag tot het verlenen van een verblijfsvergunning heeft ingediend met het oog op gezinshereniging met een in Nederland verblijvende ouder of bloedverwant tot wiens huishouden geen kinderen behoren;
+- f. de vreemdeling, bedoeld in [artikel 2, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0009726&artikel=2&z=2007-10-01&g=2007-10-01), jonger dan 18 jaar, die een aanvraag tot het verlenen van een verblijfsvergunning heeft ingediend met het oog op gezinshereniging met een in Nederland verblijvende ouder of bloedverwant tot wiens huishouden geen kinderen behoren;
 
-- g. de vreemdeling, bedoeld in [artikel 2, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0009726&artikel=2&z=2007-01-01&g=2007-01-01), jonger dan 18 jaar, die een aanvraag tot het verlenen van een verblijfsvergunning heeft ingediend met het oog op gezinshereniging met een in Nederland verblijvende ouder of bloedverwant tot wiens huishouden reeds één of meer kinderen behoren;
+- g. de vreemdeling, bedoeld in [artikel 2, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0009726&artikel=2&z=2007-10-01&g=2007-10-01), jonger dan 18 jaar, die een aanvraag tot het verlenen van een verblijfsvergunning heeft ingediend met het oog op gezinshereniging met een in Nederland verblijvende ouder of bloedverwant tot wiens huishouden reeds één of meer kinderen behoren;
 
-- h. de vreemdelingen, bedoeld in [artikel 2, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0009726&artikel=2&z=2007-01-01&g=2007-01-01), in de leeftijd van 18 tot en met 20 jaar, die een aanvraag tot het verlenen van een verblijfsvergunning heeft ingediend met het oog op gezinshereniging met een bloedverwant in de eerste graad;
+- h. de vreemdelingen, bedoeld in [artikel 2, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0009726&artikel=2&z=2007-10-01&g=2007-10-01), in de leeftijd van 18 tot en met 20 jaar, die een aanvraag tot het verlenen van een verblijfsvergunning heeft ingediend met het oog op gezinshereniging met een bloedverwant in de eerste graad;
 
-- i. de vreemdeling, bedoeld in [artikel 2, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0009726&artikel=2&z=2007-01-01&g=2007-01-01), in de leeftijd van 21 of 22 jaar, die een aanvraag tot het verlenen van een verblijfsvergunning heeft ingediend met het oog op gezinshereniging met een bloedverwant in de eerste graad;
+- i. de vreemdeling, bedoeld in [artikel 2, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0009726&artikel=2&z=2007-10-01&g=2007-10-01), in de leeftijd van 21 of 22 jaar, die een aanvraag tot het verlenen van een verblijfsvergunning heeft ingediend met het oog op gezinshereniging met een bloedverwant in de eerste graad;
 
-- j. de vreemdeling, bedoeld in [artikel 2, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0009726&artikel=2&z=2007-01-01&g=2007-01-01), in de leeftijd van 23 jaar of ouder die aanvraag tot het verlenen van een verblijfsvergunning heeft ingediend met het oog op gezinshereniging met een bloedverwant in de eerste graad.
+- j. de vreemdeling, bedoeld in [artikel 2, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0009726&artikel=2&z=2007-10-01&g=2007-10-01), in de leeftijd van 23 jaar of ouder die aanvraag tot het verlenen van een verblijfsvergunning heeft ingediend met het oog op gezinshereniging met een bloedverwant in de eerste graad.
 
 ##### Artikel 5
 
@@ -146,33 +150,33 @@ Geen recht op de financiële toelage bestaat indien:
 
 2. De financiële toelage bedraagt:
 
-- a. voor de vreemdeling, bedoeld in [artikel 4, onder a of j](https://wetten.overheid.nl/jci1.3:c:BWBR0009726&artikel=4&z=2007-01-01&g=2007-01-01): 70 procent van de berekeningsbasis, verminderd met het in aanmerking te nemen inkomen;
+- a. voor de vreemdeling, bedoeld in [artikel 4, onder a of j](https://wetten.overheid.nl/jci1.3:c:BWBR0009726&artikel=4&z=2007-10-01&g=2007-10-01): 70 procent van de berekeningsbasis, verminderd met het in aanmerking te nemen inkomen;
 
-- b. voor de vreemdeling, bedoeld in [artikel 4 onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0009726&artikel=4&z=2007-01-01&g=2007-01-01): 100 procent van de berekeningsbasis, verminderd met het in aanmerking te nemen inkomen;
+- b. voor de vreemdeling, bedoeld in [artikel 4 onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0009726&artikel=4&z=2007-10-01&g=2007-10-01): 100 procent van de berekeningsbasis, verminderd met het in aanmerking te nemen inkomen;
 
-- c. voor de vreemdeling, bedoeld in [artikel 4 onder c of e](https://wetten.overheid.nl/jci1.3:c:BWBR0009726&artikel=4&z=2007-01-01&g=2007-01-01): 100 procent van de berekeningsbasis, verminderd met het in aanmerking te nemen inkomen, met een maximum van 10 procent van de berekeningsbasis;
+- c. voor de vreemdeling, bedoeld in [artikel 4 onder c of e](https://wetten.overheid.nl/jci1.3:c:BWBR0009726&artikel=4&z=2007-10-01&g=2007-10-01): 100 procent van de berekeningsbasis, verminderd met het in aanmerking te nemen inkomen, met een maximum van 10 procent van de berekeningsbasis;
 
-- d. voor de vreemdeling, bedoeld in [artikel 4 onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0009726&artikel=4&z=2007-01-01&g=2007-01-01): 100 procent van de berekeningsbasis, verminderd met het in aanmerking te nemen inkomen, met een maximum van 30 procent van de berekeningsbasis;
+- d. voor de vreemdeling, bedoeld in [artikel 4 onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0009726&artikel=4&z=2007-10-01&g=2007-10-01): 100 procent van de berekeningsbasis, verminderd met het in aanmerking te nemen inkomen, met een maximum van 30 procent van de berekeningsbasis;
 
-- e. voor de vreemdeling, bedoeld in [artikel 4 onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0009726&artikel=4&z=2007-01-01&g=2007-01-01): 90 procent van de berekeningsbasis, verminderd met het in aanmerking te nemen inkomen, met een maximum van 20 procent van de berekeningsbasis;
+- e. voor de vreemdeling, bedoeld in [artikel 4 onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0009726&artikel=4&z=2007-10-01&g=2007-10-01): 90 procent van de berekeningsbasis, verminderd met het in aanmerking te nemen inkomen, met een maximum van 20 procent van de berekeningsbasis;
 
-- f. voor de vreemdeling, bedoeld in [artikel 4 onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0009726&artikel=4&z=2007-01-01&g=2007-01-01): 0 procent van de berekeningsbasis.
+- f. voor de vreemdeling, bedoeld in [artikel 4 onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0009726&artikel=4&z=2007-10-01&g=2007-10-01): 0 procent van de berekeningsbasis.
 
-- g. voor de vreemdeling bedoeld in [artikel 4, onder h](https://wetten.overheid.nl/jci1.3:c:BWBR0009726&artikel=4&z=2007-01-01&g=2007-01-01): 17,5 procent van de berekeningsbasis, verminderd met het in aanmerking te nemen inkomen;
+- g. voor de vreemdeling bedoeld in [artikel 4, onder h](https://wetten.overheid.nl/jci1.3:c:BWBR0009726&artikel=4&z=2007-10-01&g=2007-10-01): 17,5 procent van de berekeningsbasis, verminderd met het in aanmerking te nemen inkomen;
 
-- h. voor de vreemdeling, bedoeld in [artikel 4, onder i](https://wetten.overheid.nl/jci1.3:c:BWBR0009726&artikel=4&z=2007-01-01&g=2007-01-01): 50 procent van de berekeningsbasis, verminderd met het in aanmerking te nemen inkomen;
+- h. voor de vreemdeling, bedoeld in [artikel 4, onder i](https://wetten.overheid.nl/jci1.3:c:BWBR0009726&artikel=4&z=2007-10-01&g=2007-10-01): 50 procent van de berekeningsbasis, verminderd met het in aanmerking te nemen inkomen;
 
-- i. voor de vreemdeling, bedoeld in [artikel 2, eerste lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0009726&artikel=2&z=2007-01-01&g=2007-01-01): het bedrag, bedoeld in [artikel 20, eerste lid, onder a, van de Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=20), verminderd met het in aanmerking te nemen inkomen.
+- i. voor de vreemdeling, bedoeld in [artikel 2, eerste lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0009726&artikel=2&z=2007-10-01&g=2007-10-01): het bedrag, bedoeld in [artikel 20, eerste lid, onder a, van de Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=20), verminderd met het in aanmerking te nemen inkomen.
 
 ##### Artikel 7
 
-1. Het treffen van een ziektekostenregeling als bedoeld in [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0009726&artikel=3&z=2007-01-01&g=2007-01-01), houdt in het afsluiten van een ziektekostencontract ter dekking van de kosten van het door de Minister vastgestelde pakket medische verstrekkingen.
+1. Het treffen van een ziektekostenregeling als bedoeld in [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0009726&artikel=3&z=2007-10-01&g=2007-10-01), houdt in het afsluiten van een ziektekostencontract ter dekking van de kosten van het door de Minister vastgestelde pakket medische verstrekkingen.
 
-2. In de verstrekking als bedoeld in [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0009726&artikel=3&z=2007-01-01&g=2007-01-01), wordt ten behoeve van de vreemdeling uitsluitend voorzien indien een toelage als bedoeld in [artikel 3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0009726&artikel=3&z=2007-01-01&g=2007-01-01) wordt toegekend.
+2. In de verstrekking als bedoeld in [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0009726&artikel=3&z=2007-10-01&g=2007-10-01), wordt ten behoeve van de vreemdeling uitsluitend voorzien indien een toelage als bedoeld in [artikel 3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0009726&artikel=3&z=2007-10-01&g=2007-10-01) wordt toegekend.
 
 ##### Artikel 8
 
-1. Op het in aanmerking te nemen inkomen en vermogen zijn de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009726&artikel=3&z=2007-01-01&g=2007-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0009726&artikel=4&z=2007-01-01&g=2007-01-01), in verbinding met de [artikelen 31 tot en met 34 van de Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=31) van overeenkomstige toepassing.
+1. Op het in aanmerking te nemen inkomen en vermogen zijn de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009726&artikel=3&z=2007-10-01&g=2007-10-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0009726&artikel=4&z=2007-10-01&g=2007-10-01), in verbinding met de [artikelen 31 tot en met 34 van de Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=31) van overeenkomstige toepassing.
 
 2. Tot het in aanmerking te nemen inkomen wordt tevens gerekend het recht op algemene bijstand op grond van de [Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703).
 
@@ -194,7 +198,7 @@ Geen recht op de financiële toelage bestaat indien:
 
 7. De toelage wordt maandelijks vastgesteld over dat deel van de kalendermaand waarover recht op de toelage bestaat.
 
-8. De financiële toelage, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009726&artikel=3&z=2007-01-01&g=2007-01-01), wordt niet toegekend over de periode voorafgaand aan 1 januari 2007.
+8. De financiële toelage, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009726&artikel=3&z=2007-10-01&g=2007-10-01), wordt niet toegekend over de periode voorafgaand aan 1 januari 2007.
 
 ##### Artikel 10
 
