@@ -4,7 +4,7 @@ identifier: "BWBR0007090"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2007-01-01"
+last_updated: "2007-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007090"
 soort: "ministeriele-regeling"
@@ -68,7 +68,7 @@ In deze regeling wordt verstaan onder:
 
 - j. een deel I B van een na 30 mei 2004 afgegeven kentekenbewijs voor een personenauto, een motorfiets, een bromfiets, een driewielig motorrijtuig, een aanhangwagen of een bedrijfsauto dan wel een deel I B van een na 30 mei 2004 afgegeven kentekenbewijs, bevattende de lettergroep AA, CD of CDJ dan wel de lettergroep BN, GN of GV en twee groepen van twee cijfers: model 15.1;
 
-- k. een bedrijfsvoorraad deel I B: model 16.1;
+- k. een bedrijfsvoorraad deel I B: model 16.1 of model 16.2;
 
 - l. een deel II van een na 30 mei 2004 afgegeven tweedelig kentekenbewijs: model 17.1;
 
@@ -80,7 +80,7 @@ In deze regeling wordt verstaan onder:
 
 - a. een vrijwaringsbewijs, af te geven door de Dienst Wegverkeer: model A.1;
 
-- b. een vrijwaringsbewijs, af te geven door een erkend bedrijf: model B.1;
+- b. een vrijwaringsbewijs, af te geven door een erkend bedrijf: model B.1 of model B.2;
 
 - c. een vrijwaringsbewijs, na 30 mei 2004 af te geven door de Dienst Wegverkeer: model A.2;
 
@@ -296,6 +296,8 @@ Model 16.1
 
 **Achterzijde (kleur: rose)**
 
+Model 16.2 Bedrijfsvoorraad deel IB
+
 Model 17.1.
 
 **Deel II van een na 30 mei 2004 afgegeven tweedelig kentekenbewijs**
@@ -329,6 +331,8 @@ Model A.2
 Model B.1 Vrijwaringsbewijs, af te geven door een erkend bedrijf
 
 Kleur: groen
+
+Model B.2 Vrijwaringsbewijs, af te geven door een erkend bedrijf.
 
 Model C.1 Ontvangstbewijs dat wordt verstrekt door de Dienst Wegverkeer na een aanvraag van een kentekenbewijs of deel daarvan
 
