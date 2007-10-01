@@ -4,7 +4,7 @@ identifier: "BWBR0016038"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-01-01"
-last_updated: "2004-04-01"
+last_updated: "2007-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016038"
 soort: "AMvB"
@@ -51,29 +51,29 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. voertuig: voertuig als bedoeld in:
+- a. voertuig:
 
-- 1º. [artikel 1.1, onder h, onderdeel 2, van het Voertuigreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006746&artikel=1.1) met een maximum gewicht van ten hoogste 3500 kilogram, of
+- 1°. voertuig als bedoeld in:
 
-- 2º. [artikel 1.1, onder at, van het Voertuigreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006746&artikel=1.1);
+- –. [artikel 1.1, onder h, onderdeel 2, van het Voertuigreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006746&artikel=1.1) met een maximum gewicht van ten hoogste 3500 kilogram, of
 
-- b. aanhangwagen: vervoermiddel dat bestemd is om te worden voortbewogen door een voertuig;
+- –. [artikel 1.1, onder at, van het Voertuigreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006746&artikel=1.1),
 
-- c. autobanden: banden die bestemd zijn voor voertuigen of aanhangwagens;
+- 2°. vervoermiddel dat bestemd is om te worden voortbewogen door een voertuig als bedoeld onder 1°;
 
-- d. de producent: degene onder wiens verantwoordelijkheid in de uitoefening van zijn beroep of bedrijf autobanden worden vervaardigd en als eerste in Nederland aan een ander ter beschikking worden gesteld;
+- b. autobanden: banden die bestemd zijn voor voertuigen;
 
-- e. de importeur: degene onder wiens verantwoordelijkheid in de uitoefening van zijn beroep of bedrijf autobanden binnen Nederlands grondgebied worden gebracht en als eerste in Nederland aan een ander ter beschikking worden gesteld;
+- c. de producent: degene onder wiens verantwoordelijkheid in de uitoefening van zijn beroep of bedrijf autobanden worden vervaardigd en als eerste in Nederland aan een ander ter beschikking worden gesteld;
 
-- f. terugwinning van energie: gebruik van brandbare afvalstoffen om energie op te wekken door directe verbranding met of zonder andere afvalstoffen, en met terugwinning van de als gevolg daarvan opgewekte warmte;
+- d. de importeur: degene onder wiens verantwoordelijkheid in de uitoefening van zijn beroep of bedrijf autobanden binnen Nederlands grondgebied worden gebracht en als eerste in Nederland aan een ander ter beschikking worden gesteld;
 
-- g. hergebruiken als materiaal: na een be- of verwerking opnieuw gebruiken van materialen van autobanden voor hetzelfde doel als waarvoor ze zijn ontworpen, of voor andere doeleinden, daaronder niet begrepen terugwinning van energie.
+- e. terugwinning van energie: gebruik van brandbare afvalstoffen om energie op te wekken door directe verbranding met of zonder andere afvalstoffen, en met terugwinning van de als gevolg daarvan opgewekte warmte;
+
+- f. hergebruiken als materiaal: na een be- of verwerking opnieuw gebruiken van materialen van autobanden voor hetzelfde doel als waarvoor ze zijn ontworpen, of voor andere doeleinden, daaronder niet begrepen terugwinning van energie.
 
 ##### Artikel 2
 
-1. Dit besluit is niet van toepassing op degene onder wiens verantwoordelijkheid in de uitoefening van zijn beroep of bedrijf voertuigen worden vervaardigd dan wel binnen Nederlands grondgebied worden gebracht, en als eerste in Nederland aan een ander ter beschikking worden gesteld, voorzover het betreft de aan deze voertuigen gemonteerde autobanden.
-
-2. De [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0016038&paragraaf=2&artikel=3&z=2004-04-01&g=2004-04-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0016038&paragraaf=2&artikel=4&z=2004-04-01&g=2004-04-01) zijn niet van toepassing op degene onder wiens verantwoordelijkheid in de uitoefening van zijn beroep of bedrijf aanhangwagens worden vervaardigd dan wel binnen Nederlands grondgebied worden gebracht, en als eerste in Nederland aan een ander ter beschikking worden gesteld, voorzover het betreft de aan deze aanhangwagens gemonteerde autobanden.
+Dit besluit is niet van toepassing op degene onder wiens verantwoordelijkheid in de uitoefening van zijn beroep of bedrijf voertuigen worden vervaardigd dan wel binnen Nederlands grondgebied worden gebracht, en als eerste in Nederland aan een ander ter beschikking worden gesteld, voorzover het betreft de aan deze voertuigen gemonteerde autobanden.
 
 #### § 2. Inname en verwerking
 
@@ -95,11 +95,9 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - c. binnen negen weken nadat de autobanden door of namens de gemeente zijn aangeboden.
 
-3. Ter uitvoering van het eerste lid deelt de producent of importeur jaarlijks voor 1 april aan de gemeenten mede wat zijn gemiddelde procentuele aandeel in de Nederlandse markt van nieuwe autobanden, berekend over de drie voorafgaande kalenderjaren, is, alsmede de naam en het adres van de persoon met wie contact kan worden opgenomen voor aanbieding van autobanden.
-
 ##### Artikel 5
 
-Degene onder wiens verantwoordelijkheid in de uitoefening van zijn beroep of bedrijf aanhangwagens worden vervaardigd dan wel binnen Nederlands grondgebied worden gebracht, en als eerste in Nederland aan een ander ter beschikking worden gesteld, draagt er zorg voor dat de autobanden die onderdeel uitmaken van een door hem aan een ander ter beschikking gestelde aanhangwagen bij de afdanking van die aanhangwagen ten minste om niet worden ingenomen.
+Vervallen
 
 ##### Artikel 6
 
@@ -109,21 +107,27 @@ De producent of importeur draagt er zorg voor dat de door hem ingenomen autoband
 
 ##### Artikel 7
 
-1. De producent of importeur doet binnen vier weken nadat dit besluit op hem van toepassing is geworden, aan Onze Minister een melding over de wijze waarop hij uitvoering zal geven aan de verplichtingen, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0016038&paragraaf=2&artikel=3&z=2004-04-01&g=2004-04-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0016038&paragraaf=2&artikel=4&z=2004-04-01&g=2004-04-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0016038&paragraaf=2&artikel=6&z=2004-04-01&g=2004-04-01), op een daartoe door Onze Minister vastgesteld formulier.
+1. De producent of importeur doet binnen vier weken nadat dit besluit op hem van toepassing is geworden, aan Onze Minister een melding over de wijze waarop hij uitvoering zal geven aan de verplichtingen, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0016038&paragraaf=2&artikel=3&z=2007-10-01&g=2007-10-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0016038&paragraaf=2&artikel=4&z=2007-10-01&g=2007-10-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0016038&paragraaf=2&artikel=6&z=2007-10-01&g=2007-10-01), op een daartoe door Onze Minister vastgesteld formulier.
 
 2. De melding, bedoeld in het eerste lid, vindt vervolgens om de vijf jaar plaats.
 
 ##### Artikel 8
 
-De producent of importeur zendt voor 1 augustus 2004 en vervolgens elk jaar voor 1 augustus aan Onze Minister een verslag toe over de resultaten in het voorafgaande kalenderjaar op een daartoe door Onze Minister vastgesteld formulier, voorzover hij in dat jaar als producent of importeur werkzaam was.
+De producent of importeur zendt jaarlijks voor 1 augustus aan Onze Minister op een formulier waarvan het model wordt vastgesteld door Onze Minister:
+
+- a. een verslag over de resultaten in het voorafgaande kalenderjaar, voor zover hij in dat jaar als producent of importeur werkzaam was,
+
+- b. gegevens met betrekking tot zijn gemiddelde procentuele aandeel in de Nederlandse markt van nieuwe autobanden, berekend over de drie voorafgaande kalenderjaren, voor zover hij in die jaren als producent of importeur werkzaam was, en
+
+- c. de contactgegevens van de persoon met wie contact kan worden opgenomen voor de aanbieding van autobanden.
 
 ##### Artikel 9
 
-De producenten of importeurs kunnen gezamenlijk een melding als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0016038&paragraaf=3&artikel=7&z=2004-04-01&g=2004-04-01) doen of een verslag als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0016038&paragraaf=3&artikel=8&z=2004-04-01&g=2004-04-01) toezenden.
+De producenten of importeurs kunnen gezamenlijk een melding als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0016038&paragraaf=3&artikel=7&z=2007-10-01&g=2007-10-01) doen of een verslag als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0016038&paragraaf=3&artikel=8&z=2007-10-01&g=2007-10-01) toezenden.
 
 ##### Artikel 10
 
-Ten aanzien van personen onder wier verantwoordelijkheid in de uitoefening van hun beroep of bedrijf aanhangwagens worden vervaardigd dan wel binnen Nederlands grondgebied worden gebracht, en als eerste in Nederland aan een ander ter beschikking worden gesteld, zijn de [artikelen 7 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0016038&paragraaf=3&artikel=7&z=2004-04-01&g=2004-04-01) van overeenkomstige toepassing voorzover het betreft de verplichting, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0016038&paragraaf=2&artikel=5&z=2004-04-01&g=2004-04-01).
+Vervallen
 
 #### § 4. Slotbepalingen
 
