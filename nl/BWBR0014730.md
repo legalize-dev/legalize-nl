@@ -4,7 +4,7 @@ identifier: "BWBR0014730"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-06-12"
-last_updated: "2003-02-21"
+last_updated: "2007-10-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014730"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ Besluit:
 
 1. Het is verboden te handelen in strijd met de artikelen 1 en 2 van [Verordening (EG) nr. 147/2003](32003R0147) van de Raad van de Europese Unie van 27 januari 2003 betreffende een aantal beperkende maatregelen ten aanzien van Somalië (Pb EG L 24).
 
-2. Het verbod te handelen in strijd met artikel 1 van [Verordening (EG) nr. 147/2003](32003R0147) is niet van toepassing in geval toepassing is gegeven aan artikel 3, eerste en tweede lid, van de verordening.
+2. Het verbod te handelen in strijd met artikel 1 van [Verordening (EG) nr. 147/2003](32003R0147) is niet van toepassing in geval toepassing is gegeven aan artikel 2 bis of 3, eerste en tweede lid, van de verordening.
 
 3. Het verbod te handelen in strijd met artikel 2 van [Verordening (EG) nr. 147/2003](32003R0147) is niet van toepassing in geval toepassing is gegeven aan artikel 3, derde lid, van de verordening.
 
@@ -57,6 +57,10 @@ Besluit:
 1. Het is verboden om wapens, munitie en militaire uitrusting, goederen, bewapende en niet-bewapende emplacementen, dan wel onderdelen, reparaties en onderhoud daarvan, alsmede militaire technologie, aangewezen in de bijlage bij het In- en uitvoerbesluit strategische goederen, te verkopen of te leveren aan natuurlijke personen of rechtspersonen in Somalië.
 
 2. Het eerste lid is niet van toepassing in geval het leveringen betreft van:
+
+- materieel dat uitsluitend bestemd is voor de missie overeenkomstig het onder 4 gestelde van Resolutie 1744 (2007) van de Veiligheidsraad van de Verenigde Naties;
+
+- materieel dat uitsluitend bestemd is voor de hulp bij de ontwikkeling van de instellingen van de veiligheidssector, in overeenstemming met het politieke proces als omschreven onder 1 tot en met 3 van Resolutie 1744 (2007) mits het onder 11 van Resolutie 751(1992) van de Veiligheidsraad van de Verenigde Naties ingestelde Comité niet binnen vijf werkdagen na ontvangst van de kennisgeving een negatief besluit heeft genomen;
 
 - niet-dodelijke militaire uitrusting voor uitsluitend humanitaire of beschermende doeleinden;
 
@@ -71,5 +75,11 @@ Deze regeling wordt aangehaald als: Sanctieregeling Somalië 2003.
 ##### Artikel 4
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
+
+De regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 2a
+
+De bevoegde autoriteit, bedoeld in artikel 2 bis onder a en b, van Verordening (EG) nr. 631/2007 van de Raad van de Europese Unie van 7 juni 2007 tot wijziging van Verordening (EG) nr. 147/2003 betreffende een aantal beperkende maatregelen ten aanzien van Somalië (Pb EG L 146), is de Minister van Financiën voor zover het betreft financiering en financiële bijstand, bedoeld in voornoemd artikel 2 bis onder a, en de Minister van Economische Zaken voor zover het betreft technisch advies, bijstand of opleiding, bedoeld in voornoemd artikel 2 bis onder a. De bevoegde autoriteit, bedoeld in voornoemd artikel 2 bis onder b, is de Minister van Economische Zaken.
 
 De regeling zal met de toelichting in de Staatscourant worden geplaatst.
