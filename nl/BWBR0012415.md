@@ -4,7 +4,7 @@ identifier: "BWBR0012415"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2013-01-01"
-last_updated: "2001-04-27"
+last_updated: "2007-10-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012415"
 soort: "ministeriele-regeling"
@@ -43,7 +43,7 @@ Besluiten:
 
 ##### Artikel 1
 
-1. De korpschef van een regionaal politiekorps dan wel de korpschef van het Korps landelijke politiediensten kan met de Commandant van de Koninklijke marechaussee afspraken maken over samenwerking als bedoeld in [artikel 48, tweede lid, van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=48). De samenwerking heeft slechts betrekking op de uitvoering van de politietaken die de Koninklijke marechaussee zijn opgedragen in [artikel 6 van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=6).
+1. De korpschef van een regionaal politiekorps dan wel de korpschef van het Korps landelijke politiediensten kan met de Commandant van de Koninklijke marechaussee afspraken maken over samenwerking als bedoeld in [artikel 46, tweede lid, van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=46). De samenwerking heeft betrekking op de uitvoering van of de voorbereiding op de politietaken, die de Koninklijke marechaussee zijn opgedragen in [artikel 6 van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=6).
 
 2. De in het eerste lid bedoelde afspraken worden op schrift gesteld en bevatten in ieder geval de volgende onderwerpen:
 
@@ -57,7 +57,7 @@ Besluiten:
 
 - de wijze waarop de samenwerking kan of zal worden beëindigd.
 
-3. De afspraken worden schriftelijk ter kennis gebracht van het bevoegd gezag, de betrokken korpsbeheerders en de Ministers van Justitie, van Binnenlandse Zaken en Koninkrijksrelaties en van Defensie. De afspraken worden niet geëffectueerd dan nadat het bevoegd gezag, de betrokken korpsbeheerders, de betrokken hoofdofficieren van Justitie en de Minister van Defensie daarmee hebben ingestemd.
+3. De afspraken worden schriftelijk ter kennis gebracht van het bevoegd gezag, de betrokken korpsbeheerders en de Ministers van Justitie, van Binnenlandse Zaken en Koninkrijksrelaties en van Defensie. De afspraken worden niet geëffectueerd dan nadat het bevoegd gezag, de betrokken korpsbeheerders, de betrokken hoofdofficieren van Justitie en de Ministers van Binnenlandse Zaken en Koninkrijksrelaties, van Justitie en van Defensie daarmee hebben ingestemd.
 
 ##### Artikel 2
 
