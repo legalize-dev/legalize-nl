@@ -4,7 +4,7 @@ identifier: "BWBR0004710"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-01-01"
-last_updated: "1997-01-29"
+last_updated: "2007-10-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004710"
 soort: "AMvB"
@@ -50,11 +50,13 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. kinderbed: een slaapmeubel, niet zijnde een wieg, met een maximale inwendige lengte van 1400 mm dat bestemd is voor kinderen tot de leeftijd van ± 4 jaar en dat voorzien is van opstaande zijden die bestemd zijn om te voorkomen dat het kind uit het bed valt;
+- a. kinderbed: een slaapmeubel, niet zijnde een wieg, dat bestemd is voor kinderen tot de leeftijd van ongeveer 4 jaar;
 
 - b. kinderbox: een meubel bestaande uit of voorzien van één of meerdere opstaande zijde(n) dat bestemd is om de actieradius van een hierin geplaatst kind te beperken;
 
-- c. bodem: het horizontale onderdeel van een kinderbed of -box dat bestemd is om als lig-, zit- of stavlak te dienen.
+- c. bodem: het horizontale onderdeel van een kinderbed of -box dat bestemd is om als lig-, zit- of stavlak te dienen;
+
+- d. kinderopvang: kinderopvang, als bedoeld in [artikel 1, eerste lid, onder b, van de Wet kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1).
 
 ##### Artikel 2
 
@@ -62,77 +64,31 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 2. Het is verboden kinderbedden en -boxen te verhandelen anders dan met inachtneming van de voorschriften in of krachtens dit besluit gesteld met betrekking tot het bezigen van vermeldingen.
 
+3. Het is verboden kinderbedden en -boxen te gebruiken in het kader van kinderopvang, indien die bedden en boxen niet voldoen aan de eisen die op grond van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004710&artikel=3&z=2007-10-10&g=2007-10-10) worden gesteld met betrekking tot kinderbedden en -boxen die tot doel hebben in het kader van kinderopvang te worden gebezigd.
+
 ##### Artikel 3
 
-Kinderbedden en -boxen moeten zodanig zijn samengesteld, geconstrueerd en uitgevoerd en een zodanige uitwendige staat en beziging van materiaal hebben, dat zij bij aanwending overeenkomstig redelijkerwijze te verwachten gebruik, geen gevaar opleveren voor de veiligheid en gezondheid van een daarin geplaatst kind.
+1. Kinderbedden en -boxen moeten zodanig zijn samengesteld, geconstrueerd en uitgevoerd en een zodanige uitwendige staat en beziging van materiaal hebben, dat zij bij aanwending overeenkomstig redelijkerwijze te verwachten gebruik, geen gevaar opleveren voor de veiligheid en gezondheid van een daarin geplaatst kind.
+
+2. Met betrekking tot de samenstelling, constructie, uitvoering, uitwendige staat en beziging van materialen van kinderbedden en -boxen, kunnen bij regeling van Onze Minister nadere regels worden gesteld. Ten aanzien van kinderbedden en -boxen die tot doel hebben te worden gebezigd in het kader van kinderopvang, kunnen afwijkende nadere regels worden gesteld.
+
+3. Kinderbedden en -boxen welke voldoen aan de door Onze Minister aangewezen geharmoniseerde normen, alsmede in voorkomend geval de nadere regels, bedoeld in het tweede lid, worden in zoverre vermoed te voldoen aan het eerste lid.
 
 ##### Artikel 4
 
-1. Bij kinderbedden en -boxen dient de afstand tussen de bovenrand van elk der opstaande zijden
-
-- a. tot het hoogste beklimbare punt van de zijden ten minste 550 mm te bedragen en
-
-- b. tot de bodem
-
-- 1°. indien deze afstand niet instelbaar is ten minste 600 mm te bedragen,
-
-- 2°. indien deze afstand instelbaar is ten minste 600 mm te kunnen bedragen doch niet minder dan 300 mm.
-
-2. In afwijking van het in het eerste lid bepaalde mogen in een opstaande zijde van een kinderbox op minder dan 550 mm afstand van de bovenrand wel beklimbare onderdelen aanwezig zijn mits de afstand tot een lager gelegen beklimbaar punt of de bodem, geplaatst in de laagste stand, ten minste 300 mm bedraagt.
-
-3. Openingen in de opstaande zijden van een kinderbed of -box moeten aan de volgende eisen voldoen:
-
-- a. de afstand tussen 2 opeenvolgende spijlen en/of tussen een spijl en een ander onderdeel van het kinderbed of -box dient onder een belasting van 50 N per spijl of onderdeel ten minste 60 mm en ten hoogste 75 mm te bedragen waarbij de blijvende doorbuiging van een spijl of een ander onderdeel na het wegnemen van de genoemde belasting niet meer dan 2 mm mag bedragen;
-
-- b. de diameter of wijdte van een maas in vlechtwerk en dergelijke dient, terwijl deze maas met een kracht van 50 N uiteen wordt getrokken, ten hoogste 7 mm te bedragen;
-
-- c. andere dan onder **a.** en **b.** bedoelde openingen moeten zodanig zijn dat zij een kubus met ribben van 75 mm of een bol met een straal van 37,5 mm niet doorlaten doch een kubus met ribben van 60 mm of een bol met straal van 30 mm wel doorlaten;
-
-- d. de openingen moeten zodanig zijn uitgevoerd dat geen delen van kledingstukken of andere op het lichaam gedragen voorwerpen hieraan kunnen blijven hangen of hierin beklemd kunnen raken.
-
-4. Elk der opstaande zijden van een kinderbed of -box moet zodanig zijn uitgevoerd dat:
-
-- a. op de bovenkant geen knopvormige uitstekende delen aanwezig zijn;
-
-- b. niet-knopvormige uitstekende delen een afronding met een straal van ten minste 40 mm hebben en ten hoogste 10 mm boven de bovenrand van de zijden uitsteken;
-
-- c. een post, zijnde een stijl ter plaatse van het raakvlak van twee opstaande zijden, niet meer dan 10 mm uitsteekt boven de bovenrand van de hoogste aanliggende opstaande zijde.
+Vervallen
 
 ##### Artikel 5
 
-De bodem van een kinderbed of -box dient ongeacht de ingestelde hoogte zodanig sterk en stijf en zodanig aangebracht of aan te brengen te zijn dat:
-
-- a. deze onder een dynamische belasting niet van de opstaande zijden losraakt en dat geen scheuren of breuken ontstaan;
-
-- b. de binnenwerkse afstand tussen de bodem en een opstaande zijde, onder een statische belasting van 150 N, nergens groter is dan 25 mm.
+Vervallen
 
 ##### Artikel 6
 
-1. Onderdelen van een kinderbed of -box die voor het kind bereikbaar zijn, dienen te zijn afgerond met een straal van ten minste 2 mm.
-
-2. Bevestigingsmiddelen, zoals nagels, spijkers en schroeven, dienen deugdelijk verzonken te zijn.
-
-3. De kracht die benodigd is voor het - al dan niet door middel van hang- en sluitmiddelen - openen, sluiten, verstellen of verwijderen van de bodem, opstaande zijden of spijlen van een kinderbed of -box dient, indien de daarvoor noodzakelijke onderdelen voor het kind bereikbaar zijn, ten minste 50 N te bedragen. Indien hiervoor een rotatie is vereist heeft deze eis betrekking op de tangentiaalkracht.
-
-4. Het derde lid is niet van toepassing indien voor de in dat lid bedoelde handelingen twee onafhankelijke gelijktijdige bewegingen nodig zijn.
-
-5. Onderdelen van een kinderbed of -box, zoals bevestigingsmiddelen, die voor het kind bereikbaar en zonder gereedschap losneembaar zijn, dienen zodanig te zijn dat voor het losnemen ervan een kracht van ten minste 50 N uitgeoefend moet worden dan wel dat deze geen gevaar voor verstikking kunnen opleveren.
+Vervallen
 
 ##### Artikel 7
 
-1. Kinderbedden en -boxen moeten zijn vergezeld van aanwijzingen voor gebruik waarin in ieder geval zijn vermeld:
-
-- -. aanwijzingen voor de (de-)montage;
-
-- -. aanwijzingen voor de instelling van de onderdelen en de in te stellen hoogte in relatie tot de toenemende klimvaardigheid en lichaamslengte van de in de kinderbedden en -boxen te plaatsen kinderen;
-
-- -. waarschuwingen voor mogelijke gevaarsrisico's, waaronder met name een waarschuwing voor het beklemmingsgevaar van kinderen door toepassing van te kleine matrassen.
-
-2. Kinderbedden en -boxen dienen te zijn voorzien van de naam of handelsnaam en het adres van de fabrikant, importeur of verkoper en een typeaanduiding van de waar.
-
-3. De in het tweede lid bedoelde vermeldingen dienen onuitwisbaar op de waar te zijn aangebracht.
-
-4. De in dit artikel genoemde vermeldingen moet in de Nederlandse taal gesteld, begrijpelijk en duidelijk leesbaar zijn.
+Kinderbedden en -boxen moeten zijn vergezeld van waarschuwingen voor mogelijke gevaarsrisico’s, waaronder met name een waarschuwing voor het beklemminggevaar van kinderen door toepassing van te kleine matrassen.
 
 ##### Artikel 8
 
@@ -142,7 +98,7 @@ De bodem van een kinderbed of -box dient ongeacht de ingestelde hoogte zodanig s
 
 ##### Artikel 9
 
-Op verzoek van de belanghebbende worden door Onze Minister van Volksgezondheid, Welzijn en Sport normen die gelijkwaardig zijn aan het in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004710&artikel=4&z=1997-01-29&g=1997-01-29), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0004710&artikel=5&z=1997-01-29&g=1997-01-29) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0004710&artikel=6&z=1997-01-29&g=1997-01-29) bepaalde, met het in deze artikelen bepaalde gelijkgesteld.
+Op verzoek van de belanghebbende worden door Onze Minister van Volksgezondheid, Welzijn en Sport normen die gelijkwaardig zijn aan het in het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004710&artikel=3&z=2007-10-10&g=2007-10-10) bepaalde, met het in dit artikel bepaalde gelijkgesteld.
 
 ##### Artikel 10
 
