@@ -4,7 +4,7 @@ identifier: "BWBR0022177"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2007-10-12"
-last_updated: "2007-07-07"
+last_updated: "2007-10-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022177"
 soort: "ministeriele-regeling"
@@ -54,19 +54,21 @@ Aan de algemeen directeur van het Centraal Justitieel Incasso Bureau wordt:
 
 - a. volmacht verleend tot het verrichten van privaatrechtelijke rechtshandelingen;
 
-- b. machtiging verleend tot het verrichten van alle benodigde werkzaamheden ter voorbereiding en ter uitvoering van de besluiten als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022177&artikel=1&z=2007-07-07&g=2007-07-07).
+- b. machtiging verleend tot het verrichten van alle benodigde werkzaamheden ter voorbereiding en ter uitvoering van de besluiten als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022177&artikel=1&z=2007-10-12&g=2007-10-12);
+
+- c. machtiging verleend tot het voeren van beroepsprocedures over besluiten als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022177&artikel=1&z=2007-10-12&g=2007-10-12).
 
 ##### Artikel 3
 
-De algemeen directeur van het Centraal Justitieel Incasso Bureau kan met betrekking tot zijn bevoegheden, bedoeld in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022177&artikel=1&z=2007-07-07&g=2007-07-07) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0022177&artikel=2&z=2007-07-07&g=2007-07-07) ondermandaat, volmacht en machtiging verlenen aan één of meer onder hem ressorterende functionarissen.
+De algemeen directeur van het Centraal Justitieel Incasso Bureau kan met betrekking tot zijn bevoegheden, bedoeld in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022177&artikel=1&z=2007-10-12&g=2007-10-12) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0022177&artikel=2&z=2007-10-12&g=2007-10-12) ondermandaat, volmacht en machtiging verlenen aan één of meer onder hem ressorterende functionarissen.
 
 ##### Artikel 4
 
-De in de [artikelen 1 tot en met 3](https://wetten.overheid.nl/jci1.3:c:BWBR0022177&artikel=1&z=2007-07-07&g=2007-07-07) bedoelde functionarissen van het Centraal Justitieel Incasso Bureau oefenen de bij dit besluit verleende bevoegdheden uit met inachtneming van de instructie opgenomen in de van dit besluit deel uitmakende bijlage.
+De in de [artikelen 1 tot en met 3](https://wetten.overheid.nl/jci1.3:c:BWBR0022177&artikel=1&z=2007-10-12&g=2007-10-12) bedoelde functionarissen van het Centraal Justitieel Incasso Bureau oefenen de bij dit besluit verleende bevoegdheden uit met inachtneming van de instructie opgenomen in de van dit besluit deel uitmakende bijlage.
 
 ##### Artikel 5
 
-Indien uitvoering wordt gegeven aan de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022177&artikel=1&z=2007-07-07&g=2007-07-07) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0022177&artikel=2&z=2007-07-07&g=2007-07-07) luidt de ondertekening:
+Indien uitvoering wordt gegeven aan de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022177&artikel=1&z=2007-10-12&g=2007-10-12) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0022177&artikel=2&z=2007-10-12&g=2007-10-12) luidt de ondertekening:
 
 De Minister voor Wonen, Wijken en Integratie,
 
@@ -78,7 +80,7 @@ de algemeen directeur van het het Centraal Justitieel Incasso Bureau,
 
 ##### Artikel 6
 
-Indien uitvoering wordt gegeven aan [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0022177&artikel=3&z=2007-07-07&g=2007-07-07) luidt de ondertekening door de ondergemandateerde, gemachtigde en gevolmachtigde:
+Indien uitvoering wordt gegeven aan [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0022177&artikel=3&z=2007-10-12&g=2007-10-12) luidt de ondertekening door de ondergemandateerde, gemachtigde en gevolmachtigde:
 
 De Minister voor Wonen, Wijken en Integratie,
 
@@ -98,7 +100,7 @@ Dit besluit treedt in werking met ingang van de tweede dag na dagtekening van de
 
 Dit besluit wordt aangehaald als: Mandaatbesluit CJIB Incasso Huursubsidie.
 
-## Bijlage. als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0022177&artikel=4&z=2007-07-07&g=2007-07-07)
+## Bijlage. als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0022177&artikel=4&z=2007-10-12&g=2007-10-12)
 
 ### Instructie incasso teruggevorderde huursubsidies
 
