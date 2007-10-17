@@ -4,7 +4,7 @@ identifier: "BWBR0004021"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-01-21"
-last_updated: "1987-05-01"
+last_updated: "2007-10-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004021"
 soort: "AMvB"
@@ -62,7 +62,7 @@ Spaanplaat, met uitzondering van spaanplaat voorkomende in meubelen en spaanplaa
 
 ##### Artikel 4
 
-Spaanplaat mag slechts schimmelwerende middelen bevatten, voor zover deze ingevolge de [Bestrijdingsmiddelenwet 1962](https://wetten.overheid.nl/jci1.3:c:BWBR0002380) zijn toegelaten voor de toepassing in spaanplaat.
+Spaanplaat mag slechts schimmelwerende middelen bevatten, voor zover deze ingevolge de [Wet gewasbeschermingsmiddelen en biociden](https://wetten.overheid.nl/jci1.3:c:BWBR0021670) zijn toegelaten of vrijgesteld voor de toepassing in spaanplaat.
 
 ##### Artikel 5
 
