@@ -4,7 +4,7 @@ identifier: "BWBR0004321"
 country: "nl"
 rank: "amvb"
 publication_date: "2010-12-01"
-last_updated: "1994-01-01"
+last_updated: "2007-10-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004321"
 soort: "AMvB"
@@ -86,7 +86,7 @@ In dit besluit wordt verstaan onder:
 
 4. Indien toepassing wordt gegeven aan het tweede lid, dient de registratieplichtige tevens de namen en adressen van de afnemers van de stoffen en preparaten, bestemd voor de desbetreffende categorie van gebruikers, gedurende één jaar overeenkomstig het in het eerste lid bepaalde te bewaren.
 
-5. Met betrekking tot preparaten, ten aanzien waarvan [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004321&artikel=2&z=1994-01-01&g=1994-01-01), van toepassing is, dient de registratieplichtige tevens te bewaren de namen en adressen van de leveranciers over de jaren waarvoor de bewaarplicht ingevolge het derde lid dan wel ingevolge artikel 17 van de wet geldt.
+5. Met betrekking tot preparaten, ten aanzien waarvan [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004321&artikel=2&z=2007-10-17&g=2007-10-17), van toepassing is, dient de registratieplichtige tevens te bewaren de namen en adressen van de leveranciers over de jaren waarvoor de bewaarplicht ingevolge het derde lid dan wel ingevolge artikel 17 van de wet geldt.
 
 ##### Artikel 4
 
@@ -96,7 +96,7 @@ Van de registratieplicht zijn uitgezonderd:
 
 - b. stoffen die in de procesinstallatie waarin zij ontstaan, worden omgezet in andere stoffen zonder dat daarbij tussentijdse opslag plaatsvindt;
 
-- c. bestrijdingsmiddelen die zijn toegelaten op grond van de [Bestrijdingsmiddelenwet 1962](https://wetten.overheid.nl/jci1.3:c:BWBR0002380) (**Stb.** 288);
+- c. gewasbeschermingsmiddelen of biociden die zijn toegelaten of vrijgesteld op grond van de [Wet gewasbeschermingsmiddelen en biociden](https://wetten.overheid.nl/jci1.3:c:BWBR0021670);
 
 - d. sera en vaccins als bedoeld in de Wet op Sera en Vaccins (**Stb.** 1927, 91).
 
