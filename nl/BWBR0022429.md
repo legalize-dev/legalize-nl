@@ -4,7 +4,7 @@ identifier: "BWBR0022429"
 country: "nl"
 rank: "amvb"
 publication_date: "2012-01-01"
-last_updated: "2007-09-01"
+last_updated: "2007-10-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022429"
 soort: "AMvB"
@@ -54,15 +54,15 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 **aanvraag:**
 
-- 1°. voor [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022429&hoofdstuk=2&z=2007-09-01&g=2007-09-01): aanvraag voor een specifieke uitkering als bedoeld in [artikel 34a, eerste lid, van de Monumentenwet 1988](https://wetten.overheid.nl/jci1.3:c:BWBR0004471&artikel=34a), of
+- 1°. voor [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022429&hoofdstuk=2&z=2007-10-17&g=2007-10-17): aanvraag voor een specifieke uitkering als bedoeld in [artikel 34a, eerste lid, van de Monumentenwet 1988](https://wetten.overheid.nl/jci1.3:c:BWBR0004471&artikel=34a), of
 
-- 2°. voor [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0022429&hoofdstuk=3&z=2007-09-01&g=2007-09-01): aanvrager van een vergunning als bedoeld in [artikel 45 van de Monumentenwet 1988](https://wetten.overheid.nl/jci1.3:c:BWBR0004471&artikel=45);
+- 2°. voor [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0022429&hoofdstuk=3&z=2007-10-17&g=2007-10-17): aanvrager van een vergunning als bedoeld in [artikel 45 van de Monumentenwet 1988](https://wetten.overheid.nl/jci1.3:c:BWBR0004471&artikel=45);
 
 **drempelbijdrage:** deel van de kosten van het doen van opgravingen dat ten laste komt van de gemeente of de provincie;
 
 **excessieve kosten:** deel van de kosten van het doen van opgravingen dat het bedrag dat wordt gevormd door de som van de drempelbijdrage en het verstoordersdeel te boven gaat;
 
-**leidinggevende:** degene die binnen de organisatie van de aanvrager, bedoeld in [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0022429&hoofdstuk=3&z=2007-09-01&g=2007-09-01), daadwerkelijk leiding geeft aan het doen van de opgravingen;
+**leidinggevende:** degene die binnen de organisatie van de aanvrager, bedoeld in [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0022429&hoofdstuk=3&z=2007-10-17&g=2007-10-17), daadwerkelijk leiding geeft aan het doen van de opgravingen;
 
 **specifieke uitkering:** specifieke uitkering als bedoeld in [artikel 34a, eerste lid, van de Monumentenwet 1988](https://wetten.overheid.nl/jci1.3:c:BWBR0004471&artikel=34a);
 
@@ -70,9 +70,9 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 **verstoordersdeel:**
 
-- 1°. deel van de kosten van het doen van opgravingen dat volgens de aanvrager, bedoeld in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022429&hoofdstuk=2&z=2007-09-01&g=2007-09-01), ten laste blijft van degene die door de aanvrager tot het doen van opgravingen is verplicht, of
+- 1°. deel van de kosten van het doen van opgravingen dat volgens de aanvrager, bedoeld in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022429&hoofdstuk=2&z=2007-10-17&g=2007-10-17), ten laste blijft van degene die door de aanvrager tot het doen van opgravingen is verplicht, of
 
-- 2°. bedrag dat Onze minister op grond van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0022429&hoofdstuk=2&paragraaf=4&artikel=6&z=2007-09-01&g=2007-09-01) heeft vastgesteld;
+- 2°. bedrag dat Onze minister op grond van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0022429&hoofdstuk=2&paragraaf=4&artikel=6&z=2007-10-17&g=2007-10-17) heeft vastgesteld;
 
 **wet:** [Monumentenwet 1988](https://wetten.overheid.nl/jci1.3:c:BWBR0004471).
 
@@ -114,7 +114,7 @@ Een vergunning is niet overdraagbaar.
 
 - e. de leidinggevende heeft voldoende werkervaring, en
 
-- f. de leidinggevende is niet onherroepelijk veroordeeld wegens het plegen van een strafbaar feit als bedoeld in de [artikelen 61](https://wetten.overheid.nl/jci1.3:c:BWBR0004471&artikel=61) en [62 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004471&artikel=62) in de 5 jaar voorafgaand aan de aanvraag.
+- f. de leidinggevende is niet onherroepelijk veroordeeld wegens het plegen van een strafbaar feit als bedoeld in de [artikelen 61](https://wetten.overheid.nl/jci1.3:c:BWBR0004471&artikel=61) en [62 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004471&artikel=62) in de 4 jaar voorafgaand aan de aanvraag.
 
 #### § 3. Vergunningaanvraag
 
@@ -124,21 +124,21 @@ Een vergunning is niet overdraagbaar.
 
 - a. een organisatieplan,
 
-- b. een recente verklaring van de rechtbank op basis van de registers, bedoeld in de [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=19) en [222a van de Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=222a), waaruit blijkt dat de aanvrager voldoet aan [artikel 17, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0022429&hoofdstuk=3&paragraaf=2&artikel=17&z=2007-09-01&g=2007-09-01),
+- b. een recente verklaring van de rechtbank op basis van de registers, bedoeld in de [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=19) en [222a van de Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=222a), waaruit blijkt dat de aanvrager voldoet aan [artikel 17, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0022429&hoofdstuk=3&paragraaf=2&artikel=17&z=2007-10-17&g=2007-10-17),
 
-- c. een afschrift van het getuigschrift of de EG-verklaring, bedoeld in [artikel 17, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0022429&hoofdstuk=3&paragraaf=2&artikel=17&z=2007-09-01&g=2007-09-01),
+- c. een afschrift van het getuigschrift of de EG-verklaring, bedoeld in [artikel 17, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0022429&hoofdstuk=3&paragraaf=2&artikel=17&z=2007-10-17&g=2007-10-17),
 
-- d. bewijsstukken waaruit de werkervaring, bedoeld in [artikel 17, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0022429&hoofdstuk=3&paragraaf=2&artikel=17&z=2007-09-01&g=2007-09-01), blijkt, en
+- d. bewijsstukken waaruit de werkervaring, bedoeld in [artikel 17, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0022429&hoofdstuk=3&paragraaf=2&artikel=17&z=2007-10-17&g=2007-10-17), blijkt, en
 
 - e. een verklaring omtrent het gedrag als bedoeld in [artikel 28 van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=28) van leidinggevenden die niet ouder is dan 6 maanden.
 
 2. De aanvrager beschrijft in het organisatieplan, bedoeld in het eerste lid, onderdeel a, in ieder geval op welke wijze:
 
-- a. de aanvrager voldoet aan [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022429&hoofdstuk=3&paragraaf=2&artikel=17&z=2007-09-01&g=2007-09-01),
+- a. de aanvrager voldoet aan [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022429&hoofdstuk=3&paragraaf=2&artikel=17&z=2007-10-17&g=2007-10-17),
 
 - b. binnen de organisatie voor voldoende leidinggevenden wordt zorg gedragen, en
 
-- c. de aanvrager zal voldoen aan de voorschriften, bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0022429&hoofdstuk=3&paragraaf=5&artikel=25&z=2007-09-01&g=2007-09-01).
+- c. de aanvrager zal voldoen aan de voorschriften, bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0022429&hoofdstuk=3&paragraaf=5&artikel=25&z=2007-10-17&g=2007-10-17).
 
 3. De voorwaarde, bedoeld in het eerste lid, onderdeel b, geldt niet voor een krachtens publiekrecht ingestelde rechtspersoon.
 
@@ -156,7 +156,7 @@ Een vergunning is niet overdraagbaar.
 
 - d. een bepaald gebied.
 
-2. Indien de organisatie van de aanvrager niet voldoet aan [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022429&hoofdstuk=3&paragraaf=2&artikel=17&z=2007-09-01&g=2007-09-01), maar de verwachting bestaat dat dit binnen afzienbare termijn het geval zal zijn, verleent Onze minister een tijdelijke vergunning.
+2. Indien de organisatie van de aanvrager niet voldoet aan [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022429&hoofdstuk=3&paragraaf=2&artikel=17&z=2007-10-17&g=2007-10-17), maar de verwachting bestaat dat dit binnen afzienbare termijn het geval zal zijn, verleent Onze minister een tijdelijke vergunning.
 
 ##### Artikel 20
 
