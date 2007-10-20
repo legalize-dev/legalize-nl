@@ -4,7 +4,7 @@ identifier: "BWBR0014903"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-10-01"
-last_updated: "2006-05-03"
+last_updated: "2007-10-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014903"
 soort: "ministeriele-regeling"
@@ -41,11 +41,19 @@ Besluit:
 
 ##### Artikel 1
 
-Bij de bereiding van voedingssupplementen wordt uitsluitend gebruik gemaakt van de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0014903&bijlage=1&z=2006-05-03&g=2006-05-03) genoemde vitaminen en mineralen, in de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014903&bijlage=2&z=2006-05-03&g=2006-05-03) genoemde vormen.
+1. Bij de bereiding van voedingssupplementen wordt uitsluitend gebruik gemaakt van de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0014903&bijlage=1&z=2007-10-20&g=2007-10-20) genoemde vitaminen en mineralen, in de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014903&bijlage=2&z=2007-10-20&g=2007-10-20) genoemde vormen.
+
+2. Deze regeling is niet van toepassing op eet- en drinkwaren die:
+
+- a. tot hoofddoel hebben het leveren van vitamine A of vitamine D, waarbij daarnaast ook andere essentiële microvoedingsstoffen aanwezig kunnen zijn;
+
+- b. in de handel worden gebracht in de vorm van een tablet, capsule, druppelvloeistof of andere zeer kleine hoeveelheden vloeistof, of een zeer kleine hoeveelheid poeder; en
+
+- c. geen geneesmiddel zijn in de zin van [artikel 1 van de Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=1).
 
 ##### Artikel 2
 
-De vermelding van vitaminen en mineralen, bedoeld in [artikel 7, eerste lid, onder a, van het Warenwetbesluit voedingssupplementen](https://wetten.overheid.nl/jci1.3:c:BWBR0014814&artikel=7), geschiedt met gebruikmaking van de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0014903&bijlage=1&z=2006-05-03&g=2006-05-03) gespecificeerde eenheden.
+De vermelding van vitaminen en mineralen, bedoeld in [artikel 7, eerste lid, onder a, van het Warenwetbesluit voedingssupplementen](https://wetten.overheid.nl/jci1.3:c:BWBR0014814&artikel=7), geschiedt met gebruikmaking van de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0014903&bijlage=1&z=2007-10-20&g=2007-10-20) gespecificeerde eenheden.
 
 ##### Artikel 3
 
@@ -57,7 +65,7 @@ Deze regeling wordt aangehaald als: Warenwetregeling voedingssupplementen.
 
 ## Bijlage 1
 
-Deze bijlage behoort bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0014903&artikel=1&z=2006-05-03&g=2006-05-03) en [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014903&artikel=2&z=2006-05-03&g=2006-05-03).
+Deze bijlage behoort bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0014903&artikel=1&z=2007-10-20&g=2007-10-20) en [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014903&artikel=2&z=2007-10-20&g=2007-10-20).
 
 Uitsluitend onderstaande vitaminen en mineralen mogen worden gebruikt bij de bereiding van voedingssupplementen. Bij de vermelding van vitaminen en mineralen, bedoeld in [artikel 7, eerste lid, onder a, van het Warenwetbesluit voedingssupplementen](https://wetten.overheid.nl/jci1.3:c:BWBR0014814&artikel=7), wordt gebruik gemaakt van de desbetreffende hieronder genoemde eenheden.
 
@@ -121,7 +129,7 @@ Fosfor (mg)
 
 ## Bijlage 2
 
-Deze bijlage behoort bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0014903&artikel=1&z=2006-05-03&g=2006-05-03).
+Deze bijlage behoort bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0014903&artikel=1&z=2007-10-20&g=2007-10-20).
 
 **Verbindingen die uitsluitend mogen worden gebruikt bij de bereiding van voedingssupplementen.**
 
