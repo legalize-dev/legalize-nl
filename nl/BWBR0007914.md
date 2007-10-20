@@ -4,7 +4,7 @@ identifier: "BWBR0007914"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-01-01"
-last_updated: "2004-10-29"
+last_updated: "2007-10-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007914"
 soort: "AMvB"
@@ -56,7 +56,7 @@ Hebben goedgevonden en verstaan:
 
 2. Het eerste lid is, voor wat de uitzondering van de toepasselijkheid in het gemeentelijk ingedeelde deel van de territoriale zee betreft, niet van toepassing ten aanzien van:
 
-- a. de verkeerstekens die zijn opgenomen in de bij dit besluit behorende [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&bijlage=2&z=2004-10-29&g=2004-10-29);
+- a. de verkeerstekens die zijn opgenomen in de bij dit besluit behorende [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&bijlage=2&z=2007-10-20&g=2007-10-20);
 
 - b. een aanloopgebied.
 
@@ -80,9 +80,9 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - –. een sleepboot;
 
-- d. aanloopgebied: een gebied als omschreven in de bij dit besluit behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&bijlage=1&z=2004-10-29&g=2004-10-29);
+- d. aanloopgebied: een gebied als omschreven in de bij dit besluit behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&bijlage=1&z=2007-10-20&g=2007-10-20);
 
-- e. territoriale zee, behoudens de aanloopgebieden: de Nederlandse territoriale zee, behoudens de in de bij dit besluit behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&bijlage=1&z=2004-10-29&g=2004-10-29) omschreven aanloopgebieden;
+- e. territoriale zee, behoudens de aanloopgebieden: de Nederlandse territoriale zee, behoudens de in de bij dit besluit behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&bijlage=1&z=2007-10-20&g=2007-10-20) omschreven aanloopgebieden;
 
 - f. exploitant: de eigenaar, rompbevrachter of ieder ander die de zeggenschap heeft over het gebruik van een schip;
 
@@ -155,6 +155,8 @@ Ook bij het ontbreken van uitdrukkelijke voorschriften in dit besluit, worden al
 - c. een vissersschip;
 
 - d. een pleziervaartuig met een lengte van minder dan 45 meter.
+
+10. De kapitein of exploitant van een schip dat behoort tot een bij ministeriële regeling vast te stellen categorie schepen meldt aan de bevoegde instantie de bij die regeling vast te stellen gegevens op een bij die regeling vast te stellen tijdstip voordat met het schip een in Nederland gelegen haven, een in de Nederlandse territoriale zee gelegen offshore-installatie of een ankerplaats ter hoogte van die haven of offshore-installatie wordt aangedaan.
 
 #### Mededelingsplicht
 
@@ -238,7 +240,7 @@ Vervallen
 
 ##### Artikel 15
 
-De bij dit besluit behorende [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&bijlage=2&z=2004-10-29&g=2004-10-29) vermeldt de verkeerstekens ter markering van het vaarwater of van obstakels daarin.
+De bij dit besluit behorende [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&bijlage=2&z=2007-10-20&g=2007-10-20) vermeldt de verkeerstekens ter markering van het vaarwater of van obstakels daarin.
 
 #### Opvolgen van en rekening houden met verkeerstekens en bekendmakingen met dezelfde strekking als een verkeersteken
 
@@ -282,7 +284,7 @@ Vervallen
 
 ##### Artikel 19
 
-Aan een toestemming als bedoeld in de [artikelen 7, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=2&artikel=7&z=2004-10-29&g=2004-10-29), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=2&artikel=8&z=2004-10-29&g=2004-10-29), [12, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=2&artikel=12&z=2004-10-29&g=2004-10-29), en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=2&artikel=13&z=2004-10-29&g=2004-10-29), kunnen voorschriften worden verbonden.
+Aan een toestemming als bedoeld in de [artikelen 7, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=2&artikel=7&z=2007-10-20&g=2007-10-20), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=2&artikel=8&z=2007-10-20&g=2007-10-20), [12, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=2&artikel=12&z=2007-10-20&g=2007-10-20), en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=2&artikel=13&z=2007-10-20&g=2007-10-20), kunnen voorschriften worden verbonden.
 
 #### Paragraaf 6. Strafbepaling
 
@@ -290,7 +292,7 @@ Aan een toestemming als bedoeld in de [artikelen 7, eerste en tweede lid](https:
 
 ##### Artikel 20
 
-Overtreding van de bij of krachtens de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=1&artikel=4&z=2004-10-29&g=2004-10-29), [5, eerste tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=2&artikel=5&z=2004-10-29&g=2004-10-29), [5a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=2&artikel=5a&z=2004-10-29&g=2004-10-29), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=2&artikel=6&z=2004-10-29&g=2004-10-29), [7, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=2&artikel=7&z=2004-10-29&g=2004-10-29), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=2&artikel=8&z=2004-10-29&g=2004-10-29), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=2&artikel=9&z=2004-10-29&g=2004-10-29), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=2&artikel=10&z=2004-10-29&g=2004-10-29), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=2&artikel=11&z=2004-10-29&g=2004-10-29), [12, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=2&artikel=12&z=2004-10-29&g=2004-10-29), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=2&artikel=13&z=2004-10-29&g=2004-10-29), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=4&artikel=16&z=2004-10-29&g=2004-10-29), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=5&artikel=17&z=2004-10-29&g=2004-10-29), en [18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=5&artikel=18&z=2004-10-29&g=2004-10-29), gestelde regels, alsmede overtreding van de aan toestemming verbonden voorschriften, is een strafbaar feit.
+Overtreding van de bij of krachtens de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=1&artikel=4&z=2007-10-20&g=2007-10-20), [5, eerste tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=2&artikel=5&z=2007-10-20&g=2007-10-20), [5a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=2&artikel=5a&z=2007-10-20&g=2007-10-20), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=2&artikel=6&z=2007-10-20&g=2007-10-20), [7, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=2&artikel=7&z=2007-10-20&g=2007-10-20), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=2&artikel=8&z=2007-10-20&g=2007-10-20), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=2&artikel=9&z=2007-10-20&g=2007-10-20), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=2&artikel=10&z=2007-10-20&g=2007-10-20), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=2&artikel=11&z=2007-10-20&g=2007-10-20), [12, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=2&artikel=12&z=2007-10-20&g=2007-10-20), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=2&artikel=13&z=2007-10-20&g=2007-10-20), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=4&artikel=16&z=2007-10-20&g=2007-10-20), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=5&artikel=17&z=2007-10-20&g=2007-10-20), en [18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=5&artikel=18&z=2007-10-20&g=2007-10-20), gestelde regels, alsmede overtreding van de aan toestemming verbonden voorschriften, is een strafbaar feit.
 
 #### Paragraaf 7. Wijzigingen in andere besluiten
 
@@ -354,13 +356,13 @@ Het Besluit informatieverstrekking schepen met bepaalde stoffen wordt ingetrokke
 
 ##### Artikel 30
 
-Na inwerkingtreding van [artikel 22, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=7&artikel=22&z=2004-10-29&g=2004-10-29), van dit besluit, berust de bekendmaking aan de Scheepvaart Scheldemond «Marifoonblokindeling» van de Rijkshavenmeester Westerschelde van 4 november 1994, nr. Bass 134/94 (**Stcrt.** 216) op [artikel 51, eerste, en tweede lid, van het Scheepvaartreglement Westerschelde 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0005393&artikel=51).
+Na inwerkingtreding van [artikel 22, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=7&artikel=22&z=2007-10-20&g=2007-10-20), van dit besluit, berust de bekendmaking aan de Scheepvaart Scheldemond «Marifoonblokindeling» van de Rijkshavenmeester Westerschelde van 4 november 1994, nr. Bass 134/94 (**Stcrt.** 216) op [artikel 51, eerste, en tweede lid, van het Scheepvaartreglement Westerschelde 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0005393&artikel=51).
 
 #### Inwerkingtreding
 
 ##### Artikel 31
 
-De [artikelen 1 tot en met 20](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=1&artikel=1&z=2004-10-29&g=2004-10-29), [artikel 23, onderdeel A, 2°, en onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=7&artikel=23&z=2004-10-29&g=2004-10-29), en de [artikelen 27 tot en met 29](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=8&artikel=27&z=2004-10-29&g=2004-10-29), treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. De [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=7&artikel=21&z=2004-10-29&g=2004-10-29), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=7&artikel=22&z=2004-10-29&g=2004-10-29), [23, onderdeel A, 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=7&artikel=23&z=2004-10-29&g=2004-10-29), en [24 tot en met 26](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=7&artikel=24&z=2004-10-29&g=2004-10-29) treden in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin dit besluit wordt geplaatst.
+De [artikelen 1 tot en met 20](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=1&artikel=1&z=2007-10-20&g=2007-10-20), [artikel 23, onderdeel A, 2°, en onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=7&artikel=23&z=2007-10-20&g=2007-10-20), en de [artikelen 27 tot en met 29](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=8&artikel=27&z=2007-10-20&g=2007-10-20), treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. De [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=7&artikel=21&z=2007-10-20&g=2007-10-20), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=7&artikel=22&z=2007-10-20&g=2007-10-20), [23, onderdeel A, 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=7&artikel=23&z=2007-10-20&g=2007-10-20), en [24 tot en met 26](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=7&artikel=24&z=2007-10-20&g=2007-10-20) treden in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin dit besluit wordt geplaatst.
 
 #### Citeertitel
 
@@ -368,7 +370,7 @@ De [artikelen 1 tot en met 20](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&p
 
 Dit besluit wordt aangehaald als: Scheepvaartreglement territoriale zee.
 
-## Bijlage 1. behorend bij [artikel 2, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=1&artikel=2&z=2004-10-29&g=2004-10-29), van het Scheepvaartreglement territoriale zee
+## Bijlage 1. behorend bij [artikel 2, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=1&artikel=2&z=2007-10-20&g=2007-10-20), van het Scheepvaartreglement territoriale zee
 
 Met betrekking tot het Scheepvaartreglement territoriale zee, worden de navolgende aanloopgebieden onderscheiden:
 
@@ -376,7 +378,7 @@ Met betrekking tot het Scheepvaartreglement territoriale zee, worden de navolgen
 
 - b. het aanloopgebied Brandaris, gevormd door: het zeegat van Terschelling vanaf de ton W. Drawa, de lichtboei SM, de lichtboei TG, de lichtboei Stolzenfels en het punt op de noordkust van Terschelling met de geografische coördinaten 53°23'.38 NB, 05°11'.38 OL;
 
-- c. het aanloopgebied Den Helder, gevormd door: het zeegebied vanaf lichtopstand «grote Kaap» (52°52'.9 NB, 04°42'.9 OL), lichtboei SG, lichtboei ZH, lichtboei MR, lichtboei NH, lichtboei MG en paal 15 op Texel (53°03'.8 NB, 04°43'.4 OL). Van dit gebied is dat gedeelte van de territoriale zee uitgezonderd, dat zich zeewaarts van de in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=1&artikel=1&z=2004-10-29&g=2004-10-29), bedoelde lijn bevindt en dat gemeentelijk is ingedeeld, behoudens in het zeegat dat is gelegen tussen de kop van de provincie Noord-Holland en de zuidpunt van het eiland Texel;
+- c. het aanloopgebied Den Helder, gevormd door: het zeegebied vanaf lichtopstand «grote Kaap» (52°52'.9 NB, 04°42'.9 OL), lichtboei SG, lichtboei ZH, lichtboei MR, lichtboei NH, lichtboei MG en paal 15 op Texel (53°03'.8 NB, 04°43'.4 OL). Van dit gebied is dat gedeelte van de territoriale zee uitgezonderd, dat zich zeewaarts van de in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=1&artikel=1&z=2007-10-20&g=2007-10-20), bedoelde lijn bevindt en dat gemeentelijk is ingedeeld, behoudens in het zeegat dat is gelegen tussen de kop van de provincie Noord-Holland en de zuidpunt van het eiland Texel;
 
 - d. het aanloopgebied **IJmuiden**, gevormd door: het gedeelte van de territoriale zee dat ligt binnen het gebied, begrensd door een lijn die loopt van de positie 52°28'.00 NB, 04°32'.18 OL (referentiepunt), naar positie 52°16'.36 NB, 04°26'.18 OL, vandaar in een zeewaarts gerichte boog met een straal van 12 zeemijlen gerekend vanuit het referentiepunt naar positie 52°39'.36. NB, 04°37'.00 OL;
 
@@ -384,9 +386,9 @@ Met betrekking tot het Scheepvaartreglement territoriale zee, worden de navolgen
 
 - f. het aanloopgebied **Rotterdam**, gevormd door: het zeegebied in de aanloop van de Maasmond, ten noorden begrensd door de lijn vanuit de positie 100 m oostelijk van het havenlicht op de kop van de Noorderdam (51°59'.7 NB, 04°03'.0 OL) via de Indusbank-N boei (52°03'.0 NB, 04°03'.8 OL) naar de positie 52°10'.0 NB, 04°05'.3 OL en vandaar in de richting 280°, ten westen door de territoriale grens en ten zuiden door een lijn vanaf de positie 51°57'.7 NB, 04°00'.5 OL via lichteiland Goeree (51°55'.6 NB, 03°40'.2 OL) naar de territoriale grens;
 
-- g. het aanloopgebied **Scheldemonden**, gevormd door: het in de Nederlandse territoriale zee gelegen gebied ten zuiden van de lijn die loopt van de positie 51°48'.6 NB, 03°51'.6 OL, en vervolgens westwaarts tot aan de grens van de territoriale zee, uitgezonderd het gedeelte van dat gebied dat wordt gevormd door een lijn over de kerktorens van Aagtekerke en Domburg tot de positie 51°37'.0 N, 03°27'.2 O, vandaar naar 51°35'.6 N, 03°23'.3 O, vandaar naar 51°34'.0 N, 03°22'.2 O, vandaar naar 51°24'.7 N, 03°17'.9 O, en vandaar naar grenspaal 369. Van dit gebied is dat gedeelte van de territoriale zee uitgezonderd, dat zich zeewaarts van de in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=1&artikel=1&z=2004-10-29&g=2004-10-29), bedoelde lijn bevindt en dat gemeentelijk is ingedeeld, behoudens in het zeegat dat toegang verschaft tot de Oosterschelde.
+- g. het aanloopgebied **Scheldemonden**, gevormd door: het in de Nederlandse territoriale zee gelegen gebied ten zuiden van de lijn die loopt van de positie 51°48'.6 NB, 03°51'.6 OL, en vervolgens westwaarts tot aan de grens van de territoriale zee, uitgezonderd het gedeelte van dat gebied dat wordt gevormd door een lijn over de kerktorens van Aagtekerke en Domburg tot de positie 51°37'.0 N, 03°27'.2 O, vandaar naar 51°35'.6 N, 03°23'.3 O, vandaar naar 51°34'.0 N, 03°22'.2 O, vandaar naar 51°24'.7 N, 03°17'.9 O, en vandaar naar grenspaal 369. Van dit gebied is dat gedeelte van de territoriale zee uitgezonderd, dat zich zeewaarts van de in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=1&artikel=1&z=2007-10-20&g=2007-10-20), bedoelde lijn bevindt en dat gemeentelijk is ingedeeld, behoudens in het zeegat dat toegang verschaft tot de Oosterschelde.
 
-Aan een toestemming als bedoeld in de [artikelen 7, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=2&artikel=7&z=2004-10-29&g=2004-10-29), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=2&artikel=8&z=2004-10-29&g=2004-10-29), [12, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=2&artikel=12&z=2004-10-29&g=2004-10-29), en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=2&artikel=13&z=2004-10-29&g=2004-10-29), kunnen voorschriften worden verbonden.
+Aan een toestemming als bedoeld in de [artikelen 7, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=2&artikel=7&z=2007-10-20&g=2007-10-20), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=2&artikel=8&z=2007-10-20&g=2007-10-20), [12, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=2&artikel=12&z=2007-10-20&g=2007-10-20), en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=2&artikel=13&z=2007-10-20&g=2007-10-20), kunnen voorschriften worden verbonden.
 
 ## Bijlage 2. Verkeerstekens
 
