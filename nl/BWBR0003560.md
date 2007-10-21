@@ -4,7 +4,7 @@ identifier: "BWBR0003560"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2007-10-21"
-last_updated: "2000-01-01"
+last_updated: "2007-10-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003560"
 soort: "ministeriele-regeling"
@@ -44,53 +44,49 @@ In deze beschikking wordt onder [wet](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 ##### Artikel 2
 
-Het bureau verricht de volgende werkzaamheden en die daarmee verband houdende:
+Het bureau verricht de volgende werkzaamheden alsmede werkzaamheden die daarmee verband houden:
 
-- a. verkrijgen, tijdelijk beheren of vervreemden van onroerende goederen gelegen binnen de grenzen van het in te richten gebied zoals deze zijn vastgesteld in het landinrichtingsprogramma, landinrichtingsplan dan wel aanpassingsplan als bedoeld in respectievelijk artikel 42, eerste lid, artikel 88, onderdeel b, dan wel [artikel 108, eerste lid, van de Landinrichtingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0003793&artikel=108) (Stb. 1985, 299). Indien in een landinrichtingsplan grenzen worden vastgesteld die afwijken van de in het landinrichtingsprogramma vastgestelde grenzen, worden vanaf het moment van vaststelling van het landinrichtingsplan de daarin opgenomen grenzen in aanmerking genomen;
+- a. het verkrijgen, tijdelijk beheren en vervreemden van onroerende zaken gelegen binnen de grenzen van het in te richten gebied, zoals deze zijn vastgesteld in het landinrichtingsplan of het aanpassingsplan, bedoeld in respectievelijk [artikel 73](https://wetten.overheid.nl/jci1.3:c:BWBR0003793&artikel=73) en [artikel 107 van de Landinrichtingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0003793&artikel=107), dan wel het inrichtingsplan, bedoeld in [artikel 17 van de Wet inrichting landelijk gebied](https://wetten.overheid.nl/jci1.3:c:BWBR0020748&artikel=17);
 
-- b. verkrijgen, tijdelijk beheren of vervreemden van onroerende goederen gelegen in een gebied, dat is opgenomen in het Voorbereidingsschema Landinrichting als bedoeld in [artikel 18, eerste lid, van de Landinrichtingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0003793&artikel=18) dan wel in het voorstel tot aanpassingsinrichting als bedoeld in [artikel 97, tweede lid, van de Landinrichtingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0003793&artikel=97);
+- b. het verkrijgen, tijdelijk beheren en vervreemden van onroerende zaken gelegen in een gebied waarin een ruilverkaveling bij overeenkomst als bedoeld in [artikel 17 van de Landinrichtingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&artikel=17) dan wel [artikel 85 van de Wet inrichting landelijk gebied](https://wetten.overheid.nl/jci1.3:c:BWBR0020748&artikel=85) in voorbereiding of in uitvoering is, voor zover dat gebied door de commissie beheer landbouwgronden als aankoopgebied van het bureau is aangewezen;
 
-- c. verkrijgen, tijdelijk beheren of vervreemden van onroerende goederen gelegen in een gebied, waarin een ruilverkaveling bij overeenkomst als bedoeld in [artikel 17 van de Landinrichtingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0003793&artikel=17) in voorbereiding of in uitvoering is, voor zover dat gebied door de commissie beheer landbouwgronden als aankoopgebied van het bureau is aangewezen;
+- c. het verkrijgen, tijdelijk beheren en vervreemden van onroerende zaken gelegen in het gebied Midden-Delfland, bedoeld in [artikel 1 van de Reconstructiewet Midden-Delfland](https://wetten.overheid.nl/jci1.3:c:BWBR0003094&artikel=1);
 
-- d. verkrijgen, tijdelijk beheren of vervreemden van onroerende goederen gelegen in een overeenkomstig Titel 2 van de Regeling reconstructie oude glastuinbouwgebieden (Stcrt. 1979, 64) aangewezen reconstructiegebied;
+- d. het verkrijgen, tijdelijk beheren en vervreemden van onroerende zaken gelegen in de gebieden Oost-Groningen en Gronings-Drentse Veenkoloniën, bedoeld in [artikel 1 van de Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën](https://wetten.overheid.nl/jci1.3:c:BWBR0003143&artikel=1);
 
-- e. verkrijgen, tijdelijk beheren of vervreemden van onroerende goederen gelegen in het gebied Midden-Delfland als bedoeld in [artikel 1 van de Reconstructiewet Midden-Delfland](https://wetten.overheid.nl/jci1.3:c:BWBR0003094&artikel=1) (Stb. 1977, 233);
+- e. het verkrijgen en vervreemden van landbouwgrond ten behoeve van de toepassing van het grondbankstelsel, bedoeld in [titel X van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=X);
 
-- f. verkrijgen, tijdelijk beheren of vervreemden van onroerende goederen gelegen in de gebieden Oost-Groningen en Gronings-Drentse Veenkoloniën als bedoeld in [artikel 1 van de Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën](https://wetten.overheid.nl/jci1.3:c:BWBR0003143&artikel=1) (Stb. 1977, 634);
+- f. het verkrijgen en tijdelijk beheren van onroerende zaken en het vervreemden van deze zaken aan Staatsbosbeheer, indien door de Minister van Landbouw, Natuur en Voedselkwaliteit voor de verkrijging van die zaken een schriftelijke machtiging is gegeven;
 
-- g. verkrijgen en vervreemden van landbouwgrond ten behoeve van de toepassing van het grondbankstelsel als bedoeld in Titel X van de wet;
+- g. het verkrijgen van onroerende zaken ten behoeve van de vorming van de ecologische hoofdstructuur zoals aangegeven op de kaarten 2, 3 en 4 van het tweede rijksmeerjarenprogramma van de Agenda Vitaal Platteland en het tijdelijk beheren van deze zaken en het vervreemden van deze zaken aan Staatsbosbeheer dan wel een particuliere terreinbeherende natuurbeschermingsorganisatie, indien voor de verkrijging van deze zaken door de Minister van Landbouw, Natuur en Voedselkwaliteit respectievelijk door of namens de betrokken natuurbeschermingsorganisatie een schriftelijke machtiging is gegeven;
 
-- h. verkrijgen, tijdelijk beheren of vervreemden van onroerende goederen ten behoeve van de toepassing van het Beëindigingsvergoedingsbesluit van de Stichting Ontwikkelings- en Saneringsfonds voor de Landbouw (Stcrt. 1972, 221);
+- h. het verkrijgen, tijdelijk beheren en vervreemden van onroerende zaken gelegen in een op grond van de Regeling beheersovereenkomsten en natuurontwikkeling vastgesteld beheersgebied, voor zover met betrekking tot die zaken op grond van die regeling een beheersovereenkomst is gesloten;
 
-- i. verkrijgen en tijdelijk beheren van onroerende goederen en deze aan Staatsbosbeheer te vervreemden indien door de Minister van Landbouw, Natuurbeheer en Visserij voor de verkrijging van die goederen een schriftelijke machtiging is gegeven;
+- i. het verkrijgen, tijdelijk beheren en vervreemden van onroerende zaken gelegen in een op grond van de Regeling beheersovereenkomsten en natuurontwikkeling vastgesteld reservaatgebied, of natuurontwikkelingsproject, dan wel gelegen in een bij een dergelijk gebied behorend en in het desbetreffende begrenzingenplan opgenomen aankoopgebied;
 
-- j. verkrijgen en tijdelijk beheren van onroerende goederen ten behoeve van de vorming van reservaten als bedoeld in de Nota betreffende de relatie landbouw en natuur- en landschapsbehoud en deze aan de Staat (Staatsbosbeheer) dan wel particuliere terreinbeherende natuurbeschermings-organisaties te vervreemden indien daartoe respectievelijk overeenkomstig onderdeel i dan wel door of namens de betrokken natuurbeschermingsorganisatie een schriftelijke machtiging is gegeven;
+- j. het verkrijgen, tijdelijk beheren en vervreemden van onroerende zaken, gelegen in een natuurgebied als bedoeld in [artikel 1, onderdeel s, van de Subsidieregeling agrarisch natuurbeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0011000&artikel=1), zoals die luidde op 31 december 2006, onderscheidenlijk [artikel 1, onderdeel s, van de Subsidieregeling agrarisch natuurbeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0011000&artikel=1) van de onderscheiden provincies;
 
-- k. verkrijgen, tijdelijk beheren of vervreemden van onroerende goederen, gelegen in een op grond van de Regeling beheersovereenkomsten en natuurontwikkeling vastgesteld beheersgebied, voorzover met betrekking tot die goederen op grond van die regeling een beheersovereenkomst is gesloten;
+- k. het verkrijgen, tijdelijk beheren en vervreemden van onroerende zaken gelegen in een beheersgebied als bedoeld in [artikel 1, onderdeel n, van de Subsidieregeling agrarisch natuurbeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0011000&artikel=1), zoals die luidde tot 31 december 2006, onderscheidenlijk [artikel 1, onderdeel n, van de Subsidieregeling agrarisch natuurbeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0011000&artikel=1) van de onderscheiden provincies, voor zover met betrekking tot die zaken op grond van die regeling beheerssubsidie is verleend;
 
-- l. verkrijgen, tijdelijk beheren en vervreemden van onroerende goederen, gelegen in een op grond van de Regeling beheersovereenkomsten en natuurontwikkeling vastgesteld reservaatsgebied, dan wel natuurontwikkelingsproject, dan wel gelegen in een bij een dergelijk gebied behorend en in het desbetreffende begrenzingenplan opgenomen aankoopgebied.
+- l. het verkrijgen, tijdelijk beheren en vervreemden van onroerende zaken in het kader van de verwezenlijking van bufferzones, zoals aangegeven op de kaarten 2 en 11 van het tweede rijksmeerjarenprogramma van de Agenda Vitaal Platteland;
 
-- m. verkrijgen, tijdelijk beheren en vervreemden van onroerende goederen, gelegen in een natuurgebied als bedoeld in [artikel 1, onderdeel q](https://wetten.overheid.nl/jci1.3:c:BWBR0003560&artikel=1&z=2000-01-01&g=2000-01-01), van de Subsidieregeling natuurbeheer, dan wel in een aankoopgebied als bedoeld in artikel 1, onderdeel r, van die regeling.
+- m. het verkrijgen, tijdelijk beheren en vervreemden van onroerende zaken in het kader van de verwezenlijking van de Recreatie om de Stad, in de gebieden zoals aangegeven op kaart 11 van het tweede rijksmeerjarenprogramma van de Agenda Vitaal Platteland, indien daarover bij de betrokken publiekrechtelijke lichamen overeenstemming bestaat;
 
-- n. verkrijgen, tijdelijk beheren en vervreemden van onroerende goederen, gelegen in een beheersgebied als bedoeld in artikel 1, onderdeel m, van de Subsidieregeling agrarisch natuurbeheer, voor zover met betrekking tot die goederen op grond van die regeling beheerssubsidie is verleend.
+- n. het verkrijgen, tijdelijk beheren en vervreemden van landbouwgrond bij de uitoefening van het voorkeursrecht, bedoeld in [titel VIII van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=VIII);
 
-- o. verkrijgen, tijdelijk beheren of vervreemden van onroerende goederen in het kader van de verwezelijking van bufferzones zoals nader aangegeven door de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;
+- o. het verkrijgen, tijdelijk beheren en vervreemden van land, voor zover zulks voortvloeit uit de toepassing van de koopplicht, bedoeld in [titel IX van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&titeldeel=IX);
 
-- p. verkrijgen, tijdelijk beheren of vervreemden van onroerende goederen in het kader van de verwezenlijking van de randstadgroenstructuur zoals nader aangegeven door de minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en de Minister van Landbouw, Natuurbeheer en Visserij, indien daarover bij de betrokken publiekrechtelijke lichamen overeenstemming bestaat;
+- p. het onderverpachten van landbouwgrond in het kader van de toepassing van de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&artikel=17) en [19 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&artikel=19);
 
-- q. verkrijgen en tijdelijk beheren van onroerende goederen en deze aan derden te vervreemden,
+- q. het verkrijgen en tijdelijk beheren van onroerende zaken en het vervreemden van deze zaken aan derden;
 
-- r. verkrijgen, tijdelijk beheren of vervreemden van land bij de uitoefening van het voorkeursrechts als bedoeld in Titel VIII van de wet;
+- r. het verkrijgen, tijdelijk beheren en vervreemden van onroerende zaken in opdracht van gedeputeerde staten van een provincie ten behoeve van de realisatie van prestaties overeengekomen in de bestuursovereenkomst, bedoeld in [artikel 7, eerste lid, van de Wet inrichting landelijk gebied](https://wetten.overheid.nl/jci1.3:c:BWBR0020748&artikel=7);
 
-- s. verkrijgen, tijdelijk beheren of vervreemden van land voor zover zulks voortvloeit uit de toepassing van de koopplicht als bedoeld in Titel IX van de wet;
-
-- t. onderverpachten van landbouwgrond in het kader van de toepassing van de artikelen 17 en 19 van de wet;
-
-- u. verkrijgen, tijdelijk beheren en vervreemden van andere onroerende goederen dan voorzien in de onderdelen a tot en met n, indien en voor zover deze goederen kunnen worden aangewend voor de verkrijging van onroerende goederen als bedoeld in de onderdelen a tot en met n.
+- s. het verkrijgen, tijdelijk beheren en vervreemden van andere onroerende zaken dan voorzien in de onderdelen a tot en met k, voor zover deze zaken kunnen worden aangewend voor de verkrijging van onroerende zaken als bedoeld in de onderdelen a tot en met k.
 
 ##### Artikel 3
 
-De beschikking van de Minister van Landbouw en Visserij van 6 september 1977, nr. J. 2176, wordt ingetrokken.
+Vervallen
 
 ##### Artikel 4
 
