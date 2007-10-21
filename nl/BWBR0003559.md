@@ -4,7 +4,7 @@ identifier: "BWBR0003559"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2007-10-21"
-last_updated: "2007-09-01"
+last_updated: "2007-10-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003559"
 soort: "ministeriele-regeling"
@@ -45,35 +45,31 @@ Besluit:
 
 1. In deze beschikking wordt verstaan onder:
 
-- a. **'commissie':** commissie beheer landbouwgronden als bedoeld in artikel 30 van de Wet agrarisch grondverkeer (Stb. 1981, 248);
+- a. **'commissie':** commissie beheer landbouwgronden als bedoeld in [artikel 30 van de Wet agrarisch grondverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&artikel=30);
 
 - b. **'uitgifte':** uitgifte in erfpacht van landbouwgronden door het bureau;
 
 - c. **'aanvrager':** degene, die op de voet van deze beschikking een aanvrage voor uitgifte heeft ingediend;
 
-- d. **'hoofd beheer landbouwgronden':** hoofd beheer landbouwgronden in de provincie, alwaar het bedrijf waarop een aanvraag betrekking heeft, is gevestigd;
+- d. **'sub-commissie':** subcommissie van de provinciale commissie beheer landbouwgronden, als bedoeld in artikel 11, tweede lid, van de Instellingsbeschikking provinciale commissies beheer landbouwgronden (Stcrt. 1982, 236);
 
-- e. **'inspecteur':** inspecteur Landinrichting en Beheer Landbouwgronden;
+- e. **'bedrijfsomvang':** de bedrijfsomvang naar de toestand op het tijdstip van de, bij het indienen van de aanvrage, laatst bekende, in [artikel 24 van de Landbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&artikel=24) bedoelde, landbouwtelling;
 
-- f. **'sub-commissie':** subcommissie van de provinciale commissie beheer landbouwgronden, als bedoeld in artikel 11, tweede lid, van de Instellingsbeschikking provinciale commissies beheer landbouwgronden (Stcrt. 1982, 236);
+- f. **'s.b.e.':** standaardbedrijfseenheden, te weten de door het Landbouw-Economisch Instituut berekende verhoudingsgetallen, die een beoordeling mogelijk maken van de produktie-omvang van het gehele bedrijf, alsmede van de afzonderlijke produktierichtingen, zoals aangegeven op de bij deze beschikking behorende bijlage;
 
-- g. **'bedrijfsomvang':** de bedrijfsomvang naar de toestand op het tijdstip van de, bij het indienen van de aanvrage, laatst bekende, in artikel 24 van de Landbouwwet bedoelde, landbouwtelling;
+- g. **'akkerbouwbedrijf':** bedrijf waarvan de bedrijfsomvang van de sector akkerbouw, in s.b.e. uitgedrukt, ten minste 80% van de totale bedrijfsomvang uitmaakt;
 
-- h. **'s.b.e.':** standaardbedrijfseenheden, te weten de door het Landbouw-Economisch Instituut berekende verhoudingsgetallen, die een beoordeling mogelijk maken van de produktie-omvang van het gehele bedrijf, alsmede van de afzonderlijke produktierichtingen, zoals aangegeven op de bij deze beschikking behorende bijlage;
+- h. **'Landinrichtingcommissie':**commissie als bedoeld in [artikel 27, eerste lid, van de Landinrichtingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0003793&artikel=27);
 
-- i. **'akkerbouwbedrijf':** bedrijf waarvan de bedrijfsomvang van de sector akkerbouw, in s.b.e. uitgedrukt, ten minste 80% van de totale bedrijfsomvang uitmaakt;
+- i. **'directeur':** directeur van het bureau;
 
-- j. **'Landinrichtingcommissie':**commissie als bedoeld in artikel 27, eerste lid, van de Landinrichtingswet;
-
-- k. **'directeur':** directeur van het bureau;
-
-- l. **'besluit':** Besluit grondbankstelsel (Stb. 1982, 692).
+- j. **'besluit':** [Besluit grondbankstelsel](https://wetten.overheid.nl/jci1.3:c:BWBR0003548) (Stb. 1982, 692).
 
 2. Voor de toepassing van deze beschikking wordt:
 
-- a. onder landinrichtingscommissie mede begrepen de reconstructiecommissie als bedoeld in artikel 1 van de Reconstructiewet Midden-Delfland (Stb. 1977, 233) en de herinrichtingscommissie als bedoeld in artikel 1 van de Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën (Stb. 1977, 694);
+- a. onder landinrichtingscommissie mede begrepen de reconstructiecommissie als bedoeld in [artikel 1 van de Reconstructiewet Midden-Delfland](https://wetten.overheid.nl/jci1.3:c:BWBR0003094&artikel=1) en de herinrichtingscommissie als bedoeld in [artikel 1 van de Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën](https://wetten.overheid.nl/jci1.3:c:BWBR0003143&artikel=1);
 
-- b. in afwijking van artikel 1 van de Wet agrarisch grondverkeer onder landbouw niet de bosbouw begrepen.
+- b. in afwijking van [artikel 1 van de Wet agrarisch grondverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&artikel=1) onder landbouw niet de bosbouw begrepen.
 
 ##### Artikel 2
 
@@ -153,7 +149,7 @@ Ten behoeve van het bedrijf mag gedurende een tijdvak van drie jaren onmiddellij
 
 ##### Artikel 8
 
-De bedrijfsoppervlakte mag gedurende een tijdvak van vijf jaren onmiddellijk voorafgaande aan het tijdstip van indiening van de aanvrage niet zijn verkleind, tenzij verkleining heeft plaatsgevonden door onteigening, minnelijke verkoop ter voorkoming van onteigening, een rechterlijke uitspraak ingevolge [artikel 370, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=370), of [377 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=377), een verdeling als bedoeld in [artikel 3:178 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=178), dan wel onderbedeling in het kader van landinrichting als gevolg van toepassing van de [artikelen 139 tot en met 144 van de Landinrichtingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0003793&artikel=139), in het kader van de reconstructie als gevolg van toepassing van [artikel 15 van de Reconstructiewet Midden-Delfland](https://wetten.overheid.nl/jci1.3:c:BWBR0003094&artikel=15) of in het kader van de herinrichting als gevolg van toepassing van [artikel 55 van de Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën](https://wetten.overheid.nl/jci1.3:c:BWBR0003143&artikel=55).
+De bedrijfsoppervlakte mag gedurende een tijdvak van vijf jaren onmiddellijk voorafgaande aan het tijdstip van indiening van de aanvrage niet zijn verkleind, tenzij verkleining heeft plaatsgevonden door onteigening, minnelijke verkoop ter voorkoming van onteigening, een rechterlijke uitspraak ingevolge [artikel 370, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=370), of [377 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=377), een verdeling als bedoeld in [artikel 3:178 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=178), dan wel onderbedeling in het kader van landinrichting als gevolg van toepassing van de [artikelen 139 tot en met 144 van de Landinrichtingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0003793&artikel=139), of van [artikel 56 van de Wet inrichting landelijk gebied](https://wetten.overheid.nl/jci1.3:c:BWBR0020748&artikel=56), in het kader van de reconstructie als gevolg van toepassing van [artikel 15 van de Reconstructiewet Midden-Delfland](https://wetten.overheid.nl/jci1.3:c:BWBR0003094&artikel=15) of in het kader van de herinrichting als gevolg van toepassing van [artikel 55 van de Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën](https://wetten.overheid.nl/jci1.3:c:BWBR0003143&artikel=55).
 
 ##### Artikel 9
 
@@ -177,7 +173,7 @@ De doelstellingen van het landbouwstructuurbeleid mogen door de uitgifte niet in
 
 ##### Artikel 11
 
-In afwijking van het bepaalde in artikel 10, onder b, zal, voor zover één of meer in de uitgifte betrokken percelen zijn gelegen in Midden-Delfland als bedoeld in artikel 1 van de Reconstructiewet Midden-Delfland, een deelgebied als bedoeld in artikel 1 van de Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën, alsmede in een gebied ten aanzien waarvan een besluit tot landinrichting als bedoeld in de hoofdstukken III en IV van de Landinrichtingswet is genomen, uitgifte kunnen plaatsvinden, indien op grond van een schriftelijke verklaring inzake de toedeling van de landinrichtingscommissie na de verwezenlijking van het plan van toedeling de verkavelingssituatie van het bedrijf verantwoord zal zijn.
+In afwijking van [artikel 10, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003559&hoofdstuk=II&titeldeel=I&paragraaf=3&artikel=10&z=2007-10-21&g=2007-10-21), zal, voor zover één of meer in de uitgifte betrokken percelen zijn gelegen in Midden-Delfland als bedoeld in [artikel 1 van de Reconstructiewet Midden-Delfland](https://wetten.overheid.nl/jci1.3:c:BWBR0003094&artikel=1), in een deelgebied, genoemd in [artikel 1 van de Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën](https://wetten.overheid.nl/jci1.3:c:BWBR0003143&artikel=1), in een gebied ten aanzien waarvan een besluit tot landinrichting als bedoeld in de [hoofdstukken III](https://wetten.overheid.nl/jci1.3:c:BWBR0003793&hoofdstuk=III) en [IV van de Landinrichtingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0003793&hoofdstuk=IV) is genomen, of in een gebied ten aanzien waarvan een besluit tot landinrichting als bedoeld in [artikel 17 van de Wet inrichting landelijk gebied](https://wetten.overheid.nl/jci1.3:c:BWBR0020748&artikel=17) is genomen, uitgifte kunnen plaatsvinden, indien blijkens een schriftelijke verklaring inzake de toedeling van de landinrichtingscommissie, respectievelijk van gedeputeerde staten, na de verwezenlijking van het plan van toedeling de verkavelingssituatie van het bedrijf verantwoord zal zijn.
 
 ##### Artikel 12
 
