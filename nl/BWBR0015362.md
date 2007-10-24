@@ -4,7 +4,7 @@ identifier: "BWBR0015362"
 country: "nl"
 rank: "archiefselectielijst"
 publication_date: "2007-10-24"
-last_updated: "2003-10-11"
+last_updated: "2007-10-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0015362"
 soort: "ministeriele-regeling-archiefselectielijst"
@@ -562,44 +562,6 @@ Bron: Jaarverslagen No; vraaggesprek Justitie.
 
 Waardering: B 6.
 
-121
-
-Handeling: Het medewerken aan de behandeling van een zaak door de Nationale ombudsman waarbij uitdrukkelijk een structurele tekortkoming aan de orde is of anderszins sprake is van een beleidsmatige aangelegenheid.
-
-Periode: 1982 -
-
-Grondslag: Medewerking: WNo art. 18 t/m 25.
-
-Bron: Jaarverslagen No; vraaggesprekken BNo, ministerie van Justitie; secundaire literatuur.
-
-Opmerking: Van een beleidsmatige aangelegenheid is bijv. sprake in die gevallen waarin:
-
-* de bevoegdheid van de No, resp. de verantwoordelijkheid van het bestuursorgaan ter discussie staat;
-
-* de informatieverschaffing aan de No ter discussie wordt gesteld (geheimhouding);
-
-* de ernst van de gedraging daartoe noopt;
-
-* een substantiële tegemoetkoming aan klager in het geding is;
-
-* de medewerking niet alleen een uitvoeringsorganisatie geldt maar het bestuursorgaan zelf direct bij de zaak betrokken is.
-
-Waardering: B 7.
-
-122
-
-Handeling: Het medewerken aan de behandeling van een zaak door de Nationale ombudsman waarbij niet uitdrukkelijk een structurele tekortkoming aan de orde is of anderszins sprake is van een beleidsmatige aangelegenheid.
-
-Periode: 1982 -
-
-Grondslag: Medewerking: WNo art. 18 t/m 25.
-
-Bron: Jaarverslagen No; vraaggesprekken BNo, ministerie van Justitie; secundaire literatuur.
-
-Opmerking: Betreft bijv. die gevallen waarin de medewerking alleen een uitvoeringsorganisatie geldt.
-
-Waardering: V 10 jaar.
-
 135
 
 Handeling: Het door middel van algemeen overleg of (nadere) correspondentie met de Nationale ombudsman formuleren van een (nader) standpunt over door hem:
@@ -655,5 +617,45 @@ Bron: Jaarverslagen No; vraaggesprekken BiZa en Justitie.
 Opmerking: Het bestuursorgaan is hier een Minister. De handeling betreft in de praktijk meestal reacties n.a.v. jaarverslag No, soms een kwartaaloverzicht of rapport No; de ombudsmanparagraaf als bijlage van de MvT van een hoofdstuk van de rijksbegroting of berichtgeving van derden (publicaties in de pers) kunnen echter ook een aanleiding vormen.
 
 Waardering: B 2.
+
+Handeling: Het op basis van (gegevens over) uitkomsten van het werk van de Nationale ombudsman bijdragen aan de preventie van klachten bij een of meer betrokken bestuursorganen op het beleidsterrein.
+
+Periode: 1982 -
+
+Bron: Jaarverslagen No.
+
+Opmerking: Het bestuursorgaan is hier een Minister. Betreft bijv. een circulaire aan de korpsbeheerders (1995) met aanbevelingen n.a.v. de geringe doorwerking van beoordelingen door de No.
+
+Waardering: V 10 jaar.
+
+152
+
+Handeling: Het ingevolge een toezegging periodiek verslag doen aan de Staten-Generaal van het eigen handelen in Nationale ombudsman-aangelegenheden.
+
+Periode: Jaren 1980 -
+
+Product: Jaarlijkse ombudsmanparagraaf als bijlage van de MvT van een hoofdstuk van de rijksbegroting.
+
+Bron: Rijksbegrotingen; vraaggesprekken BiZa en Justitie.
+
+Opmerking: Het bestuursorgaan is hier een Minister. De ombudsmanparagraaf geeft een overzicht van de aanbevelingen van de No aan het adres van de Minister en diens reacties daarop.
+
+Waardering: B 2.
+
+153
+
+Handeling: Het desgevraagd nader informeren van (een lid van) een Kamer van de Staten-Generaal in verband met de behandeling van (uitkomsten van) de taakvervulling van de Nationale ombudsman.
+
+Periode: 1982 -
+
+Product: Kamerstukken.
+
+Bron: Jaarverslagen No; vraaggesprekken BiZa en Justitie.
+
+Opmerking: Het bestuursorgaan is hier een Minister. De handeling betreft in de praktijk meestal reacties n.a.v. jaarverslag No, soms een kwartaaloverzicht of rapport No; de ombudsmanparagraaf als bijlage van de MvT van een hoofdstuk van de rijksbegroting of berichtgeving van derden (publicaties in de pers) kunnen echter ook een aanleiding vormen.
+
+Waardering: B 2.
+
+De Minister van Onderwijs, Cultuur en Wetenschappen is belast met de uitvoering van dit besluit dat met de daarbij behorende selectielijst en toelichting in de Staatscourant zal worden geplaatst.
 
 De Minister van Onderwijs, Cultuur en Wetenschappen is belast met de uitvoering van dit besluit dat met de daarbij behorende selectielijst en toelichting in de Staatscourant zal worden geplaatst.
