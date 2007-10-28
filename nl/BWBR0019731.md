@@ -4,7 +4,7 @@ identifier: "BWBR0019731"
 country: "nl"
 rank: "amvb"
 publication_date: "2015-11-01"
-last_updated: "2007-01-01"
+last_updated: "2007-10-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019731"
 soort: "AMvB"
@@ -54,7 +54,7 @@ Hebben goedgevonden en verstaan:
 
 - b. elke beperking door de vennootschap van de overdracht van aandelen of met medewerking van de vennootschap uitgegeven certificaten van aandelen;
 
-- c. deelnemingen in de vennootschap waarvoor een meldingsplicht bestaat overeenkomstig de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008369&artikel=2) en [3 van de Wet melding zeggenschap in ter beurze genoteerde vennootschappen 1996](https://wetten.overheid.nl/jci1.3:c:BWBR0008369&artikel=3);
+- c. deelnemingen in de vennootschap waarvoor een meldingsplicht bestaat overeenkomstig de [artikelen 5:34](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:34), [5:35](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:35) en [5:43 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:43);
 
 - d. bijzondere zeggenschapsrechten verbonden aan aandelen en de naam van de gerechtigde;
 
