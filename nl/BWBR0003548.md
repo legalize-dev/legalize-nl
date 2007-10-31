@@ -4,7 +4,7 @@ identifier: "BWBR0003548"
 country: "nl"
 rank: "amvb"
 publication_date: "2007-10-31"
-last_updated: "1983-01-01"
+last_updated: "2007-10-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003548"
 soort: "AMvB"
@@ -60,19 +60,19 @@ Het bureau kan, voor zover zulks uit financieringsoverwegingen noodzakelijk is, 
 
 - a. opvolging in een bedrijf door één of meer kinderen, aangetrouwde, pleeg- of kleinkinderen, die voor eigen rekening, dan wel met één of meer andere natuurlijke personen voor gezamenlijke rekening, een bedrijf uitoefent, onderscheidenlijk uitoefenen;
 
-- b. uitoefening door de pachter van het voorkeursrecht als bedoeld in paragraaf 9A van de [Pachtwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002269) (**Stb.** 1958, 37);
+- b. uitoefening door de pachter van het voorkeursrecht als bedoeld in [afdeling 11 van titel 5 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&afdeling=11);
 
 - c. vergroting van de bedrijfsoppervlakte.
 
 ##### Artikel 3
 
-1. Onze Minister kan bij in de **Nederlandse Staatscourant** bekend te maken regeling bepalen dat in een of meer gevallen als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003548&artikel=2&z=1983-01-01&g=1983-01-01) geen aanvragen kunnen worden ingediend tot een nader door hem daarbij te bepalen tijdstip.
+1. Onze Minister kan bij in de **Nederlandse Staatscourant** bekend te maken regeling bepalen dat in een of meer gevallen als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003548&artikel=2&z=2007-10-31&g=2007-10-31) geen aanvragen kunnen worden ingediend tot een nader door hem daarbij te bepalen tijdstip.
 
 2. Onze Minister kan in zijn op grond van het eerste lid genomen regeling bepalen dat wel aanvragen om uitgifte in erfpacht kunnen worden ingediend voor landbouwgrond die bestemd is voor de uitgifte en waarvan het bureau de eigendom heeft verworven vóór het tijdstip van de indiening van de aanvrage.
 
 ##### Artikel 4
 
-De in de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003548&artikel=2&z=1983-01-01&g=1983-01-01) bedoelde regelen kunnen onder meer betrekking hebben op:
+De in de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003548&artikel=2&z=2007-10-31&g=2007-10-31) bedoelde regelen kunnen onder meer betrekking hebben op:
 
 - a. de financieringsstructuur van het bedrijf van de aanvrager;
 
