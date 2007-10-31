@@ -4,7 +4,7 @@ identifier: "BWBR0022448"
 country: "nl"
 rank: "amvb"
 publication_date: "2018-01-01"
-last_updated: "2007-09-01"
+last_updated: "2007-10-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022448"
 soort: "AMvB"
@@ -54,7 +54,7 @@ In dit besluit wordt verstaan onder:
 
 - –. bedrijveninformatienet: informatienet, waarin de gegevens worden verzameld, bedoeld in [verordening nr. 79/65/EEG](31965R0079) van de Raad van 15 juni 1965 tot oprichting van een boekhoudkundig informatienet betreffende de inkomens en de bedrijfseconomische positie van de landbouwbedrijven in de Europese Economische Gemeenschap (PbEG 109);
 
-- –. gemiddelde pachtprijs: 50% van de waarde van landbouwgrond in onverpachte staat in het jaar voorafgaand aan het jaar, waarin de regeling, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022448&hoofdstuk=2&paragraaf=1&artikel=2&z=2007-09-01&g=2007-09-01) in werking treedt;
+- –. verpachte waarde: 50% van de waarde van landbouwgrond in onverpachte staat in het jaar voorafgaand aan het jaar, waarin de regeling, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022448&hoofdstuk=2&paragraaf=1&artikel=2&z=2007-10-31&g=2007-10-31) in werking treedt;
 
 - –. Nederlandse grootte-eenheid: maatstaf om de economische omvang van agrarische bedrijven vast te stellen, die is gebaseerd op de bruto standaard saldi, die worden vastgesteld volgens de beschikking nr. 1985/377/EEG van de Europese Commissie van 7 juni 1985 houdende invoering van een communautaire typologie van landbouwbedrijven (PbEG L 220);
 
@@ -64,7 +64,7 @@ In dit besluit wordt verstaan onder:
 
 - –. reële lange kapitaalmarktrente: effectief rendement van de 10-jarige Euro Interest Rate Swap verminderd met de inflatie;
 
-- –. vergoeding voor eigen arbeid: modaal inkomen vastgesteld door het Centraal Planbureau, zoals dat gold in het jaar voorafgaand aan de inwerkingtreding van de regeling van Onze Minister, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022448&hoofdstuk=2&paragraaf=1&artikel=2&z=2007-09-01&g=2007-09-01);
+- –. vergoeding voor eigen arbeid: modaal inkomen vastgesteld door het Centraal Planbureau, zoals dat gold in het jaar voorafgaand aan de inwerkingtreding van de regeling van Onze Minister, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022448&hoofdstuk=2&paragraaf=1&artikel=2&z=2007-10-31&g=2007-10-31);
 
 - –. vrije verkeerswaarde: waarde van land in onverpachte staat die overeenstemt met de prijs bij voortgezet agrarisch gebruik, en die tot stand komt als redelijk handelende partijen op de markt tot koop en verkoop besluiten over te gaan, waarbij de investeringen van de pachter buiten beschouwing worden gelaten.
 
@@ -74,31 +74,31 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 2. (tweejaarlijkse vaststelling hoogst toelaatbare pachtprijs)
 
-1. Bij regeling van Onze Minister wordt met inachtneming van de in de [artikelen 4 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0022448&hoofdstuk=2&paragraaf=2&artikel=4&z=2007-09-01&g=2007-09-01) van dit besluit gestelde regels tweejaarlijks voor elk pachtprijsgebied de hoogst toelaatbare pachtprijs per hectare vastgesteld voor pachtovereenkomsten die worden aangegaan voor land zonder woningen of andere opstallen.
+1. Bij regeling van Onze Minister wordt met inachtneming van de in de [artikelen 4 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0022448&hoofdstuk=2&paragraaf=2&artikel=4&z=2007-10-31&g=2007-10-31) van dit besluit gestelde regels tweejaarlijks voor elk pachtprijsgebied de hoogst toelaatbare pachtprijs per hectare vastgesteld voor pachtovereenkomsten die worden aangegaan voor land zonder woningen of andere opstallen.
 
-2. Bij regeling van Onze Minister wordt met inachtneming van de in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0022448&hoofdstuk=2&paragraaf=2&artikel=10&z=2007-09-01&g=2007-09-01) van dit besluit gestelde regels tweejaarlijks voor elk pachtprijsgebied het percentage vastgesteld waarmee de tussen partijen op grond van een bestaande overeenkomst geldende pachtprijs voor land zonder woningen of andere opstallen wordt gewijzigd.
+2. Bij regeling van Onze Minister wordt met inachtneming van de in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0022448&hoofdstuk=2&paragraaf=2&artikel=10&z=2007-10-31&g=2007-10-31) van dit besluit gestelde regels tweejaarlijks voor elk pachtprijsgebied het percentage vastgesteld waarmee de tussen partijen op grond van een bestaande overeenkomst geldende pachtprijs voor land zonder woningen of andere opstallen wordt gewijzigd.
 
 ##### Artikel 3. (relatie vrije verkeerswaarde)
 
-Indien de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022448&hoofdstuk=2&paragraaf=1&artikel=2&z=2007-09-01&g=2007-09-01) bedoelde pachtprijs meer bedraagt dan 2% van de vrije verkeerswaarde van het desbetreffende land, dan geldt 2% van die waarde voor het desbetreffende land als de hoogst toelaatbare pachtprijs.
+Indien de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022448&hoofdstuk=2&paragraaf=1&artikel=2&z=2007-10-31&g=2007-10-31) bedoelde pachtprijs meer bedraagt dan 2% van de vrije verkeerswaarde van het desbetreffende land, dan geldt 2% van die waarde voor het desbetreffende land als de hoogst toelaatbare pachtprijs.
 
 #### Paragraaf 2. De pachtprijs
 
 ##### Artikel 4. (pachtprijs)
 
-De pachtprijs, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022448&hoofdstuk=2&paragraaf=1&artikel=2&z=2007-09-01&g=2007-09-01), komt overeen met de gemiddelde grondbeloning per hectare in het pachtprijsgebied, die achtereenvolgens:
+De pachtprijs, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022448&hoofdstuk=2&paragraaf=1&artikel=2&z=2007-10-31&g=2007-10-31), komt overeen met de gemiddelde grondbeloning per hectare in het pachtprijsgebied, die achtereenvolgens:
 
 - a. wordt verminderd met 1% van het gemiddelde bedrijfsvermogen in het pachtprijsgebied, en
 
-- b. wordt verminderd of vermeerderd met het percentage voor het rendement van de verpachter, als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0022448&hoofdstuk=2&paragraaf=2&artikel=9&z=2007-09-01&g=2007-09-01) van dit besluit.
+- b. wordt verminderd of vermeerderd met het percentage voor het rendement van de verpachter, als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0022448&hoofdstuk=2&paragraaf=2&artikel=9&z=2007-10-31&g=2007-10-31) van dit besluit.
 
 ##### Artikel 5. (gegevens)
 
-1. Onze Minister hanteert bij het bepalen van de grondbeloning, het bedrijfsvermogen en de laatst betaalde pachtprijs, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0022448&hoofdstuk=2&paragraaf=2&artikel=10&z=2007-09-01&g=2007-09-01), de gegevens van het bedrijveninformatienet.
+1. Onze Minister hanteert bij het bepalen van de grondbeloning, het bedrijfsvermogen en de laatst betaalde pachtprijs, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0022448&hoofdstuk=2&paragraaf=2&artikel=10&z=2007-10-31&g=2007-10-31), de gegevens van het bedrijveninformatienet.
 
 2. Onze Minister hanteert bij het bepalen van de grondbeloning en de bedrijfsreserveringen uitsluitend gegevens van akkerbouw- of melkveebedrijven met een omvang van 70 tot 400 Nederlandse grootte-eenheid. Van elk pachtprijsgebied zijn in het bedrijveninformatienet de gegevens van tenminste 20 bedrijven met de in de eerste volzin bedoelde omvang beschikbaar.
 
-3. Onze Minister hanteert bij het bepalen van de grondbeloning, het bedrijfsvermogen en de laatst betaalde pachtprijs, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0022448&hoofdstuk=2&paragraaf=2&artikel=10&z=2007-09-01&g=2007-09-01), de gegevens van alle bedrijven in het pachtprijsgebied die hem overeenkomstig het eerste en tweede lid ter beschikking staan.
+3. Onze Minister hanteert bij het bepalen van de grondbeloning, het bedrijfsvermogen en de laatst betaalde pachtprijs, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0022448&hoofdstuk=2&paragraaf=2&artikel=10&z=2007-10-31&g=2007-10-31), de gegevens van alle bedrijven in het pachtprijsgebied die hem overeenkomstig het eerste en tweede lid ter beschikking staan.
 
 ##### Artikel 6. (grondbeloning)
 
@@ -110,11 +110,11 @@ De pachtprijs, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci
 
 2. De grondbeloning per hectare wordt bepaald door de grondbeloning te delen door de tot de bedrijfsoppervlakte behorende cultuurgrond.
 
-3. De gemiddelde grondbeloning per hectare is het gemiddelde van de grondbeloning per hectare over de afgelopen vijf jaren voorafgaand aan het jaar, waarin de regeling van Onze Minister, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022448&hoofdstuk=2&paragraaf=1&artikel=2&z=2007-09-01&g=2007-09-01), in werking treedt en waarvan de jaargegevens van alle bedrijven als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0022448&hoofdstuk=2&paragraaf=2&artikel=5&z=2007-09-01&g=2007-09-01), beschikbaar zijn.
+3. De gemiddelde grondbeloning per hectare is het gemiddelde van de grondbeloning per hectare over de afgelopen vijf jaren voorafgaand aan het jaar, waarin de regeling van Onze Minister, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022448&hoofdstuk=2&paragraaf=1&artikel=2&z=2007-10-31&g=2007-10-31), in werking treedt en waarvan de jaargegevens van alle bedrijven als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0022448&hoofdstuk=2&paragraaf=2&artikel=5&z=2007-10-31&g=2007-10-31), beschikbaar zijn.
 
 ##### Artikel 7. (kosten voor grond en niet aangekochte immateriële activa)
 
-1. De kosten voor grond en de kosten voor niet aangekochte immateriële activa, bedoeld in [artikel 6, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0022448&hoofdstuk=2&paragraaf=2&artikel=6&z=2007-09-01&g=2007-09-01), bestaan uit de betaalde pacht en de betaalde financieringslasten verminderd met een berekende vergoeding voor de kosten van aangekochte immateriële activa en overige activa, uitgezonderd grond.
+1. De kosten voor grond en de kosten voor niet aangekochte immateriële activa, bedoeld in [artikel 6, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0022448&hoofdstuk=2&paragraaf=2&artikel=6&z=2007-10-31&g=2007-10-31), bestaan uit de betaalde pacht en de betaalde financieringslasten verminderd met een berekende vergoeding voor de kosten van aangekochte immateriële activa en overige activa, uitgezonderd grond.
 
 2. De vergoeding voor aangekochte immateriële activa wordt bepaald door achtereenvolgens:
 
@@ -138,13 +138,13 @@ De pachtprijs, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci
 
 1. Tot het bedrijfsvermogen worden niet de grond en immateriële activa gerekend.
 
-2. Het gemiddelde bedrijfsvermogen in het pachtprijsgebied is het gemiddelde van het bedrijfsvermogen per bedrijf in het pachtprijsgebied over de afgelopen vijf jaren voorafgaand aan het jaar, waarin de regeling van Onze Minister, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022448&hoofdstuk=2&paragraaf=1&artikel=2&z=2007-09-01&g=2007-09-01), in werking treedt.
+2. Het gemiddelde bedrijfsvermogen in het pachtprijsgebied is het gemiddelde van het bedrijfsvermogen per bedrijf in het pachtprijsgebied over de afgelopen vijf jaren voorafgaand aan het jaar, waarin de regeling van Onze Minister, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022448&hoofdstuk=2&paragraaf=1&artikel=2&z=2007-10-31&g=2007-10-31), in werking treedt.
 
-3. Indien in het jaar voorafgaand aan het jaar, waarin de regeling van Onze Minister, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022448&hoofdstuk=2&paragraaf=1&artikel=2&z=2007-09-01&g=2007-09-01), in werking treedt niet de jaargegevens van alle bedrijven, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0022448&hoofdstuk=2&paragraaf=2&artikel=5&z=2007-09-01&g=2007-09-01), beschikbaar zijn, dan wordt, in zoverre in afwijking van het tweede lid, uitgegaan van het gemiddelde bedrijfsvermogen per bedrijf in het pachtprijsgebied over de afgelopen vijf jaren voorafgaand aan het eerstbedoelde jaar.
+3. Indien in het jaar voorafgaand aan het jaar, waarin de regeling van Onze Minister, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022448&hoofdstuk=2&paragraaf=1&artikel=2&z=2007-10-31&g=2007-10-31), in werking treedt niet de jaargegevens van alle bedrijven, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0022448&hoofdstuk=2&paragraaf=2&artikel=5&z=2007-10-31&g=2007-10-31), beschikbaar zijn, dan wordt, in zoverre in afwijking van het tweede lid, uitgegaan van het gemiddelde bedrijfsvermogen per bedrijf in het pachtprijsgebied over de afgelopen vijf jaren voorafgaand aan het eerstbedoelde jaar.
 
 ##### Artikel 9. (vereiste rendement verpachter)
 
-1. Het percentage voor het rendement van de verpachter, bedoeld in [artikel 4, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0022448&hoofdstuk=2&paragraaf=2&artikel=4&z=2007-09-01&g=2007-09-01), is het correctiepercentage dat is gekoppeld aan de verhouding tussen het vereiste directe rendement van de verpachter en de grondbeloning, zoals weergegeven in onderstaande tabel.
+1. Het percentage voor het rendement van de verpachter, bedoeld in [artikel 4, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0022448&hoofdstuk=2&paragraaf=2&artikel=4&z=2007-10-31&g=2007-10-31), is het correctiepercentage dat is gekoppeld aan de verhouding tussen het vereiste directe rendement van de verpachter en de grondbeloning, zoals weergegeven in onderstaande tabel.
 
 | Vereiste directe rendement/grondbeloning |   | Correctiepercentage grondbeloning |   |
 | --- | --- | --- | --- |
@@ -152,25 +152,25 @@ De pachtprijs, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci
 
 2. Het vereiste directe rendement van de verpachter wordt verkregen door de gemiddelde verpachte waarde per hectare in het pachtprijsgebied te vermenigvuldigen met het percentage van de gemiddelde reële lange kapitaalmarktrente dat is vermeerderd met 1,25 procentpunt.
 
-3. De gemiddelde reële lange kapitaalmarktrente is het gemiddelde van de reële lange kapitaalmarktrente over de drie jaar voorafgaand aan het jaar, waarin de regeling van Onze Minister, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022448&hoofdstuk=2&paragraaf=1&artikel=2&z=2007-09-01&g=2007-09-01), in werking treedt.
+3. De gemiddelde reële lange kapitaalmarktrente is het gemiddelde van de reële lange kapitaalmarktrente over de drie jaar voorafgaand aan het jaar, waarin de regeling van Onze Minister, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022448&hoofdstuk=2&paragraaf=1&artikel=2&z=2007-10-31&g=2007-10-31), in werking treedt.
 
 ##### Artikel 10. (veranderpercentage)
 
-1. Het percentage, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022448&hoofdstuk=2&paragraaf=1&artikel=2&z=2007-09-01&g=2007-09-01), wordt vastgesteld door achtereenvolgens:
+1. Het percentage, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022448&hoofdstuk=2&paragraaf=1&artikel=2&z=2007-10-31&g=2007-10-31), wordt vastgesteld door achtereenvolgens:
 
-- a. de pachtprijs, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022448&hoofdstuk=2&paragraaf=1&artikel=2&z=2007-09-01&g=2007-09-01), te verminderen met de gemiddelde pachtprijs per hectare in het pachtprijsgebied, exclusief vergoedingen voor waterschapslasten, landinrichtingsrente en griffierechten van de grondkamer,
+- a. de pachtprijs, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022448&hoofdstuk=2&paragraaf=1&artikel=2&z=2007-10-31&g=2007-10-31), te verminderen met de gemiddelde pachtprijs per hectare in het pachtprijsgebied, exclusief vergoedingen voor waterschapslasten, landinrichtingsrente en griffierechten van de grondkamer,
 
 - b. het verschil verkregen volgens onderdeel a te delen door de gemiddelde pachtprijs per hectare in het pachtprijsgebied en
 
 - c. de quotiënt te vermenigvuldigen met 100%.
 
-2. Het percentage, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022448&hoofdstuk=2&paragraaf=1&artikel=2&z=2007-09-01&g=2007-09-01), bedraagt ten hoogste 25% in de periode gelegen tussen de inwerkingtreding van dit besluit en in de inwerkingtreding van de regeling, bedoeld in dat artikellid, voor de tweede tweejaarlijkse periode.
+2. Het percentage, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022448&hoofdstuk=2&paragraaf=1&artikel=2&z=2007-10-31&g=2007-10-31), bedraagt ten hoogste 25% in de periode gelegen tussen de inwerkingtreding van dit besluit en in de inwerkingtreding van de regeling, bedoeld in dat artikellid, voor de tweede tweejaarlijkse periode.
 
 #### Paragraaf 3. Tuinland
 
 ##### Artikel 11. (pachtprijs tuinland)
 
-De hoogst toelaatbare pachtprijs en het veranderpercentage, bedoeld in [artikel 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022448&hoofdstuk=2&paragraaf=1&artikel=2&z=2007-09-01&g=2007-09-01), voor tuinland worden vastgesteld door toepassing van de [artikelen 4 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0022448&hoofdstuk=2&paragraaf=2&artikel=4&z=2007-09-01&g=2007-09-01) met inachtneming van de navolgende artikelen.
+De hoogst toelaatbare pachtprijs en het veranderpercentage, bedoeld in [artikel 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022448&hoofdstuk=2&paragraaf=1&artikel=2&z=2007-10-31&g=2007-10-31), voor tuinland worden vastgesteld door toepassing van de [artikelen 4 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0022448&hoofdstuk=2&paragraaf=2&artikel=4&z=2007-10-31&g=2007-10-31) met inachtneming van de navolgende artikelen.
 
 ##### Artikel 12. (gegevens berekening pachtprijs)
 
@@ -184,7 +184,7 @@ De hoogst toelaatbare pachtprijs en het veranderpercentage, bedoeld in [artikel 
 
 ##### Artikel 13
 
-1. De pachtprijs, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022448&hoofdstuk=2&paragraaf=1&artikel=2&z=2007-09-01&g=2007-09-01), voor een boomgaard komt overeen met de prijs die voortvloeit uit de toepassing van de [artikelen 4 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0022448&hoofdstuk=2&paragraaf=2&artikel=4&z=2007-09-01&g=2007-09-01), vermeerderd met een bedrag voor de boomopstand berekend overeenkomstig het tweede tot en met vierde lid.
+1. De pachtprijs, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022448&hoofdstuk=2&paragraaf=1&artikel=2&z=2007-10-31&g=2007-10-31), voor een boomgaard komt overeen met de prijs die voortvloeit uit de toepassing van de [artikelen 4 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0022448&hoofdstuk=2&paragraaf=2&artikel=4&z=2007-10-31&g=2007-10-31), vermeerderd met een bedrag voor de boomopstand berekend overeenkomstig het tweede tot en met vierde lid.
 
 2. Voor een boomopstand, aangelegd en opgekweekt door de pachter, is het in het eerste lid bedoelde bedrag nihil.
 
@@ -206,7 +206,7 @@ De hoogst toelaatbare pachtprijs en het veranderpercentage, bedoeld in [artikel 
 
 1. Bij regeling van Onze Minister wordt tweejaarlijks het percentage vastgesteld waarmee de tussen partijen geldende pachtprijzen voor een tot een boerderij of tuinderij behorende woning of woongedeelte en voor een tot de boerderij of tuinderij behorende arbeiders- of dienstwoning worden gewijzigd.
 
-2. Het percentage, bedoeld in het eerste lid, komt overeen met de indexering die wordt toegepast bij uitvoering van de regels bedoeld in [artikel 14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022448&hoofdstuk=3&artikel=14&z=2007-09-01&g=2007-09-01).
+2. Het percentage, bedoeld in het eerste lid, komt overeen met de indexering die wordt toegepast bij uitvoering van de regels bedoeld in [artikel 14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022448&hoofdstuk=3&artikel=14&z=2007-10-31&g=2007-10-31).
 
 ### Hoofdstuk 4. Bedrijfsgebouwen
 
@@ -237,7 +237,7 @@ De hoogst toelaatbare pachtprijs en het veranderpercentage, bedoeld in [artikel 
 
 ##### Artikel 17. (nieuwe bedrijfsgebouwen of glasopstanden)
 
-1. Indien partijen, hetzij voor het ingaan hetzij tijdens de geldigheidsduur van de pachtovereenkomst, schriftelijk overeenstemming bereiken over de bouw van nieuwe bedrijfsgebouwen of glasopstanden, dan wordt, in afwijking van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0022448&hoofdstuk=4&artikel=16&z=2007-09-01&g=2007-09-01), de hoogst toelaatbare pachtprijs voor deze bedrijfsgebouwen en glasopstanden voor de bij die schriftelijke overeenstemming overeengekomen duur vastgesteld naar de jaarlijkse afschrijving op grondslag van de vervangingswaarde alsmede naar de rente van het geïnvesteerde kapitaal en de eigenaarslasten.
+1. Indien partijen, hetzij voor het ingaan hetzij tijdens de geldigheidsduur van de pachtovereenkomst, schriftelijk overeenstemming bereiken over de bouw van nieuwe bedrijfsgebouwen of glasopstanden, dan wordt, in afwijking van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0022448&hoofdstuk=4&artikel=16&z=2007-10-31&g=2007-10-31), de hoogst toelaatbare pachtprijs voor deze bedrijfsgebouwen en glasopstanden voor de bij die schriftelijke overeenstemming overeengekomen duur vastgesteld naar de jaarlijkse afschrijving op grondslag van de vervangingswaarde alsmede naar de rente van het geïnvesteerde kapitaal en de eigenaarslasten.
 
 2. De vaststelling van de hoogst toelaatbare pachtprijs overeenkomstig het eerste lid blijft van toepassing, ook indien wijziging optreedt in de persoon van de verpachter of van de pachter.
 
@@ -271,11 +271,11 @@ De hoogst toelaatbare pachtprijs en het veranderpercentage, bedoeld in [artikel 
 
 Indien de pachter of de verpachter de grondkamer verzoekt de tegenprestatie te herzien op grond van [artikel 333, tweede of derde lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=333) bepaalt de grondkamer de hoogst toelaatbare pachtprijs:
 
-- a. ten aanzien van een bij de inwerkingtreding van dit besluit bestaande overeenkomst voor land zonder woningen of andere opstallen, door de hoogst toelaatbare pachtprijs berekend overeenkomstig de normen die op grond van het [Pachtnormenbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007614) golden op 31 augustus 2007 te wijzigen met de veranderpercentages, die krachtens [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022448&hoofdstuk=2&paragraaf=1&artikel=2&z=2007-09-01&g=2007-09-01), worden vastgesteld, met inachtneming van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0022448&hoofdstuk=2&paragraaf=1&artikel=3&z=2007-09-01&g=2007-09-01);
+- a. ten aanzien van een bij de inwerkingtreding van dit besluit bestaande overeenkomst voor land zonder woningen of andere opstallen, door de hoogst toelaatbare pachtprijs berekend overeenkomstig de normen die op grond van het [Pachtnormenbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007614) golden op 31 augustus 2007 te wijzigen met de veranderpercentages, die krachtens [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022448&hoofdstuk=2&paragraaf=1&artikel=2&z=2007-10-31&g=2007-10-31), worden vastgesteld, met inachtneming van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0022448&hoofdstuk=2&paragraaf=1&artikel=3&z=2007-10-31&g=2007-10-31);
 
-- b. ten aanzien van een na de inwerkingtreding van dit besluit aangegane overeenkomst, voor land zonder woningen of andere opstallen door de hoogst toelaatbare pachtprijs, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022448&hoofdstuk=2&paragraaf=1&artikel=2&z=2007-09-01&g=2007-09-01), die gold op het moment waarop de overeenkomst is aangegaan te wijzigen met de veranderpercentages, die nadien krachtens [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022448&hoofdstuk=2&paragraaf=1&artikel=2&z=2007-09-01&g=2007-09-01), worden vastgesteld, met inachtneming van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0022448&hoofdstuk=2&paragraaf=1&artikel=3&z=2007-09-01&g=2007-09-01);
+- b. ten aanzien van een na de inwerkingtreding van dit besluit aangegane overeenkomst, voor land zonder woningen of andere opstallen door de hoogst toelaatbare pachtprijs, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022448&hoofdstuk=2&paragraaf=1&artikel=2&z=2007-10-31&g=2007-10-31), die gold op het moment waarop de overeenkomst is aangegaan te wijzigen met de veranderpercentages, die nadien krachtens [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022448&hoofdstuk=2&paragraaf=1&artikel=2&z=2007-10-31&g=2007-10-31), worden vastgesteld, met inachtneming van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0022448&hoofdstuk=2&paragraaf=1&artikel=3&z=2007-10-31&g=2007-10-31);
 
-- c. ten aanzien van overeenkomsten voor agrarische bedrijfsgebouwen, met inachtneming van de bij of krachtens de [artikelen 16 tot en met 20](https://wetten.overheid.nl/jci1.3:c:BWBR0022448&hoofdstuk=4&artikel=16&z=2007-09-01&g=2007-09-01) gestelde regels.
+- c. ten aanzien van overeenkomsten voor agrarische bedrijfsgebouwen, met inachtneming van de bij of krachtens de [artikelen 16 tot en met 20](https://wetten.overheid.nl/jci1.3:c:BWBR0022448&hoofdstuk=4&artikel=16&z=2007-10-31&g=2007-10-31) gestelde regels.
 
 ##### Artikel 22. (omslag waterschapslasten)
 
@@ -303,7 +303,7 @@ De artikelen van dit besluit treden in werking op een bij koninklijk besluit te 
 
 Dit besluit kan worden aangehaald als: Pachtprijzenbesluit 2007.
 
-## Bijlage. Behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022448&hoofdstuk=1&artikel=1&z=2007-09-01&g=2007-09-01) van het Pachtprijzenbesluit 2007
+## Bijlage. Behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022448&hoofdstuk=1&artikel=1&z=2007-10-31&g=2007-10-31) van het Pachtprijzenbesluit 2007
 
 | Regio nr. | Naam |
 | --- | --- |
