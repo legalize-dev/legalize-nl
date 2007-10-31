@@ -4,7 +4,7 @@ identifier: "BWBR0002847"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-06-30"
-last_updated: "2007-08-01"
+last_updated: "2007-10-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002847"
 soort: "AMvB"
@@ -44,65 +44,69 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-Ter uitvoering van de [artikelen 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&artikel=3), en [3a, derde lid, van de Wet aansprakelijkheidsverzekering motorrijtuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&artikel=3a) worden als landen aangewezen:
+Ter uitvoering van de [artikelen 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&artikel=3), en [3a, derde lid, van de Wet aansprakelijkheidsverzekering motorrijtuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&artikel=3a) worden aangewezen de landen:
 
-- a. Andorra;
+a. Andorra;
 
-- b. België;
+b. België;
 
-- c. Bondsrepubliek Duitsland;
+c. Bondsrepubliek Duitsland;
 
-- d. Cyprus;
+d. Bulgarije;
 
-- e. Denemarken, met inbegrip van de Faeröer;
+e. Cyprus;
 
-- f. Estland;
+f. Denemarken, met inbegrip van de Faeröer;
 
-- g. Finland;
+g. Estland;
 
-- h. Frankrijk en Monaco;
+h. Finland;
 
-- i. Griekenland;
+i. Frankrijk en Monaco;
 
-- j. Hongarije;
+j. Griekenland;
 
-- k. Ierland;
+k. Hongarije;
 
-- l. Italië, San Marino en Vaticaanstad;
+l. Ierland;
 
-- m. Kroatië;
+m. Italië, San Marino en Vaticaanstad;
 
-- n. Letland;
+n. Kroatië;
 
-- o. Litouwen;
+o. Letland;
 
-- p. Luxemburg;
+p. Litouwen;
 
-- q. Malta;
+q. Luxemburg;
 
-- r. Noorwegen;
+r. Malta;
 
-- s. Oostenrijk;
+s. Noorwegen;
 
-- t. Polen;
+t. Oostenrijk
 
-- u. Portugal;
+u. Polen;
 
-- v. Slovenië;
+v. Portugal;
 
-- w. Slowaakse Republiek;
+w. Roemenië;
 
-- x. Spanje;
+x. Slovenië;
 
-- y. Tsjechische Republiek;
+y. Slowaakse Republiek;
 
-- z. Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, de Kanaaleilanden, het eiland Man en Gibraltar;
+z. Spanje;
 
-- aa. IJsland;
+aa. Tjechische Republiek;
 
-- bb. Zweden;
+bb. Verenigd Koninkrijk van Groot-Brittanië en Noord-Ierland, de Kanaaleilanden, het eiland Man en Gibraltar;
 
-- cc. Zwitserland en Liechtenstein.
+cc. IJsland;
+
+dd. Zweden;
+
+ee. Zwitserland en Liechtenstein.
 
 ##### Artikel 2
 
@@ -110,6 +114,6 @@ Vervallen
 
 ##### Artikel 3
 
-De onderscheidene bepalingen van dit besluit treden in werking met ingang van door Ons te bepalen tijdstippen, welke ook voor wat de aanwijzing van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002847&artikel=1&z=2006-04-26&g=2007-08-01) genoemde landen betreft verschillend kunnen zijn.
+De onderscheidene bepalingen van dit besluit treden in werking met ingang van door Ons te bepalen tijdstippen, welke ook voor wat de aanwijzing van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002847&artikel=1&z=2007-10-31&g=2007-10-31) genoemde landen betreft verschillend kunnen zijn.
 
 Onze Minister van Justitie is belast met de uitvoering van dit besluit dat in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State.
