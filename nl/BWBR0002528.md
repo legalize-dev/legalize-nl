@@ -4,7 +4,7 @@ identifier: "BWBR0002528"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-01-01"
-last_updated: "1966-06-23"
+last_updated: "2007-10-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002528"
 soort: "AMvB"
@@ -54,7 +54,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 2
 
-1. Bij het vaststellen van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002528&artikel=1&z=1966-06-23&g=1966-06-23) bedoelde waarde van de zaak of van het gevorderde recht alsmede bij het vaststellen van het bedrag der in dat artikel bedoelde bijkomende schade wordt rekening gehouden met prijsvoorschriften, die van overheidswege zijn gegeven betreffende zaken waarop de vordering betrekking heeft.
+1. Bij het vaststellen van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002528&artikel=1&z=2007-10-31&g=2007-10-31) bedoelde waarde van de zaak of van het gevorderde recht alsmede bij het vaststellen van het bedrag der in dat artikel bedoelde bijkomende schade wordt rekening gehouden met prijsvoorschriften, die van overheidswege zijn gegeven betreffende zaken waarop de vordering betrekking heeft.
 
 2. Bij zodanige vaststelling wordt geen rekening gehouden met andere voordelen dan prijsstijging, die het gevolg zijn geweest van buitengewone omstandigheden, welke tot toepassing van [artikel 3 van de Vorderingswet 1962](https://wetten.overheid.nl/jci1.3:c:BWBR0002393&artikel=3) (**Stb.** 587) aanleiding hebben gegeven, in het algemeen of van vordering van soortgelijke zaken als waarop de die schade veroorzakende vordering betrekking heeft, in het bijzonder.
 
@@ -68,9 +68,9 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 4
 
-1. In geval van vordering van een recht tot gebruik van een onroerende zaak wordt de waarde van het gevorderde recht vastgesteld op de huurwaarde van de zaak naar de maatstaven van de artikelen 7 en 8 van de Wet op de personele belasting 1950 (**Stb.** 598) of de pachtwaarde van de zaak naar de maatstaven van de ter uitvoering van de [artikelen 3, eerste lid, en 4 van de Pachtwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002269&artikel=3) (**Stb.** 1958, 37) gestelde regelen.
+1. In geval van vordering van een recht tot gebruik van een onroerende zaak wordt de waarde van het gevorderde recht vastgesteld op de huurwaarde van de zaak naar de maatstaven van de artikelen 7 en 8 van de Wet op de personele belasting 1950 (**Stb.** 598) of de pachtwaarde van de zaak naar de maatstaven van de ter uitvoering van [artikel 327 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=327) gestelde regelen.
 
-2. In een geval, als in het eerste lid bedoeld, wordt een schadeloosstelling verminderd met de kosten van het onderhoud van de zaak, hetwelk ingevolge het Burgerlijk Wetboek, onderscheidenlijk par. 6 van de [Pachtwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002269), ten laste komt van degene, die op die schadeloosstelling recht heeft, indien en voor zover bij gebreke van zodanig onderhoud door hem dit plaatsheeft door degene, te wiens behoeve de vordering is geschied.
+2. In een geval, als in het eerste lid bedoeld, wordt een schadeloosstelling verminderd met de kosten van het onderhoud van de zaak, hetwelk ingevolge het Burgerlijk Wetboek ten laste komt van degene, die op die schadeloosstelling recht heeft, indien en voor zover bij gebreke van zodanig onderhoud door hem dit plaatsheeft door degene, te wiens behoeve de vordering is geschied.
 
 3. Indien het gevorderde gebruiksrecht een beperkte inhoud heeft, wordt de waarde van het gevorderde recht naar evenredigheid verminderd.
 
@@ -84,19 +84,19 @@ In geval van vordering van een recht tot gebruik van een roerende zaak wordt de 
 
 - c. in andere gevallen: op een bedrag, bestaande uit
 
-- 1. een bedrag, over de duur van het recht tot gebruik berekend naar 6% 's jaars van de waarde der zaak, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002528&artikel=3&z=1966-06-23&g=1966-06-23), en
+- 1. een bedrag, over de duur van het recht tot gebruik berekend naar 6% 's jaars van de waarde der zaak, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002528&artikel=3&z=2007-10-31&g=2007-10-31), en
 
 - 2. een vergoeding voor de waardevermindering van de zaak, die bij normaal gebruik tijdens die duur ontstaat.
 
 ##### Artikel 6
 
-1. Een met toepassing van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002528&artikel=4&z=1966-06-23&g=1966-06-23) of 5 vastgestelde schadeloosstelling wordt vermeerderd met een vergoeding voor een als gevolg van het gebruik van de zaak ontstane meer dan normale waardevermindering daarvan.
+1. Een met toepassing van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002528&artikel=4&z=2007-10-31&g=2007-10-31) of 5 vastgestelde schadeloosstelling wordt vermeerderd met een vergoeding voor een als gevolg van het gebruik van de zaak ontstane meer dan normale waardevermindering daarvan.
 
 2. In dat geval wordt de schadeloosstelling doorbetaald over de tijd, welke redelijkerwijs nodig is voor het herstel van bedoelde waardevermindering, voor zover dit plaatsvindt en dientengevolge het gebruik van de zaak wordt belemmerd.
 
 ##### Artikel 7
 
-Op een met toepassing van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002528&artikel=4&z=1966-06-23&g=1966-06-23) of 5 vastgestelde schadeloosstelling wordt in mindering gebracht de waardevermeerdering van de zaak, welke is ontstaan als gevolg van het gebruik daarvan en ten goede komt aan degene, die op die schadeloosstelling recht heeft.
+Op een met toepassing van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002528&artikel=4&z=2007-10-31&g=2007-10-31) of 5 vastgestelde schadeloosstelling wordt in mindering gebracht de waardevermeerdering van de zaak, welke is ontstaan als gevolg van het gebruik daarvan en ten goede komt aan degene, die op die schadeloosstelling recht heeft.
 
 ##### Artikel 8
 
