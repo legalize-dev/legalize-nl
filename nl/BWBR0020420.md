@@ -4,7 +4,7 @@ identifier: "BWBR0020420"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-11-19"
-last_updated: "2007-01-01"
+last_updated: "2007-11-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020420"
 soort: "AMvB"
@@ -244,27 +244,17 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 2
 
-De [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=1&artikel=1&z=2007-01-01&g=2007-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=1&artikel=4&z=2007-01-01&g=2007-01-01), [5 tot en met 25](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=2&artikel=5&z=2007-01-01&g=2007-01-01), [27 tot en met 31](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=5&artikel=27&z=2007-01-01&g=2007-01-01), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=6&artikel=35&z=2007-01-01&g=2007-01-01), [48](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=9&paragraaf=9.1&artikel=48&z=2007-01-01&g=2007-01-01), [50](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=9&paragraaf=9.2&artikel=50&z=2007-01-01&g=2007-01-01), [59 tot en met 62](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=59&z=2007-01-01&g=2007-01-01), [89 tot en met 94](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=89&z=2007-01-01&g=2007-01-01), [102](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.8&artikel=102&z=2007-01-01&g=2007-01-01), [103](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.8&artikel=103&z=2007-01-01&g=2007-01-01), [138](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=15&artikel=138&z=2007-01-01&g=2007-01-01), [139](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=15&artikel=139&z=2007-01-01&g=2007-01-01), en [145](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=16&artikel=145&z=2007-01-01&g=2007-01-01) zijn, voor zover zij betrekking hebben op banken, van overeenkomstige toepassing op financiële instellingen die beschikken over een verklaring van ondertoezichtstelling als bedoeld in [artikel 3:110 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:110).
+De [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=1&artikel=1&z=2007-11-01&g=2007-11-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=1&artikel=4&z=2007-11-01&g=2007-11-01), [5 tot en met 25](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=2&artikel=5&z=2007-11-01&g=2007-11-01), [27 tot en met 31](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=5&artikel=27&z=2007-11-01&g=2007-11-01), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=6&artikel=35&z=2007-11-01&g=2007-11-01), [48](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=9&paragraaf=9.1&artikel=48&z=2007-11-01&g=2007-11-01), [50](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=9&paragraaf=9.2&artikel=50&z=2007-11-01&g=2007-11-01), [59 tot en met 62](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=59&z=2007-11-01&g=2007-11-01), [89 tot en met 94](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=89&z=2007-11-01&g=2007-11-01), [102](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.8&artikel=102&z=2007-11-01&g=2007-11-01), [103](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.8&artikel=103&z=2007-11-01&g=2007-11-01), [138](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=15&artikel=138&z=2007-11-01&g=2007-11-01), [139](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=15&artikel=139&z=2007-11-01&g=2007-11-01), en [145](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=16&artikel=145&z=2007-11-01&g=2007-11-01) zijn, voor zover zij betrekking hebben op banken, van overeenkomstige toepassing op financiële instellingen die beschikken over een verklaring van ondertoezichtstelling als bedoeld in [artikel 3:110 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:110).
 
 ##### Artikel 3
 
-1. De [hoofdstukken 9](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=9&z=2007-01-01&g=2007-01-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&z=2007-01-01&g=2007-01-01) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=13&z=2007-01-01&g=2007-01-01) zijn niet van toepassing op:
-
-- a. plaatselijke ondernemingen, met dien verstande dat [hoofdstuk 9](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=9&z=2007-01-01&g=2007-01-01) wel van toepassing is op plaatselijke ondernemingen die vanuit een bijkantoor in een andere lidstaat of door middel van het verrichten van diensten naar een andere lidstaat beleggingsdiensten mogen verlenen; en
-
-- b. beleggingsondernemingen die:
-
-- 1°. op een gereglementeerde markt uitsluitend handelen voor eigen rekening, anders dan door middel van het verrichten van transacties met betrekking tot financiële instrumenten teneinde een markt in financiële instrumenten te onderhouden, voorzover de uitvoering en afwikkeling van de transacties geschieden onder de verantwoordelijkheid van en worden gegarandeerd door een clearinginstelling met zetel in Nederland; en
-
-- 2°. niet vanuit een bijkantoor of door middel van het verrichten van diensten beleggingsdiensten in, onderscheidenlijk naar een andere lidstaat mogen verlenen.
-
-2. [Hoofdstuk 10](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&z=2007-01-01&g=2007-01-01) is niet van toepassing op beleggingsondernemingen die uitsluitend de beleggingsdienst, bedoeld in onderdeel a van de definitie van verlenen van een beleggingsdienst in [artikel 1:1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1) verlenen. In afwijking van [artikel 130](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=13&paragraaf=13.2&artikel=130&z=2007-01-01&g=2007-01-01) verstrekt een beleggingsonderneming als bedoeld in de vorige volzin slechts staten ten behoeve van het toezicht op de naleving van de regels met betrekking tot het minimum vermogen ingevolge de [artikelen 3:53, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:53), en [3:54, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:54). De [artikelen 131 tot en met 133](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=13&paragraaf=13.2&artikel=131&z=2007-01-01&g=2007-01-01) zijn van overeenkomstige toepassing.
+[Hoofdstuk 10](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&z=2007-11-01&g=2007-11-01) is niet van toepassing op beleggingsondernemingen die uitsluitend een beleggingsdienst als bedoeld in onderdeel a of d van de definitie van verlenen van een beleggingsdienst in [artikel 1:1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1) verlenen. In afwijking van [artikel 130](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=13&paragraaf=13.2&artikel=130&z=2007-11-01&g=2007-11-01) verstrekt een beleggingsonderneming als bedoeld in de vorige volzin slechts staten ten behoeve van het toezicht op de naleving van de regels met betrekking tot het minimum vermogen ingevolge de [artikelen 3:53, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:53), en [3:54, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:54). De [artikelen 131 tot en met 133](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=13&paragraaf=13.2&artikel=131&z=2007-11-01&g=2007-11-01) zijn van overeenkomstige toepassing.
 
 ##### Artikel 4
 
-1. Berekeningen met betrekking tot het minimumbedrag aan eigen vermogen, de solvabiliteit en de liquiditeit op grond van de [hoofdstukken 9](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=9&z=2007-01-01&g=2007-01-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&z=2007-01-01&g=2007-01-01) onderscheidenlijk [11](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=11&z=2007-01-01&g=2007-01-01) worden, voor zover niet anders is bepaald, gedaan op basis van de enkelvoudige jaarrekening zoals opgemaakt ingevolge [Titel 9 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9) of de internationale jaarrekeningstandaarden.
+1. Berekeningen met betrekking tot het minimumbedrag aan eigen vermogen, de solvabiliteit en de liquiditeit op grond van de [hoofdstukken 9](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=9&z=2007-11-01&g=2007-11-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&z=2007-11-01&g=2007-11-01) onderscheidenlijk [11](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=11&z=2007-11-01&g=2007-11-01) worden, voor zover niet anders is bepaald, gedaan op basis van de enkelvoudige jaarrekening zoals opgemaakt ingevolge [Titel 9 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9) of de internationale jaarrekeningstandaarden.
 
-2. Berekeningen met betrekking tot de solvabiliteit van kredietinstellingen op grond van [hoofdstuk 10](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&z=2007-01-01&g=2007-01-01) en de liquiditeit van banken op grond van [hoofdstuk 11](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=11&z=2007-01-01&g=2007-01-01) worden, voor zover niet anders is bepaald, gedaan op basis van de geconsolideerde jaarrekening indien deze wordt opgemaakt ingevolge [Titel 9 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9) of de internationale jaarrekeningstandaarden.
+2. Berekeningen met betrekking tot de solvabiliteit van kredietinstellingen op grond van [hoofdstuk 10](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&z=2007-11-01&g=2007-11-01) en de liquiditeit van banken op grond van [hoofdstuk 11](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=11&z=2007-11-01&g=2007-11-01) worden, voor zover niet anders is bepaald, gedaan op basis van de geconsolideerde jaarrekening indien deze wordt opgemaakt ingevolge [Titel 9 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9) of de internationale jaarrekeningstandaarden.
 
 ### Hoofdstuk 2. Betrouwbaarheid
 
@@ -274,21 +264,21 @@ De Nederlandsche Bank stelt vast of de betrouwbaarheid van een persoon als bedoe
 
 ##### Artikel 6
 
-De Nederlandsche Bank neemt bij de vaststelling, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=2&artikel=5&z=2007-01-01&g=2007-01-01), in ieder geval in aanmerking:
+De Nederlandsche Bank neemt bij de vaststelling, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=2&artikel=5&z=2007-11-01&g=2007-11-01), in ieder geval in aanmerking:
 
-- a. de in de [onderdelen 1 en 2 van Bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&bijlage=A&z=2007-01-01&g=2007-01-01) genoemde strafrechtelijke antecedenten;
+- a. de in de [onderdelen 1 en 2 van Bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&bijlage=A&z=2007-11-01&g=2007-11-01) genoemde strafrechtelijke antecedenten;
 
-- b. de in [onderdeel 3 van Bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&bijlage=A&z=2007-01-01&g=2007-01-01) genoemde financiële antecedenten;
+- b. de in [onderdeel 3 van Bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&bijlage=A&z=2007-11-01&g=2007-11-01) genoemde financiële antecedenten;
 
-- c. de in [onderdeel 4 van Bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&bijlage=A&z=2007-01-01&g=2007-01-01) genoemde toezichtantecedenten;
+- c. de in [onderdeel 4 van Bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&bijlage=A&z=2007-11-01&g=2007-11-01) genoemde toezichtantecedenten;
 
-- d. de in [onderdeel 5 van Bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&bijlage=A&z=2007-01-01&g=2007-01-01) genoemde fiscaal bestuursrechtelijke antecedenten; en
+- d. de in [onderdeel 5 van Bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&bijlage=A&z=2007-11-01&g=2007-11-01) genoemde fiscaal bestuursrechtelijke antecedenten; en
 
-- e. de in [onderdeel 6 van Bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&bijlage=A&z=2007-01-01&g=2007-01-01) genoemde overige antecedenten.
+- e. de in [onderdeel 6 van Bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&bijlage=A&z=2007-11-01&g=2007-11-01) genoemde overige antecedenten.
 
 ##### Artikel 7
 
-1. De Nederlandsche Bank verkrijgt inzicht in de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=2&artikel=5&z=2007-01-01&g=2007-01-01) bedoelde voornemens, handelingen en antecedenten op grond van:
+1. De Nederlandsche Bank verkrijgt inzicht in de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=2&artikel=5&z=2007-11-01&g=2007-11-01) bedoelde voornemens, handelingen en antecedenten op grond van:
 
 - a. door betrokkene verstrekte gegevens en inlichtingen;
 
@@ -306,7 +296,7 @@ De Nederlandsche Bank neemt bij de vaststelling, bedoeld in [artikel 5](https://
 
 - h. gegevens uit openbare bronnen;
 
-- i. inlichtingen, verkregen van curatoren of bewindvoerders met betrekking tot faillissementen, surseances, schuldsaneringen, bewindvoeringen of noodregelingen waarbij de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=2&artikel=5&z=2007-01-01&g=2007-01-01) bedoelde persoon betrokken is geweest;
+- i. inlichtingen, verkregen van curatoren of bewindvoerders met betrekking tot faillissementen, surseances, schuldsaneringen, bewindvoeringen of noodregelingen waarbij de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=2&artikel=5&z=2007-11-01&g=2007-11-01) bedoelde persoon betrokken is geweest;
 
 - j. inlichtingen, verkregen van organisaties van huidige of voormalige beroepsgenoten van betrokkene; of
 
@@ -322,11 +312,11 @@ De Nederlandsche Bank neemt bij de vaststelling, bedoeld in [artikel 5](https://
 
 ##### Artikel 8
 
-De betrouwbaarheid van een persoon als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=2&artikel=5&z=2007-01-01&g=2007-01-01) staat niet buiten twijfel als deze veroordeeld is terzake van een misdrijf, genoemd in [onderdeel 1 van bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&bijlage=A&z=2007-01-01&g=2007-01-01), tenzij er sinds het onherroepelijk worden van de uitspraak acht jaren of meer zijn verstreken.
+De betrouwbaarheid van een persoon als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=2&artikel=5&z=2007-11-01&g=2007-11-01) staat niet buiten twijfel als deze veroordeeld is terzake van een misdrijf, genoemd in [onderdeel 1 van bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&bijlage=A&z=2007-11-01&g=2007-11-01), tenzij er sinds het onherroepelijk worden van de uitspraak acht jaren of meer zijn verstreken.
 
 ##### Artikel 9
 
-De Nederlandsche Bank neemt bij de vaststelling, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=2&artikel=5&z=2007-01-01&g=2007-01-01), in aanmerking:
+De Nederlandsche Bank neemt bij de vaststelling, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=2&artikel=5&z=2007-11-01&g=2007-11-01), in aanmerking:
 
 - a. het onderlinge verband tussen de aan een antecedent ten grondslag liggende gedraging of gedragingen en de overige omstandigheden van het geval;
 
@@ -346,9 +336,9 @@ De Nederlandsche Bank neemt bij de vaststelling, bedoeld in [artikel 5](https://
 
 4. De financiële onderneming, onderscheidenlijk het bijkantoor, draagt zorg voor de uitvoering en de systematische toetsing van het beleid en de procedures en maatregelen.
 
-5. De financiële onderneming, onderscheidenlijk het bijkantoor, draagt zorg voor onafhankelijk toezicht op de uitvoering van het beleid en de procedures en maatregelen met betrekking tot de integere uitoefening van het bedrijf en beschikt over procedures die erin voorzien dat gesignaleerde tekortkomingen of gebreken worden gerapporteerd aan de personen belast met de taak, bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=4&paragraaf=4.1&artikel=21&z=2007-01-01&g=2007-01-01).
+5. De financiële onderneming, onderscheidenlijk het bijkantoor, draagt zorg voor onafhankelijk toezicht op de uitvoering van het beleid en de procedures en maatregelen met betrekking tot de integere uitoefening van het bedrijf en beschikt over procedures die erin voorzien dat gesignaleerde tekortkomingen of gebreken worden gerapporteerd aan de personen belast met de taak, bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=4&paragraaf=4.1&artikel=21&z=2007-11-01&g=2007-11-01).
 
-6. De financiële onderneming, onderscheidenlijk het bijkantoor, beschikt over procedures die erin voorzien dat gesignaleerde tekortkomingen of gebreken met betrekking tot de integere uitoefening van het bedrijf onder toezicht van de personen belast met de taak, bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=4&paragraaf=4.1&artikel=21&z=2007-01-01&g=2007-01-01), tot een gepaste bijstelling leiden.
+6. De financiële onderneming, onderscheidenlijk het bijkantoor, beschikt over procedures die erin voorzien dat gesignaleerde tekortkomingen of gebreken met betrekking tot de integere uitoefening van het bedrijf onder toezicht van de personen belast met de taak, bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=4&paragraaf=4.1&artikel=21&z=2007-11-01&g=2007-11-01), tot een gepaste bijstelling leiden.
 
 ##### Artikel 11
 
@@ -372,7 +362,7 @@ De Nederlandsche Bank neemt bij de vaststelling, bedoeld in [artikel 5](https://
 
 ##### Artikel 12
 
-1. Een clearinginstelling, kredietinstelling, verzekeraar of bijkantoor als bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=3&artikel=11&z=2007-01-01&g=2007-01-01), beschikt over procedures en maatregelen met betrekking tot de omgang met en vastlegging van incidenten.
+1. Een clearinginstelling, kredietinstelling, verzekeraar of bijkantoor als bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=3&artikel=11&z=2007-11-01&g=2007-11-01), beschikt over procedures en maatregelen met betrekking tot de omgang met en vastlegging van incidenten.
 
 2. De financiële onderneming, onderscheidenlijk het bijkantoor, neemt naar aanleiding van een incident maatregelen die zijn gericht op het beheersen van de opgetreden risico’s en het voorkomen van herhaling.
 
@@ -380,13 +370,13 @@ De Nederlandsche Bank neemt bij de vaststelling, bedoeld in [artikel 5](https://
 
 ##### Artikel 13
 
-1. Een clearinginstelling, kredietinstelling, verzekeraar of bijkantoor als bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=3&artikel=11&z=2007-01-01&g=2007-01-01), maakt een onderbouwde beoordeling van de betrouwbaarheid van personen die zij wil benoemen in een integriteitsgevoelige functie.
+1. Een clearinginstelling, kredietinstelling, verzekeraar of bijkantoor als bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=3&artikel=11&z=2007-11-01&g=2007-11-01), maakt een onderbouwde beoordeling van de betrouwbaarheid van personen die zij wil benoemen in een integriteitsgevoelige functie.
 
 2. De financiële onderneming, onderscheidenlijk het bijkantoor, draagt zorg voor de beoordeling van de betrouwbaarheid van degenen die, anders dan op grond van een arbeidsovereenkomst, werkzaamheden in een integriteitgevoelige functie verrichten.
 
 ##### Artikel 14
 
-1. Een kredietinstelling, verzekeraar of bijkantoor als bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=3&artikel=11&z=2007-01-01&g=2007-01-01), beschikt met het oog op een integere uitoefening van het bedrijf over procedures en maatregelen met betrekking tot de acceptatie van cliënten.
+1. Een kredietinstelling, verzekeraar of bijkantoor als bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=3&artikel=11&z=2007-11-01&g=2007-11-01), beschikt met het oog op een integere uitoefening van het bedrijf over procedures en maatregelen met betrekking tot de acceptatie van cliënten.
 
 2. Onverminderd het bepaalde ingevolge de [Wet identificatie bij dienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0006330) beschikt de kredietinstelling of verzekeraar, onderscheidenlijk het bijkantoor, over procedures en maatregelen met betrekking tot het vaststellen van de identiteit van cliënten en van de verificatie daarvan. De kredietinstelling, verzekeraar, onderscheidenlijk het bijkantoor, accepteert een cliënt niet indien de identiteit niet is vastgesteld overeenkomstig het daarvoor opgestelde beleid.
 
@@ -400,7 +390,7 @@ De Nederlandsche Bank neemt bij de vaststelling, bedoeld in [artikel 5](https://
 
 ##### Artikel 15
 
-1. Een kredietinstelling of bijkantoor van een kredietinstelling als bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=3&artikel=11&z=2007-01-01&g=2007-01-01), beschikt over procedures met betrekking tot de verstrekking van back-to-back leningen.
+1. Een kredietinstelling of bijkantoor van een kredietinstelling als bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=3&artikel=11&z=2007-11-01&g=2007-11-01), beschikt over procedures met betrekking tot de verstrekking van back-to-back leningen.
 
 2. Indien de kredietinstelling of het bijkantoor voornemens is een back-to-back lening te verstrekken, onderzoekt zij of het krediet voor legitieme doeleinden gebruikt zal worden.
 
@@ -408,7 +398,7 @@ De Nederlandsche Bank neemt bij de vaststelling, bedoeld in [artikel 5](https://
 
 ##### Artikel 16
 
-1. Een financiële onderneming of bijkantoor als bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=3&artikel=11&z=2007-01-01&g=2007-01-01), onderzoekt, op verzoek van de Nederlandsche Bank, of in haar administratie bepaalde personen of instellingen voorkomen die naar het oordeel van Onze Minister, in verband met vermoede terroristische activiteiten of daarmee verband houdende activiteiten, de integriteit van de financiële sector kunnen schaden.
+1. Een financiële onderneming of bijkantoor als bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=3&artikel=11&z=2007-11-01&g=2007-11-01), onderzoekt, op verzoek van de Nederlandsche Bank, of in haar administratie bepaalde personen of instellingen voorkomen die naar het oordeel van Onze Minister, in verband met vermoede terroristische activiteiten of daarmee verband houdende activiteiten, de integriteit van de financiële sector kunnen schaden.
 
 2. De financiële onderneming verstrekt de uitkomst van het in het eerste lid bedoelde onderzoek, binnen een door de Nederlandsche Bank te stellen termijn, aan de Nederlandsche Bank.
 
@@ -434,19 +424,19 @@ De Nederlandsche Bank neemt bij de vaststelling, bedoeld in [artikel 5](https://
 
 3. De bedrijfsvoering wordt op een inzichtelijke wijze vastgelegd.
 
-4. De effectiviteit van de organisatie-inrichting en van de procedures en maatregelen wordt intern onafhankelijk getoetst. De financiële onderneming of bijkantoor voorziet erin dat gesignaleerde tekortkomingen worden opgeheven.
+4. De effectiviteit van de organisatie-inrichting en van de procedures en maatregelen wordt ten minste jaarlijks op onafhankelijke wijze getoetst. Daartoe beschikt de financiële onderneming of het bijkantoor over een organisatieonderdeel dat deze interne controlefunctie uitoefent. De financiële onderneming of bijkantoor voorziet erin dat gesignaleerde tekortkomingen worden opgeheven.
 
 ##### Artikel 18
 
-Een clearinginstelling, kredietinstelling, verzekeraar of bijkantoor als bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=4&paragraaf=4.1&artikel=17&z=2007-01-01&g=2007-01-01) beschikt over een adequate functiescheiding met het oog op een beheerste bedrijfsvoering.
+Een clearinginstelling, kredietinstelling, verzekeraar of bijkantoor als bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=4&paragraaf=4.1&artikel=17&z=2007-11-01&g=2007-11-01) beschikt over een adequate functiescheiding met het oog op een beheerste bedrijfsvoering.
 
 ##### Artikel 19
 
-De bedrijfsvoering van een clearinginstelling, kredietinstelling, verzekeraar of bijkantoor als bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=4&paragraaf=4.1&artikel=17&z=2007-01-01&g=2007-01-01) voorziet in een juiste, tijdige en volledige vastlegging van alle rechten en verplichtingen van de financiële onderneming of bijkantoor in een daartoe bestemde administratie.
+De bedrijfsvoering van een clearinginstelling, kredietinstelling, verzekeraar of bijkantoor als bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=4&paragraaf=4.1&artikel=17&z=2007-11-01&g=2007-11-01) voorziet in een juiste, tijdige en volledige vastlegging van alle rechten en verplichtingen van de financiële onderneming of bijkantoor in een daartoe bestemde administratie.
 
 ##### Artikel 20
 
-1. Een clearinginstelling, kredietinstelling, verzekeraar of bijkantoor als bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=4&paragraaf=4.1&artikel=17&z=2007-01-01&g=2007-01-01) beschikt over een informatiesysteem dat een effectieve beheersing van de bedrijfsprocessen en de risico’s mogelijk maakt en dat voorziet in interne en externe informatiebehoeften.
+1. Een clearinginstelling, kredietinstelling, verzekeraar of bijkantoor als bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=4&paragraaf=4.1&artikel=17&z=2007-11-01&g=2007-11-01) beschikt over een informatiesysteem dat een effectieve beheersing van de bedrijfsprocessen en de risico’s mogelijk maakt en dat voorziet in interne en externe informatiebehoeften.
 
 2. De financiële onderneming of bijkantoor beschikt over procedures en maatregelen om de integriteit, voortdurende beschikbaarheid en beveiliging van geautomatiseerde gegevensverwerking te waarborgen.
 
@@ -454,11 +444,23 @@ De bedrijfsvoering van een clearinginstelling, kredietinstelling, verzekeraar of
 
 ##### Artikel 21
 
-Een clearinginstelling, kredietinstelling, verzekeraar of bijkantoor als bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=4&paragraaf=4.1&artikel=17&z=2007-01-01&g=2007-01-01) beschikt over een onafhankelijke compliancefunctie voor het toezicht op de naleving van wettelijke regels en van interne regels die de financiële onderneming of bijkantoor zelf heeft opgesteld.
+1. Een clearinginstelling, kredietinstelling, verzekeraar of bijkantoor als bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=4&paragraaf=4.1&artikel=17&z=2007-11-01&g=2007-11-01) beschikt over een organisatieonderdeel dat op onafhankelijke en effectieve wijze een compliancefunctie uitoefent. Het organisatieonderdeel heeft als taak het controleren van de naleving van wettelijke regels en van interne regels die de financiële onderneming of bijkantoor zelf heeft opgesteld.
+
+2. Het organisatieonderdeel, bedoeld in het eerste lid, van een bank als bedoeld in [artikel 3:17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:17), of [3:23, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:23) die in Nederland beleggingsdiensten mag verlenen of beleggingsactiviteiten mag verrichten, heeft voorts als taak:
+
+- a. het adviseren van de personen die verantwoordelijk zijn voor het verlenen van beleggingsdiensten of het verrichten beleggingsactiviteiten bij de naleving van wettelijke regels en interne regels;
+
+- b. het toezien op de deugdelijkheid en effectiviteit van de interne regels en procedures;
+
+- c. het beoordelen van de effectiviteit van de procedures die zijn opgesteld en maatregelen die zijn genomen om gesignaleerde onvolkomenheden bij de naleving van wettelijke regels en interne regels op te heffen; en
+
+- d. het ten minste jaarlijks rapporteren aan de personen die het dagelijks beleid van de bank bepalen en aan het orgaan, indien aanwezig, dat is belast met toezicht op het beleid en de algemene gang van zaken van de bank inzake aangelegenheden met betrekking tot de naleving van wettelijke regels en interne regels. In de jaarlijkse rapportage wordt met name vermeld of maatregelen zijn genomen in het geval van gesignaleerde tekortkomingen.
+
+3. Het organisatieonderdeel van een bank als bedoeld in het tweede lid beschikt over de nodige autoriteit, middelen, deskundigheid en toegang tot alle noodzakelijke informatie om haar taken onafhankelijk en effectief te kunnen uitoefenen.
 
 ##### Artikel 22
 
-De opdracht tot onderzoek van de jaarrekening van een clearinginstelling, kredietinstelling, verzekeraar of bijkantoor als bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=4&paragraaf=4.1&artikel=17&z=2007-01-01&g=2007-01-01) aan de externe accountant voorziet in een toetsing en beoordeling op hoofdlijnen met betrekking tot de toereikendheid van de organisatie-inrichting en risicobeheersing.
+De opdracht tot onderzoek van de jaarrekening van een clearinginstelling, kredietinstelling, verzekeraar of bijkantoor als bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=4&paragraaf=4.1&artikel=17&z=2007-11-01&g=2007-11-01) aan de externe accountant voorziet in een toetsing en beoordeling op hoofdlijnen met betrekking tot de toereikendheid van de organisatie-inrichting en risicobeheersing.
 
 #### § 4.2. Risicomanagement
 
@@ -470,11 +472,11 @@ De opdracht tot onderzoek van de jaarrekening van een clearinginstelling, kredie
 
 3. Het beleid wordt vastgelegd in procedures en maatregelen ter beheersing van relevante risico’s en geïntegreerd in de bedrijfsprocessen.
 
-4. De procedures en maatregelen, bedoeld in het tweede lid, bestaan onder meer uit autorisatieprocedures, limietstellingen, limietbewaking en procedures en maatregelen voor noodsituaties en zijn afgestemd op de aard, de omvang, het risicoprofiel en de complexiteit van de werkzaamheden van de financiële onderneming of bijkantoor.
+4. De procedures en maatregelen, bedoeld in het derde lid, bestaan onder meer uit autorisatieprocedures, limietstellingen, limietbewaking en procedures en maatregelen voor noodsituaties en zijn afgestemd op de aard, de omvang, het risicoprofiel en de complexiteit van de werkzaamheden van de financiële onderneming of bijkantoor.
 
-5. De procedures en maatregelen, bedoeld in het tweede lid, worden vastgelegd en ter kennis gebracht van alle relevante bedrijfsonderdelen van de financiële onderneming of het bijkantoor.
+5. De procedures en maatregelen, bedoeld in het derde lid, worden vastgelegd en ter kennis gebracht van alle relevante bedrijfsonderdelen van de financiële onderneming of het bijkantoor.
 
-6. De financiële onderneming voert op systematische wijze een onafhankelijk risicobeheer uit dat gericht is op het identificeren, meten en evalueren van de risico’s waaraan de financiële onderneming of het bijkantoor is of kan worden blootgesteld. Het risicobeheer wordt zowel uitgevoerd ten aanzien van de financiële onderneming of het bijkantoor als geheel als ten aanzien van de onderscheiden bedrijfsonderdelen.
+6. De financiële onderneming heeft een onafhankelijke risicobeheerfunctie die op systematische wijze een onafhankelijk risicobeheer uitvoert dat gericht is op het identificeren, meten en evalueren van de risico’s waaraan de financiële onderneming of het bijkantoor is of kan worden blootgesteld. Het risicobeheer wordt zowel uitgevoerd ten aanzien van de financiële onderneming of het bijkantoor als geheel als ten aanzien van de onderscheiden bedrijfsonderdelen.
 
 ##### Artikel 23a
 
@@ -486,47 +488,47 @@ De opdracht tot onderzoek van de jaarrekening van een clearinginstelling, kredie
 
 ##### Artikel 23b
 
-1. De procedures en maatregelen, bedoeld in [artikel 23, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=4&paragraaf=4.2&artikel=23&z=2007-01-01&g=2007-01-01), die zijn gericht op het liquiditeitsrisico hebben betrekking op het beheer van de actuele en toekomstige netto financiële positie en behoeften.
+1. De procedures en maatregelen, bedoeld in [artikel 23, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=4&paragraaf=4.2&artikel=23&z=2007-11-01&g=2007-11-01), die zijn gericht op het liquiditeitsrisico hebben betrekking op het beheer van de actuele en toekomstige netto financiële positie en behoeften.
 
-2. Door een bank, beleggingsonderneming of clearinginstelling als bedoeld in [artikel 23, tweede lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=4&paragraaf=4.2&artikel=23&z=2007-01-01&g=2007-01-01), worden alternatieve scenario’s in overweging genomen en de hypothesen die aan beslissingen betreffende de netto financiële positie ten grondslag liggen, worden regelmatig aan een nieuw onderzoek onderworpen.
+2. Door een bank, beleggingsonderneming of clearinginstelling als bedoeld in [artikel 23, tweede lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=4&paragraaf=4.2&artikel=23&z=2007-11-01&g=2007-11-01), worden alternatieve scenario’s in overweging genomen en de hypothesen die aan beslissingen betreffende de netto financiële positie ten grondslag liggen, worden regelmatig aan een nieuw onderzoek onderworpen.
 
 ##### Artikel 23c
 
-1. De procedures en maatregelen, bedoeld in [artikel 23, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=4&paragraaf=4.2&artikel=23&z=2007-01-01&g=2007-01-01), die zijn gericht op het beheersen van het operationeel risico zijn eveneens gericht op zelden voorkomende, zeer ernstige gebeurtenissen.
+1. De procedures en maatregelen, bedoeld in [artikel 23, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=4&paragraaf=4.2&artikel=23&z=2007-11-01&g=2007-11-01), die zijn gericht op het beheersen van het operationeel risico zijn eveneens gericht op zelden voorkomende, zeer ernstige gebeurtenissen.
 
-2. Een bank of beleggingsonderneming als bedoeld in [artikel 23, tweede lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=4&paragraaf=4.2&artikel=23&z=2007-01-01&g=2007-01-01), geeft in aanvulling op hetgeen in dit besluit onder operationeel risico wordt verstaan, aan wat zij onder operationeel risico verstaat.
+2. Een bank of beleggingsonderneming als bedoeld in [artikel 23, tweede lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=4&paragraaf=4.2&artikel=23&z=2007-11-01&g=2007-11-01), geeft in aanvulling op hetgeen in dit besluit onder operationeel risico wordt verstaan, aan wat zij onder operationeel risico verstaat.
 
 ##### Artikel 23d
 
-Een bank of beleggingsonderneming als bedoeld in [artikel 23, tweede lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=4&paragraaf=4.2&artikel=23&z=2007-01-01&g=2007-01-01), past systemen toe voor de beoordeling en het beheer van het risico dat uit potentiële veranderingen in rentetarieven voortvloeit, voor zover deze veranderingen van invloed zijn op de activiteiten buiten de handelsportefeuille van die bank, beleggingsonderneming of clearinginstelling.
+Een bank of beleggingsonderneming als bedoeld in [artikel 23, tweede lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=4&paragraaf=4.2&artikel=23&z=2007-11-01&g=2007-11-01), past systemen toe voor de beoordeling en het beheer van het risico dat uit potentiële veranderingen in rentetarieven voortvloeit, voor zover deze veranderingen van invloed zijn op de activiteiten buiten de handelsportefeuille van die bank, beleggingsonderneming of clearinginstelling.
 
 ##### Artikel 23e
 
-1. De procedures en maatregelen, bedoeld in [artikel 23, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=4&paragraaf=4.2&artikel=23&z=2007-01-01&g=2007-01-01), die betrekking hebben op het beheersen van het securitisatierisico zijn erop gericht dat bij het nemen van beslissingen op het gebied van risicobeoordeling en het risicobeheer rekening wordt gehouden met het economisch belang van de transactie.
+1. De procedures en maatregelen, bedoeld in [artikel 23, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=4&paragraaf=4.2&artikel=23&z=2007-11-01&g=2007-11-01), die betrekking hebben op het beheersen van het securitisatierisico zijn erop gericht dat bij het nemen van beslissingen op het gebied van risicobeoordeling en het risicobeheer rekening wordt gehouden met het economisch belang van de transactie.
 
-2. Een bank of beleggingsonderneming als bedoeld in [artikel 23, tweede lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=4&paragraaf=4.2&artikel=23&z=2007-01-01&g=2007-01-01), die initiator is van een securitisatie van revolverende vorderingen waarop een vervroegde- aflossingsbepaling van toepassing is, stelt een liquiditeitsplan vast om de gevolgen van zowel geplande als vervroegde aflossingen op te vangen.
+2. Een bank of beleggingsonderneming als bedoeld in [artikel 23, tweede lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=4&paragraaf=4.2&artikel=23&z=2007-11-01&g=2007-11-01), die initiator is van een securitisatie van revolverende vorderingen waarop een vervroegde- aflossingsbepaling van toepassing is, stelt een liquiditeitsplan vast om de gevolgen van zowel geplande als vervroegde aflossingen op te vangen.
 
 ##### Artikel 24
 
-Een beleggingsonderneming, clearinginstelling, kredietinstelling, verzekeraar of bijkantoor als bedoeld in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=4&paragraaf=4.2&artikel=23&z=2007-01-01&g=2007-01-01), ziet er op systematische wijze op toe dat de procedures en maatregelen, bedoeld in [artikel 23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=4&paragraaf=4.2&artikel=23&z=2007-01-01&g=2007-01-01), worden nageleefd en zorgt ervoor dat gesignaleerde tekortkomingen of gebreken worden opgeheven.
+Een beleggingsonderneming, clearinginstelling, kredietinstelling, verzekeraar of bijkantoor als bedoeld in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=4&paragraaf=4.2&artikel=23&z=2007-11-01&g=2007-11-01), ziet er op systematische wijze op toe dat de procedures en maatregelen, bedoeld in [artikel 23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=4&paragraaf=4.2&artikel=23&z=2007-11-01&g=2007-11-01), worden nageleefd en zorgt ervoor dat gesignaleerde tekortkomingen of gebreken worden opgeheven.
 
 ##### Artikel 24a
 
-1. Een bank of beleggingsonderneming als bedoeld in [artikel 23, tweede lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=4&paragraaf=4.2&artikel=23&z=2007-01-01&g=2007-01-01), beschikt over solide, doeltreffende en alomvattende strategieën en procedures aan de hand waarvan zij doorlopend nagaat of en ervoor zorgt dat de hoogte, samenstelling en verdeling van haar eigen vermogen aansluiten op de omvang en de aard van haar huidige en mogelijk toekomstige risico’s.
+1. Een bank of beleggingsonderneming als bedoeld in [artikel 23, tweede lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=4&paragraaf=4.2&artikel=23&z=2007-11-01&g=2007-11-01), beschikt over solide, doeltreffende en alomvattende strategieën en procedures aan de hand waarvan zij doorlopend nagaat of en ervoor zorgt dat de hoogte, samenstelling en verdeling van haar eigen vermogen aansluiten op de omvang en de aard van haar huidige en mogelijk toekomstige risico’s.
 
 2. De financiële onderneming ziet er op systematische wijze op toe dat de strategieën en procedures, bedoeld in het eerste lid, worden nageleefd en zorgt ervoor dat gesignaleerde tekortkomingen of gebreken worden opgeheven.
 
 ##### Artikel 25
 
-Indien een beleggingsonderneming, clearinginstelling, kredietinstelling, verzekeraar of bijkantoor als bedoeld in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=4&paragraaf=4.2&artikel=23&z=2007-01-01&g=2007-01-01), gebruik maakt van intern ontwikkelde modellen, beoordeelt deze die modellen en de gehanteerde veronderstellingen en variabelen op systematische wijze op validiteit, onder meer door voorspellingen van het model te vergelijken met de werkelijke uitkomsten.
+Indien een beleggingsonderneming, clearinginstelling, kredietinstelling, verzekeraar of bijkantoor als bedoeld in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=4&paragraaf=4.2&artikel=23&z=2007-11-01&g=2007-11-01), gebruik maakt van intern ontwikkelde modellen, beoordeelt deze die modellen en de gehanteerde veronderstellingen en variabelen op systematische wijze op validiteit, onder meer door voorspellingen van het model te vergelijken met de werkelijke uitkomsten.
 
 ##### Artikel 25a
 
 1. De door de Nederlandsche Bank uitgevoerde evaluatie, bedoeld in [artikel 3:18a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:18a) heeft ten minste betrekking op:
 
-- a. de risico’s, bedoeld in [artikel 60, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=60&z=2007-01-01&g=2007-01-01);
+- a. de risico’s, bedoeld in [artikel 60, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=60&z=2007-11-01&g=2007-11-01);
 
-- b. het renterisico dat een bank of beleggingsonderneming als bedoeld in [artikel 23, tweede lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=4&paragraaf=4.2&artikel=23&z=2007-01-01&g=2007-01-01), bij niet-handelsactiviteiten loopt;
+- b. het renterisico dat een bank of beleggingsonderneming als bedoeld in [artikel 23, tweede lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=4&paragraaf=4.2&artikel=23&z=2007-11-01&g=2007-11-01), bij niet-handelsactiviteiten loopt;
 
 - c. de resultaten van de stresstests die zijn uitgevoerd door de financiële onderneming die voor het kredietrisico een interne modellenmethode toepast;
 
@@ -538,7 +540,7 @@ Indien een beleggingsonderneming, clearinginstelling, kredietinstelling, verzeke
 
 - g. de impact van de diversificatie-effecten en de wijze waarop dergelijke effecten in het systeem van risicometing worden verwerkt; en
 
-- h. de resultaten van de stresstests die zijn uitgevoerd door de financiële onderneming die gebruik maakt van interne modellen voor de berekening van de vereiste solvabiliteit voor het risico, bedoeld in [artikel 60, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=60&z=2007-01-01&g=2007-01-01).
+- h. de resultaten van de stresstests die zijn uitgevoerd door de financiële onderneming die gebruik maakt van interne modellen voor de berekening van de vereiste solvabiliteit voor het risico, bedoeld in [artikel 60, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=60&z=2007-11-01&g=2007-11-01).
 
 2. De Nederlandsche Bank controleert of de financiële onderneming een securitisatie stilzwijgend buiten de grenzen van haar contractuele verplichtingen heeft gesteund. Indien blijkt dat de financiële onderneming meerdere keren buiten de grenzen van haar contractuele verplichtingen stilzwijgende steun heeft verleend, neemt de Nederlandsche Bank passende maatregelen op basis van het vermoeden dat de kans groot is dat de financiële onderneming ook in de toekomst haar securitisaties zal steunen buiten de grenzen van haar contractuele verplichtingen.
 
@@ -546,7 +548,7 @@ Indien een beleggingsonderneming, clearinginstelling, kredietinstelling, verzeke
 
 ##### Artikel 25b
 
-1. De Nederlandsche Bank treft maatregelen indien de economische waarde van een bank of beleggingsonderneming als bedoeld in [artikel 23, tweede lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=4&paragraaf=4.2&artikel=23&z=2007-01-01&g=2007-01-01), met meer dan twintig procent van het toetsingsvermogen afneemt door een plotselinge en onverwachte verandering in de rentetarieven.
+1. De Nederlandsche Bank treft maatregelen indien de economische waarde van een bank of beleggingsonderneming als bedoeld in [artikel 23, tweede lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=4&paragraaf=4.2&artikel=23&z=2007-11-01&g=2007-11-01), met meer dan twintig procent van het toetsingsvermogen afneemt door een plotselinge en onverwachte verandering in de rentetarieven.
 
 2. De Nederlandsche Bank stelt de omvang van de verandering in de rentetarieven vast, bedoeld in het eerste lid.
 
@@ -574,19 +576,19 @@ Indien een beleggingsonderneming, clearinginstelling, kredietinstelling, verzeke
 
 ##### Artikel 28
 
-Een clearinginstelling, kredietinstelling, verzekeraar of bijkantoor als bedoeld in [artikel 27, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=5&artikel=27&z=2007-01-01&g=2007-01-01), gaat niet over tot het uitbesteden van werkzaamheden indien dat afbreuk doet aan de kwaliteit van haar onafhankelijke interne toetsing als bedoeld in [artikel 17, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=4&paragraaf=4.1&artikel=17&z=2007-01-01&g=2007-01-01).
+Een clearinginstelling, kredietinstelling, verzekeraar of bijkantoor als bedoeld in [artikel 27, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=5&artikel=27&z=2007-11-01&g=2007-11-01), gaat niet over tot het uitbesteden van werkzaamheden indien dat afbreuk doet aan de kwaliteit van haar onafhankelijke interne toetsing als bedoeld in [artikel 17, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=4&paragraaf=4.1&artikel=17&z=2007-11-01&g=2007-11-01).
 
 ##### Artikel 29
 
-Een clearinginstelling, kredietinstelling, verzekeraar of bijkantoor als bedoeld in [artikel 27, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=5&artikel=27&z=2007-01-01&g=2007-01-01), voert een adequaat beleid en beschikt over procedures en maatregelen met betrekking tot het op structurele basis uitbesteden van werkzaamheden.
+Een clearinginstelling, kredietinstelling, verzekeraar of bijkantoor als bedoeld in [artikel 27, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=5&artikel=27&z=2007-11-01&g=2007-11-01), voert een adequaat beleid en beschikt over procedures en maatregelen met betrekking tot het op structurele basis uitbesteden van werkzaamheden.
 
 ##### Artikel 30
 
-Een clearinginstelling, kredietinstelling, verzekeraar of bijkantoor als bedoeld in [artikel 27, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=5&artikel=27&z=2007-01-01&g=2007-01-01), beschikt over toereikende procedures, maatregelen, deskundigheid en informatie om de uitvoering van de op structurele basis uitbestede werkzaamheden te kunnen beoordelen.
+Een clearinginstelling, kredietinstelling, verzekeraar of bijkantoor als bedoeld in [artikel 27, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=5&artikel=27&z=2007-11-01&g=2007-11-01), beschikt over toereikende procedures, maatregelen, deskundigheid en informatie om de uitvoering van de op structurele basis uitbestede werkzaamheden te kunnen beoordelen.
 
 ##### Artikel 31
 
-1. Een clearinginstelling, kredietinstelling, verzekeraar of bijkantoor als bedoeld in [artikel 27, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=5&artikel=27&z=2007-01-01&g=2007-01-01), legt de overeenkomst met de derde waaraan de werkzaamheden op structurele basis worden uitbesteed schriftelijk vast.
+1. Een clearinginstelling, kredietinstelling, verzekeraar of bijkantoor als bedoeld in [artikel 27, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=5&artikel=27&z=2007-11-01&g=2007-11-01), legt de overeenkomst met de derde waaraan de werkzaamheden op structurele basis worden uitbesteed schriftelijk vast.
 
 2. In de overeenkomst wordt in ieder geval het volgende geregeld:
 
@@ -604,7 +606,7 @@ Een clearinginstelling, kredietinstelling, verzekeraar of bijkantoor als bedoeld
 
 ##### Artikel 32
 
-De [artikelen 29 tot en met 31](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=5&artikel=29&z=2007-01-01&g=2007-01-01) zijn niet van toepassing op het uitbesteden van werkzaamheden aan ondernemingen met zetel in een lidstaat die deel uitmaken van de groep waartoe de financiële onderneming behoort.
+De [artikelen 29 tot en met 31](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=5&artikel=29&z=2007-11-01&g=2007-11-01) zijn niet van toepassing op het uitbesteden van werkzaamheden aan ondernemingen met zetel in een lidstaat die deel uitmaken van de groep waartoe de financiële onderneming behoort.
 
 ### Hoofdstuk 6. Wijzigingen met betrekking tot verstrekte gegevens
 
@@ -626,7 +628,7 @@ De [artikelen 29 tot en met 31](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&
 
 - a. gegevens op basis waarvan de Nederlandsche Bank redelijkerwijs kan beoordelen of wordt voldaan aan hetgeen in [artikel 3:8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:8) wordt bepaald met betrekking tot de deskundigheid van de betrokkene;
 
-- b. gegevens op basis waarvan de Nederlandsche Bank, onder overeenkomstige toepassing van de [artikelen 6 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=2&artikel=6&z=2007-01-01&g=2007-01-01), redelijkerwijs kan beoordelen of wordt voldaan aan hetgeen ingevolge [artikel 3:9, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:9) wordt bepaald met betrekking tot de betrouwbaarheid van de betrokkene.
+- b. gegevens op basis waarvan de Nederlandsche Bank, onder overeenkomstige toepassing van de [artikelen 6 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=2&artikel=6&z=2007-11-01&g=2007-11-01), redelijkerwijs kan beoordelen of wordt voldaan aan hetgeen ingevolge [artikel 3:9, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:9) wordt bepaald met betrekking tot de betrouwbaarheid van de betrokkene.
 
 4. De gegevens, bedoeld in het derde lid, onderdeel a, zijn:
 
@@ -642,13 +644,13 @@ De [artikelen 29 tot en met 31](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&
 
 ##### Artikel 34
 
-1. Een clearinginstelling, kredietinstelling of verzekeraar als bedoeld in [artikel 33, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=6&artikel=33&z=2007-01-01&g=2007-01-01), geeft schriftelijk kennis aan de Nederlandsche Bank van een wijziging van gegevens op basis waarvan de Nederlandsche Bank heeft geoordeeld dat wordt voldaan aan hetgeen ingevolge [artikel 3:9](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:9) wordt bepaald met betrekking tot de betrouwbaarheid van de in [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:9) bedoelde personen.
+1. Een clearinginstelling, kredietinstelling of verzekeraar als bedoeld in [artikel 33, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=6&artikel=33&z=2007-11-01&g=2007-11-01), geeft schriftelijk kennis aan de Nederlandsche Bank van een wijziging van gegevens op basis waarvan de Nederlandsche Bank heeft geoordeeld dat wordt voldaan aan hetgeen ingevolge [artikel 3:9](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:9) wordt bepaald met betrekking tot de betrouwbaarheid van de in [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:9) bedoelde personen.
 
 2. De financiële onderneming geeft van een wijziging als bedoeld in het eerste lid onverwijld schriftelijk kennis nadat zij van de wijziging op de hoogte is gekomen.
 
 ##### Artikel 35
 
-1. Een clearinginstelling, kredietinstelling of verzekeraar als bedoeld in [artikel 33, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=6&artikel=33&z=2007-01-01&g=2007-01-01), geeft schriftelijk kennis aan de Nederlandsche Bank van een wijziging in:
+1. Een clearinginstelling, kredietinstelling of verzekeraar als bedoeld in [artikel 33, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=6&artikel=33&z=2007-11-01&g=2007-11-01), geeft schriftelijk kennis aan de Nederlandsche Bank van een wijziging in:
 
 - a. de naam of het adres van de financiële onderneming;
 
@@ -672,7 +674,7 @@ De [artikelen 29 tot en met 31](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&
 
 de personen die het dagelijks beleid van het bijkantoor bepalen.
 
-2. [Artikel 33, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=6&artikel=33&z=2007-01-01&g=2007-01-01), is van overeenkomstige toepassing.
+2. [Artikel 33, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=6&artikel=33&z=2007-11-01&g=2007-11-01), is van overeenkomstige toepassing.
 
 ##### Artikel 37
 
@@ -698,7 +700,7 @@ de personen die het dagelijks beleid van het bijkantoor bepalen.
 
 - a. gegevens op basis waarvan de Nederlandsche Bank redelijkerwijs kan beoordelen of wordt voldaan aan hetgeen in [artikel 3:8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:8) wordt bepaald met betrekking tot de deskundigheid van de vertegenwoordiger; en
 
-- b. gegevens op basis waarvan de Nederlandsche Bank, onder overeenkomstige toepassing van de [artikelen 6 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=2&artikel=6&z=2007-01-01&g=2007-01-01), kan beoordelen of wordt voldaan aan het hetgeen ingevolge [artikel 3:9 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:9) wordt bepaald met betrekking tot de betrouwbaarheid van de vertegenwoordiger.
+- b. gegevens op basis waarvan de Nederlandsche Bank, onder overeenkomstige toepassing van de [artikelen 6 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=2&artikel=6&z=2007-11-01&g=2007-11-01), kan beoordelen of wordt voldaan aan het hetgeen ingevolge [artikel 3:9 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:9) wordt bepaald met betrekking tot de betrouwbaarheid van de vertegenwoordiger.
 
 4. De gegevens, bedoeld in het derde lid, onderdeel a, zijn:
 
@@ -756,11 +758,11 @@ Als adres van een vertegenwoordiger in Nederland van een verzekeraar als bedoeld
 
 ##### Artikel 43
 
-Een verzekeraar als bedoeld in [artikel 3:40](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:40), [3:47, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:47) of [3:50, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:50) wordt geacht, indien de vertegenwoordiger ontbreekt, zijn woonplaats te hebben ten parkette van de officier van justitie bij de rechtbank binnen het rechtsgebied waarvan de verzekeraar ingevolge [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=8&artikel=42&z=2007-01-01&g=2007-01-01) het laatst zijn woonplaats had, of anders ten parkette van de officier van justitie bij de rechtbank te Amsterdam.
+Een verzekeraar als bedoeld in [artikel 3:40](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:40), [3:47, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:47) of [3:50, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:50) wordt geacht, indien de vertegenwoordiger ontbreekt, zijn woonplaats te hebben ten parkette van de officier van justitie bij de rechtbank binnen het rechtsgebied waarvan de verzekeraar ingevolge [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=8&artikel=42&z=2007-11-01&g=2007-11-01) het laatst zijn woonplaats had, of anders ten parkette van de officier van justitie bij de rechtbank te Amsterdam.
 
 ##### Artikel 44
 
-1. De omstandigheden, bedoeld in [artikel 3:40](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:40) en [3:47, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:47) waaronder de vertegenwoordiger van een verzekeraar als bedoeld in [artikel 3:40](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:40), [3:47, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:47), of [3:50, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:50) ophoudt vertegenwoordiger te zijn, zijn de omstandigheden, bedoeld in het tweede tot en met vijfde lid en in de [artikelen 45 tot en met 47](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=8&artikel=45&z=2007-01-01&g=2007-01-01).
+1. De omstandigheden, bedoeld in [artikel 3:40](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:40) en [3:47, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:47) waaronder de vertegenwoordiger van een verzekeraar als bedoeld in [artikel 3:40](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:40), [3:47, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:47), of [3:50, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:50) ophoudt vertegenwoordiger te zijn, zijn de omstandigheden, bedoeld in het tweede tot en met vijfde lid en in de [artikelen 45 tot en met 47](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=8&artikel=45&z=2007-11-01&g=2007-11-01).
 
 2. De verzekeraar die voornemens is de vertegenwoordiging te beëindigen, geeft daarvan kennis aan de Nederlandsche Bank.
 
@@ -812,7 +814,7 @@ Een verzekeraar als bedoeld in [artikel 3:40](https://wetten.overheid.nl/jci1.3:
 
 ##### Artikel 48
 
-Het minimumbedrag aan eigen vermogen, bedoeld in [artikel 3:53, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:53) bedraagt:
+1. Het minimumbedrag aan eigen vermogen, bedoeld in [artikel 3:53, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:53) bedraagt:
 
 - a. € 5 miljoen voor een bank als bedoeld in [artikel 3:53, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:53), of [3:54, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:54) die geen bank als bedoeld in onderdeel b is, of voor een clearinginstelling als bedoeld in [artikel 3:53, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:53), of [3:55, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:55);
 
@@ -824,23 +826,35 @@ Het minimumbedrag aan eigen vermogen, bedoeld in [artikel 3:53, eerste lid, van 
 
 - e. € 300.000 voor een beleggingsmaatschappij als bedoeld in [artikel 3:53, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:53) die een instelling voor collectieve belegging in effecten is en die geen aparte beheerder heeft;
 
-- f. € 730.000 voor een beleggingsonderneming als bedoeld in [artikel 3:53, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:53), of [3:54, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:54) die, onverminderd de onderdelen g en h van dit artikel, ten minste een van de beleggingsdiensten verleent, bedoeld in onderdeel c, d, e of f van de definitie van verlenen van een beleggingsdienst in [artikel 1:1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1);
+- f. € 35.000 voor een beleggingsonderneming als bedoeld in [artikel 3:53, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:53), of [3:54, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:54) die uitsluitend de beleggingsdienst, bedoeld in onderdeel a van de definitie van verlenen van een beleggingsdienst in [artikel 1:1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1), verleent en die deze beleggingsdienst niet vanuit een bijkantoor in een andere lidstaat of door middel van het verrichten van diensten naar een andere lidstaat mag verlenen;
 
-- g. € 35.000 voor een beleggingsonderneming als bedoeld in [artikel 3:53, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:53), of [3:54, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:54) die de beleggingsdienst verleent, bedoeld in onderdeel a van de definitie van verlenen van een beleggingsdienst in [artikel 1:1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1), en die deze beleggingsdienst niet vanuit een bijkantoor in een andere lidstaat of door middel van het verrichten van diensten naar een andere lidstaat mag verlenen;
+- g. € 50.000 voor een beleggingsonderneming als bedoeld in [artikel 3:53, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:53), of [3:54, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:54), die de beleggingsdienst, bedoeld in onderdeel a van de definitie van verlenen van een beleggingsdienst in [artikel 1:1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1), vanuit een bijkantoor in een andere lidstaat of door middel van het verrichten van diensten naar een andere lidstaat mag verlenen;
 
-- h. € 50.000 voor een beleggingsonderneming als bedoeld in [artikel 3:53, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:53), of [3:54, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:54) die ten minste een van de volgende beleggingsdiensten verleent:
+- h. € 50.000 voor een beleggingsonderneming als bedoeld in [artikel 3:53, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:53), of [3:54, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:54), niet zijnde een beleggingsonderneming als bedoeld in onderdeel g, die de beleggingsdienst verleent, bedoeld in onderdeel b, c, d of f, van de definitie van verlenen van een beleggingsdienst in [artikel 1:1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1);
 
-- 1°. de beleggingsdienst, bedoeld in onderdeel a van de definitie van verlenen van een beleggingsdienst in [artikel 1:1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1), indien de beleggingsonderneming deze beleggingsdienst vanuit een bijkantoor in een andere lidstaat of door middel van het verrichten van diensten naar een andere lidstaat mag verlenen;
+- i. € 730.000 voor een beleggingsonderneming als bedoeld in [artikel 3:53, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:53), of [3:54, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:54), niet zijnde een beleggingsonderneming als bedoeld in onderdeel f of g, die de beleggingsdienst verleent, bedoeld in onderdeel e van de definitie van verlenen van een beleggingsdienst in [artikel 1:1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1);
 
-- 2°. de beleggingsdienst, bedoeld in onderdeel b van de definitie van verlenen van een beleggingsdienst in [artikel 1:1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1);
+- j. € 730.000 voor een beleggingsonderneming als bedoeld in [artikel 3:53, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:53), of [3:54, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:54), niet zijnde een beleggingsonderneming als bedoeld in onderdeel f of g, die de beleggingsactiviteit verricht, bedoeld in onderdeel a van de definitie van verrichten van een beleggingsactiviteit in [artikel 1:1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1);
 
-- 3°. de beleggingsdienst, bedoeld in onderdeel g van de definitie van verlenen van een beleggingsdienst in [artikel 1:1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1), indien de beleggingsonderneming deze beleggingsdienst vanuit een bijkantoor in een andere lidstaat of door middel van het verrichten van diensten naar een andere lidstaat mag verlenen;
+- k. € 730.000 voor een beleggingsonderneming als bedoeld in [artikel 3:53, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:53), of [3:54, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:54), die de beleggingsactiviteit verricht, bedoeld in onderdeel b van de definitie van verrichten van een beleggingsactiviteit in [artikel 1:1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1);
 
-- 4°. de beleggingsdienst, bedoeld in onderdeel h van de definitie van verlenen van een beleggingsdienst in [artikel 1:1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1);
+- l. € 112.500 voor een bewaarder als bedoeld in [artikel 3:53, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:53), of [3:55, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:55);
 
-- i. € 112.500 voor een bewaarder als bedoeld in [artikel 3:53, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:53), of [3:55, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:55);
+- m. € 1 miljoen voor een elektronischgeldinstelling als bedoeld in [artikel 3:53, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:53), of [3:54, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:54).
 
-- j. € 1 miljoen voor een elektronischgeldinstelling als bedoeld in [artikel 3:53, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:53), of [3:54, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:54).
+2. Het eerste lid is niet van toepassing op beleggingsondernemingen als bedoeld in [artikel 3:53, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:53), of [3:54, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:54) die geen andere beleggingsdienst mogen verlenen dan de beleggingsdienst, bedoeld in onderdeel a of d van de definitie van verlenen van een beleggingsdienst in [artikel 1:1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1), en geen nevendiensten als bedoeld in onderdeel a van de definitie van nevendienst in [artikel 1:1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1) verrichten, indien zij beschikken over:
+
+- a. een beroepsaansprakelijkheidsverzekering of een daarmee vergelijkbare voorziening die de aansprakelijkheid dekt van de beleggingsonderneming wegens fouten, verzuimen of nalatigheden begaan in de uitoefening van diens beroep en voorgevallen op het grondgebied waarop de Overeenkomst betreffende de Europese Economische Ruimte van toepassing is, voor een bedrag van ten minste € 1.000.000 per schadegeval en ten minste € 1.500.000 per jaar voor alle schadegevallen gezamenlijk; of
+
+- b. een combinatie van een beroepsaansprakelijkheidsverzekering of een daarmee vergelijkbare voorziening als bedoeld in onderdeel a die resulteert in een dekking die ten minste gelijkwaardig is aan € 50.000 of onderdeel a.
+
+3. Onverminderd het eerste lid, aanhef en onderdeel g of h, beschikken beleggingsondernemingen als bedoeld in het tweede lid, waaraan een vergunning als bedoeld in [artikel 2:80](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:80) of [2:86 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:86) is verleend, over:
+
+- a. een minimumbedrag aan eigen vermogen van € 25.000;
+
+- b. een beroepsaansprakelijkheidsverzekering of een daarmee vergelijkbare voorziening die hun aansprakelijkheid dekt wegens fouten, verzuimen of nalatigheden begaan in de uitoefening van hun beroep en voor gevallen op het grondgebied waarop de Overeenkomst betreffende de Europese Economische Ruimte van toepassing is, voor een bedrag van ten minste € 500.000 per schadegeval en ten minste € 750.000 per jaar voor alle schadegevallen gezamenlijk; of
+
+- c. een combinatie van een beroepsaansprakelijkheidsverzekering of een daarmee vergelijkbare voorziening als bedoeld in onderdeel a die resulteert in een dekking die ten minste gelijkwaardig is aan € 25.000 of onderdeel b.
 
 ##### Artikel 49
 
@@ -868,31 +882,31 @@ Het minimumbedrag aan eigen vermogen, bedoeld in [artikel 3:53, eerste lid, van 
 
 4. Van de in het vorige lid bedoelde kennisgeving en de gewijzigde bedragen doet de Nederlandsche Bank onverwijld mededeling in de Staatscourant.
 
-#### § 9.2. Samenstelling van het minimumbedrag aan eigen vermogen
+#### § 9.1. Omvang van het minimumbedrag aan eigen vermogen
 
 ##### Artikel 50
 
-1. Het minimumbedrag aan eigen vermogen van een beheerder van een instelling voor collectieve beleggingen in effecten als bedoeld in [artikel 3:53, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:53), van een beheerder als bedoeld in [artikel 3:53, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:53), of [3:55, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:55) die geen beheerder van een instelling voor collectieve belegging in effecten is en die een vermogen van minder dan € 250 miljoen beheert, van een beleggingsmaatschappij als bedoeld in [artikel 3:53, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:53), van een beleggingsonderneming als bedoeld in [artikel 3:53, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:53), of [3:54, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:54), van een clearinginstelling als bedoeld in [artikel 3:53, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:53), of [3:55, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:55) of van een kredietinstelling als bedoeld in [artikel 2:13](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:13), [3:53, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:53), of [3:54, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:54), wordt gevormd door de waarde van de vermogensbestanddelen, bedoeld in [artikel 91, tweede lid, onderdelen a tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=91&z=2007-01-01&g=2007-01-01).
+1. Het minimumbedrag aan eigen vermogen van een beheerder van een instelling voor collectieve beleggingen in effecten als bedoeld in [artikel 3:53, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:53), van een beheerder als bedoeld in [artikel 3:53, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:53), of [3:55, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:55) die geen beheerder van een instelling voor collectieve belegging in effecten is en die een vermogen van minder dan € 250 miljoen beheert, van een beleggingsmaatschappij als bedoeld in [artikel 3:53, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:53), van een beleggingsonderneming als bedoeld in [artikel 3:53, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:53), of [3:54, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:54), van een clearinginstelling als bedoeld in [artikel 3:53, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:53), of [3:55, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:55) of van een kredietinstelling als bedoeld in [artikel 2:13](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:13), [3:53, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:53), of [3:54, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:54), wordt gevormd door de waarde van de vermogensbestanddelen, bedoeld in [artikel 91, tweede lid, onderdelen a tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=91&z=2007-11-01&g=2007-11-01).
 
-2. [Artikel 89, eerste en tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=89&z=2007-01-01&g=2007-01-01), is van overeenkomstige toepassing.
+2. [Artikel 89, eerste en tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=89&z=2007-11-01&g=2007-11-01), is van overeenkomstige toepassing.
 
 ##### Artikel 51
 
-1. Het minimumbedrag aan eigen vermogen van een beheerder als bedoeld in [artikel 3:53, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:53), of [3:55, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:55) die geen beheerder van een instelling voor collectieve belegging in effecten is en die een vermogen van ten minste € 250 miljoen beheert, of van een bewaarder als bedoeld in [artikel 3:53, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:53), of [3:55, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:55) wordt gevormd door de waarde van het kernkapitaal, bedoeld in [artikel 91](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=91&z=2007-01-01&g=2007-01-01), en het aanvullend kapitaal, bedoeld in [artikel 92](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=92&z=2007-01-01&g=2007-01-01).
+1. Het minimumbedrag aan eigen vermogen van een beheerder als bedoeld in [artikel 3:53, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:53), of [3:55, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:55) die geen beheerder van een instelling voor collectieve belegging in effecten is en die een vermogen van ten minste € 250 miljoen beheert, of van een bewaarder als bedoeld in [artikel 3:53, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:53), of [3:55, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:55) wordt gevormd door de waarde van het kernkapitaal, bedoeld in [artikel 91](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=91&z=2007-11-01&g=2007-11-01), en het aanvullend kapitaal, bedoeld in [artikel 92](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=92&z=2007-11-01&g=2007-11-01).
 
-2. De [artikelen 89](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=89&z=2007-01-01&g=2007-01-01) en [94, eerste lid, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=94&z=2007-01-01&g=2007-01-01), zijn van overeenkomstige toepassing.
+2. De [artikelen 89](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=89&z=2007-11-01&g=2007-11-01) en [94, eerste lid, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=94&z=2007-11-01&g=2007-11-01), zijn van overeenkomstige toepassing.
 
 ##### Artikel 52
 
-1. Het minimumbedrag van het garantiefonds van een levensverzekeraar of schadeverzekeraar als bedoeld in [artikel 3:53, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:53), of [3:54, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:54) of van een bijkantoor als bedoeld in [artikel 3:54, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:54) wordt gevormd door de waarde van de vermogensbestanddelen, bedoeld in de [artikelen 95, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=95&z=2007-01-01&g=2007-01-01), [96](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=96&z=2007-01-01&g=2007-01-01) en [97, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=97&z=2007-01-01&g=2007-01-01), voor zover dit lid niet de meerwaarden op grond van winstverwachtingen betreft, verminderd met de waarde van de posten, bedoeld in [artikel 95, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=95&z=2007-01-01&g=2007-01-01).
+1. Het minimumbedrag van het garantiefonds van een levensverzekeraar of schadeverzekeraar als bedoeld in [artikel 3:53, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:53), of [3:54, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:54) of van een bijkantoor als bedoeld in [artikel 3:54, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:54) wordt gevormd door de waarde van de vermogensbestanddelen, bedoeld in de [artikelen 95, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=95&z=2007-11-01&g=2007-11-01), [96](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=96&z=2007-11-01&g=2007-11-01) en [97, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=97&z=2007-11-01&g=2007-11-01), voor zover dit lid niet de meerwaarden op grond van winstverwachtingen betreft, verminderd met de waarde van de posten, bedoeld in [artikel 95, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=95&z=2007-11-01&g=2007-11-01).
 
-2. De [artikelen 89](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=89&z=2007-01-01&g=2007-01-01), [95, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=95&z=2007-01-01&g=2007-01-01), en [98, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=98&z=2007-01-01&g=2007-01-01), zijn van overeenkomstige toepassing.
+2. De [artikelen 89](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=89&z=2007-11-01&g=2007-11-01), [95, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=95&z=2007-11-01&g=2007-11-01), en [98, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=98&z=2007-11-01&g=2007-11-01), zijn van overeenkomstige toepassing.
 
 ##### Artikel 53
 
-1. Het minimumbedrag van het garantiefonds van een natura-uitvaartverzekeraar als bedoeld in [artikel 3:53, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:53), of [3:55, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:55) of van een bijkantoor als bedoeld in [artikel 3:55, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:55) wordt gevormd door de waarde van de vermogensbestanddelen, bedoeld in de [artikelen 95, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=95&z=2007-01-01&g=2007-01-01), [96](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=96&z=2007-01-01&g=2007-01-01) en [97](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=97&z=2007-01-01&g=2007-01-01), verminderd met de waarde van de posten, bedoeld in [artikel 95, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=95&z=2007-01-01&g=2007-01-01).
+1. Het minimumbedrag van het garantiefonds van een natura-uitvaartverzekeraar als bedoeld in [artikel 3:53, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:53), of [3:55, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:55) of van een bijkantoor als bedoeld in [artikel 3:55, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:55) wordt gevormd door de waarde van de vermogensbestanddelen, bedoeld in de [artikelen 95, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=95&z=2007-11-01&g=2007-11-01), [96](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=96&z=2007-11-01&g=2007-11-01) en [97](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=97&z=2007-11-01&g=2007-11-01), verminderd met de waarde van de posten, bedoeld in [artikel 95, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=95&z=2007-11-01&g=2007-11-01).
 
-2. De [artikelen 89](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=89&z=2007-01-01&g=2007-01-01), [95, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=95&z=2007-01-01&g=2007-01-01), en [98, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=98&z=2007-01-01&g=2007-01-01), zijn van overeenkomstige toepassing.
+2. De [artikelen 89](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=89&z=2007-11-01&g=2007-11-01), [95, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=95&z=2007-11-01&g=2007-11-01), en [98, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=98&z=2007-11-01&g=2007-11-01), zijn van overeenkomstige toepassing.
 
 #### § 9.3. De waarden die dienen tot dekking van het minimumbedrag van het garantiefonds
 
@@ -902,23 +916,23 @@ De waarden die dienen tot dekking van het minimumbedrag van het garantiefonds, b
 
 ##### Artikel 55
 
-1. Ten minste de helft van het minimumbedrag van het garantiefonds, bedoeld in [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=9&paragraaf=9.3&artikel=54&z=2007-01-01&g=2007-01-01), wordt gedekt door verhandelbare waarden die in open bewaring worden gegeven bij een bank die in Nederland haar bedrijf mag uitoefenen.
+1. Ten minste de helft van het minimumbedrag van het garantiefonds, bedoeld in [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=9&paragraaf=9.3&artikel=54&z=2007-11-01&g=2007-11-01), wordt gedekt door verhandelbare waarden die in open bewaring worden gegeven bij een bank die in Nederland haar bedrijf mag uitoefenen.
 
 2. De Nederlandsche Bank kan, met het oog op het voorkomen van waardevermindering van de waarden, bedoeld in het eerste lid, regels stellen met betrekking tot de voorwaarden waaronder die waarden in bewaring kunnen worden gegeven.
 
 ##### Artikel 56
 
-1. Een verzekeraar kan met de bank, bedoeld in [artikel 55, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=9&paragraaf=9.3&artikel=55&z=2007-01-01&g=2007-01-01), overeenkomen dat deze bij haar in bewaring gegeven waarden op naam van de verzekeraar mag overdragen aan een effectenbewaarinstelling die rechtspersoon is, indien:
+1. Een verzekeraar kan met de bank, bedoeld in [artikel 55, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=9&paragraaf=9.3&artikel=55&z=2007-11-01&g=2007-11-01), overeenkomen dat deze bij haar in bewaring gegeven waarden op naam van de verzekeraar mag overdragen aan een effectenbewaarinstelling die rechtspersoon is, indien:
 
 - a. de nakoming van de verplichtingen van de effectenbewaarinstelling is gewaarborgd; en
 
 - b. de effectenbewaarinstelling zich jegens de bank heeft verplicht om hetzij die waarden hetzij een gelijke hoeveelheid waarden van dezelfde soort op naam van de verzekeraar in haar voorraad aanwezig te houden en na beëindiging van de overeenkomst tussen de verzekeraar en de bank af te geven aan de verzekeraar.
 
-2. De bank, bedoeld in [artikel 55, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=9&paragraaf=9.3&artikel=55&z=2007-01-01&g=2007-01-01), onderscheidenlijk de effectenbewaarinstelling draagt zelfstandig zorg voor verkrijging van nieuwe coupon- en dividendbladen en voor bewaargeving in verband met het bijwonen van aandeelhoudersvergaderingen door de verzekeraar.
+2. De bank, bedoeld in [artikel 55, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=9&paragraaf=9.3&artikel=55&z=2007-11-01&g=2007-11-01), onderscheidenlijk de effectenbewaarinstelling draagt zelfstandig zorg voor verkrijging van nieuwe coupon- en dividendbladen en voor bewaargeving in verband met het bijwonen van aandeelhoudersvergaderingen door de verzekeraar.
 
-3. De waarden worden slechts aan de verzekeraar afgegeven en ten aanzien daarvan worden slechts rechtshandelingen verricht, indien de Nederlandsche Bank daartoe, op verzoek, heeft besloten. De bank, bedoeld in [artikel 55, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=9&paragraaf=9.3&artikel=55&z=2007-01-01&g=2007-01-01), onderscheidenlijk de effectenbewaarinstelling mag evenwel vanaf twee weken voor de dag der betaalbaarstelling coupons en dividendbewijzen zonder een besluit van de Nederlandsche Bank daartoe aan de verzekeraar afgeven, tenzij de Nederlandsche Bank heeft besloten dat zij dat niet mag. De Nederlandsche Bank deelt dit besluit onverwijld aan de verzekeraar mede.
+3. De waarden worden slechts aan de verzekeraar afgegeven en ten aanzien daarvan worden slechts rechtshandelingen verricht, indien de Nederlandsche Bank daartoe, op verzoek, heeft besloten. De bank, bedoeld in [artikel 55, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=9&paragraaf=9.3&artikel=55&z=2007-11-01&g=2007-11-01), onderscheidenlijk de effectenbewaarinstelling mag evenwel vanaf twee weken voor de dag der betaalbaarstelling coupons en dividendbewijzen zonder een besluit van de Nederlandsche Bank daartoe aan de verzekeraar afgeven, tenzij de Nederlandsche Bank heeft besloten dat zij dat niet mag. De Nederlandsche Bank deelt dit besluit onverwijld aan de verzekeraar mede.
 
-4. De waarden worden op verzoek van de Nederlandsche Bank aan haar ter bewaring afgegeven, indien de bank, bedoeld in [artikel 55, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=9&paragraaf=9.3&artikel=55&z=2007-01-01&g=2007-01-01):
+4. De waarden worden op verzoek van de Nederlandsche Bank aan haar ter bewaring afgegeven, indien de bank, bedoeld in [artikel 55, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=9&paragraaf=9.3&artikel=55&z=2007-11-01&g=2007-11-01):
 
 - a. niet langer in Nederland haar bedrijf mag uitoefenen; of
 
@@ -930,7 +944,7 @@ De waarden die dienen tot dekking van het minimumbedrag van het garantiefonds, b
 
 ##### Artikel 57
 
-1. In afwijking van [artikel 49, eerste lid, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=9&paragraaf=9.1&artikel=49&z=2007-01-01&g=2007-01-01), bedraagt het minimumbedrag van het garantiefonds, bedoeld in [artikel 3:53, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:53), € 0 voor de volgende levensverzekeraars:
+1. In afwijking van [artikel 49, eerste lid, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=9&paragraaf=9.1&artikel=49&z=2007-11-01&g=2007-11-01), bedraagt het minimumbedrag van het garantiefonds, bedoeld in [artikel 3:53, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:53), € 0 voor de volgende levensverzekeraars:
 
 - a. Wederkerige Verzekeringsmaatschappij «Begrafenis Sociëteit» W.A., gevestigd te Edam;
 
@@ -948,7 +962,7 @@ De waarden die dienen tot dekking van het minimumbedrag van het garantiefonds, b
 
 ##### Artikel 58
 
-1. In afwijking van [artikel 49, eerste lid, aanhef en onderdeel c of d](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=9&paragraaf=9.1&artikel=49&z=2007-01-01&g=2007-01-01), bedraagt het minimumbedrag van het garantiefonds, bedoeld in [artikel 3:53, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:53), € 0 voor schadeverzekeraars met zetel in Nederland die:
+1. In afwijking van [artikel 49, eerste lid, aanhef en onderdeel c of d](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=9&paragraaf=9.1&artikel=49&z=2007-11-01&g=2007-11-01), bedraagt het minimumbedrag van het garantiefonds, bedoeld in [artikel 3:53, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:53), € 0 voor schadeverzekeraars met zetel in Nederland die:
 
 - a. op 1 januari 1986 het bedrijf van schadeverzekeraar uitoefenden;
 
@@ -970,27 +984,27 @@ De waarden die dienen tot dekking van het minimumbedrag van het garantiefonds, b
 
 1. De solvabiliteit, bedoeld in [artikel 3:57, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:57) is voldoende indien:
 
-- a. het in aanmerking te nemen toetsingsvermogen, bedoeld in de [artikelen 90 tot en met 94](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=90&z=2007-01-01&g=2007-01-01), ten minste gelijk is aan de minimumomvang van het toetsingsvermogen, berekend overeenkomstig de [artikelen 60 tot en met 64](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=60&z=2007-01-01&g=2007-01-01) of [paragraaf 10.2](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.2&z=2007-01-01&g=2007-01-01), met inachtneming van de [paragrafen 10.3](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.3&z=2007-01-01&g=2007-01-01) en [10.4](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.4&z=2007-01-01&g=2007-01-01); of
+- a. het in aanmerking te nemen toetsingsvermogen, bedoeld in de [artikelen 90 tot en met 94](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=90&z=2007-11-01&g=2007-11-01), ten minste gelijk is aan de minimumomvang van het toetsingsvermogen, berekend overeenkomstig de [artikelen 60 tot en met 64](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=60&z=2007-11-01&g=2007-11-01) of [paragraaf 10.2](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.2&z=2007-11-01&g=2007-11-01), met inachtneming van de [paragrafen 10.3](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.3&z=2007-11-01&g=2007-11-01) en [10.4](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.4&z=2007-11-01&g=2007-11-01); of
 
-- b. de aanwezige solvabiliteitsmarge, bedoeld in de [artikelen 95 tot en met 98](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=95&z=2007-01-01&g=2007-01-01), ten minste gelijk is aan het minimumbedrag aan solvabiliteitsmarge, berekend overeenkomstig de [artikelen 65 tot en met 68](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=65&z=2007-01-01&g=2007-01-01).
+- b. de aanwezige solvabiliteitsmarge, bedoeld in de [artikelen 95 tot en met 98](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=95&z=2007-11-01&g=2007-11-01), ten minste gelijk is aan het minimumbedrag aan solvabiliteitsmarge, berekend overeenkomstig de [artikelen 65 tot en met 68](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=65&z=2007-11-01&g=2007-11-01).
 
-2. Onverminderd het eerste lid is de solvabiliteit ten minste gelijk aan het ingevolge [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=9&paragraaf=9.1&artikel=48&z=2007-01-01&g=2007-01-01) voorgeschreven minimumbedrag aan eigen vermogen of het ingevolge [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=9&paragraaf=9.1&artikel=49&z=2007-01-01&g=2007-01-01) of [57](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=9&paragraaf=9.4&artikel=57&z=2007-01-01&g=2007-01-01) voorgeschreven minimumbedrag van het garantiefonds. Zolang [artikel 58, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=9&paragraaf=9.4&artikel=58&z=2007-01-01&g=2007-01-01), van toepassing is, is de solvabiliteitsmarge van een schadeverzekeraar als bedoeld in dat lid ten minste gelijk aan € 205.000.
+2. Onverminderd het eerste lid is de solvabiliteit ten minste gelijk aan het ingevolge [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=9&paragraaf=9.1&artikel=48&z=2007-11-01&g=2007-11-01) voorgeschreven minimumbedrag aan eigen vermogen of het ingevolge [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=9&paragraaf=9.1&artikel=49&z=2007-11-01&g=2007-11-01) of [57](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=9&paragraaf=9.4&artikel=57&z=2007-11-01&g=2007-11-01) voorgeschreven minimumbedrag van het garantiefonds. Zolang [artikel 58, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=9&paragraaf=9.4&artikel=58&z=2007-11-01&g=2007-11-01), van toepassing is, is de solvabiliteitsmarge van een schadeverzekeraar als bedoeld in dat lid ten minste gelijk aan € 205.000.
 
 ##### Artikel 60
 
 1. De minimumomvang van het toetsingsvermogen van een bank of beleggingsonderneming als bedoeld in [artikel 3:57, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:57), of [3:58, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:58) of van een clearinginstelling als bedoeld in [artikel 3:57, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:57), of [3:61, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:61) bedraagt de som van:
 
-- a. acht procent van de som van de ingevolge [artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=61&z=2007-01-01&g=2007-01-01) te berekenen bedragen van de naar risico gewogen activa en posten buiten de balanstelling voor de kredietrisico’s, met inbegrip van de tegenpartijkredietrisico’s en verwateringsrisico’s, met betrekking tot het totale bedrijf, uitgezonderd de handelsportefeuille en de niet-liquide activa van een bank, beleggingsonderneming of clearinginstelling die [artikel 90, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=90&z=2007-01-01&g=2007-01-01), toepast;
+- a. acht procent van de som van de ingevolge [artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=61&z=2007-11-01&g=2007-11-01) te berekenen bedragen van de naar risico gewogen activa en posten buiten de balanstelling voor de kredietrisico’s, met inbegrip van de tegenpartijkredietrisico’s en verwateringsrisico’s, met betrekking tot het totale bedrijf, uitgezonderd de handelsportefeuille en de niet-liquide activa van een bank, beleggingsonderneming of clearinginstelling die [artikel 90, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=90&z=2007-11-01&g=2007-11-01), toepast;
 
-- b. het ingevolge het tweede lid te berekenen bedrag van de met betrekking tot de handelsportefeuille vereiste solvabiliteit ter dekking van de positierisico’s, afwikkelingsrisico’s, leveringsrisico’s, tegenpartijrisico’s en, in geval van een overschrijding als bedoeld in [artikel 102, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.8&artikel=102&z=2007-01-01&g=2007-01-01), grote posities;
+- b. het ingevolge het tweede lid te berekenen bedrag van de met betrekking tot de handelsportefeuille vereiste solvabiliteit ter dekking van de positierisico’s, afwikkelingsrisico’s, leveringsrisico’s, tegenpartijrisico’s en, in geval van een overschrijding als bedoeld in [artikel 102, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.8&artikel=102&z=2007-11-01&g=2007-11-01), grote posities;
 
 - c. het ingevolge het tweede lid te berekenen bedrag van de met betrekking tot het totale bedrijf vereiste solvabiliteit ter dekking van de valutarisico’s en grondstoffenrisico’s; en
 
-- d. het ingevolge de [artikelen 62b tot en met 62e](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=62b&z=2007-01-01&g=2007-01-01) te berekenen bedrag van de met betrekking tot het totale bedrijf vereiste solvabiliteit ter dekking van het operationeel risico.
+- d. het ingevolge de [artikelen 62b tot en met 62e](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=62b&z=2007-11-01&g=2007-11-01) te berekenen bedrag van de met betrekking tot het totale bedrijf vereiste solvabiliteit ter dekking van het operationeel risico.
 
 2. De Nederlandsche Bank stelt nadere regels met betrekking tot de berekening, bedoeld in het eerste lid, onderdelen b en c.
 
-3. De minimumomvang van het toetsingsvermogen van een beleggingsonderneming als bedoeld in het eerste lid waarop [artikel 62a](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=62a&z=2007-01-01&g=2007-01-01) van toepassing is, bedraagt in elk geval 25 procent van de vaste kosten in het afgelopen boekjaar. Indien zij haar werkzaamheden niet gedurende een volledig boekjaar heeft uitgeoefend, bedraagt de minimumomvang van het toetsingsvermogen 25 procent van de in haar programma van werkzaamheden begrote vaste kosten. De Nederlandsche Bank kan besluiten dat voor de beleggingsonderneming een hogere minimumomvang geldt indien aannemelijk is dat de begrote vaste kosten te laag zijn begroot.
+3. De minimumomvang van het toetsingsvermogen van een beleggingsonderneming als bedoeld in het eerste lid waarop [artikel 62a](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=62a&z=2007-11-01&g=2007-11-01) van toepassing is, bedraagt in elk geval 25 procent van de vaste kosten in het afgelopen boekjaar. Indien zij haar werkzaamheden niet gedurende een volledig boekjaar heeft uitgeoefend, bedraagt de minimumomvang van het toetsingsvermogen 25 procent van de in haar programma van werkzaamheden begrote vaste kosten. De Nederlandsche Bank kan besluiten dat voor de beleggingsonderneming een hogere minimumomvang geldt indien aannemelijk is dat de begrote vaste kosten te laag zijn begroot.
 
 4. De vaste kosten, bedoeld in het derde lid, omvatten alle kosten, uitgezonderd:
 
@@ -1002,7 +1016,7 @@ De waarden die dienen tot dekking van het minimumbedrag van het garantiefonds, b
 
 - d. afschrijvingen;
 
-- e. rentekosten over achtergestelde leningen die ingevolge [artikel 92, derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=92&z=2007-01-01&g=2007-01-01), of [artikel 93](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=93&z=2007-01-01&g=2007-01-01), deel uitmaken van het toetsingsvermogen;
+- e. rentekosten over achtergestelde leningen die ingevolge [artikel 92, derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=92&z=2007-11-01&g=2007-11-01), of [artikel 93](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=93&z=2007-11-01&g=2007-11-01), deel uitmaken van het toetsingsvermogen;
 
 - f. buitengewone kosten met een eenmalig karakter; en
 
@@ -1012,7 +1026,7 @@ De waarden die dienen tot dekking van het minimumbedrag van het garantiefonds, b
 
 ##### Artikel 61
 
-1. Het bedrag van een naar risico gewogen actief of post buiten de balanstelling, bedoeld in [artikel 60, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=60&z=2007-01-01&g=2007-01-01), is gelijk aan zijn vorderingswaarde vermenigvuldigd met het aan dat actief of post buiten de balanstelling ingevolge het vijfde lid, onderdeel a, toegekende risicogewicht. In afwijking van de vorige volzin wordt het bedrag van een naar risico gewogen post bij gesecuritiseerde activa en posten buiten de balanstelling of van een naar risico gewogen securitisatiepositie berekend volgens [paragraaf 10.4](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.4&z=2007-01-01&g=2007-01-01).
+1. Het bedrag van een naar risico gewogen actief of post buiten de balanstelling, bedoeld in [artikel 60, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=60&z=2007-11-01&g=2007-11-01), is gelijk aan zijn vorderingswaarde vermenigvuldigd met het aan dat actief of post buiten de balanstelling ingevolge het vijfde lid, onderdeel a, toegekende risicogewicht. In afwijking van de vorige volzin wordt het bedrag van een naar risico gewogen post bij gesecuritiseerde activa en posten buiten de balanstelling of van een naar risico gewogen securitisatiepositie berekend volgens [paragraaf 10.4](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.4&z=2007-11-01&g=2007-11-01).
 
 2. Onverminderd het vijfde lid, onderdeel c, is de vorderingswaarde van:
 
@@ -1026,23 +1040,23 @@ De waarden die dienen tot dekking van het minimumbedrag van het garantiefonds, b
 
 - e. een post buiten de balanstelling met een laag risico gelijk aan nul.
 
-3. De vorderingswaarde, bedoeld in het tweede lid, van effecten of grondstoffen die in het kader van een retrocessieovereenkomst, omgekeerde retrocessieovereenkomst, opgenomen effectenlening, verstrekte effectenlening, opgenomen grondstoffenlening, verstrekte grondstoffenlening of margeleningstransactie worden verkocht, gedeponeerd of verstrekt, wordt indien de financiële onderneming ingevolge [artikel 82, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.3&artikel=82&z=2007-01-01&g=2007-01-01), de uitgebreide benadering van financiële zekerheden toepast, verhoogd met de overeenkomstig die benadering berekende volatiliteitsaanpassing.
+3. De vorderingswaarde, bedoeld in het tweede lid, van effecten of grondstoffen die in het kader van een retrocessieovereenkomst, omgekeerde retrocessieovereenkomst, opgenomen effectenlening, verstrekte effectenlening, opgenomen grondstoffenlening, verstrekte grondstoffenlening of margeleningstransactie worden verkocht, gedeponeerd of verstrekt, wordt indien de financiële onderneming ingevolge [artikel 82, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.3&artikel=82&z=2007-11-01&g=2007-11-01), de uitgebreide benadering van financiële zekerheden toepast, verhoogd met de overeenkomstig die benadering berekende volatiliteitsaanpassing.
 
-4. De vorderingswaarde van een door een volgestorte kredietprotectie gegarandeerd actief of gegarandeerde post buiten de balanstelling mag overeenkomstig [paragraaf 10.3](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.3&z=2007-01-01&g=2007-01-01) worden aangepast.
+4. De vorderingswaarde van een door een volgestorte kredietprotectie gegarandeerd actief of gegarandeerde post buiten de balanstelling mag overeenkomstig [paragraaf 10.3](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.3&z=2007-11-01&g=2007-11-01) worden aangepast.
 
 5. De Nederlandsche Bank stelt regels met betrekking tot:
 
-- a. de indeling van de activa en posten buiten de balanstelling in categorieën naar gelang de wederpartij en de aan die categorieën toe te kennen risicogewichten met inachtneming van [artikel 61a](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=61a&z=2007-01-01&g=2007-01-01);
+- a. de indeling van de activa en posten buiten de balanstelling in categorieën naar gelang de wederpartij en de aan die categorieën toe te kennen risicogewichten met inachtneming van [artikel 61a](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=61a&z=2007-11-01&g=2007-11-01);
 
 - b. de indeling van de posten buiten de balanstelling in posten met een volledig risico, posten met een middelgroot risico, posten met een middelgroot tot laag risico en posten met een laag risico, bedoeld in het tweede lid, onderdelen b tot en met e;
 
-- c. de vorderingswaarde van afgeleide financiële instrumenten als bedoeld in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&bijlage=B&z=2007-01-01&g=2007-01-01) en uitstaande kredietrisico’s met een centrale tegenpartij die optreedt als exclusieve wederpartij bij overeenkomsten betreffende financiële instrumenten waarbij geldt dat het tegenpartijkredietrisico van de centrale tegenpartij ten aanzien van alle deelnemers in haar regelingen dagelijks volledig door zekerheden wordt gedekt.
+- c. de vorderingswaarde van afgeleide financiële instrumenten als bedoeld in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&bijlage=B&z=2007-11-01&g=2007-11-01) en uitstaande kredietrisico’s met een centrale tegenpartij die optreedt als exclusieve wederpartij bij overeenkomsten betreffende financiële instrumenten waarbij geldt dat het tegenpartijkredietrisico van de centrale tegenpartij ten aanzien van alle deelnemers in haar regelingen dagelijks volledig door zekerheden wordt gedekt.
 
 6. De vorderingswaarde van retrocessieovereenkomsten, omgekeerde retrocessieovereenkomsten, opgenomen effectenleningen, verstrekte effectenleningen, opgenomen grondstoffenleningen, verstrekte grondstoffenleningen, transacties met afwikkeling op lange termijn of margeleningstransacties mag, met instemming van de Nederlandsche Bank, worden bepaald op grond van de door de Nederlandsche Bank te stellen regels, bedoeld in het vijfde lid, aanhef en onderdeel c.
 
 ##### Artikel 61a
 
-1. Bij de toekenning van een risicogewicht aan een categorie activa of posten buiten de balanstelling kan een bank, beleggingsonderneming of clearinginstelling als bedoeld in [artikel 60, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=60&z=2007-01-01&g=2007-01-01), een kredietbeoordeling van een door de Nederlandsche Bank of door een toezichthoudende instantie van een andere lidstaat ingevolge [paragraaf 10.5](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.5&z=2007-01-01&g=2007-01-01) erkend kredietbeoordelingsbureau of, ingeval van vorderingen op centrale overheden en centrale banken, erkende kredietbeoordelingen van een exportkredietverzekeraar op een consistente wijze gebruiken. De Nederlandsche Bank stelt nadere regels met betrekking tot het gebruik van een kredietbeoordeling als bedoeld in de vorige volzin.
+1. Bij de toekenning van een risicogewicht aan een categorie activa of posten buiten de balanstelling kan een bank, beleggingsonderneming of clearinginstelling als bedoeld in [artikel 60, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=60&z=2007-11-01&g=2007-11-01), een kredietbeoordeling van een door de Nederlandsche Bank of door een toezichthoudende instantie van een andere lidstaat ingevolge [paragraaf 10.5](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.5&z=2007-11-01&g=2007-11-01) erkend kredietbeoordelingsbureau of, ingeval van vorderingen op centrale overheden en centrale banken, erkende kredietbeoordelingen van een exportkredietverzekeraar op een consistente wijze gebruiken. De Nederlandsche Bank stelt nadere regels met betrekking tot het gebruik van een kredietbeoordeling als bedoeld in de vorige volzin.
 
 2. De financiële onderneming gebruikt slechts gevraagde kredietbeoordelingen. De Nederlandsche Bank kan, op verzoek, de financiële onderneming toestemming verlenen om ongevraagde kredietbeoordelingen te gebruiken.
 
@@ -1062,7 +1076,7 @@ De waarden die dienen tot dekking van het minimumbedrag van het garantiefonds, b
 
 ##### Artikel 62
 
-1. Het is een bank, beleggingsonderneming of clearinginstelling als bedoeld in [artikel 60, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=60&z=2007-01-01&g=2007-01-01), toegestaan het bedrag van de met betrekking tot de handelsportefeuille vereiste solvabiliteit ter dekking van de positierisico’s, afwikkelingsrisico’s, leveringsrisico’s en tegenpartijrisico’s, bedoeld in [artikel 60, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=60&z=2007-01-01&g=2007-01-01), te berekenen volgens de ingevolge [artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=61&z=2007-01-01&g=2007-01-01) gestelde regels indien haar handelsportefeuille onder normale omstandigheden:
+1. Het is een bank, beleggingsonderneming of clearinginstelling als bedoeld in [artikel 60, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=60&z=2007-11-01&g=2007-11-01), toegestaan het bedrag van de met betrekking tot de handelsportefeuille vereiste solvabiliteit ter dekking van de positierisico’s, afwikkelingsrisico’s, leveringsrisico’s en tegenpartijrisico’s, bedoeld in [artikel 60, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=60&z=2007-11-01&g=2007-11-01), te berekenen volgens de ingevolge [artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=61&z=2007-11-01&g=2007-11-01) gestelde regels indien haar handelsportefeuille onder normale omstandigheden:
 
 - a. niet meer bedraagt dan vijf procent van het totale bedrijf; en
 
@@ -1078,17 +1092,17 @@ De waarden die dienen tot dekking van het minimumbedrag van het garantiefonds, b
 
 ##### Artikel 62a
 
-1. Het solvabiliteitsvereiste ter dekking van het operationeel risico, bedoeld in [artikel 60, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=60&z=2007-01-01&g=2007-01-01), is niet van toepassing op beleggingsondernemingen waarvan het minimumbedrag aan eigen vermogen op grond van [artikel 48, aanhef en onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=9&paragraaf=9.1&artikel=48&z=2007-01-01&g=2007-01-01), € 50.000 bedraagt of clearinginstellingen.
+1. Het solvabiliteitsvereiste ter dekking van het operationeel risico, bedoeld in [artikel 60, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=60&z=2007-11-01&g=2007-11-01), is niet van toepassing op beleggingsondernemingen waarvan het minimumbedrag aan eigen vermogen op grond van [artikel 48, aanhef en onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=9&paragraaf=9.1&artikel=48&z=2007-11-01&g=2007-11-01), € 50.000 bedraagt of clearinginstellingen.
 
 2. De Nederlandsche Bank kan, op verzoek, toestemming verlenen om het solvabiliteitsvereiste te berekenen op grond van het derde lid, aan:
 
-- a. beleggingsondernemingen waarvan het minimumbedrag aan eigen vermogen op grond van [artikel 48, aanhef en onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=9&paragraaf=9.1&artikel=48&z=2007-01-01&g=2007-01-01), € 730.000 bedraagt en die uitsluitend voor eigen rekening handelen:
+- a. beleggingsondernemingen waarvan het minimumbedrag aan eigen vermogen op grond van [artikel 48, eerste lid, aanhef en onderdelen i, j of k](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=9&paragraaf=9.1&artikel=48&z=2007-11-01&g=2007-11-01), € 730.000 bedraagt en die uitsluitend voor eigen rekening handelen:
 
 - 1°. om orders van cliënten uit te voeren; of
 
 - 2°. om toegang te verkrijgen tot een clearing- en afwikkelingssysteem dan wel een gereglementeerde markt in de hoedanigheid van gemachtigde of uitvoerder van een order van een cliënt; of
 
-- b. beleggingsondernemingen waarvan het minimumbedrag aan eigen vermogen op grond van artikel 48, aanhef en onderdeel f, € 730.000 bedraagt en:
+- b. beleggingsondernemingen waarvan het minimumbedrag aan eigen vermogen op grond van [artikel 48, eerste lid, aanhef en onderdelen i, j of k](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=9&paragraaf=9.1&artikel=48&z=2007-11-01&g=2007-11-01), € 730.000 bedraagt en:
 
 - 1°. waarbij cliënten geen gelden of effecten aanhouden;
 
@@ -1098,17 +1112,17 @@ De waarden die dienen tot dekking van het minimumbedrag van het garantiefonds, b
 
 - 4°. waarvan de uitvoering en afwikkeling van transacties geschieden onder de verantwoordelijkheid van en worden gegarandeerd door een clearinginstelling met zetel in Nederland.
 
-3. Indien de Nederlandsche Bank toestemming als bedoeld in het tweede lid heeft verleend, houdt de beleggingsonderneming een toetsingsvermogen aan dat ten minste gelijk is aan de som van de bedragen, bedoeld in [artikel 60, eerste lid, onderdelen a tot en met c, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=60&z=2007-01-01&g=2007-01-01).
+3. Indien de Nederlandsche Bank toestemming als bedoeld in het tweede lid heeft verleend, houdt de beleggingsonderneming een toetsingsvermogen aan dat ten minste gelijk is aan de som van de bedragen, bedoeld in [artikel 60, eerste lid, onderdelen a tot en met c, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=60&z=2007-11-01&g=2007-11-01).
 
 ##### Artikel 62b
 
-1. Een bank of beleggingsonderneming als bedoeld in [artikel 60, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=60&z=2007-01-01&g=2007-01-01), maakt gebruik van de basisindicatorbenadering voor de berekening van het bedrag van de met betrekking tot het totale bedrijf vereiste solvabiliteit ter dekking van het operationeel risico, bedoeld in [artikel 60, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=60&z=2007-01-01&g=2007-01-01).
+1. Een bank of beleggingsonderneming als bedoeld in [artikel 60, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=60&z=2007-11-01&g=2007-11-01), maakt gebruik van de basisindicatorbenadering voor de berekening van het bedrag van de met betrekking tot het totale bedrijf vereiste solvabiliteit ter dekking van het operationeel risico, bedoeld in [artikel 60, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=60&z=2007-11-01&g=2007-11-01).
 
 2. De Nederlandsche Bank stelt regels met betrekking tot de basisindicatorbenadering.
 
 ##### Artikel 62c
 
-1. In afwijking van [artikel 62b](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=62b&z=2007-01-01&g=2007-01-01) kan een bank of beleggingsonderneming als bedoeld in [artikel 60, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=60&z=2007-01-01&g=2007-01-01), gebruik maken van de standaardbenadering voor de berekening van het bedrag van de vereiste solvabiliteit ter dekking van het operationeel risico, bedoeld in [artikel 60, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=60&z=2007-01-01&g=2007-01-01).
+1. In afwijking van [artikel 62b](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=62b&z=2007-11-01&g=2007-11-01) kan een bank of beleggingsonderneming als bedoeld in [artikel 60, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=60&z=2007-11-01&g=2007-11-01), gebruik maken van de standaardbenadering voor de berekening van het bedrag van de vereiste solvabiliteit ter dekking van het operationeel risico, bedoeld in [artikel 60, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=60&z=2007-11-01&g=2007-11-01).
 
 2. Indien de financiële onderneming gebruik maakt van de standaardbenadering worden de activiteiten in een aantal business lines gesplitst. Voor elke business line berekent de financiële onderneming het bedrag met betrekking tot de vereiste solvabiliteit op grond van door de Nederlandsche Bank te stellen regels.
 
@@ -1118,7 +1132,7 @@ De waarden die dienen tot dekking van het minimumbedrag van het garantiefonds, b
 
 ##### Artikel 62d
 
-1. De Nederlandsche Bank kan een bank als bedoeld in [artikel 60, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=60&z=2007-01-01&g=2007-01-01), op verzoek, toestemming verlenen om gebruik te maken van een alternatieve indicator voor de berekening van de vereiste solvabiliteit ter dekking van het operationeel risico met betrekking tot de business lines «bankdiensten ten behoeve van particulieren en kleine en middelgrote ondernemingen» en «zakelijke bankdiensten», indien:
+1. De Nederlandsche Bank kan een bank als bedoeld in [artikel 60, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=60&z=2007-11-01&g=2007-11-01), op verzoek, toestemming verlenen om gebruik te maken van een alternatieve indicator voor de berekening van de vereiste solvabiliteit ter dekking van het operationeel risico met betrekking tot de business lines «bankdiensten ten behoeve van particulieren en kleine en middelgrote ondernemingen» en «zakelijke bankdiensten», indien:
 
 - a. deze business lines gezamenlijk ten minste 90 procent van haar netto rentebaten en netto niet-rentebaten vertegenwoordigen; en
 
@@ -1128,7 +1142,7 @@ De waarden die dienen tot dekking van het minimumbedrag van het garantiefonds, b
 
 ##### Artikel 62e
 
-1. Het is een bank of beleggingsonderneming als bedoeld in [artikel 60, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=60&z=2007-01-01&g=2007-01-01), die eenmaal de standaardbenadering gebruikt, niet toegestaan daarna alsnog de basisindicatorbenadering te gebruiken.
+1. Het is een bank of beleggingsonderneming als bedoeld in [artikel 60, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=60&z=2007-11-01&g=2007-11-01), die eenmaal de standaardbenadering gebruikt, niet toegestaan daarna alsnog de basisindicatorbenadering te gebruiken.
 
 2. De Nederlandsche Bank kan, op aanvraag, al dan niet voor bepaalde tijd, ontheffing verlenen van het eerste lid, indien de aanvrager aantoont dat daarvoor goede redenen zijn.
 
@@ -1140,7 +1154,7 @@ De waarden die dienen tot dekking van het minimumbedrag van het garantiefonds, b
 
 2. Tot het beheerde vermogen wordt gerekend het vermogen van de beleggingsinstellingen waarover de beheerder het beheer voert met inbegrip van de delen van het vermogen waarvan hij het beheer heeft uitbesteed, uitgezonderd de delen van het vermogen waarvan het beheer door derden aan hem is uitbesteed.
 
-3. [Artikel 60, vierde tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=60&z=2007-01-01&g=2007-01-01), is van overeenkomstige toepassing.
+3. [Artikel 60, vierde tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=60&z=2007-11-01&g=2007-11-01), is van overeenkomstige toepassing.
 
 ##### Artikel 64
 
@@ -1166,9 +1180,9 @@ De minimumomvang van het toetsingsvermogen van een elektronischgeldinstelling al
 
 - 3°. verzekeringen anders dan tijdelijke verzekeringen met een contractsduur van ten hoogste vijf jaar: 0,3 procent van het risicokapitaal bij overlijden;
 
-- f. voor zover het aanvullende verzekeringen betreft: het overeenkomstig [artikel 67, eerste, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=67&z=2007-01-01&g=2007-01-01), berekende bedrag.
+- f. voor zover het aanvullende verzekeringen betreft: het overeenkomstig [artikel 67, eerste, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=67&z=2007-11-01&g=2007-11-01), berekende bedrag.
 
-2. Voor de toepassing van dit artikel wordt het verschil, bedoeld in [artikel 98, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=98&z=2007-01-01&g=2007-01-01), aangemerkt als bruto technische voorzieningen.
+2. Voor de toepassing van dit artikel wordt het verschil, bedoeld in [artikel 98, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=98&z=2007-11-01&g=2007-11-01), aangemerkt als bruto technische voorzieningen.
 
 3. Voor de toepassing van dit artikel worden verplichtingen uit hoofde van levensverzekeringen waarvoor ingevolge de internationale jaarrekeningstandaarden geen technische voorzieningen worden gevormd, aangemerkt als technische voorzieningen.
 
@@ -1182,9 +1196,9 @@ De minimumomvang van het toetsingsvermogen van een elektronischgeldinstelling al
 
 1. Het minimumbedrag aan solvabiliteitsmarge van een natura-uitvaartverzekeraar als bedoeld in [artikel 3:57, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:57), of [3:61, eerste of tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:61) bedraagt de som van de als volgt te berekenen bedragen:
 
-- a. voor zover het verzekeringen betreft waarbij door de natura-uitvaartverzekeraar beleggingsrisico wordt gelopen: de uitkomst van de berekening, bedoeld in [artikel 65, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=65&z=2007-01-01&g=2007-01-01);
+- a. voor zover het verzekeringen betreft waarbij door de natura-uitvaartverzekeraar beleggingsrisico wordt gelopen: de uitkomst van de berekening, bedoeld in [artikel 65, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=65&z=2007-11-01&g=2007-11-01);
 
-- b. voor zover het verzekeringen betreft waarbij door de natura-uitvaartverzekeraar geen beleggingsrisico wordt gelopen en waarbij de beheerslasten voor een periode van meer dan vijf jaar zijn vastgelegd: de uitkomst van de berekening, bedoeld in [artikel 65, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=65&z=2007-01-01&g=2007-01-01);
+- b. voor zover het verzekeringen betreft waarbij door de natura-uitvaartverzekeraar geen beleggingsrisico wordt gelopen en waarbij de beheerslasten voor een periode van meer dan vijf jaar zijn vastgelegd: de uitkomst van de berekening, bedoeld in [artikel 65, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=65&z=2007-11-01&g=2007-11-01);
 
 - c. voor zover het uitstaande depots ten behoeve van uitvaarten betreft: een procent van het depotbedrag;
 
@@ -1192,7 +1206,7 @@ De minimumomvang van het toetsingsvermogen van een elektronischgeldinstelling al
 
 - e. voor zover het aanvullende verzekeringen betreft: achttien procent van de in het afgelopen boekjaar geboekte premies en van de in rekening gebrachte poliskosten, voor zover deze premies en kosten niet meer bedragen dan € 10 miljoen, vermeerderd met zestien procent van deze premies en kosten, voor zover deze meer bedragen dan € 10 miljoen. De uitkomst van de berekening, bedoeld in de vorige volzin, wordt vermenigvuldigd met de verhouding, welke ten minste vijftig procent bedraagt, tussen de uitkeringen die voor eigen rekening komen van de natura-uitvaartverzekeraar na overdracht uit hoofde van herverzekering en de bruto uitkeringen in het laatste boekjaar.
 
-2. [Artikel 65, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=65&z=2007-01-01&g=2007-01-01), is van overeenkomstige toepassing.
+2. [Artikel 65, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=65&z=2007-11-01&g=2007-11-01), is van overeenkomstige toepassing.
 
 ##### Artikel 67
 
@@ -1216,13 +1230,13 @@ De minimumomvang van het toetsingsvermogen van een elektronischgeldinstelling al
 
 7. Indien het minimumbedrag aan solvabiliteitsmarge zoals berekend overeenkomstig dit artikel lager is dan het minimumbedrag aan solvabiliteitsmarge van het voorafgaande boekjaar, dan bedraagt het minimumbedrag aan solvabiliteitsmarge ten minste de uitkomst van de volgende berekening: het minimumbedrag aan solvabiliteitsmarge van het voorafgaande boekjaar wordt vermenigvuldigd met de verhouding, welke ten hoogste honderd procent bedraagt, tussen de bedragen voor technische voorzieningen voor te betalen schaden verminderd met het bedrag van de overdrachten uit herverzekering aan het einde van het boekjaar en de bedragen voor technische voorzieningen voor te betalen schaden verminderd met het bedrag van de overdrachten uit herverzekering aan het begin van het boekjaar.
 
-8. [Artikel 65, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=65&z=2007-01-01&g=2007-01-01), is van overeenkomstige toepassing.
+8. [Artikel 65, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=65&z=2007-11-01&g=2007-11-01), is van overeenkomstige toepassing.
 
-9. [Artikel 49, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=9&paragraaf=9.1&artikel=49&z=2007-01-01&g=2007-01-01), is van overeenkomstige toepassing op de bedragen, bedoeld in het eerste lid, onderdelen a en b.
+9. [Artikel 49, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=9&paragraaf=9.1&artikel=49&z=2007-11-01&g=2007-11-01), is van overeenkomstige toepassing op de bedragen, bedoeld in het eerste lid, onderdelen a en b.
 
 ##### Artikel 68
 
-1. Het minimumbedrag aan solvabiliteitsmarge van een schadeverzekeraar als bedoeld in [artikel 3:57, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:57), of [3:58, eerste of tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:58) bedraagt een derde van het overeenkomstig [artikel 67](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=67&z=2007-01-01&g=2007-01-01) berekende bedrag voor het gedeelte dat betrekking heeft op ziektekostenverzekeringen indien die verzekeringen op analoge wijze als levensverzekeringen worden beheerd en:
+1. Het minimumbedrag aan solvabiliteitsmarge van een schadeverzekeraar als bedoeld in [artikel 3:57, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:57), of [3:58, eerste of tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:58) bedraagt een derde van het overeenkomstig [artikel 67](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=67&z=2007-11-01&g=2007-11-01) berekende bedrag voor het gedeelte dat betrekking heeft op ziektekostenverzekeringen indien die verzekeringen op analoge wijze als levensverzekeringen worden beheerd en:
 
 - a. de geheven premie volgens verzekeringswiskundige methoden wordt berekend;
 
@@ -1234,31 +1248,31 @@ De minimumomvang van het toetsingsvermogen van een elektronischgeldinstelling al
 
 - e. in de ziektekostenverzekering de mogelijkheid is opgenomen om ook voor lopende verzekeringen de premies te verhogen of de verstrekkingen te verminderen.
 
-2. Bij ministeriële regeling kan het minimumbedrag aan solvabiliteitsmarge, bedoeld in het eerste lid, worden verhoogd tot ten hoogste het overeenkomstig [artikel 67](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=67&z=2007-01-01&g=2007-01-01) berekende bedrag, indien de ingevolge [paragraaf 4.2 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&paragraaf=4.2) gestelde regels met betrekking tot de risicoverevening daartoe aanleiding geven.
+2. Bij ministeriële regeling kan het minimumbedrag aan solvabiliteitsmarge, bedoeld in het eerste lid, worden verhoogd tot ten hoogste het overeenkomstig [artikel 67](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=67&z=2007-11-01&g=2007-11-01) berekende bedrag, indien de ingevolge [paragraaf 4.2 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&paragraaf=4.2) gestelde regels met betrekking tot de risicoverevening daartoe aanleiding geven.
 
 #### § 10.2. Minimumomvang toetsingsvermogen volgens interne modellen
 
 ##### Artikel 69
 
-1. De Nederlandsche Bank kan een bank of beleggingsonderneming als bedoeld in [artikel 3:57, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:57), of [3:58, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:58), op verzoek, toestemming verlenen om de bedragen van haar naar risico gewogen activa of posten buiten de balanstelling in afwijking van [artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=61&z=2007-01-01&g=2007-01-01) te berekenen volgens een interne modellenmethode, waarbij gebruik wordt gemaakt van eigen ramingen van de kans op wanbetaling. De Nederlandsche Bank kan tevens, op verzoek, toestemming verlenen om daarbij gebruik te maken van eigen ramingen van verliezen bij wanbetaling en omrekeningsfactoren.
+1. De Nederlandsche Bank kan een bank of beleggingsonderneming als bedoeld in [artikel 3:57, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:57), of [3:58, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:58), op verzoek, toestemming verlenen om de bedragen van haar naar risico gewogen activa of posten buiten de balanstelling in afwijking van [artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=61&z=2007-11-01&g=2007-11-01) te berekenen volgens een interne modellenmethode, waarbij gebruik wordt gemaakt van eigen ramingen van de kans op wanbetaling. De Nederlandsche Bank kan tevens, op verzoek, toestemming verlenen om daarbij gebruik te maken van eigen ramingen van verliezen bij wanbetaling en omrekeningsfactoren.
 
 2. De gehanteerde interne modellen voor het beheer en de beoordeling van kredietrisico’s worden zorgvuldig toegepast. De Nederlandsche Bank stelt regels met betrekking tot deze interne modellen.
 
 3. De toestemming, bedoeld in het eerste lid, wordt verleend indien de financiële onderneming heeft aangetoond dat de gehanteerde interne modellen voldoen aan het bepaalde ingevolge het tweede lid.
 
-4. De financiële onderneming die een verzoek voor toestemming voor het gebruik van een interne modellenmethode indient, legt bewijsstukken over waaruit blijkt dat zij al ten minste gedurende drie jaar voor de desbetreffende categorieën van activa en posten buiten de balanstelling, bedoeld in [artikel 71, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.2&artikel=71&z=2007-01-01&g=2007-01-01), systemen voor de beoordeling van kredietrisico’s hanteert die in grote lijnen in overeenstemming zijn met de regels, bedoeld in het tweede lid, laatste volzin.
+4. De financiële onderneming die een verzoek voor toestemming voor het gebruik van een interne modellenmethode indient, legt bewijsstukken over waaruit blijkt dat zij al ten minste gedurende drie jaar voor de desbetreffende categorieën van activa en posten buiten de balanstelling, bedoeld in [artikel 71, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.2&artikel=71&z=2007-11-01&g=2007-11-01), systemen voor de beoordeling van kredietrisico’s hanteert die in grote lijnen in overeenstemming zijn met de regels, bedoeld in het tweede lid, laatste volzin.
 
 5. De financiële onderneming die een verzoek voor toestemming voor het gebruik van eigen ramingen van verliezen bij wanbetaling en omrekeningsfactoren indient, legt bewijsstukken over waaruit blijkt dat zij al ten minste gedurende drie jaar eigen ramingen van verliezen bij wanbetaling of omrekeningsfactoren opstelt en daarvan gebruik maakt op een wijze die in grote lijnen in overeenstemming is met de regels, bedoeld in het tweede lid, laatste volzin.
 
-6. Onverminderd de [artikelen 70](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.2&artikel=70&z=2007-01-01&g=2007-01-01) en [76](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.2&artikel=76&z=2007-01-01&g=2007-01-01) gebruikt de financiële onderneming die toestemming heeft gekregen voor het gebruik van een interne modellenmethode, deze voor alle activa en posten buiten de balanstelling.
+6. Onverminderd de [artikelen 70](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.2&artikel=70&z=2007-11-01&g=2007-11-01) en [76](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.2&artikel=76&z=2007-11-01&g=2007-11-01) gebruikt de financiële onderneming die toestemming heeft gekregen voor het gebruik van een interne modellenmethode, deze voor alle activa en posten buiten de balanstelling.
 
-7. Indien de financiële onderneming niet langer voldoet aan het eerste tot en met zesde lid of de [artikelen 70 tot en met 76](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.2&artikel=70&z=2007-01-01&g=2007-01-01), dient zij bij de Nederlandsche Bank een plan in om zo spoedig mogelijk opnieuw aan deze leden en artikelen te voldoen, of toont zij aan dat dit geen noemenswaardige gevolgen voor het gebruik van de interne modellenmethode heeft.
+7. Indien de financiële onderneming niet langer voldoet aan het eerste tot en met zesde lid of de [artikelen 70 tot en met 76](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.2&artikel=70&z=2007-11-01&g=2007-11-01), dient zij bij de Nederlandsche Bank een plan in om zo spoedig mogelijk opnieuw aan deze leden en artikelen te voldoen, of toont zij aan dat dit geen noemenswaardige gevolgen voor het gebruik van de interne modellenmethode heeft.
 
 ##### Artikel 70
 
-1. De Nederlandsche Bank kan een bank of beleggingsonderneming als bedoeld in [artikel 69, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.2&artikel=69&z=2007-01-01&g=2007-01-01), op verzoek, toestemming verlenen een interne modellenmethode stapsgewijs in te voeren:
+1. De Nederlandsche Bank kan een bank of beleggingsonderneming als bedoeld in [artikel 69, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.2&artikel=69&z=2007-11-01&g=2007-11-01), op verzoek, toestemming verlenen een interne modellenmethode stapsgewijs in te voeren:
 
-- a. per categorie of, ingeval van de categorie, bedoeld in [artikel 71, eerste lid, aanhef en onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.2&artikel=71&z=2007-01-01&g=2007-01-01), per subcategorie activa of posten buiten de balanstelling, bedoeld in [artikel 71, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.2&artikel=71&z=2007-01-01&g=2007-01-01);
+- a. per categorie of, ingeval van de categorie, bedoeld in [artikel 71, eerste lid, aanhef en onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.2&artikel=71&z=2007-11-01&g=2007-11-01), per subcategorie activa of posten buiten de balanstelling, bedoeld in [artikel 71, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.2&artikel=71&z=2007-11-01&g=2007-11-01);
 
 - b. binnen dezelfde bedrijfsactiviteit;
 
@@ -1268,15 +1282,15 @@ De minimumomvang van het toetsingsvermogen van een elektronischgeldinstelling al
 
 2. De Nederlandsche Bank stelt regels teneinde te waarborgen dat de stapsgewijze invoering, bedoeld in het eerste lid, binnen een redelijke termijn plaatsvindt en niet wordt gebruikt om voor de categorieën vorderingen of bedrijfsactiviteiten, bedoeld in het eerste lid, waarop een interne modellenmethode niet wordt toegepast een lagere minimumomvang van het toetsingsvermogen te bereiken.
 
-3. De financiële onderneming die voor enige categorie activa of posten buiten de balanstelling, bedoeld in [artikel 71, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.2&artikel=71&z=2007-01-01&g=2007-01-01), een interne modellenmethode gebruikt, gebruikt deze ook voor de posities in aandelen, bedoeld in onderdeel e van laatstgenoemd lid.
+3. De financiële onderneming die voor enige categorie activa of posten buiten de balanstelling, bedoeld in [artikel 71, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.2&artikel=71&z=2007-11-01&g=2007-11-01), een interne modellenmethode gebruikt, gebruikt deze ook voor de posities in aandelen, bedoeld in onderdeel e van laatstgenoemd lid.
 
-4. Onverminderd het eerste tot en met derde lid en [artikel 76](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.2&artikel=76&z=2007-01-01&g=2007-01-01) valt de financiële onderneming die ingevolge [artikel 69, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.2&artikel=69&z=2007-01-01&g=2007-01-01), toestemming heeft verkregen voor het gebruik van een interne modellenmethode, voor de berekening van de bedragen van de naar risico gewogen activa en posten buiten de balanstelling niet terug op [artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=61&z=2007-01-01&g=2007-01-01), tenzij de Nederlandsche Bank daarmee instemt.
+4. Onverminderd het eerste tot en met derde lid en [artikel 76](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.2&artikel=76&z=2007-11-01&g=2007-11-01) valt de financiële onderneming die ingevolge [artikel 69, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.2&artikel=69&z=2007-11-01&g=2007-11-01), toestemming heeft verkregen voor het gebruik van een interne modellenmethode, voor de berekening van de bedragen van de naar risico gewogen activa en posten buiten de balanstelling niet terug op [artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=61&z=2007-11-01&g=2007-11-01), tenzij de Nederlandsche Bank daarmee instemt.
 
-5. Onverminderd het eerste en tweede lid en [artikel 76](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.2&artikel=76&z=2007-01-01&g=2007-01-01) is het de financiële onderneming die ingevolge [artikel 69, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.2&artikel=69&z=2007-01-01&g=2007-01-01), toestemming heeft verkregen voor het gebruik van eigen ramingen van verliezen bij wanbetaling en omrekeningsfactoren, niet toegestaan voor de berekening van de bedragen van de naar risico gewogen activa en posten buiten de balanstelling daarna alsnog de ingevolge [artikel 73, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.2&artikel=73&z=2007-01-01&g=2007-01-01), door de Nederlandsche Bank vastgestelde waarde van verliezen bij wanbetaling en omrekeningsfactoren te gebruiken, tenzij de Nederlandsche Bank daarmee instemt.
+5. Onverminderd het eerste en tweede lid en [artikel 76](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.2&artikel=76&z=2007-11-01&g=2007-11-01) is het de financiële onderneming die ingevolge [artikel 69, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.2&artikel=69&z=2007-11-01&g=2007-11-01), toestemming heeft verkregen voor het gebruik van eigen ramingen van verliezen bij wanbetaling en omrekeningsfactoren, niet toegestaan voor de berekening van de bedragen van de naar risico gewogen activa en posten buiten de balanstelling daarna alsnog de ingevolge [artikel 73, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.2&artikel=73&z=2007-11-01&g=2007-11-01), door de Nederlandsche Bank vastgestelde waarde van verliezen bij wanbetaling en omrekeningsfactoren te gebruiken, tenzij de Nederlandsche Bank daarmee instemt.
 
 ##### Artikel 71
 
-1. Een bank of beleggingsonderneming als bedoeld in [artikel 69, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.2&artikel=69&z=2007-01-01&g=2007-01-01), die een interne modellenmethode gebruikt, deelt haar activa en posten buiten de balanstelling volgens een geschikte en in de tijd consistente methodiek in de volgende categorieën in:
+1. Een bank of beleggingsonderneming als bedoeld in [artikel 69, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.2&artikel=69&z=2007-11-01&g=2007-11-01), die een interne modellenmethode gebruikt, deelt haar activa en posten buiten de balanstelling volgens een geschikte en in de tijd consistente methodiek in de volgende categorieën in:
 
 - a. vorderingen of voorwaardelijke vorderingen op centrale overheden en centrale banken;
 
@@ -1298,17 +1312,17 @@ De minimumomvang van het toetsingsvermogen van een elektronischgeldinstelling al
 
 ##### Artikel 72
 
-1. De Nederlandsche Bank stelt, met inachtneming van de [artikelen 73](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.2&artikel=73&z=2007-01-01&g=2007-01-01) en [74](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.2&artikel=74&z=2007-01-01&g=2007-01-01), regels met betrekking tot:
+1. De Nederlandsche Bank stelt, met inachtneming van de [artikelen 73](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.2&artikel=73&z=2007-11-01&g=2007-11-01) en [74](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.2&artikel=74&z=2007-11-01&g=2007-11-01), regels met betrekking tot:
 
-- a. de berekening van het bedrag van de naar kredietrisico gewogen activa en posten buiten de balanstelling, bedoeld in [artikel 71, eerste lid, onderdelen a tot en met e of g](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.2&artikel=71&z=2007-01-01&g=2007-01-01), voor zover dit bedrag niet op het toetsingsvermogen in mindering wordt gebracht; en
+- a. de berekening van het bedrag van de naar kredietrisico gewogen activa en posten buiten de balanstelling, bedoeld in [artikel 71, eerste lid, onderdelen a tot en met e of g](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.2&artikel=71&z=2007-11-01&g=2007-11-01), voor zover dit bedrag niet op het toetsingsvermogen in mindering wordt gebracht; en
 
 - b. de berekening van het bedrag van de naar verwateringsrisico gewogen activa en posten buiten de balanstelling die verband houden met gekochte kortlopende handelsvorderingen, met of zonder verhaal op de wederpartij.
 
-2. Het bedrag van een naar risico gewogen post bij gesecuritiseerde activa en posten buiten de balanstelling of van een naar risico gewogen securitisatiepositie als bedoeld in [artikel 71, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.2&artikel=71&z=2007-01-01&g=2007-01-01), wordt berekend volgens [paragraaf 10.4](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.4&z=2007-01-01&g=2007-01-01).
+2. Het bedrag van een naar risico gewogen post bij gesecuritiseerde activa en posten buiten de balanstelling of van een naar risico gewogen securitisatiepositie als bedoeld in [artikel 71, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.2&artikel=71&z=2007-11-01&g=2007-11-01), wordt berekend volgens [paragraaf 10.4](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.4&z=2007-11-01&g=2007-11-01).
 
 ##### Artikel 73
 
-1. De regels, bedoeld in [artikel 72, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.2&artikel=72&z=2007-01-01&g=2007-01-01), voorzien in berekening op basis van de volgende parameters:
+1. De regels, bedoeld in [artikel 72, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.2&artikel=72&z=2007-11-01&g=2007-11-01), voorzien in berekening op basis van de volgende parameters:
 
 - a. de kans op wanbetaling;
 
@@ -1318,47 +1332,47 @@ De minimumomvang van het toetsingsvermogen van een elektronischgeldinstelling al
 
 - d. de waarde van de desbetreffende activa of posten buiten de balanstelling, bepaald door onder meer de omrekeningsfactoren.
 
-2. De door de Nederlandsche Bank ingevolge [artikel 72, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.2&artikel=72&z=2007-01-01&g=2007-01-01), te stellen regels omvatten mede regels met betrekking tot de waarden van verlies bij wanbetaling en de omrekeningsfactoren alsmede voorwaarden voor het gebruik van eigen ramingen van de kans op wanbetaling, het verlies bij wanbetaling, de looptijd en de omrekeningsfactoren.
+2. De door de Nederlandsche Bank ingevolge [artikel 72, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.2&artikel=72&z=2007-11-01&g=2007-11-01), te stellen regels omvatten mede regels met betrekking tot de waarden van verlies bij wanbetaling en de omrekeningsfactoren alsmede voorwaarden voor het gebruik van eigen ramingen van de kans op wanbetaling, het verlies bij wanbetaling, de looptijd en de omrekeningsfactoren.
 
-3. In de door haar ingevolge [artikel 72, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.2&artikel=72&z=2007-01-01&g=2007-01-01), te stellen regels kan de Nederlandsche Bank afwijken van het eerste lid, voor zover het betreft de berekening van het bedrag van de naar kredietrisico gewogen posities in aandelen, bedoeld in [artikel 71, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.2&artikel=71&z=2007-01-01&g=2007-01-01), waaronder posities in instellingen voor collectieve belegging, vorderingen uit hoofde van gespecialiseerde kredietverlening, bedoeld in [artikel 71, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.2&artikel=71&z=2007-01-01&g=2007-01-01), of andere activa of posten buiten de balanstelling die geen kredietverplichting vertegenwoordigen, bedoeld in [artikel 71, eerste lid, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.2&artikel=71&z=2007-01-01&g=2007-01-01).
+3. In de door haar ingevolge [artikel 72, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.2&artikel=72&z=2007-11-01&g=2007-11-01), te stellen regels kan de Nederlandsche Bank afwijken van het eerste lid, voor zover het betreft de berekening van het bedrag van de naar kredietrisico gewogen posities in aandelen, bedoeld in [artikel 71, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.2&artikel=71&z=2007-11-01&g=2007-11-01), waaronder posities in instellingen voor collectieve belegging, vorderingen uit hoofde van gespecialiseerde kredietverlening, bedoeld in [artikel 71, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.2&artikel=71&z=2007-11-01&g=2007-11-01), of andere activa of posten buiten de balanstelling die geen kredietverplichting vertegenwoordigen, bedoeld in [artikel 71, eerste lid, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.2&artikel=71&z=2007-11-01&g=2007-11-01).
 
 ##### Artikel 74
 
-1. Een bank of beleggingsonderneming als bedoeld in [artikel 69, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.2&artikel=69&z=2007-01-01&g=2007-01-01), die toestemming heeft gekregen voor het gebruik van een interne modellenmethode gebruikt voor de berekening van het bedrag van de naar risico gewogen activa en posten buiten de balanstelling, bedoeld in [artikel 71, eerste lid, onderdelen a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.2&artikel=71&z=2007-01-01&g=2007-01-01), eigen ramingen van de kans op wanbetaling.
+1. Een bank of beleggingsonderneming als bedoeld in [artikel 69, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.2&artikel=69&z=2007-11-01&g=2007-11-01), die toestemming heeft gekregen voor het gebruik van een interne modellenmethode gebruikt voor de berekening van het bedrag van de naar risico gewogen activa en posten buiten de balanstelling, bedoeld in [artikel 71, eerste lid, onderdelen a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.2&artikel=71&z=2007-11-01&g=2007-11-01), eigen ramingen van de kans op wanbetaling.
 
-2. De financiële onderneming die ingevolge [artikel 69, eerste lid, laatste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.2&artikel=69&z=2007-01-01&g=2007-01-01), tevens toestemming heeft gekregen voor de activa en posten buiten de balanstelling, bedoeld in [artikel 71, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.2&artikel=71&z=2007-01-01&g=2007-01-01), gebruikt voor de berekening van het bedrag van de naar risico gewogen activa en posten buiten de balanstelling eigen ramingen van verlies bij wanbetaling en omrekeningsfactoren.
+2. De financiële onderneming die ingevolge [artikel 69, eerste lid, laatste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.2&artikel=69&z=2007-11-01&g=2007-11-01), tevens toestemming heeft gekregen voor de activa en posten buiten de balanstelling, bedoeld in [artikel 71, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.2&artikel=71&z=2007-11-01&g=2007-11-01), gebruikt voor de berekening van het bedrag van de naar risico gewogen activa en posten buiten de balanstelling eigen ramingen van verlies bij wanbetaling en omrekeningsfactoren.
 
-3. De financiële onderneming gebruikt voor de categorieën, bedoeld in [artikel 71, eerste lid, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.2&artikel=71&z=2007-01-01&g=2007-01-01), de ingevolge [artikel 73, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.2&artikel=73&z=2007-01-01&g=2007-01-01), voor de berekening van het bedrag van de naar risico gewogen activa en posten buiten de balanstelling vastgestelde waarden van verliezen bij wanbetaling en omrekeningsfactoren, tenzij de financiële onderneming, bedoeld in het eerste lid, ingevolge [artikel 69, eerste lid, laatste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.2&artikel=69&z=2007-01-01&g=2007-01-01), tevens toestemming heeft gekregen voor die activa en posten buiten de balanstelling. In dat geval gebruikt zij voor de berekening van het bedrag van de naar risico gewogen activa en posten buiten de balanstelling eigen ramingen van verliezen bij wanbetaling en omrekeningsfactoren.
+3. De financiële onderneming gebruikt voor de categorieën, bedoeld in [artikel 71, eerste lid, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.2&artikel=71&z=2007-11-01&g=2007-11-01), de ingevolge [artikel 73, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.2&artikel=73&z=2007-11-01&g=2007-11-01), voor de berekening van het bedrag van de naar risico gewogen activa en posten buiten de balanstelling vastgestelde waarden van verliezen bij wanbetaling en omrekeningsfactoren, tenzij de financiële onderneming, bedoeld in het eerste lid, ingevolge [artikel 69, eerste lid, laatste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.2&artikel=69&z=2007-11-01&g=2007-11-01), tevens toestemming heeft gekregen voor die activa en posten buiten de balanstelling. In dat geval gebruikt zij voor de berekening van het bedrag van de naar risico gewogen activa en posten buiten de balanstelling eigen ramingen van verliezen bij wanbetaling en omrekeningsfactoren.
 
 ##### Artikel 75
 
 1. De Nederlandsche Bank stelt regels met betrekking tot de berekening van de verwachte verliesposten in verband met:
 
-- a. activa en posten buiten de balanstelling, bedoeld in [artikel 71, eerste lid, onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.2&artikel=71&z=2007-01-01&g=2007-01-01);
+- a. activa en posten buiten de balanstelling, bedoeld in [artikel 71, eerste lid, onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.2&artikel=71&z=2007-11-01&g=2007-11-01);
 
-- b. posities in instellingen voor collectieve belegging, bedoeld in [artikel 73, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.2&artikel=73&z=2007-01-01&g=2007-01-01); en
+- b. posities in instellingen voor collectieve belegging, bedoeld in [artikel 73, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.2&artikel=73&z=2007-11-01&g=2007-11-01); en
 
 - c. het verwateringsrisico van gekochte kortlopende handelsvorderingen.
 
-2. De verwachte verliesposten in verband met securitisatieposities, bedoeld in [artikel 71, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.2&artikel=71&z=2007-01-01&g=2007-01-01), worden berekend volgens [paragraaf 10.4](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.4&z=2007-01-01&g=2007-01-01).
+2. De verwachte verliesposten in verband met securitisatieposities, bedoeld in [artikel 71, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.2&artikel=71&z=2007-11-01&g=2007-11-01), worden berekend volgens [paragraaf 10.4](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.4&z=2007-11-01&g=2007-11-01).
 
-3. De verwachte verliespost bij activa of posten buiten de balanstelling die geen kredietverplichting vertegenwoordigen, bedoeld in [artikel 71, eerste lid, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.2&artikel=71&z=2007-01-01&g=2007-01-01), is gelijk aan nul.
+3. De verwachte verliespost bij activa of posten buiten de balanstelling die geen kredietverplichting vertegenwoordigen, bedoeld in [artikel 71, eerste lid, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.2&artikel=71&z=2007-11-01&g=2007-11-01), is gelijk aan nul.
 
 ##### Artikel 76
 
-1. De Nederlandsche Bank kan een bank of beleggingsonderneming als bedoeld in [artikel 69, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.2&artikel=69&z=2007-01-01&g=2007-01-01), die bij de berekening van het bedrag van de naar risico gewogen activa of posten buiten de balanstelling en de verwachte verliesposten voor een of meer categorieën, bedoeld in [artikel 71, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.2&artikel=71&z=2007-01-01&g=2007-01-01), gebruik maakt van een interne modellenmethode, op verzoek, toestemming verlenen om de standaardbenadering, bedoeld in [artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=61&z=2007-01-01&g=2007-01-01), te gebruiken voor activa en posten buiten de balanstelling indien:
+1. De Nederlandsche Bank kan een bank of beleggingsonderneming als bedoeld in [artikel 69, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.2&artikel=69&z=2007-11-01&g=2007-11-01), die bij de berekening van het bedrag van de naar risico gewogen activa of posten buiten de balanstelling en de verwachte verliesposten voor een of meer categorieën, bedoeld in [artikel 71, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.2&artikel=71&z=2007-11-01&g=2007-11-01), gebruik maakt van een interne modellenmethode, op verzoek, toestemming verlenen om de standaardbenadering, bedoeld in [artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=61&z=2007-11-01&g=2007-11-01), te gebruiken voor activa en posten buiten de balanstelling indien:
 
-- a. het activa of posten buiten de balanstelling als bedoeld in [artikel 71, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.2&artikel=71&z=2007-01-01&g=2007-01-01), betreft, het aantal wederpartijen beperkt is en het voor de financiële onderneming te belastend zou zijn om voor deze wederpartijen een interne modellenmethode in te voeren;
+- a. het activa of posten buiten de balanstelling als bedoeld in [artikel 71, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.2&artikel=71&z=2007-11-01&g=2007-11-01), betreft, het aantal wederpartijen beperkt is en het voor de financiële onderneming te belastend zou zijn om voor deze wederpartijen een interne modellenmethode in te voeren;
 
 - b. het activa of posten buiten de balanstelling betreft in verband met niet-belangrijke bedrijfsactiviteiten en in categorieën die geen noemenswaardige omvang hebben en waarvan het risicoprofiel als laag wordt aangemerkt;
 
-- c. het vorderingen betreft op de Nederlandse Staat of, indien er op grond van bepaalde publiekrechtelijke regelingen geen verschil in risico bestaat tussen de vorderingen op de Nederlandse Staat en deze vorderingen, Nederlandse provincies, gemeenten, waterschappen of andere openbare lichamen als bedoeld in [artikel 134 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=134), en aan vorderingen op de Nederlandse Staat ingevolge [artikel 61, vijfde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=61&z=2007-01-01&g=2007-01-01), een risicogewicht van nul procent is toegekend;
+- c. het vorderingen betreft op de Nederlandse Staat of, indien er op grond van bepaalde publiekrechtelijke regelingen geen verschil in risico bestaat tussen de vorderingen op de Nederlandse Staat en deze vorderingen, Nederlandse provincies, gemeenten, waterschappen of andere openbare lichamen als bedoeld in [artikel 134 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=134), en aan vorderingen op de Nederlandse Staat ingevolge [artikel 61, vijfde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=61&z=2007-11-01&g=2007-11-01), een risicogewicht van nul procent is toegekend;
 
-- d. het vorderingen betreft op een wederpartij die haar moederonderneming, dochteronderneming of een dochteronderneming van haar moederonderneming is, indien deze wederpartij een bank, beleggingsonderneming, financiële holding, financiële instelling, vermogensbeheerder of onderneming die nevendiensten verricht is waarop de [hoofdstukken 9](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=9&z=2007-01-01&g=2007-01-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&z=2007-01-01&g=2007-01-01) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=13&z=2007-01-01&g=2007-01-01) van dit besluit van toepassing zijn of een verbonden onderneming als bedoeld in artikel 12, eerste lid, van de richtlijn geconsolideerde jaarrekening;
+- d. het vorderingen betreft op een wederpartij die haar moederonderneming, dochteronderneming of een dochteronderneming van haar moederonderneming is, indien deze wederpartij een bank, beleggingsonderneming, financiële holding, financiële instelling, vermogensbeheerder of onderneming die nevendiensten verricht is waarop de [hoofdstukken 9](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=9&z=2007-11-01&g=2007-11-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&z=2007-11-01&g=2007-11-01) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=13&z=2007-11-01&g=2007-11-01) van dit besluit van toepassing zijn of een verbonden onderneming als bedoeld in artikel 12, eerste lid, van de richtlijn geconsolideerde jaarrekening;
 
-- e. het posities in aandelen betreft van rechtspersonen aan wier kredietverplichtingen ingevolge [artikel 61, vijfde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=61&z=2007-01-01&g=2007-01-01), een risicogewicht van nul procent is toegekend;
+- e. het posities in aandelen betreft van rechtspersonen aan wier kredietverplichtingen ingevolge [artikel 61, vijfde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=61&z=2007-11-01&g=2007-11-01), een risicogewicht van nul procent is toegekend;
 
-- f. het posities in aandelen betreft, ten belope van ten hoogste tien procent van de som van het bedrag van het kernkapitaal, bedoeld in [artikel 91](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=91&z=2007-01-01&g=2007-01-01), en het bedrag van het aanvullend kapitaal, bedoeld in [artikel 92](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=92&z=2007-01-01&g=2007-01-01), die zijn ingenomen in het kader van overheidsprogramma’s waarmee steun wordt verleend aan bepaalde economische sectoren en waarbij de financiële onderneming omvangrijke subsidies ontvangt voor haar beleggingen en de beleggingen op de een of andere wijze onderworpen zijn aan overheidstoezicht en restricties;
+- f. het posities in aandelen betreft, ten belope van ten hoogste tien procent van de som van het bedrag van het kernkapitaal, bedoeld in [artikel 91](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=91&z=2007-11-01&g=2007-11-01), en het bedrag van het aanvullend kapitaal, bedoeld in [artikel 92](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=92&z=2007-11-01&g=2007-11-01), die zijn ingenomen in het kader van overheidsprogramma’s waarmee steun wordt verleend aan bepaalde economische sectoren en waarbij de financiële onderneming omvangrijke subsidies ontvangt voor haar beleggingen en de beleggingen op de een of andere wijze onderworpen zijn aan overheidstoezicht en restricties;
 
 - g. het vorderingen op ondernemingen betreft in de vorm van door de Europese Centrale Bank of een centrale bank van een lidstaat voorgeschreven door de financiële onderneming aan te houden minimumreserves; en
 
@@ -1370,13 +1384,13 @@ De minimumomvang van het toetsingsvermogen van een elektronischgeldinstelling al
 
 ##### Artikel 77
 
-1. De Nederlandsche Bank kan een bank of beleggingsonderneming als bedoeld in [artikel 69, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.2&artikel=69&z=2007-01-01&g=2007-01-01), op verzoek, toestemming verlenen om het bedrag van de vereiste solvabiliteit voor de positierisico’s met betrekking tot de handelsportefeuille, bedoeld in [artikel 60, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=60&z=2007-01-01&g=2007-01-01), of voor de valutarisico’s of grondstoffenrisico’s, bedoeld in [artikel 60, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=60&z=2007-01-01&g=2007-01-01), in afwijking van [artikel 60, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=60&z=2007-01-01&g=2007-01-01), te berekenen op basis van interne modellen.
+1. De Nederlandsche Bank kan een bank of beleggingsonderneming als bedoeld in [artikel 69, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.2&artikel=69&z=2007-11-01&g=2007-11-01), op verzoek, toestemming verlenen om het bedrag van de vereiste solvabiliteit voor de positierisico’s met betrekking tot de handelsportefeuille, bedoeld in [artikel 60, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=60&z=2007-11-01&g=2007-11-01), of voor de valutarisico’s of grondstoffenrisico’s, bedoeld in [artikel 60, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=60&z=2007-11-01&g=2007-11-01), in afwijking van [artikel 60, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=60&z=2007-11-01&g=2007-11-01), te berekenen op basis van interne modellen.
 
 2. De Nederlandsche Bank stelt regels met betrekking tot interne modellen als bedoeld in het eerste lid en het gebruik ervan.
 
 ##### Artikel 78
 
-1. De Nederlandsche Bank kan een bank of beleggingsonderneming als bedoeld in [artikel 69, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.2&artikel=69&z=2007-01-01&g=2007-01-01), op verzoek, toestemming verlenen om het bedrag van de met betrekking tot het totale bedrijf vereiste solvabiliteit ter dekking van het operationeel risico, bedoeld in [artikel 60, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=60&z=2007-01-01&g=2007-01-01), te berekenen op basis van de geavanceerde benadering die is gebaseerd op een risicomeetsysteem.
+1. De Nederlandsche Bank kan een bank of beleggingsonderneming als bedoeld in [artikel 69, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.2&artikel=69&z=2007-11-01&g=2007-11-01), op verzoek, toestemming verlenen om het bedrag van de met betrekking tot het totale bedrijf vereiste solvabiliteit ter dekking van het operationeel risico, bedoeld in [artikel 60, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=60&z=2007-11-01&g=2007-11-01), te berekenen op basis van de geavanceerde benadering die is gebaseerd op een risicomeetsysteem.
 
 2. Alvorens de Nederlandsche Bank toestemming verleent voor de toepassing van de geavanceerde benadering, bedoeld in het eerste lid, valideert de Nederlandsche Bank het risicomeetsysteem en toetst zij of de:
 
@@ -1392,7 +1406,7 @@ De minimumomvang van het toetsingsvermogen van een elektronischgeldinstelling al
 
 ##### Artikel 79
 
-1. Het is een bank of beleggingsonderneming als bedoeld in [artikel 69, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.2&artikel=69&z=2007-01-01&g=2007-01-01), die eenmaal de geavanceerde benadering gebruikt, niet toegestaan daarna alsnog de basisindicatorbenadering of standaardbenadering te gebruiken.
+1. Het is een bank of beleggingsonderneming als bedoeld in [artikel 69, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.2&artikel=69&z=2007-11-01&g=2007-11-01), die eenmaal de geavanceerde benadering gebruikt, niet toegestaan daarna alsnog de basisindicatorbenadering of standaardbenadering te gebruiken.
 
 2. De Nederlandsche Bank kan, op aanvraag, al dan niet voor bepaalde tijd, ontheffing verlenen van het eerste lid, indien de aanvrager aantoont dat daarvoor goede redenen zijn.
 
@@ -1414,13 +1428,13 @@ De minimumomvang van het toetsingsvermogen van een elektronischgeldinstelling al
 
 ##### Artikel 80
 
-Een bank, beleggingsonderneming of clearinginstelling als bedoeld in [artikel 3:57, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:57), [3:58, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:58), of [3:61, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:61) die het bedrag van de naar risico gewogen activa en posten buiten de balanstelling berekent ingevolge [artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=61&z=2007-01-01&g=2007-01-01) of [paragraaf 10.2](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.2&z=2007-01-01&g=2007-01-01), waarbij zij geen gebruik maakt van eigen ramingen van verliezen bij wanbetaling en omrekeningsfactoren, neemt slechts kredietrisicovermindering in aanmerking bij deze berekening of, indien van toepassing, bij de berekening van de verwachte verliesposten ingevolge [artikel 92, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=92&z=2007-01-01&g=2007-01-01), of [artikel 94, tweede lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=94&z=2007-01-01&g=2007-01-01), indien is voldaan aan [artikel 81](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.3&artikel=81&z=2007-01-01&g=2007-01-01).
+Een bank, beleggingsonderneming of clearinginstelling als bedoeld in [artikel 3:57, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:57), [3:58, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:58), of [3:61, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:61) die het bedrag van de naar risico gewogen activa en posten buiten de balanstelling berekent ingevolge [artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=61&z=2007-11-01&g=2007-11-01) of [paragraaf 10.2](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.2&z=2007-11-01&g=2007-11-01), waarbij zij geen gebruik maakt van eigen ramingen van verliezen bij wanbetaling en omrekeningsfactoren, neemt slechts kredietrisicovermindering in aanmerking bij deze berekening of, indien van toepassing, bij de berekening van de verwachte verliesposten ingevolge [artikel 92, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=92&z=2007-11-01&g=2007-11-01), of [artikel 94, tweede lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=94&z=2007-11-01&g=2007-11-01), indien is voldaan aan [artikel 81](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.3&artikel=81&z=2007-11-01&g=2007-11-01).
 
 ##### Artikel 81
 
 1. Een zekerheidsregeling wordt slechts in het kader van kredietrisicovermindering overeengekomen, indien zij in alle relevante rechtsgebieden rechtsgeldig en afdwingbaar is.
 
-2. Een financiële onderneming als bedoeld in [artikel 80](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.3&artikel=80&z=2007-01-01&g=2007-01-01) die leningverstrekkende financiële onderneming is, neemt alle vereiste maatregelen om de effectiviteit van de kredietrisicovermindering te waarborgen en de daaraan verbonden risico’s te beperken.
+2. Een financiële onderneming als bedoeld in [artikel 80](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.3&artikel=80&z=2007-11-01&g=2007-11-01) die leningverstrekkende financiële onderneming is, neemt alle vereiste maatregelen om de effectiviteit van de kredietrisicovermindering te waarborgen en de daaraan verbonden risico’s te beperken.
 
 3. In geval van volgestorte kredietprotectie worden geen activa in aanmerking genomen die onvoldoende zekerheid bieden ten aanzien van de protectie van de activa.
 
@@ -1432,11 +1446,11 @@ Een bank, beleggingsonderneming of clearinginstelling als bedoeld in [artikel 3:
 
 ##### Artikel 82
 
-1. Een financiële onderneming als bedoeld in [artikel 80, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.3&artikel=80&z=2007-01-01&g=2007-01-01), die kredietrisicovermindering in aanmerking neemt, past de berekening van de naar risico gewogen activa en posten buiten de balanstelling en, indien van toepassing, de berekening van de verwachte verliesposten aan. De Nederlandsche Bank stelt regels met betrekking tot de aanpassing van deze berekeningen.
+1. Een financiële onderneming als bedoeld in [artikel 80, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.3&artikel=80&z=2007-11-01&g=2007-11-01), die kredietrisicovermindering in aanmerking neemt, past de berekening van de naar risico gewogen activa en posten buiten de balanstelling en, indien van toepassing, de berekening van de verwachte verliesposten aan. De Nederlandsche Bank stelt regels met betrekking tot de aanpassing van deze berekeningen.
 
 2. Het in aanmerking nemen van kredietrisicovermindering levert geen hoger bedrag van de naar risico gewogen activa of posten buiten de balanstelling of een hogere verwachte verliespost op dan het bedrag van de naar risico gewogen activa of posten buiten de balanstelling onderscheidenlijk de verwachte verliespost van in alle overige opzichten identieke activa of posten buiten de balanstelling waarbij geen kredietrisicovermindering in aanmerking wordt genomen.
 
-3. Indien bij de berekening van het bedrag van de naar risico gewogen activa en posten buiten de balanstelling ingevolge [artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=61&z=2007-01-01&g=2007-01-01), of ingevolge een interne modellenmethode rekening is gehouden met kredietrisicovermindering, wordt kredietrisicovermindering ingevolge deze paragraaf niet nogmaals in aanmerking genomen.
+3. Indien bij de berekening van het bedrag van de naar risico gewogen activa en posten buiten de balanstelling ingevolge [artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=61&z=2007-11-01&g=2007-11-01), of ingevolge een interne modellenmethode rekening is gehouden met kredietrisicovermindering, wordt kredietrisicovermindering ingevolge deze paragraaf niet nogmaals in aanmerking genomen.
 
 #### § 10.4. Securitisatie
 
@@ -1446,13 +1460,13 @@ Een bank, beleggingsonderneming of clearinginstelling als bedoeld in [artikel 3:
 
 ##### Artikel 84
 
-1. Indien een aanzienlijk deel van het aan de gesecuritiseerde posten verbonden kredietrisico is overgedragen door een financiële onderneming als bedoeld in [artikel 83](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.4&artikel=83&z=2007-01-01&g=2007-01-01) die initiator is, mag zij:
+1. Indien een aanzienlijk deel van het aan de gesecuritiseerde posten verbonden kredietrisico is overgedragen door een financiële onderneming als bedoeld in [artikel 83](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.4&artikel=83&z=2007-11-01&g=2007-11-01) die initiator is, mag zij:
 
-- a. ingeval van een traditionele securitisatie de door haar gesecuritiseerde posten buiten beschouwing laten bij de berekening op grond van [paragraaf 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&z=2007-01-01&g=2007-01-01) of [10.2](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.2&z=2007-01-01&g=2007-01-01) van het bedrag van de naar risico gewogen activa en posten buiten de balanstelling en, indien van toepassing, van de verwachte verliesposten;
+- a. ingeval van een traditionele securitisatie de door haar gesecuritiseerde posten buiten beschouwing laten bij de berekening op grond van [paragraaf 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&z=2007-11-01&g=2007-11-01) of [10.2](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.2&z=2007-11-01&g=2007-11-01) van het bedrag van de naar risico gewogen activa en posten buiten de balanstelling en, indien van toepassing, van de verwachte verliesposten;
 
-- b. ingeval van een synthetische securitisatie de naar risico gewogen activa en posten buiten de balanstelling en, indien van toepassing, de verwachte verliesposten voor de gesecuritiseerde posten in plaats van op grond van [paragraaf 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&z=2007-01-01&g=2007-01-01) of [10.2](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.2&z=2007-01-01&g=2007-01-01) berekenen op grond van door de Nederlandsche Bank te stellen regels.
+- b. ingeval van een synthetische securitisatie de naar risico gewogen activa en posten buiten de balanstelling en, indien van toepassing, de verwachte verliesposten voor de gesecuritiseerde posten in plaats van op grond van [paragraaf 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&z=2007-11-01&g=2007-11-01) of [10.2](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.2&z=2007-11-01&g=2007-11-01) berekenen op grond van door de Nederlandsche Bank te stellen regels.
 
-2. Indien het eerste lid van toepassing is, berekent de financiële onderneming het bedrag van de naar risico gewogen securitisatieposities op grond van [artikel 85](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.4&artikel=85&z=2007-01-01&g=2007-01-01).
+2. Indien het eerste lid van toepassing is, berekent de financiële onderneming het bedrag van de naar risico gewogen securitisatieposities op grond van [artikel 85](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.4&artikel=85&z=2007-11-01&g=2007-11-01).
 
 3. Indien het eerste lid niet van toepassing is, berekent de financiële onderneming het bedrag van de naar risico gewogen activa en posten buiten de balanstelling alsof er geen securitisatie heeft plaatsgevonden.
 
@@ -1462,9 +1476,9 @@ Een bank, beleggingsonderneming of clearinginstelling als bedoeld in [artikel 3:
 
 1. Het bedrag van een naar risico gewogen securitisatiepositie is gelijk aan de waarde van de securitisatiepositie vermenigvuldigd met een aan die securitisatiepositie toegekend risicogewicht. Elke tranche van een securitisatiepositie geldt daarbij als afzonderlijke securitisatiepositie.
 
-2. De Nederlandsche Bank stelt, met inachtneming van het derde tot en met vijfde lid, regels met betrekking tot het in aanmerking nemen van posten als securitisatieposities en de aan die securitisatieposities toe te kennen risicogewichten. Zij maakt daarbij onderscheid tussen gevallen waarin [artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=61&z=2007-01-01&g=2007-01-01) wordt toegepast voor de berekening van de naar risico gewogen activa en posten buiten de balanstelling voor de categorie waarin de gesecuritiseerde posten op grond van [artikel 61, vijfde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=61&z=2007-01-01&g=2007-01-01), zou zijn ingedeeld en alle overige gevallen.
+2. De Nederlandsche Bank stelt, met inachtneming van het derde tot en met vijfde lid, regels met betrekking tot het in aanmerking nemen van posten als securitisatieposities en de aan die securitisatieposities toe te kennen risicogewichten. Zij maakt daarbij onderscheid tussen gevallen waarin [artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=61&z=2007-11-01&g=2007-11-01) wordt toegepast voor de berekening van de naar risico gewogen activa en posten buiten de balanstelling voor de categorie waarin de gesecuritiseerde posten op grond van [artikel 61, vijfde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=61&z=2007-11-01&g=2007-11-01), zou zijn ingedeeld en alle overige gevallen.
 
-3. Bij de toekenning van een risicogewicht aan een securitisatiepositie kan een financiële onderneming als bedoeld in [artikel 83](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.4&artikel=83&z=2007-01-01&g=2007-01-01) een kredietbeoordeling van een door de Nederlandsche Bank of door een toezichthoudende instantie van een andere lidstaat ingevolge [paragraaf 10.5](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.5&z=2007-01-01&g=2007-01-01) erkend kredietbeoordelingsbureau op een consistente wijze gebruiken. De Nederlandsche Bank stelt nadere regels met betrekking tot het gebruik van een kredietbeoordeling als bedoeld in de vorige volzin.
+3. Bij de toekenning van een risicogewicht aan een securitisatiepositie kan een financiële onderneming als bedoeld in [artikel 83](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.4&artikel=83&z=2007-11-01&g=2007-11-01) een kredietbeoordeling van een door de Nederlandsche Bank of door een toezichthoudende instantie van een andere lidstaat ingevolge [paragraaf 10.5](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.5&z=2007-11-01&g=2007-11-01) erkend kredietbeoordelingsbureau op een consistente wijze gebruiken. De Nederlandsche Bank stelt nadere regels met betrekking tot het gebruik van een kredietbeoordeling als bedoeld in de vorige volzin.
 
 4. De Nederlandsche Bank kent op een objectieve en consequente wijze een risicogewicht toe aan kredietbeoordelingen als bedoeld in het derde lid met inachtneming van het volgende:
 
@@ -1472,11 +1486,11 @@ Een bank, beleggingsonderneming of clearinginstelling als bedoeld in [artikel 3:
 
 - b. zij zorgt ervoor dat aan securitisatieposities die een gelijkwaardig kredietrisico lopen op grond van kredietbeoordelingen hetzelfde risicogewicht wordt toegekend; in voorkomende gevallen past zij de toekenning van een risicogewicht op grond van kredietbeoordelingen aan een securitisatiepositie aan.
 
-[Artikel 61a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=61a&z=2007-01-01&g=2007-01-01), is van overeenkomstige toepassing.
+[Artikel 61a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=61a&z=2007-11-01&g=2007-11-01), is van overeenkomstige toepassing.
 
 ##### Artikel 86
 
-1. Indien op een securitisatie van revolverende vorderingen een vervroegde- aflossingsbepaling van toepassing is, berekent een financiële onderneming als bedoeld in [artikel 83](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.4&artikel=83&z=2007-01-01&g=2007-01-01) die initiator is een aanvullende naar risico gewogen post.
+1. Indien op een securitisatie van revolverende vorderingen een vervroegde- aflossingsbepaling van toepassing is, berekent een financiële onderneming als bedoeld in [artikel 83](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.4&artikel=83&z=2007-11-01&g=2007-11-01) die initiator is een aanvullende naar risico gewogen post.
 
 2. De Nederlandsche Bank stelt regels met betrekking tot de berekening van de aanvullende naar risico gewogen post.
 
@@ -1490,7 +1504,7 @@ Een bank, beleggingsonderneming of clearinginstelling als bedoeld in [artikel 3:
 
 ##### Artikel 87
 
-1. Indien [artikel 84, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.4&artikel=84&z=2007-01-01&g=2007-01-01), van toepassing is op een financiële onderneming als bedoeld in [artikel 83](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.4&artikel=83&z=2007-01-01&g=2007-01-01) of indien een financiële onderneming als bedoeld in [artikel 83](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.4&artikel=83&z=2007-01-01&g=2007-01-01) die sponsor is steun verleent aan een securitisatie, overschrijdt zij niet de grenzen van haar contractuele verplichtingen teneinde de mogelijke of feitelijke verliezen van de beleggers te beperken.
+1. Indien [artikel 84, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.4&artikel=84&z=2007-11-01&g=2007-11-01), van toepassing is op een financiële onderneming als bedoeld in [artikel 83](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.4&artikel=83&z=2007-11-01&g=2007-11-01) of indien een financiële onderneming als bedoeld in [artikel 83](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.4&artikel=83&z=2007-11-01&g=2007-11-01) die sponsor is steun verleent aan een securitisatie, overschrijdt zij niet de grenzen van haar contractuele verplichtingen teneinde de mogelijke of feitelijke verliezen van de beleggers te beperken.
 
 2. Indien de financiële onderneming die initiator of sponsor is bij een securitisatie niet voldoet aan het eerste lid, dan houdt zij voor alle gesecuritiseerde posten evenveel toetsingsvermogen aan als noodzakelijk was geweest indien deze posten niet waren gesecuritiseerd.
 
@@ -1500,7 +1514,7 @@ Een bank, beleggingsonderneming of clearinginstelling als bedoeld in [artikel 3:
 
 ##### Artikel 88
 
-1. De Nederlandsche Bank erkent, op aanvraag, al dan niet voor bepaalde tijd, een kredietbeoordelingsbureau indien het voldoet aan de criteria, bedoeld in de [artikelen 81, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.3&artikel=81&z=2007-01-01&g=2007-01-01), en [97, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=97&z=2007-01-01&g=2007-01-01), en de bijlagen VI, deel 2 en IX, deel 3, punt 1, van de herziene richtlijn banken.
+1. De Nederlandsche Bank erkent, op aanvraag, al dan niet voor bepaalde tijd, een kredietbeoordelingsbureau indien het voldoet aan de criteria, bedoeld in de [artikelen 81, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.3&artikel=81&z=2007-11-01&g=2007-11-01), en [97, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=97&z=2007-11-01&g=2007-11-01), en de bijlagen VI, deel 2 en IX, deel 3, punt 1, van de herziene richtlijn banken.
 
 2. De Nederlandsche Bank stelt een procedure vast voor de erkenning, bedoeld in het eerste lid, en maakt deze bekend.
 
@@ -1514,27 +1528,27 @@ Een bank, beleggingsonderneming of clearinginstelling als bedoeld in [artikel 3:
 
 De Nederlandsche Bank erkent, op aanvraag, al dan niet voor bepaalde tijd, de kredietbeoordelingen van een exportkredietverzekeraar, indien de kredietbeoordelingen voldoen aan de criteria opgenomen in bijlage VI, deel 1, punt 6, van de herziene richtlijn banken.
 
-#### § 10.6. Samenstelling van het toetsingsvermogen en de solvabiliteitsmarge
+#### § 10.5. Erkenning van kredietbeoordelingen van kredietbeoordelingsbureaus en exportkredietverzekeraars
 
 ##### Artikel 89
 
-1. Bij de berekening van het toetsingsvermogen, bedoeld in de [artikelen 90 tot en met 94](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=90&z=2007-01-01&g=2007-01-01), of de aanwezige solvabiliteitsmarge, bedoeld in de [artikelen 95 tot en met 98](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=95&z=2007-01-01&g=2007-01-01), wordt per afzonderlijke post rekening gehouden met het voorzienbare bedrag van de daarover verschuldigde belastingen. De vermogensbestanddelen, bedoeld in [artikel 91, tweede lid, onderdelen a tot en met j](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=91&z=2007-01-01&g=2007-01-01), of [95, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=95&z=2007-01-01&g=2007-01-01), staan onmiddellijk en zonder beperkingen ter beschikking van de desbetreffende financiële onderneming.
+1. Bij de berekening van het toetsingsvermogen, bedoeld in de [artikelen 90 tot en met 94](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=90&z=2007-11-01&g=2007-11-01), of de aanwezige solvabiliteitsmarge, bedoeld in de [artikelen 95 tot en met 98](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=95&z=2007-11-01&g=2007-11-01), wordt per afzonderlijke post rekening gehouden met het voorzienbare bedrag van de daarover verschuldigde belastingen. De vermogensbestanddelen, bedoeld in [artikel 91, tweede lid, onderdelen a tot en met j](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=91&z=2007-11-01&g=2007-11-01), of [95, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=95&z=2007-11-01&g=2007-11-01), staan onmiddellijk en zonder beperkingen ter beschikking van de desbetreffende financiële onderneming.
 
 2. De Nederlandsche Bank stelt regels met betrekking tot:
 
-- a. het als toetsingsvermogen of aanwezige solvabiliteitsmarge in aanmerking nemen van innovatieve financiële instrumenten die gelijk te stellen zijn met de vermogensbestanddelen, bedoeld in de [artikelen 90 tot en met 98](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=90&z=2007-01-01&g=2007-01-01);
+- a. het als toetsingsvermogen of aanwezige solvabiliteitsmarge in aanmerking nemen van innovatieve financiële instrumenten die gelijk te stellen zijn met de vermogensbestanddelen, bedoeld in de [artikelen 90 tot en met 98](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=90&z=2007-11-01&g=2007-11-01);
 
-- b. het als immateriële activa als bedoeld in de [artikelen 91, derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=91&z=2007-01-01&g=2007-01-01), en [95, derde lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=95&z=2007-01-01&g=2007-01-01), in aanmerking nemen van activa.
+- b. het als immateriële activa als bedoeld in de [artikelen 91, derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=91&z=2007-11-01&g=2007-11-01), en [95, derde lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=95&z=2007-11-01&g=2007-11-01), in aanmerking nemen van activa.
 
 ##### Artikel 90
 
-1. Het toetsingsvermogen van een bank, beleggingsonderneming of clearinginstelling als bedoeld in [artikel 3:57, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:57), [3:58, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:58), of [3:61, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:61) wordt gevormd door de som van het overeenkomstig [artikel 94, eerste lid, onderdelen a tot en met c, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=94&z=2007-01-01&g=2007-01-01), in aanmerking te nemen kernkapitaal en aanvullend kapitaal.
+1. Het toetsingsvermogen van een bank, beleggingsonderneming of clearinginstelling als bedoeld in [artikel 3:57, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:57), [3:58, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:58), of [3:61, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:61) wordt gevormd door de som van het overeenkomstig [artikel 94, eerste lid, onderdelen a tot en met c, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=94&z=2007-11-01&g=2007-11-01), in aanmerking te nemen kernkapitaal en aanvullend kapitaal.
 
-2. In afwijking van het eerste lid kan de financiële onderneming ervoor kiezen dat haar toetsingsvermogen, uitsluitend ter dekking van de bedragen, bedoeld in [artikel 60, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=60&z=2007-01-01&g=2007-01-01), voor zover het betreft de vereiste solvabiliteit ter dekking van de positierisico’s en grote posities, en onderdeel c, en het vereiste, bedoeld in [artikel 60, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=60&z=2007-01-01&g=2007-01-01), wordt gevormd door de som van het overeenkomstig [artikel 94](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=94&z=2007-01-01&g=2007-01-01), in aanmerking te nemen kernkapitaal, aanvullend kapitaal en overig kapitaal. De bestanddelen van dit toetsingsvermogen dienen niet tevens ter dekking van andere in [artikel 60, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=60&z=2007-01-01&g=2007-01-01), bedoelde bedragen.
+2. In afwijking van het eerste lid kan de financiële onderneming ervoor kiezen dat haar toetsingsvermogen, uitsluitend ter dekking van de bedragen, bedoeld in [artikel 60, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=60&z=2007-11-01&g=2007-11-01), voor zover het betreft de vereiste solvabiliteit ter dekking van de positierisico’s en grote posities, en onderdeel c, en het vereiste, bedoeld in [artikel 60, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=60&z=2007-11-01&g=2007-11-01), wordt gevormd door de som van het overeenkomstig [artikel 94](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=94&z=2007-11-01&g=2007-11-01), in aanmerking te nemen kernkapitaal, aanvullend kapitaal en overig kapitaal. De bestanddelen van dit toetsingsvermogen dienen niet tevens ter dekking van andere in [artikel 60, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=60&z=2007-11-01&g=2007-11-01), bedoelde bedragen.
 
-3. Het toetsingsvermogen van een beheerder van een instelling voor collectieve belegging in effecten als bedoeld in [artikel 3:57, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:57) wordt gevormd door de som van het overeenkomstig [artikel 94, eerste lid, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=94&z=2007-01-01&g=2007-01-01), in aanmerking te nemen kernkapitaal en aanvullend kapitaal.
+3. Het toetsingsvermogen van een beheerder van een instelling voor collectieve belegging in effecten als bedoeld in [artikel 3:57, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:57) wordt gevormd door de som van het overeenkomstig [artikel 94, eerste lid, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=94&z=2007-11-01&g=2007-11-01), in aanmerking te nemen kernkapitaal en aanvullend kapitaal.
 
-4. Het toetsingsvermogen van een elektronischgeldinstelling als bedoeld in [artikel 3:57, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:57), of [3:58, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:58) wordt gevormd door de som van het overeenkomstig [artikel 94, eerste lid, onderdelen a en b, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=94&z=2007-01-01&g=2007-01-01), in aanmerking te nemen kernkapitaal en aanvullend hoger kapitaal.
+4. Het toetsingsvermogen van een elektronischgeldinstelling als bedoeld in [artikel 3:57, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:57), of [3:58, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:58) wordt gevormd door de som van het overeenkomstig [artikel 94, eerste lid, onderdelen a en b, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=94&z=2007-11-01&g=2007-11-01), in aanmerking te nemen kernkapitaal en aanvullend hoger kapitaal.
 
 ##### Artikel 91
 
@@ -1574,11 +1588,11 @@ De Nederlandsche Bank erkent, op aanvraag, al dan niet voor bepaalde tijd, de kr
 
 - d. reserves, voor zover ontstaan door nog niet tot het resultaat gerekende waardeveranderingen van afdekkingstransacties; en
 
-- e. in geval van een financiële onderneming die [artikel 90, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=90&z=2007-01-01&g=2007-01-01), toepast, of een beheerder van een instelling voor collectieve belegging in effecten, de volgende niet-liquide activa:
+- e. in geval van een financiële onderneming die [artikel 90, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=90&z=2007-11-01&g=2007-11-01), toepast, of een beheerder van een instelling voor collectieve belegging in effecten, de volgende niet-liquide activa:
 
 - 1°. materiële vaste activa andere dan terreinen en gebouwen die in aanmerking genomen kunnen worden tegenover de leningen waarvoor zij als zekerheid dienen;
 
-- 2°. de posten, bedoeld in [artikel 94, tweede lid, aanhef en onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=94&z=2007-01-01&g=2007-01-01), waarbij het [vijfde tot en met zevende lid van dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=94&z=2007-01-01&g=2007-01-01) van overeenkomstige toepassing zijn;
+- 2°. de posten, bedoeld in [artikel 94, tweede lid, aanhef en onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=94&z=2007-11-01&g=2007-11-01), waarbij het [vijfde tot en met zevende lid van dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=94&z=2007-11-01&g=2007-11-01) van overeenkomstige toepassing zijn;
 
 - 3°. niet onmiddellijk verhandelbare deelnemingen en andere beleggingen in ondernemingen die geen financiële instellingen, herverzekeraars, kredietinstellingen of verzekeraars zijn;
 
@@ -1596,7 +1610,7 @@ De Nederlandsche Bank erkent, op aanvraag, al dan niet voor bepaalde tijd, de kr
 
 2. Het hoger aanvullend kapitaal wordt gevormd door de waarde van:
 
-- a. de herwaarderingsreserves, voor zover niet reeds verwerkt in [artikel 91, tweede lid, onderdeel j](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=91&z=2007-01-01&g=2007-01-01), en voor zover niet ontstaan door nog niet tot het resultaat gerekende waardeveranderingen van afdekkingstransacties of door waardering van rentedragende waarden tegen de actuele waarde;
+- a. de herwaarderingsreserves, voor zover niet reeds verwerkt in [artikel 91, tweede lid, onderdeel j](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=91&z=2007-11-01&g=2007-11-01), en voor zover niet ontstaan door nog niet tot het resultaat gerekende waardeveranderingen van afdekkingstransacties of door waardering van rentedragende waarden tegen de actuele waarde;
 
 - b. het gestorte deel op schuldtitels met onbepaalde looptijd en andere financieringsinstrumenten indien:
 
@@ -1610,7 +1624,7 @@ De Nederlandsche Bank erkent, op aanvraag, al dan niet voor bepaalde tijd, de kr
 
 - c. cumulatief preferente aandelen met onbepaalde looptijd, voor zover deel uitmakend van het gestorte kapitaal;
 
-- d. het verschil, indien positief, van de som van de waardeaanpassingen en voorzieningen die samenhangen met de verwachte verliesposten in verband met de activa en posten buiten de balanstelling, bedoeld in [artikel 71, eerste lid, onderdelen a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.2&artikel=71&z=2007-01-01&g=2007-01-01), en de som van die verwachte verliesposten berekend ingevolge [artikel 75, eerste lid, onderdelen a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.2&artikel=75&z=2007-01-01&g=2007-01-01), indien de financiële onderneming [paragraaf 10.2](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.2&z=2007-01-01&g=2007-01-01) toepast en dit verschil in aanmerking genomen wordt tot ten hoogste 0,6 procent van het totaal van de naar risico gewogen activa en posten buiten de balanstelling, met dien verstande dat bij de berekening van de naar risico gewogen activa en posten buiten de balanstelling niet de securitisatieposities waaraan een risicogewicht van 1250 procent is toegekend in aanmerking worden genomen; de waardeaanpassingen en voorzieningen worden slechts op grond van dit onderdeel als toetsingsvermogen van de financiële onderneming in aanmerking genomen; en
+- d. het verschil, indien positief, van de som van de waardeaanpassingen en voorzieningen die samenhangen met de verwachte verliesposten in verband met de activa en posten buiten de balanstelling, bedoeld in [artikel 71, eerste lid, onderdelen a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.2&artikel=71&z=2007-11-01&g=2007-11-01), en de som van die verwachte verliesposten berekend ingevolge [artikel 75, eerste lid, onderdelen a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.2&artikel=75&z=2007-11-01&g=2007-11-01), indien de financiële onderneming [paragraaf 10.2](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.2&z=2007-11-01&g=2007-11-01) toepast en dit verschil in aanmerking genomen wordt tot ten hoogste 0,6 procent van het totaal van de naar risico gewogen activa en posten buiten de balanstelling, met dien verstande dat bij de berekening van de naar risico gewogen activa en posten buiten de balanstelling niet de securitisatieposities waaraan een risicogewicht van 1250 procent is toegekend in aanmerking worden genomen; de waardeaanpassingen en voorzieningen worden slechts op grond van dit onderdeel als toetsingsvermogen van de financiële onderneming in aanmerking genomen; en
 
 - e. het belang van derden, voor zover het vermogensbestanddelen als bedoeld in dit lid omvat.
 
@@ -1642,11 +1656,11 @@ Het overig kapitaal wordt gevormd door de waarde van het gestorte deel op kortlo
 
 - b. de leningovereenkomst geen bepaling bevat op grond waarvan de achtergestelde lening voor het einde van de looptijd, anders dan bij liquidatie, moet worden afgelost, tenzij de Nederlandsche Bank daartoe, op verzoek van de financiële onderneming, besluit; en
 
-- c. op de achtergestelde lening, indien het toetsingsvermogen minder dan 120 procent bedraagt van de minimumomvang van het toetsingsvermogen, bedoeld in [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=60&z=2007-01-01&g=2007-01-01), niet wordt afgelost, tenzij de financiële onderneming hiervan kennis geeft aan de Nederlandsche Bank.
+- c. op de achtergestelde lening, indien het toetsingsvermogen minder dan 120 procent bedraagt van de minimumomvang van het toetsingsvermogen, bedoeld in [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=60&z=2007-11-01&g=2007-11-01), niet wordt afgelost, tenzij de financiële onderneming hiervan kennis geeft aan de Nederlandsche Bank.
 
 ##### Artikel 94
 
-1. Voor de toepassing van de [artikelen 90 tot en met 93](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=90&z=2007-01-01&g=2007-01-01):
+1. Voor de toepassing van de [artikelen 90 tot en met 93](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=90&z=2007-11-01&g=2007-11-01):
 
 - a. wordt het kernkapitaal volledig voor de berekening van het toetsingsvermogen in aanmerking genomen;
 
@@ -1660,27 +1674,27 @@ Het overig kapitaal wordt gevormd door de waarde van het gestorte deel op kortlo
 
 - f. mag, indien wordt voldaan aan de onderdelen b, c en e, voor de berekening van het toetsingsvermogen het overig kapitaal worden gesubstitueerd door aanvullend kapitaal.
 
-2. Het ingevolge het eerste lid als toetsingsvermogen in aanmerking te nemen kernkapitaal en aanvullend kapitaal van een bank, beleggingsonderneming of clearinginstelling als bedoeld in [artikel 90, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=90&z=2007-01-01&g=2007-01-01), of elektronischgeldinstelling als bedoeld in [artikel 90, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=90&z=2007-01-01&g=2007-01-01), worden beide verminderd met de helft van de som van de waarde van:
+2. Het ingevolge het eerste lid als toetsingsvermogen in aanmerking te nemen kernkapitaal en aanvullend kapitaal van een bank, beleggingsonderneming of clearinginstelling als bedoeld in [artikel 90, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=90&z=2007-11-01&g=2007-11-01), of elektronischgeldinstelling als bedoeld in [artikel 90, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=90&z=2007-11-01&g=2007-11-01), worden beide verminderd met de helft van de som van de waarde van:
 
 - a. aandelen die een belang van meer dan tien procent vertegenwoordigen van het geplaatste aandelenkapitaal van een financiële instelling of kredietinstelling;
 
-- b. indien de bank, clearinginstelling of elektronischgeldinstelling een belang als bedoeld in onderdeel a aanhoudt, de achtergestelde leningen en de posten, bedoeld in [artikel 92, tweede lid, onderdelen b en c, en derde lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=92&z=2007-01-01&g=2007-01-01), die tot het toetsingsvermogen van de financiële instelling of kredietinstelling gerekend worden;
+- b. indien de bank, clearinginstelling of elektronischgeldinstelling een belang als bedoeld in onderdeel a aanhoudt, de achtergestelde leningen en de posten, bedoeld in [artikel 92, tweede lid, onderdelen b en c, en derde lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=92&z=2007-11-01&g=2007-11-01), die tot het toetsingsvermogen van de financiële instelling of kredietinstelling gerekend worden;
 
-- c. aandelen die een belang van tien procent of minder vertegenwoordigen van het geplaatste aandelenkapitaal van een financiële instelling of kredietinstelling, achtergestelde leningen en posten, bedoeld in [artikel 92, tweede lid, onderdelen b en c, en derde lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=92&z=2007-01-01&g=2007-01-01), die tot het toetsingsvermogen van andere dan de in onderdeel b bedoelde financiële instellingen of kredietinstellingen gerekend worden, voor zover de waarde tien procent van het in aanmerking te nemen toetsingsvermogen van de bank, clearinginstelling of elektronischgeldinstelling zonder toepassing van dit lid overstijgt, en indien de genoemde posten deel uitmaken van de handelsportefeuille van de bank, clearinginstelling of elektronischgeldinstelling voor zover de waarde per individuele financiële instelling of kredietinstelling tien procent van het in aanmerking te nemen toetsingsvermogen van de bank, clearinginstelling of elektronischgeldinstelling zonder toepassing van dit lid overstijgt;
+- c. aandelen die een belang van tien procent of minder vertegenwoordigen van het geplaatste aandelenkapitaal van een financiële instelling of kredietinstelling, achtergestelde leningen en posten, bedoeld in [artikel 92, tweede lid, onderdelen b en c, en derde lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=92&z=2007-11-01&g=2007-11-01), die tot het toetsingsvermogen van andere dan de in onderdeel b bedoelde financiële instellingen of kredietinstellingen gerekend worden, voor zover de waarde tien procent van het in aanmerking te nemen toetsingsvermogen van de bank, clearinginstelling of elektronischgeldinstelling zonder toepassing van dit lid overstijgt, en indien de genoemde posten deel uitmaken van de handelsportefeuille van de bank, clearinginstelling of elektronischgeldinstelling voor zover de waarde per individuele financiële instelling of kredietinstelling tien procent van het in aanmerking te nemen toetsingsvermogen van de bank, clearinginstelling of elektronischgeldinstelling zonder toepassing van dit lid overstijgt;
 
 - d. deelnemingen als bedoeld in [artikel 3:268, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:268) in een herverzekeraar of verzekeraar;
 
-- e. indien de bank, clearinginstelling of elektronischgeldinstelling een deelneming als bedoeld in onderdeel d aanhoudt, de posten, bedoeld in [artikel 96](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=96&z=2007-01-01&g=2007-01-01), die tot de solvabiliteitsmarge van de herverzekeraar of verzekeraar worden gerekend;
+- e. indien de bank, clearinginstelling of elektronischgeldinstelling een deelneming als bedoeld in onderdeel d aanhoudt, de posten, bedoeld in [artikel 96](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=96&z=2007-11-01&g=2007-11-01), die tot de solvabiliteitsmarge van de herverzekeraar of verzekeraar worden gerekend;
 
-- f. indien de financiële onderneming voor de berekening van de naar risico gewogen activa en posten buiten de balanstelling ingevolge [paragraaf 10.2](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.2&z=2007-01-01&g=2007-01-01) een interne modellenmethode toepast:
+- f. indien de financiële onderneming voor de berekening van de naar risico gewogen activa en posten buiten de balanstelling ingevolge [paragraaf 10.2](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.2&z=2007-11-01&g=2007-11-01) een interne modellenmethode toepast:
 
-- 1°. het verschil, indien negatief, van de som van de waardeaanpassingen en voorzieningen die samenhangen met de verwachte verliesposten in verband met de activa en posten buiten de balanstelling, bedoeld in [artikel 71, eerste lid, onderdelen a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.2&artikel=71&z=2007-01-01&g=2007-01-01), en de som van die verwachte verliesposten, berekend ingevolge [artikel 75, eerste lid, onderdelen a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.2&artikel=75&z=2007-01-01&g=2007-01-01);
+- 1°. het verschil, indien negatief, van de som van de waardeaanpassingen en voorzieningen die samenhangen met de verwachte verliesposten in verband met de activa en posten buiten de balanstelling, bedoeld in [artikel 71, eerste lid, onderdelen a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.2&artikel=71&z=2007-11-01&g=2007-11-01), en de som van die verwachte verliesposten, berekend ingevolge [artikel 75, eerste lid, onderdelen a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.2&artikel=75&z=2007-11-01&g=2007-11-01);
 
-- 2°. de verwachte verliesposten in verband met posities in aandelen, bedoeld in [artikel 71, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.2&artikel=71&z=2007-01-01&g=2007-01-01), berekend ingevolge [artikel 75, eerste lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.2&artikel=75&z=2007-01-01&g=2007-01-01); en
+- 2°. de verwachte verliesposten in verband met posities in aandelen, bedoeld in [artikel 71, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.2&artikel=71&z=2007-11-01&g=2007-11-01), berekend ingevolge [artikel 75, eerste lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.2&artikel=75&z=2007-11-01&g=2007-11-01); en
 
-- g. de vorderingen bij securitisatieposities waaraan ingevolge [artikel 85, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.4&artikel=85&z=2007-01-01&g=2007-01-01), een risicogewicht van 1250 procent wordt toegekend, voor zover deze niet in aanmerking zijn genomen in de berekening van de naar risico gewogen activa en posten buiten de balanstelling, bedoeld in [artikel 85](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.4&artikel=85&z=2007-01-01&g=2007-01-01).
+- g. de vorderingen bij securitisatieposities waaraan ingevolge [artikel 85, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.4&artikel=85&z=2007-11-01&g=2007-11-01), een risicogewicht van 1250 procent wordt toegekend, voor zover deze niet in aanmerking zijn genomen in de berekening van de naar risico gewogen activa en posten buiten de balanstelling, bedoeld in [artikel 85](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.4&artikel=85&z=2007-11-01&g=2007-11-01).
 
-3. In afwijking van het tweede lid worden het als toetsingsvermogen in aanmerking te nemen kernkapitaal en aanvullend kapitaal van de financiële onderneming die [artikel 90, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=90&z=2007-01-01&g=2007-01-01), toepast, verminderd met de helft van de som van de waarde van de posten, bedoeld in het tweede lid, onderdelen f en g.
+3. In afwijking van het tweede lid worden het als toetsingsvermogen in aanmerking te nemen kernkapitaal en aanvullend kapitaal van de financiële onderneming die [artikel 90, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=90&z=2007-11-01&g=2007-11-01), toepast, verminderd met de helft van de som van de waarde van de posten, bedoeld in het tweede lid, onderdelen f en g.
 
 4. Indien de helft van de som van de waarde van de bestanddelen, bedoeld in het tweede lid, meer bedraagt dan het als toetsingsvermogen in aanmerking te nemen aanvullend kapitaal, wordt het verschil in mindering gebracht op het als toetsingsvermogen in aanmerking te nemen kernkapitaal.
 
@@ -1718,7 +1732,7 @@ Het overig kapitaal wordt gevormd door de waarde van het gestorte deel op kortlo
 
 - a. de reserves, voor zover ontstaan door ongerealiseerde resultaten op de eigen kredietwaardigheid van de verzekeraar;
 
-- b. de egalisatiereserve voor de branche Krediet, bedoeld in [artikel 114, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.1&artikel=114&z=2007-01-01&g=2007-01-01);
+- b. de egalisatiereserve voor de branche Krediet, bedoeld in [artikel 114, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.1&artikel=114&z=2007-11-01&g=2007-11-01);
 
 - c. het onverdeelde verlies;
 
@@ -1728,7 +1742,7 @@ Het overig kapitaal wordt gevormd door de waarde van het gestorte deel op kortlo
 
 - f. deelnemingen als bedoeld in [artikel 3:268, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:268) in een beleggingsonderneming, financiële instelling, herverzekeraar, kredietinstelling, verzekeraar of verzekeringsholding als bedoeld in [artikel 3:268, eerste lid, onderdeel j, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:268); en
 
-- g. indien de verzekeraar een deelneming als bedoeld in onderdeel f aanhoudt: de posten, bedoeld in de [artikelen 92, tweede lid, onderdelen b en c, en derde lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=92&z=2007-01-01&g=2007-01-01), en [96](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=96&z=2007-01-01&g=2007-01-01), die tot de solvabiliteitsmarge dan wel het toetsingsvermogen van de financiële onderneming, bedoeld in onderdeel f, worden gerekend.
+- g. indien de verzekeraar een deelneming als bedoeld in onderdeel f aanhoudt: de posten, bedoeld in de [artikelen 92, tweede lid, onderdelen b en c, en derde lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=92&z=2007-11-01&g=2007-11-01), en [96](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=96&z=2007-11-01&g=2007-11-01), die tot de solvabiliteitsmarge dan wel het toetsingsvermogen van de financiële onderneming, bedoeld in onderdeel f, worden gerekend.
 
 4. De Nederlandsche Bank kan, op verzoek, besluiten dat een verzekeraar als bedoeld in het eerste lid, al dan niet voor bepaalde tijd, zijn aanwezige solvabiliteitsmarge niet hoeft te verminderen met de waarde van de posten, bedoeld in het derde lid, onderdelen f en g, indien deze posten tijdelijk worden gehouden met het oog op een financiële bijstandsoperatie, bedoeld om de financiële onderneming, bedoeld in het derde lid, onderdeel f, te saneren of te redden.
 
@@ -1736,19 +1750,19 @@ Het overig kapitaal wordt gevormd door de waarde van het gestorte deel op kortlo
 
 ##### Artikel 96
 
-De aanwezige solvabiliteitsmarge, bedoeld in [artikel 95, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=95&z=2007-01-01&g=2007-01-01), wordt tevens gevormd door de waarde van:
+De aanwezige solvabiliteitsmarge, bedoeld in [artikel 95, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=95&z=2007-11-01&g=2007-11-01), wordt tevens gevormd door de waarde van:
 
 - a. cumulatief preferente aandelen;
 
-- b. het gestorte deel op achtergestelde leningen indien is voldaan aan de voorwaarden, bedoeld in [artikel 92, derde lid, onderdeel c, onder 1° tot en met 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=92&z=2007-01-01&g=2007-01-01), en de leningovereenkomst slechts gewijzigd kan worden indien de Nederlandsche Bank daartoe, op verzoek, besluit; en
+- b. het gestorte deel op achtergestelde leningen indien is voldaan aan de voorwaarden, bedoeld in [artikel 92, derde lid, onderdeel c, onder 1° tot en met 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=92&z=2007-11-01&g=2007-11-01), en de leningovereenkomst slechts gewijzigd kan worden indien de Nederlandsche Bank daartoe, op verzoek, besluit; en
 
-- c. het gestorte deel op schuldtitels met onbepaalde looptijd en andere financieringsinstrumenten indien aan de voorwaarden, bedoeld in [artikel 92, tweede lid, onderdeel b, onder 1° tot en met 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=92&z=2007-01-01&g=2007-01-01), is voldaan.
+- c. het gestorte deel op schuldtitels met onbepaalde looptijd en andere financieringsinstrumenten indien aan de voorwaarden, bedoeld in [artikel 92, tweede lid, onderdeel b, onder 1° tot en met 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=92&z=2007-11-01&g=2007-11-01), is voldaan.
 
 ##### Artikel 97
 
-1. De Nederlandsche Bank kan er, op verzoek, mee instemmen dat de verzekeraar bij de berekening van de aanwezige solvabiliteitsmarge, bedoeld in [artikel 95, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=95&z=2007-01-01&g=2007-01-01), tevens de waarde betrekt van:
+1. De Nederlandsche Bank kan er, op verzoek, mee instemmen dat de verzekeraar bij de berekening van de aanwezige solvabiliteitsmarge, bedoeld in [artikel 95, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=95&z=2007-11-01&g=2007-11-01), tevens de waarde betrekt van:
 
-- a. meerwaarden in verband met de onderwaardering van activa of overwaardering van de technische voorzieningen ingevolge [artikel 121, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.1&artikel=121&z=2007-01-01&g=2007-01-01), of, in geval van een levensverzekeraar of natura-uitvaartverzekeraar, meerwaarden op grond van winstverwachtingen;
+- a. meerwaarden in verband met de onderwaardering van activa of overwaardering van de technische voorzieningen ingevolge [artikel 121, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.1&artikel=121&z=2007-11-01&g=2007-11-01), of, in geval van een levensverzekeraar of natura-uitvaartverzekeraar, meerwaarden op grond van winstverwachtingen;
 
 - b. suppletiebijdragen die een onderlinge waarborgmaatschappij die het bedrijf van natura-uitvaartverzekeraar of schadeverzekeraar uitoefent, tijdens het boekjaar krachtens de statuten van haar leden kan eisen tot maximaal vijftig procent van het verschil tussen de maximumbijdragen en de werkelijk gevorderde bedragen; of
 
@@ -1758,37 +1772,37 @@ De aanwezige solvabiliteitsmarge, bedoeld in [artikel 95, eerste lid](https://we
 
 ##### Artikel 98
 
-1. Voor de toepassing van de [artikelen 95 tot en met 97](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=95&z=2007-01-01&g=2007-01-01) ten aanzien van levensverzekeraars en schadeverzekeraars:
+1. Voor de toepassing van de [artikelen 95 tot en met 97](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=95&z=2007-11-01&g=2007-11-01) ten aanzien van levensverzekeraars en schadeverzekeraars:
 
-- a. wordt de waarde van de vermogensbestanddelen, bedoeld in [artikel 95, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=95&z=2007-01-01&g=2007-01-01), verminderd met de waarde van de posten, bedoeld in [artikel 95, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=95&z=2007-01-01&g=2007-01-01), volledig voor de berekening van de aanwezige solvabiliteitsmarge in aanmerking genomen;
+- a. wordt de waarde van de vermogensbestanddelen, bedoeld in [artikel 95, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=95&z=2007-11-01&g=2007-11-01), verminderd met de waarde van de posten, bedoeld in [artikel 95, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=95&z=2007-11-01&g=2007-11-01), volledig voor de berekening van de aanwezige solvabiliteitsmarge in aanmerking genomen;
 
-- b. wordt de waarde van de vermogensbestanddelen, bedoeld in de [artikelen 96](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=96&z=2007-01-01&g=2007-01-01) en [97](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=97&z=2007-01-01&g=2007-01-01), voor zover het niet betreft de meerwaarden in verband met de onderwaardering van activa of overwaardering van de technische voorzieningen ingevolge [artikel 121, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.1&artikel=121&z=2007-01-01&g=2007-01-01), voor de berekening van de aanwezige solvabiliteitsmarge gezamenlijk slechts in aanmerking genomen voor zover deze niet meer bedraagt dan vijftig procent van het totaal van de aanwezige solvabiliteitsmarge of het minimumbedrag aan solvabiliteitsmarge, naar gelang welk bedrag het laagst is; en
+- b. wordt de waarde van de vermogensbestanddelen, bedoeld in de [artikelen 96](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=96&z=2007-11-01&g=2007-11-01) en [97](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=97&z=2007-11-01&g=2007-11-01), voor zover het niet betreft de meerwaarden in verband met de onderwaardering van activa of overwaardering van de technische voorzieningen ingevolge [artikel 121, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.1&artikel=121&z=2007-11-01&g=2007-11-01), voor de berekening van de aanwezige solvabiliteitsmarge gezamenlijk slechts in aanmerking genomen voor zover deze niet meer bedraagt dan vijftig procent van het totaal van de aanwezige solvabiliteitsmarge of het minimumbedrag aan solvabiliteitsmarge, naar gelang welk bedrag het laagst is; en
 
-- c. wordt de waarde van de vermogensbestanddelen, bedoeld in [artikel 96, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=96&z=2007-01-01&g=2007-01-01), met een vaste looptijd en, in geval van een levensverzekeraar, maximaal vijftig procent van de waarde van de meerwaarden op grond van winstverwachtingen, bedoeld in [artikel 97, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=97&z=2007-01-01&g=2007-01-01), voor de berekening van de aanwezige solvabiliteitsmarge gezamenlijk slechts in aanmerking genomen voor zover deze niet meer bedragen dan 25 procent van het totaal van de aanwezige solvabiliteitsmarge of het minimumbedrag aan solvabiliteitsmarge, naar gelang welk bedrag het laagst is.
+- c. wordt de waarde van de vermogensbestanddelen, bedoeld in [artikel 96, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=96&z=2007-11-01&g=2007-11-01), met een vaste looptijd en, in geval van een levensverzekeraar, maximaal vijftig procent van de waarde van de meerwaarden op grond van winstverwachtingen, bedoeld in [artikel 97, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=97&z=2007-11-01&g=2007-11-01), voor de berekening van de aanwezige solvabiliteitsmarge gezamenlijk slechts in aanmerking genomen voor zover deze niet meer bedragen dan 25 procent van het totaal van de aanwezige solvabiliteitsmarge of het minimumbedrag aan solvabiliteitsmarge, naar gelang welk bedrag het laagst is.
 
-2. Voor de toepassing van de [artikelen 95 tot en met 97](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=95&z=2007-01-01&g=2007-01-01) ten aanzien van natura-uitvaartverzekeraars:
+2. Voor de toepassing van de [artikelen 95 tot en met 97](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=95&z=2007-11-01&g=2007-11-01) ten aanzien van natura-uitvaartverzekeraars:
 
-- a. wordt de waarde van de vermogensbestanddelen, bedoeld in [artikel 95, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=95&z=2007-01-01&g=2007-01-01), verminderd met de waarde van de posten, bedoeld in [artikel 95, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=95&z=2007-01-01&g=2007-01-01), volledig voor de berekening van de aanwezige solvabiliteitsmarge in aanmerking genomen;
+- a. wordt de waarde van de vermogensbestanddelen, bedoeld in [artikel 95, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=95&z=2007-11-01&g=2007-11-01), verminderd met de waarde van de posten, bedoeld in [artikel 95, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=95&z=2007-11-01&g=2007-11-01), volledig voor de berekening van de aanwezige solvabiliteitsmarge in aanmerking genomen;
 
-- b. wordt de waarde van de vermogensbestanddelen, bedoeld in de [artikelen 96](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=96&z=2007-01-01&g=2007-01-01) en [97, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=97&z=2007-01-01&g=2007-01-01), voor de berekening van de aanwezige solvabiliteitsmarge gezamenlijk slechts in aanmerking genomen voor zover deze niet meer bedraagt dan vijftig procent van het minimumbedrag aan solvabiliteitsmarge; en
+- b. wordt de waarde van de vermogensbestanddelen, bedoeld in de [artikelen 96](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=96&z=2007-11-01&g=2007-11-01) en [97, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=97&z=2007-11-01&g=2007-11-01), voor de berekening van de aanwezige solvabiliteitsmarge gezamenlijk slechts in aanmerking genomen voor zover deze niet meer bedraagt dan vijftig procent van het minimumbedrag aan solvabiliteitsmarge; en
 
-- c. wordt de waarde van de vermogensbestanddelen, bedoeld in [artikel 96, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=96&z=2007-01-01&g=2007-01-01), met een vaste looptijd voor de berekening van de aanwezige solvabiliteitsmarge gezamenlijk slechts in aanmerking genomen voor zover deze niet meer bedraagt dan 25 procent van het minimumbedrag aan solvabiliteitsmarge.
+- c. wordt de waarde van de vermogensbestanddelen, bedoeld in [artikel 96, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=96&z=2007-11-01&g=2007-11-01), met een vaste looptijd voor de berekening van de aanwezige solvabiliteitsmarge gezamenlijk slechts in aanmerking genomen voor zover deze niet meer bedraagt dan 25 procent van het minimumbedrag aan solvabiliteitsmarge.
 
-3. Voor de berekening van de aanwezige solvabiliteitsmarge van een levensverzekeraar of natura-uitvaartverzekeraar wordt niet meegerekend het positieve verschil tussen de gedisconteerde technische voorzieningen die niet worden gedekt door rentedragende beleggingen met dezelfde looptijd, berekend met een voorzichtige vaste disconteringsvoet en met de disconteringsvoet die is gebruikt voor de toets, bedoeld in [artikel 121, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.1&artikel=121&z=2007-01-01&g=2007-01-01), tenzij hiermee reeds rekening gehouden is in de balanswaardering van de technische voorzieningen. De Nederlandsche Bank stelt de voorzichtige vaste disconteringsvoet vast.
+3. Voor de berekening van de aanwezige solvabiliteitsmarge van een levensverzekeraar of natura-uitvaartverzekeraar wordt niet meegerekend het positieve verschil tussen de gedisconteerde technische voorzieningen die niet worden gedekt door rentedragende beleggingen met dezelfde looptijd, berekend met een voorzichtige vaste disconteringsvoet en met de disconteringsvoet die is gebruikt voor de toets, bedoeld in [artikel 121, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.1&artikel=121&z=2007-11-01&g=2007-11-01), tenzij hiermee reeds rekening gehouden is in de balanswaardering van de technische voorzieningen. De Nederlandsche Bank stelt de voorzichtige vaste disconteringsvoet vast.
 
-4. Voor de berekening van de aanwezige solvabiliteitsmarge van een schadeverzekeraar, die overeenkomstig [artikel 121, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.1&artikel=121&z=2007-01-01&g=2007-01-01), de toets naar de toereikendheid van de balanswaarde van de voorzieningen uitvoert, wordt niet meegerekend het positieve verschil tussen de uitkomst van de toets zonder discontering en de balanswaarde van de technische voorzieningen, bedoeld in [artikel 121, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.1&artikel=121&z=2007-01-01&g=2007-01-01), voor alle verplichtingen die geen verband houden met de branches Ongevallen en Ziekte en die niet resulteren in periodieke uitkeringen. Het derde lid is van overeenkomstige toepassing op de in de toets naar de toereikendheid van de balanswaarde van de voorzieningen betrokken verplichtingen die verband houden met de branches Ongevallen en Ziekte of die resulteren in periodieke uitkeringen.
+4. Voor de berekening van de aanwezige solvabiliteitsmarge van een schadeverzekeraar, die overeenkomstig [artikel 121, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.1&artikel=121&z=2007-11-01&g=2007-11-01), de toets naar de toereikendheid van de balanswaarde van de voorzieningen uitvoert, wordt niet meegerekend het positieve verschil tussen de uitkomst van de toets zonder discontering en de balanswaarde van de technische voorzieningen, bedoeld in [artikel 121, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.1&artikel=121&z=2007-11-01&g=2007-11-01), voor alle verplichtingen die geen verband houden met de branches Ongevallen en Ziekte en die niet resulteren in periodieke uitkeringen. Het derde lid is van overeenkomstige toepassing op de in de toets naar de toereikendheid van de balanswaarde van de voorzieningen betrokken verplichtingen die verband houden met de branches Ongevallen en Ziekte of die resulteren in periodieke uitkeringen.
 
 ##### Artikel 99
 
-1. De [artikelen 89](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=89&z=2007-01-01&g=2007-01-01), [96](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=96&z=2007-01-01&g=2007-01-01), [96](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=96&z=2007-01-01&g=2007-01-01), [97, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=97&z=2007-01-01&g=2007-01-01), voor zover dit lid niet de meerwaarden op grond van winstverwachtingen betreft, en [98, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=98&z=2007-01-01&g=2007-01-01), zijn van overeenkomstige toepassing op het garantiefonds van een levensverzekeraar of schadeverzekeraar als bedoeld in [artikel 3:57, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:57), of [3:58, eerste of tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:58).
+1. De [artikelen 89](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=89&z=2007-11-01&g=2007-11-01), [96](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=96&z=2007-11-01&g=2007-11-01), [96](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=96&z=2007-11-01&g=2007-11-01), [97, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=97&z=2007-11-01&g=2007-11-01), voor zover dit lid niet de meerwaarden op grond van winstverwachtingen betreft, en [98, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=98&z=2007-11-01&g=2007-11-01), zijn van overeenkomstige toepassing op het garantiefonds van een levensverzekeraar of schadeverzekeraar als bedoeld in [artikel 3:57, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:57), of [3:58, eerste of tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:58).
 
-2. De [artikelen 89](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=89&z=2007-01-01&g=2007-01-01), [95 tot en met 97](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=95&z=2007-01-01&g=2007-01-01) en [98, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=98&z=2007-01-01&g=2007-01-01), zijn van overeenkomstige toepassing op het garantiefonds van een natura-uitvaartverzekeraar als bedoeld in [artikel 3:57, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:57), of [3:61, eerste of tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:61).
+2. De [artikelen 89](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=89&z=2007-11-01&g=2007-11-01), [95 tot en met 97](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=95&z=2007-11-01&g=2007-11-01) en [98, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=98&z=2007-11-01&g=2007-11-01), zijn van overeenkomstige toepassing op het garantiefonds van een natura-uitvaartverzekeraar als bedoeld in [artikel 3:57, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:57), of [3:61, eerste of tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:61).
 
 ##### Artikel 100
 
-1. De [artikelen 89](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=89&z=2007-01-01&g=2007-01-01), [95 tot en met 97](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=95&z=2007-01-01&g=2007-01-01), [98, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=98&z=2007-01-01&g=2007-01-01), en [99](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=99&z=2007-01-01&g=2007-01-01), zijn van overeenkomstige toepassing op bijkantoren als bedoeld in [artikel 3:59, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:59).
+1. De [artikelen 89](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=89&z=2007-11-01&g=2007-11-01), [95 tot en met 97](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=95&z=2007-11-01&g=2007-11-01), [98, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=98&z=2007-11-01&g=2007-11-01), en [99](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=99&z=2007-11-01&g=2007-11-01), zijn van overeenkomstige toepassing op bijkantoren als bedoeld in [artikel 3:59, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:59).
 
-2. De [artikelen 89](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=89&z=2007-01-01&g=2007-01-01), [95 tot en met 97](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=95&z=2007-01-01&g=2007-01-01), [98, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=98&z=2007-01-01&g=2007-01-01), en [99](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=99&z=2007-01-01&g=2007-01-01), zijn van overeenkomstige toepassing op bijkantoren als bedoeld in [artikel 3:62, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:62).
+2. De [artikelen 89](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=89&z=2007-11-01&g=2007-11-01), [95 tot en met 97](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=95&z=2007-11-01&g=2007-11-01), [98, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=98&z=2007-11-01&g=2007-11-01), en [99](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=99&z=2007-11-01&g=2007-11-01), zijn van overeenkomstige toepassing op bijkantoren als bedoeld in [artikel 3:62, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:62).
 
 #### § 10.7. De waarden die dienen tot dekking van het garantiefonds en het minimumbedrag aan solvabiliteitsmarge
 
@@ -1812,7 +1826,7 @@ De aanwezige solvabiliteitsmarge, bedoeld in [artikel 95, eerste lid](https://we
 
 ##### Artikel 103
 
-1. De waarde van de onroerende zaken, bedrijfsmiddelen, deelnemingen in ondernemingen die geen financiële ondernemingen zijn, en kredieten aan ondernemingen die geen financiële ondernemingen zijn, indien daarin deelnemingen worden gehouden, verminderd met de waarde van eventueel gestelde zekerheden, van een bank als bedoeld in [artikel 3:57, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:57), of [3:58, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:58) of van een clearinginstelling als bedoeld in [artikel 3:57, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:57), of [3:61, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:61) bedraagt niet meer dan haar toetsingsvermogen, verminderd met het overig kapitaal, bedoeld in [artikel 93](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=93&z=2007-01-01&g=2007-01-01).
+1. De waarde van de onroerende zaken, bedrijfsmiddelen, deelnemingen in ondernemingen die geen financiële ondernemingen zijn, en kredieten aan ondernemingen die geen financiële ondernemingen zijn, indien daarin deelnemingen worden gehouden, verminderd met de waarde van eventueel gestelde zekerheden, van een bank als bedoeld in [artikel 3:57, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:57), of [3:58, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:58) of van een clearinginstelling als bedoeld in [artikel 3:57, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:57), of [3:61, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:61) bedraagt niet meer dan haar toetsingsvermogen, verminderd met het overig kapitaal, bedoeld in [artikel 93](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=93&z=2007-11-01&g=2007-11-01).
 
 2. Onverminderd het eerste lid, bedraagt de waarde van onroerende zaken van een financiële onderneming als bedoeld in het eerste lid, anders dan voor eigen gebruik, niet meer dan 25 procent van haar toetsingsvermogen.
 
@@ -1842,15 +1856,15 @@ De aanwezige solvabiliteitsmarge, bedoeld in [artikel 95, eerste lid](https://we
 
 1. Een elektronischgeldinstelling als bedoeld in [artikel 3:57, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:57), of [3:58, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:58) houdt, ter dekking van haar financiële verplichtingen die met uitstaand elektronisch geld verband houden, uitsluitend de volgende activa aan, gewaardeerd tegen de historische kostprijs of de actuele waarde, naar gelang welke het laagst is:
 
-- a. activa die voldoende liquide zijn, waaraan ingevolge [artikel 61, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=61&z=2007-01-01&g=2007-01-01), een risicogewicht van nul procent is toegekend;
+- a. activa die voldoende liquide zijn, waaraan ingevolge [artikel 61, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=61&z=2007-11-01&g=2007-11-01), een risicogewicht van nul procent is toegekend;
 
 - b. onmiddellijk opvraagbare deposito’s bij een bank met zetel in Nederland, in een andere lidstaat, of in een ingevolge [artikel 3:2, eerste lid, onderdeel c, onder 2°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:2) aangewezen staat; en
 
-- c. overige voldoende liquide schuldinstrumenten als bedoeld in [artikel 113, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=11&paragraaf=11.3&artikel=113&z=2007-01-01&g=2007-01-01), die niet zijn uitgegeven door een persoon met welke de elektronischgeldinstelling in een formele of feitelijke zeggenschapsstructuur is verbonden, indien de Nederlandsche Bank daartoe, op verzoek, heeft besloten.
+- c. overige voldoende liquide schuldinstrumenten als bedoeld in [artikel 113, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=11&paragraaf=11.3&artikel=113&z=2007-11-01&g=2007-11-01), die niet zijn uitgegeven door een persoon met welke de elektronischgeldinstelling in een formele of feitelijke zeggenschapsstructuur is verbonden, indien de Nederlandsche Bank daartoe, op verzoek, heeft besloten.
 
 2. Indien de financiële verplichtingen van de elektronischgeldinstelling die met uitstaand elektronisch geld verband houden niet volledig worden gedekt door de activa, bedoeld in het eerste lid, kan de Nederlandsche Bank, op verzoek, besluiten dat de elektronischgeldinstelling deze verplichtingen voor een beperkte duur door andere activa dekt. De waarde van deze andere activa bedraagt niet meer dan vijf procent van haar totale financiële verplichtingen die met uitstaand elektronisch geld verband houden of haar toetsingsvermogen, naargelang welk bedrag het laagst is.
 
-3. [Artikel 102, eerste tot en met derde lid en vierde lid, eerste, tweede en vierde volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.8&artikel=102&z=2007-01-01&g=2007-01-01), is van overeenkomstige toepassing op de activa, bedoeld in het eerste lid, onderdelen b en c, met dien verstande dat de totale waarde van deze activa niet meer bedraagt dan twintig maal het toetsingsvermogen van de elektronischgeldinstelling, en dat [artikel 102, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.8&artikel=102&z=2007-01-01&g=2007-01-01), niet van toepassing is op een elektronischgeldinstelling waarvan de financiële verplichtingen die met uitstaand elektronisch geld verband houden, minder dan € 50 miljoen bedragen. Een elektronischgeldinstelling gaat geen risico’s aan ten aanzien van personen die formeel of feitelijk zeggenschap over haar hebben.
+3. [Artikel 102, eerste tot en met derde lid en vierde lid, eerste, tweede en vierde volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.8&artikel=102&z=2007-11-01&g=2007-11-01), is van overeenkomstige toepassing op de activa, bedoeld in het eerste lid, onderdelen b en c, met dien verstande dat de totale waarde van deze activa niet meer bedraagt dan twintig maal het toetsingsvermogen van de elektronischgeldinstelling, en dat [artikel 102, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.8&artikel=102&z=2007-11-01&g=2007-11-01), niet van toepassing is op een elektronischgeldinstelling waarvan de financiële verplichtingen die met uitstaand elektronisch geld verband houden, minder dan € 50 miljoen bedragen. Een elektronischgeldinstelling gaat geen risico’s aan ten aanzien van personen die formeel of feitelijk zeggenschap over haar hebben.
 
 4. De Nederlandsche Bank stelt nadere regels met betrekking tot het beperken van of het verbinden van voorwaarden aan het aanhouden van activa en posten buiten de balanstelling door een elektronischgeldinstelling.
 
@@ -1860,7 +1874,7 @@ De aanwezige solvabiliteitsmarge, bedoeld in [artikel 95, eerste lid](https://we
 
 ##### Artikel 106
 
-De liquiditeit van een financiële onderneming als bedoeld in [artikel 3:63, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:63), [3:64](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:64), [3:65](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:65) of [3:66 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:66) is voldoende indien de aanwezige liquiditeit, bedoeld in [artikel 111](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=11&paragraaf=11.3&artikel=111&z=2007-01-01&g=2007-01-01), [112](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=11&paragraaf=11.3&artikel=112&z=2007-01-01&g=2007-01-01) of [113](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=11&paragraaf=11.3&artikel=113&z=2007-01-01&g=2007-01-01), ten minste gelijk is aan de vereiste liquiditeit, bedoeld in [artikel 108](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=11&paragraaf=11.2&artikel=108&z=2007-01-01&g=2007-01-01), [109](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=11&paragraaf=11.2&artikel=109&z=2007-01-01&g=2007-01-01) of [110](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=11&paragraaf=11.2&artikel=110&z=2007-01-01&g=2007-01-01).
+De liquiditeit van een financiële onderneming als bedoeld in [artikel 3:63, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:63), [3:64](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:64), [3:65](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:65) of [3:66 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:66) is voldoende indien de aanwezige liquiditeit, bedoeld in [artikel 111](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=11&paragraaf=11.3&artikel=111&z=2007-11-01&g=2007-11-01), [112](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=11&paragraaf=11.3&artikel=112&z=2007-11-01&g=2007-11-01) of [113](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=11&paragraaf=11.3&artikel=113&z=2007-11-01&g=2007-11-01), ten minste gelijk is aan de vereiste liquiditeit, bedoeld in [artikel 108](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=11&paragraaf=11.2&artikel=108&z=2007-11-01&g=2007-11-01), [109](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=11&paragraaf=11.2&artikel=109&z=2007-11-01&g=2007-11-01) of [110](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=11&paragraaf=11.2&artikel=110&z=2007-11-01&g=2007-11-01).
 
 ##### Artikel 107
 
@@ -1876,7 +1890,7 @@ De liquiditeit van een financiële onderneming als bedoeld in [artikel 3:63, eer
 
 2. Indien een bank of clearinginstelling kiest voor toepassing van het eerste lid, onderdeel b of c, betrekt zij de intragroepstransacties in de berekening van de liquiditeit.
 
-#### § 11.2. Berekening van de minimumomvang van de liquiditeit
+#### § 11.1. Minimumomvang liquiditeit
 
 ##### Artikel 108
 
@@ -1942,7 +1956,7 @@ De aanwezige liquiditeit van een beleggingsinstelling als bedoeld in [artikel 3:
 
 ##### Artikel 113
 
-1. De aanwezige liquiditeit van een elektronischgeldinstelling als bedoeld in [artikel 3:63](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:63) of [3:65 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:65) wordt gevormd door activa als bedoeld in [artikel 105, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.8&artikel=105&z=2007-01-01&g=2007-01-01), voorzover deze beleggingen direct in geld opvraagbare activa zijn of beleggingen zijn:
+1. De aanwezige liquiditeit van een elektronischgeldinstelling als bedoeld in [artikel 3:63](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:63) of [3:65 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:65) wordt gevormd door activa als bedoeld in [artikel 105, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.8&artikel=105&z=2007-11-01&g=2007-11-01), voorzover deze beleggingen direct in geld opvraagbare activa zijn of beleggingen zijn:
 
 - a. waarvoor door een gereglementeerde markt of door verschillende, niet gelieerde, professionele marktpartijen regelmatig en minimaal dagelijks biedprijzen en laatprijzen worden afgegeven;
 
@@ -1956,7 +1970,7 @@ De aanwezige liquiditeit van een beleggingsinstelling als bedoeld in [artikel 3:
 
 - f. waarvan de afwikkeling in de markt waar de desbetreffende activa worden verhandeld, plaats vindt volgens een vast en niet onderhandelbaar tijdschema.
 
-2. De financiële onderneming houdt ten minste twintig procent van de betalingsverplichtingen, bedoeld in [artikel 110](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=11&paragraaf=11.2&artikel=110&z=2007-01-01&g=2007-01-01), aan in de vorm van:
+2. De financiële onderneming houdt ten minste twintig procent van de betalingsverplichtingen, bedoeld in [artikel 110](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=11&paragraaf=11.2&artikel=110&z=2007-11-01&g=2007-11-01), aan in de vorm van:
 
 - a. direct opvraagbare deposito’s;
 
@@ -1972,11 +1986,11 @@ De aanwezige liquiditeit van een beleggingsinstelling als bedoeld in [artikel 3:
 
 1. Een levensverzekeraar of schadeverzekeraar als bedoeld in [artikel 3:67, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:67), of [3:68, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:68), of een natura-uitvaartverzekeraar als bedoeld in [artikel 3:67, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:67), of [3:69, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:69) houdt, met inachtneming van [artikel 427, derde lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=427) de technische voorzieningen, bedoeld in [artikel 435, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=435), aan voor zover deze op hem van toepassing zijn.
 
-2. Een verzekeraar als bedoeld in het eerste lid die zijn jaarrekening opstelt overeenkomstig de internationale jaarrekeningstandaarden houdt voor de branche Krediet, in plaats van een egalisatievoorziening, een egalisatiereserve aan. De verzekeraar kan afwijken van de indeling, bedoeld in het [artikel 435, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=435), of de berekening van de technische voorzieningen, bedoeld in de [artikelen 115 tot en met 119](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.1&artikel=115&z=2007-01-01&g=2007-01-01), indien de internationale jaarrekeningstandaarden zulks voorschrijven.
+2. Een verzekeraar als bedoeld in het eerste lid die zijn jaarrekening opstelt overeenkomstig de internationale jaarrekeningstandaarden houdt voor de branche Krediet, in plaats van een egalisatievoorziening, een egalisatiereserve aan. De verzekeraar kan afwijken van de indeling, bedoeld in het [artikel 435, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=435), of de berekening van de technische voorzieningen, bedoeld in de [artikelen 115 tot en met 119](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.1&artikel=115&z=2007-11-01&g=2007-11-01), indien de internationale jaarrekeningstandaarden zulks voorschrijven.
 
 ##### Artikel 115
 
-1. De door een verzekeraar als bedoeld in [artikel 114, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.1&artikel=114&z=2007-01-01&g=2007-01-01), aan te houden voorziening voor niet-verdiende premies en lopende risico’s, waaronder de catastrofevoorziening indien deze is getroffen, omvat onder meer:
+1. De door een verzekeraar als bedoeld in [artikel 114, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.1&artikel=114&z=2007-11-01&g=2007-11-01), aan te houden voorziening voor niet-verdiende premies en lopende risico’s, waaronder de catastrofevoorziening indien deze is getroffen, omvat onder meer:
 
 - a. de in het boekjaar ontvangen premies ter zake van risico’s die op het daarop volgende boekjaar of boekjaren betrekking hebben; en
 
@@ -1986,7 +2000,7 @@ De aanwezige liquiditeit van een beleggingsinstelling als bedoeld in [artikel 3:
 
 ##### Artikel 116
 
-1. De door een verzekeraar als bedoeld in [artikel 114, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.1&artikel=114&z=2007-01-01&g=2007-01-01), aan te houden voorziening voor levensverzekeringen wordt berekend op basis van een voldoende voorzichtige prospectieve actuariële methode, rekening houdend met de in de toekomst te ontvangen premies en met alle toekomstige verplichtingen volgens de voor iedere lopende levensverzekering gestelde voorwaarden, met inbegrip van:
+1. De door een verzekeraar als bedoeld in [artikel 114, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.1&artikel=114&z=2007-11-01&g=2007-11-01), aan te houden voorziening voor levensverzekeringen wordt berekend op basis van een voldoende voorzichtige prospectieve actuariële methode, rekening houdend met de in de toekomst te ontvangen premies en met alle toekomstige verplichtingen volgens de voor iedere lopende levensverzekering gestelde voorwaarden, met inbegrip van:
 
 - a. alle gegarandeerde uitkeringen en gegarandeerde afkoopwaarden;
 
@@ -1996,13 +2010,13 @@ De aanwezige liquiditeit van een beleggingsinstelling als bedoeld in [artikel 3:
 
 - d. de bedrijfskosten, met inbegrip van provisies.
 
-2. [Artikel 115, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.1&artikel=115&z=2007-01-01&g=2007-01-01), is van overeenkomstige toepassing.
+2. [Artikel 115, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.1&artikel=115&z=2007-11-01&g=2007-11-01), is van overeenkomstige toepassing.
 
 3. In afwijking van het eerste lid kan een retrospectieve methode worden toegepast indien de op grond van die methode berekende technische voorzieningen niet lager zijn dan de voorzieningen bij toepassing van een prospectieve methode of indien het gebruik van een prospectieve methode vanwege de aard van het betrokken type levensverzekering niet mogelijk is.
 
 ##### Artikel 117
 
-1. De door een verzekeraar als bedoeld in [artikel 114, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.1&artikel=114&z=2007-01-01&g=2007-01-01), aan te houden voorziening voor te betalen schaden of voor te betalen uitkeringen omvat het bedrag van de te verwachten schaden, in aanmerking nemende:
+1. De door een verzekeraar als bedoeld in [artikel 114, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.1&artikel=114&z=2007-11-01&g=2007-11-01), aan te houden voorziening voor te betalen schaden of voor te betalen uitkeringen omvat het bedrag van de te verwachten schaden, in aanmerking nemende:
 
 - a. de voor de balansdatum ontstane schaden of verplichtingen tot uitkering die zijn gemeld en nog niet zijn afgewikkeld en de schaden of verplichtingen tot uitkering die nog niet zijn gemeld;
 
@@ -2010,7 +2024,7 @@ De aanwezige liquiditeit van een beleggingsinstelling als bedoeld in [artikel 3:
 
 - c. de in verband met schaden of uitkeringen te verwachten baten uit subrogatie en de verkrijging van de eigendom van verzekerde zaken.
 
-2. [Artikel 115, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.1&artikel=115&z=2007-01-01&g=2007-01-01), is van overeenkomstige toepassing. In geval van periodiek te betalen uitkeringen geschiedt de bepaling volgens erkende actuariële methoden.
+2. [Artikel 115, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.1&artikel=115&z=2007-11-01&g=2007-11-01), is van overeenkomstige toepassing. In geval van periodiek te betalen uitkeringen geschiedt de bepaling volgens erkende actuariële methoden.
 
 3. Discontering van de voorziening voor te betalen schaden of voor te betalen uitkeringen, anders dan periodieke uitkeringen, is slechts toegestaan indien de afwikkeling van de schaden ten minste vier jaren na het tijdstip van het opmaken van de jaarrekening zal duren en deze afwikkeling geschiedt volgens een betrouwbaar schade-afwikkelingsschema, waarin mede rekening wordt gehouden met alle factoren die de kosten van afwikkeling van de schade verhogen. Indien de voorziening voor te betalen schaden of te betalen uitkeringen wordt verminderd ten gevolge van discontering van te betalen schaden worden in de toelichting op de balans het bedrag van de voorziening voor discontering en de gebruikte methode van discontering vermeld.
 
@@ -2018,7 +2032,7 @@ De aanwezige liquiditeit van een beleggingsinstelling als bedoeld in [artikel 3:
 
 ##### Artikel 118
 
-1. Indien de verplichtingen uit hoofde van verzekeringen op het tijdstip van het opmaken van de jaarrekening redelijkerwijs niet te schatten zijn wegens het ontbreken van voldoende nauwkeurige gegevens met betrekking tot de over het tekenjaar te ontvangen premies of te betalen schaden en kosten van afwikkeling van de schade, kan door een verzekeraar als bedoeld in [artikel 114, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.1&artikel=114&z=2007-01-01&g=2007-01-01), in afwijking van [artikel 117](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.1&artikel=117&z=2007-01-01&g=2007-01-01):
+1. Indien de verplichtingen uit hoofde van verzekeringen op het tijdstip van het opmaken van de jaarrekening redelijkerwijs niet te schatten zijn wegens het ontbreken van voldoende nauwkeurige gegevens met betrekking tot de over het tekenjaar te ontvangen premies of te betalen schaden en kosten van afwikkeling van de schade, kan door een verzekeraar als bedoeld in [artikel 114, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.1&artikel=114&z=2007-11-01&g=2007-11-01), in afwijking van [artikel 117](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.1&artikel=117&z=2007-11-01&g=2007-11-01):
 
 - a. als voorziening voor te betalen schaden of voor te betalen uitkeringen worden opgenomen:
 
@@ -2030,15 +2044,15 @@ De aanwezige liquiditeit van een beleggingsinstelling als bedoeld in [artikel 3:
 
 2. De overeenkomstig het eerste lid bepaalde voorziening moet te allen tijde toereikend zijn om aan de huidige en toekomstige verplichtingen te voldoen. Het bedrag van de voorziening wordt, zodra dat nodig blijkt, zodanig verhoogd tot het toereikend is.
 
-3. Indien de berekening, bedoeld in het eerste lid, onderdeel a, wordt toegepast, wordt zodra voldoende nauwkeurige gegevens, bedoeld in het eerste lid, aanhef, bekend zijn, doch uiterlijk aan het einde van het derde boekjaar volgend op het in het eerste lid bedoelde tekenjaar, de voorziening voor te betalen schaden of voor te betalen uitkeringen overeenkomstig [artikel 117](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.1&artikel=117&z=2007-01-01&g=2007-01-01) bepaald.
+3. Indien de berekening, bedoeld in het eerste lid, onderdeel a, wordt toegepast, wordt zodra voldoende nauwkeurige gegevens, bedoeld in het eerste lid, aanhef, bekend zijn, doch uiterlijk aan het einde van het derde boekjaar volgend op het in het eerste lid bedoelde tekenjaar, de voorziening voor te betalen schaden of voor te betalen uitkeringen overeenkomstig [artikel 117](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.1&artikel=117&z=2007-11-01&g=2007-11-01) bepaald.
 
 ##### Artikel 119
 
-De voorziening voor winstdeling en kortingen van een verzekeraar als bedoeld in [artikel 114, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.1&artikel=114&z=2007-01-01&g=2007-01-01), omvat de bedragen die in de vorm van winstdeling bestemd zijn voor de verzekeringnemers, verzekerden of gerechtigden op uitkeringen, voor zover deze niet hebben geleid tot verhoging van de voorziening voor levensverzekering, alsmede de bedragen die een gedeeltelijke terugbetaling van premies op grond van het resultaat van de verzekeringen vertegenwoordigen, voor zover deze niet tot verhoging van de ledenrekening hebben geleid.
+De voorziening voor winstdeling en kortingen van een verzekeraar als bedoeld in [artikel 114, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.1&artikel=114&z=2007-11-01&g=2007-11-01), omvat de bedragen die in de vorm van winstdeling bestemd zijn voor de verzekeringnemers, verzekerden of gerechtigden op uitkeringen, voor zover deze niet hebben geleid tot verhoging van de voorziening voor levensverzekering, alsmede de bedragen die een gedeeltelijke terugbetaling van premies op grond van het resultaat van de verzekeringen vertegenwoordigen, voor zover deze niet tot verhoging van de ledenrekening hebben geleid.
 
 ##### Artikel 120
 
-1. Een verzekeraar als bedoeld in [artikel 114, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.1&artikel=114&z=2007-01-01&g=2007-01-01), houdt een egalisatievoorziening aan voor de branche Krediet voor:
+1. Een verzekeraar als bedoeld in [artikel 114, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.1&artikel=114&z=2007-11-01&g=2007-11-01), houdt een egalisatievoorziening aan voor de branche Krediet voor:
 
 - a. alle aangegane verplichtingen indien het een schadeverzekeraar met zetel in Nederland betreft;
 
@@ -2054,11 +2068,11 @@ De voorziening voor winstdeling en kortingen van een verzekeraar als bedoeld in 
 
 4. Aan de egalisatievoorziening wordt in elk van de opeenvolgende boekjaren waarin in de branche Krediet een technisch overschot werd geboekt, 75 procent van dit technisch overschot toegevoegd, totdat de voorziening gelijk is aan of hoger dan het overeenkomstig het derde lid berekende minimum.
 
-5. Dit artikel is van overeenkomstige toepassing op de egalisatiereserve voor de branche Krediet, bedoeld in [artikel 114, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.1&artikel=114&z=2007-01-01&g=2007-01-01).
+5. Dit artikel is van overeenkomstige toepassing op de egalisatiereserve voor de branche Krediet, bedoeld in [artikel 114, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.1&artikel=114&z=2007-11-01&g=2007-11-01).
 
 ##### Artikel 121
 
-1. Onverminderd de [artikelen 115](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.1&artikel=115&z=2007-01-01&g=2007-01-01), [116](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.1&artikel=116&z=2007-01-01&g=2007-01-01), [117](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.1&artikel=117&z=2007-01-01&g=2007-01-01) en [119](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.1&artikel=119&z=2007-01-01&g=2007-01-01) voert een verzekeraar als bedoeld in [artikel 114, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.1&artikel=114&z=2007-01-01&g=2007-01-01), jaarlijks een toets uit naar de toereikendheid van de balanswaarde van de voorzieningen voor:
+1. Onverminderd de [artikelen 115](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.1&artikel=115&z=2007-11-01&g=2007-11-01), [116](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.1&artikel=116&z=2007-11-01&g=2007-11-01), [117](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.1&artikel=117&z=2007-11-01&g=2007-11-01) en [119](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.1&artikel=119&z=2007-11-01&g=2007-11-01) voert een verzekeraar als bedoeld in [artikel 114, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.1&artikel=114&z=2007-11-01&g=2007-11-01), jaarlijks een toets uit naar de toereikendheid van de balanswaarde van de voorzieningen voor:
 
 - a. niet-verdiende premies en lopende risico’s, waaronder de catastrofevoorziening indien deze wordt aangehouden;
 
@@ -2072,7 +2086,7 @@ De voorziening voor winstdeling en kortingen van een verzekeraar als bedoeld in 
 
 De verzekeraar gaat bij de uitvoering van de toets, voor zover van toepassing, uit van toekomstige betalingsverplichtingen, daarbij passende onzekerheidsmarges en methoden om toekomstige verplichtingen te waarderen op de balansdatum.
 
-2. Indien discontering wordt gebruikt bij de bepaling van de balanswaarde van de voorzieningen, bedoeld in het eerste lid, stelt de Nederlandsche Bank voor de toepassing van de toets, bedoeld in dat lid, onverminderd de [artikelen 114](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.1&artikel=114&z=2007-01-01&g=2007-01-01), [116](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.1&artikel=116&z=2007-01-01&g=2007-01-01), [117](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.1&artikel=117&z=2007-01-01&g=2007-01-01) en [119](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.1&artikel=119&z=2007-01-01&g=2007-01-01) en met inachtneming van de internationale jaarrekeningstandaarden, regels met betrekking tot de te hanteren grondslagen en rekenprincipes voor de disconteringsvoet, sterfte en invaliditeit.
+2. Indien discontering wordt gebruikt bij de bepaling van de balanswaarde van de voorzieningen, bedoeld in het eerste lid, stelt de Nederlandsche Bank voor de toepassing van de toets, bedoeld in dat lid, onverminderd de [artikelen 114](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.1&artikel=114&z=2007-11-01&g=2007-11-01), [116](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.1&artikel=116&z=2007-11-01&g=2007-11-01), [117](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.1&artikel=117&z=2007-11-01&g=2007-11-01) en [119](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.1&artikel=119&z=2007-11-01&g=2007-11-01) en met inachtneming van de internationale jaarrekeningstandaarden, regels met betrekking tot de te hanteren grondslagen en rekenprincipes voor de disconteringsvoet, sterfte en invaliditeit.
 
 3. Indien de waarden die dienen tot dekking van de technische voorzieningen niet tegen de actuele waarde zijn gewaardeerd, betrekt de verzekeraar het verschil tussen de actuele waarde en de balanswaarde van deze waarden bij de toets, bedoeld in het tweede lid.
 
@@ -2146,21 +2160,21 @@ De verzekeraar gaat bij de uitvoering van de toets, voor zover van toepassing, u
 
 ##### Artikel 123
 
-1. Onverminderd [artikel 122](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.2&artikel=122&z=2007-01-01&g=2007-01-01), worden de waarden die dienen tot dekking van de technische voorzieningen van een levensverzekeraar of schadeverzekeraar als bedoeld in het [eerste lid van dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.2&artikel=122&z=2007-01-01&g=2007-01-01), ten opzichte van het totaal van de technische voorzieningen, per categorie van activa als bedoeld in [artikel 122, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.2&artikel=122&z=2007-01-01&g=2007-01-01), verdeeld met inachtneming van de volgende maxima:
+1. Onverminderd [artikel 122](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.2&artikel=122&z=2007-11-01&g=2007-11-01), worden de waarden die dienen tot dekking van de technische voorzieningen van een levensverzekeraar of schadeverzekeraar als bedoeld in het [eerste lid van dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.2&artikel=122&z=2007-11-01&g=2007-11-01), ten opzichte van het totaal van de technische voorzieningen, per categorie van activa als bedoeld in [artikel 122, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.2&artikel=122&z=2007-11-01&g=2007-11-01), verdeeld met inachtneming van de volgende maxima:
 
-- a. leningen als bedoeld in [artikel 122, tweede lid, onderdeel a, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.2&artikel=122&z=2007-01-01&g=2007-01-01), aan ondernemingen en instellingen die geen beleggingsinstelling, kredietinstelling of verzekeraar met zetel in een lidstaat zijn, voor zover deze leningen niet zijn voorzien van een garantie, hypotheek of andere zekerheid: vijf procent;
+- a. leningen als bedoeld in [artikel 122, tweede lid, onderdeel a, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.2&artikel=122&z=2007-11-01&g=2007-11-01), aan ondernemingen en instellingen die geen beleggingsinstelling, kredietinstelling of verzekeraar met zetel in een lidstaat zijn, voor zover deze leningen niet zijn voorzien van een garantie, hypotheek of andere zekerheid: vijf procent;
 
 - b. kasmiddelen: drie procent; en
 
-- c. beleggingen als bedoeld in [artikel 122, tweede lid, onderdeel a, onder 1°en 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.2&artikel=122&z=2007-01-01&g=2007-01-01), voor zover deze beleggingen niet op een gereglementeerde markt worden verhandeld: tien procent.
+- c. beleggingen als bedoeld in [artikel 122, tweede lid, onderdeel a, onder 1°en 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.2&artikel=122&z=2007-11-01&g=2007-11-01), voor zover deze beleggingen niet op een gereglementeerde markt worden verhandeld: tien procent.
 
-2. De waarden die dienen tot dekking van de technische voorzieningen worden, ten opzichte van het totaal van de technische voorzieningen, per individueel actief als bedoeld in [artikel 122, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.2&artikel=122&z=2007-01-01&g=2007-01-01), verdeeld met inachtneming van de volgende maxima:
+2. De waarden die dienen tot dekking van de technische voorzieningen worden, ten opzichte van het totaal van de technische voorzieningen, per individueel actief als bedoeld in [artikel 122, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.2&artikel=122&z=2007-11-01&g=2007-11-01), verdeeld met inachtneming van de volgende maxima:
 
-- a. een bepaald terrein of gebouw als bedoeld in [artikel 122, tweede lid, onderdeel a, onder 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.2&artikel=122&z=2007-01-01&g=2007-01-01), of een complex van verschillende terreinen of gebouwen dat als een belegging kan worden beschouwd: tien procent per object; en
+- a. een bepaald terrein of gebouw als bedoeld in [artikel 122, tweede lid, onderdeel a, onder 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.2&artikel=122&z=2007-11-01&g=2007-11-01), of een complex van verschillende terreinen of gebouwen dat als een belegging kan worden beschouwd: tien procent per object; en
 
-- b. een bepaalde lening als bedoeld in [artikel 122, tweede lid, onderdeel a, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.2&artikel=122&z=2007-01-01&g=2007-01-01), aan ondernemingen en instellingen die geen beleggingsinstelling, kredietinstelling of verzekeraar met zetel in een lidstaat zijn, voor zover deze leningen niet zijn voorzien van een garantie, hypotheek of andere zekerheid: een procent per lening.
+- b. een bepaalde lening als bedoeld in [artikel 122, tweede lid, onderdeel a, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.2&artikel=122&z=2007-11-01&g=2007-11-01), aan ondernemingen en instellingen die geen beleggingsinstelling, kredietinstelling of verzekeraar met zetel in een lidstaat zijn, voor zover deze leningen niet zijn voorzien van een garantie, hypotheek of andere zekerheid: een procent per lening.
 
-3. De waarden die dienen tot dekking van de technische voorzieningen bestaan, ten opzichte van het totaal van de technische voorzieningen, voor maximaal vijf procent uit beleggingen als bedoeld in [artikel 122, tweede lid, onderdeel a, onder 1° en 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.2&artikel=122&z=2007-01-01&g=2007-01-01), uitgegeven door een bepaalde emittent of uit leningen aan een bepaalde kredietnemer, tezamen genomen. Waardepapieren uitgegeven of gegarandeerd door onderscheidenlijk leningen aan of gegarandeerd door centrale, regionale of lokale overheidslichamen of internationale instellingen of organisaties waarvan een of meer lidstaten deel uitmaken, blijven hierbij buiten beschouwing.
+3. De waarden die dienen tot dekking van de technische voorzieningen bestaan, ten opzichte van het totaal van de technische voorzieningen, voor maximaal vijf procent uit beleggingen als bedoeld in [artikel 122, tweede lid, onderdeel a, onder 1° en 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.2&artikel=122&z=2007-11-01&g=2007-11-01), uitgegeven door een bepaalde emittent of uit leningen aan een bepaalde kredietnemer, tezamen genomen. Waardepapieren uitgegeven of gegarandeerd door onderscheidenlijk leningen aan of gegarandeerd door centrale, regionale of lokale overheidslichamen of internationale instellingen of organisaties waarvan een of meer lidstaten deel uitmaken, blijven hierbij buiten beschouwing.
 
 4. De Nederlandsche Bank kan, op verzoek, besluiten het maximum, bedoeld in het eerste lid, onderdeel a, voor een levensverzekeraar te verhogen tot acht procent van de technische voorzieningen en het maximum, bedoeld in het tweede lid, onderdeel b, tot twee procent van de technische voorzieningen indien de belangen van de verzekeringnemers, verzekerden of gerechtigden op uitkeringen zich daartegen niet verzetten.
 
@@ -2170,7 +2184,7 @@ De verzekeraar gaat bij de uitvoering van de toets, voor zover van toepassing, u
 
 ##### Artikel 124
 
-Onverminderd [artikel 123](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.2&artikel=123&z=2007-01-01&g=2007-01-01) stelt de Nederlandsche Bank nadere regels met betrekking tot het gebruik van de waarden die dienen tot dekking van de technische voorzieningen van levensverzekeraars of schadeverzekeraars als bedoeld in [artikel 122, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.2&artikel=122&z=2007-01-01&g=2007-01-01), en de daarbij in acht te nemen voorwaarden, ten aanzien van:
+Onverminderd [artikel 123](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.2&artikel=123&z=2007-11-01&g=2007-11-01) stelt de Nederlandsche Bank nadere regels met betrekking tot het gebruik van de waarden die dienen tot dekking van de technische voorzieningen van levensverzekeraars of schadeverzekeraars als bedoeld in [artikel 122, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.2&artikel=122&z=2007-11-01&g=2007-11-01), en de daarbij in acht te nemen voorwaarden, ten aanzien van:
 
 - a. de leningen waarvoor niet door middel van een bankgarantie, een garantie toegekend door een verzekeraar, een recht van hypotheek of een andere wijze zekerheid is gegeven;
 
@@ -2178,19 +2192,19 @@ Onverminderd [artikel 123](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofd
 
 - c. effecten die niet worden verhandeld op een gereglementeerde markt; en
 
-- d. beleggingen als bedoeld in [artikel 122, tweede lid, onderdeel a, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.2&artikel=122&z=2007-01-01&g=2007-01-01), uitgegeven door een emittent niet zijnde centrale, regionale of lokale overheid of een ander openbaar lichaam, een internationale organisatie waarvan een of meer lidstaten deel uitmaken of een kredietinstelling met zetel in Nederland, in een andere lidstaat of in een ingevolge [artikel 3:2, eerste lid, onderdeel c, onder 2°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:2) aangewezen staat.
+- d. beleggingen als bedoeld in [artikel 122, tweede lid, onderdeel a, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.2&artikel=122&z=2007-11-01&g=2007-11-01), uitgegeven door een emittent niet zijnde centrale, regionale of lokale overheid of een ander openbaar lichaam, een internationale organisatie waarvan een of meer lidstaten deel uitmaken of een kredietinstelling met zetel in Nederland, in een andere lidstaat of in een ingevolge [artikel 3:2, eerste lid, onderdeel c, onder 2°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:2) aangewezen staat.
 
 ##### Artikel 125
 
-1. De technische voorzieningen van een levensverzekeraar of schadeverzekeraar als bedoeld in [artikel 122, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.2&artikel=122&z=2007-01-01&g=2007-01-01), met betrekking tot uitkeringen die volgens de verzekering rechtstreeks gekoppeld zijn aan de waarde van een deelneming in een instelling voor collectieve belegging in effecten, of aan de waarde van activa die zijn opgenomen in een door de verzekeraar gehouden fonds dat gewoonlijk in fracties is verdeeld, worden gedekt door deze rechten van deelneming onderscheidenlijk fracties dan wel, indien geen fracties zijn gecreëerd, door deze activa.
+1. De technische voorzieningen van een levensverzekeraar of schadeverzekeraar als bedoeld in [artikel 122, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.2&artikel=122&z=2007-11-01&g=2007-11-01), met betrekking tot uitkeringen die volgens de verzekering rechtstreeks gekoppeld zijn aan de waarde van een deelneming in een instelling voor collectieve belegging in effecten, of aan de waarde van activa die zijn opgenomen in een door de verzekeraar gehouden fonds dat gewoonlijk in fracties is verdeeld, worden gedekt door deze rechten van deelneming onderscheidenlijk fracties dan wel, indien geen fracties zijn gecreëerd, door deze activa.
 
 2. De technische voorzieningen met betrekking tot uitkeringen die volgens de verzekering rechtstreeks gekoppeld zijn aan een referentiewaarde anders dan die bedoeld in het eerste lid, worden gedekt door de eenheden die deze referentiewaarde vertegenwoordigen. Als deze eenheden ontbreken, worden de technische voorzieningen gedekt door activa die zo nauw mogelijk aansluiten bij die waarop de betrokken referentiewaarde is gebaseerd.
 
-3. Op de technische voorzieningen die rechtstreeks verband houden met de uitkeringen, bedoeld in het eerste en tweede lid, zijn, voor zover in die uitkeringen geen sprake is van een gegarandeerd rendement of een gegarandeerd uitkeringsniveau, de [artikelen 122 tot en met 124](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.2&artikel=122&z=2007-01-01&g=2007-01-01) niet van toepassing.
+3. Op de technische voorzieningen die rechtstreeks verband houden met de uitkeringen, bedoeld in het eerste en tweede lid, zijn, voor zover in die uitkeringen geen sprake is van een gegarandeerd rendement of een gegarandeerd uitkeringsniveau, de [artikelen 122 tot en met 124](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.2&artikel=122&z=2007-11-01&g=2007-11-01) niet van toepassing.
 
 ##### Artikel 126
 
-1. Indien de dekking van een levensverzekering of schadeverzekering van een verzekeraar als bedoeld in [artikel 122, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.2&artikel=122&z=2007-01-01&g=2007-01-01), in een bepaalde muntsoort is uitgedrukt, zijn de verplichtingen van die verzekeraar opeisbaar in deze muntsoort.
+1. Indien de dekking van een levensverzekering of schadeverzekering van een verzekeraar als bedoeld in [artikel 122, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.2&artikel=122&z=2007-11-01&g=2007-11-01), in een bepaalde muntsoort is uitgedrukt, zijn de verplichtingen van die verzekeraar opeisbaar in deze muntsoort.
 
 2. Indien de dekking van een schadeverzekering niet in een bepaalde muntsoort is uitgedrukt, zijn de verplichtingen van de schadeverzekeraar opeisbaar in de muntsoort van de staat waar het risico is gelegen. De schadeverzekeraar kan evenwel de muntsoort kiezen waarin de premie is uitgedrukt, indien goede gronden voor een dergelijke keuze aanwezig zijn.
 
@@ -2204,9 +2218,9 @@ Onverminderd [artikel 123](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofd
 
 5. Indien een schade wordt begroot in een muntsoort die bij de schadeverzekeraar vooraf bekend is, maar die verschilt van die welke voortvloeit uit de voorgaande leden, mogen zijn verplichtingen opeisbaar zijn in deze muntsoort.
 
-6. De Nederlandsche Bank kan, op verzoek, besluiten dat het de levensverzekeraar of schadeverzekeraar is toegestaan tegenover zijn technische voorzieningen geen waarden te stellen die inbaar of te gelde te maken zijn in de muntsoort waarin de dekking van de verzekering luidt, indien uit de voorgaande leden voortvloeit dat de verzekeraar om te voldoen aan [artikel 127, eerste lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.2&artikel=127&z=2007-01-01&g=2007-01-01), over waarden in een bepaalde muntsoort moet beschikken voor een bedrag van niet meer dan zeven procent van de waarden in andere muntsoorten.
+6. De Nederlandsche Bank kan, op verzoek, besluiten dat het de levensverzekeraar of schadeverzekeraar is toegestaan tegenover zijn technische voorzieningen geen waarden te stellen die inbaar of te gelde te maken zijn in de muntsoort waarin de dekking van de verzekering luidt, indien uit de voorgaande leden voortvloeit dat de verzekeraar om te voldoen aan [artikel 127, eerste lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.2&artikel=127&z=2007-11-01&g=2007-11-01), over waarden in een bepaalde muntsoort moet beschikken voor een bedrag van niet meer dan zeven procent van de waarden in andere muntsoorten.
 
-7. De Nederlandsche Bank kan, op verzoek, aan een levensverzekeraar of schadeverzekeraar ontheffing verlenen van [artikel 127, eerste lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.2&artikel=127&z=2007-01-01&g=2007-01-01), indien:
+7. De Nederlandsche Bank kan, op verzoek, aan een levensverzekeraar of schadeverzekeraar ontheffing verlenen van [artikel 127, eerste lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.2&artikel=127&z=2007-11-01&g=2007-11-01), indien:
 
 - a. de verplichtingen opeisbaar zijn in een andere muntsoort dan die van een van de lidstaten;
 
@@ -2220,11 +2234,11 @@ Onverminderd [artikel 123](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofd
 
 9. De Nederlandsche Bank kan, op verzoek, besluiten dat, indien ingevolge de voorgaande leden tegenover verplichtingen waarden moeten staan die luiden in de muntsoort van een lidstaat, aan deze voorwaarde eveneens is voldaan indien de betreffende waarden in euro luiden.
 
-10. Dit artikel is niet van toepassing op verzekeringen als bedoeld in [artikel 125](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.2&artikel=125&z=2007-01-01&g=2007-01-01).
+10. Dit artikel is niet van toepassing op verzekeringen als bedoeld in [artikel 125](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.2&artikel=125&z=2007-11-01&g=2007-11-01).
 
 ##### Artikel 127
 
-1. De waarden die dienen tot dekking van de technische voorzieningen van een levensverzekeraar of schadeverzekeraar als bedoeld in [artikel 122, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.2&artikel=122&z=2007-01-01&g=2007-01-01), moeten in toereikende mate kunnen worden geïnd of te gelde gemaakt in dezelfde muntsoort als die waarin de verplichtingen ingevolge [artikel 126](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.2&artikel=126&z=2007-01-01&g=2007-01-01) luiden. De waarden die dienen tot dekking van de technische voorzieningen van een natura-uitvaartverzekeraar als bedoeld in [artikel 122, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.2&artikel=122&z=2007-01-01&g=2007-01-01), moeten in toereikende mate kunnen worden geïnd of te gelde gemaakt in de muntsoort van de staat waarin de verzekerde ten tijde van het sluiten van de natura-uitvaartverzekering zijn woonplaats heeft.
+1. De waarden die dienen tot dekking van de technische voorzieningen van een levensverzekeraar of schadeverzekeraar als bedoeld in [artikel 122, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.2&artikel=122&z=2007-11-01&g=2007-11-01), moeten in toereikende mate kunnen worden geïnd of te gelde gemaakt in dezelfde muntsoort als die waarin de verplichtingen ingevolge [artikel 126](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.2&artikel=126&z=2007-11-01&g=2007-11-01) luiden. De waarden die dienen tot dekking van de technische voorzieningen van een natura-uitvaartverzekeraar als bedoeld in [artikel 122, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.2&artikel=122&z=2007-11-01&g=2007-11-01), moeten in toereikende mate kunnen worden geïnd of te gelde gemaakt in de muntsoort van de staat waarin de verzekerde ten tijde van het sluiten van de natura-uitvaartverzekering zijn woonplaats heeft.
 
 2. Voor zover de waarden, bedoeld in het eerste lid, eerste volzin, dienen tot dekking van de technische voorzieningen voor aangegane verplichtingen, moeten zij:
 
@@ -2242,13 +2256,13 @@ Onverminderd [artikel 123](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofd
 
 ##### Artikel 128
 
-1. De [artikelen 122 tot en met 126](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.2&artikel=122&z=2007-01-01&g=2007-01-01) en [127, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.2&artikel=127&z=2007-01-01&g=2007-01-01), zijn van overeenkomstige toepassing op de waarden, bedoeld in [artikel 3:67, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:67), of [3:68, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:68) die dienen tot dekking van de verplichtingen van een levensverzekeraar of schadeverzekeraar als bedoeld in die artikelen die voortvloeien uit vorderingen als bedoeld in [artikel 3:198, tweede lid, onderdelen b, c en d, derde lid, onderdelen a, b en c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:198).
+1. De [artikelen 122 tot en met 126](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.2&artikel=122&z=2007-11-01&g=2007-11-01) en [127, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.2&artikel=127&z=2007-11-01&g=2007-11-01), zijn van overeenkomstige toepassing op de waarden, bedoeld in [artikel 3:67, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:67), of [3:68, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:68) die dienen tot dekking van de verplichtingen van een levensverzekeraar of schadeverzekeraar als bedoeld in die artikelen die voortvloeien uit vorderingen als bedoeld in [artikel 3:198, tweede lid, onderdelen b, c en d, derde lid, onderdelen a, b en c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:198).
 
-2. De [artikelen 122, eerste, derde lid, aanhef en de onderdelen a en b, onder 2°, en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.2&artikel=122&z=2007-01-01&g=2007-01-01), en [127, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.2&artikel=127&z=2007-01-01&g=2007-01-01), zijn van overeenkomstige toepassing op de waarden, bedoeld in [artikel 3:67, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:67), of [3:69, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:69), die dienen tot dekking van de verplichtingen van een natura-uitvaartverzekeraar als bedoeld in die artikelen die voortvloeien uit vorderingen als bedoeld in [artikel 3:198, vierde lid, onderdelen a, b en c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:198).
+2. De [artikelen 122, eerste, derde lid, aanhef en de onderdelen a en b, onder 2°, en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.2&artikel=122&z=2007-11-01&g=2007-11-01), en [127, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.2&artikel=127&z=2007-11-01&g=2007-11-01), zijn van overeenkomstige toepassing op de waarden, bedoeld in [artikel 3:67, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:67), of [3:69, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:69), die dienen tot dekking van de verplichtingen van een natura-uitvaartverzekeraar als bedoeld in die artikelen die voortvloeien uit vorderingen als bedoeld in [artikel 3:198, vierde lid, onderdelen a, b en c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:198).
 
 ### Hoofdstuk 13. Boekhouding en rapportage
 
-#### § 13.1. Verstrekking van de jaarstukken
+#### § 12.3. De waarden die dienen tot dekking van de verplichtingen die voortvloeien uit werknemersvorderingen
 
 ##### Artikel 129
 
@@ -2284,7 +2298,7 @@ Een clearinginstelling, herverzekeraar, kredietinstelling of verzekeraar als bed
 
 ##### Artikel 131
 
-1. De Nederlandsche Bank stelt, met inachtneming van het bepaalde ingevolge het [Deel Prudentieel toezicht financiële ondernemingen van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=3), alsmede met inachtneming van [Titel 9 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9) en de internationale jaarrekeningstandaarden, regels met betrekking tot de staten, bedoeld in [artikel 130](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=13&paragraaf=13.2&artikel=130&z=2007-01-01&g=2007-01-01). Deze omvatten uitsluitend:
+1. De Nederlandsche Bank stelt, met inachtneming van het bepaalde ingevolge het [Deel Prudentieel toezicht financiële ondernemingen van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=3), alsmede met inachtneming van [Titel 9 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9) en de internationale jaarrekeningstandaarden, regels met betrekking tot de staten, bedoeld in [artikel 130](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=13&paragraaf=13.2&artikel=130&z=2007-11-01&g=2007-11-01). Deze omvatten uitsluitend:
 
 - a. de modellen van de staten;
 
@@ -2304,37 +2318,37 @@ Een clearinginstelling, herverzekeraar, kredietinstelling of verzekeraar als bed
 
 2. De regels, bedoeld in het eerste lid, onderdelen b, f, g en h, zijn afgestemd op de aard en de omvang van de financiële onderneming, alsmede op de omvang van de solvabiliteit van de financiële onderneming. De frequentie, bedoeld in het eerste lid, onderdeel h, is evenwel niet hoger dan:
 
-- a. twaalf maal per jaar voor de staten ten behoeve van het toezicht op de liquiditeit, bedoeld in [artikel 130, eerste lid, onderdeel b, onder 3° en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=13&paragraaf=13.2&artikel=130&z=2007-01-01&g=2007-01-01);
+- a. twaalf maal per jaar voor de staten ten behoeve van het toezicht op de liquiditeit, bedoeld in [artikel 130, eerste lid, onderdeel b, onder 3° en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=13&paragraaf=13.2&artikel=130&z=2007-11-01&g=2007-11-01);
 
-- b. een maal per jaar voor de jaarrekening, bedoeld in [artikel 130, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=13&paragraaf=13.2&artikel=130&z=2007-01-01&g=2007-01-01), en de staten ten behoeve van het toezicht op de technische voorzieningen, bedoeld in [artikel 130, tweede lid, onderdeel b, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=13&paragraaf=13.2&artikel=130&z=2007-01-01&g=2007-01-01); en
+- b. een maal per jaar voor de jaarrekening, bedoeld in [artikel 130, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=13&paragraaf=13.2&artikel=130&z=2007-11-01&g=2007-11-01), en de staten ten behoeve van het toezicht op de technische voorzieningen, bedoeld in [artikel 130, tweede lid, onderdeel b, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=13&paragraaf=13.2&artikel=130&z=2007-11-01&g=2007-11-01); en
 
-- c. vier maal per jaar voor de overige in [artikel 130, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=13&paragraaf=13.2&artikel=130&z=2007-01-01&g=2007-01-01), genoemde staten.
+- c. vier maal per jaar voor de overige in [artikel 130, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=13&paragraaf=13.2&artikel=130&z=2007-11-01&g=2007-11-01), genoemde staten.
 
-3. De Nederlandsche Bank kan in individuele gevallen besluiten dat een financiële onderneming als bedoeld in [artikel 130](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=13&paragraaf=13.2&artikel=130&z=2007-01-01&g=2007-01-01) periodiek moet melden of haar solvabiliteit of liquiditeit zich boven een door de Nederlandsche Bank vastgestelde signaleringswaarde bevindt. De frequentie van de melding is niet hoger dan een maal per maand en is afgestemd op de aard en de omvang van de financiële onderneming, alsmede op de omvang van de solvabiliteit van de financiële onderneming.
+3. De Nederlandsche Bank kan in individuele gevallen besluiten dat een financiële onderneming als bedoeld in [artikel 130](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=13&paragraaf=13.2&artikel=130&z=2007-11-01&g=2007-11-01) periodiek moet melden of haar solvabiliteit of liquiditeit zich boven een door de Nederlandsche Bank vastgestelde signaleringswaarde bevindt. De frequentie van de melding is niet hoger dan een maal per maand en is afgestemd op de aard en de omvang van de financiële onderneming, alsmede op de omvang van de solvabiliteit van de financiële onderneming.
 
-4. Een beleggingsonderneming als bedoeld in [artikel 48, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=9&paragraaf=9.1&artikel=48&z=2007-01-01&g=2007-01-01), doet de melding, bedoeld in het derde lid, met redenen omkleed aan de Nederlandsche Bank in elke maand waarin zij niet ingevolge het tweede lid, onderdeel c, staten verstrekt. Zij meldt daarbij in ieder geval wat de waarde van haar toetsingsvermogen is, hoe deze waarde is berekend en hoe deze waarde zich verhoudt tot de waarde van haar toetsingsvermogen zoals vermeld in de laatst verstrekte staten.
+4. Een beleggingsonderneming als bedoeld in [artikel 48, eerste lid, onderdeel i, j of k](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=9&paragraaf=9.1&artikel=48&z=2007-11-01&g=2007-11-01), doet de melding, bedoeld in het derde lid, met redenen omkleed aan de Nederlandsche Bank in elke maand waarin zij niet ingevolge het tweede lid, onderdeel c, staten verstrekt. Zij meldt daarbij in ieder geval wat de waarde van haar toetsingsvermogen is, hoe deze waarde is berekend en hoe deze waarde zich verhoudt tot de waarde van haar toetsingsvermogen zoals vermeld in de laatst verstrekte staten.
 
 ##### Artikel 132
 
-Indien een beleggingsonderneming, clearinginstelling, kredietinstelling, verzekeraar of bijkantoor als bedoeld in [artikel 130](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=13&paragraaf=13.2&artikel=130&z=2007-01-01&g=2007-01-01) de staten niet langs elektronische weg verstrekt, kan de Nederlandsche Bank, op verzoek van de financiële onderneming, besluiten dat het de financiële onderneming is toegestaan andere informatiedragers dan de modellen, bedoeld in [artikel 131, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=13&paragraaf=13.2&artikel=131&z=2007-01-01&g=2007-01-01), te gebruiken, indien deze wat betreft indeling en inhoud geen afwijking vertonen van de modellen.
+Indien een beleggingsonderneming, clearinginstelling, kredietinstelling, verzekeraar of bijkantoor als bedoeld in [artikel 130](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=13&paragraaf=13.2&artikel=130&z=2007-11-01&g=2007-11-01) de staten niet langs elektronische weg verstrekt, kan de Nederlandsche Bank, op verzoek van de financiële onderneming, besluiten dat het de financiële onderneming is toegestaan andere informatiedragers dan de modellen, bedoeld in [artikel 131, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=13&paragraaf=13.2&artikel=131&z=2007-11-01&g=2007-11-01), te gebruiken, indien deze wat betreft indeling en inhoud geen afwijking vertonen van de modellen.
 
 ##### Artikel 133
 
-1. Het onderzoek van de staten, bedoeld in [artikel 130](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=13&paragraaf=13.2&artikel=130&z=2007-01-01&g=2007-01-01), door de accountant, uitmondend in een verklaring omtrent de getrouwheid als bedoeld in [artikel 3:72, zevende lid, eerste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:72), wordt een maal per jaar uitgevoerd. De Nederlandsche Bank stelt regels waarin wordt bepaald welke staten door de accountant in zijn onderzoek worden betrokken. De accountant waarmerkt deze staten.
+1. Het onderzoek van de staten, bedoeld in [artikel 130](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=13&paragraaf=13.2&artikel=130&z=2007-11-01&g=2007-11-01), door de accountant, uitmondend in een verklaring omtrent de getrouwheid als bedoeld in [artikel 3:72, zevende lid, eerste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:72), wordt een maal per jaar uitgevoerd. De Nederlandsche Bank stelt regels waarin wordt bepaald welke staten door de accountant in zijn onderzoek worden betrokken. De accountant waarmerkt deze staten.
 
-2. Het onderzoek van het actuarieel verslag van een verzekeraar als bedoeld in [artikel 130, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=13&paragraaf=13.2&artikel=130&z=2007-01-01&g=2007-01-01), door de actuaris, uitmondend in een verklaring als bedoeld in [artikel 3:73 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:73), wordt een maal per jaar uitgevoerd en omvat:
+2. Het onderzoek van het actuarieel verslag van een verzekeraar als bedoeld in [artikel 130, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=13&paragraaf=13.2&artikel=130&z=2007-11-01&g=2007-11-01), door de actuaris, uitmondend in een verklaring als bedoeld in [artikel 3:73 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:73), wordt een maal per jaar uitgevoerd en omvat:
 
-- a. de toets, bedoeld in [artikel 121, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.1&artikel=121&z=2007-01-01&g=2007-01-01), voor zover het betreft verzekeringen met een contractduur van meer dan vier jaar waarbij gedurende de contractduur:
+- a. de toets, bedoeld in [artikel 121, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.1&artikel=121&z=2007-11-01&g=2007-11-01), voor zover het betreft verzekeringen met een contractduur van meer dan vier jaar waarbij gedurende de contractduur:
 
 - 1°. de premie jaarlijks niet of slechts beperkt kan worden verhoogd; en
 
 - 2°. de risico’s significant oplopen; en
 
-- b. de toets, bedoeld in [artikel 121, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.1&artikel=121&z=2007-01-01&g=2007-01-01), met inachtneming van de [artikelen 98, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=98&z=2007-01-01&g=2007-01-01), en [121, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.1&artikel=121&z=2007-01-01&g=2007-01-01).
+- b. de toets, bedoeld in [artikel 121, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.1&artikel=121&z=2007-11-01&g=2007-11-01), met inachtneming van de [artikelen 98, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=98&z=2007-11-01&g=2007-11-01), en [121, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.1&artikel=121&z=2007-11-01&g=2007-11-01).
 
 ##### Artikel 134
 
-1. Een verzekeraar als bedoeld in [artikel 130, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=13&paragraaf=13.2&artikel=130&z=2007-01-01&g=2007-01-01), maakt de staten, bedoeld in dat lid, onderdeel a, vergezeld van de verklaring, bedoeld in [artikel 3:73 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:73), jaarlijks binnen een termijn van zes maanden openbaar, voor zover het gaat om staten omvattende:
+1. Een verzekeraar als bedoeld in [artikel 130, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=13&paragraaf=13.2&artikel=130&z=2007-11-01&g=2007-11-01), maakt de staten, bedoeld in dat lid, onderdeel a, vergezeld van de verklaring, bedoeld in [artikel 3:73 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:73), jaarlijks binnen een termijn van zes maanden openbaar, voor zover het gaat om staten omvattende:
 
 - a. de jaarrekening, het jaarverslag en de overige gegevens en wat betreft indeling en inhoud in de vorm waarin deze zijn opgemaakt ingevolge [Titel 9 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9) of de internationale jaarrekening standaarden;
 
@@ -2356,7 +2370,7 @@ Indien een beleggingsonderneming, clearinginstelling, kredietinstelling, verzeke
 
 4. Een verzekeraar als bedoeld in [artikel 3:74, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:74), of [3:83, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:83) vermeldt bij de in dat artikellid bedoelde opgave de gegevens, bedoeld in het eerste en tweede lid, per lidstaat.
 
-5. De [artikelen 131, eerste lid, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=13&paragraaf=13.2&artikel=131&z=2007-01-01&g=2007-01-01), en [132](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=13&paragraaf=13.2&artikel=132&z=2007-01-01&g=2007-01-01) zijn van overeenkomstige toepassing op de verstrekking van de opgaven, bedoeld in het eerste tot en met derde lid.
+5. De [artikelen 131, eerste lid, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=13&paragraaf=13.2&artikel=131&z=2007-11-01&g=2007-11-01), en [132](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=13&paragraaf=13.2&artikel=132&z=2007-11-01&g=2007-11-01) zijn van overeenkomstige toepassing op de verstrekking van de opgaven, bedoeld in het eerste tot en met derde lid.
 
 ### Hoofdstuk 14. Meldingsplichten van de accountant en de actuaris
 
@@ -2382,13 +2396,13 @@ Indien een beleggingsonderneming, clearinginstelling, kredietinstelling, verzeke
 
 ##### Artikel 137
 
-1. De accountant of actuaris die voornemens is gegevens als bedoeld in [artikel 136](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=14&artikel=136&z=2007-01-01&g=2007-01-01), eerste onderscheidenlijk tweede lid, te verstrekken, stelt de financiële onderneming daarvan in kennis.
+1. De accountant of actuaris die voornemens is gegevens als bedoeld in [artikel 136](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=14&artikel=136&z=2007-11-01&g=2007-11-01), eerste onderscheidenlijk tweede lid, te verstrekken, stelt de financiële onderneming daarvan in kennis.
 
 2. Indien de financiële onderneming dat wenst, kan zij zelf de gegevens aan de Nederlandsche Bank verstrekken. In dat geval stelt zij de accountant of de actuaris daarvan in kennis. De accountant of de actuaris vergewist zich ervan dat de Nederlandsche Bank de gegevens heeft ontvangen en dat de inhoud van de gegevens hem geen aanleiding geeft alsnog gegevens aan de Nederlandsche Bank te verstrekken.
 
 3. Indien de accountant of actuaris schriftelijk gegevens verstrekt aan de Nederlandsche Bank, zendt hij onverwijld aan de financiële onderneming een afschrift van de gegevens en, indien van toepassing, van de begeleidende brief.
 
-### Hoofdstuk 15. Gekwalificeerde deelnemingen
+### Hoofdstuk 14. Meldingsplichten van de accountant en de actuaris
 
 ##### Artikel 138
 
@@ -2416,9 +2430,9 @@ Tot de liquide middelen van een vennootschap als bedoeld in [artikel 3:96, derde
 
 1. Een verklaring van geen bezwaar betreffende een gekwalificeerde deelneming als bedoeld in [artikel 3:96, eerste lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:96) wordt verleend, indien:
 
-- a. de waarde van de gekwalificeerde deelneming bij verwerving of na vergroting van de gekwalificeerde deelneming niet groter is dan vijftien procent van het toetsingsvermogen van de bank, zoals berekend ingevolge de [artikelen 90 tot en met 94](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=90&z=2007-01-01&g=2007-01-01), met uitzondering van de vermindering, bedoeld in [artikel 94, tweede lid, aanhef en onderdelen f en g](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=94&z=2007-01-01&g=2007-01-01); en
+- a. de waarde van de gekwalificeerde deelneming bij verwerving of na vergroting van de gekwalificeerde deelneming niet groter is dan vijftien procent van het toetsingsvermogen van de bank, zoals berekend ingevolge de [artikelen 90 tot en met 94](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=90&z=2007-11-01&g=2007-11-01), met uitzondering van de vermindering, bedoeld in [artikel 94, tweede lid, aanhef en onderdelen f en g](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=94&z=2007-11-01&g=2007-11-01); en
 
-- b. de totale waarde van de gekwalificeerde deelnemingen van de bank in ondernemingen die geen financiële ondernemingen zijn, door de nieuwe of vergrote gekwalificeerde deelneming niet groter wordt dan 60 procent van het toetsingsvermogen van de bank, zoals berekend ingevolge de [artikelen 90 tot en met 94](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=90&z=2007-01-01&g=2007-01-01), met uitzondering van de vermindering, bedoeld in [artikel 94, tweede lid, aanhef en onderdelen f en g](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=94&z=2007-01-01&g=2007-01-01).
+- b. de totale waarde van de gekwalificeerde deelnemingen van de bank in ondernemingen die geen financiële ondernemingen zijn, door de nieuwe of vergrote gekwalificeerde deelneming niet groter wordt dan 60 procent van het toetsingsvermogen van de bank, zoals berekend ingevolge de [artikelen 90 tot en met 94](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=90&z=2007-11-01&g=2007-11-01), met uitzondering van de vermindering, bedoeld in [artikel 94, tweede lid, aanhef en onderdelen f en g](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=94&z=2007-11-01&g=2007-11-01).
 
 2. Een verklaring van geen bezwaar betreffende een gekwalificeerde deelneming als bedoeld in [artikel 3:96, eerste lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:96) wordt, onverminderd het eerste lid, verleend, indien:
 
@@ -2434,17 +2448,17 @@ Tot de liquide middelen van een vennootschap als bedoeld in [artikel 3:96, derde
 
 ##### Artikel 141
 
-1. Onverminderd het tweede lid is [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=5&z=2007-01-01&g=2007-01-01) niet van toepassing op overeenkomsten met betrekking tot het uitbesteden van werkzaamheden die:
+1. Onverminderd het tweede lid is [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=5&z=2007-11-01&g=2007-11-01) niet van toepassing op overeenkomsten met betrekking tot het uitbesteden van werkzaamheden die:
 
 - a. zijn gesloten door een clearinginstelling, kredietinstelling, verzekeraar of bijkantoor als bedoeld in [artikel 3:18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:18), [3:23](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:23), [3:25](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:25), [3:26](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:26) of [3:27 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:27) voor de datum van inwerkingtreding van dit besluit; en
 
 - b. voldoen aan de op dat moment geldende regelgeving.
 
-2. Indien de overeenkomst, bedoeld in het eerste lid, materieel wordt aangepast, is [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=5&z=2007-01-01&g=2007-01-01) vanaf dat moment van toepassing op de gehele overeenkomst.
+2. Indien de overeenkomst, bedoeld in het eerste lid, materieel wordt aangepast, is [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=5&z=2007-11-01&g=2007-11-01) vanaf dat moment van toepassing op de gehele overeenkomst.
 
 ##### Artikel 142
 
-Voor het boekjaar 2007 wordt het minimumbedrag aan solvabiliteitsmarge voor schadeverzekeraars die zorgverzekeringen als bedoeld in [artikel 1, onderdeel d, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=1) of daarop aanvullende ziektekostenverzekeringen uitvoeren, bepaald op de wijze als bedoeld in [artikel 67](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=67&z=2007-01-01&g=2007-01-01), met dien verstande dat bij de berekening en de verhouding, bedoeld in het [eerste lid, onderdeel b onderscheidenlijk c, van dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=67&z=2007-01-01&g=2007-01-01) niet wordt uitgegaan van de afgelopen drie boekjaren, maar van de boekjaren 2006 en 2007.
+Voor het boekjaar 2007 wordt het minimumbedrag aan solvabiliteitsmarge voor schadeverzekeraars die zorgverzekeringen als bedoeld in [artikel 1, onderdeel d, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=1) of daarop aanvullende ziektekostenverzekeringen uitvoeren, bepaald op de wijze als bedoeld in [artikel 67](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=67&z=2007-11-01&g=2007-11-01), met dien verstande dat bij de berekening en de verhouding, bedoeld in het [eerste lid, onderdeel b onderscheidenlijk c, van dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=67&z=2007-11-01&g=2007-11-01) niet wordt uitgegaan van de afgelopen drie boekjaren, maar van de boekjaren 2006 en 2007.
 
 ##### Artikel 143
 
@@ -2462,40 +2476,40 @@ Een besluit, genomen op grond van een van de artikelen, bedoeld in kolom A, word
 
 | A | B |
 | --- | --- |
-| [2, tweede lid, onderdeel b, van het Besluit solvabiliteitsmarge natura-uitvaartverzekeringsbedrijf](https://wetten.overheid.nl/jci1.3:c:BWBR0007650&artikel=2) | [95, tweede lid, onderdeel a, onder 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=95&z=2007-01-01&g=2007-01-01) |
-| [2, tweede lid, onderdeel e, van het Besluit solvabiliteitsmarge natura-uitvaartverzekeringsbedrijf](https://wetten.overheid.nl/jci1.3:c:BWBR0007650&artikel=2) | [97, eerste lid, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=97&z=2007-01-01&g=2007-01-01) |
-| [2, tweede lid, onderdeel f, van het Besluit solvabiliteitsmarge natura-uitvaartverzekeringsbedrijf](https://wetten.overheid.nl/jci1.3:c:BWBR0007650&artikel=2) | [96, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=96&z=2007-01-01&g=2007-01-01) |
-| [6, vierde lid, eerste volzin, van het Besluit solvabiliteitsmarge natura-uitvaartverzekeringsbedrijf](https://wetten.overheid.nl/jci1.3:c:BWBR0007650&artikel=6) | [56, derde lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=9&paragraaf=9.3&artikel=56&z=2007-01-01&g=2007-01-01) |
-| [6, vierde lid, tweede volzin, van het Besluit solvabiliteitsmarge natura-uitvaartverzekeringsbedrijf](https://wetten.overheid.nl/jci1.3:c:BWBR0007650&artikel=6) | [56, derde lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=9&paragraaf=9.3&artikel=56&z=2007-01-01&g=2007-01-01) |
-| [1, tweede lid, van het Besluit solvabiliteitsmarge verzekeringsbedrijf 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006733&artikel=1) | [67, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=67&z=2007-01-01&g=2007-01-01) |
-| [3, tweede lid, onderdeel a, van het Besluit solvabiliteitsmarge verzekeringsbedrijf 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006733&artikel=3) | [95, tweede lid, onderdeel a, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=95&z=2007-01-01&g=2007-01-01) |
-| [3, tweede lid, onderdeel b, van het Besluit solvabiliteitsmarge verzekeringsbedrijf 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006733&artikel=3) | [95, tweede lid, onderdeel a, onder 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=95&z=2007-01-01&g=2007-01-01) |
-| [3, tweede lid, onderdeel, c, d of e, van het Besluit solvabiliteitsmarge verzekeringsbedrijf 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006733&artikel=3) | [97, eerste lid, aanhef](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=97&z=2007-01-01&g=2007-01-01) |
-| [3, tweede lid, onderdeel f, van het Besluit solvabiliteitsmarge verzekeringsbedrijf 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006733&artikel=3) | [96, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=96&z=2007-01-01&g=2007-01-01) |
-| [9, vierde lid, eerste volzin, van het Besluit solvabiliteitsmarge verzekeringsbedrijf 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006733&artikel=9) | [56, derde lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=9&paragraaf=9.3&artikel=56&z=2007-01-01&g=2007-01-01) |
-| [9, vierde lid, tweede volzin, van het Besluit solvabiliteitsmarge verzekeringsbedrijf 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006733&artikel=9) | [56, derde lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=9&paragraaf=9.3&artikel=56&z=2007-01-01&g=2007-01-01) |
-| [10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006732&artikel=10), jo [bijlage B, onder 3, van het Besluit technische voorzieningen verzekeringsbedrijf 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006732&bijlage=B) | [126, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.2&artikel=126&z=2007-01-01&g=2007-01-01) |
-| [10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006732&artikel=10), jo [bijlage B, onder 6, van het Besluit technische voorzieningen verzekeringsbedrijf 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006732&bijlage=B) | [126, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.2&artikel=126&z=2007-01-01&g=2007-01-01) |
-| [10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006732&artikel=10), jo [bijlage B, onder 7, van het Besluit technische voorzieningen verzekeringsbedrijf 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006732&bijlage=B) | [126, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.2&artikel=126&z=2007-01-01&g=2007-01-01) |
-| [10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006732&artikel=10), jo [bijlage B, onder 9, van het Besluit technische voorzieningen verzekeringsbedrijf 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006732&bijlage=B) | [126, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.2&artikel=126&z=2007-01-01&g=2007-01-01) |
-| [10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006732&artikel=10), jo [bijlage C, onder 2, van het Besluit technische voorzieningen verzekeringsbedrijf 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006732&bijlage=C) | [126, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.2&artikel=126&z=2007-01-01&g=2007-01-01) |
-| [10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006732&artikel=10), jo [bijlage C, onder 3, van het Besluit technische voorzieningen verzekeringsbedrijf 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006732&bijlage=C) | [126, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.2&artikel=126&z=2007-01-01&g=2007-01-01) |
-| [10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006732&artikel=10), jo [bijlage C, onder 5, van het Besluit technische voorzieningen verzekeringsbedrijf 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006732&bijlage=C) | [126, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.2&artikel=126&z=2007-01-01&g=2007-01-01) |
-| [16, vijfde lid, van het Besluit toezicht beleggingsinstellingen 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0018622&artikel=16) | [63, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=63&z=2007-01-01&g=2007-01-01), jo [60, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=60&z=2007-01-01&g=2007-01-01) |
-| [16, zevende lid, onderdeel g, van het Besluit toezicht beleggingsinstellingen 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0018622&artikel=16) | [63, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=63&z=2007-01-01&g=2007-01-01), jo [60, vijfde lid, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=60&z=2007-01-01&g=2007-01-01) |
-| [3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013315&artikel=3), jo [bijlage 1, onderdeel 1.2, onder 1, onder e, van de Nadere regeling prudentieel toezicht effectenverkeer 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0013315&bijlage=1) | [92, derde lid, onderdeel c, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=92&z=2007-01-01&g=2007-01-01) |
-| [3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013315&artikel=3), jo [bijlage 1, onderdeel 1.2, onder 1, onder f, van de Nadere regeling prudentieel toezicht effectenverkeer 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0013315&bijlage=1) | [93, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=93&z=2007-01-01&g=2007-01-01) |
-| [4, tweede lid, onderdeel g, van de Nadere regeling prudentieel toezicht effectenverkeer 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0013315&artikel=4) | [60, vijfde lid, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=60&z=2007-01-01&g=2007-01-01) |
-| [4, derde lid, van de Nadere regeling prudentieel toezicht effectenverkeer 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0013315&artikel=4) | [60, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=60&z=2007-01-01&g=2007-01-01) |
-| [4, vierde lid, van de Nadere regeling prudentieel toezicht effectenverkeer 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0013315&artikel=4) | [60, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=60&z=2007-01-01&g=2007-01-01) |
-| [3, derde lid, onderdeel c, onder 2°, van de Regeling prudentieel toezicht beleggingsinstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018620&artikel=3) | [92, derde lid, onderdeel c, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=92&z=2007-01-01&g=2007-01-01) |
-| [3, vierde lid, van de Regeling belegging technische voorzieningen verzekeringsbedrijf 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006775&artikel=3) | [123, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.2&artikel=123&z=2007-01-01&g=2007-01-01) |
-| [3, vijfde lid, van de Regeling belegging technische voorzieningen verzekeringsbedrijf 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006775&artikel=3) | [123, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.2&artikel=123&z=2007-01-01&g=2007-01-01) |
-| [69, tweede lid, van de Wet toezicht verzekeringsbedrijf 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006509&artikel=69) | [57, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=9&paragraaf=9.4&artikel=57&z=2007-01-01&g=2007-01-01) |
+| [2, tweede lid, onderdeel b, van het Besluit solvabiliteitsmarge natura-uitvaartverzekeringsbedrijf](https://wetten.overheid.nl/jci1.3:c:BWBR0007650&artikel=2) | [95, tweede lid, onderdeel a, onder 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=95&z=2007-11-01&g=2007-11-01) |
+| [2, tweede lid, onderdeel e, van het Besluit solvabiliteitsmarge natura-uitvaartverzekeringsbedrijf](https://wetten.overheid.nl/jci1.3:c:BWBR0007650&artikel=2) | [97, eerste lid, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=97&z=2007-11-01&g=2007-11-01) |
+| [2, tweede lid, onderdeel f, van het Besluit solvabiliteitsmarge natura-uitvaartverzekeringsbedrijf](https://wetten.overheid.nl/jci1.3:c:BWBR0007650&artikel=2) | [96, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=96&z=2007-11-01&g=2007-11-01) |
+| [6, vierde lid, eerste volzin, van het Besluit solvabiliteitsmarge natura-uitvaartverzekeringsbedrijf](https://wetten.overheid.nl/jci1.3:c:BWBR0007650&artikel=6) | [56, derde lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=9&paragraaf=9.3&artikel=56&z=2007-11-01&g=2007-11-01) |
+| [6, vierde lid, tweede volzin, van het Besluit solvabiliteitsmarge natura-uitvaartverzekeringsbedrijf](https://wetten.overheid.nl/jci1.3:c:BWBR0007650&artikel=6) | [56, derde lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=9&paragraaf=9.3&artikel=56&z=2007-11-01&g=2007-11-01) |
+| [1, tweede lid, van het Besluit solvabiliteitsmarge verzekeringsbedrijf 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006733&artikel=1) | [67, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=67&z=2007-11-01&g=2007-11-01) |
+| [3, tweede lid, onderdeel a, van het Besluit solvabiliteitsmarge verzekeringsbedrijf 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006733&artikel=3) | [95, tweede lid, onderdeel a, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=95&z=2007-11-01&g=2007-11-01) |
+| [3, tweede lid, onderdeel b, van het Besluit solvabiliteitsmarge verzekeringsbedrijf 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006733&artikel=3) | [95, tweede lid, onderdeel a, onder 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=95&z=2007-11-01&g=2007-11-01) |
+| [3, tweede lid, onderdeel, c, d of e, van het Besluit solvabiliteitsmarge verzekeringsbedrijf 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006733&artikel=3) | [97, eerste lid, aanhef](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=97&z=2007-11-01&g=2007-11-01) |
+| [3, tweede lid, onderdeel f, van het Besluit solvabiliteitsmarge verzekeringsbedrijf 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006733&artikel=3) | [96, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=96&z=2007-11-01&g=2007-11-01) |
+| [9, vierde lid, eerste volzin, van het Besluit solvabiliteitsmarge verzekeringsbedrijf 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006733&artikel=9) | [56, derde lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=9&paragraaf=9.3&artikel=56&z=2007-11-01&g=2007-11-01) |
+| [9, vierde lid, tweede volzin, van het Besluit solvabiliteitsmarge verzekeringsbedrijf 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006733&artikel=9) | [56, derde lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=9&paragraaf=9.3&artikel=56&z=2007-11-01&g=2007-11-01) |
+| [10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006732&artikel=10), jo [bijlage B, onder 3, van het Besluit technische voorzieningen verzekeringsbedrijf 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006732&bijlage=B) | [126, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.2&artikel=126&z=2007-11-01&g=2007-11-01) |
+| [10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006732&artikel=10), jo [bijlage B, onder 6, van het Besluit technische voorzieningen verzekeringsbedrijf 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006732&bijlage=B) | [126, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.2&artikel=126&z=2007-11-01&g=2007-11-01) |
+| [10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006732&artikel=10), jo [bijlage B, onder 7, van het Besluit technische voorzieningen verzekeringsbedrijf 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006732&bijlage=B) | [126, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.2&artikel=126&z=2007-11-01&g=2007-11-01) |
+| [10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006732&artikel=10), jo [bijlage B, onder 9, van het Besluit technische voorzieningen verzekeringsbedrijf 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006732&bijlage=B) | [126, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.2&artikel=126&z=2007-11-01&g=2007-11-01) |
+| [10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006732&artikel=10), jo [bijlage C, onder 2, van het Besluit technische voorzieningen verzekeringsbedrijf 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006732&bijlage=C) | [126, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.2&artikel=126&z=2007-11-01&g=2007-11-01) |
+| [10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006732&artikel=10), jo [bijlage C, onder 3, van het Besluit technische voorzieningen verzekeringsbedrijf 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006732&bijlage=C) | [126, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.2&artikel=126&z=2007-11-01&g=2007-11-01) |
+| [10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006732&artikel=10), jo [bijlage C, onder 5, van het Besluit technische voorzieningen verzekeringsbedrijf 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006732&bijlage=C) | [126, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.2&artikel=126&z=2007-11-01&g=2007-11-01) |
+| [16, vijfde lid, van het Besluit toezicht beleggingsinstellingen 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0018622&artikel=16) | [63, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=63&z=2007-11-01&g=2007-11-01), jo [60, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=60&z=2007-11-01&g=2007-11-01) |
+| [16, zevende lid, onderdeel g, van het Besluit toezicht beleggingsinstellingen 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0018622&artikel=16) | [63, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=63&z=2007-11-01&g=2007-11-01), jo [60, vijfde lid, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=60&z=2007-11-01&g=2007-11-01) |
+| [3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013315&artikel=3), jo [bijlage 1, onderdeel 1.2, onder 1, onder e, van de Nadere regeling prudentieel toezicht effectenverkeer 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0013315&bijlage=1) | [92, derde lid, onderdeel c, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=92&z=2007-11-01&g=2007-11-01) |
+| [3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013315&artikel=3), jo [bijlage 1, onderdeel 1.2, onder 1, onder f, van de Nadere regeling prudentieel toezicht effectenverkeer 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0013315&bijlage=1) | [93, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=93&z=2007-11-01&g=2007-11-01) |
+| [4, tweede lid, onderdeel g, van de Nadere regeling prudentieel toezicht effectenverkeer 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0013315&artikel=4) | [60, vijfde lid, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=60&z=2007-11-01&g=2007-11-01) |
+| [4, derde lid, van de Nadere regeling prudentieel toezicht effectenverkeer 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0013315&artikel=4) | [60, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=60&z=2007-11-01&g=2007-11-01) |
+| [4, vierde lid, van de Nadere regeling prudentieel toezicht effectenverkeer 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0013315&artikel=4) | [60, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=60&z=2007-11-01&g=2007-11-01) |
+| [3, derde lid, onderdeel c, onder 2°, van de Regeling prudentieel toezicht beleggingsinstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018620&artikel=3) | [92, derde lid, onderdeel c, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=92&z=2007-11-01&g=2007-11-01) |
+| [3, vierde lid, van de Regeling belegging technische voorzieningen verzekeringsbedrijf 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006775&artikel=3) | [123, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.2&artikel=123&z=2007-11-01&g=2007-11-01) |
+| [3, vijfde lid, van de Regeling belegging technische voorzieningen verzekeringsbedrijf 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006775&artikel=3) | [123, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=12&paragraaf=12.2&artikel=123&z=2007-11-01&g=2007-11-01) |
+| [69, tweede lid, van de Wet toezicht verzekeringsbedrijf 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006509&artikel=69) | [57, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=9&paragraaf=9.4&artikel=57&z=2007-11-01&g=2007-11-01) |
 
 ##### Artikel 146
 
-Indien de Nederlandsche Bank ten aanzien van een bank of elektronischgeldinstelling een besluit heeft genomen dat overeenkomt met een besluit als bedoeld in [artikel 60, eerste lid, onderdeel a, of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=60&z=2007-01-01&g=2007-01-01), [62, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=62&z=2007-01-01&g=2007-01-01), [64](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=64&z=2007-01-01&g=2007-01-01), [92, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=92&z=2007-01-01&g=2007-01-01), [93](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=93&z=2007-01-01&g=2007-01-01), [102, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.8&artikel=102&z=2007-01-01&g=2007-01-01), of [105, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.8&artikel=105&z=2007-01-01&g=2007-01-01), wordt het eerstbedoelde besluit aangemerkt als besluit in de zin van het desbetreffende artikel. De aan het besluit gestelde beperkingen of verbonden voorschriften blijven van kracht.
+Indien de Nederlandsche Bank ten aanzien van een bank of elektronischgeldinstelling een besluit heeft genomen dat overeenkomt met een besluit als bedoeld in [artikel 60, eerste lid, onderdeel a, of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=60&z=2007-11-01&g=2007-11-01), [62, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=62&z=2007-11-01&g=2007-11-01), [64](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=64&z=2007-11-01&g=2007-11-01), [92, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=92&z=2007-11-01&g=2007-11-01), [93](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.6&artikel=93&z=2007-11-01&g=2007-11-01), [102, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.8&artikel=102&z=2007-11-01&g=2007-11-01), of [105, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.8&artikel=105&z=2007-11-01&g=2007-11-01), wordt het eerstbedoelde besluit aangemerkt als besluit in de zin van het desbetreffende artikel. De aan het besluit gestelde beperkingen of verbonden voorschriften blijven van kracht.
 
 ##### Artikel 147
 
@@ -2513,7 +2527,13 @@ Dit besluit wordt aangehaald als: Besluit prudentiële regels Wft.
 
 Bij onherroepelijk vonnis is betrokkene in Nederland of in het buitenland veroordeeld terzake van een poging tot, voorbereiding van, doen plegen van, uitlokking van, medeplegen van, medeplichtigheid aan of plegen van:
 
-### 2. Overige strafrechtelijke antecedenten als bedoeld in [artikel 6, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=2&artikel=6&z=2007-01-01&g=2007-01-01)
+### 1. Strafrechtelijke antecedenten als bedoeld in [artikel 6, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=2&artikel=6&z=2007-11-01&g=2007-11-01)
+
+### **1.1. Veroordelingen**
+
+Bij onherroepelijk vonnis is betrokkene in Nederland of in het buitenland veroordeeld terzake van een poging tot, voorbereiding van, doen plegen van, uitlokking van, medeplegen van, medeplichtigheid aan of plegen van:
+
+### 2. Overige strafrechtelijke antecedenten als bedoeld in [artikel 6, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=2&artikel=6&z=2007-11-01&g=2007-11-01)
 
 ### **2.1. Veroordelingen**
 
@@ -2529,17 +2549,11 @@ Bij vonnis is betrokkene in Nederland of in het buitenland veroordeeld terzake v
 
 ### **Wet op de economische delicten (WED):**
 
-Door de [WED](https://wetten.overheid.nl/jci1.3:c:BWBR0002063) strafbaar gestelde gedragingen, met name verbodsbepalingen uit de financiële toezichtswetgeving, [artikel 9 van de Wet melding ongebruikelijke transacties](https://wetten.overheid.nl/jci1.3:c:BWBR0006331&artikel=9) en de [artikelen 2, eerste, tweede en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006330&artikel=2), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0006330&artikel=5), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0006330&artikel=6), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0006330&artikel=7), [8 van de Wet identificatie bij dienstverlening 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006330&artikel=8).
-
-### **Wet wapens en munitie:**
-
-### **Wegenverkeerswet 1994:**
-
 ### **Buitenlandse strafbepalingen**
 
 Onder veroordelingen worden ook verstaan veroordelingen in het buitenland wegens overtreding van een of meer in het buitenland geldende strafbepalingen, vergelijkbaar met de hierboven genoemde.
 
-### **2.2. Transacties met de Officier van Justitie**
+### **Wegenverkeerswet 1994:**
 
 Betrokkene heeft een transactie als bedoeld in [artikel 74 van het WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=74) gedaan ter zake van een of meer van de hiervoor onder 2.1 genoemde strafbare feiten. Onder transacties worden ook verstaan transacties in het buitenland met de terzake bevoegde autoriteiten ter zake van overtreding van een of meer daar geldende strafbepalingen vergelijkbaar met de hiervoor genoemde.
 
@@ -2547,23 +2561,29 @@ Betrokkene heeft een transactie als bedoeld in [artikel 74 van het WvSr](https:/
 
 Betrokkene wordt ter zake van een of meer van de hiervoor onder 2.1 genoemde strafbare feiten niet of niet verder vervolgd of voorwaardelijk niet of niet verder vervolgd, of is vrijgesproken of ontslagen van rechtsvervolging.
 
-Onder al dan niet voorwaardelijk sepot, niet verdere vervolging, vrijspraak of ontslag van rechtsvervolging worden ook verstaan soortgelijke uitspraken en maatregelen in het buitenland ter zake van overtreding van een of meer daar geldende strafbepalingen vergelijkbaar met de hiervoor genoemde.
+Betrokkene heeft een transactie als bedoeld in [artikel 74 van het WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=74) gedaan ter zake van een of meer van de hiervoor onder 2.1 genoemde strafbare feiten. Onder transacties worden ook verstaan transacties in het buitenland met de terzake bevoegde autoriteiten ter zake van overtreding van een of meer daar geldende strafbepalingen vergelijkbaar met de hiervoor genoemde.
 
-### **2.4. Andere feiten of omstandigheden**
+### **2.3. (Voorwaardelijk) sepot, vrijspraak of ontslag van rechtsvervolging**
 
-Andere feiten of omstandigheden die redelijkerwijs voor de Nederlandsche Bank van belang kunnen zijn voor de beoordeling van de betrouwbaarheid van betrokkene, zoals blijkend uit door tot de opsporing van strafbare feiten bevoegde ambtenaren opgemaakte processen-verbaal of rapporten die erop wijzen dat betrokkene betrokken is (geweest) bij een of meer van de onder 2.1 genoemde strafbare feiten. Onder processen-verbaal of rapporten wordt ook verstaan soortgelijke documenten met gelijke bewijskracht, opgemaakt door tot de opsporing van strafbare feiten bevoegde ambtenaren in het buitenland ter zake van daar geldende strafbepalingen, vergelijkbaar met de onder 2.1 genoemde.
+Betrokkene wordt ter zake van een of meer van de hiervoor onder 2.1 genoemde strafbare feiten niet of niet verder vervolgd of voorwaardelijk niet of niet verder vervolgd, of is vrijgesproken of ontslagen van rechtsvervolging.
 
 ### 3. Financiële antecedenten als bedoeld in [artikel 6, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=2&artikel=6&z=2007-01-01&g=2007-01-01)
 
-### **3.1. Persoonlijk**
+### **2.4. Andere feiten of omstandigheden**
+
+### **3.2. Zakelijk**
+
+### 3. Financiële antecedenten als bedoeld in [artikel 6, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=2&artikel=6&z=2007-11-01&g=2007-11-01)
+
+Andere feiten of omstandigheden die wijzen op betrokkenheid van betrokkene bij één of meer financiële gedragingen, voor zover die redelijkerwijs voor de Nederlandsche Bank van belang kunnen zijn voor de beoordeling van diens betrouwbaarheid.
 
 ### **3.2. Zakelijk**
 
 ### **3.3. Andere feiten of omstandigheden**
 
-Andere feiten of omstandigheden die wijzen op betrokkenheid van betrokkene bij één of meer financiële gedragingen, voor zover die redelijkerwijs voor de Nederlandsche Bank van belang kunnen zijn voor de beoordeling van diens betrouwbaarheid.
+### **4.2. Andere feiten of omstandigheden**
 
-### 4. Toezichtantecedenten als bedoeld in [artikel 6, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=2&artikel=6&z=2007-01-01&g=2007-01-01)
+Andere feiten of omstandigheden die wijzen op betrokkenheid van betrokkene bij één of meer gedragingen ter zake waarvan in Nederlandse of buitenlandse financiële toezichtswetgeving regels zijn gesteld, welke gedraging of gedragingen die redelijkerwijs voor de Nederlandsche Bank van belang kunnen zijn voor de beoordeling van diens betrouwbaarheid.
 
 ### **4.1. Toezichtantecedenten**
 
@@ -2571,7 +2591,159 @@ Andere feiten of omstandigheden die wijzen op betrokkenheid van betrokkene bij �
 
 Andere feiten of omstandigheden die wijzen op betrokkenheid van betrokkene bij één of meer gedragingen ter zake waarvan in Nederlandse of buitenlandse financiële toezichtswetgeving regels zijn gesteld, welke gedraging of gedragingen die redelijkerwijs voor de Nederlandsche Bank van belang kunnen zijn voor de beoordeling van diens betrouwbaarheid.
 
-### 5. Fiscaal bestuursrechtelijke antecedenten als bedoeld in [artikel 6, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=2&artikel=6&z=2007-01-01&g=2007-01-01)
+### 5. Fiscaal bestuursrechtelijke antecedenten als bedoeld in [artikel 6, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=2&artikel=6&z=2007-11-01&g=2007-11-01)
+
+Aan de huidige of één van de voormalige werkgevers of enige vennootschap of rechtspersoon, waarbij betrokkene een functie bekleedt of bekleedde als beleidsbepalende of medebeleidsbepalende persoon, feitelijke zeggenschap in het bestuur uitoefent of uitoefende of anderszins (mede)verantwoordelijk is of was voor het beleid, is op grond van de [Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320) een vergrijpboete opgelegd ter zake van één of meer van de hieronder genoemde strafbare feiten:
+
+### **5.3. Andere feiten of omstandigheden**
+
+Andere feiten of omstandigheden die wijzen op betrokkenheid van betrokkene bij één of meer gedragingen op fiscaal gebied die redelijkerwijs voor de Nederlandsche Bank van belang kunnen zijn voor de beoordeling van diens betrouwbaarheid.
+
+### 6. Overige antecedenten als bedoeld in [artikel 6, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=2&artikel=6&z=2007-01-01&g=2007-01-01)
+
+## Bijlage B. , behorende bij [artikel 61, vijfde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=61&z=2007-01-01&g=2007-01-01)
+
+Afgeleide financiële instrumenten in de zin van [artikel 61, derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=61&z=2007-01-01&g=2007-01-01), zijn:
+
+- 1. Rentecontracten:
+
+- a. Renteswaps die betrekking hebben op één valuta;
+
+- b. Basisswaps;
+
+- c. Rentetermijncontracten;
+
+- d. Rentefutures;
+
+- e. Gekochte renteopties;
+
+- f. Andere contracten van gelijke aard;
+
+- 2. Contracten die betrekking hebben op wisselkoersen of goud:
+
+- a. Cross-currency renteswaps;
+
+- b. Valutatermijncontracten;
+
+- c. Valutafutures;
+
+- d. Gekochte valutaopties;
+
+- e. Andere contracten van gelijke aard;
+
+- f. Contracten van gelijke aard zijn als de contracten onder a tot en met e die betrekking hebben op goud;
+
+- 3. Contracten van gelijke aard als die in onderdeel 1, onder a tot en met e, of onderdeel 2, onder a tot en met d, die betrekking hebben op andere onderliggende waarden of indices.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 17a
+
+Het organisatieonderdeel, bedoeld in [artikel 17, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=4&paragraaf=4.1&artikel=17&z=2007-11-01&g=2007-11-01), van een bank als bedoeld in [artikel 3:17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:17), of [3:23, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:23) die in Nederland beleggingsdiensten mag verlenen of beleggingsactiviteiten mag verrichten, heeft als taak:
+
+- a. het vaststellen en uitvoeren van een controleplan om de deugdelijkheid en effectiviteit van de systemen, interne controleprocedures en regels van de bank te onderzoeken en te beoordelen;
+
+- b. het doen van aanbevelingen op basis van de resultaten van de werkzaamheden, bedoeld in onderdeel a;
+
+- c. het controleren of aan deze aanbevelingen gevolg wordt gegeven; en
+
+- d. het ten minste jaarlijks rapporteren aan de personen die het dagelijks beleid van de bank bepalen en aan het orgaan, indien aanwezig, dat is belast met toezicht op het beleid en de algemene gang van zaken van de bank inzake aangelegenheden met betrekking tot de interne controle en de genomen maatregelen in geval van gesignaleerde tekortkomingen.
+
+##### Artikel 22a
+
+De werknemers van een bank die een vergunning heeft als bedoeld in [artikel 2:11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:11) en in Nederland beleggingsdiensten mag verlenen of beleggingsactiviteiten mag verrichten en andere personen die door een dergelijke bank zijn belast met het verrichten van zodanige werkzaamheden beschikken over de nodige vakbekwaamheid en deskundigheid om de hun toevertrouwde verantwoordelijkheden uit te oefenen.
+
+#### § 4.2. Risicomanagement
+
+##### Artikel 24b
+
+1. Het risicobeheer, bedoeld in [artikel 23, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=4&paragraaf=4.2&artikel=23&z=2007-11-01&g=2007-11-01), van een bank die in Nederland beleggingsdiensten mag verlenen of beleggingsactiviteiten mag verrichten, of beleggingsonderneming als bedoeld in [artikel 3:17, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:17), [3:22](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:22) of [3:23, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:23) oefent controle uit op:
+
+- a. de deugdelijkheid en effectiviteit van de door de bank of beleggingsonderneming vastgestelde procedures en maatregelen, bedoeld in [artikel 23, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=4&paragraaf=4.2&artikel=23&z=2007-11-01&g=2007-11-01);
+
+- b. de mate waarin de bank of beleggingsonderneming en haar medewerkers de procedures en maatregelen, bedoeld in [artikel 23, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=4&paragraaf=4.2&artikel=23&z=2007-11-01&g=2007-11-01), naleven; en
+
+- c. de deugdelijkheid en effectiviteit van de maatregelen die zijn genomen om gesignaleerde tekortkomingen of gebreken op te heffen.
+
+2. Het risicobeheer rapporteert ten minste jaarlijks aan personen die het dagelijks beleid van de bank of beleggingsonderneming bepalen en aan het orgaan, indien aanwezig, dat is belast met toezicht op het beleid en de algemene gang van zaken van de bank of beleggingsonderneming. In de jaarlijkse rapportage wordt met name aangegeven of maatregelen zijn genomen in het geval van gesignaleerde onvolkomenheden.
+
+### Hoofdstuk 5. Uitbesteden van werkzaamheden
+
+### Hoofdstuk 6. Wijzigingen met betrekking tot verstrekte gegevens
+
+### Hoofdstuk 7. Verzekering bijkomende risico’s
+
+### Hoofdstuk 8. Vertegenwoordiger
+
+### Hoofdstuk 9. Minimum vermogen
+
+#### § 9.2. Samenstelling van het minimumbedrag aan eigen vermogen
+
+#### § 9.3. De waarden die dienen tot dekking van het minimumbedrag van het garantiefonds
+
+#### § 9.4. Bijzondere bepalingen
+
+### Hoofdstuk 10. Solvabiliteit
+
+#### § 10.1. Minimumomvang solvabiliteit
+
+#### § 10.2. Minimumomvang toetsingsvermogen volgens interne modellen
+
+#### § 10.3. Kredietrisicovermindering
+
+#### § 10.4. Securitisatie
+
+#### § 10.6. Samenstelling van het toetsingsvermogen en de solvabiliteitsmarge
+
+#### § 10.7. De waarden die dienen tot dekking van het garantiefonds en het minimumbedrag aan solvabiliteitsmarge
+
+#### § 10.8. Aanhouden van balansposten en posten buiten de balanstelling
+
+### Hoofdstuk 11. Liquiditeit
+
+#### § 11.2. Berekening van de minimumomvang van de liquiditeit
+
+#### § 11.3. Samenstelling van de liquiditeit
+
+### Hoofdstuk 12. Technische voorzieningen
+
+#### § 12.1. De berekening van de technische voorzieningen
+
+#### § 12.2. De waarden die dienen tot dekking van de technische voorzieningen
+
+### Hoofdstuk 13. Boekhouding en rapportage
+
+#### § 13.1. Verstrekking van de jaarstukken
+
+#### § 13.2. Verstrekking van de staten
+
+#### § 13.3. Verstrekking van de opgave van gesloten verzekeringen
+
+### Hoofdstuk 15. Gekwalificeerde deelnemingen
+
+### Hoofdstuk 16. Slotbepalingen
+
+## Bijlage A. behorend bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=2&artikel=6&z=2007-11-01&g=2007-11-01)
+
+Door de [WED](https://wetten.overheid.nl/jci1.3:c:BWBR0002063) strafbaar gestelde gedragingen, met name verbodsbepalingen uit de financiële toezichtswetgeving, [artikel 9 van de Wet melding ongebruikelijke transacties](https://wetten.overheid.nl/jci1.3:c:BWBR0006331&artikel=9) en de [artikelen 2, eerste, tweede en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006330&artikel=2), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0006330&artikel=5), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0006330&artikel=6), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0006330&artikel=7), [8 van de Wet identificatie bij dienstverlening 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006330&artikel=8).
+
+### **Wet wapens en munitie:**
+
+### **Buitenlandse strafbepalingen**
+
+Onder veroordelingen worden ook verstaan veroordelingen in het buitenland wegens overtreding van een of meer in het buitenland geldende strafbepalingen, vergelijkbaar met de hierboven genoemde.
+
+### **2.2. Transacties met de Officier van Justitie**
+
+Onder al dan niet voorwaardelijk sepot, niet verdere vervolging, vrijspraak of ontslag van rechtsvervolging worden ook verstaan soortgelijke uitspraken en maatregelen in het buitenland ter zake van overtreding van een of meer daar geldende strafbepalingen vergelijkbaar met de hiervoor genoemde.
+
+Andere feiten of omstandigheden die redelijkerwijs voor de Nederlandsche Bank van belang kunnen zijn voor de beoordeling van de betrouwbaarheid van betrokkene, zoals blijkend uit door tot de opsporing van strafbare feiten bevoegde ambtenaren opgemaakte processen-verbaal of rapporten die erop wijzen dat betrokkene betrokken is (geweest) bij een of meer van de onder 2.1 genoemde strafbare feiten. Onder processen-verbaal of rapporten wordt ook verstaan soortgelijke documenten met gelijke bewijskracht, opgemaakt door tot de opsporing van strafbare feiten bevoegde ambtenaren in het buitenland ter zake van daar geldende strafbepalingen, vergelijkbaar met de onder 2.1 genoemde.
+
+### **3.1. Persoonlijk**
+
+Andere feiten of omstandigheden die wijzen op betrokkenheid van betrokkene bij één of meer financiële gedragingen, voor zover die redelijkerwijs voor de Nederlandsche Bank van belang kunnen zijn voor de beoordeling van diens betrouwbaarheid.
+
+### 4. Toezichtantecedenten als bedoeld in [artikel 6, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=2&artikel=6&z=2007-11-01&g=2007-11-01)
 
 ### **5.1. Persoonlijk**
 
@@ -2585,11 +2757,11 @@ Aan de huidige of één van de voormalige werkgevers of enige vennootschap of re
 
 Andere feiten of omstandigheden die wijzen op betrokkenheid van betrokkene bij één of meer gedragingen op fiscaal gebied die redelijkerwijs voor de Nederlandsche Bank van belang kunnen zijn voor de beoordeling van diens betrouwbaarheid.
 
-### 6. Overige antecedenten als bedoeld in [artikel 6, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=2&artikel=6&z=2007-01-01&g=2007-01-01)
+### 6. Overige antecedenten als bedoeld in [artikel 6, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=2&artikel=6&z=2007-11-01&g=2007-11-01)
 
-## Bijlage B. , behorende bij [artikel 61, vijfde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=61&z=2007-01-01&g=2007-01-01)
+## Bijlage B. , behorende bij [artikel 61, vijfde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=61&z=2007-11-01&g=2007-11-01)
 
-Afgeleide financiële instrumenten in de zin van [artikel 61, derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=61&z=2007-01-01&g=2007-01-01), zijn:
+Afgeleide financiële instrumenten in de zin van [artikel 61, derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&hoofdstuk=10&paragraaf=10.1&artikel=61&z=2007-11-01&g=2007-11-01), zijn:
 
 - 1. Rentecontracten:
 
