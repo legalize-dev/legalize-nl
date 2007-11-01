@@ -4,7 +4,7 @@ identifier: "BWBR0022746"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2007-11-01"
-last_updated: "2007-05-27"
+last_updated: "2007-11-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022746"
 soort: "ministeriele-regeling"
@@ -69,7 +69,7 @@ In dit besluit wordt verstaan onder:
 
 1. De algemeen directeur, de unitmanagers, de manager en plaatsvervangend manager recht en rechtsbescherming en de teammanagers recht en rechtsbescherming van Dienst Regelingen zijn bevoegd om namens de Minister besluiten te nemen en stukken af te doen en te ondertekenen met betrekking tot:
 
-- a. bezwaarschriften tegen een primair besluit als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022746&artikel=2&z=2007-11-01&g=2007-05-27);
+- a. bezwaarschriften tegen een primair besluit als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022746&artikel=2&z=2007-11-01&g=2007-11-01);
 
 - b. verdaging van een beslissing op bezwaar als bedoeld onder a;
 
@@ -81,7 +81,7 @@ In dit besluit wordt verstaan onder:
 
 - f. verweerschriften en andere stukken in gedingen die aanhangig zijn bij de bestuursrechter;
 
-- g. verzoeken om schadevergoeding die samenhangen met besluiten als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022746&artikel=2&z=2007-11-01&g=2007-05-27), en artikel 3, sub a, voorzover het verzoek daartoe hangende de beslissing op bezwaar wordt gedaan.
+- g. verzoeken om schadevergoeding die samenhangen met besluiten als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022746&artikel=2&z=2007-11-01&g=2007-11-01), en artikel 3, sub a, voorzover het verzoek daartoe hangende de beslissing op bezwaar wordt gedaan.
 
 ##### Artikel 4
 
@@ -93,7 +93,7 @@ De algemeen directeur, de directeur projecten, de directeur uitvoering en de man
 
 ##### Artikel 5
 
-De ondertekening, bedoeld in [artikel 2 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0022746&artikel=2&z=2007-11-01&g=2007-05-27), luidt:
+De ondertekening, bedoeld in [artikel 2 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0022746&artikel=2&z=2007-11-01&g=2007-11-01), luidt:
 
 ‘DE MINISTER VAN BINNENLANDSE ZAKEN EN KONINKRIJKSRELATIES,
 
