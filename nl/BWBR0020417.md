@@ -4,7 +4,7 @@ identifier: "BWBR0020417"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-04-01"
-last_updated: "2007-10-28"
+last_updated: "2007-11-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020417"
 soort: "AMvB"
@@ -336,11 +336,11 @@ Een ieder die beleggingsaanbevelingen uitbrengt, vermeldt in de beleggingsaanbev
 
 ##### Artikel 19
 
-1. Indien de beleggingsaanbeveling, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0020417&hoofdstuk=5&artikel=16&z=2007-10-28&g=2007-10-28) of [17, eerste, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020417&hoofdstuk=5&artikel=17&z=2007-10-28&g=2007-10-28), niet schriftelijk openbaar wordt gemaakt, kan bij de beleggingsaanbeveling worden vermeld welke voor het publiek direct en gemakkelijk toegankelijke vindplaats toegang geeft tot deze vereiste informatie.
+1. Indien de beleggingsaanbeveling, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0020417&hoofdstuk=5&artikel=16&z=2007-11-01&g=2007-11-01) of [17, eerste, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020417&hoofdstuk=5&artikel=17&z=2007-11-01&g=2007-11-01), niet schriftelijk openbaar wordt gemaakt, kan bij de beleggingsaanbeveling worden vermeld welke voor het publiek direct en gemakkelijk toegankelijke vindplaats toegang geeft tot deze vereiste informatie.
 
-2. Indien de openbaar te maken informatie, bedoeld in [artikel 16, tweede lid, onderdeel a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0020417&hoofdstuk=5&artikel=16&z=2007-10-28&g=2007-10-28), onevenredig lang is in verhouding tot de lengte van de beleggingsaanbeveling en zich geen wijziging heeft voorgedaan in de gehanteerde methode of grondslag van de beoordeling, kan in de beleggingsaanbeveling naar een voor het publiek direct en gemakkelijk toegankelijke vindplaats worden verwezen waar deze vereiste informatie toegankelijk is.
+2. Indien de openbaar te maken informatie, bedoeld in [artikel 16, tweede lid, onderdeel a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0020417&hoofdstuk=5&artikel=16&z=2007-11-01&g=2007-11-01), onevenredig lang is in verhouding tot de lengte van de beleggingsaanbeveling en zich geen wijziging heeft voorgedaan in de gehanteerde methode of grondslag van de beoordeling, kan in de beleggingsaanbeveling naar een voor het publiek direct en gemakkelijk toegankelijke vindplaats worden verwezen waar deze vereiste informatie toegankelijk is.
 
-3. Indien de openbaar te maken informatie, bedoeld in [artikel 17, eerste, tweede, derde, vijfde of zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020417&hoofdstuk=5&artikel=17&z=2007-10-28&g=2007-10-28), of [18, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020417&hoofdstuk=5&artikel=18&z=2007-10-28&g=2007-10-28), onevenredig lang is in verhouding tot de lengte van de beleggingsaanbeveling, kan in deze beleggingsaanbeveling naar een voor het publiek direct en gemakkelijk toegankelijke vindplaats worden verwezen waar de vereiste informatie toegankelijk is.
+3. Indien de openbaar te maken informatie, bedoeld in [artikel 17, eerste, tweede, derde, vijfde of zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020417&hoofdstuk=5&artikel=17&z=2007-11-01&g=2007-11-01), of [18, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020417&hoofdstuk=5&artikel=18&z=2007-11-01&g=2007-11-01), onevenredig lang is in verhouding tot de lengte van de beleggingsaanbeveling, kan in deze beleggingsaanbeveling naar een voor het publiek direct en gemakkelijk toegankelijke vindplaats worden verwezen waar de vereiste informatie toegankelijk is.
 
 ### Hoofdstuk 6. Optreden op markten in financiële instrumenten
 
@@ -380,13 +380,13 @@ Een onderneming als bedoeld in [artikel 5:68, eerste lid, van de wet](https://we
 
 ##### Artikel 24
 
-1. Een onderneming als bedoeld in het tweede lid beschikt over een gedragscode voor privé-transacties door aan de onderneming verbonden personen die direct of indirect bij de transacties van de onderneming in financiële instrumenten zijn betrokken dan wel anderszins uit hoofde van werk, beroep of functie regelmatig over voorwetenschap beschikken of kunnen beschikken, tenzij de onderneming met toepassing van [artikel 25, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020417&hoofdstuk=6&paragraaf=6.2&artikel=25&z=2007-10-28&g=2007-10-28), besluit geen personen aan te wijzen als insider als bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0020417&hoofdstuk=6&paragraaf=6.2&artikel=25&z=2007-10-28&g=2007-10-28). Zij draagt er zorg voor dat de gedragscode bekend is bij ieder wie het aangaat en ziet toe op de naleving ervan.
+1. Een onderneming als bedoeld in het tweede lid beschikt over een gedragscode voor privé-transacties door aan de onderneming verbonden personen die direct of indirect bij de transacties van de onderneming in financiële instrumenten zijn betrokken dan wel anderszins uit hoofde van werk, beroep of functie regelmatig over voorwetenschap beschikken of kunnen beschikken, tenzij de onderneming met toepassing van [artikel 25, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020417&hoofdstuk=6&paragraaf=6.2&artikel=25&z=2007-11-01&g=2007-11-01), besluit geen personen aan te wijzen als insider als bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0020417&hoofdstuk=6&paragraaf=6.2&artikel=25&z=2007-11-01&g=2007-11-01). Zij draagt er zorg voor dat de gedragscode bekend is bij ieder wie het aangaat en ziet toe op de naleving ervan.
 
 2. Het eerste lid is van toepassing op:
 
-- a. banken die bevoegd zijn beleggingsdiensten te verlenen, beleggingsondernemingen, niet zijnde beleggingsondernemingen die uitsluitend de activiteiten als bedoeld in [artikel 1:15, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:15) verrichten, en clearinginstellingen;
+- a. clearinginstellingen;
 
-- b. banken, niet zijnde banken als bedoeld in onderdeel a, beheerders van beleggingsinstellingen, beleggingsmaatschappijen, beleggingsondernemingen die uitsluitend de activiteiten als bedoeld in [artikel 1:15, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:15) verrichten, financiële instellingen die een verklaring van ondertoezichtstelling hebben verkregen, ondernemingsspaarfondsen, pensioenfondsen en verzekeraars, die beschikken over een gekwalificeerde deelneming in een uitgevende instelling of waarvan de transacties in financiële instrumenten gedurende het afgelopen kalenderjaar € 20 miljoen of meer hebben bedragen.
+- b. banken die geen beleggingsdiensten mogen verlenen of beleggingsactiviteiten mogen verrichten, beheerders van beleggingsinstellingen, beleggingsmaatschappijen, financiële instellingen die een verklaring van ondertoezichtstelling hebben verkregen, ondernemingsspaarfondsen, pensioenfondsen en verzekeraars, die beschikken over een gekwalificeerde deelneming in een uitgevende instelling of waarvan de transacties in financiële instrumenten gedurende het afgelopen kalenderjaar € 20 miljoen of meer hebben bedragen.
 
 3. Tot de transacties in financiële instrumenten, bedoeld in het tweede lid, onderdeel b, worden niet gerekend:
 
@@ -404,7 +404,7 @@ Een onderneming als bedoeld in [artikel 5:68, eerste lid, van de wet](https://we
 
 ##### Artikel 25
 
-1. De gedragscode, bedoeld in [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020417&hoofdstuk=6&paragraaf=6.2&artikel=24&z=2007-10-28&g=2007-10-28), bevat regels die gelden voor alle in dat lid bedoelde personen, en aanvullende regels voor insiders.
+1. De gedragscode, bedoeld in [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020417&hoofdstuk=6&paragraaf=6.2&artikel=24&z=2007-11-01&g=2007-11-01), bevat regels die gelden voor alle in dat lid bedoelde personen, en aanvullende regels voor insiders.
 
 2. Een onderneming wijst als insider aan:
 
@@ -420,43 +420,31 @@ Een onderneming als bedoeld in [artikel 5:68, eerste lid, van de wet](https://we
 
 ##### Artikel 26
 
-De gedragscode, bedoeld in [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020417&hoofdstuk=6&paragraaf=6.2&artikel=24&z=2007-10-28&g=2007-10-28), bepaalt dat een in dat lid bedoelde persoon iedere vermenging van zakelijke en privé-belangen, respectievelijk de redelijkerwijs voorzienbare schijn daarvan, die te maken heeft met transacties in financiële instrumenten, vermijdt.
+De gedragscode, bedoeld in [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020417&hoofdstuk=6&paragraaf=6.2&artikel=24&z=2007-11-01&g=2007-11-01), bepaalt dat een in dat lid bedoelde persoon iedere vermenging van zakelijke en privé-belangen, respectievelijk de redelijkerwijs voorzienbare schijn daarvan, die te maken heeft met transacties in financiële instrumenten, vermijdt.
 
 ##### Artikel 27
 
-1. De gedragscode, bedoeld in [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020417&hoofdstuk=6&paragraaf=6.2&artikel=24&z=2007-10-28&g=2007-10-28), bepaalt dat een insider als bedoeld in [artikel 25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020417&hoofdstuk=6&paragraaf=6.2&artikel=25&z=2007-10-28&g=2007-10-28):
+1. De gedragscode, bedoeld in [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020417&hoofdstuk=6&paragraaf=6.2&artikel=24&z=2007-11-01&g=2007-11-01), bepaalt dat een insider als bedoeld in [artikel 25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020417&hoofdstuk=6&paragraaf=6.2&artikel=25&z=2007-11-01&g=2007-11-01):
 
 - a. door hem verrichte privé-transacties meldt op de in de gedragscode voorgeschreven wijze en met inachtneming van de in de gedragscode opgenomen voorschriften;
 
-- b. naar zijn beste vermogen bevordert dat derden, op wier beleggingen hij invloed uitoefent of kan uitoefenen, de interne toezichthouder, bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0020417&hoofdstuk=6&paragraaf=6.1&artikel=22&z=2007-10-28&g=2007-10-28), op diens verzoek alle informatie verstrekken omtrent enige door hen verrichte of bewerkstelligde privé-transactie.
+- b. naar zijn beste vermogen bevordert dat derden, op wier beleggingen hij invloed uitoefent of kan uitoefenen, de interne toezichthouder, bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0020417&hoofdstuk=6&paragraaf=6.1&artikel=22&z=2007-11-01&g=2007-11-01), op diens verzoek alle informatie verstrekken omtrent enige door hen verrichte of bewerkstelligde privé-transactie.
 
 2. De gedragscode kan bepalen dat melding van transacties in bepaalde categorieën financiële instrumenten, waarvan melding niet bijdraagt aan het doel van de gedragscode, achterwege kan blijven.
 
 ##### Artikel 28
 
-De gedragscode, bedoeld in [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020417&hoofdstuk=6&paragraaf=6.2&artikel=24&z=2007-10-28&g=2007-10-28), van een beleggingsonderneming bepaalt dat een insider als bedoeld in [artikel 25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020417&hoofdstuk=6&paragraaf=6.2&artikel=25&z=2007-10-28&g=2007-10-28), privé-transacties in financiële instrumenten, niet zijnde financiële instrumenten als bedoeld in [artikel 27, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020417&hoofdstuk=6&paragraaf=6.2&artikel=27&z=2007-10-28&g=2007-10-28), slechts mag verrichten:
-
-- a. indien hij daarvoor uitsluitend gebruik maakt van de diensten van de beleggingsonderneming waaraan hij is verbonden;
-
-- b. indien hij een overeenkomst van lastgeving sluit met een andere beleggingsonderneming waarin is bepaald dat de insider geen invloed kan uitoefenen op de transacties die worden verricht of bewerkstelligd door die beleggingsonderneming als gevolmachtigde; of
-
-- c. op andere door de gedragscode voorgeschreven of toegelaten wijze die controle van de privé-transacties door de beleggingsonderneming mogelijk maakt.
+Vervallen
 
 ##### Artikel 29
 
-De gedragscode, bedoeld in [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020417&hoofdstuk=6&paragraaf=6.2&artikel=24&z=2007-10-28&g=2007-10-28), van een beleggingsonderneming, bepaalt dat het een insider als bedoeld in [artikel 25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020417&hoofdstuk=6&paragraaf=6.2&artikel=25&z=2007-10-28&g=2007-10-28):
-
-- a. die betrokken is bij activiteiten van de beleggingsonderneming die voorvloeien uit de verplichting ten aanzien van bepaalde financiële instrumenten voortdurend bied- en laatprijzen af te geven dan wel anderszins een markt te onderhouden, slechts is toegestaan privé-transacties in die financiële instrumenten te verrichten met een beleggingsoogmerk, waarbij de beleggingstermijn ten minste drie maanden bedraagt;
-
-- b. die werkzaam is bij de organisatorische eenheid van de beleggingsonderneming die een functie vervult bij een uitgifte van financiële instrumenten of anderszins uit hoofde van zijn functie daarbij betrokken is, niet is toegestaan in te schrijven op die uitgifte;
-
-- c. op wie onderdeel b niet van toepassing is, die inschrijft op een uitgifte van financiële instrumenten waarbij de beleggingsonderneming waaraan hij is verbonden een functie vervult, niet is toegestaan de aldus verkregen financiële instrumenten te verkopen binnen zes maanden na de stortingsdatum.
+Vervallen
 
 ### Hoofdstuk 7. Slotbepalingen
 
 ##### Artikel 30
 
-[Artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020417&hoofdstuk=6&paragraaf=6.2&artikel=24&z=2007-10-28&g=2007-10-28), is tot de eerste dag van de zevende maand na de datum van inwerkingtreding niet van toepassing op ondernemingen als bedoeld in [artikel 24, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0020417&hoofdstuk=6&paragraaf=6.2&artikel=24&z=2007-10-28&g=2007-10-28), die op de datum van inwerkingtreding van dit besluit werkzaam zijn en ingevolge [hoofdstuk IVA van de Vrijstellingsregeling Wet toezicht effectenverkeer 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007777&hoofdstuk=IVA) waren vrijgesteld van [artikel 18a van de Wet toezicht effectenverkeer 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&artikel=18a).
+[Artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020417&hoofdstuk=6&paragraaf=6.2&artikel=24&z=2007-11-01&g=2007-11-01), is tot de eerste dag van de zevende maand na de datum van inwerkingtreding niet van toepassing op ondernemingen als bedoeld in [artikel 24, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0020417&hoofdstuk=6&paragraaf=6.2&artikel=24&z=2007-11-01&g=2007-11-01), die op de datum van inwerkingtreding van dit besluit werkzaam zijn en ingevolge [hoofdstuk IVA van de Vrijstellingsregeling Wet toezicht effectenverkeer 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007777&hoofdstuk=IVA) waren vrijgesteld van [artikel 18a van de Wet toezicht effectenverkeer 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&artikel=18a).
 
 ##### Artikel 31
 
