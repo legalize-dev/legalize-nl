@@ -4,7 +4,7 @@ identifier: "BWBR0010298"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2007-11-03"
-last_updated: "1999-02-24"
+last_updated: "2007-11-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010298"
 soort: "ministeriele-regeling"
@@ -44,26 +44,32 @@ Besluit:
 
 ##### Artikel 1
 
-De directeur van het Gemeentevervoerbedrijf Amsterdam, hierna te noemen de directeur van het GVB/A, kan namens ondergetekende besluiten op een aanvraag voor een vergunning voor het op, in, boven of onder een spoorweg aanbrengen, te doen aanbrengen of te hebben van leidingen, werken en andere inrichtingen of beplantingen, dan wel het daarmee verband houdende uitvoeren of te doen uitvoeren van werkzaamheden als bedoeld in [artikel 15 Metroreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003454&artikel=15), voor zover door het College van burgemeester en wethouders van Amsterdam het onderhoud van die spoorweg is opgedragen aan de directeur van het GVB/A.
+De directeur van GVB, hierna te noemen de directeur van GVB, kan namens ondergetekende besluiten op een aanvraag voor een vergunning voor het op, in, boven of onder een spoorweg aanbrengen, te doen aanbrengen of te hebben van leidingen, werken en andere inrichtingen of beplantingen, dan wel het daarmee verband houdende uitvoeren of te doen uitvoeren van werkzaamheden als bedoeld in [artikel 15 Metroreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003454&artikel=15), voor zover door het College van burgemeester en wethouders van Amsterdam het onderhoud van die spoorweg is opgedragen aan de directeur van GVB.
 
 ##### Artikel 2
 
-De directeur van het GVB/A kan namens ondergetekende besluiten op een aanvraag tot het verlenen van een ontheffing als bedoeld in artikel 39 j( 36, 37 en 38 van de [Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001848) voor een uitgraving binnen de afstand van zes meter van een spoorweg waar het zonder nadeel voor de openbare veiligheid en voor die spoorweg kan geschieden, voor zover door het College van burgemeester en wethouders van Amsterdam het onderhoud van die spoorweg is opgedragen aan de directeur van het GVB/A.
+De directeur van GVB kan namens ondergetekende besluiten op een aanvraag tot het verlenen van een ontheffing als bedoeld in [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0001848&artikel=39) j( [36](https://wetten.overheid.nl/jci1.3:c:BWBR0001848&artikel=36), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0001848&artikel=37) en [38 van de Spoorwegwet 1875](https://wetten.overheid.nl/jci1.3:c:BWBR0001848&artikel=38) voor een uitgraving binnen de afstand van zes meter van een spoorweg waar het zonder nadeel voor de openbare veiligheid en voor die spoorweg kan geschieden, voor zover door het College van burgemeester en wethouders van Amsterdam het onderhoud van die spoorweg is opgedragen aan de directeur van GVB.
 
 ##### Artikel 3
 
-1. De directeur van het GVB/A oefent het mandaat uit met inachtneming van de algemene instructies, opgenomen in de bij dit besluit behorende bijlage.
+1. De directeur van GVB oefent het mandaat uit met inachtneming van de algemene instructies, opgenomen in de bij dit besluit behorende bijlage.
 
-2. De directeur van het GVB/A oefent het mandaat uit met inachtneming van de door de Minister van Verkeer en Waterstaat gegeven aanwijzingen.
+2. De directeur van GVB oefent het mandaat uit met inachtneming van de door de Minister van Verkeer en Waterstaat gegeven aanwijzingen.
 
 ##### Artikel 4
 
-1. De directeur van het GVB/A kan zijn mandaat bij afwezigheid laten uitoefenen door een door hem schriftelijk als zodanig aangewezen plaatsvervanger.
+1. De directeur van GVB kan zijn mandaat bij afwezigheid laten uitoefenen door een door hem schriftelijk als zodanig aangewezen plaatsvervanger.
 
 2. Van een aanwijzing als bedoeld in het eerste lid wordt schriftelijk kennis gegeven aan de Minister van Verkeer en Waterstaat.
 
 ##### Artikel 5
 
 Dit besluit treedt in werking met ingang van de dag waarop het besluit bekend is gemaakt aan de directeur van het GVB/A.
+
+Dit besluit zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de bijlage, die ter inzage wordt gelegd bij het Ministerie van Verkeer en Waterstaat, Johan de Wittlaan 3-7, 2500 EX, te Den Haag, en zal in afschrift worden gezonden aan het College van burgemeester en wethouders van Amsterdam.
+
+##### Artikel 1a
+
+De directeur van GVB kan namens ondergetekende besluiten op een aanvraag tot het verlenen van een ontheffing als bedoeld in [artikel 14, derde lid, van het Tramwegreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001898&artikel=14).
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de bijlage, die ter inzage wordt gelegd bij het Ministerie van Verkeer en Waterstaat, Johan de Wittlaan 3-7, 2500 EX, te Den Haag, en zal in afschrift worden gezonden aan het College van burgemeester en wethouders van Amsterdam.
