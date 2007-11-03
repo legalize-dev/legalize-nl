@@ -4,7 +4,7 @@ identifier: "BWBR0023147"
 country: "nl"
 rank: "wet"
 publication_date: "2010-01-01"
-last_updated: "2006-01-01"
+last_updated: "2007-11-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023147"
 soort: "wet"
@@ -40,7 +40,7 @@ entry_into_force: "2007-12-31"
 
 ##### Artikel I
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet inkomstenbelasting 2001.
 
 ##### Artikel Ia
 
@@ -160,11 +160,11 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXVb
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op het kindgebonden budget.
 
 ##### Artikel XXVc
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet werk en bijstand.
 
 ##### Artikel XXVd
 
@@ -185,11 +185,3 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel XXVII
 
 Dit onderdeel is nog niet inwerking getreden
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het in het kader van het fiscale beleid voor het jaar 2008 wenselijk is in een aantal belastingwetten wijzigingen, bijstellingen alsmede enkele technische reparaties aan te brengen,
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
