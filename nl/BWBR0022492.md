@@ -4,7 +4,7 @@ identifier: "BWBR0022492"
 country: "nl"
 rank: "amvb"
 publication_date: "2007-11-06"
-last_updated: "2007-09-12"
+last_updated: "2007-11-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022492"
 soort: "AMvB"
@@ -72,7 +72,7 @@ Wijzigt het Besluit financiële bepalingen bodemsanering.
 
 ##### Artikel VII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Besluit impulsbudget stedelijke vernieuwing 2006 tot en met 2009.
 
 ##### Artikel VIII
 
@@ -96,6 +96,6 @@ Wijzigt het Besluit subsidies Topprojecten herstructurering bedrijventerreinen.
 
 ##### Artikel XII
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst, met uitzondering van [artikel VII](https://wetten.overheid.nl/jci1.3:c:BWBR0022492&artikel=VII&z=2007-09-12&g=2007-09-12), dat in werking treedt acht weken na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst, met uitzondering van [artikel VII](https://wetten.overheid.nl/jci1.3:c:BWBR0022492&artikel=VII&z=2007-11-06&g=2007-11-06), dat in werking treedt acht weken na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
