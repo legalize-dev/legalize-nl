@@ -4,7 +4,7 @@ identifier: "BWBR0009039"
 country: "nl"
 rank: "amvb"
 publication_date: "2008-12-19"
-last_updated: "1998-01-01"
+last_updated: "2007-11-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009039"
 soort: "AMvB"
@@ -60,7 +60,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 3
 
-Dit besluit treedt in werking met ingang van 1 januari 1998 en vervalt met ingang van 1 januari 2008.
+Dit besluit treedt in werking met ingang van 1 januari 1998 en vervalt met ingang van 1 januari 2009.
 
 ##### Artikel 4
 
