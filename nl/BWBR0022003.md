@@ -4,7 +4,7 @@ identifier: "BWBR0022003"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2007-11-09"
-last_updated: "2007-08-01"
+last_updated: "2007-11-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022003"
 soort: "ministeriele-regeling"
@@ -93,7 +93,7 @@ Ter uitvoering van haar taak kan de commissie zich door tussenkomst van het mini
 
 ##### Artikel 5
 
-De commissie zal haar bevindingen in een rapport neerleggen. De commissie zal per 1 oktober 2007 ophouden te functioneren.
+De commissie zal haar bevindingen in een rapport neerleggen. De commissie zal per 1 april 2008 ophouden te functioneren.
 
 #### § 3. Overige bepalingen
 
