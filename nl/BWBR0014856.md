@@ -4,7 +4,7 @@ identifier: "BWBR0014856"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2014-12-13"
-last_updated: "2003-07-17"
+last_updated: "2007-11-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014856"
 soort: "ministeriele-regeling"
@@ -43,9 +43,9 @@ Besluit:
 
 1. In deze regeling wordt verstaan onder:
 
-- a. **melk:** melk bestemd voor de bereiding van producten op basis van melk, bedoeld in artikel 1, onder k, van het Warenwetbesluit Zuivel;
+- a. **melk:** melk bestemd voor de bereiding van producten op basis van melk, bedoeld in [artikel 1, onder k, van het Warenwetbesluit Zuivel](https://wetten.overheid.nl/jci1.3:c:BWBR0006982&artikel=1);
 
-- b. **geheel gedehydrateerde melk:** de poedervormige waar die rechtstreeks wordt verkregen door het onttrekken van water aan:
+- b. **geheel gedehydrateerde melk:** de poedervormige waar die wordt verkregen door het onttrekken van water aan:
 
 - 1°. melk;
 
@@ -55,7 +55,7 @@ Besluit:
 
 - 4°. een mengsel van de onder 1°, 2° en 3° bedoelde waren; met een vochtgehalte van het eindproduct van ten hoogste 5,0 gewichtsprocent;
 
-- c. **gedeeltelijk gedehydrateerde melk:** de vloeibare, al dan niet gesuikerde waar, die rechtstreeks wordt verkregen door het gedeeltelijk onttrekken van water aan:
+- c. **gedeeltelijk gedehydrateerde melk:** de vloeibare, al dan niet gesuikerde waar, die wordt verkregen door het gedeeltelijk onttrekken van water aan:
 
 - 1°. melk;
 
@@ -63,7 +63,17 @@ Besluit:
 
 - 3°. een mengsel van de onder 1° en 2° bedoelde waren; waaraan eventueel room of geheel gedehydrateerde melk zijn toegevoegd, met dien verstande dat de hoeveelheid toegevoegde geheel gedehydrateerde melk in het eindproduct ten hoogste 25% bedraagt van het totale gehalte aan van melk afkomstige droge stof;
 
-- d. **sacharose:** halfwitte suiker, witte suiker, of geraffineerde witte suiker.
+- d. **sacharose:** halfwitte suiker, witte suiker, of geraffineerde witte suiker;
+
+- e. verordening (EG) 853/2004: verordening (EG) nr. 853/2004 van het Europees Parlement en de Raad van de Europese Unie van 29 april 2004 houdende vaststelling van specifieke hygiënevoorschriften voor levensmiddelen van dierlijke oorsprong (PbEU L 139 en L 226);
+
+- f. melkretentaat: het product dat wordt verkregen door het concentreren van melkeiwit door ultrafiltratie van melk of geheel of gedeeltelijk afgeroomde melk;
+
+- g. melkpermeaat: het product dat wordt verkregen door het verwijderen van melkeiwit en melkvet door ultrafiltratie van melk of geheel of gedeeltelijk afgeroomde melk;
+
+- h. lactose: natuurlijk bestanddeel van melk dat normaal gesproken wordt verkregen uit wei, met een gehalte aan watervrij lactose van ten minste 99,0% m/m op basis van de droge stof, die watervrij is of door kristallisatie één watermolecuul bevat;
+
+- i. verordening (EG) 1925/2006: verordening (EG) nr. 1925/2006 van het Europees Parlement en de Raad van de Europese Unie van 20 december 2006 betreffende de toevoeging van vitaminen en mineralen en bepaalde andere stoffen aan levensmiddelen (PbEU L 404).
 
 2. Deze regeling is niet van toepassing op een waar die bestemd is voor uitvoer naar een land dat niet behoort tot de Europese Unie en geen partij is bij de Overeenkomst betreffende de Europese Economische Ruimte.
 
@@ -71,17 +81,17 @@ Besluit:
 
 ##### Artikel 2
 
-Bij de bereiding van een in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0014856&paragraaf=3&artikel=12&z=2003-07-17&g=2003-07-17), [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0014856&paragraaf=3&artikel=13&z=2003-07-17&g=2003-07-17) of [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0014856&paragraaf=3&artikel=14&z=2003-07-17&g=2003-07-17) bedoelde waar mag gebruik worden gemaakt van een extra hoeveelheid lactose van ten hoogste 0,03 gewichtsprocent, berekend in het eindproduct.
+Bij de bereiding van een in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0014856&paragraaf=3&artikel=12&z=2007-11-10&g=2007-11-10), [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0014856&paragraaf=3&artikel=13&z=2007-11-10&g=2007-11-10) of [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0014856&paragraaf=3&artikel=14&z=2007-11-10&g=2007-11-10) bedoelde waar mag gebruik worden gemaakt van een extra hoeveelheid lactose van ten hoogste 0,03 gewichtsprocent, berekend in het eindproduct.
 
 ##### Artikel 3
 
-Onverminderd de bij of krachtens het Warenwetbesluit Zuivel gestelde voorschriften wordt de verduurzaming van in §3 bedoelde waren bereikt door:
+Onverminderd de bij of krachtens verordening (EG) 853/2004 gestelde voorschriften wordt de verduurzaming van in [§3](https://wetten.overheid.nl/jci1.3:c:BWBR0014856&paragraaf=3&z=2007-11-10&g=2007-11-10) bedoelde waren bereikt door:
 
-- a. dehydratie, wat betreft de in artikel 4 tot en met artikel 7 bedoelde waren;
+- a. dehydratie, wat betreft de in [artikel 4 tot en met artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0014856&paragraaf=3&artikel=4&z=2007-11-10&g=2007-11-10) bedoelde waren;
 
-- b. warmtebehandeling, wat betreft de in artikel 8 tot en met artikel 11 bedoelde waren;
+- b. warmtebehandeling, wat betreft de in [artikel 8 tot en met artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0014856&paragraaf=3&artikel=8&z=2007-11-10&g=2007-11-10) bedoelde waren;
 
-- c. toevoeging van sacharose, wat betreft de in artikel 12 tot en met artikel 14 bedoelde waren.
+- c. toevoeging van sacharose, wat betreft de in [artikel 12 tot en met artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0014856&paragraaf=3&artikel=12&z=2007-11-10&g=2007-11-10) bedoelde waren.
 
 #### § 3. aanduiding
 
@@ -191,19 +201,19 @@ De aanduiding gecondenseerde magere melk met suiker mag uitsluitend en wordt geb
 
 ##### Artikel 15
 
-1. Bij een waar, bedoeld in [§3](https://wetten.overheid.nl/jci1.3:c:BWBR0014856&paragraaf=3&z=2003-07-17&g=2003-07-17), wordt in de nabijheid van de aanduiding een vermelding gebezigd inzake:
+1. Bij een waar, bedoeld in [§3](https://wetten.overheid.nl/jci1.3:c:BWBR0014856&paragraaf=3&z=2007-11-10&g=2007-11-10), wordt in de nabijheid van de aanduiding een vermelding gebezigd inzake:
 
 - a. het gewichtspercentage melkvet van het eindproduct; en
 
 - b. het percentage van melk afkomstige vetvrije droge stof.
 
-2. Het eerste lid, onder a, is niet van toepassing op de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0014856&paragraaf=3&artikel=7&z=2003-07-17&g=2003-07-17), [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0014856&paragraaf=3&artikel=11&z=2003-07-17&g=2003-07-17), en [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0014856&paragraaf=3&artikel=14&z=2003-07-17&g=2003-07-17) bedoelde waren.
+2. Het eerste lid, onder a, is niet van toepassing op de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0014856&paragraaf=3&artikel=7&z=2007-11-10&g=2007-11-10), [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0014856&paragraaf=3&artikel=11&z=2007-11-10&g=2007-11-10), en [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0014856&paragraaf=3&artikel=14&z=2007-11-10&g=2007-11-10) bedoelde waren.
 
-3. Het eerste lid, onder b, is niet van toepassing op de in [artikel 4 tot en met artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0014856&paragraaf=3&artikel=4&z=2003-07-17&g=2003-07-17) bedoelde waren.
+3. Het eerste lid, onder b, is niet van toepassing op de in [artikel 4 tot en met artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0014856&paragraaf=3&artikel=4&z=2007-11-10&g=2007-11-10) bedoelde waren.
 
 ##### Artikel 16
 
-Bij de waren, bedoeld in [artikel 4 tot en met artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0014856&paragraaf=3&artikel=4&z=2003-07-17&g=2003-07-17), worden gebezigd:
+Bij de waren, bedoeld in [artikel 4 tot en met artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0014856&paragraaf=3&artikel=4&z=2007-11-10&g=2007-11-10), worden gebezigd:
 
 - a. een vermelding inzake de aanbevolen wijze van verdunning of reconstitutie, met inbegrip van de vermelding van het vetgehalte van de waar na verdunning of reconstitutie; en
 
@@ -228,3 +238,21 @@ In afwijking van [artikel 28 van het Warenwetbesluit Etikettering van levensmidd
 ##### Artikel 19
 
 Deze regeling wordt aangehaald als: Warenwetregeling gedehydrateerde melk 2003.
+
+##### Artikel 3a
+
+Onverminderd de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014856&paragraaf=2&artikel=2&z=2007-11-10&g=2007-11-10) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0014856&paragraaf=2&artikel=3&z=2007-11-10&g=2007-11-10) mag het eiwitgehalte van melk worden gewijzigd tot een minimumgehalte van 34 gewichtsprocenten (uitgedrukt in vetvrije droge stof) door toevoeging of verwijdering van uitsluitend:
+
+- a. melkretentaat;
+
+- b. melkpermeaat; of
+
+- c. lactose;
+
+mits de verhouding tussen wei-eiwit en caseïne in de gewijzigde melk niet wordt veranderd.
+
+#### § 3. aanduiding
+
+#### § 4. vermeldingen
+
+#### § 5. slotbepalingen
