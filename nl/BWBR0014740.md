@@ -4,7 +4,7 @@ identifier: "BWBR0014740"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-11-26"
-last_updated: "2003-08-10"
+last_updated: "2007-11-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014740"
 soort: "ministeriele-regeling"
@@ -76,7 +76,7 @@ In deze regeling wordt verstaan onder demografisch bereik: het demografisch bere
 
 2. Als frequentieruimte, bedoeld in het eerste lid, wordt aangewezen: de frequentieruimte in de kavel A9, bedoeld in tabel 2 van bijlage 1 van de Regeling aanvraag en vergelijkende toets vergunningen commerciële radio-omroep 2003.
 
-3. Voor de toepassing van het eerste lid worden als Europese producties aangemerkt muziekproducties die met overeenkomstige toepassing van de criteria van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0014740&artikel=6&z=2003-08-10&g=2003-08-10) van de Europese richtlijn als Europese productie kunnen worden aangemerkt.
+3. Voor de toepassing van het eerste lid worden als Europese producties aangemerkt muziekproducties die met overeenkomstige toepassing van de criteria van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0014740&artikel=6&z=2007-11-15&g=2007-11-15) van de Europese richtlijn als Europese productie kunnen worden aangemerkt.
 
 4. Bij de toepassing van het eerste lid, onderdelen b tot en met d, wordt de zendtijd besteed aan reclameboodschappen en nieuws buiten beschouwing gelaten.
 
@@ -144,23 +144,27 @@ In deze regeling wordt verstaan onder demografisch bereik: het demografisch bere
 
 - c. verzorgd wordt door een commerciële omroepinstelling, waarvan alle door haar verzorgde en via omroepnetwerken uitgezonden programma's tezamen door niet meer dan 30 procent van het aantal inwoners van Nederland kunnen worden ontvangen.
 
-2. Als frequentieruimte, bedoeld in het eerste lid, wordt aangewezen: de frequentieruimte in de kavels B1 tot en met B26, bedoeld in tabel 3 van bijlage 1 van de Regeling aanvraag en vergelijkende toets vergunningen commerciële radio-omroep 2003 en, voor zover het betreft de kavels B2, B11 en B26, tabel 2 van bijlage 1 van de Regeling vervolg verdeling frequenties commerciële radio-omroep 2003.
+2. Als frequentieruimte, bedoeld in het eerste lid, wordt aangewezen:
+
+- a. de frequentieruimte in de kavels B1 tot en met B26, bedoeld in [tabel 3 van bijlage 1 van de Regeling aanvraag en vergelijkende toets vergunningen commerciële radio-omroep 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014741&bijlage=1);
+
+- b. de frequentieruimte in de kavels B27 tot en met B38, bedoeld in [tabel A van bijlage 1 van de Regeling aanvraag en vergelijkende toets vergunningen commerciële radio-omroep 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022818&bijlage=1).
 
 3. Bij de toepassing van het eerste lid, onderdeel b, wordt de zendtijd besteed aan reclameboodschappen buiten beschouwing gelaten.
 
 ##### Artikel 8
 
-1. In afwijking van artikel 82f, eerste lid, van de Mediawet, mag voor de uitzending via de FM-band van radioprogramma's, andere dan bedoeld in artikel 7, eerste lid, van eenzelfde commerciële omroepinstelling meer dan één FM-frequentie of samenstel van FM-frequenties worden gebruikt, met dien verstande dat:
+1. In afwijking van [artikel 82f, eerste lid, van de Mediawet](https://wetten.overheid.nl/jci1.3:c:BWBR0004149&artikel=82f), mag voor de uitzending via de FM-band van radioprogramma's, andere dan bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014740&artikel=7&z=2007-11-15&g=2007-11-15), van eenzelfde commerciële omroepinstelling meer dan één FM-frequentie of samenstel van FM-frequenties worden gebruikt, met dien verstande dat:
 
-- a. niet meer of andere frequentieruimte in de FM-band wordt gebruikt dan de frequentieruimte van ten hoogste twee kavels, bedoeld in artikel 2, eerste en tweede lid, van de Regeling aanvraag en vergelijkende toets vergunningen commerciële radioomroep 2003 en, voor zover het betreft kavel A8, artikel 2, eerste lid, van de Regeling vervolg verdeling frequenties commerciële radio-omroep 2003; en
+- a. niet meer of andere frequentieruimte in de FM-band wordt gebruikt dan de frequentieruimte van ten hoogste twee kavels, bedoeld in [artikel 2, eerste en tweede lid, van de Regeling aanvraag en vergelijkende toets vergunningen commerciële radioomroep 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014741&artikel=2) en, voor zover het betreft kavel A8, [artikel 2, eerste lid, van de Regeling vervolg verdeling frequenties commerciële radio-omroep 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0015414&artikel=2); en
 
-- b. één van de kavels, bedoeld in onderdeel a, frequentieruimte betreft waarop artikel 2, eerste en tweede lid, artikel 3, eerste en tweede lid, artikel 4 eerste en tweede lid, artikel 5, eerste en tweede lid, of artikel 6, eerste en tweede lid, van toepassing is.
+- b. één van de kavels, bedoeld in onderdeel a, frequentieruimte betreft waarop [artikel 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014740&artikel=2&z=2007-11-15&g=2007-11-15), [artikel 3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014740&artikel=3&z=2007-11-15&g=2007-11-15), [artikel 4 eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014740&artikel=4&z=2007-11-15&g=2007-11-15), [artikel 5, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014740&artikel=5&z=2007-11-15&g=2007-11-15), of [artikel 6, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014740&artikel=6&z=2007-11-15&g=2007-11-15), van toepassing is.
 
-2. In afwijking van artikel 82f, eerste lid, van de Mediawet, mag voor de uitzending via de FM-band van radioprogramma's als bedoeld in artikel 7, eerste lid, van eenzelfde commerciële omroepinstelling meer dan één FM-frequentie of samenstel van FM-frequenties, behorende tot de in artikel 7, tweede lid, aangewezen frequentieruimte, worden gebruikt, mits
+2. In afwijking van [artikel 82f, eerste lid, van de Mediawet](https://wetten.overheid.nl/jci1.3:c:BWBR0004149&artikel=82f), mag voor de uitzending via de FM-band van radioprogramma's als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014740&artikel=7&z=2007-11-15&g=2007-11-15), van eenzelfde commerciële omroepinstelling meer dan één FM-frequentie of samenstel van FM-frequenties, behorende tot de in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014740&artikel=7&z=2007-11-15&g=2007-11-15), aangewezen frequentieruimte, worden gebruikt, mits
 
 - a. het demografisch bereik van de desbetreffende FM-frequenties of samenstellen van FM-frequenties tezamen niet meer bedraagt dan 30 procent; en
 
-- b. er geen sprake is van een combinatie als bedoeld in bijlage 2a van de Regeling aanvraag en vergelijkende toets vergunningen commerciële radio-omroep 2003 en, voor zover het betreft de kavels B2, B11 en B26, bijlage 2a van de Regeling vervolg verdeling frequenties commerciële radio-omroep 2003, waarbij het demografisch bereik van de kleinste FM-frequentie of samenstel van FM-frequenties voor 35 procent of meer valt binnen het demografisch bereik van de andere FM-frequentie of samenstel van FM-frequenties, dan wel, indien dit percentage lager is dan 35 procent, meer dan 100.000 inwoners binnen het demografisch bereik van beide FM-frequenties of samenstellen van FM-frequenties vallen.
+- b. er geen sprake is van een combinatie als bedoeld in [bijlage 2a van de Regeling aanvraag en vergelijkende toets vergunningen commerciële radio-omroep 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014741&bijlage=2a) en [bijlage 2 van de Regeling aanvraag en vergelijkende toets vergunningen commerciële radio-omroep 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022818&bijlage=2) en, voor zover het betreft de kavels B2, B11 en B26, [bijlage 2a van de Regeling vervolg verdeling frequenties commerciële radio-omroep 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0015414&bijlage=2a), waarbij het demografisch bereik van de kleinste FM-frequentie of samenstel van FM-frequenties voor 35 procent of meer valt binnen het demografisch bereik van de andere FM-frequentie of samenstel van FM-frequenties, dan wel, indien dit percentage lager is dan 35 procent, meer dan 100.000 inwoners binnen het demografisch bereik van beide FM-frequenties of samenstellen van FM-frequenties vallen.
 
 ##### Artikel 9
 
