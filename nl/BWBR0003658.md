@@ -4,7 +4,7 @@ identifier: "BWBR0003658"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2016-07-20"
-last_updated: "2007-10-17"
+last_updated: "2007-11-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003658"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ Besluiten:
 
 1. De uit een oogpunt van volksgezondheid en goed landbouwkundig gebruik toelaatbare hoeveelheid van bestrijdingsmiddelen, bestanddelen daarvan of omzettingsproducten, aanwezig op of in:
 
-- a. onbewerkte of bewerkte eet- of drinkwaren, met uitzondering van: voor zover de producten uit de genoemde productgroepen onder 1 en 2 niet met name in [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0003658&bijlage=II&z=2007-10-17&g=2007-10-17) zijn genoemd, in welk geval het residugehalte niet hoger mag zijn dan in de desbetreffende bijlage met inachtneming van de daarbij gestelde aanwijzingen is aangegeven;
+- a. onbewerkte of bewerkte eet- of drinkwaren, met uitzondering van: voor zover de producten uit de genoemde productgroepen onder 1 en 2 niet met name in [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0003658&bijlage=II&z=2007-11-15&g=2007-11-15) zijn genoemd, in welk geval het residugehalte niet hoger mag zijn dan in de desbetreffende bijlage met inachtneming van de daarbij gestelde aanwijzingen is aangegeven;
 
 - 1. specerijen, bedoeld in het [Warenwetbesluit Specerijen en kruiden](https://wetten.overheid.nl/jci1.3:c:BWBR0009540);
 
@@ -56,15 +56,15 @@ Besluiten:
 
 - 4. de waren, bedoeld in de [Warenwetregeling Babyvoeding](https://wetten.overheid.nl/jci1.3:c:BWBR0008503);
 
-- b. bewerkte eet- of drinkwaren, waarvoor in [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0003658&bijlage=II&z=2007-10-17&g=2007-10-17) geen afzonderlijk toegelaten gehalte is aangegeven, mag niet hoger zijn dan het in de voor onbewerkte eet- of drinkwaren vastgestelde gehalte, waarbij rekening gehouden wordt met de concentratie- of verdunningsfactor;
+- b. bewerkte eet- of drinkwaren, waarvoor in [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0003658&bijlage=II&z=2007-11-15&g=2007-11-15) geen afzonderlijk toegelaten gehalte is aangegeven, mag niet hoger zijn dan het in de voor onbewerkte eet- of drinkwaren vastgestelde gehalte, waarbij rekening gehouden wordt met de concentratie- of verdunningsfactor;
 
-- c. samengestelde eet- of drinkwaren mag niet hoger zijn dan het volgens [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0003658&bijlage=II&z=2007-10-17&g=2007-10-17), toegelaten gehalte van de afzonderlijke onbewerkte eet- of drinkwaren in het mengsel, waarbij rekening gehouden wordt met de relatieve concentraties van deze eet- of drinkwaren in het mengsel en met het gestelde onder b.
+- c. samengestelde eet- of drinkwaren mag niet hoger zijn dan het volgens [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0003658&bijlage=II&z=2007-11-15&g=2007-11-15), toegelaten gehalte van de afzonderlijke onbewerkte eet- of drinkwaren in het mengsel, waarbij rekening gehouden wordt met de relatieve concentraties van deze eet- of drinkwaren in het mengsel en met het gestelde onder b.
 
 2. Deze regeling berust op [artikel 13a, derde lid, onder a, van het Warenwetbesluit Bereiding en behandeling van levensmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&artikel=13a).
 
 ##### Artikel 2
 
-Bij de vaststelling van het ingevolge [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0003658&bijlage=II&z=2007-10-17&g=2007-10-17) toegelaten maximumgehalte dienen de bepalingen in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0003658&bijlage=I&z=2007-10-17&g=2007-10-17) in acht te worden genomen.
+Bij de vaststelling van het ingevolge [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0003658&bijlage=II&z=2007-11-15&g=2007-11-15) toegelaten maximumgehalte dienen de bepalingen in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0003658&bijlage=I&z=2007-11-15&g=2007-11-15) in acht te worden genomen.
 
 ##### Artikel 3
 
@@ -537,7 +537,7 @@ Deze regeling wordt aangehaald als: Warenwetregeling residuen van bestrijdingsmi
 
 - 4. De in bijlage II gebezigde groepsaanduidingen van eet- en drinkwaren omvatten ten minste de hieronder in kolom II genoemde afzonderlijke producten.
 
-- 5. Voor de toepassing van [artikel 1, onder b van de Regeling residuen van bestrijdingsmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0003658&artikel=1&z=2007-10-17&g=2007-10-17) geldt dat voor de omrekening van het vochtgehalte van bewerkte producten naar dat in het onbewerkte product dient gebruik te worden gemaakt van de tabel gegeven in Section 201 in de Pesticide Analytical Manual, deel 1, uitgegeven door de Food and Drug Administration (United States of America).
+- 5. Voor de toepassing van [artikel 1, onder b van de Regeling residuen van bestrijdingsmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0003658&artikel=1&z=2007-11-15&g=2007-11-15) geldt dat voor de omrekening van het vochtgehalte van bewerkte producten naar dat in het onbewerkte product dient gebruik te worden gemaakt van de tabel gegeven in Section 201 in de Pesticide Analytical Manual, deel 1, uitgegeven door de Food and Drug Administration (United States of America).
 
 - 6. Bij verpakte bewerkte producten is het toegelaten maximum gehalte van toepassing op de totale inhoud, omgerekend op het verse product.
 
@@ -2501,7 +2501,7 @@ Door vernummering vervallen.
 |   |   |   |   |   |   |   |
 | epoxiconazool | geen | epoxiconazool | granen | 0,1 |   |   |
 |   |   |   | vlees (uitgezonderd vet, nieren en lever) | 0,01 |   |   |
-|   |   |   | lever | 1,0 |   |   |
+|   |   |   | lever | 0,1 |   | 76 |
 |   |   |   | nieren | 0,2 |   |   |
 |   |   |   | melk | 0,02 |   |   |
 |   |   |   | overige | 0,05* |   |   |
@@ -2854,6 +2854,16 @@ Door vernummering vervallen.
 |   |   |   | hop | 0,02* |   |   |
 |   |   |   | granen | 0,02* |   |   |
 |   |   |   | overige plantaardige producten | 0,01* |   |   |
+|   |   |   |   |   |   |   |
+| flonicamid |   |   |   |   |   | 75 |
+|   |   |   |   |   |   |   |
+| a) plantaardige producten | TFNG en TFNA | som van flonicamid en TFNG en TFNA, uitgedrukt als flocinamid | pitvruchten | 0,2 | 25) de metabolieten van flonicamid zijn: TFNG: 4-trifluormethylnicotinezuur TFNA: N-(trifluormethylnicotinoyl)glycine TFNA-AM: 4-trifluormethylnicotinamide | 75 |
+|   |   |   | aardappelen | 0,1 | 25) de metabolieten van flonicamid zijn: TFNG: 4-trifluormethylnicotinezuur TFNA: N-(trifluormethylnicotinoyl)glycine TFNA-AM: 4-trifluormethylnicotinamide | 75 |
+|   |   |   | tarwe | 2 | 25) de metabolieten van flonicamid zijn: TFNG: 4-trifluormethylnicotinezuur TFNA: N-(trifluormethylnicotinoyl)glycine TFNA-AM: 4-trifluormethylnicotinamide | 75 |
+|   |   |   | overige plantaardige producten | 0,05* | 25) de metabolieten van flonicamid zijn: TFNG: 4-trifluormethylnicotinezuur TFNA: N-(trifluormethylnicotinoyl)glycine TFNA-AM: 4-trifluormethylnicotinamide | 75 |
+|   |   |   |   |   |   |   |
+| b) dierlijke producten | TFNA-AM | som van flonicamid en TFNA-AM, uitgedrukt als flonicamid | dierlijke producten | 0,05* | 25) de metabolieten van flonicamid zijn: TFNG: 4-trifluormethylnicotinezuur TFNA: N-(trifluormethylnicotinoyl)glycine TFNA-AM: 4-trifluormethylnicotinamide | 75 |
+|   |   |   |   |   |   |   |
 | florasulam | geen | florasulam | noten | 0,1* |   |   |
 |   |   |   | oliehoudende zaden | 0,1* |   |   |
 |   |   |   | thee | 0,1* |   |   |
@@ -2904,6 +2914,15 @@ Door vernummering vervallen.
 |   |   |   | overige | 0,05* |   |   |
 |   |   |   |   |   |   |   |
 | fluorglycofen-ethyl | acifluorfen | acifluorfen | zie acifluorfen |   |   |   |
+|   |   |   |   |   |   |   |
+| fluoxastrobin |   |   |   |   |   | 75 |
+|   |   |   |   |   |   |   |
+| a) plantaardige producten | geen | som van E- en Z-fluoxastrobin | tarwe | 0,05 |   | 75 |
+|   |   |   | gerst | 0,5 |   | 75 |
+|   |   |   | overige plantaardige producten | 0,02* |   | 75 |
+| b) dierlijke producten | fenoxyhydroxypyrimidine (M55) | som van E- en Z-fluoxastrobin en M55, uitgedrukt als fluoxastrobin | vlees, lever en vet van slachdieren | 0,05 |   | 75 |
+|   |   |   | nieren van slachtdieren | 0,1 |   | 75 |
+|   |   |   | overige dierlijke producten | 0,05* |   | 75 |
 |   |   |   |   |   |   |   |
 | flupyrsulfuron-methyl | geen | flupyrsulfuron-methyl | oliehoudende zaden | 0,05* |   |   |
 |   |   |   | thee | 0,05* |   |   |
@@ -3064,10 +3083,17 @@ Door vernummering vervallen.
 |   |   |   | meloenen | 5 |   |   |
 |   |   |   | overige | 0,1* |   |   |
 |   |   |   |   |   |   |   |
-| haloxyfop | geen | haloxyfop | aardappelen | 0,1 |   |   |
+| haloxyfop | geen | haloxyfop (som van R- en S-isomeren) | wortelen | 0,1 |   | 74 |
+|   |   | uien |   | 0,2 |   | 74 |
+|   |   | haloxyfop (som van R- en S-isomeren) | prei | 0,1 |   | 74 |
+|   |   |   | bonen (peulvruchten) | 0,1 |   | 74 |
+|   |   |   | erwten (peulvruchten) | 0,1 |   | 74 |
+|   |   |   | aardappelen | 0,1 |   |   |
 |   |   |   | koolzaad | 0,2 |   |   |
 |   |   |   | koolzaadolie | 1 |   |   |
-|   |   |   | vlees | 0,1 |   |   |
+|   |   |   | vlees, lever en vet van slachtdieren | 0,01 |   | 76 |
+|   |   |   | nieren van slachtdieren | 0,02 |   | 76 |
+|   |   |   | melk | 0,01 |   | 76 |
 |   |   |   | overige | 0,05* |   |   |
 |   |   |   |   |   |   |   |
 | alfa-HCH | geen | alfa-HCH | oliehoudende zaden | 0,2* | 5) som van alfa-HCH en bèta-HCH. |   |
@@ -4084,6 +4110,14 @@ Door vernummering vervallen.
 |   |   |   | hop | 0,1* | 0,1* |   |   |
 |   |   |   | overige | 0,02* | 0,02* |   |   |
 |   |   |   |   |   |   |   |   |
+| prothioconazool |   |   |   |   |   |   | 75 |
+|   |   |   |   |   |   |   |   |
+| a) plantaardige producten | desthioprothioconazool | som van desthioprothioconazool en prothioconazool, uitgedrukt als prothioconazool | gerst | 0,05 | 0,05 |   | 75 |
+|   |   |   | overige plantaardige producten | 0,01* | 0,01* |   | 75 |
+|   |   |   |   |   |   |   |   |
+| b) dierlijke producten | desthioprothioconazool | desthioprothioconazool | vlees van slachtdieren | 0,05 | 0,05 |   | 75 |
+|   |   |   | overige dierlijke producten | 0,01* | 0,01* |   | 75 |
+|   |   |   |   |   |   |   |   |
 | prothiofos | geen | prothiofos | alle | 0,02* | 0,02* |   |   |
 |   |   |   |   |   |   |   |   |
 | prothoaat | geen | prothoaat | alle | 0,05* | 0,05* |   |   |
@@ -4308,7 +4342,8 @@ Door vernummering vervallen.
 |   |   |   |   |   |   |   |   |
 | TCA | geen | TCA | alle | 0,05* | 0,05* |   |   |
 |   |   |   |   |   |   |   |   |
-| tebuconazool | geen | tebuconazool | tafel- en wijndruiven | 2 | 2 |   |   |
+| tebuconazool | geen | tebuconazool | pruimen | 0,2 | 0,2 |   | 74 |
+|   |   |   | tafel- en wijndruiven | 2 | 2 |   |   |
 |   |   |   | spruitjes | 0,5 | 0,5 |   |   |
 |   |   |   | sluitkool | 1 | 1 |   |   |
 |   |   |   | prei | 0,5 | 0,5 |   |   |
@@ -4768,9 +4803,15 @@ Motief:
 
 - 73. De maximumgehalten voor Cucurbitaceae (met niet-eetbare schil) (behalve meloenen en watermeloenen) zijn verlaagd tot de ondergrens van de analytische bepaling en opgenomen in overige plantaardige producten.
 
+- 74. Uitbreiding toelating.
+
+- 75. Voorlopige toelating in het kader van richtlijn 91/414/EEG.
+
+- 76. Nieuw maximumgehalte naar aanleiding van vervoederingsstudie met koeien.
+
 ##### Artikel 1a
 
-In afwijking van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003658&artikel=1&z=2007-10-17&g=2007-10-17) is een hoeveelheid van bestrijdingsmiddelen, bestanddelen daarvan of omzettingsproducten, aanwezig op of in een eetwaar op basis van een landbouwproduct, eveneens aanvaardbaar uit oogpunt van volksgezondheid en goed landbouwkundig gebruik, voor zover:
+In afwijking van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003658&artikel=1&z=2007-11-15&g=2007-11-15) is een hoeveelheid van bestrijdingsmiddelen, bestanddelen daarvan of omzettingsproducten, aanwezig op of in een eetwaar op basis van een landbouwproduct, eveneens aanvaardbaar uit oogpunt van volksgezondheid en goed landbouwkundig gebruik, voor zover:
 
 - a. het desbetreffende landbouwproduct in de handel is gebracht in een lidstaat van de Europese Unie die voor dat landbouwproduct een voorlopig maximum residugehalte heeft vastgesteld en die lidstaat dat voorlopig maximum heeft medegedeeld aan de Commissie van de Europese Unie overeenkomstig artikel 4, eerste lid, onder f, van richtlijn nr. 91/414/EEG van de Raad van de Europese Gemeenschappen van 15 juli 1991 betreffende het op de markt brengen van gewasbeschermingsmiddelen (PbEG L 414); en
 
