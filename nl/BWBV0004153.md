@@ -4,7 +4,7 @@ identifier: "BWBV0004153"
 country: "nl"
 rank: "verdrag"
 publication_date: "2014-12-12"
-last_updated: "2007-10-15"
+last_updated: "2007-11-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0004153"
 soort: "verdrag"
@@ -198,7 +198,7 @@ Op basis van deze toetsing doet de Stabilisatie- en associatieraad aanbevelingen
 
 De volledige associatie zal geleidelijk tot stand worden gebracht. Uiterlijk in het derde jaar na de inwerkingtreding van de overeenkomst verricht de Stabilisatie- en associatieraad een grondige toetsing van de toepassing van de overeenkomst. Op basis van deze toetsing evalueert de Stabilisatie- en associatieraad de vorderingen die Montenegro heeft gemaakt en kan hij besluiten nemen over de volgende fasen van het associatieproces.
 
-Deze toetsing geldt niet voor het vrije verkeer van goederen, waarvoor in [Titel IV](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=IV&z=2007-10-15&g=2007-10-15) een aparte regeling wordt vastgesteld.
+Deze toetsing geldt niet voor het vrije verkeer van goederen, waarvoor in [Titel IV](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=IV&z=2007-11-15&g=2007-11-15) een aparte regeling wordt vastgesteld.
 
 ##### Artikel 9
 
@@ -244,7 +244,7 @@ De politieke dialoog hierover kan op regionale basis plaatsvinden.
 
 ##### Artikel 12
 
-Op parlementair niveau vindt de politieke dialoog plaats in het kader van het bij [artikel 125](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=X&artikel=125&z=2007-10-15&g=2007-10-15) ingestelde Parlementair Stabilisatie- en associatiecomité.
+Op parlementair niveau vindt de politieke dialoog plaats in het kader van het bij [artikel 125](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=X&artikel=125&z=2007-11-15&g=2007-11-15) ingestelde Parlementair Stabilisatie- en associatiecomité.
 
 ##### Artikel 13
 
@@ -256,7 +256,7 @@ De politieke dialoog kan plaatsvinden in multilateraal verband en als regionale 
 
 In overeenstemming met zijn verbintenis op het gebied van internationale en regionale vrede en stabiliteit en de ontwikkeling van betrekkingen van goed nabuurschap, bevordert Montenegro actief de regionale samenwerking. Ook kan de Gemeenschap via haar programma’s voor technische bijstand projecten steunen met een regionale of grensoverschrijdende dimensie.
 
-Telkens wanneer Montenegro voornemens is de samenwerking met een van de in de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=III&artikel=15&z=2007-10-15&g=2007-10-15), [16](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=III&artikel=16&z=2007-10-15&g=2007-10-15) en [17](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=III&artikel=17&z=2007-10-15&g=2007-10-15) genoemde landen te intensiveren, stelt het de Gemeenschap en haar lidstaten daarvan in kennis en voert het overleg met hen overeenkomstig de bepalingen van [titel X](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=X&z=2007-10-15&g=2007-10-15).
+Telkens wanneer Montenegro voornemens is de samenwerking met een van de in de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=III&artikel=15&z=2007-11-15&g=2007-11-15), [16](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=III&artikel=16&z=2007-11-15&g=2007-11-15) en [17](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=III&artikel=17&z=2007-11-15&g=2007-11-15) genoemde landen te intensiveren, stelt het de Gemeenschap en haar lidstaten daarvan in kennis en voert het overleg met hen overeenkomstig de bepalingen van [titel X](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=X&z=2007-11-15&g=2007-11-15).
 
 Montenegro zorgt voor de volledige tenuitvoerlegging van de bestaande bilaterale overeenkomsten die tot stand zijn gekomen op grond van het memorandum van overeenstemming met Servië en Montenegro inzake handelsbevordering en liberalisering, dat op 27 juni 2001 in Brussel werd ondertekend en van de Midden-Europese Vrijhandelsovereenkomst, die op 19 december 2006 in Boekarest werd ondertekend.
 
@@ -290,7 +290,7 @@ Montenegro streeft naar regionale samenwerking met de andere bij het stabilisati
 
 2. Montenegro moet onderhandelingen openen met Turkije, dat een douane-unie met de Europese Gemeenschap heeft ingesteld, om op een tot wederzijds voordeel strekkende basis een overeenkomst te sluiten, waarbij een vrijhandelszone tussen beide partijen wordt ingesteld overeenkomstig artikel XXIV van de GATT 1994, alsmede vestiging en dienstverlening tussen de partijen te liberaliseren op een niveau dat gelijkwaardig is aan dat van deze overeenkomst, volgens [artikel V van de GATS](https://wetten.overheid.nl/jci1.3:c:BWBV0001160&artikel=V).
 
-Deze onderhandelingen moeten zo snel mogelijk worden geopend om de bovengenoemde overeenkomst voor het einde van de in [artikel 18, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=IV&artikel=18&z=2007-10-15&g=2007-10-15), genoemde overgangsperiode te kunnen sluiten.
+Deze onderhandelingen moeten zo snel mogelijk worden geopend om de bovengenoemde overeenkomst voor het einde van de in [artikel 18, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=IV&artikel=18&z=2007-11-15&g=2007-11-15), genoemde overgangsperiode te kunnen sluiten.
 
 ## TITEL IV. VRIJ VERKEER VAN GOEDEREN
 
@@ -358,7 +358,7 @@ komen deze verlaagde rechten vanaf de datum waarop de verlagingen worden toegepa
 
 ##### Artikel 23. Versnelde verlaging van het douanerecht
 
-Montenegro verklaart zich bereid zijn douanerechten in het handelsverkeer met de Gemeenschap sneller te verlagen dan in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=IV&hoofdstuk=I&artikel=21&z=2007-10-15&g=2007-10-15) bepaald, als de algemene economische situatie in Montenegro en de situatie in de betrokken sector van de economie dat toelaten.
+Montenegro verklaart zich bereid zijn douanerechten in het handelsverkeer met de Gemeenschap sneller te verlagen dan in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=IV&hoofdstuk=I&artikel=21&z=2007-11-15&g=2007-11-15) bepaald, als de algemene economische situatie in Montenegro en de situatie in de betrokken sector van de economie dat toelaten.
 
 De Stabilisatie- en associatieraad analyseert de situatie dienaangaande en doet daarover aanbevelingen.
 
@@ -420,7 +420,7 @@ Rekening houdend met de omvang van het handelsverkeer in landbouw- en visserijpr
 
 ##### Artikel 32. Vrijwaringsclausule betreffende landbouw en visserij
 
-Onverminderd de andere bepalingen van deze overeenkomst, met name [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=IV&hoofdstuk=III&artikel=41&z=2007-10-15&g=2007-10-15), plegen beide partijen, indien, wegens de bijzondere gevoeligheid van de markten voor landbouw- en visserijproducten, de invoer van producten van oorsprong uit een partij waarvoor de concessies uit hoofde van de artikelen 25 tot en met 30 zijn verleend, ernstige problemen veroorzaakt op de markt of voor de binnenlandse regelingen van de andere partij, zo spoedig mogelijk overleg om een passende oplossing te vinden voor het probleem. In afwachting van deze oplossing kan de betrokken partij de passende maatregelen nemen die zij noodzakelijk acht.
+Onverminderd de andere bepalingen van deze overeenkomst, met name [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=IV&hoofdstuk=III&artikel=41&z=2007-11-15&g=2007-11-15), plegen beide partijen, indien, wegens de bijzondere gevoeligheid van de markten voor landbouw- en visserijproducten, de invoer van producten van oorsprong uit een partij waarvoor de concessies uit hoofde van de artikelen 25 tot en met 30 zijn verleend, ernstige problemen veroorzaakt op de markt of voor de binnenlandse regelingen van de andere partij, zo spoedig mogelijk overleg om een passende oplossing te vinden voor het probleem. In afwachting van deze oplossing kan de betrokken partij de passende maatregelen nemen die zij noodzakelijk acht.
 
 ##### Artikel 33. Bescherming van geografische aanduidingen voor landbouw- en visserijproducten en voedingsmiddelen anders dan wijn en gedistilleerde dranken
 
@@ -470,13 +470,13 @@ De bepalingen betreffende de afschaffing van de douanerechten bij invoer zijn ev
 
 1. De overeenkomst vormt geen beletsel voor de handhaving of de oprichting van douane-unies, vrijhandelszones of regelingen voor grensverkeer, mits de in deze overeenkomst neergelegde handelsregelingen daardoor niet worden gewijzigd.
 
-2. Gedurende de in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=IV&hoofdstuk=I&artikel=21&z=2007-10-15&g=2007-10-15) vermelde overgangsperioden mag deze overeenkomst geen invloed hebben op de tenuitvoerlegging van de specifieke preferentiële regelingen voor het goederenverkeer die ofwel zijn vastgelegd in grensovereenkomsten die eerder zijn gesloten tussen een of meer lidstaten en Servië en Montenegro, ofwel voortvloeien uit de in [titel III](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=III&z=2007-10-15&g=2007-10-15) gespecificeerde bilaterale overeenkomsten die door Montenegro zijn gesloten ter bevordering van de regionale handel.
+2. Gedurende de in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=IV&hoofdstuk=I&artikel=21&z=2007-11-15&g=2007-11-15) vermelde overgangsperioden mag deze overeenkomst geen invloed hebben op de tenuitvoerlegging van de specifieke preferentiële regelingen voor het goederenverkeer die ofwel zijn vastgelegd in grensovereenkomsten die eerder zijn gesloten tussen een of meer lidstaten en Servië en Montenegro, ofwel voortvloeien uit de in [titel III](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=III&z=2007-11-15&g=2007-11-15) gespecificeerde bilaterale overeenkomsten die door Montenegro zijn gesloten ter bevordering van de regionale handel.
 
 3. De partijen plegen in de Stabilisatie- en associatieraad overleg over de in de leden 1 en 2 bedoelde overeenkomsten en desgewenst over andere belangrijke onderwerpen in verband met hun respectieve handelspolitiek ten aanzien van derde landen. Een dergelijk overleg vindt met name plaats bij de toetreding van een derde land tot de Gemeenschap, teneinde rekening te kunnen houden met de onderlinge belangen van de Gemeenschap en Montenegro als omschreven in deze overeenkomst.
 
 ##### Artikel 40. Dumping en subsidiëring
 
-1. De bepalingen in deze overeenkomst beletten de partijen niet handelsbeschermingsmaatregelen overeenkomstig lid 2 en [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=IV&hoofdstuk=III&artikel=41&z=2007-10-15&g=2007-10-15) te treffen.
+1. De bepalingen in deze overeenkomst beletten de partijen niet handelsbeschermingsmaatregelen overeenkomstig lid 2 en [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=IV&hoofdstuk=III&artikel=41&z=2007-11-15&g=2007-11-15) te treffen.
 
 2. Als een partij constateert dat in het handelsverkeer met de andere partij dumping plaatsvindt en/of tot compenserende maatregelen aanleiding gevende subsidies worden gegeven, kan die partij passende maatregelen nemen tegen deze praktijk op grond van de [WTO-overeenkomst betreffende de tenuitvoerlegging van artikel VI van de GATT 1994](onbekend), de [WTO-overeenkomst inzake subsidies en compenserende maatregelen](onbekend), en haar eigen wetgeving ter zake.
 
@@ -492,7 +492,7 @@ De bepalingen betreffende de afschaffing van de douanerechten bij invoer zijn ev
 
 de invoerende partij passende bilaterale vrijwaringsmaatregelen kan nemen overeenkomstig de voorwaarden en procedures van dit artikel.
 
-3. Bilaterale vrijwaringsmaatregelen die gericht zijn tegen invoer uit de andere partij mogen niet meer inhouden dan wat nodig is om de als gevolg van de toepassing van deze overeenkomst gerezen moeilijkheden zoals beschreven in lid 2 te compenseren. Deze vrijwaringsmaatregelen bestaan normaliter uit de opschorting van de verdere verhoging of verlaging van de preferentiemarges krachtens deze overeenkomst voor het betrokken product tot een maximum dat overeenkomt met het in [artikel 18, lid 4, onder a) en b)](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=IV&artikel=18&z=2007-10-15&g=2007-10-15), en in artikel 18, lid 5 bedoelde basisrecht voor dat product. Dergelijke maatregelen bevatten duidelijke elementen die uiterlijk aan het einde van de vastgestelde periode geleidelijk leiden tot de intrekking ervan, en mogen voor een periode van maximaal twee jaar worden genomen.
+3. Bilaterale vrijwaringsmaatregelen die gericht zijn tegen invoer uit de andere partij mogen niet meer inhouden dan wat nodig is om de als gevolg van de toepassing van deze overeenkomst gerezen moeilijkheden zoals beschreven in lid 2 te compenseren. Deze vrijwaringsmaatregelen bestaan normaliter uit de opschorting van de verdere verhoging of verlaging van de preferentiemarges krachtens deze overeenkomst voor het betrokken product tot een maximum dat overeenkomt met het in [artikel 18, lid 4, onder a) en b)](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=IV&artikel=18&z=2007-11-15&g=2007-11-15), en in artikel 18, lid 5 bedoelde basisrecht voor dat product. Dergelijke maatregelen bevatten duidelijke elementen die uiterlijk aan het einde van de vastgestelde periode geleidelijk leiden tot de intrekking ervan, en mogen voor een periode van maximaal twee jaar worden genomen.
 
 In zeer uitzonderlijke omstandigheden mogen dergelijke maatregelen met maximaal twee jaar worden verlengd. Ten aanzien van de invoer van een product waartegen reeds eerder vrijwaringsmaatregelen zijn genomen, mogen gedurende een periode van ten minste vier jaar na het verstrijken van deze maatregelen niet opnieuw bilaterale vrijwaringsmaatregelen worden genomen.
 
@@ -582,7 +582,7 @@ De toepassing van deze overeenkomst laat de toepassing van de bepalingen van het
 
 - –. is de behandeling van werknemers die onderdaan van Montenegro zijn en die legaal op het grondgebied van een lidstaat werkzaam zijn, wat betreft arbeidsvoorwaarden, beloning en ontslag vrij van elke vorm van discriminatie op grond van nationaliteit ten opzichte van de nationale onderdanen van die lidstaat;
 
-- –. hebben de legaal op het grondgebied van een lidstaat verblijvende echtgenoot en kinderen van een legaal op het grondgebied van een lidstaat werkzame werknemer, met uitzondering van seizoenwerknemers en werknemers die onder bilaterale overeenkomsten in de zin van [artikel 50](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=V&hoofdstuk=I&artikel=50&z=2007-10-15&g=2007-10-15) vallen, tenzij in dergelijke overeenkomsten anders is bepaald, gedurende de periode dat het verblijf van die werknemer voor arbeidsdoeleinden is toegestaan, toegang tot de arbeidsmarkt van die lidstaat.
+- –. hebben de legaal op het grondgebied van een lidstaat verblijvende echtgenoot en kinderen van een legaal op het grondgebied van een lidstaat werkzame werknemer, met uitzondering van seizoenwerknemers en werknemers die onder bilaterale overeenkomsten in de zin van [artikel 50](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=V&hoofdstuk=I&artikel=50&z=2007-11-15&g=2007-11-15) vallen, tenzij in dergelijke overeenkomsten anders is bepaald, gedurende de periode dat het verblijf van die werknemer voor arbeidsdoeleinden is toegestaan, toegang tot de arbeidsmarkt van die lidstaat.
 
 2. Montenegro verleent, volgens de in dat land geldende voorwaarden en modaliteiten, aan werknemers die onderdaan zijn van een lidstaat en die legaal op zijn grondgebied werkzaam zijn, alsmede aan hun echtgenoot en kinderen die daar legaal verblijven, de in lid 1 vermelde behandeling.
 
@@ -632,7 +632,7 @@ Voor de toepassing van deze overeenkomst wordt verstaan onder:
 
 - g. „onderdaan van de Gemeenschap” respectievelijk „onderdaan van Montenegro”: een natuurlijke persoon die onderdaan is van een lidstaat respectievelijk van Montenegro;
 
-- h. wat het internationale vervoer over zee betreft, met inbegrip van het intermodale vervoer dat ten dele over zee plaatsvindt, zijn de bepalingen van dit hoofdstuk en van [hoofdstuk III](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=V&hoofdstuk=III&z=2007-10-15&g=2007-10-15) van deze titel eveneens van toepassing op buiten de Gemeenschap of Montenegro gevestigde onderdanen van de Gemeenschap respectievelijk Montenegro, en op buiten de Gemeenschap of Montenegro gevestigde scheepvaartondernemingen die worden bestuurd door onderdanen van de Gemeenschap respectievelijk Montenegro, indien hun vaartuigen in die lidstaat respectievelijk in Montenegro in overeenstemming met de respectieve wetgevingen zijn ingeschreven;
+- h. wat het internationale vervoer over zee betreft, met inbegrip van het intermodale vervoer dat ten dele over zee plaatsvindt, zijn de bepalingen van dit hoofdstuk en van [hoofdstuk III](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=V&hoofdstuk=III&z=2007-11-15&g=2007-11-15) van deze titel eveneens van toepassing op buiten de Gemeenschap of Montenegro gevestigde onderdanen van de Gemeenschap respectievelijk Montenegro, en op buiten de Gemeenschap of Montenegro gevestigde scheepvaartondernemingen die worden bestuurd door onderdanen van de Gemeenschap respectievelijk Montenegro, indien hun vaartuigen in die lidstaat respectievelijk in Montenegro in overeenstemming met de respectieve wetgevingen zijn ingeschreven;
 
 - i. „financiële diensten”: de in bijlage VI omschreven activiteiten. De Stabilisatie- en associatieraad kan de werkingssfeer van die bijlage uitbreiden of wijzigen.
 
@@ -662,7 +662,7 @@ Voor de toepassing van deze overeenkomst wordt verstaan onder:
 
 ##### Artikel 54
 
-1. Met inachtneming van [artikel 56](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=V&hoofdstuk=II&artikel=56&z=2007-10-15&g=2007-10-15) en uitgezonderd de in bijlage VI beschreven financiële diensten kan elke partij de vestiging van en de werkzaamheden van vennootschappen en onderdanen op haar grondgebied regelen, voor zover deze regelingen vennootschappen en onderdanen van de andere partij niet discrimineren ten opzichte van de eigen vennootschappen en onderdanen.
+1. Met inachtneming van [artikel 56](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=V&hoofdstuk=II&artikel=56&z=2007-11-15&g=2007-11-15) en uitgezonderd de in bijlage VI beschreven financiële diensten kan elke partij de vestiging van en de werkzaamheden van vennootschappen en onderdanen op haar grondgebied regelen, voor zover deze regelingen vennootschappen en onderdanen van de andere partij niet discrimineren ten opzichte van de eigen vennootschappen en onderdanen.
 
 2. Ten aanzien van financiële diensten vormt geen van de bepalingen van deze overeenkomst voor een partij een beletsel om prudentiële maatregelen te treffen, zoals om investeerders, depositohouders, verzekeringsnemers of personen jegens wie een fiduciaire verplichting is aangegaan, te beschermen, of om de integriteit en stabiliteit van het financiële systeem te waarborgen. Dergelijke maatregelen mogen door een partij niet worden aangewend om zich aan de uit deze overeenkomst voortvloeiende verplichtingen te onttrekken.
 
@@ -676,7 +676,7 @@ Voor de toepassing van deze overeenkomst wordt verstaan onder:
 
 ##### Artikel 56
 
-1. De [artikelen 53](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=V&hoofdstuk=II&artikel=53&z=2007-10-15&g=2007-10-15) en [54](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=V&hoofdstuk=II&artikel=54&z=2007-10-15&g=2007-10-15) vormen geen beletsel voor de toepassing door een partij, met betrekking tot de vestiging en uitoefening van activiteiten op haar grondgebied van filialen van vennootschappen van een andere partij die op het grondgebied van de eerste partij geen rechtspersoonlijkheid bezitten, van bijzondere regels die gerechtvaardigd zijn op grond van juridische of technische verschillen tussen bedoelde filialen en filialen van vennootschappen die op het grondgebied van de eerste partij rechtspersoonlijkheid bezitten, of, wat financiële diensten betreft, om prudentiële redenen.
+1. De [artikelen 53](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=V&hoofdstuk=II&artikel=53&z=2007-11-15&g=2007-11-15) en [54](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=V&hoofdstuk=II&artikel=54&z=2007-11-15&g=2007-11-15) vormen geen beletsel voor de toepassing door een partij, met betrekking tot de vestiging en uitoefening van activiteiten op haar grondgebied van filialen van vennootschappen van een andere partij die op het grondgebied van de eerste partij geen rechtspersoonlijkheid bezitten, van bijzondere regels die gerechtvaardigd zijn op grond van juridische of technische verschillen tussen bedoelde filialen en filialen van vennootschappen die op het grondgebied van de eerste partij rechtspersoonlijkheid bezitten, of, wat financiële diensten betreft, om prudentiële redenen.
 
 2. Het verschil in behandeling blijft beperkt tot hetgeen als gevolg van dergelijke juridische of technische verschillen strikt noodzakelijk is of, wat financiële diensten betreft, tot hetgeen om prudentiële redenen noodzakelijk is.
 
@@ -714,7 +714,7 @@ Teneinde de toegang tot en de uitoefening van gereglementeerde activiteiten in h
 
 1. De Gemeenschap en Montenegro verbinden zich ertoe overeenkomstig de hiernavolgende bepalingen de nodige stappen te ondernemen om geleidelijk het verrichten van diensten mogelijk te maken door vennootschappen en onderdanen van de Gemeenschap en Montenegro die zijn gevestigd op het grondgebied van een andere partij dan die van de persoon voor wie de diensten worden verricht.
 
-2. Naarmate de in lid 1 genoemde liberalisering tot stand komt, staan de partijen de tijdelijke verplaatsing toe van natuurlijke personen die de dienst verlenen of als werknemer voor de dienstverlener een sleutelpositie bekleden als omschreven in [artikel 58](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=V&hoofdstuk=II&artikel=58&z=2007-10-15&g=2007-10-15), met inbegrip van natuurlijke personen die vertegenwoordigers zijn van een vennootschap of onderdaan van de Gemeenschap of Montenegro en die tijdelijk toegang wensen te krijgen voor onderhandelingen over de verkoop van diensten of voor het aangaan van overeenkomsten over de verkoop van diensten namens de dienstverlener, voor zover deze vertegenwoordigers niet zelf betrokken zijn bij de openbare directe verkoop of bij de eigenlijke dienstverlening.
+2. Naarmate de in lid 1 genoemde liberalisering tot stand komt, staan de partijen de tijdelijke verplaatsing toe van natuurlijke personen die de dienst verlenen of als werknemer voor de dienstverlener een sleutelpositie bekleden als omschreven in [artikel 58](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=V&hoofdstuk=II&artikel=58&z=2007-11-15&g=2007-11-15), met inbegrip van natuurlijke personen die vertegenwoordigers zijn van een vennootschap of onderdaan van de Gemeenschap of Montenegro en die tijdelijk toegang wensen te krijgen voor onderhandelingen over de verkoop van diensten of voor het aangaan van overeenkomsten over de verkoop van diensten namens de dienstverlener, voor zover deze vertegenwoordigers niet zelf betrokken zijn bij de openbare directe verkoop of bij de eigenlijke dienstverlening.
 
 3. Vier jaar na de inwerkingtreding van de overeenkomst neemt de Stabilisatie- en associatieraad de nodige maatregelen om het bepaalde in lid 1 geleidelijk ten uitvoer te leggen. Hierbij wordt rekening gehouden met de vorderingen die de partijen maken bij de onderlinge aanpassing van hun wetgeving.
 
@@ -756,7 +756,7 @@ De partijen verbinden zich ertoe, overeenkomstig artikel VIII van de Statuten va
 
 ##### Artikel 63
 
-1. Met betrekking tot de verrichtingen op de kapitaalrekening en de financiële rekening van de betalingsbalans garanderen de partijen vanaf de inwerkingtreding van deze overeenkomst het vrije verkeer van kapitaal dat verband houdt met directe investeringen in ondernemingen die in overeenstemming met de wetten van het gastland zijn opgericht, en met investeringen in overeenstemming met [hoofdstuk II van titel V](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=V&hoofdstuk=II&z=2007-10-15&g=2007-10-15), alsook de liquidatie of de repatriëring van die investeringen en van alle opbrengsten daarvan.
+1. Met betrekking tot de verrichtingen op de kapitaalrekening en de financiële rekening van de betalingsbalans garanderen de partijen vanaf de inwerkingtreding van deze overeenkomst het vrije verkeer van kapitaal dat verband houdt met directe investeringen in ondernemingen die in overeenstemming met de wetten van het gastland zijn opgericht, en met investeringen in overeenstemming met [hoofdstuk II van titel V](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=V&hoofdstuk=II&z=2007-11-15&g=2007-11-15), alsook de liquidatie of de repatriëring van die investeringen en van alle opbrengsten daarvan.
 
 2. Met betrekking tot verrichtingen op de kapitaalrekening van de betalingsbalans waarborgen de partijen vanaf de inwerkingtreding van de overeenkomst het vrije verkeer van kapitaal met betrekking tot kredieten die verband houden met handelstransacties of het verrichten van diensten waarbij een ingezetene van een der partijen betrokken is, alsmede met financiële leningen en kredieten met een looptijd van meer dan een jaar.
 
@@ -766,7 +766,7 @@ De partijen verbinden zich ertoe, overeenkomstig artikel VIII van de Statuten va
 
 5. Onverminderd het bepaalde in lid 1 stellen de partijen geen nieuwe beperkingen in op het kapitaalverkeer en de lopende betalingen tussen ingezetenen van de Gemeenschap en van Montenegro, en brengen zij in de bestaande regelingen geen verdere restricties aan.
 
-6. Onverminderd het bepaalde in [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=V&hoofdstuk=IV&artikel=62&z=2007-10-15&g=2007-10-15) en in dit artikel mogen de Gemeenschap en Montenegro in uitzonderlijke gevallen, wanneer het kapitaalverkeer tussen de Gemeenschap en Montenegro ernstige moeilijkheden veroorzaakt of dreigt te veroorzaken voor de werking van het wisselkoersbeleid of het monetaire beleid in de Gemeenschap of Montenegro, vrijwaringsmaatregelen nemen ten aanzien van het kapitaalverkeer tussen de Gemeenschap en Montenegro voor een periode van ten hoogste zes maanden, indien dergelijke maatregelen absoluut noodzakelijk zijn.
+6. Onverminderd het bepaalde in [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=V&hoofdstuk=IV&artikel=62&z=2007-11-15&g=2007-11-15) en in dit artikel mogen de Gemeenschap en Montenegro in uitzonderlijke gevallen, wanneer het kapitaalverkeer tussen de Gemeenschap en Montenegro ernstige moeilijkheden veroorzaakt of dreigt te veroorzaken voor de werking van het wisselkoersbeleid of het monetaire beleid in de Gemeenschap of Montenegro, vrijwaringsmaatregelen nemen ten aanzien van het kapitaalverkeer tussen de Gemeenschap en Montenegro voor een periode van ten hoogste zes maanden, indien dergelijke maatregelen absoluut noodzakelijk zijn.
 
 7. Geen van bovenstaande bepalingen mag worden uitgelegd als een beperking van het recht van de economische subjecten van de partijen op een gunstiger behandeling, waarin kan zijn voorzien in bestaande bilaterale of multilaterale overeenkomsten waarbij de partijen bij deze overeenkomst betrokken zijn.
 
@@ -788,7 +788,7 @@ De partijen verbinden zich ertoe, overeenkomstig artikel VIII van de Statuten va
 
 ##### Artikel 66
 
-Voor de toepassing van deze titel belet geen enkele bepaling van deze overeenkomst de partijen hun wetten en voorschriften betreffende toelating en verblijf, werkgelegenheid, arbeidsvoorwaarden, vestiging van natuurlijke personen en het verrichten van diensten toe te passen, met name wat betreft het toekennen, verlengen of weigeren van een verblijfsvergunning, mits zij ze niet toepassen op een manier die de voor een partij uit een specifieke bepaling van de overeenkomst voortvloeiende voordelen tenietdoet of beperkt. Deze bepaling laat de toepassing van [artikel 65](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=V&hoofdstuk=V&artikel=65&z=2007-10-15&g=2007-10-15) onverlet.
+Voor de toepassing van deze titel belet geen enkele bepaling van deze overeenkomst de partijen hun wetten en voorschriften betreffende toelating en verblijf, werkgelegenheid, arbeidsvoorwaarden, vestiging van natuurlijke personen en het verrichten van diensten toe te passen, met name wat betreft het toekennen, verlengen of weigeren van een verblijfsvergunning, mits zij ze niet toepassen op een manier die de voor een partij uit een specifieke bepaling van de overeenkomst voortvloeiende voordelen tenietdoet of beperkt. Deze bepaling laat de toepassing van [artikel 65](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=V&hoofdstuk=V&artikel=65&z=2007-11-15&g=2007-11-15) onverlet.
 
 ##### Artikel 67
 
@@ -824,7 +824,7 @@ De bepalingen van deze overeenkomst doen geen afbreuk aan toepassing door elke p
 
 1. De partijen erkennen het belang van de aanpassing van de bestaande wetgeving van Montenegro aan die van de Gemeenschap en van de doeltreffende toepassing daarvan. Montenegro streeft ernaar zijn huidige en toekomstige wetgeving geleidelijk in overeenstemming te brengen met het acquis van de Gemeenschap. Montenegro ziet erop toe dat de bestaande en toekomstige wetgeving naar behoren ten uitvoer wordt gelegd en nageleefd.
 
-2. Deze aanpassing begint bij de inwerkingtreding van de overeenkomst en wordt in de loop van de overgangsperiode die is vastgesteld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=I&artikel=8&z=2007-10-15&g=2007-10-15) van deze overeenkomst geleidelijk uitgebreid tot alle in de overeenkomst genoemde onderdelen van het acquis van de Gemeenschap.
+2. Deze aanpassing begint bij de inwerkingtreding van de overeenkomst en wordt in de loop van de overgangsperiode die is vastgesteld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=I&artikel=8&z=2007-11-15&g=2007-11-15) van deze overeenkomst geleidelijk uitgebreid tot alle in de overeenkomst genoemde onderdelen van het acquis van de Gemeenschap.
 
 3. In eerste instantie richt deze aanpassing zich op fundamentele elementen van het acquis betreffende de interne markt, waaronder wetgeving inzake de financiële sector, justitie, vrijheid en veiligheid, alsmede handelsgerelateerde vraagstukken. In een later stadium zal Montenegro zich op de resterende delen van het acquis richten.
 
@@ -858,7 +858,7 @@ De aanpassing vindt plaats op basis van een programma waarover de Europese Commi
 
 8. In protocol 5 worden de regels vastgesteld voor staatssteun in de staalindustrie in geval van steun voor herstructurering. Hierbij ligt de nadruk op het uitzonderlijke karakter van deze steun; de steun moet beperkt in tijd zijn en verband houden met capaciteitsverminderingen in het kader van haalbaarheidsprogramma’s.
 
-9. Met betrekking tot de producten vermeld in [hoofdstuk II van titel IV](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=IV&hoofdstuk=II&z=2007-10-15&g=2007-10-15):
+9. Met betrekking tot de producten vermeld in [hoofdstuk II van titel IV](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=IV&hoofdstuk=II&z=2007-11-15&g=2007-11-15):
 
 - –. is het bepaalde in lid 1, onder iii), niet van toepassing;
 
@@ -892,7 +892,7 @@ De bijzondere rechten van overheidsondernemingen tijdens de overgangsperiode omv
 
 Zodra de regering van Montenegro de wetgeving heeft goedgekeurd waarbij de communautaire regels op dit terrein worden ingevoerd, zullen bovenstaande bepalingen ook van toepassing zijn op contracten in de nutssector. De Gemeenschap onderzoekt op gezette tijden of Montenegro deze wetgeving inderdaad heeft ingevoerd.
 
-3. Vennootschappen uit de Gemeenschap die overeenkomstig de bepalingen van [hoofdstuk II van titel V](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=V&hoofdstuk=II&z=2007-10-15&g=2007-10-15) in Montenegro zijn gevestigd, krijgen vanaf de datum van inwerkingtreding van deze overeenkomst toegang tot aanbestedingsprocedures, en krijgen daarbij een behandeling die niet minder gunstig is dan de behandeling die aan Montenegrijnse vennootschappen wordt verleend.
+3. Vennootschappen uit de Gemeenschap die overeenkomstig de bepalingen van [hoofdstuk II van titel V](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=V&hoofdstuk=II&z=2007-11-15&g=2007-11-15) in Montenegro zijn gevestigd, krijgen vanaf de datum van inwerkingtreding van deze overeenkomst toegang tot aanbestedingsprocedures, en krijgen daarbij een behandeling die niet minder gunstig is dan de behandeling die aan Montenegrijnse vennootschappen wordt verleend.
 
 4. Vennootschappen uit de Gemeenschap die niet in Montenegro zijn gevestigd, krijgen vanaf de inwerkingtreding van deze overeenkomst, toegang tot aanbestedingsprocedures in Montenegro en krijgen daarbij een behandeling die niet minder gunstig is dan de behandeling die aan Montenegrijnse vennootschappen wordt verleend.
 
@@ -1218,7 +1218,7 @@ De samenwerking is voornamelijk gericht op institutionele opbouw, waaronder de o
 
 ##### Artikel 115
 
-Met het oog op de verwezenlijking van de doelstellingen van deze overeenkomst en in overeenstemming met de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=I&artikel=5&z=2007-10-15&g=2007-10-15), [116](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=IX&artikel=116&z=2007-10-15&g=2007-10-15) en [118](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=IX&artikel=118&z=2007-10-15&g=2007-10-15) komt Montenegro in aanmerking voor financiële steun van de Gemeenschap in de vorm van subsidies en leningen, waaronder leningen van de Europese Investeringsbank. De steun van de Gemeenschap is afhankelijk van de vorderingen met betrekking tot de politieke criteria van Kopenhagen, en met name de verwezenlijking van de specifieke prioriteiten van het Europees Partnerschap. Hierbij wordt ook rekening gehouden met de resultaten van het jaarlijks onderzoek van de landen van het stabilisatie- en associatieproces, met name wat betreft de toezeggingen van de begunstigde landen om democratische, economische en institutionele hervormingen door te voeren, en met andere conclusies van de Raad, met name ten aanzien van de naleving van aanpassingsprogramma’s. De steun aan Montenegro wordt afgestemd op de geconstateerde behoeften, de overeengekomen prioriteiten, het vermogen tot opneming en terugbetaling en de maatregelen die worden getroffen om de economie te hervormen en te herstructureren.
+Met het oog op de verwezenlijking van de doelstellingen van deze overeenkomst en in overeenstemming met de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=I&artikel=5&z=2007-11-15&g=2007-11-15), [116](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=IX&artikel=116&z=2007-11-15&g=2007-11-15) en [118](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=IX&artikel=118&z=2007-11-15&g=2007-11-15) komt Montenegro in aanmerking voor financiële steun van de Gemeenschap in de vorm van subsidies en leningen, waaronder leningen van de Europese Investeringsbank. De steun van de Gemeenschap is afhankelijk van de vorderingen met betrekking tot de politieke criteria van Kopenhagen, en met name de verwezenlijking van de specifieke prioriteiten van het Europees Partnerschap. Hierbij wordt ook rekening gehouden met de resultaten van het jaarlijks onderzoek van de landen van het stabilisatie- en associatieproces, met name wat betreft de toezeggingen van de begunstigde landen om democratische, economische en institutionele hervormingen door te voeren, en met andere conclusies van de Raad, met name ten aanzien van de naleving van aanpassingsprogramma’s. De steun aan Montenegro wordt afgestemd op de geconstateerde behoeften, de overeengekomen prioriteiten, het vermogen tot opneming en terugbetaling en de maatregelen die worden getroffen om de economie te hervormen en te herstructureren.
 
 ##### Artikel 116
 
@@ -1264,7 +1264,7 @@ Om de doelstellingen van de overeenkomst te bereiken, heeft de Stabilisatie- en 
 
 2. In zijn reglement van orde bepaalt de Stabilisatie- en associatieraad de taken van het Stabilisatie- en associatiecomité, waaronder de voorbereiding van de vergaderingen van de Stabilisatie- en associatieraad, en stelt hij de werkwijze van dit comité vast.
 
-3. De Stabilisatie- en associatieraad mag bevoegdheden aan het Stabilisatie- en associatiecomité delegeren. In dat geval neemt het Stabilisatie- en associatiecomité zijn besluiten volgens de voorwaarden van [artikel 121](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=X&artikel=121&z=2007-10-15&g=2007-10-15).
+3. De Stabilisatie- en associatieraad mag bevoegdheden aan het Stabilisatie- en associatiecomité delegeren. In dat geval neemt het Stabilisatie- en associatiecomité zijn besluiten volgens de voorwaarden van [artikel 121](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=X&artikel=121&z=2007-11-15&g=2007-11-15).
 
 ##### Artikel 123
 
@@ -1316,29 +1316,29 @@ Niets in deze overeenkomst belet een partij maatregelen te nemen:
 
 2. De partijen komen overeen op verzoek van elk van de partijen onmiddellijk overleg te plegen via passende kanalen om kwesties met betrekking tot de interpretatie of tenuitvoerlegging van deze overeenkomst en andere relevante aspecten van de betrekkingen tussen de partijen te bespreken.
 
-3. De partijen leggen geschillen die verband houden met de toepassing of de interpretatie van deze overeenkomst voor aan de Stabilisatie- en associatieraad. In dat geval geldt [artikel 130](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=X&artikel=130&z=2007-10-15&g=2007-10-15), en eventueel protocol 7.
+3. De partijen leggen geschillen die verband houden met de toepassing of de interpretatie van deze overeenkomst voor aan de Stabilisatie- en associatieraad. In dat geval geldt [artikel 130](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=X&artikel=130&z=2007-11-15&g=2007-11-15), en eventueel protocol 7.
 
 De Stabilisatie- en associatieraad kan een dergelijk geschil door middel van een bindend besluit beslechten.
 
 4. Indien een van de partijen van mening is dat de andere partij een verplichting die uit de overeenkomst voortvloeit niet is nagekomen, kan zij passende maatregelen treffen. Alvorens dit te doen, behalve in bijzonder dringende gevallen, verstrekt zij de Stabilisatie- en associatieraad alle ter zake doende informatie die nodig is voor een grondig onderzoek van de situatie, om een voor de partijen aanvaardbare oplossing te vinden.
 
-Bij de keuze van de maatregelen moet voorrang worden gegeven aan maatregelen die het functioneren van de overeenkomst het minst verstoren. Deze maatregelen worden onmiddellijk ter kennis van de Stabilisatie- en associatieraad gebracht en op verzoek van de andere partij besproken in de Stabilisatie- en associatieraad, het Stabilisatie- en associatiecomité of een ander op grond van de [artikelen 121](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=X&artikel=121&z=2007-10-15&g=2007-10-15) of [122](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=X&artikel=122&z=2007-10-15&g=2007-10-15) opgericht orgaan.
+Bij de keuze van de maatregelen moet voorrang worden gegeven aan maatregelen die het functioneren van de overeenkomst het minst verstoren. Deze maatregelen worden onmiddellijk ter kennis van de Stabilisatie- en associatieraad gebracht en op verzoek van de andere partij besproken in de Stabilisatie- en associatieraad, het Stabilisatie- en associatiecomité of een ander op grond van de [artikelen 121](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=X&artikel=121&z=2007-11-15&g=2007-11-15) of [122](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=X&artikel=122&z=2007-11-15&g=2007-11-15) opgericht orgaan.
 
-5. De leden 2, 3 en 4 hebben geen invloed op en gelden onverminderd de [artikelen 32](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=IV&hoofdstuk=II&artikel=32&z=2007-10-15&g=2007-10-15), [40](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=IV&hoofdstuk=III&artikel=40&z=2007-10-15&g=2007-10-15), [41](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=IV&hoofdstuk=III&artikel=41&z=2007-10-15&g=2007-10-15), [42](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=IV&hoofdstuk=III&artikel=42&z=2007-10-15&g=2007-10-15) en [46](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=IV&hoofdstuk=III&artikel=46&z=2007-10-15&g=2007-10-15) en protocol 3 (Definitie van het begrip „producten van oorsprong” en regelingen voor administratieve samenwerking).
+5. De leden 2, 3 en 4 hebben geen invloed op en gelden onverminderd de [artikelen 32](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=IV&hoofdstuk=II&artikel=32&z=2007-11-15&g=2007-11-15), [40](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=IV&hoofdstuk=III&artikel=40&z=2007-11-15&g=2007-11-15), [41](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=IV&hoofdstuk=III&artikel=41&z=2007-11-15&g=2007-11-15), [42](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=IV&hoofdstuk=III&artikel=42&z=2007-11-15&g=2007-11-15) en [46](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=IV&hoofdstuk=III&artikel=46&z=2007-11-15&g=2007-11-15) en protocol 3 (Definitie van het begrip „producten van oorsprong” en regelingen voor administratieve samenwerking).
 
 ##### Artikel 130
 
 1. Wanneer tussen de partijen een meningsverschil ontstaat over de interpretatie of de tenuitvoerlegging van de overeenkomst, dient de ene partij bij de andere partij en bij de Stabilisatie- en associatieraad een formeel verzoek tot geschillenbeslechting in.
 
-Wanneer een partij van mening is dat een maatregel van de andere partij of het niet-optreden van de andere partij een inbreuk vormt op haar verplichtingen in het kader van deze overeenkomst, moet in het formele verzoek tot geschillenbeslechting worden vermeld waarom de eerste partij deze mening is toegedaan en dat zij maatregelen kan nemen zoals bedoeld in [artikel 129, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=X&artikel=129&z=2007-10-15&g=2007-10-15).
+Wanneer een partij van mening is dat een maatregel van de andere partij of het niet-optreden van de andere partij een inbreuk vormt op haar verplichtingen in het kader van deze overeenkomst, moet in het formele verzoek tot geschillenbeslechting worden vermeld waarom de eerste partij deze mening is toegedaan en dat zij maatregelen kan nemen zoals bedoeld in [artikel 129, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=X&artikel=129&z=2007-11-15&g=2007-11-15).
 
 2. De partijen streven ernaar geschillen op te lossen via overleg te goeder trouw binnen de Stabilisatie- en associatieraad en de andere in lid 3 beschreven organen, teneinde zo snel mogelijk tot een wederzijds aanvaardbare oplossing te komen.
 
 3. De partijen verstrekken de Stabilisatie- en associatieraad alle relevante informatie die nodig is voor een grondig onderzoek van de situatie.
 
-Zolang het geschil niet is beslecht, wordt het tijdens elke vergadering van de Stabilisatie- en associatieraad besproken, tenzij de in protocol 7 beschreven arbitrageprocedure is ingeleid. Een geschil wordt geacht beslecht te zijn wanneer de Stabilisatie- en associatieraad een bindend besluit heeft genomen zoals bedoeld in [artikel 129, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=X&artikel=129&z=2007-10-15&g=2007-10-15), of wanneer hij heeft verklaard dat het geschil niet langer bestaat.
+Zolang het geschil niet is beslecht, wordt het tijdens elke vergadering van de Stabilisatie- en associatieraad besproken, tenzij de in protocol 7 beschreven arbitrageprocedure is ingeleid. Een geschil wordt geacht beslecht te zijn wanneer de Stabilisatie- en associatieraad een bindend besluit heeft genomen zoals bedoeld in [artikel 129, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=X&artikel=129&z=2007-11-15&g=2007-11-15), of wanneer hij heeft verklaard dat het geschil niet langer bestaat.
 
-In overleg tussen de partijen of op verzoek van een van de partijen kan een geschil ook worden besproken tijdens een vergadering van het Stabilisatie- en associatiecomité of een ander relevant comité of orgaan dat is opgezet op grond van [artikel 123](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=X&artikel=123&z=2007-10-15&g=2007-10-15) of [124](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=X&artikel=124&z=2007-10-15&g=2007-10-15). Overleg kan ook schriftelijk plaatsvinden.
+In overleg tussen de partijen of op verzoek van een van de partijen kan een geschil ook worden besproken tijdens een vergadering van het Stabilisatie- en associatiecomité of een ander relevant comité of orgaan dat is opgezet op grond van [artikel 123](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=X&artikel=123&z=2007-11-15&g=2007-11-15) of [124](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=X&artikel=124&z=2007-11-15&g=2007-11-15). Overleg kan ook schriftelijk plaatsvinden.
 
 Alle tijdens het overleg verstrekte informatie wordt vertrouwelijk behandeld.
 
@@ -1386,7 +1386,7 @@ Deze overeenkomst treedt in werking op de eerste dag van de tweede maand na de d
 
 ##### Artikel 139. Interimovereenkomst
 
-De partijen komen overeen dat, indien in afwachting van de voltooiing van de procedures die nodig zijn voor de inwerkingtreding van deze overeenkomst, de bepalingen van sommige gedeelten van deze overeenkomst, met name die inzake het vrije verkeer van goederen, alsmede de relevante bepalingen inzake vervoer, door middel van een interimovereenkomst tussen de Gemeenschap en Montenegro ten uitvoer worden gelegd, voor de toepassing van [titel IV](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=IV&z=2007-10-15&g=2007-10-15), van de [artikelen 73](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=VI&artikel=73&z=2007-10-15&g=2007-10-15), [74](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=VI&artikel=74&z=2007-10-15&g=2007-10-15) en [75](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=VI&artikel=75&z=2007-10-15&g=2007-10-15) van deze overeenkomst en van de protocollen 1, 2, 3, 5, 6 en 7 alsmede de relevante bepalingen van protocol 4, onder de datum van inwerkingtreding van deze overeenkomst wordt verstaan de datum van inwerkingtreding van de interimovereenkomst, voor wat betreft de verplichtingen die in deze artikelen en protocollen zijn opgenomen.
+De partijen komen overeen dat, indien in afwachting van de voltooiing van de procedures die nodig zijn voor de inwerkingtreding van deze overeenkomst, de bepalingen van sommige gedeelten van deze overeenkomst, met name die inzake het vrije verkeer van goederen, alsmede de relevante bepalingen inzake vervoer, door middel van een interimovereenkomst tussen de Gemeenschap en Montenegro ten uitvoer worden gelegd, voor de toepassing van [titel IV](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=IV&z=2007-11-15&g=2007-11-15), van de [artikelen 73](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=VI&artikel=73&z=2007-11-15&g=2007-11-15), [74](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=VI&artikel=74&z=2007-11-15&g=2007-11-15) en [75](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=VI&artikel=75&z=2007-11-15&g=2007-11-15) van deze overeenkomst en van de protocollen 1, 2, 3, 5, 6 en 7 alsmede de relevante bepalingen van protocol 4, onder de datum van inwerkingtreding van deze overeenkomst wordt verstaan de datum van inwerkingtreding van de interimovereenkomst, voor wat betreft de verplichtingen die in deze artikelen en protocollen zijn opgenomen.
 
 ##### Artikel 1
 
@@ -1468,7 +1468,7 @@ Voor de toepassing van dit protocol wordt verstaan onder:
 
 - h. „waarde van de materialen van oorsprong”: de waarde van deze materialen als omschreven onder g), welke omschrijving van dienovereenkomstige toepassing is;
 
-- i. „toegevoegde waarde”: de prijs af fabriek verminderd met de douanewaarde van alle gebruikte materialen van oorsprong uit de andere in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=II&artikel=3&z=2007-10-15&g=2007-10-15) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=II&artikel=4&z=2007-10-15&g=2007-10-15) genoemde landen of, indien de douanewaarde niet bekend is of niet kan worden vastgesteld, de eerste verifieerbare prijs die in de Gemeenschap of in Montenegro voor deze materialen werd betaald;
+- i. „toegevoegde waarde”: de prijs af fabriek verminderd met de douanewaarde van alle gebruikte materialen van oorsprong uit de andere in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=II&artikel=3&z=2007-11-15&g=2007-11-15) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=II&artikel=4&z=2007-11-15&g=2007-11-15) genoemde landen of, indien de douanewaarde niet bekend is of niet kan worden vastgesteld, de eerste verifieerbare prijs die in de Gemeenschap of in Montenegro voor deze materialen werd betaald;
 
 - j. „hoofdstukken” en „posten”: de hoofdstukken en posten (viercijfercodes) van de nomenclatuur die het geharmoniseerde systeem inzake de omschrijving en codering van goederen vormt, in dit protocol „het geharmoniseerde systeem” of „GS” genoemd;
 
@@ -1484,21 +1484,21 @@ Voor de toepassing van dit protocol wordt verstaan onder:
 
 1. Voor de toepassing van deze overeenkomst worden de volgende producten beschouwd van oorsprong te zijn uit de Gemeenschap:
 
-- a. geheel en al in de Gemeenschap verkregen producten in de zin van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=II&artikel=5&z=2007-10-15&g=2007-10-15);
+- a. geheel en al in de Gemeenschap verkregen producten in de zin van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=II&artikel=5&z=2007-11-15&g=2007-11-15);
 
-- b. in de Gemeenschap verkregen producten, waarin materialen zijn verwerkt die daar niet geheel en al zijn verkregen, mits deze materialen in de Gemeenschap een be- of verwerking hebben ondergaan die toereikend is in de zin van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=II&artikel=6&z=2007-10-15&g=2007-10-15).
+- b. in de Gemeenschap verkregen producten, waarin materialen zijn verwerkt die daar niet geheel en al zijn verkregen, mits deze materialen in de Gemeenschap een be- of verwerking hebben ondergaan die toereikend is in de zin van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=II&artikel=6&z=2007-11-15&g=2007-11-15).
 
 2. Voor de toepassing van deze overeenkomst worden de volgende producten beschouwd als van oorsprong uit Montenegro:
 
-- a. geheel en al in Montenegro verkregen producten in de zin van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=II&artikel=5&z=2007-10-15&g=2007-10-15);
+- a. geheel en al in Montenegro verkregen producten in de zin van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=II&artikel=5&z=2007-11-15&g=2007-11-15);
 
-- b. in Montenegro verkregen producten waarin materialen zijn verwerkt die daar niet geheel en al zijn verkregen, mits deze materialen in Montenegro een be- of verwerking hebben ondergaan die toereikend is in de zin van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=II&artikel=6&z=2007-10-15&g=2007-10-15).
+- b. in Montenegro verkregen producten waarin materialen zijn verwerkt die daar niet geheel en al zijn verkregen, mits deze materialen in Montenegro een be- of verwerking hebben ondergaan die toereikend is in de zin van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=II&artikel=6&z=2007-11-15&g=2007-11-15).
 
 ##### Artikel 3. Cumulatie in de Gemeenschap
 
-1. Onverminderd het bepaalde in [artikel 2, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=II&artikel=2&z=2007-10-15&g=2007-10-15), worden producten als van oorsprong uit de Gemeenschap beschouwd indien zij aldaar zijn verkregen door be- of verwerking van materialen van oorsprong uit Montenegro, de Gemeenschap of een ander land of grondgebied dat deelneemt aan het stabilisatie- en associatieproces van de Europese Unie2)Zoals vastgesteld in de conclusies van de Raad Algemene Zaken van april 1997 en de mededeling van de Commissie van mei 1999 over het stabilisatie- en associatieproces met de Westelijke Balkan. , of door be- of verwerking van materialen van oorsprong uit Turkije waarop Beschikking nr. 1/95 van de Associatieraad EG-Turkije van 22 december 19951)Besluit nr. 1/95 van de Associatieraad EG-Turkije van 22 december 1995 is van toepassing op producten niet zijnde landbouwproducten als omschreven in de Overeenkomst tot oprichting van een associatie tussen de Europese Economische Gemeenschap en Turkije en producten niet zijnde kool- en staalproducten als omschreven in de overeenkomst tussen de Europese Gemeenschap voor Kolen en Staal en de Republiek Turkije betreffende handel in producten die vallen onder het Verdrag tot oprichting van de Europese Gemeenschap voor Kolen en Staal. van toepassing is, mits deze materialen in de Gemeenschap bewerkingen hebben ondergaan die ingrijpender zijn dan die bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=II&artikel=7&z=2007-10-15&g=2007-10-15). Het is niet noodzakelijk dat deze materialen toereikende be- of verwerkingen hebben ondergaan.
+1. Onverminderd het bepaalde in [artikel 2, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=II&artikel=2&z=2007-11-15&g=2007-11-15), worden producten als van oorsprong uit de Gemeenschap beschouwd indien zij aldaar zijn verkregen door be- of verwerking van materialen van oorsprong uit Montenegro, de Gemeenschap of een ander land of grondgebied dat deelneemt aan het stabilisatie- en associatieproces van de Europese Unie2)Zoals vastgesteld in de conclusies van de Raad Algemene Zaken van april 1997 en de mededeling van de Commissie van mei 1999 over het stabilisatie- en associatieproces met de Westelijke Balkan. , of door be- of verwerking van materialen van oorsprong uit Turkije waarop Beschikking nr. 1/95 van de Associatieraad EG-Turkije van 22 december 19951)Besluit nr. 1/95 van de Associatieraad EG-Turkije van 22 december 1995 is van toepassing op producten niet zijnde landbouwproducten als omschreven in de Overeenkomst tot oprichting van een associatie tussen de Europese Economische Gemeenschap en Turkije en producten niet zijnde kool- en staalproducten als omschreven in de overeenkomst tussen de Europese Gemeenschap voor Kolen en Staal en de Republiek Turkije betreffende handel in producten die vallen onder het Verdrag tot oprichting van de Europese Gemeenschap voor Kolen en Staal. van toepassing is, mits deze materialen in de Gemeenschap bewerkingen hebben ondergaan die ingrijpender zijn dan die bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=II&artikel=7&z=2007-11-15&g=2007-11-15). Het is niet noodzakelijk dat deze materialen toereikende be- of verwerkingen hebben ondergaan.
 
-2. Indien de in de Gemeenschap verrichte be- of verwerkingen niet ingrijpender zijn dan de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=II&artikel=7&z=2007-10-15&g=2007-10-15) bedoelde be- of verwerkingen, wordt het verkregen product alleen als van oorsprong uit de Gemeenschap beschouwd indien de aldaar toegevoegde waarde groter is dan die van de gebruikte materialen van oorsprong uit een van de andere in lid 1 bedoelde landen. Is dit niet het geval, dan wordt het verkregen product beschouwd als van oorsprong uit het land dat de hoogste waarde vertegenwoordigt van de bij de vervaardiging in de Gemeenschap gebruikte materialen van oorsprong.
+2. Indien de in de Gemeenschap verrichte be- of verwerkingen niet ingrijpender zijn dan de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=II&artikel=7&z=2007-11-15&g=2007-11-15) bedoelde be- of verwerkingen, wordt het verkregen product alleen als van oorsprong uit de Gemeenschap beschouwd indien de aldaar toegevoegde waarde groter is dan die van de gebruikte materialen van oorsprong uit een van de andere in lid 1 bedoelde landen. Is dit niet het geval, dan wordt het verkregen product beschouwd als van oorsprong uit het land dat de hoogste waarde vertegenwoordigt van de bij de vervaardiging in de Gemeenschap gebruikte materialen van oorsprong.
 
 3. Producten van oorsprong uit een van de in de lid 1 genoemde landen en grondgebieden die in de Gemeenschap geen enkele be- of verwerking ondergaan, behouden hun oorsprong wanneer zij naar een van deze landen worden uitgevoerd.
 
@@ -1518,9 +1518,9 @@ De cumulatie geldt niet voor de in bijlage V vermelde producten.
 
 ##### Artikel 4. Cumulatie in Montenegro
 
-1. Onverminderd het bepaalde in [artikel 2, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=II&artikel=2&z=2007-10-15&g=2007-10-15), worden producten als van oorsprong uit Montenegro beschouwd indien zij aldaar zijn verkregen door be- of verwerking van materialen van oorsprong uit de Gemeenschap, Montenegro of een ander land of grondgebied dat deelneemt aan het stabilisatie- en associatieproces van de Europese Unie3)Zoals vastgesteld in de conclusies van de Raad Algemene Zaken van april 1997 en de mededeling van de Commissie van mei 1999 over het stabilisatie- en associatieproces met de Westelijke Balkan. , of door be- of verwerking van materialen van oorsprong uit Turkije waarop Beschikking nr. 1/95 van de Associatieraad EG-Turkije van 22 december 1995 1)Besluit nr. 1/95 van de Associatieraad EG-Turkije van 22 december 1995 is van toepassing op producten niet zijnde landbouwproducten als omschreven in de Overeenkomst tot oprichting van een associatie tussen de Europese Economische Gemeenschap en Turkije en producten niet zijnde kool- en staalproducten als omschreven in de overeenkomst tussen de Europese Gemeenschap voor Kolen en Staal en de Republiek Turkije betreffende handel in producten die vallen onder het Verdrag tot oprichting van de Europese Gemeenschap voor Kolen en Staal. van toepassing is, mits deze materialen in de Gemeenschap bewerkingen hebben ondergaan die ingrijpender zijn dan die bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=II&artikel=7&z=2007-10-15&g=2007-10-15). Het is niet noodzakelijk dat deze materialen toereikende be- of verwerkingen hebben ondergaan.
+1. Onverminderd het bepaalde in [artikel 2, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=II&artikel=2&z=2007-11-15&g=2007-11-15), worden producten als van oorsprong uit Montenegro beschouwd indien zij aldaar zijn verkregen door be- of verwerking van materialen van oorsprong uit de Gemeenschap, Montenegro of een ander land of grondgebied dat deelneemt aan het stabilisatie- en associatieproces van de Europese Unie3)Zoals vastgesteld in de conclusies van de Raad Algemene Zaken van april 1997 en de mededeling van de Commissie van mei 1999 over het stabilisatie- en associatieproces met de Westelijke Balkan. , of door be- of verwerking van materialen van oorsprong uit Turkije waarop Beschikking nr. 1/95 van de Associatieraad EG-Turkije van 22 december 1995 1)Besluit nr. 1/95 van de Associatieraad EG-Turkije van 22 december 1995 is van toepassing op producten niet zijnde landbouwproducten als omschreven in de Overeenkomst tot oprichting van een associatie tussen de Europese Economische Gemeenschap en Turkije en producten niet zijnde kool- en staalproducten als omschreven in de overeenkomst tussen de Europese Gemeenschap voor Kolen en Staal en de Republiek Turkije betreffende handel in producten die vallen onder het Verdrag tot oprichting van de Europese Gemeenschap voor Kolen en Staal. van toepassing is, mits deze materialen in de Gemeenschap bewerkingen hebben ondergaan die ingrijpender zijn dan die bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=II&artikel=7&z=2007-11-15&g=2007-11-15). Het is niet noodzakelijk dat deze materialen toereikende be- of verwerkingen hebben ondergaan.
 
-2. Indien de in Montenegro verrichte be- of verwerkingen niet ingrijpender zijn dan de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=II&artikel=7&z=2007-10-15&g=2007-10-15) bedoelde be- of verwerkingen, wordt het verkregen product alleen als van oorsprong uit Montenegro beschouwd indien de aldaar toegevoegde waarde groter is dan die van de gebruikte materialen van oorsprong uit een van de andere in lid 1 bedoelde landen en gebieden. Is dit niet het geval, dan wordt het verkregen product beschouwd als van oorsprong uit het land dat de meeste waarde heeft toegevoegd aan de materialen van oorsprong die bij de vervaardiging in Montenegro gebruikt zijn.
+2. Indien de in Montenegro verrichte be- of verwerkingen niet ingrijpender zijn dan de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=II&artikel=7&z=2007-11-15&g=2007-11-15) bedoelde be- of verwerkingen, wordt het verkregen product alleen als van oorsprong uit Montenegro beschouwd indien de aldaar toegevoegde waarde groter is dan die van de gebruikte materialen van oorsprong uit een van de andere in lid 1 bedoelde landen en gebieden. Is dit niet het geval, dan wordt het verkregen product beschouwd als van oorsprong uit het land dat de meeste waarde heeft toegevoegd aan de materialen van oorsprong die bij de vervaardiging in Montenegro gebruikt zijn.
 
 3. Producten van oorsprong uit een van de in de lid 1 genoemde landen en grondgebieden die in Montenegro geen enkele be- of verwerking ondergaan, behouden hun oorsprong wanneer zij naar een van deze landen worden uitgevoerd.
 
@@ -1578,7 +1578,7 @@ De cumulatie geldt niet voor de in bijlage V vermelde producten.
 
 ##### Artikel 6. Toereikende bewerking of verwerking
 
-1. Voor de toepassing van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=II&artikel=2&z=2007-10-15&g=2007-10-15) worden producten die niet geheel en al verkregen zijn, geacht een toereikende bewerking of verwerking te hebben ondergaan indien aan de voorwaarden van de lijst in bijlage II is voldaan.
+1. Voor de toepassing van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=II&artikel=2&z=2007-11-15&g=2007-11-15) worden producten die niet geheel en al verkregen zijn, geacht een toereikende bewerking of verwerking te hebben ondergaan indien aan de voorwaarden van de lijst in bijlage II is voldaan.
 
 Die voorwaarden geven voor alle onder deze overeenkomst vallende producten aan welke be- of verwerkingen niet van oorsprong zijnde materialen moeten ondergaan om het karakter van product van oorsprong te verkrijgen, en zijn slechts op die materialen van toepassing. Dit betekent dat indien een product dat de oorsprong heeft verkregen doordat het aan de voorwaarden in die lijst voor dat product heeft voldaan, als materiaal gebruikt wordt bij de vervaardiging van een ander product, de voorwaarden die van toepassing zijn op het product waarin het wordt verwerkt daarvoor niet gelden. Er wordt dan geen rekening gehouden met niet van oorsprong zijnde materialen die bij de vervaardiging ervan zijn gebruikt.
 
@@ -1590,11 +1590,11 @@ Die voorwaarden geven voor alle onder deze overeenkomst vallende producten aan w
 
 Dit lid is niet van toepassing op de producten die onder de hoofdstukken 50 tot en met 63 van het geharmoniseerde systeem zijn ingedeeld.
 
-3. De leden 1 en 2 zijn van toepassing onder voorbehoud van het bepaalde in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=II&artikel=7&z=2007-10-15&g=2007-10-15).
+3. De leden 1 en 2 zijn van toepassing onder voorbehoud van het bepaalde in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=II&artikel=7&z=2007-11-15&g=2007-11-15).
 
 ##### Artikel 7. Ontoereikende bewerking of verwerking
 
-1. Behoudens het bepaalde in lid 2 worden de volgende be- of verwerkingen als ontoereikend beschouwd om de oorsprong te verlenen, ongeacht of aan de voorwaarden van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=II&artikel=6&z=2007-10-15&g=2007-10-15) is voldaan:
+1. Behoudens het bepaalde in lid 2 worden de volgende be- of verwerkingen als ontoereikend beschouwd om de oorsprong te verlenen, ongeacht of aan de voorwaarden van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=II&artikel=6&z=2007-11-15&g=2007-11-15) is voldaan:
 
 - a. behandelingen om de producten tijdens vervoer en opslag in goede staat te bewaren;
 
@@ -1666,9 +1666,9 @@ Om te bepalen of een product van oorsprong is, is het niet noodzakelijk de oorsp
 
 ##### Artikel 12. Territorialiteitsbeginsel
 
-1. Aan de in titel II genoemde voorwaarden voor het verkrijgen van de oorsprong moet zonder onderbreking in de Gemeenschap of in Montenegro zijn voldaan, behoudens het bepaalde in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=II&artikel=3&z=2007-10-15&g=2007-10-15) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=II&artikel=4&z=2007-10-15&g=2007-10-15), en in lid 3 van dit artikel.
+1. Aan de in titel II genoemde voorwaarden voor het verkrijgen van de oorsprong moet zonder onderbreking in de Gemeenschap of in Montenegro zijn voldaan, behoudens het bepaalde in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=II&artikel=3&z=2007-11-15&g=2007-11-15) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=II&artikel=4&z=2007-11-15&g=2007-11-15), en in lid 3 van dit artikel.
 
-2. Behoudens het bepaalde in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=II&artikel=3&z=2007-10-15&g=2007-10-15) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=II&artikel=4&z=2007-10-15&g=2007-10-15) worden producten van oorsprong die uit de Gemeenschap of Montenegro naar een ander land worden uitgevoerd en vervolgens opnieuw worden ingevoerd, als niet van oorsprong beschouwd, tenzij ten genoegen van de douaneautoriteiten wordt aangetoond dat:
+2. Behoudens het bepaalde in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=II&artikel=3&z=2007-11-15&g=2007-11-15) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=II&artikel=4&z=2007-11-15&g=2007-11-15) worden producten van oorsprong die uit de Gemeenschap of Montenegro naar een ander land worden uitgevoerd en vervolgens opnieuw worden ingevoerd, als niet van oorsprong beschouwd, tenzij ten genoegen van de douaneautoriteiten wordt aangetoond dat:
 
 - a. de terugkerende goederen dezelfde zijn als de eerder uitgevoerde goederen; en tevens
 
@@ -1676,7 +1676,7 @@ Om te bepalen of een product van oorsprong is, is het niet noodzakelijk de oorsp
 
 3. Een buiten de Gemeenschap of Montenegro verrichte be- of verwerking van de uit de Gemeenschap of Montenegro uitgevoerde en later wederingevoerde materialen ontneemt niet het karakter van product van oorsprong overeenkomstig het bepaalde in titel II indien:
 
-- a. de genoemde materialen geheel en al in de Gemeenschap of Montenegro zijn verkregen dan wel, voorafgaand aan de uitvoer, aldaar een meer ingrijpende be- of verwerking dan de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=II&artikel=7&z=2007-10-15&g=2007-10-15) vermelde hebben ondergaan; en tevens
+- a. de genoemde materialen geheel en al in de Gemeenschap of Montenegro zijn verkregen dan wel, voorafgaand aan de uitvoer, aldaar een meer ingrijpende be- of verwerking dan de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=II&artikel=7&z=2007-11-15&g=2007-11-15) vermelde hebben ondergaan; en tevens
 
 - b. ten genoegen van de douaneautoriteiten kan worden aangetoond dat:
 
@@ -1688,7 +1688,7 @@ Om te bepalen of een product van oorsprong is, is het niet noodzakelijk de oorsp
 
 5. Voor de toepassing van het bepaalde in de leden 3 en 4 wordt onder „totale toegevoegde waarde” verstaan alle buiten de Gemeenschap of Montenegro gemaakte kosten, met inbegrip van de waarde van de toegevoegde materialen.
 
-6. De leden 3 en 4 zijn niet van toepassing op producten die niet aan de voorwaarden van de lijst in bijlage II voldoen of die slechts kunnen worden aangemerkt als toereikend te zijn be- of verwerkt door toepassing van de algemene tolerantieregel van [artikel 6, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=II&artikel=6&z=2007-10-15&g=2007-10-15).
+6. De leden 3 en 4 zijn niet van toepassing op producten die niet aan de voorwaarden van de lijst in bijlage II voldoen of die slechts kunnen worden aangemerkt als toereikend te zijn be- of verwerkt door toepassing van de algemene tolerantieregel van [artikel 6, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=II&artikel=6&z=2007-11-15&g=2007-11-15).
 
 7. De leden 3 en 4 zijn niet van toepassing op producten van de hoofdstukken 50 tot en met 63 van het geharmoniseerd systeem.
 
@@ -1696,7 +1696,7 @@ Om te bepalen of een product van oorsprong is, is het niet noodzakelijk de oorsp
 
 ##### Artikel 13. Rechtstreeks vervoer
 
-1. De bij deze overeenkomst vastgestelde preferentiële regeling is uitsluitend van toepassing op producten die aan de voorwaarden van dit protocol voldoen en die rechtstreeks tussen de Gemeenschap en Montenegro of over het grondgebied van een in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=II&artikel=3&z=2007-10-15&g=2007-10-15) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=II&artikel=4&z=2007-10-15&g=2007-10-15) genoemd ander land of gebied zijn vervoerd. Goederen die één enkele zending vormen, kunnen via een ander grondgebied worden vervoerd, eventueel met overslag of tijdelijke opslag op dit grondgebied, voor zover zij in het land van doorvoer of opslag onder toezicht van de douane blijven en aldaar geen andere behandelingen ondergaan dan lossen en opnieuw laden of behandelingen om ze in goede staat te bewaren.
+1. De bij deze overeenkomst vastgestelde preferentiële regeling is uitsluitend van toepassing op producten die aan de voorwaarden van dit protocol voldoen en die rechtstreeks tussen de Gemeenschap en Montenegro of over het grondgebied van een in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=II&artikel=3&z=2007-11-15&g=2007-11-15) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=II&artikel=4&z=2007-11-15&g=2007-11-15) genoemd ander land of gebied zijn vervoerd. Goederen die één enkele zending vormen, kunnen via een ander grondgebied worden vervoerd, eventueel met overslag of tijdelijke opslag op dit grondgebied, voor zover zij in het land van doorvoer of opslag onder toezicht van de douane blijven en aldaar geen andere behandelingen ondergaan dan lossen en opnieuw laden of behandelingen om ze in goede staat te bewaren.
 
 Producten van oorsprong mogen per pijpleiding via een ander grondgebied dan dat van de Gemeenschap of van Montenegro worden vervoerd.
 
@@ -1716,7 +1716,7 @@ Producten van oorsprong mogen per pijpleiding via een ander grondgebied dan dat 
 
 ##### Artikel 14. Tentoonstellingen
 
-1. Deze overeenkomst is van toepassing op producten van oorsprong die naar een tentoonstelling in een ander of grondgebied dan de in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=II&artikel=3&z=2007-10-15&g=2007-10-15) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=II&artikel=4&z=2007-10-15&g=2007-10-15) genoemde landen zijn verzonden en die na de tentoonstelling zijn verkocht en in de Gemeenschap of in Montenegro worden ingevoerd, mits ten genoegen van de douaneautoriteiten wordt aangetoond dat:
+1. Deze overeenkomst is van toepassing op producten van oorsprong die naar een tentoonstelling in een ander of grondgebied dan de in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=II&artikel=3&z=2007-11-15&g=2007-11-15) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=II&artikel=4&z=2007-11-15&g=2007-11-15) genoemde landen zijn verzonden en die na de tentoonstelling zijn verkocht en in de Gemeenschap of in Montenegro worden ingevoerd, mits ten genoegen van de douaneautoriteiten wordt aangetoond dat:
 
 - a. een exporteur deze producten vanuit de Gemeenschap of Montenegro naar het land van de tentoonstelling heeft verzonden en daar heeft tentoongesteld;
 
@@ -1734,13 +1734,13 @@ Producten van oorsprong mogen per pijpleiding via een ander grondgebied dan dat 
 
 ##### Artikel 15. Verbod op de teruggave of vrijstelling van douanerechten
 
-1. Niet van oorsprong zijnde materialen die gebruikt zijn bij de vervaardiging van producten van oorsprong uit de Gemeenschap, Montenegro of een van de andere in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=II&artikel=3&z=2007-10-15&g=2007-10-15) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=II&artikel=4&z=2007-10-15&g=2007-10-15) genoemde landen of gebieden waarvoor overeenkomstig titel V een bewijs van oorsprong is afgegeven of opgesteld, komen in de Gemeenschap of in Montenegro niet in aanmerking voor teruggave of vrijstelling van douanerechten in welke vorm dan ook.
+1. Niet van oorsprong zijnde materialen die gebruikt zijn bij de vervaardiging van producten van oorsprong uit de Gemeenschap, Montenegro of een van de andere in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=II&artikel=3&z=2007-11-15&g=2007-11-15) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=II&artikel=4&z=2007-11-15&g=2007-11-15) genoemde landen of gebieden waarvoor overeenkomstig titel V een bewijs van oorsprong is afgegeven of opgesteld, komen in de Gemeenschap of in Montenegro niet in aanmerking voor teruggave of vrijstelling van douanerechten in welke vorm dan ook.
 
 2. Het verbod in lid 1 is van toepassing op elke regeling voor terugbetaling of algehele of gedeeltelijke vrijstelling van douanerechten of heffingen van gelijke werking die in de Gemeenschap of in Montenegro van toepassing is op materialen die bij de vervaardiging zijn gebruikt, indien een dergelijke terugbetaling of vrijstelling uitdrukkelijk of feitelijk wordt toegekend indien de producten die uit genoemde materialen zijn verkregen worden uitgevoerd, doch niet van toepassing is indien deze producten voor binnenlands gebruik zijn bestemd.
 
 3. De exporteur van producten die door een bewijs van oorsprong zijn gedekt, dient steeds bereid te zijn op verzoek van de douaneautoriteiten alle stukken over te leggen waaruit blijkt dat geen teruggave of vrijstelling van rechten is verkregen ten aanzien van de bij de vervaardiging van de betrokken producten gebruikte materialen die niet van oorsprong zijn en dat alle douanerechten en heffingen van gelijke werking die op deze materialen van toepassing zijn, daadwerkelijk zijn betaald.
 
-4. De leden 1, 2 en 3 zijn ook van toepassing op de verpakking in de zin van [artikel 8, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=II&artikel=8&z=2007-10-15&g=2007-10-15), op accessoires, vervangingsonderdelen en gereedschappen in de zin van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=II&artikel=9&z=2007-10-15&g=2007-10-15) en op artikelen die deel uitmaken van een stel of assortiment in de zin van artikel 10, wanneer dergelijke producten niet van oorsprong zijn.
+4. De leden 1, 2 en 3 zijn ook van toepassing op de verpakking in de zin van [artikel 8, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=II&artikel=8&z=2007-11-15&g=2007-11-15), op accessoires, vervangingsonderdelen en gereedschappen in de zin van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=II&artikel=9&z=2007-11-15&g=2007-11-15) en op artikelen die deel uitmaken van een stel of assortiment in de zin van artikel 10, wanneer dergelijke producten niet van oorsprong zijn.
 
 5. De leden 1 tot en met 4 zijn uitsluitend van toepassing op materialen van de soort waarop deze overeenkomst van toepassing is. Zij doen geen afbreuk aan het systeem van restituties bij de uitvoer van landbouwproducten overeenkomstig de bepalingen van de overeenkomst.
 
@@ -1752,9 +1752,9 @@ Producten van oorsprong mogen per pijpleiding via een ander grondgebied dan dat 
 
 - a. een certificaat inzake goederenverkeer EUR.1, waarvan het model in bijlage III is opgenomen; of
 
-- b. in de in [artikel 22, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=V&artikel=22&z=2007-10-15&g=2007-10-15), bedoelde gevallen, een verklaring van de exporteur (hierna „factuurverklaring” genoemd) op een factuur, pakbon of een ander handelsdocument, waarin de producten duidelijk genoeg zijn omschreven om geïdentificeerd te kunnen worden; de tekst van deze factuurverklaring is opgenomen in bijlage IV.
+- b. in de in [artikel 22, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=V&artikel=22&z=2007-11-15&g=2007-11-15), bedoelde gevallen, een verklaring van de exporteur (hierna „factuurverklaring” genoemd) op een factuur, pakbon of een ander handelsdocument, waarin de producten duidelijk genoeg zijn omschreven om geïdentificeerd te kunnen worden; de tekst van deze factuurverklaring is opgenomen in bijlage IV.
 
-2. In afwijking van lid 1 vallen producten van oorsprong in de zin van dit protocol in de in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=V&artikel=27&z=2007-10-15&g=2007-10-15) bedoelde gevallen onder de toepassing van deze overeenkomst zonder dat een van de hierboven genoemde documenten behoeft te worden overgelegd.
+2. In afwijking van lid 1 vallen producten van oorsprong in de zin van dit protocol in de in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=V&artikel=27&z=2007-11-15&g=2007-11-15) bedoelde gevallen onder de toepassing van deze overeenkomst zonder dat een van de hierboven genoemde documenten behoeft te worden overgelegd.
 
 ##### Artikel 17. Procedure voor de afgifte van een certificaat inzake goederenverkeer EUR.1
 
@@ -1764,7 +1764,7 @@ Producten van oorsprong mogen per pijpleiding via een ander grondgebied dan dat 
 
 3. De exporteur die om de afgifte van een certificaat inzake goederenverkeer EUR.1 verzoekt, dient op verzoek van de douane van het land van uitvoer waar dit certificaat wordt afgegeven, steeds de nodige documenten over te leggen waaruit blijkt dat de betrokken producten van oorsprong zijn en dat aan alle andere voorwaarden van dit protocol is voldaan.
 
-4. Een certificaat inzake goederenverkeer EUR.1 wordt afgegeven door de douaneautoriteiten van een lidstaat van de Gemeenschap of van Montenegro indien de producten kunnen worden beschouwd als producten van oorsprong uit de Gemeenschap, Montenegro of een van de andere in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=II&artikel=3&z=2007-10-15&g=2007-10-15) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=II&artikel=4&z=2007-10-15&g=2007-10-15) genoemde landen of gebieden, en aan de andere voorwaarden van dit protocol is voldaan.
+4. Een certificaat inzake goederenverkeer EUR.1 wordt afgegeven door de douaneautoriteiten van een lidstaat van de Gemeenschap of van Montenegro indien de producten kunnen worden beschouwd als producten van oorsprong uit de Gemeenschap, Montenegro of een van de andere in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=II&artikel=3&z=2007-11-15&g=2007-11-15) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=II&artikel=4&z=2007-11-15&g=2007-11-15) genoemde landen of gebieden, en aan de andere voorwaarden van dit protocol is voldaan.
 
 5. De met de afgifte van certificaten inzake goederenverkeer EUR.1 belaste douaneautoriteiten nemen alle nodige maatregelen om te controleren of de producten daadwerkelijk van oorsprong zijn, en gaan na of aan alle andere voorwaarden van dit protocol is voldaan. Met het oog hierop zijn zij gerechtigd bewijsstukken op te vragen, de administratie van de exporteur in te zien en alle andere controles te verrichten die zij dienstig achten. Zij zien er ook op toe dat de in lid 2 bedoelde formulieren correct zijn ingevuld. Met name wordt nagegaan of het voor de omschrijving van de goederen bestemde vak zodanig is ingevuld dat frauduleuze toevoegingen niet mogelijk zijn.
 
@@ -1774,7 +1774,7 @@ Producten van oorsprong mogen per pijpleiding via een ander grondgebied dan dat 
 
 ##### Artikel 18. Afgifte achteraf van een certificaat inzake goederenverkeer EUR.1
 
-1. In afwijking van [artikel 17, lid 7](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=V&artikel=17&z=2007-10-15&g=2007-10-15), kan een certificaat inzake goederenverkeer EUR.1 bij wijze van uitzondering na de uitvoer van de goederen waarop het betrekking heeft worden afgegeven, indien
+1. In afwijking van [artikel 17, lid 7](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=V&artikel=17&z=2007-11-15&g=2007-11-15), kan een certificaat inzake goederenverkeer EUR.1 bij wijze van uitzondering na de uitvoer van de goederen waarop het betrekking heeft worden afgegeven, indien
 
 - a. dit door een vergissing, onopzettelijk verzuim of bijzondere omstandigheden niet bij de uitvoer is gebeurd; of
 
@@ -1822,19 +1822,19 @@ Voor producten van oorsprong die in de Gemeenschap of in Montenegro onder toezic
 
 ##### Artikel 22. Het opstellen van een factuurverklaring
 
-1. De in [artikel 16, lid 1, onder b)](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=V&artikel=16&z=2007-10-15&g=2007-10-15), genoemde factuurverklaring kan worden opgesteld door:
+1. De in [artikel 16, lid 1, onder b)](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=V&artikel=16&z=2007-11-15&g=2007-11-15), genoemde factuurverklaring kan worden opgesteld door:
 
-- a. toegelaten exporteurs in de zin van [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=V&artikel=23&z=2007-10-15&g=2007-10-15); of
+- a. toegelaten exporteurs in de zin van [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=V&artikel=23&z=2007-11-15&g=2007-11-15); of
 
 - b. een willekeurige exporteur, voor zendingen bestaande uit een of meer colli met producten van oorsprong waarvan de totale waarde niet meer dan 6.000 euro bedraagt.
 
-2. Een factuurverklaring kan worden opgesteld indien de producten kunnen worden beschouwd als van oorsprong uit de Gemeenschap, uit Montenegro of uit een van de in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=II&artikel=3&z=2007-10-15&g=2007-10-15) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=II&artikel=4&z=2007-10-15&g=2007-10-15) genoemde landen of gebieden, en tevens aan de andere voorwaarden van dit protocol voldoen.
+2. Een factuurverklaring kan worden opgesteld indien de producten kunnen worden beschouwd als van oorsprong uit de Gemeenschap, uit Montenegro of uit een van de in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=II&artikel=3&z=2007-11-15&g=2007-11-15) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=II&artikel=4&z=2007-11-15&g=2007-11-15) genoemde landen of gebieden, en tevens aan de andere voorwaarden van dit protocol voldoen.
 
 3. De exporteur die de factuurverklaring opstelt, moet op verzoek van de douane van het land van uitvoer steeds de nodige documenten kunnen overleggen waaruit blijkt dat de betrokken producten van oorsprong zijn en dat aan de andere voorwaarden van dit protocol is voldaan.
 
 4. Deze factuurverklaring, waarvan de tekst in bijlage IV is opgenomen, wordt door de exporteur op de factuur, de pakbon of een ander handelsdocument getypt, gestempeld of gedrukt in een van de in die bijlage opgenomen talenversies, overeenkomstig de bepalingen van het nationale recht van het land van uitvoer. De factuurverklaring kan ook met de hand, met inkt en in blokletters, worden opgesteld.
 
-5. De factuurverklaring wordt door de exporteur eigenhandig ondertekend. Een toegelaten exporteur in de zin van [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=V&artikel=23&z=2007-10-15&g=2007-10-15) behoeft deze verklaring echter niet te ondertekenen, mits hij de douane een schriftelijke verklaring doet toekomen waarin hij de volle verantwoordelijkheid op zich neemt voor alle factuurverklaringen waaruit zijn identiteit blijkt, alsof hij deze eigenhandig had ondertekend.
+5. De factuurverklaring wordt door de exporteur eigenhandig ondertekend. Een toegelaten exporteur in de zin van [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=V&artikel=23&z=2007-11-15&g=2007-11-15) behoeft deze verklaring echter niet te ondertekenen, mits hij de douane een schriftelijke verklaring doet toekomen waarin hij de volle verantwoordelijkheid op zich neemt voor alle factuurverklaringen waaruit zijn identiteit blijkt, alsof hij deze eigenhandig had ondertekend.
 
 6. Een factuurverklaring kan door de exporteur worden opgesteld bij de uitvoer van de producten waarop zij betrekking heeft of later, maar moet uiterlijk twee jaar na de invoer van de producten waarop zij betrekking heeft in het land van invoer worden aangeboden.
 
@@ -1876,7 +1876,7 @@ Wanneer, op verzoek van de importeur en op de door de douaneautoriteiten van het
 
 ##### Artikel 28. Bewijsstukken
 
-De in [artikel 17, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=V&artikel=17&z=2007-10-15&g=2007-10-15), en [artikel 22, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=V&artikel=22&z=2007-10-15&g=2007-10-15), bedoelde documenten aan de hand waarvan wordt aangetoond dat producten die door een certificaat inzake goederenverkeer EUR.1 of een factuurverklaring worden gedekt, producten van oorsprong zijn uit de Gemeenschap, Montenegro of een van de andere in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=II&artikel=3&z=2007-10-15&g=2007-10-15) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=II&artikel=4&z=2007-10-15&g=2007-10-15) genoemde landen of gebieden en aan de andere voorwaarden van dit protocol voldoen, kunnen onder meer de volgende zijn:
+De in [artikel 17, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=V&artikel=17&z=2007-11-15&g=2007-11-15), en [artikel 22, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=V&artikel=22&z=2007-11-15&g=2007-11-15), bedoelde documenten aan de hand waarvan wordt aangetoond dat producten die door een certificaat inzake goederenverkeer EUR.1 of een factuurverklaring worden gedekt, producten van oorsprong zijn uit de Gemeenschap, Montenegro of een van de andere in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=II&artikel=3&z=2007-11-15&g=2007-11-15) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=II&artikel=4&z=2007-11-15&g=2007-11-15) genoemde landen of gebieden en aan de andere voorwaarden van dit protocol voldoen, kunnen onder meer de volgende zijn:
 
 - a. een rechtstreeks bewijs, bijvoorbeeld aan de hand van de boekhouding of de interne administratie van de exporteur of leverancier, van de door deze uitgevoerde be- of verwerkingen om de producten te verkrijgen;
 
@@ -1884,17 +1884,17 @@ De in [artikel 17, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeld
 
 - c. in de Gemeenschap of in Montenegro afgegeven of opgestelde en volgens het nationale recht gebruikte documenten waaruit be- of verwerking in de Gemeenschap of in Montenegro blijkt;
 
-- d. certificaten inzake goederenverkeer EUR.1 of factuurverklaringen waaruit de oorsprong van de gebruikte materialen blijkt, die overeenkomstig dit protocol in de Gemeenschap of in Montenegro zijn afgegeven of opgesteld, of die in een van de in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=II&artikel=3&z=2007-10-15&g=2007-10-15) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=II&artikel=4&z=2007-10-15&g=2007-10-15) genoemde landen of gebieden zijn opgesteld overeenkomstig oorsprongsregels die gelijk zijn aan de oorsprongsregels van dit protocol;
+- d. certificaten inzake goederenverkeer EUR.1 of factuurverklaringen waaruit de oorsprong van de gebruikte materialen blijkt, die overeenkomstig dit protocol in de Gemeenschap of in Montenegro zijn afgegeven of opgesteld, of die in een van de in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=II&artikel=3&z=2007-11-15&g=2007-11-15) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=II&artikel=4&z=2007-11-15&g=2007-11-15) genoemde landen of gebieden zijn opgesteld overeenkomstig oorsprongsregels die gelijk zijn aan de oorsprongsregels van dit protocol;
 
-- e. passende bewijsstukken inzake be- of verwerking buiten de Gemeenschap of Montenegro overeenkomstig [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=III&artikel=12&z=2007-10-15&g=2007-10-15), waaruit blijkt dat aan de eisen van dat artikel is voldaan.
+- e. passende bewijsstukken inzake be- of verwerking buiten de Gemeenschap of Montenegro overeenkomstig [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=III&artikel=12&z=2007-11-15&g=2007-11-15), waaruit blijkt dat aan de eisen van dat artikel is voldaan.
 
 ##### Artikel 29. Bewaring van de bewijzen van oorsprong en de andere bewijsstukken
 
-1. Exporteurs die om de afgifte van een certificaat inzake goederenverkeer EUR.1 verzoeken, dienen de in [artikel 17, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=V&artikel=17&z=2007-10-15&g=2007-10-15), bedoelde documenten ten minste drie jaar te bewaren.
+1. Exporteurs die om de afgifte van een certificaat inzake goederenverkeer EUR.1 verzoeken, dienen de in [artikel 17, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=V&artikel=17&z=2007-11-15&g=2007-11-15), bedoelde documenten ten minste drie jaar te bewaren.
 
-2. De exporteur die een factuurverklaring heeft opgesteld, bewaart een kopie van deze factuurverklaring en van de in [artikel 22, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=V&artikel=22&z=2007-10-15&g=2007-10-15), bedoelde documenten gedurende ten minste drie jaar.
+2. De exporteur die een factuurverklaring heeft opgesteld, bewaart een kopie van deze factuurverklaring en van de in [artikel 22, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=V&artikel=22&z=2007-11-15&g=2007-11-15), bedoelde documenten gedurende ten minste drie jaar.
 
-3. De douane van het land van uitvoer die een certificaat inzake goederenverkeer EUR.1 afgeeft, bewaart het in [artikel 17, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=V&artikel=17&z=2007-10-15&g=2007-10-15), bedoelde aanvraagformulier ten minste drie jaar.
+3. De douane van het land van uitvoer die een certificaat inzake goederenverkeer EUR.1 afgeeft, bewaart het in [artikel 17, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=V&artikel=17&z=2007-11-15&g=2007-11-15), bedoelde aanvraagformulier ten minste drie jaar.
 
 4. De douane van het land van invoer bewaart de certificaten inzake goederenverkeer EUR.1 en factuurverklaringen die bij haar werden ingediend gedurende ten minste drie jaar.
 
@@ -1906,9 +1906,9 @@ De in [artikel 17, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeld
 
 ##### Artikel 31. Bedragen in euro
 
-1. Voor de toepassing van [artikel 22, lid 1, onder b)](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=V&artikel=22&z=2007-10-15&g=2007-10-15), en [artikel 27, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=V&artikel=27&z=2007-10-15&g=2007-10-15), wordt, wanneer de producten gefactureerd zijn in een andere valuta dan de euro, de tegenwaarde van de in euro uitgedrukte bedragen in de nationale valuta van de lidstaten van de Gemeenschap, van Montenegro of van een van de andere landen of gebieden bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=II&artikel=3&z=2007-10-15&g=2007-10-15) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=II&artikel=4&z=2007-10-15&g=2007-10-15), jaarlijks door elk van de betrokken landen vastgesteld.
+1. Voor de toepassing van [artikel 22, lid 1, onder b)](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=V&artikel=22&z=2007-11-15&g=2007-11-15), en [artikel 27, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=V&artikel=27&z=2007-11-15&g=2007-11-15), wordt, wanneer de producten gefactureerd zijn in een andere valuta dan de euro, de tegenwaarde van de in euro uitgedrukte bedragen in de nationale valuta van de lidstaten van de Gemeenschap, van Montenegro of van een van de andere landen of gebieden bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=II&artikel=3&z=2007-11-15&g=2007-11-15) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=II&artikel=4&z=2007-11-15&g=2007-11-15), jaarlijks door elk van de betrokken landen vastgesteld.
 
-2. [Artikel 22, lid 1, onder b)](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=V&artikel=22&z=2007-10-15&g=2007-10-15), en [artikel 27, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=V&artikel=27&z=2007-10-15&g=2007-10-15), zijn van toepassing op zendingen op basis van de valuta waarin de factuur is opgesteld, overeenkomstig het bedrag dat door het betrokken land is vastgesteld.
+2. [Artikel 22, lid 1, onder b)](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=V&artikel=22&z=2007-11-15&g=2007-11-15), en [artikel 27, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=V&artikel=27&z=2007-11-15&g=2007-11-15), zijn van toepassing op zendingen op basis van de valuta waarin de factuur is opgesteld, overeenkomstig het bedrag dat door het betrokken land is vastgesteld.
 
 3. De in een bepaalde nationale valuta te gebruiken bedragen zijn de tegenwaarde in die valuta van de in euro uitgedrukte bedragen op de eerste werkdag van oktober. De tegenwaarde wordt de Europese Commissie voor 15 oktober medegedeeld en is van toepassing vanaf 1 januari van het daaropvolgende jaar. De Europese Commissie stelt alle betrokken landen in kennis van de desbetreffende tegenwaarden.
 
@@ -1934,13 +1934,13 @@ De in [artikel 17, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeld
 
 4. Indien de douane van het land van invoer besluit de preferentiële behandeling niet toe te kennen zolang de uitslag van de controle niet bekend is, doet zij de importeur het voorstel de producten vrij te geven onder voorbehoud van de noodzakelijk geachte conservatoire maatregelen.
 
-5. De resultaten van de controle worden zo spoedig mogelijk medegedeeld aan de douanedienst die de controle heeft aangevraagd. In deze mededeling moet duidelijk worden aangegeven of de documenten al dan niet echt zijn, of de betrokken producten als producten van oorsprong uit de Gemeenschap, Montenegro of een van de andere in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=II&artikel=3&z=2007-10-15&g=2007-10-15) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=II&artikel=4&z=2007-10-15&g=2007-10-15) genoemde landen of gebieden beschouwd kunnen worden en of aan de andere voorwaarden van dit protocol is voldaan.
+5. De resultaten van de controle worden zo spoedig mogelijk medegedeeld aan de douanedienst die de controle heeft aangevraagd. In deze mededeling moet duidelijk worden aangegeven of de documenten al dan niet echt zijn, of de betrokken producten als producten van oorsprong uit de Gemeenschap, Montenegro of een van de andere in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=II&artikel=3&z=2007-11-15&g=2007-11-15) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=II&artikel=4&z=2007-11-15&g=2007-11-15) genoemde landen of gebieden beschouwd kunnen worden en of aan de andere voorwaarden van dit protocol is voldaan.
 
 6. Indien bij gegronde twijfel binnen tien maanden na het verzoek om controle geen antwoord is ontvangen of indien het antwoord niet voldoende gegevens bevat om de echtheid van het betrokken document of de werkelijke oorsprong van de producten vast te stellen, kent de aanvragende douanedienst de preferentiële behandeling niet toe, behoudens buitengewone omstandigheden.
 
 ##### Artikel 34. Beslechting van geschillen
 
-Geschillen ten aanzien van de in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=VI&artikel=33&z=2007-10-15&g=2007-10-15) bedoelde controles die niet onderling geregeld kunnen worden tussen de douaneautoriteiten die de controle hebben aangevraagd en de douaneautoriteiten die deze hebben moeten uitvoeren, en problemen in verband met de interpretatie van dit protocol worden aan het Stabilisatie- en associatiecomité voorgelegd.
+Geschillen ten aanzien van de in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=VI&artikel=33&z=2007-11-15&g=2007-11-15) bedoelde controles die niet onderling geregeld kunnen worden tussen de douaneautoriteiten die de controle hebben aangevraagd en de douaneautoriteiten die deze hebben moeten uitvoeren, en problemen in verband met de interpretatie van dit protocol worden aan het Stabilisatie- en associatiecomité voorgelegd.
 
 In alle gevallen is de wetgeving van het land van invoer van toepassing op de beslechting van geschillen tussen een importeur en de douane van het land van invoer.
 
@@ -1958,15 +1958,15 @@ Sancties worden getroffen tegen ieder die een document met onjuiste gegevens ops
 
 ##### Artikel 37. Toepassing van dit protocol
 
-1. De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=II&artikel=2&z=2007-10-15&g=2007-10-15) gebruikte term „Gemeenschap” heeft geen betrekking op Ceuta of Melilla.
+1. De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=II&artikel=2&z=2007-11-15&g=2007-11-15) gebruikte term „Gemeenschap” heeft geen betrekking op Ceuta of Melilla.
 
 2. Producten van oorsprong uit Montenegro die in Ceuta of Melilla worden ingevoerd, vallen in elk opzicht onder dezelfde douaneregeling als de regeling die op grond van [Protocol 2 bij de Akte van Toetreding van het Koninkrijk Spanje en de Republiek Portugal tot de Europese Gemeenschappen](onbekend) van toepassing is op producten van oorsprong uit het douanegebied van de Gemeenschap. Montenegro past op onder deze overeenkomst vallende producten van oorsprong uit Ceuta en Melilla dezelfde regeling toe als op producten van oorsprong uit de Gemeenschap die uit de Gemeenschap worden ingevoerd.
 
-3. Bij toepassing van lid 2 op producten van oorsprong uit Ceuta en Melilla is dit protocol van overeenkomstige toepassing, met inachtneming van de bijzondere voorwaarden van [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=VII&artikel=38&z=2007-10-15&g=2007-10-15).
+3. Bij toepassing van lid 2 op producten van oorsprong uit Ceuta en Melilla is dit protocol van overeenkomstige toepassing, met inachtneming van de bijzondere voorwaarden van [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=VII&artikel=38&z=2007-11-15&g=2007-11-15).
 
 ##### Artikel 38. Bijzondere voorwaarden
 
-1. Mits zij rechtstreeks zijn vervoerd overeenkomstig het bepaalde in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=III&artikel=13&z=2007-10-15&g=2007-10-15), worden beschouwd als:
+1. Mits zij rechtstreeks zijn vervoerd overeenkomstig het bepaalde in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=III&artikel=13&z=2007-11-15&g=2007-11-15), worden beschouwd als:
 
 - 1. producten van oorsprong uit Ceuta en Melilla:
 
@@ -1974,9 +1974,9 @@ Sancties worden getroffen tegen ieder die een document met onjuiste gegevens ops
 
 - b. in Ceuta en Melilla verkregen producten bij de vervaardiging waarvan andere dan de onder (a) bedoelde producten zijn gebruikt, mits:
 
-- i. die producten be- of verwerkingen hebben ondergaan die toereikend zijn in de zin van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=II&artikel=6&z=2007-10-15&g=2007-10-15); of voor zover
+- i. die producten be- of verwerkingen hebben ondergaan die toereikend zijn in de zin van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=II&artikel=6&z=2007-11-15&g=2007-11-15); of voor zover
 
-- ii. die producten van oorsprong zijn uit Montenegro of uit de Gemeenschap, en be- of verwerkingen hebben ondergaan die meer omvatten dan de in [artikel 7, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=II&artikel=7&z=2007-10-15&g=2007-10-15), bedoelde be- of verwerkingen;
+- ii. die producten van oorsprong zijn uit Montenegro of uit de Gemeenschap, en be- of verwerkingen hebben ondergaan die meer omvatten dan de in [artikel 7, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=II&artikel=7&z=2007-11-15&g=2007-11-15), bedoelde be- of verwerkingen;
 
 - 2. producten van oorsprong uit Montenegro:
 
@@ -1984,9 +1984,9 @@ Sancties worden getroffen tegen ieder die een document met onjuiste gegevens ops
 
 - b. in Montenegro verkregen producten, bij de vervaardiging waarvan andere dan de onder (a) bedoelde producten zijn gebruikt, voor zover:
 
-- i. die producten be- of verwerkingen hebben ondergaan die toereikend zijn in de zin van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=II&artikel=6&z=2007-10-15&g=2007-10-15); of voor
+- i. die producten be- of verwerkingen hebben ondergaan die toereikend zijn in de zin van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=II&artikel=6&z=2007-11-15&g=2007-11-15); of voor
 
-- ii. die producten van oorsprong zijn uit Ceuta en Melilla of uit de Gemeenschap, en be- of verwerkingen hebben ondergaan die meer omvatten dan de in [artikel 7, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=II&artikel=7&z=2007-10-15&g=2007-10-15), bedoelde be- of verwerkingen.
+- ii. die producten van oorsprong zijn uit Ceuta en Melilla of uit de Gemeenschap, en be- of verwerkingen hebben ondergaan die meer omvatten dan de in [artikel 7, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=II&artikel=7&z=2007-11-15&g=2007-11-15), bedoelde be- of verwerkingen.
 
 2. Ceuta en Melilla worden als één grondgebied beschouwd.
 
@@ -2038,7 +2038,7 @@ Voor de toepassing van dit protocol wordt verstaan onder:
 
 ##### Artikel 4. Algemene bepaling
 
-De overeenkomstsluitende partijen komen overeen maatregelen voor de ontwikkeling van de vervoersinfrastructuur te nemen en op elkaar af te stemmen, als een wezenlijk middel om de problemen op te lossen die zich voordoen in het goederenvervoer door Montenegro, met name op de wegen 1, 2b, 4 en 6 die respectievelijk de verbinding vormen tussen de grens met Kroatië en Bar, tussen de grens met Bosnië en Herzegovina en de grens met Albanië, tussen de grens met Servië en Misici en tussen Ribaravina en Bac op de grens met Servië; de spoorwegen 2 en 4 die Podgorica verbinden met de grens met Albanië en de grens met Servië met Bar; de haven van Bar en het vliegveld van Podgorica, die deel uitmaken van het fundamentele netwerk voor transportinfrastructuur als gedefinieerd in het memorandum van overeenstemming waarnaar wordt verwezen in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&artikel=5&z=2007-10-15&g=2007-10-15).
+De overeenkomstsluitende partijen komen overeen maatregelen voor de ontwikkeling van de vervoersinfrastructuur te nemen en op elkaar af te stemmen, als een wezenlijk middel om de problemen op te lossen die zich voordoen in het goederenvervoer door Montenegro, met name op de wegen 1, 2b, 4 en 6 die respectievelijk de verbinding vormen tussen de grens met Kroatië en Bar, tussen de grens met Bosnië en Herzegovina en de grens met Albanië, tussen de grens met Servië en Misici en tussen Ribaravina en Bac op de grens met Servië; de spoorwegen 2 en 4 die Podgorica verbinden met de grens met Albanië en de grens met Servië met Bar; de haven van Bar en het vliegveld van Podgorica, die deel uitmaken van het fundamentele netwerk voor transportinfrastructuur als gedefinieerd in het memorandum van overeenstemming waarnaar wordt verwezen in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&artikel=5&z=2007-11-15&g=2007-11-15).
 
 ##### Artikel 5. Planning
 
@@ -2046,7 +2046,7 @@ De ontwikkeling van een multimodaal regionaal vervoersnetwerk op het grondgebied
 
 ##### Artikel 6. Financiële aspecten
 
-1. De Gemeenschap kan, in het kader van [artikel 116 van de overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=IX&artikel=116&z=2007-10-15&g=2007-10-15), financieel bijdragen aan de uitvoering van de noodzakelijke in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&artikel=5&z=2007-10-15&g=2007-10-15) bedoelde infrastructuurwerken. Zij kan deze bijdrage verstrekken in de vorm van kredieten van de Europese Investeringsbank, en op elke andere wijze waarop zij nog meer middelen kan vrijmaken.
+1. De Gemeenschap kan, in het kader van [artikel 116 van de overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=IX&artikel=116&z=2007-11-15&g=2007-11-15), financieel bijdragen aan de uitvoering van de noodzakelijke in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&artikel=5&z=2007-11-15&g=2007-11-15) bedoelde infrastructuurwerken. Zij kan deze bijdrage verstrekken in de vorm van kredieten van de Europese Investeringsbank, en op elke andere wijze waarop zij nog meer middelen kan vrijmaken.
 
 2. Om de werkzaamheden te bespoedigen, zal de Europese Commissie zoveel mogelijk trachten het gebruik van andere aanvullende middelen te bevorderen, zoals investeringen van lidstaten van de Gemeenschap op bilaterale basis of met gebruikmaking van openbare of particuliere middelen.
 
@@ -2100,11 +2100,11 @@ In het licht van de verdeling van de bevoegdheden tussen de staat en de spoorweg
 
 1. Wat de toegang tot elkaars vervoersmarkt betreft, komen de partijen overeen in het beginstadium en onverminderd lid 2 de regeling te handhaven die voortvloeit uit bilaterale overeenkomsten of andere internationale bilaterale verdragen die tussen de lidstaten van de Gemeenschap en Montenegro zijn gesloten of, bij het ontbreken van dergelijke overeenkomsten of verdragen, uit de feitelijke situatie in 1991.
 
-In afwachting van de sluiting van een overeenkomst tussen de Gemeenschap en Montenegro over de toegang tot de markt van het wegvervoer, zoals in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&artikel=12&z=2007-10-15&g=2007-10-15) bepaald, en over wegenbelasting, zoals in [artikel 13, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&artikel=13&z=2007-10-15&g=2007-10-15), bepaald, werkt Montenegro samen met de lidstaten van de Gemeenschap om deze bilaterale overeenkomsten aan te passen aan dit protocol.
+In afwachting van de sluiting van een overeenkomst tussen de Gemeenschap en Montenegro over de toegang tot de markt van het wegvervoer, zoals in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&artikel=12&z=2007-11-15&g=2007-11-15) bepaald, en over wegenbelasting, zoals in [artikel 13, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&artikel=13&z=2007-11-15&g=2007-11-15), bepaald, werkt Montenegro samen met de lidstaten van de Gemeenschap om deze bilaterale overeenkomsten aan te passen aan dit protocol.
 
 2. De partijen komen overeen met ingang van de datum waarop deze overeenkomst in werking treedt, het communautaire transitoverkeer onbeperkt toegang te verlenen tot Montenegro en het Montenegrijnse transitoverkeer onbeperkt toegang te verlenen tot de Gemeenschap.
 
-3. Indien als gevolg van de krachtens lid 2 verleende rechten het communautaire transitoverkeer over de weg in zodanige mate toeneemt dat aan de wegeninfrastructuur en/of de doorstroming van het verkeer op de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&artikel=5&z=2007-10-15&g=2007-10-15) bedoelde verbindingen daardoor ernstige schade wordt toegebracht of dreigt te worden toegebracht, en zich onder deze zelfde omstandigheden problemen voordoen op het grondgebied van de Gemeenschap in de nabijheid van de grenzen met Montenegro, wordt de kwestie voorgelegd aan de Stabilisatie- en associatieraad overeenkomstig [artikel 121 van de overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=X&artikel=121&z=2007-10-15&g=2007-10-15). De partijen kunnen voorstellen doen voor uitzonderlijke tijdelijke, niet-discriminerende maatregelen die noodzakelijk zijn om deze schade te verminderen of te beperken.
+3. Indien als gevolg van de krachtens lid 2 verleende rechten het communautaire transitoverkeer over de weg in zodanige mate toeneemt dat aan de wegeninfrastructuur en/of de doorstroming van het verkeer op de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&artikel=5&z=2007-11-15&g=2007-11-15) bedoelde verbindingen daardoor ernstige schade wordt toegebracht of dreigt te worden toegebracht, en zich onder deze zelfde omstandigheden problemen voordoen op het grondgebied van de Gemeenschap in de nabijheid van de grenzen met Montenegro, wordt de kwestie voorgelegd aan de Stabilisatie- en associatieraad overeenkomstig [artikel 121 van de overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=X&artikel=121&z=2007-11-15&g=2007-11-15). De partijen kunnen voorstellen doen voor uitzonderlijke tijdelijke, niet-discriminerende maatregelen die noodzakelijk zijn om deze schade te verminderen of te beperken.
 
 4. Indien de Gemeenschap voorschriften vaststelt om de verontreiniging door in de Europese Unie geregistreerde vrachtwagens te verminderen, zijn gelijkwaardige voorschriften van toepassing op in Montenegro geregistreerde vrachtwagens die op het grondgebied van de Gemeenschap aan het verkeer wensen deel te nemen. De Stabilisatie- en associatieraad beslist over de noodzakelijke modaliteiten.
 
@@ -2126,13 +2126,13 @@ De partijen verbinden zich bij voorrang ertoe samen te werken om, behoudens hun 
 
 3. In afwachting van de resultaten van de in lid 2 bedoelde onderhandelingen nemen de partijen de discriminatie weg tussen vrachtvervoerders uit de Gemeenschap en uit Montenegro bij de toepassing van belastingen en heffingen op het verkeer en/of het bezit van vrachtwagens en van alle speciale belastingen en heffingen op het vervoer over het grondgebied van de partijen. Montenegro verbindt zich ertoe de Europese Commissie op verzoek het bedrag aan belastingen, tol en andere heffingen die het toepast mede te delen, alsmede de methode die voor de berekening daarvan wordt toegepast.
 
-4. Tot de in lid 2 en [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&artikel=12&z=2007-10-15&g=2007-10-15) bedoelde overeenkomsten zijn gesloten, kunnen na de inwerkingtreding van deze overeenkomst voorgestelde wijzigingen van fiscale heffingen, tolheffing en andere heffingen op het communautaire transitoverkeer door Montenegro, alsmede van de systemen voor de inning ervan, niet eerder worden ingevoerd dan na overleg.
+4. Tot de in lid 2 en [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&artikel=12&z=2007-11-15&g=2007-11-15) bedoelde overeenkomsten zijn gesloten, kunnen na de inwerkingtreding van deze overeenkomst voorgestelde wijzigingen van fiscale heffingen, tolheffing en andere heffingen op het communautaire transitoverkeer door Montenegro, alsmede van de systemen voor de inning ervan, niet eerder worden ingevoerd dan na overleg.
 
 ##### Artikel 14. Afmetingen en gewichten
 
-1. Montenegro aanvaardt dat wegvoertuigen die beantwoorden aan de communautaire normen voor afmetingen en gewichten vrij en zonder beperking ter zake aan het verkeer op de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&artikel=5&z=2007-10-15&g=2007-10-15) bedoelde wegen mogen deelnemen. Tot zes maanden na de inwerkingtreding van deze overeenkomst wordt op wegvoertuigen die niet aan de bestaande normen van Montenegro voldoen een speciale niet-discriminerende heffing toegepast, die evenredig is met de schade die door de hogere asdruk wordt veroorzaakt.
+1. Montenegro aanvaardt dat wegvoertuigen die beantwoorden aan de communautaire normen voor afmetingen en gewichten vrij en zonder beperking ter zake aan het verkeer op de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&artikel=5&z=2007-11-15&g=2007-11-15) bedoelde wegen mogen deelnemen. Tot zes maanden na de inwerkingtreding van deze overeenkomst wordt op wegvoertuigen die niet aan de bestaande normen van Montenegro voldoen een speciale niet-discriminerende heffing toegepast, die evenredig is met de schade die door de hogere asdruk wordt veroorzaakt.
 
-2. Montenegro streeft ernaar zijn huidige regelgeving en normen voor wegenaanleg uiterlijk vijf jaar na de inwerkingtreding van deze overeenkomst te harmoniseren met de wetgeving die in de Gemeenschap geldt, en neemt vergaande maatregelen ter verbetering van de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&artikel=5&z=2007-10-15&g=2007-10-15) bedoelde wegen, zodat deze binnen de voorgestelde termijn voldoen aan deze nieuwe regelgeving en normen, een en ander in overeenstemming met zijn financiële mogelijkheden.
+2. Montenegro streeft ernaar zijn huidige regelgeving en normen voor wegenaanleg uiterlijk vijf jaar na de inwerkingtreding van deze overeenkomst te harmoniseren met de wetgeving die in de Gemeenschap geldt, en neemt vergaande maatregelen ter verbetering van de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&artikel=5&z=2007-11-15&g=2007-11-15) bedoelde wegen, zodat deze binnen de voorgestelde termijn voldoen aan deze nieuwe regelgeving en normen, een en ander in overeenstemming met zijn financiële mogelijkheden.
 
 ##### Artikel 15. Milieu
 
@@ -2188,7 +2188,7 @@ Indien één van de partijen bij de toepassing van dit protocol tot de conclusie
 
 ##### Artikel 21. Uitvoering
 
-1. De samenwerking tussen de partijen vindt plaats in het kader van een speciaal subcomité, dat overeenkomstig [artikel 123](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=X&artikel=123&z=2007-10-15&g=2007-10-15) van deze overeenkomst zal worden opgericht.
+1. De samenwerking tussen de partijen vindt plaats in het kader van een speciaal subcomité, dat overeenkomstig [artikel 123](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=X&artikel=123&z=2007-11-15&g=2007-11-15) van deze overeenkomst zal worden opgericht.
 
 2. De taken van dit subcomité zijn in het bijzonder:
 
@@ -2360,7 +2360,7 @@ De overeenkomstsluitende partijen brengen elkaar geen kosten in rekening voor ui
 
 2. Onverminderd het bepaalde in lid 1 hebben de bepalingen van dit protocol voorrang op de bepalingen van bilaterale overeenkomsten betreffende wederzijdse bijstand die tussen afzonderlijke lidstaten en Montenegro zijn of kunnen worden gesloten, indien de bepalingen van laatstgenoemde overeenkomsten met die van dit protocol strijdig zijn.
 
-3. Ten aanzien van vraagstukken in verband met de toepassing van dit protocol plegen de overeenkomstsluitende partijen onderling overleg om deze op te lossen in het kader van het bij [artikel 119 van deze overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=X&artikel=119&z=2007-10-15&g=2007-10-15) ingestelde Stabilisatie- en associatiecomité.
+3. Ten aanzien van vraagstukken in verband met de toepassing van dit protocol plegen de overeenkomstsluitende partijen onderling overleg om deze op te lossen in het kader van het bij [artikel 119 van deze overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=X&artikel=119&z=2007-11-15&g=2007-11-15) ingestelde Stabilisatie- en associatiecomité.
 
 ## BESLECHTING VAN GESCHILLEN
 
@@ -2374,21 +2374,21 @@ Het doel van dit protocol is geschillen tussen de partijen te vermijden en te be
 
 De bepalingen van dit protocol hebben alleen betrekking op mogelijke verschillen in de interpretatie en toepassing van de hierna volgende bepalingen, met inbegrip van die gevallen waar de ene partij van oordeel is dat een maatregel van de andere partij, of het niet-treffen van een maatregel door de andere partij, een inbreuk is op de verplichtingen die voor de andere partij uit deze bepalingen voortvloeien:
 
-- a. [Titel IV](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=IV&z=2007-10-15&g=2007-10-15) Vrij verkeer van goederen, met uitzondering van [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=IV&hoofdstuk=II&artikel=33&z=2007-10-15&g=2007-10-15), [40](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=IV&hoofdstuk=III&artikel=40&z=2007-10-15&g=2007-10-15), [41, leden 1, 4 en 5](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=IV&hoofdstuk=III&artikel=41&z=2007-10-15&g=2007-10-15) (voor zover deze maatregelen betreffen die zijn goedgekeurd krachtens artikel 41, lid 1), en [artikel 47](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=IV&hoofdstuk=III&artikel=47&z=2007-10-15&g=2007-10-15);
+- a. [Titel IV](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=IV&z=2007-11-15&g=2007-11-15) Vrij verkeer van goederen, met uitzondering van [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=IV&hoofdstuk=II&artikel=33&z=2007-11-15&g=2007-11-15), [40](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=IV&hoofdstuk=III&artikel=40&z=2007-11-15&g=2007-11-15), [41, leden 1, 4 en 5](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=IV&hoofdstuk=III&artikel=41&z=2007-11-15&g=2007-11-15) (voor zover deze maatregelen betreffen die zijn goedgekeurd krachtens artikel 41, lid 1), en [artikel 47](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=IV&hoofdstuk=III&artikel=47&z=2007-11-15&g=2007-11-15);
 
-- b. [Titel V](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=V&z=2007-10-15&g=2007-10-15) Vrij verkeer van werknemers, vestiging, dienstverlening, kapitaal:
+- b. [Titel V](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=V&z=2007-11-15&g=2007-11-15) Vrij verkeer van werknemers, vestiging, dienstverlening, kapitaal:
 
-- –. [Hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=V&hoofdstuk=II&z=2007-10-15&g=2007-10-15) Vestiging (artikelen 52 tot en met 56, en [58](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=V&hoofdstuk=II&artikel=58&z=2007-10-15&g=2007-10-15))
+- –. [Hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=V&hoofdstuk=II&z=2007-11-15&g=2007-11-15) Vestiging (artikelen 52 tot en met 56, en [58](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=V&hoofdstuk=II&artikel=58&z=2007-11-15&g=2007-11-15))
 
-- –. [Hoofdstuk III](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=V&hoofdstuk=III&z=2007-10-15&g=2007-10-15) Dienstverlening ([artikelen 59](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=V&hoofdstuk=III&artikel=59&z=2007-10-15&g=2007-10-15) en [60](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=V&hoofdstuk=III&artikel=60&z=2007-10-15&g=2007-10-15) en [artikel 61, leden 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=V&hoofdstuk=III&artikel=61&z=2007-10-15&g=2007-10-15))
+- –. [Hoofdstuk III](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=V&hoofdstuk=III&z=2007-11-15&g=2007-11-15) Dienstverlening ([artikelen 59](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=V&hoofdstuk=III&artikel=59&z=2007-11-15&g=2007-11-15) en [60](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=V&hoofdstuk=III&artikel=60&z=2007-11-15&g=2007-11-15) en [artikel 61, leden 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=V&hoofdstuk=III&artikel=61&z=2007-11-15&g=2007-11-15))
 
-- –. [Hoofdstuk IV](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=V&hoofdstuk=IV&z=2007-10-15&g=2007-10-15) Betalings- en kapitaalverkeer ([artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=V&hoofdstuk=IV&artikel=62&z=2007-10-15&g=2007-10-15) en [artikel 63](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=V&hoofdstuk=IV&artikel=63&z=2007-10-15&g=2007-10-15), behalve lid 4, eerste alinea, tweede zin)
+- –. [Hoofdstuk IV](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=V&hoofdstuk=IV&z=2007-11-15&g=2007-11-15) Betalings- en kapitaalverkeer ([artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=V&hoofdstuk=IV&artikel=62&z=2007-11-15&g=2007-11-15) en [artikel 63](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=V&hoofdstuk=IV&artikel=63&z=2007-11-15&g=2007-11-15), behalve lid 4, eerste alinea, tweede zin)
 
-- –. [Hoofdstuk V](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=V&hoofdstuk=V&z=2007-10-15&g=2007-10-15) Algemene bepalingen (artikelen 65 tot en met 71);
+- –. [Hoofdstuk V](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=V&hoofdstuk=V&z=2007-11-15&g=2007-11-15) Algemene bepalingen (artikelen 65 tot en met 71);
 
-- c. [Titel VI](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=VI&z=2007-10-15&g=2007-10-15) Harmonisatie van wetgeving, rechtshandhaving en mededingingsregels:
+- c. [Titel VI](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=VI&z=2007-11-15&g=2007-11-15) Harmonisatie van wetgeving, rechtshandhaving en mededingingsregels:
 
-- –. [Artikel 75, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=VI&artikel=75&z=2007-10-15&g=2007-10-15) (Intellectuele, industriële en commerciële eigendom) en [artikel 76, lid 1, lid 2 (eerste alinea) en de leden 3 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=VI&artikel=76&z=2007-10-15&g=2007-10-15) (Overheidsopdrachten).
+- –. [Artikel 75, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=VI&artikel=75&z=2007-11-15&g=2007-11-15) (Intellectuele, industriële en commerciële eigendom) en [artikel 76, lid 1, lid 2 (eerste alinea) en de leden 3 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=VI&artikel=76&z=2007-11-15&g=2007-11-15) (Overheidsopdrachten).
 
 ### HOOFDSTUK II. PROCEDURES VOOR GESCHILLENBESLECHTING
 
@@ -2396,9 +2396,9 @@ De bepalingen van dit protocol hebben alleen betrekking op mogelijke verschillen
 
 ##### Artikel 3. Inleiding van de arbitrageprocedure
 
-1. Indien de partijen er niet in slagen hun geschil bij te leggen, kan de klagende partij overeenkomstig de voorwaarden van [artikel 130 van deze overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=X&artikel=130&z=2007-10-15&g=2007-10-15) bij de andere partij en bij het Stabilisatie- en associatiecomité een schriftelijk verzoek tot instelling van een arbitragepanel indienen.
+1. Indien de partijen er niet in slagen hun geschil bij te leggen, kan de klagende partij overeenkomstig de voorwaarden van [artikel 130 van deze overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=X&artikel=130&z=2007-11-15&g=2007-11-15) bij de andere partij en bij het Stabilisatie- en associatiecomité een schriftelijk verzoek tot instelling van een arbitragepanel indienen.
 
-2. De klagende partij geeft in haar verzoek het voorwerp van het geschil aan en eventueel de maatregel van de andere partij, of het niet-treffen van een maatregel, die zij beschouwt als in strijd met de bepalingen van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&hoofdstuk=I&artikel=2&z=2007-10-15&g=2007-10-15).
+2. De klagende partij geeft in haar verzoek het voorwerp van het geschil aan en eventueel de maatregel van de andere partij, of het niet-treffen van een maatregel, die zij beschouwt als in strijd met de bepalingen van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&hoofdstuk=I&artikel=2&z=2007-11-15&g=2007-11-15).
 
 ##### Artikel 4. Samenstelling van het arbitragepanel
 
@@ -2406,7 +2406,7 @@ De bepalingen van dit protocol hebben alleen betrekking op mogelijke verschillen
 
 2. Binnen 10 dagen na indiening van het verzoek tot instelling van een arbitragepanel bij het Stabilisatie- en associatiecomité overleggen de partijen met elkaar over de samenstelling van het arbitragepanel.
 
-3. Indien de partijen het binnen de termijn als bedoeld in lid 2 niet eens worden over de samenstelling van het arbitragepanel, kan elke van beide partijen de voorzitter van het Stabilisatie- en associatiecomité of diens vertegenwoordiger verzoeken alle drie de leden van het panel door het lot aan te wijzen uit de lijst als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&hoofdstuk=III&artikel=15&z=2007-10-15&g=2007-10-15), namelijk één uit de personen die door de klagende partij werden voorgesteld, één uit de lijst van de partij waartegen de klacht is ingediend, en één uit de scheidsrechters die door de partijen waren geselecteerd om als voorzitter te fungeren.
+3. Indien de partijen het binnen de termijn als bedoeld in lid 2 niet eens worden over de samenstelling van het arbitragepanel, kan elke van beide partijen de voorzitter van het Stabilisatie- en associatiecomité of diens vertegenwoordiger verzoeken alle drie de leden van het panel door het lot aan te wijzen uit de lijst als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&hoofdstuk=III&artikel=15&z=2007-11-15&g=2007-11-15), namelijk één uit de personen die door de klagende partij werden voorgesteld, één uit de lijst van de partij waartegen de klacht is ingediend, en één uit de scheidsrechters die door de partijen waren geselecteerd om als voorzitter te fungeren.
 
 Indien de partijen het over een of meerdere leden van het arbitragepanel eens zijn, worden de overige leden volgens dezelfde procedure aangewezen.
 
@@ -2414,9 +2414,9 @@ Indien de partijen het over een of meerdere leden van het arbitragepanel eens zi
 
 5. De datum van de instelling van het arbitragepanel is de datum waarop de voorzitter van het panel in kennis wordt gesteld van de aanwijzing in onderlinge overeenstemming tussen de partijen van de drie scheidsrechters, of, in voorkomend geval, de datum van hun selectie volgens de procedure van lid 3.
 
-6. Indien een van de partijen van oordeel is dat een scheidsrechter niet voldoet aan de vereisten van de gedragscode als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&hoofdstuk=III&artikel=18&z=2007-10-15&g=2007-10-15), plegen de partijen overleg, vervangen zij in onderlinge overeenstemming de scheidsrechter en wijzen zij overeenkomstig lid 7 een vervanger aan. Indien de partijen het niet eens worden over de noodzaak om een scheidsrechter te vervangen, wordt de kwestie voor de voorzitter van het arbitragepanel gebracht die dan een eindbeslissing treft.
+6. Indien een van de partijen van oordeel is dat een scheidsrechter niet voldoet aan de vereisten van de gedragscode als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&hoofdstuk=III&artikel=18&z=2007-11-15&g=2007-11-15), plegen de partijen overleg, vervangen zij in onderlinge overeenstemming de scheidsrechter en wijzen zij overeenkomstig lid 7 een vervanger aan. Indien de partijen het niet eens worden over de noodzaak om een scheidsrechter te vervangen, wordt de kwestie voor de voorzitter van het arbitragepanel gebracht die dan een eindbeslissing treft.
 
-Indien een van de partijen van oordeel is dat de voorzitter van het arbitragepanel niet voldoet aan de gedragscode als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&hoofdstuk=III&artikel=18&z=2007-10-15&g=2007-10-15), wordt de kwestie voor een van de overige leden van de groep scheidsrechters gebracht die waren geselecteerd om als voorzitter te fungeren, waarbij zijn naam door het lot wordt aangewezen door de voorzitter van het Stabilisatie- en associatiecomité of diens vertegenwoordiger, in aanwezigheid van een vertegenwoordiger van elke partij, tenzij de partijen het anders overeenkomen.
+Indien een van de partijen van oordeel is dat de voorzitter van het arbitragepanel niet voldoet aan de gedragscode als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&hoofdstuk=III&artikel=18&z=2007-11-15&g=2007-11-15), wordt de kwestie voor een van de overige leden van de groep scheidsrechters gebracht die waren geselecteerd om als voorzitter te fungeren, waarbij zijn naam door het lot wordt aangewezen door de voorzitter van het Stabilisatie- en associatiecomité of diens vertegenwoordiger, in aanwezigheid van een vertegenwoordiger van elke partij, tenzij de partijen het anders overeenkomen.
 
 7. Indien een scheidsrechter niet aan de procedure kan deelnemen, zich terugtrekt, of overeenkomstig lid 6 wordt vervangen, wordt binnen vijf dagen een vervanger aangewezen overeenkomstig de selectieprocedures die waren gevolgd om de oorspronkelijke scheidsrechter aan te wijzen. De werkzaamheden van het arbitragepanel worden opgeschort voor de duur van deze procedure.
 
@@ -2444,21 +2444,21 @@ Elke partij neemt alle noodzakelijke maatregelen om de uitspraak van het arbitra
 
 2. Indien de partijen het niet eens worden over de redelijke termijn voor naleving van de uitspraak van het arbitragepanel, kan de klagende partij het Stabilisatie- en associatiecomité binnen een termijn van 20 dagen na de kennisgeving als bedoeld in lid 1 verzoeken het oorspronkelijke arbitragepanel opnieuw bijeen te roepen om een de lengte van de redelijke termijn vast te stellen. Het arbitragepanel deelt zijn uitspraak binnen een termijn van 20 dagen na indiening van het verzoek mede.
 
-3. Indien het oorspronkelijke panel, of een of meer van de leden ervan, niet opnieuw bijeen kan komen, zijn de procedures van [artikel 4 van dit protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&hoofdstuk=II&afdeling=I&artikel=4&z=2007-10-15&g=2007-10-15) van toepassing. De termijn waarbinnen het panel zijn uitspraak moet mededelen, blijft 20 dagen na de instelling ervan.
+3. Indien het oorspronkelijke panel, of een of meer van de leden ervan, niet opnieuw bijeen kan komen, zijn de procedures van [artikel 4 van dit protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&hoofdstuk=II&afdeling=I&artikel=4&z=2007-11-15&g=2007-11-15) van toepassing. De termijn waarbinnen het panel zijn uitspraak moet mededelen, blijft 20 dagen na de instelling ervan.
 
 ##### Artikel 8. Herziening van maatregelen getroffen tot naleving van de uitspraak van het arbitragepanel
 
 1. De partij waartegen de klacht is ingediend stelt de andere partij en het Stabilisatie- en associatiecomité vóór afloop van de redelijke termijn in kennis van alle maatregelen die zij heeft getroffen tot naleving van de uitspraak van het arbitragepanel.
 
-2. Indien er onenigheid bestaat tussen de partijen over de verenigbaarheid van een maatregel die overeenkomstig lid 1 is medegedeeld, met een van de bepalingen van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&hoofdstuk=I&artikel=2&z=2007-10-15&g=2007-10-15), kan de klagende partij het oorspronkelijke arbitragepanel verzoeken over de zaak uitspraak te doen. In dat verzoek wordt aangegeven waarom de maatregel niet conform deze overeenkomst is. Wanneer het arbitragepanel opnieuw is bijeengeroepen, doet het uitspraak binnen 45 dagen na de datum waarop het opnieuw is ingesteld.
+2. Indien er onenigheid bestaat tussen de partijen over de verenigbaarheid van een maatregel die overeenkomstig lid 1 is medegedeeld, met een van de bepalingen van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&hoofdstuk=I&artikel=2&z=2007-11-15&g=2007-11-15), kan de klagende partij het oorspronkelijke arbitragepanel verzoeken over de zaak uitspraak te doen. In dat verzoek wordt aangegeven waarom de maatregel niet conform deze overeenkomst is. Wanneer het arbitragepanel opnieuw is bijeengeroepen, doet het uitspraak binnen 45 dagen na de datum waarop het opnieuw is ingesteld.
 
-3. Indien het oorspronkelijke arbitragepanel, of een of meer van de leden ervan, niet opnieuw bijeen kan komen, zijn de procedures van [artikel 4 van dit protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&hoofdstuk=II&afdeling=I&artikel=4&z=2007-10-15&g=2007-10-15) van toepassing. De termijn waarbinnen het panel zijn uitspraak moet mededelen, blijft 45 dagen na de instelling ervan.
+3. Indien het oorspronkelijke arbitragepanel, of een of meer van de leden ervan, niet opnieuw bijeen kan komen, zijn de procedures van [artikel 4 van dit protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&hoofdstuk=II&afdeling=I&artikel=4&z=2007-11-15&g=2007-11-15) van toepassing. De termijn waarbinnen het panel zijn uitspraak moet mededelen, blijft 45 dagen na de instelling ervan.
 
 ##### Artikel 9. Tijdelijke maatregelen bij niet-naleving
 
-1. Indien de partij waartegen de klacht is ingediend vóór afloop van de redelijke termijn nalaat kennis te geven van de maatregelen die zijn getroffen tot naleving van de uitspraak van het arbitragepanel, of indien het arbitragepanel oordeelt dat de maatregel waarvan overeenkomstig [artikel 8, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&hoofdstuk=II&afdeling=II&artikel=8&z=2007-10-15&g=2007-10-15), mededeling is gedaan, niet conform is de verplichtingen van de partij krachtens deze overeenkomst, doet de partij waartegen de klacht is ingediend de klagende partij, op haar verzoek, een aanbod van tijdelijke compensatie.
+1. Indien de partij waartegen de klacht is ingediend vóór afloop van de redelijke termijn nalaat kennis te geven van de maatregelen die zijn getroffen tot naleving van de uitspraak van het arbitragepanel, of indien het arbitragepanel oordeelt dat de maatregel waarvan overeenkomstig [artikel 8, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&hoofdstuk=II&afdeling=II&artikel=8&z=2007-11-15&g=2007-11-15), mededeling is gedaan, niet conform is de verplichtingen van de partij krachtens deze overeenkomst, doet de partij waartegen de klacht is ingediend de klagende partij, op haar verzoek, een aanbod van tijdelijke compensatie.
 
-2. Indien binnen 30 dagen na afloop van de redelijke termijn, of na de uitspraak van het arbitragepanel overeenkomstig [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&hoofdstuk=II&afdeling=II&artikel=8&z=2007-10-15&g=2007-10-15) dat een getroffen maatregel niet conform deze overeenkomst is, geen overeenstemming wordt bereikt over compensatie, heeft de klagende partij, na kennisgeving aan de andere partij en het Stabilisatie- en associatiecomité, het recht om de krachtens de bepalingen van [artikel 2 van dit protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&hoofdstuk=I&artikel=2&z=2007-10-15&g=2007-10-15) toegekende voordelen op te schorten in overeenstemming met de economische schade die door de inbreuk werd veroorzaakt. De klagende partij kan de opschorting laten ingaan 10 dagen na de datum van kennisgeving, tenzij de partij waartegen de klacht is ingediend overeenkomstig lid 3 om arbitrage heeft verzocht.
+2. Indien binnen 30 dagen na afloop van de redelijke termijn, of na de uitspraak van het arbitragepanel overeenkomstig [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&hoofdstuk=II&afdeling=II&artikel=8&z=2007-11-15&g=2007-11-15) dat een getroffen maatregel niet conform deze overeenkomst is, geen overeenstemming wordt bereikt over compensatie, heeft de klagende partij, na kennisgeving aan de andere partij en het Stabilisatie- en associatiecomité, het recht om de krachtens de bepalingen van [artikel 2 van dit protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&hoofdstuk=I&artikel=2&z=2007-11-15&g=2007-11-15) toegekende voordelen op te schorten in overeenstemming met de economische schade die door de inbreuk werd veroorzaakt. De klagende partij kan de opschorting laten ingaan 10 dagen na de datum van kennisgeving, tenzij de partij waartegen de klacht is ingediend overeenkomstig lid 3 om arbitrage heeft verzocht.
 
 3. Indien de partij waartegen de klacht is ingediend van oordeel is dat de mate van opschorting niet evenredig is met de mate van de economische schade die door de inbreuk werd veroorzaakt, kan zij binnen de in lid 2 genoemde termijn van 10 dagen bij de voorzitter van het oorspronkelijke arbitragepanel schriftelijk verzoek indienen tot wederinstelling van het oorspronkelijke arbitragepanel. Het arbitragepanel zal zijn uitspraak betreffende de mate van opschorting van voordelen mededelen aan de partijen en het Stabilisatie- en associatiecomité binnen 30 dagen na indiening van het verzoek. De voordelen worden niet opgeschort tot het arbitragepanel uitspraak heeft gedaan en de opschorting geschiedt overeenkomstig de uitspraak van het arbitragepanel.
 
@@ -2470,17 +2470,17 @@ Elke partij neemt alle noodzakelijke maatregelen om de uitspraak van het arbitra
 
 2. Indien de partijen binnen 30 dagen na de mededeling niet tot overeenstemming komen over de verenigbaarheid van de medegedeelde maatregel met de overeenkomst, kan de klagende partij de voorzitter van het oorspronkelijke arbitragepanel schriftelijk verzoeken over de zaak uitspraak te doen. Dit verzoek wordt tegelijkertijd medegedeeld aan de andere partij en aan het Stabilisatie- en associatiecomité. Het arbitragepanel deelt zijn uitspraak binnen een termijn van 45 dagen na indiening van het verzoek mede. Indien het arbitragepanel oordeelt dat een maatregel tot naleving niet conform deze overeenkomst is, onderzoekt het arbitragepanel of de klagende partij de opschorting van voordelen in de oorspronkelijke of in verschillende mate mag voortzetten. Indien het arbitragepanel oordeelt dat een maatregel tot naleving conform deze overeenkomst is, wordt de opschorting van voordelen beëindigd.
 
-3. Indien het oorspronkelijke arbitragepanel, of een of meer van de leden ervan, niet opnieuw bijeen kan komen, zijn de procedures van [artikel 4 van dit protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&hoofdstuk=II&afdeling=I&artikel=4&z=2007-10-15&g=2007-10-15) van toepassing. De termijn waarbinnen het panel zijn uitspraak moet mededelen, blijft 45 dagen na de instelling ervan.
+3. Indien het oorspronkelijke arbitragepanel, of een of meer van de leden ervan, niet opnieuw bijeen kan komen, zijn de procedures van [artikel 4 van dit protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&hoofdstuk=II&afdeling=I&artikel=4&z=2007-11-15&g=2007-11-15) van toepassing. De termijn waarbinnen het panel zijn uitspraak moet mededelen, blijft 45 dagen na de instelling ervan.
 
 ### AFDELING III. GEMEENSCHAPPELIJKE BEPALINGEN
 
 ##### Artikel 11. Openbare hoorzittingen
 
-De vergaderingen van het arbitragepanel zijn openbaar onder de voorwaarden van het in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&hoofdstuk=III&artikel=18&z=2007-10-15&g=2007-10-15) vermelde reglement van orde, tenzij het arbitragepanel er uit eigen initiatief of op verzoek van de partijen anders over beschikt.
+De vergaderingen van het arbitragepanel zijn openbaar onder de voorwaarden van het in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&hoofdstuk=III&artikel=18&z=2007-11-15&g=2007-11-15) vermelde reglement van orde, tenzij het arbitragepanel er uit eigen initiatief of op verzoek van de partijen anders over beschikt.
 
 ##### Artikel 12. Inlichtingen en technisch advies
 
-Het panel kan op verzoek van een partij of op eigen initiatief inlichtingen inwinnen bij alle bronnen die het voor de werkzaamheden van het panel passend acht. Het panel heeft tevens het recht deskundigen om advies te vragen indien het dit nuttig acht. Alle op deze manier ingewonnen informatie moet aan beide partijen worden medegedeeld en erover kunnen opmerkingen worden geformuleerd. De belanghebbende partijen zijn gemachtigd bij het arbitragepanel stukken in te dienen als amicus curiae onder de voorwaarden die zijn neergelegd in het reglement van orde als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&hoofdstuk=III&artikel=18&z=2007-10-15&g=2007-10-15).
+Het panel kan op verzoek van een partij of op eigen initiatief inlichtingen inwinnen bij alle bronnen die het voor de werkzaamheden van het panel passend acht. Het panel heeft tevens het recht deskundigen om advies te vragen indien het dit nuttig acht. Alle op deze manier ingewonnen informatie moet aan beide partijen worden medegedeeld en erover kunnen opmerkingen worden geformuleerd. De belanghebbende partijen zijn gemachtigd bij het arbitragepanel stukken in te dienen als amicus curiae onder de voorwaarden die zijn neergelegd in het reglement van orde als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&hoofdstuk=III&artikel=18&z=2007-11-15&g=2007-11-15).
 
 ##### Artikel 13. Interpretatiebeginselen
 
@@ -2498,7 +2498,7 @@ De arbitragepanels passen toe en interpreteren de bepalingen van deze overeenkom
 
 1. Het Stabilisatie- en associatiecomité stelt uiterlijk 6 maanden na de inwerkingtreding van dit protocol een lijst van 15 personen op die bereid en geschikt zijn om als scheidsrechter te fungeren. Elke partij kiest 5 personen die als scheidsrechter kunnen optreden. De partijen komen ook 5 personen overeen die als voorzitter van het arbitragepanel kunnen fungeren. Het Stabilisatie- en associatiecomité ziet erop toe dat het aantal personen op de lijst te allen tijde gehandhaafd blijft.
 
-2. De scheidrechters moeten beschikken over gespecialiseerde kennis en ervaring inzake wetgeving, internationale wetgeving, communautaire wetgeving en/of internationale handel. De scheidsrechters dienen onafhankelijk te zijn, op persoonlijke titel op te treden en niet verbonden te zijn aan of instructies aan te nemen van een organisatie of een regering, en zijn verplicht de in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&hoofdstuk=III&artikel=18&z=2007-10-15&g=2007-10-15) genoemde gedragscode na te leven.
+2. De scheidrechters moeten beschikken over gespecialiseerde kennis en ervaring inzake wetgeving, internationale wetgeving, communautaire wetgeving en/of internationale handel. De scheidsrechters dienen onafhankelijk te zijn, op persoonlijke titel op te treden en niet verbonden te zijn aan of instructies aan te nemen van een organisatie of een regering, en zijn verplicht de in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&hoofdstuk=III&artikel=18&z=2007-11-15&g=2007-11-15) genoemde gedragscode na te leven.
 
 ##### Artikel 16. Relatie tot WTO-verplichtingen
 
@@ -2506,7 +2506,7 @@ Na de eventuele toetreding van Montenegro tot de Wereldhandelsorganisatie (WTO) 
 
 - a. Arbitragepanels die krachtens dit protocol zijn opgericht doen geen uitspraak in geschillen die verband houden met de rechten en verplichtingen van elke partij krachtens de [overeenkomst tot oprichting van de Wereldhandelsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBV0001160) (WTO).
 
-- b. Het recht van elke partij om een beroep te doen op de regeling inzake geschillenbeslechting van dit protocol laat elke maatregel in WTO-verband, met inbegrip van een maatregel tot geschillenbeslechting, onverlet. Indien echter een partij in verband met een specifieke maatregel een procedure voor geschillenbeslechting heeft ingeleid, hetzij krachtens [artikel 3, lid 1, van dit protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&hoofdstuk=II&afdeling=I&artikel=3&z=2007-10-15&g=2007-10-15), hetzij krachtens de [WTO-overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001160), kan zij in verband met dezelfde maatregel niet nog een procedure voor geschillenbeslechting in het andere forum inleiden, tenzij de eerste procedure is afgesloten. Voor de toepassing van dit lid worden procedures voor geschillenbeslechting krachtens de WTO-overeenkomst geacht te zijn ingeleid door het verzoek van een partij tot vorming van een panel overeenkomstig [artikel 6 van het WTO-memorandum van overeenstemming inzake de regels en procedures betreffende de beslechting van geschillen](https://wetten.overheid.nl/jci1.3:c:BWBV0001160&artikel=6).
+- b. Het recht van elke partij om een beroep te doen op de regeling inzake geschillenbeslechting van dit protocol laat elke maatregel in WTO-verband, met inbegrip van een maatregel tot geschillenbeslechting, onverlet. Indien echter een partij in verband met een specifieke maatregel een procedure voor geschillenbeslechting heeft ingeleid, hetzij krachtens [artikel 3, lid 1, van dit protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&hoofdstuk=II&afdeling=I&artikel=3&z=2007-11-15&g=2007-11-15), hetzij krachtens de [WTO-overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001160), kan zij in verband met dezelfde maatregel niet nog een procedure voor geschillenbeslechting in het andere forum inleiden, tenzij de eerste procedure is afgesloten. Voor de toepassing van dit lid worden procedures voor geschillenbeslechting krachtens de WTO-overeenkomst geacht te zijn ingeleid door het verzoek van een partij tot vorming van een panel overeenkomstig [artikel 6 van het WTO-memorandum van overeenstemming inzake de regels en procedures betreffende de beslechting van geschillen](https://wetten.overheid.nl/jci1.3:c:BWBV0001160&artikel=6).
 
 - c. Geen enkele bepaling van dit protocol verhindert een partij de opschorting van verplichtingen die is toegestaan door een orgaan voor geschillenbeslechting van de WTO, ten uitvoer te leggen.
 
