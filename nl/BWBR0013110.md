@@ -4,7 +4,7 @@ identifier: "BWBR0013110"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2012-01-01"
-last_updated: "2002-01-01"
+last_updated: "2007-11-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013110"
 soort: "ministeriele-regeling"
@@ -61,9 +61,9 @@ Bij gehele of gedeeltelijke beëindiging van de gesubsidieerde activiteiten is d
 
 De beschikking tot subsidieverlening vermeldt in ieder geval:
 
-- a. de voorwaarde, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013110&paragraaf=2&artikel=2&z=2002-01-01&g=2002-01-01);
+- a. de voorwaarde, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013110&paragraaf=2&artikel=2&z=2007-11-17&g=2007-11-17);
 
-- b. de verplichting, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013110&paragraaf=2&artikel=3&z=2002-01-01&g=2002-01-01), waarbij nader wordt aangegeven hoe de hoogte van de vergoeding wordt bepaald;
+- b. de verplichting, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013110&paragraaf=2&artikel=3&z=2007-11-17&g=2007-11-17), waarbij nader wordt aangegeven hoe de hoogte van de vergoeding wordt bepaald;
 
 - c. de termijn, waarbinnen de aanvraag tot vaststelling van de subsidie moet worden ingediend; en
 
@@ -71,7 +71,7 @@ De beschikking tot subsidieverlening vermeldt in ieder geval:
 
 ##### Artikel 5
 
-De minister onderwerpt de subsidieverstrekking elke vijf jaren aan een evaluatieonderzoek, indien subsidie wordt verstrekt gedurende meer dan vijf jaren. De resultaten van dit onderzoek bepalen mede de aanspraak op subsidieverstrekking in het daaropvolgende jaar.
+De minister onderwerpt de subsidieverstrekking elke twee jaren aan een evaluatieonderzoek, indien subsidie wordt verstrekt gedurende meer dan twee jaren. De resultaten van dit onderzoek bepalen mede de aanspraak op subsidieverstrekking in het daaropvolgende jaar.
 
 #### § 3. Per boekjaar verstrekte subsidies aan rechtspersonen
 
@@ -93,9 +93,9 @@ Bij de verstrekking van een subsidie in de exploitatiekosten houdt de minister r
 
 ##### Artikel 8
 
-1. Ten aanzien van subsidies als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0013110&paragraaf=3&artikel=6&z=2002-01-01&g=2002-01-01) die een bedrag van € 125.000 per boekjaar niet te boven gaan, wordt ontheffing verleend van [artikel 4:78, eerste tot en met vierde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:78).
+1. Ten aanzien van subsidies als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0013110&paragraaf=3&artikel=6&z=2007-11-17&g=2007-11-17) die een bedrag van € 125.000 per boekjaar niet te boven gaan, wordt ontheffing verleend van [artikel 4:78, eerste tot en met vierde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:78).
 
-2. Ten aanzien van subsidies als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0013110&paragraaf=3&artikel=6&z=2002-01-01&g=2002-01-01) ten bedrage van € 125.000 of meer per boekjaar wordt bij de subsidieverlening bepaald dat de in artikel 4:78, eerste lid, bedoelde opdracht tevens strekt tot onderzoek van de naleving van aan de subsidie verbonden verplichtingen.
+2. Ten aanzien van subsidies als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0013110&paragraaf=3&artikel=6&z=2007-11-17&g=2007-11-17) ten bedrage van € 125.000 of meer per boekjaar wordt bij de subsidieverlening bepaald dat de in artikel 4:78, eerste lid, bedoelde opdracht tevens strekt tot onderzoek van de naleving van aan de subsidie verbonden verplichtingen.
 
 3. Het onderzoek, bedoeld in het tweede lid, vindt plaats overeenkomstig het controleprotocol, dat bij deze regeling behoort. De bevindingen van de accountant worden vastgelegd in een accountantsverklaring en een rapport van bevindingen overeenkomstig de modellen, die bij deze regeling behoren.
 
@@ -115,21 +115,17 @@ De subsidieontvanger, die aan derden goederen ter beschikking stelt of voor derd
 
 ##### Artikel 11
 
-Onverminderd [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0013110&paragraaf=2&artikel=4&z=2002-01-01&g=2002-01-01) vermeldt de beschikking tot verlening van een subsidie als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0013110&paragraaf=3&artikel=6&z=2002-01-01&g=2002-01-01):
+Onverminderd [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0013110&paragraaf=2&artikel=4&z=2007-11-17&g=2007-11-17) vermeldt de beschikking tot verlening van een subsidie als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0013110&paragraaf=3&artikel=6&z=2007-11-17&g=2007-11-17):
 
-- a. de ontheffing, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013110&paragraaf=3&artikel=8&z=2002-01-01&g=2002-01-01), dan wel de verplichtingen, bedoeld in [artikel 8, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013110&paragraaf=3&artikel=8&z=2002-01-01&g=2002-01-01);
+- a. de ontheffing, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013110&paragraaf=3&artikel=8&z=2007-11-17&g=2007-11-17), dan wel de verplichtingen, bedoeld in [artikel 8, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013110&paragraaf=3&artikel=8&z=2007-11-17&g=2007-11-17);
 
-- b. de verplichtingen, bedoeld in de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0013110&paragraaf=3&artikel=9&z=2002-01-01&g=2002-01-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0013110&paragraaf=3&artikel=10&z=2002-01-01&g=2002-01-01).
+- b. de verplichtingen, bedoeld in de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0013110&paragraaf=3&artikel=9&z=2007-11-17&g=2007-11-17) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0013110&paragraaf=3&artikel=10&z=2007-11-17&g=2007-11-17).
 
 #### § 4. Mandaat
 
 ##### Artikel 12
 
-1. De minister verleent mandaat tot het nemen van besluiten ter uitvoering van deze regeling aan:
-
-- a. de secretaris-generaal van het ministerie;
-
-- b. de bevelhebbers van de krijgsmachtdelen en de commandant defensie interservice commando voor zover de subsidie tot het werkterrein van hun dienstonderdeel behoort.
+1. Mandaat tot het nemen van besluiten ter uitvoering van deze regeling wordt verleend aan de secretaris-generaal van het ministerie.
 
 2. Het mandaat omvat niet het beslissen op een bezwaarschrift.
 
@@ -169,7 +165,7 @@ In de verklaring noemt de accountant de beschikking(en) waarbij de subsidie is v
 
 Voor zover de instelling subsidieverplichtingen niet heeft nageleefd maakt de accountant daarvan melding in zijn verklaring. Als de leiding van de instelling in de subsidiedeclaratie/jaarrekening al melding maakt van de subsidiebepalingen die niet zijn nageleefd, mag de accountant daarnaar verwijzen met behulp van paragraaf-, paginanummers of dergelijke.
 
-## Model accountantsverklaring alsmede rapport van bevindingen als bedoeld in [artikel 8, derde lid, van de Regeling defensiesubsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0013110&paragraaf=3&artikel=8&z=2002-01-01&g=2002-01-01)
+## Model accountantsverklaring alsmede rapport van bevindingen als bedoeld in [artikel 8, derde lid, van de Regeling defensiesubsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0013110&paragraaf=3&artikel=8&z=2007-11-17&g=2007-11-17)
 
 ### Accountantsverklaring
 
