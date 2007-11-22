@@ -4,7 +4,7 @@ identifier: "BWBR0012538"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2007-03-15"
+last_updated: "2007-11-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012538"
 soort: "ministeriele-regeling"
@@ -64,19 +64,21 @@ In deze regeling wordt verstaan onder:
 
 1. Voor het uitvoeren van een IFR-vlucht in het vluchtinformatiegebied Amsterdam is een luchtvaartuig uitgerust met:
 
-- a. een VHF-zend/ontvanginstallatie met kanaalafstanden van 8,33 kHz of 25 kHz, waarmee een voortdurende tweezijdige radioverbinding kan worden onderhouden met de betrokken luchtverkeersdiensten op de daartoe bestemde frequenties zoals gepubliceerd in de luchtvaartgids, en met kanaalafstanden van 8,33 kHz indien IFR-vluchten boven vliegniveau 195 worden uitgevoerd;
+- a. een VHF-zend/ontvanginstallatie met een kanaalafstand van 25kHz, geschikt voor omgevingen waar offset-carrier technieken worden toegepast, waarmee een voortdurende tweezijdige radioverbinding kan worden onderhouden met de betrokken luchtverkeersdiensten op de daartoe bestemde frequenties zoals gepubliceerd in de luchtvaartgids;
 
-- b. een installatie die het mogelijk maakt een VOR te gebruiken, van welke installatie voor het uitvoeren van vluchten op vliegniveau 100 en hoger een dubbele uitvoering nodig is;
+- b. een VHF-zend/ontvanginstallatie met een kanaalafstand van 8,33kHz indien IFR-vluchten boven vliegniveau 195 worden uitgevoerd;
 
-- c. een DME;
+- c. een installatie die het mogelijk maakt een VOR te gebruiken, van welke installatie voor het uitvoeren van vluchten op vliegniveau 100 en hoger een dubbele uitvoering nodig is;
 
-- d. een ADF;
+- d. een DME;
 
-- e. een SSR-transponder met mode S/ELS, die voldoet aan de eisen, bedoeld in bijlage 10, boek IV (Surveillance Radar and Collision Avoidance Systems) van het Verdrag inzake de internationale burgerluchtvaart, en
+- e. een ADF;
 
-- f. indien in door de Minister daartoe aangewezen delen van het luchtruim wordt gevlogen: een SSR-transponder met mode S/EHS, die voldoet aan de eisen, bedoeld in bijlage 10, boek IV (Surveillance Radar and Collision Avoidance Systems) van het Verdrag inzake de internationale burgerluchtvaart.
+- f. een SSR-transponder met mode S/ELS, die voldoet aan de eisen, bedoeld in bijlage 10, boek IV (Surveillance Radar and Collision Avoidance Systems) van het Verdrag inzake de internationale burgerluchtvaart, en
 
-2. Het eerste lid, onderdelen a, b, c en d, is niet van toepassing voor staatsluchtvaartuigen, indien deze beschikken over een UHF-zend/ontvangstinstallatie en beschikken over een systeem met een gelijkwaardig veiligheidsniveau als de systemen genoemd in de onderdelen b, c en d.
+- g. indien in door de Minister daartoe aangewezen delen van het luchtruim wordt gevlogen: een SSR-transponder met mode S/EHS, die voldoet aan de eisen, bedoeld in bijlage 10, boek IV (Surveillance Radar and Collision Avoidance Systems) van het Verdrag inzake de internationale burgerluchtvaart.
+
+2. Het eerste lid, onderdelen a, b, c, d, en e, is niet van toepassing voor staatsluchtvaartuigen, indien deze beschikken over een UHF-zend/ontvangstinstallatie en beschikken over een systeem met een gelijkwaardig veiligheidsniveau als de systemen genoemd in de onderdelen c, d en e.
 
 3. Voor het volgen van een luchtverkeersroute op vliegniveau 100 en hoger is een luchtvaartuig niet zijnde een staatsluchtvaartuig uitgerust met een installatie die het mogelijk maakt om met RNAV luchtverkeersroutes te vliegen met een afwijking van ten hoogste 5 zeemijlen tijdens ten minste 95% van de vliegtijd en die is toegelaten op basis van JAA Advisory Circular Joint 20X4 ‘Airworthiness Approval and Operational Criteria for the use of Navigation Systems in European Airspace Designated for Basic RNAV Operations’.
 
@@ -94,7 +96,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 4
 
-Voor het uitvoeren van een IFR-vlucht of een gecontroleerde VFR-vlucht in het vluchtinformatiegebied Amsterdam is een luchtvaartuig uitgerust met telecommunicatie-installaties die ten minste voldoen aan de eisen, gesteld in bijlage 10 van het Verdrag inzake de internationale burgerluchtvaart.
+Voor het uitvoeren van een IFR-vlucht, een gecontroleerde VFR-vlucht in het vluchtinformatiegebied Amsterdam of een VFR-vlucht in de NSA Amsterdam is een luchtvaartuig uitgerust met telecommunicatie-installaties die ten minste voldoen aan de eisen, gesteld in bijlage 10 van het Verdrag inzake de internationale burgerluchtvaart.
 
 ##### Artikel 5
 
@@ -106,7 +108,7 @@ Voor het uitvoeren van een IFR-vlucht in het RVSM-luchtruim in het vluchtinforma
 
 ##### Artikel 7
 
-1. Voor het uitvoeren van een VFR-vlucht in het vluchtinformatiegebied Amsterdam, behalve in gebieden met de classificatie G beneden 1200 voet AMSL buiten de Genofic Area, is een luchtvaartuig uitgerust met een SSR-transponder met mode S/ELS of 4096 codemogelijkheden in mode A met automatische hoogterapportering in mode C, die voldoet aan de eisen, bedoeld in bijlage 10, Boek IV (Surveillance Radar and Collision Avoidance Systems) van het Verdrag inzake de internationale burgerluchtvaart, en
+1. Voor het uitvoeren van een VFR-vlucht in het vluchtinformatiegebied Amsterdam, behalve in gebieden met de classificatie G beneden 1200 voet AMSL buiten de NSA Amsterdam, is een luchtvaartuig uitgerust met een SSR-transponder met mode S/ELS of 4096 codemogelijkheden in mode A met automatische hoogterapportering in mode C, die voldoet aan de eisen, bedoeld in bijlage 10, Boek IV (Surveillance Radar and Collision Avoidance Systems) van het Verdrag inzake de internationale burgerluchtvaart, en
 
 - a. Dit onderdeel is nog niet in werking getreden.
 
@@ -174,43 +176,29 @@ Voor het uitvoeren van een IFR-vlucht in het vluchtinformatiegebied Amsterdam wo
 
 ##### Artikel 10
 
-1. Voor het uitvoeren van een VFRvlucht in het vluchtinformatiegebied Amsterdam zijn de volgende voorschriften voor het gebruik van een SSR-transponder van toepassing: a. het gebruik van een SSR-transponder met de mode S of 4096 codemogelijkheden in mode A met automatische hoogterapportering in mode C is verplicht in het luchtruim met de classificatie A, B, C, D, E of F en in de Genofic-Area; b. mode A code 7000 wordt ingesteld.
+1. Voor het uitvoeren van een VFR-vlucht in het vluchtinformatiegebied Amsterdam zijn de volgende voorschriften voor het gebruik van een SSR-transponder van toepassing: a. het gebruik van een SSR-transponder met de mode S of 4096 codemogelijkheden in mode A met automatische hoogterapportering in mode C is verplicht in het luchtruim met de classificatie A, B, C, D, E of F en in de NSA Amsterdam; b. mode A code 7000 wordt ingesteld.
 
 2. De verplichtingen, bedoeld in het eerste lid, zijn niet van toepassing wanneer door de betreffende luchtverkeersdienst een andere opdracht is verstrekt of afwijkende voorschriften van toepassing zijn door de aard van het luchtvaartuig of het doel van de vlucht.
 
 ##### Artikel 11
 
-1. Onverminderd [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012538&artikel=12&z=2007-03-15&g=2007-03-15), moeten met ingang van 1 januari 2005 vliegtuigen in de categorie ‘International Commercial Air Transport’, die lange afstandvluchten uitvoeren boven water, uitgerust zijn met ten minste twee ELT’s waarvan één ELT die automatisch geactiveerd wordt.
+1. Vliegtuigen in de categorie ‘International Commercial Air Transport’ die lange afstandvluchten uitvoeren boven water, moeten uitgerust zijn met ten minste twee ELT’s, waarvan één ELT die automatisch geactiveerd wordt.
 
-2. Onverminderd [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012538&artikel=12&z=2007-03-15&g=2007-03-15), moeten met ingang van 1 januari 2005 vliegtuigen in de categorie ‘International Commercial Air Transport’ die vluchten uitvoeren boven door de Minister aangewezen gebieden over land uitgerust zijn met ten minste één ELT die automatisch geactiveerd wordt.
+2. Vliegtuigen in de categorie ‘International Commercial Air Transport’ die vluchten uitvoeren boven door de Minister aangewezen gebieden over land, moeten uitgerust zijn met ten minste één ELT die automatisch geactiveerd wordt.
 
-3. Onverminderd [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012538&artikel=12&z=2007-03-15&g=2007-03-15), moeten met ingang van 1 januari 2005 vliegtuigen in de categorie ‘International General Aviation’ die lange afstand vluchten uitvoeren boven water of vluchten uitvoeren boven door de Minister aangewezen gebieden over land, uitgerust zijn met ten minste één ELT die automatisch geactiveerd wordt.
+3. Vliegtuigen in de categorie ‘International General Aviation’ die lange afstand vluchten uitvoeren boven water of vluchten uitvoeren boven door de Minister aangewezen gebieden over land, moeten uitgerust zijn met ten minste één ELT die automatisch geactiveerd wordt.
 
-4. Onverminderd [artikel 12, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012538&artikel=12&z=2007-03-15&g=2007-03-15), moeten met ingang van 1 januari 2005 prestatie klasse 1 en 2 helikopters in de categorie ‘International Commercial Air Transport’ die vluchten uitvoeren boven water en op een afstand van meer dan 10 minuten op normale kruissnelheid vliegen vanaf land en prestatie klasse 3 helikopters die vluchten boven water uitvoeren buiten autorotatie of noodlandingsafstand van land, uitgerust zijn met ten minste één ELT die automatisch geactiveerd wordt en ten minste één overlevings-ELT die met de hand geactiveerd wordt in een reddingsvlot.
+4. Prestatie klasse 1 en 2 helikopters in de categorie ‘International Commercial Air Transport’ die vluchten uitvoeren boven water en op een afstand van meer dan 10 minuten op normale kruissnelheid vliegen vanaf land en prestatie klasse 3 helikopters die vluchten boven water uitvoeren buiten autorotatie of noodlandingsafstand van land, moeten uitgerust zijn met ten minste één ELT die automatisch geactiveerd wordt en ten minste één overlevings-ELT die met de hand geactiveerd wordt in een reddingsvlot.
 
-5. Onverminderd [artikel 12, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012538&artikel=12&z=2007-03-15&g=2007-03-15), moeten met ingang van 1 januari 2005 helikopters in de categorie ‘International Commercial Air Transport’ die vluchten uitvoeren boven door de Minister aangewezen gebieden boven land uitgerust zijn met ten minste één ELT die automatisch geactiveerd wordt.
+5. Helikopters in de categorie ‘International Commercial Air Transport’ die vluchten uitvoeren boven door de Minister aangewezen gebieden boven land, moeten uitgerust zijn met ten minste één ELT die automatisch geactiveerd wordt.
 
-6. Onverminderd [artikel 12, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012538&artikel=12&z=2007-03-15&g=2007-03-15), moeten met ingang van 1 januari 2005 prestatie klasse 1 en 2 helikopters in de categorie ‘International General Aviation’ die vluchten uitvoeren boven water en prestatie klasse 3 helikopters in dezelfde categorie, die vluchten boven water uitvoeren buiten autorotatie of noodlandings afstand van land uitgerust zijn met ten minste één ELT die automatisch geactiveerd wordt en ten minste één overlevings-ELT die met de hand geactiveerd wordt in een reddingsvlot.
+6. Prestatie klasse 1 en 2 helikopters in de categorie ‘International General Aviation’ die vluchten uitvoeren boven water en prestatie klasse 3 helikopters in dezelfde categorie die vluchten boven water uitvoeren buiten autorotatie of noodlandings afstand van land, moeten uitgerust zijn met ten minste één ELT die automatisch geactiveerd wordt en ten minste één overlevings-ELT die met de hand geactiveerd wordt in een reddingsvlot.
 
-7. Onverminderd [artikel 12, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012538&artikel=12&z=2007-03-15&g=2007-03-15), moeten met ingang van 1 januari 2005 helikopters in de categorie ‘International General Aviation’, die vluchten uitvoeren boven door de Minister aangewezen gebieden boven land uitgerust zijn met ten minste één ELT die automatisch geactiveerd wordt.
-
-8. De Minister kan na 1 januari 2005 ten behoeve van vliegtuigen of helikopters waarvan het bewijs van luchtwaardigheid vóór 1 januari 2002 is afgegeven, éénmalig ontheffing verlenen tot de eerstvolgende groot onderhoudsbeurt, maar niet later dan tot 1 januari 2008.
+7. Helikopters in de categorie ‘International General Aviation’, die vluchten uitvoeren boven door de Minister aangewezen gebieden boven land, moeten uitgerust zijn met ten minste één ELT die automatisch geactiveerd wordt.
 
 ##### Artikel 12
 
-1. Vliegtuigen in de categorie ‘International Commercial Air Transport’ waarvan het bewijs van luchtwaardigheid na 1 januari 2002 voor de eerste maal wordt afgegeven en die lange afstand vluchten boven water uitvoeren, moeten uitgerust zijn met ten minste twee ELT’s, waarvan één ELT die automatisch geactiveerd wordt.
-
-2. Vliegtuigen in de categorie ‘International Commercial Air Transport’ waarvan het bewijs van luchtwaardigheid na 1 januari 2002 voor de eerste maal wordt afgegeven en welke vluchten uitvoeren boven door de Minister aangewezen gebieden over land moeten uitgerust zijn met ten minste één ELT die automatisch geactiveerd wordt.
-
-3. Vliegtuigen in de categorie ‘International General Aviation’ waarvan het bewijs van luchtwaardigheid na 1 januari 2002 voor de eerste maal wordt afgegeven en die lange afstand vluchten uitvoeren boven water of boven door de Minister aangewezen gebieden boven land, moeten uitgerust zijn met ten minste één ELT die automatisch geactiveerd wordt.
-
-4. Prestatie klasse 1 en 2 helikopters in de categorie ‘International Commercial Air Transport’ waarvan het bewijs van luchtwaardigheid na 1 januari 2002 voor de eerste maal wordt afgegeven en die vluchten uitvoeren boven water en op een afstand van meer dan 10 minuten op normale kruissnelheid vliegen vanaf land en prestatie klasse 3 helikopters in dezelfde categorie die vluchten boven water uitvoeren buiten autorotatie- of noodlandingsafstand van land, moeten uitgerust zijn met ten minste één ELT die automatisch geactiveerd wordt en ten minste één overlevings- ELT die met de hand geactiveerd wordt in een reddingsvlot.
-
-5. Helikopters in de categorie ‘International Commercial Air Transport’ waarvan het bewijs van luchtwaardigheid na 1 januari 2002 voor de eerste maal wordt afgegeven en die vluchten uitvoeren boven door de Minister aangewezen gebieden boven land moeten uitgerust zijn met ten minste één ELT die automatisch geactiveerd wordt.
-
-6. Prestatie klasse 1 en 2 helikopters in de categorie ‘International General Aviation’ waarvan het bewijs van luchtwaardigheid na 1 januari 2002 voor de eerste maal wordt afgegeven en die vluchten uitvoeren boven water en prestatie klasse 3 helikopters in dezelfde categorie waarvan het bewijs van luchtwaardigheid na 1 januari 2002 voor de eerste maal wordt afgegeven en die vluchten boven water uitvoeren buiten autorotatie- of noodlandingsafstand van land moeten uitgerust zijn met ten minste één ELT die automatisch geactiveerd wordt en ten minste één overlevings-ELT die met de hand geactiveerd wordt in een reddingsvlot
-
-7. Helikopters in de categorie ‘International General Aviation’ waarvan het bewijs van luchtwaardigheid na 1 januari 2002 voor de eerste maal wordt afgegeven en die vluchten uitvoeren boven door de Minister aangewezen gebieden boven land moeten uitgerust zijn met ten minste één ELT die automatisch geactiveerd wordt.
+Vervallen
 
 ##### Artikel 13
 
@@ -222,17 +210,19 @@ Voor het uitvoeren van een IFR-vlucht in het vluchtinformatiegebied Amsterdam wo
 
 4. De toekenning van het 24-bit luchtvaartuigadres, bedoeld in het eerste lid, geschiedt door tussenkomst van de inspecteur-generaal van de Inspectie Verkeer en Waterstaat. Bij de aanvraag wordt het registratiekenmerk, het type en het serienummer van het luchtvaartuig vermeld.
 
-5. De door de Minister toegekende 24-bit luchtvaartadressen, alsmede de wijzigingen daarin, worden door de directeur-hoofdinspecteur van het Agentschap Telecom van het Ministerie van Economische Zaken opgenomen in het gegevensbestand van de opsporings- en reddingsdienst in Nederland. Uitsluitend ELT’s die zijn geprogrammeerd op de in dit artikel bedoelde wijze worden in het gegevensbestand van de opsporings-en reddingsdienst in Nederland opgenomen.
+5. De codering volgens het ‘serialized user protocol’ of het ‘standard location protocol’ resulteert in een 15-digit hexadecimale code.
 
-6. Voor luchtvaartuigen die een 24-bit luchtvaartuigadres voor andere doeleinden in gebruik hebben, wordt dit adres gebruikt voor de bij het luchtvaartuig behorende ELT’s.
+6. De 15-digit hexadecimale codes, alsmede de wijzigingen daarin en de bijbehorende gegevens van het vliegtuig, de gegevens van de contactpersonen, worden door de directeur-hoofdinspecteur van het Agentschap Telecom van het Ministerie van Economische Zaken opgenomen in het gegevensbestand van de opsporings- en reddingsdienst in Nederland. Uitsluitend ELT’s die zijn geprogrammeerd op de in dit artikel bedoelde wijze worden in het gegevensbestand van de opsporings-en reddingsdienst in Nederland opgenomen, alsmede afwijkend geprogrammeerde ELT’s na verkregen toestemming van de Minister van Verkeer en Waterstaat.
+
+7. Voor luchtvaartuigen die een 24-bit luchtvaartuigadres voor andere doeleinden in gebruik hebben, wordt dit adres gebruikt voor de bij het luchtvaartuig behorende ELT’s.
 
 #### Strafbepaling
 
 ##### Artikel 14
 
-Handelen in strijd met de [artikelen 2 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0012538&artikel=2&z=2007-03-15&g=2007-03-15) van deze regeling is een strafbaar feit.
+Handelen in strijd met de [artikelen 2 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0012538&artikel=2&z=2007-11-22&g=2007-11-22) van deze regeling is een strafbaar feit.
 
-#### Slotartikelen
+#### Strafbepaling
 
 ##### Artikel 15
 
@@ -249,5 +239,21 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 ##### Artikel 18
 
 Deze regeling wordt aangehaald als: Regeling navigatie- en telecommunicatie-installaties.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 3a
+
+1. Voor het uitvoeren van een VFR-vlucht in de NSA Amsterdam is een luchtvaartuig uitgerust met een VHF-zend/ontvanginstallatie met kanaalafstand van 25kHz, geschikt voor omgevingen waar offset-carrier technieken worden toegepast, waarmee een voortdurende tweezijdige radioverbinding kan worden onderhouden met de betrokken luchtverkeersdiensten op de daartoe bestemde frequenties zoals gepubliceerd in de luchtvaartgids.
+
+2. Het eerste lid is niet van toepassing op staatsluchtvaartuigen indien deze beschikken over een UHF-zend/ontvangstinstallatie.
+
+##### Artikel 5a
+
+Voor het uitvoeren van een IFR-kruisvlucht in de NSA Amsterdam van en naar mijnbouwinstallaties op de Noordzee waarbij een helikopter ten behoeve van navigatie gebruik maakt van GNSS, is de helikopter uitgerust met GNSS apparatuur die voldoet aan eisen gebaseerd op EASA AMC20-4.
+
+#### Gebruik van transponders
+
+#### Slotartikelen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
