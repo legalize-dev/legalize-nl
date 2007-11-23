@@ -4,7 +4,7 @@ identifier: "BWBR0002741"
 country: "nl"
 rank: "amvb"
 publication_date: "2010-12-31"
-last_updated: "2007-07-01"
+last_updated: "2007-11-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002741"
 soort: "AMvB"
@@ -66,9 +66,7 @@ Als dagboek mag alleen een deugdelijk uitgevoerd boek van stevig papier worden g
 
 ##### Artikel 4
 
-In het scheepsdagboek voor zeeschepen moet op de daarvoor volgens het model bestemde plaats worden opgenomen een uittreksel van het certificaat van uitwatering.
-
-Tevens moet in het scheepsdagboek worden vermeld de gemiddelde diepgang van het schip bij aflading tot het middelpunt van de ring van het uitwateringsmerk.
+Vervallen
 
 ##### Artikel 5
 
@@ -76,7 +74,7 @@ De in de modellen opgenomen bladwijzer mag met andere dan de in het model vermel
 
 ##### Artikel 6
 
-Het dagboek voor zeevissers- en kustvissersschepen mag worden gecombineerd met het radiotelefonie-dagboek als bedoeld in [artikel 161, vijfde lid, van het Schepenbesluit 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&artikel=161), waarbij het bepaalde in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002741&artikel=3&z=2007-07-01&g=2007-07-01), van overeenkomstige toepassing is.
+Vervallen
 
 ##### Artikel 7
 
@@ -89,6 +87,8 @@ Dit besluit kan worden aangehaald als "Besluit dagboeken voor schepen 1970".
 Het treedt in werking op een door Ons te bepalen tijdstip.
 
 ## Bijlage I
+
+Vervallen
 
 ### Scheepsdagboek
 
@@ -297,5 +297,15 @@ Over de periode van ........................................................ t/m
 Over de periode van ................................................... t/m ......................................................
 
 ### Bladwijzer
+
+Onze Ministers van Verkeer en Waterstaat en van Justitie zijn belast met de uitvoering van dit besluit, hetwelk in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State.
+
+## Bijlage II
+
+Vervallen
+
+## Bijlage III
+
+Vervallen
 
 Onze Ministers van Verkeer en Waterstaat en van Justitie zijn belast met de uitvoering van dit besluit, hetwelk in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State.
