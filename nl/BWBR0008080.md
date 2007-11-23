@@ -4,7 +4,7 @@ identifier: "BWBR0008080"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-01-01"
-last_updated: "2007-10-17"
+last_updated: "2007-11-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008080"
 soort: "AMvB"
@@ -92,7 +92,7 @@ Indien bij het vervoer van gevaarlijke stoffen met een voertuig voor het kruisen
 
 - e. met munitie behorend bij toestellen voor beroepsdoeleinden die geschikt zijn om projectielen af te schieten, voor zover gebruikt ten behoeve van beroep of onderneming, in een hoeveelheid van ten hoogste 10 000 stuks munitie onderscheidenlijk drie kilogram ontplofbare stof;
 
-- f. door landbouwondernemers of hun personeel voor het vervoer van gewasbeschermingsmiddelen of biociden, voor zover daarover krachtens [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008080&paragraaf=1&artikel=2&z=2007-10-17&g=2007-10-17) voorschriften zijn gegeven, tussen hun landbouwbedrijf en daarbij behorende landbouwgronden via de redelijkerwijs kortste of snelste route;
+- f. door landbouwondernemers of hun personeel voor het vervoer van gewasbeschermingsmiddelen of biociden, voor zover daarover krachtens [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008080&paragraaf=1&artikel=2&z=2007-11-23&g=2007-11-23) voorschriften zijn gegeven, tussen hun landbouwbedrijf en daarbij behorende landbouwgronden via de redelijkerwijs kortste of snelste route;
 
 - g. anders dan ten behoeve van beroep of onderneming, met gevaarlijke stoffen die geschikt en bestemd zijn voor eigen huishoudelijk gebruik, in hoeveelheden die daarmee redelijkerwijs in overeenstemming zijn; of
 
@@ -102,7 +102,7 @@ Indien bij het vervoer van gevaarlijke stoffen met een voertuig voor het kruisen
 
 - a. munitie voor noodsignaalmiddelen als bedoeld in artikel 8 van het Besluit wapens en munitie; of
 
-- b. reddingmiddelen en voorzieningen als bedoeld in [bijlage XIA van het Schepenbesluit 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=XIA);
+- b. de bij of krachtens de [Schepenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001876) voorgeschreven reddingsmiddelen en voorzieningen;
 
 aan boord van het vaartuig tot de uitrusting waarvan zij redelijkerwijs behoren.
 
@@ -124,7 +124,7 @@ aan boord van het vaartuig tot de uitrusting waarvan zij redelijkerwijs behoren.
 
 - 6°. de verpakkingen, of
 
-- 7°. de melding voorafgaande aan het verrichten van een handeling als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008080&paragraaf=1&artikel=2&z=2007-10-17&g=2007-10-17).
+- 7°. de melding voorafgaande aan het verrichten van een handeling als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008080&paragraaf=1&artikel=2&z=2007-11-23&g=2007-11-23).
 
 4. De in het eerste, tweede en derde lid bedoelde handelingen zijn uitsluitend toegestaan, indien op een wijze die in overeenstemming is met de gevaarzetting van de desbetreffende gevaarlijke stof:
 
