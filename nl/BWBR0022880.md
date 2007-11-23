@@ -63,13 +63,3 @@ Deze regeling wordt aangehaald als: Regeling onderschepping luchtvaartuigen.
 Ligt ter inzage bij Ministerie van Verkeer en Waterstaat en bij de Inspectie Verkeer en Waterstaat.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst. De bijlage bij deze regeling ligt ter visie bij Ministerie van Verkeer en Waterstaat en bij de Inspectie Verkeer en Waterstaat.
-
-##### Artikel 1a
-
-Deze regeling berust op [artikel 25 van het Besluit luchtverkeer 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=25).
-
-## Bijlage
-
-Ligt ter inzage bij Ministerie van Verkeer en Waterstaat en bij de Inspectie Verkeer en Waterstaat.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst. De bijlage bij deze regeling ligt ter visie bij Ministerie van Verkeer en Waterstaat en bij de Inspectie Verkeer en Waterstaat.
