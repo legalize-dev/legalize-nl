@@ -4,7 +4,7 @@ identifier: "BWBR0015740"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2007-11-25"
-last_updated: "2007-07-15"
+last_updated: "2007-11-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0015740"
 soort: "ministeriele-regeling"
@@ -89,23 +89,23 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3
 
-1. Aanvragen tot verlening van een subsidie als bedoeld in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0015740&paragraaf=2&artikel=2&z=2007-07-15&g=2007-07-15), kunnen door verzekeraars worden ingediend in de periode van 15 oktober 2007 tot en met 26 oktober 2007.
+1. Aanvragen tot verlening van een subsidie als bedoeld in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0015740&paragraaf=2&artikel=2&z=2007-11-25&g=2007-11-25), kunnen door verzekeraars worden ingediend in de periode van 7 april 2008 tot en met 25 april 2008.
 
-2. Aanvragen tot verlening van een subsidie als bedoeld in [artikel 2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0015740&paragraaf=2&artikel=2&z=2007-07-15&g=2007-07-15), kunnen door verzekeraars worden ingediend in de periode van 15 oktober 2007 tot en met 26 oktober 2007.
+2. Aanvragen tot verlening van een subsidie als bedoeld in [artikel 2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0015740&paragraaf=2&artikel=2&z=2007-11-25&g=2007-11-25), kunnen door verzekeraars worden ingediend in de periode van 7 april 2008 tot en met 25 april 2008.
 
 #### § 3. Voorwaarden subsidie
 
 ##### Artikel 4
 
-1. De subsidie, bedoeld in [artikel 2, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0015740&paragraaf=2&artikel=2&z=2007-07-15&g=2007-07-15) wordt slechts verleend indien de verzekering voldoet aan elk van de navolgende voorwaarden:
+1. De subsidie, bedoeld in [artikel 2, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0015740&paragraaf=2&artikel=2&z=2007-11-25&g=2007-11-25) wordt slechts verleend indien de verzekering voldoet aan elk van de navolgende voorwaarden:
 
 - a. de schadeverzekeringen bieden dekking voor in Nederland optredende schade aan gewassen als gevolg van zware regenval;
 
 - b. de verzekeringsovereenkomst, genoemd in onderdeel a, is aangegaan voor een periode van ten minste 12 maanden;
 
-- c. de risicofactor, bedoeld in [artikel 1, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0015740&paragraaf=1&artikel=1&z=2007-07-15&g=2007-07-15), bedraagt ten hoogste 0,22654;
+- c. de risicofactor, bedoeld in [artikel 1, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0015740&paragraaf=1&artikel=1&z=2007-11-25&g=2007-11-25), bedraagt ten hoogste 0,22654;
 
-- d. de minimumverzekeringspremie, bedoeld in [artikel 1, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0015740&paragraaf=1&artikel=1&z=2007-07-15&g=2007-07-15), bedraagt 2,2‰.
+- d. de minimumverzekeringspremie, bedoeld in [artikel 1, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0015740&paragraaf=1&artikel=1&z=2007-11-25&g=2007-11-25), bedraagt 2,2‰.
 
 - e. de schade waarvoor de verzekering dekking biedt bedraagt:
 
@@ -117,39 +117,39 @@ In deze regeling wordt verstaan onder:
 
 - –. het percentage van de productieverliezen in het eerste jaar, vermenigvuldigd met het aantal jaren waarin productieverliezen optreden, bedraagt ten minste 25% van de normale opbrengst.
 
-2. De subsidie, bedoeld in [artikel 2, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0015740&paragraaf=2&artikel=2&z=2007-07-15&g=2007-07-15), wordt slechts verleend indien de verzekering voldoet aan elk van de navolgende voorwaarden:
+2. De subsidie, bedoeld in [artikel 2, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0015740&paragraaf=2&artikel=2&z=2007-11-25&g=2007-11-25), wordt slechts verleend indien de verzekering voldoet aan elk van de navolgende voorwaarden:
 
 - a. de schadeverzekeringen bieden dekking voor in Nederland optredende schade aan gewassen van MKB-ondernemingen in de fruitteeltsector als gevolg van extreme vorst;
 
-- b. de risicofactor, bedoeld in [artikel 1, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0015740&paragraaf=1&artikel=1&z=2007-07-15&g=2007-07-15), bedraagt ten hoogste 0,082;
+- b. de risicofactor, bedoeld in [artikel 1, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0015740&paragraaf=1&artikel=1&z=2007-11-25&g=2007-11-25), bedraagt ten hoogste 0,082;
 
-- c. de minimumverzekeringspremie, bedoeld in [artikel 1, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0015740&paragraaf=1&artikel=1&z=2007-07-15&g=2007-07-15), bedraagt 1,25‰;
+- c. de minimumverzekeringspremie, bedoeld in [artikel 1, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0015740&paragraaf=1&artikel=1&z=2007-11-25&g=2007-11-25), bedraagt 1,25‰;
 
 - d. de voorwaarden, bedoeld in het eerste lid, onder b en e.
 
 ##### Artikel 5
 
-1. De subsidie, bedoeld in [artikel 2, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0015740&paragraaf=2&artikel=2&z=2007-07-15&g=2007-07-15), wordt slechts verleend indien en voorzover de financiële verplichtingen van de verzekeraar het bedrag van € 46.500.000,– overschrijden bij de verzekerde waarde, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015740&paragraaf=4&artikel=7&z=2007-07-15&g=2007-07-15), met dien verstande dat dit bedrag rechtevenredig afneemt met de eventuele afname van de door de verzekeraar totale verzekerde waarde.
+1. De subsidie, bedoeld in [artikel 2, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0015740&paragraaf=2&artikel=2&z=2007-11-25&g=2007-11-25), wordt slechts verleend indien en voorzover de financiële verplichtingen van de verzekeraar het bedrag van € 46.500.000,– overschrijden bij de verzekerde waarde, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015740&paragraaf=4&artikel=7&z=2007-11-25&g=2007-11-25), met dien verstande dat dit bedrag rechtevenredig afneemt met de eventuele afname van de door de verzekeraar totale verzekerde waarde.
 
-2. De subsidie, bedoeld in [artikel 2, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0015740&paragraaf=2&artikel=2&z=2007-07-15&g=2007-07-15), wordt slechts verleend voorzover de financiële verplichtingen van de verzekeraar het bedrag van € 6.677.400,– overschrijden bij de verzekerde waarde, bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015740&paragraaf=4&artikel=7&z=2007-07-15&g=2007-07-15), met dien verstande dat dit bedrag rechtevenredig afneemt met de eventuele afname van de door de verzekeraar totale verzekerde waarde.
+2. De subsidie, bedoeld in [artikel 2, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0015740&paragraaf=2&artikel=2&z=2007-11-25&g=2007-11-25), wordt slechts verleend voorzover de financiële verplichtingen van de verzekeraar het bedrag van € 6.677.400,– overschrijden bij de verzekerde waarde, bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015740&paragraaf=4&artikel=7&z=2007-11-25&g=2007-11-25), met dien verstande dat dit bedrag rechtevenredig afneemt met de eventuele afname van de door de verzekeraar totale verzekerde waarde.
 
 #### § 4. Omvang subsidie
 
 ##### Artikel 6
 
-De subsidie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0015740&paragraaf=2&artikel=2&z=2007-07-15&g=2007-07-15) bedraagt na de omrekening van de garantie tot een subsidie-equivalent als bedoeld in [artikel 1, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0015740&paragraaf=1&artikel=1&z=2007-07-15&g=2007-07-15), maximaal 50% van het bedrag dat verzekeringsnemers in een verzekeringsperiode van één jaar in totaal aan premies aan de verzekeraar zijn verschuldigd.
+De subsidie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0015740&paragraaf=2&artikel=2&z=2007-11-25&g=2007-11-25) bedraagt na de omrekening van de garantie tot een subsidie-equivalent als bedoeld in [artikel 1, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0015740&paragraaf=1&artikel=1&z=2007-11-25&g=2007-11-25), maximaal 50% van het bedrag dat verzekeringsnemers in een verzekeringsperiode van één jaar in totaal aan premies aan de verzekeraar zijn verschuldigd.
 
 ##### Artikel 7
 
-1. Het subsidieplafond van de subsidie, bedoeld in [artikel 2, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0015740&paragraaf=2&artikel=2&z=2007-07-15&g=2007-07-15), bedraagt € 46.500.000,– bij een maximale verzekerde waarde van € 3.255.000.000,– met dien verstande dat dit bedrag rechtevenredig afneemt met de eventuele afname van de totale verzekerde waarde.
+1. Het subsidieplafond van de subsidie, bedoeld in [artikel 2, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0015740&paragraaf=2&artikel=2&z=2007-11-25&g=2007-11-25), bedraagt € 46.500.000,– bij een maximale verzekerde waarde van € 3.255.000.000,– met dien verstande dat dit bedrag rechtevenredig afneemt met de eventuele afname van de totale verzekerde waarde.
 
-2. Het subsidieplafond van de subsidie, bedoeld in [artikel 2, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0015740&paragraaf=2&artikel=2&z=2007-07-15&g=2007-07-15), bedraagt € 14.250.000,– bij een maximale verzekerde waarde van € 762.600.000,– met dien verstande dat dit bedrag rechtevenredig afneemt met de eventuele afname van de totale verzekerde waarde.
+2. Het subsidieplafond van de subsidie, bedoeld in [artikel 2, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0015740&paragraaf=2&artikel=2&z=2007-11-25&g=2007-11-25), bedraagt € 14.250.000,– bij een maximale verzekerde waarde van € 762.600.000,– met dien verstande dat dit bedrag rechtevenredig afneemt met de eventuele afname van de totale verzekerde waarde.
 
 3. De minister kan de hoogte van het subsidieplafond en de daarbij behorende maximale verzekerde waarde, bedoeld in het eerste en tweede lid, wijzigen indien inflatiegegevens daartoe aanleiding geven.
 
 ##### Artikel 8
 
-De minister kan bepalen dat indien met de door alle verzekeraars afgesloten verzekeringspolissen de maximale verzekerde waarde, bedoeld in [artikel 7, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015740&paragraaf=4&artikel=7&z=2007-07-15&g=2007-07-15), is bereikt, de garantieovereenkomst slechts betrekking heeft op de verzekerde waarde die op dat tijdstip door de afgesloten verzekeringspolissen wordt vertegenwoordigd.
+De minister kan bepalen dat indien met de door alle verzekeraars afgesloten verzekeringspolissen de maximale verzekerde waarde, bedoeld in [artikel 7, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015740&paragraaf=4&artikel=7&z=2007-11-25&g=2007-11-25), is bereikt, de garantieovereenkomst slechts betrekking heeft op de verzekerde waarde die op dat tijdstip door de afgesloten verzekeringspolissen wordt vertegenwoordigd.
 
 #### § 5. Aanvraag subsidieverlening
 
@@ -159,7 +159,7 @@ De minister kan bepalen dat indien met de door alle verzekeraars afgesloten verz
 
 2. De aanvraag, bedoeld in het eerste lid, gaat vergezeld van:
 
-- a. documenten waaruit genoegzaam blijkt dat de aanvrager een verzekeraar is als bedoeld in [artikel 1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0015740&paragraaf=1&artikel=1&z=2007-07-15&g=2007-07-15);
+- a. documenten waaruit genoegzaam blijkt dat de aanvrager een verzekeraar is als bedoeld in [artikel 1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0015740&paragraaf=1&artikel=1&z=2007-11-25&g=2007-11-25);
 
 - b. de polisvoorwaarden;
 
@@ -171,13 +171,13 @@ De minister kan bepalen dat indien met de door alle verzekeraars afgesloten verz
 
 - f. de geschatte te verzekeren waarde.
 
-3. Alvorens een besluit tot subsidieverlening als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0015740&paragraaf=8&artikel=12&z=2007-07-15&g=2007-07-15) wordt genomen, sluit de verzekeraar met de Staat een garantieovereenkomst af.
+3. Alvorens een besluit tot subsidieverlening als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0015740&paragraaf=8&artikel=12&z=2007-11-25&g=2007-11-25) wordt genomen, sluit de verzekeraar met de Staat een garantieovereenkomst af.
 
 #### § 6. Garantieovereenkomst
 
 ##### Artikel 10
 
-1. De garantieovereenkomst, bedoeld in het [artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015740&paragraaf=5&artikel=9&z=2007-07-15&g=2007-07-15), bevat in ieder geval de volgende elementen:
+1. De garantieovereenkomst, bedoeld in het [artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015740&paragraaf=5&artikel=9&z=2007-11-25&g=2007-11-25), bevat in ieder geval de volgende elementen:
 
 - a. een procedure voor het inroepen van de garantie;
 
@@ -187,7 +187,7 @@ De minister kan bepalen dat indien met de door alle verzekeraars afgesloten verz
 
 - d. een procedure voor het nemen van incassomaatregelen en het treffen van maatregelen ter beperking van de schade;
 
-- e. de bepaling dat de verzekeraar voor de subsidie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0015740&paragraaf=2&artikel=2&z=2007-07-15&g=2007-07-15) aan de Staat een in de garantieovereenkomst nader te bepalen percentage van de door de verzekeraar totale verzekerde waarde is verschuldigd;
+- e. de bepaling dat de verzekeraar voor de subsidie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0015740&paragraaf=2&artikel=2&z=2007-11-25&g=2007-11-25) aan de Staat een in de garantieovereenkomst nader te bepalen percentage van de door de verzekeraar totale verzekerde waarde is verschuldigd;
 
 - f. de bepaling dat de verzekeraar van de verzekeringnemers een vergoeding van administratiekosten zal verlangen en de vaststelling van de hoogte daarvan;
 
@@ -223,23 +223,23 @@ De minister kan bepalen dat indien met de door alle verzekeraars afgesloten verz
 
 4. Indien in een jaar een stijging van de totale verzekerde waarde van meer dan 10% ten opzichte van de door een verzekeraar totale verzekerde waarde van het voorafgaande jaar wordt bereikt, stelt die verzekeraar Dienst Regelingen hiervan binnen één maand nadien in kennis.
 
-5. Indien wijziging optreedt in bij de aanvraag van de subsidie verstrekte gegevens, bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015740&paragraaf=5&artikel=9&z=2007-07-15&g=2007-07-15), stelt de verzekeraar Dienst Regelingen hiervan binnen één maand in kennis.
+5. Indien wijziging optreedt in bij de aanvraag van de subsidie verstrekte gegevens, bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015740&paragraaf=5&artikel=9&z=2007-11-25&g=2007-11-25), stelt de verzekeraar Dienst Regelingen hiervan binnen één maand in kennis.
 
 #### § 8. Subsidieverlening
 
 ##### Artikel 12
 
-1. Binnen één maand na afloop van de periode, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0015740&paragraaf=2&artikel=3&z=2007-07-15&g=2007-07-15), neemt de minister een besluit op de aanvragen.
+1. Binnen één maand na afloop van de periode, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0015740&paragraaf=2&artikel=3&z=2007-11-25&g=2007-11-25), neemt de minister een besluit op de aanvragen.
 
 2. De besluiten, bedoeld in het eerste lid worden aan alle aanvragers op hetzelfde moment meegedeeld.
 
 3. Indien de termijn, bedoeld in het eerste lid, niet kan worden gehaald, stelt de minister de aanvragers daarvan in kennis en noemt hij daarbij een redelijke termijn waarop de beschikkingen tegemoet kunnen worden gezien.
 
-4. De subsidie wordt verleend voor de totale door de verzekeraar verzekerde waarde, mits de maximale verzekerde waarde, bedoeld in [artikel 7, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015740&paragraaf=4&artikel=7&z=2007-07-15&g=2007-07-15), niet wordt overschreden en de verzekeraar voldoet aan de eisen van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0015740&paragraaf=7&artikel=11&z=2007-07-15&g=2007-07-15).
+4. De subsidie wordt verleend voor de totale door de verzekeraar verzekerde waarde, mits de maximale verzekerde waarde, bedoeld in [artikel 7, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015740&paragraaf=4&artikel=7&z=2007-11-25&g=2007-11-25), niet wordt overschreden en de verzekeraar voldoet aan de eisen van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0015740&paragraaf=7&artikel=11&z=2007-11-25&g=2007-11-25).
 
 ##### Artikel 13
 
-1. Op verzoek van de verzekeraar, ingediend overeenkomstig de procedure, bedoeld in [artikel 10, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0015740&paragraaf=6&artikel=10&z=2007-07-15&g=2007-07-15), besluit de minister tot uitbetaling van een voorschot ten bedrage van 100% van het subsidiebedrag voor de daadwerkelijk geleden schade, indien is voldaan aan de financiële vereisten van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0015740&paragraaf=3&artikel=5&z=2007-07-15&g=2007-07-15).
+1. Op verzoek van de verzekeraar, ingediend overeenkomstig de procedure, bedoeld in [artikel 10, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0015740&paragraaf=6&artikel=10&z=2007-11-25&g=2007-11-25), besluit de minister tot uitbetaling van een voorschot ten bedrage van 100% van het subsidiebedrag voor de daadwerkelijk geleden schade, indien is voldaan aan de financiële vereisten van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0015740&paragraaf=3&artikel=5&z=2007-11-25&g=2007-11-25).
 
 2. De verzekeraar vergoedt de daadwerkelijk geleden schade als bedoeld in het eerste lid binnen vier jaar na de betrokken gebeurtenis.
 
@@ -251,15 +251,15 @@ De minister kan bepalen dat indien met de door alle verzekeraars afgesloten verz
 
 - a. de overeenkomsten van een schadeverzekering betrekking hebben op dezelfde risico’s als overeenkomsten van schadeverzekering waarvoor voor hetzelfde of een vergelijkbaar risico vanwege de staat, een ander overheidsorgaan of de Europese Gemeenschap een subsidie is verleend;
 
-- b. uit de verantwoording, bedoeld in [artikel 9, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0015740&paragraaf=5&artikel=9&z=2007-07-15&g=2007-07-15), niet blijkt dat de verstrekte subsidie naar redelijkheid in de hoogte van de verzekeringspremie is verdisconteerd.
+- b. uit de verantwoording, bedoeld in [artikel 9, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0015740&paragraaf=5&artikel=9&z=2007-11-25&g=2007-11-25), niet blijkt dat de verstrekte subsidie naar redelijkheid in de hoogte van de verzekeringspremie is verdisconteerd.
 
 2. De subsidie wordt gewijzigd of ingetrokken indien:
 
-- a. uit de informatie, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0015740&paragraaf=7&artikel=11&z=2007-07-15&g=2007-07-15) blijkt dat de verzekeraar bij de aanvraag niet op een behoorlijke wijze rekening en verantwoording heeft afgelegd omtrent de afgesloten of af te sluiten verzekeringsovereenkomsten en de terzake verschuldigde premies, voor zover deze voor de vaststelling van de subsidie van belang zijn;
+- a. uit de informatie, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0015740&paragraaf=7&artikel=11&z=2007-11-25&g=2007-11-25) blijkt dat de verzekeraar bij de aanvraag niet op een behoorlijke wijze rekening en verantwoording heeft afgelegd omtrent de afgesloten of af te sluiten verzekeringsovereenkomsten en de terzake verschuldigde premies, voor zover deze voor de vaststelling van de subsidie van belang zijn;
 
-- b. uit de informatie, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0015740&paragraaf=7&artikel=11&z=2007-07-15&g=2007-07-15) blijkt dat de verzekeraar onjuiste of onvolledige gegevens heeft verstrekt en de verstrekking van juiste of volledige gegevens tot een andere beschikking op de aanvraag tot subsidieverlening zou hebben geleid;
+- b. uit de informatie, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0015740&paragraaf=7&artikel=11&z=2007-11-25&g=2007-11-25) blijkt dat de verzekeraar onjuiste of onvolledige gegevens heeft verstrekt en de verstrekking van juiste of volledige gegevens tot een andere beschikking op de aanvraag tot subsidieverlening zou hebben geleid;
 
-- c. uit de resultaten van de evaluatie, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0015740&paragraaf=10&artikel=15&z=2007-07-15&g=2007-07-15) blijkt dat de garantie naar het oordeel van de minister in redelijkheid niet langer in verhouding staat tot de verzekerde waarde en de daarmee samenhangende financiële verplichtingen van de verzekeraar voortvloeiende uit de overeenkomsten van schadeverzekering ter dekking van schade, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0015740&paragraaf=3&artikel=4&z=2007-07-15&g=2007-07-15).
+- c. uit de resultaten van de evaluatie, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0015740&paragraaf=10&artikel=15&z=2007-11-25&g=2007-11-25) blijkt dat de garantie naar het oordeel van de minister in redelijkheid niet langer in verhouding staat tot de verzekerde waarde en de daarmee samenhangende financiële verplichtingen van de verzekeraar voortvloeiende uit de overeenkomsten van schadeverzekering ter dekking van schade, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0015740&paragraaf=3&artikel=4&z=2007-11-25&g=2007-11-25).
 
 #### § 10. Evaluatie
 
@@ -297,13 +297,13 @@ De minister kan bepalen dat indien met de door alle verzekeraars afgesloten verz
 
 - b. een opgaaf van het aantal afgesloten verzekeringsovereenkomsten gedurende de periode waarop de garantieovereenkomst van toepassing is;
 
-- c. een verklaring overeenkomstig het in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0015740&bijlage=I&z=2007-07-15&g=2007-07-15) vastgesteld model van een accountant of een accountant-administratieconsulent als bedoeld in [artikel 2:393, eerste lid, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393), waaruit blijkt dat is voldaan aan de in deze regeling gestelde voorwaarden en verplichtingen. De accountant of accountant-administratieconsulent controleert met inachtneming van het in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0015740&bijlage=II&z=2007-07-15&g=2007-07-15) bij deze regeling opgenomen controleprotocol;
+- c. een verklaring overeenkomstig het in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0015740&bijlage=I&z=2007-11-25&g=2007-11-25) vastgesteld model van een accountant of een accountant-administratieconsulent als bedoeld in [artikel 2:393, eerste lid, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393), waaruit blijkt dat is voldaan aan de in deze regeling gestelde voorwaarden en verplichtingen. De accountant of accountant-administratieconsulent controleert met inachtneming van het in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0015740&bijlage=II&z=2007-11-25&g=2007-11-25) bij deze regeling opgenomen controleprotocol;
 
 - d. een totaaloverzicht van de op grond van de afgesloten verzekeringsovereenkomsten uitgekeerde schadevergoedingen over de periode waarop de garantieovereenkomst van toepassing is.
 
 ##### Artikel 17
 
-De minister stelt, in overeenstemming met de Minister van Financiën, na ontvangst van de in [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015740&paragraaf=11&artikel=16&z=2007-07-15&g=2007-07-15), bedoelde bescheiden, de subsidie vast.
+De minister stelt, in overeenstemming met de Minister van Financiën, na ontvangst van de in [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015740&paragraaf=11&artikel=16&z=2007-11-25&g=2007-11-25), bedoelde bescheiden, de subsidie vast.
 
 #### § 12. Overige bepalingen
 
@@ -323,7 +323,7 @@ Deze regeling wordt aangehaald als: Subsidieregeling nieuwe agrarische schadever
 
 Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-## Bijlage I. Tekst accountantsverklaring, als bedoeld in [artikel 16, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0015740&paragraaf=11&artikel=16&z=2007-07-15&g=2007-07-15)
+## Bijlage I. Tekst accountantsverklaring, als bedoeld in [artikel 16, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0015740&paragraaf=11&artikel=16&z=2007-11-25&g=2007-11-25)
 
 Wij hebben de bijgevoegde opgaaf van de premie inzake agrarische schadeverzekeringen over de periode van ... tot ... met betrekking tot de subsidieverlening in het kader van de Subsidieregeling nieuwe agrarische schadeverzekeringen van ... (naam instelling) te ... (zetel) gecontroleerd. De opgaaf van de premie is opgesteld onder verantwoordelijkheid van ... (de leiding van naam instelling). Het is onze verantwoordelijkheid een accountantsverklaring inzake de opgaaf van de premie te verstrekken.
 
@@ -351,9 +351,9 @@ Postcode en woonplaats: ...
 
 Telefoon: ...
 
-## Bijlage II. Controleprotocol als bedoeld in [artikel 16, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0015740&paragraaf=11&artikel=16&z=2007-07-15&g=2007-07-15)
+## Bijlage II. Controleprotocol als bedoeld in [artikel 16, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0015740&paragraaf=11&artikel=16&z=2007-11-25&g=2007-11-25)
 
-Bij de controle, op basis waarvan de rapportage bedoeld in het [tweede lid van artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0015740&paragraaf=11&artikel=16&z=2007-07-15&g=2007-07-15) plaatsvindt, dient aan de naleving van de volgende artikelen op de daarbij aangegeven wijze aandacht te worden besteed.
+Bij de controle, op basis waarvan de rapportage bedoeld in het [tweede lid van artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0015740&paragraaf=11&artikel=16&z=2007-11-25&g=2007-11-25) plaatsvindt, dient aan de naleving van de volgende artikelen op de daarbij aangegeven wijze aandacht te worden besteed.
 
 | Artikel | Soort aandacht |
 | --- | --- |
@@ -364,7 +364,7 @@ Bij de controle, op basis waarvan de rapportage bedoeld in het [tweede lid van a
 
 Vaststellen dat:
 
-- –. het premie-inkomen opgenomen in de opgaaf van de premies betrekking heeft op verzekeringsovereenkomsten voor de categorie van schades zoals omschreven in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0015740&paragraaf=3&artikel=4&z=2007-07-15&g=2007-07-15).
+- –. het premie-inkomen opgenomen in de opgaaf van de premies betrekking heeft op verzekeringsovereenkomsten voor de categorie van schades zoals omschreven in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0015740&paragraaf=3&artikel=4&z=2007-11-25&g=2007-11-25).
 
 - –. de verzekerde schade en de optredende productieverliezen in Nederland optreden;
 
@@ -372,7 +372,7 @@ Vaststellen dat:
 
 - –. De subsidieontvanger niet reeds voor hetzelfde of een vergelijkbaar risico vanwege de staat, een andere overheidsorgaan of de Europese Gemeenschap een subsidie is verleend.
 
-Vaststellen dat de subsidieontvanger de subsidie alleen heeft gebruikt voor de overeenkomsten van schadeverzekering die passen binnen de nadere voorwaarden, die door de minister op grond van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0015740&paragraaf=3&artikel=5&z=2007-07-15&g=2007-07-15) heeft bepaald.
+Vaststellen dat de subsidieontvanger de subsidie alleen heeft gebruikt voor de overeenkomsten van schadeverzekering die passen binnen de nadere voorwaarden, die door de minister op grond van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0015740&paragraaf=3&artikel=5&z=2007-11-25&g=2007-11-25) heeft bepaald.
 
 Onder normale aandacht wordt verstaan:
 
