@@ -300,31 +300,3 @@ De artikelen van deze wet treden in werking op een bij koninklijk besluit te bep
 Deze wet wordt aangehaald als: Wet algemene bepalingen burgerservicenummer.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 1a
-
-1. Deze wet en de daarop berustende bepalingen zijn mede van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba.
-
-2. In afwijking van het eerste lid is [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&hoofdstuk=4&paragraaf=1&artikel=13&z=2025-11-11&g=2025-11-11) eerst van toepassing met ingang van een bij Koninklijk Besluit te bepalen tijdstip.
-
-### Hoofdstuk 2. Nummerbeheer
-
-#### Paragraaf 1. De beheervoorziening
-
-#### Paragraaf 2. Het nummerregister
-
-### Hoofdstuk 3. Aanmaken en toekennen van burgerservicenummers
-
-### Hoofdstuk 4. Algemene bepalingen betreffende het gebruik van het burgerservicenummer en de beheervoorziening
-
-#### Paragraaf 1. Het gebruik van het burgerservicenummer
-
-#### Paragraaf 2. Het verstrekken van inlichtingen aan gebruikers
-
-#### Paragraaf 3. Sectorale berichtenvoorzieningen
-
-### Hoofdstuk 5. Bescherming van persoonsgegevens, toezicht en controle
-
-### Hoofdstuk 6. Overgangs- en slotbepalingen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
