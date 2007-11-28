@@ -4,7 +4,7 @@ identifier: "BWBR0002841"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-01-21"
-last_updated: "2007-01-01"
+last_updated: "2007-11-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002841"
 soort: "AMvB"
@@ -60,15 +60,17 @@ Voor de toepassing van het bij of krachtens dit besluit bepaalde wordt verstaan 
 
 - b. **glasartikelen:** voor de handel bestemde of in de handel gebrachte, geheel of hoofdzakelijk uit glas bestaande artikelen, bestemd voor tafel-, keuken-, toilet- of kantoorgebruik, dan wel voor versiering van het inwendige van woningen of gebouwen, met uitzondering van: kralen, onechte parels, onecht koraal, en dergelijk klein glaswerk, afzonderlijk of aaneengeregen tot gordijnen of samengevoegd tot artikelen met een decoratieve bestemming, blokjes, plaatjes en schilfers voor mozaïek of voor dergelijke decoratieve doeleinden, met de blaaslamp vervaardigde fantasievoorwerpen, ramen, glasplaten, glas-in-lood, spiegels, verlichtingsartikelen, stolpen of kastjes voor klokken, meubelen en delen daarvan, kerstartikelen en antiquiteiten;
 
-- c. **verpakking:** een verpakking, bestemd of geschikt om met de inhoud aan de gebruiker te worden afgeleverd.
+- c. **verpakking:** een verpakking, bestemd of geschikt om met de inhoud aan de gebruiker te worden afgeleverd;
+
+- d. richtlijn 1969/493/EEG: richtlijn nr. 69/493/EEG van de Raad van de Europese Gemeenschappen van 15 december 1969 voor de onderlinge aanpassing der wetgevingen van de Lid-Staten inzake kristalglas (PbEG L 326).
 
 ##### Artikel 2
 
 Aangeduid mag uitsluitend worden:
 
-- a. met een der benamingen: **volloodkristal 30%, cristal supérieur 30%, cristallo superiore 30%, Hochbleikristall 30%, full lead crystal 30%** of **krystal 30%:** het glasartikel, vervaardigd uit glas dat tenminste 30% loodoxyde bevat en waarvan de volumieke massa tenminste 3000 kg/m3 en de brekingsindex tenminste 1,545 bedragen;
+- a. met de benaming volloodkristal 30% of een der andere benamingen genoemd bij nummer 1 van kolom b, van bijlage I van richtlijn 1969/493/EEG: het glasartikel, vervaardigd uit glas dat tenminste 30% loodoxyde bevat en waarvan de volumieke massa tenminste 3000 kg/m3 en de brekingsindex tenminste 1,545 bedragen;
 
-- b. met een der benamingen: **loodkristal 24%, cristal au plomb 24%, cristallo al piombo 24%, Bleikristall 24%, lead crystal 24%** of **krystal 24%:** het glasartikel, vervaardigd uit glas dat niet voldoet aan het onder **a** bepaalde en tenminste 24% loodoxyde bevat en waarvan de volumieke massa tenminste 2900 kg/m3 en de brekingsindex tenminste 1,545 bedragen;
+- b. met de benaming loodkristal 24% of een der andere benamingen genoemd bij nummer 2 van kolom b, van bijlage I van richtlijn 1969/493/EEG: het glasartikel, vervaardigd uit glas dat niet voldoet aan het onder a bepaalde en tenminste 24% loodoxyde bevat en waarvan de volumieke massa tenminste 2900 kg/m3 en de brekingsindex tenminste 1,545 bedragen;
 
 - c. met de benaming: **sonoorglas**, het glasartikel, vervaardigd uit glas dat niet voldoet aan het bepaalde onder **a** en **b** en:
 
@@ -78,21 +80,21 @@ Aangeduid mag uitsluitend worden:
 
 ##### Artikel 3
 
-1. Glasartikelen mogen niet worden aangeduid met de symbolen van een cirkel, vierkant of gelijkzijdige driehoek zonder vermelding, bij het symbool, van een der bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002841&artikel=2&z=1998-04-01&g=2007-01-01) toegelaten benamingen.
+1. Glasartikelen mogen niet worden aangeduid met de symbolen van een cirkel, vierkant of gelijkzijdige driehoek zonder vermelding, bij het symbool, van een der bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002841&artikel=2&z=2007-11-28&g=2007-11-28) toegelaten benamingen.
 
-2. Een symbool als in het eerste lid bedoeld mag uitsluitend worden gebezigd, indien het daarmee aangeduide glasartikel is vervaardigd uit glas als omschreven in de bepaling die in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0002841&bijlage=I&z=1998-04-01&g=2007-01-01) bij het gebezigde symbool is genoemd.
+2. Een symbool als in het eerste lid bedoeld mag uitsluitend worden gebezigd, indien het daarmee aangeduide glasartikel is vervaardigd uit glas als omschreven in de bepaling die in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0002841&bijlage=I&z=2007-11-28&g=2007-11-28) bij het gebezigde symbool is genoemd.
 
-3. Indien het overeenkomstig het tweede lid gebezigde symbool aangebracht is op het glasartikel of de verpakking daarvan, moet het zijn uitgevoerd als aangegeven in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0002841&bijlage=I&z=1998-04-01&g=2007-01-01).
+3. Indien het overeenkomstig het tweede lid gebezigde symbool aangebracht is op het glasartikel of de verpakking daarvan, moet het zijn uitgevoerd als aangegeven in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0002841&bijlage=I&z=2007-11-28&g=2007-11-28).
 
 ##### Artikel 4
 
-Glasartikelen mogen niet worden aangeduid met de benaming: cristallin, verre sonore, vetro sonoro superiore, vetro sonoro, Kristallglas, Pressbleikristall, Bleikristall gepresst, kristallijnglas, crystal glass, crystallin of krystallin.
+Glasartikelen mogen niet worden aangeduid met een benaming, genoemd bij de nummers 3 en 4 van kolom b, van bijlage I van richtlijn 1969/493/EEG, met uitzondering van de benaming sonoorglas.
 
 ##### Artikel 5
 
-1. Glasartikelen waarop is aangebracht hetzij een opschrift dat niet een bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002841&artikel=2&z=1998-04-01&g=2007-01-01) toegelaten benaming is doch waarin zodanige benaming of een bij [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002841&artikel=4&z=1998-04-01&g=2007-01-01) verboden benaming voorkomt, hetzij een opschrift, dat met een bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002841&artikel=2&z=1998-04-01&g=2007-01-01) toegelaten benaming of een bij [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002841&artikel=4&z=1998-04-01&g=2007-01-01) verboden benaming kan worden verward, alsmede glasartikelen aanwezig in een verpakking waarop een zodanig opschrift is aangebracht, moeten op het glasartikel onderscheidenlijk op de verpakking daarvan tevens zijn aangeduid met:
+1. Glasartikelen waarop is aangebracht hetzij een opschrift dat niet een bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002841&artikel=2&z=2007-11-28&g=2007-11-28) toegelaten benaming is doch waarin zodanige benaming of een bij [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002841&artikel=4&z=2007-11-28&g=2007-11-28) verboden benaming voorkomt, hetzij een opschrift, dat met een bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002841&artikel=2&z=2007-11-28&g=2007-11-28) toegelaten benaming of een bij [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002841&artikel=4&z=2007-11-28&g=2007-11-28) verboden benaming kan worden verward, alsmede glasartikelen aanwezig in een verpakking waarop een zodanig opschrift is aangebracht, moeten op het glasartikel onderscheidenlijk op de verpakking daarvan tevens zijn aangeduid met:
 
-- a. de bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002841&artikel=2&z=1998-04-01&g=2007-01-01) toegelaten benaming, voor zover het glasartikel vervaardigd is uit glas als omschreven in [artikel 2, onder **a**, **b**, **c**, 1° of **c**, 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0002841&artikel=2&z=1998-04-01&g=2007-01-01);
+- a. de bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002841&artikel=2&z=2007-11-28&g=2007-11-28) toegelaten benaming, voor zover het glasartikel vervaardigd is uit glas als omschreven in [artikel 2, onder **a**, **b**, **c**, 1° of **c**, 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0002841&artikel=2&z=2007-11-28&g=2007-11-28);
 
 - b. de benaming: gewoon glas of een andere benaming, waaruit de aard van het glas, waaruit het glasartikel is vervaardigd, blijkt, voor zover het glasartikel vervaardigd is uit ander glas dan bedoeld onder **a**.
 
@@ -104,7 +106,7 @@ Aanduidingen met betrekking tot glasartikelen, welke misleidend zijn ten aanzien
 
 ##### Artikel 7
 
-Voor zover voor de beoordeling of de aanduidingen van glasartikelen overeenstemmen met de in dit besluit gestelde regelen, de aard of samenstelling van het glas moet worden vastgesteld, moet worden gebruik gemaakt van de methoden van onderzoek, aangegeven in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0002841&bijlage=II&z=1998-04-01&g=2007-01-01) van dit besluit, voor zover deze daartoe toereikend zijn.
+Voor zover voor de beoordeling of de aanduidingen van glasartikelen overeenstemmen met de in dit besluit gestelde regelen, de aard of samenstelling van het glas moet worden vastgesteld, moet worden gebruik gemaakt van de methoden van onderzoek, aangegeven in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0002841&bijlage=II&z=2007-11-28&g=2007-11-28) van dit besluit, voor zover deze daartoe toereikend zijn.
 
 ##### Artikel 8
 
@@ -186,7 +188,7 @@ Onze Minister van Volksgezondheid en Milieuhygiëne is belast met de uitvoering 
 
 ##### Artikel 7a
 
-Een wijziging van bijlage I van richtlijn 1969/493/EEG gaat voor de toepassing van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002841&artikel=2&z=2007-11-28&g=2007-01-01) en [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002841&artikel=4&z=2007-11-28&g=2007-01-01) gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.
+Een wijziging van bijlage I van richtlijn 1969/493/EEG gaat voor de toepassing van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002841&artikel=2&z=2007-11-28&g=2007-11-28) en [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002841&artikel=4&z=2007-11-28&g=2007-11-28) gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.
 
 ## Bijlage II. behorende bij het Glasartikelenbesluit (Warenwet)
 
