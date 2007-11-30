@@ -4,7 +4,7 @@ identifier: "BWBR0012031"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-17"
-last_updated: "2007-04-11"
+last_updated: "2007-11-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012031"
 soort: "ministeriele-regeling"
@@ -646,7 +646,7 @@ Aan het in [artikel 8.14, eerste lid, onderdeel b, onder 2°, van de wet](https:
 
 Voor de toepassing van de eerste volzin behoort het kind tegelijkertijd tot het huishouden van beide ouders indien het kind doorgaans tenminste drie gehele dagen per week tot het huishouden van de belastingplichtige en voor de overige tijd doorgaans tot het huishouden van de andere ouder behoort.
 
-### Hoofdstuk 8. Heffingskorting
+### Hoofdstuk 7. Belastingheffing van buitenlandse belastingplichtigen ([hoofdstuk 7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=7))
 
 ##### Artikel 45. Termijn voor het doen van niet-verplichte aangifte
 
@@ -732,17 +732,17 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst
 
 ### Hoofdstuk 9. Wijze van heffing (hoofdstuk 9 van de wet)
 
-### Hoofdstuk 9. Wijze van heffing (hoofdstuk 9 van de wet)
+### Hoofdstuk 8. Heffingskorting
 
 ##### Artikel 45b
 
 Vóór 1 januari 2005 vastgestelde lijfrenten die niet in geldeenheden luiden:
 
-- 1. Op een lijfrente waarvan vóór 1 januari 2005 de hoogte van de termijnen in beleggingseenheden (units) met de verzekeraar is overeengekomen, blijft [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=1&artikel=2a&z=2012-01-01&g=2007-04-11) buiten toepassing en kan de lijfrente-overeenkomst worden tenuitvoergelegd zoals is overeengekomen.
+- 1. Op een lijfrente waarvan vóór 1 januari 2005 de hoogte van de termijnen in beleggingseenheden (units) met de verzekeraar is overeengekomen, blijft [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=1&artikel=2a&z=2012-01-01&g=2007-11-30) buiten toepassing en kan de lijfrente-overeenkomst worden tenuitvoergelegd zoals is overeengekomen.
 
-- 2. Indien ter zake van een lijfrente als bedoeld in het eerste lid op of na 1 januari 2005 met de verzekeraar een wijziging van methode van berekening van de termijnen in units of in euro’s wordt overeengekomen, is met ingang van de datum van die wijziging [art. 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=1&artikel=2a&z=2012-01-01&g=2007-04-11) wel van toepassing.
+- 2. Indien ter zake van een lijfrente als bedoeld in het eerste lid op of na 1 januari 2005 met de verzekeraar een wijziging van methode van berekening van de termijnen in units of in euro’s wordt overeengekomen, is met ingang van de datum van die wijziging [art. 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=1&artikel=2a&z=2012-01-01&g=2007-11-30) wel van toepassing.
 
-- 3. Indien een lijfrente als bedoeld in het eerste lid op of na 1 januari 2005 wordt omgezet in een andere lijfrente, is [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=1&artikel=2a&z=2012-01-01&g=2007-04-11) van toepassing op de laatstgenoemde lijfrente.
+- 3. Indien een lijfrente als bedoeld in het eerste lid op of na 1 januari 2005 wordt omgezet in een andere lijfrente, is [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=1&artikel=2a&z=2012-01-01&g=2007-11-30) van toepassing op de laatstgenoemde lijfrente.
 
 ### Hoofdstuk 11. Overgangs- en slotbepalingen ([hoofdstuk 11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=11))
 
@@ -788,7 +788,7 @@ Met betrekking tot het kalenderjaar 2007 wordt voor de toepassing van [artikel 3
 
 ### Hoofdstuk 10. Overgangsrecht
 
-### Hoofdstuk 11. Overgangs- en slotbepalingen ([hoofdstuk 11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=11))
+### Hoofdstuk 9. Wijze van heffing (hoofdstuk 9 van de wet)
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst
 
@@ -822,7 +822,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst
 
 - c. uit de regelgeving van de instelling en de feiten blijkt dat een natuurlijk persoon noch een rechtspersoon over het vermogen van de instelling kan beschikken als ware het zijn eigen vermogen; de inspecteur kan, zonodig onder door hem te stellen voorwaarden, toestaan dat een steunstichting en de instelling of instellingen welke door deze stichting worden ondersteund, over en weer kunnen beschikken over elkaars vermogen als ware het eigen vermogen;
 
-- d. de instelling niet meer vermogen aanhoudt dan is aangegeven in [artikel 41b](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=6&artikel=41b&z=2012-01-01&g=2007-04-11);
+- d. de instelling niet meer vermogen aanhoudt dan is aangegeven in [artikel 41b](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=6&artikel=41b&z=2012-01-01&g=2007-11-30);
 
 - e. de leden van het orgaan van de instelling dat het beleid bepaalt, ter zake van de door hen voor de instelling verrichte werkzaamheden geen andere beloning ontvangen dan een vergoeding voor gemaakte onkosten en een niet bovenmatig vacatiegeld;
 
@@ -867,6 +867,16 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst
 2. Een instelling waarop een verzoek voor een gemeenschappelijke aanwijzing betrekking heeft doch die niet voldoet aan de voorwaarden voor aanmerking als een instelling als bedoeld in [artikel 6.33, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.33), wordt niet in de gemeenschappelijke aanwijzing opgenomen.
 
 3. Een beschikking inzake een gemeenschappelijk aanwijzing kan ten aanzien van ieder van de aldus aangemerkte instellingen afzonderlijk worden ingetrokken, met ingang van het tijdstip waarop die instelling niet meer voldoet aan de voorwaarden voor aanmerking als een instelling als bedoeld in [artikel 6.33, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.33).
+
+### Hoofdstuk 10. Overgangsrecht
+
+### Hoofdstuk 11. Overgangs- en slotbepalingen ([hoofdstuk 11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=11))
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst
+
+##### Artikel 41d. Aangewezen mogendheden buiten de EU, de Nederlandse Antillen of Aruba
+
+Als mogendheid als bedoeld in [artikel 6.33, eerste lid, onderdeel b en onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.33) wordt aangewezen elke mogendheid waarmee in de relatie met Nederland voor de heffing van inkomstenbelasting, vennootschapsbelasting, successie- en schenkingsrecht zonder beperkingen of voorbehouden de uitwisseling is geregeld van gegevens, inlichtingen en gegevensdragers.
 
 ### Hoofdstuk 10. Overgangsrecht
 
