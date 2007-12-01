@@ -4,7 +4,7 @@ identifier: "BWBR0008023"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-01"
-last_updated: "2007-10-01"
+last_updated: "2007-12-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008023"
 soort: "ministeriele-regeling"
@@ -3833,7 +3833,7 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 29189 | Fluvoxamine maleaat merck tablet 50mg |   |
 |   |   |   |
 | Productgroep |   | Maximumprijs |
-| FORMOTEROL-.012-MG-INHALATIEPOEDER INCL INHALER | FORMOTEROL-.012-MG-INHALATIEPOEDER INCL INHALER | 0.43280400 per dosis |
+| FORMOTEROL-.012-MG-INHALATIEPOEDER INCL INHALER | FORMOTEROL-.012-MG-INHALATIEPOEDER INCL INHALER | 0.457194 per dosis |
 | Registratienummer | Artikelnaam |   |
 | 17158 | Foradil inhalatiepdr 12mcg + inhalator |   |
 | 21027 | Oxis turbuhaler inhalpdr 12mcg/do 60do |   |
@@ -4307,7 +4307,7 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 33157/19269 | Kaliumlosartan/hydrochloorthiaz tab omh 50/12,5mg |   |
 |   |   |   |
 | Productgroep |   | Maximumprijs |
-| HYDROCHLOROTHIAZIDE-12.5-MG-TABLET-OLMESARTAN-20-MG-TABLET | HYDROCHLOROTHIAZIDE-12.5-MG-TABLET-OLMESARTAN-20-MG-TABLET | 0.57136700 per stuk |
+| HYDROCHLOROTHIAZIDE-12.5-MG-TABLET-OLMESARTAN-20-MG-TABLET | HYDROCHLOROTHIAZIDE-12.5-MG-TABLET-OLMESARTAN-20-MG-TABLET | 0.620443 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 32740 | Olmetec hctz tablet filmomhuld 20/12,5mg |   |
 |   |   |   |
@@ -4407,7 +4407,7 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 32931/23597 | Losazid tablet omhuld 100/25mg |   |
 |   |   |   |
 | Productgroep |   | Maximumprijs |
-| HYDROCHLOROTHIAZIDE-25-MG-TABLET-OLMESARTAN-20-MG-TABLET | HYDROCHLOROTHIAZIDE-25-MG-TABLET-OLMESARTAN-20-MG-TABLET | 0.57136700 per stuk |
+| HYDROCHLOROTHIAZIDE-25-MG-TABLET-OLMESARTAN-20-MG-TABLET | HYDROCHLOROTHIAZIDE-25-MG-TABLET-OLMESARTAN-20-MG-TABLET | 0.620443 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 32741 | Olmetec hctz tablet filmomhuld 20/25mg |   |
 |   |   |   |
