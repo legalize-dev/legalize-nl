@@ -1,0 +1,125 @@
+---
+title: "Regeling tot vaststelling van de bedragen per eenheid voor de uitkering uit het gemeentefonds over het uitkeringsjaar 2005"
+identifier: "BWBR0022961"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2007-12-08"
+last_updated: "2007-12-08"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0022961"
+soort: "ministeriele-regeling"
+stam_id: "9305013"
+version_id: "14942532"
+internal_id: "C20331111"
+label_id: "9283504"
+dtd_version: "2.0"
+original_entry_into_force: "2007-12-08"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0022961/2007-12-08/0"
+intitule_bron: "Stcrt.2007-237"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2007-11-20"
+intitule_published: "2007-12-06"
+intitule_in_force: "2007-12-06"
+intitule_status: "goed"
+original_publication: "Stcrt.2007-237"
+original_signed_date: "2007-11-20"
+original_published_date: "2007-12-06"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2007-237-p8-SC83265"
+entry_into_force_date: "2007-12-08"
+jci_1_3: "jci1.3:c:BWBR0022961&z=2007-12-08&g=2007-12-08"
+jci_1_0: "1.0:c:BWBR0022961&g=2007-12-08"
+citeertitel_status: "redactioneel"
+short_title: "Regeling vaststelling bedragen per eenheid uitkering gemeentefonds uitkeringsjaar 2005"
+signed_date: "2007-11-20"
+entry_into_force: "2007-12-08"
+---
+# Regeling tot vaststelling van de bedragen per eenheid voor de uitkering uit het gemeentefonds over het uitkeringsjaar 2005
+
+Handelende in overeenstemming met de Minister van Financiën;
+
+Gelet op [artikel 9 van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=9) en [artikel 6 van de Invoeringswet Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008291&artikel=6);
+
+Stelt vast:
+
+##### Artikel 1
+
+Voor het uitkeringsjaar 2005 worden de bedragen per eenheid, bedoeld in [artikel 9 van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=9), vastgesteld overeenkomstig [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022961&bijlage=1&z=2007-12-08&g=2007-12-08) bij deze regeling.
+
+##### Artikel 2
+
+Voor het uitkeringsjaar 2005 worden de bedragen, bedoeld in [artikel 6 van de Invoeringswet Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008291&artikel=6), vastgesteld overeenkomstig [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022961&bijlage=2&z=2007-12-08&g=2007-12-08) bij deze regeling.
+
+##### Artikel 3
+
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
+
+## Bijlage 1
+
+| Nr. | Maatstaven |   |
+| --- | --- | --- |
+| 1 | OZB (per eenheid van € 2268) | –4,01 |
+| 2 | Inwoners | 140,50 |
+| 3 | Inwoners *bodemfactor buitengebied | 0,66 |
+| 4 | Jongeren | 186,15 |
+| 5 | Ouderen | 26,03 |
+| 6-a | Inwoners Waddengemeenten, eerste schijf | 188,32 |
+| 6-b | Inwoners Waddengemeenten, tweede schijf | 147,19 |
+| 6-c | Inwoners Waddengemeenten, derde schijf | 32,38 |
+| 7 | Lage inkomens | 334,86 |
+| 8 | Bijstandsontvangers | 393,39 |
+| 9 | Uitvoeringskosten bijstand | 1.096,70 |
+| 10 | Schaalfactor bijstand | 217.593,22 |
+| 11 | Uitkeringsontvangers | 144,72 |
+| 12 | Minderheden | 269,26 |
+| 13 | Klantenpotentieel lokaal | 62,20 |
+| 14 | Klantenpotentieel regionaal | 25,65 |
+| 15 | Leerlingen | 242,19 |
+| 15-a | Extra leerlingen streekscholen | 80,73 |
+| 15-b | Extra groei leerlingen VO | 145,63 |
+| 15-c | Extra groei jongeren | 104,65 |
+| 16 | Land | 33,61 |
+| 17 | Land *percentage slechte grond | 0,89 |
+| 18 | Land *bodemfactor gemeente | 21,09 |
+| 19 | Binnenwater | 29,79 |
+| 20 | Buitenwater | 23,07 |
+| 21 | Oppervlak bebouwing | 585,36 |
+| 22 | Oppervlak bebouwing woonkern *bodemfactor woonkern | 3.210,59 |
+| 23 | Oppervlak bebouwing buitengebied *bodemfactor buitengebied | 1.510,87 |
+| 24 | Woonruimten | 157,78 |
+| 25 | Woonruimten *bodemfactor woonkern | 30,87 |
+| 26 | Woonruimten *percentage slechte grond | 32,66 |
+| 27-a | Historische kernen, eerste groep | 6.700,22 |
+| 27-b | Historische kernen, tweede groep | 10.477,07 |
+| 27-c | Historische kernen, derde groep | 19.064,30 |
+| 28 | Historische waterweg | 15,11 |
+| 29 | Bewoonde oorden 1930 | 31,76 |
+| 30 | Historische woningen in bewoonde oorden | 87,37 |
+| 31-a | ISV, onderdeel a | 22.207.381,03 |
+| 31-b | ISV, onderdeel b | 12.616.890,15 |
+| 32 | Omgevingsadressendichtheid (per 1000 eenheden) | 49,15 |
+| 33 | Omgevingsadressendichtheid *percentage slechte grond | –1,02 |
+| 34 | Oeverlengte *bodemfactor gemeente | 7,50 |
+| 35 | Oeverlengte *bodemfactor gemeente *dichtheidsfactor | 3,75 |
+| 36 | Meerkernigheid | 6.261,25 |
+| 37 | Meerkernigheid *bodemfactor buitengebied | 13.220,05 |
+| 38 | Bedrijfsvestigingen | 103,39 |
+| 39 | Vast bedrag voor iedere gemeente | 231.166,68 |
+| 40 | Vast bedrag voor Amsterdam | 173.637.638,12 |
+| 41 | Vast bedrag voor Rotterdam | 116.170.126,86 |
+| 42 | Vast bedrag voor Den Haag | 86.300.675,34 |
+| 43 | Vast bedrag voor Utrecht | 40.937.809,50 |
+| 44 | Vast bedrag voor de Waddengemeenten | 149.364,26 |
+| 45-a | Herindeling, onderdeel a (basisbedrag) | 1.585.065,00 |
+| 45-b | Herindeling, onderdeel b (per inwoner) | 53,29 |
+| 46 | Omvangrijke opgave woningbouw | 481,14 |
+
+## Bijlage 2
+
+| Omschrijving | Bedragen (euro’s) |
+| --- | --- |
+| De letter D, opgenomen in de formule in [artikel 3.15.1 van het Besluit verfijningen algemene uitkering 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003674&artikel=3.15.1) (indien aansluitingen gemaakt in of na 1983) | 36,76 |
+| De letter D, opgenomen in de formule in [artikel 3.15.1 van het Besluit verfijningen algemene uitkering 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003674&artikel=3.15.1) (indien aansluitingen gemaakt in 1982) | 15,88 |
+| De letter D, opgenomen in de formule in [artikel 3.15.1 van het Besluit verfijningen algemene uitkering 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003674&artikel=3.15.1) (indien aansluitingen gemaakt in of na 1975 en vóór 1982) | 9,07 |
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
