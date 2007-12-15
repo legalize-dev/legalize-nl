@@ -4,7 +4,7 @@ identifier: "BWBR0018502"
 country: "nl"
 rank: "pbo"
 publication_date: "2007-12-15"
-last_updated: "2005-10-02"
+last_updated: "2007-12-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018502"
 soort: "pbo"
@@ -79,7 +79,7 @@ Besluit:
 
 1. De heffing die de ondernemer is verschuldigd, wordt opgelegd naar de grondslag aankoopwaarde handel over het kalenderjaar 2006.
 
-2. In afwijking van het eerste lid, wordt de heffing voor de handel in uien opgelegd over het aantal aangekochte netto kilogrammen.
+2. In afwijking van het eerste lid, wordt de heffing voor de handel in uien opgelegd over het aantal aangekochte netto kilogrammen. De heffing voor de handel ten behoeve van afzetbevordering van uien is voor 50% verschuldigd door degene die uien aankoopt bij telers en voor 50% verschuldigd door degenen die uien exporteert.
 
 3. De heffing als bedoeld in het eerste lid, wordt uitgedrukt in een percentage van de aankoopwaarde en bedraagt ten hoogste voor:
 
@@ -88,7 +88,7 @@ Besluit:
 | b. fruit: | 0,14%, en |
 | c. champignons: | 0,16%. |
 
-4. De heffing als bedoeld in het tweede lid, wordt uitgedrukt in centen per aantal gekochte kilogrammen en bedraagt ten hoogste: € 68,00 per 100 ton.
+4. De heffing als bedoeld in het tweede lid, wordt uitgedrukt in centen per aantal gekochte kilogrammen en bedraagt ten hoogste: € 31,70 per 100 ton voor kwaliteitscontrole en € 36,30 per 100 ton voor afzetbevordering.
 
 5. De hoogte van de heffing als bedoeld in het derde en vierde lid, wordt door middel van een besluit van het bestuur vastgesteld. Daarbij wordt rekening gehouden met de verschillende hoogten van de aankoopwaarde, onderscheidenlijk het aantal aangekochte kilogrammen, verschillende percentages respectievelijk bedragen.
 
@@ -106,13 +106,13 @@ Besluit:
 
 2. In afwijking van het eerste lid, kan de voorzitter de heffingsplichtige een voorlopige heffing opleggen tot het bedrag waarop de heffing vermoedelijk zal worden vastgesteld. De voorlopige heffing wordt verrekend met de krachtens deze verordening verschuldigde heffing.
 
-3. De heffingsplichtige kan bij wijze van voorschot de heffing ingeval van transacties via een afzetorganisatie in gedeelten voldoen. In dat geval houdt de afzetorganisaties per transactie in het door het bestuur vastgestelde percentage of vastgesteld tarief als bedoeld in [artikel 3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018502&paragraaf=3&artikel=3&z=2005-10-02&g=2005-10-02).
+3. De heffingsplichtige kan bij wijze van voorschot de heffing ingeval van transacties via een afzetorganisatie in gedeelten voldoen. In dat geval houdt de afzetorganisaties per transactie in het door het bestuur vastgestelde percentage of vastgesteld tarief als bedoeld in [artikel 3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018502&paragraaf=3&artikel=3&z=2007-12-15&g=2007-12-15).
 
 4. Voorschotten als bedoeld in het vierde lid, worden verrekend met de krachtens deze verordening verschuldigde heffing.
 
 ##### Artikel 5
 
-De voorzitter kan, indien hem uit te zijner beschikking gekomen gegevens blijkt dat de verstrekking van de gegevens of een raming als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018502&paragraaf=4&artikel=4&z=2005-10-02&g=2005-10-02), niet in overeenstemming blijkt met de werkelijkheid, een opgelegde heffing aan de hand van deze gegevens herzien en opnieuw opleggen.
+De voorzitter kan, indien hem uit te zijner beschikking gekomen gegevens blijkt dat de verstrekking van de gegevens of een raming als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018502&paragraaf=4&artikel=4&z=2007-12-15&g=2007-12-15), niet in overeenstemming blijkt met de werkelijkheid, een opgelegde heffing aan de hand van deze gegevens herzien en opnieuw opleggen.
 
 ##### Artikel 6
 
