@@ -4,7 +4,7 @@ identifier: "BWBV0005264"
 country: "nl"
 rank: "verdrag"
 publication_date: "2017-04-01"
-last_updated: "2005-06-25"
+last_updated: "2007-12-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0005264"
 soort: "verdrag"
@@ -5652,6 +5652,8 @@ De bepalingen inzake samenwerkingsstategieën van deze Overeenkomst zijn van toe
 1. De bepalingen van deze Overeenkomst betreffende economische en commerciële samenwerking zijn niet van toepassing op Zuid-Afrika.
 
 2. Zuid-Afrika wordt niettemin als waarnemer betrokken bij de dialoog tussen de overeenkomstsluitende partijen zoals bedoeld in artikelen 34 tot en met 40 van deze Overeenkomst.
+
+3. Dit protocol vormt voor Zuid-Afrika geen beletsel voor onderhandelingen over en ondertekening van een economische partnerschapsovereenkomst (EPO) als bedoeld in deel 3, titel II, van deze Overeenkomst, als de andere partijen bij die EPO daarmee akkoord gaan.
 
 ##### Artikel 6. Toepasselijkheid van protocollen en verklaringen
 
