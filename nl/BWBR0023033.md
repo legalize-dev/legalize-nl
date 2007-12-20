@@ -4,7 +4,7 @@ identifier: "BWBR0023033"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2007-12-20"
-last_updated: "2007-10-17"
+last_updated: "2007-12-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023033"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ In dit besluit wordt verstaan onder:
 
 - a. de Minister: de Minister van Volksgezondheid, Welzijn en Sport;
 
-- b. de Toetsingscommissie: de Toetsingscommissie behoud en toegankelijkheid erfgoed van de oorlog, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023033&artikel=2&z=2007-12-20&g=2007-10-17).
+- b. de Toetsingscommissie: de Toetsingscommissie behoud en toegankelijkheid erfgoed van de oorlog, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023033&artikel=2&z=2007-12-20&g=2007-12-20).
 
 ##### Artikel 2
 
