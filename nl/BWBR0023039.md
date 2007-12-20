@@ -4,7 +4,7 @@ identifier: "BWBR0023039"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2008-04-11"
-last_updated: "2007-10-17"
+last_updated: "2007-12-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023039"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ In dit besluit wordt verstaan onder:
 
 - a. de Minister: de Minister van Volksgezondheid, Welzijn en Sport;
 
-- b. de Toetsingscommissie: de Toetsingscommissie Getuigen Verhalen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023039&artikel=2&z=2007-12-20&g=2007-10-17).
+- b. de Toetsingscommissie: de Toetsingscommissie Getuigen Verhalen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023039&artikel=2&z=2007-12-20&g=2007-12-20).
 
 ##### Artikel 2
 
