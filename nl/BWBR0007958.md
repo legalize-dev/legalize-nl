@@ -4,7 +4,7 @@ identifier: "BWBR0007958"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-12-18"
-last_updated: "1996-03-29"
+last_updated: "2007-12-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007958"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ Als algemeen aanvaarde prijslijsten bij de vaststelling van maximumprijzen voor 
 
 - c. de prijslijst uitgegeven door La Société d’Editions Medico-pharmaceutiques S.A. te Parijs;
 
-- d. de prijslijst uitgegeven door de Chemist and Druggist, Miller Freeman Professional Ltd. te Tonbridge, Kent.
+- d. de prijslijst Dictionary of Medicines and Devices uitgegeven door de National Health Service te Londen.
 
 ##### Artikel 2
 
