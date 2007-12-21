@@ -4,7 +4,7 @@ identifier: "BWBR0018109"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-11-12"
-last_updated: "2006-12-21"
+last_updated: "2007-12-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018109"
 soort: "ministeriele-regeling"
@@ -49,90 +49,88 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-Het percentuele aandeel, bedoeld in [artikel 5, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017828&artikel=5), van een uitkeringsontvanger bedraagt het bij die ontvanger genoemd percentage in de onderstaande tabel:
+1. Het percentuele aandeel, bedoeld in [artikel 5, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017828&artikel=5), van een uitkeringsontvanger is de uitkomst van de formule:
 
-| Uitkeringsontvanger | Percentage |
+(WREGIO × OADREGIO)/(WTOTAAL × OADTOTAAL) × R × 100%
+
+in welke formule voorstelt:
+
+| WREGIO: | het aantal woningen binnen de provincie of de plusregio |
 | --- | --- |
-| Bestuur Regio Utrecht (BRU) | 5,34% |
-| Stadsgewest Haaglanden | 11,63% |
-| Knooppunt Arnhem-Nijmegen (KAN) | 4,08% |
-| Regionaal Orgaan Amsterdam (ROA) | 22,97% |
-| Samenwerkingsverband Regio Eindhoven (SRE) | 2,34% |
-| Stadsregio Rotterdam (SRR) | 15,21% |
-| Regio Twente | 1,80% |
-| Provincie Drenthe | 1,64% |
-| Provincie Flevoland | 1,98% |
-| Provincie Friesland | 2,46% |
-| Provincie Gelderland | 3,64% |
-| Provincie Groningen | 3,02% |
-| Provincie Limburg | 3,64% |
-| Provincie Noord-Brabant | 5,59% |
-| Provincie Noord-Holland | 4,12% |
-| Provincie Overijssel | 1,74% |
-| Provincie Utrecht | 2,14% |
-| Provincie Zeeland | 1,54% |
-| Provincie Zuid-Holland | 5,12% |
+| OADREGIO: | de omgevingsadressendichtheid binnen de provincie of de plusregio |
+| WTOTAAL: | het aantal woningen binnen Nederland |
+| OADTOTAAL: | de omgevingsadressendichtheid binnen Nederland |
+| R: | de rekenfactor |
+
+2. De gegevens die benodigd zijn voor het bepalen van de omgevingsadressendichtheid en het aantal woningen, bedoeld in het eerste lid, worden ontleend aan de bij het Centraal Bureau voor de Statistiek daaromtrent beschikbare gegevens, naar de meest actuele stand op het moment van verstrekking van de brede doeluitkering, bedoeld in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017828&artikel=3).
+
+3. De rekenfactor, bedoeld in het eerste lid, heeft de waarde van de onderstaande tabel.
+
+| Uitkeringsontvanger | Rekenfactor |
+| --- | --- |
+| Stadsregio Amsterdam | 1,080 |
+| Stadsregio Arnhem-Nijmegen | 1,127 |
+| Stadsregio Eindhoven | 0,679 |
+| Stadsregio Haaglanden | 0,974 |
+| Stadsregio Rotterdam | 1,300 |
+| Stadsregio Twente | 0,818 |
+| Stadsregio Utrecht | 1,065 |
+| Provincie Drenthe | 1,331 |
+| Provincie Flevoland | 1,275 |
+| Provincie Friesland | 1,403 |
+| Provincie Gelderland | 1,233 |
+| Provincie Groningen | 1,179 |
+| Provincie Limburg | 0,886 |
+| Provincie Noord-Brabant | 0,707 |
+| Provincie Noord-Holland | 0,544 |
+| Provincie Overijssel | 0,923 |
+| Provincie Utrecht | 0,852 |
+| Provincie Zeeland | 1,296 |
+| Provincie Zuid-Holland | 0,770 |
 
 ##### Artikel 3
 
-Het absolute aandeel, bedoeld in [artikel 5, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017828&artikel=5), van een uitkeringsontvanger bedraagt voor de uitkeringsjaren 2005 tot en met 2007 de som van het in de onderstaande tabel bij die ontvanger voor het uitkeringsjaar genoemd bedrag en de aanvullingen, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018109&artikel=4&z=2006-12-21&g=2006-12-21).
+Het absolute aandeel, bedoeld in [artikel 5, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017828&artikel=5), van een uitkeringsontvanger, bedraagt voor de uitkeringsjaren 2008 tot en met 2010 het bij die ontvanger genoemde bedrag in de onderstaande tabel:
 
-|   | Bedrag | × 1.000 euro | × 1.000 euro |
+| Uitkeringsontvanger | Bedrag 2008 (× 1000 euro) | Bedrag 2009 (× 1000 euro) | Bedrag 2010 (× 1000 euro) |
 | --- | --- | --- | --- |
-| Regio | 2005 | 2006 | 2007 |
-| Bestuur Regio Utrecht (BRU) | € 12.416 | € 11.590 | € 17.144 |
-| Stadsgewest Haaglanden | € 8.015 | € 18.557 | € 50.611 |
-| Stadsregio Arnhem-Nijmegen | € 557 | € 560 | € 10.433 |
-| Stadsregio Amsterdam | € 18.658 | € 23.185 | € 77.430 |
-| Samenwerkingsverband Regio Eindhoven (SRE) | € 501 | € 504 | € 4.258 |
-| Stadsregio Rotterdam (SRR) | € 70.531 | € 38.395 | € 73.069 |
-| Regio Twente | € 13.944 | € 12.828 | € 9.331 |
-| Provincie Drenthe | € 140 | € 38 | € 2.154 |
-| Provincie Flevoland | € 8.424 | € 8.041 | € 10.563 |
-| Provincie Friesland | € 6.524 | € 8.396 | € 11.438 |
-| Provincie Gelderland | € 16.215 | € 13.040 | € 32.550 |
-| Provincie Groningen | € 10.988 | € 10.663 | € 23.124 |
-| Provincie Limburg | € 4.639 | € 1.586 | € 15.719 |
-| Provincie Noord-Brabant | € 266 | € 267 | € 7.312 |
-| Provincie Noord-Holland | € 305 | € 341 | € 41.831 |
-| Provincie Overijssel | € 5.532 | € -911 | € 5.933 |
-| Provincie Utrecht | € 253 | € 254 | € 17.523 |
-| Provincie Zeeland | € 48 | € 38 | € 3.775 |
-| Provincie Zuid-Holland | € 448 | € 450 | € 20.700 |
+| Stadsregio Amsterdam | 4457 | -1523 | -1523 |
+| Stadsregio Arnhem-Nijmegen | 3382 | 6592 | 6592 |
+| Stadsregio Eindhoven | 1941 | 1008 | 1008 |
+| Stadsregio Haaglanden | 2132 | 1623 | 1623 |
+| Stadsregio Rotterdam | 2524 | 2183 | 2183 |
+| Stadsregio Twente | 2188 | 1243 | 1243 |
+| Stadsregio Utrecht | 3161 | 1397 | 1397 |
+| Provincie Drenthe | 7045 | 6220 | 3420 |
+| Provincie Flevoland | 1474 | 469 | 469 |
+| Provincie Friesland | 3850 | 1627 | 1627 |
+| Provincie Gelderland | 4335 | 1838 | 1838 |
+| Provincie Groningen | 4242 | 1610 | 1610 |
+| Provincie Limburg | 4133 | 5005 | 5005 |
+| Provincie Noord-Brabant | 4097 | 2381 | 2381 |
+| Provincie Noord-Holland | 2571 | 1960 | 1960 |
+| Provincie Overijssel | 5794 | 4531 | 4531 |
+| Provincie Utrecht | 1756 | 1950 | 8172 |
+| Provincie Zeeland | 2068 | 647 | 647 |
+| Provincie Zuid-Holland | 3328 | 7233 | 7233 |
 
 ##### Artikel 4
 
-1. De aanvullingen op het absolute aandeel, bedragen voor het uitkeringsjaar 2005 nihil.
+De rente, bedoeld in [artikel 9, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017828&artikel=9) wordt berekend over het bedrag dat de uitkomst is van de volgende som:
 
-2. Er wordt voor het uitkeringsjaar 2006 een aanvulling verstrekt ter grootte van 6% van het deel van de uitkering voor 2005, van de rijksbijdrage voor de exploitatie van het openbaar vervoer voor 2005, bedoeld in [artikel 76 van de Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=76), en van de rijksbijdrage voor de exploitatie van regionale treindiensten, bedoeld in [artikel 3 van de Regeling experimenten regionale treindiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0009697&artikel=3), dat door de uitkeringsontvanger voor het uitkeringsjaar 2005 is toegekend aan een vervoerder op grond van een ingevolge de [Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470) verleende concessie indien voldaan is aan de in het zesde lid opgenomen vereisten.
+Totaal reservering vorige jaren
 
-3. Er wordt voor het uitkeringsjaar 2006 een aanvulling verstrekt ter grootte van 6% van het deel van de uitkering voor 2005, van de rijksbijdrage voor de exploitatie van het openbaar vervoer voor 2005, bedoeld in [artikel 76 van de Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=76), en van de rijksbijdrage voor de exploitatie van regionale treindiensten voor 2005, bedoeld in [artikel 3 van de Regeling experimenten regionale treindiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0009697&artikel=3) dat door de uitkeringsontvanger in het uitkeringsjaar wordt besteed aan een persoon waarmee hij een overeenkomst heeft gesloten voor het verrichten van personenvervoer per auto als bedoeld in [artikel 6, eerste lid, van het Besluit personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=6), of voor het verrichten van personenvervoer per passagiersschip als bedoeld in [artikel 7, eerste lid, van het Besluit personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=7), indien voldaan is aan de in het zevende lid opgenomen vereisten.
+-/- bestedingen lopend jaar ten behoeve van derden, voor zover deze nog niet in een jaarrekening zijn opgenomen
 
-4. Er wordt voor het uitkeringsjaar 2007 een aanvulling verstrekt ter grootte van 6% van het deel van de uitkering voor 2006, dat door de uitkeringsontvanger voor het uitkeringsjaar 2006 is toegekend aan een vervoerder op grond van een ingevolge de [Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470) verleende concessie indien voldaan is aan de in het zesde lid opgenomen vereisten.
+waarbij in deze som voorstelt:
 
-5. Er wordt voor het uitkeringsjaar 2007 een aanvulling verstrekt ter grootte van 6%van het deel van de uitkering voor 2006, dat door de uitkeringsontvanger in het uitkeringsjaar wordt besteed aan een persoon waarmee hij een overeenkomst heeft gesloten voor het verrichten van personenvervoer per auto als bedoeld in [artikel 6, eerste lid, van het Besluit personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=6), of voor het verrichten van personenvervoer per passagiersschip als bedoeld in [artikel 7, eerste lid, van het Besluit personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=7), indien voldaan is aan de in het zevende lid opgenomen vereisten.
-
-6. De vereisten, bedoeld in het tweede en vierde lid zijn dat:
-
-- a. de inspecteur van de rijksbelastingdienst, die bevoegd is voor de heffing van de omzetbelasting ten aanzien van de concessiehouder, heeft besloten dat overde op basis van de concessie te ontvangen subsidie, omzetbelasting verschuldigd is; en
-
-- b. de inspecteur, bedoeld in [artikel 1, onderdeel h, van de Wet op het BTW-compensatiefonds](https://wetten.overheid.nl/jci1.3:c:BWBR0013817&artikel=1), heeft besloten dat de uitkeringsontvanger voor de omzetbelasting, in onderdeel a, geen recht heeft op een bijdrage uit het BTW-compensatiefonds.
-
-7. De vereisten, bedoeld in het derde en vijfde lid zijn dat:
-
-- a. de persoon, bedoeld in het tweede lid of vijfde lid heeft op basis van de overeenkomst met de uitkeringsontvanger omzetbelasting aan die ontvanger in rekening gebracht; en
-
-- b. de inspecteur, bedoeld in [artikel 1, onderdeel h, van de Wet op het BTW-compensatiefonds](https://wetten.overheid.nl/jci1.3:c:BWBR0013817&artikel=1), heeft besloten dat de uitkeringsontvanger voor de omzetbelasting, bedoeld in onderdeel a, geen recht heeft op een bijdrage uit het BTW-compensatiefonds.
-
-8. De toepassing van [artikel 2, tiende lid, van de Wet op het BTW-compensatiefonds](https://wetten.overheid.nl/jci1.3:c:BWBR0013817&artikel=2), blijft ten aanzien van het eerste tot en met zevende lid buiten aanmerking.
+| Totaal reservering vorige jaren: | Het bedrag dat in de bijlage bij de jaarrekening ingevolge [artikel 1 van de Regeling verantwoordingsinformatie specifieke uitkeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0020070&artikel=1) is opgenomen bij de Brede doeluitkering verkeer en vervoer onder de indicator ‘eindsaldo/reservering vorig jaar’ |
+| --- | --- |
+| Bestedingen lopend jaar ten gunste van derden: | Het bedrag dat in het jaar waarop de verantwoording door de provincie onderscheidenlijk de plusregio betrekking op heeft, door Gedeputeerde Staten onderscheidenlijk het dagelijks bestuur ingevolge [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017828&artikel=2), en [artikel 3 derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017828&artikel=3), is verstrekt aan de rechtpersonen genoemd in de in de onderdelen a tot en met c van deze artikelen en tevens de verantwoording over deze verstrekte gelden door provincie en plusregio nog niet zijn meegenomen in de jaarrekening over het verantwoordingsjaar, maar in het jaar volgend op het verantwoordingsjaar. |
 
 ##### Artikel 5
 
-1. De uitkeringsontvanger verstrekt de financiële verantwoording, bedoeld in [artikel 10, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017828&artikel=10), overeenkomstig het in de bij deze regeling behorende [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0018109&bijlage=I&z=2006-12-21&g=2006-12-21) opgenomen model van verantwoording.
-
-2. De accountantsverklaring, bedoeld in [artikel 10, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017828&artikel=10), wordt opgesteld met inachtneming van het in de bij deze regeling behorende [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0018109&bijlage=II&z=2006-12-21&g=2006-12-21) opgenomen controleprotocol.
-
-3. Indien de uitkeringontvanger de financiële verantwoording, bedoeld in [artikel 10, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017828&artikel=10), niet voor 1 november na afloop van het uitkeringsjaar, overeenkomstig het in de bij deze regeling behorende [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0018109&bijlage=I&z=2006-12-21&g=2006-12-21) opgenomen model van verantwoording heeft ingediend, verlaagt de Minister van Verkeer en Waterstaat, indien hij toepassing geeft aan [artikel 11, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017828&artikel=11), de uitkering voor dat uitkeringsjaar met € 150.000.
+Indien de minister toepassing geeft aan [artikel 11, eerste lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017828&artikel=11), verlaagt hij de uitkering voor het betreffende jaar uitkeringsjaar met € 150.000.
 
 ##### Artikel 6
 
@@ -152,7 +150,7 @@ Vervallen
 
 Vervallen
 
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de [bijlagen I](https://wetten.overheid.nl/jci1.3:c:BWBR0018109&bijlage=I&z=2006-12-21&g=2006-12-21) en [II](https://wetten.overheid.nl/jci1.3:c:BWBR0018109&bijlage=II&z=2006-12-21&g=2006-12-21), die ter inzage worden gelegd bij de bibliotheek van het Ministerie van Verkeer en Waterstaat.
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de [bijlagen I](https://wetten.overheid.nl/jci1.3:c:BWBR0018109&bijlage=I&z=2007-12-21&g=2007-12-21) en [II](https://wetten.overheid.nl/jci1.3:c:BWBR0018109&bijlage=II&z=2007-12-21&g=2007-12-21), die ter inzage worden gelegd bij de bibliotheek van het Ministerie van Verkeer en Waterstaat.
 
 ### **Verantwoordingsmodel**
 
