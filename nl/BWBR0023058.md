@@ -4,7 +4,7 @@ identifier: "BWBR0023058"
 country: "nl"
 rank: "wet"
 publication_date: "2009-11-27"
-last_updated: "2007-01-01"
+last_updated: "2007-12-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023058"
 soort: "wet"
@@ -40,43 +40,49 @@ entry_into_force: "2007-12-21"
 
 ##### Artikel I
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Zorgverzekeringswet.
 
 ##### Artikel II
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Invoerings- en aanpassingswet Zorgverzekeringswet.
 
 ##### Artikel III
 
-Wijzigt de Wet op de zorgtoeslag.
+Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel IV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet toelating zorginstellingen.
 
 ##### Artikel V
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet marktordening gezondheidszorg.
 
 ##### Artikel VI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Algemene Wet Bijzondere Ziektekosten.
 
 ##### Artikel VII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt deze wet.
 
 ##### Artikel VIII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Zorgverzekeringswet.
 
 ##### Artikel IX
 
-Dit onderdeel is nog niet inwerking getreden
+1. De [Regeling bezoldiging en beheerskosten bestuursorganen volksgezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0019253) berust na de inwerkingtreding van deze wet op de [artikelen 59, zesde en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=59), en [75, derde en vierde lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=75), de [artikelen 4, zevende en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=4), en [14, derde en vierde lid, van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=14) en de [artikelen 20, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=20), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=27) en [32 van de Wet toelating zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=32).
+
+2. De [Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715) berust na de inwerkingtreding van deze wet mede op [artikel 69, zevende lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=69).
 
 ##### Artikel X
 
-Dit onderdeel is nog niet inwerking getreden
+1. Deze wet, met uitzondering van [artikel I, onderdelen C en I](https://wetten.overheid.nl/jci1.3:c:BWBR0023058&artikel=I&z=2007-12-21&g=2007-12-21), en [artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0023058&artikel=III&z=2007-12-21&g=2007-12-21), die in werking treden op een bij koninklijk besluit te bepalen tijdstip, treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.
+
+2. [Artikel I, onderdeel F, wat betreft artikel 69, zesde lid, van de Zorgverzekeringswet, en onderdeel G](https://wetten.overheid.nl/jci1.3:c:BWBR0023058&artikel=I&z=2007-12-21&g=2007-12-21) werken terug tot en met 1 januari 2006.
+
+3. [Artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0023058&artikel=III&z=2007-12-21&g=2007-12-21) werkt terug tot en met 1 januari 2007.
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
