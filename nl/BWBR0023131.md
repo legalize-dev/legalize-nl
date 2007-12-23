@@ -79,9 +79,3 @@ Deze regeling wordt aangehaald als: Sanctieregeling terrorisme 2007-II.
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 3a
-
-[Artikel 2, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023131&artikel=2&z=2010-04-14&g=2010-04-14), is niet van toepassing op personen en organisaties die zijn vermeld in de lijst, bedoeld in artikel 2, derde lid, van Verordening (EG) nr. 2580/2001 van de Raad van de Europese Unie van 27 december 2001 (PbEG L 344) of in bijlage I van Verordening (EG) nr. 881/2002 van de Raad van de Europese Unie van 27 mei 2002 (PbEG L 193) of waarop [Sanctieregeling terrorisme 2002-II](https://wetten.overheid.nl/jci1.3:c:BWBR0013904) van toepassing is.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
