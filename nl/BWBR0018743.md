@@ -4,7 +4,7 @@ identifier: "BWBR0018743"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-09-03"
-last_updated: "2007-12-23"
+last_updated: "2007-12-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018743"
 soort: "ministeriele-regeling"
@@ -60,7 +60,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-Deze regeling is van toepassing op de subsidies, bedoeld in [Hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&z=2007-12-23&g=2007-12-23).
+Deze regeling is van toepassing op de subsidies, bedoeld in [Hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&z=2007-12-26&g=2007-12-26).
 
 ##### Artikel 3
 
@@ -84,7 +84,7 @@ Een instellingssubsidie bestaat uit een door de minister vast te stellen bedrag 
 
 ##### Artikel 5
 
-Het bedrag, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=2&artikel=4&z=2007-12-23&g=2007-12-23), wordt verlaagd met het bedrag waarmee het maximaal toegestane bedrag van de in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=8&artikel=23&z=2007-12-23&g=2007-12-23) bedoelde reservering wordt overschreden.
+Het bedrag, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=2&artikel=4&z=2007-12-26&g=2007-12-26), wordt verlaagd met het bedrag waarmee het maximaal toegestane bedrag van de in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=8&artikel=23&z=2007-12-26&g=2007-12-26) bedoelde reservering wordt overschreden.
 
 ##### Artikel 6
 
@@ -94,7 +94,7 @@ Baten en lasten die door middel van interne doorberekeningen worden toegerekend,
 
 ##### Artikel 7
 
-Een projectsubsidie bestaat uit het verschil tussen de met de gesubsidieerde activiteiten samenhangende werkelijke lasten, voor zover deze lasten daar ingevolge [Hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&z=2007-12-23&g=2007-12-23) voor in aanmerking komen en voor zover deze lasten zijn opgenomen in de door de minister goedgekeurde begroting, en de met de gesubsidieerde activiteiten samenhangende baten. De subsidie bedraagt niet meer dan een door de minister vast te stellen maximum.
+Een projectsubsidie bestaat uit het verschil tussen de met de gesubsidieerde activiteiten samenhangende werkelijke lasten, voor zover deze lasten daar ingevolge [Hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&z=2007-12-26&g=2007-12-26) voor in aanmerking komen en voor zover deze lasten zijn opgenomen in de door de minister goedgekeurde begroting, en de met de gesubsidieerde activiteiten samenhangende baten. De subsidie bedraagt niet meer dan een door de minister vast te stellen maximum.
 
 #### § 4. Modellen en formulieren
 
@@ -258,7 +258,7 @@ De subsidieontvanger stelt na afloop van de periode of het project waarvoor subs
 
 ##### Artikel 23
 
-1. Voorzover het bedrag van de verleende instellingssubsidie, zonder toepassing van de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=2&artikel=5&z=2007-12-23&g=2007-12-23) bedoelde vermindering, na uitvoering van de gesubsidieerde activiteiten overeenkomstig de geldende verplichtingen, niet is besteed aan de doeleinden waarvoor het is verstrekt, wordt het gereserveerd.
+1. Voorzover het bedrag van de verleende instellingssubsidie, zonder toepassing van de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=2&artikel=5&z=2007-12-26&g=2007-12-26) bedoelde vermindering, na uitvoering van de gesubsidieerde activiteiten overeenkomstig de geldende verplichtingen, niet is besteed aan de doeleinden waarvoor het is verstrekt, wordt het gereserveerd.
 
 2. Voor de berekening van het in het eerste lid bedoelde te reserveren bedrag wordt het totaal van de met de gesubsidieerde activiteiten samenhangende baten, bestaande uit de verleende instellingssubsidie en de gerealiseerde overige baten, verminderd met de lasten van de gesubsidieerde activiteiten. Deze uitkomst wordt toegerekend naar rato van de verleende instellingssubsidie en de, in de ingediende begroting opgenomen, met de gesubsidieerde activiteiten samenhangende, overige baten. Het te reserveren bedrag is het aan de instellingssubsidie toegerekende deel.
 
@@ -268,7 +268,7 @@ De subsidieontvanger stelt na afloop van de periode of het project waarvoor subs
 
 5. De in het eerste lid bedoelde reservering wordt uitsluitend besteed aan doeleinden waarvoor de subsidie werd verstrekt.
 
-6. Het totaal van de in het eerste lid bedoelde reservering in enig jaar bedraagt ten hoogste 10% van het bedrag van de voor dat jaar verleende subsidie, zonder toepassing van de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=2&artikel=5&z=2007-12-23&g=2007-12-23) bedoelde vermindering.
+6. Het totaal van de in het eerste lid bedoelde reservering in enig jaar bedraagt ten hoogste 10% van het bedrag van de voor dat jaar verleende subsidie, zonder toepassing van de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=2&artikel=5&z=2007-12-26&g=2007-12-26) bedoelde vermindering.
 
 ##### Artikel 24
 
@@ -324,7 +324,7 @@ De subsidieontvanger die aan derden goederen ter beschikking stelt of voor derde
 
 ##### Artikel 31
 
-Indien bij de minister het vermoeden is gerezen dat [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=8&artikel=28&z=2007-12-23&g=2007-12-23) niet is nageleefd, spant de subsidieontvanger zich desgevraagd in de jaarrekening van de desbetreffende organisatie over te leggen.
+Indien bij de minister het vermoeden is gerezen dat [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=8&artikel=28&z=2007-12-26&g=2007-12-26) niet is nageleefd, spant de subsidieontvanger zich desgevraagd in de jaarrekening van de desbetreffende organisatie over te leggen.
 
 #### § 9. De aanvraag tot subsidievaststelling
 
@@ -334,9 +334,9 @@ Indien bij de minister het vermoeden is gerezen dat [artikel 28](https://wetten.
 
 2. De aanvraag voor de subsidievaststelling gaat vergezeld van:
 
-- a. het verslag, bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=8&artikel=22&z=2007-12-23&g=2007-12-23);
+- a. het verslag, bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=8&artikel=22&z=2007-12-26&g=2007-12-26);
 
-- b. de subsidiedeclaratie, bedoeld in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=9&artikel=33&z=2007-12-23&g=2007-12-23);
+- b. de subsidiedeclaratie, bedoeld in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=9&artikel=33&z=2007-12-26&g=2007-12-26);
 
 - c. de jaarrekening; en
 
@@ -380,7 +380,7 @@ De subsidiedeclaratie geeft een zodanig inzicht dat een verantwoord oordeel kan 
 
 ##### Artikel 36
 
-Binnen zes maanden na ontvangst van de aanvraag, bedoeld in [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=9&artikel=32&z=2007-12-23&g=2007-12-23), geeft de minister een beschikking tot vaststelling van de subsidie.
+Binnen zes maanden na ontvangst van de aanvraag, bedoeld in [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=9&artikel=32&z=2007-12-26&g=2007-12-26), geeft de minister een beschikking tot vaststelling van de subsidie.
 
 ### Hoofdstuk II. Specifieke subsidiebepalingen
 
@@ -392,15 +392,15 @@ Voor familieonderzoek naar hypercholesterolemie, met inbegrip van aanvullende DN
 
 ##### Artikel 38
 
-Bij de verlening van de subsidie, bedoeld in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=1&artikel=37&z=2007-12-23&g=2007-12-23), kan de minister verplichtingen opleggen met betrekking tot het vastleggen van gegevens over de uitnodigingen voor deelname aan en de uitslagen van familieonderzoek naar hypercholesterolemie ten behoeve van de proces- en effect-evaluatie.
+Bij de verlening van de subsidie, bedoeld in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=1&artikel=37&z=2007-12-26&g=2007-12-26), kan de minister verplichtingen opleggen met betrekking tot het vastleggen van gegevens over de uitnodigingen voor deelname aan en de uitslagen van familieonderzoek naar hypercholesterolemie ten behoeve van de proces- en effect-evaluatie.
 
 ##### Artikel 39
 
-De subsidie, bedoeld in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=1&artikel=37&z=2007-12-23&g=2007-12-23), bedraagt voor het jaar 2008 ten hoogste € 1.986.782.
+De subsidie, bedoeld in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=1&artikel=37&z=2007-12-26&g=2007-12-26), bedraagt voor het jaar 2008 ten hoogste € 1.987.708.
 
 ##### Artikel 40
 
-Voor subsidie als bedoeld in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=1&artikel=37&z=2007-12-23&g=2007-12-23) komt per DNA-onderzoek in aanmerking:
+Voor subsidie als bedoeld in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=1&artikel=37&z=2007-12-26&g=2007-12-26) komt per DNA-onderzoek in aanmerking:
 
 - a. € 104,24 bij een totaal van 1–5850 DNA-onderzoeken;
 
@@ -456,11 +456,15 @@ In deze paragraaf wordt verstaan onder:
 
 - l. Stichting Integraal Kankercentrum Limburg.
 
-2. Subsidie als bedoeld in het eerste lid wordt slechts verstrekt voor zover van vrouwen geen betalingen worden verlangd voor deelname aan het onderzoek.
+2. Subsidie als bedoeld in het eerste lid wordt slechts verstrekt:
+
+- a. voor bevolkingsonderzoek naar baarmoederhalskanker bij vrouwen in de leeftijdsgroep 30 tot en met 60 jaar;
+
+- b. voor zover van vrouwen geen betalingen worden verlangd voor deelname aan het onderzoek.
 
 ##### Artikel 43
 
-Voor de subsidie, bedoeld in [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=2&artikel=42&z=2007-12-23&g=2007-12-23), komen uitsluitend in aanmerking de kosten:
+Voor de subsidie, bedoeld in [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=2&artikel=42&z=2007-12-26&g=2007-12-26), komen uitsluitend in aanmerking de kosten:
 
 - a. van onderzoeken voor zover deze overeenstemmen met de door de Nederlandse Zorgautoriteit goedgekeurde of vastgestelde tarieven onderscheidenlijk maximumtarieven;
 
@@ -474,15 +478,17 @@ Een screeningsorganisatie draagt er voor zorg dat de verhouding tussen de bij de
 
 ##### Artikel 45
 
-Bij de verlening van de subsidie, bedoeld in [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=2&artikel=42&z=2007-12-23&g=2007-12-23), kan de minister verplichtingen opleggen met betrekking tot:
+Bij de verlening van de subsidie, bedoeld in [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=2&artikel=42&z=2007-12-26&g=2007-12-26), kan de minister verplichtingen opleggen met betrekking tot:
 
 - a. de kwaliteit van het bevolkingsonderzoek naar baarmoederhalskanker;
 
-- b. het vastleggen van gegevens over de uitnodigingen voor deelname aan en de uitslagen van het bevolkingsonderzoek naar baarmoederhalskanker ten behoeve van de proces- en effect-evaluatie.
+- b. het vastleggen van gegevens over de uitnodigingen voor deelname aan en de uitslagen van het bevolkingsonderzoek naar baarmoederhalskanker ten behoeve van de proces- en effect-evaluatie;
+
+- c. een wijze van uitvoering van het bevolkingsonderzoek naar baarmoederhalskanker die bijdraagt aan de versterking van de infrastructuur van de kankerscreening.
 
 ##### Artikel 46
 
-De subsidie, bedoeld in [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=2&artikel=42&z=2007-12-23&g=2007-12-23), bedraagt voor het jaar 2008 ten hoogste:
+De subsidie, bedoeld in [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=2&artikel=42&z=2007-12-26&g=2007-12-26), bedraagt voor het jaar 2008 ten hoogste:
 
 - a. € 49,67 voor elk onderzoek, vermeerderd met
 
@@ -490,7 +496,7 @@ De subsidie, bedoeld in [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR001
 
 ##### Artikel 47
 
-In afwijking van [artikel 23, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=8&artikel=23&z=2007-12-23&g=2007-12-23), worden toevoegingen aan voorzieningen niet gerekend tot de lasten van de activiteiten waarvoor een subsidie als bedoeld in [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=2&artikel=42&z=2007-12-23&g=2007-12-23) wordt verstrekt.
+In afwijking van [artikel 23, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=8&artikel=23&z=2007-12-26&g=2007-12-26), worden toevoegingen aan voorzieningen niet gerekend tot de lasten van de activiteiten waarvoor een subsidie als bedoeld in [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=2&artikel=42&z=2007-12-26&g=2007-12-26) wordt verstrekt.
 
 #### § 3. Bevolkingsonderzoek naar borstkanker
 
@@ -530,7 +536,7 @@ volgende screeningsorganisaties een instellingssubsidie verstrekken:
 
 ##### Artikel 50
 
-Subsidie als bedoeld in [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=3&artikel=49&z=2007-12-23&g=2007-12-23) wordt slechts verstrekt:
+Subsidie als bedoeld in [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=3&artikel=49&z=2007-12-26&g=2007-12-26) wordt slechts verstrekt:
 
 - a. voor bevolkingsonderzoek naar borstkanker bij vrouwen in de leeftijdsgroep 50 tot en met 75 jaar;
 
@@ -538,7 +544,7 @@ Subsidie als bedoeld in [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR001
 
 ##### Artikel 51
 
-De subsidie, bedoeld in [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=3&artikel=49&z=2007-12-23&g=2007-12-23), bedraagt voor het jaar 2008 ten hoogste het bedrag dat wordt berekend overeenkomstig de volgende formule:
+De subsidie, bedoeld in [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=3&artikel=49&z=2007-12-26&g=2007-12-26), bedraagt voor het jaar 2008 ten hoogste het bedrag dat wordt berekend overeenkomstig de volgende formule:
 
 (A × B) + C + D + E
 
@@ -546,17 +552,17 @@ waarbij wordt verstaan onder:
 
 - A. het aantal onderzoeken dat de subsidieontvanger in het subsidiejaar uitvoert;
 
-- B. een vergoeding per onderzoek ten bedrage van € 49,62;
+- B. een vergoeding per onderzoek ten bedrage van € 49,67;
 
 - C. een toeslag of correctie voor de regiogrootte, die als volgt wordt berekend: (F–A) × (G / F);
 
-- D. een toeslag voor de start- en aanloopkosten van extra screeningseenheden van maximaal € 25.516, indien:
+- D. een toeslag voor de start- en aanloopkosten van extra screeningseenheden van maximaal € 25.533, indien:
 
 - a. de extra screeningseenheden naar het oordeel van de minister noodzakelijk zijn voor de uitvoering van het bevolkingsonderzoek en
 
 - b. de subsidie zonder deze toeslag voor start- en afloopkosten ontoereikend is om alle kosten te dekken;
 
-- E. een toeslag tot een maximum van € 22.782 voor de kosten van een assistent-projectleider, indien:
+- E. een toeslag tot een maximum van € 22.797 voor de kosten van een assistent-projectleider, indien:
 
 - a. de subsidieontvanger in het subsidiejaar meer dan 100.000 onderzoeken verricht en
 
@@ -568,99 +574,45 @@ waarbij wordt verstaan onder:
 
 ##### Artikel 52
 
-1. Bij de verlening van de subsidie, bedoeld in [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=3&artikel=49&z=2007-12-23&g=2007-12-23), kan de minister verplichtingen opleggen met betrekking tot:
+1. Bij de verlening van de subsidie, bedoeld in [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=3&artikel=49&z=2007-12-26&g=2007-12-26), kan de minister verplichtingen opleggen met betrekking tot:
 
 - a. de kwaliteit van het bevolkingsonderzoek naar borstkanker;
 
-- b. het vastleggen van gegevens over de uitnodigingen voor deelname aan en de uitslagen van het bevolkingsonderzoek naar borstkanker ten behoeve van de proces- en effect-evaluatie.
+- b. het vastleggen van gegevens over de uitnodigingen voor deelname aan en de uitslagen van het bevolkingsonderzoek naar borstkanker ten behoeve van de proces- en effect-evaluatie;
+
+- c. een wijze van uitvoering van het bevolkingsonderzoek naar borstkanker die bijdraagt aan de versterking van de infrastructuur van de kankerscreening.
 
 2. De screeningsorganisatie bewaart de gegevens, bedoelde in het eerste lid, gedurende ten minste tien jaren.
 
 ##### Artikel 53
 
-In afwijking van [artikel 23, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=8&artikel=23&z=2007-12-23&g=2007-12-23), worden toevoegingen aan voorzieningen niet gerekend tot de lasten van de activiteiten waarvoor een subsidie als bedoeld in [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=3&artikel=49&z=2007-12-23&g=2007-12-23) wordt verstrekt.
+In afwijking van [artikel 23, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=8&artikel=23&z=2007-12-26&g=2007-12-26), worden toevoegingen aan voorzieningen niet gerekend tot de lasten van de activiteiten waarvoor een subsidie als bedoeld in [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=3&artikel=49&z=2007-12-26&g=2007-12-26) wordt verstrekt.
 
 #### § 4. Pre- en postnatale preventie
 
 ##### Artikel 54
 
-Voor de uitvoering van het nationaal programma pre- en postnatale preventie bij zwangeren en pasgeborenen kan de minister een projectsubsidie verstrekken.
+Vervallen
 
 ##### Artikel 55
 
-De subsidie, bedoeld in [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=4&artikel=54&z=2007-12-23&g=2007-12-23), kan worden verstrekt aan de volgende entadministraties:
-
-- a. Stichting Entadministratie Noord Nederland voor de provincies Groningen, Friesland en Drenthe;
-
-- b. Stichting Entorganisatie voor Overijssel en Flevoland voor de provincies Overijssel en Flevoland;
-
-- c. Stichting Provinciale Entadministratie Gelderland voor de provincie Gelderland;
-
-- d. Stichting Entadministratie Utrecht & Noord-Holland voor de provincies Utrecht en Noord-Holland, met uitzondering van de gemeente Amsterdam;
-
-- e. Stichting regionale Entadministratie Zuid-Holland voor de provincie Zuid-Holland, met uitzondering van de gemeente Rotterdam;
-
-- f. Stichting Provinciale Kraamzorg & Entadministratie Zeeland;
-
-- g. Stichting Provinciale Entadministratie Noord-Brabant voor de provincie Noord-Brabant;
-
-- h. Stichting Provinciale Entadministratie Limburg voor de provincie Limburg;
-
-- i. Gemeentelijke gezondheidsdienst te Amsterdam voor de gemeente Amsterdam;
-
-- j. Gemeentelijke gezondheidsdienst te Rotterdam voor de gemeente Rotterdam.
+Vervallen
 
 ##### Artikel 56
 
-De subsidie, bedoeld in [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=4&artikel=54&z=2007-12-23&g=2007-12-23), wordt verstrekt voor:
-
-- a. bloedonderzoek bij zwangere vrouwen, uitgevoerd rondom de twaalfde week van de zwangerschap, naar ABO bloedgroep, rhesus-D-factor, irregulaire erytrocytenantistoffen, hepatitis B surface antigen, hiv antistoffen en lues;
-
-- b. de confirmatie en nadere typering door de laboratoria van opgespoorde lues, hiv antistoffen en hepatitis B surface antigen;
-
-- c. bloedonderzoek door Sanquin Diagnostiek of het Bijzonder Instituut voor Bloedgroepen Onderzoek bij positief bevonden IEA screening rondom de twaalfde week, betreffende:
-
-- 1°. bevestiging van positieve screeningsresultaat irregulaire erytrocytenantistoffen en nadere specificering van antistoffen met het bloed van de moeder, en
-
-- 2°. fenotypering met het bloed van de biologische aanstaande vader;
-
-- d. bloedonderzoek door Sanquin Diagnostiek en Bijzonder Instituut voor Bloedgroepen Onderzoek in de dertigste week van de zwangerschap van de rhesus-D negatieve zwangere vrouw betreffende:
-
-- 1°. bloedgroep en rhesus-D-antigeen,
-
-- 2°. de aanwezigheid van antistoffen tegen het rhesus-D-antigeen;
-
-- e. laboratoriumonderzoek van het navelstrengbloed van de pasgeborene van de rhesus-D-negatieve moeder op bloedgroep en rhesus-D-antigeen;
-
-- f. anti-rhesus-D-immunoglobuline in de dosering van 1000 I.E. voor rhesus-D-negatieve zwangere vrouwen zonder levend kind rond de dertigste week van de zwangerschap en na bevalling van een rhesus-D-positief kind en bij de overige medische indicaties;
-
-- g. anti-rhesus-D-immunoglobuline in de dosering van 375 I.E. voor toediening na abortus en de overige medische indicaties van de tiende tot en met twintigste week van de zwangerschap voor een rhesus-D-negatieve zwangere vrouw;
-
-- h. passieve immunisatie na de geboorte door toediening van hepatitis B immunoglobuline (Hblg) 150 I.E. aan pasgeborenen, waarvan de moeder drager is van het hepatitis B virus.
+Vervallen
 
 ##### Artikel 57
 
-In afwijking van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=3&artikel=7&z=2007-12-23&g=2007-12-23) bestaat de subsidie, bedoeld in [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=4&artikel=54&z=2007-12-23&g=2007-12-23), uit de lasten, berekend volgens [artikel 58](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=4&artikel=58&z=2007-12-23&g=2007-12-23), met dien verstande dat de lasten, bedoeld in [artikel 58, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=4&artikel=58&z=2007-12-23&g=2007-12-23), in aanmerking komen tot het door de minister bij de subsidieverlening vastgestelde maximum.
+Vervallen
 
 ##### Artikel 58
 
-1. Voor de subsidie, bedoeld in [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=4&artikel=54&z=2007-12-23&g=2007-12-23), komen uitsluitend in aanmerking de kosten van:
-
-- a. personeel, materiaal en huisvesting, nodig voor coördinatie van en toezicht op de uitvoering van het nationale programma pre- en postnatale preventie;
-
-- b. hard- en software voor de registratie van zwangeren en pasgeborenen in het kader van het nationale programma pre- en postnatale preventie;
-
-- c. de uitvoering van de activiteiten bedoeld in [artikel 56](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=4&artikel=56&z=2007-12-23&g=2007-12-23).
-
-2. De kosten voor de onderzoeken, bedoeld in [artikel 56](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=4&artikel=56&z=2007-12-23&g=2007-12-23), komen voor subsidie in aanmerking tot ten hoogste de daarvoor ingevolge de [Wet marktordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020078) vastgestelde tarieven, met dien verstande dat voor de anti-rhesus-D-immunoglobuline 1000 I.E. ten hoogste een tarief van € 53, inclusief BTW, per onderzoek voor subsidie in aanmerking komt.
+Vervallen
 
 ##### Artikel 59
 
-1. De entadministratie draagt zorg voor het registreren, elektronisch opslaan en gedurende ten minste tien jaren bewaren van gegevens over de bloedonderzoeken van de zwangere vrouwen en het eventuele vervolg als gevolg van positieve bloedtesten op lues, hepatitis B en hiv, alsmede van de gegevens over de vervolgonderzoeken van de rhesus negatieve vrouwen.
-
-2. Tot de gegevens, bedoeld in het eerste lid, behoren ten minste de uitslagen.
-
-3. De subsidieontvanger bewaart de elektronisch opgeslagen gegevens, bedoeld in het eerste lid, gedurende minimaal tien jaren.
+Vervallen
 
 #### § 5. Nationaal programma grieppreventie
 
@@ -670,7 +622,9 @@ Voor de uitvoering van het Nationaal Programma Grieppreventie kan de minister ee
 
 ##### Artikel 61
 
-De subsidie, bedoeld in [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=5&artikel=60&z=2007-12-23&g=2007-12-23), wordt verstrekt voor griepvaccinaties die huisartsen in de periode 1 september 2007 tot en met 30 april 2008 geven aan:
+1.
+
+De subsidie, bedoeld in [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=5&artikel=60&z=2007-12-26&g=2007-12-26), wordt verstrekt voor griepvaccinaties die huisartsen in de periode 1 september 2007 tot en met 30 april 2008 geven aan:
 
 - a. patiënten met afwijkingen en functiestoornissen van de luchtwegen en longen;
 
@@ -694,13 +648,37 @@ De subsidie, bedoeld in [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR001
 
 - k. personen met verminderde weerstand tegen infecties.
 
+2.
+
+De subsidie, bedoeld in [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=5&artikel=60&z=2007-12-26&g=2007-12-26), wordt verstrekt voor griepvaccinaties die huisartsen in de periode 1 september 2008 tot en met 30 april 2009 geven aan:
+
+- a. patiënten met afwijkingen en functiestoornissen van de luchtwegen en longen;
+
+- b. patiënten met een chronische stoornis van de hartfunctie;
+
+- c. patiënten met diabetes mellitus;
+
+- d. patiënten met chronische nierinsufficiëntie;
+
+- e. patiënten die recent een beenmergtransplantatie hebben ondergaan;
+
+- f. personen geïnfecteerd met hiv;
+
+- g. kinderen en adolescenten in de leeftijd van 6 maanden tot 18 jaar die langdurig salicylaten gebruiken;
+
+- h. verstandelijk gehandicapten in intramurale voorzieningen;
+
+- i. personen van 60 jaar of ouder; of
+
+- j. personen met verminderde weerstand tegen infecties.
+
 ##### Artikel 62
 
-In afwijking van [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=8&artikel=19&z=2007-12-23&g=2007-12-23), loopt het boekjaar voor de instellingssubsidie, bedoeld in [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=5&artikel=60&z=2007-12-23&g=2007-12-23), van 1 september van enig jaar tot en met 31 augustus van het daar op volgende jaar.
+In afwijking van [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=8&artikel=19&z=2007-12-26&g=2007-12-26), loopt het boekjaar voor de instellingssubsidie, bedoeld in [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=5&artikel=60&z=2007-12-26&g=2007-12-26), van 1 mei van enig jaar tot en met 30 april van het daarop volgende jaar.
 
 ##### Artikel 63
 
-Voor de subsidie, bedoeld in [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=5&artikel=60&z=2007-12-23&g=2007-12-23), komen in aanmerking:
+Voor de subsidie, bedoeld in [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=5&artikel=60&z=2007-12-26&g=2007-12-26), komen in aanmerking:
 
 - a. de kosten van griepvaccins;
 
@@ -712,27 +690,31 @@ Voor de subsidie, bedoeld in [artikel 60](https://wetten.overheid.nl/jci1.3:c:BW
 
 ##### Artikel 64
 
-De subsidie, bedoeld in [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=5&artikel=60&z=2007-12-23&g=2007-12-23), bedraagt voor het boekjaar van 1 september 2007 tot en met 31 augustus 2008, ten hoogste € 41.273.921.
+1. De subsidie, bedoeld in [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=5&artikel=60&z=2007-12-26&g=2007-12-26), bedraagt voor het boekjaar van 1 mei 2007 tot en met 30 april 2008, ten hoogste € 41.273.921.
+
+2. De subsidie, bedoeld in [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=5&artikel=60&z=2007-12-26&g=2007-12-26), bedraagt voor het boekjaar van 1 mei 2008 tot en met 30 april 2009, ten hoogste € 49.236.654.
 
 ##### Artikel 65
 
-In afwijking van [artikel 23, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=8&artikel=23&z=2007-12-23&g=2007-12-23):
+1. In afwijking van [artikel 23, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=8&artikel=23&z=2007-12-26&g=2007-12-26):
 
-- a. bedraagt het totaal van de in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=8&artikel=23&z=2007-12-23&g=2007-12-23), bedoelde reservering in enig jaar ten hoogste 5% van het bedrag van de voor dat jaar verleende subsidie, als bedoeld in [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=5&artikel=60&z=2007-12-23&g=2007-12-23), zonder toepassing van de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=2&artikel=5&z=2007-12-23&g=2007-12-23) bedoelde vermindering;
+- a. bedraagt het totaal van de in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=8&artikel=23&z=2007-12-26&g=2007-12-26), bedoelde reservering in enig boekjaar eindigend voor 1 mei 2008 ten hoogste 5% van het bedrag van de voor dat jaar verleende subsidie, als bedoeld in [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=5&artikel=60&z=2007-12-26&g=2007-12-26), zonder toepassing van de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=2&artikel=5&z=2007-12-26&g=2007-12-26) bedoelde vermindering;
 
-- b. worden toevoegingen aan voorzieningen niet gerekend tot de lasten van de activiteiten waarvoor een subsidie als bedoeld in [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=5&artikel=60&z=2007-12-23&g=2007-12-23) wordt verstrekt.
+- b. worden toevoegingen aan voorzieningen in enig boekjaar eindigend voor 1 mei 2008 niet gerekend tot de lasten van de activiteiten waarvoor een subsidie als bedoeld in [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=5&artikel=60&z=2007-12-26&g=2007-12-26) wordt verstrekt.
+
+2. In afwijking van [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=8&artikel=23&z=2007-12-26&g=2007-12-26) bedraagt het totaal van de in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=8&artikel=23&z=2007-12-26&g=2007-12-26), bedoelde reservering voor het boekjaar van 1 mei 2008 tot en met 30 april 2009 ten hoogste € 500.000.
 
 ##### Artikel 66
 
-De stichting, genoemd in [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=5&artikel=60&z=2007-12-23&g=2007-12-23), draagt er zorg voor dat huisartsen:
+De stichting, genoemd in [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=5&artikel=60&z=2007-12-26&g=2007-12-26), draagt er zorg voor dat huisartsen:
 
-- a. registreren tot welke risicogroepen, bedoeld in [artikel 61, onderdelen a tot en met k](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=5&artikel=61&z=2007-12-23&g=2007-12-23), gevaccineerden behoren;
+- a. registreren tot welke risicogroepen, bedoeld in [artikel 61, onderdelen a tot en met k](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=5&artikel=61&z=2007-12-26&g=2007-12-26), gevaccineerden behoren;
 
 - b. gedurende ten minste vijf jaren de registratie, bedoeld onder a, bewaren.
 
 ##### Artikel 67
 
-De stichting, genoemd in [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=5&artikel=60&z=2007-12-23&g=2007-12-23):
+De stichting, genoemd in [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=5&artikel=60&z=2007-12-26&g=2007-12-26):
 
 - a. verleent medewerking aan de publieksvoorlichting over het Nationaal Programma Grieppreventie en aan de evaluatie van het Nationaal Programma Grieppreventie, die door de minister of door andere organisaties in opdracht van de minister worden uitgevoerd;
 
@@ -800,7 +782,7 @@ In deze paragraaf wordt verstaan onder:
 
 - 1°. coördineren van het aanbod van soa-bestrijding, en
 
-- 2°. waarborgen dat de soa-bestrijding voldoet aan [artikel 70](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=6&sub-paragraaf=6.2&artikel=70&z=2007-12-23&g=2007-12-23);
+- 2°. waarborgen dat de soa-bestrijding voldoet aan [artikel 70](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=6&sub-paragraaf=6.2&artikel=70&z=2007-12-26&g=2007-12-26);
 
 - f. soa-onderzoek: onderzoek van lichaamsmateriaal ten behoeve van het stellen van een diagnose in het kader van de soa-bestrijding;
 
@@ -824,7 +806,7 @@ In deze paragraaf wordt verstaan onder:
 
 - 1°. coördineren van het aanbod van seksualiteitshulpverlening, en
 
-- 2°. waarborgen dat de hulpverlening voldoet aan [artikel 75k](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=6&sub-paragraaf=6.5&artikel=75k&z=2007-12-23&g=2007-12-23);
+- 2°. waarborgen dat de hulpverlening voldoet aan [artikel 75k](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=6&sub-paragraaf=6.5&artikel=75k&z=2007-12-26&g=2007-12-26);
 
 - j. consult seksualiteitshulpverlening: het aan een cliënt verlenen van seksualiteitshulpverlening door middel van een individueel en face to face consult, dat tenminste bestaat uit het signaleren van hulpvragen, het geven van informatie en advies en het registreren van gegevens ten behoeve van ontwikkeling van het beleid op het gebied van seksualiteitshulpverlening.
 
@@ -832,7 +814,7 @@ In deze paragraaf wordt verstaan onder:
 
 De minister kan aan een coördinerende GGD jaarlijks een instellingssubsidie verstrekken voor soa-coördinatie en soa-bestrijding in het verzorgingsgebied waar de coördinerende GGD is gevestigd, indien in het tweede jaar voorafgaande aan het jaar waarvoor de instellingssubsidie wordt verstrekt:
 
-- a. het totaal aantal gevonden soa’s dat in het verzorgingsgebied van de desbetreffende coördinerende GGD in het kader van de soa-bestrijding werd geconstateerd, ten minste gelijk is aan het getal dat wordt uitgedrukt met letter E in de formule, bedoeld in [artikel 71, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=6&sub-paragraaf=6.2&artikel=71&z=2007-12-23&g=2007-12-23);
+- a. het totaal aantal gevonden soa’s dat in het verzorgingsgebied van de desbetreffende coördinerende GGD in het kader van de soa-bestrijding werd geconstateerd, ten minste gelijk is aan het getal dat wordt uitgedrukt met letter E in de formule, bedoeld in [artikel 71, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=6&sub-paragraaf=6.2&artikel=71&z=2007-12-26&g=2007-12-26);
 
 - b. er in het verzorgingsgebied van de desbetreffende coördinerende GGD in het kader van de soa-bestrijding in totaal ten minste vier keer zoveel soa-onderzoeken werden verricht dan er gevonden soa’s werden geconstateerd.
 
@@ -868,7 +850,7 @@ De coördinerende GGD draagt er ten behoeve van zijn verzorgingsgebied zorg voor
 
 ##### Artikel 71
 
-1. In afwijking van [Hoofdstuk I, paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=2&z=2007-12-23&g=2007-12-23), bestaat de instellingssubsidie voor soa-coördinatie en soa-bestrijding uit het bedrag dat wordt berekend met de formule A + (B × C) + (D – E) × F, waarbij wordt verstaan onder:
+1. In afwijking van [Hoofdstuk I, paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=2&z=2007-12-26&g=2007-12-26), bestaat de instellingssubsidie voor soa-coördinatie en soa-bestrijding uit het bedrag dat wordt berekend met de formule A + (B × C) + (D – E) × F, waarbij wordt verstaan onder:
 
 - A. een normbedrag van € 20.000,
 
@@ -878,7 +860,7 @@ De coördinerende GGD draagt er ten behoeve van zijn verzorgingsgebied zorg voor
 
 - D. het totaal aantal gevonden soa’s in het verzorgingsgebied van de desbetreffende coördinerende GGD in het tweede jaar voorafgaande aan het jaar waarvoor de instellingssubsidie wordt verstrekt, tot ten hoogste 125% van het totaal aantal gevonden soa’s in het verzorgingsgebied van de desbetreffende coördinerende GGD in het derde jaar voorafgaande aan het jaar waarvoor de instellingssubsidie wordt verstrekt,
 
-- E. (B × C) ∕ € 1128,71, en
+- E. (B × C) ∕ € 1.129,49, en
 
 - F. een normbedrag per gevonden soa van € 596,46,
 
@@ -888,27 +870,27 @@ en waarbij (D–E) gelijk wordt gesteld aan nul indien E groter is dan D.
 
 ##### Artikel 72
 
-In afwijking van [artikel 71, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=6&sub-paragraaf=6.2&artikel=71&z=2007-12-23&g=2007-12-23), wordt het aantal gevonden soa's in 2005 ontleend aan onderzoeksgegevens van de minister over het voorkomen van soa’s.
+In afwijking van [artikel 71, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=6&sub-paragraaf=6.2&artikel=71&z=2007-12-26&g=2007-12-26), wordt het aantal gevonden soa's in 2005 ontleend aan onderzoeksgegevens van de minister over het voorkomen van soa’s.
 
 ##### Artikel 73
 
-In afwijking van [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=5&artikel=9&z=2007-12-23&g=2007-12-23), wordt een aanvraag van de instellingssubsidie voor soa-coördinatie en soa-bestrijding onderbouwd met een activiteitenplan en gaat deze aanvraag vergezeld van:
+In afwijking van [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=5&artikel=9&z=2007-12-26&g=2007-12-26), wordt een aanvraag van de instellingssubsidie voor soa-coördinatie en soa-bestrijding onderbouwd met een activiteitenplan en gaat deze aanvraag vergezeld van:
 
 - a. verklaringen van andere gemeentelijke gezondheidsdiensten uit het verzorgingsgebied waarmee de coördinerende GGD samenwerkt in het kader van de soa-bestrijding, waaruit blijkt dat zij instemmen met de soa-coördinatie, en
 
-- b. het verslag, bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=8&artikel=22&z=2007-12-23&g=2007-12-23), over het tweede jaar voorafgaande aan het jaar waarvoor de instellingssubsidie wordt verstrekt, waarin ten minste is opgenomen het aantal soa-onderzoeken en het aantal gevonden soa’s in het verzorgingsgebied van de desbetreffende coördinerende GGD, en
+- b. het verslag, bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=8&artikel=22&z=2007-12-26&g=2007-12-26), over het tweede jaar voorafgaande aan het jaar waarvoor de instellingssubsidie wordt verstrekt, waarin ten minste is opgenomen het aantal soa-onderzoeken en het aantal gevonden soa’s in het verzorgingsgebied van de desbetreffende coördinerende GGD, en
 
 - c. een bestuursverklaring.
 
 ##### Artikel 74
 
-1. In afwijking van de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=7&artikel=14&z=2007-12-23&g=2007-12-23) en [36](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=10&artikel=36&z=2007-12-23&g=2007-12-23) geeft de minister binnen dertien weken na ontvangst van de aanvraag van de instellingssubsidie voor soa-coördinatie en soa-bestrijding een beschikking tot vaststelling.
+1. In afwijking van de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=7&artikel=14&z=2007-12-26&g=2007-12-26) en [36](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=10&artikel=36&z=2007-12-26&g=2007-12-26) geeft de minister binnen dertien weken na ontvangst van de aanvraag van de instellingssubsidie voor soa-coördinatie en soa-bestrijding een beschikking tot vaststelling.
 
 2. De instellingssubsidie voor soa-coördinatie en soa-bestrijding wordt betaald in de volgende termijnen: in januari 8%, februari 8%, maart 8%, april 7%, mei 16%, juni 7%, juli 8%, augustus 8%, september 7%, oktober 8%, november 8% en december 7% van het voor het desbetreffende jaar vastgestelde bedrag.
 
 ##### Artikel 75
 
-De [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=8&artikel=23&z=2007-12-23&g=2007-12-23), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=8&artikel=24&z=2007-12-23&g=2007-12-23), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=9&artikel=32&z=2007-12-23&g=2007-12-23), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=9&artikel=33&z=2007-12-23&g=2007-12-23) en [35](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=9&artikel=35&z=2007-12-23&g=2007-12-23) zijn niet van toepassing op een instellingssubsidie voor soa-coördinatie en soa-bestrijding.
+De [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=8&artikel=23&z=2007-12-26&g=2007-12-26), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=8&artikel=24&z=2007-12-26&g=2007-12-26), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=9&artikel=32&z=2007-12-26&g=2007-12-26), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=9&artikel=33&z=2007-12-26&g=2007-12-26) en [35](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=9&artikel=35&z=2007-12-26&g=2007-12-26) zijn niet van toepassing op een instellingssubsidie voor soa-coördinatie en soa-bestrijding.
 
 ### Hoofdstuk III. Slotbepalingen
 
@@ -944,7 +926,7 @@ Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
 6. De Minister geeft binnen 4 weken na ontvangst van het overzicht, bedoeld in het vierde lid, een beschikking tot vaststelling van de instellingssubsidie, bedoeld in het eerste lid.
 
-7. De [artikelen 3, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=1&artikel=3&z=2007-12-23&g=2007-12-23), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=2&artikel=4&z=2007-12-23&g=2007-12-23), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=2&artikel=5&z=2007-12-23&g=2007-12-23), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=5&artikel=9&z=2007-12-23&g=2007-12-23), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=7&artikel=14&z=2007-12-23&g=2007-12-23), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=7&artikel=15&z=2007-12-23&g=2007-12-23), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=8&artikel=17&z=2007-12-23&g=2007-12-23), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=8&artikel=19&z=2007-12-23&g=2007-12-23), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=8&artikel=22&z=2007-12-23&g=2007-12-23), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=8&artikel=23&z=2007-12-23&g=2007-12-23), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=8&artikel=24&z=2007-12-23&g=2007-12-23), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=9&artikel=32&z=2007-12-23&g=2007-12-23), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=9&artikel=33&z=2007-12-23&g=2007-12-23), [34](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=9&artikel=34&z=2007-12-23&g=2007-12-23), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=9&artikel=35&z=2007-12-23&g=2007-12-23) en [36](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=10&artikel=36&z=2007-12-23&g=2007-12-23) zijn niet van toepassing op de instellingssubsidie, bedoeld in het eerste lid.
+7. De [artikelen 3, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=1&artikel=3&z=2007-12-26&g=2007-12-26), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=2&artikel=4&z=2007-12-26&g=2007-12-26), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=2&artikel=5&z=2007-12-26&g=2007-12-26), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=5&artikel=9&z=2007-12-26&g=2007-12-26), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=7&artikel=14&z=2007-12-26&g=2007-12-26), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=7&artikel=15&z=2007-12-26&g=2007-12-26), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=8&artikel=17&z=2007-12-26&g=2007-12-26), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=8&artikel=19&z=2007-12-26&g=2007-12-26), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=8&artikel=22&z=2007-12-26&g=2007-12-26), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=8&artikel=23&z=2007-12-26&g=2007-12-26), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=8&artikel=24&z=2007-12-26&g=2007-12-26), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=9&artikel=32&z=2007-12-26&g=2007-12-26), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=9&artikel=33&z=2007-12-26&g=2007-12-26), [34](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=9&artikel=34&z=2007-12-26&g=2007-12-26), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=9&artikel=35&z=2007-12-26&g=2007-12-26) en [36](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=10&artikel=36&z=2007-12-26&g=2007-12-26) zijn niet van toepassing op de instellingssubsidie, bedoeld in het eerste lid.
 
 8. De instellingssubsidie, bedoeld in het eerste lid, wordt ten laatste verstrekt voor het tweede kwartaal van het jaar 2007.
 
@@ -962,11 +944,11 @@ Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 75c
 
-In afwijking van [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=5&artikel=9&z=2007-12-23&g=2007-12-23), wordt een aanvraag van de instellingssubsidie voor soa-onderzoek, bedoeld in [artikel 75b](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=6&sub-paragraaf=6.4&artikel=75b&z=2007-12-23&g=2007-12-23), onderbouwd met een activiteitenplan en gaat deze aanvraag vergezeld van een opgave van het aantal soa-onderzoeken in de periode van 1 januari tot en met 30 juni van het jaar voorafgaande aan het jaar waarvoor de instellingssubsidie wordt verstrekt.
+In afwijking van [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=5&artikel=9&z=2007-12-26&g=2007-12-26), wordt een aanvraag van de instellingssubsidie voor soa-onderzoek, bedoeld in [artikel 75b](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=6&sub-paragraaf=6.4&artikel=75b&z=2007-12-26&g=2007-12-26), onderbouwd met een activiteitenplan en gaat deze aanvraag vergezeld van een opgave van het aantal soa-onderzoeken in de periode van 1 januari tot en met 30 juni van het jaar voorafgaande aan het jaar waarvoor de instellingssubsidie wordt verstrekt.
 
 ##### Artikel 75d
 
-De Minister verleent een instellingssubsidie voor soa-onderzoek, bedoeld in [artikel 75b](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=6&sub-paragraaf=6.4&artikel=75b&z=2007-12-23&g=2007-12-23), van ten hoogste het bedrag dat in afwijking van [Hoofdstuk I, paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=2&z=2007-12-23&g=2007-12-23), wordt berekend met de formule (G × 2) × H, waarbij wordt verstaan onder:
+De Minister verleent een instellingssubsidie voor soa-onderzoek, bedoeld in [artikel 75b](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=6&sub-paragraaf=6.4&artikel=75b&z=2007-12-26&g=2007-12-26), van ten hoogste het bedrag dat in afwijking van [Hoofdstuk I, paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=2&z=2007-12-26&g=2007-12-26), wordt berekend met de formule (G × 2) × H, waarbij wordt verstaan onder:
 
 G. het totaal aantal soa-onderzoeken dat in het verzorgingsgebied van de desbetreffende coördinerende GGD is verricht in de periode van 1 januari tot en met 30 juni van het jaar voorafgaande aan het jaar waarvoor de instellingssubsidie wordt verstrekt, en
 
@@ -974,7 +956,7 @@ H. een normbedrag van € 136 per soa-onderzoek.
 
 ##### Artikel 75e
 
-De coördinerende GGD waaraan een instellingssubsidie voor soa-onderzoek, bedoeld in [artikel 75b](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=6&sub-paragraaf=6.4&artikel=75b&z=2007-12-23&g=2007-12-23), is verleend, draagt er zorg voor dat aan de Minister op door hem te bepalen wijze gegevens worden verstrekt over de uitvoering van de activiteiten waarvoor de subsidie wordt verstrekt.
+De coördinerende GGD waaraan een instellingssubsidie voor soa-onderzoek, bedoeld in [artikel 75b](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=6&sub-paragraaf=6.4&artikel=75b&z=2007-12-26&g=2007-12-26), is verleend, draagt er zorg voor dat aan de Minister op door hem te bepalen wijze gegevens worden verstrekt over de uitvoering van de activiteiten waarvoor de subsidie wordt verstrekt.
 
 ### Hoofdstuk III. Slotbepalingen
 
@@ -982,33 +964,7 @@ Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 20a
 
-1. De subsidieontvanger behoeft de toestemming van de minister voor:
-
-- a. het oprichten van dan wel deelnemen in een rechtspersoon;
-
-- b. het wijzigen van de statuten;
-
-- c. het in eigendom verwerven, het vervreemden of het bezwaren van registergoederen, indien zij mede zijn verworven door middel van de subsidiegelden, dan wel de lasten daarvoor mede worden bekostigd uit de subsidiegelden;
-
-- d. het aangaan en beëindigen van overeenkomsten tot verkrijging, vervreemding of bezwaring van registergoederen of tot huur, verhuur of pacht daarvan, indien deze goederen geheel of gedeeltelijk zijn verworven door middel van de subsidie dan wel de uitgaven daarvoor mede zijn bekostigd uit de subsidie;
-
-- e. het aangaan van kredietovereenkomsten en van overeenkomsten van geldlening;
-
-- f. het aangaan van overeenkomsten waarbij de subsidieontvanger zich verbindt tot zekerheidsstelling met inbegrip van zekerheidsstelling voor schulden van derden of waarbij hij zich als borg of hoofdelijk medeschuldenaar verbindt of zich voor een derde sterk maakt;
-
-- g. het vormen van fondsen en reserveringen;
-
-- h. het vaststellen of wijzigen van tarieven voor door de subsidieontvanger in de gewone uitoefening van zijn gesubsidieerde activiteiten te verrichten prestaties;
-
-- i. het ontbinden van de rechtspersoon;
-
-- j. het doen van aangifte tot zijn faillissement of het aanvragen van zijn surséance van betaling.
-
-2. De minister beslist binnen vier weken omtrent de toestemming.
-
-3. De beslissing kan eenmaal voor ten hoogste vier weken worden verdaagd.
-
-4. Indien omtrent de toestemming niet tijdig is beslist, wordt de toestemming geacht te zijn verleend.
+Vervallen
 
 #### § 9. De aanvraag tot subsidievaststelling
 
@@ -1046,7 +1002,7 @@ Uiterlijk 15 juli van het jaar volgend op het jaar waarvoor een coördinerende G
 
 ##### Artikel 75f
 
-In afwijking van de [artikelen 32 tot en met 36](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=9&artikel=32&z=2007-12-23&g=2007-12-23) wordt de instellingssubsidie voor soa-onderzoek, bedoeld in [artikel 75b](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=6&sub-paragraaf=6.4&artikel=75b&z=2007-12-23&g=2007-12-23), als volgt vastgesteld:
+In afwijking van de [artikelen 32 tot en met 36](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=9&artikel=32&z=2007-12-26&g=2007-12-26) wordt de instellingssubsidie voor soa-onderzoek, bedoeld in [artikel 75b](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=6&sub-paragraaf=6.4&artikel=75b&z=2007-12-26&g=2007-12-26), als volgt vastgesteld:
 
 - a. het college van burgemeester en wethouders vraagt de vaststelling van de subsidie aan door verantwoordingsinformatie aan de minister te verstrekken op de wijze bedoeld in [artikel 27 van het Besluit financiële verhouding 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&artikel=27);
 
@@ -1056,7 +1012,7 @@ In afwijking van de [artikelen 32 tot en met 36](https://wetten.overheid.nl/jci1
 
 ##### Artikel 75g
 
-De Minister stelt een instellingssubsidie voor soa-onderzoek, bedoeld in [artikel 75b](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=6&sub-paragraaf=6.4&artikel=75b&z=2007-12-23&g=2007-12-23), vast op het bedrag dat in afwijking van [Hoofdstuk I, paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=2&z=2007-12-23&g=2007-12-23), wordt berekend met de formule I × J, waarbij wordt verstaan onder:
+De Minister stelt een instellingssubsidie voor soa-onderzoek, bedoeld in [artikel 75b](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=6&sub-paragraaf=6.4&artikel=75b&z=2007-12-26&g=2007-12-26), vast op het bedrag dat in afwijking van [Hoofdstuk I, paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=2&z=2007-12-26&g=2007-12-26), wordt berekend met de formule I × J, waarbij wordt verstaan onder:
 
 I. het totaal aantal soa-onderzoeken dat in het verzorgingsgebied van de desbetreffende coördinerende GGD is verricht in het jaar waarvoor de instellingssubsidie wordt verstrekt, en
 
@@ -1064,17 +1020,17 @@ J. een normbedrag van € 136 per soa-onderzoek.
 
 ##### Artikel 75h
 
-1. In afwijking van [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=5&artikel=9&z=2007-12-23&g=2007-12-23), wordt een aanvraag voor een instellingssubsidie voor soa-onderzoek, bedoeld in [artikel 75b](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=6&sub-paragraaf=6.4&artikel=75b&z=2007-12-23&g=2007-12-23), voor het jaar 2007 uiterlijk 15 augustus 2007 ingediend.
+1. In afwijking van [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=5&artikel=9&z=2007-12-26&g=2007-12-26), wordt een aanvraag voor een instellingssubsidie voor soa-onderzoek, bedoeld in [artikel 75b](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=6&sub-paragraaf=6.4&artikel=75b&z=2007-12-26&g=2007-12-26), voor het jaar 2007 uiterlijk 15 augustus 2007 ingediend.
 
-2. In afwijking van de aanhef van [artikel 75d](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=6&sub-paragraaf=6.4&artikel=75d&z=2007-12-23&g=2007-12-23) wordt de instellingssubsidie voor soa-onderzoek, bedoeld in [artikel 75b](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=6&sub-paragraaf=6.4&artikel=75b&z=2007-12-23&g=2007-12-23), voor de verlening voor het jaar 2007 berekend met de formule G × H.
+2. In afwijking van de aanhef van [artikel 75d](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=6&sub-paragraaf=6.4&artikel=75d&z=2007-12-26&g=2007-12-26) wordt de instellingssubsidie voor soa-onderzoek, bedoeld in [artikel 75b](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=6&sub-paragraaf=6.4&artikel=75b&z=2007-12-26&g=2007-12-26), voor de verlening voor het jaar 2007 berekend met de formule G × H.
 
-3. In afwijking van [artikel 75f](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=6&sub-paragraaf=6.4&artikel=75f&z=2007-12-23&g=2007-12-23) gaat de aanvraag voor de vaststelling van de instellingssubsidie voor soa-onderzoek, bedoeld in [artikel 75b](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=6&sub-paragraaf=6.4&artikel=75b&z=2007-12-23&g=2007-12-23), voor het jaar 2007 vergezeld van een opgave van het totaal aantal soa-onderzoeken dat in het verzorgingsgebied van de desbetreffende coördinerende GGD is verricht in de periode van 1 juli 2007 tot en met 31 december 2007.
+3. In afwijking van [artikel 75f](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=6&sub-paragraaf=6.4&artikel=75f&z=2007-12-26&g=2007-12-26) gaat de aanvraag voor de vaststelling van de instellingssubsidie voor soa-onderzoek, bedoeld in [artikel 75b](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=6&sub-paragraaf=6.4&artikel=75b&z=2007-12-26&g=2007-12-26), voor het jaar 2007 vergezeld van een opgave van het totaal aantal soa-onderzoeken dat in het verzorgingsgebied van de desbetreffende coördinerende GGD is verricht in de periode van 1 juli 2007 tot en met 31 december 2007.
 
-4. In afwijking van [artikel 75g](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=6&sub-paragraaf=6.4&artikel=75g&z=2007-12-23&g=2007-12-23) wordt voor de vaststelling van de instellingssubsidie voor soa-onderzoek, bedoeld in [artikel 75b](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=6&sub-paragraaf=6.4&artikel=75b&z=2007-12-23&g=2007-12-23), voor het jaar 2007 onder de letter I verstaan: het totaal aantal soa-onderzoeken dat in het verzorgingsgebied van de desbetreffende coördinerende GGD is verricht in de periode van 1 juli 2007 tot en met 31 december 2007.
+4. In afwijking van [artikel 75g](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=6&sub-paragraaf=6.4&artikel=75g&z=2007-12-26&g=2007-12-26) wordt voor de vaststelling van de instellingssubsidie voor soa-onderzoek, bedoeld in [artikel 75b](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=6&sub-paragraaf=6.4&artikel=75b&z=2007-12-26&g=2007-12-26), voor het jaar 2007 onder de letter I verstaan: het totaal aantal soa-onderzoeken dat in het verzorgingsgebied van de desbetreffende coördinerende GGD is verricht in de periode van 1 juli 2007 tot en met 31 december 2007.
 
 ##### Artikel 75i
 
-De [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=8&artikel=23&z=2007-12-23&g=2007-12-23) en [24](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=8&artikel=24&z=2007-12-23&g=2007-12-23) zijn niet van toepassing op een instellingssubsidie voor soa-onderzoek, bedoeld in [artikel 75b](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=6&sub-paragraaf=6.4&artikel=75b&z=2007-12-23&g=2007-12-23).
+De [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=8&artikel=23&z=2007-12-26&g=2007-12-26) en [24](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=8&artikel=24&z=2007-12-26&g=2007-12-26) zijn niet van toepassing op een instellingssubsidie voor soa-onderzoek, bedoeld in [artikel 75b](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=6&sub-paragraaf=6.4&artikel=75b&z=2007-12-26&g=2007-12-26).
 
 ### Hoofdstuk III. Slotbepalingen
 
@@ -1110,7 +1066,7 @@ De coördinerende GGD draagt er ten behoeve van zijn verzorgingsgebied zorg voor
 
 ##### Artikel 75l
 
-In afwijking van [Hoofdstuk I, paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=2&z=2007-12-23&g=2007-12-23), bestaat de instellingssubsidie voor seksualiteitshulpverlening en seksualiteitshulpverleningscoördinatie ten behoeve van het jaar 2008 uit het bedrag dat wordt berekend met de formule A+(B*C), waarbij wordt verstaan onder:
+In afwijking van [Hoofdstuk I, paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=2&z=2007-12-26&g=2007-12-26), bestaat de instellingssubsidie voor seksualiteitshulpverlening en seksualiteitshulpverleningscoördinatie ten behoeve van het jaar 2008 uit het bedrag dat wordt berekend met de formule A+(B*C), waarbij wordt verstaan onder:
 
 - a. een normbedrag van € 200.262,
 
@@ -1120,21 +1076,21 @@ In afwijking van [Hoofdstuk I, paragraaf 2](https://wetten.overheid.nl/jci1.3:c:
 
 ##### Artikel 75m
 
-1. In afwijking van [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=5&artikel=9&z=2007-12-23&g=2007-12-23), wordt een aanvraag van de instellingssubsidie voor seksualiteitshulpverlening en seksualiteitshulpverleningscoördinatie onderbouwd met een activiteitenplan en gaat deze aanvraag vergezeld van:
+1. In afwijking van [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=5&artikel=9&z=2007-12-26&g=2007-12-26), wordt een aanvraag van de instellingssubsidie voor seksualiteitshulpverlening en seksualiteitshulpverleningscoördinatie onderbouwd met een activiteitenplan en gaat deze aanvraag vergezeld van:
 
 - a. verklaringen van andere gemeentelijke gezondheidsdiensten of andere partijen uit het verzorgingsgebied waarmee de coördinerende GGD samenwerkt in het kader van de seksualiteitshulpverlening, waaruit blijkt dat zij instemmen met de seksualiteitshulpverleningscoördinatie,
 
 - b. het aantal te verrichten consulten seksualiteitshulpverlening in het jaar waarvoor de instellingssubsidie wordt verstrekt.
 
-2. In afwijking van [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=5&artikel=9&z=2007-12-23&g=2007-12-23), dient de coördinerende GGD de aanvraag van de instellingssubsidie voor seksualiteitshulpverlening en seksualiteitshulpverleningscoördinatie ten behoeve van het jaar 2008 uiterlijk 15 november 2007 in.
+2. In afwijking van [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=5&artikel=9&z=2007-12-26&g=2007-12-26), dient de coördinerende GGD de aanvraag van de instellingssubsidie voor seksualiteitshulpverlening en seksualiteitshulpverleningscoördinatie ten behoeve van het jaar 2008 uiterlijk 15 november 2007 in.
 
 ##### Artikel 75n
 
-In afwijking van [artikel 15, eerste lid, tweede volzin, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=7&artikel=15&z=2007-12-23&g=2007-12-23), verstrekt de minister de volgende voorschotten op een verleende instellingssubsidie voor seksualiteitshulpverlening en seksualiteitshulpverleningscoördinatie: in januari 8%, februari 8%, maart 8%, april 7%, mei 16%, juni 7%, juli 8%, augustus 8%, september 7%, oktober 8%, november 8% en december 7% van het voor het desbetreffende jaar verleende bedrag.
+In afwijking van [artikel 15, eerste lid, tweede volzin, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=7&artikel=15&z=2007-12-26&g=2007-12-26), verstrekt de minister de volgende voorschotten op een verleende instellingssubsidie voor seksualiteitshulpverlening en seksualiteitshulpverleningscoördinatie: in januari 8%, februari 8%, maart 8%, april 7%, mei 16%, juni 7%, juli 8%, augustus 8%, september 7%, oktober 8%, november 8% en december 7% van het voor het desbetreffende jaar verleende bedrag.
 
 ##### Artikel 75o
 
-In afwijking van de [artikelen 32 tot en met 36](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=9&artikel=32&z=2007-12-23&g=2007-12-23) wordt de instellingssubsidie voor seksualiteitshulpverlening en seksualiteitshulpverleningscoördinatie, bedoeld in [artikel 75j](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=6&sub-paragraaf=6.5&artikel=75j&z=2007-12-23&g=2007-12-23), als volgt vastgesteld:
+In afwijking van de [artikelen 32 tot en met 36](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=9&artikel=32&z=2007-12-26&g=2007-12-26) wordt de instellingssubsidie voor seksualiteitshulpverlening en seksualiteitshulpverleningscoördinatie, bedoeld in [artikel 75j](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=6&sub-paragraaf=6.5&artikel=75j&z=2007-12-26&g=2007-12-26), als volgt vastgesteld:
 
 - a. het college van burgemeester en wethouders vraagt de vaststelling van de subsidie aan door verantwoordingsinformatie aan de minister te verstrekken op de wijze bedoeld in [artikel 27 van het Besluit financiële verhouding 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&artikel=27);
 
@@ -1144,7 +1100,7 @@ In afwijking van de [artikelen 32 tot en met 36](https://wetten.overheid.nl/jci1
 
 ##### Artikel 75p
 
-De [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=8&artikel=23&z=2007-12-23&g=2007-12-23) en [24](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=8&artikel=24&z=2007-12-23&g=2007-12-23) zijn niet van toepassing op een instellingssubsidie voor seksualiteitshulpverlening en seksualiteitshulpverleningscoördinatie.
+De [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=8&artikel=23&z=2007-12-26&g=2007-12-26) en [24](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=8&artikel=24&z=2007-12-26&g=2007-12-26) zijn niet van toepassing op een instellingssubsidie voor seksualiteitshulpverlening en seksualiteitshulpverleningscoördinatie.
 
 ### Hoofdstuk III. Slotbepalingen
 
@@ -1152,31 +1108,27 @@ Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 47a
 
-Dit onderdeel is nog niet inwerking getreden
+1. De Minister kan aan een in [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=2&artikel=42&z=2007-12-26&g=2007-12-26) genoemde screeningsorganisatie een projectsubsidie verstrekken ten behoeve van de versterking van de infrastructuur van de kankerscreening.
+
+2. Bij de verlening van de subsidie bedoeld in het eerste lid, kan de Minister verplichtingen opleggen met betrekking tot een wijze van uitvoering van het bevolkingsonderzoek naar baarmoederhalskanker die bijdraagt aan de versterking van de infrastructuur van de kankerscreening.
 
 #### § 3. Bevolkingsonderzoek naar borstkanker
 
 ##### Artikel 53a
 
-Dit onderdeel is nog niet inwerking getreden
+De Minister kan aan een in [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=3&artikel=49&z=2007-12-26&g=2007-12-26) genoemde screeningsorganisatie een projectsubsidie verstrekken ten behoeve van de digitalisering van het bevolkingsonderzoek naar borstkanker.
 
 ##### Artikel 53b
 
-Dit onderdeel is nog niet inwerking getreden
+1. De Minister kan aan een in [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=3&artikel=49&z=2007-12-26&g=2007-12-26) genoemde screeningsorganisatie een projectsubsidie verstrekken ten behoeve van de versterking van de infrastructuur van de kankerscreening.
+
+2. Bij de verlening van de subsidie bedoeld in het eerste lid, kan de Minister verplichtingen opleggen met betrekking tot een wijze van uitvoering van het bevolkingsonderzoek naar borstkanker die bijdraagt aan de versterking van de infrastructuur van de kankerscreening.
 
 #### § 4. Pre- en postnatale preventie
 
 ##### Artikel 59a
 
-1. In afwijking van de [artikelen 32 tot en met 36](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=9&artikel=32&z=2007-12-23&g=2007-12-23) wordt de subsidie, bedoeld in [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=4&artikel=54&z=2007-12-23&g=2007-12-23), aan de entadministraties, genoemd in [artikel 55, onderdelen i en j](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=4&artikel=55&z=2007-12-23&g=2007-12-23), als volgt vastgesteld:
-
-- a. het college van burgemeester en wethouders vraagt de vaststelling van de subsidie aan door verantwoordingsinformatie aan de minister te verstrekken op de wijze bedoeld in [artikel 27 van het Besluit financiële verhouding 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&artikel=27);
-
-- b. [artikel 58a van het Besluit begroting en verantwoording provincies en gemeenten](https://wetten.overheid.nl/jci1.3:c:BWBR0014606&artikel=58a) is van overeenkomstige toepassing op de verantwoordingsinformatie;
-
-- c. binnen zes maanden na ontvangst van de verantwoordingsinformatie geeft de minister een beschikking tot vaststelling van de subsidie.
-
-2. Het eerste lid wordt toegepast ten aanzien van subsidies waarvan de periode waarvoor subsidie is verleend eindigt na 31 december 2006.
+Vervallen
 
 #### § 5. Nationaal programma grieppreventie
 
