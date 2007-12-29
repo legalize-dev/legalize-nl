@@ -4,7 +4,7 @@ identifier: "BWBR0005108"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2007-01-01"
+last_updated: "2007-12-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005108"
 soort: "wet"
@@ -49,25 +49,25 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 1. Waterschappen zijn openbare lichamen welke de waterstaatkundige verzorging van een bepaald gebied ten doel hebben.
 
-2. De taken die tot dat doel aan waterschappen zijn of worden opgedragen betreffen de zorg voor hetzij de waterkering hetzij de waterhuishouding hetzij beide. Aan waterschappen, die met tenminste een van zulke taken zijn belast, kan daarnaast de zorg voor een of meer andere waterstaatsaangelegenheden zijn of worden opgedragen.
+2. De taken die tot dat doel aan waterschappen zijn of worden opgedragen betreffen de zorg voor het watersysteem en de zorg voor het zuiveren van afvalwater op de voet van [artikel 15a van de Wet verontreiniging oppervlaktewateren](https://wetten.overheid.nl/jci1.3:c:BWBR0002682&artikel=15a). Daarnaast kan de zorg voor een of meer andere waterstaatsaangelegenheden zijn of worden opgedragen.
 
 ##### Artikel 2
 
-1. De bevoegdheid tot het opheffen en het instellen van waterschappen, tot regeling van hun gebied, taken, inrichting, samenstelling van hun bestuur en categorieën van omslagplichtigen en tot de verdere reglementering van waterschappen behoort aan provinciale staten, behoudens het bepaalde in de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=I&hoofdstuk=II&artikel=7&z=2007-01-01&g=2007-01-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=I&hoofdstuk=II&artikel=8&z=2007-01-01&g=2007-01-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=I&hoofdstuk=II&artikel=9&z=2007-01-01&g=2007-01-01). De uitoefening van deze bevoegdheid geschiedt bij provinciale verordening.
+1. De bevoegdheid tot het opheffen en het instellen van waterschappen, tot regeling van hun gebied, taken, inrichting, samenstelling van hun bestuur en tot de verdere reglementering van waterschappen behoort aan provinciale staten, behoudens het bepaalde in de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=I&hoofdstuk=II&artikel=7&z=2007-12-29&g=2007-12-29), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=I&hoofdstuk=II&artikel=8&z=2007-12-29&g=2007-12-29) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=I&hoofdstuk=II&artikel=9&z=2007-12-29&g=2007-12-29). De uitoefening van deze bevoegdheid geschiedt bij provinciale verordening.
 
-2. Voor de uitoefening van de in het eerste lid bedoelde bevoegdheid geldt dat taken, als bedoeld in [artikel 1, tweede lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=I&hoofdstuk=I&artikel=1&z=2007-01-01&g=2007-01-01), aan waterschappen worden opgedragen, tenzij dit niet verenigbaar is met het belang van een goede organisatie van de waterstaatkundige verzorging.
+2. Voor de uitoefening van de in het eerste lid bedoelde bevoegdheid geldt dat taken, als bedoeld in [artikel 1, tweede lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=I&hoofdstuk=I&artikel=1&z=2007-12-29&g=2007-12-29), aan waterschappen worden opgedragen, tenzij dit niet verenigbaar is met het belang van een goede organisatie van de waterstaatkundige verzorging.
 
 ### Hoofdstuk II. Bepalingen voor het opheffen, het instellen en het reglementeren van waterschappen
 
 ##### Artikel 3
 
-1. Indien naar het oordeel van gedeputeerde staten gronden aanwezig zijn om het opheffen of instellen van een waterschap, de vaststelling van een reglement voor een waterschap of een wijziging van een dergelijk reglement te overwegen, treden zij voor de bepaling van hun standpunt in overleg met het dagelijks bestuur van het waterschap of de waterschappen die het betreft, alvorens zij toepassing geven aan [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=I&hoofdstuk=II&artikel=4&z=2007-01-01&g=2007-01-01).
+1. Indien naar het oordeel van gedeputeerde staten gronden aanwezig zijn om het opheffen of instellen van een waterschap, de vaststelling van een reglement voor een waterschap of een wijziging van een dergelijk reglement te overwegen, treden zij voor de bepaling van hun standpunt in overleg met het dagelijks bestuur van het waterschap of de waterschappen die het betreft, alvorens zij toepassing geven aan [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=I&hoofdstuk=II&artikel=4&z=2007-12-29&g=2007-12-29).
 
-2. Gedeputeerde staten handelen dienovereenkomstig indien zij hun standpunt moeten bepalen ten aanzien van ofwel een soortgelijk voorstel van het algemeen bestuur van een waterschap ofwel een voornemen van Onze Minister van Verkeer en Waterstaat ingevolge [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=I&hoofdstuk=II&artikel=8&z=2007-01-01&g=2007-01-01).
+2. Gedeputeerde staten handelen dienovereenkomstig indien zij hun standpunt moeten bepalen ten aanzien van ofwel een soortgelijk voorstel van het algemeen bestuur van een waterschap ofwel een voornemen van Onze Minister van Verkeer en Waterstaat ingevolge [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=I&hoofdstuk=II&artikel=8&z=2007-12-29&g=2007-12-29).
 
 ##### Artikel 4
 
-1. Op de voorbereiding van een besluit als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=I&hoofdstuk=I&artikel=2&z=2007-01-01&g=2007-01-01), is [afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) van toepassing, met dien verstande dat daaraan toepassing wordt gegeven door gedeputeerde staten. Gedeputeerde staten stellen het ontwerp van het besluit op na overleg met het dagelijks bestuur van het waterschap of de waterschappen die het betreft.
+1. Op de voorbereiding van een besluit als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=I&hoofdstuk=I&artikel=2&z=2007-12-29&g=2007-12-29), is [afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) van toepassing, met dien verstande dat daaraan toepassing wordt gegeven door gedeputeerde staten. Gedeputeerde staten stellen het ontwerp van het besluit op na overleg met het dagelijks bestuur van het waterschap of de waterschappen die het betreft.
 
 2. Gedeputeerde staten voegen bij hun voorstel aan provinciale staten tot vaststelling van het besluit zowel het ontwerp-besluit als de naar voren gebrachte zienswijzen, of een samenvatting daarvan, vergezeld van hun standpunt inzake die zienswijzen.
 
@@ -75,11 +75,9 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 5
 
-1. Een besluit van provinciale staten tot het opheffen of instellen van een waterschap dan wel tot vaststelling of wijziging van het reglement voor een waterschap behoeft de goedkeuring van Onze Minister van Verkeer en Waterstaat. De goedkeuring kan slechts worden onthouden wegens strijd met het recht of het algemeen belang.
+1. Een besluit van provinciale staten tot het opheffen of instellen van een waterschap dan wel tot vaststelling of wijziging van de taak of het gebied van een waterschap behoeft de goedkeuring van Onze Minister van Verkeer en Waterstaat. De goedkeuring kan slechts worden onthouden wegens strijd met het recht of het algemeen belang.
 
-2. Het in het eerste lid omschreven goedkeuringsvereiste voor een besluit tot vaststelling of wijziging van het reglement betreft alleen de regeling bij dat besluit van de taak en het gebied van het waterschap, van de samenstelling van zijn bestuur en van de aanwijzing van categorieën van omslagplichtigen, met inbegrip van eventuele uitgangspunten van de kostentoedeling.
-
-3. Tegen een besluit van Onze Minister inzake de goedkeuring van een besluit van provinciale staten tot opheffing van een waterschap of het wijzigen van de taak of het gebied van een waterschap kan een belanghebbende beroep instellen bij de Afdeling bestuursrechtspraak van de Raad van State.
+2. Tegen een besluit van Onze Minister inzake de goedkeuring van een besluit van provinciale staten tot opheffing van een waterschap of het wijzigen van de taak of het gebied van een waterschap kan een belanghebbende beroep instellen bij de Afdeling bestuursrechtspraak van de Raad van State.
 
 ##### Artikel 5a
 
@@ -101,13 +99,13 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 6
 
-Het opheffen of instellen van een waterschap dan wel het vaststellen van een reglement van een waterschap, waarvan het gebied in twee of meer provincies is gelegen, geschiedt bij gemeenschappelijk besluit van provinciale staten van de desbetreffende provincies. Hetzelfde geldt voor het wijzigen van dat reglement, tenzij deze colleges bij reglement het vaststellen van wijzigingen die naar hun oordeel van beperkte strekking zijn opdragen aan één van hen. De [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=I&hoofdstuk=II&artikel=3&z=2007-01-01&g=2007-01-01) en [4, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=I&hoofdstuk=II&artikel=4&z=2007-01-01&g=2007-01-01), zijn van overeenkomstige toepassing. Aan deze artikelen wordt toepassing gegeven door een commissie uit het midden van de desbetreffende colleges, tenzij deze colleges besluiten deze toepassing aan één van hen op te dragen.
+Het opheffen of instellen van een waterschap dan wel het vaststellen van een reglement van een waterschap, waarvan het gebied in twee of meer provincies is gelegen, geschiedt bij gemeenschappelijk besluit van provinciale staten van de desbetreffende provincies. Hetzelfde geldt voor het wijzigen van dat reglement, tenzij deze colleges bij reglement het vaststellen van wijzigingen die naar hun oordeel van beperkte strekking zijn opdragen aan één van hen. De [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=I&hoofdstuk=II&artikel=3&z=2007-12-29&g=2007-12-29) en [4, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=I&hoofdstuk=II&artikel=4&z=2007-12-29&g=2007-12-29), zijn van overeenkomstige toepassing. Aan deze artikelen wordt toepassing gegeven door een commissie uit het midden van de desbetreffende colleges, tenzij deze colleges besluiten deze toepassing aan één van hen op te dragen.
 
 ##### Artikel 7
 
 1. Indien de besturen van twee of meer provincies niet of niet binnen redelijke termijn tot overeenstemming komen over de opheffing of instelling van een waterschap voor de waterstaatkundige verzorging van een in hun provincies gelegen gebied, dan wel over de vaststelling of wijziging van een reglement voor een dergelijk waterschap, omdat zij van mening verschillen over hetzij de noodzaak hetzij de inhoud van het te nemen besluit, kan daarin bij algemene maatregel van bestuur worden voorzien. [Artikel 18**a** van de Wet op de Raad van State](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&artikel=18a) is van overeenkomstige toepassing.
 
-2. Alvorens een voordracht tot die algemene maatregel van bestuur te doen, geeft Onze Minister van Verkeer en Waterstaat overeenkomstige toepassing aan [artikel 4, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=I&hoofdstuk=II&artikel=4&z=2007-01-01&g=2007-01-01), en hoort hij gedeputeerde staten van de desbetreffende provincies.
+2. Alvorens een voordracht tot die algemene maatregel van bestuur te doen, geeft Onze Minister van Verkeer en Waterstaat overeenkomstige toepassing aan [artikel 4, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=I&hoofdstuk=II&artikel=4&z=2007-12-29&g=2007-12-29), en hoort hij gedeputeerde staten van de desbetreffende provincies.
 
 3. [Artikel 4 van de Waterstaatswet 1900](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&artikel=4) (**Stb.** 176) is op het in het eerste lid bedoelde geval niet van toepassing.
 
@@ -121,9 +119,9 @@ Het opheffen of instellen van een waterschap dan wel het vaststellen van een reg
 
 ##### Artikel 9
 
-1. Indien aan een uitnodiging als bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=I&hoofdstuk=II&artikel=8&z=2007-01-01&g=2007-01-01), niet binnen de gestelde termijn gevolg is gegeven, kan, behoudens verlenging van die termijn, bij algemene maatregel van bestuur overeenkomstig de strekking van de uitnodiging een waterschap worden opgeheven of ingesteld alsmede het reglement voor een waterschap worden vastgesteld of gewijzigd. [Artikel 18**a** van de Wet op de Raad van State](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&artikel=18a) is van overeenkomstige toepassing.
+1. Indien aan een uitnodiging als bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=I&hoofdstuk=II&artikel=8&z=2007-12-29&g=2007-12-29), niet binnen de gestelde termijn gevolg is gegeven, kan, behoudens verlenging van die termijn, bij algemene maatregel van bestuur overeenkomstig de strekking van de uitnodiging een waterschap worden opgeheven of ingesteld alsmede het reglement voor een waterschap worden vastgesteld of gewijzigd. [Artikel 18**a** van de Wet op de Raad van State](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&artikel=18a) is van overeenkomstige toepassing.
 
-2. Alvorens een voordracht tot die algemene maatregel van bestuur te doen, geeft Onze Minister van Verkeer en Waterstaat overeenkomstige toepassing aan [artikel 4, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=I&hoofdstuk=II&artikel=4&z=2007-01-01&g=2007-01-01), en hoort hij gedeputeerde staten van de desbetreffende provincie of provincies.
+2. Alvorens een voordracht tot die algemene maatregel van bestuur te doen, geeft Onze Minister van Verkeer en Waterstaat overeenkomstige toepassing aan [artikel 4, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=I&hoofdstuk=II&artikel=4&z=2007-12-29&g=2007-12-29), en hoort hij gedeputeerde staten van de desbetreffende provincie of provincies.
 
 3. De algemene maatregel van bestuur treedt niet eerder in werking dan acht weken na de datum waarop deze in het **Staatsblad** is geplaatst. Van de plaatsing wordt onverwijld mededeling gedaan aan de beide Kamers der Staten-Generaal.
 
@@ -141,47 +139,47 @@ Het bestuur van een waterschap bestaat uit een algemeen bestuur, een dagelijks b
 
 ##### Artikel 11
 
-1. Het algemeen bestuur is samengesteld uit vertegenwoordigers van categorieën van belanghebbenden bij de uitoefening van de taken van het waterschap.
+1. In dit hoofdstuk en de daarop berustende bepalingen wordt onder ingezetenen verstaan: zij die hun werkelijke woonplaats in het waterschap hebben.
 
-2. Als categorieën van belanghebbenden komen voor vertegenwoordiging in het algemeen bestuur alleen in aanmerking:
-
-- a. degenen die krachtens eigendom, bezit of beperkt recht het genot hebben van ongebouwde onroerende zaken;
-
-- b. degenen die krachtens een door de grondkamer goedgekeurde pachtovereenkomst het gebruik hebben van ongebouwde onroerende zaken;
-
-- c. degenen die krachtens eigendom, bezit of beperkt recht het genot hebben van gebouwde onroerende zaken;
-
-- d. de ingezetenen, onder wie worden verstaan degenen die hun werkelijke woonplaats hebben in het gebied van het waterschap;
-
-- e. degenen die krachtens eigendom, bezit, beperkt recht of persoonlijk recht gebouwde onroerende zaken in gebruik hebben als bedrijfsruimte.
+2. Zij die volgens de gemeentelijke basisadministratie woonachtig zijn in het gebied van het waterschap worden, behoudens bewijs van het tegendeel, geacht werkelijke woonplaats te hebben in dat waterschap.
 
 ##### Artikel 12
 
-In geval de zorg voor het kwaliteitsbeheer van oppervlaktewater in een gebied afzonderlijk is of wordt opgedragen aan één waterschap, kan in het belang van de eenheid van het waterhuishoudkundig beheer bij reglement worden bepaald dat in het algemeen bestuur, naast de vertegenwoordigers van belanghebbenden in de zin van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=II&hoofdstuk=IV&paragraaf=1&artikel=11&z=2007-01-01&g=2007-01-01), zitting hebben vertegenwoordigers van het waterschap of van de waterschappen die met de overige zorg voor de waterhuishouding in het gebied van eerstbedoeld waterschap zijn belast. De [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=II&hoofdstuk=IV&paragraaf=2&artikel=14&z=2007-01-01&g=2007-01-01) en [15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=II&hoofdstuk=IV&paragraaf=2&artikel=15&z=2007-01-01&g=2007-01-01), zijn van overeenkomstige toepassing.
+1. Het algemeen bestuur is samengesteld uit vertegenwoordigers van categorieën van belanghebbenden bij de uitoefening van de taken van het waterschap.
+
+2. In het algemeen bestuur zijn de volgende categorieën van belanghebbenden vertegenwoordigd:
+
+- a. de ingezetenen;
+
+- b. degenen die krachtens eigendom, bezit of beperkt recht het genot hebben van ongebouwde onroerende zaken, niet zijnde natuurterreinen als bedoeld in [artikel 116, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XVII&artikel=116&z=2007-12-29&g=2007-12-29);
+
+- c. degenen die krachtens eigendom, bezit of beperkt recht het genot hebben van natuurterreinen als bedoeld in [artikel 116, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XVII&artikel=116&z=2007-12-29&g=2007-12-29);
+
+- d. degenen die krachtens eigendom, bezit, beperkt recht of persoonlijk recht gebouwde onroerende zaken in gebruik hebben als bedrijfsruimte.
 
 ##### Artikel 13
 
-1. Voor de aanwijzing van de categorieën van belanghebbenden die in het algemeen bestuur zijn vertegenwoordigd, en voor de bepaling van het aantal vertegenwoordigers van elke categorie, worden ten aanzien van elk der in [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=II&hoofdstuk=IV&paragraaf=1&artikel=11&z=2007-01-01&g=2007-01-01), genoemde categorieën in aanmerking genomen de aard en de omvang van het belang of de belangen die deze heeft bij de behartiging van de taken van het waterschap, zomede het door deze te betalen aandeel in de kosten daarvan.
+1. Het algemeen bestuur bestaat uit een bij reglement vastgesteld aantal leden van tenminste achttien en ten hoogste dertig leden.
 
-2. Bij reglement kan aan daarbij aan te wijzen belanghebbenden de bevoegdheid worden toegekend om van het aantal vertegenwoordigers van de categorie waartoe zij behoren er een of meer te benoemen. Een aldus benoemd lid wordt voor de toepassing van de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=II&hoofdstuk=IV&paragraaf=2&artikel=14&z=2007-01-01&g=2007-01-01) en [15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=II&hoofdstuk=IV&paragraaf=2&artikel=15&z=2007-01-01&g=2007-01-01), aangemerkt als een gekozen lid.
+2. Voor de bepaling van het aantal vertegenwoordigers van elk van de in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=II&hoofdstuk=IV&paragraaf=1&artikel=12&z=2007-12-29&g=2007-12-29) bedoelde categorieën wordt in aanmerking genomen de aard en de omvang van het belang of de belangen die de categorie heeft bij de uitoefening van de taken van het waterschap.
+
+3. Het totaal aantal vertegenwoordigers van de in [artikel 12, tweede lid, onderdelen b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=II&hoofdstuk=IV&paragraaf=1&artikel=12&z=2007-12-29&g=2007-12-29), bedoelde categorieën bedraagt ten minste zeven en ten hoogste negen, met dien verstande dat het totaal aantal ten hoogste acht is, indien het algemeen bestuur uit achttien leden bestaat.
 
 #### § 2. De verkiezing
 
 ##### Artikel 14
 
-1. De leden van het algemeen bestuur worden gekozen voor vier jaren.
+1. De vertegenwoordigers van de categorie van belanghebbenden, bedoeld in [artikel 12, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=II&hoofdstuk=IV&paragraaf=1&artikel=12&z=2007-12-29&g=2007-12-29), worden benoemd door de daartoe bij reglement aangewezen organisatie of organisaties. Indien meer dan één organisatie wordt aangewezen wordt bij reglement bepaald op welke wijze de aangewezen organisaties tot een benoeming komen.
 
-2. Zij treden tegelijk af. De aftredenden zijn dadelijk herkiesbaar.
+2. De vertegenwoordigers van de categorie van belanghebbenden, bedoeld in [artikel 12, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=II&hoofdstuk=IV&paragraaf=1&artikel=12&z=2007-12-29&g=2007-12-29), worden benoemd door een krachtens [artikel 67 van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=67) ingesteld bedrijfslichaam voor de bosbouw, het bosbeheer en de houtteelt.
 
-3. In afwijking van het eerste lid kan bij reglement de zittingsduur worden gesteld op een ten hoogste twee jaren kortere of langere duur.
+3. De vertegenwoordigers van de categorie van belanghebbenden, bedoeld in [artikel 12, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=II&hoofdstuk=IV&paragraaf=1&artikel=12&z=2007-12-29&g=2007-12-29), worden benoemd door de in het gebied van het waterschap bevoegde Kamer van Koophandel en Fabrieken. Indien binnen het gebied van een waterschap meer dan één Kamer van Koophandel en Fabrieken bevoegd zijn, wordt bij reglement bepaald op welke wijze de Kamers tot een benoeming komen.
 
-4. Degene die lid is geworden ter vervulling van een buiten de gewone termijn van aftreding opengevallen plaats treedt af op het tijdstip waarop degene in wiens plaats deze is getreden, had moeten aftreden.
+4. De organisaties, bedoeld in de voorgaande leden, voorzien tijdig in een regeling omtrent de selectie en de benoeming van de vertegenwoordiger of vertegenwoordigers van de desbetreffende categorie van belanghebbenden en zenden de regeling ter kennisneming aan het waterschapsbestuur. Het waterschapsbestuur maakt de regelingen bekend.
 
 ##### Artikel 15
 
-1. Bij reglement kan worden bepaald dat voor ieder van de leden van het algemeen bestuur gelijktijdig een plaatsvervangend lid wordt gekozen, dan wel, indien het betreft een benoemd lid, wordt benoemd.
-
-2. [Artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=II&hoofdstuk=IV&paragraaf=2&artikel=14&z=2007-01-01&g=2007-01-01) en de [artikelen 16 tot en met 28](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=II&hoofdstuk=IV&paragraaf=2&artikel=16&z=2007-01-01&g=2007-01-01) zijn van overeenkomstige toepassing op de verkiezing van plaatsvervangende leden.
+Deze paragraaf is van toepassing op de vertegenwoordigers van de categorie van belanghebbenden, bedoeld in [artikel 12, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=II&hoofdstuk=IV&paragraaf=1&artikel=12&z=2007-12-29&g=2007-12-29).
 
 ##### Artikel 15a
 
@@ -189,117 +187,121 @@ Indien ter vervulling van een door ontslag of overlijden van een lid van het alg
 
 ##### Artikel 16
 
-1. De kandidaatstelling voor de verkiezing van de leden van het algemeen bestuur geschiedt per categorie van belanghebbenden.
-
-2. Niemand kan kandidaat worden gesteld voor meer dan één categorie van belanghebbenden.
-
-3. Elke opgave waarbij de kandidaatstelling geschiedt bevat de naam van één kandidaat, alsmede bij toepassing van [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=II&hoofdstuk=IV&paragraaf=2&artikel=15&z=2007-01-01&g=2007-01-01), van diens plaatsvervanger.
-
-4. De opgave moet zijn ondertekend door tenminste een bij reglement te bepalen aantal personen die bevoegd zijn tot kandidaatstelling voor vertegenwoordigers van de desbetreffende categorie van belanghebbenden.
-
-5. Niemand mag per categorie van belanghebbenden meer dan één opgave ondertekenen.
+De leden van het algemeen bestuur worden gekozen door degenen die op de dag van de kandidaatstelling ingezetenen zijn van het waterschap en uiterlijk op de laatste dag van de stemmingsperiode achttien jaar of ouder zijn. [Artikel B 5, eerste lid, van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=B_5) is van overeenkomstige toepassing.
 
 ##### Artikel 17
 
-1. Indien voor een categorie van belanghebbenden minder kandidaten zijn gesteld dan het aantal vacatures bedraagt, stelt het algemeen bestuur zoveel kandidaten als nodig is om in alle vacatures te voorzien.
+1. Indien een waarborging van evenwichtige vertegenwoordiging van de binnen een waterschap bestaande belangen daartoe aanleiding geeft, kan bij reglement het waterschapsgebied worden ingedeeld in kiesdistricten, onder vaststelling van het aantal zetels per kiesdistrict.
 
-2. Indien voor een categorie van belanghebbenden evenveel kandidaten zijn gesteld als het aantal vacatures bedraagt, worden alle kandidaten als gekozen aangemerkt.
+2. In het geval als bedoeld in het eerste lid, vindt de kandidaatstelling en stemming plaats per kiesdistrict.
+
+3. Voor de verkiezing binnen een kiesdistrict zijn stemgerechtigd de ingezetenen die volgens de gemeentelijke basisadministratie persoonsgegevens woonachtig zijn in het kiesdistrict en uiterlijk op de laatste dag van de stemmingsperiode achttien jaar of ouder zijn.
 
 ##### Artikel 18
 
-1. Bevoegd tot kandidaatstelling zijn degenen die behoren tot de desbetreffende categorie van belanghebbenden en als zodanig belastingplichtig zijn aan het waterschap, met dien verstande dat voor de categorie bedoeld in [artikel 11, tweede lid, onderdeel **d**](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=II&hoofdstuk=IV&paragraaf=1&artikel=11&z=2007-01-01&g=2007-01-01), bevoegd zijn degenen die blijkens de gemeentelijke basisadministratie persoonsgegevens behoudens tegenbewijs kunnen worden geacht werkelijk woonplaats te hebben in het gebied van het waterschap en die op de dag der kandidaatstelling de leeftijd van achttien jaren hebben bereikt.
+1. Voor de verkiezing van de leden van het algemeen bestuur stelt het dagelijks bestuur een stembureau in, bestaande uit vijf leden van wie er één voorzitter en één plaatsvervangend voorzitter is.
 
-2. Ten aanzien van de uitoefening van de in het eerste lid omschreven bevoegdheid zijn de [artikelen 26 tot en met 28](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=II&hoofdstuk=IV&paragraaf=2&artikel=26&z=2007-01-01&g=2007-01-01) van overeenkomstige toepassing.
+2. De voorzitter van het waterschap is voorzitter van het stembureau. De plaatsvervangend voorzitter en de andere leden, alsmede drie plaatsvervangende leden worden door het dagelijks bestuur benoemd en ontslagen.
+
+3. De in het tweede lid bedoelde benoemingen geschieden voor vier kalenderjaren. Degene die ter vervulling van een opengevallen plaats is benoemd, treedt af op het tijdstip waarop degene in wiens plaats hij is benoemd, zou hebben moeten aftreden.
+
+4. Bij algemene maatregel van bestuur kunnen nadere regels gesteld worden omtrent de taken en werkwijze van het stembureau.
 
 ##### Artikel 19
 
-1. Stemgerechtigd voor de verkiezing van de vertegenwoordigers van de categorie van belanghebbenden, bedoeld in [artikel 11, tweede lid, onderdeel a, onderscheidenlijk onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=II&hoofdstuk=IV&paragraaf=1&artikel=11&z=2007-01-01&g=2007-01-01), zijn degenen die behoren tot de desbetreffende categorie, als zodanig belastingplichtig zijn aan het waterschap en op de dag der kandidaatstelling opgenomen zijn in het in het [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=II&hoofdstuk=IV&paragraaf=2&artikel=29&z=2007-01-01&g=2007-01-01) bedoelde register.
+1. Stemgerechtigd voor de verkiezing van de vertegenwoordigers van de categorie van belanghebbenden, bedoeld in [artikel 11, tweede lid, onderdeel a, onderscheidenlijk onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=II&hoofdstuk=IV&paragraaf=1&artikel=11&z=2007-12-29&g=2007-12-29), zijn degenen die behoren tot de desbetreffende categorie, als zodanig belastingplichtig zijn aan het waterschap en op de dag der kandidaatstelling opgenomen zijn in het in het [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=II&hoofdstuk=IV&paragraaf=4&artikel=29&z=2007-12-29&g=2007-12-29) bedoelde register.
 
 2. Bij reglement kan worden bepaald dat voor het bezit van het stemrecht tevens is vereist dat de belastingplicht aan het waterschap ten minste een daarbij te bepalen bedrag betreft, dan wel dat het een ongebouwde onroerende zaak van ten minste een daarbij te bepalen oppervlakte betreft.
 
 ##### Artikel 20
 
-1. Stemgerechtigd voor de verkiezing van de vertegenwoordigers van de categorie van belanghebbenden, bedoeld in [artikel 11, tweede lid, onderdeel **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=II&hoofdstuk=IV&paragraaf=1&artikel=11&z=2007-01-01&g=2007-01-01), zijn degenen die behoren tot die categorie, als zodanig belastingplichtig zijn aan het waterschap en op de dag der kandidaatstelling opgenomen zijn in het in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=II&hoofdstuk=IV&paragraaf=2&artikel=29&z=2007-01-01&g=2007-01-01) bedoelde register. Bij reglement kan worden bepaald dat voor het bezit van het stemrecht tevens is vereist dat de belastingplicht aan het waterschap ten minste een daarbij te bepalen bedrag betreft. [Artikel 19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=II&hoofdstuk=IV&paragraaf=2&artikel=19&z=2007-01-01&g=2007-01-01), is van toepassing.
+1. De verkiezingen worden gehouden bij geheime stemming.
 
-2. Bij reglement kan in afwijking van het eerste lid worden bepaald dat stemgerechtigd zijn de leden van de raden der gemeenten waartoe het gebied van het waterschap behoort.
+2. De stemming vindt plaats in een bij algemene maatregel van bestuur vastgestelde periode.
+
+3. Het uitbrengen van de stem geschiedt per brief of, voorzover het waterschap de kiesgerechtigde daartoe in de gelegenheid stelt, met behulp van informatie- en communicatietechnologie.
+
+4. Bij of krachtens algemene maatregel van bestuur worden regels gesteld over:
+
+- a. het stemmen per brief;
+
+- b. het stemmen met behulp van informatie- en communicatietechnologie;
+
+- c. de stemopneming;
+
+- d. de vaststelling en bekendmaking van de verkiezingsuitslag.
+
+5. Bij de vaststelling van de verkiezingsuitslag zijn gekozen die kandidaten die een aantal stemmen hebben verkregen groter dan 25% van de kiesdeler, voor zover aan de lijst voldoende zetels zijn toegewezen.
 
 ##### Artikel 21
 
-1. Stemgerechtigd voor de verkiezing van de vertegenwoordigers van de categorie van belanghebbenden, bedoeld in [artikel 11, tweede lid, onderdeel **d**](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=II&hoofdstuk=IV&paragraaf=1&artikel=11&z=2007-01-01&g=2007-01-01), zijn degenen die blijkens de gemeentelijke basisadministratie persoonsgegevens behoudens tegenbewijs kunnen worden geacht op de dag van de kandidaatstelling werkelijk woonplaats te hebben in het gebied van het waterschap en de leeftijd van achttien jaren hebben bereikt.
+1. Tegen bij algemene maatregel van bestuur aangewezen besluiten, die met toepassing van die maatregel worden genomen met het oog op de verkiezing van de leden van het algemeen bestuur en die naar hun aard noodzaken tot een spoedige behandeling van de daartegen ingestelde beroepen kan een belanghebbende beroep instellen bij de Afdeling bestuursrechtspraak van de Raad van State.
 
-2. Bij reglement kan in afwijking van het eerste lid worden bepaald dat stemgerechtigd zijn de leden van de raden der gemeenten waartoe het gebied van het waterschap behoort.
+2. [Artikel 7:1](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:1) en [titel 8.3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=8.3) blijven buiten toepassing.
+
+3. In afwijking van [artikel 8:41, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:41) bedraagt de termijn binnen welke de bijschrijving of storting van het verschuldigde bedrag dient plaats te vinden, twee weken. De voorzitter van de Afdeling kan een kortere termijn stellen.
+
+4. De Afdeling behandelt de zaak met toepassing van [afdeling 8.2.3. van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=8.2.3). [Afdeling 8.2.4.](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=8.2.4) blijft buiten toepassing. Aan het dagelijks bestuur wordt terstond een afschrift van het beroepschrift gezonden.
+
+5. Bij algemene maatregel van bestuur kan in afwijking van [artikel 6:7 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:7) de termijn voor het indienen van de in het eerste lid bedoelde beroepschriften worden bekort.
 
 ##### Artikel 22
 
-1. Stemgerechtigd voor de verkiezing van de vertegenwoordigers van de categorie van belanghebbenden, bedoeld in [artikel 11, tweede lid, onderdeel **e**](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=II&hoofdstuk=IV&paragraaf=1&artikel=11&z=2007-01-01&g=2007-01-01), zijn de leden van de voor het gebied van het waterschap bevoegde Kamer of Kamers van Koophandel en Fabrieken.
-
-2. Indien binnen het gebied van een waterschap meer dan een Kamer van Koophandel en Fabrieken bevoegd is, en de verhouding tussen het aantal leden van een der Kamers en het belang van deze bij de behartiging van de taken door het waterschap daartoe aanleiding geeft, kan bij reglement aan gedeputeerde staten worden opgedragen om met inachtneming van die verhouding de waarde vast te stellen van de stem van een lid van die Kamer.
+De [artikelen Z 1 tot en met Z 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=Z_1), [Z 11](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=Z_11) en [Z 12 van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=Z_12) zijn van overeenkomstige toepassing.
 
 ##### Artikel 23
 
-Indien het gebied van een waterschap tevens het gebied is van een of meer andere waterschappen waaraan een andere taak is opgedragen, kan bij reglement in afwijking van het bepaalde in de [artikelen 19 tot en met 22](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=II&hoofdstuk=IV&paragraaf=2&artikel=19&z=2007-01-01&g=2007-01-01) worden bepaald dat voor de verkiezing van vertegenwoordigers van de onderscheidene categorieën van belanghebbenden, bedoeld in [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=II&hoofdstuk=IV&paragraaf=1&artikel=11&z=2007-01-01&g=2007-01-01), stemgerechtigd zijn degenen die als zodanige vertegenwoordigers zijn gekozen in het bestuur van laatstbedoelde waterschappen.
+1. De zittingsduur van het algemeen bestuur is vier jaar.
+
+2. De leden van het algemeen bestuur treden tegelijk af met ingang van de donderdag in de periode van 2 tot en met 8 januari.
 
 ##### Artikel 24
 
-1. Ten aanzien van onroerende zaken die zijn onderworpen aan het recht van beklemming, van erfpacht, van opstal of van vruchtgebruik is niet de eigenaar maar de genothebbende van het betreffende beperkt recht stemgerechtigd. Niettemin is voor wat betreft het recht van opstal de eigenaar stemgerechtigd indien dat recht uitsluitend is gevestigd ten behoeve van de aanleg of het onderhoud, dan wel ten behoeve van de aanleg en het onderhoud, van ondergrondse dan wel bovengrondse leidingen.
+1. Het algemeen bestuur beslist of degene die is gekozen dan wel is benoemd als lid wordt toegelaten.
 
-2. Indien de onroerende zaak is onderworpen aan meer van die beperkte rechten, heeft voor het bezit van het stemrecht de vruchtgebruiker voorrang boven zowel de opstaller als de erfpachter dan wel de beklemde meier en heeft de opstaller voorrang boven de erfpachter dan wel de beklemde meier.
+2. Toelating tot het algemeen bestuur van de in het eerste lid bedoelde persoon kan slechts worden geweigerd indien die persoon niet aan de vereisten voor het lidmaatschap voldoet of een met het lidmaatschap onverenigbare functie vervult, dan wel, voorzover dat bij algemene maatregel van bestuur is bepaald, indien sprake is van onregelmatigheden bij de voordracht of de verkiezing zelf.
+
+3. Bij algemene maatregel van bestuur worden regels gesteld omtrent de toelating tot het algemeen bestuur.
 
 ##### Artikel 25
 
-1. Een stemgerechtigde bezit voor iedere categorie van belanghebbenden waarvoor hij die hoedanigheid heeft telkens één stem, behoudens het bepaalde in onderscheidenlijk het tweede lid van dit artikel en het tweede lid van [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=II&hoofdstuk=IV&paragraaf=2&artikel=22&z=2007-01-01&g=2007-01-01).
+Bij algemene maatregel van bestuur worden regels gesteld omtrent:
 
-2. Indien de verhouding tussen het aantal raadsleden en het aantal ingezetenen van een gemeente dat tevens ingezetene is van het waterschap daartoe aanleiding geeft, kan bij het reglement aan gedeputeerde staten worden opgedragen om met inachtneming van die verhouding de waarde vast te stellen van de stem van een raadslid.
+- a. de beëindiging van het lidmaatschap van het algemeen bestuur;
 
-3. De stemming op de kandidaten is geheim.
+- b. de opvolging in opengevallen plaatsen in het algemeen bestuur;
 
 ##### Artikel 26
 
-1. Niet bevoegd tot uitoefening van het stemrecht zijn zij die bij onherroepelijke rechterlijke uitspraak van het kiesrecht zijn ontzet.
-
-2. Niet bevoegd tot uitoefening van het stemrecht in de zin van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=II&hoofdstuk=IV&paragraaf=2&artikel=21&z=2007-01-01&g=2007-01-01) zijn zij die blijkens de gemeentelijke basisadministratie krachtens onherroepelijke rechterlijke uitspraak wegens een geestelijke stoornis onbekwaam zijn rechtshandelingen te verrichten.
-
-3. De bevoegdheid tot de uitoefening van het stemrecht van hen:
-
-- a. die op de dag van de stemming minderjarig zijn,
-
-- b. die bij onherroepelijke rechterlijke uitspraak tot onder curatelestelling de beschikking of het beheer over hun goederen hebben verloren,
-
-- c. die afwezig zijn en wier goederen deswege bij onherroepelijke rechterlijke uitspraak onder bewind zijn gesteld,
-
-berust bij de wettelijke vertegenwoordigers.
+Voor de toepassing van deze paragraaf wordt aan de instelling van een nieuw waterschap gelijkgesteld de overgang van een aanmerkelijk gedeelte van het gebied van een waterschap naar dat van een ander waterschap.
 
 ##### Artikel 27
 
-1. Indien met betrekking tot een onroerende zaak in de kadastrale registratie de eigendom dan wel een beperkt recht staat vermeld op naam van meer personen of van een vennootschap zonder rechtspersoonlijkheid, kan het stemrecht worden uitgeoefend door elk van de deelgnoten of mede-vennoten, met dien verstande dat slechts eenmaal stem kan worden uitgebracht.
+1. In afwijking van [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=II&hoofdstuk=IV&paragraaf=3&artikel=23&z=2007-12-29&g=2007-12-29) kan bij het besluit tot opheffing of instelling van een waterschap de zittingsduur van het algemeen bestuur worden verkort, dan wel verlengd met ten hoogste twee jaren indien dit wenselijk is met het oog op het instellen van een nieuw waterschap.
 
-2. Hetzelfde geldt ten aanzien van het stemrecht wegens ongebouwde onroerende zaken, indien de op de voet van [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=II&hoofdstuk=IV&paragraaf=2&artikel=29&z=2007-01-01&g=2007-01-01) geregistreerde overeenkomst op naam staat van meer dan een persoonlijk gerechtigde of van een vennootschap zonder rechtspersoonlijkheid.
+2. In het geval als bedoeld in het eerste lid, treden de op de dag, voorafgaande aan de datum van instelling van het waterschap, zitting hebbende leden van het algemeen bestuur van de betrokken waterschappen met ingang van die datum af.
 
 ##### Artikel 28
 
-1. Indien met betrekking tot een onroerende zaak de in de huwelijkse gemeenschap vallende eigendom of beperkt recht staat vermeld op naam van één der echtgenoten kan in diens plaats de andere echtgenoot het stemrecht uitoefenen. Ten aanzien van zodanige goederen die op beider naam zijn gesteld zijn elk van beide echtgenoten bevoegd tot uitoefening van het stemrecht, met dien verstande dat slechts eenmaal stem kan worden uitgebracht.
+1. Bij het besluit tot instelling van een waterschap wordt het waterschap aangewezen dat met de voorbereiding van de verkiezingen belast is.
 
-2. Voor de toepassing van het vorige lid wordt gelijkgesteld met:
+2. De in [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=II&hoofdstuk=IV&paragraaf=2&artikel=18&z=2007-12-29&g=2007-12-29), bedoelde bevoegdheid, onderscheidenlijk de in [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=II&hoofdstuk=IV&paragraaf=3&artikel=24&z=2007-12-29&g=2007-12-29), bedoelde bevoegdheden berusten bij het dagelijks bestuur, onderscheidenlijk het algemeen bestuur van het ingevolge het eerste lid aangewezen waterschap.
 
-- a. echtgenoot: geregistreerde partner;
-
-- b. huwelijkse gemeenschap: gemeenschap van een geregistreerd partnerschap.
+3. Voorzover ingevolge enig wettelijk voorschrift medewerking moet worden verleend door het algemeen bestuur, door het dagelijks bestuur of door de voorzitter van het waterschap, geschiedt dit door het algemeen bestuur, door het dagelijks bestuur of door de voorzitter van het ingevolge het eerste lid aangewezen waterschap.
 
 ##### Artikel 29
 
-Het dagelijks bestuur houdt een register bij waarin, met inachtneming van het bepaalde in de [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=II&hoofdstuk=IV&paragraaf=2&artikel=19&z=2007-01-01&g=2007-01-01) en [20](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=II&hoofdstuk=IV&paragraaf=2&artikel=20&z=2007-01-01&g=2007-01-01) worden opgenomen:
+1. Bij een algemene maatregel van bestuur als bedoeld in [artikel 19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=II&hoofdstuk=IV&paragraaf=2&artikel=19&z=2007-12-29&g=2007-12-29), kan worden bepaald dat bij een besluit tot instelling van een waterschap kan worden afgeweken van bij die maatregel gestelde termijnen.
 
-- a. zij, die blijkens de kadastrale registratie, bedoeld in [artikel 48 van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=48), behoren tot de categorie van belanghebbenden, bedoeld in [artikel 11, tweede lid, onderdeel **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=II&hoofdstuk=IV&paragraaf=1&artikel=11&z=2007-01-01&g=2007-01-01);
+2. Bij een besluit tot instelling van een waterschap kan worden afgeweken van de krachtens [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=II&hoofdstuk=IV&paragraaf=2&artikel=20&z=2007-12-29&g=2007-12-29), gestelde stemmingsperiode, met dien verstande dat de stemming voor de datum van instelling van het nieuwe waterschap plaatsvindt.
 
-- b. zij, die blijkens de door de grondkamer aan het geheel of gedeeltelijk in het rechtsgebied van de grondkamer gelegen waterschap verstrekte gegevens, als pachter met een door de grondkamer goedgekeurde pachtovereenkomst behoren tot de categorie van belanghebbenden, bedoeld in [artikel 11, tweede lid, onderdeel **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=II&hoofdstuk=IV&paragraaf=1&artikel=11&z=2007-01-01&g=2007-01-01);
+3. De gewone zittingsperiode van de leden van het algemeen bestuur van het in te stellen waterschap eindigt tegelijk met de zittingsperiode van de leden van de algemene besturen van de overige waterschappen die zitting hebben op de datum van instelling van het waterschap.
 
-- c. zij, die blijkens de kadastrale registratie, bedoeld in [artikel 48 van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=48), behoren tot de categorie van belanghebbenden, bedoeld in [artikel 11, tweede lid onderdeel **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=II&hoofdstuk=IV&paragraaf=1&artikel=11&z=2007-01-01&g=2007-01-01).
+4. De benoeming van de leden en de plaatsvervangende leden van het stembureau geschiedt, in afwijking van het bepaalde in [artikel 18, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=II&hoofdstuk=IV&paragraaf=2&artikel=18&z=2007-12-29&g=2007-12-29), voor een periode die eindigt op hetzelfde tijdstip als de eerste zittingsperiode van de nieuw gekozen algemene besturen van de waterschappen.
 
 ##### Artikel 30
 
-1. Het dagelijks bestuur verstrekt op verzoek aan een ieder kosteloos inlichtingen uit het register waaruit deze kan opmaken of hij zelf daarin al dan niet behoorlijk is opgenomen. Een uittreksel uit het register wordt tegen betaling van kosten verkrijgbaar gesteld.
-
-2. Een ieder is bevoegd het dagelijks bestuur verbetering van het register te verzoeken op grond dat hijzelf in strijd met deze wet daarin al dan niet of niet behoorlijk is opgenomen. De [artikelen D 5, D 6 en D 7 van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=D_5) zijn van overeenkomstige toepassing.
+In afwijking van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=II&hoofdstuk=IV&paragraaf=2&artikel=16&z=2007-12-29&g=2007-12-29), worden de leden van het algemeen bestuur van een in te stellen waterschap gekozen door degenen die op de dag van kandidaatstelling volgens de gemeentelijke basisadministratie persoonsgegevens woonachtig zijn in het gebied van het in te stellen waterschap en uiterlijk op de laatste dag van de stemmingsperiode achttien jaar of ouder zijn.
 
 ##### Artikel 30a
 
@@ -321,13 +323,43 @@ Bij algemene maatregel van bestuur wordt een kiesreglement vastgesteld. [Artikel
 
 ##### Artikel 31
 
-1. Voor het lidmaatschap van het algemeen bestuur is alleen vereist dat men de leeftijd van achttien jaren heeft bereikt en niet krachtens [artikel B 5, eerste lid, van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=B_5) van het kiesrecht is uitgesloten.
+1. Voor het lidmaatschap van het algemeen bestuur is vereist dat men ingezetene is, de leeftijd van achttien jaren heeft bereikt en niet krachtens [artikel B 5, eerste lid, van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=B_5) van het kiesrecht is uitgesloten. Het vereiste van ingezetenschap geldt niet voor de vertegenwoordigers van de categorie belanghebbenden, bedoeld in [artikel 12, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=II&hoofdstuk=IV&paragraaf=1&artikel=12&z=2007-12-29&g=2007-12-29).
 
 2. Een lid van het algemeen bestuur is niet tevens:
 
-- a. ambtenaar door of vanwege het waterschapsbestuur aangesteld of daaraan ondergeschikt;
+- a. minister;
 
-- b. ombudsman of lid van de ombudscommissie als bedoeld in [artikel 51b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=II&hoofdstuk=VIA&paragraaf=1&artikel=51b&z=2007-01-01&g=2007-01-01).
+- b. staatssecretaris;
+
+- c. lid van de Raad van State;
+
+- d. lid van de Algemene Rekenkamer;
+
+- e. Nationale ombudsman;
+
+- f. substituut-ombudsman als bedoeld in [artikel 9, eerste lid, van de Wet Nationale ombudsman](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&artikel=9);
+
+- g. commissaris van de Koning;
+
+- h. lid van provinciale staten;
+
+- i. gedeputeerde;
+
+- j. secretaris van de provincie;
+
+- k. griffier van de provincie;
+
+- l. burgemeester;
+
+- m. wethouder;
+
+- n. lid van het dagelijks bestuur van een deelgemeente;
+
+- o. ombudsman of lid van de ombudscommissie als bedoeld in [artikel 51b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=II&hoofdstuk=VIA&paragraaf=1&artikel=51b&z=2007-12-29&g=2007-12-29);
+
+- p. ambtenaar, door of vanwege het waterschapsbestuur aangesteld of daaraan ondergeschikt;
+
+- q. ambtenaar, door of vanwege de provincie aangesteld, tot wiens taak behoort het verrichten van werkzaamheden in het kader van het toezicht op het waterschap.
 
 3. Zodra een lid van het algemeen bestuur blijkt niet te voldoen aan een der in het eerste lid bedoelde vereisten of blijkt een in het tweede lid bedoelde betrekking te vervullen, houdt deze op lid te zijn. In dat geval is [artikel X 5 van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=X_5) van overeenkomstige toepassing.
 
@@ -339,39 +371,53 @@ Bij algemene maatregel van bestuur wordt een kiesreglement vastgesteld. [Artikel
 
 ##### Artikel 32a
 
-De leden van het algemeen bestuur die geen lid zijn van het dagelijks bestuur ontvangen een vergoeding voor hun werkzaamheden en een tegemoetkoming in de kosten. Deze vergoeding en tegemoetkoming worden door het algemeen bestuur bij verordening vastgesteld naar bij of krachtens algemene maatregel van bestuur te stellen nadere regels.
+1. De leden van het algemeen bestuur die geen lid zijn van het dagelijks bestuur ontvangen een vergoeding voor hun werkzaamheden en een tegemoetkoming in de kosten. Deze vergoeding en tegemoetkoming worden door het algemeen bestuur bij verordening vastgesteld naar bij of krachtens algemene maatregel van bestuur te stellen nadere regels. Buiten hetgeen hun bij of krachtens de wet is toegekend, ontvangen de leden van het algemeen bestuur als zodanig geen andere vergoedingen en tegemoetkomingen ten laste van het waterschap.
+
+2. Van het bepaalde in het eerste lid kan het algemeen bestuur in bijzondere gevallen ontheffing verlenen. Het daartoe strekkende besluit van het algemeen bestuur wordt door het dagelijks bestuur aan gedeputeerde staten gezonden.
 
 ##### Artikel 33
 
-1. Een lid van het algemeen bestuur mag enkel niet werkzaam zijn:
+1. Een lid van het algemeen bestuur mag niet:
 
-- a. als advocaat, procureur of adviseur ten behoeve van de wederpartij van het waterschap of ten behoeve van het waterschapsbestuur in geschillen;
+- a. als advocaat, procureur of adviseur in geschillen werkzaam zijn ten behoeve van het waterschap of het waterschapsbestuur dan wel ten behoeve van de wederpartij van het waterschap of het waterschapsbestuur;
 
-- b. als gemachtigde ten behoeve van de wederpartij van het waterschap in geschillen;
+- b. als gemachtigde in geschillen werkzaam zijn ten behoeve van de wederpartij van het waterschap of het waterschapsbestuur;
 
-- c. als gevolmachtigde of adviseur ten behoeve van derden tot het aangaan van overeenkomsten als bedoeld in het tweede lid met het waterschap.
+- c. als vertegenwoordiger of adviseur werkzaam zijn ten behoeve van derden tot het met het waterschap aangaan van:
 
-2. Een lid van het algemeen bestuur mag niet, tenzij door gedeputeerde staten ontheffing is verleend, rechtstreeks of middellijk een overeenkomst aangaan betreffende:
+- 1°. overeenkomsten als bedoeld in onderdeel d;
 
-- 1e. het aannemen van werk ten behoeve van het waterschap;
+- 2°. overeenkomsten tot het leveren van onroerende zaken aan het waterschap;
 
-- 2e. het buiten dienstbetrekking tegen beloning doen van verrichtingen ten behoeve van het waterschap;
+- d. rechtstreeks of middellijk een overeenkomst aangaan betreffende:
 
-- 3e. het doen van leveranties aan het waterschap;
+- 1°. het aannemen van werk ten behoeve van het waterschap;
 
-- 4e. het verhuren van niet-registergoederen aan het waterschap;
+- 2°. het buiten dienstbetrekking tegen beloning verrichten van werkzaamheden ten behoeve van het waterschap;
 
-- 5e. het verwerven van betwiste vorderingen ten laste van het waterschap;
+- 3°. het leveren van roerende zaken anders dan om niet aan het waterschap;
 
-- 6e. het onderhands verwerven van onroerende zaken of beperkte rechten waaraan die zijn onderworpen van het waterschap;
+- 4°. het verhuren van roerende zaken aan het waterschap;
 
-- 7e. het onderhands huren of pachten van het waterschap.
+- 5°. het verwerven van betwiste vorderingen ten laste van het waterschap;
 
-3. Ten aanzien van een lid dat handelt in strijd met het bepaalde in het eerste of tweede lid is [artikel X 8, eerste tot en met vijfde lid, van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=X_8) van overeenkomstige toepassing.
+- 6°. het van het waterschap onderhands verwerven van onroerende zaken of beperkte rechten waaraan deze zijn onderworpen;
+
+- 7°. het onderhands huren of pachten van het waterschap.
+
+2. Van het eerste lid, aanhef en onderdeel d, kunnen gedeputeerde staten ontheffing verlenen.
+
+3. Het algemeen bestuur stelt voor zijn leden, voor de leden van het dagelijks bestuur en voor de voorzitter een gedragscode vast.
+
+4. Ten aanzien van een lid dat handelt in strijd met het bepaalde in het eerste lid, is [artikel X 8, eerste tot en met vijfde lid, van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=X_8) van overeenkomstige toepassing, met dien verstande dat wordt gelezen voor:
+
+- a. burgemeester en wethouders: het dagelijks bestuur;
+
+- b. de raad: het algemeen bestuur.
 
 ##### Artikel 34
 
-Alvorens hun functie te kunnen uitoefenen leggen de leden van het algemeen bestuur in de vergadering, in handen van de voorzitter, de volgende eed (verklaring en belofte) af:
+1. Alvorens hun functie te kunnen uitoefenen leggen de leden van het algemeen bestuur in de vergadering, in handen van de voorzitter, de volgende eed (verklaring en belofte) af:
 
 "Ik zweer (verklaar) dat ik, om tot lid van het algemeen bestuur te worden gekozen of benoemd, rechtstreeks noch middellijk, onder welke naam of welk voorwendsel ook, aan iemand enige gift of gunst heb gedaan of beloofd.
 
@@ -380,6 +426,18 @@ Ik zweer (verklaar en beloof) dat ik, om iets in dit ambt te doen of te laten, r
 Ik zweer (beloof) dat ik getrouw zal zijn aan de [Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840), dat ik de wetten zal nakomen en dat ik mijn plichten als lid van het algemeen bestuur naar eer en geweten zal vervullen.
 
 Zo waarlijk helpe mij God almachtig (Dat verklaar en beloof ik)".
+
+2. Wanneer de eed (verklaring en belofte), bedoeld in het eerste lid, in de Friese taal wordt afgelegd, luidt de tekst van de eed (verklaring en belofte) als volgt:
+
+«Ik swar (ferklearje) dat ik, om ta lid fan it algemien bestjoer beneamd te wurden, streekrjocht noch midlik, ûnder wat namme of wat ferlechje ek, hokker jefte of geunst dan ek jûn of ûnthjitten haw.
+
+Ik swar (ferklearje en ûnthjit) dat ik, om eat yn dit amt te dwaan of te litten, streekrjocht noch midlik hokker geskink of hokker ûnthjit dan ek oannommen haw of oannimme sil.
+
+Ik swar (ûnthjit) dat ik trou wêze sil oan 'e Grûnwet, dat ik de wetten neikomme sil en dat ik myn plichten as lid fan it algemien bestjoer yn alle oprjochtens ferfolje sil.
+
+Sa wier helpe my God Almachtich!»
+
+(«Dat ferklearje en ûnthjit ik!»).
 
 ##### Artikel 35
 
@@ -407,7 +465,7 @@ In een besloten vergadering kan niet worden beraadslaagd of besloten over:
 
 1. Het algemeen bestuur kan op grond van een belang, genoemd in [artikel 10 van de Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252&artikel=10), geheimhouding opleggen omtrent het in een besloten vergadering behandelde en omtrent de inhoud van stukken die aan de vergadering worden overgelegd. Geheimhouding omtrent het in een besloten vergadering behandelde wordt tijdens die vergadering opgelegd. De geheimhouding wordt zowel door hen die bij de behandeling tegenwoordig waren, als door hen die op andere wijze van het behandelde of van de stukken kennis nemen, in acht genomen totdat het algemeen bestuur haar opheft.
 
-2. Op grond van een belang, genoemd in [artikel 10 van de Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252&artikel=10), kan de geheimhouding eveneens worden opgelegd door het dagelijks bestuur, de voorzitter, een commissie van het waterschap en het bestuur van een afdeling, ieder ten aanzien van stukken die zij aan het algemeen bestuur of aan de leden van dit bestuur overleggen. Daarvan wordt op de stukken melding gemaakt.
+2. Op grond van een belang, genoemd in [artikel 10 van de Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252&artikel=10), kan de geheimhouding eveneens worden opgelegd door het dagelijks bestuur, de voorzitter en een commissie van het waterschap, ieder ten aanzien van stukken die zij aan het algemeen bestuur of aan de leden van dit bestuur overleggen. Daarvan wordt op de stukken melding gemaakt.
 
 3. De krachtens het tweede lid aan het algemeen bestuur opgelegde verplichting tot geheimhouding vervalt, indien de oplegging niet door het algemeen bestuur in zijn eerstvolgende vergadering die blijkens de presentielijst door meer dan de helft van het aantal zitting hebbende leden is bezocht, wordt bekrachtigd.
 
@@ -427,7 +485,7 @@ Zij die behoren tot het algemeen bestuur van het waterschap en anderen die deeln
 
 ##### Artikel 40
 
-1. Het dagelijks bestuur bestaat uit de voorzitter en een door het algemeen bestuur te bepalen aantal andere leden. De samenstelling van het dagelijks bestuur geschiedt zoveel mogelijk naar de wijze waarop de onderscheidene categorieën van belanghebbenden zijn vertegenwoordigd in het algemeen bestuur.
+1. Het dagelijks bestuur bestaat uit de voorzitter en een door het algemeen bestuur te bepalen aantal andere leden, waarvan ten minste één lid een vertegenwoordiger is van een van de categorieën van belanghebbenden bedoeld in [artikel 12, tweede lid, onderdelen b, c of d](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=II&hoofdstuk=IV&paragraaf=1&artikel=12&z=2007-12-29&g=2007-12-29).
 
 2. Bij reglement kan worden bepaald welk aantal leden het dagelijks bestuur ten minste en ten hoogste telt.
 
@@ -437,9 +495,9 @@ Zij die behoren tot het algemeen bestuur van het waterschap en anderen die deeln
 
 2. De benoeming vindt plaats uit de leden van het algemeen bestuur.
 
-3. Gedeputeerde staten kunnen, indien het reglement dat bepaalt, ontheffing verlenen van het bepaalde in het tweede lid. Geen ontheffing wordt verleend indien het de ombudsman of een lid van de ombudscommissie betreft als bedoeld in [artikel 51b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=II&hoofdstuk=VIA&paragraaf=1&artikel=51b&z=2007-01-01&g=2007-01-01).
+3. Gedeputeerde staten kunnen, indien het reglement dat bepaalt, ontheffing verlenen van het bepaalde in het tweede lid. Geen ontheffing wordt verleend indien het de ombudsman of een lid van de ombudscommissie betreft als bedoeld in [artikel 51b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=II&hoofdstuk=VIA&paragraaf=1&artikel=51b&z=2007-12-29&g=2007-12-29).
 
-4. De zittingsduur van het dagelijks bestuur is vier jaar. Bij toepassing van [artikel 14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=II&hoofdstuk=IV&paragraaf=2&artikel=14&z=2007-01-01&g=2007-01-01), is de zittingsduur dienovereenkomstig korter of langer. De leden van het dagelijks bestuur, met uitzondering van de voorzitter, treden af tegelijk met het optreden van de leden van het nieuwe algemeen bestuur.
+4. De zittingsduur van het dagelijks bestuur is vier jaar. Bij toepassing van [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=II&hoofdstuk=IV&paragraaf=4&artikel=28&z=2007-12-29&g=2007-12-29), is de zittingsduur dienovereenkomstig korter of langer. De leden van het dagelijks bestuur, met uitzondering van de voorzitter, treden af tegelijk met het optreden van de leden van het nieuwe algemeen bestuur.
 
 5. Niettemin kan het algemeen bestuur een of meer leden van het dagelijks bestuur, met uitzondering van de voorzitter, ontslag verlenen, indien deze het vertrouwen van het algemeen bestuur niet meer bezitten. Op het ontslagbesluit zijn de [artikelen 4:8](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:8) en [7:1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:1) niet van toepassing.
 
@@ -455,7 +513,7 @@ Zij die behoren tot het algemeen bestuur van het waterschap en anderen die deeln
 
 1. Het dagelijks bestuur kan op grond van een belang, genoemd in [artikel 10 van de Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252&artikel=10), geheimhouding opleggen omtrent het in een besloten vergadering behandelde en omtrent de inhoud van de stukken die aan de vergadering worden overgelegd. Geheimhouding omtrent het in een besloten vergadering behandelde wordt tijdens die vergadering opgelegd. De geheimhouding wordt zowel door hen die bij de behandeling aanwezig waren als door hen die op andere wijze van het behandelde of van de stukken kennis nemen, in acht genomen totdat het dagelijks bestuur haar opheft.
 
-2. Op grond van een belang genoemd in [artikel 10 van de Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252&artikel=10), kan de geheimhouding eveneens worden opgelegd door de voorzitter, een commissie van het waterschap of een afdelingsbestuur, ieder ten aanzien van de stukken die zij aan het dagelijks bestuur of de leden van dit bestuur overleggen. Daarvan wordt op de stukken melding gemaakt.
+2. Op grond van een belang genoemd in [artikel 10 van de Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252&artikel=10), kan de geheimhouding eveneens worden opgelegd door de voorzitter of een commissie van het waterschap, ieder ten aanzien van de stukken die zij aan het dagelijks bestuur of de leden van dit bestuur overleggen. Daarvan wordt op de stukken melding gemaakt.
 
 3. Indien het dagelijks bestuur zich ter zake van het behandelde waarvoor een verplichting tot geheimhouding geldt tot het algemeen bestuur heeft gericht, wordt de geheimhouding in acht genomen totdat het algemeen bestuur haar opheft.
 
@@ -463,11 +521,17 @@ Zij die behoren tot het algemeen bestuur van het waterschap en anderen die deeln
 
 1. De leden van het dagelijks bestuur genieten ten laste van het Waterschap een bezoldiging en een tegemoetkoming in de kosten van de uitoefening van hun werkzaamheden, volgens bij algemene maatregel van bestuur te stellen regels.
 
-2. Op de leden van het dagelijks bestuur die niet overheidswerknemer in de zin van de [Wet privatisering ABP](https://wetten.overheid.nl/jci1.3:c:BWBR0007791) zijn, is de [vijfde afdeling van de Algemene pensioenwet politieke ambtsdragers](onbekend) van overeenkomstige toepassing. Voor die toepassing wordt voor gedeputeerde staten, provinciale staten en provincie respectievelijk gelezen: dagelijks bestuur van een waterschap, algemeen bestuur van een waterschap en waterschap.
+2. Op de leden van het dagelijks bestuur die niet overheidswerknemer in de zin van de [Wet privatisering ABP](https://wetten.overheid.nl/jci1.3:c:BWBR0007791) zijn, is de [vijfde afdeling van de Algemene pensioenwet politieke ambtsdragers](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde) van overeenkomstige toepassing. Voor die toepassing wordt voor gedeputeerde staten, provinciale staten en provincie respectievelijk gelezen: dagelijks bestuur van een waterschap, algemeen bestuur van een waterschap en waterschap.
+
+3. Buiten hetgeen hen bij of krachtens de wet is toegekend, genieten de leden van het dagelijks bestuur als zodanig geen inkomsten, in welke vorm ook, ten laste van het waterschap.
+
+4. De leden van het dagelijks bestuur genieten geen vergoedingen, in welke vorm ook, voor werkzaamheden, verricht in nevenfuncties die zij vervullen uit hoofde van het lidmaatschap van het dagelijks bestuur ongeacht of die vergoedingen ten laste van het waterschap komen of niet. Indien deze vergoedingen worden uitgekeerd, worden zij gestort in de waterschapskas.
+
+5. Van het bepaalde in het vierde lid kan het algemeen bestuur in bijzondere gevallen ontheffing verlenen. Het daartoe strekkende besluit van het algemeen bestuur wordt door het dagelijks bestuur aan gedeputeerde staten gezonden.
 
 ##### Artikel 45
 
-Ten aanzien van de leden van het dagelijks bestuur zijn de [artikelen 38](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=II&hoofdstuk=IV&paragraaf=3&artikel=38&z=2007-01-01&g=2007-01-01) en [39](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=II&hoofdstuk=IV&paragraaf=3&artikel=39&z=2007-01-01&g=2007-01-01) van overeenkomstige toepassing. Bovendien zijn de [artikelen 31](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=II&hoofdstuk=IV&paragraaf=3&artikel=31&z=2007-01-01&g=2007-01-01), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=II&hoofdstuk=IV&paragraaf=3&artikel=33&z=2007-01-01&g=2007-01-01) en [34](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=II&hoofdstuk=IV&paragraaf=3&artikel=34&z=2007-01-01&g=2007-01-01) van overeenkomstige toepassing ten aanzien van de leden van het dagelijks bestuur die zijn benoemd met gebruik van een op grond van [artikel 41, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=II&hoofdstuk=V&paragraaf=1&artikel=41&z=2007-01-01&g=2007-01-01), verleende ontheffing.
+Ten aanzien van de leden van het dagelijks bestuur zijn de [artikelen 38 tot en met 39](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=II&hoofdstuk=IV&paragraaf=5&artikel=38&z=2007-12-29&g=2007-12-29) van overeenkomstige toepassing. Bovendien zijn de [artikelen 31](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=II&hoofdstuk=IV&paragraaf=5&artikel=31&z=2007-12-29&g=2007-12-29), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=II&hoofdstuk=IV&paragraaf=5&artikel=33&z=2007-12-29&g=2007-12-29) en [34](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=II&hoofdstuk=IV&paragraaf=5&artikel=34&z=2007-12-29&g=2007-12-29) van overeenkomstige toepassing ten aanzien van de leden van het dagelijks bestuur die zijn benoemd met gebruik van een op grond van [artikel 41, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=II&hoofdstuk=V&paragraaf=1&artikel=41&z=2007-12-29&g=2007-12-29), verleende ontheffing.
 
 ### Hoofdstuk VI. De voorzitter
 
@@ -487,17 +551,53 @@ Ten aanzien van de leden van het dagelijks bestuur zijn de [artikelen 38](https:
 
 1. De voorzitter is niet tevens:
 
-- a. lid van het algemeen bestuur van het waterschap waarvan hij voorzitter is, noch, behoudens bij koninklijk besluit verleende ontheffing, burgemeester of wethouder van een in een gebied van het waterschap gelegen gemeente;
+- a. minister;
 
-- b. ombudsman of lid van de ombudscommissie als bedoeld in [artikel 51b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=II&hoofdstuk=VIA&paragraaf=1&artikel=51b&z=2007-01-01&g=2007-01-01).
+- b. staatssecretaris;
+
+- c. lid van de Raad van State;
+
+- d. lid van de Algemene Rekenkamer;
+
+- e. Nationale ombudsman;
+
+- f. substituut-ombudsman als bedoeld in [artikel 9, eerste lid, van de Wet Nationale ombudsman](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&artikel=9);
+
+- g. commissaris van de Koning;
+
+- h. lid van provinciale staten;
+
+- i. gedeputeerde;
+
+- j. secretaris van de provincie;
+
+- k. griffier van de provincie;
+
+- l. lid van het algemeen bestuur van een waterschap;
+
+- m. burgemeester;
+
+- n. wethouder;
+
+- o. lid van het dagelijks bestuur van een deelgemeente;
+
+- p. ombudsman of lid van de ombudscommissie als bedoeld in [artikel 51b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=II&hoofdstuk=VIA&paragraaf=1&artikel=51b&z=2007-12-29&g=2007-12-29);
+
+- q. ambtenaar, door of vanwege het waterschapsbestuur aangesteld of daaraan ondergeschikt;
+
+- r. ambtenaar, door of vanwege de provincie aangesteld, tot wiens taak behoort het verrichten van werkzaamheden in het kader van het toezicht op het waterschap.
 
 2. Voor de benoembaarheid tot voorzitter is het Nederlanderschap vereist.
 
+3. [Artikel 33, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=II&hoofdstuk=IV&paragraaf=5&artikel=33&z=2007-12-29&g=2007-12-29), is van overeenkomstige toepassing op de voorzitter.
+
 ##### Artikel 48
 
-1. De voorzitter vervult geen andere functies waarvan de uitoefening ongewenst is met het oog op de goede vervulling van zijn ambt of op handhaving van zijn onpartijdigheid en onafhankelijkheid of van het vertrouwen daarin.
+1. De voorzitter vervult geen nevenfuncties waarvan de uitoefening ongewenst is met het oog op de goede vervulling van zijn ambt of op handhaving van zijn onpartijdigheid en onafhankelijkheid of van het vertrouwen daarin.
 
-2. De voorzitter maakt openbaar welke andere functies hij anders dan uit hoofde van zijn ambt vervult. [Artikel 32, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=II&hoofdstuk=IV&paragraaf=3&artikel=32&z=2007-01-01&g=2007-01-01), is van overeenkomstige toepassing.
+2. De voorzitter meldt zijn voornemen tot aanvaarding van een nevenfunctie, anders dan uit hoofde van zijn voorzitterschap, aan het algemeen bestuur.
+
+3. De voorzitter maakt openbaar welke andere functies hij anders dan uit hoofde van zijn ambt vervult. [Artikel 32, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=II&hoofdstuk=IV&paragraaf=5&artikel=32&z=2007-12-29&g=2007-12-29), is van overeenkomstige toepassing.
 
 ##### Artikel 49
 
@@ -513,9 +613,13 @@ Ten aanzien van de leden van het dagelijks bestuur zijn de [artikelen 38](https:
 
 2. Bij de in het eerste lid bedoelde regels kunnen financiële voorzieningen worden getroffen die ten laste van het waterschap komen.
 
+3. Buiten hetgeen hem bij of krachtens de wet is toegekend, geniet de voorzitter als zodanig geen inkomsten, in welke vorm ook, ten laste van het waterschap.
+
+4. De voorzitter geniet geen vergoedingen, in welke vorm ook, voor werkzaamheden, verricht in nevenfuncties welke hij vervult uit hoofde van het voorzittersambt, ongeacht of die vergoedingen ten laste van het waterschap komen of niet. Indien deze vergoedingen worden uitgekeerd, worden zij gestort in de waterschapskas.
+
 ##### Artikel 50
 
-Alvorens zijn ambt te aanvaarden legt de voorzitter in handen van de commissaris van de Koning dan wel, indien het een interprovinciaal waterschap betreft, van Onze daartoe in het reglement aangewezen commissaris van de Koning, de volgende eed (verklaring en belofte) af:
+1. Alvorens zijn ambt te aanvaarden legt de voorzitter in handen van de commissaris van de Koning dan wel, indien het een interprovinciaal waterschap betreft, van Onze daartoe in het reglement aangewezen commissaris van de Koning, de volgende eed (verklaring en belofte) af:
 
 "Ik zweer (verklaar) dat ik, om tot voorzitter benoemd te worden, rechtstreeks noch middellijk, onder welke naam of welk voorwendsel ook, aan iemand enige gift of gunst heb gedaan of beloofd.
 
@@ -526,6 +630,18 @@ Ik zweer (beloof) dat ik getrouw zal zijn aan de [Grondwet](https://wetten.overh
 Zo waarlijk helpe mij God almachtig!
 
 (Dat verklaar en beloof ik!)".
+
+2. Wanneer de eed (verklaring en belofte), bedoeld in het eerste lid, in de Friese taal wordt afgelegd, luidt de tekst van de eed (verklaring en belofte) als volgt:
+
+«Ik swar (ferklearje) dat ik, om ta foarsitter beneamd te wurden, streekrjocht noch midlik, ûnder wat namme of wat ferlechje ek, hokker jefte of geunst dan ek jûn of ûnthjitten haw.
+
+Ik swar (ferklearje en ûnthjit) dat ik, om eat yn dit amt te dwaan of te litten, streekrjocht noch midlik hokker geskink of hokker ûnthjit dan ek oannommen haw of oannimme sil.
+
+Ik swar (ûnthjit) dat ik trou wêze sil oan 'e Grûnwet, dat ik de wetten neikomme sil en dat ik myn plichten as foarsitter yn alle oprjochtens ferfolje sil.
+
+Sa wier helpe my God Almachtich!»
+
+(«Dat ferklearje en ûnthjit ik!»).
 
 ##### Artikel 51
 
@@ -543,11 +659,7 @@ Het ambt van voorzitter ontheft van alle bij of krachtens de wet opgelegde verpl
 
 ##### Artikel 52
 
-1. Bij of krachtens het reglement kunnen, ter behartiging van taken die het waterschap zijn opgedragen, binnen het gebied van het waterschap afdelingen worden ingesteld.
-
-2. De taken van die afdelingen en de samenstelling en inrichting van haar besturen worden geregeld bij of krachtens het reglement.
-
-3. De [artikelen 31 tot en met 39](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=II&hoofdstuk=IV&paragraaf=3&artikel=31&z=2007-01-01&g=2007-01-01) zijn van overeenkomstige toepassing ten aanzien van de leden van het afdelingsbestuur en zijn vergaderingen.
+Vervallen
 
 ### Hoofdstuk VIII. De secretaris
 
@@ -599,13 +711,13 @@ Onze Minister wie het aangaat en provinciale staten onderscheidenlijk gedeputeer
 
 ##### Artikel 60
 
-1. Wanneer het algemeen bestuur of, indien aan het bestuur van een afdeling bevoegdheden van het algemeen bestuur of van het dagelijks bestuur zijn toegekend, dat bestuur de door een wet, een algemene maatregel van bestuur of een provinciale verordening gevorderde beslissingen niet of niet naar behoren neemt, voorziet het dagelijks bestuur daarin.
+1. Wanneer het algemeen bestuur de door een wet, een algemene maatregel van bestuur of een provinciale verordening gevorderde beslissingen niet of niet naar behoren neemt, voorziet het dagelijks bestuur daarin.
 
 2. Wanneer het dagelijks bestuur de gevorderde beslissingen niet of niet naar behoren neemt, voorzien gedeputeerde staten daarin namens het dagelijks bestuur en ten laste van het waterschap.
 
 3. Spoedeisende gevallen uitgezonderd, vindt het tweede lid geen toepassing dan nadat het dagelijks bestuur in de gelegenheid is gesteld binnen een door gedeputeerde staten gestelde termijn alsnog de gevorderde besluiten te nemen.
 
-#### § 4. Bestuursdwang
+#### § 4. De gezamenlijke ombudsman en de gezamenlijke ombudscommissie
 
 ##### Artikel 61
 
@@ -613,9 +725,9 @@ Onze Minister wie het aangaat en provinciale staten onderscheidenlijk gedeputeer
 
 2. De bevoegdheid tot toepassing van bestuursdwang wordt uitgeoefend door het dagelijks bestuur, indien toepassing van bestuursdwang dient tot handhaving van regels welke het waterschapsbestuur uitvoert.
 
-3. De bevoegdheid tot toepassing van bestuursdwang wordt evenwel uitgeoefend door de voorzitter indien deze met gebruikmaking van de in [artikel 96](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=III&hoofdstuk=XII&artikel=96&z=2007-01-01&g=2007-01-01) omschreven bevoegdheid maatregelen neemt in gevallen van dringend of dreigend gevaar.
+3. De bevoegdheid tot toepassing van bestuursdwang wordt evenwel uitgeoefend door de voorzitter indien deze met gebruikmaking van de in [artikel 96](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=III&hoofdstuk=XII&artikel=96&z=2007-12-29&g=2007-12-29) omschreven bevoegdheid maatregelen neemt in gevallen van dringend of dreigend gevaar.
 
-4. Indien aan de voorzitter of aan het bestuur van een afdeling bevoegdheden zijn toegekend of overgedragen, bezitten zij de bevoegdheid tot toepassing van bestuursdwang en de bevoegdheid tot het geven van een machtiging tot het binnentreden van een woning slechts indien ook die bevoegdheid uitdrukkelijk is toegekend of overgedragen.
+4. Indien aan de voorzitter bevoegdheden zijn toegekend of overgedragen, bezit hij de bevoegdheid tot toepassing van bestuursdwang en de bevoegdheid tot het geven van een machtiging tot het binnentreden van een woning slechts indien ook die bevoegdheid uitdrukkelijk is toegekend of overgedragen.
 
 ##### Artikel 62
 
@@ -651,11 +763,11 @@ Vervallen
 
 ##### Artikel 70
 
-1. In het in [artikel 60, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=III&hoofdstuk=IX&paragraaf=3&artikel=60&z=2007-01-01&g=2007-01-01), omschreven geval vindt de toepassing van bestuursdwang plaats door gedeputeerde staten namens het waterschapsbestuur en ten laste van het waterschap.
+1. In het in [artikel 60, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=III&hoofdstuk=IX&paragraaf=3&artikel=60&z=2007-12-29&g=2007-12-29), omschreven geval vindt de toepassing van bestuursdwang plaats door gedeputeerde staten namens het waterschapsbestuur en ten laste van het waterschap.
 
 2. Het waterschap heeft voor het bedrag van de te zijnen laste gebrachte kosten verhaal op de overtreder.
 
-3. [Artikel 5:26 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:26) en [artikel 68](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=III&hoofdstuk=IX&paragraaf=4&artikel=68&z=2007-01-01&g=2007-01-01) zijn alsdan van toepassing.
+3. [Artikel 5:26 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:26) en [artikel 68](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=III&hoofdstuk=IX&paragraaf=4&artikel=68&z=2007-12-29&g=2007-12-29) zijn alsdan van toepassing.
 
 ##### Artikel 71
 
@@ -683,19 +795,19 @@ De bekend gemaakte besluiten treden in werking met ingang van de achtste dag na 
 
 ##### Artikel 75
 
-1. In afwijking van [artikel 74](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=III&hoofdstuk=IX&paragraaf=5&artikel=74&z=2007-01-01&g=2007-01-01) treden besluiten tot vaststelling of wijziging van een keur niet eerder in werking dan nadat de in [artikel 6:7 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:7) bedoelde termijn is verstreken.
+1. In afwijking van [artikel 74](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=III&hoofdstuk=IX&paragraaf=5&artikel=74&z=2007-12-29&g=2007-12-29) treden besluiten tot vaststelling of wijziging van een keur niet eerder in werking dan nadat de in [artikel 6:7 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:7) bedoelde termijn is verstreken.
 
 2. De besluiten tot vaststelling of wijziging van de keur worden medegedeeld aan de rechtbank en het gerechtshof onder wier rechtsmacht het waterschap valt, aan het parket van die colleges, alsmede aan de colleges van burgemeester en wethouders der gemeenten in het gebied waarvan de keur toepassing kan vinden.
 
 ##### Artikel 76
 
-Met betrekking tot de intrekking van besluiten die algemeen verbindende regels inhouden, zijn de [artikelen 73 tot en met 75](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=III&hoofdstuk=IX&paragraaf=5&artikel=73&z=2007-01-01&g=2007-01-01) van overeenkomstige toepassing, met dien verstande dat de in [artikel 73, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=III&hoofdstuk=IX&paragraaf=5&artikel=73&z=2007-01-01&g=2007-01-01), voorgeschreven mededeling geschiedt binnen één week.
+Met betrekking tot de intrekking van besluiten die algemeen verbindende regels inhouden, zijn de [artikelen 73 tot en met 75](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=III&hoofdstuk=IX&paragraaf=5&artikel=73&z=2007-12-29&g=2007-12-29) van overeenkomstige toepassing, met dien verstande dat de in [artikel 73, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=III&hoofdstuk=IX&paragraaf=5&artikel=73&z=2007-12-29&g=2007-12-29), voorgeschreven mededeling geschiedt binnen één week.
 
 ### Hoofdstuk X. De bevoegdheid van het algemeen bestuur
 
 ##### Artikel 77
 
-De in [artikel 56](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=III&hoofdstuk=IX&paragraaf=1&artikel=56&z=2007-01-01&g=2007-01-01) omschreven bevoegdheid tot regeling en bestuur berust bij het algemeen bestuur voor zover deze niet bij of krachtens reglement dan wel bij wet of bij algemene maatregel van bestuur is toegekend aan het dagelijks bestuur, aan de voorzitter of aan het bestuur van een afdeling.
+De in [artikel 56](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=III&hoofdstuk=IX&paragraaf=1&artikel=56&z=2007-12-29&g=2007-12-29) omschreven bevoegdheid tot regeling en bestuur berust bij het algemeen bestuur voor zover deze niet bij of krachtens reglement dan wel bij wet of bij algemene maatregel van bestuur is toegekend aan het dagelijks bestuur of aan de voorzitter.
 
 ##### Artikel 78
 
@@ -711,7 +823,7 @@ De in [artikel 56](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=III
 
 ##### Artikel 80
 
-1. Onverminderd het bepaalde bij een ingevolge [artikel 79, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=III&hoofdstuk=X&artikel=79&z=2007-01-01&g=2007-01-01), vastgestelde verordening, wordt het ontwerp van het besluit tot vaststelling of wijziging van een keur tegelijk met de terinzagelegging daarvan toegezonden aan de besturen van de gemeenten in het gebied waarvan de keur van toepassing zal zijn.
+1. Onverminderd het bepaalde bij een ingevolge [artikel 79, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=III&hoofdstuk=X&artikel=79&z=2007-12-29&g=2007-12-29), vastgestelde verordening, wordt het ontwerp van het besluit tot vaststelling of wijziging van een keur tegelijk met de terinzagelegging daarvan toegezonden aan de besturen van de gemeenten in het gebied waarvan de keur van toepassing zal zijn.
 
 2. Het besluit tot vaststelling of wijziging van een keur wordt binnen vier weken aan gedeputeerde staten toegezonden, met de naar voren gebrachte bedenkingen en het standpunt daaromtrent van het algemeen bestuur.
 
@@ -729,29 +841,27 @@ Het algemeen bestuur regelt de bezoldiging van de ambtenaren van het waterschap.
 
 ##### Artikel 83
 
-1. Het algemeen bestuur kan aan het dagelijks bestuur en aan het bestuur van een afdeling bevoegdheden van het algemeen bestuur overdragen, tenzij de aard van de bevoegdheid zich tegen overdracht verzet.
+1. Het algemeen bestuur kan aan het dagelijks bestuur bevoegdheden van het algemeen bestuur overdragen, tenzij de aard van de bevoegdheid zich tegen overdracht verzet.
 
 2. Het algemeen bestuur kan het dagelijks bestuur niet overdragen de bevoegdheid tot:
 
 - a. het vaststellen of wijzigen van de begroting;
 
-- b. het vaststellen van de rekening, als bedoeld in [artikel 106](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XIV&paragraaf=2&artikel=106&z=2007-01-01&g=2007-01-01);
+- b. het vaststellen van de rekening, als bedoeld in [artikel 106](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XIV&paragraaf=2&artikel=106&z=2007-12-29&g=2007-12-29);
 
-- c. het vaststellen van regels als bedoeld in de [artikelen 108](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XV&artikel=108&z=2007-01-01&g=2007-01-01) en [109](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XV&artikel=109&z=2007-01-01&g=2007-01-01);
+- c. het vaststellen van regels als bedoeld in de [artikelen 108](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XV&artikel=108&z=2007-12-29&g=2007-12-29) en [109](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XV&artikel=109&z=2007-12-29&g=2007-12-29);
 
 - d. het heffen van belastingen of rechten;
 
-- e. het vaststellen van verordeningen, behoudens het bepaalde in het vierde lid;
+- e. het vaststellen van verordeningen, behoudens het bepaalde in het derde lid;
 
 - f. het vaststellen van peilbesluiten;
 
 - g. het vaststellen van plannen krachtens bijzondere wetten.
 
-3. Het algemeen bestuur kan aan het bestuur van een afdeling niet overdragen de in het tweede lid onder a tot en met e omschreven bevoegdheden.
+3. De bevoegdheid tot het maken van keuren kan het algemeen bestuur slechts overdragen voorzover het betreft de vaststelling van nadere regels met betrekking tot bepaalde door het algemeen bestuur in zijn verordeningen aangewezen onderwerpen.
 
-4. De bevoegdheid tot het maken van keuren kan het algemeen bestuur slechts overdragen voorzover het betreft de vaststelling van nadere regels met betrekking tot bepaalde door het algemeen bestuur in zijn verordeningen aangewezen onderwerpen.
-
-5. De voorschriften met betrekking tot de bevoegdheid van het algemeen bestuur, de uitoefening daarvan en het toezicht daarop zijn ten aanzien van de met toepassing van het eerste lid overgedragen bevoegdheden van overeenkomstige toepassing, met uitzondering van die betreffende vergaderingen.
+4. De voorschriften met betrekking tot de bevoegdheid van het algemeen bestuur, de uitoefening daarvan en het toezicht daarop zijn ten aanzien van de met toepassing van het eerste lid overgedragen bevoegdheden van overeenkomstige toepassing, met uitzondering van die betreffende vergaderingen.
 
 ### Hoofdstuk XI. De bevoegdheid van het dagelijks bestuur
 
@@ -789,9 +899,7 @@ Het algemeen bestuur regelt de bezoldiging van de ambtenaren van het waterschap.
 
 ##### Artikel 87
 
-1. Het algemeen bestuur kan overeenkomstig het voorstel van het dagelijks bestuur, aan het bestuur van een afdeling bevoegdheden van het dagelijks bestuur overdragen voor zover dit bij het reglement is bepaald en de aard van de bevoegdheid zich niet tegen overdracht verzet. De bevoegdheid tot het geven van een betalingsopdracht kan alleen uitdrukkelijk worden toegekend.
-
-2. De [artikelen 73, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=III&hoofdstuk=IX&paragraaf=5&artikel=73&z=2007-01-01&g=2007-01-01), en [83, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=III&hoofdstuk=X&artikel=83&z=2007-01-01&g=2007-01-01), zijn van overeenkomstige toepassing.
+Vervallen
 
 ##### Artikel 88
 
@@ -865,103 +973,103 @@ Het waterschap draagt de kosten die zijn verbonden aan de behartiging van de tak
 
 2. De begroting bevat mede een bedrag voor onvoorziene uitgaven.
 
-3. De begroting moet in evenwicht zijn. Hiervan kan worden afgeweken indien aannemelijk is dat het evenwicht in de eerstkomende jaren zal zijn tot stand gebracht.
+3. De begroting moet in evenwicht zijn. Hiervan kan worden afgeweken indien aannemelijk is dat het evenwicht in de begroting in de eerstvolgende jaren tot stand zal zijn gebracht.
 
-4. Het begrotingsjaar is het kalenderjaar.
+4. Ten laste van het waterschap kunnen slechts lasten en daarmee overeenstemmende balansmutaties worden genomen tot de bedragen die hiervoor op de begroting zijn gebracht.
+
+5. Het begrotingsjaar is het kalenderjaar.
 
 ##### Artikel 100
 
-1. Het dagelijks bestuur biedt jaarlijks tijdig voor de in het vierde lid bedoelde vaststelling, het algemeen bestuur een ontwerp van de begroting aan, met een nota betreffende de financiële toestand van het waterschap en, behoudens in geval van ontheffing door gedeputeerde staten, een meerjarenraming voor tenminste vier op het begrotingsjaar volgende jaren.
+1. Het dagelijks bestuur biedt jaarlijks, tijdig voor de in [artikel 101, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XIV&paragraaf=1&artikel=101&z=2007-12-29&g=2007-12-29), bedoelde vaststelling, het algemeen bestuur een ontwerp aan voor de begroting met toelichting van het waterschap en een meerjarenraming met toelichting voor ten minste drie op het begrotingsjaar volgende jaren.
 
-2. De in het eerste lid bedoelde stukken liggen, zodra zij aan het algemeen bestuur zijn aangeboden, voor een ieder ter inzage op de secretarie van het waterschap of op een andere door het waterschapsbestuur te bepalen plaats. Zij worden algemeen verkrijgbaar gesteld.
+2. De ontwerp-begroting en de overige in het eerste lid bedoelde stukken liggen, zodra zij aan het algemeen bestuur zijn aangeboden, voor een ieder ter inzage en zijn algemeen verkrijgbaar. Van de terinzagelegging en de verkrijgbaarstelling wordt openbaar kennis gegeven.
 
-3. De terinzagelegging en verkrijgbaarstelling worden bekend gemaakt. De beraadslaging in het algemeen bestuur over de ontwerpbegroting vindt niet plaats binnen twee weken na de datum van de bekendmaking.
-
-4. Het algemeen bestuur stelt de begroting vast vóór 1 december van het jaar dat voorafgaat aan het begrotingsjaar.
+3. Het algemeen bestuur beraadslaagt over de ontwerp-begroting niet eerder dan twee weken na de openbare kennisgeving.
 
 ##### Artikel 101
 
-1. Het besluit tot vaststelling of wijziging van de begroting wordt gedeputeerde staten toegezonden binnen twee weken na de vaststelling daarvan, met de in [artikel 100, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XIV&paragraaf=1&artikel=100&z=2007-01-01&g=2007-01-01), genoemde stukken alsmede met eventuele bedenkingen en het standpunt daaromtrent van het algemeen bestuur.
+1. Het algemeen bestuur stelt de begroting vast in het jaar voorafgaande aan dat waarvoor zij dient.
 
-2. Besluiten tot wijziging van de begroting kunnen tot uiterlijk het eind van het desbetreffende begrotingsjaar worden genomen en worden binnen twee weken na de vaststelling daarvan toegezonden aan gedeputeerde staten.
-
-3. [Artikel 100, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XIV&paragraaf=1&artikel=100&z=2007-01-01&g=2007-01-01), alsmede, behoudens in gevallen van dringende spoed, [artikel 100, derde lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XIV&paragraaf=1&artikel=100&z=2007-01-01&g=2007-01-01), zijn van overeenkomstige toepassing.
+2. Het dagelijks bestuur zendt de door het algemeen bestuur vastgestelde begroting vergezeld van de in [artikel 100, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XIV&paragraaf=1&artikel=100&z=2007-12-29&g=2007-12-29), bedoelde stukken, binnen twee weken na de vaststelling, doch in ieder geval vóór 1 december van het jaar voorafgaande aan dat waarvoor de begroting dient, aan gedeputeerde staten.
 
 ##### Artikel 102
 
-De begroting, de begrotingswijzigingen en de meerjarenraming worden ingericht overeenkomstig bij of krachtens algemene maatregel van bestuur te stellen regels.
+1. Besluiten tot wijziging van de begroting kunnen tot uiterlijk het eind van het desbetreffende begrotingsjaar worden genomen.
+
+2. De [artikelen 100, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XIV&paragraaf=1&artikel=100&z=2007-12-29&g=2007-12-29), en [101, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XIV&paragraaf=1&artikel=101&z=2007-12-29&g=2007-12-29), alsmede, behoudens in gevallen van dringende spoed, [artikel 100, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XIV&paragraaf=1&artikel=100&z=2007-12-29&g=2007-12-29), zijn van overeenkomstige toepassing.
 
 ##### Artikel 103
 
-Verplichte uitgaven van het waterschap zijn:
+1. Het dagelijks bestuur legt aan het algemeen bestuur over elk begrotingsjaar verantwoording af over het door hem gevoerde bestuur, onder overlegging van de jaarrekening en het jaarverslag.
 
-- a. de renten en aflossingen van door het waterschap aangegane geldleningen en alle overige opeisbare schulden;
+2. Het dagelijks bestuur voegt daarbij de verslagen, bedoeld in [artikel 109a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XV&artikel=109a&z=2007-12-29&g=2007-12-29).
 
-- b. de uitgaven, bij of krachtens de wet aan het waterschap opgelegd;
-
-- c. de uitgaven, voortvloeiende uit de van het waterschapsbestuur gevorderde medewerking tot uitvoering van wetten, algemene maatregelen van bestuur en provinciale verordeningen, voorzover die uitgaven niet ten laste van anderen zijn gebracht.
+3. De in het eerste en tweede lid, alsmede de in [artikel 109, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XV&artikel=109&z=2007-12-29&g=2007-12-29), bedoelde stukken liggen, zodra zij aan het algemeen bestuur zijn overgelegd, voor een ieder ter inzage en zijn algemeen verkrijgbaar. Van de terinzage legging en de verkrijgbaarstelling wordt openbaar kennis gegeven. Het algemeen bestuur beraadslaagt over de jaarrekening en het jaarverslag niet eerder dan twee weken na de openbare kennisgeving.
 
 ##### Artikel 104
 
-1. Indien het algemeen bestuur weigert verplichte uitgaven op de begroting te brengen doen gedeputeerde staten dit.
+1. Het algemeen bestuur stelt de jaarrekening en het jaarverslag vast in het jaar volgend op het begrotingsjaar. De jaarrekening betreft alle baten en lasten van het waterschap.
 
-2. Indien het algemeen bestuur weigert in de dekking van de in het eerste lid bedoelde uitgaven te voorzien, verminderen gedeputeerde staten daartoe hetzij het bedrag voor onvoorziene uitgaven hetzij de niet verplichte uitgaven.
+2. Indien het algemeen bestuur tot het standpunt komt dat onrechtmatige totstandkoming van in de jaarrekening opgenomen baten, lasten of balansmutaties aan de vaststelling van de jaarrekening in de weg staat, brengt hij dit terstond ter kennis van het dagelijks bestuur met vermelding van de gerezen bedenkingen.
 
-3. Gedeputeerde staten dragen zonodig aan de voor de administratie en het beheer bevoegde ambtenaar de betaling op ten laste van het waterschap van hetgeen met toepassing van het eerste lid als verplichte uitgaaf op de begroting is gebracht.
+3. Het dagelijks bestuur zendt het algemeen bestuur binnen twee maanden na ontvangst van het standpunt, bedoeld in het tweede lid, een voorstel voor een indemniteitsbesluit, vergezeld van een reactie op de bij het algemeen bestuur gerezen bedenkingen.
+
+4. Indien het dagelijks bestuur een voorstel voor een indemniteitsbesluit heeft gedaan, stelt het algemeen bestuur de jaarrekening niet vast dan nadat hij heeft besloten over het voorstel.
 
 #### § 2. De rekening
 
 ##### Artikel 105
 
-1. Het dagelijks bestuur legt aan het algemeen bestuur over elk begrotingsjaar verantwoording af van het gevoerde financiële beheer, onder overlegging van de rekening. [Artikel 102](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XIV&paragraaf=1&artikel=102&z=2007-01-01&g=2007-01-01) is van overeenkomstige toepassing op de inrichting van de rekening.
-
-2. Het dagelijks bestuur voegt daarbij een verslag als bedoeld in [artikel 109, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XV&artikel=109&z=2007-01-01&g=2007-01-01), alsmede een door het dagelijks bestuur opgemaakt verslag ter verantwoording van het financieel beheer. [Artikel 100, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XIV&paragraaf=1&artikel=100&z=2007-01-01&g=2007-01-01), is van overeenkomstige toepassing op de rekening en de in dit lid bedoelde stukken.
+De leden van het dagelijks bestuur nemen niet deel aan stemmingen over besluiten als bedoeld in het [eerste, tweede en vierde lid van artikel 104](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XIV&paragraaf=2&artikel=104&z=2007-12-29&g=2007-12-29).
 
 ##### Artikel 106
 
-1. Het algemeen bestuur stelt de rekening vast vóór 1 september van het jaar volgend op het begrotingsjaar, behoudens ontheffing van gedeputeerde staten.
-
-2. Het algemeen bestuur kan uitgaven die te kwader trouw zijn geboekt op een post waarmee zij niet overeenstemmen of die anderszins niet rechtmatig zijn gedaan, buiten de rekening laten.
-
-3. De leden van het dagelijks bestuur nemen niet deel aan stemmingen over besluiten als bedoeld in het eerste en tweede lid.
-
-4. Behoudens later in rechte gebleken onregelmatigheden ontlast de vastgestelde rekening de leden van het dagelijks bestuur ten aanzien van het daarin verantwoorde financiële beheer.
+Behoudens later in rechte gebleken onregelmatigheden, ontlast de vaststelling van de jaarrekening de leden van het dagelijks bestuur ten aanzien van het daarin verantwoorde financieel beheer.
 
 ##### Artikel 107
 
-1. Het dagelijks bestuur zendt de rekening vergezeld van de in [artikel 105, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XIV&paragraaf=2&artikel=105&z=2007-01-01&g=2007-01-01), bedoelde stukken en eventuele bedenkingen en het standpunt daaromtrent van het algemeen bestuur, binnen twee weken na de vaststelling door het algemeen bestuur, aan gedeputeerde staten.
+Het dagelijks bestuur zendt de vastgestelde jaarrekening en het jaarverslag, vergezeld van de overige in [artikel 103](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XIV&paragraaf=2&artikel=103&z=2007-12-29&g=2007-12-29) bedoelde stukken binnen twee weken na vaststelling, maar in ieder geval vóór 15 juli van het jaar, volgend op het begrotingsjaar, aan gedeputeerde staten. Het dagelijks bestuur voegt daarbij, indien van toepassing, het besluit van het algemeen bestuur over een voorstel voor een indemniteitsbesluit met de reactie, bedoeld in [artikel 104, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XIV&paragraaf=2&artikel=104&z=2007-12-29&g=2007-12-29).
 
-2. Indien [artikel 106, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XIV&paragraaf=2&artikel=106&z=2007-01-01&g=2007-01-01), is toegepast wordt het desbetreffende besluit meegezonden.
-
-3. Indien uitgaven niet in de vastgestelde rekening zijn opgenomen, zijn de leden van het orgaan dat voor de uitgaaf verantwoordelijk is daarvoor persoonlijk aansprakelijk jegens het waterschap, tenzij blijkt dat zij aan het besluit niet hebben meegewerkt.
-
-4. Gelijke aansprakelijkheid bestaat voor zover zij te kwader trouw hebben meegewerkt aan het niet of niet tijdig innen van vorderingen of andere aan het waterschap toekomende gelden dan wel aan het verlenen van kwijtscheldingen.
-
-5. Het dagelijks bestuur stelt, zo dikwijls daartoe termen zijn, een rechtsvordering in tot betaling van de krachtens het derde en vierde lid verschuldigde gelden, zonder dat daartoe een nadere beslissing is vereist. Indien binnen een door de Commissaris van de Koning gestelde termijn geen rechtsvordering is ingesteld, gaat deze daartoe over namens en ten laste van het waterschap.
-
-### Hoofdstuk XV. De administratie en de controle
+### Hoofdstuk XII. De bevoegdheid van de voorzitter
 
 ##### Artikel 108
 
-1. Het algemeen bestuur stelt bij verordening regels vast met betrekking tot de organisatie van de administratie en van het beheer van vermogenswaarden. Deze regels dienen te waarborgen dat aan de eisen van doelmatigheid en controle wordt voldaan.
+1. Het algemeen bestuur stelt bij verordening de uitgangspunten voor het financiële beleid, alsmede voor het financiële beheer en voor de inrichting van de financiële organisatie vast. Deze verordening waarborgt dat aan de eisen van rechtmatigheid, verantwoording en controle wordt voldaan.
 
-2. De verordening wordt binnen twee weken na de vaststelling toegezonden aan gedeputeerde staten.
+2. De verordening bevat in ieder geval:
 
-3. De administratie en het beheer, bedoeld in het eerste lid, worden verricht door ingevolge die verordening aan te wijzen ambtenaren. De secretaris kan niet worden aangewezen, behoudens ontheffing van gedeputeerde staten.
+- a. regels voor waardering en afschrijving van activa;
 
-4. De regels, bedoeld in het eerste lid, voorzien in een financieringsstatuut, waarin in ieder geval regels zijn opgenomen ten aanzien van:
+- b. grondslagen voor de berekening van de door het waterschapsbestuur in rekening te brengen prijzen en van tarieven voor rechten als bedoeld in [artikel 115, eerste lid onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XVI&artikel=115&z=2007-12-29&g=2007-12-29);
 
-- a. de algemene doelstellingen en de te hanteren richtlijnen en limieten van de financieringsfunctie;
-
-- b. de administratieve organisatie van de financieringsfunctie, waaronder begrepen taken en bevoegdheden, de verantwoordingsrelaties en de bijbehorende informatievoorziening.
-
-5. Gedeputeerde staten kunnen te allen tijde een onderzoek instellen naar de wijze waarop de administratie en het beheer, bedoeld in het eerste lid, worden gevoerd.
+- c. regels inzake de algemene doelstellingen en de te hanteren richtlijnen en limieten van de financieringsfunctie, alsmede inzake de administratieve organisatie van de financieringsfunctie, daaronder begrepen taken en bevoegdheden, de verantwoordingsrelaties en de bijbehorende informatievoorziening.
 
 ##### Artikel 109
 
-1. Het algemeen bestuur stelt bij verordening regels vast met betrekking tot de controle op de administratie en op het beheer van vermogensvoorwaarden. De regels dienen onder meer te waarborgen dat de rechtmatigheid en de doelmatigheid van de administratie en het beheer worden getoetst.
+1. Het algemeen bestuur stelt bij verordening regels vast voor de controle op het financiële beheer en op de inrichting van de financiële organisatie. Deze verordening waarborgt dat de rechtmatigheid van het financiële beheer en van de inrichting van de financiële organisatie wordt getoetst.
 
-2. De regels, bedoeld in het eerste lid, voorzien onder meer in de aanwijzing van een of meer accountants als bedoeld in [artikel 2:393 van het Burgerlijk Wetboek](onbekend) belast met het onderzoek van de rekening alsmede met het ter zake uitbrengen van een verslag, dat behalve de verklaring bij de rekening bevindingen bevat over de vraag of de administratie en het beheer voldoen aan de eisen van rechtmatigheid en doelmatigheid.
+2. Het algemeen bestuur wijst één of meer accountants aan als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393), belast met de controle van de in [artikel 103](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XIV&paragraaf=2&artikel=103&z=2007-12-29&g=2007-12-29) bedoelde jaarrekening en het daarbij verstrekken van een accountantsverklaring en het uitbrengen van een verslag van bevindingen.
+
+3. De accountantsverklaring geeft op grond van de uitgevoerde controle aan of:
+
+- a. de jaarrekening een getrouw beeld geeft van zowel de baten en lasten als de grootte en samenstelling van het vermogen;
+
+- b. de baten en lasten, alsmede de balansmutaties rechtmatig tot stand zijn gekomen;
+
+- c. de jaarrekening is opgesteld in overeenstemming met de bij of krachtens algemene maatregel van bestuur te stellen regels, bedoeld in [artikel 98a](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XIII&artikel=98a&z=2007-12-29&g=2007-12-29), en
+
+- d. het jaarverslag met de jaarrekening verenigbaar is.
+
+4. Het verslag van bevindingen bevat in ieder geval bevindingen over:
+
+- a. de vraag of de inrichting van het financiële beheer en van de financiële organisatie een getrouwe en rechtmatige verantwoording mogelijk maken, en
+
+- b. onrechtmatigheden in de jaarrekening.
+
+5. De accountant zendt de accountantsverklaring en het verslag van bevindingen aan het algemeen bestuur en een afschrift daarvan aan het dagelijks bestuur.
+
+6. Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot de reikwijdte van en de verslaglegging omtrent de accountantscontrole, bedoeld in het tweede lid.
 
 ### Hoofdstuk XVI. De waterschapsbelastingen
 
@@ -979,9 +1087,7 @@ Vervallen
 
 ##### Artikel 113
 
-1. Behalve de belastingen of rechten waarvan de heffing krachtens bijzondere wetten geschiedt, worden door het waterschap geen andere belastingen en rechten geheven dan de precariobelasting, bedoeld in [artikel 114](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XVI&artikel=114&z=2007-01-01&g=2007-01-01), de rechten, bedoeld in [artikel 115](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XVI&artikel=115&z=2007-01-01&g=2007-01-01), en de omslagen, bedoeld in [artikel 116](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XVII&artikel=116&z=2007-01-01&g=2007-01-01).
-
-2. Met omslagen worden gelijkgesteld bijdragen die op grond van het reglement in de plaats treden van het voldoen aan de in de legger, bedoeld in [artikel 78, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=III&hoofdstuk=X&artikel=78&z=2007-01-01&g=2007-01-01), opgenomen verplichtingen tot onderhoud van waterstaatswerken.
+Behalve de belastingen of rechten waarvan de heffing krachtens bijzondere wetten geschiedt, worden door het waterschap geen andere belastingen en rechten geheven dan de precariobelasting, bedoeld in [artikel 114](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XVI&artikel=114&z=2007-12-29&g=2007-12-29), de rechten, bedoeld in [artikel 115](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XVI&artikel=115&z=2007-12-29&g=2007-12-29), en de heffingen, bedoeld in de [artikelen 117](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XVII&artikel=117&z=2007-12-29&g=2007-12-29), [122a](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XVIIa&artikel=122a&z=2007-12-29&g=2007-12-29) en [122d](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XVIIb&artikel=122d&z=2007-12-29&g=2007-12-29).
 
 ##### Artikel 114
 
@@ -993,11 +1099,11 @@ Het waterschap kan een precariobelasting heffen voor het hebben van voorwerpen o
 
 - a. het gebruik overeenkomstig de bestemming van voor de openbare dienst bestemde bezittingen van het waterschap of van voor de openbare dienst bestemde werken of inrichtingen die bij het waterschap in beheer of in onderhoud zijn;
 
-- b. het genot van door of vanwege het bestuur van het waterschap verstrekte diensten, tenzij deze bestaan in het tijdelijk ter beschikking van particulieren stellen van personeel van het waterschap;
+- b. het genot van door of vanwege het bestuur van het waterschap verstrekte diensten;
 
 - c. het behandelen van verzoeken tot het verlenen van vergunningen of ontheffingen.
 
-2. Voor de toepassing van dit hoofdstuk en van [hoofdstuk XVIII](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XVIII&z=2007-01-01&g=2007-01-01) worden de in het eerste lid bedoelde rechten aangemerkt als waterschapsbelastingen.
+2. Voor de toepassing van dit hoofdstuk en van [hoofdstuk XVIII](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XVIII&z=2007-12-29&g=2007-12-29) worden de in het eerste lid bedoelde rechten aangemerkt als waterschapsbelastingen.
 
 3. In verordeningen op grond waarvan rechten als bedoeld in het eerste lid worden geheven, worden de tarieven zodanig vastgesteld dat de geraamde baten van de rechten niet uitgaan boven de geraamde lasten ter zake.
 
@@ -1005,117 +1111,117 @@ Het waterschap kan een precariobelasting heffen voor het hebben van voorwerpen o
 
 ##### Artikel 116
 
-Ter bestrijding van kosten die zijn verbonden aan de behartiging van taken die het waterschap zijn opgedragen kunnen enkel omslagen worden geheven van hen die:
+Voor de toepassing van dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. krachtens eigendom, bezit of beperkt recht het genot hebben van ongebouwde onroerende zaken;
+- a. ingezetenen: degene die, blijkens de gemeentelijke basisadministratie persoonsgegevens, bij het begin van het kalenderjaar woonplaats heeft in het gebied van het waterschap en die aldaar gebruik heeft van woonruimte, met dien verstande dat in geval van gebruik van woonruimte door de leden van een gezamenlijke huishouding het door een door de in [artikel 123, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XVIII&artikel=123&z=2007-12-29&g=2007-12-29), bedoelde ambtenaar van het waterschap aan te wijzen lid van dat huishouden;
 
-- b. krachtens eigendom, bezit, beperkt recht of krachtens een door de grondkamer goedgekeurde pachtovereenkomst het gebruik hebben van ongebouwde onroerende zaken;
+- b. woonruimte: een ruimte die blijkens zijn inrichting bestemd is om als een afzonderlijk geheel te voorzien in woongelegenheid en waarvan de delen blijkens de inrichting van die ruimte niet bestemd zijn om afzonderlijk in gebruik te worden gegeven;
 
-- c. krachtens eigendom, bezit of beperkt recht het genot hebben van gebouwde onroerende zaken;
-
-- d. ingezetenen zijn;
-
-- e. krachtens eigendom, bezit, beperkt recht of persoonlijk recht het gebruik hebben van gebouwde onroerende zaken als bedrijfsruimte.
+- c. natuurterreinen: ongebouwde onroerende zaken waarvan de inrichting en het beheer geheel of nagenoeg geheel en duurzaam zijn afgestemd op het behoud of de ontwikkeling van natuur. Onder natuurterreinen worden mede verstaan bossen en open wateren met een oppervlakte van tenminste één hectare.
 
 ##### Artikel 117
 
-1. Voor de omslagen, bedoeld in [artikel 116, onderdelen **c** en **e**](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XVII&artikel=116&z=2007-01-01&g=2007-01-01), wordt aangemerkt als één gebouwde onroerende zaak:
+Ter bestrijding van kosten die zijn verbonden aan de zorg voor het watersysteem wordt onder de naam watersysteemheffing een heffing geheven van hen die:
+
+- a. ingezetenen zijn;
+
+- b. krachtens eigendom, bezit of beperkt recht het genot hebben van ongebouwde onroerende zaken, niet zijnde natuurterreinen;
+
+- c. krachtens eigendom, bezit of beperkt recht het genot hebben van natuurterreinen;
+
+- d. krachtens eigendom, bezit of beperkt recht het genot hebben van gebouwde onroerende zaken.
+
+##### Artikel 118
+
+1. Als één gebouwde onroerende zaak als bedoeld in [artikel 117, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XVII&artikel=117&z=2007-12-29&g=2007-12-29), wordt aangemerkt:
 
 - a. een gebouwd eigendom;
 
 - b. een gedeelte van een gebouwd eigendom dat blijkens zijn indeling is bestemd om als een afzonderlijk geheel te worden gebruikt;
 
-- c. een samenstel van twee of meer van de in onderdeel **a** bedoelde gebouwde eigendommen of van in onderdeel **b** bedoelde gedeelten daarvan die bij dezelfde belastingplichtige in gebruik zijn en die, naar de omstandigheden beoordeeld, bij elkaar behoren;
+- c. een samenstel van twee of meer van de in onderdeel a bedoelde gebouwde eigendommen of van in onderdeel b bedoelde gedeelten daarvan die bij dezelfde belastingplichtige in gebruik zijn en die, naar de omstandigheden beoordeeld, bij elkaar behoren;
 
-- d. het binnen het gebied van een gemeente gelegen deel van een in onderdeel a bedoeld eigendom, van een in onderdeel **b** bedoeld gedeelte of van een in onderdeel **c** bedoeld samenstel;
+- d. het binnen het gebied van een gemeente gelegen deel van een in onderdeel a bedoeld eigendom, van een in onderdeel b bedoeld gedeelte of van een in onderdeel c bedoeld samenstel;
 
-- e. het binnen het gebied van het waterschap gelegen deel van een in onderdeel **a** bedoeld eigendom, van een in onderdeel **b** bedoeld gedeelte, van een in onderdeel **c** bedoeld samenstel of van een in onderdeel **d** bedoeld deel.
+- e. het binnen het gebied van het waterschap gelegen deel van een in onderdeel a bedoeld eigendom, van een in onderdeel b bedoeld gedeelte, van een in onderdeel c bedoeld samenstel of van een in onderdeel d bedoeld deel.
 
-2. Voor de toepassing van het eerste lid maken de ongebouwde eigendommen voorzover die dienstbaar zijn aan een gebouwd eigendom, aan een gedeelte van een gebouwd eigendom of aan een samenstel van gebouwde eigendommen, als bedoeld in onderdeel **a**, onderscheidenlijk onderdeel **b** of onderdeel **c**, van dat lid, deel uit van de gebouwde onroerende zaak, met uitzondering van de ongebouwde eigendommen, voor zover de waarde daarvan bij de waardebepaling op de voet van [hoofdstuk IV van de Wet waardering onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV) op basis van het bepaalde krachtens [artikel 18, derde lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=18) buiten aanmerking wordt gelaten.
+2. Voor de toepassing van het eerste lid maken de ongebouwde eigendommen voorzover die een samenstel vormen met een gebouwd eigendom als bedoeld in het eerste lid, onderdeel a tot en met e, deel uit van de gebouwde onroerende zaak, met uitzondering van de ongebouwde eigendommen, voorzover de waarde daarvan bij de waardebepaling op de voet van [hoofdstuk IV van de Wet waardering onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV) op basis van het bepaalde krachtens [18, derde lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=18) buiten aanmerking wordt gelaten.
 
-3. Voor de omslagen, bedoeld in [artikel 116, onderdelen **a** en **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XVII&artikel=116&z=2007-01-01&g=2007-01-01), wordt aangemerkt als één ongebouwde onroerende zaak:
+3. Als één ongebouwde onroerende zaak als bedoeld in [artikel 117, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XVII&artikel=117&z=2007-12-29&g=2007-12-29), wordt aangemerkt een kadastraal perceel of gedeelte daarvan, met dien verstande dat buiten aanmerking wordt gelaten:
 
-- a. een ongebouwd eigendom dat niet dienstbaar is aan een gebouwd eigendom of een gedeelte daarvan;
+- a. hetgeen ingevolge het eerste en tweede lid wordt aangemerkt als een gebouwde onroerende zaak;
 
-- b. een ongebouwd eigendom, voor zover de waarde daarvan bij de waardebepaling op de voet van [hoofdstuk IV van de Wet waardering onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV) op basis van het bepaalde krachtens [artikel 18, derde lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=18) buiten aanmerking wordt gelaten;
+- b. een natuurterrein.
 
-- c. het binnen het gebied van het waterschap gelegen deel van een in onderdeel **a** of in onderdeel **b** bedoeld eigendom.
+4. Als één natuurterrein wordt aangemerkt een kadastraal perceel of gedeelte daarvan, met dien verstande dat buiten aanmerking wordt gelaten:
 
-4. In afwijking van het derde lid kan, indien de belastingverordening zulks bepaalt, worden aangemerkt als één ongebouwde onroerende zaak:
+- a. hetgeen ingevolge het eerste en tweede lid wordt aangemerkt als een gebouwde onroerende zaak;
 
-- a. een samenstel van twee of meer ongebouwde eigendommen die bij dezelfde belastingplichtige in gebruik zijn en die, naar de omstandigheden beoordeeld, bij elkaar behoren;
+- b. hetgeen ingevolge het derde lid wordt aangemerkt als een ongebouwde onroerende zaak.
 
-- b. een kadastraal perceel of gedeelte daarvan, met dien verstande dat hetgeen wordt aangemerkt als een gebouwde onroerende zaak niet in aanmerking wordt genomen.
-
-5. Voor de omslagen, bedoeld in [artikel 116](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XVII&artikel=116&z=2007-01-01&g=2007-01-01), worden openbare land- en waterwegen en banen voor openbaar vervoer per rail, één en ander met inbegrip van kunstwerken, alsmede waterverdedigingswerken die worden beheerd door organen, instellingen of diensten van publiekrechtelijke rechtspersonen, met uitzondering van de delen van zodanige werken die dienen als woning, als ongebouwde eigendommen aangemerkt.
-
-##### Artikel 118
-
-1. Voor de toepassing van [artikel 116, onderdelen **a** en **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XVII&artikel=116&z=2007-01-01&g=2007-01-01), wordt als genothebbende van een ongebouwde danwel een gebouwde onroerende zaak krachtens eigendom, bezit of beperkt recht aangemerkt degene die bij het begin van het kalenderjaar als zodanig in de desbetreffende kadastrale registratie is vermeld, tenzij blijkt dat hij op dat tijdstip geen genothebbende krachtens eigendom, bezit of beperkt recht is.
-
-2. Voor de toepassing van [artikel 116, onderdeel **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XVII&artikel=116&z=2007-01-01&g=2007-01-01), wordt als gebruiker van een ongebouwde onroerende zaak krachtens eigendom, bezit of beperkt recht, dan wel krachtens pachtovereenkomst, aangemerkt degene die bij het begin van het kalenderjaar als genothebbende krachtens eigendom, bezit of beperkt recht zelf het gebruik heeft, onderscheidenlijk het gebruik heeft krachtens een door de grondkamer goedgekeurde pachtovereenkomst.
-
-3. Voor de toepassing van [artikel 116, onderdeel d,](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XVII&artikel=116&z=2007-01-01&g=2007-01-01) wordt aangemerkt:
-
-- a. als ingezetene degene die blijkens de gemeentelijke basisadministratie persoonsgegevens bij het begin van het belastingjaar woonplaats heeft in het gebied van het waterschap en die aldaar gebruik heeft van woonruimte, met dien verstande dat gebruik van woonruimte door de leden van een gezamenlijke huishouding wordt aangemerkt als gebruik door een door de in [artikel 123, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XVIII&artikel=123&z=2007-01-01&g=2007-01-01), bedoelde ambtenaar van het waterschap aan te wijzen lid van dat huishouden.
-
-- b. woonruimte: een ruimte die blijkens zijn inrichting bestemd is om als afzonderlijk geheel te voorzien in woongelegenheid en waarvan de delen blijkens de inrichting van die ruimte niet bestemd zijn om afzonderlijk in gebruik te worden gegeven.
-
-4. Voor de toepassing van [artikel 116, onderdeel **e**](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XVII&artikel=116&z=2007-01-01&g=2007-01-01), wordt als gebruiker van bedrijfsruimte aangemerkt degene die bij het begin van het kalenderjaar in het gebied van het waterschap het gebruik heeft van een gebouwde onroerende zaak of van een gedeelte daarvan als bedrijfsruimte, met dien verstande dat:
-
-- a. gebruik door degene aan wie een deel van een gebouwde onroerende zaak in gebruik is gegeven, wordt aangemerkt als gebruik door degene die dat deel in gebruik heeft gegeven, waarbij deze bevoegd is de omslag als zodanig te verhalen op degene aan wie deze het deel in gebruik heeft gegeven;
-
-- b. het ter beschikking stellen van een gebouwde onroerende zaak voor volgtijdig gebruik wordt aangemerkt als gebruik door degene die die zaak ter beschikking heeft gesteld, waarbij deze bevoegd is de omslag als zodanig te verhalen op degene aan wie deze de zaak ter beschikking heeft gesteld.
-
-5. Voor de toepassing van [artikel 116, onderdelen **a** en **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XVII&artikel=116&z=2007-01-01&g=2007-01-01), wordt, ingeval van verschillende soorten van genot krachtens beperkt recht alleen het genot van het beperkte recht waaraan ingevolge [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=II&hoofdstuk=IV&paragraaf=2&artikel=24&z=2007-01-01&g=2007-01-01) stemrecht is verbonden, in aanmerking genomen.
-
-6. Indien van een ongebouwde onroerende zaak niet blijkt dat het gebruik daarvan een gebruik is in de zin van [artikel 116, onderdeel **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XVII&artikel=116&z=2007-01-01&g=2007-01-01), wordt voor de toepassing van die bepaling degene die van die onroerende zaak het genot heeft krachtens eigendom, bezit of beperkt recht aangemerkt als tevens zijnde degene die het gebruik heeft krachtens eigendom, bezit of beperkt recht.
+5. Voor de heffing, bedoeld in [artikel 117](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XVII&artikel=117&z=2007-12-29&g=2007-12-29), worden openbare land- en waterwegen en banen voor openbaar vervoer per rail, één en ander met inbegrip van kunstwerken, alsmede waterverdedigingswerken die worden beheerd door organen, instellingen of diensten van publiekrechtelijke rechtspersonen, met uitzondering van de delen van zodanige werken die dienen als woning, aangemerkt als ongebouwde eigendommen, niet zijnde natuurterreinen.
 
 ##### Artikel 119
 
-1. Het algemeen bestuur stelt ten behoeve van de in [artikel 116](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XVII&artikel=116&z=2007-01-01&g=2007-01-01) bedoelde omslagen een verordening vast, waarin, zoveel mogelijk naar onderscheid van de taken die het waterschap ter behartiging zijn opgedragen, voor elk van de categorieën van belanghebbenden die in dat bestuur zijn vertegenwoordigd, de toedeling van het kostendeel is opgenomen.
+1. Heffingsplichtig in de zin van [artikel 117, onderdelen b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XVII&artikel=117&z=2007-12-29&g=2007-12-29), zijn degenen die bij het begin van het kalenderjaar als rechthebbende in de desbetreffende kadastrale registratie is vermeld, tenzij blijkt dat hij op dat tijdstip geen rechthebbende krachtens eigendom, bezit of beperkt recht is.
 
-Bij die verordening kan worden bepaald dat, in afwijking van de vorige volzin, kosten van heffing en invordering van waterschapsbelastingen en kosten van de verkiezing van de leden van het algemeen bestuur rechtstreeks worden toegerekend aan de betrokken categorieën van belanghebbenden.
+2. Voor de toepassing van [artikel 117, onderdelen b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XVII&artikel=117&z=2007-12-29&g=2007-12-29), is heffingplichtig de:
 
-2. Indien aan de categorieën van belanghebbenden, bedoeld in [artikel 11, tweede lid, onderdelen **a** en **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=II&hoofdstuk=IV&paragraaf=1&artikel=11&z=2007-01-01&g=2007-01-01), kosten worden toegedeeld voor eenzelfde taak, kan alleen een gezamenlijk kostendeel worden opgenomen, onverminderd het bepaalde in [artikel 116, onderdelen **a** en **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XVII&artikel=116&z=2007-01-01&g=2007-01-01).
+- a. beperkt gerechtigde en niet de eigenaar, ingeval de onroerende zaak is onderworpen aan het recht van beklemming, van erfpacht, van opstal of van vruchtgebruik;
 
-3. Bij reglement kan worden omschreven welke uitgangspunten bij de toedeling van kostendelen in elk geval in acht dienen te worden genomen.
+- b. eigenaar voor wat betreft het recht van opstal, indien dat recht uitsluitend is gevestigd ten behoeve van de aanleg of het onderhoud, dan wel ten behoeve van de aanleg en het onderhoud, van ondergrondse dan wel bovengrondse leidingen.
 
-4. De in het eerste lid bedoelde verordening behoeft de goedkeuring van gedeputeerde staten. Het besluit tot vaststelling van de verordening wordt binnen vier weken na de vaststelling toegezonden aan gedeputeerde staten, met de naar voren gebrachte bedenkingen en het standpunt daaromtrent van het algemeen bestuur.
+3. Indien de onroerende zaak is onderworpen aan beperkte rechten als bedoeld in het tweede lid, heeft voor de heffingplicht:
 
-5. De in het eerste lid bedoelde verordening wordt tenminste eenmaal in de vijf jaren herzien.
+- a. de vruchtgebruiker voorrang boven zowel de opstaller als de erfpachter, onderscheidenlijk de beklemde meier;
 
-6. Bij de toepassing van de voorgaande leden worden in aanmerking genomen de aard en de omvang van het belang of de belangen van de onderscheidene categorieën van belanghebbenden bij de behartiging van de taken waarmee het waterschap is belast.
+- b. de opstaller voorrang boven de erfpachter, onderscheidenlijk de beklemde meier.
 
 ##### Artikel 120
 
-1. Voor de omslagen ter zake van ongebouwde onroerende zaken geldt als heffingsmaatstaf de oppervlakte.
+1. Het algemeen bestuur stelt ten behoeve van de in [artikel 117](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XVII&artikel=117&z=2007-12-29&g=2007-12-29) bedoelde heffing een verordening vast, waarin voor elk van de categorieën van heffingplichtigen de toedeling van het kostendeel is opgenomen. Bij die verordening kan worden bepaald dat kosten van heffing en invordering van de watersysteemheffing en kosten van de verkiezing van de leden van het algemeen bestuur rechtstreeks worden toegerekend aan de betrokken categorieën van heffingplichtigen.
 
-2. Voor de omslagen ter zake van gebouwde onroerende zaken is, indien de gebouwde onroerende zaak tevens een onroerende zaak is als bedoeld in [hoofdstuk III van de Wet waardering onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=III), de heffingsmaatstaf de op de voet van [hoofdstuk IV van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV) voor de onroerende zaak vastgestelde waarde voor het kalenderjaar.
+2. De toedeling van het kostendeel voor de categorie, bedoeld in [artikel 117, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XVII&artikel=117&z=2007-12-29&g=2007-12-29), wordt bepaald aan de hand van de gemiddelde inwonerdichtheid per vierkante kilometer in het gebied van het waterschap. Het door het waterschap bij verordening, als bedoeld onder het eerste lid, te bepalen kostenaandeel bedraagt:
 
-3. In afwijking in zoverre van het tweede lid wordt bij de bepaling van de heffingsmaatstaf voor de omslagen ter zake van gebouwde onroerende zaken de waarde van onroerende zaken of onderdelen daarvan als bedoeld in [artikel 220d, eerste lid, onderdelen c, h en j, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=220d) en van waterbeheersingswerken die worden beheerd door organen, instellingen of diensten van publiekrechtelijke rechtspersonen, met uitzondering van de delen die dienen als woning, buiten aanmerking gelaten, voor zover dit niet reeds is geschied bij de bepaling van de in het tweede lid bedoelde waarde.
+- a. minimaal 20% en maximaal 30% wanneer het aantal inwoners per vierkante kilometer niet meer bedraagt dan 500;
 
-4. Bij de toepassing van het derde lid is het bepaalde bij of krachtens de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=17), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=18) en [20, tweede lid, van de Wet waardering onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=20) van overeenkomstige toepassing.
+- b. minimaal 31% en maximaal 40% wanneer het aantal inwoners per vierkante kilometer meer bedraagt dan 500 maar niet meer dan 1000;
 
-5. Voor de omslagen ter zake van gebouwde onroerende zaken die deel uitmaken van een onroerende zaak als bedoeld in [hoofdstuk III van de Wet waardering onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=III) wordt de heffingsmaatstaf gesteld op het gedeelte van de op de voet van [hoofdstuk IV van de Wet waardering onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV) vastgestelde waarde dat kan worden toegekend aan de gebouwde onroerende zaak.
+- c. minimaal 41% en maximaal 50% wanneer het aantal inwoners per vierkante kilometer meer bedraagt dan 1000.
 
-6. Indien het tweede of vijfde lid geen toepassing kan vinden door het ontbreken van een op de voet van [hoofdstuk IV van de Wet waardering onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV) vastgestelde waarde, wordt de heffingsmaatstaf van die gebouwde onroerende zaak bepaald met toepassing van het derde en vierde lid en met overeenkomstige toepassing van het vijfde lid alsmede van het bepaalde bij of krachtens de [artikelen 16 tot en met 18](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=16) en [20, tweede lid, van de Wet waardering onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=20).
+3. Het algemeen bestuur kan de in het tweede lid genoemde maximale percentages verhogen tot 40, onderscheidenlijk 50 en 60 %.
 
-7. Met betrekking tot de bepaling van de heffingsmaatstaf, bedoeld in het eerste of tweede lid, kan het algemeen bestuur een verordening vaststellen, waarin omslagklassen voor onroerende zaken worden ingesteld om te voorkomen dat verschillen in hoedanigheid of ligging leiden tot onevenredig voor- of nadeel voor de omslagplichtigen. Voorzover zodanige verschillen leiden tot een verschil in belang van meer dan 50% of van minder dan 25% wordt dat verschil in elk geval aangemerkt als onevenredig onderscheidenlijk niet onevenredig. Op de in de eerste volzin bedoelde verordening is [artikel 119, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XVII&artikel=119&z=2007-01-01&g=2007-01-01), van overeenkomstige toepassing.
+4. De toedeling van het kostendeel voor de categorieën, bedoeld in [artikel 117, onderdelen b tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XVII&artikel=117&z=2007-12-29&g=2007-12-29), wordt bepaald op basis van de waarde van de onroerende zaken in het economische verkeer. Bij of krachtens algemene maatregel van bestuur worden hiertoe nadere regels gesteld.
 
-8. Het tarief per eenheid van de heffingsmaatstaf is gelijk.
+5. De in het eerste lid bedoelde verordening behoeft de goedkeuring van gedeputeerde staten. Het besluit tot vaststelling van de verordening wordt binnen vier weken na de vaststelling door het algemeen bestuur toegezonden aan gedeputeerde staten, met de naar voren gebrachte bedenkingen en overwegingen daaromtrent van het algemeen bestuur.
+
+6. De in het eerste lid bedoelde verordening wordt tenminste eenmaal in de vijf jaren herzien.
 
 ##### Artikel 121
 
-De omslag bedoeld in [artikel 116, onderdeel **d**](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XVII&artikel=116&z=2007-01-01&g=2007-01-01), wordt vastgesteld op een gelijk bedrag per woonruimte.
+1. Voor de heffing geldt als heffingsmaatstaf:
+
+- a. ter zake van ingezetenen als bedoeld in [artikel 117, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XVII&artikel=117&z=2007-12-29&g=2007-12-29): de woonruimte, waarbij het tarief wordt gesteld op een gelijk bedrag per woonruimte;
+
+- b. ter zake van ongebouwde onroerende zaken als bedoeld in [artikel 117, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XVII&artikel=117&z=2007-12-29&g=2007-12-29): de oppervlakte, waarbij het tarief wordt gesteld op een gelijk bedrag per hectare;
+
+- c. ter zake van ongebouwde onroerende zaken als bedoeld in [artikel 117, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XVII&artikel=117&z=2007-12-29&g=2007-12-29): de oppervlakte, waarbij het tarief wordt gesteld op een gelijk bedrag per hectare;
+
+- d. ter zake van gebouwde onroerende zaken als bedoeld in [artikel 117, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XVII&artikel=117&z=2007-12-29&g=2007-12-29): de waarde die voor de onroerende zaak wordt bepaald op de voet van [hoofdstuk IV van de Wet waardering onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV) voor het kalenderjaar, waarbij het tarief wordt gesteld op een gelijk bedrag voor elke volle € 2.500 van de waarde.
+
+2. In afwijking in zoverre van het eerste lid, onderdeel d, wordt bij de bepaling van de heffingsmaatstaf voor de heffingen ter zake van gebouwde onroerende zaken de waarde van onroerende zaken of onderdelen daarvan als bedoeld in [artikel 220d, eerste lid, onderdelen c, h en j, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=220d) en van waterbeheersingswerken die worden beheerd door organen, instellingen of diensten van publiekrechtelijke rechtspersonen, met uitzondering van de delen die dienen als woning, buiten aanmerking gelaten, voor zover dit niet reeds is geschied bij de bepaling van de in het eerste lid, onderdeel d, bedoelde waarde.
+
+3. Bij de toepassing van het tweede lid is het bepaalde bij of krachtens de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=17), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=18) en [20, tweede lid, van de Wet waardering onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=20) van overeenkomstige toepassing.
 
 ##### Artikel 122
 
-1. Het bedrag aan omslag wordt per aanslag niet afgerond.
+1. In afwijking van [artikel 121, eerste lid, onderdelen b, c, en d](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XVII&artikel=121&z=2007-12-29&g=2007-12-29) kan het algemeen bestuur in de in [artikel 120, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XVII&artikel=120&z=2007-12-29&g=2007-12-29), genoemde verordening de heffing maximaal 75% lager vaststellen voor buitendijks gelegen onroerende zaken en voor onroerende zaken die blijkens de legger, bedoeld in [artikel 78, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=III&hoofdstuk=X&artikel=78&z=2007-12-29&g=2007-12-29), als waterberging worden gebruikt.
 
-2. Aanslagen die een bij de belastingverordening te bepalen bedrag niet te boven gaan worden niet opgelegd.
+2. In afwijking van [artikel 121, eerste lid, onderdelen b, c, en d](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XVII&artikel=121&z=2007-12-29&g=2007-12-29) kan het algemeen bestuur in de in [artikel 120, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XVII&artikel=120&z=2007-12-29&g=2007-12-29), genoemde verordening de heffing maximaal 100% hoger vaststellen voor onroerende zaken gelegen in bemalen gebieden.
 
-3. Voor de toepassing van het eerste en het tweede lid wordt het totaal van de op één aanslagbiljet verenigde aanslagen aangemerkt als één aanslag.
+3. In afwijking van [artikel 121, eerste lid, onderdelen b, c, en d](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XVII&artikel=121&z=2007-12-29&g=2007-12-29) kan het algemeen bestuur in de in [artikel 120, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XVII&artikel=120&z=2007-12-29&g=2007-12-29), genoemde verordening de heffing maximaal 100% hoger vaststellen voor onroerende zaken die in hoofdzaak bestaan uit glasopstanden als bedoeld in [artikel 220d, eerste lid, onderdeel b, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=220d) en voor verharde openbare wegen.
+
+4. De afwijkingen als bedoeld in het eerste, tweede en derde lid kunnen naast elkaar worden toegepast.
 
 ### Hoofdstuk XVIII. De heffing en invordering van waterschapsbelastingen
 
@@ -1123,7 +1229,7 @@ De omslag bedoeld in [artikel 116, onderdeel **d**](https://wetten.overheid.nl/j
 
 1. Voor de toepassing van dit hoofdstuk wordt verstaan onder:
 
-- a. waterschapsbelastingen: de belastingen die het waterschap heft, bedoeld in [artikel 113](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XVI&artikel=113&z=2007-01-01&g=2007-01-01);
+- a. waterschapsbelastingen: de belastingen die het waterschap heft, bedoeld in [artikel 113](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XVI&artikel=113&z=2007-12-29&g=2007-12-29);
 
 - b. Algemene wet: [Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320);
 
@@ -1151,31 +1257,31 @@ De omslag bedoeld in [artikel 116, onderdeel **d**](https://wetten.overheid.nl/j
 
 ##### Artikel 124
 
-1. Het dagelijks bestuur kan bepalen dat voor de toezending of uitreiking van aanslagbiljetten ingevolge [artikel 8, eerste lid, van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=8), voor de in [artikel 123, derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XVIII&artikel=123&z=2007-01-01&g=2007-01-01), bedoelde ambtenaar van het waterschap, een andere ambtenaar van het waterschap in de plaats treedt.
+1. Het dagelijks bestuur kan bepalen dat voor de toezending of uitreiking van aanslagbiljetten ingevolge [artikel 8, eerste lid, van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=8), voor de in [artikel 123, derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XVIII&artikel=123&z=2007-12-29&g=2007-12-29), bedoelde ambtenaar van het waterschap, een andere ambtenaar van het waterschap in de plaats treedt.
 
 2. De dagelijkse besturen van twee of meer waterschappen kunnen met betrekking tot een of meer waterschapsbelastingen bepalen dat het dagelijks bestuur van één van die waterschappen voor de uitvoering van enige wettelijke bepaling betreffende de heffing of invordering van waterschapsbelastingen in de plaats treedt van het andere dagelijks bestuur onderscheidenlijk van die andere dagelijkse besturen.
 
 3. De dagelijkse besturen van twee of meer waterschappen kunnen met betrekking tot een of meer waterschapsbelastingen bepalen dat daartoe aangewezen ambtenaren van één van die waterschappen worden aangewezen als:
 
-- a. de in [artikel 123, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XVIII&artikel=123&z=2007-01-01&g=2007-01-01), bedoelde ambtenaar van die waterschappen voor de uitvoering van enige wettelijke bepaling betreffende de heffing van waterschapsbelastingen;
+- a. de in [artikel 123, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XVIII&artikel=123&z=2007-12-29&g=2007-12-29), bedoelde ambtenaar van die waterschappen voor de uitvoering van enige wettelijke bepaling betreffende de heffing van waterschapsbelastingen;
 
-- b. de in [artikel 123, derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XVIII&artikel=123&z=2007-01-01&g=2007-01-01), bedoelde ambtenaar van die waterschappen voor de uitvoering van enige wettelijke bepaling betreffende de invordering van waterschapsbelastingen;
+- b. de in [artikel 123, derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XVIII&artikel=123&z=2007-12-29&g=2007-12-29), bedoelde ambtenaar van die waterschappen voor de uitvoering van enige wettelijke bepaling betreffende de invordering van waterschapsbelastingen;
 
-- c. de in [artikel 123, derde lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XVIII&artikel=123&z=2007-01-01&g=2007-01-01), bedoelde ambtenaren van die waterschappen voor de uitvoering van enige wettelijke bepaling betreffende de heffing of de invordering van waterschapsbelastingen;
+- c. de in [artikel 123, derde lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XVIII&artikel=123&z=2007-12-29&g=2007-12-29), bedoelde ambtenaren van die waterschappen voor de uitvoering van enige wettelijke bepaling betreffende de heffing of de invordering van waterschapsbelastingen;
 
-- d. de in [artikel 123, derde lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XVIII&artikel=123&z=2007-01-01&g=2007-01-01), bedoelde ambtenaar van die waterschappen voor de uitvoering van enige wettelijke bepaling betreffende de invordering van waterschapsbelastingen.
+- d. de in [artikel 123, derde lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XVIII&artikel=123&z=2007-12-29&g=2007-12-29), bedoelde ambtenaar van die waterschappen voor de uitvoering van enige wettelijke bepaling betreffende de invordering van waterschapsbelastingen.
 
 4. Het eerste lid is van overeenkomstige toepassing ten aanzien van het dagelijks bestuur van het waterschap waarvan de ambtenaar belast met de invordering van waterschapsbelastingen op grond van het derde lid, onderdeel **b**, wordt aangewezen.
 
 5. Indien voor de heffing of de invordering van een of meer waterschapsbelastingen een gemeenschappelijke regeling is getroffen en bij die regeling een openbaar lichaam is ingesteld, kan bij of krachtens die regeling worden bepaald dat een daartoe aangewezen ambtenaar van dat openbaar lichaam wordt aangewezen als:
 
-- a. de in [artikel 123, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XVIII&artikel=123&z=2007-01-01&g=2007-01-01), bedoelde ambtenaar van het waterschap voor de uitvoering van enige wettelijke bepaling betreffende de heffing van waterschapsbelastingen;
+- a. de in [artikel 123, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XVIII&artikel=123&z=2007-12-29&g=2007-12-29), bedoelde ambtenaar van het waterschap voor de uitvoering van enige wettelijke bepaling betreffende de heffing van waterschapsbelastingen;
 
-- b. de in [artikel 123, derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XVIII&artikel=123&z=2007-01-01&g=2007-01-01), bedoelde ambtenaar van het waterschap voor de uitvoering van enige wettelijke bepaling betreffende de invordering van waterschapsbelastingen;
+- b. de in [artikel 123, derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XVIII&artikel=123&z=2007-12-29&g=2007-12-29), bedoelde ambtenaar van het waterschap voor de uitvoering van enige wettelijke bepaling betreffende de invordering van waterschapsbelastingen;
 
-- c. de in [artikel 123, derde lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XVIII&artikel=123&z=2007-01-01&g=2007-01-01), bedoelde ambtenaren van het waterschap voor de uitvoering van enige wettelijke bepaling betreffende de heffing of de invordering van waterschapsbelastingen;
+- c. de in [artikel 123, derde lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XVIII&artikel=123&z=2007-12-29&g=2007-12-29), bedoelde ambtenaren van het waterschap voor de uitvoering van enige wettelijke bepaling betreffende de heffing of de invordering van waterschapsbelastingen;
 
-- d. de in [artikel 123, derde lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XVIII&artikel=123&z=2007-01-01&g=2007-01-01), bedoelde ambtenaar van het waterschap voor de uitvoering van enige wettelijke bepaling betreffende de invordering van waterschapsbelastingen.
+- d. de in [artikel 123, derde lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XVIII&artikel=123&z=2007-12-29&g=2007-12-29), bedoelde ambtenaar van het waterschap voor de uitvoering van enige wettelijke bepaling betreffende de invordering van waterschapsbelastingen.
 
 6. Het eerste lid is van overeenkomstige toepassing ten aanzien van het dagelijks bestuur van het openbaar lichaam waarvan een ambtenaar op grond van het vijfde lid, onderdeel **b**, wordt aangewezen.
 
@@ -1215,13 +1321,13 @@ Bij de heffing van waterschapsbelastingen blijven van de [Algemene wet](https://
 
 2. Het doen van aangifte, bedoeld in [artikel 8 van de Algemene wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=8), geschiedt door het inleveren of toezenden van het uitgereikte aangiftebiljet met de daarbij gevraagde bescheiden.
 
-3. In afwijking in zoverre van de vorige leden kan de in [artikel 123, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XVIII&artikel=123&z=2007-01-01&g=2007-01-01), bedoelde ambtenaar van het waterschap vorderen dat een verplichting tot het doen van aangifte of tot het indienen van een verzoek om uitreiking van een aangiftebiljet wordt nagekomen door het mondeling doen van aangifte. Daarbij:
+3. In afwijking in zoverre van de vorige leden kan de in [artikel 123, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XVIII&artikel=123&z=2007-12-29&g=2007-12-29), bedoelde ambtenaar van het waterschap vorderen dat een verplichting tot het doen van aangifte of tot het indienen van een verzoek om uitreiking van een aangiftebiljet wordt nagekomen door het mondeling doen van aangifte. Daarbij:
 
-- a. worden de door de in [artikel 123, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XVIII&artikel=123&z=2007-01-01&g=2007-01-01), bedoelde ambtenaar van het waterschap gevraagde bescheiden overgelegd;
+- a. worden de door de in [artikel 123, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XVIII&artikel=123&z=2007-12-29&g=2007-12-29), bedoelde ambtenaar van het waterschap gevraagde bescheiden overgelegd;
 
-- b. kan de in [artikel 123, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XVIII&artikel=123&z=2007-01-01&g=2007-01-01), bedoelde ambtenaar van het waterschap vorderen dat een van de mondelinge aangifte opgemaakt relaas door de aangever wordt ondertekend, bij gebreke waarvan de aangifte geacht wordt niet te zijn gedaan.
+- b. kan de in [artikel 123, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XVIII&artikel=123&z=2007-12-29&g=2007-12-29), bedoelde ambtenaar van het waterschap vorderen dat een van de mondelinge aangifte opgemaakt relaas door de aangever wordt ondertekend, bij gebreke waarvan de aangifte geacht wordt niet te zijn gedaan.
 
-4. Indien het derde lid toepassing vindt, kan de in [artikel 123, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XVIII&artikel=123&z=2007-01-01&g=2007-01-01), bedoelde ambtenaar van het waterschap voor de termijnen, genoemd in [artikel 9, eerste en derde lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=9), [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=10), en [artikel 19, eerste, derde en vierde lid, van de Algemene wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=19) of voor de kortere termijn, bedoeld in [artikel 128, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XVIII&artikel=128&z=2007-01-01&g=2007-01-01), kortere termijnen in de plaats stellen en is [artikel 12 van de Algemene wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=12) niet van toepassing.
+4. Indien het derde lid toepassing vindt, kan de in [artikel 123, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XVIII&artikel=123&z=2007-12-29&g=2007-12-29), bedoelde ambtenaar van het waterschap voor de termijnen, genoemd in [artikel 9, eerste en derde lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=9), [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=10), en [artikel 19, eerste, derde en vierde lid, van de Algemene wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=19) of voor de kortere termijn, bedoeld in [artikel 128, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XVIII&artikel=128&z=2007-12-29&g=2007-12-29), kortere termijnen in de plaats stellen en is [artikel 12 van de Algemene wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=12) niet van toepassing.
 
 5. Bij de belastingverordening kan van het eerste en tweede lid worden afgeweken.
 
@@ -1233,17 +1339,17 @@ Bij de heffing van waterschapsbelastingen blijven van de [Algemene wet](https://
 
 ##### Artikel 128a
 
-1. De besluiten, bedoeld in [artikel 18, vierde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0002682&artikel=18), en [20, vierde lid, van de Wet verontreiniging oppervlaktewateren](https://wetten.overheid.nl/jci1.3:c:BWBR0002682&artikel=20), worden voor de in [artikel 18, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002682&artikel=18), bedoelde waterschapsbelasting, genomen door de in [artikel 123, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XVIII&artikel=123&z=2007-01-01&g=2007-01-01), bedoelde ambtenaar van het waterschap.
+1. Een besluit als bedoeld in [artikel 18, derde lid, onderdeel a, van de Wet verontreiniging oppervlaktewateren](https://wetten.overheid.nl/jci1.3:c:BWBR0002682&artikel=18), wordt voor de in [artikel 18, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002682&artikel=18), bedoelde waterschapsbelasting, genomen door de in [artikel 123, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XVIII&artikel=123&z=2007-12-29&g=2007-12-29), bedoelde ambtenaar van het waterschap.
 
-2. Een ambtenaar als bedoeld in [artikel 123, derde lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XVIII&artikel=123&z=2007-01-01&g=2007-01-01), is voor zover dit voor de heffing van de in [artikel 18, eerste lid, van de Wet verontreiniging oppervlaktewateren](https://wetten.overheid.nl/jci1.3:c:BWBR0002682&artikel=18), bedoelde waterschapsbelasting redelijkerwijs nodig is, bevoegd:
+2. Een ambtenaar als bedoeld in [artikel 123, derde lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XVIII&artikel=123&z=2007-12-29&g=2007-12-29), is voor zover dit voor de heffing van de in [artikel 18, eerste lid, van de Wet verontreiniging oppervlaktewateren](https://wetten.overheid.nl/jci1.3:c:BWBR0002682&artikel=18), bedoelde waterschapsbelasting redelijkerwijs nodig is, bevoegd:
 
-- a. elke plaats met medeneming van de benodigde apparatuur, zo nodig met behulp van de sterke arm, met uitzondering van een woonruimte zonder toestemming van de gebruiker of de gebruikers te betreden;
+- a. elke plaats met medeneming van de benodigde apparatuur, zo nodig met behulp van de sterke arm, met uitzondering van een woning zonder toestemming van de bewoner te betreden;
 
 - b. monsters te nemen van het afvalwater dat wordt afgevoerd in de zin van [artikel 17, onderdeel i, van de Wet verontreiniging oppervlaktewateren](https://wetten.overheid.nl/jci1.3:c:BWBR0002682&artikel=17).
 
 ##### Artikel 129
 
-1. De in [artikel 123, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XVIII&artikel=123&z=2007-01-01&g=2007-01-01), bedoelde ambtenaar van het waterschap is bevoegd voor eenzelfde belastingplichtige bestemde belastingaanslagen van dezelfde soort die betrekking kunnen hebben op verschillende belastingen, op één aanslagbiljet te verenigen.
+1. De in [artikel 123, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XVIII&artikel=123&z=2007-12-29&g=2007-12-29), bedoelde ambtenaar van het waterschap is bevoegd voor eenzelfde belastingplichtige bestemde belastingaanslagen van dezelfde soort die betrekking kunnen hebben op verschillende belastingen, op één aanslagbiljet te verenigen.
 
 2. Het eerste lid vindt overeenkomstige toepassing ingeval de belasting op andere wijze wordt geheven.
 
@@ -1253,15 +1359,15 @@ Vervallen
 
 ##### Artikel 131
 
-Indien bezwaar wordt gemaakt zowel tegen een belastingaanslag in de omslag ter zake van een gebouwde of ongebouwde onroerende zaak als tegen een op de voet van [hoofdstuk IV van de Wet waardering onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV) gegeven beschikking welke ten grondslag heeft gelegen aan die belastingaanslag, vangt, ingeval feiten en omstandigheden in het geding zijn die van belang zijn zowel voor de heffing van de omslag ter zake van een gebouwde of ongebouwde onroerende zaak als voor de vaststelling van de waarde op de voet van genoemd [hoofdstuk IV](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV), de termijn waarbinnen de in [artikel 123, derde lid, onderdeel b,](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XVIII&artikel=123&z=2007-01-01&g=2007-01-01) bedoelde ambtenaar van het waterschap uitspraak doet op het eerstbedoelde bezwaar aan, in afwijking in zoverre van [artikel 25, eerste lid, van de Algemene wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=25), op het tijdstip waarop de op de voet van genoemd [hoofdstuk IV](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV) gegeven beschikking onherroepelijk is komen vast te staan.
+Indien bezwaar wordt gemaakt zowel tegen een belastingaanslag in de heffing ter zake van een gebouwde of ongebouwde onroerende zaak als tegen een op de voet van [hoofdstuk IV van de Wet waardering onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV) gegeven beschikking welke ten grondslag heeft gelegen aan die belastingaanslag, vangt, ingeval feiten en omstandigheden in het geding zijn die van belang zijn zowel voor de heffing ter zake van een gebouwde of ongebouwde onroerende zaak als voor de vaststelling van de waarde op de voet van genoemd [hoofdstuk IV](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV), de termijn waarbinnen de in [artikel 123, derde lid, onderdeel b,](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XVIII&artikel=123&z=2007-12-29&g=2007-12-29) bedoelde ambtenaar van het waterschap uitspraak doet op het eerstbedoelde bezwaar aan, in afwijking in zoverre van [artikel 25, eerste lid, van de Algemene wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=25), op het tijdstip waarop de op de voet van genoemd [hoofdstuk IV](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV) gegeven beschikking onherroepelijk is komen vast te staan.
 
 ##### Artikel 132
 
-1. Degene die ingevolge de belastingverordening aanspraak kan maken op een gehele of gedeeltelijke vrijstelling, vermindering, ontheffing of teruggaaf kan binnen zes weken nadat de omstandigheid welke die aanspraak deed ontstaan, zich heeft voorgedaan, of, voor zover het een belasting betreft die bij wege van aanslag wordt geheven en op dat tijdstip nog geen aanslagbiljet is uitgereikt of ter post is bezorgd, binnen zes weken na de dagtekening van het aanslagbiljet, een aanvraag tot het verkrijgen van vrijstelling, vermindering, ontheffing of teruggaaf indienen bij de in [artikel 123, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XVIII&artikel=123&z=2007-01-01&g=2007-01-01), bedoelde ambtenaar van het waterschap.
+1. Degene die ingevolge de belastingverordening aanspraak kan maken op een gehele of gedeeltelijke vrijstelling, vermindering, ontheffing of teruggaaf kan binnen zes weken nadat de omstandigheid welke die aanspraak deed ontstaan, zich heeft voorgedaan, of, voor zover het een belasting betreft die bij wege van aanslag wordt geheven en op dat tijdstip nog geen aanslagbiljet is uitgereikt of ter post is bezorgd, binnen zes weken na de dagtekening van het aanslagbiljet, een aanvraag tot het verkrijgen van vrijstelling, vermindering, ontheffing of teruggaaf indienen bij de in [artikel 123, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XVIII&artikel=123&z=2007-12-29&g=2007-12-29), bedoelde ambtenaar van het waterschap.
 
 2. Het eerste lid vindt overeenkomstige toepassing ingeval de belasting op andere wijze wordt geheven.
 
-3. De in [artikel 123, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XVIII&artikel=123&z=2007-01-01&g=2007-01-01), bedoelde ambtenaar van het waterschap beslist op de aanvraag bij voor bezwaar vatbare beschikking.
+3. De in [artikel 123, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XVIII&artikel=123&z=2007-12-29&g=2007-12-29), bedoelde ambtenaar van het waterschap beslist op de aanvraag bij voor bezwaar vatbare beschikking.
 
 ##### Artikel 133
 
@@ -1269,7 +1375,7 @@ In de gevallen waarin het volkenrecht dan wel, naar het oordeel van Onze Ministe
 
 ##### Artikel 134
 
-Naast een in de belastingverordening voorziene vermindering, ontheffing of teruggaaf kan door de in [artikel 123, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XVIII&artikel=123&z=2007-01-01&g=2007-01-01), bedoelde ambtenaar van het waterschap ook een in die verordening voorziene vrijstelling ambtshalve worden verleend.
+Naast een in de belastingverordening voorziene vermindering, ontheffing of teruggaaf kan door de in [artikel 123, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XVIII&artikel=123&z=2007-12-29&g=2007-12-29), bedoelde ambtenaar van het waterschap ook een in die verordening voorziene vrijstelling ambtshalve worden verleend.
 
 ##### Artikel 135
 
@@ -1303,7 +1409,7 @@ Vervallen
 
 ##### Artikel 141
 
-De verrekening van aan de belastingschuldige uit te betalen en van hem te innen bedragen ter zake van waterschapsbelastingen op de voet van [artikel 24 van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=24) is ook mogelijk ingeval de in [artikel 9 van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=9) gestelde termijn, dan wel de krachtens [artikel 139, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XVIII&artikel=139&z=2007-01-01&g=2007-01-01), gestelde termijn nog niet is verstreken.
+De verrekening van aan de belastingschuldige uit te betalen en van hem te innen bedragen ter zake van waterschapsbelastingen op de voet van [artikel 24 van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=24) is ook mogelijk ingeval de in [artikel 9 van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=9) gestelde termijn, dan wel de krachtens [artikel 139, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XVIII&artikel=139&z=2007-12-29&g=2007-12-29), gestelde termijn nog niet is verstreken.
 
 ##### Artikel 142
 
@@ -1323,7 +1429,7 @@ Voor de toepassing van [artikel 66 van de Invorderingswet 1990](https://wetten.o
 
 ##### Artikel 144
 
-1. De in [artikel 26 van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=26) bedoelde kwijtschelding wordt met betrekking tot waterschapsbelastingen verleend door de in [artikel 123, derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XVIII&artikel=123&z=2007-01-01&g=2007-01-01), bedoelde ambtenaar van het waterschap.
+1. De in [artikel 26 van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=26) bedoelde kwijtschelding wordt met betrekking tot waterschapsbelastingen verleend door de in [artikel 123, derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XVIII&artikel=123&z=2007-12-29&g=2007-12-29), bedoelde ambtenaar van het waterschap.
 
 2. Met betrekking tot het verlenen van gehele of gedeeltelijke kwijtschelding zijn de krachtens [artikel 26 van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=26) door Onze Minister van Financiën bij ministeriële regeling gestelde regels van toepassing.
 
@@ -1339,7 +1445,7 @@ Indien inzake een waterschapsbelasting exploot moet worden gedaan, een akte van 
 
 ##### Artikel 146
 
-De eigenaar of degene, die krachtens een ander beperkt recht het genot heeft van in het gebied van een waterschap gelegen onroerende zaak en die binnen Nederland geen bekende woon- of verblijfplaats heeft, is verplicht aan het dagelijks bestuur van dat waterschap een adres binnen Nederland op te geven, waar de voor hem bestemde stukken betreffende waterschapsbelastingen of betreffende de in [artikel 67](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=III&hoofdstuk=IX&paragraaf=4&artikel=67&z=2007-01-01&g=2007-01-01) bedoelde kosten van bestuursdwang worden bezorgd of betekend. Indien hij hiermede in gebreke blijft, geschiedt de betekening van een dwangbevel aan de persoon of in het parket van de ambtenaar van het openbaar ministerie bij de rechtbank binnen welker rechtsgebied de onroerende zaak geheel of gedeeltelijk ligt. De deurwaarder of de belastingdeurwaarder zendt, zo mogelijk, een tweede afschrift onverwijld per aangetekende brief aan de woonplaats of het werkelijk verblijf van de betrokkene.
+De eigenaar of degene, die krachtens een ander beperkt recht het genot heeft van in het gebied van een waterschap gelegen onroerende zaak en die binnen Nederland geen bekende woon- of verblijfplaats heeft, is verplicht aan het dagelijks bestuur van dat waterschap een adres binnen Nederland op te geven, waar de voor hem bestemde stukken betreffende waterschapsbelastingen of betreffende de in [artikel 5:25 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:25) bedoelde kosten van bestuursdwang worden bezorgd of betekend. Indien hij hiermede in gebreke blijft, geschiedt de betekening van een dwangbevel aan de persoon of in het parket van de ambtenaar van het openbaar ministerie bij de rechtbank binnen welker rechtsgebied de onroerende zaak geheel of gedeeltelijk ligt. De deurwaarder of de belastingdeurwaarder zendt, zo mogelijk, een tweede afschrift onverwijld per aangetekende brief aan de woonplaats of het werkelijk verblijf van de betrokkene.
 
 ##### Artikel 147
 
@@ -1363,11 +1469,11 @@ Vervallen
 
 ##### Artikel 151
 
-1. In afwijking van [artikel 8:2, onderdeel **c**, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:2) kan beroep worden ingesteld tegen een besluit van gedeputeerde staten inzake goedkeuring.
+1. In afwijking van [artikel 8:2, onderdeel c, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:2) kan beroep worden ingesteld tegen een besluit van gedeputeerde staten inzake goedkeuring.
 
-2. [Artikel 73, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=III&hoofdstuk=IX&paragraaf=5&artikel=73&z=2007-01-01&g=2007-01-01), is van overeenkomstige toepassing, met dien verstande dat de terinzagelegging geschiedt gelijktijdig met de bekendmaking van het besluit, voor de tijd van zes weken.
+2. [Artikel 73, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=III&hoofdstuk=IX&paragraaf=5&artikel=73&z=2007-12-29&g=2007-12-29), is van overeenkomstige toepassing, met dien verstande dat de terinzagelegging geschiedt gelijktijdig met de bekendmaking van het besluit, voor de tijd van zes weken.
 
-3. Het eerste lid is niet van toepassing ten aanzien van het besluit van gedeputeerde staten, inhoudende de goedkeuring van een verordening als bedoeld in [artikel 119, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XVII&artikel=119&z=2007-01-01&g=2007-01-01), en [artikel 120, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XVII&artikel=120&z=2007-01-01&g=2007-01-01).
+3. Het eerste lid is niet van toepassing ten aanzien van het besluit van gedeputeerde staten, inhoudende de goedkeuring van een verordening als bedoeld in [artikel 120, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XVII&artikel=120&z=2007-12-29&g=2007-12-29).
 
 ##### Artikel 152
 
@@ -1379,13 +1485,13 @@ Vervallen
 
 1. Belanghebbenden kunnen administratief beroep instellen bij gedeputeerde staten enkel tegen:
 
-- a. de in [artikel 148](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=V&hoofdstuk=XIX&artikel=148&z=2007-01-01&g=2007-01-01) bedoelde, niet aan goedkeuring van gedeputeerde staten onderworpen, besluiten omtrent de regeling van de waterbeheersing of tot de aanleg of verbetering van waterstaatswerken;
+- a. de in [artikel 148](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=V&hoofdstuk=XIX&artikel=148&z=2007-12-29&g=2007-12-29) bedoelde, niet aan goedkeuring van gedeputeerde staten onderworpen, besluiten omtrent de regeling van de waterbeheersing of tot de aanleg of verbetering van waterstaatswerken;
 
-- b. de in [artikel 78, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=III&hoofdstuk=X&artikel=78&z=2007-01-01&g=2007-01-01), bedoelde besluiten betreffende de legger;
+- b. de in [artikel 78, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=III&hoofdstuk=X&artikel=78&z=2007-12-29&g=2007-12-29), bedoelde besluiten betreffende de legger;
 
-- c. de in [artikel 80, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=III&hoofdstuk=X&artikel=80&z=2007-01-01&g=2007-01-01), bedoelde besluiten betreffende de vaststelling of wijziging van een keur.
+- c. de in [artikel 80, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=III&hoofdstuk=X&artikel=80&z=2007-12-29&g=2007-12-29), bedoelde besluiten betreffende de vaststelling of wijziging van een keur.
 
-2. [Artikel 73, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=III&hoofdstuk=IX&paragraaf=5&artikel=73&z=2007-01-01&g=2007-01-01), is van overeenkomstige toepassing met dien verstande dat de terinzagelegging geschiedt gelijktijdig met de bekendmaking van het besluit, voor de tijd van zes weken.
+2. [Artikel 73, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=III&hoofdstuk=IX&paragraaf=5&artikel=73&z=2007-12-29&g=2007-12-29), is van overeenkomstige toepassing met dien verstande dat de terinzagelegging geschiedt gelijktijdig met de bekendmaking van het besluit, voor de tijd van zes weken.
 
 ##### Artikel 154
 
@@ -1393,7 +1499,7 @@ Vervallen
 
 ##### Artikel 155
 
-In afwijking van [artikel 8:2, onderdeel a, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:2) kan beroep worden ingesteld tegen een besluit van gedeputeerde staten ingevolge [artikel 153, eerste lid, onderdeel a of c](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=V&hoofdstuk=XX&artikel=153&z=2007-01-01&g=2007-01-01).
+In afwijking van [artikel 8:2, onderdeel a, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:2) kan beroep worden ingesteld tegen een besluit van gedeputeerde staten ingevolge [artikel 153, eerste lid, onderdeel a of c](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=V&hoofdstuk=XX&artikel=153&z=2007-12-29&g=2007-12-29).
 
 ### Hoofdstuk XXI. Schorsing en vernietiging
 
@@ -1423,11 +1529,11 @@ Vervallen
 
 ##### Artikel 161
 
-Indien een bekend gemaakt besluit is vernietigd of indien het niet is vernietigd binnen de tijd waarvoor het is geschorst, wordt hiervan door het waterschapsbestuur openbaar kennis gegeven. [Artikel 73, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=III&hoofdstuk=IX&paragraaf=5&artikel=73&z=2007-01-01&g=2007-01-01), is van overeenkomstige toepassing, met dien verstande dat de terinzagelegging geschiedt voor de tijd van vier weken.
+Indien een bekend gemaakt besluit is vernietigd of indien het niet is vernietigd binnen de tijd waarvoor het is geschorst, wordt hiervan door het waterschapsbestuur openbaar kennis gegeven. [Artikel 73, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=III&hoofdstuk=IX&paragraaf=5&artikel=73&z=2007-12-29&g=2007-12-29), is van overeenkomstige toepassing, met dien verstande dat de terinzagelegging geschiedt voor de tijd van vier weken.
 
 ##### Artikel 162
 
-1. In afwijking van [artikel 8:4, onderdeel a, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:4) kan een belanghebbende tegen een besluit van gedeputeerde staten als bedoeld in [artikel 156, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=V&hoofdstuk=XXI&artikel=156&z=2007-01-01&g=2007-01-01), beroep instellen bij de Afdeling bestuursrechtspraak van de Raad van State.
+1. In afwijking van [artikel 8:4, onderdeel a, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:4) kan een belanghebbende tegen een besluit van gedeputeerde staten als bedoeld in [artikel 156, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=V&hoofdstuk=XXI&artikel=156&z=2007-12-29&g=2007-12-29), beroep instellen bij de Afdeling bestuursrechtspraak van de Raad van State.
 
 2. In afwijking van [artikel 6:2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:2) kan geen beroep worden ingesteld tegen de weigering om de vernietiging te bevorderen en tegen het niet tijdig nemen van een besluit tot vernietiging.
 
@@ -1447,37 +1553,23 @@ Het waterschapsbestuur neemt opnieuw een besluit omtrent het onderwerp van het v
 
 ##### Artikel 165
 
-De Keurenwet (**Stb.** 1895, 139) wordt ingetrokken.
+Vervallen
 
 ##### Artikel 166
 
-1. De Bevoegdhedenwet waterschappen (**Stb.** 1978, 285) wordt ingetrokken.
-
-2. Hoofdstuk IV van de Bevoegdhedenwet waterschappen blijft van toepassing ten aanzien van de belastingjaren waarvoor bij of krachtens reglement of andere provinciale verordening dan wel bij belastingverordening van het waterschap regels omtrent waterschapsbelastingen gelden waarin naar bepalingen van dat Hoofdstuk wordt verwezen, met dien verstande dat:
-
-- a. in artikel 13 van dat Hoofdstuk voor "48, 49, 49**a**, 53**a**, 56" wordt gelezen: "48, 52, 53, 54, 55";
-
-- b. in artikel 25, eerste lid, van dat Hoofdstuk voor "60" wordt gelezen: "62", en
-
-- c. met betrekking tot waterschapsbelastingen die worden geheven met toepassing van dat Hoofdstuk, alsmede de onderdelen **a** en **b**, bij algemene maatregel van bestuur regels kunnen worden gesteld met overeenkomstige toepassing van artikel 126**a**.
+Vervallen
 
 ##### Artikel 167
 
-1. Bevat wijzigingen in andere regelgeving.
-
-2. In afwijking van het eerste lid onder letter **c** zijn de [artikelen 19 tot en met 21 van de Waterstaatswet 1900](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&artikel=19) van toepassing op besluiten van gedeputeerde staten als bedoeld in die artikelen, die zijn genomen vóór de datum van inwerkingtreding van deze wet.
-
-3. In afwijking van het eerste lid onder letter **d** zijn de [artikelen 22-32 van de Waterstaatswet 1900](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&artikel=22) van toepassing op verzoeken om vernietiging die voor de datum van inwerkingtreding van deze wet zijn gedaan.
+Vervallen
 
 ##### Artikel 168
 
-Ten aanzien van de leden van het algemeen bestuur en het dagelijks bestuur die hun functie bekleden op de datum van inwerkingtreding van deze wet, zijn tot hun periodieke aftreden de artikelen 31, derde lid en 47 niet van toepassing.
+Vervallen
 
 ##### Artikel 169
 
-1. Op de dag vóór de datum van inwerkingtreding van deze wet geldende besluiten ten aanzien van onderwerpen waarin deze wet voorziet, blijven van kracht, ook voorzover zij niet in overeenstemming zijn met bepalingen bij of krachtens deze wet. Zij kunnen overeenkomstig deze wet worden gewijzigd of ingetrokken.
-
-2. De bepalingen in reglementen of andere provinciale verordeningen, die onderwerpen regelen die ingevolge de [artikelen 111](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XVI&artikel=111&z=2007-01-01&g=2007-01-01) en [119, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XVII&artikel=119&z=2007-01-01&g=2007-01-01), worden geregeld bij verordening van het waterschap, blijven van kracht tot de datum van inwerkingtreding van laatstbedoelde verordening.
+Vervallen
 
 ##### Artikel 170
 
@@ -1485,11 +1577,11 @@ Vervallen
 
 ##### Artikel 170a
 
-De [artikelen 149](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=V&hoofdstuk=XIX&artikel=149&z=2007-01-01&g=2007-01-01) en [150](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=V&hoofdstuk=XIX&artikel=150&z=2007-01-01&g=2007-01-01) zijn niet van toepassing op aan voorafgaand toezicht onderworpen besluiten die zijn genomen vóór de datum van inwerkingtreding van deze wet.
+Vervallen
 
 ##### Artikel 171
 
-De reglementen voor de waterschappen en andere provinciale verordeningen die betrekking hebben op de waterschappen worden binnen drie jaar na de inwerkingtreding van deze wet met het bij of krachtens deze wet bepaalde in overeenstemming gebracht. Bepalingen in die reglementen en verordeningen die niet in overeenstemming zijn met bepalingen bij of krachtens deze wet, vervallen na verloop van drie jaar na de inwerkingtreding van deze wet, tenzij zij tevoren met het bij of krachtens deze wet bepaalde in overeenstemming zijn gebracht.
+Vervallen
 
 ##### Artikel 172
 
@@ -1497,33 +1589,31 @@ Op termijnen gesteld in een verordening van het waterschap zijn de [artikelen 1 
 
 ##### Artikel 173
 
-Bevat wijzigingen in andere regelgeving.
+Vervallen
 
 ##### Artikel 174
 
-Bevat wijzigingen in andere regelgeving.
+Vervallen
 
 ##### Artikel 175
 
-Bevat wijzigingen in andere regelgeving.
+Vervallen
 
 ##### Artikel 176
 
-Bevat wijzigingen in andere regelgeving.
+Vervallen
 
 ##### Artikel 177
 
-Het keizerlijk decreet van 21 oktober 1811, relatif à la classification des routes et des péages qui s'y perçoivent, et à d’autres objets de cette nature, wordt ingetrokken.
+Vervallen
 
 ##### Artikel 178
 
-Bevat wijzigingen in andere regelgeving.
+Vervallen
 
 ##### Artikel 179
 
-1. Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de onderscheidene artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
-
-2. Voor de bekendmaking van deze wet stelt Onze Minister van Verkeer en Waterstaat de nummering van de artikelen, paragrafen, hoofdstukken en titels van deze wet zo nodig opnieuw vast en brengt de in deze wet voorkomende aanhalingen van de artikelen, paragrafen, hoofdstukken en titels met de nieuwe nummering in overeenstemming.
+Vervallen
 
 ##### Artikel 180
 
@@ -1533,7 +1623,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ### Hoofdstuk VII. Afdelingen
 
-### Hoofdstuk VIII. De secretaris
+### Hoofdstuk VIA. De ombudsman
 
 ## Titel III. De bevoegdheid van het waterschapsbestuur
 
@@ -1547,7 +1637,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 #### § 4. Bestuursdwang
 
-#### § 3. Bijzondere voorzieningen
+#### § 2. Verhouding tot provincie en Rijk
 
 ### Hoofdstuk X. De bevoegdheid van het algemeen bestuur
 
@@ -1561,7 +1651,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ## Titel IV. De financiën van het waterschap
 
-### Hoofdstuk XIII. Inleidende bepaling
+### Hoofdstuk XI. De bevoegdheid van het dagelijks bestuur
 
 ### Hoofdstuk XIV. De begroting en de rekening
 
@@ -1615,7 +1705,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 - b. wanneer hij door ziekte of gebreken blijvend ongeschikt is zijn functie te vervullen;
 
-- c. bij de aanvaarding van een betrekking als bedoeld in [artikel 51d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=II&hoofdstuk=VIA&paragraaf=2&artikel=51d&z=2007-01-01&g=2007-01-01);
+- c. bij de aanvaarding van een betrekking als bedoeld in [artikel 51d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=II&hoofdstuk=VIA&paragraaf=2&artikel=51d&z=2007-12-29&g=2007-12-29);
 
 - d. wanneer hij bij onherroepelijk geworden rechterlijke uitspraak wegens misdrijf is veroordeeld, dan wel hem bij zulk een uitspraak een maatregel is opgelegd die vrijheidsbeneming tot gevolg heeft;
 
@@ -1635,21 +1725,33 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 1. De ombudsman vervult geen betrekkingen waarvan de uitoefening ongewenst is met het oog op een goede vervulling van zijn ambt of op de handhaving van zijn onpartijdigheid en onafhankelijkheid of van het vertrouwen daarin.
 
-2. [Artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=II&hoofdstuk=IV&paragraaf=3&artikel=32&z=2007-01-01&g=2007-01-01) is van overeenkomstige toepassing op de ombudsman.
+2. [Artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=II&hoofdstuk=IV&paragraaf=5&artikel=32&z=2007-12-29&g=2007-12-29) is van overeenkomstige toepassing op de ombudsman.
 
 ##### Artikel 51e
 
-Alvorens zijn functie te kunnen uitoefenen, legt de ombudsman in de vergadering van het algemeen bestuur, in handen van de voorzitter, de volgende eed (verklaring en belofte) af:
+1. Alvorens zijn functie te kunnen uitoefenen, legt de ombudsman in de vergadering van het algemeen bestuur, in handen van de voorzitter, de volgende eed (verklaring en belofte) af:
 
 «Ik zweer (verklaar) dat ik, om tot ombudsman benoemd te worden, rechtstreeks noch middellijk, onder welke naam of welk voorwendsel ook, enige gift of gunst heb gegeven of beloofd.
 
 Ik zweer (verklaar en beloof) dat ik, om iets in dit ambt te doen of te laten, rechtstreeks noch middellijk enig geschenk of enige belofte heb aangenomen of zal aannemen.
 
-Ik zweer (verklaar en beloof) dat ik getrouw zal zijn aan de Grondwet, dat ik de wetten zal nakomen en dat ik mijn plichten als ombudsman naar eer en geweten zal vervullen.
+Ik zweer (verklaar en beloof) dat ik getrouw zal zijn aan de [Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840), dat ik de wetten zal nakomen en dat ik mijn plichten als ombudsman naar eer en geweten zal vervullen.
 
 Zo waarlijk helpe mij God almachtig!»
 
 («Dat verklaar en beloof ik!»)
+
+2. Wanneer de eed (verklaring en belofte), bedoeld in het eerste lid, in de Friese taal wordt afgelegd, luidt de tekst van de eed (verklaring en belofte) als volgt:
+
+«Ik swar (ferklearje) dat ik, om ta ombudsman beneamd te wurden, streekrjocht noch midlik, ûnder wat namme of wat ferlechje ek, hokker jefte of geunst dan ek jûn of ûnthjitten haw.
+
+Ik swar (ferklearje en ûnthjit) dat ik, om eat yn dit amt te dwaan of te litten, streekrjocht noch midlik hokker geskink of hokker ûnthjit dan ek oannommen haw of oannimme sil.
+
+Ik swar (ûnthjit) dat ik trou wêze sil oan 'e Grûnwet, dat ik de wetten neikomme sil en dat ik myn plichten as ombudsman yn alle oprjochtens ferfolje sil.
+
+Sa wier helpe my God Almachtich!»
+
+(«Dat ferklearje en ûnthjit ik!»).
 
 ##### Artikel 51f
 
@@ -1681,9 +1783,9 @@ De ombudsman ontvangt een bij verordening van het algemeen bestuur vastgestelde 
 
 1. De ombudscommissie zendt jaarlijks een verslag van zijn werkzaamheden aan het algemeen bestuur.
 
-2. Op de ombudscommissie en op ieder lid afzonderlijk zijn de [artikelen 51c, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=II&hoofdstuk=VIA&paragraaf=2&artikel=51c&z=2007-01-01&g=2007-01-01), [51d](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=II&hoofdstuk=VIA&paragraaf=2&artikel=51d&z=2007-01-01&g=2007-01-01), [51e](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=II&hoofdstuk=VIA&paragraaf=2&artikel=51e&z=2007-01-01&g=2007-01-01), [51f](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=II&hoofdstuk=VIA&paragraaf=2&artikel=51f&z=2007-01-01&g=2007-01-01) en [51h](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=II&hoofdstuk=VIA&paragraaf=2&artikel=51h&z=2007-01-01&g=2007-01-01) van overeenkomstige toepassing.
+2. Op de ombudscommissie en op ieder lid afzonderlijk zijn de [artikelen 51c, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=II&hoofdstuk=VIA&paragraaf=2&artikel=51c&z=2007-12-29&g=2007-12-29), [51d](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=II&hoofdstuk=VIA&paragraaf=2&artikel=51d&z=2007-12-29&g=2007-12-29), [51e](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=II&hoofdstuk=VIA&paragraaf=2&artikel=51e&z=2007-12-29&g=2007-12-29), [51f](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=II&hoofdstuk=VIA&paragraaf=2&artikel=51f&z=2007-12-29&g=2007-12-29) en [51h](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=II&hoofdstuk=VIA&paragraaf=2&artikel=51h&z=2007-12-29&g=2007-12-29) van overeenkomstige toepassing.
 
-#### § 4. De gezamenlijke ombudsman en de gezamenlijke ombudscommissie
+#### § 3. De ombudscommissie voor het waterschap
 
 ##### Artikel 51k
 
@@ -1691,7 +1793,7 @@ De ombudsman ontvangt een bij verordening van het algemeen bestuur vastgestelde 
 
 2. De ombudsman of de ombudscommissie zendt jaarlijks een verslag van zijn werkzaamheden aan de vertegenwoordigende organen van de deelnemende rechtspersonen.
 
-3. Op de ombudsman en op ieder afzonderlijk lid van de ombudscommissie zijn de [artikelen 51c tot en met 51f](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=II&hoofdstuk=VIA&paragraaf=2&artikel=51c&z=2007-01-01&g=2007-01-01), [51h](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=II&hoofdstuk=VIA&paragraaf=2&artikel=51h&z=2007-01-01&g=2007-01-01) en [51i](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=II&hoofdstuk=VIA&paragraaf=3&artikel=51i&z=2007-01-01&g=2007-01-01) van overeenkomstige toepassing.
+3. Op de ombudsman en op ieder afzonderlijk lid van de ombudscommissie zijn de [artikelen 51c tot en met 51f](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=II&hoofdstuk=VIA&paragraaf=2&artikel=51c&z=2007-12-29&g=2007-12-29), [51h](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=II&hoofdstuk=VIA&paragraaf=2&artikel=51h&z=2007-12-29&g=2007-12-29) en [51i](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=II&hoofdstuk=VIA&paragraaf=3&artikel=51i&z=2007-12-29&g=2007-12-29) van overeenkomstige toepassing.
 
 ##### Artikel 51l
 
@@ -1734,6 +1836,339 @@ Indien het algemeen bestuur een ombudsman of een ombudscommissie instelt met toe
 ### Hoofdstuk XV. De administratie en de controle
 
 ### Hoofdstuk XVII. Bijzondere bepalingen omtrent de omslagen
+
+### Hoofdstuk XVIII. De heffing en invordering van waterschapsbelastingen
+
+## Titel V. Aanvullende bepalingen inzake het toezicht op het waterschapsbestuur
+
+### Hoofdstuk XIX. Goedkeuring
+
+### Hoofdstuk XX. Het beroep tegen besluiten
+
+### Hoofdstuk XXI. Schorsing en vernietiging
+
+### Hoofdstuk XXII. Het toezicht op interprovinciale waterschappen
+
+## Titel VI. Overgangs- en slotbepalingen
+
+Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+#### § 2. De verkiezing
+
+#### § 3. De zittingsduur, het begin van het lidmaatschap en de plaatsvervanging
+
+#### § 4. Bijzondere bepalingen in verband met de instelling van een waterschap tijdens de gewone zittingsperiode
+
+#### § 5. De inrichting
+
+##### Artikel 38a
+
+1. Een lid van het algemeen bestuur neemt niet deel aan de stemming over:
+
+- a. een aangelegenheid die hem rechtstreeks of middellijk persoonlijk aangaat of waarbij hij als vertegenwoordiger is betrokken;
+
+- b. de vaststelling of goedkeuring der rekening van een lichaam waaraan hij rekenplichtig is of tot welks bestuur hij behoort.
+
+2. Bij een schriftelijke stemming wordt onder het deelnemen aan de stemming verstaan het inleveren van een stembriefje.
+
+3. Een benoeming gaat iemand persoonlijk aan, wanneer hij behoort tot de personen tot wie de keuze door een voordracht of bij een herstemming is beperkt.
+
+4. Het eerste lid is niet van toepassing bij het besluit betreffende de toelating van de na periodieke verkiezing gekozen en benoemde leden.
+
+##### Artikel 38b
+
+1. Een stemming is alleen geldig, indien meer dan de helft van het aantal leden dat zitting heeft en zich niet van deelneming aan de stemming moet onthouden, daaraan heeft deelgenomen.
+
+2. Het eerste lid is niet van toepassing:
+
+- a. ingeval opnieuw wordt gestemd over een voorstel of over een benoeming, voordracht of aanbeveling van een of meer personen ten aanzien van wie in een vorige vergadering een stemming op grond van dat lid niet geldig was;
+
+- b. voorzover het betreft onderwerpen die in een daaraan voorafgaande niet geopende vergadering aan de orde waren gesteld.
+
+##### Artikel 38c
+
+1. Voor het tot stand komen van een beslissing bij stemming wordt de volstrekte meerderheid vereist van hen die een stem hebben uitgebracht.
+
+2. Bij een schriftelijke stemming wordt onder het uitbrengen van een stem verstaan het inleveren van een behoorlijk ingevuld stembriefje.
+
+### Hoofdstuk V. Het dagelijks bestuur
+
+#### § 1. De samenstelling
+
+#### § 2. De inrichting
+
+##### Artikel 44a
+
+1. Een lid van het dagelijks bestuur vervult geen nevenfuncties waarvan de uitoefening ongewenst is met het oog op een goede vervulling van zijn functie als lid van het dagelijks bestuur van een waterschap.
+
+2. Een lid van het dagelijks bestuur meldt zijn voornemen tot aanvaarding van een nevenfunctie aan het algemeen bestuur.
+
+3. [Artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=II&hoofdstuk=IV&paragraaf=5&artikel=32&z=2007-12-29&g=2007-12-29) is van overeenkomstige toepassing op de leden van het dagelijks bestuur
+
+### Hoofdstuk VI. De voorzitter
+
+#### § 1. Algemene bepaling
+
+#### § 2. De ombudsman voor het waterschap
+
+### Hoofdstuk VII. Afdelingen
+
+### Hoofdstuk VIII. De secretaris
+
+##### Artikel 55a
+
+1. Het dagelijks bestuur regelt de vervanging van de secretaris.
+
+2. De [artikelen 54](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=II&hoofdstuk=VIII&artikel=54&z=2007-12-29&g=2007-12-29) en [55](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=II&hoofdstuk=VIII&artikel=55&z=2007-12-29&g=2007-12-29) zijn van overeenkomstige toepassing op degene die de secretaris vervangt.
+
+## Titel III. De bevoegdheid van het waterschapsbestuur
+
+### Hoofdstuk IX. Algemene bepalingen
+
+#### § 1. Inleidende bepaling
+
+#### § 3. Bijzondere voorzieningen
+
+#### § 4. Bestuursdwang
+
+#### § 5. Bekendmaking en inwerkingtreding van besluiten die algemeen verbindende voorschriften inhouden
+
+### Hoofdstuk X. De bevoegdheid van het algemeen bestuur
+
+#### § 1. Algemene bevoegdheden
+
+#### § 2. Bijzondere bevoegdheden
+
+## Titel IV. De financiën van het waterschap
+
+### Hoofdstuk XIII. Algemene bepalingen
+
+##### Artikel 98a
+
+1. De begroting, de begrotingswijzigingen, de meerjarenraming, de jaarrekening en het jaarverslag worden ingericht overeenkomstig bij of krachtens algemene maatregel van bestuur te geven regels.
+
+2. Bij of krachtens de algemene maatregel van bestuur, bedoeld in het eerste lid, kunnen tevens regels worden gesteld ten aanzien van:
+
+- a. door het dagelijks bestuur vast te stellen documenten ten behoeve van de uitvoering van de begroting en de jaarrekening;
+
+- b. door het dagelijks bestuur aan derden te verstrekken informatie op basis van de begroting en de jaarrekening en de controle van deze informatie. In overeenstemming met Onze Minister van Economische Zaken kan worden bepaald dat deze informatie wordt verstrekt aan het Centraal Bureau voor de Statistiek.
+
+3. Indien de informatie, bedoeld in het tweede lid onder b, niet of niet tijdig wordt verstrekt, dan wel de kwaliteit van de informatie tekort schiet, geven gedeputeerde staten een aanwijzing aan het dagelijks bestuur om alsnog informatie van voldoende kwaliteit te verstrekken.
+
+4. Indien het dagelijks bestuur nalaat de aanwijzing, bedoeld in het derde lid, op te volgen zorgen gedeputeerde staten dat de benodigde informatie alsnog wordt verstrekt. De kosten daarvan komen voor rekening van het waterschap.
+
+### Hoofdstuk XIV. De begroting en de jaarrekening
+
+#### § 1. De begroting
+
+#### § 2. De jaarrekening
+
+##### Artikel 107a
+
+Indien het algemeen bestuur de jaarrekening dan wel een indemniteitsbesluit niet of niet naar behoren vaststelt, zendt het dagelijks bestuur de jaarrekening, vergezeld van de overige in [artikel 103](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XIV&paragraaf=2&artikel=103&z=2007-12-29&g=2007-12-29) bedoelde stukken, respectievelijk het indemniteitsbesluit ter vaststelling aan gedeputeerde staten.
+
+### Hoofdstuk XV. De administratie en de controle
+
+##### Artikel 109a
+
+1. Het dagelijks bestuur verricht periodiek onderzoek naar de doelmatigheid en de doeltreffendheid van het door hem gevoerde bestuur. Het algemeen bestuur kan bij verordening hierover regels stellen.
+
+2. Het dagelijks bestuur brengt schriftelijk verslag uit aan het algemeen bestuur van de resultaten van de onderzoeken.
+
+##### Artikel 109b
+
+Het dagelijks bestuur zendt de verordeningen, bedoeld in de [artikelen 108](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XV&artikel=108&z=2007-12-29&g=2007-12-29), [109](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XV&artikel=109&z=2007-12-29&g=2007-12-29) en [109a](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XV&artikel=109a&z=2007-12-29&g=2007-12-29), binnen twee weken na vaststelling door het algemeen bestuur aan gedeputeerde staten.
+
+##### Artikel 109c
+
+Gedeputeerde staten kunnen te allen tijde een onderzoek instellen naar het beheer en de inrichting van de financiële organisatie, bedoeld in [artikel 108, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XV&artikel=108&z=2007-12-29&g=2007-12-29).
+
+### Hoofdstuk XVI. De waterschapsbelastingen
+
+##### Artikel 115a
+
+1. Een aanslag die een bij de belastingverordening te bepalen bedrag niet te boven gaat, wordt niet opgelegd.
+
+2. Voor de toepassing van het eerste lid wordt het totaal van de op één aanslagbiljet verenigde aanslagen aangemerkt als één aanslag.
+
+### Hoofdstuk XVII. De watersysteemheffing
+
+### Hoofdstuk XVIIa. De heffing ter bekostiging van het wegenbeheer
+
+##### Artikel 122a
+
+1. Ter bestrijding van kosten die zijn verbonden aan de behartiging van de taak ter zake van het wegenbeheer kan, binnen het gebied waar deze taak wordt uitgevoerd, onder de naam wegenheffing een heffing worden geheven.
+
+2. De wegenheffing kan worden geheven van hen die:
+
+- a. ingezetenen zijn;
+
+- b. krachtens eigendom, bezit of beperkt recht het genot hebben van ongebouwde onroerende zaken, niet zijnde natuurterreinen;
+
+- c. krachtens eigendom, bezit of beperkt recht het genot hebben van natuurterreinen;
+
+- d. krachtens eigendom, bezit of beperkt recht het genot hebben van gebouwde onroerende zaken.
+
+##### Artikel 122b
+
+1. Het algemeen bestuur stelt ten behoeve van de in [artikel 122a](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XVIIa&artikel=122a&z=2007-12-29&g=2007-12-29) bedoelde heffing een verordening vast, waarin voor elk van de categorieën van heffingplichtigen de toedeling van het kostendeel is opgenomen.
+
+2. Bij reglement wordt bepaald aan welke regels de toedeling van het kostendeel, bedoeld in het eerste lid, voldoet. Daarbij kunnen de [artikelen 118](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XVII&artikel=118&z=2007-12-29&g=2007-12-29), [119](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XVII&artikel=119&z=2007-12-29&g=2007-12-29) en [121](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XVII&artikel=121&z=2007-12-29&g=2007-12-29) van overeenkomstige toepassing worden verklaard.
+
+3. De heffing, bedoeld in [artikel 122a](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XVIIa&artikel=122a&z=2007-12-29&g=2007-12-29), kan onderdeel uitmaken van de in [artikel 117](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XVII&artikel=117&z=2007-12-29&g=2007-12-29) bedoelde heffing.
+
+### Hoofdstuk XVIIb. De zuiveringsheffing
+
+##### Artikel 122c
+
+Voor de toepassing van dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
+
+- a. zuiveringtechnisch werk: een werk voor het zuiveren van afvalwater of het transport van afvalwater, niet zijnde een riolering;
+
+- b. riolering: een voorziening voor de inzameling en het transport van afvalwater, in beheer bij een gemeente;
+
+- c. afvoeren: het brengen van stoffen op een riolering of op een zuiveringtechnisch werk;
+
+- d. stoffen: afvalstoffen, verontreinigende of schadelijke stoffen;
+
+- e. afvalwater: afvalwater als bedoeld in [artikel 15a, tweede lid, van de Wet verontreiniging oppervlaktewateren](https://wetten.overheid.nl/jci1.3:c:BWBR0002682&artikel=15a);
+
+- f. drinkwater: water als bedoeld in [artikel 1, eerste lid, onderdeel b, van de Waterleidingwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002246&artikel=1);
+
+- g. waterleidingbedrijf: een bedrijf als bedoeld in [artikel 1, eerste lid, onderdeel c, van de Waterleidingwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002246&artikel=1);
+
+- h. woonruimte: een ruimte als bedoeld in [artikel 116, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XVII&artikel=116&z=2007-12-29&g=2007-12-29);
+
+- i. bedrijfsruimte: een naar zijn aard en inrichting als afzonderlijk geheel te beschouwen ruimte of terrein, niet zijnde een woonruimte, een zuiveringtechnisch werk of een riolering.
+
+##### Artikel 122d
+
+1. Ter bestrijding van kosten die zijn verbonden aan de behartiging van de taak inzake het zuiveren van afvalwater, wordt onder de naam zuiveringsheffing een heffing ingesteld ter zake van afvoeren.
+
+2. Aan de heffing worden onderworpen:
+
+- a. ter zake van afvoeren vanuit een bedrijfsruimte of woonruimte: degene die het gebruik heeft van die ruimte;
+
+- b. ter zake van het afvoeren anders dan bedoeld onder a: degene die afvoert.
+
+3. Voor de toepassing van het tweede lid, onderdeel a, is heffingplichtig:
+
+- a. in geval van gebruik van een woonruimte door de leden van een huishouden: degene die door de in [artikel 123, derde lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XVIII&artikel=123&z=2007-12-29&g=2007-12-29), bedoelde ambtenaar van het waterschap is aangewezen;
+
+- b. in geval van gebruik door degene aan wie een deel van een bedrijfsruimte in gebruik is gegeven: degene die dat deel in gebruik heeft gegeven, met dien verstande dat degene die het deel in gebruik heeft gegeven, bevoegd is de heffing als zodanig te verhalen op degene aan wie dat deel in gebruik is gegeven;
+
+- c. in geval van het ter beschikking stellen van een woonruimte of bedrijfsruimte voor volgtijdig gebruik: degene die die ruimte ter beschikking heeft gesteld, met dien verstande dat degene die de ruimte ter beschikking heeft gesteld, bevoegd is de heffing als zodanig te verhalen op degene aan wie de ruimte ter beschikking is gesteld.
+
+4. Indien stoffen met behulp van een riolering worden afgevoerd, is degene bij wie die riolering in beheer is, slechts voor die stoffen die de beheerder zelf op de riolering heeft gebracht aan een heffing onderworpen.
+
+5. De opbrengst van de heffing kan tevens worden besteed:
+
+- a. aan het verstrekken van subsidies ter tegemoetkoming in de kosten van het voorbereiden en uitvoeren van maatregelen die verband houden met het zuiveren van afvalwater aan diegenen die tot het treffen van die maatregelen zijn gehouden;
+
+- b. aan het verstrekken van subsidies aan heffingplichtigen tot behoud van het gebruik van zuiveringtechnische werken teneinde een stijging van het tarief van de heffing zoveel mogelijk te voorkomen.
+
+##### Artikel 122e
+
+Voor de heffing geldt als grondslag de hoeveelheid en de hoedanigheid van de stoffen die in een kalenderjaar worden afgevoerd.
+
+##### Artikel 122f
+
+1. Voor de heffing geldt als heffingsmaatstaf de vervuilingswaarde van de stoffen die in een kalenderjaar worden afgevoerd, waarbij de vervuilingswaarde wordt uitgedrukt in vervuilingseenheden.
+
+2. Eén vervuilingseenheid vertegenwoordigt met betrekking tot:
+
+- a. het zuurstofverbruik het jaarlijks verbruik van 54,8 kilogram zuurstof;
+
+- b. de gewichtshoeveelheden van de groep van stoffen chroom, koper, lood, nikkel, zilver en zink 1,00 kilogram;
+
+- c. de gewichtshoeveelheden van de groep van stoffen arseen, kwik en cadmium 0,100 kilogram;
+
+- d. de gewichtshoeveelheden van de stof chloride 650 kilogram;
+
+- e. de gewichtshoeveelheden van de stof sulfaat 650 kilogram;
+
+- f. de gewichtshoeveelheden van de stof fosfor 20,0 kilogram.
+
+3. Het algemeen bestuur kan bij verordening bepalen dat:
+
+- a. de gewichtshoeveelheden met betrekking tot één of meer van de in het tweede lid, onderdelen b tot en met f bedoelde stoffen niet worden onderworpen aan de heffing;
+
+- b. het aantal vervuilingseenheden met betrekking tot de gewichtshoeveelheden van één of meer van de in het tweede lid, onderdelen b tot en met f bedoelde stoffen:
+
+- 1°. tot minimaal nihil wordt verminderd op een door hem vast te stellen wijze;
+
+- 2°. op nihil wordt gesteld indien dit aantal, na toepassing van het bepaalde krachtens de onderdelen a en b, niet uitgaat boven een door hem vast te stellen aantal vervuilingseenheden.
+
+##### Artikel 122g
+
+Het aantal vervuilingseenheden wordt berekend met behulp van door meting, bemonstering en analyse verkregen gegevens, overeenkomstig bij algemene maatregel van bestuur te stellen regels.
+
+##### Artikel 122h
+
+1. In afwijking van [artikel 122g](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XVIIb&artikel=122g&z=2007-12-29&g=2007-12-29) wordt de vervuilingswaarde van de stoffen die vanuit een woonruimte worden afgevoerd gesteld op drie vervuilingseenheden. De vervuilingswaarde van de stoffen die vanuit een door één persoon gebruikte woonruimte worden afgevoerd bedraagt één vervuilingseenheid.
+
+2. In afwijking van het eerste lid kan bij verordening van het algemeen bestuur worden bepaald dat de vervuilingswaarde van de stoffen geheel of gedeeltelijk wordt bepaald aan de hand van de door het waterleidingbedrijf geleverde hoeveelheid drinkwater.
+
+3. De heffing met betrekking tot de in het tweede lid bedoelde woonruimten wordt geheven over het tijdvak van 12 maanden zoals dat door het betrokken waterleidingbedrijf bij de levering van drinkwater ten behoeve van die woonruimten wordt gehanteerd.
+
+4. Indien het in het derde lid bedoelde tijdvak in twee kalenderjaren is gelegen worden de voor de kalenderjaren geldende tarieven per vervuilingseenheid naar tijdsevenredigheid toegepast.
+
+5. Het eerste lid is niet van toepassing op de voor recreatiedoeleinden bestemde woonruimten die zich bevinden op een voor verblijfsrecreatie bestemd terrein dat als zodanig wordt geëxploiteerd. De in de vorige volzin bedoelde woonruimten worden tezamen aangemerkt als één bedrijfsruimte dan wel als onderdeel van een bedrijfsruimte.
+
+6. Indien in de loop van een kalenderjaar het gebruik van een woonruimte, waarvan de heffing is bepaald op basis van het eerste lid, aanvangt of eindigt, wordt de gebruiker voor een evenredig gedeelte van de op basis van dit lid bepaalde aantal vervuilingseenheden aan de heffing onderworpen.
+
+##### Artikel 122i
+
+1. In afwijking van [artikel 122g](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XVIIb&artikel=122g&z=2007-12-29&g=2007-12-29) wordt de vervuilingswaarde van de stoffen, die vanuit een bedrijfsruimte worden afgevoerd, gesteld op drie vervuilingseenheden indien door de heffingplichtige aannemelijk is gemaakt dat die vervuilingswaarde minder dan vijf vervuilingseenheden bedraagt en op één vervuilingseenheid indien door de heffingplichtige aannemelijk is gemaakt dat die één vervuilingseenheid of minder bedraagt.
+
+2. In afwijking van [artikel 122g](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XVIIb&artikel=122g&z=2007-12-29&g=2007-12-29) wordt de vervuilingswaarde van de stoffen die worden afgevoerd vanuit een bedrijfsruimte of een onderdeel van een bedrijfsruimte bestemd om in het kader van de uitoefening van een beroep of een bedrijf onder een permanente opstand van glas of kunststof gewassen te telen, gesteld op drie vervuilingseenheden per hectare vloeroppervlak waarop onder glas of kunststof wordt geteeld en per deel van een hectare vloeroppervlak een evenredig deel van drie vervuilingseenheden.
+
+3. Indien in de loop van het kalenderjaar het gebruik van een in het tweede lid bedoelde bedrijfsruimte of onderdeel van een bedrijfsruimte dan wel van een deel daarvan door de gebruiker aanvangt of eindigt, wordt hij in dat kalenderjaar voor die bedrijfsruimte, voor een evenredig gedeelte aan de heffing onderworpen.
+
+4. Een vervuilingswaarde voor de bedrijfsruimte of het onderdeel van de bedrijfsruimte, berekend op basis van het tweede of derde lid van minder dan vijf vervuilingseenheden, wordt op drie vervuilingseenheden, en van één of minder dan één vervuilingseenheid op één vervuilingseenheid gesteld.
+
+##### Artikel 122j
+
+Het aantal vervuilingseenheden in een kalenderjaar kan geheel of gedeeltelijk door middel van schatting worden vastgesteld indien door de heffingplichtige:
+
+- a. de meting, bemonstering en analyse niet of niet geheel is geschied in overeenstemming met de in [artikel 122g](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XVIIb&artikel=122g&z=2007-12-29&g=2007-12-29) bedoelde regels;
+
+- b. bepaling van de vervuilingswaarde op grond van [artikel 122h, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XVIIb&artikel=122h&z=2007-12-29&g=2007-12-29), of [122i eerste of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XVIIb&artikel=122i&z=2007-12-29&g=2007-12-29), niet mogelijk is;
+
+- c. bepaling van de vervuilingswaarde op grond van [artikel 122k, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XVIIb&artikel=122k&z=2007-12-29&g=2007-12-29) wel mogelijk is, maar door de heffingplichtige gedurende het heffingsjaar geen verzoek als bedoeld in [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XVIIb&artikel=122k&z=2007-12-29&g=2007-12-29) is gedaan.
+
+##### Artikel 122k
+
+1. Indien door de heffingplichtige aannemelijk is gemaakt dat het aantal vervuilingseenheden met betrekking tot het zuurstofverbruik in een kalenderjaar voor een bedrijfsruimte of een onderdeel daarvan, die hij gebruikt, 1000 of minder bedraagt, en dat dit aantal aan de hand van de hoeveelheid ten behoeve van die bedrijfsruimte of dat onderdeel van die bedrijfsruimte ingenomen water bepaald kan worden, wordt dat aantal in afwijking van [artikel 122g](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XVIIb&artikel=122g&z=2007-12-29&g=2007-12-29) vastgesteld volgens de formule: A x B, waarbij,
+
+A = het aantal m3 in het kalenderjaar ten behoeve van de bedrijfsruimte of het onderdeel van de bedrijfsruimte ingenomen water;
+
+B = de afvalwatercoëfficiënt behorende bij de klasse van de in het derde lid opgenomen tabel met de klassegrenzen waarbinnen de vervuilingswaarde met betrekking tot het zuurstofverbruik per m3 ten behoeve van de bedrijfsruimte of van het onderdeel van de bedrijfsruimte ingenomen water is gelegen.
+
+2. Bij algemene maatregel van bestuur worden nadere regels gesteld voor de bepaling van de vervuilingswaarde met betrekking tot het zuurstofverbruik per m3 ten behoeve van de bedrijfsruimte of het onderdeel van de bedrijfsruimte ingenomen water.
+
+3. De onderstaande tabel bevat klassen met bijbehorende klassegrenzen en afvalwatercoëfficiënten:
+
+| Klasse | Klassegrenzen uitgedrukt in aantal vervuilingseenheden met betrekking tot het zuurstofverbruik per m3 ingenomen water | Klassegrenzen uitgedrukt in aantal vervuilingseenheden met betrekking tot het zuurstofverbruik per m3 ingenomen water | Afvalwatercoëfficiënt uitgedrukt in aantal vervuilingseenheden per m3 ingenomen water in het heffingsjaar |
+| --- | --- | --- | --- |
+|   | Ondergrens | Bovengrens |   |
+| 1 | > 0 | 0,0013 | 0,0010 |
+| 2 | > 0,0013 | 0,0020 | 0,0016 |
+| 3 | > 0,0020 | 0,0031 | 0,0025 |
+| 4 | > 0,0031 | 0,0048 | 0,0039 |
+| 5 | > 0,0048 | 0,0075 | 0,0060 |
+| 6 | > 0,0075 | 0,012 | 0,0094 |
+| 7 | > 0,012 | 0,018 | 0,015 |
+| 8 | > 0,018 | 0,029 | 0,023 |
+| 9 | > 0,029 | 0,045 | 0,036 |
+| 10 | > 0,045 | 0,070 | 0,056 |
+| 11 | > 0,070 | 0,11 | 0,088 |
+| 12 | > 0,11 | 0,17 | 0,14 |
+| 13 | > 0,17 | 0,27 | 0,21 |
+| 14 | > 0,27 | 0,42 | 0,33 |
+| 15 | > 0,42 |   | 0,5 |
+
+4. Indien het aantal vervuilingseenheden met betrekking tot het zuurstofverbruik in een kalenderjaar voor de bedrijfsruimte of onderdeel van een bedrijfsruimte meer dan 1000 bedraagt en door de heffingplichtige aannemelijk is gemaakt dat de berekening van dit aantal overeenkomstig het eerste lid niet resulteert in een lager aantal vervuilingseenheden dan de berekening van dit aantal overeenkomstig [artikel 122g](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&titeldeel=IV&hoofdstuk=XVIIb&artikel=122g&z=2007-12-29&g=2007-12-29) is het eerste lid op verzoek van de heffingplichtige van overeenkomstige toepassing.
 
 ### Hoofdstuk XVIII. De heffing en invordering van waterschapsbelastingen
 
