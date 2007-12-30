@@ -4,7 +4,7 @@ identifier: "BWBV0002890"
 country: "nl"
 rank: "verdrag"
 publication_date: "2007-12-30"
-last_updated: "2006-05-01"
+last_updated: "2007-12-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0002890"
 soort: "verdrag"
@@ -137,6 +137,8 @@ Elke hierna genoemde rechterlijke instantie kan het Hof van Justitie verzoeken, 
 
 - -. in de Tsjechische Republiek: Nejvyšší soud České republiky Nejvyšší správní soud,
 
+- -. in Bulgarije: **Върховен касационен съд** et **Върховен административен съд,**,
+
 - -. in Denemarken: Hojesteret,
 
 - -. in de Bondsrepubliek Duitsland: die obersten Gerichtshöfe des Bundes,
@@ -172,6 +174,8 @@ Elke hierna genoemde rechterlijke instantie kan het Hof van Justitie verzoeken, 
 - -. in Polen: Sąd Najwyższy Naczelny Sąd Administracyjny,
 
 - -. in Portugal: o Supremo Tribunal de Justica en o Supremo Tribunal Administrativo,
+
+- -. in Roemenië: **Înalta Curte de Casaţie şi Justiţie**,
 
 - -. in Slovenië: Ustavno sodišče Republike Slovenije Vrhovno sodišče Republike Slovenije,
 
