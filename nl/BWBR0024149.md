@@ -4,7 +4,7 @@ identifier: "BWBR0024149"
 country: "nl"
 rank: "wet"
 publication_date: "2009-01-01"
-last_updated: "2007-01-01"
+last_updated: "2007-12-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024149"
 soort: "wet"
@@ -144,7 +144,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXVI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet inkomstenbelasting 2001.
 
 ##### Artikel XXVII
 
