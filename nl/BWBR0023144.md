@@ -4,7 +4,7 @@ identifier: "BWBR0023144"
 country: "nl"
 rank: "wet"
 publication_date: "2011-01-01"
-last_updated: "2007-01-01"
+last_updated: "2007-12-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023144"
 soort: "wet"
@@ -176,7 +176,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXIXd
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wijzigingswet Wet inkomstenbelasting 2001, enz. (fiscale facilitering banksparen t.b.v. pensioenopbouw of aflossing eigenwoningschuld) (Stb. 2007/577).
 
 ##### Artikel XXX
 
