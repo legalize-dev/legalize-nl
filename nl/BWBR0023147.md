@@ -4,7 +4,7 @@ identifier: "BWBR0023147"
 country: "nl"
 rank: "wet"
 publication_date: "2010-01-01"
-last_updated: "2007-11-03"
+last_updated: "2007-12-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023147"
 soort: "wet"
@@ -40,7 +40,7 @@ entry_into_force: "2007-12-31"
 
 ##### Artikel I
 
-Wijzigt de Wet inkomstenbelasting 2001.
+Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel Ia
 
@@ -116,7 +116,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XVI
 
-Wijzigt de Algemene wet inkomensafhankelijke regelingen.
+Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XVII
 
@@ -124,15 +124,15 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XVIII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Belastingplan 2007.
 
 ##### Artikel XIX
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wijzigingswet belastingwetten ter vermindering van administratieve lasten (Wijzigingsplan «Paarse krokodil»).
 
 ##### Artikel XX
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wijzigingswet Algemene wet inzake rijksbelastingen, enz. (Versterking fiscale rechtshandhaving).
 
 ##### Artikel XXI
 
@@ -160,11 +160,11 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXVb
 
-Wijzigt de Wet op het kindgebonden budget.
+Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXVc
 
-Wijzigt de Wet werk en bijstand.
+Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXVd
 
@@ -185,3 +185,11 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel XXVII
 
 Dit onderdeel is nog niet inwerking getreden
+
+Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
+
+Alzo Wij in overweging genomen hebben, dat het in het kader van het fiscale beleid voor het jaar 2008 wenselijk is in een aantal belastingwetten wijzigingen, bijstellingen alsmede enkele technische reparaties aan te brengen,
+
+Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
