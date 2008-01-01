@@ -4,7 +4,7 @@ identifier: "BWBR0004772"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-12-12"
-last_updated: "2006-01-01"
+last_updated: "2008-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004772"
 soort: "AMvB"
@@ -48,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-1. Dit besluit geeft uitvoering aan de [artikelen 28](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=28) en [36 van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=36).
+1. Dit besluit geeft uitvoering aan de [artikelen 28](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=28), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=36) en [36b van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=36b).
 
 2. Dit besluit verstaat hierna onder wet: de [Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770).
 
@@ -88,7 +88,7 @@ Indien bij of krachtens [artikel 25, vijfde, zesde, achtste, negende, elfde of z
 
 ##### Artikel 7
 
-1. De mededeling, bedoeld in [artikel 36, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=36), wordt gedaan uiterlijk twee weken na de dag waarop ingevolge [artikel 19 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=19) de verschuldigde belasting behoorde te zijn afgedragen of voldaan.
+1. De mededeling, bedoeld in [artikel 36, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=36), wordt gedaan uiterlijk twee weken na de dag waarop de verschuldigde belasting behoorde te zijn afgedragen of voldaan ingevolge [artikel 19 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=19), [artikel 37, tweede, derde of vierde lid, van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=37) of [artikel 21 van de Wet op de verbruiksbelastingen van alcoholvrije dranken en van enkele andere produkten](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=21).
 
 2. In geval van betalingsonmacht ter zake van een naheffingsaanslag die is opgelegd vanwege de omstandigheid dat de verschuldigde belasting meer beloopt dan die welke overeenkomstig de aangifte is dan wel had moeten worden afgedragen of voldaan, kan, voor zover die omstandigheid niet is te wijten aan opzet of grove schuld van het lichaam, in afwijking van het eerste lid, de mededeling worden gedaan uiterlijk twee weken na de vervaldag van die aanslag.
 
@@ -96,7 +96,7 @@ Indien bij of krachtens [artikel 25, vijfde, zesde, achtste, negende, elfde of z
 
 ##### Artikel 8
 
-Het lichaam dat de mededeling, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004772&hoofdstuk=III&artikel=7&z=2006-01-01&g=2006-01-01), doet, is gehouden aan de ontvanger:
+Het lichaam dat de mededeling, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004772&hoofdstuk=III&artikel=7&z=2008-01-01&g=2008-01-01) of [artikel 7a](https://wetten.overheid.nl/jci1.3:c:BWBR0004772&hoofdstuk=III&artikel=7a&z=2008-01-01&g=2008-01-01), doet, is gehouden aan de ontvanger:
 
 - a. de door deze gevraagde gegevens en inlichtingen te verstrekken die voor de vaststelling van de oorzaak van de betalingsonmacht, of voor de bepaling van de financiële positie van het lichaam van belang kunnen zijn;
 
@@ -104,7 +104,7 @@ Het lichaam dat de mededeling, bedoeld in [artikel 7](https://wetten.overheid.nl
 
 ##### Artikel 9
 
-1. Aan de verplichtingen, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004772&hoofdstuk=III&artikel=8&z=2006-01-01&g=2006-01-01), dient binnen een door de ontvanger te stellen redelijke termijn te worden voldaan.
+1. Aan de verplichtingen, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004772&hoofdstuk=III&artikel=8&z=2008-01-01&g=2008-01-01), dient binnen een door de ontvanger te stellen redelijke termijn te worden voldaan.
 
 2. De gegevens en inlichtingen dienen duidelijk, stellig en zonder voorbehoud te worden verstrekt, mondeling, schriftelijk of op andere wijze, zulks ter keuze van de ontvanger.
 
@@ -117,5 +117,15 @@ Het lichaam dat de mededeling, bedoeld in [artikel 7](https://wetten.overheid.nl
 1. Dit besluit treedt in werking met ingang van 1 juni 1990.
 
 2. Dit besluit wordt aangehaald als: Uitvoeringsbesluit Invorderingswet 1990.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
+
+##### Artikel 7a
+
+1. De mededeling bedoeld in [artikel 36b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=36b), in verbinding met [artikel 36, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=36) wordt gedaan uiterlijk twee weken na de dag waarop ingevolge de in [artikel 49, eerste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=49), bedoelde beschikking de aansprakelijkheidsschuld had moeten zijn voldaan.
+
+2. Bij de mededeling wordt inzicht gegeven in de omstandigheden die ertoe hebben geleid dat de aansprakelijkheidsschuld niet is voldaan.
+
+### Hoofdstuk IV. Inwerkingtreding en citeertitel
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
