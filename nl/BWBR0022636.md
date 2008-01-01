@@ -4,7 +4,7 @@ identifier: "BWBR0022636"
 country: "nl"
 rank: "wet"
 publication_date: "2009-11-01"
-last_updated: "2007-04-11"
+last_updated: "2008-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022636"
 soort: "wet"
@@ -70,7 +70,7 @@ G. Wijzigt de Wet op de loonbelasting 1964.
 
 ##### Artikel III
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de dividendbelasting 1965.
 
 ##### Artikel IV
 
@@ -78,7 +78,7 @@ Wijzigt de Wet op de vennootschapsbelasting 1969.
 
 ##### Artikel V
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Registratiewet 1970.
 
 ##### Artikel VI
 
@@ -86,19 +86,19 @@ Wijzigt de Invorderingswet 1990.
 
 ##### Artikel VIa
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Waterschapswet.
 
 ##### Artikel VII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Gemeentewet.
 
 ##### Artikel VIII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de motorrijtuigenbelasting 1994.
 
 ##### Artikel IX
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet waardering onroerende zaken.
 
 ##### Artikel X
 
@@ -106,11 +106,11 @@ Wijzigt de Wet inkomstenbelasting 2001.
 
 ##### Artikel XI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet financiering sociale verzekeringen.
 
 ##### Artikel XII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Zorgverzekeringswet.
 
 ##### Artikel XIIa
 
@@ -118,15 +118,17 @@ Wijzigt de Algemene wet inkomensafhankelijke regelingen.
 
 ##### Artikel XIII
 
-Dit onderdeel is nog niet inwerking getreden
+A. Met betrekking tot een aanvraag of bezwaarschrift dat op of voor het tijdstip van inwerkingtreding van deze wet is ingediend, blijft wat betreft de wettelijke termijnen het recht gelden zoals dat luidde onmiddellijk voorafgaande aan dat tijdstip.
+
+B. Maanden die zijn gelegen voor de inwerkingtreding van deze wet kunnen geen deel uitmaken van de periode van zes maanden bedoeld in [artikel 30a van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=30a).
 
 ##### Artikel XIIIa
 
-De ingevolge [artikel IA, onderdelen A en B](https://wetten.overheid.nl/jci1.3:c:BWBR0022636&artikel=Ia&z=2008-01-01&g=2007-04-11), gewijzigde artikelen van de [Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226) vinden voor het eerst toepassing met betrekking tot belastbare feiten in de zin van de [Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226) die zich hebben voorgedaan op of na 1 januari 2006.
+De ingevolge [artikel IA, onderdelen A en B](https://wetten.overheid.nl/jci1.3:c:BWBR0022636&artikel=Ia&z=2008-01-01&g=2008-01-01), gewijzigde artikelen van de [Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226) vinden voor het eerst toepassing met betrekking tot belastbare feiten in de zin van de [Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226) die zich hebben voorgedaan op of na 1 januari 2006.
 
 ##### Artikel XIIIb
 
-Dit onderdeel is nog niet inwerking getreden
+Het ingevolge [artikel IA, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0022636&artikel=Ia&z=2008-01-01&g=2008-01-01), gewijzigde artikel van de [Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226) vindt voor het eerst toepassing met betrekking tot belastbare feiten in de zin van de [Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226) die zich hebben voorgedaan op of na de dag van de inwerkingtreding van de wijziging.
 
 ##### Artikel XIIIc
 
@@ -134,11 +136,11 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XIIId
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Invoeringswet Wet financiering sociale verzekeringen en de Verzamelwet sociale verzekeringen 2006.
 
 ##### Artikel XIIIe
 
-Dit onderdeel is nog niet inwerking getreden
+[Artikel 36b van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=36b) vindt geen toepassing voorzover het lichaam bij een voor het tijdstip van inwerkingtreding van deze wet bekendgemaakte beschikking als bedoeld in [artikel 49 van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=49) aansprakelijk is gesteld.
 
 ##### Artikel XIIIf
 
@@ -150,4 +152,24 @@ Wijzigt het Belastingplan 2006.
 
 ##### Artikel XIV
 
-Dit onderdeel is nog niet inwerking getreden
+Deze wet treedt in werking op 1 januari 2008, met dien verstande dat:
+
+- a. [artikel IV, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022636&artikel=IV&z=2008-01-01&g=2008-01-01), terugwerkt tot en met 1 januari 2005;
+
+- b. [artikel VI, onderdeel Ba](https://wetten.overheid.nl/jci1.3:c:BWBR0022636&artikel=VI&z=2008-01-01&g=2008-01-01), terugwerkt tot en met 1 maart 2005;
+
+- c. [artikel I, onderdelen Bb en F](https://wetten.overheid.nl/jci1.3:c:BWBR0022636&artikel=I&z=2008-01-01&g=2008-01-01), [artikel IA, onderdelen A en B](https://wetten.overheid.nl/jci1.3:c:BWBR0022636&artikel=Ia&z=2008-01-01&g=2008-01-01), [artikel II, onderdelen E, F en G](https://wetten.overheid.nl/jci1.3:c:BWBR0022636&artikel=II&z=2008-01-01&g=2008-01-01), [artikel VI, onderdeel Bb](https://wetten.overheid.nl/jci1.3:c:BWBR0022636&artikel=VI&z=2008-01-01&g=2008-01-01), [artikel X, onderdeel Aa, eerste lid, en onderdelen G en H](https://wetten.overheid.nl/jci1.3:c:BWBR0022636&artikel=X&z=2008-01-01&g=2008-01-01), [artikel XIIA, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022636&artikel=XIIa&z=2008-01-01&g=2008-01-01), [artikel XIIIA](https://wetten.overheid.nl/jci1.3:c:BWBR0022636&artikel=XIIIa&z=2008-01-01&g=2008-01-01), [artikel XIIIC](https://wetten.overheid.nl/jci1.3:c:BWBR0022636&artikel=XIIIc&z=2008-01-01&g=2008-01-01) en [artikel XIIIG](https://wetten.overheid.nl/jci1.3:c:BWBR0022636&artikel=XIIIg&z=2008-01-01&g=2008-01-01) terugwerken tot en met 1 januari 2006;
+
+- d. [artikel II, onderdeel Bb](https://wetten.overheid.nl/jci1.3:c:BWBR0022636&artikel=II&z=2008-01-01&g=2008-01-01), terugwerkt tot en met 1 juli 2006;
+
+- e. [artikel IA, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0022636&artikel=Ia&z=2008-01-01&g=2008-01-01), en [artikel X, onderdeel F](https://wetten.overheid.nl/jci1.3:c:BWBR0022636&artikel=X&z=2008-01-01&g=2008-01-01), terugwerken tot en met het tijdstip waarop [artikel I, onderdeel Oa, van het Belastingplan 2006](https://wetten.overheid.nl/jci1.3:c:BWBR0019286&artikel=I) in werking treedt;
+
+- f. [artikel VI, onderdeel Abis](https://wetten.overheid.nl/jci1.3:c:BWBR0022636&artikel=VI&z=2008-01-01&g=2008-01-01), en [artikel XIIA, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022636&artikel=XIIa&z=2008-01-01&g=2008-01-01), in werking treden op een bij koninklijk besluit te bepalen tijdstip.
+
+Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
+
+Alzo Wij in overweging genomen hebben, dat het wenselijk is in verband met het versterken van de fiscale rechtshandhaving en het verkorten van beslistermijnen, de [Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320) en enige andere wetten aan te passen;
+
+Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
