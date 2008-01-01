@@ -4,7 +4,7 @@ identifier: "BWBR0017701"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-01"
-last_updated: "2005-01-01"
+last_updated: "2008-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017701"
 soort: "ministeriele-regeling"
@@ -59,9 +59,9 @@ De opgave, bedoeld in [artikel 38c, eerste lid, onderdeel a](https://wetten.over
 
 ##### Artikel 3
 
-1. Voor het doen van de in [artikel 38c, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&artikel=38c) bedoelde opgave kan gebruik worden gemaakt van de volgende gegevensdragers:
+1. Voor het doen van de in [artikel 38c, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&artikel=38c) bedoelde opgave wordt gebruik gemaakt van de volgende gegevensdragers:
 
-- a. computerbestanden waarvan de indeling naar het oordeel van de directeur-generaal van het CBS overeenkomt met een door het CBS opgestelde standaard indeling voor elektronische waarneming van het goederenverkeer tussen de lidstaten van de Europese Unie, waarvan het model is opgenomen in de bij deze regeling behorende bijlage;
+- a. computerbestanden waarvan de indeling naar het oordeel van de directeur-generaal van het CBS overeenkomt met een door het CBS opgestelde standaard indeling voor elektronische waarneming van het goederenverkeer tussen de lidstaten van de Europese Unie, waarvan het model is opgenomen in de bij deze regeling behorende bijlage, of
 
 - b. computerbestanden die zijn opgesteld met behulp van door het CBS opgestelde software.
 
@@ -71,15 +71,15 @@ De opgave, bedoeld in [artikel 38c, eerste lid, onderdeel a](https://wetten.over
 
 Bij het doen van de in [artikel 38c, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&artikel=38c) bedoelde opgave kan gebruik worden gemaakt van de volgende procedures:
 
-- a. verstrekking van een computerbestand als bedoeld in [artikel 3, eerste lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0017701&artikel=3&z=2005-01-01&g=2005-01-01), door middel van een door het CBS goedgekeurde procedure voor elektronische gegevensoverdracht;
+- a. verstrekking van een computerbestand als bedoeld in [artikel 3, eerste lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0017701&artikel=3&z=2008-01-01&g=2008-01-01), door middel van een door het CBS goedgekeurde procedure voor elektronische gegevensoverdracht;
 
-- b. toezending van de in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017701&artikel=3&z=2005-01-01&g=2005-01-01), bedoelde bescheiden.
+- b. toezending van de in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017701&artikel=3&z=2008-01-01&g=2008-01-01), bedoelde bescheiden.
 
 ##### Artikel 5
 
-1. De hoogte van de in artikel 10, eerste lid, van [verordening 638/2004](32004R0638) bedoelde statistische drempels wordt vastgesteld op € 400.000 aan waarde van de per jaar vanuit de andere lidstaten van de Europese Unie ontvangen of naar die lidstaten verzonden goederen.
+1. De hoogte van de in artikel 10, eerste lid, van [verordening 638/2004](32004R0638) bedoelde statistische drempels wordt vastgesteld op € 400.000 aan waarde van de per jaar vanuit de andere lidstaten van de Europese Unie ontvangen en € 900.000 aan waarde van de per jaar naar die lidstaten verzonden goederen.
 
-2. De in het eerste lid genoemde hoogte van de statistische drempels geldt voor de jaren 2005, 2006 en 2007.
+2. De in het eerste lid genoemde hoogte van de statistische drempels geldt voor de jaren 2008, 2009 en 2010.
 
 ##### Artikel 6
 
