@@ -4,7 +4,7 @@ identifier: "BWBR0023058"
 country: "nl"
 rank: "wet"
 publication_date: "2009-11-27"
-last_updated: "2007-12-21"
+last_updated: "2008-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023058"
 soort: "wet"
@@ -78,11 +78,11 @@ Wijzigt de Zorgverzekeringswet.
 
 ##### Artikel X
 
-1. Deze wet, met uitzondering van [artikel I, onderdelen C en I](https://wetten.overheid.nl/jci1.3:c:BWBR0023058&artikel=I&z=2007-12-21&g=2007-12-21), en [artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0023058&artikel=III&z=2007-12-21&g=2007-12-21), die in werking treden op een bij koninklijk besluit te bepalen tijdstip, treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.
+1. Deze wet, met uitzondering van [artikel I, onderdelen C en I](https://wetten.overheid.nl/jci1.3:c:BWBR0023058&artikel=I&z=2008-01-01&g=2008-01-01), en [artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0023058&artikel=III&z=2008-01-01&g=2008-01-01), die in werking treden op een bij koninklijk besluit te bepalen tijdstip, treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.
 
-2. [Artikel I, onderdeel F, wat betreft artikel 69, zesde lid, van de Zorgverzekeringswet, en onderdeel G](https://wetten.overheid.nl/jci1.3:c:BWBR0023058&artikel=I&z=2007-12-21&g=2007-12-21) werken terug tot en met 1 januari 2006.
+2. [Artikel I, onderdeel F, wat betreft artikel 69, zesde lid, van de Zorgverzekeringswet, en onderdeel G](https://wetten.overheid.nl/jci1.3:c:BWBR0023058&artikel=I&z=2008-01-01&g=2008-01-01) werken terug tot en met 1 januari 2006.
 
-3. [Artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0023058&artikel=III&z=2007-12-21&g=2007-12-21) werkt terug tot en met 1 januari 2007.
+3. [Artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0023058&artikel=III&z=2008-01-01&g=2008-01-01) werkt terug tot en met 1 januari 2007.
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
