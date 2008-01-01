@@ -4,7 +4,7 @@ identifier: "BWBR0020486"
 country: "nl"
 rank: "amvb"
 publication_date: "2017-07-12"
-last_updated: "2006-12-31"
+last_updated: "2008-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020486"
 soort: "AMvB"
@@ -90,11 +90,11 @@ Ter bepaling van de jaarlijks in rekening te brengen kosten, bedoeld in [artikel
 
 3. Voor een effectenuitgevende instelling als bedoeld in het eerste lid, onderdeel a, bestaat de hoogte van het in rekening te brengen bedrag uit een jaarlijks voor 15 juli door de minister vast te stellen minimumbedrag, vermeerderd met een tarief:
 
-- a. dat is gebaseerd op de aan die categorie toe te rekenen kosten op grond van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0020486&artikel=5&z=2006-12-31&g=2006-12-31), onder aftrek van het totaal van het aan de categorie in rekening te brengen minimumbedragen, en
+- a. dat is gebaseerd op de aan die categorie toe te rekenen kosten op grond van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0020486&artikel=5&z=2006-12-31&g=2008-01-01), onder aftrek van het totaal van het aan de categorie in rekening te brengen minimumbedragen, en
 
 - b. dat is berekend naar rato van de verdeelsleutel, bedoeld in het tweede lid.
 
-4. Voor een effectenuitgevende instelling, bedoeld in het eerste lid, onderdeel b, bestaat de hoogte van het in rekening te brengen bedrag uit een jaarlijks voor 15 juli door de minister vast te stellen bedrag dat is gebaseerd op de aan die categorie op grond van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0020486&artikel=5&z=2006-12-31&g=2006-12-31) toe te rekenen kosten.
+4. Voor een effectenuitgevende instelling, bedoeld in het eerste lid, onderdeel b, bestaat de hoogte van het in rekening te brengen bedrag uit een jaarlijks voor 15 juli door de minister vast te stellen bedrag dat is gebaseerd op de aan die categorie op grond van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0020486&artikel=5&z=2006-12-31&g=2008-01-01) toe te rekenen kosten.
 
 5. Voor de verdeelsleutel, bedoeld in het tweede lid, het minimumtarief, bedoeld in het derde lid, en het (vaste) bedrag, bedoeld in het vierde lid, wordt door de Autoriteit Financiële Markten jaarlijks voor 15 juni aan Onze Minister een voorstel gedaan.
 
