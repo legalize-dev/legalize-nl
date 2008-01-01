@@ -4,7 +4,7 @@ identifier: "BWBR0012172"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2016-01-01"
-last_updated: "2005-09-01"
+last_updated: "2008-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012172"
 soort: "ministeriele-regeling"
@@ -95,7 +95,7 @@ Besluit:
 
 - d. Cu < 0,20%.
 
-4. De retroreflectiewaarden van gelakte platen en retroreflecterend materiaal moeten voldoen aan [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012172&bijlage=1&z=2005-09-01&g=2005-09-01), onderscheidenlijk [Bijlage 1A](https://wetten.overheid.nl/jci1.3:c:BWBR0012172&bijlage=1a&z=2005-09-01&g=2005-09-01).
+4. De retroreflectiewaarden van gelakte platen en retroreflecterend materiaal moeten voldoen aan [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012172&bijlage=1&z=2008-01-01&g=2008-01-01), onderscheidenlijk [Bijlage 1A](https://wetten.overheid.nl/jci1.3:c:BWBR0012172&bijlage=1a&z=2008-01-01&g=2008-01-01).
 
 5. Het materiaal van de kunststof tekens dient te behoren tot een door de Dienst Wegverkeer goedgekeurde soort, bestand te zijn tegen zonlicht, kunstlicht, water, zouten, benzine, olie, hoge en lage temperaturen en tevens kleurbestendig te zijn.
 
@@ -103,9 +103,9 @@ Besluit:
 
 1. De trichromatische componenten van de kleuren moeten zijn gelegen binnen het voor elk der kleuren afzonderlijk aangegeven kleurenvlak.
 
-2. Het kleurenvlak wordt gevormd uit de voor elk der kleuren vastgestelde vier hoekpunten, aangegeven door de trichromatische componenten x en y, een en ander overeenkomstig [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012172&bijlage=2&z=2005-09-01&g=2005-09-01).
+2. Het kleurenvlak wordt gevormd uit de voor elk der kleuren vastgestelde vier hoekpunten, aangegeven door de trichromatische componenten x en y, een en ander overeenkomstig [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012172&bijlage=2&z=2008-01-01&g=2008-01-01).
 
-3. De waarde van de luminantiefactor van de kleur moet voldoen aan de voor die kleur vastgestelde waarde van de luminantiefactor ß ([bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012172&bijlage=3&z=2005-09-01&g=2005-09-01)).
+3. De waarde van de luminantiefactor van de kleur moet voldoen aan de voor die kleur vastgestelde waarde van de luminantiefactor ß ([bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012172&bijlage=3&z=2008-01-01&g=2008-01-01)).
 
 ##### Artikel 4. Laklaag
 
@@ -141,7 +141,7 @@ Bij de vervaardiging van de kentekenplaat zijn de hiernavolgende toleranties in 
 
 - a. door persing in de plaat te zijn aangebracht, of
 
-- b. door middel van losse tekens op de plaat te zijn aangebracht; deze tekens dienen deugdelijk aan de plaat te zijn bevestigd, een en ander overeenkomstig [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012172&bijlage=4&z=2005-09-01&g=2005-09-01).
+- b. door middel van losse tekens op de plaat te zijn aangebracht; deze tekens dienen deugdelijk aan de plaat te zijn bevestigd, een en ander overeenkomstig [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012172&bijlage=4&z=2008-01-01&g=2008-01-01).
 
 2. De tekens van het kenteken dienen zodanig in de plaat te zijn aangebracht dat deze tekens zich aan de voorzijde van de kentekenplaat bevinden.
 
@@ -151,7 +151,7 @@ Bij de vervaardiging van de kentekenplaat zijn de hiernavolgende toleranties in 
 
 1. Van elke soort gelakte kentekenplaat waarvoor door de fabrikant daarvan goedkeuring en erkenning voor het aanbrengen van het keurmerk op kentekenplaten wordt aangevraagd, dienen twee respectievelijk twee x twee monsters (1 x model 500 x 105 - 1 x model 275 x 195 respectievelijk 1 x model 500 x 105 - 1 x model 275 x 195 - 1 x model 350 x 80 - 1 x model 200 x 145) voor onderzoek te worden overgelegd.
 
-2. De in het eerste lid bedoelde monsters worden voor het uitvoeren van de in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0012172&hoofdstuk=3&artikel=9&z=2005-09-01&g=2005-09-01) bedoelde proeven gebezigd.
+2. De in het eerste lid bedoelde monsters worden voor het uitvoeren van de in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0012172&hoofdstuk=3&artikel=9&z=2008-01-01&g=2008-01-01) bedoelde proeven gebezigd.
 
 ##### Artikel 9. Proeven ten aanzien van de hechting van de laklaag
 
@@ -207,7 +207,7 @@ Bij de vervaardiging van de kentekenplaat zijn de volgende toleranties in de maa
 
 - f. de afrondingsstraal van de hoekpunten van de kunststof tekens niet meer dan 1,5 mm te bedragen,
 
-- g. het kunststof teken te zijn voorzien van bevestigingspennen zoals aangegeven in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0012172&bijlage=6&z=2005-09-01&g=2005-09-01) of [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0012172&bijlage=7&z=2005-09-01&g=2005-09-01),
+- g. het kunststof teken te zijn voorzien van bevestigingspennen zoals aangegeven in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0012172&bijlage=6&z=2008-01-01&g=2008-01-01) of [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0012172&bijlage=7&z=2008-01-01&g=2008-01-01),
 
 - h. de diameter van de bevestigingspennen ten minste 3,5 mm en ten hoogste 5 mm te bedragen,
 
@@ -217,15 +217,11 @@ Bij de vervaardiging van de kentekenplaat zijn de volgende toleranties in de maa
 
 5. Het kenteken dient symmetrisch ten opzichte van het midden van de kentekenplaat te zijn aangebracht. De maximum tolerantie ten opzichte van de symmetrielijn bedraagt 3 mm. Bij de modellen 27.1A tot en met 27.10C dient de ruimte van het blauwe Europese vignet daarbij buiten beschouwing te worden gelaten. Bij de modellen 30.2A tot en met 30.2D, 30.4A tot en met 30.4D, 30.6, 30.8, 30.10, 30.12, 30.14 en 30.16 wordt het kenteken rechts ten opzichte van het midden geplaatst.
 
-6. Aan de rechter voorzijde van de kentekenplaat volgens de modellen 18.2A tot en met 18.2C, met uitzondering van platen met een donkerblauwe achtergrond, 27.1A tot en met 27.2F, 27.10A tot en met 27.17C, 27.24A tot en met 27.26C, 27.30A tot en met 27.31C, 30.1A tot en met 30.8 en 30.13 tot en met 30.16 dient 90 graden linksom gedraaid en verticaal een nummer te zijn ingeperst of ingeslagen dat het jaar en de week van vervaardiging van de kentekenplaat aangeeft.
+6. De hoekpunten van de kentekenplaat dienen te zijn afgerond. De straal van de afronding moet zijn gelegen tussen 5 en 15 mm.
 
-7. Het in het zesde lid bedoelde nummer wordt samengesteld uit vier cijfers, waarvan de eerste twee worden gevormd door de laatste twee cijfers van het jaartal en de laatste twee worden gevormd door de week van het jaar, zonodig voorafgegaan door een 0, met dien verstande dat het eerste jaar/weeknummer in het jaar 2000 wordt aangegeven door het nummer 0001.
+7. Kentekenplaten volgens de modellen 27.15A tot en met 27.17C, 30.7 en 30.8 moeten zijn voorzien van een maandnummer. Het maandnummer wordt in 20 mm hoge tekens aangegeven. Het maandnummer bestaat uit twee cijfers en dient 90 graden linksom gedraaid en verticaal te zijn aangebracht aan de linker voorzijde van de kentekenplaat.
 
-8. De hoekpunten van de kentekenplaat dienen te zijn afgerond. De straal van de afronding moet zijn gelegen tussen 5 en 15 mm.
-
-9. Kentekenplaten volgens de modellen 27.15A tot en met 27.17C, 30.7 en 30.8 moeten zijn voorzien van een maandnummer. Het maandnummer wordt in 20 mm hoge tekens aangegeven. Het maandnummer bestaat uit twee cijfers en dient 90 graden linksom gedraaid en verticaal te zijn aangebracht aan de linker voorzijde van de kentekenplaat.
-
-10. Kentekenplaten volgens de modellen:
+8. Kentekenplaten volgens de modellen:
 
 - a. 27.1A tot en met 27.2B, 27.2D tot en met 27.2F, 27.10A, 27.10B, 27.24A tot en met 27.25B, 27.26A, 27.26B en 27.30A tot en met 27.31B moeten met ingang van 1 februari 2003, indien het desbetreffende kentekenbewijs is voorzien van een duplicaatcode, zijn voorzien van dezelfde duplicaatcode. Vóór deze datum mogen zij zijn voorzien van bedoelde duplicaatcode. De duplicaatcode wordt in 23 mm (tolerantie 1 mm) hoge tekens aangegeven. De duplicaatcode bestaat uit één cijfer en dient te zijn aangebracht hetzij boven de eerste streep voor de duplicaten 1 tot en met 9, hetzij onder de eerste streep voor de duplicaten 10 tot en met 19 hetzij, indien geen eerste streep in het kenteken voorkomt, linksboven respectievelijk rechtsboven op de kentekenplaat;
 
@@ -233,9 +229,9 @@ Bij de vervaardiging van de kentekenplaat zijn de volgende toleranties in de maa
 
 - c. 30.1A tot en met 30.4D, 30.13 en 30.14 moeten, indien het desbetreffende kentekenbewijs is voorzien van een duplicaatcode, zijn voorzien van dezelfde duplicaatcode. De duplicaatcode wordt in 20 mm (tolerantie 1 mm) hoge tekens aangegeven. De duplicaatcode bestaat uit één cijfer voor de duplicaten 1 tot en met 9, dan wel uit twee cijfers voor de duplicaten 10 tot en met 19. De duplicaatcode dient bij de modellen 30.1A tot en met 30.1D, 30.3A tot en met 30.3D en 30.13 te zijn aangebracht midden tussen de tekens aan de linker voorzijde. De duplicaatcode dient bij de modellen 30.2A tot en met 30.2D, 30.4A tot en met 30.4D en 30.14 te zijn aangebracht naast de tekens aan de linker bovenzijde.
 
-11. Kentekenplaten volgens de modellen 27.1A tot en met 27.2F, 27.10A tot en met 27.13, 27.15A tot en met 27.17C, 27.24A tot en met 27.31C, 30.1A tot en met 30.8 en 30.13 tot en met 30.16 dienen te zijn voorzien van een zwarte profielrand. Kentekenplaten volgens de modellen 30.3A tot en met 30.4D dienen te zijn voorzien van een witte profielrand.
+9. Kentekenplaten volgens de modellen 27.1A tot en met 27.2F, 27.10A tot en met 27.13, 27.15A tot en met 27.17C, 27.24A tot en met 27.31C, 30.1A tot en met 30.8 en 30.13 tot en met 30.16 dienen te zijn voorzien van een zwarte profielrand. Kentekenplaten volgens de modellen 30.3A tot en met 30.4D dienen te zijn voorzien van een witte profielrand.
 
-12. Kentekenplaten volgens de modellen 18.2A tot en met 18.2C, met uitzondering van platen met een donkerblauwe achtergrond, en volgens de modellen 27.1A tot en met 27.2F, 27.10A tot en met 27.14, 27.30A tot en met 27.31C en 30.1A tot en met 30.6 dienen aan de voorzijde te zijn voorzien van een lamineercode. Deze code bestaat uit het identificatienummer van de lamineerder (1e positie), de laatste twee cijfers van het jaartal van vervaardiging van de retroreflecterende plaat (2 posities) en een productievolgnummer (7 posities). Deze code met een breedte van circa 40 mm wordt, in 3 tot 4 mm hoge cijfers in zwart aangebracht volgens model E van de [bijlage bij de Regeling kentekens en kentekenplaten](onbekend). Dit lid is niet van toepassing op kentekenplaten volgens de modellen 27.11 tot en met 27.14 die zijn afgegeven vóór 31 augustus 2002.
+10. Kentekenplaten volgens de modellen 18.2A tot en met 18.2C, met uitzondering van platen met een donkerblauwe achtergrond, en volgens de modellen 27.1A tot en met 27.2F, 27.10A tot en met 27.14, 27.30A tot en met 27.31C en 30.1A tot en met 30.6 dienen aan de voorzijde te zijn voorzien van een lamineercode. Deze code bestaat uit het identificatienummer van de lamineerder (1e positie), de laatste twee cijfers van het jaartal van vervaardiging van de retroreflecterende plaat (2 posities) en een productievolgnummer (7 posities). Deze code met een breedte van circa 40 mm wordt, in 3 tot 4 mm hoge cijfers in zwart aangebracht volgens model E van de [bijlage bij de Regeling kentekens en kentekenplaten](onbekend). Dit lid is niet van toepassing op kentekenplaten volgens de modellen 27.11 tot en met 27.14 die zijn afgegeven vóór 31 augustus 2002.
 
 ##### Artikel 13
 
@@ -265,7 +261,7 @@ De proefstukken VI, VII en VIII van de kentekenplaat worden gedurende 6 achteree
 
 5. Ten aanzien van het versneld verkleuren wordt de volgende proef genomen:
 
-Het proefstuk IX van de kentekenplaat dient te worden beproefd op een wijze die overeenkomt met het terzake bepaalde in de Internationale Standaard ISO R 105/V van 1 maart 1969, part. 2. Het proefstuk en het standaard kleurmonster dienen daarbij zolang te worden belicht tot de verkleuring van de kleurstandaard 7 (solubilised vat blue 5) begint. Na de proef dient het beproefde gedeelte van het proefstuk voor wat betreft kleur, luminantiefactor en gerichte reflectie nog te voldoen aan het gestelde daaromtrent in de [bijlagen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012172&bijlage=2&z=2005-09-01&g=2005-09-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0012172&bijlage=3&z=2005-09-01&g=2005-09-01) (na beproeving bij eerste onderzoek) en het bepaalde in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012172&hoofdstuk=2&artikel=4&z=2005-09-01&g=2005-09-01).
+Het proefstuk IX van de kentekenplaat dient te worden beproefd op een wijze die overeenkomt met het terzake bepaalde in de Internationale Standaard ISO R 105/V van 1 maart 1969, part. 2. Het proefstuk en het standaard kleurmonster dienen daarbij zolang te worden belicht tot de verkleuring van de kleurstandaard 7 (solubilised vat blue 5) begint. Na de proef dient het beproefde gedeelte van het proefstuk voor wat betreft kleur, luminantiefactor en gerichte reflectie nog te voldoen aan het gestelde daaromtrent in de [bijlagen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012172&bijlage=2&z=2008-01-01&g=2008-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0012172&bijlage=3&z=2008-01-01&g=2008-01-01) (na beproeving bij eerste onderzoek) en het bepaalde in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012172&hoofdstuk=2&artikel=4&z=2008-01-01&g=2008-01-01).
 
 6. Ten aanzien van de veroudering
 
@@ -281,7 +277,7 @@ Een model van een kentekenplaat wordt opgesteld:
 
 - d. gericht naar het zuiden;
 
-- e. gedurende 12 maanden. Na de proef dient de kentekenplaat voor wat betreft kleur, luminantiefactor en gerichte reflectie te voldoen aan het gestelde daaromtrent in de [bijlagen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012172&bijlage=2&z=2005-09-01&g=2005-09-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0012172&bijlage=3&z=2005-09-01&g=2005-09-01) en [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012172&hoofdstuk=2&artikel=4&z=2005-09-01&g=2005-09-01), en mogen de laklagen geen sporen vertonen van barstvorming, afschilfering, putjes en bladders, alsmede geen verkrijting groter dan beoordeling 2 volgens methode verfinstituut TNO (standaard uitrusting voor het afpoederen).
+- e. gedurende 12 maanden. Na de proef dient de kentekenplaat voor wat betreft kleur, luminantiefactor en gerichte reflectie te voldoen aan het gestelde daaromtrent in de [bijlagen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012172&bijlage=2&z=2008-01-01&g=2008-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0012172&bijlage=3&z=2008-01-01&g=2008-01-01) en [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012172&hoofdstuk=2&artikel=4&z=2008-01-01&g=2008-01-01), en mogen de laklagen geen sporen vertonen van barstvorming, afschilfering, putjes en bladders, alsmede geen verkrijting groter dan beoordeling 2 volgens methode verfinstituut TNO (standaard uitrusting voor het afpoederen).
 
 ##### Artikel 15. Proeven retroreflecterende kentekenplaten
 
@@ -373,7 +369,7 @@ De proefstukken VI, VII en VIII van het halffabrikaat worden gedurende 6 achtere
 
 7. Ten aanzien van het versneld verkleuren wordt de volgende proef genomen:
 
-Het proefstuk IX van het halffabrikaat dient te worden beproefd op een wijze die overeenkomt met het terzake bepaalde in de Internationale Standaard ISO R 105/V van 1 maart 1969, part. 2. Het proefstuk en het standaard kleurmonster dienen daarbij zolang te worden belicht tot de verkleuring van de kleurstandaard 7 (solubilised vat blue 5) begint. Na de proef dient het beproefde gedeelte van het proefstuk nog voor wat betreft kleur, luminantiefactor en gerichte reflectie te voldoen aan het gestelde daaromtrent in de [bijlagen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012172&bijlage=2&z=2005-09-01&g=2005-09-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0012172&bijlage=3&z=2005-09-01&g=2005-09-01) (na beproeving bij eerste onderzoek) en het bepaalde in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012172&hoofdstuk=2&artikel=4&z=2005-09-01&g=2005-09-01).
+Het proefstuk IX van het halffabrikaat dient te worden beproefd op een wijze die overeenkomt met het terzake bepaalde in de Internationale Standaard ISO R 105/V van 1 maart 1969, part. 2. Het proefstuk en het standaard kleurmonster dienen daarbij zolang te worden belicht tot de verkleuring van de kleurstandaard 7 (solubilised vat blue 5) begint. Na de proef dient het beproefde gedeelte van het proefstuk nog voor wat betreft kleur, luminantiefactor en gerichte reflectie te voldoen aan het gestelde daaromtrent in de [bijlagen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012172&bijlage=2&z=2008-01-01&g=2008-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0012172&bijlage=3&z=2008-01-01&g=2008-01-01) (na beproeving bij eerste onderzoek) en het bepaalde in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012172&hoofdstuk=2&artikel=4&z=2008-01-01&g=2008-01-01).
 
 8. Ten aanzien van de veroudering bij buitenopstelling wordt de volgende proef genomen:
 
@@ -387,7 +383,7 @@ Een model van een gelakte aluminium plaat wordt opgesteld:
 
 - d. gericht naar het zuiden;
 
-- e. gedurende 12 maanden. Na de proef dient de kentekenplaat voor wat betreft kleur, luminantiefactor en gerichte reflectie te voldoen aan het gestelde daaromtrent in de [bijlagen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012172&bijlage=2&z=2005-09-01&g=2005-09-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0012172&bijlage=3&z=2005-09-01&g=2005-09-01) en [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012172&hoofdstuk=2&artikel=4&z=2005-09-01&g=2005-09-01), en mogen de laklagen geen sporen vertonen van barstvorming, afschilfering, putjes en bladders, alsmede geen verkrijting groter dan beoordeling 2 volgens methode Verfinstituut TNO (standaard uitrusting voor het afpoederen).
+- e. gedurende 12 maanden. Na de proef dient de kentekenplaat voor wat betreft kleur, luminantiefactor en gerichte reflectie te voldoen aan het gestelde daaromtrent in de [bijlagen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012172&bijlage=2&z=2008-01-01&g=2008-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0012172&bijlage=3&z=2008-01-01&g=2008-01-01) en [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012172&hoofdstuk=2&artikel=4&z=2008-01-01&g=2008-01-01), en mogen de laklagen geen sporen vertonen van barstvorming, afschilfering, putjes en bladders, alsmede geen verkrijting groter dan beoordeling 2 volgens methode Verfinstituut TNO (standaard uitrusting voor het afpoederen).
 
 ##### Artikel 17. Proeven retroreflecterend materiaal (halffabrikaat)
 
@@ -425,7 +421,7 @@ De proefstukken VI en VII van het retroreflecterende materiaal worden gedurende 
 
 9. Ten aanzien van het versneld verkleuren wordt de volgende proef genomen:
 
-Het proefstuk VIII van het retroreflecterende materiaal dient te worden beproefd op een wijze die overeenkomt met het terzake bepaalde in de Internationale Standaard ISO R 105/V van 1 maart 1969, part 2. Het proefstuk en het standaard kleurmonster dienen daarbij zolang te worden belicht tot de verkleuring van de kleurstandaard 7 (solubilised vat blue 5) begint. Na de proef dient het beproefde gedeelte van het proefstuk voor wat betreft kleur, luminantiefactor en retroreflectie nog te voldoen aan het gestelde daaromtrent in de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012172&bijlage=1&z=2005-09-01&g=2005-09-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0012172&bijlage=2&z=2005-09-01&g=2005-09-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0012172&bijlage=3&z=2005-09-01&g=2005-09-01) (na beproeving bij eerste onderzoek).
+Het proefstuk VIII van het retroreflecterende materiaal dient te worden beproefd op een wijze die overeenkomt met het terzake bepaalde in de Internationale Standaard ISO R 105/V van 1 maart 1969, part 2. Het proefstuk en het standaard kleurmonster dienen daarbij zolang te worden belicht tot de verkleuring van de kleurstandaard 7 (solubilised vat blue 5) begint. Na de proef dient het beproefde gedeelte van het proefstuk voor wat betreft kleur, luminantiefactor en retroreflectie nog te voldoen aan het gestelde daaromtrent in de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012172&bijlage=1&z=2008-01-01&g=2008-01-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0012172&bijlage=2&z=2008-01-01&g=2008-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0012172&bijlage=3&z=2008-01-01&g=2008-01-01) (na beproeving bij eerste onderzoek).
 
 10. Ten aanzien van de veroudering bij buitenopstelling wordt de volgende proef genomen:
 
@@ -439,7 +435,7 @@ Een model van het retroreflecterende materiaal wordt opgesteld:
 
 - d. gericht naar het zuiden;
 
-- e. gedurende 12 maanden. Na de proef dient het retroreflecterende materiaal voor wat betreft kleur, luminantiefactor en retroreflectie te voldoen aan het gestelde daaromtrent in de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012172&bijlage=1&z=2005-09-01&g=2005-09-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0012172&bijlage=2&z=2005-09-01&g=2005-09-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0012172&bijlage=3&z=2005-09-01&g=2005-09-01) en mag het re-troreflecterende materiaal geen sporen vertonen van barstvorming, zichtbare corrosie of loslaten van het aluminium materiaal.
+- e. gedurende 12 maanden. Na de proef dient het retroreflecterende materiaal voor wat betreft kleur, luminantiefactor en retroreflectie te voldoen aan het gestelde daaromtrent in de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012172&bijlage=1&z=2008-01-01&g=2008-01-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0012172&bijlage=2&z=2008-01-01&g=2008-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0012172&bijlage=3&z=2008-01-01&g=2008-01-01) en mag het re-troreflecterende materiaal geen sporen vertonen van barstvorming, zichtbare corrosie of loslaten van het aluminium materiaal.
 
 11. Het Europese embleem en landenindicator vormen bij de in dit artikel bedoelde proeven een integraal onderdeel van het retroreflecterend materiaal.
 
@@ -477,7 +473,7 @@ De proefstukken VI en VII van het retroreflecterende materiaal worden gedurende 
 
 8. Ten aanzien van het versneld verkleuren wordt de volgende proef genomen:
 
-Het proefstuk VIII van het retroreflecterende materiaal dient te worden beproefd op een wijze die overeenkomt met het terzake bepaalde in de Internationale Standaard ISO R 105/V van 1 maart 1969, part. 2. Het proefstuk en het standaard kleurmonster dienen daarbij zolang te worden belicht tot de verkleuring van de kleurstandaard 7 (solubilised vat blue 5) begint. Na de proef dient het beproefde gedeelte van het proefstuk voor wat betreft kleur, luminantiefactor en retroreflectie nog te voldoen aan het gestelde daaromtrent in de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012172&bijlage=1&z=2005-09-01&g=2005-09-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0012172&bijlage=2&z=2005-09-01&g=2005-09-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0012172&bijlage=3&z=2005-09-01&g=2005-09-01) (na beproeving bij eerste onderzoek).
+Het proefstuk VIII van het retroreflecterende materiaal dient te worden beproefd op een wijze die overeenkomt met het terzake bepaalde in de Internationale Standaard ISO R 105/V van 1 maart 1969, part. 2. Het proefstuk en het standaard kleurmonster dienen daarbij zolang te worden belicht tot de verkleuring van de kleurstandaard 7 (solubilised vat blue 5) begint. Na de proef dient het beproefde gedeelte van het proefstuk voor wat betreft kleur, luminantiefactor en retroreflectie nog te voldoen aan het gestelde daaromtrent in de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012172&bijlage=1&z=2008-01-01&g=2008-01-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0012172&bijlage=2&z=2008-01-01&g=2008-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0012172&bijlage=3&z=2008-01-01&g=2008-01-01) (na beproeving bij eerste onderzoek).
 
 9. Ten aanzien van de veroudering bij buitenopstelling wordt de volgende proef genomen:
 
@@ -491,7 +487,7 @@ Een model van het retroreflecterende materiaal wordt opgesteld:
 
 - d. gericht naar het zuiden;
 
-- e. gedurende 12 maanden. Na de proef dient het retroreflecterende materiaal voor wat betreft kleur, luminantiefactor en retroreflectie te voldoen aan het gestelde daaromtrent in de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012172&bijlage=1&z=2005-09-01&g=2005-09-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0012172&bijlage=2&z=2005-09-01&g=2005-09-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0012172&bijlage=3&z=2005-09-01&g=2005-09-01) en mag het retroreflecterende materiaal geen sporen vertonen van barstvorming, zichtbare corrosie of loslaten van het aluminium materiaal.
+- e. gedurende 12 maanden. Na de proef dient het retroreflecterende materiaal voor wat betreft kleur, luminantiefactor en retroreflectie te voldoen aan het gestelde daaromtrent in de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012172&bijlage=1&z=2008-01-01&g=2008-01-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0012172&bijlage=2&z=2008-01-01&g=2008-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0012172&bijlage=3&z=2008-01-01&g=2008-01-01) en mag het retroreflecterende materiaal geen sporen vertonen van barstvorming, zichtbare corrosie of loslaten van het aluminium materiaal.
 
 ##### Artikel 19. Keurmerk
 
@@ -515,7 +511,7 @@ Een model van het retroreflecterende materiaal wordt opgesteld:
 
 1. Elk halffabrikaat, met uitzondering van witte folie en blanco kentekenplaten met een witte achtergrond, dient te zijn voorzien van een onuitwisbaar en leesbaar waarmerk.
 
-2. Het waarmerk dient overeen te komen met het model volgens [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012172&bijlage=5&z=2005-09-01&g=2005-09-01) of [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0012172&bijlage=8&z=2005-09-01&g=2005-09-01).
+2. Het waarmerk dient overeen te komen met het model volgens [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012172&bijlage=5&z=2008-01-01&g=2008-01-01) of [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0012172&bijlage=8&z=2008-01-01&g=2008-01-01).
 
 3. Het waarmerk van het halffabrikaat dient:
 
@@ -603,11 +599,11 @@ Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat te Den Haag en bij 
 
 ##### Artikel 21a
 
-[Artikel 12, twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012172&hoofdstuk=4&artikel=12&z=2005-09-01&g=2005-09-01), is van overeenkomstige toepassing op kentekenplaten volgens model 18.2 van de [bijlage bij de Regeling kentekens en kentekenplaten](onbekend) zoals deze bijlage luidde voor het tijdstip van inwerkingtreding van de [wet van 12 mei 2005 tot wijziging van de Wegenverkeerswet 1994 en enkele andere wetten in verband met de invoering van een kentekenregistratiesysteem voor bromfietsen alsmede vaststelling van overgangsbepalingen in verband daarmee](https://wetten.overheid.nl/jci1.3:c:BWBR0018326) (Stb. 281), die zijn afgegeven na 31 augustus 2002 doch voor 1 september 2005.
+[Artikel 12, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012172&hoofdstuk=4&artikel=12&z=2008-01-01&g=2008-01-01), is van overeenkomstige toepassing op kentekenplaten volgens model 18.2 van de [bijlage bij de Regeling kentekens en kentekenplaten](onbekend) zoals deze bijlage luidde voor het tijdstip van inwerkingtreding van de [wet van 12 mei 2005 tot wijziging van de Wegenverkeerswet 1994 en enkele andere wetten in verband met de invoering van een kentekenregistratiesysteem voor bromfietsen alsmede vaststelling van overgangsbepalingen in verband daarmee](https://wetten.overheid.nl/jci1.3:c:BWBR0018326) (Stb. 281), die zijn afgegeven na 31 augustus 2002 doch voor 1 september 2005.
 
 ##### Artikel 21b
 
-In afwijking van [artikel 19, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012172&hoofdstuk=4&artikel=19&z=2005-09-01&g=2005-09-01), mag bij kentekenplaten volgens model 18.2 van de [bijlage bij de Regeling kentekens en kentekenplaten](onbekend) zoals deze bijlage luidde voor het tijdstip van inwerkingtreding van de [wet van 12 mei 2005 tot wijziging van de Wegenverkeerswet 1994 en enkele andere wetten in verband met de invoering van een kentekenregistratiesysteem voor bromfietsen alsmede vaststelling van overgangsbepalingen in verband daarmee](https://wetten.overheid.nl/jci1.3:c:BWBR0018326) (Stb. 281, indien de ruimte boven de tweede streep onvoldoende is, het keurmerk onder de tweede streep zijn aangebracht.
+In afwijking van [artikel 19, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012172&hoofdstuk=4&artikel=19&z=2008-01-01&g=2008-01-01), mag bij kentekenplaten volgens model 18.2 van de [bijlage bij de Regeling kentekens en kentekenplaten](onbekend) zoals deze bijlage luidde voor het tijdstip van inwerkingtreding van de [wet van 12 mei 2005 tot wijziging van de Wegenverkeerswet 1994 en enkele andere wetten in verband met de invoering van een kentekenregistratiesysteem voor bromfietsen alsmede vaststelling van overgangsbepalingen in verband daarmee](https://wetten.overheid.nl/jci1.3:c:BWBR0018326) (Stb. 281, indien de ruimte boven de tweede streep onvoldoende is, het keurmerk onder de tweede streep zijn aangebracht.
 
 ## Bijlage 6
 
