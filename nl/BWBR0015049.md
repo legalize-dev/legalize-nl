@@ -4,7 +4,7 @@ identifier: "BWBR0015049"
 country: "nl"
 rank: "wet"
 publication_date: "2018-09-19"
-last_updated: "2005-01-01"
+last_updated: "2008-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0015049"
 soort: "wet"
@@ -51,7 +51,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - a. Onze Minister: Onze Minister van Justitie;
 
-- b. registratie: de verzameling van gegevens die verwerkt worden ten behoeve van het doeleinde beschreven in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015049&paragraaf=1&artikel=2&z=2005-01-01&g=2005-01-01);
+- b. registratie: de verzameling van gegevens die verwerkt worden ten behoeve van het doeleinde beschreven in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015049&paragraaf=1&artikel=2&z=2008-01-01&g=2008-01-01);
 
 - c. gegeven: een persoonsgegeven als bedoeld in [artikel 1, onder a, van de Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=1) en elk ander gegeven dat verband houdt met het bestuur van een vennootschap;
 
@@ -59,7 +59,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - e. verklaring van geen bezwaar: de verklaring van Onze Minister dat hem van geen bezwaren is gebleken voor de oprichting of statutenwijziging van een vennootschap, voor de omzetting van een naamloze vennootschap in een besloten vennootschap of omgekeerd, alsmede voor de omzetting van een andere rechtspersoon in een vennootschap, een en ander als bedoeld in de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=18), [64, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=64), [72, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=72), [125, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=125), [175, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=175), [183, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=183), en [235, eerste lid van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=235);
 
-- f. vaste gebruiker: de instantie of persoon die is aangewezen overeenkomstig [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015049&paragraaf=4&artikel=5&z=2005-01-01&g=2005-01-01).
+- f. vaste gebruiker: de instantie of persoon die is aangewezen overeenkomstig [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015049&paragraaf=4&artikel=5&z=2008-01-01&g=2008-01-01).
 
 ##### Artikel 2
 
@@ -71,7 +71,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 3
 
-1. In de registratie kunnen, met het oog op het in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015049&paragraaf=1&artikel=2&z=2005-01-01&g=2005-01-01), bedoelde doeleinde, gegevens worden opgenomen die afkomstig zijn van:
+1. In de registratie kunnen, met het oog op het in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015049&paragraaf=1&artikel=2&z=2008-01-01&g=2008-01-01), bedoelde doeleinde, gegevens worden opgenomen die afkomstig zijn van:
 
 - a. het ten behoeve van de verkrijging van een verklaring van geen bezwaar ingevulde aanvraagformulier;
 
@@ -79,7 +79,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - c. de dossiers ten behoeve van de uitvoering van de [artikelen 138, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=138), [50a](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=50a), [53a](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=53a), [248, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=248) en [300a van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=300a);
 
-- d. openbare registers bij de wet ingesteld en
+- d. de in [artikel 1, onderdeel g, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=1) bedoelde bestuursorganen, voorzover het politiegegevens betreft;
 
 - e. openbare informatie.
 
@@ -119,7 +119,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 3. In de registratie kunnen verwijzingen worden opgenomen over:
 
-- a. de bronnen, bedoeld in [artikel 3, eerste lid, onder c, d en e, en het tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015049&paragraaf=2&artikel=3&z=2005-01-01&g=2005-01-01), teneinde verdere gegevens voor het doel van de registratie te kunnen opvragen en
+- a. de bronnen, bedoeld in [artikel 3, eerste lid, onder c, d en e, en het tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015049&paragraaf=2&artikel=3&z=2008-01-01&g=2008-01-01), teneinde verdere gegevens voor het doel van de registratie te kunnen opvragen en
 
 - b. de vaste gebruikers, opdat Onze Minister gegevens kan verstrekken ter gelegenheid van een wijziging in de registratie.
 
@@ -135,13 +135,13 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 3. Indien verstrekking van persoonsgegevens uit de registratie plaatsvindt aan andere instanties of personen, wordt van die verstrekking en het doeleinde daarvan aantekening gehouden. De aantekening wordt gedurende drie jaren bewaard.
 
-4. De verstrekking van gegevens over natuurlijke personen die niet rechtstreeks verbonden zijn met het bestuur van een rechtspersoon geschiedt slechts met toestemming van de betrokkene, tenzij de verstrekking noodzakelijk is voor de opsporing van een strafbaar feit als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015049&paragraaf=1&artikel=2&z=2005-01-01&g=2005-01-01).
+4. De verstrekking van gegevens over natuurlijke personen die niet rechtstreeks verbonden zijn met het bestuur van een rechtspersoon geschiedt slechts met toestemming van de betrokkene, tenzij de verstrekking noodzakelijk is voor de opsporing van een strafbaar feit als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015049&paragraaf=1&artikel=2&z=2008-01-01&g=2008-01-01).
 
 5. Ten behoeve van een verkennend onderzoek als bedoeld in [artikel 126gg van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126gg) kunnen de gegevens uit de registratie worden verstrekt of anderszins verwerkt in samenhang met een andere verzameling van persoonsgegevens, zonder beperking tot het individuele geval voor zover dit noodzakelijk is voor dat onderzoek.
 
 ##### Artikel 6
 
-Onze Minister kan uit eigen beweging ter uitvoering van [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015049&paragraaf=1&artikel=2&z=2005-01-01&g=2005-01-01), in individuele gevallen gegevens die in de registratie zijn opgenomen, verstrekken:
+Onze Minister kan uit eigen beweging ter uitvoering van [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015049&paragraaf=1&artikel=2&z=2008-01-01&g=2008-01-01), in individuele gevallen gegevens die in de registratie zijn opgenomen, verstrekken:
 
 - a. aan de vaste gebruikers, die deze in verband met de uitoefening van hun taak behoeven, over de personen ten aanzien van wie zij zulks kenbaar hebben gemaakt;
 
@@ -155,13 +155,13 @@ Er worden geen gegevens verstrekt die afkomstig zijn van:
 
 - b. het Uitvoeringsinstituut werknemersverzekeringen;
 
-- c. de in [artikel 1, onderdeel f, van de Wet politieregisters](https://wetten.overheid.nl/jci1.3:c:BWBR0004798&artikel=1) bedoelde bestuursorganen, voorzover het een politieregister betreft;
+- c. de in [artikel 1, onderdeel g, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=1) bedoelde bestuursorganen, voorzover het politiegegevens betreft;
 
 - d. Onze Minister van Financiën, voorzover het gegevens betreft die verstrekt worden door de rijksbelastingdienst;
 
 - e. Onze Minister van Economische Zaken, voorzover het gegevens betreft die verstrekt worden door de Nederlandse Mededingingsautoriteit, bedoeld in [artikel 2, eerste lid van de Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=2) en
 
-- f. bestuursorganen en diensten die met de opsporing van strafbare feiten of met het toezicht op financiële instellingen zijn belast bedoeld in [artikel 3, tweede lid, onder f, van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015049&paragraaf=2&artikel=3&z=2005-01-01&g=2005-01-01).
+- f. bestuursorganen en diensten die met de opsporing van strafbare feiten of met het toezicht op financiële instellingen zijn belast bedoeld in [artikel 3, tweede lid, onder f, van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015049&paragraaf=2&artikel=3&z=2008-01-01&g=2008-01-01).
 
 ##### Artikel 8
 
@@ -177,13 +177,13 @@ Er worden geen gegevens verstrekt die afkomstig zijn van:
 
 2. Indien een verzoek tot afgifte van een verklaring van geen bezwaar wordt afgewezen dan wel ingetrokken, worden de in het aanvraagformulier opgenomen persoonsgegevens alsmede de gronden voor afwijzing dan wel intrekking van het verzoek verwijderd uiterlijk acht jaren nadat de beslissing houdende afwijzing onherroepelijk is geworden dan wel het verzoek is ingetrokken.
 
-3. Persoonsgegevens als bedoeld in [artikel 3, eerste lid, onder b tot en met d en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015049&paragraaf=2&artikel=3&z=2005-01-01&g=2005-01-01), worden, tenzij [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015049&paragraaf=1&artikel=2&z=2005-01-01&g=2005-01-01), zich hiertegen verzet, verwijderd zodra:
+3. Persoonsgegevens als bedoeld in [artikel 3, eerste lid, onder b tot en met d en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015049&paragraaf=2&artikel=3&z=2008-01-01&g=2008-01-01), worden, tenzij [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015049&paragraaf=1&artikel=2&z=2008-01-01&g=2008-01-01), zich hiertegen verzet, verwijderd zodra:
 
 - a. op een verzoek tot afgifte van een verklaring van geen bezwaar afwijzend is beslist of
 
 - b. het verzoek tot afgifte van een verklaring van geen bezwaar is ingetrokken.
 
-4. Er vindt ten minste eenmaal per jaar een onderzoek plaats naar de noodzaak om de opname van verwijzingen als bedoeld in [artikel 4, derde lid, van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015049&paragraaf=3&artikel=4&z=2005-01-01&g=2005-01-01) in de registratie te handhaven. Indien de noodzaak is komen te vervallen, worden verwijzingen uit de registratie verwijderd.
+4. Er vindt ten minste eenmaal per jaar een onderzoek plaats naar de noodzaak om de opname van verwijzingen als bedoeld in [artikel 4, derde lid, van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015049&paragraaf=3&artikel=4&z=2008-01-01&g=2008-01-01) in de registratie te handhaven. Indien de noodzaak is komen te vervallen, worden verwijzingen uit de registratie verwijderd.
 
 #### Paragraaf 6. Wijzigingen in andere regelingen
 
@@ -199,7 +199,7 @@ Wijzigt de Wet politieregisters.
 
 ##### Artikel 12
 
-Onze Minister brengt jaarlijks een openbaar verslag uit over het functioneren van de registratie, onder vermelding van het aantal malen dat gegevens verstrekt zijn aan instanties of personen als bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015049&paragraaf=4&artikel=5&z=2005-01-01&g=2005-01-01), alsmede onder aanduiding van de instanties en personen en de doeleinden van de verstrekking.
+Onze Minister brengt jaarlijks een openbaar verslag uit over het functioneren van de registratie, onder vermelding van het aantal malen dat gegevens verstrekt zijn aan instanties of personen als bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015049&paragraaf=4&artikel=5&z=2008-01-01&g=2008-01-01), alsmede onder aanduiding van de instanties en personen en de doeleinden van de verstrekking.
 
 ##### Artikel 13
 
