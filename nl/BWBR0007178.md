@@ -4,7 +4,7 @@ identifier: "BWBR0007178"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2007-01-01"
+last_updated: "2008-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007178"
 soort: "AMvB"
@@ -49,7 +49,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-1. Dit besluit geeft uitvoering aan de [artikelen 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=6), [10a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=10a), [11h, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=11h), [11i, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=11i), [11j, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=11j), [12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=12), [18, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=18), [18b, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=18b), [18c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=18c), [25, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=25), [26, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=26), [27, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=27), [28, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=28), [36c, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36c), [36e, zesde en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36e), [36i, elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36i), [36j, tweede en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36j), [36k, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36k), [36l, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36l), [36m, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36m), en [38, eerste lid, van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=38).
+1. Dit besluit geeft uitvoering aan de [artikelen 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=6), [20, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=20), [22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=22), [27, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=27), [28, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=28), [33, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=33), [35, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=35), [44, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=44), [45, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=45), [54, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=54), [59, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=59), [64, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=64), [66, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=66), [67, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=67), [68, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=68), [69, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=69), [70, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=70), en [93, eerste lid, van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=93).
 
 2. In dit besluit wordt verstaan onder de wet: de [Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168).
 
@@ -59,41 +59,51 @@ Hebben goedgevonden en verstaan:
 
 1. Ter vaststelling van de hoeveelheid onttrokken grondwater en van de hoeveelheid geïnfiltreerd water is de houder van een inrichting gehouden deze hoeveelheden te meten met behulp van watermeters.
 
-2. Het eerste lid is niet van toepassing in die gevallen waarin met toepassing van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=II&artikel=3&z=2007-01-01&g=2007-01-01) geen verplichting bestaat tot het voeren van een administratie.
+2. Het eerste lid is niet van toepassing in die gevallen waarin met toepassing van [artikel 11, tweede en derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=11) geen verplichting bestaat tot het voeren van een administratie.
 
-3. De watermeters, bedoeld in het eerste lid, zijn zodanig nauwkeurig dat het meetresultaat in enige maand niet meer dan vijf procent afwijkt van de werkelijk onttrokken hoeveelheid grondwater dan wel van de werkelijk geïnfiltreerde hoeveelheid water.
+3. De watermeters, bedoeld in het eerste lid, zijn zodanig nauwkeurig dat het meetresultaat in enig kwartaal niet meer dan vijf procent afwijkt van de werkelijk onttrokken hoeveelheid grondwater dan wel van de werkelijk geïnfiltreerde hoeveelheid water.
 
-4. In afwijking van het derde lid geldt voor onttrekkingen voor doeleinden als bedoeld in [artikel 8, onderdelen **b, c**, en **e**, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=8) dat het meetresultaat in enige maand niet meer dan tien procent mag afwijken van de werkelijk onttrokken hoeveelheid grondwater dan wel van de werkelijk geïnfiltreerde hoeveelheid water.
+4. In afwijking van het derde lid geldt voor onttrekkingen voor doeleinden als bedoeld in [artikel 10, eerste lid, onderdelen b en c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=10) dat het meetresultaat in enig kwartaal niet meer dan tien procent mag afwijken van de werkelijk onttrokken hoeveelheid grondwater dan wel van de werkelijk geïnfiltreerde hoeveelheid water.
 
 5. Op verzoek van de houder van een inrichting kan de inspecteur onder nader te stellen voorwaarden toestaan dat plaatsing van watermeters achterwege blijft, indien om technische dan wel financiële redenen niet in redelijkheid plaatsing hiervan kan worden gevergd en op een andere wijze tot een aanvaardbare vaststelling van de hoeveelheid onttrokken grondwater dan wel van de hoeveelheid geïnfiltreerd water kan worden gekomen.
 
-6. De inspecteur beslist op het verzoek, bedoeld in het vijfde lid, bij een voor bezwaar vatbare beschikking.
-
-7. Binnen acht weken na ontvangst van het verzoek geeft de inspecteur een beschikking op dat verzoek, dan wel zendt hij de in het achtste lid bedoelde kennisgeving.
-
-8. Indien de inspecteur de beschikking niet binnen de in het zevende lid genoemde termijn kan geven, stelt hij belanghebbende daarvan onder opgaaf van redenen in kennis en noemt hij de termijn waarop de beschikking wel zal worden afgegeven.
-
 ##### Artikel 3
 
-1. De verplichting tot het voeren van een administratie, bedoeld in [artikel 11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=11)is niet van toepassing op onttrekkingen van grondwater als bedoeld in [artikel 8, onderdelen a, d, e, f, g en i, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=8).
+1. Het verzoek om teruggaaf, bedoeld in [artikel 20, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=20) kan worden gedaan na afloop van elke kalendermaand waarin recht op teruggaaf is ontstaan, en dient uiterlijk te worden gedaan binnen dertien weken na afloop van de verbruiksperiode van twaalf maanden.
 
-2. Onder nader te stellen voorwaarden verleent de inspecteur ter zake van een onttrekking als bedoeld in [artikel 8, onderdeel **b** of **c**, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=8), op verzoek van de houder van een inrichting, ontheffing van de in [artikel 11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=11) opgenomen verplichting tot het voeren van een administratie, indien vaststaat dat de onttrekking niet langer dan twee achtereenvolgende maanden zal duren en de pompcapaciteit van de inrichting minder dan 60 kubieke meters per uur bedraagt.
-
-3. Met betrekking tot het verzoek, bedoeld in het tweede lid is [artikel 2, zesde tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=II&artikel=2&z=2007-01-01&g=2007-01-01), van overeenkomstige toepassing.
+2. Teruggaaf wordt alleen verleend indien de eindfacturen worden overgelegd.
 
 ##### Artikel 4
 
-1. De teruggaaf van de belasting, bedoeld in [artikel 10**a**, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=10a)wordt uitsluitend verleend aan degene die beschikt over een door de inspecteur afgegeven vergunning, waarin nadere technische en administratieve voorwaarden kunnen worden gesteld ter vaststelling van de betrokken hoeveelheid spoelwater.
+Voor de toepassing van [artikel 22, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=22), wordt de toepassing van stoffen, preparaten of andere producten binnen een inrichting waar afvalstoffen worden gestort, geacht hetzij verband te houden met de bedrijfsvoering van de inrichting, hetzij deel uit te maken van het bedrijfsproces dat leidt tot de nuttige toepassing of verwijdering van afvalstoffen, indien de stoffen, preparaten of andere producten in de inrichting dienen voor dan wel bestaan uit:
 
-2. De vergunning, bedoeld in het eerste lid, wordt aangevraagd bij de inspecteur voordat het eerste tijdvak waarover teruggaaf wordt gevraagd, is aangevangen.
+- a. materiaal voor het realiseren en onderhouden van een afrastering;
 
-3. Op de aanvraag voor de vergunning is [artikel 2, zesde tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=II&artikel=2&z=2007-01-01&g=2007-01-01), van overeenkomstige toepassing.
+- b. materiaal voor het realiseren van de onderafdichtingsconstructie, de geohydrologische maatregelen en het controlesysteem zoals verlangd in het [Stortbesluit bodembescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0005858), de [Regeling stortplaatsen voor baggerspecie op land](https://wetten.overheid.nl/jci1.3:c:BWBR0012665), dan wel de Richtlijnen voor baggerspeciestortplaatsen in het beleidsstandpunt «Verwijdering baggerspecie» (kamerstukken II 1993/94, 23 450, nr. 1);
 
-4. Het tijdvak waarover de teruggaaf wordt verleend is het kalenderkwartaal. De inspecteur kan op verzoek een ander tijdvak aanwijzen.
+- c. materiaal voor het realiseren van de bovenafdichtingsconstructie zoals verlangd in het [Stortbesluit bodembescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0005858), de [Regeling stortplaatsen voor baggerspecie op land](https://wetten.overheid.nl/jci1.3:c:BWBR0012665), dan wel de Richtlijnen voor baggerspeciestortplaatsen in het beleidsstandpunt «Verwijdering baggerspecie» (kamerstukken II 1993/94, 23 450, nr. 1);
 
-5. Het verzoek om teruggaaf wordt gedaan binnen dertien weken na het einde van het tijdvak, bedoeld in het vierde lid.
+- d. (riool)buizen voor de opvang en afvoer van percolaat en neerslag en materiaal voor installaties voor de behandeling van percolaat en neerslag;
 
-### Hoofdstuk IIA. Belasting op leidingwater
+- e. verzamelleidingen voor de opvang en afvoer van stortgas in de egalisatie- of steunlaag en materiaal voor installaties voor de behandeling van stortgas;
+
+- f. het realiseren en in werking houden van nutsvoorzieningen;
+
+- g. het realiseren en in werking houden van installaties voor het be- of verwerken van afvalstoffen;
+
+- h. het operationeel houden van kantoren, van de controle- en registratieposten, van een laboratorium, van werkplaatsen, van het aanwezige rollende materieel en van de wasplaats;
+
+- i. materiaal voor het realiseren en in stand houden van bouwwerken;
+
+- j. materiaal voor het realiseren en in stand houden van een terreinverharding buiten het deel van de stortplaats, al dan niet in compartimenten onderverdeeld, waar tussen een onderafdichtings- en een bovenafdichtingsconstructie, als verlangd in het [Stortbesluit bodembescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0005858), in de [Regeling stortplaatsen voor baggerspecie op land](https://wetten.overheid.nl/jci1.3:c:BWBR0012665), dan wel in de Richtlijnen voor baggerspeciestortplaatsen in het beleidsstandpunt «Verwijdering baggerspecie» (kamerstukken II 1993/94, 23 450, nr. 1), afvalstoffen worden gestort (stortlichaam);
+
+- k. ongediertebestrijding;
+
+- l. bouwstoffen als bedoeld in [artikel 1 van het Besluit bodemkwaliteit](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&artikel=1), die voorzien zijn van een overeenkomstig bij of krachtens [dat besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022929) gestelde regels afgegeven erkende kwaliteitsverklaring, partijkeuring of fabrikant-eigenverklaring waaruit blijkt dat zij voldoen aan de voorwaarden, bedoeld in [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&artikel=28), of [artikel 30, eerste lid, van dat besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&artikel=30) en die worden toegepast in een voorziening, die op grond van de voor de inrichting verleende vergunning, bedoeld in [artikel 8.1, eerste lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.1), binnen de inrichting is aangebracht;
+
+- m. grond als bedoeld in [artikel 1 van het Besluit bodemkwaliteit](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&artikel=1), die voorzien is van een overeenkomstig bij of krachtens [dat besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022929) gestelde regels afgegeven erkende kwaliteitsverklaring, partijkeuring of fabrikant-eigenverklaring waaruit blijkt dat de kwaliteit van de grond de maximale waarde voor de bodemfunctieklasse industrie, bedoeld in [artikel 55, tweede lid, van dat besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&artikel=55), niet overschrijdt en die wordt toegepast in een voorziening, die op grond van de voor de inrichting verleende vergunning, bedoeld in [artikel 8.1, eerste lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.1), binnen de inrichting is aangebracht.
+
+### Hoofdstuk IV. Afvalstoffenbelasting
 
 ##### Artikel 4a
 
@@ -113,31 +123,9 @@ Voor de toepassing van [artikel 11i, eerste lid, van de wet](https://wetten.over
 
 ##### Artikel 5
 
-Voor de toepassing van [artikel 12, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=12), wordt de toepassing van stoffen, preparaten of andere producten binnen een inrichting waar afvalstoffen worden gestort, geacht hetzij verband te houden met de bedrijfsvoering van de inrichting, hetzij deel uit te maken van het bedrijfsproces dat leidt tot de nuttige toepassing of verwijdering van afvalstoffen, indien de stoffen, preparaten of andere producten in de inrichting dienen voor dan wel bestaan uit:
+1. Het tarief, bedoeld in [artikel 28, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=28), is op de afvalstoffen, bedoeld in [artikel 28, tweede lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=28), slechts van toepassing indien aan de [artikelen 6 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=IV&artikel=6&z=2008-01-01&g=2008-01-01) wordt voldaan.
 
-- a. materiaal voor het realiseren en onderhouden van een afrastering;
-
-- b. materiaal voor het realiseren van de onderafdichtingsconstructie, de geohydrologische maatregelen en het controlesysteem zoals verlangd in het [Stortbesluit bodembescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0005858), de Regeling stortplaatsen voor baggerspecie op land, dan wel de Richtlijnen voor baggerspeciestortplaatsen in het beleidsstandpunt «Verwijdering baggerspecie» (kamerstukken II 1993/94, 23 450, nr. 1);
-
-- c. materiaal voor het realiseren van de bovenafdichtingsconstructie zoals verlangd in het [Stortbesluit bodembescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0005858), de Regeling stortplaatsen voor baggerspecie op land, dan wel de Richtlijnen voor baggerspeciestortplaatsen in het beleidsstandpunt «Verwijdering baggerspecie» (kamerstukken II 1993/94, 23 450, nr. 1);
-
-- d. (riool)buizen voor de opvang en afvoer van percolaat en neerslag en materiaal voor installaties voor de behandeling van percolaat en neerslag;
-
-- e. verzamelleidingen voor de opvang en afvoer van stortgas in de egalisatie- of steunlaag en materiaal voor installaties voor de behandeling van stortgas;
-
-- f. het realiseren en in werking houden van nutsvoorzieningen;
-
-- g. het realiseren en in werking houden van installaties voor het be- of verwerken van afvalstoffen;
-
-- h. het operationeel houden van kantoren, van de controle- en registratieposten, van een laboratorium, van werkplaatsen, van het aanwezige rollende materieel en van de wasplaats;
-
-- i. materiaal voor het realiseren en in stand houden van bouwwerken;
-
-- j. materiaal voor het realiseren en in stand houden van een terreinverharding buiten het deel van de stortplaats, al dan niet in compartimenten onderverdeeld, waar tussen een onderafdichtings- en een bovenafdichtingsconstructie, als verlangd in het [Stortbesluit bodembescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0005858), in de Regeling stortplaatsen voor baggerspecie op land, dan wel in de Richtlijnen voor baggerspeciestortplaatsen in het beleidsstandpunt «Verwijdering baggerspecie» (kamerstukken II 1993/94, 23 450, nr. 1), afvalstoffen worden gestort (stortlichaam);
-
-- k. ongediertebestrijding;
-
-- l. bouwstoffen als bedoeld in [artikel 1, eerste lid, onderdeel b, van het Bouwstoffenbesluit bodem- en oppervlaktewaterenbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0007667&artikel=1), die voorzien zijn van een kwaliteitsverklaring als bedoeld in de [artikelen 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007667&artikel=5), [9, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007667&artikel=9), of [22, zesde lid, van dat besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007667&artikel=22) of een overeenkomstig de bij of krachtens dat besluit gestelde regels uitgevoerde partijkeuring en die worden toegepast in een voorziening, die op grond van de voor de inrichting verleende vergunning, bedoeld in [artikel 8.1, eerste lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.1), binnen de inrichting is aangebracht.
+2. De volumieke massa van de aangevoerde afvalstoffen wordt bepaald door het gewicht van de afvalstoffen te delen door de met het registratienummer van de container, kipwagen of het vaartuig corresponderende inhoud.
 
 ##### Artikel 5a
 
@@ -185,13 +173,7 @@ Voor de bepaling van het verschuldigde tarief van de afvalstoffenbelasting over 
 
 ##### Artikel 6
 
-1. De teruggaaf van de belasting, bedoeld in [18b, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=18b), wordt uitsluitend verleend aan degene die beschikt over een door de inspecteur afgegeven vergunning, waarin nadere voorwaarden kunnen worden gesteld ter vaststelling van de betrokken hoeveelheid stoffen, preparaten of andere producten ter zake waarvan teruggaaf wordt gevraagd.
-
-2. Met betrekking tot de aanvraag van de vergunning, bedoeld in het eerste lid is [artikel 2, zesde tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=II&artikel=2&z=2007-01-01&g=2007-01-01), van overeenkomstige toepassing.
-
-3. Het tijdvak waarover de teruggaaf wordt verleend is het kalenderkwartaal. De inspecteur kan op verzoek een ander tijdvak aanwijzen.
-
-4. Een verzoek om teruggaaf wordt gedaan binnen dertien weken na afloop van het tijdvak, bedoeld in het derde lid.
+Voor de toepassing van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=IV&artikel=5&z=2008-01-01&g=2008-01-01) worden de afvalstoffen niet geperst aangeleverd.
 
 ##### Artikel 6a
 
@@ -225,17 +207,27 @@ Voor de toepassing van [artikel 18c, eerste lid, van de wet](https://wetten.over
 
 ##### Artikel 7
 
-1. Het tijdvak waarover de teruggaaf van belasting, bedoeld in [artikel 27 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=27), wordt verleend is het kalenderkwartaal. De inspecteur kan op verzoek een ander tijdvak aanwijzen.
+1. De afvalstoffen, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=IV&artikel=5&z=2008-01-01&g=2008-01-01), worden aangevoerd in een container, een kipwagen, een vaartuig of in een big bag waarvan de inhoud in kubieke meter bekend is.
 
-2. Het verzoek om teruggaaf wordt gedaan binnen dertien weken:
+2. De eigenaar van een container, laadbak van een kipwagen of laadruim van een vaartuig stelt de inhoud daarvan tot op één decimaal nauwkeurig vast in kubieke meter door:
 
-- a. na het einde van het in het eerste lid bedoelde tijdvak waarin de kolen anders dan als brandstof of voor duaal gebruik zijn aangewend;
+- a. de aan de binnenzijde gemeten lengte van de container, de laadbak onderscheidenlijk het laadruim te vermenigvuldigen met de breedte en de hoogte ervan, met dien verstande dat indien de lengte, de breedte of de hoogte niet overal gelijk is, steeds de grootste maat in aanmerking wordt genomen; dan wel
 
-- b. nadat de kolen de in [artikel 27, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=27) bedoelde bestemming hebben gevolgd.
+- b. vaststelling van het volume van de inwendige geometrische vorm van de container, de laadbak onderscheidenlijk het laadruim door een conform ISO/IEC 17025 geaccrediteerd laboratorium.
 
-3. Bij het verzoek om teruggaaf worden de aankoopfactuur en de relevante gegevens over de bestemming van de kolen waarop de teruggaaf betrekking heeft overgelegd.
+3. Bij de toepassing van het tweede lid, aanhef en onderdeel a, worden kopschotten buiten beschouwing gelaten.
 
-4. De administratie van degene die om teruggaaf verzoekt voldoet aan bij ministeriële regeling te stellen voorwaarden.
+4. De inhoud van een container, de laadbak van een kipwagen of het laadruim van een vaartuig, die is vastgesteld als bedoeld in het tweede lid, is op een nagelvast aangebrachte plaat aan de linker- en rechterbuitenzijde van de container, de laadbak of het laadruim vermeld.
+
+5. Op de in het vierde lid aangegeven plaat is tevens het voor de container, de kipwagen of het vaartuig unieke registratienummer aangebracht.
+
+6. De inhoud en het unieke registratienummer worden in zwarte cijfers en letters van ten minste 15 centimeter hoogte aangebracht op een gele achtergrond.
+
+7. De inhoud van een big bag is duidelijk leesbaar en op een eenvoudig waarneembare plaats in de zijwanden van de big bag in cijfers en letters van ten minste 20 cm hoogte en in een contrasterende kleur in het weefsel ingeweven of aangebracht.
+
+8. De afvalstoffen worden aangevoerd op zodanige wijze dat zij binnen de begrenzingen van de container, de laadbak, het laadruim of de big bag blijven.
+
+9. De administratie van de houder van de inrichting is zodanig ingericht dat daarin op overzichtelijke wijze is opgenomen of en op welke wijze aan de in de voorgaande leden vermelde voorwaarden al dan niet wordt voldaan.
 
 ##### Artikel 7a
 
@@ -255,7 +247,11 @@ Vervallen
 
 ##### Artikel 8
 
-Vervallen
+1. De aanbieder van de afvalstoffen, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=IV&artikel=5&z=2008-01-01&g=2008-01-01), overhandigt aan de houder van de inrichting voorafgaand aan de aanvoer een lijst van de door hem gebruikte containers, kipwagens of vaartuigen met hun inhoud en registratienummer.
+
+2. Indien de inhoud van een container, laadbak van een kipwagen of laadruim van een vaartuig is vastgesteld op de wijze, bedoeld in [artikel 7, tweede lid, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=IV&artikel=7&z=2008-01-01&g=2008-01-01), overhandigt de aanbieder van de afvalstoffen aan de houder van de inrichting tevens een gewaarmerkte kopie van het meetrapport dat door het geaccrediteerde laboratorium met betrekking tot de vaststelling van het volume is opgemaakt. De gewaarmerkte kopie bevat tevens het unieke registratienummer, bedoeld in [artikel 7, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=IV&artikel=7&z=2008-01-01&g=2008-01-01).
+
+3. De aanbieder van afvalstoffen in big bags stelt voorafgaand aan de aanvoer van de afvalstoffen de houder van de inrichting in kennis van de aanvoer van afvalstoffen in big bags en geeft daarbij aan het aantal big bags en de inhoud per big bag.
 
 ### Hoofdstuk IVA. Energiebelasting
 
@@ -383,19 +379,37 @@ Vervallen
 
 ##### Artikel 9
 
-Vervallen.
+1. Voor de bepaling van het verschuldigde tarief, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=IV&artikel=5&z=2008-01-01&g=2008-01-01), wordt de inhoud toegepast die op de plaat, bedoeld in [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=IV&artikel=7&z=2008-01-01&g=2008-01-01), is vermeld, onderscheidenlijk in de zijwanden van de big bag, bedoeld in [artikel 7, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=IV&artikel=7&z=2008-01-01&g=2008-01-01), is aangebracht, ongeacht de mate waarin de container, de laadbak, het laadruim of de big bag met afvalstoffen is gevuld.
+
+2. Indien de inhoud die op de plaat, bedoeld in [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=IV&artikel=7&z=2008-01-01&g=2008-01-01), is vermeld kennelijk niet overeenkomt met de inhoud, bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=IV&artikel=7&z=2008-01-01&g=2008-01-01), wordt in afwijking van het eerste lid de inhoud toegepast, bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=IV&artikel=7&z=2008-01-01&g=2008-01-01).
 
 ##### Artikel 10
 
-Vervallen.
+1. Het tarief, bedoeld in [artikel 28, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=28), is op de afvalstoffen, bedoeld in [artikel 28, tweede lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=28), slechts van toepassing indien de aanbieder van de afvalstoffen aan de houder van een afvalverwerkingsinrichting een ondertekende verklaring afgeeft waarin wordt aangegeven de hoeveelheid aangeboden afvalstoffen en het productieproces waarvan de afvalstoffen afkomstig zijn.
+
+2. Indien de afvalstoffen niet worden aangeboden door de producent, wordt de verklaring, bedoeld in het eerste lid, zowel door de producent als door de vervoerder ondertekend.
 
 ##### Artikel 11
 
-Dit besluit treedt in werking met ingang van de datum waarop de bepalingen van de [Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168), waarin dit besluit zijn grondslag vindt, in werking treden.
+1. Voor zover sprake is van een verwerking of bewerking van afvalstoffen die gepaard gaat met gewichtsverlies, wordt de vermindering, bedoeld in [artikel 27, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=27), zodanig toegepast dat ter zake van de stoffen, preparaten of andere producten bij het verlaten van de inrichting wordt uitgegaan van de belasting die verschuldigd werd bij de afgifte ter verwijdering van de afvalstoffen waaruit zij zijn ontstaan.
+
+2. Het verhoudingsgetal, bedoeld in [artikel 27, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=27), wordt uitsluitend toegepast door degene die beschikt over een door de inspecteur afgegeven vergunning. In deze vergunning kan de inspecteur nadere voorwaarden stellen met betrekking tot de administratie.
 
 ##### Artikel 12
 
-Dit besluit wordt aangehaald als: Uitvoeringsbesluit belastingen op milieugrondslag.
+1. Het vervoer van kolen, bedoeld in [artikel 33, derde lid, onderdeel a, b of c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=33), naar een inrichting, een andere lidstaat via Nederland of een derde land, wordt aangetoond met een bescheid.
+
+2. In het bescheid, bedoeld in het eerste lid, worden vermeld:
+
+- a. de naam en het adres van degene van wie de kolen afkomstig zijn;
+
+- b. de naam en het adres van degene naar wie de kolen worden vervoerd;
+
+- c. de naam en het adres van degene die de kolen vervoert;
+
+- d. de hoeveelheid kolen, en
+
+- e. de datum waarop het vervoer van de kolen is aangevangen.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
 
@@ -426,5 +440,299 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 In de gevallen waarin een voorschotnota wordt uitgereikt of, indien geen voorschotnota wordt uitgereikt, een voorschotbedrag wordt ontvangen, dient bij de berekening van het voorschot naar evenredigheid rekening te worden gehouden met de belastingvermindering, bedoeld in [artikel 36j, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36j).
 
 ### Hoofdstuk V. Slotbepalingen
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
+
+### Hoofdstuk III. Belasting op leidingwater
+
+### Hoofdstuk V. Kolenbelasting
+
+##### Artikel 13
+
+De in [artikel 33, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=33) bedoelde personen of publiekrechtelijke lichamen richten hun administratie zodanig in dat daarin op overzichtelijke wijze alle voor de heffing van kolen van belang zijnde gegevens zijn opgenomen.
+
+##### Artikel 14
+
+1. Het brengen, bedoeld in [artikel 35, tweede lid, onderdelen a en d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=35), van kolen vanuit een derde land of vanuit een plaats voor tijdelijke opslag naar een inrichting, alsmede het brengen, bedoeld in [artikel 35, tweede lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=35), van kolen die zijn geplaatst onder een communautaire douaneregeling naar een inrichting, wordt bij het aangeven voor het vrije verkeer van de kolen op grond van de wettelijke bepalingen, bedoeld in [artikel 2, tweede lid, onderdeel a, van de Douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0007632&artikel=2), aangetoond met een vervoersopdracht. De vervoersopdracht wordt opgemaakt door de vergunninghouder van de inrichting waarnaar de kolen worden overgebracht, dan wel in diens opdracht.
+
+2. Op de in het eerste lid bedoelde vervoersopdracht wordt een verklaring gesteld van de vergunninghouder van de inrichting waarnaar de kolen zullen worden overgebracht dat de kolen worden overgebracht naar zijn inrichting en in de administratie van zijn inrichting worden opgenomen.
+
+3. De in het eerste lid bedoelde kolen moeten hun bestemming hebben bereikt binnen één maand na het tijdstip waarop de vereiste aangifte op grond van de wettelijke bepalingen, bedoeld in [artikel 2, tweede lid, onderdeel a, van de Douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0007632&artikel=2), is gedaan.
+
+##### Artikel 15
+
+Het brengen, bedoeld in [artikel 35, tweede lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=35), van kolen vanuit een derde land naar een plaats voor tijdelijke opslag, het in Nederland plaatsen onder een communautaire douaneregeling van vanuit een derde land binnengebrachte kolen, bedoeld in [artikel 35, tweede lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=35), alsmede het onder ambtelijk toezicht vernietigen van kolen die onder een communautaire douaneregeling zijn geplaatst, bedoeld in [artikel 35, derde lid, onderdeel e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=35), geschiedt met inachtneming van de formaliteiten die op grond van de wettelijke bepalingen, bedoeld in [artikel 2, tweede lid, onderdeel a, van de Douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0007632&artikel=2), moeten worden vervuld.
+
+##### Artikel 16
+
+1. In de vervoersopdracht, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=V&artikel=14&z=2008-01-01&g=2008-01-01), worden vermeld:
+
+- a. de naam en het adres van degene die de vervoersopdracht opmaakt dan wel van degene in wiens opdracht zij wordt opgemaakt;
+
+- b. de naam en het adres van degene die de kolen overbrengt;
+
+- c. de naam en het adres van de vergunninghouder van de inrichting waarnaar de kolen worden overgebracht en het adres van die inrichting;
+
+- d. de hoeveelheid kolen, en
+
+- e. de datum waarop de overbrenging van de kolen aanvangt.
+
+2. De vervoersopdracht is gedagtekend en ondertekend.
+
+3. Indien een persoon als bedoeld in het eerste lid vergunninghouder is van een inrichting, wordt tevens het nummer van zijn vergunning vermeld.
+
+4. De vergunninghouder van de inrichting die de vervoersopdracht heeft opgemaakt of heeft doen opmaken, bewaart afschriften van de vervoersopdrachten op overzichtelijke wijze bij zijn administratie.
+
+##### Artikel 17
+
+1. De vrijstellingen, bedoeld in [artikel 44, eerste, tweede en derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=44), worden verleend, indien:
+
+- a. degene die de kolen gebruikt, verklaart dat de aan hem te leveren kolen worden gebruikt op de in [artikel 44, eerste, tweede of derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=44) bedoelde wijze;
+
+- b. de verklaring geschiedt met gebruikmaking van een door de vergunninghouder van de inrichting opgesteld bescheid in geval van uitslag of met gebruikmaking van een door degene die de levering verricht opgesteld bescheid in geval van invoer;
+
+- c. degene die de kolen gebruikt, de verklaring heeft ondertekend, en
+
+- d. de verklaring op overzichtelijke wijze wordt bewaard bij de administratie van de vergunninghouder van de inrichting in geval van uitslag en bij de administratie van degene die de aangifte tot plaatsing onder de douaneregeling brengen in het vrije verkeer doet, in geval van invoer.
+
+2. De vrijstelling, bedoeld in [artikel 44, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=44), wordt niet verleend indien de kolen worden gebruikt in een installatie voor het opwekken van elektriciteit met een elektrisch vermogen van minder dan 60 kW.
+
+3. Degene die de kolen gebruikt, richt zijn administratie zodanig in dat daarin op overzichtelijke wijze de gegevens zijn opgenomen omtrent alle voor de vrijstellingen, bedoeld in [artikel 44, eerste, tweede en derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=44), van belang zijnde bedrijfshandelingen.
+
+##### Artikel 18
+
+1. Het tijdvak waarover een teruggaaf van belasting als bedoeld in [artikel 45, eerste of tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=45), wordt verleend is het kalenderkwartaal. De inspecteur kan op verzoek een ander tijdvak aanwijzen.
+
+2. Het verzoek om teruggaaf wordt gedaan binnen dertien weken:
+
+- a. na het einde van het in het eerste lid bedoelde tijdvak waarin de kolen zijn gebruikt op een in [artikel 44, eerste tot en met derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=44) bedoelde wijze;
+
+- b. nadat de kolen de in [artikel 45, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=45) bedoelde bestemming hebben gevolgd.
+
+3. Bij het verzoek om teruggaaf worden de aankoopfactuur en de van belang zijnde gegevens over de bestemming van de kolen waarop de teruggaaf betrekking heeft overgelegd.
+
+4. [Artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=V&artikel=17&z=2008-01-01&g=2008-01-01), is van overeenkomstige toepassing op de teruggaaf, bedoeld in [artikel 44, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=44).
+
+5. De administratie van degene die om teruggaaf verzoekt, voldoet aan bij ministeriële regeling te stellen voorwaarden.
+
+### Hoofdstuk VI. Energiebelasting
+
+##### Artikel 19
+
+1. Het verzoek om een vergunning voor een fiscaal vertegenwoordiger, bedoeld in [artikel 54, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=54), bevat de volgende gegevens:
+
+- a. naam en adres van de verzoeker;
+
+- b. het beoogde tijdstip van aanvang van het fiscaal-vertegenwoordigerschap;
+
+- c. naam en adres van de degene die de levering aan de verbruiker verricht en die niet in Nederland is gevestigd en aldaar geen vaste inrichting heeft van waaruit de levering wordt verricht (in dit artikel: buitenlandse leverancier).
+
+2. Een vergunning voor een fiscaal vertegenwoordiger wordt slechts verleend indien de verzoeker:
+
+- a. in Nederland woont of is gevestigd;
+
+- b. in de afgelopen vijf jaren niet wegens overtreding van de wettelijke bepalingen inzake rijksbelastingen dan wel douane onherroepelijk is veroordeeld;
+
+- c. een administratie voert die voldoet aan bij ministeriële regeling te stellen voorwaarden;
+
+- d. naar het oordeel van de inspecteur voldoende solvabel is.
+
+3. De verlening van een vergunning voor een fiscaal vertegenwoordiger is tevens gebonden aan de voorwaarde dat de verzoeker optreedt voor alle leveringen als bedoeld in [artikel 54, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=54). De inspecteur kan op verzoek hiervan afwijken.
+
+4. De inspecteur kan de vergunning intrekken of wijzigen:
+
+- a. op verzoek van de fiscaal vertegenwoordiger met schriftelijke instemming van de buitenlandse leverancier;
+
+- b. op verzoek van de buitenlandse leverancier;
+
+- c. indien de fiscaal vertegenwoordiger niet meer voldoet aan de aan de vergunning gebonden voorwaarden.
+
+De buitenlandse leverancier wordt van de intrekking van de vergunning in kennis gesteld, alsmede van de gronden waarop deze berust.
+
+##### Artikel 20
+
+1. De tarieven voor zakelijk verbruik, bedoeld in [artikel 59, eerste lid, onderdelen a en c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=59), zijn van toepassing indien de verbruiker een verklaring heeft overgelegd aan degene die het aardgas of de elektriciteit aan hem levert, dat het verbruik van dat aardgas of die elektriciteit zakelijk verbruik betreft als bedoeld in [artikel 47, eerste lid, onderdeel t, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=47).
+
+2. De verbruiker dient:
+
+- a. zijn administratie zodanig in te richten dat daarin op overzichtelijke wijze de gegevens zijn opgenomen omtrent alle voor de toepassing van het tarief voor zakelijk verbruik van belang zijnde bedrijfshandelingen;
+
+- b. ter vaststelling van de hoeveelheid aardgas of elektriciteit waarop de tarieven bedoeld in het eerste lid zien, deze hoeveelheid te meten met behulp van meters indien het aardgas of de elektriciteit mede betrokken wordt voor niet-zakelijk verbruik als bedoeld in [artikel 47, eerste lid, onderdeel u, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=47).
+
+3. Wijzigingen in de situatie die van invloed zijn op de toepassing van de tarieven, bedoeld in het eerste lid, worden onmiddellijk gemeld aan degene die het aardgas of de elektriciteit levert.
+
+##### Artikel 21
+
+1. Het tarief als bedoeld in [artikel 59, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=59) is van toepassing indien de verbruiker een verklaring heeft overgelegd aan degene die het aardgas aan hem levert, dat het aardgas uitsluitend wordt aangewend in een CNG-vulstation.
+
+2. De verbruiker dient overeenkomstig de in het eerste lid bedoelde verklaring te handelen. Indien niet meer overeenkomstig de verklaring gehandeld wordt, meldt de verbruiker dat onmiddellijk aan degene die het aardgas levert.
+
+##### Artikel 22
+
+1. De vrijstelling, bedoeld in [artikel 64, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=64), wordt verleend indien degene die aardgas of elektriciteit gebruikt, een verklaring heeft overgelegd aan degene die dat aardgas of die elektriciteit aan hem heeft geleverd, dat hij dat aardgas of die elektriciteit gebruikt op een in [artikel 64, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=64) bedoelde wijze.
+
+2. Geen vrijstelling wordt verleend indien de in [artikel 64, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=64) bedoelde installatie een elektrisch vermogen heeft van minder dan 60 kW.
+
+3. De vrijstelling, bedoeld in [artikel 64, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=64), wordt verleend indien degene die de elektriciteit gebruikt een verklaring heeft overgelegd aan degene die die elektriciteit aan hem heeft geleverd, dat hij die elektriciteit gebruikt op de in [artikel 64, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=64) bedoelde wijze.
+
+4. De vrijstelling, bedoeld in [artikel 64, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=64), wordt verleend indien degene die het aardgas gebruikt een verklaring heeft overgelegd aan degene die dat aardgas aan hem heeft geleverd, dat hij dat aardgas gebruikt op de in [artikel 64, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=64) bedoelde wijze.
+
+5. Degene die aardgas of elektriciteit gebruikt op een wijze waarvoor een vrijstelling als bedoeld in [artikel 64, eerste, derde of vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=64) wordt verleend dient:
+
+- a. zijn administratie zodanig in te richten dat daarin op overzichtelijke wijze de gegevens zijn opgenomen omtrent alle voor de desbetreffende vrijstelling van belang zijnde bedrijfshandelingen;
+
+- b. ter vaststelling van de hoeveelheid product waarop de vrijstelling ziet, deze hoeveelheid te meten met behulp van meters indien het desbetreffende product mede betrokken wordt voor andere doeleinden.
+
+6. Wijzigingen in de situatie die van invloed zijn op de toepassing van een vrijstelling als bedoeld in [artikel 64, eerste, derde of vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=64) worden onmiddellijk gemeld aan degene die het aardgas of de elektriciteit levert.
+
+##### Artikel 23
+
+1. Het verzoek om teruggaaf, bedoeld in [artikel 66, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=66) kan worden gedaan na afloop van elke kalendermaand, en dient uiterlijk te worden gedaan binnen dertien weken na het einde van het kalenderjaar.
+
+2. De in het eerste lid bedoelde teruggaaf wordt alleen verleend indien de aankoopfacturen worden overgelegd en indien de administratie van degene die om teruggaaf verzoekt, voldoet aan bij ministeriële regeling te stellen voorwaarden.
+
+##### Artikel 24
+
+1. Het verzoek om teruggaaf, bedoeld in [artikel 67, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=67), wordt uiterlijk gedaan binnen dertien weken na afloop van de verbruiksperiode.
+
+2. Ter vaststelling van de hoeveelheid verbruikte warmte meet de gebruiker van de onroerende zaak deze hoeveelheid met behulp van een warmtehoeveelheidsmeter.
+
+3. Bij het verzoek om de in het eerste lid bedoelde teruggaaf wordt de afrekening overgelegd die door de exploitant van de installatie voor blokverwarming of in diens opdracht is opgemaakt.
+
+##### Artikel 25
+
+1. Het verzoek om teruggaaf, bedoeld in [artikel 68, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=68), kan worden gedaan na afloop van elke kalendermaand waarin recht op teruggaaf is ontstaan, en wordt uiterlijk gedaan binnen dertien weken na afloop van de verbruiksperiode.
+
+2. De in het eerste lid bedoelde teruggaaf wordt alleen verleend indien de aankoopfacturen worden overgelegd en indien de administratie van degene die om teruggaaf verzoekt, voldoet aan bij ministeriële regeling te stellen voorwaarden.
+
+3. Het verzoek om teruggaaf, bedoeld in [artikel 68, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=68), kan worden gedaan na afloop van elke kalendermaand waarin recht op teruggaaf is ontstaan, en wordt uiterlijk gedaan binnen dertien weken na afloop van de verbruiksperiode.
+
+##### Artikel 26
+
+1. Het verzoek om teruggaaf, bedoeld in [artikel 69, eerste tot en met derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=69), wordt uiterlijk gedaan binnen dertien weken na afloop van de verbruiksperiode.
+
+2. De in het eerste lid bedoelde teruggaaf wordt alleen verleend indien de eindfactuur wordt overgelegd.
+
+##### Artikel 27
+
+1. Het tijdvak waarover een teruggaaf van belasting als bedoeld in [artikel 70, eerste tot en met vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=70) wordt verleend is het kalenderkwartaal. De inspecteur kan op verzoek een ander tijdvak aanwijzen.
+
+2. Het verzoek om teruggaaf wordt gedaan binnen dertien weken na het einde van het in het eerste lid bedoelde tijdvak waarin het aardgas of de elektriciteit is gebruikt op een in [artikel 64, eerste, derde of vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=64) bedoelde wijze.
+
+3. Teruggaaf wordt alleen verleend indien de aankoopfactuur en de van belang zijnde gegevens en verklaringen over de bestemming van het aardgas of de elektriciteit waarop de teruggaaf betrekking heeft, worden overgelegd en indien de administratie van degene die om teruggaaf verzoekt voldoet aan bij ministeriële regeling te stellen voorwaarden.
+
+4. [Artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=VI&artikel=22&z=2008-01-01&g=2008-01-01), is van overeenkomstige toepassing op de teruggaaf, bedoeld in [artikel 70, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=70).
+
+### Hoofdstuk VII. Vliegbelasting
+
+##### Artikel 28
+
+(gereserveerd)
+
+### Hoofdstuk VIII. Algemene bepaling
+
+##### Artikel 29
+
+1. De inspecteur beslist op het verzoek, bedoeld in [artikel 27, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=27), en [artikel 2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=II&artikel=2&z=2008-01-01&g=2008-01-01), bij een voor bezwaar vatbare beschikking.
+
+2. Binnen acht weken na ontvangst van het verzoek geeft de inspecteur een beschikking op dat verzoek, dan wel zendt hij de in het derde lid bedoelde kennisgeving.
+
+3. Indien de inspecteur de beschikking niet binnen de in het tweede lid genoemde termijn kan geven, stelt hij de belanghebbende daarvan onder opgaaf van redenen in kennis en noemt hij de termijn waarop de beschikking wel zal worden gegeven.
+
+### Hoofdstuk IX. Slotbepalingen
+
+##### Artikel 30
+
+Dit besluit treedt in werking met ingang van de datum waarop de bepalingen van de [Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168), waarin dit besluit zijn grondslag vindt, in werking treden.
+
+##### Artikel 31
+
+Dit besluit wordt aangehaald als: Uitvoeringsbesluit belastingen op milieugrondslag.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
+
+##### Artikel 27a
+
+1. Een verzoek om teruggaaf als bedoeld in [artikel 78, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=78) wordt gedaan met betrekking tot één of meer bedragen die door de exploitant van de luchthaven in rekening zijn gebracht aan dezelfde luchtvaartmaatschappij, voor zover deze bedragen niet zijn ontvangen en oninbaar zijn gebleken.
+
+2. Het verzoek wordt door de exploitant van de luchthaven ingediend binnen 13 weken na afloop van het kalenderkwartaal waarin is komen vast te staan dat de in rekening gebrachte belasting niet is en niet zal worden ontvangen.
+
+3. Bij het verzoek worden kopieën overgelegd van de facturen waarmee de niet ontvangen belasting aan de luchtvaartmaatschappij in rekening is gebracht. In het verzoek worden de volgende gegevens vermeld:
+
+- a. naam en adres van de luchtvaartmaatschappij;
+
+- b. per factuur het bedrag van de belasting dat niet is en niet zal worden ontvangen;
+
+- c. het totale bedrag waarvoor ten aanzien van die luchtvaartmaatschappij teruggaaf wordt gevraagd.
+
+4. De administratie van de exploitant van de luchthaven is zodanig ingericht dat daarin op overzichtelijke wijze alle voor de vaststelling van het bedrag van de teruggaaf van belang zijnde gegevens zijn opgenomen.
+
+### Afdeling 1. Sierteelt
+
+##### Artikel 28
+
+Voor de toepassing van deze afdeling wordt verstaan onder:
+
+- a. **sierteeltproducten:** snijbloemen beginnend met GN-code 0603 en planten met GN-code 06029091 en 06029099, telkens inclusief het daarbij behorende uitgangsmateriaal, en
+
+- b. **verpakte sierteeltproducten:** sierteeltproducten die verpakt zijn in voor eenmalig gebruik bestemde verpakkingen.
+
+##### Artikel 28a
+
+De regels, genoemd in deze afdeling, gelden voor de producent van sierteeltproducten die valt onder de werkingssfeer van het [Instellingsbesluit Productschap Tuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0016235), niet zijnde een in Nederland gevestigde detailhandelaar, en voor de producent van sierteeltproducten die ter beschikking stelt in de hoedanigheid van veilingcoöperatie of bloemenveiling.
+
+##### Artikel 28b
+
+Voor zover de producent, genoemd in [artikel 28a](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=VII&afdeling=1&artikel=28a&z=2010-01-01&g=2008-01-01), verpakte sierteeltproducten voor het eerst aan een ander ter beschikking stelt in Nederland of bij de eerste terbeschikkingstelling exporteert vanuit Nederland, geeft hij alle hiermee verband houdende kilogrammen verpakking op bij zijn aangifte en past vervolgens een kortingspercentage toe in verband met kilogrammen verpakking van producten die direct of indirect worden geëxporteerd. Het kortingspercentage, genoemd in de eerste volzin, bedraagt 68%.
+
+##### Artikel 28c
+
+Voor zover de producent verpakte sierteeltproducten bij de eerste terbeschikkingstelling exporteert vanuit Nederland, is [hoofdstuk VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VIII), met uitzondering van [afdeling 5a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&afdeling=5a) voor hem van overeenkomstige toepassing.
+
+##### Artikel 28d
+
+Op de producent, bedoeld in [artikel 28a](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=VII&afdeling=1&artikel=28a&z=2010-01-01&g=2008-01-01), is de exportvermindering, bedoeld in [hoofdstuk VIII, afdeling 5a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&afdeling=5a), niet van toepassing.
+
+### Afdeling 2. Groenten en fruit
+
+##### Artikel 28e
+
+Voor de toepassing van deze afdeling wordt verstaan onder:
+
+- a. **verse groenten en vers fruit:** de producten, genoemd in artikel 1, lid 1, onderdeel i, van Verordening (EG) nr. 1234/2007 van de Raad van 22 oktober 2007 houdende een gemeenschappelijke ordening van de landbouwmarkten en specifieke bepalingen voor een aantal landbouwproducten («Integrale-GMO-verordening»), al dan niet bewerkt en bananen met GN-code 0803 00 19, al dan niet bewerkt;
+
+- b. **bewerkte verse groenten en bewerkt vers fruit:** de producten, bedoeld in onderdeel a, die zijn gesneden, gewassen, gemengd of verpakt;
+
+- c. **verpakte verse groenten of verpakt vers fruit:** verse groenten of vers fruit, verpakt in voor eenmalig gebruik bestemde verpakkingen; en
+
+- d. **producentenorganisatie:** de producentenorganisatie in de sector groenten en fruit die op grond van de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&artikel=15), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&artikel=19) en [23 van de Landbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&artikel=23) in verbinding met [artikel 2, onderdeel e, sub 1, van de Regeling medebewind Gemeenschappelijk Landbouwbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0020360&artikel=2) door het Productschap Tuinbouw als zodanig is erkend in Nederland.
+
+##### Artikel 28f
+
+De regels, genoemd in deze afdeling, gelden voor de producent van verse groenten of vers fruit die valt onder de werkingssfeer van het [Instellingsbesluit Productschap Tuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0016235), niet zijnde een in Nederland gevestigde detailhandelaar, en voor de producent van verse groenten of vers fruit die ter beschikking stelt in de hoedanigheid van producentenorganisatie.
+
+##### Artikel 28g
+
+1. Voor zover de producent, bedoeld in [artikel 28f,](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=VII&afdeling=2&artikel=28f&z=2010-01-01&g=2008-01-01) verpakte verse groenten of verpakt vers fruit voor het eerst aan een ander ter beschikking stelt in Nederland of bij de eerste terbeschikkingstelling exporteert vanuit Nederland, geeft hij alle hiermee verband houdende kilogrammen verpakking op bij zijn aangifte en past vervolgens een kortingspercentage toe in verband met kilogrammen verpakking van producten die direct of indirect worden geëxporteerd. Het kortingspercentage, genoemd in de eerste volzin, bedraagt 72%.
+
+2. In afwijking van het eerste lid bedraagt het kortingspercentage voor de producent, bedoeld in het eerste lid, voor zover deze verpakte verse uien ter beschikking stelt, 72%.
+
+##### Artikel 28h
+
+Voor zover de producent verpakte verse groenten of verpakt vers fruit bij de eerste terbeschikkingstelling exporteert vanuit Nederland, is [hoofdstuk VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VIII), met uitzondering van [afdeling 5a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&afdeling=5a) voor hem van overeenkomstige toepassing.
+
+##### Artikel 28i
+
+1. Ingeval een producent tevens de teler is van de verse groenten of het vers fruit, en hij deze producten in een verpakking aan een, bij ministeriële regeling aangewezen producentenorganisatie, ter beschikking stelt, wordt de verpakkingenbelasting met betrekking tot die terbeschikkingstelling geheven van deze producentenorganisatie.
+
+2. Ingeval het eerste lid toepassing vindt, kan de producentenorganisatie de belastingvermindering, bedoeld in [artikel 87 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=87), één maal toepassen.
+
+##### Artikel 28j
+
+Op de producent, bedoeld in [artikel 28f](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=VII&afdeling=2&artikel=28f&z=2010-01-01&g=2008-01-01), is de exportvermindering, bedoeld in [hoofdstuk VIII, afdeling 5a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&afdeling=5a), niet van toepassing.
+
+### Hoofdstuk VIII. Algemene bepaling
+
+### Hoofdstuk IX. Slotbepalingen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
