@@ -4,7 +4,7 @@ identifier: "BWBR0011354"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2005-12-29"
+last_updated: "2008-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011354"
 soort: "wet"
@@ -344,7 +344,7 @@ Sa. Verlenging voor 2001 en 2002 van terugwentelingsperiode. Voor de kalenderjar
 
 - 3. De premies als bedoeld in het eerste lid, en het daarover behaalde rendement, die op grond van [afdeling 3.8 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&afdeling=3.8) in aanmerking zijn genomen als negatieve uitgaven voor inkomensvoorzieningen, worden voor de toepassing van de bepalingen van de Wet op de inkomstenbelasting 1964 die gelden op grond van onderdeel O, eerste lid, aangemerkt als prestatie die niet ten laste van het inkomen konden komen. De eerste volzin geldt niet voor de premies, en het daarover behaalde rendement, in verband waarmee uitstel van betaling van belasting is verleend als bedoeld in [artikel 3.133, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.133), of [artikel 3.136, tweede lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.136).
 
-U. Aangewezen periodieke uitkeringen en verstrekkingen. Uitkeringen ingevolge [artikel 81, tweede lid, onderdeel b, van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=81) die voortvloeien uit aanspraken op uitkeringen ingevolge artikel 59a van de Algemene Arbeidsongeschiktheidswet zoals die wet luidde op 31 december 1997, behoren tot de inkomsten in de vorm van aangewezen periodieke uitkeringen en verstrekkingen die worden ontvangen op grond van een publiekrechtelijke regeling.
+U. Aangewezen periodieke uitkeringen en verstrekkingen. Uitkeringen ingevolge [artikel 81, tweede lid, onderdeel c, van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=81) die voortvloeien uit aanspraken op uitkeringen ingevolge artikel 59a van de Algemene Arbeidsongeschiktheidswet zoals die wet luidde op 31 december 1997, behoren tot de inkomsten in de vorm van aangewezen periodieke uitkeringen en verstrekkingen die worden ontvangen op grond van een publiekrechtelijke regeling.
 
 - 1. Voor de toepassing van [artikel 3.139 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.139) wordt:
 
@@ -532,15 +532,21 @@ AKb. Aanvang termijn bestaande schulden eigen woning. De termijn van op 31 decem
 
 - 3. Voor de toepassing van het eerste lid wordt de kapitaalsuitkering uit levensverzekering gesteld op:
 
-- a. indien sprake is van een levensverzekering die op grond van [artikel 3.91](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.91) of [3.92 Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.92) als een ter beschikking gesteld vermogensbestanddeel wordt aangemerkt: de waarde in het economische verkeer van de levensverzekering op 31 december 2000;
+- a. indien sprake is van een levensverzekering die op grond van [artikel 3.91](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.91) of [3.92 Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.92) als een ter beschikking gesteld vermogensbestanddeel wordt aangemerkt: de waarde in het economische verkeer van de levensverzekering op de datum waarop de levensverzekering op grond van [artikel 3.91](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.91) of [3.92 Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.92) als een ter beschikking gesteld vermogensbestanddeel wordt aangemerkt;
 
 - b. indien sprake is van een levensverzekering die voordelen uit sparen en beleggen in de zin van de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) genereert: maximaal € 123 428, dan wel, indien dit hoger is, de waarde in het economische verkeer op 31 december 2000.
 
-- 4. Voor de toepassing van het eerste lid worden premies die na 31 december 2000 zijn voldaan niet in aanmerking genomen, met dien verstande dat indien op grond van het derde lid, onderdeel b, de kapitaalsuitkering op maximaal € 123 428 wordt gesteld, de premies die zijn voldaan vanaf het moment dat de waarde in het economische verkeer van de levensverzekering tenminste € 123 428 bedraagt, niet in aanmerking worden genomen.
+- 4. Voor de toepassing van het eerste lid worden premies die na 31 december 2000 zijn voldaan niet in aanmerking genomen, met dien verstande dat:
+
+- a. indien het derde lid, onderdeel a, toepassing vindt, de premies die zijn voldaan vanaf het moment dat de levensverzekering als een ter beschikking gesteld vermogensbestanddeel wordt aangemerkt, niet in aanmerking worden genomen;
+
+- b. indien op grond van het derde lid, onderdeel b, de kapitaalsuitkering wordt gesteld op maximaal € 123 428, de premies die zijn voldaan vanaf het moment dat de waarde in het economische verkeer van de levensverzekering ten minste € 123 428 bedraagt, niet in aanmerking worden genomen;
+
+- c. indien op grond van het zesde lid de kapitaalsuitkering wordt gesteld op de waarde in het economische verkeer van de levensverzekering op de datum waarop de vrijstelling, bedoeld in onderdeel AN, niet of niet meer van toepassing is, de premies die vanaf deze datum zijn voldaan, niet in aanmerking worden genomen.
 
 - 5. Indien op grond van het eerste lid terzake van een op of na 1 januari 2001 genoten kapitaalsuitkering uit levensverzekering inkomen uit werk en woning in aanmerking wordt genomen, wordt dit voordeel, uitsluitend voor de toepassing van [artikel 2.14 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.14), niet aangemerkt als inkomen uit werk en woning.
 
-- 6. In afwijking in zoverre van het derde lid, onderdeel b, wordt de kapitaalsuitkering uit levensverzekering die voordelen uit sparen en beleggen in de zin van de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) genereert voor de toepassing van het eerste lid gesteld op de waarde in het economische verkeer van de levensverzekering op 31 december 2000, voorzover de waarde in het economische verkeer van deze levensverzekering, op het moment dat het eerste lid van toepassing is, tot de bezittingen, bedoeld in [artikel 5.3, tweede lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.3), behoort.
+- 6. In afwijking in zoverre van het derde lid, onderdeel b, wordt de kapitaalsuitkering uit een levensverzekering die niet of niet meer in aanmerking komt voor de vrijstelling, bedoeld in onderdeel AN, en waarvan de waarde in het economische verkeer op 31 december 2000 niet hoger is dan € 123 428, gesteld op de waarde in het economische verkeer van de levensverzekering op 1 januari 2001 onderscheidenlijk de datum waarop de vrijstelling, bedoeld in onderdeel AN, niet meer van toepassing is.
 
 - 1. Tot de bezittingen, bedoeld in [artikel 5.3, tweede lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.3) behoren niet rechten op kapitaalsuitkeringen uit op 14 september 1999 bestaande levensverzekeringen tot een gezamenlijk bedrag van maximaal € 123 428.
 
@@ -764,9 +770,9 @@ Voor de plaatsing in het Staatsblad brengt Onze Minister van Financiën de in de
 
 ##### Artikel II. Inwerkingtreding
 
-1. Deze wet en de [Wet Inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) treden in werking met ingang van 1 januari 2001 met uitzondering van [Hoofdstuk 2, artikel I, onderdeel AF, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011354&hoofdstuk=2&z=2008-01-01&g=2005-12-29), dat in werking treedt op 31 december 2000.
+1. Deze wet en de [Wet Inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) treden in werking met ingang van 1 januari 2001 met uitzondering van [Hoofdstuk 2, artikel I, onderdeel AF, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011354&hoofdstuk=2&z=2012-01-01&g=2008-01-01), dat in werking treedt op 31 december 2000.
 
-2. In afwijking van het eerste lid, treedt [hoofdstuk 2, artikel 1, onderdelen Dc en Dd](https://wetten.overheid.nl/jci1.3:c:BWBR0011354&hoofdstuk=2&z=2008-01-01&g=2005-12-29), in werking op een bij koninklijk besluit te bepalen tijdstip dat zo nodig terugwerkende kracht kan hebben tot 1 januari 2001.
+2. In afwijking van het eerste lid, treedt [hoofdstuk 2, artikel 1, onderdelen Dc en Dd](https://wetten.overheid.nl/jci1.3:c:BWBR0011354&hoofdstuk=2&z=2012-01-01&g=2008-01-01), in werking op een bij koninklijk besluit te bepalen tijdstip dat zo nodig terugwerkende kracht kan hebben tot 1 januari 2001.
 
 3. Deze wet wordt aangehaald als: Invoeringswet Wet inkomstenbelasting 2001.
 
