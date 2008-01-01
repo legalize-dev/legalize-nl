@@ -4,7 +4,7 @@ identifier: "BWBR0014350"
 country: "nl"
 rank: "wet"
 publication_date: "2024-01-01"
-last_updated: "2004-02-13"
+last_updated: "2008-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014350"
 soort: "wet"
@@ -68,7 +68,7 @@ Wijzigt de Wet op het voortgezet onderwijs..
 
 ##### Artikel V. Overgangsbepaling leerlingen (voortgezet) speciaal onderwijs
 
-1. De inschrijving van een leerling die op 1 augustus 2002 was ingeschreven aan een school als bedoeld in de [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549) blijft indien de ouders van de leerling dat wensen en onverminderd [artikel 40, eerste, vijfde, achtste en negende lid, van genoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=40), aan die school gehandhaafd tot de datum waarop de voor die onderwijssoort vastgestelde periode, bedoeld in [artikel 28c, tweede lid eerste volzin, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=28c), sinds de inwerkingtreding van deze wet is verstreken.
+1. De inschrijving van een leerling die op 1 augustus 2002 was ingeschreven aan een school als bedoeld in de [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549) blijft indien de ouders van de leerling dat wensen en onverminderd [artikel 40, eerste, zesde, negende en tiende lid, van genoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=40), aan die school gehandhaafd tot de datum waarop de voor die onderwijssoort vastgestelde periode, bedoeld in [artikel 28c, tweede lid eerste volzin, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=28c), sinds de inwerkingtreding van deze wet is verstreken.
 
 2. Vanaf de datum waarop de in het eerste lid bedoelde periode is verstreken, kan de inschrijving aan die school uitsluitend gehandhaafd blijven indien een commissie voor de indicatiestelling als bedoeld in [artikel 28c van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=28c) heeft bepaald dat die leerling toelaatbaar is tot een onderwijssoort, die binnen die school wordt verzorgd dan wel dat die leerling toelaatbaar is tot het cluster als bedoeld in [artikel 2, vierde lid onder d, van laatstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=2) en de school daartoe behoort.
 
@@ -84,7 +84,7 @@ Voor de periode gerekend vanaf de datum waarop deze wet in werking treedt tot de
 
 3. Het bevoegd gezag van de school of afdeling waarvoor expertisebekostiging beschikbaar is, stelt vast aan welke criteria de leerlingen moeten voldoen die op basis van de expertisebekostiging onderwijs en begeleiding kunnen ontvangen.
 
-4. De school rapporteert jaarlijks over de besteding van de expertisebekostiging aan Onze minister van Onderwijs, Cultuur en Wetenschap en over de gehanteerde criteria aan de landelijke commissie toezicht indicatiestelling, bedoeld in [artikel 28e, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=28e).
+4. De school rapporteert jaarlijks over de besteding van de expertisebekostiging aan Onze minister van Onderwijs, Cultuur en Wetenschap.
 
 5. Voor de vaststelling van de bedragen ingevolge het Gemeentefonds blijft voor het aantal meervoudig gehandicapte leerlingen dat op 31 juli 2002 was ingeschreven bij een van de in het eerste lid bedoelde scholen en afdelingen de leerlingenmaatstaf die voor die leerlingen op die datum gold, gehandhaafd. De in de eerste volzin bedoelde leerlingen worden in het kader van de leerlingenmaatstaf slechts in één categorie meegerekend.
 
@@ -134,7 +134,7 @@ Voor de periode gerekend vanaf de datum waarop deze wet in werking treedt tot de
 
 ##### Artikel XIII. Verplicht advies
 
-Indien de ouders van een leerling als bedoeld in [artikel XII, tweede lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0014350&artikel=XII&z=2004-02-13&g=2004-02-13), hun bezwaren kenbaar maken tegen een beslissing van het bevoegd gezag om die leerling niet toe te laten dan wel tegen de besteding van het leerlinggebonden budget, beslist het bevoegd gezag niet eerder op het bezwaar dan nadat het advies is uitgebracht door de commissie, bedoeld in [artikel XII](https://wetten.overheid.nl/jci1.3:c:BWBR0014350&artikel=XII&z=2004-02-13&g=2004-02-13).
+Indien de ouders van een leerling als bedoeld in [artikel XII, tweede lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0014350&artikel=XII&z=2008-01-01&g=2008-01-01), hun bezwaren kenbaar maken tegen een beslissing van het bevoegd gezag om die leerling niet toe te laten dan wel tegen de besteding van het leerlinggebonden budget, beslist het bevoegd gezag niet eerder op het bezwaar dan nadat het advies is uitgebracht door de commissie, bedoeld in [artikel XII](https://wetten.overheid.nl/jci1.3:c:BWBR0014350&artikel=XII&z=2008-01-01&g=2008-01-01).
 
 ##### Artikel XIV. Experiment Almere
 
@@ -147,5 +147,19 @@ Bij algemene maatregel van bestuur dan wel bij ministeriële regeling kunnen, zo
 ##### Artikel XVI. Inwerkingtreding
 
 De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen, onderdelen daarvan of leden van artikelen, bedoeld in onderdelen, verschillend kan worden vastgesteld.
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel VIIa. Expertisebekostiging voor scholen behorend tot het cluster, bedoeld in [artikel 2, vierde lid, onder b, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=2)
+
+1. Het bevoegd gezag, dan wel de directe opvolger daarvan, waarvan op 31 juli 2003 een school behorend tot het cluster, bedoeld in [artikel 2, vierde lid, onder b, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=2) en een school voor voortgezet onderwijs uitging, welke school voor voortgezet onderwijs door dat bevoegd gezag per 1 augustus 2005 is opgeheven, ontvangt expertisebekostiging ten behoeve van de scholen behorend tot het cluster, bedoeld in [artikel 2, vierde lid, onder b, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=2).
+
+2. Het bevoegd gezag, dan wel de directe opvolger daarvan, waarvan op 31 juli 2003 een school voor voortgezet speciaal onderwijs behorend tot het cluster, bedoeld in [artikel 2, vierde lid, onder b, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=2) uitging waarvoor ten behoeve van het in 1984 toegestane geïntegreerd VBO voor alle dove leerlingen aanvullende formatie voor vakonderwijs en taakrealisatie werd ontvangen, ontvangt expertisebekostiging ten behoeve van de scholen behorend tot het cluster, bedoeld in [artikel 2, vierde lid, onder b, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=2).
+
+3. Bij beschikking wordt door Onze Minister van Onderwijs, Cultuur en Wetenschap expertisebekostiging vastgesteld uitgaande van de bekostiging in het schooljaar 2002–2003 van de per 1 augustus 2005 door het in de eerste lid bedoelde bevoegde gezag opgeheven school voor het voortgezet onderwijs dan wel op basis van de aanvullende formatie bedoeld in het tweede lid in het schooljaar 2002–2003.
+
+4. Het bevoegd gezag van de school, bedoeld in [artikel 2, vierde lid, onder b, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=2), ten behoeve waarvan expertisebekostiging wordt vastgesteld, gebruikt de expertisebekostiging voor het voortgezet onderwijs.
+
+5. Het bevoegd gezag rapporteert jaarlijks over de besteding van de expertisebekostiging aan Onze Minister van Onderwijs, Cultuur en Wetenschap.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
