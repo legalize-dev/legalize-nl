@@ -4,7 +4,7 @@ identifier: "BWBR0015738"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-02"
-last_updated: "2007-12-01"
+last_updated: "2008-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0015738"
 soort: "ministeriele-regeling"
@@ -74,7 +74,7 @@ Vervallen
 
 1. Het voorlopig verslag over de uitvoering, bedoeld in [artikel 77, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=77) wordt uiterlijk op 28 februari van het kalenderjaar volgend op het kalenderjaar waarop het voorlopig verslag betrekking heeft door de minister ontvangen.
 
-2. Het voorlopig verslag wordt ingericht overeenkomstig het als bijlage bij deze regeling opgenomen model.
+2. Het voorlopig verslag wordt ingediend onder gebruikmaking van een formulier dat door de minister elektronisch beschikbaar wordt gesteld met het Digitaal Verantwoordingssysteem.
 
 3. Indien het voorlopig verslag, bedoeld in het eerste lid, niet op de in het eerste lid genoemde datum is ontvangen, schort de minister de betaling van de uitkeringen, bedoeld in [artikel 69, eerste lid, onderdelen a en b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=69) voor het lopende vergoedingsjaar op met ingang van de kalendermaand volgend op de kalendermaand waarop de ontvangsttermijn is verlopen, doch niet gedurende de periode waarover door de minister aan het college in geval van overmacht uitstel is verleend.
 
@@ -140,66 +140,69 @@ In deze paragraaf wordt verstaan onder:
 
 ##### Artikel 9. Reikwijdte
 
-Deze paragraaf is van toepassing op de vaststelling van de aanspraak op vakantietoeslag over een inkomen ontvangen in het kalenderjaar 2007.
+Deze paragraaf is van toepassing op de vaststelling van de aanspraak op vakantietoeslag over een inkomen ontvangen in het kalenderjaar 2008.
 
 ##### Artikel 10. In aanmerking te nemen vakantietoeslag
 
-Indien over het inkomen van de belanghebbende aanspraak op vakantietoeslag bestaat neemt het college bij de vaststelling van de hoogte van de algemene bijstand mede op grond van de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=11&z=2007-12-01&g=2007-12-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=12&z=2007-12-01&g=2007-12-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=13&z=2007-12-01&g=2007-12-01) of [14](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=14&z=2007-12-01&g=2007-12-01) berekende aanspraak op vakantietoeslag in aanmerking.
+Indien over het inkomen van de belanghebbende aanspraak op vakantietoeslag bestaat neemt het college bij de vaststelling van de hoogte van de algemene bijstand mede op grond van de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=11&z=2008-01-01&g=2008-01-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=12&z=2008-01-01&g=2008-01-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=13&z=2008-01-01&g=2008-01-01) of [14](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=14&z=2008-01-01&g=2008-01-01) berekende aanspraak op vakantietoeslag in aanmerking.
 
 ##### Artikel 11. Vakantieaanspraak voor personen jonger dan 65 jaar met inkomen uit tegenwoordige arbeid
 
 Indien de belanghebbende jonger dan 65 jaar is, het in aanmerking te nemen inkomen loon uit tegenwoordige arbeid betreft en voor de inhouding van loonheffing rekening is gehouden met de arbeidskorting en de algemene heffingskorting, wordt de aanspraak op vakantietoeslag vastgesteld aan de hand van de navolgende tabel, waarbij onder ‘ink’ het inkomen wordt verstaan.
 
-| bij een netto inkomen per maand | bij een netto inkomen per maand | bij een netto inkomen per maand | bij een netto inkomen per maand | bij een netto inkomen per maand | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag |
+| bij een netto inkomen per maand | bij een netto inkomen per maand | bij een netto inkomen per maand | bij een netto inkomen per maand |   |   |   |   |   |   |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| gelijk aan of meer dan | gelijk aan of meer dan | gelijk aan of meer dan | en minder dan | en minder dan | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag |
-| € | 0,00 |   | € | 464,49 | 8,00% | x ink |   |   |   |
-| € | 464,49 |   | € | 503,90 | 5,14% | x ink |   |   |   |
-| € | 503,90 |   | € | 569,69 | 7,76% | x ink | – € | 13,20 |   |
-| € | 569,69 |   | € | 1053,08 | 6,55% | x ink | – € | 6,36 |   |
-| € | 1053,08 |   | € | 1082,41 | 3,15% | x ink | + € | 29,19 |   |
-| € | 1082,41 |   | € | 1120,59 | 2,86% | x ink | + € | 24,19 |   |
-| € | 1120,59 |   |   |   | 5,72% | x ink | – € | 7,83 |   |
+|   |   |   |   |   |   |   |   |   |   |
+| gelijk aan of meer dan | gelijk aan of meer dan | en minder dan | en minder dan | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag |
+| € | 0,00 | € | 468,87 | 8,00% | × | ink |   |   |   |
+| € | 468,87 | € | 508,60 | 5,13% | × | ink |   |   |   |
+| € | 508,60 | € | 581,09 | 7,75% | × | ink | – | € | 13,41 |
+| € | 581,09 | € | 1063,47 | 6,53% | × | ink | – | € | 6,31 |
+| € | 1063,47 | € | 1089,90 | 3,45% | × | ink | + | € | 26,39 |
+| € | 1089,90 | € | 1136,34 | 3,08% | × | ink | + | € | 21,50 |
+| € | 1136,34 |   |   | 5,63% | × | ink | – | € | 7,53 |
 
 ##### Artikel 12. Vakantieaanspraak voor personen jonger dan 65 jaar met inkomen uit vroegere arbeid
 
 Indien de belanghebbende jonger dan 65 jaar is, het in aanmerking te nemen inkomen loon uit vroegere arbeid betreft en voor de inhouding van loonheffing rekening is gehouden met de algemene heffingskorting wordt de aanspraak op vakantietoeslag vastgesteld aan de hand van de navolgende tabel, waarbij onder ‘ink’ het inkomen wordt verstaan.
 
-| bij een netto inkomen per maand | bij een netto inkomen per maand | bij een netto inkomen per maand | bij een netto inkomen per maand | bij een netto inkomen per maand | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag |
+| bij een netto inkomen per maand | bij een netto inkomen per maand | bij een netto inkomen per maand | bij een netto inkomen per maand |   |   |   |   |   |   |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| gelijk aan of meer dan | gelijk aan of meer dan | gelijk aan of meer dan | en minder dan | en minder dan | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag |
-| € | 0,00 |   | € | 439,94 | 8,00% | x ink |   |   |   |
-| € | 439,94 |   | € | 475,06 | 5,14% | x ink |   |   |   |
-| € | 475,06 |   | € | 947,08 | 8,01% | x ink | – € | 13,63 |   |
-| € | 947,08 |   | € | 977,33 | 3,84% | x ink | + € | 25,70 |   |
-| € | 977,33 |   | € | 1008,80 | 3,49% | x ink | + € | 20,99 |   |
-| € | 1008,80 |   |   |   | 6,98% | x ink | – € | 14,21 |   |
+|   |   |   |   |   |   |   |   |   |   |
+| gelijk aan of meer dan | gelijk aan of meer dan | en minder dan | en minder dan | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag |
+| € | 0,00 | € | 444,34 | 8,00% | × | ink |   |   |   |
+| € | 444,34 | € | 479,84 | 5,13% | × | ink |   |   |   |
+| € | 479,84 | € | 947,25 | 8,00% | × | ink | – | € | 13,83 |
+| € | 947,25 | € | 984,47 | 4,22% | × | ink | + | € | 22,42 |
+| € | 984,47 | € | 1021,73 | 3,77% | × | ink | + | € | 17,92 |
+| € | 1021,73 |   |   | 6,90% | × | ink | – | € | 14,06 |
 
 ##### Artikel 13. Vakantieaanspraak voor personen jonger dan 65 jaar voor wie geen rekening is gehouden met de algemene heffingskorting
 
 Indien de belanghebbende jonger dan 65 jaar is en voor de inhouding van loonheffing geen rekening is gehouden met de algemene heffingskorting, wordt de aanspraak op vakantietoeslag vastgesteld aan de hand van de navolgende tabel, waarbij onder ‘ink’ het inkomen wordt verstaan.
 
-| bij een netto inkomen per maand | bij een netto inkomen per maand | bij een netto inkomen per maand | bij een netto inkomen per maand | bij een netto inkomen per maand | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag |
+| bij een netto inkomen per maand | bij een netto inkomen per maand | bij een netto inkomen per maand | bij een netto inkomen per maand |   |   |   |   |   |   |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| gelijk aan of meer dan | gelijk aan of meer dan | gelijk aan of meer dan | en minder dan | en minder dan | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag |
-| € | 0,00 |   | € | 775,30 | 8,00% | x ink |   |   |   |
-| € | 775,30 |   | € | 806,36 | 3,84% | x ink | + € | 32,23 |   |
-| € | 806,36 |   | € | 837,32 | 3,50% | x ink | + € | 26,93 |   |
-| € | 837,32 |   |   |   | 6,98% | x ink | – € | 2,33 |   |
+|   |   |   |   |   |   |   |   |   |   |
+| gelijk aan of meer dan | gelijk aan of meer dan | en minder dan | en minder dan | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag |
+| € | 0,00 | € | 786,97 | 8,00% | × | ink |   |   |   |
+| € | 786,97 | € | 811,64 | 4,22% | × | ink | + | € | 29,71 |
+| € | 811,64 | € | 849,00 | 3,78% | × | ink | + | € | 24,44 |
+| € | 849,00 |   |   | 6,91% | × | ink | – | € | 2,13 |
 
 ##### Artikel 14. Vakantieaanspraak voor personen van 65 jaar of ouder
 
 1. Indien de belanghebbende 65 jaar of ouder is en het inkomen van de belanghebbende bestaat uit een gekort ouderdomspensioen en toeslag als bedoeld in artikel 13 van de Algemene Ouderdomswet bedraagt de daarbij behorende de aanspraak op vakantietoeslag voor:
 
-| a. alleenstaande | a. alleenstaande | 5,68% | x ink |   |
-| --- | --- | --- | --- | --- |
-| b. alleenstaande ouder, indien | b. alleenstaande ouder, indien |   |   |   |
-|   | – het inkomen € 887,95 of meer bedraagt | 4,90% | x ink |   |
-|   | – het inkomen lager is dan € 887,95 | 5,90% | x ink |   |
-| c. gehuwden, waarvan beide echtgenoten 65 jaar of ouder zijn | c. gehuwden, waarvan beide echtgenoten 65 jaar of ouder zijn | 5,94% | x ink |   |
-| d. gehuwden, waarvan een echtgenoot 65 jaar of ouder is en de andere echtgenoot jonger dan 65 jaar, indien | d. gehuwden, waarvan een echtgenoot 65 jaar of ouder is en de andere echtgenoot jonger dan 65 jaar, indien |   |   |   |
-|   | – het inkomen € 852,96 of meer bedraagt | 5,95% | x ink | – € 6,62 |
-|   | – het inkomen lager is dan € 852,96 | 6,21% | x ink |   |
+| a. alleenstaande | 5,45% | × | ink; |   |   |   |
+| --- | --- | --- | --- | --- | --- | --- |
+| b. alleenstaande ouder, indien |   |   |   |   |   |   |
+| – het inkomen € 939,60 of meer bedraagt | 5,66% | × | ink; | – | € | 9,46; |
+| – het inkomen lager is dan € 939,60 | 4,70% | × | ink; |   |   |   |
+| c. gehuwden, waarvan beide echtgenoten 65 jaar of ouder zijn | 5,69% | × | ink; |   |   |   |
+| d. gehuwden, waarvan een echtgenoot 65 jaar of ouder is en de andere echtgenoot jonger dan 65 jaar, indien |   |   |   |   |   |   |
+| – het inkomen € 619,69 of meer bedraagt | 5,70% | × | ink | – | € | 6,90; |
+| – het inkomen lager is dan € 619,69 | 5,69% | × | ink. |   |   |   |
 
 2. Indien de belanghebbende, bedoeld in het eerste lid, naast het gekorte ouderdomspensioen en toeslag, bedoeld in het eerste lid, een ander inkomen heeft dat recht geeft op vakantietoeslag bedraagt de aanspraak op die vakantietoeslag 8% van dat andere inkomen.
 
@@ -251,9 +254,9 @@ Ligt ter inzage bij het Ministerie van Sociale Zaken en Werkgelegenheid.
 
 Ligt ter inzage bij het Ministerie van Sociale Zaken en Werkgelegenheid.
 
-## Bijlage. Voorlopig verslag over de uitvoering [Wet werk en bijstand 2006](https://wetten.overheid.nl/jci1.3:c:BWBR0015703)
+## Bijlage. Voorlopig verslag over de uitvoering [Wet werk en bijstand 2006](onbekend)
 
-Ligt uiterlijk 15 december 2006 ter inzage in de bibliotheek van het Ministerie van Sociale Zaken en Werkgelegenheid te ’s-Gravenhage.
+Vervallen
 
 ## Bijlage 2
 
@@ -285,7 +288,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met ui
 
 ##### Artikel 7a. Indexering
 
-1. Met ingang van de dag waarop de bedragen, genoemd in [artikel 2, zesde lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=2) wijzigen, worden de bedragen, genoemd in [artikel 7, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=5&artikel=7&z=2007-12-01&g=2007-12-01), herzien met het percentage van deze wijziging.
+1. Met ingang van de dag waarop de bedragen, genoemd in [artikel 2, zesde lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=2) wijzigen, worden de bedragen, genoemd in [artikel 7, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=5&artikel=7&z=2008-01-01&g=2008-01-01), herzien met het percentage van deze wijziging.
 
 2. Van de herziene bedragen, bedoeld in het eerste lid, en van de dag waarop de herziening plaatsvindt wordt door de minister mededeling gedaan in de Staatscourant.
 
