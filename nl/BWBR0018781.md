@@ -4,7 +4,7 @@ identifier: "BWBR0018781"
 country: "nl"
 rank: "wet"
 publication_date: "2008-01-01"
-last_updated: "2006-01-01"
+last_updated: "2008-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018781"
 soort: "wet"
@@ -89,7 +89,7 @@ Wijzigt de Destructiewet.
 
 ##### Artikel Xb
 
-Dit onderdeel is nog niet inwerking getreden
+De [Meststoffenwet 1947](https://wetten.overheid.nl/jci1.3:c:BWBR0002028) wordt ingetrokken.
 
 ##### Artikel XI
 
