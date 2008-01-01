@@ -4,7 +4,7 @@ identifier: "BWBR0018451"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2007-12-12"
+last_updated: "2008-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018451"
 soort: "wet"
@@ -57,7 +57,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - e. drempelinkomen: 108% van het twaalfvoud van het voor de maand januari van het berekeningsjaar geldende in [artikel 8, eerste lid, onderdeel a, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8) bedoelde bedrag per maand, verminderd met het werknemersaandeel in de premie ingevolge [artikel 25, tweede lid, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=25) en vermeerderd met de vergoeding ingevolge [artikel 46, eerste lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=46) over dat loon;
 
-- f. de standaardpremie: het op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018451&artikel=4&z=2007-12-12&g=2007-12-12) vastgestelde bedrag;
+- f. de standaardpremie: het op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018451&artikel=4&z=2008-01-01&g=2008-01-01) vastgestelde bedrag;
 
 - g. de normpremie: de aan de hand van het drempelinkomen en het toetsingsinkomen van de verzekerde berekende premie voor een zorgverzekering in het berekeningsjaar.
 
@@ -79,15 +79,17 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 7. Bij regeling van Onze Minister kunnen omtrent het bepaalde in het zesde lid nadere regels worden gesteld.
 
+8. De voordracht voor een krachtens het derde lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan twee weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.
+
 ##### Artikel 3
 
-1. De standaardpremie voor een persoon als bedoeld in [artikel 69 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=69) is, in afwijking van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018451&artikel=4&z=2007-12-12&g=2007-12-12), gelijk aan het met toepassing van dat artikel bepaalde bedrag, vermenigvuldigd met het getal dat wordt berekend uit de verhouding tussen de gemiddelde uitgaven voor zorg voor een persoon ten laste van de sociale zorgverzekeringen in het woonland van deze persoon, en de gemiddelde uitgaven voor zorg voor een persoon ten laste van de sociale zorgverzekeringen in Nederland.
+1. De standaardpremie voor een persoon als bedoeld in [artikel 69 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=69) is, in afwijking van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018451&artikel=4&z=2008-01-01&g=2008-01-01), gelijk aan het met toepassing van dat artikel bepaalde bedrag, vermenigvuldigd met het getal dat wordt berekend uit de verhouding tussen de gemiddelde uitgaven voor zorg voor een persoon ten laste van de sociale zorgverzekeringen in het woonland van deze persoon, en de gemiddelde uitgaven voor zorg voor een persoon ten laste van de sociale zorgverzekeringen in Nederland.
 
 2. Bij ministeriële regeling wordt jaarlijks uiterlijk in november per land het in het eerste lid bedoelde verhoudingsgetal vastgesteld.
 
 ##### Artikel 4
 
-Onze Minister stelt uiterlijk 15 dagen, voorafgaande aan het berekeningsjaar, bij regeling een bedrag vast, dat wordt gevormd door de geraamde gemiddelde premie voor een verzekerde voor een zorgverzekering in het berekeningsjaar te verminderen met het geraamde gemiddelde bedrag dat een verzekerde naar verwachting in het daaropvolgende jaar terug ontvangt ingevolge [artikel 22 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=22). Het vastgestelde bedrag geldt als standaardpremie voor het berekeningsjaar.
+Onze Minister stelt uiterlijk 15 dagen voorafgaande aan het berekeningsjaar bij regeling de standaardpremie voor het berekeningsjaar vast die wordt gevormd door de geraamde gemiddelde premie voor een verzekerde voor een zorgverzekering in het berekeningsjaar te vermeerderen met het geraamde gemiddelde bedrag dat een verzekerde naar verwachting in dat jaar betaalt ingevolge [artikel 18a van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=18a), met dien verstande dat bij het geraamde gemiddelde bedrag verzekerden die recht hebben op een uitkering als bedoeld in [artikel 118a van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=118a) niet worden meegerekend.
 
 ##### Artikel 5
 
