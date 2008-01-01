@@ -4,7 +4,7 @@ identifier: "BWBR0020326"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-01-01"
-last_updated: "2007-10-12"
+last_updated: "2008-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020326"
 soort: "AMvB"
@@ -45,6 +45,8 @@ De Raad van State gehoord (advies van 29 juni 2006 nummer W13.06.0169/III);
 Gezien het nader rapport van Onze Minister van Volksgezondheid, Welzijn en Sport van 18 september 2006, kenmerk MC/MO-2714571;
 
 Hebben goedgevonden en verstaan:
+
+Treedt in werking op het tijdstip waarop de Wet marktordening gezondheidszorg in werking treedt.
 
 ##### Artikel 1
 
@@ -100,9 +102,7 @@ Als zorg in de zin van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078)
 
 - a. radiodiagnostisch laboranten;
 
-- b. radiotherapeutisch laboranten;
-
-- c. gezondheidszorgpsycholoog.
+- b. radiotherapeutisch laboranten.
 
 2. De [artikelen 50 tot en met 56 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=50) zijn wel van toepassing indien de zorg, bedoeld in het eerste lid, geleverd wordt door of vanwege een instelling in de zin van de [Wet toelating zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018906) of deel uitmaakt van een prestatie of geheel van prestaties waarvoor een tarief in rekening wordt gebracht.
 
@@ -117,6 +117,12 @@ Als zorg in de zin van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078)
 Dit besluit treedt in werking op het tijdstip waarop de [Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078) in werking treedt.
 
 ##### Artikel 7
+
+Dit besluit wordt aangehaald als: Besluit uitbreiding en beperking werkingssfeer WMG.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 8
 
 Dit besluit wordt aangehaald als: Besluit uitbreiding en beperking werkingssfeer WMG.
 
