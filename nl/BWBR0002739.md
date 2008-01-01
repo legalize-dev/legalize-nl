@@ -4,7 +4,7 @@ identifier: "BWBR0002739"
 country: "nl"
 rank: "wet"
 publication_date: "2023-01-01"
-last_updated: "2005-01-01"
+last_updated: "2008-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002739"
 soort: "wet"
@@ -52,7 +52,9 @@ Onder akten worden niet alleen verstaan stukken, opgemaakt om tot bewijs te dien
 
 ##### Artikel 3
 
-Akten van notarissen, welke niet zijn genoemd in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=4&z=2005-01-01&g=2005-01-01), moeten binnen tien dagen na de dag waarop de akten zijn opgemaakt, door die ambtenaren ter registratie worden aangeboden.
+1. Akten van notarissen, welke niet zijn genoemd in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=4&z=2008-01-01&g=2008-01-01), moeten binnen tien dagen na de dag waarop de akten zijn opgemaakt, door die ambtenaren ter registratie worden aangeboden.
+
+2. In afwijking in zoverre van het eerste lid kan, onder bij regeling van Onze Minister van Financiën te stellen voorwaarden, in plaats van de akte een elektronisch afschrift daarvan langs elektronische weg worden aangeboden.
 
 ##### Artikel 4
 
@@ -62,13 +64,13 @@ Akten van notarissen, welke niet zijn genoemd in [artikel 4, eerste lid](https:/
 
 ##### Artikel 5
 
-Andere akten dan zijn bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=3&z=2005-01-01&g=2005-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=4&z=2005-01-01&g=2005-01-01), worden geregistreerd, wanneer zij daartoe worden aangeboden.
+Andere akten dan zijn bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=3&z=2008-01-01&g=2008-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=4&z=2008-01-01&g=2008-01-01), worden geregistreerd, wanneer zij daartoe worden aangeboden.
 
 ##### Artikel 6
 
 1. Op vordering van de inspecteur moet van een akte welke in een vreemde taal is gesteld, worden overgelegd een letterlijke vertaling in het Nederlands, voor overeenstemmend verklaard door een beëdigd vertaler in de zin van de wet van 6 mei 1878 (**Stb.** 30). Indien het een notariële akte betreft, kan de vertaling voor overeenstemmend worden verklaard door de notaris die de akte heeft opgemaakt.
 
-2. Ten aanzien van een akte als is bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=3&z=2005-01-01&g=2005-01-01) of 4, doet de inspecteur van zijn vordering blijken door een op de akte te stellen gedagtekende en ondertekende verklaring; de akte moet met de vertaling weer worden ingeleverd binnen een maand na de dagtekening van die verklaring.
+2. Ten aanzien van een akte als is bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=3&z=2008-01-01&g=2008-01-01) of 4, doet de inspecteur van zijn vordering blijken door een op de akte te stellen gedagtekende en ondertekende verklaring; de akte moet met de vertaling weer worden ingeleverd binnen een maand na de dagtekening van die verklaring.
 
 3. Is niet voldaan aan het eerste of tweede lid, dan wordt de aanbieding ter registratie geacht niet te hebben plaatsgehad.
 
@@ -88,7 +90,7 @@ Andere akten dan zijn bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci
 
 - c. toe te staan, afschriften van of uittreksels uit de onder letter **b** bedoelde bescheiden te maken, dan wel die bescheiden voor ten hoogste drie dagen tot nader onderzoek onder zich te nemen. De notaris wordt desgevraagd in de gelegenheid gesteld een afschrift van of uittreksel uit de bescheiden te maken.
 
-2. Het eerste lid geldt niet ten aanzien van de in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=4&z=2005-01-01&g=2005-01-01), genoemde akten, zolang de beschikkers in leven zijn.
+2. Het eerste lid geldt niet ten aanzien van de in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=4&z=2008-01-01&g=2008-01-01), genoemde akten, zolang de beschikkers in leven zijn.
 
 3. Voldoening aan de bij het eerste lid omschreven verplichtingen kan gevorderd worden op elke dag, met uitzondering van zaterdagen, zondagen, algemeen erkende feestdagen in de zin van de [Algemene termijnenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002448) (**Stb.** 1964, 314) en de bij of krachtens artikel 3 van die wet daarmede gelijkgestelde dagen, mits tussen des voormiddags negen uur en des namiddags vier uur.
 
@@ -96,15 +98,23 @@ Andere akten dan zijn bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci
 
 ##### Artikel 9
 
-De notaris is bevoegd onder hem berustende akten welke niet zijn genoemd in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=4&z=2005-01-01&g=2005-01-01), voor ten hoogste veertien dagen tegen ontvangbewijs af te geven aan de inspecteur of de in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=8&z=2005-01-01&g=2005-01-01), bedoelde andere ambtenaar.
+De notaris is bevoegd onder hem berustende akten welke niet zijn genoemd in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=4&z=2008-01-01&g=2008-01-01), voor ten hoogste veertien dagen tegen ontvangbewijs af te geven aan de inspecteur of de in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=8&z=2008-01-01&g=2008-01-01), bedoelde andere ambtenaar.
 
 ##### Artikel 10
 
-1. Het is een ieder verboden hetgeen hem in enige werkzaamheid bij de uitvoering van deze wet, of in verband daarmede, nopens de persoon of de zaken van een ander blijkt of medegedeeld wordt, verder bekend te maken dan nodig is voor de uitvoering van enige wet of voor de heffing of de invordering van enige rijksbelasting.
+1. Het is een ieder verboden hetgeen hem uit of in verband met enige werkzaamheid bij de uitvoering van deze wet over de persoon of zaken van een ander blijkt of wordt meegedeeld, verder bekend te maken dan noodzakelijk is voor de uitvoering van enige wet (geheimhoudingsplicht).
 
-2. Met afwijking van het eerste lid wordt desgevraagd inzage verleend in de registers van registratie, dan wel een uittreksel uit die registers afgegeven aan partijen, hun erfgenamen of rechtverkrijgenden, alsmede aan de openbare ambtenaar die de akte heeft opgemaakt of ter registratie heeft aangeboden, zijn plaatsvervanger of opvolger.
+2. De geheimhoudingsplicht geldt niet indien:
 
-3. Onze Minister van Financiën kan ontheffing verlenen van het in het eerste lid vervatte verbod.
+- a. enig wettelijk voorschrift tot de bekendmaking verplicht;
+
+- b. bij regeling van Onze Minister van Financiën is bepaald dat bekendmaking noodzakelijk is voor de goede vervulling van een publiekrechtelijke taak van een bestuursorgaan;
+
+- c. bekendmaking plaatsvindt aan degene op wie de gegevens betrekking hebben voorzover deze gegevens door of namens hem zijn verstrekt.
+
+3. In andere gevallen dan bedoeld in het tweede lid kan Onze Minister van Financiën ontheffing verlenen van de geheimhoudingsplicht.
+
+4. Aan degenen die partij zijn bij een akte, hun erfgenamen of hun rechtverkrijgenden alsmede aan de openbare ambtenaar die de akte heeft opgemaakt of ter registratie heeft aangeboden, zijn plaatsvervanger of zijn opvolger, wordt ter zake van die akte desgevraagd inzage verleend in de registers van registratie dan wel een uittreksel uit die registers afgegeven.
 
 ##### Artikel 11
 
@@ -112,43 +122,29 @@ De Staat is aansprakelijk voor de schade wegens verlies of beschadiging van een 
 
 ##### Artikel 12
 
-1. Wij behouden Ons voor bij algemene maatregel van bestuur:
-
-- a. tarieven vast te stellen van de kosten welke in rekening worden gebracht ter zake van:
-
-- 1°. het registreren van akten;
-
-- 2°. het verlenen van inzage in, dan wel het afgeven van uittreksels uit de registers van registratie;
-
-- b. ontheffing te verlenen van de verplichting tot aanbieding ter registratie voor bepaalde soorten van akten.
-
-2. De in het eerste lid, letter **a**, bedoelde tarieven zijn zodanig ingericht dat de verschuldigde kosten de werkelijke kosten niet te boven gaan.
-
-3. Ingeval de in het eerste lid, letter **a**, 1°, bedoelde kosten niet tijdig worden voldaan, wordt de aanbieding ter registratie geacht niet te hebben plaatsgehad.
-
-4. Op het bezwaar, beroep, hoger beroep en beroep in cassatie inzake de op de voet van het eerste en het tweede lid in rekening gebrachte kosten is [hoofdstuk V van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=V) van overeenkomstige toepassing.
+Vervallen
 
 ##### Artikel 13
 
 Onze Minister van Financiën bepaalt:
 
-- a. aan welke ambtenaren van de rijksbelastingdienst de aanbieding ter registratie, alsmede wanneer en op welke wijze de betaling van de kosten moet geschieden en welke inspecteur bevoegd is ten aanzien van de verplichtingen van notarissen;
+- a. aan welke ambtenaren van de rijksbelastingdienst de aanbieding ter registratie moet geschieden en welke inspecteur bevoegd is ten aanzien van de verplichtingen van notarissen;
 
-- b. de dagen en uren, waarop de kantoren voor het aanbieden van akten ter registratie en voor de betaling van de kosten zijn geopend;
+- b. de dagen en de uren waarop de kantoren voor het aanbieden van akten ter registratie zijn geopend;
 
 - c. de inrichting van de registers van registratie en de wijze waarop de registratie geschiedt;
 
-- d. de wijze waarop van de registratie op de geregistreerde akten blijkt;
+- d. de wijze waarop blijkt dat een akte is geregistreerd;
 
-- e. de inrichting en de wijze van bijhouding van het in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=7&z=2005-01-01&g=2005-01-01) bedoelde repertorium.
+- e. de inrichting en de wijze van bijhouding van het in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=7&z=2008-01-01&g=2008-01-01) bedoelde repertorium.
 
 ##### Artikel 14
 
-1. Hij die niet voldoet aan een verplichting, hem bij of krachtens de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=3&z=2005-01-01&g=2005-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=4&z=2005-01-01&g=2005-01-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=7&z=2005-01-01&g=2005-01-01) of [13, letter **e,**](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=13&z=2005-01-01&g=2005-01-01) opgelegd, wordt gestraft met een geldboete van de eerste categorie.
+1. Hij die niet voldoet aan een verplichting, hem bij of krachtens de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=3&z=2008-01-01&g=2008-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=4&z=2008-01-01&g=2008-01-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=7&z=2008-01-01&g=2008-01-01) of [13, letter **e,**](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=13&z=2008-01-01&g=2008-01-01) opgelegd, wordt gestraft met een geldboete van de eerste categorie.
 
-2. De notaris die niet voldoet aan een verplichting, hem bij [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=8&z=2005-01-01&g=2005-01-01) opgelegd, wordt gestraft met een geldboete van de tweede categorie.
+2. De notaris die niet voldoet aan een verplichting, hem bij [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=8&z=2008-01-01&g=2008-01-01) opgelegd, wordt gestraft met een geldboete van de tweede categorie.
 
-3. De notaris die, ingevolge [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=8&z=2005-01-01&g=2005-01-01) desgevraagd gehouden zijnde tot het verschaffen van gegevens of inlichtingen, onjuiste of onvolledige gegevens of inlichtingen verstrekt, wordt gestraft met een geldboete van de derde categorie.
+3. De notaris die, ingevolge [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=8&z=2008-01-01&g=2008-01-01) desgevraagd gehouden zijnde tot het verschaffen van gegevens of inlichtingen, onjuiste of onvolledige gegevens of inlichtingen verstrekt, wordt gestraft met een geldboete van de derde categorie.
 
 4. De [afdelingen 2](onbekend) en 3 van [hoofdstuk IX van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=IX) zijn van overeenkomstige toepassing.
 
