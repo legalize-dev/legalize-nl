@@ -4,7 +4,7 @@ identifier: "BWBR0019765"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2008-01-01"
-last_updated: "2006-08-01"
+last_updated: "2008-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019765"
 soort: "ministeriele-regeling"
@@ -46,9 +46,7 @@ Wijzigt de Regeling betreffende aanvragen op grond van de Wet verplichte deelnem
 
 ##### Artikel II
 
-1. Aanvragen als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012074&artikel=2), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0012074&artikel=3), of [4, van de Regeling betreffende aanvragen op grond van de Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012074&artikel=4), die zijn ontvangen vóór de datum van inwerkingtreding van deze regeling worden afgehandeld overeenkomstig de [Regeling betreffende aanvragen op grond van de Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012074) zoals die regeling luidde onmiddellijk voorafgaande aan de datum van inwerkingtreding van deze regeling.
-
-2. Dit artikel vervalt met ingang van 1 januari 2008.
+Vervallen
 
 ##### Artikel III
 
