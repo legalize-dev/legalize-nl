@@ -4,7 +4,7 @@ identifier: "BWBR0008903"
 country: "nl"
 rank: "wet"
 publication_date: "2015-07-01"
-last_updated: "2006-03-08"
+last_updated: "2008-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008903"
 soort: "wet"
@@ -49,135 +49,197 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 1. In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. doelgroep: personen, die nog niet de leeftijd van 65 jaar hebben bereikt en die door lichamelijke, verstandelijke of psychische beperkingen uitsluitend onder aangepaste omstandigheden tot regelmatige arbeid in staat zijn;
+arbeidshandicap: het vanwege lichamelijke, verstandelijke of psychische beperkingen verminderd vermogen om arbeid te verrichten;
 
-- b. arbeidshandicap: het vanwege lichamelijke, verstandelijke of psychische beperkingen verminderd vermogen om arbeid te verrichten;
+arbeidshandicapcategorie: een groep van tot de doelgroep behorende personen, die in dezelfde orde arbeidsgehandicapt is;
 
-- c. arbeidshandicapcategorie: een groep van tot de doelgroep behorende personen, die in dezelfde orde arbeidsgehandicapt is;
+Centrale organisatie werk en inkomen: de Centrale organisatie werk en inkomen, genoemd in [hoofdstuk 4 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=4);
 
-- d. dienstbetrekking: een dienstbetrekking met de gemeente als bedoeld in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&z=2006-03-08&g=2006-03-08);
+college: college van burgemeester en wethouders;
 
-- e. werknemer: degene die een dienstbetrekking heeft;
+dienstbetrekking: een arbeidsovereenkomst als bedoeld in [artikel 610, eerste lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=610);
 
-- f. Uitvoeringsinstituut werknemersverzekeringen: het Uitvoeringsinstituut werknemersverzekeringen, genoemd in [hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5);
+doelgroep: personen, die nog niet de leeftijd van 65 jaar hebben bereikt en die door lichamelijke, verstandelijke of psychische beperkingen uitsluitend onder aangepaste omstandigheden tot regelmatige arbeid in staat zijn;
 
-- g. Centrale organisatie werk en inkomen: de Centrale organisatie werk en inkomen, genoemd in [hoofdstuk 4 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=4);
+geïndiceerd: blijkens een indicatiebeschikking of herindicatiebeschikking als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=5&artikel=11&z=2008-01-01&g=2008-01-01) tot de doelgroep behoren;
 
-- h. Onze Minister: Onze Minister van Sociale Zaken en Werkgelegenheid.
+gerealiseerd arbeidsjaar: het equivalent van een dienstbetrekking op basis van een volledige werkweek die het gehele kalenderjaar is vervuld door een geïndiceerde ingezetene of een daarmee gelijkgestelde, gebaseerd op het gemiddelde van de twaalf eindemaandsstanden;
 
-2. Indien bij een gemeenschappelijke regeling als bedoeld in de [Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740) de uitvoering van deze wet volledig is overgedragen aan het bestuur van een openbaar lichaam als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=8) van die wet, treedt dat bestuur voor de toepassing van deze wet in de plaats van de betrokken colleges van burgemeester en wethouders.
+Onze Minister: Onze Minister van Sociale Zaken en Werkgelegenheid;
 
-3. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld voor de bepaling van de doelgroep en de arbeidshandicapcategorieën.
+Uitvoeringsinstituut werknemersverzekeringen: het Uitvoeringsinstituut werknemersverzekeringen, genoemd in [hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5);
+
+werknemer: degene die een dienstbetrekking heeft als bedoeld in het derde lid.
+
+2. Indien bij een gemeenschappelijke regeling als bedoeld in de [Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740) de uitvoering van deze wet volledig is overgedragen aan het bestuur van een openbaar lichaam als bedoeld in [artikel 8 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=8), treedt dat bestuur voor de toepassing van deze wet, met uitzondering van de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=4&artikel=8&z=2008-01-01&g=2008-01-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=4&artikel=9&z=2008-01-01&g=2008-01-01), [13, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=6&artikel=13&z=2008-01-01&g=2008-01-01), en [14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=6&artikel=14&z=2008-01-01&g=2008-01-01), in de plaats van de betrokken colleges.
+
+3. Het college draagt er zorg voor dat aan zoveel mogelijk ingezetenen die geïndiceerd zijn, een dienstbetrekking wordt aangeboden voor het verrichten van arbeid onder aangepaste omstandigheden.
+
+4. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld voor de bepaling van de doelgroep, de arbeidshandicapcategorieën en de gerealiseerde arbeidsjaren.
 
 ### Hoofdstuk 2. De gemeentelijke sociale werkvoorziening
 
 ##### Artikel 2
 
-1. Het college van burgemeester en wethouders draagt er zorg voor dat het aan zoveel mogelijk ingezetenen, die blijkens een door de Centrale organisatie werk en inkomen afgegeven indicatiebeschikking of herindicatiebeschikking, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=5&artikel=11&z=2006-03-08&g=2006-03-08) tot de doelgroep behoren, een dienstbetrekking krachtens arbeidsovereenkomst naar burgerlijk recht aanbiedt voor het verrichten van arbeid onder aangepaste omstandigheden. Deze dienstbetrekking is een arbeidsovereenkomst als bedoeld in [artikel 610, eerste lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=610).
+1. Het college kan ter uitvoering van [artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=1&artikel=1&z=2008-01-01&g=2008-01-01), aan een ingezetene die geïndiceerd is een dienstbetrekking aanbieden voor het verrichten van arbeid onder aangepaste omstandigheden.
 
-2. Op de arbeidsovereenkomst, bedoeld in het eerste lid, zijn de bepalingen van [titel 10 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&titeldeel=10) van toepassing.
+2. Het college kan een privaatrechtelijke rechtspersoon aanwijzen ten behoeve van de uitvoering van deze wet. Het college regelt in het aanwijzingsbesluit de inhoud van de rechtsbetrekking tussen zichzelf en de betrokken rechtspersoon.
 
-3. Het college van burgemeester en wethouders kan een rechtspersoon aanwijzen ten behoeve van de uitvoering van deze wet. Het college regelt in het aanwijzingsbesluit de inhoud van de rechtsbetrekking tussen de gemeente en de betrokken rechtspersoon.
+3. De gemeenteraad stelt bij verordening regels over de wijze waarop de ingezetenen die geïndiceerd zijn of hun vertegenwoordigers worden betrokken bij de uitvoering van deze wet, waarbij in ieder geval wordt geregeld de wijze waarop:
 
-4. Het college van burgemeester en wethouders kan een indicatiebeschikking of herindicatiebeschikking intrekken als een persoon die tot de doelgroep behoort passende arbeid in dienstbetrekking onder aangepaste omstandigheden weigert.
+- a. periodiek overleg wordt gevoerd met deze ingezetenen of hun vertegenwoordigers;
+
+- b. deze ingezetenen of vertegenwoordigers onderwerpen voor de agenda van dit overleg kunnen aanmelden;
+
+- c. zij worden voorzien van de voor een adequate deelname aan het overleg benodigde informatie.
 
 ##### Artikel 3
 
-1. De arbeid, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&artikel=2&z=2006-03-08&g=2006-03-08), is gericht op het behouden dan wel het bevorderen van de arbeidsbekwaamheid van de werknemer mede met het oog op het kunnen gaan verrichten van arbeid onder normale omstandigheden.
+1. De arbeid, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&artikel=2&z=2008-01-01&g=2008-01-01), is gericht op het behouden dan wel het bevorderen van de arbeidsbekwaamheid van de werknemer mede met het oog op het kunnen gaan verrichten van arbeid onder normale omstandigheden.
 
-2. Bij de aanpassing van de omstandigheden, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&artikel=2&z=2006-03-08&g=2006-03-08), wordt rekening gehouden met het advies ter zake dat in de indicatiebeschikking of herindicatiebeschikking is opgenomen.
-
-3. Bij ministeriële regeling kunnen regels worden gesteld inzake de aanpassing van de omstandigheden, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&artikel=2&z=2006-03-08&g=2006-03-08).
+2. Bij de aanpassing van de omstandigheden, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&artikel=2&z=2008-01-01&g=2008-01-01), wordt rekening gehouden met het advies ter zake dat in de indicatiebeschikking of herindicatiebeschikking is opgenomen.
 
 ##### Artikel 4
 
-1. Het college van burgemeester en wethouders, het Uitvoeringsinstituut werknemersverzekeringen en de Centrale organisatie werk en inkomen werken samen om de inschakeling in het arbeidsproces te bevorderen van de werknemers van wie de verwachting bestaat dat zij in staat zullen zijn om binnen een jaar arbeid te verrichten onder normale omstandigheden en bij de toepassing van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=3&artikel=7&z=2006-03-08&g=2006-03-08).
-
-2. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld voor de uitvoering van het eerste lid.
+Het college bevordert de inschakeling in het arbeidsproces van de werknemers van wie bij herindicatiebeschikking is vastgesteld dat zij in staat zijn om arbeid te verrichten onder normale omstandigheden. Het college werkt hierbij samen met het Uitvoeringsinstituut werknemersverzekeringen en de Centrale organisatie werk en inkomen.
 
 ##### Artikel 5
 
-Het college van burgemeester en wethouders bedingt voor de door de werknemer verrichte arbeid dan wel voor ten gevolge van zijn arbeid geleverde goederen of diensten een vergoeding, die de concurrentieverhoudingen niet onverantwoord mag beïnvloeden.
+Het college bedingt voor de door zijn werknemer verrichte arbeid dan wel voor ten gevolge van zijn arbeid geleverde goederen of diensten een vergoeding, die de concurrentieverhoudingen niet onverantwoord mag beïnvloeden.
 
 ##### Artikel 6
 
 1. De werknemer is verplicht mee te werken aan het behoud dan wel het bevorderen van zijn arbeidsbekwaamheid en aan het verkrijgen van arbeid onder normale omstandigheden, voor zover hij daartoe in staat wordt geacht.
 
-2. Onverminderd de bepalingen van [titel 10 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&titeldeel=10), wordt de dienstbetrekking opgezegd, indien:
+2. Zo nodig in afwijking van de [artikelen 670](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=670) en [670a van titel 10 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=670a), zegt het college uit eigen beweging, dan wel onverwijld op een daartoe strekkend verzoek van het college van de gemeente dat een vergoeding als bedoeld in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=4&artikel=10&z=2008-01-01&g=2008-01-01), betaalt, de dienstbetrekking op, indien:
 
-- a. de werknemer niet meewerkt aan een herindicatie overeenkomstig de daaromtrent bij of krachtens algemene maatregel van bestuur gestelde regels;
+- a. zijn werknemer niet meewerkt aan een herindicatie overeenkomstig de daaromtrent bij of krachtens algemene maatregel van bestuur gestelde regels;
 
-- b. de werknemer blijkens een onaantastbaar geworden herindicatiebeschikking niet langer tot de doelgroep behoort, en wel zodra voor hem een alternatieve opvangmogelijkheid feitelijk beschikbaar is dan wel zodra hij een aanbod tot passende arbeid onder normale omstandigheden heeft geweigerd;
+- b. zijn werknemer blijkens een onaantastbaar geworden herindicatiebeschikking niet langer tot de doelgroep behoort, en wel zodra voor hem een alternatieve opvangmogelijkheid feitelijk beschikbaar is of door zijn toedoen niet beschikbaar komt, dan wel zodra hij een aanbod tot passende arbeid onder normale omstandigheden heeft geweigerd;
 
-- c. de werknemer niet voldoet aan het eerste lid.
+- c. zijn werknemer niet voldoet aan het eerste lid.
 
-3. Voordat het college van burgemeester en wethouders de dienstbetrekking opzegt wegens een andere reden dan genoemd in de onderdelen **a** en **b** van het tweede lid, vraagt het advies van de Centrale organisatie werk en inkomen.
+3. Voordat het college de dienstbetrekking opzegt wegens een andere reden dan genoemd in de onderdelen a en b van het tweede lid, vraagt het advies van de Centrale organisatie werk en inkomen.
 
 ### Hoofdstuk 3. Subsidieverstrekking door de gemeente
 
 ##### Artikel 7
 
-1. Het college van burgemeester en wethouders kan een subsidie verstrekken aan een werkgever, die met een ingezetene die blijkens een indicatiebeschikking of herindicatiebeschikking tot de doelgroep behoort, een arbeidsovereenkomst sluit, indien:
+1. Indien een werkgever met een ingezetene die geïndiceerd is een dienstbetrekking als bedoeld in [artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=1&artikel=1&z=2008-01-01&g=2008-01-01), aangaat, en de inpassing in de arbeid van betrokkene, met inbegrip van begeleiding op zijn werkplek, adequaat wordt verzorgd kan het college:
 
-- a. in de beschikking is aangegeven, dat die ingezetene in aanmerking komt voor toepassing van dit hoofdstuk; en
+- a. aan de werkgever een subsidie verstrekken; en
 
-- b. de inpassing in de arbeid van betrokkene, met inbegrip van begeleiding op zijn werkplek, adequaat wordt verzorgd.
+- b. aan de begeleidingsorganisatie een vergoeding verstrekken voor de noodzakelijke kosten van arbeidsinpassing met inbegrip van de begeleiding van de geïndiceerde op zijn werkplek.
 
-2. [Artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&artikel=2&z=2006-03-08&g=2006-03-08), is van overeenkomstige toepassing.
+2. Op verzoek van de ingezetene die geïndiceerd is verstrekt het college in ieder geval een periodieke subsidie aan de werkgever aan wie op grond van het eerste lid subsidie kan worden verstrekt alsmede aan de begeleidingsorganisatie een periodieke vergoeding voor de noodzakelijke kosten van de begeleiding op de werkplek indien:
 
-3. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot de toepassing van het eerste lid.
+- a. betrokkene een werknemer is of met inachtneming van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=5&artikel=12&z=2008-01-01&g=2008-01-01) en de daarop berustende regels recht heeft op aanbieding van een dienstbetrekking als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&artikel=2&z=2008-01-01&g=2008-01-01), door het college; en
 
-4. De voordracht voor een krachtens het derde lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.
+- b. het bedrag van de subsidie en de vergoeding omgerekend op jaarbasis niet meer bedraagt dan
 
-### Hoofdstuk 4. Subsidie aan de gemeente
+(( A / B) x C)) – (D)
+
+waarbij:
+
+A staat voor de uitkering bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=4&artikel=8&z=2008-01-01&g=2008-01-01);
+
+B staat voor het op grond van artikel 8, tweede lid, vastgestelde aantal bij de uitkering, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=4&artikel=8&z=2008-01-01&g=2008-01-01), behorende minimumaantal arbeidsjaren;
+
+C staat voor 1 als de ingezetene is ingedeeld in de arbeidshandicapcategorie matig en voor 1,25 als hij is ingedeeld in de arbeidshandicapcategorie ernstig;
+
+D staat voor de voor het college rechtstreeks aan de subsidieverlening verbonden uitvoeringskosten omgerekend op jaarbasis.
+
+3. Indien op grond van het tweede lid een periodieke subsidie wordt verleend kan het college aan de werkgever een vergoeding verstrekken voor de eenmalige noodzakelijke kosten van aanpassing van de omstandigheden waaronder de arbeid wordt verricht.
+
+4. Het college kan op verzoek van de ingezetene die geïndiceerd is en die het college schriftelijk heeft meegedeeld in verband met het tweede lid een werkgever te zullen zoeken, een door die ingezetene aangewezen begeleidingsorganisatie inschakelen ten behoeve van de totstandkoming van een dienstbetrekking.
+
+5. Een periodieke subsidie op grond van dit artikel wordt, in afwijking van [artikel 4:32 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:32), verleend zolang de dienstbetrekking duurt en de inpassing in de arbeid van betrokkene, met inbegrip van begeleiding op zijn werkplek, adequaat wordt verzorgd.
+
+6. Zo nodig in afwijking van het vijfde lid worden de periodieke subsidie en de periodieke vergoeding voor de noodzakelijke kosten van de begeleiding op de werkplek beëindigd:
+
+- a. indien de werknemer blijkens een onaantastbaar geworden herindicatiebeschikking niet langer tot de doelgroep behoort, zodra voor hem een alternatieve opvangmogelijkheid feitelijk beschikbaar is of door zijn toedoen niet beschikbaar komt dan wel zodra hij een aanbod tot passende arbeid onder normale omstandigheden heeft geweigerd;
+
+- b. indien de werknemer niet meewerkt aan een herindicatie overeenkomstig de daaromtrent bij of krachtens algemene maatregel van bestuur gestelde regels;
+
+- c. indien de werknemer niet voldoet aan [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&artikel=6&z=2008-01-01&g=2008-01-01).
+
+7. Zo nodig in afwijking van de [artikelen 670](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=670) en [670a van titel 10 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=670a) kan de werkgever de dienstbetrekking opzeggen indien de periodieke subsidie op grond van het zesde lid niet langer wordt verleend.
+
+8. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot de toepassing van het eerste tot en met vierde lid.
+
+9. De voordracht voor een krachtens het achtste lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.
+
+10. De gemeenteraad stelt bij verordening nadere regels met betrekking tot de toepassing van het tweede tot en met het vierde lid door het college. De regels, bedoeld in de eerste zin, hebben in ieder geval betrekking op:
+
+- a. de wijze waarop de hoogte van de periodieke subsidie aan de werkgever dient te worden vastgesteld;
+
+- b. de hoogte van de voor het college rechtstreeks aan de subsidieverlening verbonden uitvoeringskosten omgerekend op jaarbasis;
+
+- c. de voorwaarden waaronder het college aan de werkgever een vergoeding verstrekt voor de eenmalige noodzakelijke kosten van aanpassing van de omstandigheden waaronder arbeid wordt verricht; en
+
+- d. de voorwaarden waaronder het college een begeleidingsorganisatie inschakelt die door de Wsw-geïndiceerde zelf is aangewezen.
+
+### Hoofdstuk 4. Financiering
 
 ##### Artikel 8
 
-1. Het Rijk verstrekt aan de gemeente overeenkomstig dit hoofdstuk een subsidie voor de uitvoering van de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&z=2006-03-08&g=2006-03-08) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=3&z=2006-03-08&g=2006-03-08).
+1. Onze Minister verstrekt jaarlijks ten laste van ’s Rijks kas aan het college een uitkering voor de uitvoering van de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&z=2008-01-01&g=2008-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=3&z=2008-01-01&g=2008-01-01). De uitkering wordt ten minste drie maanden voorafgaand aan het kalenderjaar waarop zij betrekking heeft door Onze Minister vastgesteld.
 
-2. Onze Minister verleent vóór 1 oktober van ieder jaar de subsidie, waarop elke gemeente over het daaropvolgende jaar recht heeft.
+2. Het bedrag van de uitkering wordt, overeenkomstig bij of krachtens algemene maatregel van bestuur te stellen regels, berekend aan de hand van het voor ieder jaar bij wet vast te stellen totale bedrag dat beschikbaar is voor de uitkeringen, bedoeld in het eerste lid. Daarbij wordt, overeenkomstig bij of krachtens de algemene maatregel van bestuur te stellen regels, het bijbehorende minimumaantal arbeidsjaren vastgesteld.
 
-3. De hoogte van de subsidie wordt, overeenkomstig bij of krachtens algemene maatregel van bestuur gestelde regels en na overleg met een representatieve vertegenwoordiging van de gemeenten, bepaald aan de hand van:
+3. Onze Minister kan de hoogte van de uitkering wijzigen voor zover dat verband houdt met een na de datum van de vaststelling van de uitkering getroffen maatregel, die voor alle gemeenten gelijk werkt.
 
-- a. een door Onze Minister voor elke gemeente vast te stellen aantal dienstbetrekkingen op basis van een volledige werkweek dan wel arbeidsovereenkomsten op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=3&artikel=7&z=2006-03-08&g=2006-03-08), onderscheiden naar arbeidshandicapcategorie, en rekening houdend met het aantal ingezetenen die blijkens een indicatiebeschikking of herindicatiebeschikking tot de onderscheiden arbeidshandicapcategorieën binnen de doelgroep behoren;
-
-- b. een door Onze Minister jaarlijks vast te stellen bedrag per arbeidsovereenkomst als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=3&artikel=7&z=2006-03-08&g=2006-03-08) en per dienstbetrekking als bedoeld in onderdeel **a**, dat voor elke arbeidshandicapcategorie verschillend kan worden vastgesteld, rekening houdend met de verwachte loonkostenontwikkelingen, uitvoeringskosten en opbrengsten voortvloeiend uit de dienstbetrekkingen;
-
-- c. de aan de gemeente verleende subsidie over het voorafgaande jaar.
-
-4. De voordracht voor een krachtens het derde lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.
-
-5. Dienstbetrekkingen aangegaan na de inwerkingtreding van deze wet komen voor subsidie in aanmerking ter hoogte van een bij of krachtens algemene maatregel van bestuur te bepalen gedeelte van de subsidie die geldt voor een dienstbetrekking op basis van een volledige werkweek.
-
-6. Onze Minister kan de hoogte van de subsidie wijzigen voor zover dat verband houdt met een na de datum van de subsidieverlening getroffen maatregel op het terrein van de arbeidsvoorwaarden, de sociale zekerheid of de belastingen, die voor alle gemeenten gelijk werkt.
-
-7. Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot de wijze van betaling van de subsidie.
+4. Bij ministeriële regeling worden regels gesteld met betrekking tot de betaling van de uitkering.
 
 ##### Artikel 9
 
-1. Na afloop van het jaar stelt Onze Minister de subsidie vast. De vastgestelde subsidie kan van de verleende subsidie afwijken, voor zover:
+1. Indien uit de bijlage, bedoeld in [artikel 13, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=6&artikel=13&z=2008-01-01&g=2008-01-01), blijkt dat in het kalenderjaar waarop de uitkering betrekking heeft het aantal in dat jaar gerealiseerde arbeidsjaren uit dienstbetrekkingen als bedoeld in de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&z=2008-01-01&g=2008-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=3&z=2008-01-01&g=2008-01-01) minder bedraagt dan het op grond van [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=4&artikel=8&z=2008-01-01&g=2008-01-01), vastgestelde minimumaantal arbeidsjaren, wordt van de uitkering teruggevorderd:
 
-- a. de som van de produkten van het, op basis van een volledige werkweek berekende, aantal in dat jaar gerealiseerde arbeidsjaren uit dienstbetrekkingen en arbeidsovereenkomsten als bedoeld in [de hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&z=2006-03-08&g=2006-03-08) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=3&z=2006-03-08&g=2006-03-08) in elke arbeidshandicapcategorie en het bij die arbeidshandicapcategorie behorende bedrag als bedoeld in [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=4&artikel=8&z=2006-03-08&g=2006-03-08), minder bedraagt dan de verleende subsidie;
+( A – B ) x C
 
-- b. de dienstbetrekking met een werknemer, nadat is vastgesteld dat hij niet langer tot de doelgroep behoort, in strijd met [artikel 6, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&artikel=6&z=2006-03-08&g=2006-03-08), langer wordt voortgezet dan de voor hem geldende opzegtermijn;
+A
 
-- c. college van burgemeester en wethouders niet handelt in overeenstemming met de bij of krachtens deze wet gestelde regels, of daarop niet dan wel onvoldoende toeziet, met uitzondering van [de artikelen 2, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&artikel=2&z=2006-03-08&g=2006-03-08), en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&artikel=5&z=2006-03-08&g=2006-03-08).
+waarbij:
 
-2. Verlies van ingezetenschap in de gemeente heeft geen invloed op de toepassing van onderdeel a van het eerste lid, zolang de dienstbetrekking of de arbeidsovereenkomst, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=3&artikel=7&z=2006-03-08&g=2006-03-08), voortduurt.
+A staat voor het op grond van [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=4&artikel=8&z=2008-01-01&g=2008-01-01), vastgestelde aantal bij de uitkering, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=4&artikel=8&z=2008-01-01&g=2008-01-01), behorende minimumaantal arbeidsjaren;
 
-3. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld voor de subsidievaststelling en de gevolgen daarvan voor de subsidieverlening voor de komende jaren.
+B staat voor het aantal gerealiseerde arbeidsjaren uit dienstbetrekkingen als bedoeld in de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&z=2008-01-01&g=2008-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=3&z=2008-01-01&g=2008-01-01);
+
+C staat voor de uitkering bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=4&artikel=8&z=2008-01-01&g=2008-01-01).
+
+2. Verlies van ingezetenschap van de gemeente heeft geen invloed op de toepassing van het eerste lid, zolang de dienstbetrekking voortduurt tot en met het kalenderjaar na het jaar waarin het ingezetenschap is verloren. Indien de werknemer buiten Nederland gaat wonen heeft het verlies van ingezetenschap geen invloed op de toepassing van het eerste lid zolang de dienstbetrekking voortduurt tot en met het kalenderjaar na het jaar waarin hij wederom in Nederland gaat wonen.
+
+3. Onze Minister doet binnen een jaar na ontvangst van de bijlage, bedoeld in [artikel 13, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=6&artikel=13&z=2008-01-01&g=2008-01-01), mededeling van terugvordering op grond van het eerste lid aan het college.
+
+4. Indien de verantwoordingsinformatie, bedoeld in [artikel 13, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=6&artikel=13&z=2008-01-01&g=2008-01-01), niet door Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties is ontvangen binnen twaalf maanden na het kalenderjaar waarop zij betrekking heeft, wordt de uitkering met betrekking tot het desbetreffende kalenderjaar op nihil vastgesteld en wordt de reeds betaalde uitkering teruggevorderd. Indien volledige terugvordering naar het oordeel van Onze Minister leidt tot een onbillijkheid van overwegende aard, stelt Onze Minister de terugvordering vast op een percentage van de uitkering. Onze Minister doet binnen drie maanden na de in de eerste zin bedoelde datum mededeling van terugvordering aan het college.
 
 ##### Artikel 10
 
-1. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot een subsidie van het Rijk aan de gemeenten in verband met de inkoop door het college van burgemeester en wethouders van diensten in het kader van arbeidsbemiddeling ten behoeve van de werknemers.
+1. Bij overgang van ingezetenschap van de ene naar de andere gemeente treedt het college van de gemeente waarvan de betrokkene, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=3&artikel=7&z=2008-01-01&g=2008-01-01), ingezetene wordt per 1 januari van het tweede kalenderjaar volgend op het kalenderjaar van die overgang bij de toepassing van dat artikel in de plaats van het college van de gemeente waarvan de betrokkene, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=3&artikel=7&z=2008-01-01&g=2008-01-01), niet langer ingezetene is.
 
-2. Bij ministeriële regeling kunnen, met het oog op een goede verdeling van de beschikbare dienstbetrekkingen of arbeidsovereenkomsten, bedoeld in [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=3&z=2006-03-08&g=2006-03-08), over de ingezetenen die tot de doelgroep behoren, nadere regels worden gesteld met betrekking tot de volgorde van aanbieding van een dienstbetrekking of een arbeidsovereenkomst.
+2. Bij overgang van ingezetenschap van de ene naar de andere gemeente betaalt het college van de gemeente waarvan de betrokkene ingezetene wordt vanaf het tweede kalenderjaar volgend op het kalenderjaar van die overgang aan het college van de gemeente waarvan de betrokkene niet langer ingezetene is een vergoeding voorzover zijn dienstbetrekking met dat college voortduurt.
 
-### Hoofdstuk 5. De indicatie
+3. De vergoeding, bedoeld in het tweede lid, bedraagt per kalenderjaar:
+
+(A / B) x C
+
+waarbij:
+
+A staat voor de uitkering, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=4&artikel=8&z=2008-01-01&g=2008-01-01) aan de gemeente waarvan de betrokkene ingezetene is;
+
+B staat voor het op grond van [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=4&artikel=8&z=2008-01-01&g=2008-01-01), vastgestelde aantal bij de uitkering, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=4&artikel=8&z=2008-01-01&g=2008-01-01), behorende minimumaantal arbeidsjaren voor de gemeente waarvan de betrokkene ingezetene is;
+
+C staat voor het aantal door de ingezetene gerealiseerde arbeidsjaren in dat kalenderjaar berekend op honderdsten nauwkeurig waarbij vijfduizendste of meer naar boven wordt afgerond op een honderdste.
+
+4. Iedere maand wordt bij wijze van voorschot 1/12 van de naar het oordeel van het college van de gemeente waarmee de betrokkene zijn dienstbetrekking heeft te verwachten vergoeding betaald. Indien in de loop van het kalenderjaar de te verwachten vergoeding naar het oordeel van dat college wijzigt wordt het voorschot daarop aangepast.
+
+5. Voor de toepassing van dit artikel wordt het ingezetenschap van de werknemer die van buiten Nederland in Nederland gaat wonen geacht over te zijn gegaan van de gemeente waarin hij laatstelijk in Nederland woonde naar de gemeente in Nederland waarin hij gaat wonen.
+
+### Hoofdstuk 5. De indicatie en het aanbod
 
 ##### Artikel 11
 
-1. De Centrale organisatie werk en inkomen stelt van personen, die voor indicatie zijn aangemeld dan wel die zich daartoe hebben aangemeld bij beschikking vast:
+1. De Centrale organisatie werk en inkomen stelt van personen, die daartoe een aanvraag hebben ingediend, bij beschikking vast:
 
 - a. of deze behoren tot de doelgroep;
 
@@ -187,95 +249,127 @@ Het college van burgemeester en wethouders bedingt voor de door de werknemer ver
 
 - 2°. de indeling van de persoon in één van de arbeidshandicapcategorieën, die bepaald worden door de zwaarte van de aanpassing van de omstandigheden en de productiviteit.
 
-2. De Centrale organisatie werk en inkomen verricht periodiek herindicatie van personen die tot de doelgroep behoren overeenkomstig de krachtens [artikel 6, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&artikel=6&z=2006-03-08&g=2006-03-08), gestelde regels. Het eerste lid is van overeenkomstige toepassing.
+2. De Centrale organisatie werk en inkomen verricht periodiek herindicatie van personen die tot de doelgroep behoren overeenkomstig de krachtens [artikel 6, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&artikel=6&z=2008-01-01&g=2008-01-01), gestelde regels. Het eerste lid is van overeenkomstige toepassing.
 
-3. Indicatie vindt slechts plaats met betrekking tot personen die als werkzoekende staan ingeschreven bij de Centrale organisatie werk en inkomen, dan wel personen, die reeds een dienstbetrekking of een arbeidsovereenkomst als bedoeld in [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=3&z=2006-03-08&g=2006-03-08) hebben en die voor herindicatie in aanmerking komen.
+3. Op aanvraag van het college verricht de Centrale organisatie werk en inkomen, overeenkomstig de krachtens [artikel 6, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&artikel=6&z=2008-01-01&g=2008-01-01), gestelde regels, herindicatie van de werknemer die de bedongen arbeid gedurende een ononderbroken periode van ten minste 13 weken niet heeft verricht omdat hij in verband met ongeschiktheid ten gevolge van ziekte daartoe verhinderd was en die naar het inzicht van het college duurzaam niet in staat zal zijn tot het verrichten van arbeid onder aangepaste omstandigheden. Het eerste lid is van overeenkomstige toepassing.
 
-4. Het college van burgemeester en wethouders beheert een lijst van ingezetenen die tot de doelgroep behoren.
+4. Indicatie vindt slechts plaats met betrekking tot
 
-5. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot de bij of krachtens dit artikel aan de Centrale organisatie werk en inkomen of het college van burgemeester en wethouders opgedragen taak en de wijze van uitoefening daarvan.
+- a. personen:
 
-6. De voordracht voor een krachtens het vijfde lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.
+- 1°. die als werkzoekende staan ingeschreven bij de Centrale organisatie werk en inkomen,
+
+- 2°. die voor een dienstbetrekking als bedoeld in [artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=1&artikel=1&z=2008-01-01&g=2008-01-01), in aanmerking wensen te komen, en
+
+- 3°. van wie niet in de periode van 12 maanden voorafgaand aan de aanvraag de indicatiebeschikking of herindicatiebeschikking is ingetrokken op grond van [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=5&artikel=12&z=2008-01-01&g=2008-01-01);
+
+- b. werknemers die voor herindicatie in aanmerking komen.
+
+5. Een indicatiebeschikking of herindicatiebeschikking wordt gegeven binnen zestien weken na ontvangst van de aanvraag.
+
+6. In afwijking van [artikel 7:10, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:10) beslist de Centrale organisatie werk en inkomen binnen zestien weken na ontvangst van het bezwaarschrift tegen een indicatiebeschikking of herindicatiebeschikking.
+
+7. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot de bij of krachtens dit artikel aan de Centrale organisatie werk en inkomen opgedragen taak en de wijze van uitoefening daarvan.
+
+8. De voordracht voor een krachtens het zevende lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.
 
 ##### Artikel 12
 
-Vervallen
+1. Het college beheert een wachtlijst. De wachtlijst bevat een overzicht van ingezetenen die geïndiceerd zijn, geen dienstbetrekking hebben als bedoeld in de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&z=2008-01-01&g=2008-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=3&z=2008-01-01&g=2008-01-01) en beschikbaar zijn om een dergelijke dienstbetrekking te aanvaarden.
+
+2. De gemeenteraad kan bij verordening regels stellen over de volgorde waarin de ingezetenen die op de wachtlijst zijn geplaatst voor een dienstbetrekking als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&artikel=2&z=2008-01-01&g=2008-01-01), in aanmerking worden gebracht. Bij het ontbreken van een dergelijke verordening geldt de volgorde van de plaatsing op de wachtlijst.
+
+3. Het college kan de indicatiebeschikking of herindicatiebeschikking van een betrokkene intrekken indien:
+
+- a. betrokkene passende arbeid in dienstbetrekking onder aangepaste omstandigheden weigert;
+
+- b. de dienstbetrekking van betrokkene door het college is opgezegd op grond van [artikel 6, tweede lid, onderdeel a of c](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&artikel=6&z=2008-01-01&g=2008-01-01), of door de werkgever, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=3&artikel=7&z=2008-01-01&g=2008-01-01), in verband met de toepassing van [artikel 7, zesde lid, onderdeel b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=3&artikel=7&z=2008-01-01&g=2008-01-01), vanaf het moment dat de opzegging rechtens onaantastbaar is;
+
+- c. de dienstbetrekking van betrokkene door het college of de werkgever, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=3&artikel=7&z=2008-01-01&g=2008-01-01), is opgezegd om een dringende reden in de zin van [artikel 678 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=678) en de werknemer ter zake een verwijt kan worden gemaakt, vanaf het moment dat de opzegging rechtens onaantastbaar is;
+
+- d. de dienstbetrekking op verzoek van betrokkene is geëindigd; of
+
+- e. betrokkene niet beschikbaar is om een dienstbetrekking als bedoeld in [artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=1&artikel=1&z=2008-01-01&g=2008-01-01), te aanvaarden.
+
+4. De indicatiebeschikking of herindicatiebeschikking vervalt:
+
+- a. per de dag dat betrokkene arbeid in een dienstbetrekking anders dan een dienstbetrekking als bedoeld in [artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=1&artikel=1&z=2008-01-01&g=2008-01-01), aanvaardt of arbeid gaat verrichten in de uitoefening van een bedrijf of in de zelfstandige uitoefening van een beroep, tenzij deze arbeid gericht is op het verkrijgen van een dienstbetrekking als bedoeld in [artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=1&artikel=1&z=2008-01-01&g=2008-01-01);
+
+- b. per de dag dat betrokkene de leeftijd van 65 jaar bereikt; of
+
+- c. indien betrokkene overlijdt.
+
+5. Het college trekt de indicatiebeschikking of herindicatiebeschikking van een betrokkene in op schriftelijk verzoek van de betrokkene aan het college per de datum van dat verzoek.
+
+6. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot de bij het eerste lid aan het college opgedragen taak en de wijze van uitoefening daarvan, met dien verstande dat in ieder geval bij of krachtens algemene maatregel van bestuur wordt geregeld wanneer ingezetenen die geïndiceerd zijn, beschikbaar zijn om een dienstbetrekking als bedoeld in de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&z=2008-01-01&g=2008-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=3&z=2008-01-01&g=2008-01-01) te aanvaarden.
+
+7. De voordracht voor een krachtens het zesde lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.
 
 ### Hoofdstuk 6. Toezicht en informatie
 
 ##### Artikel 13
 
-1. Onze Minister is verantwoordelijk voor het toezicht op de uitvoering van deze wet door het college van burgemeester en wethouders.
+1. Onze Minister houdt toezicht op:
+
+- a. de rechtmatigheid van de uitvoering van deze wet door het college;
+
+- b. de doeltreffendheid van deze wetsuitvoering.
 
 2. Dit toezicht wordt onder gezag van Onze Minister uitgeoefend door de Inspectie Werk en Inkomen, genoemd in [hoofdstuk 7 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=7), onder leiding van het hoofd van die inspectie. De [artikelen 37](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=37), [38](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=38), [42](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=42) en [44 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=44) zijn van overeenkomstige toepassing.
 
-3. Onze Minister kan een college van burgemeester en wethouders aanwijzingen geven met betrekking tot de uitvoering van deze wet door dat college. Hij treedt daarbij niet in individuele gevallen.
+3. Onze Minister kan, indien hij met betrekking tot de rechtmatige uitvoering van deze wet ernstige tekortkomingen constateert, aan het college, nadat het gedurende acht weken in de gelegenheid is gesteld zijn zienswijze naar voren te brengen, een aanwijzing geven. Hij treedt daarbij niet in de besluitvorming inzake individuele gevallen. In een aanwijzing wordt een termijn opgenomen waarbinnen het college de uitvoering in overeenstemming heeft gebracht met deze aanwijzing.
 
-4. Ten behoeve van het toezicht, bedoeld in het eerste lid, dient het college van burgemeester en wethouders jaarlijks bij Onze Minister een verslag in over de uitvoering van deze wet. Het verslag omvat mede een kostenopgave ten behoeve van de subsidievaststelling. Het verslag is voorzien van een verklaring van de accountant, belast met de in [artikel 213 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=213) voorgeschreven controle omtrent de juistheid en volledigheid van verstrekte gegevens. Het verslag wordt kosteloos verstrekt.
+4. Ten behoeve van het toezicht, bedoeld in het eerste lid, bevat een bijlage bij de jaarrekening, bedoeld in [artikel 186 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=186), de verantwoordingsinformatie over de uitvoering van deze wet.
 
-5. Het college van burgemeester en wethouders, de Centrale organisatie werk en inkomen en de krachtens [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&artikel=2&z=2006-03-08&g=2006-03-08), aangewezen rechtspersoon verstrekken ten behoeve van het toezicht desgevraagd aan Onze Minister kosteloos nadere of andere informatie en verlenen hem inzage in de administratie.
+5. Het college, de Centrale organisatie werk en inkomen en de krachtens [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&artikel=2&z=2008-01-01&g=2008-01-01), aangewezen rechtspersoon verstrekken ten behoeve van het toezicht desgevraagd aan Onze Minister kosteloos nadere of andere informatie en verlenen hem inzage in de administratie.
 
-6. De administratie moet zodanig worden ingericht en gevoerd, dat alle van belang zijnde vastleggingen en bewijsstukken ten behoeve van het besluitvormings-, uitvoerings-, controle- en verantwoordingsproces zichtbaar en controleerbaar zijn vastgelegd.
-
-7. Bij ministeriële regeling worden regels gesteld inzake het verslag en over de verklaring en het onderzoek dat resulteert in deze verklaring.
+6. Bij ministeriële regeling worden regels gesteld inzake de verantwoordingsinformatie, bedoeld in het vierde lid.
 
 ##### Artikel 14
 
-1. Het college van burgemeester en wethouders, de Centrale organisatie werk en inkomen en de krachtens [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&artikel=2&z=2006-03-08&g=2006-03-08), aangewezen rechtspersoon verstrekken desgevraagd aan Onze Minister kosteloos alle inlichtingen, die hij nodig heeft voor de informatievoorziening en de beleidsvorming met betrekking tot deze wet.
+1. Het college en de Centrale organisatie werk en inkomen verstrekken desgevraagd aan Onze Minister kosteloos alle inlichtingen, die hij nodig heeft voor de informatievoorziening en de beleidsvorming met betrekking tot deze wet.
 
 2. Bij ministeriële regeling kunnen regels worden gesteld voor de inhoud, de wijze van verstrekken en het tijdstip van het verstrekken van de inlichtingen.
 
 ##### Artikel 15
 
-1. Andere colleges van burgemeester en wethouders, de krachtens [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&artikel=2&z=2006-03-08&g=2006-03-08), aangewezen rechtspersonen, de Centrale organisatie werk en inkomen en het Uitvoeringsinstituut werknemersverzekeringen zijn bevoegd uit eigen beweging en verplicht op verzoek, kosteloos, aan het college van burgemeester en wethouders en de krachtens [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&artikel=2&z=2006-03-08&g=2006-03-08), aangewezen rechtspersoon alle gegevens en inlichtingen te verstrekken, die noodzakelijk zijn voor de uitvoering van deze wet.
+1. Andere colleges, de krachtens [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&artikel=2&z=2008-01-01&g=2008-01-01), aangewezen rechtspersonen, de Centrale organisatie werk en inkomen en het Uitvoeringsinstituut werknemersverzekeringen zijn bevoegd uit eigen beweging en verplicht op verzoek, kosteloos, aan het college en de krachtens [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&artikel=2&z=2008-01-01&g=2008-01-01), aangewezen rechtspersoon alle gegevens en inlichtingen te verstrekken, die noodzakelijk zijn voor de uitvoering van deze wet.
 
-2. Het college van burgemeester en wethouders en de krachtens [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&artikel=2&z=2006-03-08&g=2006-03-08), aangewezen rechtspersoon zijn bevoegd uit eigen beweging en verplicht op verzoek uit de administratie aangelegd voor de uitvoering van deze wet kosteloos aan bestuursorganen de gegevens te verstrekken die noodzakelijk zijn voor de bij of krachtens wet aan deze bestuursorganen opgedragen taken.
+2. Het college en de krachtens [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&artikel=2&z=2008-01-01&g=2008-01-01), aangewezen rechtspersoon zijn bevoegd uit eigen beweging en verplicht op verzoek uit de administratie aangelegd voor de uitvoering van deze wet kosteloos aan bestuursorganen de gegevens te verstrekken die noodzakelijk zijn voor de bij of krachtens wet aan deze bestuursorganen opgedragen taken.
 
 3. Bij of krachtens algemene maatregel van bestuur kunnen voor de toepassing van het eerste en tweede lid nadere regels worden gesteld.
 
-4. Een ieder verstrekt desgevraagd aan het college van burgemeester en wethouders, de Centrale organisatie werk en inkomen en de krachtens [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&artikel=2&z=2006-03-08&g=2006-03-08), aangewezen rechtspersoon kosteloos alle gegevens en inlichtingen die noodzakelijk zijn voor de uitvoering van deze wet ten opzichte van hemzelf, hem in wiens dienst dan wel ten behoeve van wie hij werkt of gewerkt heeft of hem die in zijn dienst dan wel te zijnen behoeve werkt of gewerkt heeft.
+4. Een ieder verstrekt desgevraagd aan het college, de Centrale organisatie werk en inkomen en de krachtens [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&artikel=2&z=2008-01-01&g=2008-01-01), aangewezen rechtspersoon kosteloos alle gegevens en inlichtingen die noodzakelijk zijn voor de uitvoering van deze wet ten opzichte van hemzelf, hem in wiens dienst dan wel ten behoeve van wie hij werkt of gewerkt heeft of hem die in zijn dienst dan wel te zijnen behoeve werkt of gewerkt heeft.
 
-5. Het college van burgemeester en wethouders, de Centrale organisatie werk en inkomen en de krachtens [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&artikel=2&z=2006-03-08&g=2006-03-08), aangewezen rechtspersoon gebruiken het sociaal-fiscaalnummer, bedoeld in [artikel 2, derde lid, onderdeel j, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=2), in een persoonsregistratie aangelegd voor de uitvoering van deze wet, indien dat nodig is voor de uitvoering van deze wet of voor de uitvoering van andere wetten, waarbij gebruik wordt gemaakt van dat sociaal-fiscaalnummer.
+5. Het college, de Centrale organisatie werk en inkomen en de krachtens [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&artikel=2&z=2008-01-01&g=2008-01-01), aangewezen rechtspersoon gebruiken het sociaal-fiscaalnummer, bedoeld in [artikel 2, derde lid, onderdeel j, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=2), in een persoonsregistratie aangelegd voor de uitvoering van deze wet, indien dat nodig is voor de uitvoering van deze wet of voor de uitvoering van andere wetten, waarbij gebruik wordt gemaakt van dat sociaal-fiscaalnummer.
 
 ### Hoofdstuk 7. Overgangsbepalingen
 
 ##### Artikel 16
 
-1. Met ingang van de datum van inwerkingtreding van deze wet worden de dienstbetrekkingen, die op de dag voorafgaande aan die datum bestaan krachtens de Wet Sociale Werkvoorziening zoals deze luidde tot die datum en die na die datum voortbestaan, aangemerkt als dienstbetrekking in de zin van deze wet.
-
-2. De rechten en verplichtingen, voortvloeiend uit een tot die datum bestaande dienstbetrekking, blijven in stand totdat met de werknemer anders wordt overeengekomen dan wel met betrekking tot die dienstbetrekking een collectieve arbeidsovereenkomst van toepassing wordt.
-
-3. Tot de rechten en verplichtingen, bedoeld in het tweede lid, behoren ook die betreffende de aanspraken op pensioen, uitkeringen in verband met aanvullende oudedagsvoorziening en uitkeringen in verband met vrijwillig vervroegde uittreding, vastgesteld door de stichtingen bedoeld in artikel 30**a** van de Wet Sociale Werkvoorziening, zoals deze luidde tot de datum van inwerkingtreding van deze wet; het ten aanzien van die stichtingen bepaalde, met uitzondering van de artikelen 30**b**, onderdeel **d**, en 30**c**, onderdeel **b**, blijft na de datum van inwerkingtreding van deze wet eveneens van toepassing, zolang de in dit lid geregelde aanspraken van de werknemers niet bij collectieve arbeidsovereenkomst zijn geregeld.
-
-4. Van rechtsvorderingen met betrekking tot de toepassing van dit artikel neemt de kantonrechter kennis.
-
-5. De gemeente verschaft aan de werknemers informatie omtrent de rechtspositie en de arbeidsvoorwaarden die voor hen gelden met ingang van de datum van inwerkingtreding van deze wet.
+Met ingang van de datum van inwerkingtreding van deze wet worden de dienstbetrekkingen, die op de dag voorafgaande aan die datum bestaan krachtens de Wet Sociale Werkvoorziening zoals deze luidde tot die datum en die na die datum voortbestaan, aangemerkt als dienstbetrekking in de zin van deze wet.
 
 ##### Artikel 17
 
-Het recht zoals dat voor de datum van inwerkingtreding van deze wet gold blijft van toepassing ten aanzien van:
-
-- a. de vergoeding van het Rijk aan de gemeenten over tijdvakken voorafgaande aan die datum alsmede ten aanzien van de uitvoering over die tijdvakken door de stichtingen, bedoeld in artikel 30**a**, eerste lid, van de Wet Sociale Werkvoorziening zoals deze luidde tot die datum;
-
-- b. de mogelijkheid om bezwaar te maken of beroep in te stellen tegen een besluit dat is genomen op grond van de Wet Sociale Werkvoorziening zoals deze luidde tot die datum en dat voor die datum is bekendgemaakt;
-
-- c. de behandeling van bezwaar of beroep dat voor die datum is gemaakt onderscheidenlijk ingesteld tegen een besluit op grond van de Wet Sociale Werkvoorziening zoals deze luidde tot die datum.
+Vervallen
 
 ##### Artikel 18
 
-Voor de eerste toepassing van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=4&artikel=8&z=2006-03-08&g=2006-03-08) wordt, overeenkomstig bij of krachtens algemene maatregel van bestuur gestelde regels, rekening gehouden met het aantal dienstbetrekkingen, die op de dag voorafgaande aan de datum van inwerkingtreding van deze wet bestaan krachtens de Wet Sociale Werkvoorziening zoals deze luidde tot die datum.
+Vervallen
 
 ##### Artikel 19
 
-Personen, die op de dag voorafgaande aan de datum van inwerkingtreding van deze wet een dienstbetrekking hebben krachtens de Wet Sociale Werkvoorziening zoals deze luidde tot die datum, behoeven, zolang de dienstbetrekking voortduurt, niet overeenkomstig [de hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&z=2006-03-08&g=2006-03-08) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=5&z=2006-03-08&g=2006-03-08) te worden geïndiceerd; [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&artikel=6&z=2006-03-08&g=2006-03-08), is echter wel van toepassing.
+Tenzij hij daartoe verzoekt behoeft de persoon, die op 31 december 1997 een dienstbetrekking heeft krachtens de Wet Sociale Werkvoorziening zoals deze luidde op die datum, zolang de dienstbetrekking voortduurt, niet overeenkomstig [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=5&artikel=11&z=2008-01-01&g=2008-01-01), te worden geherindiceerd.
 
 ##### Artikel 20
 
-Uiterlijk twee jaar na de datum van inwerkingtreding van deze wet dienen voor ondernemingen waarvoor organen van overleg, ingesteld krachtens de Wet Sociale Werkvoorziening zoals deze luidde tot die datum, functioneren, ondernemingsraden ten behoeve van werknemers in de zin van deze wet te zijn ingesteld. De bestaande organen van overleg houden op te bestaan op de datum waarop de ondernemer een ondernemingsraad ten behoeve van werknemers in de zin van deze wet heeft ingesteld voor het organisatieonderdeel waarvoor het orgaan van overleg is ingesteld of mede voor dat organisatieonderdeel, doch uiterlijk twee jaar na de datum van inwerkingtreding van deze wet.
+1. Indien op de datum van inwerkingtreding van [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=4&artikel=10&z=2008-01-01&g=2008-01-01), de werknemer ingezetene is van een andere gemeente dan de gemeente waarvan het college ten behoeve van hem subsidie als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=3&artikel=7&z=2008-01-01&g=2008-01-01) verstrekt, treedt het college van de gemeente waarvan de werknemer ingezetene is per die datum bij de toepassing van [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=3&artikel=7&z=2008-01-01&g=2008-01-01) in de plaats van het andere college.
+
+2. Indien op de datum van inwerkingtreding van [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=4&artikel=10&z=2008-01-01&g=2008-01-01), de werknemer in een dienstbetrekking staat tot het college van een andere gemeente dan de gemeente waarvan hij ingezetene is betaalt het college van de gemeente waarvan de betrokkene ingezetene is vanaf die datum aan het andere college een overeenkomstig [artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=4&artikel=10&z=2008-01-01&g=2008-01-01), berekende vergoeding voorzover zijn dienstbetrekking met dat college voortduurt.
 
 ##### Artikel 21
 
-Bij ministeriële regeling kunnen regels worden gesteld met het oog op een goede invoering van deze wet in geval een gemeentebestuur op de datum van inwerkingtreding van deze wet deelneemt aan meerdere gemeenschappelijke regelingen voor de uitvoering van de sociale werkvoorziening.
+De verordeningen, bedoeld in de [artikelen 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&artikel=2&z=2008-01-01&g=2008-01-01), en [7, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=3&artikel=7&z=2008-01-01&g=2008-01-01), treden uiterlijk zes maanden na de datum van inwerkingtreding van artikel I, onderdeel B, respectievelijk artikel I, onderdeel G, van de Wet van 20 december 2007 tot wijziging van de Wet sociale werkvoorziening in verband met een betere realisering van de met die wet beoogde doelen (Stb. 564) in werking.
 
 ### Hoofdstuk 8
 
@@ -392,5 +486,17 @@ De artikelen van deze wet treden in werking op een bij koninklijk besluit te bep
 ##### Artikel 49
 
 Deze wet wordt aangehaald als: Wet sociale werkvoorziening.
+
+Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 15a
+
+Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn belast de bij besluit van het college aangewezen ambtenaren.
+
+### Hoofdstuk 7. Overgangsbepalingen
+
+### Hoofdstuk 8
+
+### Hoofdstuk 9. Slotbepalingen
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
