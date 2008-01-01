@@ -4,7 +4,7 @@ identifier: "BWBR0008233"
 country: "nl"
 rank: "amvb"
 publication_date: "2008-01-01"
-last_updated: "2006-11-24"
+last_updated: "2008-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008233"
 soort: "AMvB"
@@ -54,17 +54,9 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - a. de wet: de [Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541);
 
-- b. de Dienst: de Dienst voor het kadaster en de openbare registers, bedoeld in [artikel 2 van de Organisatiewet Kadaster](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&artikel=2);
+- b. verdragsregister: een buiten Nederland gehouden register als bedoeld in artikel I, eerste lid, onder ii, van het op 19 juni 1948 te Genève tot stand gekomen Verdrag betreffende de internationale erkenning van rechten op luchtvaartuigen (Trb. 1952, 86);
 
-- c. kantoor: kantoor van de Dienst als bedoeld in [artikel 4, tweede lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=4);
-
-- d. de bewaarder: de bewaarder die, voorzover luchtvaartuigen betreffend, op grond van [artikel 7, derde lid, eerste zin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=7) is belast met het ambt van bewaarder aan het kantoor, bedoeld in [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0008233&hoofdstuk=1&artikel=2a&z=2006-11-24&g=2006-11-24);
-
-- e. de openbare registers: de openbare registers, bedoeld in [afdeling 2 van titel 1 van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&afdeling=2);
-
-- f. verdragsregister: een buiten Nederland gehouden register als bedoeld in artikel I, eerste lid, onder ii, van het op 19 juni 1948 te Genève tot stand gekomen Verdrag betreffende de internationale erkenning van rechten op luchtvaartuigen (Trb. 1952, 86);
-
-- g. nationaliteitsregister: register als bedoeld in artikel 17 van het op 7 december 1944 te Chicago tot stand gekomen Verdrag inzake de internationale burgerluchtvaart (Stb. 1947, H 165).
+- c. nationaliteitsregister: register als bedoeld in artikel 17 van het op 7 december 1944 te Chicago tot stand gekomen Verdrag inzake de internationale burgerluchtvaart (Stb. 1947, H 165).
 
 ##### Artikel 2
 
@@ -86,7 +78,7 @@ De bewaarder is bevoegd ter zake van het verzoek tot teboekstelling van een luch
 
 ##### Artikel 5
 
-1. Hij die van een luchtvaartuig de teboekstelling wenst te verkrijgen, biedt een daartoe strekkend verzoek ter inschrijving op het kantoor aan, waarin wordt vermeld of het luchtvaartuig reeds in de openbare registers dan wel in enig soortgelijk buitenlands register heeft te boek gestaan.
+1. Hij die van een luchtvaartuig de teboekstelling wenst te verkrijgen, biedt de Dienst een daartoe strekkend verzoek ter inschrijving aan, waarin wordt vermeld of het luchtvaartuig reeds in de openbare registers dan wel in enig soortgelijk buitenlands register heeft te boek gestaan.
 
 2. In geval van vroegere teboekstellingen wordt elke teboekstelling in het verzoek vermeld onder vermelding van het land of de staat, de plaats en dagtekening van de teboekstelling, alsmede van het register waarin en het volgnummer waaronder in dat register het verzoek tot teboekstelling is ingeschreven.
 
@@ -96,7 +88,7 @@ De bewaarder is bevoegd ter zake van het verzoek tot teboekstelling van een luch
 
 ##### Artikel 6
 
-Teneinde de in [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008233&hoofdstuk=2&artikel=5&z=2006-11-24&g=2006-11-24), bedoelde goedkeuring van de verklaring te verkrijgen, legt de verzoeker over:
+Teneinde de in [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008233&hoofdstuk=2&artikel=5&z=2008-01-01&g=2008-01-01), bedoelde goedkeuring van de verklaring te verkrijgen, legt de verzoeker over:
 
 - a. een bewijs van inschrijving van het luchtvaartuig in het Nederlandse register voor burgerluchtvaartuigen, bedoeld in [artikel 3.3 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=3.3);
 
@@ -112,9 +104,7 @@ Teneinde de in [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0
 
 ##### Artikel 7
 
-1. Het bestuur van de Dienst wijst een of meer kantoren van de Dienst aan waar stukken ter verkrijging van inschrijving van feiten die betrekking hebben op luchtvaartuigen of op rechten waaraan die luchtvaartuigen onderworpen zijn, in papieren vorm ter inschrijving kunnen worden aangeboden.
-
-2. Stukken als bedoeld in het eerste lid kunnen in elektronische vorm worden aangeboden aan een elektronisch postadres als bedoeld in [artikel 10 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=10).
+Stukken ter verkrijging van inschrijving van feiten die betrekking hebben op luchtvaartuigen of op rechten waaraan die luchtvaartuigen zijn onderworpen, worden, voor zover in papieren vorm, aangeboden op een plaats als bedoeld in [artikel 4, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=4) en, voor zover in elektronische vorm, aan een elektronisch postadres als bedoeld in [artikel 10 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=10).
 
 ##### Artikel 8
 
@@ -132,7 +122,7 @@ Teneinde de in [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0
 
 3. Teneinde deze machtiging te verkrijgen legt de verzoeker over:
 
-- a. een uittreksel van de registratie voor luchtvaartuigen, als bedoeld in [artikel 102, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=102), vermeldende ten minste de gegevens, bedoeld in [artikel 92, tweede lid, onder a, c, d, e, f en g, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=92), alsmede de gegevens omtrent niet doorgehaalde voorlopige aantekeningen;
+- a. een uittreksel van de registratie voor luchtvaartuigen, als bedoeld in [artikel 102, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=102), vermeldende ten minste de gegevens, bedoeld in [artikel 92, tweede lid, onderdelen a, c tot en met g, en l, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=92), alsmede de gegevens omtrent niet doorgehaalde voorlopige aantekeningen;
 
 - b. indien het luchtvaartuig niet of niet meer de hoedanigheid van Nederlands luchtvaartuig heeft, een door Onze Minister van Verkeer en Waterstaat afgegeven verklaring, dat de inschrijving van het luchtvaartuig in het Nederlandse register voor burgerluchtvaartuigen, bedoeld in [artikel 3.3 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=3.3), is doorgehaald;
 
@@ -146,7 +136,7 @@ Teneinde de in [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0
 
 3. Teneinde deze machtiging te verkrijgen legt de bewaarder bij het verzoek over:
 
-- a. een uittreksel van de registratie voor luchtvaartuigen, als bedoeld in [artikel 102, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=102), vermeldende ten minste de gegevens, bedoeld in [artikel 92, tweede lid, onder a, c, d, e, f en g, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=92), alsmede de gegevens omtrent niet doorgehaalde voorlopige aantekeningen;
+- a. een uittreksel van de registratie voor luchtvaartuigen, als bedoeld in [artikel 102, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=102), vermeldende ten minste de gegevens, bedoeld in [artikel 92, tweede lid, onderdelen a, c tot en met g, en l, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=92), alsmede de gegevens omtrent niet doorgehaalde voorlopige aantekeningen;
 
 - b. in gevallen als bedoeld in [artikel 1304, eerste lid, onder b, onderdelen 1°, 2° en 3°, van Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=1304), een door Onze Minister van Verkeer en Waterstaat afgegeven verklaring, dat de inschrijving van het luchtvaartuig in het Nederlandse register voor burgerluchtvaartuigen, bedoeld in [artikel 3.3 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=3.3), is doorgehaald;
 
@@ -200,7 +190,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 2a
 
-Als kantoor waar een luchtvaartuig te boek staat, geldt het kantoor dat door het bestuur van de Dienst op grond van [artikel 4a, tweede lid, derde zin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=4a) is aangewezen als kantoor waar de teboekstelling van luchtvaartuigen kan plaatsvinden.
+Vervallen
 
 ### Hoofdstuk 2. Teboekstelling en doorhaling van de teboekstelling
 
