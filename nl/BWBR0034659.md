@@ -4,7 +4,7 @@ identifier: "BWBR0034659"
 country: "nl"
 rank: "wet"
 publication_date: "2016-08-01"
-last_updated: "2006-01-01"
+last_updated: "2008-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034659"
 soort: "wet"
@@ -39,7 +39,7 @@ entry_into_force: "2014-02-15"
 
 ##### Artikel I
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Algemene Wet Bijzondere Ziektekosten.
 
 ##### Artikel II
 
@@ -220,11 +220,3 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel XXXXIV
 
 Dit onderdeel is nog niet inwerking getreden
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is in de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614), de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) en de [Invoerings- en aanpassingwet](https://wetten.overheid.nl/jci1.3:c:BWBR0018830) beperkte wijzigingen met betrekking tot de verantwoording en de financiering van zorgverzekeraars aan te brengen, alsmede dat het wenselijk is in diverse wetten wetstechnische reparaties aan te brengen en een tweetal uitgewerkte wetten in te trekken;
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
