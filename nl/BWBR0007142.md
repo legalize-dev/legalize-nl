@@ -4,7 +4,7 @@ identifier: "BWBR0007142"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2008-01-01"
-last_updated: "2007-09-01"
+last_updated: "2008-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007142"
 soort: "ministeriele-regeling"
@@ -37,6 +37,8 @@ Gelet op [artikel 18, derde lid, van de Wet waardering onroerende zaken](https:/
 
 Besluit:
 
+De wijziging bij Stcrt. 1998/247 is voor de waardebepaling, bedoeld in hoofdstuk III van de Wet waardering onroerende zaken, ten behoeve van het tijdvak dat aanvangt op 1-1-2001, van toepassing vanaf 01-01-1999.
+
 ##### Artikel 1
 
 Deze regeling geeft uitvoering aan [artikel 18, vierde lid, van de Wet waardering onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=18).
@@ -47,7 +49,7 @@ Deze regeling geeft uitvoering aan [artikel 18, vierde lid, van de Wet waarderin
 
 - a. ten behoeve van de land- of bosbouw bedrijfsmatig geëxploiteerde cultuurgrond, voor zover die niet de ondergrond vormt van gebouwde eigendommen;
 
-- b. één of meer onroerende zaken die deel uitmaken van een op de voet van de [Natuurschoonwet 1928](https://wetten.overheid.nl/jci1.3:c:BWBR0001939) aangewezen landgoed dat voldoet aan de in [artikel 1, derde lid, onderdeel b, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001939&artikel=1) bedoelde voorwaarden, met uitzondering van de daarop voorkomende gebouwde eigendommen;
+- b. één of meer onroerende zaken die deel uitmaken van een op de voet van de [Natuurschoonwet 1928](https://wetten.overheid.nl/jci1.3:c:BWBR0001939) aangewezen landgoed dat voldoet aan de voorwaarden, genoemd in [artikel 8 van het Rangschikkingsbesluit Natuurschoonwet 1928](https://wetten.overheid.nl/jci1.3:c:BWBR0004914&artikel=8), met uitzondering van de daarop voorkomende gebouwde eigendommen;
 
 - c. natuurterreinen waaronder mede worden verstaan duinen, heidevelden, zandverstuivingen, moerassen en plassen, die beheerd worden door rechtspersonen met volledige rechtsbevoegdheid welke zich uitsluitend of nagenoeg uitsluitend het behoud van natuurschoon ten doel stellen;
 
