@@ -4,7 +4,7 @@ identifier: "BWBR0019237"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2007-05-10"
+last_updated: "2008-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019237"
 soort: "ministeriele-regeling"
@@ -51,7 +51,7 @@ Deze regeling verstaat onder wet: [Algemene wet inkomensafhankelijke regelingen]
 
 ##### Artikel 3. Gelijkstelling met gemeentelijke basisadministratie persoonsgegevens
 
-1. Iemand die niet in Nederland woont, wordt in ieder geval geacht op zijn woonadres te zijn ingeschreven in een naar aard en strekking met de gemeentelijke basisadministratie persoonsgegevens overeenkomende administratie buiten Nederland, indien:
+1. Iemand die niet in Nederland woont, wordt geacht op zijn woonadres te zijn ingeschreven in een naar aard en strekking met de gemeentelijke basisadministratie persoonsgegevens overeenkomende administratie buiten Nederland, indien:
 
 - a. hij vanwege zijn functie of vanwege de functie van een van de tot zijn huishouden behorende personen niet kan of niet hoeft te worden ingeschreven in een naar aard en strekking met de gemeentelijke basisadministratie persoonsgegevens overeenkomende administratie buiten Nederland;
 
@@ -59,7 +59,7 @@ Deze regeling verstaat onder wet: [Algemene wet inkomensafhankelijke regelingen]
 
 - c. zijn woonland geen of geen naar aard en strekking met de gemeentelijke basisadministratie persoonsgegevens overeenkomende administratie voert.
 
-2. Iemand die in de gemeentelijke basisadministratie persoonsgegevens niet op zijn woonadres is ingeschreven, wordt in ieder geval geacht daarin wel op dat adres te zijn ingeschreven, indien:
+2. Iemand die in de gemeentelijke basisadministratie persoonsgegevens niet op zijn woonadres is ingeschreven, wordt geacht daarin wel op dat adres te zijn ingeschreven, indien:
 
 - a. hij een vreemdeling is als bedoeld in [artikel 9, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=9);
 
@@ -67,7 +67,7 @@ Deze regeling verstaat onder wet: [Algemene wet inkomensafhankelijke regelingen]
 
 - c. blijkt dat sprake is van een onjuiste inschrijving in de gemeentelijke basisadministratie persoonsgegevens voor de periode tot aan de datum van adreswijziging als bedoeld in [artikel 47, derde lid, van de Wet gemeentelijke basisadministratie persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0006723&artikel=47);
 
-- d. hij zich overeenkomstig [artikel 65 van de Wet gemeentelijke basisadministratie persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0006723&artikel=65) binnen 5 dagen na de aanvang van zijn verblijf op zijn woonadres heeft laten inschrijven bij de gemeentelijke basisadministratie persoonsgegevens.
+- d. hij zich binnen 5 dagen na de aanvang van zijn verblijf op zijn woonadres heeft laten inschrijven bij de gemeentelijke basisadministratie persoonsgegevens.
 
 ##### Artikel 4. Herleiding toetsingsinkomen
 
@@ -133,7 +133,7 @@ Indien op grond van [artikel 25, eerste lid, van de wet](https://wetten.overheid
 
 1. Indien de belanghebbende tijdig een gemotiveerd bezwaar heeft ingediend tegen de terugvordering dan wel beroep of hoger beroep heeft ingediend tegen de uitspraak op een bezwaar, verleent de Belastingdienst/Toeslagen uitstel van betaling van de terugvordering tot het moment waarop op het bezwaar, het beroep of hoger beroep is beslist.
 
-2. Het eerste lid vindt overeenkomstige toepassing indien bezwaar, beroep, hoger beroep of beroep in cassatie is ingediend tegen een aanslag inkomstenbelasting die bepalend is voor de draagkracht waarmee bij de terugvordering rekening is gehouden.
+2. Het eerste lid vindt overeenkomstige toepassing indien bezwaar, beroep, hoger beroep of beroep in cassatie is ingediend tegen een aanslag inkomstenbelasting dan wel een beschikking inzake het belastbare loon die is afgegeven op grond van [artikel 8, negende of tiende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=8), die bepalend is voor de draagkracht waarmee bij de terugvordering rekening is gehouden.
 
 ##### Artikel 9. Hardheidsclausule
 
