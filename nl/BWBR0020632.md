@@ -4,7 +4,7 @@ identifier: "BWBR0020632"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2007-01-01"
+last_updated: "2008-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020632"
 soort: "ministeriele-regeling"
@@ -72,6 +72,6 @@ Deze regeling treedt in werking met ingang van 1 januari 2007.
 
 ##### Artikel 4. Citeertitel
 
-Deze regeling wordt aangehaald als: Regeling tegemoetkoming Wajongers 2007.
+Deze regeling wordt aangehaald als: Regeling tegemoetkoming Wajongers.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
