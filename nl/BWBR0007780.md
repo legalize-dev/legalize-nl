@@ -4,7 +4,7 @@ identifier: "BWBR0007780"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-01"
-last_updated: "2007-02-25"
+last_updated: "2008-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007780"
 soort: "ministeriele-regeling"
@@ -72,7 +72,7 @@ Vervallen
 
 2. Met betrekking tot de werknemer wiens loon mede omvat de waarde van regelmatig bij de betaling van het loon verstrekte vakantiebonnen, vakantietoeslagbonnen of van daarmee overeenkomende aanspraken, worden de op grond van het eerste lid bepaalde tijdvakbedragen van de afdrachtvermindering onderwijs vermenigvuldigd:
 
-- a. ingeval op jaarbasis aanspraken worden verleend voor 20 of meer vakantiedagen: met de factor 260:229;
+- a. ingeval op jaarbasis aanspraken worden verleend voor 20 of meer vakantiedagen: met de factor 260:230;
 
 - b. ingeval op jaarbasis aanspraken worden verleend voor 19 of minder vakantiedagen: met defactor 260 : 245.
 
@@ -102,17 +102,17 @@ Ingeval de vermindering op de voet van [artikel 6, derde lid, van de wet](https:
 
 1. Ingeval het loon niet per tijdseenheid wordt berekend, is bij de bepaling van de vermindering op de voet van [artikel 6, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=6), [artikel 1, eerste lid, onderdeel c, onder 2°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=1) niet van toepassing op dat loon. In dat geval vindt die vermindering, in afwijking van [artikel 6, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=6), inkomensevenredig plaats aan de hand van de verhouding van het in het loontijdvak ten minste op nihil te stellen genoten loon van de werknemer en het bedrag dat per kalenderjaar beloopt
 
-| Indien hij de leeftijd heeft bereikt van | Doch niet de leeftijd van |   |
+| indien hij de leeftijd heeft bereikt van | doch niet de leeftijd van |   |
 | --- | --- | --- |
-| 15 jaren | 16 jaren: | € 4.988 |
-| 16 jaren | 17 jaren: | € 5.736 |
-| 17 jaren | 18 jaren: | € 6.567 |
-| 18 jaren | 19 jaren: | € 7.564 |
-| 19 jaren | 20 jaren: | € 8.728 |
-| 20 jaren | 21 jaren: | € 10.224 |
-| 21 jaren | 22 jaren: | € 12.053 |
-| 22 jaren | 23 jaren: | € 14.131 |
-| 23 jaren |   | € 16.625 |
+| 15 jaren | 16 jaren: | € 5.152 |
+| 16 jaren | 17 jaren: | € 5.926 |
+| 17 jaren | 18 jaren: | € 6.784 |
+| 18 jaren | 19 jaren: | € 7.815 |
+| 19 jaren | 20 jaren: | € 9.017 |
+| 20 jaren | 21 jaren: | € 10.562 |
+| 21 jaren | 22 jaren: | € 12.451 |
+| 22 jaren | 23 jaren: | € 14.598 |
+| 23 jaren |   | € 17.170 |
 
 2. Ingeval het eerste lid toepassing vindt administreert de inhoudingsplichtige per werknemer en per tijdvak waarover de vermindering wordt toegepast de in het eerste lid, tweede volzin, bedoelde verhouding.
 
