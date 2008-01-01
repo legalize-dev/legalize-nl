@@ -81,23 +81,3 @@ Dit onderdeel is nog niet inwerking getreden
 Dit onderdeel is nog niet inwerking getreden
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 5a
-
-1. Degene die in aanmerking komt voor vacatiegeld op grond van deze regeling, dient daarvoor een declaratie in binnen zes maanden na de datum van de eindbeslissing of het advies als, bedoeld in [artikel 50, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=50).
-
-2. Bij wijziging van de samenstelling van het tuchtcollege als bedoeld in [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026608&artikel=2&z=2012-01-01&g=2012-01-01), worden de betreffende declaraties ingediend binnen zes maanden na de datum van de beslissing tot wijziging.
-
-3. Bij staking van de behandeling als bedoeld in [artikel 2, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026608&artikel=2&z=2012-01-01&g=2012-01-01), worden de betreffende declaraties ingediend binnen zes maanden na de datum van de beslissing tot staking.
-
-4. Bij een wrakingverzoek als bedoeld in [artikel 2, achtste of negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026608&artikel=2&z=2012-01-01&g=2012-01-01), worden de betreffende declaraties ingediend binnen zes maanden na de datum van de beslissing op het wrakingverzoek.
-
-5. Declaraties die niet binnen de termijnen, bedoeld in het eerste, tweede, derde of vierde lid zijn ingediend, worden niet in behandeling genomen.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 5bis
-
-Aan de leden-beroepsgenoten en plaatsvervangende leden-beroepsgenoten van een tuchtcollege wordt vacatiegeld ten bedrage van € 230,– toegekend voor het als lid-beroepsgenoot van een selectiecommissie bijwonen van per selectieronde een of meer selectiegesprekken met een of meer kandidaten die in aanmerking willen komen voor benoeming tot lid-beroepsgenoot of plaatsvervangend lid-beroepsgenoot.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
