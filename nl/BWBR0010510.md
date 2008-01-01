@@ -4,7 +4,7 @@ identifier: "BWBR0010510"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-01-17"
-last_updated: "2006-01-01"
+last_updated: "2008-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010510"
 soort: "AMvB"
@@ -66,63 +66,41 @@ In dit besluit wordt verstaan onder:
 
 - d. dagloon: het dagloon, bedoeld in de [artikelen 44 tot en met 46 van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=44) zonder toepassing van het bedrag, bedoeld in [artikel 17, eerste lid, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=17) met betrekking tot een loontijdvak van een dag;
 
-- e. loongerelateerde WW-uitkering: de loongerelateerde uitkering, bedoeld in [Hoofdstuk IIA, afdeling II van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&afdeling=II);
+- e. WW-uitkering: de uitkering bij werkloosheid, bedoeld in [Hoofdstuk II van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=II);
 
-- f. WW-vervolguitkering: de vervolguitkering, bedoeld in [Hoofdstuk IIA, afdeling III van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&afdeling=III);
+- f. bovenwettelijke uitkering: de aansluitende en de aanvullende uitkering, bedoeld in [hoofdstuk 2 van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010510&hoofdstuk=2&z=2008-01-01&g=2008-01-01);
 
-- g. kortdurende WW-uitkering: de kortdurende uitkering, bedoeld in [Hoofdstuk IIB van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIB);
+- g. diensttijd: de tijd welke betrokkene in dienst dan wel aangesteld is geweest bij het Ministerie van Defensie en in voorkomend geval vermeerderd met de tijd welke betrokkene voordien in dienst is geweest bij de rijksoverheid dan wel bij een sector van de rijksoverheid;
 
-- h. WW-uitkering: de uitkeringen, genoemd onder e, f, en g;
-
-- i. bovenwettelijke uitkering: de aansluitende en de aanvullende uitkering, bedoeld in [hoofdstuk 2 van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010510&hoofdstuk=2&z=2006-01-01&g=2006-01-01);
-
-- j. diensttijd: de tijd welke betrokkene in dienst dan wel aangesteld is geweest bij het Ministerie van Defensie en in voorkomend geval vermeerderd met de tijd welke betrokkene voordien in dienst is geweest bij de rijksoverheid dan wel bij een sector van de rijksoverheid;
-
-- k. arbeidsongeschiktheidsuitkering: een ingevolge de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) toegekende uitkering.
+- h. arbeidsongeschiktheidsuitkering: een ingevolge de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) of de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) toegekende uitkering.
 
 ### Hoofdstuk 2. Bovenwettelijke uitkeringen
 
 ##### Artikel 2. Aansluitende uitkering
 
-1. Betrokkene, die recht heeft op een loongerelateerde WW-uitkering en die op de dag voor het intreden van zijn werkloosheid een aaneengesloten diensttijd heeft van tenminste 6 jaar en 40 jaar of ouder is, heeft na het einde van de uitkeringsduur van de loongerelateerde WW-uitkering recht op een aansluitende uitkering.
+1. Betrokkene die recht heeft op een WW-uitkering en die op de dag voor het intreden van zijn werkloosheid een aangesloten dienstijd heeft van tenminste 6 jaar en 40 jaar of ouder is, heeft na het einde van de uitkeringsduur van de WW-uitkering recht op een aansluitende uitkering. De duur van de aansluitende uitkering is het verschil in uitkeringsduur tussen de [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) en de uitkeringsduur van de [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) zoals deze gold voor 1 oktober 2006.
 
-2. De duur van de aansluitende uitkering, bedoeld in het eerste lid, bedraagt voor een betrokkene van:
+2. Betrokkene die recht heeft op een WW-uitkering en die op de dag voor het intreden van zijn werkloosheid een aaneengesloten diensttijd heeft van tenminste 10 jaar en 50 jaar of ouder is, heeft na het einde van de uitkeringsduur van de WW-uitkering recht op een aansluitende uitkering tot de eerste dag van de kalendermaand waarin hij de leeftijd van 65 jaar bereikt.
 
-40 jaar – 5 jaar;
+3. Onze Minister kan voor de berekening van de diensttijd, bedoeld in het eerste, derde en vierde lid, onverminderd [artikel 1, onder j](https://wetten.overheid.nl/jci1.3:c:BWBR0010510&hoofdstuk=1&artikel=1&z=2008-01-01&g=2008-01-01), de tijd meetellen, die betrokkene bij een andere sector van de overheid heeft doorgebracht, indien die betrokkene in het kader van een reorganisatie bij die andere sector van de overheid bij het Ministerie van Defensie te werk is gesteld.
 
-41 jaar – 5,5 jaar,
-
-42 jaar – 6 jaar;
-
-43 jaar – 6,5 jaar;
-
-44 jaar – 7 jaar.
-
-3. Betrokkene, die recht heeft op een loongerelateerde WW-uitkering en die op de dag voor het intreden van zijn werkloosheid een aaneengesloten diensttijd heeft van tenminste 10 jaar en 45 jaar of ouder is, heeft na het einde van de uitkeringsduur van de loongerelateerde WW-uitkering recht op een aansluitende uitkering.
-
-4. Betrokkene, die recht heeft op een loongerelateerde WW-uitkering en die op de dag voor het intreden van zijn werkloosheid 45 jaar of ouder is maar geen aaneengesloten diensttijd heeft van tenminste 10 jaar, maar wel van tenminste 6 jaar, heeft na het einde van de uitkeringsduur van de loongerelateerde WW-uitkering recht op een aansluitende uitkering van 7 jaar.
-
-5. Onze Minister kan voor de berekening van de diensttijd, bedoeld in het eerste, derde en vierde lid, onverminderd [artikel 1, onder j](https://wetten.overheid.nl/jci1.3:c:BWBR0010510&hoofdstuk=1&artikel=1&z=2006-01-01&g=2006-01-01), de tijd meetellen, die betrokkene bij een andere sector van de overheid heeft doorgebracht, indien die betrokkene in het kader van een reorganisatie bij die andere sector van de overheid bij het Ministerie van Defensie te werk is gesteld.
-
-6. Het recht op een aansluitende uitkering eindigt na ommekomst van de duur daarvan, maar uiterlijk op de eerste dag van de kalendermaand volgend op die waarin betrokkene de leeftijd van 65 jaar heeft bereikt.
+4. Het recht op een aansluitende uitkering eindigt na ommekomst van de duur daarvan, maar uiterlijk op de eerste dag van de kalendermaand volgend op die waarin betrokkene de leeftijd van 65 jaar heeft bereikt.
 
 ##### Artikel 3. Aanvullende uitkering
 
-Betrokkene, die recht heeft op een loongerelateerde WW-uitkering, dan wel een aansluitende uitkering ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010510&hoofdstuk=2&artikel=2&z=2006-01-01&g=2006-01-01), heeft recht op een aanvullende uitkering.
+Betrokkene, die recht heeft op een WW-uitkering, dan wel een aansluitende uitkering ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010510&hoofdstuk=2&artikel=2&z=2008-01-01&g=2008-01-01), heeft recht op een aanvullende uitkering.
 
 ##### Artikel 4. Hoogte aanvullende uitkering
 
-1. De loongerelateerde WW-uitkering wordt gedurende de eerste zes maanden aangevuld tot 80%, gedurende de daarop volgende zes maanden tot 75% en gedurende de resterende periode tot 70% van het voor betrokkene geldende dagloon.
+1. De WW-uitkering wordt gedurende de eerste zes maanden aangevuld tot 80%, gedurende de daarop volgende zes maanden tot 75% en gedurende de resterende periode tot 70% van het voor betrokkene geldende dagloon.
 
-2. Gedurende de duur van de aansluitende uitkering, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010510&hoofdstuk=2&artikel=2&z=2006-01-01&g=2006-01-01), bedraagt de uitkering 70% van het voor betrokkene geldende dagloon.
-
-3. Gedurende de periode waarin zowel recht bestaat op een aansluitende uitkering als op een WW-vervolguitkering, wordt de WW-vervolguitkering aangevuld tot de hoogte, bedoeld in het tweede lid.
+2. Gedurende de duur van de aansluitende uitkering, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010510&hoofdstuk=2&artikel=2&z=2008-01-01&g=2008-01-01), bedraagt de uitkering 70% van het voor betrokkene geldende dagloon.
 
 ##### Artikel 5. Aanvullende uitkering bij ziekte
 
-1. Indien betrokkene gedurende de periode dat hij recht heeft op een loongerelateerde WW-uitkering of op een aansluitende uitkering, wegens ziekte verhinderd wordt arbeid te verrichten en daarom een uitkering krachtens de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) ontvangt, wordt de uitkering krachtens de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) aangevuld tot de percentages van het dagloon bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0010510&hoofdstuk=2&artikel=4&z=2006-01-01&g=2006-01-01).
+1. Indien betrokkene gedurende de periode dat hij recht heeft op een loongerelateerde WW-uitkering of op een aansluitende uitkering, wegens ziekte verhinderd wordt arbeid te verrichten en daarom een uitkering krachtens de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) ontvangt, wordt de uitkering krachtens de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) aangevuld tot de percentages van het dagloon bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0010510&hoofdstuk=2&artikel=4&z=2008-01-01&g=2008-01-01).
 
-2. De uitkering krachtens de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) wordt aangevuld tot het percentage van het voor betrokkene geldende dagloon, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0010510&hoofdstuk=2&artikel=4&z=2006-01-01&g=2006-01-01), dat van toepassing zou zijn indien betrokkene niet ziek zou zijn.
+2. De uitkering krachtens de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) wordt aangevuld tot het percentage van het voor betrokkene geldende dagloon, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0010510&hoofdstuk=2&artikel=4&z=2008-01-01&g=2008-01-01), dat van toepassing zou zijn indien betrokkene niet ziek zou zijn.
 
 3. In afwijking van het tweede lid wordt indien de vrouwelijke betrokkene gedurende de periode dat zij recht heeft op een loongerelateerde WW-uitkering of op een aansluitende uitkering recht krijgt op een uitkering krachtens [artikel 29a van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=29a), die uitkering aangevuld tot 100% van het voor betrokkene geldende dagloon.
 
@@ -174,9 +152,9 @@ Onze Minister beslist over de toekenning van de bovenwettelijke uitkering op aan
 
 ##### Artikel 11. Privatiseringsontslag
 
-1. Voor de toepassing van [dit artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0010510&hoofdstuk=3&artikel=11&z=2006-01-01&g=2006-01-01) wordt verstaan onder:
+1. Voor de toepassing van [dit artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0010510&hoofdstuk=3&artikel=11&z=2008-01-01&g=2008-01-01) wordt verstaan onder:
 
-- a. betrokkene: de betrokkene in de zin van [artikel 1, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0010510&hoofdstuk=1&artikel=1&z=2006-01-01&g=2006-01-01), aan wie een privatiseringsontslag is verleend en die onmiddellijk aansluitend aan dat ontslag in dienst is getreden van de privaatrechtelijke organisatie;
+- a. betrokkene: de betrokkene in de zin van [artikel 1, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0010510&hoofdstuk=1&artikel=1&z=2008-01-01&g=2008-01-01), aan wie een privatiseringsontslag is verleend en die onmiddellijk aansluitend aan dat ontslag in dienst is getreden van de privaatrechtelijke organisatie;
 
 - b. privatiseringsoperatie: een operatie die ten doel heeft werkzaamheden van het Ministerie van Defensie uit te besteden of over te dragen aan een bestaande of voor dat doel opgerichte privaatrechtelijke organisatie;
 
@@ -200,7 +178,7 @@ Onze Minister beslist over de toekenning van de bovenwettelijke uitkering op aan
 
 2. Betrokkene als bedoeld in het eerste lid, heeft met ingang van de eerste dag volgende op die waarop de duur van de suppletie is geëindigd, recht op een bovenwettelijke uitkering krachtens dit besluit, indien de duur van de uitkering, waarop betrokkene krachtens dit besluit recht zou hebben gehad indien hij geen recht op suppletie zou hebben gehad, langer is dan de duur van de suppletie.
 
-3. Op de hoogte van de uitkering is [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0010510&hoofdstuk=2&artikel=4&z=2006-01-01&g=2006-01-01) van toepassing in die zin dat gerekend wordt vanaf het tijdstip waarop het ontslag is ingegaan.
+3. Op de hoogte van de uitkering is [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0010510&hoofdstuk=2&artikel=4&z=2008-01-01&g=2008-01-01) van toepassing in die zin dat gerekend wordt vanaf het tijdstip waarop het ontslag is ingegaan.
 
 4. Het recht op een uitkering krachtens dit besluit eindigt met ingang van de dag waarop betrokkene recht verkrijgt op een arbeidsongeschiktheidsuitkering, berekend naar een arbeidsongeschiktheid van 80% of meer.
 
@@ -224,7 +202,7 @@ Indien het niveau van de uitkering van de WW een algemene neerwaartse wijziging 
 
 ##### Artikel 17
 
-Onze Minister kan ter uitvoering van de [artikelen 2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010510&hoofdstuk=2&artikel=2&z=2006-01-01&g=2006-01-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0010510&hoofdstuk=3&artikel=9&z=2006-01-01&g=2006-01-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0010510&hoofdstuk=3&artikel=10&z=2006-01-01&g=2006-01-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0010510&hoofdstuk=5&artikel=14&z=2006-01-01&g=2006-01-01) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0010510&hoofdstuk=5&artikel=15&z=2006-01-01&g=2006-01-01) nadere regels van administratieve aard stellen.
+Onze Minister kan ter uitvoering van de [artikelen 2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010510&hoofdstuk=2&artikel=2&z=2008-01-01&g=2008-01-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0010510&hoofdstuk=3&artikel=9&z=2008-01-01&g=2008-01-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0010510&hoofdstuk=3&artikel=10&z=2008-01-01&g=2008-01-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0010510&hoofdstuk=5&artikel=14&z=2008-01-01&g=2008-01-01) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0010510&hoofdstuk=5&artikel=15&z=2008-01-01&g=2008-01-01) nadere regels van administratieve aard stellen.
 
 ### Hoofdstuk 6. Overgangsrecht en slotbepalingen
 
@@ -234,9 +212,9 @@ Onze Minister kan ter uitvoering van de [artikelen 2, vijfde lid](https://wetten
 
 2. Betrokkene die op 31 december 2002 recht heeft op een uitkering ingevolge een in het eerste lid genoemd besluit of die verkeert in een omstandigheid als bedoeld in [artikel 30, eerste lid, onder c, van de Wet overheidspersoneel onder de werknemersverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&artikel=30), heeft, indien het recht op die uitkering na vorenbedoelde dag zou voortduren of herleven, recht op een uitkering krachtens dit besluit. Voor de duur en de hoogte van de uitkering krachtens dit besluit wordt uitgegaan van het tijdstip van het ontstaan van de in de eerste volzin bedoelde voorafgaande uitkering en van de normen van het besluit dat daaraan ten grondslag heeft gelegen. Voor de ingevolge dit artikellid toe te kennen uitkering wordt betrokkene aangemerkt als rechthebbende op een WW-uitkering die daarop niet in mindering strekt.
 
-3. Indien de uitkering krachtens de [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) en de uitkering krachtens dit besluit waar betrokkene bedoeld in het tweede lid recht op heeft, lager is dan de uitkering ingevolge het [Werkloosheidsbesluit defensiepersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0008113) waarop betrokkene recht had op de dag voorafgaande aan de datum, bedoeld in het eerste lid, of op de dag waarop zijn uitkering is geëindigd als gevolg van een omstandigheid als bedoeld in [artikel 30, eerste lid, onder c, van de Wet overheidspersoneel onder de werknemersverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&artikel=30), heeft betrokkene recht op een garantie-uitkering krachtens dit besluit. De garantie-uitkering bedraagt het verschil tussen de uitkering ingevolge het [Werkloosheidsbesluit defensiepersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0008113) waarop de betrokkene recht zou hebben gehad als dat besluit op grond van het eerste lid niet zou zijn ingetrokken en de uitkering krachtens de [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) aangevuld met de uitkering krachtens dit besluit. Indien de uitkering op grond van het [Werkloosheidsbesluit defensiepersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0008113), de [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) of dit besluit op grond van enige wettelijke bepaling geheel of gedeeltelijk is geweigerd, dan wel niet of niet geheel is betaald, wordt deze uitkering voor de vastelling van de garantie-uitkering geacht onverminderd te zijn genoten. Op de garantie-uitkering is [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0010510&hoofdstuk=2&artikel=7&z=2006-01-01&g=2006-01-01) van overeenkomstige toepassing.
+3. Indien de uitkering krachtens de [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) en de uitkering krachtens dit besluit waar betrokkene bedoeld in het tweede lid recht op heeft, lager is dan de uitkering ingevolge het [Werkloosheidsbesluit defensiepersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0008113) waarop betrokkene recht had op de dag voorafgaande aan de datum, bedoeld in het eerste lid, of op de dag waarop zijn uitkering is geëindigd als gevolg van een omstandigheid als bedoeld in [artikel 30, eerste lid, onder c, van de Wet overheidspersoneel onder de werknemersverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&artikel=30), heeft betrokkene recht op een garantie-uitkering krachtens dit besluit. De garantie-uitkering bedraagt het verschil tussen de uitkering ingevolge het [Werkloosheidsbesluit defensiepersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0008113) waarop de betrokkene recht zou hebben gehad als dat besluit op grond van het eerste lid niet zou zijn ingetrokken en de uitkering krachtens de [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) aangevuld met de uitkering krachtens dit besluit. Indien de uitkering op grond van het [Werkloosheidsbesluit defensiepersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0008113), de [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) of dit besluit op grond van enige wettelijke bepaling geheel of gedeeltelijk is geweigerd, dan wel niet of niet geheel is betaald, wordt deze uitkering voor de vastelling van de garantie-uitkering geacht onverminderd te zijn genoten. Op de garantie-uitkering is [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0010510&hoofdstuk=2&artikel=7&z=2008-01-01&g=2008-01-01) van overeenkomstige toepassing.
 
-4. Indien de uitkering krachtens de [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) lager is dan de uitkering ingevolge het [Werkloosheidsbesluit beroepsmilitairen bepaalde tijd](https://wetten.overheid.nl/jci1.3:c:BWBR0007212) waarop betrokkene recht had op de dag voorafgaande aan de datum, bedoeld in het eerste lid, of op de dag waarop zijn uitkering is geëindigd als gevolg van een omstandigheid als bedoeld in [artikel 30, eerste lid, onder c, van de Wet overheidspersoneel onder de werknemersverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&artikel=30), heeft betrokkene recht op een garantie-uitkering krachtens dit besluit. De garantie-uitkering bedraagt het verschil tussen de uitkering ingevolge het [Werkloosheidsbesluit beroepsmilitairen bepaalde tijd](https://wetten.overheid.nl/jci1.3:c:BWBR0007212) waarop de betrokkene recht zou hebben gehad als dat besluit op grond van het eerste lid niet zou zijn ingetrokken en de uitkering krachtens de [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045). Indien de uitkering op grond van het [Werkloosheidsbesluit beroepsmilitairen bepaalde tijd](https://wetten.overheid.nl/jci1.3:c:BWBR0007212) of de [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) op grond van enige wettelijke bepaling geheel of gedeeltelijk is geweigerd, dan wel niet of niet geheel is betaald, wordt deze uitkering voor de vaststelling van de garantie-uitkering geacht onverminderd te zijn genoten. Op de garantie-uitkering is [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0010510&hoofdstuk=2&artikel=7&z=2006-01-01&g=2006-01-01) van overeenkomstige toepassing.
+4. Indien de uitkering krachtens de [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) lager is dan de uitkering ingevolge het [Werkloosheidsbesluit beroepsmilitairen bepaalde tijd](https://wetten.overheid.nl/jci1.3:c:BWBR0007212) waarop betrokkene recht had op de dag voorafgaande aan de datum, bedoeld in het eerste lid, of op de dag waarop zijn uitkering is geëindigd als gevolg van een omstandigheid als bedoeld in [artikel 30, eerste lid, onder c, van de Wet overheidspersoneel onder de werknemersverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&artikel=30), heeft betrokkene recht op een garantie-uitkering krachtens dit besluit. De garantie-uitkering bedraagt het verschil tussen de uitkering ingevolge het [Werkloosheidsbesluit beroepsmilitairen bepaalde tijd](https://wetten.overheid.nl/jci1.3:c:BWBR0007212) waarop de betrokkene recht zou hebben gehad als dat besluit op grond van het eerste lid niet zou zijn ingetrokken en de uitkering krachtens de [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045). Indien de uitkering op grond van het [Werkloosheidsbesluit beroepsmilitairen bepaalde tijd](https://wetten.overheid.nl/jci1.3:c:BWBR0007212) of de [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) op grond van enige wettelijke bepaling geheel of gedeeltelijk is geweigerd, dan wel niet of niet geheel is betaald, wordt deze uitkering voor de vaststelling van de garantie-uitkering geacht onverminderd te zijn genoten. Op de garantie-uitkering is [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0010510&hoofdstuk=2&artikel=7&z=2008-01-01&g=2008-01-01) van overeenkomstige toepassing.
 
 5. Het Wachtgeldbesluit burgerlijke ambtenaren defensie, het Uitkeringsbesluit burgerlijke ambtenaren defensie, het Wachtgeld- en uitkeringsbesluit burgerlijke ambtenaren defensie bij privatisering en de Militaire wachtgeldregeling 1961 worden ingetrokken.
 
@@ -269,6 +247,28 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 ### Hoofdstuk 4. Samenloop
 
 ### Hoofdstuk 5. Overige bepalingen
+
+### Hoofdstuk 6. Overgangsrecht en slotbepalingen
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 17a. Loonaanvulling bij ontslag op aanvraag
+
+1. De militair die:
+
+- a. een functie vervult in fase drie, als bedoeld in [artikel 1, eerste lid, onderdeel n, van het Algemeen militair ambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=1); en
+
+- b. ontslag op aanvraag wordt verleend; en
+
+- c. aansluitend aan zijn ontslag een nieuwe betrekking aanvaardt; en
+
+- d. uit de nieuwe betrekking inkomsten heeft die ten minste 80% bedragen van de berekeningsgrondslag voor de pensioenen bedoeld in [artikel 23a van het Inkomstenbesluit militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&artikel=23a); en
+
+- e. voldoet aan bij ministeriële regeling te stellen voorwaarden;
+
+komt in aanmerking voor een loonaanvulling.
+
+2. De loonaanvulling bedraagt 50% van het verschil tussen het inkomen uit de nieuwe betrekking en de berekeningsgrondslag voor de pensioenen bedoeld in [artikel 23a van het Inkomstenbesluit militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&artikel=23a) en heeft een duur van ten hoogste drie jaar.
 
 ### Hoofdstuk 6. Overgangsrecht en slotbepalingen
 
