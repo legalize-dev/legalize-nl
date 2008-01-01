@@ -4,7 +4,7 @@ identifier: "BWBR0002144"
 country: "nl"
 rank: "wet"
 publication_date: "2023-11-16"
-last_updated: "2007-10-17"
+last_updated: "2008-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002144"
 soort: "wet"
@@ -76,7 +76,7 @@ Er is een College van Beroep voor het bedrijfsleven, verder te noemen het Colleg
 
 Het bij en krachtens de [afdelingen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&afdeling=1), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&afdeling=2) en [6 van hoofdstuk 2 van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&afdeling=6) bepaalde is, met uitzondering van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=2), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=3), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=9), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=11), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=20) en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=21), van overeenkomstige toepassing op het College, met dien verstande dat:
 
-- a. het bestuur bestaat uit een voorzitter, een niet-rechterlijk lid en ten hoogste vier andere leden met rechtspraak belast van het College als bedoeld in [artikel 3, tweede lid, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0002144&titeldeel=II&artikel=3&z=2007-10-17&g=2007-10-17);
+- a. het bestuur bestaat uit een voorzitter, een niet-rechterlijk lid en ten hoogste vier andere leden met rechtspraak belast van het College als bedoeld in [artikel 3, tweede lid, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0002144&titeldeel=II&artikel=3&z=2008-01-01&g=2008-01-01);
 
 - b. de voorzitter onderscheidenlijk de andere leden met rechtspraak belast, bedoeld in onderdeel a, in verband met het verrichten van de werkzaamheden als voorzitter onderscheidenlijk lid van het bestuur een toelage ontvangen op het salaris dat zij overeenkomstig de [Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365) genieten, waarvan het bedrag gelijk is aan het verschil tussen dat salaris en de bij algemene maatregel van bestuur voor de functie van lid van het bestuur vast te stellen salarishoogte;
 
@@ -270,7 +270,7 @@ Vervallen
 
 1. Van de verzoeker om een voorlopige voorziening wordt door de griffier een griffierecht geheven.[Artikel 24, eerste lid, tweede en derde volzin, tweede en zesde lid](onbekend), is van overeenkomstige toepassing.
 
-2. [Artikel 24, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002144&titeldeel=III&hoofdstuk=II&artikel=24&z=2007-10-17&g=2007-10-17), is van overeenkomstige toepassing, met dien verstande dat de termijn binnen welke de bijschrijving of storting van het verschuldigde bedrag dient plaats te vinden, twee weken bedraagt. De president kan een kortere termijn stellen.
+2. [Artikel 24, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002144&titeldeel=III&hoofdstuk=II&artikel=24&z=2008-01-01&g=2008-01-01), is van overeenkomstige toepassing, met dien verstande dat de termijn binnen welke de bijschrijving of storting van het verschuldigde bedrag dient plaats te vinden, twee weken bedraagt. De president kan een kortere termijn stellen.
 
 3. Indien het verzoek wordt ingetrokken omdat het bestuursorgaan, onderscheidenlijk de belanghebbende tot wie het bestreden besluit is gericht, aan de president schriftelijk heeft medegedeeld de uitvoering van het bestreden besluit hangende de procedure met betrekking tot de hoofdzaak op te schorten dan wel de gevraagde voorlopige maatregelen te zullen nemen, wordt het betaalde griffierecht door de griffier terugbetaald. In de overige gevallen kan de desbetreffende rechtspersoon, indien het verzoek wordt ingetrokken, het betaalde griffierecht geheel of gedeeltelijk vergoeden.
 
@@ -302,7 +302,7 @@ Het College bevestigt de uitspraak van de rechtbank, hetzij met overneming, hetz
 
 ##### Artikel 29
 
-In de gevallen, bedoeld in [artikel 28, eerste lid, onderdeel **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002144&titeldeel=III&hoofdstuk=II&artikel=28&z=2007-10-17&g=2007-10-17), kan het College de zaak zonder terugwijzing afdoen, indien zij naar zijn oordeel geen nadere behandeling door de rechtbank behoeft.
+In de gevallen, bedoeld in [artikel 28, eerste lid, onderdeel **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002144&titeldeel=III&hoofdstuk=II&artikel=28&z=2008-01-01&g=2008-01-01), kan het College de zaak zonder terugwijzing afdoen, indien zij naar zijn oordeel geen nadere behandeling door de rechtbank behoeft.
 
 ##### Artikel 30
 
@@ -322,15 +322,15 @@ Deze wet wordt aangehaald als: Wet bestuursrechtspraak bedrijfsorganisatie.
 
 3. [Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950);
 
-4. [Overgangswet elektriciteitsproductiesector](https://wetten.overheid.nl/jci1.3:c:BWBR0012088).
+4. [Overgangswet elektriciteitsproductiesector](https://wetten.overheid.nl/jci1.3:c:BWBR0012088);
 
 5. [Tabakswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004302);
 
-6. De [artikelen 56, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=56),[59, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=59), [94, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=94), en [96, eerste lid, van de Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=96).
+6. De [artikelen 56, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=56),[59, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=59), [94, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=94), en [96, eerste lid, van de Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=96);
 
 7. De [artikelen 11, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=11), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=16), [60ac](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=60ac) en [60ad van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=60ad);
 
-7. [Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969)
+7. [Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969);
 
 8. vervallen;
 
@@ -342,37 +342,39 @@ Deze wet wordt aangehaald als: Wet bestuursrechtspraak bedrijfsorganisatie.
 
 12. vervallen;
 
-13. de [Wet financiële betrekkingen buitenland 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006547).
+13. de [Wet financiële betrekkingen buitenland 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006547);
 
-12. De [Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809) en [Invoerings- en aanpassingswet Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020828).
+12. De [Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809) en [Invoerings- en aanpassingswet Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020828);
 
-13. [Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012092).
+13. [Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012092);
 
-14. [Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831).
+14. [Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831);
 
 15. [Artikel VIII van de wet van 22 december 1999](https://wetten.overheid.nl/jci1.3:c:BWBR0011031&artikel=VIII), (Stb. 592) tot wijziging van de Pensioen- en spaarfondsenwet en enkele andere wetten onder meer met het oog op verbetering van het toezicht op de uitvoering van aanvullende pensioenregelingen, invoering van een verbod op uitstelfinanciering van pensioenaanspraken en verduidelijking van de regels inzake waarde-overdracht van pensioen en aanspraken op pensioen (wijziging PSW in verband met toezicht, verbod op uitstelfinanciering en waardeoverdracht);
 
 16. De[Wet toezicht accountantsorganisaties](https://wetten.overheid.nl/jci1.3:c:BWBR0019468);
 
-16. [Artikel 72, eerste lid, van de Wet kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=72)
+16. [Artikel 72, eerste lid, van de Wet kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=72);
 
 16. de [Wet toezicht trustkantoren](https://wetten.overheid.nl/jci1.3:c:BWBR0016189);
 
 16. De [Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007);
 
-17. de [Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078), voor zover het betreft beschikkingen van de Nederlandse Zorgautoriteit als bedoeld in [paragraaf 4 van hoofdstuk 6 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&paragraaf=6.4).
+17. de [Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078), voor zover het betreft beschikkingen van de Nederlandse Zorgautoriteit als bedoeld in [paragraaf 4 van hoofdstuk 6 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&paragraaf=6.4);
 
-17. De [artikelen 77h](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=77h) en [77i van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=77i).
+17. De [artikelen 77h](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=77h) en [77i van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=77i);
 
 17. [Artikel 73, eerste lid, van de Meststoffenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=73);
 
 17. [Artikel 8.25f, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.25f), en [artikel 8.25g, eerste lid, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.25g);
 
+18. De [Loodsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365), met uitzondering van [artikel 27f](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=27f);
+
 18. De [Wet handhaving consumentenbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0020586);
 
 18. de [Wet toezicht financiële verslaggeving](https://wetten.overheid.nl/jci1.3:c:BWBR0020369);
 
-18. de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368).
+18. de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368);
 
 18. [Artikel 90, eerste lid, van de Wet gewasbeschermingsmiddelen en biociden](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=90).
 
