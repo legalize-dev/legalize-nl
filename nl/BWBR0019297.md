@@ -4,7 +4,7 @@ identifier: "BWBR0019297"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2007-01-01"
+last_updated: "2008-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019297"
 soort: "ministeriele-regeling"
@@ -70,7 +70,7 @@ Besluit:
 
 ##### Artikel 3. Maximaal bedrag starterskrediet
 
-Het bedrag, bedoeld in [artikel 15, eerste lid, van het Reïntegratiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&artikel=15), wordt vastgesteld op € 31.502.
+Het bedrag, bedoeld in [artikel 15, eerste lid, van het Reïntegratiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&artikel=15), wordt vastgesteld op € 31.975.
 
 #### § 2. Inkomenstoets vervoersvoorzieningen
 
