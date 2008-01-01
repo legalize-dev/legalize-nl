@@ -4,7 +4,7 @@ identifier: "BWBR0027383"
 country: "nl"
 rank: "amvb"
 publication_date: "2019-04-26"
-last_updated: "2006-01-01"
+last_updated: "2008-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027383"
 soort: "AMvB"
@@ -50,121 +50,121 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1. Bijdragen regionale omroepen
 
-Voor de bekostiging van hun taak ten aanzien van regionale omroepen ontvangen de provincies in de jaren 2006 en 2007 de uitkering, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=1&z=2010-03-17&g=2006-01-01).
+Voor de bekostiging van hun taak ten aanzien van regionale omroepen ontvangen de provincies in de jaren 2006 en 2007 de uitkering, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=1&z=2010-03-17&g=2008-01-01).
 
 ##### Artikel 2. Stimuleringsbudget collectief particulier opdrachtgeverschap
 
-Voor het ondersteunen van initiatieven voor collectief particulier opdrachtgeverschap bij woningbouw ontvangen de provincies in het jaar 2008 de uitkering, genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=2&z=2010-03-17&g=2006-01-01).
+Voor het ondersteunen van initiatieven voor collectief particulier opdrachtgeverschap bij woningbouw ontvangen de provincies in het jaar 2008 de uitkering, genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=2&z=2010-03-17&g=2008-01-01).
 
 #### § 2. Uitkeringen aan gemeenten
 
 ##### Artikel 3. Aanpak kindermishandeling
 
-Voor de bekostiging van een regiocoördinator ten behoeve van de aanpak van kindermishandeling ontvangen de gemeenten, genoemd in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=3&z=2010-03-17&g=2006-01-01), in de jaren 2008 tot en met 2010 jaarlijks € 83 300.
+Voor de bekostiging van een regiocoördinator ten behoeve van de aanpak van kindermishandeling ontvangen de gemeenten, genoemd in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=3&z=2010-03-17&g=2008-01-01), in de jaren 2008 tot en met 2010 jaarlijks € 83 300.
 
 ##### Artikel 4. Aanvullende armoedebestrijding
 
-Voor aanvullende armoedebestrijding ontvangen de gemeenten in het jaar 2008 de uitkering, genoemd in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=4&z=2010-03-17&g=2006-01-01).
+Voor aanvullende armoedebestrijding ontvangen de gemeenten in het jaar 2008 de uitkering, genoemd in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=4&z=2010-03-17&g=2008-01-01).
 
 ##### Artikel 5. Beeldende kunst en vormgeving
 
-Voor het stimuleren van beeldende kunst en vormgeving ontvangen de gemeenten, genoemd in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=5&z=2010-03-17&g=2006-01-01), met ingang van 2009 jaarlijks de in die bijlage genoemde uitkering.
+Voor het stimuleren van beeldende kunst en vormgeving ontvangen de gemeenten, genoemd in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=5&z=2010-03-17&g=2008-01-01), met ingang van 2009 jaarlijks de in die bijlage genoemde uitkering.
 
 ##### Artikel 6. Bewonersinitiatieven wijken
 
-Voor bewonersinitiatieven ter verbetering van de leefbaarheid en versterking van de sociale cohesie in wijken ontvangen de gemeenten, genoemd in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=6&z=2010-03-17&g=2006-01-01), in de jaren 2008 tot en met 2011 de in die bijlage genoemde uitkering.
+Voor bewonersinitiatieven ter verbetering van de leefbaarheid en versterking van de sociale cohesie in wijken ontvangen de gemeenten, genoemd in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=6&z=2010-03-17&g=2008-01-01), in de jaren 2008 tot en met 2011 de in die bijlage genoemde uitkering.
 
 ##### Artikel 7. Bibliotheekvoorzieningen in kleinere gemeenten
 
-Voor het verbeteren van bibliotheekvoorzieningen ontvangen de gemeenten, genoemd in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=7&z=2010-03-17&g=2006-01-01), in de jaren 2008 tot en met 2012 jaarlijks de in die bijlage genoemde uitkering.
+Voor het verbeteren van bibliotheekvoorzieningen ontvangen de gemeenten, genoemd in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=7&z=2010-03-17&g=2008-01-01), in de jaren 2008 tot en met 2012 jaarlijks de in die bijlage genoemde uitkering.
 
 ##### Artikel 8. BTW-compensatie waterschapswegen
 
-Ter compensatie van de BTW die gemeenten hebben betaald vanwege wettelijk verplichte bijdragen aan waterschappen voor het onderhoud van wegen, ontvangen de gemeenten, genoemd in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=8&z=2010-03-17&g=2006-01-01), in de jaren 2007 tot en met 2015 de in die bijlage genoemde uitkering.
+Ter compensatie van de BTW die gemeenten hebben betaald vanwege wettelijk verplichte bijdragen aan waterschappen voor het onderhoud van wegen, ontvangen de gemeenten, genoemd in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=8&z=2010-03-17&g=2008-01-01), in de jaren 2007 tot en met 2015 de in die bijlage genoemde uitkering.
 
 ##### Artikel 9. Combinatiefuncties brede school sport en cultuur
 
-Voor het bekostigen van combinatiefuncties ter bevordering van brede scholen met sport en cultuur ontvangen de gemeenten, genoemd in [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=9&z=2010-03-17&g=2006-01-01), in de jaren 2008 en 2009 jaarlijks de in die bijlage genoemde uitkering.
+Voor het bekostigen van combinatiefuncties ter bevordering van brede scholen met sport en cultuur ontvangen de gemeenten, genoemd in [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=9&z=2010-03-17&g=2008-01-01), in de jaren 2008 en 2009 jaarlijks de in die bijlage genoemde uitkering.
 
 ##### Artikel 10. Compensatie derving OZB op bedrijfswoningen
 
 Ter compensatie voor de derving van onroerende zaakbelasting als gevolg van het buiten aanmerking laten van de waarde van gedeelten van onroerende zaken die in hoofdzaak tot woning dienen dan wel in hoofdzaak dienstbaar zijn aan woondoeleinden ontvangen de gemeenten:
 
-- a. in het jaar 2006 de uitkering, genoemd in [bijlage 10a](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=10a&z=2010-03-17&g=2006-01-01);
+- a. in het jaar 2006 de uitkering, genoemd in [bijlage 10a](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=10a&z=2010-03-17&g=2008-01-01);
 
-- b. in de jaren 2007 tot en met 2009 jaarlijks de uitkering, genoemd in [bijlage 10b](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=10b&z=2010-03-17&g=2006-01-01).
+- b. in de jaren 2007 tot en met 2009 jaarlijks de uitkering, genoemd in [bijlage 10b](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=10b&z=2010-03-17&g=2008-01-01).
 
 ##### Artikel 11. Deltaplan inburgering
 
-Voor het uitvoeren van een inburgeringsagenda ontvangen de gemeenten, genoemd in [bijlage 11](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=11&z=2010-03-17&g=2006-01-01), in het jaar 2008 € 50.000.
+Voor het uitvoeren van een inburgeringsagenda ontvangen de gemeenten, genoemd in [bijlage 11](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=11&z=2010-03-17&g=2008-01-01), in het jaar 2008 € 50.000.
 
 ##### Artikel 12. Fiscale naheffing over gebruik dienstauto
 
-Ter compensatie van fiscale naheffingen over het gebruik van dienstauto’s door burgemeesters, anders dan uit hoofde van het ambt, ontvangen de gemeenten, genoemd in [bijlage 12](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=12&z=2010-03-17&g=2006-01-01), in 2008 de in die bijlage genoemde uitkering.
+Ter compensatie van fiscale naheffingen over het gebruik van dienstauto’s door burgemeesters, anders dan uit hoofde van het ambt, ontvangen de gemeenten, genoemd in [bijlage 12](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=12&z=2010-03-17&g=2008-01-01), in 2008 de in die bijlage genoemde uitkering.
 
 ##### Artikel 13. Homo-emancipatiebeleid
 
-Voor het verbeteren van de sociale acceptatie van homoseksualiteit en het bestrijden van discriminatie, intimidatie en geweld tegen homoseksuelen ontvangen de gemeenten, genoemd in [bijlage 13](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=13&z=2010-03-17&g=2006-01-01), in de jaren 2008 tot en met 2011 de in die bijlage genoemde uitkering.
+Voor het verbeteren van de sociale acceptatie van homoseksualiteit en het bestrijden van discriminatie, intimidatie en geweld tegen homoseksuelen ontvangen de gemeenten, genoemd in [bijlage 13](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=13&z=2010-03-17&g=2008-01-01), in de jaren 2008 tot en met 2011 de in die bijlage genoemde uitkering.
 
 ##### Artikel 14. Nationaal actieplan sport en bewegen
 
-Voor deelname aan het Nationaal actieplan sport en bewegen ontvangen de gemeenten, genoemd in [bijlage 14](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=14&z=2010-03-17&g=2006-01-01), in de jaren 2008 tot en met 2010 jaarlijks de in die bijlage genoemde uitkering.
+Voor deelname aan het Nationaal actieplan sport en bewegen ontvangen de gemeenten, genoemd in [bijlage 14](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=14&z=2010-03-17&g=2008-01-01), in de jaren 2008 tot en met 2010 jaarlijks de in die bijlage genoemde uitkering.
 
 ##### Artikel 15. Opvoeden in de buurt
 
-Voor extra ondersteuning van risicogezinnen met jonge kinderen ontvangen de gemeenten, genoemd in [bijlage 15](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=15&z=2010-03-17&g=2006-01-01), in de jaren 2006 tot en met 2008 de in die bijlage genoemde uitkering.
+Voor extra ondersteuning van risicogezinnen met jonge kinderen ontvangen de gemeenten, genoemd in [bijlage 15](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=15&z=2010-03-17&g=2008-01-01), in de jaren 2006 tot en met 2008 de in die bijlage genoemde uitkering.
 
 ##### Artikel 16. Participatie van vrouwen uit etnische minderheden
 
-Voor de bevordering van de participatie van vrouwen uit etnische minderheden ontvangen de gemeenten, genoemd in [bijlage 16](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=16&z=2010-03-17&g=2006-01-01), in de jaren 2008 tot en met 2011 de in die bijlage genoemde uitkering.
+Voor de bevordering van de participatie van vrouwen uit etnische minderheden ontvangen de gemeenten, genoemd in [bijlage 16](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=16&z=2010-03-17&g=2008-01-01), in de jaren 2008 tot en met 2011 de in die bijlage genoemde uitkering.
 
 ##### Artikel 17. Pilot toezicht Drank- en Horecawet
 
-Voor deelname aan een experiment met gemeentelijk toezicht op de naleving van de [Drank- en Horecawet](https://wetten.overheid.nl/jci1.3:c:BWBR0002458) ontvangen de gemeenten, genoemd in [bijlage 17](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=17&z=2010-03-17&g=2006-01-01), in de jaren 2008 en 2009 jaarlijks de in die bijlage genoemde uitkering.
+Voor deelname aan een experiment met gemeentelijk toezicht op de naleving van de [Drank- en Horecawet](https://wetten.overheid.nl/jci1.3:c:BWBR0002458) ontvangen de gemeenten, genoemd in [bijlage 17](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=17&z=2010-03-17&g=2008-01-01), in de jaren 2008 en 2009 jaarlijks de in die bijlage genoemde uitkering.
 
 ##### Artikel 18. Pilot gemengde scholen
 
-Voor deelname aan een experiment om segregatie in het basisonderwijs tegen te gaan ontvangen de gemeenten, genoemd in [bijlage 18](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=18&z=2010-03-17&g=2006-01-01), in de jaren 2008 tot en met 2011 jaarlijks de in die bijlage genoemde uitkering.
+Voor deelname aan een experiment om segregatie in het basisonderwijs tegen te gaan ontvangen de gemeenten, genoemd in [bijlage 18](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=18&z=2010-03-17&g=2008-01-01), in de jaren 2008 tot en met 2011 jaarlijks de in die bijlage genoemde uitkering.
 
 ##### Artikel 19. Pilot voorschoolse en vroegschoolse educatie
 
-Voor deelname aan het experiment voor voorschoolse en vroegschoolse educatie ontvangen de gemeenten, genoemd in [bijlage 19](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=19&z=2010-03-17&g=2006-01-01), in de jaren 2008 en 2009 jaarlijks de in die bijlage genoemde uitkering.
+Voor deelname aan het experiment voor voorschoolse en vroegschoolse educatie ontvangen de gemeenten, genoemd in [bijlage 19](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=19&z=2010-03-17&g=2008-01-01), in de jaren 2008 en 2009 jaarlijks de in die bijlage genoemde uitkering.
 
 ##### Artikel 20. Polarisatie en radicalisering
 
-Voor het voorkomen van polarisatie en radicalisering ontvangen de gemeenten, genoemd in [bijlage 20](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=20&z=2010-03-17&g=2006-01-01), in de jaren 2008 tot en met 2011 het in die bijlage genoemde bedrag.
+Voor het voorkomen van polarisatie en radicalisering ontvangen de gemeenten, genoemd in [bijlage 20](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=20&z=2010-03-17&g=2008-01-01), in de jaren 2008 tot en met 2011 het in die bijlage genoemde bedrag.
 
 ##### Artikel 21. Regionale fraudeplatforms
 
-Voor deelname aan het landelijk netwerk interventieteams fraudebestrijding ontvangen de gemeenten, genoemd in [bijlage 21](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=21&z=2010-03-17&g=2006-01-01), met ingang van 2007 jaarlijks € 222.857.
+Voor deelname aan het landelijk netwerk interventieteams fraudebestrijding ontvangen de gemeenten, genoemd in [bijlage 21](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=21&z=2010-03-17&g=2008-01-01), met ingang van 2007 jaarlijks € 222.857.
 
 ##### Artikel 22. Stemcomputers
 
-Voor de compensatie van het verlies van de boekwaarde van NEDAP stemmachines die het eigendom waren van de gemeenten ontvangen de gemeenten, genoemd in [bijlage 22](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=22&z=2010-03-17&g=2006-01-01), in 2008 de in die bijlage genoemde uitkering.
+Voor de compensatie van het verlies van de boekwaarde van NEDAP stemmachines die het eigendom waren van de gemeenten ontvangen de gemeenten, genoemd in [bijlage 22](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=22&z=2010-03-17&g=2008-01-01), in 2008 de in die bijlage genoemde uitkering.
 
 ##### Artikel 23. Taalcoaches
 
-Voor het opzetten van projecten voor taalcoaches in het kader van de inburgering van nieuwkomers, ontvangen de gemeenten, genoemd in [bijlage 23](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=23&z=2010-03-17&g=2006-01-01), in de jaren 2008 tot en met 2011 de in die bijlage genoemde uitkering.
+Voor het opzetten van projecten voor taalcoaches in het kader van de inburgering van nieuwkomers, ontvangen de gemeenten, genoemd in [bijlage 23](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=23&z=2010-03-17&g=2008-01-01), in de jaren 2008 tot en met 2011 de in die bijlage genoemde uitkering.
 
 ##### Artikel 24. Tijdbeleid
 
-Voor de flexibilisering van de openings- en arbeidstijden van zorg- en dienstverleners ontvangen de gemeenten, genoemd in [bijlage 24](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=24&z=2010-03-17&g=2006-01-01), in het jaar 2008 € 50.000.
+Voor de flexibilisering van de openings- en arbeidstijden van zorg- en dienstverleners ontvangen de gemeenten, genoemd in [bijlage 24](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=24&z=2010-03-17&g=2008-01-01), in het jaar 2008 € 50.000.
 
 ##### Artikel 25. TSIOC
 
-Voor de kosten van formatieplaatsen voor opsporing en controle in het kader van de intensivering van de handhaving van de [Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703) ontvangen de gemeenten genoemd in [bijlage 25](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=25&z=2010-03-17&g=2006-01-01) in de jaren 2007 tot en met 2010 jaarlijks de in die bijlage genoemde uitkering.
+Voor de kosten van formatieplaatsen voor opsporing en controle in het kader van de intensivering van de handhaving van de [Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703) ontvangen de gemeenten genoemd in [bijlage 25](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=25&z=2010-03-17&g=2008-01-01) in de jaren 2007 tot en met 2010 jaarlijks de in die bijlage genoemde uitkering.
 
 ##### Artikel 26. Uitvoering Wet inburgering
 
-Voor de uitvoering van de [Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611) ontvangen de gemeenten in het jaar 2009 de uitkering, genoemd in [bijlage 26](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=26&z=2010-03-17&g=2006-01-01).
+Voor de uitvoering van de [Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611) ontvangen de gemeenten in het jaar 2009 de uitkering, genoemd in [bijlage 26](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=26&z=2010-03-17&g=2008-01-01).
 
 ##### Artikel 27. Uitvoering Wet maatschappelijke ondersteuning
 
 Voor de uitvoering van de [Wet maatschappelijke ondersteuning](https://wetten.overheid.nl/jci1.3:c:BWBR0020031) ontvangen de gemeenten:
 
-- a. in het jaar 2007 de uitkering genoemd in [bijlage 27a](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=27a&z=2010-03-17&g=2006-01-01).
+- a. in het jaar 2007 de uitkering genoemd in [bijlage 27a](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=27a&z=2010-03-17&g=2008-01-01).
 
-- b. met ingang van 2008 jaarlijks een uitkering waarbij de verdeelmaatstaven genoemd in [bijlage 27b](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=27b&z=2010-03-17&g=2006-01-01) worden gehanteerd voor de verdeling van het totale beschikbare bedrag voor de uitkering. [Artikel 3, derde tot en met vijfde lid, van het Besluit financiële verhouding 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&artikel=3) is van overeenkomstige toepassing op deze uitkering.
+- b. met ingang van 2008 jaarlijks een uitkering waarbij de verdeelmaatstaven genoemd in [bijlage 27b](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=27b&z=2010-03-17&g=2008-01-01) worden gehanteerd voor de verdeling van het totale beschikbare bedrag voor de uitkering. [Artikel 3, derde tot en met vijfde lid, van het Besluit financiële verhouding 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&artikel=3) is van overeenkomstige toepassing op deze uitkering.
 
 ##### Artikel 28. Veilige publieke taak
 
@@ -172,17 +172,17 @@ Voor het tegengaan van agressie tegen werknemers met een publieke taak ontvangt 
 
 ##### Artikel 29. Wijkactieplannen
 
-Voor de financiering van wijkactieplannen ontvangen de gemeenten, genoemd in [bijlage 29](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=29&z=2010-03-17&g=2006-01-01), in de jaren 2008 tot en met 2010 de in die bijlage genoemde uitkering.
+Voor de financiering van wijkactieplannen ontvangen de gemeenten, genoemd in [bijlage 29](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=29&z=2010-03-17&g=2008-01-01), in de jaren 2008 tot en met 2010 de in die bijlage genoemde uitkering.
 
 #### § 3. Uitkeringen aan zowel gemeenten als provincies
 
 ##### Artikel 30. Antidiscriminatievoorzieningen
 
-Voor het ontwikkelen en in standhouden van antidiscriminatievoorzieningen ontvangen de provincies in de jaren 2006 tot en met 2008 de uitkering, genoemd in [bijlage 30a](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=30a&z=2010-03-17&g=2006-01-01) en ontvangen de gemeenten, genoemd in [bijlage 30b](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=30b&z=2010-03-17&g=2006-01-01), in de jaren 2006 tot en met 2008 de in die bijlage genoemde uitkering.
+Voor het ontwikkelen en in standhouden van antidiscriminatievoorzieningen ontvangen de provincies in de jaren 2006 tot en met 2008 de uitkering, genoemd in [bijlage 30a](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=30a&z=2010-03-17&g=2008-01-01) en ontvangen de gemeenten, genoemd in [bijlage 30b](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=30b&z=2010-03-17&g=2008-01-01), in de jaren 2006 tot en met 2008 de in die bijlage genoemde uitkering.
 
 ##### Artikel 31. Cultuurparticipatie
 
-Voor de uitvoering van het programma cultuurparticipatie ontvangen de provincies de uitkering, genoemd in [bijlage 31a](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=31a&z=2010-03-17&g=2006-01-01) en de gemeenten genoemd in [bijlage 31b](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=31b&z=2010-03-17&g=2006-01-01) jaarlijks in de jaren 2009 tot en met 2012 de in die bijlage genoemde uitkering.
+Voor de uitvoering van het programma cultuurparticipatie ontvangen de provincies de uitkering, genoemd in [bijlage 31a](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=31a&z=2010-03-17&g=2008-01-01) en de gemeenten genoemd in [bijlage 31b](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=31b&z=2010-03-17&g=2008-01-01) jaarlijks in de jaren 2009 tot en met 2012 de in die bijlage genoemde uitkering.
 
 #### § 4. Slotbepalingen
 
@@ -194,7 +194,7 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 Dit besluit wordt aangehaald als: Besluit decentralisatie- en integratie-uitkeringen.
 
-## Bijlage 1. , genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=1&artikel=1&z=2010-03-17&g=2006-01-01) Bijdragen regionale omroepen
+## Bijlage 1. , genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=1&artikel=1&z=2010-03-17&g=2008-01-01) Bijdragen regionale omroepen
 
 | Provincie | Uitkering 2006 | Uitkering 2007 |
 | --- | --- | --- |
@@ -212,7 +212,7 @@ Dit besluit wordt aangehaald als: Besluit decentralisatie- en integratie-uitkeri
 | Limburg | € 5.748.695 | € 2.874.348 |
 | Flevoland | € 4.165.536 | € 2.082.768 |
 
-## Bijlage 2. , genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=1&artikel=2&z=2010-03-17&g=2006-01-01): Stimuleringsbudget collectief particulier opdrachtgeverschap
+## Bijlage 2. , genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=1&artikel=2&z=2010-03-17&g=2008-01-01): Stimuleringsbudget collectief particulier opdrachtgeverschap
 
 | Provincie | Uitkering 2008 |   |
 | --- | --- | --- |
@@ -230,7 +230,7 @@ Dit besluit wordt aangehaald als: Besluit decentralisatie- en integratie-uitkeri
 | Limburg | € 587.303 |   |
 | Flevoland | € 315.394 |   |
 
-## Bijlage 3. , genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=3&z=2010-03-17&g=2006-01-01) Aanpak kindermishandeling
+## Bijlage 3. , genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=3&z=2010-03-17&g=2008-01-01) Aanpak kindermishandeling
 
 Gemeente
 
@@ -304,7 +304,7 @@ Zaanstad
 
 Zwolle
 
-## Bijlage 4. , genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=4&z=2010-03-17&g=2006-01-01) Aanvullende armoedebestrijding
+## Bijlage 4. , genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=4&z=2010-03-17&g=2008-01-01) Aanvullende armoedebestrijding
 
 | Gemeente | Uitkering 2008 |   |
 | --- | --- | --- |
@@ -753,7 +753,7 @@ Zwolle
 | Zwijndrecht | € 122.850 |   |
 | Zwolle | € 334.571 |   |
 
-## Bijlage 5. genoemd in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=5&z=2010-03-17&g=2006-01-01) Beeldende kunst en vormgeving
+## Bijlage 5. genoemd in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=5&z=2010-03-17&g=2008-01-01) Beeldende kunst en vormgeving
 
 | Gemeente | Uitkering |   |
 | --- | --- | --- |
@@ -795,7 +795,7 @@ Zwolle
 | Zoetermeer | € 150.000 |   |
 | Zwolle | € 150.000 |   |
 
-## Bijlage 6. , genoemd in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=6&z=2010-03-17&g=2006-01-01) Bewonersinitiatieven wijken
+## Bijlage 6. , genoemd in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=6&z=2010-03-17&g=2008-01-01) Bewonersinitiatieven wijken
 
 | Gemeente | Uitkering 2008 | Uitkering 2009 | Uitkering 2010 | Uitkering 2011 |
 | --- | --- | --- | --- | --- |
@@ -833,7 +833,7 @@ Zwolle
 | Zaanstad | € 400.000 | € 450.000 | € 450.000 | € 150.000 |
 | Zwolle | € 300.000 | € 300.000 | € 300.000 |   |
 
-## Bijlage 7. genoemd in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=7&z=2010-03-17&g=2006-01-01) Bibliotheekvoorzieningen in kleinere gemeenten
+## Bijlage 7. genoemd in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=7&z=2010-03-17&g=2008-01-01) Bibliotheekvoorzieningen in kleinere gemeenten
 
 | Gemeente | Uitkering |   |
 | --- | --- | --- |
@@ -1135,7 +1135,7 @@ Zwolle
 | Zundert | € 23.809 |   |
 | Zwartewaterland | € 25.031 |   |
 
-## Bijlage 8. , genoemd in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=8&z=2010-03-17&g=2006-01-01) BTW-compensatie waterschapswegen
+## Bijlage 8. , genoemd in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=8&z=2010-03-17&g=2008-01-01) BTW-compensatie waterschapswegen
 
 | Gemeente | Uitkering 2007 | Uitkering 2008 | Uitkering 2009 | Uitkering 2010 | Uitkering 2011 | Uitkering 2012 | Uitkering 2013 | Uitkering 2014 | Uitkering 2015 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -1253,7 +1253,7 @@ Zwolle
 | Zuidhorn | € 1.084 | € 0 | € 0 | € 0 | € 0 | € 0 | € 0 | € 0 | € 0 |
 | Zwijndrecht | € 66.494 | € 11.825 | € 12.287 | € 12.760 | € 13.244 | € 13.738 | € 14.244 | € 14.762 | € 15.102 |
 
-## Bijlage 9. , genoemd in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=9&z=2010-03-17&g=2006-01-01) Combinatiefuncties brede school sport en cultuur
+## Bijlage 9. , genoemd in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=9&z=2010-03-17&g=2008-01-01) Combinatiefuncties brede school sport en cultuur
 
 | Gemeente | Uitkering 2008 | Uitkering 2009 |
 | --- | --- | --- |
@@ -1289,7 +1289,7 @@ Zwolle
 | Rotterdam | € 1.898.333,00 | € 949.166,50 |
 | Amsterdam | € 2.220.201,00 | € 1.110.100,50 |
 
-## Bijlage 10a. genoemd in [artikel 10, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=10&z=2010-03-17&g=2006-01-01) Compensatie derving OZB op bedrijfswoningen voor 2006
+## Bijlage 10a. genoemd in [artikel 10, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=10&z=2010-03-17&g=2008-01-01) Compensatie derving OZB op bedrijfswoningen voor 2006
 
 | Gemeente | Uitkering 2006 |   |
 | --- | --- | --- |
@@ -1753,7 +1753,7 @@ Zwolle
 | Zwijndrecht | € 48.087 |   |
 | Zwolle | € 84.538 |   |
 
-## Bijlage 10b. , genoemd in [artikel 10, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=10&z=2010-03-17&g=2006-01-01) Compensatie derving OZB op bedrijfswoningen voor 2007–2009
+## Bijlage 10b. , genoemd in [artikel 10, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=10&z=2010-03-17&g=2008-01-01) Compensatie derving OZB op bedrijfswoningen voor 2007–2009
 
 | Gemeente | Uitkering |   |
 | --- | --- | --- |
@@ -2202,7 +2202,7 @@ Zwolle
 | Zwijndrecht | € 48.087 |   |
 | Zwolle | € 84.538 |   |
 
-## Bijlage 11. , genoemd in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=11&z=2010-03-17&g=2006-01-01) Deltaplan inburgering
+## Bijlage 11. , genoemd in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=11&z=2010-03-17&g=2008-01-01) Deltaplan inburgering
 
 Gemeente
 
@@ -2302,7 +2302,7 @@ Zoetermeer
 
 Zwolle
 
-## Bijlage 12. , genoemd in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=12&z=2010-03-17&g=2006-01-01) Fiscale naheffing over gebruik dienstauto
+## Bijlage 12. , genoemd in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=12&z=2010-03-17&g=2008-01-01) Fiscale naheffing over gebruik dienstauto
 
 | Gemeente | Uitkering 2008 |   |
 | --- | --- | --- |
@@ -2332,7 +2332,7 @@ Zwolle
 | Zaanstad | € 48.942 |   |
 | Zoetermeer | € 35.350 |   |
 
-## Bijlage 13. , genoemd in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=13&z=2010-03-17&g=2006-01-01) Homo-emancipatiebeleid
+## Bijlage 13. , genoemd in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=13&z=2010-03-17&g=2008-01-01) Homo-emancipatiebeleid
 
 | Gemeente | Uitkering 2008 | Uitkering jaarlijks 2009–2011 |
 | --- | --- | --- |
@@ -2354,7 +2354,7 @@ Zwolle
 | Utrecht | € 50.000 | € 50.000 |
 | Zwolle | € 15.000 | € 20.000 |
 
-## Bijlage 14. , genoemd in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=14&z=2010-03-17&g=2006-01-01) Nationaal actieplan sport en bewegen
+## Bijlage 14. , genoemd in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=14&z=2010-03-17&g=2008-01-01) Nationaal actieplan sport en bewegen
 
 | Gemeente | Uitkering 2008 | Uitkering 2009 | Uitkering 2010 |
 | --- | --- | --- | --- |
@@ -2403,7 +2403,7 @@ Zwolle
 | Winschoten | € 46.952 | € 93.904 | € 46.952 |
 | Wunseradiel | € 33.794 | € 67.588 | € 33.794 |
 
-## Bijlage 15. , genoemd in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=15&z=2010-03-17&g=2006-01-01) Opvoeden in de buurt
+## Bijlage 15. , genoemd in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=15&z=2010-03-17&g=2008-01-01) Opvoeden in de buurt
 
 | Gemeente | Uitkering 2006 | Uitkering 2007 | Uitkering 2008 |
 | --- | --- | --- | --- |
@@ -2416,7 +2416,7 @@ Zwolle
 | Eindhoven | € 296.250 | € 587.943 | € 587.943 |
 | Tilburg | € 289.156 | € 573.863 | € 573.863 |
 
-## Bijlage 16. genoemd in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=16&z=2010-03-17&g=2006-01-01) Participatie van vrouwen uit etnische minderheden
+## Bijlage 16. genoemd in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=16&z=2010-03-17&g=2008-01-01) Participatie van vrouwen uit etnische minderheden
 
 | Gemeente | Uitkering 2008 | Uitkering 2009 | Uitkering 2010 | Uitkering 2011 |
 | --- | --- | --- | --- | --- |
@@ -2440,7 +2440,7 @@ Zwolle
 | Tilburg | € 16.667 | € 50.000 | € 50.000 | € 33.333 |
 | Venlo | € 16.667 | € 50.000 | € 50.000 | € 33.333 |
 
-## Bijlage 17. , genoemd in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=17&z=2010-03-17&g=2006-01-01) Pilot Drank- en Horecawet
+## Bijlage 17. , genoemd in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=17&z=2010-03-17&g=2008-01-01) Pilot Drank- en Horecawet
 
 | Gemeente of samenwerkingsverband | Financiering via gemeente | Uitkering |
 | --- | --- | --- |
@@ -2461,7 +2461,7 @@ Zwolle
 | Utrecht |   | € 150.000 |
 | Vlaardingen |   | € 150.000 |
 
-## Bijlage 18. , genoemd in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=18&z=2010-03-17&g=2006-01-01) Pilot gemengde scholen
+## Bijlage 18. , genoemd in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=18&z=2010-03-17&g=2008-01-01) Pilot gemengde scholen
 
 | Gemeente | Uitkering |   |
 | --- | --- | --- |
@@ -2474,7 +2474,7 @@ Zwolle
 | Deventer | € 50.000 |   |
 | Nijmegen | € 50.000 |   |
 
-## Bijlage 19. , genoemd in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=19&z=2010-03-17&g=2006-01-01) Pilot voorschoolse en vroegschoolse educatie
+## Bijlage 19. , genoemd in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=19&z=2010-03-17&g=2008-01-01) Pilot voorschoolse en vroegschoolse educatie
 
 | Gemeente | Uitkering |   |
 | --- | --- | --- |
@@ -2483,7 +2483,7 @@ Zwolle
 | Kerkrade | € 2.200.000 |   |
 | Stadskanaal | € 1.600.000 |   |
 
-## Bijlage 20. , genoemd in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=20&z=2010-03-17&g=2006-01-01) Polarisatie en radicalisering
+## Bijlage 20. , genoemd in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=20&z=2010-03-17&g=2008-01-01) Polarisatie en radicalisering
 
 | Gemeente | Uitkering 2008 | Uitkering 2009 | Uitkering 2010 | Uitkering 2011 |
 | --- | --- | --- | --- | --- |
@@ -2505,7 +2505,7 @@ Zwolle
 | Zaanstad | € 30.700 |   |   |   |
 | Zoetermeer | € 52.500 | € 26.500 | € 27.500 | € 14.500 |
 
-## Bijlage 21. genoemd in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=21&z=2010-03-17&g=2006-01-01) Regionale fraudeplatforms
+## Bijlage 21. genoemd in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=21&z=2010-03-17&g=2008-01-01) Regionale fraudeplatforms
 
 Gemeente
 
@@ -2527,7 +2527,7 @@ Tilburg
 
 Utrecht
 
-## Bijlage 22. , genoemd in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=22&z=2010-03-17&g=2006-01-01) Stemcomputers
+## Bijlage 22. , genoemd in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=22&z=2010-03-17&g=2008-01-01) Stemcomputers
 
 | Gemeente | Uitkering 2008 |   |
 | --- | --- | --- |
@@ -2706,7 +2706,7 @@ Utrecht
 | Zutphen | € 32.792 |   |
 | Zwartewaterland | € 11.290 |   |
 
-## Bijlage 23. bij [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=23&z=2010-03-17&g=2006-01-01) Taalcoaches
+## Bijlage 23. bij [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=23&z=2010-03-17&g=2008-01-01) Taalcoaches
 
 | Gemeente | Uitkering 2008 | Uitkering 2009 | Uitkering 2010 | Uitkering 2011 |
 | --- | --- | --- | --- | --- |
@@ -2759,7 +2759,7 @@ Utrecht
 | Zaanstad | € 75.000 | € 45.000 | € 15.000 | € 15.000 |
 | Zoetermeer | € 75.000 | € 45.000 | € 15.000 | € 15.000 |
 
-## Bijlage 24. genoemd in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=24&z=2010-03-17&g=2006-01-01) Tijdbeleid
+## Bijlage 24. genoemd in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=24&z=2010-03-17&g=2008-01-01) Tijdbeleid
 
 Gemeente
 
@@ -2779,7 +2779,7 @@ Maarssen
 
 Zaanstad
 
-## Bijlage 25. genoemd in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=25&z=2010-03-17&g=2006-01-01) TSIOC
+## Bijlage 25. genoemd in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=25&z=2010-03-17&g=2008-01-01) TSIOC
 
 | Gemeente | Uitkering |   |
 | --- | --- | --- |
@@ -2912,7 +2912,7 @@ Zaanstad
 | Zutphen | € 45.000 |   |
 | Zwolle | € 55.000 |   |
 
-## Bijlage 26. , genoemd in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=26&z=2010-03-17&g=2006-01-01) Uitvoering Wet inburgering
+## Bijlage 26. , genoemd in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=26&z=2010-03-17&g=2008-01-01) Uitvoering Wet inburgering
 
 | Gemeente | Uitkering 2009 |   |
 | --- | --- | --- |
@@ -3359,7 +3359,7 @@ Zaanstad
 | Zwijndrecht | € 122.552 |   |
 | Zwolle |   |   |
 
-## Bijlage 27a. , genoemd in [artikel 27, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=27&z=2010-03-17&g=2006-01-01), Uitvoering Wet maatschappelijke ondersteuning
+## Bijlage 27a. , genoemd in [artikel 27, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=27&z=2010-03-17&g=2008-01-01), Uitvoering Wet maatschappelijke ondersteuning
 
 | Gemeente | Uitkering 2007 |   |
 | --- | --- | --- |
@@ -3808,7 +3808,7 @@ Zaanstad
 | Zwijndrecht | € 4.294.744 |   |
 | Zwolle | € 9.511.912 |   |
 
-## Bijlage 27b. , genoemd in [artikel 27, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=27&z=2010-03-17&g=2006-01-01): Uitvoering Wet maatschappelijke ondersteuning
+## Bijlage 27b. , genoemd in [artikel 27, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=27&z=2010-03-17&g=2008-01-01): Uitvoering Wet maatschappelijke ondersteuning
 
 | Maatstaf | Definitie verdeelmaatstaf | Bron | Peildatum of tijdsaanduiding (indien deze anders luidt dan 1 januari van het uitkeringsjaar) |
 | --- | --- | --- | --- |
@@ -3854,7 +3854,456 @@ Zaanstad
 | 18. Gezondheidszorg bedden. | Het aantal bedden in de gemeente dat beschikbaar is voor geestelijke gezondheidszorg, verpleeghuiszorg en zwakzinnigenzorg, berekend naar rato van de volgende factoren: a. aantal bedden in de geestelijke gezondheidszorg: factor 26; b. aantal bedden voor verpleeghuiszorg: factor 132,3; c. aantal bedden voor zwakzinnigenzorg: factor 365. | VWS | Gebaseerd op peildatum die gebruikt werd bij de vaststelling van de specifieke uitkering BBAG 2004. |
 | 19. Vast bedrag. | Één eenheid voor iedere gemeente. |   |   |
 
-## Bijlage 29. genoemd in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29&z=2010-03-17&g=2006-01-01) Wijkactieplannen
+## Bijlage 27c. , genoemd in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=27&z=2010-03-17&g=2008-01-01). [Wet maatschappelijke ondersteuning](https://wetten.overheid.nl/jci1.3:c:BWBR0020031) (WMO)
+
+| **Gemeente** | **Uitkering 2008** |
+| --- | --- |
+| Aa en Hunze | € 2.449.393 |
+| Aalburg | € 790.880 |
+| Aalsmeer | € 1.999.291 |
+| Aalten | € 2.761.367 |
+| Abcoude | € 595.328 |
+| Achtkarspelen | € 2.489.666 |
+| Alblasserdam | € 1.848.168 |
+| Albrandswaard | € 1.282.348 |
+| Alkemade | € 1.014.796 |
+| Alkmaar | € 9.219.695 |
+| Almelo | € 7.618.740 |
+| Almere | € 9.367.909 |
+| Alphen a/d Rijn | € 5.155.492 |
+| Alphen-Chaam | € 639.224 |
+| Ameland | € 261.554 |
+| Amersfoort | € 10.914.503 |
+| Amstelveen | € 8.501.068 |
+| Amsterdam | € 67.392.985 |
+| Andijk | € 505.741 |
+| Anna Paulowna | € 941.361 |
+| Apeldoorn | € 15.257.362 |
+| Appingedam | € 1.748.370 |
+| Arcen en Velden | € 716.938 |
+| Arnhem | € 13.832.096 |
+| Assen | € 6.212.423 |
+| Asten | € 1.277.468 |
+| Baarle-Nassau | € 676.072 |
+| Baarn | € 3.104.214 |
+| Barendrecht | € 2.360.402 |
+| Barneveld | € 2.930.249 |
+| Bedum | € 982.713 |
+| Beek | € 1.791.270 |
+| Beemster | € 769.534 |
+| Beesel | € 1.086.617 |
+| Bellingwedde | € 1.271.202 |
+| Bennebroek | € 674.596 |
+| Bergambacht | € 708.334 |
+| Bergeijk | € 1.307.087 |
+| Bergen L | € 1.335.466 |
+| Bergen NH | € 3.205.066 |
+| Bergen op Zoom | € 6.407.437 |
+| Berkelland | € 3.967.138 |
+| Bernheze | € 1.908.875 |
+| Bernisse | € 801.388 |
+| Best | € 1.833.542 |
+| Beuningen | € 1.579.130 |
+| Beverwijk | € 4.151.064 |
+| Binnenmaas | € 2.101.430 |
+| Bladel | € 1.325.383 |
+| Blaricum | € 765.225 |
+| Bloemendaal | € 1.564.568 |
+| Boarnsterhim | € 1.485.641 |
+| Bodegraven | € 1.301.726 |
+| Boekel | € 679.212 |
+| Bolsward | € 1.148.041 |
+| Borger-Odoorn | € 2.406.088 |
+| Borne | € 1.818.836 |
+| Borsele | € 1.798.012 |
+| Boskoop | € 1.019.961 |
+| Boxmeer | € 2.166.708 |
+| Boxtel | € 2.619.648 |
+| Breda | € 15.615.967 |
+| Breukelen | € 1.159.051 |
+| Brielle | € 1.029.665 |
+| Bronckhorst | € 3.473.215 |
+| Brummen | € 1.964.405 |
+| Brunssum | € 4.175.877 |
+| Bunnik | € 985.950 |
+| Bunschoten | € 1.052.330 |
+| Buren | € 1.546.594 |
+| Bussum | € 3.789.786 |
+| Capelle a/d IJssel | € 5.875.961 |
+| Castricum | € 2.893.530 |
+| Coevorden | € 3.648.839 |
+| Cranendonck | € 1.533.925 |
+| Cromstrijen | € 907.744 |
+| Cuijk | € 1.992.874 |
+| Culemborg | € 1.944.390 |
+| Dalfsen | € 1.903.732 |
+| Dantumadeel | € 2.022.723 |
+| De Bilt | € 4.910.106 |
+| De Marne | € 1.124.159 |
+| De Ronde Venen | € 2.163.385 |
+| De Wolden | € 2.174.300 |
+| Delft | € 8.617.941 |
+| Delfzijl | € 3.067.042 |
+| Den Helder | € 5.656.991 |
+| Deurne | € 2.528.462 |
+| Deventer | € 9.236.076 |
+| Diemen | € 1.970.668 |
+| Dinkelland | € 1.946.823 |
+| Dirksland | € 727.374 |
+| Doesburg | € 1.101.359 |
+| Doetinchem | € 5.739.395 |
+| Dongen | € 1.943.933 |
+| Dongeradeel | € 2.488.233 |
+| Dordrecht | € 11.882.114 |
+| Drechterland | € 1.344.489 |
+| Drimmelen | € 1.967.002 |
+| Dronten | € 2.518.014 |
+| Druten | € 1.382.899 |
+| Duiven | € 1.603.003 |
+| Echt-Susteren | € 3.513.807 |
+| Edam-Volendam | € 1.771.610 |
+| Ede | € 8.371.348 |
+| Eemnes | € 508.920 |
+| Eemsmond | € 1.798.653 |
+| Eersel | € 1.494.308 |
+| Eijsden | € 877.798 |
+| Eindhoven | € 22.215.112 |
+| Elburg | € 1.510.542 |
+| Emmen | € 12.541.234 |
+| Enkhuizen | € 1.749.332 |
+| Enschede | € 16.666.976 |
+| Epe | € 3.470.861 |
+| Ermelo | € 2.650.113 |
+| Etten-Leur | € 3.144.753 |
+| Ferwerderadiel | € 794.106 |
+| Franekeradeel | € 2.080.045 |
+| Gaasterlan-Sleat | € 1.005.003 |
+| Geertruidenberg | € 1.620.082 |
+| Geldermalsen | € 1.745.002 |
+| Geldrop-Mierlo | € 3.355.907 |
+| Gemert-Bakel | € 2.153.933 |
+| Gennep | € 1.942.594 |
+| Giessenlanden | € 872.871 |
+| Gilze en Rijen | € 1.814.802 |
+| Goedereede | € 760.250 |
+| Goes | € 4.329.422 |
+| Goirle | € 1.609.856 |
+| Gorinchem | € 3.476.364 |
+| Gouda | € 6.119.929 |
+| Graafstroom | € 504.365 |
+| Graft-De Rijp | € 482.201 |
+| Grave | € 1.091.033 |
+| Groesbeek | € 2.144.776 |
+| Groningen | € 15.540.591 |
+| Grootegast | € 972.331 |
+| Gulpen-Wittem | € 1.355.385 |
+| Haaksbergen | € 1.918.555 |
+| Haaren | € 1.191.116 |
+| Haarlem | € 15.886.422 |
+| Haarlemmerliede Spaarnwoude | € 453.551 |
+| Haarlemmermeer | € 7.819.934 |
+| Halderberge | € 2.282.594 |
+| Hardenberg | € 4.480.365 |
+| Harderwijk | € 3.386.754 |
+| Hardinxveld-Giessendam | € 1.375.551 |
+| Haren | € 2.306.092 |
+| Harenkarspel | € 1.187.337 |
+| Harlingen | € 1.583.018 |
+| Hattem | € 1.004.744 |
+| Heemskerk | € 3.547.389 |
+| Heemstede | € 3.197.090 |
+| Heerde | € 1.665.026 |
+| Heerenveen | € 4.999.997 |
+| Heerhugowaard | € 3.126.371 |
+| Heerlen | € 12.656.835 |
+| Heeze-Leende | € 1.342.305 |
+| Heiloo | € 2.082.649 |
+| Helden | € 1.564.963 |
+| Hellendoorn | € 3.018.464 |
+| Hellevoetsluis | € 2.756.966 |
+| Helmond | € 7.527.517 |
+| Hendrik-Ido-Ambacht | € 1.469.850 |
+| Hengelo | € 8.277.817 |
+| Het Bildt | € 1.063.304 |
+| Heumen | € 1.165.372 |
+| Heusden | € 3.035.463 |
+| Hillegom | € 1.859.123 |
+| Hilvarenbeek | € 957.115 |
+| Hilversum | € 9.468.068 |
+| Hof van Twente | € 3.223.209 |
+| Hoogeveen | € 5.879.830 |
+| Hoogezand-Sappemeer | € 4.221.945 |
+| Hoorn | € 5.881.480 |
+| Horst aan de Maas | € 2.162.344 |
+| Houten | € 2.154.019 |
+| Huizen | € 3.541.890 |
+| Hulst | € 3.120.672 |
+| IJsselstein | € 1.984.801 |
+| Jacobswoude | € 659.126 |
+| Kampen | € 4.083.611 |
+| Kapelle | € 949.481 |
+| Katwijk | € 4.269.871 |
+| Kerkrade | € 6.582.340 |
+| Kessel | € 356.783 |
+| Koggenland | € 1.362.158 |
+| Kollumerland Nieuwkruisland | € 1.247.784 |
+| Korendijk | € 755.313 |
+| Krimpen a/d IJssel | € 2.296.391 |
+| Laarbeek | € 1.614.162 |
+| Landerd | € 1.029.185 |
+| Landgraaf | € 4.541.378 |
+| Landsmeer | € 861.781 |
+| Langedijk | € 1.598.798 |
+| Lansingerland | € 2.202.406 |
+| Laren | € 1.348.965 |
+| Leek | € 2.019.165 |
+| Leerdam | € 1.895.465 |
+| Leeuwarden | € 10.298.487 |
+| Leeuwarderadeel | € 839.707 |
+| Leiden | € 9.548.569 |
+| Leiderdorp | € 2.048.586 |
+| Leidschendam-Voorburg | € 8.431.346 |
+| Lelystad | € 4.993.772 |
+| Lemsterland | € 1.041.103 |
+| Leudal | € 2.866.341 |
+| Leusden | € 1.992.678 |
+| Liesveld | € 623.265 |
+| Lingewaal | € 695.909 |
+| Lingewaard | € 2.966.875 |
+| Lisse | € 1.921.368 |
+| Lith | € 429.606 |
+| Littenseradiel | € 749.814 |
+| Lochem | € 3.353.477 |
+| Loenen | € 695.709 |
+| Loon op Zand | € 1.836.594 |
+| Lopik | € 791.887 |
+| Loppersum | € 1.014.081 |
+| Losser | € 2.182.159 |
+| Maarssen | € 2.579.700 |
+| Maasbree | € 808.166 |
+| Maasdonk | € 793.031 |
+| Maasdriel | € 1.692.962 |
+| Maasgouw | € 2.630.877 |
+| Maassluis | € 2.889.723 |
+| Maastricht | € 14.157.004 |
+| Margraten | € 1.055.237 |
+| Marum | € 772.669 |
+| Medemblik | € 2.148.303 |
+| Meerlo-Wanssum | € 506.775 |
+| Meerssen | € 1.706.591 |
+| Meijel | € 433.989 |
+| Menaldumadeel | € 1.129.943 |
+| Menterwolde | € 1.128.092 |
+| Meppel | € 3.084.629 |
+| Middelburg | € 5.045.068 |
+| Middelharnis | € 1.683.241 |
+| Midden Drenthe | € 2.964.946 |
+| Midden-Delfland | € 987.492 |
+| Mill en Sint Hubert | € 881.698 |
+| Millingen a/d Rijn | € 538.843 |
+| Moerdijk | € 2.795.555 |
+| Montferland | € 3.008.101 |
+| Montfoort U | € 746.885 |
+| Mook en Middelaar | € 682.965 |
+| Moordrecht | € 488.036 |
+| Muiden | € 508.265 |
+| Naarden | € 1.593.185 |
+| Neder-Betuwe | € 1.461.889 |
+| Nederlek | € 1.272.196 |
+| Nederweert | € 1.258.269 |
+| Neerijnen | € 819.730 |
+| Niedorp | € 750.894 |
+| Nieuwegein | € 4.121.098 |
+| Nieuwerkerk a/d IJssel | € 1.288.155 |
+| Nieuwkoop | € 1.812.612 |
+| Nieuw-Lekkerland | € 512.094 |
+| Nijefurd | € 1.132.311 |
+| Nijkerk | € 2.526.187 |
+| Nijmegen | € 15.484.876 |
+| Noord-Beveland | € 651.242 |
+| Noordenveld | € 3.028.526 |
+| Noordoostpolder | € 3.873.355 |
+| Noordwijk | € 2.374.484 |
+| Noordwijkerhout | € 1.329.251 |
+| Nuenen c.a. | € 1.397.574 |
+| Nunspeet | € 2.185.205 |
+| Nuth | € 1.578.054 |
+| Oegstgeest | € 1.637.208 |
+| Oirschot | € 1.158.688 |
+| Oisterwijk | € 2.201.133 |
+| Oldebroek | € 1.376.351 |
+| Oldenzaal | € 3.100.033 |
+| Olst-Wijhe | € 1.573.134 |
+| Ommen | € 1.490.718 |
+| Onderbanken | € 835.735 |
+| Oost Gelre | € 2.461.115 |
+| Oosterhout | € 4.394.362 |
+| Oostflakkee | € 858.501 |
+| Ooststellingwerf | € 2.841.963 |
+| Oostzaan | € 727.875 |
+| Opmeer | € 779.588 |
+| Opsterland | € 2.763.432 |
+| Oss | € 6.960.380 |
+| Oud-Beijerland | € 1.639.648 |
+| Oude IJsselstreek | € 3.648.768 |
+| Ouder-Amstel | € 1.145.199 |
+| Ouderkerk | € 637.380 |
+| Oudewater | € 772.530 |
+| Overbetuwe | € 2.704.510 |
+| Papendrecht | € 2.320.118 |
+| Pekela | € 1.809.694 |
+| Pijnacker-Nootdorp | € 2.053.453 |
+| Purmerend | € 7.171.504 |
+| Putten | € 1.770.232 |
+| Raalte | € 3.083.515 |
+| Reeuwijk | € 877.020 |
+| Reiderland | € 996.446 |
+| Reimerswaal | € 1.774.068 |
+| Renkum | € 4.196.469 |
+| Renswoude | € 268.366 |
+| Reusel-De Mierden | € 844.511 |
+| Rheden | € 5.758.774 |
+| Rhenen | € 1.580.801 |
+| Ridderkerk | € 4.548.410 |
+| Rijnwaarden | € 898.065 |
+| Rijnwoude | € 1.147.013 |
+| Rijssen-Holten | € 2.847.364 |
+| Rijswijk | € 6.553.205 |
+| Roerdalen | € 1.876.419 |
+| Roermond | € 5.906.740 |
+| Roosendaal | € 7.275.593 |
+| Rotterdam | € 65.637.186 |
+| Rozenburg | € 966.832 |
+| Rozendaal | € 143.875 |
+| Rucphen | € 1.987.189 |
+| Schagen | € 1.906.173 |
+| Scheemda | € 1.478.677 |
+| Schermer | € 341.869 |
+| Scherpenzeel | € 592.240 |
+| Schiedam | € 7.975.237 |
+| Schiermonnikoog | € 141.834 |
+| Schijndel | € 1.765.609 |
+| Schinnen | € 1.245.556 |
+| Schoonhoven | € 1.003.171 |
+| Schouwen-Duiveland | € 3.239.517 |
+| Sevenum | € 566.582 |
+| ’s-Gravenhage | € 46.850.039 |
+| ’s-Hertogenbosch | € 12.038.019 |
+| Simpelveld | € 1.139.705 |
+| Sint-Anthonis | € 968.452 |
+| Sint-Michielsgestel | € 2.080.007 |
+| Sint-Oedenrode | € 1.394.754 |
+| Sittard-Geleen | € 11.246.225 |
+| Skarsterlan | € 2.256.150 |
+| Sliedrecht | € 2.685.600 |
+| Slochteren | € 1.222.857 |
+| Sluis | € 2.901.759 |
+| Smallingerland | € 5.908.291 |
+| Sneek | € 3.555.715 |
+| Soest | € 4.416.300 |
+| Someren | € 1.438.531 |
+| Son en Breugel | € 1.180.838 |
+| Spijkenisse | € 5.379.547 |
+| Stadskanaal | € 4.556.047 |
+| Staphorst | € 836.846 |
+| Stede Broec | € 1.577.844 |
+| Steenbergen | € 1.881.799 |
+| Steenwijkerland | € 4.414.171 |
+| Stein | € 2.703.239 |
+| Strijen | € 776.376 |
+| Ten Boer | € 527.302 |
+| Terneuzen | € 6.021.444 |
+| Terschelling | € 392.854 |
+| Texel | € 1.130.195 |
+| Teylingen | € 2.399.420 |
+| Tholen | € 2.085.670 |
+| Tiel | € 3.224.200 |
+| Tilburg | € 18.276.468 |
+| Tubbergen | € 1.332.200 |
+| Twenterand | € 2.702.801 |
+| Tynaarlo | € 3.134.633 |
+| Tytsjerksteradiel | € 3.012.121 |
+| Ubbergen | € 1.047.308 |
+| Uden | € 3.162.541 |
+| Uitgeest | € 755.757 |
+| Uithoorn | € 2.199.323 |
+| Urk | € 687.732 |
+| Utrecht | € 21.504.640 |
+| Utrechtse Heuvelrug | € 4.929.178 |
+| Vaals | € 1.200.611 |
+| Valkenburg a/d Geul | € 2.002.629 |
+| Valkenswaard | € 3.051.460 |
+| Veendam | € 3.630.703 |
+| Veenendaal | € 4.814.959 |
+| Veere | € 1.755.793 |
+| Veghel | € 2.647.147 |
+| Veldhoven | € 3.545.842 |
+| Velsen | € 7.089.659 |
+| Venlo | € 9.606.047 |
+| Venray | € 3.209.150 |
+| Vianen | € 1.300.523 |
+| Vlaardingen | € 8.536.560 |
+| Vlagtwedde | € 2.210.071 |
+| Vlieland | € 114.495 |
+| Vlissingen | € 5.228.306 |
+| Vlist | € 791.010 |
+| Voerendaal | € 1.161.533 |
+| Voorschoten | € 1.946.042 |
+| Voorst | € 2.327.518 |
+| Vught | € 2.297.836 |
+| Waalre | € 1.426.059 |
+| Waalwijk | € 3.763.600 |
+| Waddinxveen | € 1.850.460 |
+| Wageningen | € 2.624.183 |
+| Wassenaar | € 2.785.061 |
+| Waterland | € 1.305.482 |
+| Weert | € 4.281.156 |
+| Weesp | € 1.762.997 |
+| Werkendam | € 1.731.994 |
+| Wervershoof | € 635.051 |
+| West Maas Waal | € 1.499.476 |
+| Westerveld | € 2.001.351 |
+| Westervoort | € 1.057.331 |
+| Westland | € 6.861.456 |
+| Weststellingwerf | € 3.065.757 |
+| Westvoorne | € 1.097.635 |
+| Wierden | € 1.634.059 |
+| Wieringen | € 939.871 |
+| Wieringermeer | € 1.103.774 |
+| Wijchen | € 2.890.248 |
+| Wijdemeren | € 1.817.797 |
+| Wijk bij Duurstede | € 1.293.951 |
+| Winschoten | € 3.054.449 |
+| Winsum | € 1.062.366 |
+| Winterswijk | € 3.226.630 |
+| Woensdrecht | € 1.580.239 |
+| Woerden | € 3.149.941 |
+| Wormerland | € 1.253.077 |
+| Woudenberg | € 899.836 |
+| Woudrichem | € 1.038.681 |
+| Wunseradiel | € 929.637 |
+| Wymbritseradiel | € 1.079.073 |
+| Zaanstad | € 13.402.246 |
+| Zaltbommel | € 1.818.166 |
+| Zandvoort | € 2.349.148 |
+| Zederik | € 896.829 |
+| Zeevang | € 410.131 |
+| Zeewolde | € 804.721 |
+| Zeist | € 6.838.731 |
+| Zevenaar | € 2.908.349 |
+| Zevenhuizen-Moerkapelle | € 705.194 |
+| Zijpe | € 743.455 |
+| Zoetermeer | € 8.090.315 |
+| Zoeterwoude | € 781.291 |
+| Zuidhorn | € 1.288.086 |
+| Zundert | € 2.026.557 |
+| Zutphen | € 4.755.924 |
+| Zwartewaterland | € 1.418.175 |
+| Zwijndrecht | € 4.569.384 |
+| Zwolle | € 9.739.700 |
+| **Totaal** | **€ 1.469.545.416** |
+
+## Bijlage 29. genoemd in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29&z=2010-03-17&g=2008-01-01) Wijkactieplannen
 
 | Gemeente | Uitkering 2008 | Uitkering 2009 | Uitkering 2010 |
 | --- | --- | --- | --- |
@@ -3878,7 +4327,7 @@ Zaanstad
 | Utrecht | € 3.450.000 | € 5.050.000 | € 5.050.000 |
 | Zaanstad | € 540.000 | € 790.000 | € 790.000 |
 
-## Bijlage 30a. , genoemd in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=30&z=2010-03-17&g=2006-01-01) Antidiscriminatievoorzieningen voor provincies
+## Bijlage 30a. , genoemd in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=30&z=2010-03-17&g=2008-01-01) Antidiscriminatievoorzieningen voor provincies
 
 | Provincie | Uitkering 2006 | Uitkering 2007 | Uitkering 2008 |
 | --- | --- | --- | --- |
@@ -3896,7 +4345,7 @@ Zaanstad
 | Limburg | € 225.727 | € 197.029 | € 197.029 |
 | Flevoland |   |   |   |
 
-## Bijlage 30b. , genoemd in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=30&z=2010-03-17&g=2006-01-01): Antidiscriminatievoorzieningen voor gemeenten
+## Bijlage 30b. , genoemd in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=30&z=2010-03-17&g=2008-01-01): Antidiscriminatievoorzieningen voor gemeenten
 
 | Gemeente | Uitkering 2006 | Uitkering 2007 | Uitkering 2008 |
 | --- | --- | --- | --- |
@@ -3935,7 +4384,7 @@ Zaanstad
 | Hoogeveen | € 19.016 | € 19.021 | € 19.066 |
 | Meppel | € 17.486 | € 17.625 | € 17.819 |
 
-## Bijlage 31a. , genoemd in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31&z=2010-03-17&g=2006-01-01) Cultuurparticipatie voor provincies
+## Bijlage 31a. , genoemd in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31&z=2010-03-17&g=2008-01-01) Cultuurparticipatie voor provincies
 
 | Provincie | Uitkering |   |
 | --- | --- | --- |
@@ -3953,7 +4402,9 @@ Zaanstad
 | Limburg | € 576.616 |   |
 | Flevoland | € 152.865 |   |
 
-## Bijlage 31b. genoemd in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31&z=2010-03-17&g=2006-01-01) Cultuurparticipatie voor gemeenten
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+## Bijlage 31b. genoemd in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31&z=2010-03-17&g=2008-01-01) Cultuurparticipatie voor gemeenten
 
 | Gemeente | Uitkering |   |
 | --- | --- | --- |
