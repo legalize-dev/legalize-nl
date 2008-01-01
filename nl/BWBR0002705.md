@@ -4,7 +4,7 @@ identifier: "BWBR0002705"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-01-01"
-last_updated: "2001-01-01"
+last_updated: "2008-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002705"
 soort: "AMvB"
@@ -50,7 +50,7 @@ Dit besluit verstaat onder wet: de [Wet op de vennootschapsbelasting 1969](https
 
 ##### Artikel 1a
 
-Indien een beleggingsinstelling heeft gekozen voor het vormen van een herbeleggingsreserve als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002705&artikel=4&z=2001-01-01&g=2001-01-01), wordt in afwijking van artikel 8 van de wet, niet tot de winst gerekend het in het [tweede lid van artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002705&artikel=4&z=2001-01-01&g=2001-01-01) bedoelde bedrag.
+Indien een beleggingsinstelling heeft gekozen voor het vormen van een herbeleggingsreserve als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002705&artikel=4&z=2008-01-01&g=2008-01-01), wordt in afwijking van artikel 8 van de wet, niet tot de winst gerekend het in het [tweede lid van artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002705&artikel=4&z=2008-01-01&g=2008-01-01) bedoelde bedrag.
 
 ##### Artikel 2
 
@@ -86,7 +86,7 @@ In aanvulling op artikel 8 van de wet wordt uitreiking van aandelen aan een bele
 
 2. In de reserve wordt opgenomen een bedrag gelijk aan het in het jaar volgens goed koopmansgebruik berekende saldo van koerswinsten en koersverliezen op effecten en van winsten en verliezen ter zake van vervreemding van overige beleggingen verminderd met een evenredig gedeelte van de kosten die met het beheer van de beleggingen verband houden.
 
-3. Op de herbeleggingsreserve wordt in mindering gebracht een evenredig gedeelte van het totaal van de bedragen, bedoeld in [artikel 2, tweede lid, onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0002705&artikel=2&z=2001-01-01&g=2001-01-01).
+3. Op de herbeleggingsreserve wordt in mindering gebracht een evenredig gedeelte van het totaal van de bedragen, bedoeld in [artikel 2, tweede lid, onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0002705&artikel=2&z=2008-01-01&g=2008-01-01).
 
 4. Indien de toepassing van het tweede en derde lid zou leiden tot een vermindering van de reserve die groter is dan de herbeleggingsreserve aan het begin van het jaar, blijft de vermindering beperkt tot de omvang van de reserve aan het begin van het jaar, en wordt het nog niet in mindering gebrachte deel aangemerkt als een verlies ter zake van vervreemding van beleggingen in het volgende jaar. De inspecteur stelt het naar het volgende jaar over te brengen verlies vast bij voor bezwaar vatbare beschikking.
 
@@ -104,33 +104,15 @@ In aanvulling op artikel 8 van de wet wordt uitreiking van aandelen aan een bele
 
 1. Beleggingsinstellingen kunnen een afrondingsreserve vormen.
 
-2. De reserve bedraagt, behoudens het bepaalde in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002705&artikel=7&z=2001-01-01&g=2001-01-01), ten hoogste één percent van hetgeen is gestort op de bij het einde van het jaar in omloop zijnde aandelen of bewijzen van deelgerechtigdheid. Indien en voor zover de berekening van de belastbare winst tot een negatief bedrag zou leiden, wordt de reserve aan de winst toegevoegd.
+2. De reserve bedraagt, behoudens het bepaalde in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002705&artikel=7&z=2008-01-01&g=2008-01-01), ten hoogste één percent van hetgeen is gestort op de bij het einde van het jaar in omloop zijnde aandelen of bewijzen van deelgerechtigdheid. Indien en voor zover de berekening van de belastbare winst tot een negatief bedrag zou leiden, wordt de reserve aan de winst toegevoegd.
 
 ##### Artikel 6
 
-1. De in artikel 28, eerste lid, onderdeel **b,** van de wet bedoelde tegemoetkoming ter zake van buiten Nederland door inhouding geheven belasting wordt, ingeval de beleggers in de beleggingsinstelling op het tijdstip waarop een uitkering ter beschikking wordt gesteld over het jaar voorafgaande aan dat waarop de tegemoetkoming betrekking heeft, uitsluitend zijn in Nederland wonende natuurlijke personen of in Nederland gevestigde aan de vennootschapsbelasting onderworpen lichamen, gesteld op het bedrag van de in voormelde onderdeel **b** bedoelde belasting dat verrekenbaar zou zijn met de inkomstenbelasting indien de in het jaar waarop de tegemoetkoming betrekking heeft aan de beleggingsinstelling opgekomen opbrengst van effecten en schuldvorderingen uitsluitend aan in Nederland wonende natuurlijke personen zou zijn opgekomen. Ingeval de in Nederland gevestigde aan de vennootschapsbelasting onderworpen lichamen beleggingsinstellingen zijn, geldt het bepaalde in de vorige volzin slechts indien de aandelen of de bewijzen van deelgerechtigdheid in deze beleggingsinstellingen rechtstreeks dan wel door tussenkomst van andere beleggingsinstellingen in het bezit zijn van in Nederland wonende natuurlijke personen of in Nederland gevestigde aan de vennootschapsbelasting onderworpen lichamen, andere dan beleggingsinstellingen.
-
-2. Ingeval de beleggers in de beleggingsinstelling op het in het eerste lid aangegeven tijdstip niet uitsluitend de in dat lid bedoelde personen of lichamen zijn, wordt de tegemoetkoming berekend volgens de formule
-
-, waarin
-
-T voorstelt: de tegemoetkoming;
-
-B voorstelt: het bedrag van de in het eerste lid bedoelde belasting;
-
-Sr voorstelt: hetgeen op het in het eerste lid aangegeven tijdstip is gestort op de aandelen of de bewijzen van deelgerechtigdheid in de beleggingsinstelling welke rechtstreeks dan wel door tussenkomst van andere beleggingsinstellingen in het bezit zijn van in Nederland wonende natuurlijke personen of in Nederland gevestigde aan de vennootschapsbelasting onderworpen lichamen, andere dan beleggingsinstellingen;
-
-S voorstelt: hetgeen op het in het eerste lid aangegeven tijdstip is gestort op alle in omloop zijnde aandelen of bewijzen van deelgerechtigdheid in de beleggingsinstelling.
-
-3. Het verzoek om tegemoetkoming wordt ingediend bij de inspecteur uiterlijk zes maanden na afloop van het jaar waarin de in het eerste lid bedoelde opbrengst van effecten en schuldvorderingen aan de beleggingsinstelling is opgekomen. Bij het verzoek wordt een berekening gegeven van de gevraagde tegemoetkoming; voor zover de berekening wegens het ontbreken van exacte gegevens op een schatting berust, dient deze schatting aannemelijk te worden gemaakt. Indien de berekening ontbreekt kan op grond daarvan de tegemoetkoming worden geweigerd. De inspecteur beslist op het verzoek bij voor bezwaar vatbare beschikking.
-
-4. Indien enig feit grond oplevert voor het vermoeden dat een tegemoetkoming ten onrechte of tot een te hoog bedrag is verleend, kan de inspecteur tot het bedrag van de te veel gegeven tegemoetkoming een navorderingsaanslag vaststellen als ware dit bedrag te weinig geheven vennootschapsbelasting.
-
-5. Onze Minister kan in bijzondere gevallen onder door hem te stellen voorwaarden afwijkingen toestaan van het bepaalde in het eerste en het tweede lid.
+Vervallen
 
 ##### Artikel 7
 
-1. Indien het over een jaar berekende belastbare bedrag van een beleggingsinstelling in afwijking van de aangifte op een hoger bedrag zou moeten worden vastgesteld wordt, in plaats van het gedeelte van die verhoging dat overeenkomt met het bedrag waarmede de op de voet van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002705&artikel=2&z=2001-01-01&g=2001-01-01) te verrichten uitdelingen de over het jaar verrichte uitdelingen te boven gaat, een bedrag gelijk aan dat gedeelte toegevoegd aan de afrondingsreserve. Het in de vorige volzin laatstgenoemde bedrag wordt in het jaar waarin de in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002705&artikel=8&z=2001-01-01&g=2001-01-01), bedoelde beschikking onherroepelijk is komen vast te staan, uit de afrondingsreserve aan de winst van de beleggingsinstelling toegevoegd.
+1. Indien het over een jaar berekende belastbare bedrag van een beleggingsinstelling in afwijking van de aangifte op een hoger bedrag zou moeten worden vastgesteld wordt, in plaats van het gedeelte van die verhoging dat overeenkomt met het bedrag waarmede de op de voet van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002705&artikel=2&z=2008-01-01&g=2008-01-01) te verrichten uitdelingen de over het jaar verrichte uitdelingen te boven gaat, een bedrag gelijk aan dat gedeelte toegevoegd aan de afrondingsreserve. Het in de vorige volzin laatstgenoemde bedrag wordt in het jaar waarin de in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002705&artikel=8&z=2008-01-01&g=2008-01-01), bedoelde beschikking onherroepelijk is komen vast te staan, uit de afrondingsreserve aan de winst van de beleggingsinstelling toegevoegd.
 
 2. Indien het over een jaar berekende belastbare bedrag van een beleggingsinstelling in afwijking van de aangifte op een lager bedrag zou moeten worden vastgesteld wordt, voor zover mogelijk, in plaats daarvan tot het bedrag van de verlaging een bedrag aan de winst van dat jaar toegevoegd uit de afrondingsreserve.
 
