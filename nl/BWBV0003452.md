@@ -4,7 +4,7 @@ identifier: "BWBV0003452"
 country: "nl"
 rank: "verdrag"
 publication_date: "2025-01-01"
-last_updated: "1999-01-01"
+last_updated: "2008-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0003452"
 soort: "verdrag"
@@ -90,7 +90,7 @@ Het Verdrag is van toepassing op zeevarenden, dienst doende aan boord van zeesch
 
 - (c). een voldoende aantal modellen van de in overeenstemming met het Verdrag afgegeven diploma’s.
 
-2. De Secretaris-Generaal stelt alle Partijen in kennis van de ontvangst van de gegevens op grond van het eerste lid, letter (a); tevens draagt hij er zorg voor dat aan hen onder meer voor de toepassing van de [artikelen IX](https://wetten.overheid.nl/jci1.3:c:BWBV0003452&artikel=IX&z=1999-01-01&g=1999-01-01) en [X](https://wetten.overheid.nl/jci1.3:c:BWBV0003452&artikel=X&z=1999-01-01&g=1999-01-01) op verzoek de hem krachtens het eerste lid, letters (b) en (c), toegezonden gegevens worden verstrekt.
+2. De Secretaris-Generaal stelt alle Partijen in kennis van de ontvangst van de gegevens op grond van het eerste lid, letter (a); tevens draagt hij er zorg voor dat aan hen onder meer voor de toepassing van de [artikelen IX](https://wetten.overheid.nl/jci1.3:c:BWBV0003452&artikel=IX&z=2008-01-01&g=2008-01-01) en [X](https://wetten.overheid.nl/jci1.3:c:BWBV0003452&artikel=X&z=2008-01-01&g=2008-01-01) op verzoek de hem krachtens het eerste lid, letters (b) en (c), toegezonden gegevens worden verstrekt.
 
 ##### Artikel V. Andere verdragen en interpretatie
 
@@ -110,7 +110,7 @@ Het Verdrag is van toepassing op zeevarenden, dienst doende aan boord van zeesch
 
 1. Aan de kandidaten die, ter beoordeling van de Administratie, voldoen aan de vereisten wat betreft diensttijd, leeftijd, lichamelijke geschiktheid uit medisch oogpunt, opleiding, bekwaamheid en examens overeenkomstig de desbetreffende bepalingen van de Bijlage bij het Verdrag, worden diploma’s voor kapiteins, scheepsofficieren en scheepsgezellen afgegeven.
 
-2. Bij in overeenstemming met dit artikel afgegeven diploma’s voor kapiteins en scheepsofficieren wordt door de Regering die het diploma afgeeft een officiële verklaring afgegeven als bepaald in [Voorschrift I/2 van de Bijlage](https://wetten.overheid.nl/jci1.3:c:BWBV0003452&hoofdstuk=I&artikel=I/2&z=1999-01-01&g=1999-01-01). Wanneer niet de Engelse taal wordt gebruikt, dient de officiële verklaring een vertaling in die taal te bevatten.
+2. Bij in overeenstemming met dit artikel afgegeven diploma’s voor kapiteins en scheepsofficieren wordt door de Regering die het diploma afgeeft een officiële verklaring afgegeven als bepaald in [Voorschrift I/2 van de Bijlage](https://wetten.overheid.nl/jci1.3:c:BWBV0003452&hoofdstuk=I&artikel=I/2&z=2008-01-01&g=2008-01-01). Wanneer niet de Engelse taal wordt gebruikt, dient de officiële verklaring een vertaling in die taal te bevatten.
 
 ##### Artikel VII. Overgangsbepalingen
 
@@ -144,11 +144,11 @@ Voor de toepassing van dit Verdrag wordt een volgens dit lid afgegeven diploma b
 
 ##### Artikel X. Controle
 
-1. Schepen, met uitsluiting van die welke in [artikel III](https://wetten.overheid.nl/jci1.3:c:BWBV0003452&artikel=III&z=1999-01-01&g=1999-01-01) worden uitgezonderd, zijn tijdens hun verblijf in de havens van een Partij onderworpen aan controle door functionarissen, door die Partij behoorlijk gemachtigd om erop toe te zien dat alle aan boord dienst doende zeevarenden die volgens het Verdrag gediplomeerd dienen te zijn de desbetreffende diploma’s bezitten, dan wel in het bezit zijn van een passende dispensatie. Dergelijke diploma’s moeten worden aanvaard, tenzij er duidelijke redenen zijn om aan te nemen dat een diploma door middel van bedrog is verkregen of dat de houder van een diploma niet degene is aan wie dat diploma oorspronkelijk was afgegeven.
+1. Schepen, met uitsluiting van die welke in [artikel III](https://wetten.overheid.nl/jci1.3:c:BWBV0003452&artikel=III&z=2008-01-01&g=2008-01-01) worden uitgezonderd, zijn tijdens hun verblijf in de havens van een Partij onderworpen aan controle door functionarissen, door die Partij behoorlijk gemachtigd om erop toe te zien dat alle aan boord dienst doende zeevarenden die volgens het Verdrag gediplomeerd dienen te zijn de desbetreffende diploma’s bezitten, dan wel in het bezit zijn van een passende dispensatie. Dergelijke diploma’s moeten worden aanvaard, tenzij er duidelijke redenen zijn om aan te nemen dat een diploma door middel van bedrog is verkregen of dat de houder van een diploma niet degene is aan wie dat diploma oorspronkelijk was afgegeven.
 
-2. Ingeval tekortkomingen worden vastgesteld volgens het eerste lid of volgens de in [Voorschrift I/4](https://wetten.overheid.nl/jci1.3:c:BWBV0003452&hoofdstuk=I&artikel=I/4&z=1999-01-01&g=1999-01-01) - „Controleprocedures” - omschreven procedures, geeft de functionaris die de controle uitoefent daarvan onverwijld schriftelijk kennis aan de kapitein van het schip en de consul of, bij diens afwezigheid, de dichtstbijzijnde diplomatieke vertegenwoordiger of de scheepvaartautoriteit van de Staat waarvan het schip gerechtigd is de vlag te voeren, zodat passende maatregelen kunnen worden genomen. In een dergelijke kennisgeving worden de bijzonderheden van de vastgestelde tekortkomingen vermeld, evenals de redenen waarom de Partij bepaalt dat deze tekortkomingen gevaar opleveren voor personen, goederen of het milieu.
+2. Ingeval tekortkomingen worden vastgesteld volgens het eerste lid of volgens de in [Voorschrift I/4](https://wetten.overheid.nl/jci1.3:c:BWBV0003452&hoofdstuk=I&artikel=I/4&z=2008-01-01&g=2008-01-01) - „Controleprocedures” - omschreven procedures, geeft de functionaris die de controle uitoefent daarvan onverwijld schriftelijk kennis aan de kapitein van het schip en de consul of, bij diens afwezigheid, de dichtstbijzijnde diplomatieke vertegenwoordiger of de scheepvaartautoriteit van de Staat waarvan het schip gerechtigd is de vlag te voeren, zodat passende maatregelen kunnen worden genomen. In een dergelijke kennisgeving worden de bijzonderheden van de vastgestelde tekortkomingen vermeld, evenals de redenen waarom de Partij bepaalt dat deze tekortkomingen gevaar opleveren voor personen, goederen of het milieu.
 
-3. Bij de uitoefening van de controle volgens het eerste lid neemt de Partij die de controle uitoefent, indien, de grootte en het type van het schip en de duur en de aard van de reis in aanmerking genomen, de in het derde lid van [Voorschrift I/4](https://wetten.overheid.nl/jci1.3:c:BWBV0003452&hoofdstuk=I&artikel=I/4&z=1999-01-01&g=1999-01-01) bedoelde tekortkomingen niet worden hersteld en indien wordt vastgesteld dat dit feit een gevaar oplevert voor personen, goederen of het milieu, maatregelen om te verzekeren dat het schip niet uitvaart, tenzij en totdat aan deze vereisten is voldaan in een zodanige mate dat het gevaar is weggenomen. De feiten betreffende de genomen maatregelen worden onverwijld aan de Secretaris-Generaal medegedeeld.
+3. Bij de uitoefening van de controle volgens het eerste lid neemt de Partij die de controle uitoefent, indien, de grootte en het type van het schip en de duur en de aard van de reis in aanmerking genomen, de in het derde lid van [Voorschrift I/4](https://wetten.overheid.nl/jci1.3:c:BWBV0003452&hoofdstuk=I&artikel=I/4&z=2008-01-01&g=2008-01-01) bedoelde tekortkomingen niet worden hersteld en indien wordt vastgesteld dat dit feit een gevaar oplevert voor personen, goederen of het milieu, maatregelen om te verzekeren dat het schip niet uitvaart, tenzij en totdat aan deze vereisten is voldaan in een zodanige mate dat het gevaar is weggenomen. De feiten betreffende de genomen maatregelen worden onverwijld aan de Secretaris-Generaal medegedeeld.
 
 4. Bij de uitoefening van controle volgens dit artikel dient alles in het werk te worden gesteld om te voorkomen dat een schip ten onrechte wordt aangehouden of opgehouden. Indien een schip ten onrechte wordt aangehouden of opgehouden, heeft het aanspraak op schadeloosstelling voor al het daaruit ontstane verlies of alle daaruit ontstane schade.
 
@@ -228,7 +228,7 @@ bij voorkeur op nationale, subregionale of regionale basis, ten einde de doelste
 
 ##### Artikel XIV. Inwerkingtreding
 
-1. Het Verdrag treedt in werking twaalf maanden na de datum waarop niet minder dan vijfentwintig Staten, waarvan de gezamenlijke koopvaardijvloten niet minder uitmaken dan vijftig procent van de brutotonnage van de wereldhandelsvloot, voor zover bestaande uit schepen met een bruto-inhoud van 100 brutoregisterton of meer, hetzij het hebben ondertekend zonder voorbehoud van bekrachtiging, aanvaarding of goedkeuring, hetzij de vereiste akten van bekrachtiging, aanvaarding, goedkeuring of toetreding hebben nedergelegd in overeenstemming met [artikel XIII](https://wetten.overheid.nl/jci1.3:c:BWBV0003452&artikel=XIII&z=1999-01-01&g=1999-01-01).
+1. Het Verdrag treedt in werking twaalf maanden na de datum waarop niet minder dan vijfentwintig Staten, waarvan de gezamenlijke koopvaardijvloten niet minder uitmaken dan vijftig procent van de brutotonnage van de wereldhandelsvloot, voor zover bestaande uit schepen met een bruto-inhoud van 100 brutoregisterton of meer, hetzij het hebben ondertekend zonder voorbehoud van bekrachtiging, aanvaarding of goedkeuring, hetzij de vereiste akten van bekrachtiging, aanvaarding, goedkeuring of toetreding hebben nedergelegd in overeenstemming met [artikel XIII](https://wetten.overheid.nl/jci1.3:c:BWBV0003452&artikel=XIII&z=2008-01-01&g=2008-01-01).
 
 2. De Secretaris-Generaal doet alle Staten die het Verdrag hebben ondertekend of ertoe zijn toegetreden mededeling van de datum waarop het in werking treedt.
 
@@ -236,7 +236,7 @@ bij voorkeur op nationale, subregionale of regionale basis, ten einde de doelste
 
 4. Iedere akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, nedergelegd na de datum waarop het Verdrag in werking treedt, wordt van kracht drie maanden na de datum van nederlegging.
 
-5. Na de datum waarop een wijziging wordt geacht te zijn aanvaard krachtens [artikel XII](https://wetten.overheid.nl/jci1.3:c:BWBV0003452&artikel=XII&z=1999-01-01&g=1999-01-01), heeft iedere nedergelegde akte van bekrachtiging, aanvaarding, goedkeuring of toetreding betrekking op het gewijzigde Verdrag.
+5. Na de datum waarop een wijziging wordt geacht te zijn aanvaard krachtens [artikel XII](https://wetten.overheid.nl/jci1.3:c:BWBV0003452&artikel=XII&z=2008-01-01&g=2008-01-01), heeft iedere nedergelegde akte van bekrachtiging, aanvaarding, goedkeuring of toetreding betrekking op het gewijzigde Verdrag.
 
 ##### Artikel XV. Opzegging
 
@@ -282,7 +282,7 @@ Het Verdrag is opgesteld in één enkel exemplaar in de Chinese, de Engelse, de 
 
 - .10. „Leerling-scheepswerktuigkundige”: een persoon die een opleiding volgt tot scheepswerktuigkundige en als zodanig op grond van nationale wetten of voorschriften is aangewezen;
 
-- .11. „Radio-operator”: een persoon die in het bezit is van een passend diploma, afgegeven of erkend door de Administratie in overeenstemming met de bepalingen van het Radioreglement;
+- .11. „Radio-operator”: een persoon die in het bezit is van een passend diploma, afgegeven of erkend door de Administratie in overeenstemming met de bepalingen van het [Radioreglement](onbekend);
 
 - .12. „Scheepsgezel”: een lid van de bemanning van het schip, niet zijnde de kapitein of een officier;
 
@@ -290,7 +290,7 @@ Het Verdrag is opgesteld in één enkel exemplaar in de Chinese, de Engelse, de 
 
 - .14. „Voortstuwingsvermogen”: het maximum nominale totaalvermogen in kilowatts van alle voortstuwingsmachines van het schip, dat vermeld is in de zeebrief van het schip of in een ander officieel document;
 
-- .15. „Radiowerkzaamheden”: naar gelang het geval, de luisterwacht alsmede het technisch onderhoud en technische reparatiewerkzaamheden overeenkomstig de bepalingen van het Radioreglement, het Internationaal Verdrag voor de beveiliging van mensenlevens op zee en, ter beoordeling van de onderscheiden Administraties, de desbetreffende aanbevelingen van de Organisatie;
+- .15. „Radiowerkzaamheden”: naar gelang het geval, de luisterwacht alsmede het technisch onderhoud en technische reparatiewerkzaamheden overeenkomstig de bepalingen van het [Radioreglement](onbekend), het [Internationaal Verdrag voor de beveiliging van mensenlevens op zee](https://wetten.overheid.nl/jci1.3:c:BWBV0003264) en, ter beoordeling van de onderscheiden Administraties, de desbetreffende aanbevelingen van de Organisatie;
 
 - .16. „Olietanker”: een schip gebouwd en gebruikt voor het vervoer van aardolie en aardolieprodukten in bulk;
 
@@ -298,7 +298,7 @@ Het Verdrag is opgesteld in één enkel exemplaar in de Chinese, de Engelse, de 
 
 - .18. „Vloeibaar-gastanker”: een schip gebouwd of verbouwd en gebruikt voor het vervoer van vloeibare gassen of andere produkten opgenomen in hoofdstuk 19 van de International Gas Carrier Code (Internationale Code inzake het vervoer van vloeibaar gas);
 
-- .19. „Ro-ro-passagiersschip”: een passagiersschip met ruimten voor ro-ro-vracht of ruimten van bijzondere aard zoals omschreven in het Internationaal Verdrag voor de beveiliging van mensenlevens op zee, 1974, zoals gewijzigd;
+- .19. „Ro-ro-passagiersschip”: een passagiersschip met ruimten voor ro-ro-vracht of ruimten van bijzondere aard zoals omschreven in het [Internationaal Verdrag voor de beveiliging van mensenlevens op zee, 1974](https://wetten.overheid.nl/jci1.3:c:BWBV0003264), zoals gewijzigd;
 
 - .20. „Maand”: een kalendermaand of een periode van dertig dagen, samengesteld uit perioden van minder dan één maand;
 
@@ -310,7 +310,11 @@ Het Verdrag is opgesteld in één enkel exemplaar in de Chinese, de Engelse, de 
 
 - .24. „Passend vaarbevoegdheidsbewijs”: een vaarbevoegdheidsbewijs afgegeven en voorzien van een officiële verklaring in overeenstemming met de bepalingen van deze bijlage, dat de rechtmatige houder ervan het recht geeft werkzaam te zijn in de daarin beschreven hoedanigheid en de daarbij behorende functies te vervullen op het daarin omschreven verantwoordelijkheidsniveau op een schip van het desbetreffende type, en met de desbetreffende tonnage, het desbetreffende vermogen en de desbetreffende hoofdvoortstuwingsinstallatie, tijdens de desbetreffende zeereis;
 
-- .25. „Werkzaamheden op zee”: het dienst doen aan boord van een schip voorzover van belang voor de afgifte van een vaarbevoegdheidsbewijs of een ander bewijs van beroepsbekwaamheid.
+- .25. „Werkzaamheden op zee”: het dienst doen aan boord van een schip voorzover van belang voor de afgifte van een vaarbevoegdheidsbewijs of een ander bewijs van beroepsbekwaamheid;
+
+- .26. „ISPS-Code”: de Internationale Code voor de beveiliging van schepen en havenfaciliteiten, aangenomen op 12 december 2002 bij resolutie 2 van de Conferentie van Verdragsluitende Regeringen bij het [Internationaal Verdrag voor de beveiliging van mensenlevens op zee (SOLAS), 1974](https://wetten.overheid.nl/jci1.3:c:BWBV0003264), zoals eventueel gewijzigd door de Organisatie;
+
+- .27. „Scheepsbeveiligingsfunctionaris”: de persoon aan boord van het schip, die aan de kapitein verantwoording dient af te leggen, die door de Maatschappij is aangesteld als verantwoordelijke voor de beveiliging van het schip, met inbegrip van de uitvoering en het onderhoud van het scheepsbeveiligingsplan, en die contacten onderhoudt met de beveiligingsfunctionaris van de Maatschappij en de beveiligingsfunctionarissen van de havenfaciliteiten.
 
 - 2. Deze voorschriften zijn aangevuld met de dwingende bepalingen vervat in deel A van de STCW-Code en:
 
@@ -818,7 +822,7 @@ Elke Partij dient ervoor te zorgen dat:
 
 - 9. De Administraties dienen ervoor te zorgen dat een schriftelijke bewijs van de voltooide opleiding wordt afgegeven aan iedereen die bevoegd wordt bevonden volgens de bepalingen van dit voorschrift.
 
-### HOOFDSTUK VI. NOODSITUATIES, VEILIGHEID OP HET WERK, MEDISCHE VERZORGING EN OVERLEVINGSMAATREGELEN
+### HOOFDSTUK VI. Noodsituaties, veiligheid op het werk, beveiliging, medische verzorging en overlevingsmaatregelen
 
 ##### Voorschrift VI/1. Verplichte minimumeisen betreffende de eisen voor zeevarenden inzake bekendheid met de materie, basisveiligheidstraining en onderricht in beveiliging
 
@@ -929,6 +933,28 @@ Iedere Administratie moet, teneinde vermoeidheid te voorkomen:
 - .3. officieren belast met de machinekamerwacht, zoals omschreven in de STCW-Code en onder leiding van de hoofdwerktuigkundige, onmiddellijk beschikbaar en bereikbaar dienen te zijn om zich naar de machineruimten te begeven en, indien vereist, persoonlijk in de machinekamer aanwezig te zijn gedurende de perioden dat zij dienst hebben; en
 
 - .4. een passende en doeltreffende wachtdienst of wachtdiensten wordt/worden gelopen met het oog op de veiligheid op elk moment, terwijl het schip voor anker ligt of is afgemeerd en, indien het schip gevaarlijke lading vervoert, bij de organisatie van die wachtdienst of wachtdiensten volledig rekening wordt gehouden met de aard, hoeveelheid, verpakking en stuwing van die gevaarlijke lading en van eventuele bijzondere omstandigheden aan boord, op het water of aan de wal.
+
+IN WITNESS WHEREOF the undersigned, being duly authorized by their respective Governments for that purpose, have signed the Convention.
+
+DONE at London this seventh day of July, one thousand nine hundred and seventy-eight.
+
+##### Voorschrift VI/5. Verplichte minimumeisen voor de afgifte van een certificaat van bekwaamheid als scheepsbeveiligingsfunctionaris
+
+1. Ieder die een certificaat van bekwaamheid als scheepsbeveiligingsfunctionaris wenst te verkrijgen, moet:
+
+- .1. beschikken over een goedgekeurde diensttijd buitengaats van ten minste 12 maanden of over een passende diensttijd buitengaats en kennis van de bedrijfsvoering aan boord; en
+
+- .2. voldoen aan de eisen van bekwaamheid voor het certificaat van bekwaamheid als scheepsbeveiligingsfunctionaris, omschreven in sectie A-VI/5, eerste tot en met vierde lid, van de STCW-Code.
+
+2. Administraties waarborgen dat iedereen die bevoegd bevonden wordt volgens de bepalingen van dit voorschrift een certificaat van bekwaamheid krijgt uitgereikt.
+
+3. Elke Partij vergelijkt de eisen van bekwaamheid die zij vóór de inwerkingtreding van dit voorschrift verlangde van scheepsbeveiligingsfunctionarissen die kwalificaties bezitten of kunnen aantonen, met de vereisten voor het certificaat van bekwaamheid in sectie A-VI/5 van de STCW-Code, en stelt vast of het noodzakelijk is van deze functionarissen te verlangen dat zij hun kwalificaties actualiseren.
+
+4. De Partijen mogen tot 1 juli 2009 personeel blijven erkennen dat kwalificaties als scheepsbeveiligingsfunctionaris bezit of deze kan aantonen vóór de inwerkingtreding van dit voorschrift.
+
+### HOOFDSTUK VII. ALTERNATIEVE VAARBEVOEGDHEIDSVERLENING
+
+### HOOFDSTUK VIII. WACHTDIENST
 
 IN WITNESS WHEREOF the undersigned, being duly authorized by their respective Governments for that purpose, have signed the Convention.
 
