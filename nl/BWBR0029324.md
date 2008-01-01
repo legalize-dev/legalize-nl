@@ -4,7 +4,7 @@ identifier: "BWBR0029324"
 country: "nl"
 rank: "wet"
 publication_date: "2011-07-01"
-last_updated: "2006-01-01"
+last_updated: "2008-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029324"
 soort: "wet"
@@ -98,7 +98,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XC
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet belastingen op milieugrondslag.
 
 ##### Artikel XI
 
