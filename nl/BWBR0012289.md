@@ -4,7 +4,7 @@ identifier: "BWBR0012289"
 country: "nl"
 rank: "circulaire"
 publication_date: "2026-04-03"
-last_updated: "2007-12-20"
+last_updated: "2008-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012289"
 soort: "circulaire"
@@ -14167,25 +14167,25 @@ De verblijfsvergunning van de echtgeno(o)t(e) van de langdurig ingezetene met re
 
 In de in deze paragraaf genoemde gevallen zal het koppelingsbureau van de IND fungeren als contactpunt voor het verstrekken en ontvangen van informatie.
 
-### 5.8. overige algemene bepalingen
+### 19. Verblijf op religieuze of levensbeschouwelijke gronden
 
 De overige algemene bepalingen van B17/4 zijn van overeenkomstige toepassing
 
 ### 6. In kennis stellen eerste lidstaat
 
-Indien het een minderjarig kind betreft, wordt de verblijfsvergunning verleend onder de beperking ‘verblijf bij ….(naam ouder(s))’.
+Omdat in het geval van verblijf bij organisaties waarbij niet eerder verblijf is toegestaan op religieuze of levensbeschouwelijke gronden, in het verleden geen uitspraak is gedaan over een wezenlijk Nederlands belang, en pas in het kader van een definitieve regeling voor verblijf op religieuze doeleinden een oordeel kan worden uitgesproken over het wezenlijk Nederlands belang dat wordt gediend met (de aard van) het verblijf van een vreemdeling bij deze organisaties, staat de onderhavige regeling niet open voor religieuze of levensbeschouwelijke organisaties bij wie niet in de afgelopen vijf jaar verblijf is verleend. Zoals hierboven gesteld geldt zulks niet voor bovengenoemde categorie kloosters. Onderhavige regeling is evenmin van toepassing op religieuze of levensbeschouwelijke organisaties waarbij tot dusverre uitsluitend verblijf is toegestaan voor het verrichten van arbeid als godsdienstleraar of geestelijk voorganger, of voor studie.
 
 Indien Nederland als tweede lidstaat een verblijfsvergunning voor bepaalde tijd verleent, (niet) verlengt of intrekt van een vreemdeling die de status van langdurig ingezetene in een andere (eerste) lidstaat heeft verkregen, dient deze eerste lidstaat hiervan in kennis te worden gesteld (zie [artikel 3.103a, eerste en tweede lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.103) en B1/9.4). In het geval Nederland als tweede lidstaat een verblijfsvergunning voor bepaalde tijd niet verlengt of intrekt, dient aan de eerste lidstaat tevens informatie te worden verstrekt betreffende het verwijderingsbesluit. De eerste lidstaat is verplicht de langdurig ingezetene terug te nemen.
 
 Op het document wordt aangetekend ‘Arbeid toegestaan, TWV alleen gedurende eerste twaalf maanden vereist’.
 
-Verder wordt op het document de aantekening ‘beroep op de publieke middelen kan gevolgen hebben voor het verblijfsrecht’ gesteld.
+Verblijf bij een religieuze of levensbeschouwelijke organisatie op religieuze of levensbeschouwelijke gronden kan worden toegestaan bij de navolgende religieuze of levensbeschouwelijke organisaties:
 
-Indien de autoriteiten van de tweede lidstaat bereid zijn de betrokken vreemdeling tot hun grondgebied toe te laten, kan Nederland volstaan met de minder ingrijpende maatregel van intrekking van de (Nederlandse) verblijfsvergunning regulier voor bepaalde tijd met toepassing van de waarborgen van artikel 17 van richtlijn 2003/109 en met verwijdering van de vreemdeling naar die (eerste) lidstaat in plaats van het land van herkomst. Vorenstaande laat onverlet dat de eerste lidstaat, ook na terugname, kan besluiten de vreemdeling alsnog te verwijderen naar het land van herkomst (na de status van langdurig ingezetene te hebben ingetrokken).
+Sommige van de hierboven genoemde organisaties waarbij verblijf kan worden toegestaan, hebben meerdere vestigingen in Nederland. Indien een dergelijke vestiging aantoont onderdeel te vormen van één van de in bovenstaand overzicht genoemde organisaties, kan ook bij die vestiging verblijf worden toegestaan. Indien een religieuze of levensbeschouwelijke organisatie die niet in bovenstaand overzicht wordt genoemd, kan aantonen dat in de laatste vijf jaren, te rekenen vanaf de datum van inwerkingtreding van deze regeling, aan een vreemdeling verblijf op religieuze of levensbeschouwelijke gronden is verleend bij de desbetreffende organisatie, zal worden beoordeeld of deze organisatie onder de werking van de onderhavige regeling valt. Zulks is niet van toepassing als verblijf is verleend voor het verrichten van arbeid als godsdienstleraar of geestelijk voorganger, of voor studie.
 
 ### 6.1. Contactpunt IND
 
-De geregistreerde partner dan wel ongehuwde partner van de langdurig ingezetene en het kind van die partner worden daarbij gelijk gesteld met de echtgeno(o)t(e) dan wel het kind van die echtgeno(o)t(e).
+Bij de inwerkingtreding van deze regeling op 8 januari 2004 zijn bijzondere regelingen met een religieuze of levensbeschouwelijke organisatie vervallen. De afspraken over het maximaal per jaar toe te laten vreemdelingen bij een organisatie blijven echter onverkort gehandhaafd.
 
 ### 4.6.4.5. Middelen van bestaan
 
@@ -14321,31 +14321,31 @@ Indien de autoriteiten van de tweede lidstaat bereid zijn de betrokken vreemdeli
 
 Het gezinslid dient hiertoe bewijs over te leggen dat de langdurig ingezetene financieel in staat is hem te onderhouden of dat hij zelf duurzaam en zelfstandig beschikt over inkomsten die voldoende zijn om zichzelf te onderhouden zonder een beroep te hoeven doen op het stelsel van sociale bijstand. Hierbij wordt aangesloten bij de invulling van het middelenvereiste zoals dat in B2 wordt gehanteerd.
 
-### 5.5. Beperking
+### 1. Inleiding
 
-De verblijfsvergunning wordt, indien het de echtgeno(o)t(e) of (geregistreerd) partner betreft, verleend onder de beperking: ‘Verblijf bij echtgeno(o)t(e)/(geregistreerd) partner/ouder (naam).’
+Aan vreemdelingen kan verblijf bij religieuze of levensbeschouwelijke organisaties worden toegestaan indien bij die organisaties de afgelopen vijf jaar aan vreemdelingen verblijf is toegestaan voor religieuze of levensbeschouwelijke doeleinden, niet zijnde arbeid als godsdienstleraar of geestelijk voorganger, of studie. Het betreft hier een overgangsregeling in afwachting van een definitief beleidskader.
 
-### 5.6. Arbeidsmarktaantekening
+### 2. Voorwaarden voor verlening van een verblijfsvergunning
 
 ### 5.7. Geldigheidsduur
 
-De verblijfsvergunning van de echtgeno(o)t(e) van de langdurig ingezetene met rechtmatig verblijf in de zin van [artikel 8, onder a, b dan wel l, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) en het minderjarige kind van de echtgeno(o)t(e) of de langdurig ingezetene, wordt op grond van [artikel 3.67, derde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.67), in afwijking van [artikel 3.57 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.57), verleend en verlengd met een geldigheidsduur die gelijk is aan de duur van de vergunning van de langdurig ingezetene.
+Géén verblijf zal worden toegestaan bij organisaties waarbij op enig moment is of wordt vastgesteld dat het verblijf op oneigenlijke gronden is verleend dan wel dat verblijfsvergunningen van vreemdelingen die verblijf bij de desbetreffende organisatie hadden, zijn ingetrokken. In het geval sprake is van beoogd verblijf bij een religieuze of levensbeschouwelijke organisatie ten behoeve van het verrichten van arbeid in de zin van de [Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149), dan wel ten behoeve van studie, zijn de voorwaarden ten aanzien van arbeid in loondienst (zie B5), respectievelijk studie (zie B6) onverkort van toepassing. Indien sprake is van een aanvraag voor verblijf bij een religieuze of levensbeschouwelijke organisatie, zal aan de hand van de door betrokken vreemdeling, respectievelijk de betrokken religieuze of levensbeschouwelijke organisatie te verschaffen informatie, allereerst worden getoetst of er sprake is van verblijf op grond van arbeid of studie. Bij twijfel of betrokkene verblijf beoogt voor het verrichten van arbeid zal advies worden gevraagd aan de CWI. Van arbeid in loondienst is in elk geval sprake als er een arbeidsovereenkomst is tussen de vreemdeling en de organisatie. In het geval uit de door betrokken vreemdeling dan wel door de desbetreffende organisatie bij het doen van de aanvraag te verschaffen informatie valt op te maken dat primair verblijf wordt beoogd in het kader van studie, zal worden getoetst aan de voorwaarden voor verblijf voor studie (zie B6).
 
-### 5.8. overige algemene bepalingen
+### 2.2. Bijzondere voorwaarden
 
-De overige algemene bepalingen van B17/4 zijn van overeenkomstige toepassing
+De verblijfsvergunning kan worden verleend aan:
 
 ### 6. In kennis stellen eerste lidstaat
 
-In de volgende gevallen dient Nederland als tweede lidstaat, de (eerste) lidstaat, die de EG-status langdurig ingezetene aan de vreemdeling heeft verleend, te informeren:
+Zie B19/2.1.
 
-Indien Nederland als tweede lidstaat een verblijfsvergunning voor bepaalde tijd verleent, (niet) verlengt of intrekt van een vreemdeling die de status van langdurig ingezetene in een andere (eerste) lidstaat heeft verkregen, dient deze eerste lidstaat hiervan in kennis te worden gesteld (zie [artikel 3.103a, eerste en tweede lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.103) en B1/9.4). In het geval Nederland als tweede lidstaat een verblijfsvergunning voor bepaalde tijd niet verlengt of intrekt, dient aan de eerste lidstaat tevens informatie te worden verstrekt betreffende het verwijderingsbesluit. De eerste lidstaat is verplicht de langdurig ingezetene terug te nemen.
+Vreemdelingen die verblijf beogen bij een religieuze of levensbeschouwelijke organisatie waarbij niet gedurende de laatste vijf jaar aan vreemdelingen verblijf is verleend op religieuze of levensbeschouwelijke gronden, dienen te voldoen aan één van bestaande beperkingen zoals genoemd in artikel 3.4 Vb of een beperking als genoemd in de Vc.
 
-Indien de houder van EG-verblijfsvergunning voor langdurig ingezetene die door een andere lidstaat (de eerste lidstaat) is afgegeven, na vijf jaar de status van langdurig ingezetene in Nederland heeft verkregen (zie B1/6) dient de eerste lidstaat hiervan in kennis te worden gesteld (zie [artikel 3.103a, eerste lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.103a) en B1/9.7.7.4);
+Ten aanzien van verblijf op religieuze of levensbeschouwelijke gronden bij een klooster of een religieuze of levensbeschouwelijke organisatie gelden de navolgende voorwaarden:
 
-De Minister kan (als tweede lidstaat) om ernstige redenen in verband met de openbare orde of de nationale veiligheid besluiten om de vreemdeling die houder is van een EG-status als langdurig ingezetene, die is afgegeven door een andere EU-lidstaat, uit te zetten naar een staat buiten het grondgebied van de EU. Van zodanige redenen is sprake indien de vreemdeling een actuele en ernstige bedreiging voor de openbare orde of de nationale veiligheid vormt (zie [artikel 22 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=22) en B1/8.3). Hiertoe moet de Minister ingevolge [artikel 3.103a, derde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.103a) de autoriteiten van de eerste lidstaat raadplegen. Indien de Minister dienovereenkomstig besluit uit te zetten, wordt alle noodzakelijke informatie met betrekking tot de uitzetting aan de betreffende lidstaat verstrekt zodat de eerste lidstaat de status van langdurig ingezetene kan intrekken of de vreemdeling terugneemt.
+Het klooster of de religieuze of levensbeschouwelijke organisatie verschaft ter beoordeling of aan bovengenoemde voorwaarden wordt voldaan, de volgende gegevens en bescheiden:
 
-Indien de autoriteiten van de tweede lidstaat bereid zijn de betrokken vreemdeling tot hun grondgebied toe te laten, kan Nederland volstaan met de minder ingrijpende maatregel van intrekking van de (Nederlandse) verblijfsvergunning regulier voor bepaalde tijd met toepassing van de waarborgen van artikel 17 van richtlijn 2003/109 en met verwijdering van de vreemdeling naar die (eerste) lidstaat in plaats van het land van herkomst. Vorenstaande laat onverlet dat de eerste lidstaat, ook na terugname, kan besluiten de vreemdeling alsnog te verwijderen naar het land van herkomst (na de status van langdurig ingezetene te hebben ingetrokken).
+Indien verblijf wordt gevraagd bij een klooster, waarbij niet eerder verblijf is toegestaan, dient dat klooster in aanvulling op bovenvermelde bescheiden met schriftelijke bewijsstukken aan te tonen dat eerder verblijf is toegestaan bij (een) ander(e) klooster(s) behorende tot dezelfde orde, congregatie of organisatie.
 
 ### 6.1. Contactpunt IND
 
@@ -14686,3 +14686,39 @@ Het gezinslid als genoemd in [artikel 3.23a Vb](https://wetten.overheid.nl/jci1.
 ### 8.2.1. Grensoverschrijdende dienstverrichters
 
 ### 6. In kennis stellen eerste lidstaat
+
+### 2.1. Bekende religieuze of levensbeschouwelijke organisaties
+
+De ondergrens van 18 jaar wordt gesteld omdat het niet wenselijk wordt geacht om jongeren in de (gedeeltelijk) leerplichtige leeftijd verblijf in Nederland toe te staan met het oog op verblijf bij een religieuze of levensbeschouwelijke organisatie, anders dan voor studiedoeleinden waarop het reguliere beleid van toepassing is.
+
+Gezinsleden, die verblijf beogen bij een vreemdeling aan wie op grond van onderhavige regeling verblijf is toegestaan voor religieuze of levensbeschouwelijke doeleinden, dienen te voldoen aan de voorwaarden genoemd in B2.
+
+### 2.3. Algemene voorwaarden:
+
+Naast voornoemde bijzondere voorwaarden voor toelating, moet worden voldaan aan de algemene toelatingsvoorwaarden van [artikel 16 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=16). Daarbij geldt ten aanzien van middelen van bestaan het navolgende.
+
+Vreemdelingen aan wie verblijf wordt toegestaan op religieuze of levensbeschouwelijke gronden, dienen tijdens hun verblijf in Nederland in hun onderhoud te kunnen voorzien. Derhalve dient te kunnen worden beoordeeld of de vreemdeling gedurende zijn verblijf in Nederland bij de levensbeschouwelijke of religieuze organisatie over voldoende middelen van bestaan beschikt. Uit de aard van het verblijf vloeit voort dat in de kosten van levensonderhoud wordt voorzien door derden, in de regel de religieuze of levensbeschouwelijke organisatie. De religieuze of levensbeschouwelijke organisatie waarbij de vreemdeling gaat verblijven dient door middel van een opgave van de aan de vreemdeling te verstrekken voorzieningen gedurende zijn verblijf en een bewijs dat de organisatie over voldoende financiële middelen voor dat doel beschikt, aan te tonen dat deze voorzieningen ook daadwerkelijk (kunnen) worden verstrekt. De religieuze of levensbeschouwelijke organisatie dient zich schriftelijk garant te stellen voor de kosten die voor de Staat en andere openbare lichamen uit het verblijf van de vreemdeling kunnen voortvloeien alsmede voor de kosten van diens reis naar een plaats buiten Nederland waar diens toegang gewaarborgd is door middel van een [model M48-B](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M48-B). De organisatie verklaart in [model M48-B](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M48-B) tevens zich bewust te zijn van de in dat model genoemde verplichtingen die uit hoofde van de toelating van een vreemdeling voor verblijf bij de desbetreffende organisatie op de organisatie rusten.
+
+### 3. Procedure
+
+Voor zover op de vreemdeling de plicht berust om te beschikken over een mvv, dient de procedure ter verkrijgen van de mvv bij voorkeur in Nederland te worden gestart door de religieuze of levensbeschouwelijke organisatie waarbij de vreemdeling verblijf beoogt. Daartoe dient de religieuze of levensbeschouwelijke organisatie een verzoek om advies ter verlening van een mvv aan betrokken vreemdeling te richten aan de IND. Bij het verzoek om advies dienen de in B19/2.2 genoemde bescheiden te worden meegezonden. Tevens dient bij het verzoek om advies een aanvullende brief te worden meegezonden waarin uiteengezet wordt dat de vreemdeling verblijf beoogt voor religieuze of levensbeschouwelijke doeleinden, niet zijnde verblijf voor arbeid of studie. Indien door de religieuze of levensbeschouwelijke organisatie op het verzoek om advies een verblijfsdoel is aangekruist terwijl uit de overgelegde bescheiden nadrukkelijk blijkt dat verblijf op religieuze of levensbeschouwelijke gronden wordt beoogd, dient de aanvraag getoetst te worden aan de voorwaarden, verbonden aan de onderhavige regeling.
+
+### 4. Beperking
+
+De verblijfsvergunning wordt verleend onder de beperking ‘verblijf op religieuze of levensbeschouwelijke gronden bij (naam religieuze of levensbeschouwelijke groepering)’.
+
+Op het verblijfsdocument dat aan de vreemdeling wordt verstrekt, wordt de beperking vermeld ‘verblijf conform beschikking Staatssecretaris’.
+
+De verblijfsvergunning voor verblijf voor religieuze of levensbeschouwelijke doeleinden wordt conform [artikel 3.57 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.57) voor ten hoogste één jaar verleend en kan telkens voor ten hoogste één jaar worden verlengd.
+
+Omdat het een overgangsregeling betreft in afwachting van een definitief beleidskader, wordt gebruik gemaakt van de mogelijkheid die [artikel 3.5, derde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.5) biedt om een beperking, anders dan de in [artikel 3.5, tweede lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.5) genoemde beperkingen, aan te merken als een tijdelijk verblijfsrecht. In de beschikking op een aanvraag voor verblijf voor religieuze of levensbeschouwelijke doeleinden wordt bepaald dat het verblijfsrecht tijdelijk is. Daartoe dient de vreemdeling een verklaring [M45-A](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M45-A) te tekenen.
+
+### 5. Arbeidsmarktaantekening
+
+Vreemdelingen die in dit kader verblijf beogen hebben geen TWV nodig voor zover en aangezien het werkzaamheden betreft met een overwegend religieus of levensbeschouwelijk karakter zoals die van kloosterling of uitvoerder van activiteiten ten bate van de organisatie zelf. Dientengevolge geldt de arbeidsmarktaantekening: ‘Arbeid niet toegestaan’ Op het verblijfsdocument wordt de aantekening geplaatst ‘een beroep op publieke middelen kan gevolgen hebben voor verblijfsrecht’.
+
+In het geval betrokken vreemdeling onderdaan is van een lidstaat van de EU, de EER of Zwitserland is de arbeidsmarktaantekening: ‘Arbeid vrij toegestaan. TWV niet vereist’.
+
+### 6. Voorschriften
+
+Aan de verblijfsvergunning wordt als voorschrift verbonden het aantonen van voldoende verzekerd te zijn tegen ziektekosten met inbegrip van de kosten van opname en verpleging in een sanatorium of psychiatrische inrichting.
