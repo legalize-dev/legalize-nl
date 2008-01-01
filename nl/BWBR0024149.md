@@ -4,7 +4,7 @@ identifier: "BWBR0024149"
 country: "nl"
 rank: "wet"
 publication_date: "2009-01-01"
-last_updated: "2007-12-31"
+last_updated: "2008-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024149"
 soort: "wet"
@@ -68,7 +68,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VIII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Algemene wet inkomensafhankelijke regelingen.
 
 ##### Artikel IX
 
@@ -76,7 +76,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel X
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Invorderingswet 1990.
 
 ##### Artikel XI
 
@@ -84,7 +84,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet waardering onroerende zaken.
 
 ##### Artikel XIII
 
@@ -112,11 +112,11 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XIX
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de omzetbelasting 1968.
 
 ##### Artikel XX
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de accijns.
 
 ##### Artikel XXI
 
@@ -136,7 +136,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet belastingen op milieugrondslag.
 
 ##### Artikel XXVA
 
