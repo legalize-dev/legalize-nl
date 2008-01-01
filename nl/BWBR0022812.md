@@ -217,17 +217,3 @@ Deze regeling treedt in werking op het tijdstip waarop het besluit van 17 oktobe
 Deze regeling wordt aangehaald als: Regeling nucleaire drukapparatuur.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 1a
-
-Deze regeling berust mede op [artikel 19 van het Besluit kerninstallaties, splijtstoffen en ertsen](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&artikel=19) in samenhang met [artikel 4.2 van het Besluit basisveiligheidsnormen stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=4.2).
-
-### Hoofdstuk 2. Keuring van nucleaire drukapparatuur
-
-### Hoofdstuk 3. Keuringsinstellingen
-
-### Hoofdstuk 4. Slotbepalingen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
