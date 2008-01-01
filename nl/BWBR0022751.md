@@ -4,7 +4,7 @@ identifier: "BWBR0022751"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2007-11-03"
+last_updated: "2008-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022751"
 soort: "wet"
@@ -74,7 +74,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 3. Wijziging bedragen
 
-1. Bij het begin van het kalenderjaar worden de bedragen die op grond van [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=2&z=2007-11-03&g=2007-11-03), zijn vastgesteld en het bedrag van het gezamenlijke toetsingsinkomen, bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=2&z=2007-11-03&g=2007-11-03), bij ministeriële regeling gewijzigd overeenkomstig de tabelcorrectiefactor, bedoeld in [artikel 10.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.2).
+1. Bij het begin van het kalenderjaar worden de bedragen die op grond van [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=2&z=2008-01-01&g=2008-01-01), zijn vastgesteld en het bedrag van het gezamenlijke toetsingsinkomen, bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=2&z=2008-01-01&g=2008-01-01), bij ministeriële regeling gewijzigd overeenkomstig de tabelcorrectiefactor, bedoeld in [artikel 10.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.2).
 
 2. Indien er aanleiding is om de bedragen, bedoeld in het eerste lid, te verhogen op een andere wijze dan op grond van het eerste lid, worden de bedragen vastgesteld bij algemene maatregel van bestuur.
 
@@ -102,7 +102,7 @@ Degene bij wie in het jaar 2006 bij de vaststelling van de verschuldigde inkomst
 
 ##### Artikel 6a. Overgangsbepaling kindertoeslag voor het jaar 2008
 
-1. In afwijking van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=2&z=2007-11-03&g=2007-11-03), wordt de ouder, bedoeld in dat lid, geacht voor het berekeningsjaar 2008 ongeacht het aantal kinderen één aanspraak te hebben in de vorm van een kindertoeslag, met dien verstande dat die aanspraak geacht wordt te bestaan met ingang van 1 januari 2008, maar niet eerder dan de kalendermaand na de maand waarin het oudste kind is geboren dan wel tot zijn huishouden gaat behoren, tot en met 31 december 2008, maar uiterlijk tot de kalendermaand waarin het jongste kind de leeftijd van 18 jaar bereikt.
+1. In afwijking van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=2&z=2008-01-01&g=2008-01-01), wordt de ouder, bedoeld in dat lid, geacht voor het berekeningsjaar 2008 ongeacht het aantal kinderen één aanspraak te hebben in de vorm van een kindertoeslag, met dien verstande dat die aanspraak geacht wordt te bestaan met ingang van 1 januari 2008, maar niet eerder dan de kalendermaand na de maand waarin het oudste kind is geboren dan wel tot zijn huishouden gaat behoren, tot en met 31 december 2008, maar uiterlijk tot en met de kalendermaand waarin het jongste kind de leeftijd van 18 jaar bereikt.
 
 2. In 2008 bedraagt de kindertoeslag:
 
@@ -128,7 +128,9 @@ Wijzigt de Wet structuur uitvoeringsorganisatie werk en inkomen.
 
 ##### Artikel 11. Inwerkingtreding
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
+1. Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
+
+2. Deze wet geldt voor berekeningsjaren die aanvangen op of na 1 januari 2008.
 
 ##### Artikel 12. Citeertitel
 
