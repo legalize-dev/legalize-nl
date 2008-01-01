@@ -4,7 +4,7 @@ identifier: "BWBR0024966"
 country: "nl"
 rank: "amvb"
 publication_date: "2009-01-01"
-last_updated: "2007-01-01"
+last_updated: "2008-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024966"
 soort: "AMvB"
@@ -64,7 +64,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel V
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Besluit prudentiële regels Wft.
 
 ##### Artikel VI
 
