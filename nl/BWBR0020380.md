@@ -4,7 +4,7 @@ identifier: "BWBR0020380"
 country: "nl"
 rank: "amvb"
 publication_date: "2008-01-01"
-last_updated: "2007-01-01"
+last_updated: "2008-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020380"
 soort: "AMvB"
@@ -52,7 +52,7 @@ Wijzigt het Uitvoeringsbesluit WTZi.
 
 ##### Artikel II
 
-Dit onderdeel is nog niet inwerking getreden
+Een instelling, toegelaten voor verpleging, activerende begeleiding of behandeling, in verband met een psychiatrische aandoening in de zin van het [Besluit zorgaanspraken AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0014149), zoals dat luidde onmiddellijk voor de inwerkingtreding van dit artikel, wordt voor de toepassing van [artikel 5, eerste lid, van de Wet toelating zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=5) aangemerkt als een instelling, toegelaten voor medisch-specialistische zorg in verband met een psychiatrische aandoening.
 
 ##### Artikel III
 
