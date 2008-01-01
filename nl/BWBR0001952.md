@@ -4,7 +4,7 @@ identifier: "BWBR0001952"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2006-03-01"
+last_updated: "2008-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0001952"
 soort: "wet"
@@ -45,19 +45,33 @@ Zoo is het, dat Wij, den Raad van State gehoord, en met gemeen overleg der State
 
 ##### Artikel 1
 
-1. Militaire ambtenaren zijn zij, die zijn aangesteld in militaire openbare dienst om bij de zeemacht, de landmacht of de luchtmacht werkzaam te zijn.
+1. In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-2. Onder militaire ambtenaren begrijpt deze wet mede het reserve-personeel van de zeemacht, de landmacht en de luchtmacht hetwelk niet valt onder het voorgaande lid.
+- a. **militaire ambtenaren:** zij, die zijn aangesteld bij het beroepspersoneel van de krijgsmacht of bij het reservepersoneel van de krijgsmacht om in militaire openbare dienst werkzaam te zijn,
 
-3. Tenzij het tegendeel blijkt, zijn in deze wet onder militaire ambtenaren gewezen militaire ambtenaren begrepen.
+- b. **werkelijke dienst:** de tijd gedurende welke de militair ambtenaar
 
-4. Voor de toepassing van deze wet wordt onder werkelijke dienst verstaan: de tijd gedurende welke de militaire ambtenaar:
+- 1. is aangesteld bij het beroepspersoneel van de krijgsmacht en hij niet op non-activiteit is gesteld en hem geen buitengewoon verlof van lange duur is verleend;
 
-- a. is aangesteld bij het beroepspersoneel van de zeemacht, de landmacht of de luchtmacht en hij niet op non-activiteit is gesteld en hem geen buitengewoon verlof van lange duur is verleend;
+- 2. is aangesteld bij het reservepersoneel van de krijgsmacht en hij als zodanig feitelijk onder de wapenen is,
 
-- b. behoort tot het reserve-personeel van de zeemacht, de landmacht of de luchtmacht en als zodanig feitelijk onder de wapenen is.
+- c. **buitengewone omstandigheden:** een uitzonderingstoestand als bedoeld in [artikel 1 van de Coördinatiewet uitzonderingstoestanden](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=1) dan wel andere omstandigheden die naar het oordeel van Onze Minister toepassing van buitengewone bevoegdheden op grond van deze wet noodzakelijk maken,
 
-5. Voor de toepassing van deze wet wordt verstaan onder Onze Minister: Onze Minister van Defensie.
+- d. **Onze Minister:** Onze Minister van Defensie,
+
+- e. **militaire gezondheidszorg:** het geheel aan maatregelen, voorzieningen en verstrekkingen verleend door of vanwege de militair geneeskundige dienst ten behoeve van het behoud, herstel en bevordering van de gezondheid en inzetbaarheid van de militair,
+
+- f. **militair geneeskundige dienst:** het geheel van instanties en eenheden binnen de krijgsmacht, belast met het verlenen van militaire gezondheidszorg,
+
+- g. **geïntegreerde gezondheidszorg:** het samenhangend stelsel van preventieve, curatieve met inbegrip van huisartsgeneeskundige, bepaalde bedrijfsgeneeskundige en operationeel geneeskundige activiteiten verricht door een eerstelijns medisch zorgteam voor het verlenen van militaire gezondheidszorg,
+
+- h. **algemeen militair arts (AMA):** een tot de militair geneeskundige dienst behorende militaire arts, opgeleid tot of in staat geacht tot het toepassen van de basiskennis en -vaardigheden van de geïntegreerde gezondheidszorg, opgenomen in het register van algemeen militaire artsen,
+
+- i. **medisch zorgteam:** een functioneel team, bestaande uit één of meer algemeen militaire artsen, tenminste één geregistreerd huisarts en één geregistreerd bedrijfsarts van de militair geneeskundige dienst, belast met het verlenen van geïntegreerde gezondheidszorg aan de aan dit team toegewezen militairen,
+
+- j. **geïntegreerd militair geneeskundig dossier:** het geheel aan eerstelijns geneeskundige gegevens omtrent een militair ten behoeve van het verlenen van geïntegreerde gezondheidszorg door een medisch zorgteam.
+
+2. In deze wet wordt, voorzover hun belang daarmee is gemoeid of dit uit de vroegere rechtsbetrekking volgt, mede verstaan onder **militaire ambtenaren:** gewezen militaire ambtenaren.
 
 ## Titel II. Bezwaar, beroep en klachtrecht
 
@@ -85,11 +99,7 @@ In afwijking van [artikel 8:7 van de Algemene wet bestuursrecht](https://wetten.
 
 1. De [eerste volzin van artikel 54, derde lid, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=54) is van overeenkomstige toepassing indien beroep is ingesteld door nagelaten betrekkingen of rechtverkrijgenden.
 
-2. Tot militair lid zijn alleen benoembaar zij die:
-
-- a. Nederlander en militair ambtenaar of eervol ontslagen militair ambtenaar van de zeemacht, de landmacht of de luchtmacht zijn;
-
-- b. voor de aanvang van het lopende kalenderjaar de leeftijd van 25 jaar hebben bereikt.
+2. Tot militair lid zijn alleen benoembaar zij die Nederlander en militair ambtenaar of eervol ontslagen militair ambtenaar zijn.
 
 3. Zij mogen niet:
 
@@ -217,7 +227,23 @@ De militaire ambtenaar is niet gehouden tot dienstverrichting op voor hem op gro
 
 1. De militaire ambtenaar is verplicht zich tijdens het verblijf in een gebouw, luchtvaartuig of voertuig alsmede op een vaartuig of een terrein, dat in gebruik is bij of ten behoeve van de krijgsmacht of dat de militaire ambtenaar tot verblijf of gebruik dient bij de vervulling van zijn taak in internationaal verband, te onderwerpen aan een in het belang van de dienst door het bevoegd gezag gelast onderzoek aan zijn lichaam of zijn kleding of van zijn daar aanwezige goederen.
 
-2. Het bevoegd gezag, op wiens last het in het vorige lid bedoelde onderzoek plaats heeft, neemt de nodige maatregelen ten einde daarbij een onredelijke of onbehoorlijke bejegening te voorkomen.
+2. De militair ambtenaar is verplicht, indien dit noodzakelijk is in het belang van de veiligheid of van een goede vervulling van de taak van de krijgsmacht, zich te onderwerpen aan een onderzoek van zijn urine of adem.
+
+3. Het in het tweede lid bedoelde onderzoek dient uitsluitend ter vaststelling van:
+
+- a. de aanwezigheid van gedragsbeïnvloedende middelen als bedoeld in de bij de [Opiumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941) behorende lijsten I en II
+
+- b. voor de militair die dienst doet of behoort te doen: een alcoholgehalte van zijn adem van meer dan 220 microgram alcohol per liter uitgeademde lucht.
+
+4. Het bevoegd gezag, op wiens last het in het eerste en tweede lid bedoelde onderzoek plaats heeft, neemt de nodige maatregelen ten einde daarbij een onredelijke of onbehoorlijke bejegening te voorkomen.
+
+5. Bij algemene maatregel van bestuur worden regels vastgesteld met betrekking tot het in het tweede en derde lid bedoelde onderzoek. Deze regels betreffen in ieder geval de wijze waarop het onderzoek wordt verricht en het recht van de militair ambtenaar om:
+
+- a. de uitslag van het onderzoek te vernemen;
+
+- b. naar aanleiding van het onderzoek bedoeld in het derde lid onder a, een hernieuwd onderzoek van afgestane urine te laten plaatsvinden;
+
+- c. naar aanleiding van het onderzoek bedoeld in het derde lid onder b, zijn bloed te laten onderzoeken op een alcoholgehalte van meer dan 0,5 milligram per milliliter bloed.
 
 ##### Artikel 12e
 
@@ -298,6 +324,128 @@ Het bevoegd gezag en de militaire ambtenaar zijn verplicht zich als een goed wer
 - f. een procedure voor het omgaan met bij een militaire ambtenaar levende vermoedens van misstanden binnen de organisatie waar hij werkzaam is.
 
 2. De militaire ambtenaar die te goeder trouw de bij hem levende vermoedens van misstanden meldt volgens de procedure, bedoeld in het eerste lid onder f, zal als gevolg van het melden van die vermoedens geen nadelige gevolgen voor zijn rechtspositie ondervinden tijdens en na het volgen van die procedure.
+
+## Titel V. Overgangs- en slotbepalingen
+
+#### § 1. Overgangsbepaling
+
+#### § 2. Slotbepalingen
+
+Lasten en bevelen, dat deze met een indeeling in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 1b
+
+Dit onderdeel is nog niet inwerking getreden
+
+## Titel II. Bezwaar, beroep en klachtrecht
+
+#### § 2. Rechtsmacht
+
+## Titel III. Van middelen tot bewaring en verwerkelijking van recht
+
+## Titel IV. Bepalingen van materieel recht
+
+##### Artikel 12quinquies
+
+Bij of krachtens algemene maatregel van bestuur worden ten behoeve van het reguleren van de instroom, doorstroom en uitstroom van militair personeel regels gesteld met betrekking tot:
+
+- a. maximum leeftijden voor een aanstelling als militair ambtenaar en voor functietoewijzing;
+
+- b. het maximum aantal jaren dat een militair ambtenaar in een rang mag dienen;
+
+- c. het maximum aantal militaire ambtenaren dat een bepaalde rang mag bekleden;
+
+- d. het verlenen van ontslag aan militaire ambtenaren wegens het bereiken of overschrijden van een voor de individuele militair te bepalen leeftijd, gelegen vóór de leeftijd van vijfenzestig jaar.
+
+##### Artikel 12h
+
+1. Aan de militair ambtenaar in werkelijke dienst wordt gezondheidszorg verleend door of vanwege de militair geneeskundige dienst. De militair ambtenaar in werkelijke dienst is gehouden zich tot het voor hem aangewezen medisch zorgteam te wenden ter verkrijging van gezondheidszorg. Indien zulks onmogelijk is, kan de militair zich wenden tot een ander onderdeel van de militair geneeskundige dienst of tot een civiele arts, waarvan hij vanwege de noodzaak tot voortdurend zicht op de inzetbaarheid mededeling doet aan het voor hem aangewezen zorgteam.
+
+2. De militair in werkelijke dienst is verplicht de maatregelen in acht te nemen die door Onze Minister worden voorgeschreven ter bescherming van de gezondheid van de militair of die van anderen, zulks onverminderd de wettelijke mogelijkheden ten aanzien van bepaalde maatregelen van die verplichting te worden ontheven. De militair in werkelijke dienst is in geval van ziekte of gebrek verplicht zich te houden aan de voorschriften van de verantwoordelijk militair arts. Hij is evenwel niet verplicht zich te onderwerpen aan een ingreep van heelkundige aard of een andere kunstbewerking.
+
+3. De militair in werkelijke dienst is verplicht zich te onderwerpen aan en zijn medewerking te verlenen aan een geneeskundig of tandheelkundig onderzoek door of vanwege het voor hem aangewezen medisch zorgteam:
+
+- a. indien hij in verband met de uitoefening van zijn werkzaamheden aan bijzonder gevaar voor zijn gezondheid blootstaat, dan wel voor een goede vervulling van die werkzaamheden aan bijzondere gezondheidseisen moet voldoen;
+
+- b. wanneer Onze Minister dit noodzakelijk acht in verband met toelating tot een opleiding, plaatsing in een andere functie, plaatsing bij bepaalde onderdelen of in bepaalde gebieden;
+
+- c. indien door zijn commandant op goede gronden wordt verondersteld dat zijn lichamelijke of geestelijke gesteldheid een beletsel vormt om naar behoren dienst te verrichten;
+
+- d. bij beëindiging van het verblijf in werkelijke dienst.
+
+4. De militair in werkelijke dienst is verplicht zich te onderwerpen en zijn medewerking te verlenen aan een geneeskundig of tandheelkundig onderzoek indien Onze Minister op goede gronden van oordeel is, dat de militair:
+
+- a. langdurig of blijvend ongeschikt is voor de vervulling de functie of de groep van functies waarvoor de militair is bestemd;
+
+- b. blijvend ongeschikt is voor de vervulling van de militaire dienst.
+
+Het in de eerste volzin bedoelde onderzoek wordt verricht door artsen die niet zijn belast met het verstrekken van gezondheidszorg als bedoeld in het eerste lid. Bij het onderzoek wordt alleen met toestemming van de militair gebruik gemaakt van gegevens uit het geïntegreerd militair geneeskundig dossier.
+
+5. Ten behoeve van de gezondheidszorg maken de tot het medisch zorgteam behorende zorgverleners gebruik van de in het geïntegreerd militair geneeskundig dossier beschikbare medische gegevens en bescheiden.
+
+6. Een daartoe aangewezen militaire arts van het medisch zorgteam adviseert na overleg met de militair de commandant desgevraagd dan wel op eigen initiatief en ongeacht de toestemming van de militair over diens inzetbaarheid. Daarbij wordt geen inhoudelijke geneeskundige informatie verstrekt.
+
+7. Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot de verwerking van persoonsgegevens en medische gegevens die de gezondheid van militairen betreffen door of ten behoeve van het medisch zorgteam en omtrent verplichtingen van militaire artsen en overig tot de militair geneeskundige dienst behorend personeel die het registreren, kennisnemen en overdragen van medische gegevens met betrekking tot de militair betreffen.
+
+##### Artikel 12i
+
+1. Het is de militair ambtenaar in werkelijke dienst niet toegestaan om deel te nemen aan een staking.
+
+2. Het is de militair ambtenaar in werkelijke dienst toegestaan om deel te nemen aan andere vormen van collectieve actie tenzij deelname aan die collectieve actie de operationele inzet van de krijgsmacht kan verstoren of belemmeren.
+
+3. Het is de ambtenaar in de zin van [artikel 1 van de Ambtenarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=1) die is aangesteld bij het ministerie van Defensie toegestaan deel te nemen aan een staking of andere vormen van collectieve actie, tenzij de deelname aan die staking of collectieve actie de operationele inzet van de krijgsmacht kan verstoren of belemmeren.
+
+##### Artikel 12j
+
+1. De militair ambtenaar is gehouden tot het naar beste vermogen uitvoeren van de hem in het belang van de taakuitoefening van de krijgsmacht opgedragen werkzaamheden en diensten.
+
+2. Hij kan in het belang van die taakuitoefening overal ter wereld worden ingezet.
+
+3. De militair ambtenaar kan voor het verrichten van de hem opgedragen werkzaamheden worden gesteld onder een functionaris die niet behoort tot het militaire personeel van de krijgsmacht.
+
+4. De militair ambtenaar in werkelijke dienst kan worden verplicht, wanneer naar het oordeel van Onze Minister het algemeen belang dit vordert, tijdelijk andere werkzaamheden te verrichten dan die welke uit de militaire hoedanigheid voortvloeien. Hij kan echter niet worden verplicht werkzaamheden te verrichten in plaats van stakers of uitgeslotenen, tenzij het werkzaamheden betreft die naar het oordeel van Onze Minister geen uitstel gedogen.
+
+5. Indien militairen worden verplicht tot het verrichten van werkzaamheden als bedoeld in het vierde lid kan Onze Minister een militair ambtenaar in werkelijke dienst, die bestuurslid of kaderlid is van een vakorganisatie van overheidspersoneel, op diens aanvraag tijdelijk van deze verplichting ontheffen.
+
+##### Artikel 12k
+
+1. Aan een aanstelling als militair ambtenaar bij het beroepspersoneel is de verplichting verbonden om een bij of krachtens algemene maatregel van bestuur te bepalen termijn, doch ten hoogste gedurende de initiële opleiding en aansluitend een periode van vier jaar, deel uit te blijven maken van het beroepspersoneel.
+
+2. In afwijking van het eerste lid is aan een aanstelling als militair ambtenaar met de bestemming
+
+- a. tot het volgen van de meerjarige opleiding tot officier, de verplichting verbonden om gedurende de opleiding en aansluitend een periode van zeven jaar deel uit te blijven maken van het beroepspersoneel;
+
+- b. tot het volgen van een opleiding tot vlieger, de verplichting verbonden gedurende de opleiding en aansluitend een periode van tien jaar deel uit te blijven maken van het beroepspersoneel.
+
+3. Aan een aanwijzing, op aanvraag van een militair ambtenaar in werkelijke dienst, voor het volgen van een opleiding waarbij de militair ambtenaar wordt vrijgesteld van werkzaamheden en diensten als militair, kan door Onze Minister de verplichting worden verbonden om een periode van ten hoogste twee maal de periode dat hij is vrijgesteld deel te blijven uitmaken van het beroepspersoneel.
+
+##### Artikel 12l
+
+1. Aan een aanstelling als militair ambtenaar bij het reservepersoneel is de verplichting verbonden om gedurende de initiële opleiding en aansluitend een periode van vier jaar, deel te blijven uitmaken van het reservepersoneel.
+
+2. Militaire ambtenaren, aangesteld bij het reservepersoneel, kunnen door Onze Minister worden opgeroepen om in werkelijke dienst te komen:
+
+- a. voor de gevallen waarin en voor zo lang als zij daartoe bij hun aanstelling een verplichting op zich hebben genomen;
+
+- b. in geval van buitengewone omstandigheden, zolang Onze Minister dit vanwege die buitengewone omstandigheden nodig oordeelt;
+
+3. Onze Minister kan aan militaire ambtenaren, aangesteld bij het reservepersoneel, op hun aanvraag toestemming verlenen om buiten de tijd dat zij verplicht zijn tot werkelijke dienst, onbezoldigd in werkelijke dienst te komen of te blijven.
+
+4. Bij algemene maatregel van bestuur worden regels gesteld met betrekking tot het in werkelijke dienst oproepen of toestaan in werkelijke dienst te komen van reservepersoneel.
+
+##### Artikel 12m
+
+Een ontslagaanvraag van een militair ambtenaar kan worden afgewezen en een reeds verleend, doch nog niet ingegaan, ontslag kan worden ingetrokken of opgeschort:
+
+- a. gedurende de tijd waarin naar het oordeel van Onze Minister, in overeenstemming met het gevoelen van de Ministerraad, het landsbelang wegens een bijzondere situatie vordert dat het ontslag niet wordt verleend;
+
+- b. gedurende een periode waarin op de militair ambtenaar de verplichting rust om te blijven behoren tot het beroepspersoneel of het reservepersoneel;
+
+- c. Indien de beoogde datum van ingang van het ontslag valt binnen de tijd dat de militair ambtenaar deelneemt aan een inzet buiten Nederland in het kader van internationale overeenkomsten of andere verplichtingen die door Nederland zijn aangegaan, of binnen een periode van drie maanden voorafgaande aan de vermoedelijke datum van uitzending.
+
+- d. Indien onze Minister overweegt de militair ambtenaar te ontslaan om een reden die aanleiding geeft tot ontslag zonder het predikaat «eervol»;
+
+- e. in buitengewone omstandigheden.
 
 ## Titel V. Overgangs- en slotbepalingen
 
