@@ -4,7 +4,7 @@ identifier: "BWBR0009616"
 country: "nl"
 rank: "wet"
 publication_date: "2025-07-01"
-last_updated: "2007-01-01"
+last_updated: "2008-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009616"
 soort: "wet"
@@ -56,7 +56,9 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - c. ter beschikking stellen van arbeidskrachten: het tegen vergoeding ter beschikking stellen van arbeidskrachten aan een ander voor het onder diens toezicht en leiding, anders dan krachtens een met deze gesloten arbeidsovereenkomst, verrichten van arbeid;
 
-- d. onderneming: de onderneming, bedoeld in de [Wet op de ondernemingsraden](https://wetten.overheid.nl/jci1.3:c:BWBR0002747).
+- d. onderneming: de onderneming, bedoeld in de [Wet op de ondernemingsraden](https://wetten.overheid.nl/jci1.3:c:BWBR0002747);
+
+- e. collectieve arbeidsovereenkomst: de collectieve arbeidsovereenkomst, bedoeld in [artikel 1, eerste lid, van de Wet op de collectieve arbeidsovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBR0001937&artikel=1).
 
 2. In afwijking van het eerste lid, onderdeel b, wordt onder arbeidsbemiddeling niet verstaan: het openbaar maken van gegevens betreffende werkzoekenden of arbeidsplaatsen door middel van drukpers, radio, televisie of een ander communicatiemedium.
 
@@ -140,7 +142,7 @@ De toezichthouders zijn bevoegd, met medeneming van de benodigde apparatuur, een
 
 ##### Artikel 15. Onderzoek op terrein van het ter beschikking stellen van arbeidskrachten en arbeidsbemiddeling
 
-Indien uit onderzoek naar de naleving van de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&hoofdstuk=2&z=2007-01-01&g=2007-01-01) of [3](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&hoofdstuk=3&z=2007-01-01&g=2007-01-01) blijkt, dat niet aan de daar genoemde artikelen wordt voldaan, doet Onze Minister hiervan mededeling aan de betrokken arbeidskracht of werkzoekende, voor zover het zijn aanspraken betreft, aan de betrokken werkgever, aan degene die de arbeidsbemiddeling heeft verricht, aan de ondernemingsraad of personeelsvertegenwoordiging en aan de daarvoor naar zijn oordeel in aanmerking komende organisaties van werkgevers en werknemers. De mededeling aan de ondernemingsraad of personeelsvertegenwoordiging en aan organisaties van werkgevers en werknemers bevat geen gegevens waaruit de identiteit van de in het onderzoek betrokken werknemers of werkzoekenden kan worden afgeleid.
+Indien uit onderzoek naar de naleving van de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&hoofdstuk=2&z=2008-01-01&g=2008-01-01) of [3](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&hoofdstuk=3&z=2008-01-01&g=2008-01-01) blijkt, dat niet aan de daar genoemde artikelen wordt voldaan, doet Onze Minister hiervan mededeling aan de betrokken arbeidskracht of werkzoekende, voor zover het zijn aanspraken betreft, aan de betrokken werkgever, aan degene die de arbeidsbemiddeling heeft verricht, aan de ondernemingsraad of personeelsvertegenwoordiging en aan de daarvoor naar zijn oordeel in aanmerking komende organisaties van werkgevers en werknemers. De mededeling aan de ondernemingsraad of personeelsvertegenwoordiging en aan organisaties van werkgevers en werknemers bevat geen gegevens waaruit de identiteit van de in het onderzoek betrokken werknemers of werkzoekenden kan worden afgeleid.
 
 ### Hoofdstuk 5. Wijziging van andere wetten
 
