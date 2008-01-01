@@ -229,9 +229,3 @@ Deze procentuele verhouding is op de beschikbare € 75 miljoen toegepast en bep
 In deze berekening is uitgegaan van de overschrijdingen en weglengtes zonder het effect van Euro 6. Daarnaast is het op- en overslagknelpunt Nieuwe Hemweg (Amsterdam) buiten beschouwing gelaten.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-### B. Maximale subsidie luchtkwaliteit per provincie uit de vierde tranche luchtkwaliteit
-
-Op basis van de omvang van na de derde tranche resterende (dreigende) luchtkwaliteitsknelpunten, blijkend uit de midterm-review en de monitoring NSL 2010, zijn de volgende maximale bedragen voor de subsidie luchtkwaliteit vierde tranche vastgesteld:
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
