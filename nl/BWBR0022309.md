@@ -127,23 +127,3 @@ Deze regeling treedt in werking op het tijdstip waarop het bij koninklijke boods
 Deze regeling wordt aangehaald als: Regeling procesgang eerste en tweede ziektejaar voor vangnetters zonder werkgever.
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 4a. Afspraken over werkhervatting bij oude werkgever
-
-Het UWV verwijst de vangnetter voor werkhervatting naar de werkgever waar hij laatstelijk op grond van een uitzendovereenkomst als bedoeld in [artikel 7:690 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=690) in dienst was, indien:
-
-- a. de werkgever op grond van [artikel 5.2 van de Regeling Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&artikel=5.2) is aangesloten bij sector 52;
-
-- b. sprake is van dreigend langdurig ziekteverzuim van de vangnetter; en
-
-- c. de vangnetter in staat is passende arbeid als bedoeld in [artikel 30, eerste lid, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=30) te verrichten.
-
-Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 8a. Overgangsrecht in verband met visie werknemer
-
-1. [Artikel 4, tweede lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0022309&artikel=4&z=2023-07-01&g=2023-07-01), van deze regeling, zoals dat luidde voor inwerkingtreding van artikel II, onderdeel A, van de Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 9 mei 2023 tot wijziging van de Regeling procesgang eerste en tweede ziektejaar en de Regeling procesgang eerste en tweede ziektejaar voor vangnetters zonder werkgever in verband met regels over de re-integratievisie en een enkele andere wijziging blijft van toepassing voor werknemers van wie de eerste ziektedag is gelegen voor 1 juli 2023, indien het plan van aanpak en de eerstejaarsevaluatie niet na deze datum zijn opgesteld of bijgesteld.
-
-2. Dit artikel vervalt met ingang van 1 juli 2025.
-
-Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
