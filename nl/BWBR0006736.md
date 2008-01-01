@@ -4,7 +4,7 @@ identifier: "BWBR0006736"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2007-02-25"
+last_updated: "2008-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006736"
 soort: "ministeriele-regeling"
@@ -43,7 +43,7 @@ Besluit:
 
 ##### Artikel 1
 
-1. Deze regeling geeft uitvoering aan de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=6), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=8), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=13), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=14), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=19), [39](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=39), [47a](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=47a), [47b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=47b), [52, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=52), [52a](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=52a), [53, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=53), en [62 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=62), de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=18) en [54 van de Wet op belastingen van rechtsverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=54) en [artikel 10 van de Wet op de dividendbelasting 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=10).
+1. Deze regeling geeft uitvoering aan de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=6), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=8), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=13), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=14), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=19), [39](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=39), [47b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=47b), [52, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=52), [52a](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=52a), [53, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=53), [62](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=62) en [67, tweede lid, onderdeel b, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67), [artikel 67, tweede lid, onderdeel b, van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=67), [artikel 10, tweede lid, onderdeel b, van de Registratiewet 1970](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=10), de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=18) en [54 van de Wet op belastingen van rechtsverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=54) en [artikel 10 van de Wet op de dividendbelasting 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=10).
 
 2. Deze regeling verstaat onder wet: de [Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320).
 
@@ -73,7 +73,7 @@ Besluit:
 
 ##### Artikel 4
 
-De in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=2&artikel=2&z=2007-02-25&g=2007-02-25) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=2&artikel=3&z=2007-02-25&g=2007-02-25) omschreven verplichtingen gelden mede voor de in de [artikelen 43](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=43) en [44 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=44) bedoelde personen.
+De in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=2&artikel=2&z=2008-07-11&g=2008-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=2&artikel=3&z=2008-07-11&g=2008-01-01) omschreven verplichtingen gelden mede voor de in de [artikelen 43](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=43) en [44 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=44) bedoelde personen.
 
 ### Hoofdstuk 3. Uitnodiging tot het doen van aangifte
 
@@ -149,7 +149,7 @@ Vervallen
 
 ##### Artikel 20
 
-1. Aangifte wordt gedaan door het op de in de aangiftebrief, bedoeld in [artikel 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=3&artikel=4a&z=2007-02-25&g=2007-02-25), aangegeven wijze, inleveren of toezenden van de gevraagde gegevens of bescheiden.
+1. Aangifte wordt gedaan door het op de in de aangiftebrief, bedoeld in [artikel 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=3&artikel=4a&z=2008-07-11&g=2008-01-01), aangegeven wijze, inleveren of toezenden van de gevraagde gegevens of bescheiden.
 
 2. Aangifte door een administratieplichtige als bedoeld in [artikel 52, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=52) wordt langs elektronische weg gedaan indien het betreft:
 
@@ -159,7 +159,9 @@ Vervallen
 
 - c. de omzetbelasting: ingeval de administratieplichtige of diens fiscale vertegenwoordiger als bedoeld in de [Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629), in Nederland woont of is gevestigd;
 
-- d. de loonbelasting.
+- d. de loonbelasting;
+
+- e. de verpakkingenbelasting.
 
 3. De inspecteur kan al dan niet op verzoek bij voor bezwaar vatbare beschikking ontheffing verlenen van een van de in het tweede lid bedoelde verplichtingen indien het langs elektronische weg aangifte doen onredelijk bezwarend is voor de administratieplichtige. De ontheffing geldt voor maximaal een jaar. De inspecteur kan de beschikking waarbij ontheffing is verleend intrekken bij voor bezwaar vatbare beschikking indien blijkt dat ten onrechte ontheffing is verleend dan wel dat de gronden voor ontheffing zich niet langer voordoen.
 
@@ -171,13 +173,15 @@ Vervallen
 
 - b. de belastingplichtige het stuk dat deze gegevens bevat duidelijk, stellig en zonder voorbehoud opstelt en ondertekent.
 
-2. De belastingplichtige is niet gehouden tot de verplichting, bedoeld in [artikel 2, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=2&artikel=2&z=2007-02-25&g=2007-02-25), indien hij binnen de aldaar gestelde termijnen heeft voldaan aan de in het eerste lid, onderdelen a en b, gestelde voorwaarden.
+2. De belastingplichtige is niet gehouden tot de verplichting, bedoeld in [artikel 2, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=2&artikel=2&z=2008-07-11&g=2008-01-01), indien hij binnen de aldaar gestelde termijnen heeft voldaan aan de in het eerste lid, onderdelen a en b, gestelde voorwaarden.
 
 ##### Artikel 21a
 
 1. Met betrekking tot de overdrachtsbelasting ter zake van een verkrijging van andere goederen dan bedoeld in [artikel 4, eerste lid, onderdeel a, van de Wet op belastingen van rechtsverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=4), waarvan een notariële akte is opgemaakt, wordt aangifte gedaan door het aanbieden van die akte ter registratie. Het verschuldigde bedrag aan overdrachtsbelasting wordt vermeld in een aan de voet van de akte gestelde, door de verkrijger of namens deze door de notaris ondertekende verklaring. In die verklaring wordt tevens vermeld of in verband met de verkrijging van de onroerende zaak of zaken tevens een of meer roerende zaken zijn verkregen. Indien dat het geval is, wordt in de verklaring voorts vermeld welke roerende zaak of zaken het betreft, voor welk bedrag deze werd of werden verkregen en of dat bedrag is begrepen in de in de akte vermelde tegenprestatie voor de onroerende zaak of zaken. Voorzover overigens in de akte niet alle gegevens voorkomen waarvan kennisneming van belang kan zijn voor de heffing van de overdrachtsbelasting worden deze eveneens opgenomen in de verklaring.
 
 2. Voorzover de gegevens, bedoeld in de vierde volzin van het eerste lid, zijn opgenomen in het lichaam van de akte of in een aan de akte gehechte en door de verkrijger ondertekende bijlage kan in de verklaring worden volstaan met een verwijzing naar die gegevens.
+
+3. De aangifte, bedoeld in het eerste lid, kan worden gedaan door een afschrift van de aldaar bedoelde akte, vergezeld van het daartoe door de Belastingdienst beschikbaar gestelde voorblad, langs elektronische weg ter registratie aan te bieden. Dit voorblad treedt dan in de plaats van de in het eerste lid bedoelde verklaring.
 
 ##### Artikel 21b
 
@@ -225,7 +229,7 @@ Indien een voorlopige teruggaaf inkomstenbelasting is of zal worden vastgesteld 
 
 ##### Artikel 26
 
-1. Het tijdvak waarover de accijnzen, de verbruiksbelastingen van alcoholvrije dranken en van pruimtabak en snuiftabak, de kansspelbelasting geheven van degene die gelegenheid geeft tot deelneming aan binnenlandse casinospelen alsmede de in [artikel 1 van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=1) genoemde belastingen moeten worden betaald, is de kalendermaand.
+1. Het tijdvak waarover de accijnzen, de verbruiksbelastingen van alcoholvrije dranken en van pruimtabak en snuiftabak, de kansspelbelasting geheven van degene die gelegenheid geeft tot deelneming aan binnenlandse casinospelen, de belastingen op grondwater, op leidingwater, op afvalstoffen en op kolen, alsmede de energiebelasting, moeten worden betaald, is de kalendermaand.
 
 2. Ten aanzien van de belastingplichtige met een boekjaar van twaalf maanden dat niet samenvalt met het kalenderjaar, treden de boekjaarmaanden in de plaats van de kalendermaanden.
 
@@ -233,9 +237,11 @@ Indien een voorlopige teruggaaf inkomstenbelasting is of zal worden vastgesteld 
 
 4. Het tijdvak waarover de in het eerste lid bedoelde belastingen moeten worden betaald, wordt ten aanzien van degene die op enig tijdstip - anders dan tijdelijk - ophoudt belastingplichtige te zijn, vervangen door het op dat tijdstip verstreken gedeelte van dat tijdvak.
 
-##### Artikel 27
+##### Artikel 39
 
-Vervallen
+1. De vrijstelling van overdrachtsbelasting, bedoeld in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=35&z=2008-07-11&g=2008-01-01), wordt verleend voor de belasting die is verschuldigd ter zake van de verkrijging door een vreemde Mogendheid van in Nederland gelegen onroerende zaken die bestemd zijn voor de huisvesting van een diplomatieke of consulaire vertegenwoordiging of die bestemd zijn voor bewoning door het hoofd van een diplomatieke of consulaire vertegenwoordiging, met uitzondering van honoraire consuls. De vrijstelling van overdrachtsbelasting wordt, onder voorwaarde van wederkerigheid, mede verleend voor de belasting die is verschuldigd ter zake van de verkrijging door een vreemde Mogendheid van in Nederland gelegen onroerende zaken die bestemd zijn voor bewoning door andere leden van een diplomatieke of consulaire vertegenwoordiging. Verkrijging wordt opgevat in de zin van de Wet op belastingen van rechtsverkeer.
+
+2. De vrijstelling wordt verleend in de vorm van teruggaaf van belasting, tenzij Onze Minister vooraf een vergunning heeft afgegeven om geen belasting te voldoen.
 
 ##### Artikel 28
 
@@ -259,9 +265,9 @@ Vervallen
 
 ##### Artikel 29
 
-In afwijking van [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=6&artikel=28&z=2007-02-25&g=2007-02-25), is het tijdvak waarover de loonbelasting moet worden betaald:
+In afwijking van [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=6&artikel=28&z=2008-07-11&g=2008-01-01), is het tijdvak waarover de loonbelasting moet worden betaald:
 
-- a. voor de zelfstandige binnenschipper die woonplaats heeft gekozen ingevolge [artikel 1, eerste lid, van het Uitvoeringsbesluit Algemene wet inzake rijksbelastingen 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002473&artikel=1): het kalenderhalfjaar, tenzij de inspecteur vordert dat [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=6&artikel=28&z=2007-02-25&g=2007-02-25) ten aanzien van deze binnenschipper van toepassing is;
+- a. voor de zelfstandige binnenschipper die woonplaats heeft gekozen ingevolge [artikel 1, eerste lid, van het Uitvoeringsbesluit Algemene wet inzake rijksbelastingen 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002473&artikel=1): het kalenderhalfjaar, tenzij de inspecteur vordert dat [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=6&artikel=28&z=2008-07-11&g=2008-01-01) ten aanzien van deze binnenschipper van toepassing is;
 
 - b. voor de natuurlijke persoon ter zake van de loonbelasting van de werknemer die uitsluitend of nagenoeg uitsluitend diensten verricht ten behoeve van diens huishouden, daaronder begrepen het verlenen van zorg aan de leden van dat huishouden: het kalenderjaar;
 
@@ -339,7 +345,7 @@ De inspecteur kan nadere voorwaarden en beperkingen stellen.
 
 ##### Artikel 33
 
-1. Van de belastingen, genoemd in het derde lid van dit artikel zijn, met inachtneming van hetgeen is bepaald in de [artikelen 34](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=34&z=2007-02-25&g=2007-02-25), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=36&z=2007-02-25&g=2007-02-25), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=37&z=2007-02-25&g=2007-02-25) en [38](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=38&z=2007-02-25&g=2007-02-25), vrijgesteld de leden van diplomatieke vertegenwoordigingen en, met uitzondering van honoraire consuls, de leden van consulaire vertegenwoordigingen van andere Mogendheden, mits zij:
+1. Van de belastingen, genoemd in het derde lid van dit artikel zijn, met inachtneming van hetgeen is bepaald in de [artikelen 34](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=34&z=2008-07-11&g=2008-01-01), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=36&z=2008-07-11&g=2008-01-01), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=37&z=2008-07-11&g=2008-01-01) en [38](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=38&z=2008-07-11&g=2008-01-01), vrijgesteld de leden van diplomatieke vertegenwoordigingen en, met uitzondering van honoraire consuls, de leden van consulaire vertegenwoordigingen van andere Mogendheden, mits zij:
 
 - a. geen Nederlander zijn; en
 
@@ -369,19 +375,19 @@ De vrijstellingen, bedoeld in het derde lid, onderdelen c, d, e en f, worden ten
 
 4. Het eerste lid is van overeenkomstige toepassing ten aanzien van de functionarissen van internationale organisaties die ingevolge [artikel 39 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=39) in aanmerking komen voor de vrijstellingen zoals die worden verleend aan leden van diplomatieke vertegenwoordigingen. Het tweede lid is van overeenkomstige toepassing ten aanzien van de inwonende gezinsleden van functionarissen van internationale organisaties die ingevolge [artikel 39 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=39) in aanmerking komen voor de fiscale vrijstellingen zoals die worden verleend aan de inwonende gezinsleden van leden van diplomatieke vertegenwoordigingen.
 
-5. De vrijstelling van omzetbelasting wordt slechts verleend onder voorwaarde van wederkerigheid; ten aanzien van functionarissen van internationale organisaties die ingevolge [artikel 39 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=39) in aanmerking komen voor de vrijstellingen zoals die worden verleend aan diplomaten, wordt met inachtneming van [artikel 32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=32&z=2007-02-25&g=2007-02-25), aangenomen dat aan de voorwaarde van wederkerigheid wordt voldaan.
+5. De vrijstelling van omzetbelasting wordt slechts verleend onder voorwaarde van wederkerigheid; ten aanzien van functionarissen van internationale organisaties die ingevolge [artikel 39 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=39) in aanmerking komen voor de vrijstellingen zoals die worden verleend aan diplomaten, wordt met inachtneming van [artikel 32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=32&z=2008-07-11&g=2008-01-01), aangenomen dat aan de voorwaarde van wederkerigheid wordt voldaan.
 
 ##### Artikel 34
 
-1. De vrijstelling van inkomstenbelasting, bedoeld in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=33&z=2007-02-25&g=2007-02-25), strekt zich niet uit tot het buiten het ambt of de betrekking genoten inkomen, bedoeld in [hoofdstuk 7 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=7). Bij de berekening van de inkomstenbelasting over de niet-vrijgestelde inkomensbestanddelen wordt geen rekening gehouden met de vrijgestelde inkomensbestanddelen.
+1. De vrijstelling van inkomstenbelasting, bedoeld in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=33&z=2008-07-11&g=2008-01-01), strekt zich niet uit tot het buiten het ambt of de betrekking genoten inkomen, bedoeld in [hoofdstuk 7 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=7). Bij de berekening van de inkomstenbelasting over de niet-vrijgestelde inkomensbestanddelen wordt geen rekening gehouden met de vrijgestelde inkomensbestanddelen.
 
-2. De vrijstelling van loonbelasting, bedoeld in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=33&z=2007-02-25&g=2007-02-25), strekt zich niet uit tot het buiten het ambt of de betrekking genoten loon.
+2. De vrijstelling van loonbelasting, bedoeld in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=33&z=2008-07-11&g=2008-01-01), strekt zich niet uit tot het buiten het ambt of de betrekking genoten loon.
 
-3. De vrijstelling van kansspelbelasting, bedoeld in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=33&z=2007-02-25&g=2007-02-25), strekt zich niet uit tot prijzen van binnenlandse kansspelen.
+3. De vrijstelling van kansspelbelasting, bedoeld in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=33&z=2008-07-11&g=2008-01-01), strekt zich niet uit tot prijzen van binnenlandse kansspelen.
 
 ##### Artikel 35
 
-1. Van de belastingen, genoemd in het tweede lid van dit artikel zijn, met inachtneming van hetgeen is bepaald in de [artikelen 36](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=36&z=2007-02-25&g=2007-02-25), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=37&z=2007-02-25&g=2007-02-25), [38](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=38&z=2007-02-25&g=2007-02-25) en [39](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=39&z=2007-02-25&g=2007-02-25), vrijgesteld de diplomatieke en consulaire vertegenwoordigingen van andere Mogendheden, met uitzondering van honoraire consulaire vertegenwoordigingen.
+1. Van de belastingen, genoemd in het tweede lid van dit artikel zijn, met inachtneming van hetgeen is bepaald in de [artikelen 36](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=36&z=2008-07-11&g=2008-01-01), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=37&z=2008-07-11&g=2008-01-01), [38](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=38&z=2008-07-11&g=2008-01-01) en [39](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=39&z=2008-07-11&g=2008-01-01), vrijgesteld de diplomatieke en consulaire vertegenwoordigingen van andere Mogendheden, met uitzondering van honoraire consulaire vertegenwoordigingen.
 
 2. De in het eerste lid bedoelde vrijstelling vindt toepassing met betrekking tot:
 
@@ -393,7 +399,7 @@ De vrijstellingen, bedoeld in het derde lid, onderdelen c, d, e en f, worden ten
 
 - d. de overdrachtsbelasting.
 
-3. Honoraire consulaire vertegenwoordigingen zijn, met inachtneming van hetgeen is bepaald in de [artikelen 36](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=36&z=2007-02-25&g=2007-02-25) en [39](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=39&z=2007-02-25&g=2007-02-25), vrijgesteld van:
+3. Honoraire consulaire vertegenwoordigingen zijn, met inachtneming van hetgeen is bepaald in de [artikelen 36](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=36&z=2008-07-11&g=2008-01-01) en [39](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=39&z=2008-07-11&g=2008-01-01), vrijgesteld van:
 
 - a. de omzetbelasting;
 
@@ -405,11 +411,11 @@ De vrijstellingen, bedoeld in het derde lid, onderdelen c, d, e en f, worden ten
 
 ##### Artikel 36
 
-1. De vrijstelling van omzetbelasting ten behoeve van de in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=33&z=2007-02-25&g=2007-02-25) bedoelde personen wordt verleend voor de levering van roerende zaken bestemd voor hun persoonlijk gebruik, met uitzondering van de levering van levensmiddelen, drank of tabakswaren. De vrijstelling wordt slechts verleend indien de vergoeding per factuur ten minste € 225 bedraagt.
+1. De vrijstelling van omzetbelasting ten behoeve van de in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=33&z=2008-07-11&g=2008-01-01) bedoelde personen wordt verleend voor de levering van roerende zaken bestemd voor hun persoonlijk gebruik, met uitzondering van de levering van levensmiddelen, drank of tabakswaren. De vrijstelling wordt slechts verleend indien de vergoeding per factuur ten minste € 225 bedraagt.
 
-2. De vrijstelling van omzetbelasting ten behoeve van de in [artikel 35, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=35&z=2007-02-25&g=2007-02-25), bedoelde diplomatieke en beroepsconsulaire vertegenwoordigingen wordt verleend voor de levering van goederen en het verrichten van diensten bestemd voor officieel gebruik van deze vertegenwoordigingen. Onder officieel gebruik wordt begrepen het huisvesten van leden van de vertegenwoordiging. De vrijstelling wordt slechts verleend indien de vergoeding per factuur ten minste € 225 bedraagt.
+2. De vrijstelling van omzetbelasting ten behoeve van de in [artikel 35, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=35&z=2008-07-11&g=2008-01-01), bedoelde diplomatieke en beroepsconsulaire vertegenwoordigingen wordt verleend voor de levering van goederen en het verrichten van diensten bestemd voor officieel gebruik van deze vertegenwoordigingen. Onder officieel gebruik wordt begrepen het huisvesten van leden van de vertegenwoordiging. De vrijstelling wordt slechts verleend indien de vergoeding per factuur ten minste € 225 bedraagt.
 
-3. De vrijstelling van omzetbelasting ten behoeve van de in [artikel 35, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=35&z=2007-02-25&g=2007-02-25), bedoelde honoraire consulaire vertegenwoordigingen wordt beperkt tot de volgende prestaties:
+3. De vrijstelling van omzetbelasting ten behoeve van de in [artikel 35, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=35&z=2008-07-11&g=2008-01-01), bedoelde honoraire consulaire vertegenwoordigingen wordt beperkt tot de volgende prestaties:
 
 - a. de levering van onroerende zaken en van rechten waaraan deze zijn onderworpen, bestemd voor officieel gebruik van de vertegenwoordiging, daaronder begrepen onroerende zaken en rechten waaraan deze zijn onderworpen bestemd voor het huisvesten van de leden van de vertegenwoordiging, met uitzondering van honoraire consuls;
 
@@ -439,13 +445,13 @@ Zo de vergoeding per factuur een bedrag van € 225 te boven gaat, dient tevens 
 
 ##### Artikel 37
 
-1. De vrijstelling van motorrijtuigenbelasting, bedoeld in de [artikelen 33](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=33&z=2007-02-25&g=2007-02-25) en [35](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=35&z=2007-02-25&g=2007-02-25), wordt verleend voor motorrijtuigen bestemd voor persoonlijk gebruik door de in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=33&z=2007-02-25&g=2007-02-25) bedoelde personen of bestemd voor officieel gebruik ten behoeve van de in [artikel 35, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=35&z=2007-02-25&g=2007-02-25), bedoelde diplomatieke en beroepsconsulaire vertegenwoordigingen.
+1. De vrijstelling van motorrijtuigenbelasting, bedoeld in de [artikelen 33](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=33&z=2008-07-11&g=2008-01-01) en [35](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=35&z=2008-07-11&g=2008-01-01), wordt verleend voor motorrijtuigen bestemd voor persoonlijk gebruik door de in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=33&z=2008-07-11&g=2008-01-01) bedoelde personen of bestemd voor officieel gebruik ten behoeve van de in [artikel 35, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=35&z=2008-07-11&g=2008-01-01), bedoelde diplomatieke en beroepsconsulaire vertegenwoordigingen.
 
 2. De vrijstelling van motorrijtuigenbelasting wordt slechts verleend indien voor het motorrijtuig een CD-kenteken is afgegeven, dan wel een BN/GN-kenteken in de serie 70-00 tot en met 88-99 of in de serie 90-00 tot en met 99-99.
 
 ##### Artikel 38
 
-1. De vrijstelling van belasting van personenauto’s en motorrijwielen, bedoeld in de [artikelen 33](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=33&z=2007-02-25&g=2007-02-25) en [35](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=35&z=2007-02-25&g=2007-02-25), wordt verleend voor personenauto’s en motorrijwielen bestemd voor persoonlijk gebruik door de in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=33&z=2007-02-25&g=2007-02-25) bedoelde personen of bestemd voor officieel gebruik ten behoeve van de in [artikel 35, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=35&z=2007-02-25&g=2007-02-25), bedoelde diplomatieke en beroepsconsulaire vertegenwoordigingen.
+1. De vrijstelling van belasting van personenauto’s en motorrijwielen, bedoeld in de [artikelen 33](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=33&z=2008-07-11&g=2008-01-01) en [35](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=35&z=2008-07-11&g=2008-01-01), wordt verleend voor personenauto’s en motorrijwielen bestemd voor persoonlijk gebruik door de in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=33&z=2008-07-11&g=2008-01-01) bedoelde personen of bestemd voor officieel gebruik ten behoeve van de in [artikel 35, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=35&z=2008-07-11&g=2008-01-01), bedoelde diplomatieke en beroepsconsulaire vertegenwoordigingen.
 
 2. De vrijstelling van belasting van personenauto’s en motorrijwielen wordt slechts verleend indien voor het motorrijtuig een CD-kenteken is afgegeven, dan wel een BN/GN-kenteken in de serie 70-00 tot en met 88-99 of in de serie 90-00 tot en met 99-99. Er wordt geen teruggaaf verleend van voor het motorrijtuig reeds betaalde belasting.
 
@@ -487,7 +493,7 @@ Vervallen
 
 ##### Artikel 43
 
-Voor de toepassing van [artikel 47a, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=47a) worden als de in die bepaling bedoelde staten aangewezen: Aruba, Australië, België, Canada, China, Denemarken, Bondsrepubliek Duitsland, Filippijnen, Finland, Frankrijk, Griekenland, Groot-Brittannië, Ierland, India, Indonesië, Israël, Italië, Japan, Korea, Luxemburg, Malawi, Maleisië, Malta, Marokko, Nederlandse Antillen, Nieuw-Zeeland, Noorwegen, Oostenrijk, Pakistan, Polen, Portugal, Roemenië, Singapore, Slowakije, Spanje, Sri Lanka, Suriname, Thailand, Tsjechië, Turkije, Verenigde Staten van Amerika, Zambia, Zimbabwe, Zuid-Afrika, Zweden.
+Vervallen
 
 ##### Artikel 43a
 
@@ -505,7 +511,7 @@ Voor de toepassing van [artikel 47a, derde lid, van de wet](https://wetten.overh
 
 De in [artikel 22, eerste lid, van het Uitvoeringsbesluit inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&artikel=22) aangewezen administratieplichtigen zijn gehouden op de door de inspecteur voorgeschreven wijze de in [artikel 22, tweede lid, van het genoemd besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&artikel=22) aangewezen gegevens en inlichtingen te verstrekken voor 1 maart van het jaar volgend op het kalenderjaar waarover de gegevens en inlichtingen worden verstrekt.
 
-### Hoofdstuk 11. Slotbepaling
+### Hoofdstuk 10a. Geen geheimhoudingsplicht
 
 ##### Artikel 44
 
@@ -518,6 +524,126 @@ Deze regeling treedt in werking met ingang van 1 juli 1994.
 ##### Artikel 46
 
 Deze regeling wordt aangehaald als: Uitvoeringsregeling Algemene wet inzake rijksbelastingen 1994.
+
+## Bijlagen
+
+Vervallen
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de bijlagen OB69, OB97, OB101, OB140, MB1, MB3, MB4, MB5, MB6, MB7, MB9 en MB11, die ter inzage worden gelegd bij de Directie Wetgeving Directe Belastingen van het Ministerie van Financiën.
+
+##### Artikel 27
+
+1. Het tijdvak waarover de verpakkingenbelasting moet worden betaald, is het kalenderjaar.
+
+2. De ondernemer die over enig kalenderjaar verpakkingenbelasting moet betalen, doet uiterlijk aan het einde van het derde en het vierde kwartaal van dat jaar, een voorlopige betaling. Deze betaling bedraagt 50% van het geschatte bedrag van de over dat jaar verschuldigde verpakkingenbelasting.
+
+3. De inspecteur kan toestemming geven voorlopige betalingen te doen ter grootte van een ander bedrag.
+
+##### Artikel 43c
+
+1. De geheimhoudingsplicht, bedoeld in [artikel 67, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67), [artikel 67, eerste lid, van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=67) en [artikel 10, eerste lid, van de Registratiewet 1970](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=10), geldt niet voor verstrekking aan de hierna genoemde bestuursorganen voor zover het betreft de hierna genoemde gegevens ten behoeve van de hierna genoemde publiekrechtelijke taak:
+
+- a. de Minister van Financiën: gegevens die worden gebruikt door de Auditdienst Financiën ten behoeve van de accountantscontrole van het jaarverslag van hoofdstuk IXB (Financiën) van de Rijksbegroting en met de controle op het financieel en materieel beheer van het Ministerie van Financiën;
+
+- b. de Minister van Binnenlandse Zaken en Koninkrijksrelaties:
+
+- 1°. gegevens over mogelijke ongebruikelijke transacties ten behoeve van de uitvoering en de handhaving van de [Wet melding ongebruikelijke transacties](https://wetten.overheid.nl/jci1.3:c:BWBR0006331) door het Korps landelijke politiediensten/Dienst Nationale Recherche Informatie;
+
+- 2°. gegevens die van belang kunnen zijn bij het uitwisselen van rechtshulpverzoeken in het kader van de aanpak van grensoverschrijdende, zware criminaliteit door het Korps landelijke politiediensten/Dienst Internationale Politiesamenwerking;
+
+- 3°. gegevens ten behoeve van de aan de Algemene Inlichtingen- en Veiligheidsdienst opgedragen taken;
+
+- 4°. gegevens over het inkomen van voormalige ambtenaren over een bepaalde periode ten behoeve van de uitvoering van ontslaguitkeringsregelingen van de sector Rijk;
+
+- 5°. gegevens over het inkomen van voormalige ambtsdragers over een bepaalde periode ten behoeve van de uitvoering van de wachtgeldregeling op basis van de [Algemene pensioenwet politieke ambtsdragers](https://wetten.overheid.nl/jci1.3:c:BWBR0002691);
+
+- c. de Minister van Defensie: gegevens over het inkomen van voormalige militairen over een bepaalde periode ten behoeve van de uitvoering van ontslaguitkeringsregelingen;
+
+- d. de Minister van Economische Zaken: gegevens die van belang kunnen zijn voor de uitvoering van het [Besluit borgstelling MKB-kredieten 1997](https://wetten.overheid.nl/jci1.3:c:BWBR0009052);
+
+- e. de Minister van Onderwijs, Cultuur en Wetenschap: gegevens over het inkomen over een bepaalde periode van (voormalige) ambtenaren ten behoeve van de vaststelling van werkloosheidsuitkeringen;
+
+- f. de Minister van Verkeer en Waterstaat:
+
+- 1°. de aantallen personen die werkzaam zijn in bedrijven en de onttrokken hoeveelheden grondwater waarover grondwaterbelasting is berekend, ten behoeve van het vaststellen van de vervuilingswaarde voor de [Wet verontreiniging oppervlaktewateren](https://wetten.overheid.nl/jci1.3:c:BWBR0002682);
+
+- 2°. gegevens die worden gebruikt door de Inspectie Verkeer en Waterstaat ten behoeve van het toezicht op de naleving van wet- en regelgeving van het Ministerie van Verkeer en Waterstaat, voor zover de Inspectie Verkeer en Waterstaat als toezichthouder is aangewezen, alsmede werkzaamheden ter bevordering van de veiligheid en de kwaliteit van het leefmilieu voor zover vallend binnen de toezichtdomeinen van de Inspectie Verkeer en Waterstaat;
+
+- g. de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer: gegevens omtrent rechthebbenden van auto’s, welke rechthebbenden eerste kentekenhouder zijn van een nieuw motorrijtuig met een roetfilter, ten behoeve van de uitvoering en handhaving door SenterNovem van de [Subsidieregeling voor motorrijtuigen met emissiearme dieselmotor en recht op teruggaaf BPM](https://wetten.overheid.nl/jci1.3:c:BWBR0019692);
+
+- h. de voorzitter van het managementteam van de FIOD-ECD: gegevens die worden gebruikt ten behoeve van de naleving van financieel-economische wetgeving;
+
+- i. gemeenten:
+
+- 1°. winst uit onderneming, loon en resultaat uit overige werkzaamheden in de zin van de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) over een bepaalde periode en identificerende gegevens van een eventuele inhoudingsplichtige in de zin van de [Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471) van (voormalige) ambtenaren ten behoeve van de vaststelling van en controle op betalingen van werkloosheidsuitkeringen op grond van gemeentelijke verordeningen;
+
+- 2°. gegevens over uit te betalen voorlopige teruggaven inkomstenbelasting wegens toegekende heffingskortingen, op naam van de belastingschuldige staande bankrekeningnummers zoals deze blijken uit de Rentebase, kentekenregistergegevens en identificerende gegevens van een eventuele inhoudingsplichtige in de zin van de [Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471) ten behoeve van de inning van gemeentelijke belastingen;
+
+- 3°. gegevens over bewoning van een eigen woning ten behoeve van het tegengaan van permanente bewoning van recreatiewoningen;
+
+- 4°. gegevens die bij de aanvraag van een sociaal-fiscaalnummer aan de inspecteur worden verstrekt ten behoeve van de handhaving door gemeenten van de [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181) een leefmilieuverordening als bedoeld in [artikel 9, derde lid, van de Wet op de stads- en dorpsvernieuwing](https://wetten.overheid.nl/jci1.3:c:BWBR0003709&artikel=9) en overige regelingen betreffende brandgevaar, onhygiënische omstandigheden en overbewoning;
+
+- j. waterschappen: gegevens over uit te betalen voorlopige teruggaven inkomstenbelasting wegens toegekende heffingskortingen, op naam van de belastingschuldige staande bankrekeningnummers zoals deze blijken uit de Rentebase, kentekenregistergegevens en identificerende gegevens van een eventuele inhoudingsplichtige in de zin van de [Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471) ten behoeve van de inning van waterschapsbelastingen;
+
+- k. de officier van justitie:
+
+- 1°. gegevens die van belang kunnen zijn voor het instellen van vorderingen tot ontbinding van rechtspersonen;
+
+- 2°. gegevens over het vermogen van degene tegen wie een strafrechtelijk financieel onderzoek is ingesteld als bedoeld in [artikel 126 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126) ten behoeve van de uitvoering door de met het strafrechtelijk financieel onderzoek belaste opsporingsambtenaar;
+
+- 3°. gegevens over strafbare feiten waarvoor een ieder op grond van [artikel 161 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=161) bevoegd is aangifte te doen;
+
+- 4°. gegevens over het vermogen van degene tegen wie een strafrechtelijk onderzoek is ingesteld, ten behoeve van een ontnemingsvordering als bedoeld in [artikel 36e van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=36e);
+
+- 5°. gegevens die van belang zijn voor de tenuitvoerlegging van rechterlijke beslissingen op grond van [artikel 553 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=553);
+
+- l. gemeenten, de politie, de officier van justitie, de Arbeidsinspectie, de Sociale verzekeringsbank of het Uitvoeringsinstituut werknemersverzekeringen: gegevens die nodig zijn om de samenwerking in het kader van de integrale toepassing en handhaving van overheidsregelingen bij handhavingsknelpunten effectief en efficiënt te laten verlopen voor zover een convenant is gesloten met deze bestuursorganen (convenanten waarbij bestuursorganen een gemeenschappelijk handhavingstekort bestrijden);
+
+- m. academische ziekenhuizen: gegevens over het inkomen en vermogen van (voormalige) werknemers over een bepaalde periode ten behoeve van de vaststelling van werkloosheidsuitkeringen;
+
+- n. universiteiten: gegevens over het inkomen en vermogen van (voormalige) werknemers over een bepaalde periode ten behoeve van de vaststelling van werkloosheidsuitkeringen;
+
+- o. de Dienst Wegverkeer: gegevens terzake van de invoer van motorrijtuigen ten behoeve van de controle van het kentekenregister in de zin van de [Wegenverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622) en de controle op mogelijke diefstal en frauduleuze in-, uit- en doorvoer van motorrijtuigen;
+
+- p. de raad van bestuur van de Nederlandse Mededingingsautoriteit: gegevens terzake van (vennootschappelijke) verhoudingen en afspraken tussen ondernemingen en personen ten behoeve van de handhaving van de [Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691);
+
+- q. de Pensioen- en Uitkeringsraad: gegevens over het inkomen en vermogen over een bepaalde periode ten behoeve van het vaststellen van pensioenbijdragen krachtens de [Wet uitkeringen vervolgingsslachtoffers 1940–1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002844), de [Wet uitkeringen burger-oorlogsslachtoffers 1940–1945](https://wetten.overheid.nl/jci1.3:c:BWBR0003664), de [Wet buitengewoon pensioen 1940–1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002032), de [Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers](https://wetten.overheid.nl/jci1.3:c:BWBR0002035) of de [Wet buitengewoon pensioen Indisch verzet](https://wetten.overheid.nl/jci1.3:c:BWBR0003968);
+
+- r. de Stichting Administratie Indonesische Pensioenen: gegevens over het inkomen en vermogen over een bepaalde periode ten behoeve van het vaststellen van de buitengewone pensioenen volgens de [Uitkeringswet tegemoetkoming twee tot vijfjarige diensttijd veteranen](https://wetten.overheid.nl/jci1.3:c:BWBR0009197) of de [Uitkeringswet KNIL beroepsmilitairen](https://wetten.overheid.nl/jci1.3:c:BWBR0009473);
+
+- s. De Nederlandsche Bank N.V. en de Stichting Autoriteit Financiële Markten: gegevens over opgelegde vergrijpboetes ten behoeve van de uitvoering van de betrouwbaarheidstoetsing, bedoeld in [artikel 14 van het Besluit Gedragstoezicht financiële ondernemingen Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=14), [artikel 7 van het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=7), artikel 2 van de Beleidsregel inzake de betrouwbaarheidstoetsing van (kandidaat)(mede)beleidsbepalers van en houders van gekwalificeerde deelnemingen in onder toezicht staande instellingen (Stcrt. 2005, 20), artikel 2 van de Beleidsregel 06-1 inzake de betrouwbaarheidstoets van (kandidaat)(mede)beleidsbepalers van accountantsorganisaties van 19 september 2006 (Stcrt. 2006, 90) en [artikel 33 van het Besluit uitvoering Pensioenwet en Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&artikel=33).
+
+- t. het Bureau Financieel Toezicht, De Nederlandsche Bank N.V., de voorzitter van het managementteam van de Belastingdienst/Holland Midden en de Stichting Autoriteit Financiële Markten: gegevens die van belang kunnen zijn bij de uitvoering en de handhaving van de [Wet identificatie bij dienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0006330) en de [Wet melding ongebruikelijke transacties](https://wetten.overheid.nl/jci1.3:c:BWBR0006331);
+
+- u. de participanten van het samenwerkingsverband zonder rechtspersoonlijkheid Financieel Expertisecentrum (FEC) zoals opgenomen in artikel 1 van het Convenant houdende afspraken met betrekking tot de samenwerking in het kader van het Financieel Expertisecentrum (Convenant Herstructurering FEC) (Stcrt. 2004, 65): gegevens die noodzakelijk zijn ter uitvoering van de in het Convenant Herstructurering FEC opgenomen verplichtingen;
+
+- v. de Consumentenautoriteit: gegevens die van belang kunnen zijn voor de uitvoering van de taken, bedoeld in [artikel 2.2 van de Wet handhaving consumentenbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&artikel=2.2);
+
+- w. provincies:
+
+- 1°. gegevens die van belang kunnen zijn voor de uitvoering en het toezicht op naleving van de [Grondwaterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0003406);
+
+- 2°. gegevens die van belang kunnen zijn voor vergunningverlening en het houden van toezicht in het kader van de [Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245);
+
+- x. de Arbeidsinspectie, het Uitvoeringsinstituut werknemersverzekeringen, gemeenten, de Sociale verzekeringsbank, het openbaar Ministerie, de politie en de Minister van Sociale Zaken en Werkgelegenheid (zoals vertegenwoordigd in de landelijke Stuurgroep Interventieteams): gegevens die nodig zijn voor de uitvoering van samenwerkingsprojecten door middel van interventieteams ter voorkoming en terugdringing van belasting- en premiefraude, uitkeringsfraude, illegale tewerkstelling en de daarmee samenhangende misstanden.
+
+2. De in het eerste lid bedoelde gegevens worden verstrekt op verzoek van het betreffende bestuursorgaan. De eerste volzin is niet van toepassing op de verstrekking van gegevens als bedoeld in het eerste lid, onderdeel k, onder 3°.
+
+3. Voor de toepassing van het eerste lid wordt verstaan onder:
+
+- a. inkomen:
+
+- 1°. indien over een kalenderjaar een aanslag inkomstenbelasting is of wordt vastgesteld: het verzamelinkomen, bedoeld in [artikel 2.18 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.18), zoals dat in die aanslag is opgenomen of zoals dat bij beschikking is vastgesteld;
+
+- 2°. indien over een kalenderjaar geen aanslag inkomstenbelasting is of wordt vastgesteld: het belastbare loon, bedoeld in [artikel 9 van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=9), zoals dat blijkt uit de op het kalenderjaar betrekking hebbende jaaropgaven, vermeerderd met het belastbare loon van het kalenderjaar waarover loonbelasting is nageheven van de werknemer;
+
+- b. vermogen: de gemiddelde rendementsgrondslag, bedoeld in [artikel 5.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.2);
+
+- c. Rentebase: op jaarlijkse basis door de Belastingdienst op geautomatiseerde wijze van banken en soortgelijke instellingen verkregen gegevens over rente en saldi van bankrekeningen, gekoppeld aan een sociaal-fiscaalnummer als bedoeld in [2, derde lid, onderdeel j, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=2), en opgenomen in een bestand;
+
+- d. kentekenregistergegevens: gegevens afkomstig van de Rijksdienst voor het Wegverkeer, bestaande uit de datum van het afgeven van het kenteken, de naam-, adres- en woonplaatsgegevens van de houder van het kenteken en het merk en type auto.
+
+### Hoofdstuk 11. Slotbepaling
 
 ## Bijlagen
 
