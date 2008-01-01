@@ -75,9 +75,3 @@ Dit onderdeel is nog niet inwerking getreden
 Dit onderdeel is nog niet inwerking getreden
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 4a. Toerekening kindgebonden budget
-
-Indien de ouder aanspraak heeft op kindgebonden budget voor meer dan een kind en voor een of meer van die kinderen voor de toepassing van de [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368) een ander land dan een van de in [artikel 1, onder a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0025183&artikel=1&z=2015-01-01&g=2015-01-01), bedoelde landen als woonland in aanmerking wordt genomen, is [artikel 2 van de Regeling woonlandbeginsel in de sociale zekerheid 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031508&artikel=2) van overeenkomstige toepassing voor de bepaling van het bedrag aan kindgebonden budget per kind.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
