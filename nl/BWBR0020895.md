@@ -4,7 +4,7 @@ identifier: "BWBR0020895"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-01-01"
-last_updated: "2007-01-01"
+last_updated: "2008-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020895"
 soort: "ministeriele-regeling"
@@ -78,7 +78,7 @@ De aanvraag van de verplichtstelling, bedoeld in [artikel 5, eerste lid, van de 
 
 ##### Artikel 2. Meerderheid van minder dan 60%
 
-Indien op grond van de opgave, bedoeld in [artikel 1, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0020895&paragraaf=1&artikel=1&z=2007-01-01&g=2007-01-01), het aantal beroepsgenoten of beroepsgenoten in loondienst dat lid is van de beroepspensioenvereniging een meerderheid vertegenwoordigt van minder dan 60% van het totale aantal beroepsgenoten of beroepsgenoten in loondienst als bedoeld in dat artikelonderdeel dan wel, indien tegen verplichtstelling ingediende zienswijzen daartoe aanleiding geven, wordt van de aanvrager een door een registeraccountant of een accountant-administratieconsulent met certificerende bevoegdheid geverifieerde opgave verlangd van de verstrekte aantallen beroepsgenoten of beroepsgenoten in loondienst en de betrouwbaarheid van de daartoe gekozen bronnen, bedoeld in [artikel 1, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0020895&paragraaf=1&artikel=1&z=2007-01-01&g=2007-01-01).
+Indien op grond van de opgave, bedoeld in [artikel 1, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0020895&paragraaf=1&artikel=1&z=2008-01-01&g=2008-01-01), het aantal beroepsgenoten of beroepsgenoten in loondienst dat lid is van de beroepspensioenvereniging een meerderheid vertegenwoordigt van minder dan 60% van het totale aantal beroepsgenoten of beroepsgenoten in loondienst als bedoeld in dat artikelonderdeel dan wel, indien tegen verplichtstelling ingediende zienswijzen daartoe aanleiding geven, wordt van de aanvrager een door een registeraccountant of een accountant-administratieconsulent met certificerende bevoegdheid geverifieerde opgave verlangd van de verstrekte aantallen beroepsgenoten of beroepsgenoten in loondienst en de betrouwbaarheid van de daartoe gekozen bronnen, bedoeld in [artikel 1, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0020895&paragraaf=1&artikel=1&z=2008-01-01&g=2008-01-01).
 
 ##### Artikel 3. Aanvraag tot wijziging van de verplichtstelling
 
@@ -112,7 +112,7 @@ De aanvraag tot wijziging van de verplichtstelling, bedoeld in [artikel 9, eerst
 
 ##### Artikel 4. Meerderheid van minder dan 60%
 
-Indien op grond van de opgave, bedoeld in [artikel 3, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0020895&paragraaf=1&artikel=3&z=2007-01-01&g=2007-01-01), het aantal beroepsgenoten of beroepsgenoten in loondienst dat lid is van de beroepspensioenvereniging een meerderheid vertegenwoordigd van minder dan 60% van het totale aantal beroepsgenoten of beroepsgenoten in loondienst als bedoeld in dat artikelonderdeel dan wel indien tegen wijziging van de verplichtstelling ingediende zienswijzen daartoe aanleiding geven, zal een door een registeraccountant of een accountant-administratieconsulent met certificerende bevoegdheid geverifieerde opgave worden verlangd van de verstrekte aantallen beroepsgenoten of beroepsgenoten in loondienst en de betrouwbaarheid van de daartoe gekozen bronnen als bedoeld in [artikel 3, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0020895&paragraaf=1&artikel=3&z=2007-01-01&g=2007-01-01).
+Indien op grond van de opgave, bedoeld in [artikel 3, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0020895&paragraaf=1&artikel=3&z=2008-01-01&g=2008-01-01), het aantal beroepsgenoten of beroepsgenoten in loondienst dat lid is van de beroepspensioenvereniging een meerderheid vertegenwoordigd van minder dan 60% van het totale aantal beroepsgenoten of beroepsgenoten in loondienst als bedoeld in dat artikelonderdeel dan wel indien tegen wijziging van de verplichtstelling ingediende zienswijzen daartoe aanleiding geven, zal een door een registeraccountant of een accountant-administratieconsulent met certificerende bevoegdheid geverifieerde opgave worden verlangd van de verstrekte aantallen beroepsgenoten of beroepsgenoten in loondienst en de betrouwbaarheid van de daartoe gekozen bronnen als bedoeld in [artikel 3, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0020895&paragraaf=1&artikel=3&z=2008-01-01&g=2008-01-01).
 
 ##### Artikel 5. Aanvraag tot intrekking van de verplichtstelling
 
@@ -150,7 +150,7 @@ Indien op grond van de opgave, bedoeld in [artikel 3, onderdeel e](https://wette
 
 ##### Artikel 6. Meerderheid van minder dan 60%
 
-Indien op grond van de opgave, bedoeld in [artikel 5, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020895&paragraaf=1&artikel=5&z=2007-01-01&g=2007-01-01), het aantal beroepsgenoten of beroepsgenoten in loondienst dat lid is van de beroepspensioenvereniging een meerderheid vertegenwoordigt van minder dan 60% van het totale aantal beroepsgenoten of beroepsgenoten in loondienst als bedoeld in dat artikelonderdeel dan wel indien tegen intrekking van de verplichtstelling ingediende zienswijzen daartoe aanleiding geven, zal een door een registeraccountant of een accountant-administratieconsulent met certificerende bevoegdheid geverifieerde opgave worden verlangd van de verstrekte aantallen beroepsgenoten of beroepsgenoten in loondienst en de betrouwbaarheid van de daartoe gekozen bronnen, genoemd in [artikel 5, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0020895&paragraaf=1&artikel=5&z=2007-01-01&g=2007-01-01).
+Indien op grond van de opgave, bedoeld in [artikel 5, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020895&paragraaf=1&artikel=5&z=2008-01-01&g=2008-01-01), het aantal beroepsgenoten of beroepsgenoten in loondienst dat lid is van de beroepspensioenvereniging een meerderheid vertegenwoordigt van minder dan 60% van het totale aantal beroepsgenoten of beroepsgenoten in loondienst als bedoeld in dat artikelonderdeel dan wel indien tegen intrekking van de verplichtstelling ingediende zienswijzen daartoe aanleiding geven, zal een door een registeraccountant of een accountant-administratieconsulent met certificerende bevoegdheid geverifieerde opgave worden verlangd van de verstrekte aantallen beroepsgenoten of beroepsgenoten in loondienst en de betrouwbaarheid van de daartoe gekozen bronnen, genoemd in [artikel 5, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0020895&paragraaf=1&artikel=5&z=2008-01-01&g=2008-01-01).
 
 ##### Artikel 7. Aanvraag tot ontheffing
 
@@ -170,15 +170,15 @@ Indien op grond van de opgave, bedoeld in [artikel 5, eerste lid, onderdeel c](h
 
 ##### Artikel 8. Behandeling aanvragen
 
-De aanvragen, bedoeld in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0020895&paragraaf=1&artikel=1&z=2007-01-01&g=2007-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0020895&paragraaf=1&artikel=3&z=2007-01-01&g=2007-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0020895&paragraaf=1&artikel=5&z=2007-01-01&g=2007-01-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0020895&paragraaf=1&artikel=7&z=2007-01-01&g=2007-01-01) worden eerst in behandeling genomen wanneer alle van belang zijnde gegevens en bescheiden, genoemd in die artikelen, bij de aanvragen zijn gevoegd.
+De aanvragen, bedoeld in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0020895&paragraaf=1&artikel=1&z=2008-01-01&g=2008-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0020895&paragraaf=1&artikel=3&z=2008-01-01&g=2008-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0020895&paragraaf=1&artikel=5&z=2008-01-01&g=2008-01-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0020895&paragraaf=1&artikel=7&z=2008-01-01&g=2008-01-01) worden eerst in behandeling genomen wanneer alle van belang zijnde gegevens en bescheiden, genoemd in die artikelen, bij de aanvragen zijn gevoegd.
 
 ##### Artikel 9. Termijnen
 
-1. Onze Minister beslist zo spoedig mogelijk op de aanvraag, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0020895&paragraaf=1&artikel=1&z=2007-01-01&g=2007-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0020895&paragraaf=1&artikel=3&z=2007-01-01&g=2007-01-01) of [5](https://wetten.overheid.nl/jci1.3:c:BWBR0020895&paragraaf=1&artikel=5&z=2007-01-01&g=2007-01-01), doch uiterlijk binnen zesentwintig weken na de datum van mededeling in de Staatscourant van de aanvraag tot verplichtstelling, de aanvraag betreffende wijziging van de verplichtstelling, dan wel de aanvraag tot intrekking van de verplichtstelling.
+1. Onze Minister beslist zo spoedig mogelijk op de aanvraag, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0020895&paragraaf=1&artikel=1&z=2008-01-01&g=2008-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0020895&paragraaf=1&artikel=3&z=2008-01-01&g=2008-01-01) of [5](https://wetten.overheid.nl/jci1.3:c:BWBR0020895&paragraaf=1&artikel=5&z=2008-01-01&g=2008-01-01), doch uiterlijk binnen zesentwintig weken na de datum van mededeling in de Staatscourant van de aanvraag tot verplichtstelling, de aanvraag betreffende wijziging van de verplichtstelling, dan wel de aanvraag tot intrekking van de verplichtstelling.
 
 2. Indien in verband met het nemen van een besluit als bedoeld in het eerste lid informatie of advies is gevraagd aan een persoon of instantie kan de termijn, bedoeld in het eerste lid, ten hoogste twee maal worden verlengd met een periode van maximaal dertien weken en worden verzoekende partijen van deze verlenging schriftelijk in kennis gesteld.
 
-3. Indien verzoekende partijen niet of niet volledig binnen zes weken reageren op een verzoek van Onze Minister of De Nederlandsche Bank N.V. om aanvullende informatie dan wel binnen zes weken in geval van een verzoek van De Nederlandsche Bank N.V. om wijziging van statuten of reglementen, wordt de aanvraag, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0020895&paragraaf=1&artikel=1&z=2007-01-01&g=2007-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0020895&paragraaf=1&artikel=3&z=2007-01-01&g=2007-01-01) of [5](https://wetten.overheid.nl/jci1.3:c:BWBR0020895&paragraaf=1&artikel=5&z=2007-01-01&g=2007-01-01) niet verder behandeld. Hiervan wordt mededeling gedaan in de Staatscourant.
+3. Indien verzoekende partijen niet of niet volledig binnen zes weken reageren op een verzoek van Onze Minister of De Nederlandsche Bank N.V. om aanvullende informatie dan wel binnen zes weken in geval van een verzoek van De Nederlandsche Bank N.V. om wijziging van statuten of reglementen, wordt de aanvraag, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0020895&paragraaf=1&artikel=1&z=2008-01-01&g=2008-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0020895&paragraaf=1&artikel=3&z=2008-01-01&g=2008-01-01) of [5](https://wetten.overheid.nl/jci1.3:c:BWBR0020895&paragraaf=1&artikel=5&z=2008-01-01&g=2008-01-01) niet verder behandeld. Hiervan wordt mededeling gedaan in de Staatscourant.
 
 #### Paragraaf 2. Gemoedsbezwaren
 
@@ -190,7 +190,7 @@ De aanvragen, bedoeld in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BW
 
 ##### Artikel 11. Indienen van de aanvraag
 
-1. De in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0020895&paragraaf=2&artikel=10&z=2007-01-01&g=2007-01-01) bedoelde verklaring wordt ingediend bij de pensioenuitvoerder.
+1. De in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0020895&paragraaf=2&artikel=10&z=2008-01-01&g=2008-01-01) bedoelde verklaring wordt ingediend bij de pensioenuitvoerder.
 
 2. De pensioenuitvoerder onderzoekt of de verklaring overeenkomstig de waarheid is.
 
@@ -208,7 +208,7 @@ De persoon die een ontheffing heeft, betaalt dezelfde bedragen welke hij verschu
 
 ##### Artikel 14. Spaarrekening
 
-1. De op grond van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0020895&paragraaf=2&artikel=13&z=2007-01-01&g=2007-01-01) betaalde spaarbijdragen worden door of namens de pensioenuitvoerder geboekt op een de persoon die een ontheffing heeft betreffende spaarrekening.
+1. De op grond van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0020895&paragraaf=2&artikel=13&z=2008-01-01&g=2008-01-01) betaalde spaarbijdragen worden door of namens de pensioenuitvoerder geboekt op een de persoon die een ontheffing heeft betreffende spaarrekening.
 
 2. In de beroepspensioenregeling wordt aangegeven in welke gevallen en tot welke bedragen de persoon die een ontheffing heeft gerechtigd is gelden van de spaarbijdragen op te nemen.
 
@@ -226,9 +226,7 @@ De persoon die een ontheffing heeft, betaalt dezelfde bedragen welke hij verschu
 
 ##### Artikel 16. Overgangsrecht
 
-1. Aanvragen als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0020895&paragraaf=1&artikel=1&z=2007-01-01&g=2007-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0020895&paragraaf=1&artikel=3&z=2007-01-01&g=2007-01-01) of [5](https://wetten.overheid.nl/jci1.3:c:BWBR0020895&paragraaf=1&artikel=5&z=2007-01-01&g=2007-01-01), die zijn ontvangen voor 1 september 2006 worden afgehandeld overeenkomstig de [Regeling verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0019309) zoals die regeling luidde onmiddellijk voorafgaand aan 1 september 2006.
-
-2. Dit artikel vervalt met ingang van 1 januari 2008.
+Vervallen
 
 ##### Artikel 17. Intrekking regelingen
 
