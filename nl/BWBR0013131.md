@@ -4,7 +4,7 @@ identifier: "BWBR0013131"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-10-01"
-last_updated: "2007-09-14"
+last_updated: "2008-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013131"
 soort: "AMvB"
@@ -90,7 +90,7 @@ Voor de toepasselijkheid van het bij en krachtens de [Wet rechtspositie rechterl
 
 4. In afwijking van het tweede lid worden de in de op de [Ambtenarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947) berustende bepalingen aan Onze Minister toegekende bevoegdheden tot het stellen van regels, de daarin aan Onze Minister toegekende bevoegdheden tot het verlenen van mandaat van een bevoegdheid tot het stellen van regels met een sterk technisch karakter, de daarin aan Onze Minister toegekende bevoegdheden tot het doen van een voordracht voor een regeling, alsmede de in de [artikelen 113 tot en met 117 van het Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=113) aan Onze Minister toegekende bevoegdheden, ten aanzien van de directeuren bedrijfsvoering uitgeoefend door de Raad voor de rechtspraak.
 
-5. Het eerste, tweede en vierde lid zijn van overeenkomstige toepassing op de uitoefening van de bevoegdheden in de ingevolge [artikel 1, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013131&artikel=1&z=2007-09-14&g=2007-09-14), overeenkomstig toepasselijke bepalingen van het [Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630).
+5. Het eerste, tweede en vierde lid zijn van overeenkomstige toepassing op de uitoefening van de bevoegdheden in de ingevolge [artikel 1, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013131&artikel=1&z=2007-09-14&g=2008-01-01), overeenkomstig toepasselijke bepalingen van het [Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630).
 
 6. [Artikel 98, eerste lid, onderdeel g, van het Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=98) is niet van toepassing op de niet-rechterlijke leden van de Raad voor de rechtspraak en de directeuren bedrijfsvoering bij de gerechten.
 
@@ -132,7 +132,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 9a
 
-In afwijking van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0013131&artikel=9&z=2007-09-14&g=2007-09-14) hebben de in dat artikel bedoelde personen in geval van ongeschiktheid tot het verrichten van arbeid wegens ziekte, geen aanspraak op een onkostenvergoeding en een representatievergoeding na ommekomst van het kalenderjaar waarin de ongeschiktheid is aangevangen en het kalenderjaar daaropvolgend.
+In afwijking van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0013131&artikel=9&z=2007-09-14&g=2008-01-01) hebben de in dat artikel bedoelde personen in geval van ongeschiktheid tot het verrichten van arbeid wegens ziekte, geen aanspraak op een onkostenvergoeding en een representatievergoeding na ommekomst van het kalenderjaar waarin de ongeschiktheid is aangevangen en het kalenderjaar daaropvolgend.
 
 ##### Artikel 9b
 
@@ -157,5 +157,13 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 7. In geval van ontslag als bedoeld in het zesde lid wordt aan de directeur bedrijfsvoering een uitkering ten laste van het bestuur van het gerecht, bedoeld in het eerste lid, toegekend. Deze uitkering bedraagt 110% van het voor hem geldende totaal van uitkeringen berekend op basis van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) en het [Besluit bovenwettelijke uitkeringen bij werkloosheid voor de sector Rijk](https://wetten.overheid.nl/jci1.3:c:BWBR0008114), als ware als gevolg van het ontslag geen sprake van verwijtbare werkloosheid als bedoeld in [artikel 24 van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=24). Op deze uitkering zijn de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) en het [Besluit bovenwettelijke uitkeringen bij werkloosheid voor de sector Rijk](https://wetten.overheid.nl/jci1.3:c:BWBR0008114) van overeenkomstige toepassing. Indien de directeur bedrijfsvoering tevens recht heeft op een uitkering krachtens de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) of het [Besluit bovenwettelijke uitkeringen bij werkloosheid voor de sector Rijk](https://wetten.overheid.nl/jci1.3:c:BWBR0008114), wordt de in de eerste volzin bedoelde uitkering met die uitkering verminderd.
 
 8. Onder passende functie wordt in dit artikel verstaan: een functie ten aanzien waarvan de directeur bedrijfsvoering beschikt over de voor het naar behoren vervullen hiervan noodzakelijk geachte kennis en kunde dan wel waarvoor hij binnen redelijke termijn om-, her- of bijgeschoold kan worden, en die hem in verband met zijn persoonlijkheid, zijn omstandigheden en de voor hem bestaande vooruitzichten redelijkerwijs kan worden opgedragen.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 9aa
+
+1. De persoon, bedoeld in [artikel 9, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013131&artikel=9&z=2011-02-11&g=2008-01-01), heeft, wanneer aan hem voor de arbeidsduur waarvoor hij is aangesteld buitengewoon verlof, al dan niet met behoud van bezoldiging, is verleend voor de periode van ten minste een maand, in afwijking van artikel 9, eerste en tweede lid, gedurende de periode van het buitengewoon verlof geen aanspraak op een onkostenvergoeding onderscheidenlijk representatiekostenvergoeding.
+
+2. De persoon, bedoeld in [artikel 9, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013131&artikel=9&z=2011-02-11&g=2008-01-01), heeft, wanneer aan hem voor 50% of meer van de arbeidsduur waarvoor hij is aangesteld buitengewoon verlof, al dan niet met behoud van bezoldiging, is verleend voor de periode van ten minste een maand, in afwijking van artikel 9, eerste en tweede lid, gedurende de periode van het buitengewoon verlof, aanspraak op de onkostenvergoeding onderscheidenlijk representatiekostenvergoeding naar rato van het aantal uren dat hij geen buitengewoon verlof geniet.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
