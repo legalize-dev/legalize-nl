@@ -4,7 +4,7 @@ identifier: "BWBR0023165"
 country: "nl"
 rank: "amvb"
 publication_date: "2009-01-01"
-last_updated: "2007-01-01"
+last_updated: "2008-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023165"
 soort: "AMvB"
@@ -38,31 +38,31 @@ entry_into_force: "2008-01-01"
 
 ##### Artikel I
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Uitvoeringsbesluit loonbelasting 1965.
 
 ##### Artikel II
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Uitvoeringsbesluit vennootschapsbelasting 1971.
 
 ##### Artikel III
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Besluit beleggingsinstellingen.
 
 ##### Artikel IV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Uitvoeringsbesluit belastingen van rechtsverkeer.
 
 ##### Artikel V
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Uitvoeringsbesluit omzetbelasting 1968.
 
 ##### Artikel VI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Uitvoeringsbesluit omzetbelasting 1968.
 
 ##### Artikel VII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Uitvoeringsbesluit Invorderingswet 1990.
 
 ##### Artikel VIII
 
@@ -70,11 +70,13 @@ Wijzigt het Besluit voorkoming dubbele belasting 2001.
 
 ##### Artikel IX
 
-Dit onderdeel is nog niet inwerking getreden
+De wijziging ingevolge [artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0023165&artikel=III&z=2008-01-01&g=2008-01-01) vindt voor het eerst toepassing met betrekking tot boekjaren die aanvangen op of na 1 januari 2008.
 
 ##### Artikel X
 
-Dit onderdeel is nog niet inwerking getreden
+1. Dit besluit treedt in werking met ingang van 1 januari 2008 met uitzondering van [artikel V, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0023165&artikel=V&z=2008-01-01&g=2008-01-01), dat met ingang van 1 januari 2009 in werking treedt.
+
+2. [Artikel VIII, onderdelen A, C, D en E](https://wetten.overheid.nl/jci1.3:c:BWBR0023165&artikel=VIII&z=2008-01-01&g=2008-01-01), werkt terug tot en met 1 januari 2007.
 
 Op voordracht van de Staatssecretaris van Financiën van 20 november 2007, DB 2007-00630; Directoraat-Generaal voor Fiscale Zaken, Directie Directe Belastingen, Directie Douane en Verbruiksbelastingen en Directie Internationale Fiscale Zaken;
 
