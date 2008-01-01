@@ -4,7 +4,7 @@ identifier: "BWBR0017321"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2007-01-01"
+last_updated: "2008-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017321"
 soort: "AMvB"
@@ -86,7 +86,7 @@ De hoogte van de kinderopvangtoeslag wordt voor iedere kalendermaand afzonderlij
 
 ##### Artikel 4
 
-1. De maximum uurprijs voor dagopvang, buitenschoolse opvang of gastouderopvang bedraagt € 5,68 per 1-1-2007: EUR 5,86..
+1. De maximum uurprijs voor dagopvang, buitenschoolse opvang of gastouderopvang bedraagt € 5,68 per 01-01-2008: € 6,10..
 
 2. In afwijking van het eerste lid bedraagt de maximum uurprijs voor buitenschoolse opvang en voor gastouderopvang voor kinderen in de leeftijd dat zij naar het basisonderwijs gaan:
 
@@ -100,7 +100,7 @@ De hoogte van de kinderopvangtoeslag wordt voor iedere kalendermaand afzonderlij
 
 ##### Artikel 5
 
-De maximum uurprijs, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=4&z=2007-01-01&g=2007-01-01), wordt jaarlijks aangepast overeenkomstig:
+De maximum uurprijs, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=4&z=2008-01-01&g=2008-01-01), wordt jaarlijks aangepast overeenkomstig:
 
 - a. 80% van de ontwikkeling van de loonvoet bedrijven en 20% van de consumentenprijsindex zoals deze voor het betrokken jaar, blijkens bekendmaking in het Centraal Economisch Plan in het voorafgaande jaar, is geraamd; en
 
@@ -108,17 +108,17 @@ De maximum uurprijs, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:
 
 ##### Artikel 6
 
-Voor de berekening van de kinderopvangtoeslag is de verdeling van de toetsingsinkomens in inkomensgroepen vanaf het berekeningsjaar 2007 in de bij dit besluit behorende [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&bijlage=I&z=2007-01-01&g=2007-01-01) opgenomen.
+Voor de berekening van de kinderopvangtoeslag is de verdeling van de toetsingsinkomens in inkomensgroepen vanaf het berekeningsjaar 2007 in de bij dit besluit behorende [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&bijlage=I&z=2008-01-01&g=2008-01-01) opgenomen.
 
 ##### Artikel 7
 
-De bedragen van de toetsingsinkomens van de inkomensgroepen, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=6&z=2007-01-01&g=2007-01-01), worden aangepast overeenkomstig de ontwikkeling van de contractlonen, zoals deze voor het betrokken jaar, blijkens bekendmaking in het Centraal Economisch Plan in het voorafgaande jaar, is geraamd, waarbij onder ontwikkeling van de contractlonen wordt verstaan: het gemiddelde van de procentuele ontwikkeling van de contractlonen in de marktsector, de gepremieerde sector en de gesubsidieerde sector, en bij de overheid, zoals dit door het Centraal Planbureau wordt bekendgemaakt.
+De bedragen van de toetsingsinkomens van de inkomensgroepen, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=6&z=2008-01-01&g=2008-01-01), worden aangepast overeenkomstig de ontwikkeling van de contractlonen, zoals deze voor het betrokken jaar, blijkens bekendmaking in het Centraal Economisch Plan in het voorafgaande jaar, is geraamd, waarbij onder ontwikkeling van de contractlonen wordt verstaan: het gemiddelde van de procentuele ontwikkeling van de contractlonen in de marktsector, de gepremieerde sector en de gesubsidieerde sector, en bij de overheid, zoals dit door het Centraal Planbureau wordt bekendgemaakt.
 
 ##### Artikel 8
 
 1. De kinderopvangtoeslag wordt uitgedrukt in een percentage van de kosten van kinderopvang.
 
-2. De percentages, bedoeld in het eerste lid, worden vermeld in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&bijlage=I&z=2007-01-01&g=2007-01-01).
+2. De percentages, bedoeld in het eerste lid, worden vermeld in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&bijlage=I&z=2008-01-01&g=2008-01-01).
 
 #### Paragraaf 2. Specifieke berekeningsfactor bij kinderopvangtoeslag voor ouder zonder partner
 
@@ -130,7 +130,7 @@ De bedragen van de toetsingsinkomens van de inkomensgroepen, bedoeld in [artikel
 
 3. De extra kinderopvangtoeslag wordt uitgedrukt in een percentage van een derde deel van de totale kosten van kinderopvang, voor zover dat deel hoger is dan de in het eerste lid bedoelde bijdragen in de kosten van kinderopvang.
 
-4. De percentages, bedoeld in het derde lid, worden vermeld in de [bijlagen II](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&bijlage=II&z=2007-01-01&g=2007-01-01), [IIA](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&bijlage=IIa&z=2007-01-01&g=2007-01-01), [IIB](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&bijlage=IIb&z=2007-01-01&g=2007-01-01) en [IIC](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&bijlage=IIc&z=2007-01-01&g=2007-01-01).
+4. De percentages, bedoeld in het derde lid, worden vermeld in de [bijlagen II](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&bijlage=II&z=2008-01-01&g=2008-01-01), [IIA](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&bijlage=IIa&z=2008-01-01&g=2008-01-01), [IIB](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&bijlage=IIb&z=2008-01-01&g=2008-01-01) en [IIC](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&bijlage=IIc&z=2008-01-01&g=2008-01-01).
 
 ##### Artikel 10
 
@@ -160,15 +160,15 @@ Voor een ouder die geen partner heeft, wordt de kinderopvangtoeslag vermeerderd 
 
 1. Indien een ouder tegenwoordige arbeid verricht en geen partner heeft, wordt de kinderopvangtoeslag vermeerderd met de extra kinderopvangtoeslag, voor zover de bijdrage in de kosten van kinderopvang die hij in het kader van het verrichten van tegenwoordige arbeid heeft ontvangen en de tegemoetkoming van de gemeente, bedoeld in [artikel 24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=24), of de tegemoetkoming van het Uitvoeringsinstituut werknemersverzekeringen, bedoeld in [artikel 30 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=30), die hij heeft ontvangen, minder bedraagt dan een zesde deel van de kosten van kinderopvang.
 
-2. Indien de in het eerste lid bedoelde bijdrage in de kosten van kinderopvang hoger is dan een zesde deel van de kosten van kinderopvang, brengt de inspecteur bij de vaststelling van de kinderopvangtoeslag het verschil tussen de vermeerdering, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=2&artikel=11&z=2007-01-01&g=2007-01-01), en die bijdrage in mindering op die vermeerdering.
+2. Indien de in het eerste lid bedoelde bijdrage in de kosten van kinderopvang hoger is dan een zesde deel van de kosten van kinderopvang, brengt de inspecteur bij de vaststelling van de kinderopvangtoeslag het verschil tussen de vermeerdering, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=2&artikel=11&z=2008-01-01&g=2008-01-01), en die bijdrage in mindering op die vermeerdering.
 
 3. De extra kinderopvangtoeslag wordt uitgedrukt in een percentage van een zesde deel van de totale kosten van kinderopvang, voor zover dat deel hoger is dan de in het eerste lid bedoelde bijdragen in de kosten van kinderopvang.
 
-4. Bij toepassing van het eerste lid is [artikel 9, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=2&artikel=9&z=2007-01-01&g=2007-01-01), van overeenkomstige toepassing.
+4. Bij toepassing van het eerste lid is [artikel 9, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=2&artikel=9&z=2008-01-01&g=2008-01-01), van overeenkomstige toepassing.
 
 ##### Artikel 13
 
-In de gevallen, bedoeld in [artikel 95, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=95), wordt de extra kinderopvangtoeslag voor een ouder die geen partner heeft vermeerderd met een bedrag dat wordt bepaald door het toepasselijke percentage, bedoeld in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=2&artikel=10&z=2007-01-01&g=2007-01-01), toe te passen op het bedrag dat resteert, indien een zesde deel van de kosten van kinderopvang wordt verminderd met:
+In de gevallen, bedoeld in [artikel 95, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=95), wordt de extra kinderopvangtoeslag voor een ouder die geen partner heeft vermeerderd met een bedrag dat wordt bepaald door het toepasselijke percentage, bedoeld in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=2&artikel=10&z=2008-01-01&g=2008-01-01), toe te passen op het bedrag dat resteert, indien een zesde deel van de kosten van kinderopvang wordt verminderd met:
 
 - a. de bijdrage die deze ouder heeft ontvangen in het kader van het verrichten van tegenwoordige arbeid en de tegemoetkoming die hij heeft ontvangen van de gemeente, bedoeld in [artikel 24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=24), of van het Uitvoeringsinstituut werknemersverzekeringen, bedoeld in [artikel 30 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=30), en
 
@@ -236,7 +236,7 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
 Dit besluit wordt aangehaald als: Besluit kinderopvangtoeslag en tegemoetkomingen in kosten kinderopvang.
 
-## Bijlage I. , behorende bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=6&z=2007-01-01&g=2007-01-01) van het Besluit kinderopvangtoeslag en tegemoetkomingen in kosten kinderopvang
+## Bijlage I. , behorende bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=6&z=2008-01-01&g=2008-01-01) van het Besluit kinderopvangtoeslag en tegemoetkomingen in kosten kinderopvang
 
 | (Gezamenlijk) toetsingsinkomen | (Gezamenlijk) toetsingsinkomen | Tegemoetkoming Rijk als percentage van de kosten van kinderopvang | Tegemoetkoming Rijk als percentage van de kosten van kinderopvang |
 | --- | --- | --- | --- |
@@ -302,11 +302,77 @@ Dit besluit wordt aangehaald als: Besluit kinderopvangtoeslag en tegemoetkominge
 | € 127.644 | € 130.097 | 1,5% | 57,4% |
 | € 130.098 | en hoger | 0,0% | 57,4% |
 
+Per 01-01-2008:
+
+| (Gezamenlijk) toetsingsinkomen | (Gezamenlijk) toetsingsinkomen | Tegemoetkoming Rijk als percentage van de kosten van kinderopvang | Tegemoetkoming Rijk als percentage van de kosten van kinderopvang |
+| --- | --- | --- | --- |
+| Van | Tot | Eerste kind | Tweede e.v. kind |
+| lager dan | € 16.925 | 63,2% | 63,2% |
+| € 16.926 | € 18.052 | 62,8% | 63,2% |
+| € 18.053 | € 19.178 | 62,3% | 63,2% |
+| € 19.179 | € 20.305 | 61,9% | 63,1% |
+| € 20.306 | € 21.432 | 61,5% | 63,1% |
+| € 21.433 | € 22.558 | 61,1% | 63,1% |
+| € 22.559 | € 23.685 | 60,6% | 63,1% |
+| € 23.686 | € 24.810 | 60,2% | 63,1% |
+| € 24.811 | € 26.023 | 59,7% | 63,0% |
+| € 26.024 | € 27.234 | 59,3% | 62,9% |
+| € 27.235 | € 28.446 | 58,8% | 62,8% |
+| € 28.447 | € 29.657 | 58,4% | 62,7% |
+| € 29.658 | € 30.870 | 57,9% | 62,7% |
+| € 30.871 | € 32.082 | 57,4% | 62,6% |
+| € 32.083 | € 33.293 | 57,0% | 62,5% |
+| € 33.294 | € 34.505 | 56,5% | 62,4% |
+| € 34.506 | € 35.717 | 56,1% | 62,3% |
+| € 35.718 | € 36.929 | 55,6% | 62,2% |
+| € 36.930 | € 38.140 | 55,1% | 62,1% |
+| € 38.141 | € 39.352 | 54,7% | 62,0% |
+| € 39.353 | € 40.565 | 54,2% | 62,0% |
+| € 40.566 | € 41.776 | 53,8% | 61,9% |
+| € 41.777 | € 43.099 | 53,2% | 61,8% |
+| € 43.100 | € 45.633 | 52,3% | 61,6% |
+| € 45.634 | € 48.166 | 51,1% | 61,4% |
+| € 48.167 | € 50.701 | 49,6% | 61,2% |
+| € 50.702 | € 53.234 | 48,2% | 61,0% |
+| € 53.235 | € 55.768 | 46,7% | 60,9% |
+| € 55.769 | € 58.301 | 45,2% | 60,7% |
+| € 58.302 | € 60.836 | 43,8% | 60,5% |
+| € 60.837 | € 63.369 | 42,3% | 60,3% |
+| € 63.370 | € 65.904 | 40,9% | 60,1% |
+| € 65.905 | € 68.437 | 39,4% | 59,9% |
+| € 68.438 | € 70.972 | 38,0% | 59,7% |
+| € 70.973 | € 73.505 | 36,5% | 59,6% |
+| € 73.506 | € 76.039 | 35,0% | 59,4% |
+| € 76.040 | € 78.573 | 33,6% | 59,2% |
+| € 78.574 | € 81.107 | 32,1% | 59,0% |
+| € 81.108 | € 83.640 | 30,7% | 58,8% |
+| € 83.641 | € 86.174 | 29,2% | 58,6% |
+| € 86.175 | € 88.707 | 27,7% | 58,5% |
+| € 88.708 | € 91.241 | 26,3% | 58,3% |
+| € 91.242 | € 93.774 | 24,8% | 58,1% |
+| € 93.775 | € 96.308 | 23,4% | 57,9% |
+| € 96.309 | € 98.841 | 21,9% | 57,7% |
+| € 98.842 | € 101.375 | 20,5% | 57,5% |
+| € 101.376 | € 103.908 | 19,0% | 57,4% |
+| € 103.909 | € 106.442 | 17,5% | 57,4% |
+| € 106.443 | € 108.975 | 16,1% | 57,4% |
+| € 108.976 | € 111.509 | 14,6% | 57,4% |
+| € 111.510 | € 114.042 | 13,2% | 57,4% |
+| € 114.043 | € 116.576 | 11,7% | 57,4% |
+| € 116.577 | € 119.109 | 10,3% | 57,4% |
+| € 119.110 | € 121.643 | 8,8% | 57,4% |
+| € 121.644 | € 124.176 | 7,3% | 57,4% |
+| € 124.177 | € 126.710 | 5,9% | 57,4% |
+| € 126.711 | € 129.243 | 4,4% | 57,4% |
+| € 129.244 | € 131.777 | 3,0% | 57,4% |
+| € 131.778 | € 134.310 | 1,5% | 57,4% |
+| € 134.311 | en hoger | 0,0% | 57,4% |
+
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad wordt geplaatst.
 
 ##### Artikel 22a
 
-[Artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=7&z=2007-01-01&g=2007-01-01) is niet van toepassing voor de aanpassingen voor het jaar 2007.
+[Artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=7&z=2008-01-01&g=2008-01-01) is niet van toepassing voor de aanpassingen voor het jaar 2007.
 
 ## Bijlage II. , behorende artikel 6, tweede lid, van het Besluit kinderopvangtoeslag en tegemoetkomingen in kosten kinderopvang
 
