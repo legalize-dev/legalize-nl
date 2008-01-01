@@ -4,7 +4,7 @@ identifier: "BWBR0022429"
 country: "nl"
 rank: "amvb"
 publication_date: "2012-01-01"
-last_updated: "2007-10-17"
+last_updated: "2008-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022429"
 soort: "AMvB"
@@ -54,15 +54,15 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 **aanvraag:**
 
-- 1°. voor [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022429&hoofdstuk=2&z=2007-10-17&g=2007-10-17): aanvraag voor een specifieke uitkering als bedoeld in [artikel 34a, eerste lid, van de Monumentenwet 1988](https://wetten.overheid.nl/jci1.3:c:BWBR0004471&artikel=34a), of
+- 1°. voor [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022429&hoofdstuk=2&z=2008-01-01&g=2008-01-01): aanvraag voor een specifieke uitkering als bedoeld in [artikel 34a, eerste lid, van de Monumentenwet 1988](https://wetten.overheid.nl/jci1.3:c:BWBR0004471&artikel=34a), of
 
-- 2°. voor [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0022429&hoofdstuk=3&z=2007-10-17&g=2007-10-17): aanvrager van een vergunning als bedoeld in [artikel 45 van de Monumentenwet 1988](https://wetten.overheid.nl/jci1.3:c:BWBR0004471&artikel=45);
+- 2°. voor [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0022429&hoofdstuk=3&z=2008-01-01&g=2008-01-01): aanvrager van een vergunning als bedoeld in [artikel 45 van de Monumentenwet 1988](https://wetten.overheid.nl/jci1.3:c:BWBR0004471&artikel=45);
 
 **drempelbijdrage:** deel van de kosten van het doen van opgravingen dat ten laste komt van de gemeente of de provincie;
 
 **excessieve kosten:** deel van de kosten van het doen van opgravingen dat het bedrag dat wordt gevormd door de som van de drempelbijdrage en het verstoordersdeel te boven gaat;
 
-**leidinggevende:** degene die binnen de organisatie van de aanvrager, bedoeld in [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0022429&hoofdstuk=3&z=2007-10-17&g=2007-10-17), daadwerkelijk leiding geeft aan het doen van de opgravingen;
+**leidinggevende:** degene die binnen de organisatie van de aanvrager, bedoeld in [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0022429&hoofdstuk=3&z=2008-01-01&g=2008-01-01), daadwerkelijk leiding geeft aan het doen van de opgravingen;
 
 **specifieke uitkering:** specifieke uitkering als bedoeld in [artikel 34a, eerste lid, van de Monumentenwet 1988](https://wetten.overheid.nl/jci1.3:c:BWBR0004471&artikel=34a);
 
@@ -70,9 +70,9 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 **verstoordersdeel:**
 
-- 1°. deel van de kosten van het doen van opgravingen dat volgens de aanvrager, bedoeld in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022429&hoofdstuk=2&z=2007-10-17&g=2007-10-17), ten laste blijft van degene die door de aanvrager tot het doen van opgravingen is verplicht, of
+- 1°. deel van de kosten van het doen van opgravingen dat volgens de aanvrager, bedoeld in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022429&hoofdstuk=2&z=2008-01-01&g=2008-01-01), ten laste blijft van degene die door de aanvrager tot het doen van opgravingen is verplicht, of
 
-- 2°. bedrag dat Onze minister op grond van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0022429&hoofdstuk=2&paragraaf=4&artikel=6&z=2007-10-17&g=2007-10-17) heeft vastgesteld;
+- 2°. bedrag dat Onze minister op grond van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0022429&hoofdstuk=2&paragraaf=4&artikel=6&z=2008-01-01&g=2008-01-01) heeft vastgesteld;
 
 **wet:** [Monumentenwet 1988](https://wetten.overheid.nl/jci1.3:c:BWBR0004471).
 
@@ -90,7 +90,7 @@ Met de vergunningseisen ter zake van het doen van opgravingen als bedoeld in dit
 
 Een vergunning is niet overdraagbaar.
 
-#### § 2. Vergunningverlening
+#### § 3. Uitkeringsplafond
 
 ##### Artikel 17
 
@@ -116,7 +116,7 @@ Een vergunning is niet overdraagbaar.
 
 - f. de leidinggevende is niet onherroepelijk veroordeeld wegens het plegen van een strafbaar feit als bedoeld in de [artikelen 61](https://wetten.overheid.nl/jci1.3:c:BWBR0004471&artikel=61) en [62 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004471&artikel=62) in de 4 jaar voorafgaand aan de aanvraag.
 
-#### § 3. Vergunningaanvraag
+#### § 4. Verlening van de specifieke uitkering
 
 ##### Artikel 18
 
@@ -124,21 +124,21 @@ Een vergunning is niet overdraagbaar.
 
 - a. een organisatieplan,
 
-- b. een recente verklaring van de rechtbank op basis van de registers, bedoeld in de [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=19) en [222a van de Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=222a), waaruit blijkt dat de aanvrager voldoet aan [artikel 17, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0022429&hoofdstuk=3&paragraaf=2&artikel=17&z=2007-10-17&g=2007-10-17),
+- b. een recente verklaring van de rechtbank op basis van de registers, bedoeld in de [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=19) en [222a van de Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=222a), waaruit blijkt dat de aanvrager voldoet aan [artikel 17, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0022429&hoofdstuk=3&paragraaf=2&artikel=17&z=2008-01-01&g=2008-01-01),
 
-- c. een afschrift van het getuigschrift of de EG-verklaring, bedoeld in [artikel 17, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0022429&hoofdstuk=3&paragraaf=2&artikel=17&z=2007-10-17&g=2007-10-17),
+- c. een afschrift van het getuigschrift of de EG-verklaring, bedoeld in [artikel 17, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0022429&hoofdstuk=3&paragraaf=2&artikel=17&z=2008-01-01&g=2008-01-01),
 
-- d. bewijsstukken waaruit de werkervaring, bedoeld in [artikel 17, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0022429&hoofdstuk=3&paragraaf=2&artikel=17&z=2007-10-17&g=2007-10-17), blijkt, en
+- d. bewijsstukken waaruit de werkervaring, bedoeld in [artikel 17, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0022429&hoofdstuk=3&paragraaf=2&artikel=17&z=2008-01-01&g=2008-01-01), blijkt, en
 
 - e. een verklaring omtrent het gedrag als bedoeld in [artikel 28 van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=28) van leidinggevenden die niet ouder is dan 6 maanden.
 
 2. De aanvrager beschrijft in het organisatieplan, bedoeld in het eerste lid, onderdeel a, in ieder geval op welke wijze:
 
-- a. de aanvrager voldoet aan [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022429&hoofdstuk=3&paragraaf=2&artikel=17&z=2007-10-17&g=2007-10-17),
+- a. de aanvrager voldoet aan [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022429&hoofdstuk=3&paragraaf=2&artikel=17&z=2008-01-01&g=2008-01-01),
 
 - b. binnen de organisatie voor voldoende leidinggevenden wordt zorg gedragen, en
 
-- c. de aanvrager zal voldoen aan de voorschriften, bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0022429&hoofdstuk=3&paragraaf=5&artikel=25&z=2007-10-17&g=2007-10-17).
+- c. de aanvrager zal voldoen aan de voorschriften, bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0022429&hoofdstuk=3&paragraaf=5&artikel=25&z=2008-01-01&g=2008-01-01).
 
 3. De voorwaarde, bedoeld in het eerste lid, onderdeel b, geldt niet voor een krachtens publiekrecht ingestelde rechtspersoon.
 
@@ -156,7 +156,7 @@ Een vergunning is niet overdraagbaar.
 
 - d. een bepaald gebied.
 
-2. Indien de organisatie van de aanvrager niet voldoet aan [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022429&hoofdstuk=3&paragraaf=2&artikel=17&z=2007-10-17&g=2007-10-17), maar de verwachting bestaat dat dit binnen afzienbare termijn het geval zal zijn, verleent Onze minister een tijdelijke vergunning.
+2. Indien de organisatie van de aanvrager niet voldoet aan [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022429&hoofdstuk=3&paragraaf=2&artikel=17&z=2008-01-01&g=2008-01-01), maar de verwachting bestaat dat dit binnen afzienbare termijn het geval zal zijn, verleent Onze minister een tijdelijke vergunning.
 
 ##### Artikel 20
 
@@ -209,5 +209,107 @@ De hoofdstukken van dit besluit treden in werking op een bij koninklijk besluit 
 ##### Artikel 29
 
 Dit besluit wordt aangehaald als: Besluit archeologische monumentenzorg.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+#### § 1. Berekening van de drempelbijdrage
+
+##### Artikel 2
+
+1. De drempelbijdrage bestaat uit het inwoneraantal van de betreffende gemeente of provincie vermenigvuldigd met een door Onze minister vast te stellen bedrag.
+
+2. Voor de berekening van de drempelbijdrage is bepalend het inwoneraantal van de gemeente of provincie op 1 januari van het jaar waarin de aanvraag is ingediend.
+
+#### § 2. Aanvraag
+
+##### Artikel 3
+
+De aanvraag gaat vergezeld van:
+
+- a. het besluit waarbij de verplichting tot het doen van de betreffende opgravingen is opgelegd,
+
+- b. het besluit, bedoeld in de [artikelen 42 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004471&artikel=42), [26 van de Ontgrondingenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002505&artikel=26) of [15.20 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=15.20), en het verzoek dat aan dat besluit ten grondslag ligt,
+
+- c. een overzicht van de totale kosten van het doen van de betreffende opgravingen, en
+
+- d. het programma van eisen met betrekking tot het doen van de betreffende opgravingen.
+
+##### Artikel 4
+
+1. Onze minister stelt jaarlijks vast tot welk bedrag ten hoogste verplichtingen kunnen worden aangegaan voor het verstrekken van specifieke uitkeringen.
+
+2. Onze minister verleent specifieke uitkeringen in de volgorde van ontvangst van de aanvragen.
+
+##### Artikel 5
+
+Onze minister kan een specifieke uitkering verlenen voor de excessieve kosten.
+
+##### Artikel 6
+
+Onze minister kan het verstoordersdeel anders vaststellen dan de aanvrager, indien hij van oordeel is dat de aanvrager niet in redelijkheid het desbetreffende bedrag heeft kunnen vaststellen.
+
+##### Artikel 7
+
+Het besluit tot verlening vermeldt in ieder geval het bedrag van de te verlenen specifieke uitkering dat ten hoogste zal worden verleend.
+
+##### Artikel 8
+
+Onze minister kan voorschotten verlenen.
+
+##### Artikel 9
+
+[Artikel 4:34, eerste, derde en vijfde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:34) is van overeenkomstige toepassing.
+
+#### § 5. Weigering van de specifieke uitkering
+
+##### Artikel 10
+
+1. Onze minister kan een specifieke uitkering weigeren geheel of gedeeltelijk te verlenen:
+
+- a. indien de op te graven monumenten uit een oogpunt van cultuurbehoud onvoldoende esthetische, cultuurhistorische of wetenschappelijke waarde hebben, of
+
+- b. indien het doen van de betreffende opgravingen kennelijk niet in overeenstemming is met het beleid van Onze minister op het terrein van het behoud van monumenten.
+
+2. Onze minister weigert een specifieke uitkering voor zover het uitkeringsplafond, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022429&hoofdstuk=2&paragraaf=3&artikel=4&z=2008-01-01&g=2008-01-01), voor het desbetreffende jaar door verlening van die specifieke uitkering zou worden overschreden.
+
+##### Artikel 11
+
+Aanvragen die op grond van [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022429&hoofdstuk=2&paragraaf=5&artikel=10&z=2008-01-01&g=2008-01-01), zijn geweigerd, komen in de volgorde van ontvangst in een volgend jaar opnieuw in aanmerking voor verlening van een specifieke uitkering.
+
+#### § 6. Verplichtingen verbonden aan de specifieke uitkering
+
+##### Artikel 12
+
+De ontvanger van een specifieke uitkering doet zo spoedig mogelijk schriftelijk mededeling aan Onze minister van omstandigheden die van belang kunnen zijn voor een beslissing tot wijziging of intrekking van een specifieke uitkering. Daarbij worden de relevante stukken overgelegd.
+
+#### § 7. Verantwoording over de specifieke uitkering
+
+##### Artikel 13
+
+Voor zover niet uit de jaarrekening van de gemeente of provincie over het jaar waarin het doen van opgravingen is afgerond, alsmede uit de accountantsverklaring en het verslag van bevindingen, behorend bij die jaarrekening krachtens [artikel 213 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=213) of [artikel 217 van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=217), blijkt dat een specifieke uitkering rechtmatig is besteed, kan het bedrag waarvan de rechtmatige besteding niet vaststaat, worden teruggevorderd.
+
+#### § 8. Vaststelling van de specifieke uitkering
+
+##### Artikel 14
+
+1. Binnen vier maanden na ontvangst van de jaarrekening, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0022429&hoofdstuk=2&paragraaf=7&artikel=13&z=2008-01-01&g=2008-01-01), geeft Onze minister een beschikking tot vaststelling van de specifieke uitkering.
+
+2. De [artikelen 4:46](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:46), [4:49](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:49), [4:52](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:52), [4:56](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:56) en [4:57 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:57) zijn van overeenkomstige toepassing op het eerste lid.
+
+### Hoofdstuk 3. Archeologische opgravingsvergunning
+
+#### § 1. Algemene bepalingen
+
+#### § 2. Vergunningverlening
+
+#### § 3. Vergunningaanvraag
+
+#### § 4. Beperkingen
+
+#### § 5. Voorschriften
+
+### Hoofdstuk 4. Wijzigingen van andere algmene maatregelen van bestuur
+
+### Hoofdstuk 5. Slotbepalingen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
