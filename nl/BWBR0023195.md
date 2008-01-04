@@ -4,7 +4,7 @@ identifier: "BWBR0023195"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2011-06-01"
-last_updated: "2008-01-01"
+last_updated: "2008-01-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023195"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ In deze regeling wordt verstaan onder:
 
 - b. ministerie: Ministerie van Onderwijs, Cultuur en Wetenschap;
 
-- c. commissie: commissie als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0023195&artikel=6&z=2008-01-04&g=2008-01-01) van deze regeling;
+- c. commissie: commissie als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0023195&artikel=6&z=2008-01-04&g=2008-01-04) van deze regeling;
 
 - d. bezwaar: bezwaar als bedoeld in [artikel 7:1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:1);
 
@@ -82,7 +82,7 @@ De organisatie van de behandeling van de bezwaarschriften berust bij CFI.
 
 ##### Artikel 6
 
-In bijzondere gevallen kan de hoofddirecteur van CFI bepalen dat een bezwaarschrift in afwijking van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023195&artikel=5&z=2008-01-04&g=2008-01-01), aan een Commissie voor bezwaarschriften wordt voorgelegd, die tot taak heeft het horen van belanghebbenden en het adviseren van de minister over de te nemen beslissing op het bezwaar.
+In bijzondere gevallen kan de hoofddirecteur van CFI bepalen dat een bezwaarschrift in afwijking van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023195&artikel=5&z=2008-01-04&g=2008-01-04), aan een Commissie voor bezwaarschriften wordt voorgelegd, die tot taak heeft het horen van belanghebbenden en het adviseren van de minister over de te nemen beslissing op het bezwaar.
 
 ##### Artikel 7
 
@@ -112,7 +112,7 @@ In bijzondere gevallen kan de hoofddirecteur van CFI bepalen dat een bezwaarschr
 
 ##### Artikel 9
 
-Bezwaarschriften waarbij aan bezwaarde kenbaar is gemaakt dat hij zal worden gehoord door een commissie, worden behandeld overeenkomstig [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0023195&artikel=6&z=2008-01-04&g=2008-01-01) van deze regeling.
+Bezwaarschriften waarbij aan bezwaarde kenbaar is gemaakt dat hij zal worden gehoord door een commissie, worden behandeld overeenkomstig [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0023195&artikel=6&z=2008-01-04&g=2008-01-04) van deze regeling.
 
 ##### Artikel 10
 
