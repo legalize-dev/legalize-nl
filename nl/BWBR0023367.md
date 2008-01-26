@@ -4,7 +4,7 @@ identifier: "BWBR0023367"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2008-01-26"
-last_updated: "2008-01-01"
+last_updated: "2008-01-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023367"
 soort: "ministeriele-regeling"
@@ -56,7 +56,7 @@ Bij de voortgezette toepassing, met ingang van 1 januari 2008, van de [Tijdelijk
 
 ##### Artikel II
 
-Dit onderdeel is nog niet inwerking getreden
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt, met uitzondering van [artikel I, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0023367&artikel=I&z=2008-01-26&g=2008-01-26), terug tot en met 1 januari 2008.
 
 Gelet op [artikel 17, vijfde lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17);
 
