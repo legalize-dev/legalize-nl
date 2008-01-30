@@ -4,7 +4,7 @@ identifier: "BWBR0012791"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-07-01"
-last_updated: "2008-01-01"
+last_updated: "2008-01-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012791"
 soort: "AMvB"
@@ -58,7 +58,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - b. een DNA-onderzoek: een onderzoek als bedoeld in [artikel 151a, eerste lid, eerste volzin, of vierde lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=151a), [151b, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=151b), [195a, eerste lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=195a), [195b, eerste lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=195b), of [195d, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=195d) dan wel [artikel 2, derde lid, van de Wet DNA-onderzoek bij veroordeelden](https://wetten.overheid.nl/jci1.3:c:BWBR0017212&artikel=2);
 
-- c. de DNA-databank: de DNA-databank voor strafzaken, bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&paragraaf=4&artikel=14&z=2008-01-01&g=2008-01-01);
+- c. de DNA-databank: de DNA-databank voor strafzaken, bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&paragraaf=4&artikel=14&z=2008-01-30&g=2008-01-30);
 
 - d. Onze Minister: Onze Minister van Justitie;
 
@@ -96,7 +96,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 1. Het afnemen van wangslijmvlies, bloed of haarwortels ten behoeve van een DNA-onderzoek bij een verdachte ingevolge een bevel als bedoeld in [artikel 151b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=151b), of [artikel 195d, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=195d) dan wel een veroordeelde ingevolge een bevel als bedoeld in [artikel 2, eerste lid, van de Wet DNA-onderzoek bij veroordeelden](https://wetten.overheid.nl/jci1.3:c:BWBR0017212&artikel=2) geschiedt:
 
-- a. op de wijze als omschreven in [artikel 2, vierde tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&paragraaf=2&artikel=2&z=2008-01-01&g=2008-01-01), en
+- a. op de wijze als omschreven in [artikel 2, vierde tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&paragraaf=2&artikel=2&z=2008-01-30&g=2008-01-30), en
 
 - b. met de hulpmiddelen die bij ministeriële regeling zijn voorgeschreven.
 
@@ -104,25 +104,25 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 3. Het afnemen van wangslijmvlies of haarwortels bij een veroordeelde ingevolge een bevel als bedoeld in [artikel 2, eerste lid, van de Wet DNA-onderzoek bij veroordeelden](https://wetten.overheid.nl/jci1.3:c:BWBR0017212&artikel=2) kan, ingeval de veroordeelde daartegen geen bezwaar maakt, geschieden door een daartoe door de officier van justitie aangewezen opsporingsambtenaar of een daartoe door de directeur van de inrichting of instelling aangewezen persoon als bedoeld in [artikel 1, onder f, van de Penitentiaire beginselenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=1), [artikel 1, onder k, van de Beginselenwet verpleging ter beschikking gestelden](https://wetten.overheid.nl/jci1.3:c:BWBR0008765&artikel=1) of [artikel 1, onder i, van de Beginselenwet justitiële jeugdinrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=1) die voldoet aan bij ministeriële regeling vastgestelde eisen.
 
-4. [Artikel 2, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&paragraaf=2&artikel=2&z=2008-01-01&g=2008-01-01), is van overeenkomstige toepassing.
+4. [Artikel 2, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&paragraaf=2&artikel=2&z=2008-01-30&g=2008-01-30), is van overeenkomstige toepassing.
 
 ##### Artikel 4
 
 1. Bij het afnemen van wangslijmvlies, bloed of haarwortels is een opsporingsambtenaar dan wel een persoon als bedoeld in [artikel 1, onder f, van de Penitentiaire beginselenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=1), [artikel 1, onder k, van de Beginselenwet verpleging ter beschikking gestelden](https://wetten.overheid.nl/jci1.3:c:BWBR0008765&artikel=1) of [artikel 1, onder i, van de Beginselenwet justitiële jeugdinrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=1), voorzover het afnemen van het celmateriaal plaatsvindt bij een veroordeelde en hij in een inrichting als bedoeld in [artikel 1, onder b, van de Penitentiaire beginselenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=1), [artikel 1, onder d, van de Beginselenwet verpleging ter beschikking gestelden](https://wetten.overheid.nl/jci1.3:c:BWBR0008765&artikel=1) of [artikel 1, onder b, van de Beginselenwet justitiële jeugdinrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=1) verblijft of vanuit de inrichting vrijheden geniet, aanwezig die:
 
-- a. daarvan proces-verbaal opmaakt of een verklaring, indien bij het afnemen van het celmateriaal een persoon aanwezig is die geen opsporingsambtenaar is, dat hij voorziet van een identiteitszegel waarop hij de naam, de geboortedatum en -plaats en het geboorteland van de persoon van wie het celmateriaal is afgenomen aanbrengt of, indien deze gegevens onbekend zijn, andere gegevens waarmee de identiteit van deze persoon kan worden vastgesteld en waarin hij vermeldt dat, indien het celmateriaal bij een veroordeelde ingevolge [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&paragraaf=2&artikel=3&z=2008-01-01&g=2008-01-01), is afgenomen door een ander persoon dan een arts of een verpleegkundige, de veroordeelde daartegen geen bezwaar heeft gemaakt,
+- a. daarvan proces-verbaal opmaakt of een verklaring, indien bij het afnemen van het celmateriaal een persoon aanwezig is die geen opsporingsambtenaar is, dat hij voorziet van een identiteitszegel waarop hij de naam, de geboortedatum en -plaats en het geboorteland van de persoon van wie het celmateriaal is afgenomen aanbrengt of, indien deze gegevens onbekend zijn, andere gegevens waarmee de identiteit van deze persoon kan worden vastgesteld en waarin hij vermeldt dat, indien het celmateriaal bij een veroordeelde ingevolge [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&paragraaf=2&artikel=3&z=2008-01-30&g=2008-01-30), is afgenomen door een ander persoon dan een arts of een verpleegkundige, de veroordeelde daartegen geen bezwaar heeft gemaakt,
 
 - b. de verpakking waarin het van de persoon afgenomen celmateriaal is gebracht, van een identiteitszegel voorziet dat gelijk is aan het identiteitszegel, bedoeld onder a, en
 
 - c. ervoor zorgt dat het celmateriaal, bedoeld onder b, zo spoedig mogelijk in een verpakking die hij heeft voorzien van een of meer sluitzegels, bij het instituut wordt bezorgd.
 
-2. De opsporingsambtenaar die het proces-verbaal opmaakt, of de persoon die de verklaring opmaakt, bedoeld in het eerste lid, is een ander persoon dan de persoon die ingevolge [artikel 2, zevende lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&paragraaf=2&artikel=2&z=2008-01-01&g=2008-01-01), of [artikel 3, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&paragraaf=2&artikel=3&z=2008-01-01&g=2008-01-01), wangslijmvlies of haarwortels afneemt.
+2. De opsporingsambtenaar die het proces-verbaal opmaakt, of de persoon die de verklaring opmaakt, bedoeld in het eerste lid, is een ander persoon dan de persoon die ingevolge [artikel 2, zevende lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&paragraaf=2&artikel=2&z=2008-01-30&g=2008-01-30), of [artikel 3, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&paragraaf=2&artikel=3&z=2008-01-30&g=2008-01-30), wangslijmvlies of haarwortels afneemt.
 
 3. Bij ministeriële regeling worden nadere regels gesteld inzake het identiteitszegel en de sluitzegels, bedoeld in het eerste lid.
 
 ##### Artikel 5
 
-1. De opsporingsambtenaar voorziet de verpakking van een in beslag genomen voorwerp waarop mogelijkerwijs celmateriaal aanwezig is, dan wel van celmateriaal dat niet is afgenomen op de wijze als voorzien in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&paragraaf=2&artikel=2&z=2008-01-01&g=2008-01-01) of [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&paragraaf=2&artikel=3&z=2008-01-01&g=2008-01-01), van een identiteitszegel zodra het voorwerp of celmateriaal in beslag is genomen dan wel zo spoedig mogelijk daarna.
+1. De opsporingsambtenaar voorziet de verpakking van een in beslag genomen voorwerp waarop mogelijkerwijs celmateriaal aanwezig is, dan wel van celmateriaal dat niet is afgenomen op de wijze als voorzien in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&paragraaf=2&artikel=2&z=2008-01-30&g=2008-01-30) of [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&paragraaf=2&artikel=3&z=2008-01-30&g=2008-01-30), van een identiteitszegel zodra het voorwerp of celmateriaal in beslag is genomen dan wel zo spoedig mogelijk daarna.
 
 2. De opsporingsambtenaar voorziet het proces-verbaal van de inbeslagneming van het voorwerp of het celmateriaal, bedoeld in het eerste lid, van een identiteitszegel dat gelijk is aan het identiteitszegel, bedoeld in het eerste lid. Indien het te onderzoeken celmateriaal van een bekende verdachte is, vermeldt hij in het proces-verbaal diens naam en geboortedatum, -plaats en -land of, indien deze onbekend zijn, andere gegevens waarmee diens identiteit kan worden vastgesteld.
 
@@ -130,15 +130,15 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 4. Voorzover een voorwerp waarop vermoedelijk celmateriaal van de veroordeelde aanwezig is, in beslag is genomen, verricht de functionaris, bedoeld in [artikel 1, onder d, van de Penitentiaire beginselenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=1), [artikel 1, onder g, van de Beginselenwet verpleging ter beschikking gestelden](https://wetten.overheid.nl/jci1.3:c:BWBR0008765&artikel=1) of [artikel 1, onder h, van de Beginselenwet justitiële jeugdinrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=1), de handelingen, bedoeld in het eerste, tweede en derde lid.
 
-5. [Artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&paragraaf=2&artikel=4&z=2008-01-01&g=2008-01-01), is van overeenkomstige toepassing.
+5. [Artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&paragraaf=2&artikel=4&z=2008-01-30&g=2008-01-30), is van overeenkomstige toepassing.
 
 ##### Artikel 6
 
-1. Het instituut legt inzake het celmateriaal, bedoeld in de [artikelen 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&paragraaf=2&artikel=2&z=2008-01-01&g=2008-01-01), [3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&paragraaf=2&artikel=3&z=2008-01-01&g=2008-01-01), en [5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&paragraaf=2&artikel=5&z=2008-01-01&g=2008-01-01), alsmede inzake het voorwerp, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&paragraaf=2&artikel=5&z=2008-01-01&g=2008-01-01), in een centraal register de volgende gegevens vast:
+1. Het instituut legt inzake het celmateriaal, bedoeld in de [artikelen 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&paragraaf=2&artikel=2&z=2008-01-30&g=2008-01-30), [3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&paragraaf=2&artikel=3&z=2008-01-30&g=2008-01-30), en [5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&paragraaf=2&artikel=5&z=2008-01-30&g=2008-01-30), alsmede inzake het voorwerp, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&paragraaf=2&artikel=5&z=2008-01-30&g=2008-01-30), in een centraal register de volgende gegevens vast:
 
 - a. de datum waarop het is ontvangen,
 
-- b. het nummer van het identiteitszegel, bedoeld in de [artikelen 4, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&paragraaf=2&artikel=4&z=2008-01-01&g=2008-01-01), en [5, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&paragraaf=2&artikel=5&z=2008-01-01&g=2008-01-01), alsmede het proces-verbaalnummer van de strafzaak waarin het celmateriaal is afgenomen en het parketnummer,
+- b. het nummer van het identiteitszegel, bedoeld in de [artikelen 4, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&paragraaf=2&artikel=4&z=2008-01-30&g=2008-01-30), en [5, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&paragraaf=2&artikel=5&z=2008-01-30&g=2008-01-30), alsmede het proces-verbaalnummer van de strafzaak waarin het celmateriaal is afgenomen en het parketnummer,
 
 - c. een aanduiding van het misdrijf in verband waarmee het DNA-onderzoek wordt verricht alsmede van de maximale gevangenisstraf die op dat misdrijf is gesteld,
 
@@ -150,7 +150,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 2. Voorts worden inzake het celmateriaal gegevens vastgelegd die van belang zijn in verband met het tijdstip waarop het bijbehorende DNA-profiel uit de DNA-databank dient te worden verwijderd. Het openbaar ministerie stelt het instituut daartoe in kennis van veroordelingen die in kracht van gewijsde zijn gegaan in zaken waarin DNA-onderzoek heeft plaatsgevonden.
 
-3. Ten aanzien van het celmateriaal van een veroordeelde of een persoon als bedoeld in [artikel 14, vierde lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&paragraaf=4&artikel=14&z=2008-01-01&g=2008-01-01), is het eerste lid, onder b, voorzover dit betrekking heeft op het proces-verbaalnummer van de strafzaak waarin het celmateriaal is afgenomen en het parketnummer, niet van toepassing.
+3. Ten aanzien van het celmateriaal van een veroordeelde of een persoon als bedoeld in [artikel 14, vierde lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&paragraaf=4&artikel=14&z=2008-01-30&g=2008-01-30), is het eerste lid, onder b, voorzover dit betrekking heeft op het proces-verbaalnummer van de strafzaak waarin het celmateriaal is afgenomen en het parketnummer, niet van toepassing.
 
 4. Onze Minister is voor het centrale register, bedoeld in het eerste lid, verantwoordelijk.
 
@@ -198,7 +198,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - a. ingeval het een DNA-onderzoek betreft aan celmateriaal van een bekende persoon, de naam, de geboortedatum en -plaats en het geboorteland van deze persoon of, indien deze gegevens onbekend zijn, andere gegevens waarmee zijn identiteit kan worden vastgesteld,
 
-- b. het nummer van het identiteitszegel dan wel het etiket, bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&paragraaf=3&artikel=8&z=2008-01-01&g=2008-01-01),
+- b. het nummer van het identiteitszegel dan wel het etiket, bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&paragraaf=3&artikel=8&z=2008-01-30&g=2008-01-30),
 
 - c. de methode met behulp waarvan het DNA-profiel is verkregen, en
 
@@ -214,19 +214,19 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 4. De directeur van het instituut meldt de officier van justitie onderscheidenlijk de rechter-commissaris zo spoedig mogelijk of:
 
-- a. het DNA-profiel dat is verkregen uit het celmateriaal van een bekende persoon overeenkomt met het DNA-profiel dat in verband met hetzelfde strafbare feit is verkregen uit het celmateriaal, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&paragraaf=2&artikel=5&z=2008-01-01&g=2008-01-01), dat toebehoort aan een onbekende verdachte, dan wel overeenkomt met een ander DNA-profiel dat is vastgelegd in de DNA-databank of
+- a. het DNA-profiel dat is verkregen uit het celmateriaal van een bekende persoon overeenkomt met het DNA-profiel dat in verband met hetzelfde strafbare feit is verkregen uit het celmateriaal, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&paragraaf=2&artikel=5&z=2008-01-30&g=2008-01-30), dat toebehoort aan een onbekende verdachte, dan wel overeenkomt met een ander DNA-profiel dat is vastgelegd in de DNA-databank of
 
-- b. het DNA-profiel dat is verkregen uit het celmateriaal, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&paragraaf=2&artikel=5&z=2008-01-01&g=2008-01-01), van een onbekende persoon, overeenkomt met een DNA-profiel dat is vastgelegd in de DNA-databank.
+- b. het DNA-profiel dat is verkregen uit het celmateriaal, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&paragraaf=2&artikel=5&z=2008-01-30&g=2008-01-30), van een onbekende persoon, overeenkomt met een DNA-profiel dat is vastgelegd in de DNA-databank.
 
 5. In geval van [artikel 2, vierde lid, van de Wet DNA-onderzoek bij veroordeelden](https://wetten.overheid.nl/jci1.3:c:BWBR0017212&artikel=2) geeft de officier van justitie de functionaris, bedoeld in [artikel 1, onder d, van de Penitentiaire beginselenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=1), [artikel 1, onder g, van de Beginselenwet verpleging ter beschikking gestelden](https://wetten.overheid.nl/jci1.3:c:BWBR0008765&artikel=1) of [artikel 1, onder h, van de Beginselenwet justitiële jeugdinrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=1) schriftelijk kennis van de uitslag van het DNA-onderzoek.
 
-6. De officier van justitie geeft een persoon als bedoeld in [artikel 14, vierde lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&paragraaf=4&artikel=14&z=2008-01-01&g=2008-01-01), schriftelijk kennis van de uitslag van het DNA-onderzoek indien zijn DNA-profiel overeenkomt met een ander verwerkt DNA-profiel en het belang van het onderzoek dat toelaat.
+6. De officier van justitie geeft een persoon als bedoeld in [artikel 14, vierde lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&paragraaf=4&artikel=14&z=2008-01-30&g=2008-01-30), schriftelijk kennis van de uitslag van het DNA-onderzoek indien zijn DNA-profiel overeenkomt met een ander verwerkt DNA-profiel en het belang van het onderzoek dat toelaat.
 
 ##### Artikel 11
 
 1. De deskundige zendt zo spoedig mogelijk na het verrichten van het DNA-onderzoek het overgebleven celmateriaal in een verpakking die is voorzien van een sluitzegel, naar het instituut, tenzij hij is verbonden aan het laboratorium van het instituut.
 
-2. [Artikel 8, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&paragraaf=3&artikel=8&z=2008-01-01&g=2008-01-01), is van overeenkomstige toepassing.
+2. [Artikel 8, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&paragraaf=3&artikel=8&z=2008-01-30&g=2008-01-30), is van overeenkomstige toepassing.
 
 ##### Artikel 12
 
@@ -240,11 +240,11 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 1. Het instituut bewaart na afloop van een DNA-onderzoek zoveel celmateriaal als noodzakelijk is met het oog op een DNA-onderzoek als bedoeld in [artikel 151a, vierde lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=151a), of [artikel 195b, eerste lid, eerste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=195b) dan wel met het oog op het opnieuw bepalen van het bijbehorende, in de DNA-databank vastgelegde DNA-profiel.
 
-2. In afwijking van het eerste lid vernietigt het instituut het celmateriaal van een derde terstond indien is vastgesteld dat het bijbehorende DNA-profiel niet overeenkomt met het DNA-profiel dat in verband met hetzelfde strafbare feit is verkregen uit het celmateriaal, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&paragraaf=2&artikel=5&z=2008-01-01&g=2008-01-01), van een onbekende persoon.
+2. In afwijking van het eerste lid vernietigt het instituut het celmateriaal van een derde terstond indien is vastgesteld dat het bijbehorende DNA-profiel niet overeenkomt met het DNA-profiel dat in verband met hetzelfde strafbare feit is verkregen uit het celmateriaal, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&paragraaf=2&artikel=5&z=2008-01-30&g=2008-01-30), van een onbekende persoon.
 
 3. Het eerste lid is van overeenkomstige toepassing op het celmateriaal van een overleden slachtoffer van een strafbaar feit, met dien verstande dat het instituut diens celmateriaal bewaart met het oog op het opsporen en vervolgen van de dader van het strafbare feit als gevolg waarvan het slachtoffer is overleden of waarbij het slachtoffer was betrokken.
 
-4. Met het celmateriaal, bedoeld in het tweede lid, vernietigt het instituut tevens het DNA-profiel dat uit het celmateriaal is verkregen, de gegevens, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&paragraaf=2&artikel=6&z=2008-01-01&g=2008-01-01), alsmede het afschrift van het verslag, bedoeld in [artikel 10, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&paragraaf=3&artikel=10&z=2008-01-01&g=2008-01-01).
+4. Met het celmateriaal, bedoeld in het tweede lid, vernietigt het instituut tevens het DNA-profiel dat uit het celmateriaal is verkregen, de gegevens, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&paragraaf=2&artikel=6&z=2008-01-30&g=2008-01-30), alsmede het afschrift van het verslag, bedoeld in [artikel 10, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&paragraaf=3&artikel=10&z=2008-01-30&g=2008-01-30).
 
 5. Het instituut houdt aantekening van iedere vernietiging ingevolge het eerste tot en met vierde lid.
 
@@ -256,11 +256,11 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 3. De directeur van het instituut voert het beheer van de DNA-databank.
 
-4. Het instituut legt in de DNA-databank het nummer van het identiteitszegel, bedoeld in [artikel 6, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&paragraaf=2&artikel=6&z=2008-01-01&g=2008-01-01), vast, alsmede
+4. Het instituut legt in de DNA-databank het nummer van het identiteitszegel, bedoeld in [artikel 6, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&paragraaf=2&artikel=6&z=2008-01-30&g=2008-01-30), vast, alsmede
 
 - a. het bijbehorende DNA-profiel van overleden slachtoffers van misdrijven als omschreven in [artikel 67, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=67),
 
-- b. het bijbehorende DNA-profiel dat is verkregen uit het celmateriaal, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&paragraaf=2&artikel=5&z=2008-01-01&g=2008-01-01), van onbekende personen,
+- b. het bijbehorende DNA-profiel dat is verkregen uit het celmateriaal, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&paragraaf=2&artikel=5&z=2008-01-30&g=2008-01-30), van onbekende personen,
 
 - c. het bijbehorende DNA-profiel van verdachten ter zake van misdrijven als omschreven in [artikel 67, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=67),
 
@@ -274,9 +274,15 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 15
 
-1. Het gebruik van gegevens uit de DNA-databank en het centrale register, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&paragraaf=2&artikel=6&z=2008-01-01&g=2008-01-01), door binnen het instituut werkzame ambtenaren vindt slechts plaats voorzover zij deze nodig hebben voor een goede vervulling van de aan hen door Onze Minister opgedragen taak.
+1. Rechtstreekse toegang tot de DNA-databank hebben:
 
-2. Het instituut verstrekt slechts gegevens uit de DNA-databank en het centrale register, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&paragraaf=2&artikel=6&z=2008-01-01&g=2008-01-01), aan:
+- a. de ambtenaren die werkzaam zijn binnen het instituut, voorzover zij deze nodig hebben voor een goede vervulling van de aan hen door Onze Minister opgedragen taak, en
+
+- b. de medewerkers van een nationaal contactpunt als bedoeld in artikel 6, eerste lid, van het op 27 mei 2005 te Prüm totstandgekomen Verdrag tussen het Koninkrijk België, de Bondsrepubliek Duitsland, het Koninkrijk Spanje, de Republiek Frankrijk, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden en de Republiek Oostenrijk inzake de intensivering van de grensoverschrijdende samenwerking, in het bijzonder ter bestrijding van het terrorisme, de grensoverschrijdende criminaliteit en de illegale migratie (Trb. 2005, 197), voorzover zij deze nodig hebben ter uitvoering van de artikelen 3, eerste lid, en 4, eerste lid, van dat verdrag.
+
+De binnen het instituut werkzame ambtenaren hebben tevens rechtstreekse toegang tot het centrale register, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&paragraaf=2&artikel=6&z=2008-01-30&g=2008-01-30), voorzover zij deze nodig hebben voor een goede vervulling van de aan hen door Onze Minister opgedragen taak.
+
+2. Het instituut verstrekt slechts gegevens uit de DNA-databank en het centrale register, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&paragraaf=2&artikel=6&z=2008-01-30&g=2008-01-30), aan:
 
 - a. de met vervolging belaste leden van de rechterlijke macht, voorzover zij deze nodig hebben voor de toepassing van het strafrecht, daarin begrepen de uitvoering van een verzoek om rechtshulp als bedoeld in [artikel 552h van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552h), of voor de uitvoering van de [Wet DNA-onderzoek bij veroordeelden](https://wetten.overheid.nl/jci1.3:c:BWBR0017212),
 
@@ -306,7 +312,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 8. De Justitiële Informatiedienst kan medewerkers van de arrondissementsparketten en van de rechtbanken en ambtenaren van politie en militairen van de Koninklijke marechaussee, bedoeld in het tweede lid, onder c, rechtstreeks langs geautomatiseerde weg toegang verschaffen tot de gegevens, bedoeld in het vijfde lid, indien het deze functionarissen daartoe gemachtigd heeft. Bij iedere verstrekking wordt aantekening gehouden van de datum van de verstrekking en de identiteit van de gemachtigde functionaris.
 
-9. Zodra zich een omstandigheid als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&paragraaf=4&artikel=16&z=2008-01-01&g=2008-01-01) of [18](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&paragraaf=4&artikel=18&z=2008-01-01&g=2008-01-01) voordoet op grond waarvan het instituut een DNA-profiel dat in de DNA-databank is vastgelegd, dient te vernietigen, stelt het instituut het Korps landelijke politiediensten en de Justitiële Informatiedienst daarvan in kennis. Terstond nadat het Korps landelijke politiediensten en de Justitiële Informatiedienst deze kennisgeving hebben ontvangen, vernietigen zij de gegevens die bij hen over dat profiel zijn vastgelegd.
+9. Zodra zich een omstandigheid als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&paragraaf=4&artikel=16&z=2008-01-30&g=2008-01-30) of [18](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&paragraaf=4&artikel=18&z=2008-01-30&g=2008-01-30) voordoet op grond waarvan het instituut een DNA-profiel dat in de DNA-databank is vastgelegd, dient te vernietigen, stelt het instituut het Korps landelijke politiediensten en de Justitiële Informatiedienst daarvan in kennis. Terstond nadat het Korps landelijke politiediensten en de Justitiële Informatiedienst deze kennisgeving hebben ontvangen, vernietigen zij de gegevens die bij hen over dat profiel zijn vastgelegd.
 
 ##### Artikel 16
 
@@ -316,13 +322,13 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 17
 
-1. Terstond nadat het instituut een kennisgeving als bedoeld in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&paragraaf=4&artikel=16&z=2008-01-01&g=2008-01-01), heeft ontvangen, vernietigt het instituut het DNA-profiel van degene die niet langer kan worden aangemerkt als een verdachte ter zake van een misdrijf als omschreven in [artikel 67, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=67).
+1. Terstond nadat het instituut een kennisgeving als bedoeld in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&paragraaf=4&artikel=16&z=2008-01-30&g=2008-01-30), heeft ontvangen, vernietigt het instituut het DNA-profiel van degene die niet langer kan worden aangemerkt als een verdachte ter zake van een misdrijf als omschreven in [artikel 67, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=67).
 
-2. Het instituut vernietigt met het DNA-profiel, bedoeld in het eerste lid, tevens de daarbij behorende gegevens, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&paragraaf=2&artikel=6&z=2008-01-01&g=2008-01-01), het celmateriaal waaruit het DNA-profiel is verkregen, alsmede het afschrift van het verslag, bedoeld in [artikel 10, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&paragraaf=3&artikel=10&z=2008-01-01&g=2008-01-01).
+2. Het instituut vernietigt met het DNA-profiel, bedoeld in het eerste lid, tevens de daarbij behorende gegevens, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&paragraaf=2&artikel=6&z=2008-01-30&g=2008-01-30), het celmateriaal waaruit het DNA-profiel is verkregen, alsmede het afschrift van het verslag, bedoeld in [artikel 10, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&paragraaf=3&artikel=10&z=2008-01-30&g=2008-01-30).
 
 3. In afwijking van het eerste lid bewaart het instituut het DNA-profiel indien dat profiel in een andere zaak overeenkomt met het DNA-profiel van een onbekende persoon en degene wiens DNA-profiel het betreft, in die zaak als verdachte is aangemerkt ter zake van een misdrijf als omschreven in [artikel 67, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=67).
 
-4. [Artikel 13, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&paragraaf=4&artikel=13&z=2008-01-01&g=2008-01-01), is van overeenkomstige toepassing.
+4. [Artikel 13, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&paragraaf=4&artikel=13&z=2008-01-30&g=2008-01-30), is van overeenkomstige toepassing.
 
 ##### Artikel 18
 
@@ -332,7 +338,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 3. De termijn van dertig respectievelijk twintig jaar, genoemd in het eerste respectievelijk tweede lid, wordt op verzoek van het openbaar ministerie verlengd indien tegen de verdachte of veroordeelde wiens DNA-profiel in de DNA-databank is vastgelegd, een veroordeling wegens een ander misdrijf in kracht van gewijsde is gegaan als omschreven in [artikel 67, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=67). Vernietiging vindt in dat geval plaats uiterlijk twintig dan wel dertig jaar nadat deze veroordeling in kracht van gewijsde is gegaan, al naar gelang op het misdrijf naar de wettelijke omschrijving minder dan ten hoogste zes jaar dan wel ten hoogste zes jaar of meer gevangenisstraf is gesteld.
 
-4. Het instituut vernietigt het DNA-profiel van een persoon als bedoeld in [artikel 14, vierde lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&paragraaf=4&artikel=14&z=2008-01-01&g=2008-01-01), twintig jaar na vastlegging in de DNA-databank of zodra deze persoon het instuut heeft medegedeeld dat hij zijn toestemming tot het verwerken van zijn DNA-profiel heeft ingetrokken.
+4. Het instituut vernietigt het DNA-profiel van een persoon als bedoeld in [artikel 14, vierde lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&paragraaf=4&artikel=14&z=2008-01-30&g=2008-01-30), twintig jaar na vastlegging in de DNA-databank of zodra deze persoon het instuut heeft medegedeeld dat hij zijn toestemming tot het verwerken van zijn DNA-profiel heeft ingetrokken.
 
 5. Het instituut vernietigt het DNA-profiel van een overleden slachtoffer:
 
@@ -346,11 +352,11 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 8. De termijnen, genoemd in het vijfde lid, worden op verzoek van het openbaar ministerie met een bij dat verzoek aangegeven termijn verlengd, indien en voor zolang het recht tot strafvordering nog niet verjaard is.
 
-9. In afwijking van het zevende lid vernietigt het instituut het DNA-profiel van een onbekende persoon zodra is vastgesteld dat het DNA-profiel van een verdachte of veroordeelde overeenkomt met dat DNA-profiel, en het openbaar ministerie het instituut ervan in kennis heeft gesteld dat diens veroordeling in verband met dat strafbare feit in kracht van gewijsde is gegaan of zich een omstandigheid als bedoeld in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&paragraaf=4&artikel=16&z=2008-01-01&g=2008-01-01), heeft voorgedaan en er geen sprake is van een veroordeling die in kracht van gewijsde is gegaan. De eerste volzin is van overeenkomstige toepassing op het DNA-profiel van een overleden slachtoffer. Vernietiging van het DNA-profiel van de onbekende persoon of het overleden slachtoffer kan telkens tien jaar worden uitgesteld indien de verdachte of veroordeelde daartoe schriftelijk een verzoek heeft ingediend bij het openbaar ministerie. Het openbaar ministerie doet hem schriftelijk mededeling van de mogelijkheid een verzoek als bedoeld in de vorige zin in te dienen.
+9. In afwijking van het zevende lid vernietigt het instituut het DNA-profiel van een onbekende persoon zodra is vastgesteld dat het DNA-profiel van een verdachte of veroordeelde overeenkomt met dat DNA-profiel, en het openbaar ministerie het instituut ervan in kennis heeft gesteld dat diens veroordeling in verband met dat strafbare feit in kracht van gewijsde is gegaan of zich een omstandigheid als bedoeld in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&paragraaf=4&artikel=16&z=2008-01-30&g=2008-01-30), heeft voorgedaan en er geen sprake is van een veroordeling die in kracht van gewijsde is gegaan. De eerste volzin is van overeenkomstige toepassing op het DNA-profiel van een overleden slachtoffer. Vernietiging van het DNA-profiel van de onbekende persoon of het overleden slachtoffer kan telkens tien jaar worden uitgesteld indien de verdachte of veroordeelde daartoe schriftelijk een verzoek heeft ingediend bij het openbaar ministerie. Het openbaar ministerie doet hem schriftelijk mededeling van de mogelijkheid een verzoek als bedoeld in de vorige zin in te dienen.
 
-10. Het instituut vernietigt met het DNA-profiel, bedoeld in het eerste tot en met zevende lid en het negende lid, tevens de daarbij behorende gegevens, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&paragraaf=2&artikel=6&z=2008-01-01&g=2008-01-01), het celmateriaal waaruit het DNA-profiel is verkregen, alsmede het afschrift van het verslag, bedoeld in [artikel 10, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&paragraaf=3&artikel=10&z=2008-01-01&g=2008-01-01).
+10. Het instituut vernietigt met het DNA-profiel, bedoeld in het eerste tot en met zevende lid en het negende lid, tevens de daarbij behorende gegevens, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&paragraaf=2&artikel=6&z=2008-01-30&g=2008-01-30), het celmateriaal waaruit het DNA-profiel is verkregen, alsmede het afschrift van het verslag, bedoeld in [artikel 10, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&paragraaf=3&artikel=10&z=2008-01-30&g=2008-01-30).
 
-11. [Artikel 13, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&paragraaf=4&artikel=13&z=2008-01-01&g=2008-01-01), is van overeenkomstige toepassing.
+11. [Artikel 13, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&paragraaf=4&artikel=13&z=2008-01-30&g=2008-01-30), is van overeenkomstige toepassing.
 
 #### § 5. Slotbepalingen
 
