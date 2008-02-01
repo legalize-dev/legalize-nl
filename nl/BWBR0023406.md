@@ -4,7 +4,7 @@ identifier: "BWBR0023406"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2008-02-01"
-last_updated: "2008-01-01"
+last_updated: "2008-02-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023406"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ Aan de leden en voorzitters van een Nationaal Thematisch Netwerk als bedoeld in 
 
 ##### Artikel 2
 
-1. Aan de leden en voorzitters van een Nationaal Thematisch Netwerk, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0023406&artikel=1&z=2008-02-01&g=2008-01-01), wordt voor het bijwonen van een door een Nationaal Thematisch Netwerk georganiseerde bijeenkomst vacatiegeld toegekend op basis van het [Vacatiegeldenbesluit 1988](https://wetten.overheid.nl/jci1.3:c:BWBR0004317). De Nationaal Thematische Netwerken worden aangemerkt als een zware commissie in de zin van dat besluit. Vacatiegeld zal voor maximaal 15 bijeenkomsten per jaar worden toegekend.
+1. Aan de leden en voorzitters van een Nationaal Thematisch Netwerk, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0023406&artikel=1&z=2008-02-01&g=2008-02-01), wordt voor het bijwonen van een door een Nationaal Thematisch Netwerk georganiseerde bijeenkomst vacatiegeld toegekend op basis van het [Vacatiegeldenbesluit 1988](https://wetten.overheid.nl/jci1.3:c:BWBR0004317). De Nationaal Thematische Netwerken worden aangemerkt als een zware commissie in de zin van dat besluit. Vacatiegeld zal voor maximaal 15 bijeenkomsten per jaar worden toegekend.
 
 2. Twee of meer bijeenkomsten op dezelfde dag gelden als één bijeenkomst.
 
