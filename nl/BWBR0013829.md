@@ -4,7 +4,7 @@ identifier: "BWBR0013829"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-06-27"
-last_updated: "2002-07-18"
+last_updated: "2008-02-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013829"
 soort: "ministeriele-regeling"
@@ -42,7 +42,7 @@ Besluit:
 
 ##### Artikel 1
 
-Het model van de aankondiging van beschikking, bedoeld in [artikel 4, eerste lid, van de Wet administratiefrechtelijke handhaving verkeersvoorschriften](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&artikel=4), het formulier van de kennisgeving, bedoeld in [artikel 8, derde lid, van het Transactiebesluit 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006664&artikel=8) en het formulier van de oproeping van de verdachte, bedoeld in [artikel 388, eerste lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=388), worden vastgesteld overeenkomstig de bijlage bij deze regeling.
+Het model van de aankondiging van beschikking, bedoeld in [artikel 4, eerste lid, van de Wet administratiefrechtelijke handhaving verkeersvoorschriften](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&artikel=4), de aankondiging van de strafbeschikking, bedoeld in [artikel 257c, vierde lid van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=257c) en het formulier van de oproeping van de verdachte, bedoeld in [artikel 388, eerste lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=388), worden vastgesteld overeenkomstig de bijlage bij deze regeling.
 
 ##### Artikel 2
 
@@ -58,41 +58,33 @@ Het model van de aankondiging van beschikking, bedoeld in [artikel 4, eerste lid
 
 - e. een aanduiding van de plaats waar en de datum en tijdstip waarop de gedraging is geconstateerd.
 
-2. In de gevallen, bedoeld in [artikel 31, eerste en tweede lid, van de Wet administratiefrechtelijke handhaving verkeersvoorschriften](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&artikel=31), kan voor de beschikking gebruik worden gemaakt van de bijlage, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013829&artikel=1&z=2002-07-18&g=2002-07-18).
+2. In de gevallen, bedoeld in [artikel 31, eerste en tweede lid, van de Wet administratiefrechtelijke handhaving verkeersvoorschriften](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&artikel=31), kan voor de beschikking gebruik worden gemaakt van de bijlage, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013829&artikel=1&z=2008-02-01&g=2008-02-01).
 
 ##### Artikel 3
 
-1. Het papier van blad A1 van de bijlage, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013829&artikel=1&z=2002-07-18&g=2002-07-18), is wit.
+1. Het papier van blad A1 van de bijlage, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013829&artikel=1&z=2008-02-01&g=2008-02-01), is wit.
 
-2. Het papier van blad B1 van de bijlage, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013829&artikel=1&z=2002-07-18&g=2002-07-18), is geel.
+2. Het papier van blad B1 van de bijlage, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013829&artikel=1&z=2008-02-01&g=2008-02-01), is geel.
 
 3. De kleur van de tekst op de bladen, genoemd in het eerste en tweede lid, is zwart.
 
 ##### Artikel 4
 
-De tekst van de bijlage, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013829&artikel=1&z=2002-07-18&g=2002-07-18), kan qua terminologie worden aangepast indien dit noodzakelijk is in het kader van de handhaving van de bepalingen op het terrein van de lucht- en scheepvaartwetgeving.
+De tekst van de bijlage, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013829&artikel=1&z=2008-02-01&g=2008-02-01), kan qua terminologie worden aangepast indien dit noodzakelijk is in het kader van de handhaving van de bepalingen op het terrein van de lucht- en scheepvaartwetgeving.
 
 ##### Artikel 5
 
-1. Bij geautomatiseerde verbalisering kan van de bijlage, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013829&artikel=1&z=2002-07-18&g=2002-07-18), worden afgeweken.
+1. Bij geautomatiseerde verbalisering kan van de bijlage, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013829&artikel=1&z=2008-02-01&g=2008-02-01), worden afgeweken.
 
 2. Bij geautomatiseerde verbalisering wordt aan de betrokkene onderscheidenlijk de verdachte de informatie verstrekt zoals deze voor dat geval is voorgeschreven op blad A1.
 
 ##### Artikel 6
 
-Tot 1 augustus 2003 kunnen de voor het tijdstip van inwerkingtreding van deze regeling gebruikte formulieren nog worden gebruikt.
+Tot het tijdstip waarop [artikel II, onderdeel R, van de Wet OM-afdoening](https://wetten.overheid.nl/jci1.3:c:BWBR0020074&artikel=II) in werking treedt, worden de modellen en formulieren gebruikt zoals deze zijn vastgesteld voor het tijdstip waarop de [Regeling OM-afdoening](https://wetten.overheid.nl/jci1.3:c:BWBR0023365) in werking treedt.
 
 ##### Artikel 7
 
-De volgende regelingen worden ingetrokken:
-
-- a. de Vaststelling modellen oproepingsformulieren, 11 december 1974, nr. 869/874 (Stcrt. 1975, 4);
-
-- b. de Vaststelling nieuw formulier, 1 december 1995, nr. 528655/295 (Stcrt. 1995, 245);
-
-- c. de Vaststelling formulieren administratieve sanctie overtreding verkeersvoorschrift, 19 maart 1996,546654/296 (Stcrt. 1996, 64);
-
-- d. de Vaststelling modellen van beschikking, aankondiging van beschikking, oproeping en kennisgeving van bekeuring, 2 augustus 2001, nr. 5113140/50/EY (Stcrt. 2001, 162).
+Deze regeling wordt aangehaald als: Regeling modellen en formulieren ten behoeve van de handhaving Justitie.
 
 ##### Artikel 8
 
@@ -101,6 +93,10 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 ##### Artikel 9
 
 Deze regeling wordt aangehaald als: Regeling modellen en formulieren ten behoeve van verkeershandhaving Justitie.
+
+## Bijlage
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ## Bijlage
 
