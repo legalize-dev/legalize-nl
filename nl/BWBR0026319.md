@@ -4,7 +4,7 @@ identifier: "BWBR0026319"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2011-01-01"
-last_updated: "2008-01-01"
+last_updated: "2008-02-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026319"
 soort: "ministeriele-regeling"
@@ -42,7 +42,7 @@ Besluit:
 
 ##### Artikel I
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Besluit bezoldiging politie.
 
 ##### Artikel II
 
@@ -96,7 +96,7 @@ Wijzigt de Regeling bijzondere ontslaguitkering politie.
 
 ##### Artikel VIII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Tijdelijke regeling nachtdienstontheffing politie.
 
 ##### Artikel IX
 
