@@ -4,7 +4,7 @@ identifier: "BWBR0024149"
 country: "nl"
 rank: "wet"
 publication_date: "2009-01-01"
-last_updated: "2008-01-01"
+last_updated: "2008-02-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024149"
 soort: "wet"
@@ -128,7 +128,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXIII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de belasting van personenauto's en motorrijwielen 1992.
 
 ##### Artikel XXIV
 
