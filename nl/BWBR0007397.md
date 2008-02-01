@@ -4,7 +4,7 @@ identifier: "BWBR0007397"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-10-01"
-last_updated: "2007-12-21"
+last_updated: "2008-02-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007397"
 soort: "AMvB"
@@ -92,11 +92,7 @@ De commissie heeft tot taak Onze Minister met betrekking tot een in het buitenla
 
 ##### Artikel 4
 
-De commissie heeft voorts tot taak Onze Minister met betrekking tot de toepassing van [artikel 41, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=41), dan wel [artikel 45, eerste lid, onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=45) van advies te dienen over de vraag of de aanvrager van een EG-verklaring als bedoeld in de [Algemene wet erkenning EG-hoger-onderwijsdiploma's](https://wetten.overheid.nl/jci1.3:c:BWBR0006317) dan wel in de [Algemene wet erkenning EG-beroepsopleidingen](https://wetten.overheid.nl/jci1.3:c:BWBR0006781):
-
-- a. beroepservaring in de zin van [artikel 9 van eerstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006317&artikel=9) onderscheidenlijk [artikel 11 van laatstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006781&artikel=11) moet aantonen en zo ja van welke duur, dan wel
-
-- b. een proeve van bekwaamheid behoort af te leggen of een aanpassingsstage behoort te volgen in de zin van [artikel 10 van eerstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006317&artikel=10) onderscheidenlijk [artikel 12 van laatstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006781&artikel=12), met, voor zover het een proeve van bekwaamheid betreft, een aanduiding van de inhoud daarvan, en, voor zover het een aanpassingsstage betreft, een aanduiding van de duur daarvan.
+De commissie heeft voorts tot taak Onze Minister met betrekking tot de toepassing van [artikel 41, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=41), dan wel [artikel 45, eerste lid, onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=45) van advies te dienen over de vraag of voor de beoordeling van de aanvraag tot erkenning van beroepskwalificaties, bedoeld in de [Algemene wet erkenning EG-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066), een proeve van bekwaamheid dan wel een aanpassingsstage als bedoeld in de [Algemene wet erkenning EG-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066) vereist is. Indien dat het geval is, adviseert de commissie Onze Minister over de inhoud van de af te leggen proeve van bekwaamheid dan wel over de inhoud en de duur van de aanpassingsstage.
 
 ##### Artikel 5
 
@@ -108,7 +104,7 @@ Een advies van de commissie bevat de gronden waarop het berust.
 
 2. De commissie kan externe deskundigen raadplegen.
 
-3. De commissie beraadslaagt en brengt advies uit in de overeenkomstig [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007397&artikel=2&z=2006-03-29&g=2007-12-21), voor het desbetreffende beroep bedoelde samenstelling.
+3. De commissie beraadslaagt en brengt advies uit in de overeenkomstig [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007397&artikel=2&z=2008-02-01&g=2008-02-01), voor het desbetreffende beroep bedoelde samenstelling.
 
 ##### Artikel 7
 
@@ -134,9 +130,9 @@ Een advies van de commissie bevat de gronden waarop het berust.
 
 ##### Artikel 8
 
-1. Onverminderd [artikel 2 van het Registratiebesluit BIG](https://wetten.overheid.nl/jci1.3:c:BWBR0007648&artikel=2), verstrekt degene die in het bezit is van een door Onze Minister aangewezen getuigschrift als bedoeld in [artikel 41, eerste lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=41), bij zijn aanvrage om inschrijving in het desbetreffende register de bescheiden, bedoeld in [artikel 7, eerste lid, onder b en g](https://wetten.overheid.nl/jci1.3:c:BWBR0007397&artikel=7&z=2006-03-29&g=2007-12-21).
+1. Onverminderd [artikel 2 van het Registratiebesluit BIG](https://wetten.overheid.nl/jci1.3:c:BWBR0007648&artikel=2), verstrekt degene die in het bezit is van een door Onze Minister aangewezen getuigschrift als bedoeld in [artikel 41, eerste lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=41), bij zijn aanvrage om inschrijving in het desbetreffende register de bescheiden, bedoeld in [artikel 7, eerste lid, onder b en g](https://wetten.overheid.nl/jci1.3:c:BWBR0007397&artikel=7&z=2008-02-01&g=2008-02-01).
 
-2. Onverminderd [artikel 2 van het Registratiebesluit BIG](https://wetten.overheid.nl/jci1.3:c:BWBR0007648&artikel=2), verstrekt degene die in het bezit is van een verklaring als bedoeld in [artikel 41, eerste lid, onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=41), bij zijn aanvrage om inschrijving in het desbetreffende register het document, bedoeld in [artikel 7, eerste lid, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0007397&artikel=7&z=2006-03-29&g=2007-12-21).
+2. Onverminderd [artikel 2 van het Registratiebesluit BIG](https://wetten.overheid.nl/jci1.3:c:BWBR0007648&artikel=2), verstrekt degene die in het bezit is van een verklaring als bedoeld in [artikel 41, eerste lid, onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=41), bij zijn aanvrage om inschrijving in het desbetreffende register het document, bedoeld in [artikel 7, eerste lid, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0007397&artikel=7&z=2008-02-01&g=2008-02-01).
 
 ##### Artikel 9
 
@@ -154,7 +150,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 3a
 
-1. De commissie kan bepalen dat de buitenslands gediplomeerde die beschikt over een getuigschrift dat is afgegeven door de autoriteiten van een staat die is gelegen buiten het EER-gebied, een kennis- en vaardighedentoets dient af te leggen ten behoeve van het advies, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0007397&artikel=3&z=2006-03-29&g=2007-12-21).
+1. De commissie kan bepalen dat de buitenslands gediplomeerde die beschikt over een getuigschrift dat is afgegeven door de autoriteiten van een staat die is gelegen buiten het EER-gebied, een kennis- en vaardighedentoets dient af te leggen ten behoeve van het advies, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0007397&artikel=3&z=2008-02-01&g=2008-02-01).
 
 2. Onze Minister stelt per beroepsgroep een tarief vast voor de kennis- en vaardighedentoets.
 
