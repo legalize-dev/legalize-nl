@@ -4,7 +4,7 @@ identifier: "BWBR0005544"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-01-01"
-last_updated: "2005-10-01"
+last_updated: "2008-02-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005544"
 soort: "ministeriele-regeling"
@@ -133,21 +133,23 @@ De stichting is gehouden zodanig maatregelen te treffen dat de uitbetaling van d
 
 ##### Artikel 19
 
-Aan ten minste 33% van de uitgegeven loten wordt, overeenkomstig het bepaalde in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0005544&artikel=4&z=2005-10-01&g=2005-10-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0005544&artikel=5&z=2005-10-01&g=2005-10-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0005544&artikel=6&z=2005-10-01&g=2005-10-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0005544&artikel=7&z=2005-10-01&g=2005-10-01), een prijs toegekend.
-
-##### Artikel 20
-
 Jaarlijks stelt de Minister van Financiën het afdrachtpercentage voor de Staatsloterij vast, welk percentage ten minste 15% van de nominale waarde van de verkochte loten bedraagt.
 
-##### Artikel 21
+##### Artikel 20
 
 1. De Minister van Financiën benoemt de voorzitter en de leden van de raad van commissarissen van de stichting. Alvorens de Minister van Financiën tot benoeming overgaat, voert hij daarover overleg met de minister.
 
 2. De raad van commissarissen van de stichting benoemt het bestuur. Deze benoeming behoeft de voorafgaande goedkeuring van de Minister van Financiën. Alvorens de Minister van Financiën zijn goedkeuring verleent, voert hij overleg over de voorgenomen benoeming met de minister.
 
-##### Artikel 22
+##### Artikel 21
 
 De stichting stelt na afloop van elk boekjaar een jaarrekening en een jaarverslag op welke voldoen aan de eisen gesteld in [Boek 2, Titel 9, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9). Binnen twee weken na vaststelling, zendt het bestuur van de stichting kopieën van de jaarrekening, het jaarverslag, het accountantsverslag en de accountantsverklaring aan de minister en aan het college.
+
+##### Artikel 22
+
+1. Deze beschikking treedt in werking met ingang van heden en wordt gepubliceerd in de Staatscourant.
+
+2. Deze beschikking kan worden aangehaald als: Beschikking Staatsloterij.
 
 ##### Artikel 23
 
