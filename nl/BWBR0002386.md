@@ -4,7 +4,7 @@ identifier: "BWBR0002386"
 country: "nl"
 rank: "wet"
 publication_date: "2020-01-01"
-last_updated: "2006-02-01"
+last_updated: "2008-02-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002386"
 soort: "wet"
@@ -75,13 +75,13 @@ Ernstige gewetensbezwaren in de zin van deze wet zijn de onoverkomelijke geweten
 
 ##### Artikel 4
 
-1. Degene die een aanvraag heeft gedaan als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=II&artikel=3&z=2006-02-01&g=2006-02-01), kan door Onze Minister, in afwachting van een beslissing daarop, geheel of gedeeltelijk van dienstverrichtingen worden vrijgesteld.
+1. Degene die een aanvraag heeft gedaan als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=II&artikel=3&z=2008-02-01&g=2008-02-01), kan door Onze Minister, in afwachting van een beslissing daarop, geheel of gedeeltelijk van dienstverrichtingen worden vrijgesteld.
 
-2. Ingeval tegen degene die een aanvraag heeft gedaan als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=II&artikel=3&z=2006-02-01&g=2006-02-01), een strafvervolging aanhangig is gemaakt wegens overtreding van [artikel 139 van het Wetboek van Militair Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&artikel=139), wegens ongehoorzaamheid aan enig dienstbevel of dienstvoorschrift, dan wel wegens overtreding van [artikel 36 van de Kaderwet dienstplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&artikel=36) kan het openbaar ministerie besluiten deze strafvervolging, in afwachting van een beslissing op die aanvraag, te schorsen. Ingeval van een hernieuwde aanvraag wordt geen schorsing verleend, tenzij bijzondere omstandigheden daartoe aanleiding geven.
+2. Ingeval tegen degene die een aanvraag heeft gedaan als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=II&artikel=3&z=2008-02-01&g=2008-02-01), een strafvervolging is ingesteld wegens overtreding van [artikel 139 van het Wetboek van Militair Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&artikel=139), wegens ongehoorzaamheid aan enig dienstbevel of dienstvoorschrift, dan wel wegens overtreding van [artikel 36 van de Kaderwet dienstplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&artikel=36) kan het openbaar ministerie besluiten deze strafvervolging, in afwachting van een beslissing op die aanvraag, te schorsen. Ingeval van een hernieuwde aanvraag wordt geen schorsing verleend, tenzij bijzondere omstandigheden daartoe aanleiding geven.
 
 ##### Artikel 5
 
-1. Het in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=II&artikel=3&z=2006-02-01&g=2006-02-01), bedoelde onderzoek wordt verricht door een of meer leden van een commissie van advies. De leden van de commissie worden bij koninklijk besluit benoemd en ontslagen.
+1. Het in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=II&artikel=3&z=2008-02-01&g=2008-02-01), bedoelde onderzoek wordt verricht door een of meer leden van een commissie van advies. De leden van de commissie worden bij koninklijk besluit benoemd en ontslagen.
 
 2. De commissie brengt advies uit, nadat de aanvrager in de gelegenheid is gesteld ter zitting te worden gehoord.
 
@@ -93,17 +93,17 @@ Vervallen
 
 1. Indien Onze Minister van Defensie van oordeel is, dat de bezwaren zijn aan te merken als ernstige gewetensbezwaren, zal hij die bezwaren als zodanig erkennen.
 
-2. Indien aanvrager zonder gegronde redenen niet voor het onderzoek ter zitting voor de commissie, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=II&artikel=5&z=2006-02-01&g=2006-02-01), is verschenen, wordt de aanvraag in ieder geval afgewezen.
+2. Indien aanvrager zonder gegronde redenen niet voor het onderzoek ter zitting voor de commissie, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=II&artikel=5&z=2008-02-01&g=2008-02-01), is verschenen, wordt de aanvraag in ieder geval afgewezen.
 
 ##### Artikel 7a
 
-1. Indien de aanvrager bezwaar maakt tegen een besluit tot afwijzing van de aanvraag om erkenning, beslist Onze Minister van Defensie op dat bezwaar na advies van de commissie, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=II&artikel=5&z=2006-02-01&g=2006-02-01). De commissie adviseert nadat zij met ten minste drie leden een onderzoek heeft ingesteld.
+1. Indien de aanvrager bezwaar maakt tegen een besluit tot afwijzing van de aanvraag om erkenning, beslist Onze Minister van Defensie op dat bezwaar na advies van de commissie, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=II&artikel=5&z=2008-02-01&g=2008-02-01). De commissie adviseert nadat zij met ten minste drie leden een onderzoek heeft ingesteld.
 
 2. In de gevallen genoemd in [artikel 7:3, onder **a** tot en met **d**, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:3) wint Onze Minister van Defensie geen advies als bedoeld in het eerste lid in.
 
 ##### Artikel 7b
 
-Tegen een beschikking op grond van [hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=II&z=2006-02-01&g=2006-02-01), met uitzondering van [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=II&artikel=4&z=2006-02-01&g=2006-02-01), kan een belanghebbende beroep instellen bij de Afdeling bestuursrechtspraak van de Raad van State.
+Tegen een beschikking op grond van [hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=II&z=2008-02-01&g=2008-02-01), met uitzondering van [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=II&artikel=4&z=2008-02-01&g=2008-02-01), kan een belanghebbende beroep instellen bij de Afdeling bestuursrechtspraak van de Raad van State.
 
 ##### Artikel 7c
 
@@ -111,9 +111,9 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld ter uitvoe
 
 ##### Artikel 8
 
-1. Een beschikking op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=II&artikel=4&z=2006-02-01&g=2006-02-01) blijft van kracht totdat de afwijzing van een aanvraag omtrent erkenning als gewetensbezwaarde onherroepelijk is geworden.
+1. Een beschikking op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=II&artikel=4&z=2008-02-01&g=2008-02-01) blijft van kracht totdat de afwijzing van een aanvraag omtrent erkenning als gewetensbezwaarde onherroepelijk is geworden.
 
-2. Zolang de beroepstermijn niet is verstreken, dan wel op een tegen een beschikking omtrent erkenning als gewetensbezwaarde ingesteld beroep als bedoeld in [artikel 7b](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=II&artikel=7b&z=2006-02-01&g=2006-02-01) niet is beslist, kan Onze Minister van Defensie alsnog toepassing geven aan [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=II&artikel=4&z=2006-02-01&g=2006-02-01).
+2. Zolang de beroepstermijn niet is verstreken, dan wel op een tegen een beschikking omtrent erkenning als gewetensbezwaarde ingesteld beroep als bedoeld in [artikel 7b](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=II&artikel=7b&z=2008-02-01&g=2008-02-01) niet is beslist, kan Onze Minister van Defensie alsnog toepassing geven aan [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=II&artikel=4&z=2008-02-01&g=2008-02-01).
 
 ### Hoofdstuk III. Gevolgen van de erkenning
 
@@ -129,7 +129,7 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld ter uitvoe
 
 ##### Artikel 10
 
-Het recht tot strafvordering terzake van een delict, als bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=II&artikel=4&z=2006-02-01&g=2006-02-01), vervalt, zodra de gewetensbezwaren van de verdachte zijn erkend.
+Het recht tot strafvordering terzake van een delict, als bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=II&artikel=4&z=2008-02-01&g=2008-02-01), vervalt, zodra de gewetensbezwaren van de verdachte zijn erkend.
 
 ### Hoofdstuk IV. Vervangende dienst
 
@@ -195,11 +195,11 @@ Onze Minister van Sociale Zaken en Werkgelegenheid verleent in bij algemene maat
 
 ##### Artikel 17
 
-Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld met betrekking tot de ontheffing. Een krachtens [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=IV&artikel=15&z=2006-02-01&g=2006-02-01) of krachtens de eerste volzin vastgestelde algemene maatregel van bestuur treedt niet eerder in werking dan acht weken na de datum van uitgifte van het Staatsblad waarin hij is geplaatst. Van de plaatsing wordt onverwijld mededeling gedaan aan de beide kamers der Staten-Generaal.
+Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld met betrekking tot de ontheffing. Een krachtens [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=IV&artikel=15&z=2008-02-01&g=2008-02-01) of krachtens de eerste volzin vastgestelde algemene maatregel van bestuur treedt niet eerder in werking dan acht weken na de datum van uitgifte van het Staatsblad waarin hij is geplaatst. Van de plaatsing wordt onverwijld mededeling gedaan aan de beide kamers der Staten-Generaal.
 
 ##### Artikel 18
 
-Tegen een besluit ingevolge de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=IV&artikel=15&z=2006-02-01&g=2006-02-01) of [16](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=IV&artikel=16&z=2006-02-01&g=2006-02-01) kan een belanghebbende beroep instellen bij de Afdeling bestuursrechtspraak van de Raad van State.
+Tegen een besluit ingevolge de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=IV&artikel=15&z=2008-02-01&g=2008-02-01) of [16](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=IV&artikel=16&z=2008-02-01&g=2008-02-01) kan een belanghebbende beroep instellen bij de Afdeling bestuursrechtspraak van de Raad van State.
 
 ##### Artikel 19
 
@@ -271,7 +271,7 @@ De uit deze wet voortvloeiende verplichtingen met betrekking tot het vervullen v
 
 ##### Artikel 30
 
-De tewerkgestelde die zich gedraagt in strijd met [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=IV&artikel=14&z=2006-02-01&g=2006-02-01) kan deswege disciplinair worden gestraft door een daartoe door Onze Minister van Sociale Zaken en Werkgelegenheid aangewezen persoon.
+De tewerkgestelde die zich gedraagt in strijd met [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=IV&artikel=14&z=2008-02-01&g=2008-02-01) kan deswege disciplinair worden gestraft door een daartoe door Onze Minister van Sociale Zaken en Werkgelegenheid aangewezen persoon.
 
 ##### Artikel 31
 
@@ -289,7 +289,7 @@ De tewerkgestelde die zich gedraagt in strijd met [artikel 14](https://wetten.ov
 
 4. Bij beëindiging van de vervangende dienst in gewone omstandigheden worden geldboeten, voor zover zij nog niet zijn geïnd, op het nog aan de tewerkgestelde toekomende zakgeld ingehouden.
 
-5. Geen straf van verlenging kan worden opgelegd indien en voor zover als gevolg daarvan de krachtens [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=IV&artikel=12&z=2006-02-01&g=2006-02-01) vastgestelde duur van de vervangende dienst in gewone omstandigheden van de tewerkgestelde met meer dan dertig dagen zou worden verlengd.
+5. Geen straf van verlenging kan worden opgelegd indien en voor zover als gevolg daarvan de krachtens [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=IV&artikel=12&z=2008-02-01&g=2008-02-01) vastgestelde duur van de vervangende dienst in gewone omstandigheden van de tewerkgestelde met meer dan dertig dagen zou worden verlengd.
 
 ##### Artikel 32
 
@@ -303,7 +303,7 @@ De tewerkgestelde die zich gedraagt in strijd met [artikel 14](https://wetten.ov
 
 ##### Artikel 33
 
-1. De gestrafte kan binnen vijf dagen na de ontvangst van het in [artikel 32, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=V&artikel=32&z=2006-02-01&g=2006-02-01), bedoelde bericht beroep instellen bij de rechtbank te 's-Gravenhage. De straf, behalve die van berisping, wordt niet ten uitvoer gelegd zolang zij niet onherroepelijk is geworden, tenzij bij de strafoplegging onmiddellijke tenuitvoerlegging is bevolen.
+1. De gestrafte kan binnen vijf dagen na de ontvangst van het in [artikel 32, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=V&artikel=32&z=2008-02-01&g=2008-02-01), bedoelde bericht beroep instellen bij de rechtbank te 's-Gravenhage. De straf, behalve die van berisping, wordt niet ten uitvoer gelegd zolang zij niet onherroepelijk is geworden, tenzij bij de strafoplegging onmiddellijke tenuitvoerlegging is bevolen.
 
 2. De behandeling van het beroep geschiedt door een meervoudige kamer van de rechtbank, welke zitting houdt en beslist met drie leden, van wie twee, onder wie de voorzitter, lid of plaatsvervangend lid zijn van de rechtbank en één niet tot de rechterlijke macht behoort. Laatstgenoemde en zoveel plaatsvervangers voor deze als Wij dienstig oordelen worden door Ons benoemd op voordracht van Onze Ministers van Justitie en van Sociale Zaken en Werkgelegenheid voor de tijd van vier jaren.
 
@@ -313,13 +313,13 @@ De tewerkgestelde die zich gedraagt in strijd met [artikel 14](https://wetten.ov
 
 ##### Artikel 34
 
-1. Het beroep wordt ingesteld door indiening van een beroepschrift bij de griffie van de in [artikel 33, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=V&artikel=33&z=2006-02-01&g=2006-02-01), genoemde rechtbank.
+1. Het beroep wordt ingesteld door indiening van een beroepschrift bij de griffie van de in [artikel 33, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=V&artikel=33&z=2008-02-01&g=2008-02-01), genoemde rechtbank.
 
 2. De rechtbank kan bij gemotiveerde beslissing verklaren, dat een na de beroepstermijn ingediend beroepschrift geacht wordt tijdig te zijn ingekomen indien de gestrafte redelijkerwijs niet geacht kan worden in verzuim te zijn geweest.
 
 ##### Artikel 35
 
-1. Het beroep wordt zo spoedig mogelijk behandeld. De voorzitter van de in [artikel 33, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=V&artikel=33&z=2006-02-01&g=2006-02-01), bedoelde kamer bepaalt de dag van behandeling.
+1. Het beroep wordt zo spoedig mogelijk behandeld. De voorzitter van de in [artikel 33, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=V&artikel=33&z=2008-02-01&g=2008-02-01), bedoelde kamer bepaalt de dag van behandeling.
 
 2. De gestrafte wordt ten minste zes dagen voor de behandeling van het beroep door de griffier opgeroepen. Daarbij wordt de gestrafte opmerkzaam gemaakt op de bevoegdheid zich door een raadsman te doen bijstaan, alsmede op het recht op kennisneming van de processtukken. Indien de gestrafte niet verschijnt en de rechtbank zijn aanwezigheid noodzakelijk acht, kan zij de behandeling van het beroep voor bepaalde tijd uitstellen en de oproeping van de gestrafte gelasten. Verschijnt deze ten dienende dage wederom niet, dan kan de rechtbank het beroep vervallen verklaren.
 
@@ -427,13 +427,13 @@ De tewerkgestelde die zijn dienstverplichtingen stelselmatig niet nakomt wordt g
 
 ##### Artikel 55
 
-1. De duur van een vrijheidsberoving ondergaan wegens overtreding van een van de [artikelen 52](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=VI&artikel=52&z=2006-02-01&g=2006-02-01), [52a](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=VI&artikel=52a&z=2006-02-01&g=2006-02-01), [53, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=VI&artikel=53&z=2006-02-01&g=2006-02-01), en [54](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=VI&artikel=54&z=2006-02-01&g=2006-02-01) komt in mindering op de duur van de vervangende dienst in gewone of buitengewone omstandigheden.
+1. De duur van een vrijheidsberoving ondergaan wegens overtreding van een van de [artikelen 52](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=VI&artikel=52&z=2008-02-01&g=2008-02-01), [52a](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=VI&artikel=52a&z=2008-02-01&g=2008-02-01), [53, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=VI&artikel=53&z=2008-02-01&g=2008-02-01), en [54](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=VI&artikel=54&z=2008-02-01&g=2008-02-01) komt in mindering op de duur van de vervangende dienst in gewone of buitengewone omstandigheden.
 
 2. In gevallen waarin na toepassing van het eerste lid de tewerkgestelde nog verplicht is tot het vervullen van vervangende dienst gedurende één maand of minder, kan Onze Minister van Sociale Zaken en Werkgelegenheid hem van deze verplichting ontslaan.
 
 ##### Artikel 55a
 
-Onze Minister van Sociale Zaken en Werkgelegenheid kan degene, die op grond van [artikel 52, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=VI&artikel=52&z=2006-02-01&g=2006-02-01), of wegens een misdrijf begaan tijdens de vervangende dienst onherroepelijk is veroordeeld tot een onvoorwaardelijke vrijheidsstraf, ontslaan van de voor hem uit deze wet voortvloeiende verplichtingen.
+Onze Minister van Sociale Zaken en Werkgelegenheid kan degene, die op grond van [artikel 52, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=VI&artikel=52&z=2008-02-01&g=2008-02-01), of wegens een misdrijf begaan tijdens de vervangende dienst onherroepelijk is veroordeeld tot een onvoorwaardelijke vrijheidsstraf, ontslaan van de voor hem uit deze wet voortvloeiende verplichtingen.
 
 ##### Artikel 56
 
@@ -465,7 +465,7 @@ Vervallen
 
 ##### Artikel 60a
 
-1. Ten aanzien van erkende gewetensbezwaarden worden de [artikelen 11 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=IV&artikel=11&z=2006-02-01&g=2006-02-01) alsmede de [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=IV&artikel=23&z=2006-02-01&g=2006-02-01) en [25](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=IV&artikel=25&z=2006-02-01&g=2006-02-01) bij inwerkingtreding van de [Kaderwet dienstplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0008589) opgeschort.
+1. Ten aanzien van erkende gewetensbezwaarden worden de [artikelen 11 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=IV&artikel=11&z=2008-02-01&g=2008-02-01) alsmede de [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=IV&artikel=23&z=2008-02-01&g=2008-02-01) en [25](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=IV&artikel=25&z=2008-02-01&g=2008-02-01) bij inwerkingtreding van de [Kaderwet dienstplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0008589) opgeschort.
 
 2. [Hoofdstuk 4 van de Kaderwet dienstplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&hoofdstuk=4) is van overeenkomstige toepassing.
 
@@ -483,15 +483,15 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ##### Artikel 52a
 
-1. Met hechtenis van ten hoogste veertien dagen of geldboete van de tweede categorie wordt gestraft hij die niet voldoet aan de ingevolge [artikel 27, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=IV&artikel=27&z=2006-02-01&g=2006-02-01), op hem rustende verplichtingen.
+1. Met hechtenis van ten hoogste veertien dagen of geldboete van de tweede categorie wordt gestraft hij die niet voldoet aan de ingevolge [artikel 27, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=IV&artikel=27&z=2008-02-01&g=2008-02-01), op hem rustende verplichtingen.
 
-2. Met gevangenisstraf van ten hoogste twee maanden of een geldboete van de tweede categorie wordt gestraft hij die opzettelijk niet voldoet aan de ingevolge [artikel 27, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=IV&artikel=27&z=2006-02-01&g=2006-02-01), op hem rustende verplichtingen.
+2. Met gevangenisstraf van ten hoogste twee maanden of een geldboete van de tweede categorie wordt gestraft hij die opzettelijk niet voldoet aan de ingevolge [artikel 27, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=IV&artikel=27&z=2008-02-01&g=2008-02-01), op hem rustende verplichtingen.
 
 ##### Artikel 55b
 
-1. De in de [artikelen 52, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=VI&artikel=52&z=2006-02-01&g=2006-02-01), [52a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=VI&artikel=52a&z=2006-02-01&g=2006-02-01), [53](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=VI&artikel=53&z=2006-02-01&g=2006-02-01) en [54](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=VI&artikel=54&z=2006-02-01&g=2006-02-01), strafbaar gestelde feiten zijn misdrijven.
+1. De in de [artikelen 52, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=VI&artikel=52&z=2008-02-01&g=2008-02-01), [52a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=VI&artikel=52a&z=2008-02-01&g=2008-02-01), [53](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=VI&artikel=53&z=2008-02-01&g=2008-02-01) en [54](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=VI&artikel=54&z=2008-02-01&g=2008-02-01), strafbaar gestelde feiten zijn misdrijven.
 
-2. De in de [artikelen 52, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=VI&artikel=52&z=2006-02-01&g=2006-02-01), en [52a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=VI&artikel=52a&z=2006-02-01&g=2006-02-01), strafbaar gestelde feiten zijn overtredingen.
+2. De in de [artikelen 52, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=VI&artikel=52&z=2008-02-01&g=2008-02-01), en [52a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=VI&artikel=52a&z=2008-02-01&g=2008-02-01), strafbaar gestelde feiten zijn overtredingen.
 
 ### Hoofdstuk VII. Slotbepalingen
 
