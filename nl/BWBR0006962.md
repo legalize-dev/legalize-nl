@@ -4,7 +4,7 @@ identifier: "BWBR0006962"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-01-01"
-last_updated: "2002-02-01"
+last_updated: "2008-02-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006962"
 soort: "ministeriele-regeling"
@@ -66,7 +66,7 @@ In deze regeling wordt verstaan onder:
 
 5. Op de termijn, genoemd in de aanhef van het derde lid, is [artikel 9 van de Wet op de justitiële documentatie en op de verklaringen omtrent het gedrag](https://wetten.overheid.nl/jci1.3:c:BWBR0002195&artikel=9) van overeenkomstige toepassing.
 
-6. Vrijwillige betaling van een geldsom als bedoeld in [artikel 74 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=74) wordt voor de toepassing van het derde lid gelijk gesteld met een onherroepelijk geworden rechterlijke uitspraak.
+6. Voor de toepassing van het derde lid wordt een onherroepelijke strafbeschikking met een veroordeling gelijk gesteld.
 
 ##### Artikel 3
 
@@ -92,7 +92,7 @@ Deze regeling wordt aangehaald als: Regeling aanvraag erkenning en onkostenvergo
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-## Bijlage. (Behoort bij [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006962&artikel=3&z=2002-02-01&g=2002-02-01), van de Regeling aanvraag erkenning en onkostenvergoeding goedkeuring Wet explosieven voor civiel gebruik)
+## Bijlage. (Behoort bij [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006962&artikel=3&z=2008-02-01&g=2008-02-01), van de Regeling aanvraag erkenning en onkostenvergoeding goedkeuring Wet explosieven voor civiel gebruik)
 
 ##### **Aanvraag van een erkenning**
 
