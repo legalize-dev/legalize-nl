@@ -4,7 +4,7 @@ identifier: "BWBR0023650"
 country: "nl"
 rank: "wet"
 publication_date: "2008-03-26"
-last_updated: "2007-03-01"
+last_updated: "2008-02-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023650"
 soort: "wet"
@@ -212,7 +212,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XLIIa
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wijzigingswet Wetboek van Strafrecht, enz. (gedragsbeïnvloeding jeugdigen).
 
 ##### Artikel XLIII
 
