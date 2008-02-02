@@ -4,7 +4,7 @@ identifier: "BWBR0018423"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2008-02-02"
-last_updated: "2007-10-21"
+last_updated: "2008-02-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018423"
 soort: "ministeriele-regeling"
@@ -45,7 +45,7 @@ Besluit:
 
 ##### Artikel 1
 
-1. Voor de toepassing van deze regeling wordt verstaan onder:
+Voor de toepassing van deze regeling wordt verstaan onder:
 
 - a. Dienst Regelingen: Dienst Regelingen van het Ministerie van Landbouw, Natuur en Voedselkwaliteit;
 
@@ -55,11 +55,9 @@ Besluit:
 
 - d. oosterbuurlanden: Russische Federatie, Oekraïne, Wit-Rusland, Moldavië, Georgië en Armenië;
 
-- e. doellanden: Bulgarije, Roemenië, kandidaat-lidstaten met uitzondering van Voormalige Joegoslavische Republiek Macedonië, de oosterbuurlanden, Servië, Montenegro, Kroatië en Marokko;
+- e. doellanden: kandidaat-lidstaten, de oosterbuurlanden, Servië, Montenegro, Kroatië en Marokko;
 
 - f. project: geheel van activiteiten gericht op concrete resultaten ter verwezenlijking van de in deze regeling omschreven subsidiedoelstellingen alsmede gericht op samenwerking, communicatie en kennisoverdracht.
-
-2. Bulgarije en Roemenië worden uitsluitend in 2007 tot de doellanden gerekend.
 
 ##### Artikel 2
 
@@ -135,35 +133,31 @@ Geen subsidie wordt verstrekt voor:
 
 ##### Artikel 8
 
-1. In afwijking van [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018423&paragraaf=1&artikel=7&z=2007-10-21&g=2007-10-21), kan subsidie worden verstrekt op basis van een door de minister goed te keuren dagtarief.
+1. In afwijking van [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018423&paragraaf=1&artikel=7&z=2008-02-02&g=2008-02-02), kan subsidie worden verstrekt op basis van een door de minister goed te keuren dagtarief.
 
-2. Ingeval subsidie wordt verleend op basis van een dagtarief, is [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018423&paragraaf=1&artikel=7&z=2007-10-21&g=2007-10-21), niet van toepassing.
+2. Ingeval subsidie wordt verleend op basis van een dagtarief, is [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018423&paragraaf=1&artikel=7&z=2008-02-02&g=2008-02-02), niet van toepassing.
 
 ##### Artikel 9
 
-De subsidie bedraagt 100% van de overeenkomstig [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0018423&paragraaf=1&artikel=7&z=2007-10-21&g=2007-10-21) dan wel [8](https://wetten.overheid.nl/jci1.3:c:BWBR0018423&paragraaf=1&artikel=8&z=2007-10-21&g=2007-10-21) berekende kosten.
+De subsidie bedraagt 100% van de overeenkomstig [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0018423&paragraaf=1&artikel=7&z=2008-02-02&g=2008-02-02) dan wel [8](https://wetten.overheid.nl/jci1.3:c:BWBR0018423&paragraaf=1&artikel=8&z=2008-02-02&g=2008-02-02) berekende kosten.
 
 ##### Artikel 10
 
-1. Indien voor een project uit anderen hoofde ten laste van ’s Rijks kas subsidies worden verstrekt, wordt slechts een zodanig bedrag op grond van deze regeling verstrekt, dat de som van de subsidies het in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0018423&paragraaf=1&artikel=9&z=2007-10-21&g=2007-10-21) genoemde percentage niet overschrijdt.
+1. Indien voor een project uit anderen hoofde ten laste van ’s Rijks kas subsidies worden verstrekt, wordt slechts een zodanig bedrag op grond van deze regeling verstrekt, dat de som van de subsidies het in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0018423&paragraaf=1&artikel=9&z=2008-02-02&g=2008-02-02) genoemde percentage niet overschrijdt.
 
 2. Indien voor een project subsidies door een ander bestuursorgaan dan de minister of financiële middelen door niet-bestuursorganen worden verstrekt, wordt slechts een zodanig bedrag op grond van deze regeling verstrekt, dat de som van de subsidies of de financiële middelen niet meer bedraagt dan 100% van de totale kosten van het project.
 
 ##### Artikel 11
 
-1. De minister stelt jaarlijks een subsidieplafond vast voor de op grond van deze regeling te verstrekken subsidies.
+1. Het subsidieplafond bedraagt voor het jaar 2008: € 2.550.500,–.
 
-2. De Minister kan besluiten dat projecten waarvan de aangevraagde subsidie meer bedraagt dan een bij dat besluit te bepalen bedrag niet voor subsidie in aanmerking komen.
-
-3. De minister kan afzonderlijke plafonds vaststellen voor elk van de thematische invalshoeken van projecten, genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018423&paragraaf=1&artikel=4&z=2007-10-21&g=2007-10-21).
-
-4. De minister maakt besluiten, als bedoeld in het eerste, tweede en derde lid, bekend in de Staatscourant.
+2. In het jaar 2008 komen projecten waarvan de aangevraagde subsidie meer bedraagt dan € 220.000 niet voor subsidie in aanmerking.
 
 #### § 2. Subsidieverlening
 
 ##### Artikel 12
 
-De minister kan per kalenderjaar één of meer aanvraagperioden vaststellen en maakt deze besluiten bekend in de Staatscourant
+De aanvraagperiode wordt voor het jaar 2008 vastgesteld op de periode 4 februari tot en met 17 maart 2008.
 
 ##### Artikel 13
 
@@ -171,13 +165,13 @@ De minister kan per kalenderjaar één of meer aanvraagperioden vaststellen en m
 
 2. Een aanvraag tot subsidieverlening gaat vergezeld van:
 
-- a. een verklaring, afgegeven door de overheid, bedoeld in [artikel 5, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0018423&paragraaf=1&artikel=5&z=2007-10-21&g=2007-10-21), waaruit blijkt dat het project door haar wordt ondersteund; en
+- a. een verklaring, afgegeven door de overheid, bedoeld in [artikel 5, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0018423&paragraaf=1&artikel=5&z=2008-02-02&g=2008-02-02), waaruit blijkt dat het project door haar wordt ondersteund; en
 
 - b. een projectplan.
 
 3. Het projectplan, bedoeld in het tweede lid, onderdeel b, bevat in ieder geval het volgende:
 
-- a. de thematische invalshoeken, genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018423&paragraaf=1&artikel=4&z=2007-10-21&g=2007-10-21), waarop het project betrekking heeft;
+- a. de thematische invalshoeken, genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018423&paragraaf=1&artikel=4&z=2008-02-02&g=2008-02-02), waarop het project betrekking heeft;
 
 - b. een beschrijving van het project, waarin is opgenomen een probleemanalyse, het doel en de noodzaak van het project, alsmede de noodzaak van de kosten;
 
@@ -201,9 +195,9 @@ De minister kan per kalenderjaar één of meer aanvraagperioden vaststellen en m
 
 1. De minister rangschikt de aanvragen die voor subsidie in aanmerking komen zodanig dat een project of een programma hoger gerangschikt wordt naarmate het:
 
-- a. meer bijdraagt aan de verwezenlijking van de doelstelling, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0018423&paragraaf=1&artikel=2&z=2007-10-21&g=2007-10-21);
+- a. meer bijdraagt aan de verwezenlijking van de doelstelling, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0018423&paragraaf=1&artikel=2&z=2008-02-02&g=2008-02-02);
 
-- b. meer aansluit bij de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018423&paragraaf=1&artikel=4&z=2007-10-21&g=2007-10-21) genoemde thematische invalshoeken;
+- b. meer aansluit bij de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018423&paragraaf=1&artikel=4&z=2008-02-02&g=2008-02-02) genoemde thematische invalshoeken;
 
 - c. meerdere van de volgende kenmerken heeft:
 
@@ -223,7 +217,7 @@ De minister kan per kalenderjaar één of meer aanvraagperioden vaststellen en m
 
 - –. ingeval het een project betreft in de Russische Federatie of Oekraïne, het bijdragen aan de gezamenlijke door Nederland en de Russische Federatie respectievelijk Oekraïne opgestelde werkplannen in het kader van de Memoranda of Understanding op het gebied van respectievelijk milieu bescherming en natuur, met uitzondering van het onderwerp waterkwaliteitsbeheer in het gezamenlijke werkplan met de Russische Federatie.
 
-2. Onverminderd [artikel 11, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018423&paragraaf=1&artikel=11&z=2007-10-21&g=2007-10-21), houdt de minister bij de rangschikking van de aanvragen rekening met een evenwichtige verdeling van de middelen over de thematische invalshoeken, genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018423&paragraaf=1&artikel=4&z=2007-10-21&g=2007-10-21), over de doellanden en over projecten.
+2. De minister houdt bij de rangschikking van de aanvragen rekening met een evenwichtige verdeling van de middelen over de thematische invalshoeken, genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018423&paragraaf=1&artikel=4&z=2008-02-02&g=2008-02-02), over de doellanden en over projecten.
 
 3. Voor de aanvraagperioden in de jaren 2007 en 2008 worden projecten met de volgende thematische invalhoeken of in de volgende doellanden hoger gerangschikt:
 
@@ -231,9 +225,7 @@ De minister kan per kalenderjaar één of meer aanvraagperioden vaststellen en m
 
 - b. projecten ter ondersteuning van de totstandkoming van mariene beschermde gebieden;
 
-- c. projecten ter stimulering van de integratie van biodiversiteit in de sectoren landbouw, bosbouw, visserij en recreatie en toerisme;
-
-- d. projecten in kandidaat-lidstaten, Roemenië en Bulgarije ter ondersteuning van de implementatie van richtlijn (EEG) nr. 79/409 van de Raad van de Europese Gemeenschappen van 2 april 1979 inzake het behoud van de vogelstand (pbEG L 103) en richtlijn (EEG) nr. 92/43 van de Raad van de Europese Gemeenschappen van 21 mei 1992 inzake de instandhouding van de natuurlijke habitats en de wilde flora en fauna (pbEG L 206), in het bijzonder met betrekking tot de totstandkoming van Natura 2000 gebieden.
+- c. projecten ter stimulering van de integratie van biodiversiteit in de sectoren landbouw, bosbouw, visserij en recreatie en toerisme.
 
 4. De minister maakt het in het derde lid genoemde besluit bekend in de Staatscourant.
 
@@ -251,7 +243,7 @@ Subsidie ten laste van een begroting die nog niet is vastgesteld, wordt verleend
 
 ##### Artikel 17
 
-De subsidieontvanger voert een administratie die zodanig is ingericht dat daaruit te allen tijde op een eenvoudige wijze alle kosten van het project kunnen worden afgelezen, gespecificeerd overeenkomstig de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0018423&paragraaf=1&artikel=7&z=2007-10-21&g=2007-10-21) onderscheiden kostenposten.
+De subsidieontvanger voert een administratie die zodanig is ingericht dat daaruit te allen tijde op een eenvoudige wijze alle kosten van het project kunnen worden afgelezen, gespecificeerd overeenkomstig de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0018423&paragraaf=1&artikel=7&z=2008-02-02&g=2008-02-02) onderscheiden kostenposten.
 
 ##### Artikel 18
 
@@ -307,9 +299,9 @@ De subsidieontvanger is verplicht om binnen een periode van twaalf maanden na da
 
 3. Indien de totale subsidiabele kosten meer bedragen dan € 22.500,– gaat de aanvraag tot subsidievaststelling vergezeld van een verklaring van een accountant, als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393), waaruit blijkt dat voldaan is aan de bij of krachtens deze regeling gestelde voorwaarden en verplichtingen.
 
-4. De accountant, bedoeld in het derde lid, controleert de aanvraag tot subsidievaststelling met inachtneming van het in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0018423&bijlage=2&z=2007-10-21&g=2007-10-21) bij deze regeling opgenomen controleprotocol.
+4. De accountant, bedoeld in het derde lid, controleert de aanvraag tot subsidievaststelling met inachtneming van het in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0018423&bijlage=2&z=2008-02-02&g=2008-02-02) bij deze regeling opgenomen controleprotocol.
 
-5. De goedkeurende accountantsverklaring wordt opgesteld overeenkomstig de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0018423&bijlage=1&z=2007-10-21&g=2007-10-21) bij deze regeling opgenomen modelaccountantsverklaring.
+5. De goedkeurende accountantsverklaring wordt opgesteld overeenkomstig de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0018423&bijlage=1&z=2008-02-02&g=2008-02-02) bij deze regeling opgenomen modelaccountantsverklaring.
 
 6. De minister kan de Accountantsdienst van het Ministerie van Landbouw, Natuur en Voedselkwaliteit een review laten uitvoeren op de door de accountant van de subsidieontvanger verrichte werkzaamheden.
 
@@ -361,7 +353,7 @@ Wij zijn van mening dat onze controle een deugdelijke grondslag vormt voor ons o
 
 **<telefoon>**
 
-## Bijlage 1. Model-accountantsverklaring, als bedoeld in [artikel 22, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018423&paragraaf=5&artikel=22&z=2007-10-21&g=2007-10-21), van de Regeling subsidiëring Actieplan BBI-Matra 2005–2008
+## Bijlage 1. Model-accountantsverklaring, als bedoeld in [artikel 22, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018423&paragraaf=5&artikel=22&z=2008-02-02&g=2008-02-02), van de Regeling subsidiëring Actieplan BBI-Matra 2005–2008
 
 Wij hebben de bijgevoegde financiële verantwoording van <naam instelling> te <plaats> inzake het project <naam project> over de periode van ... t/m ... in het kader van de Regeling subsidiëring Actieplan BBI-Matra 2005–2008 gecontroleerd. De financiële verantwoording is opgesteld onder de verantwoording van <de leiding van naam instelling / naam persoon>.
 
@@ -415,9 +407,9 @@ Ingeval een project langer dan een jaar duurt, informeert de subsidieontvanger d
 
 #### § 6. Overgangs- en slotbepalingen
 
-## Bijlage 2. Controleprotocol, als bedoeld in [artikel 22, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018423&paragraaf=5&artikel=22&z=2007-10-21&g=2007-10-21), van de Regeling subsidiëring Actieplan BBI-Matra 2005–2008
+## Bijlage 2. Controleprotocol, als bedoeld in [artikel 22, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018423&paragraaf=5&artikel=22&z=2008-02-02&g=2008-02-02), van de Regeling subsidiëring Actieplan BBI-Matra 2005–2008
 
-Bij de controle, op basis waarvan de eindrapportage, als bedoeld in [artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018423&paragraaf=5&artikel=22&z=2007-10-21&g=2007-10-21), van de Regeling subsidiëring Actieplan BBI-Matra 2005–2008 plaatsvindt, dient aan de naleving van de volgende artikelen op de daarbij aangegeven wijze aandacht te worden besteed.
+Bij de controle, op basis waarvan de eindrapportage, als bedoeld in [artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018423&paragraaf=5&artikel=22&z=2008-02-02&g=2008-02-02), van de Regeling subsidiëring Actieplan BBI-Matra 2005–2008 plaatsvindt, dient aan de naleving van de volgende artikelen op de daarbij aangegeven wijze aandacht te worden besteed.
 
 ### Toelichting op het controleprotocol
 
