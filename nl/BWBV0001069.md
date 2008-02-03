@@ -4,7 +4,7 @@ identifier: "BWBV0001069"
 country: "nl"
 rank: "verdrag"
 publication_date: "2008-02-03"
-last_updated: "1994-03-29"
+last_updated: "2008-02-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0001069"
 soort: "verdrag"
@@ -67,19 +67,19 @@ Have agreed as follows:
 
 1.2. For the purpose of this agreement:
 
-- a). "Small cetaceans" means any species, subspecies or population of toothed whales **Odontoceti,** except the sperm whale **Physeter macrocephalus** ;
+- a). “Small cetaceans” means any species, subspecies or population of toothed whales **Odontoceti,** except the sperm whale **Physeter macrocephalus** ;
 
-- b). "Area of the agreement" means the marine environment of the Baltic and North Seas, as delimited to the north-east by the shores of the Gulfs of Bothnia and Finland; to the south-west by latitude 48 30 N and longitude 5 W; to the north-west by longitude 5 W and a line drawn through the following points: latitude 60 N/longitude 5 W, latitude 61 N/longitude 4 W, and latitude 62 N/longitude 3 W; to the north by latitude 62 N; and including the Kattegat and the Sound and Belt passages but excluding the waters between Cape Wrath and St Anthony Head;
+- b). “Area of the Agreement” means the marine environment of the Baltic and North Seas and contiguous area of the North East Atlantic, as delimited by the shores of the Gulfs of Bothnia and Finland; to the south-east by latitude 36°N, where this line of latitude meets the line joining the lighthouses of Cape St. Vincent (Portugal) and Casablanca (Morocco); to the south-west by latitude 36°N and longitude 15°W; to the north-west by longitude 15° and a line drawn through the following points: latitude 59°N/longitude 15°W, latitude 60°N/longitude 05°W, latitude, 61°N/longitude 4°W; latitude 62°N/longitude 3°W; to the north by latitude 62°N; and including the Kattegat and the Sound and Belt passages.
 
-- c). "Bonn Convention" means the Convention on the Conservation of Migratory Species of Wild Animals (Bonn 1979);
+- c). “[Bonn Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0004769)” means the Convention on the Conservation of Migratory Species of Wild Animals (Bonn 1979);
 
-- d). "Regional Economic Integration Organization" means an organization constituted by sovereign States which has competence in respect of the negociation, conclusion and application of international agreements in matters covered by this agreement;
+- d). “Regional Economic Integration Organization” means an organization constituted by sovereign States which has competence in respect of the negociation, conclusion and application of international agreements in matters covered by this agreement;
 
-- e). "Party" means a range State or any regional Economic Integration Organization for which this agreement is in force;
+- e). “Party” means a range State or any regional Economic Integration Organization for which this agreement is in force;
 
-- f). "Range State" means any State, whether or not a Party to the agreement, that exercises jurisdiction over any part of the range of a species covered by this agreement, or a State whose flag vessels, outside national jurisdictional limits but within the area of the agreement, are engaged in operations adversely affecting small cetaceans;
+- f). “Range State” means any State, whether or not a Party to the agreement, that exercises jurisdiction over any part of the range of a species covered by this agreement, or a State whose flag vessels, outside national jurisdictional limits but within the area of the agreement, are engaged in operations adversely affecting small cetaceans;
 
-- g). "Secretariat" means, unless the context otherwise indicates, the Secretariat to this agreement.
+- g). “Secretariat” means, unless the context otherwise indicates, the Secretariat to this agreement.
 
 ##### 2. Purpose and basic arrangements
 
@@ -133,7 +133,7 @@ Have agreed as follows:
 
 - e). The time and venue of the next Meeting.
 
-6.2.1. The following shall be entitled to send observers to the Meeting: the Depositary of this agreement, the secretariats of the Bonn Convention, the Convention on International Trade in Endangered Species of Wild Fauna and Flora, the Convention on the Conservation of European Wildlife and Natural Habitats, the Convention for the Prevention of Marine Pollution by Dumping from Ships and Aircraft, the Convention for the Prevention of Marine Pollution from Landbased Sources, the Common Secretariat for the Cooperation on the Protection of the Wadden Sea, the International Whaling Commission, the North-East Atlantic Fisheries Commission, the International Baltic Sea Fisheries Commission, the Baltic Marine Environment Protection Commission, the International Council for the Exploration of the Sea, the International Union for the Conservation of Nature and Natural Resources, and all non-Party Range States and Regional Economic Integration Organizations bordering on the waters concerned.
+6.2.1. The following shall be entitled to send observers to the Meeting: the Depositary of this agreement, the secretariats of the [Bonn Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0004769), the [Convention on International Trade in Endangered Species of Wild Fauna and Flora](https://wetten.overheid.nl/jci1.3:c:BWBV0003833), the [Convention on the Conservation of European Wildlife and Natural Habitats](https://wetten.overheid.nl/jci1.3:c:BWBV0003485), the Convention for the Prevention of Marine Pollution by Dumping from Ships and Aircraft, the Convention for the Prevention of Marine Pollution from Landbased Sources, the Common Secretariat for the Cooperation on the Protection of the Wadden Sea, the International Whaling Commission, the North-East Atlantic Fisheries Commission, the International Baltic Sea Fisheries Commission, the Baltic Marine Environment Protection Commission, the International Council for the Exploration of the Sea, the International Union for the Conservation of Nature and Natural Resources, and all non-Party Range States and Regional Economic Integration Organizations bordering on the waters concerned.
 
 6.2.2. Any other body qualified in cetacean conservation and management may apply to the Secretariat not less than 90 days in advance of the Meeting to be allowed to be represented by observers. The Secretariat shall communicate such applications to the Parties at least 60 days before the Meeting, and observers shall be entitled to be present unless that is opposed not less than 30 days before the Meeting by at least one third of the Parties.
 
@@ -148,6 +148,12 @@ Have agreed as follows:
 - 6.5.2. The text of any proposed amendment and the reasons for it shall be communicated to the Secretariat at least 90 days before the opening of the Meeting. The Secretariat shall transmit copies forthwith to the Parties.
 
 - 6.5.3. Amendments shall enter into force for those Parties which have accepted them 90 days after the deposit of the fifth instrument of acceptance of the amendment with the Depositary. Thereafter they shall enter into force for a Party 30 days after the date of deposit of its instrument of acceptance of the amendment with the Depositary.
+
+- 6.5.4. Any State that becomes a Party to the Agreement after the entry into force of an Amendment shall, failing an expression of a different intention by that State:
+
+- a). be considered as a Party to the Agreement as amended; and
+
+- b). be considered as a Party to the unamended Agreement in relation to any Party not bound by the Amendment.
 
 ##### 7. Financing
 
