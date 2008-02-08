@@ -4,7 +4,7 @@ identifier: "BWBR0020045"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2008-02-08"
-last_updated: "2006-07-20"
+last_updated: "2008-02-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020045"
 soort: "ministeriele-regeling"
@@ -51,13 +51,13 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 2
 
-1. De teammanagers uitvoering van de Dienst Regelingen zijn bevoegd om namens de minister besluiten te nemen en te ondertekenen met betrekking tot:
+1. De teammanagers uitvoering en de regelingsmanagers van Dienst Regelingen zijn bevoegd om namens de minister besluiten te nemen en stukken te ondertekenen met betrekking tot. primaire beslissingen inzake:
 
-- a. het toekennen van een definitieve bijdrage, als bedoeld in [artikel 17, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010700&artikel=17);
+- a. het toekennen van een definitieve bijdrage als bedoeld in [artikel 17, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010700&artikel=17);
 
-- b. het toekennen van een voorlopige bijdrage, als bedoeld in [artikel 20, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010700&artikel=20).
+- b. het toekennen van een voorlopige bijdrage als bedoeld in [artikel 20, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010700&artikel=20).
 
-2. De teammanagers uitvoering van de Dienst Regelingen zijn bevoegd om namens de minister stukken af te doen met betrekking tot:
+2. De teammanagers uitvoering en de regelingsmanagers van de Dienst Regelingen zijn bevoegd om namens de minister stukken af te doen met betrekking tot:
 
 - a. de ontvangst van de aanmelding, als bedoeld in [artikel 3a, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010700&artikel=3a);
 
@@ -73,15 +73,23 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 3
 
-De teammanagers juridische zaken en de unitmanagers van de Dienst Regelingen zijn bevoegd om namens de minister besluiten te nemen en stukken af te doen en te ondertekenen met betrekking tot:
+De algemeen directeur, de unitmanagers, de manager en plaatsvervangend manager recht en rechtsbescherming en de teammanagers recht en rechtsbescherming van Dienst Regelingen zijn bevoegd om namens de minister besluiten te nemen en stukken te ondertekenen met betrekking tot:
 
-- a. bezwaarschriften tegen een primair besluit als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020045&artikel=2&z=2006-07-20&g=2006-07-20);
+- a. bezwaarschriften tegen een primair besluit als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020045&artikel=2&z=2008-02-08&g=2008-02-08);
 
-- b. beslissingen op een verzoek tot heroverweging van op bezwaarschrift genomen beslissingen.
+- b. beslissingen op een verzoek tot heroverweging van op bezwaarschrift genomen beslissingen;
+
+- c. verdaging van een beslissing op bezwaar als bedoeld onder a;
+
+- d. verzoeken tot heroverweging van op bezwaarschrift genomen beslissingen;
+
+- e. verzoeken om schadevergoeding die samenhangen met besluiten als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0020045&artikel=2&z=2008-02-08&g=2008-02-08) en [artikel 3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020045&artikel=3&z=2008-02-08&g=2008-02-08), voorzover het verzoek daartoe hangende de beslissing op bezwaar wordt gedaan;
+
+- f. verweerschriften en andere stukken in gedingen die aanhangig zijn bij de bestuursrechter en voortvloeien uit besluiten, genoemd in de onderdelen a tot en met e.
 
 ##### Artikel 4
 
-De teammanagers uitvoering, de teammanagers juridische zaken en de unitmanagers van de Dienst Regelingen zijn bevoegd om namens de minister besluiten te nemen met betrekking tot:
+De teammanagers uitvoering, de regelingsmanagers en de unitmanagers van de Dienst Regelingen zijn bevoegd om namens de minister besluiten te nemen met betrekking tot:
 
 - a. verzoeken tot vergoeding van wettelijke rente in verband met de vertraagde afhandeling van een declaratie of een bezwaarschrift of de vertraagde uitbetaling van een vastgestelde tegemoetkoming;
 
@@ -89,7 +97,7 @@ De teammanagers uitvoering, de teammanagers juridische zaken en de unitmanagers 
 
 ##### Artikel 5
 
-De ondertekening, bedoeld in de [artikelen 2 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0020045&artikel=2&z=2006-07-20&g=2006-07-20), luidt:
+De ondertekening, bedoeld in de [artikelen 2 tot en met 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0020045&artikel=2&z=2008-02-08&g=2008-02-08), luidt:
 
 ‘DE MINISTER VAN BINNENLANDSE ZAKEN EN KONINKRIJKSRELATIES,
 
@@ -97,15 +105,37 @@ voor deze,’
 
 gevolgd door
 
-‘de teammanager uitvoering van de Dienst Regelingen’,
+‘de teammanager uitvoering Dienst Regelingen’,
 
 onderscheidenlijk
 
-‘de teammanager juridische zaken van de Dienst Regelingen’,
+‘de regelingsmanager Dienst Regelingen’,
 
 onderscheidenlijk
 
-‘de unitmanager van de Dienst Regelingen’.
+‘de teammanager recht en rechtsbescherming Dienst Regelingen’,
+
+onderscheidenlijk,
+
+‘de manager recht en rechtsbescherming Dienst Regelingen’,
+
+onderscheidenlijk,
+
+‘de plaatsvervangend manager recht en rechtsbescherming Dienst Regelingen’,
+
+onderscheidenlijk,
+
+‘de unitmanager Dienst Regelingen’,
+
+‘de directeur projecten Dienst Regelingen’,
+
+onderscheidenlijk,
+
+‘de directeur uitvoering Dienst Regelingen’,
+
+onderscheidenlijk,
+
+‘de algemeen directeur Dienst Regelingen’.
 
 ##### Artikel 6
 
