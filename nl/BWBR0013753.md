@@ -4,7 +4,7 @@ identifier: "BWBR0013753"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2007-06-14"
+last_updated: "2008-02-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013753"
 soort: "AMvB"
@@ -100,9 +100,9 @@ In het geval van binnenlandse en buitenlandse dienstreizen worden de noodzakelij
 
 1. Ministers en staatssecretarissen hebben voor de duur van de vervulling van hun ambt een dienstauto met chauffeur ter beschikking.
 
-2. De prijs per kilometer van de dienstauto bedraagt niet meer dan € 0,54 exclusief BTW, berekend op de grondslag van een gebruiksduur van twee jaar en 60 000 gereden kilometers per jaar.
+2. De prijs per kilometer van de dienstauto bedraagt niet meer dan € 0,54 exclusief BTW, berekend op de grondslag van een gebruiksduur van twee jaar en 60.000 gereden kilometers per jaar. In geval van een dienstauto die wordt afgenomen overeenkomstig de door het Rijk gesloten raamovereenkomst betreffende innovatieve milieuauto's of die vóór 1 september 2009 wordt afgenomen overeenkomstig de door het Rijk gesloten raamovereenkomst betreffende auto's die voldoen aan verordening (EG) nr. 715/2007 van het Europees Parlement en de Raad van 20 juni 2007 betreffende de typegoedkeuring van motorvoertuigen met betrekking tot emissies van lichte personen- en bedrijfsvoertuigen (Euro 5 en Euro 6) en de toegang tot reparatie- en onderhoudsinformatie (PbEG L 171) bedraagt de prijs per kilometer van de dienstauto niet meer dan € 0,62 exclusief BTW, berekend op de grondslag van een gebruiksduur van twee jaar en 60.000 gereden kilometers per jaar.
 
-3. Het in het tweede lid genoemde bedrag wordt jaarlijks bij ministeriële regeling gewijzigd voor zover de gemiddelde prijsindexcijfers autolease over de laatste vier kwartalen, zoals per 1 januari van elk jaar door het Centraal Bureau voor de Statistiek gepubliceerd, daartoe aanleiding geven.
+3. De in het tweede lid genoemde bedragen worden jaarlijks bij ministeriële regeling gewijzigd voor zover de gemiddelde prijsindexcijfers autolease over de laatste vier kwartalen, zoals per 1 januari van elk jaar door het Centraal Bureau voor de Statistiek gepubliceerd, daartoe aanleiding geven.
 
 4. De prijs per kilometer wordt berekend aan de hand van de formule
 
@@ -150,7 +150,7 @@ l = looptijd in maanden;
 
 m = jaarkilometrage.
 
-5. De dienstauto wordt slechts in gebruik genomen nadat is vastgesteld dat aan de voorschriften van het tweede tot en met vierde lid is voldaan, tenzij redenen van veiligheid tot afwijking van deze voorschriften noodzaken.
+5. De dienstauto wordt slechts in gebruik genomen nadat is vastgesteld dat aan de voorschriften van het tweede tot en met vierde lid is voldaan, tenzij afwijking van deze voorschriften noodzakelijk is om redenen van veiligheid of wegens een individuele werkplekanalyse, verricht of getoetst door een deskundige persoon als bedoeld in [artikel 14, eerste lid, van de Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=14). [Artikel 14, tweede lid, onderdelen b en c, van de Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=14) is in het tweede geval van overeenkomstige toepassing.
 
 ##### Artikel 8
 
@@ -168,7 +168,7 @@ M = het bedrag van de vergoeding;
 
 CAT = de catalogusprijs van de dienstauto, met inbegrip van BTW en BPM;
 
-P = het percentage genoemd in [artikel 13bis, eerste lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=13bis).
+P = het toepasselijke percentage, genoemd in [artikel 13bis, eerste lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=13bis).
 
 T = het hoogste van de in de tarieftabel van [artikel 20a, eerste lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=20a) opgenomen percentages.
 
