@@ -4,7 +4,7 @@ identifier: "BWBR0023439"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2008-02-08"
-last_updated: "2006-01-01"
+last_updated: "2008-02-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023439"
 soort: "ministeriele-regeling"
@@ -73,7 +73,7 @@ In dit besluit wordt verstaan onder:
 
 De algemeen directeur, de unitmanagers, de manager en plaatsvervangend manager recht en rechtsbescherming en de teammanagers recht en rechtsbescherming van Dienst Regelingen zijn bevoegd om namens de Minister besluiten te nemen en stukken te ondertekenen met betrekking tot:
 
-- a. bezwaarschriften tegen een primair besluit als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023439&artikel=2&z=2008-02-08&g=2006-01-01);
+- a. bezwaarschriften tegen een primair besluit als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023439&artikel=2&z=2008-02-08&g=2008-02-08);
 
 - b. beslissingen op een verzoek tot heroverweging van op bezwaarschrift genomen beslissingen;
 
@@ -81,7 +81,7 @@ De algemeen directeur, de unitmanagers, de manager en plaatsvervangend manager r
 
 - d. verzoeken tot heroverweging van op bezwaarschrift genomen beslissingen;
 
-- e. verzoeken om schadevergoeding die samenhangen met besluiten als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023439&artikel=2&z=2008-02-08&g=2006-01-01) en [artikel 3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0023439&artikel=3&z=2008-02-08&g=2006-01-01), voorzover het verzoek daartoe hangende de beslissing op bezwaar wordt gedaan;
+- e. verzoeken om schadevergoeding die samenhangen met besluiten als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023439&artikel=2&z=2008-02-08&g=2008-02-08) en [artikel 3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0023439&artikel=3&z=2008-02-08&g=2008-02-08), voorzover het verzoek daartoe hangende de beslissing op bezwaar wordt gedaan;
 
 - f. verweerschriften en andere stukken in gedingen die aanhangig zijn bij de bestuursrechter en voortvloeien uit besluiten, genoemd in de onderdelen a tot en met e.
 
@@ -103,7 +103,7 @@ De algemeen directeur, de directeur projecten, de directeur uitvoering en de man
 
 ##### Artikel 6
 
-De ondertekening, bedoeld in de [artikelen 2 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0023439&artikel=2&z=2008-02-08&g=2006-01-01), luidt:
+De ondertekening, bedoeld in de [artikelen 2 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0023439&artikel=2&z=2008-02-08&g=2008-02-08), luidt:
 
 ‘DE MINISTER VAN BINNENLANDSE ZAKEN EN KONINKRIJKSRELATIES,
 
