@@ -4,7 +4,7 @@ identifier: "BWBR0008659"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2008-01-01"
+last_updated: "2008-02-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008659"
 soort: "wet"
@@ -70,7 +70,7 @@ In deze wet en de bepalingen die daarop berusten wordt verstaan onder:
 
 - g. Onze Minister: Onze Minister voor Wonen, Wijken en Integratie;
 
-- h. rekenhuur: de rekenhuur, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=1&paragraaf=2&artikel=5&z=2008-01-01&g=2008-01-01);
+- h. rekenhuur: de rekenhuur, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=1&paragraaf=2&artikel=5&z=2008-02-13&g=2008-02-13);
 
 - i. rekeninkomen: de gezamenlijke toetsingsinkomens, bedoeld in [artikel 8 van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=8), die in aanmerking worden genomen voor het bepalen van de draagkracht, bedoeld in [artikel 7 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=7);
 
@@ -178,7 +178,7 @@ Vervallen
 
 - b. een onzelfstandige woonruimte is, welke deel uitmaakt van een woongebouw of woning, geheel of gedeeltelijk verhuurd ten behoeve van begeleid wonen, groepswonen door ouderen of een daarmee vergelijkbare woonvorm, en in eigendom van en aan de huurder verhuurd door een rechtspersoon zonder winstoogmerk, die mede op het gebied van de volkshuisvesting werkzaam is.
 
-2. Het eerste lid onder b vindt slechts toepassing als de onzelfstandige woonruimte deel uitmaakt van een woongebouw of woning, die door de Belastingdienst/Toeslagen is aangewezen. Bij algemene maatregel van bestuur kunnen terzake nadere regels worden gesteld, waarbij een lagere maximale rekenhuur kan worden vastgesteld dan uit [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=2&paragraaf=3&artikel=13&z=2008-01-01&g=2008-01-01) voortvloeit.
+2. Het eerste lid onder b vindt slechts toepassing als de onzelfstandige woonruimte deel uitmaakt van een woongebouw of woning, die door de Belastingdienst/Toeslagen is aangewezen. Bij algemene maatregel van bestuur kunnen terzake nadere regels worden gesteld, waarbij een lagere maximale rekenhuur kan worden vastgesteld dan uit [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=2&paragraaf=3&artikel=13&z=2008-02-13&g=2008-02-13) voortvloeit.
 
 3. Voor de huur van een woonwagen wordt slechts een huurtoeslag toegekend, indien deze:
 
@@ -188,7 +188,7 @@ Vervallen
 
 ##### Artikel 12
 
-1. Geen huurtoeslag wordt toegekend als de huurder van een woning met een rekenhuur boven de aftoppingsgrenzen, bedoeld in [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=2&artikel=20&z=2008-01-01&g=2008-01-01), naar het oordeel van de Belastingdienst/Toeslagen, op het tijdstip dat de huur ingaat, het gebruik had kunnen krijgen of behouden van een andere woning die beter past bij zijn economische en persoonlijke omstandigheden.
+1. Geen huurtoeslag wordt toegekend als de huurder van een woning met een rekenhuur boven de aftoppingsgrenzen, bedoeld in [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=2&artikel=20&z=2008-02-13&g=2008-02-13), naar het oordeel van de Belastingdienst/Toeslagen, op het tijdstip dat de huur ingaat, het gebruik had kunnen krijgen of behouden van een andere woning die beter past bij zijn economische en persoonlijke omstandigheden.
 
 2. Alvorens de Belastingdienst/Toeslagen tot toepassing van het eerste lid overgaat, stelt hij burgemeester en wethouders in de gelegenheid om binnen vier weken een advies daarover uit te brengen. Op verzoek van burgemeester en wethouders wordt die termijn met ten hoogste vier weken verlengd.
 
@@ -196,7 +196,7 @@ Vervallen
 
 ##### Artikel 13
 
-1. Geen huurtoeslag wordt toegekend als de rekenhuur, vermeerderd met het bedrag dat daarop eventueel krachtens [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=1&paragraaf=2&artikel=5&z=2008-01-01&g=2008-01-01), in mindering wordt gebracht:
+1. Geen huurtoeslag wordt toegekend als de rekenhuur, vermeerderd met het bedrag dat daarop eventueel krachtens [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=1&paragraaf=2&artikel=5&z=2008-02-13&g=2008-02-13), in mindering wordt gebracht:
 
 - a. hoger is dan EUR 565,44 per 1 juli 2007: € 621,78 per maand als:
 
@@ -216,7 +216,7 @@ Vervallen
 
 3. Als een huurtoeslag wordt toegekend met toepassing van het tweede lid, ontvangt de huurder geen huurtoeslag voor het deel van de rekenhuur dat ligt boven het maximum dat in het eerste lid is genoemd.
 
-4. De in het eerste lid, onder a en b, genoemde bedragen worden met ingang van 1 juli van elk jaar aangepast overeenkomstig [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=5&artikel=27&z=2008-01-01&g=2008-01-01).
+4. De in het eerste lid, onder a en b, genoemde bedragen worden met ingang van 1 juli van elk jaar aangepast overeenkomstig [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=5&artikel=27&z=2008-02-13&g=2008-02-13).
 
 #### § 4. Eisen aan de financiële positie
 
@@ -240,7 +240,7 @@ Vervallen
 
 - c. de som van de bedragen, genoemd in het eerste lid, onderdelen c of d, en bedoeld in het tweede lid.
 
-4. De in het eerste lid genoemde bedragen worden met ingang van 1 januari van elk jaar aangepast overeenkomstig [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=5&artikel=27&z=2008-01-01&g=2008-01-01).
+4. De in het eerste lid genoemde bedragen worden met ingang van 1 januari van elk jaar aangepast overeenkomstig [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=5&artikel=27&z=2008-02-13&g=2008-02-13).
 
 ##### Artikel 15
 
@@ -252,7 +252,7 @@ Vervallen
 
 ##### Artikel 16
 
-De basishuur is het gedeelte van de rekenhuur dat voor rekening van de huurder blijft. De basishuur is het overeenkomstig de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=1&artikel=17&z=2008-01-01&g=2008-01-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=1&artikel=18&z=2008-01-01&g=2008-01-01) en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=1&artikel=19&z=2008-01-01&g=2008-01-01) berekende bedrag van de normhuur verhoogd met € 12 per 1 juli 2007: € 18,10.
+De basishuur is het gedeelte van de rekenhuur dat voor rekening van de huurder blijft. De basishuur is het overeenkomstig de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=1&artikel=17&z=2008-02-13&g=2008-02-13), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=1&artikel=18&z=2008-02-13&g=2008-02-13) en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=1&artikel=19&z=2008-02-13&g=2008-02-13) berekende bedrag van de normhuur verhoogd met € 12 per 13 februari 2008 en terugwerkend tot en met 1 januari 2008: € 16,52.
 
 ##### Artikel 17
 
@@ -274,7 +274,7 @@ De basishuur is het gedeelte van de rekenhuur dat voor rekening van de huurder b
 
 - b. € 3,63 als sprake is van een meerpersoonsouderenhuishouden.
 
-4. Het in het tweede lid genoemde bedrag wordt met ingang van 1 juli van elk jaar aangepast overeenkomstig [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=5&artikel=27&z=2008-01-01&g=2008-01-01).
+4. Het in het tweede lid genoemde bedrag wordt met ingang van 1 juli van elk jaar aangepast overeenkomstig [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=5&artikel=27&z=2008-02-13&g=2008-02-13).
 
 ##### Artikel 18
 
@@ -300,13 +300,13 @@ De basishuur is het gedeelte van de rekenhuur dat voor rekening van de huurder b
 
 - d. € 4,54 als sprake is van een meerpersoonsouderenhuishouden.
 
-4. De in het eerste en tweede lid genoemde bedragen worden met ingang van 1 januari onderscheidenlijk 1 juli van elk jaar aangepast overeenkomstig [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=5&artikel=27&z=2008-01-01&g=2008-01-01).
+4. De in het eerste en tweede lid genoemde bedragen worden met ingang van 1 januari onderscheidenlijk 1 juli van elk jaar aangepast overeenkomstig [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=5&artikel=27&z=2008-02-13&g=2008-02-13).
 
 ##### Artikel 19
 
-1. Voor elk rekeninkomen onder of gelijk aan het minimum-inkomensijkpunt, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=1&artikel=17&z=2008-01-01&g=2008-01-01), verhoogd met € 200 voor een huishouden als bedoeld in [artikel 2, onder a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=1&paragraaf=2&artikel=2&z=2008-01-01&g=2008-01-01), en verhoogd met € 300 voor een huishouden als bedoeld in [artikel 2, onder b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=1&paragraaf=2&artikel=2&z=2008-01-01&g=2008-01-01), geldt de normhuur, bedoeld in [artikel 17, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=1&artikel=17&z=2008-01-01&g=2008-01-01).
+1. Voor elk rekeninkomen onder of gelijk aan het minimum-inkomensijkpunt, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=1&artikel=17&z=2008-02-13&g=2008-02-13), verhoogd met € 200 voor een huishouden als bedoeld in [artikel 2, onder a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=1&paragraaf=2&artikel=2&z=2008-02-13&g=2008-02-13), en verhoogd met € 300 voor een huishouden als bedoeld in [artikel 2, onder b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=1&paragraaf=2&artikel=2&z=2008-02-13&g=2008-02-13), geldt de normhuur, bedoeld in [artikel 17, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=1&artikel=17&z=2008-02-13&g=2008-02-13).
 
-2. Voor elk rekeninkomen boven het minimum-inkomensijkpunt, vermeerderd met de bedragen, bedoeld in het eerste lid, is, per type huishouden als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=1&paragraaf=2&artikel=2&z=2008-01-01&g=2008-01-01), de hoogte van de normhuur de uitkomst van de formule:
+2. Voor elk rekeninkomen boven het minimum-inkomensijkpunt, vermeerderd met de bedragen, bedoeld in het eerste lid, is, per type huishouden als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=1&paragraaf=2&artikel=2&z=2008-02-13&g=2008-02-13), de hoogte van de normhuur de uitkomst van de formule:
 
 (a x Y2) + (b x Y)
 
@@ -332,7 +332,7 @@ Y: het rekeninkomen.
 
 - b. b. € 458,32 per 1 juli 2007: € 526,89 per maand als het huishouden van de huurder, afgezien van eventuele onderhuurders en personen die tot diens huishouden behoren, uit drie of meer personen bestaat.
 
-3. De in het eerste en tweede lid genoemde bedragen worden met ingang van 1 juli van elk jaar aangepast overeenkomstig [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=5&artikel=27&z=2008-01-01&g=2008-01-01).
+3. De in het eerste en tweede lid genoemde bedragen worden met ingang van 1 juli van elk jaar aangepast overeenkomstig [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=5&artikel=27&z=2008-02-13&g=2008-02-13).
 
 #### § 3. Berekening van de huursubsidie
 
@@ -366,7 +366,7 @@ Vervallen
 
 ##### Artikel 23
 
-Bij verhuizing van de huurder blijft het in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=2&paragraaf=1&artikel=7&z=2008-01-01&g=2008-01-01), bedoelde recht op huurtoeslag in stand, mits hij de woning naar welke hij verhuist huurt en vervolgens bewoont en ook overigens aan de voorwaarden voor verkrijging van huurtoeslag wordt voldaan. De [artikelen 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=1&paragraaf=2&artikel=5&z=2008-01-01&g=2008-01-01), en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=2&paragraaf=3&artikel=12&z=2008-01-01&g=2008-01-01) zijn van overeenkomstige toepassing.
+Bij verhuizing van de huurder blijft het in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=2&paragraaf=1&artikel=7&z=2008-02-13&g=2008-02-13), bedoelde recht op huurtoeslag in stand, mits hij de woning naar welke hij verhuist huurt en vervolgens bewoont en ook overigens aan de voorwaarden voor verkrijging van huurtoeslag wordt voldaan. De [artikelen 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=1&paragraaf=2&artikel=5&z=2008-02-13&g=2008-02-13), en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=2&paragraaf=3&artikel=12&z=2008-02-13&g=2008-02-13) zijn van overeenkomstige toepassing.
 
 ##### Artikel 24
 
@@ -416,27 +416,27 @@ Vervallen
 
 1. Met ingang van 1 juli van elk jaar worden aangepast aan de huurprijsontwikkeling, zoals die naar redelijke verwachting in het tijdvak dat loopt van 1 juli van dat jaar tot 1 juli van het daaropvolgende jaar zal plaatsvinden:
 
-- a. de bedragen die zijn genoemd in de [artikelen 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=1&artikel=17&z=2008-01-01&g=2008-01-01), (bij minimum-inkomensijkpunt behorende normhuur) en [18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=1&artikel=18&z=2008-01-01&g=2008-01-01), (bij referentie-inkomensijkpunt behorende normhuur), bij algemene maatregel van bestuur, en
+- a. de bedragen die zijn genoemd in de [artikelen 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=1&artikel=17&z=2008-02-13&g=2008-02-13), (bij minimum-inkomensijkpunt behorende normhuur) en [18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=1&artikel=18&z=2008-02-13&g=2008-02-13), (bij referentie-inkomensijkpunt behorende normhuur), bij algemene maatregel van bestuur, en
 
-- b. de bedragen die zijn genoemd in de [artikelen 13, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=2&paragraaf=3&artikel=13&z=2008-01-01&g=2008-01-01), (maximale huurgrens) en [20, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=2&artikel=20&z=2008-01-01&g=2008-01-01), (kwaliteitskortings- en aftoppingsgrens), bij ministeriële regeling.
+- b. de bedragen die zijn genoemd in de [artikelen 13, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=2&paragraaf=3&artikel=13&z=2008-02-13&g=2008-02-13), (maximale huurgrens) en [20, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=2&artikel=20&z=2008-02-13&g=2008-02-13), (kwaliteitskortings- en aftoppingsgrens), bij ministeriële regeling.
 
 Hierbij wordt een correctie aangebracht naar de mate waarin de huurprijsontwikkeling op 1 juli van het voorafgaande jaar afweek van de verwachting waarvan werd uitgegaan bij de eerdere aanpassing van deze bedragen.
 
 2. De in het eerste lid onder a genoemde bedragen kunnen, in afwijking van de aanhef van het eerste lid, bij algemene maatregel van bestuur worden aangepast met het percentage waarmee het bedrag, bedoeld in [artikel 21, onder c, van de Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=21) is aangepast. Indien de bedragen, bedoeld in het eerste lid, onder a, met ingang van 1 juli van enig jaar zijn aangepast op de wijze, bedoeld in het eerste lid, aanhef, en met ingang van 1 juli van het daaropvolgende jaar worden aangepast op de wijze, bedoeld in de eerste volzin, wordt toepassing gegeven aan het eerste lid, tweede volzin.
 
-3. Bij ministeriële regeling wordt elk jaar, met ingang van 1 juli, het bedrag, genoemd in [artikel 13, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=2&paragraaf=3&artikel=13&z=2008-01-01&g=2008-01-01) (maximale huurgrens), aangepast aan de ontwikkeling van de consumentenprijzen (alle huishoudens) in het jaar voorafgaande aan het berekeningsjaar, als in januari van het berekeningsjaar in de Staatscourant bekendgemaakt.
+3. Bij ministeriële regeling wordt elk jaar, met ingang van 1 juli, het bedrag, genoemd in [artikel 13, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=2&paragraaf=3&artikel=13&z=2008-02-13&g=2008-02-13) (maximale huurgrens), aangepast aan de ontwikkeling van de consumentenprijzen (alle huishoudens) in het jaar voorafgaande aan het berekeningsjaar, als in januari van het berekeningsjaar in de Staatscourant bekendgemaakt.
 
-4. Bij ministeriële regeling worden elk jaar, met ingang van 1 januari, de bedragen, genoemd in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=2&paragraaf=4&artikel=14&z=2008-01-01&g=2008-01-01) (norminkomen), aangepast met de factor, bedoeld in [artikel 10.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.2), met dien verstande dat in het eerste en tweede lid van laatstgenoemd artikel voor «kalenderjaar» telkens wordt gelezen «berekeningsjaar» en dat in het tweede lid van dat artikel «, afgeleid» vervalt. Het norminkomen kan, naast de aanpassing daarvan volgens de eerste volzin, worden aangepast ter voorkoming van onbedoelde gevolgen van maatregelen met betrekking tot de inkomens boven het minimum-inkomensijkpunt.
+4. Bij ministeriële regeling worden elk jaar, met ingang van 1 januari, de bedragen, genoemd in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=2&paragraaf=4&artikel=14&z=2008-02-13&g=2008-02-13) (norminkomen), aangepast met de factor, bedoeld in [artikel 10.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.2), met dien verstande dat in het eerste en tweede lid van laatstgenoemd artikel voor «kalenderjaar» telkens wordt gelezen «berekeningsjaar» en dat in het tweede lid van dat artikel «, afgeleid» vervalt. Het norminkomen kan, naast de aanpassing daarvan volgens de eerste volzin, worden aangepast ter voorkoming van onbedoelde gevolgen van maatregelen met betrekking tot de inkomens boven het minimum-inkomensijkpunt.
 
-5. Bij ministeriële regeling wordt elk jaar, na overleg met Onze Minister van Sociale Zaken en Werkgelegenheid, de hoogte vastgesteld van de bedragen, zoals die met ingang van 1 januari krachtens [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=1&artikel=17&z=2008-01-01&g=2008-01-01), als minimum-inkomensijkpunten gelden.
+5. Bij ministeriële regeling wordt elk jaar, na overleg met Onze Minister van Sociale Zaken en Werkgelegenheid, de hoogte vastgesteld van de bedragen, zoals die met ingang van 1 januari krachtens [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=1&artikel=17&z=2008-02-13&g=2008-02-13), als minimum-inkomensijkpunten gelden.
 
-6. Bij ministeriële regeling worden elk jaar, met ingang van 1 januari, de bedragen, genoemd in [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=1&artikel=18&z=2008-01-01&g=2008-01-01) (referentie-inkomensijkpunten), aangepast met het percentage, waarmee de in het berekeningsjaar verwachte corresponderende bedragen krachtens [artikel 17, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=1&artikel=17&z=2008-01-01&g=2008-01-01), en de in het berekeningsjaar verwachte corresponderende bedragen en tegemoetkomingen krachtens de onderdelen c en d van dat artikellid (minimum-inkomensijkpunten), afwijken van de corresponderende bedragen en tegemoetkomingen die in het daaraan voorafgaande berekeningsjaar gelden krachtens de in dat artikellid genoemde wetten. Van dit percentage kan worden afgeweken, voor zover de wijziging van de in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=1&artikel=17&z=2008-01-01&g=2008-01-01), bedoelde jaarinkomens onbedoeld afwijkt van de wijziging welke naar verwachting plaats zal vinden met betrekking tot de inkomens boven het minimum-inkomensijkpunt.
+6. Bij ministeriële regeling worden elk jaar, met ingang van 1 januari, de bedragen, genoemd in [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=1&artikel=18&z=2008-02-13&g=2008-02-13) (referentie-inkomensijkpunten), aangepast met het percentage, waarmee de in het berekeningsjaar verwachte corresponderende bedragen krachtens [artikel 17, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=1&artikel=17&z=2008-02-13&g=2008-02-13), en de in het berekeningsjaar verwachte corresponderende bedragen en tegemoetkomingen krachtens de onderdelen c en d van dat artikellid (minimum-inkomensijkpunten), afwijken van de corresponderende bedragen en tegemoetkomingen die in het daaraan voorafgaande berekeningsjaar gelden krachtens de in dat artikellid genoemde wetten. Van dit percentage kan worden afgeweken, voor zover de wijziging van de in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=1&artikel=17&z=2008-02-13&g=2008-02-13), bedoelde jaarinkomens onbedoeld afwijkt van de wijziging welke naar verwachting plaats zal vinden met betrekking tot de inkomens boven het minimum-inkomensijkpunt.
 
-7. De bedragen, bedoeld in het eerste en tweede lid, en de maximale huurgrens, bedoeld in het derde lid, worden naar boven afgerond op hele eurocenten. De norminkomens, bedoeld in [artikel 14, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=2&paragraaf=4&artikel=14&z=2008-01-01&g=2008-01-01) (maximum inkomen bij een- en meerpersoonshuishoudens), de som van de bedragen, bedoeld in [artikel 14, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=2&paragraaf=4&artikel=14&z=2008-01-01&g=2008-01-01) (maximum inkomen bij een- en meerpersoonsouderenhuishoudens), en de bedragen, bedoeld in het vijfde en zesde lid van dit artikel, worden naar boven afgerond op een veelvoud van € 25. Bij een volgende aanpassing van de norminkomens en de bedragen, bedoeld in de tweede volzin, wordt uitgegaan van de norminkomens en de bedragen zoals die waren, voordat zij werden afgerond.
+7. De bedragen, bedoeld in het eerste en tweede lid, en de maximale huurgrens, bedoeld in het derde lid, worden naar boven afgerond op hele eurocenten. De norminkomens, bedoeld in [artikel 14, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=2&paragraaf=4&artikel=14&z=2008-02-13&g=2008-02-13) (maximum inkomen bij een- en meerpersoonshuishoudens), de som van de bedragen, bedoeld in [artikel 14, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=2&paragraaf=4&artikel=14&z=2008-02-13&g=2008-02-13) (maximum inkomen bij een- en meerpersoonsouderenhuishoudens), en de bedragen, bedoeld in het vijfde en zesde lid van dit artikel, worden naar boven afgerond op een veelvoud van € 25. Bij een volgende aanpassing van de norminkomens en de bedragen, bedoeld in de tweede volzin, wordt uitgegaan van de norminkomens en de bedragen zoals die waren, voordat zij werden afgerond.
 
-8. De minimum-inkomensijkpunten en de overeenkomstig het eerste tot en met zevende lid vastgestelde, vanaf 1 januari geldende referentie-inkomensijkpunten en maximale inkomensgrenzen, alsmede de als gevolg daarvan voor de onderscheiden typen huishouden gewijzigde factoren, bedoeld in [artikel 19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=1&artikel=19&z=2008-01-01&g=2008-01-01), en vanaf 1 juli geldende maximale huur-, kwaliteitskortings- en aftoppingsgrenzen, alsmede de voor de onderscheiden typen huishouden alsdan gewijzigde factoren, bedoeld in dat artikellid, worden elk jaar uiterlijk op 1 november daaraan voorafgaand onderscheidenlijk 1 mei daaraan voorafgaand in de Staatscourant bekendgemaakt.
+8. De minimum-inkomensijkpunten en de overeenkomstig het eerste tot en met zevende lid vastgestelde, vanaf 1 januari geldende referentie-inkomensijkpunten en maximale inkomensgrenzen, alsmede de als gevolg daarvan voor de onderscheiden typen huishouden gewijzigde factoren, bedoeld in [artikel 19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=1&artikel=19&z=2008-02-13&g=2008-02-13), en vanaf 1 juli geldende maximale huur-, kwaliteitskortings- en aftoppingsgrenzen, alsmede de voor de onderscheiden typen huishouden alsdan gewijzigde factoren, bedoeld in dat artikellid, worden elk jaar uiterlijk op 1 november daaraan voorafgaand onderscheidenlijk 1 mei daaraan voorafgaand in de Staatscourant bekendgemaakt.
 
-9. Bij algemene maatregel van bestuur kunnen de bedragen, genoemd in de [artikelen 5, eerste lid, onder b, en derde lid, onder a, b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=1&paragraaf=2&artikel=5&z=2008-01-01&g=2008-01-01) (garage-aftrek en maximum-servicekosten), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=1&artikel=16&z=2008-01-01&g=2008-01-01) (verhoging van de normhuur), [17, eerste lid, onder c en d (ouderentoeslag bij minimum-inkomensijkpunt), en derde lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=1&artikel=17&z=2008-01-01&g=2008-01-01) (verlaging van de normhuur bij minimum-inkomensijkpunt), en [18, derde lid, onder a, b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=1&artikel=18&z=2008-01-01&g=2008-01-01) (verlaging van de normhuur bij referentie-inkomensijkpunt), hoger of lager worden gesteld.
+9. Bij algemene maatregel van bestuur kunnen de bedragen, genoemd in de [artikelen 5, eerste lid, onder b, en derde lid, onder a, b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=1&paragraaf=2&artikel=5&z=2008-02-13&g=2008-02-13) (garage-aftrek en maximum-servicekosten), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=1&artikel=16&z=2008-02-13&g=2008-02-13) (verhoging van de normhuur), [17, eerste lid, onder c en d (ouderentoeslag bij minimum-inkomensijkpunt), en derde lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=1&artikel=17&z=2008-02-13&g=2008-02-13) (verlaging van de normhuur bij minimum-inkomensijkpunt), en [18, derde lid, onder a, b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=1&artikel=18&z=2008-02-13&g=2008-02-13) (verlaging van de normhuur bij referentie-inkomensijkpunt), hoger of lager worden gesteld.
 
 ### Hoofdstuk 6. Aanvraag, huursubsidiebericht, beperkt huursubsidiebericht, afhandeling en betaling
 
@@ -514,7 +514,7 @@ Vervallen
 
 ##### Artikel 38
 
-1. Burgemeester en wethouders zien erop toe dat het aantal gevallen, waarin een huurtoeslag wordt toegekend aan huurders die in de gemeente een woning betrekken met een rekenhuur, hoger dan de in [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=2&artikel=20&z=2008-01-01&g=2008-01-01), bedoelde aftoppingsgrens, elk tijdvak dat loopt van 1 juli tot en met 30 juni van het daaropvolgende jaar niet meer bedraagt dan vier procent van het totaal aantal van de gevallen waarin in dat tijdvak een huurtoeslag wordt toegekend aan huurders die in die gemeente een woning betrekken.
+1. Burgemeester en wethouders zien erop toe dat het aantal gevallen, waarin een huurtoeslag wordt toegekend aan huurders die in de gemeente een woning betrekken met een rekenhuur, hoger dan de in [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=2&artikel=20&z=2008-02-13&g=2008-02-13), bedoelde aftoppingsgrens, elk tijdvak dat loopt van 1 juli tot en met 30 juni van het daaropvolgende jaar niet meer bedraagt dan vier procent van het totaal aantal van de gevallen waarin in dat tijdvak een huurtoeslag wordt toegekend aan huurders die in die gemeente een woning betrekken.
 
 2. Onder huurders die een woning betrekken worden voor de toepassing van het eerste lid mede verstaan huurders die aanspraak maken op een huurtoeslag vanaf een datum die ten hoogste zes maanden ligt na de datum waarop zij huurder zijn geworden.
 
@@ -522,9 +522,9 @@ Vervallen
 
 ##### Artikel 39
 
-1. De gemeente waarin in enig tijdvak dat loopt van 1 juli tot en met 30 juni van het daaropvolgende jaar het in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=8&artikel=38&z=2008-01-01&g=2008-01-01) genoemde percentage wordt overschreden, is aan het Rijk een financiële bijdrage verschuldigd.
+1. De gemeente waarin in enig tijdvak dat loopt van 1 juli tot en met 30 juni van het daaropvolgende jaar het in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=8&artikel=38&z=2008-02-13&g=2008-02-13) genoemde percentage wordt overschreden, is aan het Rijk een financiële bijdrage verschuldigd.
 
-2. De hoogte van de bijdrage is gelijk aan het aantal van de gevallen waarin in het tijdvak dat loopt van 1 juli tot en met 30 juni van het daaropvolgende jaar in die gemeente het in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=8&artikel=38&z=2008-01-01&g=2008-01-01) genoemde percentage werd overschreden verminderd met het aantal gevallen waarin de Belastingdienst/Toeslagen in overeenstemming met Onze Minister is afgeweken van het advies van burgemeester en wethouders, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=2&paragraaf=3&artikel=12&z=2008-01-01&g=2008-01-01), vermenigvuldigd met een bij algemene maatregel van bestuur vastgesteld tarief. Daarbij is bepalend het aantal gevallen dat bij Onze Minister bekend is op 1 juli van het jaar volgend op het tijdvak, bedoeld in de eerste volzin.
+2. De hoogte van de bijdrage is gelijk aan het aantal van de gevallen waarin in het tijdvak dat loopt van 1 juli tot en met 30 juni van het daaropvolgende jaar in die gemeente het in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=8&artikel=38&z=2008-02-13&g=2008-02-13) genoemde percentage werd overschreden verminderd met het aantal gevallen waarin de Belastingdienst/Toeslagen in overeenstemming met Onze Minister is afgeweken van het advies van burgemeester en wethouders, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=2&paragraaf=3&artikel=12&z=2008-02-13&g=2008-02-13), vermenigvuldigd met een bij algemene maatregel van bestuur vastgesteld tarief. Daarbij is bepalend het aantal gevallen dat bij Onze Minister bekend is op 1 juli van het jaar volgend op het tijdvak, bedoeld in de eerste volzin.
 
 3. Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld over de berekening en de invordering van de verschuldigde financiële bijdrage.
 
@@ -580,13 +580,13 @@ Vervallen
 
 ##### Artikel 49
 
-1. De Belastingdienst/Toeslagen kan voor de huur van nader door Onze Minister aangewezen woningen of categorieën van woningen een huurtoeslag toekennen in afwijking van de [artikelen 1, onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=1&paragraaf=1&artikel=1&z=2008-01-01&g=2008-01-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=2&paragraaf=3&artikel=11&z=2008-01-01&g=2008-01-01) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=2&paragraaf=3&artikel=13&z=2008-01-01&g=2008-01-01), ten behoeve van experimenten die naar het oordeel van Onze Minister in het belang van de volkshuisvesting zijn. Onze Minister bepaalt hierbij vooraf de duur van het experiment.
+1. De Belastingdienst/Toeslagen kan voor de huur van nader door Onze Minister aangewezen woningen of categorieën van woningen een huurtoeslag toekennen in afwijking van de [artikelen 1, onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=1&paragraaf=1&artikel=1&z=2008-02-13&g=2008-02-13), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=2&paragraaf=3&artikel=11&z=2008-02-13&g=2008-02-13) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=2&paragraaf=3&artikel=13&z=2008-02-13&g=2008-02-13), ten behoeve van experimenten die naar het oordeel van Onze Minister in het belang van de volkshuisvesting zijn. Onze Minister bepaalt hierbij vooraf de duur van het experiment.
 
 2. De Belastingdienst/Toeslagen kan op verzoek van Onze Minister na afsluiting van het experiment af blijven wijken van de in het eerste lid genoemde artikelen, voor zover het de bewoners betreft die tijdens de duur van het experiment een huurtoeslag ontvingen met toepassing van het eerste lid en zolang een door Onze Minister op basis van het experiment noodzakelijk geoordeelde wijziging van deze wet nog niet van kracht is geworden en in werking is getreden.
 
 ##### Artikel 50
 
-De voordracht voor een algemene maatregel van bestuur krachtens [artikel 27, eerste lid, onder a, tweede lid, eerste volzin, en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=5&artikel=27&z=2008-01-01&g=2008-01-01), wordt niet gedaan dan nadat het ontwerp aan de beide kamers der Staten-Generaal is overgelegd en sedert die overlegging acht weken zijn verstreken.
+De voordracht voor een algemene maatregel van bestuur krachtens [artikel 27, eerste lid, onder a, tweede lid, eerste volzin, en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=5&artikel=27&z=2008-02-13&g=2008-02-13), wordt niet gedaan dan nadat het ontwerp aan de beide kamers der Staten-Generaal is overgelegd en sedert die overlegging acht weken zijn verstreken.
 
 ### Hoofdstuk 10. Overgangs- en slotbepalingen
 
@@ -608,21 +608,21 @@ De Wet individuele huursubsidie wordt ingetrokken.
 
 ##### Artikel 55
 
-1. Op subsidietijdvakken die zijn aangevangen onder de werking van de Wet individuele huursubsidie blijven de daarop vóór de inwerkingtreding van de Huursubsidiewet geldende bepalingen van toepassing. Gedurende de eerste vijf subsidiejaren na de inwerkingtreding van [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=8&artikel=44&z=2008-01-01&g=2008-01-01), wordt de huursubsidie-uitgavennorm zodanig lager vastgesteld dan uit [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=8&artikel=41&z=2008-01-01&g=2008-01-01) voortvloeit, dat een eventuele overschrijding van de huursubsidie-uitgavennorm die is ontstaan gedurende het eerste subsidiejaar na inwerkingtreding van deze wet, wordt tenietgedaan.
+1. Op subsidietijdvakken die zijn aangevangen onder de werking van de Wet individuele huursubsidie blijven de daarop vóór de inwerkingtreding van de Huursubsidiewet geldende bepalingen van toepassing. Gedurende de eerste vijf subsidiejaren na de inwerkingtreding van [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=8&artikel=44&z=2008-02-13&g=2008-02-13), wordt de huursubsidie-uitgavennorm zodanig lager vastgesteld dan uit [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=8&artikel=41&z=2008-02-13&g=2008-02-13) voortvloeit, dat een eventuele overschrijding van de huursubsidie-uitgavennorm die is ontstaan gedurende het eerste subsidiejaar na inwerkingtreding van deze wet, wordt tenietgedaan.
 
-2. In het eerste subsidiejaar na inwerkingtreding van deze wet wordt in afwijking van [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=1&paragraaf=2&artikel=4&z=2008-01-01&g=2008-01-01), verstaan onder rekenvermogen: het gezamenlijk vermogen van de huurder en de medebewoners op 0.00 uur op de datum van inwerkingtreding van [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=1&paragraaf=2&artikel=4&z=2008-01-01&g=2008-01-01).
+2. In het eerste subsidiejaar na inwerkingtreding van deze wet wordt in afwijking van [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=1&paragraaf=2&artikel=4&z=2008-02-13&g=2008-02-13), verstaan onder rekenvermogen: het gezamenlijk vermogen van de huurder en de medebewoners op 0.00 uur op de datum van inwerkingtreding van [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=1&paragraaf=2&artikel=4&z=2008-02-13&g=2008-02-13).
 
-3. [Artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=2&paragraaf=3&artikel=11&z=2008-01-01&g=2008-01-01) blijft buiten toepassing ten aanzien van een huurder van onzelfstandige woonruimte, anders dan bedoeld in dat artikel, indien die woonruimte onmiddellijk voorafgaand aan het moment dat de Wet individuele huursubsidie werd ingetrokken, was aangewezen als woonruimte aan de huurder waarvan een bijdrage op voet van die wet kon worden verstrekt.
+3. [Artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=2&paragraaf=3&artikel=11&z=2008-02-13&g=2008-02-13) blijft buiten toepassing ten aanzien van een huurder van onzelfstandige woonruimte, anders dan bedoeld in dat artikel, indien die woonruimte onmiddellijk voorafgaand aan het moment dat de Wet individuele huursubsidie werd ingetrokken, was aangewezen als woonruimte aan de huurder waarvan een bijdrage op voet van die wet kon worden verstrekt.
 
-4. [Artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=2&paragraaf=3&artikel=13&z=2008-01-01&g=2008-01-01), is niet van toepassing op een huurder op wie artikel 41 van de Wet individuele huursubsidie of [artikel II van de wet van 9 juni 1994 houdende wijziging van de Wet individuele huursubsidie](https://wetten.overheid.nl/jci1.3:c:BWBR0006720&artikel=II) (Stb. 439) van toepassing was over de aan de dag van inwerkingtreding van deze wet voorafgaande kalendermaand, zolang deze huurder het genot van de desbetreffende woning behoudt. [Artikel 13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=2&paragraaf=3&artikel=13&z=2008-01-01&g=2008-01-01), is in deze gevallen van overeenkomstige toepassing.
+4. [Artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=2&paragraaf=3&artikel=13&z=2008-02-13&g=2008-02-13), is niet van toepassing op een huurder op wie artikel 41 van de Wet individuele huursubsidie of [artikel II van de wet van 9 juni 1994 houdende wijziging van de Wet individuele huursubsidie](https://wetten.overheid.nl/jci1.3:c:BWBR0006720&artikel=II) (Stb. 439) van toepassing was over de aan de dag van inwerkingtreding van deze wet voorafgaande kalendermaand, zolang deze huurder het genot van de desbetreffende woning behoudt. [Artikel 13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=2&paragraaf=3&artikel=13&z=2008-02-13&g=2008-02-13), is in deze gevallen van overeenkomstige toepassing.
 
-5. Bij de toepassing van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=1&paragraaf=2&artikel=2&z=2008-01-01&g=2008-01-01), en bij de toepassing van [artikel 7 van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=7) kan de Belastingdienst/Toeslagen op verzoek van de huurder het op 31 december 2005 van kracht zijnde beleid toepassen dat Onze Minister heeft getroffen op grond van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=2&paragraaf=2&artikel=9&z=2008-01-01&g=2008-01-01) en [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=4&artikel=26&z=2008-01-01&g=2008-01-01), eerste lid, zoals die artikelen onmiddellijk voorafgaand aan de inwerkingtreding van de [Aanpassingswet Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018471) luidden.
+5. Bij de toepassing van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=1&paragraaf=2&artikel=2&z=2008-02-13&g=2008-02-13), en bij de toepassing van [artikel 7 van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=7) kan de Belastingdienst/Toeslagen op verzoek van de huurder het op 31 december 2005 van kracht zijnde beleid toepassen dat Onze Minister heeft getroffen op grond van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=2&paragraaf=2&artikel=9&z=2008-02-13&g=2008-02-13) en [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=4&artikel=26&z=2008-02-13&g=2008-02-13), eerste lid, zoals die artikelen onmiddellijk voorafgaand aan de inwerkingtreding van de [Aanpassingswet Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018471) luidden.
 
 6. Het vijfde lid geldt uitsluitend in bij of krachtens algemene maatregel van bestuur vast te stellen gevallen.
 
-7. Een verrekening als bedoeld in [artikel 36, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=7&artikel=36&z=2008-01-01&g=2008-01-01), kan mede betrekking hebben op te veel betaalde bedragen en de daarop betrekking hebbende verhogingen op voet van de Wet individuele huursubsidie.
+7. Een verrekening als bedoeld in [artikel 36, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=7&artikel=36&z=2008-02-13&g=2008-02-13), kan mede betrekking hebben op te veel betaalde bedragen en de daarop betrekking hebbende verhogingen op voet van de Wet individuele huursubsidie.
 
-8. Voor de toepassing van [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=8&artikel=41&z=2008-01-01&g=2008-01-01) voor het eerste subsidiejaar na inwerkingtreding van deze wet, gelden de bijdragen op voet van de Wet individuele huursubsidie over het daaraan voorafgaande jaar als uitgaven aan huursubsidie.
+8. Voor de toepassing van [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=8&artikel=41&z=2008-02-13&g=2008-02-13) voor het eerste subsidiejaar na inwerkingtreding van deze wet, gelden de bijdragen op voet van de Wet individuele huursubsidie over het daaraan voorafgaande jaar als uitgaven aan huursubsidie.
 
 ##### Artikel 56
 
