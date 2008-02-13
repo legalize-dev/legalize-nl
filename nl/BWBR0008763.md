@@ -4,7 +4,7 @@ identifier: "BWBR0008763"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2008-01-01"
+last_updated: "2008-02-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008763"
 soort: "AMvB"
@@ -98,7 +98,7 @@ In dit besluit wordt verstaan onder:
 
 - b. het begeleid wonen of de daarmee vergelijkbare woonvorm gericht is op integratie en acceptatie van de bewoners in de nabije omgeving;
 
-- c. de zorg of begeleiding plaatsvindt door een instelling als bedoeld in [artikel 1, eerste lid, onderdeel f, van de Wet toelating zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=1), die zorg verleent waarop aanspraak bestaat ingevolge de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) of door een andere deskundige, erkende hulpverleningsinstantie;
+- c. de zorg of begeleiding plaatsvindt door een instelling als bedoeld in [artikel 1, eerste lid, onderdeel f, van de Wet toelating zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=1), die zorg verleent waarop aanspraak bestaat ingevolge de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) of door een andere deskundige, erkende hulpverleningsinstantie, of de huurders beschikken over een persoonsgebonden budget op grond van [laatstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002614);
 
 - d. er een gescheiden huur- en zorgovereenkomst is, en
 
@@ -238,9 +238,9 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 2c
 
-1. Een verzoek als bedoeld in de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008763&hoofdstuk=2&artikel=2&z=2008-01-01&g=2008-01-01), [2a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008763&hoofdstuk=2&artikel=2a&z=2008-01-01&g=2008-01-01), en [2b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008763&hoofdstuk=2&artikel=2b&z=2008-01-01&g=2008-01-01), kan worden gedaan tot het tijdstip dat de toekenning van de huurtoeslag over het desbetreffende berekeningsjaar onherroepelijk is geworden.
+1. Een verzoek als bedoeld in de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008763&hoofdstuk=2&artikel=2&z=2008-02-13&g=2008-02-13), [2a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008763&hoofdstuk=2&artikel=2a&z=2008-02-13&g=2008-02-13), en [2b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008763&hoofdstuk=2&artikel=2b&z=2008-02-13&g=2008-02-13), kan worden gedaan tot het tijdstip dat de toekenning van de huurtoeslag over het desbetreffende berekeningsjaar onherroepelijk is geworden.
 
-2. Een verzoek als bedoeld in de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008763&hoofdstuk=2&artikel=2&z=2008-01-01&g=2008-01-01), [2a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008763&hoofdstuk=2&artikel=2a&z=2008-01-01&g=2008-01-01), en [2b, eerste lid, onderdelen c en e](https://wetten.overheid.nl/jci1.3:c:BWBR0008763&hoofdstuk=2&artikel=2b&z=2008-01-01&g=2008-01-01), wordt geacht mede te zijn gedaan voor op het berekeningsjaar volgende berekeningsjaren.
+2. Een verzoek als bedoeld in de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008763&hoofdstuk=2&artikel=2&z=2008-02-13&g=2008-02-13), [2a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008763&hoofdstuk=2&artikel=2a&z=2008-02-13&g=2008-02-13), en [2b, eerste lid, onderdelen c en e](https://wetten.overheid.nl/jci1.3:c:BWBR0008763&hoofdstuk=2&artikel=2b&z=2008-02-13&g=2008-02-13), wordt geacht mede te zijn gedaan voor op het berekeningsjaar volgende berekeningsjaren.
 
 ### Hoofdstuk 3. Onzelfstandige woonruimte
 
