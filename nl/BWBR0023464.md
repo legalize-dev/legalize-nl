@@ -1,0 +1,52 @@
+---
+title: "Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Natuurlijke Personen vanaf 1945 (Minister van Buitenlandse Zaken)"
+identifier: "BWBR0023464"
+country: "nl"
+rank: "archiefselectielijst"
+publication_date: "2008-02-15"
+last_updated: "2008-02-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0023464"
+soort: "ministeriele-regeling-archiefselectielijst"
+stam_id: "9415953"
+version_id: "15158302"
+internal_id: "C25321571"
+label_id: "9393404"
+dtd_version: "2.0"
+original_entry_into_force: "2008-02-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0023464/2008-02-15/0"
+intitule_bron: "Stcrt.2008-31"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-01-15"
+intitule_published: "2008-02-13"
+intitule_in_force: "2008-02-13"
+intitule_status: "goed"
+original_publication: "Stcrt.2008-31"
+original_signed_date: "2008-01-15"
+original_published_date: "2008-02-13"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2008-31-p8-SC84437"
+entry_into_force_date: "2008-02-15"
+jci_1_3: "jci1.3:c:BWBR0023464&z=2008-02-15&g=2008-02-15"
+jci_1_0: "1.0:c:BWBR0023464&g=2008-02-15"
+citeertitel_status: "redactioneel"
+signed_date: "2008-01-15"
+entry_into_force: "2008-02-15"
+---
+# Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Natuurlijke Personen vanaf 1945 (Minister van Buitenlandse Zaken)
+
+Gelet op [artikel 5, tweede lid, onder b, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=5);
+
+De Raad voor Cultuur gehoord (advies van de Raad voor Cultuur van 17-12-2007, arc-2007-04229/3);
+
+Besluiten:
+
+##### Artikel 1
+
+De bij dit besluit gevoegde ‘[selectielijst voor de neerslag van de handelingen van de Minister van Buitenlandse Zaken en de onder hem ressorterende actoren op het beleidsterrein Natuurlijke Personen over de periode 1945–](onbekend)’ en de daarbij behorende toelichting worden vastgesteld.
+
+##### Artikel 2
+
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
+
+De Minister van Onderwijs, Cultuur en Wetenschap is belast met de uitvoering van dit besluit dat met de daarbij behorende [selectielijst](onbekend) en toelichting in de Staatscourant zal worden geplaatst.
