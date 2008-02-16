@@ -4,7 +4,7 @@ identifier: "BWBR0019258"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2008-02-16"
-last_updated: "2007-01-01"
+last_updated: "2008-02-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019258"
 soort: "ministeriele-regeling"
@@ -202,13 +202,13 @@ Wijzigt het Reglement rechtstoestand tewerkgestelden.
 
 ##### Artikel 9.1
 
-Het bedrag, bedoeld in [artikel 2.5.9, eerste lid, van de Invoerings- en aanpassingswet Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018830&artikel=2.5.9) bedraagt € 2.500.000.000.
+Het bedrag, bedoeld in [artikel 2.5.9, eerste lid, van de Invoerings- en aanpassingswet Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018830&artikel=2.5.9) bedraagt € 2.800.000.000.
 
 ##### Artikel 9.2
 
-1. Deze regeling treedt in werking met ingang van 1 januari 2006, met uitzondering van [artikel 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0019258&hoofdstuk=1&artikel=1.1&z=2007-01-01&g=2007-01-01) en [artikel 1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0019258&hoofdstuk=1&artikel=1.8&z=2007-01-01&g=2007-01-01), die in werking treden met ingang van 1 januari 2007.
+1. Deze regeling treedt in werking met ingang van 1 januari 2006, met uitzondering van [artikel 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0019258&hoofdstuk=1&artikel=1.1&z=2008-02-16&g=2008-02-16) en [artikel 1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0019258&hoofdstuk=1&artikel=1.8&z=2008-02-16&g=2008-02-16), die in werking treden met ingang van 1 januari 2007.
 
-2. In afwijking van het eerste lid treden de [artikelen 1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0019258&hoofdstuk=1&artikel=1.2&z=2007-01-01&g=2007-01-01), [1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0019258&hoofdstuk=1&artikel=1.5&z=2007-01-01&g=2007-01-01), [2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0019258&hoofdstuk=2&artikel=2.1&z=2007-01-01&g=2007-01-01), [2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0019258&hoofdstuk=2&artikel=2.3&z=2007-01-01&g=2007-01-01) en [7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0019258&hoofdstuk=7&artikel=7.1&z=2007-01-01&g=2007-01-01) in werking op het tijdstip waarop de [Wet toelating zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018906) in werking treedt.
+2. In afwijking van het eerste lid treden de [artikelen 1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0019258&hoofdstuk=1&artikel=1.2&z=2008-02-16&g=2008-02-16), [1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0019258&hoofdstuk=1&artikel=1.5&z=2008-02-16&g=2008-02-16), [2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0019258&hoofdstuk=2&artikel=2.1&z=2008-02-16&g=2008-02-16), [2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0019258&hoofdstuk=2&artikel=2.3&z=2008-02-16&g=2008-02-16) en [7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0019258&hoofdstuk=7&artikel=7.1&z=2008-02-16&g=2008-02-16) in werking op het tijdstip waarop de [Wet toelating zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018906) in werking treedt.
 
 ##### Artikel 9.3
 
