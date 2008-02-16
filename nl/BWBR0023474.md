@@ -4,7 +4,7 @@ identifier: "BWBR0023474"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2008-02-16"
-last_updated: "2008-01-09"
+last_updated: "2008-02-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023474"
 soort: "ministeriele-regeling"
@@ -44,11 +44,11 @@ Aan de directeur van Dienst Regelingen van het ministerie van Landbouw, Natuur e
 
 ##### Artikel 2
 
-De functionaris, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0023474&artikel=1&z=2008-02-16&g=2008-01-09), maakt geen gebruik van de aan hem verleende bevoegdheden zonder voorafgaande instemming van zijn opdrachtgever (Directeur Juridische Dienstverlenging van het Commando DienstenCentra) indien de schademelding een bedrag van EUR 10.000,– te boven gaat. Dit bedrag kan door opdrachtgever worden aangepast voor zover de feitelijke situatie hiertoe aanleiding geeft.
+De functionaris, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0023474&artikel=1&z=2008-02-16&g=2008-02-16), maakt geen gebruik van de aan hem verleende bevoegdheden zonder voorafgaande instemming van zijn opdrachtgever (Directeur Juridische Dienstverlenging van het Commando DienstenCentra) indien de schademelding een bedrag van EUR 10.000,– te boven gaat. Dit bedrag kan door opdrachtgever worden aangepast voor zover de feitelijke situatie hiertoe aanleiding geeft.
 
 ##### Artikel 3
 
-Een document waarin een besluit of een andere handeling als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0023474&artikel=1&z=2008-02-16&g=2008-01-09) is vastgelegd bevat aan het slot de volgende formule:
+Een document waarin een besluit of een andere handeling als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0023474&artikel=1&z=2008-02-16&g=2008-02-16) is vastgelegd bevat aan het slot de volgende formule:
 
 DE STAATSSECRETARIS VAN DEFENSIE
 
