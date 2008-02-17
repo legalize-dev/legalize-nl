@@ -4,7 +4,7 @@ identifier: "BWBR0023515"
 country: "nl"
 rank: "pbo"
 publication_date: "2008-02-17"
-last_updated: "2008-01-01"
+last_updated: "2008-02-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023515"
 soort: "pbo"
@@ -71,7 +71,7 @@ De ondernemer is voor het jaar 2008 verplicht terzake van de be- of verwerking v
 
 2. Onder eerste koop wordt in dit artikel verstaan: de koop van rijst, meel of mout door een koper die deze producten rechtstreeks of door middel van een handelaar verkrijgt teneinde deze in Nederland te be- of verwerken of in Nederland in de handel te brengen.
 
-3. De heffing is niet verschuldigd indien ten genoegen van de secretaris wordt aangetoond dat over de betrokken hoeveelheden rijst en graanproducten al op grond van dit artikel of het [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023515&paragraaf=2&artikel=2&z=2008-02-17&g=2008-01-01) de heffing is geïnd.
+3. De heffing is niet verschuldigd indien ten genoegen van de secretaris wordt aangetoond dat over de betrokken hoeveelheden rijst en graanproducten al op grond van dit artikel of het [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023515&paragraaf=2&artikel=2&z=2008-02-17&g=2008-02-17) de heffing is geïnd.
 
 ##### Artikel 4. (landbouwzaaizaden)
 
@@ -87,37 +87,37 @@ De ondernemer is voor het jaar 2008 verplicht terzake van de be- of verwerking v
 
 ##### Artikel 5
 
-De heffing bedoeld in de [artikelen 2 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023515&paragraaf=2&artikel=2&z=2008-02-17&g=2008-01-01) is bestemd voor de huishoudelijke uitgaven van het productschap alsmede voor de aan het Hoofdproductschap Akkerbouw te verlenen bijdrage in de algemene kosten.
+De heffing bedoeld in de [artikelen 2 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023515&paragraaf=2&artikel=2&z=2008-02-17&g=2008-02-17) is bestemd voor de huishoudelijke uitgaven van het productschap alsmede voor de aan het Hoofdproductschap Akkerbouw te verlenen bijdrage in de algemene kosten.
 
 ##### Artikel 6
 
-1. De ondernemer bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023515&paragraaf=2&artikel=2&z=2008-02-17&g=2008-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0023515&paragraaf=2&artikel=3&z=2008-02-17&g=2008-01-01) is verplicht binnen tien dagen na afloop van ieder kwartaal door middel van een hiertoe dienend opgavenformulier aan het productschap naar waarheid gegevens te verstrekken ten behoeve van de vaststelling van de in genoemde artikelen bedoelde heffing. De [Verordening GZP algemene bepalingen 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014665) is hierbij van toepassing.
+1. De ondernemer bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023515&paragraaf=2&artikel=2&z=2008-02-17&g=2008-02-17) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0023515&paragraaf=2&artikel=3&z=2008-02-17&g=2008-02-17) is verplicht binnen tien dagen na afloop van ieder kwartaal door middel van een hiertoe dienend opgavenformulier aan het productschap naar waarheid gegevens te verstrekken ten behoeve van de vaststelling van de in genoemde artikelen bedoelde heffing. De [Verordening GZP algemene bepalingen 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014665) is hierbij van toepassing.
 
 2. Ook indien in een bepaalde periode geen activiteiten als vermeld op het opgavenformulier hebben plaatsgevonden dient een opgave te worden gedaan.
 
 ##### Artikel 7
 
-1. De ondernemer bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023515&paragraaf=2&artikel=4&z=2008-02-17&g=2008-01-01), is verplicht jaarlijks vóór 31 oktober door middel van een hiertoe dienend opgavenformulier aan het productschap naar waarheid gegevens te verstrekken ten behoeve van de vaststelling van de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023515&paragraaf=2&artikel=4&z=2008-02-17&g=2008-01-01) bedoelde heffing.
+1. De ondernemer bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023515&paragraaf=2&artikel=4&z=2008-02-17&g=2008-02-17), is verplicht jaarlijks vóór 31 oktober door middel van een hiertoe dienend opgavenformulier aan het productschap naar waarheid gegevens te verstrekken ten behoeve van de vaststelling van de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023515&paragraaf=2&artikel=4&z=2008-02-17&g=2008-02-17) bedoelde heffing.
 
 De [Verordening GZP algemene bepalingen 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014665) is hierbij van toepassing.
 
-2. De heffing bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023515&paragraaf=2&artikel=4&z=2008-02-17&g=2008-01-01), wordt door het productschap geïnd
+2. De heffing bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023515&paragraaf=2&artikel=4&z=2008-02-17&g=2008-02-17), wordt door het productschap geïnd
 
 - –. voor de telers van graszaad op basis van de door de teler aan het Hoofdproductschap Akkerbouw ingevolge de bij of krachtens de [Verordening HPA registratie en verstrekking van gegevens 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014846) verstrekte gegevens en overigens
 
-- –. door middel van de in het [eerste lid van artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023515&paragraaf=2&artikel=4&z=2008-02-17&g=2008-01-01) bedoelde ondernemers op basis van door hen afgesloten teeltcontracten.
+- –. door middel van de in het [eerste lid van artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023515&paragraaf=2&artikel=4&z=2008-02-17&g=2008-02-17) bedoelde ondernemers op basis van door hen afgesloten teeltcontracten.
 
 ##### Artikel 8
 
-1 . De ondernemer, bedoeld in [artikel 2 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023515&paragraaf=2&artikel=2&z=2008-02-17&g=2008-01-01), legt indien de secretaris daarom verzoekt, een door een accountant afgegeven verklaring over, waaruit blijkt de totale hoeveelheid granen, rijst of graanproducten welke door hem is verwerkt of als eerste koper is gekocht, onderscheidenlijk het aantal hectare, op contractbasis geteelde, landbouwzaaizaden.
+1 . De ondernemer, bedoeld in [artikel 2 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023515&paragraaf=2&artikel=2&z=2008-02-17&g=2008-02-17), legt indien de secretaris daarom verzoekt, een door een accountant afgegeven verklaring over, waaruit blijkt de totale hoeveelheid granen, rijst of graanproducten welke door hem is verwerkt of als eerste koper is gekocht, onderscheidenlijk het aantal hectare, op contractbasis geteelde, landbouwzaaizaden.
 
-2. De ondernemer is verplicht alle medewerking te verlenen aan de controle door of namens het productschap van de in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0023515&paragraaf=2&artikel=6&z=2008-02-17&g=2008-01-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0023515&paragraaf=2&artikel=7&z=2008-02-17&g=2008-01-01) bedoelde opgaven.
+2. De ondernemer is verplicht alle medewerking te verlenen aan de controle door of namens het productschap van de in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0023515&paragraaf=2&artikel=6&z=2008-02-17&g=2008-02-17) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0023515&paragraaf=2&artikel=7&z=2008-02-17&g=2008-02-17) bedoelde opgaven.
 
 #### § 3. Ambtshalve heffing
 
 ##### Artikel 9
 
-1 . Indien de ondernemer de gegevens, bedoeld in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0023515&paragraaf=2&artikel=6&z=2008-02-17&g=2008-01-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0023515&paragraaf=2&artikel=7&z=2008-02-17&g=2008-01-01) niet, niet tijdig of naar het oordeel van de secretaris niet volledig heeft verstrekt, is de secretaris bevoegd namens het bestuur de verschuldigde heffing voor de betreffende periode ambtshalve bij aanslag vast te stellen.
+1 . Indien de ondernemer de gegevens, bedoeld in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0023515&paragraaf=2&artikel=6&z=2008-02-17&g=2008-02-17) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0023515&paragraaf=2&artikel=7&z=2008-02-17&g=2008-02-17) niet, niet tijdig of naar het oordeel van de secretaris niet volledig heeft verstrekt, is de secretaris bevoegd namens het bestuur de verschuldigde heffing voor de betreffende periode ambtshalve bij aanslag vast te stellen.
 
 2. Indien de heffingsplichtige binnen 21 dagen na ontvangst van de heffingsaanslag bedoeld in het eerste lid, alsnog de gevraagde gegevens verstrekt, wordt de aanvankelijk vastgestelde heffing ingetrokken en een nieuwe heffing vastgesteld op basis van de door hem verstrekte gegevens.
 
@@ -137,7 +137,7 @@ Het productschap kan besluiten nota’s van minder dan € 50,– samen te voege
 
 ##### Artikel 12
 
-Aan de ondernemer die niet of niet geheel binnen de in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0023515&paragraaf=4&artikel=10&z=2008-02-17&g=2008-01-01) gestelde termijn heeft betaald, kan door het productschap de wettelijke interest over het niet betaalde bedrag in rekening worden gebracht, te berekenen vanaf de dag waarop de betaling uiterlijk diende te zijn verricht ingevolge de aanmaning bedoeld in [artikel 127, twee e lid, van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=127).
+Aan de ondernemer die niet of niet geheel binnen de in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0023515&paragraaf=4&artikel=10&z=2008-02-17&g=2008-02-17) gestelde termijn heeft betaald, kan door het productschap de wettelijke interest over het niet betaalde bedrag in rekening worden gebracht, te berekenen vanaf de dag waarop de betaling uiterlijk diende te zijn verricht ingevolge de aanmaning bedoeld in [artikel 127, twee e lid, van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=127).
 
 #### § 5. Slotbepalingen
 
