@@ -4,7 +4,7 @@ identifier: "BWBR0018150"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-05-01"
-last_updated: "2008-01-01"
+last_updated: "2008-02-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018150"
 soort: "ministeriele-regeling"
@@ -53,7 +53,7 @@ In deze regeling wordt verstaan onder:
 
 - e. opdrachtgever: de autoriteit die de aanbieder een bijzondere last, bevel, toestemming, vordering of verzoek heeft gegegeven onderscheidenlijk gedaan om een aftap- of informatieverstrekkingsactiviteit te verrichten;
 
-- f. indicatieve tarieven: bedragen die de opdrachtgever hanteert bij het vaststellen van de hoogte van de vergoeding van de declarabele kosten, zoals vermeld in de bij deze regeling behorende bijlage.
+- f. indicatieve tarieven: bedragen die de opdrachtgever hanteert bij het vaststellen van de hoogte van de vergoeding van de declarabele kosten.
 
 ##### Artikel 2
 
@@ -79,9 +79,9 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 4
 
-1. De indicatieve bedragen, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018150&artikel=3&z=2005-04-02&g=2008-01-01), worden jaarlijks voor 1 mei geïndexeerd aan de hand van de door het Centraal Planbureau in het meest recente Centraal Economisch Plan voor het jaar voorafgaand aan het lopende kalenderjaar vastgestelde ontwikkeling van het contractloon in de marktsector.
+1. De indicatieve tarieven, vermeld in de bij deze regeling behorende bijlage, worden jaarlijks met ingang van 1 juni aangepast overeenkomstig het percentage van de ontwikkeling van het contractloon in de marktsector zoals door het Centraal Planbureau vastgesteld in het meest recente Centraal Economisch Plan voor het jaar voorafgaand aan het lopende kalenderjaar. De minister maakt de aangepaste bedragen bekend door publicatie in de Staatscourant.
 
-2. Wijziging van de indicatieve bedragen, anders dan bedoeld in het eerste lid, vindt plaats in overeenstemming met de ministers van Justitie, Binnenlandse Zaken en Defensie.
+2. Wijziging van de indicatieve tarieven, anders dan bedoeld in het eerste lid, vindt plaats bij ministeriële regeling in overeenstemming met de ministers van Justitie, Binnenlandse Zaken en Defensie.
 
 ##### Artikel 5
 
@@ -103,9 +103,9 @@ Elke kostenopgave bevat een specificatie ten aanzien van de verrichte werkzaamhe
 
 Kostenopgaven bevatten voorts de volgende gegevens voor zover van toepassing op de verrichte werkzaamheden:
 
-### **III. Indicatieve tarieven als bedoeld in artikel 1, onder f**
+### **III. Indicatieve tarieven**
 
-A. De indicatieve tarieven, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018150&artikel=2&z=2005-04-02&g=2008-01-01), bedragen voor de uitvoering van aftap- of informatieverstrekkingsactiviteiten:
+A. Tot het tijdstip dat de eerste keer een indexering overeenkomstig [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018150&artikel=4&z=2008-02-22&g=2008-02-22), van de regeling heeft plaatsgevonden, bedragen de indicatieve tarieven voor de uitvoering van aftap- of informatieverstrekkingsactiviteiten:
 
 B. De onder A genoemde indicatieve tarieven worden met 50% respectievelijk 100 % verhoogd indien spoedshalve aftap- en informatieverstrekkingsactiviteiten buiten kantooruren respectievelijk in de weekeinden of op feestdagen moeten worden uitgevoerd.
 
