@@ -4,7 +4,7 @@ identifier: "BWBR0021493"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2008-02-22"
-last_updated: "2007-03-27"
+last_updated: "2008-02-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0021493"
 soort: "ministeriele-regeling"
@@ -58,7 +58,7 @@ Besluit:
 
 - g. nulmeting: inventarisatie van gegevens over afvalscheiding en afvalpreventie, voor zover het huishoudelijke afvalstoffen betreft, volgens de opgave in de bijlage bij deze regeling;
 
-- h. plan van aanpak: de beschrijving van feitelijk voorgenomen maatregelen met betrekking tot huishoudelijke afvalstoffen ter bereiking van het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0021493&artikel=2&z=2007-03-27&g=2007-03-27) beschreven doel waarin in elk geval de volgende onderdelen zijn uitgewerkt en opgenomen:
+- h. plan van aanpak: de beschrijving van feitelijk voorgenomen maatregelen met betrekking tot huishoudelijke afvalstoffen ter bereiking van het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0021493&artikel=2&z=2008-02-22&g=2008-02-22) beschreven doel waarin in elk geval de volgende onderdelen zijn uitgewerkt en opgenomen:
 
 - 1°. maatregelen, gericht op het optimaliseren van voorzieningen en werkprocessen ten behoeve van afvalscheiding, en die in elk geval betrekking hebben op twee categorieën huishoudelijke afvalstoffen, waarvan één afvalstoffencategorie groente-, fruit- en tuinafval, papier en karton of grove huishoudelijke afvalstoffen betreft;
 
@@ -120,7 +120,7 @@ Op grond van deze regeling wordt subsidie verleend aan gemeenten, stadsdelen of 
 
 Aanvragen tot subsidieverlening worden beoordeeld op de volgende aspecten:
 
-- a. of en in welke mate het project bijdraagt aan de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0021493&artikel=2&z=2007-03-27&g=2007-03-27) genoemde doelstelling;
+- a. of en in welke mate het project bijdraagt aan de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0021493&artikel=2&z=2008-02-22&g=2008-02-22) genoemde doelstelling;
 
 - b. de kosten van het project in relatie tot de kwaliteit, de beoogde resultaten ervan en de wijze van monitoring;
 
@@ -132,9 +132,9 @@ Aanvragen tot subsidieverlening worden beoordeeld op de volgende aspecten:
 
 Een aanvraag tot subsidieverlening wordt afgewezen indien:
 
-- a. niet wordt voldaan aan de voorwaarden, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0021493&artikel=3&z=2007-03-27&g=2007-03-27);
+- a. niet wordt voldaan aan de voorwaarden, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0021493&artikel=3&z=2008-02-22&g=2008-02-22);
 
-- b. op grond van de aspecten, genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0021493&artikel=4&z=2007-03-27&g=2007-03-27), wordt vastgesteld dat het project een te geringe bijdrage levert aan de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0021493&artikel=2&z=2007-03-27&g=2007-03-27) genoemde doelstelling.
+- b. op grond van de aspecten, genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0021493&artikel=4&z=2008-02-22&g=2008-02-22), wordt vastgesteld dat het project een te geringe bijdrage levert aan de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0021493&artikel=2&z=2008-02-22&g=2008-02-22) genoemde doelstelling.
 
 ##### Artikel 6. Subsidiabele kosten
 
@@ -180,13 +180,15 @@ Het subsidieplafond voor het kalenderjaar 2007 bedraagt € 1.500.000,–.
 
 1. Een aanvraag tot subsidieverlening voor een project als bedoeld in deze regeling wordt ingediend door een Nederlandse gemeente dan wel een Nederlands stadsdeel of samenwerkingsverband.
 
-2. Een aanvraag tot subsidieverlening of tot subsidievaststelling wordt ingediend bij SenterNovem, met gebruikmaking van een aldaar verkrijgbaar formulier.
+2. Een aanvraag tot subsidieverlening wordt ingediend bij SenterNovem, met gebruikmaking van een aldaar verkrijgbaar formulier.
 
 3. Een aanvraag tot subsidieverlening wordt voor 6 oktober 2007 ontvangen.
 
 4. Bij de subsidieverlening wordt beslist in volgorde van ontvangst van de aanvragen, met inachtneming van het vijfde lid, met dien verstande dat, wanneer de aanvrager tot subsidieverlening krachtens [artikel 4.5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:5) de gelegenheid heeft gehad de aanvraag aan te vullen, de dag waarop de aanvulling is ontvangen, als datum van ontvangst van de aanvraag geldt.
 
-5. Voor zover door verstrekking van subsidie voor aanvragen, die op dezelfde dag zijn ontvangen, het subsidieplafond, genoemd in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0021493&artikel=9&z=2007-03-27&g=2007-03-27), wordt overschreden, wordt de onderlinge rangschikking van de aanvragen vastgesteld door middel van loting.
+5. Voor zover door verstrekking van subsidie voor aanvragen, die op dezelfde dag zijn ontvangen, het subsidieplafond, genoemd in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0021493&artikel=9&z=2008-02-22&g=2008-02-22), wordt overschreden, wordt de onderlinge rangschikking van de aanvragen vastgesteld door middel van loting.
+
+6. Een aanvraag tot subsidievaststelling wordt in het jaar na voltooiing van het project ingediend door aan Onze Minister de verantwoordingsinformatie te verstrekken op de wijze, bedoeld in [artikel 27 van het Besluit financiële verhouding 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&artikel=27).
 
 ##### Artikel 11
 
@@ -202,7 +204,7 @@ Deze regeling treedt in werking met ingang van 27 maart 2007.
 
 Deze regeling wordt aangehaald als: Subsidieregeling aanpak milieudrukvermindering 2007.
 
-## Bijlage behorende bij [artikel 1, eerste lid, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0021493&artikel=1&z=2007-03-27&g=2007-03-27)
+## Bijlage behorende bij [artikel 1, eerste lid, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0021493&artikel=1&z=2008-02-22&g=2008-02-22)
 
 | Onderdeel | Subonderdelen of methode |
 | --- | --- |
