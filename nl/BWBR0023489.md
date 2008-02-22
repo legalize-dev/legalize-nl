@@ -4,7 +4,7 @@ identifier: "BWBR0023489"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2008-02-22"
-last_updated: "2008-01-16"
+last_updated: "2008-02-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023489"
 soort: "ministeriele-regeling"
@@ -128,7 +128,7 @@ In dit besluit wordt verstaan onder:
 
 2. De taskforce wordt aangemerkt als een commissie ‘zwaar’ als bedoeld in [artikel 1 van de Regeling maximumbedragen vacatiegeld 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0017556&artikel=1).
 
-3. Voor de duur van de instelling van de taskforce, zoals bepaald in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023489&artikel=2&z=2008-02-22&g=2008-01-16), kunnen leden van de taskforce in aanmerking komen voor maximaal 10 vacatievergoedingen. Voor de voorzitter geldt geen maximum.
+3. Voor de duur van de instelling van de taskforce, zoals bepaald in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023489&artikel=2&z=2008-02-22&g=2008-02-22), kunnen leden van de taskforce in aanmerking komen voor maximaal 10 vacatievergoedingen. Voor de voorzitter geldt geen maximum.
 
 4. De Minister kan het aantal vacatievergoedingen verhogen.
 
