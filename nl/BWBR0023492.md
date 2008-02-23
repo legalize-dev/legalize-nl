@@ -4,7 +4,7 @@ identifier: "BWBR0023492"
 country: "nl"
 rank: "kb"
 publication_date: "2008-02-23"
-last_updated: "2008-02-01"
+last_updated: "2008-02-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023492"
 soort: "KB"
@@ -48,7 +48,7 @@ Aan de voorzitter van de de Stuurgroep Nationaal Historisch Museum wordt in plaa
 
 ##### Artikel 2
 
-Indien de voorzitter, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0023492&artikel=1&z=2008-02-23&g=2008-02-01), niet gedurende 1 jaar de functie van voorzitter bekleedt, wordt de beloning, genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0023492&artikel=1&z=2008-02-23&g=2008-02-01), naar evenredigheid vastgesteld.
+Indien de voorzitter, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0023492&artikel=1&z=2008-02-23&g=2008-02-23), niet gedurende 1 jaar de functie van voorzitter bekleedt, wordt de beloning, genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0023492&artikel=1&z=2008-02-23&g=2008-02-23), naar evenredigheid vastgesteld.
 
 ##### Artikel 3
 
