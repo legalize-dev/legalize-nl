@@ -4,7 +4,7 @@ identifier: "BWBR0012681"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-08"
-last_updated: "2007-09-29"
+last_updated: "2008-02-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012681"
 soort: "ministeriele-regeling"
@@ -80,7 +80,7 @@ Als gespen behorende bij de Herinneringsmedaille Vredesoperaties worden ingestel
 
 - q. voor deelname aan operaties van de Organisatie voor Veiligheid en Samenwerking in Europa, voor zover deze deelname heeft plaatsgehad op het grondgebied van de Republiek Macedonië: OVSE MACEDONIË;
 
-- r. voor deelname aan de multinationale vredesmacht International Security Assistance Force in Afghanistan, voor zover deze deelname heeft plaatsgevonden op het grondgebied en in het luchtruim van de Republiek Afghanistan, alsmede op en vanaf de luchthaven Termez in Oezbekistan: ISAF;
+- r. voor deelname aan de multinationale vredesmacht International Securtiy Assistance Force in Afghanistan, voor zover deze deelname heeft plaatsgevonden op het grondgebied en in het luchtruim van de Republiek Afghanistan, op en vanaf de luchthaven Termez in Oezbekistan alsmede in de Verenigde Arabische Emiraten, locatie Minhad (Airbase): ISAF;
 
 - s. voor deelname aan:
 
