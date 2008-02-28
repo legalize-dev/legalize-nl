@@ -4,7 +4,7 @@ identifier: "BWBR0013280"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2008-01-01"
+last_updated: "2008-02-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013280"
 soort: "ministeriele-regeling"
@@ -114,17 +114,17 @@ Aan de in [artikel 26, eerste lid, van de Wet SUWI](https://wetten.overheid.nl/j
 
 1. De belanghebbende verstrekt aan de CWI in ieder geval:
 
-- a. bij een aanvraag van bijstand op grond van de [WWB](https://wetten.overheid.nl/jci1.3:c:BWBR0015703) of uitkering op grond van de [IOAW](https://wetten.overheid.nl/jci1.3:c:BWBR0004044) de gegevens en bewijsstukken die worden opgesomd in de bij deze regeling behorende [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=I&z=2008-01-01&g=2008-01-01) ('Aanvraag WWB/IOAW');
+- a. bij een aanvraag van bijstand op grond van de [WWB](https://wetten.overheid.nl/jci1.3:c:BWBR0015703) of uitkering op grond van de [IOAW](https://wetten.overheid.nl/jci1.3:c:BWBR0004044) de gegevens en bewijsstukken die worden opgesomd in de bij deze regeling behorende [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=I&z=2008-02-28&g=2008-02-28) ('Aanvraag WWB/IOAW');
 
-- b. bij een aanvraag van een uitkering op grond van de [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) of een toeslag op grond van de [TW](https://wetten.overheid.nl/jci1.3:c:BWBR0004043) de gegevens en bewijsstukken die worden opgesomd in de bij deze regeling behorende [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=II&z=2008-01-01&g=2008-01-01) ('Aanvraag WW/TW').
+- b. bij een aanvraag van een uitkering op grond van de [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) of een toeslag op grond van de [TW](https://wetten.overheid.nl/jci1.3:c:BWBR0004043) de gegevens en bewijsstukken die worden opgesomd in de bij deze regeling behorende [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=II&z=2008-02-28&g=2008-02-28) ('Aanvraag WW/TW').
 
-2. Indien, in het geval van een aanvraag van bijstand op grond van de [WWB](https://wetten.overheid.nl/jci1.3:c:BWBR0015703) of uitkering op grond van de [IOAW](https://wetten.overheid.nl/jci1.3:c:BWBR0004044), bij de melding dan wel, in het geval van een aanvraag van een uitkering op grond van de [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) of een toeslag op grond van de [TW](https://wetten.overheid.nl/jci1.3:c:BWBR0004043), bij de aangifte van werkloosheid blijkt dat bepaalde gegevens en bewijsstukken reeds aan de CWI, burgemeester en wethouders of het UWV zijn verstrekt, deelt de CWI de belanghebbende mede welke gegevens en bewijsstukken dit betreft. De belanghebbende wordt, voorzover laatstgenoemde gegevens en bewijsstukken naar zijn oordeel onjuist, onvolledig of inconsistent zijn, door de CWI in staat gesteld deze gegevens en bewijsstukken alsnog te verstrekken. [Artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=2&paragraaf=2.2&artikel=2.3&z=2008-01-01&g=2008-01-01) is van toepassing op deze alsnog verstrekte gegevens en bewijsstukken.
+2. Indien, in het geval van een aanvraag van bijstand op grond van de [WWB](https://wetten.overheid.nl/jci1.3:c:BWBR0015703) of uitkering op grond van de [IOAW](https://wetten.overheid.nl/jci1.3:c:BWBR0004044), bij de melding dan wel, in het geval van een aanvraag van een uitkering op grond van de [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) of een toeslag op grond van de [TW](https://wetten.overheid.nl/jci1.3:c:BWBR0004043), bij de aangifte van werkloosheid blijkt dat bepaalde gegevens en bewijsstukken reeds aan de CWI, burgemeester en wethouders of het UWV zijn verstrekt, deelt de CWI de belanghebbende mede welke gegevens en bewijsstukken dit betreft. De belanghebbende wordt, voorzover laatstgenoemde gegevens en bewijsstukken naar zijn oordeel onjuist, onvolledig of inconsistent zijn, door de CWI in staat gesteld deze gegevens en bewijsstukken alsnog te verstrekken. [Artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=2&paragraaf=2.2&artikel=2.3&z=2008-02-28&g=2008-02-28) is van toepassing op deze alsnog verstrekte gegevens en bewijsstukken.
 
 ##### Artikel 2.3. Onderzoek verstrekte gegevens en bewijsstukken door de CWI
 
-1. De CWI controleert of de belanghebbende alle gegevens en bewijsstukken als bedoeld in [artikel 2.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=2&paragraaf=2.2&artikel=2.2&z=2008-01-01&g=2008-01-01), heeft verstrekt. De CWI vraagt de belanghebbende ontbrekende gegevens en bewijsstukken zo spoedig mogelijk alsnog te verstrekken.
+1. De CWI controleert of de belanghebbende alle gegevens en bewijsstukken als bedoeld in [artikel 2.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=2&paragraaf=2.2&artikel=2.2&z=2008-02-28&g=2008-02-28), heeft verstrekt. De CWI vraagt de belanghebbende ontbrekende gegevens en bewijsstukken zo spoedig mogelijk alsnog te verstrekken.
 
-2. De CWI onderzoekt de door de belanghebbende verstrekte gegevens en bewijsstukken alsmede de gegevens en bewijsstukken, bedoeld in [artikel 2.2, tweede lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=2&paragraaf=2.2&artikel=2.2&z=2008-01-01&g=2008-01-01), op juistheid, volledigheid en consistentie door deze in ieder geval te vergelijken met de gegevens die over de belanghebbende zijn opgenomen:
+2. De CWI onderzoekt de door de belanghebbende verstrekte gegevens en bewijsstukken alsmede de gegevens en bewijsstukken, bedoeld in [artikel 2.2, tweede lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=2&paragraaf=2.2&artikel=2.2&z=2008-02-28&g=2008-02-28), op juistheid, volledigheid en consistentie door deze in ieder geval te vergelijken met de gegevens die over de belanghebbende zijn opgenomen:
 
 - a. in de eigen administratie, bedoeld in [artikel 21, onderdeel l, van de Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=21);
 
@@ -140,15 +140,15 @@ Aan de in [artikel 26, eerste lid, van de Wet SUWI](https://wetten.overheid.nl/j
 
 1. Bij de overdracht van een aanvraag aan burgemeester en wethouders onderscheidenlijk het UWV geeft de CWI aan:
 
-- a. welke gegevens en bewijsstukken als bedoeld in [artikel 2.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=2&paragraaf=2.2&artikel=2.2&z=2008-01-01&g=2008-01-01), de belanghebbende heeft verstrekt en, voorzover er gegevens of bewijsstukken ontbreken, op welke datum zij hem heeft gevraagd deze alsnog te verstrekken;
+- a. welke gegevens en bewijsstukken als bedoeld in [artikel 2.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=2&paragraaf=2.2&artikel=2.2&z=2008-02-28&g=2008-02-28), de belanghebbende heeft verstrekt en, voorzover er gegevens of bewijsstukken ontbreken, op welke datum zij hem heeft gevraagd deze alsnog te verstrekken;
 
-- b. welke gegevens en bewijsstukken reeds eerder aan burgemeester en wethouders onderscheidenlijk het UWV zijn verstrekt als bedoeld in [artikel 2.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=2&paragraaf=2.2&artikel=2.2&z=2008-01-01&g=2008-01-01);
+- b. welke gegevens en bewijsstukken reeds eerder aan burgemeester en wethouders onderscheidenlijk het UWV zijn verstrekt als bedoeld in [artikel 2.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=2&paragraaf=2.2&artikel=2.2&z=2008-02-28&g=2008-02-28);
 
 - c. op welk bewijsstuk een gegeven gebaseerd is;
 
-- d. per gegeven en bewijsstuk, of het op grond van het onderzoek, bedoeld in [artikel 2.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=2&paragraaf=2.2&artikel=2.3&z=2008-01-01&g=2008-01-01), naar haar oordeel onjuist, onvolledig of inconsistent is, de reden voor dit oordeel en op de vergelijking met welk van de administraties, genoemd in [artikel 2.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=2&paragraaf=2.2&artikel=2.3&z=2008-01-01&g=2008-01-01), het oordeel is gebaseerd;
+- d. per gegeven en bewijsstuk, of het op grond van het onderzoek, bedoeld in [artikel 2.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=2&paragraaf=2.2&artikel=2.3&z=2008-02-28&g=2008-02-28), naar haar oordeel onjuist, onvolledig of inconsistent is, de reden voor dit oordeel en op de vergelijking met welk van de administraties, genoemd in [artikel 2.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=2&paragraaf=2.2&artikel=2.3&z=2008-02-28&g=2008-02-28), het oordeel is gebaseerd;
 
-- e. welke verklaringen als bedoeld in [artikel 2.3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=2&paragraaf=2.2&artikel=2.3&z=2008-01-01&g=2008-01-01), de belanghebbende heeft gegeven;
+- e. welke verklaringen als bedoeld in [artikel 2.3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=2&paragraaf=2.2&artikel=2.3&z=2008-02-28&g=2008-02-28), de belanghebbende heeft gegeven;
 
 - f. welke andere waarnemingen zij bij de uitvoering van [artikel 28 van de Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=28) met betrekking tot de belanghebbende heeft gedaan die relevant kunnen zijn voor de beslissing op de aanvraag door burgemeester en wethouders onderscheidenlijk het UWV;
 
@@ -158,11 +158,11 @@ Aan de in [artikel 26, eerste lid, van de Wet SUWI](https://wetten.overheid.nl/j
 
 ##### Artikel 2.5. Directe doorverwijzing door de CWI naar de gemeente of het UWV
 
-Indien de noodzaak daartoe naar haar oordeel aannemelijk is, verwijst de CWI de belanghebbende, nadat zij hem een lijst met de gegevens en bewijsstukken, bedoeld in [artikel 2.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=2&paragraaf=2.2&artikel=2.2&z=2008-01-01&g=2008-01-01), heeft overhandigd, rechtstreeks door naar burgemeester en wethouders onderscheidenlijk het UWV.
+Indien de noodzaak daartoe naar haar oordeel aannemelijk is, verwijst de CWI de belanghebbende, nadat zij hem een lijst met de gegevens en bewijsstukken, bedoeld in [artikel 2.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=2&paragraaf=2.2&artikel=2.2&z=2008-02-28&g=2008-02-28), heeft overhandigd, rechtstreeks door naar burgemeester en wethouders onderscheidenlijk het UWV.
 
 ##### Artikel 2.6. Overeenkomsten tussen de CWI, de gemeente en het UWV
 
-De CWI sluit overeenkomsten met burgemeester en wethouders onderscheidenlijk het UWV over de uitvoering van de [artikelen 2.2 tot en met 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=2&paragraaf=2.2&artikel=2.2&z=2008-01-01&g=2008-01-01).
+De CWI sluit overeenkomsten met burgemeester en wethouders onderscheidenlijk het UWV over de uitvoering van de [artikelen 2.2 tot en met 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=2&paragraaf=2.2&artikel=2.2&z=2008-02-28&g=2008-02-28).
 
 ### Hoofdstuk 3. Uitvoeringsinstituut werknemersverzekeringen
 
@@ -246,7 +246,7 @@ In deze paragraaf wordt verstaan onder:
 
 ##### Artikel 3.7. Bewaren van gegevens
 
-1. Het UWV houdt de gegevens bedoeld in [artikel 3.5, onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=3&paragraaf=3.2&artikel=3.5&z=2008-01-01&g=2008-01-01), gedurende ten minste vijf kalenderjaren na het jaar waarin deze gegevens zijn opgenomen, beschikbaar ten behoeve van raadplegingen.
+1. Het UWV houdt de gegevens bedoeld in [artikel 3.5, onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=3&paragraaf=3.2&artikel=3.5&z=2008-02-28&g=2008-02-28), gedurende ten minste vijf kalenderjaren na het jaar waarin deze gegevens zijn opgenomen, beschikbaar ten behoeve van raadplegingen.
 
 2. Vanaf het moment dat een verzekerde de leeftijd van 65 jaar bereikt of voor het bereiken van die leeftijd overlijdt, worden de hem betreffende, in de verzekerdenadministratie opgenomen gegevens, gedurende vijf jaren te rekenen vanaf dat moment door het UWV bewaard.
 
@@ -282,13 +282,13 @@ In deze paragraaf wordt verstaan onder:
 
 1. Het UWV verifieert de in het tweede lid genoemde gegevens bij de authentieke bron bij de eerste opname van gegevens over de verzekerde in de verzekerdenadministratie en vervolgens, indien daartoe aanleiding is.
 
-2. Voor de in [artikel 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=3&paragraaf=3.2&artikel=3.5&z=2008-01-01&g=2008-01-01) bedoelde gegevens gelden als authentieke bron:
+2. Voor de in [artikel 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=3&paragraaf=3.2&artikel=3.5&z=2008-02-28&g=2008-02-28) bedoelde gegevens gelden als authentieke bron:
 
 - a. sociaal-fiscaal nummer: de sofi-tabel van de Rijksbelastingdienst;
 
 - b. gegevens van de arbeidsverhouding: de administratie van de werkgever.
 
-3. Voor de in [artikel 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=3&paragraaf=3.2&artikel=3.5&z=2008-01-01&g=2008-01-01) genoemde gegevens waarvoor in het tweede lid geen persoon of instelling als authentieke bron is aangemerkt, geldt als authentieke bron het UWV.
+3. Voor de in [artikel 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=3&paragraaf=3.2&artikel=3.5&z=2008-02-28&g=2008-02-28) genoemde gegevens waarvoor in het tweede lid geen persoon of instelling als authentieke bron is aangemerkt, geldt als authentieke bron het UWV.
 
 4. De verificatie bij eerste opname van gegevens over de verzekerde vindt plaats binnen vier weken na ontvangst van die gegevens.
 
@@ -352,55 +352,37 @@ Vervallen
 
 4. Over de toepassing van het eerste tot en met het derde lid overleggen het UWV en de SVB met de minister.
 
-##### Artikel 5.2. Indiening ontwerpen van begroting, jaarplan en meerjarenbeleidsplan door RWI, CWI, UWV en SVB
+##### Artikel 5.2. Indiening ontwerpen van jaarplan met begroting door RWI, CWI, UWV en SVB
 
-1. De RWI, de CWI, het UWV en de SVB dienen ieder jaarlijks vóór 1 juli een ontwerp-begroting en een ontwerp-jaarplan bij de minister in.
+De RWI, de CWI, het UWV en de SVB dienen ieder jaarlijks vóór 1 juli een ontwerp-jaarplan met begroting bij de minister in.
 
-2. De CWI, het UWV en de SVB dienen ieder jaarlijks vóór 1 juli tevens een ontwerp-meerjarenbeleidsplan bij de minister in.
+##### Artikel 5.3. Tijdstip aanbieding jaarplan met begroting door RWl, CWI, UWV, SVB en IB en voorlegging aan Staten-Generaal
 
-##### Artikel 5.3. Tijdstip aanbieding begroting en jaarplan door RWl, CWI, UWV, SVB en IB en voorlegging aan Staten-Generaal
+1. De RWI, de CWI, het UWV, de SVB en het IB bieden ieder hun jaarplan met begroting jaarlijks vóór 1 oktober aan de minister aan.
 
-1. De RWI, de CWI, het UWV, de SVB en het IB bieden ieder hun begroting en hun jaarplan jaarlijks vóór 1 oktober aan de minister aan.
+2. De minister brengt het jaarplan van het IB alsmede zijn oordeel daarover, tezamen met de in [artikel 46, vierde lid, van de Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=46) bedoelde stukken van de RWI, de CWI, het UWV en de SVB, ter kennis van de beide kamers der Staten-Generaal.
 
-2. De minister brengt het jaarplan van het IB alsmede zijn oordeel daarover, tezamen met de in artikel 46, vierde lid, van de Wet SUWI bedoelde stukken van de RWI, de CWI, het UWV en de SVB, ter kennis van de beide kamers der Staten-Generaal.
+3. De jaarplannen met begrotingen van de CWI, het UWV en de SVB bevatten in elk geval een omschrijving van de onderwerpen die zijn genoemd in de bij deze regeling behorende [bijlagen IV](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=IV&z=2008-02-28&g=2008-02-28), [VI](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=VI&z=2008-02-28&g=2008-02-28) en [VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=VIII&z=2008-02-28&g=2008-02-28).
 
-##### Artikel 5.4. Tijdstip aanbieding meerjarenbeleidsplan door CWI, UWV en SVB
+##### Artikel 5.4. Meerjarenbeleidsplan van CWI, UWV en SVB
 
-De CWI, het UWV en de SVB bieden ieder hun meerjarenbeleidsplan jaarlijks vóór 1 oktober aan de minister aan.
+1. De CWI, het UWV en de SVB bieden ieder hun meerjarenbeleidsplan jaarlijks vóór 1 februari aan de minister aan.
 
-##### Artikel 5.5. Inhoud jaarplan en meerjarenbeleidsplan
+2. De meerjarenbeleidsplannen van de CWI, het UWV en de SVB bevatten in elk geval een omschrijving van de onderwerpen die zijn genoemd in de bij deze regeling behorende [bijlagen IV](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=IV&z=2008-02-28&g=2008-02-28), [VI](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=VI&z=2008-02-28&g=2008-02-28) en [VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=VIII&z=2008-02-28&g=2008-02-28).
 
-1. De jaarplannen van de CWI, het UWV en de SVB bevatten in elk geval een omschrijving van:
+##### Artikel 5.5. Jaarplan van RWI en IB
 
-- a. de wettelijke taken en de andere taken, waarvoor goedkeuring is verleend op grond van [artikel 13 van de Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060);
+1. Het jaarplan van de RWI bevat in elk geval een omschrijving van:
 
-- b. de omvang van de beoogde activiteiten, uitgedrukt in resultaten, prestatie-indicatoren en streefwaarden;
+- a. de omvang van de beoogde activiteiten, met onderbouwing daarvan;
 
-- c. de beoogde migratie- en transformatieactiviteiten in het betrokken jaar;
+- b. de (voorgenomen aanpassingen in de) wijze waarop de doelmatigheid van organisatie en beheer wordt bewaakt;
 
-- d. de (voorgenomen aanpassingen in de) wijze waarop de doelmatigheid van organisatie en beheer wordt bewaakt;
+- c. de voornemens om taken door één of meer andere rechtspersonen of natuurlijke personen te laten verrichten, tenzij het werkzaamheden op het terrein van facilitaire dienstverlening of personeelsbeleid betreft; en
 
-- e. (de voorgenomen wijzigingen in) het beleid met betrekking tot het laten verrichten van taken door andere rechtspersonen of natuurlijke personen;
+- d. de wijze waarop de RWI rekening zal houden met de toezichtsbevindingen van de minister.
 
-- f. de voornemens om taken door één of meer andere rechtspersonen of natuurlijke personen te laten verrichten, tenzij het werkzaamheden op het terrein van facilitaire dienstverlening of personeelsbeleid betreft; en
-
-- g. de wijze waarop de CWI, het UWV en de SVB rekening zullen houden met de toezichtsbevindingen van de minister.
-
-2. Het jaarplan van de RWI bevat in elk geval een omschrijving van:
-
-- a. de wettelijke taken;
-
-- b. de omvang van de beoogde activiteiten, met onderbouwing daarvan;
-
-- c. de (voorgenomen aanpassingen in de) wijze waarop de doelmatigheid van organisatie en beheer wordt bewaakt;
-
-- d. (de voorgenomen wijzigingen in) het beleid met betrekking tot het laten verrichten van taken door andere rechtspersonen of natuurlijke personen;
-
-- e. de voornemens om taken door één of meer andere rechtspersonen of natuurlijke personen te laten verrichten, tenzij het werkzaamheden op het terrein van facilitaire dienstverlening of personeelsbeleid betreft; en
-
-- f. de wijze waarop de RWI rekening zal houden met de toezichtsbevindingen van de minister.
-
-3. Het jaarplan van het IB bevat in elk geval een omschrijving van:
+2. Het jaarplan van het IB bevat in elk geval een omschrijving van:
 
 - a. de wettelijke taken en de andere taken, waarvoor goedkeuring is verleend op grond van [artikel 2, tweede lid, van het Besluit Inlichtingenbureau gemeenten](https://wetten.overheid.nl/jci1.3:c:BWBR0013180&artikel=2);
 
@@ -408,15 +390,11 @@ De CWI, het UWV en de SVB bieden ieder hun meerjarenbeleidsplan jaarlijks vóór
 
 - c. de (voorgenomen aanpassingen in de) wijze waarop de doelmatigheid van organisatie en beheer wordt bewaakt;
 
-- d. (de voorgenomen wijzigingen in) het beleid met betrekking tot het laten verrichten van taken door andere rechtspersonen of natuurlijke personen;
+- d. de voornemens om taken door één of meer andere rechtspersonen of natuurlijke personen te laten verrichten, tenzij het werkzaamheden op het terrein van facilitaire dienstverlening of personeelsbeleid betreft; en
 
-- e. de voornemens om taken door één of meer andere rechtspersonen of natuurlijke personen te laten verrichten, tenzij het werkzaamheden op het terrein van facilitaire dienstverlening of personeelsbeleid betreft; en
+- e. de wijze waarop het IB rekening zal houden met de toezichtsbevindingen van de minister.
 
-- f. de wijze waarop het IB rekening zal houden met de toezichtsbevindingen van de minister.
-
-4. De meerjarenbeleidsplannen van de CWI, het UWV en de SVB bevatten in elk geval een omschrijving van de ontwikkelingen die ten aanzien van de in het eerste lid genoemde onderwerpen in de jaren waarop het plan betrekking heeft worden verwacht.
-
-5. De omschrijving van een voornemen als bedoeld in het eerste lid, onderdeel f, het tweede lid, onderdeel e, en het derde lid, onderdeel e, omvat in elk geval de volgende informatie:
+3. De omschrijving van een voornemen als bedoeld in het eerste lid, onderdeel c, en het tweede lid, onderdeel d, omvat in elk geval de volgende informatie:
 
 - a. een zodanige beschrijving van de door derden te verrichten werkzaamheden, dat daaruit blijkt in welke relatie deze tot de kerntaken staan;
 
@@ -426,99 +404,39 @@ De CWI, het UWV en de SVB bieden ieder hun meerjarenbeleidsplan jaarlijks vóór
 
 - d. indien in verband met de werkzaamheden inzage in of overdracht van cliëntgegevens plaatsvindt: een beschrijving van aard en hoeveelheid daarvan.
 
-##### Artikel 5.6. De raming van baten en lasten
+##### Artikel 5.6. Begroting van RWI en IB
 
-1. De in de begroting van het UWV en van de SVB op te nemen raming van baten en lasten omvat:
-
-- a. een specificatie van de geraamde uitvoeringskosten naar diensten en werkprocessen van de wettelijke taken;
-
-- b. een specificatie van de geraamde uitvoeringskosten wettelijke taken naar personeel (inclusief aantal fte's), automatisering, huisvesting, bureaukosten en overige kosten niet zijnde bestuurskosten;
-
-- c. een specificatie van de geraamde bestuurskosten, gesplitst naar Raad van bestuur en Raad van advies;
-
-- d. een specificatie van de geraamde baten per wet naar rijksbijdragen en overige baten, alsmede de geraamde baten toegestane andere taken;
-
-- e. een specificatie van de geraamde uitvoeringskosten naar diensten en werkprocessen van de toegestane andere taken;
-
-- f. een specificatie van de geraamde uitvoeringskosten toegestane andere taken naar personeel (inclusief aantal fte's), automatisering, huisvesting, bureaukosten en overige kosten niet zijnde bestuurskosten;
-
-- g. een afzonderlijke beschrijving van de migratie- en transformatiekosten;
-
-- h. een prognose van de in de balans opgenomen voorzieningen voor de komende vijf jaar;
-
-- i. een opgave van de volumes op basis van de door de minister aangegeven macro-economische veronderstellingen;
-
-- j. een raming van de te verwachten volumeontwikkelingen in de vier jaar volgend op het begrotingsjaar;
-
-- k. een specificatie van de geraamde kosten van het aangaan van lease-overeenkomsten, gesplitst naar auto’s en inventaris.
-
-2. De in de begroting van de CWI op te nemen raming van baten en lasten omvat:
-
-- a. een specificatie van de geraamde uitvoeringskosten naar diensten en werkprocessen van de wettelijke taken;
-
-- b. een specificatie van de geraamde uitvoeringskosten wettelijke taken naar personeel (inclusief aantal fte's), automatisering, huisvesting, bureaukosten en overige kosten niet zijnde bestuurskosten;
-
-- c. een specificatie van de geraamde bestuurskosten, gesplitst naar Raad van bestuur en Raad van advies;
-
-- d. een afzonderlijke beschrijving van de transformatiekosten;
-
-- e. een prognose van de in de balans opgenomen voorzieningen voor de komende vijf jaar;
-
-- f. een opgave van de volumes op basis van de door de minister aangegeven macro-economische veronderstellingen;
-
-- g. een raming van de te verwachten volumeontwikkelingen in de vier jaar volgend op het begrotingsjaar;
-
-- h. een totalisering van de geraamde lasten voor de gehele organisatie;
-
-- i. een specificatie van de geraamde kosten van het aangaan van lease-overeenkomsten, gesplitst naar auto’s en inventaris.
-
-3. De in de begroting van de RWI op te nemen raming van baten en lasten omvat:
+1. De in de begroting van de RWI op te nemen raming van baten en lasten omvat:
 
 - a. een specificatie van de geraamde lasten;
 
-- b. een specificatie van de geraamde uitvoeringskosten wettelijke taken naar personeel (inclusief aantal fte's), automatisering, huisvesting, bureaukosten en overige kosten niet zijnde bestuurskosten;
+- b. een specificatie van de geraamde bestuurskosten;
 
-- c. een specificatie van de geraamde bestuurskosten;
+- c. een totalisering van de geraamde lasten voor de gehele organisatie;
 
-- d. een totalisering van de geraamde lasten voor de gehele organisatie;
+- d. een totalisering van de geraamde baten voor de gehele organisatie;
 
-- e. een totalisering van de geraamde baten voor de gehele organisatie;
+- e. een opgave van de in de balans opgenomen voorzieningen;
 
-- f. een opgave van de in de balans opgenomen voorzieningen;
-
-- g. een specificatie van de geraamde kosten van het aangaan van lease-overeenkomsten, gesplitst naar auto’s en inventaris.
-
-4. De in de begroting van het IB op te nemen raming van baten en lasten omvat:
+2. De in de begroting van het IB op te nemen raming van baten en lasten omvat:
 
 - a. een specificatie van de geraamde uitvoeringskosten naar diensten en werkprocessen van de wettelijke taken;
 
-- b. een specificatie van de geraamde uitvoeringskosten wettelijke taken naar personeel (inclusief aantal fte's), automatisering, huisvesting, bureaukosten, bestuurskosten en overige kosten;
+- b. een afzonderlijke beschrijving van de transformatiekosten;
 
-- c. een afzonderlijke beschrijving van de transformatiekosten;
+- c. een totalisering van de geraamde lasten voor de gehele organisatie.
 
-- d. een prognose van de in de balans opgenomen voorzieningen voor de komende vijf jaar;
+##### Artikel 5.7. Raming van inkomsten en uitgaven van RWI en IB
 
-- e. een totalisering van de geraamde lasten voor de gehele organisatie;
-
-- f. een specificatie van de geraamde kosten van het aangaan van lease-overeenkomsten, gesplitst naar auto’s en inventaris.
-
-5. De raming van de CWI bevat een afzonderlijke opgave van de kosten van het organisatieonderdeel dat in het bijzonder is belast met het beheer van Suwinet, bedoeld in [artikel 6.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=6&paragraaf=6.1&artikel=6.3&z=2008-01-01&g=2008-01-01). Deze kosten worden in een verdiepingsbijlage nader gespecificeerd.
-
-##### Artikel 5.7. De raming van inkomsten en uitgaven
-
-De in de begroting van de RWI, de CWI, het UWV, de SVB en het IB op te nemen raming van inkomsten en uitgaven omvat:
+De in de begroting van de RWI en het IB op te nemen raming van inkomsten en uitgaven omvat:
 
 - a. een raming van de verplichtingen die in het begrotingsjaar worden aangegaan en die in dat jaar en in volgende jaren tot uitgaven zullen leiden, alsmede de stand van de verplichtingen die per 1 januari van het begrotingsjaar bestaan en in dat jaar en in volgende jaren tot uitgaven gaan leiden; en
 
 - b. een raming van de inkomsten die in het begrotingsjaar en in volgende jaren zullen worden ontvangen, alsmede de stand van de vorderingen die per 1 januari van het begrotingsjaar bestaan en in dat jaar en in volgende jaren tot inkomsten gaan leiden.
 
-##### Artikel 5.8. De raming van investeringsuitgaven
+##### Artikel 5.8. Raming van investeringsuitgaven van RWI en IB
 
-1. De in de begroting van de RWI, de CWI, het UWV, de SVB en het IB op te nemen raming van de investeringsuitgaven omvat:
-
-- a. een raming van de in het begrotingsjaar voorgenomen investeringsuitgaven en de financiering daarvan; en
-
-- b. een specificatie van de vaste activa per 1 januari van het begrotingsjaar.
+1. De in de begroting van de RWI en het IB op te nemen raming van de investeringsuitgaven omvat een specificatie van de vaste activa per 1 januari van het begrotingsjaar.
 
 2. De raming wordt gespecificeerd naar:
 
@@ -542,11 +460,9 @@ De toelichting bij de begroting bevat een omschrijving van:
 
 - b. de gehanteerde kostentoerekeningssystematiek in de gevallen waarin het niet mogelijk is de systematiek van integrale kostprijzen te hanteren;
 
-- c. de afwegingen die zijn gemaakt ten aanzien van personeel, automatisering, huisvesting en managementfilosofie;
+- c. de gehanteerde loon- en prijsbijstellingsmethodiek;
 
-- d. de gehanteerde loon- en prijsbijstellingsmethodiek;
-
-- e. de mutaties van meer dan 5 procent en tenminste € 50.000,- ten opzichte van dezelfde begrotingspost van het voorafgaande jaar, naar oorzaak en omvang.
+- d. de mutaties van meer dan 5 procent en tenminste € 50.000,- ten opzichte van dezelfde begrotingspost van het voorafgaande jaar, naar oorzaak en omvang.
 
 ##### Artikel 5.10. Financiële middelen van SVB en UWV buiten de rekening-courant
 
@@ -558,23 +474,17 @@ Vervallen
 
 ##### Artikel 5.11. Basisgegevens
 
-1. De CWI, het UWV en de SVB dragen zorg voor de elektronische beschikbaarheid van ten minste de basisgegevens die zijn opgenomen in de bij deze regeling behorende [bijlagen III](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=III&z=2008-01-01&g=2008-01-01), [V](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=V&z=2008-01-01&g=2008-01-01) en [VII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=VII&z=2008-01-01&g=2008-01-01) ten behoeve van de minister en de IWI, voorzover die gegevens noodzakelijk zijn voor het toezicht en de andere taken van de minister.
+1. De CWI, het UWV en de SVB dragen zorg voor de elektronische beschikbaarheid van gegevens ten behoeve van de minister en de IWI, voor zover die gegevens noodzakelijk zijn voor het toezicht en de andere taken van de minister.
 
-2. De CWI, het UWV en de SVB dragen er zorg voor dat de gegevens, bedoeld in het eerste lid, ieder kwartaal worden geactualiseerd en binnen zes weken na afronding van ieder kwartaal direct leverbaar zijn.
+2. De CWI, het UWV en de SVB dragen er zorg voor dat de gegevens, bedoeld in het eerste lid, voorzover zij zijn verwerkt voor de uitvoering van de aan de CWI, het UWV en de SVB opgedragen taken, tenminste vijf jaar worden bewaard nadat de taak ten aanzien van de geregistreerde persoon is geëindigd.
 
-3. De CWI, het UWV en de SVB dragen er zorg voor dat de gegevens, bedoeld in het eerste lid, voorzover zij zijn verwerkt voor de uitvoering van de aan de CWI, het UWV en de SVB opgedragen taken, tenminste vijf jaar worden bewaard nadat de taak ten aanzien van de geregistreerde persoon is geëindigd.
-
-4. Na afloop van de termijn, bedoeld in het derde lid, bewaren de CWI, het UWV en de SVB de gegevens slechts ten behoeve van historische of wetenschappelijke doeleinden.
+3. Na afloop van de termijn, bedoeld in het derde lid, bewaren de CWI, het UWV en de SVB de gegevens slechts ten behoeve van historische of wetenschappelijke doeleinden.
 
 ##### Artikel 5.12. Periodieke informatieverstrekking
 
-1. De CWI, het UWV en de SVB verstrekken ten behoeve van de beleidsvorming aan de minister de informatie, bedoeld in de bij deze regeling behorende [bijlagen IV, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=IV&z=2008-01-01&g=2008-01-01), [VI, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=VI&z=2008-01-01&g=2008-01-01), en [VIII, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=VIII&z=2008-01-01&g=2008-01-01), op de daarbij telkens aangegeven tijdstippen.
+1. Uiterlijk op de in de [bijlagen VI](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=VI&z=2008-02-28&g=2008-02-28) en [VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=VIII&z=2008-02-28&g=2008-02-28) genoemde tijdstippen verstrekken het UWV en de SVB aan de minister een rapportage over de door hen beheerde fondsen op de wijze als in de [bijlagen VI](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=VI&z=2008-02-28&g=2008-02-28) en [VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=VIII&z=2008-02-28&g=2008-02-28) is aangegeven.
 
-2. Uiterlijk binnen zes weken na het verstrijken van elke maand verstrekt het UWV ten behoeve van de beleidsvorming aan de minister de in de bij deze regeling behorende [bijlage VI, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=VI&z=2008-01-01&g=2008-01-01), genoemde maandcijfers.
-
-3. Uiterlijk op 1 februari, 1 juli en 1 november van ieder kalenderjaar verstrekken het UWV en de SVB aan de minister een rapportage over de door hen beheerde fondsen op de wijze als in de [bijlagen VI, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=VI&z=2008-01-01&g=2008-01-01), en [VIII, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=VIII&z=2008-01-01&g=2008-01-01), is aangegeven.
-
-4. Binnen zes maanden na afloop van elk kalenderjaar verstrekken het UWV en de SVB aan de minister de in de bij deze regeling behorende [bijlage VI, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=VI&z=2008-01-01&g=2008-01-01), respectievelijk [bijlage VIII, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=VIII&z=2008-01-01&g=2008-01-01), genoemde statistische rapportages.
+2. De CWI, het UWV en de SVB verstrekken ten behoeve van het jaarverslag van het Ministerie van Sociale Zaken en Werkgelegenheid de informatie, bedoeld in de bij deze regeling behorende [bijlagen IV](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=IV&z=2008-02-28&g=2008-02-28), [VI](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=VI&z=2008-02-28&g=2008-02-28), en [VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=VIII&z=2008-02-28&g=2008-02-28) op het in deze bijlagen bepaalde tijdstip.
 
 ##### Artikel 5.13. Jaarlijkse informatieverstrekking voor de Rijksbegroting
 
@@ -588,19 +498,19 @@ De SVB verstrekt jaarlijks aan de minister in mei een gedetailleerde raming van 
 
 3. Op verzoek van de minister verstrekken de CWI, het UWV en de SVB informatie aan door hem aangewezen internationaalrechtelijke organisaties.
 
-4. Op verzoek van de minister verstrekt het UWV gegevens en informatie aan de minister van Binnenlands Zaken en Koninkrijksrelaties. Het UWV levert in ieder geval binnen zes weken na afloop van elk kwartaal de in [bijlage IX](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=IX&z=2008-01-01&g=2008-01-01) genoemde rapportages en jaarlijks, binnen drie maanden na afloop van het jaar, de in [bijlage IX](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=IX&z=2008-01-01&g=2008-01-01) genoemde bestanden.
+4. Op verzoek van de minister verstrekt het UWV gegevens en informatie aan de minister van Binnenlands Zaken en Koninkrijksrelaties. Het UWV levert in ieder geval binnen zes weken na afloop van elk kwartaal de in [bijlage IX](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=IX&z=2008-02-28&g=2008-02-28) genoemde rapportages en jaarlijks, binnen drie maanden na afloop van het jaar, de in [bijlage IX](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=IX&z=2008-02-28&g=2008-02-28) genoemde bestanden.
 
 5. De CWI, het UWV en de SVB plegen overleg met de personen of instanties, bedoeld in het eerste, tweede, derde en vierde lid, over de inhoud, de vorm, de wijze en het tijdstip waarop de informatieverstrekking, bedoeld in het eerste, tweede, derde en vierde lid, plaatsvindt.
 
 6. De minister en de IWI dragen er zorg voor, dat de personen en instanties, bedoeld in het eerste, tweede, derde en vierde lid, van de CWI, het UWV en de SVB niet meer gegevens en informatie krijgen dan noodzakelijk is voor de uitvoering van het onderzoek dan wel voor de taak ten behoeve waarvan bedoelde personen of instanties de gegevens en informatie ontvangen en overleggen met de CWI, het UWV en de SVB over de wijze waarop dit kan worden bereikt.
 
-7. De CWI verstrekt aan de in [artikel 12, tweede lid, van de Regeling uitvoering sociale werkvoorziening en begeleid werken](https://wetten.overheid.nl/jci1.3:c:BWBR0017691&artikel=12) daartoe door de minister aangewezen bewerker de in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=III&z=2008-01-01&g=2008-01-01), onderdeel [Wet sociale werkvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0008903), genoemde persoonsgegevens. De persoonsgegevens worden door de CWI telkenmale binnen zes weken na afloop van een halfjaarsperiode aan de bewerker verstrekt op een door die bewerker te bepalen wijze. [Artikel 13 van de Regeling uitvoering sociale werkvoorziening en begeleid werken](https://wetten.overheid.nl/jci1.3:c:BWBR0017691&artikel=13) is van toepassing.
+7. De CWI verstrekt aan de in [artikel 12, tweede lid, van de Regeling uitvoering sociale werkvoorziening en begeleid werken](https://wetten.overheid.nl/jci1.3:c:BWBR0017691&artikel=12) daartoe door de minister aangewezen bewerker de in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=III&z=2008-02-28&g=2008-02-28), onderdeel [Wet sociale werkvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0008903), genoemde persoonsgegevens. De persoonsgegevens worden door de CWI telkenmale binnen zes weken na afloop van een halfjaarsperiode aan de bewerker verstrekt op een door die bewerker te bepalen wijze. [Artikel 13 van de Regeling uitvoering sociale werkvoorziening en begeleid werken](https://wetten.overheid.nl/jci1.3:c:BWBR0017691&artikel=13) is van toepassing.
 
 ##### Artikel 5.15. Openbaarmaking onderzoeksrapporten en statistische rapportages
 
 1. De CWI, het UWV en de SVB brengen rapporten over onderzoek dat door of in opdracht van de uitvoeringsorganisatie is uitgevoerd, ter kennis van de minister. De rapporten over onderzoeken, waarvan de minister niet reeds op de hoogte was of kon zijn, worden uiterlijk twee weken voor openbaarmaking aan de minister verstrekt.
 
-2. De CWI, het UWV en de SVB maken rapporten met informatie als bedoeld in [artikel 5.12](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.1&artikel=5.12&z=2008-01-01&g=2008-01-01) en [artikel 5.14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.1&artikel=5.14&z=2008-01-01&g=2008-01-01), niet eerder dan twee dagen na verstrekking aan de minister, openbaar.
+2. De CWI, het UWV en de SVB maken rapporten met informatie als bedoeld in [artikel 5.12](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.1&artikel=5.12&z=2008-02-28&g=2008-02-28) en [artikel 5.14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.1&artikel=5.14&z=2008-02-28&g=2008-02-28), niet eerder dan twee dagen na verstrekking aan de minister, openbaar.
 
 3. In geval van de openbaarmaking, bedoeld in dit artikel, wordt de minister uiterlijk 48 uur voor de verwachte publicatietermijn geïnformeerd over de wijze waarop dit zal plaatsvinden.
 
@@ -610,13 +520,13 @@ De SVB verstrekt jaarlijks aan de minister in mei een gedetailleerde raming van 
 
 1. De CWI, het UWV en de SVB dragen zorg voor een deugdelijke administratie en organisatie, waaronder begrepen dusdanige procedures en voorzieningen dat er, mede gelet op de stand van de kennis op het terrein van de kwaliteitszorg, voldoende waarborgen aanwezig zijn voor:
 
-- a. het kunnen voldoen aan de informatieverplichtingen, bedoeld in [§ 5.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.1&z=2008-01-01&g=2008-01-01);
+- a. het kunnen voldoen aan de informatieverplichtingen, bedoeld in [§ 5.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.1&z=2008-02-28&g=2008-02-28);
 
 - b. tijdige verstrekking van gegevens en informatie;
 
 - c. voldoende actualiteit;
 
-- d. het voldoen aan het normenkader voor de betrouwbaarheid van de niet-financiële informatie zoals opgenomen in de bij deze regeling behorende [bijlage XVII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XVII&z=2008-01-01&g=2008-01-01) (‘Normenkader betrouwbaarheid niet-financiële informatie’);
+- d. het voldoen aan het normenkader voor de betrouwbaarheid van de niet-financiële informatie zoals opgenomen in de bij deze regeling behorende [bijlage XVII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XVII&z=2008-02-28&g=2008-02-28) (‘Normenkader betrouwbaarheid niet-financiële informatie’);
 
 - e. continuïteit van de verstrekking en opslag van gegevens en informatie.
 
@@ -624,9 +534,7 @@ De SVB verstrekt jaarlijks aan de minister in mei een gedetailleerde raming van 
 
 ##### Artikel 5.17. Stukken Raad van bestuur en Raad van advies
 
-1. De CWI, het UWV en de SVB verstrekken de agenda en een verkort verslag van de vergaderingen van de Raad van bestuur en de Raad van advies aan de minister en de IWI.
-
-2. De stukken voor de Raden van bestuur en de Raden van advies worden op verzoek binnen drie dagen na agendering aan de minister en de IWI ter beschikking gesteld.
+Vervallen
 
 ##### Artikel 5.17a. Melding van belangrijke voornemens tot uitbesteding
 
@@ -650,11 +558,11 @@ De minister wijzigt de bepalingen in deze paragraaf en de daarbij behorende bijl
 
 ##### Artikel 5.19. Informatieverstrekking door CWI, UWV, SVB en colleges van burgemeester en wethouders
 
-1. De CWI, het UWV en de SVB verstrekken de RWI op zijn verzoek de informatie, bedoeld in [artikel 5.12, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.1&artikel=5.12&z=2008-01-01&g=2008-01-01), en de gegevens, bedoeld in het [vierde lid van dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.1&artikel=5.12&z=2008-01-01&g=2008-01-01), voorzover hij die nodig heeft voor de uitoefening van zijn taak.
+1. De CWI, het UWV en de SVB verstrekken de RWI op zijn verzoek de informatie, bedoeld in [artikel 5.12, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.1&artikel=5.12&z=2008-02-28&g=2008-02-28), en de gegevens, bedoeld in het [vierde lid van dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.1&artikel=5.12&z=2008-02-28&g=2008-02-28), voorzover hij die nodig heeft voor de uitoefening van zijn taak.
 
 2. De minister kan nader bepalen dat de informatieverstrekking, bedoeld in het eerste lid, zal plaatsvinden door zijn tussenkomst.
 
-3. De colleges van burgemeester en wethouders verstrekken aan de RWI, door tussenkomst van de minister, de in de bij deze regeling behorende [bijlage X](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=X&z=2008-01-01&g=2008-01-01) opgenomen informatie, die de RWI nodig heeft voor de uitvoering van zijn taak, en die betrekking hebben op de uitvoering van de [Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060) en andere wetten.
+3. De colleges van burgemeester en wethouders verstrekken aan de RWI, door tussenkomst van de minister, de in de bij deze regeling behorende [bijlage X](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=X&z=2008-02-28&g=2008-02-28) opgenomen informatie, die de RWI nodig heeft voor de uitvoering van zijn taak, en die betrekking hebben op de uitvoering van de [Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060) en andere wetten.
 
 4. De gegevens, bedoeld in het eerste lid, zijn zodanig, dat natuurlijke personen niet geïdentificeerd of identificeerbaar zijn.
 
@@ -664,21 +572,21 @@ De minister wijzigt de bepalingen in deze paragraaf en de daarbij behorende bijl
 
 ##### Artikel 5.20. Nadere bepalingen voor informatieverstrekking
 
-1. [Artikel 5.14, eerste, tweede, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.1&artikel=5.14&z=2008-01-01&g=2008-01-01), is van overeenkomstige toepassing ten aanzien van de informatieverstrekking aan de RWI.
+1. [Artikel 5.14, eerste, tweede, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.1&artikel=5.14&z=2008-02-28&g=2008-02-28), is van overeenkomstige toepassing ten aanzien van de informatieverstrekking aan de RWI.
 
-2. [Artikel 5.18](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.1&artikel=5.18&z=2008-01-01&g=2008-01-01) is van overeenkomstige toepassing ten aanzien van wijziging van deze paragraaf.
+2. [Artikel 5.18](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.1&artikel=5.18&z=2008-02-28&g=2008-02-28) is van overeenkomstige toepassing ten aanzien van wijziging van deze paragraaf.
 
-3. De RWI kan de CWI, het UWV, de SVB en de colleges van burgemeester en wethouders verzoeken andere informatie dan bedoeld in [artikel 5.19](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.2&artikel=5.19&z=2008-01-01&g=2008-01-01) te verstrekken, die hij nodig heeft voor de uitvoering van zijn taak en daarbij aangeven op welke wijze en op binnen welke termijn die informatie worden verstrekt.
+3. De RWI kan de CWI, het UWV, de SVB en de colleges van burgemeester en wethouders verzoeken andere informatie dan bedoeld in [artikel 5.19](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.2&artikel=5.19&z=2008-02-28&g=2008-02-28) te verstrekken, die hij nodig heeft voor de uitvoering van zijn taak en daarbij aangeven op welke wijze en op binnen welke termijn die informatie worden verstrekt.
 
 #### § 5.2.1. Informatieverstrekking CWI, UWV en SVb aan de minister en de IWI
 
 ##### Artikel 5.21. Reguliere informatieverstrekking IB
 
-1. Binnen zes weken na afloop van elk kwartaal verstrekt het IB de minister een overzicht van de gegevens die zijn opgenomen in de [bijlage XI](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XI&z=2008-01-01&g=2008-01-01), behorende bij deze regeling.
+1. Binnen zes weken na afloop van elk kwartaal verstrekt het IB de minister een overzicht van de gegevens die zijn opgenomen in de [bijlage XI](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XI&z=2008-02-28&g=2008-02-28), behorende bij deze regeling.
 
-Het kwartaalverslag bevat in elk geval een omschrijving van de onderwerpen die zijn genoemd in onderdeel a van [bijlage XI](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XI&z=2008-01-01&g=2008-01-01).
+Het kwartaalverslag bevat in elk geval een omschrijving van de onderwerpen die zijn genoemd in onderdeel a van [bijlage XI](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XI&z=2008-02-28&g=2008-02-28).
 
-2. Het jaarverslag van het IB bevat in elk geval een omschrijving van de onderwerpen die zijn genoemd in onderdeel a van [bijlage XI](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XI&z=2008-01-01&g=2008-01-01).
+2. Het jaarverslag van het IB bevat in elk geval een omschrijving van de onderwerpen die zijn genoemd in onderdeel a van [bijlage XI](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XI&z=2008-02-28&g=2008-02-28).
 
 #### § 5.2.1. Informatieverstrekking CWI, UWV en SVb aan de minister en de IWI
 
@@ -710,9 +618,9 @@ Suwinet biedt de Suwinet-partijen de mogelijkheid:
 
 ##### Artikel 6.2. Gegevensregister SUWI
 
-1. Het Gegevensregister SUWI alsmede de regeling, bedoeld in [artikel 5, eerste lid, van het Besluit Inlichtingenbureau gemeenten](https://wetten.overheid.nl/jci1.3:c:BWBR0013180&artikel=5), zijn opgenomen in de bij deze regeling behorende [bijlage XII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XII&z=2008-01-01&g=2008-01-01) (‘Gegevensregister SUWI 4.0’).
+1. Het Gegevensregister SUWI alsmede de regeling, bedoeld in [artikel 5, eerste lid, van het Besluit Inlichtingenbureau gemeenten](https://wetten.overheid.nl/jci1.3:c:BWBR0013180&artikel=5), zijn opgenomen in de bij deze regeling behorende [bijlage XII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XII&z=2008-02-28&g=2008-02-28) (‘Gegevensregister SUWI 4.0’).
 
-2. In het Gegevensregister SUWI worden eveneens de berichten, te weten de specifieke gegevens, documenten of andere informatie die met behulp van de mogelijkheden, bedoeld in [artikel 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=6&paragraaf=6.1&artikel=6.1&z=2008-01-01&g=2008-01-01), worden verstrekt, vastgelegd. Hierbij wordt per bericht bepaald:
+2. In het Gegevensregister SUWI worden eveneens de berichten, te weten de specifieke gegevens, documenten of andere informatie die met behulp van de mogelijkheden, bedoeld in [artikel 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=6&paragraaf=6.1&artikel=6.1&z=2008-02-28&g=2008-02-28), worden verstrekt, vastgelegd. Hierbij wordt per bericht bepaald:
 
 - a. welke gegevens, documenten of andere informatie er onderdeel van zijn;
 
@@ -740,25 +648,25 @@ Suwinet biedt de Suwinet-partijen de mogelijkheid:
 
 - b. de aansluiting van de decentrale elektronische voorziening op de centrale elektronische voorziening, bedoeld in het eerste lid, onderdeel a;
 
-4. In de bij deze regeling behorende [bijlage XIII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XIII&z=2008-01-01&g=2008-01-01) (`Stelselontwerp Suwinet 1.0') wordt beschreven op welke wijze en volgens welke specificaties het organisatieonderdeel, bedoeld in [artikel 6.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=6&paragraaf=6.1&artikel=6.3&z=2008-01-01&g=2008-01-01), en de Suwinet-partijen invulling geven aan het eerste lid onderscheidenlijk het derde lid.
+4. In de bij deze regeling behorende [bijlage XIII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XIII&z=2008-02-28&g=2008-02-28) (`Stelselontwerp Suwinet 1.0') wordt beschreven op welke wijze en volgens welke specificaties het organisatieonderdeel, bedoeld in [artikel 6.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=6&paragraaf=6.1&artikel=6.3&z=2008-02-28&g=2008-02-28), en de Suwinet-partijen invulling geven aan het eerste lid onderscheidenlijk het derde lid.
 
 ##### Artikel 6.4. Beveiliging Suwinet
 
-1. De Suwinet-partijen dragen zorg voor de beveiliging van de gegevensuitwisseling tegen inbreuken op de beschikbaarheid, de integriteit en de vertrouwelijkheid, overeenkomstig hetgeen over de voor het stelsel van maatregelen en procedures te hanteren normen wordt bepaald in de bij deze regeling behorende [bijlage XIV](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XIV&z=2008-01-01&g=2008-01-01) (`Beveiliging Suwinet 1.0').
+1. De Suwinet-partijen dragen zorg voor de beveiliging van de gegevensuitwisseling tegen inbreuken op de beschikbaarheid, de integriteit en de vertrouwelijkheid, overeenkomstig hetgeen over de voor het stelsel van maatregelen en procedures te hanteren normen wordt bepaald in de bij deze regeling behorende [bijlage XIV](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XIV&z=2008-02-28&g=2008-02-28) (`Beveiliging Suwinet 1.0').
 
 2. De Suwinet-partijen geven ieder in een beveiligingsplan aan op welke wijze zij invulling geven aan het eerste lid.
 
-3. [Artikel 5.22](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.4&artikel=5.22&z=2008-01-01&g=2008-01-01) is van overeenkomstige toepassing op het gebruik en de inrichting van Suwinet.
+3. [Artikel 5.22](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.4&artikel=5.22&z=2008-02-28&g=2008-02-28) is van overeenkomstige toepassing op het gebruik en de inrichting van Suwinet.
 
 #### § 6.1. Suwinet
 
 ##### Artikel 6.5. Aansluitvoorwaarden gemeenten op IB
 
-In de bij deze regeling behorende [bijlage XV](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XV&z=2008-01-01&g=2008-01-01) (`Aansluitvoorwaarden gemeenten op IB 1.0') wordt bepaald op welke wijze en op welk tijdstip de elektronische gegevensuitwisseling tussen burgemeester en wethouders en het IB plaatsvindt.
+In de bij deze regeling behorende [bijlage XV](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XV&z=2008-02-28&g=2008-02-28) (`Aansluitvoorwaarden gemeenten op IB 1.0') wordt bepaald op welke wijze en op welk tijdstip de elektronische gegevensuitwisseling tussen burgemeester en wethouders en het IB plaatsvindt.
 
 ##### Artikel 6.6. Ontwerp elektronische voorzieningen IB
 
-In de bij deze regeling behorende [bijlage XVI](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XVI&z=2008-01-01&g=2008-01-01) (‘Ontwerp elektronische voorzieningen IB 2.0’) wordt, in aanvulling op het gestelde in de [bijlage XIII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=III&z=2008-01-01&g=2008-01-01) (`Stelselontwerp Suwinet 1.0'), bedoeld in [artikel 6.3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=6&paragraaf=6.1&artikel=6.3&z=2008-01-01&g=2008-01-01), bepaald:
+In de bij deze regeling behorende [bijlage XVI](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XVI&z=2008-02-28&g=2008-02-28) (‘Ontwerp elektronische voorzieningen IB 2.0’) wordt, in aanvulling op het gestelde in de [bijlage XIII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=III&z=2008-02-28&g=2008-02-28) (`Stelselontwerp Suwinet 1.0'), bedoeld in [artikel 6.3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=6&paragraaf=6.1&artikel=6.3&z=2008-02-28&g=2008-02-28), bepaald:
 
 - a. op welke wijze de gegevensverstrekking, bedoeld in [artikel 3 van het Besluit Inlichtingenbureau](https://wetten.overheid.nl/jci1.3:c:BWBR0013180&artikel=3) gemeenten, plaatsvindt;
 
@@ -842,7 +750,7 @@ In afwijking van [artikel 12, tweede lid, van de Wet SUWI](https://wetten.overhe
 
 ##### Artikel 7.14. Overgangsrecht accountantscontrole
 
-De [artikelen 5.10b tot en met 5.10e](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1b&artikel=5.10b&z=2008-01-01&g=2008-01-01), met uitzondering van [artikel 5.10e, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1b&artikel=5.10e&z=2008-01-01&g=2008-01-01), voor wat betreft ‘bij d. de ordelijke en controleerbare totstandkoming, voor de prestatie-indicatoren tevens de getrouwheid als in de gegeven omstandigheden is vereist.’ zoals deze luidden op de dag voor inwerkingtreding van de Regeling tot wijziging van de Regeling SUWI in verband met de accountantsverklaring en vaststelling van bijlagen blijven met betrekking tot het boekjaar 2006 van toepassing op de CWI en het IB en met betrekking tot de boekjaren 2006 en 2007 van toepassing op de RWI, met dien verstande dat [bijlage XXI](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XXI&z=2008-01-01&g=2008-01-01) van toepassing is zoals die luidt op de dag van inwerkingtreding van die regeling.
+De [artikelen 5.10b tot en met 5.10e](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1b&artikel=5.10b&z=2008-02-28&g=2008-02-28), met uitzondering van [artikel 5.10e, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1b&artikel=5.10e&z=2008-02-28&g=2008-02-28), voor wat betreft ‘bij d. de ordelijke en controleerbare totstandkoming, voor de prestatie-indicatoren tevens de getrouwheid als in de gegeven omstandigheden is vereist.’ zoals deze luidden op de dag voor inwerkingtreding van de Regeling tot wijziging van de Regeling SUWI in verband met de accountantsverklaring en vaststelling van bijlagen blijven met betrekking tot het boekjaar 2006 van toepassing op de CWI en het IB en met betrekking tot de boekjaren 2006 en 2007 van toepassing op de RWI, met dien verstande dat [bijlage XXI](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XXI&z=2008-02-28&g=2008-02-28) van toepassing is zoals die luidt op de dag van inwerkingtreding van die regeling.
 
 ##### Artikel 7.15. Vergoeding leden ontslagcommissie CWI i.v.m. overgang ontslagbescherming
 
@@ -2884,452 +2792,6 @@ Ligt ter inzage bij het Ministerie van Sociale Zaken en Werkgelegenheid.
 
 ## Bijlagen
 
-## Bijlagen
-
-## Bijlage I. Aanvraag [WWB](https://wetten.overheid.nl/jci1.3:c:BWBR0015709)/[IOAW](https://wetten.overheid.nl/jci1.3:c:BWBR0004044)
-
-Alle relevante gegevens behorende tot de volgende categorieën:
-
-- Persoons- en stamgegevens zoals (voor zover van toepassing):
-
-- naam, adres en woonplaats
-
-- sofinummer
-
-- geboortedatum
-
-- burgerlijke staat
-
-- leefvorm
-
-- nationaliteit
-
-- verblijfstitel
-
-- werkvergunning
-
-- zorgverzekering
-
-- Leefsituatie zoals (voor zover van toepassing):
-
-- huwelijk
-
-- kind(eren)
-
-- Arbeids- en werkgeversgegevens zoals (voor zover van toepassing):
-
-- rede einde arbeidsverhouding
-
-- aard arbeidsverhouding
-
-- arbeidsperiode
-
-- nettoloon en loonperiode
-
-- werkgever
-
-- werkzaamheden anders dan in arbeidsverhouding
-
-- Arbeidskwalificatiegegevens zoals (voor zover van toepassing):
-
-- arbeidsmarktkwalificaties
-
-- opleiding
-
-- werkervaring
-
-- Inkomsten zoals (voor zover van toepassing):
-
-- overige inkomsten
-
-- Arbeidstoeleidingsgegevens zoals (voor zover van toepassing):
-
-- beschikbaarheid voor arbeid
-
-- mobiliteit en belemmeringen
-
-- inschrijving werkzoekende
-
-- Uitkeringsgegevens zoals (voor zover van toepassing):
-
-- aanvraag uitkering
-
-- uitkeringsverhouding
-
-- ontslag (aantal uren, aard, bezwaar)
-
-- heffingskorting(en)
-
-- Vermogenssituatie zoals (voor zover van toepassing):
-
-- bezittingen
-
-- eigen woning
-
-- hypotheek
-
-- schulden
-
-- waardepapieren
-
-- motorrijtuig/caravan
-
-- Woonsituatie en -lasten zoals (voor zover van toepassing):
-
-- woonlasten
-
-- medebewoning
-
-- kostgeld
-
-- Bewijsstukken WWB/IOAW
-
-- Identiteit
-
-- Echtscheiding / verlating Origineel en geldig identiteitsbewijs
-
-- Indien van toepassing:
-
-- Origineel en geldig bewijs waaruit de verblijfsstatus blijkt
-
-- Echtscheiding / verlating Alle documenten, zoals:
-
-- Echtscheidingsvonnis en bewijs van boedelscheiding, inclusief de correspondentie met uw advocaat
-
-- Verzoekschrift echtscheiding
-
-- Voorlopige voorzieningen rechtbank
-
-- Bewijsstukken inzake de hoogte en duur van te ontvangen alimentatie, voor u en uw kind(eren)
-
-- Bewijsstukken inzake de hoogte en duur van te betalen alimentatie
-
-- In het geval van co-ouderschap: het gerechtelijk vonnis
-
-- Beschikking scheiding van tafel en bed
-
-- Naam adres, woonplaats, telefoonnummer, sofinummer (ex) partner
-
-- Naam adres, woonplaats, telefoonnummer advocaat echtscheiding
-
-- Sollicitatieactiviteiten Alle documenten, zoals:
-
-- Overzicht sollicitatie activiteiten
-
-- Naam, adres woonplaats, telefoonnummer benaderde werkgevers
-
-- Kopieën sollicitatiebrieven, berichten van ontvangst, uitnodigingen voor gesprek, eventuele afwijzingen
-
-- Medische of psychische belemmeringen Alle documenten, zoals:
-
-- Omschrijving medische of psychische klachten
-
-- Naam, adres, woonplaats, telefoonnummer behandelend arts of andere hulpverlener
-
-- Afsprakenkaart ziekenhuis, polikliniek, RIAGG of andere instelling
-
-- Correspondentie inzake plaatsing op wachtlijst
-
-- Rapport (recente) medische keuring
-
-- Ontslag / beëindiging dienstverband Indien van toepassing
-
-- Alle documenten met betrekking tot het ontslag, zoals bijvoorbeeld:
-
-- Ontslagcorrespondentie met ex werkgever
-
-- Ontslagcorrespondentie met andere instanties
-
-- Ontslagvergunning
-
-- Verzoek / verweer schrift
-
-- Beschikking kantonrechter
-
-- Naam adres, woonplaats, telefoonnummer advocaat ontslag
-
-- Beëindiging studie / opleiding Indien van toepassing
-
-- Alle documenten met betrekking tot de beëindigde studie of opleiding zoals bijvoorbeeld:
-
-- Afstudeerverklaring
-
-- Verklaring beëindiging WSF/WTS (studiefinanciering)
-
-- Inleverbewijs OV-jaarkaart)
-
-- Diploma / getuigschrift
-
-- Bewijs uitschrijving van opleiding
-
-- Indien er sprake is van studieschuld het bewijs van de studieschuld
-
-- Bewijzen van aanvraag / toekenning / einde studiefinanciering
-
-- Gegevens van avond en / of deeltijdopleiding
-
-- Woonsituatie (huur) Indien van toepassing In geval van een gezamenlijke huishouding kan één van de partners de bewijsstukken overleggen
-
-- Alle documenten met betrekking tot woning, schip of woonwagen in huur, zoals:
-
-- Huurcontract
-
-- Betalingsbewijs huur (bank / giroafschrift)
-
-- Verklaring omtrent berekening (bruto / netto) huur
-
-- Specificatie service en administratie kosten
-
-- Beschikking huurtoeslag
-
-- Woonsituatie (onderhuur of kostganger) Indien van toepassing In geval van een gezamenlijke huishouding kan één van de partners de bewijsstukken overleggen
-
-- Alle documenten met betrekking tot de woonsituatie, Zoals:
-
-- Onderhuurcontract
-
-- Betalingsbewijs huur / kostgeld (bank / giro afschrift)
-
-- Verklaring hoofdbewoner
-
-- Woonsituatie (koop) Indien van toepassing In geval van een gezamenlijke huishouding kan één van de partners de bewijsstukken overleggen
-
-- Alle documenten met betrekking tot woning, schip of woonwagen in eigendom, zoals:
-
-- Eigendomsakte / koopakte
-
-- Hypotheekakte
-
-- Taxatierapporten
-
-- Polis brand en opstalverzekering
-
-- Hypotheeklasten per maand (aflossing / premie)
-
-- Eigenaargedeelte OZB
-
-- Premie Opstalverzekering
-
-- Bijdrage Vereniging van Eigenaren
-
-- Kosten (groot) onderhoud
-
-- Administratiekosten
-
-- Rioolrechten
-
-- Waterschaps- en polderlasten
-
-- Erfpachtcanon
-
-- Inwonende Kinderen jonger dan 18 jaar Indien van toepassing
-
-- Kinderen jonger dan 18 jaar Van een van beide of van beide partners Naam, voornamen, geboortedatum, geboorteplaats inwonende kinderen jonger dan 18 jaar Kinderbijslag, alle documenten, zoals: Beschikking Sociale verzekeringsbank
-
-- Studiefinanciering, alle documenten, zoals: Bewijzen betaling studiefinanciering
-
-- Beschikking toekenning of
-
-- weigering studiefinanciering
-
-- Inkomsten Overzicht inkomsten inwonende kinderen Eventuele arbeidscontracten inwonende kinderen
-
-- Medebewoners Indien van toepassing
-
-- Inwonende kinderen van 18 jaar en ouder Van een van beide of van beide partners Naam, voornamen, geboortedatum, geboorteplaats inwonende kinderen van 18 jaar en ouder Overige medebewoners
-
-- Alle documenten, zoals: Eventuele Familie relatie met de medebewoner Onderverhuur contract en / of betalingsbewijs onderverhuur Contract kostgeverschap en / of betalingsbewijs kostgeld Schriftelijke afspraken inzake de verdeling van de kosten van het huishouden
-
-- Naam, voornamen geboortedatum medebewoner(s)
-
-- Inkomsten Indien van toepassing
-
-- Inkomsten uit arbeid (loondienst) Alle documenten, zoals:
-
-- Naam, adres, woonplaats, telefoonnummer Werkgever
-
-- Arbeidscontract
-
-- Laatste loonstrook (vaste inkomsten)
-
-- Loonstroken afgelopen 12 maanden (wisselende inkomsten)
-
-- Inkomsten uit Uitkering Alle documenten, zoals:
-
-- Naam, adres, woonplaats, telefoonnummer Uitkeringsinstantie
-
-- Bewijs van toekenning (beschikking) inzake de uitkering
-
-- Bewijs van (tijdelijke) verlaging of wijziging van de uitkering
-
-- Correspondentie met de uitkeringsinstantie
-
-- Naam adres, woonplaats, telefoonnummer advocaat bij procedure met uitkeringsintantie
-
-- Inkomsten uit zelfstandig bedrijf of beroep Alle documenten, zoals:
-
-- Omschrijving bedrijf / beroep
-
-- Jaarcijfers over de laatste drie jaar
-
-- Inschrijving Kamer van Koophandel
-
-- Afschriften zakenrekening(en) over de afgelopen 3 maanden
-
-- Naam, adres, woonplaats en telefoonnummer boekhouder
-
-- Naam, adres, woonplaats en telefoonnummer bewindvoerder (bij surseance)
-
-- Naam, adres, woonplaats en telefoonnummer curator (bij faillissement)
-
-- Inkomsten uit Studiefinanciering Alle documenten, zoals:
-
-- Anders dan voor inwonende kinderen jonger dan 18 jaar
-
-- Naam, adres, woonplaats, telefoonnummer Studiefinanciering
-
-- Bewijs van toekenning (beschikking) inzake de uitkering
-
-- Bewijs van (tijdelijke) verlaging of wijziging van de uitkering
-
-- Correspondentie met Studiefinanciering
-
-- Naam adres, woonplaats, telefoonnummer advocaat bij procedure met Studiefinanciering
-
-- Inkomsten uit alimentatie, Alle aanvullende documenten, zoals:
-
-- Alleen in aanvulling op overzicht documenten bij `echtscheiding'
-
-- Bewijzen van betaling en / of betalingsachterstanden van alimentatie
-
-- Correspondentie inzake betaling en betalingsachterstanden
-
-- Naam adres, woonplaats, telefoonnummer advocaat bij procedure betalingsachterstanden
-
-- Voorlopige teruggave belastingdienst
-
-- Alle documenten, zoals:
-
-- Beschikking Belastingdienst inzake:
-
-- Algemene Heffingskorting
-
-- Combinatiekorting
-
-- Alleenstaande ouderkorting
-
-- Aanvullende Alleenstaande ouder korting
-
-- Ouderenkorting
-
-- Aanvullende Ouderenkorting
-
-- Vermogen Bank / giro gegevens altijd, overige gegevens indien van toepassing
-
-- Bank / girorekeningen Altijd meenemen:
-
-- Inclusief spaarrekeningen en Beleggingsrekeningen
-
-- Van alle rekeningen (ook in het buitenland): naam, adres en woonplaats van bankinstelling en rekeningnummer Alle bescheiden waaruit spaargeld blijkt, bijvoorbeeld spaarbankboekje, spaarrekeningen Alle afschriften van de bank-, giro- en/of creditkaartrekeningen van de laatste drie maanden
-
-- Motorvoertuigen Alle documenten, zoals:
-
-- Auto, Motor, Bedrijfswagen
-
-- Het kentekenbewijs (delen I en II)
-
-- Gegevens omtrent de financiering (bijvoorbeeld financieringscontract, lening, huurkoop, uitgestelde betaling)
-
-- Aankoopbewijs
-
-- Eigendomsbewijs
-
-- Caravan of boot Alle documenten, zoals:
-
-- Omschrijving merk, type, bouwjaar
-
-- Gegevens omtrent de financiering (bijvoorbeeld financieringscontract, lening, huurkoop, uitgestelde betaling)
-
-- Aankoopbewijs
-
-- Eigendomsbewijs
-
-- Overzicht waardepapieren Alle documenten, zoals:
-
-- Lijfrente polissen
-
-- Effecten
-
-- Levensverzekeringen obligaties
-
-- Aandelen/opties Dividendoverzichten
-
-- Spaarbrieven
-
-- Koopsompolissen
-
-- Beleggingscertificaten
-
-- Overige bezittingen Overzicht, documenten, zoals:
-
-- Juwelen
-
-- Schilderijen
-
-- Onroerend goed (ook in het buitenland)
-
-- Aandeel in een onverdeelde boedel of erfenis
-
-- Taxatierapporten
-
-- Inboedelverzekering Alle documenten, zoals:
-
-- Polis inboedelverzekering
-
-- Schulden Indien van toepassing Lopende Leningen Alle documenten, zoals:
-
-- Naam, adres, woonplaats, telefoonnummer Kredietverschaffer
-
-- Overeenkomst of contract lening of krediet
-
-- Alle afschriften en aflossingsoverzichten van de afgelopen drie maanden
-
-- Correspondentie inzake achterstanden
-
-- Betalingsachterstanden (anders dan leningen) Alle documenten, zoals:
-
-- Naam, adres, woonplaats, telefoonnummer Instantie(S)
-
-- Correspondentie inzake achterstanden
-
-- Schriftelijke overeenkomst inzake aflossingsregeling
-
-- Schuldsanering Alle documenten, zoals:
-
-- Naam, adres, woonplaats, telefoonnummer advocaat schuldhulpverlening
-
-- Verzoek tot regeling van de schulden
-
-- Beschikking rechter inzake wettelijke schuldregeling
-
-- Beschikking bewindvoering of onder curatele stelling
-
-- Contract saneringskrediet (Gemeentelijke Kredietbank)
-
-- Zorgverzekering Alle documenten, zoals:
-
-- Zorgverzekeringskaart of – pasje
-
-- Polis zorgverzekering
-
-- Vrijwillig eigen risico Polis (aanvullende) zorgverzekering
-
-- Polis tandartsverzekering
-
-- Betalingsbewijzen premies zorgverzekeringen
-
-- Beschikking zorgtoeslag
-
 ## Bijlage I. Aanvraag [WWB](https://wetten.overheid.nl/jci1.3:c:BWBR0015709)/[IOAW](https://wetten.overheid.nl/jci1.3:c:BWBR0004044)
 
 Alle relevante gegevens behorende tot de volgende categorieën:
@@ -3880,6 +3342,12 @@ Alle relevante gegevens behorende tot de volgende categorieën:
 
 - Correspondentie met de uitkeringsinstantie
 
+## Bijlage III
+
+Vervallen
+
+## Bijlage IV. , bedoeld in de [artikelen 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.3&z=2008-02-28&g=2008-02-28), [5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.4&z=2008-02-28&g=2008-02-28), [5.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.10a&z=2008-02-28&g=2008-02-28) en [5.12](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.1&artikel=5.12&z=2008-02-28&g=2008-02-28) van de Regeling SUWI
+
 Deze regeling zal met de toelichting en de bijlagen, met uitzondering van de bijlagen III tot en met XVI, in de Staatscourant worden geplaatst.
 
 De bijlagen III tot en met XVI liggen met ingang van 1 januari 2002 ter inzage in de bibliotheek van het Ministerie van Sociale Zaken en Werkgelegenheid.
@@ -3940,15 +3408,15 @@ De bijlagen III tot en met XVI liggen met ingang van 1 januari 2002 ter inzage i
 
 #### § 5.1a. Verantwoording
 
-##### Artikel 5.10a. Jaarverslag, kwartaalverslagen en jaarrekening van CWI, UWV en SVB
+##### Artikel 5.10a. Jaarverslag, tussentijdse verslagen en jaarrekening van CWI, UWV en SVB
 
-1. De jaarverslagen van de CWI, het UWV en de SVB bevatten in elk geval een omschrijving van de onderwerpen die zijn genoemd in de bij deze regeling behorende [bijlagen IV, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=IV&z=2008-01-01&g=2008-01-01), [VI, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=VI&z=2008-01-01&g=2008-01-01), en [VIII, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=VIII&z=2008-01-01&g=2008-01-01).
+1. De jaarverslagen van de CWI, het UWV en de SVB bevatten in elk geval een omschrijving van de onderwerpen die zijn genoemd in de bij deze regeling behorende [bijlagen IV](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=IV&z=2008-02-28&g=2008-02-28), [VI](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=VI&z=2008-02-28&g=2008-02-28) en [VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=VIII&z=2008-02-28&g=2008-02-28).
 
-2. De kwartaalverslagen van de CWI, het UWV en de SVB bevatten in elk geval een omschrijving van de onderwerpen die zijn genoemd in de bij deze regeling behorende [bijlagen IV, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=IV&z=2008-01-01&g=2008-01-01), [VI, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=VI&z=2008-01-01&g=2008-01-01), en [VIII, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=VIII&z=2008-01-01&g=2008-01-01).
+2. De tussentijdse verslagen van de CWI, het UWV en de SVB bevatten in elk geval een omschrijving van de onderwerpen die zijn genoemd in de bij deze regeling behorende [bijlagen IV](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=IV&z=2008-02-28&g=2008-02-28), [VI](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=VI&z=2008-02-28&g=2008-02-28) en [VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=VIII&z=2008-02-28&g=2008-02-28).
 
-3. Het jaarverslag, de kwartaalverslagen en de jaarrekening van de CWI bestaan uit twee afzonderlijke delen, waarvan één deel uitsluitend betrekking heeft op het in [artikel 6.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=6&paragraaf=6.1&artikel=6.3&z=2008-01-01&g=2008-01-01), bedoelde organisatieonderdeel en het andere deel op de CWI met uitzondering van het bedoelde organisatieonderdeel.
+3. Het jaarverslag, de tussentijdse verslagen en de jaarrekening van de CWI bestaan uit twee afzonderlijke delen, waarvan één deel uitsluitend betrekking heeft op het in [artikel 6.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=6&paragraaf=6.1&artikel=6.3&z=2008-02-28&g=2008-02-28), bedoelde organisatieonderdeel en het andere deel op de CWI met uitzondering van het bedoelde organisatieonderdeel.
 
-4. De delen van het jaarverslag en de kwartaalverslagen die betrekking hebben op het in [artikel 6.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=6&paragraaf=6.1&artikel=6.3&z=2008-01-01&g=2008-01-01), bedoelde organisatieonderdeel bevatten in elk geval een omschrijving van de onderwerpen die zijn genoemd in de bij deze regeling behorende [bijlage XX](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XX&z=2008-01-01&g=2008-01-01).
+4. De delen van het jaarverslag en de tussentijdse verslagen die betrekking hebben op het in [artikel 6.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=6&paragraaf=6.1&artikel=6.3&z=2008-02-28&g=2008-02-28), bedoelde organisatieonderdeel bevatten in elk geval een omschrijving van de onderwerpen die zijn genoemd in de bij deze regeling behorende [bijlage XX](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XX&z=2008-02-28&g=2008-02-28).
 
 #### § 5.1a. Verantwoording
 
@@ -4167,7 +3635,7 @@ De bijlagen III tot en met XVI liggen met ingang van 1 januari 2002 ter inzage i
 
 4. Bij de bepaling van de strekking van de uiteindelijke accountantsverklaring weegt de accountant het getrouwe beeld van de jaarrekening en de rechtmatigheidsrapportage in de bedrijfsvoeringsparagraaf, waaronder de getrouwheid van de rapportage over het gevoerde beleid ter voorkoming en bestrijding van misbruik en oneigenlijk gebruik. Voor de getrouwheid van de rechtmatigheidsrapportage geldt geen kwantitatieve goedkeuringstolerantie.
 
-5. De accountantsverklaring wordt opgesteld overeenkomstig de modellen die zijn opgenomen in [bijlage XXII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XXII&z=2008-01-01&g=2008-01-01) behorende bij deze regeling.
+5. De accountantsverklaring wordt opgesteld overeenkomstig de modellen die zijn opgenomen in [bijlage XXII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XXII&z=2008-02-28&g=2008-02-28) behorende bij deze regeling.
 
 ##### Artikel 5.10e. Het verslag van bevindingen
 
@@ -4177,7 +3645,7 @@ De bijlagen III tot en met XVI liggen met ingang van 1 januari 2002 ter inzage i
 
 - b. overige fouten en onzekerheden die niet worden gehanteerd voor de bepaling van de strekking van de accountantsverklaring;
 
-- c. de doelmatigheid van het beheer en de organisatie;
+- c. de doelmatigheid van het beheer en de organisatie, zoals omschreven in de bij deze regeling behorende [bijlage XXIII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XXIII&z=2008-02-28&g=2008-02-28);
 
 - d. het jaarverslag, voor wat betreft de prestatie-indicatoren;
 
@@ -4194,6 +3662,8 @@ bij c. de ordelijke en controleerbare totstandkoming;
 bij d. de ordelijke, controleerbare en deugdelijke totstandkoming voor wat betreft de prestatie-indicatoren;
 
 bij e. de ordelijke en controleerbare totstandkoming van de bedrijfsvoeringsparagraaf en de getrouwheid voor wat betreft de rechtmatigheidsrapportage in de bedrijfsvoeringsparagraaf.
+
+3. De accountant onderzoekt de rechtmatige uitvoering van de regelingen, bedoeld in [artikel 5 van de Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=5), en vermeldt de uitkomsten van dit onderzoek in het verslag van bevindingen.
 
 #### § 5.2. Informatievoorziening
 
@@ -4237,37 +3707,37 @@ Vervallen
 
 ### 1. Goedkeurende accountantsverklaring
 
-### **Opdracht**
+### **3. Ketensamenwerking**
 
-De Raad van Bestuur verantwoordt zich in ieder geval over de rechtmatigheid van de jaarrekening als geheel. Vaststelling van de rechtmatigheid is gekoppeld aan het handelen in het verslagjaar (het handelen omvat mede het ten onrechte niet-handelen) en de fouten die daarbij zijn gevonden. Een nadere uitwerking van het aspect rechtmatigheid wordt gegeven in de wijziging van de Regeling SUWI in verband met het opnemen van regels inzake de accountantscontrole (Regeling van 18 maart 2005, Stcrt. 59).
+CWI doet verslag van de samenwerking met zijn ketenpartners, de ontwikkelingen in de keten werk en inkomen en de voortgang van de uitvoering van het ketenprogramma.
 
 ### **Opdracht**
 
 In het kader van de controle, bedoeld in [artikel 49, vierde lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=49), hebben wij de jaarrekening (jaartal) van (naam) te (statutaire vestigingsplaats) in dit verslag (verwijzing kan met paginanummers) gecontroleerd. De jaarrekening is opgesteld onder verantwoordelijkheid van de leiding van (naam). Het is onze verantwoordelijkheid een accountantsverklaring inzake de jaarrekening te verstrekken.
 
-CWI rapporteert op dit punt over belangrijke personeelsaangelegenheden, waaronder in ieder geval de personeelsomvang, het personeelsverloop en de personeelskosten.
+In de bedrijfsvoeringsparagraaf van het jaarverslag gaat CWI in op de sturing en beheersing van de bedrijfsprocessen binnen CWI. Het doel is aan te geven in welke mate het management van CWI haar bedrijfsprocessen beheerst. In de bedrijfsvoeringsparagraaf legt CWI, mede gebaseerd op risicoanalyse, verantwoording af over de bedrijfsvoering. De bedrijfsvoeringsparagraaf bestaat tenminste uit de onderstaande onderwerpen.
 
-### **Oordeel**
+### **a) Rechtmatigheid**
 
-Een gangbaar onderscheid is die tussen ‘doelmatigheid van bedrijfsvoering’ en ‘doelmatigheid van beleid’. Bij ‘doelmatigheid van bedrijfsvoering’ staat de samenhang tussen de geleverde prestaties (producten of diensten) – uitgedrukt in kwantiteit én kwaliteit – en de ingezette middelen centraal. De ‘doelmatigheid van beleid’ benadert doelmatigheid op een hoger abstractieniveau, waarbij de relatie tussen beoogde effecten en ingezette middelen centraal staat.
+Het onderdeel over rechtmatigheid dient afzonderlijk identificeerbaar te zijn in de bedrijfsvoeringsparagraaf. Dit is noodzakelijk voor de accountant, zodat in de accountantsverklaring duidelijk en ondubbelzinnig kan worden aangegeven over welke onderdelen van het jaarverslag welke soort c.q. mate van zekerheid wordt gegeven.
 
-In de context van de [Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060) gaat het om de doelmatigheid van de uitvoering van de sociale verzekeringen en wetten in het verstreken boekjaar ([artikel 49, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=49)) en de vraag of het beheer en de organisatie van de rechtspersoon voldoen aan eisen van doelmatigheid ([artikel 49, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=49)). De uitwerking van het doelmatigheidsbegrip die in het kader van de Regeling SUWI wordt gegeven heeft betrekking op de doelmatigheid van bedrijfsvoering.
+Onder rechtmatigheid wordt verstaan de financiële rechtmatigheid. Financiële rechtmatigheid houdt in dat een financiële transactie in overeenstemming is met de Europese regelgeving, Nederlandse wetten, Algemene Maatregelen van Bestuur, ministeriële regelingen en beleidsregels opgenomen bepalingen die de uitkomst van de financiële transactie beïnvloeden. Voor het onderdeel over rechtmatigheid gelden kwantitatieve rapportagegrenzen. De wijze waarop CWI verantwoording dient af te leggen over de rechtmatigheid in het jaarverslag en de jaarrekening, alsmede de wijze waarop de accountant zijn controlewerkzaamheden dient te verrichten, zijn nader uitgewerkt in de [artikelen 5.10b t/m 5.10e](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1b&artikel=5.10b&z=2008-02-28&g=2008-02-28) van de Regeling SUWI en met name in de daarbijbehorende toelichting.
 
 Wij zijn van oordeel dat de jaarrekening (jaartal) van (naam) in dit verslag voldoet aan de hierboven omschreven eisen.
 
 ### 2. Accountantsverklaring met beperking
 
-### **Opdracht**
+### **c) Totstandkoming niet-financiële informatie (kwaliteit)**
 
-CWI rapporteert over de samenwerking met haar ketenpartners en de ontwikkelingen in de keten werk en inkomen.
+CWI rapporteert in het jaarverslag over het totstandkomingsproces van de informatievoorziening (inclusief de daarbij gehanteerde criteria zoals vastgelegd in [bijlage XVII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XVII&z=2008-02-28&g=2008-02-28) van de SUWI-regeling) en de wijze waarop deze is gewaarborgd (conform [artikel 5.16 tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.1&artikel=5.16&z=2008-02-28&g=2008-02-28) Regeling SUWI). In zowel de tussentijdse verslagen als het jaarverslag wordt ingegaan op de voortgang van verbetermaatregelen.
 
-### **Opdracht**
+### **d) Financieel Beheer**
 
-In het kader van de controle, bedoeld in [artikel 49, vierde lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=49), hebben wij de jaarrekening (jaartal) van (naam) te (statutaire vestigingsplaats) in dit verslag (verwijzing kan met paginanummers) gecontroleerd. De jaarrekening is opgesteld onder verantwoordelijkheid van de leiding van (naam). Het is onze verantwoordelijkheid een accountantsverklaring inzake de jaarrekening te verstrekken.
+In dit onderdeel rapporteert de SUWI-organisatie over de belangrijkste tekortkomingen in het financieel beheer. Onder financieel beheer wordt verstaan het geheel van beslissingen, handelingen en regels die zijn bedoeld voor de sturing en beheersing van, alsmede de verantwoording over, de financiële transacties en de saldi waarvoor het management (mede)verantwoordelijkheid draagt. De administraties, die ten behoeve van het financieel beheer worden bijgehouden, worden eveneens tot het financieel beheer gerekend. Administraties zijn immers onlosmakelijk met een goed beheer verbonden.
 
-De accountant gaat in de context van de [Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060) in zijn verslag van bevindingen in op de vraag of het beheer en de organisatie van de rechtspersoon voldoet aan de eisen van doelmatigheid ([artikel 49, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=49)).
+Het financieel beheer dient te voldoen aan de eisen ordelijkheid en controleerbaarheid.
 
-De accountant heeft als taak in zijn verslag van bevindingen te rapporteren over de ordelijke en controleerbare totstandkoming van de verantwoording over de doelmatigheid.
+Onder ordelijk wordt verstaan dat het financieel beheer en de administraties in overeenstemming zijn met de in de administratieve organisatie vastgelegde procedureregels. Met controleerbaar wordt bedoeld dat de uitkomsten van het financieel beheer duidelijk worden vastgelegd, opdat achteraf controle efficiënt kan worden uitgevoerd.
 
 ### **Bevindingen**
 
@@ -4277,7 +3747,7 @@ Wij zijn van mening dat onze controle een deugdelijke grondslag vormt voor ons o
 
 De jaarrekening bevat financiële fouten in de baten, lasten of baten en lasten tezamen1Hier wordt afhankelijk van het hoogst voorkomende foutpercentage in respectievelijk de baten, lasten of baten en lasten tezamen gerelateerd aan de bijbehorende omvangsbasis. ter hoogte van € … (> 1% en ≤ 3% ) en onzekerheden in de controle van baten, lasten of baten en lasten tezamen ter hoogte van € … (> 3% en ≤ 10%). Deze bedragen zijn ten opzichte van de totale baten, de totale lasten of de som van baten en lasten van € … niet in overeenstemming met de wet- en regelgeving vastgesteld, respectievelijk er is onvoldoende zekerheid over de volledigheid van de verantwoorde ontvangsten.
 
-De jaarrekening CWI bestaat uit de volgende onderdelen:
+– Fysiek leegstaande en verhuurbare oppervlakten in vierkante meters VVO (conform de definitie van de Rijksgebouwendienst)
 
 Bij een materieel belang in de controle: Wij zijn van oordeel onder voorbehoud van hetgeen in de vorige paragraaf is vermeld, dat de jaarrekening (jaartal) van (naam) in dit verslag voldoet aan de hierboven omschreven eisen.
 
@@ -4285,13 +3755,13 @@ Bij een materieel belang tegen een deel van de jaarrekening: Wij zijn van oordee
 
 ### **6.2. Balans CWI per 31 december jaar T (met vergelijkende cijfers over jaar T-1)**
 
-### **6.2. Balans CWI per 31 december jaar T (met vergelijkende cijfers over jaar T-1)**
+### **5. Governance**
 
-**Activa**
+De onderwerpen die onder het onderdeel governance vallen hebben betrekking op de bestuurlijke inrichting van CWI de wijze waarop zij haar taken uitvoert. CWI rapporteert in haar jaarverslag over de volgende onderwerpen. Indien CWI van mening dat over onderstaande onderwerpen op andere plek in het jaarverslag moet worden gerapporteerd, dan is CWI hier vrij in.
 
-### **Opdracht**
+### **Risicomanagement**
 
-In het kader van de controle, bedoeld in [artikel 49, vierde lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=49), hebben wij de jaarrekening (jaartal) van (naam) te (statutaire vestigingsplaats) in dit verslag (verwijzing kan met paginanummers) gecontroleerd. De jaarrekening is opgesteld onder verantwoordelijkheid van de leiding van (naam). Het is onze verantwoordelijkheid een accountantsverklaring inzake de jaarrekening te verstrekken.
+CWI rapporteert over de wijze waarop invulling is gegeven aan risicomanagement. CWI gaat in op welke wijze risico’s binnen de organisatie zijn geanalyseerd, hoe wordt omgegaan met risico’s en hoe risico’s worden gemanaged.
 
 **Totaal passiva**
 
@@ -4299,27 +3769,27 @@ In het kader van de controle, bedoeld in [artikel 49, vierde lid, van de Wet str
 
 Wij zijn van mening dat onze controle een deugdelijke grondslag vormt voor ons oordeel.
 
-**Rijksbijdrage (Basisbudget)**
+Alle uitvoeringskosten worden in de budgetverantwoording opgenomen, ongeacht of er budget voor is toegekend. Het salderen van bijzondere baten en lasten is niet toegestaan, tenzij wetgeving anders voorschrijft.
 
 ### **Oordeel**
 
 Bij formele fouten: De interne organisatie is gelet op het percentage formele fouten zodanig ingericht dat onze controle niet de vereiste zekerheid kan geven over de rechtmatigheid van baten en lasten.
 
-**Totaal baten**
+CWI doet jaarlijks verslag van de bezoldiging van de leden van de Raad van Bestuur en Raad van Advies ([artikel 5 vierde lid Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=5)) en van de topinkomens op basis van de [Wet openbaarmaking uit financiële middelen gefinancierde topinkomens](https://wetten.overheid.nl/jci1.3:c:BWBR0019562) (WOPT).
 
 Om de reden vermeld in de vorige paragraaf kunnen wij geen oordeel geven of de jaarrekening (jaartal) van (naam) in dit verslag voldoet aan de hierboven omschreven eisen.
 
 ### 4 . Afkeurende accountantsverklaring
 
+### **8. Jaarrekening**
+
+De jaarrekening van de CWI geeft inzicht in de baten en lasten over het boekjaar, de balans aan het eind van het boekjaar en de cash flow.
+
 ### **Opdracht**
 
-**Overige personeelskosten**
+De in de jaarrekening opgenomen informatie dient een zodanig betrouwbaar beeld te geven van de werkelijkheid als in de gegeven omstandigheden is vereist. Alle uitvoeringskosten worden in de budgetverantwoording opgenomen, ongeacht of er budget voor is toegekend. Het salderen van bijzondere baten en lasten is niet toegestaan, tenzij wetgeving anders voorschrijft.
 
-### **Opdracht**
-
-In het kader van de controle, bedoeld in [artikel 49, vierde lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=49), hebben wij de jaarrekening (jaartal) van (naam) te (statutaire vestigingsplaats) in dit verslag (verwijzing kan met paginanummers) gecontroleerd. De jaarrekening is opgesteld onder verantwoordelijkheid van de leiding van (naam). Het is onze verantwoordelijkheid een accountantsverklaring inzake de jaarrekening te verstrekken.
-
-**Huisvestingskosten**
+De jaarrekening CWI bestaat uit de volgende onderdelen:
 
 ### **Bevindingen**
 
@@ -4329,9 +3799,9 @@ Wij zijn van mening dat onze controle een deugdelijke grondslag vormt voor ons o
 
 De jaarrekening bevat financiële fouten in de baten, lasten of baten en lasten tezamen3Hier wordt afhankelijk van het hoogst voorkomende foutpercentage in respectievelijk de baten, lasten of baten en lasten tezamen gerelateerd aan de bijbehorende omvangsbasis. ter hoogte van € …. Dit bedrag is ten opzichte van de totale baten, totale lasten of de som van baten en lasten van € … (> 3%) niet in overeenstemming met de wet- en regelgeving vastgesteld.
 
-Totaal overig beheer
+Activa
 
-Wij zijn van oordeel gelet op het belang van hetgeen in de vorige paragraaf is vermeld, dat de jaarrekening (jaartal) van (naam) in dit verslag niet voldoet aan de hierboven omschreven eisen.
+Totaal activa
 
 Deze regeling zal met de toelichting en de bijlagen, met uitzondering van de bijlagen III tot en met XVI, in de Staatscourant worden geplaatst.
 
@@ -4343,13 +3813,13 @@ In deze bijlage zijn de informatieproducten gespecificeerd die CWI periodiek aan
 
 ### Informatieproducten van CWI
 
-In deze bijlage zijn de informatieproducten gespecificeerd die CWI periodiek aan SZW dient te verstrekken op grond van [artikel 5.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1a&artikel=5.10a&z=2006-07-09&g=2006-07-09) en [artikel 5.12](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.1&artikel=5.12&z=2006-07-09&g=2006-07-09) van de Regeling SUWI. Het betreft de volgende producten:
+CWI levert één planningsdocument op, te weten het jaarplan met begroting. CWI dient zich op verschillende momenten te verantwoorden over de uitvoering van het jaarplan. Deze verantwoording vindt plaats in de tussentijdse verslagen en het jaarverslag. De tussentijdse verslagen worden uiterlijk zes weken na afloop van de verslagperiode aan de minister verstrekt.
 
 ### a. Verantwoording CWI
 
 ### **1. Inleiding en algemeen beeld**
 
-CWI geeft een analyse van de feitelijke macro-economische ontwikkelingen en de relevante waargenomen ontwikkelingen op de arbeidsmarkt in het verslagjaar. Op basis van deze analyse kan aangegeven worden wat de consequenties daarvan zijn geweest voor de activiteiten van de CWI en de invloed op de effecten van de uitvoering
+In de hierna volgende tabel worden de onderwerpen benoemd, die in de diverse producten van de P&C cyclus aan de orde dienen te komen. Daaronder volgt, per onderwerp, een nadere toelichting.
 
 ### **2. Omgevingsanalyse**
 
@@ -4357,29 +3827,29 @@ CWI geeft een analyse van de feitelijke macro-economische ontwikkelingen en de r
 
 ### **3. Veranderagenda – Transformatie**
 
-In het jaarverslag worden per project de kosten en (in samenhang met de geplande mijlpalen) de resultaten verantwoord. Als een in de goedgekeurde jaartranche geplande mijlpaal al of niet bereikt is, wordt hier kort verslag van gedaan. Voor kostenafwijkingen van meer dan 20% per programma wordt een korte verklaring gegeven. In de jaarrekening wordt het transformatiebudget per financieringsbron afzonderlijk verantwoord. Verder wordt gerapporteerd over de voortgang en het effect van de verbeteringen in de aansturing van het transformatieproces.
+In het jaarplan wordt ook aandacht besteed aan eventuele veranderingen in de taken van de organisatie. Gedacht kan worden aan:
 
-CWI doet verslag van de uitvoering van het beleid en de geleverde prestaties. Het jaarplan en de afgesproken prestatie-indicatoren vormen hierbij het uitgangspunt. Per doelstelling wordt op basis van de bijbehorende indicatoren aangegeven in welke mate de doelstellingen zijn gerealiseerd en wat de onderliggende analyse is bij afwijkingen in de realisatie. In dat geval wordt verder aangegeven welke aanvullende maatregelen zijn genomen om doelstellingen te realiseren.
+In de tussentijdse verslagen en het jaarverslag doet CWI verslag van de uitvoering van het beleid en de geleverde prestaties. Het jaarplan en de daarin opgenomen prestatie-indicatoren vormen hierbij het uitgangspunt. De uitkomsten van de prestatie-indicatoren worden, voorzien van een toelichting, samen met de normen/streefwaarden per wet verantwoord. Indien van toepassing beschrijft CWI zoveel als mogelijk de eigen bijdrage aan het behalen van de doelstellingen, en geeft een verklaring als doelstellingen niet worden gehaald en de verbetermaatregelen die zijn/worden genomen.
 
 ### **5. Bedrijfsvoering**
 
-Naast de doelstellingen uit het jaarplan en de prestatie-indicatoren, wordt ten minste ingegaan op de volgende onderdelen:
+Daarnaast rapporteert CWI in haar jaarverslag over de wijze waarop aan cliëntenparticipatie is vormgegeven. CWI verantwoordt zich over de activiteiten die zijn ondernomen om de dienstverlening aan de klant te handhaven en verbeteren.
 
 In het onderdeel bedrijfsvoering wordt ingegaan op de sturing en beheersing van de bedrijfsprocessen binnen CWI. Het doel is om aan te geven dat het management van CWI haar bedrijfsvoeringsprocessen beheerst. Een aantal aspecten van de bedrijfsvoering die bepalend zijn voor de rechtmatigheid en doelmatigheid van de uitvoering zullen jaarlijks in de rapportage aan de orde komen. Het onderdeel bedrijfsvoering wordt per aspect opgebouwd uit kwantitatieve gegevens met een kwalitatieve toelichting.
 
-In het onderdeel bedrijfsvoering wordt ingegaan op de sturing en beheersing van de bedrijfsprocessen binnen CWI. Het doel is om aan te geven dat het management van CWI haar bedrijfsvoeringsprocessen beheerst. Een aantal aspecten van de bedrijfsvoering die bepalend zijn voor de rechtmatigheid en doelmatigheid van de uitvoering zullen jaarlijks in de rapportage aan de orde komen. Het onderdeel bedrijfsvoering wordt per aspect opgebouwd uit kwantitatieve gegevens met een kwalitatieve toelichting.
+CWI doet verslag van de uitvoering van het investeringsprogramma en de invoering van nieuwe wet- en regelgeving. Hierbij wordt ingegaan op de bereikte resultaten en de daarmee gepaard gaande kosten. CWI legt hierbij een relatie met de planning en licht eventuele wijzigingen kort toe.
 
-In de opdracht ligt besloten dat CWI jaarlijks een risicoanalyse uitvoert naar knelpunten en risico’s in de bedrijfsvoering. De uitkomsten van deze analyse en eventuele aanvullende gerichte onderzoeken (operational audits) en de verbeteracties die daaruit voortvloeien worden in de verslaglegging opgenomen.
+Het ministerie van Binnenlandse Zaken en Koninkrijksrelaties wenst de consequenties van de financiële taakstellingen op de personeelsformaties van het Rijk te kunnen volgen. Hieronder zijn ook de SUWI-organisaties begrepen. CWI dient daarom zowel in budgettaire termen als in termen van fte’s verslag te doen van de effecten van de generieke taakstelling uit het coalitieakkoord, de Vernieuwingsagenda en de taakstelling die aan de samenwerking UWV, CWI en gemeenten is verbonden. Als basisformatie (nulpunt) geldt de ontwikkeling van het aantal fte vanaf het aantal fte per 31 december 2006.
 
-Binnen het perspectief ‘kwaliteit productie’ gaat het vooral om de verbetering van het uitvoeringsproces zodat aan gestelde normen van o.a. volledigheid en tijdigheid van de uitvoering kan worden voldaan, met bijzondere aandacht voor de werkvoorraden (tewerkstelling- en ontslagvergunningen en reïntegratieadviezen). In dit onderdeel wordt tevens ingegaan op bezwaar en beroep tegen beslissingen.
+Uitbreiding van de formatie als gevolg van intensiveringen dienen separaat zichtbaar te worden gemaakt.
 
 CWI geeft een beschrijving van de activiteiten in het kader van de verbetering van de dienstverlening aan de klanten van CWI. Het gaat hierbij ondermeer om bereikbaarheid, klanttevredenheid en klachtenafhandeling. Ook de privacy-audit komt hier aan de orde.
 
-CWI brengt verslag uit ter zake van activiteiten die zijn ondernomen om de bedrijfsprocessen door te lichten, waarbij het kostenniveau wordt gerelateerd aan de (kwaliteit van de) geleverde prestatie. De Raad van Bestuur wordt geacht de uitgangspunten die zij hanteert met betrekking tot doelmatigheid te expliciteren. Een nadere uitwerking van het aspect doelmatigheid wordt gegeven in de wijziging van de Regeling SUWI in verband met het opnemen van regels inzake de accountantscontrole (Regeling van 18 maart 2005, Stcrt. 59).
+Het jaarplan vormt hierbij het uitgangspunt. Per speerpunt wordt aangegeven in welke mate de doelstellingen zijn gerealiseerd en wat de onderliggende analyse is bij afwijkingen in de realisatie. In dat geval wordt verder aangegeven welke aanvullende maatregelen CWI heeft genomen om de doelstellingen alsnog te realiseren.
 
 Doelmatigheid is een begrip dat op verschillende manieren kan worden gedefinieerd.
 
-Een organisatie is doelmatig als er een goed evenwicht is tussen de geleverde prestaties (primair in kwantiteit en secundair in kwaliteit) en de door haar ingezette middelen.
+In [artikel 5.10e, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1b&artikel=5.10e&z=2008-02-28&g=2008-02-28), van de Regeling SUWI is aangegeven dat CWI inzicht biedt in doelmatigheid van het beheer en de organisatie. CWI brengt verslag uit ter zake van activiteiten die zijn ondernomen om de bedrijfsprocessen door te lichten, waarbij het kostenniveau wordt gerelateerd aan de (kwaliteit van de) geleverde prestatie. De Raad van Bestuur wordt geacht de uitgangspunten die zij hanteert met betrekking tot doelmatigheid te expliciteren. Een toelichting op [artikel 5.10e, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1b&artikel=5.10e&z=2008-02-28&g=2008-02-28), van de Regeling SUWI, wordt gegeven in [Bijlage XXIII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XXIII&z=2008-02-28&g=2008-02-28) bij de Regeling SUWI.
 
 In aansluiting op de definitie van doelmatigheid werken UWV, CWI, SVB, IB en BKWI hun eigen toetsingskader uit.
 
@@ -4387,15 +3857,15 @@ Het toetsingskader dient aan de volgende minimumeisen te voldoen:
 
 ### **Rol van de accountant**
 
-De accountant stelt in dit verband ook vast of de organisatie een toetsingskader hanteert dat voldoende rekening houdt met de in deze toelichting benoemde minimumeisen.
+De SUWI-organisatie rapporteert in het algemeen bij onvolkomenheden in het financieel beheer als die kunnen leiden tot disfunctioneren van het financieel beheer, en/of betrekking hebben op kritieke processen, en/of wijd verbreid zijn, en/of kunnen leiden of hebben geleid tot aanzienlijke risico’s.
 
-De in de jaarrekening opgenomen informatie dient een zodanig betrouwbaar beeld te geven van de werkelijkheid als in de gegeven omstandigheden is vereist. Alle uitvoeringskosten worden in de budgetverantwoording opgenomen, ongeacht of er budget voor is toegekend. Het salderen van bijzondere baten en lasten is niet toegestaan, tenzij wetgeving anders voorschrijft.
+CWI rapporteert over ontwikkelingen ten aanzien van de volgende onderwerpen:
 
 ### **Oordeel**
 
-### **6.1. Grondslagen waardering en resultaatbepaling**
+### **Huisvestingskosten**
 
-Plaats/datum
+– Huisvestingskosten
 
 Ondertekening
 
@@ -4403,63 +3873,63 @@ Ondertekening
 
 ### **6.3. Resultatenrekening CWI over jaar T (met vergelijkende cijfers over jaar T-1)**
 
-Onze controle is verricht overeenkomstig in Nederland algemeen aanvaarde richtlijnen met betrekking tot controleopdrachten. Volgens deze richtlijnen dient onze controle zodanig te worden gepland en uitgevoerd, dat een redelijke mate van zekerheid wordt verkregen dat de jaarrekening geen onjuistheden van materieel belang bevat. Een controle omvat onder meer een onderzoek van informatie ter onderbouwing van de bedragen en de toelichting in de jaarrekening. Bij onze controle zijn de regels inzake de accountantscontrole zoals opgenomen in de Regeling SUWI, [paragraaf 5.1b](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1b&z=2007-01-01&g=2007-01-01). Accountantscontrole toegepast. Tevens omvat onze controle een beoordeling van de grondslagen voor financiële verslaggeving die bij het opmaken van de jaarrekening zijn toegepast en van belangrijke schattingen die de leiding van het de organisatie daarbij heeft gemaakt, alsmede een evaluatie van het algehele beeld van de jaarrekening.
+In het jaarverslag doet CWI op hoofdlijnen verslag van de door de Raad van Advies gegeven adviezen en afgegeven signalen.
 
-Bij onvoldoende zekerheid: Er is door ons onvoldoende zekerheid verkregen over baten, lasten of baten en lasten tezamen2Hier wordt afhankelijk van het hoogst voorkomende foutpercentage in respectievelijk de baten, lasten of baten en lasten tezamen gerelateerd aan de bijbehorende omvangsbasis. ter hoogte van € … (> 10%). Wij hebben niet kunnen vaststellen dat dit bedrag ten opzichte van de totale baten, totale lasten of de som van baten en lasten van € … in overeenstemming met de wet- en regelgeving is vastgesteld, dan wel wij onvoldoende zekerheid konden verkrijgen over de volledigheid van de verantwoorde ontvangsten.
+In de toelichting wordt onder andere ingegaan op:
 
-Plaats/datum
+De indeling in categorieën volgt [Titel 9 Boek 2 BW](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9).
 
 Ondertekening
 
-Totaal personeelskosten
+De jaarrekening heeft betrekking op de balans en de resultatenrekening met de toelichting en op de in het jaarplan en modelverantwoording opgenomen financiële onderwerpen. De jaarrekening is zoveel als mogelijk gebaseerd op [titel 9, Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9), tenzij hiervan in deze modelverantwoording wordt afgeweken.
 
-Onze controle is verricht overeenkomstig in Nederland algemeen aanvaarde richtlijnen met betrekking tot controleopdrachten. Volgens deze richtlijnen dient onze controle zodanig te worden gepland en uitgevoerd, dat een redelijke mate van zekerheid wordt verkregen dat de jaarrekening geen onjuistheden van materieel belang bevat. Een controle omvat onder meer een onderzoek van informatie ter onderbouwing van de bedragen en de toelichting in de jaarrekening. Bij onze controle zijn de regels inzake de accountantscontrole zoals opgenomen in de Regeling SUWI, [paragraaf 5.1b](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1b&z=2007-01-01&g=2007-01-01). Accountantscontrole toegepast. Tevens omvat onze controle een beoordeling van de grondslagen voor financiële verslaggeving die bij het opmaken van de jaarrekening zijn toegepast en van belangrijke schattingen die de leiding van het de organisatie daarbij heeft gemaakt, alsmede een evaluatie van het algehele beeld van de jaarrekening.
+In de toelichting wordt onder andere ingegaan op:
 
-**Vervoerskosten**
+In verband met de versnelling van de verantwoording is het toegestaan het handelen in het verslagjaar te koppelen aan een jaarschijveninterpretatie. De te hanteren jaarschijf mag niet ouder zijn dan 3 maanden ten opzichte van het kalenderjaar waarop de verantwoording betrekking heeft. Indien de jaarschijven worden aangepast dan dient dit in de jaarrekening te worden vermeld evenals de vergelijkbare cijfers van het voorgaande jaar.
 
-Plaats/datum
+Passiva
 
-### **6.4. Toelichting balans CWI**
-
-### **6.4. Toelichting balans CWI**
+### **10.3 Resultatenrekening CWI over jaar T (met vergelijkende cijfers over jaar T-1)**
 
 ### **6.4. Toelichting balans CWI**
 
-**Rijksbijdrage (Basisbudget)**
+### **6.4. Toelichting balans CWI**
 
-**Rijksbijdrage (Basisbudget)**
+Incidenteel budget (Bestedingsplan)
 
-**Rijksbijdrage (Basisbudget)**
+Overige Baten
+
+Totaal baten
 
 ### **6.5.2. Lasten**
 
-**Overige baten**
+Loonkosten eigen personeel
 
-**Loonkosten eigen personeel**
+Kosten extern personeel
 
-**Loonkosten eigen personeel**
+Overige personeelskosten
 
-**Kosten extern personeel**
+Totaal personeelskosten
 
-**Overige personeelskosten**
+Afschrijvingskosten
 
-**Afschrijvingskosten**
+Huisvestingskosten
 
-**Huisvestingskosten**
+Automatiseringskosten
 
-**Automatiseringskosten**
+Kantoorkosten
 
-**Kantoorkosten**
+Vervoerskosten
 
-**Vervoerskosten**
-
-### **6.6. Kasstroomoverzicht**
-
-**Beleidsbudgetten**
+Overige beheerskosten
 
 ### **6.6. Kasstroomoverzicht**
 
-Gehanteerd wordt het kasstroomoverzicht met onderscheid naar operationele, investerings- en financieringskasstromen. De kasbeweging dient aan te sluiten op de rekeningen-courant met het Ministerie van Financiën (geïntegreerd middelenbeheer).
+Beleidsbudgetten
+
+### **6.6. Kasstroomoverzicht**
+
+Totaal lasten
 
 ### **7. Accountantsverklaring en verslag van bevindingen**
 
@@ -4469,41 +3939,41 @@ In de hieronder weergegeven tabellen is aangegeven welke beleidsinformatie nodig
 
 In de hieronder weergegeven tabellen is aangegeven welke beleidsinformatie nodig is. De beleidsinformatie wordt gelijktijdig met de kwartaalverslagen CWI en het jaarverslag CWI verstrekt. De voorkeur van SZW gaat uit naar verstrekking in elektronische vorm.
 
-Werk.nl
+Rijksbijdrage (Basisbudget)
 
-Diensten
+Incidenteel budget (Bestedingsplan)
 
-werkzoekenden
+Overige baten
 
 werkgevers
 
-ketenpartners
+Loonkosten eigen personeel
 
-Werkzoekenden
+Kosten extern personeel
 
-Vacatures
+Overige personeelskosten
 
-Ontslagvergunningen
+Afschrijvingskosten
 
-aanvragen
+Huisvestingskosten
 
-Tewerkstellingsvergunningen
+Automatiseringskosten
 
-aanvragen
+Kantoorkosten
 
-Aandachtsgebieden
+Vervoerskosten
 
-Met betrekking tot een aantal nader te bepalen aandachtsgebieden dienen de volgende tabellen te worden geleverd
+Overige beheerskosten
 
-Procedures
+Beleidsbudgetten
 
 Andere taken
 
-Samenwerking met UWV bij toetsing van bepaalde reorganisatieontslagen
+Gehanteerd wordt het kasstroomoverzicht met onderscheid naar operationele, investerings- en financieringskasstromen.
 
 Bedrijfsbezoeken in het kader van werktijdverkorting
 
-Advisering over ontslagvoornemens UWV
+De accountant onderzoekt de verantwoording die de Raad van Bestuur van de CWI op grond van de Regeling SUWI heeft uitgebracht. De accountantsverklaring en het verslag van bevindingen zijn nader geregeld in [artikel 5.10b t/m e](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1b&artikel=5.10b&z=2008-02-28&g=2008-02-28) en [bijlage XXI](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XXI&z=2008-02-28&g=2008-02-28) van de Regeling SUWI
 
 ## Bijlage V
 
@@ -4515,7 +3985,7 @@ Ligt ter inzage bij het Ministerie van Sociale Zaken en Werkgelegenheid.
 
 ### Informatieproducten van het UWV
 
-In deze bijlage zijn de informatieproducten gespecificeerd die UWV periodiek aan SZW dient te verstrekken op grond van [artikel 5.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1a&artikel=5.10a&z=2005-07-10&g=2005-07-10) en [5.12](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.1&artikel=5.12&z=2005-07-10&g=2005-07-10) van de Regeling SUWI. Het betreft de volgende producten:
+De informatie die op 15 februari dient te worden aangeleverd, omvat:
 
 ### Informatieproducten van het UWV
 
@@ -4523,9 +3993,9 @@ In deze bijlage zijn de informatieproducten gespecificeerd die UWV periodiek aan
 
 ### a. Verantwoording UWV
 
-### **1. Inleiding en algemeen beeld**
+### **14. Toezichtbevindingen**
 
-De omgevingsfactoren die het presteren van UWV hebben beïnvloed, dienen hier de revue te passeren.
+CWI gaat in het jaarverslag op hoofdlijnen in op de bevindingen van de Inspectie Werk en Inkomen en de Algemene Rekenkamer, en op de naar aanleiding van deze bevindingen genomen maatregelen.
 
 ### **2. Omgevingsanalyse**
 
@@ -4535,49 +4005,49 @@ In het jaarverslag wordt per programma per ingezet budget de kosten en (in samen
 
 ### **4. Beleidsdoelstellingen**
 
-In de kwartaalverslagen wordt op een overeenkomende manier gerapporteerd. Als een in de goedgekeurde jaartranche voor het betrokken kwartaal geplande mijlpaal al of niet bereikt is, wordt hier kort verslag van gedaan. Hierbij wordt een relatie gelegd met de geplande en gemaakte kosten. Wijzigingen in de planning van de mijlpalen en/of kosten worden in schema gebracht en kort toegelicht.
+UWV levert twee planningsdocumenten op, te weten het meerjarenbeleidsplan en het jaarplan met begroting. UWV dient zich op verschillende momenten te verantwoorden over de uitvoering van het jaarplan. Deze verantwoording vindt plaats in de tussentijdse verslagen en het jaarverslag. De tussentijdse verslagen worden uiterlijk zes weken na afloop van de verslagperiode aan de Minister verstrekt.
 
-UWV doet verslag van de uitvoering van het beleid en de geleverde prestaties. Het jaarplan en de daarin opgenomen prestatie-indicatoren vormen hierbij het uitgangspunt. De uitkomsten van de prestatie-indicatoren worden, voorzien van een toelichting, samen met de normen/streefwaarden per wet verantwoord. UWV beschrijft zoveel als mogelijk de eigen bijdrage aan het behalen van de doelstellingen, en geeft een verklaring als doelstellingen niet worden gehaald.
+Met de fondsennota’s verstrekt UWV informatie over de volumegegevens, baten en lasten en de vermogenspositie van de door haar beheerde fondsen. De fondsennota’s worden uiterlijk 1 februari respectievelijk 1 juli opgeleverd. In het kader van deregulering is de fondsennota van oktober geïntegreerd in het tweede tussentijdse verslag.
 
 ### **5. Bedrijfsvoering**
 
-Naast de doelstellingen uit het jaarplan en de prestatie-indicatoren, wordt ten minste ingegaan op de volgende onderdelen:
+De planning voor de oplevering van deze producten kan als volgt worden weergegeven.
+
+In de hierna volgende tabel worden de onderwerpen benoemd, die in de diverse producten van de P&C cyclus aan de orde dienen te komen. Daaronder volgt, per onderwerp, een nadere toelichting.
 
 In het onderdeel bedrijfsvoering wordt ingegaan op de sturing en beheersing van de bedrijfsprocessen binnen UWV. Het doel is om aan te geven dat het management van UWV haar bedrijfsvoeringsprocessen beheerst. Een aantal aspecten van de bedrijfsvoering die bepalend zijn voor de rechtmatigheid en doelmatigheid van de uitvoering zullen jaarlijks in de rapportage aan de orde komen. Het onderdeel bedrijfsvoering wordt per aspect opgebouwd uit kwantitatieve gegevens met een kwalitatieve toelichting.
 
-In het onderdeel bedrijfsvoering wordt ingegaan op de sturing en beheersing van de bedrijfsprocessen binnen UWV. Het doel is om aan te geven dat het management van UWV haar bedrijfsvoeringsprocessen beheerst. Een aantal aspecten van de bedrijfsvoering die bepalend zijn voor de rechtmatigheid en doelmatigheid van de uitvoering zullen jaarlijks in de rapportage aan de orde komen. Het onderdeel bedrijfsvoering wordt per aspect opgebouwd uit kwantitatieve gegevens met een kwalitatieve toelichting.
+UWV verstrekt aan de Minister met betrekking tot elk van de door haar beheerde fondsen afzonderlijk:
 
-UWV rapporteert over de algemene aspecten alsmede over eventuele knelpunten en risico’s in de bedrijfsvoering. De uitkomsten van risicoanalyses en eventuele aanvullende gerichte onderzoeken (operationele audits) en de verbeteracties die daaruit voortvloeien worden in het verslag opgenomen.
-
-Binnen het perspectief ‘kwaliteit productie’ gaat het vooral om de verbetering van het uitvoeringsproces zodat aan gestelde normen van onder andere rechtmatigheid (inclusief een toereikend M&O beleid) en tijdigheid van de uitvoering van de wetten kan worden voldaan, met aparte aandacht voor de werkvoorraden. In dit onderdeel wordt tevens ingegaan op bezwaar en beroep tegen beslissingen.
+Bij de ramingen wordt ten aanzien van het Toeslagenfonds een onderscheid gemaakt tussen gegevens met betrekking tot de [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043) en de gegevens met betrekking tot de Wet beperking inkomensgevolgen arbeidsongeschiktheidscriteria.
 
 UWV verantwoordt zich in het jaarverslag in kwantitatieve en kwalitatieve zin over de uitkomsten van het kwaliteitsborgingsysteem per daarbinnen onderscheiden proces (AG, WW, Overig WW, IR, SMH, Bezwaar en Beroep, etc.), waarbij ingegaan wordt op:
 
-In de kwartaalverslagen wordt ingegaan op eventuele nieuwe bevindingen en op de voortgang van de verbetermaatregelen.
+Het jaarplan gaat – volgens de VBTB-systematiek – in op de volgende vragen:
 
-UWV rapporteert halfjaarlijks over de rechtmatigheidscijfers per wet ([ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888), [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), [WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656), [Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657), [WAZO](https://wetten.overheid.nl/jci1.3:c:BWBR0013008), [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), [REA](https://wetten.overheid.nl/jci1.3:c:BWBR0009565), [BIA](https://wetten.overheid.nl/jci1.3:c:BWBR0007891), [TW](https://wetten.overheid.nl/jci1.3:c:BWBR0011984)). Over de rechtmatigheid van het collecterende proces wordt jaarlijks gerapporteerd. Vaststelling van de rechtmatigheid is gekoppeld aan het handelen in het verslagjaar (het handelen omvat mede het ten onrechte niet-handelen) en de fouten die daarbij zijn gevonden. Ingegaan wordt op de wijze waarop met oude fouten is omgegaan. Tevens wordt hierbij inzicht geboden in de uitgevoerde herstelactiviteiten. Een nadere uitwerking van het aspect rechtmatigheid wordt gegeven in de wijziging van de Regeling SUWI in verband met het opnemen van regels inzake de accountantscontrole (Regeling van 18 maart 2005, Stcrt. 59).
+In het jaarplan wordt ook aandacht besteed aan eventuele veranderingen in de taken van de organisatie. Gedacht kan worden aan:
 
-UWV rapporteert over uitvoering en effecten van het handhavingsbeleid. Naast de onderwerpen die genoemd zijn in het jaarplan, wordt hierbij specifiek ingegaan op de speerpunten van het Handhavingsprogramma en op de realisering van de in het Handhavingsarrangement gemaakte afspraken. Tevens worden opvallende cijfermatige ontwikkelingen toegelicht. De Raad van Bestuur wordt geacht de uitgangspunten die zij hanteert bij het te voeren handhavingsbeleid te expliciteren. Een nadere uitwerking van het aspect handhaving wordt gegeven in de wijziging van de Regeling SUWI in verband met het opnemen van regels inzake de accountantscontrole (Regeling van 18 maart 2005, Stcrt. 59).
+In de tussentijdse verslagen en het jaarverslag doet UWV verslag van de uitvoering van het beleid en de geleverde prestaties. Het jaarplan en de daarin opgenomen prestatie-indicatoren vormen hierbij het uitgangspunt. De uitkomsten van de prestatie-indicatoren worden, voorzien van een toelichting, samen met de normen/streefwaarden per wet verantwoord. Indien van toepassing beschrijft UWV zoveel als mogelijk de eigen bijdrage aan het behalen van de doelstellingen, en geeft een verklaring als doelstellingen niet worden gehaald en de verbetermaatregelen die zijn/worden genomen.
 
-UWV geeft een beschrijving van de activiteiten in het kader van de verbetering van de dienstverlening aan de klanten van het UWV. Het gaat hierbij onder meer om bereikbaarheid, klanttevredenheid en klachtenafhandeling. Ook de privacy-audit komt hier aan de orde.
+Bij onderdeel c. Klantgerichtheid wordt specifiek ingegaan op o.a. klachtenafhandeling, bereikbaarheid en klanttevredenheid.
 
-UWV brengt verslag uit ter zake van activiteiten die zijn ondernomen om de bedrijfsprocessen door te lichten, waarbij het kostenniveau wordt gerelateerd aan de (kwaliteit van de) geleverde prestatie, en geeft aan tot welke aanpassingen deze activiteiten hebben geleid. Hierbij wordt aandacht besteed aan eventuele benchmarks. De Raad van Bestuur wordt geacht de uitgangspunten die zij hanteert met betrekking tot doelmatigheid te expliciteren. Een nadere uitwerking van het aspect doelmatigheid wordt gegeven in de wijziging van de Regeling SUWI in verband met het opnemen van regels inzake de accountantscontrole (Regeling van 18 maart 2005, Stcrt. 59).
+Daarnaast rapporteert UWV in haar jaarverslag over de wijze waarop aan cliëntenparticipatie is vormgegeven. UWV verantwoordt zich over de activiteiten die zijn ondernomen om de dienstverlening aan de klant te handhaven en verbeteren.
 
-UWV rapporteert (in het jaarverslag) over de kwaliteit van de informatievoorziening (inclusief de daarbij gehanteerde criteria) en de wijze waarop deze gewaarborgd is, conform artikel 5.16 tweede lid Regeling SUWI. Tevens wordt ingegaan op de voortgang van verbetermaatregelen.
+Bij onderdeel d. Handhaving wordt specifiek ingegaan op de uitvoering en effecten van het handhavingsbeleid. Naast de onderwerpen die genoemd zijn in het jaarplan, wordt hierbij specifiek ingegaan op de speerpunten van het Handhavingsprogramma en op de realisering van de in het Handhavingsarrangement gemaakte afspraken. Tevens worden opvallende cijfermatige ontwikkelingen toegelicht. De Raad van Bestuur wordt geacht de uitgangspunten die zij hanteert bij het te voeren handhavingsbeleid te expliciteren. Een nadere uitwerking van het aspect handhaving wordt gegeven in de wijziging van de Regeling SUWI in verband met het opnemen van regels inzake de accountantscontrole (Regeling van 18 maart 2005, Stcr. 59).
 
 UWV rapporteert op dit punt over belangrijke personeelsaangelegenheden, waaronder in ieder geval de personeelsomvang, de personeelskosten, het personeelsverloop, de sociale plannen en de daarmee gemoeide kosten.
 
-Ter zake van uitbesteding vindt een rapportage plaats over de mate van uitbesteding van wettelijke en overige taken, de partijen aan wie wordt uitbesteed, de soorten werkzaamheden die zijn uitbesteed en de totaal met uitbesteding gemoeide kosten. Uitbestedingen op het terrein van facilitaire dienstverlening en personeelsbeleid kunnen hierbij buiten beschouwing gelaten worden.
+UWV doet verslag van de uitvoering van het investeringsprogramma en de invoering van nieuwe wet- en regelgeving. Hierbij wordt ingegaan op de bereikte resultaten en de daarmee gepaard gaande kosten. UWV legt hierbij een relatie met de planning en licht eventuele wijzigingen kort toe.
 
-UWV rapporteert over de voortgang, verbetering en vernieuwing van de geautomatiseerde ondersteuning van zowel haar primaire- als ondersteunende processen. Ook de voortgang van projecten ter verbetering van gegevensbeheer en privacybescherming vallen hieronder.
+Het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties wenst de consequenties van de financiële taakstellingen op de personeelsformaties van het Rijk te kunnen volgen. Hieronder zijn ook de SUWI-organisaties begrepen. UWV dient daarom zowel in budgettaire termen als in termen van fte’s verslag te doen van de effecten van de generieke taakstelling uit het coalitieakkoord, de Vernieuwingsagenda en de taakstelling die aan de samenwerking UWV, CWI en gemeenten is verbonden. Als basisformatie (nulpunt) geldt de ontwikkeling van het aantal fte vanaf het aantal fte per 31 december 2006.
 
-De EDP-auditor geeft een oordeel over het stelsel van stelsel van maatregelen en procedures gericht op het waarborgen van een exclusieve, integere, beschikbare en controleerbare gegevensverwerking, en over het beveiligingsniveau van Suwinet ([artikel 5.22](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.4&artikel=5.22&z=2006-07-09&g=2006-07-09) en [6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=6&paragraaf=6.1&artikel=6.4&z=2006-07-09&g=2006-07-09) Regeling SUWI). In de jaarverantwoording wordt ingegaan op dit oordeel en de verrichte inspanningen om de kwaliteit te verbeteren c.q. te consolideren.
+Uitbreiding van de formatie als gevolg van intensiveringen dienen separaat zichtbaar te worden gemaakt in het Meerjarenbeleidsplan, Jaarplan en in U-toetsen.
 
 UWV doet verslag van de voortgang van het huisvestingsprogramma en de ontwikkeling van de huisvestingskosten.
 
-In het jaarverslag doet UWV op hoofdlijnen verslag van de door de Raad van Advies gegeven adviezen en afgegeven signalen.
+UWV doet verslag van de samenwerking met zijn ketenpartners, de ontwikkelingen in de keten werk en inkomen en de voortgang van de uitvoering van het ketenprogramma.
 
-UWV doet jaarlijks verslag van de bezoldiging van de leden van de Raad van Bestuur en Raad van Advies ([artikel 5 vierde lid Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=5)), conform de brief van SZW d.d. 15 januari 2004 (kenmerk UB/SIU/2004/3289).
+Het jaarplan vormt hierbij het uitgangspunt. Per speerpunt wordt aangegeven in welke mate de doelstellingen zijn gerealiseerd en wat de onderliggende analyse is bij afwijkingen in de realisatie. In dat geval wordt verder aangegeven welke aanvullende maatregelen UWV heeft genomen om de doelstellingen alsnog te realiseren.
 
 UWV rapporteert jaarlijks over de naleving en effectiviteit van de non-discriminatiecode.
 
@@ -4585,35 +4055,35 @@ UWV rapporteert jaarlijks over de naleving en effectiviteit van de non-discrimin
 
 Een nadere invulling van de mededeling bedrijfsvoering wordt gegeven in de brief van SZW d.d. 30 november 2004 (kenmerk UB/K/2004/83551).
 
-De jaarrekening van UWV omvat zowel het UWV als uitvoeringsorganisatie alsook de geadministreerde fondsen.
+Voor wat betreft rechtmatigheid rapporteert het UWV in het 2e tussentijdsverslag over de rechtmatigheidscijfers per wet over het eerste half jaar en in het jaarverslag over de jaarcijfers. Vaststelling van de rechtmatigheid is gekoppeld aan het handelen in het verslagjaar (het handelen omvat mede het ten onrechte niet-handelen) en de fouten die daarbij zijn gevonden. Ingegaan wordt op de wijze waarop met oude fouten is omgegaan. Tevens wordt hierbij inzicht geboden in de uitgevoerde herstelactiviteiten. De wijze waarop het UWV verantwoording dient af te leggen over de rechtmatigheid in het jaarverslag en de jaarrekening, alsmede de wijze waarop de accountant zijn controlewerkzaamheden dient te verrichten, zijn nader uitgewerkt in de [artikelen 5.10b t/m 5.10e](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1b&artikel=5.10b&z=2008-02-28&g=2008-02-28) van de Regeling SUWI en met name in de daarbijbehorende toelichting.
 
 De jaarrekening van UWV omvat zowel het UWV als uitvoeringsorganisatie alsook de geadministreerde fondsen.
 
-De jaarrekening heeft betrekking op de balans en de resultatenrekening met de toelichting en op de in het jaarplan en modelverantwoording opgenomen financiële onderwerpen. De jaarrekening is zoveel als mogelijk gebaseerd op [titel 9, Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9), tenzij hiervan in deze bijlage wordt afgeweken.
+In [artikel 5.10e, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1b&artikel=5.10e&z=2008-02-28&g=2008-02-28), van de Regeling SUWI is aangegeven dat het UWV inzicht biedt in doelmatigheid van het beheer en de organisatie. Het UWV brengt verslag uit ter zake van activiteiten die zijn ondernomen om de bedrijfsprocessen door te lichten, waarbij het kostenniveau wordt gerelateerd aan de (kwaliteit van de) geleverde prestatie. De Raad van Bestuur wordt geacht de uitgangspunten die zij hanteert met betrekking tot doelmatigheid te expliciteren. Een toelichting op [artikel 5.10e, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1b&artikel=5.10e&z=2008-02-28&g=2008-02-28), van de Regeling SUWI, wordt gegeven in [Bijlage XXIII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XXIII&z=2008-02-28&g=2008-02-28) bij de Regeling SUWI.
 
 De in de jaarrekening opgenomen informatie dient een zodanig betrouwbaar beeld te geven van de werkelijkheid als in de gegeven omstandigheden is vereist. Alle uitvoeringskosten worden in de budgetverantwoording opgenomen, ongeacht of er budget voor is toegekend. Het salderen van bijzondere baten en lasten is niet toegestaan, tenzij wetgeving anders voorschrijft.
 
-De informatie in de paragraaf resultatenrekening moet in ieder geval voldoende zijn om achteraf te kunnen vaststellen hoeveel UWV heeft uitgegeven aan de wettelijke uitvoering (uitkeringslasten) en aan uitvoeringskosten. Het kasstroomoverzicht dient aan te sluiten op de systematiek van Geïntegreerd Middelenbeheer.
+UWV rapporteert in het jaarverslag over het totstandkomingsproces van de informatievoorziening (inclusief de daarbij gehanteerde criteria zoals vastgelegd in [bijlage XVII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XVII&z=2008-02-28&g=2008-02-28) van de SUWI-regeling) en de wijze waarop deze is gewaarborgd (conform [artikel 5.16 tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.1&artikel=5.16&z=2008-02-28&g=2008-02-28) Regeling SUWI). In zowel de tussentijdse verslagen als het jaarverslag wordt ingegaan op de voortgang van verbetermaatregelen.
 
 De jaarrekening UWV bestaat uit de volgende onderdelen:
 
 ### **6.1. Grondslagen waardering en resultaatbepaling**
 
-In de kwartaalverslagen wordt de realisatie tot en met het betreffende kwartaal gerapporteerd.
+Het financieel beheer dient te voldoen aan de eisen ordelijkheid en controleerbaarheid.
 
 ### **6.1. Grondslagen waardering en resultaatbepaling**
 
 ### **6.2. Balans UWV per 31 december**
 
-### **6.2. Balans UWV per 31 december**
+### **j) Overige onderwerpen bedrijfsvoering**
 
 ### **6.3. Resultatenrekening UWV**
 
-### **6.4 Toelichting balans UWV**
+### **Sociaal beleid en HRM**
 
 ### **6.5 Toelichting op de resultatenrekening UWV**
 
-### **6.5.1. Baten wettelijke taken (jaar t/jaar t-1)**
+### **ICT en informatiebeveiling**
 
 ### **6.5.2. Lasten wettelijke taken (jaar t/jaar t-1)**
 
@@ -4623,31 +4093,31 @@ Gehanteerd wordt het kasstroomoverzicht met onderscheid naar operationele, inves
 
 ### **6.6. Kasstroomoverzicht**
 
-Gehanteerd wordt het kasstroomoverzicht met onderscheid naar operationele, investerings- en financieringskasstromen. De kasbeweging dient aan te sluiten op de rekeningen-courant met het ministerie van Financiën (geïntegreerd middelenbeheer).
+– Fysiek leegstaande en verhuurbare oppervlakten in vierkante meters VVO (conform de definitie van de Rijksgebouwendienst).
 
 ### **7. Accountantsverklaring en verslag van bevindingen**
 
 De accountant onderzoekt de verantwoording die de Raad van Bestuur van UWV op grond van de Regeling SUWI heeft uitgebracht. De accountantsverklaring en het verslag van bevindingen zijn nader geregeld in [artikel 5.10b t/m e](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1b&artikel=5.10b&z=2006-07-09&g=2006-07-09) en [bijlage XXI](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XXI&z=2006-07-09&g=2006-07-09) van de Regeling SUWI.
 
-Ten behoeve van verschillende functies, te weten aansturing, beleid, toezicht en financiering, dient UWV periodiek kwantitatieve informatie te verstrekken. In de tabellen is per wet/regeling aangegeven welke informatie nodig is. Een gedeelte van de informatie is slechts een of twee keer per jaar nodig. In de tabellen is dit aangegeven in de kolom ‘freq’. De kwantitatieve informatie wordt gelijktijdig met de kwartaalverslagen UWV en het jaarverslag UWV verstrekt.
+De onderwerpen die onder het onderdeel governance vallen hebben betrekking op de bestuurlijke inrichting van UWV de wijze waarop zij haar taken uitvoert. UWV rapporteert in haar jaarverslag over de volgende onderwerpen. Indien UWV van mening dat over onderstaande onderwerpen op andere plek in het jaarverslag moet worden gerapporteerd, dan is UWV hier vrij in.
 
-### c. Maandelijkse kerncijfers
+### **Risicomanagement**
 
-Beleidsinformatie die qua aard, omvang of frequentie van uitvraag niet in deze systematiek meegenomen kon worden, is apart gespecificeerd in de onderdelen c tot en met e van deze bijlage.
+UWV rapporteert over de wijze waarop invulling is gegeven aan risicomanagement. UWV gaat in op welke wijze risico’s binnen de organisatie zijn geanalyseerd, hoe wordt omgegaan met risico’s en hoe risico’s worden gemanaged.
 
-### c. Maandelijkse kerncijfers
+### **Raad van Bestuur en Raad van Advies**
 
-Het UWV verstrekt maandelijks kerncijfers over de werknemersverzekeringen. Als kerncijfers worden zowel maandcijfers als twaalfmaands voortschrijdende gemiddelden gepresenteerd. In de kerncijfers zijn in ieder geval de volgende gegevens opgenomen:
+In het jaarverslag doet UWV op hoofdlijnen verslag van de door de Raad van Advies gegeven adviezen en afgegeven signalen.
 
 Het UWV verstrekt aan de minister met betrekking tot elk van de door haar beheerde fondsen afzonderlijk:
 
 ### e. Statistische jaarrapportages
 
-Bij de ramingen wordt ten aanzien van het Toeslagenfonds een onderscheid gemaakt tussen gegevens met betrekking tot de [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043) en de gegevens met betrekking tot de [Wet beperking inkomensgevolgen arbeidsongeschiktheidscriteria](https://wetten.overheid.nl/jci1.3:c:BWBR0007891).
+In de toelichting wordt onder andere ingegaan op:
 
 Het UWV verstrekt elk jaar rapportages over:
 
-Het UWV verstrekt elk jaar rapportages over:
+UWV doet jaarlijks verslag van de bezoldiging van de leden van de Raad van Bestuur en Raad van Advies ([artikel 5 vierde lid Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=5)) en van de topinkomens op basis van de [Wet openbaarmaking uit financiële middelen gefinancierde topinkomens](https://wetten.overheid.nl/jci1.3:c:BWBR0019562) (WOPT).
 
 ## Bijlage VII
 
@@ -4657,31 +4127,31 @@ Ligt ter inzage bij het Ministerie van Sociale Zaken en Werkgelegenheid.
 
 Ligt ter inzage bij het Ministerie van Sociale Zaken en Werkgelegenheid.
 
-### Informatieproducten van de SVB
+### **9. Kasstroomoverzicht**
 
-In deze bijlage zijn de informatieproducten gespecificeerd die de SVB periodiek aan SZW dient te verstrekken op grond van [artikel 5.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1a&artikel=5.10a&z=2005-07-10&g=2005-07-10) en [5.12](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.1&artikel=5.12&z=2005-07-10&g=2005-07-10) van de Regeling SUWI. Het betreft de volgende producten
+Gehanteerd wordt het kasstroomoverzicht met onderscheid naar operationele, investerings- en financieringskasstromen. De kasbeweging dient aan te sluiten op de rekeningen-courant met het Ministerie van Financiën (geïntegreerd middelenbeheer).
 
-### Informatieproducten van de SVB
+### **10. Jaarrekening**
 
-In deze bijlage zijn de informatieproducten gespecificeerd die de SVB periodiek aan SZW dient te verstrekken op grond van [artikel 5.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1a&artikel=5.10a&z=2006-07-09&g=2006-07-09) en [5.12](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.1&artikel=5.12&z=2006-07-09&g=2006-07-09) van de Regeling SUWI. Het betreft de volgende producten
+De jaarrekening van UWV omvat zowel het UWV als uitvoeringsorganisatie alsook de geadministreerde fondsen. Hieronder volgt een toelichting op de onderdelen van de jaarrekening UWV.
 
 ### a. Verantwoording SVB
 
-### **1. Inleiding en algemeen beeld**
+### **10.1 Grondslagen waardering en resultaatbepaling**
+
+In verband met de versnelling van de verantwoording is het toegestaan het handelen in het verslagjaar te koppelen aan een jaarschijveninterpretatie. De te hanteren jaarschijf mag niet ouder zijn dan 3 maanden ten opzichte van het kalenderjaar waarop de verantwoording betrekking heeft. Indien de jaarschijven worden aangepast dan dient dit in de jaarrekening te worden vermeld evenals de vergelijkbare cijfers van het voorgaande jaar.
+
+### **10.2 Balans UWV per 31 december**
 
 De omgevingsfactoren die het presteren van de SVB hebben beïnvloed, dienen hier de revue te passeren.
 
-### **2. Omgevingsanalyse**
-
-De omgevingsfactoren die het presteren van de SVB hebben beïnvloed, dienen hier de revue te passeren.
-
-### **3. Veranderagenda**
+### **10.4 Toelichting op de resultatenrekening UWV**
 
 Er wordt verslag gedaan van de stand van zaken en de belangrijkste ontwikkelingen ten aanzien van majeure ontwikkelings- en reorganisatieprojecten.
 
 De SVB doet verslag van de uitvoering van het beleid en de geleverde prestaties. Het jaarplan en de daarin opgenomen prestatie-indicatoren vormen hierbij het uitgangspunt. De uitkomsten van de prestatie-indicatoren worden, voorzien van een toelichting, samen met de normen/streefwaarden per wet verantwoord.
 
-### **5. Bedrijfsvoering**
+### **10.4.3 Uitvoeringskosten naar kostensoort**
 
 Naast de doelstellingen uit het jaarplan en de prestatie-indicatoren, wordt ten minste ingegaan op de volgende onderdelen:
 
@@ -4691,21 +4161,21 @@ In het onderdeel bedrijfsvoering wordt ingegaan op de sturing en beheersing van 
 
 De SVB rapporteert over de algemene aspecten alsmede over eventuele knelpunten en risico’s in de bedrijfsvoering. De uitkomsten van deze analyse en eventuele aanvullende gerichte onderzoeken (operational audits) en de verbeteracties die daaruit voortvloeien worden in het jaarverslag opgenomen.
 
-In het jaarplan van de SVB wordt het perspectief ‘Kwaliteit productie’ onderscheiden. Het gaat hierbij vooral om de verbetering van het productieproces zodat aan wettelijke normen van rechtmatigheid en tijdigheid van de uitvoering van de wetten kan worden voldaan, met bijzondere aandacht voor de werkvoorraden. In dit onderdeel wordt tevens ingegaan op de handhavingsaspecten (misbruik/oneigenlijk gebruik) alsmede op bezwaar en beroep tegen beslissingen.
+De aansluitingstabel UWV – SZW wordt samen met het jaarverslag UWV 2007 naar het Ministerie van Sociale Zaken en Werkgelegenheid gestuurd. De aansluitingstabel UWV – SZW valt onder de accountantscontrole door het UWV.
 
 De SVB rapporteert halfjaarlijks over de rechtmatigheidscijfers per wet. Vaststelling van de rechtmatigheid is gekoppeld aan het handelen in het verslagjaar (het handelen omvat mede het ten onrechte niet-handelen) en de fouten die daarbij zijn gevonden. Ingegaan wordt op de wijze waarop met oude fouten is omgegaan. Tevens wordt hierbij inzicht geboden in de uitgevoerde herstelactiviteiten. Een nadere uitwerking van het aspect rechtmatigheid wordt gegeven in de wijziging Regeling SUWI in verband met het opnemen van regels inzake de accountantscontrole (Regeling van 18 maart 2005, Stcrt. 59).
 
-SVB rapporteert over uitvoering en effecten van het handhavingsbeleid. Naast de onderwerpen die genoemd zijn in het jaarplan, wordt hierbij specifiek ingegaan op de speerpunten van het Handhavingsprogramma en op de realisering van de in het Handhavingsarrangement gemaakte afspraken. Tevens worden opvallende cijfermatige ontwikkelingen toegelicht. Een nadere uitwerking van het aspect handhaving wordt gegeven in de wijziging van de Regeling SUWI in verband met het opnemen van regels inzake de accountantscontrole (Regeling van 18 maart 2005, Stcrt. 59). De raad van bestuur dient zich op dit aspect te verantwoorden conform deze regels.
+Ten behoeve van het SZW-jaarverslag verstrekt UWV jaarlijks VBTB-informatie
 
-De SVB geeft een beschrijving van de activiteiten in het kader van de verbetering van de dienstverlening aan de klanten van de SVB. Het gaat hierbij onder meer om bereikbaarheid, klanttevredenheid en klachtenafhandeling. Ook de privacy-audit komt hier aan de orde.
+Het VBTB-verslag wordt uiterlijk 15 februari opgeleverd.
 
-Binnen het perspectief ‘doelmatigheid’ gaat de SVB in op activiteiten die zijn/worden ondernomen om de bedrijfsprocessen door te lichten, waarbij het kostenniveau wordt gerelateerd aan de (kwaliteit van de) geleverde prestatie. Hierbij kan bijvoorbeeld benchmarking als instrument worden ingezet. Een nadere uitwerking van het aspect rechtmatigheid wordt gegeven in de wijziging Regeling SUWI in verband met het opnemen van regels inzake de accountantscontrole (Regeling van 18 maart 2005, Stcrt. 59). De raad van bestuur dient zich op dit aspect te verantwoorden conform deze regels.
+Deze VBTB-informatie omvat:
 
-De SVB rapporteert (in het jaarverslag) over de kwaliteit van de informatievoorziening en de wijze waarop deze gewaarborgd is, conform [artikel 5.16 tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.1&artikel=5.16&z=2006-07-09&g=2006-07-09) Regeling SUWI.
+De definitieve cijfers worden vervolgens grotendeels opgenomen in het jaarverslag.
 
 De SVB rapporteert hier over ontwikkelingen binnen het gevoerde Sociaal en HRM-beleid van de SVB. Hierbij wordt in ieder geval ingegaan op de personeelsomvang.
 
-Ter zake van uitbesteding vindt een rapportage plaats over de mate van uitbesteding van wettelijke en overige taken, de partijen aan wie wordt uitbesteed, de soorten werkzaamheden die zijn uitbesteed en de totaal met uitbesteding gemoeide kosten. Uitbestedingen op het terrein van facilitaire dienstverlening en personeelsbeleid kunnen hierbij buiten beschouwing gelaten worden.
+Ten behoeve van het SZW-jaarverslag 2008 verstrekt het UWV onderstaande VBTB-informatie.
 
 De SVB rapporteert over de ontwikkelingen op het gebied van ICT volgens de COBIT norm (dienstenniveau, general computer controls, gegevensbeheer). Ook de voortgang van projecten ter verbetering van de privacy-bescherming en informatiebeveiliging (privacy-audit) komt hier aan de orde.
 
@@ -4715,7 +4185,7 @@ De SVB doet jaarlijks verslag van de bezoldiging van de leden van de Raad van Be
 
 Aspecten die hier aan de orde komen, zijn onder andere:
 
-### **6. Jaarrekening**
+### [WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656)
 
 Een nadere invulling van de mededeling bedrijfsvoering wordt gegeven van SZW d.d. 30 november 2004 (kenmerk UB/K/2004/83551).
 
@@ -4729,13 +4199,13 @@ De in de jaarrekening opgenomen informatie dient een zodanig betrouwbaar beeld t
 
 De informatie in de paragraaf resultatenrekening moet in ieder geval voldoende zijn om achteraf te kunnen vaststellen hoeveel de SVB heeft uitgegeven aan de wettelijke uitvoering (zgn. grote geldstroom) en het eigen apparaat (uitvoeringskosten). Het kasstroomoverzicht dient aan te sluiten op de systematiek van Geïntegreerd Middelenbeheer.
 
-### **6.1. Grondslagen waardering en resultaatbepaling**
+### **Handhaving**
 
 In de toelichting wordt onder andere ingegaan op:
 
-In verband met de versnelling van de verantwoording is het toegestaan het handelen in het verslagjaar te koppelen aan een jaarschijveninterpretatie. De te hanteren jaarschijf mag niet ouder zijn dan 3 maanden ten opzichte van het kalenderjaar waarop de verantwoording betrekking heeft. Indien de jaarschijven worden aangepast dan dient dit in de jaarrekening te worden vermeld evenals de vergelijkende cijfers.
+Naast het jaarverslag en de tussentijdse verslagen dient UWV periodiek kwantitatieve informatie te verstrekken ten behoeve van verschillende functies, te weten aansturing, beleid, toezicht en financiering, Over de levering van de periodieke kwantitatieve informatie per wet, de maandelijkse kerncijfers en de statistische jaarrapportages worden jaarlijks aparte bilaterale afspraken gemaakt.
 
-### **6.2. Balans SVB per 31 december**
+### **14. Toezichtbevindingen**
 
 ### **6.2. Balans SVB per 31 december**
 
@@ -4743,7 +4213,7 @@ In verband met de versnelling van de verantwoording is het toegestaan het handel
 
 ### **6.3. Resultatenrekening SVB**
 
-### **6.4. Toelichting balans SVB**
+### **Planning & control producten van SVB**
 
 ### **6.5. Toelichting op de resultatenrekening SVB**
 
@@ -4753,15 +4223,15 @@ In verband met de versnelling van de verantwoording is het toegestaan het handel
 
 ### **6.5.3. Uitvoeringskosten realisatie/begroot (totaal, regulier, speciale projecten)**
 
-Gehanteerd wordt het kasstroomoverzicht met onderscheid naar operationele, investerings- en financieringskasstromen. De kasbeweging dient aan te sluiten op de rekeningen-courant met het ministerie van Financiën (geïntegreerd middelenbeheer)
+De planning voor de oplevering van deze producten kan als volgt worden weergegeven.
 
 ### **6.6. Kasstroomoverzicht**
 
-Gehanteerd wordt het kasstroomoverzicht met onderscheid naar operationele, investerings- en financieringskasstromen. De kasbeweging dient aan te sluiten op de rekeningen-courant met het ministerie van Financiën (geïntegreerd middelenbeheer)
+1 De afspraken over de levering van de kwantitatieve informatie per wet wordt jaarlijks bilateraal per brief tussen SZW en de SVB geregeld. SZW en SVB zijn overeengekomen dat deze kwantitatieve informatie kwartaalsgewijs wordt geleverd.
 
-### **7. Accountantsverklaring en verslag van bevindingen**
+### **1. Volumeontwikkeling en fondsbelasting**
 
-De accountant onderzoekt de verantwoording die de Raad van Bestuur van de SVB op grond van de Regeling SUWI heeft uitgebracht. De accountantsverklaring en het verslag van bevindingen zijn nader geregeld in [artikel 5.10b t/m e](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1b&artikel=5.10b&z=2006-07-09&g=2006-07-09) en [bijlage XXI](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XXI&z=2006-07-09&g=2006-07-09) van de Regeling SUWI.
+De SVB verstrekt aan de minister met betrekking tot elk van de door haar beheerde fondsen afzonderlijk:
 
 Ten behoeve van verschillende functies, te weten aansturing, beleid, toezicht en financiering, dient de SVB periodiek kwantitatieve informatie te verstrekken. In de tabellen is per wet/regeling aangegeven welke informatie nodig is. Een gedeelte van de informatie is slechts een of twee keer per jaar nodig. In de tabellen is dit aangegeven in de kolom ‘freq’. De kwantitatieve informatie wordt gelijktijdig met de kwartaalverslagen SVB en het jaarverslag SVB verstrekt.
 
@@ -4779,13 +4249,13 @@ Ten behoeve van verschillende functies, te weten aansturing, beleid, toezicht en
 
 ### **5. TAS**
 
-### **6. Handhaving (per wet)**
+### **3. Ontwikkelingen grote projecten en W&R-projecten**
 
-De SVB verstrekt aan de minister met betrekking tot elk van de door haar beheerde fondsen afzonderlijk:
+De SVB doet verslag van de uitvoering van het investeringsprogramma en de invoering van nieuwe wet- en regelgeving. Hierbij wordt ingegaan op de bereikte resultaten en de daarmee gepaard gaande kosten. De SVB legt hierbij een relatie met de planning en licht eventuele wijzigingen kort toe.
 
 ### c. Fondseninformatie
 
-De SVB verstrekt aan de minister met betrekking tot elk van de door haar beheerde fondsen afzonderlijk:
+Uitbreiding van de formatie als gevolg van intensiveringen dienen separaat zichtbaar te worden gemaakt.
 
 De SVB verstrekt elk jaar rapportages over:
 
@@ -4801,95 +4271,95 @@ Ligt ter inzage bij het Ministerie van Sociale Zaken en Werkgelegenheid.
 
 Ligt ter inzage bij het Ministerie van Sociale Zaken en Werkgelegenheid.
 
+### **Financieel Beheer**
+
+In dit onderdeel rapporteert de SUWI-organisatie over de belangrijkste tekortkomingen in het financieel beheer. Onder financieel beheer wordt verstaan het geheel van beslissingen, handelingen en regels die zijn bedoeld voor de sturing en beheersing van, alsmede de verantwoording over, de financiële transacties en de saldi waarvoor het management (mede)verantwoordelijkheid draagt. De administraties, die ten behoeve van het financieel beheer worden bijgehouden, worden eveneens tot het financieel beheer gerekend. Administraties zijn immers onlosmakelijk met een goed beheer verbonden.
+
 ### Informatieproducten van het Inlichtingenbureau
 
-In deze bijlage zijn de informatieproducten gespecificeerd die het IB periodiek aan SZW dient te verstrekken op grond van [artikel 5.21](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.3&artikel=5.21&z=2005-07-10&g=2005-07-10) van de Regeling SUWI. Het betreft de volgende producten:
-
-### Informatieproducten van het Inlichtingenbureau
-
-In deze bijlage zijn de informatieproducten gespecificeerd die het IB periodiek aan SZW dient te verstrekken op grond van [artikel 5.21](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.3&artikel=5.21&z=2006-07-09&g=2006-07-09) van de Regeling SUWI. Het betreft de volgende producten:
+Onder ordelijk wordt verstaan dat het financieel beheer en de administraties in overeenstemming zijn met de in de administratieve organisatie vastgelegde procedureregels. Met controleerbaar wordt bedoeld dat de uitkomsten van het financieel beheer duidelijk worden vastgelegd, opdat achteraf controle efficiënt kan worden uitgevoerd.
 
 ### a. Verantwoording IB
 
-### **1. Inleiding en algemeen beeld**
+### **Doelmatigheid**
 
-De omgevingsfactoren die het presteren van het IB hebben beïnvloed, dienen hier de revue te passeren.
+In [artikel 5.10e, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1b&artikel=5.10e&z=2008-02-28&g=2008-02-28), van de Regeling SUWI is aangegeven dat de SVB inzicht biedt in doelmatigheid van het beheer en de organisatie. De SVB brengt verslag uit ter zake van activiteiten die zijn ondernomen om de bedrijfsprocessen door te lichten, waarbij het kostenniveau wordt gerelateerd aan de (kwaliteit van de) geleverde prestatie. De Raad van Bestuur wordt geacht de uitgangspunten die zij hanteert met betrekking tot doelmatigheid te expliciteren. Een toelichting op [artikel 5.10e, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1b&artikel=5.10e&z=2008-02-28&g=2008-02-28), van de Regeling SUWI, wordt gegeven in [Bijlage XXIII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XXIII&z=2008-02-28&g=2008-02-28) bij de Regeling SUWI.
 
-### **2. Omgevingsanalyse**
+### **Totstandkoming niet-financiële informatie**
 
-De omgevingsfactoren die het presteren van het IB hebben beïnvloed, dienen hier de revue te passeren.
+De SVB rapporteert in het jaarverslag over het totstandkomingsproces van de informatievoorziening (inclusief de daarbij gehanteerde criteria zoals vastgelegd in [bijlage XVII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XVII&z=2008-02-28&g=2008-02-28) van de SUWI-regeling) en de wijze waarop deze is gewaarborgd (conform [artikel 5.16 tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.1&artikel=5.16&z=2008-02-28&g=2008-02-28) Regeling SUWI). In zowel het jaarverslag als de tussentijdse rapportages wordt ingegaan op de voortgang van verbetermaatregelen.
 
-### **3. Veranderagenda**
+### **Overige aspecten van de bedrijfsvoering**
 
-Er wordt verslag gedaan van de stand van zaken en de belangrijkste ontwikkelingen ten aanzien van (eventuele) ontwikkelings- en reorganisatieprojecten. Hierbij zal met name gedacht moeten worden aan de eventuele uitbreiding van de taakinvulling door het IB, onder andere in het kader van de uitkomsten van de streefbeeld discussie. IB legt, zonodig in een bijlage, verantwoording af over de uitputting van de (meerjaren-)projectbegrotingen.
+In het laatste onderdeel van de bedrijfsvoeringsparagraaf worden zo nodig overige gebreken in de bedrijfsvoering gemeld, bijvoorbeeld ten aanzien van het gevoerde personeelsbeheer, automatisering, het arbo-beleid of het niet-naleven van milieuvoorschriften. Het gaat er om dat ernstige tekortkomingen waarvan het management kennis heeft in de bedrijfsvoeringsparagraaf opgenomen moeten worden.
 
-IB doet verslag van de uitvoering van het beleid en de geleverde prestaties. Het jaarplan en de afgesproken prestatie-indicatoren vormen hierbij het uitgangspunt. De uitkomsten van de prestatie-indicatoren worden, voorzien van een toelichting, samen met de normen/streefwaarden verantwoord. Hierbij wordt ingegaan op de aansluiting tussen beleidsdoelstellingen SZW en hoofddoelstellingen IB, waarbij aan de hand van de doelstellingen en de prestatie-indicatoren een analyse wordt gepleegd op het onderhavige jaar
+De SVB doet in de tussentijdse rapportages en in het jaarverslag verslag van de voortgang van de huisvestingsplannen. In het bijzonder rapporteert de SVB specifiek over de volgende onderwerpen:
 
-### **5. Bedrijfsvoering**
+### **Leegstand**
 
-Naast de doelstellingen uit het jaarplan en de prestatie-indicatoren, wordt ten minste ingegaan op de volgende onderdelen:
-
-In het onderdeel bedrijfsvoering wordt ingegaan op de sturing en beheersing van de bedrijfsprocessen binnen UWV. Het doel is om aan te geven dat het management van UWV haar bedrijfsvoeringsprocessen beheerst. Een aantal aspecten van de bedrijfsvoering die bepalend zijn voor de rechtmatigheid en doelmatigheid van de uitvoering zullen jaarlijks in de rapportage aan de orde komen. Het onderdeel bedrijfsvoering wordt per aspect opgebouwd uit kwantitatieve gegevens met een kwalitatieve toelichting.
+Fysiek leegstaande en verhuurbare oppervlakten in vierkante meters VVO (conform de definitie van de Rijksgebouwendienst)
 
 In het onderdeel bedrijfsvoering wordt ingegaan op de sturing en beheersing van de bedrijfsprocessen binnen UWV. Het doel is om aan te geven dat het management van UWV haar bedrijfsvoeringsprocessen beheerst. Een aantal aspecten van de bedrijfsvoering die bepalend zijn voor de rechtmatigheid en doelmatigheid van de uitvoering zullen jaarlijks in de rapportage aan de orde komen. Het onderdeel bedrijfsvoering wordt per aspect opgebouwd uit kwantitatieve gegevens met een kwalitatieve toelichting.
+
+De voortgang van de activiteiten om de overmaat te verhuren aan derden.
 
 Het IB rapporteert over de algemene aspecten alsmede over eventuele knelpunten en risico’s in de bedrijfsvoering. De verbeteracties die daaruit voortvloeien worden in de verslaglegging opgenomen.
 
-Binnen het perspectief ‘kwaliteit productie’ gaat het vooral om de verbetering danwel borging van de werkprocessen, zodat de uitvoering aan wettelijke normen van rechtmatigheid en tijdigheid van de uitvoering kan voldoen. Met betrekking tot de primaire prestatie-indicatoren gaat het met name om beschikbaarheid en performance van de samenloopapplicatie en Inkijk GSD.
+Huisvestingskosten onderverdeeld naar SV en niet-SV.
 
-Het IB geeft een beschrijving van de activiteiten in het kader van de verbetering van de dienstverlening aan de klanten en ketenpartners van het IB. Het gaat hierbij onder meer om bereikbaarheid, klanttevredenheid en klachtenafhandeling, alsmede de effectiviteit van de samenloopsignalen ten behoeve van het handhavingsbeleid van gemeenten. Ook komt de privacy audit hier aan de orde.
+De SVB rapporteert hier over ontwikkelingen binnen het gevoerde Sociaal en HRM-beleid van de SVB. Hierbij wordt in ieder geval ingegaan op de personeelsomvang.
 
-Het bestuur van het IB verantwoordt zich in ieder geval over de rechtmatigheid van de jaarrekening als geheel. Vaststelling van de rechtmatigheid is gekoppeld aan het handelen in het verslagjaar (het handelen omvat mede ten onrechte niet-handelen) en de fouten die daarbij zijn gevonden. Een nadere uitwerking van het aspect rechtmatigheid wordt gegeven in de wijziging van de Regeling SUWI in verband met het opnemen van regels inzake de accountantscontrole (Regeling van 18 maart 2005, Stcrt. 59).
+De SVB rapporteert over de ontwikkelingen op het gebied van ICT volgens de COBIT norm (dienstenniveau, general computer controls, gegevensbeheer). Ook de voortgang van projecten ter verbetering van de privacy-bescherming en informatiebeveiliging (privacy-audit) komt hier aan de orde.
 
 Het IB brengt verslag uit ter zake van activiteiten die zijn ondernomen om de bedrijfsprocessen door te lichten, waarbij het kostenniveau wordt gerelateerd aan de (kwaliteit van de) geleverde prestatie. Hierbij wordt aandacht besteed aan eventuele benchmarks.
 
-Het IB rapporteert (in het jaarverslag) over de kwaliteit van de informatievoorziening en de wijze waarop deze gewaarborgd is.
+De onderwerpen die onder het onderdeel governance vallen hebben betrekking op de bestuurlijke inrichting van de SVB de wijze waarop zij haar taken uitvoert. De SVB rapporteert in haar jaarverslag over de volgende onderwerpen.
 
-Het IB rapporteert op dit punt over belangrijke personeelsaangelegenheden, waaronder in ieder geval de personeelsomvang, het personeelsverloop en de personeelskosten.
+De SVB rapporteert over de wijze waarop invulling is gegeven aan risicomanagement. De SVB gaat in op welke wijze risico’s binnen de organisatie zijn geanalyseerd, hoe wordt omgegaan met risico’s (appetite) en hoe risico’s worden gemanaged.
 
-Ter zake van uitbesteding vindt een rapportage plaats over de mate van uitbesteding van wettelijke en overige taken, de partijen aan wie wordt uitbesteed, de soorten werkzaamheden die zijn uitbesteed en de totaal met uitbesteding gemoeide kosten. Uitbestedingen op het terrein van facilitaire dienstverlening en personeelsbeleid kunnen hierbij buiten beschouwing gelaten worden.
+In het jaarverslag doet de SVB op hoofdlijnen verslag van de door de Raad van Advies gegeven adviezen en afgegeven signalen. De SVB doet jaarlijks verslag van de bezoldiging van de leden van de Raad van Bestuur en Raad van Advies ([artikel 5 vierde lid Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=5)), en van de topinkomens op basis van de [Wet openbaarmaking uit financiële middelen gefinancierde topinkomens](https://wetten.overheid.nl/jci1.3:c:BWBR0019562) (WOPT).
 
 Het IB rapporteert over belangrijke ontwikkelingen op het gebied van exploitatie en beheer van ICT en ingrijpende systeemwijzigingen. Ook de voortgang van projecten ter verbetering van gegevensbeheer en privacybescherming vallen hieronder.
 
-De kwaliteit van de beveiliging van de samenloopapplicatie, de Inkijk GSD en de daaraan gerelateerde gegevensverwerking behoort getoetst te worden aan een algemeen aanvaarde en beproefde norm, zoals de COBIT-norm. De EDP-auditor geeft een oordeel over het kwaliteitsniveau van de gegevensverwerking en de beveiliging (conform [artikel 5.22](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.4&artikel=5.22&z=2006-07-09&g=2006-07-09) en [6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=6&paragraaf=6.1&artikel=6.4&z=2006-07-09&g=2006-07-09) Regeling SUWI). In het jaarverslag wordt ingegaan op deze conclusie en de verrichte inspanningen om de kwaliteit te verbeteren c.q. te consolideren.
-
-Het IB doet jaarlijks verslag van de bezoldiging van de leden van het Bestuur.
-
-### **6. Jaarrekening**
-
-In de mededeling over de bedrijfsvoering wordt, onder verwijzing naar het in de organisatie van toepassing zijnde normenkader, ingegaan op:
-
-De jaarrekening heeft betrekking op de balans en de resultatenrekening met de toelichting en op de in het jaarplan en modelverantwoording opgenomen financiële onderwerpen. De jaarrekening is zoveel als mogelijk gebaseerd op [titel 9, Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9), tenzij hiervan in deze modelverantwoording wordt afgeweken.
-
-De jaarrekening heeft betrekking op de balans en de resultatenrekening met de toelichting en op de in het jaarplan en modelverantwoording opgenomen financiële onderwerpen. De jaarrekening is zoveel als mogelijk gebaseerd op [titel 9, Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9), tenzij hiervan in deze modelverantwoording wordt afgeweken.
-
-De in de jaarrekening opgenomen informatie dient een zodanig betrouwbaar beeld te geven van de werkelijkheid als in de gegeven omstandigheden is vereist. Alle uitvoeringskosten worden in de budgetverantwoording opgenomen, ongeacht of er budget voor is toegekend. Het salderen van bijzondere baten en lasten is niet toegestaan, tenzij wetgeving anders voorschrijft.
-
-De informatie in de paragraaf resultatenrekening moet in ieder geval voldoende zijn om achteraf te kunnen vaststellen hoeveel het IB heeft uitgegeven aan uitvoeringskosten. Het kasstroomoverzicht dient aan te sluiten op de systematiek van Geïntegreerd Middelenbeheer.
-
-### **6.1. Grondslagen waardering en resultaatbepaling**
+Alle uitvoeringskosten worden in de budgetverantwoording opgenomen, ongeacht of er budget voor is toegekend. Het salderen van bijzondere baten en lasten is niet toegestaan, tenzij wetgeving anders voorschrijft.
 
 In de toelichting wordt onder andere ingegaan op:
 
+### **8. Investeringen per categorie**
+
+De indeling in categorieën volgt [Titel 9 Boek 2 BW](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9).
+
+De jaarrekening heeft betrekking op de balans en de resultatenrekening met de toelichting en op de in het jaarplan en modelverantwoording opgenomen financiële onderwerpen. De jaarrekening is zoveel als mogelijk gebaseerd op [titel 9, Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9), tenzij hiervan in deze modelverantwoording wordt afgeweken.
+
+De jaarrekening van de SVB omvat zowel de SVB als uitvoeringsorganisatie alsook de geadministreerde fondsen.
+
+De jaarrekening heeft betrekking op de balans en de resultatenrekening met de toelichting en op de in het jaarplan en modelverantwoording opgenomen financiële onderwerpen. De jaarrekening is zoveel als mogelijk gebaseerd op [titel 9, boek 2 van het Burgelijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9), tenzij hiervan in deze bijlage wordt afgeweken.
+
+De in de jaarrekening opgenomen informatie dient een zodanig betrouwbaar beeld te geven van de werkelijkheid als in de gegeven omstandigheden is vereist. Alle uitvoeringskosten worden in de budgetverantwoording opgenomen, ongeacht of er budget voor is toegekend. Het salderen van bijzondere baten en lasten is niet toegestaan, tenzij wetgeving anders voorschrijft.
+
+### **6.1. Grondslagen waardering en resultaatbepaling**
+
+Gehanteerd wordt het kasstroomoverzicht met onderscheid naar operationele, investerings- en financieringskasstromen. De kasbeweging dient aan te sluiten op de rekeningen-courant met het ministerie van Financiën (geïntegreerd middelenbeheer). Het kasstroomoverzicht dient aan te sluiten op de systematiek van Geïntegreerd Middelenbeheer.
+
 ### **6.1. Grondslagen waardering en resultaatbepaling**
 
 ### **6.2. Balans IB per 31 december**
 
-### **6.2. Balans IB per 31 december**
+### **10.1 Grondslagen waardering en resultaatbepaling**
 
 ### **6.3. Resultatenrekening IB**
 
 ### **6.4. Toelichting balans IB**
 
-### **6.5. Toelichting op de resultatenrekening IB**
+### **10.2 Balans SVB per 31 december**
 
-### **6.5.1. Saldo van baten en lasten regulier**
+### **10.3 Resultatenrekening SVB**
 
-### **6.5.2. Saldo van baten en lasten regulier en projecten**
+### **10.4 Toelichting balans SVB**
 
 Gehanteerd wordt het kasstroomoverzicht met onderscheid naar operationele, investerings- en financieringskasstromen. De kasbeweging dient aan te sluiten op de rekeningen-courant.
 
-### **6.6. Kasstroomoverzicht**
+### **10.5.1 Baten wettelijke taken (realisatie / begroot)**
 
 Gehanteerd wordt het kasstroomoverzicht met onderscheid naar operationele, investerings- en financieringskasstromen. De kasbeweging dient aan te sluiten op de rekeningen-courant.
 
@@ -4939,17 +4409,17 @@ Ligt ter inzage bij het Ministerie van Sociale Zaken en Werkgelegenheid.
 
 Vervallen
 
-### Informatieproducten van het BKWI
+### **Tabel VBTB-informatie**
 
 In deze bijlage zijn de informatieproducten gespecificeerd die het BKWI periodiek aan SZW dient te verstrekken op grond van [artikel 5.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1a&artikel=5.10a&z=2005-07-10&g=2005-07-10) van de Regeling SUWI. Het betreft de volgende producten:
 
-### Informatieproducten van het BKWI
+### [Anw](https://wetten.overheid.nl/jci1.3:c:BWBR0007795) **(zowel in personen als uitkeringsjaren)**
 
 In deze bijlage zijn de informatieproducten gespecificeerd die het BKWI periodiek aan SZW dient te verstrekken op grond van [artikel 5.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1a&artikel=5.10a&z=2006-07-09&g=2006-07-09) van de Regeling SUWI. Het betreft de volgende producten:
 
-### a. Verantwoording BKWI
+### **TAS**
 
-### **1. Inleiding en algemeen beeld**
+### Handhaving (per wet: [AOW](https://wetten.overheid.nl/jci1.3:c:BWBR0002221), [Anw](https://wetten.overheid.nl/jci1.3:c:BWBR0007795), [AKW](https://wetten.overheid.nl/jci1.3:c:BWBR0002368))
 
 De omgevingsfactoren die het presteren van het BKWI hebben beïnvloed, dienen hier de revue te passeren.
 
@@ -4993,21 +4463,21 @@ Bij het zowel het onderzoek van het kwaliteitsniveau van de beveiliging van Suwi
 
 ### **6. Jaarrekening**
 
-In de mededeling over de bedrijfsvoering wordt, onder verwijzing naar het in de organisatie van toepassing zijnde normenkader, ingegaan op:
+Een gangbaar onderscheid is die tussen ‘doelmatigheid van bedrijfsvoering’ en ‘doelmatigheid van beleid’. Bij ‘doelmatigheid van bedrijfsvoering’ staat de samenhang tussen de geleverde prestaties (producten of diensten) – uitgedrukt in kwantiteit én kwaliteit – en de ingezette middelen centraal. De ‘doelmatigheid van beleid’ benadert doelmatigheid op een hoger abstractieniveau, waarbij de relatie tussen beoogde effecten en ingezette middelen centraal staat.
+
+In de context van de [Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060) gaat het om de doelmatigheid van de uitvoering van de sociale verzekeringen en wetten in het verstreken boekjaar ([artikel 49, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=49)) en de vraag of het beheer en de organisatie van de rechtspersoon voldoen aan eisen van doelmatigheid ([artikel 49, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=49)). De uitwerking van het doelmatigheidsbegrip die in het kader van de Regeling SUWI wordt gegeven heeft betrekking op de doelmatigheid van bedrijfsvoering.
 
 De jaarrekening heeft betrekking op de balans en de resultatenrekening met de toelichting en op de in het jaarplan en modelverantwoording opgenomen financiële onderwerpen. De jaarrekening is zoveel als mogelijk gebaseerd op [titel 9, Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9), tenzij hiervan in deze modelverantwoording wordt afgeweken.
 
-De jaarrekening heeft betrekking op de balans en de resultatenrekening met de toelichting en op de in het jaarplan en modelverantwoording opgenomen financiële onderwerpen. De jaarrekening is zoveel als mogelijk gebaseerd op [titel 9, Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9), tenzij hiervan in deze modelverantwoording wordt afgeweken.
+Een organisatie is doelmatig als er een goed evenwicht is tussen de geleverde prestaties (primair in kwantiteit en secundair in kwaliteit) en de door haar ingezette middelen.
 
-De in de jaarrekening opgenomen informatie dient een zodanig betrouwbaar beeld te geven van de werkelijkheid als in de gegeven omstandigheden is vereist. Alle uitvoeringskosten worden in de budgetverantwoording opgenomen, ongeacht of er budget voor is toegekend. Het salderen van bijzondere baten en lasten is niet toegestaan, tenzij wetgeving anders voorschrijft.
+In aansluiting op de definitie van doelmatigheid werken UWV, CWI, SVB, IB en BKWI hun eigen toetsingskader uit.
 
-De informatie in de paragraaf resultatenrekening moet in ieder geval voldoende zijn om achteraf te kunnen vaststellen hoeveel het BKWI heeft uitgegeven aan uitvoeringskosten. Het kasstroomoverzicht dient aan te sluiten op de systematiek van Geïntegreerd Middelenbeheer.
+### **Minimumeisen toetsingskader**
 
-### **6.1. Grondslagen waardering en resultaatbepaling**
+Het toetsingskader dient aan de volgende minimumeisen te voldoen:
 
-In de toelichting wordt onder andere ingegaan op:
-
-### **6.1. Grondslagen waardering en resultaatbepaling**
+### **Rol van de accountant**
 
 ### **6.2. Balans BKWI per 31 december**
 
@@ -5145,7 +4615,7 @@ De bijlagen III tot en met XVI liggen met ingang van 1 januari 2002 ter inzage i
 
 #### § 5.1. Financiering
 
-#### § 5.1a. Verantwoording
+#### § 5.1b. Accountantscontrole
 
 #### § 5.2. Informatievoorziening
 
@@ -5153,9 +4623,9 @@ De bijlagen III tot en met XVI liggen met ingang van 1 januari 2002 ter inzage i
 
 #### § 5.2.3. Informatieverstrekking IB aan de minister en de IWI
 
-#### § 5.2.3. Informatieverstrekking IB aan de minister en de IWI
-
 #### § 5.2.4. Rapportage gegevensverwerking
+
+#### § 5.2.5. Kennisgeving besluiten CWI, UWV en SVB aan de IWI
 
 ### Hoofdstuk 6. Suwinet en IB
 
@@ -5167,53 +4637,53 @@ De bijlagen III tot en met XVI liggen met ingang van 1 januari 2002 ter inzage i
 
 ### Hoofdstuk 8. Slotbepalingen
 
-### Informatieproducten van CWI
+### **Planning & control producten van CWI**
 
-In deze bijlage zijn de informatieproducten gespecificeerd die CWI periodiek aan SZW dient te verstrekken op grond van [artikel 5.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1a&artikel=5.10a&z=2005-12-29&g=2005-12-29) en [artikel 5.12](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.1&artikel=5.12&z=2005-12-29&g=2005-12-29) van de Regeling SUWI. Het betreft de volgende producten:
+In deze bijlage zijn de diverse producten uit de P&C-cyclus tussen CWI en SZW gespecificeerd, die CWI periodiek aan SZW dient te verstrekken op grond van [artikel 5.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.10a&z=2008-02-28&g=2008-02-28) en [5.12](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.1&artikel=5.12&z=2008-02-28&g=2008-02-28) van de Regeling SUWI. Het betreft de volgende producten:
 
 ### a. Verantwoording CWI
 
-**De jaarverantwoording van CWI dient alle navolgende onderwerpen te bevatten. In de kwartaalverslagen doet CWI verslag van de stand van zaken ten aanzien van de onderwerpen genoemd in het jaarplan. De overige hieronder vermelde onderwerpen dienen ook in het kwartaalverslag aan de orde te komen, tenzij er in het betreffende kwartaal geen majeure ontwikkelingen of resultaten te melden zijn. In het kader van de bestuurlijke verantwoording dienen de rapportages ook het oordeel van de Raad van Bestuur over de geconstateerde situatie te bevatten.**
+De VBTB-informatie t.b.v. het SZW-jaarverslag betreft een beperkte informatielevering vooruitlopend op het jaarverslag. Deze informatie wordt uiterlijk 15 februari aan SZW geleverd t.b.v. het begrotingsproces en de voorbereiding van de jaarverantwoording van SZW. Tegelijkertijd met de VBTB-informatie worden tevens de prognoses ten aanzien van de prestatie-indicatoren in het kader van de verantwoordingsinformatie, met bijbehorende toelichting, alsmede de prognoses ten aanzien van de budgetuitputting geleverd.
 
 ### **1. Inleiding en algemeen beeld**
 
-CWI geeft een analyse van de feitelijke macro-economische ontwikkelingen en de relevante waargenomen ontwikkelingen op de arbeidsmarkt in het verslagjaar. Op basis van deze analyse kan aangegeven worden wat de consequenties daarvan zijn geweest voor de activiteiten van de CWI en de invloed op de effecten van de uitvoering
+1 De afspraken over de levering van de kwantitatieve informatie per wet wordt bilateraal per brief tussen SZW en de CWI geregeld.
 
-### **3. Veranderagenda – Transformatie**
+### **1. Ontwikkelingen wetsuitvoering en andere taken**
 
-In het jaarverslag worden per project de kosten en (in samenhang met de geplande mijlpalen) de resultaten verantwoord. Als een in de goedgekeurde jaartranche geplande mijlpaal al of niet bereikt is, wordt hier kort verslag van gedaan. Voor kostenafwijkingen van meer dan 20% per programma wordt een korte verklaring gegeven. In de jaarrekening wordt het transformatiebudget per financieringsbron afzonderlijk verantwoord. Verder wordt gerapporteerd over de voortgang en het effect van de verbeteringen in de aansturing van het transformatieproces.
+Het jaarplan gaat – volgens de VBTB-systematiek – in op de volgende vragen:
 
 ### **4. Beleidsdoelstellingen**
 
-CWI doet verslag van de uitvoering van het beleid en de geleverde prestaties. Het jaarplan en de afgesproken prestatie-indicatoren vormen hierbij het uitgangspunt. Per doelstelling wordt op basis van de bijbehorende indicatoren aangegeven in welke mate de doelstellingen zijn gerealiseerd en wat de onderliggende analyse is bij afwijkingen in de realisatie. In dat geval wordt verder aangegeven welke aanvullende maatregelen zijn genomen om doelstellingen te realiseren.
+Bij onderdeel c. Klantgerichtheid wordt specifiek ingegaan op o.a. klachtenafhandeling, bereikbaarheid en klanttevredenheid.
 
 ### **5. Bedrijfsvoering**
 
 ### **Werkzaamheden**
 
-### **6.1. Grondslagen waardering en resultaatbepaling**
+### **De voortgang van de activiteiten om de huisvesting in lijn te brengen met de behoefte:**
 
-### **Werkzaamheden**
+### **Raad van Bestuur en Raad van Advies**
 
 Ondertekening
 
 ### **6.5. Toelichting op de resultatenrekening CWI**
 
-**Incidenteel budget (Bestedingsplan)**
+Lasten
 
 ### **6.5.2. Lasten**
 
-**Overige beheerskosten**
+Totaal overig beheer
 
 ### **6.6. Kasstroomoverzicht**
 
-Gehanteerd wordt het kasstroomoverzicht met onderscheid naar operationele, investerings- en financieringskasstromen. De kasbeweging dient aan te sluiten op de rekeningen-courant met het Ministerie van Financiën (geïntegreerd middelenbeheer).
+Totaal overige kosten
 
 ### **7. Accountantsverklaring en verslag van bevindingen**
 
-De accountant onderzoekt de verantwoording die de Raad van Bestuur van de CWI op grond van de Regeling SUWI heeft uitgebracht. De accountantsverklaring en het verslag van bevindingen zijn nader geregeld in [artikel 5.10b t/m e](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1b&artikel=5.10b&z=2005-12-29&g=2005-12-29) en [bijlage XXI](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XXI&z=2005-12-29&g=2005-12-29) van de Regeling SUWI.
+Saldo van baten en lasten
 
-### b. Beleidsinformatie CWI
+### **10.4 Toelichting balans CWI**
 
 Advisering over ontslagvoornemens COA
 
@@ -5223,11 +4693,11 @@ Ligt ter inzage bij het Ministerie van Sociale Zaken en Werkgelegenheid.
 
 ### Informatieproducten van het UWV
 
-In deze bijlage zijn de informatieproducten gespecificeerd die UWV periodiek aan SZW dient te verstrekken op grond van [artikel 5.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1a&artikel=5.10a&z=2005-12-29&g=2005-12-29) en [5.12](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.1&artikel=5.12&z=2005-12-29&g=2005-12-29) van de Regeling SUWI. Het betreft de volgende producten:
+De definitieve cijfers worden vervolgens grotendeels opgenomen in het jaarverslag.
 
-### a. Verantwoording UWV
+### **13. Kwantitatieve informatie**
 
-**De jaarverantwoording van UWV dient alle navolgende onderwerpen te bevatten. In de kwartaalverslagen doet UWV verslag van de stand van zaken ten aanzien van de onderwerpen genoemd in het jaarplan. De overige hieronder vermelde onderwerpen dienen ook in het kwartaalverslag aan de orde te komen, tenzij er in het betreffende kwartaal geen majeure ontwikkelingen of resultaten te melden zijn. In het kader van de bestuurlijke verantwoording dienen de rapportages ook het oordeel van de Raad van Bestuur over de geconstateerde situatie te bevatten.**
+Naast het jaarverslag en de tussentijdse verslagen dient CWI periodiek kwantitatieve informatie te verstrekken ten behoeve van verschillende functies binnen SZW, te weten aansturing, beleid, toezicht en financiering. Over de levering van de periodieke kwantitatieve informatie per wet, de maandelijkse kerncijfers en de statistische jaarrapportages worden jaarlijks aparte bilaterale afspraken gemaakt.
 
 ### **1. Inleiding en algemeen beeld**
 
@@ -5235,33 +4705,33 @@ De omgevingsfactoren die het presteren van UWV hebben beïnvloed, dienen hier de
 
 ### **3. Veranderagenda**
 
-In het jaarverslag wordt per programma per ingezet budget de kosten en (in samenhang met de geplande mijlpalen) de resultaten verantwoord. Als een in de goedgekeurde jaartranche geplande mijlpaal al of niet bereikt is, wordt hier kort verslag van gedaan. Voor kostenafwijkingen van meer dan 20% per programma wordt een korte verklaring te geven. Verder wordt gerapporteerd over de voortgang en het effect van de verbeteringen in de aansturing van het transformatieproces
+In deze bijlage zijn de diverse producten uit de P&C-cyclus tussen UWV en SZW gespecificeerd, die UWV periodiek aan SZW dient te verstrekken op grond van [artikel 5.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.10a&z=2008-02-28&g=2008-02-28) en [5.12](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.1&artikel=5.12&z=2008-02-28&g=2008-02-28) van de Regeling SUWI. Het betreft de volgende producten:
 
 ### **4. Beleidsdoelstellingen**
 
-UWV doet verslag van de uitvoering van het beleid en de geleverde prestaties. Het jaarplan en de daarin opgenomen prestatie-indicatoren vormen hierbij het uitgangspunt. De uitkomsten van de prestatie-indicatoren worden, voorzien van een toelichting, samen met de normen/streefwaarden per wet verantwoord. UWV beschrijft zoveel als mogelijk de eigen bijdrage aan het behalen van de doelstellingen, en geeft een verklaring als doelstellingen niet worden gehaald.
+De VBTB-informatie t.b.v. het SZW-jaarverslag betreft een beperkte informatielevering vooruitlopend op het jaarverslag. Deze informatie wordt uiterlijk 15 februari aan SZW geleverd t.b.v. het begrotingsproces en de voorbereiding van de jaarverantwoording van SZW. Dit verslag bevat tevens de prognoses ten aanzien van de prestatie-indicatoren in het kader van de verantwoordingsinformatie, met bijbehorende toelichting, alsmede de prognoses ten aanzien van de budgetuitputting.
 
 ### **5. Bedrijfsvoering**
 
-In de mededeling over de bedrijfsvoering wordt, onder verwijzing naar het in de organisatie van toepassing zijnde normenkader, ingegaan op:
+In de bedrijfsvoeringsparagraaf van het jaarverslag gaat UWV in op de sturing en beheersing van de bedrijfsprocessen binnen UWV. Het doel is aan te geven in welke mate het management van UWV haar bedrijfsprocessen beheerst. In de bedrijfsvoeringsparagraaf legt UWV, mede gebaseerd op risicoanalyse, verantwoording af over de bedrijfsvoering. De bedrijfsvoeringsparagraaf bestaat tenminste uit de volgende onderdelen: rechtmatigheid (waaronder het M&O beleid), doelmatigheid, totstandkoming niet-financiële informatie en financieel beheer. Daarnaast wordt aandacht besteed aan majeure ontwikkelingen ten aanzien van o.a. personeel, ICT en huisvesting.
 
-### **6. Jaarrekening**
+### **f) Rechtmatigheid**
 
-In de toelichting wordt onder andere ingegaan op:
+In dit onderdeel rapporteert de SUWI-organisatie over de belangrijkste tekortkomingen in het financieel beheer. Onder financieel beheer wordt verstaan het geheel van beslissingen, handelingen en regels die zijn bedoeld voor de sturing en beheersing van, alsmede de verantwoording over, de financiële transacties en de saldi waarvoor het management (mede)verantwoordelijkheid draagt. De administraties, die ten behoeve van het financieel beheer worden bijgehouden, worden eveneens tot het financieel beheer gerekend. Administraties zijn immers onlosmakelijk met een goed beheer verbonden.
 
 ### **6.1. Grondslagen waardering en resultaatbepaling**
 
-In verband met de versnelling van de verantwoording is het toegestaan het handelen in het verslagjaar te koppelen aan een jaarschijveninterpretatie. De te hanteren jaarschijf mag niet ouder zijn dan 3 maanden ten opzichte van het kalenderjaar waarop de verantwoording betrekking heeft. Indien de jaarschijven worden aangepast dan dient dit in de jaarrekening te worden vermeld evenals de vergelijkbare cijfers van het voorgaande jaar.
+Onder ordelijk wordt verstaan dat het financieel beheer en de administraties in overeenstemming zijn met de in de administratieve organisatie vastgelegde procedureregels. Met controleerbaar wordt bedoeld dat de uitkomsten van het financieel beheer duidelijk worden vastgelegd, opdat achteraf controle efficiënt kan worden uitgevoerd.
 
-### **6.5.4. Baten en lasten naar fonds**
+### **Huisvesting**
 
-Gehanteerd wordt het kasstroomoverzicht met onderscheid naar operationele, investerings- en financieringskasstromen. De kasbeweging dient aan te sluiten op de rekeningen-courant met het ministerie van Financiën (geïntegreerd middelenbeheer).
+UWV doet in de tussentijdse rapportages en in het jaarverslag verslag van de voortgang van het huisvestingsplan. In het bijzonder rapporteert het UWV specifiek over de volgende onderwerpen:
 
 ### **7. Accountantsverklaring en verslag van bevindingen**
 
-De accountant onderzoekt de verantwoording die de Raad van Bestuur van UWV op grond van de Regeling SUWI heeft uitgebracht. De accountantsverklaring en het verslag van bevindingen zijn nader geregeld in [artikel 5.10b t/m e](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1b&artikel=5.10b&z=2005-12-29&g=2005-12-29) en [bijlage XXI](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XXI&z=2005-12-29&g=2005-12-29) van de Regeling SUWI.
+Totale huisvestingskosten (regulier en frictie) opgebouwd en onderverdeeld naar:
 
-### b. Kwantitatieve informatie per wet
+### **6. Governance**
 
 Ten behoeve van verschillende functies, te weten aansturing, beleid, toezicht en financiering, dient UWV periodiek kwantitatieve informatie te verstrekken. In de tabellen is per wet/regeling aangegeven welke informatie nodig is. Een gedeelte van de informatie is slechts een of twee keer per jaar nodig. In de tabellen is dit aangegeven in de kolom ‘freq’. De kwantitatieve informatie wordt gelijktijdig met de kwartaalverslagen UWV en het jaarverslag UWV verstrekt.
 
@@ -5271,7 +4741,7 @@ Het UWV verstrekt maandelijks kerncijfers over de werknemersverzekeringen. Als k
 
 ### d. Fondseninformatie
 
-Het UWV verstrekt aan de minister met betrekking tot elk van de door haar beheerde fondsen afzonderlijk:
+Alle uitvoeringskosten worden in de budgetverantwoording opgenomen, ongeacht of er budget voor is toegekend. Het salderen van bijzondere baten en lasten is niet toegestaan, tenzij wetgeving anders voorschrijft.
 
 ### e. Statistische jaarrapportages
 
@@ -5287,35 +4757,35 @@ In deze bijlage zijn de informatieproducten gespecificeerd die de SVB periodiek 
 
 ### a. Verantwoording SVB
 
-**De jaarverantwoording van de SVB dient alle navolgende onderwerpen te bevatten. In de kwartaalverslagen doet de SVB verslag van de stand van zaken ten aanzien van de onderwerpen genoemd in het jaarplan. De overige hieronder vermelde onderwerpen dienen ook in het kwartaalverslag aan de orde te komen, tenzij er in het betreffende kwartaal geen majeure ontwikkelingen of resultaten te melden zijn. In het kader van de bestuurlijke verantwoording dienen de rapportages ook het oordeel van de Raad van Bestuur over de geconstateerde situatie te bevatten.**
+De in de jaarrekening opgenomen informatie dient een zodanig betrouwbaar beeld te geven van de werkelijkheid als in de gegeven omstandigheden is vereist. Alle uitvoeringskosten worden in de budgetverantwoording opgenomen, ongeacht of er budget voor is toegekend. Het salderen van bijzondere baten en lasten is niet toegestaan, tenzij wetgeving anders voorschrijft.
 
 ### **1. Inleiding en algemeen beeld**
 
 De omgevingsfactoren die het presteren van de SVB hebben beïnvloed, dienen hier de revue te passeren.
 
-### **3. Veranderagenda**
+### **10.3 Resultatenrekening UWV**
 
 Er wordt verslag gedaan van de stand van zaken en de belangrijkste ontwikkelingen ten aanzien van majeure ontwikkelings- en reorganisatieprojecten.
 
-### **4. Beleidsdoelstellingen**
+### **10.4.1. Baten wettelijke taken naar wet**
 
 De SVB doet verslag van de uitvoering van het beleid en de geleverde prestaties. Het jaarplan en de daarin opgenomen prestatie-indicatoren vormen hierbij het uitgangspunt. De uitkomsten van de prestatie-indicatoren worden, voorzien van een toelichting, samen met de normen/streefwaarden per wet verantwoord.
 
-### **5. Bedrijfsvoering**
+### **10.4.4 Uitvoeringskosten naar wet**
 
 In de mededeling over de bedrijfsvoering wordt, onder verwijzing naar het in de organisatie van toepassing zijnde normenkader, ingegaan op:
 
-### **6. Jaarrekening**
+### [Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657)
 
 De jaarrekening SVB bestaat uit de volgende onderdelen:
 
-### **6.1. Grondslagen waardering en resultaatbepaling**
+### **13. Kwantitatieve informatie**
 
 In verband met de versnelling van de verantwoording is het toegestaan het handelen in het verslagjaar te koppelen aan een jaarschijveninterpretatie. De te hanteren jaarschijf mag niet ouder zijn dan 3 maanden ten opzichte van het kalenderjaar waarop de verantwoording betrekking heeft. Indien de jaarschijven worden aangepast dan dient dit in de jaarrekening te worden vermeld evenals de vergelijkende cijfers.
 
 ### **6.5.4. Saldo van baten en lasten naar fonds (voor zover van toepassing)**
 
-Gehanteerd wordt het kasstroomoverzicht met onderscheid naar operationele, investerings- en financieringskasstromen. De kasbeweging dient aan te sluiten op de rekeningen-courant met het ministerie van Financiën (geïntegreerd middelenbeheer)
+In de hierna volgende tabel worden de onderwerpen benoemd, die in de diverse producten van de P&C cyclus aan de orde dienen te komen. Daaronder volgt, per onderwerp, een nadere toelichting.
 
 ### **7. Accountantsverklaring en verslag van bevindingen**
 
@@ -5323,15 +4793,15 @@ De accountant onderzoekt de verantwoording die de Raad van Bestuur van de SVB op
 
 ### b. Kwantitatieve informatie per wet
 
-Ten behoeve van verschillende functies, te weten aansturing, beleid, toezicht en financiering, dient de SVB periodiek kwantitatieve informatie te verstrekken. In de tabellen is per wet/regeling aangegeven welke informatie nodig is. Een gedeelte van de informatie is slechts een of twee keer per jaar nodig. In de tabellen is dit aangegeven in de kolom ‘freq’. De kwantitatieve informatie wordt gelijktijdig met de kwartaalverslagen SVB en het jaarverslag SVB verstrekt.
+Het jaarplan gaat - volgens de VBTB-systematiek - in op de volgende vragen:
 
 ### **7. Algemeen, bezwaar en beroep**
 
-De SVB verstrekt aan de minister met betrekking tot elk van de door haar beheerde fondsen afzonderlijk:
+Het ministerie van Binnenlandse Zaken en Koninkrijksrelaties wenst de consequenties van de financiële taakstellingen op de personeelsformaties van het Rijk te kunnen volgen. Hieronder zijn ook de SUWI-organisaties begrepen. De SVB dient daarom zowel in budgettaire termen als in termen van fte’s verslag te doen van de effecten van de personele taakstelling uit het coalitieakkoord. Als basisformatie (nulpunt) geldt de ontwikkeling van het aantal fte vanaf het aantal fte per 31 december 2006.
 
 ### d. Statistische jaarrapportages
 
-De SVB verstrekt elk jaar rapportages over:
+In de bedrijfsvoeringsparagraaf van het jaarverslag gaat de SVB in op de sturing en beheersing van de bedrijfsprocessen binnen de SVB. Het doel is aan te geven in welke mate het management van de SVB haar bedrijfsprocessen beheerst. In de bedrijfsvoeringsparagraaf legt de SVB, mede gebaseerd op risicoanalyse, verantwoording af over de bedrijfsvoering. De bedrijfsvoeringsparagraaf bestaat tenminste uit de volgende onderdelen: rechtmatigheid (waaronder het M&O beleid), doelmatigheid, totstandkoming niet-financiële informatie, financieel- en materieelbeheer en overige aspecten van de bedrijfsvoering.
 
 ## Bijlage X
 
@@ -5339,11 +4809,11 @@ Ligt ter inzage bij het Ministerie van Sociale Zaken en Werkgelegenheid.
 
 ### Informatieproducten van het Inlichtingenbureau
 
-In deze bijlage zijn de informatieproducten gespecificeerd die het IB periodiek aan SZW dient te verstrekken op grond van [artikel 5.21](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.3&artikel=5.21&z=2005-12-29&g=2005-12-29) van de Regeling SUWI. Het betreft de volgende producten:
+Het financieel beheer dient te voldoen aan de eisen ordelijkheid en controleerbaarheid.
 
 ### a. Verantwoording IB
 
-**De jaarverantwoording van het IB dient alle navolgende onderwerpen te bevatten. In de kwartaalverslagen doet het IB verslag van de stand van zaken ten aanzien van de onderwerpen genoemd in het jaarplan. De overige hieronder vermelde onderwerpen dienen ook in het kwartaalverslag aan de orde te komen, tenzij er in het betreffende kwartaal geen majeure ontwikkelingen of resultaten te melden zijn. In het kader van de bestuurlijke verantwoording dienen de rapportages ook het oordeel van het Bestuur over de geconstateerde situatie te bevatten.**
+De SUWI-organisatie rapporteert in het algemeen bij onvolkomenheden in het financieel beheer als die kunnen leiden tot disfunctioneren van het financieel beheer, en/of betrekking hebben op kritieke processen, en/of wijd verbreid zijn, en/of kunnen leiden of hebben geleid tot aanzienlijke risico’s. Daarnaast rapporteert de SUWI-organisatie bij dit onderdeel over de fouten (per wet) die zijn vastgesteld bij de bepaling van de financiële rechtmatigheid, maar niet tot financiële onrechtmatigheid hebben geleid.
 
 ### **1. Inleiding en algemeen beeld**
 
@@ -5363,17 +4833,17 @@ Het IB rapporteert over de samenwerking met haar ketenpartners en de ontwikkelin
 
 ### **6. Jaarrekening**
 
-De jaarrekening IB bestaat uit de volgende onderdelen:
+De informatie in de paragraaf resultatenrekening moet in ieder geval voldoende zijn om achteraf te kunnen vaststellen hoeveel de SVB heeft uitgegeven aan de wettelijke uitvoering (zgn. grote geldstroom) en het eigen apparaat (uitvoeringskosten).
 
 ### **6.1. Grondslagen waardering en resultaatbepaling**
 
-In verband met de versnelling van de verantwoording is het toegestaan het handelen in het verslagjaar te koppelen aan een jaarschijveninterpretatie. De te hanteren jaarschijf mag niet ouder zijn dan 3 maanden ten opzichte van het kalenderjaar waarop de verantwoording betrekking heeft. Indien de jaarschijven worden aangepast dan dient dit in de jaarrekening te worden vermeld evenals de vergelijkbare cijfers van het voorgaande jaar.
+De jaarrekening SVB bestaat uit de volgende onderdelen:
 
-### **6.5.3. Meerjarenoverzicht baten projecten**
+### **10.5 Toelichting balans SVB op de resultatenrekening SVB**
 
 Gehanteerd wordt het kasstroomoverzicht met onderscheid naar operationele, investerings- en financieringskasstromen. De kasbeweging dient aan te sluiten op de rekeningen-courant.
 
-### **7. Accountantsverklaring en verslag van bevindingen**
+### **10.5.2 Lasten wettelijke taken (realisatie / begroot)**
 
 De accountant onderzoekt de verantwoording die het management van het IB op grond van de Regeling SUWI heeft uitgebracht. De accountantsverklaring en het verslag van bevindingen zijn nader geregeld in [artikel 5.10b t/m e](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1b&artikel=5.10b&z=2005-12-29&g=2005-12-29) en [bijlage XXI](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XXI&z=2005-12-29&g=2005-12-29) van de Regeling SUWI.
 
@@ -5381,21 +4851,21 @@ De accountant onderzoekt de verantwoording die het management van het IB op gron
 
 Vervallen
 
-### Informatieproducten van het BKWI
+### [AOW](https://wetten.overheid.nl/jci1.3:c:BWBR0002221) **(zowel in personen als uitkeringsjaren)**
 
 In deze bijlage zijn de informatieproducten gespecificeerd die het BKWI periodiek aan SZW dient te verstrekken op grond van [artikel 5.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1a&artikel=5.10a&z=2005-12-29&g=2005-12-29) van de Regeling SUWI. Het betreft de volgende producten:
 
-### a. Verantwoording BKWI
+### [AKW](https://wetten.overheid.nl/jci1.3:c:BWBR0002368)/[TOG](https://wetten.overheid.nl/jci1.3:c:BWBR0010997)
 
 **De jaarverantwoording van het BKWI dient alle navolgende onderwerpen te bevatten. In de kwartaalverslagen doet het BKWI verslag van de stand van zaken ten aanzien van de onderwerpen genoemd in het jaarplan. De overige hieronder vermelde onderwerpen dienen ook in het kwartaalverslag aan de orde te komen, tenzij er in het betreffende kwartaal geen majeure ontwikkelingen of resultaten te melden zijn. In het kader van de bestuurlijke verantwoording dienen de rapportages ook het oordeel van de Raad van Bestuur over de geconstateerde situatie te bevatten.**
 
-### **1. Inleiding en algemeen beeld**
+### **13. Kwantitatieve informatie**
 
-De omgevingsfactoren die het presteren van het BKWI hebben beïnvloed, dienen hier de revue te passeren.
+Naast het jaarverslag en de tussentijdse verslagen dient SVB periodiek kwantitatieve informatie te verstrekken ten behoeve van verschillende functies, te weten aansturing, beleid, toezicht en financiering, Over de levering van de periodieke kwantitatieve informatie per wet, de maandelijkse kerncijfers, de integrale handhavingsrapportage en de statistische jaarrapportages worden jaarlijks aparte bilaterale afspraken gemaakt.
 
-### **3. Veranderagenda**
+### **14. Toezichtbevindingen**
 
-Er wordt verslag gedaan van de stand van zaken en de belangrijkste ontwikkelingen ten aanzien van ontwikkelings- en reorganisatieprojecten. Hierbij zal met name gedacht moeten worden aan de uitbreiding van de taakinvulling door het BKWI. BKWI legt, zonodig in een bijlage, verantwoording af over de uitputting van de (meerjaren-)projectbegrotingen.
+SVB gaat in het jaarverslag op hoofdlijnen in op de bevindingen van de Inspectie Werk en Inkomen en de Algemene Rekenkamer, en op de naar aanleiding van deze bevindingen genomen maatregelen.
 
 ### **4. Beleidsdoelstellingen**
 
@@ -5403,7 +4873,7 @@ BKWI doet verslag van de uitvoering van het beleid en de geleverde prestaties. H
 
 ### **5. Bedrijfsvoering**
 
-Het BKWI rapporteert over de samenwerking met haar ketenpartners en de ontwikkelingen in de keten van werk en inkomen.
+Doelmatigheid is een begrip dat op verschillende manieren kan worden gedefinieerd.
 
 ### **6. Jaarrekening**
 
@@ -5529,29 +4999,29 @@ De bijlagen III tot en met XVI liggen met ingang van 1 januari 2002 ter inzage i
 
 ### Hoofdstuk 8. Slotbepalingen
 
-**De jaarverantwoording van CWI dient alle navolgende onderwerpen te bevatten. In de kwartaalverslagen doet CWI verslag van de stand van zaken ten aanzien van de onderwerpen genoemd in het jaarplan. De overige hieronder vermelde onderwerpen dienen ook in het kwartaalverslag aan de orde te komen, tenzij er in het betreffende kwartaal geen majeure ontwikkelingen of resultaten te melden zijn. In het kader van de bestuurlijke verantwoording dienen de rapportages ook het oordeel van de Raad van Bestuur over de geconstateerde situatie te bevatten.**
+De planning voor de oplevering van deze producten kan als volgt worden weergegeven.
 
 ### **4. Beleidsdoelstellingen**
 
-### **5. Bedrijfsvoering**
+### **2. Ontwikkelingen grote projecten en W&R-projecten**
 
 ### **6. Jaarrekening**
 
-**Saldo van baten en lasten**
+Baten
 
 ### **6.5.1. Baten**
 
 ### **6.5.2. Lasten**
 
-### b. Beleidsinformatie CWI
+### **10.5 Toelichting op de resultatenrekening CWI**
 
-Wsw-indicatie
+Ten behoeve van het SZW-jaarverslag verstrekt CWI jaarlijks VBTB-informatie.
 
 ## Bijlage VI. , bedoeld in [artikel 5.10a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1a&artikel=5.10a&z=2006-07-09&g=2006-07-09), en [5.12, eerste, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.1&artikel=5.12&z=2006-07-09&g=2006-07-09), van de Regeling SUWI
 
 **De jaarverantwoording van UWV dient alle navolgende onderwerpen te bevatten. In de kwartaalverslagen doet UWV verslag van de stand van zaken ten aanzien van de onderwerpen genoemd in het jaarplan. De overige hieronder vermelde onderwerpen dienen ook in het kwartaalverslag aan de orde te komen, tenzij er in het betreffende kwartaal geen majeure ontwikkelingen of resultaten te melden zijn. In het kader van de bestuurlijke verantwoording dienen de rapportages ook het oordeel van de Raad van Bestuur over de geconstateerde situatie te bevatten.**
 
-### **3. Veranderagenda**
+### **Planning & control producten van UWV**
 
 ### **4. Beleidsdoelstellingen**
 
@@ -5559,35 +5029,35 @@ Wsw-indicatie
 
 ### **6. Jaarrekening**
 
-In verband met de versnelling van de verantwoording is het toegestaan het handelen in het verslagjaar te koppelen aan een jaarschijveninterpretatie. De te hanteren jaarschijf mag niet ouder zijn dan 3 maanden ten opzichte van het kalenderjaar waarop de verantwoording betrekking heeft. Indien de jaarschijven worden aangepast dan dient dit in de jaarrekening te worden vermeld evenals de vergelijkbare cijfers van het voorgaande jaar.
+De SUWI-organisatie rapporteert in het algemeen bij onvolkomenheden in het financieel beheer als die kunnen leiden tot disfunctioneren van het financieel beheer, en/of betrekking hebben op kritieke processen, en/of wijd verbreid zijn, en/of kunnen leiden of hebben geleid tot aanzienlijke risico’s.
 
 ### b. Kwantitatieve informatie per wet
 
-### d. Fondseninformatie
+### **7. Uitvoeringskosten**
 
-### e. Statistische jaarrapportages
+### **Bestuurskosten**
 
-Het gaat hierbij om continuering van bestaande informatieleveringen.
+De indeling in categorieën volgt [Titel 9 Boek 2 BW](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9).
 
 ## Bijlage VIII. , bedoeld in [artikel 5.10a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1a&artikel=5.10a&z=2006-07-09&g=2006-07-09), en [5.12, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.1&artikel=5.12&z=2006-07-09&g=2006-07-09), van de Regeling SUWI
 
 **De jaarverantwoording van de SVB dient alle navolgende onderwerpen te bevatten. In de kwartaalverslagen doet de SVB verslag van de stand van zaken ten aanzien van de onderwerpen genoemd in het jaarplan. De overige hieronder vermelde onderwerpen dienen ook in het kwartaalverslag aan de orde te komen, tenzij er in het betreffende kwartaal geen majeure ontwikkelingen of resultaten te melden zijn. In het kader van de bestuurlijke verantwoording dienen de rapportages ook het oordeel van de Raad van Bestuur over de geconstateerde situatie te bevatten.**
 
-### **4. Beleidsdoelstellingen**
+### **10.4.2. Lasten wettelijke taken naar wet**
 
-### **5. Bedrijfsvoering**
+### **10.4.5 Uitvoeringskosten realisatie / begroot (regulier, projecten)** 1 Mag ook in het jaarverslag worden opgenomen.
 
-### **6. Jaarrekening**
+### [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045)
 
 ### **6.1. Grondslagen waardering en resultaatbepaling**
 
-Met betrekking tot de premiebaten is het toegestaan als waarderingsgrondslag de EMU-definitie te hanteren (één maand verschoven kasbasis). Deze aanpassing dient (eenmalig) in de jaarrekening te worden vermeld, evenals de vergelijkende cijfers.
+UWV gaat in het jaarverslag op hoofdlijnen in op de bevindingen van de Inspectie Werk en Inkomen en de Algemene Rekenkamer, en op de naar aanleiding van deze bevindingen genomen maatregelen.
 
-### b. Kwantitatieve informatie per wet
+### **2. Ontwikkelingen wetsuitvoering en andere taken**
 
-Beleidsinformatie die qua aard, omvang of frequentie van uitvraag niet in deze systematiek meegenomen kon worden, is apart gespecificeerd in de onderdelen c tot en met e van deze bijlage.
+In het jaarplan wordt ook aandacht besteed aan eventuele veranderingen in de taken van de organisatie. Gedacht kan worden aan:
 
-### d. Statistische jaarrapportages
+### **5. Bedrijfsvoering**
 
 Het gaat hierbij om continuering van bestaande rapportages.
 
@@ -5597,13 +5067,13 @@ Het gaat hierbij om continuering van bestaande rapportages.
 
 ### **4. Beleidsdoelstellingen**
 
-### **5. Bedrijfsvoering**
+### **Overmaat**
 
-### **6. Jaarrekening**
+### **10. Jaarrekening**
 
-In verband met de versnelling van de verantwoording is het toegestaan het handelen in het verslagjaar te koppelen aan een jaarschijveninterpretatie. De te hanteren jaarschijf mag niet ouder zijn dan 3 maanden ten opzichte van het kalenderjaar waarop de verantwoording betrekking heeft. Indien de jaarschijven worden aangepast dan dient dit in de jaarrekening te worden vermeld evenals de vergelijkbare cijfers van het voorgaande jaar.
+In de toelichting wordt onder andere ingegaan op:
 
-### **7. Accountantsverklaring en verslag van bevindingen**
+### **10.5.3 Uitvoeringskosten realisatie / begroot (totaal, regulier, speciale projecten)**
 
 De accountant onderzoekt de verantwoording die het management van het IB op grond van de Regeling SUWI heeft uitgebracht. De accountantsverklaring en het verslag van bevindingen zijn nader geregeld in [artikel 5.10b t/m e](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1b&artikel=5.10b&z=2006-07-09&g=2006-07-09) en [bijlage XXI](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XXI&z=2006-07-09&g=2006-07-09) van de Regeling SUWI.
 
@@ -5617,7 +5087,7 @@ De accountant onderzoekt de verantwoording die het management van het IB op gron
 
 ### **6. Jaarrekening**
 
-In verband met de versnelling van de verantwoording is het toegestaan het handelen in het verslagjaar te koppelen aan een jaarschijveninterpretatie. De te hanteren jaarschijf mag niet ouder zijn dan 3 maanden ten opzichte van het kalenderjaar waarop de verantwoording betrekking heeft. Indien de jaarschijven worden aangepast dan dient dit in de jaarrekening te worden vermeld evenals de vergelijkbare cijfer van het voorgaande jaar.
+De accountant gaat in de context van de [Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060) in zijn verslag van bevindingen in op de vraag of het beheer en de organisatie van de rechtspersoon voldoet aan de eisen van doelmatigheid ([artikel 49, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=49)).
 
 ### **7. Accountantsverklaring en verslag van bevindingen**
 
@@ -5741,7 +5211,217 @@ Ligt ter inzage bij het Ministerie van Sociale Zaken en Werkgelegenheid.
 
 ## Bijlage XXIII. betreffende een nadere toelichting op [artikel 5.10c, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1b&artikel=5.10c&z=2008-02-28&g=2008-01-01), en [artikel 5.10e, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1b&artikel=5.10e&z=2008-02-28&g=2008-01-01), van de Regeling
 
+### **b) Doelmatigheid**
+
+Deze regeling zal met de toelichting en de bijlagen, met uitzondering van de bijlagen III tot en met XVI, in de Staatscourant worden geplaatst.
+
+De bijlagen III tot en met XVI liggen met ingang van 1 januari 2002 ter inzage in de bibliotheek van het Ministerie van Sociale Zaken en Werkgelegenheid.
+
+### **4. Bedrijfsvoering**
+
+### **e) Overige onderwerpen bedrijfsvoering**
+
+### **Leegstand**
+
+### **6. Uitvoeringskosten**
+
+### **Bestuurskosten**
+
+### **7. Investeringen per categorie**
+
+### **10.1 Grondslagen waardering en resultaatbepaling**
+
+### **10.2 Balans CWI per 31 december jaar T (met vergelijkende cijfers over jaar T-1)**
+
+Rijksbijdrage (Basisbudget)
+
+### **10.5.1 Baten**
+
+### **10.5.2 Lasten**
+
+### **10.6 Kasstroomoverzicht**
+
+### **11. Accountantsverklaring en verslag van bevindingen**
+
+### **12. VBTB-informatie**
+
+De VBTB-informatie wordt uiterlijk 15 februari opgeleverd.
+
+## Bijlage V
+
+Vervallen
+
+## Bijlage VI. , bedoeld in de [artikelen 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.3&z=2008-02-28&g=2008-02-28), [5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.4&z=2008-02-28&g=2008-02-28), [5.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.10a&z=2008-02-28&g=2008-02-28) en [5.12](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.1&artikel=5.12&z=2008-02-28&g=2008-02-28) van de Regeling SUWI
+
+### **1. Volumeontwikkeling en fondsbelasting**
+
+### **2. Ontwikkelingen wetsuitvoering en andere taken**
+
+### **3. Ontwikkelingen grote projecten en W&R-projecten**
+
+### **4. Ketensamenwerking**
+
+### **5. Bedrijfsvoering**
+
+### **g) Doelmatigheid**
+
+### **h) Totstandkoming niet-financiële informatie (kwaliteit)**
+
+### **i) Financieel Beheer**
+
+UWV rapporteert over ontwikkelingen ten aanzien van de volgende onderwerpen:
+
+UWV rapporteert op dit punt over belangrijke personeelsaangelegenheden, waaronder in ieder geval de personeelsomvang, het personeelsverloop, de sociale plannen en de daarmee gemoeide kosten.
+
+UWV rapporteert over de voortgang, verbetering en vernieuwing van de geautomatiseerde ondersteuning van zowel haar primaire- als ondersteunende processen. Ook de voortgang van projecten ter verbetering van gegevensbeheer en privacybescherming vallen hieronder.
+
+UWV rapporteert in het jaarverslag over de opzet en werking van het stelsel van maatregelen en procedures gericht op het waarborgen van een exclusieve, integere, beschikbare en controleerbare gegevensverwerking, en over het beveiligingsniveau van Suwinet (conform [artikel 5.22](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.4&artikel=5.22&z=2008-02-28&g=2008-02-28) en [6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=6&paragraaf=6.1&artikel=6.4&z=2008-02-28&g=2008-02-28) Regeling SUWI).
+
+### **8. Investeringen per categorie**
+
+### 10.4.6 Baten en lasten naar fonds
+
+### **11. Aansluitingstabel jaarrekeningen UWV – SZW**
+
+### **12. VBTB-informatie t.b.v het SZW-jaarverslag**
+
+### **Tabel VBTB-informatie**
+
+### [ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888)
+
+### **Arbeid en Zorg**
+
+### [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524)
+
+### [WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057)
+
+### **Re-integratie**
+
+### [TW](https://wetten.overheid.nl/jci1.3:c:BWBR0004043)
+
+### [BIA](https://wetten.overheid.nl/jci1.3:c:BWBR0007891)
+
+### [TRI](https://wetten.overheid.nl/jci1.3:c:BWBR0017646)
+
+## Bijlage VII
+
+Vervallen
+
+## Bijlage VIII. , bedoeld in de [artikelen 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.3&z=2008-02-28&g=2008-02-28), [5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.4&z=2008-02-28&g=2008-02-28), [5.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.10a&z=2008-02-28&g=2008-02-28) en [5.12](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.1&artikel=5.12&z=2008-02-28&g=2008-02-28) van de Regeling SUWI
+
+In deze bijlage zijn de informatieproducten gespecificeerd die de SVB periodiek aan SZW dient te verstrekken op grond van [artikel 5.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.10a&z=2008-02-28&g=2008-02-28) en [5.12](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.1&artikel=5.12&z=2008-02-28&g=2008-02-28) van de Regeling SUWI. Het betreft de volgende producten
+
+De SVB levert twee planningsdocumenten op, te weten het meerjarenbeleidsplan en het jaarplan met begroting. De SVB dient zich op verschillende momenten te verantwoorden over de uitvoering van het jaarplan. Deze verantwoording vindt plaats in de tussentijdse verslagen en het jaarverslag. De tussentijdse verslagen worden uiterlijk zes weken na afloop van de verslagperiode aan de minister verstrekt.
+
+Met de fondsennota’s verstrekt de SVB informatie over de volumegegevens, baten en lasten en de vermogenspositie van de door haar beheerde fondsen. De fondsennota’s worden respectievelijk uiterlijk 1 februari, 1 juli en 1 november opgeleverd.
+
+De VBTB-informatie t.b.v. het SZW-jaarverslag betreft een beperkte informatielevering vooruitlopend op het jaarverslag. Deze informatie wordt uiterlijk 15 februari aan SZW geleverd t.b.v. het begrotingsproces en de voorbereiding van de jaarverantwoording van SZW. Dit verslag bevat tevens de prognoses ten aanzien van de prestatie-indicatoren in het kader van de verantwoordingsinformatie, met bijbehorende toelichting, alsmede de prognoses ten aanzien van de budgetuitputting.
+
+In de tussentijdse verslagen en het jaarverslag doet de SVB verslag van de uitvoering van het beleid en de geleverde prestaties. Het jaarplan en de daarin opgenomen prestatie-indicatoren vormen hierbij het uitgangspunt. De uitkomsten van de prestatie-indicatoren in het kader van de verantwoordingsinformatie zoals deze in het jaarplan zijn opgenomen, met bijbehorende toelichting, alsmede de prognoses ten aanzien van de budgetuitputting. Indien van toepassing beschrijft de SVB zoveel als mogelijk de eigen bijdrage aan het behalen van de doelstellingen, en geeft een verklaring als doelstellingen niet worden gehaald en de verbetermaatregelen die zijn/worden genomen.
+
+De SVB doet, in de tussentijdse rapportgages en het jaarverslag, verslag van de uitvoering van het beleid en de geleverde prestaties. Het jaarplan en de daarin opgenomen prestatie-indicatoren vormen hierbij het uitgangspunt. De uitkomsten van de prestatie-indicatoren worden, voorzien van een toelichting, samen met de normen/streefwaarden per wet verantwoord.
+
+Bij onderdeel c. Klantgerichtheid wordt specifiek ingegaan op o.a. klachtenafhandeling, bereikbaarheid en klanttevredenheid.
+
+Daarnaast rapporteert de SVB in haar jaarverslag over de wijze waarop aan cliëntenparticipatie is vormgegeven. De SVB verantwoordt zich over de activiteiten die zijn ondernomen om de dienstverlening aan de klant te handhaven en verbeteren.
+
+Bij onderdeel d. Handhaving wordt specifiek ingegaan op de uitvoering en effecten van het handhavingsbeleid. Naast de onderwerpen die genoemd zijn in het jaarplan, wordt hierbij specifiek ingegaan op de speerpunten van het Handhavingsprogramma en op de realisering van de in het Handhavingsarrangement gemaakte afspraken. Tevens worden opvallende cijfermatige ontwikkelingen toegelicht. De Raad van Bestuur wordt geacht de uitgangspunten die zij hanteert bij het te voeren handhavingsbeleid te expliciteren. Een nadere uitwerking van het aspect handhaving wordt gegeven in de wijziging van de Regeling SUWI in verband met het opnemen van regels inzake de accountantscontrole (Regeling van 18 maart 2005, Stcr. 59).
+
+### **Rechtmatigheid**
+
+Voor wat betreft rechtmatigheid rapporteert de SVB in het 2e tussentijdsverslag over de rechtmatigheidscijfers per wet over het eerste half jaar en in het jaarverslag over de jaarcijfers. Vaststelling van de rechtmatigheid is gekoppeld aan het handelen in het verslagjaar (het handelen omvat mede het ten onrechte niet-handelen) en de fouten die daarbij zijn gevonden. Ingegaan wordt op de wijze waarop met oude fouten is omgegaan. Tevens wordt hierbij inzicht geboden in de uitgevoerde herstelactiviteiten. De wijze waarop de SVB verantwoording dient af te leggen over de rechtmatigheid in het jaarverslag en de jaarrekening, alsmede de wijze waarop de accountant zijn controlewerkzaamheden dient te verrichten, zijn nader uitgewerkt in de [artikelen 5.10b t/m 5.10e](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1b&artikel=5.10b&z=2008-02-28&g=2008-02-28) van de Regeling SUWI en met name in de daarbijbehorende toelichting.
+
+### **Huisvestingskosten**
+
+### **6. Governance**
+
+### **7. Uitvoeringskosten**
+
+In verband met de versnelling van de verantwoording is het toegestaan het handelen in het verslagjaar te koppelen aan een jaarschijveninterpretatie. De te hanteren jaarschijf mag niet ouder zijn dan 3 maanden ten opzichte van het kalenderjaar waarop de verantwoording betrekking heeft. Indien de jaarschijven worden aangepast dan dient dit in de jaarrekening te worden vermeld evenals de vergelijkende cijfers.
+
+Met betrekking tot de premiebaten is het toegestaan als waarderingsgrondslag de EMU-definitie te hanteren (één maand verschoven kasbasis). Deze aanpassing dient (eenmalig) in de jaarrekening te worden vermeld, evenals de vergelijkende cijfers.
+
+### 10.5.4 Saldo van baten en lasten naar fonds (voor zover van toepassing)
+
+### **10.6 Accountantsverklaring en verslag van bevindingen**
+
+De accountant onderzoekt de verantwoording die de Raad van Bestuur van de SVB op grond van de Regeling SUWI heeft uitgebracht. De accountantsverklaring en het verslag van bevindingen zijn nader geregeld in [artikel 5.10b t/m e](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1b&artikel=5.10b&z=2008-02-28&g=2008-02-28) en [bijlage XXI](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XXI&z=2008-02-28&g=2008-02-28) van de Regeling SUWI.
+
+### **12. VBTB-informatie**
+
+Ten behoeve van het SZW-jaarverslag verstrekt de SVB jaarlijks VBTB-informatie. De VBTB-informatie wordt uiterlijk 15 februari opgeleverd.
+
+De informatie die op 15 februari dient te worden aangeleverd, omvat:
+
+De definitieve cijfers worden vervolgens grotendeels opgenomen in het jaarverslag.
+
+Als de levering van voorlopige scores van prestatie-indicatoren niet mogelijk is, zal in onderling overleg tussen SZW en SVB naar een oplossing gezocht worden.
+
+## Bijlage IX
+
+Ligt ter inzage bij het Ministerie van Sociale Zaken en Werkgelegenheid.
+
+## Bijlage X
+
+Niet opgenomen.
+
+## Bijlage XI
+
+Ligt ter inzage bij het Ministerie van Sociale Zaken en Werkgelegenheid.
+
+## Bijlage XII
+
+Ligt ter inzage bij het Ministerie van Sociale Zaken en Werkgelegenheid.
+
+## Bijlage XIII
+
+Ligt ter inzage bij het Ministerie van Sociale Zaken en Werkgelegenheid.
+
+## Bijlage XIV
+
+Ligt ter inzage bij het Ministerie van Sociale Zaken en Werkgelegenheid.
+
+## Bijlage XV
+
+Ligt ter inzage bij het Ministerie van Sociale Zaken en Werkgelegenheid.
+
+## Bijlage XVI
+
+Ligt ter inzage bij het Ministerie van Sociale Zaken en Werkgelegenheid.
+
+## Bijlage XVII
+
+Ligt ter inzage bij het Ministerie van Sociale Zaken en Werkgelegenheid.
+
+## Bijlage XVIII. behorende bij de regeling SUWI, artikel 7.3, zesde lid
+
+Vervallen
+
+## Bijlage XIX. behorende bij de Regeling SUWI, artikel 7.4, eerste lid
+
+Vervallen
+
+## Bijlage XX
+
+Ligt ter inzage bij het Ministerie van Sociale Zaken en Werkgelegenheid.
+
+## Bijlage XXI
+
+Ligt ter inzage bij het Ministerie van Sociale Zaken en Werkgelegenheid.
+
+## Bijlage XXII
+
+Ligt ter inzage bij het Ministerie van Sociale Zaken en Werkgelegenheid.
+
+## Bijlage XXIII. betreffende een nadere toelichting op [artikel 5.10c, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1b&artikel=5.10c&z=2008-02-28&g=2008-02-28), en [artikel 5.10e, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1b&artikel=5.10e&z=2008-02-28&g=2008-02-28), van de Regeling
+
+### **Inleiding**
+
 ### **Definitie doelmatigheid**
+
+De accountant heeft als taak in zijn verslag van bevindingen te rapporteren over de ordelijke en controleerbare totstandkoming van de verantwoording over de doelmatigheid.
+
+De accountant stelt in dit verband ook vast of de organisatie een toetsingskader hanteert dat voldoende rekening houdt met de in deze toelichting benoemde minimumeisen.
 
 Deze regeling zal met de toelichting en de bijlagen, met uitzondering van de bijlagen III tot en met XVI, in de Staatscourant worden geplaatst.
 
