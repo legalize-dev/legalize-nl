@@ -4,7 +4,7 @@ identifier: "BWBR0020608"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2008-01-01"
+last_updated: "2008-03-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020608"
 soort: "wet"
@@ -58,7 +58,7 @@ Wijzigt de Wijziging Elektriciteitswet 1998 en Gaswet in verband met implementat
 
 ##### Artikel IV
 
-1. De rechtspersoon die de vennootschap heeft aangewezen die op het tijdstip van inwerkingtreding van de in [artikel I, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0020608&artikel=I&z=2008-01-01&g=2008-01-01), voorgestelde wijziging van [artikel 10 van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=10) de netbeheerder van het landelijk hoogspanningsnet is, draagt ervoor zorg dat op het tijdstip van inwerkingtreding van de hiervoor bedoelde wijziging de aanwijzing van de netbeheerder van het landelijk hoogspanningsnet mede betrekking heeft op de netten met een spanningsniveau van 110 kV en van 150 kV.
+1. De rechtspersoon die de vennootschap heeft aangewezen die op het tijdstip van inwerkingtreding van de in [artikel I, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0020608&artikel=I&z=2008-03-01&g=2008-03-01), voorgestelde wijziging van [artikel 10 van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=10) de netbeheerder van het landelijk hoogspanningsnet is, draagt ervoor zorg dat op het tijdstip van inwerkingtreding van de hiervoor bedoelde wijziging de aanwijzing van de netbeheerder van het landelijk hoogspanningsnet mede betrekking heeft op de netten met een spanningsniveau van 110 kV en van 150 kV.
 
 2. De in het eerste lid bedoelde wijziging van de aanwijzing als beheerder van het landelijk hoogspanningsnet behoeft de instemming van Onze Minister. [Artikel 12, eerste lid, eerste volzin, van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=12) is van toepassing.
 
@@ -66,13 +66,13 @@ Wijzigt de Wijziging Elektriciteitswet 1998 en Gaswet in verband met implementat
 
 ##### Artikel V
 
-1. In de [artikelen VI tot en met VId](https://wetten.overheid.nl/jci1.3:c:BWBR0020608&artikel=VI&z=2008-01-01&g=2008-01-01) wordt onder overeenkomst verstaan een overeenkomst van huur en verhuur of een soortgelijke overeenkomst met betrekking tot een net waarbij partij is een naar buitenlands recht opgerichte entiteit, of diens rechtsopvolger, en die is gesloten voor 14 juli 2004. Onder rechtsopvolger als bedoeld in de vorige volzin wordt niet begrepen een vennootschap of rechtspersoon naar Nederlands recht die bij het aangaan van de overeenkomst partij was, of een groepsmaatschappij van deze rechtspersoon of vennootschap.
+1. In de [artikelen VI tot en met VId](https://wetten.overheid.nl/jci1.3:c:BWBR0020608&artikel=VI&z=2008-03-01&g=2008-03-01) wordt onder overeenkomst verstaan een overeenkomst van huur en verhuur of een soortgelijke overeenkomst met betrekking tot een net waarbij partij is een naar buitenlands recht opgerichte entiteit, of diens rechtsopvolger, en die is gesloten voor 14 juli 2004. Onder rechtsopvolger als bedoeld in de vorige volzin wordt niet begrepen een vennootschap of rechtspersoon naar Nederlands recht die bij het aangaan van de overeenkomst partij was, of een groepsmaatschappij van deze rechtspersoon of vennootschap.
 
-2. In de [artikelen VI tot en met VId](https://wetten.overheid.nl/jci1.3:c:BWBR0020608&artikel=VI&z=2008-01-01&g=2008-01-01) wordt onder economische eigendom van een net mede verstaan een recht van gebruik van het net op grond van een overeenkomst als bedoeld in het eerste lid en onder degene die de economische eigendom verkrijgt wordt mede verstaan degene die op grond van een overeenkomst als bedoeld in het eerste lid het recht verkrijgt of dient te verkrijgen om het net in bezit te nemen of te gebruiken.
+2. In de [artikelen VI tot en met VId](https://wetten.overheid.nl/jci1.3:c:BWBR0020608&artikel=VI&z=2008-03-01&g=2008-03-01) wordt onder economische eigendom van een net mede verstaan een recht van gebruik van het net op grond van een overeenkomst als bedoeld in het eerste lid en onder degene die de economische eigendom verkrijgt wordt mede verstaan degene die op grond van een overeenkomst als bedoeld in het eerste lid het recht verkrijgt of dient te verkrijgen om het net in bezit te nemen of te gebruiken.
 
-3. In de [artikelen VI tot en met VId](https://wetten.overheid.nl/jci1.3:c:BWBR0020608&artikel=VI&z=2008-01-01&g=2008-01-01) wordt onder net verstaan een net als bedoeld in de [Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755) of een gastransportnet als bedoeld in de [Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440).
+3. In de [artikelen VI tot en met VId](https://wetten.overheid.nl/jci1.3:c:BWBR0020608&artikel=VI&z=2008-03-01&g=2008-03-01) wordt onder net verstaan een net als bedoeld in de [Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755) of een gastransportnet als bedoeld in de [Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440).
 
-4. In de [artikelen VIb](https://wetten.overheid.nl/jci1.3:c:BWBR0020608&artikel=VIb&z=2008-01-01&g=2008-01-01) en [VIc](https://wetten.overheid.nl/jci1.3:c:BWBR0020608&artikel=VIc&z=2008-01-01&g=2008-01-01) wordt onder Onze Minister verstaan Onze Minister van Economische Zaken.
+4. In de [artikelen VIb](https://wetten.overheid.nl/jci1.3:c:BWBR0020608&artikel=VIb&z=2008-03-01&g=2008-03-01) en [VIc](https://wetten.overheid.nl/jci1.3:c:BWBR0020608&artikel=VIc&z=2008-03-01&g=2008-03-01) wordt onder Onze Minister verstaan Onze Minister van Economische Zaken.
 
 ##### Artikel VI
 
@@ -86,11 +86,11 @@ Wijzigt de Wijziging Elektriciteitswet 1998 en Gaswet in verband met implementat
 
 ##### Artikel VIa
 
-1. Het beheer van een net met een spanningsniveau van 110 kV of van 150 kV door de netbeheerder van het landelijk hoogspanningsnet ingevolge de in [artikel I, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0020608&artikel=I&z=2008-01-01&g=2008-01-01), voorgestelde wijziging van [artikel 10, eerste lid, van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=10), geschiedt voor zover dat en op een wijze die in overeenstemming is met de rechten van derden die voortvloeien uit een overeenkomst met betrekking tot dat net.
+1. Het beheer van een net met een spanningsniveau van 110 kV of van 150 kV door de netbeheerder van het landelijk hoogspanningsnet ingevolge de in [artikel I, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0020608&artikel=I&z=2008-03-01&g=2008-03-01), voorgestelde wijziging van [artikel 10, eerste lid, van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=10), geschiedt voor zover dat en op een wijze die in overeenstemming is met de rechten van derden die voortvloeien uit een overeenkomst met betrekking tot dat net.
 
-2. Indien uit een overeenkomst voortvloeit dat met ingang van een datum gelegen na het tijdstip van inwerkingtreding van [artikel I, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0020608&artikel=I&z=2008-01-01&g=2008-01-01), een ander de economische eigendom van een net met een spanningsniveau van 110 kV of van 150 kV verkrijgt dan degene die voor dat tijdstip over de economische eigendom beschikte, wijst degene die de economische eigendom verkrijgt binnen dertien weken na die verkrijging voor het beheer van het desbetreffende deel van het net een naamloze of besloten vennootschap als netbeheerder aan met inachtneming van alle daarvoor bij of krachtens de [Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755) vastgestelde regels.
+2. Indien uit een overeenkomst voortvloeit dat met ingang van een datum gelegen na het tijdstip van inwerkingtreding van [artikel I, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0020608&artikel=I&z=2008-03-01&g=2008-03-01), een ander de economische eigendom van een net met een spanningsniveau van 110 kV of van 150 kV verkrijgt dan degene die voor dat tijdstip over de economische eigendom beschikte, wijst degene die de economische eigendom verkrijgt binnen dertien weken na die verkrijging voor het beheer van het desbetreffende deel van het net een naamloze of besloten vennootschap als netbeheerder aan met inachtneming van alle daarvoor bij of krachtens de [Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755) vastgestelde regels.
 
-3. In een geval als bedoeld in het tweede lid kan een andere vennootschap worden aangewezen dan de netbeheerder van het landelijk hoogspanningsnet. Tenzij zulks afbreuk zou doen aan de rechten van de in [artikel V, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020608&artikel=V&z=2008-01-01&g=2008-01-01), bedoelde partij bij de overeenkomst, zal worden aangewezen een vennootschap waarvan de aandelen van die vennootschap direct of indirect worden gehouden door dan wel waarover de zeggenschap berust bij de netbeheerder van het landelijk hoogspanningsnet. Een aanwijzing als bedoeld in dit lid geschiedt voor een termijn die eindigt op het tijdstip waarop de aanwijzing van de netbeheerder van het landelijk hoogspanningsnet eindigt. Zolang nadien nog een overeenkomst van kracht is, geschiedt een nieuwe aanwijzing overeenkomstig dit artikel.
+3. In een geval als bedoeld in het tweede lid kan een andere vennootschap worden aangewezen dan de netbeheerder van het landelijk hoogspanningsnet. Tenzij zulks afbreuk zou doen aan de rechten van de in [artikel V, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020608&artikel=V&z=2008-03-01&g=2008-03-01), bedoelde partij bij de overeenkomst, zal worden aangewezen een vennootschap waarvan de aandelen van die vennootschap direct of indirect worden gehouden door dan wel waarover de zeggenschap berust bij de netbeheerder van het landelijk hoogspanningsnet. Een aanwijzing als bedoeld in dit lid geschiedt voor een termijn die eindigt op het tijdstip waarop de aanwijzing van de netbeheerder van het landelijk hoogspanningsnet eindigt. Zolang nadien nog een overeenkomst van kracht is, geschiedt een nieuwe aanwijzing overeenkomstig dit artikel.
 
 4. Voor zover ingevolge de toepassing van het tweede of derde lid de netbeheerder van het landelijk hoogspanningsnet of een vennootschap waarin deze de aandelen direct of indirect houdt of waarover deze de zeggenschap heeft, wordt aangewezen als netbeheerder, is de netbeheerder van het landelijk hoogspanningsnet verplicht eraan mee te werken dat de ander bij wie de economische eigendom van een net alsdan berust, een verworven economisch belang in de desbetreffende netten kan behouden.
 
@@ -104,9 +104,9 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VIc
 
-1. Instemming van Onze Minister in de zin van [artikel 93, tweede lid, van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=93) of van [artikel 85, tweede lid, van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=85), is niet vereist voor de overgang van de economische eigendom van een net als bedoeld in de [artikelen VI, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020608&artikel=VI&z=2008-01-01&g=2008-01-01), en [VIa, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020608&artikel=VIa&z=2008-01-01&g=2008-01-01), noch voor de verschaffing van de economische eigendom aan de netbeheerder bij een aanwijzing als bedoeld in [artikel VI, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020608&artikel=VI&z=2008-01-01&g=2008-01-01), of in [artikel VIa, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020608&artikel=VIa&z=2008-01-01&g=2008-01-01), of aan een derde, dan wel voor de overdracht van de aandelen in een aldus aangewezen netbeheerder en evenmin voor de overgang van de eigendom van een net ingevolge een overeenkomst.
+1. Instemming van Onze Minister in de zin van [artikel 93, tweede lid, van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=93) of van [artikel 85, tweede lid, van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=85), is niet vereist voor de overgang van de economische eigendom van een net als bedoeld in de [artikelen VI, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020608&artikel=VI&z=2008-03-01&g=2008-03-01), en [VIa, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020608&artikel=VIa&z=2008-03-01&g=2008-03-01), noch voor de verschaffing van de economische eigendom aan de netbeheerder bij een aanwijzing als bedoeld in [artikel VI, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020608&artikel=VI&z=2008-03-01&g=2008-03-01), of in [artikel VIa, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020608&artikel=VIa&z=2008-03-01&g=2008-03-01), of aan een derde, dan wel voor de overdracht van de aandelen in een aldus aangewezen netbeheerder en evenmin voor de overgang van de eigendom van een net ingevolge een overeenkomst.
 
-2. In het geval van een verschaffing van de economische eigendom als bedoeld in het eerste lid of een aanwijzing als bedoeld in [artikel VI, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020608&artikel=VI&z=2008-01-01&g=2008-01-01), of [artikel VIa, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020608&artikel=VIa&z=2008-01-01&g=2008-01-01), wordt een redelijke termijn als bedoeld in [artikel 14, eerste lid, van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=14) onderscheidenlijk [artikel 6, eerste lid, van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=6) geacht in acht te zijn genomen.
+2. In het geval van een verschaffing van de economische eigendom als bedoeld in het eerste lid of een aanwijzing als bedoeld in [artikel VI, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020608&artikel=VI&z=2008-03-01&g=2008-03-01), of [artikel VIa, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020608&artikel=VIa&z=2008-03-01&g=2008-03-01), wordt een redelijke termijn als bedoeld in [artikel 14, eerste lid, van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=14) onderscheidenlijk [artikel 6, eerste lid, van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=6) geacht in acht te zijn genomen.
 
 3. Indien een vennootschap of rechtspersoon op grond van een overeenkomst het recht heeft om de economische eigendom van het betreffende net te verkrijgen tegen een vaste prijs, wordt een voorgenomen besluit omtrent de uitoefening van de bevoegdheid tot verkrijging tijdig voor de uitvoering daarvan ter kennis gebracht aan Onze Minister.
 
@@ -130,7 +130,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel IXa
 
-1. Kosten, veroorzaakt door handelingen die na 20 maart 2006 zijn verricht, en die voortvloeien uit de gevolgen van een overeenkomst als bedoeld in [artikel V, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020608&artikel=V&z=2008-01-01&g=2008-01-01), met betrekking tot een net als bedoeld in het derde lid van dat artikel of een ander bedrijfsmiddel, worden niet doorberekend in de tarieven die netbeheerders, producenten, handelaren en leveranciers van elektriciteit, gas of warmte hun afnemers in rekening brengen.
+1. Kosten, veroorzaakt door handelingen die na 20 maart 2006 zijn verricht, en die voortvloeien uit de gevolgen van een overeenkomst als bedoeld in [artikel V, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020608&artikel=V&z=2008-03-01&g=2008-03-01), met betrekking tot een net als bedoeld in het derde lid van dat artikel of een ander bedrijfsmiddel, worden niet doorberekend in de tarieven die netbeheerders, producenten, handelaren en leveranciers van elektriciteit, gas of warmte hun afnemers in rekening brengen.
 
 2. Dit onderdeel is nog niet in werking getreden.
 
@@ -146,19 +146,19 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel IXc
 
-1. De raad van bestuur van de mededingingsautoriteit kan, indien hij het vermoeden heeft dat [artikel IXa, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020608&artikel=IXa&z=2008-01-01&g=2008-01-01), niet wordt nageleefd, aan de desbetreffende producenten, handelaren of leveranciers vragen om overlegging van een verklaring van een onafhankelijke deskundige omtrent de wijze waarop de in die leden bedoelde kosten zijn verwerkt.
+1. De raad van bestuur van de mededingingsautoriteit kan, indien hij het vermoeden heeft dat [artikel IXa, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020608&artikel=IXa&z=2008-03-01&g=2008-03-01), niet wordt nageleefd, aan de desbetreffende producenten, handelaren of leveranciers vragen om overlegging van een verklaring van een onafhankelijke deskundige omtrent de wijze waarop de in die leden bedoelde kosten zijn verwerkt.
 
 2. Dit onderdeel is nog niet in werking getreden.
 
-3. De [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=7) en [78 van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=78) en [34](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=34) en [35 van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=35) zijn van toepassing bij de uitvoering van de [artikelen IXa](https://wetten.overheid.nl/jci1.3:c:BWBR0020608&artikel=IXa&z=2008-01-01&g=2008-01-01) en [IXb](https://wetten.overheid.nl/jci1.3:c:BWBR0020608&artikel=IXb&z=2008-01-01&g=2008-01-01).
+3. De [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=7) en [78 van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=78) en [34](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=34) en [35 van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=35) zijn van toepassing bij de uitvoering van de [artikelen IXa](https://wetten.overheid.nl/jci1.3:c:BWBR0020608&artikel=IXa&z=2008-03-01&g=2008-03-01) en [IXb](https://wetten.overheid.nl/jci1.3:c:BWBR0020608&artikel=IXb&z=2008-03-01&g=2008-03-01).
 
-4. Ingeval van overtreding van [artikel IXa, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020608&artikel=IXa&z=2008-01-01&g=2008-01-01), kan de raad van bestuur van de mededingingsautoriteit de overtreder:
+4. Ingeval van overtreding van [artikel IXa, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020608&artikel=IXa&z=2008-03-01&g=2008-03-01), kan de raad van bestuur van de mededingingsautoriteit de overtreder:
 
 - a. een bestuurlijke boete opleggen van ten hoogste 10% van de omzet van de overtreder in het boekjaar voorafgaande aan de beschikking;
 
 - b. een last onder dwangsom opleggen.
 
-5. Ingeval van overtreding van [artikel IXb, eerste tot en met derde lid, vijfde, zesde, zevende of negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020608&artikel=IXb&z=2008-01-01&g=2008-01-01), of het eerste of tweede lid van dit artikel, kan de raad van bestuur van de mededingingsautoriteit de overtreder:
+5. Ingeval van overtreding van [artikel IXb, eerste tot en met derde lid, vijfde, zesde, zevende of negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020608&artikel=IXb&z=2008-03-01&g=2008-03-01), of het eerste of tweede lid van dit artikel, kan de raad van bestuur van de mededingingsautoriteit de overtreder:
 
 - a. een bestuurlijke boete opleggen van ten hoogste € 450 000 of, indien dat meer is, 1% van de omzet van de overtreder in het boekjaar voorafgaande aan de beschikking;
 
@@ -172,7 +172,7 @@ In afwijking van [artikel 41a, eerste lid](https://wetten.overheid.nl/jci1.3:c:B
 
 ##### Artikel Xa
 
-Bij de vaststelling van de tarieven, bedoeld in [artikel 41c, eerste lid, van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=41c) voor het jaar 2008 wordt de formule, vervat in [artikel 41b, eerste lid, onderdeel d, van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=41b), toegepast met een zodanige correctie voor de gevolgen van de wijziging in het beheer van de netten met een spanningsniveau van 110 kV of 150 kV door de in [artikel I, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0020608&artikel=I&z=2008-01-01&g=2008-01-01), voorgestelde wijziging van [artikel 10, eerste lid, van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=10), dat deze wijziging geen gevolgen heeft voor de betrokken netbeheerders anders dan voortvloeit uit de wijziging van het beheer.
+Bij de vaststelling van de tarieven, bedoeld in [artikel 41c, eerste lid, van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=41c) voor het jaar 2008 wordt de formule, vervat in [artikel 41b, eerste lid, onderdeel d, van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=41b), toegepast met een zodanige correctie voor de gevolgen van de wijziging in het beheer van de netten met een spanningsniveau van 110 kV of 150 kV door de in [artikel I, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0020608&artikel=I&z=2008-03-01&g=2008-03-01), voorgestelde wijziging van [artikel 10, eerste lid, van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=10), dat deze wijziging geen gevolgen heeft voor de betrokken netbeheerders anders dan voortvloeit uit de wijziging van het beheer.
 
 ##### Artikel XI
 
@@ -194,6 +194,6 @@ Dit onderdeel is nog niet inwerking getreden
 
 1. De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-2. [Artikel I, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0020608&artikel=I&z=2008-01-01&g=2008-01-01), treedt in werking met ingang van 1 januari 2008.
+2. [Artikel I, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0020608&artikel=I&z=2008-03-01&g=2008-03-01), treedt in werking met ingang van 1 januari 2008.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
