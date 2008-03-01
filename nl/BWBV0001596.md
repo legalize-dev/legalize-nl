@@ -4,7 +4,7 @@ identifier: "BWBV0001596"
 country: "nl"
 rank: "verdrag"
 publication_date: "2008-03-01"
-last_updated: "2002-12-06"
+last_updated: "2008-03-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0001596"
 soort: "verdrag"
@@ -276,7 +276,7 @@ Ter bevordering van de maritieme industrie van de partijen moedigen de partijen 
 
 ##### Artikel 12. Wijziging
 
-Deze overeenkomst kan bij schriftelijke overeenkomst tussen de partijen worden gewijzigd. De wijziging wordt van kracht volgens de procedures van [artikel 15, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001596&artikel=15&z=2002-12-06&g=2002-12-06).
+Deze overeenkomst kan bij schriftelijke overeenkomst tussen de partijen worden gewijzigd. De wijziging wordt van kracht volgens de procedures van [artikel 15, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001596&artikel=15&z=2008-03-01&g=2008-03-01).
 
 ##### Artikel 13. Territoriale toepassing
 
