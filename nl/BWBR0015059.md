@@ -4,7 +4,7 @@ identifier: "BWBR0015059"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-01-01"
-last_updated: "2008-01-01"
+last_updated: "2008-03-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0015059"
 soort: "ministeriele-regeling"
@@ -71,15 +71,15 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 4. Betaling aan de Minister van Binnenlandse Zaken en Koninkrijksrelaties door de individuele waterschappen
 
-De individuele waterschappen betalen aan de Minister van Binnenlandse Zaken en Koninkrijksrelaties uiterlijk op 1 april van het kalenderjaar het op de voet van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0015059&hoofdstuk=2&artikel=3&z=2008-01-01&g=2008-01-01) door hem vastgestelde individuele aandeel van het waterschap in de kosten van de waardering, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015059&hoofdstuk=1&artikel=2&z=2008-01-01&g=2008-01-01), van het besluit.
+De individuele waterschappen betalen aan de Minister van Binnenlandse Zaken en Koninkrijksrelaties uiterlijk op 1 april van het kalenderjaar het op de voet van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0015059&hoofdstuk=2&artikel=3&z=2008-03-02&g=2008-03-02) door hem vastgestelde individuele aandeel van het waterschap in de kosten van de waardering, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015059&hoofdstuk=1&artikel=2&z=2008-03-02&g=2008-03-02), van het besluit.
 
 ### Hoofdstuk 3. Verdeling vergoeding Rijk en waterschappen over de individuele gemeenten
 
 ##### Artikel 5. Verdeling vergoeding over de individuele gemeenten
 
-1. De in artikel 2a van het besluit bedoelde jaarlijkse vergoeding van het Rijk en de waterschappen ter zake van de kosten van de waardering wordt als volgt over de individuele gemeenten verdeeld:
+1. De in [artikel 2a van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&artikel=2a) bedoelde jaarlijkse vergoeding van het Rijk en de waterschappen ter zake van de kosten van de waardering wordt als volgt over de individuele gemeenten verdeeld:
 
-- a. op de gezamenlijke vergoeding van het Rijk en de waterschappen in de kosten van waardering wordt eerst in mindering gebracht een bedrag van € 300 000 dat wordt uitgekeerd aan de Vereniging van Nederlandse Gemeenten ter vergoeding van kosten die samenhangen met verbeteringen op het gebied van kwaliteit en kostenbeheersing bij de uitvoering van de wet;
+- a. op de gezamenlijke vergoeding van het Rijk en de waterschappen in de kosten van waardering wordt eerst in mindering gebracht een bedrag van € 1.000.000 dat wordt uitgekeerd aan de Vereniging van Nederlandse Gemeenten ter vergoeding van kosten die samenhangen met verbeteringen op het gebied van kwaliteit en kostenbeheersing bij de uitvoering van de wet;
 
 - b. het na de vermindering ingevolge onderdeel a overblijvende bedrag wordt over de individuele gemeenten verdeeld, waarbij de hoogte van de vergoeding voor elke individuele gemeente door de Minister van Binnenlandse Zaken en Koninkrijksrelaties als volgt wordt vastgesteld:
 
@@ -113,7 +113,7 @@ A voorstelt: het volgens het eerste lid, onderdeel b, onder 1° en 2°, berekend
 
 ##### Artikel 6. Betaling
 
-1. De Minister van Binnenlandse Zaken en Koninkrijksrelaties verricht uiterlijk op 1 mei van het kalenderjaar de uitbetaling aan elke individuele gemeente van de op de voet van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0015059&hoofdstuk=3&artikel=5&z=2008-01-01&g=2008-01-01) berekende vergoeding voor die gemeente.
+1. De Minister van Binnenlandse Zaken en Koninkrijksrelaties verricht uiterlijk op 1 mei van het kalenderjaar de uitbetaling aan elke individuele gemeente van de op de voet van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0015059&hoofdstuk=3&artikel=5&z=2008-03-02&g=2008-03-02) berekende vergoeding voor die gemeente.
 
 2. Indien een afnemer binnen een termijn van acht weken na de aanvang van het kalenderjaar niet of niet volledig beschikt over een gegevensbestand met verwerkbare gegevens van een gemeente naar de stand van 1 januari van dat kalenderjaar, vindt in afwijking van het eerste lid voor of op 1 mei van dat jaar geen volledige betaling plaats aan die gemeente indien deze afnemer de Minister van Binnenlandse Zaken en Koninkrijksrelaties binnen vier weken direct volgend op genoemde termijn van acht weken schriftelijk verzoekt, met afschrift van dit verzoek aan de Waarderingskamer en de gemeente, om de uitbetaling aan die gemeente gefaseerd te laten plaatsvinden. Bij dit verzoek geeft de desbetreffende afnemer aan hoe hoog het percentage van verwerkbare gegevens is van het gegevensbestand waarover hij beschikt.
 
