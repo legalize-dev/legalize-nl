@@ -4,7 +4,7 @@ identifier: "BWBR0012923"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2007-05-12"
+last_updated: "2008-03-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012923"
 soort: "ministeriele-regeling"
@@ -45,17 +45,17 @@ Besluit:
 
 1. In deze regeling wordt verstaan onder:
 
-- a. **CR:** klassebevoegdverklaring (Class Rating);
+- **CR:** klassebevoegdverklaring (Class Rating);
 
-- b. **FTO:** door de minister gekwalificeerde opleidingsinstelling voor het in delen of een geheel geven van training voor het verkrijgen van bepaalde bewijzen van bevoegdheid en bevoegdverklaringen (Flight Training Organisation);
+- **erkende taalbeoordelingsinstantie:** door Onze Minister met betrekking tot het aanbieden en afnemen van de test ten behoeve van de taalvaardigheidsaantekening erkende opleidingsinstelling;
 
-- c. **geregistreerde opleidingsinstelling:** een door de minister geregistreerde opleidingsinstelling voor het geven van training voor het verkrijgen van bepaalde bewijzen van bevoegdheid en bevoegdverklaringen;
+- **FTO:** door Onze Minister gekwalificeerde opleidingsinstelling voor het in delen of een geheel geven van training voor het verkrijgen van bepaalde bewijzen van bevoegdheid en bevoegdverklaringen (Flight Training Organisation);
 
-- d. **minister:** Minister van Verkeer en Waterstaat;
+- **geregistreerde opleidingsinstelling:** een door Onze Minister geregistreerde opleidingsinstelling voor het geven van training voor het verkrijgen van bepaalde bewijzen van bevoegdheid en bevoegdverklaringen;
 
-- e. **TR:** typebevoegdverklaring (Type Rating);
+- **TR:** typebevoegdverklaring (Type Rating);
 
-- f. **TRTO:** door de minister gekwalificeerde opleidingsinstelling voor het geven van training voor het verkrijgen van een CR, TR en bepaalde bewijzen van bevoegdheid (Type Rating Training Organisation).
+- **TRTO:** door Onze Minister gekwalificeerde opleidingsinstelling voor het geven van training voor het verkrijgen van een CR, TR en bepaalde bewijzen van bevoegdheid (Type Rating Training Organisation).
 
 2. Voor zover in deze regeling achter de aanduiding van een bepaalde bevoegdheid de toevoeging (A), (H) of (E) voorkomt, wordt daaronder verstaan:
 
@@ -71,13 +71,15 @@ Besluit:
 
 ##### Artikel 2
 
-De aanvraag tot registratie of kwalificatie dan wel hernieuwde afgifte van een registratie of kwalificatie wordt gedaan op een daartoe door de minister verstrekt aanvraagformulier.
+De aanvraag tot registratie, kwalificatie of erkenning dan wel hernieuwde afgifte van een registratie, kwalificatie of erkenning wordt gedaan op een daartoe door de minister verstrekt aanvraagformulier.
 
 #### § 2.2. Afgifte
 
 ##### Artikel 3
 
-De minister registreert of kwalificeert op aanvraag een opleidingsinstelling indien de aanvrager voldoet aan de eisen, bedoeld in artikel 10 onderscheidenlijk artikel 11.
+1. Onze Minister registreert of kwalificeert op aanvraag een opleidingsinstelling indien de aanvrager voldoet aan de eisen, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&hoofdstuk=3&artikel=10&z=2008-03-05&g=2008-03-05) onderscheidenlijk [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&hoofdstuk=3&artikel=11&z=2008-03-05&g=2008-03-05).
+
+2. Onze Minister erkent een opleidingsinstelling met betrekking tot het aanbieden en afnemen van de test ten behoeve van de taalvaardigheidsaantekening indien de aanvrager voldoet aan de eis, bedoeld in [artikel 11a](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&hoofdstuk=3&artikel=11a&z=2008-03-05&g=2008-03-05).
 
 ##### Artikel 4
 
@@ -87,21 +89,29 @@ De aanvraag tot registratie of kwalificatie gaat vergezeld van:
 
 - b. voor de registratie van een opleidingsinstelling voor PPL: 1o. overzicht en curriculum vitae van het bij de opleiding betrokken onderwijzend personeel; 2o. beschrijving van de accommodatie en theorie-instructievoorzieningen; 3o. bewijs van beschikbaarheid van luchtvaartuigen, gekwalificeerde STD's, voorzieningen en instructeurs; 4o. naam of model van het trainingshandboek dat wordt gebruikt; 5o. verklaring waarin de aanvrager aangeeft dat de aangeleverde informatie juist is en dat de training zal worden uitgevoerd in overeenstemming met deze regeling;
 
-- c. voor de kwalificatie van een FTO: 1o. gedetailleerd overzicht van de managementstructuur; 2o. overzicht en curriculum vitae van het bij de opleiding betrokken leidinggevend en onderwijzend personeel; 3o. lijst van luchtvaartuigen die voor trainingsdoeleinden worden gebruikt en daaraan gerelateerde documenten; 4o. lijst van (vlieg)velden die voor trainingsdoeleinden worden gebruikt en de daarop aanwezige voorzieningen; 5o. lijst van gekwalificeerde STD's; 6o. beschrijving van de accommodatie en theorie-instructievoorzieningen; 7o. bewijs van beschikbaarheid van luchtvaartuigen die voor trainingsdoeleinden worden gebruikt, gekwalificeerde STD's, voorzieningen en instructeurs; 8o. opleidingsprogramma's en trainingshandboeken corresponderend met de verschillende opleidingen die aangeboden worden; 9o. voorbeeld van het trainingsvoortgangformulier en de beoordelingsformulieren ten behoeve van de voortgang; 10o. operatiehandboek; 11o. beschrijving van het kwaliteitssysteem; 12o. accountantsverklaring inzake de financiële situatie, bedoeld in de Interpretative and Explanatory Material nummer 2 bij JAR-FCL 1.055 en JAR-FCL 2.055;
+- c. indien de registratie van een opleidingsinstelling enkel betrekking heeft op de module RT: 1o. overzicht en curriculum vitae van het bij de opleiding betrokken onderwijzend personeel; 2o. beschrijving van de accommodatie en theorie-instructievoorzieningen; 3o. bewijs van beschikbaarheid van simulatieapparatuur en instructeurs; 4o. exemplaar van de syllabus die wordt gebruikt; 5o. verklaring waarin de aanvrager aangeeft dat de aangeleverde informatie juist is en dat de training zal worden uitgevoerd in overeenstemming met deze regeling;.
 
-- d. voor de kwalificatie van een TRTO: 1o. gedetailleerd overzicht van de managementstructuur, lijst van het aantal stafleden, bevoegd tot het geven van de opleiding voor een TR en het aantal kandidaten; 2o. curriculum vitae van het Hoofd Training; 3o. lijst van typen luchtvaartuigen die voor trainingsdoeleinden worden gebruikt; 4o. lijst van gekwalificeerde STD's; 5o. beschrijving van de accommodatie, theorie-instructievoorzieningen en theorie-examenorganisatie; 6o. bewijs van beschikbaarheid van de vereiste trainingsuitrusting, voorzieningen en instructeurs; 7o. opleidingsprogramma's en trainingshandboeken corresponderend met de verschillende opleidingen die aangeboden worden; 8o. voorbeeld van het trainingsvoortgangformulier en beoordelingsformulieren ten behoeve van de voortgang; 9o. operatiehandboek; 10o. beschrijving van het kwaliteitssysteem; 11o. accountantsverklaring inzake de financiële situatie, bedoeld in de Interpretative and Explanatory Material nummer 2 bij JAR-FCL 1.055 en JAR-FCL 2.055;
+- d. voor de kwalificatie van een FTO: 1o. gedetailleerd overzicht van de managementstructuur; 2o. overzicht en curriculum vitae van het bij de opleiding betrokken leidinggevend en onderwijzend personeel; 3o. lijst van luchtvaartuigen die voor trainingsdoeleinden worden gebruikt en daaraan gerelateerde documenten; 4o. lijst van (vlieg)velden die voor trainingsdoeleinden worden gebruikt en de daarop aanwezige voorzieningen; 5o. lijst van gekwalificeerde STD's; 6o. beschrijving van de accommodatie en theorie-instructievoorzieningen; 7o. bewijs van beschikbaarheid van luchtvaartuigen die voor trainingsdoeleinden worden gebruikt, gekwalificeerde STD's, voorzieningen en instructeurs; 8o. opleidingsprogramma's en trainingshandboeken corresponderend met de verschillende opleidingen die aangeboden worden; 9o. voorbeeld van het trainingsvoortgangformulier en de beoordelingsformulieren ten behoeve van de voortgang; 10o. operatiehandboek; 11o. beschrijving van het kwaliteitssysteem; 12o. accountantsverklaring inzake de financiële situatie, bedoeld in de Interpretative and Explanatory Material nummer 2 bij JAR-FCL 1.055 en JAR-FCL 2.055;
 
-- e. voor de kwalificatie van een opleiding voor een CR voor vliegers van vliegtuigen of een TR voor vliegers van vliegtuigen, een TR voor helikopters, een TR voor boordwerktuigkundigen van een luchtvaartmaatschappij, fabrikant of een individuele instructeur in een bijzonder geval: de in onderdeel d genoemde gegevens, tenzij daar in het JAR-OPS Operations Manual, Part D – Training, al in is voorzien, wat wordt aangetoond door het meesturen van een controlelijst van naleving van de JAR-FCL (compliance checklist).
+- e. voor de kwalificatie van een TRTO: 1o. gedetailleerd overzicht van de managementstructuur, lijst van het aantal stafleden, bevoegd tot het geven van de opleiding voor een TR en het aantal kandidaten; 2o. curriculum vitae van het Hoofd Training; 3o. lijst van typen luchtvaartuigen die voor trainingsdoeleinden worden gebruikt; 4o. lijst van gekwalificeerde STD's; 5o. beschrijving van de accommodatie, theorie-instructievoorzieningen en theorie-examenorganisatie; 6o. bewijs van beschikbaarheid van de vereiste trainingsuitrusting, voorzieningen en instructeurs; 7o. opleidingsprogramma's en trainingshandboeken corresponderend met de verschillende opleidingen die aangeboden worden; 8o. voorbeeld van het trainingsvoortgangformulier en beoordelingsformulieren ten behoeve van de voortgang; 9o. operatiehandboek; 10o. beschrijving van het kwaliteitssysteem; 11o. accountantsverklaring inzake de financiële situatie, bedoeld in de Interpretative and Explanatory Material nummer 2 bij JAR-FCL 1.055 en JAR-FCL 2.055;
+
+- f. voor de kwalificatie van een opleiding voor een CR voor vliegers van vliegtuigen of een TR voor vliegers van vliegtuigen, een TR voor helikopters, een TR voor boordwerktuigkundigen van een luchtvaartmaatschappij, fabrikant of een individuele instructeur in een bijzonder geval: de in onderdeel d genoemde gegevens, tenzij daar in het JAR-OPS Operations Manual, Part D – Training, al in is voorzien, wat wordt aangetoond door het meesturen van een controlelijst van naleving van de JAR-FCL (compliance checklist).
 
 ##### Artikel 5
 
-De geldigheidsduur van een eerste registratie of kwalificatie is ten hoogste een jaar.
+1. De geldigheidsduur van een eerste registratie of kwalificatie is ten hoogste een jaar.
+
+2. De geldigheidsduur van een eerste erkenning met betrekking tot het aanbieden en afnemen van de test ten behoeve van de taalvaardigheidsaantekening is ten minste 6 maanden.
+
+3. In afwijking van het eerste lid wordt een registratie voor onbepaalde tijd verleend, indien de registratie enkel betrekking heeft op de module RT.
 
 #### § 2.3. Opnieuw afgeven
 
 ##### Artikel 6
 
-De minister registreert of kwalificeert op aanvraag een opleidingsinstelling opnieuw voor de termijn, genoemd in de bijlagen bij JAR-FCL 1.055, JAR-FCL 2.055 en JAR-FCL 4.055, indien de aanvrager voldoet aan de eisen, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&hoofdstuk=3&artikel=10&z=2007-05-12&g=2007-05-12), onderscheidenlijk [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&hoofdstuk=3&artikel=11&z=2007-05-12&g=2007-05-12).
+1. Onze Minister registreert of kwalificeert op aanvraag een opleidingsinstelling opnieuw voor de termijn, genoemd in de bijlagen bij JAR-FCL 1.055, JAR-FCL 2.055 en JAR-FCL 4.055, indien de aanvrager voldoet aan de eisen, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&hoofdstuk=3&artikel=10&z=2008-03-05&g=2008-03-05), onderscheidenlijk [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&hoofdstuk=3&artikel=11&z=2008-03-05&g=2008-03-05).
+
+2. Onze Minister verlengt op aanvraag de erkenning van een erkende taalbeoordelingsinstantie indien de aanvrager voldoet aan de eis, bedoeld in [artikel 11a](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&hoofdstuk=3&artikel=11a&z=2008-03-05&g=2008-03-05).
 
 ##### Artikel 7
 
@@ -111,23 +121,27 @@ De aanvraag tot opnieuw registreren of kwalificeren van een opleidingsinstelling
 
 ##### Artikel 8
 
-Een geregistreerde of gekwalificeerde opleidingsinstelling stelt de minister terstond op de hoogte van wijzigingen met betrekking tot bij de aanvraag tot registratie of kwalificatie aan de minister geleverde informatie.
+Een geregistreerde of gekwalificeerde opleidingsinstelling of erkende taalbeoordelingsinstantie stelt Onze Minister terstond op de hoogte van wijzigingen met betrekking tot bij de aanvraag tot registratie, kwalificatie of erkenning aan Onze Minister geleverde informatie.
 
 ##### Artikel 9
 
-1. Wijzigingen in door geregistreerde of gekwalificeerde opleidingsinstellingen aangeboden opleidingen kunnen op aanvraag tussentijds onder de al bestaande registratie of kwalificatie worden gebracht indien de minister met deze wijzigingen instemt.
+1. Wijzigingen in door geregistreerde of gekwalificeerde opleidingsinstellingen aangeboden opleidingen kunnen op aanvraag tussentijds onder de al bestaande registratie of kwalificatie worden gebracht indien Onze Minister met deze wijzigingen instemt.
 
-2. Met betrekking tot het voorgaande lid zijn de artikelen 3 en 4 van overeenkomstige toepassing.
+2. Het eerste lid is van overeenkomstige toepassing op erkende taalbeoordelingsinstanties.
 
-### Hoofdstuk 3. Inhoudelijke eisen voor registratie en kwalificatie
+3. Met betrekking tot het eerste lid zijn de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&hoofdstuk=2&paragraaf=2.2&artikel=3&z=2008-03-05&g=2008-03-05) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&hoofdstuk=2&paragraaf=2.2&artikel=4&z=2008-03-05&g=2008-03-05) van overeenkomstige toepassing.
+
+### Hoofdstuk 3. Inhoudelijke eisen voor registratie, kwalificatie en erkenning
 
 ##### Artikel 10
 
-Voor registratie van een opleidingsinstelling dient de aanvrager aan de volgende eisen te voldoen:
+1. Voor registratie van een opleidingsinstelling dient de aanvrager aan de volgende eisen te voldoen:
 
-- a. wat betreft de opleidingsinstelling: de eisen, bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&bijlage=1&z=2007-05-12&g=2007-05-12) bij deze regeling;
+- a. wat betreft de opleidingsinstelling: de eisen, bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&bijlage=1&z=2008-03-05&g=2008-03-05) bij deze regeling;
 
-- b. wat betreft de aangeboden opleidingen: 1°. voor PPL(A), onderscheidenlijk PPL(H), de eisen, bedoeld in JAR-FCL 1.125, onderscheidenlijk JAR-FCL 2.125; 2°. voor SEP-SPA CR en TMG de eisen, bedoeld in JAR-FCL 1.261; 3°. voor RPL de eisen, bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&bijlage=2&z=2007-05-12&g=2007-05-12) bij deze regeling; 4°. voor RFI de eisen, bedoeld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&bijlage=3&z=2007-05-12&g=2007-05-12) bij deze regeling; 5°. voor TR(H) de eisen, bedoeld in JAR-FCL 2.240.
+- b. wat betreft de aangeboden opleidingen: 1°. voor PPL(A), onderscheidenlijk PPL(H), de eisen, bedoeld in JAR-FCL 1.125, onderscheidenlijk JAR-FCL 2.125; 2°. voor SE-SPA CR de eisen, bedoeld in JAR-FCL 1.261; 3°. voor RPL de eisen, bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&bijlage=2&z=2008-03-05&g=2008-03-05) bij deze regeling; 4°. voor RFI de eisen, bedoeld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&bijlage=3&z=2008-03-05&g=2008-03-05) bij deze regeling; 5°. voor TR(H) de eisen, bedoeld in JAR-FCL 2.240; 6°. voor de module RT de eisen, bedoeld in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&bijlage=4&z=2008-03-05&g=2008-03-05) bij deze regeling.
+
+2. Het eerste lid, onderdeel a, is niet van toepassing op de registratie van een opleidingsinstelling met betrekking tot de module RT.
 
 ##### Artikel 11
 
@@ -135,7 +149,7 @@ Voor kwalificatie van een opleidingsinstelling dient de aanvrager aan de volgend
 
 - a. wat betreft de opleidingsinstelling:
 
-- 1°. voor een FTO onderscheidenlijk TRTO voor vliegtuigen, helikopters, respectievelijk boordwerktuigkundigen: de eisen, bedoeld in JAR-FCL 1.055, JAR-FCL 2.055, onderscheidenlijk JAR-FCL 4.055, met dien verstande dat een accountantsverklaring als bedoeld in [artikel 4, onderdeel c, onder 12° , onderscheidenlijk onderdeel d, onder 11°](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&hoofdstuk=2&paragraaf=2.2&artikel=4&z=2007-05-12&g=2007-05-12), aan de minister is overgelegd;
+- 1°. voor een FTO onderscheidenlijk TRTO voor vliegtuigen, helikopters, respectievelijk boordwerktuigkundigen: de eisen, bedoeld in JAR-FCL 1.055, JAR-FCL 2.055, onderscheidenlijk JAR-FCL 4.055, met dien verstande dat een accountantsverklaring als bedoeld in [artikel 4, onderdeel c, onder 12° , onderscheidenlijk onderdeel d, onder 11°](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&hoofdstuk=2&paragraaf=2.2&artikel=4&z=2008-03-05&g=2008-03-05), aan de minister is overgelegd;
 
 - 2°. indien een luchtvaartmaatschappij een opleiding voor een CR voor vliegers van vliegtuigen of TR voor vliegers van vliegtuigen, helikopters respectievelijk boordwerktuigkundigen verzorgt, voldoet de luchtvaartmaatschappij aan de onderdelen 2(a), 2(b), 4, 5, 6, 12, 14(a), 14(b), 15, 16, 18 tot en met 27 van bijlage 2 bij JAR-FCL 1.055, aan de onderdelen 2(a), 2(b), 4, 5, 6, 12, 14 (a), 14(b), 15, 16, 18 tot en met 27 van bijlage 2 bij JAR-FCL 2.055, respectievelijk aan de onderdelen 2(a), 2(b), 4, 5, 6, 12, 14(a), 14(b), 15, 16, 17, 18 tot en met 27 van bijlage 1 bij JAR-FCL 4.055,
 
@@ -147,7 +161,7 @@ Voor kwalificatie van een opleidingsinstelling dient de aanvrager aan de volgend
 
 - 1°. de opleidingen worden in delen of als geheel aangeboden voor zover dat ingevolge tabel 1a mogelijk is,
 
-- 2°. de opleidingen voldoen aan de relevante eisen, bedoeld in de tabellen 1a, 1b of 2 bij dit artikel of [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&bijlage=2&z=2007-05-12&g=2007-05-12) of [3](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&bijlage=3&z=2007-05-12&g=2007-05-12) bij deze regeling,
+- 2°. de opleidingen voldoen aan de relevante eisen, bedoeld in de tabellen 1a, 1b of 2 bij dit artikel of [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&bijlage=2&z=2008-03-05&g=2008-03-05) of [3](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&bijlage=3&z=2008-03-05&g=2008-03-05) bij deze regeling,
 
 - 3°. de opleidingsinstelling zorgt ervoor dat de aanvrager voor een IR voor vliegtuigen respectievelijk helikopters voldoet aan de eisen, bedoeld in JAR-FCL 1.200, respectievelijk JAR-FCL 2.200.
 
@@ -222,6 +236,10 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met ui
 
 Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat.
 
+## Bijlage 1
+
+Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat.
+
 ## Bijlage 2
 
 Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat.
@@ -230,6 +248,12 @@ Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat.
 
 Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat.
 
+##### Artikel 11a
+
+Voor de erkenning van een opleidingsinstelling met betrekking tot het aanbieden en afnemen van de test ten behoeve van de taalvaardigheidsaantekening, dient de aanvrager te beschikken over een test waarmee de taalvaardigheid, bedoeld in bedoeld in JAR-FCL 1.010 en JAR-FCL 2.010 en Bijlage 1 bij het op 7 december 1944 te Chicago gesloten Verdrag inzake de internationale Burgerluchtvaart (Trb. 1973, 109), kan worden aangetoond.
+
+### Hoofdstuk 4. Slotbepalingen
+
 ## Bijlage 4
 
-Vervallen
+Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat.
