@@ -4,7 +4,7 @@ identifier: "BWBR0007548"
 country: "nl"
 rank: "pbo"
 publication_date: "2024-10-17"
-last_updated: "2008-01-01"
+last_updated: "2008-03-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007548"
 soort: "pbo"
@@ -163,21 +163,21 @@ waarbij Nk gelijk is aan € 63.197,52, Nf de normformatie registerloodsen voor 
 
 2. Het krachtens het eerste lid verkregen bedrag wordt vermeerderd met een forfaitair bedrag ter hoogte van driemaal het uurtarief.
 
-3. Het uurtarief wordt bepaald door de verhouding van Nk, bedoeld in [artikel 2, vierde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0007548&hoofdstuk=II&paragraaf=1&artikel=2&z=2004-04-01&g=2008-01-01), tot een aantal produktieve uren van 1418 per registerloods per kalenderjaar.
+3. Het uurtarief wordt bepaald door de verhouding van Nk, bedoeld in [artikel 2, vierde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0007548&hoofdstuk=II&paragraaf=1&artikel=2&z=2008-03-06&g=2008-03-06), tot een aantal produktieve uren van 1418 per registerloods per kalenderjaar.
 
 4. Indien het traject dat een schip tijdens het loodsen op afstand heeft afgelegd, gelijk is aan het traject dat in geval van een verrichting zou zijn afgelegd, kan de algemene raadhet krachtens het eerste lid vastgestelde bedrag verhogen.
 
 5. Als vaststelling voor de tijdsduur van het loodsen vanaf de wal geldt het door de registerloods ingevulde en ondertekende loodsjournaal, zoals dit is vastgesteld krachtens [artikel 12, eerste lid, van het Voorschriftenbesluit registerloodsen](https://wetten.overheid.nl/jci1.3:c:BWBR0004394&artikel=12).
 
-6. Het uurtarief wordt met inachtneming van [artikel 3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007548&hoofdstuk=II&paragraaf=1&artikel=3&z=2004-04-01&g=2008-01-01), aangepast overeenkomstig de door het Centraal Bureau voor de Statistiek vastgestelde indexcijfers voor regelingslonen.
+6. Het uurtarief wordt met inachtneming van [artikel 3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007548&hoofdstuk=II&paragraaf=1&artikel=3&z=2008-03-06&g=2008-03-06), aangepast overeenkomstig de door het Centraal Bureau voor de Statistiek vastgestelde indexcijfers voor regelingslonen.
 
 ##### Artikel 5
 
-1. Een vergoeding ter hoogte van tweemaal het in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007548&hoofdstuk=II&paragraaf=1&artikel=4&z=2004-04-01&g=2008-01-01), genoemde uurtarief geldt, indien de bestelling van een registerloods om een schip te loodsen in een loodsgebied wordt geannuleerd nadat deze reeds op weg was naar het te loodsen schip. Als vaststelling van een afbestelling geldt het door de registerloods ingevulde en ondertekende loodscertificaat.
+1. Een vergoeding ter hoogte van tweemaal het in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007548&hoofdstuk=II&paragraaf=1&artikel=4&z=2008-03-06&g=2008-03-06), genoemde uurtarief geldt, indien de bestelling van een registerloods om een schip te loodsen in een loodsgebied wordt geannuleerd nadat deze reeds op weg was naar het te loodsen schip. Als vaststelling van een afbestelling geldt het door de registerloods ingevulde en ondertekende loodscertificaat.
 
-2. Per kalenderjaar geldt een procentuele opslag op de vergoeding, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007548&hoofdstuk=II&paragraaf=1&artikel=2&z=2004-04-01&g=2008-01-01); deze wordt berekend volgens de formule ( 5.140.000 : y) x 100%, waarbij y de som van de normkosten van registerloodsen is, welke wordt bepaald door het produkt van de in [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007548&hoofdstuk=II&paragraaf=1&artikel=2&z=2004-04-01&g=2008-01-01), bedoelde normkosten en de som van de normformaties registerloodsen voor alle loodsgebieden.
+2. Per kalenderjaar geldt een procentuele opslag op de vergoeding, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007548&hoofdstuk=II&paragraaf=1&artikel=2&z=2008-03-06&g=2008-03-06); deze wordt berekend volgens de formule ( 5.140.000 : y) x 100%, waarbij y de som van de normkosten van registerloodsen is, welke wordt bepaald door het produkt van de in [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007548&hoofdstuk=II&paragraaf=1&artikel=2&z=2008-03-06&g=2008-03-06), bedoelde normkosten en de som van de normformaties registerloodsen voor alle loodsgebieden.
 
-3. Voor een verrichting ten gevolge van een aanwijzing door de bevoegde autoriteit als bedoeld in [artikel 6, tweede lid, onderdeel b, van het Voorschriftenbesluit registerloodsen](https://wetten.overheid.nl/jci1.3:c:BWBR0004394&artikel=6), waarbij de betreffende registerloods slechts voor dat doel zijn functie aan boord uitoefent, geldt voor elk uur een vergoeding ter hoogte van het in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007548&hoofdstuk=II&paragraaf=1&artikel=4&z=2004-04-01&g=2008-01-01), genoemde uurtarief. Indien de registerloods uitsluitend voor dat doel is besteld wordt het bedrag voor een dergelijke verrichting vermeerderd met een forfaitair bedrag ter hoogte van driemaal het uurtarief.
+3. Voor een verrichting ten gevolge van een aanwijzing door de bevoegde autoriteit als bedoeld in [artikel 6, tweede lid, onderdeel b, van het Voorschriftenbesluit registerloodsen](https://wetten.overheid.nl/jci1.3:c:BWBR0004394&artikel=6), waarbij de betreffende registerloods slechts voor dat doel zijn functie aan boord uitoefent, geldt voor elk uur een vergoeding ter hoogte van het in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007548&hoofdstuk=II&paragraaf=1&artikel=4&z=2008-03-06&g=2008-03-06), genoemde uurtarief. Indien de registerloods uitsluitend voor dat doel is besteld wordt het bedrag voor een dergelijke verrichting vermeerderd met een forfaitair bedrag ter hoogte van driemaal het uurtarief.
 
 #### Paragraaf 2. Aan de corporatie
 
@@ -193,11 +193,11 @@ waarbij Nk gelijk is aan € 63.197,52, Nf de normformatie registerloodsen voor 
 
 1. De bruto-vergoeding uit hoofde van functioneel leeftijdspensioen van een registerloods bedraagt voor de eerste zestig maanden € 58.544,91 op jaarbasis en daarna € 52.103,04 op jaarbasis.
 
-2. De vergoeding wordt toegekend aan de registerloodsen die vóór 1 april 2004 in het register zijn ingeschreven met ingang van de datum van doorhaling in het register krachtens de Inschrijvingsverordening registerloodsen en wordt beëindigd per de eerste van de maand volgend op die waarin de betreffende registerloods de leeftijd van vijfenzestig jaar heeft bereikt. Op de vergoeding wordt in mindering gebracht de uitkering die aan betrokkene is toegekend krachtens de Algemene Arbeidsongeschiktheidswet en/of de [Wet Arbeidsongeschiktheidsverzekering Zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&wetgeving) en het tijdelijk ouderdomspensioen als bedoeld in artikel 27a van het Pensioenreglement 2004 van de Stichting Beroepspensioenfonds Loodsen, alsmede in het laatste geval tevens het bedrag gelijk aan de pensioenpremie die degenen, aan wie vóór 1 april 2004 de vergoeding is toegekend, verschuldigd zijn aan de Stichting Beroepspensioenfonds Loodsen.
+2. De vergoeding wordt toegekend aan de registerloodsen die vóór 1 april 2004 in het register zijn ingeschreven met ingang van de datum van doorhaling in het register krachtens de [Inschrijvingsverordening registerloodsen](https://wetten.overheid.nl/jci1.3:c:BWBR0004383) en wordt beëindigd per de eerste van de maand volgend op die waarin de betreffende registerloods de leeftijd van vijfenzestig jaar heeft bereikt. Op de vergoeding wordt in mindering gebracht de uitkering die aan betrokkene is toegekend krachtens de Algemene Arbeidsongeschiktheidswet of de [Wet Arbeidsongeschiktheidsverzekering Zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&wetgeving) en het tijdelijk ouderdomspensioen als bedoeld in artikel 41 van het Pensioenstatuut 2004 van de Stichting Beroepspensioenfonds Loodsen, alsmede in het laatste geval tevens het bedrag gelijk aan de pensioenpremie die degenen, aan wie vóór 1 april 2004 de vergoeding is toegekend, verschuldigd zijn aan de Stichting Beroepspensioenfonds Loodsen.
 
 3. De rechtspersoon die is belast met de uitkering van het functioneel leeftijdspensioen aan registerloodsen is verplicht de vergoeding, met inachtneming van de vorige leden, volledig uit te keren aan degene die recht heeft op functioneel leeftijdspensioen.
 
-4. Met betrekking tot de vergoeding uit hoofde van functioneel leeftijdspensioen is [artikel 4, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007548&hoofdstuk=II&paragraaf=1&artikel=4&z=2004-04-01&g=2008-01-01), van overeenkomstige toepassing.
+4. Met betrekking tot de vergoeding uit hoofde van functioneel leeftijdspensioen is [artikel 4, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007548&hoofdstuk=II&paragraaf=1&artikel=4&z=2008-03-06&g=2008-03-06), van overeenkomstige toepassing.
 
 5. Indien in het eerste of tweede lid een wijziging wordt aangebracht die inhoudt of tot gevolg heeft een vermindering van de daarin genoemde of bedoelde vergoedingen, een vermindering van de genoemde termijn van zestig maanden dan wel een wijziging wordt aangebracht in de strekking van het vierde of dit lid, geldt deze wijziging voor degenen die op de datum van die wijziging reeds een functioneel leeftijdspensioen hebben, eerst met ingang van de eerste dag van de maand die volgt na honderdtwintig aaneengesloten maanden, te rekenen vanaf de eerste dag van de maand die aansluit op de maand waarin die wijziging is aangebracht.
 
@@ -213,7 +213,7 @@ De vaststelling van de bedragen, de verschuldigdheid daarvan en de maatstaven vo
 
 2. De vergoeding wordt toegekend per de eerste van de maand volgende op de maand, waarin betrokkene de voor hem bij de in het eerste lid bedoelde collectieve arbeidsovereenkomst bepaalde leeftijdsgrens wegens functioneel leeftijdsontslag heeft bereikt, en uit dien hoofde de betreffende arbeidsovereenkomst eindigt, en wordt beëindigd per de eerste van de maand volgende op die, waarin betrokkene de leeftijd van vijfenzestig jaar heeft bereikt.
 
-3. Met betrekking tot de in het eerste lid bedoelde vergoedingen is [artikel 4, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007548&hoofdstuk=II&paragraaf=1&artikel=4&z=2004-04-01&g=2008-01-01), van overeenkomstige toepassing.
+3. Met betrekking tot de in het eerste lid bedoelde vergoedingen is [artikel 4, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007548&hoofdstuk=II&paragraaf=1&artikel=4&z=2008-03-06&g=2008-03-06), van overeenkomstige toepassing.
 
 #### Paragraaf 5. Aan de met het beheer van het bufferfonds belaste rechtspersoon
 
@@ -247,9 +247,9 @@ Deze verordening wordt geplaatst in de Staatscourant en treedt in werking met in
 
 Het loodsgebied, bedoeld in [artikel 1, onderdeel i, van de Financiële verordening Loodswezen](https://wetten.overheid.nl/jci1.3:c:BWBR0007548&hoofdstuk=I&artikel=1&z=2004-04-01&g=2008-01-01) is een van de navolgende:
 
-### B
+### A
 
-Voor de toepassing van de onder A, nrs. 6 tot en met 11, omschreven loodsgebieden worden de navolgende trajectgebieden onderscheiden:
+Het loodsgebied, bedoeld in [artikel 1, onderdeel i, van de Financiële verordening Loodswezen](https://wetten.overheid.nl/jci1.3:c:BWBR0007548&hoofdstuk=I&artikel=1&z=2008-03-06&g=2008-03-06) is een van de navolgende:
 
 **Vastgesteld door de algemene raad van de Nederlandse loodsencorporatie op 12 september 1995.**
 
@@ -257,7 +257,7 @@ Voor de toepassing van de onder A, nrs. 6 tot en met 11, omschreven loodsgebiede
 
 1. Als vaststelling voor de tijdsduur van het loodsen vanaf de wal geldt het door de registerloods ingevulde en ondertekende loodsjournaal, zoals dit is vastgesteld krachtens [artikel 12, eerste lid, van het Voorschriftenbesluit registerloodsen](https://wetten.overheid.nl/jci1.3:c:BWBR0004394&artikel=12).
 
-2. Voor het loodsen vanaf de wal geldt de uurvergoeding als bedoeld in de tot deze verordening behorende [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0007548&bijlage=II&z=2008-05-31&g=2008-01-01) maal de werkelijke tijdsduur van het loodsen vanaf de wal.
+2. Voor het loodsen vanaf de wal geldt de uurvergoeding als bedoeld in de tot deze verordening behorende [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0007548&bijlage=II&z=2008-05-31&g=2008-03-06) maal de werkelijke tijdsduur van het loodsen vanaf de wal.
 
 3. De krachtens het tweede lid verkregen vergoeding wordt vermeerderd met een forfaitair bedrag ter hoogte van driemaal het uurvergoeding.
 
@@ -265,13 +265,13 @@ Voor de toepassing van de onder A, nrs. 6 tot en met 11, omschreven loodsgebiede
 
 1. Als vaststelling van een afbestelling geldt het door de registerloods ingevulde en ondertekende loodscertificaat.
 
-2. Voor elk uur dat de registerloods aan boord is ten gevolge van een aanwijzing door de bevoegde autoriteit als bedoeld in [artikel 6, tweede lid, onderdeel b, van het Voorschriftenbesluit registerloodsen](https://wetten.overheid.nl/jci1.3:c:BWBR0004394&artikel=12), waarbij de betreffende registerloods slechts voor dat doel zijn functie aan boord uitoefent, geldt een vergoeding ter hoogte van het in [artikel 6a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007548&hoofdstuk=II&paragraaf=2&artikel=6a&z=2008-05-31&g=2008-01-01), bedoelde uurvergoeding. Indien de registerloods uitsluitend voor dat doel is besteld wordt het bedrag voor een dergelijke verrichting vermeerderd met een forfaitair bedrag ter hoogte van driemaal dat uurvergoeding.
+2. Voor elk uur dat de registerloods aan boord is ten gevolge van een aanwijzing door de bevoegde autoriteit als bedoeld in [artikel 6, tweede lid, onderdeel b, van het Voorschriftenbesluit registerloodsen](https://wetten.overheid.nl/jci1.3:c:BWBR0004394&artikel=12), waarbij de betreffende registerloods slechts voor dat doel zijn functie aan boord uitoefent, geldt een vergoeding ter hoogte van het in [artikel 6a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007548&hoofdstuk=II&paragraaf=2&artikel=6a&z=2008-05-31&g=2008-03-06), bedoelde uurvergoeding. Indien de registerloods uitsluitend voor dat doel is besteld wordt het bedrag voor een dergelijke verrichting vermeerderd met een forfaitair bedrag ter hoogte van driemaal dat uurvergoeding.
 
 ##### Artikel 6c
 
 De vergoeding voor een in [artikel 4.13 van het Besluit Markttoezicht registerloodsen](https://wetten.overheid.nl/jci1.3:c:BWBR0023123&artikel=4.13) genoemde bijzondere loodsreis is gelijk aan het voor de betreffende bijzondere loodsreis vastgestelde tarief.
 
-#### Paragraaf 2a. Indirect productieve loodstaken
+#### Paragraaf 4. Financiering ondersteunende taken
 
 ##### Artikel 6d
 
@@ -291,7 +291,7 @@ De vergoeding voor een in [artikel 4.13 van het Besluit Markttoezicht registerlo
 
 2. De deelname van registerloodsen aan bij of krachtens de wet ingestelde organen, indien deze deelname voortvloeit uit het zijn van registerloods, wordt vergoed op basis van werkelijke uren.
 
-#### Paragraaf 2b. Aan de corporatie
+#### Paragraaf 5. Aan de met het beheer van het bufferfonds belaste rechtspersoon
 
 ##### Artikel 6g
 
@@ -311,13 +311,49 @@ De vergoeding voor een in [artikel 4.13 van het Besluit Markttoezicht registerlo
 
 Het loodsgebied, bedoeld in [artikel 1, onderdeel i, van de Financiële verordening Loodswezen](https://wetten.overheid.nl/jci1.3:c:BWBR0007548&hoofdstuk=I&artikel=1&z=2008-05-31&g=2008-01-01) is een van de navolgende:
 
-### B
+### A
 
-Voor de toepassing van de onder A, nrs. 6 tot en met 11, omschreven loodsgebieden worden de navolgende trajectgebieden onderscheiden:
+Het loodsgebied, bedoeld in [artikel 1, onderdeel i, van de Financiële verordening Loodswezen](https://wetten.overheid.nl/jci1.3:c:BWBR0007548&hoofdstuk=I&artikel=1&z=2008-05-31&g=2008-03-06) is een van de navolgende:
 
 ## Bijlage I
 
 Ligt vanaf 22 mei 2008 ter inzage bij de Nederlandse Loodsencorporatie, te Pernis-Rotterdam.
+
+## Bijlage II
+
+Ligt vanaf 22 mei 2008 ter inzage bij de Nederlandse Loodsencorporatie, te Pernis-Rotterdam.
+
+## Bijlage I
+
+Ligt vanaf 22 mei 2008 ter inzage bij de Nederlandse Loodsencorporatie, te Pernis-Rotterdam.
+
+**Vastgesteld door de algemene raad van de Nederlandse loodsencorporatie op 12 september 1995.**
+
+##### Artikel 7a
+
+De reserveringen met betrekking tot het functioneel leeftijdspensioen van registerloodsen die moeten plaatsvinden vanuit de jaarlijks werkelijke in rekening gebrachte som van loodsgelden worden door de rechtspersoon die belast is met de uitkering van het leeftijdspensioen aan registerloodsen gestort in een daarvoor bestemd volledig separaat fonds of andere overeenkomstige voorziening.
+
+##### Artikel 8a
+
+De reserveringen met betrekking tot het functioneel leeftijdsontslag die moeten plaatsvinden vanuit de jaarlijks werkelijke in rekening gebrachte som van loodsgelden worden door de organisatie gestort in een daarvoor bestemd volledig separaat fonds of andere overeenkomstige voorziening.
+
+## Bijlage. bij de Financiële verordening Loodswezen, bedoeld in artikel 1, onderdeel i, van deze verordening
+
+### B
+
+Voor de toepassing van de onder A, nrs. 6 tot en met 11, omschreven loodsgebieden worden de navolgende trajectgebieden onderscheiden:
+
+**Vastgesteld door de algemene raad van de Nederlandse loodsencorporatie op 12 september 1995.**
+
+#### Paragraaf 4. Financiering ondersteunende taken
+
+#### Paragraaf 5. Aan de met het beheer van het bufferfonds belaste rechtspersoon
+
+## Bijlage. bij de Financiële verordening Loodswezen, bedoeld in artikel 1, onderdeel i, van deze verordening
+
+### B
+
+Voor de toepassing van de onder A, nrs. 6 tot en met 11, omschreven loodsgebieden worden de navolgende trajectgebieden onderscheiden:
 
 ## Bijlage II
 
