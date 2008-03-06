@@ -4,7 +4,7 @@ identifier: "BWBR0004389"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2008-03-06"
-last_updated: "1992-07-12"
+last_updated: "2008-03-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004389"
 soort: "ministeriele-regeling"
@@ -68,15 +68,15 @@ Van ingekomen stukken bij de algemene raad, waarvan het de bedoeling is dat zij 
 
 ##### Artikel 5
 
-De stukken bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004389&hoofdstuk=1&hoofdstuk=I&artikel=4&z=1992-07-12&g=1992-07-12) dienen ten minste 24 uur voor de aanvang der ledenvergadering in het bezit van de voorzitter of de secretaris te zijn. Later ingekomen stukken worden op de eerstvolgende ledenvergadering vermeld.
+De stukken bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004389&hoofdstuk=1&hoofdstuk=I&artikel=4&z=2008-03-06&g=2008-03-06) dienen ten minste 24 uur voor de aanvang der ledenvergadering in het bezit van de voorzitter of de secretaris te zijn. Later ingekomen stukken worden op de eerstvolgende ledenvergadering vermeld.
 
 ##### Artikel 6
 
-Amendementen en bezwaren van leden en bezwaren van belanghebbenden dienen als zodanig aangeduid uiterlijk drie weken tevoren te worden toegezonden aan de algemene raad.
+Amendementen en zienswijzen van leden en zienswijzen van belanghebbenden dienen als zodanig aangeduid uiterlijk drie weken tevoren te worden toegezonden aan de algemene raad.
 
 ##### Artikel 7
 
-De algemene raad draagt ervoor zorg, dat een afschrift van de amendementen en bezwaren, met advies uiterlijk tien dagen voor de ledenvergadering in het bezit van de leden is.
+De algemene raad draagt ervoor zorg, dat haar schriftelijk reactie op het ingezonden amendement, zienswijze van een lid of zienswijze van belanghebbende, met een afschrift daarvan uiterlijk tien dagen voor de ledenvergadering in het bezit is van de leden en indien de zienswijze door belanghebbende is ingediend, eveneens in het bezit is van belanghebbende.
 
 ##### Artikel 8
 
@@ -196,15 +196,15 @@ De algemene raad geeft op een verzoek om inlichtingen dadelijk mondeling of op e
 
 ##### Artikel 28
 
-De voorzitter kan beslissen dat wordt beraadslaagd over meerdere amendementen of bezwaren tegelijk.
+De voorzitter kan beslissen dat wordt beraadslaagd over meerdere amendementen of zienswijzen tegelijk.
 
 ##### Artikel 29
 
-Amendementen of bezwaren kunnen door de indieners worden ingetrokken tot op het moment van stemming hierover.
+Amendementen of zienswijzen kunnen door de indieners worden ingetrokken tot op het moment van stemming hierover.
 
 ##### Artikel 30
 
-Een ingetrokken amendement of bezwaar kan worden overgenomen en wordt in dat geval eveneens behandeld.
+Een ingetrokken amendement kan worden overgenomen en wordt in dat geval eveneens behandeld.
 
 ##### Artikel 31
 
@@ -282,7 +282,7 @@ Indien bij een voorstel van orde de stemmen staken beslist de voorzitter.
 
 ##### Artikel 47
 
-Stemmen over zaken geschiedt door handopsteken.
+Stemmen over zaken geschiedt elektronisch of door handopsteken.
 
 ##### Artikel 48
 
@@ -300,7 +300,7 @@ Indien in geval van stemmen over zaken de stemmen voor de tweede keer staken, wo
 
 ##### Artikel 51
 
-Stemmen over personen geschiedt schriftelijk op gesloten en ongetekende briefjes.
+Stemmen over één of meerdere personen geschiedt schriftelijk op gesloten en ongetekende briefjes of elektronisch.
 
 ##### Artikel 52
 
@@ -340,11 +340,11 @@ De algemene raad is verplicht aan deze register-accountant alle gewenste inlicht
 
 ##### Artikel 59
 
-De voorzitter draagt ervoor zorg dat de register-accountant, bedoeld in [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0004389&hoofdstuk=2&artikel=57&z=1992-07-12&g=1992-07-12), ter jaarvergadering verslag uit brengt van zijn bevindingen.
+De voorzitter draagt ervoor zorg dat de register-accountant, bedoeld in [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0004389&hoofdstuk=2&artikel=57&z=2008-03-06&g=2008-03-06), ter jaarvergadering verslag uit brengt van zijn bevindingen.
 
 ##### Artikel 60
 
-Indien de ledenvergadering ten aanzien van één of meer punten, bedoeld in [artikel 56](https://wetten.overheid.nl/jci1.3:c:BWBR0004389&hoofdstuk=2&artikel=56&z=1992-07-12&g=1992-07-12), vaststelling weigert, neemt zij al die maatregelen, die zij in het belang van de corporatie noodzakelijk acht.
+Indien de ledenvergadering ten aanzien van één of meer punten, bedoeld in [artikel 56](https://wetten.overheid.nl/jci1.3:c:BWBR0004389&hoofdstuk=2&artikel=56&z=2008-03-06&g=2008-03-06), vaststelling weigert, neemt zij al die maatregelen, die zij in het belang van de corporatie noodzakelijk acht.
 
 ### 3. Overige bepalingen
 
@@ -361,3 +361,29 @@ Deze verordening kan worden aangehaald als ‘Vergaderverordening Nederlandse lo
 Deze regeling treedt in werking met ingang van 1 september 1988.
 
 Deze regeling zal worden geplaatst in de Nederlandse Staatscourant.
+
+##### Artikel 5a
+
+1. Een motie is een voorstel, ondertekend door tenminste 5% van het aantal leden, tot het doen van een uitspraak van de vergadering over een niet geagendeerd onderwerp, dat valt binnen de bij of krachtens de wet geregelde taken en bevoegdheden van de ledenvergadering van de Nederlandse Loodsencorporatie.
+
+2. Ten aanzien van de behandeling van de motie bedoeld in het eerste lid, zijn de artikelen in deze verordening met betrekking tot amendementen van overeenkomstige toepassing.
+
+### Hoofdstuk II. Toegang en presentielijst
+
+### Hoofdstuk III. Aanvang, schorsing en verdaging
+
+### Hoofdstuk IV. Leiding en notulering
+
+### Hoofdstuk V. Beraadslaging
+
+### Hoofdstuk VI. Besluitvorming
+
+#### § 1. Algemene bepalingen
+
+#### § 2. Stemmen over zaken
+
+#### § 3. Stemmen over personen
+
+### 2. De Jaarvergadering
+
+### 3. Overige bepalingen
