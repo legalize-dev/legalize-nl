@@ -1,0 +1,120 @@
+---
+title: "Vennootschapsbelasting en inkomstenbelasting, vrijgestelde beleggingsinstelling"
+identifier: "BWBR0023599"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2025-01-18"
+last_updated: "2008-03-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0023599"
+soort: "beleidsregel"
+stam_id: "9445473"
+version_id: "30561572"
+internal_id: "C43813331"
+label_id: "9423024"
+dtd_version: "2.0"
+original_entry_into_force: "2025-01-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0023599/2025-01-18/0"
+intitule_bron: "Stcrt.2008-49"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-03-10"
+intitule_published: "2008-03-10"
+intitule_in_force: "2008-03-10"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-1741"
+original_signed_date: "2024-11-25"
+original_published_date: "2025-01-17"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2025-1741"
+entry_into_force_date: "2025-01-18"
+jci_1_3: "jci1.3:c:BWBR0023599&z=2025-01-18&g=2025-01-18"
+jci_1_0: "1.0:c:BWBR0023599&g=2025-01-18"
+citeertitel_status: "redactioneel"
+signed_date: "2024-11-25"
+entry_into_force: "2025-01-18"
+---
+# Vennootschapsbelasting en inkomstenbelasting, vrijgestelde beleggingsinstelling
+
+In dit besluit zijn enkele standpunten opgenomen over de toepassing van het regime van de vrijgestelde beleggingsinstelling, alsmede enkele aanwijzingen voor de uitvoering door de Belastingdienst. Bovendien bevat dit besluit twee goedkeuringen.
+
+### 1. Inleiding
+
+Door middel van de Wet van 21 juli 2007, Staatsblad 2007, 269, is met ingang van 1 augustus 2007 in de [Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672) (Wet Vpb 1969) [artikel 6a](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=6a) opgenomen (introductie van de vrijgestelde beleggingsinstelling). Voor beleggingsinstellingen die aan de gestelde voorwaarden voldoen, geldt op verzoek een algehele vrijstelling voor de vennootschapsbelasting. De inspecteur beslist op het verzoek bij beschikking. Doel van de vrijstelling is, Nederland aantrekkelijker te maken voor de vestiging van beleggingsinstellingen.
+
+De vrijstelling stelt blijkens de parlementaire behandeling onder meer de eis, dat sprake moet zijn van collectief beleggen, alsmede van een oogmerk daartoe. Tevens moet de beleggingsinstelling een zogenoemd open-end karakter hebben.
+
+Met dit besluit verstrek ik de belastingdienst praktische richtlijnen ter beantwoording van de vraag, of in een concreet geval aan deze beide eisen wordt voldaan. Voorts is een tweetal goedkeuringen opgenomen. Ten slotte wordt centrale afdoening door de belastingdienst geregeld.
+
+### 2. Geen VBI regime voor situaties van (materieel) individueel vermogensbeheer
+
+In de praktijk wordt het regime ook aangevraagd voor beleggingsvennootschappen van individuele beleggers. Om aan de vereisten voor het VBI regime te voldoen is daarbij dan sprake van een beperkte toetreding, bijvoorbeeld vanuit de familiekring, die soms door middel van een schenking of lening in de gelegenheid wordt gesteld toe te treden. Het kan zijn, dat de individuele belegger de wettelijke vertegenwoordiger is van de beperkte toetreder(s), of dat de beperkte participatie in een huwelijksgemeenschap met de individuele belegger valt. Materieel blijft de situatie echter ongewijzigd. Vanuit het perspectief van de overheersende aandeelhouder blijft sprake van individueel vermogensbeheer. Noch de beleggingen, noch zijn zeggenschap daarover wijzigt (substantieel). De belastingdienst zal dergelijke verzoeken afwijzen.
+
+Deze afwijzing stoelt op de volgende gronden:
+
+a. Het VBI regime is niet bedoeld voor individueel vermogensbeheer
+
+Het VBI regime is bedoeld – voor zover hier van belang – voor beleggingsinstellingen die zich richten tot een breed publiek of tot institutionele beleggers. Het beoogt de positie van de Nederlandse beleggingsinstelling verder te versterken (zie o.a. Tweede Kamer, vergaderjaar 2005–2006, 30 533, nr. 3, blz. 4 en 5). Het VBI regime is dan ook niet bedoeld voor vehikels van individueel vermogensbeheer.
+
+b. Collectief beleggen is hier niet beoogd
+
+Kenmerk van een beleggingsinstelling is dat de deelnemers haar gebruiken als instrument voor collectieve belegging, met het oog op de aan collectieve belegging verbonden schaalvoordelen, zoals grotere risicospreiding, lagere kosten en dergelijke. Daarom eist het VBI regime (o.a.) dat sprake moet zijn van ter collectieve belegging verkregen vermogen ([artikel 6a, eerste lid, van de Wet Vpb 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=6a) jo. [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1)). Aan dit zogenoemde materiële collectiviteitsvereiste wordt niet voldaan bij een beleggingsvennootschap met een overheersende aandeelhouder, indien de overige aandeelhouders slechts zijn bijgezocht om naar de vorm sprake te doen zijn van collectief beleggen. Voor de overheersende aandeelhouder is de vennootschap dan immers geen instrument voor collectieve belegging. Van krachtenbundeling is voor hem geen sprake. Zijn beleggingen ondergaan geen (substantiële) wijziging. Hij verkrijgt geen grotere risicospreiding of andere schaalvoordelen. Er is voor hem geen substantieel verschil met individueel vermogensbeheer. Bij een vennootschap die voor haar overheersende aandeelhouder fungeert als vehikel voor individueel vermogensbeheer is (materieel) geen sprake van ter collectieve belegging verkregen vermogen en wordt hierdoor niet voldaan aan het (materiële) collectiviteitsvereiste.
+
+Dit vloeit voort uit wat ik daarover in de Eerste Kamer heb opgemerkt bij de totstandkoming van [artikel 6a](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=6a):
+
+‘De vraag of in een concreet geval wordt voldaan aan de collectiviteitseis zal worden bepaald door de feitelijke omstandigheden van het geval (…)
+
+Een verhouding van 99% en 1% is echter een bijzondere situatie die zou kunnen leiden tot een andersluidend oordeel. Het lijkt dan alsof die 1% alleen maar is toegevoegd om te voldoen aan de collectiviteitseis. In zijn algemeenheid kan ik echter niet op voorhand stellen dat het in zo’n situatie is uitgesloten dat aan het collectiviteitsvereiste is voldaan. Op zijn zachtst gezegd, is het echter ook niet zeker (…)
+
+Het percentage is namelijk niet het springende punt. Het gaat erom of er een materieel oogmerk is en of de feitelijke omstandigheden duiden op de collectiviteitseis.’ (10 juli 2007 EK 38 38-1245).
+
+c. Het vereiste open-end karakter ontbreekt
+
+Het VBI regime vereist (ook) dat ‘de aandelen of bewijzen van deelgerechtigdheid (rechten van deelneming) op verzoek van de deelnemers ten laste van de activa van de instelling direct of indirect worden ingekocht of terugbetaald.’ ([artikel 6a, eerste lid, van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=6a)). In de bovengeschetste situatie ontbreekt ook dit vereiste open-end karakter. De beperkte toetreding van (veelal) het familielid is een incidentele mutatie. Het kapitaal van de vennootschap ligt in beginsel vast. Verdere mutaties zijn niet beoogd. De vennootschap heeft (feitelijk) geen open-end, maar een closed-end karakter. Ook om deze reden moet het verzoek om toepassing van het VBI regime worden afgewezen.
+
+### 3. Toetsing aan de beleggingseisen
+
+Het VBI regime kan alleen van toepassing zijn indien doel en feitelijke werkzaamheid uitsluitend bestaan uit beleggen in financiële instrumenten, met toepassing van het beginsel van risicospreiding.
+
+Aan de beleggingseisen wordt niet voldaan, indien de beleggingsinstelling direct of indirect een of meer leningen verstrekt aan de vennootschap waarin de niet-beleggingsactiviteiten, bijvoorbeeld na de splitsing, bedoeld onder punt 4 hierna, zijn of worden ondergebracht. Ook een lening aan de aandeelhouder zelf, dan wel aan een particulier, hoe gering van betekenis die lening ook is in het vermogen van de vennootschap, zal leiden tot de conclusie dat niet is voldaan aan de beleggingseisen.
+
+Evenmin wordt aan de beleggingseisen voldaan, indien hetzij activa van de beleggingsinstelling, hetzij aandelen daarin, op enigerlei wijze dienen tot voorwerp van zekerheid voor schulden van de vennootschap, waarin niet-beleggingsactiviteiten, bijvoorbeeld na de splitsing zijn of worden ondergebracht. Dat is een vorm van indirect financieren van andere activiteiten. Ook mag de beleggingsinstelling geen voertuigen bezitten, (mede) bestemd voor gebruik door aandeelhouders, of beleggen in andere waarden dan genoemde financiële instrumenten. Het verstrekken van kredieten aan (andere) ondernemingen, zal van geval tot geval worden beoordeeld aan de hand van de concrete feitelijke omstandigheden.
+
+Het voldoen aan de beleggingseisen acht ik van groot belang. Toetsing dient dan ook geregeld te geschieden.
+
+### 4. Splitsing omwille van het VBI regime kan vrijgesteld plaatsvinden (onder voorwaarden)
+
+In veel gevallen waarin het VBI regime wordt aangevraagd is sprake van een voorafgaande splitsing van bestaande vennootschappen (met geen of niet uitsluitend beleggingsactiviteiten) en wordt verzocht om deze splitsing fiscaal vrijgesteld te mogen uitvoeren. Voor deze vrijstelling is onder andere vereist dat de splitsing niet in overwegende mate is gericht op het ontgaan of uitstellen van belastingheffing (zie o.a. [artikel 3.56, vierde lid, van de Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.56)). Ik keur goed dat een splitsing die enkel gericht is op de verkrijging van de voordelen van het VBI regime niet wordt aangemerkt als een splitsing die gericht is op het ontgaan of uitstellen van belastingheffing (in de zin van onder andere [artikel 3.56, vierde lid, van de Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.56)).
+
+### 5. Goedkeuring voor middellijke belangen in buitenlandse beleggingslichamen
+
+De regeling van het aanmerkelijk belang in de [Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) bepaalt onder andere dat een forfaitair voordeel in aanmerking wordt genomen bij belangen in vrijgestelde beleggingsinstellingen en buitenlandse beleggingslichamen ([artikel 4.13, eerste lid, onderdeel a, van de Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.13)). Wat betreft buitenlandse beleggingslichamen geldt dit (onder omstandigheden) ook indien het belang wordt aangehouden via een in Nederland gevestigde vennootschap ([artikel 4.14, negende lid, van de Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.14)). Deze zogenoemde doorkijkregeling geldt uitdrukkelijk niet voor belangen in vrijgestelde beleggingsinstellingen ([artikel 4.14, tiende lid, van de Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.14)). Volgens de Memorie van toelichting zou anders ‘in enige mate sprake kunnen zijn van overkill’ (Tweede Kamer, vergaderjaar 2005–2006, 30 533, nr. 3, blz. 13). Verwezen wordt daarbij naar het waarderingsvoorschrift van [artikel 3.29a van de Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.29a), dat de Nederlandse vennootschap die het belang houdt in de vrijgestelde beleggingsinstelling verplicht tot waardering van dit belang op de waarde in het economische verkeer.
+
+Gezien deze parlementaire geschiedenis keur ik goed dat de doorkijkregeling van [artikel 4.14, negende lid, van de Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.14) ook niet wordt toegepast op belangen in buitenlandse beleggingslichamen waarvoor het waarderingsvoorschrift van [artikel 3.29a van de Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.29a) ook geldt. Er zijn naar mijn mening geen relevante verschillen tussen samenloop van dit waarderingsvoorschrift en de doorkijkregeling bij de vrijgestelde beleggingsinstelling en bij de buitenlandse beleggingsinstelling.
+
+Naar aanleiding van deze goedkeuring ben ik voornemens een dienovereenkomstig voorstel tot wetswijziging te doen.
+
+### 6. Centrale uitvoering door de Belastingdienst Oost/kantoor Almelo
+
+Ter bevordering van de eenheid van rechtstoepassing en de snelheid van afhandeling wijs ik hierbij voorts de Belastingdienst Oost/kantoor Almelo aan als bevoegde eenheid voor het afgeven van beschikkingen en de beoordeling of na het afgeven van een positieve beschikking aan de eisen wordt voldaan. Alle verzoeken dienen onverwijld aan deze eenheid te worden doorgeleid. Dat geldt ook voor reeds ingediende verzoeken. Dit regiokantoor draagt in overleg de bevoegdheid over aan Belastingdienst/Amsterdam wanneer sprake is van vergunningplicht ingevolge de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) zonder vrijstelling of ontheffing, en daarmee vergelijkbare gevallen. Belastingdienst Oost/kantoor Almelo wijs ik hierbij ook aan als bevoegd, te beslissen op splitsingsverzoeken (zie paragraaf 4 van dit Besluit) die (mede) zijn gericht op het verkrijgen van de VBI-status.
+
+Dit besluit zal in de Staatscourant worden geplaatst.
+
+Dit besluit zal in de Staatscourant worden geplaatst.
+
+### 3. Toetsing aan de beleggingseisen
+
+Aan de beleggingseisen wordt niet voldaan, indien de beleggingsinstelling direct of indirect een of meer leningen verstrekt aan de vennootschap waarin de niet-beleggingsactiviteiten, bijvoorbeeld na de splitsing, bedoeld onder punt 4 hierna, zijn of worden ondergebracht. Ook een lening aan de aandeelhouder zelf, dan wel aan een particulier, hoe gering van betekenis die lening ook is in het vermogen van de vennootschap, zal leiden tot de conclusie dat niet is voldaan aan de beleggingseisen.
+
+Het voldoen aan de beleggingseisen acht ik van groot belang. Toetsing dient dan ook geregeld te geschieden.
+
+### 4. Splitsing omwille van het VBI regime kan vrijgesteld plaatsvinden (onder voorwaarden)
+
+### 5. Centrale uitvoering door de Belastingdienst Grote Ondernemingen Noordoost/kantoor Groningen en Noordwest/kantoor Amsterdam
+
+Ter bevordering van de eenheid van rechtstoepassing en de snelheid van afhandeling wijs ik hierbij de bevoegdheid tot afhandeling van verzoeken en het afgeven van de beschikkingen toe aan de Belastingdienst Grote Ondernemingen Noordoost/kantoor Groningen en de Belastingdienst Grote Ondernemingen Noordwest/kantoor Amsterdam, op de wijze zoals hieronder beschreven.
+
+Indien het verzoek afkomstig is van een partij zonder vergunning ingevolge de Wft, wijs ik de Belastingdienst Grote Ondernemingen Noordoost/kantoor Groningen aan als bevoegd voor de afhandeling en het afgeven van beschikkingen.
+
+De Belastingdienst Grote Ondernemingen Noordoost/kantoor Groningen blijft daarnaast bevoegd om te beslissen op splitsingsverzoeken die (mede) zijn gericht op het verkrijgen van de VBI-status (zie paragraaf 4 van dit Besluit).
+
+Dit besluit zal in de Staatscourant worden geplaatst.
