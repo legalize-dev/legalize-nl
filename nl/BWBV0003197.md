@@ -549,29 +549,3 @@ J.C. DE JAGER
 **For the Government of the Republic of Ghana**
 
 A. AKOTO OSEI
-
-##### Artikel 24a. Recht op voordelen
-
-1. Niettegenstaande de overige bepalingen van dit Verdrag, wordt een voordeel uit hoofde van dit Verdrag niet toegekend met betrekking tot inkomen of vermogenswinsten indien, alle relevante feiten en omstandigheden in aanmerking genomen, redelijkerwijs kan worden geconcludeerd dat het verkrijgen van dit voordeel een van de voornaamste redenen was voor een constructie of transactie die direct of indirect tot dat voordeel heeft geleid, tenzij wordt vastgesteld dat toekenning van dit voordeel onder deze omstandigheden in overeenstemming zou zijn met het voorwerp en doel van de relevante bepalingen van dit Verdrag.
-
-2. Indien een persoon een voordeel uit hoofde van dit Verdrag wordt geweigerd ingevolge het eerste lid, dient de bevoegde autoriteit van de Verdragsluitende Staat die het voordeel anderszins zou hebben toegekend deze persoon desalniettemin te behandelen alsof deze recht heeft op dit voordeel of op andere voordelen ter zake van specifiek inkomen of specifieke vermogenswinsten, indien deze bevoegde autoriteit, op verzoek van deze persoon en na bestudering van de relevante feiten en omstandigheden, vaststelt dat deze voordelen zouden zijn verleend bij het ontbreken van de transactie of constructie bedoeld in het eerste lid.
-
-3. De bevoegde autoriteit van een Verdragsluitende Staat raadpleegt de bevoegde autoriteit van de andere Verdragsluitende Staat alvorens een voordeel uit hoofde van het eerste of tweede lid te weigeren.
-
-### HOOFDSTUK V. BIJZONDERE BEPALINGEN
-
-### HOOFDSTUK VI. SLOTBEPALINGEN
-
-Ter zake van het Verdrag tot het vermijden van dubbele belasting met betrekking tot belastingen naar het inkomen en naar vermogenswinsten en het voorkomen van het ontgaan en ontwijken van belasting, gesloten tussen het Koninkrijk der Nederlanden en de Republiek Ghana, zijn de ondergetekenden overeengekomen dat de volgende bepalingen een integrerend deel van het Verdrag vormen.
-
-IN WITNESS whereof the undersigned, duly authorised thereto, have signed this Convention.
-
-DONE at Accra this 10th day of March 2008, in duplicate, in the English language.
-
-**For the Government of the Kingdom of the Netherlands**
-
-J.C. DE JAGER
-
-**For the Government of the Republic of Ghana**
-
-A. AKOTO OSEI
