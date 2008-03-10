@@ -98,23 +98,3 @@ Naar aanleiding van deze goedkeuring ben ik voornemens een dienovereenkomstig vo
 Ter bevordering van de eenheid van rechtstoepassing en de snelheid van afhandeling wijs ik hierbij voorts de Belastingdienst Oost/kantoor Almelo aan als bevoegde eenheid voor het afgeven van beschikkingen en de beoordeling of na het afgeven van een positieve beschikking aan de eisen wordt voldaan. Alle verzoeken dienen onverwijld aan deze eenheid te worden doorgeleid. Dat geldt ook voor reeds ingediende verzoeken. Dit regiokantoor draagt in overleg de bevoegdheid over aan Belastingdienst/Amsterdam wanneer sprake is van vergunningplicht ingevolge de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) zonder vrijstelling of ontheffing, en daarmee vergelijkbare gevallen. Belastingdienst Oost/kantoor Almelo wijs ik hierbij ook aan als bevoegd, te beslissen op splitsingsverzoeken (zie paragraaf 4 van dit Besluit) die (mede) zijn gericht op het verkrijgen van de VBI-status.
 
 Dit besluit zal in de Staatscourant worden geplaatst.
-
-Dit besluit zal in de Staatscourant worden geplaatst.
-
-### 3. Toetsing aan de beleggingseisen
-
-Aan de beleggingseisen wordt niet voldaan, indien de beleggingsinstelling direct of indirect een of meer leningen verstrekt aan de vennootschap waarin de niet-beleggingsactiviteiten, bijvoorbeeld na de splitsing, bedoeld onder punt 4 hierna, zijn of worden ondergebracht. Ook een lening aan de aandeelhouder zelf, dan wel aan een particulier, hoe gering van betekenis die lening ook is in het vermogen van de vennootschap, zal leiden tot de conclusie dat niet is voldaan aan de beleggingseisen.
-
-Het voldoen aan de beleggingseisen acht ik van groot belang. Toetsing dient dan ook geregeld te geschieden.
-
-### 4. Splitsing omwille van het VBI regime kan vrijgesteld plaatsvinden (onder voorwaarden)
-
-### 5. Centrale uitvoering door de Belastingdienst Grote Ondernemingen Noordoost/kantoor Groningen en Noordwest/kantoor Amsterdam
-
-Ter bevordering van de eenheid van rechtstoepassing en de snelheid van afhandeling wijs ik hierbij de bevoegdheid tot afhandeling van verzoeken en het afgeven van de beschikkingen toe aan de Belastingdienst Grote Ondernemingen Noordoost/kantoor Groningen en de Belastingdienst Grote Ondernemingen Noordwest/kantoor Amsterdam, op de wijze zoals hieronder beschreven.
-
-Indien het verzoek afkomstig is van een partij zonder vergunning ingevolge de Wft, wijs ik de Belastingdienst Grote Ondernemingen Noordoost/kantoor Groningen aan als bevoegd voor de afhandeling en het afgeven van beschikkingen.
-
-De Belastingdienst Grote Ondernemingen Noordoost/kantoor Groningen blijft daarnaast bevoegd om te beslissen op splitsingsverzoeken die (mede) zijn gericht op het verkrijgen van de VBI-status (zie paragraaf 4 van dit Besluit).
-
-Dit besluit zal in de Staatscourant worden geplaatst.
