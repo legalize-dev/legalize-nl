@@ -4,7 +4,7 @@ identifier: "BWBR0012538"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2007-11-22"
+last_updated: "2008-03-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012538"
 soort: "ministeriele-regeling"
@@ -82,9 +82,9 @@ In deze regeling wordt verstaan onder:
 
 3. Voor het volgen van een luchtverkeersroute op vliegniveau 100 en hoger is een luchtvaartuig niet zijnde een staatsluchtvaartuig uitgerust met een installatie die het mogelijk maakt om met RNAV luchtverkeersroutes te vliegen met een afwijking van ten hoogste 5 zeemijlen tijdens ten minste 95% van de vliegtijd en die is toegelaten op basis van JAA Advisory Circular Joint 20X4 ‘Airworthiness Approval and Operational Criteria for the use of Navigation Systems in European Airspace Designated for Basic RNAV Operations’.
 
-4. Voor het naderen van de luchthaven Schiphol in de nachtperiode tussen 23.00 en 06.00 uur plaatselijke tijd is een luchtvaartuig uitgerust met een installatie die het mogelijk maakt om met RNAV naderingsroutes in het naderingsgebied van Schiphol te vliegen met een afwijking van ten hoogste 1 zeemijl tijdens ten minste 95% van de vliegtijd en die is toegelaten op basis van de eisen van Temporary Guidance Leaflet 10 ‘AIRWORTHINESS AND OPERATIONAL APPROVAL FOR PRECISION RNAV OPERATIONS IN DESIGNATED EUROPEAN AIRSPACE’ van de Joint Aviation Authorities of vergelijkbaar document en gecertificeerd is door de nationale bevoegde autoriteit hetgeen blijkt uit vermelding van het nationaliteits- en inschrijvingskenmerk van het desbetreffende luchtvaartuig op de AOC.
+4. Voor het naderen van de luchthaven Schiphol in de nachtperiode tussen 23.00 en 06.30 uur plaatselijke tijd is een luchtvaartuig uitgerust met een installatie die het mogelijk maakt om met RNAV naderingsroutes in het naderingsgebied van Schiphol te vliegen met een afwijking van ten hoogste 1 zeemijl tijdens ten minste 95% van de vliegtijd en die is toegelaten op basis van de eisen van Temporary Guidance Leaflet 10 ‘AIRWORTHINESS AND OPERATIONAL APPROVAL FOR PRECISION RNAV OPERATIONS IN DESIGNATED EUROPEAN AIRSPACE’ van de Joint Aviation Authorities of vergelijkbaar document en gecertificeerd is door de nationale bevoegde autoriteit hetgeen blijkt uit vermelding van het nationaliteits- en inschrijvingskenmerk van het desbetreffende luchtvaartuig op de AOC.
 
-5. De verplichting van het vierde lid geldt niet voor luchtvaartuigen die volgens gepubliceerd schema of origineel vliegplan tussen 06:00 uur en 23:00 uur hadden moeten landen, doch vanwege de hierna te noemen bijzondere en incidentele omstandigheden bij aankomst zijn vertraagd of vervroegd en dit redelijkerwijs kunnen aantonen aan de Minister:
+5. De verplichting van het vierde lid geldt niet voor luchtvaartuigen die volgens gepubliceerd schema of origineel vliegplan tussen 06:30 uur en 23:00 uur hadden moeten landen, doch vanwege de hierna te noemen bijzondere en incidentele omstandigheden bij aankomst zijn vertraagd of vervroegd en dit redelijkerwijs kunnen aantonen aan de Minister:
 
 - a. onverwachte vertragende omstandigheden die op het moment van vertrek redelijkerwijs niet hadden kunnen worden voorzien;
 
@@ -93,6 +93,8 @@ In deze regeling wordt verstaan onder:
 - c. een technische storing van het luchtvaartuig, of van de luchtvaarttechnische gronduitrusting;
 
 - d. extreme meteorologische omstandigheden die een vertraging rechtvaardigen.
+
+6. Op aanvraag kan de Minister besluiten dat het vierde lid tot en met 31 oktober 2008 niet van toepassing is indien de aanvrager in de dienstregeling van 2008 reeds geplande landingstijden gepubliceerd had tussen 06.00 uur en 06.30 uur plaatselijke tijd en niet kan voldoen aan de in het vierde lid gestelde eisen.
 
 ##### Artikel 4
 
@@ -220,7 +222,7 @@ Vervallen
 
 ##### Artikel 14
 
-Handelen in strijd met de [artikelen 2 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0012538&artikel=2&z=2007-11-22&g=2007-11-22) van deze regeling is een strafbaar feit.
+Handelen in strijd met de [artikelen 2 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0012538&artikel=2&z=2008-03-13&g=2008-03-13) van deze regeling is een strafbaar feit.
 
 #### Strafbepaling
 
