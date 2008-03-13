@@ -4,7 +4,7 @@ identifier: "BWBR0013254"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2012-07-01"
-last_updated: "2002-01-01"
+last_updated: "2008-03-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013254"
 soort: "ministeriele-regeling"
@@ -44,15 +44,13 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 2. Bezoldiging
 
-1. De bezoldiging van de voorzitter bedraagt € 8.936,29 bruto per maand.
+1. De bezoldiging van de voorzitter bedraagt € 5351, 92 bruto per maand.
 
-2. De bezoldiging wordt in maandelijkse termijnen uitbetaald.
+2. De voorzitter heeft recht op een vakantie-uitkering overeenkomstig het [Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630).
 
-3. De voorzitter heeft per jaar recht op een vakantie-uitkering ten bedrage van 8% van de door hem genoten bruto bezoldiging, die eenmaal per jaar wordt uitgekeerd.
+3. De voorzitter heeft recht op een eindejaarsuitkering overeenkomstig het [Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630).
 
-4. De voorzitter heeft recht op een eindejaarsuitkering overeenkomstig de eindejaarsuitkering van de sector rijk.
-
-5. Het bedrag, bedoeld het eerste lid, wordt aangepast aan de salarisontwikkeling van rijksambtenaren.
+4. Het bedrag, bedoeld in het eerste lid, wordt aangepast aan de salarisontwikkeling van rijksambtenaren.
 
 ##### Artikel 3. Kostenvergoedingen
 
@@ -60,9 +58,7 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 2. De voorzitter ontvangt een representatievergoeding overeenkomstig het [Besluit vergoeding representatiekosten rijkspersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0006102).
 
-3. De voorzitter ontvangt een tegemoetkoming in de ziektekosten overeenkomstig het [Besluit tegemoetkoming ziektekosten rijkspersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0006855).
-
-4. De voorzitter heeft recht op vergoeding van redelijkerwijs uit hoofde van zijn functie te maken kosten, zulks binnen het geldende fiscale regime.
+3. De voorzitter heeft recht op vergoeding van redelijkerwijs uit hoofde van zijn functie te maken kosten, zulks binnen het geldende fiscale regime.
 
 ##### Artikel 4. Verlof
 
@@ -74,15 +70,9 @@ In geval van ongeschiktheid tot het verrichten van zijn arbeid wegens ziekte, ge
 
 ##### Artikel 6. Ontslag en niet-herbenoeming
 
-1. In geval van niet-herbenoeming of tussentijds ontslag, anders dan op eigen verzoek en anders dan ten gevolge van eigen schuld of toedoen, heeft de voorzitter aanspraak op een uitkering overeenkomstig de [Algemene pensioenwet politieke ambtsdragers](https://wetten.overheid.nl/jci1.3:c:BWBR0002691).
+1. In geval van niet herbenoeming dan wel tussentijds ontslag, anders dan op eigen verzoek en anders dan ten gevolge van eigen schuld of toedoen, heeft de voorzitter in aanvulling op de reguliere aanspraak op een uitkering krachtens de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) aanspraak op een bovenwettelijke uitkering.
 
-2. De uitkering wordt toegekend voor een periode gelijk aan het tijdvak waarin betrokkene zonder onderbreking als voorzitter benoemd is geweest, doch ten minste voor de duur van twee jaren en ten hoogste voor de duur van zes jaren, of indien dit eerder is, tot betrokkene de leeftijd van 65 jaar heeft bereikt of komt te overlijden.
-
-3. De uitkering bedraagt gedurende het eerste jaar 80% en vervolgens 70% van de als voorzitter genoten bruto-bezoldiging, vermeerderd met de vakantie-uitkering.
-
-4. De inkomsten die betrokkene geniet uit of in verband met arbeid of bedrijf die niet reeds werden genoten voor het ontslag worden met de uitkering verrekend. Deze verrekening geschiedt aldus dat de uitkering wordt verminderd met het bedrag waarmee de uitkering, vermeerderd met die inkomsten, de bruto-bezoldiging en de vakantie-uitkering, waarvan de uitkering is afgeleid, overschrijdt.
-
-5. De uitkering wordt in maandelijkse termijnen betaald.
+2. De hoogte en duur van deze uitkering worden vastgesteld overeenkomstig de bepalingen van het [Besluit bovenwettelijke uitkeringen bij werkloosheid voor de sector Rijk](https://wetten.overheid.nl/jci1.3:c:BWBR0008114).
 
 ##### Artikel 7. Functievervulling
 
