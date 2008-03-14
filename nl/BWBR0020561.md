@@ -4,7 +4,7 @@ identifier: "BWBR0020561"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-01"
-last_updated: "2008-01-01"
+last_updated: "2008-03-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020561"
 soort: "ministeriele-regeling"
@@ -54,21 +54,35 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-1. De Minister verstrekt jaarlijks een specifieke uitkering voor de werkelijke kosten van het exploiteren van één behandeleenheid van ten hoogste:
+1. De Minister kan ten behoeve van het jaar 2008 aan de volgende gemeenten een specifieke uitkering van ten hoogste het bij de desbetreffende gemeente genoemde bedrag verstrekken voor de werkelijke kosten van het exploiteren van het bij de desbetreffende gemeente genoemde aantal behandeleenheden met in totaal ten hoogste het bij de desbetreffende gemeente genoemde aantal behandelplaatsen:
 
-- a. € 991.851,– aan de gemeente Amsterdam ten behoeve van ten hoogste 70 behandelplaatsen;
+- a. de gemeente Amsterdam: € 2.256.473,– twee behandeleenheden, 145 behandelplaatsen;
 
-- b. € 836.952,– aan de gemeente Den Haag ten behoeve van ten hoogste 45 behandelplaatsen;
+- b. de gemeente Den Haag: € 1.354.838,– één behandeleenheid, 75 behandelplaatsen;
 
-- c. € 719.114,– aan de gemeente Groningen ten behoeve van ten hoogste 35 behandelplaatsen;
+- c. de gemeente Groningen: € 986.278,– één behandeleenheid, 50 behandelplaatsen;
 
-- d. € 662.831,– aan de gemeente Heerlen ten behoeve van ten hoogste 35 behandelplaatsen;
+- d. de gemeente Heerlen: € 680.956,– één behandeleenheid, 35 behandelplaatsen;
 
-- e. € 991.851,– aan de gemeente Rotterdam ten behoeve van ten hoogste 70 behandelplaatsen;
+- e. de gemeente Rotterdam: € 1.018.973,– één behandeleenheid, 70 behandelplaatsen;
 
-- f. € 836.952,– aan de gemeente Utrecht ten behoeve van ten hoogste 45 behandelplaatsen;
+- f. de gemeente Utrecht: € 859.838,– één behandeleenheid, 45 behandelplaatsen;
 
-vermeerderd met de bijstellingen van de uitkering op grond van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0020561&artikel=6&z=2007-04-19&g=2008-01-01) in de jaren voorafgaand aan het jaar waarvoor de uitkering wordt verstrekt.
+- g. de gemeente Apeldoorn: € 495.000,– één behandeleenheid, 30 behandelplaatsen;
+
+- h. de gemeente Arnhem: € 412.500,– één behandeleenheid, 25 behandelplaatsen;
+
+- i. de gemeente ’s-Hertogenbosch: € 330.000,– één behandeleenheid, 20 behandelplaatsen;
+
+- j. de gemeente Deventer: € 412.500,– één behandeleenheid, 25 behandelplaatsen;
+
+- k. de gemeente Enschede: € 495.000,– één behandeleenheid, 30 behandelplaatsen;
+
+- l. de gemeente Eindhoven: € 412.500,– één behandeleenheid, 25 behandelplaatsen;
+
+- m. de gemeente Leeuwarden: € 412.500,– één behandeleenheid, 25 behandelplaatsen;
+
+- n. de gemeente Maastricht: € 412.500,– één behandeleenheid, 25 behandelplaatsen.
 
 2. Onder werkelijke kosten worden verstaan de exploitatiekosten, gebaseerd op bedrijfseconomische aanvaardbare principes, van een behandeleenheid met uitzondering van de huisvestingskosten.
 
@@ -102,7 +116,7 @@ De uitkering wordt slechts verstrekt voor zover:
 
 ##### Artikel 4
 
-1. De Minister geeft uiterlijk dertien weken vóór de aanvang van het desbetreffende kalenderjaar een beschikking tot verlening van de uitkering.
+1. De Minister geeft uiterlijk vóór de aanvang van het desbetreffende kalenderjaar een beschikking tot verlening van de uitkering.
 
 2. In de beschikking tot verlening van de uitkering wordt het bedrag van de uitkering vermeld dan wel de wijze waarop dit wordt bepaald en welk bedrag ten hoogste zal worden verleend.
 
@@ -138,7 +152,7 @@ Het college van burgemeester en wethouders werkt mee aan door of namens de Minis
 
 ##### Artikel 9
 
-Het college van burgemeester en wethouders werkt mee aan onderzoek van de Centrale Commissie Behandeling Heroïneverslaafden naar de toepassing van de richtlijnen en protocollen, bedoeld in [artikel 3, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0020561&artikel=3&z=2007-04-19&g=2008-01-01).
+Het college van burgemeester en wethouders werkt mee aan onderzoek van de Centrale Commissie Behandeling Heroïneverslaafden naar de toepassing van de richtlijnen en protocollen, bedoeld in [artikel 3, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0020561&artikel=3&z=2008-03-14&g=2008-03-14).
 
 ##### Artikel 10
 
@@ -150,7 +164,7 @@ Het college van burgemeester en wethouders neemt de volgende verantwoordingsinfo
 
 ##### Artikel 11
 
-De Minister geeft binnen zes maanden na ontvangst van de verantwoordingsinformatie, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0020561&artikel=10&z=2007-04-19&g=2008-01-01), een beschikking tot vaststelling van de uitkering. De [artikelen 4:46](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:46), [4:49](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:49), [4:52](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:52), [4:56](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:56) en [4:57 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:57) zijn van overeenkomstige toepassing.
+De Minister geeft binnen zes maanden na ontvangst van de verantwoordingsinformatie, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0020561&artikel=10&z=2008-03-14&g=2008-03-14), een beschikking tot vaststelling van de uitkering. De [artikelen 4:46](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:46), [4:49](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:49), [4:52](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:52), [4:56](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:56) en [4:57 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:57) zijn van overeenkomstige toepassing.
 
 ##### Artikel 12
 
