@@ -4,7 +4,7 @@ identifier: "BWBR0022841"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2008-01-01"
+last_updated: "2008-03-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022841"
 soort: "ministeriele-regeling"
@@ -62,7 +62,7 @@ In deze regeling wordt verstaan onder:
 
 - h. netwerk palliatieve zorg: netwerk ten behoeve van de versterking van de onderlinge samenwerking tussen de bij de palliatieve terminale zorg betrokken organisaties en personen;
 
-- i. netwerkregio: de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&bijlage=1&z=2007-11-21&g=2008-01-01) bij de desbetreffende instelling genoemde gemeenten.
+- i. netwerkregio: de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&bijlage=1&z=2008-03-14&g=2008-03-14) bij de desbetreffende instelling genoemde gemeenten.
 
 ##### Artikel 2
 
@@ -112,7 +112,7 @@ B: het aantal personen waaraan in de referentieperiode door de instelling pallia
 
 C: het totaal aantal personen waaraan in de referentieperiode palliatieve terminale zorg in de thuissituatie is verleend door alle instellingen waaraan een instellingssubsidie voor vrijwillige palliatieve terminale zorg thuis wordt verstrekt;
 
-D: het beschikbare bedrag voor instellingssubsidies voor palliatieve terminale zorg in de thuissituatie zoals bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&paragraaf=2&sub-paragraaf=2.1&artikel=6&z=2007-11-21&g=2008-01-01), in 2008 en 2009 verminderd met respectievelijk 85% en 60% van het bedrag van de instellingssubsidies die aan alle instellingen op grond van de [Regeling terminale en palliatieve zorg 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0020255) is verleend ten behoeve van palliatieve terminale zorg.
+D: het beschikbare bedrag voor instellingssubsidies voor palliatieve terminale zorg in de thuissituatie zoals bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&paragraaf=2&sub-paragraaf=2.1&artikel=6&z=2008-03-14&g=2008-03-14), in 2008 en 2009 verminderd met respectievelijk 85% en 60% van het bedrag van de instellingssubsidies die aan alle instellingen op grond van de [Regeling terminale en palliatieve zorg 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0020255) is verleend ten behoeve van palliatieve terminale zorg.
 
 2. De totale instellingssubsidie verminderd met A bedraagt maximaal € 1.240 per persoon waaraan in de referentieperiode door de instelling palliatieve terminale zorg in de thuissituatie is verleend.
 
@@ -140,7 +140,7 @@ B: het aantal personen waaraan in de referentieperiode door de instelling pallia
 
 C: het totaal aantal personen waaraan in de referentieperiode palliatieve terminale zorg in een bijna-thuis-huis is verleend door alle instellingen waaraan een instellingssubsidie voor thuisverplaatste palliatieve terminale zorg wordt verstrekt;
 
-E: het beschikbare bedrag voor instellingssubsidies voor thuisverplaatste palliatieve terminale zorg in een bijna-thuis-huis zoals bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&paragraaf=2&sub-paragraaf=2.2&artikel=9&z=2007-11-21&g=2008-01-01), in 2008 en 2009 verminderd met respectievelijk 85% en 60% van het bedrag van de instellingssubsidies die aan alle instellingen op grond van de [Regeling terminale en palliatieve zorg 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0020255) is verleend ten behoeve van palliatieve terminale zorg.
+E: het beschikbare bedrag voor instellingssubsidies voor thuisverplaatste palliatieve terminale zorg in een bijna-thuis-huis zoals bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&paragraaf=2&sub-paragraaf=2.2&artikel=9&z=2008-03-14&g=2008-03-14), in 2008 en 2009 verminderd met respectievelijk 85% en 60% van het bedrag van de instellingssubsidies die aan alle instellingen op grond van de [Regeling terminale en palliatieve zorg 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0020255) is verleend ten behoeve van palliatieve terminale zorg.
 
 2. De totale instellingssubsidie verminderd met A bedraagt maximaal € 3.886 per persoon waaraan in de referentieperiode door de instelling palliatieve terminale zorg in een bth is verleend.
 
@@ -168,7 +168,7 @@ B: het aantal personen waaraan in de referentieperiode door de instelling pallia
 
 C: het totaal aantal personen waaraan in de referentieperiode palliatieve terminale zorg in een high care hospice is verleend door alle instellingen waaraan een instellingssubsidie voor palliatieve terminale zorg in een high care hospice wordt verstrekt;
 
-F: het beschikbare bedrag voor instellingssubsidies voor palliatieve terminale zorg in een high care hospice zoals bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&paragraaf=2&sub-paragraaf=2.3&artikel=12&z=2007-11-21&g=2008-01-01), in 2008 en 2009 verminderd met respectievelijk 85% en 60% van het bedrag van de instellingssubsidies die aan alle instellingen op grond van de [Regeling terminale en palliatieve zorg 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0020255) is verleend ten behoeve van palliatieve terminale zorg in een high care hospice.
+F: het beschikbare bedrag voor instellingssubsidies voor palliatieve terminale zorg in een high care hospice zoals bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&paragraaf=2&sub-paragraaf=2.3&artikel=12&z=2008-03-14&g=2008-03-14), in 2008 en 2009 verminderd met respectievelijk 85% en 60% van het bedrag van de instellingssubsidies die aan alle instellingen op grond van de [Regeling terminale en palliatieve zorg 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0020255) is verleend ten behoeve van palliatieve terminale zorg in een high care hospice.
 
 2. De totale instellingssubsidie verminderd met A bedraagt maximaal € 1.115 per persoon waaraan in de referentieperiode door de instelling palliatieve terminale zorg in een high care hospice is verleend.
 
@@ -216,7 +216,7 @@ De ontvanger van een instellingssubsidie voor palliatieve terminale zorg voert e
 
 ##### Artikel 21
 
-De Minister kan jaarlijks aan een in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&bijlage=1&z=2007-11-21&g=2008-01-01) genoemde instelling op aanvraag een instellingssubsidie verstrekken voor de coördinatie van een netwerk palliatieve zorg.
+De Minister kan jaarlijks aan een in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&bijlage=1&z=2008-03-14&g=2008-03-14) genoemde instelling op aanvraag een instellingssubsidie verstrekken voor de coördinatie van een netwerk palliatieve zorg.
 
 ##### Artikel 22
 
@@ -226,9 +226,9 @@ Instellingssubsidies voor een netwerk palliatieve zorg van minder dan € 20.000
 
 1. De instellingssubsidie voor een netwerk palliatieve zorg bestaat uit een door de Minister te bepalen bedrag voor overeenkomstig een door de Minister goedgekeurd activiteitenplan uitgevoerde activiteiten.
 
-2. In afwijking van het eerste lid bestaat een instellingssubsidie als bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&paragraaf=3&artikel=22&z=2007-11-21&g=2008-01-01) uit een bij de subsidievaststelling te bepalen bedrag voor overeenkomstig een door de Minister goedgekeurd activiteitenplan uit te voeren activiteiten.
+2. In afwijking van het eerste lid bestaat een instellingssubsidie als bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&paragraaf=3&artikel=22&z=2008-03-14&g=2008-03-14) uit een bij de subsidievaststelling te bepalen bedrag voor overeenkomstig een door de Minister goedgekeurd activiteitenplan uit te voeren activiteiten.
 
-3. De instellingssubsidie bedraagt ten hoogste het in de [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&bijlage=1&z=2007-11-21&g=2008-01-01) bij de desbetreffende instelling en het desbetreffende jaar genoemde bedrag.
+3. De instellingssubsidie bedraagt ten hoogste het in de [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&bijlage=1&z=2008-03-14&g=2008-03-14) bij de desbetreffende instelling en het desbetreffende jaar genoemde bedrag.
 
 4. De Minister kan het bedrag van de instellingssubsidie voor een netwerk palliatieve zorg bijstellen in geval van een wijziging van de netwerkregio.
 
@@ -248,11 +248,11 @@ De [artikelen 33 tot en met 38](https://wetten.overheid.nl/jci1.3:c:BWBR0019947&
 
 ##### Artikel 27
 
-1. In afwijking van [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&paragraaf=3&artikel=26&z=2007-11-21&g=2008-01-01) zijn de [artikelen 34](https://wetten.overheid.nl/jci1.3:c:BWBR0019947&artikel=34), [42](https://wetten.overheid.nl/jci1.3:c:BWBR0019947&artikel=42), [43](https://wetten.overheid.nl/jci1.3:c:BWBR0019947&artikel=43) en [44 van de Subsidieregeling VWS-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0019947&artikel=44) alsmede de [artikelen 4:64](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:64), [4:68](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:68), [4:70](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:70), [4:74 tot en met 4:80 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:74) niet van toepassing op een instellingssubsidie als bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&paragraaf=3&artikel=22&z=2007-11-21&g=2008-01-01).
+1. In afwijking van [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&paragraaf=3&artikel=26&z=2008-03-14&g=2008-03-14) zijn de [artikelen 34](https://wetten.overheid.nl/jci1.3:c:BWBR0019947&artikel=34), [42](https://wetten.overheid.nl/jci1.3:c:BWBR0019947&artikel=42), [43](https://wetten.overheid.nl/jci1.3:c:BWBR0019947&artikel=43) en [44 van de Subsidieregeling VWS-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0019947&artikel=44) alsmede de [artikelen 4:64](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:64), [4:68](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:68), [4:70](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:70), [4:74 tot en met 4:80 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:74) niet van toepassing op een instellingssubsidie als bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&paragraaf=3&artikel=22&z=2008-03-14&g=2008-03-14).
 
-2. De Minister betaalt een instellingssubsidie als bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&paragraaf=3&artikel=22&z=2007-11-21&g=2008-01-01) als volgt: in januari 8%, februari 8%, maart 8%, april 7%, mei 16%, juni 7%, juli 8%, augustus 8%, september 7%, oktober 8%, november 8% en december 7% van het voor het desbetreffende boekjaar verleende subsidiebedrag.
+2. De Minister betaalt een instellingssubsidie als bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&paragraaf=3&artikel=22&z=2008-03-14&g=2008-03-14) als volgt: in januari 8%, februari 8%, maart 8%, april 7%, mei 16%, juni 7%, juli 8%, augustus 8%, september 7%, oktober 8%, november 8% en december 7% van het voor het desbetreffende boekjaar verleende subsidiebedrag.
 
-3. De ontvanger van een instellingssubsidie als bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&paragraaf=3&artikel=22&z=2007-11-21&g=2008-01-01) legt na afloop van het boekjaar waarvoor instellingssubsidie was verstrekt, een verklaring over waaruit kan worden afgeleid dat de activiteiten waarvoor instellingssubsidie was verstrekt, zijn uitgevoerd.
+3. De ontvanger van een instellingssubsidie als bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&paragraaf=3&artikel=22&z=2008-03-14&g=2008-03-14) legt na afloop van het boekjaar waarvoor instellingssubsidie was verstrekt, een verklaring over waaruit kan worden afgeleid dat de activiteiten waarvoor instellingssubsidie was verstrekt, zijn uitgevoerd.
 
 4. Voor de verklaring, bedoeld in het derde lid, wordt een door de Minister vastgesteld formulier gebruikt.
 
@@ -260,7 +260,7 @@ De [artikelen 33 tot en met 38](https://wetten.overheid.nl/jci1.3:c:BWBR0019947&
 
 De ontvanger van de instellingssubsidie voor een netwerk palliatieve zorg draagt er zorg voor dat:
 
-- a. de coördinatie alle gemeenten omvat, vermeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&bijlage=1&z=2007-11-21&g=2008-01-01) in de netwerkregio van de desbetreffende instelling;
+- a. de coördinatie alle gemeenten omvat, vermeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&bijlage=1&z=2008-03-14&g=2008-03-14) in de netwerkregio van de desbetreffende instelling;
 
 - b. aan een netwerk palliatieve zorg de instellingen en personen deelnemen die beroepsmatig betrokken zijn bij het verlenen van palliatieve zorg in de netwerkregio;
 
@@ -270,15 +270,15 @@ De ontvanger van de instellingssubsidie voor een netwerk palliatieve zorg draagt
 
 ##### Artikel 29
 
-1. In afwijking van de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&paragraaf=2&sub-paragraaf=2.3&artikel=14&z=2007-11-21&g=2008-01-01) en [24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&paragraaf=3&artikel=24&z=2007-11-21&g=2008-01-01), wordt een aanvraag van een instellingssubsidie ten behoeve van het jaar 2008 uiterlijk 15 december 2007 ingediend.
+1. In afwijking van de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&paragraaf=2&sub-paragraaf=2.4&artikel=14&z=2008-03-14&g=2008-03-14) en [24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&paragraaf=3&artikel=24&z=2008-03-14&g=2008-03-14), wordt een aanvraag van een instellingssubsidie ten behoeve van het jaar 2008 uiterlijk 15 december 2007 ingediend.
 
-2. In afwijking van de [artikelen 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&paragraaf=2&sub-paragraaf=2.3&artikel=19&z=2007-11-21&g=2008-01-01), en [27, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&paragraaf=3&artikel=27&z=2007-11-21&g=2008-01-01), van deze regeling en [artikel 34 van de Subsidieregeling VWS-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0019947&artikel=34) kan de Minister na ontvangst van een aanvraag van een instellingssubsidie in januari en februari 2008 aan de instelling een voorschot verstrekken.
+2. In afwijking van de [artikelen 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&paragraaf=2&sub-paragraaf=2.4&artikel=19&z=2008-03-14&g=2008-03-14), en [27, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&paragraaf=3&artikel=27&z=2008-03-14&g=2008-03-14), van deze regeling en [artikel 34 van de Subsidieregeling VWS-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0019947&artikel=34) kan de Minister na ontvangst van een aanvraag van een instellingssubsidie in januari en februari 2008 aan de instelling een voorschot verstrekken.
 
-3. In afwijking van [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&paragraaf=2&sub-paragraaf=2.3&artikel=17&z=2007-11-21&g=2008-01-01), van deze regeling en [artikel 33 van de Subsidieregeling VWS-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0019947&artikel=33) geeft de Minister uiterlijk 1 maart 2008 een beschikking op een aanvraag van een instellingssubsidie ten behoeve van het jaar 2008.
+3. In afwijking van [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&paragraaf=2&sub-paragraaf=2.4&artikel=17&z=2008-03-14&g=2008-03-14), van deze regeling en [artikel 33 van de Subsidieregeling VWS-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0019947&artikel=33) geeft de Minister uiterlijk 1 maart 2008 een beschikking op een aanvraag van een instellingssubsidie ten behoeve van het jaar 2008.
 
-4. In afwijking van [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&paragraaf=2&sub-paragraaf=2.3&artikel=19&z=2007-11-21&g=2008-01-01), betaalt de Minister in maart 2008 24% van het bedrag van de instellingssubsidie voor palliatieve terminale zorg onder verrekening van een in januari en februari 2008 aan de instelling verstrekt voorschot op de instellingssubsidie.
+4. In afwijking van [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&paragraaf=2&sub-paragraaf=2.4&artikel=19&z=2008-03-14&g=2008-03-14), betaalt de Minister in maart 2008 24% van het bedrag van de instellingssubsidie voor palliatieve terminale zorg onder verrekening van een in januari en februari 2008 aan de instelling verstrekt voorschot op de instellingssubsidie.
 
-5. In afwijking van [artikel 27, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&paragraaf=3&artikel=27&z=2007-11-21&g=2008-01-01), van deze regeling en [artikel 34 van de Subsidieregeling VWS-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0019947&artikel=34) verstrekt de Minister in februari 2008 een voorschot van 24% op het bedrag van de verleende instellingssubsidie voor een netwerk palliatieve zorg onder vermindering van een in januari en februari 2008 aan de instelling verstrekt voorschot op de instellingssubsidie.
+5. In afwijking van [artikel 27, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&paragraaf=3&artikel=27&z=2008-03-14&g=2008-03-14), van deze regeling en [artikel 34 van de Subsidieregeling VWS-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0019947&artikel=34) verstrekt de Minister in februari 2008 een voorschot van 24% op het bedrag van de verleende instellingssubsidie voor een netwerk palliatieve zorg onder vermindering van een in januari en februari 2008 aan de instelling verstrekt voorschot op de instellingssubsidie.
 
 ##### Artikel 30
 
@@ -371,7 +371,7 @@ Deze regeling wordt aangehaald als: Regeling palliatieve terminale zorg.
 | Voorne-Putten Rozenburg | Stichting palliatieve zorg te Dirksland | Bernisse, Brielle, Hellevoetsluis, Rozenburg, Spijkenisse en Westvoorne. | € 41.354 | € 34.102 | € 34.102 |
 | Walcheren | Stichting Zorgstroom | Middelburg, Veere en Vlissingen | € 23.064 | € 23.064 | € 23.064 |
 | Weert | Stichting Land van Horne & Zorgketen Land van Weert | Cranendonck (voor ½), Leudal (voor 1/5), Nederweert en Weert. | € 16.414 | € 16.414 | € 16.414 |
-| West-Achterhoek | Stichting Slingeland Ziekenhuis | Aalten (voor ½), Bronckhorst (voor ½), Doesburg (voor ½), Doetinchem, Montferland (voor ½) en Oude IJsselstreek. | € 26.705 | € 26.705 | € 26.705 |
+| West-Achterhoek | Stichting Slingeland Ziekenhuis | Aalten (voor ½), Bronckhorst (voor ½), Doesburg (voor ½), Doetinchem, Montferland (voor ½) en Oude IJsselstreek (voor ½). | € 26.705 | € 26.705 | € 26.705 |
 | West-Friesland | Stichting TRAFO | Andijk, Drechterland, Enkhuizen, Hoorn, Koggenland, Medemblik, Opmeer, Stede Broec, Wervershoof en Zeevang (voor ½). | € 41.028 | € 41.028 | € 41.028 |
 | Westelijke Mijnstreek | Thuiszorg Westelijke Mijnstreek | Beek, Schinnen, Sittard-Geleen en Stein | € 30.837 | € 30.837 | € 30.837 |
 | Zaanstreek Waterland | Stichting Evean Zorg | Beemster, Edam-Volendam, Landsmeer, Oostzaan, Purmerend, Waterland, Wormerland, Zaanstad en Zeevang (voor ½). | € 62.998 | € 62.998 | € 62.998 |
