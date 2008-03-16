@@ -4,7 +4,7 @@ identifier: "BWBR0023668"
 country: "nl"
 rank: "pbo"
 publication_date: "2008-03-16"
-last_updated: "2008-01-01"
+last_updated: "2008-03-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023668"
 soort: "pbo"
@@ -84,13 +84,13 @@ Deze verordening verstaat onder:
 
 ##### Artikel 3
 
-De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023668&paragraaf=2&artikel=2&z=2008-03-16&g=2008-01-01) bedoelde heffing is bestemd voor het Fonds zaaizaad van granen, peulvruchten en andere gewassen 2003.
+De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023668&paragraaf=2&artikel=2&z=2008-03-16&g=2008-03-16) bedoelde heffing is bestemd voor het Fonds zaaizaad van granen, peulvruchten en andere gewassen 2003.
 
 #### § 3. Ambtshalve heffing
 
 ##### Artikel 4
 
-1. Indien de ondernemer de gegevens, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023668&paragraaf=2&artikel=2&z=2008-03-16&g=2008-01-01) niet, niet tijdig of naar het oordeel van de secretaris niet volledig heeft verstrekt, is de secretaris bevoegd namens het bestuur de verschuldigde heffing voor het betreffende jaar ambtshalve bij aanslag vast te stellen.
+1. Indien de ondernemer de gegevens, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023668&paragraaf=2&artikel=2&z=2008-03-16&g=2008-03-16) niet, niet tijdig of naar het oordeel van de secretaris niet volledig heeft verstrekt, is de secretaris bevoegd namens het bestuur de verschuldigde heffing voor het betreffende jaar ambtshalve bij aanslag vast te stellen.
 
 2. Indien de Heffingsplichtige binnen 21 dagen na ontvangst van de heffingsaanslag bedoeld in het eerste lid, alsnog de gevraagde gegevens verstrekt wordt de aanvankelijk vastgestelde heffing ingetrokken en een nieuwe heffing vastgesteld op basis van de door hem verstrekte gegevens.
 
@@ -110,7 +110,7 @@ Het productschap kan besluiten nota's van minder dan € 50,- samen te voegen to
 
 ##### Artikel 7
 
-Aan de ondernemer die niet of niet geheel binnen de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0023668&paragraaf=4&artikel=5&z=2008-03-16&g=2008-01-01) gestelde termijn heeft betaald, kan door het productschap de wettelijke interest over het niet betaalde bedrag in rekening worden gebracht, te berekenen vanaf de dag waarop de betaling uiterlijk dient te zijn verricht ingevolge de aanmaning bedoeld in [artikel 127, tweede lid, van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=127).
+Aan de ondernemer die niet of niet geheel binnen de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0023668&paragraaf=4&artikel=5&z=2008-03-16&g=2008-03-16) gestelde termijn heeft betaald, kan door het productschap de wettelijke interest over het niet betaalde bedrag in rekening worden gebracht, te berekenen vanaf de dag waarop de betaling uiterlijk dient te zijn verricht ingevolge de aanmaning bedoeld in [artikel 127, tweede lid, van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=127).
 
 #### § 5. Slotbepalingen
 
