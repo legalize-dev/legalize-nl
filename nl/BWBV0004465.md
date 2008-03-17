@@ -4,7 +4,7 @@ identifier: "BWBV0004465"
 country: "nl"
 rank: "verdrag"
 publication_date: "2008-03-17"
-last_updated: "1968-03-17"
+last_updated: "2008-03-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0004465"
 soort: "verdrag"
@@ -336,69 +336,35 @@ De in de artikelen 28 en 29 vermelde uitkeringen moeten worden toegekend tijdens
 
 ##### Artikel 31
 
-Elke Contracterende Partij ten aanzien waarvan dit deel van de Code van kracht is, moet overeenkomstig de volgende artikelen van dit deel aan de beschermde personen uitkeringen en verstrekkingen in geval van arbeidsongevallen en beroepsziekten waarborgen.
+Vervallen
 
 ##### Artikel 32
 
-Onder de door verzekering gedekte gevallen moeten de volgende gevallen worden begrepen, wanneer deze het gevolg zijn van een arbeidsongeval of van een beroepsziekte:
-
-- (a). ziektetoestand;
-
-- (b). ongeschiktheid tot werken, welke voortspruit uit een ziektetoestand en welke derving van inkomsten uit arbeid met zich brengt zoals nader geregeld bij de nationale wetgeving;
-
-- (c). algeheel verlies van de geschiktheid om inkomsten uit arbeid te verwerven of gedeeltelijk verlies van zodanige geschiktheid, uitgaande boven een voorgeschreven minimum, wanneer het waarschijnlijk is, dat dit gehele of gedeeltelijke verlies blijvend zal zijn, alsmede overeenkomstige vermindering van de lichaamsgesteldheid; en
-
-- (d). verlies van bestaansmiddelen door de weduwe of door de kinderen ten gevolge van het overlijden van de kostwinner.
+Vervallen
 
 ##### Artikel 33
 
-Tot de beschermde personen moeten worden gerekend voorgeschreven groepen van loontrekkenden die in totaal ten minste 80 procent uitmaken van de gezamenlijke loontrekkenden, alsmede echtgenoten en kinderen van de tot deze groepen behorende loontrekkenden, wat betreft de uitkeringen, waarop het overlijden van de kostwinner rechten doet ontstaan.
+Vervallen
 
 ##### Artikel 34
 
-1. In geval van ziektetoestand moeten de verstrekkingen de in de leden 2 en 3 van dit artikel aangegeven geneeskundige zorg omvatten.
-
-2. De geneeskundige zorg moet omvatten:
-
-- (a). hulp van huisartsen en specialisten aan personen die al dan niet in een ziekenhuis zijn opgenomen, met inbegrip van huisbezoeken;
-
-- (b). tandheelkundige zorg;
-
-- (c). verpleging thuis, in een ziekenhuis of in een andere geneeskundige inrichting;
-
-- (d). kosten van opneming in een ziekenhuis, herstellingsoord, sanatorium of andere geneeskundige inrichtingen;
-
-- (e). tandheelkundige, farmaceutische en andere medische of chirurgische verstrekkingen, met inbegrip van prothesen en het onderhoud daarvan, alsmede brillen;
-
-- (f). de diensten verleend door een beoefenaar van een ander beroep, hetwelk wettelijk erkend is als verwant aan het beroep van medicus, onder toezicht van een medicus of van een tandarts.
-
-3. De geneeskundige zorg, verleend overeenkomstig de voorgaande leden, moet strekken tot instandhouding, herstel of verbetering van de gezondheid van de beschermde persoon, alsmede van diens geschiktheid om te werken en om te voorzien in zijn persoonlijke behoeften.
+Vervallen
 
 ##### Artikel 35
 
-1. De regeringsdepartementen of de instellingen belast met de verstrekking van de geneeskundige zorg moeten samenwerken met de algemene diensten voor beroepsrevalidatie, wanneer zulks dienstig is ten einde minder valide personen weer geschikt te maken voor hun passende arbeid.
-
-2. De nationale wetgeving kan de bedoelde departementen of instellingen machtigen tot het nemen van maatregelen met het oog op de beroepsrevalidatie van minder valide personen.
+Vervallen
 
 ##### Artikel 36
 
-1. In geval van arbeidsongeschiktheid, van algeheel verlies van de geschiktheid om inkomsten uit arbeid te verwerven, indien dit verlies waarschijnlijk blijvend zal zijn of van een overeenkomstige vermindering van de lichaamsgesteldheid, of van het overlijden van de kostwinner, zal de uitkering bestaan in een periodieke betaling, berekend overeenkomstig de bepalingen hetzij van artikel 65, hetzij van artikel 66.
-
-2. Wanneer bij gedeeltelijk verlies van de geschiktheid om inkomsten uit arbeid te verwerven dit verlies waarschijnlijk blijvend zal zijn, alsmede in geval van een overeenkomstige vermindering van de lichaamsgesteldheid, zal de verschuldigde uitkering bestaan in een periodieke betaling, vastgesteld in een passende verhouding tot die welke verstrekt wordt bij algeheel verlies van de geschiktheid om in komsten uit arbeid te verwerven of bij een overeenkomstige vermindering van de lichaamsgesteldheid.
-
-3. De periodieke betaling kan vervangen worden door betaling van een som ineens:
-
-- (a). wanneer de mate van ongeschiktheid gering is; of
-
-- (b). wanneer een oordeelkundig gebruik van die som ten genoege van de bevoegde autoriteiten gewaarborgd wordt.
+Vervallen
 
 ##### Artikel 37
 
-De in de artikelen 34 en 36 vermelde verstrekkingen en uitkeringen moeten tijdens het door verzekering gedekte geval ten minste worden gewaarborgd aan de beschermde personen die ten tijde van het ongeval, of ten tijde van het ontstaan van de ziekte, als loontrekkenden werkzaam waren op het grondgebied van de Contracterende Partij, en indien het periodieke betalingen ter zake van het overlijden van de kostwinner betreft, aan diens weduwe en diens kinderen.
+Vervallen
 
 ##### Artikel 38
 
-De in de artikelen 34 en 36 vermelde verstrekkingen en uitkeringen moeten worden verleend tijdens de gehele duur van het door verzekering gedekte geval; nochtans behoeft in geval van ongeschiktheid tot werken uitkering niet te worden verstrekt over de eerste drie dagen van elk geval van derving van inkomsten uit arbeid.
+Vervallen
 
 ## DEEL VII. Gezinsbijslagen
 
