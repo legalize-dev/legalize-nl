@@ -4,7 +4,7 @@ identifier: "BWBR0019919"
 country: "nl"
 rank: "wet"
 publication_date: "2025-07-01"
-last_updated: "2007-06-01"
+last_updated: "2008-03-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019919"
 soort: "wet"
@@ -49,9 +49,9 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. bijzondere opsporingsdienst: een van de diensten, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&hoofdstuk=I&artikel=2&z=2007-06-01&g=2007-06-01);
+- a. bijzondere opsporingsdienst: een van de diensten, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&hoofdstuk=I&artikel=2&z=2008-03-26&g=2008-03-26);
 
-- b. opsporingsambtenaar: een ambtenaar van een bijzondere opsporingsdienst die is aangesteld voor de uitvoering van de taken, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&hoofdstuk=II&artikel=3&z=2007-06-01&g=2007-06-01);
+- b. opsporingsambtenaar: een ambtenaar van een bijzondere opsporingsdienst die is aangesteld voor de uitvoering van de taken, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&hoofdstuk=II&artikel=3&z=2008-03-26&g=2008-03-26);
 
 - c. Onze betrokken Minister: Onze minister onder wie een bijzondere opsporingsdienst ressorteert.
 
@@ -83,7 +83,7 @@ Een bijzondere opsporingsdienst is onder gezag van de officier van justitie bela
 
 ##### Artikel 4
 
-De officier van justitie kan, onverlet de toepassing van [artikel 80, vierde lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=80), de betrokken opsporingsambtenaren de nodige aanwijzingen geven voor de vervulling van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&hoofdstuk=II&artikel=3&z=2007-06-01&g=2007-06-01) bedoelde taken.
+De officier van justitie kan, onverlet de toepassing van [artikel 80, vierde lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=80), de betrokken opsporingsambtenaren de nodige aanwijzingen geven voor de vervulling van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&hoofdstuk=II&artikel=3&z=2008-03-26&g=2008-03-26) bedoelde taken.
 
 ##### Artikel 5
 
@@ -105,7 +105,7 @@ De opsporingsambtenaar is bevoegd zijn taak uit te oefenen in het gehele land.
 
 ##### Artikel 7
 
-1. Het College van procureurs-generaal ziet erop toe dat de bijzondere opsporingsdiensten de taken, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&hoofdstuk=II&artikel=3&z=2007-06-01&g=2007-06-01), naar behoren uitvoeren.
+1. Het College van procureurs-generaal ziet erop toe dat de bijzondere opsporingsdiensten de taken, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&hoofdstuk=II&artikel=3&z=2008-03-26&g=2008-03-26), naar behoren uitvoeren.
 
 2. Het hoofd van het functioneel parket heeft tot taak erop toe te zien dat:
 
@@ -133,7 +133,7 @@ Onze betrokken Minister en Onze Minister van Justitie stellen, gehoord het Colle
 
 ##### Artikel 11
 
-1. Jaarlijks stellen Onze betrokken Minister en het College van procureurs-generaal voor het komende jaar, met inachtneming van de hoofdlijnen van het beleid met betrekking tot de taakuitoefening door de bijzondere opsporingsdiensten, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&hoofdstuk=IV&artikel=10&z=2007-06-01&g=2007-06-01), een handhavingsarrangement vast, waarin de wederzijdse afspraken over opsporing en afhandeling van de opsporingsonderzoeken zijn opgenomen.
+1. Jaarlijks stellen Onze betrokken Minister en het College van procureurs-generaal voor het komende jaar, met inachtneming van de hoofdlijnen van het beleid met betrekking tot de taakuitoefening door de bijzondere opsporingsdiensten, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&hoofdstuk=IV&artikel=10&z=2008-03-26&g=2008-03-26), een handhavingsarrangement vast, waarin de wederzijdse afspraken over opsporing en afhandeling van de opsporingsonderzoeken zijn opgenomen.
 
 2. Onze betrokken Minister en het College van procureurs-generaal stellen jaarlijks een jaarverslag vast over de verwezenlijking van de afspraken in het handhavingsarrangement.
 
@@ -141,7 +141,7 @@ Onze betrokken Minister en Onze Minister van Justitie stellen, gehoord het Colle
 
 ##### Artikel 12
 
-1. Er is een eenheid binnen de bijzondere opsporingsdienst die, onder gezag van de officier van justitie, persoonsgegevens verwerkt ten behoeve van het voorkomen en opsporen van misdrijven die gezien hun ernst, frequentie of het georganiseerd verband waarin ze worden gepleegd, een ernstige inbreuk kunnen maken op de rechtsorde op de terreinen waarop de bijzondere opsporingsdienst een taak heeft als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&hoofdstuk=II&artikel=3&z=2007-06-01&g=2007-06-01).
+1. Er is een eenheid binnen de bijzondere opsporingsdienst die, onder gezag van de officier van justitie, persoonsgegevens verwerkt ten behoeve van het voorkomen en opsporen van misdrijven die gezien hun ernst, frequentie of het georganiseerd verband waarin ze worden gepleegd, een ernstige inbreuk kunnen maken op de rechtsorde op de terreinen waarop de bijzondere opsporingsdienst een taak heeft als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&hoofdstuk=II&artikel=3&z=2008-03-26&g=2008-03-26).
 
 2. Bij regeling van Onze betrokken Minister in overeenstemming met Onze Ministers van Justitie en van Binnenlandse Zaken en Koninkrijksrelaties worden regels gesteld omtrent de werkzaamheden van de eenheid.
 
@@ -155,7 +155,7 @@ Onze betrokken Minister en Onze Minister van Justitie stellen, gehoord het Colle
 
 3. Onze betrokken Ministers en Onze Minister van Justitie kunnen tezamen bij ministeriële regeling regels geven over de samenwerking van bijzondere opsporingsdiensten onderling.
 
-4. Onze betrokken Ministers en Onze Minister van Justitie, eventueel in overeenstemming met andere terzake verantwoordelijke ministers kunnen, op de terreinen waarop de bijzondere opsporingsdiensten een taak hebben als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&hoofdstuk=II&artikel=3&z=2007-06-01&g=2007-06-01), tezamen bij ministeriële regeling regels geven over de samenwerking van bijzondere opsporingsdiensten met toezichthoudende instanties.
+4. Onze betrokken Ministers en Onze Minister van Justitie, eventueel in overeenstemming met andere terzake verantwoordelijke ministers kunnen, op de terreinen waarop de bijzondere opsporingsdiensten een taak hebben als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&hoofdstuk=II&artikel=3&z=2008-03-26&g=2008-03-26), tezamen bij ministeriële regeling regels geven over de samenwerking van bijzondere opsporingsdiensten met toezichthoudende instanties.
 
 ### Hoofdstuk VI. Behandeling van klachten
 
@@ -208,5 +208,21 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 23
 
 Deze wet wordt aangehaald als: Wet op de bijzondere opsporingsdiensten.
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 6a
+
+De opsporingsambtenaar is bevoegd tot het vorderen van inzage in een identiteitsbewijs als bedoeld in [artikel 1 van de Wet op de identificatieplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0006297&artikel=1) van personen, voor zover dat redelijkerwijs noodzakelijk is voor de uitoefening van zijn taak.
+
+### Hoofdstuk III. Toezicht op de bijzondere opsporingsdiensten en opsporingsambtenaren
+
+### Hoofdstuk IV. Organisatie en beleid
+
+### Hoofdstuk V. Samenwerking met de politie en andere diensten
+
+### Hoofdstuk VI. Behandeling van klachten
+
+### Hoofdstuk VII. Slotbepalingen
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
