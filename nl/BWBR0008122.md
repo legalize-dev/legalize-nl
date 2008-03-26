@@ -4,7 +4,7 @@ identifier: "BWBR0008122"
 country: "nl"
 rank: "wet"
 publication_date: "2008-03-26"
-last_updated: "1996-09-01"
+last_updated: "2008-03-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008122"
 soort: "wet"
@@ -55,7 +55,7 @@ Wijzigt de Wet op de naburige rechten.
 
 1. Deze wet laat vóór het tijdstip van inwerkingtreding van deze wet verrichte exploitatiehandelingen onverlet.
 
-2. Op overeenkomsten betreffende de exploitatie van een werk in de zin van de [Auteurswet 1912](https://wetten.overheid.nl/jci1.3:c:BWBR0001886) of van een prestatie in de zin van de [Wet op de naburige rechten](https://wetten.overheid.nl/jci1.3:c:BWBR0005921), die op het tijdstip van inwerkingtreding van deze wet nog van kracht zijn, is de in deze wet opgenomen regeling betreffende het uitzenden door middel van een satelliet van toepassing met ingang van 1 januari 2000, indien deze overeenkomsten op het laatstgenoemde tijdstip nog van kracht zijn.
+2. Op overeenkomsten betreffende de exploitatie van een werk in de zin van de [Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886) of van een prestatie in de zin van de [Wet op de naburige rechten](https://wetten.overheid.nl/jci1.3:c:BWBR0005921), die op het tijdstip van inwerkingtreding van deze wet nog van kracht zijn, is de in deze wet opgenomen regeling betreffende het uitzenden door middel van een satelliet van toepassing met ingang van 1 januari 2000, indien deze overeenkomsten op het laatstgenoemde tijdstip nog van kracht zijn.
 
 3. Met betrekking tot een vóór het tijdstip van inwerkingtreding van deze wet tot stand gekomen internationale co-produktie-overeenkomst tussen een co-producent uit een van de lid-staten van de Europese Unie of uit een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte van 2 mei 1992 en een of meer co-producenten uit andere lid-staten of uit derde landen die een regeling bevat, waarbij de exploitatierechten voor alle vormen van openbaarmaking naar geografisch gebied worden verdeeld tussen de co-producenten zonder onderscheid te maken tussen uitzendingen door middel van een satelliet en andere vormen van openbaarmaking, is, indien de uitzending van de co-produktie door middel van een satelliet de exclusiviteit, in het bijzonder de taal-exclusiviteit, van een van de co-producenten of van diens rechtverkrijgenden op een bepaald grondgebied zou aantasten, voor de uitzending door middel van een satelliet de toestemming vereist van de co-producent die recht op die exclusiviteit kan doen gelden of diens rechtverkrijgenden.
 
