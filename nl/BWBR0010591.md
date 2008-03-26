@@ -4,7 +4,7 @@ identifier: "BWBR0010591"
 country: "nl"
 rank: "wet"
 publication_date: "2025-11-21"
-last_updated: "2007-05-01"
+last_updated: "2008-03-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010591"
 soort: "wet"
@@ -56,13 +56,13 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - d. hergebruiken: elke vorm van het aan het publiek ter beschikking stellen van de inhoud van een databank of een deel daarvan door verspreiding van exemplaren, verhuur, on line transmissie of transmissie in een andere vorm;
 
-- e. technische voorzieningen: technologie, inrichtingen of onderdelen die in het kader van hun normale werking dienen voor het voorkomen of beperken van handelingen ten aanzien van databanken, en door de producent van de databank of zijn rechtverkrijgende niet zijn toegestaan; technische voorzieningen worden geacht «doeltreffend» te zijn indien het opvragen en hergebruiken van een databank door de producent van de databank of zijn rechtverkrijgende wordt beheerst door middel van toegangscontrole of door toepassing van een beschermingsprocédé zoals encryptie, vervorming of andere transformatie van de databank of een kopieerbeveiliging die de beoogde bescherming bereikt;
+- e. technische voorzieningen: technologie, inrichtingen of onderdelen die in het kader van hun normale werking dienen voor het voorkomen of beperken van handelingen ten aanzien van databanken, en door de producent van de databank of zijn rechtverkrijgende niet zijn toegestaan; technische voorzieningen worden geacht «doeltreffend» te zijn indien het opvragen en hergebruiken van een databank door de producent van de databank of zijn rechtverkrijgende wordt beheerst door middel van toegangscontrole of door toepassing van een beschermingsprocédé zoals encryptie, vervorming of andere transformatie van de databank of een kopieerbeveiliging die de beoogde bescherming bereikt; en
 
 - f. informatie betreffende het beheer van rechten: alle door de producent van een databank en zijn rechtverkrijgenden verstrekte informatie welke verbonden is met een exemplaar van een databank of bij het hergebruiken van een databank bekend wordt gemaakt, die dient ter identificatie van de databank, of informatie betreffende de voorwaarden voor het gebruik van de databank, alsmede de cijfers of codes waarin die informatie is vervat.
 
 - 2. Het voor een beperkte tijd en zonder direct of indirect economisch of commercieel voordeel voor gebruik ter beschikking stellen door voor het publiek toegankelijke instellingen wordt niet als opvragen of hergebruiken beschouwd.
 
-- 3. Op computerprogramma's die worden gebruikt bij de productie of de werking van met elektronische middelen toegankelijke databanken zijn de desbetreffende bepalingen in de [Auteurswet 1912](https://wetten.overheid.nl/jci1.3:c:BWBR0001886) van toepassing.
+- 3. Op computerprogramma's die worden gebruikt bij de productie of de werking van met elektronische middelen toegankelijke databanken zijn de desbetreffende bepalingen in de [Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886) van toepassing.
 
 Behoudens bewijs van het tegendeel wordt voor de producent van een databank gehouden degene die in de databank als zodanig is aangeduid, of bij gebreke van een dergelijke aanduiding, degene die bij de openbaarmaking van de databank als producent daarvan is bekend gemaakt door degene die haar openbaar maakt.
 
@@ -160,9 +160,9 @@ Wijzigt de Auteurswet 1912.
 
 - 2. Het recht, bedoeld in artikel 2, eerste lid, vervalt in dat geval op 1 januari 2014.
 
-B. [Artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0010591&artikel=II&z=2007-05-01&g=2007-05-01) is ook van toepassing op verzamelingen als bedoeld in [artikel 10, derde lid, van de Auteurswet 1912](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=10) die vóór 1 januari 1998 gemaakt zijn, met dien verstande dat aan vóór die datum verrichte handelingen en verkregen rechten geen afbreuk wordt gedaan.
+B. [Artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0010591&artikel=II&z=2008-03-26&g=2008-03-26) is ook van toepassing op verzamelingen als bedoeld in [artikel 10, derde lid, van de Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=10) die vóór 1 januari 1998 gemaakt zijn, met dien verstande dat aan vóór die datum verrichte handelingen en verkregen rechten geen afbreuk wordt gedaan.
 
-C. Op verzamelingen als bedoeld in [artikel 10, derde lid, van de Auteurswet 1912](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=10) die op 27 maart 1996 behoorden tot de in [artikel 10, eerste lid, onder 1°, van de Auteurswet 1912](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=10) genoemde geschriften blijven de bepalingen in [hoofdstuk III van de Auteurswet 1912](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=III) over de duur van het auteursrecht van toepassing.
+C. Op verzamelingen als bedoeld in [artikel 10, derde lid, van de Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=10) die op 27 maart 1996 behoorden tot de in [artikel 10, eerste lid, onder 1°, van de Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=10) genoemde geschriften blijven de bepalingen in [hoofdstuk III van de Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=III) over de duur van het auteursrecht van toepassing.
 
 ##### ARTIKEL IV
 
