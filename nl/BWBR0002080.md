@@ -4,7 +4,7 @@ identifier: "BWBR0002080"
 country: "nl"
 rank: "wet"
 publication_date: "2023-01-01"
-last_updated: "2007-01-01"
+last_updated: "2008-03-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002080"
 soort: "wet"
@@ -91,7 +91,7 @@ De rechtsgebieden van de tot het ressort Arnhem behorende rechtbanken bestaan ui
 
 - 3. Arrondissement Zutphen: Aalten, Apeldoorn, Berkelland, Bronckhorst, Brummen, Doetinchem, Elburg, Epe, Ermelo, Groenlo, Harderwijk, Hattem, Heerde, Lochem, Montferland, Nunspeet, Oldebroek, Oude IJsselstreek, Putten, Voorst, Winterswijk, Zutphen.
 
-- 4. Arrondissement Zwolle-Lelystad: Almere, Dalfsen, Deventer, Dronten, Hardenberg, Kampen, Lelystad, Noordoostpolder, Olst-Wijhe, Ommen, Raalte, Staphorst, Steenwijkerwold, Urk, Zeewolde, Zwartewaterland, Zwolle.
+- 4. Arrondissement Zwolle-Lelystad: Almere, Dalfsen, Deventer, Dronten, Hardenberg, Kampen, Lelystad, Noordoostpolder, Olst-Wijhe, Ommen, Raalte, Staphorst, Steenwijkerland, Urk, Zeewolde, Zwartewaterland, Zwolle.
 
 ##### Artikel 6
 
