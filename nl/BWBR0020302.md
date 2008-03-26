@@ -4,7 +4,7 @@ identifier: "BWBR0020302"
 country: "nl"
 rank: "wet"
 publication_date: "2017-09-01"
-last_updated: "2006-10-13"
+last_updated: "2008-03-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020302"
 soort: "wet"
@@ -47,7 +47,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 1
 
-Voor de toepassing van de [artikelen 2 tot en met 21](https://wetten.overheid.nl/jci1.3:c:BWBR0020302&hoofdstuk=1&artikel=2&z=2006-10-13&g=2006-10-13) van deze wet wordt verstaan onder:
+Voor de toepassing van de [artikelen 2 tot en met 21](https://wetten.overheid.nl/jci1.3:c:BWBR0020302&hoofdstuk=1&artikel=2&z=2008-03-26&g=2008-03-26) van deze wet wordt verstaan onder:
 
 - a. Verordening: de [Verordening (EG) nr. 1435/2003](32003R1435) van de Raad van de Europese Unie van 22 juli 2003 betreffende het statuut voor een Europese Coöperatieve Vennootschap (SCE) (PbEU L 207);
 
@@ -116,6 +116,8 @@ De statuten van de Europese coöperatieve vennootschap met statutaire zetel in N
 1. Het bestuursorgaan als bedoeld in artikel 42 van de Verordening bestaat uit ten minste drie leden.
 
 2. De [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=7) en [45 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=45) zijn van overeenkomstige toepassing op een Europese coöperatieve vennootschap met statutaire zetel in Nederland.
+
+3. Voor de toepassing van artikel 46, eerste lid, van de Verordening geldt dat de leden van het bestuursorgaan die overeenkomstig een onderlinge taakverdeling niet belast zijn met het uitvoerend bestuur, natuurlijke personen moeten zijn.
 
 ##### Artikel 14
 
