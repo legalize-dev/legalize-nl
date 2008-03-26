@@ -4,7 +4,7 @@ identifier: "BWBR0023164"
 country: "nl"
 rank: "wet"
 publication_date: "2008-03-26"
-last_updated: "2008-02-01"
+last_updated: "2008-03-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023164"
 soort: "wet"
@@ -61,11 +61,11 @@ Onze Minister van Justitie zendt binnen drie jaren na de inwerkingtreding van de
 
 ##### Artikel V
 
-A. [Artikel 77g, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=77g), zoals zij na inwerkingtreding van deze wet komen te luiden, worden slechts toegepast met betrekking tot feiten ten aanzien waarvan de vervolging is aangevangen na inwerkingtreding van deze wet. Met betrekking tot feiten ten aanzien waarvan vervolging is aangevangen voor inwerkingtreding van deze wet blijft [artikel 77g, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=77g), van toepassing zoals het luidde voor dat tijdstip.
+A. [Artikel 77g, tweede en derde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=77g) zoals zij na inwerkingtreding van deze wet komen te luiden, worden slechts toegepast met betrekking tot feiten begaan na inwerkingtreding van deze wet. Met betrekking tot feiten begaan voor inwerkingtreding van deze wet blijft [artikel 77g, tweede en derde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=77g) van toepassing zoals het luidde voor dat tijdstip.
 
-B. De [artikelen 77w](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=77w), [77wa](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=77wa) en [77wb](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=77wb) worden slechts toegepast met betrekking tot feiten ten aanzien waarvan de vervolging is aangevangen na inwerkingtreding van deze wet.
+B. De [artikelen 77w](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=77w), [77wa](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=77wa) en [77wb van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=77wb) worden slechts toegepast met betrekking tot feiten begaan na inwerkingtreding van deze wet.
 
-C. Aan [artikel 77l, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=77l), zoals dat komt te luiden na inwerkingtreding van deze wet, en aan [artikel 77p, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=77p), wordt slechts toepassing gegeven voor zover de veroordeling is uitgesproken na inwerkingtreding van deze wet. Met betrekking tot feiten ten aanzien waarvan de veroordeling is uitgesproken voor inwerkingtreding van deze wet blijft [artikel 77l, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=77l), van toepassing zoals het luidde voor dat tijdstip.
+C. Aan [artikel 77l, vijfde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=77l) zoals dat komt te luiden na inwerkingtreding van deze wet, en aan [artikel 77p, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=77p) wordt slechts toepassing gegeven voor zover de veroordeling is uitgesproken na inwerkingtreding van deze wet. Met betrekking tot feiten ten aanzien waarvan de veroordeling is uitgesproken voor inwerkingtreding van deze wet blijft [artikel 77l, vijfde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=77l) van toepassing zoals het luidde voor dat tijdstip.
 
 D. Wijzigt het Wetboek van Strafrecht.
 
