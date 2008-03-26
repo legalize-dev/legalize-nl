@@ -4,7 +4,7 @@ identifier: "BWBR0014779"
 country: "nl"
 rank: "wet"
 publication_date: "2025-07-01"
-last_updated: "2003-07-15"
+last_updated: "2008-03-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014779"
 soort: "wet"
@@ -49,9 +49,9 @@ In deze wet wordt verstaan onder:
 
 - a. Onze Minister: de Minister van Justitie;
 
-- b. het College van Toezicht: het College van Toezicht, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=2&z=2003-07-15&g=2003-07-15);
+- b. het College van Toezicht: het College van Toezicht, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=2&z=2008-03-26&g=2008-03-26);
 
-- c. collectieve beheersorganisatie: de door Onze Minister aangewezen rechtspersoon, die met uitsluiting van anderen belast is met de inning en de verdeling van vergoedingen, verschuldigd op grond van de [Auteurswet 1912](https://wetten.overheid.nl/jci1.3:c:BWBR0001886), of op grond van de [Wet op de naburige rechten](https://wetten.overheid.nl/jci1.3:c:BWBR0005921), of de rechtspersoon die met toestemming van Onze Minister als bedrijf bemiddeling verleent inzake muziekauteursrecht op grond van [artikel 30a van de Auteurswet 1912](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=30a).
+- c. collectieve beheersorganisatie: de door Onze Minister aangewezen rechtspersoon, die met uitsluiting van anderen belast is met de inning en de verdeling van vergoedingen, verschuldigd op grond van de [Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886), of op grond van de [Wet op de naburige rechten](https://wetten.overheid.nl/jci1.3:c:BWBR0005921), of de rechtspersoon die met toestemming van Onze Minister als bedrijf bemiddeling verleent inzake muziekauteursrecht op grond van [artikel 30a van de Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=30a).
 
 ##### Artikel 2
 
@@ -93,7 +93,7 @@ Het College van Toezicht houdt geen toezicht op collectieve beheersorganisaties 
 
 ##### Artikel 5
 
-1. Een collectieve beheersorganisatie is gehouden het College van Toezicht vooraf schriftelijk te informeren over te nemen besluiten die van wezenlijke invloed zijn op de uitoefening door de collectieve beheersorganisatie van haar wettelijke taken of het verlenen van bemiddeling als bedoeld in [artikel 30a van de Auteurswet 1912](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=30a), waaronder:
+1. Een collectieve beheersorganisatie is gehouden het College van Toezicht vooraf schriftelijk te informeren over te nemen besluiten die van wezenlijke invloed zijn op de uitoefening door de collectieve beheersorganisatie van haar wettelijke taken of het verlenen van bemiddeling als bedoeld in [artikel 30a van de Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=30a), waaronder:
 
 - a. investeringen die een door het College van Toezicht bij reglement vast te stellen bedrag te boven gaan;
 
@@ -101,7 +101,7 @@ Het College van Toezicht houdt geen toezicht op collectieve beheersorganisaties 
 
 2. De leden van het College van Toezicht hebben toegang tot de kantoren van een collectieve beheersorganisatie en kunnen de algemene ledenvergadering, de vergadering van aangeslotenen en de vergaderingen van het bestuur van de collectieve beheersorganisatie bijwonen. De leden van het College hebben inzage in boeken en bescheiden en andere informatiedragers van een collectieve beheersorganisatie een en ander voor zover kennisneming daarvan noodzakelijk is voor de uitoefening van het toezicht.
 
-3. Indien een collectieve beheersorganisatie samenwerkt met of werkzaamheden laat verrichten door een derde, verband houdende met de inning en de verdeling van vergoedingen op grond van de [Auteurswet 1912](https://wetten.overheid.nl/jci1.3:c:BWBR0001886) en de [Wet op de naburige rechten](https://wetten.overheid.nl/jci1.3:c:BWBR0005921), blijft zij verantwoordelijk voor de uitoefening van deze taken. Zij draagt in dat geval zorg voor de beschikbaarheid voor het College van Toezicht van de financiële gegevens die relevant kunnen zijn voor de taakuitoefening van het College.
+3. Indien een collectieve beheersorganisatie samenwerkt met of werkzaamheden laat verrichten door een derde, verband houdende met de inning en de verdeling van vergoedingen op grond van de [Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886) en de [Wet op de naburige rechten](https://wetten.overheid.nl/jci1.3:c:BWBR0005921), blijft zij verantwoordelijk voor de uitoefening van deze taken. Zij draagt in dat geval zorg voor de beschikbaarheid voor het College van Toezicht van de financiële gegevens die relevant kunnen zijn voor de taakuitoefening van het College.
 
 4. Het College van Toezicht kan, indien het daartoe gronden aanwezig acht, de boekhouding van een collectieve beheersorganisatie laten onderzoeken door een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393). De kosten van dit onderzoek komen voor rekening van de collectieve beheersorganisatie.
 
