@@ -4,7 +4,7 @@ identifier: "BWBR0007793"
 country: "nl"
 rank: "wet"
 publication_date: "2008-03-26"
-last_updated: "1995-12-29"
+last_updated: "2008-03-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007793"
 soort: "wet"
@@ -56,19 +56,19 @@ Bevat wijzigingen in andere regelgeving.
 
 1. Deze wet laat vóór het tijdstip van inwerkingtreding van deze wet verrichte exploitatiehandelingen onverlet.
 
-2. Voor het verhuren van een werk in de zin van de [Auteurswet 1912](https://wetten.overheid.nl/jci1.3:c:BWBR0001886) en van een prestatie in de zin van de [Wet op de naburige rechten](https://wetten.overheid.nl/jci1.3:c:BWBR0005921), waarvan de verhuurder aantoont dat hij daarover vóór het tijdstip van inwerkingtreding van deze wet op rechtmatige wijze de beschikking heeft gekregen, wordt de rechthebbende geacht toestemming te hebben gegeven, onverminderd het recht van de rechthebbende op een billijke vergoeding.
+2. Voor het verhuren van een werk in de zin van de [Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886) en van een prestatie in de zin van de [Wet op de naburige rechten](https://wetten.overheid.nl/jci1.3:c:BWBR0005921), waarvan de verhuurder aantoont dat hij daarover vóór het tijdstip van inwerkingtreding van deze wet op rechtmatige wijze de beschikking heeft gekregen, wordt de rechthebbende geacht toestemming te hebben gegeven, onverminderd het recht van de rechthebbende op een billijke vergoeding.
 
-3. Het recht op een billijke vergoeding bedoeld in artikel 12**a**, en artikel 45**d**, zesde zin, van de [Auteurswet 1912](https://wetten.overheid.nl/jci1.3:c:BWBR0001886) en in [artikel 2**a** van de Wet op de naburige rechten](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&artikel=2a), voortvloeiend uit een vóór het tijdstip van inwerkingtreding van deze wet gesloten overeenkomst, wordt uiterlijk op 31 december 1996 ingeroepen.
+3. Het recht op een billijke vergoeding bedoeld in [artikel 12a](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=12a), en [artikel 45d, zesde zin, van de Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=45d) en in [artikel 2a van de Wet op de naburige rechten](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&artikel=2a), voortvloeiend uit een vóór het tijdstip van inwerkingtreding van deze wet gesloten overeenkomst, wordt uiterlijk op 31 december 1996 ingeroepen.
 
 ##### Artikel IV
 
-1. Onze Minister van Justitie zendt in overeenstemming met Onze Minister van Onderwijs, Cultuur en Wetenschappen vóór 1 januari 2000 aan de Staten-Generaal een verslag over de werking en het effect van de in de [Auteurswet 1912](https://wetten.overheid.nl/jci1.3:c:BWBR0001886) en de [Wet op de naburige rechten](https://wetten.overheid.nl/jci1.3:c:BWBR0005921) opgenomen regeling terzake van het leenrecht.
+1. Onze Minister van Justitie zendt in overeenstemming met Onze Minister van Onderwijs, Cultuur en Wetenschappen vóór 1 januari 2000 aan de Staten-Generaal een verslag over de werking en het effect van de in de [Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886) en de [Wet op de naburige rechten](https://wetten.overheid.nl/jci1.3:c:BWBR0005921) opgenomen regeling terzake van het leenrecht.
 
-2. De stichting, bedoeld in [artikel 15**d** van de Auteurswet 1912](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=15d) onderscheidenlijk [artikel 15**b** van de Wet op de naburige rechten](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&artikel=15b), en de rechtspersoon, bedoeld in [artikel 15**f** van de Auteurswet 1912](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=15f) onderscheidenlijk [artikel 15**a** van de Wet op de naburige rechten](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&artikel=15a), zijn verplicht de voor het in het eerste lid bedoelde verslag noodzakelijke gegevens te verschaffen en voor het overige hun medewerking te verlenen aan de voorbereiding van dit verslag.
+2. De stichting, bedoeld in [artikel 15d van de Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=15d) onderscheidenlijk [artikel 15b van de Wet op de naburige rechten](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&artikel=15b), en de rechtspersoon, bedoeld in [artikel 15f van de Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=15f) onderscheidenlijk [artikel 15a van de Wet op de naburige rechten](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&artikel=15a), zijn verplicht de voor het in het eerste lid bedoelde verslag noodzakelijke gegevens te verschaffen en voor het overige hun medewerking te verlenen aan de voorbereiding van dit verslag.
 
 ##### Artikel V
 
-De [Auteurswet 1912](https://wetten.overheid.nl/jci1.3:c:BWBR0001886) is op het uitlenen door openbare bibliotheken van publikaties als bedoeld in artikel 21, onderdeel **c**, van de Tijdelijke wet leenvergoeding van toepassing met ingang van het tijdstip waarop de Tijdelijke wet leenvergoeding vervalt.
+De [Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886) is op het uitlenen door openbare bibliotheken van publikaties als bedoeld in artikel 21, onderdeel c, van de Tijdelijke wet leenvergoeding van toepassing met ingang van het tijdstip waarop de Tijdelijke wet leenvergoeding vervalt.
 
 ##### Artikel VI
 
