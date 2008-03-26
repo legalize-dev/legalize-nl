@@ -4,7 +4,7 @@ identifier: "BWBR0023650"
 country: "nl"
 rank: "wet"
 publication_date: "2008-03-26"
-last_updated: "2008-02-01"
+last_updated: "2008-03-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023650"
 soort: "wet"
@@ -44,47 +44,47 @@ Wijzigt de Advocatenwet.
 
 ##### Artikel II
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Auteurswet 1912.
 
 ##### Artikel III
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Beginselenwet justitiële jeugdinrichtingen.
 
 ##### Artikel IV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Burgerlijk Wetboek Boek 1.
 
 ##### Artikel V
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Burgerlijk Wetboek Boek 2.
 
 ##### Artikel VI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Burgerlijk Wetboek Boek 4.
 
 ##### Artikel VII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Burgerlijk Wetboek Boek 5.
 
 ##### Artikel VIII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Burgerlijk Wetboek Boek 7.
 
 ##### Artikel IX
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Databankenwet.
 
 ##### Artikel X
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Faillissementswet.
 
 ##### Artikel XI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Luchtvaartwet.
 
 ##### Artikel XII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Penitentiaire beginselenwet.
 
 ##### Artikel XIII
 
@@ -92,51 +92,51 @@ Wijzigt de Politiewet 1993.
 
 ##### Artikel XIV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Uitleveringswet.
 
 ##### Artikel XV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Uitvoeringswet verordening Europese coöperatieve vennootschap.
 
 ##### Artikel XVI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Vreemdelingenwet 2000.
 
 ##### Artikel XVII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet administratiefrechtelijke handhaving verkeersvoorschriften.
 
 ##### Artikel XVIII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet beëdigde tolken en vertalers.
 
 ##### Artikel XIX
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet bescherming oorspronkelijke topografieën van halfgeleiderprodukten.
 
 ##### Artikel XX
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet bescherming persoonsgegevens.
 
 ##### Artikel XXI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet Centraal Orgaan opvang asielzoekers.
 
 ##### Artikel XXII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet justitiële en strafvorderlijke gegevens.
 
 ##### Artikel XXIII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet Justitie-subsidies.
 
 ##### Artikel XXIV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet openbaarheid van bestuur.
 
 ##### Artikel XXV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet opneming buitenlandse kinderen ter adoptie.
 
 ##### Artikel XXVI
 
@@ -144,39 +144,39 @@ Wijzigt de Wet rechtspositie rechterlijke ambtenaren.
 
 ##### Artikel XXVII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet toezicht collectieve beheersorganisaties auteurs- en naburige rechten.
 
 ##### Artikel XXVIII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet tuchtrechtspraak bedrijfsorganisatie 2004.
 
 ##### Artikel XXIX
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet wapens en munitie.
 
 ##### Artikel XXX
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de bijzondere opsporingsdiensten.
 
 ##### Artikel XXXI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de jeugdzorg.
 
 ##### Artikel XXXII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de naburige rechten.
 
 ##### Artikel XXXIII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de rechterlijke indeling.
 
 ##### Artikel XXXIV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de rechterlijke organisatie.
 
 ##### Artikel XXXV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de rechtsbijstand.
 
 ##### Artikel XXXVI
 
@@ -184,31 +184,31 @@ Wijzigt de Wet op het notarisambt.
 
 ##### Artikel XXXVII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Wetboek van Burgerlijke Rechtsvordering.
 
 ##### Artikel XXXVIII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Wetboek van Strafrecht.
 
 ##### Artikel XXXIX
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Wetboek van Strafvordering.
 
 ##### Artikel XL
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wijzigingswet Auteurswet 1912, enz. (richtlijn Raad van de Europese Gemeenschappen betreffende verhuurrecht, uitleenrecht en bepaalde naburige rechten).
 
 ##### Artikel XLa
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het bij koninklijke boodschap van 9 juni 2005 ingediende voorstel van wet tot wijziging van het Wetboek van Strafvordering, het Wetboek van Strafrecht en de Wet schadefonds geweldsmisdrijven ter versterking van de positie van het slachtoffer in het strafproces (30 143).
 
 ##### Artikel XLI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wijzigingswet Auteurswet 1912, enz. ivm richtlijn tot coördinatie van bepaalde voorschriften betreffende het auteursrecht en naburige rechten op het gebied van de satellietomroep en de doorgifte via de kabel.
 
 ##### Artikel XLII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Aanpassingswet Auteurswet 1912, enz. (uitvoering richtlijn auteursrecht en naburige rechten in de informatiemaatschappij).
 
 ##### Artikel XLIIa
 
@@ -216,16 +216,26 @@ Wijzigt de Wijzigingswet Wetboek van Strafrecht, enz. (gedragsbeïnvloeding jeug
 
 ##### Artikel XLIII
 
-Dit onderdeel is nog niet inwerking getreden
+In strafzaken waarin voor de inwerkingtreding van [artikel II, onderdelen O tot en met R](https://wetten.overheid.nl/jci1.3:c:BWBR0020074&artikel=II), [artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0020074&artikel=III), [artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBR0020074&artikel=IV) en [artikel VI van de Wet OM-afdoening](https://wetten.overheid.nl/jci1.3:c:BWBR0020074&artikel=VI) voorwaarden ter voorkoming van strafvervolging zijn gesteld overeenkomstig de [artikelen 74](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=74) en [74c van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=74c), de [artikelen 36](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=36) en [37 van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=37), [artikel 76 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=76) respectievelijk [artikel 85 van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=85), blijft [artikel 370a, tweede lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=370a) van toepassing zoals dit luidt op de dag voor inwerkingtreding van [artikel XXXIX, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0023650&artikel=XXXIX&z=2008-03-26&g=2008-03-26), van deze wet.
 
 ##### Artikel XLIIIa
 
-Dit onderdeel is nog niet inwerking getreden
+[Artikel XVI, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0023650&artikel=XVI&z=2008-03-26&g=2008-03-26), is niet van toepassing op bezwaar gemaakt vóór 1 mei 2006 en waarop nog geen beslissing is genomen.
 
 ##### Artikel XLIV
 
-Dit onderdeel is nog niet inwerking getreden
+1. Deze wet treedt in werking met ingang van de eerste dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst, met dien verstande dat de [artikelen I](https://wetten.overheid.nl/jci1.3:c:BWBR0023650&artikel=I&z=2008-03-26&g=2008-03-26), [XXVI, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0023650&artikel=XXVI&z=2008-03-26&g=2008-03-26), en [XXXVI, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0023650&artikel=XXXVI&z=2008-03-26&g=2008-03-26), terugwerken tot en met 1 maart 2007 en [artikel XIII, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0023650&artikel=XIII&z=2008-03-26&g=2008-03-26), terugwerkt tot en met 1 februari 2006.
+
+2. Indien het bij koninklijke boodschap van 20 oktober 2005 ingediende voorstel van wet tot [wijziging van het Wetboek van Strafrecht, het Wetboek van Strafvordering en de Wet op de jeugdzorg met het oog op verruiming van de mogelijkheden tot gedragsbeïnvloeding van jeugdigen (gedragsbeïnvloeding jeugdigen)](https://wetten.overheid.nl/jci1.3:c:BWBR0023164) (Kamerstukken 30 332) tot wet is verheven en in werking is getreden vóór het tijdstip van inwerkingtreding van deze wet, werkt [artikel XLIIa, onderdelen B en C](https://wetten.overheid.nl/jci1.3:c:BWBR0023650&artikel=XLIIa&z=2008-03-26&g=2008-03-26), terug tot en met het tijdstip van inwerkingtreding van die wet.
 
 ##### Artikel XLV
 
-Dit onderdeel is nog niet inwerking getreden
+Deze wet wordt aangehaald als: Reparatiewet III Justitie.
+
+Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
+
+Alzo Wij in overweging genomen hebben, dat het wenselijk is in diverse wetsbepalingen op het terrein van het ministerie van Justitie wijzigingen van wetstechnische of anderszins ondergeschikte aard aan te brengen in verband met geconstateerde wetstechnische gebreken en leemten;
+
+Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
