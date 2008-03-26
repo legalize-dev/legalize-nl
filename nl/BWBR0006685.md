@@ -4,7 +4,7 @@ identifier: "BWBR0006685"
 country: "nl"
 rank: "wet"
 publication_date: "2025-07-01"
-last_updated: "2004-05-01"
+last_updated: "2008-03-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006685"
 soort: "wet"
@@ -47,9 +47,9 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. Onze Minister: Onze Minister voor Vreemdelingenzaken en Integratie;
+- a. Onze Minister: Onze Minister van Justitie;
 
-- b. orgaan: het Centraal Orgaan opvang asielzoekers, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&paragraaf=2&artikel=2&z=2004-05-01&g=2004-05-01);
+- b. orgaan: het Centraal Orgaan opvang asielzoekers, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&paragraaf=2&artikel=2&z=2008-03-26&g=2008-03-26);
 
 - c. overgangsdatum: de datum waarop deze wet in werking treedt;
 
@@ -117,9 +117,9 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 7
 
-1. Het bestuur van het orgaan draagt er zorg voor dat de taken, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&paragraaf=2&artikel=3&z=2004-05-01&g=2004-05-01), op doelmatige en deskundige wijze worden uitgevoerd en draagt overigens zorg voor een goede uitvoering van deze wet.
+1. Het bestuur van het orgaan draagt er zorg voor dat de taken, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&paragraaf=2&artikel=3&z=2008-03-26&g=2008-03-26), op doelmatige en deskundige wijze worden uitgevoerd en draagt overigens zorg voor een goede uitvoering van deze wet.
 
-2. Een besluit van het bestuur om werkzaamheden, die de uitvoering van taken als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&paragraaf=2&artikel=3&z=2004-05-01&g=2004-05-01) betreffen, door derden te laten uitvoeren, behoeft voor zover het door Onze Minister aangegeven werkzaamheden betreft zijn goedkeuring.
+2. Een besluit van het bestuur om werkzaamheden, die de uitvoering van taken als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&paragraaf=2&artikel=3&z=2008-03-26&g=2008-03-26) betreffen, door derden te laten uitvoeren, behoeft voor zover het door Onze Minister aangegeven werkzaamheden betreft zijn goedkeuring.
 
 ##### Artikel 8
 
@@ -147,11 +147,11 @@ Het orgaan wordt in en buiten rechte vertegenwoordigd door de voorzitter van het
 
 ##### Artikel 12
 
-Onze Minister kan regels stellen met betrekking tot verstrekkingen aan asielzoekers en andere categorieën vreemdelingen als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&paragraaf=2&artikel=3&z=2004-05-01&g=2004-05-01).
+Onze Minister kan regels stellen met betrekking tot verstrekkingen aan asielzoekers en andere categorieën vreemdelingen als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&paragraaf=2&artikel=3&z=2008-03-26&g=2008-03-26).
 
 ##### Artikel 13
 
-1. Onze Minister kan beleidsregels vaststellen met betrekking tot de werkwijze en de uitvoering van de taken van het orgaan. Voor zover het taken betreft als bedoeld in [artikel 3, eerste lid, onderdeel **d**](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&paragraaf=2&artikel=3&z=2004-05-01&g=2004-05-01), worden beleidsregels echter niet dan in overeenstemming met Onze Minister van Binnenlandse Zaken vastgesteld. De beleidsregels hebben geen betrekking op de behandeling van individuele gevallen.
+1. Onze Minister kan beleidsregels vaststellen met betrekking tot de werkwijze en de uitvoering van de taken van het orgaan. Voor zover het taken betreft als bedoeld in [artikel 3, eerste lid, onderdeel **d**](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&paragraaf=2&artikel=3&z=2008-03-26&g=2008-03-26), worden beleidsregels echter niet dan in overeenstemming met Onze Minister van Binnenlandse Zaken vastgesteld. De beleidsregels hebben geen betrekking op de behandeling van individuele gevallen.
 
 2. Beleidsregels als bedoeld in het eerste lid worden niet vastgesteld dan nadat Onze Minister het bestuur van het orgaan in de gelegenheid heeft gesteld zijn gevoelen daaromtrent kenbaar te maken.
 
@@ -219,7 +219,7 @@ Onze Minister kan regels stellen met betrekking tot verstrekkingen aan asielzoek
 
 4. Het bestuur en de in het tweede lid bedoelde accountant werken mee aan door Onze Minister in te stellen onderzoeken, die noodzakelijk zijn voor de uitvoering van de taak van het ministerie.
 
-5. De instemming met het financiële verslag, bedoeld in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&paragraaf=5&artikel=16&z=2004-05-01&g=2004-05-01), wordt slechts geheel of gedeeltelijk onthouden, indien uitgaven zijn geschied in strijd met het bepaalde bij of krachtens de wet.
+5. De instemming met het financiële verslag, bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&paragraaf=5&artikel=17&z=2008-03-26&g=2008-03-26), wordt slechts geheel of gedeeltelijk onthouden, indien uitgaven zijn geschied in strijd met het bepaalde bij of krachtens de wet.
 
 ##### Artikel 19
 
@@ -257,7 +257,7 @@ In afwijking van [artikel 4:60 van de Algemene wet bestuursrecht](https://wetten
 
 ##### Artikel 22
 
-1. Met ingang van de overgangsdatum verkrijgt een personeelslid met wie een arbeidsovereenkomst als bedoeld in [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&paragraaf=6&artikel=21&z=2004-05-01&g=2004-05-01), is gesloten, ter zake van de ouderdoms- en nabestaandenpensioenvoorziening aanspraken jegens een door het bestuur van het orgaan aan te wijzen instelling als bedoeld in [artikel 1, eerste lid, van de Pensioen- en spaarfondsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002089&artikel=1) die gelijkwaardig zijn aan die welke het personeelslid op de laatste dag van de kalendermaand voorafgaande aan de overgangsdatum heeft jegens het Algemeen burgerlijk pensioenfonds krachtens de Algemene burgerlijke pensioenwet en neemt de aangewezen instelling de daarmee verband houdende verplichtingen op zich.
+1. Met ingang van de overgangsdatum verkrijgt een personeelslid met wie een arbeidsovereenkomst als bedoeld in [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&paragraaf=6&artikel=21&z=2008-03-26&g=2008-03-26), is gesloten, ter zake van de ouderdoms- en nabestaandenpensioenvoorziening aanspraken jegens een door het bestuur van het orgaan aan te wijzen instelling als bedoeld in [artikel 1, eerste lid, van de Pensioen- en spaarfondsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002089&artikel=1) die gelijkwaardig zijn aan die welke het personeelslid op de laatste dag van de kalendermaand voorafgaande aan de overgangsdatum heeft jegens het Algemeen burgerlijk pensioenfonds krachtens de Algemene burgerlijke pensioenwet en neemt de aangewezen instelling de daarmee verband houdende verplichtingen op zich.
 
 2. De in het eerste lid bedoelde instelling wordt door het bestuur van het orgaan op de overgangsdatum aangewezen.
 
@@ -269,7 +269,7 @@ In afwijking van [artikel 4:60 van de Algemene wet bestuursrecht](https://wetten
 
 - b. die betrekking hebben op het recht op invaliditeitspensioen en het recht op de aanvulling daarvan, bedoeld in [artikel F9 van de Algemene burgerlijke pensioenwet](onbekend), van een personeelslid dat op de dag voorafgaande aan de overgangsdatum blijkens een geneeskundig onderzoek als bedoeld in hoofdstuk P van de Algemene burgerlijke pensioenwet wegens ziekte of gebreken blijvend ongeschikt is zijn functie te vervullen, doch waarover nog geen beslissing van het bestuur van het Algemeen burgerlijk pensioenfonds is genomen.
 
-5. Het eerste, derde en vierde lid zijn van overeenkomstige toepassing op het personeelslid dat op grond van [artikel 21, zevende tot en met elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&paragraaf=6&artikel=21&z=2004-05-01&g=2004-05-01), na de overgangsdatum over gaat in dienst bij het orgaan.
+5. Het eerste, derde en vierde lid zijn van overeenkomstige toepassing op het personeelslid dat op grond van [artikel 21, zevende tot en met elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&paragraaf=6&artikel=21&z=2008-03-26&g=2008-03-26), na de overgangsdatum over gaat in dienst bij het orgaan.
 
 6. Het bestuur van het Algemeen burgerlijk pensioenfonds draagt aan de in het eerste lid bedoelde instelling een deel van het vermogen van het Algemeen burgerlijk pensioenfonds over. Een deel van de overdrachtssom wordt bepaald op grond van de aanspraken op ouderdomspensioen die krachtens de [Algemene burgerlijke pensioenwet](onbekend) ten behoeve van een personeelslid zijn opgebouwd tot en met de dag, voorafgaande aan de datum van indiensttreding bij het orgaan. In de totale overdrachtssom is een aan bedoelde aanspraken evenredig aandeel in de voorziening voor nabestaandenpensioenen en in de algemene reserve begrepen, een en ander volgens een door het Algemeen burgerlijk pensioenfonds op te stellen opgebouwde aanspraken-balans. Het over te dragen vermogen heeft eenzelfde rendementspotentieel als het bij het Algemeen burgerlijk pensioenfonds achterblijvende vermogen.
 
@@ -281,21 +281,21 @@ In afwijking van [artikel 4:60 van de Algemene wet bestuursrecht](https://wetten
 
 ##### Artikel 23
 
-Ter zake van de vermogensoverdracht van het Algemeen burgerlijk pensioenfonds aan de instelling, bedoeld in [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&paragraaf=6&artikel=22&z=2004-05-01&g=2004-05-01), blijft heffing van overdrachtsbelasting achterwege.
+Ter zake van de vermogensoverdracht van het Algemeen burgerlijk pensioenfonds aan de instelling, bedoeld in [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&paragraaf=6&artikel=22&z=2008-03-26&g=2008-03-26), blijft heffing van overdrachtsbelasting achterwege.
 
 ##### Artikel 24
 
 1. Alle zaken, rechten en verplichtingen van de Interimstichting Opvang Asielzoekers en van de Stichting Projecten Opvang Asielzoekers gaan bij de inwerkingtreding van deze wet over op het orgaan.
 
-2. Hetzelfde geldt met betrekking tot de zaken en rechten onderscheidenlijk de verplichtingen die Onze Minister heeft verworven onderscheidenlijk is aangegaan ter vervulling van de taken, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&paragraaf=2&artikel=3&z=2004-05-01&g=2004-05-01).
+2. Hetzelfde geldt met betrekking tot de zaken en rechten onderscheidenlijk de verplichtingen die Onze Minister heeft verworven onderscheidenlijk is aangegaan ter vervulling van de taken, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&paragraaf=2&artikel=3&z=2008-03-26&g=2008-03-26).
 
-3. [Artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&paragraaf=6&artikel=23&z=2004-05-01&g=2004-05-01) is van overeenkomstige toepassing.
+3. [Artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&paragraaf=6&artikel=23&z=2008-03-26&g=2008-03-26) is van overeenkomstige toepassing.
 
 ##### Artikel 25
 
 1. Rechtsgedingen in burgerlijke zaken en in administratieve zaken die zijn ingesteld door of tegen de Interimstichting Opvang Asielzoekers of de Stichting Projecten Opvang Asielzoekers worden, met uitzondering van ambtenarenzaken, met ingang van inwerkingtreding van deze wet voortgezet door of tegen het orgaan.
 
-2. Rechtsgedingen als bedoeld in het eerste lid, die zijn ingesteld door of tegen Onze Minister en die samenhangen met de vervulling van de taken, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&paragraaf=2&artikel=3&z=2004-05-01&g=2004-05-01), worden met ingang van inwerkingtreding van deze wet voortgezet door of tegen het orgaan.
+2. Rechtsgedingen als bedoeld in het eerste lid, die zijn ingesteld door of tegen Onze Minister en die samenhangen met de vervulling van de taken, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&paragraaf=2&artikel=3&z=2008-03-26&g=2008-03-26), worden met ingang van inwerkingtreding van deze wet voortgezet door of tegen het orgaan.
 
 ##### Artikel 26
 
