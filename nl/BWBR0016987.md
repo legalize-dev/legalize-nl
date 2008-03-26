@@ -4,7 +4,7 @@ identifier: "BWBR0016987"
 country: "nl"
 rank: "wet"
 publication_date: "2022-10-01"
-last_updated: "2004-09-01"
+last_updated: "2008-03-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016987"
 soort: "wet"
@@ -60,11 +60,11 @@ Voor zover uitvoerende kunstenaars of fonogrammenproducenten als bedoeld in het 
 
 ##### Artikel IV
 
-Deze wet laat vóór het in [artikel VII](https://wetten.overheid.nl/jci1.3:c:BWBR0016987&artikel=VII&z=2004-09-01&g=2004-09-01) van deze wet te bepalen tijdstip verrichte exploitatiehandelingen, alsmede vóór dat tijdstip verworven rechten onverlet.
+Deze wet laat vóór het in [artikel VII](https://wetten.overheid.nl/jci1.3:c:BWBR0016987&artikel=VII&z=2008-03-26&g=2008-03-26) van deze wet te bepalen tijdstip verrichte exploitatiehandelingen, alsmede vóór dat tijdstip verworven rechten onverlet.
 
 ##### Artikel V
 
-Onze Minister van Justitie zendt uiterlijk binnen drie jaar na de inwerkingtreding van deze wet en vervolgens telkens na drie jaar aan de Staten-Generaal een verslag over de toepassing van de [artikelen 29a](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=29a) en [29b van de Auteurswet 1912](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=29b), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&artikel=19) en [19a van de Wet op de naburige rechten](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&artikel=19a) en [5a en 5b van de Databankenwet](onbekend).
+Onze Minister van Justitie zendt uiterlijk binnen drie jaar na de inwerkingtreding van deze wet en vervolgens telkens na drie jaar aan de Staten-Generaal een verslag over de toepassing van de [artikelen 29a](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=29a) en [29b van de Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=29b), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&artikel=19) en [19a van de Wet op de naburige rechten](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&artikel=19a) en [5a en 5b van de Databankenwet](onbekend).
 
 ##### Artikel Va
 
