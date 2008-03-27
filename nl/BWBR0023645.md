@@ -4,7 +4,7 @@ identifier: "BWBR0023645"
 country: "nl"
 rank: "zbo"
 publication_date: "2022-03-31"
-last_updated: "2008-01-01"
+last_updated: "2008-03-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023645"
 soort: "zbo"
@@ -45,7 +45,7 @@ De kantoren van de Dienst zijn gevestigd in de gemeenten Alkmaar, Amsterdam, Ape
 
 ##### Artikel 2
 
-1. De kantoren, genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0023645&artikel=1&z=2008-03-27&g=2008-01-01), zijn, voor zover aldaar stukken ter inschrijving in de openbare registers kunnen worden aangeboden, voor dat doel voor het publiek opengesteld op maandag tot en met vrijdag van 9.00 tot 15.00 uur.
+1. De kantoren, genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0023645&artikel=1&z=2008-03-27&g=2008-03-27), zijn, voor zover aldaar stukken ter inschrijving in de openbare registers kunnen worden aangeboden, voor dat doel voor het publiek opengesteld op maandag tot en met vrijdag van 9.00 tot 15.00 uur.
 
 2. Het kantoor te Apeldoorn, Hofstraat 110, is uitsluitend voor de aanbieding van in depot te nemen tekeningen en andere stukken die deel uitmaken van een stuk dat ter inschrijving in de openbare registers zal worden aangeboden, voor het publiek opengesteld op maandag tot en met vrijdag van 9.00 tot 15.00 uur.
 
