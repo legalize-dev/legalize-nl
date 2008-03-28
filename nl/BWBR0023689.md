@@ -4,7 +4,7 @@ identifier: "BWBR0023689"
 country: "nl"
 rank: "zbo"
 publication_date: "2008-03-28"
-last_updated: "2008-01-01"
+last_updated: "2008-03-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023689"
 soort: "zbo"
@@ -45,9 +45,9 @@ Het op 18 december 2007 door het bestuur van de Dienst genomen besluit tot vasts
 
 ##### Artikel 2
 
-1. De bekendmaking van het besluit, genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0023689&artikel=1&z=2008-03-28&g=2008-01-01), geschiedt door kennisgeving van dat besluit in de Staatscourant.
+1. De bekendmaking van het besluit, genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0023689&artikel=1&z=2008-03-28&g=2008-03-28), geschiedt door kennisgeving van dat besluit in de Staatscourant.
 
-2. Met ingang van het tijdstip waarop het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0023689&artikel=1&z=2008-03-28&g=2008-01-01) genoemde besluit in werking treedt, wordt de catalogus basisregistratie topografie en het onderhavige besluit bij alle kantoren van het Kadaster ter inzage gelegd gedurende de tijden waarop die kantoren voor het publiek zijn geopend, en kan een elektronische versie van die catalogus worden gedownload van de website van het Kadaster (www.kadaster.nl). Van deze terinzagelegging en mogelijkheid tot downloaden wordt mededeling gedaan in de Staatscourant.
+2. Met ingang van het tijdstip waarop het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0023689&artikel=1&z=2008-03-28&g=2008-03-28) genoemde besluit in werking treedt, wordt de catalogus basisregistratie topografie en het onderhavige besluit bij alle kantoren van het Kadaster ter inzage gelegd gedurende de tijden waarop die kantoren voor het publiek zijn geopend, en kan een elektronische versie van die catalogus worden gedownload van de website van het Kadaster (www.kadaster.nl). Van deze terinzagelegging en mogelijkheid tot downloaden wordt mededeling gedaan in de Staatscourant.
 
 ##### Artikel 3
 
