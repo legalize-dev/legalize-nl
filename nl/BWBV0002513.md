@@ -4,7 +4,7 @@ identifier: "BWBV0002513"
 country: "nl"
 rank: "verdrag"
 publication_date: "2022-05-05"
-last_updated: "2007-04-30"
+last_updated: "2008-03-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0002513"
 soort: "verdrag"
@@ -203,7 +203,7 @@ Elke Partij geeft de luchtvaartmaatschappijen van de andere Partij eerlijke en g
 
 - b. voor communautaire luchtvaartmaatschappijen indien het vervoer, met uitzondering van i vrachtdiensten en ii gecombineerde diensten tussen de Verenigde Staten en een staat die lid is van de ECAA, vanaf de datum van ondertekening van deze Overeenkomst deel uitmaakt van een dienst die een lidstaat bedient.
 
-4. Elke Partij laat iedere luchtvaartmaatschappij vrij in de bepaling van frequentie en capaciteit van het internationaal luchtvervoer dat zij op basis van commerciële overwegingen op de markt aanbiedt. Overeenkomstig dit recht legt geen van beide Partijen eenzijdig beperkingen op met betrekking tot verkeersvolume, frequentie of regelmaat van de diensten dan wel ten aanzien van het vliegtuigtype of de vliegtuigtypes die door de luchtvaartmaatschappijen van de andere Partij wordt, c.q. worden gebruikt, noch eist zij indiening van dienstregelingen, programma’s voor chartervluchten of operationele plannen door luchtvaartmaatschappijen van de andere Partij, tenzij dit mag worden geëist in verband met de douane of om technische, bedrijfs- of milieu- (overeenkomstig [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&artikel=15&z=2007-04-30&g=2007-04-30)) redenen onder gelijke voorwaarden overeenkomstig [artikel 15 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005507&artikel=15).
+4. Elke Partij laat iedere luchtvaartmaatschappij vrij in de bepaling van frequentie en capaciteit van het internationaal luchtvervoer dat zij op basis van commerciële overwegingen op de markt aanbiedt. Overeenkomstig dit recht legt geen van beide Partijen eenzijdig beperkingen op met betrekking tot verkeersvolume, frequentie of regelmaat van de diensten dan wel ten aanzien van het vliegtuigtype of de vliegtuigtypes die door de luchtvaartmaatschappijen van de andere Partij wordt, c.q. worden gebruikt, noch eist zij indiening van dienstregelingen, programma’s voor chartervluchten of operationele plannen door luchtvaartmaatschappijen van de andere Partij, tenzij dit mag worden geëist in verband met de douane of om technische, bedrijfs- of milieu- (overeenkomstig [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&artikel=15&z=2008-03-30&g=2008-03-30)) redenen onder gelijke voorwaarden overeenkomstig [artikel 15 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005507&artikel=15).
 
 5. Een luchtvaartmaatschappij mag internationaal luchtvervoer verrichten zonder enige beperking met betrekking tot het op enig punt veranderen van type of aantal gebruikte luchtvaartuigen; op voorwaarde dat, a) voor Amerikaanse luchtvaartmaatschappijen, het vervoer, vrachtdiensten uitgezonderd, deel uitmaakt van een dienst die de Verenigde Staten bedient; en b) voor communautaire luchtvaartmaatschappijen indien het vervoer, met uitzondering van i) vrachtdiensten en ii) gecombineerde diensten tussen de Verenigde Staten en een staat die lid is van de ECAA, vanaf de datum van ondertekening van deze Overeenkomst deel uitmaakt van een dienst die een lidstaat bedient.
 
@@ -213,7 +213,7 @@ Elke Partij geeft de luchtvaartmaatschappijen van de andere Partij eerlijke en g
 
 - b. communautaire luchtvaartmaatschappijen het recht te geven op het grondgebied van de Verenigde Staten tegen vergoeding passagiers, bagage, vracht of post op te nemen die bestemd zijn voor een ander punt op het grondgebied van de Verenigde Staten.
 
-7. De toegang van de communautaire luchtvaartmaatschappijen tot door de regering van de Verenigde Staten verworven vervoer wordt geregeld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&bijlage=3&z=2007-04-30&g=2007-04-30).
+7. De toegang van de communautaire luchtvaartmaatschappijen tot door de regering van de Verenigde Staten verworven vervoer wordt geregeld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&bijlage=3&z=2008-03-30&g=2008-03-30).
 
 ##### Artikel 4. Verlening van vergunningen
 
@@ -225,7 +225,7 @@ Na ontvangst van de aanvragen die door een luchtvaartmaatschappij van een Partij
 
 - c. de luchtvaartmaatschappij in staat is te voldoen aan de in wet- en regelgeving voorgeschreven voorwaarden die gewoonlijk worden toegepast op de exploitatie van internationaal luchtvervoer door de Partij die de aanvraag of aanvragen behandelt; en
 
-- d. de bepalingen van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&artikel=8&z=2007-04-30&g=2007-04-30) (veiligheid) en [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&artikel=9&z=2007-04-30&g=2007-04-30) (beveiliging) worden gehandhaafd en toegepast.
+- d. de bepalingen van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&artikel=8&z=2008-03-30&g=2008-03-30) (veiligheid) en [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&artikel=9&z=2008-03-30&g=2008-03-30) (beveiliging) worden gehandhaafd en toegepast.
 
 ##### Artikel 5. Intrekking van vergunningen
 
@@ -235,15 +235,15 @@ Na ontvangst van de aanvragen die door een luchtvaartmaatschappij van een Partij
 
 - b. waar het een communautaire luchtvaartmaatschappij betreft, een aanmerkelijk deel van de eigendom van en de feitelijke zeggenschap over die luchtvaartmaatschappij niet bij een lidstaat of lidstaten, niet bij onderdanen van die staat of staten dan wel bij geen van beide berusten, de luchtvaartmaatschappij geen vergunning als communautaire luchtvaartmaatschappij heeft gekregen en haar hoofdkantoor niet op het grondgebied van de Europese Gemeenschap gevestigd is; of
 
-- c. die luchtvaartmaatschappij zich niet heeft gehouden aan de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&artikel=7&z=2007-04-30&g=2007-04-30) (toepassing van wetgeving) van deze Overeenkomst bedoelde wetgeving.
+- c. die luchtvaartmaatschappij zich niet heeft gehouden aan de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&artikel=7&z=2008-03-30&g=2008-03-30) (toepassing van wetgeving) van deze Overeenkomst bedoelde wetgeving.
 
 2. Tenzij onmiddellijk optreden van essentieel belang is om verdere inbreuken op lid 1, sub c), van dit artikel te voorkomen, worden de in dit artikel ingestelde rechten pas uitgeoefend na overleg met de andere Partij.
 
-3. Dit artikel houdt geen beperking in van de rechten van Partijen om de exploitatievergunning of technische vergunning van een luchtvaartmaatschappij of luchtvaartmaatschappijen te weigeren, in te trekken, te beperken of daaraan voorwaarden te verbinden overeenkomstig de bepalingen van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&artikel=8&z=2007-04-30&g=2007-04-30) (veiligheid) of [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&artikel=9&z=2007-04-30&g=2007-04-30) (beveiliging).
+3. Dit artikel houdt geen beperking in van de rechten van Partijen om de exploitatievergunning of technische vergunning van een luchtvaartmaatschappij of luchtvaartmaatschappijen te weigeren, in te trekken, te beperken of daaraan voorwaarden te verbinden overeenkomstig de bepalingen van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&artikel=8&z=2008-03-30&g=2008-03-30) (veiligheid) of [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&artikel=9&z=2008-03-30&g=2008-03-30) (beveiliging).
 
 ##### Artikel 6. Andere kwesties in verband met eigendom, investering en zeggenschap
 
-Onverminderd andere bepalingen van deze Overeenkomst geven de Partijen uitvoering aan de bepalingen van [Bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&bijlage=4&z=2007-04-30&g=2007-04-30) in hun krachtens hun respectieve wetten en voorschriften betreffende eigendom, investering en zeggenschap genomen besluiten.
+Onverminderd andere bepalingen van deze Overeenkomst geven de Partijen uitvoering aan de bepalingen van [Bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&bijlage=4&z=2008-03-30&g=2008-03-30) in hun krachtens hun respectieve wetten en voorschriften betreffende eigendom, investering en zeggenschap genomen besluiten.
 
 ##### Artikel 7. Toepassing van wetgeving
 
@@ -355,7 +355,7 @@ Onverminderd andere bepalingen van deze Overeenkomst geven de Partijen uitvoerin
 
 3. Iedere Partij moedigt de bevoegde belastingautoriteiten of -instanties op haar grondgebied en de luchtvaartmaatschappijen die de diensten en faciliteiten gebruiken, aan overleg te plegen, en moedigt de bevoegde belastingautoriteiten of -instanties en de luchtvaartmaatschappijen aan alle informatie uit te wisselen die nodig is om de redelijkheid van de lasten overeenkomstig de beginselen van de leden 1 en 2 van dit artikel nauwkeurig te kunnen beoordelen. Elke Partij moedigt de bevoegde belastingautoriteiten aan de gebruikers binnen een redelijke termijn in kennis te stellen van ieder voorstel tot wijziging van de gebruikerslasten, teneinde de gebruikers in staat te stellen hun mening kenbaar te maken voordat de wijzigingen worden aangebracht.
 
-4. Geen van beide Partijen wordt bij geschiloplossingsprocedures volgens [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&artikel=19&z=2007-04-30&g=2007-04-30) geacht een bepaling van dit artikel te hebben overtreden tenzij a. zij verzuimt de last of de praktijk die het onderwerp is van een klacht door de andere Partij binnen een redelijke termijn opnieuw in ogenschouw te nemen; of b. na deze beschouwing nalaat alle in haar macht liggende stappen te ondernemen om een last of praktijk die niet in overeenstemming is met dit artikel te corrigeren.
+4. Geen van beide Partijen wordt bij geschiloplossingsprocedures volgens [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&artikel=19&z=2008-03-30&g=2008-03-30) geacht een bepaling van dit artikel te hebben overtreden tenzij a. zij verzuimt de last of de praktijk die het onderwerp is van een klacht door de andere Partij binnen een redelijke termijn opnieuw in ogenschouw te nemen; of b. na deze beschouwing nalaat alle in haar macht liggende stappen te ondernemen om een last of praktijk die niet in overeenstemming is met dit artikel te corrigeren.
 
 ##### Artikel 13. Prijzen
 
@@ -371,7 +371,7 @@ Onverminderd andere bepalingen van deze Overeenkomst geven de Partijen uitvoerin
 
 1. De Partijen erkennen dat overheidssubsidies en -steun een nadelige invloed kunnen hebben op de eerlijke en gelijke gelegenheid tot mededinging voor luchtvaartmaatschappijen bij het aanbieden van het onder deze Overeenkomst vallend internationaal luchtvervoer.
 
-2. Indien een Partij van mening is dat door de andere Partij overwogen of verleende overheidssubsidie of -steun aan de luchtvaartmaatschappijen van die andere Partij een nadelige invloed zal hebben of heeft op die eerlijke en gelijke gelegenheid tot mededinging voor de luchtvaartmaatschappijen van eerstgenoemde Partij, kan zij bij die Partij opmerkingen maken. Voorts kan zij overeenkomstig [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&artikel=18&z=2007-04-30&g=2007-04-30) om een bijeenkomst van het Gemengd Comité verzoeken om de kwestie te bespreken en passende antwoorden te formuleren op terecht bevonden bezwaren.
+2. Indien een Partij van mening is dat door de andere Partij overwogen of verleende overheidssubsidie of -steun aan de luchtvaartmaatschappijen van die andere Partij een nadelige invloed zal hebben of heeft op die eerlijke en gelijke gelegenheid tot mededinging voor de luchtvaartmaatschappijen van eerstgenoemde Partij, kan zij bij die Partij opmerkingen maken. Voorts kan zij overeenkomstig [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&artikel=18&z=2008-03-30&g=2008-03-30) om een bijeenkomst van het Gemengd Comité verzoeken om de kwestie te bespreken en passende antwoorden te formuleren op terecht bevonden bezwaren.
 
 3. Iedere Partij kan de bevoegde overheidsinstanties op het grondgebied van de andere Partij, zijnde nationale, provinciale of plaatselijke instanties, aanspreken, indien zij van mening is dat de subsidie of steun die door deze instanties wordt overwogen of verleend de in lid 2 bedoelde nadelige invloed op de mededinging zal hebben. Indien een Partij besluit om rechtstreeks contact op te nemen, stelt zij de andere Partij daarvan onverwijld via diplomatieke kanalen in kennis. Zij kan ook om een bijeenkomst van het Gemengd Comité verzoeken.
 
@@ -383,9 +383,9 @@ Onverminderd andere bepalingen van deze Overeenkomst geven de Partijen uitvoerin
 
 2. Wanneer een Partij voorgestelde milieumaatregelen overweegt, dient zij de mogelijke nadelige gevolgen voor de uitoefening van de in deze Overeenkomst vervatte rechten te evalueren, en indien bedoelde maatregelen worden aangenomen, passende stappen te ondernemen om dergelijke nadelige gevolgen te verzachten.
 
-3. Bij de vaststelling van milieumaatregelen moeten de door de internationale luchtvaartorganisaties in de bijlagen bij het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005507) opgenomen milieunormen voor de luchtvaart worden gevolgd, tenzij er mededeling is gedaan van verschillen. De Partijen passen milieumaatregelen toe die van invloed zijn op de onder deze Overeenkomst vallende luchtdiensten overeenkomstig [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&artikel=2&z=2007-04-30&g=2007-04-30) en [artikel 3, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&artikel=3&z=2007-04-30&g=2007-04-30), van deze Overeenkomst.
+3. Bij de vaststelling van milieumaatregelen moeten de door de internationale luchtvaartorganisaties in de bijlagen bij het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005507) opgenomen milieunormen voor de luchtvaart worden gevolgd, tenzij er mededeling is gedaan van verschillen. De Partijen passen milieumaatregelen toe die van invloed zijn op de onder deze Overeenkomst vallende luchtdiensten overeenkomstig [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&artikel=2&z=2008-03-30&g=2008-03-30) en [artikel 3, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&artikel=3&z=2008-03-30&g=2008-03-30), van deze Overeenkomst.
 
-4. Indien een Partij van mening is dat een zaak waarbij milieubescherming met betrekking tot de luchtvaart in het geding is, problemen oplevert voor de toepassing of tenuitvoerlegging van deze Overeenkomst, dan kan zij overeenkomstig [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&artikel=18&z=2007-04-30&g=2007-04-30) om een bijeenkomst van het Gemengd Comité verzoeken om de kwestie te bespreken en passende antwoorden te formuleren voor terecht bevonden bezwaren.
+4. Indien een Partij van mening is dat een zaak waarbij milieubescherming met betrekking tot de luchtvaart in het geding is, problemen oplevert voor de toepassing of tenuitvoerlegging van deze Overeenkomst, dan kan zij overeenkomstig [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&artikel=18&z=2008-03-30&g=2008-03-30) om een bijeenkomst van het Gemengd Comité verzoeken om de kwestie te bespreken en passende antwoorden te formuleren voor terecht bevonden bezwaren.
 
 ##### Artikel 16. Consumentenbescherming
 
@@ -403,9 +403,9 @@ De Partijen bevestigen het belang van consumentenbescherming en elk van de Parti
 
 1. Een Gemengd Comité bestaande uit vertegenwoordigers van de Partijen komt tenminste eenmaal per jaar bijeen voor overleg met betrekking tot deze Overeenkomst en om de tenuitvoerlegging daarvan te toetsen.
 
-2. Een Partij kan ook om een bijeenkomst van het Gemengd Comité verzoeken om oplossingen te vinden voor vragen met betrekking tot de interpretatie of toepassing van deze Overeenkomst. Wat [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&artikel=20&z=2007-04-30&g=2007-04-30) of [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&bijlage=2&z=2007-04-30&g=2007-04-30) betreft, kan het Gemengd Comité echter alleen vragen behandelen die verband houden met de weigering door een van beide Deelnemers om de gedane toezeggingen na te komen en het effect van besluiten inzake mededinging op de toepassing van deze Overeenkomst. De bijeenkomst dient op de vroegst mogelijke datum te beginnen, maar, tenzij anders overeengekomen, niet later dan 60 dagen na de datum van ontvangst van het verzoek.
+2. Een Partij kan ook om een bijeenkomst van het Gemengd Comité verzoeken om oplossingen te vinden voor vragen met betrekking tot de interpretatie of toepassing van deze Overeenkomst. Wat [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&artikel=20&z=2008-03-30&g=2008-03-30) of [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&bijlage=2&z=2008-03-30&g=2008-03-30) betreft, kan het Gemengd Comité echter alleen vragen behandelen die verband houden met de weigering door een van beide Deelnemers om de gedane toezeggingen na te komen en het effect van besluiten inzake mededinging op de toepassing van deze Overeenkomst. De bijeenkomst dient op de vroegst mogelijke datum te beginnen, maar, tenzij anders overeengekomen, niet later dan 60 dagen na de datum van ontvangst van het verzoek.
 
-3. Het Gemengd Comité toetst, uiterlijk op zijn eerste jaarlijkse bijeenkomst en daarna indien nodig, de algehele uitvoering van de Overeenkomst, onder meer de effecten van beperkingen van de luchtvaartinfrastructuur op de uitoefening van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&artikel=3&z=2007-04-30&g=2007-04-30) vastgestelde rechten, de effecten van de krachtens [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&artikel=9&z=2007-04-30&g=2007-04-30) genomen beveiligingsmaatregelen, de effecten op de mededingingsvoorwaarden, onder meer op het gebied van de geautomatiseerde boekingssystemen, en de sociale gevolgen van de uitvoering van de Overeenkomst.
+3. Het Gemengd Comité toetst, uiterlijk op zijn eerste jaarlijkse bijeenkomst en daarna indien nodig, de algehele uitvoering van de Overeenkomst, onder meer de effecten van beperkingen van de luchtvaartinfrastructuur op de uitoefening van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&artikel=3&z=2008-03-30&g=2008-03-30) vastgestelde rechten, de effecten van de krachtens [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&artikel=9&z=2008-03-30&g=2008-03-30) genomen beveiligingsmaatregelen, de effecten op de mededingingsvoorwaarden, onder meer op het gebied van de geautomatiseerde boekingssystemen, en de sociale gevolgen van de uitvoering van de Overeenkomst.
 
 4. Het Gemengd Comité ontwikkelt de samenwerking tevens door:
 
@@ -417,7 +417,7 @@ De Partijen bevestigen het belang van consumentenbescherming en elk van de Parti
 
 - d. een lijst bij te houden van kwesties betreffende overheidssubsidies of -steun die door een van beide Partijen in het Gemengd Comité aan de orde zijn gesteld;
 
-- e. op basis van consensus besluiten te nemen over aangelegenheden in verband met de toepassing van [artikel 11, lid 6](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&artikel=11&z=2007-04-30&g=2007-04-30).
+- e. op basis van consensus besluiten te nemen over aangelegenheden in verband met de toepassing van [artikel 11, lid 6](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&artikel=11&z=2008-03-30&g=2008-03-30).
 
 - f. vóór het verstrijken van het eerste jaar van voorlopige toepassing, regelgevingsbenaderingen inzake de deugdelijkheid en nationaliteit van luchtvaartmaatschappijen te ontwikkelen, met het oog op wederzijdse erkenning van een dergelijke regelgeving;
 
@@ -425,7 +425,7 @@ De Partijen bevestigen het belang van consumentenbescherming en elk van de Parti
 
 - h. waar nodig overleg te stimuleren betreffende kwesties in verband met luchtvervoer die worden behandeld in internationale organisaties, en in het kader van de betrekkingen met derde landen. In dit verband wordt ook een gezamenlijke aanpak in overweging genomen;
 
-- i. op basis van consensus de besluiten te nemen waarnaar in [artikel 1, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&artikel=1&z=2007-04-30&g=2007-04-30), en in [artikel 2, lid 3, van Bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&bijlage=4&artikel=2&z=2007-04-30&g=2007-04-30) wordt verwezen.
+- i. op basis van consensus de besluiten te nemen waarnaar in [artikel 1, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&artikel=1&z=2008-03-30&g=2008-03-30), en in [artikel 2, lid 3, van Bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&bijlage=4&artikel=2&z=2008-03-30&g=2008-03-30) wordt verwezen.
 
 5. De Partijen hebben dezelfde doelstelling, namelijk de voordelen voor consumenten, luchtvaartmaatschappijen, werknemers en gemeenschappen aan beide zijden van de Atlantische Oceaan optimaliseren door deze Overeenkomst uit te breiden tot derde landen. Daartoe zal het Gemengd Comité een voorstel uitwerken met betrekking tot de voorwaarden en procedures, met inbegrip van noodzakelijke wijzigingen van deze Overeenkomst, waaraan derde landen moeten voldoen om tot de Overeenkomst te kunnen toetreden.
 
@@ -433,7 +433,7 @@ De Partijen bevestigen het belang van consumentenbescherming en elk van de Parti
 
 ##### Artikel 19. Arbitrage
 
-1. Geschillen met betrekking tot de toepassing of uitlegging van deze Overeenkomst die niet ontstaan in het kader van [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&artikel=20&z=2007-04-30&g=2007-04-30) of [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&bijlage=2&z=2007-04-30&g=2007-04-30) en die niet door een bijeenkomst van het Gemengd Comité worden opgelost, kunnen, indien de Partijen dit overeenkomen, voor beslechting worden verwezen naar een persoon of orgaan. Indien de Partijen hierover geen overeenstemming bereiken, wordt het geschil op verzoek van één van beide Partijen aan arbitrage onderworpen overeenkomstig de hieronder omschreven procedures.
+1. Geschillen met betrekking tot de toepassing of uitlegging van deze Overeenkomst die niet ontstaan in het kader van [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&artikel=20&z=2008-03-30&g=2008-03-30) of [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&bijlage=2&z=2008-03-30&g=2008-03-30) en die niet door een bijeenkomst van het Gemengd Comité worden opgelost, kunnen, indien de Partijen dit overeenkomen, voor beslechting worden verwezen naar een persoon of orgaan. Indien de Partijen hierover geen overeenstemming bereiken, wordt het geschil op verzoek van één van beide Partijen aan arbitrage onderworpen overeenkomstig de hieronder omschreven procedures.
 
 2. Tenzij de Partijen anders overeenkomen, wordt de arbitrage uitgevoerd door een als volgt samen te stellen scheidsgerecht van drie scheidsrechters.
 
@@ -463,9 +463,9 @@ De Partijen bevestigen het belang van consumentenbescherming en elk van de Parti
 
 2. De Partijen erkennen dat er met betrekking tot de toepassing van hun respectieve mededingingsregels op de internationale luchtvaart verschillen kunnen ontstaan die van invloed zijn op de transatlantische markt en dat de mededinging tussen luchtvaartmaatschappijen op die markt kan worden gestimuleerd door die verschillen zo klein mogelijk te maken.
 
-3. De Partijen erkennen dat samenwerking tussen hun respectieve mededingingsautoriteiten de mededinging op markten helpt bevorderen, de totstandkoming van onderling verenigbare regelgeving kan bevorderen en de verschillen in benadering bij hun respectieve concurrentiebeoordelingen van overeenkomsten tussen luchtvaartmaatschappijen tot een minimum kan beperken. Derhalve bevorderen de Partijen deze samenwerking zoveel mogelijk, daarbij rekening houdend met de verschillende verantwoordelijkheden, bevoegdheden en procedures van de autoriteiten overeenkomstig [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&bijlage=2&z=2007-04-30&g=2007-04-30).
+3. De Partijen erkennen dat samenwerking tussen hun respectieve mededingingsautoriteiten de mededinging op markten helpt bevorderen, de totstandkoming van onderling verenigbare regelgeving kan bevorderen en de verschillen in benadering bij hun respectieve concurrentiebeoordelingen van overeenkomsten tussen luchtvaartmaatschappijen tot een minimum kan beperken. Derhalve bevorderen de Partijen deze samenwerking zoveel mogelijk, daarbij rekening houdend met de verschillende verantwoordelijkheden, bevoegdheden en procedures van de autoriteiten overeenkomstig [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&bijlage=2&z=2008-03-30&g=2008-03-30).
 
-4. Het Gemengd Comité wordt jaarlijks geïnformeerd over de resultaten van de samenwerking in het kader van [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&bijlage=2&z=2007-04-30&g=2007-04-30).
+4. Het Gemengd Comité wordt jaarlijks geïnformeerd over de resultaten van de samenwerking in het kader van [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&bijlage=2&z=2008-03-30&g=2008-03-30).
 
 ##### Artikel 21. Tweede fase van de onderhandelingen
 
@@ -489,9 +489,9 @@ Indien de Partijen binnen twaalf maanden na begin van de toetsing geen tweedefas
 
 ##### Artikel 22. Verhouding tot andere overeenkomsten
 
-1. Gedurende de periode van voorlopige toepassing overeenkomstig [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&artikel=25&z=2007-04-30&g=2007-04-30) van deze Overeenkomst worden de in [deel 1 van bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&bijlage=1&deel=1&z=2007-04-30&g=2007-04-30) vermelde bilaterale overeenkomsten opgeschort, uitgezonderd het bepaalde in [deel 2 van Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&bijlage=1&deel=2&z=2007-04-30&g=2007-04-30).
+1. Gedurende de periode van voorlopige toepassing overeenkomstig [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&artikel=25&z=2008-03-30&g=2008-03-30) van deze Overeenkomst worden de in [deel 1 van bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&bijlage=1&deel=1&z=2008-03-30&g=2008-03-30) vermelde bilaterale overeenkomsten opgeschort, uitgezonderd het bepaalde in [deel 2 van Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&bijlage=1&deel=2&z=2008-03-30&g=2008-03-30).
 
-2. Bij inwerkingtreding overeenkomstig [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&artikel=26&z=2007-04-30&g=2007-04-30) van deze Overeenkomst komt deze Overeenkomst in de plaats van de in [deel 1 van bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&bijlage=1&deel=1&z=2007-04-30&g=2007-04-30) vermelde bilaterale overeenkomsten, uitgezonderd het bepaalde in [deel 2 van Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&bijlage=1&deel=2&z=2007-04-30&g=2007-04-30).
+2. Bij inwerkingtreding overeenkomstig [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&artikel=26&z=2008-03-30&g=2008-03-30) van deze Overeenkomst komt deze Overeenkomst in de plaats van de in [deel 1 van bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&bijlage=1&deel=1&z=2008-03-30&g=2008-03-30) vermelde bilaterale overeenkomsten, uitgezonderd het bepaalde in [deel 2 van Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&bijlage=1&deel=2&z=2008-03-30&g=2008-03-30).
 
 3. Indien de Partijen Partij worden in een multilaterale overeenkomst of een besluit van de Internationale Burgerluchtvaartorganisatie of een andere internationale organisatie bekrachtigen dat betrekking heeft op onder deze Overeenkomst vallende aangelegenheden, plegen zij overleg in het Gemengd Comité om te bepalen of deze Overeenkomst met het oog daarop moet worden herzien.
 
@@ -505,7 +505,7 @@ Deze Overeenkomst en alle wijzigingen daarvan worden geregistreerd bij de Intern
 
 ##### Artikel 25. Voorlopige toepassing
 
-Hangende de inwerkingtreding overeenkomstig [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&artikel=26&z=2007-04-30&g=2007-04-30):
+Hangende de inwerkingtreding overeenkomstig [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&artikel=26&z=2008-03-30&g=2008-03-30):
 
 1. komen de Partijen overeen de Overeenkomst toe te passen met ingang van 30 maart 2008;
 
@@ -537,7 +537,7 @@ In deze bijlage wordt onder „mededingingsregels’’ verstaan de wetten, proc
 
 ##### Artikel 4. Samenwerkingsgebieden
 
-Onder voorbehoud van het bepaalde in [artikel 5, lid 1, sub a) en sub b)](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&bijlage=2&artikel=5&z=2007-04-30&g=2007-04-30), omvat de samenwerking tussen de Deelnemers onder meer het volgende:
+Onder voorbehoud van het bepaalde in [artikel 5, lid 1, sub a) en sub b)](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&bijlage=2&artikel=5&z=2008-03-30&g=2008-03-30), omvat de samenwerking tussen de Deelnemers onder meer het volgende:
 
 - 1. In principe halfjaarlijkse bijeenkomsten van vertegenwoordigers van de Deelnemers, onder wie mededingingsdeskundigen, ter bespreking van ontwikkelingen in de luchtvervoerssector, mededingingsbeleidskwesties van wederzijds belang en analytische benaderingen van de toepassing van het mededingingsrecht op de internationale luchtvaart, in het bijzonder op de transatlantische markt. Bovengenoemde besprekingen kunnen leiden tot een beter inzicht in de respectieve benaderingen van mededingingskwesties door de Deelnemers, met inbegrip van bestaande gemeenschappelijke punten, en tot grotere verenigbaarheid van deze benaderingen, met name wat betreft overeenkomsten tussen luchtvaartmaatschappijen.
 
@@ -565,7 +565,7 @@ Onder voorbehoud van het bepaalde in [artikel 5, lid 1, sub a) en sub b)](https:
 
 - 2. Iedere Deelnemer bewaart zoveel mogelijk de vertrouwelijkheid van alle informatie die hem in vertrouwen door de andere Deelnemer in het kader van deze bijlage is verschaft en verzet zich tegen ieder verzoek om onthulling van deze informatie aan een derde Partij die niet door de Deelnemer die de informatie verschaft gemachtigd is om de informatie te ontvangen. Iedere Deelnemer waarschuwt systematisch de andere Deelnemer wanneer informatie waarvan uitwisseling tijdens besprekingen of op enige andere wijze wordt voorgesteld, mogelijkerwijs tijdens een openbare procedure moet worden onthuld.
 
-- 3. Indien een Deelnemer overeenkomstig deze bijlage aan de andere Deelnemer vertrouwelijke informatie verschaft voor de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&bijlage=2&artikel=2&z=2007-04-30&g=2007-04-30) vermelde doelen, mag die informatie door de ontvangende Deelnemer alleen voor die doelen worden gebruikt.
+- 3. Indien een Deelnemer overeenkomstig deze bijlage aan de andere Deelnemer vertrouwelijke informatie verschaft voor de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&bijlage=2&artikel=2&z=2008-03-30&g=2008-03-30) vermelde doelen, mag die informatie door de ontvangende Deelnemer alleen voor die doelen worden gebruikt.
 
 ##### Artikel 6. Tenuitvoerlegging
 
@@ -591,7 +591,7 @@ Onder voorbehoud van het bepaalde in [artikel 5, lid 1, sub a) en sub b)](https:
 
 - 2. Onderdanen van de VS mogen aandelen van een communautaire luchtvaartmaatschappij in eigendom hebben, zulks met twee beperkingen. Ten eerste moet de luchtvaartmaatschappij in meerderheid de eigendom zijn van lidstaten en/of onderdanen van lidstaten. Ten tweede moeten die staten en/of onderdanen de feitelijke zeggenschap over de luchtvaartmaatschappij uitoefenen.
 
-- 3. Voor de toepassing van [artikel 4, punt b)](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&artikel=4&z=2007-04-30&g=2007-04-30), en [artikel 5, lid 1, onder b)](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&artikel=5&z=2007-04-30&g=2007-04-30), van deze Overeenkomst worden een staat die op de datum van ondertekening van deze Overeenkomst lid is van de ECAA en onderdanen van die staat respectievelijk behandeld als een lidstaat en zijn onderdanen. Het Gemengd Comité kan besluiten dat deze bepaling van toepassing is op nieuwe lidstaten van de ECAA en hun onderdanen.
+- 3. Voor de toepassing van [artikel 4, punt b)](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&artikel=4&z=2008-03-30&g=2008-03-30), en [artikel 5, lid 1, onder b)](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&artikel=5&z=2008-03-30&g=2008-03-30), van deze Overeenkomst worden een staat die op de datum van ondertekening van deze Overeenkomst lid is van de ECAA en onderdanen van die staat respectievelijk behandeld als een lidstaat en zijn onderdanen. Het Gemengd Comité kan besluiten dat deze bepaling van toepassing is op nieuwe lidstaten van de ECAA en hun onderdanen.
 
 - 4. Onverminderd lid 2 behouden de Europese Gemeenschap en haar lidstaten zich het recht voor om investeringen die na de ondertekening van deze Overeenkomst worden gedaan door onderdanen van de VS in aandelen met stemrecht van een communautaire luchtvaartmaatschappij te beperken tot een niveau dat gelijkwaardig is aan het niveau dat de Verenigde Staten toestaan met betrekking tot investeringen door buitenlandse onderdanen in Amerikaanse luchtvaartmaatschappijen, een en ander op voorwaarde dat de uitoefening van dat recht in overeenstemming is met het internationaal recht.
 
