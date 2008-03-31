@@ -4,7 +4,7 @@ identifier: "BWBR0012538"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2008-03-13"
+last_updated: "2008-03-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012538"
 soort: "ministeriele-regeling"
@@ -112,7 +112,7 @@ Voor het uitvoeren van een IFR-vlucht in het RVSM-luchtruim in het vluchtinforma
 
 1. Voor het uitvoeren van een VFR-vlucht in het vluchtinformatiegebied Amsterdam, behalve in gebieden met de classificatie G beneden 1200 voet AMSL buiten de NSA Amsterdam, is een luchtvaartuig uitgerust met een SSR-transponder met mode S/ELS of 4096 codemogelijkheden in mode A met automatische hoogterapportering in mode C, die voldoet aan de eisen, bedoeld in bijlage 10, Boek IV (Surveillance Radar and Collision Avoidance Systems) van het Verdrag inzake de internationale burgerluchtvaart, en
 
-- a. Dit onderdeel is nog niet in werking getreden.
+- a. uitgerust met een SSR-transponder met mode S/⁠ELS, die voldoet aan de eisen, bedoeld in bijlage 10, Boek IV (Surveillance Radar and Collision Avoidance Systems) van het Verdrag inzake de internationale burgerluchtvaart, of
 
 - b. indien het eerste bewijs van luchtwaardigheid met betrekking tot het desbetreffende luchtvaartuig is afgegeven na 30 maart 2005, uitgerust met een SSR-transponder met mode S/ELS, die voldoet aan de eisen bedoeld in bijlage 10, Boek IV (Surveillance Radar and Collision Avoidance Systems) van het Verdrag inzake de internationale burgerluchtvaart.
 
@@ -222,7 +222,7 @@ Vervallen
 
 ##### Artikel 14
 
-Handelen in strijd met de [artikelen 2 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0012538&artikel=2&z=2008-03-13&g=2008-03-13) van deze regeling is een strafbaar feit.
+Handelen in strijd met de [artikelen 2 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0012538&artikel=2&z=2008-03-31&g=2008-03-31) van deze regeling is een strafbaar feit.
 
 #### Strafbepaling
 
