@@ -4,7 +4,7 @@ identifier: "BWBR0004815"
 country: "nl"
 rank: "wet"
 publication_date: "2019-01-01"
-last_updated: "2008-01-01"
+last_updated: "2008-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004815"
 soort: "wet"
@@ -128,7 +128,7 @@ Deze wet geldt slechts voor krediettransacties, waaraan de kredietgever en, in v
 
 ##### Artikel 5
 
-De [artikelen 33, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=2&artikel=33&z=2008-01-01&g=2008-01-01), en [40](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=4&artikel=40&z=2008-01-01&g=2008-01-01) gelden niet voor kredietverlening door een gemeentelijke kredietbank:
+De [artikelen 33, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=2&artikel=33&z=2008-04-01&g=2008-04-01), en [40](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=4&artikel=40&z=2008-04-01&g=2008-04-01) gelden niet voor kredietverlening door een gemeentelijke kredietbank:
 
 - a. waaraan als kredietnemer deelneemt:
 
@@ -284,7 +284,7 @@ Vervallen
 
 - g. de betalingsregeling;
 
-- h. de bedingen betreffende zekerheidsrechten van de kredietgever of de leverancier, met inbegrip van een afzonderlijke aanduiding van elke zaak waarop een zodanig recht rust en de ingevolge [artikel 40, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=4&artikel=40&z=2008-01-01&g=2008-01-01), geldende regeling betreffende overgang van eigendom;
+- h. de bedingen betreffende zekerheidsrechten van de kredietgever of de leverancier, met inbegrip van een afzonderlijke aanduiding van elke zaak waarop een zodanig recht rust en de ingevolge [artikel 40, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=4&artikel=40&z=2008-04-01&g=2008-04-01), geldende regeling betreffende overgang van eigendom;
 
 - i. de bevoegdheid van de kredietnemer tot volledige of gedeeltelijke vervroegde aflossing;
 
@@ -298,15 +298,15 @@ Vervallen
 
 ##### Artikel 31
 
-1. Een kredietnemer kan geen volmacht tot ondertekening van een overeenkomst als bedoeld in [artikel 30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=1&artikel=30&z=2008-01-01&g=2008-01-01), verlenen aan een kredietgever, een leverancier, een kredietbemiddelaar of iemand, die bij een van hen werkzaam is.
+1. Een kredietnemer kan geen volmacht tot ondertekening van een overeenkomst als bedoeld in [artikel 30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=1&artikel=30&z=2008-04-01&g=2008-04-01), verlenen aan een kredietgever, een leverancier, een kredietbemiddelaar of iemand, die bij een van hen werkzaam is.
 
 2. Bedingen waarbij aan de kredietnemer een verplichting wordt opgelegd of een recht wordt ontnomen ingeval hij een beroep op de ongeldigheid van de volmacht doet, zijn nietig.
 
-3. De kredietnemer kan geen onherroepelijke volmacht tot ondertekening van een overeenkomst als bedoeld in [artikel 30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=1&artikel=30&z=2008-01-01&g=2008-01-01), verlenen. Bedingen waarbij aan de kredietnemer een verplichting wordt opgelegd of een recht wordt ontnomen ingeval hij een volmacht tot zodanige ondertekening herroept, zijn nietig.
+3. De kredietnemer kan geen onherroepelijke volmacht tot ondertekening van een overeenkomst als bedoeld in [artikel 30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=1&artikel=30&z=2008-04-01&g=2008-04-01), verlenen. Bedingen waarbij aan de kredietnemer een verplichting wordt opgelegd of een recht wordt ontnomen ingeval hij een volmacht tot zodanige ondertekening herroept, zijn nietig.
 
 ##### Artikel 32
 
-1. In afwijking van [artikel 30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=1&artikel=30&z=2008-01-01&g=2008-01-01), kunnen de kredietgever en de leverancier ten aanzien van een krediettransactie, waarvan de kredietsom niet meer dan € 1 000 bedraagt, volstaan met het onverwijld aan de kredietnemer verstrekken van een schriftelijke bevestiging van de transactie, ieder voor zover hij daaraan heeft deelgenomen. [Artikel 30, derde tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=1&artikel=30&z=2008-01-01&g=2008-01-01), is van overeenkomstige toepassing ten aanzien van de schriftelijke bevestiging.
+1. In afwijking van [artikel 30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=1&artikel=30&z=2008-04-01&g=2008-04-01), kunnen de kredietgever en de leverancier ten aanzien van een krediettransactie, waarvan de kredietsom niet meer dan € 1 000 bedraagt, volstaan met het onverwijld aan de kredietnemer verstrekken van een schriftelijke bevestiging van de transactie, ieder voor zover hij daaraan heeft deelgenomen. [Artikel 30, derde tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=1&artikel=30&z=2008-04-01&g=2008-04-01), is van overeenkomstige toepassing ten aanzien van de schriftelijke bevestiging.
 
 2. Het in het eerste lid bedoelde bedrag kan, in verband met geldontwaarding, bij algemene maatregel van bestuur worden gewijzigd. Een aldus bij algemene maatregel van bestuur vastgesteld bedrag treedt in de plaats van het in het eerste lid genoemde bedrag.
 
@@ -314,9 +314,9 @@ Vervallen
 
 ##### Artikel 33
 
-Nietig is een overeenkomst als bedoeld in [artikel 30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=1&artikel=30&z=2008-01-01&g=2008-01-01), voor zover daarbij:
+Nietig is een overeenkomst als bedoeld in [artikel 30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=1&artikel=30&z=2008-04-01&g=2008-04-01), voor zover daarbij:
 
-- a. de kredietgever of leverancier de bevoegdheid wordt verleend, anders dan bij wijze van een verhoging van de kredietvergoeding welke is toegelaten ingevolge het bepaalde krachtens [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=3&artikel=35&z=2008-01-01&g=2008-01-01), eenzijdig de kredietvergoeding te verhogen of anderszins de verplichtingen van de kredietnemer te verzwaren;
+- a. de kredietgever of leverancier de bevoegdheid wordt verleend, anders dan bij wijze van een verhoging van de kredietvergoeding welke is toegelaten ingevolge het bepaalde krachtens [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=3&artikel=35&z=2008-04-01&g=2008-04-01), eenzijdig de kredietvergoeding te verhogen of anderszins de verplichtingen van de kredietnemer te verzwaren;
 
 - b. de kredietnemer zich verplicht tot het aangaan van een andere overeenkomst, anders dan ingeval:
 
@@ -340,7 +340,7 @@ Nietig is een overeenkomst als bedoeld in [artikel 30, eerste lid](https://wette
 
 - d. de kredietnemer enig recht op arbeidsloon, salaris, pensioen, andere inkomsten uit arbeid of uitkering ingevolge een sociale verzekeringswet, dan wel levensonderhoud, verschuldigd ingevolge Boek 1 van het Burgerlijk Wetboek, ter zake van een krediettransactie op enigerlei wijze overdraagt, vervreemdt of bezwaart, dan wel tot invordering daarvan een onherroepelijke volmacht, in welke vorm of onder welke benaming ook, verleent;
 
-- e. wordt afgeweken van het bepaalde bij of krachtens de [artikelen 34 tot en met 46](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=3&artikel=34&z=2008-01-01&g=2008-01-01), met uitzondering van een afwijking als bedoeld in [artikel 42, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=4&artikel=42&z=2008-01-01&g=2008-01-01).
+- e. wordt afgeweken van het bepaalde bij of krachtens de [artikelen 34 tot en met 46](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=3&artikel=34&z=2008-04-01&g=2008-04-01), met uitzondering van een afwijking als bedoeld in [artikel 42, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=4&artikel=42&z=2008-04-01&g=2008-04-01).
 
 ### Afdeling 3. Kredietvergoeding en betalingen
 
@@ -358,13 +358,13 @@ Het is de kredietgever en de leverancier verboden enige andere vorm van kredietv
 
 1. Bij of krachtens algemene maatregel van bestuur wordt, ten einde het aanvaarden door kredietgevers van te grote risico’s tegen te gaan, de ten hoogste toegelaten kredietvergoeding vastgesteld en worden regels gegeven betreffende de tijdstippen waarop de kredietvergoeding in rekening wordt gebracht.
 
-2. De ten hoogste toegelaten kredietvergoeding wordt uitgedrukt in een geldsom, een percentage of in enige andere vorm. Deze kan verschillen naar gelang van de hoogte van de kredietsom, de looptijd van de transactie, mede in verband met de termijnen van aflossing, de vorm van de kredietvergoeding bedoeld in [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=3&artikel=34&z=2008-01-01&g=2008-01-01), en het al dan niet variabel zijn van de kredietvergoeding.
+2. De ten hoogste toegelaten kredietvergoeding wordt uitgedrukt in een geldsom, een percentage of in enige andere vorm. Deze kan verschillen naar gelang van de hoogte van de kredietsom, de looptijd van de transactie, mede in verband met de termijnen van aflossing, de vorm van de kredietvergoeding bedoeld in [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=3&artikel=34&z=2008-04-01&g=2008-04-01), en het al dan niet variabel zijn van de kredietvergoeding.
 
-3. Bij de maatregel, bedoeld in het eerste lid, wordt bepaald dat ter zake van krediettransacties, waarbij de kredietvergoeding variabel is, geen vergoeding als bedoeld in [artikel 34, onder **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=3&artikel=34&z=2008-01-01&g=2008-01-01), is toegelaten.
+3. Bij de maatregel, bedoeld in het eerste lid, wordt bepaald dat ter zake van krediettransacties, waarbij de kredietvergoeding variabel is, geen vergoeding als bedoeld in [artikel 34, onder **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=3&artikel=34&z=2008-04-01&g=2008-04-01), is toegelaten.
 
 ##### Artikel 36
 
-Het is de kredietgever en de leverancier verboden een hogere kredietvergoeding in rekening te brengen, te bedingen of te aanvaarden, dan wel kredietvergoeding op een ander tijdstip in rekening te brengen, dan is toegelaten ingevolge [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=3&artikel=35&z=2008-01-01&g=2008-01-01).
+Het is de kredietgever en de leverancier verboden een hogere kredietvergoeding in rekening te brengen, te bedingen of te aanvaarden, dan wel kredietvergoeding op een ander tijdstip in rekening te brengen, dan is toegelaten ingevolge [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=3&artikel=35&z=2008-04-01&g=2008-04-01).
 
 ##### Artikel 37
 
@@ -400,7 +400,7 @@ Het is de kredietgever en de leverancier verboden:
 
 ##### Artikel 41
 
-1. Afgifte van een zaak, waarop een pandrecht als bedoeld in [artikel 237 van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=237) is gevestigd of waarvan de eigendom is voorbehouden in het kader van een krediettransactie, kan slechts worden gevorderd in de gevallen, bedoeld in [artikel 33, onder **c**, 1° tot en met 6°](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=2&artikel=33&z=2008-01-01&g=2008-01-01). [Artikel 496, tweede lid, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=496) is niet van toepassing.
+1. Afgifte van een zaak, waarop een pandrecht als bedoeld in [artikel 237 van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=237) is gevestigd of waarvan de eigendom is voorbehouden in het kader van een krediettransactie, kan slechts worden gevorderd in de gevallen, bedoeld in [artikel 33, onder **c**, 1° tot en met 6°](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=2&artikel=33&z=2008-04-01&g=2008-04-01). [Artikel 496, tweede lid, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=496) is niet van toepassing.
 
 2. Afgifte van een zaak als bedoeld in het eerste lid kan niet meer worden gevorderd indien meer dan drie vierde deel van de kredietsom is afgelost. De vorige volzin vindt geen toepassing met betrekking tot doorlopende krediettransacties.
 
@@ -410,11 +410,11 @@ Het is de kredietgever en de leverancier verboden:
 
 ##### Artikel 42
 
-1. Indien de kredietnemer binnen veertien dagen nadat hij de zaak heeft afgegeven het totale op het tijdstip van inlossing achterstallige bedrag, benevens de vergoeding, bedoeld in [artikel 34, onder **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=3&artikel=34&z=2008-01-01&g=2008-01-01), betaalt, wordt de zaak door de kredietgever teruggegeven.
+1. Indien de kredietnemer binnen veertien dagen nadat hij de zaak heeft afgegeven het totale op het tijdstip van inlossing achterstallige bedrag, benevens de vergoeding, bedoeld in [artikel 34, onder **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=3&artikel=34&z=2008-04-01&g=2008-04-01), betaalt, wordt de zaak door de kredietgever teruggegeven.
 
 2. Door de in het eerste lid bedoelde betaling wordt de ontbinding van de tot de krediettransactie behorende overeenkomsten ongedaan gemaakt.
 
-3. Bij herhaalde afgifte van de zaak behoeft deze door de kredietgever slechts te worden teruggegeven na betaling door de kredietnemer van het in het eerste lid bedoelde bedrag, benevens het restant van de kredietsom, alsmede de bedongen kredietvergoeding, voor zover toegelaten ingevolge [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=3&artikel=35&z=2008-01-01&g=2008-01-01), met dien verstande, dat bij een doorlopende krediettransactie in plaats van het restant van de kredietsom het restant van de in [artikel 40, tweede lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=4&artikel=40&z=2008-01-01&g=2008-01-01), bedoelde aflossingen moet worden betaald; de tweede volzin van dat lid vindt overeenkomstige toepassing.
+3. Bij herhaalde afgifte van de zaak behoeft deze door de kredietgever slechts te worden teruggegeven na betaling door de kredietnemer van het in het eerste lid bedoelde bedrag, benevens het restant van de kredietsom, alsmede de bedongen kredietvergoeding, voor zover toegelaten ingevolge [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=3&artikel=35&z=2008-04-01&g=2008-04-01), met dien verstande, dat bij een doorlopende krediettransactie in plaats van het restant van de kredietsom het restant van de in [artikel 40, tweede lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=4&artikel=40&z=2008-04-01&g=2008-04-01), bedoelde aflossingen moet worden betaald; de tweede volzin van dat lid vindt overeenkomstige toepassing.
 
 4. Indien de kredietgever een redelijk belang heeft bij weigering van de teruggave, kan de rechter bepalen dat het eerste lid buiten toepassing blijft.
 
@@ -422,7 +422,7 @@ Het is de kredietgever en de leverancier verboden:
 
 ##### Artikel 43
 
-1. In afwijking van [artikel 229 van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=229) ontstaat een pandrecht op een vordering tot vergoeding die in de plaats treedt van een zaak als bedoeld in [artikel 40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=4&artikel=40&z=2008-01-01&g=2008-01-01), slechts voor het geval die zaak geheel teniet gaat.
+1. In afwijking van [artikel 229 van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=229) ontstaat een pandrecht op een vordering tot vergoeding die in de plaats treedt van een zaak als bedoeld in [artikel 40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=4&artikel=40&z=2008-04-01&g=2008-04-01), slechts voor het geval die zaak geheel teniet gaat.
 
 2. Een pandrecht als bedoeld in het eerste lid eindigt van rechtswege:
 
@@ -432,19 +432,19 @@ Het is de kredietgever en de leverancier verboden:
 
 3. De kredietgever, onderscheidenlijk de leverancier, die tot inning van de in het eerste lid bedoelde verpande vordering overgaat, stelt de kredietnemer daarvan terstond schriftelijk in kennis. Daarbij deelt hij de kredietnemer mee dat deze in de gelegenheid is om gelijkwaardige vervangende zekerheid te stellen. [Artikel 40, eerste lid](onbekend), is niet van toepassing ten aanzien van de door de kredietnemer gestelde vervangende zekerheid.
 
-4. [Artikel 229 van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=229) en het eerste tot en met het derde lid zijn van overeenkomstige toepassing bij een eigendomsvoorbehoud ten aanzien van een zaak als bedoeld in [artikel 40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=4&artikel=40&z=2008-01-01&g=2008-01-01).
+4. [Artikel 229 van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=229) en het eerste tot en met het derde lid zijn van overeenkomstige toepassing bij een eigendomsvoorbehoud ten aanzien van een zaak als bedoeld in [artikel 40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=4&artikel=40&z=2008-04-01&g=2008-04-01).
 
 ### Afdeling 5. Overige bepalingen
 
 ##### Artikel 44
 
-1. Een overeenkomst als bedoeld in [artikel 30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=1&artikel=30&z=2008-01-01&g=2008-01-01), kan slechts door rechterlijke tussenkomst worden ontbonden, behoudens het bepaalde in [artikel 41, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=4&artikel=41&z=2008-01-01&g=2008-01-01), van deze wet en de [artikelen 37](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=37) en [38**a** van de Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=38a) (**Stb.** 1893, 140).
+1. Een overeenkomst als bedoeld in [artikel 30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=1&artikel=30&z=2008-04-01&g=2008-04-01), kan slechts door rechterlijke tussenkomst worden ontbonden, behoudens het bepaalde in [artikel 41, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=4&artikel=41&z=2008-04-01&g=2008-04-01), van deze wet en de [artikelen 37](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=37) en [38**a** van de Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=38a) (**Stb.** 1893, 140).
 
 2. Indien bij ontbinding van zodanige overeenkomst een der partijen in een betere vermogenstoestand zou geraken dan bij het in stand blijven van die overeenkomst en afwikkeling overeenkomstig de betalingsregeling, vindt volledige verrekening plaats.
 
 ##### Artikel 45
 
-1. Indien de leverancier van een roerende zaak of een dienst waarop een krediettransactie als bedoeld in [artikel 1, onder **a**, sub 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=I&afdeling=1&artikel=1&z=2008-01-01&g=2008-01-01), betrekking heeft, jegens de kredietnemer tekortschiet in de nakoming van zijn verbintenis, is de kredietnemer jegens de kredietgever bevoegd op dezelfde voet de nakoming van zijn verplichtingen uit die transactie op te schorten als hij zou zijn indien het een transactie als bedoeld in [artikel 1, onder **a**, sub 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=I&afdeling=1&artikel=1&z=2008-01-01&g=2008-01-01), betrof, indien:
+1. Indien de leverancier van een roerende zaak of een dienst waarop een krediettransactie als bedoeld in [artikel 1, onder **a**, sub 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=I&afdeling=1&artikel=1&z=2008-04-01&g=2008-04-01), betrekking heeft, jegens de kredietnemer tekortschiet in de nakoming van zijn verbintenis, is de kredietnemer jegens de kredietgever bevoegd op dezelfde voet de nakoming van zijn verplichtingen uit die transactie op te schorten als hij zou zijn indien het een transactie als bedoeld in [artikel 1, onder **a**, sub 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=I&afdeling=1&artikel=1&z=2008-04-01&g=2008-04-01), betrof, indien:
 
 - a. de kredietnemer het krediet heeft verkregen krachtens een voordien tussen de kredietgever en de leverancier tot stand gekomen overeenkomst op grond waarvan uitsluitend door die kredietgever aan een wederpartij van die leverancier krediet wordt verstrekt, en
 
@@ -452,7 +452,7 @@ Het is de kredietgever en de leverancier verboden:
 
 2. De in het eerste lid bedoelde bevoegdheid vervalt zodra de leverancier zijn verbintenis volledig aan de kredietnemer heeft voldaan of voor de voldoening van die verbintenis zekerheid is gesteld.
 
-3. Indien op grond van de in het eerste lid, onder **b**, bedoelde niet-nakoming de overeenkomst tussen de kredietnemer en de leverancier wordt ontbonden, kan de kredietnemer de vordering die hij op de voet van [het tweede lid van artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=5&artikel=44&z=2008-01-01&g=2008-01-01) heeft jegens de leverancier, geldend maken jegens de kredietgever. Het bepaalde in het eerste lid, onder **b**, is van overeenkomstige toepassing, tenzij de ontbinding van de overeenkomst geschiedt in verband met het faillissement van de leverancier of de toepassing ten aanzien van de leverancier van de schuldsaneringsregeling natuurlijke personen.
+3. Indien op grond van de in het eerste lid, onder **b**, bedoelde niet-nakoming de overeenkomst tussen de kredietnemer en de leverancier wordt ontbonden, kan de kredietnemer de vordering die hij op de voet van [het tweede lid van artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=5&artikel=44&z=2008-04-01&g=2008-04-01) heeft jegens de leverancier, geldend maken jegens de kredietgever. Het bepaalde in het eerste lid, onder **b**, is van overeenkomstige toepassing, tenzij de ontbinding van de overeenkomst geschiedt in verband met het faillissement van de leverancier of de toepassing ten aanzien van de leverancier van de schuldsaneringsregeling natuurlijke personen.
 
 4. Dit artikel is niet van toepassing op een krediettransactie waarbij de kredietsom minder dan € 200 bedraagt. Het in de vorige volzin genoemde bedrag kan in verband met geldontwaarding, dan wel in verband met een herziening van bedragen als bedoeld in artikel 13, tweede lid, van de richtlijn bij algemene maatregel van bestuur worden aangepast. Een aldus bij algemene maatregel van bestuur vastgesteld bedrag treedt in de plaats van het in de eerste volzin genoemde bedrag.
 
@@ -460,7 +460,7 @@ Het is de kredietgever en de leverancier verboden:
 
 ##### Artikel 46
 
-De bepalingen van dit hoofdstuk omtrent nietigheid en vernietigbaarheid zijn mede van toepassing op overeenkomsten als bedoeld in [artikel 30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=1&artikel=30&z=2008-01-01&g=2008-01-01), die buiten Nederland worden gesloten door een buiten Nederland gevestigde kredietgever of leverancier met een kredietnemer die zijn gewone verblijfplaats in Nederland heeft en die het krediet in Nederland heeft aangevraagd.
+De bepalingen van dit hoofdstuk omtrent nietigheid en vernietigbaarheid zijn mede van toepassing op overeenkomsten als bedoeld in [artikel 30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=1&artikel=30&z=2008-04-01&g=2008-04-01), die buiten Nederland worden gesloten door een buiten Nederland gevestigde kredietgever of leverancier met een kredietnemer die zijn gewone verblijfplaats in Nederland heeft en die het krediet in Nederland heeft aangevraagd.
 
 ### Hoofdstuk V. Schuldbemiddeling
 
@@ -472,7 +472,7 @@ De bepalingen van dit hoofdstuk omtrent nietigheid en vernietigbaarheid zijn med
 
 ##### Artikel 48
 
-1. Het in [artikel 47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=V&artikel=47&z=2008-01-01&g=2008-01-01), bedoelde verbod is niet van toepassing op schuldbemiddeling:
+1. Het in [artikel 47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=V&artikel=47&z=2008-04-01&g=2008-04-01), bedoelde verbod is niet van toepassing op schuldbemiddeling:
 
 - a. om niet;
 
@@ -578,7 +578,7 @@ Vervallen
 
 ##### Artikel 69
 
-Overtreding van voorschriften, gesteld bij of krachtens de [artikelen 34](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=3&artikel=34&z=2008-01-01&g=2008-01-01), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=3&artikel=36&z=2008-01-01&g=2008-01-01) en [38](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=3&artikel=38&z=2008-01-01&g=2008-01-01) is slechts strafbaar voor zover deze van toepassing zijn op een leverancier.
+Overtreding van voorschriften, gesteld bij of krachtens de [artikelen 34](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=3&artikel=34&z=2008-04-01&g=2008-04-01), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=3&artikel=36&z=2008-04-01&g=2008-04-01) en [38](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=IV&afdeling=3&artikel=38&z=2008-04-01&g=2008-04-01) is slechts strafbaar voor zover deze van toepassing zijn op een leverancier.
 
 ##### Artikel 70
 
@@ -615,5 +615,21 @@ Vervallen
 ##### Artikel 78
 
 Vervallen
+
+Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 48a
+
+Met het toezicht op de naleving van het bij of krachtens dit hoofdstuk bepaalde zijn belast de bij ministeriële regeling aangewezen personen.
+
+### Hoofdstuk VI. Beroep
+
+### Hoofdstuk VII
+
+### Hoofdstuk VIII. Toezicht op de naleving
+
+### Hoofdstuk IX. Uitvoering van de wet
+
+### Hoofdstuk X. Straf-, overgangs- en slotbepalingen
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
