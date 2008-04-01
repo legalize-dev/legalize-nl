@@ -4,7 +4,7 @@ identifier: "BWBR0009203"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2013-01-01"
-last_updated: "1997-12-21"
+last_updated: "2008-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009203"
 soort: "ministeriele-regeling"
@@ -70,11 +70,11 @@ Straalgrit is niet-reinigbaar indien:
 
 ##### Artikel 3
 
-De gewichtsprocenten en de concentratie van de stoffen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009203&artikel=2&z=1997-12-21&g=1997-12-21), worden gemeten door een onderzoekslaboratorium overeenkomstig de methode die is aangegeven in de bijlage.
+De gewichtsprocenten en de concentratie van de stoffen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009203&artikel=2&z=2008-04-01&g=2008-04-01), worden gemeten door een onderzoekslaboratorium overeenkomstig de methode die is aangegeven in de bijlage.
 
 ##### Artikel 4
 
-Een onderzoekslaboratorium als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009203&artikel=3&z=1997-12-21&g=1997-12-21), dient te zijn erkend door de Stichting Raad voor de Accreditatie of door een andere Europese laboratoriumaccreditatie-instelling op basis van de Europese norm NEN-EN 45000-serie.
+Vervallen
 
 ##### Artikel 5
 
@@ -104,17 +104,17 @@ Een onderzoekslaboratorium stelt het mengmonster samen.
 
 Een onderzoekslaboratorium meet het gewichtspercentage droge zeeffractie en deconcentratie van de stoffen.
 
-Bij het vaststellen of zich een situatie voordoet, bedoeld in [artikel 2, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0009203&artikel=2&z=1997-12-21&g=1997-12-21), wordt:
+Bij het vaststellen of zich een situatie voordoet, bedoeld in [artikel 2, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0009203&artikel=2&z=2008-04-01&g=2008-04-01), wordt:
 
-Bij het vaststellen of zich een situatie voordoet, bedoeld in [artikel 2, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0009203&artikel=2&z=1997-12-21&g=1997-12-21), wordt:
+Bij het vaststellen of zich een situatie voordoet, bedoeld in [artikel 2, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0009203&artikel=2&z=2008-04-01&g=2008-04-01), wordt:
 
-Bij het vaststellen van de concentratie van de stoffen, bedoeld in [artikel 2, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0009203&artikel=2&z=1997-12-21&g=1997-12-21), 1°, 2°, 3°, 4°, 5°, 6° en 7° vindt ontsluiting plaats door 10 gram straalgrit gedurende 10 minuten te koken met 50 ml 4M zoutzuur.
+Bij het vaststellen van de concentratie van de stoffen, bedoeld in [artikel 2, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0009203&artikel=2&z=2008-04-01&g=2008-04-01), 1°, 2°, 3°, 4°, 5°, 6° en 7° vindt ontsluiting plaats door 10 gram straalgrit gedurende 10 minuten te koken met 50 ml 4M zoutzuur.
 
-Bij het vaststellen van de concentratie van de stoffen, bedoeld in [artikel 2 onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0009203&artikel=2&z=1997-12-21&g=1997-12-21), 1°, 2°, 3°, 4°, 5°, 6° en 7°, wordt gebruik gemaakt van de VPR C 88-01, uitgave september 1988, met dien verstande dat in deze VPR voor "grond" wordt gelezen: straalgrit.
+Bij het vaststellen van de concentratie van de stoffen, bedoeld in [artikel 2 onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0009203&artikel=2&z=2008-04-01&g=2008-04-01), 1°, 2°, 3°, 4°, 5°, 6° en 7°, wordt gebruik gemaakt van de VPR C 88-01, uitgave september 1988, met dien verstande dat in deze VPR voor "grond" wordt gelezen: straalgrit.
 
-Bij het vaststellen van de concentratie van stoffen, bedoeld in [artikel 2, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0009203&artikel=2&z=1997-12-21&g=1997-12-21), 8°, 9° en 10°, wordt gebruik gemaakt van de VPR C 88-11, uitgave september 1988, met dien verstande dat in deze VPR voor "grond" wordt gelezen: straalgrit.
+Bij het vaststellen van de concentratie van stoffen, bedoeld in [artikel 2, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0009203&artikel=2&z=2008-04-01&g=2008-04-01), 8°, 9° en 10°, wordt gebruik gemaakt van de VPR C 88-11, uitgave september 1988, met dien verstande dat in deze VPR voor "grond" wordt gelezen: straalgrit.
 
-Bij het vaststellen van de concentratie van stoffen, bedoeld in [artikel 2, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0009203&artikel=2&z=1997-12-21&g=1997-12-21), 11°, wordt gebruik gemaakt van de NEN 5735, uitgave juli 1995, met dien verstande dat voor "grond" wordt gelezen: straalgrit.
+Bij het vaststellen van de concentratie van stoffen, bedoeld in [artikel 2, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0009203&artikel=2&z=2008-04-01&g=2008-04-01), 11°, wordt gebruik gemaakt van de NEN 5735, uitgave juli 1995, met dien verstande dat voor "grond" wordt gelezen: straalgrit.
 
 ### 3. Registratie meetgegevens
 
