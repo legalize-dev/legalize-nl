@@ -4,7 +4,7 @@ identifier: "BWBR0010991"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2011-07-01"
-last_updated: "2000-01-01"
+last_updated: "2008-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010991"
 soort: "ministeriele-regeling"
@@ -40,7 +40,7 @@ Besluit:
 
 ##### Artikel 1
 
-Het diploma, bedoeld in [artikel 4A.02, eerste lid, onder b, van het Binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=4A.02) en [artikel 19, zesde lid, onder c, van het Scheepvaartreglement voor het Kanaal van Gent naar Terneuzen](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&artikel=19), is het radarpatent, bedoeld in [artikel 3.04, eerste lid, van het Reglement radarpatenten](https://wetten.overheid.nl/jci1.3:c:BWBR0010915&artikel=3.04), of een krachtens [artikel 5 van het Besluit Reglement radarpatenten](https://wetten.overheid.nl/jci1.3:c:BWBR0010916&artikel=5) hieraan gelijkgesteld radarpatent.
+Het diploma, bedoeld in [artikel 4A.02, eerste lid, onder b, van het Binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=4A.02) en [artikel 19, zesde lid, onder c, van het Scheepvaartreglement voor het Kanaal van Gent naar Terneuzen](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&artikel=19), is het radarpatent, bedoeld in [artikel 3.05, eerste lid, van het Patentreglement Rijn](https://wetten.overheid.nl/jci1.3:c:BWBR0023698&artikel=3.05), of een krachtens [artikel 5 van het Besluit Patentreglement Rijn](https://wetten.overheid.nl/jci1.3:c:BWBR0023693&artikel=5) hieraan gelijkgesteld radarpatent.
 
 ##### Artikel 2
 
