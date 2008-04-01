@@ -4,7 +4,7 @@ identifier: "BWBR0012088"
 country: "nl"
 rank: "wet"
 publication_date: "2013-01-01"
-last_updated: "2004-12-24"
+last_updated: "2008-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012088"
 soort: "wet"
@@ -82,9 +82,9 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 3
 
-1. De aangewezen vennootschap heeft jegens elk van de productiebedrijven een vorderingsrecht tot betaling van hetgeen die bedrijven verschuldigd zijn, voor het deel van de totale kosten, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012088&paragraaf=2&artikel=2&z=2004-12-24&g=2004-12-24), waarvoor elk bedrijf aansprakelijk is.
+1. De aangewezen vennootschap heeft jegens elk van de productiebedrijven een vorderingsrecht tot betaling van hetgeen die bedrijven verschuldigd zijn, voor het deel van de totale kosten, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012088&paragraaf=2&artikel=2&z=2008-04-01&g=2008-04-01), waarvoor elk bedrijf aansprakelijk is.
 
-2. Betaling geschiedt binnen een termijn die zodanig wordt bepaald door de aangewezen vennootschap, dat die vennootschap tijdig kan voldoen aan haar betalingsverplichtingen met betrekking tot de in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012088&paragraaf=2&artikel=2&z=2004-12-24&g=2004-12-24), bedoelde productiemiddelen en overeenkomsten.
+2. Betaling geschiedt binnen een termijn die zodanig wordt bepaald door de aangewezen vennootschap, dat die vennootschap tijdig kan voldoen aan haar betalingsverplichtingen met betrekking tot de in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012088&paragraaf=2&artikel=2&z=2008-04-01&g=2008-04-01), bedoelde productiemiddelen en overeenkomsten.
 
 ##### Artikel 4
 
@@ -92,7 +92,7 @@ De vorderingsrechten van de productiebedrijven uit hoofde van door hen met de aa
 
 ##### Artikel 5
 
-De productiebedrijven hebben naar rato van hun bijdrage in de kosten, bedoeld in [artikel 2, tweede lid, onderdelen a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0012088&paragraaf=2&artikel=2&z=2004-12-24&g=2004-12-24), jegens de aangewezen vennootschap recht op levering van de elektriciteit die door die installatie wordt geproduceerd, onderscheidenlijk op levering van de elektriciteit die of het gas dat ter uitvoering van die overeenkomsten aan die vennootschap wordt geleverd.
+De productiebedrijven hebben naar rato van hun bijdrage in de kosten, bedoeld in [artikel 2, tweede lid, onderdelen a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0012088&paragraaf=2&artikel=2&z=2008-04-01&g=2008-04-01), jegens de aangewezen vennootschap recht op levering van de elektriciteit die door die installatie wordt geproduceerd, onderscheidenlijk op levering van de elektriciteit die of het gas dat ter uitvoering van die overeenkomsten aan die vennootschap wordt geleverd.
 
 #### Paragraaf 3. Tegemoetkoming in de kosten
 
@@ -106,19 +106,19 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 8
 
-1. Overeenkomstig door Onze Minister te stellen regels verstrekt Onze Minister de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0012088&paragraaf=3&artikel=7&z=2004-12-24&g=2004-12-24) bedoelde tegemoetkoming aan:
+1. Overeenkomstig door Onze Minister te stellen regels verstrekt Onze Minister de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0012088&paragraaf=3&artikel=7&z=2008-04-01&g=2008-04-01) bedoelde tegemoetkoming aan:
 
-- a. de rechtspersonen die de kosten, bedoeld in [artikel 7, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0012088&paragraaf=3&artikel=7&z=2004-12-24&g=2004-12-24), dragen, waarbij elke rechtspersoon ieder jaar dat bedrag ontvangt dat overeenkomt met zijn kosten voor dat jaar, welke kosten berekend worden met behulp van de methode van het brandstofprijsrisico die rekening houdt met de warmteproductie per project;
+- a. de rechtspersonen die de kosten, bedoeld in [artikel 7, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0012088&paragraaf=3&artikel=7&z=2008-04-01&g=2008-04-01), dragen, waarbij elke rechtspersoon ieder jaar dat bedrag ontvangt dat overeenkomt met zijn kosten voor dat jaar, welke kosten berekend worden met behulp van de methode van het brandstofprijsrisico die rekening houdt met de warmteproductie per project;
 
-- b. de rechtspersonen die de kosten, bedoeld in [artikel 7, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0012088&paragraaf=3&artikel=7&z=2004-12-24&g=2004-12-24), dragen.
+- b. de rechtspersonen die de kosten, bedoeld in [artikel 7, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0012088&paragraaf=3&artikel=7&z=2008-04-01&g=2008-04-01), dragen.
 
-2. Onze Minister verstrekt de tegemoetkoming niet aan de rechtspersonen, bedoeld in het eerste lid, onderdeel a, dan nadat hij heeft ingestemd met de aan hem verstrekte opgave van de kosten, bedoeld in [artikel 7, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0012088&paragraaf=3&artikel=7&z=2004-12-24&g=2004-12-24), die in dat jaar voor hun rekening zijn, waarbij de desbetreffende rechtspersoon tevens aangeeft hoe groot de totale hoeveelheid door hem geproduceerde warmte in TJ is.
+2. Onze Minister verstrekt de tegemoetkoming niet aan de rechtspersonen, bedoeld in het eerste lid, onderdeel a, dan nadat hij heeft ingestemd met de aan hem verstrekte opgave van de kosten, bedoeld in [artikel 7, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0012088&paragraaf=3&artikel=7&z=2008-04-01&g=2008-04-01), die in dat jaar voor hun rekening zijn, waarbij de desbetreffende rechtspersoon tevens aangeeft hoe groot de totale hoeveelheid door hem geproduceerde warmte in TJ is.
 
 3. Onze Minister verstrekt de tegemoetkoming niet aan de rechtspersonen, bedoeld in het eerste lid, onderdeel b, dan nadat de desbetreffende rechtspersonen de aandelen van de n.v. Demkolec of de experimentele kolenvergassingsinstallatie Demkolec hebben vervreemd en overgedragen en hij heeft ingestemd met de aan hem verstrekte opgave van de kosten die de desbetreffende rechtspersonen dragen vanwege het vervreemden en overdragen van de aandelen of de installatie.
 
 4. Bij de in het eerste lid bedoelde ministeriële regeling wordt in ieder geval bepaald dat geen tegemoetkoming wordt gegeven in de kosten waarvoor een bijdrage wordt gegeven door middel van een subsidie of een fiscale maatregel.
 
-5. De in [artikel 7, aanhef](https://wetten.overheid.nl/jci1.3:c:BWBR0012088&paragraaf=3&artikel=7&z=2004-12-24&g=2004-12-24), genoemde periode kan, onder voorbehoud van goedkeuring van de Commissie van de Europese Gemeenschappen op grond van artikel 88 van het EG-Verdrag, bij ministeriële regeling worden verlengd met een periode waarbij rekening wordt gehouden met de resterende looptijd van de in [artikel 7, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0012088&paragraaf=3&artikel=7&z=2004-12-24&g=2004-12-24), bedoelde overeenkomsten.
+5. De in [artikel 7, aanhef](https://wetten.overheid.nl/jci1.3:c:BWBR0012088&paragraaf=3&artikel=7&z=2008-04-01&g=2008-04-01), genoemde periode kan, onder voorbehoud van goedkeuring van de Commissie van de Europese Gemeenschappen op grond van artikel 88 van het EG-Verdrag, bij ministeriële regeling worden verlengd met een periode waarbij rekening wordt gehouden met de resterende looptijd van de in [artikel 7, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0012088&paragraaf=3&artikel=7&z=2008-04-01&g=2008-04-01), bedoelde overeenkomsten.
 
 ##### Artikel 9
 
@@ -130,7 +130,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 4. De opbrengst van de bedragen die afnemers op grond van het eerste of tweede lid verschuldigd zijn, wordt door de netbeheerders, onderscheidenlijk de vergunninghouders voor 1 juli 2001 afgedragen aan de aangewezen vennootschap.
 
-5. De aangewezen vennootschap doet Onze Minister opgave van de hoogte van de opbrengst, bedoeld in het vierde lid, en voegt daarbij een verklaring van een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393) omtrent de getrouwheid van de opgave. Indien de totale opbrengst meer is dan f 400 000 000, draagt de aangewezen vennootschap het meerdere af aan Onze Minister, die dat bedrag bestemt voor de tegemoetkoming in de kosten, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0012088&paragraaf=3&artikel=7&z=2004-12-24&g=2004-12-24).
+5. De aangewezen vennootschap doet Onze Minister opgave van de hoogte van de opbrengst, bedoeld in het vierde lid, en voegt daarbij een verklaring van een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393) omtrent de getrouwheid van de opgave. Indien de totale opbrengst meer is dan f 400 000 000, draagt de aangewezen vennootschap het meerdere af aan Onze Minister, die dat bedrag bestemt voor de tegemoetkoming in de kosten, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0012088&paragraaf=3&artikel=7&z=2008-04-01&g=2008-04-01).
 
 #### Paragraaf 4. Verkrijging aandelen landelijk netbeheerder
 
@@ -150,25 +150,11 @@ Dit onderdeel is nog niet inwerking getreden
 
 2. [Artikel 5:17, tweede en derde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:17) en [artikel 78, tweede en derde lid, van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=78) zijn van overeenkomstige toepassing op een verzoek om inzage van gegevens en bescheiden als bedoeld in het eerste lid.
 
-3. Onze Minister kan de rechtspersonen, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012088&paragraaf=3&artikel=8&z=2004-12-24&g=2004-12-24), verzoeken bij de opgave, bedoeld in [artikel 8, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012088&paragraaf=3&artikel=8&z=2004-12-24&g=2004-12-24), een verklaring te voegen van een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393) omtrent de getrouwheid van die opgave.
+3. Onze Minister kan de rechtspersonen, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012088&paragraaf=3&artikel=8&z=2008-04-01&g=2008-04-01), verzoeken bij de opgave, bedoeld in [artikel 8, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012088&paragraaf=3&artikel=8&z=2008-04-01&g=2008-04-01), een verklaring te voegen van een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393) omtrent de getrouwheid van die opgave.
 
 ##### Artikel 13
 
-1. De netbeheerder van het landelijk hoogspanningsnet wijst op aanvraag tot en met 31 maart 2005 ten hoogste 900 MW en van 1 april 2005 tot en met 31 maart 2009 ten hoogste 750 MW toe aan de aangewezen vennootschap voor het transport van elektriciteit, indien dit transport strekt ter uitvoering van de overeenkomsten, gesloten in 1989 en 1990 tussen de aangewezen vennootschap enerzijds en Electricité de France, Preussen Elektra A.G., onderscheidenlijk Vereinigte Elektrizitätswerke Westfalen A.G. anderzijds, zoals deze luidden op 1 augustus 1998 en voor zover deze overeenkomsten nog van kracht zijn.
-
-2. Een aanvraag om transportcapaciteit op grond van het eerste lid heeft betrekking op de toewijzing van capaciteit:
-
-- a. voor een periode van ten hoogste drie maanden en
-
-- b. voor ten hoogste de hoeveelheid uren die in de periode van 1 augustus 1999 tot en met 1 augustus 2000 in de overeenkomende periode van drie maanden door de netbeheerder van het landelijk hoogspanningsnet werden toegewezen voor de nakoming van de desbetreffende overeenkomst.
-
-3. De aangewezen vennootschap is aan de netbeheerder van het landelijk hoogspanningsnet voor iedere MW capaciteit die op grond van het eerste lid wordt toegewezen, een bedrag verschuldigd dat gelijk is aan het bedrag dat een afnemer verschuldigd is voor een MW capaciteit voor de uitvoering van een jaarcontract die aan hem wordt toegewezen door middel van het veilen van capaciteit dan wel het volgens een andere marktconforme methode toewijzen van capaciteit, bedoeld in [artikel 31, derde lid, van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=31). Indien geen capaciteit wordt toegewezen voor de uitvoering van een jaarcontract, is de aangewezen vennootschap een bedrag verschuldigd dat gelijk is aan het bedrag dat een afnemer verschuldigd is voor de uitvoering van een contract dat het meest vergelijkbaar is met de in het eerste lid bedoelde overeenkomsten. Het bedrag dat de netbeheerder van het landelijk hoogspanningsnet op grond van dit lid verkrijgt, wordt door hem benut bij het doen van een voorstel voor de tarieven die hij ten hoogste mag berekenen voor een aansluiting op het landelijk hoogspanningsnet, het transport van elektriciteit over dat net of het verrichten van de systeemdiensten, dan wel wordt door hem aangewend ter bekostiging van de taken, bedoeld in artikel 16, tweede lid, van de Elektriciteitswet 1998.
-
-4. Indien de aangewezen vennootschap de overeenkomsten, bedoeld in het eerste lid, overdraagt aan een andere natuurlijke persoon of rechtspersoon die een aanvraag doet om toewijzing van transportcapaciteit, wijst de netbeheerder van het landelijk hoogspanningsnet de in het eerste lid bedoelde hoeveelheid capaciteit toe aan die andere natuurlijke persoon of rechtspersoon. Het tweede en derde lid zijn van overeenkomstige toepassing.
-
-5. De aangewezen vennootschap, dan wel de natuurlijke persoon of rechtspersoon, bedoeld in het vierde lid, kan de hem toegewezen capaciteit vervreemden aan derden. Indien hij de hem toegewezen capaciteit gedurende een bepaalde periode niet zal gebruiken en hij deze niet heeft vervreemdt, meldt hij dat aan de netbeheerder van het landelijk hoogspanningsnet overeenkomstig de procedure die deze hanteert inzake capaciteit die is toegewezen maar die niet wordt gebruikt. Na deze melding vervalt de toewijzing van de desbetreffende capaciteit voor de aangegeven periode.
-
-6. Onze Minister kan de netbeheerder van het landelijk hoogspanningsnet opdragen de toewijzing van capaciteit voor het transport van elektriciteit op grond van het eerste lid aan de aangewezen vennootschap, dan wel de natuurlijke persoon of rechtspersoon, bedoeld in het vierde lid, te beperken tot door hem te bepalen tijdstippen, hoeveelheden of overeenkomsten, indien dat nodig is in verband met de opvatting van de Commissie van de Europese Gemeenschappen dienaangaande.
+Vervallen
 
 ##### Artikel 14
 
@@ -218,7 +204,7 @@ Wijzigt de Gaswet.
 
 ##### Artikel 23
 
-Onze Minister zendt vóór 31 december 2002 aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten in de praktijk van [artikel 10 van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012088&paragraaf=4&artikel=10&z=2004-12-24&g=2004-12-24) en van [artikel 11a van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=11a), waarbij in het bijzonder overwogen zal worden of en onder welke voorwaarden aandelen in de netbeheerder van het landelijk hoogspanningsnet door de Staat verkocht kunnen worden.
+Onze Minister zendt vóór 31 december 2002 aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten in de praktijk van [artikel 10 van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012088&paragraaf=4&artikel=10&z=2008-04-01&g=2008-04-01) en van [artikel 11a van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=11a), waarbij in het bijzonder overwogen zal worden of en onder welke voorwaarden aandelen in de netbeheerder van het landelijk hoogspanningsnet door de Staat verkocht kunnen worden.
 
 ##### Artikel 24
 
@@ -226,14 +212,14 @@ Deze wet wordt aangehaald als: Overgangswet elektriciteitsproductiesector.
 
 ##### Artikel 25
 
-1. De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld, met dien verstande dat de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0012088&paragraaf=3&artikel=7&z=2004-12-24&g=2004-12-24) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0012088&paragraaf=3&artikel=8&z=2004-12-24&g=2004-12-24) kunnen terugwerken tot en met een bij dat besluit te bepalen tijdstip
+1. De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld, met dien verstande dat de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0012088&paragraaf=3&artikel=7&z=2008-04-01&g=2008-04-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0012088&paragraaf=3&artikel=8&z=2008-04-01&g=2008-04-01) kunnen terugwerken tot en met een bij dat besluit te bepalen tijdstip
 
-2. De [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0012088&paragraaf=3&artikel=9&z=2004-12-24&g=2004-12-24) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0012088&paragraaf=5&artikel=14&z=2004-12-24&g=2004-12-24) treden in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij worden geplaatst en werken terug tot en met 1 augustus 2000.
+2. De [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0012088&paragraaf=3&artikel=9&z=2008-04-01&g=2008-04-01) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0012088&paragraaf=5&artikel=14&z=2008-04-01&g=2008-04-01) treden in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij worden geplaatst en werken terug tot en met 1 augustus 2000.
 
-3. De [artikelen 10, tweede lid, van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012088&paragraaf=4&artikel=10&z=2004-12-24&g=2004-12-24) en [11a, derde, vierde, vijfde en achtste lid, van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=11a) vervallen met ingang van 1 januari 2003.
+3. De [artikelen 10, tweede lid, van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012088&paragraaf=4&artikel=10&z=2008-04-01&g=2008-04-01) en [11a, derde, vierde, vijfde en achtste lid, van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=11a) vervallen met ingang van 1 januari 2003.
 
 4. [Artikel 69, tweede en derde lid, van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=69) vervalt met ingang van een bij koninklijk besluit te bepalen datum.
 
-5. [Artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0012088&paragraaf=4&artikel=11&z=2004-12-24&g=2004-12-24) vervalt drie jaar na haar tijdstip van inwerkingtreding.
+5. [Artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0012088&paragraaf=4&artikel=11&z=2008-04-01&g=2008-04-01) vervalt drie jaar na haar tijdstip van inwerkingtreding.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
