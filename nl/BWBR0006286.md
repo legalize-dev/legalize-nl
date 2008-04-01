@@ -4,7 +4,7 @@ identifier: "BWBR0006286"
 country: "nl"
 rank: "wet"
 publication_date: "2024-07-01"
-last_updated: "2007-11-30"
+last_updated: "2008-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006286"
 soort: "wet"
@@ -43,7 +43,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 1
 
-1. De bezoldiging van ministers wordt bepaald op € 9924,89 per maand. De bezoldiging van staatssecretarissen wordt bepaald op € 9315,60 per maand.
+1. De bezoldiging van ministers wordt bepaald op € 10.123,39 per maand. De bezoldiging van staatssecretarissen wordt bepaald op € 9501,91 per maand.
 
 2. Indien de bezoldiging van het burgerlijk rijkspersoneel wordt gewijzigd en wordt bepaald dat die wijziging een algemeen karakter draagt, wordt bij algemene maatregel van bestuur met ingang van de datum, waarop die wijziging ingaat, de bezoldiging van ministers en staatssecretarissen dienovereenkomstig gewijzigd, onder nadere vaststelling, voor zoveel nodig, van de in het eerste lid genoemde bedragen.
 
@@ -51,7 +51,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 2
 
-1. Boven en behalve de bezoldiging, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0006286&artikel=1&z=2007-11-30&g=2007-11-30), ontvangen ministers en staatssecretarissen op de voet van de regeling voor het burgerlijk rijkspersoneel een vakantie-uitkering en een eindejaarsuitkering.
+1. Boven en behalve de bezoldiging, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0006286&artikel=1&z=2008-04-01&g=2008-04-01), ontvangen ministers en staatssecretarissen op de voet van de regeling voor het burgerlijk rijkspersoneel een vakantie-uitkering en een eindejaarsuitkering.
 
 2. Bij algemene maatregel van bestuur worden regels gesteld ten aanzien van:
 
