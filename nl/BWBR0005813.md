@@ -4,7 +4,7 @@ identifier: "BWBR0005813"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2008-01-01"
+last_updated: "2008-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005813"
 soort: "ministeriele-regeling"
@@ -117,13 +117,17 @@ Ingeval de eenheid van de Belastingdienst waar aangifte moet worden gedaan ter z
 
 ##### Artikel 7
 
-1. Het voldoen aan de in [artikel 9b, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=9b) vermelde voorwaarde dient te blijken uit de voor de auto verleende typegoedkeuring als bedoeld in [artikel 22 van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=22).
+1. [Artikel 9b, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=9b) is van toepassing tenzij de omvang van de emissie van deeltjes per kilometer bedoeld in [artikel 9b, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=9b) blijkt uit:
 
-2. Indien voor de auto geen typegoedkeuring is verleend, dient het voldoen aan de in het eerste lid bedoelde voorwaarde te blijken uit een voor de auto verleende individuele goedkeuring als bedoeld in [artikel 26 van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=26).
+- a. de voor de auto verleende typegoedkeuring als bedoeld in [artikel 22 van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=22);
 
-3. Bij de in het tweede lid bedoelde individuele keuring van de auto wordt door belanghebbende het goedkeuringsformulier, als bedoeld in bijlage X behorende bij [richtlijn nr. 70/220/EEG](31970L0220) van de Raad van de Europese Gemeenschappen van 20 maart 1970 inzake de onderlinge aanpassing van de wetgevingen der Lid-Staten met betrekking tot de maatregelen die moeten worden genomen tegen de luchtverontreiniging door gassen afkomstig van motoren met elektrische ontsteking in motorvoertuigen (PbEG L 76), overgelegd. Uit dit goedkeuringsformulier dient te blijken wat de gemeten emissie van deeltjes is.
+- b. indien voor de auto geen typegoedkeuring is verleend, een voor de auto verleende individuele goedkeuring als bedoeld in [artikel 26 van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=26);
 
-4. Indien uit het goedkeuringsformulier zelf niet blijkt wat de gemeten emissie van deeltjes is, kan het aantonen daarvan geschieden door overlegging van het bij het goedkeuringsformulier behorende testrapport. Het testrapportnummer dient volledig overeen te komen met het nummer dat is vermeld op het goedkeuringsformulier.
+- c. indien voor de auto geen typegoedkeuring en ook geen individuele goedkeuring als bedoeld in [artikel 26 van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=26) is verleend, een testrapport van een individuele keuring opgesteld overeenkomstig bijlage I van richtlijn 70/220/EEG van de Raad van 20 maart 1970 inzake de onderlinge aanpassing van de wetgevingen der Lid-Staten met betrekking tot de maatregelen die moeten worden genomen tegen de luchtverontreiniging door gassen afkomstig van motoren met elektrische ontsteking in motorvoertuigen (Pb L 76);
+
+- d. in andere gevallen dan bedoeld in de onderdelen a, b en c: een voor de auto overgelegd document bedoeld in artikel 6 van richtlijn 70/156/EEG van de Raad van 6 februari 1970 inzake de onderlinge aanpassing van de wetgevingen van de Lid-Staten betreffende de goedkeuring van motorvoertuigen en aanhangwagens daarvan (PB L 42) , opgesteld overeenkomstig bijlage I van richtlijn 70/220/EEG danwel de overgelegde goedkeuring overeenkomstig een gelijkwaardig internationaal reglement bedoeld in artikel 9 van richtlijn 70/156/EEG waarin de gemeten emissie van deeltjes per kilometer is vermeld en is vastgelegd overeenkomstig bijlage I van richtlijn 70/220/EEG of daarmee gelijkwaardig.
+
+2. Bij de in het eerste lid, onderdeel b, bedoelde individuele keuring van de auto wordt door belanghebbende het goedkeuringsformulier, als bedoeld in bijlage X behorende bij richtlijn 70/220/EEG, overgelegd. Uit dit goedkeuringsformulier dient te blijken wat de gemeten emissie van deeltjes is. Indien uit het goedkeuringsformulier zelf niet blijkt wat de gemeten emissie van deeltjes is, kan het aantonen daarvan geschieden door overlegging van het bij het goedkeuringsformulier behorende testrapport. Het testrapportnummer dient volledig overeen te komen met het nummer dat is vermeld op het goedkeuringsformulier.
 
 ##### Artikel 8
 
@@ -261,13 +265,13 @@ Vervallen
 
 2. Indien sinds het tijdstip waarop de belasting verschuldigd is geworden minder dan drie maanden zijn verstreken, wordt de vermindering voor een nog niet verstreken maand in afwijking van het eerste lid naar tijdsgelang per dag berekend, waarbij de vermindering per dag wordt gesteld op een dertigste deel van de vermindering voor die maand ingevolge de tabel.
 
-3. De vermindering van het belastingbedrag, bedoeld in [artikel 15a, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=15a), en [artikel 16, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=16), is een percentage van het belastingbedrag, zoals aangegeven in de tabel opgenomen in [artikel 8, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005813&artikel=8&z=2008-01-01&g=2008-01-01).
+3. De vermindering van het belastingbedrag, bedoeld in [artikel 15a, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=15a), en [artikel 16, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=16), is een percentage van het belastingbedrag, zoals aangegeven in de tabel opgenomen in [artikel 8, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005813&artikel=8&z=2008-04-01&g=2008-04-01).
 
-4. Indien de belasting voor een gebruikt motorrijtuig is geheven met toepassing van een andere vermindering dan de vermindering zoals deze voor motorrijtuigen van die leeftijd voortvloeit uit de tabel opgenomen in [artikel 8, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005813&artikel=8&z=2008-01-01&g=2008-01-01), wordt de teruggaaf aangepast. Voor de berekening van de teruggaaf wordt daartoe de som van de percentages, bedoeld in het eerste lid, onderscheidenlijk het percentage, bedoeld in het derde lid, toegepast op het resultaat van de volgende formule:
+4. Indien de belasting voor een gebruikt motorrijtuig is geheven met toepassing van een andere vermindering dan de vermindering zoals deze voor motorrijtuigen van die leeftijd voortvloeit uit de tabel opgenomen in [artikel 8, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005813&artikel=8&z=2008-04-01&g=2008-04-01), wordt de teruggaaf aangepast. Voor de berekening van de teruggaaf wordt daartoe de som van de percentages, bedoeld in het eerste lid, onderscheidenlijk het percentage, bedoeld in het derde lid, toegepast op het resultaat van de volgende formule:
 
 (geheven belasting × 100) / (100 – tabelpercentage)
 
-Daarbij is geheven belasting de belasting die voor dat motorrijtuig met toepassing van die andere vermindering is geheven, en tabelpercentage het percentage dat van toepassing zou zijn geweest indien de belasting zou zijn geheven met toepassing van de vermindering ingevolge de tabel in [artikel 8, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005813&artikel=8&z=2008-01-01&g=2008-01-01).
+Daarbij is geheven belasting de belasting die voor dat motorrijtuig met toepassing van die andere vermindering is geheven, en tabelpercentage het percentage dat van toepassing zou zijn geweest indien de belasting zou zijn geheven met toepassing van de vermindering ingevolge de tabel in [artikel 8, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005813&artikel=8&z=2008-04-01&g=2008-04-01).
 
 5. Indien degene die om teruggaaf van belasting verzoekt op grond van [artikel 14a, eerste of tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=14a), ondernemer is als bedoeld in [artikel 7 van de Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=7), niet zijnde een ondernemer als bedoeld in [artikel 7, zesde lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=7), kan de inspecteur goedkeuren dat bij het verzoek de overlegging van de bescheiden, bedoeld in [artikel 4a, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0005807&artikel=4a), onderscheidenlijk [artikel 4b, eerste lid, onderdeel c, van het Uitvoeringsbesluit belasting van personenauto’s en motorrijwielen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005807&artikel=4b), achterwege blijft, onder de voorwaarde dat de ondernemer deze bescheiden bewaart in zijn administratie.
 
