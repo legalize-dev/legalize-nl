@@ -4,7 +4,7 @@ identifier: "BWBR0023160"
 country: "nl"
 rank: "amvb"
 publication_date: "2009-04-01"
-last_updated: "2008-01-01"
+last_updated: "2008-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023160"
 soort: "AMvB"
@@ -270,24 +270,24 @@ Ingetrokken worden:
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst met dien verstande dat:
 
-- a. [artikel 22, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0023160&hoofdstuk=9&artikel=22&z=2008-01-01&g=2008-01-01) terugwerkt tot 1 januari 2007;
+- a. [artikel 22, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0023160&hoofdstuk=9&artikel=22&z=2008-04-01&g=2008-04-01) terugwerkt tot 1 januari 2007;
 
-- b. de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023160&hoofdstuk=4&artikel=4&z=2008-01-01&g=2008-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0023160&hoofdstuk=4&artikel=5&z=2008-01-01&g=2008-01-01) en [6, onderdelen A, C, D en E](https://wetten.overheid.nl/jci1.3:c:BWBR0023160&hoofdstuk=4&artikel=6&z=2008-01-01&g=2008-01-01) terugwerken tot en met 1 maart 2007;
+- b. de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023160&hoofdstuk=4&artikel=4&z=2008-04-01&g=2008-04-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0023160&hoofdstuk=4&artikel=5&z=2008-04-01&g=2008-04-01) en [6, onderdelen A, C, D en E](https://wetten.overheid.nl/jci1.3:c:BWBR0023160&hoofdstuk=4&artikel=6&z=2008-04-01&g=2008-04-01) terugwerken tot en met 1 maart 2007;
 
-- c. [artikel 6, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0023160&hoofdstuk=4&artikel=6&z=2008-01-01&g=2008-01-01), terugwerkt tot en met 1 december 2006;
+- c. [artikel 6, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0023160&hoofdstuk=4&artikel=6&z=2008-04-01&g=2008-04-01), terugwerkt tot en met 1 december 2006;
 
-- d. de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0023160&hoofdstuk=5&artikel=7&z=2008-01-01&g=2008-01-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0023160&hoofdstuk=5&artikel=8&z=2008-01-01&g=2008-01-01) terugwerken tot en met 1 september 2007;
+- d. de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0023160&hoofdstuk=5&artikel=7&z=2008-04-01&g=2008-04-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0023160&hoofdstuk=5&artikel=8&z=2008-04-01&g=2008-04-01) terugwerken tot en met 1 september 2007;
 
-- e. de [artikelen 9 tot en met 12](https://wetten.overheid.nl/jci1.3:c:BWBR0023160&hoofdstuk=6&artikel=9&z=2008-01-01&g=2008-01-01) terugwerken tot en met 1 oktober 2007;
+- e. de [artikelen 9 tot en met 12](https://wetten.overheid.nl/jci1.3:c:BWBR0023160&hoofdstuk=6&artikel=9&z=2008-04-01&g=2008-04-01) terugwerken tot en met 1 oktober 2007;
 
-- f. [artikel 13, met uitzondering van de onderdelen N, P en U](https://wetten.overheid.nl/jci1.3:c:BWBR0023160&hoofdstuk=7&artikel=13&z=2008-01-01&g=2008-01-01), alsmede [artikel 24, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0023160&hoofdstuk=11&artikel=24&z=2008-01-01&g=2008-01-01), in werking treden op hetzelfde tijdstip dat de wet van 8 november 2007 tot wijziging van de Militaire ambtenarenwet 1931 en intrekking van de Wet voor het reservepersoneel der krijgsmacht in verband met onder andere de invoering van een flexibel personeelssysteem voor de krijgsmacht, in werking treedt;
+- f. [artikel 13, met uitzondering van de onderdelen N, P en U](https://wetten.overheid.nl/jci1.3:c:BWBR0023160&hoofdstuk=7&artikel=13&z=2008-04-01&g=2008-04-01), alsmede [artikel 24, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0023160&hoofdstuk=11&artikel=24&z=2008-04-01&g=2008-04-01), in werking treden op hetzelfde tijdstip dat de wet van 8 november 2007 tot wijziging van de Militaire ambtenarenwet 1931 en intrekking van de Wet voor het reservepersoneel der krijgsmacht in verband met onder andere de invoering van een flexibel personeelssysteem voor de krijgsmacht, in werking treedt;
 
-- g. [artikel 13, onderdelen N, P en U](https://wetten.overheid.nl/jci1.3:c:BWBR0023160&hoofdstuk=7&artikel=13&z=2008-01-01&g=2008-01-01) alsmede de [artikelen 14 tot en met 18](https://wetten.overheid.nl/jci1.3:c:BWBR0023160&hoofdstuk=7&artikel=14&z=2008-01-01&g=2008-01-01) in werking treden met ingang van 1 januari 2008;
+- g. [artikel 13, onderdelen N, P en U](https://wetten.overheid.nl/jci1.3:c:BWBR0023160&hoofdstuk=7&artikel=13&z=2008-04-01&g=2008-04-01) alsmede de [artikelen 14 tot en met 18](https://wetten.overheid.nl/jci1.3:c:BWBR0023160&hoofdstuk=7&artikel=14&z=2008-04-01&g=2008-04-01) in werking treden met ingang van 1 januari 2008;
 
-- h. [artikel 22, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0023160&hoofdstuk=9&artikel=22&z=2008-01-01&g=2008-01-01), in werking treedt met ingang van 1 april 2008;
+- h. [artikel 22, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0023160&hoofdstuk=9&artikel=22&z=2008-04-01&g=2008-04-01), in werking treedt met ingang van 1 april 2008;
 
-- i. de [artikelen 19 tot en met 21](https://wetten.overheid.nl/jci1.3:c:BWBR0023160&hoofdstuk=8&artikel=19&z=2008-01-01&g=2008-01-01) in werking treden met ingang van 1 juli 2008;
+- i. de [artikelen 19 tot en met 21](https://wetten.overheid.nl/jci1.3:c:BWBR0023160&hoofdstuk=8&artikel=19&z=2008-04-01&g=2008-04-01) in werking treden met ingang van 1 juli 2008;
 
-- j. [artikel 22, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0023160&hoofdstuk=9&artikel=22&z=2008-01-01&g=2008-01-01) in werking treedt met ingang van 1 april 2009.
+- j. [artikel 22, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0023160&hoofdstuk=9&artikel=22&z=2008-04-01&g=2008-04-01) in werking treedt met ingang van 1 april 2009.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
