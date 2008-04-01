@@ -4,7 +4,7 @@ identifier: "BWBR0016038"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-01-01"
-last_updated: "2007-10-01"
+last_updated: "2008-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016038"
 soort: "AMvB"
@@ -107,9 +107,7 @@ De producent of importeur draagt er zorg voor dat de door hem ingenomen autoband
 
 ##### Artikel 7
 
-1. De producent of importeur doet binnen vier weken nadat dit besluit op hem van toepassing is geworden, aan Onze Minister een melding over de wijze waarop hij uitvoering zal geven aan de verplichtingen, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0016038&paragraaf=2&artikel=3&z=2007-10-01&g=2007-10-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0016038&paragraaf=2&artikel=4&z=2007-10-01&g=2007-10-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0016038&paragraaf=2&artikel=6&z=2007-10-01&g=2007-10-01), op een daartoe door Onze Minister vastgesteld formulier.
-
-2. De melding, bedoeld in het eerste lid, vindt vervolgens om de vijf jaar plaats.
+De producent of importeur doet binnen vier weken nadat dit besluit op hem van toepassing is geworden, aan Onze Minister een melding over de wijze waarop hij uitvoering zal geven aan de verplichtingen, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0016038&paragraaf=2&artikel=3&z=2008-04-01&g=2008-04-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0016038&paragraaf=2&artikel=4&z=2008-04-01&g=2008-04-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0016038&paragraaf=2&artikel=6&z=2008-04-01&g=2008-04-01), op een daartoe door Onze Minister vastgesteld formulier.
 
 ##### Artikel 8
 
@@ -123,7 +121,7 @@ De producent of importeur zendt jaarlijks voor 1 augustus aan Onze Minister op e
 
 ##### Artikel 9
 
-De producenten of importeurs kunnen gezamenlijk een melding als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0016038&paragraaf=3&artikel=7&z=2007-10-01&g=2007-10-01) doen of een verslag als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0016038&paragraaf=3&artikel=8&z=2007-10-01&g=2007-10-01) toezenden.
+De producenten of importeurs kunnen gezamenlijk een melding als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0016038&paragraaf=3&artikel=7&z=2008-04-01&g=2008-04-01) doen of een verslag als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0016038&paragraaf=3&artikel=8&z=2008-04-01&g=2008-04-01) toezenden.
 
 ##### Artikel 10
 
