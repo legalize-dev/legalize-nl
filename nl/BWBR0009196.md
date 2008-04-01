@@ -4,7 +4,7 @@ identifier: "BWBR0009196"
 country: "nl"
 rank: "wet"
 publication_date: "2009-11-25"
-last_updated: "2002-01-01"
+last_updated: "2008-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009196"
 soort: "wet"
@@ -49,7 +49,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder Onze Ministe
 
 ##### Artikel 2
 
-Onze Minister kan bij regeling als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009196&artikel=3&z=2002-01-01&g=2002-01-01), subsidies verstrekken voor activiteiten die passen in:
+Onze Minister kan bij regeling als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009196&artikel=3&z=2008-04-01&g=2008-04-01), subsidies verstrekken voor activiteiten die passen in:
 
 - a. het verkeers- en vervoerbeleid,
 
@@ -57,11 +57,9 @@ Onze Minister kan bij regeling als bedoeld in [artikel 3, eerste lid](https://we
 
 - c. het scheepvaart- en maritiembeleid,
 
-- d. het telecommunicatiebeleid, waarin begrepen de telematica,
+- d. het waterbeleid of
 
-- e. het waterbeleid of
-
-- f. het beleid terzake van de infrastructuur,
+- e. het beleid terzake van de infrastructuur,
 
 voorzover deze subsidies niet gebaseerd zijn op een andere wet.
 
@@ -97,7 +95,7 @@ voorzover deze subsidies niet gebaseerd zijn op een andere wet.
 
 ##### Artikel 4
 
-Bij of krachtens algemene maatregel van bestuur of bij ministeriële regeling als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009196&artikel=3&z=2002-01-01&g=2002-01-01), kan worden voorzien in de vaststelling van een subsidieplafond en de regeling van de wijze van verdeling.
+Bij of krachtens algemene maatregel van bestuur of bij ministeriële regeling als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009196&artikel=3&z=2008-04-01&g=2008-04-01), kan worden voorzien in de vaststelling van een subsidieplafond en de regeling van de wijze van verdeling.
 
 ##### Artikel 5
 
