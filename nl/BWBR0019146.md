@@ -4,7 +4,7 @@ identifier: "BWBR0019146"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-09-27"
-last_updated: "2006-01-01"
+last_updated: "2008-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019146"
 soort: "ministeriele-regeling"
@@ -42,35 +42,17 @@ Besluit:
 
 ##### Artikel 1
 
-Als bevoegde autoriteit, bedoeld in het [Reglement radarpatenten](https://wetten.overheid.nl/jci1.3:c:BWBR0010915), wordt aangewezen de Minister van Verkeer en Waterstaat in de artikelen:
+Als bevoegde autoriteit, bedoeld in het [Patentreglement Rijn](https://wetten.overheid.nl/jci1.3:c:BWBR0023698), wordt aangewezen:
 
-[1.02, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010915&artikel=1.02);
+- 1. de Minister van Verkeer en Waterstaat in de artikelen: [1.03, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0023698&artikel=1.03), [1.04, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023698&artikel=1.04), [1.06](https://wetten.overheid.nl/jci1.3:c:BWBR0023698&artikel=1.06), [1.07](https://wetten.overheid.nl/jci1.3:c:BWBR0023698&artikel=1.07), [2.01, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023698&artikel=2.01), [2.02. derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0023698&artikel=2.02), [2.03, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0023698&artikel=2.03), [2.08, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0023698&artikel=2.08), [2.09, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0023698&artikel=2.09), [2.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023698&artikel=2.10), [2.11, eerste lid, tweede lid, onderdeel c en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023698&artikel=2.11), [2.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023698&artikel=2.13), [2.16, eerste, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023698&artikel=2.16), [2.18](https://wetten.overheid.nl/jci1.3:c:BWBR0023698&artikel=2.18), [2.19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023698&artikel=2.19), [2.22, eerste lid, onderdeel a, tweed en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023698&artikel=2.22), [2.24, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023698&artikel=2.24)[3.02, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023698&artikel=3.02), [3.03, eerste lid, tweede lid, derde lid, voor zover het de Nederlandse erkenning betreft, en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023698&artikel=3.03), [3.05, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023698&artikel=3.05), [3.06](https://wetten.overheid.nl/jci1.3:c:BWBR0023698&artikel=3.06) en [3.08](https://wetten.overheid.nl/jci1.3:c:BWBR0023698&artikel=3.08)
 
-[1.03](https://wetten.overheid.nl/jci1.3:c:BWBR0010915&artikel=1.03);
+- 2. De Inspecteur-generaal Verkeer en Waterstaat in [artikel 2.09, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023698&artikel=2.09).
 
-[1.04](https://wetten.overheid.nl/jci1.3:c:BWBR0010915&artikel=1.04);
-
-[2.02, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010915&artikel=2.02);
-
-[3.01, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010915&artikel=3.01);
-
-[3.03, tweede lid, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010915&artikel=3.03), voor zover het de Nederlandse erkenning betreft, en [vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010915&artikel=3.03);
-
-[3.04, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010915&artikel=3.04);
-
-[3.05](https://wetten.overheid.nl/jci1.3:c:BWBR0010915&artikel=3.05);
-
-[3.06](https://wetten.overheid.nl/jci1.3:c:BWBR0010915&artikel=3.06).
+- 3. De in het [Besluit aanwijzing handhavingsambtenaren Herziene Rijnvaartakte](https://wetten.overheid.nl/jci1.3:c:BWBR0014011) aangewezen ambtenaren en de ambtenaren, bedoeld in [artikel 3, eerste lid, aanhef en onderdeel a, van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=3) in [artikel 2.26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023698&artikel=2.26).
 
 ##### Artikel 2
 
-Als bevoegde autoriteiten, bedoeld in het [Reglement Rijnpatenten 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0008934), worden aangewezen:
-
-- 1. De Minister van Verkeer en Waterstaat in de artikelen: [1.03, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0008934&artikel=1.03); [1.05](https://wetten.overheid.nl/jci1.3:c:BWBR0008934&artikel=1.05); [1.06](https://wetten.overheid.nl/jci1.3:c:BWBR0008934&artikel=1.06); [2.01, tweede lid, onder a en derde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0008934&artikel=2.01); [2.02, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0008934&artikel=2.02); [2.03, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0008934&artikel=2.03); [2.05, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0008934&artikel=2.05); [3.01, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008934&artikel=3.01); [3.02, eerste lid, tweede lid, onder b en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008934&artikel=3.02); [3.03, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008934&artikel=3.03); [3.06, eerste, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008934&artikel=3.06); [3.07](https://wetten.overheid.nl/jci1.3:c:BWBR0008934&artikel=3.07); [4.01, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008934&artikel=4.01); [4.02, eerste lid, onder a, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008934&artikel=4.02); [4.03, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008934&artikel=4.03); [5.02, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008934&artikel=5.02);
-
-- 2. De Inspecteur-Generaal Verkeer en Waterstaat in [artikel 2.06, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008934&artikel=2.06).
-
-- 3. De in het Besluit aanwijzing handhavingsambtenaren Herziene Rijnvaartakte aangewezen ambtenaren en de ambtenaren, bedoeld in [artikel 3, eerste lid, aanhef en onderdeel a, van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=3) in [artikel 4.04, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008934&artikel=4.04).
+Vervallen
 
 ##### Artikel 3
 
