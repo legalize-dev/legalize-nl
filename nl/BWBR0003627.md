@@ -4,7 +4,7 @@ identifier: "BWBR0003627"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-01-01"
-last_updated: "2006-03-08"
+last_updated: "2008-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003627"
 soort: "AMvB"
@@ -108,7 +108,7 @@ Vervallen
 
 ##### Artikel 7
 
-De besluiten, bedoeld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0003627&artikel=4&z=2006-03-08&g=2006-03-08) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0003627&artikel=5&z=2006-03-08&g=2006-03-08) worden in de **Staatscourant** geplaatst.
+De besluiten, bedoeld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0003627&artikel=4&z=2008-04-01&g=2008-04-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0003627&artikel=5&z=2008-04-01&g=2008-04-01) worden in de **Staatscourant** geplaatst.
 
 ##### Artikel 7a
 
