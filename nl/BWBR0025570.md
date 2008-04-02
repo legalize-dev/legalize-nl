@@ -4,7 +4,7 @@ identifier: "BWBR0025570"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2012-10-01"
-last_updated: "2008-04-01"
+last_updated: "2008-04-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025570"
 soort: "ministeriele-regeling"
@@ -54,6 +54,10 @@ Besluit:
 
 Dit onderdeel is nog niet inwerking getreden
 
+## Bijlage 1
+
+Dit onderdeel is nog niet inwerking getreden
+
 ## Bijlage 2
 
 Dit onderdeel is nog niet inwerking getreden
@@ -66,6 +70,14 @@ Dit onderdeel is nog niet inwerking getreden
 
 Dit onderdeel is nog niet inwerking getreden
 
+##### Artikel 58
+
+Wijzigt de Regeling aanwijzing categorieën duurzame energieproductie 2008.
+
+#### § 5. Slotbepalingen
+
 ## Bijlage 5
 
 Dit onderdeel is nog niet inwerking getreden
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de bijlagen, die ter inzage worden gelegd bij SenterNovem, Dokter van Deenweg 108, 8025 BK Zwolle.
