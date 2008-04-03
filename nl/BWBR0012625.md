@@ -4,7 +4,7 @@ identifier: "BWBR0012625"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2013-01-01"
-last_updated: "2007-01-01"
+last_updated: "2008-04-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012625"
 soort: "ministeriele-regeling"
@@ -66,11 +66,13 @@ Besluit:
 
 2. Een geneeskundig onderzoek kan achterwege worden gelaten, indien:
 
-- a. aan de aanvrager eerder een gehandicaptenparkeerkaart is verstrekt en de keurende instantie van oordeel is dat de aanvrager nog steeds voldoet aan de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012625&paragraaf=1&artikel=1&z=2007-01-01&g=2007-01-01) omschreven criteria;
+- a. aan de aanvrager eerder een gehandicaptenparkeerkaart is verstrekt en aan de verstrekkende instantie bekend is dat de aanvrager nog steeds voldoet aan de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012625&paragraaf=1&artikel=1&z=2008-04-03&g=2008-04-03) omschreven criteria;
 
-- b. op grond van [artikel 49, derde lid, van het BABW](https://wetten.overheid.nl/jci1.3:c:BWBR0004826&artikel=49) een gehandicaptenparkeerkaart wordt verstrekt in verband met een kortstondig verblijf.
+- b. aan de aanvrager eerder een gehandicaptenparkeerkaart is verstrekt en de keurende instantie van oordeel is dat de aanvrager nog steeds voldoet aan de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012625&paragraaf=1&artikel=1&z=2008-04-03&g=2008-04-03) omschreven criteria;
 
-3. Een geneeskundig onderzoek wordt achterwege gelaten indien een gehandicaptenparkeerkaart is aangevraagd door het bestuur van een instelling als bedoeld in [artikel 1, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0012625&paragraaf=1&artikel=1&z=2007-01-01&g=2007-01-01).
+- c. op grond van [artikel 49, derde lid, van het BABW](https://wetten.overheid.nl/jci1.3:c:BWBR0004826&artikel=49) een gehandicaptenparkeerkaart wordt verstrekt in verband met een kortstondig verblijf.
+
+3. Een geneeskundig onderzoek wordt achterwege gelaten indien een gehandicaptenparkeerkaart is aangevraagd door het bestuur van een instelling als bedoeld in [artikel 1, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0012625&paragraaf=1&artikel=1&z=2008-04-03&g=2008-04-03).
 
 ##### Artikel 3
 
