@@ -4,7 +4,7 @@ identifier: "BWBR0023735"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2008-04-09"
-last_updated: "2008-04-01"
+last_updated: "2008-04-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023735"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ Wijzigt de Beleidsregels inzake de toepassing van de Wet beheer rijkswaterstaats
 
 ##### Artikel II
 
-[Artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0023735&artikel=I&z=2008-04-09&g=2008-04-01) is tot en met 28 februari 2009 niet van toepassing op een aanvraag die gepaard gaat met de gegevens en bescheiden, bedoeld in [artikel 4, eerste en vierde lid, van de Beleidsregels inzake de toepassing van de Wet beheer rijkswaterstaatswerken op installaties in de exclusieve economische zone](https://wetten.overheid.nl/jci1.3:c:BWBR0017805&artikel=4), voor een activiteit ten aanzien waarvan vóór 1 april 2008 een schriftelijke mededeling als bedoeld in [artikel 7.12, eerste lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=7.12), is gedaan aan de Minister van Verkeer en Waterstaat.
+[Artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0023735&artikel=I&z=2008-04-09&g=2008-04-09) is tot en met 28 februari 2009 niet van toepassing op een aanvraag die gepaard gaat met de gegevens en bescheiden, bedoeld in [artikel 4, eerste en vierde lid, van de Beleidsregels inzake de toepassing van de Wet beheer rijkswaterstaatswerken op installaties in de exclusieve economische zone](https://wetten.overheid.nl/jci1.3:c:BWBR0017805&artikel=4), voor een activiteit ten aanzien waarvan vóór 1 april 2008 een schriftelijke mededeling als bedoeld in [artikel 7.12, eerste lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=7.12), is gedaan aan de Minister van Verkeer en Waterstaat.
 
 ##### Artikel III
 
