@@ -4,7 +4,7 @@ identifier: "BWBR0020565"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2016-04-20"
-last_updated: "2007-02-01"
+last_updated: "2008-04-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020565"
 soort: "ministeriele-regeling"
@@ -46,11 +46,11 @@ Het model van het merkteken, bedoeld in [artikel 20, eerste lid, van het Meetins
 
 - a. het merk van goedkeuring, bestaande uit de laatste twee cijfers van het jaartal van het lopende jaar, gevat in een kader van de vorm die is weergegeven in bijlage I van deze regeling;
 
-- b. het kenmerk van een aangewezen instantie of persoon die beschikt over een erkenning als bedoeld in [artikel 11 van de Metrologiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&artikel=11), bestaande uit een in een kader gevat vierkant, onderverdeeld in 16 gelijke vierkanten, zoals weergegeven in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0020565&bijlage=II&z=2007-02-01&g=2007-02-01) van deze regeling, met daarin aangebracht de markering die de desbetreffende instantie of erkende persoon identificeert.
+- b. het kenmerk van een aangewezen instantie of persoon die beschikt over een erkenning als bedoeld in [artikel 11 van de Metrologiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&artikel=11), bestaande uit een in een kader gevat vierkant, onderverdeeld in 16 gelijke vierkanten, zoals weergegeven in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0020565&bijlage=II&z=2008-04-11&g=2008-04-11) van deze regeling, met daarin aangebracht de markering die de desbetreffende instantie of erkende persoon identificeert.
 
 ##### Artikel 2
 
-Het model van de Nederlandse metrologische markering, bedoeld in [artikel 18, eerste lid, van het Meetinstrumentenbesluit II](https://wetten.overheid.nl/jci1.3:c:BWBR0020554&artikel=18) bestaat uit het in [artikel 1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020565&artikel=1&z=2007-02-01&g=2007-02-01), bedoelde merk van goedkeuring.
+Het model van de Nederlandse metrologische markering, bedoeld in [artikel 18, eerste lid, van het Meetinstrumentenbesluit II](https://wetten.overheid.nl/jci1.3:c:BWBR0020554&artikel=18) bestaat uit het in [artikel 1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020565&artikel=1&z=2008-04-11&g=2008-04-11), bedoelde merk van goedkeuring.
 
 ##### Artikel 3
 
@@ -58,7 +58,7 @@ Het model van het afkeurmerkteken, bedoeld in [artikel 34, tweede lid, van de Me
 
 ##### Artikel 4
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst, met uitzondering van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0020565&artikel=2&z=2007-02-01&g=2007-02-01), dat in werking treedt op het tijdstip waarop [artikel 18 van het Meetinstrumentenbesluit II](https://wetten.overheid.nl/jci1.3:c:BWBR0020554&artikel=18) in werking treedt.
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst, met uitzondering van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0020565&artikel=2&z=2008-04-11&g=2008-04-11), dat in werking treedt op het tijdstip waarop [artikel 18 van het Meetinstrumentenbesluit II](https://wetten.overheid.nl/jci1.3:c:BWBR0020554&artikel=18) in werking treedt.
 
 ##### Artikel 5
 
@@ -68,8 +68,18 @@ Deze regeling wordt aangehaald als: Regeling metrologische merktekens.
 
 Het kader voor het merk van goedkeuring, bedoeld in [artikel 1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020565&artikel=1&z=2007-02-01&g=2007-02-01).
 
+## Bijlage I
+
+Het kader voor het merk van goedkeuring, bedoeld in [artikel 1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020565&artikel=1&z=2008-04-11&g=2008-04-11).
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 3a
+
+Het merkteken, bedoeld in [artikel 20, eerste lid, van het Meetinstrumentenbesluit I](https://wetten.overheid.nl/jci1.3:c:BWBR0019897&artikel=20) en [artikel 19, eerste lid, van het Meetinstrumentenbesluit II](https://wetten.overheid.nl/jci1.3:c:BWBR0020554&artikel=19) wordt duidelijk zichtbaar, gemakkelijk leesbaar en duurzaam op het meetinstrument aangebracht. Wanneer een meetinstrument te klein of te gevoelig is om de markering daarop aan te brengen wordt de markering aangebracht op de eventuele verpakking en op de documenten die bij het meetinstrument zijn gevoegd.
+
 ## Bijlage II
 
-Het kenmerk, bedoeld in [artikel 1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0020565&artikel=1&z=2007-02-01&g=2007-02-01).
+Het kenmerk, bedoeld in [artikel 1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0020565&artikel=1&z=2008-04-11&g=2008-04-11).
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
