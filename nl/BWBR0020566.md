@@ -4,7 +4,7 @@ identifier: "BWBR0020566"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2006-11-29"
+last_updated: "2008-04-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020566"
 soort: "ministeriele-regeling"
@@ -128,7 +128,15 @@ Indien ten aanzien van het gebruik een specifieke nauwkeurigheidsklasse voor een
 
 ##### Artikel 9
 
-Vloeistofmeetinstallaties voldoen na ingebruikneming aan de toepasselijke essentiële eisen van bijlage MI-005 van de richtlijn meetinstrumenten.
+1. Vloeistofmeetinstallaties voldoen na ingebruikneming aan de toepasselijke essentiële eisen van bijlage MI-005 van de richtlijn meetinstrumenten.
+
+2. Vloeistofmeetinstallaties die voor 1 januari 2009 ingevolge [artikel 45 van de Metrologiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&artikel=45) rechtmatig in gebruik zijn genomen, voldoen aan het ingevolge [artikel 11a van de IJkwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009082&artikel=11a) toegelaten model van de installaties, zoals aangepast volgens een aanhangsel bij de verklaring van toelating van het model, mits
+
+- a. de aanpassing noodzakelijk is als gevolg van ontwikkelingen in andere regelgeving dan bij of krachtens de Metrologiewet is vastgesteld of van ontwikkelingen in het betalingsverkeer,
+
+- b. het model nog steeds voldoet aan de eisen zoals die op grond van de [IJkwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009082) waren gesteld en
+
+- c. het model met goed gevolg een onderzoek heeft ondergaan overeenkomstig beoordelingsprocedurebijlage B of beoordelingsprocedurebijlage G en de daarbij van toepassing zijnde voorschriften van de [bijlage bedoeld in artikel 10 van het Meetinstrumentenbesluit II](onbekend).
 
 ##### Artikel 10
 
