@@ -4,7 +4,7 @@ identifier: "BWBR0023039"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2008-04-11"
-last_updated: "2008-04-01"
+last_updated: "2008-04-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023039"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ In dit besluit wordt verstaan onder:
 
 - a. de Minister: de Minister van Volksgezondheid, Welzijn en Sport;
 
-- b. de Toetsingscommissie: de Toetsingscommissie Getuigen Verhalen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023039&artikel=2&z=2007-12-20&g=2008-04-01).
+- b. de Toetsingscommissie: de Toetsingscommissie Getuigen Verhalen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023039&artikel=2&z=2008-04-11&g=2008-04-11).
 
 ##### Artikel 2
 
@@ -60,7 +60,7 @@ Het advies wordt zo mogelijk unaniem vastgesteld. Het is toegestaan dat één li
 
 ##### Artikel 5
 
-1. De Toetsingscommissie bestaat uit een voorzitter en twee leden.
+1. De Toetsingscommissie bestaat uit een voorzitter en ten hoogste drie leden.
 
 2. De Minister benoemt en ontslaat de voorzitter en de leden van de Toetsingscommissie.
 
@@ -80,7 +80,9 @@ Tot lid van de Toetsingscommissie worden benoemd:
 
 - –. mevrouw drs. E.M.J.M. Buchheim, te Utrecht;
 
-- –. de heer dr. G.I.J. Steijlen, te Amsterdam.
+- –. de heer dr. G.I.J. Steijlen, te Amsterdam;
+
+- –. mevrouw K.L. Polak, te Amsterdam.
 
 ##### Artikel 8
 
