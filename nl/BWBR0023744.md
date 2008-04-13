@@ -4,7 +4,7 @@ identifier: "BWBR0023744"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2009-04-25"
-last_updated: "2008-04-01"
+last_updated: "2008-04-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023744"
 soort: "ministeriele-regeling"
@@ -98,7 +98,7 @@ De Taskforce DeeltijdPlus heeft tot doel te bevorderen dat de omvang van de arbe
 
 2. Het beheer van de bescheiden betreffende de werkzaamheden van de Taskforce DeeltijdPlus geschiedt op overeenkomstige wijze als bij het Ministerie.
 
-3. De bescheiden worden na afloop van de periode, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023744&artikel=2&z=2008-04-13&g=2008-04-01), opgenomen in het archief van het Ministerie.
+3. De bescheiden worden na afloop van de periode, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023744&artikel=2&z=2008-04-13&g=2008-04-13), opgenomen in het archief van het Ministerie.
 
 ##### Artikel 8. Reglement
 
