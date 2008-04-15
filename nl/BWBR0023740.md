@@ -57,9 +57,3 @@ Deze regeling treedt in werking met ingang van 15 april 2008.
 Deze regeling wordt aangehaald als: Regeling nadere beroepsvereisten rechterlijke ambtenaren bij het openbaar ministerie.
 
 Deze regeling zal met de toelichting in de Staatscourant geplaatst worden.
-
-##### Artikel 1a
-
-Deze regeling berust op [artikel 2a, vijfde lid, van het Besluit rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&artikel=2a).
-
-Deze regeling zal met de toelichting in de Staatscourant geplaatst worden.
