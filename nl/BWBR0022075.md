@@ -4,7 +4,7 @@ identifier: "BWBR0022075"
 country: "nl"
 rank: "wet"
 publication_date: "2009-05-02"
-last_updated: "2007-12-29"
+last_updated: "2008-04-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022075"
 soort: "wet"
@@ -77,35 +77,35 @@ De reglementen voor de waterschappen worden in overeenstemming gebracht met het 
 
 ##### Artikel VII
 
-Ten aanzien van de leden van het algemeen bestuur en het dagelijks bestuur die hun functie bekleden op de datum van inwerkingtreding van deze wet, zijn tot hun aftreden [artikel I, onderdelen F en O](https://wetten.overheid.nl/jci1.3:c:BWBR0022075&artikel=I&z=2007-12-29&g=2007-12-29), niet van toepassing.
+Ten aanzien van de leden van het algemeen bestuur en het dagelijks bestuur die hun functie bekleden op de datum van inwerkingtreding van deze wet, zijn tot hun aftreden [artikel I, onderdelen F en O](https://wetten.overheid.nl/jci1.3:c:BWBR0022075&artikel=I&z=2008-04-16&g=2008-04-16), niet van toepassing.
 
 ##### Artikel VIII
 
-1. De in [artikel I, onderdeel G](https://wetten.overheid.nl/jci1.3:c:BWBR0022075&artikel=I&z=2007-12-29&g=2007-12-29), bedoelde gedragscodes worden vastgesteld binnen een jaar na de datum van inwerkingtreding van [artikel I, onderdeel F](https://wetten.overheid.nl/jci1.3:c:BWBR0022075&artikel=I&z=2007-12-29&g=2007-12-29), van deze wet.
+1. De in [artikel I, onderdeel G](https://wetten.overheid.nl/jci1.3:c:BWBR0022075&artikel=I&z=2008-04-16&g=2008-04-16), bedoelde gedragscodes worden vastgesteld binnen een jaar na de datum van inwerkingtreding van [artikel I, onderdeel F](https://wetten.overheid.nl/jci1.3:c:BWBR0022075&artikel=I&z=2008-04-16&g=2008-04-16), van deze wet.
 
 2. Het algemeen bestuur van een waterschap kan besluiten de in het eerste lid genoemde termijn met ten hoogste een jaar te verlengen.
 
 ##### Artikel IX
 
-Afdelingen die zijn ingesteld op grond van [artikel 52 van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=52) zoals dat luidde onmiddellijk voorafgaand aan de datum van inwerkingtreding van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0022075&artikel=I&z=2007-12-29&g=2007-12-29) van deze wet, en waaraan voor deze datum bevoegdheden zijn overgedragen, kunnen deze bevoegdheden tot uiterlijk 8 januari 2009 blijven uitoefenen, of bij eerdere opheffing van de afdeling, tot de datum van opheffing.
+Afdelingen die zijn ingesteld op grond van [artikel 52 van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=52) zoals dat luidde onmiddellijk voorafgaand aan de datum van inwerkingtreding van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0022075&artikel=I&z=2008-04-16&g=2008-04-16) van deze wet, en waaraan voor deze datum bevoegdheden zijn overgedragen, kunnen deze bevoegdheden tot uiterlijk 8 januari 2009 blijven uitoefenen, of bij eerdere opheffing van de afdeling, tot de datum van opheffing.
 
 ##### Artikel X
 
-1. De verordeningen, bedoeld in de [artikelen 108](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=108) en [109 van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=109), zoals deze luiden met ingang van de inwerkingtreding van [artikel I, onderdeel AB](https://wetten.overheid.nl/jci1.3:c:BWBR0022075&artikel=I&z=2007-12-29&g=2007-12-29), worden vastgesteld vóór de vaststelling van de begroting over het jaar 2009.
+1. De verordeningen, bedoeld in de [artikelen 108](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=108) en [109 van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=109), zoals deze luiden met ingang van de inwerkingtreding van [artikel I, onderdeel AB](https://wetten.overheid.nl/jci1.3:c:BWBR0022075&artikel=I&z=2008-04-16&g=2008-04-16), worden vastgesteld vóór de vaststelling van de begroting over het jaar 2009.
 
-2. De accountantsverklaring en het verslag van bevindingen, bedoeld in [artikel 109 van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=109), zoals dat luidt met ingang van de inwerkingtreding van [artikel I, onderdeel AB](https://wetten.overheid.nl/jci1.3:c:BWBR0022075&artikel=I&z=2007-12-29&g=2007-12-29), voldoen met ingang van het begrotingsjaar 2009 aan de in of krachtens dit onderdeel gestelde eisen.
+2. De accountantsverklaring en het verslag van bevindingen, bedoeld in [artikel 109 van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=109), zoals dat luidt met ingang van de inwerkingtreding van [artikel I, onderdeel AB](https://wetten.overheid.nl/jci1.3:c:BWBR0022075&artikel=I&z=2008-04-16&g=2008-04-16), voldoen met ingang van het begrotingsjaar 2009 aan de in of krachtens dit onderdeel gestelde eisen.
 
-3. Tot en met de jaarrekening over het jaar 2008 blijven de [artikelen 106](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=106) en [107 van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=107), zoals die luidden onmiddellijk voorafgaande aan de datum van inwerkingtreding van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0022075&artikel=I&z=2007-12-29&g=2007-12-29) van deze wet, van toepassing op de vaststelling van de jaarrekening.
+3. Tot en met de jaarrekening over het jaar 2008 blijven de [artikelen 106](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=106) en [107 van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=107), zoals die luidden onmiddellijk voorafgaande aan de datum van inwerkingtreding van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0022075&artikel=I&z=2008-04-16&g=2008-04-16) van deze wet, van toepassing op de vaststelling van de jaarrekening.
 
 ##### Artikel XI
 
-1. De verordeningen, bedoeld in de [artikelen 120, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=120), [122b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=122b), en [122g van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=122g), zoals deze luiden met ingang van de inwerkingtreding van [artikel I, onderdelen AF en AG](https://wetten.overheid.nl/jci1.3:c:BWBR0022075&artikel=I&z=2007-12-29&g=2007-12-29), worden vastgesteld vóór de vaststelling van de begroting over het jaar 2009.
+1. De verordeningen, bedoeld in de [artikelen 120, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=120), [122b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=122b), en [122g van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=122g), zoals deze luiden met ingang van de inwerkingtreding van [artikel I, onderdelen AF en AG](https://wetten.overheid.nl/jci1.3:c:BWBR0022075&artikel=I&z=2008-04-16&g=2008-04-16), worden vastgesteld vóór de vaststelling van de begroting over het jaar 2009.
 
-2. De verordeningen, bedoeld in de [artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWBR0002682&artikel=20), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0002682&artikel=22) en [26 van de Wet verontreiniging oppervlaktewateren](https://wetten.overheid.nl/jci1.3:c:BWBR0002682&artikel=26), zoals deze luiden met ingang van de inwerkingtreding van [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0022075&artikel=II&z=2007-12-29&g=2007-12-29) van deze wet, worden vastgesteld vóór de vaststelling van de begroting over het jaar 2009.
+2. De verordeningen, bedoeld in de [artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWBR0002682&artikel=20), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0002682&artikel=22) en [26 van de Wet verontreiniging oppervlaktewateren](https://wetten.overheid.nl/jci1.3:c:BWBR0002682&artikel=26), zoals deze luiden met ingang van de inwerkingtreding van [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0022075&artikel=II&z=2008-04-16&g=2008-04-16) van deze wet, worden vastgesteld vóór de vaststelling van de begroting over het jaar 2009.
 
 ##### Artikel XII
 
-Ten aanzien van belastingen die betrekking hebben op belastingtijdvakken die zijn aangevangen vóór 1 januari 2009, en op belastbare feiten die zich voor dat tijdstip hebben voorgedaan, blijven [hoofdstuk XVII van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&hoofdstuk=XVII) en [hoofdstuk IV van de Wet verontreiniging oppervlaktewateren](https://wetten.overheid.nl/jci1.3:c:BWBR0002682&hoofdstuk=IV) van toepassing zoals deze luidden voor de inwerkingtreding van [artikel I, onderdeel AF](https://wetten.overheid.nl/jci1.3:c:BWBR0022075&artikel=I&z=2007-12-29&g=2007-12-29), onderscheidenlijk [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0022075&artikel=II&z=2007-12-29&g=2007-12-29) van deze wet.
+Ten aanzien van belastingen die betrekking hebben op belastingtijdvakken die zijn aangevangen vóór 1 januari 2009, en op belastbare feiten die zich voor dat tijdstip hebben voorgedaan, blijven [hoofdstuk XVII van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&hoofdstuk=XVII) en [hoofdstuk IV van de Wet verontreiniging oppervlaktewateren](https://wetten.overheid.nl/jci1.3:c:BWBR0002682&hoofdstuk=IV) van toepassing zoals deze luidden voor de inwerkingtreding van [artikel I, onderdeel AF](https://wetten.overheid.nl/jci1.3:c:BWBR0022075&artikel=I&z=2008-04-16&g=2008-04-16), onderscheidenlijk [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0022075&artikel=II&z=2008-04-16&g=2008-04-16) van deze wet.
 
 ##### Artikel XIII
 
