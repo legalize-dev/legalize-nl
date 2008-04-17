@@ -4,7 +4,7 @@ identifier: "BWBR0019569"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-12-16"
-last_updated: "2006-03-15"
+last_updated: "2008-04-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019569"
 soort: "ministeriele-regeling"
@@ -50,7 +50,7 @@ Besluit:
 
 - b. deelnemer: de vreemdeling die zich voor het basisexamen heeft aangemeld;
 
-- c. hoofd: het hoofd van de Nederlandse diplomatieke of consulaire vertegenwoordiging waar het basisexamen wordt afgenomen;
+- c. hoofd: het hoofd van de Nederlandse diplomatieke of consulaire vertegenwoordiging waar het basisexamen wordt afgenomen of het hoofd consulaire zaken van deze vertegenwoordiging;
 
 - d. toezichthouder: de door het hoofd aangewezen ambtenaar, medewerker, autoriteit of instelling, onder wiens toezicht het basisexamen wordt afgelegd.
 
@@ -66,7 +66,7 @@ Besluit:
 
 ##### Artikel 3. Gang van zaken voor en tijdens het examen
 
-1. De deelnemer meldt zich onder medebrenging van het referentienummer, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019569&artikel=2&z=2006-03-15&g=2006-03-15), en het identiteitsdocument, bedoeld in [artikel 3.98b, derde lid, van het Vreemdelingenbesluit 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.98b), ten minste vijftien minuten voor aanvang van het basisexamen op de door het hoofd aangegeven examenlocatie.
+1. De deelnemer meldt zich onder medebrenging van het referentienummer, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019569&artikel=2&z=2008-04-17&g=2008-04-17), en het identiteitsdocument, bedoeld in [artikel 3.98b, derde lid, van het Vreemdelingenbesluit 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.98b), ten minste vijftien minuten voor aanvang van het basisexamen op de door het hoofd aangegeven examenlocatie.
 
 2. Voor de aanvang van het basisexamen draagt de toezichthouder zorg voor:
 
