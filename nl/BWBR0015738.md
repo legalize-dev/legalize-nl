@@ -4,7 +4,7 @@ identifier: "BWBR0015738"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-02"
-last_updated: "2008-01-01"
+last_updated: "2008-04-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0015738"
 soort: "ministeriele-regeling"
@@ -62,7 +62,7 @@ In deze regeling wordt verstaan onder:
 
 3. Indien de bijlage, bedoeld in het eerste lid, en de verklaring, bedoeld in het tweede lid, niet door de Minister van Binnenlandse Zaken en Koninkrijksrelaties zijn ontvangen uiterlijk op 15 juli van het kalenderjaar volgend op het kalenderjaar waarop zij betrekking hebben, schort de minister de betaling van de uitkeringen, bedoeld in [artikel 69, eerste lid, onderdelen a en b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=69) voor het lopende vergoedingsjaar op met ingang van 15 augustus van dat jaar, doch niet gedurende de periode waarover de Minister van Binnenlandse Zaken en Koninkrijksrelaties uitstel heeft verleend.
 
-4. De betaling van de uitkeringen, bedoeld in [artikel 69, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=69), wordt hervat op de vijftiende van de kalendermaand volgend op de kalendermaand waarin de bijlage en de verklaring, bedoeld in het eerste en tweede lid, zijn ontvangen door de Minister van Binnenlandse Zaken en Koninkrijksrelaties.
+4. De betaling van de uitkeringen, bedoeld in [artikel 69, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=69), wordt hervat op de vijftiende van de kalendermaand volgend op de kalendermaand waarin de bijlage en de verklaring, bedoeld in het eerste en tweede lid, zijn ontvangen door de Minister van Binnenlandse Zaken en Koninkrijksrelaties maar niet eerder dan 15 september van het kalenderjaar volgend op het kalenderjaar waarop zij betrekking hebben.
 
 5. Het derde en vierde lid zijn van overeenkomstige toepassing, indien het college in gebreke blijft om binnen een door de minister vastgestelde termijn aanvullende informatie te verstrekken noodzakelijk voor het financieel beheer van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703).
 
@@ -144,7 +144,7 @@ Deze paragraaf is van toepassing op de vaststelling van de aanspraak op vakantie
 
 ##### Artikel 10. In aanmerking te nemen vakantietoeslag
 
-Indien over het inkomen van de belanghebbende aanspraak op vakantietoeslag bestaat neemt het college bij de vaststelling van de hoogte van de algemene bijstand mede op grond van de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=11&z=2008-01-01&g=2008-01-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=12&z=2008-01-01&g=2008-01-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=13&z=2008-01-01&g=2008-01-01) of [14](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=14&z=2008-01-01&g=2008-01-01) berekende aanspraak op vakantietoeslag in aanmerking.
+Indien over het inkomen van de belanghebbende aanspraak op vakantietoeslag bestaat neemt het college bij de vaststelling van de hoogte van de algemene bijstand mede op grond van de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=11&z=2008-04-20&g=2008-04-20), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=12&z=2008-04-20&g=2008-04-20), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=13&z=2008-04-20&g=2008-04-20) of [14](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=14&z=2008-04-20&g=2008-04-20) berekende aanspraak op vakantietoeslag in aanmerking.
 
 ##### Artikel 11. Vakantieaanspraak voor personen jonger dan 65 jaar met inkomen uit tegenwoordige arbeid
 
@@ -288,7 +288,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met ui
 
 ##### Artikel 7a. Indexering
 
-1. Met ingang van de dag waarop de bedragen, genoemd in [artikel 2, zesde lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=2) wijzigen, worden de bedragen, genoemd in [artikel 7, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=5&artikel=7&z=2008-01-01&g=2008-01-01), herzien met het percentage van deze wijziging.
+1. Met ingang van de dag waarop de bedragen, genoemd in [artikel 2, zesde lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=2) wijzigen, worden de bedragen, genoemd in [artikel 7, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=5&artikel=7&z=2008-04-20&g=2008-04-20), herzien met het percentage van deze wijziging.
 
 2. Van de herziene bedragen, bedoeld in het eerste lid, en van de dag waarop de herziening plaatsvindt wordt door de minister mededeling gedaan in de Staatscourant.
 
