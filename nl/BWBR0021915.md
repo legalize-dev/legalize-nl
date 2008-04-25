@@ -4,7 +4,7 @@ identifier: "BWBR0021915"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-01"
-last_updated: "2008-03-01"
+last_updated: "2008-04-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0021915"
 soort: "ministeriele-regeling"
@@ -98,13 +98,15 @@ De Minister van Volksgezondheid, Welzijn en Sport houdt een openbaar register bi
 
 - b. € 313,37 voor een vergunning voor het gebruik van pigmenteerpen;
 
-- c. € 179,07 voor een vergunning voor het gebruik van piercingmateriaal ten behoeve van het aanbrengen van een piercing in het vlakke gedeelte van het kraakbeen van het oor of de neusvleugel;
+- c. € 358,15 voor het gebruik van ander tatoeagemateriaal als bedoeld onder a en b;
 
-- d. € 358,15 voor een vergunning voor het gebruik van een naald ten behoeve van het aanbrengen van een piercing;
+- d. € 179,07 voor een vergunning voor het gebruik van piercingmateriaal ten behoeve van het aanbrengen van een piercing in het vlakke gedeelte van het kraakbeen van het oor of de neusvleugel;
 
-- e. € 447,68, indien:
+- e. € 358,15 voor een vergunning voor het gebruik van een naald ten behoeve van het aanbrengen van een piercing;
 
-- –. de aanvraag betrekking heeft op twee of meer vormen van gebruik van tatoeage- of piercingmateriaal als bedoeld in de onderdelen a tot en met d, en
+- f. € 447,68, indien:
+
+- –. de aanvraag betrekking heeft op twee of meer vormen van gebruik van tatoeage- of piercingmateriaal als bedoeld in de onderdelen a tot en met e, en
 
 - –. die vormen van gebruik betrekking hebben op dezelfde ruimte.
 
@@ -132,7 +134,7 @@ De Minister van Volksgezondheid, Welzijn en Sport houdt een openbaar register bi
 
 ##### Artikel 7
 
-Als ambtenaren belast met het toezicht op de nalevering van [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=24) en op de naleving van het bepaalde bij of krachtens het [Warenwetbesluit tatoeëren en piercen](https://wetten.overheid.nl/jci1.3:c:BWBR0021605), worden aangewezen de ambtenaren werkzaam bij de GGD’en.
+Als ambtenaren belast met het toezicht op de naleving van [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=24) en op de naleving van het bepaalde bij of krachtens het [Warenwetbesluit tatoeëren en piercen](https://wetten.overheid.nl/jci1.3:c:BWBR0021605), worden aangewezen de ambtenaren werkzaam bij de GGD’en.
 
 ##### Artikel 8
 
@@ -141,5 +143,11 @@ Deze regeling treedt in werking met ingang van 1 juni 2007.
 ##### Artikel 9
 
 Deze regeling wordt aangehaald als: Warenwetregeling tatoeëren en piercen.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 4a
+
+In de vergunning worden de materialen vermeld, waarvoor de vergunning wordt verleend.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
