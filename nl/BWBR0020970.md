@@ -4,7 +4,7 @@ identifier: "BWBR0020970"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-08-01"
-last_updated: "2006-01-01"
+last_updated: "2008-04-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020970"
 soort: "ministeriele-regeling"
@@ -56,7 +56,11 @@ Als personen, belast met het toezicht op de naleving van het bepaalde bij of kra
 
 - –. de als secretaris-jurist benoemde medewerker.
 
-- b. van het College sanering zorginstellingen, voor zover het betreft de [artikelen 17, eerste en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=17), en [18, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=18):
+- b. van het College sanering zorginstellingen, voor zover het betreft:
+
+- 1°. de [artikelen 17, eerste en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=17), en [18, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=18);
+
+- 2°. de aan de toelating verbonden voorschriften inzake behoud van waarde van onroerende zaken voor de zorg:
 
 - –. de bestuursleden van het college;
 
